@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# Laudatti <Laudatti@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -44,3 +57,5 @@
 <!ENTITY calendar.subscriptions.dialog.unsubscribe.button.label         "Dezabonare">
 <!ENTITY calendar.subscriptions.dialog.statusmessage.busy.label         "Caută…">
 <!ENTITY calendar.subscriptions.dialog.statusmessage.nomatches.label    "Nu s-a găsit nimic potrivit căutării.">
+
+

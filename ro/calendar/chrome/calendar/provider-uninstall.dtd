@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -42,3 +54,5 @@
 <!ENTITY providerUninstall.preName.label                   "Ați cerut să dezinstalați sau să dezactivați:">
 <!ENTITY providerUninstall.postName.label                  "Acest lucru va dezactiva calendarele de mai jos.">
 <!ENTITY providerUninstall.reinstallNote.label             "Dacă nu plănuiți să reinstalați acest furnizor, ați putea dori să vă dezabonați de la calendarele acestui furnizor.">
+
+

@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# Laudatti <Laudatti@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -66,3 +79,5 @@
 <!ENTITY pref.defalarmlen4todos.accesskey "o">
 <!ENTITY pref.defaultemail.label "Adresa la care se trimit alarmele:">
 <!ENTITY pref.defaulttext.label "Textul implicit pentru alarme:">
+
+

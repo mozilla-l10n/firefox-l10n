@@ -1,3 +1,18 @@
+<!--
+# Translator(s):
+#
+# Laudatti <Laudatti@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
+# strainu <crangasi2001@yahoo.com>
+# Nicu <kneekoo@yahoo.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -164,6 +179,9 @@
 <!ENTITY updateCmd.label                                   "Caută actualizări...">
 <!ENTITY updateCmd.accesskey                               "C">
 
+<!ENTITY sunbird.export.calendar.label                     "Exportă calendarul…">
+<!ENTITY sunbird.export.calendar.accesskey                 "E">
+
 <!-- Mac OS X "Window" menu items -->
 <!ENTITY windowMenu.label                                  "Fereastră">
 <!ENTITY minimizeWindow.label                              "Minimizează">
@@ -180,3 +198,5 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey                    "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers                     "accel,alt">
 <!ENTITY showAllAppsCmdMac.label                           "Arată-le pe toate">
+
+
