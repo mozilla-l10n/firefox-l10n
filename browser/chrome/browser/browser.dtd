@@ -86,6 +86,8 @@
 <!ENTITY forwardCmd.label "Siguiente">
 <!ENTITY forwardCmd.accesskey "g">
 <!ENTITY forwardButton.tooltip "Dir a la páxina siguiente">
+<!ENTITY backForwardButtonMenu.tooltip "Arrastra hacia abaxo o doble clic p'amosar historial">
+<!ENTITY backForwardButtonMenuMac.tooltip "Arrastra hacia abaxo pa ver l'historial">
 <!ENTITY reloadCmd.label "Recargar">
 <!ENTITY reloadCmd.accesskey "a">
 <!ENTITY reloadButton.tooltip "Recargar esta páxina">
@@ -232,6 +234,7 @@
 <!ENTITY urlbar.switchToTab.label "Cambiar a la llingüeta:">
 <!ENTITY searchFocus.commandkey "k">
 <!ENTITY searchFocusUnix.commandkey "j">
+<!ENTITY searchFocus.commandkey2 "e">
 <!ENTITY tabView.commandkey "e">
 <!ENTITY openLinkCmdInTab.label "Abrir enllaz nuna llingüeta nueva">
 <!ENTITY openLinkCmdInTab.accesskey "T">
