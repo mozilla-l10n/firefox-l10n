@@ -62,4 +62,3 @@
 <!ENTITY webConsoleCmd.label "Consola web">
 <!ENTITY webConsoleCmd.accesskey "W">
 <!ENTITY webConsoleCmd.commandkey "k">
-<!ENTITY textbox.placeholder1 "// Escribi daqué de JavaScript, seleiciónalo, fai clic derechu sobre él y escueyi Executar, Inspeicionar o Amosar.">
