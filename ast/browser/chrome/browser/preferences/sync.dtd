@@ -6,12 +6,13 @@
 <!ENTITY manageAccount.label "Alministrar cuenta">
 <!ENTITY manageAccount.accesskey "a">
 <!ENTITY viewQuota.label "Ver cuota">
-<!ENTITY changePassword.label "Camudar contraseña">
+<!ENTITY changePassword2.label "Camudar contraseña…">
 <!ENTITY mySyncKey.label "La mio clave de Sync">
-<!ENTITY resetSync.label "Restablecer Sync">
+<!ENTITY resetSync2.label "Restablecer Sync…">
 <!ENTITY addDevice.label "Amestar un preséu">
 <!ENTITY syncComputerName.label "Nome del equipu:">
 <!ENTITY syncComputerName.accesskey "N">
+<!ENTITY unlinkDevice.label "Desvincular esti preséu.">
 <!ENTITY syncMy.label "Sincronizar">
 <!ENTITY engine.bookmarks.label "Marcadores">
 <!ENTITY engine.bookmarks.accesskey "m">
@@ -23,6 +24,6 @@
 <!ENTITY engine.passwords.accesskey "ñ">
 <!ENTITY engine.prefs.label "Preferencies">
 <!ENTITY engine.prefs.accesskey "S">
-<!ENTITY deactivateDevice.label "Desactivar esti preséu">
+
 <!ENTITY prefs.tosLink.label "Términos del Serviciu">
 <!ENTITY prefs.ppLink.label "Política de privacidá">
