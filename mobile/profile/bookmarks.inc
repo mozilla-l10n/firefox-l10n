@@ -13,7 +13,7 @@
 
 # LOCALIZATION NOTE (bookmarks_aboutBrowser):
 # link title for about:fennec
-#define bookmarks_aboutBrowser Firefox: despre navigatorul dumneavoastră
+#define bookmarks_aboutBrowser Firefox: despre navigatorul tău
 
 # LOCALIZATION NOTE (bookmarks_addons):
 # link title for https://addons.mozilla.org/en-US/mobile
