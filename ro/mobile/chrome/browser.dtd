@@ -5,8 +5,8 @@
 # secarica <orice@secarica.ro>
 # rz <rz@r2dev.ro>
 # raulmalea <raul.malea@gmail.com>
-# anonymous <anonymous@n.a>
 # xdaiana <xdaiana@yahoo.com>
+# anonymous <anonymous@n.a>
 # evinteler <emil_vinteler2000@yahoo.com>
 # janimo <jani@ubuntu.com>
 # Irina Sandu <irina.sandu@mozilla.ro>
@@ -45,15 +45,15 @@
 <!ENTITY inputMethod.label     "Selectare metodă introducere">
 
 <!ENTITY allPagesHeader.label      "Toate paginile">
-<!ENTITY bookmarksHeader.label     "Insemne">
+<!ENTITY bookmarksHeader.label     "Favorite">
 <!ENTITY historyHeader.label       "Istoric">
 <!ENTITY desktopHeader.label       "Spaţiu de lucru">
 
 <!ENTITY editBookmarkDialog.title  "Editează semnul de carte">
-<!ENTITY editBookmarkDone.label    "Pregătit">
+<!ENTITY editBookmarkDone.label    "Gata">
 <!ENTITY editBookmarkTags.label    "Etichete:">
 
-<!ENTITY selectHelper.done         "Pregătit">
+<!ENTITY selectHelper.done         "Gata">
 
 <!ENTITY addonsHeader.label        "Suplimente">
 <!ENTITY addonsLocal.label         "Suplimentele tale">

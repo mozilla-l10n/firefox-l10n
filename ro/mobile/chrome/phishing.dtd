@@ -34,6 +34,6 @@
 
 <!ENTITY safeb.blocked.phishingPage.title2 "Sait suspectat de fals!">
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Introducerea oricărei informații personale pe această pagină ar putea rezulta în furt de identitate sau fraudă.">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Aceste tipuri de falsuri web sunt folosite în înșelătorii cunoscute sub numele de atacuri de tip phishing, în care pagini frauduloase sau mesaje email sunt folosite pentru a imita surse în care aveți încredere.</p>">
 
 

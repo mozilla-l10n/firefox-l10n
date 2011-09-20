@@ -1,8 +1,8 @@
 <!--
 # Translator(s):
 #
-# raulmalea <raul.malea@gmail.com>
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 # xdaiana <xdaiana@yahoo.com>
 #
 -->
@@ -13,8 +13,8 @@
 # raulmalea <raul.malea@gmail.com>
 #
 -->
-<!ENTITY aboutHome.header                       "<span>&brandShortName; </span><span id='header-suffix'>Pornire</span>">
-<!ENTITY aboutHome.recentTabs                   "Filele pe care le aveați deschise">
+<!ENTITY aboutHome.header                       "<span>&brandShortName; </span><span id='header-suffix'>la început</span>">
+<!ENTITY aboutHome.recentTabs                   "Filele de data trecută">
 <!ENTITY aboutHome.remoteTabs                   "File de pe alte calculatoare">
 <!ENTITY aboutHome.recommendedAddons2           "Suplimente pentru &brandShortName;-ul tău">
 <!ENTITY aboutHome.giveFeedback                 "Trimite opinii">
