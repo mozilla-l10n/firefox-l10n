@@ -12,7 +12,7 @@
 <!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
      Menu option to attempt to re-open a recently closed tab.
      -->
-<!ENTITY recentlyClosedTabsCmd.label "Ivinelloù serret a-nevez zo">
+<!ENTITY recentlyClosedTabsCmd.label "Ivinelloù serret nevez zo">
 <!ENTITY recentlyClosedTabsCmd.accesskey "I">
 
 <!ENTITY undoCloseTabCmd.commandkey "T">
@@ -64,8 +64,8 @@
 <!ENTITY offlineMenu.accesskey "E">
 <!ENTITY offlineGoOfflineCmd.label "Labourat ezlinenn">
 <!ENTITY offlineGoOfflineCmd.accesskey "L">
-<!ENTITY synchronizeOfflineCmd.label "Pellgargañ/Senkronañ bremañ…">
-<!ENTITY synchronizeOfflineCmd.accesskey "S">
+<!ENTITY synchronizeOfflineCmd.label "Pellgargañ/Goubredañ bremañ…">
+<!ENTITY synchronizeOfflineCmd.accesskey "P">
 <!ENTITY settingsOfflineCmd.label "Arventennoù ez-linenn…">
 <!ENTITY settingsOfflineCmd.accesskey "e">
 <!ENTITY downloadSelectedCmd.label "Kerc'hat ar c'hemennadennoù diuzet">
@@ -325,7 +325,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderMenu.accesskey "T">
 <!ENTITY thisFolder.label "An teuliad-mañ">
 <!ENTITY thisFolder.accesskey "m">
-<!ENTITY goRecentlyClosedTabs.label "Ivinelloù serret a-nevez zo">
+<!ENTITY goRecentlyClosedTabs.label "Ivinelloù serret nevez zo">
 <!ENTITY startPageCmd.label "Pajennad deroù ar posteloù">
 <!ENTITY startPageCmd.accesskey "S">
 
