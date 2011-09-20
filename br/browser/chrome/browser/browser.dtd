@@ -275,9 +275,9 @@ can reach it easily. -->
 
 <!ENTITY historyMenu.label "Roll istor">
 <!ENTITY historyMenu.accesskey "l">
-<!ENTITY historyUndoMenu.label "Ivinelloù serret a-nevez zo">
+<!ENTITY historyUndoMenu.label "Ivinelloù serret nevez zo">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "Prenestroù serret a-nevez zo">
+<!ENTITY historyUndoWindowMenu.label "Prenestroù serret nevez zo">
 <!ENTITY historyRestoreLastSession.label "Assav an estez kent">
 
 <!ENTITY historyHomeCmd.label "D'ar gêr">
