@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# Laudatti <Laudatti@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -55,3 +68,5 @@
 <!ENTITY pref.categories.overwrite "Există deja o categorie cu numele acesta.\n Doriți să o suprascrieți?">
 <!ENTITY pref.categories.overwrite.title "Avertisment: nume duplicat">
 <!ENTITY pref.categories.noBlankCategories "Trebuie să introduceți numele categoriei">
+
+
