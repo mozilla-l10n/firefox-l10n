@@ -76,6 +76,9 @@
 <!ENTITY contextOpenInNewTab.label "Abrir en una pestaña nueva">
 <!ENTITY contextSaveImage.label "Guardar imagen">
 <!ENTITY contextCopyLink.label "Copiar enlace">
+<!ENTITY contextCopyEmail.label "Copiar dirección de correo electrónico">
+<!ENTITY contextCopyPhone.label "Copiar número de teléfono">
+<!ENTITY contextCopyImageLocation.label "Copiar la ruta de la imagen">
 <!ENTITY contextShareLink.label "Compartir enlace">
 <!ENTITY contextShareImage.label "Compartir imagen">
 <!ENTITY contextBookmarkLink.label "Enlace al marcador">
