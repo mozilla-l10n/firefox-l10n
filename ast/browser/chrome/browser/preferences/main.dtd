@@ -5,11 +5,15 @@
 <!ENTITY startupHomePage.label     "Amosar la mio páxina d'entamu">
 <!ENTITY startupBlankPage.label    "Amosar una páxina en blanco">
 <!ENTITY startupLastSession.label  "Amosar les mios ventanes y llingüetes de la cabera sesión">
+<!ENTITY restoreOnDemand.label     "Nun cargar les llingüetes hasta que tean seleicionaes">
+<!ENTITY restoreOnDemand.accesskey "l">
 <!ENTITY homepage.label            "Páxina d'entamu:">
 <!ENTITY homepage.accesskey        "P">
 <!ENTITY useCurrentPage.label      "Usar páxina actual">
 <!ENTITY useCurrentPage.accesskey  "U">
 <!ENTITY useMultiple.label         "Usar páxines actuales">
+<!ENTITY chooseBookmark.label      "Usar marcador…">
+<!ENTITY chooseBookmark.accesskey  "m">
 <!ENTITY restoreDefault.label      "Restaurar preconfiguráu">
 <!ENTITY restoreDefault.accesskey  "R">
 
