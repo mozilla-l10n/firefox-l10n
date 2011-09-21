@@ -95,6 +95,9 @@
 <!ENTITY contextOpenInNewTab.label    "Openen in nieuw tabblad">
 <!ENTITY contextSaveImage.label       "Afbeelding opslaan">
 <!ENTITY contextCopyLink.label        "Koppeling kopiëren">
+<!ENTITY contextCopyEmail.label       "E-mailadres kopiëren">
+<!ENTITY contextCopyPhone.label       "Telefoonnummer kopiëren">
+<!ENTITY contextCopyImageLocation.label       "Afbeeldingslocatie kopiëren">
 <!ENTITY contextShareLink.label       "Koppeling delen">
 <!ENTITY contextShareImage.label      "Afbeelding delen">
 <!ENTITY contextBookmarkLink.label    "Bladwijzer maken">
