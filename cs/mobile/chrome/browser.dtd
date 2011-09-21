@@ -95,6 +95,9 @@
 <!ENTITY contextOpenInNewTab.label "Otevřít odkaz v novém panelu">
 <!ENTITY contextSaveImage.label "Uložit obrázek">
 <!ENTITY contextCopyLink.label "Kopírovat odkaz">
+<!ENTITY contextCopyEmail.label "Kopírovat adresu e-mailu">
+<!ENTITY contextCopyPhone.label "Kopírovat telefonní číslo">
+<!ENTITY contextCopyImageLocation.label "Kopírovat adresu obrázku">
 <!ENTITY contextShareLink.label "Sdílet odkaz">
 <!ENTITY contextShareImage.label "Sdílet obrázek">
 <!ENTITY contextBookmarkLink.label "Přidat odkaz do záložek">
