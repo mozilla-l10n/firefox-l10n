@@ -95,6 +95,9 @@
 <!ENTITY contextOpenInNewTab.label    "Öppna länk i ny flik">
 <!ENTITY contextSaveImage.label       "Spara bild">
 <!ENTITY contextCopyLink.label        "Kopiera länk">
+<!ENTITY contextCopyEmail.label       "Kopiera e-postadress">
+<!ENTITY contextCopyPhone.label       "Kopiera telefonnummer">
+<!ENTITY contextCopyImageLocation.label       "Kopiera bildadress">
 <!ENTITY contextShareLink.label       "Dela länk">
 <!ENTITY contextShareImage.label      "Dela bild">
 <!ENTITY contextBookmarkLink.label    "Bokmärk länk">
