@@ -12,6 +12,7 @@
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Plugins activaos">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configuración de compilación">
 <!ENTITY aboutSupport.appBasicsUserAgent "Axente d'usuariu">
+<!ENTITY aboutSupport.appBasicsCrashIDs "Informes de fallos">
 <!ENTITY aboutSupport.show.label "Abrir la carpeta que lu contién">
 <!ENTITY aboutSupport.showMac.label "Amosar en Finder">
 <!ENTITY aboutSupport.modifiedPrefsTitle "Preferencies modificaes">
