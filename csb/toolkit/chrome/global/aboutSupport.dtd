@@ -26,6 +26,7 @@
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Włączoné wtëkacze">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Kònfigùracëjã brëkòwóną do kòmpilacëji">
 <!ENTITY aboutSupport.appBasicsUserAgent "Pòstrzédnik brëkòwnika">
+<!ENTITY aboutSupport.appBasicsCrashIDs "Rapòrtë ò awarëjach">
 
 <!ENTITY aboutSupport.show.label "Òtemkni zamëkający w se katalog">
 

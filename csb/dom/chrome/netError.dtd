@@ -94,3 +94,6 @@
 
 <!ENTITY remoteXUL.title "Zdalné XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Proszã dac wiédzã miéwcë ti starnë ò tim problemie.</li></ul></p>">
+<!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
+%netErrorAppDTD;
+

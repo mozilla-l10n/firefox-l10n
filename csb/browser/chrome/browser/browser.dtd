@@ -124,7 +124,9 @@ can reach it easily. -->
 <!ENTITY backButton.tooltip           "Biéj jedną starnã nazôd">
 <!ENTITY forwardCmd.label             "Do przódkù">
 <!ENTITY forwardCmd.accesskey         "p">
-<!ENTITY forwardButton.tooltip        "Biéj jedna starnã do przódkù">
+<!ENTITY forwardButton.tooltip        "Biéj jedną starnã do przódkù">
+<!ENTITY backForwardButtonMenu.tooltip "Klëkni prawą knąpã abò przecëgni żebë wëskrzenic historëjô">
+<!ENTITY backForwardButtonMenuMac.tooltip "Przecëgni żebë wëskrzenic historëjô">
 <!ENTITY reloadCmd.label              "Zladëjë znowa">
 <!ENTITY reloadCmd.accesskey          "Z">
 <!ENTITY reloadButton.tooltip         "Zladëjë tã starnã znowa">
@@ -197,6 +199,10 @@ can reach it easily. -->
 <!ENTITY errorConsoleCmd.label        "Kònsola felów">
 <!ENTITY errorConsoleCmd.accesskey    "K">
 <!ENTITY errorConsoleCmd.commandkey   "j">
+
+<!ENTITY webConsoleCmd.label          "Kònsola sécowô">
+<!ENTITY webConsoleCmd.accesskey      "a">
+<!ENTITY webConsoleCmd.commandkey     "a">
 
 <!ENTITY inspectMenu.label            "Sprôwdzë">
 <!ENTITY inspectMenu.accesskey        "S">
@@ -328,6 +334,7 @@ can reach it easily. -->
 
  -->
 <!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
 <!ENTITY tabView.commandkey           "e">

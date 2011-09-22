@@ -19,7 +19,7 @@
 <!ENTITY community.middle2          ", a ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "swiatową spòlëznã">
-<!ENTITY community.end2             " wëspółrobiącą bë Internet bëł lepszi. Mómë wiarã, że Internet mùszi bëc òtemkłi, pùbliczny ë przëstãpny dlô wszëtczich bez niżódnëch restrikcëjów.">
+<!ENTITY community.end2             " wëspółrobiącą bë Internet béł lepszi. Mómë wiarã, że Internet mùszi bëc òtemkłi, pùbliczny ë przëstãpny dlô wszëtczich bez niżódnëch restrikcëjów.">
 
 <!ENTITY contribute.start           "Czekawé? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->

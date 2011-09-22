@@ -20,9 +20,9 @@
 <!ENTITY manageAccount.label          "Sprôwiôj kòntã">
 <!ENTITY manageAccount.accesskey      "S">
 <!ENTITY viewQuota.label              "Òbaczë limitë">
-<!ENTITY changePassword.label         "Zmieni parolã">
+<!ENTITY changePassword2.label        "Resetëjë parolã…">
 <!ENTITY mySyncKey.label              "Mój klucz synchronizacëji">
-<!ENTITY resetSync.label              "Wëczëszczë Sync">
+<!ENTITY resetSync2.label             "Resetëjë synchronizacëjô…">
 <!ENTITY addDevice.label              "Dodôj ùrzãdzenié">
 
 <!ENTITY syncMy.label               "Synchronizëjë mòjé">
@@ -40,7 +40,7 @@
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label       "Miono kòmpùtra:">
 <!ENTITY syncComputerName.accesskey   "M">
-<!ENTITY deactivateDevice.label       "Wëłączë no ùrządzenié">
+<!ENTITY unlinkDevice.label           "Òdczepi ùrządzenié">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Leżnoscë brëkòwaniô serwisu">

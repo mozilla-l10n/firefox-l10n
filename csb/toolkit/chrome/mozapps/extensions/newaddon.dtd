@@ -1,0 +1,9 @@
+﻿<!ENTITY title           "Instalëjë przëdôwk">
+<!ENTITY intro           "Jinô programa próbùje zmienic &brandShortName; przë ùżëcëm przëdôwka:">
+<!ENTITY warning         "Instalëjë le przëdôwczi òd zaùfónëch autorów.">
+<!ENTITY allow           " Zezwòlë na winstalowónié">
+<!ENTITY later           "Mòżesz wiedno zmienic zdanié ë wińc do Menadżera Przëdôwków.">
+<!ENTITY continue        " Biéj dali">
+<!ENTITY restartMessage  "Zreszë &brandShortName; znowa żebë zakùńczëc instalacëjô przëdôwka.">
+<!ENTITY restartButton   "Zreszë &brandShortName; znowa.">
+<!ENTITY cancelButton    " Òprzestóń">

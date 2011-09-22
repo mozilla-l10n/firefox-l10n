@@ -1,0 +1,47 @@
+﻿<!ENTITY upgrade.style               "width: 93ch; height: 448px;">
+
+<!ENTITY checking.heading            "Sprôwdzanié przëdôwka">
+<!ENTITY checking.progress.label     "Sprôwdzanié kòmpatibilnotë twòjégò przëdôwka z wersëją &brandShortName;.">
+
+<!ENTITY select.heading              "Wëbierzë przëdôwczi">
+<!-- LOCALIZATION NOTE (select.description): The term used for "third parties"
+     here should match the string source.other in selectAddons.properties. -->
+<!ENTITY select.description          "&brandShortName; bądze chòdzëc chùtczi czéj wëłączisz niebrëkòwóné przëdôwczi. Przëdôwczi bùtnowëch firmów òstaną automatno wëłączóné, chòba że je zaklëkniész pòniżi.">
+<!ENTITY select.keep                 "Trzëmôj ">
+<!-- LOCALIZATION NOTE (select.keep.style): Should be a width wide enough for
+     the string in select.keep above. -->
+<!ENTITY select.keep.style           "width: 7ch;">
+<!ENTITY select.action               "Czinnosc">
+<!-- LOCALIZATION NOTE (select.action.style): Should be a width wide enough for
+     the action strings in selectAddons.properties or brandShortName. -->
+<!ENTITY select.action.style         "width: 37ch;">
+<!ENTITY select.source               "Winstalowóné przez">
+<!ENTITY select.name                 "Miono">
+<!-- LOCALIZATION NOTE (select.name.style): Should be a width small enough so
+     the source column still has enough room for the source strings in
+     selectAddons.properties. -->
+<!ENTITY select.name.style           "width: 33ch;">
+
+<!ENTITY confirm.heading             "Wëbierzë przëdôwczi">
+<!-- LOCALIZATION NOTE (confirm.description): The term used for "third parties"
+     here should match the string source.other in selectAddons.properties. -->
+<!ENTITY confirm.description         "&brandShortName; bãdze chòdzëc chùtczi żlë wëłączisz niebrëkòwóné przëdôwczi. Przëdôwczi bùtnowëch firmów òstaną automatno wëłączóné, chòba że je zaklëkniész pòniżi.">
+
+<!ENTITY action.disable.heading      "Nôslédné przëdôczi òstaną wëłączóné:">
+<!ENTITY action.incompatible.heading "Nôslédné przëdôczi òstaną nazôd włączóné pò tim jak bãdą kòmpatibilné:">
+<!ENTITY action.update.heading       "Nôslédné przëdôczi òstaną zaktualnioné:">
+<!ENTITY action.enable.heading       "Nôslédné przëdôczi òstaną włączóné:">
+
+<!ENTITY update.heading              "Zaktualnianié przëdôwków">
+<!ENTITY update.progress.label       "Zladënk aktualizacëji dlô wëbrónëch przëdôwków.">
+
+<!ENTITY errors.heading              "&brandShortName; nié mógł zaktualnic niechtërnëch przëdôwków.">
+<!ENTITY errors.description          "Winstalowónié niechtënéch aktualizacëji sã nie darzëło. &brandShortName; spróbùje zaktualizowac je pózdni jész rôz.">
+
+<!ENTITY footer.label                "Wiedno mòżesz sprôwiac przëdôwkama w Menadżeru Przëdôwków.">
+<!ENTITY cancel.label                "Òprzestóń">
+<!ENTITY back.label                  "Nazôd">
+<!ENTITY next.label                  "Dali">
+<!ENTITY done.label                  "Parôt">
+
+"Nie nalôz pasownych przëdôwków"> feleje “ł”
