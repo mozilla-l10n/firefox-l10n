@@ -80,7 +80,7 @@
 <!ENTITY certmgr.editcacert.title             "Editëje nastôwé wiarë Òrganu Certifikacëji (CA)">
 <!ENTITY certmgr.editsslcert.title            "Editëjë nastôwé certifikatù bezpiekù starnë">
 <!ENTITY certmgr.editcert.edittrust           "Editëjë nastôwé wiarë:">
-<!ENTITY certmgr.editcert.trustssl            "Nen certifikat mòże rozszlachòwac starnë jinternetowé.">
+<!ENTITY certmgr.editcert.trustssl            "Nen certifikat mòże rozszlachòwac starnë internetowé.">
 <!ENTITY certmgr.editcert.trustemail          "Nen certifikat mòże rozszlachòwac e-mailowëch brëkòwników.">
 <!ENTITY certmgr.editcert.trustobjsign        "Nen certifikat mòże rozszlachòwac firmë softwôrowé.">
 <!ENTITY certmgr.editsslcert.edittrust        "Editëjë nastôwé wiarë certifikatù:">

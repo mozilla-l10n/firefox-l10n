@@ -13,7 +13,7 @@
 <!ENTITY listEmpty.availableUpdates.label     "Nié nalôzł niżódnych aktualizacëji">
 <!ENTITY listEmpty.recentUpdates.label        "Długò nie môsz aktualizowóné przëdôwków">
 <!ENTITY listEmpty.findUpdates.label          "Sprôwdzë zaktualnienia">
-<!ENTITY listEmpty.search.label               "Nie nalôz pasownych przëdôwków">
+<!ENTITY listEmpty.search.label               "Nie nalôzł pasownych przëdôwków">
 <!ENTITY listEmpty.button.label               "Wicy wëdowiédzë ò przëdôwkach">
 <!ENTITY installAddonFromFile.label           "Winstalëje pòdôwczi z lopka…">
 <!ENTITY installAddonFromFile.accesskey       "i">
