@@ -409,7 +409,7 @@ can reach it easily. -->
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "複製音訊檔案網址">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
-<!ENTITY copyEmailCmd.label           "複製 Email 位址">
+<!ENTITY copyEmailCmd.label           "複製電子郵件地址">
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "本頁框">
 <!ENTITY thisFrameMenu.accesskey          "h">
