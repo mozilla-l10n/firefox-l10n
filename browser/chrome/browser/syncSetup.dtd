@@ -13,8 +13,9 @@
 <!ENTITY signIn.account2.accesskey "a">
 <!ENTITY signIn.password.label "Contraseña ">
 <!ENTITY signIn.password.accesskey "C">
-<!ENTITY signIn.syncKey.label "Clave de Sync">
-<!ENTITY signIn.syncKey.accesskey "c">
+<!ENTITY signIn.recoveryKey.label "Clave de recuperación">
+<!ENTITY signIn.recoveryKey.accesskey "C">
+
 <!ENTITY setup.newAccountDetailsPage.title.label "Detalles de la cuenta">
 <!ENTITY setup.confirmPassword.label "Confirmar contraseña">
 <!ENTITY setup.confirmPassword.accesskey "m">
@@ -29,13 +30,16 @@
 <!ENTITY setup.ppLink.label "Política de privacidá">
 <!ENTITY setup.tosAgree3.label "">
 <!ENTITY setup.tosAgree2.accesskey "">
-<!ENTITY setup.newSyncKeyPage.title.label "A &brandShortName; impórta-y la to privacidá">
-<!ENTITY setup.newSyncKeyPage.description.label "P'asegurar una privacidá total, cífrense tolos datos enantes d'unviase. La clave de Sync, que ye necesaria pa descifrar esos datos, nun s'unvia.">
-<!ENTITY syncKeyEntry.label "La to clave de Sync">
-<!ENTITY syncKeyEntry.accesskey "c">
+<!ENTITY recoveryKeyEntry.label "La to clave de recuperación">
+<!ENTITY recoveryKeyEntry.accesskey "c">
+<!ENTITY setup.newRecoveryKeyPage.title.label "A &brandShortName; impórta-y la to privacidá">
+<!ENTITY setup.newRecoveryKeyPage.description.label "P'asegurar la to privacidá total, cífrense tolos datos enantes d'unviase pela rede. La clave de recuperación pa descifrar talos datos nun s'unvia.">
+<!ENTITY addDevice.dialog.recoveryKey.label "P'activar el to preséu necesites introducir la clave de recuperación. Por favor, impréntala o guárdala y llévala contigo.">
+<!ENTITY existingRecoveryKey.description "Pues obtener una copia de la clave de recuperación diendo al menú de Opciones de &syncBrand.shortName.label; nel otru equipu y seleicionar 'La mio clave de recuperación' baxo 'Alministrar cuenta'.">
+<!ENTITY recoveryKeyBackup.description "La clave de recuperación ye necesaria p'acceder a &syncBrand.fullName.label; n'otros equipos. Por favor, fai agora una copia. Nun podemos echate un gabitu a recuperar la to clave de recuperación.">
 <!ENTITY syncGenerateNewKey.label  "Xenerar una clave nueva">
 
-<!ENTITY syncKeyBackup.description "La clave de Sync ye necesaria p'acceder a &syncBrand.fullName.label; n'otros equpos. Por favor, fai una copia agora. Nun podemos ayudate a recuperar la to clave de Sync.">
+
 <!ENTITY button.syncKeyBackup.print.label "Imprentar…">
 <!ENTITY button.syncKeyBackup.print.accesskey "p">
 <!ENTITY button.syncKeyBackup.save.label "Guardar…">
@@ -50,10 +54,10 @@
 <!ENTITY addDevice.dialog.enterCode.label "Escribi'l códigu que proporciona'l preséu:">
 <!ENTITY addDevice.dialog.tryAgain.label "Por favor, prueba otra vegada.">
 <!ENTITY addDevice.dialog.successful.label "Esti preséu amestóse correutamente. Esta sincronización inicial pue tardar dellos minutos y va finar de fondu.">
-<!ENTITY addDevice.dialog.syncKey.label "P'activar esti preséu necesites introducir la clave de Sync. Por favor, imprenta o guarda esta clave y llévela contigo.">
+
 <!ENTITY addDevice.dialog.connected.label "Preséu coneutáu">
 <!ENTITY setup.signInPage.title.label "Coneutase">
-<!ENTITY existingSyncKey.description "Pues consiguir una copia de la clave de Sync nes opciones de &syncBrand.shortName.label; del otru preséu y esbillando 'La mio clave de Sync' baxo 'Alministrar cuenta'.">
+
 <!ENTITY resetPassword.label "Restablecer contraseña">
 <!ENTITY resetSyncKey.label "Perdí'l mio otru preséu.">
 <!ENTITY verifying.label "Verificando…">
