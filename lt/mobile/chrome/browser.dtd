@@ -128,6 +128,9 @@
 <!ENTITY contextOpenInNewTab.label        "Atverti saitą naujoje kortelėje">
 <!ENTITY contextSaveImage.label           "Įrašyti paveikslą">
 <!ENTITY contextCopyLink.label            "Kopijuoti saitą">
+<!ENTITY contextCopyEmail.label           "Kopijuoti el. pašto adresą">
+<!ENTITY contextCopyPhone.label           "Kopijuoti telefono numerį">
+<!ENTITY contextCopyImageLocation.label   "Kopijuoti paveikslo adresą">
 <!ENTITY contextShareLink.label           "Dalintis saitu">
 <!ENTITY contextShareImage.label          "Dalintis paveikslu">
 <!ENTITY contextBookmarkLink.label        "Įrašyti saitą į adresyną">
