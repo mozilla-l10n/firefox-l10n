@@ -1,5 +1,4 @@
 
-<!ENTITY  splash_screen_loading "載入中">
 <!ENTITY  splash_firstrun "正在設定 &brandShortName;\u2026">
 
 <!ENTITY  no_space_to_start_error "空間不足，無法啟動 &brandShortName;。">
