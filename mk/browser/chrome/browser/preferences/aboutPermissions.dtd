@@ -22,9 +22,9 @@
 <!ENTITY password.manage                 "Уреди лозинки…">
 
 <!ENTITY cookie.label                    "Постави колачиња">
-<!ENTITY cookie.clear                    "Исчисти колачиња">
+<!ENTITY cookie.remove                   "Исчисти колачиња">
 <!ENTITY cookie.manage                   "Уреди колачиња…">
-<!ENTITY cookie.clearAll                 "Исчисти ги сите колачиња">
+<!ENTITY cookie.removeAll                "Исчисти ги сите колачиња">
 
 <!ENTITY geo.label                       "Сподели локација">
 

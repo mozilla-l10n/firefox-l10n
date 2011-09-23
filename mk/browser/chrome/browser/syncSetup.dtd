@@ -21,6 +21,9 @@
 <!ENTITY setup.confirmPassword.accesskey "о">
 <!ENTITY setup.emailAddress.label "Адреса за е-пошта">
 <!ENTITY setup.emailAddress.accesskey "е">
+<!ENTITY setup.choosePassword.label      "Изберете лозинка">
+<!ENTITY setup.choosePassword.accesskey  "л">
+
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
 <!ENTITY setup.tosAgree1.label "Се согласувам со">
