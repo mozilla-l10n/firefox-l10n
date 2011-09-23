@@ -230,6 +230,8 @@
 <!ENTITY bodySanitized.accesskey "S">
 <!ENTITY bodyAsPlaintext.label "Text senza formataziun">
 <!ENTITY bodyAsPlaintext.accesskey "T">
+<!ENTITY bodyAllParts.label "Tut las parts dal corp">
+<!ENTITY bodyAllParts.accesskey "A">
 
 <!ENTITY bodyMenuFeed.label "Feed cun il text dal messadi sco">
 <!ENTITY bodyMenuFeed.accesskey "B">

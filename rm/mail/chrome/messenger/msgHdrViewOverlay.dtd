@@ -59,6 +59,7 @@
 <!ENTITY editMessageButton.label "Modifitgar...">
 <!ENTITY hdrArchiveButton.label "archiv">
 <!ENTITY hdrArchiveButton.tooltip "archivar quest messadi">
+<!ENTITY hdrSmartReplyButton.label "respunder smart">
 <!ENTITY hdrReplyButton.label "respunder">
 <!ENTITY hdrReplyButton.tooltip "respunder quest messadi">
 <!ENTITY hdrReplyAllButton.label "respunder a tuts">
