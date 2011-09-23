@@ -57,8 +57,8 @@
 <!ENTITY dontrememberActions.clearHistory.label "исчисти ја целата моментална историја">
 <!ENTITY dontrememberActions.post.label ".">
 
-<!ENTITY privateBrowsingPermanent.label "Траен режим на приватно сурфање">
-<!ENTITY privateBrowsingPermanent.accesskey "р">
+<!ENTITY privateBrowsingPermanent2.label "Секогаш работи во режим на приватно сурфање">
+<!ENTITY privateBrowsingPermanent2.accesskey "р">
 
 <!ENTITY rememberHistory.label "Памети ја мојата сурферска историја">
 <!ENTITY rememberHistory.accesskey "м">

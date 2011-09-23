@@ -189,3 +189,6 @@
 <!-- global informations -->
 <!ENTITY info.plugincheck.label                 "Проверете дали Вашите приклучоци се најнова верзија">
 <!ENTITY info.plugincheck.tooltip               "Проверете дали Вашите приклучоци се најнова верзија">
+
+<!ENTITY settings.path.button.label           "Прелистај…">
+

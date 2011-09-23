@@ -28,10 +28,13 @@
 <!ENTITY cmd.findCurrent.label "Најди во тековната колецкија">
 <!ENTITY cmd.findCurrent.accesskey "и">
 
-<!ENTITY cmd.exportHTML.label "Извези HTML…">
-<!ENTITY cmd.exportHTML.accesskey "И">
-<!ENTITY cmd.importHTML.label "Увези HTML…">
-<!ENTITY cmd.importHTML.accesskey "У">
+<!ENTITY exportBookmarksToHTML.label       "Извези ги обележувачите во HTML…">
+<!ENTITY exportBookmarksToHTML.accesskey   "И">
+<!ENTITY importBookmarksFromHTML.label     "Увези обележувачи од HTML…">
+<!ENTITY importBookmarksFromHTML.accesskey "У">
+<!ENTITY importOtherBrowser.label          "Увези податоци од друг прелистувач…">
+<!ENTITY importOtherBrowser.accesskey      "ч">
+
 
 <!ENTITY cmd.backup.label "Резерва…">
 <!ENTITY cmd.backup.accesskey "Р">
