@@ -27,9 +27,9 @@
 <!ENTITY alwaysCheckDefault.accesskey    "o">
 <!ENTITY checkNow.label                  "Vérifier maintenant">
 <!ENTITY checkNow.accesskey              "m">
-<!ENTITY submitCrashes.label             "Soumettre les rapports de plantage">
-<!ENTITY submitCrashes.accesskey         "e">
-<!ENTITY submitTelemetry.label           "Soumettre les rapports de performance">
+<!ENTITY submitCrashes.label             "Envoyer les rapports de plantage">
+<!ENTITY submitCrashes.accesskey         "E">
+<!ENTITY submitTelemetry.label           "Envoyer les rapports de performance">
 <!ENTITY submitTelemetry.accesskey       "m">
 
 <!ENTITY networkTab.label                "Réseau">
