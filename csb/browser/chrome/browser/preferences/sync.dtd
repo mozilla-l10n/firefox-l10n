@@ -40,7 +40,7 @@
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label       "Miono kòmpùtra:">
 <!ENTITY syncComputerName.accesskey   "M">
-<!ENTITY unlinkDevice.label           "Òdczepi ùrządzenié">
+<!ENTITY unlinkDevice.label           "Òdlënkùjë ùrządzenié">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Leżnoscë brëkòwaniô serwisu">

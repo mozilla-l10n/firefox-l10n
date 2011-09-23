@@ -200,7 +200,7 @@ can reach it easily. -->
 <!ENTITY errorConsoleCmd.accesskey    "K">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY webConsoleCmd.label          "Kònsola sécowô">
+<!ENTITY webConsoleCmd.label          "Nétowô kònsola">
 <!ENTITY webConsoleCmd.accesskey      "a">
 <!ENTITY webConsoleCmd.commandkey     "a">
 
