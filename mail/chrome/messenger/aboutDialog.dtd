@@ -62,22 +62,4 @@
 <!ENTITY channel.description.start  "Ti retschaivas actualmain las actualisaziuns dal chanal ">
 <!ENTITY channel.description.end    ". ">
 
-<!ENTITY channel.change             "Midar">
-
-<!ENTITY channel.release.description       "Giauda la versiun finala che vegn utilisada da tschients da milliuns persunas da l'entir mund. Uschia navigheschas ti tras il web cun auta spertezza, persunalisaziun simpla e las pli novas tecnologias dal web.">
-<!ENTITY channel.beta.description          "Emprova las funcziuns che vegnan prest publitgadas cun dapli stabilitad. Ans dà tes resun per gidar da curreger ed optimar las funcziuns en la versiun finala.">
-<!ENTITY channel.aurora.description        "Emprova las pli novas innovaziuns en in conturn betg stabel che dovra mintgatant buna gnerva. Ans da tes resun davart funcziunalitad e prestaziun per che nus pudain decider tge funcziuns che vegnan integradas en la versiun finala.">
-
-<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
-     channel.selector.end create one sentence, with a channel selection menulist instered in between.
-     This is all in one line, so try to make the localized text short.
-     example: Switch to the [Stable] update channel. -->
-<!ENTITY channel.selector.start          "Midar al chanal d'actualisaziun">
-<!ENTITY channel.selector.end            ".">
-
-<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
-     to a new update channel and starts the application update process. -->
-<!ENTITY channel.selector.applyButton    "Applitgar ed actualisar">
-<!ENTITY channel.selector.cancelButton   "Interrumper">
-
 <!ENTITY cmdCloseMac.commandKey "w">
