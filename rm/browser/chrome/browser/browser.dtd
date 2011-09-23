@@ -111,6 +111,8 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "Enavant">
 <!ENTITY forwardCmd.accesskey         "v">
 <!ENTITY forwardButton.tooltip        "Ina pagina enavant">
+<!ENTITY backForwardButtonMenu.tooltip "Cliccar cun la tasta dretga u tegnair smatgà per vesair la cronologia">
+<!ENTITY backForwardButtonMenuMac.tooltip "Tegnair smatgà per vesair la cronologia">
 <!ENTITY reloadCmd.label              "Chargiar danovamain">
 <!ENTITY reloadCmd.accesskey          "n">
 <!ENTITY reloadButton.tooltip         "Chargiar danovamain la pagina actuala">
@@ -318,6 +320,7 @@ can reach it easily. -->
 
  -->
 <!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
 <!ENTITY tabView.commandkey           "e">

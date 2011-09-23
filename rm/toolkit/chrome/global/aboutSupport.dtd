@@ -20,6 +20,7 @@
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Plug-ins activads">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configuraziun dal build">
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
+<!ENTITY aboutSupport.appBasicsCrashIDs "Annunzias da collaps">
 
 <!ENTITY aboutSupport.show.label "Avrir l'ordinatur">
 
