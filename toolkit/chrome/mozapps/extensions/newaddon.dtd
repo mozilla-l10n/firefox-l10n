@@ -1,0 +1,11 @@
+<!ENTITY title           "Installar supplement">
+<!ENTITY intro           "In auter program sin tes computer vul modifitgar
+                          &brandShortName; cun suandant supplement:">
+<!ENTITY warning         "Installescha be supplements da funtaunas che ti ta fidas.">
+<!ENTITY allow           "Lubir questa installaziun">
+<!ENTITY later           "Ti pos adina midar tia decisiun cun ir en l'administraziun
+                          da supplements.">
+<!ENTITY continue        "Cuntinuar">
+<!ENTITY restartMessage  "Ti stos reaviar &brandShortName; per terminar l'installaziun da quest supplement.">
+<!ENTITY restartButton   "Reaviar &brandShortName;">
+<!ENTITY cancelButton    "Interrumper">
