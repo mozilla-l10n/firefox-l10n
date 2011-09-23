@@ -44,14 +44,9 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Локален режим">
-<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
-     indicate that "Work Offline" is a menu item without being too specific,
-     since it could be in either the normal menu (Mac/Linux) or the Firefox button
-     menu (Windows).
--->
-<!ENTITY netOffline.overrideLongDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Uncheck the &quot;Work Offline&quot; menu item, then try again.</li>
+  <li>Кликнете на &quot;Обиди се повторно&quot; да префрлите во online режим и да ја превчитате страницата.</li>
 </ul>
 ">
 
@@ -131,6 +126,9 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "Блокирано од политика за безбедност на содржина">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName;  ја спречи страницата да се вчита на ваков начин бидејќи таа има безбедносна политика за содржина што го забранува тоа.</p>">
+
+<!ENTITY corruptedContentError.title "Грешка: оштетени податоци">
+<!ENTITY corruptedContentError.longDesc "<p>Страницата која се обидувате да ја отворите не може да биде прикажана поради грешка во трансферот на податоци.</p><ul><li>Ве молиме контактирајте ги сопствениците на мрежното место и информирајте ги за овој проблем.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Или додај исклучок…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Однеси ме на сигурно!">
