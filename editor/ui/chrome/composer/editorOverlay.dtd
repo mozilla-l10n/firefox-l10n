@@ -68,8 +68,6 @@
 <!ENTITY publishAsCmd.accesskey "c">
 <!ENTITY saveAsChangeEncodingCmd.label "Opslaan en tekenset wijzigen">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "k">
-<!ENTITY printCmd.label "Afdrukken…">
-<!ENTITY printCmd.accesskey "d">
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "Bewerken">

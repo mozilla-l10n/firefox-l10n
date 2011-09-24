@@ -14,11 +14,6 @@
 <!ENTITY editPageCmd.accesskey "w">
 <!ENTITY editPageCmd.commandkey "e">
 
-<!ENTITY printPreviewCmd.label "Afdrukvoorbeeld">
-<!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printCmd.label "Afdrukken…">
-<!ENTITY printCmd.accesskey "d">
-
 <!ENTITY navbarCmd.label "Navigatiewerkbalk">
 <!ENTITY navbarCmd.accesskey "N">
 <!ENTITY personalbarCmd.label "Persoonlijke werkbalk">
