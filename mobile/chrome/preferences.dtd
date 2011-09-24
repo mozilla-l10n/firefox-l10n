@@ -21,3 +21,4 @@
 <!ENTITY homepage.default                          "&brandShortName; Start">
 <!ENTITY homepage.currentpage                      "Huidige pagina gebruiken">
 <!ENTITY showCharsetEncoding.title                 "Tekenset tonen">
+<!ENTITY actionbar.default                         "&brandShortName;-instellingen">
