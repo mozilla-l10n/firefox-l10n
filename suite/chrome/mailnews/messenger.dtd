@@ -62,10 +62,6 @@
 <!ENTITY downloadSelectedCmd.accesskey "z">
 <!ENTITY downloadFlaggedCmd.label "Scarica i messaggi spuntati">
 <!ENTITY downloadFlaggedCmd.accesskey "u">
-<!ENTITY printCmd.label "Stampa…">
-<!ENTITY printCmd.accesskey "m">
-<!ENTITY printPreviewCmd.label "Anteprima di stampa">
-<!ENTITY printPreviewCmd.accesskey "p">
 <!ENTITY deleteMsgCmd.label "Elimina messaggio">
 <!ENTITY deleteMsgCmd.accesskey "l">
 <!ENTITY undeleteMsgCmd.label "Ripristina messaggio">
