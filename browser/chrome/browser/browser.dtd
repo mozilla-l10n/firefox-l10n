@@ -111,6 +111,8 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "Maju">
 <!ENTITY forwardCmd.accesskey         "j">
 <!ENTITY forwardButton.tooltip        "Maju satu laman">
+<!ENTITY backForwardButtonMenu.tooltip "Klik kanan atau tekan agak lama untuk menampilkan riwayat">
+<!ENTITY backForwardButtonMenuMac.tooltip "Tekan agak lama untuk menampilkan riwayat">
 <!ENTITY reloadCmd.label              "Muat ulang">
 <!ENTITY reloadCmd.accesskey          "u">
 <!ENTITY reloadButton.tooltip         "Muat ulang laman ini">
@@ -320,6 +322,7 @@ can reach it easily. -->
   
  -->
 <!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
 <!ENTITY tabView.commandkey           "e">
