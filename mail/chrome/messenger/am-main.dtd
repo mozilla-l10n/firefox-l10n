@@ -42,6 +42,7 @@
 <!ENTITY email.accesskey "E">
 <!ENTITY replyTo.label "Svara till e-postadress:">
 <!ENTITY replyTo.accesskey "S">
+<!ENTITY replyTo.placeholder "Mottagare kommer att svara till denna andra adress">
 <!ENTITY organization.label "Organisation:">
 <!ENTITY organization.accesskey "O">
 <!ENTITY signatureText.label "Signaturtext:">
