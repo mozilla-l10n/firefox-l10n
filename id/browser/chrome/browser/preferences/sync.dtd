@@ -11,15 +11,15 @@
 <!ENTITY manageAccount.label          "Kelola Akun">
 <!ENTITY manageAccount.accesskey      "A">
 <!ENTITY viewQuota.label              "Tampilkan Info Jatah">
-<!ENTITY changePassword.label         "Ganti Sandi">
+<!ENTITY changePassword2.label         "Ganti Sandi…">
 <!ENTITY mySyncKey.label              "Kunci Sinkronisasi">
-<!ENTITY resetSync.label              "Setel Ulang Sinkronisasi">
+<!ENTITY resetSync2.label              "Setel Ulang Sinkronisasi…">
 <!ENTITY addDevice.label              "Tambah Perangkat">
 
 <!-- Sync Settings -->
 <!ENTITY syncComputerName.label       "Nama Komputer:">
 <!ENTITY syncComputerName.accesskey   "k">
-<!ENTITY deactivateDevice.label       "Nonaktifkan Perangkat Ini">
+<!ENTITY unlinkDevice.label           "Putus Kait Perangkat Ini">
 
 <!ENTITY syncMy.label               "Sinkronkan">
 <!ENTITY engine.bookmarks.label     "Markah">

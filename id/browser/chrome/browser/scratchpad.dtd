@@ -32,7 +32,7 @@
 
 <!ENTITY closeCmd.label               "Tutup">
 <!ENTITY closeCmd.key                 "W">
-<!ENTITY closeCmd.accesskey           "C">
+<!ENTITY closeCmd.accesskey           "T">
 
 <!ENTITY editMenu.label               "Edit">
 <!ENTITY editMenu.accesskey           "E">
@@ -62,7 +62,7 @@
 <!ENTITY selectAllCmd.accesskey       "A">
 
 <!ENTITY run.label                    "Jalankan">
-<!ENTITY run.accesskey                "R">
+<!ENTITY run.accesskey                "J">
 <!ENTITY run.key                      "l">
 
 <!ENTITY inspect.label                "Inspeksi">
@@ -70,7 +70,7 @@
 <!ENTITY inspect.key                  "i">
 
 <!ENTITY display.label                "Tampilkan">
-<!ENTITY display.accesskey            "D">
+<!ENTITY display.accesskey            "T">
 <!ENTITY display.key                  "l">
 
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
@@ -80,11 +80,11 @@
   -  (browser).
   -->
 <!ENTITY environmentMenu.label        "Lingkungan">
-<!ENTITY environmentMenu.accesskey    "N">
+<!ENTITY environmentMenu.accesskey    "n">
 
 
 <!ENTITY contentContext.label         "Konten">
-<!ENTITY contentContext.accesskey     "C">
+<!ENTITY contentContext.accesskey     "K">
 
 <!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
   -  to select an execution environment for the browser window itself as opposed
@@ -99,7 +99,7 @@
   -  to reset/clear the global object of the environment where the code executes.
   -->
 <!ENTITY resetContext.label           "Setel Ulang">
-<!ENTITY resetContext.accesskey       "R">
+<!ENTITY resetContext.accesskey       "S">
 
 <!ENTITY executeMenu.label            "Eksekusi">
 <!ENTITY executeMenu.accesskey        "k">
@@ -108,16 +108,11 @@
 <!ENTITY toolsMenu.accesskey          "T">
 
 <!ENTITY errorConsoleCmd.label        "Konsol Galat">
-<!ENTITY errorConsoleCmd.accesskey    "C">
+<!ENTITY errorConsoleCmd.accesskey    "G">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
 <!ENTITY webConsoleCmd.label          "Konsol Web">
 <!ENTITY webConsoleCmd.accesskey      "W">
 <!ENTITY webConsoleCmd.commandkey     "k">
 
-<!-- LOCALIZATION NOTE (textbox.placeholder1): This is some placeholder text
-  -  that appears when the Scratchpad's text area is empty and unfocused.
-  -  It should be a one-line JavaScript comment, i.e., preceded by '//'
-  -->
-<!ENTITY textbox.placeholder1         "// Masukkan kode JavaScript, pilih, klik kanan, lalu pilih Jalankan, Inspeksi, atau Tampilkan.">
 

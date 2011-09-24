@@ -21,6 +21,8 @@
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Plugin Terpasang">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Konfigurasi Build">
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
+<!ENTITY aboutSupport.appBasicsCrashIDs "Pelapor Kerusakan">
+
 
 <!ENTITY aboutSupport.show.label "Buka Foldernya Berkas">
 
