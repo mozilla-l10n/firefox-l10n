@@ -275,6 +275,8 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY pageSourceCmd.label "Code source du message">
 <!ENTITY pageSourceCmd.accesskey "s">
 <!ENTITY pageSourceCmd.key "u">
+<!ENTITY getNewMessagesCmd.key "y">
+<!ENTITY getAllNewMessagesCmd.key "Y">
 
 <!-- Search Menu -->
 
