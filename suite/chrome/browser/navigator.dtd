@@ -4,10 +4,6 @@
 <!ENTITY editPageCmd.label "Редактировать страницу">
 <!ENTITY editPageCmd.accesskey "Р">
 <!ENTITY editPageCmd.commandkey "e">
-<!ENTITY printPreviewCmd.label "Предварительный просмотр">
-<!ENTITY printPreviewCmd.accesskey "р">
-<!ENTITY printCmd.label "Печать…">
-<!ENTITY printCmd.accesskey "е">
 <!ENTITY navbarCmd.label "Панель навигации">
 <!ENTITY navbarCmd.accesskey "П">
 <!ENTITY personalbarCmd.label "Личная панель">

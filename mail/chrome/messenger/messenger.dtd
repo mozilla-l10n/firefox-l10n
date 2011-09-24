@@ -242,6 +242,8 @@
 <!ENTITY pageSourceCmd.label "Исходный текст">
 <!ENTITY pageSourceCmd.accesskey "х">
 <!ENTITY pageSourceCmd.key "u">
+<!ENTITY getNewMessagesCmd.key "y">
+<!ENTITY getAllNewMessagesCmd.key "Y">
 <!ENTITY findMenu.label "Найти">
 <!ENTITY findMenu.accesskey "й">
 <!ENTITY findCmd.label "Найти в этом сообщении…">

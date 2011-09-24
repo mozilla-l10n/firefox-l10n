@@ -62,10 +62,6 @@
 <!ENTITY downloadSelectedCmd.accesskey "в">
 <!ENTITY downloadFlaggedCmd.label "Получить сообщения, отмеченные флагом">
 <!ENTITY downloadFlaggedCmd.accesskey "ф">
-<!ENTITY printCmd.label "Печать…">
-<!ENTITY printCmd.accesskey "е">
-<!ENTITY printPreviewCmd.label "Предварительный просмотр">
-<!ENTITY printPreviewCmd.accesskey "д">
 <!ENTITY deleteMsgCmd.label "Удалить сообщение">
 <!ENTITY deleteMsgCmd.accesskey "У">
 <!ENTITY undeleteMsgCmd.label "Восстановить сообщение">

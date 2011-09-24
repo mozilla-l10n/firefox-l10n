@@ -64,8 +64,6 @@
 <!ENTITY publishAsCmd.accesskey "у">
 <!ENTITY saveAsChangeEncodingCmd.label "Изменить и сохранить кодировку">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "з">
-<!ENTITY printCmd.label "Печать…">
-<!ENTITY printCmd.accesskey "ч">
 <!ENTITY editMenu.label "Правка">
 <!ENTITY editMenu.accesskey "р">
 <!ENTITY pasteNoFormatting.label "Вставить без форматирования">
