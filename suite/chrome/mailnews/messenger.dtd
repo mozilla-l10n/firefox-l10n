@@ -106,10 +106,6 @@
 <!ENTITY downloadSelectedCmd.accesskey "c">
 <!ENTITY downloadFlaggedCmd.label           "Relever les messages suivis">
 <!ENTITY downloadFlaggedCmd.accesskey "v">
-<!ENTITY printCmd.label "Imprimer…">
-<!ENTITY printCmd.accesskey "p">
-<!ENTITY printPreviewCmd.label "Aperçu avant impression">
-<!ENTITY printPreviewCmd.accesskey "u">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Supprimer le message">
