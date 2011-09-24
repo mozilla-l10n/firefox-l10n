@@ -233,8 +233,8 @@ can reach it easily. -->
 <!ENTITY fileMenu.label         "Lopk"> 
 <!ENTITY fileMenu.accesskey       "L">
 <!ENTITY newNavigatorCmd.label        "Nowé òkno">
-<!ENTITY newNavigatorCmd.key        "N">
-<!ENTITY newNavigatorCmd.accesskey      "N">
+<!ENTITY newNavigatorCmd.key        "o">
+<!ENTITY newNavigatorCmd.accesskey      "o">
 
 <!ENTITY editMenu.label         "Edicëjô"> 
 <!ENTITY editMenu.accesskey       "E"> 
@@ -260,9 +260,9 @@ can reach it easily. -->
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "w"> 
 <!ENTITY preferencesCmd2.label       "Òptacëje">
-<!ENTITY preferencesCmd2.accesskey     "Ò">
+<!ENTITY preferencesCmd2.accesskey     "p">
 <!ENTITY preferencesCmdUnix.label       "Preferencëje">
-<!ENTITY preferencesCmdUnix.accesskey     "n"> 
+<!ENTITY preferencesCmdUnix.accesskey     "e"> 
 
 <!ENTITY clearRecentHistory.label               "Wëczëszczë historëjã przezéraniô...">
 <!ENTITY clearRecentHistory.accesskey           "h">
@@ -340,20 +340,20 @@ can reach it easily. -->
 <!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label       "Òtemkni lënk w nowi kôrce">
-<!ENTITY openLinkCmdInTab.accesskey   "k">
+<!ENTITY openLinkCmdInTab.accesskey   "m">
 <!ENTITY openLinkCmd.label            "Òtemkni lënk w nowim òknie">
-<!ENTITY openLinkCmd.accesskey        "n">
+<!ENTITY openLinkCmd.accesskey        "o">
 <!ENTITY openLinkCmdInCurrent.label     "Òtemkni lënk">
-<!ENTITY openLinkCmdInCurrent.accesskey "Ò">
+<!ENTITY openLinkCmdInCurrent.accesskey "l">
 <!ENTITY openFrameCmdInTab.label      "Òtemkni ramã w nowi kôrce">
-<!ENTITY openFrameCmdInTab.accesskey  "k">
+<!ENTITY openFrameCmdInTab.accesskey  "">
 <!ENTITY openFrameCmd.label           "Òtemkni ramã w nowim òknie">
-<!ENTITY openFrameCmd.accesskey       "o">
+<!ENTITY openFrameCmd.accesskey       "w">
 <!ENTITY showOnlyThisFrameCmd.label     "Wëskrzëni blós tã ramã">
-<!ENTITY showOnlyThisFrameCmd.accesskey "W">
-<!ENTITY reloadCmd.commandkey         "r">
+<!ENTITY showOnlyThisFrameCmd.accesskey "t">
+<!ENTITY reloadCmd.commandkey         "z">
 <!ENTITY reloadFrameCmd.label         "Zladëjë ramã znowa">
-<!ENTITY reloadFrameCmd.accesskey     "Z">
+<!ENTITY reloadFrameCmd.accesskey     "z">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Wëskrzëni zdrój wëbierkù">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Wëskrzëni zdrój MathML">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 

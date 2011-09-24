@@ -16,7 +16,7 @@
 <!ENTITY  noupdatesfound.title            "Nié nalazłé niżódné aktualizacëje">
 <!ENTITY  noupdatesautoenabled.intro      "Felënk przëstãpnych aktualizacëji. Programa &brandShortName; bãdze
                                             periodiczno sprôwdza przëstãpnotã zaktualnieniów.">
-<!ENTITY  noupdatesautodisabled.intro     "Felënk przëstãpnych aktualizacëji.Proszã sprôwdzëc pòzdze abò włączëc aùtomatné
+<!ENTITY  noupdatesautodisabled.intro     "Felënk przëstãpnych aktualizacëji.Proszã sprôwdzëc pòzdze abò włączëc automatné
                                             sprôwdzanié przëstãpnotë zaktualnieniów w programie &brandShortName;">
 
 <!ENTITY  manualUpdate.title              "Nié môsz dosc prawów do zaktualnieniô">

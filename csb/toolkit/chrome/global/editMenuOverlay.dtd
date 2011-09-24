@@ -33,8 +33,8 @@
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "W">
 <!ENTITY findCmd.label             "Nalezë">
-<!ENTITY findCmd.key               "F">
-<!ENTITY findCmd.accesskey         "F">
+<!ENTITY findCmd.key               "N">
+<!ENTITY findCmd.accesskey         "N">
 <!ENTITY findAgainCmd.label        "Nalezë znowa">
 <!ENTITY findAgainCmd.key          "G">
 <!ENTITY findAgainCmd.key2         "VK_F3">

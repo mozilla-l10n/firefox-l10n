@@ -133,8 +133,8 @@
 <!ENTITY formSigning.confirmPassword "Pòcwierdzë przez pòdpis przë ùżëcim certifikata ë pòdônim przédni parolë:">
 
 <!-- Strings for protectedAuth dialog -->
-<!ENTITY protectedAuth.title "Zabezpieczóny token aùtorizacëji">
-<!ENTITY protectedAuth.msg "Aùtentizëje sã proszã do tokenu. Metoda aùtentizacëji zanôlégô òd ôrtu tokenu.">
+<!ENTITY protectedAuth.title "Zabezpieczóny token autorizacëji">
+<!ENTITY protectedAuth.msg "Autentizëje sã proszã do tokenu. Metoda autentizacëji zanôlégô òd ôrtu tokenu.">
 <!ENTITY protectedAuth.tokenName.label "Token:">
 
 <!ENTITY certErrorDlg.title "Felënk bezpiecznégò sparłãczenia">

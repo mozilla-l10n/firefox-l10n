@@ -3,7 +3,7 @@
 <!ENTITY  popupExceptions.label       "Wëjimczi...">
 <!ENTITY  popupExceptions.accesskey   "W">
 
-<!ENTITY  loadImages.label            "Ladëjë òbrôzczi aùtomatno">
+<!ENTITY  loadImages.label            "Ladëjë òbrôzczi automatno">
 <!ENTITY  loadImages.accesskey        "i">
 <!ENTITY  exceptions.label            "Wëjimczi...">
 <!ENTITY  exceptions.accesskey        "j">

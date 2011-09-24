@@ -21,7 +21,7 @@
 <!ENTITY  noProxyTypeRadio.accesskey    "B">
 <!ENTITY  systemTypeRadio.label         "Brëkùjë systemòwich nastôwów serwerów proxy">
 <!ENTITY  systemTypeRadio.accesskey     "w">
-<!ENTITY  WPADTypeRadio.label           "Wëkrëwôj aùtomatno nastôwë serwerów proxy dlô ti sécë">
+<!ENTITY  WPADTypeRadio.label           "Wëkrëwôj automatno nastôwë serwerów proxy dlô ti sécë">
 <!ENTITY  WPADTypeRadio.accesskey       "a">
 <!ENTITY  manualTypeRadio.label         "Rãcznô kònfigùracëjô serwerów proxy:">
 <!ENTITY  manualTypeRadio.accesskey     "k">

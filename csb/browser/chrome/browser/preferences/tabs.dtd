@@ -16,7 +16,7 @@
 <!ENTITY showTabBar.label             "Wëskrzëniôj wiedno listew kôrtów">
 <!ENTITY showTabBar.accesskey         "w">
 
-<!ENTITY switchToNewTabs.label        "Pò òtemkniãcô lënka w nowi kôrce biéj do ni aùtomatno">
+<!ENTITY switchToNewTabs.label        "Pò òtemkniãcô lënka w nowi kôrce biéj do ni automatno">
 <!ENTITY switchToNewTabs.accesskey    "P">
 
 <!ENTITY showTabsInTaskbar.label          "Pòkażë pòdzdrzatk kôrtów w lëstwie zadaniów Windowsa">

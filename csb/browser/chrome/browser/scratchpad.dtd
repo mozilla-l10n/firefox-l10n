@@ -30,8 +30,8 @@
 <!ENTITY fileMenu.accesskey           "L">
 
 <!ENTITY newWindowCmd.label           "Nowé òkno">
-<!ENTITY newWindowCmd.accesskey       "N">
-<!ENTITY newWindowCmd.commandkey      "n">
+<!ENTITY newWindowCmd.accesskey       "w">
+<!ENTITY newWindowCmd.commandkey      "w">
 
 <!ENTITY openFileCmd.label            "Òtemkni lopk...">
 <!ENTITY openFileCmd.accesskey        "o">
@@ -73,7 +73,7 @@
 
 <!ENTITY selectAllCmd.label           "Wëbierzë wszëtkò">
 <!ENTITY selectAllCmd.key             "A">
-<!ENTITY selectAllCmd.accesskey       "W">
+<!ENTITY selectAllCmd.accesskey       "b">
 
 <!ENTITY run.label                    "Zrëszë">
 <!ENTITY run.accesskey                "r">

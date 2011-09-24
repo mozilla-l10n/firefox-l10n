@@ -38,7 +38,7 @@
 <!ENTITY errors.heading              "&brandShortName; nié mógł zaktualnic niechtërnëch przëdôwków.">
 <!ENTITY errors.description          "Winstalowónié niechtënéch aktualizacëji sã nie darzëło. &brandShortName; spróbùje zaktualizowac je pózdni jész rôz.">
 
-<!ENTITY footer.label                "Wiedno mòżesz sprôwiac przëdôwkama w Menadżeru Przëdôwków.">
+<!ENTITY footer.label                "Wiedno mòżesz sprôwiac przëdôwkama w Menadżerze Przëdôwków.">
 <!ENTITY cancel.label                "Òprzestóń">
 <!ENTITY back.label                  "Nazôd">
 <!ENTITY next.label                  "Dali">

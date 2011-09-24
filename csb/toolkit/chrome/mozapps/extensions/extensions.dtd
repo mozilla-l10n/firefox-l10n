@@ -49,7 +49,7 @@
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
      checking. -->
-<!ENTITY updates.updateAddonsAutomatically.label     "Aùtomatno aktualizëje przëdôwczi">
+<!ENTITY updates.updateAddonsAutomatically.label     "Automatno aktualizëje przëdôwczi">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "A">
 <!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
      Specific addons can have custom update checking behaviors ("Manually",
@@ -57,7 +57,7 @@
      update checking behavior for all add-ons to the default global behavior
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
-<!ENTITY updates.resetUpdatesToAutomatic.label       "Włączë aùtomatną aktualizacëjã przëdôwków">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Włączë automatną aktualizacëjã przëdôwków">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "r">
 <!ENTITY updates.resetUpdatesToManual.label          "Wëbierzë rãczną aktualizacëjã przëdôwków">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "r">
@@ -125,15 +125,15 @@
 <!ENTITY detail.homepage.label                "Domôcô starna">
 <!ENTITY detail.numberOfDownloads.label       "Zladënczi">
 
-<!ENTITY detail.contributions.description     "Aùtor negò przëdôwka prosë ò wspiarcé dlô pòstãpnégò rozwòju przëdôwka przez wësłónié małi finansowi kontribucëji.">
+<!ENTITY detail.contributions.description     "Autor negò przëdôwka prosë ò wspiarcé dlô pòstãpnégò rozwòju przëdôwka przez wësłónié małi finansowi kontribucëji.">
 
-<!ENTITY detail.updateType                    "Aùtomatné aktualizacëje">
+<!ENTITY detail.updateType                    "Automatné aktualizacëje">
 <!ENTITY detail.updateDefault.label           "Domëslno">
-<!ENTITY detail.updateDefault.tooltip         "Aùtomatno winstalëjë aktualizacëje żle taczi je domëslny nastôw">
+<!ENTITY detail.updateDefault.tooltip         "Automatno winstalëjë aktualizacëje żle taczi je domëslny nastôw">
 <!ENTITY detail.updateAutomatic.label         "Włączoné">
-<!ENTITY detail.updateAutomatic.tooltip       "Aùtomatno winstalëjë aktualizacëje">
+<!ENTITY detail.updateAutomatic.tooltip       "Automatno winstalëjë aktualizacëje">
 <!ENTITY detail.updateManual.label            "Wëłączoné">
-<!ENTITY detail.updateManual.tooltip          "Nié winstalëjë aktualizacëji aùtomatno">
+<!ENTITY detail.updateManual.tooltip          "Nié winstalëjë aktualizacëji automatno">
 <!ENTITY detail.home                          "Domôcô starna">
 <!ENTITY detail.repository                    "Profil przëdôwka">
 <!ENTITY detail.size                          "Miara">

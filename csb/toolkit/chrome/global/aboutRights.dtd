@@ -71,7 +71,7 @@
 <!ENTITY rights.safebrowsing-term1 "Òtemkni preferencëje aplikacëji">
 <!ENTITY rights.safebrowsing-term2 "Wëbierzë ùstôwë bezpiekù">
 <!ENTITY rights.safebrowsing-term3 "Wëłączë òptacëje żebë &quot;&blockAttackSites.label;&quot; ë &quot;&blockWebForgeries.label;&quot;">
-<!ENTITY rights.safebrowsing-term4 "Bezpieczné przezéranié je wëłączóné">
+<!ENTITY rights.safebrowsing-term4 "Bezpieczné przezéranié je wëłączoné">
 
 <!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-a "Pòłóżenié-wiédné przezéranié: ">

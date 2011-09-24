@@ -46,8 +46,8 @@
 <!ENTITY  validation.crlname.label                "Miono">
 <!ENTITY  validation.crllastupdate.label          "Slédnô aktualizacëjô">
 <!ENTITY  validation.crlnextupdate.label          "Nôslédnô aktualizacëjô">
-<!ENTITY  validation.crlautoupdateenabled.label   "Aùtomatnô aktualizacëjô">
-<!ENTITY  validation.crlautoupdatestatus.label    "Stón aùtomatnégò zaktualnienia">
+<!ENTITY  validation.crlautoupdateenabled.label   "Automatnô aktualizacëjô">
+<!ENTITY  validation.crlautoupdatestatus.label    "Stón automatnégò zaktualnienia">
 <!ENTITY  validation.deletecrl.label              "Rëmôj">
 <!ENTITY  validation.deletecrl.accesskey          "R">
 <!ENTITY  validation.updatecrl.label              "Aktualizacëjô">
@@ -55,8 +55,8 @@
 <!ENTITY  validation.advanced.label               "Nastôwë">
 <!ENTITY  validation.advanced.accesskey           "s">
 
-<!ENTITY  validation.crl.autoupdate.title         "Preferencëje aùtomatny aktualizacëji CRL">
-<!ENTITY  validation.crl.autoupdate.enable.label  "Włączë aùtomatną aktualizacëjã dlô ti lëstë CRL">
+<!ENTITY  validation.crl.autoupdate.title         "Preferencëje automatny aktualizacëji CRL">
+<!ENTITY  validation.crl.autoupdate.enable.label  "Włączë automatną aktualizacëjã dlô ti lëstë CRL">
 <!ENTITY  validation.crl.autoupdate.time.label1   "Aktualizëjë">
 <!ENTITY  validation.crl.autoupdate.time.label2   "Dni(ów) przed nôslédną aktualizacëjã">
 <!ENTITY  validation.crl.autoupdate.freq.label1   "Aktualizëjë co">
