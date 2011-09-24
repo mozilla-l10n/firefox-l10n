@@ -107,10 +107,6 @@
 <!ENTITY downloadSelectedCmd.accesskey "l">
 <!ENTITY downloadFlaggedCmd.label "Obtener mensajes destacados">
 <!ENTITY downloadFlaggedCmd.accesskey "O">
-<!ENTITY printCmd.label "Imprimir…">
-<!ENTITY printCmd.accesskey "I">
-<!ENTITY printPreviewCmd.label "Vista preliminar">
-<!ENTITY printPreviewCmd.accesskey "V">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Borrar mensaje">
