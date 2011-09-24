@@ -18,6 +18,7 @@
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Aktivigitaj kromprogramoj">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Agordoj de konstruado">
 <!ENTITY aboutSupport.appBasicsUserAgent "Agento de uzanto">
+<!ENTITY aboutSupport.appBasicsCrashIDs "Raportoj pri paneoj">
 
 <!ENTITY aboutSupport.show.label "Malfermi entenantan dosierujon">
 
