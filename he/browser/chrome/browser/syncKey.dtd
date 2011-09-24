@@ -1,3 +1,17 @@
+<!--
+# Translator(s):
+#
+# hatul <amiadb@gmail.com>
+# elad <el.il@doom.co.il>
+# Yaron <sh.yaron@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!ENTITY syncKey.page.title               "מפתח &syncBrand.fullName.label; שלך">
 <!ENTITY syncKey.page.description         "מפתח זה משמש לפיענוח המידע שלך בחשבון &syncBrand.fullName.label;. אתה תצטרך להקיש את המפתח הזה בכל פעם שתגדיר את &syncBrand.fullName.label; על התקן או מחשב חדש.">
 <!ENTITY syncKey.keepItSecret.heading     "שמור עליו חסוי">
@@ -12,3 +26,5 @@
 <!ENTITY syncKey.footer1.label            "תנאי השירות של &syncBrand.fullName.label; זמינים בכתובת ">
 <!ENTITY syncKey.footer2.label            "מדיניות הפרטיות זמינה בכתובת ">
 <!ENTITY syncKey.footer3.label            ".">
+
+

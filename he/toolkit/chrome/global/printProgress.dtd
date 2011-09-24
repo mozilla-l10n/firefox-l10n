@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# elad <el.il@doom.co.il>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!--LOCALIZATION NOTE printProgress.dtd Main UI for Print Progress Dialog -->
 <!ENTITY printWindow.title "מדפיס"> 
 <!ENTITY title    "כותרת:"> 
@@ -15,3 +27,5 @@
 
     #1 will be replaced by the percentage of the file that has been saved -->
 <!ENTITY percentPrint "#1&#037;">
+
+

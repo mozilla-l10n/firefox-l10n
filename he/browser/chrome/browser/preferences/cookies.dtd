@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!ENTITY window.width                       "36em">
 
 <!ENTITY     cookiesonsystem.label          "העוגיות הבאות מאוחסנות על המחשב שלך:">
@@ -26,3 +38,5 @@
 
 <!ENTITY     button.close.label             "סגור">
 <!ENTITY     button.close.accesskey         "ס">
+
+

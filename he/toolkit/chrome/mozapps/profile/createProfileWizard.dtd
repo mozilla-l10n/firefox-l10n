@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# hatul <amiadb@gmail.com>
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!ENTITY newprofile.title             "אשף יצירת פרופיל">
 <!ENTITY window.size                  "width: 45em; height: 32em;">
 
@@ -19,3 +32,5 @@
 <!ENTITY button.choosefolder.accesskey  "ת">
 <!ENTITY button.usedefault.label        "השתמש בתיקיית ברירת המחדל">
 <!ENTITY button.usedefault.accesskey    "ה">
+
+

@@ -1,3 +1,10 @@
+<!--
+# Translator(s):
+#
+# elad <el.il@doom.co.il>
+# Yaron <sh.yaron@gmail.com>
+#
+-->
 <!ENTITY aboutSupport.pageTitle "מידע לפתרון בעיות">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
@@ -18,6 +25,7 @@
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "תוספים חיצוניים פעילים">
 <!ENTITY aboutSupport.appBasicsBuildConfig "הגדרות בנייה">
 <!ENTITY aboutSupport.appBasicsUserAgent "סוכן משתמש">
+<!ENTITY aboutSupport.appBasicsCrashIDs "דיווחי קריסה">
 
 <!ENTITY aboutSupport.show.label "פתח תיקייה מכילה">
 
@@ -36,3 +44,5 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.updateHistoryTitle "היסטוריית עדכונים">
 
 <!ENTITY aboutSupport.copyToClipboard.label "העתק הכול ללוח">
+
+

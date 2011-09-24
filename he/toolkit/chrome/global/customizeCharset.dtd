@@ -1,3 +1,9 @@
+<!--
+# Translator(s):
+#
+# amire80 <amir.aharoni@mail.huji.ac.il>
+#
+-->
 <!-- -*- Mode: HTML -*- -->
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
@@ -48,3 +54,5 @@
 <!ENTITY moveUp.accessKey   "ל">
 <!ENTITY moveDown.label     "הזז למטה">
 <!ENTITY moveDown.accessKey "מ">
+
+

@@ -1,3 +1,11 @@
+<!--
+# Translator(s):
+#
+# Yaron <sh.yaron@gmail.com>
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+# elad <el.il@doom.co.il>
+#
+-->
 <!ENTITY % brandDTD
     SYSTEM "chrome://branding/locale/brand.dtd">
   %brandDTD;
@@ -18,3 +26,5 @@
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "קל להתאים את ה־Firefox שלך בדיוק לצרכים שלך. <a>בחר מאלפי תוספות</a>.">
+
+

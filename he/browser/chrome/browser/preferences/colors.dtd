@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!ENTITY  colorsDialog.title              "צבעים">
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
@@ -20,3 +32,5 @@
 <!ENTITY  linkColor.accesskey             "ש">
 <!ENTITY  visitedLinkColor.label          "קישורים שביקרתי:">
 <!ENTITY  visitedLinkColor.accesskey      "ב">
+
+

@@ -1,3 +1,17 @@
+<!--
+# Translator(s):
+#
+# elad <el.il@doom.co.il>
+# hatul <amiadb@gmail.com>
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!ENTITY testpilot.brand.label                      "Test Pilot">
 <!ENTITY testpilot.settings.label                   "הגדרות">
 <!ENTITY testpilot.settings.dataSubmission.label    "שליחת מידע">
@@ -31,3 +45,5 @@
 <!ENTITY testpilot.sad.label          "Firefox מעציב אותי כי…">
 <!ENTITY testpilot.broken.label      "דווח על אתר זה כשבור…">
 <!ENTITY testpilot.idea.label        "תנו לנו הצעות…">
+
+

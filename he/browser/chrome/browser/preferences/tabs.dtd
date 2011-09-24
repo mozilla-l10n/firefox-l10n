@@ -1,3 +1,9 @@
+<!--
+# Translator(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!ENTITY newWindowsAsTabs.label       "פתח חלונות חדשים כלשוניות חדשות">
 <!ENTITY newWindowsAsTabs.accesskey   "ל">
 
@@ -15,3 +21,5 @@
 
 <!ENTITY showTabsInTaskbar.label          "הצג תצוגה מקדימה של לשוניות בסרגל המשימות של Windows">
 <!ENTITY showTabsInTaskbar.accesskey      "ת">
+
+

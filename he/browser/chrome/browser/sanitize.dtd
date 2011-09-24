@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+# Yaron <sh.yaron@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!ENTITY sanitizePrefs2.title          "הגדרות למחיקת היסטוריה">
 <!ENTITY sanitizeDialog2.title         "מחיקת היסטוריה אחרונה">
 
@@ -60,3 +73,5 @@ that require it.  -->
 
 <!ENTITY dialog.width                 "32em">
 <!ENTITY column.width                 "14em">
+
+

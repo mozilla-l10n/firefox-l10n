@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 
 <!ENTITY  splash_screen_loading "בטעינה">
 <!ENTITY  splash_screen_installing_libs "מתקין ספריות\u2026">
@@ -16,3 +28,10 @@
 <!ENTITY  sending_crash_report "שולח דיווח קריסה\u2026">
 <!ENTITY  exit_label "יציאה">
 <!ENTITY  continue_label "המשך">
+
+<!ENTITY  launcher_shortcuts_title "ישומי רשת של &brandShortName;">
+<!ENTITY  launcher_shortcuts_empty "לא אותרו ישומי רשת">
+
+<!ENTITY choose_file "בחירת קובץ">
+
+

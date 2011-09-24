@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!ENTITY window.width                                   "30em">
 
 <!ENTITY languages.customize.Header                     "שפות">
@@ -9,7 +21,9 @@
 <!ENTITY languages.customize.moveDown.accesskey         "מ">
 <!ENTITY languages.customize.deleteButton.label         "הסרה">
 <!ENTITY languages.customize.deleteButton.accesskey     "ה">
-<!ENTITY languages.customize.selectLanguage.label       "בחר שפה להוספה...">
+<!ENTITY languages.customize.selectLanguage.label       "בחר שפה להוספה…">
 <!ENTITY languages.customize.addButton.label            "הוספה">
 <!ENTITY languages.customize.addButton.accesskey        "ס">
+
+
 

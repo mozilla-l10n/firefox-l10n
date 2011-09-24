@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# hatul <amiadb@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!ENTITY blocklist.title             "ייתכן ותוספות מייצרות בעיות">
 <!ENTITY blocklist.style             "width: 45em; height: 30em">
 <!ENTITY blocklist.summary           "&brandShortName; זיהה שהתוספות הבאות ידועות ככאלה הגורמות לבעיות יציבות או אבטחה:">
@@ -11,3 +23,5 @@
 
 <!ENTITY blocklist.blocked.label     "נחסם">
 <!ENTITY blocklist.checkbox.label    "נטרל">
+
+

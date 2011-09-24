@@ -1,3 +1,11 @@
+<!--
+# Translator(s):
+#
+# Yaron <sh.yaron@gmail.com>
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+# amire80 <amir.aharoni@mail.huji.ac.il>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -133,3 +141,5 @@
 <!ENTITY certErrorDlg.title "חיבור מאובטח נכשל">
 <!ENTITY certErrorDlg.info1 "ייתכן שקיימת בעיה בהגדרות השרת או שמישהו מנסה להתחזות לשרת.">
 <!ENTITY certErrorDlg.info2 "אם הצלחת להתחבר לשרת זה בהצלחה בעבר, ייתכן שמדובר בשגיאה זמנית ותוכל לנסות שוב במועד מאוחר יותר.">
+
+

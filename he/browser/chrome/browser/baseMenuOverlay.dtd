@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# elad <el.il@doom.co.il>
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "מזער חלון">
 <!ENTITY bringAllToFront.label    "הבא הכול לקדמה">
@@ -36,3 +49,5 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "הראה הכול">
+
+

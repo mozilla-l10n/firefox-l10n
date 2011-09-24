@@ -1,3 +1,12 @@
+<!--
+# Translator(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+# elad <el.il@doom.co.il>
+# hatul <amiadb@gmail.com>
+# Yaron <sh.yaron@gmail.com>
+#
+-->
 <!ENTITY  updateWizard.title              "עדכוני תוכנה">
 
 <!ENTITY  checking.title                  "בודק אם קיימים עדכונים">
@@ -78,3 +87,5 @@
 <!ENTITY  update.details.label            "פרטים">
 <!ENTITY  update.installedOn.label        "הותקן בתאריך:">
 <!ENTITY  update.status.label             "מצב:">
+
+
