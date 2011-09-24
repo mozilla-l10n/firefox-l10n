@@ -21,6 +21,7 @@
 <!ENTITY aboutSupport.appBasicsBuildConfig "Buildconfiguratie">
 <!ENTITY aboutSupport.appBasicsUserAgent "Useragent">
 <!ENTITY aboutSupport.appBasicsCrashIDs "Crashrapporten">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Geheugengebruik">
 
 <!ENTITY aboutSupport.show.label "Bijbehorende map openen">
 
