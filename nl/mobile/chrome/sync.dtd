@@ -3,7 +3,6 @@
 <!ENTITY sync.connect               "Verbinden">
 <!ENTITY sync.connected             "Verbonden">
 <!ENTITY sync.details               "Details">
-<!ENTITY sync.synchronize           "Sync inschakelen">
 <!ENTITY sync.deviceName            "Dit apparaat">
 <!ENTITY sync.disconnect            "Verbinding verbreken">
 <!ENTITY sync.syncNow               "Nu synchroniseren">
