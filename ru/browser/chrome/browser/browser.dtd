@@ -150,6 +150,8 @@
 <!ENTITY inspectMenu.label "Инспектор">
 <!ENTITY inspectMenu.accesskey "н">
 <!ENTITY inspectMenu.commandkey "I">
+<!ENTITY inspectContextMenu.label "Исследовать элемент">
+<!ENTITY inspectContextMenu.accesskey "л">
 <!ENTITY scratchpad.label "Простой редактор JavaScript">
 <!ENTITY scratchpad.accesskey "р">
 <!ENTITY scratchpad.keycode "VK_F4">

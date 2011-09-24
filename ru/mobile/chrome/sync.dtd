@@ -3,7 +3,6 @@
 <!ENTITY sync.connect "Соединиться">
 <!ENTITY sync.connected "Соединён">
 <!ENTITY sync.details "Подробности">
-<!ENTITY sync.synchronize "Включить синхронизацию">
 <!ENTITY sync.deviceName "Это устройство">
 <!ENTITY sync.disconnect "Разъединиться">
 <!ENTITY sync.syncNow "Синхронизировать">
