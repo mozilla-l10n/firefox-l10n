@@ -1,4 +1,3 @@
-<!ENTITY  splash_screen_loading "Caricamento">
 <!ENTITY  splash_firstrun "Configurazione di &brandShortName;\u2026">
 <!ENTITY  no_space_to_start_error "Spazio libero insufficiente per avviare &brandShortName;.">
 <!ENTITY  error_loading_file "Si è verificato un errore durante il caricamento di un file necessario per l’esecuzione di &brandShortName;">
