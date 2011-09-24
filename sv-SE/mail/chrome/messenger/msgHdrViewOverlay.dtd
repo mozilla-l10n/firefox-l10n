@@ -100,7 +100,7 @@
 <!ENTITY viewSourceMenuItem1.label "Visa källkod">
 <!ENTITY viewSourceMenuItem1.accesskey "V">
 <!ENTITY otherActionsPrint1.label "Skriv ut…">
-<!ENTITY otherActionsPrint.accesskey "u">
+<!ENTITY otherActionsPrint1.accesskey "u">
 
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Öppna">
