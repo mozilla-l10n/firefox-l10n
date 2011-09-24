@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!-- extracted from content/viewSource.xul -->
 
 <!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE --> 
@@ -74,3 +86,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY forwardCmd.accesskey "ק">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
+
+

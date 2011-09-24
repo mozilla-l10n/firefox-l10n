@@ -1,3 +1,11 @@
+<!--
+# Translator(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+# Yaron <sh.yaron@gmail.com>
+# elad <el.il@doom.co.il>
+#
+-->
 <!-- The page shown when not logged in... -->
 <!ENTITY setupButton.label          "התקנת &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "s">
@@ -13,9 +21,10 @@
 <!ENTITY manageAccount.label          "ניהול חשבון">
 <!ENTITY manageAccount.accesskey      "נ">
 <!ENTITY viewQuota.label              "הצג מכסה">
-<!ENTITY changePassword.label         "שינוי ססמה">
+<!ENTITY changePassword2.label         "שינוי ססמה…">
 <!ENTITY mySyncKey.label              "מפתח הסנכרון שלי">
-<!ENTITY resetSync.label              "איפוס Sync">
+<!ENTITY resetSync2.label              "איפוס Sync…">
+
 <!ENTITY addDevice.label              "הוספת התקן">
 
 <!ENTITY syncMy.label               "סנכרן">
@@ -33,8 +42,10 @@
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label       "שם מחשב:">
 <!ENTITY syncComputerName.accesskey   "ש">
-<!ENTITY deactivateDevice.label       "בטל את פעולת התקן זה">
+<!ENTITY unlinkDevice.label           "נתק התקן זה">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "לתנאי השירות">
 <!ENTITY prefs.ppLink.label         "מדיניות פרטיות">
+
+

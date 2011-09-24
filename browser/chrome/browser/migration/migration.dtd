@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 
 <!ENTITY migrationWizard.title          "אשף היבוא">
 
@@ -32,4 +44,6 @@
 
 <!ENTITY done.title                     "היבוא הושלם">
 <!ENTITY done.label                     "הפריטים הבאים יובאו בהצלחה:">
+
+
 

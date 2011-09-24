@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# 123aaa <123aaa@gmail.com>
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!ENTITY privatebrowsingpage.title                 "גלישה פרטית">
 <!ENTITY privatebrowsingpage.title.normal          "האם ברצונך להתחיל גלישה פרטית?">
 
@@ -22,3 +35,5 @@
 
 <!ENTITY privatebrowsingpage.moreInfo                  "למרות שמחשב זה לא ישמור את היסטורית הגלישה שלך, ספק שירותי האינטרנט שלך או המעסיק עדיין יוכלו לעקוב אחר הדפים שאתה מבקר בהם.">
 <!ENTITY privatebrowsingpage.learnMore                 "מידע נוסף">
+
+

@@ -1,3 +1,9 @@
+<!--
+# Translator(s):
+#
+# Yaron <sh.yaron@gmail.com>
+#
+-->
 <!ENTITY  warnAddonInstall.label        "הזהר אותי כאשר אתרים מנסים להתקין תוספות">
 <!ENTITY  warnAddonInstall.accesskey    "א">
 
@@ -32,3 +38,5 @@
 
 <!ENTITY  savedPasswords.label            "ססמאות שמורות…">
 <!ENTITY  savedPasswords.accesskey        "ס">
+
+

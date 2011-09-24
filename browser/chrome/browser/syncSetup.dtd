@@ -1,3 +1,19 @@
+<!--
+# Translator(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+# Yaron <sh.yaron@gmail.com>
+# elad <el.il@doom.co.il>
+# hatul <amiadb@gmail.com>
+# amire80 <amir.aharoni@mail.huji.ac.il>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!ENTITY accountSetupTitle.label    "התקנת &syncBrand.fullName.label;">
 
 <!-- First page of the wizard -->
@@ -108,3 +124,5 @@
 <!ENTITY setup.successPage.title "ההתקנה הושלמה">
 <!ENTITY changeOptions.label "ניתן לשנות העדפה זו על ידי בחירה באפשרויות הסנכרון להלן.">
 <!ENTITY continueUsing.label "כעת תוכל להמשיך להשתמש ב־&brandShortName;.">
+
+

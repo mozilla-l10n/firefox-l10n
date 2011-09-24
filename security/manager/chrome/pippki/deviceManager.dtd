@@ -1,3 +1,9 @@
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -67,3 +73,5 @@
 <!ENTITY loaddevice.browse.accesskey            "ע">
 
 <!ENTITY loaddevice.title                       "PKCS#11 טען התקן">
+
+

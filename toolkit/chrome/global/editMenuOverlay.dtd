@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!ENTITY editMenu.label            "עריכה">
 <!ENTITY editMenu.accesskey        "ע">
 <!ENTITY undoCmd.label             "בטל">
@@ -29,3 +41,5 @@
 <!ENTITY findAgainCmd.accesskey    "ש">
 <!ENTITY findPreviousCmd.label     "מצא את הקודם">
 <!ENTITY findPreviousCmd.accesskey "v">
+
+

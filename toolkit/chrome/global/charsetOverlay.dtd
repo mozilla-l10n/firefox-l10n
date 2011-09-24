@@ -1,3 +1,9 @@
+<!--
+# Translator(s):
+#
+# amire80 <amir.aharoni@mail.huji.ac.il>
+#
+-->
 <!-- extracted from charsetOverlay.xul -->
 <!ENTITY charsetMenu.label             "קידוד תווים">
 <!ENTITY charsetMenu.accesskey         "ק">
@@ -19,3 +25,5 @@
 <!ENTITY charsetMenuUnicode.accesskey  "נ">
 <!ENTITY charsetCustomize.label        "התאם רשימה...">
 <!ENTITY charsetCustomize.accesskey    "ה">
+
+

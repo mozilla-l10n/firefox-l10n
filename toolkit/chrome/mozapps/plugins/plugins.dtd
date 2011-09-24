@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+# amire80 <amir.aharoni@mail.huji.ac.il>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!ENTITY pluginWizard.title                                  "שירות חיפוש תוספים">
 <!ENTITY pluginWizard.firstPage.title                        "ברוכים הבאים אל &pluginWizard.title;">
 
@@ -40,3 +53,5 @@
 <!ENTITY report.disabled                                     "דיווח קריסות מנוטרל.">
 <!ENTITY report.failed                                       "השליחה נכשלה.">
 <!ENTITY report.unavailable                                  "אין דיווח זמין.">
+
+

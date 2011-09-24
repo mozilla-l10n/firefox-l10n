@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 
 <!ENTITY  prefWindow.titleWin     "אפשרויות">
 <!ENTITY  prefWindow.titleGNOME   "העדפות של &brandShortName;">
@@ -17,3 +29,5 @@
 
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync.title          "Sync">
+
+

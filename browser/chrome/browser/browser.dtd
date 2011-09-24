@@ -1,3 +1,20 @@
+<!--
+# Translator(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+# 123aaa <123aaa@gmail.com>
+# elad <el.il@doom.co.il>
+# hatul <amiadb@gmail.com>
+# dror3go <drortrigubof@gmail.com>
+# amire80 <amir.aharoni@mail.huji.ac.il>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
 
@@ -111,6 +128,8 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "קדימה">
 <!ENTITY forwardCmd.accesskey         "ק">
 <!ENTITY forwardButton.tooltip        "התקדם דף אחד קדימה">
+<!ENTITY backForwardButtonMenu.tooltip "לחיצה ימנית או משיכה מטה כדי להציג היסטוריה">
+<!ENTITY backForwardButtonMenuMac.tooltip "משיכה מטה כדי להציג היסטוריה">
 <!ENTITY reloadCmd.label              "טען מחדש">
 <!ENTITY reloadCmd.accesskey          "ט">
 <!ENTITY reloadButton.tooltip         "טען מחדש דף נוכחי">
@@ -308,6 +327,7 @@ can reach it easily. -->
   Mac:  Cmd+K (cross platform binding)
         Cmd+Opt+F (platform convention)
   Win:  Ctrl+K (cross platform binding)
+        Ctrl+E (IE compat)
 
   We support Ctrl+K on all platforms now and advertise it in the menu since it is
   our standard - it is a "safe" choice since it is near no harmful keys like "W" as
@@ -318,6 +338,7 @@ can reach it easily. -->
 
  -->
 <!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
 <!ENTITY tabView.commandkey           "e">
@@ -436,7 +457,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.label       "התקרבות">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "ק">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!-- + is above this key on many keyboards --><!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "התרחקות">
@@ -557,3 +578,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY addonBarCloseButton.tooltip  "סגירת שורת התוספות">
 <!ENTITY toggleAddonBarCmd.key        "/">
+
+

@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!ENTITY  engineManager.title       "נהל את רשימת מנועי החיפוש">
 <!ENTITY  engineManager.style       "min-width: 35em;">
 <!ENTITY  engineManager.intro       "מנועי החיפוש הבאים מותקנים כעת בדפדפן:">
@@ -23,3 +35,5 @@
 
 <!ENTITY  restoreDefaults.label     "שחזר ברירת מחדל">
 <!ENTITY  restoreDefaults.accesskey "ש">
+
+

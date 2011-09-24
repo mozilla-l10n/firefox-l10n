@@ -1,3 +1,17 @@
+<!--
+# Translator(s):
+#
+# amire80 <amir.aharoni@mail.huji.ac.il>
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+# elad <el.il@doom.co.il>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!-- LOCALIZATION NOTE : FILE This file contains the Scratchpad window strings -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
@@ -115,9 +129,4 @@
 <!ENTITY webConsoleCmd.accesskey      "מ">
 <!ENTITY webConsoleCmd.commandkey     "k">
 
-<!-- LOCALIZATION NOTE (textbox.placeholder1): This is some placeholder text
-  -  that appears when the Scratchpad's text area is empty and unfocused.
-  -  It should be a one-line JavaScript comment, i.e., preceded by '//'
-  -->
-<!ENTITY textbox.placeholder1         "// ‫נא להכניס קטע קוד JavaScript, לסמן אותו, ללחוץ על כפתור העכבר הימני ולבחור הרצה, חקירה או תצוגה.‬">
 
