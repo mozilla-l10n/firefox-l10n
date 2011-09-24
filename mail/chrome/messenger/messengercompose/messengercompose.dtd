@@ -92,6 +92,8 @@
 <!ENTITY viewMenu.accesskey "s">
 <!ENTITY viewToolbarsMenuNew.label "Verktygsfält"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "V"> 
+<!ENTITY menubarCmd.label "Menyfält">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showCompositionToolbarCmd.label "Skriv">
 <!ENTITY showCompositionToolbarCmd.accesskey "k">
 <!ENTITY showFormattingBarCmd.label "Formateringsverktyg">

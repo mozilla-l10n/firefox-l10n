@@ -153,6 +153,8 @@
 <!ENTITY redoDefaultCmd.accesskey "G">
 
 <!-- View Menu -->
+<!ENTITY menubarCmd.label "Menyfält">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showMessengerToolbarCmd.label		"Meddelandeverktyg">
 <!ENTITY showMessengerToolbarCmd.accesskey	"v">
 <!ENTITY customizeToolbar.label		"Anpassa…">
