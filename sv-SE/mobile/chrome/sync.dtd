@@ -3,7 +3,6 @@
 <!ENTITY sync.connect               "Anslut">
 <!ENTITY sync.connected             "Ansluten">
 <!ENTITY sync.details               "Detaljer">
-<!ENTITY sync.synchronize           "Aktivera Sync">
 <!ENTITY sync.deviceName            "Den här enheten">
 <!ENTITY sync.disconnect            "Koppla ned">
 <!ENTITY sync.syncNow               "Synka nu">
