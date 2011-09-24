@@ -107,10 +107,6 @@
 <!ENTITY downloadSelectedCmd.accesskey "c">
 <!ENTITY downloadFlaggedCmd.label "Gemarkeerde berichten ophalen">
 <!ENTITY downloadFlaggedCmd.accesskey "G">
-<!ENTITY printCmd.label "Afdrukken…">
-<!ENTITY printCmd.accesskey "d">
-<!ENTITY printPreviewCmd.label "Afdrukvoorbeeld">
-<!ENTITY printPreviewCmd.accesskey "v">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Bericht verwijderen">
