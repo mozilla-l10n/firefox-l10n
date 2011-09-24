@@ -38,43 +38,42 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField2.label "till: ">
-<!ENTITY fromField2.label "från: ">
-<!ENTITY senderField2.label "avsändare: ">
-<!ENTITY organizationField2.label "organisation: ">
-<!ENTITY replyToField2.label "svara till: ">
+<!ENTITY toField3.label "Till ">
+<!ENTITY fromField3.label "Från ">
+<!ENTITY senderField3.label "Avsändare ">
+<!ENTITY organizationField3.label "Organisation ">
+<!ENTITY replyToField3.label "Svara till ">
 
-<!ENTITY subjectField2.label "ämne: ">
-<!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
-<!ENTITY ccField2.label "kopia: ">
-<!ENTITY bccField2.label "dold kopia: ">
-<!ENTITY newsgroupsField2.label "diskussionsgrupper: ">
-<!ENTITY followupToField2.label "uppföljning till: ">
-<!ENTITY tagsHdr2.label "etiketter: ">
-<!ENTITY dateField2.label "datum: ">
-<!ENTITY userAgentField2.label "använt program: ">
-<!ENTITY referencesField2.label "referenser: ">
-<!ENTITY messageIdField2.label "meddelande-ID: ">
-<!ENTITY inReplyToField2.label "svar på: ">
-<!ENTITY originalWebsite2.label "webbplats: ">
+<!ENTITY subjectField3.label "Ämne ">
+<!ENTITY ccField3.label "Kopia ">
+<!ENTITY bccField3.label "Dold kopia ">
+<!ENTITY newsgroupsField3.label "Diskussionsgrupper ">
+<!ENTITY followupToField3.label "Uppföljning till ">
+<!ENTITY tagsHdr3.label "Etiketter ">
+<!ENTITY dateField3.label "Datum ">
+<!ENTITY userAgentField3.label "Använt program ">
+<!ENTITY referencesField3.label "Referenser ">
+<!ENTITY messageIdField3.label "Meddelande-ID ">
+<!ENTITY inReplyToField3.label "Svar på ">
+<!ENTITY originalWebsite3.label "Webbplats ">
 
 <!ENTITY editMessageDescription.label "Det här är ett utkast">
 <!ENTITY editMessageButton.label "Redigera…">
-<!ENTITY hdrArchiveButton.label "arkivera">
-<!ENTITY hdrArchiveButton.tooltip "arkivera meddelandet">
-<!ENTITY hdrSmartReplyButton.label "svara smart">
-<!ENTITY hdrReplyButton.label "svara">
-<!ENTITY hdrReplyButton.tooltip "besvara meddelandet">
-<!ENTITY hdrReplyAllButton.label "svara alla">
-<!ENTITY hdrReplyAllButton.tooltip "svara avsändaren och alla mottagare">
-<!ENTITY hdrReplyListButton.label "svara listan">
-<!ENTITY hdrReplyListButton.tooltip "svara till e-postlistan">
-<!ENTITY hdrForwardButton.label "vidarebefordra">
-<!ENTITY hdrForwardButton.tooltip "vidarebefordra meddelandet">
-<!ENTITY hdrJunkButton.label "skräp">
-<!ENTITY hdrJunkButton.tooltip "märk meddelandet som skräp">
-<!ENTITY hdrTrashButton.label "ta bort">
-<!ENTITY hdrTrashButton.tooltip "ta bort meddelandet">
+<!ENTITY hdrArchiveButton1.label "Arkivera">
+<!ENTITY hdrArchiveButton1.tooltip "Arkivera meddelandet">
+<!ENTITY hdrSmartReplyButton1.label "Svara smart">
+<!ENTITY hdrReplyButton1.label "Svara">
+<!ENTITY hdrReplyButton1.tooltip "Besvara meddelandet">
+<!ENTITY hdrReplyAllButton1.label "Svara alla">
+<!ENTITY hdrReplyAllButton1.tooltip "Svara avsändaren och alla mottagare">
+<!ENTITY hdrReplyListButton1.label "Svara listan">
+<!ENTITY hdrReplyListButton1.tooltip "Svara till e-postlistan">
+<!ENTITY hdrForwardButton1.label "Vidarebefordra">
+<!ENTITY hdrForwardButton1.tooltip "Vidarebefordra meddelandet">
+<!ENTITY hdrJunkButton1.label "Skräp">
+<!ENTITY hdrJunkButton1.tooltip "Märk meddelandet som skräp">
+<!ENTITY hdrTrashButton1.label "Ta bort">
+<!ENTITY hdrTrashButton1.tooltip "Ta bort meddelandet">
 
 <!ENTITY hdrViewToolbarShowFull.label "Visa ikoner och text">
 <!ENTITY hdrViewToolbarShowFull.accesskey "V">
@@ -85,22 +84,22 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Visa alltid Svara till avsändaren">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "a">
 
-<!ENTITY otherActionsButton.label "andra åtgärder">
-<!ENTITY otherActionsOpenConversation.label "öppna i konversation">
-<!ENTITY otherActionsOpenConversation.accesskey "k">
-<!ENTITY otherActionsOpenInNewWindow.label "öppna i nytt fönster">
-<!ENTITY otherActionsOpenInNewWindow.accesskey "ö">
-<!ENTITY otherActionsOpenInNewTab.label "öppna i ny flik">
-<!ENTITY otherActionsOpenInNewTab.accesskey "a">
-<!ENTITY markAsReadMenuItem.label "markera som läst">
-<!ENTITY markAsReadMenuItem.accesskey "m">
-<!ENTITY markAsUnreadMenuItem.label "markera som oläst">
-<!ENTITY markAsUnreadMenuItem.accesskey "o">
-<!ENTITY saveAsMenuItem.label "spara som…">
-<!ENTITY saveAsMenuItem.accesskey "s">
-<!ENTITY viewSourceMenuItem.label "visa källkod…">
-<!ENTITY viewSourceMenuItem.accesskey "v">
-<!ENTITY otherActionsPrint.label "skriv ut…">
+<!ENTITY otherActionsButton1.label "Andra åtgärder">
+<!ENTITY otherActionsOpenConversation1.label "Öppna i konversation">
+<!ENTITY otherActionsOpenConversation1.accesskey "k">
+<!ENTITY otherActionsOpenInNewWindow1.label "Öppna i nytt fönster">
+<!ENTITY otherActionsOpenInNewWindow1.accesskey "Ö">
+<!ENTITY otherActionsOpenInNewTab1.label "Öppna i ny flik">
+<!ENTITY otherActionsOpenInNewTab1.accesskey "a">
+<!ENTITY markAsReadMenuItem1.label "Markera som läst">
+<!ENTITY markAsReadMenuItem1.accesskey "M">
+<!ENTITY markAsUnreadMenuItem1.label "Markera som oläst">
+<!ENTITY markAsUnreadMenuItem1.accesskey "o">
+<!ENTITY saveAsMenuItem1.label "Spara som…">
+<!ENTITY saveAsMenuItem1.accesskey "S">
+<!ENTITY viewSourceMenuItem1.label "Visa källkod">
+<!ENTITY viewSourceMenuItem1.accesskey "V">
+<!ENTITY otherActionsPrint1.label "Skriv ut…">
 <!ENTITY otherActionsPrint.accesskey "u">
 
 <!-- Attachment context menu items -->
@@ -122,26 +121,10 @@
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "T">
 
 <!-- Attachment toolbar items -->
-<!ENTITY saveAttachmentButton.label       "spara">
-<!ENTITY saveAttachmentButton.tooltip     "spara den bifogade filen">
-<!ENTITY saveAllAttachmentsButton.label   "spara alla">
-<!ENTITY saveAllAttachmentsButton.tooltip "spara alla bifogade filer">
-<!ENTITY openAttachmentMenuItem.label     "öppna">
-<!ENTITY openAttachmentMenuItem.accesskey    "ö">
-<!ENTITY saveAsAttachmentMenuItem.label    "spara som…">
-<!ENTITY saveAsAttachmentMenuItem.accesskey    "s">
-<!ENTITY detachAttachmentMenuItem.label    "avskilj…">
-<!ENTITY detachAttachmentMenuItem.accesskey    "k">
-<!ENTITY deleteAttachmentMenuItem.label    "ta bort">
-<!ENTITY deleteAttachmentMenuItem.accesskey    "b">
-<!ENTITY openAllAttachmentsMenuItem.label    "öppna alla…">
-<!ENTITY openAllAttachmentsMenuItem.accesskey    "ö">
-<!ENTITY saveAllAttachmentsMenuItem.label    "spara alla…">
-<!ENTITY saveAllAttachmentsMenuItem.accesskey    "a">
-<!ENTITY detachAllAttachmentsMenuItem.label    "avskilj alla…">
-<!ENTITY detachAllAttachmentsMenuItem.accesskey    "v">
-<!ENTITY deleteAllAttachmentsMenuItem.label    "ta bort alla…">
-<!ENTITY deleteAllAttachmentsMenuItem.accesskey    "t">
+<!ENTITY saveAttachmentButton1.label       "Spara">
+<!ENTITY saveAttachmentButton1.tooltip     "Spara den bifogade filen">
+<!ENTITY saveAllAttachmentsButton1.label   "Spara alla">
+<!ENTITY saveAllAttachmentsButton1.tooltip "Spara alla bifogade filer">
 
 <!ENTITY copyLinkCmd.label        "Kopiera länkadress">
 <!ENTITY copyLinkCmd.accesskey    "K">
