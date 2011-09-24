@@ -111,6 +111,8 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "Antaŭen">
 <!ENTITY forwardCmd.accesskey         "A">
 <!ENTITY forwardButton.tooltip        "Unu paĝo antaŭen">
+<!ENTITY backForwardButtonMenu.tooltip "Alklaku per la dekstra butono aŭ tiru malsupren por montri la historion">
+<!ENTITY backForwardButtonMenuMac.tooltip "Tiru malsupren por montri la historion">
 <!ENTITY reloadCmd.label              "Reŝargi">
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY reloadButton.tooltip         "Reŝargi nunan paĝon">
@@ -318,6 +320,7 @@ can reach it easily. -->
 
  -->
 <!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
 <!ENTITY tabView.commandkey           "e">
