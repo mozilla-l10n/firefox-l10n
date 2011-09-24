@@ -534,12 +534,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY previousButton.label "Tidigare">
 <!ENTITY backButton1.label "Bakåt">
 <!ENTITY goForwardButton1.label "Framåt">
+<!ENTITY deleteItem.title "Ta bort">
 <!ENTITY deleteButton.label "Ta bort">
 <!ENTITY undeleteButton.label "Återställ">
 <!ENTITY markButton.label "Märk">
 <!ENTITY printButton.label "Skriv ut">
 <!ENTITY stopButton.label "Stopp">
 <!ENTITY throbberItem.title "Aktivitetsindikator">
+<!ENTITY junkItem.title "Skräppost">
 <!ENTITY junkButton.label "Skräppost">
 <!ENTITY notJunkButton.label "Ej skräp">
 <!ENTITY addressBookButton.label "Adressboken">
