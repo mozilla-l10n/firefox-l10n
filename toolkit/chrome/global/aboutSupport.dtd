@@ -21,6 +21,7 @@ aplikace &brandShortName; naleznete na <a id='supportLink'>webových stránkách
 <!ENTITY aboutSupport.appBasicsBuildConfig "Nastavení sestavení">
 <!ENTITY aboutSupport.appBasicsUserAgent "Identifikace prohlížeče">
 <!ENTITY aboutSupport.appBasicsCrashIDs "Hlášení pádů">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Spotřeba paměti">
 
 <!ENTITY aboutSupport.show.label "Otevřít složku">
 
