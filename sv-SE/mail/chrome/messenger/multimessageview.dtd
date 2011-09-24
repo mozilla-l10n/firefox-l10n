@@ -1,4 +1,4 @@
 <!ENTITY window.title             "Meddelandesammanfattning">
 <!ENTITY selectedmessages.label   "Markerade meddelanden">
-<!ENTITY archive.label            "arkiv">
-<!ENTITY delete.label             "ta bort">
+<!ENTITY archiveButton.label      "Arkiv">
+<!ENTITY deleteButton.label       "Ta bort">
