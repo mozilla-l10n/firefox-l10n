@@ -17,3 +17,5 @@
 
 <!ENTITY  launcher_shortcuts_title "&brandShortName; Web-Apps">
 <!ENTITY  launcher_shortcuts_empty "Es wurden keine Web-Apps gefunden">
+
+<!ENTITY choose_file "Datei wählen">
