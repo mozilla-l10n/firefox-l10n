@@ -68,10 +68,6 @@
 <!ENTITY publishAsCmd.accesskey "i">
 <!ENTITY saveAsChangeEncodingCmd.label "Uložit ve znakové sadě">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "v">
-<!ENTITY printCmd.label "Tisk…">
-<!ENTITY printCmd.accesskey "t">
-<!ENTITY printPreviewCmd.label "Náhled tisku">
-<!ENTITY printPreviewCmd.accesskey "h">
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "Úpravy">
