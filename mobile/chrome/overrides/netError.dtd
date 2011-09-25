@@ -7,21 +7,18 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Fehler: Verbindung fehlgeschlagen">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
 
 <!ENTITY deniedPortAccess.title "Fehler: Port aus Sicherheitsgründen blockiert">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Fehler: Server nicht gefunden">
-<!ENTITY dnsNotFound.longDesc "
+<!ENTITY dnsNotFound.longDesc2 "
 <ul>
   <li>Bitte überprüfen Sie die Adresse auf Tippfehler, wie
-    <strong>ww</strong>.beispiel.de statt
-    <strong>www</strong>.beispiel.de</li>
-  <li>Wenn Sie auch keine andere Website aufrufen können, überprüfen Sie bitte die 
-	Netzwerk-/Internetverbindung.</li>
-  <li>Wenn Ihr Computer oder Netzwerk von einer Firewall oder einem Proxy geschützt wird, stellen Sie bitte sicher,
-	dass &brandShortName; auf das Internet zugreifen darf.</li>
+    <strong>ww</strong>.example.com statt
+    <strong>www</strong>.example.com</li>
+  <li>Wenn Sie auch keine andere Website aufrufen können, überprüfen Sie bitte die Daten- oder WLAN-Verbindung</li>
 </ul>
 ">
 
@@ -50,7 +47,7 @@
 ">
 
 <!ENTITY netInterrupt.title "Fehler: Datenübertragung unterbrochen">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netOffline.title "Offline-Modus">
 <!ENTITY netOffline.longDesc2 "
@@ -74,10 +71,10 @@
 ">
 
 <!ENTITY netReset.title "Fehler: Verbindung unterbrochen">
-<!ENTITY netReset.longDesc "&sharedLongDesc;">
+<!ENTITY netReset.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netTimeout.title "Fehler: Netzwerk-Zeitüberschreitung">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
 <!ENTITY protocolNotFound.title "Fehler: unbekanntes Protokoll">
 <!ENTITY protocolNotFound.longDesc "
@@ -96,12 +93,10 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "Fehler: Proxy-Server nicht gefunden">
-<!ENTITY proxyResolveFailure.longDesc "
+<!ENTITY proxyResolveFailure.longDesc2 "
 <ul>
   <li>Überprüfen Sie bitte, ob die Proxy-Einstellungen korrekt sind.</li>
-  <li>Überprüfen Sie bitte, ob eine Netzwerk-/Internet-Verbindung besteht.</li>
-  <li>Wenn Ihr Computer oder Netzwerk von einer Firewall oder einem Proxy geschützt wird, stellen Sie bitte sicher,
-	dass &brandShortName; auf das Internet zugreifen darf.</li>
+  <li>Überprüfen Sie bitte, ob Ihr Gerät eine funktionierende Daten- oder WLAN-Verbindung hat</li>
 </ul>
 ">
 
@@ -140,27 +135,11 @@
 </ul>
 ">
 
-<!ENTITY sharedLongDesc "
+<!ENTITY sharedLongDesc2 "
 <ul>
-  <li>Die Website könnte vorübergehend nicht erreichbar sein, versuchen Sie es bitte 
-	später nochmals.</li>
-  <li>Wenn Sie auch keine andere Website aufrufen können, überprüfen Sie bitte die 
-	Netzwerk-/Internetverbindung.</li>
-  <li>Wenn Ihr Computer oder Netzwerk von einer Firewall oder einem Proxy geschützt wird, 
-	stellen Sie bitte sicher, dass &brandShortName; auf das Internet zugreifen darf.</li>
+  <li>Die Website könnte vorübergehend nicht erreichbar sein, versuchen Sie es bitte später nochmals.</li>
+  <li>Wenn Sie auch keine andere Website aufrufen können, überprüfen Sie bitte die Daten- oder WLAN-Verbindung Ihres Geräts.</li>
 </ul>
-">
-
-<!ENTITY malwareBlocked.title "Angreifende Website vermutet!">
-<!ENTITY malwareBlocked.longDesc "
-<p>Angreifende Websites versuchen Programme zu installieren, die private Daten stehlen, Ihren Computer benutzen, um andere anzugreifen oder Ihr System beschädigen</p>
-<p>Website-Inhaber, die glauben, dass ihre Website fälschlicherweise als angreifende Website gemeldet wurde, können unter <a href='http://www.stopbadware.org/home/reviewinfo' > eine erneute Einschätzung beantragen</a>.</p>
-">
-
-<!ENTITY phishingBlocked.title "Vermuteter Betrugsversuch!">
-<!ENTITY phishingBlocked.longDesc "
-<p>Falls Sie hier persönliche Daten eingeben, müssen Sie mit Identitätsdiebstahl oder sonstigem Betrug rechnen.</p>
-<p>Diese Art von Internet-Betrug ist auch bekannt als Phishing. Dabei versuchen Kriminelle in betrügerischer Absicht, Webseiten oder E-Mails nachzuahmen, denen Sie eventuell vertrauen.</p>
 ">
 
 <!ENTITY cspFrameAncestorBlocked.title "Blockiert von der Content-Security-Policy (CSP)">
