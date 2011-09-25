@@ -16,3 +16,8 @@
 <!ENTITY  sending_crash_report "Enviando relatório do travamento\u2026">
 <!ENTITY  exit_label "Sair">
 <!ENTITY  continue_label "Continuar">
+
+<!ENTITY  launcher_shortcuts_title "Aplicativos web do &brandShortName;">
+<!ENTITY  launcher_shortcuts_empty "Nenhum aplicativo web encontrado">
+
+<!ENTITY choose_file "Selecionar arquivo">
