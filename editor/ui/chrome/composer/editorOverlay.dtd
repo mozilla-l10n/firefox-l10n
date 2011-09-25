@@ -86,9 +86,6 @@
 <!ENTITY printCmd.label "הדפסה…">
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.key "p">
-<!ENTITY closeCmd.label "סגירה">
-<!ENTITY closeCmd.accesskey "ס">
-<!ENTITY closeCmd.key "w">
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "עריכה">
@@ -104,17 +101,6 @@
 <!ENTITY pasteAsQuotationCmd.accesskey "q">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "מצא והחלף...">
-<!ENTITY findCmd.accesskey "f">
-<!ENTITY findCmd.key "f">
-<!ENTITY findCmd.key2 "VK_F19">
-<!ENTITY findAgainCmd.label "מצא שוב">
-<!ENTITY findAgainCmd.accesskey "g">
-<!ENTITY findAgainCmd.key "g">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "מצא את הקודם">
-<!ENTITY findPrevCmd.accesskey "v">
-<!ENTITY findPrevCmd.key "g">
-<!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "בדוק איות תוך כדי הקלדה">
 <!ENTITY enableInlineSpellChecker.accesskey "ב">
 <!ENTITY checkSpellingCmd2.label "בדיקת איות">
