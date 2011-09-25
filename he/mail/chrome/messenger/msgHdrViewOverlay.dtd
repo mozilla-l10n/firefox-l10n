@@ -65,6 +65,7 @@
 <!ENTITY editMessageButton.label "עריכה…">
 <!ENTITY hdrArchiveButton.label "העבר לארכיון">
 <!ENTITY hdrArchiveButton.tooltip "העברת הודעה זו לארכיון">
+<!ENTITY hdrSmartReplyButton.label "תגובה חכמה">
 <!ENTITY hdrReplyButton.label "הגב">
 <!ENTITY hdrReplyButton.tooltip "שליחת תגובה להודעה זו">
 <!ENTITY hdrReplyAllButton.label "הגב לכולם">

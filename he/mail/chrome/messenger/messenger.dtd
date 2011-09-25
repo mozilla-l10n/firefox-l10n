@@ -238,6 +238,8 @@
 <!ENTITY bodySanitized.accesskey "פ">
 <!ENTITY bodyAsPlaintext.label "כטקסט פשוט">
 <!ENTITY bodyAsPlaintext.accesskey "ט">
+  <!ENTITY bodyAllParts.label "כל חלקי הגוף">
+  <!ENTITY bodyAllParts.accesskey "ג">
 
 <!ENTITY bodyMenuFeed.label "גוף הודעות הזנה בתור">
 <!ENTITY bodyMenuFeed.accesskey "ז">
