@@ -13,8 +13,8 @@
 <!ENTITY viewQuota.accesskey "V">
 <!ENTITY changePassword.label "Cambia la password">
 <!ENTITY changePassword.accesskey "C">
-<!ENTITY mySyncKey.label "Chiave Sync">
-<!ENTITY mySyncKey.accesskey "S">
+<!ENTITY myRecoveryKey.label "Chiave di ripristino">
+<!ENTITY myRecoveryKey.accesskey "C">
 <!ENTITY resetSync.label "Ripristina la sincronizzazione">
 <!ENTITY resetSync.accesskey "z">
 <!ENTITY deactivateDevice.label "Disabilita questo dispositivo">
