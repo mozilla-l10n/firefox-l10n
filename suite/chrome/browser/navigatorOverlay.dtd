@@ -38,12 +38,6 @@
 <!ENTITY pageInfoCmd.label "Informazioni sulla pagina">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY applyTheme.label "Applica tema">
-<!ENTITY applyTheme.accesskey "A">
-<!ENTITY getNewThemesCmd.label "Scarica nuovi temi">
-<!ENTITY getNewThemesCmd.accesskey "t">
-<!ENTITY getPersonasCmd.label "Scarica nuovi temi di Personas">
-<!ENTITY getPersonasCmd.accesskey "P">
 <!ENTITY goMenu.label "Vai">
 <!ENTITY goMenu.accesskey "a">
 <!ENTITY goHomeCmd.label "Pagina iniziale">
