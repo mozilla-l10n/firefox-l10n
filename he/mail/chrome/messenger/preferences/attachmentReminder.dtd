@@ -5,4 +5,6 @@
 <!ENTITY editKeywordButton.label          "עריכה">
 <!ENTITY editKeywordButton.accesskey      "ע">
 <!ENTITY removeKeywordButton.label        "מחיקה">
-<!ENTITY removeKeywordButton.accesskey    "מD">
+<!ENTITY removeKeywordButton.accesskey    "מ">
+
+

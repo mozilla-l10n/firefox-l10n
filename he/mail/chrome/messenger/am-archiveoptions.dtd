@@ -1,3 +1,9 @@
+<!--
+# Translator(s):
+#
+# Yaron <sh.yaron@gmail.com>
+#
+-->
 <!-- extracted from am-archiveoptions.xul -->
 
 <!ENTITY dialogTitle.label "אפשרויות ארכיון">
@@ -17,3 +23,5 @@
 <!-- LOCALIZATION NOTE (inboxFolderName.label): this should match the default
      name for the "Inbox" folder -->
 <!ENTITY inboxFolderName.label "תיבת דואר נכנס">
+
+

@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!ENTITY notificationsDialog2.title       "התאם אישית התראת דואר חדש">
 <!ENTITY window.width                     "30em">
 
@@ -8,4 +20,6 @@
 <!ENTITY subject.accesskey                "נ">
 <!ENTITY sender.label                     "שולח">
 <!ENTITY sender.accesskey                 "ש">
+
+
 

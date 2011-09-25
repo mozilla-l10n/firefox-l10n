@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# Yaron <sh.yaron@gmail.com>
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!ENTITY autoconfigWizard.title          "הגדרות חשבון דואר">
 <!ENTITY name.label                      "השם שלך:">
 <!ENTITY name.accesskey                  "ש">
@@ -80,3 +93,5 @@
 <!ENTITY insecureUnencrypted.description "הדואר האלקטרוני וההזדהות שלך נשלחים באופן לא מוצפן, כך שהססמה שלך (וגם ההודעות) יכולות להיקרא בקלות על־ידי אנשים אחרים. brandShortName; יאפשר לך לקבל את הדואר שלך, אבל רצוי ליצור קשר עם ספק הדוא״ל שלך כדי שיגדיר חיבור מאובטח לשרת.">
 <!ENTITY insecureSelfSigned.description  "השרת משתמש באישור שאינו נסמך, ואיננו יכולים להיות בטוחים שאף־אחד לא מיירט את התעבורה בין &brandShortName; והשרת שלך. &brandShortName; יאפשר לך לקבל את הדואר שלך, אבל מומלץ שתפנה לספק הדואל שלך ותבקש ממנו להגדיר את השרת עם אישור אבטחה נסמך.">
 <!ENTITY secureServer.description        "איחולים! זהו שרת מאובטח.">
+
+

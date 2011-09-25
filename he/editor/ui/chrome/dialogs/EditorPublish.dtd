@@ -1,3 +1,9 @@
+<!--
+# Translator(s):
+#
+# Yaron <sh.yaron@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -96,3 +102,5 @@
 <!ENTITY savePassword.label           "שמור ססמה">
 <!ENTITY savePassword.accesskey       "ר">
 <!ENTITY savePassword.tooltip         "בחר זאת כדי לשמור את ססמתך באופן מאובטח על־ידי מנהל הססמאות">
+
+

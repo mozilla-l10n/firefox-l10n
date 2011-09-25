@@ -1,7 +1,15 @@
+<!--
+# Translator(s):
+#
+# Yaron <sh.yaron@gmail.com>
+# amire80 <amir.aharoni@mail.huji.ac.il>
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "rtl">
-<!ENTITY rights.title       "about:rights">
-<!ENTITY rights.intro-header    "דע את זכויותיך">
+<!ENTITY rights.title            "about:rights">
+<!ENTITY rights.intro-header     "דע את זכויותיך">
 <!ENTITY rights.intro "&brandFullName; היא תוכנה חופשית בקוד פתוח, שנבנתה בידי קהילה של אלפים מכל רחבי העולם. ישנם מספר דברים שעליך לדעת:">
 
 <!-- Note on pointa / pointb / pointc form:
@@ -64,3 +72,5 @@
 <!ENTITY rights.webservices-term4 "למעט מה שנדרש על פי חוק, &vendorShortName;, התורמים שלו, מעניקי הרישיונות שלו והמפיצים שלו לא ישאו בנזקים עקיפים, מיוחדים, מקריים, תוצאתיים, עונשיים, או יוצאים מגדר הרגיל כתוצאה מן השימוש ב־&brandShortName; או שקשורים באיזה שהוא אופן לשימוש בו ובשירותים. האחריות הנזיקית הכוללת תחת תנאים אלה לא תעלה על 500$ (חמש מאות דולר ארצות הברית). שטחי שיפוט מסוימים אינם מתירים החרגה או הגבלה של נזקים מסוימים, כך שייתכן שהחרגות והגבלות אלה אינן חלות עליך.">
 <!ENTITY rights.webservices-term5 "&vendorShortName; עשוי לעדכן תנאים אלו מעת לעת לפי הצורך. אין לשנות או לבטל תנאים אלו ללא הסכמה בכתב מאת &vendorShortName;.">
 <!ENTITY rights.webservices-term6 "תנאים אלה ניתנים תחת חוקי מדינת קליפורניה בארצות הברית, למעט היכן שהם סותרים את הוראות החוק. אם חלק כלשהו מתנאים אלה נמצא אינו תקף או אינו ניתן לאכיפה, שאר החלקים יישארו בתוקף מלא. במקרה של סתירה בין גרסה מתורגמת של תנאים אלו והגרסה בשפה האנגלית, הגרסה בשפה האנגלית תגבר.">
+
+

@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# Yaron <sh.yaron@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!-- extracted from am-server-top.xul -->
 
 <!ENTITY securitySettings.label "הגדרות אבטחה">
@@ -76,3 +88,5 @@
 <!ENTITY newsrcPicker.label "בחר קובץ newsrc:‏">
 <!ENTITY browseNewsrc.label "עיין…">
 <!ENTITY browseNewsrc.accesskey "e">
+
+

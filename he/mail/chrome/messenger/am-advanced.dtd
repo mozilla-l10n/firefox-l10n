@@ -21,3 +21,5 @@
 <!ENTITY userName.label   "שם משתמש: ">
 <!ENTITY connectionSecurity.label "קישור מאובטח: ">
 <!ENTITY authMethod.label   "צורת אימות: ">
+
+

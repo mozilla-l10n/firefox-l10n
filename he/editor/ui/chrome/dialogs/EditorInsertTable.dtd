@@ -1,3 +1,9 @@
+<!--
+# Translator(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -49,3 +55,5 @@
 <!ENTITY borderEditField.accessKey "ג">
 <!ENTITY borderEditField.tooltip "הקלד מספר לגבול הטבלה, או הקלד אפס (0) להישאר ללא גבול">
 <!ENTITY pixels.label "פיקסלים">
+
+

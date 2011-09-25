@@ -1,5 +1,19 @@
+<!--
+# Translator(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!ENTITY  brandShortName        "Thunderbird">
 <!ENTITY  brandFullName         "Mozilla Thunderbird">
 <!ENTITY  vendorShortName       "Mozilla">
 <!ENTITY  trademarkInfo.part1   "Mozilla Thunderbird והסמלים של Thunderbird 
                                  הם סימנים של Mozilla Foundation.">
+
+

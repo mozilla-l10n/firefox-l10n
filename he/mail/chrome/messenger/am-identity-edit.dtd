@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!ENTITY identityDialog.style "width: 67ch;">
 <!ENTITY identityTitle.label "הגדרות זהות">
 <!ENTITY identityListDesc.label "התאם את ההגדרות עבור זהות זו">
@@ -5,3 +17,5 @@
 <!ENTITY settingsTab.label       "הגדרות">
 <!ENTITY copiesFoldersTab.label "עותקים ותיקיות">
 <!ENTITY addressingTab.label    "חיבור ומיעון הודעה">
+
+

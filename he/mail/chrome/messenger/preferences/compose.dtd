@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# elad <el.il@doom.co.il>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!ENTITY itemGeneral.label                   "כללי">
 <!ENTITY itemAutoComplete.label              "מיעון">
 <!ENTITY itemSpellCheck.label                "איות">
@@ -55,3 +67,5 @@
 <!ENTITY attachmentReminder.accesskey          "ח">
 <!ENTITY attachmentReminderOptions.label       "מילות מפתח…">
 <!ENTITY attachmentReminderOptions.accesskey   "מ">
+
+

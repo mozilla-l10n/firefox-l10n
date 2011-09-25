@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# Yaron <sh.yaron@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -92,3 +104,5 @@
 <!ENTITY paste.key "v">
 <!ENTITY props.key "p">
 <!ENTITY tbar.key "t">
+
+
