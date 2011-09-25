@@ -27,7 +27,7 @@
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingAddonCompat "Verificando compatibilidade dos complementos…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound      "O &brandShortName; já está atualizado.">
+<!ENTITY update.noUpdatesFound      "O &brandShortName; está atualizado.">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "Atualizações desativadas pelo administrador.">
 
@@ -61,23 +61,5 @@
      example: You are currently on the _Stable_ update channel. -->
 <!ENTITY channel.description.start  "Usando o canal de atualização ">
 <!ENTITY channel.description.end    ". ">
-
-<!ENTITY channel.change             "Modificar">
-
-<!ENTITY channel.release.description       "Use a versão final testada e aprovada já usada por centenas de milhões de pessoas em todo o mundo. Mantenha o controle da sua navegação com supervelocidade, fácil personalização e as mais recentes tecnologias web.">
-<!ENTITY channel.beta.description          "Experimente os novos recursos, mas com mais estabilidade. Dê a sua opinião e ajude a ajustar os detalhes da versão final.">
-<!ENTITY channel.aurora.description        "Experimente as mais recentes inovações em um ambiente instável (não recomendado a cardíacos). Dê a sua opinião sobre recursos e desempenho e ajude a decidir o que chegará à versão final.">
-
-<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
-     channel.selector.end create one sentence, with a channel selection menulist instered in between.
-     This is all in one line, so try to make the localized text short.
-     example: Switch to the [Stable] update channel. -->
-<!ENTITY channel.selector.start          "Usar o canal de atualização:">
-<!ENTITY channel.selector.end            " ">
-
-<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
-     to a new update channel and starts the application update process. -->
-<!ENTITY channel.selector.applyButton    "Aplicar e atualizar">
-<!ENTITY channel.selector.cancelButton   "Cancelar">
 
 <!ENTITY cmdCloseMac.commandKey "w">
