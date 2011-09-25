@@ -7,6 +7,7 @@
 <!ENTITY editBookmarkOverlay.siteLocation.label "Adres witryny:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey "r">
 <!ENTITY editBookmarkOverlay.folder.label "Folder:">
+<!ENTITY editBookmarkOverlay.folder.accesskey "F">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip "Wyświetl wszystkie foldery zakładek">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip "Ukryj">
 <!ENTITY editBookmarkOverlay.tags.label "Etykiety:">
