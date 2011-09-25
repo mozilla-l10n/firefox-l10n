@@ -71,8 +71,6 @@
 <!ENTITY publishAsCmd.accesskey "l">
 <!ENTITY saveAsChangeEncodingCmd.label "Spara och ändra teckenkodning">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "ä">
-<!ENTITY printCmd.label "Skriv ut...">
-<!ENTITY printCmd.accesskey "u">
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "Redigera">
