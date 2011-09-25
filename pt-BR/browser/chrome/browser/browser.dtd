@@ -111,6 +111,8 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "Avançar">
 <!ENTITY forwardCmd.accesskey         "A">
 <!ENTITY forwardButton.tooltip        "Próxima página">
+<!ENTITY backForwardButtonMenu.tooltip "Para exibir o histórico clique com o direito ou mantenha clicado o botão esquerdo">
+<!ENTITY backForwardButtonMenuMac.tooltip "Para exibir o histórico mantenha clicado o botão esquerdo">
 <!ENTITY reloadCmd.label              "Recarregar">
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY reloadButton.tooltip         "Atualizar a página">
@@ -308,6 +310,7 @@ can reach it easily. -->
   Mac:  Cmd+K (cross platform binding)
         Cmd+Opt+F (platform convention)
   Win:  Ctrl+K (cross platform binding)
+        Ctrl+E (IE compat)
 
   We support Ctrl+K on all platforms now and advertise it in the menu since it is
   our standard - it is a "safe" choice since it is near no harmful keys like "W" as
@@ -318,6 +321,7 @@ can reach it easily. -->
 
  -->
 <!ENTITY searchFocus.commandkey       "K">
+<!ENTITY searchFocus.commandkey2      "E">
 <!ENTITY searchFocusUnix.commandkey   "J">
 
 <!ENTITY tabView.commandkey           "E">
