@@ -104,6 +104,7 @@
 <!ENTITY contextFullScreen.label      "Vollbild">
 <!ENTITY contextEditBookmark.label    "Bearbeiten">
 <!ENTITY contextRemoveBookmark.label  "Entfernen">
+<!ENTITY contextShortcutBookmark.label "Auf Home-Bildschirm ablegen">
 
 <!ENTITY pageactions.saveas.pdf      "Als PDF speichern">
 <!ENTITY pageactions.share.page      "Seite teilen">
