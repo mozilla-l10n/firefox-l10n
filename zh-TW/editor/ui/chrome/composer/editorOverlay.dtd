@@ -54,7 +54,7 @@
 <!ENTITY fileRecentMenu.label "最近開啟頁面">
 <!ENTITY fileRecentMenu.accesskey "R">
 <!ENTITY fileRevert.label "反向">
-<!ENTITY fileRevert.accesskey "v">
+<!ENTITY fileRevert.accesskey "t">
 <!ENTITY saveCmd.label "儲存">
 <!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveCmd.key "S">
@@ -68,8 +68,6 @@
 <!ENTITY publishAsCmd.accesskey "h">
 <!ENTITY saveAsChangeEncodingCmd.label "另存新檔並修改字元編碼">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "e">
-<!ENTITY printCmd.label "列印…">
-<!ENTITY printCmd.accesskey "P">
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "編輯">
