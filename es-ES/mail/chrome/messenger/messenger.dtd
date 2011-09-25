@@ -242,6 +242,8 @@
 <!ENTITY pageSourceCmd.label "Formato original del mensaje">
 <!ENTITY pageSourceCmd.accesskey "F">
 <!ENTITY pageSourceCmd.key "u">
+<!ENTITY getNewMessagesCmd.key "y">
+<!ENTITY getAllNewMessagesCmd.key "Y">
 <!ENTITY findMenu.label "Buscar">
 <!ENTITY findMenu.accesskey "B">
 <!ENTITY findCmd.label "Buscar en este mensaje…">
