@@ -1,14 +1,32 @@
+<!--
+# Translator(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!ENTITY aboutPage.title                        "אודות &brandShortName;">
-<!ENTITY aboutPage.faq.label                    'שו"ת'>
+<!ENTITY aboutPage.faq.label                    "שו"ת">
 <!ENTITY aboutPage.support.label                "תמיכה">
 <!ENTITY aboutPage.privacyPolicy.label          "מדיניות פרטיות">
 <!ENTITY aboutPage.rights.label                 "דע את זכויותך">
 <!ENTITY aboutPage.relNotes.label               "הערות שחרור">
 <!ENTITY aboutPage.credits.label                "תודות">
+<!ENTITY aboutPage.checkForUpdates.button       "בדוק עדכונים">
+<!ENTITY aboutPage.checkForUpdates.checking     "בודק עדכונים…">
+<!ENTITY aboutPage.checkForUpdates.none         "אין עדכונים זמינים">
+<!ENTITY aboutPage.checkForUpdates.found        "עדכון זמין">
+
 
 <!-- LOCALIZATION NOTE:
      These strings are concatenated in order. Unneeded strings may be left blank.
-  -->
-<!ENTITY aboutPage.copyrightInfo1               "&#169;1998-2009 תורמים. כל הזכויות שמורות. (">
+-->
 <!ENTITY aboutPage.licenseLink                  "מידע רישוי">
-<!ENTITY aboutPage.copyrightInfo2               ").">
+<!ENTITY aboutPage.licenseLinkSuffix            ".">
+
+

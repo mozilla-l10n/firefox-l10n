@@ -1,38 +1,55 @@
+<!--
+# Translator(s):
+#
+# https://me.yahoo.com/tsahi_75 <tsahi_75@yahoo.com>
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+# dror3go <drortrigubof@gmail.com>
+# Yaron <sh.yaron@gmail.com>
+# hatul <amiadb@gmail.com>
+# bartselen <bartselen@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
+<!ENTITY urlbar.emptytext      "הכנס חיפוש או כתובת">
+
 <!ENTITY back.label            "אחורה">
 <!ENTITY forward.label         "קדימה">
 <!ENTITY reload.label          "טען מחדש">
 <!ENTITY stop.label            "עצור">
 <!ENTITY go.label              "לך">
-<!ENTITY openLocation.label    "פתח מיקום">
 <!ENTITY star.label            "כוכב">
 
+<!ENTITY showTabs.label        "Show Tabs">
 <!ENTITY newtab.label          "לשונית חדשה">
 <!ENTITY closetab.label        "סגור לשונית">
 
 <!ENTITY cut.label             "גזור">
 <!ENTITY copy.label            "העתק">
+<!ENTITY copyAll.label         "העתקת הכל">
 <!ENTITY copylink.label        "העתק מיקום קישור">
 <!ENTITY paste.label           "הדבק">
+<!ENTITY pasteAndGo.label      "הדבק ועבור">
 <!ENTITY delete.label          "מחק">
 <!ENTITY selectAll.label       "בחר הכול">
 <!ENTITY noSuggestions.label   "(אין המלצות)">
 <!ENTITY addToDictionary.label "הוסף למילון">
+<!ENTITY inputMethod.label     "בחירת צורת קלט">
 
+<!ENTITY allPagesHeader.label      "כל העמודים">
 <!ENTITY bookmarksHeader.label     "סימניות">
-<!ENTITY bookmarksManage.label     "נהל">
+<!ENTITY historyHeader.label       "היסטוריה">
+<!ENTITY desktopHeader.label       "שולחן עבודה">
 
-<!ENTITY editBookmarkRemove.label  "הסרה">
+<!ENTITY editBookmarkDialog.title  "עריכת סימניה">
 <!ENTITY editBookmarkDone.label    "סיום">
 <!ENTITY editBookmarkTags.label    "הוסף תגיות כאן">
 
-<!ENTITY helperApp.prompt          "מה תרצה לעשות עם">
-<!ENTITY helperApp.open            "פתיחה">
-<!ENTITY helperApp.save            "שמירה">
-<!ENTITY helperApp.nothing         "כלום">
-
-<!ENTITY formHelper.previous       "קודם">
-<!ENTITY formHelper.next           "הבא">
-<!ENTITY formHelper.done           "סיום">
+<!ENTITY selectHelper.done         "הסתיים">
 
 <!ENTITY addonsHeader.label        "תוספות">
 <!ENTITY addonsLocal.label         "התוספות שלך">
@@ -52,7 +69,6 @@
 <!ENTITY addonShowPage.label       "עבור לדף">
 
 <!ENTITY downloadsHeader.label     "הורדות">
-
 <!ENTITY downloadShowPage.label    "עבור לדף">
 <!ENTITY downloadShow2.label       "מצא">
 <!ENTITY downloadOpen2.label       "פתיחה">
@@ -61,16 +77,16 @@
 <!ENTITY downloadResume.label      "המשך">
 <!ENTITY downloadRetry.label       "נסה שוב">
 <!ENTITY downloadRemove.label      "הסר">
+<!ENTITY downloadDelete.label      "מחיקה">
 <!ENTITY downloadFailed.label      "נכשל">
 
 <!ENTITY noResults.label           "אין תוצאות">
 <!ENTITY allBookmarks.label        "הצג את כל הסימניות">
 
-<!ENTITY searchEngine.addSearch     "הוסף חיפוש:">
-
 <!ENTITY bookmarkPopup.label       "הדף הוסף לסימניות">
 <!ENTITY bookmarkRemove.label      "הסרה">
 <!ENTITY bookmarkEdit.label        "עריכה">
+<!ENTITY bookmarkShortcut.label    "הוספה למסך הבית">
 
 <!ENTITY identity.unverifiedsite2 "אתר זה לא מספק מידע זיהוי.">
 <!ENTITY identity.connectedTo2 "מחובר אל">
@@ -92,3 +108,33 @@
 <!ENTITY consoleErrFile.label      "קובץ מקור:">
 <!ENTITY consoleErrLine.label      "שורה:">
 <!ENTITY consoleErrColumn.label    "עמודה:">
+
+<!ENTITY contextOpenInNewTab.label    "פתיחת קישור בלשונית חדשה">
+<!ENTITY contextSaveLink.label        "שמירת קישור">
+<!ENTITY contextSaveImage.label       "שמירת תמונה">
+<!ENTITY contextCopyLink.label        "העתקת קישור">
+<!ENTITY contextShareLink.label       "שיתוף קישור">
+<!ENTITY contextShareImage.label      "שיתוף תמונה">
+<!ENTITY contextBookmarkLink.label    "קישור סימניה">
+<!ENTITY contextSaveVideo.label       "שמירת וידאו">
+<!ENTITY contextShareVideo.label      "שיתוף וידאו">
+<!ENTITY contextPlayMedia.label       "נגן">
+<!ENTITY contextPauseMedia.label      "השהיה">
+<!ENTITY contextFullScreen.label      "מסך מלא">
+<!ENTITY contextEditBookmark.label    "עריכה">
+<!ENTITY contextRemoveBookmark.label  "הסרה">
+<!ENTITY contextShortcutBookmark.label "הוספה למסך הבית">
+
+<!ENTITY pageactions.saveas.pdf      "שמירה בתור PDF">
+<!ENTITY pageactions.share.page      "שיתוף דף">
+<!ENTITY pageactions.password.forget "שכח סיסמה">
+<!ENTITY pageactions.quit            "Quit">
+<!ENTITY pageactions.reset           "נקה העדפות לגבי אתר">
+<!ENTITY pageactions.findInPage      "חפש בדף זה">
+<!ENTITY pageactions.search.addNew   "הוספת מנוע חיפוש">
+<!ENTITY pageactions.charEncoding    "Character Encoding">
+<!ENTITY pageactions.webapps.install "התקנה כיישום">
+
+<!ENTITY appMenu.siteOptions         "אפשרויות אתר">
+
+

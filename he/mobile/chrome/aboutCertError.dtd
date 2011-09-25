@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# Yaron <sh.yaron@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!ENTITY % brandDTD
     SYSTEM "chrome://branding/locale/brand.dtd">
   %brandDTD;
@@ -13,7 +25,6 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara1 "ביקשת מ־&brandShortName; להתחבר בצורה מאובטחת אל <b>#1</b>, אבל אנחנו לא יכולים לאמת שהחיבור שלך אכן מאובטח.">
-<!ENTITY certerror.introPara2 "בדרך־כלל, כאשר אתה מנסה להתחבר בצורה מאובטחת, אתרים מציגים הזדהות מוסמכת כדי להוכיח שאתה אכן מגיע למקום הנכון. למרות זאת, ההזדהות של אתר זה לא ניתנת לאימות.">
 
 <!ENTITY certerror.whatShouldIDo.heading "מה ברצונך לעשות?">
 <!ENTITY certerror.whatShouldIDo.content "אם אתה בדרך־כלל מתחבר לאתר זה ללא בעיות, ייתכן שמישהו מנסה להזדהות בשם האתר, ורצוי שלא תמשיך הלאה לאתר.">
@@ -22,10 +33,10 @@ was trying to connect. -->
 <!ENTITY certerror.expert.heading "אני מבין את הסיכונים">
 <!ENTITY certerror.expert.content "אם אתה מבין מה קורה, אתה יכול להורות ל־&brandShortName; להתחיל לסמוך על ההזדהות של אתר זה. 
 <b>אפילו אם אתה סומך על האתר, ייתכן ומשמעות השגיאה היא שמישהו מחבל בקישוריות שלך.</b>">
-
 <!ENTITY certerror.expert.contentPara2 "אל תוסיף חריגות אלא אם יש סיבה טובה לכך שהאתר לא משתמש בהזדהות נסמכת.">
-
 <!ENTITY certerror.addTemporaryException.label "בקר באתר">
 <!ENTITY certerror.addPermanentException.label "הוסף חריגה קבועה">
 
 <!ENTITY certerror.technical.heading "פרטים טכניים">
+
+

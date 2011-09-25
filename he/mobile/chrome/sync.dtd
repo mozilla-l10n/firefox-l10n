@@ -1,0 +1,36 @@
+<!--
+# Translator(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
+<!ENTITY sync.title                 "Sync">
+<!ENTITY sync.notconnected          "לא מחובר">
+<!ENTITY sync.connect               "התחברות">
+<!ENTITY sync.connected             "מחובר">
+<!ENTITY sync.details               "פרטים">
+<!ENTITY sync.synchronize           "אפשור סנכרון">
+<!ENTITY sync.deviceName            "התקן זה">
+<!ENTITY sync.disconnect            "התנתקות">
+<!ENTITY sync.syncNow               "סנכרן עכשיו">
+
+<!ENTITY sync.setup.title           "התחברות ל־Sync">
+<!ENTITY sync.setup.jpake           "ממחשב שמחובר ל־Firefox Sync, יש לעבור למסך האפשרויות של Sync ולבחור &#x0022;הוספת התקן&#x0022;">
+<!ENTITY sync.fallback              "אני לא ליד המחשב שלי…">
+<!ENTITY sync.setup.manual          "נא להזין את פרטי חשבון Sync שלך">
+<!ENTITY sync.account               "שם חשבון">
+<!ENTITY sync.password              "ססמה">
+<!ENTITY sync.syncKey               "מפתח סנכרון">
+<!ENTITY sync.customServer          "שימוש בשרת מותאם אישית">
+<!ENTITY sync.serverURL             "כתובת שרת">
+<!ENTITY sync.setup.connect         "התחברות">
+<!ENTITY sync.setup.cancel          "ביטול">
+<!ENTITY sync.setup.tutorial        "הראה לי כיצד">
+
+
