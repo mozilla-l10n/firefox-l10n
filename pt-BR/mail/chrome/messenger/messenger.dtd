@@ -224,6 +224,8 @@
 <!ENTITY bodySanitized.accesskey "L">
 <!ENTITY bodyAsPlaintext.label "Sem formatação">
 <!ENTITY bodyAsPlaintext.accesskey "S">
+<!ENTITY bodyAllParts.label "Todas as seções da mensagem">
+<!ENTITY bodyAllParts.accesskey "T">
 
 <!ENTITY bodyMenuFeed.label "Formatação do RSS como">
 <!ENTITY bodyMenuFeed.accesskey "o">
