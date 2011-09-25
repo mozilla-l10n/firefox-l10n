@@ -49,7 +49,7 @@
 
 <!-- File menu items -->
 <!ENTITY exportToTextCmd.label "輸出成純文字…">
-<!ENTITY exportToTextCmd.accesskey "t">
+<!ENTITY exportToTextCmd.accesskey "x">
 <!ENTITY previewCmd.label "瀏覽頁面">
 <!ENTITY previewCmd.accesskey "w">
 <!ENTITY sendPageCmd.label "傳送頁面…">
