@@ -15,3 +15,5 @@
 <!ENTITY textZoomOnly.accesskey "P">
 <!ENTITY blockAutoRefresh.label "Ostrzegaj, jeśli witryny próbują przekierować lub odświeżyć stronę">
 <!ENTITY blockAutoRefresh.accesskey "O">
+<!ENTITY siteSpecific.label "Zapamiętaj rozmiary ustawione dla każdej strony">
+<!ENTITY siteSpecific.accesskey "m">

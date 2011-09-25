@@ -43,9 +43,12 @@
 <!ENTITY CopyEmailAddress.label "Kopiuj adres e-mail">
 <!ENTITY CopyEmailAddress.accesskey "K">
 <!ENTITY CreateFilterFrom.label "Utwórz filtr na podstawie…">
-<!ENTITY CreateFilterFrom.accesskey "F">
+<!ENTITY CreateFilterFrom.accesskey "f">
 <!ENTITY copyLinkCmd.label "Kopiuj adres odnośnika">
 <!ENTITY copyLinkCmd.accesskey "K">
 <!ENTITY CopyMessageId.label "Kopiuj ID wiadomości">
+<!ENTITY CopyMessageId.accesskey "I">
 <!ENTITY OpenMessageForMsgId.label "Otwórz wiadomość o tym ID">
+<!ENTITY OpenMessageForMsgId.accesskey "O">
 <!ENTITY OpenBrowserWithMsgId.label "Otwórz przeglądarkę z ID wiadomości">
+<!ENTITY OpenBrowserWithMsgId.accesskey "p">
