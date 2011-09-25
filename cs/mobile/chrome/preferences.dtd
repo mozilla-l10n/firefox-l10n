@@ -21,3 +21,4 @@
 <!ENTITY homepage.default "&brandShortName; start">
 <!ENTITY homepage.currentpage "Aktuální stránka">
 <!ENTITY showCharsetEncoding.title "Zobrazit znakovou sadu">
+<!ENTITY actionbar.default "Nastavení aplikace &brandShortName;">
