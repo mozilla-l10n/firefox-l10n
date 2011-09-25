@@ -21,3 +21,4 @@
 <!ENTITY homepage.default "Страницы &brandShortName;">
 <!ENTITY homepage.currentpage "Текущей страницы">
 <!ENTITY showCharsetEncoding.title "Показывать выбор кодировки">
+<!ENTITY actionbar.default "Параметры &brandShortName;">
