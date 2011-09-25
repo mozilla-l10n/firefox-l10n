@@ -111,6 +111,8 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "Vor">
 <!ENTITY forwardCmd.accesskey         "V">
 <!ENTITY forwardButton.tooltip        "Eine Seite vor">
+<!ENTITY backForwardButtonMenu.tooltip "Rechtsklick oder gedrückt halten, um Chronik anzuzeigen">
+<!ENTITY backForwardButtonMenuMac.tooltip "Gedrückt halten, um Chronik anzuzeigen">
 <!ENTITY reloadCmd.label              "Neu laden">
 <!ENTITY reloadCmd.accesskey          "N">
 <!ENTITY reloadButton.tooltip         "Aktuelle Seite neu laden">
