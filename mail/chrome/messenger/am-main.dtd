@@ -35,3 +35,5 @@
 <!ENTITY smtpName.label "שרת דואר יוצא (SMTP):">
 <!ENTITY smtpName.accesskey "S">
 <!ENTITY smtpDefaultServer.label "השתמש בשרת ברירת המחדל">
+
+

@@ -1,3 +1,19 @@
+<!--
+# Translator(s):
+#
+# elad <el.il@doom.co.il>
+# 123aaa <123aaa@gmail.com>
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+# hatul <amiadb@gmail.com>
+# Yaron <sh.yaron@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!ENTITY aboutDialog.title          "אודות &brandFullName;">
 
 <!ENTITY community.start2           "&brandShortName; תוכנן על־ידי ">
@@ -81,3 +97,5 @@
 <!ENTITY channel.selector.cancelButton   "ביטול">
 
 <!ENTITY cmdCloseMac.commandKey "w">
+
+

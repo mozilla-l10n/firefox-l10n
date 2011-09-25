@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# elad <el.il@doom.co.il>
+# Yaron <sh.yaron@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
 
@@ -171,3 +184,5 @@
 <!ENTITY PhotoURL.placeholder           "הקלד או הדבק כתובת לתמונה ברשת">
 <!ENTITY UpdatePhoto.label              "עדכון">
 <!ENTITY UpdatePhoto.accesskey          "ע">
+
+

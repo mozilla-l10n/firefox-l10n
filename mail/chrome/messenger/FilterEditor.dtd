@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!ENTITY window.title "חוקי מסנן">
 <!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "שם מסנן:">
@@ -39,3 +51,5 @@
 <!ENTITY ignoreSubthread.label "התעלם מתת שרשור">
 <!ENTITY watchThread.label "עקוב אחר נושא דיון">
 <!ENTITY stopExecution.label "הפסק הפעלת מסננים">
+
+

@@ -1,3 +1,9 @@
+<!--
+# Translator(s):
+#
+# Yaron <sh.yaron@gmail.com>
+#
+-->
 <!ENTITY addressbookWindow.title                        "ספר כתובות">
 
 <!-- File Menu -->
@@ -204,3 +210,5 @@
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "הבא הכול לקידמה">
 <!ENTITY zoomWindow.label "הגדל חלון">
+
+

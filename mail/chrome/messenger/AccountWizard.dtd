@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+# Yaron <sh.yaron@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!-- Entities for AccountWizard -->
 
 <!ENTITY windowTitle.label "אשף החשבונות">
@@ -55,7 +68,8 @@
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
 <!ENTITY leaveMsgsOnSrvr.label "השאר הודעות על השרת">
-<!ENTITY leaveMsgsOnSrvr.accesskey "ש"> 
+<!ENTITY leaveMsgsOnSrvr.accesskey "ש">
+
 
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
@@ -111,3 +125,5 @@
 <!ENTITY deferStorage.accesskey "כ">
 <!ENTITY clickFinish.label "לחץ על סיום כדי לשמור הגדרות אלה ולצאת מאשף החשבונות.">
 <!ENTITY clickFinish.labelMac "לחץ על סיום כדי לשמור את ההגדרות הללו ולצאת מאשף החשבונות.">
+
+

@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!ENTITY itemGeneral.label       "כללי">
 <!ENTITY itemDisplay.label       "קריאה ותצוגה">
 <!ENTITY itemUpdate.label        "עדכון">
@@ -106,3 +118,5 @@
 <!ENTITY validation.accesskey           "א">
 <!ENTITY viewSecurityDevices.label      "התקני אבטחה">
 <!ENTITY viewSecurityDevices.accesskey  "ה">
+
+

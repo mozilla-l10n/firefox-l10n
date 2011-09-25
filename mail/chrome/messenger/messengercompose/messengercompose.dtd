@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+# Yaron <sh.yaron@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 <!ENTITY msgComposeWindow.title "חבר הודעה: (ללא נושא)">
 
@@ -274,4 +287,6 @@
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "אנשי קשר">
+
+
 

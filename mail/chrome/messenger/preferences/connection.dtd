@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!ENTITY  connectionsDialog.title       "הגדרות חיבור">
 <!ENTITY  window.width                   "46em">
 
@@ -35,3 +47,5 @@
 <!ENTITY  noproxyExplain.label          "דוגמה: mozilla.org,‏ .net.il, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "השתמש בשרת מתווך זה עבור כל הפרוטוקולים">
 <!ENTITY  shareproxy.accesskey          "כ">
+
+

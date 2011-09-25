@@ -49,3 +49,5 @@
 <!-- Shared by Link and Image dialogs -->
 <!ENTITY LinkURLEditField.label "הכנס מיקום דף אינטרנט, קובץ מקומי, או בחר עוגן או כותרת מן הרשימה המופיעה:">
 <!ENTITY LinkURLEditField.accessKey "מ">
+
+

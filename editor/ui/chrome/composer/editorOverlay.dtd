@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# Yaron <sh.yaron@gmail.com>
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -181,7 +194,7 @@
 <!ENTITY increaseFontSize.label "גדול יותר">
 <!ENTITY increaseFontSize.accesskey "g">
 <!ENTITY increaseFontSize.key "+">
-<!ENTITY increaseFontSize.key2 "="> <!-- + is above this key on many keyboards -->
+<!-- + is above this key on many keyboards --><!ENTITY increaseFontSize.key2 "="> 
 
 <!ENTITY fontSizeMenu.label "גודל ">
 <!ENTITY fontSizeMenu.accesskey "z">
@@ -451,3 +464,5 @@
 <!ENTITY removeTOC.accesskey      "r">
 <!ENTITY tocMenu.label            "תוכן עניינים…">
 <!ENTITY tocMenu.accesskey        "b">
+
+

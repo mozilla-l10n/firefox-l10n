@@ -1,3 +1,9 @@
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!ENTITY  prefWindow.titleWin     "אפשרויות">
 <!ENTITY  prefWindow.titleGNOME   "העדפות של &brandShortName;">
 <!ENTITY  prefWindow.styleWindows "width: 44em; min-height: 38.5em;">
@@ -10,3 +16,5 @@
 <!ENTITY paneAttachments.title    "נספחים">
 <!ENTITY paneSecurity.title       "אבטחה">
 <!ENTITY paneAdvanced.title       "מתקדם">
+
+
