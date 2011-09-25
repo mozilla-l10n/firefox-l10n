@@ -1,3 +1,9 @@
+<!--
+# Translator(s):
+#
+# Yaron <sh.yaron@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
 
@@ -145,3 +151,5 @@
 <!ENTITY CopyMessageId.label "העתק מזהה הודעה">
 <!ENTITY OpenMessageForMsgId.label "פתח הודעה לפי מזהה">
 <!ENTITY OpenBrowserWithMsgId.label "פתח דפדפן עם מזהה ההודעה">
+
+

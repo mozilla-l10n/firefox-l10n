@@ -1,3 +1,18 @@
+<!--
+# Translator(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+# Yaron <sh.yaron@gmail.com>
+# elad <el.il@doom.co.il>
+# hatul <amiadb@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
@@ -30,7 +45,6 @@
 </ul>
 ">
 
-
 <!ENTITY generic.title "שגיאה כללית">
 <!ENTITY generic.longDesc "
 <p>&brandShortName; אינו יכול לטעון דף זה מסיבה לא ידועה.</p>
@@ -52,7 +66,7 @@
 <ul>
  <li>לחץ &quot;נסה שוב&quot; כדי לעבור למצב מקוון ולטעון מחדש את הדף.</li>
 </ul>
-"> 
+">
 
 <!ENTITY contentEncodingError.title "שגיאה בקידוד תוכן">
 <!ENTITY contentEncodingError.longDesc "
@@ -157,7 +171,7 @@
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
-functionality specific to firefox. -->
+functionality specific to thunderbird. -->
 
 <!ENTITY securityOverride.warningContent "<p>מומלץ שלא להוסיף חריגה אם אתה משתמש בחיבור רשת בלתי מהימן לחלוטין או אם אינך רגיל לראות אזהרות עבור שרת זה.</p>
 
@@ -167,3 +181,5 @@ functionality specific to firefox. -->
 
 <!ENTITY remoteXUL.title "XUL מרוחק">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>פנה אל בעלי האתר כדי ליידע אותם על הבעיה.</li></ul></p>">
+
+

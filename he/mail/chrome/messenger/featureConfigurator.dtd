@@ -1,3 +1,10 @@
+<!--
+# Translator(s):
+#
+# Yaron <sh.yaron@gmail.com>
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!-- LOCALIZATION NOTE (featureConfigurator.title): Title for the Migration Assistant page. It should match featureConfiguratorCmd.label in baseMenuOverlay.dtd -->
 <!ENTITY featureConfigurator.title "מסייע המעבר">
 
@@ -93,3 +100,5 @@
 <!ENTITY featureConfigurator.previousButton "קודם">
 <!ENTITY featureConfigurator.nextButton "הבא">
 <!ENTITY featureConfigurator.closeButton "סגירה">
+
+

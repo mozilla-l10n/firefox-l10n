@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# Yaron <sh.yaron@gmail.com>
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.menu.label):
      The label to display for the "View... Toolbars..." menu item that controls
      whether the quick filter bar is visible.
@@ -236,3 +249,5 @@
      -->
 <!ENTITY quickFilterBar.glodaUpsell.pressEnterAndCurrent
          "לחץ 'Enter' שוב כדי להמשיך עם החיפוש שלך עבור: #1">
+
+
