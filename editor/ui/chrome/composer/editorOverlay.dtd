@@ -51,7 +51,7 @@
 <!ENTITY fileRecentMenu.label "Páginas recientes">
 <!ENTITY fileRecentMenu.accesskey "R">
 <!ENTITY fileRevert.label "Revertir">
-<!ENTITY fileRevert.accesskey "v">
+<!ENTITY fileRevert.accesskey "t">
 <!ENTITY saveCmd.label "Guardar">
 <!ENTITY saveCmd.accesskey "G">
 <!ENTITY saveCmd.key "S">
@@ -64,8 +64,6 @@
 <!ENTITY publishAsCmd.accesskey "m">
 <!ENTITY saveAsChangeEncodingCmd.label "Guardar y cambiar codif. de caracteres">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "E">
-<!ENTITY printCmd.label "Imprimir…">
-<!ENTITY printCmd.accesskey "P">
 <!ENTITY editMenu.label "Editar">
 <!ENTITY editMenu.accesskey "E">
 <!ENTITY pasteNoFormatting.label "Pegar sin formato">
