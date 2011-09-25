@@ -14,8 +14,8 @@
 <!ENTITY signIn.account2.accesskey "a">
 <!ENTITY signIn.password.label "Contraseña ">
 <!ENTITY signIn.password.accesskey "C">
-<!ENTITY signIn.syncKey.label "Clave de Sync">
-<!ENTITY signIn.syncKey.accesskey "S">
+<!ENTITY signIn.recoveryKey.label "Clave de recuperación">
+<!ENTITY signIn.recoveryKey.accesskey "d">
 <!ENTITY setup.newAccountDetailsPage.title.label "Detalles de la cuenta">
 <!ENTITY setup.confirmPassword.label "Confirmar contraseña">
 <!ENTITY setup.confirmPassword.accesskey "m">
@@ -28,13 +28,13 @@
 <!ENTITY setup.ppLink.label "Política de privacidad">
 <!ENTITY setup.tosAgree3.label "">
 <!ENTITY setup.tosAgree2.accesskey "">
-<!ENTITY setup.newSyncKeyPage.title.label "A &brandShortName; le importa su privacidad">
-<!ENTITY setup.newSyncKeyPage.description.label "Para asegurar una privacidad total, todos los datos son cifrados antes de ser enviados. La clave de Sync, que es necesaria para descifrar sus datos, no es enviada.">
-<!ENTITY syncKeyEntry.label "Su clave de Sync">
-<!ENTITY syncKeyEntry.accesskey "c">
-<!ENTITY syncKeyGenerate.label "Generar">
-<!ENTITY syncKeyGenerate.accesskey "G">
-<!ENTITY syncKeyBackup.description "Su clave de Sync es necesaria para acceder a &syncBrand.fullName.label; en otros equpos. Por favor, cree una copia ahora. No podemos ayudarle a recuperar su clave de Sync.">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; cuida de su privacidad">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Para asegurar su total privacidad, todos sus datos son cifrados antes de ser enviados al servidor. La clave de recuperación que es necesaria para descifrar sus datos no se transmite.">
+<!ENTITY recoveryKeyEntry.label "Su clave de recuperación">
+<!ENTITY recoveryKeyEntry.accesskey "S">
+<!ENTITY recoveryKeyGenerate.label "Generar">
+<!ENTITY recoveryKeyGenerate.accesskey "G">
+<!ENTITY recoveryKeyBackup.description "Su clave de recuperación es necesaria para acceder a &syncBrand.fullName.label; en otras máquinas. Por favor, cree una copia de respaldo. No podemos ayudarle a recuperar su clave de recuperación.">
 <!ENTITY button.syncKeyBackup.print.label "Imprimir…">
 <!ENTITY button.syncKeyBackup.print.accesskey "p">
 <!ENTITY button.syncKeyBackup.save.label "Guardar…">
@@ -49,10 +49,10 @@
 <!ENTITY addDevice.dialog.enterCode.label "Introduzca el código que proporciona el dispositivo:">
 <!ENTITY addDevice.dialog.tryAgain.label "Por favor, vuelva a intentarlo.">
 <!ENTITY addDevice.dialog.successful.label "El dispositivo ha sido añadido con éxito. La sincronización inicial puede llevar varios minutos y terminará en segundo plano.">
-<!ENTITY addDevice.dialog.syncKey.label "Para activar su dispositivo necesitará introducir su clave de Sync. Por favor, imprima o guarde esta clave y llévela consigo.">
+<!ENTITY addDevice.dialog.recoveryKey.label "Para activar su dispositivo tendrá que escribir su clave de recuperación. Por favor, imprima o guarde esta clave y llévela con usted.">
 <!ENTITY addDevice.dialog.connected.label "Dispositivo conectado">
 <!ENTITY setup.signInPage.title.label "Iniciar sesión">
-<!ENTITY existingSyncKey.description 'Puede obtener una copia de su clave de Sync si va a las preferencias/opciones de &syncBrand.shortName.label; en su otro dispositivo, y selecciona "My clave de Sync" en "Administrar cuenta".'>
+<!ENTITY existingRecoveryKey.description 'Puede obtener una copia de su clave de recuperación yendo a las preferencias/opciones de &syncBrand.shortName.label; en su otro dispositivo y seleccionando "Mi clave de recuperación" bajo "Administrar cuenta".'>
 <!ENTITY verifying.label "Verificando…">
 <!ENTITY resetPassword.label "Restablecer contraseña">
 <!ENTITY resetSyncKey.label "He perdido mi otro dispositivo.">
