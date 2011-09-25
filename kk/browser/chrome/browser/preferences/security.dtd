@@ -1,4 +1,4 @@
-<!ENTITY  warnAddonInstall.label        "Веб-сайттардан кеңейтулерді орнатуға сұраныс түссе, мені ескерту">
+<!ENTITY  warnAddonInstall.label        "Веб-сайттар кеңейтулерді орнатқысы келсе, ескерту">
 <!ENTITY  warnAddonInstall.accesskey    "В">
 
 <!-- LOCALIZATION NOTE (blockWebForgeries.label, blockAttackSites.label):
