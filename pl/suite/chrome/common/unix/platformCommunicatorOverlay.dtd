@@ -11,10 +11,11 @@
 
 <!ENTITY redoCmd.key "Y">
 
+<!ENTITY findCmd.key2 "VK_F19">
 <!ENTITY findTypeTextCmd.key "/">
 <!ENTITY findTypeLinksCmd.key "'">
 
-<!ENTITY accel.emacs_conflict "accel,shift">
+<!ENTITY accel.emacs_conflict "accel">
 
 <!-- Help viewer -->
 <!ENTITY openHelpCmd.label "Spis treści">
