@@ -74,9 +74,6 @@
 <!ENTITY printCmd.label "Imprimir…">
 <!ENTITY printCmd.accesskey "I">
 <!ENTITY printCmd.key "p">
-<!ENTITY closeCmd.label "Fechar">
-<!ENTITY closeCmd.accesskey "F">
-<!ENTITY closeCmd.key "w">
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "Editar">
@@ -92,17 +89,6 @@
 <!ENTITY pasteAsQuotationCmd.accesskey "i">
 <!ENTITY pasteAsQuotationCmd.key "O">
 <!ENTITY findCmd.label "Localizar e substituir…">
-<!ENTITY findCmd.accesskey "z">
-<!ENTITY findCmd.key "f">
-<!ENTITY findCmd.key2 "VK_F19">
-<!ENTITY findAgainCmd.label "Localizar próxima">
-<!ENTITY findAgainCmd.accesskey "L">
-<!ENTITY findAgainCmd.key "g">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Localizar anterior">
-<!ENTITY findPrevCmd.accesskey "a">
-<!ENTITY findPrevCmd.key "g">
-<!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Verificar ortografia ao digitar">
 <!ENTITY enableInlineSpellChecker.accesskey "e">
 <!ENTITY checkSpellingCmd2.label "Verificar ortografia">
@@ -140,23 +126,6 @@
 <!ENTITY createLinkCmd.accesskey "l">
 <!ENTITY editLinkCmd.label "Editar link em nova janela">
 <!ENTITY editLinkCmd.accesskey "i">
-<!-- (Toplevel Edit menu uses utilityOverlay) -->
-<!ENTITY undoCmd.label "Desfazer">
-<!ENTITY undoCmd.accesskey "D">
-<!ENTITY redoCmd.label "Refazer">
-<!ENTITY redoCmd.accesskey "R">
-<!ENTITY cutCmd.label "Recortar">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "Copiar">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "Colar">
-<!ENTITY pasteCmd.accesskey "o">
-<!ENTITY deleteCmd.label "Excluir">
-<!ENTITY deleteCmd.accesskey "x">
-<!ENTITY clearCmd.label "Limpar">
-<!ENTITY clearCmd.accesskey "L">
-<!ENTITY selectAllCmd.label "Selecionar tudo">
-<!ENTITY selectAllCmd.accesskey "S">
 
 <!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip "Selecionar uma fonte">
@@ -397,6 +366,9 @@
 <!ENTITY openToolbarCmd.tooltip "Abrir um arquivo do computador">
 <!ENTITY saveToolbarCmd.tooltip "Salvar a página localmente">
 <!ENTITY publishToolbarCmd.tooltip "Fazer o upload do arquivo">
+<!ENTITY cutToolbarCmd.tooltip "Recortar">
+<!ENTITY copyToolbarCmd.tooltip "Copiar">
+<!ENTITY pasteToolbarCmd.tooltip "Colar">
 <!ENTITY printToolbarCmd.label "Imprimir">
 <!ENTITY printToolbarCmd.tooltip "Imprimir a página">
 <!ENTITY findToolbarCmd.label "Localizar">
