@@ -391,8 +391,8 @@
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly
 -->
-<!ENTITY tableJoinCells.label "j">
-<!ENTITY tableJoinCells.accesskey "j">
+<!ENTITY tableJoinCells.label "א">
+<!ENTITY tableJoinCells.accesskey "א">
 <!ENTITY tableSplitCell.label "פצל תא">
 <!ENTITY tableSplitCell.accesskey "c">
 <!ENTITY convertToTable.label "צור טבלה מקטע נבחר">
