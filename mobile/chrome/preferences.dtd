@@ -21,3 +21,4 @@
 <!ENTITY homepage.default                          "&brandShortName; Start">
 <!ENTITY homepage.currentpage                      "Använd aktuell sida">
 <!ENTITY showCharsetEncoding.title                 "Visa teckenkodning">
+<!ENTITY actionbar.default                         "&brandShortName;-inställningar">
