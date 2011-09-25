@@ -1,3 +1,17 @@
+<!--
+# Translator(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+# https://me.yahoo.com/tsahi_75 <tsahi_75@yahoo.com>
+# Yaron <sh.yaron@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!ENTITY messengerWindow.title "דואר וקבוצות דיון">
 <!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
@@ -9,9 +23,6 @@
 <!ENTITY closeTabCmd2.accesskey "ס">
 <!ENTITY closeOtherTabsCmd2.label "סגירת לשוניות אחרות">
 <!ENTITY closeOtherTabsCmd2.accesskey "א">
-<!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
-     Menu option to attempt to re-open a recently closed tab.
-     -->
 <!ENTITY recentlyClosedTabsCmd.label "לשוניות שנסגרו לאחרונה">
 <!ENTITY recentlyClosedTabsCmd.accesskey "נ">
 
@@ -249,7 +260,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.label       "התקרבות">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "ה">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!-- + is above this key on many keyboards --><!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "התרחקות">
@@ -414,7 +425,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markThreadAsReadCmd.label "נושא כנקרא">
 <!ENTITY markThreadAsReadCmd.accesskey "נ">
 <!ENTITY markThreadAsReadCmd.key "r">
-<!ENTITY markReadByDateCmd.label "כנקראות מתאריך...">
+<!ENTITY markReadByDateCmd.label "כנקראות מתאריך…">
 <!ENTITY markReadByDateCmd.accesskey "D">
 <!ENTITY markReadByDateCmd.key "c">
 <!ENTITY markAllReadCmd.label "הכול כנקרא">
@@ -577,9 +588,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "ס">
 <!ENTITY folderContextMarkMailFolderRead.label "סמן תיקייה כנקראת">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "ס">
-<!ENTITY folderContextSubscribe.label "הירשם כמנוי...">
+<!ENTITY folderContextSubscribe.label "הירשם כמנוי…">
 <!ENTITY folderContextSubscribe.accesskey "b">
-<!ENTITY folderContextSearchMessages.label "חפש...">
+<!ENTITY folderContextSearchMessages.label "חפש…">
 <!ENTITY folderContextSearchMessages.accesskey "ש">
 <!ENTITY folderContextProperties.label "מאפיינים…">
 <!ENTITY folderContextProperties.accesskey "א">

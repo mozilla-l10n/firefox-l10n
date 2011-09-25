@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
 #if 0
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
@@ -53,3 +65,5 @@
 
 <!ENTITY continueButton.label             "המשך במצב בטוח">
 <!ENTITY continueButton.accesskey         "מ">
+
+

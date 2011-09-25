@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# Yaron <sh.yaron@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!ENTITY settings.caption "הגדרות">
 <!ENTITY security.caption "אימות ואבטחה">
 <!ENTITY serverName.label "שם השרת:">
@@ -18,3 +30,5 @@
 <!ENTITY serverPortDefault.label "ברירת מחדל:">
 <!ENTITY authMethod.label "צורת ההזדהות:">
 <!ENTITY authMethod.accesskey "ה">
+
+
