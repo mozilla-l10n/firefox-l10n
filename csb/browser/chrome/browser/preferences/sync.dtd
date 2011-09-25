@@ -5,7 +5,7 @@
 # jurk <jurk@linuxcsb.org>
 #
 -->
-<!-- The page shown when not logged in... -->
+<!-- The page shown when not logged in… -->
 <!ENTITY setupButton.label          "Ùstawi &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "s">
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; dôwô Tobie przëstãp do Twòji historëji, załóżkòw, parolów ë òtmëkô kôrtë na wszëtczëch Twòjëch ùrządzeniach.">

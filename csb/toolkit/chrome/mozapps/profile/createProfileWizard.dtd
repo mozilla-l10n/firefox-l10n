@@ -15,7 +15,7 @@
 <!ENTITY profilePrompt.accesskey        "n">
 <!ENTITY profileDirectoryExplanation.text   "Nastôwë, preferencëje ë jinszé swòjé pòdôwczi brëkòwnika bãdã trzëmóné w:">
 <!ENTITY profileDefaultName             "Domëslny brëkòwnik">
-<!ENTITY button.choosefolder.label      "Wëbierzë katalog...">
+<!ENTITY button.choosefolder.label      "Wëbierzë katalog…">
 <!ENTITY button.choosefolder.accesskey  "W">
 <!ENTITY button.usedefault.label        "Brëkùjë domëslnegò kataloga">
 <!ENTITY button.usedefault.accesskey    "B">

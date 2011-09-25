@@ -36,9 +36,9 @@
 <!ENTITY view.sortDescending.label      "Czérënk zortowaniô: Z > A">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
-<!ENTITY cmd.findInBookmarks.label      "Nalezë w załóżkach...">
+<!ENTITY cmd.findInBookmarks.label      "Nalezë w załóżkach…">
 <!ENTITY cmd.findInBookmarks.accesskey  "z">
-<!ENTITY cmd.findCurrent.label          "Nalezë w aktualny kòlejkcëji...">
+<!ENTITY cmd.findCurrent.label          "Nalezë w aktualny kòlejkcëji…">
 <!ENTITY cmd.findCurrent.accesskey      "k">
 
 <!ENTITY importBookmarksFromHTML.label     "Impòrtëjë załóżczi z HMTL…">
@@ -48,11 +48,11 @@
 <!ENTITY importOtherBrowser.label          "Impòrtëjë pòdôwczi z jinégò przezérnika…">
 <!ENTITY importOtherBrowser.accesskey      "a">
 
-<!ENTITY cmd.backup.label               "Zazychrowanié...">
+<!ENTITY cmd.backup.label               "Zazychrowanié…">
 <!ENTITY cmd.backup.accesskey           "Z">
 <!ENTITY cmd.restore2.label             "Doprowôdzë nazôd">
 <!ENTITY cmd.restore2.accesskey         "D">
-<!ENTITY cmd.restoreFromFile.label      "Wëbierzë lopk...">
+<!ENTITY cmd.restoreFromFile.label      "Wëbierzë lopk…">
 <!ENTITY cmd.restoreFromFile.accesskey  "W">
 
 <!ENTITY cmd.bookmarkLink.label         "Dodôj nã starnã do załóżków…">
@@ -80,7 +80,7 @@
 
 <!ENTITY cmd.new_bookmark.label            "Nowô załóżka">
 <!ENTITY cmd.new_bookmark.accesskey        "z">
-<!ENTITY cmd.new_folder.label              "Nowi katalog...">
+<!ENTITY cmd.new_folder.label              "Nowi katalog…">
 <!ENTITY cmd.new_folder.accesskey          "k">
 <!ENTITY cmd.context_new_folder.accesskey  "N">
 <!ENTITY cmd.new_separator.label           "Nowi rozdzélôcz">
@@ -89,7 +89,7 @@
 <!ENTITY cmd.reloadLivebookmark.label      "Zladëjë dinamiczną załóżkã znowa">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "d">
 
-<!ENTITY cmd.moveBookmarks.label                  "Przeniesë...">
+<!ENTITY cmd.moveBookmarks.label                  "Przeniesë…">
 <!ENTITY cmd.moveBookmarks.accesskey              "P">
 
 <!ENTITY col.name.label          "Miono">

@@ -61,7 +61,7 @@
 <!ENTITY syncGenerateNewKey.label  "Generëjë nowi klucz">
 <!ENTITY syncKeyBackup.description "Twój klucz synchronizacëji je wëmôgóny bë dostac sã do &syncBrand.fullName.label; na jinëch ùrzãdzeniach. Proszã ùsôdzë jegò kòpijã. Ni mòżemë pòmóc Ce w dostónim nazôd Twòjégò klucza.">
 
-<!ENTITY button.syncKeyBackup.print.label     "Drëkùjë...">
+<!ENTITY button.syncKeyBackup.print.label     "Drëkùjë…">
 <!ENTITY button.syncKeyBackup.print.accesskey "D">
 <!ENTITY button.syncKeyBackup.save.label      "Zapiszë…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "s">

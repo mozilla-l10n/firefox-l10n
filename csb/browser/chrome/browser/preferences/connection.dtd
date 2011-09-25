@@ -49,5 +49,5 @@
 <!ENTITY  noproxy.label                 "Nié ùżëwôj proxy dlô:">
 <!ENTITY  noproxy.accesskey             "N">
 <!ENTITY  noproxyExplain.label          "Przëmiôr: .mozilla.org, .com.pl, 192.168.1.0/24">
-<!ENTITY  shareproxy.label              "Brëkùjë negò serwera proxy dlô wszëtczich protokòłów">
+<!ENTITY  shareproxy.label              "Brëkùjë negò serwera proxy dlô wszëtczich protokòlów">
 <!ENTITY  shareproxy.accesskey          "s">

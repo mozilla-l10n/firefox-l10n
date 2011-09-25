@@ -24,10 +24,10 @@
 <!ENTITY  dn.accesskey              "d">
 <!ENTITY  remove.label              "Rëmôj">
 <!ENTITY  remove.accesskey          "R">
-<!ENTITY  edit.label                "Editëjë kluczowé słowò...">
+<!ENTITY  edit.label                "Editëjë kluczowé słowò…">
 <!ENTITY  edit.accesskey            "E">
 
-<!ENTITY  addEngine.label           "Nalézë wicy mòtórów szëkbë...">
+<!ENTITY  addEngine.label           "Nalezë wicy mòtórów szëkbë…">
 <!ENTITY  addEngine.accesskey       "a">
 
 <!ENTITY  enableSuggest.label       "Wëskrzëni pòdpòwiescë szëkbë">

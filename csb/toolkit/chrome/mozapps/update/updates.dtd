@@ -29,9 +29,9 @@
 <!ENTITY  manualUpdateGetMsg.label        "Nônowszą wersëjã programë &brandShortName; mòżesz wiedno dobëc na:">
 
 <!ENTITY  incompatibleCheck.title         "Sprôwdzanié kòmpatibilnotë przëdôwków">
-<!ENTITY  incompatibleCheck.label         "Szëkba nônowszcih wersëji winstalowónych przëdôwków...">
+<!ENTITY  incompatibleCheck.label         "Szëkba nônowszcih wersëji winstalowónych przëdôwków…">
 
-<!ENTITY  clickHere.label                 "Wëskrzëni wicy wëdowiédzë ò ti aktualiazacëji...">
+<!ENTITY  clickHere.label                 "Wëskrzëni wicy wëdowiédzë ò ti aktualiazacëji…">
 
 <!ENTITY  evangelism.desc                 "To baro wôżné abë winstalowac tak chùtkò jak to le mòżlëwé
                                            zaktualnienié dlô programë &brandShortName;.">
@@ -50,8 +50,8 @@
 <!ENTITY  incompatibleList.title          "Nalazłé niekòmpatibilné przëdôwczi">
 
 <!ENTITY  downloadPage.title              "Zladënk &brandShortName;">
-<!ENTITY  downloading.intro               "Zladënk aktualizacëji...">
-<!ENTITY  connecting.label                "Sparłãczenié z serwerã aktualizacëji...">
+<!ENTITY  downloading.intro               "Zladënk aktualizacëji…">
+<!ENTITY  connecting.label                "Sparłãczenié z serwerã aktualizacëji…">
 <!ENTITY  verificationFailedText.label    "Programa &brandShortName; nié mògła zwerifikòwac 
                                            integralonotë ladowónegò zaktualnienia.
                                            Naczãto zladënk całownegò paczétu zaktualnienia.">
@@ -91,7 +91,7 @@
 
 <!ENTITY  installed.title                 "Aktualizacëjô winstalowónô">
 <!ENTITY  installed.intro                 "Instalacëjô aktualizacëji ùdało zakùńczonô">
-<!ENTITY  whatsnew.label                  "Czëtôj wicy ò tim co dô nowégò...">
+<!ENTITY  whatsnew.label                  "Czëtôj wicy ò tim co dô nowégò…">
 
 <!ENTITY  update.details.label            "Detale">
 <!ENTITY  update.installedOn.label        "Winstalowóno:">

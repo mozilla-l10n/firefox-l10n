@@ -26,9 +26,9 @@
 <!ENTITY closeWhenDone.accesskey "k">
 <!ENTITY saveTo.label "Zapiszë lopczi do">
 <!ENTITY saveTo.accesskey "o">
-<!ENTITY chooseFolderWin.label        "Przezérôj...">
+<!ENTITY chooseFolderWin.label        "Przezérôj…">
 <!ENTITY chooseFolderWin.accesskey    "r">
-<!ENTITY chooseFolderMac.label        "Wëbierzë...">
+<!ENTITY chooseFolderMac.label        "Wëbierzë…">
 <!ENTITY chooseFolderMac.accesskey    "b">
 <!ENTITY alwaysAsk.label "Pëtôj dze zapisac kòżdi lopk">
 <!ENTITY alwaysAsk.accesskey "t">
@@ -36,5 +36,5 @@
 <!ENTITY addonsMgr.label               "Przëdôwczi">
 <!ENTITY manageAddonsDescWin.label     "Zmieni òptacëje winstalowónych przëdôwków">
 <!ENTITY manageAddonsDescUnix2.label   "Zmieni preferencëje winstalowónych przëdôwków">
-<!ENTITY manageAddons.label            "Sprôwiôj przëdôwkama...">
+<!ENTITY manageAddons.label            "Sprôwiôj przëdôwkama…">
 <!ENTITY manageAddons.accesskey        "S">

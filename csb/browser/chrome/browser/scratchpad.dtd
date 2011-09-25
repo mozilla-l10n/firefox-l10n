@@ -34,8 +34,8 @@
 <!ENTITY newWindowCmd.commandkey      "w">
 
 <!ENTITY openFileCmd.label            "Òtemkni lopk...">
-<!ENTITY openFileCmd.accesskey        "o">
-<!ENTITY openFileCmd.commandkey       "o">
+<!ENTITY openFileCmd.accesskey        "l">
+<!ENTITY openFileCmd.commandkey       "l">
 
 <!ENTITY saveFileCmd.label            "Zapiszë">
 <!ENTITY saveFileCmd.accesskey        "s">

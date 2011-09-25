@@ -47,11 +47,11 @@
 
 <!ENTITY            availprofiles.label    "Przëstãpné profile">
 
-<!ENTITY            newButton.label        "Ùsôdzë nowi profil...">
+<!ENTITY            newButton.label        "Ùsôdzë nowi profil…">
 <!ENTITY            newButton.accesskey    "n">
-<!ENTITY            renameButton.label     "Zmieni miono profilu...">
+<!ENTITY            renameButton.label     "Zmieni miono profilu…">
 <!ENTITY            renameButton.accesskey "Z">
-<!ENTITY            deleteButton.label     "Rëmôj profil...">
+<!ENTITY            deleteButton.label     "Rëmôj profil…">
 <!ENTITY            deleteButton.accesskey "R">
 
 <!-- manager entities -->

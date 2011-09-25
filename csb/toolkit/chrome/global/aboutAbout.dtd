@@ -4,7 +4,7 @@
 # jurk <jurk@linuxcsb.org>
 #
 -->
-<!ENTITY aboutAbout.title  "Wicy na témã 'ò'">
-<!ENTITY aboutAbout.note   "Lësta starnów Ò je pòdónô dlô waji wëgòdë.<br/>
-                            Niechterné mògą bëc niézrozmiałe. Jinszé bôłé napisóné dlódiagnosticznëch célów.<br/>
-                            Jész jinszé sã pominiãté kò òne brëkùją butnowich pòdôwków.">
+<!ENTITY aboutAbout.title  "Ò protokòlu about:">
+<!ENTITY aboutAbout.note   "Lësta starnów ze słowã "about" je pòdónô dlô Twòji wëgòdë.<br/>
+                            Niechterné mògą bëc mëlącé. Jinszé bëłé ùżëté dlô rozpòznawczich célów.<br/>
+                            A jész jinszé sã òminiãté bò brëkùją butnowich pòdôwków.">

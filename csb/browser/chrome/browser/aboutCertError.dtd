@@ -30,6 +30,6 @@ z serwerã <b>#1</b>, nié mòże równak pòcwierdzëc bezpiécznegò sparłãc
 <!ENTITY certerror.expert.heading "Rozmiejã to rizykò">
 <!ENTITY certerror.expert.content "Jeżlë rozmiejesz ò co jidze, mòżesz rzec programie &brandShortName; bë naczãła dowierzac identifikacjëji ti starnë. <b>Nawetka, jeżlë dowiérzasz ti starnie, na fela mòże òznaczac, że chtos majstrëje przë twòjim internetowim sparłãczenim.</b>">
 <!ENTITY certerror.expert.contentPara2 "Nie dodôwôj wëjimków, chòba że znôsz dobri pòwód czemù na starna nie brëkùje dowierzony identifikacëji.">
-<!ENTITY certerror.addException.label "Dodôj rozszérzenié...">
+<!ENTITY certerror.addException.label "Dodôj rozszérzenié…">
 
 <!ENTITY certerror.technical.heading "Techniczné detale">

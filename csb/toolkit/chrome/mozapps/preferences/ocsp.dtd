@@ -1,5 +1,5 @@
 <!ENTITY ocspDialog.title             "Werifikacëjô certifikatów">
-<!ENTITY enableOCSP.label             "Brëkùjë protokòłu werifikacëji stónu certifikatu (OCSP) do pòcwierdzaniô wiarëgòdnotë certifikatów">
+<!ENTITY enableOCSP.label             "Brëkùjë protokòlu werifikacëji stónu certifikatu (OCSP) do pòcwierdzaniô wiarëgòdnotë certifikatów">
 <!ENTITY enableOCSP.accesskey         "B">
 <!ENTITY certOCSP2.label              "Werifikùjë certifikat, jeżlë nacéchòwóno w nim serwer OCSP">
 <!ENTITY certOCSP2.accesskey          "W">

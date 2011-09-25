@@ -123,11 +123,11 @@
 <!ENTITY certmgr.delete2.accesskey            "R">
 <!ENTITY certmgr.delete_builtin.label         "Rëmôj abò niedowiérzôj…">
 <!ENTITY certmgr.delete_builtin.accesskey     "d">
-<!ENTITY certmgr.backup2.label                "Zazychrowanié...">
+<!ENTITY certmgr.backup2.label                "Zazychrowanié…">
 <!ENTITY certmgr.backup2.accesskey            "Z">
 <!ENTITY certmgr.backupall2.label             "Zazychrëje wszëtczé…">
 <!ENTITY certmgr.backupall2.accesskey         "Z">
-<!ENTITY certmgr.restore2.label               "Impòrtëjë...">
+<!ENTITY certmgr.restore2.label               "Impòrtëjë…">
 <!ENTITY certmgr.restore2.accesskey           "m">
 <!ENTITY certmgr.details.label                "Pòla detali">
 <!ENTITY certmgr.details.accesskey            "P">
@@ -135,7 +135,7 @@
 <!ENTITY certmgr.fields.accesskey             "W">
 <!ENTITY certmgr.hierarchy.label              "Hierarchëjô certifikatów">
 <!ENTITY certmgr.hierarchy.accesskey          "c">
-<!ENTITY certmgr.addException.label           "Dodôj wëjimk...">
+<!ENTITY certmgr.addException.label           "Dodôj wëjimk…">
 <!ENTITY certmgr.addException.accesskey       "D">
 
 <!ENTITY exceptionMgr.title                   "Dodôj wëjimk bezpiekù">

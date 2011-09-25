@@ -41,9 +41,9 @@
 #
 -->
 
-<!ENTITY print.label          "Drëkùjë...">
+<!ENTITY print.label          "Drëkùjë…">
 <!ENTITY print.accesskey      "D">
-<!ENTITY pageSetup.label      "Nastôw starnë...">
+<!ENTITY pageSetup.label      "Nastôw starnë…">
 <!ENTITY pageSetup.accesskey  "N">
 <!ENTITY page.label           "Starna">
 <!ENTITY page.accesskey       "a">
@@ -68,9 +68,9 @@
 <!ENTITY p150.label           "150&#037;">
 <!ENTITY p175.label           "175&#037;">
 <!ENTITY p200.label           "200&#037;">
-<!ENTITY Custom.label         "Swôj...">
+<!ENTITY Custom.label         "Swôj…">
 <!ENTITY ShrinkToFit.label    "Dopasëjë do szérzë starnë">
-<!ENTITY customPrompt.title   "Swòjé skalowanié...">
+<!ENTITY customPrompt.title   "Swòjé skalowanié…">
 
 <!ENTITY homearrow.tooltip    "Pierszô starna">
 <!ENTITY endarrow.tooltip     "Slédnô starna">

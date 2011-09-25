@@ -15,8 +15,8 @@
                                            wersëje tich przëdôwków.">
 
 <!ENTITY  checking.wizard.title           "Szëkba za kòmpatibilnyma przëdôwkama">
-<!ENTITY  checking.top.label              "Szëkba za zaktualnieniama dlô niekòmpatibilnych przëdôwków...">
-<!ENTITY  checking.status                 "To mòże zbawic czile minut...">
+<!ENTITY  checking.top.label              "Szëkba za zaktualnieniama dlô niekòmpatibilnych przëdôwków…">
+<!ENTITY  checking.status                 "To mòże zbawic czile minut…">
 
 <!ENTITY  found.wizard.title               "Nalazłé kòmpatibilné przëdôwczi">
 <!ENTITY  found.top.label                 "Wëbierzë przëdôwk do winstalowaniô:">
@@ -26,7 +26,7 @@
 <!ENTITY  found.enableXPInstall.accesskey "Z">
 
 <!ENTITY  installing.wizard.title         "Instalacëjô kòmpatibilnych przëdôwków">
-<!ENTITY  installing.top.label            "Zladënk ë instalacëjô zaktualnieniów przëdôwków...">
+<!ENTITY  installing.top.label            "Zladënk ë instalacëjô zaktualnieniów przëdôwków…">
 
 <!ENTITY  noupdates.wizard.title          "Nié nalazłé kòmpatibilne przëdôwczi">
 <!ENTITY  noupdates.intro.desc            "Programa &brandShortName; nié nalazła niżódnych aktualizacëjów dlô
@@ -50,7 +50,7 @@
 <!ENTITY  versioninfo.wizard.title        "Sprôwdzanié kòmpatibilnotë przëdôwków">
 <!ENTITY  versioninfo.top.label           "Sprôwdzanié, czë winstalowóné przëdôwczi są kòmpatibilné z ną
                                            wersëją programë &brandShortName;.">
-<!ENTITY  versioninfo.waiting             "To mòże zbawic czile minut...">
+<!ENTITY  versioninfo.waiting             "To mòże zbawic czile minut…">
 
 <!ENTITY  installerrors.wizard.title      "Problemë przë instalacëji zaktualnienia">
 <!ENTITY  installerrors.intro.label       "Programa &brandShortName; pòtka problemë przë aktualizacëji

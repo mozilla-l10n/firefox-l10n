@@ -1,16 +1,16 @@
 <!ENTITY  blockPopups.label           "Blokùjë wëskakùjące òkna">
 <!ENTITY  blockPopups.accesskey       "B">
-<!ENTITY  popupExceptions.label       "Wëjimczi...">
+<!ENTITY  popupExceptions.label       "Wëjimczi…">
 <!ENTITY  popupExceptions.accesskey   "W">
 
 <!ENTITY  loadImages.label            "Ladëjë òbrôzczi automatno">
 <!ENTITY  loadImages.accesskey        "i">
-<!ENTITY  exceptions.label            "Wëjimczi...">
+<!ENTITY  exceptions.label            "Wëjimczi…">
 <!ENTITY  exceptions.accesskey        "j">
 
 <!ENTITY  enableJavaScript.label      "Włączë JavaScript">
 <!ENTITY  enableJavaScript.accesskey  "J">
-<!ENTITY  advancedJS.label            "Awansowóné...">
+<!ENTITY  advancedJS.label            "Awansowóné…">
 <!ENTITY  advancedJS.accesskey        "w">
 
 <!ENTITY  enableJava.label            "Włączë Java">
@@ -24,10 +24,10 @@
 <!ENTITY  defaultSize.label           "Miara:">
 <!ENTITY  defaultSize.accesskey       "M">
 
-<!ENTITY  advancedFonts.label         "Awansowóné...">
+<!ENTITY  advancedFonts.label         "Awansowóné…">
 <!ENTITY  advancedFonts.accesskey     "A">
 
-<!ENTITY  colors.label                "Farwë...">
+<!ENTITY  colors.label                "Farwë…">
 <!ENTITY  colors.accesskey            "F">
 
 

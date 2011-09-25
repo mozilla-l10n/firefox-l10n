@@ -42,10 +42,10 @@
 <!ENTITY  close.label                   "aż zamknã programã &brandShortName;">
 <!ENTITY  askEachTime.label             "pëtôj wiedno">
 
-<!ENTITY  cookieExceptions.label        "Wëjimczi...">
+<!ENTITY  cookieExceptions.label        "Wëjimczi…">
 <!ENTITY  cookieExceptions.accesskey    "W">
 
-<!ENTITY  showCookies.label             "Wëskrzëni kùszczi...">
+<!ENTITY  showCookies.label             "Wëskrzëni kùszczi…">
 <!ENTITY  showCookies.accesskey         "k">
 
 <!ENTITY  historyHeader.pre.label          "Programa &brandShortName;:">
@@ -89,5 +89,5 @@
 <!ENTITY  clearOnClose.label             "Wëczëszczë historëjã przë zamëkaniu programë &brandShortName;">
 <!ENTITY  clearOnClose.accesskey         "W">
 
-<!ENTITY  clearOnCloseSettings.label     "Nastôwë...">
+<!ENTITY  clearOnCloseSettings.label     "Nastôwë…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">

@@ -46,6 +46,6 @@
 -->
 
 <!-- OK Cancel Buttons -->
-<!ENTITY okButton.label      "JO">
+<!ENTITY okButton.label      "Jo">
 <!ENTITY cancelButton.label  "Òprzestóń">
 <!ENTITY helpButton.label    "Pòmòc">

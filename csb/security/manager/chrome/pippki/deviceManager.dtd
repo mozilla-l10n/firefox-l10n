@@ -70,7 +70,7 @@
 <!ENTITY loaddevice.modname.default             "Nowi mòduł PKCS#11">
 <!ENTITY loaddevice.filename                    "Miono mòdułu:">
 <!ENTITY loaddevice.filename.accesskey          "M">
-<!ENTITY loaddevice.browse                      "Przezérôj...">
+<!ENTITY loaddevice.browse                      "Przezérôj…">
 <!ENTITY loaddevice.browse.accesskey            "P">
 
 <!ENTITY loaddevice.title                       "Zaladëjë ùrządzenié PKCS#11">

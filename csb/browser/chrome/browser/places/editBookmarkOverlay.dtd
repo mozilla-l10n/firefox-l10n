@@ -9,7 +9,7 @@
 <!ENTITY editBookmarkOverlay.folder.label                    "Katalog:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Wëskrzëni wszëtczé katalodżi załóżków">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Zatacë">
-<!ENTITY editBookmarkOverlay.tags.label                      "Zankòwniczi:">
+<!ENTITY editBookmarkOverlay.tags.label                      "Znakòwniczi:">
 <!ENTITY editBookmarkOverlay.tags.accesskey                  "Z">
 <!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Rozparłãczë znakòwniczi rozczidnikama">
 <!ENTITY editBookmarkOverlay.description.label               "Òpisënk:">

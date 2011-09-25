@@ -8,7 +8,7 @@
 -->
 <!ENTITY addons.windowTitle                   "Menadżera przëdôwków">
 <!ENTITY search.placeholder                   "Szëkba we wszëtczich przëdôwkach">
-<!ENTITY loading.label                        "Ladowanié...">
+<!ENTITY loading.label                        "Ladowanié…">
 <!ENTITY listEmpty.installed.label            "Ni môsz zainstalowóné taczich przëdôwków">
 <!ENTITY listEmpty.availableUpdates.label     "Nié nalôzł niżódnych aktualizacëji">
 <!ENTITY listEmpty.recentUpdates.label        "Długò nie môsz aktualizowóné przëdôwków">
@@ -199,7 +199,7 @@
 <!ENTITY addon.updateAvailable.label          "Aktualizacëjô je przëstãpnô">
 <!ENTITY addon.checkingForUpdates.label       "Szëkanié za aktualizacëjama…">
 <!ENTITY addon.releaseNotes.label             "Notownik wëdôwka:">
-<!ENTITY addon.loadingReleaseNotes.label      "Ladowanié...">
+<!ENTITY addon.loadingReleaseNotes.label      "Ladowanié…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Pòkaza sã fela przë òtmikanim notownika wëdôwka.">
 
 <!ENTITY addon.createdBy.label                "Przez ">
@@ -207,6 +207,6 @@
 <!ENTITY eula.title                           "Licencjowô zgòda brëkòwnika">
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
-<!ENTITY eula.accept                          "Akceptëjã, winstalëjë...">
+<!ENTITY eula.accept                          "Akceptëjã, winstalëjë…">
 
 <!ENTITY settings.path.button.label           "Browse…">

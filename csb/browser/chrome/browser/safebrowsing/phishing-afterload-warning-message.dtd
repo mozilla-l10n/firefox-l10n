@@ -18,7 +18,7 @@
 <!ENTITY safeb.palm.accept.statustext "Bié do mòji domôcy starnë">
 <!ENTITY safeb.palm.decline.label "Ignorëjë tã òstrzégã">
 <!ENTITY safeb.palm.decline.statustext "Zamkni òstrzegã" >
-<!ENTITY safeb.palm.notforgery.label2 "To nie je szachrajstwò....">
+<!ENTITY safeb.palm.notforgery.label2 "To nie je szachrajstwò…">
 <!ENTITY safeb.palm.reportPage.label "Dlôczë na starna òsta zablokòwónô?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Zgłoszë atakùjącą starnã!">

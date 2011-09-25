@@ -2,6 +2,6 @@
      file, all messages that likely don't need to tie into app-specific UI
      should go into netError.dtd -->
 
-<!ENTITY securityOverride.linkText "Mòżesz téż dodac wëjimk...">
+<!ENTITY securityOverride.linkText "Mòżesz téż dodac wëjimk…">
 <!ENTITY securityOverride.warningContent "<p>Nie dobrze dôwac wëjimkù w przëtrôfkù brëkùnkù niebezpiecznegò sparłãczenia z internetã, a téż jeżlë takô òstrtzega nie wëskrzëni sã przë ùżëwaniu negò serwera. </p>
 <p>Abë nimò tegò dodac wëjimk, nót je brëkòwac awansowónych nastôwów szifrowaniô.</p>">

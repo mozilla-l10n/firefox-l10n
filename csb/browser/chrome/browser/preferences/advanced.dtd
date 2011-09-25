@@ -51,7 +51,7 @@
 <!ENTITY connection.label                "Sparłãczenié">
 
 <!ENTITY connectionDesc.label            "Kònfigùrëjë na jaczi ôrt &brandShortName; mô sã parłãczëc z internetã">
-<!ENTITY connectionSettings.label        "Nastôwë...">
+<!ENTITY connectionSettings.label        "Nastôwë…">
 <!ENTITY connectionSettings.accesskey    "N">
 
 <!ENTITY offlineStorage.label            "Pamiãc tribù offline">
@@ -91,12 +91,12 @@
 
 <!ENTITY offlineNotify.label             "Dôwôj wiédzã jeżlë internetowô starna pëtô ò mòżnotã trzëmaniô pòdôwków w tribie offline">
 <!ENTITY offlineNotify.accesskey         "D">
-<!ENTITY offlineNotifyExceptions.label   "Wëjimczi...">
+<!ENTITY offlineNotifyExceptions.label   "Wëjimczi…">
 <!ENTITY offlineNotifyExceptions.accesskey "W">
 
 <!ENTITY offlineAppsList.label           "Nôslédné internetowé starnë trzëmają na diskù pòdôwczi w tribie offline:">
 <!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Rëmôj..">
+<!ENTITY offlineAppsListRemove.label     "Rëmôj…">
 <!ENTITY offlineAppsListRemove.accesskey "R">
 <!ENTITY offlineAppRemove.confirm        "Rëmôj pòdôwczi tribù offline">
 

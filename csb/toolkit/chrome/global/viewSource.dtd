@@ -17,10 +17,10 @@
 
 <!ENTITY fileMenu.label "Lopk">
 <!ENTITY fileMenu.accesskey "L">
-<!ENTITY savePageCmd.label "Zapiszë starnã jakno...">
+<!ENTITY savePageCmd.label "Zapiszë starnã jakno…">
 <!ENTITY savePageCmd.accesskey "j">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Nastôw starnë...">
+<!ENTITY pageSetupCmd.label "Nastôw starnë…">
 <!ENTITY pageSetupCmd.accesskey "t">
 <!ENTITY printPreviewCmd.label "Pòdzérk drëkù">
 <!ENTITY printPreviewCmd.accesskey "d">
@@ -45,7 +45,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY textReset.commandkey "0">
 <!ENTITY textReset.commandkey2 "">
 
-<!ENTITY goToLineCmd.label "Biéj do réżczi...">
+<!ENTITY goToLineCmd.label "Biéj do réżczi…">
 <!ENTITY goToLineCmd.accesskey "B">
 <!ENTITY goToLineCmd.commandkey "l">
 
@@ -67,7 +67,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_textReset.label "Zwëczajny">
 <!ENTITY menu_textReset.accesskey "Z">
 
-<!ENTITY findOnCmd.label     "Nalezë na ti starnie...">
+<!ENTITY findOnCmd.label     "Nalezë na ti starnie…">
 <!ENTITY findOnCmd.accesskey "N">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Nalezë znowa">

@@ -11,7 +11,7 @@
 # jurk <jurk@linuxcsb.org>
 #
 -->
-<!ENTITY aboutDialog.title          "Ò &brandFullName;">
+<!ENTITY aboutDialog.title          "Ò programie &brandFullName;">
 
 <!ENTITY community.start2           "Programa &brandShortName; je zaprojektowónô przez karno ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->

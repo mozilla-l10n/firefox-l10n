@@ -43,7 +43,7 @@
 
 <!ENTITY  openWith.label              "Òtemkni z pòmòcą">
 <!ENTITY  openWith.accesskey          "t">
-<!ENTITY  other.label                 "Jinszô aplikacëjô...">
+<!ENTITY  other.label                 "Jinszô aplikacëjô…">
 
 <!ENTITY  saveFile.label              "Zapiszë lopk">
 <!ENTITY  saveFile.accesskey          "z">
@@ -53,9 +53,9 @@
 
 <!ENTITY  whichIsA.label              "Ôrt lopka:">
 
-<!ENTITY  chooseHandlerMac.label      "Wëbierzë...">
+<!ENTITY  chooseHandlerMac.label      "Wëbierzë…">
 <!ENTITY  chooseHandlerMac.accesskey  "W">
-<!ENTITY  chooseHandler.label         "Przezérôj...">
+<!ENTITY  chooseHandler.label         "Przezérôj…">
 <!ENTITY  chooseHandler.accesskey     "P">
 
 <!ENTITY  unknownPromptText.label     "Chcesz zapisac nen lopk?">
