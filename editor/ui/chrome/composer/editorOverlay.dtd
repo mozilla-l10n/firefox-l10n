@@ -152,23 +152,6 @@
 <!ENTITY createLinkCmd.accesskey "k">
 <!ENTITY editLinkCmd.label "ערוך קישור ב־Composer חדש">
 <!ENTITY editLinkCmd.accesskey "C">
-<!-- (Toplevel Edit menu uses utilityOverlay) -->
-<!ENTITY undoCmd.label "בטל">
-<!ENTITY undoCmd.accesskey "u">
-<!ENTITY redoCmd.label "בצע שוב">
-<!ENTITY redoCmd.accesskey "r">
-<!ENTITY cutCmd.label "גזור">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "העתק">
-<!ENTITY copyCmd.accesskey "c">
-<!ENTITY pasteCmd.label "הדבק">
-<!ENTITY pasteCmd.accesskey "p">
-<!ENTITY deleteCmd.label "מחק">
-<!ENTITY deleteCmd.accesskey "d">
-<!ENTITY clearCmd.label "ניקוי">
-<!ENTITY clearCmd.accesskey "l">
-<!ENTITY selectAllCmd.label "בחר הכול">
-<!ENTITY selectAllCmd.accesskey "a">
 
 <!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip "בחר גופן">
@@ -409,6 +392,9 @@
 <!ENTITY openToolbarCmd.tooltip "פתח קובץ מקומי">
 <!ENTITY saveToolbarCmd.tooltip "שמור קובץ למיקום מקומי">
 <!ENTITY publishToolbarCmd.tooltip "העלה קובץ למיקום מרוחק">
+  <!ENTITY cutToolbarCmd.tooltip "גזירה">
+  <!ENTITY copyToolbarCmd.tooltip "העתקה">
+  <!ENTITY pasteToolbarCmd.tooltip "הדבקה">
 <!ENTITY printToolbarCmd.label "הדפסה">
 <!ENTITY printToolbarCmd.tooltip "הדפס דף זה">
 <!ENTITY findToolbarCmd.label "מצא">
