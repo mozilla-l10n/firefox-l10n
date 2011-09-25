@@ -68,6 +68,7 @@
 <!ENTITY bookmarkPopup.label       "Lesezeichen gesetzt">
 <!ENTITY bookmarkRemove.label      "Entfernen">
 <!ENTITY bookmarkEdit.label        "Bearbeiten">
+<!ENTITY bookmarkShortcut.label    "Auf Home-Bildschirm ablegen">
 
 <!ENTITY identity.unverifiedsite2 "Diese Website stellt keine Identitätsdaten zur Verfügung.">
 <!ENTITY identity.connectedTo2 "Sie sind verbunden mit">
