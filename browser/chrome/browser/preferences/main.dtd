@@ -5,6 +5,9 @@
 <!ENTITY startupHomePage.label     "Abrir página inicial">
 <!ENTITY startupBlankPage.label    "Abrir página em branco">
 <!ENTITY startupLastSession.label  "Restaurar janelas e abas da sessão anterior">
+<!ENTITY restoreOnDemand.label     "Só carregar abas ao selecionar">
+<!ENTITY restoreOnDemand.accesskey "c">
+
 <!ENTITY homepage.label            "Página inicial:">
 <!ENTITY homepage.accesskey        "n">
 <!ENTITY useCurrentPage.label      "Usar a página aberta">
@@ -20,7 +23,7 @@
 <!ENTITY showWhenDownloading.label     "Abrir a janela Downloads ao salvar um arquivo">
 <!ENTITY showWhenDownloading.accesskey "b">
 <!ENTITY closeWhenDone.label "Fechar ao concluir todos os downloads">
-<!ENTITY closeWhenDone.accesskey "c">
+<!ENTITY closeWhenDone.accesskey "h">
 <!ENTITY saveTo.label "Salvar arquivos em:">
 <!ENTITY saveTo.accesskey "S">
 <!ENTITY chooseFolderWin.label        "Procurar…">
