@@ -7,6 +7,7 @@
 <!ENTITY go.label              "Go">
 <!ENTITY star.label            "Markieren">
 
+<!ENTITY showTabs.label        "Tabs anzeigen">
 <!ENTITY newtab.label          "Neuer Tab">
 <!ENTITY closetab.label        "Tab schließen">
 
