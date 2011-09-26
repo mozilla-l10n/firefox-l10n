@@ -7,6 +7,7 @@
 <!ENTITY go.label              "Перейти">
 <!ENTITY star.label            "Відзначити">
 
+<!ENTITY showTabs.label        "Показати вкладки">
 <!ENTITY newtab.label          "Нова вкладка">
 <!ENTITY closetab.label        "Закрити вкладку">
 
@@ -15,6 +16,7 @@
 <!ENTITY copyAll.label         "Скопіювати все">
 <!ENTITY copylink.label        "Копіювати посилання">
 <!ENTITY paste.label           "Вставити">
+<!ENTITY pasteAndGo.label      "Вставити та перейти">
 <!ENTITY delete.label          "Стерти">
 <!ENTITY selectAll.label       "Вибрати усі">
 <!ENTITY noSuggestions.label   "(нема підказок)">
@@ -67,6 +69,7 @@
 <!ENTITY bookmarkPopup.label       "Сторінку закладено">
 <!ENTITY bookmarkRemove.label      "Вилучити">
 <!ENTITY bookmarkEdit.label        "Редагувати">
+<!ENTITY bookmarkShortcut.label    "Додати до домашньої сторінки">
 
 <!ENTITY identity.unverifiedsite2 "Цей сайт не надає інформації для перевірки справжності.">
 <!ENTITY identity.connectedTo2 "Під’єднано до">
@@ -92,6 +95,7 @@
 <!ENTITY contextOpenInNewTab.label    "Відкрити посилання у новій вкладці">
 <!ENTITY contextSaveLink.label        "Зберегти посилання">
 <!ENTITY contextSaveImage.label       "Зберегти зображення">
+<!ENTITY contextCopyLink.label        "Копіювати посилання">
 <!ENTITY contextShareLink.label       "Поділитись посиланням">
 <!ENTITY contextShareImage.label      "Поділитись зображенням">
 <!ENTITY contextBookmarkLink.label    "Закласти посилання">
@@ -102,6 +106,7 @@
 <!ENTITY contextFullScreen.label      "Повний екран">
 <!ENTITY contextEditBookmark.label    "Редагувати">
 <!ENTITY contextRemoveBookmark.label  "Вилучити">
+<!ENTITY contextShortcutBookmark.label "Додати до домашньої сторінки">
 
 <!ENTITY pageactions.saveas.pdf      "Зберегти як PDF">
 <!ENTITY pageactions.share.page      "Поділитись сторінкою">
@@ -111,5 +116,6 @@
 <!ENTITY pageactions.findInPage      "Знайти на сторінці">
 <!ENTITY pageactions.search.addNew   "Додати пошуковик">
 <!ENTITY pageactions.charEncoding    "Кодування тексту">
+<!ENTITY pageactions.webapps.install "Встановити програму">
 
 <!ENTITY appMenu.siteOptions         "Налаштування сайта">
