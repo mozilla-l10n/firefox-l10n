@@ -1,0 +1,6 @@
+<!ENTITY applyTheme.label "Применить тему">
+<!ENTITY applyTheme.accesskey "м">
+<!ENTITY getNewThemesCmd.label "Загрузить новые темы">
+<!ENTITY getNewThemesCmd.accesskey "г">
+<!ENTITY getPersonasCmd.label "Загрузить обои">
+<!ENTITY getPersonasCmd.accesskey "б">
