@@ -31,10 +31,12 @@
 <!ENTITY cmd.findCurrent.label          "Serĉi en la nuna kolekto…">
 <!ENTITY cmd.findCurrent.accesskey      "e">
 
-<!ENTITY cmd.exportHTML.label           "Eksporti HTML…">
-<!ENTITY cmd.exportHTML.accesskey       "E">
-<!ENTITY cmd.importHTML.label           "Importi HTML…">
-<!ENTITY cmd.importHTML.accesskey       "I">
+<!ENTITY importBookmarksFromHTML.label     "Importi legosignojn el HTML…">
+<!ENTITY importBookmarksFromHTML.accesskey "I">
+<!ENTITY exportBookmarksToHTML.label       "Eksporti legosignojn al HTML…">
+<!ENTITY exportBookmarksToHTML.accesskey   "E">
+<!ENTITY importOtherBrowser.label          "Importi datumojn el alia retesplorilo…">
+<!ENTITY importOtherBrowser.accesskey      "A">
 
 <!ENTITY cmd.backup.label               "Sekurkopii…">
 <!ENTITY cmd.backup.accesskey           "S">
