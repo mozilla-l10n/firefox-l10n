@@ -3,6 +3,9 @@
 <!ENTITY itemUpdate.label "Обновления">
 <!ENTITY itemNetworking.label "Сеть и дисковое пространство">
 <!ENTITY itemCertificates.label "Сертификаты">
+<!ENTITY submitTelemetry.label "Отправлять данные о производительности">
+<!ENTITY submitTelemetry.accesskey "я">
+<!ENTITY telemetryInfoLink.label "Подробнее о телеметрии">
 <!ENTITY enableGlodaSearch.label "Включить глобальный поиск и индексацию сообщений">
 <!ENTITY enableGlodaSearch.accesskey "и">
 <!ENTITY systemIntegration.label "Интеграция с системой">
