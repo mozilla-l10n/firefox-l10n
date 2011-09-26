@@ -16,3 +16,8 @@
 <!ENTITY  sending_crash_report "Відсилання звіту про аварію\u2026">
 <!ENTITY  exit_label "Вийти">
 <!ENTITY  continue_label "Продовжити">
+
+<!ENTITY  launcher_shortcuts_title "Веб-програми &brandShortName;">
+<!ENTITY  launcher_shortcuts_empty "Веб-програм не знайдено">
+
+<!ENTITY choose_file "Виберіть файл">
