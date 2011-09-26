@@ -95,6 +95,9 @@
 <!ENTITY contextOpenInNewTab.label    "Abrir a ligazón nunha nova lapela">
 <!ENTITY contextSaveImage.label       "Gardar imaxe">
 <!ENTITY contextCopyLink.label        "Copiar ligazón">
+<!ENTITY contextCopyEmail.label       "Copiar correo electrónico">
+<!ENTITY contextCopyPhone.label       "Copiar número de teléfono">
+<!ENTITY contextCopyImageLocation.label       "Copiar a localización da imaxe">
 <!ENTITY contextShareLink.label       "Compartir ligazón">
 <!ENTITY contextShareImage.label      "Compartir imaxe">
 <!ENTITY contextBookmarkLink.label    "Marcar ligazón">
