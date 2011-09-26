@@ -41,14 +41,9 @@ certiĝu ke &brandShortName; rajtas aliri la TTTn.</li> </ul>">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Malkonektita reĝimo">
-<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
-     indicate that "Work Offline" is a menu item without being too specific,
-     since it could be in either the normal menu (Mac/Linux) or the Firefox button
-     menu (Windows).
--->
-<!ENTITY netOffline.overrideLongDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Malŝalti la menueron &quot;Labori malkonektite&quot; kaj klopodu denove.</li>
+  <li>Premu &quot;Klopodi denove&quot; por baskuli al la konektita reĝimo kaj reŝargi la paĝon.</li>
 </ul>
 ">
 
@@ -126,6 +121,9 @@ la eraro povas esti tempa kaj vi povos klopodi denove poste.</li>
 
 <!ENTITY cspFrameAncestorBlocked.title "Blokita de la sekureca politiko pri enahvo">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; ne permesis al tiu ĉi paĝo ŝargiĝi ĉi tiel ĉar la paĝo havas sekurecan politikon pri enhavo kiu malperesas tion.</p>">
+
+<!ENTITY corruptedContentError.title "Eraro pro difektita enhavo">
+<!ENTITY corruptedContentError.longDesc "<p>La paĝo kiun vi volas vidi ne povas esti montrita ĉar okazis eraro en la sendado de datumoj.</p><ul><li>Bonvolu kontakti la posedantojn de tiu retejo kaj raporti al ili tiun ĉi problemon.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Aŭ vi povas aldoni escepton…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Mi volas foriri de ĉi tie!">
