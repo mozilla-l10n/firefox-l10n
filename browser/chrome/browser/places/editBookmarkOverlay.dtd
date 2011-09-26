@@ -6,7 +6,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "R">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Retadreso de retejo:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "R">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "Aktivaj titoloj">
 <!ENTITY editBookmarkOverlay.folder.label                    "Dosierujo:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Montri ĉiujn dosierujojn de legosignoj">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Kaŝi">
