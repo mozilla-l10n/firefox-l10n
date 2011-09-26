@@ -5,6 +5,9 @@
 <!ENTITY startupHomePage.label     "Montri mian ekan paĝon">
 <!ENTITY startupBlankPage.label    "Montri malplenan paĝon">
 <!ENTITY startupLastSession.label  "Montri miajn lastajn fenestrojn kaj foliojn">
+<!ENTITY restoreOnDemand.label     "Ne ŝargi foliojn ĝis elektado">
+<!ENTITY restoreOnDemand.accesskey "l">
+
 <!ENTITY homepage.label            "Eka paĝo:">
 <!ENTITY homepage.accesskey        "P">
 <!ENTITY useCurrentPage.label      "Uzi la nunan paĝon">

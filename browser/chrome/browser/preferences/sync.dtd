@@ -13,9 +13,10 @@
 <!ENTITY manageAccount.label          "Administri konton">
 <!ENTITY manageAccount.accesskey      "A">
 <!ENTITY viewQuota.label              "Montri limigon de spaco">
-<!ENTITY changePassword.label         "Ŝanĝi pasvorton">
+<!ENTITY changePassword2.label         "Ŝanĝi pasvorton…">
 <!ENTITY mySyncKey.label              "Mia ŝlosilo de spegulado">
-<!ENTITY resetSync.label              "Rekomenci la speguladon">
+<!ENTITY resetSync2.label              "Rekomenci speguladon…">
+
 <!ENTITY addDevice.label              "Aldoni aparaton">
 
 <!ENTITY syncMy.label               "Speguli miajn">
@@ -33,7 +34,7 @@
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label       "Nomo de komputilo:">
 <!ENTITY syncComputerName.accesskey   "k">
-<!ENTITY deactivateDevice.label       "Malaktivigi tiun ĉi aparaton">
+<!ENTITY unlinkDevice.label           "Malligi tiun ĉi aparaton">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Kondiĉoj de uzado">
