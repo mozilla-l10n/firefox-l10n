@@ -68,8 +68,6 @@
 <!ENTITY publishAsCmd.accesskey "b">
 <!ENTITY saveAsChangeEncodingCmd.label "Gardar e modificar a codificación de caracteres">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "m">
-<!ENTITY printCmd.label "Imprimir…">
-<!ENTITY printCmd.accesskey "I">
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "Editar">
