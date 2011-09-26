@@ -5,10 +5,10 @@
 <!ENTITY reflowZoom.title                          "Текст за шириною екрана">
 <!ENTITY showImages.title                          "Показувати малюнки">
 <!ENTITY enableJavaScript.title                    "Дозволити JavaScript">
-<!ENTITY enablePlugins.title                       "Дозволити плагіни">
 <!ENTITY privacy.title                             "Приватність та безпека">
 <!ENTITY allowCookies.title                        "Дозволити куки">
 <!ENTITY doNotTrack.title                          "Казати сайтам не відслідковувати мене">
+<!ENTITY masterPassword.title                      "Використовувати головний пароль">
 <!ENTITY clearPrivateData2.title                   "Вичистити приватні дані">
 <!ENTITY clearPrivateData.button                   "Вичистити">
 <!ENTITY rememberPasswords.title                   "Пам’ятати паролі">
@@ -20,4 +20,4 @@
 <!ENTITY homepage.none                             "Пуста сторінка">
 <!ENTITY homepage.default                          "&brandShortName;:початкова">
 <!ENTITY homepage.currentpage                      "Встановити поточну">
-<!ENTITY showCharset.title                         "Показувати вибір кодування">
+<!ENTITY showCharsetEncoding.title                 "Показувати кодування символів">
