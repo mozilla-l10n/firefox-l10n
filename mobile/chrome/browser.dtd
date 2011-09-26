@@ -118,6 +118,5 @@
 <!ENTITY pageactions.findInPage      "Zoeken op pagina">
 <!ENTITY pageactions.search.addNew   "Zoekmachine toevoegen">
 <!ENTITY pageactions.charEncoding    "Tekenset">
-<!ENTITY pageactions.webapps.install "Als app installeren">
 
 <!ENTITY appMenu.siteOptions         "Website-opties">
