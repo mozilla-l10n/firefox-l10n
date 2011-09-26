@@ -5,10 +5,7 @@
 <!ENTITY feedback.feedback.good "جيد">
 <!ENTITY feedback.feedback.bad "سيئ">
 
-<!ENTITY feedback.information.title "معلومات إضافية">
-<!ENTITY feedback.about.title "عن هذه البيتا">
-<!ENTITY feedback.about.button "اذهب إلى الصفحة">
-
 <!ENTITY feedback.tools.title "أدوات">
+<!ENTITY feedback.allowTelemetry.title "أرسِل بيانات الأداء">
 <!ENTITY feedback.forceCompat.title "اجعل توافقية الإضافات قسريّة">
 <!ENTITY feedback.errorConsole.title "فعّل معراض الأخطاء">

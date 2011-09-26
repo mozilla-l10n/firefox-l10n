@@ -24,12 +24,12 @@
 <!-- New Account Page 1: Basic Account Info -->
 
 <!ENTITY setup.newAccountDetailsPage.title.label "تفاصيل الحساب">
-<!ENTITY setup.confirmPassword.label "أكّد كلمة السر">
-<!ENTITY setup.confirmPassword.accesskey "س">
 <!ENTITY setup.emailAddress.label "البريد الإلكتروني">
 <!ENTITY setup.emailAddress.accesskey "ت">
-<!ENTITY setup.choosePassword.label      "اختر كلمة السر">
-<!ENTITY setup.choosePassword.accesskey  "خ">
+<!ENTITY setup.choosePassword.label "اختر كلمة السر">
+<!ENTITY setup.choosePassword.accesskey "خ">
+<!ENTITY setup.confirmPassword.label "أكّد كلمة السر">
+<!ENTITY setup.confirmPassword.accesskey "س">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
 <!ENTITY setup.tosAgree1.label "أوافق على">

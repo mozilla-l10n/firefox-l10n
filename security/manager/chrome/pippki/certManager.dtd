@@ -105,8 +105,8 @@
 <!ENTITY certmgr.close.accesskey "غ">
 <!ENTITY certmgr.view2.label "اعرض…">
 <!ENTITY certmgr.view2.accesskey "ع">
-<!ENTITY certmgr.edit3.label                  "حرّر الثقة…">
-<!ENTITY certmgr.edit3.accesskey              "ح">
+<!ENTITY certmgr.edit3.label "حرّر الثقة…">
+<!ENTITY certmgr.edit3.accesskey "ح">
 <!ENTITY certmgr.editca.label "حرِّر ثقة سلطة الشّهادات">
 <!ENTITY certmgr.editca.accesskey "ث">
 <!ENTITY certmgr.add.label "أضِف">
@@ -115,8 +115,8 @@
 <!ENTITY certmgr.export.accesskey "ص">
 <!ENTITY certmgr.delete2.label "احذف…">
 <!ENTITY certmgr.delete2.accesskey "ح">
-<!ENTITY certmgr.delete_builtin.label         "احذف أو لا تثق…">
-<!ENTITY certmgr.delete_builtin.accesskey     "ذ">
+<!ENTITY certmgr.delete_builtin.label "احذف أو لا تثق…">
+<!ENTITY certmgr.delete_builtin.accesskey "ذ">
 <!ENTITY certmgr.backup2.label "احفظ احتياطيا…">
 <!ENTITY certmgr.backup2.accesskey "ط">
 <!ENTITY certmgr.backupall2.label "احفظ الكل احتياطيا…">
@@ -133,7 +133,7 @@
 <!ENTITY certmgr.addException.accesskey "ت">
 
 <!ENTITY exceptionMgr.title "أضِف استثناءً أمنيًا">
-<!ENTITY exceptionMgr.exceptionButton.label   "أكّد الاستثناء الأمني">
+<!ENTITY exceptionMgr.exceptionButton.label "أكّد الاستثناء الأمني">
 <!ENTITY exceptionMgr.exceptionButton.accesskey "س">
 <!ENTITY exceptionMgr.supplementalWarning "لن تطلب منك هذا البنوك الحقيقية والمتاجر والمواقع العامة الأخرى.">
 <!ENTITY exceptionMgr.certlocation.caption2 "الخادوم">

@@ -7,6 +7,7 @@
 <!ENTITY go.label "اذهب">
 <!ENTITY star.label "ضع نجمة">
 
+<!ENTITY showTabs.label "أظهِر الألسنة">
 <!ENTITY newtab.label "لسان جديد">
 <!ENTITY closetab.label "أغلِق اللسان">
 
@@ -15,6 +16,7 @@
 <!ENTITY copyAll.label "انسخ الكل">
 <!ENTITY copylink.label "انسخ وصلة الموقع">
 <!ENTITY paste.label "الصق">
+<!ENTITY pasteAndGo.label "ألصق واذهب">
 <!ENTITY delete.label "احذف">
 <!ENTITY selectAll.label "اختر الكل">
 <!ENTITY noSuggestions.label "(لا اقتراحات)">
@@ -67,6 +69,7 @@
 <!ENTITY bookmarkPopup.label "عُلّمت الصفحة">
 <!ENTITY bookmarkRemove.label "أزِل">
 <!ENTITY bookmarkEdit.label "حرّر">
+<!ENTITY bookmarkShortcut.label "أضِف إلى شاشة البداية">
 
 <!ENTITY identity.unverifiedsite2 "لا يزوّد موقع الوب هذا معلومات تعريفية.">
 <!ENTITY identity.connectedTo2 "متصل ب‍">
@@ -92,6 +95,7 @@
 <!ENTITY contextOpenInNewTab.label "افتح الوصلة في لسان جديد">
 <!ENTITY contextSaveLink.label "احفظ الوصلة">
 <!ENTITY contextSaveImage.label "احفظ الصورة">
+<!ENTITY contextCopyLink.label "انسخ الوصلة">
 <!ENTITY contextShareLink.label "تشارك الوصلة">
 <!ENTITY contextShareImage.label "تشارك الصورة">
 <!ENTITY contextBookmarkLink.label "علّم الوصلة">
@@ -102,14 +106,16 @@
 <!ENTITY contextFullScreen.label "ملء الشاشة">
 <!ENTITY contextEditBookmark.label "حرّر">
 <!ENTITY contextRemoveBookmark.label "أزِل">
+<!ENTITY contextShortcutBookmark.label "أضِف إلى شاشة البداية">
 
 <!ENTITY pageactions.saveas.pdf "احفظ ك‍ PDF">
 <!ENTITY pageactions.share.page "تشارك الصفحة">
 <!ENTITY pageactions.password.forget "انسَ كلمة السر">
-<!ENTITY pageactions.quit            "اخرج">
+<!ENTITY pageactions.quit "اخرج">
 <!ENTITY pageactions.reset "امسح تفضيلات الموقع">
 <!ENTITY pageactions.findInPage "ابحث في الصفحة">
 <!ENTITY pageactions.search.addNew "أضِف محرك بحث">
 <!ENTITY pageactions.charEncoding "ترميز المحارف">
+<!ENTITY pageactions.webapps.install "ثبّت كتطبيق">
 
 <!ENTITY appMenu.siteOptions "خيارات الموقع">

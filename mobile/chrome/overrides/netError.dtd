@@ -7,19 +7,17 @@
 
 
 <!ENTITY connectionFailure.title "تعذر الاتصال">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
 
 <!ENTITY deniedPortAccess.title "هذا العنوان غير مسموح به">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "الخادوم غير موجود">
-<!ENTITY dnsNotFound.longDesc "<ul> 
-<li>تأكد أن العنوان لا يحتوي على أخطاء مثل 
-<strong>ww</strong>.example.com عوضًا عن 
+<!ENTITY dnsNotFound.longDesc2 "<ul> 
+<li>تحقق من عدم وجود أي أخطاء في العنوان مثل 
+<strong>ww</strong>.example.com بدلًا من 
 <strong>www</strong>.example.com</li> 
-<li>إن كنت غير قادر على تحميل أي صفحة، تحقق من اتصال جهازك بالشبكة. 
-</li> 
-<li>إن كان جهازك أو شبكتك محميًا بجدار نار أو خادوم وسيط، تأكّد من السماح ل‍ &brandShortName; بالوصول إلى الوب.</li> 
+<li>إن لم تكن قادرًا على تحميل أي صفحة، تحقق من اتصال جهازك بشبكة البيانات أو الشبكة اللاسلكية.</li> 
 </ul>">
 
 <!ENTITY fileNotFound.title "الملف غير موجود">
@@ -41,14 +39,12 @@
 </ul>">
 
 <!ENTITY netInterrupt.title "قوطع الاتصال">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netOffline.title "نمط اللا اتصال">
-<!ENTITY netOffline.longDesc2 "
-<ul>
-  <li>جرّب مجددًا. سيحاول &brandShortName; فتح اتصال ومعاودة تحميل الصفحة.</li>
-</ul>
-">
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>جرّب مجددًا. سيحاول &brandShortName; فتح اتصال ومعاودة تحميل الصفحة.</li> 
+</ul>">
 
 <!ENTITY contentEncodingError.title "خطأ في ترميز المحتوى">
 <!ENTITY contentEncodingError.longDesc "<ul> 
@@ -61,10 +57,10 @@
 </ul>">
 
 <!ENTITY netReset.title "صُفّر الاتصال">
-<!ENTITY netReset.longDesc "&sharedLongDesc;">
+<!ENTITY netReset.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netTimeout.title "انتهت مهلة الاتصال">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
 <!ENTITY protocolNotFound.title "العنوان غير مفهوم">
 <!ENTITY protocolNotFound.longDesc "<ul> 
@@ -79,11 +75,9 @@
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "تعذر إيجاد الخادوم الوسيط">
-<!ENTITY proxyResolveFailure.longDesc "<ul> 
-<li>تحقق من إعدادات الوسيط لتتأكد أنها صحيحة.</li> 
-<li>تحقق من اتصال جهازك بالشبكة.</li> 
-<li>إن كان جهازك أو شبكتك يحميها جدار نار أو خادوم وسيط، تأكّد أنّ 
-&brandShortName; مسموح له بالوصول إلى الوب.</li> 
+<!ENTITY proxyResolveFailure.longDesc2 "<ul> 
+<li>تحقق من أن إعدادات الوسيط صحيحة.</li> 
+<li>تأكد بأن جهازك متصل بشكل سليم بشبكة بيانات أو شبكة لاسلكية.</li> 
 </ul>">
 
 <!ENTITY redirectLoop.title "الصفحة لا تعيد التوجيه بشكل صحيح">
@@ -111,20 +105,10 @@
 <li>إن كنت قد اتصلتَ بهذا الموقع بنجاح في الماضي، قد يكون هذا الخطأ مؤقتًا، لذا أعِد المحاولة في وقت لاحق.</li> 
 </ul>">
 
-<!ENTITY sharedLongDesc "<ul> 
-<li>يبدو هذا الموقع غير متاح مؤقتًا أو مشغولًا جدًا. حاول مجددًا بعد دقائق قليلة.</li> 
-<li>إن كنت عاجزًا عن تحميل أي صفحة، تحقق من اتصال جهازك بالشبكة.</li> 
-<li>إن كان جهازك أو شبكتك يحميها جدار نار أو خادوم وسيط، تأكّد أنّ 
-&brandShortName; مسموح له بالوصول إلى الوب.</li> 
+<!ENTITY sharedLongDesc2 "<ul> 
+<li>قد يكون الموقع غير متاح مؤقتًا أو مشغولًا جدًا. حاول مجددًا بعد قليل.</li> 
+<li>إن لم تكن تستطيع تحميل أي صفحة، تحقق من اتصال جوّالك بشبكة البيانات أو الشبكة اللاسلكية.</li> 
 </ul>">
-
-<!ENTITY malwareBlocked.title "موقع هجمات مشتبه به!">
-<!ENTITY malwareBlocked.longDesc "<p>مواقع الهجمات تحاول تثبيت برامج لسرقة المعلومات الشخصية، أو تستخدم جهازك لمهاجمة أجهزة أخرى، أو تخرّب نظامك.</p> 
-<p>مالكو المواقع الذين يرون أن مواقهم بُلّغ عنها بالخطأ أنها مواقع هجمات، يمكنهم <a href='http://www.stopbadware.org/home/reviewinfo' >تقديم طلب بمراجعة ذلك</a>.</p>">
-
-<!ENTITY phishingBlocked.title "تزوير وب مشتبه به!">
-<!ENTITY phishingBlocked.longDesc "<p>قد يؤدي إدخالك لمعلومات شخصية في هذه الصفحة إلى سرقة هويتك أو وقوعك ضحية لحِيَل أخرى.</p> 
-<p>هذه النوعية من تزويرات الوب معروفة باسم حِيَل الإنترنت، والتي تحاول فيها صفحات الوب المخادعة أو رسائل البريد تقليد مصادر قد تثق بها.</p>">
 
 <!ENTITY cspFrameAncestorBlocked.title "معطّل من قِبَل سياسة أمن المحتوى">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>يمنع &brandShortName; هذه الصفحة من التحميل بهذه الطريقة لأنّ لهذه الصفحة سياسة أمن المحتوى تمنع ذلك.</p>">

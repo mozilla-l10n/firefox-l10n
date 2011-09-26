@@ -197,5 +197,4 @@
 <!ENTITY eula.height "400px">
 <!ENTITY eula.accept "أوافق وأثبّت…">
 
-<!ENTITY settings.path.button.label           "تصفّح…">
-
+<!ENTITY settings.path.button.label "تصفّح…">
