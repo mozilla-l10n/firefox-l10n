@@ -34,7 +34,7 @@
 <!ENTITY sslTls.label "SSL/TLS">
 
 <!ENTITY advancedSetup.label "إعداد متقدم">
-<!ENTITY advancedSetup.accesskey "ة">
+<!ENTITY advancedSetup.accesskey "د">
 <!ENTITY cancel.label "ألغِ">
 <!ENTITY cancel.accesskey "ل">
 <!ENTITY continue.label "أكمِل">

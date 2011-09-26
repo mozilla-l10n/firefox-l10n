@@ -9,9 +9,6 @@
 <!ENTITY closeTabCmd2.accesskey "غ">
 <!ENTITY closeOtherTabsCmd2.label "أغلِق الألسنة الأخرى">
 <!ENTITY closeOtherTabsCmd2.accesskey "خ">
-<!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
-     Menu option to attempt to re-open a recently closed tab.
-     -->
 <!ENTITY recentlyClosedTabsCmd.label "الألسنة المغلقة مؤخرًا">
 <!ENTITY recentlyClosedTabsCmd.accesskey "ر">
 
@@ -227,6 +224,8 @@
 <!ENTITY bodySanitized.accesskey "ب">
 <!ENTITY bodyAsPlaintext.label "نص صِرْف">
 <!ENTITY bodyAsPlaintext.accesskey "ن">
+<!ENTITY bodyAllParts.label "كل أجزاء المتن">
+<!ENTITY bodyAllParts.accesskey "ك">
 
 <!ENTITY bodyMenuFeed.label "تلقيم متن الرسالة كـ">
 <!ENTITY bodyMenuFeed.accesskey "ت">

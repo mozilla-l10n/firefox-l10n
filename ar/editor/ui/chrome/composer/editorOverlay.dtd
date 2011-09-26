@@ -73,9 +73,6 @@
 <!ENTITY printCmd.label "اطبع…">
 <!ENTITY printCmd.accesskey "ط">
 <!ENTITY printCmd.key "P">
-<!ENTITY closeCmd.label "أغلق">
-<!ENTITY closeCmd.accesskey "غ">
-<!ENTITY closeCmd.key "W">
 <!-- Edit menu items -->
 
 <!ENTITY editMenu.label "تحرير">
@@ -91,17 +88,6 @@
 <!ENTITY pasteAsQuotationCmd.accesskey "ت">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "ابحث و استبدل…">
-<!ENTITY findCmd.accesskey "ث">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.key2 "VK_F19">
-<!ENTITY findAgainCmd.label "ابحث مرة أخرى">
-<!ENTITY findAgainCmd.accesskey "م">
-<!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "ابحث عن السابق">
-<!ENTITY findPrevCmd.accesskey "س">
-<!ENTITY findPrevCmd.key "G">
-<!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "دقق الإملاء بينما تكتب">
 <!ENTITY enableInlineSpellChecker.accesskey "د">
 <!ENTITY checkSpellingCmd2.label "دقِّق الإملاء">
@@ -127,7 +113,7 @@
 <!ENTITY insertCharsCmd.label "محارف ورموز…">
 <!ENTITY insertCharsCmd.accesskey "ح">
 <!ENTITY insertBreakAllCmd.label "فاصل تحت الصور">
-<!ENTITY insertBreakAllCmd.accesskey "ق">
+<!ENTITY insertBreakAllCmd.accesskey "ف">
 <!-- Used just in context popup. -->
 
 <!ENTITY spellCheckNoSuggestions.label "(لا توجد اقتراحات)">
@@ -139,23 +125,6 @@
 <!ENTITY createLinkCmd.accesskey "ش">
 <!ENTITY editLinkCmd.label "حرّر الوصلة في محرر جديد">
 <!ENTITY editLinkCmd.accesskey "ف">
-<!-- (Toplevel Edit menu uses utilityOverlay) -->
-<!ENTITY undoCmd.label "تراجع">
-<!ENTITY undoCmd.accesskey "ت">
-<!ENTITY redoCmd.label "أعِد">
-<!ENTITY redoCmd.accesskey "د">
-<!ENTITY cutCmd.label "قص">
-<!ENTITY cutCmd.accesskey "ق">
-<!ENTITY copyCmd.label "انسخ">
-<!ENTITY copyCmd.accesskey "ن">
-<!ENTITY pasteCmd.label "الصق">
-<!ENTITY pasteCmd.accesskey "ص">
-<!ENTITY deleteCmd.label "احذف">
-<!ENTITY deleteCmd.accesskey "ح">
-<!ENTITY clearCmd.label "امسح">
-<!ENTITY clearCmd.accesskey "م">
-<!ENTITY selectAllCmd.label "اختر الكل">
-<!ENTITY selectAllCmd.accesskey "ك">
 <!-- Font Face SubMenu -->
 
 <!ENTITY FontFaceSelect.tooltip "اختر خطا">
@@ -397,6 +366,9 @@
 <!ENTITY openToolbarCmd.tooltip "افتح ملفا محليا">
 <!ENTITY saveToolbarCmd.tooltip "احفظ الملف في موقع محلي">
 <!ENTITY publishToolbarCmd.tooltip "ارفع ملفا إلى موقع بعيد">
+<!ENTITY cutToolbarCmd.tooltip "قصّ">
+<!ENTITY copyToolbarCmd.tooltip "انسخ">
+<!ENTITY pasteToolbarCmd.tooltip "ألصق">
 <!ENTITY printToolbarCmd.label "اطبع">
 <!ENTITY printToolbarCmd.tooltip "اطبع هذه الصفحة">
 <!ENTITY findToolbarCmd.label "ابحث">
