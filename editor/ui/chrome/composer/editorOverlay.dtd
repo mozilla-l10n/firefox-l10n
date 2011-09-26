@@ -73,9 +73,6 @@
 <!ENTITY printCmd.label "Print…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.key "P">
-<!ENTITY closeCmd.label "Close">
-<!ENTITY closeCmd.accesskey "C">
-<!ENTITY closeCmd.key "W">
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "Edit">
@@ -91,17 +88,6 @@
 <!ENTITY pasteAsQuotationCmd.accesskey "Q">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Find and Replace…">
-<!ENTITY findCmd.accesskey "F">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.key2 "VK_F19">
-<!ENTITY findAgainCmd.label "Find Again">
-<!ENTITY findAgainCmd.accesskey "g">
-<!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Find Previous">
-<!ENTITY findPrevCmd.accesskey "v">
-<!ENTITY findPrevCmd.key "G">
-<!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Spellcheck As You Type">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY checkSpellingCmd2.label "Check Spelling">
@@ -139,23 +125,6 @@
 <!ENTITY createLinkCmd.accesskey "k">
 <!ENTITY editLinkCmd.label "Edit Link in New Composer">
 <!ENTITY editLinkCmd.accesskey "i">
-<!-- (Toplevel Edit menu uses utilityOverlay) -->
-<!ENTITY undoCmd.label "Undo">
-<!ENTITY undoCmd.accesskey "U">
-<!ENTITY redoCmd.label "Redo">
-<!ENTITY redoCmd.accesskey "R">
-<!ENTITY cutCmd.label "Cut">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "Copy">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "Paste">
-<!ENTITY pasteCmd.accesskey "P">
-<!ENTITY deleteCmd.label "Delete">
-<!ENTITY deleteCmd.accesskey "D">
-<!ENTITY clearCmd.label "Clear">
-<!ENTITY clearCmd.accesskey "l">
-<!ENTITY selectAllCmd.label "Select All">
-<!ENTITY selectAllCmd.accesskey "A">
 
 <!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip "Choose a font">
@@ -396,6 +365,9 @@
 <!ENTITY openToolbarCmd.tooltip "Open a local file">
 <!ENTITY saveToolbarCmd.tooltip "Save file to a local location">
 <!ENTITY publishToolbarCmd.tooltip "Upload file to a remote location">
+<!ENTITY cutToolbarCmd.tooltip "Cut">
+<!ENTITY copyToolbarCmd.tooltip "Copy">
+<!ENTITY pasteToolbarCmd.tooltip "Paste">
 <!ENTITY printToolbarCmd.label "Print">
 <!ENTITY printToolbarCmd.tooltip "Print this page">
 <!ENTITY findToolbarCmd.label "Find">
