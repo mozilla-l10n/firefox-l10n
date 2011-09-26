@@ -1,0 +1,6 @@
+<!ENTITY applyTheme.label          "Thema toepassen">
+<!ENTITY applyTheme.accesskey      "h"> 
+<!ENTITY getNewThemesCmd.label     "Nieuwe thema’s verkrijgen">
+<!ENTITY getNewThemesCmd.accesskey "N">
+<!ENTITY getPersonasCmd.label      "Personas verkrijgen">
+<!ENTITY getPersonasCmd.accesskey  "P">
