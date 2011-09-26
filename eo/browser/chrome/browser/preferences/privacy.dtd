@@ -1,3 +1,8 @@
+<!ENTITY tracking.label                 "Spurado">
+
+<!ENTITY doNotTrack.label               "Diri al retejoj ke mi ne volas esti spurita">
+<!ENTITY doNotTrack.accesskey           "d">
+
 <!ENTITY  history.label                 "Historio">
 
 <!ENTITY  locationBar.label             "Retadresa strio">
