@@ -28,11 +28,9 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "وضع بدون اتصال">
-<!ENTITY netOffline.longDesc2 "
-<ul>
-  <li>اضغط على &quot;حاول مجددًا&quot; للتبديل إلى وضع الاتصال وإعادة تحميل الصفحة.</li>
-</ul>
-">
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>اضغط على &quot;حاول مجددًا&quot; للتبديل إلى وضع الاتصال وإعادة تحميل الصفحة.</li> 
+</ul>">
 
 <!ENTITY contentEncodingError.title "خطأ في ترميز المحتوى">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>من فضلك اتصل بمالكي الموقع لإعلامهم بهذه المشكلة.</li> </ul>">
@@ -90,10 +88,9 @@ button is included here (instead of netError.xhtml) because it exposes
 functionality specific to thunderbird. -->
 
 
-<!ENTITY securityOverride.warningContent "<p>ينبغي أن لا تضيف استثناء إذا كنت تستخدم اتصال إنترنت لا تثق به، أو كنت غير معتاد على رؤية هذا التحذير من هذا الموقع.</p>
-
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
-">
+<!ENTITY securityOverride.warningContent "<p>ينبغي أن لا تضيف استثناء إذا كنت تستخدم اتصال إنترنت لا تثق به، أو كنت غير معتاد على رؤية هذا التحذير من هذا الموقع.</p> 
+ 
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> ">
 
 <!ENTITY remoteXUL.title "XUL بعيد">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>الرجاء التواصل مع مالك الموقع لإبلاغه بهذه المشكلة.</li></ul></p>">

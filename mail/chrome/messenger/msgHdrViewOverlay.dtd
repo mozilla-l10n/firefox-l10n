@@ -59,6 +59,7 @@
 <!ENTITY editMessageButton.label "حرّر…">
 <!ENTITY hdrArchiveButton.label "أرشِف">
 <!ENTITY hdrArchiveButton.tooltip "أرشِف هذه الرسالة">
+<!ENTITY hdrSmartReplyButton.label "ردّ ذكي">
 <!ENTITY hdrReplyButton.label "ردّ">
 <!ENTITY hdrReplyButton.tooltip "ردّ على هذه الرسالة">
 <!ENTITY hdrReplyAllButton.label "ردّ على الكل">
