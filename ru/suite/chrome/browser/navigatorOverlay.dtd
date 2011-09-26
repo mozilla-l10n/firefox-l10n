@@ -38,12 +38,6 @@
 <!ENTITY pageInfoCmd.label "Информация о странице">
 <!ENTITY pageInfoCmd.accesskey "ф">
 <!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY applyTheme.label "Применить тему">
-<!ENTITY applyTheme.accesskey "т">
-<!ENTITY getNewThemesCmd.label "Загрузить новые темы">
-<!ENTITY getNewThemesCmd.accesskey "т">
-<!ENTITY getPersonasCmd.label "Загрузить обои">
-<!ENTITY getPersonasCmd.accesskey "б">
 <!ENTITY goMenu.label "Перейти">
 <!ENTITY goMenu.accesskey "е">
 <!ENTITY goHomeCmd.label "Домой">
