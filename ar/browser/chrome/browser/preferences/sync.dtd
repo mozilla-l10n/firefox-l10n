@@ -13,9 +13,9 @@
 <!ENTITY manageAccount.label "أدِر الحساب">
 <!ENTITY manageAccount.accesskey "س">
 <!ENTITY viewQuota.label "اعرض الحصة">
-<!ENTITY changePassword.label "غيّر كلمة السر">
+<!ENTITY changePassword2.label "غيّر كلمة السر…">
 <!ENTITY mySyncKey.label "مفتاح المزامنة">
-<!ENTITY resetSync.label "صفّر التزامن">
+<!ENTITY resetSync2.label "صفّر تزامُن…">
 
 <!ENTITY addDevice.label "أضِف جهازًا">
 
@@ -34,8 +34,7 @@
 
 <!ENTITY syncComputerName.label "اسم الحاسوب:">
 <!ENTITY syncComputerName.accesskey "ح">
-<!ENTITY deactivateDevice.label "ألغِ تنشيط هذا الجهاز">
-
+<!ENTITY unlinkDevice.label "ألغِ ارتباط هذا الجهاز">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label "بنود الخدمة">

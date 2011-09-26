@@ -29,16 +29,9 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "وضع اللا اتصال">
-<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
-     indicate that "Work Offline" is a menu item without being too specific,
-     since it could be in either the normal menu (Mac/Linux) or the Firefox button
-     menu (Windows).
--->
-<!ENTITY netOffline.longDesc2 "
-<ul>
-  <li>اضغط على &quot;جرّب مجددًا&quot; للتبديل إلى وضع الاتصال وإعادة تحميل الصفحة.</li>
-</ul>
-">
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>اضغط على &quot;جرّب مجددًا&quot; للتبديل إلى وضع الاتصال وإعادة تحميل الصفحة.</li> 
+</ul>">
 
 <!ENTITY contentEncodingError.title "خطأ في ترميز المحتوى">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>من فضلك اتصل بمالكي الموقع لإعلامهم بهذه المشكلة.</li> </ul>">
@@ -86,6 +79,7 @@
 
 <!ENTITY corruptedContentError.title "خطأ: محتوى فاسد">
 <!ENTITY corruptedContentError.longDesc "<p>تعذر عرض الصفحة التي تريد مشاهدتها بسبب خطأ أثناء نقل البيانات.</p><ul><li>الرجاء التواصل مع مالك الموقع لإبلاغه بهذه المشكلة.</li></ul>">
+
 
 <!ENTITY securityOverride.linkText "أو يمكنك إضافة استثناء…">
 <!ENTITY securityOverride.getMeOutOfHereButton "أخرجني من هنا!">
