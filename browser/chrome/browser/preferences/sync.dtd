@@ -14,7 +14,7 @@
 <!ENTITY manageAccount.accesskey      "A">
 <!ENTITY viewQuota.label              "Montri limigon de spaco">
 <!ENTITY changePassword2.label         "Ŝanĝi pasvorton…">
-<!ENTITY mySyncKey.label              "Mia ŝlosilo de spegulado">
+<!ENTITY myRecoveryKey.label          "Mia reakira ŝlosilo">
 <!ENTITY resetSync2.label              "Rekomenci speguladon…">
 
 <!ENTITY addDevice.label              "Aldoni aparaton">
