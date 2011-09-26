@@ -49,13 +49,6 @@
 <!ENTITY pageInfoCmd.accesskey "i">
 <!ENTITY pageInfoCmd.commandkey "i">
 
-<!ENTITY applyTheme.label "Thema toepassen">
-<!ENTITY applyTheme.accesskey "h"> 
-<!ENTITY getNewThemesCmd.label "Nieuwe thema’s verkrijgen">
-<!ENTITY getNewThemesCmd.accesskey "N">
-<!ENTITY getPersonasCmd.label "Personas verkrijgen">
-<!ENTITY getPersonasCmd.accesskey "P">
-
 <!-- Go Menu -->
 <!ENTITY goMenu.label "Ga">
 <!ENTITY goMenu.accesskey "G">
