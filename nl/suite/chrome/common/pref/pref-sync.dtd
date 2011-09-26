@@ -20,8 +20,8 @@
 <!ENTITY viewQuota.accesskey          "Q">
 <!ENTITY changePassword.label         "Wachtwoord wijzigen">
 <!ENTITY changePassword.accesskey     "W">
-<!ENTITY mySyncKey.label              "Mijn Sync-sleutel">
-<!ENTITY mySyncKey.accesskey          "M">
+<!ENTITY myRecoveryKey.label          "Mijn herstelsleutel">
+<!ENTITY myRecoveryKey.accesskey      "M">
 <!ENTITY resetSync.label              "Sync herinitialiseren">
 <!ENTITY resetSync.accesskey          "h">
 <!ENTITY deactivateDevice.label       "Dit apparaat deactiveren">
