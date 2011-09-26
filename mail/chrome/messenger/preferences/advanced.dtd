@@ -6,6 +6,9 @@
 
 <!-- General Settings -->
 
+<!ENTITY submitTelemetry.label "Envoyer les rapports de performance">
+<!ENTITY submitTelemetry.accesskey "m">
+<!ENTITY telemetryInfoLink.label "Plus de détails sur la métrologie">
 <!ENTITY enableGlodaSearch.label "Activer la recherche et l'indexation globales">
 <!ENTITY enableGlodaSearch.accesskey "c">
 <!ENTITY systemIntegration.label "Intégration système">
