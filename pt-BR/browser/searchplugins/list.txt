@@ -1,4 +1,5 @@
 google
+twitter
 yahoo-br
 wikipedia-br
 mercadolivre
