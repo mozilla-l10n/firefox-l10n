@@ -14,7 +14,7 @@
 <!ENTITY manageAccount.accesskey "C">
 <!ENTITY viewQuota.label "Féach ar Chuóta">
 <!ENTITY changePassword2.label "Athraigh an Focal Faire…">
-<!ENTITY mySyncKey.label "M'Eochair Sync">
+<!ENTITY myRecoveryKey.label "M'Eochair Athshlánaithe">
 <!ENTITY resetSync2.label "Athshocraigh Sync…">
 
 <!ENTITY addDevice.label "Cuir Gléas Leis">
