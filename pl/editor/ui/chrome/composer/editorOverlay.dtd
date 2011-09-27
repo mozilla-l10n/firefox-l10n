@@ -72,10 +72,6 @@
 <!ENTITY publishAsCmd.accesskey            "j">
 <!ENTITY saveAsChangeEncodingCmd.label     "Zapisz i zmień kodowanie znaków">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "m">
-<!ENTITY printCmd.label           "Drukuj…">
-<!ENTITY printCmd.accesskey       "D">
-<!ENTITY printPreviewCmd.label     "Podgląd wydruku">
-<!ENTITY printPreviewCmd.accesskey "g">
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label              "Edycja">
