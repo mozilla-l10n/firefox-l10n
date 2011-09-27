@@ -6,6 +6,9 @@
 
 <!-- General Settings -->
 
+<!ENTITY submitTelemetry.label         "Skicka prestandadata">
+<!ENTITY submitTelemetry.accesskey     "S">
+<!ENTITY telemetryInfoLink.label       "Mer information om Telemetry">
 <!ENTITY enableGlodaSearch.label       "Aktivera global sökning och indexering">
 <!ENTITY enableGlodaSearch.accesskey   "A">
 <!ENTITY systemIntegration.label       "Systemintegration">
