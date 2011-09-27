@@ -118,6 +118,5 @@
 <!ENTITY pageactions.findInPage      "尋找">
 <!ENTITY pageactions.search.addNew   "新增搜尋引擎">
 <!ENTITY pageactions.charEncoding    "語言及字元編碼">
-<!ENTITY pageactions.webapps.install "安裝為行動應用程式">
 
 <!ENTITY appMenu.siteOptions         "網站選項">
