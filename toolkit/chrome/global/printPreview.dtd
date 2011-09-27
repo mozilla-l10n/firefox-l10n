@@ -68,7 +68,5 @@
 
 <!ENTITY homearrow.tooltip    "Prva stranica">
 <!ENTITY endarrow.tooltip     "Posljednja stranica">
-<!ENTITY rightarrow.tooltip   "Iduća stranica">
-<!ENTITY leftarrow.tooltip    "Prethodna stranica">
 <!ENTITY nextarrow.tooltip    "Iduća stranica">
 <!ENTITY previousarrow.tooltip "Prethodna stranica">

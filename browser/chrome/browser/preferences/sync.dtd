@@ -4,8 +4,6 @@
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; vam omogućava pristup povijesti, zabilješkama, lozinkama i otvorenim karticama između svih vaših računala.">
 
 <!-- The page shown when logged in... -->
-<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; račun">
-<!ENTITY currentAccount.label         "Trenutni račun:">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Ažuriraj">
@@ -15,18 +13,15 @@
 <!ENTITY manageAccount.label          "Upravljanje računom">
 <!ENTITY manageAccount.accesskey      "r">
 <!ENTITY viewQuota.label              "Pregled kvote">
-<!ENTITY changePassword.label         "Promjena lozinke">
+<!ENTITY changePassword2.label        "Promjena lozinke…">
 <!ENTITY mySyncKey.label              "Moj Sync ključ">
-<!ENTITY resetSync.label              "Resetiranje Synca">
-<!ENTITY stopUsingAccount.label       "Prekid korištenja ovog računa">
+<!ENTITY resetSync2.label             "Resetiranje Synca…">
 <!ENTITY addDevice.label              "Dodaj uređaj">
 
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label       "Naziv računala:">
 <!ENTITY syncComputerName.accesskey   "r">
-<!ENTITY deactivateDevice.label       "Deaktiviraj ovaj uređaj">
 
-<!ENTITY syncPrefsCaption.label     "Sinkronizacija preglednika">
 <!ENTITY syncMy.label               "Sinkroniziraj moje">
 <!ENTITY engine.bookmarks.label     "Zabilješke">
 <!ENTITY engine.bookmarks.accesskey "z">
@@ -38,7 +33,7 @@
 <!ENTITY engine.passwords.accesskey "L">
 <!ENTITY engine.prefs.label         "Osobitosti">
 <!ENTITY engine.prefs.accesskey     "O">
-
+<!ENTITY unlinkDevice.label         "Odspoji ovaj uređaj">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Uvjeti korištenja">

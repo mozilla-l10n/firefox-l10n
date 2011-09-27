@@ -59,5 +59,3 @@
 <!ENTITY  clickFinish.label               "Kliknite na Završi da biste nastavili pokretanje &brandShortName;.">
 <!ENTITY  clickFinish.labelMac            "Kliknite Završi za nastavak pokretanja &brandShortName;.">
 <!ENTITY  enableChecking.label            "Dopusti da &brandShortName; provjerava dostupnost dopuna.">
-<!ENTITY  details.label                   "Detalji...">
-<!ENTITY  details.accesskey               "D">

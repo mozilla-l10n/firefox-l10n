@@ -27,8 +27,6 @@
 <!ENTITY printCmd.label "Ispis...">
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "Uvezi...">
-<!ENTITY import.accesskey "U">
 
 <!ENTITY goOfflineCmd.label "Izvanmrežni rad">
 <!ENTITY goOfflineCmd.accesskey "v">
@@ -40,8 +38,6 @@
 <!ENTITY personalbarCmd.label "Alatna traka zabilješki">
 <!ENTITY personalbarCmd.accesskey "z">
 <!ENTITY bookmarksToolbarItem.label "Stavke alatne trake zabilješki">
-<!ENTITY taskbarCmd.label "Statusna traka">
-<!ENTITY taskbarCmd.accesskey "t">
 
 <!ENTITY pageSourceCmd.label "Izvorni kod stranice">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -73,8 +69,6 @@
 <!ENTITY subscribeToPageMenupopup.label "Pretplati se na ovu stranicu">
 <!ENTITY subscribeToPageMenuitem.label "Pretplati se na ovu stranicu...">
 <!ENTITY addCurPagesCmd.label "Dodaj sve kartice u zabilješke...">
-<!ENTITY organizeBookmarks.label "Organiziraj zabilješke…">
-<!ENTITY bookmarkAllCmd.label "Dodaj sve kartice u zabilješke...">
 <!ENTITY bookmarksToolbarChevron.tooltip "Prikaži više zabilješki">
 <!ENTITY unsortedBookmarksCmd.label "Nesortirane zabilješke">
 
@@ -84,7 +78,8 @@
 <!ENTITY forwardCmd.label             "Naprijed">
 <!ENTITY forwardCmd.accesskey         "p">
 <!ENTITY forwardButton.tooltip        "Naprijed za jednu stranicu">
-<!ENTITY backForwardMenu.tooltip      "Nedavne stranice">
+<!ENTITY backForwardButtonMenu.tooltip "Za pristup povijesti kliknite desnom tipkom miša ili povucite dolje">
+<!ENTITY backForwardButtonMenuMac.tooltip "Pull down to show history">
 <!ENTITY reloadCmd.label              "Osvježi">
 <!ENTITY reloadCmd.accesskey          "O">
 <!ENTITY reloadButton.tooltip         "Osvježi trenutnu stranicu">
@@ -133,7 +128,6 @@
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Dodaci">
-<!ENTITY addons.tooltip               "Prikaz i upravljanje instaliranim dodacima">
 <!ENTITY addons.accesskey             "A">
 
 <!ENTITY webDeveloperMenu.label       "Web programer">
@@ -172,13 +166,8 @@
 <!ENTITY selectAllCmd.label         "Označi sve">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "A"> 
-<!ENTITY preferencesCmd.label       "Opcije...">
-<!ENTITY preferencesCmd.accesskey     "O"> 
 <!ENTITY preferencesCmdUnix.label       "Postavke">
 <!ENTITY preferencesCmdUnix.accesskey     "P"> 
-
-<!ENTITY clearRecentHistoryCmd.label            "Očisti nedavnu povijest">
-<!ENTITY clearRecentHistoryCmd.accesskey        "n">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "Pokreni Privatno pretraživanje">
@@ -207,10 +196,6 @@
 <!ENTITY showAllHistoryCmd.commandkey "h">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.bookmarkhistory.emptyText "Pretraži zabilješke i povijest">
-<!ENTITY urlbar.bookmark.emptyText    "Pretraži zabilješke">
-<!ENTITY urlbar.history.emptyText     "Pretraži povijest">
-<!ENTITY urlbar.none.emptyText        "Upišite web adresu">
 <!ENTITY urlbar.accesskey             "r">
 
 <!-- 
@@ -311,8 +296,6 @@
 <!ENTITY sendAudioCmd.accesskey       "z">
 <!ENTITY copyLinkCmd.label            "Kopiraj lokaciju poveznice">
 <!ENTITY copyLinkCmd.accesskey        "a">
-<!ENTITY copyLinkTextCmd.label        "Kopiraj tekst poveznice">
-<!ENTITY copyLinkTextCmd.accesskey    "k">
 <!ENTITY copyImageCmd.label           "Kopiraj lokaciju slike">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "Kopiraj sliku">
@@ -321,7 +304,6 @@
 <!ENTITY copyVideoURLCmd.accesskey    "v">
 <!ENTITY copyAudioURLCmd.label        "Kopiraj lokaciju zvuka">
 <!ENTITY copyAudioURLCmd.accesskey    "z">
-<!ENTITY blockImageCmd.accesskey      "B">
 <!ENTITY copyEmailCmd.label           "Kopiraj adresu e-pošte">
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "Ovaj okvir">
@@ -429,10 +411,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Gotovo">
 <!ENTITY editBookmark.cancel.label                   "Odustani">
 <!ENTITY editBookmark.removeBookmark.accessKey       "U">
-<!ENTITY editBookmark.undo.label                     "Vrati">
-<!ENTITY editBookmark.undo.accessKey                 "V">
-<!ENTITY editBookmark.edit.label                     "Uredi…">
-<!ENTITY editBookmark.edit.accessKey                 "e">
 
 <!ENTITY identity.unverifiedsite2 "Ova stranica ne pruža informacije o identitetu.">
 <!ENTITY identity.connectedTo "Povezani ste na">
@@ -519,15 +497,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY inspectMenu.label            "Ispitivanje">
 <!ENTITY inspectMenu.accesskey        "T">
 <!ENTITY inspectMenu.commandkey       "I">
-<!ENTITY inspectPreviousButton.label  "Prethodno">
-<!ENTITY inspectPreviousButton.accesskey "P">
-<!ENTITY inspectNextButton.label      "Iduće">
-<!ENTITY inspectNextButton.accesskey  "N">
-<!ENTITY inspectStyleButton.label     "Stil">
-<!ENTITY inspectStyleButton.accesskey "S">
-<!ENTITY inspectStylePanelTitle.label  "Stil">
-<!ENTITY inspectObjectButton.label       "Objekt">
-<!ENTITY inspectObjectButton.accesskey   "O">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Pronađi više alata">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "l">
@@ -551,8 +520,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY  undoCloseTab.label                 "Poništi zatvaranje kartice">
 <!ENTITY  undoCloseTab.accesskey             "P">
 
-
-<!ENTITY showAllBookmarks.label "Prikaži sve zabilješke…">
 
 <!ENTITY syncTabsMenu.label     "Kartice s ostalih računala">
 
