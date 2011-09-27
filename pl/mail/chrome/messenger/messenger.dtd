@@ -266,9 +266,11 @@
 <!ENTITY pageSourceCmd.label     "Źródło wiadomości">
 <!ENTITY pageSourceCmd.accesskey "d">
 <!ENTITY pageSourceCmd.key       "u">
+<!ENTITY getNewMessagesCmd.key    "y">
+<!ENTITY getAllNewMessagesCmd.key "Y">
 
 <!-- Search Menu -->
-<!ENTITY findMenu.label               "Znajdź">
+<!ENTITY findMenu.label               l"Znajdź">
 <!ENTITY findMenu.accesskey           "Z">
 <!ENTITY findCmd.label                "Znajdź w tej wiadomości…">
 <!ENTITY findCmd.accesskey            "Z">
