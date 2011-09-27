@@ -270,7 +270,7 @@
 <!ENTITY getAllNewMessagesCmd.key "Y">
 
 <!-- Search Menu -->
-<!ENTITY findMenu.label               l"Znajdź">
+<!ENTITY findMenu.label               "Znajdź">
 <!ENTITY findMenu.accesskey           "Z">
 <!ENTITY findCmd.label                "Znajdź w tej wiadomości…">
 <!ENTITY findCmd.accesskey            "Z">
