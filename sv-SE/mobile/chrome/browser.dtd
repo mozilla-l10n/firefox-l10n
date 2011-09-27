@@ -93,9 +93,11 @@
 <!ENTITY consoleErrColumn.label    "Kolumn:">
 
 <!ENTITY contextOpenInNewTab.label    "Öppna länk i ny flik">
-<!ENTITY contextSaveLink.label        "Spara länk">
 <!ENTITY contextSaveImage.label       "Spara bild">
 <!ENTITY contextCopyLink.label        "Kopiera länk">
+<!ENTITY contextCopyEmail.label       "Kopiera e-postadress">
+<!ENTITY contextCopyPhone.label       "Kopiera telefonnummer">
+<!ENTITY contextCopyImageLocation.label       "Kopiera bildadress">
 <!ENTITY contextShareLink.label       "Dela länk">
 <!ENTITY contextShareImage.label      "Dela bild">
 <!ENTITY contextBookmarkLink.label    "Bokmärk länk">
@@ -116,6 +118,5 @@
 <!ENTITY pageactions.findInPage      "Sök i sidan">
 <!ENTITY pageactions.search.addNew   "Lägg till sökmotor">
 <!ENTITY pageactions.charEncoding    "Teckenkodning">
-<!ENTITY pageactions.webapps.install "Installera som app">
 
 <!ENTITY appMenu.siteOptions         "Platsalternativ">

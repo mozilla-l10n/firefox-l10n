@@ -103,6 +103,9 @@
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "Visa ram runt länkad bild">
 <!ENTITY showImageLinkBorder.accessKey "u">
+<!ENTITY LinkAdvancedEditButton.label "Länkegenskaper…">
+<!ENTITY LinkAdvancedEditButton.accessKey "L">
+<!ENTITY LinkAdvancedEditButton.tooltip "Lägg till eller modifiera HTML-attribut, stilattribut och JavaScript">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "Formulär">

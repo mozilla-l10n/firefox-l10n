@@ -112,6 +112,8 @@
 <!ENTITY viewMenu.accesskey                             "s">
 <!ENTITY viewToolbarsMenu.label                         "Verktygsfält"> 
 <!ENTITY viewToolbarsMenu.accesskey                     "V"> 
+<!ENTITY menubarCmd.label                               "Menyfält">
+<!ENTITY menubarCmd.accesskey                           "M">
 <!ENTITY showAbToolbarCmd.label                         "Adressbokens verktygsfält"> 
 <!ENTITY showAbToolbarCmd.accesskey                     "v">  
 <!ENTITY showTaskbarCmd.label                           "Statusfältet">  
