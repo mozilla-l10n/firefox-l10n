@@ -20,6 +20,7 @@
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Omogućeni priključci">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Build konfiguracija">
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
+<!ENTITY aboutSupport.appBasicsCrashIDs "Izvještaji rušenja">
 
 <!ENTITY aboutSupport.show.label "Otvori direktorij sadržaja">
 
