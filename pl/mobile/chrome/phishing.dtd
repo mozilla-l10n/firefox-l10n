@@ -1,4 +1,4 @@
-<!ENTITY safeb.palm.warning.title "Prawdopodobne oszustwo">
+<!ENTITY safeb.palm.warning.title "Podejrzenie o oszustwo">
 
 <!ENTITY safeb.palm.message.p1 "Ta strona została zgłoszona jako przypadek oszustwa, mający na celu wyłudzenie od użytkownika danych osobistych lub finansowych. Wprowadzanie jakichkolwiek danych na tej stronie może skutkować kradzieżą tożsamości lub inną malwersacją. &#160;">
 <!ENTITY safeb.palm.message.p1.linkText "Dowiedz się więcej &#187;">
@@ -22,5 +22,4 @@
 
 <!ENTITY safeb.blocked.phishingPage.title2 "Podejrzenie o oszustwo!">
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Wprowadzanie na tej stronie informacji osobistych może być niebezpieczne. Istnieje ryzyko kradzieży tożsamości lub innych oszustw.">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Oszystwa wyłudzenia, zwane atakami phishingowymi, polegają na wykorzystaniu stron i wiadomości email podszywających się pod organizacje, którym ufasz.</p>">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Oszustwa wyłudzenia, zwane atakami phishingowymi, polegają na wykorzystaniu stron i wiadomości email podszywających się pod organizacje, którym ufasz.</p>">
