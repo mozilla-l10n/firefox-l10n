@@ -150,6 +150,8 @@
 <!ENTITY inspectMenu.label "Инспектор">
 <!ENTITY inspectMenu.accesskey "н">
 <!ENTITY inspectMenu.commandkey "I">
+<!ENTITY inspectContextMenu.label "Исследовать элемент">
+<!ENTITY inspectContextMenu.accesskey "л">
 <!ENTITY scratchpad.label "Простой редактор JavaScript">
 <!ENTITY scratchpad.accesskey "р">
 <!ENTITY scratchpad.keycode "VK_F4">
@@ -378,7 +380,7 @@
 <!ENTITY pageStyleNoStyle.accesskey "е">
 <!ENTITY pageStylePersistentOnly.label "Основной стиль страницы">
 <!ENTITY pageStylePersistentOnly.accesskey "О">
-<!ENTITY pageReportIcon.tooltip "Изменить параметры блокировки всплывающих окон для этого сайта">
+<!ENTITY pageReportIcon.tooltip "Изменить параметры блокировки всплывающих окон для этого веб-сайта">
 <!ENTITY allowPopups.accesskey "Р">
 <!ENTITY editPopupSettingsUnix.label "Изменить настройки блокировки всплывающих окон…">
 <!ENTITY editPopupSettings.label "Изменить настройки блокировки всплывающих окон…">

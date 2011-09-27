@@ -83,6 +83,9 @@
 <!ENTITY borderEditField.accessKey "п">
 <!ENTITY showImageLinkBorder.label "Показывать границу вокруг изображения, содержащего ссылку">
 <!ENTITY showImageLinkBorder.accessKey "г">
+<!ENTITY LinkAdvancedEditButton.label "Редактор свойств ссылки…">
+<!ENTITY LinkAdvancedEditButton.accessKey "д">
+<!ENTITY LinkAdvancedEditButton.tooltip "Добавление или изменение HTML-атрибутов, атрибутов стилей и JavaScript">
 <!ENTITY imageInputTab.label "Форма">
 <!ENTITY imageLocationTab.label "Адрес">
 <!ENTITY imageDimensionsTab.label "Размеры">

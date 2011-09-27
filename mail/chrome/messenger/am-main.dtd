@@ -9,6 +9,7 @@
 <!ENTITY email.accesskey "А">
 <!ENTITY replyTo.label "Адрес для ответа:">
 <!ENTITY replyTo.accesskey "д">
+<!ENTITY replyTo.placeholder "Получатели будут отвечать по этому адресу">
 <!ENTITY organization.label "Организация:">
 <!ENTITY organization.accesskey "О">
 <!ENTITY signatureText.label "Текст подписи:">

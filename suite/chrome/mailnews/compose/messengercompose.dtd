@@ -5,10 +5,7 @@
 <!ENTITY subject.accesskey "Т">
 <!ENTITY attachments.label "Вложения:">
 <!ENTITY attachments.accesskey "В">
-<!ENTITY newMessage.label "Сообщение">
-<!ENTITY newMessage.accesskey "б">
 <!ENTITY saveCmd.label "Сохранить">
-<!ENTITY saveCmd.key "S">
 <!ENTITY saveCmd.accesskey "о">
 <!ENTITY saveAsCmd.label "Сохранить как">
 <!ENTITY saveAsCmd.accesskey "к">
@@ -32,11 +29,6 @@
 <!ENTITY sendLaterCmd.label "Отправить позже">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "з">
-<!ENTITY printSetupCmd.label "Параметры страницы…">
-<!ENTITY printSetupCmd.accesskey "а">
-<!ENTITY printCmd.label "Печать…">
-<!ENTITY printCmd.key "P">
-<!ENTITY printCmd.accesskey "П">
 <!ENTITY editRewrapCmd.label "Переформатировать">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "е">
@@ -57,7 +49,6 @@
 <!ENTITY selectAddressCmd.key "">
 <!ENTITY selectAddressCmd.accesskey "в">
 <!ENTITY checkSpellingCmd2.label "Проверить орфографию…">
-<!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY checkSpellingCmd2.accesskey "в">
 <!ENTITY enableInlineSpellChecker.label "Проверка орфографии при наборе текста">
 <!ENTITY enableInlineSpellChecker.accesskey "о">
@@ -107,8 +98,6 @@
 <!ENTITY spellCheckIgnoreWord.accesskey "П">
 <!ENTITY spellCheckAddToDictionary.label "Добавить в словарь">
 <!ENTITY spellCheckAddToDictionary.accesskey "с">
-<!ENTITY pasteQuote.label "Вставить как цитату">
-<!ENTITY pasteQuote.accesskey "ц">
 <!ENTITY openAttachment.label "Открыть">
 <!ENTITY openAttachment.accesskey "т">
 <!ENTITY renameAttachment.label "Переименовать…">
