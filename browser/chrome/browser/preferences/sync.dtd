@@ -14,7 +14,7 @@
 <!ENTITY manageAccount.accesskey      "a">
 <!ENTITY viewQuota.label              "Toan kwota">
 <!ENTITY changePassword2.label         "Wachtwurd wizigje…">
-<!ENTITY mySyncKey.label              "Myn Sync-kaai">
+<!ENTITY myRecoveryKey.label          "Myn werstelkaai">
 <!ENTITY resetSync2.label              "Sync op 'e nij ynstelle…">
 
 <!ENTITY addDevice.label              "In apparaat tafoegje">

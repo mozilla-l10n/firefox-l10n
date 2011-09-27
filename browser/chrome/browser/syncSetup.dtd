@@ -19,8 +19,8 @@
 <!ENTITY signIn.account2.accesskey   "A">
 <!ENTITY signIn.password.label      "Wachtwurd">
 <!ENTITY signIn.password.accesskey  "W">
-<!ENTITY signIn.syncKey.label       "Sync-kaai">
-<!ENTITY signIn.syncKey.accesskey   "k">
+<!ENTITY signIn.recoveryKey.label       "Werstelkaai">
+<!ENTITY signIn.recoveryKey.accesskey   "k">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Accountdetails">
@@ -41,12 +41,12 @@
 <!ENTITY setup.tosAgree2.accesskey  "">
 
 <!-- New Account Page 2: Passphrase Entry -->
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; beskermt jo privacy">
-<!ENTITY setup.newSyncKeyPage.description.label "Om jo privacy te fersekerjen, wurde al jo gegevens fersifere eardat se opladen wurde. De Sync-kaai dy't nedich is om jo gegvens te ûntsiferjen wurdt net opladen.">
-<!ENTITY syncKeyEntry.label        "Jo Sync-kaai">
-<!ENTITY syncKeyEntry.accesskey    "k">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; tinkt om jo privacy">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Om jo totale privacy te fersekerjen, wurde al jo gegevens fersifere eardat se opladen wurde. De werstelkaai dy't nedich is om jo gegvens te ûntsiferjen wurdt net opladen.">
+<!ENTITY recoveryKeyEntry.label        "Jo werstelkaai">
+<!ENTITY recoveryKeyEntry.accesskey    "k">
 <!ENTITY syncGenerateNewKey.label  "In nije kaai oanmeitsje">
-<!ENTITY syncKeyBackup.description "Jo Sync-kaai is nedich om mei &syncBrand.fullName.label; tagong te krijen op oare masines. Meitsje asjobleaft in reservekopy. Wy kinne jo net helpe om jo Sync-kaai werom te heljen.">
+<!ENTITY recoveryKeyBackup.description "Jo werstelkaai is nedich om mei &syncBrand.fullName.label; tagong te krijen op oare masines. Meitsje asjobleaft in reservekopy. Wy kinne jo net helpe om jo werstelkaai werom te heljen.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Ofdrukke…">
 <!ENTITY button.syncKeyBackup.print.accesskey "O">
@@ -65,12 +65,12 @@
 <!ENTITY addDevice.dialog.enterCode.label   "Typ de koade dy't it apparaat jout:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Probearje op 'e nij.">
 <!ENTITY addDevice.dialog.successful.label  "It apparaat is suksesfol tafoege. De earste syngronisaasje kin inkele minuten duorje en sil op de achtergrûn slute.">
-<!ENTITY addDevice.dialog.syncKey.label     "Om jo apparaat te aktivearjen moatte jo jo Sync-kaai opjaan. Meitsje in ôfdruk of bewarje dizze kaai en nim it mei jo mei.">
+<!ENTITY addDevice.dialog.recoveryKey.label "Om jo apparaat te aktivearjen moatte jo jo werstelkaai opjaan. Meitsje in ôfdruk of bewarje dizze kaai en nim it mei jo mei.">
 <!ENTITY addDevice.dialog.connected.label   "Apparaat ferbûn">
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Ynlogge">
-<!ENTITY existingSyncKey.description  "Jo kinne in kopy fan jo Sync-kaai krije by &syncBrand.shortName.label; Opsjes op jo oare apparaat, en &#x0022;Myn Sync-kaai&#x0022; ûnder &#x0022;Behear account&#x0022;.">
+<!ENTITY existingRecoveryKey.description  "Jo kinne in kopy fan jo werstelkaai krije by &syncBrand.shortName.label; Opsjes op jo oare apparaat, en &#x0022;Myn werstelkaai&#x0022; ûnder &#x0022;Behear account&#x0022;.">
 <!ENTITY verifying.label              "Ferifiearje…">
 <!ENTITY resetPassword.label          "Wachtwurd op 'e nij ynstelle">
 <!ENTITY resetSyncKey.label           "Ik haw myn oare apparaat ferlern.">
@@ -80,7 +80,7 @@
 <!ENTITY syncComputerName.label       "Kompjûternamme:">
 <!ENTITY syncComputerName.accesskey   "k">
 
-<!ENTITY syncMy.label               "Sync myn">
+<!ENTITY syncMy.label               "Syngronisearje:">
 <!ENTITY engine.bookmarks.label     "Blêdwizers">
 <!ENTITY engine.bookmarks.accesskey "B">
 <!ENTITY engine.tabs.label          "Ljepblêden">
