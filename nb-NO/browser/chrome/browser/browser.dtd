@@ -350,9 +350,9 @@ can reach it easily. -->
 <!ENTITY viewPageSourceCmd.accesskey  "k">
 <!ENTITY viewFrameSourceCmd.label     "Vis kildekode for rammen">
 <!ENTITY viewFrameSourceCmd.accesskey "k">
-<!ENTITY viewPageInfoCmd.label        "Vis informasjon om siden">
+<!ENTITY viewPageInfoCmd.label        "Vis sideinfo">
 <!ENTITY viewPageInfoCmd.accesskey    "V">
-<!ENTITY viewFrameInfoCmd.label       "Vis informasjon om rammen">
+<!ENTITY viewFrameInfoCmd.label       "Vis rammeinfo">
 <!ENTITY viewFrameInfoCmd.accesskey   "V">
 <!ENTITY reloadImageCmd.label         "Oppdater bilde">
 <!ENTITY reloadImageCmd.accesskey     "l">
