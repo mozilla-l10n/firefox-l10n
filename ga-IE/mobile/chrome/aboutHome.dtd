@@ -9,3 +9,13 @@
 <!ENTITY aboutHome.noTabs "Níl aon chluaisíní ann ón uair roimhe seo">
 <!ENTITY aboutHome.noAddons "Gan breiseáin mholta">
 <!ENTITY aboutHome.getLocale "Athraigh an Teanga">
+<!ENTITY aboutHome.getInBeforeBeta "Bí linn roimh Bhéite.">
+<!ENTITY aboutHome.tryAurora "Bain triail as Firefox Aurora agus téigh i bhfeidhm ar thodhchaí Firefox.">
+<!-- LOCALIZATION NOTE:
+     (aboutHome.downloadAurora): First line of a multi-line button. Treat as a title.
+-->
+<!ENTITY aboutHome.downloadAurora "Íosluchtaigh Aurora">
+<!-- LOCALIZATION NOTE:
+     (aboutHome.forAndroid): Second line of a multi-line button. Treat as a subtitle.
+-->
+<!ENTITY aboutHome.forAndroid "le haghaidh Android">

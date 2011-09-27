@@ -3,7 +3,6 @@
 <!ENTITY sync.connect "Ceangail">
 <!ENTITY sync.connected "Ceangailte">
 <!ENTITY sync.details "Mionsonraí">
-<!ENTITY sync.synchronize "Cumasaigh Sync">
 <!ENTITY sync.deviceName "An gléas seo">
 <!ENTITY sync.disconnect "Dícheangail">
 <!ENTITY sync.syncNow "Sioncrónaigh Anois">
@@ -14,7 +13,7 @@
 <!ENTITY sync.setup.manual "Cuir faisnéis do chuntais Sync isteach">
 <!ENTITY sync.account "Ainm an Chuntais">
 <!ENTITY sync.password "Focal Faire">
-<!ENTITY sync.syncKey "Eochair Sync">
+<!ENTITY sync.recoveryKey "Eochair Athshlánaithe">
 <!ENTITY sync.customServer "Úsáid freastalaí saincheaptha">
 <!ENTITY sync.serverURL "URL an fhreastalaí">
 <!ENTITY sync.setup.connect "Ceangail">
