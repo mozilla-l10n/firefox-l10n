@@ -9,3 +9,13 @@
 <!ENTITY aboutHome.noTabs                       "Inga flikar från sist">
 <!ENTITY aboutHome.noAddons                     "Inga rekommenderade tillägg">
 <!ENTITY aboutHome.getLocale                    "Byt språk">
+<!ENTITY aboutHome.getInBeforeBeta              "Prova före betan.">
+<!ENTITY aboutHome.tryAurora                    "Prova Firefox Aurora och hjälp till att skapa framtidens Firefox.">
+<!-- LOCALIZATION NOTE:
+     (aboutHome.downloadAurora): First line of a multi-line button. Treat as a title.
+-->
+<!ENTITY aboutHome.downloadAurora		"Hämta Aurora">
+<!-- LOCALIZATION NOTE:
+     (aboutHome.forAndroid): Second line of a multi-line button. Treat as a subtitle.
+-->
+<!ENTITY aboutHome.forAndroid			"för Android">

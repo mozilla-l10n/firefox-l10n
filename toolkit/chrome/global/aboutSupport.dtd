@@ -21,6 +21,7 @@
 <!ENTITY aboutSupport.appBasicsBuildConfig "Byggkonfiguration">
 <!ENTITY aboutSupport.appBasicsUserAgent "Användaragent">
 <!ENTITY aboutSupport.appBasicsCrashIDs "Kraschrapporter">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Minnesanvändning">
 
 <!ENTITY aboutSupport.show.label "Öppna mapp">
 

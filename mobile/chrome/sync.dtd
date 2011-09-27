@@ -3,7 +3,6 @@
 <!ENTITY sync.connect               "Anslut">
 <!ENTITY sync.connected             "Ansluten">
 <!ENTITY sync.details               "Detaljer">
-<!ENTITY sync.synchronize           "Aktivera Sync">
 <!ENTITY sync.deviceName            "Den här enheten">
 <!ENTITY sync.disconnect            "Koppla ned">
 <!ENTITY sync.syncNow               "Synka nu">
@@ -14,7 +13,7 @@
 <!ENTITY sync.setup.manual          "Ange dina Sync-kontouppgifter">
 <!ENTITY sync.account               "Kontonamn">
 <!ENTITY sync.password              "Lösenord">
-<!ENTITY sync.syncKey               "Sync-nyckel">
+<!ENTITY sync.recoveryKey           "Återställningsnyckel">
 <!ENTITY sync.customServer          "Använd en egen server">
 <!ENTITY sync.serverURL             "Server-URL">
 <!ENTITY sync.setup.connect         "Anslut">
