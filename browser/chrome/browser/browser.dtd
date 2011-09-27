@@ -193,6 +193,9 @@ can reach it easily. -->
 <!ENTITY inspectMenu.label "Scrúdaigh">
 <!ENTITY inspectMenu.accesskey "S">
 <!ENTITY inspectMenu.commandkey "I">
+
+<!ENTITY inspectContextMenu.label "Scrúdaigh Eilimint">
+<!ENTITY inspectContextMenu.accesskey "Q">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -493,7 +496,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Stíl Leathanaigh Bhunúsach">
 <!ENTITY pageStylePersistentOnly.accesskey "B">
 
-<!ENTITY pageReportIcon.tooltip "Athraigh socruithe blocála preabtha don suíomh Gréasáin seo">
+<!ENTITY pageReportIcon.tooltip "Athraigh socruithe do phreabfhuinneoga ón suíomh Gréasáin seo">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but

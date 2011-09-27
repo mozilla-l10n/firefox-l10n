@@ -19,8 +19,8 @@
 <!ENTITY signIn.account2.accesskey "C">
 <!ENTITY signIn.password.label "Focal Faire">
 <!ENTITY signIn.password.accesskey "F">
-<!ENTITY signIn.syncKey.label "Eochair Sync">
-<!ENTITY signIn.syncKey.accesskey "E">
+<!ENTITY signIn.recoveryKey.label "Eochair Athshlánaithe">
+<!ENTITY signIn.recoveryKey.accesskey "E">
 <!-- New Account Page 1: Basic Account Info -->
 
 <!ENTITY setup.newAccountDetailsPage.title.label "Mionsonraí an Chuntais">
@@ -41,12 +41,12 @@
 <!ENTITY setup.tosAgree2.accesskey "">
 <!-- New Account Page 2: Sync Key -->
 
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName;: Tá do phríobháideacht tábhachtach dúinn">
-<!ENTITY setup.newSyncKeyPage.description.label "Le do phríobháideacht a chinntiú, uasluchtófar do chuid sonraí i bhfoirm chriptithe. Ní uasluchtófar an eochair Sync a úsáidtear chun do sonraí a dhíchriptiú.">
-<!ENTITY syncKeyEntry.label "D'Eochair Sync">
-<!ENTITY syncKeyEntry.accesskey "c">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName;: Tá do phríobháideacht tábhachtach dúinn">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Le do phríobháideacht a chinntiú go hiomlán, uasluchtófar do chuid sonraí i bhfoirm chriptithe. Ní uasluchtófar an Eochair Athshlánaithe a úsáidtear chun do chuid sonraí a dhíchriptiú.">
+<!ENTITY recoveryKeyEntry.label "D'Eochair Athshlánaithe">
+<!ENTITY recoveryKeyEntry.accesskey "E">
 <!ENTITY syncGenerateNewKey.label "Gin eochair nua">
-<!ENTITY syncKeyBackup.description "Teastaíonn uait an Eochair Sync chun &syncBrand.fullName.label; a rochtain ó ríomhairí eile.  Déan cúltaca di - ní bheimid in ann d'Eochair Sync a fháil ar ais má chailleann tú í.">
+<!ENTITY recoveryKeyBackup.description "Teastaíonn uait d'Eochair Athshlánaithe chun &syncBrand.fullName.label; a rochtain ó ríomhairí eile.  Déan cúltaca di - ní bheimid in ann d'Eochair Athshlánaithe a fháil ar ais má chailleann tú í.">
 
 <!ENTITY button.syncKeyBackup.print.label "Priontáil…">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
@@ -65,12 +65,12 @@
 <!ENTITY addDevice.dialog.enterCode.label "Cuir isteach an cód a thug an gléas duit:">
 <!ENTITY addDevice.dialog.tryAgain.label "Bain triail as arís.">
 <!ENTITY addDevice.dialog.successful.label "D'éirigh le cur leis an ghléis. D'fhéadfadh an chéadshioncronú leanúint ar feadh cúpla nóiméad agus críochnóidh sé sa chúlra.">
-<!ENTITY addDevice.dialog.syncKey.label "Chun do ghléas a ghníomhachtú, caithfidh tú d'Eochair Sync a chur isteach. Priontáil nó sábháil an eochair seo agus beir leat é.">
+<!ENTITY addDevice.dialog.recoveryKey.label "Chun do ghléas a ghníomhachtú, caithfidh tú d'Eochair Athshlánaithe a chur isteach. Priontáil nó sábháil an eochair seo agus beir leat é.">
 <!ENTITY addDevice.dialog.connected.label "Gléas Ceangailte">
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "Sínigh Isteach">
-<!ENTITY existingSyncKey.description "Is féidir leat cóip de d'Eochair Shioncronaithe a fháil trí dul go dtí &syncBrand.shortName.label; Roghanna ar do ghléas eile, agus &#x0022;M'Eochair Shioncronaithe&#x0022; a roghnú faoi &#x0022;Bainistiú Cuntais&#x0022;.">
+<!ENTITY existingRecoveryKey.description "Is féidir leat cóip de d'Eochair Athshlánaithe a fháil trí dul go dtí &syncBrand.shortName.label; Roghanna ar do ghléas eile, agus &#x0022;M'Eochair Athshlánaithe&#x0022; a roghnú faoi &#x0022;Bainistiú Cuntais&#x0022;.">
 <!ENTITY verifying.label "Á Dheimhniú…">
 <!ENTITY resetPassword.label "Athshocraigh Focal Faire">
 <!ENTITY resetSyncKey.label "Chaill mé mo ghléas eile.">

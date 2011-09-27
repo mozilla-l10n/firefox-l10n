@@ -8,7 +8,7 @@
 <!ENTITY useCursorNavigation.accesskey "e">
 <!ENTITY searchStartTyping.label "Cuardaigh téacs nuair a thosóidh mé ag clóscríobh">
 <!ENTITY searchStartTyping.accesskey "t">
-<!ENTITY blockAutoRefresh.label "Tabhair rabhadh dom nuair a dhéanann suímh Ghréasáin iarracht leathanach a athluchtú nó a atreorú.">
+<!ENTITY blockAutoRefresh.label "Tabhair rabhadh dom nuair a dhéanann suímh Ghréasáin iarracht leathanach a athluchtú nó a atreorú">
 <!ENTITY blockAutoRefresh.accesskey "b">
 
 <!ENTITY browsing.label "Brabhsáil">

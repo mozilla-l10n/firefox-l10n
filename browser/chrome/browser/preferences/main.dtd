@@ -13,8 +13,8 @@
 <!ENTITY useCurrentPage.label "Úsáid an Leathanach Reatha">
 <!ENTITY useCurrentPage.accesskey "R">
 <!ENTITY useMultiple.label "Úsáid na Leathanaigh Reatha">
-<!ENTITY useBookmark.label "Úsáid Leabharmharc">
-<!ENTITY useBookmark.accesskey "b">
+<!ENTITY chooseBookmark.label "Úsáid Leabharmharc…">
+<!ENTITY chooseBookmark.accesskey "b">
 <!ENTITY restoreDefault.label "Cuir na réamhshocruithe ar ais">
 <!ENTITY restoreDefault.accesskey "r">
 
