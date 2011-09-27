@@ -654,7 +654,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      textcontext.dtd from toolkit. Right now, both menu items can't be visible
      at the same time, but should someone enable copy/paste of message, this key
      would probably need to be changed. -->
-<!ENTITY contextOpenNewTab.label "Ireki mezu fitxa berrian">
+<!ENTITY contextOpenNewTab.label "Ireki mezua fitxa berrian">
 <!ENTITY contextOpenNewTab.accesskey "t">
 <!ENTITY contextOpenConversation.label "Ireki mezua hizketaldian">
 <!ENTITY contextOpenConversation.accesskey "k">
