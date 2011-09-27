@@ -4,3 +4,4 @@
 <!ENTITY webapps.perm.offline "Offline úložiště dat">
 <!ENTITY webapps.perm.notifications "Desktopové notifikace">
 <!ENTITY webapps.perm.requestedHint "(vyžadováno)">
+<!ENTITY webapps.add-homescreen "Přidat na startovní stránku">
