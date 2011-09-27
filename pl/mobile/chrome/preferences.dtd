@@ -5,10 +5,10 @@
 <!ENTITY reflowZoom.title                          "Formatuj powiększony tekst">
 <!ENTITY showImages.title                          "Wyświetlaj obrazki">
 <!ENTITY enableJavaScript.title                    "Włącz JavaScript">
-<!ENTITY enablePlugins.title                       "Włącz wtyczki">
 <!ENTITY privacy.title                             "Prywatność i bezpieczeństwo">
 <!ENTITY allowCookies.title                        "Akceptuj ciasteczka">
 <!ENTITY doNotTrack.title                          "Informuj witryny, że nie chcę być śledzony">
+<!ENTITY masterPassword.title                      "Używaj hasła głównego">
 <!ENTITY clearPrivateData2.title                   "Wyczyść dane prywatne">
 <!ENTITY clearPrivateData.button                   "Wyczyść">
 <!ENTITY rememberPasswords.title                   "Pamiętaj hasła">
@@ -20,4 +20,4 @@
 <!ENTITY homepage.none                             "Pusta strona">
 <!ENTITY homepage.default                          "&brandShortName; Start">
 <!ENTITY homepage.currentpage                      "Użyj aktualnej strony">
-<!ENTITY showCharset.title                         "Pokazuj kodowanie znaków">
+<!ENTITY showCharsetEncoding.title                         "Pokazuj kodowanie znaków">
