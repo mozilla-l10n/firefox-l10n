@@ -73,8 +73,11 @@
 <!ENTITY phishingBlocked.longDesc "<p>Tajpado de persona informo en tiu ĉi paĝo povas okazigi ŝtelon de identeco aŭ aliajn trompojn.</p> 
 <p>Tiuj tipo de retfalsaĵoj estas uzataj en trompoj konataj kiel &quot;phishing&quot;-aj atakoj, kie malhonestaj retpaĝoj kaj retmesaĝoj estas uzataj por imit retpaĝojn aŭ organizojn je kiuj vi eble fidas.</p>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blokita de la sekureca politiko pri enahvo">
+<!ENTITY cspFrameAncestorBlocked.title "Blokita de la sekureca politiko pri enhavo">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>The browser prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+
+<!ENTITY corruptedContentError.title "Eraro pro difektita enhavo">
+<!ENTITY corruptedContentError.longDesc "<p>Ne eblas montri la paĝon kiun vi klopodis vidi ĉar erar estis detektita en la sendado de datumoj.</p><ul><li>Bonvolu kontakti la administratojn de la retejo por sciigi ilin pri tiu ĉi problemo.</li></ul>">
 
 <!ENTITY remoteXUL.title "Fora XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Bonvolu kontakti la posedantojn de la retejo por informi ilin pri tiu ĉi problemo.</li></ul></p>">
