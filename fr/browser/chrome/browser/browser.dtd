@@ -189,10 +189,12 @@ can reach it easily. -->
 <!ENTITY webConsoleCmd.accesskey      "W">
 <!ENTITY webConsoleCmd.commandkey     "k">
 
-<!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectMenu.label            "Examiner">
 <!ENTITY inspectMenu.accesskey        "E">
 <!ENTITY inspectMenu.commandkey       "I">
+
+<!ENTITY inspectContextMenu.label     "Inspect Element">
+<!ENTITY inspectContextMenu.accesskey "Q">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
@@ -209,6 +211,7 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
+<!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "Examiner">
 <!ENTITY inspectButton.accesskey      "E">
 
