@@ -7,6 +7,7 @@
 <!ENTITY go.label              "이동">
 <!ENTITY star.label            "북마크에 추가">
 
+<!ENTITY showTabs.label        "탭 보기">
 <!ENTITY newtab.label          "새 탭 열기">
 <!ENTITY closetab.label        "탭 닫기">
 
@@ -15,6 +16,7 @@
 <!ENTITY copyAll.label         "모두 복사">
 <!ENTITY copylink.label        "링크 주소 복사">
 <!ENTITY paste.label           "붙여넣기">
+<!ENTITY pasteAndGo.label      "복사 후 바로가기">
 <!ENTITY delete.label          "삭제">
 <!ENTITY selectAll.label       "모두 선택">
 <!ENTITY noSuggestions.label   "(추천 없음)">
@@ -68,6 +70,7 @@
 <!ENTITY bookmarkPopup.label       "문서 북마크">
 <!ENTITY bookmarkRemove.label      "제거">
 <!ENTITY bookmarkEdit.label        "편집">
+<!ENTITY bookmarkShortcut.label    "홈스크린 추가">
 
 <!ENTITY identity.unverifiedsite2 "이 웹 사이트는 신원 확인 정보를 제공하지 않습니다.">
 <!ENTITY identity.connectedTo2 "접속 사이트">
@@ -92,6 +95,7 @@
 
 <!ENTITY contextOpenInNewTab.label "새 탭에 링크 열기">
 <!ENTITY contextSaveImage.label    "그림 저장">
+<!ENTITY contextCopyLink.label        "링크 복사">
 <!ENTITY contextSaveLink.label        "링크 저장">
 <!ENTITY contextShareLink.label       "링크 공유">
 <!ENTITY contextShareImage.label      "그림 공유">
@@ -103,6 +107,7 @@
 <!ENTITY contextFullScreen.label      "전체 화면">
 <!ENTITY contextEditBookmark.label    "편집">
 <!ENTITY contextRemoveBookmark.label  "삭제">
+<!ENTITY contextShortcutBookmark.label "홈스크린 추가">
 
 <!ENTITY pageactions.saveas.pdf      "PDF로 저장">
 <!ENTITY pageactions.share.page      "페이지 공유">
@@ -112,5 +117,6 @@
 <!ENTITY pageactions.findInPage      "찾기">
 <!ENTITY pageactions.search.addNew   "검색 엔진 추가">
 <!ENTITY pageactions.charEncoding    "문자 인코딩">
+<!ENTITY pageactions.webapps.install "웹 앱 설치">
 
 <!ENTITY appMenu.siteOptions         "사이트 설정">
