@@ -190,9 +190,12 @@ can reach it easily. -->
 <!ENTITY webConsoleCmd.accesskey      "W">
 <!ENTITY webConsoleCmd.commandkey     "k">
 
-<!ENTITY inspectMenu.label            "Ynspeksje">
+<!ENTITY inspectMenu.label            "Ynspektearje">
 <!ENTITY inspectMenu.accesskey        "Y">
 <!ENTITY inspectMenu.commandkey       "Y">
+
+<!ENTITY inspectContextMenu.label     "Elemint ynspektearje">
+<!ENTITY inspectContextMenu.accesskey "E">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
@@ -320,6 +323,7 @@ can reach it easily. -->
 
  -->
 <!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
 <!ENTITY tabView.commandkey           "e">
