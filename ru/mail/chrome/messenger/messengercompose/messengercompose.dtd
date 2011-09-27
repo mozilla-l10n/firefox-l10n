@@ -84,6 +84,8 @@
 <!ENTITY viewMenu.accesskey "В">
 <!ENTITY viewToolbarsMenuNew.label "Панели инструментов">
 <!ENTITY viewToolbarsMenuNew.accesskey "П">
+<!ENTITY menubarCmd.label "Панель меню">
+<!ENTITY menubarCmd.accesskey "е">
 <!ENTITY showCompositionToolbarCmd.label "Панель компоновки">
 <!ENTITY showCompositionToolbarCmd.accesskey "е">
 <!ENTITY showFormattingBarCmd.label "Панель форматирования">

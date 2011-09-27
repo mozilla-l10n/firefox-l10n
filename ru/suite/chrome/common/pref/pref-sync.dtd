@@ -13,8 +13,8 @@
 <!ENTITY viewQuota.accesskey "м">
 <!ENTITY changePassword.label "Сменить пароль">
 <!ENTITY changePassword.accesskey "е">
-<!ENTITY mySyncKey.label "Мой ключ Sync">
-<!ENTITY mySyncKey.accesskey "й">
+<!ENTITY myRecoveryKey.label "Мой ключ восстановления">
+<!ENTITY myRecoveryKey.accesskey "й">
 <!ENTITY resetSync.label "Перенастроить Sync">
 <!ENTITY resetSync.accesskey "н">
 <!ENTITY deactivateDevice.label "Деактивировать это устройство">

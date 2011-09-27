@@ -1,38 +1,38 @@
 <!--null-->
-<!ENTITY toField2.label "кому ">
-<!ENTITY fromField2.label "от ">
-<!ENTITY senderField2.label "отправитель ">
-<!ENTITY organizationField2.label "организация ">
-<!ENTITY replyToField2.label "обратный адрес ">
-<!ENTITY subjectField2.label "тема ">
-<!ENTITY ccField2.label "копия ">
-<!ENTITY bccField2.label "скрытая копия ">
-<!ENTITY newsgroupsField2.label "группы новостей ">
-<!ENTITY followupToField2.label "ответ в группу новостей ">
-<!ENTITY tagsHdr2.label "метки ">
-<!ENTITY dateField2.label "дата ">
-<!ENTITY userAgentField2.label "программа ">
-<!ENTITY referencesField2.label "ссылки ">
-<!ENTITY messageIdField2.label "идентификатор ">
-<!ENTITY inReplyToField2.label "в ответ на ">
-<!ENTITY originalWebsite2.label "веб-сайт ">
+<!ENTITY toField3.label "Кому ">
+<!ENTITY fromField3.label "От ">
+<!ENTITY senderField3.label "Отправитель ">
+<!ENTITY organizationField3.label "Организация ">
+<!ENTITY replyToField3.label "Обратный адрес ">
+<!ENTITY subjectField3.label "Тема ">
+<!ENTITY ccField3.label "Копия ">
+<!ENTITY bccField3.label "Скрытая копия ">
+<!ENTITY newsgroupsField3.label "Группы новостей ">
+<!ENTITY followupToField3.label "Ответ в группу новостей ">
+<!ENTITY tagsHdr3.label "Метки ">
+<!ENTITY dateField3.label "Дата ">
+<!ENTITY userAgentField3.label "Программа ">
+<!ENTITY referencesField3.label "Ссылки ">
+<!ENTITY messageIdField3.label "Идентификатор ">
+<!ENTITY inReplyToField3.label "В ответ на ">
+<!ENTITY originalWebsite3.label "Веб-сайт ">
 <!ENTITY editMessageDescription.label "Это черновик">
 <!ENTITY editMessageButton.label "Изменить…">
-<!ENTITY hdrArchiveButton.label "архивировать">
-<!ENTITY hdrArchiveButton.tooltip "архивировать это сообщение">
-<!ENTITY hdrSmartReplyButton.label "умный ответ">
-<!ENTITY hdrReplyButton.label "ответить">
-<!ENTITY hdrReplyButton.tooltip "ответить на это сообщение">
-<!ENTITY hdrReplyAllButton.label "ответить всем">
-<!ENTITY hdrReplyAllButton.tooltip "ответить отправителю и всем получателям">
-<!ENTITY hdrReplyListButton.label "ответить в рассылку">
-<!ENTITY hdrReplyListButton.tooltip "ответить в список рассылки">
-<!ENTITY hdrForwardButton.label "переслать">
-<!ENTITY hdrForwardButton.tooltip "переслать это сообщение">
-<!ENTITY hdrJunkButton.label "спам">
-<!ENTITY hdrJunkButton.tooltip "отметить это сообщение как спам">
-<!ENTITY hdrTrashButton.label "удалить">
-<!ENTITY hdrTrashButton.tooltip "удалить это сообщение">
+<!ENTITY hdrArchiveButton1.label "Архивировать">
+<!ENTITY hdrArchiveButton1.tooltip "Архивировать это сообщение">
+<!ENTITY hdrSmartReplyButton1.label "Умный ответ">
+<!ENTITY hdrReplyButton1.label "Ответить">
+<!ENTITY hdrReplyButton1.tooltip "Ответить на это сообщение">
+<!ENTITY hdrReplyAllButton1.label "Ответить всем">
+<!ENTITY hdrReplyAllButton1.tooltip "Ответить отправителю и всем получателям">
+<!ENTITY hdrReplyListButton1.label "Ответить в рассылку">
+<!ENTITY hdrReplyListButton1.tooltip "Ответить в список рассылки">
+<!ENTITY hdrForwardButton1.label "Переслать">
+<!ENTITY hdrForwardButton1.tooltip "Переслать это сообщение">
+<!ENTITY hdrJunkButton1.label "Спам">
+<!ENTITY hdrJunkButton1.tooltip "Отметить это сообщение как спам">
+<!ENTITY hdrTrashButton1.label "Удалить">
+<!ENTITY hdrTrashButton1.tooltip "Удалить это сообщение">
 <!ENTITY hdrViewToolbarShowFull.label "Показывать значки и текст">
 <!ENTITY hdrViewToolbarShowFull.accesskey "и">
 <!ENTITY hdrViewToolbarShowIcons.label "Показывать только значки">
@@ -41,27 +41,27 @@
 <!ENTITY hdrViewToolbarShowText.accesskey "т">
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Всегда показывать ответ отправителю">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "т">
-<!ENTITY otherActionsButton.label "другие действия">
-<!ENTITY otherActionsOpenConversation.label "открыть в разговоре">
-<!ENTITY otherActionsOpenConversation.accesskey "р">
-<!ENTITY otherActionsOpenInNewWindow.label "открыть в новом окне">
-<!ENTITY otherActionsOpenInNewWindow.accesskey "н">
-<!ENTITY otherActionsOpenInNewTab.label "открыть в новой вкладке">
-<!ENTITY otherActionsOpenInNewTab.accesskey "к">
-<!ENTITY markAsReadMenuItem.label "отметить как прочитанное">
-<!ENTITY markAsReadMenuItem.accesskey "ч">
-<!ENTITY markAsUnreadMenuItem.label "отметить как непрочитанное">
-<!ENTITY markAsUnreadMenuItem.accesskey "ч">
-<!ENTITY saveAsMenuItem.label "сохранить как…">
-<!ENTITY saveAsMenuItem.accesskey "х">
-<!ENTITY viewSourceMenuItem.label "показать исходник">
-<!ENTITY viewSourceMenuItem.accesskey "д">
-<!ENTITY otherActionsPrint.label "распечатать…">
-<!ENTITY otherActionsPrint.accesskey "п">
+<!ENTITY otherActionsButton1.label "Другие действия">
+<!ENTITY otherActionsOpenConversation1.label "Открыть в разговоре">
+<!ENTITY otherActionsOpenConversation1.accesskey "р">
+<!ENTITY otherActionsOpenInNewWindow1.label "Открыть в новом окне">
+<!ENTITY otherActionsOpenInNewWindow1.accesskey "н">
+<!ENTITY otherActionsOpenInNewTab1.label "Открыть в новой вкладке">
+<!ENTITY otherActionsOpenInNewTab1.accesskey "к">
+<!ENTITY markAsReadMenuItem1.label "Отметить как прочитанное">
+<!ENTITY markAsReadMenuItem1.accesskey "ч">
+<!ENTITY markAsUnreadMenuItem1.label "Отметить как непрочитанное">
+<!ENTITY markAsUnreadMenuItem1.accesskey "ч">
+<!ENTITY saveAsMenuItem1.label "Сохранить как…">
+<!ENTITY saveAsMenuItem1.accesskey "х">
+<!ENTITY viewSourceMenuItem1.label "Показать исходник">
+<!ENTITY viewSourceMenuItem1.accesskey "д">
+<!ENTITY otherActionsPrint1.label "Распечатать…">
+<!ENTITY otherActionsPrint1.accesskey "п">
 <!ENTITY openAttachmentCmd.label "Открыть">
 <!ENTITY openAttachmentCmd.accesskey "О">
 <!ENTITY saveAsAttachmentCmd.label "Сохранить как…">
-<!ENTITY saveAsAttachmentCmd.accesskey "к">
+<!ENTITY saveAsAttachmentCmd.accesskey "х">
 <!ENTITY detachAttachmentCmd.label "Отделить…">
 <!ENTITY detachAttachmentCmd.accesskey "т">
 <!ENTITY deleteAttachmentCmd.label "Удалить">
@@ -73,27 +73,11 @@
 <!ENTITY detachAllAttachmentsCmd.label "Отделить все…">
 <!ENTITY detachAllAttachmentsCmd.accesskey "О">
 <!ENTITY deleteAllAttachmentsCmd.label "Удалить все…">
-<!ENTITY deleteAllAttachmentsCmd.accesskey "У">
-<!ENTITY saveAttachmentButton.label "сохранить">
-<!ENTITY saveAttachmentButton.tooltip "сохранить вложенный файл">
-<!ENTITY saveAllAttachmentsButton.label "сохранить все">
-<!ENTITY saveAllAttachmentsButton.tooltip "сохранить все вложенные файлы">
-<!ENTITY openAttachmentMenuItem.label "открыть">
-<!ENTITY openAttachmentMenuItem.accesskey "к">
-<!ENTITY saveAsAttachmentMenuItem.label "сохранить как…">
-<!ENTITY saveAsAttachmentMenuItem.accesskey "х">
-<!ENTITY detachAttachmentMenuItem.label "отделить…">
-<!ENTITY detachAttachmentMenuItem.accesskey "е">
-<!ENTITY deleteAttachmentMenuItem.label "удалить">
-<!ENTITY deleteAttachmentMenuItem.accesskey "д">
-<!ENTITY openAllAttachmentsMenuItem.label "открыть все…">
-<!ENTITY openAllAttachmentsMenuItem.accesskey "ы">
-<!ENTITY saveAllAttachmentsMenuItem.label "сохранить все…">
-<!ENTITY saveAllAttachmentsMenuItem.accesskey "х">
-<!ENTITY detachAllAttachmentsMenuItem.label "отделить все…">
-<!ENTITY detachAllAttachmentsMenuItem.accesskey "е">
-<!ENTITY deleteAllAttachmentsMenuItem.label "удалить все…">
-<!ENTITY deleteAllAttachmentsMenuItem.accesskey "д">
+<!ENTITY deleteAllAttachmentsCmd.accesskey "и">
+<!ENTITY saveAttachmentButton1.label "Сохранить">
+<!ENTITY saveAttachmentButton1.tooltip "Сохранить вложенный файл">
+<!ENTITY saveAllAttachmentsButton1.label "Сохранить все">
+<!ENTITY saveAllAttachmentsButton1.tooltip "Сохранить все вложенные файлы">
 <!ENTITY copyLinkCmd.label "Копировать ссылку">
 <!ENTITY copyLinkCmd.accesskey "ы">
 <!ENTITY CopyMessageId.label "Копировать идентификатор">

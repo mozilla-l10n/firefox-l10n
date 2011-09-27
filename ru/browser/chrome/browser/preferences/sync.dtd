@@ -7,7 +7,7 @@
 <!ENTITY manageAccount.accesskey "п">
 <!ENTITY viewQuota.label "Просмотреть квоту">
 <!ENTITY changePassword2.label "Сменить пароль…">
-<!ENTITY mySyncKey.label "Мой ключ синхронизации">
+<!ENTITY myRecoveryKey.label "Мой ключ восстановления">
 <!ENTITY resetSync2.label "Заменить или объединить данные Sync…">
 <!ENTITY addDevice.label "Добавить устройство">
 <!ENTITY syncMy.label "Синхронизировать мои">

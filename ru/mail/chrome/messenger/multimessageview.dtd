@@ -1,4 +1,4 @@
 <!ENTITY window.title "Информация о сообщении">
 <!ENTITY selectedmessages.label "Выбранные сообщения">
-<!ENTITY archive.label "архивировать">
-<!ENTITY delete.label "удалить">
+<!ENTITY archiveButton.label "Архивировать">
+<!ENTITY deleteButton.label "Удалить">

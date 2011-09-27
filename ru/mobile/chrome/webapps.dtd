@@ -4,3 +4,4 @@
 <!ENTITY webapps.perm.offline "Хранилищу автономных данных">
 <!ENTITY webapps.perm.notifications "Уведомлениям на десктопе">
 <!ENTITY webapps.perm.requestedHint "(запрошено)">
+<!ENTITY webapps.add-homescreen "Добавить на домашний экран">

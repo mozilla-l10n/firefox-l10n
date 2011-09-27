@@ -108,6 +108,8 @@
 <!ENTITY undoDefaultCmd.accesskey "О">
 <!ENTITY redoDefaultCmd.label "Повторить">
 <!ENTITY redoDefaultCmd.accesskey "П">
+<!ENTITY menubarCmd.label "Панель меню">
+<!ENTITY menubarCmd.accesskey "е">
 <!ENTITY showMessengerToolbarCmd.label "Панель инструментов почты">
 <!ENTITY showMessengerToolbarCmd.accesskey "П">
 <!ENTITY customizeToolbar.label "Настроить…">
@@ -240,6 +242,8 @@
 <!ENTITY pageSourceCmd.label "Исходный текст">
 <!ENTITY pageSourceCmd.accesskey "х">
 <!ENTITY pageSourceCmd.key "u">
+<!ENTITY getNewMessagesCmd.key "y">
+<!ENTITY getAllNewMessagesCmd.key "Y">
 <!ENTITY findMenu.label "Найти">
 <!ENTITY findMenu.accesskey "й">
 <!ENTITY findCmd.label "Найти в этом сообщении…">
@@ -455,12 +459,14 @@
 <!ENTITY previousButton.label "Предыдущее">
 <!ENTITY backButton1.label "Назад">
 <!ENTITY goForwardButton1.label "Вперёд">
+<!ENTITY deleteItem.title "Удалить">
 <!ENTITY deleteButton.label "Удалить">
 <!ENTITY undeleteButton.label "Восстановить">
 <!ENTITY markButton.label "Отметить">
 <!ENTITY printButton.label "Печать">
 <!ENTITY stopButton.label "Остановить">
 <!ENTITY throbberItem.title "Индикатор активности">
+<!ENTITY junkItem.title "Спам">
 <!ENTITY junkButton.label "Спам">
 <!ENTITY notJunkButton.label "Не спам">
 <!ENTITY addressBookButton.label "Адресная книга">
