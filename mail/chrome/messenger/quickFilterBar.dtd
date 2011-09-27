@@ -236,3 +236,5 @@
      -->
 <!ENTITY quickFilterBar.glodaUpsell.pressEnterAndCurrent
          "검색을 다시 하려면 'Enter'키를 누르세요: #1">
+
+<!ENTITY quickFilterBar.show.key2 "k">
