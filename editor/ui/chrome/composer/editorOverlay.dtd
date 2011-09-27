@@ -40,7 +40,6 @@
 <!ENTITY pasteAsQuotationCmd.accesskey "q">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "찾아서 바꾸기…">
-<!ENTITY findPrevCmd.label "이전 찾기">
 <!ENTITY enableInlineSpellChecker.label "입력시 맞춤법 검사">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY checkSpellingCmd2.label "맞춤법 검사">

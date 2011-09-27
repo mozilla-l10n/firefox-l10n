@@ -215,6 +215,9 @@
 <!ENTITY bodySanitized.accesskey "S">
 <!ENTITY bodyAsPlaintext.label "텍스트 형식">
 <!ENTITY bodyAsPlaintext.accesskey "P">
+<!ENTITY bodyAllParts.label "전체 본문 영역">
+<!ENTITY bodyAllParts.accesskey "A">
+
 
 <!ENTITY bodyMenuFeed.label "피드 본문 형식: ">
 <!ENTITY bodyMenuFeed.accesskey "B">

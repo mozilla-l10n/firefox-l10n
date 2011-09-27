@@ -30,6 +30,7 @@
 <!ENTITY hdrForwardButton.tooltip "이 메시지를 전달">
 <!ENTITY hdrJunkButton.label "스팸 표시">
 <!ENTITY hdrJunkButton.tooltip "이 메시지를 스팸으로 표시">
+<!ENTITY hdrSmartReplyButton.label "답장하기">
 <!ENTITY hdrTrashButton.label "삭제">
 <!ENTITY hdrTrashButton.tooltip "이 메시지 삭제">
 
