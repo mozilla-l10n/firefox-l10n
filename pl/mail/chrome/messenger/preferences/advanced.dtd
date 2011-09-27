@@ -5,6 +5,9 @@
 <!ENTITY itemCertificates.label "Certyfikaty">
 
 <!-- General Settings -->
+<!ENTITY submitTelemetry.label        "Przesyłaj dane o wydajności">
+<!ENTITY submitTelemetry.accesskey    "d">
+<!ENTITY telemetryInfoLink.label      "Więcej informacji o prywatności przesyłanych raportów.">
 <!ENTITY enableGlodaSearch.label      "Indeksowanie wiadomości i wyszukiwanie">
 <!ENTITY enableGlodaSearch.accesskey  "n">
 <!ENTITY systemIntegration.label      "Integracja z systemem operacyjnym">
