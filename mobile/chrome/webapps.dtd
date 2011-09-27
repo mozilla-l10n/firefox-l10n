@@ -4,3 +4,4 @@
 <!ENTITY webapps.perm.offline "Almacenamento de datos sen conexión">
 <!ENTITY webapps.perm.notifications "Notificacións no escritorio">
 <!ENTITY webapps.perm.requestedHint "(solicitado)">
+<!ENTITY webapps.add-homescreen "Engadir á pantalla de inicio">
