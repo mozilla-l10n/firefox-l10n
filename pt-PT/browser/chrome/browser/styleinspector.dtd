@@ -1,4 +1,4 @@
-<!-- LOCALIZATION NOTE (userStylesLabel): This is the label for the checkbox
+ï»¿<!-- LOCALIZATION NOTE (userStylesLabel): This is the label for the checkbox
   -  that specifies whether the styles that are not from the user's stylesheet
   -  should be displayed or not. -->
 <!ENTITY userStylesLabel    "Apenas estilos do utilizador">
@@ -12,4 +12,4 @@
   -  the user can hover it and get a help link button which allows one to
   -  quickly jump to the documentation from the Mozilla Developer Network site.
   -  This is the link title shown in the hover tooltip. -->
-<!ENTITY helpLinkTitle         "Leia a documentação sobre esta propriedade">
+<!ENTITY helpLinkTitle         "Leia a documentaÃ§Ã£o sobre esta propriedade">
