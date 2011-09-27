@@ -4,3 +4,4 @@
 <!ENTITY webapps.perm.offline "Archiviazione dati non in linea">
 <!ENTITY webapps.perm.notifications "Notifiche desktop">
 <!ENTITY webapps.perm.requestedHint "(richiesto)">
+<!ENTITY webapps.add-homescreen "Aggiungi alla schermata iniziale">
