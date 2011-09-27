@@ -14,3 +14,8 @@
 <!ENTITY  sending_crash_report "문제 보내기\u2026">
 <!ENTITY  exit_label "종료">
 <!ENTITY  continue_label "계속">
+
+<!ENTITY  launcher_shortcuts_title "&brandShortName; 웹앱">
+<!ENTITY  launcher_shortcuts_empty "검색된 웹앱이 없음">
+
+<!ENTITY choose_file "파일 선택">
