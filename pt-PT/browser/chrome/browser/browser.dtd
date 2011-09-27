@@ -190,9 +190,12 @@ shortcut keys on Linux. -->
 <!ENTITY webConsoleCmd.accesskey      "w">
 <!ENTITY webConsoleCmd.commandkey     "k">
 
-<!ENTITY inspectMenu.label            "Inspeccionar">
+<!ENTITY inspectMenu.label            "Inspecionar">
 <!ENTITY inspectMenu.accesskey        "I">
 <!ENTITY inspectMenu.commandkey       "I">
+
+<!ENTITY inspectContextMenu.label     "Inspecionar elemento">
+<!ENTITY inspectContextMenu.accesskey "Q">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
