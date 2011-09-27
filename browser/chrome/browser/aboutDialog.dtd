@@ -8,7 +8,7 @@
 <!ENTITY community.creditsLink      "globalt samfunn">
 <!ENTITY community.end2             " som jobber for å gjøre Internett bedre. Vi synes at Internett bør være åpent, allment og tilgjengelig for alle, uten noen begrensninger.">
 
-<!ENTITY contribute.start           "Høres det interessant ut? ">
+<!ENTITY contribute.start           "Høres dette interessant ut? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY contribute.getInvolvedLink "Involver deg!">
 <!ENTITY contribute.end             "">
