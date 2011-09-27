@@ -6,7 +6,7 @@
 <!ENTITY select.heading "Roghnaigh Do Chuid Breiseán">
 <!-- LOCALIZATION NOTE (select.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
-<!ENTITY select.description "Make &brandShortName; even faster by disabling add-ons you no longer use. Add-ons already installed by third parties will be disabled automatically unless you select them below.">
+<!ENTITY select.description "Beidh &brandShortName; níos tapúla má dhíchumasaíonn tú breiseáin nach n-úsáideann tú a thuilleadh. Díchumasófar breiseáin a bhí suiteáilte ag tríú páirtí go huathoibríoch mura bhfuil siad roghnaithe thíos.">
 <!ENTITY select.keep "Coinnigh">
 <!-- LOCALIZATION NOTE (select.keep.style): Should be a width wide enough for
      the string in select.keep above. -->
@@ -25,18 +25,18 @@
 <!ENTITY confirm.heading "Roghnaigh Do Chuid Breiseán">
 <!-- LOCALIZATION NOTE (confirm.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
-<!ENTITY confirm.description "Make &brandShortName; even faster by disabling add-ons you no longer use. Add-ons already installed by third parties will be disabled automatically unless you select them below.">
+<!ENTITY confirm.description "Beidh &brandShortName; níos tapúla má dhíchumasaíonn tú breiseáin nach n-úsáideann tú a thuilleadh. Díchumasófar breiseáin a bhí suiteáilte ag tríú páirtí go huathoibríoch mura bhfuil siad roghnaithe thíos.">
 
 <!ENTITY action.disable.heading "Díchumasófar na breiseáin seo a leanas:">
-<!ENTITY action.incompatible.heading "The following add-ons are disabled, but will be enabled as soon as they are compatible:">
+<!ENTITY action.incompatible.heading "Tá na breiseáin seo a leanas díchumasaithe, ach beidh siad cumasaithe chomh luath agus a bheidh siad comhoiriúnach:">
 <!ENTITY action.update.heading "Déanfar nuashonrú ar na breiseáin seo a leanas:">
 <!ENTITY action.enable.heading "Cumasófar na breiseáin seo a leanas:">
 
 <!ENTITY update.heading "Do Chuid Breiseán á Nuashonrú">
-<!ENTITY update.progress.label "Downloading and installing updates for your selected add-ons.">
+<!ENTITY update.progress.label "Nuashonruithe á n-íosluchtú agus á suiteáil le haghaidh na mbreiseán roghnaithe.">
 
 <!ENTITY errors.heading "Níorbh fhéidir le &brandShortName; cuid de na breiseáin a nuashonrú.">
-<!ENTITY errors.description "Installing updates for some of your add-ons failed. &brandShortName; will automatically try to update them again later.">
+<!ENTITY errors.description "Theip ar shuiteáil roinnt breiseán. Déanfaidh &brandShortName; iarracht iad a nuashonrú arís ar ball.">
 
 <!ENTITY footer.label "Is féidir leat do chuid breiseán a athrú am ar bith le Bainisteoir na mBreiseán.">
 <!ENTITY cancel.label "Cealaigh">

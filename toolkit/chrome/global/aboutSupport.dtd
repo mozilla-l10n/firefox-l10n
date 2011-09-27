@@ -17,6 +17,7 @@
 <!ENTITY aboutSupport.appBasicsBuildConfig "Cumraíocht Tógála">
 <!ENTITY aboutSupport.appBasicsUserAgent "Gníomhaire Úsáideora">
 <!ENTITY aboutSupport.appBasicsCrashIDs "Tuairiscí ar Thuairteáil">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Úsáid Chuimhne">
 
 <!ENTITY aboutSupport.show.label "Oscail an Fillteán ina bhfuil sé">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
