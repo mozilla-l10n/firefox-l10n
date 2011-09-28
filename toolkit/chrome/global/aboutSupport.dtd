@@ -21,6 +21,7 @@
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configuración de compilación">
 <!ENTITY aboutSupport.appBasicsUserAgent "Agente de usuario">
 <!ENTITY aboutSupport.appBasicsCrashIDs "Informes de fallos">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Uso de memoria">
 
 <!ENTITY aboutSupport.show.label "Abrir carpeta contenedora">
 
