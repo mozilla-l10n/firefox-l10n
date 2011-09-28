@@ -62,8 +62,6 @@
 <!ENTITY printAddressBook.accesskey                     "l"> 
 <!ENTITY printPreviewAddressBook.label                  "Pré-Visualizar Livro de Endereços"> 
 <!ENTITY printPreviewAddressBook.accesskey              "i">
-<!ENTITY printSetupCmd.label                            "Configurar página...">
-<!ENTITY printSetupCmd.accesskey                        "C">
 
 <!-- Edit Menu -->
 <!ENTITY deleteAbCmd.label                              "Apagar Livro de Endereços">  
@@ -127,6 +125,9 @@
 <!ENTITY deleteItemButton.tooltip                           "Apagar o o item seleccionado"> 
 <!ENTITY throbber.tooltip                               "Ir para a página inicial do &vendorShortName;">
 <!ENTITY advancedButton.tooltip                         "Pesquisa avançada de endereços">
+
+<!-- Dir Tree header -->
+<!ENTITY dirTreeHeader.label                            "Livros de endereços">
 
 <!-- Status Bar -->  
 <!ENTITY statusText.label                               "">
