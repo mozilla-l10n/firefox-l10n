@@ -107,13 +107,6 @@
 <!ENTITY downloadSelectedCmd.accesskey "t">
 <!ENTITY downloadFlaggedCmd.label "Obter as mensaxes sinaladas">
 <!ENTITY downloadFlaggedCmd.accesskey "b">
-<!ENTITY printCmd.label "Imprimir…">
-<!ENTITY printCmd.accesskey "p">
-<!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Previsualización da impresión">
-<!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printSetupCmd.label "Configuración da páxina…">
-<!ENTITY printSetupCmd.accesskey "u">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Eliminar mensaxe">

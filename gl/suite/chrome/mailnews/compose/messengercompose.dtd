@@ -11,10 +11,7 @@
 <!-- menu items:  the . means that the menu item isn't implemented yet -->
 
 <!-- File menu items -->
-<!ENTITY newMessage.label "Mensaxe">  
-<!ENTITY newMessage.accesskey "M">  
 <!ENTITY saveCmd.label "Gardar">
-<!ENTITY saveCmd.key "S">
 <!ENTITY saveCmd.accesskey "G">
 <!ENTITY saveAsCmd.label "Gardar como">
 <!ENTITY saveAsCmd.accesskey "a">
@@ -39,11 +36,6 @@
 <!ENTITY sendLaterCmd.label "Enviar máis tarde">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "E">
-<!ENTITY printSetupCmd.label "Configuración da páxina…">
-<!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printCmd.label "Imprimir…">
-<!ENTITY printCmd.key "P">
-<!ENTITY printCmd.accesskey "p">
 
 <!-- Edit menu items -->
 <!ENTITY editRewrapCmd.label "Reaxustar">
@@ -74,7 +66,6 @@
 <!ENTITY selectAddressCmd.accesskey "a">
 
 <!ENTITY checkSpellingCmd2.label "Verificación ortográfica…">
-<!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY checkSpellingCmd2.accesskey "V">
 <!ENTITY enableInlineSpellChecker.label "Revisar a ortografía mentres escribe">
 <!ENTITY enableInlineSpellChecker.accesskey "s">
@@ -135,8 +126,6 @@
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
 <!ENTITY spellCheckAddToDictionary.label "Engadir ao dicionario">
 <!ENTITY spellCheckAddToDictionary.accesskey "n">
-<!ENTITY pasteQuote.label "Pegar como cita">
-<!ENTITY pasteQuote.accesskey "P">
 
 <!ENTITY openAttachment.label "Abrir">
 <!ENTITY openAttachment.accesskey "A">

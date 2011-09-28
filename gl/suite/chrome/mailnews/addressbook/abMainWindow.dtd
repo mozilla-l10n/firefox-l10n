@@ -62,8 +62,6 @@
 <!ENTITY printAddressBook.accesskey                     "a"> 
 <!ENTITY printPreviewAddressBook.label                  "Previsualización da axenda de enderezos"> 
 <!ENTITY printPreviewAddressBook.accesskey              "P">
-<!ENTITY printSetupCmd.label                            "Configuración da páxina…">
-<!ENTITY printSetupCmd.accesskey                        "u">
 
 <!-- Edit Menu -->
 <!ENTITY deleteAbCmd.label                              "Eliminar a axenda de enderezos">  
@@ -127,6 +125,9 @@
 <!ENTITY deleteItemButton.tooltip                       "Eliminar o elemento seleccionado">
 <!ENTITY throbber.tooltip                               "Ir á páxina de inicio de &vendorShortName;">
 <!ENTITY advancedButton.tooltip                         "Busca avanzada de enderezo">
+
+<!-- Dir Tree header -->
+<!ENTITY dirTreeHeader.label                            "Axendas de enderezos">
 
 <!-- Status Bar -->  
 <!ENTITY statusText.label                               "">
