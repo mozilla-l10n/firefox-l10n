@@ -8,7 +8,7 @@
 <!ENTITY accountName.label            "Nome da conta:">
 
 <!-- Login error feedback -->
-<!ENTITY updatePass.label             "Actualizar">
+<!ENTITY updatePass.label             "Atualizar">
 <!ENTITY updatePass.accesskey         "A">
 <!ENTITY resetPass.label              "Limpar">
 <!ENTITY resetPass.accesskey          "L">
@@ -20,11 +20,11 @@
 <!ENTITY viewQuota.accesskey          "V">
 <!ENTITY changePassword.label         "Mudar Senha">
 <!ENTITY changePassword.accesskey     "M">
-<!ENTITY mySyncKey.label              "A Minha Chave Sync">
-<!ENTITY mySyncKey.accesskey          "C">
+<!ENTITY myRecoveryKey.label          "A Minha senha de recuperação">
+<!ENTITY myRecoveryKey.accesskey      "c">
 <!ENTITY resetSync.label              "Reiniciar Sync">
 <!ENTITY resetSync.accesskey          "e">
-<!ENTITY deactivateDevice.label       "Desactivar este dispositivo">
+<!ENTITY deactivateDevice.label       "Desativar este dispositivo">
 <!ENTITY deactivateDevice.accesskey   "D">
 <!ENTITY addDevice.label              "Adicionar dispositivo">
 <!ENTITY addDevice.accesskey          "A">

@@ -107,10 +107,6 @@
 <!ENTITY downloadSelectedCmd.accesskey "M">
 <!ENTITY downloadFlaggedCmd.label "Transferir Mensagens Marcadas">
 <!ENTITY downloadFlaggedCmd.accesskey "a">
-<!ENTITY printCmd.label "Imprimir...">
-<!ENTITY printCmd.accesskey "I">
-<!ENTITY printPreviewCmd.label "Pré-Visualizar impressão">
-<!ENTITY printPreviewCmd.accesskey "z">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Eliminar mensagem">

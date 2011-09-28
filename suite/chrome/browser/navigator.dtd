@@ -14,11 +14,6 @@
 <!ENTITY editPageCmd.accesskey "E">
 <!ENTITY editPageCmd.commandkey "e">
 
-<!ENTITY printPreviewCmd.label "Pré-visualizar impressão">
-<!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printCmd.label "Imprimir…">
-<!ENTITY printCmd.accesskey "I">
-
 <!ENTITY navbarCmd.label "Barra de ferramentas de navegação">
 <!ENTITY navbarCmd.accesskey "n">
 <!ENTITY personalbarCmd.label "Barra de ferramentas pessoal">
@@ -43,7 +38,7 @@
 <!ENTITY forwardButton.label          "Avançar">
 <!ENTITY forwardButton.tooltip        "Avançar uma página">
 <!ENTITY reloadButton.label           "Recarregar">
-<!ENTITY reloadButton.tooltip         "Recarregar página actual">
+<!ENTITY reloadButton.tooltip         "Recarregar página atual">
 <!ENTITY stopButton.label             "Parar">
 <!ENTITY stopButton.tooltip           "Parar o carregamento desta página">
 <!ENTITY searchButton.label           "Pesquisar">

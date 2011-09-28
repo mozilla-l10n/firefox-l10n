@@ -7,7 +7,7 @@
 <!ENTITY setup.haveAccount.label "Já tenho uma conta do &syncBrand.fullName.label;.">
 <!ENTITY button.connect.label "Ligar">
 
-<!ENTITY setup.choicePage.title.label     "Usou o  &syncBrand.fullName.label; antes?">
+<!ENTITY setup.choicePage.title.label     "Já usou o  &syncBrand.fullName.label; antes?">
 <!ENTITY setup.choicePage.new.label       "Nunca usei o &syncBrand.shortName.label; antes">
 <!ENTITY setup.choicePage.existing.label  "Já estou a usar o &syncBrand.shortName.label; noutro computador">
 
@@ -20,8 +20,8 @@
 <!ENTITY signIn.account2.accesskey  "a">
 <!ENTITY signIn.password.label      "Senha">
 <!ENTITY signIn.password.accesskey  "S">
-<!ENTITY signIn.syncKey.label       "Chave do Sync">
-<!ENTITY signIn.syncKey.accesskey   "y">
+<!ENTITY signIn.recoveryKey.label     "Chave de recuperação">
+<!ENTITY signIn.recoveryKey.accesskey "h">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Detalhes da conta">
@@ -39,14 +39,14 @@
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 
-<!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "O &brandShortName; Respeita a Sua Privacidade">
-<!ENTITY setup.newSyncKeyPage.description.label "Para assegurar a sua privacidade total, toda a sua informação é cifrada antes de ser enviada. A Chave Sync necessária para decifrar a informação não é enviada.">
-<!ENTITY syncKeyEntry.label        "A Sua Chave Sync">
-<!ENTITY syncKeyEntry.accesskey    "C">
-<!ENTITY syncKeyGenerate.label     "Gerar">
-<!ENTITY syncKeyGenerate.accesskey "G">
-<!ENTITY syncKeyBackup.description "A sua Chave Sync é necessária para aceder ao &syncBrand.fullName.label; noutras máquinas. Por favor crie uma cópia de segurança. Não podemos ajudá-lo a recuperar a sua Chave Sync.">
+<!-- New Account Page 2: recovery Key -->
+<!ENTITY setup.newRecoveryKeyPage.title.label "O &brandShortName; Respeita a Sua Privacidade">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Para assegurar a sua privacidade total, toda a sua informação é cifrada antes de ser enviada. A chave de recuperação necessária para decifrar a informação não é enviada.">
+<!ENTITY recoveryKeyEntry.label        "A Sua Chave Sync">
+<!ENTITY recoveryKeyEntry.accesskey    "C">
+<!ENTITY recoveryKeyGenerate.label     "Gerar">
+<!ENTITY recoveryKeyGenerate.accesskey "G">
+<!ENTITY recoveryKeyBackup.description "A sua chave de recuperação é necessária para aceder ao &syncBrand.fullName.label; noutras máquinas. Por favor crie uma cópia de segurança. Não podemos ajudá-lo a recuperar a sua chave de recuperação.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Imprimir...">
 <!ENTITY button.syncKeyBackup.print.accesskey "I">
@@ -60,18 +60,18 @@
 <!ENTITY addDevice.title.label              "Adicionar um dispositivo">
 <!ENTITY addDevice.showMeHow.label          "Mostrar-me como.">
 <!ENTITY addDevice.dontHaveDevice.label     "Não tenho o dispositivo comigo">
-<!ENTITY addDevice.setup.description.label  "Para activar, vá às opções do &syncBrand.shortName.label; no seu outro dispositivo e seleccione &#x0022;Adicionar um dispositivo&#x0022;.">
+<!ENTITY addDevice.setup.description.label  "Para ativar, vá às opções do &syncBrand.shortName.label; no seu outro dispositivo e selecione &#x0022;Adicionar um dispositivo&#x0022;.">
 <!ENTITY addDevice.setup.enterCode.label    "Então, escreva este código:">
-<!ENTITY addDevice.dialog.description.label "Para activar o seu novo dispositivo, vá às opções do &syncBrand.shortName.label; no dispositivo e seleccione &#x0022;Ligar.&#x0022;">
+<!ENTITY addDevice.dialog.description.label "Para ativar o seu novo dispositivo, vá às opções do &syncBrand.shortName.label; no dispositivo e selecione &#x0022;Ligar.&#x0022;">
 <!ENTITY addDevice.dialog.enterCode.label   "Escreva o código que o dispositivo forneceu:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Por favor, tente de novo.">
 <!ENTITY addDevice.dialog.successful.label  "O dispositivo foi adicionado com sucesso. A sincronização inicial pode demorar alguns minutos e irá terminar em segundo plano.">
-<!ENTITY addDevice.dialog.syncKey.label     "Para activar o seu dispositivo tem de introduzir a sua chave do Sync. Por favor, imprima ou guarde esta chave e leve-a consigo.">
+<!ENTITY addDevice.dialog.recoveryKey.label "Para ativar o seu dispositivo tem de introduzir a sua chave de recuperação. Por favor, imprima ou guarde esta chave e leve-a consigo.">
 <!ENTITY addDevice.dialog.connected.label   "Dispositivo ligado">
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Iniciar sessão">
-<!ENTITY existingSyncKey.description "Pode obter uma cópia da sua chave do Sync indo às opções do &syncBrand.shortName.label; do seu outro dispositivo, e seleccionar  &#x0022;A minha chave do Sync&#x0022; em &#x0022;Gerir conta&#x0022;.">
+<!ENTITY existingRecoveryKey.description "Pode obter uma cópia da sua chave do Sync indo às opções do &syncBrand.shortName.label; do seu outro dispositivo, e selecionar  &#x0022;A minha chave do Sync&#x0022; em &#x0022;Gerir conta&#x0022;.">
 <!ENTITY verifying.label              "A verificar…">
 <!ENTITY resetPassword.label          "Reiniciar senha">
 <!ENTITY resetSyncKey.label           "Perdi o meu outro dispositivo.">
@@ -93,10 +93,10 @@
 <!ENTITY engine.prefs.label         "Preferências">
 <!ENTITY engine.prefs.accesskey     "P">
 
-<!ENTITY choice2.merge.main.label      "Juntar os dados deste computador com os do &syncBrand.shortName.label;">
+<!ENTITY choice2.merge.main.label      "Juntar os dados deste computador com os dados do &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Recomendado:">
 <!ENTITY choice2.client.main.label     "Substituir todos os dados neste computador pelos dados do &syncBrand.shortName.label;">
-<!ENTITY choice2.server.main.label     "Substituir todos os outros dispositivos com pelos dados deste computador">
+<!ENTITY choice2.server.main.label     "Substituir todos os outros dispositivos pelos dados deste computador">
 
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Confirmar">
@@ -107,5 +107,5 @@
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Configuração terminada">
-<!ENTITY changeOptions.label "Pode alterar esta preferência seleccionando opções do Sync em baixo.">
+<!ENTITY changeOptions.label "Pode alterar esta preferência selecionando opções do Sync em baixo.">
 <!ENTITY continueUsing.label "Pode agora continuar a usar o &brandShortName;.">
