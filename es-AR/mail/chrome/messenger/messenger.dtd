@@ -124,6 +124,8 @@
 <!ENTITY redoDefaultCmd.accesskey "R">
 
 <!-- View Menu -->
+<!ENTITY menubarCmd.label "Barra de menú">
+<!ENTITY menubarCmd.accesskey "m">
 <!ENTITY showMessengerToolbarCmd.label "Barra de herramientas de correo">
 <!ENTITY showMessengerToolbarCmd.accesskey "o">
 <!ENTITY customizeToolbar.label "Personalizar…">
@@ -274,6 +276,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageSourceCmd.label "Fuente del mensaje">
 <!ENTITY pageSourceCmd.accesskey "u">
 <!ENTITY pageSourceCmd.key "u">
+<!ENTITY getNewMessagesCmd.key "y">
+<!ENTITY getAllNewMessagesCmd.key "Y">
 
 <!-- Search Menu -->
 <!ENTITY findMenu.label "Buscar">
@@ -501,12 +505,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY previousButton.label "Anterior">
 <!ENTITY backButton1.label "Atrás">
 <!ENTITY goForwardButton1.label "Adelante">
+<!ENTITY deleteItem.title "Borrar">
 <!ENTITY deleteButton.label "Borrar">
 <!ENTITY undeleteButton.label "Recuperar">
 <!ENTITY markButton.label "Marcar">
 <!ENTITY printButton.label "Imprimir">
 <!ENTITY stopButton.label "Detener">
 <!ENTITY throbberItem.title "Indicador de actividad">
+ <!ENTITY junkItem.title "Basura">
 <!ENTITY junkButton.label "Basura">
 <!ENTITY notJunkButton.label "No es basura">
 <!ENTITY addressBookButton.label "Direcciones">

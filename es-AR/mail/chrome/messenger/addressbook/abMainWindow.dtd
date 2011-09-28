@@ -79,6 +79,8 @@
 <!ENTITY viewMenu.accesskey "V">
 <!ENTITY viewToolbarsMenu.label "Barras de herramientas">
 <!ENTITY viewToolbarsMenu.accesskey "h">
+<!ENTITY menubarCmd.label "Barra de menú">
+<!ENTITY menubarCmd.accesskey "m">
 <!ENTITY showAbToolbarCmd.label "Barra de herramientas de la libreta de direcciones">
 <!ENTITY showAbToolbarCmd.accesskey "o">
 <!ENTITY showTaskbarCmd.label "Barra de estado">

@@ -94,9 +94,11 @@
 <!ENTITY consoleErrColumn.label    "Columna:">
 
 <!ENTITY contextOpenInNewTab.label "Abrir enlace en nueva pestaña">
-<!ENTITY contextSaveLink.label        "Guardar enlace">
 <!ENTITY contextSaveImage.label    "Guardar imagen">
 <!ENTITY contextCopyLink.label        "Copiar enlace">
+<!ENTITY contextCopyEmail.label       "Copiar dirección de correo electrónico">
+<!ENTITY contextCopyPhone.label       "Copiar número de teléfono">
+<!ENTITY contextCopyImageLocation.label       "Copiar dirección de la imagen">
 <!ENTITY contextShareLink.label       "Compartir enlace">
 <!ENTITY contextShareImage.label      "Compartir imagen">
 <!ENTITY contextBookmarkLink.label    "Marcar enlace">
@@ -117,6 +119,5 @@
 <!ENTITY pageactions.findInPage      "Buscar en la página">
 <!ENTITY pageactions.search.addNew   "Agregar buscador">
 <!ENTITY pageactions.charEncoding    "Codificación de caracteres">
-<!ENTITY pageactions.webapps.install "Instalar como aplicación">
 
 <!ENTITY appMenu.siteOptions         "Opciones del sitio">
