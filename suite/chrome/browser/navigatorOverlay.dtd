@@ -40,7 +40,7 @@
 <!ENTITY useStyleSheetNone.accesskey "N">
 <!ENTITY useStyleSheetPersistentOnly.label "Estilo pré-definido">
 <!ENTITY useStyleSheetPersistentOnly.accesskey "d">
-<!ENTITY bidiSwitchPageDirectionItem.label "Mudar direcção da página">
+<!ENTITY bidiSwitchPageDirectionItem.label "Mudar direção da página">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey "g">
 <!ENTITY pageSourceCmd.label "Fonte da página">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -48,13 +48,6 @@
 <!ENTITY pageInfoCmd.label "Info da página">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
-
-<!ENTITY applyTheme.label "Aplicar tema">
-<!ENTITY applyTheme.accesskey "A">
-<!ENTITY getNewThemesCmd.label "Obter novos temas">
-<!ENTITY getNewThemesCmd.accesskey "O">
-<!ENTITY getPersonasCmd.label "Obter Personas">
-<!ENTITY getPersonasCmd.accesskey "P">
 
 <!-- Go Menu -->
 <!ENTITY goMenu.label "Ir">
