@@ -6,6 +6,9 @@
 
 <!-- General Settings -->
 
+<!ENTITY submitTelemetry.label         "傳送效能資料">
+<!ENTITY submitTelemetry.accesskey     "P">
+<!ENTITY telemetryInfoLink.label       "更多關於 Telemetry 的資訊">
 <!ENTITY enableGlodaSearch.label       "啟動全域搜尋以及索引">
 <!ENTITY enableGlodaSearch.accesskey   "E">
 <!ENTITY systemIntegration.label       "系統整合">

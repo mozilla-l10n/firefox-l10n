@@ -79,6 +79,8 @@
 <!ENTITY viewMenu.accesskey                             "V">
 <!ENTITY viewToolbarsMenu.label                         "工具列">
 <!ENTITY viewToolbarsMenu.accesskey                     "T"> 
+<!ENTITY menubarCmd.label                               "選單列">
+<!ENTITY menubarCmd.accesskey                           "M">
 <!ENTITY showAbToolbarCmd.label                         "通訊錄工具列">
 <!ENTITY showAbToolbarCmd.accesskey                     "o">
 <!ENTITY showTaskbarCmd.label                           "狀態列">

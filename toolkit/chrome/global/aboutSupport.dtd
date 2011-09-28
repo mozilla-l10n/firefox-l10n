@@ -19,6 +19,7 @@
 <!ENTITY aboutSupport.appBasicsBuildConfig "編譯組態">
 <!ENTITY aboutSupport.appBasicsUserAgent "使用者代理字串（User Agent）">
 <!ENTITY aboutSupport.appBasicsCrashIDs "錯誤資訊報表">
+<!ENTITY aboutSupport.appBasicsMemoryUse "記憶體使用量">
 
 <!ENTITY aboutSupport.show.label "開啟所在資料夾">
 
