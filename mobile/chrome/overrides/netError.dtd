@@ -7,7 +7,7 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Klarte ikke å koble til">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
 
 <!ENTITY deniedPortAccess.title "Tilgangen til dennen adressen er begrenset">
 <!ENTITY deniedPortAccess.longDesc "">
@@ -43,7 +43,7 @@
 ">
 
 <!ENTITY netInterrupt.title "Tilkoblingen ble avbrutt">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netOffline.title "Frakoblet modus">
 <!ENTITY netOffline.longDesc2 "<ul>
@@ -64,10 +64,10 @@
 ">
 
 <!ENTITY netReset.title "Tilkoblingen ble avbrutt">
-<!ENTITY netReset.longDesc "&sharedLongDesc;">
+<!ENTITY netReset.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netTimeout.title "Tilkoblingen fikk tidsavbrudd">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
 <!ENTITY protocolNotFound.title "Klarte ikke å forstår adressen">
 <!ENTITY protocolNotFound.longDesc "<ul>
