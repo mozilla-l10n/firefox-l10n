@@ -62,13 +62,6 @@
 <!ENTITY downloadSelectedCmd.accesskey "t">
 <!ENTITY downloadFlaggedCmd.label "Obtener los mensajes señalados">
 <!ENTITY downloadFlaggedCmd.accesskey "O">
-<!ENTITY printCmd.label "Imprimir…">
-<!ENTITY printCmd.accesskey "I">
-<!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Vista preliminar">
-<!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printSetupCmd.label "Configurar página…">
-<!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY deleteMsgCmd.label "Eliminar mensaje">
 <!ENTITY deleteMsgCmd.accesskey "r">
 <!ENTITY undeleteMsgCmd.label "Restaurar mensaje">

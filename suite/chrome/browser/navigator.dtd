@@ -4,11 +4,6 @@
 <!ENTITY editPageCmd.label "Editar página">
 <!ENTITY editPageCmd.accesskey "E">
 <!ENTITY editPageCmd.commandkey "e">
-<!ENTITY printPreviewCmd.label "Vista preliminar">
-<!ENTITY printPreviewCmd.accesskey "V">
-<!ENTITY printCmd.label "Imprimir…">
-<!ENTITY printCmd.accesskey "I">
-<!ENTITY printCmd.commandkey "p">
 <!ENTITY navbarCmd.label "Barra de herramientas de navegación">
 <!ENTITY navbarCmd.accesskey "n">
 <!ENTITY personalbarCmd.label "Barra de herramientas personal">
