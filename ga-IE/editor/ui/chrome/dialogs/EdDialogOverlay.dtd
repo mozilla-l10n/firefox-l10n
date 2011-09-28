@@ -48,4 +48,4 @@
 <!-- Shared by Link and Image dialogs -->
 
 <!ENTITY LinkURLEditField.label "Iontráil suíomh Gréasáin nó comhad logánta, nó roghnaigh Ancaire Ainmnithe nó Ceanntásc ón liosta aníos:">
-<!ENTITY LinkURLEditField.accessKey "l">
+<!ENTITY LinkURLEditField.accessKey "G">

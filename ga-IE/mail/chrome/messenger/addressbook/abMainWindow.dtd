@@ -79,6 +79,8 @@
 <!ENTITY viewMenu.accesskey "A">
 <!ENTITY viewToolbarsMenu.label "Barraí Uirlisí">
 <!ENTITY viewToolbarsMenu.accesskey "U">
+<!ENTITY menubarCmd.label "Barra Roghchláir">
+<!ENTITY menubarCmd.accesskey "B">
 <!ENTITY showAbToolbarCmd.label "Barra na Leabhar Seoltaí">
 <!ENTITY showAbToolbarCmd.accesskey "o">
 <!ENTITY showTaskbarCmd.label "Barra Stádais">

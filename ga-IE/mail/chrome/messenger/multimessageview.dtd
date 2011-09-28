@@ -1,4 +1,4 @@
 <!ENTITY window.title "Achoimre Teachtaireachta">
 <!ENTITY selectedmessages.label "Teachtaireachtaí Roghnaithe">
-<!ENTITY archive.label "Cuir sa chartlann">
-<!ENTITY delete.label "Scrios">
+<!ENTITY archiveButton.label "Cuir sa Chartlann">
+<!ENTITY deleteButton.label "Scrios">

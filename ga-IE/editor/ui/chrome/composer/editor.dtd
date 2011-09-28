@@ -49,7 +49,7 @@
 <!-- File menu items -->
 
 <!ENTITY exportToTextCmd.label "Easpórtáil mar Théacs…">
-<!ENTITY exportToTextCmd.accesskey "T">
+<!ENTITY exportToTextCmd.accesskey "s">
 <!ENTITY previewCmd.label "Brabhsáil an Leathanach">
 <!ENTITY previewCmd.accesskey "b">
 <!ENTITY sendPageCmd.label "Seol Leathanach…">

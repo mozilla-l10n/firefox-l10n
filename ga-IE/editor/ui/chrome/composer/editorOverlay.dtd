@@ -54,7 +54,7 @@
 <!ENTITY fileRecentMenu.label "Leathanaigh Dheireanacha">
 <!ENTITY fileRecentMenu.accesskey "r">
 <!ENTITY fileRevert.label "Fill">
-<!ENTITY fileRevert.accesskey "F">
+<!ENTITY fileRevert.accesskey "l">
 <!ENTITY saveCmd.label "Sábháil">
 <!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveCmd.key "S">
@@ -68,11 +68,6 @@
 <!ENTITY publishAsCmd.accesskey "h">
 <!ENTITY saveAsChangeEncodingCmd.label "Sábháil agus Athraigh Ionchódú na gCarachtar">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "I">
-<!ENTITY printSetupCmd.label "Socrú Leathanaigh…">
-<!ENTITY printSetupCmd.accesskey "L">
-<!ENTITY printCmd.label "Priontáil…">
-<!ENTITY printCmd.accesskey "P">
-<!ENTITY printCmd.key "R">
 <!-- Edit menu items -->
 
 <!ENTITY editMenu.label "Eagar">
