@@ -18,8 +18,6 @@
 <!ENTITY printAddressBook.accesskey "A">
 <!ENTITY printPreviewAddressBook.label "Vista preliminar de la libreta de direcciones">
 <!ENTITY printPreviewAddressBook.accesskey "B">
-<!ENTITY printSetupCmd.label "Configurar página…">
-<!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY deleteAbCmd.label "Eliminar libreta de direcciones">
 <!ENTITY deleteContactCmd.label "Eliminar contacto">
 <!ENTITY deleteContactsCmd.label "Eliminar contactos seleccionados">
@@ -70,5 +68,6 @@
 <!ENTITY deleteItemButton.tooltip "Eliminar elemento seleccionado">
 <!ENTITY throbber.tooltip "Ir a la página principal de &vendorShortName;">
 <!ENTITY advancedButton.tooltip "Búsqueda avanzada de direcciones">
+<!ENTITY dirTreeHeader.label "Libretas de direcciones">
 <!ENTITY statusText.label "">
 <!ENTITY hideSwapFnLnUI "true">

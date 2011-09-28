@@ -1,0 +1,27 @@
+<!ENTITY testpilot.brand.label "Test Pilot">
+<!ENTITY testpilot.settings.label "Configuración">
+<!ENTITY testpilot.settings.dataSubmission.label "Envío de datos">
+<!ENTITY testpilot.settings.notifications.label "Notificaciones">
+<!ENTITY testpilot.settings.notifyWhen.label "Avisarme cuando…">
+<!ENTITY testpilot.settings.readyToSubmit.label "Un estudio está listo para su envío">
+<!ENTITY testpilot.settings.newStudy.label "Hay un nuevo estudio">
+<!ENTITY testpilot.settings.hasNewResults.label "Un estudio tiene resultados nuevos">
+<!ENTITY testpilot.settings.alwaysSubmitData.shortLabel "Enviar siempre mis datos (no preguntarme)">
+<!ENTITY testpilot.allYourStudies.label "Todos sus estudios de usuario…">
+<!ENTITY testpilot.about.label "Acerca de Test Pilot">
+<!ENTITY testpilot.studiesWindow.title "Sus estudios de Test Pilot">
+<!ENTITY testpilot.studiesWindow.currentStudies.label "Estudios en curso">
+<!ENTITY testpilot.studiesWindow.finishedStudies.label "Estudios finalizados">
+<!ENTITY testpilot.studiesWindow.studyFindings.label "Resultados del estudio">
+<!ENTITY testpilot.studiesWindow.settings.label "Configuración">
+<!ENTITY testpilot.studiesWindow.stillLoadingMessage "Cargando, por favor espere…">
+<!ENTITY testpilot.rawDataWindow.title "Test Pilot: datos en bruto">
+<!ENTITY testpilot.notification.close.tooltip "Cerrar">
+<!ENTITY testpilot.enable.label "Activar estudios de usuario">
+<!ENTITY testpilot.feedbackbutton.label "Opiniones">
+<!ENTITY testpilot.happy.label "Firefox me hizo feliz porque…">
+<!ENTITY testpilot.sad.label "Firefox me hizo infeliz porque…">
+<!ENTITY testpilot.happy.thunderbirdLabel "Thunderbird me ha hecho feliz porque…">
+<!ENTITY testpilot.sad.thunderbirdLabel "Thunderbird me ha hecho infeliz porque…">
+<!ENTITY testpilot.broken.label "Informar este sitio web como defectuoso…">
+<!ENTITY testpilot.idea.label "Háganos una sugerencia…">

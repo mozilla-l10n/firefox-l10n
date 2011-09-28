@@ -3,6 +3,9 @@
 <!ENTITY itemUpdate.label "Actualización">
 <!ENTITY itemNetworking.label "Red y espacio en disco">
 <!ENTITY itemCertificates.label "Certificados">
+<!ENTITY submitTelemetry.label "Enviar datos de rendimiento">
+<!ENTITY submitTelemetry.accesskey "V">
+<!ENTITY telemetryInfoLink.label "Más información sobre Telemetry">
 <!ENTITY enableGlodaSearch.label "Activar indexador y búsqueda global">
 <!ENTITY enableGlodaSearch.accesskey "A">
 <!ENTITY systemIntegration.label "Integración con el sistema">

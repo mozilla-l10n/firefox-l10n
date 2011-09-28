@@ -84,6 +84,9 @@
 <!ENTITY borderEditField.accessKey "B">
 <!ENTITY showImageLinkBorder.label "Mostrar el borde alrededor de la imagen-enlace">
 <!ENTITY showImageLinkBorder.accessKey "B">
+<!ENTITY LinkAdvancedEditButton.label "Edición avanzada del enlace…">
+<!ENTITY LinkAdvancedEditButton.accessKey "E">
+<!ENTITY LinkAdvancedEditButton.tooltip "Añada o modifique atributos HTML, atributos de estilo y JavaScript">
 <!ENTITY imageInputTab.label "Formulario">
 <!ENTITY imageLocationTab.label "Ubicación">
 <!ENTITY imageDimensionsTab.label "Dimensiones">
