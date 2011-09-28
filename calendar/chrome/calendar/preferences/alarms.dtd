@@ -20,6 +20,7 @@
    -
    - Contributor(s): 
    -   Cédric Corazza <cedric.corazza@wanadoo.fr>
+   -   Philipp Kewisch <mozilla@kewis.ch>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -40,7 +41,7 @@
   -->
 
 
-<!ENTITY pref.alarmgoesoff.label "Nuair a thabharfar aláram:">
+<!ENTITY pref.alarmgoesoff.label "Nuair a bhíonn meabhrúchán réidh:">
 <!ENTITY pref.playasound "Seinn fuaim">
 <!ENTITY pref.calendar.alarms.playsound.accessKey "s">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "Úsáid an fhuaim réamhshocraithe">
@@ -49,20 +50,20 @@
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "B">
 <!ENTITY pref.calendar.alarms.sound.preview.label "Réamhamharc">
 <!ENTITY pref.calendar.alarms.sound.preview.accessKey "R">
-<!ENTITY pref.showalarmbox "Taispeáin bosca aláraim">
+<!ENTITY pref.showalarmbox "Taispeáin an dialóg mheabhrúcháin">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "L">
-<!ENTITY pref.missedalarms "Taispeáin aláraim chaillte">
+<!ENTITY pref.missedalarms "Taispeáin meabhrúcháin a cailleadh">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "m">
-<!ENTITY pref.calendar.alarms.defaults.label "Réamhshocruithe Aláraim">
-<!ENTITY pref.defalarm4events.label "Aláram réamshocraithe d'imeachtaí:">
+<!ENTITY pref.calendar.alarms.defaults.label "Réamhshocruithe Meabhrúcháin">
+<!ENTITY pref.defalarm4events.label "Meabhrúcháin réamshocraithe ar imeachtaí:">
 <!ENTITY pref.defalarm4events.accesskey "e">
-<!ENTITY pref.defalarm4todos.label "Aláram réamhshocraithe do thascanna:">
+<!ENTITY pref.defalarm4todos.label "Meabhrúcháin réamhshocraithe ar thascanna:">
 <!ENTITY pref.defalarm4todos.accesskey "a">
 <!ENTITY pref.alarm.on "Ann">
 <!ENTITY pref.alarm.off "As">
-<!ENTITY pref.defalarmlen4events.label "Achar réamhshocraithe roimh imeacht a thabharfar an t-aláram:">
-<!ENTITY pref.defalarmlen4events.accesskey "i">
-<!ENTITY pref.defalarmlen4todos.label "Achar réamhshocraithe roimh tasc a thabharfar an t-aláram:">
-<!ENTITY pref.defalarmlen4todos.accesskey "t">
-<!ENTITY pref.defaultemail.label "Seoladh réamhshocraithe a seolfar aláraim chuige:">
-<!ENTITY pref.defaulttext.label "Téacs réamhshocraithe d'aláraim:">
+<!ENTITY pref.defalarmlen4events.label "Achar réamhshocraithe roimh imeacht a thabharfar an meabhrúchán:">
+<!ENTITY pref.defalarmlen4events.accesskey "r">
+<!ENTITY pref.defalarmlen4todos.label "Achar réamhshocraithe roimh thasc a thabharfar an meabhrúchán:">
+<!ENTITY pref.defalarmlen4todos.accesskey "o">
+<!ENTITY pref.defaultemail.label "Seoladh réamhshocraithe a seolfar meabhrúcháin chuige:">
+<!ENTITY pref.defaulttext.label "Téacs réamhshocraithe i meabhrúchán:">

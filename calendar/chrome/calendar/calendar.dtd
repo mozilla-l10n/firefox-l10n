@@ -288,7 +288,7 @@
 
 <!ENTITY calendar.alarm.snoozefor.label "Déan néal codlata ar feadh">
 <!ENTITY calendar.alarm.snoozeallfor.label "Cuir gach ceann ina chodladh go ceann">
-<!ENTITY calendar.alarm.title.label "Aláram Féilire">
+<!ENTITY calendar.alarm.title.label "Meabhrúcháin Fhéilire">
 <!ENTITY calendar.alarm.dismiss.label "Díbir">
 <!ENTITY calendar.alarm.dismissall.label "Díbir Uile">
 
@@ -322,7 +322,7 @@
 <!ENTITY calendarproperties.refreshInterval.manual.label "De Láimh">
 <!ENTITY calendarproperties.name.label "Teideal:">
 <!ENTITY calendarproperties.readonly.label "Inléite Amháin">
-<!ENTITY calendarproperties.firealarms.label "Taispeáin Aláraim">
+<!ENTITY calendarproperties.firealarms.label "Taispeáin Meabhrúcháin">
 <!ENTITY calendarproperties.cache.label "Taisce (TRIALACH)">
 <!ENTITY calendarproperties.enabled.label "Cumasaigh an féilire seo">
 <!ENTITY calendarproperties.forceDisabled.label "Níorbh fhéidir soláthraí an fhéilire seo a aimsiú. Tarlaíonn sé seo go minic má tá breiseáin áirithe díchumasaithe nó díshuiteáilte agat.">
