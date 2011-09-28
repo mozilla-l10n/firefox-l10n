@@ -5,10 +5,7 @@
 <!ENTITY feedback.feedback.good         "Bra">
 <!ENTITY feedback.feedback.bad          "Dårlig">
 
-<!ENTITY feedback.information.title     "Mer informasjon">
-<!ENTITY feedback.about.title           "Om denne betaen">
-<!ENTITY feedback.about.button          "Gå til siden">
-
 <!ENTITY feedback.tools.title           "Verktøy">
+<!ENTITY feedback.allowTelemetry.title  "Send ytelsesdata">
 <!ENTITY feedback.forceCompat.title     "Tving kompatibilitet med utvidelser">
 <!ENTITY feedback.errorConsole.title    "Slå på feilkonsollet">
