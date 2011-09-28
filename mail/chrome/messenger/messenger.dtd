@@ -84,13 +84,13 @@
 <!ENTITY undeleteMsgCmd.accesskey "r">
 <!ENTITY deleteMsgsCmd.label "Eliminar mensagens">
 <!ENTITY deleteMsgsCmd.accesskey "E">
-<!ENTITY undeleteMsgsCmd.label "Restaurar mensagens seleccionadas">
+<!ENTITY undeleteMsgsCmd.label "Restaurar mensagens selecionadas">
 <!ENTITY undeleteMsgsCmd.accesskey "r">
 <!ENTITY deleteFolderCmd.label "Eliminar pasta...">
 <!ENTITY deleteFolderCmd.accesskey "I">
 <!ENTITY unsubscribeNewsgroupCmd.label "Cancelar inscrição">
 <!ENTITY unsubscribeNewsgroupCmd.accesskey "c">
-<!ENTITY selectMenu.label "Seleccionar">
+<!ENTITY selectMenu.label "Selecionar">
 <!ENTITY selectMenu.accesskey "S">
 <!ENTITY all.label "Todos">
 <!ENTITY all.accesskey "T">
