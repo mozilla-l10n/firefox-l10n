@@ -1,14 +1,13 @@
-<!ENTITY addonsMgr.label               "Shtesa">
-<!ENTITY manageAddonsDescWin.label     "Ndryshoni mundësitë për shtesat tuaja">
-<!ENTITY manageAddonsDescUnix2.label   "Ndryshoni parapëlqimet për shtesat tuaja">
-<!ENTITY manageAddons.label            "Administroni Shtesa…">
-<!ENTITY manageAddons.accesskey        "A">
 <!ENTITY startup.label             "Nisje">
+
 <!ENTITY startupPage.label         "Kur niset &brandShortName;-i:">
 <!ENTITY startupPage.accesskey     "K">
 <!ENTITY startupHomePage.label     "Shfaq faqen time hyrëse">
 <!ENTITY startupBlankPage.label    "Shfaq një faqe bosh">
 <!ENTITY startupLastSession.label  "Shfaq dritaren dhe skedat e mia të herës së fundit">
+<!ENTITY restoreOnDemand.label     "Mos ngarko skeda pa u zgjedhur një">
+<!ENTITY restoreOnDemand.accesskey "l">
+
 <!ENTITY homepage.label            "Faqe Hyrëse:">
 <!ENTITY homepage.accesskey        "H">
 <!ENTITY useCurrentPage.label      "Përdor Faqen e Çastit">
@@ -18,7 +17,9 @@
 <!ENTITY useBookmark.accesskey     "F">
 <!ENTITY restoreDefault.label      "Riktheje te Parazgjedhja">
 <!ENTITY restoreDefault.accesskey  "P">
+
 <!ENTITY downloads.label     "Shkarkime">
+
 <!ENTITY showWhenDownloading.label     "Shfaq dritaren e Shkarkimeve kur shkarkohet një kartelë">
 <!ENTITY showWhenDownloading.accesskey "D">
 <!ENTITY closeWhenDone.label "Mbylle kur përfundohen tërë shkarkimet">
@@ -31,3 +32,9 @@
 <!ENTITY chooseFolderMac.accesskey    "Z">
 <!ENTITY alwaysAsk.label "Pyetmë përherë ku të ruhen kartelat">
 <!ENTITY alwaysAsk.accesskey "y">
+
+<!ENTITY addonsMgr.label               "Shtesa">
+<!ENTITY manageAddonsDescWin.label     "Ndryshoni mundësitë për shtesat tuaja">
+<!ENTITY manageAddonsDescUnix2.label   "Ndryshoni parapëlqimet për shtesat tuaja">
+<!ENTITY manageAddons.label            "Administroni Shtesa…">
+<!ENTITY manageAddons.accesskey        "A">

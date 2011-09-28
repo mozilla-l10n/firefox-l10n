@@ -11,15 +11,16 @@
 <!ENTITY manageAccount.label          "Administroni Llogarinë">
 <!ENTITY manageAccount.accesskey      "A">
 <!ENTITY viewQuota.label              "Shihni Kuotat">
-<!ENTITY changePassword.label         "Ndryshoni Fjalëkalimin">
+<!ENTITY changePassword2.label        "Ndryshoni Fjalëkalimin…">
 <!ENTITY mySyncKey.label              "Kyçi Im për Sync-un">
-<!ENTITY resetSync.label              "Rikthe Sync-un te Parazgjedhjet">
+<!ENTITY resetSync2.label             "Rirregulloni Sync-un…">
+
 <!ENTITY addDevice.label              "Shtoni një Pajisje">
 
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label       "Emri i Kompjuterit:">
 <!ENTITY syncComputerName.accesskey   "E">
-<!ENTITY deactivateDevice.label       "Çaktivizoje Këtë Pajisje">
+<!ENTITY unlinkDevice.label           "Shkëpute Këtë Pajisje">
 
 <!ENTITY syncMy.label               "Njëkohëso">
 <!ENTITY engine.bookmarks.label     "Faqerojtësit e Mij">
