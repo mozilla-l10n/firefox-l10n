@@ -5,6 +5,9 @@
 <!ENTITY startupHomePage.label     "Vis startsida">
 <!ENTITY startupBlankPage.label    "Vis tom side">
 <!ENTITY startupLastSession.label  "Vis vindauge og faner som vart brukte sist">
+<!ENTITY restoreOnDemand.label     "Ikkje last nye faner før dei vert valde">
+<!ENTITY restoreOnDemand.accesskey "l">
+
 <!ENTITY homepage.label            "Startside:">
 <!ENTITY homepage.accesskey        "a">
 <!ENTITY useCurrentPage.label      "Bruk open nettside">
