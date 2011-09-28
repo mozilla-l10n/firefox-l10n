@@ -49,13 +49,6 @@
 <!ENTITY pageInfoCmd.accesskey "i">
 <!ENTITY pageInfoCmd.commandkey "i">
 
-<!ENTITY applyTheme.label "Motivy vzhledu">
-<!ENTITY applyTheme.accesskey "M">
-<!ENTITY getNewThemesCmd.label "Získat nový motiv">
-<!ENTITY getNewThemesCmd.accesskey "Z">
-<!ENTITY getPersonasCmd.label "Získat Personas">
-<!ENTITY getPersonasCmd.accesskey "P">
-
 <!-- Go Menu -->
 <!ENTITY goMenu.label "Přejít">
 <!ENTITY goMenu.accesskey "p">
