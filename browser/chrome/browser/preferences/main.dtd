@@ -5,16 +5,16 @@
 <!ENTITY startupHomePage.label     "Mostrar a minha página inicial">
 <!ENTITY startupBlankPage.label    "Mostrar uma página em branco">
 <!ENTITY startupLastSession.label  "Mostrar as minhas janelas e separadores abertos da última vez">
-<!ENTITY restoreOnDemand.label     "Não carregar separadores até os seleccionar">
+<!ENTITY restoreOnDemand.label     "Não carregar separadores até os selecionar">
 <!ENTITY restoreOnDemand.accesskey "l">
 
 <!ENTITY homepage.label            "Página Inicial:">
 <!ENTITY homepage.accesskey        "P">
 <!ENTITY useCurrentPage.label      "Utilizar a página actual">
 <!ENTITY useCurrentPage.accesskey  "u">
-<!ENTITY useMultiple.label         "Utilizar as páginas actuais">
-<!ENTITY useBookmark.label         "Utilizar marcador">
-<!ENTITY useBookmark.accesskey     "m">
+<!ENTITY useMultiple.label         "Utilizar as páginas atuais">
+<!ENTITY chooseBookmark.label      "Utilizar marcador">
+<!ENTITY chooseBookmark.accesskey  "m">
 <!ENTITY restoreDefault.label      "Repor valor de origem">
 <!ENTITY restoreDefault.accesskey  "R">
 
