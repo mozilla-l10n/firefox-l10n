@@ -16,3 +16,8 @@
 <!ENTITY  sending_crash_report "Send krasjrapport \u2026">
 <!ENTITY  exit_label "Avslutt">
 <!ENTITY  continue_label "Fortsett">
+
+<!ENTITY  launcher_shortcuts_title "&brandShortName; nett-apper">
+<!ENTITY  launcher_shortcuts_empty "Fant ingen nett-apper">
+
+<!ENTITY choose_file "Velg fil">
