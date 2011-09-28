@@ -224,6 +224,8 @@
 <!ENTITY bodySanitized.accesskey "E">
 <!ENTITY bodyAsPlaintext.label "Rein tekst">
 <!ENTITY bodyAsPlaintext.accesskey "R">
+<!ENTITY bodyAllParts.label "Alle Bod-delar">
+<!ENTITY bodyAllParts.accesskey "A">
 
 <!ENTITY bodyMenuFeed.label "Vis nyhendekjelde-meldingskroppen som">
 <!ENTITY bodyMenuFeed.accesskey "s">

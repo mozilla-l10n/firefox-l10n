@@ -16,3 +16,8 @@
 <!ENTITY  sending_crash_report "Sender krasjrapport\u2026">
 <!ENTITY  exit_label "Avslutt">
 <!ENTITY  continue_label "Hald fram">
+
+<!ENTITY  launcher_shortcuts_title "&brandShortName; Nett-appar">
+<!ENTITY  launcher_shortcuts_empty "Ingen nett-appar vart funne">
+
+<!ENTITY choose_file "Vel fil">
