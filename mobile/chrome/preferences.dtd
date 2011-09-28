@@ -21,3 +21,4 @@
 <!ENTITY homepage.default                          "Inicio de &brandShortName;">
 <!ENTITY homepage.currentpage                      "Usar a páxina actual">
 <!ENTITY showCharsetEncoding.title                 "Mostrar a codificación de caracteres">
+<!ENTITY actionbar.default                         "Configuracións do &brandShortName;">
