@@ -7,6 +7,7 @@
 <!ENTITY go.label              "Gå">
 <!ENTITY star.label            "Legg til bokmerke">
 
+<!ENTITY showTabs.label        "Vis faner">
 <!ENTITY newtab.label          "Ny fane">
 <!ENTITY closetab.label        "Lat att fane">
 
@@ -15,6 +16,7 @@
 <!ENTITY copyAll.label         "Kopier alt">
 <!ENTITY copylink.label        "Kopier lenkjeadresse">
 <!ENTITY paste.label           "Lim inn">
+<!ENTITY pasteAndGo.label      "Lim inn og opne">
 <!ENTITY delete.label          "Slett">
 <!ENTITY selectAll.label       "Merk alt">
 <!ENTITY noSuggestions.label   "(Ingen forslag)">
@@ -67,6 +69,7 @@
 <!ENTITY bookmarkPopup.label       "Sida er bokmerka">
 <!ENTITY bookmarkRemove.label      "Fjern">
 <!ENTITY bookmarkEdit.label        "Rediger">
+<!ENTITY bookmarkShortcut.label    "Legg til på  hovudskjermen">
 
 <!ENTITY identity.unverifiedsite2 "Denne sida har ingen identitetsinformasjon.">
 <!ENTITY identity.connectedTo2 "Du er tilkopla">
@@ -92,6 +95,7 @@
 <!ENTITY contextOpenInNewTab.label    "Opne lenkje i ny fane">
 <!ENTITY contextSaveLink.label        "Lagre lenkje">
 <!ENTITY contextSaveImage.label       "Lagre bilete">
+<!ENTITY contextCopyLink.label        "Kopier lenkje">
 <!ENTITY contextShareLink.label       "Del lenkje">
 <!ENTITY contextShareImage.label      "Del bilete">
 <!ENTITY contextBookmarkLink.label    "Bokmerk lenkje">
@@ -102,6 +106,7 @@
 <!ENTITY contextFullScreen.label      "Fullskjerm">
 <!ENTITY contextEditBookmark.label    "Rediger">
 <!ENTITY contextRemoveBookmark.label  "Slett">
+<!ENTITY contextShortcutBookmark.label "Legg til på hovudskjermen">
 
 <!ENTITY pageactions.saveas.pdf      "Lagre som PDF">
 <!ENTITY pageactions.share.page      "Del side">
@@ -111,5 +116,6 @@
 <!ENTITY pageactions.findInPage      "Finn på sida">
 <!ENTITY pageactions.search.addNew   "Legg til søkjemotor">
 <!ENTITY pageactions.charEncoding    "Teiknkoding">
+<!ENTITY pageactions.webapps.install "Installer som App">
 
 <!ENTITY appMenu.siteOptions         "Nettstadsval">
