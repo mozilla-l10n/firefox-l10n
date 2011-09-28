@@ -5,10 +5,10 @@
 <!ENTITY reflowZoom.title                          "Reformater tekst ved zooming">
 <!ENTITY showImages.title                          "Vis bilder">
 <!ENTITY enableJavaScript.title                    "Slå på JavaScript">
-<!ENTITY enablePlugins.title                       "Slå på programtillegg">
 <!ENTITY privacy.title                             "Personvern og sikkerhet">
 <!ENTITY allowCookies.title                        "Tillat infokapsler">
 <!ENTITY doNotTrack.title                          "Be nettsteder ikke spore meg">
+<!ENTITY masterPassword.title                      "Bruk hovedpassord">
 <!ENTITY clearPrivateData2.title                   "Slett privat data">
 <!ENTITY clearPrivateData.button                   "Slett">
 <!ENTITY rememberPasswords.title                   "Husk passord">
@@ -20,4 +20,4 @@
 <!ENTITY homepage.none                             "Tom side">
 <!ENTITY homepage.default                          "&brandShortName; Start">
 <!ENTITY homepage.currentpage                      "Bruk aktiv side">
-<!ENTITY showCharset.title                         "Vis tegnkoding">
+<!ENTITY showCharsetEncoding.title                 "Vis tegnkoding">

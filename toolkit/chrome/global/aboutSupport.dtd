@@ -1,8 +1,7 @@
 <!ENTITY aboutSupport.pageTitle "Informasjon for feilsøking">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
-<!ENTITY aboutSupport.pageSubtitle "
-  Denne siden inneholder teknisk informasjon som kan være nyttig når du
+<!ENTITY aboutSupport.pageSubtitle "  Denne siden inneholder teknisk informasjon som kan være nyttig når du
   forsøker å løse et problem. Besøk også <a id='supportLink'>brukerstøttenettstedet</a> for
   å få svar på ofte stilte spørsmål om &brandShortName;.
 ">
@@ -21,6 +20,7 @@
 <!ENTITY aboutSupport.appBasicsBuildConfig "Bygginnstillinger">
 <!ENTITY aboutSupport.appBasicsUserAgent "Brukeragent">
 <!ENTITY aboutSupport.appBasicsCrashIDs "Krasjrapporter">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Minneforbruk">
 
 <!ENTITY aboutSupport.show.label "Åpne profilmappen">
 
