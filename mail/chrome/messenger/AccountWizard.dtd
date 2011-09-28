@@ -5,11 +5,11 @@
 
 <!-- Entities for Account Type page -->
 
-<!ENTITY accountSetupInfo.label "Para poder receber mensagens,tem que configurar primeiro uma conta de correio ou de um Grupo de Discussão.">
+<!ENTITY accountSetupInfo2.label "Para poder receber mensagens,tem que configurar primeiro uma conta de correio ou de um Grupo de Discussão.">
 <!ENTITY accountTypeTitle.label "Configurar Nova Conta">
-<!ENTITY accountTypeDesc.label "Este Assistente vai reunir as informações necessárias para configurar uma conta de correio ou de um Grupo de Discussão. Se não souber a informação necessária, contacte o seu administrador de Sistema ou Fornecedor de Serviço Internet.">
+<!ENTITY accountTypeDesc2.label "Este Assistente vai reunir as informações necessárias para configurar uma conta de correio ou de um Grupo de Discussão. Se não souber a informação necessária, contacte o seu administrador de Sistema ou Fornecedor de Serviço Internet.">
 <!ENTITY accountTypeDirections.label "Seleccione o tipo de conta que você deseja configurar:">
-<!ENTITY accountTypeMail.label "Conta de Correio Electrónico">
+<!ENTITY accountTypeMail.label "Conta de Correio Eletrónico">
 <!ENTITY accountTypeMail.accesskey "c">
 <!ENTITY accountTypeNews.label "Conta de Grupo de Discussão">
 <!ENTITY accountTypeNews.accesskey "n">
@@ -29,7 +29,7 @@
 <!ENTITY fullnameLabel.label "O seu Nome:">
 <!ENTITY fullnameLabel.accesskey "N">
 
-<!ENTITY emailLabel.label "Endereço de Correio Electrónico:">
+<!ENTITY emailLabel.label "Endereço de Correio Eletrónico:">
 <!ENTITY emailLabel.accesskey "E">
 
 <!-- Entities for Server page -->
@@ -37,8 +37,8 @@
 <!ENTITY serverTitle.label "Informação do Servidor">
 <!ENTITY incomingServerTypeDesc.label "Seleccione o tipo de servidor de recepção que está a usar.">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServerNameDesc.label "Introduza o nome do seu Servidor de recepção (exemplo: &quot;pop.example.net&quot;).">
-<!ENTITY incomingServerLabel.label "Servidor de Recepção:">
+<!ENTITY incomingServerNameDesc.label "Introduza o nome do seu Servidor de receção (exemplo: &quot;pop.example.net&quot;).">
+<!ENTITY incomingServerLabel.label "Servidor de Receção:">
 <!ENTITY incomingServerLabel.accesskey "R">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "Forneça o nome do servidor de notícias NNTP (exemplo: &quot;notícias.exemplo.com&quot;).">
@@ -67,12 +67,12 @@
 <!-- Entities for Login page -->
 
 <!ENTITY loginTitle.label "Nome de utilizador">
-<!ENTITY usernameDesc.label "Forneça o nome de utilizador com o qual você receberá o correio electrónico">
+<!ENTITY usernameDesc.label "Forneça o nome de utilizador com o qual você receberá o correio eletrónico">
 <!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
 <!ENTITY usernameExample.label "(exemplo: &quot;jsmith&quot;).">
 <!ENTITY usernameLabel.label "Nome de utilizador:">
 <!ENTITY usernameLabel.accesskey "U">
-<!ENTITY usernameSmtpDesc.label "Forneça o nome de utilizador do servidor SMTP (usado para enviar correio electrónico) fornecido pelo seu fornecedor de correio electrónico. Normalmente é o mesmo nome de utilizador usado para receber mensagens.">
+<!ENTITY usernameSmtpDesc.label "Forneça o nome de utilizador do servidor SMTP (usado para enviar correio eletrónico) fornecido pelo seu fornecedor de correio eletrónico. Normalmente é o mesmo nome de utilizador usado para receber mensagens.">
 <!ENTITY usernameSmtpLabel.label "Nome de utilizador do servidor SMTP:">
 <!ENTITY usernameSmtpLabel.accesskey "N">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
@@ -100,8 +100,8 @@
 
 <!ENTITY completionTitle.label "Parabéns!">
 <!ENTITY completionText.label "Verifique se a informação em baixo está correcta.">
-<!ENTITY serverTypePrefix.label "Tipo de Servidor de Recepção:">
-<!ENTITY serverNamePrefix.label "Nome do Servidor de Recepção:">
+<!ENTITY serverTypePrefix.label "Tipo de Servidor de Receção:">
+<!ENTITY serverNamePrefix.label "Nome do Servidor de Receção:">
 <!ENTITY smtpServerNamePrefix.label "Nome de correio a Enviar(SMTP):">
 <!ENTITY newsServerNamePrefix.label "Nome do Servidor de Notícias (NNTP):">
 <!ENTITY downloadOnLogin.label "Transferir as mensagem agora">

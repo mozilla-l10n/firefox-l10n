@@ -10,7 +10,7 @@
 <!ENTITY newMessage.key "m">
 <!ENTITY newMessageCmd2.key "n">
 <!ENTITY newMessage.accesskey "M">
-<!ENTITY newContact.label "Contacto do Livro de Endereços...">
+<!ENTITY newContact.label "Contato do Livro de Endereços...">
 <!ENTITY newContact.accesskey "c">
 <!ENTITY attachMenu.label "Anexar">
 <!ENTITY attachMenu.accesskey "x">
@@ -92,6 +92,8 @@
 <!ENTITY viewMenu.accesskey "v">
 <!ENTITY viewToolbarsMenuNew.label "Barras de Ferramentas">
 <!ENTITY viewToolbarsMenuNew.accesskey "B">
+<!ENTITY menubarCmd.label "Barra de menu">
+<!ENTITY menubarCmd.accesskey "m">
 <!ENTITY showCompositionToolbarCmd.label "Barra de Ferramentas de Composição">
 <!ENTITY showCompositionToolbarCmd.accesskey "o">
 <!ENTITY showFormattingBarCmd.label "Barra de formatação">
@@ -101,7 +103,7 @@
 <!ENTITY customizeToolbar.label "Personalizar...">
 <!ENTITY customizeToolbar.accesskey "P">
 
-<!ENTITY addressSidebar.label "Painel de contactos">
+<!ENTITY addressSidebar.label "Painel de contatos">
 <!ENTITY addressSidebar.accesskey "a">
 
 <!-- Format Menu -->
@@ -191,7 +193,7 @@
 <!ENTITY sendButton.tooltip "Enviar esta mensagem agora">
 <!ENTITY sendlaterButton.tooltip "Enviar mensagem mais tarde">
 <!ENTITY quoteButton.tooltip "Citar a mensagem anterior">
-<!ENTITY addressButton.tooltip "Seleccionar destinatários no livro de endereços">
+<!ENTITY addressButton.tooltip "Selecionar destinatários no livro de endereços">
 <!ENTITY attachButton.tooltip "Incluir um anexo">
 <!ENTITY spellingButton.tooltip "Verificar escrita na selecção ou na mensagem inteira">
 <!ENTITY saveButton.tooltip "Guardar esta mensagem">
@@ -273,5 +275,5 @@
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!-- Title for the address picker panel -->
-<!ENTITY addressesSidebarTitle.label "Contactos">
+<!ENTITY addressesSidebarTitle.label "Contatos">
 
