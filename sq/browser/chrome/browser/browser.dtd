@@ -65,6 +65,8 @@
 <!ENTITY forwardCmd.label             "Para">
 <!ENTITY forwardCmd.accesskey         "P">
 <!ENTITY forwardButton.tooltip        "Shko para një faqe">
+<!ENTITY backForwardButtonMenu.tooltip "Djathtasklikojeni ose tërhiqeni poshtë që të shfaqet historiku">
+<!ENTITY backForwardButtonMenuMac.tooltip "Tërhiqeni poshtë që të shfaqet historiku">
 <!ENTITY reloadCmd.label              "Ringarkoje">
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY reloadButton.tooltip         "Ringarko faqen e tanishme">
@@ -212,7 +214,9 @@
   
  -->
 <!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+
 <!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmd.label            "Hape Lidhjen në Dritare të Re">
