@@ -13,9 +13,9 @@
 <!ENTITY manageAccount.label          "Xestionar conta">
 <!ENTITY manageAccount.accesskey      "a">
 <!ENTITY viewQuota.label              "Ver cota">
-<!ENTITY changePassword2.label         "Cambiar contrasinal…">
-<!ENTITY mySyncKey.label              "A miña chave de sincronización">
-<!ENTITY resetSync2.label              "Restabelecer sincronización…">
+<!ENTITY changePassword2.label        "Cambiar contrasinal…">
+<!ENTITY myRecoveryKey.label          "A miña chave de recuperación">
+<!ENTITY resetSync2.label             "Restabelecer sincronización…">
 
 <!ENTITY addDevice.label              "Engadir un dispositivo">
 
