@@ -5,9 +5,9 @@
 <!-- Entities for Account Type page -->
 
 
-<!ENTITY accountSetupInfo.label "Chun teachtaireachtaí a fháil, ní mór duit cuntas Ríomhphoist nó Nuachta a chruthú ar dtús.">
+<!ENTITY accountSetupInfo2.label "Chun teachtaireachtaí a fháil, ní mór duit cuntas a chruthú ar dtús.">
 <!ENTITY accountTypeTitle.label "Cruthú Cuntais Nua">
-<!ENTITY accountTypeDesc.label "Baileoidh an Treoraí seo an fhaisnéis atá riachtanach chun cuntas ríomhphoist nó nuachta a chruthú. Mura bhfuil an fhaisnéis iarrtha ar eolas agat, téigh i dteagmháil le do Riarthóir Córais nó le do Sholáthraí Seirbhísí Idirlín.">
+<!ENTITY accountTypeDesc2.label "Baileoidh an Treoraí seo an fhaisnéis atá riachtanach chun cuntas a chruthú. Mura bhfuil an fhaisnéis iarrtha ar eolas agat, téigh i dteagmháil le do Riarthóir Córais nó le do Sholáthraí Seirbhísí Idirlín.">
 <!ENTITY accountTypeDirections.label "Roghnaigh cineál an chuntais is mian leat a shocrú:">
 <!ENTITY accountTypeMail.label "Cuntas Ríomhphoist">
 <!ENTITY accountTypeMail.accesskey "m">

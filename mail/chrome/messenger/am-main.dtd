@@ -11,6 +11,7 @@
 <!ENTITY email.accesskey "e">
 <!ENTITY replyTo.label "Seoladh Freagartha (Reply-to):">
 <!ENTITY replyTo.accesskey "S">
+<!ENTITY replyTo.placeholder "Seolfaidh faighteoirí freagraí chuig an seoladh seo">
 <!ENTITY organization.label "Eagras:">
 <!ENTITY organization.accesskey "E">
 <!ENTITY signatureText.label "Téacs an tsínithe:">

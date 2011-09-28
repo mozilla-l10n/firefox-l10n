@@ -92,6 +92,8 @@
 <!ENTITY viewMenu.accesskey "A">
 <!ENTITY viewToolbarsMenuNew.label "Barraí Uirlisí">
 <!ENTITY viewToolbarsMenuNew.accesskey "U">
+<!ENTITY menubarCmd.label "Barra Roghchláir">
+<!ENTITY menubarCmd.accesskey "B">
 <!ENTITY showCompositionToolbarCmd.label "Barra Cumadóireachta">
 <!ENTITY showCompositionToolbarCmd.accesskey "u">
 <!ENTITY showFormattingBarCmd.label "Barra Formáidithe">
