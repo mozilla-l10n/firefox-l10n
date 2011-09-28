@@ -11,15 +11,11 @@
 <!ENTITY manageAccount.label          "Account beheare">
 <!ENTITY manageAccount.accesskey      "a">
 <!ENTITY viewQuota.label              "Toan kwota">
-<!ENTITY changePassword.label         "Wachtwurd wizigje">
+<!ENTITY changePassword2.label         "Wachtwurd wizigje…">
 <!ENTITY mySyncKey.label              "Myn Sync-kaai">
-<!ENTITY resetSync.label              "Sync werinisjalisearje">
-<!ENTITY addDevice.label              "In apparaat tafoegje">
+<!ENTITY resetSync2.label              "Sync werinisjalisearje…">
 
-<!-- Device Settings -->
-<!ENTITY syncComputerName.label       "Kompjûternamme:">
-<!ENTITY syncComputerName.accesskey   "k">
-<!ENTITY deactivateDevice.label       "Deaktivearje dit apparaat">
+<!ENTITY addDevice.label              "In apparaat tafoegje">
 
 <!ENTITY syncMy.label               "Sync myn">
 <!ENTITY engine.bookmarks.label     "Blêdwizers">
@@ -33,6 +29,10 @@
 <!ENTITY engine.prefs.label         "Foarkarren">
 <!ENTITY engine.prefs.accesskey     "F">
 
+<!-- Device Settings -->
+<!ENTITY syncComputerName.label       "Kompjûternamme:">
+<!ENTITY syncComputerName.accesskey   "k">
+<!ENTITY unlinkDevice.label           "Untkeppelje dit apparaat">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Tsjinstbetingsten (en)">
