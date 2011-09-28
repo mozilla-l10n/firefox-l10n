@@ -2,6 +2,5 @@ google
 bing
 bolcom-fy-NL
 marktplaats-fy-NL
-vandale-fy-NL
 wikipedia-fy-NL
 yahoo-fy-NL
