@@ -13,8 +13,8 @@
 <!ENTITY useCurrentPage.label      "Përdor Faqen e Çastit">
 <!ENTITY useCurrentPage.accesskey  "Ç">
 <!ENTITY useMultiple.label         "Përdor Faqet e Çastit">
-<!ENTITY useBookmark.label         "Përdor Faqerojtës">
-<!ENTITY useBookmark.accesskey     "F">
+<!ENTITY chooseBookmark.label      "Përdorni Faqerojtës…">
+<!ENTITY chooseBookmark.accesskey  "F">
 <!ENTITY restoreDefault.label      "Riktheje te Parazgjedhja">
 <!ENTITY restoreDefault.accesskey  "P">
 

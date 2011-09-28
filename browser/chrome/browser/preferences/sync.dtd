@@ -12,7 +12,7 @@
 <!ENTITY manageAccount.accesskey      "A">
 <!ENTITY viewQuota.label              "Shihni Kuotat">
 <!ENTITY changePassword2.label        "Ndryshoni Fjalëkalimin…">
-<!ENTITY mySyncKey.label              "Kyçi Im për Sync-un">
+<!ENTITY myRecoveryKey.label          "Kyçi Im për Riparimin">
 <!ENTITY resetSync2.label             "Rirregulloni Sync-un…">
 
 <!ENTITY addDevice.label              "Shtoni një Pajisje">
