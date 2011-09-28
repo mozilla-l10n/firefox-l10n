@@ -7,7 +7,7 @@
 <!ENTITY testpilot.settings.readyToSubmit.label     "Um estudo está pronto para ser submetido">
 <!ENTITY testpilot.settings.newStudy.label          "Existe um novo estudo">
 <!ENTITY testpilot.settings.hasNewResults.label     "Um estudo tem novos resultados">
-<!ENTITYtestpilot.settings.alwaysSubmitData.shortLabel "Submeter sempre os meus dados (não me perguntar)">
+<!ENTITY testpilot.settings.alwaysSubmitData.shortLabel "Submeter sempre os meus dados (não me perguntar)">
 <!ENTITY testpilot.allYourStudies.label             "Todos os seus estudos...">
 <!ENTITY testpilot.about.label                      "Sobre o Test Pilot">
 
