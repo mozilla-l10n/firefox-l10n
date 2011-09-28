@@ -91,7 +91,7 @@
 <!ENTITY selectFlaggedCmd.label "Messaggi speciali">
 <!ENTITY selectFlaggedCmd.accesskey "S">
 <!ENTITY menuFavoriteFolder.label "Cartella preferita">
-<!ENTITY menuFavoriteFolder.accesskey "p">
+<!ENTITY menuFavoriteFolder.accesskey "f">
 <!ENTITY folderPropsCmd.label "Proprietà…">
 <!ENTITY folderPropsFolderCmd.label "Proprietà della cartella…">
 <!ENTITY folderPropsNewsgroupCmd.label "Proprietà del gruppo di discussione…">
@@ -125,7 +125,7 @@
 <!ENTITY folderView.label "Cartelle">
 <!ENTITY folderView.accesskey "a">
 <!ENTITY unifiedFolders.label "Unificate">
-<!ENTITY unifiedFolders.accesskey "n">
+<!ENTITY unifiedFolders.accesskey "f">
 <!ENTITY allFolders.label "Tutte">
 <!ENTITY allFolders.accesskey "T">
 <!ENTITY unreadFolders.label "Con messaggi non letti">
@@ -391,7 +391,7 @@
 <!ENTITY markAsJunkCmd.accesskey "I">
 <!ENTITY markAsJunkCmd.key "j">
 <!ENTITY markAsNotJunkCmd.label "Non indesiderato">
-<!ENTITY markAsNotJunkCmd.accesskey "R">
+<!ENTITY markAsNotJunkCmd.accesskey "o">
 <!ENTITY markAsNotJunkCmd.key "j">
 <!ENTITY recalculateJunkScoreCmd.label "Esegui i controlli di posta indesiderata">
 <!ENTITY recalculateJunkScoreCmd.accesskey "E">
