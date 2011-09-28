@@ -5,7 +5,7 @@
 <!ENTITY fileMenu.accesskey "f">
 <!ENTITY newMenu.label "Novo">
 <!ENTITY newMenu.accesskey "N">
-<!ENTITY newContact.label "Contacto do livro de endereços...">
+<!ENTITY newContact.label "Contato do livro de endereços...">
 <!ENTITY newContact.accesskey "C">
 <!ENTITY newContact.key "N">
 <!ENTITY newListCmd.label "Mailing List...">
@@ -25,7 +25,7 @@
 <!ENTITY closeCmd.accesskey "f">
 <!ENTITY printSetupCmd.label "Configurar página...">
 <!ENTITY printSetupCmd.accesskey "c">
-<!ENTITY printPreviewContactCmd.label "Pré-Visualizar contacto">
+<!ENTITY printPreviewContactCmd.label "Pré-Visualizar contato">
 <!ENTITY printPreviewContactCmd.accesskey "z">
 <!ENTITY printPreviewAddressBook.label "Pré-Visualizar Livro de Endereços">
 <!ENTITY printPreviewAddressBook.accesskey "P">
@@ -61,7 +61,7 @@
 <!ENTITY deleteListCmd.label "Eliminar Lista">
 <!ENTITY deleteListsCmd.label "Eliminar Listas">
 <!ENTITY deleteItemsCmd.label "Eliminar Itens">
-<!ENTITY selectAllCmd.label "Seleccionar tudo">
+<!ENTITY selectAllCmd.label "Selecionar tudo">
 <!ENTITY selectAllCmd.key "a">
 <!ENTITY searchAddressesCmd.key "F">
 <!ENTITY selectAllCmd.accesskey "s">
@@ -118,7 +118,7 @@
 <!ENTITY preferencesCmdUnix.accesskey "p">
 
 <!-- Address Book Toolbar and Context Menus -->  
-<!ENTITY newContactButton.label "Novo contacto">
+<!ENTITY newContactButton.label "Novo contato">
 <!ENTITY newContactButton.accesskey "c">
 <!ENTITY newlistButton.label "Nova lista">
 <!ENTITY newlistButton.accesskey "L">
@@ -134,7 +134,7 @@
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip "Criar um novo contacto no livro de endereços">
 <!ENTITY newlistButton.tooltip "Criar uma nova lista">
-<!ENTITY editButton2.tooltip "Editar o item seleccionado">
+<!ENTITY editButton2.tooltip "Editar o item selecionado">
 <!ENTITY newmsgButton.tooltip "Enviar uma mensagem de correio">
 <!ENTITY newIM.tooltip "Enviar uma mensagem instantânea ou de conversação">
 <!ENTITY deleteButton2.tooltip "Apagar o item">
@@ -143,7 +143,7 @@
 <!ENTITY dirTreeHeader.label "Livros de Endereços">
 
 <!-- Search Bar -->
-<!ENTITY SearchNameOrEmail.label "Nome ou Correio electrónico">
+<!ENTITY SearchNameOrEmail.label "Nome ou Correio eletrónico">
 <!ENTITY SearchNameOrEmail.accesskey "R">
 <!ENTITY advancedButton.tooltip "Pesquisa avançada de endereços">
 <!ENTITY quickSearchCmd.key "q">
@@ -152,7 +152,7 @@
 <!-- Results Pane -->
 <!ENTITY GeneratedName.label "Nome">
 <!ENTITY GeneratedName.accesskey "N">
-<!ENTITY PrimaryEmail.label "Correio Electrónico">
+<!ENTITY PrimaryEmail.label "Correio Eletrónico">
 <!ENTITY PrimaryEmail.accesskey "E">
 <!ENTITY ScreenName.label "Nome a Mostrar">
 <!ENTITY ScreenName.accesskey "M">
@@ -160,7 +160,7 @@
 <!ENTITY Company.accesskey "m">
 <!ENTITY NickName.label "Alcunha">
 <!ENTITY NickName.accesskey "a">
-<!ENTITY SecondEmail.label "Correio Electrónico alternativo">
+<!ENTITY SecondEmail.label "Correio Eletrónico alternativo">
 <!ENTITY SecondEmail.accesskey "r">
 <!ENTITY Department.label "Departamento">
 <!ENTITY Department.accesskey "r">

@@ -11,7 +11,7 @@
 <!ENTITY masterPassword.title                      "Usar senha mestra">
 <!ENTITY clearPrivateData2.title                   "Limpar histórico de navegação">
 <!ENTITY clearPrivateData.button                   "Limpar">
-<!ENTITY rememberPasswords.title                   "lembrar senhas">
+<!ENTITY rememberPasswords.title                   "Lembrar senhas">
 <!ENTITY language.title                            "Idioma">
 <!ENTITY language.auto                             "Auto-detectar">
 <!ENTITY defaultBrowser.title                      "Navegador pré-definido">
