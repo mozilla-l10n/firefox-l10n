@@ -23,7 +23,7 @@
 <!ENTITY showCondensedAddresses.label 'Mostra solo il "nome visualizzato" per i contatti presenti nella rubrica'>
 <!ENTITY showCondensedAddresses.accesskey "o">
 <!ENTITY autoMarkAsRead.label "Segna automaticamente i messaggi come già letti">
-<!ENTITY autoMarkAsRead.accesskey "u">
+<!ENTITY autoMarkAsRead.accesskey "S">
 <!ENTITY markAsReadNoDelay.label "Appena visualizzati">
 <!ENTITY markAsReadNoDelay.accesskey "A">
 <!ENTITY markAsReadDelay.label "Dopo averli visualizzati per">
@@ -33,9 +33,9 @@
 <!ENTITY openMsgInNewTab.label "una nuova scheda">
 <!ENTITY openMsgInNewTab.accesskey "u">
 <!ENTITY reuseExpRadio0.label "una nuova finestra">
-<!ENTITY reuseExpRadio0.accesskey "n">
+<!ENTITY reuseExpRadio0.accesskey "u">
 <!ENTITY reuseExpRadio1.label "nella stessa finestra">
-<!ENTITY reuseExpRadio1.accesskey "s">
+<!ENTITY reuseExpRadio1.accesskey "n">
 <!ENTITY closeMsgOnMoveOrDelete.label "Chiudere la finestra (linguetta) del messaggio quando si sposta o si cancella">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
 <!ENTITY autoCheck.label "Controlla automaticamente la presenza di aggiornamenti per:">
