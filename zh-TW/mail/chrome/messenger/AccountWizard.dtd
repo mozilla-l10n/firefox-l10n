@@ -5,9 +5,9 @@
 
 <!-- Entities for Account Type page -->
 
-<!ENTITY accountSetupInfo.label "要接收郵件，您必須先設定郵件或新聞群組的帳號。">
+<!ENTITY accountSetupInfo2.label "您必須要設定帳號才能接收訊息。">
 <!ENTITY accountTypeTitle.label "設定新帳號">
-<!ENTITY accountTypeDesc.label "這個設定精靈會設定電子郵件 (Email) 或新聞群組 (Newsgroup) 的帳號。如果有地方您不知道該怎麼設，請洽詢您的系統管理員或 ISP (提供您上網服務的人)。">
+<!ENTITY accountTypeDesc2.label "這個精靈將會蒐集設定帳號所必須的資訊。若您不知道這些資訊該怎麼填，請洽詢您的系統管理員或網路服務供應商。">
 <!ENTITY accountTypeDirections.label "選擇您想要設定的帳號類型:">
 <!ENTITY accountTypeMail.label "電子郵件帳號">
 <!ENTITY accountTypeMail.accesskey "m">

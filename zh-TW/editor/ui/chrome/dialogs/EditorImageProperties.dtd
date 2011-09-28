@@ -101,6 +101,9 @@
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "在鏈結圖片外加框">
 <!ENTITY showImageLinkBorder.accessKey "B">
+<!ENTITY LinkAdvancedEditButton.label "進階編輯鏈結…">
+<!ENTITY LinkAdvancedEditButton.accessKey "L">
+<!ENTITY LinkAdvancedEditButton.tooltip "新增或編輯這個物件的 HTML 屬性、樣式資料，以及 JavaScript">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "表單">
