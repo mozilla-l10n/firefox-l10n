@@ -119,6 +119,5 @@
 <!ENTITY pageactions.findInPage      "Buscar en la página">
 <!ENTITY pageactions.search.addNew   "Agregar buscador">
 <!ENTITY pageactions.charEncoding    "Codificación de caracteres">
-<!ENTITY pageactions.webapps.install "Instalar como aplicación">
 
 <!ENTITY appMenu.siteOptions         "Opciones del sitio">
