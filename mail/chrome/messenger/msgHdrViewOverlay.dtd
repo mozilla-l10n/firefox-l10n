@@ -1,21 +1,21 @@
 <!--null-->
-<!ENTITY toField3.label "Para">
-<!ENTITY fromField3.label "De">
-<!ENTITY senderField3.label "Remitente">
+<!ENTITY toField3.label "Para ">
+<!ENTITY fromField3.label "De ">
+<!ENTITY senderField3.label "Remitente ">
 <!ENTITY organizationField3.label "Organización ">
 <!ENTITY replyToField3.label "Responder a ">
-<!ENTITY subjectField3.label "Asunto">
+<!ENTITY subjectField3.label "Asunto ">
 <!ENTITY ccField3.label "Cc ">
 <!ENTITY bccField3.label "Bcc ">
 <!ENTITY newsgroupsField3.label "Grupos de noticias ">
 <!ENTITY followupToField3.label "Redireccionar a ">
-<!ENTITY tagsHdr3.label "Etiquetas">
-<!ENTITY dateField3.label "Fecha">
-<!ENTITY userAgentField3.label "Agente de usuario">
+<!ENTITY tagsHdr3.label "Etiquetas ">
+<!ENTITY dateField3.label "Fecha ">
+<!ENTITY userAgentField3.label "Agente de usuario ">
 <!ENTITY referencesField3.label "Referencias ">
 <!ENTITY messageIdField3.label "Message ID ">
 <!ENTITY inReplyToField3.label "En respuesta a ">
-<!ENTITY originalWebsite3.label "Sitio web">
+<!ENTITY originalWebsite3.label "Sitio web ">
 <!ENTITY editMessageDescription.label "Este mensaje es un borrador">
 <!ENTITY editMessageButton.label "Editar…">
 <!ENTITY hdrArchiveButton1.label "Archivar">
@@ -45,7 +45,7 @@
 <!ENTITY otherActionsOpenConversation1.label "Abrir en la conversación">
 <!ENTITY otherActionsOpenConversation1.accesskey "c">
 <!ENTITY otherActionsOpenInNewWindow1.label "Abrir en una ventana nueva">
-<!ENTITY otherActionsOpenInNewWindow1.accesskey "w">
+<!ENTITY otherActionsOpenInNewWindow1.accesskey "v">
 <!ENTITY otherActionsOpenInNewTab1.label "Abrir en una pestaña nueva">
 <!ENTITY otherActionsOpenInNewTab1.accesskey "t">
 <!ENTITY markAsReadMenuItem1.label "Marcar como leído">

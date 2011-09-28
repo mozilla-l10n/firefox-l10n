@@ -19,7 +19,7 @@
 <!ENTITY printPreviewCmd.label "Vista preliminar">
 <!ENTITY printPreviewCmd.accesskey "V">
 <!ENTITY printCmd.label "Imprimir…">
-<!ENTITY printCmd.accesskey "e">
+<!ENTITY printCmd.accesskey "I">
 <!ENTITY printCmd.key "P">
 <!ENTITY editMenu.label "Editar">
 <!ENTITY editMenu.accesskey "E">
