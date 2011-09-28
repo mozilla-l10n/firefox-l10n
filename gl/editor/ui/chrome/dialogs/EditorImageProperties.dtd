@@ -101,6 +101,9 @@
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "Mostrar bordo arredor da imaxe ligada">
 <!ENTITY showImageLinkBorder.accessKey "M">
+<!ENTITY LinkAdvancedEditButton.label "Edición avanzada da ligazón…">
+<!ENTITY LinkAdvancedEditButton.accessKey "l">
+<!ENTITY LinkAdvancedEditButton.tooltip "Engade ou modifica atributos HTML, atributos de estilo, e JavaScript">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "Formulario">
