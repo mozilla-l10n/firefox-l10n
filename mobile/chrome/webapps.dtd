@@ -4,3 +4,4 @@
 <!ENTITY webapps.perm.offline "تخزين البيانات بلا اتصال">
 <!ENTITY webapps.perm.notifications "تنبيهات سطح المكتب">
 <!ENTITY webapps.perm.requestedHint "(مطلوب)">
+<!ENTITY webapps.add-homescreen "أضِف إلى شاشة البداية">

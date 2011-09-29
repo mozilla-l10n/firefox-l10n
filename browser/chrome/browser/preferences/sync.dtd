@@ -14,7 +14,7 @@
 <!ENTITY manageAccount.accesskey "س">
 <!ENTITY viewQuota.label "اعرض الحصة">
 <!ENTITY changePassword2.label "غيّر كلمة السر…">
-<!ENTITY mySyncKey.label "مفتاح المزامنة">
+<!ENTITY myRecoveryKey.label "مفتاح الاستعادة">
 <!ENTITY resetSync2.label "صفّر تزامُن…">
 
 <!ENTITY addDevice.label "أضِف جهازًا">

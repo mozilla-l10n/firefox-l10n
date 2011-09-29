@@ -11,6 +11,7 @@
 <!ENTITY email.accesskey "ب">
 <!ENTITY replyTo.label "عنوان الرّد:">
 <!ENTITY replyTo.accesskey "د">
+<!ENTITY replyTo.placeholder "Recipients will reply to this other address">
 <!ENTITY organization.label "المنظمة:">
 <!ENTITY organization.accesskey "ظ">
 <!ENTITY signatureText.label "نص التوقيع:">

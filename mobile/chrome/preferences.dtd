@@ -21,3 +21,4 @@
 <!ENTITY homepage.default "بداية &brandShortName;">
 <!ENTITY homepage.currentpage "استخدِم الصفحة الحالية">
 <!ENTITY showCharsetEncoding.title "اعرض ترميز الأحرف">
+<!ENTITY actionbar.default "إعدادات &brandShortName;">

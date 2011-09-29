@@ -35,43 +35,42 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField2.label "إلى">
-<!ENTITY fromField2.label "من">
-<!ENTITY senderField2.label "المرسِل">
-<!ENTITY organizationField2.label "المنظمة">
-<!ENTITY replyToField2.label "رد غلى">
+<!ENTITY toField3.label "To ">
+<!ENTITY fromField3.label "From ">
+<!ENTITY senderField3.label "Sender ">
+<!ENTITY organizationField3.label "Organization ">
+<!ENTITY replyToField3.label "Reply to ">
 
-<!ENTITY subjectField2.label "الموضوع">
-<!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
-<!ENTITY ccField2.label "cc ">
-<!ENTITY bccField2.label "نسخة كربونية مخفية إلى ">
-<!ENTITY newsgroupsField2.label "مجموعات الأخبار ">
-<!ENTITY followupToField2.label "ملحق إلى ">
-<!ENTITY tagsHdr2.label "وسوم ">
-<!ENTITY dateField2.label "التاريخ ">
-<!ENTITY userAgentField2.label "عميل المستخدم ">
-<!ENTITY referencesField2.label "المَراجع ">
-<!ENTITY messageIdField2.label "معرّف الرسالة ">
-<!ENTITY inReplyToField2.label "ردًّا على ">
-<!ENTITY originalWebsite2.label "موقع الوب ">
+<!ENTITY subjectField3.label "Subject ">
+<!ENTITY ccField3.label "Cc ">
+<!ENTITY bccField3.label "Bcc ">
+<!ENTITY newsgroupsField3.label "Newsgroups ">
+<!ENTITY followupToField3.label "Followup to ">
+<!ENTITY tagsHdr3.label "Tags ">
+<!ENTITY dateField3.label "Date ">
+<!ENTITY userAgentField3.label "User agent ">
+<!ENTITY referencesField3.label "References ">
+<!ENTITY messageIdField3.label "Message ID ">
+<!ENTITY inReplyToField3.label "In reply to ">
+<!ENTITY originalWebsite3.label "Website ">
 
 <!ENTITY editMessageDescription.label "هذه رسالة مسوّدة">
 <!ENTITY editMessageButton.label "حرّر…">
-<!ENTITY hdrArchiveButton.label "أرشِف">
-<!ENTITY hdrArchiveButton.tooltip "أرشِف هذه الرسالة">
-<!ENTITY hdrSmartReplyButton.label "ردّ ذكي">
-<!ENTITY hdrReplyButton.label "ردّ">
-<!ENTITY hdrReplyButton.tooltip "ردّ على هذه الرسالة">
-<!ENTITY hdrReplyAllButton.label "ردّ على الكل">
-<!ENTITY hdrReplyAllButton.tooltip "ردّ على المرسِل وكل المستلمين">
-<!ENTITY hdrReplyListButton.label "ردّ على القائمة">
-<!ENTITY hdrReplyListButton.tooltip "ردّ على القائمة البريدية">
-<!ENTITY hdrForwardButton.label "مرّر">
-<!ENTITY hdrForwardButton.tooltip "مرّر هذه الرسالة">
-<!ENTITY hdrJunkButton.label "سُخام">
-<!ENTITY hdrJunkButton.tooltip "عامِل هذه الرسالة كسُخام">
-<!ENTITY hdrTrashButton.label "احذف">
-<!ENTITY hdrTrashButton.tooltip "احذف هذه الرسالة">
+<!ENTITY hdrArchiveButton1.label "Archive">
+<!ENTITY hdrArchiveButton1.tooltip "Archive this message">
+<!ENTITY hdrSmartReplyButton1.label "Smart Reply">
+<!ENTITY hdrReplyButton1.label "Reply">
+<!ENTITY hdrReplyButton1.tooltip "Reply to this message">
+<!ENTITY hdrReplyAllButton1.label "Reply All">
+<!ENTITY hdrReplyAllButton1.tooltip "Reply to sender and all recipients">
+<!ENTITY hdrReplyListButton1.label "Reply List">
+<!ENTITY hdrReplyListButton1.tooltip "Reply to mailing list">
+<!ENTITY hdrForwardButton1.label "Forward">
+<!ENTITY hdrForwardButton1.tooltip "Forward this message">
+<!ENTITY hdrJunkButton1.label "Junk">
+<!ENTITY hdrJunkButton1.tooltip "Mark this message as junk">
+<!ENTITY hdrTrashButton1.label "Delete">
+<!ENTITY hdrTrashButton1.tooltip "Delete this message">
 
 <!ENTITY hdrViewToolbarShowFull.label "أظهِر الأيقونات والنص">
 <!ENTITY hdrViewToolbarShowFull.accesskey "ت">
@@ -82,23 +81,23 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "أظهِر دائمًا ردّ على المرسِل">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "ر">
 
-<!ENTITY otherActionsButton.label "إجراءات أخرى">
-<!ENTITY otherActionsOpenConversation.label "افتح في محادثة">
-<!ENTITY otherActionsOpenConversation.accesskey "ث">
-<!ENTITY otherActionsOpenInNewWindow.label "افتح في نافذة جديدة">
-<!ENTITY otherActionsOpenInNewWindow.accesskey "ن">
-<!ENTITY otherActionsOpenInNewTab.label "افتح في لسان جديد">
-<!ENTITY otherActionsOpenInNewTab.accesskey "ل">
-<!ENTITY markAsReadMenuItem.label "اجعلها مقروءة">
-<!ENTITY markAsReadMenuItem.accesskey "ء">
-<!ENTITY markAsUnreadMenuItem.label "اجعلها غير مقروءة">
-<!ENTITY markAsUnreadMenuItem.accesskey "ة">
-<!ENTITY saveAsMenuItem.label "احفظ ك‍…">
-<!ENTITY saveAsMenuItem.accesskey "ظ">
-<!ENTITY viewSourceMenuItem.label "اعرض المصدر…">
-<!ENTITY viewSourceMenuItem.accesskey "ص">
-<!ENTITY otherActionsPrint.label "اطبع…">
-<!ENTITY otherActionsPrint.accesskey "ط">
+<!ENTITY otherActionsButton1.label "Other Actions">
+<!ENTITY otherActionsOpenConversation1.label "Open in Conversation">
+<!ENTITY otherActionsOpenConversation1.accesskey "C">
+<!ENTITY otherActionsOpenInNewWindow1.label "Open in New Window">
+<!ENTITY otherActionsOpenInNewWindow1.accesskey "W">
+<!ENTITY otherActionsOpenInNewTab1.label "Open in New Tab">
+<!ENTITY otherActionsOpenInNewTab1.accesskey "T">
+<!ENTITY markAsReadMenuItem1.label "Mark as Read">
+<!ENTITY markAsReadMenuItem1.accesskey "R">
+<!ENTITY markAsUnreadMenuItem1.label "Mark as Unread">
+<!ENTITY markAsUnreadMenuItem1.accesskey "r">
+<!ENTITY saveAsMenuItem1.label "Save as…">
+<!ENTITY saveAsMenuItem1.accesskey "S">
+<!ENTITY viewSourceMenuItem1.label "View Source">
+<!ENTITY viewSourceMenuItem1.accesskey "V">
+<!ENTITY otherActionsPrint1.label "Print…">
+<!ENTITY otherActionsPrint1.accesskey "P">
 <!-- Attachment context menu items -->
 
 <!ENTITY openAttachmentCmd.label "افتح">
@@ -119,26 +118,10 @@
 <!ENTITY deleteAllAttachmentsCmd.accesskey "ف">
 <!-- Attachment toolbar items -->
 
-<!ENTITY saveAttachmentButton.label "احفظ">
-<!ENTITY saveAttachmentButton.tooltip "يحفظ الملف المرفق">
-<!ENTITY saveAllAttachmentsButton.label "احفظ الكل">
-<!ENTITY saveAllAttachmentsButton.tooltip "يحفظ جميع الملفات المرفقة">
-<!ENTITY openAttachmentMenuItem.label "افتح">
-<!ENTITY openAttachmentMenuItem.accesskey "ح">
-<!ENTITY saveAsAttachmentMenuItem.label "احفظ ك‍…">
-<!ENTITY saveAsAttachmentMenuItem.accesskey "ك">
-<!ENTITY detachAttachmentMenuItem.label "ألغِ إرفاق…">
-<!ENTITY detachAttachmentMenuItem.accesskey "ل">
-<!ENTITY deleteAttachmentMenuItem.label "احذف">
-<!ENTITY deleteAttachmentMenuItem.accesskey "ف">
-<!ENTITY openAllAttachmentsMenuItem.label "افتح الكل…">
-<!ENTITY openAllAttachmentsMenuItem.accesskey "ل">
-<!ENTITY saveAllAttachmentsMenuItem.label "احفظ الكل…">
-<!ENTITY saveAllAttachmentsMenuItem.accesskey "ظ">
-<!ENTITY detachAllAttachmentsMenuItem.label "ألغِ إرفاق الكل…">
-<!ENTITY detachAllAttachmentsMenuItem.accesskey "ر">
-<!ENTITY deleteAllAttachmentsMenuItem.label "احذف الكل…">
-<!ENTITY deleteAllAttachmentsMenuItem.accesskey "ح">
+<!ENTITY saveAttachmentButton1.label "Save">
+<!ENTITY saveAttachmentButton1.tooltip "Save the attached file">
+<!ENTITY saveAllAttachmentsButton1.label "Save All">
+<!ENTITY saveAllAttachmentsButton1.tooltip "Save all the attached files">
 
 <!ENTITY copyLinkCmd.label "انسخ موقع الرابط">
 <!ENTITY copyLinkCmd.accesskey "خ">
