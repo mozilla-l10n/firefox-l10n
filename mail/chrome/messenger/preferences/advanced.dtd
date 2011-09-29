@@ -37,6 +37,9 @@
 
 <!-- General Settings -->
 
+<!ENTITY submitTelemetry.label         "Siųsti našumo ataskaitas">
+<!ENTITY submitTelemetry.accesskey     "n">
+<!ENTITY telemetryInfoLink.label       "Išsamėsnė informacija apie „Telemetry“">
 <!ENTITY enableGlodaSearch.label       "Įjungti globalią laiškų paiešką ir indeksavimą">
 <!ENTITY enableGlodaSearch.accesskey   "g">
 <!ENTITY systemIntegration.label       "Integracija su sistema">

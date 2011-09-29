@@ -70,8 +70,6 @@
 <!ENTITY publishAsCmd.accesskey        "i">
 <!ENTITY saveAsChangeEncodingCmd.label "Pakeisti koduotę ir įrašyti…">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "d">
-<!ENTITY printCmd.label                "Spausdinti…">
-<!ENTITY printCmd.accesskey            "S">
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label                "Taisa">
