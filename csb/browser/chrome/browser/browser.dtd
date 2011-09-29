@@ -83,7 +83,7 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.accesskey "z">
 <!ENTITY bookmarksToolbarItem.label "Elementë listwë załóżków">
 <!ENTITY addonBarCmd.label "Listew przëdôwków">
-<!ENTITY addonBarCmd.accesskey "a">
+<!ENTITY addonBarCmd.accesskey "t">
 
 <!ENTITY pageSourceCmd.label "Zdrój starnë">
 <!ENTITY pageSourceCmd.accesskey "d">
@@ -186,7 +186,7 @@ can reach it easily. -->
 <!ENTITY search.accesskey             "s">
 <!ENTITY downloads.label              "Zladënczi">
 <!ENTITY downloads.tooltip            "Wëskrzëni òkno zladënkù lopków">
-<!ENTITY downloads.accesskey          "W">
+<!ENTITY downloads.accesskey          "l">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Przëdôwczi">
@@ -194,7 +194,7 @@ can reach it easily. -->
 <!ENTITY addons.commandkey            "A">
 
 <!ENTITY webDeveloperMenu.label       "Deweloper">
-<!ENTITY webDeveloperMenu.accesskey   "w">
+<!ENTITY webDeveloperMenu.accesskey   "D">
 
 <!ENTITY errorConsoleCmd.label        "Kònsola felów">
 <!ENTITY errorConsoleCmd.accesskey    "K">
@@ -227,7 +227,7 @@ can reach it easily. -->
 <!ENTITY inspectButton.label          "Sprôwdzë">
 <!ENTITY inspectButton.accesskey      "ô">
 
-<!ENTITY getMoreDevtoolsCmd.label        "Nalézë wicy nôrzãdzów">
+<!ENTITY getMoreDevtoolsCmd.label        "Nalezë wicy nôrzãdzów">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "N">
 
 <!ENTITY fileMenu.label         "Lopk"> 
@@ -260,7 +260,7 @@ can reach it easily. -->
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "w"> 
 <!ENTITY preferencesCmd2.label       "Òptacëje">
-<!ENTITY preferencesCmd2.accesskey     "p">
+<!ENTITY preferencesCmd2.accesskey     "Ò">
 <!ENTITY preferencesCmdUnix.label       "Preferencëje">
 <!ENTITY preferencesCmdUnix.accesskey     "r"> 
 
@@ -269,7 +269,7 @@ can reach it easily. -->
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "Zrëszë priwatné przezéranié">
-<!ENTITY privateBrowsingCmd.start.accesskey     "ë">
+<!ENTITY privateBrowsingCmd.start.accesskey     "r">
 <!ENTITY privateBrowsingCmd.stop.label          "Zatrzëmôj priwatné przezéranié">
 <!ENTITY privateBrowsingCmd.stop.accesskey      "t">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
@@ -339,13 +339,13 @@ can reach it easily. -->
 <!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label       "Òtemkni lënk w nowi kôrce">
-<!ENTITY openLinkCmdInTab.accesskey   "j">
+<!ENTITY openLinkCmdInTab.accesskey   "Ò">
 <!ENTITY openLinkCmd.label            "Òtemkni lënk w nowim òknie">
-<!ENTITY openLinkCmd.accesskey        "n">
+<!ENTITY openLinkCmd.accesskey        "t">
 <!ENTITY openLinkCmdInCurrent.label     "Òtemkni lënk">
 <!ENTITY openLinkCmdInCurrent.accesskey "l">
 <!ENTITY openFrameCmdInTab.label      "Òtemkni ramã w nowi kôrce">
-<!ENTITY openFrameCmdInTab.accesskey  "j">
+<!ENTITY openFrameCmdInTab.accesskey  "m">
 <!ENTITY openFrameCmd.label           "Òtemkni ramã w nowim òknie">
 <!ENTITY openFrameCmd.accesskey       "n">
 <!ENTITY showOnlyThisFrameCmd.label     "Wëskrzëni blós tã ramã">
