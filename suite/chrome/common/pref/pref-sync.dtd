@@ -20,8 +20,8 @@
 <!ENTITY viewQuota.accesskey          "K">
 <!ENTITY changePassword.label         "Keisti slaptažodį">
 <!ENTITY changePassword.accesskey     "e">
-<!ENTITY mySyncKey.label              "Mano sinchronizavimo raktas">
-<!ENTITY mySyncKey.accesskey          "r">
+<!ENTITY myRecoveryKey.label          "Mano atkūrimo raktas">
+<!ENTITY myRecoveryKey.accesskey      "r">
 <!ENTITY resetSync.label              "Šviežiai sinchronizuoti duomenis">
 <!ENTITY resetSync.accesskey          "Š">
 <!ENTITY deactivateDevice.label       "Nebesinchronizuoti šio įrenginio">

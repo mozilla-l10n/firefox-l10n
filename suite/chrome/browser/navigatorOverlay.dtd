@@ -81,13 +81,6 @@
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
 
-<!ENTITY applyTheme.label  "Grafinis apvalkalas">
-<!ENTITY applyTheme.accesskey "a">
-<!ENTITY getNewThemesCmd.label "Atsiųsti apvalkalų">
-<!ENTITY getNewThemesCmd.accesskey "A">
-<!ENTITY getPersonasCmd.label "Atsiųsti kaukių">
-<!ENTITY getPersonasCmd.accesskey "k">
-
 <!-- Go Menu -->
 <!ENTITY goMenu.label "Eiti">
 <!ENTITY goMenu.accesskey "E">

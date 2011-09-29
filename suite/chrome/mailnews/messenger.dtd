@@ -111,10 +111,6 @@
 <!ENTITY downloadSelectedCmd.accesskey "ž">
 <!ENTITY downloadFlaggedCmd.label "Atsiųsti gairele pažymėtus laiškus">
 <!ENTITY downloadFlaggedCmd.accesskey "k">
-<!ENTITY printCmd.label "Spausdinti">
-<!ENTITY printCmd.accesskey "S">
-<!ENTITY printPreviewCmd.label "Spaudinio peržiūra">
-<!ENTITY printPreviewCmd.accesskey "ž">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Pašalinti laišką">
