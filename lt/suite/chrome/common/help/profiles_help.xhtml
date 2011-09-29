@@ -1,127 +1,109 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1257"><title>Naudotojų profiliai</title>
+<?xml version="1.0" encoding="UTF-8"?>
 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" [
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  %brandDTD;
+]>
 
-<link rel="stylesheet" href="chrome://help/locale/content_style.css" type="text/css"></head>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Managing Profiles</title>
+<link rel="stylesheet" href="helpFileLayout.css"
+  type="text/css"/>
+</head>
 <body>
 
+<h1 id="managing_profiles">Managing Profiles</h1>
 
-<a name="managing_profiles"></a>
-<a name="profiles:managingIDX"></a>
-<h1>Naudotojų profiliai</h1>
+<p>If you use the Internet at home and at work, you may want to have access to
+  a different set of bookmarks, preferences, address books, email accounts,
+  Sidebar setup, and so on. Similarly, family members may want to share a copy
+  of the same browser software but keep their Internet identities separate.</p>
 
-<p>Jei tuo pačiu kompiuteriu naudojatės ir namie, ir darbe, gali būti
-naudinga turėti kelis <i>Mozillos</i>  adresynus (tinklalapių adresų
-rinkinius), skirtingas programos nuostatas, pašto paskyras, adresų knygas,
-parankinę ir t. t. Tokiu atveju vienu <i>Mozillos</i> nuostatų
-rinkiniu galima naudotis darbe, kitu – namuose. Šeimos nariai,
-besinaudojantys tuo pačiu kompiuteriu, taip pat galėtų naudoti tą pačią
-naršyklės kopiją ir parinkti programos nuostatas savo nuožiūra, nekeisdami
-kitų naudotojų nuostatų. </p>
+<p>The Profile Manager lets you create different profiles, each with its own
+  bookmarks, preferences, email settings, and so on. You automatically create a
+  default profile when you first install your browser software. After you
+  create one or more additional profiles, you will be asked which you want to
+  use each time you launch the browser.</p>
 
-<p>Nuostatų rinkiniai, leidžiantys
-dirbti su tuo pačiu <i>Mozillos</i> paketu keliems naudotojams ir kiekvienam
-jaustis šeimininku, vadinami profiliais.</p>
+<div class="contentsBox">In this section:
+ <ul>
+    <li><a href="#creating_a_new_profile">Creating a New Profile</a></li>
+    <li><a href="#deleting_or_renaming_a_profile">Deleting or Renaming a
+      Profile</a></li>
+  </ul>
+</div>
 
-<p>Paketas <i>Mozilla</i> turi integruotą
-profilių tvarkytuvę, kuria galima kurti bei tvarkyti naudotojų profilius.
-Diegiant paketą į kompiuterį pirmą kartą, sukuriamas
-numatytasis profilis, su kuriuo jau būna susietas tinklalapių adresynas, naršyklės
-nuostatos, parankinės kortelės ir pan. Jei sukursite kitų profilių, tuomet
-kiekvieno darbo su <i>Mozilla</i> seanso pradžioje bus pasiūlyta pasirinkti profilį,
-su kuriuo dirbsite.</p>
+<h2 id="creating_a_new_profile">Creating a New Profile</h2>
 
-<p> </p>
+<p>To create a profile:</p>
 
-<table summary="list of headings" cellpadding="4" cellspacing="2" bgcolor="#cccccc" width="324">
-<tbody><tr>
-<td class="inthissections">
-<p><a href="#creating_profiles">Naujo profilio kūrimas</a></p>
-<p><a href="#deleting_profiles">Profilio šalinimas arba pervardijimas</a></p>
-</td>
-</tr>
-</tbody></table>
+<ol>
+  <li>Open the Profile Manager:
+    <ul>
+      <li><strong>If &brandShortName; is running</strong>: Open the Tools menu
+        and select Switch Profile.</li>
+      <li><strong>If &brandShortName; is closed</strong>:<span class="win">
+        Open the Start menu and choose Programs, then &brandShortName;, then
+        Profile Manager.</span><span class="mac"> Hold down the
+        <kbd>Option</kbd> key while you&apos;re starting &brandShortName; from
+        the Finder or the Dock.</span><span class="unix"> Type the following at
+        the command line: <kbd>./mozilla -profilemanager</kbd></span></li>
+    </ul>
+  </li>
+  <li>Click Create Profile, read the Profile description, and then click
+    Next.</li>
+  <li>Enter a profile name. This can be anything you like, such as your real
+    name or a name that&apos;s related to what you use the profile for, such as
+    <q>School</q>.</li>
+  <li>Accept the default location for the new profile, or click the Choose
+    Folder button and navigate to the location you want.</li>
+  <li>If you have additional Language Packs installed, click
+    Select Language and choose the language you want.</li>
+  <li>Click Finish.</li>
+</ol>
 
-<p> </p>
-<a name="creating_profiles"></a>
-<a name="profiles:creatingIDX"></a>
-<h2>Naujo profilio kūrimas</h2>
+<p>[<a href="#managing_profiles">Return to beginning of section</a>]</p>
 
-<p>Jei norite sukurti naują profilį, atlikite šių veiksmų seką:
+<h2 id="deleting_or_renaming_a_profile">Deleting or Renaming a Profile</h2>
 
-</p><ol>
-	<li>Baikite darbą su <i>Mozilla</i>. Profilį galima sukurti tik tuomet,
-      kai bus užverti visų <i>Mozillos</i> komponentų langai.
-	</li><li>Atverkite profilių tvarkytuvės langą:</li>
-	<ul>
-		<li>Jei dirbate operacinėje sistemoje <i>Windows</i>, atverkite
-          paleisties meniu, atverkite programų aplanką, pasirinkite <i>Mozilla</i>,
-          po to <i>Profilių tvarkytuvė</i>.</li>
-		<li>Jei dirbate operacinėje sistemoje <i>Mac OS</i>, atverkite aplanką
-          <i>Mozilla</i> ir dukart spustelėkite ženkliuką <i>Profilio tvarkytuvė</i>.</li>
-		<li>Jei dirbate operacinėje sistemoje <i>Linux</i>, paleiskite <i>Mozillą</i> iš
-          komandų eilutės, naudodami raktą <tt>-profilemanager</tt>. Pavyzdžiui,<tt>
-          mozilla -profilemanager</tt>. </li>
-	</ul>
-	<li>Spustelėkite mygtuką <i>Sukurti profilį</i> ir, perskaitę trumpą
-      informaciją apie profilius, paspauskite mygtuką <i>Toliau</i>.
-	</li><li>Surinkite profilio vardą. Tai gali būti Jūsų asmenvardis arba
-      veiklos, susijusios su būsimu profiliu, pavadinimas, pavyzdžiui, <i>Mokykla</i>
-      arba <i>Darbas</i>.
-	</li><li>Žemiau bus nurodytas pavadinimas programos pasiūlyto aplanko, kuriame
-      bus laikomas Jūsų adresynas, nuostatos ir kita su profiliu susijusi
-      informacija. Jei norite laikyti profilio nuostatas kitame aplanke,
-      parinkite jį paspaudę mygtuką <i>Parinkti aplanką</i>.
-	</li><li>Jei į Jūsų paketą <i>Mozilla</i> įdiegti kelių kalbų ir lokalių
-      paketai, paspauskite mygtuką <i>Pasirinkti lokalę</i> ir atsivėrusiame
-      lange pasirinkite būsimo profilio dialogų kalbą ir lokalę.
-	</li><li>Spustelėkite mygtuką <i>Baigti</i>.
-</li></ol>
+<p>You may want to delete profiles that you don&apos;t normally use. To delete
+  or rename an existing profile:</p>
 
-<p>Bus iš naujo atvertas profilių tvarkytuvės langas. Ką tik sukurto profilio
-pavadinimas atsiras profilių sąraše ir bus pažymėtas.</p><p>Jei norite paleisti
-<i>Mozillą</i> naudodami naują profilį, paspauskite mygtuką <i>Paleisti „Mozilla“</i>.
-<i>Mozilla</i> turės numatytąsias pasirinktos lokalės nuostatas, kurias vėliau,
-dirbant šiuo profiliu, bus galima pakeisti. Dirbant su <i>Mozilla,</i> bus prašoma
-pateikti profilio naudojimui reikalingus duomenis, pavyzdžiui, paleidus pašto
-programą, bus pasiūlyta užregistruoti el. pašto arba naujienų abonentą.  
+<ol>
+  <li>Open the Profile Manager:
+    <ul>
+      <li><strong>If &brandShortName; is running</strong>: Open the Tools menu
+        and select Switch Profile. <strong>Note</strong>: You can&apos;t delete
+        the profile that is in use.</li>
+      <li><strong>If &brandShortName; is closed</strong>:
+        <span class="win"> Open the Start menu and choose Programs, then
+        &brandShortName;, then Profile Manager.</span><span class="mac"> Hold
+        down the <kbd>Option</kbd> key while you&apos;re starting
+        &brandShortName; from the Finder or the Dock.</span><span class="unix">
+        Type the following at the command line:
+        <kbd>./mozilla -profilemanager</kbd></span></li>
+    </ul>
+  </li>
+  <li>To delete a profile, select its name and click Delete Profile. In the
+    confirmation box, choose one of the following options:
+    <ul>
+      <li><strong>Delete files</strong>: Deletes the whole profile folder
+        with its stored data (bookmarks, preferences, email
+        accounts, and so on). <em>Make sure that you won&apos;t need anything
+        from the profile in the future before you choose this option.</em></li>
+      <li><strong>Don&apos;t delete files</strong>: Removes the profile from
+        the list of available profiles, but keeps the profile folder. By
+        choosing this option none of your profile&apos;s stored data will be
+        deleted.</li>
+    </ul>
+  </li>
+  <li>To rename a profile, select its name, click Rename Profile, and follow the
+    instructions.</li>
+</ol>
 
+<p>[<a href="#managing_profiles">Return to beginning of section</a>]</p>
 
-</p><p> </p>
-<a name="deleting_profiles"></a>
-<a name="profiles:deletingIDX"></a>
-<a name="profiles:renamingIDX"></a>
-<h2>Profilio šalinimas arba pervardijimas</h2>
-
-<p>Nebenaudojamus naudotojų profilius galima pašalinti. Jei norite profilį pašalinti
-arba pakeisti jo vardą, atlikite šiuos veiksmus:
-
-</p><ol>
-	<li>Baikite darbą su <i>Mozilla</i>. Profilį galima pašalinti, pervardyti
-      arba sukurti tik tuomet, kai bus užverti visų <i>Mozillos</i> komponentų
-      langai.
-	</li><li>Atverkite profilių tvarkytuvės langą:</li>
-	<ul>
-		<li>Jei dirbate operacinėje sistemoje <i>Windows</i>, atverkite
-          paleisties meniu, atverkite programų aplanką, pasirinkite <i>Mozilla</i>,
-          o tada <i>Profilių tvarkytuvė</i>.
-		</li><li>Jei dirbate operacinėje sistemoje <i>Mac OS</i>, atverkite aplanką
-          <i>Mozilla</i> ir dukart spustelėkite profilių tvarkytuvės ženkliuką.
-		</li><li>Jei dirbate operacinėje sistemoje <i>Linux</i>, paleiskite <i>Mozillą</i> iš
-          komandų eilutės, naudodami raktą <tt>-profilemanager</tt>. Pavyzdžiui,
-          <tt>mozilla -profilemanager</tt>.
-	</li></ul>
-	<li>Jei norite pašalinti profilį, pažymėkite jo vardą ir spustelėkite
-      mygtuką <i>Pašalinti profilį</i>. Atsivers įspėjimo langas.
-      Pasirinkite, ką reikia pašalinti: profilio pavadinimą ir katalogą su
-      visais profilio nuostatų failais, ar tik profilio pavadinimą iš
-      profilių tvarkytuvės sąrašo.
-	</li><li>Jei norite pervardyti profilį, pažymėkite jo vardą, spustelėkite
-      mygtuką <i>Pervardyti profilį</i>. Atsivėrusiame lange surinkite naują
-      profilio vardą ir paspauskite mygtuką <i>Gerai</i>.
-</li></ol>
-
-<hr>
-<p>Copyright © 1998–2003 The Mozilla Foundation.</p>
-<p>© Vertimas į lietuvių kalbą ir adaptavimas. Gintautas Grigas, Tatjana Jevsikova, 2002–2003</p>
-</body></html>
+</body>
+</html>

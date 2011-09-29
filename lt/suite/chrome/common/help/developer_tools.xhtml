@@ -1,44 +1,72 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
-    <!ENTITY % brandDTD SYSTEM "chrome://global/locale/brand.dtd" >
-    %brandDTD;
-]
->
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  %brandDTD;
+]>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-	<title>„Mozillos“ saityno programavimo priemonės</title>
-	<link rel="stylesheet" type="text/css" href="chrome://help/locale/helpFileLayout.css" />
+<title>&brandShortName; Tools and Development</title>
+<link rel="stylesheet" href="helpFileLayout.css"
+  type="text/css"/>
 </head>
-
 <body>
 
-<h1 id="web_development_tools">Saityno programavimo priemonės</h1>
+<h1 id="web_development_tools">Web Development Tools</h1>
 
-<p>
-Paketas „&brandShortName;“ turi keletą priemonių, padedančių kurti ir derinti saityno programas. Kai kurios
-jų įdiegiamos pasirinktinai. Jei norite naudotis šiomis priemonėmis, atverkite meniu <i>Priemonės</i> ir pasirinkite <i>Saityno programavimas</i>.
-</p>
+<p>For web developers, &brandShortName; provides several tools to aid in
+  developing and debugging Web applications. Some of these are optional
+  installs. To access these tools, open the Tools menu and choose Web
+  Development.</p>
 
 <ul class="separate">
   <li id="js_console">
-    <strong>„JavaScript“ pultas</strong>. Pulto lange rodomi <i>JavaScript</i> įspėjimai ir klaidos, 
-  stebimas saityno programų ir pačios „Mozillos“ veikimas. 
+    <strong>Error Console</strong>: a console window that reports problems
+    with <a href="glossary.xhtml#javascript">JavaScript</a> and CSS code in
+    Web applications and the &brandShortName; application itself. By default, 
+    CSS parsing errors and JavaScript errors are displayed. The console can 
+    also be used to display logged messages from <a href="glossary.xhtml#xul">
+    XUL</a> and JavaScript code.
   </li>
+  <li id="inspector">
+    <strong>DOM Inspector</strong>: a tool that can be
+    used to inspect and edit the DOM of any web document or XUL
+    application.
 
-   <li id="venkman">
-    <strong>„JavaScript“ derintuvė</strong>. Dar vadinama <i>Venkman</i>.
-   Ši programa skirta <i>JavaScript</i> kalba parašytiems scenarijams derinti. Į derinamą scenarijų galima
-  įterpti stabdymo taškus, vykdyti jį pažingsniui, stebėti kintamuosius ir atlikti daug kitų veiksmų.
-
-    <p>Saityno ištekliai:</p>
+    <p>Online resources:</p>
+    
     <ul>
-      <li><a href="http://www.svendtofte.com/code/learning_venkman/">
-        <i>JavaScript</i> derintuvės mokomoji medžiaga</a> (anglų k., autorius – Svend 
-    Tofte) </li>
+      <li><a href="http://www.brownhen.com/DI/">Introduction to the DOM
+        Inspector</a> (Ian Oeschger)</li>
+      <li><a href="http://www.mozilla.org/projects/inspector/faq.html">DOM
+        Inspector FAQ</a> (mozilla.org)</li>
+      <!-- 2006-01-27: Removed link (404).
+      <li><a href="http://gr.ayre.st/moz/evangelism/tutorials/dominspectortutorial.shtml">grayrest&apos;s
+        Guide to the DOM Inspector</a></li>
+      -->
+      <li>Creating Applications with Mozilla - Appendix B3:
+        <a href="http://books.mozdev.org/html/mozilla-app-b-sect-3.html">The
+        DOM Inspector</a></li>
+    </ul>
+  </li>
+  <li id="venkman">
+    <strong>JavaScript Debugger</strong>: also known as Venkman, this utility
+    allows you to debug JavaScript in &brandShortName;. It supports stepping,
+    breakpoints and many other features.
 
-      <li><a href="http://www.webreference.com/programming/javascript/venkman/">
-        <i>JavaScript</i> derinimas naudojantis „Venkman“</a> (straipsnių serija anglų k., webreference.com)</li>
+    <p>Online resources:</p>
+
+    <ul>
+      <li><a href="http://www.mozilla.org/projects/venkman/">Venkman JavaScript
+        Debugger Homepage</a></li>
+      <li><a href="http://www.svendtofte.com/code/learning_venkman/">Learning
+        the JavaScript debugger Venkman</a> (Svend Tofte)</li>
+      <li><a href="http://www.webreference.com/programming/javascript/venkman/">Debugging
+        JavaScript Using Venkman</a> (webreference.com, article series)</li>
+      <li><a href="http://www.hacksrus.com/~ginda/venkman/">Venkman Development
+        Homepage</a></li>
     </ul>
   </li>
 </ul>
