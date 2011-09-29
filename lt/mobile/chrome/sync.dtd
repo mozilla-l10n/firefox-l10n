@@ -3,7 +3,6 @@
 <!ENTITY sync.connect               "Prisijungti">
 <!ENTITY sync.connected             "Prisijungta">
 <!ENTITY sync.details               "Išsamiau">
-<!ENTITY sync.synchronize           "Įgalinti sinchronizavimą">
 <!ENTITY sync.deviceName            "Šis įrenginys">
 <!ENTITY sync.disconnect            "Atsijungti">
 <!ENTITY sync.syncNow               "Sinchronizuoti dabar">

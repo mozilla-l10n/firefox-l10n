@@ -4,3 +4,4 @@
 <!ENTITY webapps.perm.offline "Duomenų darbui atsijungus įrašymas">
 <!ENTITY webapps.perm.notifications "Pranešimų posistemė">
 <!ENTITY webapps.perm.requestedHint "(prašoma)">
+<!ENTITY webapps.add-homescreen "Įtraukti į pradžios ekraną">
