@@ -8,7 +8,7 @@
 <!ENTITY testpilot.settings.hasNewResults.label "une étude dispose de nouveaux résultats">
 <!ENTITY testpilot.settings.alwaysSubmitData.label "Envoyer automatiquement mes informations (ne pas demander)">
 <!ENTITY testpilot.allYourStudies.label             "Toutes vos études d'utilisation…">
-<!ENTITY testpilot.about.label "À propos de Pilot">
+<!ENTITY testpilot.about.label "À propos de Test Pilot">
 
 <!-- all studies window -->
 <!ENTITY testpilot.studiesWindow.title "Vos études Test Pilot">
