@@ -307,6 +307,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageSourceCmd.label "Laiško pirminis tekstas">
 <!ENTITY pageSourceCmd.accesskey "š">
 <!ENTITY pageSourceCmd.key "u">
+<!ENTITY getNewMessagesCmd.key "y">
+<!ENTITY getAllNewMessagesCmd.key "Y">
 
 <!ENTITY findMenu.label "Ieškoti">
 <!ENTITY findMenu.accesskey "e">
