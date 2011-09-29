@@ -20,8 +20,8 @@
 <!ENTITY signIn.account2.accesskey  "P">
 <!ENTITY signIn.password.label      "Slaptažodis">
 <!ENTITY signIn.password.accesskey  "ž">
-<!ENTITY signIn.syncKey.label       "Sinchronizavimo raktas">
-<!ENTITY signIn.syncKey.accesskey   "r">
+<!ENTITY signIn.recoveryKey.label     "Atkūrimo raktas">
+<!ENTITY signIn.recoveryKey.accesskey "r">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Paskyros savybės">
@@ -39,14 +39,14 @@
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 
-<!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "„&brandShortName;“ rūpi Jūsų privatumas">
-<!ENTITY setup.newSyncKeyPage.description.label "Siekiant užtikrinti Jūsų privatumą, visi Jūsų duomenys prieš siunčiant į serverį yra šifruojami. Jiems iššifruoti reikalingas sinchronizavimo raktas, kuris į serverį nesiunčiamas.">
-<!ENTITY syncKeyEntry.label        "Jūsų sinchronizavimo raktas">
-<!ENTITY syncKeyEntry.accesskey    "r">
-<!ENTITY syncKeyGenerate.label     "Sugeneruoti">
-<!ENTITY syncKeyGenerate.accesskey "g">
-<!ENTITY syncKeyBackup.description "Sinchronizavimo rakto Jums prireiks, kai norėsite „&syncBrand.fullName.label;“ pasiekti iš kito kompiuterio. Pasirūpinkite, kad jo nepamestumėte. Pametus sinchronizavimo raktą, mes negalėsime Jums padėti jo atstatyti.">
+<!-- New Account Page 2: Recovery Key -->
+<!ENTITY setup.newRecoveryKeyPage.title.label "„&brandShortName;“ rūpi Jūsų privatumas">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Siekiant užtikrinti privatumą, visi Jūsų duomenys prieš siunčiant į serverį yra šifruojami. Jiems iššifruoti reikalingas atkūrimo raktas, kuris į serverį nesiunčiamas.">
+<!ENTITY recoveryKeyEntry.label        "Jūsų atkūrimo raktas">
+<!ENTITY recoveryKeyEntry.accesskey    "r">
+<!ENTITY recoveryKeyGenerate.label     "Sugeneruoti">
+<!ENTITY recoveryKeyGenerate.accesskey "g">
+<!ENTITY recoveryKeyBackup.description "Atkūrimo rakto Jums prireiks, kai norėsite „&syncBrand.fullName.label;“ pasiekti iš kito kompiuterio. Pasirūpinkite, kad jo nepamestumėte. Pametus atkūrimo raktą, mes negalėsime Jums padėti jo atstatyti.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Spausdinti…">
 <!ENTITY button.syncKeyBackup.print.accesskey "S">
@@ -66,12 +66,12 @@
 <!ENTITY addDevice.dialog.enterCode.label   "Įveskite įrenginyje rodomą kodą:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Pabandykite iš naujo.">
 <!ENTITY addDevice.dialog.successful.label  "Įrenginys sėkmingai prijungtas. Pradinis sinchronizavimas gali užtrukti iki kelių minučių, jis vykdomas fonine veiksena.">
-<!ENTITY addDevice.dialog.syncKey.label     "Norėdami įjungti sinchronizavimą, turėsite įvesti sinchronizavimo raktą. Atsispausdinkite arba įrašykite raktą į failą ir pasiimkite su savimi.">
+<!ENTITY addDevice.dialog.recoveryKey.label "Norėdami įjungti sinchronizavimą, turėsite įvesti atkūrimo raktą. Atsispausdinkite arba įrašykite raktą į failą ir pasiimkite su savimi.">
 <!ENTITY addDevice.dialog.connected.label   "Įrenginys prijungtas">
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Prisijungimas">
-<!ENTITY existingSyncKey.description "Savo sinchronizavimo rakto kopiją galite gauti, atvėrę „&syncBrand.shortName.label;“ nuostatas kitame įrenginyje ir pasirinkę punktą „Mano Sinchronizavimo raktas“ iš „Tvarkyti paskyrą“ sąrašo.">
+<!ENTITY existingRecoveryKey.description "Savo atkūrimo rakto kopiją galite gauti, atvėrę „&syncBrand.shortName.label;“ nuostatas kitame įrenginyje ir pasirinkę punktą „Mano atkūrimo raktas“ iš „Tvarkyti paskyrą“ sąrašo.">
 <!ENTITY verifying.label              "Tikrinama…">
 <!ENTITY resetPassword.label          "Perkurti slaptažodį">
 <!ENTITY resetSyncKey.label           "Pamestas kitas sinchronizuojamas įrenginys.">

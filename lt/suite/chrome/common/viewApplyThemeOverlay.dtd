@@ -1,0 +1,6 @@
+<!ENTITY applyTheme.label          "Naudoti grafinį apvalkalas">
+<!ENTITY applyTheme.accesskey      "N">
+<!ENTITY getNewThemesCmd.label     "Atsiųsti apvalkalų">
+<!ENTITY getNewThemesCmd.accesskey "A">
+<!ENTITY getPersonasCmd.label      "Atsiųsti kaukių">
+<!ENTITY getPersonasCmd.accesskey  "k">

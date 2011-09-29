@@ -46,11 +46,6 @@
 <!ENTITY editPageCmd.accesskey "T">
 <!ENTITY editPageCmd.commandkey "e">
 
-<!ENTITY printPreviewCmd.label "Spaudinio peržiūra">
-<!ENTITY printPreviewCmd.accesskey "ž">
-<!ENTITY printCmd.label "Spausdinti…">
-<!ENTITY printCmd.accesskey "S">
-
 <!ENTITY navbarCmd.label "Naršymo juosta">
 <!ENTITY navbarCmd.accesskey "N">
 <!ENTITY personalbarCmd.label "Asmeninė mygtukų juosta">
