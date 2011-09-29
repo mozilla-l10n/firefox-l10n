@@ -193,6 +193,9 @@ can reach it easily. -->
 <!ENTITY inspectMenu.label "فحص">
 <!ENTITY inspectMenu.accesskey "ص">
 <!ENTITY inspectMenu.commandkey "I">
+
+<!ENTITY inspectContextMenu.label "افحص العنصر">
+<!ENTITY inspectContextMenu.accesskey "ص">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating

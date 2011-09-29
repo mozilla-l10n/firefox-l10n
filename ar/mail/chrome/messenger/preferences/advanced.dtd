@@ -6,6 +6,9 @@
 <!-- General Settings -->
 
 
+<!ENTITY submitTelemetry.label "Submit Performance Data">
+<!ENTITY submitTelemetry.accesskey "P">
+<!ENTITY telemetryInfoLink.label "More information about Telemetry">
 <!ENTITY enableGlodaSearch.label "فعّل البحث العمومي والفهرسة">
 <!ENTITY enableGlodaSearch.accesskey "ف">
 <!ENTITY systemIntegration.label "تكامل النظام">

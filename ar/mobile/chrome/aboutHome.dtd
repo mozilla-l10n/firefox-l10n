@@ -9,3 +9,13 @@
 <!ENTITY aboutHome.noTabs "لا يوجد ألسنة من المرة السابقة">
 <!ENTITY aboutHome.noAddons "لا يوجد إضافات مزكّاة">
 <!ENTITY aboutHome.getLocale "غيّر اللغة">
+<!ENTITY aboutHome.getInBeforeBeta "اشترك للحصول على ما قبل البيتا">
+<!ENTITY aboutHome.tryAurora "جرّب فَيَرفُكس أورورا للمساعدة على تشكيل مستقبل فَيَرفُكس.">
+<!-- LOCALIZATION NOTE:
+     (aboutHome.downloadAurora): First line of a multi-line button. Treat as a title.
+-->
+<!ENTITY aboutHome.downloadAurora "نزّل أورورا">
+<!-- LOCALIZATION NOTE:
+     (aboutHome.forAndroid): Second line of a multi-line button. Treat as a subtitle.
+-->
+<!ENTITY aboutHome.forAndroid "لأندرويد">

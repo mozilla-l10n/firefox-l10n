@@ -57,7 +57,7 @@
 <!ENTITY overrideSmartCacheSize.label "تجاهل الإدارة الآلية للذاكرة الخبيئة">
 <!ENTITY overrideSmartCacheSize.accesskey "ذ">
 
-<!ENTITY updateTab.label "حدِّث">
+<!ENTITY updateTab.label "تحديث">
 
 <!ENTITY autoCheck.label "التمس آليًا تحديثات:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">

@@ -101,6 +101,9 @@
 
 <!ENTITY showImageLinkBorder.label "اعرض حدًا حول الصور الروابط">
 <!ENTITY showImageLinkBorder.accessKey "ح">
+<!ENTITY LinkAdvancedEditButton.label "Link Advanced Edit…">
+<!ENTITY LinkAdvancedEditButton.accessKey "L">
+<!ENTITY LinkAdvancedEditButton.tooltip "Add or modify HTML attributes, style attributes, and JavaScript">
 <!-- These tabs are currently used in the image input dialog -->
 
 <!ENTITY imageInputTab.label "مِن">

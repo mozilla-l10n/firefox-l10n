@@ -68,11 +68,6 @@
 <!ENTITY publishAsCmd.accesskey "ش">
 <!ENTITY saveAsChangeEncodingCmd.label "احفظ وغيّر ترميز المحارف">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "ز">
-<!ENTITY printSetupCmd.label "إعداد الصفحة …">
-<!ENTITY printSetupCmd.accesskey "ح">
-<!ENTITY printCmd.label "اطبع…">
-<!ENTITY printCmd.accesskey "ط">
-<!ENTITY printCmd.key "P">
 <!-- Edit menu items -->
 
 <!ENTITY editMenu.label "تحرير">
