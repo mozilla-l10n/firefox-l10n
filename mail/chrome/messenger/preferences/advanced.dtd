@@ -6,6 +6,9 @@
 
 <!-- General Settings -->
 
+<!ENTITY submitTelemetry.label         "Enviar datos de rendimiento">
+<!ENTITY submitTelemetry.accesskey     "r">
+<!ENTITY telemetryInfoLink.label       "Más información sobre Telemetry">
 <!ENTITY enableGlodaSearch.label       "Habilitar indexado y búsqueda global">
 <!ENTITY enableGlodaSearch.accesskey   "i">
 <!ENTITY systemIntegration.label       "Integración con el sistema">
@@ -18,13 +21,13 @@
 <!ENTITY configEditDesc.label          "Configuración avanzada">
 <!ENTITY configEdit.label              "Editor de configuración…">
 <!ENTITY configEdit.accesskey          "g">
-<!ENTITY returnReceiptsInfo.label      "Determine cómo &brandShortName; maneja los acuses de recibo">
-<!ENTITY showReturnReceipts.label      "Acuses de recibo…">
-<!ENTITY showReturnReceipts.accesskey  "r">
+<!ENTITY returnReceiptsInfo.label      "Determine cómo &brandShortName; maneja los avisos de recepción">
+<!ENTITY showReturnReceipts.label      "Avisos de recepción…">
+<!ENTITY showReturnReceipts.accesskey  "R">
 
 <!-- Display and Reading Settings -->
-<!ENTITY reading.caption                "Lectura">
-<!ENTITY display.caption                "Apariencia">
+<!ENTITY reading.caption                "Reading">
+<!ENTITY display.caption                "Display">
 <!ENTITY showCondensedAddresses.label  "Mostrar solamente el nombre para las personas de mi libreta de direcciones">
 <!ENTITY showCondensedAddresses.accesskey "p">
 
@@ -51,7 +54,7 @@
 <!-- Update -->
 <!ENTITY autoCheck.label              "Buscar periódicamente actualizaciones para:">
 <!ENTITY enableAppUpdate.label          "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "r">
+<!ENTITY enableAppUpdate.accesskey      "T">
 <!ENTITY enableAddonsUpdate.label    "Complementos instalados">
 <!ENTITY enableAddonsUpdate.accesskey "i">
 <!ENTITY whenUpdatesFound.label         "Cuando se encuentren actualizaciones para &brandShortName;,">
