@@ -3,6 +3,7 @@
 <!ENTITY sync.connect               "Ligar">
 <!ENTITY sync.connected             "Ligado">
 <!ENTITY sync.details               "Detalhes">
+<!ENTITY sync.synchronize           "Activar sincronização">
 <!ENTITY sync.deviceName            "Este dispositivo">
 <!ENTITY sync.disconnect            "Desligar">
 <!ENTITY sync.syncNow               "Sincronizar agora">
@@ -13,7 +14,7 @@
 <!ENTITY sync.setup.manual          "Escreva a informação da sua conta Sync">
 <!ENTITY sync.account               "Nome da conta">
 <!ENTITY sync.password              "Senha">
-<!ENTITY sync.recoveryKey           "Chave de recuperação">
+<!ENTITY sync.syncKey               "Chave do Sync">
 <!ENTITY sync.customServer          "Usar servidor personalizado">
 <!ENTITY sync.serverURL             "URL do servidor">
 <!ENTITY sync.setup.connect         "Ligar">
