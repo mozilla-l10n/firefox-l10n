@@ -50,7 +50,7 @@
 <!ENTITY expungeOnExit.accesskey "e">
 <!ENTITY emptyTrashOnExit.label "Tyhjennä roskakori lopetettaessa">
 <!ENTITY emptyTrashOnExit.accesskey "T">
-<!ENTITY loginAtStartup.label "Kirjaudu palvelimelle käynnistyksen yhteydessä"> 
+<!ENTITY loginAtStartup.label "Hae uudet viestit käynnistyksen yhteydessä"> 
 <!ENTITY loginAtStartup.accesskey "a">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
