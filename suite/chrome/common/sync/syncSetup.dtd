@@ -44,7 +44,8 @@
 <!ENTITY setup.newRecoveryKeyPage.description.label "Para asegurar su total privacidad, todos sus datos son cifrados antes de ser subidos. La clave de recuperacion necesaria para descifrar sus datos no es subida.">
 <!ENTITY recoveryKeyEntry.label        "Su clave de recuperación">
 <!ENTITY recoveryKeyEntry.accesskey    "r">
-<!ENTITY syncGenerateNewKey.label  "Generar una nueva clave">
+<!ENTITY recoveryKeyGenerate.label     "Generar">
+<!ENTITY recoveryKeyGenerate.accesskey "G">
 <!ENTITY recoveryKeyBackup.description "Se requiere su clave de recuperación para acceder a &syncBrand.fullName.label; en otros dispositivos. Debe crear una copia de seguridad. No podemos ayudarlo a recuperar su clave de recuperación.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Imprimir…">
