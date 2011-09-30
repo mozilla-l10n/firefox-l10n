@@ -1,6 +1,6 @@
 <!ENTITY dialog.title "Symbolleiste anpassen">
 <!ENTITY dialog.style "width: 650px; height: 400px;">
-<!ENTITY instructions.description "Sie können Symbole in die obige Symbolleiste ziehen, um sie hinzuzufügen.">
+<!ENTITY instructions.description "Ziehen Sie Symbole in die Symbolleiste oder heraus, um sie hinzuzufügen oder zu entfernen.">
 <!ENTITY show.label               "Anzeigen:">
 <!ENTITY iconsAndText.label       "Symbole und Text">
 <!ENTITY icons.label              "Symbole">

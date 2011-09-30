@@ -7,12 +7,9 @@
 <!ENTITY organize.tooltip      "Lesezeichen verwalten">
 
 
-<!ENTITY file.accesskey                 "D">
 <!ENTITY file.close.label               "Schließen">
 <!ENTITY file.close.accesskey           "c">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY edit.label                     "Bearbeiten">
-<!ENTITY edit.accesskey                 "B">
 <!ENTITY views.label                    "Ansichten">
 <!ENTITY views.accesskey                 "A">
 <!ENTITY views.tooltip                  "Ansicht ändern">
@@ -32,10 +29,12 @@
 <!ENTITY cmd.findCurrent.label          "In aktueller Auswahl suchen…">
 <!ENTITY cmd.findCurrent.accesskey      "I">
 
-<!ENTITY cmd.exportHTML.label           "HTML exportieren…">
-<!ENTITY cmd.exportHTML.accesskey       "E">
-<!ENTITY cmd.importHTML.label           "HTML importieren…">
-<!ENTITY cmd.importHTML.accesskey       "I">
+<!ENTITY importBookmarksFromHTML.label     "Lesezeichen von HTML importieren…">
+<!ENTITY importBookmarksFromHTML.accesskey "L">
+<!ENTITY exportBookmarksToHTML.label       "Lesezeichen nach HTML exportieren…">
+<!ENTITY exportBookmarksToHTML.accesskey   "n">
+<!ENTITY importOtherBrowser.label          "Daten von einem anderen Browser importieren…">
+<!ENTITY importOtherBrowser.accesskey      "D">
 
 <!ENTITY cmd.backup.label               "Sichern…">
 <!ENTITY cmd.backup.accesskey           "S">
@@ -77,8 +76,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label      "Dynamisches Lesezeichen neu laden">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "d">
-<!ENTITY cmd.reloadMicrosummary.label      "Live-Titel neu laden">
-<!ENTITY cmd.reloadMicrosummary.accesskey  "T">
 
 <!ENTITY cmd.moveBookmarks.label                  "Verschieben…">
 <!ENTITY cmd.moveBookmarks.accesskey              "v">
@@ -115,17 +112,14 @@
 <!ENTITY maintenance.tooltip    "Lesezeichen importieren und sichern">
 
 
-<!ENTITY backCmd.label       "Zurück">
 <!ENTITY backButton.tooltip  "Eine Seite zurück">
 
-<!ENTITY forwardCmd.label       "Vorwärts">
 <!ENTITY forwardButton.tooltip  "Eine Seite vor">
 
 <!ENTITY detailsPane.more.label  "Mehr">
 <!ENTITY detailsPane.more.accesskey "e">
 <!ENTITY detailsPane.less.label  "Weniger">
 <!ENTITY detailsPane.less.accesskey "e">
-<!ENTITY detailsPane.noPreviewAvailable.label  "Vorschau">
 <!ENTITY detailsPane.selectAnItemText.description "Wählen Sie einen Eintrag, um seine Eigenschaften zu sehen und zu bearbeiten">
 
 <!ENTITY find.label               "Suchen:">
