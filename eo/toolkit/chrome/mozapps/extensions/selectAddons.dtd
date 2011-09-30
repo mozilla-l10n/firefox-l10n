@@ -3,7 +3,7 @@
 <!ENTITY checking.heading            "Kontrolado de viaj aldonaĵoj">
 <!ENTITY checking.progress.label     "Kontrolado de la kongrueco de viaj aldonaĵoj kun tiu ĉi version de &brandShortName;.">
 
-<!ENTITY select.heading              "ELekti viajn aldonaĵojn">
+<!ENTITY select.heading              "Elekti viajn aldonaĵojn">
 <!-- LOCALIZATION NOTE (select.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
 <!ENTITY select.description          "Igu &brandShortName; eĉ pli rapida per malaktivigo de la aldonaĵoj kiujn vi ne plu uzas.  Se vi ne elektas ilin malsupre, la aldonaĵoj de aliaj provizantoj estos aŭtomate malaktivigitaj.">
