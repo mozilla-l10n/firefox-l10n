@@ -21,8 +21,8 @@
 <!ENTITY signIn.account2.accesskey  "L">
 <!ENTITY signIn.password.label      "Fjalëkalim">
 <!ENTITY signIn.password.accesskey  "F">
-<!ENTITY signIn.syncKey.label       "Kyç Sync-u">
-<!ENTITY signIn.syncKey.accesskey   "K">
+<!ENTITY signIn.recoveryKey.label       "Kyç Riparimi">
+<!ENTITY signIn.recoveryKey.accesskey   "K">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Hollësi Llogarie">
@@ -44,12 +44,12 @@
 <!ENTITY setup.tosAgree2.accesskey  "">
 
 <!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName;-i Kujdeset Për Vetësinë Tuaj">
-<!ENTITY setup.newSyncKeyPage.description.label "Për të siguruar vetësinë tuaj tërësore, krejt të dhënat tuaja kodohen përpara se të ngarkohen. Kyçi për Sync-un, që është i domosdoshëm për çkodimin e të dhënave tuaja, nuk ngarkohet.">
-<!ENTITY syncKeyEntry.label        "Kyçi Juaj për Sync-un">
-<!ENTITY syncKeyEntry.accesskey    "K">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName;-i Kujdeset Për Vetësinë Tuaj">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Për të siguruar vetësinë tuaj tërësore, krejt të dhënat tuaja kodohen përpara se të ngarkohen. Kyçi i Riparimit, që është i domosdoshëm për çkodimin e të dhënave tuaja, nuk ngarkohet gjëkundi..">
+<!ENTITY recoveryKeyEntry.label        "Kyçi Juaj i Riparimeve">
+<!ENTITY recoveryKeyEntry.accesskey    "K">
 <!ENTITY syncGenerateNewKey.label  "Prodho një kyç të ri">
-<!ENTITY syncKeyBackup.description "Kyçi Juaj për Sync-un nevojitet për të hyrë te &syncBrand.fullName.label; në makinat e tjera. Ju lutem, bëjini një kopje kopjeruajtjeje. Nuk ju ndihmojmë dot për të rigjetur Kyçin tuaj për Sync-un.">
+<!ENTITY recoveryKeyBackup.description "Kyçi Juaj i Riparimeve nevojitet për të hyrë te &syncBrand.fullName.label; në makinat e tjera. Ju lutem, bëjini një kopje kopjeruajtjeje. Nuk ju ndihmojmë dot të rimerrni Kyçin tuaj të Riparimeve.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Shtypeni…">
 <!ENTITY button.syncKeyBackup.print.accesskey "S">
@@ -68,12 +68,13 @@
 <!ENTITY addDevice.dialog.enterCode.label   "Jepni kodin që tregon pajisja:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Ju lutem, riprovoni.">
 <!ENTITY addDevice.dialog.successful.label  "Pajisja u shtua me sukses. Njëkohësimi fillestar mund të hajë disa minuta dhe do të plotësohet në prapaskenë.">
-<!ENTITY addDevice.dialog.syncKey.label     "Që të aktivizoni pajisjen tuaj, do t&apos;ju duhet të jepni Kyçin tuaj për Sync-un. Ju lutem, shtypeni ose ruajeni këtë kyç dhe mbajeni me vete.">
+<!ENTITY addDevice.dialog.recoveryKey.label     "Që të aktivizoni pajisjen tuaj, do t&apos;ju duhet të jepni Kyçin tuaj të Riparimeve. Ju lutem, shtypeni ose ruajeni këtë kyç dhe mbajeni me vete.">
 <!ENTITY addDevice.dialog.connected.label   "Pajisja u Lidh">
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Hyni">
-<!ENTITY existingSyncKey.description "Mund të merrni një kopje të Kyçit tuaj për Sync-un duke shkuar te Mundësi &syncBrand.shortName.label;-u te pajisja juaj tjetër, dhe përzgjidhni  &#x0022;Kyçi Im për Sync-un&#x0022; te &#x0022;Administroni Llogari&#x0022;.">
+<!ENTITY existingRecoveryKey.description "Mund të merrni një kopje të Kyçit tuaj të Riparimeve duke shkuar te Mundësi &syncBrand.shortName.label;-u te pajisja juaj tjetër, dhe duke përzgjedhur  &#x0022;Kyçi Im i Riparimit&#x0022; te &#x0022;Administroni Llogari&#x0022;.">
+
 <!ENTITY verifying.label              "Po verifikohet…">
 <!ENTITY resetPassword.label          "Ricaktoni Fjalëkalimin">
 <!ENTITY resetSyncKey.label           "E kam humbur pajisjen time tjetër.">
