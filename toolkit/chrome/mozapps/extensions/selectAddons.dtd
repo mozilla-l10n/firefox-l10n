@@ -1,4 +1,4 @@
-<!ENTITY upgrade.style               "width: 93ch; altura: 448px;">
+<!ENTITY upgrade.style               "width: 93ch; height: 448px;">
 
 <!ENTITY checking.heading            "A verificar os seus extras">
 <!ENTITY checking.progress.label     "A verificar os seus extras por compatibilidade com esta versão do &brandShortName;.">
