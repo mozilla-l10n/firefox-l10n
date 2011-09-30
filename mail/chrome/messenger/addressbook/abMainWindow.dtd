@@ -91,8 +91,10 @@
 <!ENTITY showContactPane.accesskey                      "K">
 <!ENTITY menu_ShowNameAs.label                          "Namen anzeigen">
 <!ENTITY menu_ShowNameAs.accesskey                      "N">
-<!ENTITY firstLastCmd.label                             "Vorname Nachname">
-<!ENTITY firstLastCmd.accesskey                         "v">
+<!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
+     because displayed names don't have the comma in between. -->
+<!ENTITY firstLastCmd2.label                            "Vorname Nachname">
+<!ENTITY firstLastCmd2.accesskey                        "v">
 <!ENTITY lastFirstCmd.label                             "Nachname, Vorname">
 <!ENTITY lastFirstCmd.accesskey                         "n">
 <!ENTITY displayNameCmd.label                           "Anzeigename">
