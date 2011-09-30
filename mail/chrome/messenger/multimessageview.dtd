@@ -1,4 +1,4 @@
 <!ENTITY window.title             "Nachrichtenzusammenfassung">
 <!ENTITY selectedmessages.label   "Ausgewählte Nachrichten">
-<!ENTITY archive.label            "Archivieren">
-<!ENTITY delete.label             "Löschen">
+<!ENTITY archiveButton.label      "Archivieren">
+<!ENTITY deleteButton.label       "Löschen">

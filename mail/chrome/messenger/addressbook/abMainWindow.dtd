@@ -79,6 +79,8 @@
 <!ENTITY viewMenu.accesskey                             "A">
 <!ENTITY viewToolbarsMenu.label                         "Symbolleisten">
 <!ENTITY viewToolbarsMenu.accesskey                     "y">
+<!ENTITY menubarCmd.label                               "Menüleiste">
+<!ENTITY menubarCmd.accesskey                           "M">
 <!ENTITY showAbToolbarCmd.label                         "Adressbuch-Symbolleiste">
 <!ENTITY showAbToolbarCmd.accesskey                     "o">
 <!ENTITY showTaskbarCmd.label                           "Statusleiste">
