@@ -1,14 +1,19 @@
+<!ENTITY tracking.label                 "Verfolgung">
+
+<!ENTITY doNotTrack.label               "Websites mitteilen, dass ich nicht verfolgt werden möchte ">
+<!ENTITY doNotTrack.accesskey           "d">
+
 <!ENTITY  history.label                 "Chronik">
 
 <!ENTITY  locationBar.label             "Adressleiste">
 
-<!ENTITY  locbar.pre.label              "">
-<!ENTITY  locbar.pre.accessKey          "">
-<!ENTITY  locbar.post.label             " anzeigen, wenn Adressleiste verwendet wird">
-<!ENTITY  locbar.both.label             "Chronik und Lesezeichen">
-<!ENTITY  locbar.history.label          "Chronik">
-<!ENTITY  locbar.bookmarks.label        "Lesezeichen">
-<!ENTITY  locbar.nothing.label          "Nichts">
+<!ENTITY  locbar.pre.label              "Bei Eingaben in die Adressleiste">
+<!ENTITY  locbar.pre.accessKey          "A">
+<!ENTITY  locbar.post.label             " vorschlagen">
+<!ENTITY  locbar.both.label             "Einträge aus Chronik und Lesezeichen">
+<!ENTITY  locbar.history.label          "Einträge aus der Chronik">
+<!ENTITY  locbar.bookmarks.label        "Einträge aus den Lesezeichen">
+<!ENTITY  locbar.nothing.label          "nichts">
 
 
 <!ENTITY  acceptCookies.label           "Cookies akzeptieren">
@@ -57,8 +62,8 @@
 <!ENTITY  dontrememberActions.clearHistory.label "gesamte bisherige Chronik">
 <!ENTITY  dontrememberActions.post.label         " löschen.">
 
-<!ENTITY  privateBrowsingPermanent.label "Permanenter privater Modus">
-<!ENTITY  privateBrowsingPermanent.accesskey "P">
+<!ENTITY  privateBrowsingPermanent2.label "Immer den privaten Modus verwenden">
+<!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
 <!ENTITY  rememberHistory.label          "Besuchte Seiten speichern">
 <!ENTITY  rememberHistory.accesskey      "B">

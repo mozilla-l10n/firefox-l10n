@@ -13,7 +13,6 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara1 "Sie haben &brandShortName; angewiesen, eine gesicherte Verbindung zu <b>#1</b> aufzubauen, es kann aber nicht überprüft werden, ob die Verbindung sicher ist.">
-<!ENTITY certerror.introPara2 "Wenn Sie normalerweise eine gesicherte Verbindung aufbauen, weist sich die Website mit einer vertrauenswürdigen Identifikation aus, um zu garantieren, dass Sie die richtige Website besuchen. Die Identifikation dieser Website dagegen kann nicht bestätigt werden.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Was sollte ich tun?">
 <!ENTITY certerror.whatShouldIDo.content "Falls Sie für gewöhnlich keine Probleme mit dieser Website haben, könnte dieser Fehler bedeuten, dass jemand die Website fälscht. Sie sollten in dem Fall nicht fortfahren.">

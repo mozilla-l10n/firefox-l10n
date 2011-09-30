@@ -7,6 +7,7 @@
 <!ENTITY go.label              "Go">
 <!ENTITY star.label            "Markieren">
 
+<!ENTITY showTabs.label        "Tabs anzeigen">
 <!ENTITY newtab.label          "Neuer Tab">
 <!ENTITY closetab.label        "Tab schließen">
 
@@ -15,6 +16,7 @@
 <!ENTITY copyAll.label         "Alles kopieren">
 <!ENTITY copylink.label        "Link-Adresse kopieren">
 <!ENTITY paste.label           "Einfügen">
+<!ENTITY pasteAndGo.label      "Einfügen &amp; Los">
 <!ENTITY delete.label          "Löschen">
 <!ENTITY selectAll.label       "Alles auswählen">
 <!ENTITY noSuggestions.label   "(Keine Vorschläge)">
@@ -50,7 +52,6 @@
 <!ENTITY addonShowPage.label       "Homepage besuchen">
 
 <!ENTITY downloadsHeader.label     "Downloads">
-
 <!ENTITY downloadShowPage.label    "Zur Download-Seite gehen">
 <!ENTITY downloadShow2.label       "Finden">
 <!ENTITY downloadOpen2.label       "Öffnen">
@@ -68,6 +69,7 @@
 <!ENTITY bookmarkPopup.label       "Lesezeichen gesetzt">
 <!ENTITY bookmarkRemove.label      "Entfernen">
 <!ENTITY bookmarkEdit.label        "Bearbeiten">
+<!ENTITY bookmarkShortcut.label    "Auf Home-Bildschirm ablegen">
 
 <!ENTITY identity.unverifiedsite2 "Diese Website stellt keine Identitätsdaten zur Verfügung.">
 <!ENTITY identity.connectedTo2 "Sie sind verbunden mit">
@@ -93,8 +95,10 @@
 <!ENTITY contextOpenInNewTab.label    "Link in neuem Tab öffnen">
 <!ENTITY contextSaveLink.label        "Link speichern">
 <!ENTITY contextSaveImage.label       "Grafik speichern">
+<!ENTITY contextCopyLink.label        "Link kopieren">
 <!ENTITY contextShareLink.label       "Link teilen">
 <!ENTITY contextShareImage.label      "Grafik teilen">
+<!ENTITY contextBookmarkLink.label    "Lesezeichen für Link setzen">
 <!ENTITY contextSaveVideo.label       "Video speichern">
 <!ENTITY contextShareVideo.label      "Video teilen">
 <!ENTITY contextPlayMedia.label       "Abspielen">
@@ -102,10 +106,12 @@
 <!ENTITY contextFullScreen.label      "Vollbild">
 <!ENTITY contextEditBookmark.label    "Bearbeiten">
 <!ENTITY contextRemoveBookmark.label  "Entfernen">
+<!ENTITY contextShortcutBookmark.label "Auf Home-Bildschirm ablegen">
 
 <!ENTITY pageactions.saveas.pdf      "Als PDF speichern">
 <!ENTITY pageactions.share.page      "Seite teilen">
 <!ENTITY pageactions.password.forget "Passwort entfernen">
+<!ENTITY pageactions.quit            "Beenden">
 <!ENTITY pageactions.reset           "Website-Einstellungen löschen">
 <!ENTITY pageactions.findInPage      "In Seite suchen">
 <!ENTITY pageactions.search.addNew   "Suchmaschine hinzufügen">
