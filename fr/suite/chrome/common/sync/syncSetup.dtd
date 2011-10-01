@@ -39,9 +39,9 @@
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 
-<!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; respecte votre vie privée">
-<!ENTITY setup.newSyncKeyPage.description.label "Pour respecter totalement votre vie privée, toutes vos données sont chiffrées avant d'être envoyées. La clé de synchronisation qui est nécessaire pour déchiffrer vos données n'est pas transmise.">
+<!-- New Account Page 2: Recovery Key -->
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; respecte votre vie privée">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Pour respecter totalement votre vie privée, toutes vos données sont chiffrées avant d'être envoyées. La clé de récupération qui est nécessaire pour déchiffrer vos données n'est pas transmise.">
 <!ENTITY recoveryKeyEntry.label        "Votre clé de récupération">
 <!ENTITY recoveryKeyEntry.accesskey    "c">
 <!ENTITY recoveryKeyGenerate.label     "Générer">
