@@ -35,9 +35,9 @@
 <!ENTITY showCardPane.accesskey "О">
 <!ENTITY menu_ShowNameAs.label "Показывать имя как">
 <!ENTITY menu_ShowNameAs.accesskey "П">
-<!ENTITY firstLastCmd.label "Имя, Фамилия">
+<!ENTITY firstLastCmd.label "Имя Фамилия">
 <!ENTITY firstLastCmd.accesskey "И">
-<!ENTITY lastFirstCmd.label "Фамилия, Имя">
+<!ENTITY lastFirstCmd.label "Фамилия Имя">
 <!ENTITY lastFirstCmd.accesskey "Ф">
 <!ENTITY displayNameCmd.label "Отображаемое имя">
 <!ENTITY displayNameCmd.accesskey "О">
