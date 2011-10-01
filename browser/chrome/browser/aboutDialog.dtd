@@ -21,5 +21,5 @@
 <!ENTITY update.manual.end "">
 <!ENTITY update.downloading.start "Descargando actualización — ">
 <!ENTITY update.downloading.end "">
-<!ENTITY channel.description.start "Estás usando el canal ">
+<!ENTITY channel.description.start "Está usando el canal ">
 <!ENTITY channel.description.end " para actualizar.">
