@@ -88,7 +88,7 @@
 <!ENTITY pasteAsQuotationCmd.accesskey "m">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Kavout hag amsaviñ…">
-<!ENTITY enableInlineSpellChecker.label "Reizhskrivañ e-pad ar biziata">
+<!ENTITY enableInlineSpellChecker.label "Reizhskrivañ en ur vizskrivañ">
 <!ENTITY enableInlineSpellChecker.accesskey "s">
 <!ENTITY checkSpellingCmd2.label "Gwiriañ ar reizhskrivañ">
 <!ENTITY checkSpellingCmd2.accesskey "h">
