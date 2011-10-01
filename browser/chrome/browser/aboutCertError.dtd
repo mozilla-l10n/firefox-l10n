@@ -31,6 +31,6 @@ dizer ao &brandShortName; para começar a confiar na identificação deste síti
 a sua ligação.</b>">
 <!ENTITY certerror.expert.contentPara2 "Não adicione uma excepção a menos que
 saiba que existe uma boa razão porque é que este sítio não tem uma identificação de confiança.">
-<!ENTITY certerror.addException.label "Adicionar excepção…">
+<!ENTITY certerror.addException.label "Adicionar exceção…">
 
 <!ENTITY certerror.technical.heading "Detalhes técnicos">

@@ -21,7 +21,7 @@
 
 <!ENTITY  rememberPasswords.label       "Memorizar as senhas para sítios">
 <!ENTITY  rememberPasswords.accesskey   "r">
-<!ENTITY  passwordExceptions.label      "Excepções...">
+<!ENTITY  passwordExceptions.label      "Exceções...">
 <!ENTITY  passwordExceptions.accesskey  "c">
 
 <!ENTITY  useMasterPassword.label        "Utilizar uma senha mestra">

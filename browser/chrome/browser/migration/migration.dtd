@@ -22,12 +22,12 @@
 
 <!ENTITY importSource.title "Importar definições e dados">
 <!ENTITY importItems.title "Itens a importar">
-<!ENTITY importItems.label "Seleccione os itens a importar:">
+<!ENTITY importItems.label "Selecione os itens a importar:">
 
 <!ENTITY migrating.title "A importar...">
 <!ENTITY migrating.label "Os itens seguintes estão a ser importados...">
 
-<!ENTITY selectProfile.title "Seleccione o perfil">
+<!ENTITY selectProfile.title "Selecione o perfil">
 <!ENTITY selectProfile.label "Os perfis seguintes estão disponíveis para a importação do:">
 
 <!ENTITY done.title "Importação concluída">

@@ -58,21 +58,21 @@
 
 <!ENTITY updateTab.label                 "Actualizar">
 
-<!ENTITY autoCheck.label                 "Verificar automaticamente a existência de actualizações para:">
+<!ENTITY autoCheck.label                 "Verificar automaticamente a existência de atualizações para:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey       "F">
 <!ENTITY enableAddonsUpdate2.label       "Extras">
 <!ENTITY enableAddonsUpdate2.accesskey   "t">
 <!ENTITY enableSearchUpdate.label        "Motores de pesquisa">
 <!ENTITY enableSearchUpdate.accesskey    "m">
-<!ENTITY whenUpdatesFound.label          "Quando forem encontradas actualizações para o &brandShortName;:">
+<!ENTITY whenUpdatesFound.label          "Quando forem encontradas atualizações para o &brandShortName;:">
 <!ENTITY askMe.label                     "Perguntar-me o que fazer">
 <!ENTITY askMe.accesskey                 "q">
-<!ENTITY modeAutomatic.label             "Transferir e instalar automaticamente a actualização">
+<!ENTITY modeAutomatic.label             "Transferir e instalar automaticamente a atualização">
 <!ENTITY modeAutomatic.accesskey         "i">
-<!ENTITY modeAutoAddonWarn.label         "Avisar-me se este procedimento desactivar algum dos meus extras">
+<!ENTITY modeAutoAddonWarn.label         "Avisar-me se este procedimento desativar algum dos meus extras">
 <!ENTITY modeAutoAddonWarn.accesskey     "v">
-<!ENTITY updateHistory.label             "Mostrar o histórico das actualizações">
+<!ENTITY updateHistory.label             "Mostrar o histórico das atualizações">
 <!ENTITY updateHistory.accesskey         "h">
 
 <!ENTITY offlineNotify.label             "Informar-me quando um sítio web pede para guardar dados para uso desligado">
@@ -95,7 +95,7 @@
 <!ENTITY useTLS1.accesskey               "1">
 <!ENTITY certificates.label              "Certificados">
 <!ENTITY certSelection.description       "Quando um sítio pedir um certificado pessoal:">
-<!ENTITY certs.auto                      "Seleccionar um automaticamente">
+<!ENTITY certs.auto                      "Selecionar um automaticamente">
 <!ENTITY certs.auto.accesskey            "u">
 <!ENTITY certs.ask                       "Perguntar sempre">
 <!ENTITY certs.ask.accesskey             "g">
