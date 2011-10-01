@@ -33,8 +33,8 @@
 <!ENTITY signIn.account2.accesskey  "C">
 <!ENTITY signIn.password.label      "Parolă">
 <!ENTITY signIn.password.accesskey  "P">
-<!ENTITY signIn.syncKey.label       "Cheia de sincronizare">
-<!ENTITY signIn.syncKey.accesskey   "C">
+<!ENTITY signIn.recoveryKey.label       "Cheie de recuperare">
+<!ENTITY signIn.recoveryKey.accesskey   "r">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Detalii despre cont">
@@ -55,12 +55,12 @@
 <!ENTITY setup.tosAgree2.accesskey  "ș">
 
 <!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; ține cont de confidențialitatea datelor dumneavoastră">
-<!ENTITY setup.newSyncKeyPage.description.label "Pentru a asigura total confidențialitatea datelor dumneavoastră, ele sunt criptate înainte de a fi încărcate. Cheia de sincronizare, necesară pentru a decripta datele dumneavoastră, nu este încărcată pe server.">
-<!ENTITY syncKeyEntry.label        "Cheia de sincronizare">
-<!ENTITY syncKeyEntry.accesskey    "C">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; ține cont de confidențialitatea datelor dumneavoastră">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Pentru a vă asigura confidențialitatea totală, toate datele sunt criptate înainte de a fi încărcate pe server. Cheia de recuperare e necesară pentru a decripta datele nu este încărcată.">
+<!ENTITY recoveryKeyEntry.label        "Cheia dumneavoastră de recuperare">
+<!ENTITY recoveryKeyEntry.accesskey    "c">
 <!ENTITY syncGenerateNewKey.label  "Generează o cheie nouă">
-<!ENTITY syncKeyBackup.description "Cheia dumneavoastră de sincronizare este necesară pentru a folosi &syncBrand.fullName.label; pe alte dispozitive. Vă rugăm să creați o copie de rezervă. Noi nu vă putem ajuta să vă recuperați cheia de sincronizare.">
+<!ENTITY recoveryKeyBackup.description "Cheia dumneavoastră de recuperare e necesară pentru a accesa &syncBrand.fullName.label; pe alte mașini. Vă rugăm creați o copie de rezervă. Nu vă putem ajuta să o recuperați.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Tipărește…">
 <!ENTITY button.syncKeyBackup.print.accesskey "p">
@@ -79,12 +79,12 @@
 <!ENTITY addDevice.dialog.enterCode.label   "Introduceți codul furnizat de dispozitiv:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Vă rugăm încercați încă o dată.">
 <!ENTITY addDevice.dialog.successful.label  "The device has been successfully added. The initial synchronization can several minutes and will finish in the background.">
-<!ENTITY addDevice.dialog.syncKey.label     "Pentru activarea dispozitivului trebuie să introduceți cheia de sincronizare. Vă rugăm să tipăriți sau să salvați cheia și să o păstrați.">
+<!ENTITY addDevice.dialog.recoveryKey.label     "Pentru a vă activa dispozitivul, va trebui să introduceți cheia de recuperare. Vă rugăm tipăriți-o sau salvați-o și luați-o cu dumneavoastră.">
 <!ENTITY addDevice.dialog.connected.label   "Dispozitiv conectat">
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Autentificare">
-<!ENTITY existingSyncKey.description "Puteți obține o copie a cheii de sincronizare accesând opțiunile &syncBrand.shortName.label; de pe dispozitivul dumneavoastră și selectând &#x0022;Cheia mea de sincronizare&#x0022; din &#x0022;Administrare cont&#x0022;.">
+<!ENTITY existingRecoveryKey.description "Puteți obține o copie a cheii de recuperare accesând opțiunile &syncBrand.shortName.label; de pe dispozitivul dumneavoastră și selectând „Cheia mea de recuperare” din „Gestionare cont”.">
 <!ENTITY verifying.label              "Se verifică…">
 <!ENTITY resetPassword.label          "Resetează parola">
 <!ENTITY resetSyncKey.label           "Am pierdut celălalt dispozitiv.">

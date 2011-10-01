@@ -25,8 +25,8 @@
 <!ENTITY useCurrentPage.label      "Folosește pagina curentă">
 <!ENTITY useCurrentPage.accesskey  "c">
 <!ENTITY useMultiple.label         "Folosește paginile curente">
-<!ENTITY useBookmark.label         "Folosește un semn de carte">
-<!ENTITY useBookmark.accesskey     "s">
+<!ENTITY chooseBookmark.label      "Folosește un semn de carte…">
+<!ENTITY chooseBookmark.accesskey  "s">
 <!ENTITY restoreDefault.label      "Folosește opțiunea implicită">
 <!ENTITY restoreDefault.accesskey  "F">
 
