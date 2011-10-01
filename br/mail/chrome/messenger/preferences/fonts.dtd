@@ -6,9 +6,9 @@
 <!ENTITY  language.label                          "Nodrezhoù :">
 <!ENTITY  language.accesskey                      "r">
 
-<!ENTITY  size.label                              "Ment">
+<!ENTITY  size.label                              "Ment :">
 <!ENTITY  proportionalSize.accesskey              "e">
-<!ENTITY  sizeMono.accesskey                      "x">
+<!ENTITY  sizeMono.accesskey                      "t">
 
 <!ENTITY  proportional.label                      "Kenfeuriek :">
 <!ENTITY  proportional.accesskey                  "n">
@@ -60,7 +60,7 @@
 <!-- fonts in message -->
 <!ENTITY  fontControl.label                       "Gwiriañ an nodrezh">
 <!ENTITY  useFixedWidthForPlainText.label         "Arverañ un nodrezh gant ul led digemmus evit ar c'hemennadennoù testenn">
-<!ENTITY  fixedWidth.accesskey                    "x">
+<!ENTITY  fixedWidth.accesskey                    "A">
 <!ENTITY  useDocumentFonts.label                  "Aotren ar c'hemennadennoù da arverañ nodrezhoù all">
 <!ENTITY  useDocumentFonts.accesskey              "o">
 
