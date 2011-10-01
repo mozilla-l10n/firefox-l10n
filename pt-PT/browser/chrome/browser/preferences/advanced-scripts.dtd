@@ -44,5 +44,5 @@
 <!ENTITY moveResizeWindows.accesskey    "r">
 <!ENTITY raiseLowerWindows.label "Minimizem ou maximizem janelas">
 <!ENTITY raiseLowerWindows.accesskey "M">
-<!ENTITY disableContextMenus.label "Desactivem ou substituam menus de contexto">
+<!ENTITY disableContextMenus.label "Desativem ou substituam menus de contexto">
 <!ENTITY disableContextMenus.accesskey "D">
