@@ -114,9 +114,11 @@
 <!ENTITY consoleErrColumn.label    "Coloana:">
 
 <!ENTITY contextOpenInNewTab.label    "Deschide legătura în filă nouă">
-<!ENTITY contextSaveLink.label        "Salvare legătură">
 <!ENTITY contextSaveImage.label       "Salvează imaginea">
 <!ENTITY contextCopyLink.label        "Copiază legătura">
+<!ENTITY contextCopyEmail.label       "Copiază adresa de email">
+<!ENTITY contextCopyPhone.label       "Copiază numărul de telefon">
+<!ENTITY contextCopyImageLocation.label       "Copiază adresa imaginii">
 <!ENTITY contextShareLink.label       "Trimitere legătură">
 <!ENTITY contextShareImage.label      "Trimite imaginea">
 <!ENTITY contextBookmarkLink.label    "Adaugă legătura ca semn de carte">
@@ -137,7 +139,6 @@
 <!ENTITY pageactions.findInPage      "Găsește în pagină">
 <!ENTITY pageactions.search.addNew   "Adăugare motor de căutare">
 <!ENTITY pageactions.charEncoding    "Codare caractere">
-<!ENTITY pageactions.webapps.install "Instalează ca aplicație">
 
 <!ENTITY appMenu.siteOptions         "Opțiuni sait">
 

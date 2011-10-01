@@ -24,5 +24,15 @@
 <!ENTITY aboutHome.noTabs                       "Nu sunt file deschise anterior">
 <!ENTITY aboutHome.noAddons                     "Niciun supliment recomandat">
 <!ENTITY aboutHome.getLocale                    "Schimbă limba">
+<!ENTITY aboutHome.getInBeforeBeta              "Vezi înainte de Beta.">
+<!ENTITY aboutHome.tryAurora                    "Încearcă Firefox Aurora și ajută viitorul Firefox.">
+<!-- LOCALIZATION NOTE:
+     (aboutHome.downloadAurora): First line of a multi-line button. Treat as a title.
+-->
+<!ENTITY aboutHome.downloadAurora		"Descarcă Aurora">
+<!-- LOCALIZATION NOTE:
+     (aboutHome.forAndroid): Second line of a multi-line button. Treat as a subtitle.
+-->
+<!ENTITY aboutHome.forAndroid			"pentru Android">
 
 

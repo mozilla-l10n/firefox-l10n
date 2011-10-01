@@ -20,7 +20,6 @@
 <!ENTITY sync.connect               "Conectare">
 <!ENTITY sync.connected             "Conectat">
 <!ENTITY sync.details               "Detalii">
-<!ENTITY sync.synchronize           "Activează sincronizarea">
 <!ENTITY sync.deviceName            "Acest dispozitiv">
 <!ENTITY sync.disconnect            "Deconectează">
 <!ENTITY sync.syncNow               "Sincronizează acum">
@@ -31,7 +30,7 @@
 <!ENTITY sync.setup.manual          "Introduceți informațiile contului dumneavoastră de sincronizare">
 <!ENTITY sync.account               "Nume cont">
 <!ENTITY sync.password              "Parola">
-<!ENTITY sync.syncKey               "Cheia de sincronizare">
+<!ENTITY sync.recoveryKey           "Cheie de recuperare">
 <!ENTITY sync.customServer          "Folosește server personalizat">
 <!ENTITY sync.serverURL             "URL către server">
 <!ENTITY sync.setup.connect         "Conectare">
