@@ -32,6 +32,7 @@
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configurație de construcție">
 <!ENTITY aboutSupport.appBasicsUserAgent "Agent de utilizator">
 <!ENTITY aboutSupport.appBasicsCrashIDs "Rapoarte de defecte">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Utilizare memorie">
 
 <!ENTITY aboutSupport.show.label "Deschide dosarul conținător">
 
