@@ -35,5 +35,6 @@
 <!ENTITY homepage.default                          "&brandShortName; la început">
 <!ENTITY homepage.currentpage                      "Folosește pagina curentă">
 <!ENTITY showCharsetEncoding.title                 "Arată codarea caracterelor">
+<!ENTITY actionbar.default                         "Setări &brandShortName;">
 
 
