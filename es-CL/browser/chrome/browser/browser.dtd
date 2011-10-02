@@ -117,6 +117,8 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "Adelante">
 <!ENTITY forwardCmd.accesskey         "A">
 <!ENTITY forwardButton.tooltip        "Avanza una página">
+<!ENTITY backForwardButtonMenu.tooltip "Botón derecho o descolgar para mostrar historial">
+<!ENTITY backForwardButtonMenuMac.tooltip "Descolgar para mostrar historial">
 
 <!ENTITY reloadCmd.label              "Recargar">
 <!ENTITY reloadCmd.accesskey          "R">
@@ -332,6 +334,7 @@ can reach it easily. -->
   
  -->
 <!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
 <!ENTITY tabView.commandkey           "e">
