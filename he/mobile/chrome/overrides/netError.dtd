@@ -1,4 +1,13 @@
 <!--
+# Translator(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+# Yaron <sh.yaron@gmail.com>
+# elad <el.il@doom.co.il>
+# hatul <amiadb@gmail.com>
+#
+-->
+<!--
 # Reviewer(s):
 #
 # http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
@@ -19,14 +28,11 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "שרת לא נמצא">
-<!ENTITY dnsNotFound.longDesc2 "
-<ul>
-  <li>Check the address for typing errors such as
-    <strong>ww</strong>.example.com instead of
-    <strong>www</strong>.example.com</li>
-  <li>If you are unable to load any pages, check your device's data or Wi-Fi connection.</li>
-</ul>
-">
+<!ENTITY dnsNotFound.longDesc2 " <ul>
+  <li>בדוק כי הכתובת הוקלדה ללא שגיאות כגון
+    <strong>ww</strong>.example.com במקום <strong>www</strong>.example.com</li>
+  <li>אם אינך יכול לטעון כל דף, בדוק שקיים חיבור נתונים או Wi-Fi.</li>
+</ul>  ">
 
 <!ENTITY fileNotFound.title "קובץ לא נמצא">
 <!ENTITY fileNotFound.longDesc "
@@ -57,11 +63,9 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "מצב לא־מקוון">
-<!ENTITY netOffline.longDesc2 "
-<ul>
-  <li>Try again. &brandShortName; will attempt to open a connection and reload the page.</li>
-</ul>
-">
+<!ENTITY netOffline.longDesc2 "<ul>
+ <li>נסה שוב. &brandShortName; ינסה לפתוח חיבור ולטעון את הדף מחדש.</li>
+</ul>">
 
 <!ENTITY contentEncodingError.title "שגיאה בקידוד תוכן">
 <!ENTITY contentEncodingError.longDesc "
@@ -96,12 +100,10 @@
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "שרת מתווך לא נמצא">
-<!ENTITY proxyResolveFailure.longDesc2 "
-<ul>
-  <li>Check the proxy settings to make sure that they are correct.</li>
-  <li>Check to make sure your device has a working data or Wi-Fi connection.</li>
-</ul>
-">
+<!ENTITY proxyResolveFailure.longDesc2 "  <ul>
+    <li>וודא שהגדרות השרת המתווך נכונות.</li>
+    <li>בדוק שקיים חיבור נתונים פעיל או Wi-Fi.</li>
+  <ul>  ">
 
 <!ENTITY redirectLoop.title "הדף מבצע העברה לא תקינה">
 <!ENTITY redirectLoop.longDesc "
@@ -133,18 +135,17 @@
 </ul>
 ">
 
-<!ENTITY sharedLongDesc2 "
-<ul>
-  <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>
-  <li>If you are unable to load any pages, check your mobile device's data or Wi-Fi connection.</li>
+<!ENTITY sharedLongDesc2 "<ul>
+  <li>האתר אינו זמין באופן זמני או שהוא עמוס מידי. נא לנסות שוב בעוד מספר רגעים.</li>
+  <li>במידה ואינך מצליח לטעון כל דף כלשהו, בדוק את חיבור הנתונים או ה־Wi-Fi של ההתקן שברשותך.</li>
 </ul>
 ">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+<!ENTITY cspFrameAncestorBlocked.title "נחסם בהתאם למדיניות האבטחה של התוכן">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; מונע מדף זה להיטען בצורה זו מאחר שהדף כולל מדיניות אבטחת תוכן שמונעת זאת.</p>">
 
-<!ENTITY corruptedContentError.title "Corrupted Content Error">
-<!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
+<!ENTITY corruptedContentError.title "שגיאת תוכן פגום">
+<!ENTITY corruptedContentError.longDesc "<p>הדף שאתה מנסה לצפות בו אינו יכול להיות מוצג בגלל שהתגלתה שגיאה בהעברת הנתונים.</p><ul><li>אנא צור קשר עם בעלי האתר והודע על בעיה זו.</li></ul>">
 
 <!ENTITY securityOverride.linkText "באפשרותך גם להוסיף חריגה…">
 <!ENTITY securityOverride.getMeOutOfHereButton "תוציא אותי מכאן!">
@@ -155,15 +156,14 @@ contents of the <xul:button> tags.  The only language content is the label= fiel
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningContent "
-<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p>
+<!ENTITY securityOverride.warningContent "<p>מומלץ שלא להוסיף חריגה אם אתה משתמש בחיבור רשת בלתי מהימן לחלוטין או אם אינך רגיל לראות אזהרות עבור שרת זה.</p>
 
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
 
-<!ENTITY remoteXUL.title "Remote XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Please contact the website owners to inform them of this problem.</li></ul></p>">
+<!ENTITY remoteXUL.title "XUL מרוחק">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>פנה אל בעלי האתר כדי ליידע אותם על בעיה זו.</li></ul></p>">
 
 
 
