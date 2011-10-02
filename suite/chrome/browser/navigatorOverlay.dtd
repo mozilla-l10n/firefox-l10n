@@ -49,13 +49,6 @@
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
 
-<!ENTITY applyTheme.label	"Použiť tému">
-<!ENTITY applyTheme.accesskey	"t">
-<!ENTITY getNewThemesCmd.label "Získať nové témy">
-<!ENTITY getNewThemesCmd.accesskey "Z">
-<!ENTITY getPersonasCmd.label "Získať témy Personas">
-<!ENTITY getPersonasCmd.accesskey "P">
-
 <!-- Go Menu -->
 <!ENTITY goMenu.label "Prejsť">
 <!ENTITY goMenu.accesskey "r">

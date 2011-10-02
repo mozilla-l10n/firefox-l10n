@@ -90,6 +90,8 @@
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Zobraziť">
 <!ENTITY viewMenu.accesskey "Z">
+<!ENTITY menubarCmd.label "Hlavná ponuka">
+<!ENTITY menubarCmd.accesskey "H">
 <!ENTITY viewToolbarsMenuNew.label "Panely s nástrojmi">
 <!ENTITY viewToolbarsMenuNew.accesskey "P">
 <!ENTITY showCompositionToolbarCmd.label "Panel Písanie správy">

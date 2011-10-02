@@ -11,6 +11,7 @@
 <!ENTITY email.accesskey "E">
 <!ENTITY replyTo.label "Kam odpovedať:">
 <!ENTITY replyTo.accesskey "K">
+<!ENTITY replyTo.placeholder "Príjemcovia budú odpovedať na túto adresu">
 <!ENTITY organization.label "Organizácia:">
 <!ENTITY organization.accesskey "a">
 <!ENTITY signatureText.label "Podpis:">
