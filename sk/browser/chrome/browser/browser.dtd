@@ -209,6 +209,9 @@ can reach it easily. -->
 <!ENTITY inspectMenu.accesskey        "P">
 <!ENTITY inspectMenu.commandkey       "I">
 
+<!ENTITY inspectContextMenu.label     "Preskúmať prvok">
+<!ENTITY inspectContextMenu.accesskey "m">
+
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "Preskúmať">
 <!ENTITY inspectButton.accesskey      "P">

@@ -3,7 +3,6 @@
 <!ENTITY sync.connect               "Pripojiť">
 <!ENTITY sync.connected             "Pripojené">
 <!ENTITY sync.details               "Podrobnosti">
-<!ENTITY sync.synchronize           "Zapnúť synchronizáciu">
 <!ENTITY sync.deviceName            "Toto zariadenie">
 <!ENTITY sync.disconnect            "Odpojiť">
 <!ENTITY sync.syncNow               "Synchronizovať">

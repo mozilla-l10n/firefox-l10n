@@ -95,6 +95,9 @@
 <!ENTITY contextOpenInNewTab.label    "Otvoriť odkaz na novej karte">
 <!ENTITY contextSaveImage.label       "Uložiť obrázok">
 <!ENTITY contextCopyLink.label        "Kopírovať odkaz">
+<!ENTITY contextCopyEmail.label       "Kopírovať e-mailovú adresu">
+<!ENTITY contextCopyPhone.label       "Kopírovať telefónne číslo">
+<!ENTITY contextCopyImageLocation.label       "Kopírovať umiestnenie obrázka">
 <!ENTITY contextShareLink.label       "Zdieľať odkaz">
 <!ENTITY contextShareImage.label      "Zdieľať obrázok">
 <!ENTITY contextBookmarkLink.label    "Pridať medzi záložky">
@@ -115,6 +118,5 @@
 <!ENTITY pageactions.findInPage      "Hľadať na stránke">
 <!ENTITY pageactions.search.addNew   "Pridať vyhľadávací modul">
 <!ENTITY pageactions.charEncoding    "Kódovanie">
-<!ENTITY pageactions.webapps.install "Nainštalovať ako aplikáciu">
 
 <!ENTITY appMenu.siteOptions         "Nastavenia stránky">

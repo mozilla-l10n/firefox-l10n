@@ -20,8 +20,8 @@
 <!ENTITY viewQuota.accesskey          "b">
 <!ENTITY changePassword.label         "Zmeniť heslo">
 <!ENTITY changePassword.accesskey     "s">
-<!ENTITY mySyncKey.label              "Môj Synchronizačný kľúč">
-<!ENTITY mySyncKey.accesskey          "M">
+<!ENTITY myRecoveryKey.label          "Môj Obnovovací kľúč">
+<!ENTITY myRecoveryKey.accesskey      "M">
 <!ENTITY resetSync.label              "Nová synchronizácia">
 <!ENTITY resetSync.accesskey          "c">
 <!ENTITY deactivateDevice.label       "Deaktivovať toto zariadenie">
