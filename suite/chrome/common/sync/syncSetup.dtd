@@ -20,8 +20,8 @@
 <!ENTITY signIn.account2.accesskey  "e">
 <!ENTITY signIn.password.label      "Heslo">
 <!ENTITY signIn.password.accesskey  "H">
-<!ENTITY signIn.syncKey.label       "Synchronizačný kľúč">
-<!ENTITY signIn.syncKey.accesskey   "k">
+<!ENTITY signIn.recoveryKey.label     "Obnovovací kľúč">
+<!ENTITY signIn.recoveryKey.accesskey "k">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Podrobnosti o účte">
@@ -39,14 +39,14 @@
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 
-<!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; sa stará o vaše súkromie">
-<!ENTITY setup.newSyncKeyPage.description.label "Na maximálne zabezpečenie vášho súkromia sú všetky vaše údaje pred odoslaním zašifrované. Synchronizačný kľúč, ktorý je potrebný na ich odšifrovanie, nie je odosielaný.">
-<!ENTITY syncKeyEntry.label        "Váš Synchronizačný kľúč">
-<!ENTITY syncKeyEntry.accesskey    "k">
-<!ENTITY syncKeyGenerate.label     "Vygenerovať">
-<!ENTITY syncKeyGenerate.accesskey "e">
-<!ENTITY syncKeyBackup.description "Na prístup k službe &syncBrand.fullName.label; z iných zariadení je potrebný Synchronizačný kľúč. Preto si vytvorte jeho kópiu. Váš Synchronizačný kľúč nie je možné po strate obnoviť.">
+<!-- New Account Page 2: Recovery Key -->
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; sa stará o vaše súkromie">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Na maximálne zabezpečenie vášho súkromia sú všetky vaše údaje pred odoslaním zašifrované. Obnovovací kľúč, ktorý je potrebný na ich odšifrovanie, nie je odosielaný.">
+<!ENTITY recoveryKeyEntry.label        "Váš Obnovovací kľúč">
+<!ENTITY recoveryKeyEntry.accesskey    "k">
+<!ENTITY recoveryKeyGenerate.label     "Vygenerovať">
+<!ENTITY recoveryKeyGenerate.accesskey "e">
+<!ENTITY recoveryKeyBackup.description "Na prístup k službe &syncBrand.fullName.label; z iných zariadení je potrebný Obnovovací kľúč. Preto si vytvorte jeho kópiu. Váš Obnovovací kľúč nie je možné po strate obnoviť.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Vytlačiť…">
 <!ENTITY button.syncKeyBackup.print.accesskey "V">
@@ -66,12 +66,12 @@
 <!ENTITY addDevice.dialog.enterCode.label   "Zadajte kód, ktorý poskytlo zariadenie:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Skúste to znova.">
 <!ENTITY addDevice.dialog.successful.label  "Zariadenie bolo úspešne pridané. Úvodná synchronizácia môže trvať niekoľko minút a prebehne na pozadí.">
-<!ENTITY addDevice.dialog.syncKey.label     "Na aktiváciu zariadenia budete potrebovať Synchronizačný kľúč. Vytlačte alebo uložte si tento kľúč a zoberte si ho so sebou.">
+<!ENTITY addDevice.dialog.recoveryKey.label "Na aktiváciu zariadenia budete potrebovať Obnovovací kľúč. Vytlačte alebo uložte si tento kľúč a zoberte si ho so sebou.">
 <!ENTITY addDevice.dialog.connected.label   "Zariadenie pripojené">
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Prihlásenie">
-<!ENTITY existingSyncKey.description "Kópiu svojho Synchronizačného kľúča môžete získať v nastaveniach služby &syncBrand.shortName.label; vo vašom inom zariadení zvolením položky  &#x0022;Môj Synchronizačný kľúč&#x0022; v sekcii &#x0022;Správa účtu&#x0022;.">
+<!ENTITY existingRecoveryKey.description "Kópiu svojho Obnovovacieho kľúča môžete získať v nastaveniach služby &syncBrand.shortName.label; vo vašom inom zariadení zvolením položky  &#x0022;Môj Obnovovací kľúč&#x0022; v sekcii &#x0022;Správa účtu&#x0022;.">
 <!ENTITY verifying.label              "Overuje sa…">
 <!ENTITY resetPassword.label          "Nové heslo">
 

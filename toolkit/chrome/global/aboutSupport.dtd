@@ -21,6 +21,7 @@
 <!ENTITY aboutSupport.appBasicsBuildConfig "Konfigurácia zostavenia">
 <!ENTITY aboutSupport.appBasicsUserAgent "Reťazec User Agent">
 <!ENTITY aboutSupport.appBasicsCrashIDs "Správy o zlyhaní">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Využitie pamäte">
 
 <!ENTITY aboutSupport.show.label "Otvoriť priečinok">
 

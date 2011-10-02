@@ -6,6 +6,9 @@
 
 <!-- General Settings -->
 
+<!ENTITY submitTelemetry.label         "Odosielať údaje o výkonnosti">
+<!ENTITY submitTelemetry.accesskey     "d">
+<!ENTITY telemetryInfoLink.label       "Ďalšie informácie o údajoch výkonnosti">
 <!ENTITY enableGlodaSearch.label        "Povoliť globálne vyhľadávanie a indexovanie správ">
 <!ENTITY enableGlodaSearch.accesskey    "o">
 <!ENTITY systemIntegration.label        "Integrácia so systémom">

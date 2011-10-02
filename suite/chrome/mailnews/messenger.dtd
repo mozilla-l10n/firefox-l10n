@@ -107,10 +107,6 @@
 <!ENTITY downloadSelectedCmd.accesskey "v">
 <!ENTITY downloadFlaggedCmd.label "Prijať správy označené vlajkou">
 <!ENTITY downloadFlaggedCmd.accesskey "a">
-<!ENTITY printCmd.label "Tlačiť…">
-<!ENTITY printCmd.accesskey "T">
-<!ENTITY printPreviewCmd.label "Ukážka pred tlačou">
-<!ENTITY printPreviewCmd.accesskey "e">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Odstrániť správu">
