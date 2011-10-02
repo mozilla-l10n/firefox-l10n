@@ -22,6 +22,16 @@
 <!ENTITY aboutHome.openAllTabs                  "פתח הכל בלשוניות">
 <!ENTITY aboutHome.noTabs                       "אין לשוניות מהפעם הקודמת">
 <!ENTITY aboutHome.noAddons                     "אין תוספות מומלצות">
-<!ENTITY aboutHome.getLocale                    "Change Language">
+<!ENTITY aboutHome.getLocale                    "שינוי שפה">
+<!ENTITY aboutHome.getInBeforeBeta              "הצטרפו לפני הבטא.">
+<!ENTITY aboutHome.tryAurora                    "נסו את Firefox Aurora ועזרו לעצב את העתיד של Firefox.">
+<!-- LOCALIZATION NOTE:
+     (aboutHome.downloadAurora): First line of a multi-line button. Treat as a title.
+-->
+<!ENTITY aboutHome.downloadAurora		"הורדת Aurora">
+<!-- LOCALIZATION NOTE:
+     (aboutHome.forAndroid): Second line of a multi-line button. Treat as a subtitle.
+-->
+<!ENTITY aboutHome.forAndroid			"עבור Android">
 
 
