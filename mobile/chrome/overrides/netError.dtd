@@ -99,10 +99,12 @@
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "שרת מתווך לא נמצא">
-<!ENTITY proxyResolveFailure.longDesc2 "  <ul>
-    <li>וודא שהגדרות השרת המתווך נכונות.</li>
-    <li>בדוק שקיים חיבור נתונים פעיל או Wi-Fi.</li>
-  <ul>  ">
+<!ENTITY proxyResolveFailure.longDesc2 "
+<ul>
+  <li>וודא שהגדרות השרת המתווך נכונות.</li>
+  <li>בדוק שקיים חיבור נתונים פעיל או Wi-Fi.</li>
+</ul>
+">
 
 <!ENTITY redirectLoop.title "הדף מבצע העברה לא תקינה">
 <!ENTITY redirectLoop.longDesc "
