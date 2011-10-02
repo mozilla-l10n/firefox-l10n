@@ -107,13 +107,6 @@
 <!ENTITY downloadSelectedCmd.accesskey "v">
 <!ENTITY downloadFlaggedCmd.label "Prijať správy označené vlajkou">
 <!ENTITY downloadFlaggedCmd.accesskey "a">
-<!ENTITY printCmd.label "Tlačiť…">
-<!ENTITY printCmd.accesskey "T">
-<!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Ukážka pred tlačou">
-<!ENTITY printPreviewCmd.accesskey "e">
-<!ENTITY printSetupCmd.label "Nastavenie tlače…">
-<!ENTITY printSetupCmd.accesskey "a">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Odstrániť správu">
@@ -142,7 +135,7 @@
 <!ENTITY folderPropsNewsgroupCmd.label "Vlastnosti diskusnej skupiny…">
 <!ENTITY folderPropsCmd.accesskey "l">
 <!ENTITY accountManagerCmd.label "Nastavenie účtov…">
-<!ENTITY accountManagerCmd.accesskey "N">
+<!ENTITY accountManagerCmd.accesskey "a">
 <!ENTITY undoDeleteMsgCmd.label "Obnoviť odstránenú správu">
 <!ENTITY redoDeleteMsgCmd.label "Znovu odstrániť správu">
 <!ENTITY undoMoveMsgCmd.label "Späť presunúť správu">

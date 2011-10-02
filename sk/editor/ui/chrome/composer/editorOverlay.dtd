@@ -68,11 +68,6 @@
 <!ENTITY publishAsCmd.accesskey "b">
 <!ENTITY saveAsChangeEncodingCmd.label "Uložiť a zmeniť kódovanie">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "k">
-<!ENTITY printSetupCmd.label "Nastavenie tlače…">
-<!ENTITY printSetupCmd.accesskey "N">
-<!ENTITY printCmd.label "Tlačiť…">
-<!ENTITY printCmd.accesskey "T">
-<!ENTITY printCmd.key "P">
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "Upraviť">

@@ -23,5 +23,5 @@
 <!ENTITY safeb.blocked.phishingPage.title "Nahlásená podozrivá stránka!">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc "Webová stránka <span id='phishing_sitename'/> bola označená ako podozrivá a na základe nastavení zabezpečenia bola zablokovaná.">
-<!ENTITY safeb.blocked.phishingPage.longDesc "<p>Tieto typy podvodných stránok sú využívané pri podvodných útokoch, ktoré sa snažia napodobňovať zdroje, ktorým veríte a vylákať od vás osobné informácie alebo informácie o vašich peňažných účtoch.</p><p>Ak na tejto stránke zadáte nejaké údaje, môžu byť použité na ukradnutie identity alebo inak zneužité.</p>">
+<!ENTITY safeb.blocked.phishingPage.longDesc "<p>Tieto typy stránok sú využívané pri podvodných útokoch, ktoré sa snažia napodobňovať zdroje, ktorým veríte a vylákať od vás osobné informácie alebo informácie o vašich peňažných účtoch.</p><p>Ak na tejto stránke zadáte nejaké údaje, tieto môžu byť použité na ukradnutie identity alebo inak zneužité.</p>">
 

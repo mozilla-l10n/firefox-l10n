@@ -21,3 +21,4 @@
 <!ENTITY homepage.default                          "Úvodná stránka prehliadača &brandShortName;">
 <!ENTITY homepage.currentpage                      "Použiť aktuálnu stránku">
 <!ENTITY showCharsetEncoding.title                 "Zobraziť ponuku Kódovanie">
+<!ENTITY actionbar.default                         "Nastavenia prehliadača &brandShortName;">

@@ -18,6 +18,13 @@
 <!ENTITY newNavigatorCmd.label "Okno prehliadača">
 <!ENTITY newNavigatorCmd.key "n">
 <!ENTITY newNavigatorCmd.accesskey "O">
+<!ENTITY printSetupCmd.label "Nastavenie tlače…">
+<!ENTITY printSetupCmd.accesskey "a">
+<!ENTITY printPreviewCmd.label "Ukážka pred tlačou">
+<!ENTITY printPreviewCmd.accesskey "e">
+<!ENTITY printCmd.label "Tlačiť…">
+<!ENTITY printCmd.accesskey "T">
+<!ENTITY printCmd.key "P">
 
 <!ENTITY editMenu.label                   "Upraviť">
 <!ENTITY editMenu.accesskey               "U">
@@ -65,9 +72,9 @@
 <!ENTITY findAgainCmd.accesskey "d">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Hľadať naspäť">
-<!ENTITY findPrevCmd.key "n">
+<!ENTITY findPrevCmd.key "g">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "v">
+<!ENTITY findPrevCmd.accesskey "n">
 <!ENTITY findTypeTextCmd.label "Hľadať počas písania textu na stránke">
 <!ENTITY findTypeTextCmd.accesskey "x">
 <!ENTITY findTypeLinksCmd.label "Hľadať odkazy počas písania textu">
