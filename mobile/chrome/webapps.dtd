@@ -16,6 +16,6 @@
 <!ENTITY webapps.perm.offline "אחסון נתונים לא־מקוון">
 <!ENTITY webapps.perm.notifications "התראות על שולחן העבודה">
 <!ENTITY webapps.perm.requestedHint "(התבקש)">
-<!ENTITY webapps.add-homescreen "הוספה למסך הבית">
+<!--###ENTITY webapps.add-homescreen "הוספה למסך הבית"-->
 
 

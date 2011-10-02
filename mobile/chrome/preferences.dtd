@@ -37,6 +37,6 @@
 <!ENTITY homepage.default                          "עמוד הפתיחה של &brandShortName;">
 <!ENTITY homepage.currentpage                      "השתמש בדף הנוכחי">
 <!ENTITY showCharsetEncoding.title                 "הצג קידוד תווים">
-<!ENTITY actionbar.default                         "הגדרות &brandShortName;">
+<!--###ENTITY actionbar.default                         "הגדרות &brandShortName;"-->
 
 
