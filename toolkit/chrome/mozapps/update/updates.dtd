@@ -72,14 +72,14 @@
 
 <!ENTITY  finishedPage.title              "Update bereit zur Installation">
 <!ENTITY  finishedPage.text               "Das Update wird beim nächsten &brandShortName;-Start installiert. Sie können
-                                           &brandShortName; jetzt neu starten oder weiter arbeiten und später neu starten.">
+                                           &brandShortName; jetzt neu starten oder weiterarbeiten und später neu starten.">
 
 <!ENTITY  finishedBackgroundPage.text     "Ein Sicherheits- und Stabilitäts-Update für &brandShortName; wurde heruntergeladen
                                            und ist bereit zur Installation.">
 <!ENTITY  finishedBackground.name         "Update:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Das Update wird beim nächsten &brandShortName;-Start installiert. Sie können
-                                           &brandShortName; jetzt neu starten oder weiter arbeiten und später neu starten.">
+                                           &brandShortName; jetzt neu starten oder weiterarbeiten und später neu starten.">
 
 <!ENTITY  installed.title                 "Update installiert">
 <!ENTITY  installed.intro                 "Das Update wurde erfolgreich installiert.">
