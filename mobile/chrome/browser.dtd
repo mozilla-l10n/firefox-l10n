@@ -7,6 +7,7 @@
 # Yaron <sh.yaron@gmail.com>
 # hatul <amiadb@gmail.com>
 # bartselen <bartselen@gmail.com>
+# amire80 <amir.aharoni@mail.huji.ac.il>
 #
 -->
 <!--
@@ -24,7 +25,7 @@
 <!ENTITY go.label              "לך">
 <!ENTITY star.label            "כוכב">
 
-<!ENTITY showTabs.label        "Show Tabs">
+<!ENTITY showTabs.label        "הצגת לשוניות">
 <!ENTITY newtab.label          "לשונית חדשה">
 <!ENTITY closetab.label        "סגור לשונית">
 
@@ -110,9 +111,11 @@
 <!ENTITY consoleErrColumn.label    "עמודה:">
 
 <!ENTITY contextOpenInNewTab.label    "פתיחת קישור בלשונית חדשה">
-<!ENTITY contextSaveLink.label        "שמירת קישור">
 <!ENTITY contextSaveImage.label       "שמירת תמונה">
 <!ENTITY contextCopyLink.label        "העתקת קישור">
+<!ENTITY contextCopyEmail.label       "העתקת כתובת דוא״ל">
+<!ENTITY contextCopyPhone.label       "העתקת מספר טלפון">
+<!ENTITY contextCopyImageLocation.label       "העתקת מיקום תמונה">
 <!ENTITY contextShareLink.label       "שיתוף קישור">
 <!ENTITY contextShareImage.label      "שיתוף תמונה">
 <!ENTITY contextBookmarkLink.label    "קישור סימניה">
@@ -128,12 +131,11 @@
 <!ENTITY pageactions.saveas.pdf      "שמירה בתור PDF">
 <!ENTITY pageactions.share.page      "שיתוף דף">
 <!ENTITY pageactions.password.forget "שכח סיסמה">
-<!ENTITY pageactions.quit            "Quit">
+<!ENTITY pageactions.quit            "יציאה">
 <!ENTITY pageactions.reset           "נקה העדפות לגבי אתר">
 <!ENTITY pageactions.findInPage      "חפש בדף זה">
 <!ENTITY pageactions.search.addNew   "הוספת מנוע חיפוש">
-<!ENTITY pageactions.charEncoding    "Character Encoding">
-<!ENTITY pageactions.webapps.install "התקנה כיישום">
+<!ENTITY pageactions.charEncoding    "קידוד תווים">
 
 <!ENTITY appMenu.siteOptions         "אפשרויות אתר">
 

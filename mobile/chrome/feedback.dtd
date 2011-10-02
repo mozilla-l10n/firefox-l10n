@@ -17,7 +17,7 @@
 <!ENTITY feedback.feedback.good         "טוב">
 <!ENTITY feedback.feedback.bad          "רע">
 
-<!ENTITY feedback.tools.title           "Tools">
+<!ENTITY feedback.tools.title           "כלים">
 <!ENTITY feedback.allowTelemetry.title  "שליחת נתוני ביצועים">
 <!ENTITY feedback.forceCompat.title     "כפיית תאימות תוספות">
 <!ENTITY feedback.errorConsole.title    "אפשור מסוף השגיאות">

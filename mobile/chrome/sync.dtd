@@ -15,7 +15,6 @@
 <!ENTITY sync.connect               "התחברות">
 <!ENTITY sync.connected             "מחובר">
 <!ENTITY sync.details               "פרטים">
-<!ENTITY sync.synchronize           "אפשור סנכרון">
 <!ENTITY sync.deviceName            "התקן זה">
 <!ENTITY sync.disconnect            "התנתקות">
 <!ENTITY sync.syncNow               "סנכרן עכשיו">
@@ -26,7 +25,7 @@
 <!ENTITY sync.setup.manual          "נא להזין את פרטי חשבון Sync שלך">
 <!ENTITY sync.account               "שם חשבון">
 <!ENTITY sync.password              "ססמה">
-<!ENTITY sync.syncKey               "מפתח סנכרון">
+<!ENTITY sync.recoveryKey           "שחזור מפתח">
 <!ENTITY sync.customServer          "שימוש בשרת מותאם אישית">
 <!ENTITY sync.serverURL             "כתובת שרת">
 <!ENTITY sync.setup.connect         "התחברות">
