@@ -91,9 +91,11 @@
 <!ENTITY showContactPane.accesskey "O">
 <!ENTITY menu_ShowNameAs.label "Zobrazit jméno jako">
 <!ENTITY menu_ShowNameAs.accesskey "b">
-<!ENTITY firstLastCmd.label "Jméno Příjmení">
-<!ENTITY firstLastCmd.accesskey "J">
-<!ENTITY lastFirstCmd.label "Příjmení, jméno">
+<!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
+because displayed names don't have the comma in between. -->
+<!ENTITY firstLastCmd2.label "Jméno Příjmení">
+<!ENTITY firstLastCmd2.accesskey "J">
+<!ENTITY lastFirstCmd.label "Příjmení, Jméno">
 <!ENTITY lastFirstCmd.accesskey "P">
 <!ENTITY displayNameCmd.label "Zobrazené jméno">
 <!ENTITY displayNameCmd.accesskey "Z">
