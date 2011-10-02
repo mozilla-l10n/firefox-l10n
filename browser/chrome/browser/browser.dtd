@@ -359,7 +359,7 @@ can reach it easily. -->
 <!ENTITY viewImageCmd.label           "Grafik anzeigen">
 <!ENTITY viewImageCmd.accesskey       "r">
 <!ENTITY viewImageInfoCmd.label       "Grafik-Info anzeigen">
-<!ENTITY viewImageInfoCmd.accesskey   "o">
+<!ENTITY viewImageInfoCmd.accesskey   "e">
 <!ENTITY viewVideoCmd.label           "Video anzeigen">
 <!ENTITY viewVideoCmd.accesskey       "V">
 <!ENTITY viewBGImageCmd.label         "Hintergrundgrafik anzeigen">
