@@ -111,11 +111,12 @@
 <!ENTITY consoleErrColumn.label    "עמודה:">
 
 <!ENTITY contextOpenInNewTab.label    "פתיחת קישור בלשונית חדשה">
+<!ENTITY contextSaveLink.label        "שמירת קישור">
 <!ENTITY contextSaveImage.label       "שמירת תמונה">
 <!ENTITY contextCopyLink.label        "העתקת קישור">
-<!ENTITY contextCopyEmail.label       "העתקת כתובת דוא״ל">
-<!ENTITY contextCopyPhone.label       "העתקת מספר טלפון">
-<!ENTITY contextCopyImageLocation.label       "העתקת מיקום תמונה">
+<!--###ENTITY contextCopyEmail.label       "העתקת כתובת דוא״ל"-->
+<!--###ENTITY contextCopyPhone.label       "העתקת מספר טלפון"-->
+<!--###ENTITY contextCopyImageLocation.label       "העתקת מיקום תמונה"-->
 <!ENTITY contextShareLink.label       "שיתוף קישור">
 <!ENTITY contextShareImage.label      "שיתוף תמונה">
 <!ENTITY contextBookmarkLink.label    "קישור סימניה">
@@ -135,8 +136,8 @@
 <!ENTITY pageactions.reset           "נקה העדפות לגבי אתר">
 <!ENTITY pageactions.findInPage      "חפש בדף זה">
 <!ENTITY pageactions.search.addNew   "הוספת מנוע חיפוש">
+<!ENTITY pageactions.webapps.install "התקנה כיישום">
 <!ENTITY pageactions.charEncoding    "קידוד תווים">
-
 <!ENTITY appMenu.siteOptions         "אפשרויות אתר">
 
 

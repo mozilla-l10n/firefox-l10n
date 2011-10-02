@@ -54,8 +54,7 @@
   <li>כתובות אתרים מכתבות בדרך־כלל בתבנית של 
     <strong>http://www.example.com/</strong></li>
   <li>ודא שאתה משתמש בלוכסן קדמי
-("
-    <strong>/</strong>").</li>
+(&quot;<strong>/</strong>&quot;).</li>
 </ul>
 ">
 
