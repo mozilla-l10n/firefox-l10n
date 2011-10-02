@@ -14,7 +14,7 @@
 <!ENTITY sanitizeDialog2.title         "Wëczëszczë historëjã przezéraniô">
 
 <!ENTITY sanitizeItems.label          "Wëczëszczë nôslédné elementë:">
-<!ENTITY clearDataSettings2.label     "Przë zamkniãcu programë &brandShortName; mają bëc rëmniãté nôslédné elementë:">
+<!ENTITY clearDataSettings2.label     "Przë zamkniãcu programù &brandShortName; mają bëc rëmniãté nôslédné elementë:">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.

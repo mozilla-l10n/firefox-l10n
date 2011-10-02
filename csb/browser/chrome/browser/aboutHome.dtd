@@ -10,7 +10,7 @@
 
 <!-- These strings are used in the about:home page -->
 
-<!ENTITY abouthome.pageTitle "Startowô starna programë &brandFullName;">
+<!ENTITY abouthome.pageTitle "Startowô starna programù &brandFullName;">
 
 <!ENTITY abouthome.searchEngineButton.label "Szëkba">
 

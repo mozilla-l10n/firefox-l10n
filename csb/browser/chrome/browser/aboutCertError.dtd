@@ -19,7 +19,7 @@ by NSS/PSM via netError.xhtml. -->
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara1 "Programa &brandShortName; òsta pòproszonô ò bezpiéczną łączbã 
+<!ENTITY certerror.introPara1 "Program &brandShortName; òstôł pòproszony ò bezpiéczną łączbã 
 z serwerã <b>#1</b>, nié mòże równak pòcwierdzëc bezpiécznegò sparłãczenia.">
 <!ENTITY certerror.introPara2 "Zwëkòwò, czedë parłączësz sã ze starną bezpiécznô, przedstôwiô òna identifikacëjã do pòtwierdzeniô, że jidzesz w dobri môl. Równak identifikacëjô ny starnë ni mòże bëc zwerifikòwónô.">
 
@@ -28,7 +28,7 @@ z serwerã <b>#1</b>, nié mòże równak pòcwierdzëc bezpiécznegò sparłãc
 <!ENTITY certerror.getMeOutOfHere.label "Wez mie stądka precz!">
 
 <!ENTITY certerror.expert.heading "Rozmiejã to rizykò">
-<!ENTITY certerror.expert.content "Jeżlë rozmiejesz ò co jidze, mòżesz rzec programie &brandShortName; bë naczãła dowierzac identifikacjëji ti starnë. <b>Nawetka, jeżlë dowiérzasz ti starnie, na fela mòże òznaczac, że chtos majstrëje przë twòjim internetowim sparłãczenim.</b>">
+<!ENTITY certerror.expert.content "Jeżlë rozmiejesz ò co jidze, mòżesz rzec programòwi &brandShortName; bë naczãł dowierzac identifikacjëji ti starnë. <b>Nawetka, jeżlë dowiérzasz ti starnie, na fela mòże òznaczac, że chtos majstrëje przë twòjim internetowim sparłãczenim.</b>">
 <!ENTITY certerror.expert.contentPara2 "Nie dodôwôj wëjimków, chòba że znôsz dobri pòwód czemù na starna nie brëkùje dowierzony identifikacëji.">
 <!ENTITY certerror.addException.label "Dodôj rozszérzenié…">
 

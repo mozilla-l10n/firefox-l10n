@@ -24,7 +24,7 @@
   -  "Scratchpad" in your locale. You should feel free to find a close
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
-<!ENTITY window.title                 "Brudnopis">
+<!ENTITY window.title                 "Czôrnopis">
 
 <!ENTITY fileMenu.label               "Lopk">
 <!ENTITY fileMenu.accesskey           "L">

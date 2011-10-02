@@ -24,7 +24,7 @@
 <!ENTITY safeb.blocked.malwarePage.title "Zgłoszë atakùjącą starnã!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Na starna <span id='malware_sitename'/> òsta zgłoszonô jakno niebezpiécznô ë òsta zablokòwónô na spòdlim Twòjëch nastowôw bezpiékù.">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Niebezpiéczne starnë próbùją jinstalowac programë bë wëkrasc personowé jinfòrmacëje, brëkùją Twòjégò kòmpùtra bë atakòwac jine abò niszczą Twòją systemã.</p><p>Niechtërné taczé starnë célowò rokòscérzają szkòdlëwé òprogramòwanié, ale wiele je zarwónëch bez wiédzë jich miéwców.</p>">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Niebezpiéczne starnë próbùją jinstalowac programù bë wëkrasc personowé jinfòrmacëje, brëkùją Twòjégò kòmpùtra bë atakòwac jine abò niszczą Twòją systemã.</p><p>Niechtërné taczé starnë célowò rokòscérzają szkòdlëwé òprogramòwanié, ale wiele je zarwónëch bez wiédzë jich miéwców.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title "Zgłoszonô próba cëganieniô!">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->

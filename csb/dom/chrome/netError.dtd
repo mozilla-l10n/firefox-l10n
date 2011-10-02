@@ -32,7 +32,7 @@
 <!ENTITY generic.longDesc "<p>Dodôwnô wëdowiédzô ò ti problemie abò felë ni są terô przëstãpné.</p>">
 
 <!ENTITY malformedURI.title "Lëchô adresa">
-<!ENTITY malformedURI.longDesc "<p>Dónô adresa je w nieznónym fòrmace.Nót je òbôczë, czë w adresowi listwie ni ma felów, a pò tim spróbòwac znowa.</p>">
+<!ENTITY malformedURI.longDesc "<p>Dónô adresa je w nieznónym fòrmace.Nót je òbôczë, czë w adresowi lëstwie ni ma felów, a pò tim spróbòwac znowa.</p>">
 
 <!ENTITY netInterrupt.title "Òprzestóné sélanié pòdôwków">
 <!ENTITY netInterrupt.longDesc "<p>Przezérnik sparłãczëł sã, równak sparłãczenié òstało przerwóné przë sélaniu wëdowiédzë. Nót je spróbòwac znowa.</p><ul><li>Ni mòżész téż òbzérac jinszëch starnów? Nót je sprôwdzëc sparłãczenié z sécą.</li><li>Jeżlë dali są problemë, nót je sparłãczëc sã ze sprôwnikã sécë abò z dowòznikã internetowich ùsłëżnotów.</li></ul>">
@@ -79,7 +79,7 @@
 </ul>">
 
 <!ENTITY malwareBlocked.title "Starna mòże przeprowôdzac ataczi!">
-<!ENTITY malwareBlocked.longDesc "<p>Negò ôrtu starnë mògą próbòwac winstalowac programë kradzącé krëjamné pòdôwczi, brëkùjąc twòjegò kòmpùtra do pòstrzédniczeniô w atakach abò zespsëc twòją systemã.</p>
+<!ENTITY malwareBlocked.longDesc "<p>Negò ôrtu starnë mògą próbòwac winstalowac programù kradzącé krëjamné pòdôwczi, brëkùjąc twòjegò kòmpùtra do pòstrzédniczeniô w atakach abò zespsëc twòją systemã.</p>
 <p>Miéwcë starnów, chtërné zmiłkòwò òstałë ùznóne za przeprowôdzające ataczi, mògą <a href='http://www.stopbadware.org/home/reviewinfo'>pòproszëc ò nowé jich sprôwdzenié</a>.</p>">
 
 <!ENTITY phishingBlocked.title "Prôwdoòdobné szachrajstwò!">

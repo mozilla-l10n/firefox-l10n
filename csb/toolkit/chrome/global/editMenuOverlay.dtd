@@ -1,15 +1,3 @@
-<!--
-# Translator(s):
-#
-# https://launchpad.net/~kaszeba <mark@linuxcsb.org>
-#
--->
-<!--
-# Reviewer(s):
-#
-# jurk <jurk@linuxcsb.org>
-#
--->
 <!ENTITY editMenu.label            "Edicëjô">
 <!ENTITY editMenu.accesskey        "E">
 <!ENTITY undoCmd.label             "Copni">
@@ -34,10 +22,10 @@
 <!ENTITY selectAllCmd.accesskey    "W">
 <!ENTITY findCmd.label             "Nalezë">
 <!ENTITY findCmd.key               "F">
-<!ENTITY findCmd.accesskey         "N">
+<!ENTITY findCmd.accesskey         "a">
 <!ENTITY findAgainCmd.label        "Nalezë znowa">
 <!ENTITY findAgainCmd.key          "G">
 <!ENTITY findAgainCmd.key2         "VK_F3">
-<!ENTITY findAgainCmd.accesskey    "N">
+<!ENTITY findAgainCmd.accesskey    "n">
 <!ENTITY findPreviousCmd.label     "Nalezë pòprzedné">
-<!ENTITY findPreviousCmd.accesskey "N">
+<!ENTITY findPreviousCmd.accesskey "ò">

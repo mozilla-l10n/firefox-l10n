@@ -57,16 +57,16 @@
 <!ENTITY disableAddons.label          "Wëłączë wszëtczé przëdôwczi">
 <!ENTITY disableAddons.accesskey      "W">
 
-<!ENTITY resetToolbars.label          "Doprowôdzë nazôd domëslné listwë nôrzãdzów ë knąpë">
+<!ENTITY resetToolbars.label          "Doprowôdzë nazôd domëslné lëstwë nôrzãdzów ë knąpë">
 <!ENTITY resetToolbars.accesskey      "D">
 
 <!ENTITY deleteBookmarks.label        "Rëmôj wszëtczé załóżczi le òstawi ne do dodôwny kòpiji">
 <!ENTITY deleteBookmarks.accesskey    "R">
 
-<!ENTITY resetUserPrefs.label         "Przełączë wszëtczé nastôwë programë &brandShortName; na domëslné wôrtnotë">
+<!ENTITY resetUserPrefs.label         "Przełączë wszëtczé nastôwë programù &brandShortName; na domëslné wôrtnotë">
 <!ENTITY resetUserPrefs.accesskey     "e">
 
-<!ENTITY restoreSearch.label          "Doprowôdzë nazôd domëslny zestôwk szëkôrzów">
+<!ENTITY restoreSearch.label          "Doprowôdzë nazôd domëslny zestôwk szëkôszów">
 <!ENTITY restoreSearch.accesskey      "d">
 
 <!ENTITY changeAndRestartButton.label "Zrobi zmianë ë zrëszë znowa">

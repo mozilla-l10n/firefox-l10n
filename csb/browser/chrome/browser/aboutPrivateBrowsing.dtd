@@ -15,10 +15,10 @@
 <!ENTITY privatebrowsingpage.title                 "Priwatné przezéranié">
 <!ENTITY privatebrowsingpage.title.normal          "Chcesz nacząc priwatné przezéranié?">
 
-<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; nié spamiãtô historëji przezéraniô dlô ti sesëji.">
+<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; nie spamiãtô historëji przezéraniô dlô ti sesëji.">
 <!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; nie robi terô w tribie priwatnegò przezéraniô.">
 
-<!ENTITY privatebrowsingpage.description               "Przë priwatny sesëji, &brandShortName; nie spamiãtô historëji przezéraniô, szëkbë, historëji zladënkù lopków ë pòdôwków. Równak bãdze trzëmôł kùszczi z gòscónych starnów ë zladowóné lopczi.">
+<!ENTITY privatebrowsingpage.description               "Przë priwatny sesëji, &brandShortName; nie spamiãtôj historëji przezéraniô, szëkbë, historëji zladënkù lopków ë pòdôwków. Równak bãdze trzëmôł kùszczi z gòscónych starnów ë zladowóné lopczi.">
 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->

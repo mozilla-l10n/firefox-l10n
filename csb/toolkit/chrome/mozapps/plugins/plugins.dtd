@@ -19,12 +19,12 @@
 <!ENTITY pluginWizard.licensePage.deny.label                 "Nie zgôdzóm sã (wtëkôcz nie bãdze winstalowóny)">
 
 <!ENTITY pluginWizard.installPluginsPage.title               "Instalacëjô wtëkôczów">
-<!ENTITY pluginWizard.installPluginsPage.description.label   "Programa &brandShortName; instalëje wtëkôcze…">
+<!ENTITY pluginWizard.installPluginsPage.description.label   "Program &brandShortName; instalëje wtëkôcze…">
 
 <!ENTITY pluginWizard.finalPage.description.label            "Program &brandShortName; skùńcza instalacëjã felëjących wtëkôczów:">
 
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "Dobëjë wicy wëdowiédzë ò wtëkôczach abò szëkôj rãczno za felëjącyma.">
-<!ENTITY pluginWizard.finalPage.restart.label                "Abë wtëkôcz bëł zrëszony, nót je zrëszenié programë &brandShortName; znowa.">
+<!ENTITY pluginWizard.finalPage.restart.label                "Abë wtëkôcz bëł zrëszony, nót je zrëszenié program &brandShortName; znowa.">
 
 <!ENTITY missingPlugin                                       "A plugin is needed to display this content.">
 <!ENTITY disabledPlugin                                      "This plugin is disabled.">

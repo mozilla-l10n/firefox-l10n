@@ -114,7 +114,7 @@
 
 <!ENTITY escrowWarn.title "Kòpijô klucza szifrowania">
 <!ENTITY escrowWarn.message1 "Wôżné: Òrgan werifikacëji chce zazychrowac twòj priwatny klucz szifrowaniô.">
-<!ENTITY escrowWarn.benefit1 "Żle stracësz przëstãp do swòjich priwatnych kluczë, bãdzész móg ne klucze dobëc nazôt òd òrganu werifikacëji.">
+<!ENTITY escrowWarn.benefit1 "Żle stracësz przistãp do swòjich priwatnych kluczë, bãdzész mógł ne klucze dobëc nazôt òd òrganu werifikacëji.">
 <!ENTITY escrowWarn.message2 "Kò twòj priwatny klucz bãdze zazychrowóny przez òrgan werifikacëji ë mógłbë bëc ùzëty do òtemkniãcô twòjich zaszifrowónych e-mailów, czë dokùmeńtów, bez twòjégò zezwoleniô.">
 <!ENTITY examineCert.label "Wëskrzëni certifikat">
 <!ENTITY examineCert.accesskey "W">
@@ -130,7 +130,7 @@
 <!-- Form Signing confirmation prompt -->
 <!ENTITY formSigning.title "Tekst ë pòdpis prosbë">
 <!ENTITY formSigning.cert "Cerifikat pòdpisu">
-<!ENTITY formSigning.confirmPassword "Pòcwierdzë przez pòdpis przë ùżëcim certifikata ë pòdônim przédni parolë:">
+<!ENTITY formSigning.confirmPassword "Pòcwierdzë przez pòdpis przë ùżëcym certifikata ë pòdônim przédny parolë:">
 
 <!-- Strings for protectedAuth dialog -->
 <!ENTITY protectedAuth.title "Zabezpieczóny token autorizacëji">

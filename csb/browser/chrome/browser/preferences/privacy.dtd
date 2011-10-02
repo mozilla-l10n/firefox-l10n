@@ -18,9 +18,9 @@
 
 <!ENTITY  history.label                 "Historëjô">
 
-<!ENTITY  locationBar.label             "Listew adresë">
+<!ENTITY  locationBar.label             "Lëstew adresë">
 
-<!ENTITY  locbar.pre.label              "Pòdpòwiescë w listwie adresë òpierôj na:">
+<!ENTITY  locbar.pre.label              "Pòdpòwiescë w lëstwie adresë òpierôj na:">
 <!ENTITY  locbar.pre.accessKey          "u">
 <!ENTITY  locbar.post.label             "">
 <!ENTITY  locbar.both.label             "historëji ë załóżkach">
@@ -39,7 +39,7 @@
 <!ENTITY  keepUntil.accesskey           "T">
 
 <!ENTITY  expire.label                  "aż wëgasną">
-<!ENTITY  close.label                   "aż zamknã programã &brandShortName;">
+<!ENTITY  close.label                   "aż zamknã program &brandShortName;">
 <!ENTITY  askEachTime.label             "pëtôj wiedno">
 
 <!ENTITY  cookieExceptions.label        "Wëjimczi…">
@@ -48,7 +48,7 @@
 <!ENTITY  showCookies.label             "Wëskrzëni kùszczi…">
 <!ENTITY  showCookies.accesskey         "k">
 
-<!ENTITY  historyHeader.pre.label          "Programa &brandShortName;:">
+<!ENTITY  historyHeader.pre.label          "Program &brandShortName;:">
 <!ENTITY  historyHeader.pre.accesskey      "m">
 <!ENTITY  historyHeader.remember.label     "Pamiãtôj historëjã">
 <!ENTITY  historyHeader.dontremember.label "Nié pamiãtôj historëji">
@@ -66,7 +66,7 @@
 <!ENTITY  rememberActions.removeCookies.label "rëmnąc pòjedińcze kùszczi">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  dontrememberDescription.label  "Programa &brandShortName; bãdze brëkòwa tich sómëch nastôwów co w priwatnym tribie ë nié bãdze pamiãta historëji przë przezéraniu starnów WWW.">
+<!ENTITY  dontrememberDescription.label  "Program &brandShortName; bãdze brëkòwôł tich sómëch nastôwów co w priwatnym tribie ë nié bãdze pamiãtôł historëji przë przezéraniu starnów WWW.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
@@ -86,7 +86,7 @@
 <!ENTITY  rememberSearchForm.label       "Spamiãtôj historëjã szëkbë ë fòrmùlôrzów">
 <!ENTITY  rememberSearchForm.accesskey   "f">
 
-<!ENTITY  clearOnClose.label             "Wëczëszczë historëjã przë zamëkaniu programë &brandShortName;">
+<!ENTITY  clearOnClose.label             "Wëczëszczë historëjã przë zamëkanim programù &brandShortName;">
 <!ENTITY  clearOnClose.accesskey         "W">
 
 <!ENTITY  clearOnCloseSettings.label     "Nastôwë…">

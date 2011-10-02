@@ -4,59 +4,59 @@
 <!ENTITY  offline.description             "&brandShortName; mùszi robic w tribie online, abë sprôwdzëc czë zaktualnienia
                                            są przëstãpné dlô winstalowónych rozszérzeniów, przez co bãdą òne zgòdné z
 
-                                           wersëją programë.">
+                                           wersëją programù.">
 <!ENTITY  offline.toggleOffline.label     "Biéj do tribù online.">
 <!ENTITY  offline.toggleOffline.accesskey "t">
 
-<!ENTITY  mismatch.win.title              "Niekòmpatibilné przëdôwczi">
-<!ENTITY  mismatch.top.label              "Nôslédny przëdôwczi nie są zgòdné z ną wersëją programë
+<!ENTITY  mismatch.win.title              "Niekòmpatibilné dodôwczi">
+<!ENTITY  mismatch.top.label              "Nôslédny dodôwczi nie są zgòdné z ną wersëją programù
                                            &brandShortName; ë òstałé wëłączoné:">
 <!ENTITY  mismatch.bottom.label           "&brandShortName; mòże sprôwdzëc, czë są przëstãpné kòmpatibilné
-                                           wersëje tich przëdôwków.">
+                                           wersëje nëch dodôwków.">
 
-<!ENTITY  checking.wizard.title           "Szëkba za kòmpatibilnyma przëdôwkama">
-<!ENTITY  checking.top.label              "Szëkba za zaktualnieniama dlô niekòmpatibilnych przëdôwków…">
+<!ENTITY  checking.wizard.title           "Szëkba za kòmpatibilnyma dodôwkama">
+<!ENTITY  checking.top.label              "Szëkba za zaktualnieniama dlô niekòmpatibilnych dodôwków…">
 <!ENTITY  checking.status                 "To mòże zbawic czile minut…">
 
-<!ENTITY  found.wizard.title               "Nalazłé kòmpatibilné przëdôwczi">
-<!ENTITY  found.top.label                 "Wëbierzë przëdôwk do winstalowaniô:">
+<!ENTITY  found.wizard.title               "Nalazłé kòmpatibilné dodôwczi">
+<!ENTITY  found.top.label                 "Wëbierzë dodôwk do winstalowaniô:">
 <!ENTITY  found.disabledXPinstall.label   "Zaktualnienia nié mògłë bëc winstalowóné, dlôte że instalacëjô softwôrë je terô
                                            wëłączonô. Mòże to zmienic niżi.">
 <!ENTITY  found.enableXPInstall.label     "Zezwòlë starną na instalacëjã softwôrë">
 <!ENTITY  found.enableXPInstall.accesskey "Z">
 
-<!ENTITY  installing.wizard.title         "Instalacëjô kòmpatibilnych przëdôwków">
-<!ENTITY  installing.top.label            "Zladënk ë instalacëjô zaktualnieniów przëdôwków…">
+<!ENTITY  installing.wizard.title         "Instalacëjô kòmpatibilnych doôwków">
+<!ENTITY  installing.top.label            "Zladënk ë instalacëjô zaktualnieniów dodôwków…">
 
-<!ENTITY  noupdates.wizard.title          "Nié nalazłé kòmpatibilne przëdôwczi">
-<!ENTITY  noupdates.intro.desc            "Programa &brandShortName; nié nalazła niżódnych aktualizacëjów dlô
-                                           niekòmpatibilnych przëdôwków.">
+<!ENTITY  noupdates.wizard.title          "Nié nalazłé kòmpatibilne dodôwczi">
+<!ENTITY  noupdates.intro.desc            "Program &brandShortName; nié nalôzł niżódnych aktualizacëjów dlô
+                                           niekòmpatibilnych dodôwków.">
 <!ENTITY  noupdates.error.desc            "Pòkôzałë sã gwësné problemë przë szëkbie za aktualizacëjama.">
-<!ENTITY  noupdates.checkEnabled.desc     "Programa &brandShortName; bãdzë periodiczno sprôwdzała ë dôwała wiédzã
-                                           ò przëstãpnych kòmpatibilnych zaktualnieniach dlô przëdôwków.">
+<!ENTITY  noupdates.checkEnabled.desc     "Program &brandShortName; bãdze periodiczno sprôwdzôł ë dôwôł wiédzã
+                                           ò przëstãpnych kòmpatibilnych zaktualnieniach dlô dodôwków.">
 
-<!ENTITY  finished.wizard.title           "Winstalowóno kòmpatibilné przëdôwczi">
-<!ENTITY  finished.top.label              "Programa &brandShortName; winstalowała aktualizacëje dlô przëdôwków.">
-<!ENTITY  finished.checkDisabled.desc     "Programa &brandShortName; mòże periodiczno sprôwdzac ë dôwac wiédzã
-                                           ò przëstãpnych kòmpatibilnych zaktualnieniach dlô przëdôwków.">
-<!ENTITY  finished.checkEnabled.desc      "Programa &brandShortName; bãdzë periodiczno sprôwdzała ë dôwała wiédzã
-                                           ò przëstãpnych zaktualnieniach dlô przëdôwków.">
+<!ENTITY  finished.wizard.title           "Winstalowóno kòmpatibilné dodôwczi">
+<!ENTITY  finished.top.label              "Program &brandShortName; winstalowôł aktualizacëje dlô dodôwków.">
+<!ENTITY  finished.checkDisabled.desc     "Program &brandShortName; mòże periodiczno sprôwdzac ë dôwac wiédzã
+                                           ò przëstãpnych kòmpatibilnych zaktualnieniach dlô dodôwków.">
+<!ENTITY  finished.checkEnabled.desc      "Program &brandShortName; bãdzë periodiczno sprôwdzôł ë dôwôł wiédzã
+                                           ò przëstãpnych zaktualnieniach dlô dodôwków.">
 
-<!ENTITY  adminDisabled.wizard.title      "Nié mòże sprôwdzëc przëstãpnotë zaktualnieniów">
-<!ENTITY  adminDisabled.warning.label     "Nalezenié zaktualnieniów dlô niekòmpatibilnych przëdôwków nie je mòżlëwé dlôte że ,
+<!ENTITY  adminDisabled.wizard.title      "Nie mòże sprôwdzëc przëstãpnotë zaktualnieniów">
+<!ENTITY  adminDisabled.warning.label     "Nalezenié zaktualnieniów dlô niekòmpatibilnych dodôwków nie je mòżlëwé dlôte że ,
                                            instalacëjô softwôrë w programie &brandShortName; òsta wëłączonô.
                                            Proszã sparłãczëc sã ze sprôwnikã systemë.">
 
-<!ENTITY  versioninfo.wizard.title        "Sprôwdzanié kòmpatibilnotë przëdôwków">
-<!ENTITY  versioninfo.top.label           "Sprôwdzanié, czë winstalowóné przëdôwczi są kòmpatibilné z ną
-                                           wersëją programë &brandShortName;.">
+<!ENTITY  versioninfo.wizard.title        "Sprôwdzanié kòmpatibilnotë dodôwków">
+<!ENTITY  versioninfo.top.label           "Sprôwdzanié, czë winstalowóné dodôwczi są kòmpatibilné z ną
+                                           wersëją programù &brandShortName;.">
 <!ENTITY  versioninfo.waiting             "To mòże zbawic czile minut…">
 
 <!ENTITY  installerrors.wizard.title      "Problemë przë instalacëji zaktualnienia">
-<!ENTITY  installerrors.intro.label       "Programa &brandShortName; pòtka problemë przë aktualizacëji
-                                           niejednych przëdôwków.">
+<!ENTITY  installerrors.intro.label       "Program &brandShortName; pòtkôł problemë przë aktualizacëji
+                                           niejednych dodôwków.">
 
 <!-- general strings used by several of the finish pages -->
-<!ENTITY  clickFinish.label               "Klëkni na Zakùńczë, abë jisc dali ze zrëszaniém programë &brandShortName;.">
-<!ENTITY  clickFinish.labelMac            "Klëkni na Parôt, abë jisc dali ze zrëszaniém programë &brandShortName;.">
-<!ENTITY  enableChecking.label            "Zezwòlë programie &brandShortName; na szëkbã za zaktualnieniama.">
+<!ENTITY  clickFinish.label               "Klëkni na Zakùńczë, abë jisc dali ze zrëszaniém programù &brandShortName;.">
+<!ENTITY  clickFinish.labelMac            "Klëkni na Parôt, abë jisc dali ze zrëszaniém programù &brandShortName;.">
+<!ENTITY  enableChecking.label            "Zezwòlë programòwi &brandShortName; na szëkbã za zaktualnieniama.">

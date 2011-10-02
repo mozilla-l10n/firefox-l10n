@@ -2,7 +2,7 @@
 
 <!ENTITY dialog.title            "Instalacëjô softwôrë">
 <!ENTITY dialog.style            "szérzô: 45em">
-<!ENTITY warningPrimary.label    "Nót je instalowac przëdôwczi ze zdrojów jaczim mòże wierzëc.">
+<!ENTITY warningPrimary.label    "Nót je instalowac dodôwczi ze zdrojów jaczim mòże wierzëc.">
 <!ENTITY warningSecondary.label  "Niebezpiecznô softwôra mòże zepsëc pòdôwczi w kòmpùtrze abò narëszëc priwatnotã brëkòwnikã.">
 
 <!ENTITY from.label "z:">

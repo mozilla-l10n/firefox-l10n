@@ -36,7 +36,7 @@
 <!ENTITY generic.longDesc "<p>Dodôwnô wëdowiédzô ò ti problemie abò felë ni są terô przëstãpné.</p>">
 
 <!ENTITY malformedURI.title "Lëchô adresa">
-<!ENTITY malformedURI.longDesc "<p>Dónô adresa je w nieznónym fòrmace.Nót je òbôczë, czë w adresowi listwie ni ma felów, a pò tim spróbòwac znowa.</p>">
+<!ENTITY malformedURI.longDesc "<p>Dónô adresa je w nieznónym fòrmace.Nót je òbôczë, czë w adresowi lëstwie ni ma felów, a pò tim spróbòwac znowa.</p>">
 
 <!ENTITY netInterrupt.title "Òprzestóné sélanié pòdôwków">
 <!ENTITY netInterrupt.longDesc "<p>Przezérnik sparłãczëł sã, równak sparłãczenié òstało przerwóné przë sélaniu wëdowiédzë. Nót je spróbòwac znowa.</p><ul><li>Ni mòżész téż òbzérac jinszëch starnów? Nót je sprôwdzëc sparłãczenié z sécą.</li><li>Jeżlë dali są problemë, nót je sparłãczëc sã ze sprôwnikã sécë abò z dowòznikã internetowich ùsłëżnotów.</li></ul>">
@@ -90,20 +90,20 @@
 <ul>
   <li>Na starna mòże bëc terczasno nieprzëstãpnô abò zajãtô. Spróbùjë znowa za sztócëk.</li>
   <li>Jeżlë ni mòżesz zaladowac niżódny starnë, sprôwdzë ùstôwë swòjégò sécowégò sparłãczeniô.</li>
-  <li>Jeżlë twòj kòmpùtr abò séc je chronionô przez firewall abò proxy, sprôwdzë, czë programa &brandShortName; mô prawa przëstãpù do Internetu.</li>
+  <li>Jeżlë twòj kòmpùtr abò séc je chronionô przez firewall abò proxy, sprôwdzë, czë program &brandShortName; mô prawa przëstãpù do Internetu.</li>
 </ul>
 ">
 
 <!ENTITY malwareBlocked.title "Starna mòże przeprowôdzac ataczi!">
-<!ENTITY malwareBlocked.longDesc "<p>Negò ôrtu starnë mògą próbòwac winstalowac programë kradzącé krëjamné pòdôwczi, brëkùjąc twòjegò kòmpùtra do pòstrzédniczeniô w atakach abò zespsëc twòją systemã.</p>
+<!ENTITY malwareBlocked.longDesc "<p>Negò ôrtu starnë mògą próbòwac winstalowac program kradzącé krëjamné pòdôwczi, brëkùjąc twòjegò kòmpùtra do pòstrzédniczeniô w atakach abò zepsëc twój system.</p>
 <p>Miéwcë starnów, chtërné zmiłkòwò òstałë ùznóne za przeprowôdzające ataczi, mògą <a href='http://www.stopbadware.org/home/reviewinfo'>pòproszëc ò nowé jich sprôwdzenié</a>.</p>">
 
 <!ENTITY phishingBlocked.title "Prôwdoòdobné szachrajstwò!">
-<!ENTITY phishingBlocked.longDesc "<p>Wpisanié wëdowiédzë ò se na ti starnie mòże doprowôdzëc do skradzëniô identifikacëji czë jinszi szkòdë.</p>
+<!ENTITY phishingBlocked.longDesc "<p>Wpisanié wëdowiédzë ò se na ny starnie mòże doprowôdzëc do skradzëniô identifikacëji czë jinszi szkòdë.</p>
 <p>Negò ôrtu szachrajstwa przezëwô sã jakno phishing. Nen atak to ùsôdzaznié przez przekroczników starnë szlachùjący za òridżinalną abò wiadła ùdôwającegò zdrój trzëmóny za zycher.</p>">
 
 <!ENTITY cspFrameAncestorBlocked.title "Blokòwóné przez Pòlitikã Bezpiékù Zamkłoscë">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Programa &brandShortName; ùniemòżebniła ti starnié zaladowanié na nen ôrt, bò mô òna taką pòlitkiã zamkłoscë chtërnô na to nie pòzwôlô.</p>">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Program &brandShortName; ùniemòżebnił ny starnié zaladowanié na nen ôrt, bò mô òna taką pòlitkiã zamkłoscë chtërnô na to nie pòzwôlô.</p>">
 
 <!ENTITY corruptedContentError.title "Corrupted Content Error">
 <!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">

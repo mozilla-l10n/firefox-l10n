@@ -73,13 +73,13 @@
 <!ENTITY updateTab.label                 "Aktualizacëjô">
 
 <!ENTITY autoCheck.label                 "Sprôwdzôj automatno przëstãpnotã aktualizacëji dlô:">
-<!ENTITY enableAppUpdate.label           "programë &brandShortName;">
+<!ENTITY enableAppUpdate.label           "programù &brandShortName;">
 <!ENTITY enableAppUpdate.accesskey       "p">
 <!ENTITY enableAddonsUpdate2.label       "Przëdôwczi">
 <!ENTITY enableAddonsUpdate2.accesskey   "P">
 <!ENTITY enableSearchUpdate.label        "szëkôrzów">
 <!ENTITY enableSearchUpdate.accesskey    "w">
-<!ENTITY whenUpdatesFound.label          "Jeżlë bãdą nalazłé aktualizacëje dlô programë &brandShortName;:">
+<!ENTITY whenUpdatesFound.label          "Jeżlë bãdą nalazłé aktualizacëje dlô programù &brandShortName;:">
 <!ENTITY askMe.label                     "pëtôj mie co móm robic">
 <!ENTITY askMe.accesskey                 "p">
 <!ENTITY modeAutomatic.label             "automatno zladëjë ë winstalëjë aktualizacëje">

@@ -13,7 +13,7 @@
 -->
 <!ENTITY aboutDialog.title          "Ò programie &brandFullName;">
 
-<!ENTITY community.start2           "Programa &brandShortName; je zaprojektowónô przez karno ">
+<!ENTITY community.start2           "Program &brandShortName; je zaprojektowóny przez karno ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", a ">
@@ -40,7 +40,7 @@
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingAddonCompat "Sprôwdzanié zgòdnoscë dodôwków…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound      "Programa &brandShortName; je fùl zaktualizowónô">
+<!ENTITY update.noUpdatesFound      "Program &brandShortName; je fùl zaktualizowóny">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "Aktualizacëje zablokòwóné przez sprôwnika systemë">
 

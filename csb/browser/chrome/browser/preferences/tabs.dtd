@@ -10,10 +10,10 @@
 <!ENTITY warnCloseMultipleTabs.label  "Òstrzegôj przed zamkniãcém wielu kôrtów">
 <!ENTITY warnCloseMultipleTabs.accesskey  "t">
 
-<!ENTITY warnOpenManyTabs.label       "Òstrzegôj, jeżlë òtemkniãcé za wielu kôrtów mòże spòwòlnic programã &brandShortName;">
+<!ENTITY warnOpenManyTabs.label       "Òstrzegôj, jeżlë òtemkniãcé za wielu kôrtów mòże spòwòlnic program &brandShortName;">
 <!ENTITY warnOpenManyTabs.accesskey   "z">
 
-<!ENTITY showTabBar.label             "Wëskrzëniôj wiedno listew kôrtów">
+<!ENTITY showTabBar.label             "Wëskrzëniôj wiedno lëstew kôrtów">
 <!ENTITY showTabBar.accesskey         "w">
 
 <!ENTITY switchToNewTabs.label        "Pò òtemkniãcô lënka w nowi kôrce biéj do ni automatno">

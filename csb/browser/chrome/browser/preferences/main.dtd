@@ -1,6 +1,6 @@
 <!ENTITY startup.label             "Zrëszanié">
 
-<!ENTITY startupPage.label         "Pò zrëszeniu programë &brandShortName;:">
+<!ENTITY startupPage.label         "Pò zrëszenim programù &brandShortName;:">
 <!ENTITY startupPage.accesskey     "z">
 <!ENTITY startupHomePage.label     "wëskrzëni domôcą starnã">
 <!ENTITY startupBlankPage.label    "wëskrzeni pùstą starnã">
@@ -13,7 +13,7 @@
 <!ENTITY useCurrentPage.label      "Brëkùjë aktualny starnë">
 <!ENTITY useCurrentPage.accesskey  "a">
 <!ENTITY useMultiple.label         "Brëkùjë ti starnë">
-<!ENTITY chooseBookmark.label      "Brëkùjë załóżka…">
+<!ENTITY chooseBookmark.label      "Brëkùjë załóżczi…">
 <!ENTITY chooseBookmark.accesskey  "B">
 <!ENTITY restoreDefault.label      "Doprowôdzë domëslną nazôd">
 <!ENTITY restoreDefault.accesskey  "D">
@@ -33,8 +33,8 @@
 <!ENTITY alwaysAsk.label "Pëtôj dze zapisac kòżdi lopk">
 <!ENTITY alwaysAsk.accesskey "t">
 
-<!ENTITY addonsMgr.label               "Przëdôwczi">
-<!ENTITY manageAddonsDescWin.label     "Zmieni òptacëje winstalowónych przëdôwków">
-<!ENTITY manageAddonsDescUnix2.label   "Zmieni preferencëje winstalowónych przëdôwków">
-<!ENTITY manageAddons.label            "Sprôwiôj przëdôwkama…">
+<!ENTITY addonsMgr.label               "Dodôwczi">
+<!ENTITY manageAddonsDescWin.label     "Zmieni òptacëje winstalowónych dodôwków">
+<!ENTITY manageAddonsDescUnix2.label   "Zmieni preferencëje winstalowónych dodôwków">
+<!ENTITY manageAddons.label            "Sprôwiôj dodôwkama…">
 <!ENTITY manageAddons.accesskey        "S">

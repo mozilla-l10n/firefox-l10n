@@ -7,15 +7,15 @@
 <!ENTITY  updateWizard.title              "Aktualizacëjô softwôrë">
 
 <!ENTITY  checking.title                  "Sprôwdzanié aktualizacëji">
-<!ENTITY  updateCheck.label               "Sprôwdzanié przëstãpnotë aktualizacëji dlô programë &brandShortName;…">
+<!ENTITY  updateCheck.label               "Sprôwdzanié przëstãpnotë aktualizacëji dlô programù &brandShortName;…">
 
 <!ENTITY  pluginupdatesfound.title        "Nalazłé zaktualnienié dlô wtëkôczów">
 <!ENTITY  pluginupdatesfound.label        "Nalazłé nowszé wersëje winstalowónych wtëkôczów.">
 <!ENTITY  pluginupdateslink.label         "Òbôczë jak zaktualnic wtëkôcze.">
 
-<!ENTITY  noupdatesfound.title            "Nié nalazłé niżódné aktualizacëje">
-<!ENTITY  noupdatesautoenabled.intro      "Felënk przëstãpnych aktualizacëji. Programa &brandShortName; bãdze
-                                            periodiczno sprôwdza przëstãpnotã zaktualnieniów.">
+<!ENTITY  noupdatesfound.title            "Nie nalazłé niżódné aktualizacëje">
+<!ENTITY  noupdatesautoenabled.intro      "Felënk przëstãpnych aktualizacëji. Program &brandShortName; bãdze
+                                            periodiczno sprôwdzóny dlô przëstãpnotë zaktualnieniów.">
 <!ENTITY  noupdatesautodisabled.intro     "Felënk przëstãpnych aktualizacëji.Proszã sprôwdzëc pòzdze abò włączëc automatné
                                             sprôwdzanié przëstãpnotë zaktualnieniów w programie &brandShortName;">
 
@@ -24,35 +24,35 @@
                                            dosc praw do tegò bë jã winstalowac. Sparłãczë sã proszã z twòjim
                                            sprôwnikã systemë, abò spróbùjë znowa z jinszégò kònta, chtërné mô 
                                            dosc praw do instalacëji softwôrë na tim kòmpùtrze.">
-<!ENTITY  manualUpdate.space.desc         "Zamòdlëwóné zaktualninié bezpiekù and sztabilnotë je przistãpnô kò
+<!ENTITY  manualUpdate.space.desc         "Zamòdlëwóné zaktualninié bezpiekù and sztabilnotë je przëstãpnô kò
                                            ni môsz dosc placu do jich winstalowóniô.">
-<!ENTITY  manualUpdateGetMsg.label        "Nônowszą wersëjã programë &brandShortName; mòżesz wiedno dobëc na:">
+<!ENTITY  manualUpdateGetMsg.label        "Nônowszą wersëjã programù &brandShortName; mòżesz wiedno dobëc na:">
 
-<!ENTITY  incompatibleCheck.title         "Sprôwdzanié kòmpatibilnotë przëdôwków">
-<!ENTITY  incompatibleCheck.label         "Szëkba nônowszcih wersëji winstalowónych przëdôwków…">
+<!ENTITY  incompatibleCheck.title         "Sprôwdzanié kòmpatibilnotë dodôwków">
+<!ENTITY  incompatibleCheck.label         "Szëkba nônowszcih wersëji winstalowónych dodôwków…">
 
 <!ENTITY  clickHere.label                 "Wëskrzëni wicy wëdowiédzë ò ti aktualiazacëji…">
 
 <!ENTITY  evangelism.desc                 "To baro wôżné abë winstalowac tak chùtkò jak to le mòżlëwé
-                                           zaktualnienié dlô programë &brandShortName;.">
+                                           zaktualnienié dlô programù &brandShortName;.">
 
 <!ENTITY  license.instructions            "Jeżlë dôsz zgòdã na licencjowé zastrzedżi klëkni na Zgôdóm sã, 
                                            abë jisc dali z instalacëją zaktualnienia.">
 
 <!ENTITY  license.titleText               "Licencjowô zgòda softwôrë">
 <!ENTITY  license.introText               "Zastrzedżi brëkùnkù ti softwôrë.">
-<!ENTITY  license.instructionText         "Prosëmë zapòznac sã z ùniższą licencjową zgòdą, Abë przeczëtac dôlszi dzél zgòdë, nót je brëkòwac listwë przewijaniô.">
+<!ENTITY  license.instructionText         "Prosëmë zapòznac sã z ùniższą licencjową zgòdą, Abë przeczëtac dôlszi dzél zgòdë, nót je brëkòwac lëstwë przewijaniô.">
 <!ENTITY  license.accept                  "Akcëptëjã zastrzedżi licencjowi zgòdë">
 <!ENTITY  license.accept.accesskey        "c">
 <!ENTITY  license.decline                 "NIÉ akcëptëjã zastrzedżi licencjowi zgòdë">
 <!ENTITY  license.decline.accesskey       "t">
 
-<!ENTITY  incompatibleList.title          "Nalazłé niekòmpatibilné przëdôwczi">
+<!ENTITY  incompatibleList.title          "Nalazłé niekòmpatibilné dodôwczi">
 
 <!ENTITY  downloadPage.title              "Zladënk &brandShortName;">
 <!ENTITY  downloading.intro               "Zladënk aktualizacëji…">
 <!ENTITY  connecting.label                "Sparłãczenié z serwerã aktualizacëji…">
-<!ENTITY  verificationFailedText.label    "Programa &brandShortName; nié mògła zwerifikòwac 
+<!ENTITY  verificationFailedText.label    "Program &brandShortName; nié mógł zwerifikòwac 
                                            integralonotë ladowónegò zaktualnienia.
                                            Naczãto zladënk całownegò paczétu zaktualnienia.">
 
@@ -79,15 +79,15 @@
                                            niébezpiecznégò zaktualnienia. Proszë sparłãczë są z miewcą twòji sécë ë pòprosë ò pòmòc.">
 
 <!ENTITY  finishedPage.title              "Aktualizacëjô je parôt do winstalowaniô">
-<!ENTITY  finishedPage.text               "Aktualizacëjô bãdze winstalowónô przë nôslédnym zrëszeniu programë &brandShortName;. Zrëszë terô 
-                                           programã &brandShortName; znowa, abò biéj z robòtą dali ë winstalëjë zaktualnienié pòzdze.">
+<!ENTITY  finishedPage.text               "Aktualizacëjô bãdze winstalowónô przë nôslédnym zrëszeniu programù &brandShortName;. Zrëszë terô 
+                                           program &brandShortName; znowa, abò biéj z robòtą dali ë winstalëjë zaktualnienié pòzdze.">
 
-<!ENTITY  finishedBackgroundPage.text     "Programa &brandShortName; zladowa wôżną
+<!ENTITY  finishedBackgroundPage.text     "Program &brandShortName; zladowôł wôżną
                                            aktualizacëjã ë je parôt do ji winstalowaniô.">
 <!ENTITY  finishedBackground.name         "Aktualizacëjô:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
-<!ENTITY  finishedBackground.more         "Aktualizacëjô bãdze winstalowónô przë nôslédnym zrëszeniu programë &brandShortName; starts. Mòżesz terô 
-                                           zrëszëc programã &brandShortName; znowa, abò jisc z robòtą dali ë zrëszëc programs pòzdze znowa.">
+<!ENTITY  finishedBackground.more         "Aktualizacëjô bãdze winstalowónô przë nôslédnym zrëszeniu programù &brandShortName; starts. Mòżesz terô 
+                                           zrëszëc program &brandShortName; znowa, abò jisc z robòtą dali ë zrëszëc program pòzdze znowa.">
 
 <!ENTITY  installed.title                 "Aktualizacëjô winstalowónô">
 <!ENTITY  installed.intro                 "Instalacëjô aktualizacëji ùdało zakùńczonô">

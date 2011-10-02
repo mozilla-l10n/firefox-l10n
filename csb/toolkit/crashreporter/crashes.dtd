@@ -8,5 +8,5 @@
 <!ENTITY id.heading                 "ID rapòrtu">
 <!ENTITY date.heading               "Datum wësłaniô">
 <!ENTITY noReports.label            "Ni wësłóno niżódnegò rapòrtu ò awarëji">
-<!ENTITY noConfig.label             "Na programa ni òsta pòprôwno skònfigùrowónô do wëskrzënianiô rapòrtów ò awarëji. Mùszebny je pòprôwny nastôw òptacëji <code>breakpad.reportURL</code>">
+<!ENTITY noConfig.label             "Program nie òstôł pòprôwno skònfigùrowóny do wëskrzënianiô rapòrtów ò awarëji. Mùszebny je pòprôwny nastôw òptacëji <code>breakpad.reportURL</code>">
 <!ENTITY clearAllReports.label      "Rëmôj wszëtczé rapòrtë">

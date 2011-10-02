@@ -75,14 +75,14 @@ can reach it easily. -->
 <!ENTITY goOfflineCmd.label "Robi offline">
 <!ENTITY goOfflineCmd.accesskey "R">
 
-<!ENTITY menubarCmd.label "Listew menu">
+<!ENTITY menubarCmd.label "Lëstew menu">
 <!ENTITY menubarCmd.accesskey "m">
-<!ENTITY navbarCmd.label "Listew nawigacjowich nôrzãdzów">
+<!ENTITY navbarCmd.label "Lëstew nawigacjowich nôrzãdzów">
 <!ENTITY navbarCmd.accesskey "n">
-<!ENTITY personalbarCmd.label "Listew załóżków">
+<!ENTITY personalbarCmd.label "Lëstew załóżków">
 <!ENTITY personalbarCmd.accesskey "z">
-<!ENTITY bookmarksToolbarItem.label "Elementë listwë załóżków">
-<!ENTITY addonBarCmd.label "Listew przëdôwków">
+<!ENTITY bookmarksToolbarItem.label "Elementë lëstwë załóżków">
+<!ENTITY addonBarCmd.label "Lëstew dodôwków">
 <!ENTITY addonBarCmd.accesskey "t">
 
 <!ENTITY pageSourceCmd.label "Zdrój starnë">
@@ -94,13 +94,13 @@ can reach it easily. -->
 <!ENTITY fullScreenCmd.label "Fùlekranowi trib">
 <!ENTITY fullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.macCommandKey "f">
-<!ENTITY showAllTabsCmd.label "Wëskrzëni wszëtczé kôrtë">
+<!ENTITY showAllTabsCmd.label "Wëskrzëni wszëtczé kartë">
 <!ENTITY showAllTabsCmd.accesskey "W">
 
 <!ENTITY fullScreenMinimize.tooltip "Minimalizëjë">
 <!ENTITY fullScreenRestore.tooltip "Doprowôdzë nazôd">
 <!ENTITY fullScreenClose.tooltip "Zamkni">
-<!ENTITY fullScreenAutohide.label "Zatacë listew nôrzãdzów">
+<!ENTITY fullScreenAutohide.label "Zatacë lëstew nôrzãdzów">
 <!ENTITY fullScreenAutohide.accesskey "Z">
 <!ENTITY fullScreenExit.label "Wińdzénié z fùlekranowégò tribù">
 <!ENTITY fullScreenExit.accesskey "ń">
@@ -146,7 +146,7 @@ can reach it easily. -->
 
 <!-- Toolbar items --> 
 <!ENTITY appMenuButton.label          "Menu">
-<!ENTITY appMenuButton.tooltip        "Òtemkni menu programë &brandShortName;">
+<!ENTITY appMenuButton.tooltip        "Òtemkni menu programù &brandShortName;">
 <!ENTITY homeButton.label             "Domôcô starna">
 
 <!ENTITY tabGroupsButton.label        "Grëpë kôrtów">
@@ -189,12 +189,12 @@ can reach it easily. -->
 <!ENTITY downloads.accesskey          "l">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
-<!ENTITY addons.label                 "Przëdôwczi">
-<!ENTITY addons.accesskey             "P">
+<!ENTITY addons.label                 "Dodôwczi">
+<!ENTITY addons.accesskey             "D">
 <!ENTITY addons.commandkey            "A">
 
 <!ENTITY webDeveloperMenu.label       "Deweloper">
-<!ENTITY webDeveloperMenu.accesskey   "D">
+<!ENTITY webDeveloperMenu.accesskey   "w">
 
 <!ENTITY errorConsoleCmd.label        "Kònsola felów">
 <!ENTITY errorConsoleCmd.accesskey    "K">
@@ -218,7 +218,7 @@ can reach it easily. -->
   -  "Scratchpad" in your locale. You should feel free to find a close
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
-<!ENTITY scratchpad.label             "Brudnopis">
+<!ENTITY scratchpad.label             "Czôrnopis">
 <!ENTITY scratchpad.accesskey         "B">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
@@ -281,9 +281,9 @@ can reach it easily. -->
 <!ENTITY viewMenu.accesskey       "W"> 
 <!ENTITY viewTabGroups.label            "Grëpë kôrtów">
 <!ENTITY viewTabGroups.accesskey        "G">
-<!ENTITY viewToolbarsMenu.label       "Listew nôrzãdzów"> 
+<!ENTITY viewToolbarsMenu.label       "Lëstew nôrzãdzów"> 
 <!ENTITY viewToolbarsMenu.accesskey     "L"> 
-<!ENTITY viewSidebarMenu.label "Bòcznô listew">
+<!ENTITY viewSidebarMenu.label "Bòcznô lëstew">
 <!ENTITY viewSidebarMenu.accesskey "B">
 <!ENTITY viewCustomizeToolbar.label       "Dopasëjë…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "D">
@@ -309,7 +309,7 @@ can reach it easily. -->
 <!ENTITY appMenuUnsorted.label "Niepòzortowóné załóżczi">
 <!ENTITY appMenuWebDeveloper.label "Deweloper">
 <!ENTITY appMenuGettingStarted.label "Zaczątk">
-<!ENTITY appMenuSafeMode.label "Zrëszë znowa z wëłączonéma przëdôwkama…">
+<!ENTITY appMenuSafeMode.label "Zrëszë znowa z wëłączonéma dodôwkama…">
 <!ENTITY appMenuSafeMode.accesskey "Z">
 
 <!ENTITY openCmd.commandkey           "l">
@@ -475,7 +475,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY newTabButton.tooltip           "Òtemkni nową kôrtã">
 <!ENTITY newWindowButton.tooltip        "Òtemkni nowé òkno">
-<!ENTITY sidebarCloseButton.tooltip     "Zamkni bòcznã listew">
+<!ENTITY sidebarCloseButton.tooltip     "Zamkni bòcznã lëstew">
 
 <!ENTITY cutButton.tooltip              "Wëtni">
 <!ENTITY copyButton.tooltip             "Kòpérëjë">
@@ -526,7 +526,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY findOnCmd.label     "Nalezë na ti starnie…">
 <!ENTITY findOnCmd.accesskey "N">
-<!ENTITY findOnCmd.commandkey "n">
+<!ENTITY findOnCmd.commandkey "F">
 <!ENTITY findAgainCmd.label  "Nalezë znowa">
 <!ENTITY findAgainCmd.accesskey "n">
 <!ENTITY findAgainCmd.commandkey "g">
@@ -568,7 +568,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
-<!ENTITY syncSetup.label              "Ùstawi programã &syncBrand.shortName.label;…">
+<!ENTITY syncSetup.label              "Ùstawi program &syncBrand.shortName.label;…">
 <!ENTITY syncSetup.accesskey          "Ù">
 <!ENTITY syncSyncNowItem.label        "Synchronizëjë terô">
 <!ENTITY syncSyncNowItem.accesskey    "S">
