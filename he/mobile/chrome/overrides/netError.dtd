@@ -22,7 +22,7 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "כישלון בהתחברות">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
 
 <!ENTITY deniedPortAccess.title "כתובת זו מוגבלת">
 <!ENTITY deniedPortAccess.longDesc "">
@@ -54,13 +54,12 @@
   <li>כתובות אתרים מכתבות בדרך־כלל בתבנית של 
     <strong>http://www.example.com/</strong></li>
   <li>ודא שאתה משתמש בלוכסן קדמי
-("
-    <strong>/</strong>").</li>
+(&quot;<strong>/</strong>&quot;).</li>
 </ul>
 ">
 
 <!ENTITY netInterrupt.title "החיבור הופסק">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netOffline.title "מצב לא־מקוון">
 <!ENTITY netOffline.longDesc2 "<ul>
@@ -81,10 +80,10 @@
 ">
 
 <!ENTITY netReset.title "החיבור הופסק">
-<!ENTITY netReset.longDesc "&sharedLongDesc;">
+<!ENTITY netReset.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netTimeout.title "תם הזמן המוקצב לחיבור">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
 <!ENTITY protocolNotFound.title "פרוטוקול לא מוכר">
 <!ENTITY protocolNotFound.longDesc "
