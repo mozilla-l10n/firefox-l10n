@@ -119,6 +119,8 @@
 <!ENTITY redoDefaultCmd.accesskey "Y">
 <!-- View Menu -->
 
+<!ENTITY menubarCmd.label "Menü çubuğu">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showMessengerToolbarCmd.label "Posta araç çubuğu">
 <!ENTITY showMessengerToolbarCmd.accesskey "o">
 <!ENTITY customizeToolbar.label "Özelleştir…">
@@ -270,6 +272,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageSourceCmd.label "İleti kaynak metni">
 <!ENTITY pageSourceCmd.accesskey "l">
 <!ENTITY pageSourceCmd.key "u">
+<!ENTITY getNewMessagesCmd.key "y">
+<!ENTITY getAllNewMessagesCmd.key "Y">
 <!-- Search Menu -->
 
 <!ENTITY findMenu.label "Bul">
@@ -499,13 +503,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY previousButton.label "Önceki">
 <!ENTITY backButton1.label "Geri">
 <!ENTITY goForwardButton1.label "İleri">
-<!ENTITY deleteButton.label "Sil">
+<!ENTITY deleteItem.title "Delete">
+<!ENTITY deleteButton.label "Delete">
 <!ENTITY undeleteButton.label "Silmeyi geri al">
 <!ENTITY markButton.label "İşaretle">
 <!ENTITY printButton.label "Yazdır">
 <!ENTITY stopButton.label "Dur">
 <!ENTITY throbberItem.title "Durum göstergesi">
-<!ENTITY junkButton.label "Gereksiz">
+<!ENTITY junkItem.title "Junk">
+<!ENTITY junkButton.label "Junk">
 <!ENTITY notJunkButton.label '"Gereksiz" değil'>
 <!ENTITY addressBookButton.label "Adres defteri">
 <!ENTITY glodaSearch.title "Global arama">

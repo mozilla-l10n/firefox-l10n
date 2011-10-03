@@ -13,9 +13,9 @@
 <!ENTITY manageAccount.label "Hesabı yönet">
 <!ENTITY manageAccount.accesskey "y">
 <!ENTITY viewQuota.label "Sınıra bak">
-<!ENTITY changePassword2.label "Change Password…">
-<!ENTITY mySyncKey.label "Eşitleme anahtarım">
-<!ENTITY resetSync2.label "Reset Sync…">
+<!ENTITY changePassword2.label "Parolayı değiştir...">
+<!ENTITY myRecoveryKey.label "My Recovery Key">
+<!ENTITY resetSync2.label "Sync'i sıfırla...">
 
 <!ENTITY addDevice.label "Aygıt ekle">
 
@@ -34,7 +34,7 @@
 
 <!ENTITY syncComputerName.label "Bilgisayar adı:">
 <!ENTITY syncComputerName.accesskey "B">
-<!ENTITY unlinkDevice.label "Unlink This Device">
+<!ENTITY unlinkDevice.label "Bu aygıtın bağlantısını kes">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label "Kullanım Koşulları">

@@ -18,6 +18,13 @@
 <!ENTITY newNavigatorCmd.label "Browser Window">
 <!ENTITY newNavigatorCmd.key "n">
 <!ENTITY newNavigatorCmd.accesskey "B">
+<!ENTITY printSetupCmd.label "Page Setup…">
+<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printPreviewCmd.label "Yazdırma önizleme">
+<!ENTITY printPreviewCmd.accesskey "z">
+<!ENTITY printCmd.label "Yazdır…">
+<!ENTITY printCmd.accesskey "r">
+<!ENTITY printCmd.key "P">
 
 <!ENTITY editMenu.label "Düzenle">
 <!ENTITY editMenu.accesskey "z">

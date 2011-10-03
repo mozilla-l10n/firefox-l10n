@@ -79,6 +79,8 @@
 <!ENTITY viewMenu.accesskey "n">
 <!ENTITY viewToolbarsMenu.label "Araç çubuğu">
 <!ENTITY viewToolbarsMenu.accesskey "r">
+<!ENTITY menubarCmd.label "Menü çubuğu">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showAbToolbarCmd.label "Araç çubuğunu göster">
 <!ENTITY showAbToolbarCmd.accesskey "r">
 <!ENTITY showTaskbarCmd.label "Durum çubuğu">

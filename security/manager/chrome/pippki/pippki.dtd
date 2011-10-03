@@ -70,7 +70,7 @@
 
 <!ENTITY downloadCert.title "Onay belgesi indiriliyor">
 <!ENTITY downloadCert.message1 "Yeni bir onay belgesi yetkilisi (CA) güvenliğini sordunuz.">
-<!ENTITY downloadCert.trustSSL "Bu CA web sayfalarını belirlemede güvenli.">
+<!ENTITY downloadCert.trustSSL "Trust this CA to identify websites.">
 <!ENTITY downloadCert.trustEmail "Bu CA E-Posta kullanıcılarını belirlemek için güvenilir.">
 <!ENTITY downloadCert.trustObjSign "Bu CA yazılım geliştiricilerin belirlenmesinde güvenilir.">
 <!ENTITY downloadCert.message3 "Her türlü amaç için bu CA ya güvenmeden önce, onay belgesi güvenliğini ve prosedürünü kontrol etmelisiniz.">

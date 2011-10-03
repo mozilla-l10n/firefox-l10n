@@ -72,9 +72,9 @@
 
 <!ENTITY certmgr.editcert.title "Güvenlik onay belgesi ayarlarını düzenle">
 <!ENTITY certmgr.editcacert.title "Onay belgesi güven ayarlarını düzenle">
-<!ENTITY certmgr.editsslcert.title "Ağ sayfası onay belgesi güvenlik ayarlarını düzenle">
+<!ENTITY certmgr.editsslcert.title "Edit website certificate trust settings">
 <!ENTITY certmgr.editcert.edittrust "Güven ayarlarını düzenle:">
-<!ENTITY certmgr.editcert.trustssl "Bu onay belgesi ağ sitelerini tanımlayabilir.">
+<!ENTITY certmgr.editcert.trustssl "This certificate can identify websites.">
 <!ENTITY certmgr.editcert.trustemail "Bu onay belgesi posta kullanıcılarını tanımlayabilir.">
 <!ENTITY certmgr.editcert.trustobjsign "Bu onay belgesi yazılımcıları tanımlayabilir.">
 <!ENTITY certmgr.editsslcert.edittrust "Onay belgesi güven ayarlarını düzenle:">

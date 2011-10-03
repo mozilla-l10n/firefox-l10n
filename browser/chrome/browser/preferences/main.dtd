@@ -5,16 +5,16 @@
 <!ENTITY startupHomePage.label "Giriş sayfamı göster">
 <!ENTITY startupBlankPage.label "Boş bir sayfa göster">
 <!ENTITY startupLastSession.label "Son oturumdaki pencereleri ve sekmeleri göster">
-<!ENTITY restoreOnDemand.label "Don’t load tabs until selected">
-<!ENTITY restoreOnDemand.accesskey "l">
+<!ENTITY restoreOnDemand.label "Sekmeleri seçilene kadar yükleme">
+<!ENTITY restoreOnDemand.accesskey "y">
 
 <!ENTITY homepage.label "Giriş sayfası:">
 <!ENTITY homepage.accesskey "G">
 <!ENTITY useCurrentPage.label "Güncel sayfayı kullan">
 <!ENTITY useCurrentPage.accesskey "G">
 <!ENTITY useMultiple.label "Güncel sayfaları kullan">
-<!ENTITY useBookmark.label "Yer imi kullan">
-<!ENTITY useBookmark.accesskey "Y">
+<!ENTITY chooseBookmark.label "Use Bookmark…">
+<!ENTITY chooseBookmark.accesskey "B">
 <!ENTITY restoreDefault.label "Öntanımlıları geri getir">
 <!ENTITY restoreDefault.accesskey "r">
 

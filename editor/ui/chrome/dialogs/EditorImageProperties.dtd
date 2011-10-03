@@ -101,6 +101,9 @@
 
 <!ENTITY showImageLinkBorder.label "Bağlantılı görüntünün etrafında çerçeve göster">
 <!ENTITY showImageLinkBorder.accessKey "v">
+<!ENTITY LinkAdvancedEditButton.label "Link Advanced Edit…">
+<!ENTITY LinkAdvancedEditButton.accessKey "L">
+<!ENTITY LinkAdvancedEditButton.tooltip "HTML öznitelikleri, biçim öznitelikleri ve JavaScript ekle veya değiştir">
 <!-- These tabs are currently used in the image input dialog -->
 
 <!ENTITY imageInputTab.label "Form">
