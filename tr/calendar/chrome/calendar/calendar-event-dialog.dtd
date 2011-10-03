@@ -294,7 +294,7 @@
 <!ENTITY event.recurrence.repeat.recur.label "Tekrarlama günleri">
 
 <!ENTITY event.recurrence.every.label "Her:">
-<!ENTITY repeat.units.years.both "Sene">
+<!ENTITY repeat.units.years.both "Yıl">
 <!ENTITY event.recurrence.pattern.yearly.every.month.label "Her">
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:

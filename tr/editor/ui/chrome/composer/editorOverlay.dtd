@@ -87,7 +87,7 @@
 <!ENTITY pasteAsQuotationCmd.label "Alıntı olarak yapıştır">
 <!ENTITY pasteAsQuotationCmd.accesskey "o">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findCmd.label "Find and Replace…">
+<!ENTITY findCmd.label "Bul ve değiştir…">
 <!ENTITY enableInlineSpellChecker.label "Yazarken yazım denetimini gerçekleştir">
 <!ENTITY enableInlineSpellChecker.accesskey "Y">
 <!ENTITY checkSpellingCmd2.label "Yazımı Denetle">

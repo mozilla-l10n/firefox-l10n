@@ -17,7 +17,7 @@
 <!ENTITY exit_label "Çık">
 <!ENTITY continue_label "Devam">
 
-<!ENTITY launcher_shortcuts_title "&brandShortName; Web Apps">
-<!ENTITY launcher_shortcuts_empty "No web apps were found">
+<!ENTITY launcher_shortcuts_title "&brandShortName; Web Uygulamaları">
+<!ENTITY launcher_shortcuts_empty "Web uygulaması bulunamadı">
 
 <!ENTITY choose_file "Dosya Seç">
