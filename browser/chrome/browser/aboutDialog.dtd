@@ -47,7 +47,7 @@
 <!ENTITY update.manual.start        "Mises à jour disponibles à ">
 <!ENTITY update.manual.end          "">
 
-<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
+<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
      the "em dash" (long dash).
@@ -59,4 +59,4 @@
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
 <!ENTITY channel.description.start  "Vous utilisez actuellement le canal de mise à jour ">
-<!ENTITY channel.description.end    " . ">
+<!ENTITY channel.description.end    ". ">
