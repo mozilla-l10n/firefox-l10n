@@ -11,6 +11,7 @@
 <!ENTITY email.accesskey "e">
 <!ENTITY replyTo.label "Erantzun-honi helbidea:">
 <!ENTITY replyTo.accesskey "h">
+<!ENTITY replyTo.placeholder "Hartzaileek beste helbide honetara erantzungo dute">
 <!ENTITY organization.label "Erakundea:">
 <!ENTITY organization.accesskey "E">
 <!ENTITY signatureText.label "Sinadura-testua:">

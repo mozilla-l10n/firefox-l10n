@@ -3,7 +3,6 @@
 <!ENTITY sync.connect               "Konektatu">
 <!ENTITY sync.connected             "Konektatuta">
 <!ENTITY sync.details               "Xehetasunak">
-<!ENTITY sync.synchronize           "Gaitu Sync">
 <!ENTITY sync.deviceName            "Gailu hau">
 <!ENTITY sync.disconnect            "Deskonektatu">
 <!ENTITY sync.syncNow               "Sinkronizatu orain">
@@ -14,7 +13,7 @@
 <!ENTITY sync.setup.manual          "Sartu zure Sync kontuaren informazioa">
 <!ENTITY sync.account               "Kontuaren izena">
 <!ENTITY sync.password              "Pasahitza">
-<!ENTITY sync.syncKey               "Sync gakoa">
+<!ENTITY sync.recoveryKey           "Berreskuratze-gakoa">
 <!ENTITY sync.customServer          "Erabili zerbitzari pertsonalizatua">
 <!ENTITY sync.serverURL             "Zerbitzariaren URLa">
 <!ENTITY sync.setup.connect         "Konektatu">

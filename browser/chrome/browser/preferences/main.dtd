@@ -13,8 +13,8 @@
 <!ENTITY useCurrentPage.label      "Erabili uneko orria">
 <!ENTITY useCurrentPage.accesskey  "u">
 <!ENTITY useMultiple.label         "Erabili uneko orriak">
-<!ENTITY useBookmark.label         "Erabili laster-marka">
-<!ENTITY useBookmark.accesskey     "m">
+<!ENTITY chooseBookmark.label      "Erabili laster-marka…">
+<!ENTITY chooseBookmark.accesskey  "b">
 <!ENTITY restoreDefault.label      "Berrezarri lehenetsiak">
 <!ENTITY restoreDefault.accesskey  "r">
 

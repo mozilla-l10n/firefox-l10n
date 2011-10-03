@@ -68,11 +68,6 @@
 <!ENTITY publishAsCmd.accesskey "h">
 <!ENTITY saveAsChangeEncodingCmd.label "Gorde eta aldatu karaktere-kodeketa">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "e">
-<!ENTITY printSetupCmd.label "Prestatu orria…">
-<!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printCmd.label "Inprimatu…">
-<!ENTITY printCmd.accesskey "p">
-<!ENTITY printCmd.key "P">
 <!-- Edit menu items -->
 
 <!ENTITY editMenu.label "Editatu">

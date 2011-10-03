@@ -92,6 +92,8 @@
 <!ENTITY viewMenu.accesskey "I">
 <!ENTITY viewToolbarsMenuNew.label "Tresna-barrak"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "T"> 
+<!ENTITY menubarCmd.label "Menu-barra">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showCompositionToolbarCmd.label "Konposizio tresna-barra">
 <!ENTITY showCompositionToolbarCmd.accesskey "o">
 <!ENTITY showFormattingBarCmd.label "Formatu-barra">

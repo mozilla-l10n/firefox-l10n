@@ -5,9 +5,9 @@
 <!-- Entities for Account Type page -->
 
 
-<!ENTITY accountSetupInfo.label "Mezuak jaso ahal izateko, lehenik eta behin posta edo berri-talde kontu bat konfiguratu behar duzu.">
+<!ENTITY accountSetupInfo2.label "Mezuak jaso ahal izateko, kontu bat konfiguratu behar duzu lehenik.">
 <!ENTITY accountTypeTitle.label "Kontu berriaren konfigurazioa">
-<!ENTITY accountTypeDesc.label "Morroi honek posta edo berri-talde kontu bat konfiguratzeko beharrezko informazioa jasoko du. Eskatzen den informazioa ez badakizu zein den, jarri kontaktuan zure sistemaren kudeatzailearekin edo Internet zerbitzu-hornitzailearekin.">
+<!ENTITY accountTypeDesc2.label "Morroi honek kontu bat konfiguratzeko beharrezkoa den informazioa bilduko du. Eskatutako informazioa ez badakizu, jarri harremanetan zure sistemaren kudeatzailearekin edo Interneteko Zerbitzuen Hornitzailearekin.">
 <!ENTITY accountTypeDirections.label "Hautatu konfiguratu nahi duzun kontu mota:">
 <!ENTITY accountTypeMail.label "E-posta kontua">
 <!ENTITY accountTypeMail.accesskey "p">
