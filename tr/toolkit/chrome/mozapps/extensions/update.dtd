@@ -16,8 +16,8 @@
 <!ENTITY found.wizard.title "Uyumlu eklentiler bulundu">
 <!ENTITY found.top.label "Kurmak istediğiniz eklentileri seçin:">
 <!ENTITY found.disabledXPinstall.label "Bu güncellemeler kurulamaz, çünkü yazılım kurulumu şu an devre dışı. Bu ayarı aşağıdan değiştirebilirsiniz.">
-<!ENTITY found.enableXPInstall.label "Sitelerin yazılım kurmalarına izin ver">
-<!ENTITY found.enableXPInstall.accesskey "a">
+<!ENTITY found.enableXPInstall.label "Allow websites to install software">
+<!ENTITY found.enableXPInstall.accesskey "A">
 
 <!ENTITY installing.wizard.title "Uyumlu eklentiler kuruluyor">
 <!ENTITY installing.top.label "Eklenti güncellemeleri indirilip kuruluyor…">

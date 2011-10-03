@@ -79,6 +79,8 @@
 <!ENTITY viewMenu.accesskey "n">
 <!ENTITY viewToolbarsMenu.label "Araç çubuğu">
 <!ENTITY viewToolbarsMenu.accesskey "r">
+<!ENTITY menubarCmd.label "Menü çubuğu">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showAbToolbarCmd.label "Araç çubuğunu göster">
 <!ENTITY showAbToolbarCmd.accesskey "r">
 <!ENTITY showTaskbarCmd.label "Durum çubuğu">
@@ -89,8 +91,10 @@
 <!ENTITY showContactPane.accesskey "B">
 <!ENTITY menu_ShowNameAs.label "İsmi farklı göster:">
 <!ENTITY menu_ShowNameAs.accesskey "ö">
-<!ENTITY firstLastCmd.label "Adı, Soyadı">
-<!ENTITY firstLastCmd.accesskey "ı">
+<!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
+because displayed names don't have the comma in between. -->
+<!ENTITY firstLastCmd2.label "First Last">
+<!ENTITY firstLastCmd2.accesskey "f">
 <!ENTITY lastFirstCmd.label "Soyadı, Adı">
 <!ENTITY lastFirstCmd.accesskey "A">
 <!ENTITY displayNameCmd.label "Görüntülenecek isim">

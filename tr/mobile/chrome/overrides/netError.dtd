@@ -92,10 +92,12 @@
 </ul>">
 
 <!ENTITY nssFailure2.title "Güvenli bağlantı girişimi başarısız">
-<!ENTITY nssFailure2.longDesc "<ul> 
-<li>Bakmak istediğiniz sayfa geçersiz veya desteklenmeyen bir güvenlik iletişim kuralı kullandığı için gösterilemiyor.</li> 
-<li>Lütfen site yönetici ile irtibata geçerek durumu bildirin. Bunun dışında, bu çalışmayan siteyi yardım menüsündeki komutu kullanarak rapor edebilirsiniz.</li> 
-</ul>">
+<!ENTITY nssFailure2.longDesc "
+<ul>
+  <li>The page you are trying to view can not be shown because the authenticity of the received data could not be verified.</li>
+  <li>Please contact the website owners to inform them of this problem. Alternatively, use the command found in the help menu to report this broken site.</li>
+</ul>
+">
 
 <!ENTITY nssBadCert.title "Güvenli bağlantı hatalı">
 <!ENTITY nssBadCert.longDesc2 "<ul> 

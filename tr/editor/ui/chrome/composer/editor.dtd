@@ -48,8 +48,8 @@
 <!ENTITY previewToolbarCmd.tooltip "Bu sayfayı Kılavuza yükle">
 <!-- File menu items -->
 
-<!ENTITY exportToTextCmd.label "Metin olarak dışa aktar…">
-<!ENTITY exportToTextCmd.accesskey "M">
+<!ENTITY exportToTextCmd.label "Export to Text…">
+<!ENTITY exportToTextCmd.accesskey "x">
 <!ENTITY previewCmd.label "Sayfayı tarayıcıda önizle">
 <!ENTITY previewCmd.accesskey "ö">
 <!ENTITY sendPageCmd.label "Sayfa gönder…">

@@ -19,8 +19,8 @@
 <!ENTITY signIn.account2.accesskey "a">
 <!ENTITY signIn.password.label "Parola">
 <!ENTITY signIn.password.accesskey "P">
-<!ENTITY signIn.syncKey.label "Sync anahtarı">
-<!ENTITY signIn.syncKey.accesskey "h">
+<!ENTITY signIn.recoveryKey.label "Recovery Key">
+<!ENTITY signIn.recoveryKey.accesskey "K">
 <!-- New Account Page 1: Basic Account Info -->
 
 <!ENTITY setup.newAccountDetailsPage.title.label "Hesap ayrıntıları">
@@ -41,12 +41,12 @@
 <!ENTITY setup.tosAgree2.accesskey "">
 <!-- New Account Page 2: Sync Key -->
 
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; gizliliğinize önem verir">
-<!ENTITY setup.newSyncKeyPage.description.label "Tüm verileriniz sunucuya gönderilmeden önce gizliliğinizi korumak için şifrelenir. Şifreyi çözmek için gereken Sync anahtarı sunucuya gönderilmez.">
-<!ENTITY syncKeyEntry.label "Sync anahtarınız">
-<!ENTITY syncKeyEntry.accesskey "a">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; gizliliğinize önem verir">
+<!ENTITY setup.newRecoveryKeyPage.description.label "To ensure your total privacy, all of your data is encrypted prior to being uploaded. The Recovery Key which is necessary to decrypt your data is not uploaded.">
+<!ENTITY recoveryKeyEntry.label "Your Recovery Key">
+<!ENTITY recoveryKeyEntry.accesskey "K">
 <!ENTITY syncGenerateNewKey.label "Yeni bir anahtar oluştur">
-<!ENTITY syncKeyBackup.description "Sync anahtarınız diğer makinelerde &syncBrand.fullName.label; uygulamasına erişmek için gereklidir. Lütfen yedek kopyasını alın. Sync anahtarınızı kurtarmanıza yardım edemeyiz.">
+<!ENTITY recoveryKeyBackup.description "Your Recovery Key is required to access &syncBrand.fullName.label; on other machines. Please create a backup copy. We cannot help you recover your Recovery Key.">
 
 <!ENTITY button.syncKeyBackup.print.label "Yazdır...">
 <!ENTITY button.syncKeyBackup.print.accesskey "z">
@@ -65,12 +65,12 @@
 <!ENTITY addDevice.dialog.enterCode.label "Aygıtın verdiği kodu girin:">
 <!ENTITY addDevice.dialog.tryAgain.label "Lütfen tekrar deneyin.">
 <!ENTITY addDevice.dialog.successful.label "Aygıt başarıyla eklendi. Arkaplanda yapılacak ilk eşitleme birkaç dakika sürebilir.">
-<!ENTITY addDevice.dialog.syncKey.label "Aygıtınızı etkinleştirmek için Sync anahtarınızı girmeniz gerek. Lütfen beraberinizde taşımak için bu anahtarı ya yazdırın ya da kaydedin.">
+<!ENTITY addDevice.dialog.recoveryKey.label "To activate your device you will need to enter your Recovery Key. Please print or save this key and take it with you.">
 <!ENTITY addDevice.dialog.connected.label "Aygıt bağlandı">
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "Oturum aç">
-<!ENTITY existingSyncKey.description "Sync anahtarınızın bir kopyasını diğer aygıtınızdaki seçeneklere girip &#x0022;Hesabı yönet&#x0022; bölümündeki &#x0022;Sync anahtarım&#x0022; kısmından edinebilirsiniz.">
+<!ENTITY existingRecoveryKey.description "You can get a copy of your Recovery Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Recovery Key&#x0022; under &#x0022;Manage Account&#x0022;.">
 <!ENTITY verifying.label "Doğrulanıyor...">
 <!ENTITY resetPassword.label "Parolayı sıfırla">
 <!ENTITY resetSyncKey.label "Diğer aygıtımı kaybettim.">

@@ -5,9 +5,9 @@
 <!-- Entities for Account Type page -->
 
 
-<!ENTITY accountSetupInfo.label "İletilere ulaşabilmek için ilk önce posta ve haber grubu hesabı eklemeniz gerekir.">
+<!ENTITY accountSetupInfo2.label "In order to receive messages, you first need to set up an account.">
 <!ENTITY accountTypeTitle.label "Yeni Hesap Ayarları">
-<!ENTITY accountTypeDesc.label "Bu sihirbaz, posta ve haber grubu hesapları için gerekli bilgileri toplayacaktır. Gerekli bilgileri bilmiyorsanız ağ yöneticiniz ile veya internet sağlayıcınız ile  temasa geçin ve gerekli bilgileri öğreniniz.">
+<!ENTITY accountTypeDesc2.label "This Wizard will collect the information necessary to set up an account. If you do not know the information requested, please contact your System Administrator or Internet Service Provider.">
 <!ENTITY accountTypeDirections.label "Ayarlamak istediğiniz hesap türünü seçin:">
 <!ENTITY accountTypeMail.label "E-posta hesabı">
 <!ENTITY accountTypeMail.accesskey "p">
