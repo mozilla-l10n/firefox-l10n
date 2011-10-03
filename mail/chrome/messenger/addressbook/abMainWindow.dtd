@@ -91,12 +91,12 @@
 <!ENTITY showContactPane.accesskey                      "c">
 <!ENTITY menu_ShowNameAs.label                          "Mostrar nome como">
 <!ENTITY menu_ShowNameAs.accesskey                      "s"> 
-<!ENTITY firstLastCmd.label                             "Nome, apelido">
-<!ENTITY firstLastCmd.accesskey                         "e"> 
-<!ENTITY lastFirstCmd.label                             "Apelido, nome">
+<!ENTITY firstLastCmd2.label                            "Nome e apelidos">
+<!ENTITY firstLastCmd2.accesskey                        "e"> 
+<!ENTITY lastFirstCmd.label                             "Apelidos, nome">
 <!ENTITY lastFirstCmd.accesskey                         "l">
-<!ENTITY displayNameCmd.label                           "Mostrar nome">
-<!ENTITY displayNameCmd.accesskey                       "M">
+<!ENTITY displayNameCmd.label                           "Texto de 'Mostrar'">
+<!ENTITY displayNameCmd.accesskey                       "T">
 <!ENTITY sortMenu.label                                 "Ordenar por">
 <!ENTITY sortMenu.accesskey                             "d">
 
