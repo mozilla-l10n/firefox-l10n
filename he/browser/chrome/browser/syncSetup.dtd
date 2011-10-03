@@ -35,8 +35,8 @@
 <!ENTITY signIn.account2.accesskey  "ח">
 <!ENTITY signIn.password.label      "ססמה">
 <!ENTITY signIn.password.accesskey  "ס">
-<!ENTITY signIn.syncKey.label       "מפתח סינכרון">
-<!ENTITY signIn.syncKey.accesskey   "מ">
+<!ENTITY signIn.recoveryKey.label       "מפתח שחזור">
+<!ENTITY signIn.recoveryKey.accesskey   "מ">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "פרטי החשבון">
@@ -57,12 +57,12 @@
 <!ENTITY setup.tosAgree2.accesskey  "ו">
 
 <!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "ל־&brandShortName; אכפת בנוגע לפרטיות שלך">
-<!ENTITY setup.newSyncKeyPage.description.label "כדי לדאוג שפרטיותך לא תיפגע, כל הנתונים שלך מוצפנים בטרם ההעלאה. מפתח הסנכרון הנחוץ לפענוח הנתונים שלך לא יועלה.">
-<!ENTITY syncKeyEntry.label        "מפתח הסנכרון שלך">
-<!ENTITY syncKeyEntry.accesskey    "מ">
+<!ENTITY setup.newRecoveryKeyPage.title.label "ל־&brandShortName; אכפת בנוגע לפרטיות שלך">
+<!ENTITY setup.newRecoveryKeyPage.description.label "כדי לדאוג שפרטיותך לא תיפגע, כל הנתונים שלך מוצפנים בטרם ההעלאה. מפתח השחזור הנחוץ לפענוח הנתונים שלך לא יועלה.">
+<!ENTITY recoveryKeyEntry.label        "מפתח השחזור שלך">
+<!ENTITY recoveryKeyEntry.accesskey    "מ">
 <!ENTITY syncGenerateNewKey.label  "יצירת מפתח חדש">
-<!ENTITY syncKeyBackup.description "מפתח הסנכרון שלך דרוש כדי לגשת אל &syncBrand.fullName.label; במחשבים אחרים. אנא צור עותק גיבוי. לא נוכל לסייע לך לשחזר את מפתח הסנכרון שלך.">
+<!ENTITY recoveryKeyBackup.description "מפתח השחזור שלך דרוש כדי לגשת אל &syncBrand.fullName.label; במחשבים אחרים. אנא צור עותק גיבוי. לא נוכל לסייע לך לשחזר את מפתח השחזור שלך.">
 
 <!ENTITY button.syncKeyBackup.print.label     "הדפסה...">
 <!ENTITY button.syncKeyBackup.print.accesskey "ה">
@@ -81,12 +81,12 @@
 <!ENTITY addDevice.dialog.enterCode.label   "הקלד את הקוד שההתקן מספק:">
 <!ENTITY addDevice.dialog.tryAgain.label    "נא לנסות שנית.">
 <!ENTITY addDevice.dialog.successful.label  "ההתקן התווסף בהצלחה. השלמת הסנכרון הראשוני יכולה לקחת מספר דקות ותסתיים ברקע.">
-<!ENTITY addDevice.dialog.syncKey.label     "כדי להפעיל את ההתקן שלך יש צורך להקליד את מפתח הסינכרון. נא להדפיס או לשמור את המפתח ולקחת אותו איתך.">
+<!ENTITY addDevice.dialog.recoveryKey.label     "כדי להפעיל את ההתקן שלך יהיה צור להקליד את מפתח השחזור. נא להדפיס או לשמור את המפתח הזה ולקחת אותו עמך.">
 <!ENTITY addDevice.dialog.connected.label   "ההתקן מחובר">
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "התחברות">
-<!ENTITY existingSyncKey.description "ניתן לקבל עותק של מפתח הסנכרון במסך האפשרויות של &syncBrand.shortName.label; בהתקן, ובחירה באפשרות &#x0022;מפתח הסנכרון שלי&#x0022; תחת &#x0022;ניהול חשבון&#x0022;.">
+<!ENTITY existingRecoveryKey.description "ניתן לקבל עותק של מפתח השחזור במסך האפשרויות של &syncBrand.shortName.label; בהתקן ובחירה באפשרות &#x0022;מפתח השחזור שלי&#x0022; תחת &#x0022;ניהול חשבון&#x0022;.">
 <!ENTITY verifying.label              "מאמת…">
 <!ENTITY resetPassword.label          "אפס סיסמה">
 <!ENTITY resetSyncKey.label           "איבדתי את ההתקן הנוסף שלי.">
