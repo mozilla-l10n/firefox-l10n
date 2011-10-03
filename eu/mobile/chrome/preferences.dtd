@@ -21,3 +21,4 @@
 <!ENTITY homepage.default                          "&brandShortName; hasiera">
 <!ENTITY homepage.currentpage                      "Erabili uneko orria">
 <!ENTITY showCharsetEncoding.title                 "Erakutsi karaktere-kodeketa">
+<!ENTITY actionbar.default                         "&brandShortName; ezarpenak">

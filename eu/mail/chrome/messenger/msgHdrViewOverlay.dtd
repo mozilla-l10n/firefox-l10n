@@ -35,43 +35,42 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField2.label "nori ">
-<!ENTITY fromField2.label "nork ">
-<!ENTITY senderField2.label "bidaltzailea ">
-<!ENTITY organizationField2.label "erakundea ">
-<!ENTITY replyToField2.label "erantzun-honi ">
+<!ENTITY toField3.label "Nori">
+<!ENTITY fromField3.label "Nork ">
+<!ENTITY senderField3.label "Bidaltzailea ">
+<!ENTITY organizationField3.label "Erakundea ">
+<!ENTITY replyToField3.label "Erantzun honi ">
 
-<!ENTITY subjectField2.label "gaia ">
-<!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
-<!ENTITY ccField2.label "cc ">
-<!ENTITY bccField2.label "bcc ">
-<!ENTITY newsgroupsField2.label "Berri-taldeak ">
-<!ENTITY followupToField2.label "jarraitu-hona ">
-<!ENTITY tagsHdr2.label "etiketak ">
-<!ENTITY dateField2.label "data ">
-<!ENTITY userAgentField2.label "erabiltzaile-agentea ">
-<!ENTITY referencesField2.label "erreferentziak ">
-<!ENTITY messageIdField2.label "mezu-IDa ">
-<!ENTITY inReplyToField2.label "honen-erantzuna ">
-<!ENTITY originalWebsite2.label "webgunea ">
+<!ENTITY subjectField3.label "Gaia ">
+<!ENTITY ccField3.label "Cc ">
+<!ENTITY bccField3.label "Bcc ">
+<!ENTITY newsgroupsField3.label "Berri-taldeak ">
+<!ENTITY followupToField3.label "Jarraipena honi ">
+<!ENTITY tagsHdr3.label "Etiketak ">
+<!ENTITY dateField3.label "Data ">
+<!ENTITY userAgentField3.label "Erabiltzaile-agentea ">
+<!ENTITY referencesField3.label "Erreferentziak ">
+<!ENTITY messageIdField3.label "Mezu-IDa ">
+<!ENTITY inReplyToField3.label "Honi erantzunez ">
+<!ENTITY originalWebsite3.label "Webgunea ">
 
 <!ENTITY editMessageDescription.label "Mezua zirriborroa da">
 <!ENTITY editMessageButton.label "Editatu…">
-<!ENTITY hdrArchiveButton.label "artxibatu">
-<!ENTITY hdrArchiveButton.tooltip "artxibatu mezua">
-<!ENTITY hdrSmartReplyButton.label "erantzun bizkorra">
-<!ENTITY hdrReplyButton.label "erantzun">
-<!ENTITY hdrReplyButton.tooltip "erantzun mezuari">
-<!ENTITY hdrReplyAllButton.label "erantzun denei">
-<!ENTITY hdrReplyAllButton.tooltip "erantzun bidaltzaileari eta hartzaile guztiei">
-<!ENTITY hdrReplyListButton.label "erantzun zerrendari">
-<!ENTITY hdrReplyListButton.tooltip "erantzun posta-zerrendari">
-<!ENTITY hdrForwardButton.label "birbidali">
-<!ENTITY hdrForwardButton.tooltip "birbidali mezua">
-<!ENTITY hdrJunkButton.label "zaborra">
-<!ENTITY hdrJunkButton.tooltip "markatu mezua zabor gisa">
-<!ENTITY hdrTrashButton.label "ezabatu">
-<!ENTITY hdrTrashButton.tooltip "ezabatu mezua">
+<!ENTITY hdrArchiveButton1.label "Artxibatu">
+<!ENTITY hdrArchiveButton1.tooltip "Artxibatu mezu hau">
+<!ENTITY hdrSmartReplyButton1.label "Erantzun bizkorra">
+<!ENTITY hdrReplyButton1.label "Erantzun">
+<!ENTITY hdrReplyButton1.tooltip "Erantzun mezuari">
+<!ENTITY hdrReplyAllButton1.label "Erantzun denei">
+<!ENTITY hdrReplyAllButton1.tooltip "Erantzun bidaltzaileari eta hartzaile guztiei">
+<!ENTITY hdrReplyListButton1.label "Erantzun zerrendari">
+<!ENTITY hdrReplyListButton1.tooltip "Erantzun posta-zerrendari">
+<!ENTITY hdrForwardButton1.label "Aurrera">
+<!ENTITY hdrForwardButton1.tooltip "Birbidali mezua">
+<!ENTITY hdrJunkButton1.label "Zabor-posta">
+<!ENTITY hdrJunkButton1.tooltip "Markatu mezua zabor gisa">
+<!ENTITY hdrTrashButton1.label "Ezabatu">
+<!ENTITY hdrTrashButton1.tooltip "Ezabatu mezua">
 
 <!ENTITY hdrViewToolbarShowFull.label "Erakutsi ikonoak eta testua">
 <!ENTITY hdrViewToolbarShowFull.accesskey "E">
@@ -82,23 +81,23 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Erakutsi beti 'erantzun bidaltzaileari'">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "r">
 
-<!ENTITY otherActionsButton.label "bestelako ekintzak">
-<!ENTITY otherActionsOpenConversation.label "erakutsi hizketaldian">
-<!ENTITY otherActionsOpenConversation.accesskey "h">
-<!ENTITY otherActionsOpenInNewWindow.label "ireki leiho berrian">
-<!ENTITY otherActionsOpenInNewWindow.accesskey "h">
-<!ENTITY otherActionsOpenInNewTab.label "ireki fitxa berrian">
-<!ENTITY otherActionsOpenInNewTab.accesskey "t">
-<!ENTITY markAsReadMenuItem.label "markatu irakurritako gisa">
-<!ENTITY markAsReadMenuItem.accesskey "r">
-<!ENTITY markAsUnreadMenuItem.label "markatu irakurri gabeko gisa">
-<!ENTITY markAsUnreadMenuItem.accesskey "r">
-<!ENTITY saveAsMenuItem.label "gorde honela…">
-<!ENTITY saveAsMenuItem.accesskey "h">
-<!ENTITY viewSourceMenuItem.label "ikusi iturburua…">
-<!ENTITY viewSourceMenuItem.accesskey "u">
-<!ENTITY otherActionsPrint.label "inprimatu…">
-<!ENTITY otherActionsPrint.accesskey "n">
+<!ENTITY otherActionsButton1.label "Bestelako ekintzak">
+<!ENTITY otherActionsOpenConversation1.label "Ireki hizketaldian">
+<!ENTITY otherActionsOpenConversation1.accesskey "h">
+<!ENTITY otherActionsOpenInNewWindow1.label "Ireki leiho berrian">
+<!ENTITY otherActionsOpenInNewWindow1.accesskey "l">
+<!ENTITY otherActionsOpenInNewTab1.label "Ireki fitxa berri batean">
+<!ENTITY otherActionsOpenInNewTab1.accesskey "t">
+<!ENTITY markAsReadMenuItem1.label "Markatu irakurritako gisa">
+<!ENTITY markAsReadMenuItem1.accesskey "k">
+<!ENTITY markAsUnreadMenuItem1.label "Markatu irakurri gabeko gisa">
+<!ENTITY markAsUnreadMenuItem1.accesskey "r">
+<!ENTITY saveAsMenuItem1.label "Gorde honela…">
+<!ENTITY saveAsMenuItem1.accesskey "G">
+<!ENTITY viewSourceMenuItem1.label "Ikusi iturburua">
+<!ENTITY viewSourceMenuItem1.accesskey "I">
+<!ENTITY otherActionsPrint1.label "Inprimatu…">
+<!ENTITY otherActionsPrint1.accesskey "p">
 <!-- Attachment context menu items -->
 
 <!ENTITY openAttachmentCmd.label    "Ireki">
@@ -119,26 +118,10 @@
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "E">
 <!-- Attachment toolbar items -->
 
-<!ENTITY saveAttachmentButton.label       "gorde">
-<!ENTITY saveAttachmentButton.tooltip     "gorde erantsitako fitxategia">
-<!ENTITY saveAllAttachmentsButton.label   "gorde dena">
-<!ENTITY saveAllAttachmentsButton.tooltip "gorde erantsitako fitxategi guztiak">
-<!ENTITY openAttachmentMenuItem.label     "ireki">
-<!ENTITY openAttachmentMenuItem.accesskey    "i">
-<!ENTITY saveAsAttachmentMenuItem.label    "gorde honela…">
-<!ENTITY saveAsAttachmentMenuItem.accesskey    "h">
-<!ENTITY detachAttachmentMenuItem.label    "askatu…">
-<!ENTITY detachAttachmentMenuItem.accesskey    "a">
-<!ENTITY deleteAttachmentMenuItem.label    "ezabatu">
-<!ENTITY deleteAttachmentMenuItem.accesskey    "e">
-<!ENTITY openAllAttachmentsMenuItem.label    "ireki dena…">
-<!ENTITY openAllAttachmentsMenuItem.accesskey    "i">
-<!ENTITY saveAllAttachmentsMenuItem.label    "gorde dena…">
-<!ENTITY saveAllAttachmentsMenuItem.accesskey    "g">
-<!ENTITY detachAllAttachmentsMenuItem.label    "askatu dena…">
-<!ENTITY detachAllAttachmentsMenuItem.accesskey    "d">
-<!ENTITY deleteAllAttachmentsMenuItem.label    "ezabatu dena…">
-<!ENTITY deleteAllAttachmentsMenuItem.accesskey    "e">
+<!ENTITY saveAttachmentButton1.label       "Gorde">
+<!ENTITY saveAttachmentButton1.tooltip     "Gorde erantsitako fitxategia">
+<!ENTITY saveAllAttachmentsButton1.label   "Gorde dena">
+<!ENTITY saveAllAttachmentsButton1.tooltip "Gorde erantsitako fitxategi guztiak">
 
 <!ENTITY copyLinkCmd.label        "Kopiatu loturaren helbidea">
 <!ENTITY copyLinkCmd.accesskey    "K">

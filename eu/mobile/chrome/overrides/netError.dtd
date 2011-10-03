@@ -13,11 +13,11 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Zerbitzaria ez da aurkitu">
-<!ENTITY dnsNotFound.longDesc2 "<ul>
-<li>Egiaztatu helbideak idazketa-erroreak dituen, adibidez:
-<strong>ww</strong>.adibidea.com
-<strong>www</strong>.adibidea.com ordez</li>
-<li>Ezin badituzu orriak kargatu, egiaztatu zure gailuaren datuen edo WiFi-aren konexioa.</li>
+<!ENTITY dnsNotFound.longDesc2 "<ul> 
+<li>Egiaztatu helbideak idazketa-erroreak dituen, adibidez: 
+<strong>ww</strong>.adibidea.com 
+<strong>www</strong>.adibidea.com ordez</li> 
+<li>Ezin badituzu orriak kargatu, egiaztatu zure gailuaren datuen edo WiFi-aren konexioa.</li> 
 </ul>">
 
 <!ENTITY fileNotFound.title "Ez da fitxategia aurkitu">
@@ -74,9 +74,9 @@
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Proxy zerbitzaria ezin da aurkitu">
-<!ENTITY proxyResolveFailure.longDesc2 "<ul>
-<li>Egiaztatu proxyaren ezarpenak zuzenak direla ziurtatzeko.</li>
-<li>Egiaztatu zure gailuak datuen edo WiFi-aren konexioa daukala.</li>
+<!ENTITY proxyResolveFailure.longDesc2 "<ul> 
+<li>Egiaztatu proxyaren ezarpenak zuzenak direla ziurtatzeko.</li> 
+<li>Egiaztatu zure gailuak datuen edo WiFi-aren konexioa daukala.</li> 
 </ul>">
 
 <!ENTITY redirectLoop.title "Orriak ez du birbidalketa ondo egiten">
@@ -102,9 +102,9 @@
 <li>Zerbitzari honetara arazorik gabe konektatu bazara iraganean, errorea unekoa izan daiteke eta beranduago saia zaitezke.</li> 
 </ul>">
 
-<!ENTITY sharedLongDesc2 "<ul>
-<li>Gunea une batez desgaituta edo oso lanpetuta egon daiteke. Saiatu berriz minutu batzuen buruan.</li>
-<li>Ezin badituzu orriak kargatu, egiaztatu zure gailu mugikorraren datuen edo WiFi-aren konexioa.</li>
+<!ENTITY sharedLongDesc2 "<ul> 
+<li>Gunea une batez desgaituta edo oso lanpetuta egon daiteke. Saiatu berriz minutu batzuen buruan.</li> 
+<li>Ezin badituzu orriak kargatu, egiaztatu zure gailu mugikorraren datuen edo WiFi-aren konexioa.</li> 
 </ul>">
 
 <!ENTITY cspFrameAncestorBlocked.title "Edukien segurtasun-politikak blokeatuta">

@@ -119,6 +119,8 @@
 <!ENTITY redoDefaultCmd.accesskey "r">
 <!-- View Menu -->
 
+<!ENTITY menubarCmd.label "Menu-barra">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showMessengerToolbarCmd.label "Postaren tresna-barra">
 <!ENTITY showMessengerToolbarCmd.accesskey "o">
 <!ENTITY customizeToolbar.label "Pertsonalizatu…">
@@ -270,6 +272,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageSourceCmd.label "Mezuaren iturburua">
 <!ENTITY pageSourceCmd.accesskey "u">
 <!ENTITY pageSourceCmd.key "u">
+<!ENTITY getNewMessagesCmd.key "y">
+<!ENTITY getAllNewMessagesCmd.key "Y">
 <!-- Search Menu -->
 
 <!ENTITY findMenu.label "Bilatu">
@@ -499,12 +503,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY previousButton.label "Aurrekoa">
 <!ENTITY backButton1.label "Atzera">
 <!ENTITY goForwardButton1.label "Aurrera">
+<!ENTITY deleteItem.title "Ezabatu">
 <!ENTITY deleteButton.label "Ezabatu">
 <!ENTITY undeleteButton.label "Desezabatu">
 <!ENTITY markButton.label "Markatu">
 <!ENTITY printButton.label "Inprimatu">
 <!ENTITY stopButton.label "Gelditu">
 <!ENTITY throbberItem.title "Jarduera-adierazlea">
+<!ENTITY junkItem.title "Zabor-posta">
 <!ENTITY junkButton.label "Zabor-posta">
 <!ENTITY notJunkButton.label "Ez da zaborra">
 <!ENTITY addressBookButton.label "Helbide-liburua">

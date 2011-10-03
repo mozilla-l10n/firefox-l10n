@@ -13,9 +13,9 @@
 <!ENTITY manageAccount.label          "Kudeatu kontua">
 <!ENTITY manageAccount.accesskey      "K">
 <!ENTITY viewQuota.label              "Ikusi kuota">
-<!ENTITY changePassword2.label         "Aldatu pasahitza…">
-<!ENTITY mySyncKey.label              "Nire Sync gakoa">
-<!ENTITY resetSync2.label              "Berrezarri Sync…">
+<!ENTITY changePassword2.label        "Aldatu pasahitza…">
+<!ENTITY myRecoveryKey.label          "Nire berreskuratze-gakoa">
+<!ENTITY resetSync2.label             "Berrezarri Sync…">
 
 <!ENTITY addDevice.label              "Gehitu gailua">
 

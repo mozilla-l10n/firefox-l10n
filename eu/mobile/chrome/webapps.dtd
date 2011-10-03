@@ -4,3 +4,4 @@
 <!ENTITY webapps.perm.offline "Lineaz kanpoko datuen biltegiratzea">
 <!ENTITY webapps.perm.notifications "Mahaigaineko jakinarazpenak">
 <!ENTITY webapps.perm.requestedHint "(eskatuta)">
+<!ENTITY webapps.add-homescreen "Gehitu hasierako pantailara">

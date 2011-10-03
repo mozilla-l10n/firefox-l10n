@@ -1,4 +1,4 @@
 <!ENTITY window.title             "Mezuaren laburpena">
 <!ENTITY selectedmessages.label   "Hautatutako mezuak">
-<!ENTITY archive.label            "artxibatu">
-<!ENTITY delete.label             "ezabatu">
+<!ENTITY archiveButton.label      "Artxibatu">
+<!ENTITY deleteButton.label       "Ezabatu">

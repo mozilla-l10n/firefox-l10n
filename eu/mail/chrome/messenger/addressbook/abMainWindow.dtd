@@ -79,6 +79,8 @@
 <!ENTITY viewMenu.accesskey                             "I">
 <!ENTITY viewToolbarsMenu.label                         "Tresna-barrak">
 <!ENTITY viewToolbarsMenu.accesskey                     "T"> 
+<!ENTITY menubarCmd.label                               "Menu-barra">
+<!ENTITY menubarCmd.accesskey                           "M">
 <!ENTITY showAbToolbarCmd.label                         "Helbide-liburuaren tresna-barra">
 <!ENTITY showAbToolbarCmd.accesskey                     "u">
 <!ENTITY showTaskbarCmd.label                           "Egoera-barra">

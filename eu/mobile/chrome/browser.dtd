@@ -93,9 +93,11 @@
 <!ENTITY consoleErrColumn.label    "Zutabea:">
 
 <!ENTITY contextOpenInNewTab.label    "Ireki lotura fitxa berrian">
-<!ENTITY contextSaveLink.label        "Gorde lotura">
 <!ENTITY contextSaveImage.label       "Gorde irudia">
 <!ENTITY contextCopyLink.label        "Kopiatu lotura">
+<!ENTITY contextCopyEmail.label       "Kopiatu helbide elektronikoa">
+<!ENTITY contextCopyPhone.label       "Kopiatu telefono zenbakia">
+<!ENTITY contextCopyImageLocation.label       "Kopiatu irudiaren helbidea">
 <!ENTITY contextShareLink.label       "Partekatu lotura">
 <!ENTITY contextShareImage.label      "Partekatu irudia">
 <!ENTITY contextBookmarkLink.label    "Loturaren laster-marka…">
@@ -116,6 +118,5 @@
 <!ENTITY pageactions.findInPage      "Bilatu orrian">
 <!ENTITY pageactions.search.addNew   "Gehitu bilaketa-motorra">
 <!ENTITY pageactions.charEncoding    "Karaktere-kodeketa">
-<!ENTITY pageactions.webapps.install "Instalatu aplikazio gisa">
 
 <!ENTITY appMenu.siteOptions         "Gunearen aukerak">

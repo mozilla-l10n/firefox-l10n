@@ -101,6 +101,9 @@
 
 <!ENTITY showImageLinkBorder.label "Lotutako irudiaren inguruan ertza erakutsi">
 <!ENTITY showImageLinkBorder.accessKey "e">
+<!ENTITY LinkAdvancedEditButton.label "Loturen edizio aurreratua…">
+<!ENTITY LinkAdvancedEditButton.accessKey "L">
+<!ENTITY LinkAdvancedEditButton.tooltip "Gehitu edo aldatu HTML atributuak, estilo-atributuak eta JavaScript">
 <!-- These tabs are currently used in the image input dialog -->
 
 <!ENTITY imageInputTab.label "Inprimakia">

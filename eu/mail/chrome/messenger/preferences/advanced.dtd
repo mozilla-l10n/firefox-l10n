@@ -6,6 +6,9 @@
 <!-- General Settings -->
 
 
+<!ENTITY submitTelemetry.label         "Bidali errendimenduaren inguruko datuak">
+<!ENTITY submitTelemetry.accesskey     "e">
+<!ENTITY telemetryInfoLink.label       "Telemetry-ri buruzko informazio gehiago">
 <!ENTITY enableGlodaSearch.label       "Gaitu bilaketa orokorra eta indexatzailea">
 <!ENTITY enableGlodaSearch.accesskey   "i">
 <!ENTITY systemIntegration.label       "Sistemaren integrazioa">
