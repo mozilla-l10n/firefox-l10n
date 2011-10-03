@@ -111,8 +111,8 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label "İleri">
 <!ENTITY forwardCmd.accesskey "r">
 <!ENTITY forwardButton.tooltip "Bir sayfa ileriye">
-<!ENTITY backForwardButtonMenu.tooltip "Right-click or pull down to show history">
-<!ENTITY backForwardButtonMenuMac.tooltip "Pull down to show history">
+<!ENTITY backForwardButtonMenu.tooltip "Geçmişi göstermek için sağ tıklayın veya aşağı çekin">
+<!ENTITY backForwardButtonMenuMac.tooltip "Geçmişi göstermek için aşağı çekin">
 <!ENTITY reloadCmd.label "Tazele">
 <!ENTITY reloadCmd.accesskey "T">
 <!ENTITY reloadButton.tooltip "Geçerli sayfayı tazele">
