@@ -47,5 +47,5 @@
 <!ENTITY makeUrlRelative.tooltip "Bağıl ve tam URL arasında değişiklik var. Bunu değiştirmeden önce sayfayı kaydetmelisiniz.">
 <!-- Shared by Link and Image dialogs -->
 
-<!ENTITY LinkURLEditField.label "Bir web sayfası konumu veya bir yerel dosya girin veya açılır listeden isimlendirilmiş belirteç ya da başlık seçin:">
-<!ENTITY LinkURLEditField.accessKey "B">
+<!ENTITY LinkURLEditField.label "Enter a web page location, a local file, or select a Named Anchor or Heading from the popup list:">
+<!ENTITY LinkURLEditField.accessKey "w">

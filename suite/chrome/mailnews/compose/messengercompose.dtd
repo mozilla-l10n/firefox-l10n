@@ -11,10 +11,7 @@
 <!-- File menu items -->
 
 
-<!ENTITY newMessage.label "Posta">
-<!ENTITY newMessage.accesskey "P">
 <!ENTITY saveCmd.label "Kaydet">
-<!ENTITY saveCmd.key "S">
 <!ENTITY saveCmd.accesskey "K">
 <!ENTITY saveAsCmd.label "Farklı kaydet">
 <!ENTITY saveAsCmd.accesskey "a">
@@ -69,7 +66,6 @@
 <!ENTITY selectAddressCmd.accesskey "A">
 
 <!ENTITY checkSpellingCmd2.label "İmla Denetimi…">
-<!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY checkSpellingCmd2.accesskey "İ">
 <!ENTITY enableInlineSpellChecker.label "Yazarken yazım denetimini gerçekleştir">
 <!ENTITY enableInlineSpellChecker.accesskey "Y">
@@ -130,8 +126,6 @@
 <!ENTITY spellCheckIgnoreWord.accesskey "g">
 <!ENTITY spellCheckAddToDictionary.label "Sözlüğe ekle">
 <!ENTITY spellCheckAddToDictionary.accesskey "k">
-<!ENTITY pasteQuote.label "Alıntı olarak yapıştır">
-<!ENTITY pasteQuote.accesskey "A">
 
 <!ENTITY openAttachment.label "Aç">
 <!ENTITY openAttachment.accesskey "A">

@@ -8,8 +8,8 @@
 <!ENTITY useCursorNavigation.accesskey "S">
 <!ENTITY searchStartTyping.label "Yazmaya başlar başlamaz arama yap">
 <!ENTITY searchStartTyping.accesskey "z">
-<!ENTITY blockAutoRefresh.label "Siteler sayfaları tazelemek ya da yönlendirmek istediğinde beni uyar">
-<!ENTITY blockAutoRefresh.accesskey "r">
+<!ENTITY blockAutoRefresh.label "Warn me when websites try to redirect or reload the page">
+<!ENTITY blockAutoRefresh.accesskey "b">
 
 <!ENTITY browsing.label "Tarama">
 

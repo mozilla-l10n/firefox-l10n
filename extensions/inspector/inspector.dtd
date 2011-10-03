@@ -51,8 +51,8 @@
 <!ENTITY mnDocViewerList.accesskey "B">
 <!ENTITY mnObjectViewerList.label "Nesne görüntüleyici">
 <!ENTITY mnObjectViewerList.accesskey "N">
-<!ENTITY cmdToggleBrowser.label "Tarayıcı">
-<!ENTITY cmdToggleBrowser.accesskey "T">
+<!ENTITY cmdToggleDocument.label "Show Document in Browser Pane">
+<!ENTITY cmdToggleDocument.accesskey "B">
 <!ENTITY cmdToggleSearch.label "Arama sonuçları">
 <!ENTITY cmdFlashOnSelect.label "Blink Selected Element">
 <!ENTITY cmdFlashOnSelect.accesskey "S">

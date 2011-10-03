@@ -57,7 +57,7 @@
 <!ENTITY unknownSocketType.longDesc "<p>Site bağlantı isteğine hiç beklenmeyen bir biçimde karşılık verdi ve tarayıcı bu girişimi daha fazla sürdürmeyecek.</p>">
 
 <!ENTITY nssFailure2.title "Güvenli bağlantı hatalı">
-<!ENTITY nssFailure2.longDesc "<p>Bağlanmaya çalıştığınız sayfa geçersiz veya desteklenmeyen bir güvenlik iletişim kuralı kullandığı için gösterilemiyor.</p><ul><li>Lütfen site yöneticisi ile irtibata geçip durumu bildirin ya da yardım menüsünde konu ile ilgili ayrıntılı bilgileri okuyun.</li></ul>">
+<!ENTITY nssFailure2.longDesc "<p>The page you are trying to view can not be shown because the authenticity of the received data could not be verified.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
 
 <!ENTITY nssBadCert.title "Güvenli bağlantı hatalı">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
@@ -67,9 +67,10 @@
 </ul>">
 
 <!ENTITY malwareBlocked.title "Şüpheli saldırı sitesi!">
-<!ENTITY malwareBlocked.longDesc "<p> 
-Saldırı siteleri, özel bilgilerinizi çalan, bilgisayarınızı başkalarına saldırma amacıyla kullanan ya da sisteminize zarar veren programlar kurmaya çalışan sitelerdir.</p> 
-<p>Bu siteyi ziyaret etmemelisiniz.</p>">
+<!ENTITY malwareBlocked.longDesc "
+<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p>
+<p>Website owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo' >request a review</a>.</p>
+">
 
 <!ENTITY phishingBlocked.title "Sahtekârlık şüphesi!">
 <!ENTITY phishingBlocked.longDesc "<p>Bu sayfada yapılacak kişisel bilgi girişi, kimlik hırsızlığı ya da başka tür dolandırıcılıkla sonuçlanabilir.</p> 

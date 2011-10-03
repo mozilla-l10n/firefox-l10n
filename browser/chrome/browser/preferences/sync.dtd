@@ -14,7 +14,7 @@
 <!ENTITY manageAccount.accesskey "y">
 <!ENTITY viewQuota.label "Sınıra bak">
 <!ENTITY changePassword2.label "Change Password…">
-<!ENTITY mySyncKey.label "Eşitleme anahtarım">
+<!ENTITY myRecoveryKey.label "My Recovery Key">
 <!ENTITY resetSync2.label "Reset Sync…">
 
 <!ENTITY addDevice.label "Aygıt ekle">
