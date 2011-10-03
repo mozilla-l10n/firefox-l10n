@@ -13,8 +13,8 @@
 <!ENTITY useCurrentPage.label      "השתמש בדף הנוכחי">
 <!ENTITY useCurrentPage.accesskey  "נ">
 <!ENTITY useMultiple.label         "השתמש בדפים הנוכחיים">
-<!ENTITY useBookmark.label         "השתמש בסימנייה">
-<!ENTITY useBookmark.accesskey     "ס">
+<!ENTITY chooseBookmark.label      "השתמש בסימנייה…">
+<!ENTITY chooseBookmark.accesskey  "ס">
 <!ENTITY restoreDefault.label      "שחזר לברירת המחדל">
 <!ENTITY restoreDefault.accesskey  "ש">
 

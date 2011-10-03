@@ -4,6 +4,7 @@
 # http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
 # Yaron <sh.yaron@gmail.com>
 # elad <el.il@doom.co.il>
+# hatul <amiadb@gmail.com>
 #
 -->
 <!-- The page shown when not logged in... -->
@@ -21,9 +22,9 @@
 <!ENTITY manageAccount.label          "ניהול חשבון">
 <!ENTITY manageAccount.accesskey      "נ">
 <!ENTITY viewQuota.label              "הצג מכסה">
-<!ENTITY changePassword2.label         "שינוי ססמה…">
-<!ENTITY mySyncKey.label              "מפתח הסנכרון שלי">
-<!ENTITY resetSync2.label              "איפוס Sync…">
+<!ENTITY changePassword2.label        "שינוי ססמה…">
+<!ENTITY myRecoveryKey.label          "מפתח השחזור שלי">
+<!ENTITY resetSync2.label             "איפוס Sync…">
 
 <!ENTITY addDevice.label              "הוספת התקן">
 

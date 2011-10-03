@@ -24,7 +24,7 @@
 <!ENTITY  found.wizard.title               "נמצאו תוספות תואמות">
 <!ENTITY  found.top.label                 "בחר את התוספות שברצונך להתקין:">
 <!ENTITY  found.disabledXPinstall.label   "עדכונים אלו לא ניתנים להתקנה מאחר שהתקנת תכנה כרגע מנוטרלת. ניתן לשנות זאת בהמשך.">
-<!ENTITY  found.enableXPInstall.label     "אפשר התקנות לאתרים">
+<!ENTITY  found.enableXPInstall.label     "אפשר לאתרים להתקין תוכנה">
 <!ENTITY  found.enableXPInstall.accesskey "ת">
 
 <!ENTITY  installing.wizard.title         "מתקין תוספות תואמות">
