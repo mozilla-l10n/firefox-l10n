@@ -1,7 +1,11 @@
 <!ENTITY aboutSupport.pageTitle "Sorun çözme bilgisi">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "  Bu sayfa bir sorunu çözerken kullanabileceğiniz teknik bilgiler içermektedir. Eğer &brandShortName; hakkında sıkça sorulan sorulara cevap arıyorsanız <a id='supportLink'>destek sayfamızı</a> ziyaret edin.">
+<!ENTITY aboutSupport.pageSubtitle "
+  This page contains technical information that might be useful when you're
+  trying to solve a problem. If you are looking for answers to common questions
+  about &brandShortName;, check out our <a id='supportLink'>support website</a>.
+">
 
 <!ENTITY aboutSupport.extensionsTitle "Eklentiler">
 <!ENTITY aboutSupport.extensionName "Adı">
@@ -17,6 +21,7 @@
 <!ENTITY aboutSupport.appBasicsBuildConfig "Yapılandırma">
 <!ENTITY aboutSupport.appBasicsUserAgent "Kullanıcı aracı">
 <!ENTITY aboutSupport.appBasicsCrashIDs "Crash Reports">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Memory Use">
 
 <!ENTITY aboutSupport.show.label "Bulunduğu dizini aç">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific

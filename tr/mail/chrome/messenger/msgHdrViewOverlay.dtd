@@ -35,43 +35,42 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField2.label "Kime ">
-<!ENTITY fromField2.label "Kimden ">
-<!ENTITY senderField2.label "Gönderen ">
-<!ENTITY organizationField2.label "Kurum ">
-<!ENTITY replyToField2.label "Yanıt adresi ">
+<!ENTITY toField3.label "To ">
+<!ENTITY fromField3.label "From ">
+<!ENTITY senderField3.label "Sender ">
+<!ENTITY organizationField3.label "Organization ">
+<!ENTITY replyToField3.label "Reply to ">
 
-<!ENTITY subjectField2.label "Konu ">
-<!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
-<!ENTITY ccField2.label "cc ">
-<!ENTITY bccField2.label "Gizli kopya ">
-<!ENTITY newsgroupsField2.label "Haber grupları ">
-<!ENTITY followupToField2.label "Followup-to ">
-<!ENTITY tagsHdr2.label "Etiketler ">
-<!ENTITY dateField2.label "Tarih ">
-<!ENTITY userAgentField2.label "User-agent ">
-<!ENTITY referencesField2.label "Referanslar ">
-<!ENTITY messageIdField2.label "Message-ID ">
-<!ENTITY inReplyToField2.label "In-reply-to ">
-<!ENTITY originalWebsite2.label "Web sitesi ">
+<!ENTITY subjectField3.label "Subject ">
+<!ENTITY ccField3.label "Cc ">
+<!ENTITY bccField3.label "Bcc ">
+<!ENTITY newsgroupsField3.label "Newsgroups ">
+<!ENTITY followupToField3.label "Followup to ">
+<!ENTITY tagsHdr3.label "Tags ">
+<!ENTITY dateField3.label "Date ">
+<!ENTITY userAgentField3.label "User agent ">
+<!ENTITY referencesField3.label "References ">
+<!ENTITY messageIdField3.label "Message ID ">
+<!ENTITY inReplyToField3.label "In reply to ">
+<!ENTITY originalWebsite3.label "Website ">
 
 <!ENTITY editMessageDescription.label "Taslak ileti">
 <!ENTITY editMessageButton.label "Düzenle…">
-<!ENTITY hdrArchiveButton.label "Arşivle">
-<!ENTITY hdrArchiveButton.tooltip "Bu iletiyi arşivle">
-<!ENTITY hdrSmartReplyButton.label "smart reply">
-<!ENTITY hdrReplyButton.label "Yanıtla">
-<!ENTITY hdrReplyButton.tooltip "İletiyi yanıtla">
-<!ENTITY hdrReplyAllButton.label "Hepsini yanıtla">
-<!ENTITY hdrReplyAllButton.tooltip "Göndereni ve tüm alıcıları yanıtla">
-<!ENTITY hdrReplyListButton.label "Listeyi yanıtla">
-<!ENTITY hdrReplyListButton.tooltip "E-posta listesini yanıtla">
-<!ENTITY hdrForwardButton.label "İlet">
-<!ENTITY hdrForwardButton.tooltip "Bu iletiyi ilet">
-<!ENTITY hdrJunkButton.label "Gereksiz">
-<!ENTITY hdrJunkButton.tooltip "İletiyi gereksiz olarak işaretle">
-<!ENTITY hdrTrashButton.label "Sil">
-<!ENTITY hdrTrashButton.tooltip "İletiyi sil">
+<!ENTITY hdrArchiveButton1.label "Archive">
+<!ENTITY hdrArchiveButton1.tooltip "Archive this message">
+<!ENTITY hdrSmartReplyButton1.label "Smart Reply">
+<!ENTITY hdrReplyButton1.label "Reply">
+<!ENTITY hdrReplyButton1.tooltip "Reply to this message">
+<!ENTITY hdrReplyAllButton1.label "Reply All">
+<!ENTITY hdrReplyAllButton1.tooltip "Reply to sender and all recipients">
+<!ENTITY hdrReplyListButton1.label "Reply List">
+<!ENTITY hdrReplyListButton1.tooltip "Reply to mailing list">
+<!ENTITY hdrForwardButton1.label "Forward">
+<!ENTITY hdrForwardButton1.tooltip "Forward this message">
+<!ENTITY hdrJunkButton1.label "Junk">
+<!ENTITY hdrJunkButton1.tooltip "Mark this message as junk">
+<!ENTITY hdrTrashButton1.label "Delete">
+<!ENTITY hdrTrashButton1.tooltip "Delete this message">
 
 <!ENTITY hdrViewToolbarShowFull.label "Simgeleri ve metni göster">
 <!ENTITY hdrViewToolbarShowFull.accesskey "v">
@@ -82,33 +81,33 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Göndereni yanıtla'yı her zaman göster">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "G">
 
-<!ENTITY otherActionsButton.label "Diğer eylemler">
-<!ENTITY otherActionsOpenConversation.label "open in conversation">
-<!ENTITY otherActionsOpenConversation.accesskey "c">
-<!ENTITY otherActionsOpenInNewWindow.label "Yeni pencerede aç">
-<!ENTITY otherActionsOpenInNewWindow.accesskey "Y">
-<!ENTITY otherActionsOpenInNewTab.label "Yeni sekmede aç">
-<!ENTITY otherActionsOpenInNewTab.accesskey "s">
-<!ENTITY markAsReadMenuItem.label "Okunmuş olarak işaretle">
-<!ENTITY markAsReadMenuItem.accesskey "O">
-<!ENTITY markAsUnreadMenuItem.label "Okunmamış olarak işaretle">
-<!ENTITY markAsUnreadMenuItem.accesskey "n">
-<!ENTITY saveAsMenuItem.label "save as…">
-<!ENTITY saveAsMenuItem.accesskey "s">
-<!ENTITY viewSourceMenuItem.label "Kaynağını göster">
-<!ENTITY viewSourceMenuItem.accesskey "K">
-<!ENTITY otherActionsPrint.label "Yazdır…">
-<!ENTITY otherActionsPrint.accesskey "r">
+<!ENTITY otherActionsButton1.label "Other Actions">
+<!ENTITY otherActionsOpenConversation1.label "Open in Conversation">
+<!ENTITY otherActionsOpenConversation1.accesskey "C">
+<!ENTITY otherActionsOpenInNewWindow1.label "Open in New Window">
+<!ENTITY otherActionsOpenInNewWindow1.accesskey "W">
+<!ENTITY otherActionsOpenInNewTab1.label "Open in New Tab">
+<!ENTITY otherActionsOpenInNewTab1.accesskey "T">
+<!ENTITY markAsReadMenuItem1.label "Mark as Read">
+<!ENTITY markAsReadMenuItem1.accesskey "R">
+<!ENTITY markAsUnreadMenuItem1.label "Mark as Unread">
+<!ENTITY markAsUnreadMenuItem1.accesskey "r">
+<!ENTITY saveAsMenuItem1.label "Save as…">
+<!ENTITY saveAsMenuItem1.accesskey "S">
+<!ENTITY viewSourceMenuItem1.label "View Source">
+<!ENTITY viewSourceMenuItem1.accesskey "V">
+<!ENTITY otherActionsPrint1.label "Print…">
+<!ENTITY otherActionsPrint1.accesskey "P">
 <!-- Attachment context menu items -->
 
 <!ENTITY openAttachmentCmd.label "Aç">
 <!ENTITY openAttachmentCmd.accesskey "A">
-<!ENTITY saveAsAttachmentCmd.label "Farklı kaydet…">
-<!ENTITY saveAsAttachmentCmd.accesskey "a">
+<!ENTITY saveAsAttachmentCmd.label "Save As…">
+<!ENTITY saveAsAttachmentCmd.accesskey "S">
 <!ENTITY detachAttachmentCmd.label "Detach…">
-<!ENTITY detachAttachmentCmd.accesskey "T">
+<!ENTITY detachAttachmentCmd.accesskey "D">
 <!ENTITY deleteAttachmentCmd.label "Delete">
-<!ENTITY deleteAttachmentCmd.accesskey "L">
+<!ENTITY deleteAttachmentCmd.accesskey "e">
 <!ENTITY openAllAttachmentsCmd.label "Tümünü aç...">
 <!ENTITY openAllAttachmentsCmd.accesskey "n">
 <!ENTITY saveAllAttachmentsCmd.label "Tümünü kaydet…">
@@ -119,26 +118,10 @@
 <!ENTITY deleteAllAttachmentsCmd.accesskey "m">
 <!-- Attachment toolbar items -->
 
-<!ENTITY saveAttachmentButton.label "save">
-<!ENTITY saveAttachmentButton.tooltip "save the attached file">
-<!ENTITY saveAllAttachmentsButton.label "save all">
-<!ENTITY saveAllAttachmentsButton.tooltip "save all the attached files">
-<!ENTITY openAttachmentMenuItem.label "open">
-<!ENTITY openAttachmentMenuItem.accesskey "o">
-<!ENTITY saveAsAttachmentMenuItem.label "save as…">
-<!ENTITY saveAsAttachmentMenuItem.accesskey "s">
-<!ENTITY detachAttachmentMenuItem.label "detach…">
-<!ENTITY detachAttachmentMenuItem.accesskey "d">
-<!ENTITY deleteAttachmentMenuItem.label "delete">
-<!ENTITY deleteAttachmentMenuItem.accesskey "e">
-<!ENTITY openAllAttachmentsMenuItem.label "open all…">
-<!ENTITY openAllAttachmentsMenuItem.accesskey "o">
-<!ENTITY saveAllAttachmentsMenuItem.label "save all…">
-<!ENTITY saveAllAttachmentsMenuItem.accesskey "s">
-<!ENTITY detachAllAttachmentsMenuItem.label "detach all…">
-<!ENTITY detachAllAttachmentsMenuItem.accesskey "d">
-<!ENTITY deleteAllAttachmentsMenuItem.label "delete all…">
-<!ENTITY deleteAllAttachmentsMenuItem.accesskey "e">
+<!ENTITY saveAttachmentButton1.label "Save">
+<!ENTITY saveAttachmentButton1.tooltip "Save the attached file">
+<!ENTITY saveAllAttachmentsButton1.label "Save All">
+<!ENTITY saveAllAttachmentsButton1.tooltip "Save all the attached files">
 
 <!ENTITY copyLinkCmd.label "Bağlantı konumunu kopyala">
 <!ENTITY copyLinkCmd.accesskey "k">

@@ -62,8 +62,6 @@
 <!ENTITY printAddressBook.accesskey "A">
 <!ENTITY printPreviewAddressBook.label "Adres defteri yazdırma önizleme">
 <!ENTITY printPreviewAddressBook.accesskey "r">
-<!ENTITY printSetupCmd.label "Sayfa düzeni…">
-<!ENTITY printSetupCmd.accesskey "y">
 <!-- Edit Menu -->
 
 <!ENTITY deleteAbCmd.label "Adres defteri sil">
@@ -127,6 +125,9 @@
 <!ENTITY deleteItemButton.tooltip "Seçilmiş öğeleri sil">
 <!ENTITY throbber.tooltip "&vendorShortName; anasayfasına git">
 <!ENTITY advancedButton.tooltip "Gelişmiş adres arama">
+<!-- Dir Tree header -->
+
+<!ENTITY dirTreeHeader.label "Address Books">
 <!-- Status Bar -->  
 
 <!ENTITY statusText.label "">

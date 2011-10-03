@@ -20,6 +20,7 @@
    -
    - Contributor(s): 
    -   Cédric Corazza <cedric.corazza@wanadoo.fr>
+   -   Philipp Kewisch <mozilla@kewis.ch>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -40,7 +41,7 @@
   -->
 
 
-<!ENTITY pref.alarmgoesoff.label "Alarm Kapatılırsa:">
+<!ENTITY pref.alarmgoesoff.label "When a Reminder is Due:">
 <!ENTITY pref.playasound "Ses dosyası çal">
 <!ENTITY pref.calendar.alarms.playsound.accessKey "s">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "Varsayılan ses dosyasını kullan">
@@ -49,20 +50,20 @@
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "G">
 <!ENTITY pref.calendar.alarms.sound.preview.label "Önizleme">
 <!ENTITY pref.calendar.alarms.sound.preview.accessKey "z">
-<!ENTITY pref.showalarmbox "Bir alarm kutusu göster">
+<!ENTITY pref.showalarmbox "Show the reminder dialog">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "m">
-<!ENTITY pref.missedalarms "Eksik olan alarmları göster">
+<!ENTITY pref.missedalarms "Show missed reminders">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "m">
-<!ENTITY pref.calendar.alarms.defaults.label "Varsayılan Alarm Ayarları">
-<!ENTITY pref.defalarm4events.label "Olaylar için varsayılan alarm ayarları:">
-<!ENTITY pref.defalarm4events.accesskey "a">
-<!ENTITY pref.defalarm4todos.label "Görevler için varsayılan alarm ayarları:">
+<!ENTITY pref.calendar.alarms.defaults.label "Reminder Defaults">
+<!ENTITY pref.defalarm4events.label "Default reminder setting for events:">
+<!ENTITY pref.defalarm4events.accesskey "e">
+<!ENTITY pref.defalarm4todos.label "Default reminder setting for tasks:">
 <!ENTITY pref.defalarm4todos.accesskey "a">
 <!ENTITY pref.alarm.on "Açık">
 <!ENTITY pref.alarm.off "Kapalı">
-<!ENTITY pref.defalarmlen4events.label "Olay başlamadan önce alarm verilecek öntanımlı süre:">
-<!ENTITY pref.defalarmlen4events.accesskey "v">
-<!ENTITY pref.defalarmlen4todos.label "Görev başlamadan önce alarm verilecek öntanımlı süre:">
-<!ENTITY pref.defalarmlen4todos.accesskey "v">
-<!ENTITY pref.defaultemail.label "Alarmların gönderileceği öntanımlı adres:">
-<!ENTITY pref.defaulttext.label "Varsayılan alarm mesajı:">
+<!ENTITY pref.defalarmlen4events.label "Default time a reminder is set before an event:">
+<!ENTITY pref.defalarmlen4events.accesskey "u">
+<!ENTITY pref.defalarmlen4todos.label "Default time a reminder is set before a task:">
+<!ENTITY pref.defalarmlen4todos.accesskey "o">
+<!ENTITY pref.defaultemail.label "Default address to send reminders to:">
+<!ENTITY pref.defaulttext.label "Default text for reminders :">

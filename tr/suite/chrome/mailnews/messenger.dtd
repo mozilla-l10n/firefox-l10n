@@ -107,13 +107,6 @@
 <!ENTITY downloadSelectedCmd.accesskey "i">
 <!ENTITY downloadFlaggedCmd.label "Yıldızlı iletileri indir">
 <!ENTITY downloadFlaggedCmd.accesskey "Y">
-<!ENTITY printCmd.label "Yazdır…">
-<!ENTITY printCmd.accesskey "r">
-<!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Yazdırma önizleme">
-<!ENTITY printPreviewCmd.accesskey "Y">
-<!ENTITY printSetupCmd.label "Sayfa düzeni…">
-<!ENTITY printSetupCmd.accesskey "a">
 <!-- Edit Menu -->
 
 <!ENTITY deleteMsgCmd.label "Postayı sil">
@@ -533,10 +526,10 @@
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "l">
 <!ENTITY contextSaveAs.label "Farklı kaydet…">
 <!ENTITY contextSaveAs.accesskey "F">
-<!ENTITY contextPrint.label "Yazdır…">
-<!ENTITY contextPrint.accesskey "Y">
-<!ENTITY contextPrintPreview.label "Yazdırma önizleme">
-<!ENTITY contextPrintPreview.accesskey "z">
+<!ENTITY contextPrint.label "Print…">
+<!ENTITY contextPrint.accesskey "P">
+<!ENTITY contextPrintPreview.label "Print Preview">
+<!ENTITY contextPrintPreview.accesskey "v">
 <!-- Folder Pane Context Menu -->
 
 <!ENTITY folderContextGetMessages.label "Hesap postalarını indir">

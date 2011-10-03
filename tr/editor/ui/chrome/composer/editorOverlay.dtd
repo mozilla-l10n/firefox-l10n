@@ -53,8 +53,8 @@
 <!ENTITY openRemoteCmd.key "L">
 <!ENTITY fileRecentMenu.label "Son sayfalar">
 <!ENTITY fileRecentMenu.accesskey "r">
-<!ENTITY fileRevert.label "Geri dön">
-<!ENTITY fileRevert.accesskey "d">
+<!ENTITY fileRevert.label "Revert">
+<!ENTITY fileRevert.accesskey "t">
 <!ENTITY saveCmd.label "Kaydet">
 <!ENTITY saveCmd.accesskey "K">
 <!ENTITY saveCmd.key "S">
@@ -68,11 +68,6 @@
 <!ENTITY publishAsCmd.accesskey "F">
 <!ENTITY saveAsChangeEncodingCmd.label "Karakter kodlamasını kaydet ve değiştir">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "t">
-<!ENTITY printSetupCmd.label "Sayfa ayarları…">
-<!ENTITY printSetupCmd.accesskey "a">
-<!ENTITY printCmd.label "Yazdır…">
-<!ENTITY printCmd.accesskey "Y">
-<!ENTITY printCmd.key "P">
 <!-- Edit menu items -->
 
 <!ENTITY editMenu.label "Düzenle">
@@ -87,7 +82,7 @@
 <!ENTITY pasteAsQuotationCmd.label "Alıntı olarak yapıştır">
 <!ENTITY pasteAsQuotationCmd.accesskey "o">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findCmd.label "Find and Replace…">
+<!ENTITY findCmd.label "Bul ve değiştir…">
 <!ENTITY enableInlineSpellChecker.label "Yazarken yazım denetimini gerçekleştir">
 <!ENTITY enableInlineSpellChecker.accesskey "Y">
 <!ENTITY checkSpellingCmd2.label "Yazımı Denetle">

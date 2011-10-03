@@ -111,17 +111,17 @@
 <!ENTITY securityView.unknown "Bilinmiyor">
 
 
-<!ENTITY securityView.identity.header "Sayfa kimliği">
+<!ENTITY securityView.identity.header "Website Identity">
 <!ENTITY securityView.identity.owner "Sahibi:">
-<!ENTITY securityView.identity.domain "Site ismi:">
+<!ENTITY securityView.identity.domain "Website:">
 <!ENTITY securityView.identity.verifier "Onaylayan:">
 
 <!ENTITY securityView.privacy.header "Güvenlik ve geçmiş">
-<!ENTITY securityView.privacy.history "Bu siteyi daha önce ziyaret ettim mi?">
-<!ENTITY securityView.privacy.cookies "Bu site bilgisayarımda bilgi (çerez) bulunduruyor mu?">
+<!ENTITY securityView.privacy.history "Have I visited this website prior to today?">
+<!ENTITY securityView.privacy.cookies "Is this website storing information (cookies) on my computer?">
 <!ENTITY securityView.privacy.viewCookies "Çerezleri göster">
 <!ENTITY securityView.privacy.viewCookies.accessKey "R">
-<!ENTITY securityView.privacy.passwords "Bu sayfaya ait herhangi bir parola kaydettim mi?">
+<!ENTITY securityView.privacy.passwords "Have I saved any passwords for this website?">
 <!ENTITY securityView.privacy.viewPasswords "Kayıtlı parolaları göster">
 <!ENTITY securityView.privacy.viewPasswords.accessKey "P">
 

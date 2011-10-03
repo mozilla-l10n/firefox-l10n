@@ -3,7 +3,6 @@
 <!ENTITY sync.connect "Bağlan">
 <!ENTITY sync.connected "Bağlı">
 <!ENTITY sync.details "Ayrıntılar">
-<!ENTITY sync.synchronize "Eşitlemeyi etkinleştir">
 <!ENTITY sync.deviceName "Bu cihaz">
 <!ENTITY sync.disconnect "Bağlantıyı kes">
 <!ENTITY sync.syncNow "Şimdi Eşitle">
@@ -14,7 +13,7 @@
 <!ENTITY sync.setup.manual "Sync hesap bilgilerinizi girin">
 <!ENTITY sync.account "Hesap adı">
 <!ENTITY sync.password "Parola">
-<!ENTITY sync.syncKey "Eşitleme Anahtarı">
+<!ENTITY sync.recoveryKey "Recovery Key">
 <!ENTITY sync.customServer "Özel sunucu kullan">
 <!ENTITY sync.serverURL "Sunucu adresi">
 <!ENTITY sync.setup.connect "Bağlan">
