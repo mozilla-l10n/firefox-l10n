@@ -479,6 +479,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY inspectButton.label          "Ispitaj">
 <!ENTITY inspectButton.accesskey      "I">
 
+<!ENTITY inspectContextMenu.label     "Ispitaj element">
+<!ENTITY inspectContextMenu.accesskey "e">
+
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
