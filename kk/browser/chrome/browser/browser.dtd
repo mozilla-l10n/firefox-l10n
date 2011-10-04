@@ -196,6 +196,9 @@ can reach it easily. -->
 <!ENTITY inspectMenu.accesskey        "Б">
 <!ENTITY inspectMenu.commandkey       "i">
 
+<!ENTITY inspectContextMenu.label     "Элементті бақылау">
+<!ENTITY inspectContextMenu.accesskey "Э">
+
 <!ENTITY scratchpad.label             "Блокнот">
 <!ENTITY scratchpad.accesskey         "Б">
 <!ENTITY scratchpad.keycode           "VK_F4">
