@@ -3,5 +3,5 @@ answers
 creativecommons
 eBay
 google
-wikipedia
+wikipedia-hy
 yahoo
