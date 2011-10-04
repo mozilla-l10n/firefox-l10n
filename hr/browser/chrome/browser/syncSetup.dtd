@@ -4,7 +4,6 @@
 
 <!ENTITY setup.pickSetupType.description "Dobrodošli. Ako nikada niste koristili &syncBrand.fullName.label;, trebat ćete otvoriti novi korisnički račun.">
 <!ENTITY button.createNewAccount.label "Otvori novi korisnički račun">
-<!ENTITY button.haveAccount.label "Već imam &syncBrand.fullName.label; korisnički račun">
 
 <!ENTITY setup.choicePage.title.label     "Jeste li već koristili &syncBrand.fullName.label;?">
 <!ENTITY setup.choicePage.new.label       "Nikad nisam koristio/la &syncBrand.shortName.label;">
@@ -15,18 +14,13 @@
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Poslužitelj">
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label; poslužitelj">
-<!ENTITY serverType.custom.label    "Koristi prilagođeni poslužitelj">
-<!ENTITY signIn.account.label       "Adresa e-pošte / korisničko ime">
-<!ENTITY signIn.account.accesskey   "e">
 <!ENTITY signIn.account2.label      "Korisnički račun">
 <!ENTITY signIn.account2.accesskey  "K">
 <!ENTITY signIn.password.label      "Lozinka">
 <!ENTITY signIn.password.accesskey  "L">
-<!ENTITY signIn.serverURL.label     "URL poslužitelja">
-<!ENTITY signIn.serverURL.accesskey "L">
 <!ENTITY serverType.custom2.label   "Koristi prilagođeni poslužitelj…">
-<!ENTITY signIn.syncKey.label       "Sync ključ">
-<!ENTITY signIn.syncKey.accesskey   "S">
+<!ENTITY signIn.recoveryKey.label       "Ključ popravka">
+<!ENTITY signIn.recoveryKey.accesskey   "K">
 
 <!ENTITY setup.choosePassword.label      "Odaberite lozinku">
 <!ENTITY setup.choosePassword.accesskey  "z">
@@ -49,15 +43,12 @@
 <!ENTITY setup.tosAgree2.accesskey  "">
 
 <!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; se brine o vašoj privatnosti">
-<!ENTITY setup.newSyncKeyPage.description.label "Da bi se osigurala vaša privatnost, svi podaci se prije slanja na poslužitelj kriptiraju. Sync ključ, koji je neophodan za dekripciju, se ne šalje.">
-<!ENTITY syncKeyEntry.label        "Vaš Sync ključ">
-<!ENTITY syncKeyEntry.accesskey    "k">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; vodi brigu o vašoj privatnosti">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Da bi se osigurala potpuna privatnost, svi vaši podaci se prije slanja kriptiraju. Ključ popravka je potreban za dekriptiranje podataka koji nisu poslani.">
+<!ENTITY recoveryKeyEntry.label        "Vaš ključ popravka">
+<!ENTITY recoveryKeyEntry.accesskey    "K">
 <!ENTITY syncGenerateNewKey.label  "Generiraj novi ključ">
-<!ENTITY syncKeyGenerate.label     "Generiraj">
-<!ENTITY syncKeyStrength.label     "Snaga:">
-<!ENTITY syncKeyHelp.label         "Što znači snaga?">
-<!ENTITY syncKeyBackup.description "Vaš Sync ključ je potreban za pristup &syncBrand.fullName.label;u na drugim uređajima. Napravite si sigurnosnu kopiju ključa, jer vam nismo u mogućnosti pomoći vratiti izgubljeni Sync ključ.">
+<!ENTITY recoveryKeyBackup.description "Za pristup &syncBrand.fullName.label; na drugim uređajima je potreban vaš ključ popravka. Napravite sigurnosnu kopiju ključa. Mi vam nismo u mogućnosti pomoći vratiti izgubljeni ključ popravka.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Ispiši…">
 <!ENTITY button.syncKeyBackup.print.accesskey "p">
@@ -68,17 +59,12 @@
 <!ENTITY setup.captchaPage2.title.label     "Molim potvrdite da niste robot">
 
 <!-- Existing Account Page 1: Login -->
-<!ENTITY setup.existingAccount.title.label "Upišite informacije o korisničkom računu">
 <!ENTITY resetPassword.label          "Resetiraj lozinku">
-<!ENTITY connecting.label             "Spajanje…">
 
 <!-- Existing Account Page 2: Sync Key -->
-<!ENTITY setup.existingSyncKeyPage.title "Unesite svoj Sync ključ">
-<!ENTITY setup.existingSyncKeyPage.description "Sync Key je generiran za vas ili ste unijeli svoj vlastiti ključ kad ste se prvi put prijavili za &syncBrand.fullName.label;. Sync ključ nije isti kao i vaša lozinka.">
-<!ENTITY existingSyncKeyHelp.description "Spremljeni Sync ključ možete pronaći na drugom računalu provjeravanjem stavke Spremljene lozinke pod Sigurnost. Ako svejedno niste u mogućnosti dobiti ispravan Sync ključ, možete odabrati resetiranje ključa, ali time ćete izgubiti sve podatke spremljene na poslužitelju.">
-<!ENTITY lostSyncKey.label            "Izgubio/la sam svoj Sync ključ">
 <!ENTITY resetSyncKey.label           "Izgubio/la sam drugi uređaj.">
 <!ENTITY verifying.label              "Provjera…">
+<!ENTITY existingRecoveryKey.description "Kopiju ključa popravka možete dobiti odlaskom u &syncBrand.shortName.label; Mogućnosti na vašem drugom računalu, odabirom opcije &#x0022;Moj ključ popravka&#x0022; pod &#x0022;Upravljanje računom&#x0022;.">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Mogućnosti Synca">
@@ -106,11 +92,7 @@
 <!ENTITY setup.optionsConfirmPage.title "Potvrdi">
 <!ENTITY confirm.merge.label    "&syncBrand.fullName.label; će sada spojiti sve podatke ovog preglednika s podacima vašeg Sync korisničkog računa.">
 <!ENTITY confirm.client2.label         "Upozorenje: Sljedeći &brandShortName; podaci će biti obrisani s ovog računala:">
-<!ENTITY confirm.client.label         "Svi &brandShortName; podaci na ovom računalu će biti obrisani, uključujući sljedeće:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; će zatim kopirati vaše &syncBrand.fullName.label; podatke na ovo računalo.">
-<!ENTITY confirm.client.warning.label "UPOZORENJE: Ovo će zamijeniti sve &brandShortName; podatke na ovom računalu!">
-<!ENTITY confirm.server.label         "Podaci na sljedećim uređajima će biti zamijenjeni lokalnim podacima:">
-<!ENTITY confirm.server.warning.label "UPOZORENJE: Vaši lokalni podaci će zamijeniti sve &brandShortName; podatke na tim uređajima!">
 <!ENTITY confirm.server2.label         "UPOZORENJE: Sljedeći uređaji će biti prepisani s lokalnim podacima:">
 
 <!-- New & Existing Account: Setup Complete -->
@@ -121,6 +103,7 @@
 
 <!ENTITY addDevice.dialog.description.label "Da biste aktivirali novi uređaj, otvorite &syncBrand.shortName.label; Mogućnosti na novom uređaju i odaberite &#x0022;Povezivanje.&#x0022;">
 <!ENTITY addDevice.dialog.enterCode.label   "Upišite kôd kojeg Vam uređaj javi:">
+<!ENTITY addDevice.dialog.recoveryKey.label "Da biste aktivirali svoj uređaj, trebate upisati ključ popravka. Ispišite ili spremite ovaj ključ, te ga ponesite sa sobom.">
 <!ENTITY addDevice.dialog.successful.label  "Uređaj je uspješno dodan. Inicijalna sinkronizacija može potrajati nekoliko minuta i dovršit će se u pozadini.">
 <!ENTITY addDevice.dialog.tryAgain.label    "Molim pokušajte ponovno.">
 <!ENTITY addDevice.dontHaveDevice.label     "Nemam uređaj sa sobom">
@@ -128,7 +111,5 @@
 <!ENTITY addDevice.setup.enterCode.label    "Zatim upišite ovaj kôd:">
 <!ENTITY addDevice.showMeHow.label          "Pokažite mi kako.">
 <!ENTITY addDevice.title.label              "Dodavanje uređaja">
-<!ENTITY addDevice.dialog.syncKey.label     "Da biste aktivirali svoj uređaj, trebat ćete upisati svoj Sync ključ. Molim ispišite ili spremite ovaj ključ i ponesite ga sa sobom.">
 <!ENTITY addDevice.dialog.connected.label   "Uređaj spojen">
-<!ENTITY existingSyncKey.description "Kopiju svojeg Sync ključa možete dobiti otvaranjem &syncBrand.shortName.label; Mogućnosti na drugom uređaju, te odabirom  &#x0022;Moj Sync ključ&#x0022; pod &#x0022;Upravljanje računom&#x0022;.">
 <!ENTITY setup.signInPage.title.label "Prijava">
