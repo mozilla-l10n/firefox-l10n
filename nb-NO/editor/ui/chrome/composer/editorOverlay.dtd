@@ -68,11 +68,6 @@
 <!ENTITY publishAsCmd.accesskey "o">
 <!ENTITY saveAsChangeEncodingCmd.label "Lagre og endre tegnkoding">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "E">
-<!ENTITY printSetupCmd.label "Utskriftsformat …">
-<!ENTITY printSetupCmd.accesskey "k">
-<!ENTITY printCmd.label "Skriv ut …">
-<!ENTITY printCmd.accesskey "S">
-<!ENTITY printCmd.key "P">
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "Rediger">
