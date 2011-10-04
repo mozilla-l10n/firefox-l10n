@@ -6,7 +6,7 @@
 <!ENTITY community.middle2          ", ur ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "gumuniezh vedel">
-<!ENTITY community.end2             " a labour a-gevred a-benn lakaat Internet da vezañ gwelloc'h. Lakaet hon eus en hor c'hredenn e tlefe Internet bezañ digor, foran, ha haezadus gant an holl dud hep strishadur ebet.">
+<!ENTITY community.end2             " a labour a-gevret a-benn lakaat Internet da vezañ gwelloc'h. Lakaet hon eus en hor c'hredenn e tlefe Internet bezañ digor, foran, ha haezadus gant an holl dud hep strishadur ebet.">
 
 <!ENTITY contribute.start           "Ha dedennet oc'h ? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
