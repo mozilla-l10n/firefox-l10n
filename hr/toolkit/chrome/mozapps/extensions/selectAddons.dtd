@@ -1,4 +1,4 @@
-<!ENTITY upgrade.style               "širina: 93ch; visina: 448px;">
+<!ENTITY upgrade.style               "width: 93ch; height: 448px;">
 
 <!ENTITY checking.heading            "Provjera vaših dodataka">
 <!ENTITY checking.progress.label     "Provjera kompatibilnosti vaših dodataka s ovom &brandShortName; inačicom.">
@@ -10,17 +10,17 @@
 <!ENTITY select.keep                 "Zadrži">
 <!-- LOCALIZATION NOTE (select.keep.style): Should be a width wide enough for
      the string in select.keep above. -->
-<!ENTITY select.keep.style           "širina: 6ch;">
+<!ENTITY select.keep.style           "width: 8ch;">
 <!ENTITY select.action               "Akcija">
 <!-- LOCALIZATION NOTE (select.action.style): Should be a width wide enough for
      the action strings in selectAddons.properties or brandShortName. -->
-<!ENTITY select.action.style         "širina: 35ch;">
+<!ENTITY select.action.style         "width: 41ch;">
 <!ENTITY select.source               "Instalirao">
 <!ENTITY select.name                 "Naziv">
 <!-- LOCALIZATION NOTE (select.name.style): Should be a width small enough so
      the source column still has enough room for the source strings in
      selectAddons.properties. -->
-<!ENTITY select.name.style           "širina: 33ch;">
+<!ENTITY select.name.style           "width: 33ch;">
 
 <!ENTITY confirm.heading             "Odaberite svoje dodatke">
 <!-- LOCALIZATION NOTE (confirm.description): The term used for "third parties"
