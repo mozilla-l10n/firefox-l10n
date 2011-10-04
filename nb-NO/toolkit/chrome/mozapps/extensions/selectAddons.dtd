@@ -33,7 +33,7 @@
 <!ENTITY action.enable.heading       "Følgende utvidelser vil bli slått på:">
 
 <!ENTITY update.heading              "Oppdaterer utvidelser">
-<!ENTITY update.progress.label       "Laster ned og installererer oppdateringer for valgte oppdateringer.">
+<!ENTITY update.progress.label       "Laster ned og installererer oppdateringer for valgte utvidelser.">
 
 <!ENTITY errors.heading              "&brandShortName; klarte ikke å oppdaterte noen av utvidelsene.">
 <!ENTITY errors.description          "Installering av oppdateringer for noen utvidelser feilet. &brandShortName; vil automatisk forsøke å oppdatere dem senere.">
