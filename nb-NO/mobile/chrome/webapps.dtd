@@ -4,3 +4,4 @@
 <!ENTITY webapps.perm.offline "Frakoblet datalagring">
 <!ENTITY webapps.perm.notifications "Varsling på skrivebordet">
 <!ENTITY webapps.perm.requestedHint "(forespurt)">
+<!ENTITY webapps.add-homescreen "Legg til i hovedskjermen">
