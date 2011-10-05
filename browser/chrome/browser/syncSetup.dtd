@@ -4,8 +4,7 @@
 
 <!ENTITY setup.pickSetupType.description "歡迎，如果您從未使用過 &syncBrand.fullName.label;，您需要先建立一個帳號。">
 <!ENTITY button.createNewAccount.label "建立新帳號">
-<!ENTITY setup.haveAccount.label "我已有一個 &syncBrand.fullName.label; 帳號。">
-<!ENTITY button.connect.label    "連線">
+<!ENTITY button.haveAccount.label      "我已經有帳號了">
 
 <!ENTITY setup.choicePage.title.label     "您曾經使用過 &syncBrand.fullName.label; 嗎？">
 <!ENTITY setup.choicePage.new.label       "我從來沒使用過 &syncBrand.shortName.label;">
@@ -40,7 +39,7 @@
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "a">
 
-<!-- New Account Page 2: Sync Key -->
+<!-- My Recovery Key dialog -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; 在乎您的隱私">
 <!ENTITY setup.newRecoveryKeyPage.description.label "為了確保您的隱私，您所有的資料會在上傳前就被加密。您需要救援金鑰才能解密您未上傳的資料。">
 <!ENTITY recoveryKeyEntry.label        "您的救援金鑰">
@@ -53,15 +52,13 @@
 <!ENTITY button.syncKeyBackup.save.label      "儲存…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
 
-<!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "請確認您不是來亂的機器人">
-<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "新增裝置">
+<!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
+<!ENTITY pairDevice.title.label             "與裝置配對">
 <!ENTITY addDevice.showMeHow.label          "告訴我怎麼做">
 <!ENTITY addDevice.dontHaveDevice.label     "裝置不在我手邊">
-<!ENTITY addDevice.setup.description.label  "若要啟用，請在您其他裝置的 &syncBrand.shortName.label; 選項選擇「新增裝置」。">
+<!ENTITY pairDevice.setup.description.label  "若要啟用，請在您的另一台裝置選擇「與裝置配對」。">
 <!ENTITY addDevice.setup.enterCode.label    "然後，輸入這組代碼:">
-<!ENTITY addDevice.dialog.description.label "若要啟用您的新裝置，請在裝置上的 &syncBrand.shortName.label; 選項選擇「連線」。">
+<!ENTITY pairDevice.dialog.description.label "若要啟用您的新裝置，請在您的裝置上選擇「設定 Sync」。">
 <!ENTITY addDevice.dialog.enterCode.label   "在此輸入該裝置所提供的代碼:">
 <!ENTITY addDevice.dialog.tryAgain.label    "請再試一次。">
 <!ENTITY addDevice.dialog.successful.label  "已成功新增此裝置。第一次的同步可能需要幾分鐘，並會在背景中完成。">
