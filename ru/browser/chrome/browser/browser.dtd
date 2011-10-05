@@ -336,6 +336,12 @@
 <!ENTITY mediaHideControls.accesskey "к">
 <!ENTITY videoFullScreen.label "Полный экран">
 <!ENTITY videoFullScreen.accesskey "л">
+<!ENTITY videoSaveImage.label "Сохранить кадр как…">
+<!ENTITY videoSaveImage.accesskey "х">
+<!ENTITY videoShowStats.label "Показать статистику">
+<!ENTITY videoShowStats.accesskey "к">
+<!ENTITY videoHideStats.label "Скрыть статистику">
+<!ENTITY videoHideStats.accesskey "к">
 <!ENTITY fullZoomEnlargeCmd.label "Увеличить">
 <!ENTITY fullZoomEnlargeCmd.accesskey "в">
 <!ENTITY fullZoomEnlargeCmd.commandkey "+">
