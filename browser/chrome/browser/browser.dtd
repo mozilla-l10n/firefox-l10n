@@ -195,8 +195,8 @@ can reach it easily. -->
 <!ENTITY inspectMenu.accesskey        "n">
 <!ENTITY inspectMenu.commandkey       "I">
 
- <!ENTITY inspectContextMenu.label     "Inspeccionar elemento">
-<!ENTITY inspectContextMenu.accesskey "Q">
+<!ENTITY inspectContextMenu.label     "Inspeccionar elemento">
+<!ENTITY inspectContextMenu.accesskey "o">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
