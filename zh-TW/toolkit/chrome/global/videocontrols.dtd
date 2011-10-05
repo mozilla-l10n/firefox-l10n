@@ -3,6 +3,21 @@
 <!ENTITY muteButton.muteLabel "靜音">
 <!ENTITY muteButton.unmuteLabel "聲音">
 
+<!ENTITY stats.media "媒體">
+<!ENTITY stats.size "大小">
+<!ENTITY stats.activity "狀態">
+<!ENTITY stats.activityPaused "已暫停">
+<!ENTITY stats.activityPlaying "播放中">
+<!ENTITY stats.activityEnded "已結束">
+<!ENTITY stats.activitySeeking "（搜尋中）">
+<!ENTITY stats.volume "音量">
+<!ENTITY stats.channels "頻道">
+<!ENTITY stats.sampleRate "取樣率">
+<!ENTITY stats.framesParsed "已剖析的畫框數">
+<!ENTITY stats.framesDecoded "已解碼的畫框數">
+<!ENTITY stats.framesPresented "已展現的畫框數">
+<!ENTITY stats.framesPainted "已繪製的畫框數">
+
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
