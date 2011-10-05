@@ -20,8 +20,8 @@
 <!ENTITY signIn.account2.accesskey  "K">
 <!ENTITY signIn.password.label      "Lösenord">
 <!ENTITY signIn.password.accesskey  "L">
-<!ENTITY signIn.syncKey.label       "Synk-nyckel">
-<!ENTITY signIn.syncKey.accesskey   "S">
+<!ENTITY signIn.recoveryKey.label       "Återställningsnyckel">
+<!ENTITY signIn.recoveryKey.accesskey   "n">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Kontodetaljer">
@@ -39,14 +39,14 @@
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 
-<!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; bryr sig om din personliga integritet">
-<!ENTITY setup.newSyncKeyPage.description.label "För att skydda din personliga integritet kommer all data att krypteras innan den skickas till servern. Sync-nyckeln som du använder för att dekryptera datan kommer inte skickas.">
-<!ENTITY syncKeyEntry.label        "Din Synk-nyckel">
-<!ENTITY syncKeyEntry.accesskey    "D">
-<!ENTITY syncKeyGenerate.label     "Generera">
-<!ENTITY syncKeyGenerate.accesskey "G">
-<!ENTITY syncKeyBackup.description "Din Synk-nyckel behövs för att använda &syncBrand.fullName.label; på din andra enheter. Du bör skapa en säkerhetskopia av nyckeln. Vi kan inte hjälpa dig att återskapa en borttappad Synk-nyckel.">
+<!-- New Account Page 2: Recovery Key -->
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; bryr sig om din personliga integritet">
+<!ENTITY setup.newRecoveryKeyPage.description.label "För att skydda din personliga integritet kommer all data att krypteras innan den skickas till servern. Återställningsnyckeln som du använder för att dekryptera datan kommer inte skickas.">
+<!ENTITY recoveryKeyEntry.label        "Din återställningsnyckel">
+<!ENTITY recoveryKeyEntry.accesskey    "D">
+<!ENTITY recoveryKeyGenerate.label     "Generera">
+<!ENTITY recoveryKeyGenerate.accesskey "G">
+<!ENTITY recoveryKeyBackup.description "Din återställningsnyckel behövs för att använda &syncBrand.fullName.label; på din andra enheter. Du bör skapa en säkerhetskopia av nyckeln. Vi kan inte hjälpa dig att återskapa en borttappad återställningsnyckel.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Skriv ut…">
 <!ENTITY button.syncKeyBackup.print.accesskey "u">
@@ -66,12 +66,12 @@
 <!ENTITY addDevice.dialog.enterCode.label   "Ange koden som enheten ger dig:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Försök igen.">
 <!ENTITY addDevice.dialog.successful.label  "Enheten har lagts till. Den första synkroniseringen kan ta flera minuter och slutförs i bakgrunden.">
-<!ENTITY addDevice.dialog.syncKey.label     "Ange din Synk-nyckel för att aktivera enheten. Skriv ut eller spara nyckeln och ta den med dig.">
+<!ENTITY addDevice.dialog.recoveryKey.label     "Ange din återställningsnyckel för att aktivera enheten. Skriv ut eller spara nyckeln och ta den med dig.">
 <!ENTITY addDevice.dialog.connected.label   "Enheten är ansluten">
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Logga in">
-<!ENTITY existingSyncKey.description "Du kan få en kopia av din Sync-nyckel genom att gå till inställningarna i &syncBrand.shortName.label; på din andra enhet och välja ”Min Sync-nyckel” under ”Hantera konto”.">
+<!ENTITY existingRecoveryKey.description "Du kan få en kopia av din återställningsnyckel genom att gå till inställningarna i &syncBrand.shortName.label; på din andra enhet och välja &#x0022;Min återställningsnyckel&#x0022; under &#x0022;Hantera konto&#x0022;.">
 <!ENTITY verifying.label              "Verifierar…">
 <!ENTITY resetPassword.label          "Återställ lösenordet">
 <!ENTITY resetSyncKey.label           "Jag har tappat min andra enhet.">

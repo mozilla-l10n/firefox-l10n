@@ -20,8 +20,8 @@
 <!ENTITY viewQuota.accesskey          "V">
 <!ENTITY changePassword.label         "Byt lösenord">
 <!ENTITY changePassword.accesskey     "B">
-<!ENTITY mySyncKey.label              "Min Synk-nyckel">
-<!ENTITY mySyncKey.accesskey          "M">
+<!ENTITY myRecoveryKey.label          "Min återställningsnyckel">
+<!ENTITY myRecoveryKey.accesskey      "M">
 <!ENTITY resetSync.label              "Återställ Synk">
 <!ENTITY resetSync.accesskey          "e">
 <!ENTITY deactivateDevice.label       "Avaktivera denna enhet">

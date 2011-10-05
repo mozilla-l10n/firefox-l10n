@@ -5,9 +5,9 @@
 
 <!-- Entities for Account Type page -->
 
-<!ENTITY accountSetupInfo.label "För att kunna ta emot meddelanden, måste du först iordningsställa ett e-post- eller diskussionsgruppkonto.">
+<!ENTITY accountSetupInfo2.label "För att kunna ta emot meddelanden, måste du först iordningsställa ett konto.">
 <!ENTITY accountTypeTitle.label "Nytt konto">
-<!ENTITY accountTypeDesc.label "Den här guiden samlar in de uppgifter som behövs för att lägga till ett e-post- eller diskussionsgruppkonto. Om du inte känner till de uppgifter som behövs, fråga din systemadministratör eller din Internetleverantör (ISP).">
+<!ENTITY accountTypeDesc2.label "Den här guiden samlar in de uppgifter som behövs för att lägga till ett konto. Om du inte känner till de uppgifter som behövs, fråga din systemadministratör eller din Internetleverantör (ISP).">
 <!ENTITY accountTypeDirections.label "Välj vilken typ av konto du vill lägga till:">
 <!ENTITY accountTypeMail.label "Konto för e-post">
 <!ENTITY accountTypeMail.accesskey "e">
