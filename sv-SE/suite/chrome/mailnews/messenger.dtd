@@ -110,13 +110,6 @@
 <!ENTITY downloadSelectedCmd.accesskey "H">
 <!ENTITY downloadFlaggedCmd.label "Hämta flaggade meddelanden">
 <!ENTITY downloadFlaggedCmd.accesskey "f">
-<!ENTITY printCmd.label "Skriv ut…">
-<!ENTITY printCmd.accesskey				"u">
-<!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Förhandsgranska">
-<!ENTITY printPreviewCmd.accesskey "r">
-<!ENTITY printSetupCmd.label "Utskriftsformat…">
-<!ENTITY printSetupCmd.accesskey "o">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Ta bort meddelande">

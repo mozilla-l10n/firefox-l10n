@@ -11,10 +11,7 @@
 <!-- menu items:  the . means that the menu item isn't implemented yet -->
 
 <!-- File menu items -->
-<!ENTITY newMessage.label "Meddelande">  
-<!ENTITY newMessage.accesskey "M">  
 <!ENTITY saveCmd.label "Spara">
-<!ENTITY saveCmd.key "S">
 <!ENTITY saveCmd.accesskey "r">
 <!ENTITY saveAsCmd.label "Spara som">
 <!ENTITY saveAsCmd.accesskey "a">
@@ -39,11 +36,6 @@
 <!ENTITY sendLaterCmd.label "Skicka senare">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "k">
-<!ENTITY printSetupCmd.label "Utskriftsformat…">
-<!ENTITY printSetupCmd.accesskey "o">
-<!ENTITY printCmd.label "Skriv ut…">
-<!ENTITY printCmd.key "P">
-<!ENTITY printCmd.accesskey "u">
 
 <!-- Edit menu items -->
 <!ENTITY editRewrapCmd.label "Ombryt">
@@ -74,7 +66,6 @@
 <!ENTITY selectAddressCmd.accesskey "V">
 
 <!ENTITY checkSpellingCmd2.label "Kontrollera stavningen…">
-<!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY checkSpellingCmd2.accesskey "K">
 <!ENTITY enableInlineSpellChecker.label "Automatisk stavningskontroll">
 <!ENTITY enableInlineSpellChecker.accesskey "u">
@@ -135,8 +126,6 @@
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
 <!ENTITY spellCheckAddToDictionary.label "Lägg till i ordbok">
 <!ENTITY spellCheckAddToDictionary.accesskey "ä">
-<!ENTITY pasteQuote.label "Klistra in som citat">
-<!ENTITY pasteQuote.accesskey "c">
 
 <!ENTITY openAttachment.label "Öppna">
 <!ENTITY openAttachment.accesskey "Ö">
