@@ -7,7 +7,7 @@
 <!ENTITY sync.disconnect "Разъединиться">
 <!ENTITY sync.syncNow "Синхронизировать">
 <!ENTITY sync.setup.title "Соединение с Sync">
-<!ENTITY sync.setup.jpake "На компьютере, соединённым с Firefox Sync, перейдите в настройки синхронизации и выберите «Добавить устройство»">
+<!ENTITY sync.setup.pair "Для активации выберите «Спарить устройство» на другом вашем устройстве.">
 <!ENTITY sync.fallback "Я не рядом с моим компьютером…">
 <!ENTITY sync.setup.manual "Введите данные вашей учётной записи синхронизации">
 <!ENTITY sync.account "Имя учётной записи">
@@ -18,3 +18,4 @@
 <!ENTITY sync.setup.connect "Соединиться">
 <!ENTITY sync.setup.cancel "Отмена">
 <!ENTITY sync.setup.tutorial "Показать мне как">
+<!ENTITY sync.setup.waiting "Идёт спаривание…">

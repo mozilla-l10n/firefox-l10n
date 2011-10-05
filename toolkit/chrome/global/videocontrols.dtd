@@ -2,4 +2,18 @@
 <!ENTITY playButton.pauseLabel "Приостановить">
 <!ENTITY muteButton.muteLabel "Убрать звук">
 <!ENTITY muteButton.unmuteLabel "Восстановить звук">
+<!ENTITY stats.media "Медиа">
+<!ENTITY stats.size "Разрешение">
+<!ENTITY stats.activity "Состояние">
+<!ENTITY stats.activityPaused "Приостановлено">
+<!ENTITY stats.activityPlaying "Проигрывается">
+<!ENTITY stats.activityEnded "Окончено">
+<!ENTITY stats.activitySeeking "(поиск)">
+<!ENTITY stats.volume "Громкость">
+<!ENTITY stats.channels "Каналы">
+<!ENTITY stats.sampleRate "Частота дискретизации">
+<!ENTITY stats.framesParsed "Кадров разобрано">
+<!ENTITY stats.framesDecoded "Кадров декодировано">
+<!ENTITY stats.framesPresented "Кадров представлено">
+<!ENTITY stats.framesPainted "Кадров прорисовано">
 <!ENTITY scrubberScale.nameFormat "прошло #1 из #2">
