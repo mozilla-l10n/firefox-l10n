@@ -424,6 +424,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY inspectButton.label          "Izmeklēt">
 <!ENTITY inspectButton.accesskey      "I">
 
+<!ENTITY inspectContextMenu.label     "Izmeklēt">
+<!ENTITY inspectContextMenu.accesskey "Q">
+
 <!ENTITY newTabButton.tooltip "Atvērt jaunu cilni">
 <!ENTITY newWindowButton.tooltip "Atvērt jaunu logu">
 <!ENTITY sidebarCloseButton.tooltip "Aizvērt sānjoslu">
@@ -532,6 +535,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY sendAudioCmd.accesskey       "n">
 <!ENTITY videoFullScreen.label       "Pa visu ekrānu">
 <!ENTITY videoFullScreen.accesskey   "P">
+<!ENTITY videoSaveImage.label        "Saglabāt momentuzņēmumu kā…">
+<!ENTITY videoSaveImage.accesskey    "S">
+<!ENTITY videoShowStats.label        "Parādīt statistiku">
+<!ENTITY videoShowStats.accesskey    "t">
+<!ENTITY videoHideStats.label        "Paslēpt statistiku">
+<!ENTITY videoHideStats.accesskey    "t">
+
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Privātā pārlūkošana)">

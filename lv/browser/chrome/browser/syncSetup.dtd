@@ -69,12 +69,12 @@
 
 
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "Pievienot ierīci">
+<!ENTITY pairDevice.title.label             "Sapārot ierīci">
 <!ENTITY addDevice.showMeHow.label          "Parādiet kā.">
 <!ENTITY addDevice.dontHaveDevice.label     "Ierīce šobrīd nav ar mani">
-<!ENTITY addDevice.setup.description.label  "Lai aktivizētu, ejiet uz &syncBrand.shortName.label;s iestatījumiem savā otrā ierīcē un izvēlieties &#x0022;Pievienot ierīci&#x0022;.">
+<!ENTITY pairDevice.setup.description.label  "Lai aktivizētu, izvēlieties &#x0022;Sapārot ierīci&#x0022; otrā ierīcē.">
 <!ENTITY addDevice.setup.enterCode.label    "Tad ievadiet šo kodu:">
-<!ENTITY addDevice.dialog.description.label "Lai aktivizētu jauno ierīci, ejiet uz &syncBrand.shortName.label;s iestatījumiem šajā ierīcē un izvēlieties  &#x0022;Pieslēgties.&#x0022;">
+<!ENTITY pairDevice.dialog.description.label "Lai aktivizētu jauno ierīci, izvēlieties &#x0022;Iestatīt sinhronizēšanu&#x0022; šajā ierīcē.">
 <!ENTITY addDevice.dialog.enterCode.label   "Ievadiet ierīces piedāvāto kodu:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Lūdzu, mēģiniet vēlreiz.">
 <!ENTITY addDevice.dialog.successful.label  "Ierīce veiksmīgi pievienota. Sākotnē sinhronizācija var ilgt vairākas minūtes un tiks pabeigta fonā.">

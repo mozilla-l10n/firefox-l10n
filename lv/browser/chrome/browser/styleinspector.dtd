@@ -1,3 +1,5 @@
+<!ENTITY userStylesLabel    "Tikai lietotāja stili">
+
 <!-- LOCALIZATION NOTE (lookingAtLabel): This is the label for the path of
   -  the highlighted element in the web page. This path is based on the document
   -  tree. -->

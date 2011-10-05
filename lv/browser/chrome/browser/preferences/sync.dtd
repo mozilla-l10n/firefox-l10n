@@ -14,7 +14,7 @@
 <!ENTITY changePassword2.label         "Mainīt paroli…">
 <!ENTITY resetSync2.label              "Atiestatīt sinhronizāciju…">
 <!ENTITY viewQuota.label              "Aplūkot kvotu">
-<!ENTITY addDevice.label              "Pievienot ierīci">
+<!ENTITY pairDevice.label             "Sapārot ierīci">
 
 <!-- Sync Settings -->
 <!ENTITY syncComputerName.label       "Datora nosaukums:">
