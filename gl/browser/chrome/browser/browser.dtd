@@ -432,6 +432,8 @@ can reach it easily. -->
 <!ENTITY mediaHideControls.accesskey "O">
 <!ENTITY videoFullScreen.label       "Pantalla completa">
 <!ENTITY videoFullScreen.accesskey   "P">
+<!ENTITY videoSaveImage.label        "Gardar a captura como…">
+<!ENTITY videoSaveImage.accesskey    "G">
 
 
 <!-- LOCALIZATION NOTE :
