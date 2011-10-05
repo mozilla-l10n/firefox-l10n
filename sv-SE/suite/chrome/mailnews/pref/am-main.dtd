@@ -10,6 +10,7 @@
 <!ENTITY email.accesskey "E">
 <!ENTITY replyTo.label "Svarsadress:">
 <!ENTITY replyTo.accesskey "S">
+<!ENTITY replyTo.placeholder "Mottagare svarar till denna alternativa adress">
 <!ENTITY organization.label "Organisation:">
 <!ENTITY organization.accesskey "O">
 <!ENTITY signatureText.label "Signatur:">

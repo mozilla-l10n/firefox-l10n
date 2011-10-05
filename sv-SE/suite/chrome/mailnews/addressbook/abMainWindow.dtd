@@ -66,8 +66,6 @@
 <!ENTITY printAddressBook.accesskey                     "u"> 
 <!ENTITY printPreviewAddressBook.label                  "Förhandsgranska adressbok"> 
 <!ENTITY printPreviewAddressBook.accesskey              "g">
-<!ENTITY printSetupCmd.label                            "Utskriftsformat…">
-<!ENTITY printSetupCmd.accesskey                        "o">
 
 <!-- Edit Menu -->
 <!ENTITY deleteAbCmd.label					"Ta bort adressbok">
@@ -131,6 +129,9 @@
 <!ENTITY deleteItemButton.tooltip                       "Ta bort markerade kontakter eller adressboken">
 <!ENTITY throbber.tooltip                               "Går till &vendorShortName;s webbplats">
 <!ENTITY advancedButton.tooltip                         "Avancerad adressökning">
+
+<!-- Dir Tree header -->
+<!ENTITY dirTreeHeader.label                            "Adressböcker">
 
 <!-- Status Bar -->  
 <!ENTITY statusText.label                               "">
