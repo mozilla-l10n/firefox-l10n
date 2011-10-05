@@ -1,8 +1,7 @@
 <!ENTITY accountSetupTitle.label "Configurazione di &syncBrand.fullName.label;">
 <!ENTITY setup.pickSetupType.description "Benvenuto, se si tratta del primo utilizzo di &syncBrand.fullName.label; è necessario creare un nuovo account.">
 <!ENTITY button.createNewAccount.label "Crea un nuovo account">
-<!ENTITY setup.haveAccount.label "Utilizza un account esistente di &syncBrand.fullName.label;.">
-<!ENTITY button.connect.label "Connetti">
+<!ENTITY button.haveAccount.label "Utilizza un account esistente">
 <!ENTITY setup.choicePage.title.label "Si tratta del primo utilizzo di &syncBrand.fullName.label;?">
 <!ENTITY setup.choicePage.new.label "Non ho mai utilizzato &syncBrand.shortName.label;">
 <!ENTITY setup.choicePage.existing.label "Utilizzo &syncBrand.shortName.label; su un altro computer">
@@ -39,13 +38,12 @@
 <!ENTITY button.syncKeyBackup.print.accesskey "m">
 <!ENTITY button.syncKeyBackup.save.label "Salva…">
 <!ENTITY button.syncKeyBackup.save.accesskey "S">
-<!ENTITY setup.captchaPage2.title.label "Conferma di non essere un robot">
-<!ENTITY addDevice.title.label "Aggiungi un dispositivo">
+<!ENTITY pairDevice.title.label "Collegamento dispositivo">
 <!ENTITY addDevice.showMeHow.label "Visualizza istruzioni.">
 <!ENTITY addDevice.dontHaveDevice.label "Il dispositivo non è al momento disponibile">
-<!ENTITY addDevice.setup.description.label 'Per procedere con lʼattivazione aprire le Opzioni di &syncBrand.shortName.label; sullʼaltro dispositivo e selezionare "Aggiungi un dispositivo".'>
+<!ENTITY pairDevice.setup.description.label 'Per attivare selezionare "Collega un dispositivo" sull'altro dispositivo.'>
 <!ENTITY addDevice.setup.enterCode.label "Inserire il seguente codice:">
-<!ENTITY addDevice.dialog.description.label 'Per attivare un nuovo dispositivo aprire le Opzioni di &syncBrand.shortName.label; sul dispositivo stesso e selezionare "Connetti".'>
+<!ENTITY pairDevice.dialog.description.label 'Per attivare un nuovo dispositivo selezionare "Configura Sync" sul dispositivo stesso.'>
 <!ENTITY addDevice.dialog.enterCode.label "Inserire il codice fornito dal dispositivo:">
 <!ENTITY addDevice.dialog.tryAgain.label "Riprovare">
 <!ENTITY addDevice.dialog.successful.label "Il dispositivo è stato aggiunto correttamente. La sincronizzazione iniziale può richiedere diversi minuti e verrà completata senza ulteriori interventi mentre si prosegue con la navigazione.">
