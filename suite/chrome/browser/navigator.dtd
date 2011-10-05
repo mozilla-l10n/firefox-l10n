@@ -14,12 +14,6 @@
 <!ENTITY editPageCmd.accesskey				"d">
 <!ENTITY editPageCmd.commandkey "e">
 
-<!ENTITY printPreviewCmd.label "Förhandsgranska">
-<!ENTITY printPreviewCmd.accesskey "h">
-<!ENTITY printCmd.label "Skriv ut…">
-<!ENTITY printCmd.accesskey "u">
-<!ENTITY printCmd.commandkey "p">
-
 <!ENTITY navbarCmd.label "Navigationsfält">
 <!ENTITY navbarCmd.accesskey "N">
 <!ENTITY personalbarCmd.label "Eget verktygsfält">

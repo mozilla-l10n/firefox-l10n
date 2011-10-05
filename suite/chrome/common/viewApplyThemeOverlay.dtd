@@ -1,0 +1,6 @@
+<!ENTITY applyTheme.label				"Använd tema">
+<!ENTITY applyTheme.accesskey	"A"> 
+<!ENTITY getNewThemesCmd.label "Hämta nya teman">
+<!ENTITY getNewThemesCmd.accesskey                             "n">
+<!ENTITY getPersonasCmd.label "Hämta personas">
+<!ENTITY getPersonasCmd.accesskey "P">
