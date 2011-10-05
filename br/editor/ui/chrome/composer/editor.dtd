@@ -56,11 +56,11 @@
 <!ENTITY sendPageCmd.accesskey "K">
 
 <!-- View menu items -->
-<!ENTITY compositionToolbarCmd.label "Barren ostilhoù Sevel">
+<!ENTITY compositionToolbarCmd.label "Barrenn ostilhoù Sevel">
 <!ENTITY compositionToolbarCmd.accesskey "S">
-<!ENTITY formattingToolbarCmd.label "Barren ostilhoù Mentrezh">
+<!ENTITY formattingToolbarCmd.label "Barrenn ostilhoù Mentrezh">
 <!ENTITY formattingToolbarCmd.accesskey "M">
-<!ENTITY editmodeToolbarCmd.label "Barren ostilhoù Mod Embann">
+<!ENTITY editmodeToolbarCmd.label "Barrenn ostilhoù Mod Embann">
 <!ENTITY editmodeToolbarCmd.accesskey "E">
 
 <!-- Format menu items -->

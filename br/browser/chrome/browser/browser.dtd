@@ -61,7 +61,7 @@ can reach it easily. -->
 <!ENTITY goOfflineCmd.label "Labourat ezlinenn">
 <!ENTITY goOfflineCmd.accesskey "z">
 
-<!ENTITY menubarCmd.label "Barren lañserioù">
+<!ENTITY menubarCmd.label "Barrenn lañserioù">
 <!ENTITY menubarCmd.accesskey "B">
 <!ENTITY navbarCmd.label "Barrenn ostilhoù merdeiñ">
 <!ENTITY navbarCmd.accesskey "m">

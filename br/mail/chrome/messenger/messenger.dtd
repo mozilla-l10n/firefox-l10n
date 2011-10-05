@@ -335,7 +335,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgCmd.accesskey "n">
 <!ENTITY newNewMsgCmd.label "Kemennadenn">
 <!ENTITY newNewMsgCmd.accesskey "m">
-<!ENTITY archiveMsgCmd.label "Diellouañ">
+<!ENTITY archiveMsgCmd.label "Diellaouiñ">
 <!ENTITY archiveMsgCmd.accesskey "a">
 <!ENTITY archiveMsgCmd.key  "a">
 <!ENTITY cancelNewsMsgCmd.label "Dilezel ar gemennadenn">

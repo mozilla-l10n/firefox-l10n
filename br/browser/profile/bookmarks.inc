@@ -7,7 +7,7 @@
 #define bookmarks_title Sinedoù
 #define bookmarks_heading Sinedoù
 
-#define bookmarks_toolbarfolder Barren ostilhoù ar sinedoù
+#define bookmarks_toolbarfolder Barrenn ostilhoù ar sinedoù
 #define bookmarks_toolbarfolder_description Ouzhpennit sinedoù en teuliad-mañ evit diskouez anezho er varren ostilhoù ar sinedoù
 
 # LOCALIZATION NOTE (getting_started):
