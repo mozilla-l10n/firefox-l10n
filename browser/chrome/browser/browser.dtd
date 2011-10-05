@@ -434,7 +434,10 @@ can reach it easily. -->
 <!ENTITY videoFullScreen.accesskey   "P">
 <!ENTITY videoSaveImage.label        "Gardar a captura como…">
 <!ENTITY videoSaveImage.accesskey    "G">
-
+<!ENTITY videoShowStats.label        "Mostrar as estatísticas">
+<!ENTITY videoShowStats.accesskey    "t">
+<!ENTITY videoHideStats.label        "Ocultar as estatísticas">
+<!ENTITY videoHideStats.accesskey    "t">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
