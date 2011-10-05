@@ -102,6 +102,8 @@
  
 <!ENTITY viewToolbarsMenuNew.accesskey "V">
  
+<!ENTITY menubarCmd.label "Valmynd">
+<!ENTITY menubarCmd.accesskey "m">
 <!ENTITY showCompositionToolbarCmd.label "Samsetningarslá">
 <!ENTITY showCompositionToolbarCmd.accesskey "m">
 <!ENTITY showFormattingBarCmd.label "Sniðslá">

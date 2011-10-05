@@ -11,8 +11,8 @@
 <!ENTITY useCurrentPage.label "Nota núverandi síðu">
 <!ENTITY useCurrentPage.accesskey "o">
 <!ENTITY useMultiple.label "Nota núverandi síður">
-<!ENTITY useBookmark.label "Nota bókamerki">
-<!ENTITY useBookmark.accesskey "b">
+<!ENTITY chooseBookmark.label "Nota bókamerki…">
+<!ENTITY chooseBookmark.accesskey "b">
 <!ENTITY restoreDefault.label "Endurstilla">
 <!ENTITY restoreDefault.accesskey "r">
 <!ENTITY downloads.label "Niðurhal">

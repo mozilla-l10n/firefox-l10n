@@ -1,4 +1,4 @@
 <!ENTITY window.title "Póstsamantekt">
 <!ENTITY selectedmessages.label "Valinn póstur">
-<!ENTITY archive.label "skjalasafn">
-<!ENTITY delete.label "eyða">
+<!ENTITY archiveButton.label "Skjalasafn">
+<!ENTITY deleteButton.label "Eyða">

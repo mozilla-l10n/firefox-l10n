@@ -11,6 +11,7 @@
 <!ENTITY email.accesskey "T">
 <!ENTITY replyTo.label "Svar-tölvupóstfang:">
 <!ENTITY replyTo.accesskey "S">
+<!ENTITY replyTo.placeholder "Viðtakendur munu svara öðru póstfangi">
 <!ENTITY organization.label "Fyrirtæki/Stofnun:">
 <!ENTITY organization.accesskey "F">
 <!ENTITY signatureText.label "Texti undirritunar:">

@@ -115,6 +115,8 @@
 <!ENTITY redoDefaultCmd.label "Endurtaka">
 <!ENTITY redoDefaultCmd.accesskey "r">
 <!-- View Menu -->
+<!ENTITY menubarCmd.label "Valmynd">
+<!ENTITY menubarCmd.accesskey "m">
 <!ENTITY showMessengerToolbarCmd.label "Póstslá">
 <!ENTITY showMessengerToolbarCmd.accesskey "P">
 <!ENTITY customizeToolbar.label "Sérsníða…">
@@ -255,6 +257,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageSourceCmd.label "Frumkóði pósts">
 <!ENTITY pageSourceCmd.accesskey "p">
 <!ENTITY pageSourceCmd.key "u">
+<!ENTITY getNewMessagesCmd.key "y">
+<!ENTITY getAllNewMessagesCmd.key "Y">
 <!-- Search Menu -->
 <!ENTITY findMenu.label "Leita">
 <!ENTITY findMenu.accesskey "i">
@@ -478,12 +482,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY previousButton.label "Fyrri">
 <!ENTITY backButton1.label "Til baka">
 <!ENTITY goForwardButton1.label "Áfram">
+<!ENTITY deleteItem.title "Eyða">
 <!ENTITY deleteButton.label "Eyða">
 <!ENTITY undeleteButton.label "Afturkalla eyðingu">
 <!ENTITY markButton.label "Merkja">
 <!ENTITY printButton.label "Prenta">
 <!ENTITY stopButton.label "Stöðva">
 <!ENTITY throbberItem.title "Virknimælir">
+<!ENTITY junkItem.title "Ruslpóstur">
 <!ENTITY junkButton.label "Ruslpóstur">
 <!ENTITY notJunkButton.label "Ekki ruslpóstur">
 <!ENTITY addressBookButton.label "Nafnaskrá">

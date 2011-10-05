@@ -93,6 +93,9 @@
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "Sýna ramma í kringum tengda mynd">
 <!ENTITY showImageLinkBorder.accessKey "S">
+<!ENTITY LinkAdvancedEditButton.label "Breyta tengli (ítarlegt)…">
+<!ENTITY LinkAdvancedEditButton.accessKey "l">
+<!ENTITY LinkAdvancedEditButton.tooltip "Bæta við eða breyta HTML eigindum, snið eigindum, og JavaScript">
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "Eyðublað">
 <!ENTITY imageLocationTab.label "Staðsetning">

@@ -12,7 +12,7 @@
 <!ENTITY manageAccount.accesskey "a">
 <!ENTITY viewQuota.label "Skoða kvóta">
 <!ENTITY changePassword2.label "Breyta lykilorði…">
-<!ENTITY mySyncKey.label "Sync lykillinn minn">
+<!ENTITY myRecoveryKey.label "Endurheimtunarlykill">
 <!ENTITY resetSync2.label "Endurstilla Sync…">
 <!ENTITY addDevice.label "Bæta við tölvu">
 <!ENTITY syncMy.label "Samstilla">
