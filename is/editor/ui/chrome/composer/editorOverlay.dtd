@@ -67,11 +67,6 @@
 <!ENTITY publishAsCmd.accesskey "f">
 <!ENTITY saveAsChangeEncodingCmd.label "Vista og breyta stafatöflu">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "e">
-<!ENTITY printSetupCmd.label "Uppsetning síðu…">
-<!ENTITY printSetupCmd.accesskey "U">
-<!ENTITY printCmd.label "Prenta…">
-<!ENTITY printCmd.accesskey "P">
-<!ENTITY printCmd.key "P">
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "Breyta">
 <!ENTITY editMenu.accesskey "e">

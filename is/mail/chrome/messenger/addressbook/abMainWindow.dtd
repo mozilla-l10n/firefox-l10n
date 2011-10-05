@@ -78,6 +78,8 @@
 <!ENTITY viewToolbarsMenu.label "Verkfæraslár">
 <!ENTITY viewToolbarsMenu.accesskey "V">
  
+<!ENTITY menubarCmd.label "Valmynd">
+<!ENTITY menubarCmd.accesskey "m">
 <!ENTITY showAbToolbarCmd.label "Nafnaskrá verkfæraslá">
 <!ENTITY showAbToolbarCmd.accesskey "N">
 <!ENTITY showTaskbarCmd.label "Stöðuslá">

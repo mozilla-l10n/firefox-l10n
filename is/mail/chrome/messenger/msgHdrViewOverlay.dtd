@@ -35,41 +35,40 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField2.label "til ">
-<!ENTITY fromField2.label "frá ">
-<!ENTITY senderField2.label "sendandi ">
-<!ENTITY organizationField2.label "fyrirtæki/stofnun ">
-<!ENTITY replyToField2.label "svar við ">
-<!ENTITY subjectField2.label "efni ">
-<!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
-<!ENTITY ccField2.label "cc ">
-<!ENTITY bccField2.label "falið afrit ">
-<!ENTITY newsgroupsField2.label "fréttahópar ">
-<!ENTITY followupToField2.label "eftirfylgni-við ">
-<!ENTITY tagsHdr2.label "flokkar ">
-<!ENTITY dateField2.label "dagsetning ">
-<!ENTITY userAgentField2.label "kennistrengur forrits ">
-<!ENTITY referencesField2.label "tilvitnanir ">
-<!ENTITY messageIdField2.label "skeytis-auðkenni ">
-<!ENTITY inReplyToField2.label "svar-við ">
-<!ENTITY originalWebsite2.label "vefsvæði ">
+<!ENTITY toField3.label "Til ">
+<!ENTITY fromField3.label "Frá ">
+<!ENTITY senderField3.label "Sendandi ">
+<!ENTITY organizationField3.label "Fyrirtæki/Stofnun ">
+<!ENTITY replyToField3.label "Svara á ">
+<!ENTITY subjectField3.label "Efni ">
+<!ENTITY ccField3.label "Afrit ">
+<!ENTITY bccField3.label "Falið afrit ">
+<!ENTITY newsgroupsField3.label "Fréttahópa ">
+<!ENTITY followupToField3.label "Áframsending á ">
+<!ENTITY tagsHdr3.label "Flokkar ">
+<!ENTITY dateField3.label "Dagsetning ">
+<!ENTITY userAgentField3.label "Notandaauðkenni ">
+<!ENTITY referencesField3.label "Tilvitnanir ">
+<!ENTITY messageIdField3.label "Auðkenni skeytis ">
+<!ENTITY inReplyToField3.label "Svar við ">
+<!ENTITY originalWebsite3.label "Vefsvæði ">
 <!ENTITY editMessageDescription.label "Þetta eru tölvupóstsdrög">
 <!ENTITY editMessageButton.label "Breyta…">
-<!ENTITY hdrArchiveButton.label "skjalasafn">
-<!ENTITY hdrArchiveButton.tooltip "setja póst í skjalasafn">
-<!ENTITY hdrSmartReplyButton.label "snjallsvar">
-<!ENTITY hdrReplyButton.label "svara">
-<!ENTITY hdrReplyButton.tooltip "svara pósti">
-<!ENTITY hdrReplyAllButton.label "svara öllum">
-<!ENTITY hdrReplyAllButton.tooltip "svara sendanda og öllum viðtakendum">
-<!ENTITY hdrReplyListButton.label "svara póstlista">
-<!ENTITY hdrReplyListButton.tooltip "svara póstlista">
-<!ENTITY hdrForwardButton.label "áframsenda">
-<!ENTITY hdrForwardButton.tooltip "áframsenda póst">
-<!ENTITY hdrJunkButton.label "ruslpóstur">
-<!ENTITY hdrJunkButton.tooltip "merkja póst sem ruslpóst">
-<!ENTITY hdrTrashButton.label "eyða">
-<!ENTITY hdrTrashButton.tooltip "eyða pósti">
+<!ENTITY hdrArchiveButton1.label "Skjalasafn">
+<!ENTITY hdrArchiveButton1.tooltip "Safnvista þessi boð">
+<!ENTITY hdrSmartReplyButton1.label "Snjallsvar">
+<!ENTITY hdrReplyButton1.label "Svara">
+<!ENTITY hdrReplyButton1.tooltip "Svara þessum pósti">
+<!ENTITY hdrReplyAllButton1.label "Svara öllum">
+<!ENTITY hdrReplyAllButton1.tooltip "Svara sendanda og öllum viðtakendum">
+<!ENTITY hdrReplyListButton1.label "Svarlisti">
+<!ENTITY hdrReplyListButton1.tooltip "Svara póstlista">
+<!ENTITY hdrForwardButton1.label "Áfram">
+<!ENTITY hdrForwardButton1.tooltip "Áframsenda þennan póst">
+<!ENTITY hdrJunkButton1.label "Ruslpóstur">
+<!ENTITY hdrJunkButton1.tooltip "Merkja póst sem ruslpóst">
+<!ENTITY hdrTrashButton1.label "Eyða">
+<!ENTITY hdrTrashButton1.tooltip "Eyða pósti">
 <!ENTITY hdrViewToolbarShowFull.label "Sýna myndir og texta">
 <!ENTITY hdrViewToolbarShowFull.accesskey "a">
 <!ENTITY hdrViewToolbarShowIcons.label "Sýna aðeins myndir">
@@ -78,23 +77,23 @@
 <!ENTITY hdrViewToolbarShowText.accesskey "t">
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Alltaf sýna svar til sendanda">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "r">
-<!ENTITY otherActionsButton.label "aðrar aðgerðir">
-<!ENTITY otherActionsOpenConversation.label "opna í samtali">
-<!ENTITY otherActionsOpenConversation.accesskey "s">
-<!ENTITY otherActionsOpenInNewWindow.label "opna í nýjum glugga">
-<!ENTITY otherActionsOpenInNewWindow.accesskey "g">
-<!ENTITY otherActionsOpenInNewTab.label "opna í nýjum flipa">
-<!ENTITY otherActionsOpenInNewTab.accesskey "f">
-<!ENTITY markAsReadMenuItem.label "merkja sem lesið">
-<!ENTITY markAsReadMenuItem.accesskey "r">
-<!ENTITY markAsUnreadMenuItem.label "merkja sem ólesið">
-<!ENTITY markAsUnreadMenuItem.accesskey "r">
-<!ENTITY saveAsMenuItem.label "vista sem…">
-<!ENTITY saveAsMenuItem.accesskey "v">
-<!ENTITY viewSourceMenuItem.label "sýna frumkóða…">
-<!ENTITY viewSourceMenuItem.accesskey "k">
-<!ENTITY otherActionsPrint.label "prenta…">
-<!ENTITY otherActionsPrint.accesskey "p">
+<!ENTITY otherActionsButton1.label "Aðrar aðgerðir">
+<!ENTITY otherActionsOpenConversation1.label "Opna í samtali">
+<!ENTITY otherActionsOpenConversation1.accesskey "s">
+<!ENTITY otherActionsOpenInNewWindow1.label "Opna í nýjum glugga">
+<!ENTITY otherActionsOpenInNewWindow1.accesskey "g">
+<!ENTITY otherActionsOpenInNewTab1.label "Opna í nýjum flipa">
+<!ENTITY otherActionsOpenInNewTab1.accesskey "f">
+<!ENTITY markAsReadMenuItem1.label "Merkja sem lesið">
+<!ENTITY markAsReadMenuItem1.accesskey "r">
+<!ENTITY markAsUnreadMenuItem1.label "Merkja sem ólesið">
+<!ENTITY markAsUnreadMenuItem1.accesskey "r">
+<!ENTITY saveAsMenuItem1.label "Vista sem…">
+<!ENTITY saveAsMenuItem1.accesskey "s">
+<!ENTITY viewSourceMenuItem1.label "Sýna frumkóða">
+<!ENTITY viewSourceMenuItem1.accesskey "f">
+<!ENTITY otherActionsPrint1.label "Prenta…">
+<!ENTITY otherActionsPrint1.accesskey "P">
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label "Opna">
 <!ENTITY openAttachmentCmd.accesskey "O">
@@ -113,26 +112,10 @@
 <!ENTITY deleteAllAttachmentsCmd.label "Eyða öllum…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey "E">
 <!-- Attachment toolbar items -->
-<!ENTITY saveAttachmentButton.label "vista">
-<!ENTITY saveAttachmentButton.tooltip "vista viðhengi">
-<!ENTITY saveAllAttachmentsButton.label "vista öll">
-<!ENTITY saveAllAttachmentsButton.tooltip "vista öll viðhengi">
-<!ENTITY openAttachmentMenuItem.label "opna">
-<!ENTITY openAttachmentMenuItem.accesskey "o">
-<!ENTITY saveAsAttachmentMenuItem.label "vista sem…">
-<!ENTITY saveAsAttachmentMenuItem.accesskey "s">
-<!ENTITY detachAttachmentMenuItem.label "taka út…">
-<!ENTITY detachAttachmentMenuItem.accesskey "t">
-<!ENTITY deleteAttachmentMenuItem.label "eyða">
-<!ENTITY deleteAttachmentMenuItem.accesskey "e">
-<!ENTITY openAllAttachmentsMenuItem.label "opna öll…">
-<!ENTITY openAllAttachmentsMenuItem.accesskey "o">
-<!ENTITY saveAllAttachmentsMenuItem.label "vista öll…">
-<!ENTITY saveAllAttachmentsMenuItem.accesskey "s">
-<!ENTITY detachAllAttachmentsMenuItem.label "taka út öll…">
-<!ENTITY detachAllAttachmentsMenuItem.accesskey "ö">
-<!ENTITY deleteAllAttachmentsMenuItem.label "eyða öllum…">
-<!ENTITY deleteAllAttachmentsMenuItem.accesskey "e">
+<!ENTITY saveAttachmentButton1.label "Vista">
+<!ENTITY saveAttachmentButton1.tooltip "Vista viðhengi">
+<!ENTITY saveAllAttachmentsButton1.label "Vista allt">
+<!ENTITY saveAllAttachmentsButton1.tooltip "Vista öll viðhengi">
 <!ENTITY copyLinkCmd.label "Afrita tengil">
 <!ENTITY copyLinkCmd.accesskey "A">
 <!ENTITY CopyMessageId.label "Afrita Skeytis-Auðkenni">

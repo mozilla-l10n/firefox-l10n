@@ -1,6 +1,4 @@
 
-<!ENTITY splash_screen_loading "Hleður">
-<!ENTITY splash_screen_installing_libs "Set inn söfn\u2026">
 <!ENTITY splash_firstrun "Stilli &brandShortName;\u2026">
 <!ENTITY no_space_to_start_error "Ekki er nægjanlegt laust pláss til að &brandShortName; geti ræst.">
 <!ENTITY error_loading_file "Upp kom villa þegar reynt var að hlaða inn nauðsynlegum skrám fyrir &brandShortName;">

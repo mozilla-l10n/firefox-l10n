@@ -16,8 +16,8 @@
 <!ENTITY signIn.account2.accesskey "A">
 <!ENTITY signIn.password.label "Lykilorð">
 <!ENTITY signIn.password.accesskey "L">
-<!ENTITY signIn.syncKey.label "Sync lykill">
-<!ENTITY signIn.syncKey.accesskey "k">
+<!ENTITY signIn.recoveryKey.label "Endurheimtunarlykill">
+<!ENTITY signIn.recoveryKey.accesskey "k">
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Aðgangsupplýsingar">
 <!ENTITY setup.emailAddress.label "Tölvupóstfang">
@@ -36,12 +36,12 @@
 <!ENTITY setup.tosAgree3.label "">
 <!ENTITY setup.tosAgree2.accesskey "">
 <!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; er umhugað um friðhelgi þína">
-<!ENTITY setup.newSyncKeyPage.description.label "Til að passa upp á friðhelgi þína, eru öll gögn dulkóðuð áður en þau eru send. Hinsvegar er Sync lykillinn sem er nauðsynlegur til að afkóða gögnin er ekki sendur.">
-<!ENTITY syncKeyEntry.label "Sync lykillinn þinn">
-<!ENTITY syncKeyEntry.accesskey "k">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; er umhugað um friðhelgi þína">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Til að passa upp á öryggi, eru öll gögn dulkóðuð áður en þau eru send. Endurheimtunarlykillinn sem er nauðsynlegur til að afkóða gögnin er ekki sendur.">
+<!ENTITY recoveryKeyEntry.label "Endurheimtunarlykillinn þinn">
+<!ENTITY recoveryKeyEntry.accesskey "k">
 <!ENTITY syncGenerateNewKey.label "Búa til nýjan lykil">
-<!ENTITY syncKeyBackup.description "Þú þarft að hafa Sync lykilinn þinn til að fá aðgang að &syncBrand.fullName.label; á öðrum tölvum. Vinsamlega búðu til afrit af lyklinum. Við getum ekki hjálpað þér að endurheimta Sync lykilinn þinn.">
+<!ENTITY recoveryKeyBackup.description "Endurheimtunarlykillinn þinn er nauðsynlegur til að fá aðgang að &syncBrand.fullName.label; á öðrum tölvum. Mælt er með að búa til öryggisafrit. Við munum ekki geta hjálpað þér með að endurheimta endurheimtunarlykilinn þinn.">
 <!ENTITY button.syncKeyBackup.print.label "Prenta…">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
 <!ENTITY button.syncKeyBackup.save.label "Vista…">
@@ -58,12 +58,11 @@
 <!ENTITY addDevice.dialog.enterCode.label "Sláðu inn kóðann sem tölvan gaf upp:">
 <!ENTITY addDevice.dialog.tryAgain.label "Vinsamlegast reyndu aftur.">
 <!ENTITY addDevice.dialog.successful.label "Búið er að bæta við tölvu. Fyrsta samstilling gæti tekið nokkrar mínútur og verður keyrð í bakgrunni.">
-<!ENTITY addDevice.dialog.syncKey.label "Til að virkja tölvuna verðurðu að slá inn Sync lykilinn. Prentaðu út eða vistaðu þennan lykil og taktu hann með þér.">
+<!ENTITY addDevice.dialog.recoveryKey.label "Til að virkja tækið þarftu að slá inn endurheimtunarlykilinn þinn. Prentaðu eða vistaðu þennan lykil og hafðu hann með þér.">
 <!ENTITY addDevice.dialog.connected.label "Tölva tengd">
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Innskráning">
-<!ENTITY existingSyncKey.description "Þú getur fengið afrit að Sync lyklinum með því að fara í &syncBrand.shortName.label; stillingar á hinni tölvunni, og valið
-þar   &#x0022;Sync lykillinn minn&#x0022; undir &#x0022;Sýsla með aðgang&#x0022;.">
+<!ENTITY existingRecoveryKey.description "Þú getur fengið afrit af endurheimtunarlyklinum með því að fara í &syncBrand.shortName.label; Valkostir á hinu tækinu, og velja  &#x0022;Endurheimtunarlykill&#x0022; undir &#x0022;Sýsla með aðgang&#x0022;.">
 <!ENTITY verifying.label "Staðfesti…">
 <!ENTITY resetPassword.label "Endurstilla lykilorð">
 <!ENTITY resetSyncKey.label "Ég er búinn að týna hinu tækinu mínu.">

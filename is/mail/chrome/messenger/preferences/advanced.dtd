@@ -5,6 +5,9 @@
 <!ENTITY itemCertificates.label "Skilríki">
 <!-- General Settings -->
 
+<!ENTITY submitTelemetry.label "Senda upplýsingar um afkastagetu">
+<!ENTITY submitTelemetry.accesskey "p">
+<!ENTITY telemetryInfoLink.label "Meiri upplýsingar um Telemetry">
 <!ENTITY enableGlodaSearch.label "Virkja víðtæka leit og atriðaskrá">
 <!ENTITY enableGlodaSearch.accesskey "i">
 <!ENTITY systemIntegration.label "Samþætting kerfis">
