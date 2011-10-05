@@ -8,7 +8,7 @@
 <!ENTITY sync.syncNow               "Synka nu">
 
 <!ENTITY sync.setup.title           "Anslut till Sync">
-<!ENTITY sync.setup.jpake           "På en Firefox Sync-ansluten dator, gå till Sync-inställningarna och välj &#x0022;Lägg till enhet&#x0022;">
+<!ENTITY sync.setup.pair            "Aktivera genom att välja &#x0022;Para ihop enhet&#x0022; på din andra enhet">
 <!ENTITY sync.fallback              "Jag har inte tillgång till datorn nu…">
 <!ENTITY sync.setup.manual          "Ange dina Sync-kontouppgifter">
 <!ENTITY sync.account               "Kontonamn">
@@ -19,3 +19,4 @@
 <!ENTITY sync.setup.connect         "Anslut">
 <!ENTITY sync.setup.cancel          "Avbryt">
 <!ENTITY sync.setup.tutorial        "Visa mig">
+<!ENTITY sync.setup.waiting         "Parar…">
