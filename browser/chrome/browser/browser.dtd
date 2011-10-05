@@ -336,6 +336,12 @@
 <!ENTITY mediaHideControls.accesskey "c">
 <!ENTITY videoFullScreen.label "A tutto schermo">
 <!ENTITY videoFullScreen.accesskey "u">
+<!ENTITY videoSaveImage.label "Salva fotogramma come…">
+<!ENTITY videoSaveImage.accesskey "S">
+<!ENTITY videoShowStats.label "Visualizza statistiche">
+<!ENTITY videoShowStats.accesskey "t">
+<!ENTITY videoHideStats.label "Nascondi statistiche">
+<!ENTITY videoHideStats.accesskey "t">
 <!ENTITY fullZoomEnlargeCmd.label "Aumenta zoom">
 <!ENTITY fullZoomEnlargeCmd.accesskey "u">
 <!ENTITY fullZoomEnlargeCmd.commandkey "+">
