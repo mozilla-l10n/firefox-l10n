@@ -4,8 +4,7 @@
 
 <!ENTITY setup.pickSetupType.description "Benvida, se nunca usou &syncBrand.fullName.label;, precisa crear unha conta.">
 <!ENTITY button.createNewAccount.label "Crear unha nova conta">
-<!ENTITY setup.haveAccount.label "Xa teño unha conta de &syncBrand.fullName.label;.">
-<!ENTITY button.connect.label    "Conectar">
+<!ENTITY button.haveAccount.label      "Xa teño unha conta">
 
 <!ENTITY setup.choicePage.title.label     "Usou &syncBrand.fullName.label; antes?">
 <!ENTITY setup.choicePage.new.label       "Nunca usei &syncBrand.shortName.label; antes">
@@ -54,15 +53,13 @@
 <!ENTITY button.syncKeyBackup.save.label      "Gardar…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "G">
 
-<!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "Confirme que non é un robot">
-<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "Engadir un dispositivo">
+<!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
+<!ENTITY pairDevice.title.label             "Asociar un dispositivo">
 <!ENTITY addDevice.showMeHow.label          "Móstreme como.">
 <!ENTITY addDevice.dontHaveDevice.label     "Non teño o dispositivo comigo">
-<!ENTITY addDevice.setup.description.label  "Para activalo, vaia as Opcións do &syncBrand.shortName.label; noutro dispositivo e seleccione &#x0022;Engadir un dispositivo&#x0022;.">
+<!ENTITY pairDevice.setup.description.label  "Para activalo, no outro dispositivo seleccione &#x0022;Asociar un dispositivo&#x0022;.">
 <!ENTITY addDevice.setup.enterCode.label    "Logo, introduza este código:">
-<!ENTITY addDevice.dialog.description.label "Para activar o novo dispositivo, vaia as opcións do &syncBrand.shortName.label; no dispositivo e seleccione &#x0022;Conectar.&#x0022;">
+<!ENTITY pairDevice.dialog.description.label "Para activar o novo dispositivo, seleccione &#x0022;Configurar sincronización&#x0022; no dispositivo.">
 <!ENTITY addDevice.dialog.enterCode.label   "Introduza o código que lle fornece o dispositivo:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Tente de novo.">
 <!ENTITY addDevice.dialog.successful.label  "Engadiuse o dispositivo correctamente. A sincronización inicial pode levarlle varios minutos e rematará en segundo plano.">
