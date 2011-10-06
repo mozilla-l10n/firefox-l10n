@@ -1,4 +1,4 @@
-<!ENTITY upgrade.style               "width: 93ch; height: 448px;">
+<!ENTITY upgrade.style               "width: 100ch; height: 448px;">
 
 <!ENTITY checking.heading            "正在檢查您的附加元件">
 <!ENTITY checking.progress.label     "正在檢查您的附加元件是否相容此版本的 &brandShortName;。">
