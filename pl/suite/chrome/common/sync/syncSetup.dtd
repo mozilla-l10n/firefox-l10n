@@ -20,8 +20,8 @@
 <!ENTITY signIn.account2.accesskey "K">
 <!ENTITY signIn.password.label "Hasło">
 <!ENTITY signIn.password.accesskey "H">
-<!ENTITY signIn.syncKey.label "Klucz Sync">
-<!ENTITY signIn.syncKey.accesskey "u">
+<!ENTITY signIn.recoveryKey.label "Klucz odzyskiwania">
+<!ENTITY signIn.recoveryKey.accesskey "o">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Szczegóły konta">
@@ -39,14 +39,14 @@
 <!ENTITY setup.tosAgree3.label "">
 <!ENTITY setup.tosAgree2.accesskey "">
 
-<!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; dba o twoją prywatność">
-<!ENTITY setup.newSyncKeyPage.description.label "Aby zapewnić całkowitą prywatność, wszystkie dane przed przesłaniem są szyfrowane. Klucz Sync, niezbędny do odszyfrowania danych, nie jest przesyłany.">
-<!ENTITY syncKeyEntry.label "Twój klucz Sync">
-<!ENTITY syncKeyEntry.accesskey "k">
-<!ENTITY syncKeyGenerate.label "Wygeneruj">
-<!ENTITY syncKeyGenerate.accesskey "W">
-<!ENTITY syncKeyBackup.description "Klucz jest niezbędny, by uzyskać dostęp do usługi &syncBrand.fullName.label; na innych urządzeniach. Utwórz kopię zapasową klucza. W razie jego utraty nie będziemy w stanie pomóc ci go odzyskać.">
+<!-- New Account Page 2: Recovery Key -->
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; dba o twoją prywatność">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Aby zapewnić całkowitą prywatność, wszystkie dane przed przesłaniem są szyfrowane. Klucz odzyskiwania, niezbędny do odszyfrowania danych, nie jest przesyłany.">
+<!ENTITY recoveryKeyEntry.label "Twój klucz odzyskiwania">
+<!ENTITY recoveryKeyEntry.accesskey "T">
+<!ENTITY recoveryKeyGenerate.label "Wygeneruj">
+<!ENTITY recoveryKeyGenerate.accesskey "W">
+<!ENTITY recoveryKeyBackup.description "Klucz jest niezbędny, by uzyskać dostęp do usługi &syncBrand.fullName.label; na innych urządzeniach. Utwórz kopię zapasową klucza. W razie jego utraty nie będziemy w stanie pomóc ci go odzyskać.">
 
 <!ENTITY button.syncKeyBackup.print.label "Wydrukuj…">
 <!ENTITY button.syncKeyBackup.print.accesskey "d">
@@ -66,12 +66,12 @@
 <!ENTITY addDevice.dialog.enterCode.label "Wprowadź kod dostarczony przez to urządzenie:">
 <!ENTITY addDevice.dialog.tryAgain.label "Ponów próbę.">
 <!ENTITY addDevice.dialog.successful.label "Urządzenie zostało dodane. Początkowa synchronizacja może potrwać kilka minut i ukończy się w tle.">
-<!ENTITY addDevice.dialog.syncKey.label "Aby aktywować urządzenie, potrzebujesz swojego klucza Sync. Wydrukuj go lub zapisz i zabierz ze sobą.">
+<!ENTITY addDevice.dialog.recoveryKey.label "Aby aktywować urządzenie, potrzebujesz swojego klucza odzyskiwania. Wydrukuj go lub zapisz i zabierz ze sobą.">
 <!ENTITY addDevice.dialog.connected.label "Urządzenie połączone">
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Zaloguj">
-<!ENTITY existingSyncKey.description "Aby uzyskać kopię klucza Sync, przejdź do opcji/preferencji &syncBrand.shortName.label; na danym urządzeniu i wybierz &#x0022;Mój klucz Sync&#x0022; w sekcji &#x0022;Zarządzaj kontem&#x0022;.">
+<!ENTITY existingRecoveryKey.description "Aby uzyskać kopię klucza odzyskiwania, przejdź do preferencji/opcji &syncBrand.shortName.label; na danym urządzeniu i wybierz &#x0022;Mój klucz odzyskiwania&#x0022; w sekcji &#x0022;Zarządzaj kontem&#x0022;.">
 <!ENTITY verifying.label "Weryfikowanie…">
 <!ENTITY resetPassword.label "Resetuj hasło">
 <!ENTITY resetSyncKey.label "Zagubiono urządzenie">

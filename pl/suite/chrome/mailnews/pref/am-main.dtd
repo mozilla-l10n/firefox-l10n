@@ -11,6 +11,7 @@
 <!ENTITY email.accesskey "m">
 <!ENTITY replyTo.label "Zwrotny adres e-mail:">
 <!ENTITY replyTo.accesskey "z">
+<!ENTITY replyTo.placeholder "Adresaci będą wysyłać odpowiedzi na ten adres zwrotny">
 <!ENTITY organization.label "Firma/Organizacja:">
 <!ENTITY organization.accesskey "O">
 <!ENTITY signatureText.label "Sygnaturka:">

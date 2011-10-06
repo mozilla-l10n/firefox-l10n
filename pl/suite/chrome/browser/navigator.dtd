@@ -14,12 +14,6 @@
 <!ENTITY editPageCmd.accesskey "E">
 <!ENTITY editPageCmd.commandkey "e">
 
-<!ENTITY printPreviewCmd.label "Podgląd wydruku">
-<!ENTITY printPreviewCmd.accesskey "P">
-<!ENTITY printCmd.label "Drukuj…">
-<!ENTITY printCmd.accesskey "D">
-<!ENTITY printCmd.commandkey "p">
-
 <!ENTITY navbarCmd.label "Pasek narzędzi nawigacyjnych">
 <!ENTITY navbarCmd.accesskey "n">
 <!ENTITY personalbarCmd.label "Osobisty pasek narzędzi">

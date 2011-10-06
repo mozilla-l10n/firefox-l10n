@@ -10,10 +10,7 @@
 <!-- menu items:  the . means that the menu item isn't implemented yet -->
 
 <!-- File menu items -->
-<!ENTITY newMessage.label "Wiadomość">
-<!ENTITY newMessage.accesskey "m">
 <!ENTITY saveCmd.label "Zapisz">
-<!ENTITY saveCmd.key "S">
 <!ENTITY saveCmd.accesskey "s">
 <!ENTITY saveAsCmd.label "Zapisz jako">
 <!ENTITY saveAsCmd.accesskey "a">
@@ -37,11 +34,6 @@
 <!ENTITY sendLaterCmd.label "Wyślij później">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "p">
-<!ENTITY printSetupCmd.label "Ustawienia strony…">
-<!ENTITY printSetupCmd.accesskey "U">
-<!ENTITY printCmd.label "Drukuj…">
-<!ENTITY printCmd.key "P">
-<!ENTITY printCmd.accesskey "D">
 
 <!-- Edit menu items -->
 <!ENTITY editRewrapCmd.label "Zawiń wiersze">
@@ -72,7 +64,6 @@
 <!ENTITY selectAddressCmd.accesskey "W">
 
 <!ENTITY checkSpellingCmd2.label "Sprawdź pisownię…">
-<!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY checkSpellingCmd2.accesskey "r">
 <!ENTITY enableInlineSpellChecker.label "Sprawdzaj pisownię w trakcie tworzenia">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
@@ -129,8 +120,6 @@
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
 <!ENTITY spellCheckAddToDictionary.label "Dodaj do słownika">
 <!ENTITY spellCheckAddToDictionary.accesskey "n">
-<!ENTITY pasteQuote.label "Wklej jako cytat">
-<!ENTITY pasteQuote.accesskey "y">
 
 <!ENTITY openAttachment.label "Otwórz">
 <!ENTITY openAttachment.accesskey "O">

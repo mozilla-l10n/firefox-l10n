@@ -107,13 +107,6 @@
 <!ENTITY downloadSelectedCmd.accesskey "w">
 <!ENTITY downloadFlaggedCmd.label "Pobierz oznaczone wiadomości">
 <!ENTITY downloadFlaggedCmd.accesskey "o">
-<!ENTITY printCmd.label "Drukuj…">
-<!ENTITY printCmd.accesskey "D">
-<!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Podgląd wydruku">
-<!ENTITY printPreviewCmd.accesskey "P">
-<!ENTITY printSetupCmd.label "Ustawienia strony…">
-<!ENTITY printSetupCmd.accesskey "n">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Usuń wiadomość">

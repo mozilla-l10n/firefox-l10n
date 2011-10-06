@@ -5,9 +5,9 @@
 
 <!-- Entities for Account Type page -->
 
-<!ENTITY accountSetupInfo.label "Aby otrzymywać wiadomości, musisz najpierw skonfigurować konto pocztowe lub konto grup dyskusyjnych.">
+<!ENTITY accountSetupInfo2.label "Aby otrzymywać wiadomości, musisz najpierw skonfigurować konto.">
 <!ENTITY accountTypeTitle.label "Konfiguracja nowego konta">
-<!ENTITY accountTypeDesc.label "Kreator kont przystępuje do zebrania informacji niezbędnych do utworzenia nowego konta pocztowego lub konta grup dyskusyjnych. Skontaktuj się z administratorem sieci lub Twoim dostawcą usług internetowych, jeśli nie znasz wszystkich wymaganych danych.">
+<!ENTITY accountTypeDesc2.label "Kreator kont przystępuje do zebrania informacji niezbędnych do utworzenia nowego konta. Skontaktuj się z administratorem sieci lub Twoim dostawcą usług internetowych, jeśli nie znasz wszystkich wymaganych danych.">
 <!ENTITY accountTypeDirections.label "Wybierz rodzaj konta, które chcesz skonfigurować:">
 <!ENTITY accountTypeMail.label "Konto pocztowe">
 <!ENTITY accountTypeMail.accesskey "p">

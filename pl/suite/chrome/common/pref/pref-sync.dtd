@@ -20,8 +20,8 @@
 <!ENTITY viewQuota.accesskey "W">
 <!ENTITY changePassword.label "Zmień hasło">
 <!ENTITY changePassword.accesskey "m">
-<!ENTITY mySyncKey.label "Mój klucz Sync">
-<!ENTITY mySyncKey.accesskey "k">
+<!ENTITY myRecoveryKey.label "Mój klucz odzyskiwania">
+<!ENTITY myRecoveryKey.accesskey "k">
 <!ENTITY resetSync.label "Resetuj synchronizację">
 <!ENTITY resetSync.accesskey "e">
 <!ENTITY deactivateDevice.label "Zdezaktywuj to urządzenie">

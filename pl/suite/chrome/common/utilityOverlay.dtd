@@ -18,6 +18,13 @@
 <!ENTITY newNavigatorCmd.label "Okno przeglądarki">
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "O">
+<!ENTITY printSetupCmd.label "Ustawienia strony…">
+<!ENTITY printSetupCmd.accesskey "n">
+<!ENTITY printPreviewCmd.label "Podgląd wydruku">
+<!ENTITY printPreviewCmd.accesskey "P">
+<!ENTITY printCmd.label "Drukuj…">
+<!ENTITY printCmd.accesskey "D">
+<!ENTITY printCmd.key "P">
 
 <!ENTITY editMenu.label "Edycja">
 <!ENTITY editMenu.accesskey "E">
