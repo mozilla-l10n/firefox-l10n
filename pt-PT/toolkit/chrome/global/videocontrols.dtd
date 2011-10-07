@@ -12,7 +12,7 @@
 <!ENTITY stats.activitySeeking "(a procurar)">
 <!ENTITY stats.volume "Volume">
 <!ENTITY stats.channels "Canais">
-<!ENTITY stats.sampleRate "Rácio da amostra">
+<!ENTITY stats.sampleRate "RÃ¡cio da amostra">
 <!ENTITY stats.framesParsed "Frames analisadas">
 <!ENTITY stats.framesDecoded "Frames descodificados">
 <!ENTITY stats.framesPresented "Frames apresentadas">
