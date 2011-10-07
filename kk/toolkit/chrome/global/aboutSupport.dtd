@@ -20,7 +20,8 @@
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Іске қосулы плагиндер">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Жинау баптаулары">
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
-<!ENTITY aboutSupport.appBasicsCrashIDs "Құлау туралы хабарлар">
+<!ENTITY aboutSupport.appBasicsCrashIDs  "Құлау туралы хабарлар">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Жады қолданылуы">
 
 <!ENTITY aboutSupport.show.label "Орналасқан бумасын ашу">
 
