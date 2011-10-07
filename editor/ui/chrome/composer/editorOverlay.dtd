@@ -68,14 +68,12 @@
 <!ENTITY publishAsCmd.accesskey "a">
 <!ENTITY saveAsChangeEncodingCmd.label "Bewarje en tekenset wizigje">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "w">
+
 <!ENTITY printSetupCmd.label "Side-ynstellings…">
 <!ENTITY printSetupCmd.accesskey "i">
 <!ENTITY printCmd.label "Ofdrukke…">
 <!ENTITY printCmd.accesskey "d">
 <!ENTITY printCmd.key "p">
-<!ENTITY closeCmd.label "Slute">
-<!ENTITY closeCmd.accesskey "S">
-<!ENTITY closeCmd.key "W">
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "Bewurkje">
@@ -91,17 +89,6 @@
 <!ENTITY pasteAsQuotationCmd.accesskey "s">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Sykje en ferfange…">
-<!ENTITY findCmd.accesskey "S">
-<!ENTITY findCmd.key "f">
-<!ENTITY findCmd.key2 "VK_F19">
-<!ENTITY findAgainCmd.label "Op 'e nij sykje">
-<!ENTITY findAgainCmd.accesskey "n">
-<!ENTITY findAgainCmd.key "g">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Foarige sykje">
-<!ENTITY findPrevCmd.accesskey "i">
-<!ENTITY findPrevCmd.key "g">
-<!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Stavering kontrolearje by typen">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY checkSpellingCmd2.label "Stavering kontrolearje">
@@ -139,23 +126,6 @@
 <!ENTITY createLinkCmd.accesskey "l">
 <!ENTITY editLinkCmd.label "Keppeling yn in nij finster bewurkje">
 <!ENTITY editLinkCmd.accesskey "i">
-<!-- (Toplevel Edit menu uses utilityOverlay) -->
-<!ENTITY undoCmd.label "Ungedien meitsje">
-<!ENTITY undoCmd.accesskey "U">
-<!ENTITY redoCmd.label "Op 'e nij útfiere">
-<!ENTITY redoCmd.accesskey "H">
-<!ENTITY cutCmd.label "Knippe">
-<!ENTITY cutCmd.accesskey "n">
-<!ENTITY copyCmd.label "Kopiearje">
-<!ENTITY copyCmd.accesskey "K">
-<!ENTITY pasteCmd.label "Plakke">
-<!ENTITY pasteCmd.accesskey "P">
-<!ENTITY deleteCmd.label "Fuortsmite">
-<!ENTITY deleteCmd.accesskey "F">
-<!ENTITY clearCmd.label "Wiskje">
-<!ENTITY clearCmd.accesskey "W">
-<!ENTITY selectAllCmd.label "Alles selektearje">
-<!ENTITY selectAllCmd.accesskey "A">
 
 <!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip "Lettertype kieze">
@@ -396,6 +366,9 @@
 <!ENTITY openToolbarCmd.tooltip "In lokaal bestân iepenje">
 <!ENTITY saveToolbarCmd.tooltip "Bestân bewarje op in lokale lokaasje">
 <!ENTITY publishToolbarCmd.tooltip "Bestân oplade nei in lokaasje op ôfstân">
+<!ENTITY cutToolbarCmd.tooltip "Knippe">
+<!ENTITY copyToolbarCmd.tooltip "Kopiearje">
+<!ENTITY pasteToolbarCmd.tooltip "Plakke">
 <!ENTITY printToolbarCmd.label "Ofdrukke">
 <!ENTITY printToolbarCmd.tooltip "Dizze side ôfdrukke">
 <!ENTITY findToolbarCmd.label "Sykje">

@@ -62,22 +62,4 @@
 <!ENTITY channel.description.start  "Jo binne op dit stuit op it ">
 <!ENTITY channel.description.end    " fernijingskanaal. ">
 
-<!ENTITY channel.change             "Wizigje">
-
-<!ENTITY channel.release.description       "Genietsje fan de útprobearre en teste lêste útjefte dy't troch hûnderten miljoenen minsken oer de hiele wrâld brûkt wurdt. Bliuw de baas oer jo online belibben mei superfaasje, ienfâldige oanpassing en de nijste webtechnologyën.">
-<!ENTITY channel.beta.description          "Belibje de allernijste funksjonaliteiten, mar mei mear stabiliteit. Jou kommentaar om te helpen by it ferfynjen en byskaven fan nije saken yn de definitive útjefte.">
-<!ENTITY channel.aurora.description        "Belibje de nijste ynnovaasjes yn in net stabile ûmjouwing dy't net geskikt is foar minsken mei in swekk hert. Jou kommentaar oer funksjes en prestaasjes om te helpen te bepalen wat der yn de definitive útjefte komt.">
-
-<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
-     channel.selector.end create one sentence, with a channel selection menulist instered in between.
-     This is all in one line, so try to make the localized text short.
-     example: Switch to the [Stable] update channel. -->
-<!ENTITY channel.selector.start          "Wiksel nei it">
-<!ENTITY channel.selector.end            "-fernijkanaal.">
-
-<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
-     to a new update channel and starts the application update process. -->
-<!ENTITY channel.selector.applyButton    "Tapasse en bywurkje">
-<!ENTITY channel.selector.cancelButton   "Annulearje">
-
 <!ENTITY cmdCloseMac.commandKey 	"w">

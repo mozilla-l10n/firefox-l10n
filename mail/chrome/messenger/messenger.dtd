@@ -227,6 +227,8 @@
 <!ENTITY bodySanitized.accesskey "F">
 <!ENTITY bodyAsPlaintext.label "Platte tekst">
 <!ENTITY bodyAsPlaintext.accesskey "P">
+<!ENTITY bodyAllParts.label "Alle kearnparten">
+<!ENTITY bodyAllParts.accesskey "A">
 
 <!ENTITY bodyMenuFeed.label "Feedberjochtopmaak as">
 <!ENTITY bodyMenuFeed.accesskey "b">
