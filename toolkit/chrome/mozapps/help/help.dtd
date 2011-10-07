@@ -64,5 +64,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomReduceBtn.accesskey    "c">
 <!ENTITY fullZoomEnlargeBtn.label       "Mărește mărimea textului">
 <!ENTITY fullZoomEnlargeBtn.accesskey   "i">
-
-

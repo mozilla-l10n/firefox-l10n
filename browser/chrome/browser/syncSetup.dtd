@@ -52,7 +52,7 @@
 <!ENTITY setup.tosAgree2.label      "și cu">
 <!ENTITY setup.ppLink.label         "Politică de confidențialitate">
 <!ENTITY setup.tosAgree3.label      "">
-<!ENTITY setup.tosAgree2.accesskey  "ș">
+<!ENTITY setup.tosAgree2.accesskey  "">
 
 <!-- New Account Page 2: Sync Key -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; ține cont de confidențialitatea datelor dumneavoastră">
@@ -122,5 +122,3 @@
 <!ENTITY setup.successPage.title "Configurare finalizată">
 <!ENTITY changeOptions.label "Puteți schimba această preferință selectând opțiunile de mai jos.">
 <!ENTITY continueUsing.label "Puteți folosi &brandShortName; în continuare.">
-
-
