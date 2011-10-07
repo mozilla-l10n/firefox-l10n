@@ -8,7 +8,7 @@
 <!ENTITY sync.syncNow               "Sincronizar agora">
 
 <!ENTITY sync.setup.title           "Ligar ao Sync">
-<!ENTITY sync.setup.jpake           "De um computador ligado ao Firefox Sync, vá às opções do Sync e seleccione &#x0022;Adicionar dispositivo&#x0022;">
+<!ENTITY sync.setup.pair            "Para ativar selecione &#x0022;emparelhar um dispositivo&#x0022; no seu outro dispositivo">
 <!ENTITY sync.fallback              "Não estou perto do meu computador…">
 <!ENTITY sync.setup.manual          "Escreva a informação da sua conta Sync">
 <!ENTITY sync.account               "Nome da conta">
@@ -19,3 +19,4 @@
 <!ENTITY sync.setup.connect         "Ligar">
 <!ENTITY sync.setup.cancel          "Cancelar">
 <!ENTITY sync.setup.tutorial          "Ver como fazer">
+<!ENTITY sync.setup.waiting         "Emparelhamento em curso…">
