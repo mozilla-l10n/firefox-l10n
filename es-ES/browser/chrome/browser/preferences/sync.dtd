@@ -7,7 +7,7 @@
 <!ENTITY manageAccount.accesskey "a">
 <!ENTITY viewQuota.label "Ver cuota">
 <!ENTITY changePassword2.label "Cambiar contraseña…">
-<!ENTITY mySyncKey.label "Mi clave de Sync">
+<!ENTITY myRecoveryKey.label "Mi clave de recuperación">
 <!ENTITY resetSync2.label "Restablecer Sync…">
 <!ENTITY addDevice.label "Añadir un dispositivo">
 <!ENTITY syncMy.label "Sincronizar">

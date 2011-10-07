@@ -9,3 +9,7 @@
 <!ENTITY aboutHome.noTabs "No hay pestañas de la última vez">
 <!ENTITY aboutHome.noAddons "No hay complementos recomendados">
 <!ENTITY aboutHome.getLocale "Cambiar idioma">
+<!ENTITY aboutHome.getInBeforeBeta "Súbase al carro antes de que llegue la Beta.">
+<!ENTITY aboutHome.tryAurora "Pruebe Firefox Aurora y ayude a dibujar el futuro de Firefox.">
+<!ENTITY aboutHome.downloadAurora "Descargar Aurora">
+<!ENTITY aboutHome.forAndroid "para Android">

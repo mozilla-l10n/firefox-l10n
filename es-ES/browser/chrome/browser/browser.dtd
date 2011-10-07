@@ -150,6 +150,8 @@
 <!ENTITY inspectMenu.label "Inspeccionar">
 <!ENTITY inspectMenu.accesskey "r">
 <!ENTITY inspectMenu.commandkey "I">
+<!ENTITY inspectContextMenu.label "Inspeccionar elemento">
+<!ENTITY inspectContextMenu.accesskey "p">
 <!ENTITY scratchpad.label "Borrador">
 <!ENTITY scratchpad.accesskey "b">
 <!ENTITY scratchpad.keycode "VK_F4">
