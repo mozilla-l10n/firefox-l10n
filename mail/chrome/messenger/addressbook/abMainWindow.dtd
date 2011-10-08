@@ -122,8 +122,10 @@
 <!ENTITY showContactPane.accesskey                      "u">
 <!ENTITY menu_ShowNameAs.label                          "Asmenvardžio rodymas">
 <!ENTITY menu_ShowNameAs.accesskey                      "m"> 
-<!ENTITY firstLastCmd.label                             "Vardas, pavardė">
-<!ENTITY firstLastCmd.accesskey                         "V"> 
+<!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
+because displayed names don't have the comma in between. -->
+<!ENTITY firstLastCmd2.label                            "Vardas pavardė">
+<!ENTITY firstLastCmd2.accesskey                        "V"> 
 <!ENTITY lastFirstCmd.label                             "Pavardė, vardas">
 <!ENTITY lastFirstCmd.accesskey                         "P">
 <!ENTITY displayNameCmd.label                           "Kaip nurodyta kortelėje">
