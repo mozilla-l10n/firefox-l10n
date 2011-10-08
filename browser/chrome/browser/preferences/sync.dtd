@@ -17,7 +17,7 @@
 <!ENTITY myRecoveryKey.label          "Min återställningsnyckel">
 <!ENTITY resetSync2.label             "Återställ Sync…">
 
-<!ENTITY pairDevice.label             "Para ihop enhet">
+<!ENTITY pairDevice.label             "Para ihop enheter">
 
 <!ENTITY syncMy.label               "Synka">
 <!ENTITY engine.bookmarks.label     "Bokmärken">
