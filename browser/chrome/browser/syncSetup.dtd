@@ -4,8 +4,7 @@
 
 <!ENTITY setup.pickSetupType.description "Vítejte! Jestliže jste nikdy &syncBrand.fullName.label; nepoužili, budete si muset vytvořit nový účet.">
 <!ENTITY button.createNewAccount.label "Vytvořit nový účet">
-<!ENTITY setup.haveAccount.label "Již mám účet &syncBrand.fullName.label;">
-<!ENTITY button.connect.label "Připojit">
+<!ENTITY button.haveAccount.label "Již mám účet">
 
 <!ENTITY setup.choicePage.title.label "Znáte a požíváte &syncBrand.fullName.label;?">
 <!ENTITY setup.choicePage.new.label "&syncBrand.shortName.label; neznám a nepoužívám">
@@ -40,7 +39,7 @@
 <!ENTITY setup.tosAgree3.label "">
 <!ENTITY setup.tosAgree2.accesskey "">
 
-<!-- New Account Page 2: Sync Key -->
+<!-- My Recovery Key dialog -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; zachovává vaše soukromí">
 <!ENTITY setup.newRecoveryKeyPage.description.label "Z důvodu zajištění vašeho soukromí jsou všechna vaše data před nahráváním na server zašifrována. Obnovovací klíč potřebný k rozšifrování vašich dat nahrán není.">
 <!ENTITY recoveryKeyEntry.label "Obnovovací klíč">
@@ -53,16 +52,14 @@
 <!ENTITY button.syncKeyBackup.save.label "Uložit…">
 <!ENTITY button.syncKeyBackup.save.accesskey "U">
 
-<!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label "Potvrďte prosím, že nejste robot">
-<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label "Přidání zařízení">
+<!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
+<!ENTITY pairDevice.title.label "Připojit zařízení">
 <!ENTITY addDevice.showMeHow.label "Zobrazit nápovědu.">
 <!ENTITY addDevice.dontHaveDevice.label "Nemám zařízení u sebe">
-<!ENTITY addDevice.setup.description.label "Pro aktivaci přejděte do dialogu možností &syncBrand.shortName.label; na připojeném zařízení a zvolte „Přidat zařízení“.">
-<!ENTITY addDevice.setup.enterCode.label "A tam pak vložte tento kód:">
-<!ENTITY addDevice.dialog.description.label "Pro aktivaci přejděte do dialogu možností &syncBrand.shortName.label; na připojovaném zařízení a zvolte „Připojit“.">
-<!ENTITY addDevice.dialog.enterCode.label "Zde pak vložte kód, který obdržíte:">
+<!ENTITY pairDevice.setup.description.label "Na druhém zařízení zvolte „Připojit nové zařízení“.">
+<!ENTITY addDevice.setup.enterCode.label "A pak vložte tento kód:">
+<!ENTITY pairDevice.dialog.description.label "Na připojovaném zařízení a zvolte „Připojit“.">
+<!ENTITY addDevice.dialog.enterCode.label "A pak vložte získaný kód:">
 <!ENTITY addDevice.dialog.tryAgain.label "Prosím zkuste to znovu.">
 <!ENTITY addDevice.dialog.successful.label "Zařízení bylo úspěšně přidáno. Počáteční synchronizace může trvat několik minut a bude probíhat na pozadí.">
 <!ENTITY addDevice.dialog.recoveryKey.label "Pro aktivaci vzdáleného zařízení budete potřebovat obnovovací klíč. Níže uvedený obnovovací klíč si prosím vytiskněte nebo uložte a vezměte si ho sebou.">
