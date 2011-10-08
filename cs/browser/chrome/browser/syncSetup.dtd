@@ -58,7 +58,7 @@
 <!ENTITY addDevice.dontHaveDevice.label "Nemám zařízení u sebe">
 <!ENTITY pairDevice.setup.description.label "Na druhém zařízení zvolte „Připojit nové zařízení“.">
 <!ENTITY addDevice.setup.enterCode.label "A pak vložte tento kód:">
-<!ENTITY pairDevice.dialog.description.label "Na připojovaném zařízení a zvolte „Připojit“.">
+<!ENTITY pairDevice.dialog.description.label "Na připojovaném zařízení a zvolte „Nastavit Sync“.">
 <!ENTITY addDevice.dialog.enterCode.label "A pak vložte získaný kód:">
 <!ENTITY addDevice.dialog.tryAgain.label "Prosím zkuste to znovu.">
 <!ENTITY addDevice.dialog.successful.label "Zařízení bylo úspěšně přidáno. Počáteční synchronizace může trvat několik minut a bude probíhat na pozadí.">

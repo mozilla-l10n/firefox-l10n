@@ -8,7 +8,7 @@
 <!ENTITY sync.syncNow "Synchronizovat">
 
 <!ENTITY sync.setup.title "Připojení k Sync">
-<!ENTITY sync.setup.jpake "Na počítači s Firefoxem s připojeným Sync přejděte do dialogu možnosti Sync a zvolte &#x0022;Přidat zařízení&#x0022;">
+<!ENTITY sync.setup.pair "Na druhém zařízení zvolte „Připojit nové zařízení“.">
 <!ENTITY sync.fallback "Nejsem poblíž počítače…">
 <!ENTITY sync.setup.manual "Vložit nastavení účtu Sync">
 <!ENTITY sync.account "Název účtu">
@@ -19,3 +19,4 @@
 <!ENTITY sync.setup.connect "Připojit">
 <!ENTITY sync.setup.cancel "Zrušit">
 <!ENTITY sync.setup.tutorial "Zobrazit nápovědu">
+<!ENTITY sync.setup.waiting "Probíhá připojování…">
