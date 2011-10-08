@@ -53,12 +53,12 @@
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
 
 <!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
-<!ENTITY pairDevice.title.label             "Para ihop enhet">
+<!ENTITY pairDevice.title.label             "Para ihop enheter">
 <!ENTITY addDevice.showMeHow.label          "Visa mig hur.">
 <!ENTITY addDevice.dontHaveDevice.label     "Jag har inte enheten med mig">
-<!ENTITY pairDevice.setup.description.label  "Aktivera genom att välja ”Para ihop enhet” på din andra enhet.">
+<!ENTITY pairDevice.setup.description.label  "Aktivera genom att välja ”Para ihop enheter” på din andra enhet.">
 <!ENTITY addDevice.setup.enterCode.label    "Ange sedan den här koden:">
-<!ENTITY pairDevice.dialog.description.label "För att aktivera den nya enheten, välj ”Ställ in Sync” på enheten">
+<!ENTITY pairDevice.dialog.description.label "För att aktivera en ny enhet, välj ”Ställ in Sync” på enheten">
 <!ENTITY addDevice.dialog.enterCode.label   "Ange koden som enheten ger dig:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Försök igen.">
 <!ENTITY addDevice.dialog.successful.label  "Enheten har lagts till. Den första synkroniseringen kan ta flera minuter och slutförs i bakgrunden.">
