@@ -52,13 +52,13 @@
 <!ENTITY button.syncKeyBackup.save.label      "Enregistrer…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "s">
 
-<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "Ajouter un appareil">
+<!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
+<!ENTITY pairDevice.title.label             "Associer un appareil">
 <!ENTITY addDevice.showMeHow.label          "Comment faire ?">
 <!ENTITY addDevice.dontHaveDevice.label     "Je n'ai pas l'appareil avec moi">
-<!ENTITY addDevice.setup.description.label  "Pour activer, rendez-vous dans les options de &syncBrand.shortName.label; sur votre autre appareil et sélectionnez « Ajouter un appareil ».">
+<!ENTITY pairDevice.setup.description.label  "Pour activer, sélectionnez « Associer un appareil » sur votre autre appareil.">
 <!ENTITY addDevice.setup.enterCode.label    "Saisissez ensuite ce code :">
-<!ENTITY addDevice.dialog.description.label "Pour activer votre nouvel appareil, rendez-vous dans les options de &syncBrand.shortName.label; sur celui-ci et sélectionnez « Se connecter ».">
+<!ENTITY pairDevice.dialog.description.label "Pour activer votre nouvel appareil, sélectionnez « Configurer la synchronisation » sur celui-ci.">
 <!ENTITY addDevice.dialog.enterCode.label   "Saisissez le code fourni par l'appareil :">
 <!ENTITY addDevice.dialog.tryAgain.label    "Veuillez réessayer.">
 <!ENTITY addDevice.dialog.successful.label  "L'appareil a été ajouté. La première synchronisation peut prendre plusieurs minutes et s'achèvera en arrière-plan.">
