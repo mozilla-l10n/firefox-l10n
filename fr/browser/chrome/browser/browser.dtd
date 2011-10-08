@@ -433,6 +433,8 @@ can reach it easily. -->
 <!ENTITY mediaHideControls.accesskey "M">
 <!ENTITY videoFullScreen.label       "Plein écran">
 <!ENTITY videoFullScreen.accesskey   "P">
+<!ENTITY videoSaveImage.label        "Enregistrer un instantané sous…">
+<!ENTITY videoSaveImage.accesskey    "s">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
