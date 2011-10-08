@@ -5,7 +5,7 @@
 # https://launchpad.net/~kaszeba <mark@linuxcsb.org>
 #
 -->
-<!ENTITY about.version                "wersëjô">
+<!ENTITY about.version                "wersjô">
 
 <!-- LOCALIZATION NOTE (about.credits.beforeLink): note that there is no space between this phrase and the linked about.credits.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
 <!ENTITY about.credits.beforeLink     "Òbôczë lëstã">
@@ -23,12 +23,12 @@
 <!ENTITY about.relnotes.beforeTheLink "Czëtôj ">
 <!ENTITY about.relnotes.linkTitle     "wëdowiédzã ò wëdôwkù">
 <!-- LOCALIZATION NOTE (about.relnotes.afterTheLink): note that there is no space between the linked about.relnotes.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
-<!ENTITY about.relnotes.afterTheLink  " dlô ti wersëji.">
+<!ENTITY about.relnotes.afterTheLink  " dlô ti wersji.">
 
 <!-- LOCALIZATION NOTE (about.buildconfig.beforeTheLink): note that there is no space between this phrase and the linked about.buildconfig.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
 <!ENTITY about.buildconfig.beforeTheLink "Òbôczë ">
-<!ENTITY about.buildconfig.linkTitle     "Kònfigùracëjã brëkòwóną do kòmpilacëji">
+<!ENTITY about.buildconfig.linkTitle     "Kònfigùracjã brëkòwóną do kòmpilacji">
 <!-- LOCALIZATION NOTE (about.buildconfig.afterTheLink): note that there is no space between the linked about.buildconfig.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
 <!ENTITY about.buildconfig.afterTheLink  " negò wëdôwka.">
 
-<!ENTITY about.buildIdentifier        "Identifikatora kòmpilacëji:">
+<!ENTITY about.buildIdentifier        "Jidentifikatór kòmpilacji:">

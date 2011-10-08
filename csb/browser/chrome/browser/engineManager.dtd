@@ -10,9 +10,9 @@
 # jurk <jurk@linuxcsb.org>
 #
 -->
-<!ENTITY  engineManager.title       "Menadżera lëstë mòtorów szëkbë">
+<!ENTITY  engineManager.title       "Menadżer lëstë mòtorów szëkbë">
 <!ENTITY  engineManager.style       "min-width: 35em;">
-<!ENTITY  engineManager.intro       "Winstalowóné môsz pòstãpné mòtórë szëkbë">
+<!ENTITY  engineManager.intro       "Wjinstalowóné môsz pòstãpné mòtórë szëkbë">
 
 <!ENTITY  columnLabel.name          "Miono">
 <!ENTITY  columnLabel.keyword       "Kluczowé słowò">

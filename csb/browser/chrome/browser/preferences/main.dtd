@@ -4,7 +4,7 @@
 <!ENTITY startupPage.accesskey     "z">
 <!ENTITY startupHomePage.label     "wëskrzëni domôcą starnã">
 <!ENTITY startupBlankPage.label    "wëskrzeni pùstą starnã">
-<!ENTITY startupLastSession.label  "wëskrzëni òkna ë kôrtë z pòprzédny sesëji">
+<!ENTITY startupLastSession.label  "wëskrzëni òkna ë kôrtë pòprzédny sesji">
 <!ENTITY restoreOnDemand.label     "Nie zrëszôj kôrtów jasz bãdą brëkòwóné">
 <!ENTITY restoreOnDemand.accesskey "N">
 
@@ -34,7 +34,7 @@
 <!ENTITY alwaysAsk.accesskey "t">
 
 <!ENTITY addonsMgr.label               "Dodôwczi">
-<!ENTITY manageAddonsDescWin.label     "Zmieni òptacëje winstalowónych dodôwków">
-<!ENTITY manageAddonsDescUnix2.label   "Zmieni preferencëje winstalowónych dodôwków">
+<!ENTITY manageAddonsDescWin.label     "Zmieni òptacje wjinstalowónëch dodôwków">
+<!ENTITY manageAddonsDescUnix2.label   "Zmieni preferencje wjinstalowónëch dodôwków">
 <!ENTITY manageAddons.label            "Sprôwiôj dodôwkama…">
 <!ENTITY manageAddons.accesskey        "S">

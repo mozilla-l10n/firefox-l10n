@@ -20,93 +20,93 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Nie dało sã sparłãczec">
-<!ENTITY connectionFailure.longDesc "<p>Nimò, że adresa starnë wëdôwô sã bëc dobrą, przezérnik ni bëł w sztãdze sã sparłsczëc.</p><ul><li>Je na starna terôczasno nierzëstspnô? Jeżlë jo, to nót je spróbòwac pòzdze znowa.</li><li>Ni mòże przezérac téż jinszëch starnów? Jeżlë jo, to nót je sprôwdzëc czë sparłãczenié z sécą fùnkcjonërëje dobrze.</li><li>Je kòmpùtr brëkòwnika abò séc zabezpieczonô przez ògniową scanã abò serwerã proxy? Jich lëchô kònfigùracëjô mòże doprowôdzac do problemów w przezéraniu internetowich starnów.</li></ul>">
+<!ENTITY connectionFailure.longDesc "<p>Mimò, że adresa starnë wëdôwô sã bëc dobrą, przezérnik nie béł w sztãdze sã sparłãczëc.</p><ul><li>Je na starna terôczasno nieprzistãpnô? Jeżlë jo, to nót je spróbòwac pòzdze znowa.</li><li>Ni mòżesz przezérac téż jinszëch starnów? Jeżlë jo, to nót je sprôwdzëc czë sparłãczenié z sécą fùnkcjonëje dobrze.</li><li>Je kòmpùtr brëkòwnika abò séc zabezpieczonô przez ògniową scanã abò serwerã proxy? Jich lëchô kònfigùracjô mòże doprowôdzac do problemów w przezéraniu internetowich starnów.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Pòrt je zastrzeżóny z przëczënë bezpiekù">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Ni nalazłô serwera">
-<!ENTITY dnsNotFound.longDesc "<p>Przezérnik ni móg nalezc adresë serwera dlô pòdóny adresë.</p><ul><li>Nót je ùgwësnic sã, że wprowôdzonô adresa starnë je dobrô (np. <q><strong>www</strong>.mozilla.org</q>, a nié <q><strong>ww</strong>.mozilla.org</q>)</li><li>Czë abë na gwës starna  dali egzystëje? Czas ji registracëji móg ju ùńc.</li><li>Ni mòże òbzerac jinszich starnów? Nót je sprôwdzëc swòje sparłãczenié z sécą jakno ë nastôwë serwerów DNS.</li><li>Czë kòmpùtr brëkòwnika abò séc je zabezpieczonô przez ògniową zapòrã abò serwer proxy? Jich lëchô kònfigùracëjô mòże doprowôdzac do problemów z przezéraniem internetowich starnów.</li></ul>">
+<!ENTITY dnsNotFound.longDesc "<p>Przezérnik ni mógł nalezc adresë serwera dlô pòdóny adresë.</p><ul><li>Nót je ùgwësnic sã, że wprowôdzonô adresa starnë je dobrô (np. <q><strong>www</strong>.mozilla.org</q>, a ni <q><strong>ww</strong>.mozilla.org</q>)</li><li>Czë abë na gwës starna  dali egzystëje? Czas ji registracji mógł ju ùńc.</li><li>Ni mòże òbzerac jinszich starnów? Nót je sprôwdzëc swòje sparłãczenié z sécą jakno ë nastôwë serwerów DNS.</li><li>Czë kòmpùtr brëkòwnika abò séc je zabezpieczonô przez ògniową zapòrã abò serwer proxy? Jich lëchô kònfigùracjô mòże doprowôdzac do problemów z przezéranim internetowich starnów.</li></ul>">
 
 <!ENTITY fileNotFound.title "Nie jidze nalezc lopka">
-<!ENTITY fileNotFound.longDesc "<ul><li>Mòżlëwé, że nen lopk òstôł rëminãti, przeniosłi abò mô zmienioné miono.</li><li>Nót je òbôczëc, czë w dóny adrese ni ma felë pisënkù, w tim wiôlgòscë lëterów,  czë téż tipògraficznych felów.</li><li>Nót je ùgwësnic sã, że mô sã dobré prawa przëstãpù do przezeraniô starnë.</li></ul>">
+<!ENTITY fileNotFound.longDesc "<ul><li>Mòżlëwé, że nen lopk òstôł rëminãti, przeniosłi abò mô zmienioné miono.</li><li>Nót je òbôczëc, czë w dóny adrese ni ma felë pisënkù, w tim wiôlgòscë lëterów,  czë téż tipògraficznëch felów.</li><li>Nót je ùgwësnic sã, że mô sã dobré prawa przistãpù do przezeraniô starnë.</li></ul>">
 
 
 <!ENTITY generic.title "Ni mòże skùńczëc żądaniô">
-<!ENTITY generic.longDesc "<p>Dodôwnô wëdowiédzô ò ti problemie abò felë ni są terô przëstãpné.</p>">
+<!ENTITY generic.longDesc "<p>Dodôwnô wëdowiédzô ò ti problemie abò felë nie są terô przistãpné.</p>">
 
 <!ENTITY malformedURI.title "Lëchô adresa">
 <!ENTITY malformedURI.longDesc "<p>Dónô adresa je w nieznónym fòrmace.Nót je òbôczë, czë w adresowi lëstwie ni ma felów, a pò tim spróbòwac znowa.</p>">
 
 <!ENTITY netInterrupt.title "Òprzestóné sélanié pòdôwków">
-<!ENTITY netInterrupt.longDesc "<p>Przezérnik sparłãczëł sã, równak sparłãczenié òstało przerwóné przë sélaniu wëdowiédzë. Nót je spróbòwac znowa.</p><ul><li>Ni mòżész téż òbzérac jinszëch starnów? Nót je sprôwdzëc sparłãczenié z sécą.</li><li>Jeżlë dali są problemë, nót je sparłãczëc sã ze sprôwnikã sécë abò z dowòznikã internetowich ùsłëżnotów.</li></ul>">
+<!ENTITY netInterrupt.longDesc "<p>Przezérnik sparłãczył sã, równak sparłãczenié òstało przerwóné przë sélaniu wëdowiédzë. Nót je spróbòwac znowa.</p><ul><li>Ni mòżesz téż òbzérac jinszëch starnów? Nót je sprôwdzëc sparłãczenié z sécą.</li><li>Jeżlë dali są problemë, nót je sparłãczëc sã ze sprôwnikã sécë abò z dowòznikã internetowich ùsłëżnotów.</li></ul>">
 
 <!ENTITY netOffline.title "Trib offline">
 <!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li>
+  <li>Wcësni &quot;Spróbùjë jesz rôz&quot; żebë weńc online ë zladowac starnã znowa.</li>
 </ul>
 ">
 
 <!ENTITY contentEncodingError.title "Fela kòdowaniô zamkłoscë">
-<!ENTITY contentEncodingError.longDesc "<p>Starna chtërną chcesz òtemknąc ni mòże bëc wëskrzënionô, dlôte że brëkùje òna lëchich abò niewspierónëch fòrm kòmpresëji.</p><ul><li>Nót je dac wiédzã miéwcë starnë ò problemie.</li></ul>">
+<!ENTITY contentEncodingError.longDesc "<p>Starna chtërną chcesz òtemknąc ni mòże bëc wëskrzënionô, dlôte że brëkùje òna lëchich abò niewspierónëch fòrm kòmpresji.</p><ul><li>Nót je dac wiédzã miéwcë starnë ò problemie.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Niebezpieczny ôrt lopka">
 <!ENTITY unsafeContentType.longDesc "<ul>
-  <li>Proszã dac wiédzã miéwcë ti starnë ò tim problemie.</li>
+  <li>Proszã dac wiedzã miewcë ti starnë ò tim problemie.</li>
 </ul>">
 
 <!ENTITY netReset.title "Òprzestóné sparłączenié">
-<!ENTITY netReset.longDesc "<p>Sécowé sparłãczenié òprzestóné przë negòcjacëji.Spróbujë znowa.</p>">
+<!ENTITY netReset.longDesc "<p>Sécowé sparłãczenié òprzestóné przë negòcjacji. Spróbujë znowa.</p>">
 
-<!ENTITY netTimeout.title "Czas sparłãczenia skùńczëł sã">
-<!ENTITY netTimeout.longDesc "<p>Starna przez dłëgszi czas nie òdpòwiôdô na żądónné sparłãczenie ë przezérnik òprzestôł żdac na òdpòwiesc.</p><ul><li>Mòżlëwé, że serwer terôczasno nie robi abò je przecążony. Jeżlë jo, to je nót spróbòwac pòzdze znowa.</li><li>Ni mòże òbzerac jinszich starnów? Nót je sprôwdzëc sparłãczenié z sécą.</li><li>Je kòmpùtr brëkòwnika abò séc zazychrowónô ògniową scaną abò serwerã proxy? Tich lëchô kònfigùracëjô mòże prowôdzëc do problemów z przezéraniém internetowich starnów.</li><li>Jeżlë dali dô problemë, nót je sparłãczëc sã ze sprôwnikã sécë abò dowòznikã internetu.</li></ul>">
+<!ENTITY netTimeout.title "Czas sparłãczenia skùńczył sã">
+<!ENTITY netTimeout.longDesc "<p>Starna przez długszi czas nie òdpòwiôdô na żądóné sparłãczenie ë przezérnik òprzestôł żdac na òdpòwiesc.</p><ul><li>Mòżlëwé, że serwer terôczasno nie robi abò je przecążony. Jeżlë jo, to je nót spróbòwac pòzdze znowa.</li><li>Ni mòże òbzerac jinszich starnów? Nót je sprôwdzëc sparłãczenié z sécą.</li><li>Je kòmpùtr brëkòwnika abò séc zazychrowónô ògniową scaną abò serwerã proxy? Tich lëchô kònfigùracjô mòże prowôdzëc do problemów z przezéraniém internetowich starnów.</li><li>Jeżlë dali dô problemë, nót je sparłãczëc sã ze sprôwnikã sécë abò dowòznikã internetu.</li></ul>">
 
 <!ENTITY protocolNotFound.title "Nieznóny protokół">
-<!ENTITY protocolNotFound.longDesc "<p>Adresa zamëkô w se protokół (np. <q>wxyz://</q>), chtëren nie je rozpòznôwóny przez przezérnik. Przez to nie je òn w sztãdze pòprôwno sparłãczëc sã ze starną.</p><ul><li>Brëkùjesz mùltimediów abò jinszëch nietekstowich ùsłëżnotów? Sprôwdzë, czë starna ni mô dodôwnych wëmôganiów.</li><li>Òbsłużënk niejednych protokołów mòże chcec softwôrë abò wtëkôczów òd  bùntnowich producentów.</li></ul>">
+<!ENTITY protocolNotFound.longDesc "<p>Adresa zamëkô w se protokół (np. <q>wxyz://</q>), chtëren nie je rozpòznôwóny przez przezérnik. Przez to nie je òn w sztãdze pòprôwno sparłãczëc sã ze starną.</p><ul><li>Brëkùjesz mùltimediów abò jinszëch nietekstowëch ùsłëżnotów? Sprôwdzë, czë starna ni mô dodôwnëch wëmôganiów.</li><li>Òbsłużënk niejednëch protokołów mòże chcec softwôrë abò wtëkôczów òd bùntnowich producentów.</li></ul>">
 
-<!ENTITY proxyConnectFailure.title "Serwer proxy pòcësnął sparłãczenié">
-<!ENTITY proxyConnectFailure.longDesc "<p>Przezérnik je tak skònfigùrowóny, abë brëkòwac serwera proxy, chtëren pòcësnął sparłãczenié.</p><ul><li>Je kònfigùracëjô serwerów proxy w przezérnikù dobrô? Sprôwdzë nastôw ë spróbùjë znowa.</li><li>Ùgwësni sã, że serwer proxy zezwôlô na sparłãczenia z twòji sécë.</li><li>Jeżlë dali dô problemë, sparłãczë sã ze sprôwnikã sécë, abò dowòznikã internetu.</li></ul>">
+<!ENTITY proxyConnectFailure.title "Serwer proxy pòcysnął sparłãczenié">
+<!ENTITY proxyConnectFailure.longDesc "<p>Przezérnik je tak skònfigùrowóny, abë brëkòwac serwera proxy, chtëren pòcysnął sparłãczenié.</p><ul><li>Je kònfigùracjô serwerów proxy w przezérnikù dobrô? Sprôwdzë nastôw ë spróbùjë znowa.</li><li>Ùgwësni sã, że serwer proxy zezwôlô na sparłãczenia z twòji sécë.</li><li>Jeżlë dali dô problemë, sparłãczë sã ze sprôwnikã sécë, abò dowòznikã internetu.</li></ul>">
 
 <!ENTITY proxyResolveFailure.title "Nie jidze nalezc serwera proxy">
-<!ENTITY proxyResolveFailure.longDesc "<p>Przezérnik je tak skònfigùrowny, abë brëkòwac serwera proxy, równak nen ni mòże bëc nalazłi.</p><ul><li>Je kònfigùracëjô serwerów proxy dobrô? Nót je sprôwdzëc nastôw ë spróbòwac znowa.</li><li>Je kòmpùtr sparłãczony z robiącą sécą?</li><li>Jeżlë dali dô problemë, sparłãczë sã ze sprôwnikã sécë, abò dowòznikã internetu.</li></ul>">
+<!ENTITY proxyResolveFailure.longDesc "<p>Przezérnik je tak skònfigùrowny, abë brëkòwac serwera proxy, równak nen ni mòże bëc nalazłi.</p><ul><li>Je kònfigùracjô serwerów proxy dobrô? Nót je sprôwdzëc nastôw ë spróbòwac znowa.</li><li>Je kòmpùtr sparłãczony z robiącą sécą?</li><li>Jeżlë dali dô problemë, sparłãczë sã ze sprôwnikã sécë, abò dowòznikã internetu.</li></ul>">
 
 <!ENTITY redirectLoop.title "Òpãtlo przeczérowaniów">
-<!ENTITY redirectLoop.longDesc "<p>Przezérnik òprzestół próbã zladënkù żądónegò elementu. Starna przeczérowùje żądanié na ôrt, chtëren nie dôwô mòżnotë jegò skùńczeniô.</p><ul><li>Są kùszczi wëłączoné abò zablokòwóné dlô ti starnë?</li><li><em>BÔCZËNK</em>: Jeżlë włączenié òbsłużënkù kùszków dlô ti starnë nie rozwiąże problemu, je to prôwdopòdodno problem kònfigùracëji serwera, a ni twòjegò kòmpùtra.</li></ul>">
+<!ENTITY redirectLoop.longDesc "<p>Przezérnik òprzestół próbã zladënkù żądónegò elementu. Starna przeczérowùje żądanié na ôrt, chtëren nie dôwô mòżnotë jegò skùńczeniô.</p><ul><li>Są kùszczi wëłączoné abò zablokòwóné dlô ti starnë?</li><li><em>BÔCZËNK</em>: Jeżlë włączenié òbsłużënkù kùszków dlô ti starnë nie rozwiąże problemu, je to prôwdopòdodno problem kònfigùracji serwera, a ni twòjegò kòmpùtra.</li></ul>">
 
-<!ENTITY unknownSocketType.title "Léchô òdpòwiesc serwera">
+<!ENTITY unknownSocketType.title "Lëchô òdpòwiesc serwera">
 <!ENTITY unknownSocketType.longDesc "<p>Starna òdpòwiedza na niespòdzajny  ôrt ë przezérnik ni mòże jisc dali.</p>">
 
 <!ENTITY nssFailure2.title "Felënk bezpiecznegò sparłãczenia">
 <!ENTITY nssFailure2.longDesc "<p>Niżódnô starna ni mòże bëc wëskrzënionô, temù że nie dało sã pòtwierdzëc prôwdzëwòtë dobëtich pòdôwków.</p><ul><li>Nót je sparłãczëc sã z miéwcą starnë ë dac mù wiedzã ò problemie.</li></ul>">
 
-<!ENTITY nssBadCert.title "Felënk bezpiecznégò sparłãczenia">
+<!ENTITY nssBadCert.title "Felënk bezpiecznegò sparłãczenia">
 <!ENTITY nssBadCert.longDesc2 "<ul>
-<li>Przëczëną tegò mòże bëc lëchô kònfigùracëjô serwera abò próba pòdôwaniô sã nen serwer przez kògòs nieùprawnionegò.</li>
-<li>Jeżlë brëkòwnik parłãczëł sã ju rëchli z tim serwerã, to fela mòże bëc le terôczasnô - w taczim przëtrôfkù nót je spróbòwac znowa.</li>
+<li>Przëczëną tegò mòże bëc lëchô kònfigùracjô serwera abò próba pòdôwaniô sã nen serwer przez kògòs nieùprawnionegò.</li>
+<li>Jeżlë brëkòwnik parłãczył sã ju rëchli z tim serwerã, to fela mòże bëc le terôczasnô - w taczim przëtrôfkù nót je spróbòwac znowa.</li>
 </ul>">
 
 <!ENTITY sharedLongDesc "
 <ul>
-  <li>Na starna mòże bëc terczasno nieprzëstãpnô abò zajãtô. Spróbùjë znowa za sztócëk.</li>
+  <li>Na starna mòże bëc terczasno nieprzistãpnô abò zajãtô. Spróbùjë znowa za sztócëk.</li>
   <li>Jeżlë ni mòżesz zaladowac niżódny starnë, sprôwdzë ùstôwë swòjégò sécowégò sparłãczeniô.</li>
   <li>Jeżlë twòj kòmpùtr abò séc je chronionô przez firewall abò proxy, sprôwdzë, czë program &brandShortName; mô prawa przëstãpù do Internetu.</li>
 </ul>
 ">
 
 <!ENTITY malwareBlocked.title "Starna mòże przeprowôdzac ataczi!">
-<!ENTITY malwareBlocked.longDesc "<p>Negò ôrtu starnë mògą próbòwac winstalowac program kradzącé krëjamné pòdôwczi, brëkùjąc twòjegò kòmpùtra do pòstrzédniczeniô w atakach abò zepsëc twój system.</p>
+<!ENTITY malwareBlocked.longDesc "<p>Negò ôrtu starnë mògą próbòwac wjinstalowac program kradzącé krëjamné pòdôwczi, brëkùjąc twòjegò kòmpùtra do pòstrzédniczeniô w atakach abò zepsëc twój system.</p>
 <p>Miéwcë starnów, chtërné zmiłkòwò òstałë ùznóne za przeprowôdzające ataczi, mògą <a href='http://www.stopbadware.org/home/reviewinfo'>pòproszëc ò nowé jich sprôwdzenié</a>.</p>">
 
 <!ENTITY phishingBlocked.title "Prôwdoòdobné szachrajstwò!">
 <!ENTITY phishingBlocked.longDesc "<p>Wpisanié wëdowiédzë ò se na ny starnie mòże doprowôdzëc do skradzëniô identifikacëji czë jinszi szkòdë.</p>
 <p>Negò ôrtu szachrajstwa przezëwô sã jakno phishing. Nen atak to ùsôdzaznié przez przekroczników starnë szlachùjący za òridżinalną abò wiadła ùdôwającegò zdrój trzëmóny za zycher.</p>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blokòwóné przez Pòlitikã Bezpiékù Zamkłoscë">
+<!ENTITY cspFrameAncestorBlocked.title "Blokòwóné przez Pòlitikã Bezpiekù Zamkłoscë">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Program &brandShortName; ùniemòżebnił ny starnié zaladowanié na nen ôrt, bò mô òna taką pòlitkiã zamkłoscë chtërnô na to nie pòzwôlô.</p>">
 
-<!ENTITY corruptedContentError.title "Corrupted Content Error">
-<!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
+<!ENTITY corruptedContentError.title "Fela ùszkòdzony zamkłoscë">
+<!ENTITY corruptedContentError.longDesc "<p>Ni mógł wëskrzënic starnë bò pòkaza sã fela w transmisji przëdôwków.</p><ul><li>Proszë sparłãczë są z miewcą twòji sécë ë pòprosë ò pòmòc.</li></ul>">
 
 
 <!ENTITY securityOverride.linkText "Mòżesz téż dodac wëjimk…">
@@ -118,11 +118,11 @@ contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningContent "<p>Lepi bë bëło nie dodawac wëjimków, jeżlë brëkùjesz internetowégò pòłączeniô jaczémù do kùńca nie mòżesz dowierzëc abò jeżlë të jesz nie widzôł òstrzégów z ti serwerë.</p>
+<!ENTITY securityOverride.warningContent "<p>Lepi nie dodawac wëjimków, jeżlë môsz internetowé sparłãczenié chtërnemù do kùńca nie dowierzôsz abò jeżlë ni môsz dostóné niżódnëch òstrzégów.</p>
 
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
 
 <!ENTITY remoteXUL.title "Zdalné XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Proszã dac wiédzã miéwcë ti starnë ò tim problemie.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Proszã dac wiedzã miéwcë ti starnë ò tim problemie.</li></ul></p>">

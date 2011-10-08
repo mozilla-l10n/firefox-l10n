@@ -31,7 +31,7 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Brëkùjë lejnegò przewijaniô">
 <!ENTITY useSmoothScrolling.accesskey    "l">
-<!ENTITY allowHWAccel.label              "Brëkùjë sprzãtowégò wspòmaganiô czedë je przëstãpné">
+<!ENTITY allowHWAccel.label              "Brëkùjë sprzãtowégò wspòmaganiô czedë je przistãpné">
 <!ENTITY allowHWAccel.accesskey          "B">
 <!ENTITY checkSpelling.label             "Sprôwdzë pisënk przë wpisëwaniu tekstu">
 <!ENTITY checkSpelling.accesskey         "t">
@@ -41,7 +41,7 @@
 <!ENTITY alwaysCheckDefault.accesskey    "p">
 <!ENTITY checkNow.label                  "Sprôwdzë terô">
 <!ENTITY checkNow.accesskey              "S">
-<!ENTITY submitCrashes.label             "Sélanié rapòrtów ò awarëjach">
+<!ENTITY submitCrashes.label             "Sélanié rapòrtów ò awarjach">
 <!ENTITY submitCrashes.accesskey         "S">
 <!ENTITY submitTelemetry.label           "Wëslë pòdôwczi ò wëdajnoscë">
 <!ENTITY submitTelemetry.accesskey       "p">
@@ -70,26 +70,26 @@
 <!ENTITY overrideSmartCacheSize.label    "Nôdpiszë automaticzné sprôwianié pòdrãczną pamiãcą">
 <!ENTITY overrideSmartCacheSize.accesskey "o">
 
-<!ENTITY updateTab.label                 "Aktualizacëjô">
+<!ENTITY updateTab.label                 "Aktualizacjô">
 
-<!ENTITY autoCheck.label                 "Sprôwdzôj automatno przëstãpnotã aktualizacëji dlô:">
+<!ENTITY autoCheck.label                 "Sprôwdzôj automatno przistãpnotã aktualizacji dlô:">
 <!ENTITY enableAppUpdate.label           "programù &brandShortName;">
 <!ENTITY enableAppUpdate.accesskey       "p">
-<!ENTITY enableAddonsUpdate2.label       "Przëdôwczi">
+<!ENTITY enableAddonsUpdate2.label       "Dodôwczi">
 <!ENTITY enableAddonsUpdate2.accesskey   "P">
-<!ENTITY enableSearchUpdate.label        "szëkôrzów">
-<!ENTITY enableSearchUpdate.accesskey    "w">
-<!ENTITY whenUpdatesFound.label          "Jeżlë bãdą nalazłé aktualizacëje dlô programù &brandShortName;:">
+<!ENTITY enableSearchUpdate.label        "Szëkôsze">
+<!ENTITY enableSearchUpdate.accesskey    "k">
+<!ENTITY whenUpdatesFound.label          "Jeżlë bãdą nalazłé aktualizacje dlô programù &brandShortName;:">
 <!ENTITY askMe.label                     "pëtôj mie co móm robic">
 <!ENTITY askMe.accesskey                 "p">
-<!ENTITY modeAutomatic.label             "automatno zladëjë ë winstalëjë aktualizacëje">
+<!ENTITY modeAutomatic.label             "automatno zladëjë ë wjinstalëjë aktualizacje">
 <!ENTITY modeAutomatic.accesskey         "a">
-<!ENTITY modeAutoAddonWarn.label         "Òstrzégôj, jeżlë aktualizacëjô doprowôdzy do wëłączeniô przëdôwków">
+<!ENTITY modeAutoAddonWarn.label         "Òstrzégôj, jeżle aktualizacjô doprowôdzy do wëłączeniô przëdôwków">
 <!ENTITY modeAutoAddonWarn.accesskey     "w">
-<!ENTITY updateHistory.label             "Wëskrzëni histrorëjã aktualizacëji">
+<!ENTITY updateHistory.label             "Wëskrzëni histroriã aktualizacji">
 <!ENTITY updateHistory.accesskey         "h">
 
-<!ENTITY offlineNotify.label             "Dôwôj wiédzã jeżlë internetowô starna pëtô ò mòżnotã trzëmaniô pòdôwków w tribie offline">
+<!ENTITY offlineNotify.label             "Dôwôj wiedzã jeżlë internetowô starna pëtô ò mòżnotã trzëmaniô pòdôwków w tribie offline">
 <!ENTITY offlineNotify.accesskey         "D">
 <!ENTITY offlineNotifyExceptions.label   "Wëjimczi…">
 <!ENTITY offlineNotifyExceptions.accesskey "W">
@@ -117,7 +117,7 @@
 <!ENTITY viewCerts.accesskey             "e">
 <!ENTITY viewCRLs.label                  "Lëstë òdwòłaniô">
 <!ENTITY viewCRLs.accesskey              "L">
-<!ENTITY verify2.label                   "Werifikacëjô">
+<!ENTITY verify2.label                   "Werifikacjô">
 <!ENTITY verify2.accesskey               "j">
 <!ENTITY viewSecurityDevices.label       "Ùrządzenia bezpiekù">
 <!ENTITY viewSecurityDevices.accesskey   "d">

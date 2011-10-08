@@ -22,7 +22,7 @@
 <!ENTITY  textColor.accesskey             "t">
 <!ENTITY  backgroundColor.label           "Spòdlé:">
 <!ENTITY  backgroundColor.accesskey       "S">
-<!ENTITY  useSystemColors.label           "Brëkùjë systemòwich farwów">
+<!ENTITY  useSystemColors.label           "Brëkùjë systemòwëch farwów">
 <!ENTITY  useSystemColors.accesskey       "s">
 
 <!ENTITY  underlineLinks.label            "Pòdsztëchiwôj lënczi">

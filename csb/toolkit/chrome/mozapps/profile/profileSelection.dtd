@@ -45,7 +45,7 @@
 <!ENTITY            start.label            "Zrëszë programã &brandShortName;">
 <!ENTITY            exit.label             "Zakùńczë">
 
-<!ENTITY            availprofiles.label    "Przëstãpné profile">
+<!ENTITY            availprofiles.label    "Przistãpné profile">
 
 <!ENTITY            newButton.label        "Ùsôdzë nowi profil…">
 <!ENTITY            newButton.accesskey    "n">
@@ -55,7 +55,7 @@
 <!ENTITY            deleteButton.accesskey "R">
 
 <!-- manager entities -->
-<!ENTITY            pmDescription.label    "&brandShortName; trzëmô wëdowiédzã ò nastôwach ë preferencëjach brëkòwnika w profilu.">
+<!ENTITY            pmDescription.label    "&brandShortName; trzëmô wëdowiédzã ò nastôwach ë preferencjach brëkòwnika w profilu.">
 
 <!ENTITY            offlineState.label    "Robi w tribie offline">
 <!ENTITY            offlineState.accesskey "o">

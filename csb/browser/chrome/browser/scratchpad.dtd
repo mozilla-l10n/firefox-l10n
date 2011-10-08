@@ -48,7 +48,7 @@
 <!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "Z">
 
-<!ENTITY editMenu.label               "Edicëjô">
+<!ENTITY editMenu.label               "Edicjô">
 <!ENTITY editMenu.accesskey           "E">
 
 <!ENTITY undoCmd.label                "Copni">

@@ -5,5 +5,5 @@
 <!ENTITY setPassword.reenterPassword.label "Wpiszë znowa nową parolã:">
 <!ENTITY setPassword.meter.label           "Wskôzôwôcz krôftu parolë">
 <!ENTITY setPassword.meter.loading         "Ladowanié">
-<!ENTITY masterPasswordDescription.label   "Przédnô parola je brëkòwónô do zazychrowaniô priwatny wëdowiédzë, taczich jakno parole dlô starnów. Jeżlë ùsôdzysz przédną parolã, bãdzesz ò niã proszony w kòżdi sesëji, jak &brandShortName; bãdze brëkòwôł zazychrowónych ną parolą pòdôwków.">
-<!ENTITY masterPasswordWarning.label       "Proszã spamiãtac twòja przédną parolã. Jeżlë jã zabëjesz, to stracysz téż przëstãp do wszëtczich nią zazychrowónych wëdowiédzë.">
+<!ENTITY masterPasswordDescription.label   "Przédnô parola je brëkòwónô do zazychrowaniô priwatny wëdowiédzë, taczich jakno parole dlô starnów. Jeżlë ùsôdzysz przédną parolã, bãdzesz ò niã proszony w kòżdi sesji, jak &brandShortName; bãdze brëkòwôł zazychrowónych ną parolą pòdôwków.">
+<!ENTITY masterPasswordWarning.label       "Proszã spamiãtac twòja przédną parolã. Jeżlë jã zabëjesz, to stracysz téż przistãp do wszëtczich nią zazychrowónëch wëdowiédzë.">

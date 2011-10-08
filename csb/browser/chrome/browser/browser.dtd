@@ -38,7 +38,7 @@ used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-<!ENTITY  pinAppTab.label                    "Przëwôrnié jakno kôrtã aplikacëji">
+<!ENTITY  pinAppTab.label                    "Przëwôrnié jakno kôrtã aplikacji">
 <!ENTITY  pinAppTab.accesskey                "n">
 <!ENTITY  unpinAppTab.label                  "Òdhôkni kôrtã">
 <!ENTITY  unpinAppTab.accesskey              "n">
@@ -77,7 +77,7 @@ can reach it easily. -->
 
 <!ENTITY menubarCmd.label "Lëstew menu">
 <!ENTITY menubarCmd.accesskey "m">
-<!ENTITY navbarCmd.label "Lëstew nawigacjowich nôrzãdzów">
+<!ENTITY navbarCmd.label "Lëstew nawigacjowëch nôrzãdzów">
 <!ENTITY navbarCmd.accesskey "n">
 <!ENTITY personalbarCmd.label "Lëstew załóżków">
 <!ENTITY personalbarCmd.accesskey "z">
@@ -125,8 +125,8 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "Do przódkù">
 <!ENTITY forwardCmd.accesskey         "P">
 <!ENTITY forwardButton.tooltip        "Biéj jedną starnã do przódkù">
-<!ENTITY backForwardButtonMenu.tooltip "Klëkni prawą knąpã abò przecëgni żebë wëskrzenic historëjô">
-<!ENTITY backForwardButtonMenuMac.tooltip "Przecëgni żebë wëskrzenic historëjô">
+<!ENTITY backForwardButtonMenu.tooltip "Klëkni prawą knąpã abò przecygni żebë wëskrzenic historiã">
+<!ENTITY backForwardButtonMenuMac.tooltip "Przecygni żebë wëskrzenic historiã">
 <!ENTITY reloadCmd.label              "Zladëjë znowa">
 <!ENTITY reloadCmd.accesskey          "O">
 <!ENTITY reloadButton.tooltip         "Zladëjë tã starnã znowa">
@@ -172,7 +172,7 @@ can reach it easily. -->
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
-<!ENTITY historyButton.label            "Historëjô">
+<!ENTITY historyButton.label            "Historiô">
 <!ENTITY historyButton.tooltip          "Wëskrzëni slédno òbzéróné starnë">
 <!ENTITY historySidebarCmd.accesskey    "H">
 <!ENTITY historySidebarCmd.commandKey   "h">
@@ -200,7 +200,7 @@ can reach it easily. -->
 <!ENTITY errorConsoleCmd.accesskey    "K">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY webConsoleCmd.label          "Nétowô kònsola">
+<!ENTITY webConsoleCmd.label          "Kònsola WWW">
 <!ENTITY webConsoleCmd.accesskey      "n">
 <!ENTITY webConsoleCmd.commandkey     "k">
 
@@ -219,7 +219,7 @@ can reach it easily. -->
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
 <!ENTITY scratchpad.label             "Czôrnopis">
-<!ENTITY scratchpad.accesskey         "B">
+<!ENTITY scratchpad.accesskey         "C">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
@@ -228,7 +228,7 @@ can reach it easily. -->
 <!ENTITY inspectButton.accesskey      "ô">
 
 <!ENTITY inspectContextMenu.label     "Sprôwdzë Element">
-<!ENTITY inspectContextMenu.accesskey "Q">
+<!ENTITY inspectContextMenu.accesskey "E">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Nalezë wicy nôrzãdzów">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "N">
@@ -239,7 +239,7 @@ can reach it easily. -->
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
 
-<!ENTITY editMenu.label         "Edicëjô"> 
+<!ENTITY editMenu.label         "Edicjô"> 
 <!ENTITY editMenu.accesskey       "E"> 
 <!ENTITY undoCmd.label            "Copni">  
 <!ENTITY undoCmd.key            "Z">  
@@ -262,12 +262,12 @@ can reach it easily. -->
 <!ENTITY selectAllCmd.label         "Wëbierzë wszëtkò">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "w"> 
-<!ENTITY preferencesCmd2.label       "Òptacëje">
+<!ENTITY preferencesCmd2.label       "Òptacje">
 <!ENTITY preferencesCmd2.accesskey     "Ò">
-<!ENTITY preferencesCmdUnix.label       "Preferencëje">
+<!ENTITY preferencesCmdUnix.label       "Preferencje">
 <!ENTITY preferencesCmdUnix.accesskey     "r"> 
 
-<!ENTITY clearRecentHistory.label               "Wëczëszczë historëjã przezéraniô…">
+<!ENTITY clearRecentHistory.label               "Wëczëszczë historiã przezéraniô…">
 <!ENTITY clearRecentHistory.accesskey           "h">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
@@ -287,21 +287,21 @@ can reach it easily. -->
 <!ENTITY viewSidebarMenu.accesskey "B">
 <!ENTITY viewCustomizeToolbar.label       "Dopasëjë…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "D">
-<!ENTITY viewTabsOnTop.label            "Kôrtë na wiérzchù">
+<!ENTITY viewTabsOnTop.label            "Kôrtë na wierzchù">
 <!ENTITY viewTabsOnTop.accesskey        "K">
 
-<!ENTITY historyMenu.label "Historëjô">
+<!ENTITY historyMenu.label "Historiô">
 <!ENTITY historyMenu.accesskey "h">
 <!ENTITY historyUndoMenu.label "Slédno zamkłé kôrtë">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Slédno zamkłé òkna">
-<!ENTITY historyRestoreLastSession.label "Przëwrócë pòprzédną sesëjã">
+<!ENTITY historyRestoreLastSession.label "Przëwrócë pòprzédną sesjã">
 
 <!ENTITY historyHomeCmd.label "Domôcô starna">
-<!ENTITY showAllHistoryCmd2.label "Wëskrzëni całowną historëjã">
+<!ENTITY showAllHistoryCmd2.label "Wëskrzëni całowną historiã">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuEdit.label "Edicëjô">
+<!ENTITY appMenuEdit.label "Edicjô">
 <!ENTITY appMenuCustomize.label "Dopasëjë">
 <!ENTITY appMenuToolbarLayout.label "Pòzdrzatk lëstwë nôrzãdzów…">
 <!ENTITY appMenuSidebars.label "Bòczné lëstwë">
@@ -309,7 +309,7 @@ can reach it easily. -->
 <!ENTITY appMenuUnsorted.label "Niepòzortowóné załóżczi">
 <!ENTITY appMenuWebDeveloper.label "Deweloper">
 <!ENTITY appMenuGettingStarted.label "Zaczątk">
-<!ENTITY appMenuSafeMode.label "Zrëszë znowa z wëłączonéma dodôwkama…">
+<!ENTITY appMenuSafeMode.label "Zrëszë znowa z wëłączonyma dodôwkama…">
 <!ENTITY appMenuSafeMode.accesskey "Z">
 
 <!ENTITY openCmd.commandkey           "l">
@@ -513,7 +513,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "Editëjë preferencëje blokadë wëskakùjącëch òknów…">
+<!ENTITY editPopupSettingsUnix.label "Editëjë preferencje blokadë wëskakùjącëch òknów…">
 <!ENTITY editPopupSettings.label "Editëjë nastôwë blokadë wëskakùjącëch òknów…">
 <!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "N">

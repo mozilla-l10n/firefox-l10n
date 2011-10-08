@@ -46,57 +46,57 @@
 <!ENTITY certmgr.tab.mine                     "Twòje certifikatë">
 <!ENTITY certmgr.tab.others2                  "Lëdze">
 <!ENTITY certmgr.tab.websites3                "Serwerë">
-<!ENTITY certmgr.tab.ca                       "Òrgan werifikacëji">
+<!ENTITY certmgr.tab.ca                       "Òrgan werifikacji">
 <!ENTITY certmgr.tab.orphan2                  "Reszta">
 
 <!ENTITY certmgr.ca.builtins                  "Wbùdowóné CAs">
-<!ENTITY certmgr.ca.mycas                     "Twòje òrganë werifikacëji(CA)">
+<!ENTITY certmgr.ca.mycas                     "Twòje òrganë werifikacji(CA)">
 
-<!ENTITY certmgr.mine                         "Certifikatë z nych òrganów werifikacëji mają wëdowiédzã ò ce:">
+<!ENTITY certmgr.mine                         "Certifikatë z nëch òrganów werifikacji mają wëdowiédzã ò Ce:">
 <!ENTITY certmgr.others                       "Môsz certifikatë tich lëdzy:">
 <!ENTITY certmgr.websites2                    "Môsz certifikatë z nych serwerów:">
-<!ENTITY certmgr.cas                          "Môsz certifikatë nych òrganów werifikacëji:">
-<!ENTITY certmgr.orphans                      "Ne certifikatë nié pasëją do niżódny kategòrëji:">
+<!ENTITY certmgr.cas                          "Môsz certifikatë nych òrganów werifikacji:">
+<!ENTITY certmgr.orphans                      "Ne certifikatë nie pasëją do niżódny kategòrii:">
 
 <!ENTITY certmgr.detail.general_tab.title     "Òglowé">
 <!ENTITY certmgr.detail.general_tab.accesskey "g">
 <!ENTITY certmgr.detail.prettyprint_tab.title "Detale">
 <!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
 
-<!ENTITY certmgr.pending.label                "Dérëje werifikacëjô certifikatu…">
+<!ENTITY certmgr.pending.label                "Dérëje werifikacjô certifikatu…">
 <!ENTITY certmgr.subjectinfo.label            "Wëstôwiony dlô">
 <!ENTITY certmgr.issuerinfo.label             "Wëstôwióny przez">
 <!ENTITY certmgr.validity.label               "Wôżnota" >
 <!ENTITY certmgr.fingerprints.label           "Òdtłok palca">
 <!ENTITY certmgr.certdetail.title             "Detale certifikatu">
 <!ENTITY certmgr.certdetail.cn                "Zwëczajné miono (CN)">
-<!ENTITY certmgr.certdetail.o                 "Òrganizacëjô (O)">
-<!ENTITY certmgr.certdetail.ou                "Jednostka òrganizacëji (OU)">
+<!ENTITY certmgr.certdetail.o                 "Òrganizacjô (O)">
+<!ENTITY certmgr.certdetail.ou                "Jednostka òrganizacji (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "Numer seriowy">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "Òbcësk palca SHA1">
 <!ENTITY certmgr.certdetail.md5fingerprint    "Òbcësk palca MD5">
 
-<!ENTITY certmgr.editcert.title               "Editëjë nastôwé certifikatù bezpiekù">
-<!ENTITY certmgr.editcacert.title             "Editëje nastôwé wiarë Òrganu Certifikacëji (CA)">
-<!ENTITY certmgr.editsslcert.title            "Editëjë nastôwé certifikatù bezpiekù starnë">
-<!ENTITY certmgr.editcert.edittrust           "Editëjë nastôwé wiarë:">
+<!ENTITY certmgr.editcert.title               "Editëjë nastôwë certifikatù bezpiekù">
+<!ENTITY certmgr.editcacert.title             "Editëje nastôwë wiarë Òrganu Certifikacji (CA)">
+<!ENTITY certmgr.editsslcert.title            "Editëjë nastôwë certifikatù bezpiekù starnë">
+<!ENTITY certmgr.editcert.edittrust           "Editëjë nastôwë wiarë:">
 <!ENTITY certmgr.editcert.trustssl            "Nen certifikat mòże rozszlachòwac starnë internetowé.">
 <!ENTITY certmgr.editcert.trustemail          "Nen certifikat mòże rozszlachòwac e-mailowëch brëkòwników.">
 <!ENTITY certmgr.editcert.trustobjsign        "Nen certifikat mòże rozszlachòwac firmë softwôrowé.">
-<!ENTITY certmgr.editsslcert.edittrust        "Editëjë nastôwé wiarë certifikatù:">
-<!ENTITY certmgr.editsslcert.dotrust          "Dôj wiarã prôwdzëwòce negò certifikatu.">
-<!ENTITY certmgr.editsslcert.donttrust        "Nié dôj wiarë prôwdzëwòce negò certifikatu.">
-<!ENTITY certmgr.editemailcert.title          "Editëjë nastôwé wiarë certifikatù e-maila">
-<!ENTITY certmgr.editemailcert.edittrust      "Editëjë nastôwé wiarë certifikatù:">
-<!ENTITY certmgr.editemailcert.dotrust        "Dôj wiarã prôwdzëwòce negò certifikatu.">
-<!ENTITY certmgr.editemailcert.donttrust      "Nié dôj wiarë prôwdzëwòce negò certifikatu.">
+<!ENTITY certmgr.editsslcert.edittrust        "Editëjë nastôwë wiarë certifikatù:">
+<!ENTITY certmgr.editsslcert.dotrust          "Dôj wiarã prôwdzëwòtë negò certifikatu.">
+<!ENTITY certmgr.editsslcert.donttrust        "Nie dôj wiarë prôwdzëwòtë negò certifikatu.">
+<!ENTITY certmgr.editemailcert.title          "Editëjë nastôwë wiarë certifikatù e-maila">
+<!ENTITY certmgr.editemailcert.edittrust      "Editëjë nastôwë wiarë certifikatù:">
+<!ENTITY certmgr.editemailcert.dotrust        "Dôj wiarã prôwdzëwòtë negò certifikatu.">
+<!ENTITY certmgr.editemailcert.donttrust      "Nie dôj wiarë prôwdzëwòtë negò certifikatu.">
 
 <!ENTITY certmgr.deletecert.title             "Rëmôj certifikat">
 <!ENTITY certmgr.deletecert.beforename        "Chcesz rëmnąc nen certifikat:">
 <!ENTITY certmgr.deletecert.aftername         "Jes gwës że chcesz rëmnąc nen certifikat?">
 <!ENTITY certmgr.deleteusercert.title         "Rëmôj certifikat">
 <!ENTITY certmgr.deleteusercert.beforename    "Chcesz rëmnąc nen certifikat:">
-<!ENTITY certmgr.deleteusercert.aftername     "Pò rëmniãcim certifikatù nié bãdzesz móg ju wicy òtemknąc e-mailów nim zaszifrowónëch.">
+<!ENTITY certmgr.deleteusercert.aftername     "Pò rëmniãcym certifikatù nie bãdzesz mógł ju wicy òtemknąc e-mailów nim zaszifrowónëch.">
 
 <!ENTITY certmgr.certname                     "Miono certifikatu">
 <!ENTITY certmgr.certserver                   "Serwer">
@@ -111,7 +111,7 @@
 <!ENTITY certmgr.close.accesskey              "Z">
 <!ENTITY certmgr.view2.label                  "Pòdzérk…">
 <!ENTITY certmgr.view2.accesskey              "P">
-<!ENTITY certmgr.edit3.label                  "Editëje dowiérzanié…">
+<!ENTITY certmgr.edit3.label                  "Editëje dowierzanié…">
 <!ENTITY certmgr.edit3.accesskey              "E">
 <!ENTITY certmgr.editca.label                 "Editëje nastôwé wiarë CA">
 <!ENTITY certmgr.editca.accesskey             "d">
@@ -121,7 +121,7 @@
 <!ENTITY certmgr.export.accesskey             "E">
 <!ENTITY certmgr.delete2.label                "Rëmôj…">
 <!ENTITY certmgr.delete2.accesskey            "R">
-<!ENTITY certmgr.delete_builtin.label         "Rëmôj abò niedowiérzôj…">
+<!ENTITY certmgr.delete_builtin.label         "Rëmôj abò niedowierzôj…">
 <!ENTITY certmgr.delete_builtin.accesskey     "d">
 <!ENTITY certmgr.backup2.label                "Zazychrowanié…">
 <!ENTITY certmgr.backup2.accesskey            "Z">
@@ -133,7 +133,7 @@
 <!ENTITY certmgr.details.accesskey            "P">
 <!ENTITY certmgr.fields.label                 "Wôrtnota pòlów">
 <!ENTITY certmgr.fields.accesskey             "W">
-<!ENTITY certmgr.hierarchy.label              "Hierarchëjô certifikatów">
+<!ENTITY certmgr.hierarchy.label              "Hierarchiô certifikatów">
 <!ENTITY certmgr.hierarchy.accesskey          "c">
 <!ENTITY certmgr.addException.label           "Dodôj wëjimk…">
 <!ENTITY certmgr.addException.accesskey       "D">
@@ -141,13 +141,13 @@
 <!ENTITY exceptionMgr.title                   "Dodôj wëjimk bezpiekù">
 <!ENTITY exceptionMgr.exceptionButton.label   "Pòcwierdzë wëjimk bezpiekù">
 <!ENTITY exceptionMgr.exceptionButton.accesskey "c">
-<!ENTITY exceptionMgr.supplementalWarning     "Ùtcëwé banki, krómë, ë jinsze pùbliczné starnë negò nié żądają.">
+<!ENTITY exceptionMgr.supplementalWarning     "Ùtcëwé banczi, krómë, ë jinsze pùbliczné starnë negò nie żądają.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Serwer">
 <!ENTITY exceptionMgr.certlocation.url        "Adresa:">
 <!ENTITY exceptionMgr.certlocation.download   "Dobëjë certifikatë">
-<!ENTITY exceptionMgr.certlocation.accesskey  "G">
+<!ENTITY exceptionMgr.certlocation.accesskey  "c">
 <!ENTITY exceptionMgr.certstatus.caption      "Stón certifikatu">
 <!ENTITY exceptionMgr.certstatus.viewCert     "Wëskrzëni…">
-<!ENTITY exceptionMgr.certstatus.accesskey    "V">
+<!ENTITY exceptionMgr.certstatus.accesskey    "W">
 <!ENTITY exceptionMgr.permanent.label         "Zapiszë nen wëjimk">
 <!ENTITY exceptionMgr.permanent.accesskey     "p">

@@ -11,19 +11,19 @@
 # jurk <jurk@linuxcsb.org>
 #
 -->
-<!ENTITY restorepage.tabtitle       "Doprowôdzanié sesëji nazôd">
+<!ENTITY restorepage.tabtitle       "Doprowôdzanié sesji nazôd">
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 <!ENTITY restorepage.errorTitle     "Przeprôszómë!">
-<!ENTITY restorepage.problemDesc    "Program &brandShortName; napôtkôł problémë przë nôprawie òknów i załóżków. Zwëkòwò pòwòdã je slédno òtemkłô internetowô starna.">
+<!ENTITY restorepage.problemDesc    "Program &brandShortName; napôtkôł problémë przë nôprawie òknów ë załóżków. Zwëkòwò pòwòdã je slédno òtemkłô internetowô starna.">
 <!ENTITY restorepage.tryThis        "Mòże spróbòwac:">
 <!ENTITY restorepage.restoreSome    "rëmnąc jedną abò wicy kôrtów, chtërné mògą bëc przëczëną ti problemë">
-<!ENTITY restorepage.startNew       "zrëszëc nową sesëjã przezéraniô">
+<!ENTITY restorepage.startNew       "zrëszëc nową sesjã przezéraniô">
 
 <!ENTITY restorepage.tryagainButton "Doprowôdzë nazôd">
 <!ENTITY restorepage.restore.access "D">
-<!ENTITY restorepage.cancelButton   "Zrëszë nową sesëjã">
+<!ENTITY restorepage.cancelButton   "Zrëszë nową sesjã">
 <!ENTITY restorepage.cancel.access  "N">
 
 <!ENTITY restorepage.restoreHeader  "Doprowôdzë nazôd">

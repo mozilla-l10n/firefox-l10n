@@ -12,7 +12,7 @@
 #
 -->
 <!ENTITY minimizeWindow.key       "m">
-<!ENTITY minimizeWindow.label     "Minimalizacëjô">
+<!ENTITY minimizeWindow.label     "Minimalizacjô">
 <!ENTITY bringAllToFront.label    "Wëskrzëni wszëtkò z przódkù">
 <!ENTITY zoomWindow.label         "Zwikszenié">
 <!ENTITY windowMenu.label         "Òkno">
@@ -28,7 +28,7 @@
 <!ENTITY productHelp.label        "Pòmòc dlô programù &brandShortName;">
 <!ENTITY productHelp.accesskey    "P">
 <!ENTITY helpMac.commandkey       "?">
-<!ENTITY helpSafeMode.label       "Zrëszë znowa z wëłączonéma dodôwkama…">
+<!ENTITY helpSafeMode.label       "Zrëszë znowa z wëłączonyma dodôwkama…">
 <!ENTITY helpSafeMode.accesskey   "w">
 
 <!ENTITY helpTroubleshootingInfo.label      "Wëdowiédzô ò felach">
@@ -37,7 +37,7 @@
 <!ENTITY helpFeedbackPage.label      "Wëslë òpiniã…">
 <!ENTITY helpFeedbackPage.accesskey  "s">
 
-<!ENTITY preferencesCmdMac.label        "Preferencëje…">
+<!ENTITY preferencesCmdMac.label        "Preferencje…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Ùsłëżnotë">

@@ -4,9 +4,9 @@
 # warszk <michol@linuxcsb.org>
 #
 -->
-<!ENTITY safeb.palm.warning.title "Prôwdopòdobné szachrajstwò">
+<!ENTITY safeb.palm.warning.title "Mòżlëwé szachrajstwò">
 
-<!ENTITY safeb.palm.message.p1 "Na starna je zgłoszonô jakno przëtrôfk szachrajstwa, co chce wëcëganic òd brëkòwnika jegò priwatné abò finansowé pòdôwczi. Wpisanié tuwò pòdôwków mòże doprowôdzëc do kradzëniô juwernotë abò jinszi malwersacëji.">
+<!ENTITY safeb.palm.message.p1 "Na starna je zgłoszonô jakno przëtrôfk szachrajstwa, co chce wëcyganic òd brëkòwnika jegò priwatné abò finansowé pòdôwczi. Wpisanié tuwò pòdôwków mòże doprowôdzëc do kradzëniô juwernotë abò jinszi malwersacji.">
 <!ENTITY safeb.palm.message.p1.linkText "Czëtôj wicy »">
 <!ENTITY safeb.palm.p1.linkStatusText "Czëtôj wicy">
 
@@ -15,18 +15,18 @@
 <!ENTITY safeb.palm.message.p2.end "przed negò ôrtu napôdama">
 
 <!ENTITY safeb.palm.accept.label "Wez mie stadka!">
-<!ENTITY safeb.palm.accept.statustext "Bié do mòji domôcy starnë">
-<!ENTITY safeb.palm.decline.label "Ignorëjë tã òstrzégã">
-<!ENTITY safeb.palm.decline.statustext "Zamkni òstrzegã" >
+<!ENTITY safeb.palm.accept.statustext "Biéj do mòji domôcy starnë">
+<!ENTITY safeb.palm.decline.label "Jignorëjë tã òstrzégã">
+<!ENTITY safeb.palm.decline.statustext "Zamkni òstrzégã" >
 <!ENTITY safeb.palm.notforgery.label2 "To nie je szachrajstwò…">
 <!ENTITY safeb.palm.reportPage.label "Dlôczë na starna òsta zablokòwónô?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Zgłoszë atakùjącą starnã!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "Na starna <span id='malware_sitename'/> òsta zgłoszonô jakno niebezpiécznô ë òsta zablokòwónô na spòdlim Twòjëch nastowôw bezpiékù.">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Niebezpiéczne starnë próbùją jinstalowac programù bë wëkrasc personowé jinfòrmacëje, brëkùją Twòjégò kòmpùtra bë atakòwac jine abò niszczą Twòją systemã.</p><p>Niechtërné taczé starnë célowò rokòscérzają szkòdlëwé òprogramòwanié, ale wiele je zarwónëch bez wiédzë jich miéwców.</p>">
+<!ENTITY safeb.blocked.malwarePage.shortDesc "Na starna <span id='malware_sitename'/> òsta zgłoszonô jakno niebezpiecznô ë òsta zablokòwónô na spòdlim Twòjëch nastowôw bezpiékù.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Niebezpieczne starnë próbùją jinstalowac programù bë wëkrasc personowé jinfòrmacje, brëkùją Twòjégò kòmpùtra bë atakòwac jinszé abò zniszczëc Twój system.</p><p>Niechtërne taczé starnë célowò rokòscérzają szkòdlëwé òprogramòwanié, ale wiele je zarwónëch bez wiedzë jich miéwców.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title "Zgłoszonô próba cëganieniô!">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc "Na starna <span id='phishing_sitename'/> òsta zgłoszonô jakno cëganiącô ë òsta zablokòwónô na spòdlim Twòjëch nôstawów bezpiekù.">
-<!ENTITY safeb.blocked.phishingPage.longDesc "<p>Starnë cëganieniô mògą pòdawac sã za wdarzoné zdroje, a ji celã mòże bëc wëszachrowónié personowëch a dëtkòwëch pòdôwków.</p><p>Wpisanié równojaczich pòdôwków na ti starnie mòże skùńczëc sã kradzą juwernotë abò jiną malwersacëją.</p>">
+<!ENTITY safeb.blocked.phishingPage.longDesc "<p>Starnë cëganieniô mògą pòdawac sã za wdarzoné zdroje, a ji celã mòże bëc wëszachrowónié personowëch a dëtkòwëch pòdôwków.</p><p>Wpisanié równojaczich pòdôwków na ti starnie mòże skùńczëc sã kradzą juwernotë abò jiną malwersacją.</p>">

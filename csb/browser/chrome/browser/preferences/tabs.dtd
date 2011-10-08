@@ -7,7 +7,7 @@
 <!ENTITY newWindowsAsTabs.label       "Òtmëkôj nowé kôrtë w placu nowich òknów">
 <!ENTITY newWindowsAsTabs.accesskey   "t">
 
-<!ENTITY warnCloseMultipleTabs.label  "Òstrzegôj przed zamkniãcém wielu kôrtów">
+<!ENTITY warnCloseMultipleTabs.label  "Òstrzegôj przed zamkniãcym wielu kôrtów">
 <!ENTITY warnCloseMultipleTabs.accesskey  "t">
 
 <!ENTITY warnOpenManyTabs.label       "Òstrzegôj, jeżlë òtemkniãcé za wielu kôrtów mòże spòwòlnic program &brandShortName;">

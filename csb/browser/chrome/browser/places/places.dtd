@@ -1,5 +1,5 @@
 <!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
-<!ENTITY places.library.title  "Bibloteka">
+<!ENTITY places.library.title  "Biblioteka">
 <!ENTITY places.library.width  "800">
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Sprôwiôj">
@@ -25,7 +25,7 @@
 
 <!ENTITY cmd.findInBookmarks.label      "Nalezë w załóżkach…">
 <!ENTITY cmd.findInBookmarks.accesskey  "z">
-<!ENTITY cmd.findCurrent.label          "Nalezë w aktualny kòlejkcëji…">
+<!ENTITY cmd.findCurrent.label          "Nalezë w aktualny kòlekcji…">
 <!ENTITY cmd.findCurrent.accesskey      "k">
 
 <!ENTITY importBookmarksFromHTML.label     "Impòrtëjë załóżczi z HMTL…">
@@ -87,7 +87,7 @@
 <!ENTITY col.keyword.label       "Kluczowé słowò">
 <!ENTITY col.description.label   "Òpisënk">
 <!ENTITY col.dateadded.label     "Dodóné">
-<!ENTITY col.lastmodified.label  "Slédno mòdifikacëjô">
+<!ENTITY col.lastmodified.label  "Slédno mòdifikacjô">
 
 <!ENTITY search.label                              "Szëkba:">
 <!ENTITY search.accesskey                          "S">
@@ -99,18 +99,18 @@
 <!ENTITY search.scopeBookmarks.accesskey           "a">
 <!ENTITY search.scopeDownloads.label               "Zladënczi">
 <!ENTITY search.scopeDownloads.accesskey           "d">
-<!ENTITY search.scopeHistory.label                 "Historëjô">
+<!ENTITY search.scopeHistory.label                 "Historiô">
 <!ENTITY search.scopeHistory.accesskey             "H">
 <!ENTITY saveSearch.label                          "Zapiszë">
 <!ENTITY saveSearch.accesskey                      "Z">
 
 <!ENTITY cmd.find.key  "n">
 
-<!ENTITY maintenance.label      "Impòrt ë zazychrowanié pòdôwków">
-<!ENTITY maintenance.accesskey  "I">
-<!ENTITY maintenance.tooltip    "Zaimpòrtëjë ë zrobi dodôwną kòpijã załóżków">
+<!ENTITY maintenance.label      "Jimpòrt ë zazychrowanié pòdôwków">
+<!ENTITY maintenance.accesskey  "J">
+<!ENTITY maintenance.tooltip    "Zajimpòrtëjë ë zrobi dodôwną kòpiã załóżków">
 
-<!ENTITY backButton.tooltip  "Biéj jnazôd">
+<!ENTITY backButton.tooltip  "Biéj nazôd">
 
 <!ENTITY forwardButton.tooltip  "Biéj do przódkù">
 

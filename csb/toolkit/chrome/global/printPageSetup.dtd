@@ -1,12 +1,12 @@
 <!-- extracted from printjoboptions.xul -->
 
-<!ENTITY printSetup.title    "Nastôw starnë">
+<!ENTITY printSetup.title    "Nastôwë starnë">
 
-<!ENTITY basic.tab           "Òptacëje fòrmatowaniô">
+<!ENTITY basic.tab           "Òptacje fòrmatowaniô">
 
 <!ENTITY formatGroup.label   "Fòrmat">
 
-<!ENTITY orientation.label   "Òrientacëjô:">
+<!ENTITY orientation.label   "Òrientacjô:">
 <!ENTITY portrait.label      "Pòrtret">
 <!ENTITY portrait.accesskey  "P">
 <!ENTITY landscape.label     "Krôjòbrôz">
@@ -19,7 +19,7 @@
 <!ENTITY shrinkToFit.label   "Dopasëjë do szérzë starnë">
 <!ENTITY shrinkToFit.accesskey "o">
 
-<!ENTITY optionsGroup.label  "Òptacëje">
+<!ENTITY optionsGroup.label  "Òptacje">
 
 <!ENTITY printBG.label       "Drëkùjé spódk (farwë ë òbrôzki)">
 <!ENTITY printBG.accesskey   "k">

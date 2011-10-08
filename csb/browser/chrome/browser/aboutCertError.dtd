@@ -13,23 +13,23 @@
 a replacement for the standard security certificate errors produced
 by NSS/PSM via netError.xhtml. -->
 
-<!ENTITY certerror.pagetitle  "Niedowiérzoné sparłãczenié">
-<!ENTITY certerror.longpagetitle "Niedowiérzoné sparłãczenié">
+<!ENTITY certerror.pagetitle  "Niedowierzoné sparłãczenié">
+<!ENTITY certerror.longpagetitle "Niedowierzoné sparłãczenié">
 
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara1 "Program &brandShortName; òstôł pòproszony ò bezpiéczną łączbã 
-z serwerã <b>#1</b>, nié mòże równak pòcwierdzëc bezpiécznegò sparłãczenia.">
-<!ENTITY certerror.introPara2 "Zwëkòwò, czedë parłączësz sã ze starną bezpiécznô, przedstôwiô òna identifikacëjã do pòtwierdzeniô, że jidzesz w dobri môl. Równak identifikacëjô ny starnë ni mòże bëc zwerifikòwónô.">
+<!ENTITY certerror.introPara1 "Program &brandShortName; òstôł pòproszony ò bezpieczną łączbã 
+z serwerã <b>#1</b>, ni mòże równak pòcwierdzëc bezpiecznegò sparłãczenia.">
+<!ENTITY certerror.introPara2 "Zwëkòwò, czedë parłączësz sã ze starną bezpiecznô, przedstôwiô òna jidentifikacjã do pòtwierdzeniô, że jidzesz w dobri môl. Równak jidentifikacjô ny starnë ni mòże bëc zwerifikòwónô.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Céż terô robic?">
 <!ENTITY certerror.whatShouldIDo.content "Jeżlë zwëkòwò łączësz sã z ną starną bez problemów, na fela mòże òznôczac, że chtos mô pòdszëté sã pòd ną starnã ë lepi jic stądka precz.">
 <!ENTITY certerror.getMeOutOfHere.label "Wez mie stądka precz!">
 
 <!ENTITY certerror.expert.heading "Rozmiejã to rizykò">
-<!ENTITY certerror.expert.content "Jeżlë rozmiejesz ò co jidze, mòżesz rzec programòwi &brandShortName; bë naczãł dowierzac identifikacjëji ti starnë. <b>Nawetka, jeżlë dowiérzasz ti starnie, na fela mòże òznaczac, że chtos majstrëje przë twòjim internetowim sparłãczenim.</b>">
-<!ENTITY certerror.expert.contentPara2 "Nie dodôwôj wëjimków, chòba że znôsz dobri pòwód czemù na starna nie brëkùje dowierzony identifikacëji.">
-<!ENTITY certerror.addException.label "Dodôj rozszérzenié…">
+<!ENTITY certerror.expert.content "Jeżle rozmiejesz ò co jidze, mòżesz rzec programòwi &brandShortName; bë naczãł dowierzac jidentifikacji ti starnë. <b>Nawetka, jeżlë dowierzasz ti starnie, na fela mòże òznaczac, że chtos majstrëje przë twòjim internetowim sparłãczenim.</b>">
+<!ENTITY certerror.expert.contentPara2 "Nie dodôwôj wëjimków, chòba że znôsz pòwód czemù na starna nie brëkùje dowierzony jidentifikacji.">
+<!ENTITY certerror.addException.label "Dodôj rozszerzenié…">
 
 <!ENTITY certerror.technical.heading "Techniczné detale">

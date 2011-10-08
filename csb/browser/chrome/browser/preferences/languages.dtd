@@ -13,7 +13,7 @@
 <!ENTITY window.width                                   "30em">
 
 <!ENTITY languages.customize.Header                     "Jãzëczi">
-<!ENTITY languages.customize.prefLangDescript           "Niejedné starnë przëstãpné są w czile jãzëkòwich wersëjach. Wëbierzë lëstã peferowónych jãzëków dlô negò ôrtu starnów.">
+<!ENTITY languages.customize.prefLangDescript           "Niejedné starnë przistãpné są w czile jãzëkòwëch wersjach. Wëbierzë lëstã peferowónëch jãzëków dlô negò ôrtu starnów.">
 <!ENTITY languages.customize.active.label               "Jãzëczi w preferowóny pòsobnicë:">
 <!ENTITY languages.customize.moveUp.label               "W górã">
 <!ENTITY languages.customize.moveUp.accesskey           "g">

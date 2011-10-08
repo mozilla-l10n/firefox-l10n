@@ -100,17 +100,17 @@
 
 <!ENTITY  permTab               "Przistãp">
 <!ENTITY  permTab.accesskey     "P">
-<!ENTITY  permUseDefault        "Brëkùjë domëslnych">
+<!ENTITY  permUseDefault        "Brëkùjë domëslnëch">
 <!ENTITY  permAskAlways         "Pëtôj wiedno">
 <!ENTITY  permAllow             "Zezwòlë">
-<!ENTITY  permAllowSession      "Zezwòlë dlô sesëji">
+<!ENTITY  permAllowSession      "Zezwòlë dlô sesji">
 <!ENTITY  permBlock             "Blokùjë">
 <!ENTITY  permissionsFor        "Przistãp dlô:">
 <!ENTITY  permImage             "Ladowanié òbrôzków">
 <!ENTITY  permPopup             "Òtmëkanié wëskakùjącëch òknów">
-<!ENTITY  permCookie            "Zapisëwanié kùszków">
-<!ENTITY  permInstall           "Instalacëjô rozszérzeniów ë mòtiwów">
-<!ENTITY  permGeo               "Ùprzëstãpni pòłóżenié">
+<!ENTITY  permCookie            "Zapisywanié kùszków">
+<!ENTITY  permInstall           "Jinstalacjô rozszérzeniów ë mòtiwów">
+<!ENTITY  permGeo               "Ùprzistãpni pòłóżenié">
 
 <!ENTITY  permIndexedDB              "Ùtrzëmùjë zamkłosc offline">
 <!ENTITY  permClearStorage           "Wëczëszczë zamkłosc">
@@ -120,7 +120,7 @@
 <!ENTITY  securityTab.accesskey "B">
 <!ENTITY  securityHeader        "Wëdowiédzô bezpiekù dlô ti starnë">
 <!ENTITY  securityView.certView "Wëskrzëni certifikat">
-<!ENTITY  securityView.accesskey "V">
+<!ENTITY  securityView.accesskey "s">
 <!ENTITY  securityView.unknown   "Nieznóny">
 
 
@@ -129,7 +129,7 @@
 <!ENTITY  securityView.identity.domain   "Starna:">
 <!ENTITY  securityView.identity.verifier "Zwerifikòwóné przez:">
 
-<!ENTITY  securityView.privacy.header                   "Priwatnota ë historëjô">
+<!ENTITY  securityView.privacy.header                   "Priwatnota ë historiô">
 <!ENTITY  securityView.privacy.history                  "Móm jô na starnã ju rëchli òbzeróną?">
 <!ENTITY  securityView.privacy.cookies                  "Trzëmô na starna wëdowiédzã (kùszczi) na mòjim kòmpùtrze?">
 <!ENTITY  securityView.privacy.viewCookies              "Wëskrzëni kùszczi">

@@ -48,7 +48,7 @@
 <!ENTITY devmgr.details.title                   "Detale">
 <!ENTITY devmgr.details.title2                  "Wôrtnota">
 <!ENTITY devmgr.status.label                    "Stón">
-<!ENTITY devmgr.version.label                   "Wersëjô">
+<!ENTITY devmgr.version.label                   "Wersjô">
 
 <!ENTITY devmgr.button.changeslotname.label     "Zmieni miono slotu">
 <!ENTITY devmgr.button.changeslotname.accesskey "Z">

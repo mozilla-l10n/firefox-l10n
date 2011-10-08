@@ -8,7 +8,7 @@
 <!ENTITY aboutSupport.pageTitle "Wëdowiédzô ò felach">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
-<!ENTITY aboutSupport.pageSubtitle "  Na starna zamikô w se techniczną  wëdowiédzô chtërna mòże sã przëdac czej chcesz
+<!ENTITY aboutSupport.pageSubtitle "Na starna zamikô w se techniczną  wëdowiédzô chtërna mòże sã przëdac czej chcesz
   rozwiązac problemë. Żle szëkôsz òdpowiescë dlô tipicznëch pëtaniów
   ò &brandShortName;, sprôwdzë naszą <a id='supportLink'> starnë wspiarca</a>.
        ">
@@ -16,17 +16,17 @@
 <!ENTITY aboutSupport.extensionsTitle "Roszerzénia">
 <!ENTITY aboutSupport.extensionName "Miono">
 <!ENTITY aboutSupport.extensionEnabled "Włączoné">
-<!ENTITY aboutSupport.extensionVersion "Wersëjô">
+<!ENTITY aboutSupport.extensionVersion "Wersjô">
 <!ENTITY aboutSupport.extensionId "Numer ID">
 
-<!ENTITY aboutSupport.appBasicsTitle "Pòdstawë aplikacëji">
+<!ENTITY aboutSupport.appBasicsTitle "Pòdstawë aplikacji">
 <!ENTITY aboutSupport.appBasicsName "Miono">
-<!ENTITY aboutSupport.appBasicsVersion "Wersëjô">
+<!ENTITY aboutSupport.appBasicsVersion "Wersjô">
 <!ENTITY aboutSupport.appBasicsProfileDir "Miono profilu">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Włączoné wtëkacze">
-<!ENTITY aboutSupport.appBasicsBuildConfig "Kònfigùracëjã brëkòwóną do kòmpilacëji">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Kònfigùracëjã brëkòwóną do kòmpilacji">
 <!ENTITY aboutSupport.appBasicsUserAgent "Pòstrzédnik brëkòwnika">
-<!ENTITY aboutSupport.appBasicsCrashIDs "Rapòrtë ò awarëjach">
+<!ENTITY aboutSupport.appBasicsCrashIDs "Rapòrtë ò awarjach">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Ùżëcy pamiãcë">
 <!ENTITY aboutSupport.show.label "Òtemkni zamëkający w se katalog">
 
@@ -34,10 +34,10 @@
 variant of aboutSupport.show.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
 <!ENTITY aboutSupport.showMac.label "Wëskrzëni w Finderze">
-<!ENTITY aboutSupport.modifiedPrefsTitle "Zmòdifikòwóné preferencëje">
+<!ENTITY aboutSupport.modifiedPrefsTitle "Zmòdifikòwóné preferencje">
 <!ENTITY aboutSupport.modifiedPrefsName "Miono">
 <!ENTITY aboutSupport.modifiedPrefsValue "Wôrtnota">
 <!ENTITY aboutSupport.graphicsTitle "Grafika">
-<!ENTITY aboutSupport.installationHistoryTitle "Historëjô instalacëji">
-<!ENTITY aboutSupport.updateHistoryTitle "Historëjô aktualizacëji">
+<!ENTITY aboutSupport.installationHistoryTitle "Historiô jinstalacji">
+<!ENTITY aboutSupport.updateHistoryTitle "Historiô aktualizacji">
 <!ENTITY aboutSupport.copyToClipboard.label "Kòpérëjë wszëtkò do tacnika">

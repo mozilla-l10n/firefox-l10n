@@ -10,8 +10,8 @@
 # jurk <jurk@linuxcsb.org>
 #
 -->
-<!ENTITY sanitizePrefs2.title          "Nastôw czëszczëniô historëji">
-<!ENTITY sanitizeDialog2.title         "Wëczëszczë historëjã przezéraniô">
+<!ENTITY sanitizePrefs2.title          "Nastôw czëszczëniô historii">
+<!ENTITY sanitizeDialog2.title         "Wëczëszczë historiã przezéraniô">
 
 <!ENTITY sanitizeItems.label          "Wëczëszczë nôslédné elementë:">
 <!ENTITY clearDataSettings2.label     "Przë zamkniãcu programù &brandShortName; mają bëc rëmniãté nôslédné elementë:">
@@ -38,17 +38,17 @@ that require it.  -->
 <!ENTITY detailsProgressiveDisclosure.label     "Detale">
 <!ENTITY detailsProgressiveDisclosure.accesskey "e">
 
-<!ENTITY historySection.label         "Historëjô">
+<!ENTITY historySection.label         "Historiô">
 <!ENTITY dataSection.label            "Pòdôwczi">
 
 <!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
      itemBrowsingHistory.* will never be used at the same time, so they can
      have the same accesskey. -->
-<!ENTITY itemHistoryAndDownloads.label     "Historëjô przezéraniô ë zladënków">
+<!ENTITY itemHistoryAndDownloads.label     "Historiô przezéraniô ë zladënków">
 <!ENTITY itemHistoryAndDownloads.accesskey "H">
-<!ENTITY itemBrowsingHistory.label         "Historëjô przezéraniô">
+<!ENTITY itemBrowsingHistory.label         "Historiô przezéraniô">
 <!ENTITY itemBrowsingHistory.accesskey     "H">
-<!ENTITY itemFormSearchHistory.label       "Pòdôwczi fòrmùlôrzów ë historëjô szëkbë">
+<!ENTITY itemFormSearchHistory.label       "Pòdôwczi fòrmùlôrzów ë historiô szëkbë">
 <!ENTITY itemFormSearchHistory.accesskey   "f">
 <!ENTITY itemPasswords.label               "Spamiãtóné parole">
 <!ENTITY itemPasswords.accesskey           "p">
@@ -56,9 +56,9 @@ that require it.  -->
 <!ENTITY itemCookies.accesskey             "K">
 <!ENTITY itemCache.label                   "Pòdrãcznô pamiãc">
 <!ENTITY itemCache.accesskey               "p">
-<!ENTITY itemOfflineApps.label             "Pòdôwczi offline starnów">
+<!ENTITY itemOfflineApps.label             "Pòdôwczi starnów offline ">
 <!ENTITY itemOfflineApps.accesskey         "o">
-<!ENTITY itemDownloadHistory.label         "Historëjô zladënków">
+<!ENTITY itemDownloadHistory.label         "Historiô zladënków">
 <!ENTITY itemDownloadHistory.accesskey     "z">
 <!ENTITY itemActiveLogins.label            "Aktiwné wlogòwania">
 <!ENTITY itemActiveLogins.accesskey        "A">

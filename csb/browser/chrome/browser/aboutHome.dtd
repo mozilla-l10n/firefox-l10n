@@ -19,8 +19,8 @@
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
-<!ENTITY abouthome.defaultSnippet1.v1 "Dzãka za wëbiérk Firefoksa! Bë dowiedzëc sã wicy ò nim, zazdrzë do jegò <a>nônowszëch mòżlëwòscy</a>.">
+<!ENTITY abouthome.defaultSnippet1.v1 "Dzãka za wëbiérk Firefoksa! Bë dowiedzëc sã wicy ò nim, zazdrzë do jegò <a>nônowszëch mòżlëwòtów</a>.">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
-<!ENTITY abouthome.defaultSnippet2.v1 "Ùstawienié Firefoksa bë wëzdrzôł ë robił wedle Twòji wòlë to prostô sprawa. <a>Wëbiérzë z tësąców dodôwków</a>.">
+<!ENTITY abouthome.defaultSnippet2.v1 "Ùstawienié Firefoksa bë wëzdrzôł ë robił wedle Twòji wòlë to prostô sprawa. <a>Wëbiérzë z tësącë dodôwków</a>.">

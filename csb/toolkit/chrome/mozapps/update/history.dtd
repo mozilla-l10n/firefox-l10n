@@ -5,13 +5,13 @@
 #
 -->
 
-<!ENTITY  history.title             "Historëjô aktualizacëji">
-<!ENTITY  history.intro             "Winstalowóno ùniższé aktualizacëje:">
+<!ENTITY  history.title             "Historiô aktualizacji">
+<!ENTITY  history.intro             "Wjinstalowóno ùniższé aktualizacje:">
 <!ENTITY  closebutton.label         "Zamkni">
                                      
-<!ENTITY  noupdates.label           "Jesz nié winstalowóno niżódnych aktualizacëjów">
+<!ENTITY  noupdates.label           "Jesz nie wjinstalowóno niżódnëch aktualizacji">
 
-<!ENTITY  name.header               "Miono aktualizacëji">
-<!ENTITY  date.header               "Datum instalacëji">
+<!ENTITY  name.header               "Miono aktualizacji">
+<!ENTITY  date.header               "Datum jinstalacji">
 <!ENTITY  type.header               "Ôrt">
 <!ENTITY  state.header              "Stón">

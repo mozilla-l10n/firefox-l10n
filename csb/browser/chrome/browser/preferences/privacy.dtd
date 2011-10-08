@@ -16,30 +16,30 @@
 <!ENTITY doNotTrack.label               "Wëłączë szlachòwanié z ti starnë">
 <!ENTITY doNotTrack.accesskey           "W">
 
-<!ENTITY  history.label                 "Historëjô">
+<!ENTITY  history.label                 "Historiô">
 
 <!ENTITY  locationBar.label             "Lëstew adresë">
 
 <!ENTITY  locbar.pre.label              "Pòdpòwiescë w lëstwie adresë òpierôj na:">
 <!ENTITY  locbar.pre.accessKey          "u">
 <!ENTITY  locbar.post.label             "">
-<!ENTITY  locbar.both.label             "historëji ë załóżkach">
-<!ENTITY  locbar.history.label          "historëji">
+<!ENTITY  locbar.both.label             "historii ë załóżkach">
+<!ENTITY  locbar.history.label          "historii">
 <!ENTITY  locbar.bookmarks.label        "załóżkach">
-<!ENTITY  locbar.nothing.label          "nié pòdpòwiadôj">
+<!ENTITY  locbar.nothing.label          "nie pòdpòwiadôj">
 
 
 <!ENTITY  acceptCookies.label           "Akceptëjë kùszczi">
 <!ENTITY  acceptCookies.accesskey       "A">
 
-<!ENTITY  acceptThirdParty.label        "Akceptëjë kùszczi z jinszich starnów">
+<!ENTITY  acceptThirdParty.label        "Akceptëjë kùszczi z jinszëch starnów">
 <!ENTITY  acceptThirdParty.accesskey    "k">
 
 <!ENTITY  keepUntil.label               "Trzëmôj:">
 <!ENTITY  keepUntil.accesskey           "T">
 
-<!ENTITY  expire.label                  "aż wëgasną">
-<!ENTITY  close.label                   "aż zamknã program &brandShortName;">
+<!ENTITY  expire.label                  "jaż wëgasną">
+<!ENTITY  close.label                   "jaż zamknã program &brandShortName;">
 <!ENTITY  askEachTime.label             "pëtôj wiedno">
 
 <!ENTITY  cookieExceptions.label        "Wëjimczi…">
@@ -50,43 +50,43 @@
 
 <!ENTITY  historyHeader.pre.label          "Program &brandShortName;:">
 <!ENTITY  historyHeader.pre.accesskey      "m">
-<!ENTITY  historyHeader.remember.label     "Pamiãtôj historëjã">
-<!ENTITY  historyHeader.dontremember.label "Nié pamiãtôj historëji">
-<!ENTITY  historyHeader.custom.label       "Brëkùjë swòjich nastôwów historëji">
+<!ENTITY  historyHeader.remember.label     "Pamiãtôj historiã">
+<!ENTITY  historyHeader.dontremember.label "Nie pamiãtôj historii">
+<!ENTITY  historyHeader.custom.label       "Brëkùjë swòjich nastôwów historii">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; spamiãtô historëjã przezéraniô, szëkbë, zladënkù lopków ë pòdôwków fòrmùlôrzów, bãdze trzëmôł téż kùszczi z òdwiedzónych starnów,">
+<!ENTITY  rememberDescription.label      "&brandShortName; spamiãtô historiã przezéraniô, szëkbë, zladënkù lopków ë pòdôwków fòrmùlôrzów, bãdze trzëmôł téż kùszczi z òdwiedzónëch starnów,">
 
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
 <!ENTITY  rememberActions.pre.label           "Mòże">
-<!ENTITY  rememberActions.clearHistory.label  "wëczëszczëc slédną historëjã">
+<!ENTITY  rememberActions.clearHistory.label  "wëczëszczëc slédną historiã">
 <!ENTITY  rememberActions.middle.label        "abò">
 <!ENTITY  rememberActions.removeCookies.label "rëmnąc pòjedińcze kùszczi">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  dontrememberDescription.label  "Program &brandShortName; bãdze brëkòwôł tich sómëch nastôwów co w priwatnym tribie ë nié bãdze pamiãtôł historëji przë przezéraniu starnów WWW.">
+<!ENTITY  dontrememberDescription.label  "Program &brandShortName; bãdze brëkòwôł tich sómëch nastôwów co w priwatnym tribie ë nie bãdze pamiãtôł historii przë przezéranim starnów WWW.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
 <!ENTITY  dontrememberActions.pre.label          "Mòże téż">
-<!ENTITY  dontrememberActions.clearHistory.label "wëczëszczëc całowną aktualną historëjã">
+<!ENTITY  dontrememberActions.clearHistory.label "wëczëszczëc całowną aktualną historiã">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent2.label "Wiedno ùżëwôj tribu priwatnégò przezéraniô séce">
+<!ENTITY  privateBrowsingPermanent2.label "Wiedno ùżëwôj tribu priwatnégò przezéraniô sécë">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
-<!ENTITY  rememberHistory.label      "Pamiãtôj historëjã mòjégò przezéraniô">
+<!ENTITY  rememberHistory.label      "Pamiãtôj historiã mòjégò przezéraniô">
 <!ENTITY  rememberHistory.accesskey  "P">
 
-<!ENTITY  rememberDownload.label         "Spamiãtôj historëjã zladënkù lopków">
+<!ENTITY  rememberDownload.label         "Spamiãtôj historiã zladënkù lopków">
 <!ENTITY  rememberDownload.accesskey     "z">
 
-<!ENTITY  rememberSearchForm.label       "Spamiãtôj historëjã szëkbë ë fòrmùlôrzów">
+<!ENTITY  rememberSearchForm.label       "Spamiãtôj historiã szëkbë ë fòrmùlarzów">
 <!ENTITY  rememberSearchForm.accesskey   "f">
 
-<!ENTITY  clearOnClose.label             "Wëczëszczë historëjã przë zamëkanim programù &brandShortName;">
+<!ENTITY  clearOnClose.label             "Wëczëszczë historiã przë zamëkanim programù &brandShortName;">
 <!ENTITY  clearOnClose.accesskey         "W">
 
 <!ENTITY  clearOnCloseSettings.label     "Nastôwë…">

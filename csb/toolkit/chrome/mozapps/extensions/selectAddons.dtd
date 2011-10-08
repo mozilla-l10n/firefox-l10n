@@ -1,7 +1,7 @@
 <!ENTITY upgrade.style               "width: 93ch; height: 448px;">
 
 <!ENTITY checking.heading            "Sprôwdzanié dodôwka">
-<!ENTITY checking.progress.label     "Sprôwdzanié kòmpatibilnotë twòjégò dodôwka z wersëją &brandShortName;.">
+<!ENTITY checking.progress.label     "Sprôwdzanié kòmpatibilnotë twòjégò dodôwka z wersją &brandShortName;.">
 
 <!ENTITY select.heading              "Wëbierzë dodôwczi">
 <!-- LOCALIZATION NOTE (select.description): The term used for "third parties"
@@ -15,7 +15,7 @@
 <!-- LOCALIZATION NOTE (select.action.style): Should be a width wide enough for
      the action strings in selectAddons.properties or brandShortName. -->
 <!ENTITY select.action.style         "width: 37ch;">
-<!ENTITY select.source               "Winstalowóné przez">
+<!ENTITY select.source               "Wjinstalowóné przez">
 <!ENTITY select.name                 "Miono">
 <!-- LOCALIZATION NOTE (select.name.style): Should be a width small enough so
      the source column still has enough room for the source strings in
@@ -33,10 +33,10 @@
 <!ENTITY action.enable.heading       "Nôslédné dodôwczi òstaną włączóné:">
 
 <!ENTITY update.heading              "Zaktualnianié dodôwków">
-<!ENTITY update.progress.label       "Zladënk aktualizacëji dlô wëbrónëch dodôwków.">
+<!ENTITY update.progress.label       "Zladënk aktualizacji dlô wëbrónëch dodôwków.">
 
-<!ENTITY errors.heading              "&brandShortName; nié mógł zaktualnic niechtërnëch dodôwków.">
-<!ENTITY errors.description          "Winstalowónié niechtënéch aktualizacëji sã nie darzëło. &brandShortName; spróbùje zaktualizowac je pòzdze jész rôz.">
+<!ENTITY errors.heading              "&brandShortName; ni mógł zaktualnic niechtërnëch dodôwków.">
+<!ENTITY errors.description          "Wjinstalowónié niechtërnëch aktualizacji sã nie darzëło. &brandShortName; spróbùje zaktualizowac je pòzdze jesz rôz.">
 
 <!ENTITY footer.label                "Wiedno mòżesz sprôwiac dodôwkama w Menadżerze Dodôwków.">
 <!ENTITY cancel.label                "Òprzestóń">

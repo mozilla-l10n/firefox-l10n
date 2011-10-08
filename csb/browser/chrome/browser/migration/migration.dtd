@@ -11,15 +11,15 @@
 #
 -->
 
-<!ENTITY migrationWizard.title          "Asystenta impòrtu">
+<!ENTITY migrationWizard.title          "Asystent impòrtu">
 
-<!ENTITY importFrom.label               "Impòrtëjë òptacëje, załóżczi, historëjã, parole ë jinszé pòdôwczi z:">
-<!ENTITY importFromUnix.label           "Impòrtëjë òptacëje, załóżczi, historëjã, parole ë jinszé pòdôwczi z:">
-<!ENTITY importFromBookmarks.label      "Impòrtëjë załóżczi z:">
+<!ENTITY importFrom.label               "Jimpòrtëjë òptacje, załóżczi, historiã, parole ë jinszé pòdôwczi z:">
+<!ENTITY importFromUnix.label           "Jimpòrtëjë òptacje, załóżczi, historiã, parole ë jinszé pòdôwczi z:">
+<!ENTITY importFromBookmarks.label      "Jimpòrtëjë załóżczi z:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorera">
 <!ENTITY importFromIE.accesskey         "M">
-<!ENTITY importFromNothing.label        "Nick nie impòrtëjë">
+<!ENTITY importFromNothing.label        "Nick nie jimpòrtëjë">
 <!ENTITY importFromNothing.accesskey    "N">
 <!ENTITY importFromSeamonkey.label      "Netscape 6, 7 abò Mozilla 1.x">
 <!ENTITY importFromSeamonkey.accesskey  "N">
@@ -30,17 +30,17 @@
 <!ENTITY importFromHTMLFile.label       "Z lopka HTML">
 <!ENTITY importFromHTMLFile.accesskey   "Z">
 
-<!ENTITY noMigrationSources.label       "To nie dô programów z jaczéch bë sã dało zaimpòrtowac załóżczi, historëjã czë parole.">
+<!ENTITY noMigrationSources.label       "To nie dô programów z jaczéch bë sã dało zajimpòrtowac załóżczi, historiã czë parole.">
 
-<!ENTITY importSource.title             "Impòrtëjë nastôwë ë pòdôwczi">
-<!ENTITY importItems.title              "Impòrtowóné elementë">
-<!ENTITY importItems.label              "Wëbierzë elementë do impòrtowaniô">
+<!ENTITY importSource.title             "Jimpòrtëjë nastôwë ë pòdôwczi">
+<!ENTITY importItems.title              "Jimpòrtowóné elementë">
+<!ENTITY importItems.label              "Wëbierzë elementë do jimpòrtowaniô">
 
-<!ENTITY migrating.title                "Impòrtëjë...">
-<!ENTITY migrating.label                "Nôslédné elementë są impòrtowóne…">
+<!ENTITY migrating.title                "Jimpòrtëjë...">
+<!ENTITY migrating.label                "Nôslédné elementë są jimpòrtowóne…">
 
 <!ENTITY selectProfile.title            "Wëbierzë profil">
-<!ENTITY selectProfile.label            "Nôslédné profile dô sã impòrtowac:">
+<!ENTITY selectProfile.label            "Nôslédné profile dô sã jimpòrtowac:">
 
-<!ENTITY done.title                     "Impòrtowanié je zakùńczóné">
-<!ENTITY done.label                     "Nôslédné elementë są ùdało zaimpòrtowóné:">
+<!ENTITY done.title                     "Jimpòrtowanié je zakùńczóné">
+<!ENTITY done.label                     "Nôslédné elementë są ùdało zajimpòrtowóné:">

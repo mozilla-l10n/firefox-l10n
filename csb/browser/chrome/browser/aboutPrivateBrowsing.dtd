@@ -15,15 +15,15 @@
 <!ENTITY privatebrowsingpage.title                 "Priwatné przezéranié">
 <!ENTITY privatebrowsingpage.title.normal          "Chcesz nacząc priwatné przezéranié?">
 
-<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; nie spamiãtô historëji przezéraniô dlô ti sesëji.">
+<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; nie spamiãtô historii przezéraniô dlô ti sesji.">
 <!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; nie robi terô w tribie priwatnegò przezéraniô.">
 
-<!ENTITY privatebrowsingpage.description               "Przë priwatny sesëji, &brandShortName; nie spamiãtôj historëji przezéraniô, szëkbë, historëji zladënkù lopków ë pòdôwków. Równak bãdze trzëmôł kùszczi z gòscónych starnów ë zladowóné lopczi.">
+<!ENTITY privatebrowsingpage.description               "Przë priwatny sesji, &brandShortName; nie spamiãtôj historii przezéraniô, szëkbë, historii zladënkù lopków ë pòdôwków. Równak bãdze trzëmôł kùszczi z gòscónëch starnów ë zladowóné lopczi.">
 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
 <!ENTITY privatebrowsingpage.clearRecentHistoryBefore  "Mòże téż">
-<!ENTITY privatebrowsingpage.clearRecentHistoryInner   "wëczëszczëc donenczasną historëjã przezéraniô">
+<!ENTITY privatebrowsingpage.clearRecentHistoryInner   "wëczëszczëc donenczasną historiã przezéraniô">
 <!ENTITY privatebrowsingpage.clearRecentHistoryAfter   ".">
 
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Zrëszë priwatné przezéranié">
@@ -31,8 +31,8 @@
 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStop2): please leave &basePBMenu.label; intact in the translation -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart2): please leave &basePBMenu.label; intact in the translation -->
-<!ENTITY privatebrowsingpage.howToStop2                "Bë zatrzëmac Priwatny Òbzérk, webiérzë &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label; abò zamkni programã &brandShortName;.">
-<!ENTITY privatebrowsingpage.howToStart2               "Bë nacząc Priwatny òbzérk, mòżesz téż wëbrac &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+<!ENTITY privatebrowsingpage.howToStop2                "Bë zatrzëmac Priwatné Przezéranié, webiérzë &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label; abò zamkni program &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStart2               "Bë nacząc Priwatné Przezéranié, mòżesz téż wëbrac &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;.">
 
-<!ENTITY privatebrowsingpage.moreInfo                  "Nawet żelë nen kòmpùtr nie zapisëje terô historëji przezéraniô, Twój dostôwca sécë abò robòtodôwca wcyg mòże sprpwdzëc jaczé starnë môsz òbzéróné.">
+<!ENTITY privatebrowsingpage.moreInfo                  "Nawet jeżlë nen kòmpùtr nie zapisëje terô historii przezéraniô, Twój dostôwca sécë abò robòtodôwca wcyg mòże sprôwdzëc jaczé starnë môsz òbzéróné.">
 <!ENTITY privatebrowsingpage.learnMore                 "Wicy wëdowiédzë">

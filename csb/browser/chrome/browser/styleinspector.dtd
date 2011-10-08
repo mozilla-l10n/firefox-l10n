@@ -12,4 +12,4 @@
   -  the user can hover it and get a help link button which allows one to
   -  quickly jump to the documentation from the Mozilla Developer Network site.
   -  This is the link title shown in the hover tooltip. -->
-<!ENTITY helpLinkTitle         "Czëtôj dokùmentacëjã ò ti swòjiznie">
+<!ENTITY helpLinkTitle         "Czëtôj dokùmentacjã ò ti swòjiznie">
