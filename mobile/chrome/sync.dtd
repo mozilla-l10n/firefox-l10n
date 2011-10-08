@@ -19,3 +19,4 @@
 <!ENTITY sync.setup.connect         "Connexion">
 <!ENTITY sync.setup.cancel          "Annuler">
 <!ENTITY sync.setup.tutorial        "Guide">
+<!ENTITY sync.setup.waiting         "Association en cours…">
