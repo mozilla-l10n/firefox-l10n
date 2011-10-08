@@ -436,6 +436,11 @@ can reach it easily. -->
 <!ENTITY videoSaveImage.label        "Enregistrer un instantané sous…">
 <!ENTITY videoSaveImage.accesskey    "s">
 
+<!ENTITY videoShowStats.label        "Afficher les statistiques">
+<!ENTITY videoShowStats.accesskey    "t">
+<!ENTITY videoHideStats.label        "Masquer les statistiques">
+<!ENTITY videoHideStats.accesskey    "t">
+
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
