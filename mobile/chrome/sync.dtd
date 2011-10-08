@@ -8,7 +8,7 @@
 <!ENTITY sync.syncNow               "Sinchronizuoti dabar">
 
 <!ENTITY sync.setup.title           "Prisijungimas prie „Sync“">
-<!ENTITY sync.setup.jpake           "Kompiuteryje, kuriame su „Firefox“ naršykle naudojate „Sync“, atverkite sinchronizavimo nuostatas ir spustelėkite mygtuką „Pridėti įrenginį“">
+<!ENTITY sync.setup.pair            "Norėdami įjungti sinchronizavimą, kitame įrenginyje pasirinkite „Suporuoti įrenginį“.">
 <!ENTITY sync.fallback              "Šiuo metu negaliu prieiti prie savo kompiuterio…">
 <!ENTITY sync.setup.manual          "Įveskite savo „Sync“ paskyros duomenis">
 <!ENTITY sync.account               "Paskyros vardas">
@@ -19,3 +19,4 @@
 <!ENTITY sync.setup.connect         "Prisijungti">
 <!ENTITY sync.setup.cancel          "Atsisakyti">
 <!ENTITY sync.setup.tutorial        "Kaip tai daroma?">
+<!ENTITY sync.setup.waiting         "Įrenginys poruojamas…">
