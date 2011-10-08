@@ -59,7 +59,7 @@
 <!ENTITY editMessageButton.label "Bewurkje…">
 <!ENTITY hdrArchiveButton.label "argivearje">
 <!ENTITY hdrArchiveButton.tooltip "argivearje dit berjocht">
-<!ENTITY hdrSmartReplyButton1.label "Tûk beantwurdzje">
+<!ENTITY hdrSmartReplyButton.label "Tûk beantwurdzje">
 <!ENTITY hdrReplyButton.label "beantwurdzje">
 <!ENTITY hdrReplyButton.tooltip "beantwurdzje dit berjocht">
 <!ENTITY hdrReplyAllButton.label "elk beantwurdzje">
