@@ -462,6 +462,12 @@ can reach it easily. -->
 <!ENTITY mediaHideControls.accesskey    "m">
 <!ENTITY videoFullScreen.label          "Visas ekranas">
 <!ENTITY videoFullScreen.accesskey      "V">
+<!ENTITY videoSaveImage.label           "Įrašyti kadrą kaip…">
+<!ENTITY videoSaveImage.accesskey       "k">
+<!ENTITY videoShowStats.label           "Rodyti statistiką">
+<!ENTITY videoShowStats.accesskey       "s">
+<!ENTITY videoHideStats.label           "Nerodyti statistikos">
+<!ENTITY videoHideStats.accesskey       "s">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -473,7 +479,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.accesskey   "d">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "ž"> <!-- same key as "+" and "=" on the very popular Lithuanian Baltic keyboard -->
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "ž"> <!-- same key as "+" and "=" on the popular Lithuanian Numeric keyboard -->
 
 <!ENTITY fullZoomReduceCmd.label        "Sumažinti">
 <!ENTITY fullZoomReduceCmd.accesskey    "m">

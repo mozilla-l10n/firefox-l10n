@@ -47,7 +47,7 @@
 <!ENTITY myRecoveryKey.label          "Mano atkūrimo raktas">
 <!ENTITY resetSync2.label             "Iš naujo sinchronizuoti duomenis…">
 
-<!ENTITY addDevice.label              "Pridėti įrenginį">
+<!ENTITY pairDevice.label             "Suporuoti įrenginį">
 
 <!ENTITY syncMy.label               "Sinchronizuoti:">
 <!ENTITY engine.bookmarks.label     "adresyną">
