@@ -120,6 +120,8 @@
 <!ENTITY deleteAllAttachmentsCmd.label    "Ta bort alla…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "T">
 
+<!ENTITY openAttachment.tooltip "Öppna den bifogade filen">
+
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Spara">
 <!ENTITY saveAttachmentButton1.tooltip     "Spara den bifogade filen">
