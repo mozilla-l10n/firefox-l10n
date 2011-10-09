@@ -70,7 +70,7 @@
 
 <!ENTITY downloadCert.title "Go bula Setifikheiti">
 <!ENTITY downloadCert.message1 "O kgopetšwe go tshepha Taolo e mpsha ya Disetifikheiti (CA).">
-<!ENTITY downloadCert.trustSSL "Tshepha CA ye go hlatha diwebe saete.">
+<!ENTITY downloadCert.trustSSL "Trust this CA to identify websites.">
 <!ENTITY downloadCert.trustEmail "Tshepha CA ye go hlatha bašomiši ba e-poso.">
 <!ENTITY downloadCert.trustObjSign "Holofela CA ye šupa batšweletši ba mananeotirišo a khomphutha.">
 <!ENTITY downloadCert.message3 "Pele o ka tshepha CA ye morerong o mongwe le o mongwe, o swanetše go lekola setifikheiti sa yona le maano-tshepedišo le ditsela tša yona (ge di le gona).">

@@ -13,9 +13,9 @@
 <!ENTITY manageAccount.label          "Laola akhaonto">
 <!ENTITY manageAccount.accesskey      "a">
 <!ENTITY viewQuota.label              "Lebelela khuota">
-<!ENTITY changePassword2.label         "Fetoša lentšuphetišo...">
-<!ENTITY mySyncKey.label              "Fetoša mobolelwana wa sephiri">
-<!ENTITY resetSync2.label              "Beakanya nyalantšho ka leswa...">
+<!ENTITY changePassword2.label        "Fetoša lentšuphetišo...">
+<!ENTITY myRecoveryKey.label          "Khii ya ka ya khwetšo">
+<!ENTITY resetSync2.label             "Beakanya nyalantšho ka leswa...">
 
 <!ENTITY addDevice.label              "Tsenya sedirišwa">
 

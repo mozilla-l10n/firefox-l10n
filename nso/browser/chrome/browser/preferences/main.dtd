@@ -13,8 +13,8 @@
 <!ENTITY useCurrentPage.label      "Diriša letlakala la bjale">
 <!ENTITY useCurrentPage.accesskey  "l">
 <!ENTITY useMultiple.label         "Diriša matlakala a bjale">
-<!ENTITY useBookmark.label         "Diriša pukutshwayo">
-<!ENTITY useBookmark.accesskey     "p">
+<!ENTITY chooseBookmark.label      "Diriša pukutshwayo...">
+<!ENTITY chooseBookmark.accesskey  "p">
 <!ENTITY restoreDefault.label      "Bušetša go tirelwa">
 <!ENTITY restoreDefault.accesskey  "B">
 

@@ -72,9 +72,9 @@
 
 <!ENTITY certmgr.editcert.title               "Rulaganya Dipeakanyo tša Ditifikheiti tša Tšhireletšo">
 <!ENTITY certmgr.editcacert.title             "Rulaganya dipeakanyo tša tshepho ya setifikheiti sa CA">
-<!ENTITY certmgr.editsslcert.title            "Rulaganya dipeakanyo tša tshepho ya setifikheiti sa wepe saete">
+<!ENTITY certmgr.editsslcert.title            "Edit website certificate trust settings">
 <!ENTITY certmgr.editcert.edittrust           "Rulaganya dipeakanyo tša tshepho:">
-<!ENTITY certmgr.editcert.trustssl            "Setifikheiti se se ka hlaola diwepe saete.">
+<!ENTITY certmgr.editcert.trustssl            "This certificate can identify websites.">
 <!ENTITY certmgr.editcert.trustemail          "Setifikheiti se se ka hlaola badiriši ba thomelo.">
 <!ENTITY certmgr.editcert.trustobjsign        "Setifikeiti se se ka šupa badiri ba lenaneotirišo la khomphutha.">
 <!ENTITY certmgr.editsslcert.edittrust        "Rulaganya dipeakanyo tša tshepho ya setifikheiti:">
