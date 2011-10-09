@@ -8,7 +8,7 @@
 <!ENTITY sync.syncNow               "Nu synchroniseren">
 
 <!ENTITY sync.setup.title           "Verbinden met Sync">
-<!ENTITY sync.setup.jpake           "Ga op een computer die met Firefox Sync is verbonden naar de Sync-opties en selecteer &#x0022;Een apparaat toevoegen&#x0022;">
+<!ENTITY sync.setup.pair            "Om te activeren, selecteer “Een apparaat koppelen” op uw andere apparaat.">
 <!ENTITY sync.fallback              "Ik ben niet bij mijn computer…">
 <!ENTITY sync.setup.manual          "Voer uw Sync-accountgegevens in">
 <!ENTITY sync.account               "Accountnaam">
