@@ -15,5 +15,5 @@
 <!ENTITY stats.framesParsed "Frame analizzati">
 <!ENTITY stats.framesDecoded "Frame decodificati">
 <!ENTITY stats.framesPresented "Frame presentati">
-<!ENTITY stats.framesPainted "Frame disegnati">
+<!ENTITY stats.framesPainted "Frame riprodotti">
 <!ENTITY scrubberScale.nameFormat "Trascorso: #1 di #2">
