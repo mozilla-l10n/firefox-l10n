@@ -193,6 +193,9 @@ can reach it easily. -->
 <!ENTITY inspectMenu.label            "Hlahloba">
 <!ENTITY inspectMenu.accesskey        "b">
 <!ENTITY inspectMenu.commandkey       "I">
+
+<!ENTITY inspectContextMenu.label     "Setho sa go hlahloba">
+<!ENTITY inspectContextMenu.accesskey "Q">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -480,7 +483,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Emiša"> 
 <!ENTITY quitApplicationCmd.accesskey   "E">
 <!ENTITY quitApplicationCmdMac.label    "Emiša &brandShortName;">
-<!ENTITY quitApplicationCmdMac.key      "Q">
+<!ENTITY quitApplicationCmdMac.key      "E">
 
 <!ENTITY closeCmd.label                 "Tswalela">  
 <!ENTITY closeCmd.key                   "W">  
@@ -493,7 +496,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Setaele sa motheo sa letlakala">
 <!ENTITY pageStylePersistentOnly.accesskey "S">
 
-<!ENTITY pageReportIcon.tooltip            "Fetola dipeakanyo tša thibelo ya dirunyi bakeng sa wepesaete ye">
+<!ENTITY pageReportIcon.tooltip            "Fetoša dipeakanyo tša thibelo ya dirunyi bakeng sa wepesaete ye">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but

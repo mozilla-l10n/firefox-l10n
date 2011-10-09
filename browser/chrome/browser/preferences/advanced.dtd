@@ -8,7 +8,7 @@
 <!ENTITY useCursorNavigation.accesskey   "k">
 <!ENTITY searchStartTyping.label         "Nyaka mongwalo ge ke thoma go tlanya">
 <!ENTITY searchStartTyping.accesskey     "w">
-<!ENTITY blockAutoRefresh.label          "Ntemoše ge diwepesaete di leka go laela gape goba go hlahlela gape letlakala">
+<!ENTITY blockAutoRefresh.label          "Ntemoše ge diwepesaete di leka go laela gape goba go hlahlela letlakala gape">
 <!ENTITY blockAutoRefresh.accesskey      "p">
 
 <!ENTITY browsing.label                  "Go praosa">

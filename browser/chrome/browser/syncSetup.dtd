@@ -19,8 +19,8 @@
 <!ENTITY signIn.account2.accesskey  "A">
 <!ENTITY signIn.password.label      "Lentšuphetišo">
 <!ENTITY signIn.password.accesskey  "p">
-<!ENTITY signIn.syncKey.label       "Khii ya nyalantšho">
-<!ENTITY signIn.syncKey.accesskey   "K">
+<!ENTITY signIn.recoveryKey.label       "Khii ya khwetšo">
+<!ENTITY signIn.recoveryKey.accesskey   "K">
 <!-- New Account Page 1: Basic Account Info -->
 
 <!ENTITY setup.newAccountDetailsPage.title.label "Dintlha tša akhaonto">
@@ -41,12 +41,12 @@
 <!ENTITY setup.tosAgree2.accesskey  "">
 <!-- New Account Page 2: Sync Key -->
 
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; e tswenyegile ka bosephiri bja gago">
-<!ENTITY setup.newSyncKeyPage.description.label "Go kgonthišetša bosephiri bja gago ka botlalo, tsebišo ya gago yohle e tla utwa pele ga ge e ka hlahlelwa. Khii ya nyalantšho yeo e hlokegago go utolla tsebišo ya gago ga se ya hlahlelwa.">
-<!ENTITY syncKeyEntry.label        "Khii ya gago ya nyalantšho">
-<!ENTITY syncKeyEntry.accesskey    "K">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; e tswenyegile ka bosephiri bja gago">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Go kgonthišetša bosephiri bja gago ka botlalo, tsebišo ya gago yohle e tla utwa pele ga ge e ka hlahlelwa. Khii ya khwetšo yeo e hlokegago go utolla tsebišo ya gago ga se ya hlahlelwa.">
+<!ENTITY recoveryKeyEntry.label        "Khii ya gago ya khwetšo">
+<!ENTITY recoveryKeyEntry.accesskey    "K">
 <!ENTITY syncGenerateNewKey.label  "Hlagiša khii e mpsha">
-<!ENTITY syncKeyBackup.description "Go nyakega khii ya gago ya nyalantšho gore o tsene go &syncBrand.fullName.label; metšheneng e mengwe. Hle dira kopi ya pekapo. Re ka se go thuše go hwetša khii ya gago ya nyalantšho gape.">
+<!ENTITY recoveryKeyBackup.description "Go nyakega khii ya gago ya khwetšo gore o tsene go &syncBrand.fullName.label; metšheneng e mengwe. Hle dira kopi ya pekapo. Re ka se go thuše go hwetša khii ya gago ya khwetšo gape.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Gatiša…">
 <!ENTITY button.syncKeyBackup.print.accesskey "G">
@@ -65,12 +65,12 @@
 <!ENTITY addDevice.dialog.enterCode.label   "Tsenya khoutu yeo sedirišwa se e neago:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Hle leka gape.">
 <!ENTITY addDevice.dialog.successful.label  "Sedirišwa se tsentšhitšwe ka katlego. Nyalantšho ya pele e ka tšea metsotso e mmalwa gomme e tla fetša bokamoragong.">
-<!ENTITY addDevice.dialog.syncKey.label     "Go diragatša sedirišwa sa gago go tla nyakega gore o tsenye khii ya gago ya nyalantšho. Hle gatiša le go boloka khii ye gomme o sepele le yona.">
+<!ENTITY addDevice.dialog.recoveryKey.label     "Go diragatša sedirišwa sa gago go tla nyakega gore o tsenye khii ya gago ya khwetšo. Hle gatiša le go boloka khii ye gomme o sepele le yona.">
 <!ENTITY addDevice.dialog.connected.label   "Sedirišwa se kgokagantšwe">
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "Tsena">
-<!ENTITY existingSyncKey.description "O ka hwetša kopi ya khii ya gago ya nyalantšho ka go ya go dikgetho tša &syncBrand.fullName.label; go sedirišwa sa gago se sengwe gomme o kgethe  &#x0022;My Sync Key&#x0022; ka tlase ga &#x0022;Manage Account&#x0022;.">
+<!ENTITY existingRecoveryKey.description "O ka hwetša kopi ya khii ya gago ya khwetšo ka go ya go dikgetho tša &syncBrand.fullName.label; go sedirišwa sa gago se sengwe gomme o kgethe  &#x0022;My Recovery Key&#x0022; ka tlase ga &#x0022;Manage Account&#x0022;.">
 <!ENTITY verifying.label              "Go netefatša…">
 <!ENTITY resetPassword.label          "Beakanya lentšuphetišo ka leswa">
 <!ENTITY resetSyncKey.label           "Ke lahlegetšwe ke sedirišwa sa ka se sengwe.">
