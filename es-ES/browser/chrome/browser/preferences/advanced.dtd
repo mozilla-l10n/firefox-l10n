@@ -23,7 +23,7 @@
 <!ENTITY submitCrashes.label "Enviar reportes de fallos">
 <!ENTITY submitCrashes.accesskey "f">
 <!ENTITY submitTelemetry.label "Enviar información de rendimiento">
-<!ENTITY submitTelemetry.accesskey "m">
+<!ENTITY submitTelemetry.accesskey "n">
 <!ENTITY networkTab.label "Red">
 <!ENTITY connection.label "Conexión">
 <!ENTITY connectionDesc.label "Configurar cómo &brandShortName; se conecta a Internet">
