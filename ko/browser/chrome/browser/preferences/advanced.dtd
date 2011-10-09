@@ -54,7 +54,7 @@
 <!ENTITY limitCacheSizeAfter.label       "MB 공간">
 <!ENTITY clearCacheNow.label             "삭제">
 <!ENTITY clearCacheNow.accesskey         "C">
-<!ENTITY overrideSmartCacheSize.label    "자동 캐시 크기 관리">
+<!ENTITY overrideSmartCacheSize.label    "캐시 크기 사용자 정의">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
 <!ENTITY askMe.label "항상 물어 보기">
