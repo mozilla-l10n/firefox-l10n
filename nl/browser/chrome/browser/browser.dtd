@@ -432,7 +432,8 @@ can reach it easily. -->
 <!ENTITY mediaHideControls.accesskey "B">
 <!ENTITY videoFullScreen.label       "Volledig scherm">
 <!ENTITY videoFullScreen.accesskey   "V">
-
+<!ENTITY videoSaveImage.label        "Snapshot opslaan als…">
+<!ENTITY videoSaveImage.accesskey    "S">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
