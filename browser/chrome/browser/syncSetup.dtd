@@ -52,8 +52,6 @@
 <!ENTITY button.syncKeyBackup.save.label      "Opslaan…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "O">
 
-<!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "Bevestig dat u geen robot bent">
 <!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
 <!ENTITY pairDevice.title.label             "Een apparaat koppelen">
 <!ENTITY addDevice.showMeHow.label          "Toon me hoe.">
