@@ -337,11 +337,11 @@
 <!ENTITY videoFullScreen.label "A tutto schermo">
 <!ENTITY videoFullScreen.accesskey "u">
 <!ENTITY videoSaveImage.label "Salva fotogramma come…">
-<!ENTITY videoSaveImage.accesskey "S">
+<!ENTITY videoSaveImage.accesskey "f">
 <!ENTITY videoShowStats.label "Visualizza statistiche">
-<!ENTITY videoShowStats.accesskey "t">
+<!ENTITY videoShowStats.accesskey "h">
 <!ENTITY videoHideStats.label "Nascondi statistiche">
-<!ENTITY videoHideStats.accesskey "t">
+<!ENTITY videoHideStats.accesskey "h">
 <!ENTITY fullZoomEnlargeCmd.label "Aumenta zoom">
 <!ENTITY fullZoomEnlargeCmd.accesskey "u">
 <!ENTITY fullZoomEnlargeCmd.commandkey "+">
