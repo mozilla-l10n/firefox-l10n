@@ -118,6 +118,8 @@
 <!ENTITY deleteAllAttachmentsCmd.label "Alles verwijderen…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey "v">
 
+<!ENTITY openAttachment.tooltip "Bijlagebestand openen">
+
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Opslaan">
 <!ENTITY saveAttachmentButton1.tooltip     "Bijlage opslaan">
