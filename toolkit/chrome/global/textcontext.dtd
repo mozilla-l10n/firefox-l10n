@@ -45,7 +45,7 @@
 <!ENTITY spellAddToDictionary.label "Lägg till i ordlista">
 <!ENTITY spellAddToDictionary.accesskey "ä">
 <!ENTITY spellCheckEnable.label "Kontrollera stavning">
-<!ENTITY spellCheckEnable.accesskey "n">
+<!ENTITY spellCheckEnable.accesskey "r">
 <!ENTITY spellNoSuggestions.label "(Inga stavningsförslag)">
 <!ENTITY spellDictionaries.label "Språk">
 <!ENTITY spellDictionaries.accesskey "S">
