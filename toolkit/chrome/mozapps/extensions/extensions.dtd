@@ -13,8 +13,8 @@
 
 <!ENTITY cmd.back.tooltip                     "Rach duilleag air ais">
 <!ENTITY cmd.forward.tooltip                  "Rach duilleag air adhart">
-
 <!-- global warnings -->
+
 <!ENTITY warning.safemode.label                    "Chaidh a h-uile tuilleadan a chur à comas leis a' mhodh sàbhailte.">
 <!ENTITY warning.checkcompatibility.label          "Chaidh an sgrùdadh air co-chòrdalachd nan tuilleadain a chur à comas. Dh'fhaodadh gu bheil tuilleadan agad nach eil co-chòrdail.">
 <!ENTITY warning.checkcompatibility.enable.label   "Cuir an comas">
@@ -22,18 +22,18 @@
 <!ENTITY warning.updatesecurity.label              "Chaidh an sgrùdadh tèarainteachd air ùrachadh nan tuilleadain a chur à comas. Dh'fhaodadh gun cuir ùrachaidhean cron ort.">
 <!ENTITY warning.updatesecurity.enable.label       "Cuir an comas">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Cuir an comas sgrùdadh tèarainteachd nan tuilleadan">
-
 <!-- global informations -->
+
 <!ENTITY info.plugincheck.label                 "Thoir sùil ach a bheil na plugain agad cho ùr 's a ghabhas">
 <!ENTITY info.plugincheck.tooltip               "Thoir sùil ach a bheil na plugain agad cho ùr 's a ghabhas">
-
 <!-- categories / views -->
+
 <!ENTITY view.search.label                    "Lorg">
 <!ENTITY view.discover.label                  "Faigh tuilleadain">
 <!ENTITY view.recentUpdates.label             "Ùraichaidhean faisg ort">
 <!ENTITY view.availableUpdates.label          "Ùrachaidhean a tha ri am faighinn">
-
 <!-- addon updates -->
+
 <!ENTITY updates.checkForUpdates.label        "Lorg ùrachaidhean">
 <!ENTITY updates.checkForUpdates.accesskey    "c">
 <!ENTITY updates.viewUpdates.label            "Seall na h-ùrachaidhean faisg orm">
@@ -61,8 +61,8 @@
 <!ENTITY updates.manualUpdatesFound.label     "Seall na h-ùrachaidhean a tha ri am faighinn">
 <!ENTITY updates.updateSelected.label         "Stàlaich na h-ùrachaidhean">
 <!ENTITY updates.updateSelected.tooltip       "Stàlaich na h-ùrachaidhean san liosta seo a tha ri am faighinn">
-
 <!-- addon actions -->
+
 <!ENTITY cmd.showDetails.label                "Seall barrachd fiosrachaidh">
 <!ENTITY cmd.showDetails.accesskey            "S">
 <!ENTITY cmd.findUpdates.label                "Lorg ùrachaidhean">
@@ -98,19 +98,18 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Seall nòtaichean sgaoilidh an ùrachaidh seo">
 <!ENTITY cmd.hideReleaseNotes.label           "Cuir na nòtaichean sgaoilidh am falach">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Cuir nòtaichean sgaoilidh an ùrachaidh seo am falach">
-
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
-<!ENTITY discover.title                       "Dè th' ann an tuilleadan?">
-<!ENTITY discover.description2                "'S e prògram beag a tha ann an tuilleadan leis an urrainn dhut
-  feartan no stoidhle a bharrachd a chur ri Firefox. Feuch ri bàr-taoibhe a shàbhals ùine, aithrisiche na h-aimsire
-  no ùrlar gus do dhreach fhèin a chur air &brandShortName;.">
-<!ENTITY discover.footer                      "Nochdaidh cuid dhe na tuilleadan as fhearr 's air a bheil an fhèill
-  as motha an-seo nuair a bhios tu co-cheangailte ris an lìon gun
-  urrainn dhut feuchainn riutha.">
 
+<!ENTITY discover.title                       "Dè th' ann an tuilleadan?">
+<!ENTITY discover.description2                "'S e prògram beag a tha ann an tuilleadan leis an urrainn dhut 
+feartan no stoidhle a bharrachd a chur ri Firefox. Feuch ri bàr-taoibhe a shàbhals ùine, aithrisiche na h-aimsire 
+no ùrlar gus do dhreach fhèin a chur air &brandShortName;.">
+<!ENTITY discover.footer                      "Nochdaidh cuid dhe na tuilleadan as fhearr 's air a bheil an fhèill as motha an-seo 
+nuair a bhios tu co-cheangailte ris an lìon gun urrainn dhut feuchainn riutha.">
 <!-- detail view -->
+
 <!ENTITY detail.version.label                 "Tionndadh">
 <!ENTITY detail.lastupdated.label             "Ùrachadh mu dheireadh">
 <!ENTITY detail.creator.label                 "Leasaichear">
@@ -139,17 +138,17 @@
 <!ENTITY detail.showPreferencesUnix.label     "Roghainnean">
 <!ENTITY detail.showPreferencesUnix.accesskey "R">
 <!ENTITY detail.showPreferencesUnix.tooltip   "Atharraich roghainnean an tuilleadain seo">
-
-
 <!-- ratings -->
-<!ENTITY rating2.label                        "Rangachadh">
 
+
+<!ENTITY rating2.label                        "Rangachadh">
 <!-- download/install progress -->
+
 <!ENTITY progress.pause.tooltip               "Cuir 'na stad">
 <!ENTITY progress.cancel.tooltip              "Sguir dheth">
-
-
 <!-- list sorting -->
+
+
 <!ENTITY sort.name.label                      "Ainm">
 <!ENTITY sort.name.tooltip                    "Seòrsaich a-rèir ainm">
 <!ENTITY sort.dateUpdated.label               "Ùrachadh mu dheireadh">
@@ -201,4 +200,4 @@
 <!ENTITY eula.height                          "400px">
 <!ENTITY eula.accept                          "Gabh ris is stàlaich e…">
 
-<!ENTITY settings.path.button.label           "Brabhsaich...">
+<!ENTITY settings.path.button.label           "Brabhsaich…">

@@ -37,7 +37,7 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY  intro.label                 "Chuir thu romhad na leanas fhosgladh:">
+<!ENTITY  intro.label                 "Chuir thu romhad na leanas fhosgladh">
 <!ENTITY  from.label                  "o:">
 <!ENTITY  actionQuestion.label        "Dè nì &brandShortName; leis an fhaidhle seo?">
 
@@ -51,7 +51,7 @@
 <!ENTITY  rememberChoice.label        "Dèantar seo leis fhèin le faidhlichean d' a leithid san àm ri teachd.">
 <!ENTITY  rememberChoice.accesskey    "a">
 
-<!ENTITY  whichIsA.label              "a tha 'na: ">
+<!ENTITY  whichIsA.label              "a tha 'na:">
 
 <!ENTITY  chooseHandlerMac.label      "Tagh…">
 <!ENTITY  chooseHandlerMac.accesskey  "T">

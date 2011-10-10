@@ -8,7 +8,7 @@
 <!ENTITY useCursorNavigation.accesskey   "C">
 <!ENTITY searchStartTyping.label         "Lorg teacs cho luath 's a thòisicheas mi air taidhpeadh">
 <!ENTITY searchStartTyping.accesskey     "L">
-<!ENTITY blockAutoRefresh.label          "Thoir rabhadh dhomh nuair a dh'fheuchas làraichean-lìn ri m' ath-sheòladh no ris an duilleag ath-luchdadh.">
+<!ENTITY blockAutoRefresh.label          "Thoir rabhadh dhomh nuair a dh'fheuchas làraichean-lìn ri m' ath-sheòladh no ris an duilleag ath-luchdadh">
 <!ENTITY blockAutoRefresh.accesskey      "b">
 
 <!ENTITY browsing.label                  "A' brabhsadh">
@@ -23,7 +23,8 @@
 <!ENTITY checkSpelling.accesskey         "t">
 
 <!ENTITY systemDefaults.label            "Roghainnean bunaiteach an t-siostaim">
-<!ENTITY alwaysCheckDefault.label        "Bheir &brandShortName; sùil an e e fhèin do roghainn brabhsair gach turas a thòiseachas e"><!--XXX-->
+<!--XXX-->
+<!ENTITY alwaysCheckDefault.label        "Bheir &brandShortName; sùil an e e fhèin do roghainn brabhsair gach turas a thòiseachas e">
 <!ENTITY alwaysCheckDefault.accesskey    "B">
 <!ENTITY checkNow.label                  "Thoir sùil an-dràsta">
 <!ENTITY checkNow.accesskey              "n">
@@ -41,13 +42,13 @@
 <!ENTITY connectionSettings.accesskey    "e">
 
 <!ENTITY offlineStorage.label            "Stòras far loidhne">
-
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
+
 <!ENTITY limitCacheSizeBefore.label      "Cuingich an tasgadan gu">
 <!ENTITY limitCacheSizeBefore.accesskey  "C">
 <!ENTITY limitCacheSizeAfter.label       "MB a dh'àite">

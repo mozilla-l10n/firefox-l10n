@@ -2,20 +2,21 @@
 <!ENTITY setupButton.label          "Rèitich &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "R">
 <!ENTITY weaveDesc.label            "'S urrainn dhut inntrigeadh a dhèanamh dhan eachdraidh, na comharran-lìn, na faclan-faire 's tabaichean fosgailte air feadh nan innealan agad le &syncBrand.fullName.label;.">
-
 <!-- The page shown when logged in... -->
-
 <!-- Login error feedback -->
+
+
 <!ENTITY updatePass.label             "Ùraich">
 <!ENTITY resetPass.label              "Ath-shuidhich">
-
 <!-- Manage Account -->
+
 <!ENTITY manageAccount.label          "Stiùirich an cunntas">
 <!ENTITY manageAccount.accesskey      "a">
 <!ENTITY viewQuota.label              "Seall an cuota">
-<!ENTITY changePassword2.label         "Atharraich am facal-faire…">
-<!ENTITY mySyncKey.label              "An iuchair co-shioncronachaidh agam">
-<!ENTITY resetSync2.label              "Ath-shuidhich an co-shioncronachadh…">
+<!ENTITY changePassword2.label        "Atharraich am facal-faire…">
+<!ENTITY myRecoveryKey.label          "M' iuchair aisig">
+<!ENTITY resetSync2.label             "Ath-shuidhich an co-shioncronachadh…">
+
 <!ENTITY addDevice.label              "Cuir inneal ris">
 
 <!ENTITY syncMy.label               "Co-shioncronaich">
@@ -29,12 +30,12 @@
 <!ENTITY engine.passwords.accesskey "n">
 <!ENTITY engine.prefs.label         "na roghainnean agam">
 <!ENTITY engine.prefs.accesskey     "n">
-
 <!-- Device Settings -->
+
 <!ENTITY syncComputerName.label       "Ainm a' choimpiutair:">
 <!ENTITY syncComputerName.accesskey   "c">
 <!ENTITY unlinkDevice.label           "Dì-cheangail an t-inneal seo">
-
 <!-- Footer stuff -->
+
 <!ENTITY prefs.tosLink.label        "Teirmichean na Seirbheise">
 <!ENTITY prefs.ppLink.label         "Am Poileasaidh Prìobhaideachd">

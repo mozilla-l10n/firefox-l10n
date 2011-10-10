@@ -35,9 +35,9 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY window.title "about:config">
-
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
+
 <!ENTITY aboutWarningTitle.label "Dh'fhaodadh seo am barantas agad a chur gu neoini!">
 <!ENTITY aboutWarningText.label "Dh'fhaodadh droch bhuaidh a bhith ann air seasmhachd, tèarainteachd is dèanadas a' phrògraim seo ma dh'atharraicheas tu na roghainnean adhartach seo. Cha bu chòir dhut leantainn air adhart ach ma bhios tu cinnteach gu bheil thu eòlach air buaidh na tha thu a' dèanamh.">
 <!ENTITY aboutWarningButton.label "Tha mi a' toirt gealladh gum bi mi faiceallach!">
@@ -46,18 +46,18 @@
 <!ENTITY filterPrefs.label "Criathrag:">
 <!ENTITY filterPrefs.accesskey "C">
 <!ENTITY focusFilter.key "f">
-
 <!-- Columns -->
+
 <!ENTITY prefColumn.label "Ainm na roghainn">
 <!ENTITY lockColumn.label "Staid">
 <!ENTITY typeColumn.label "Seòrsa">
 <!ENTITY valueColumn.label "Luach">
-
 <!-- Tooltips -->
+
 <!ENTITY prefColumnHeader.tooltip "Briog gus a sheòrsachadh"> 
 <!ENTITY columnChooser.tooltip "Briog airson na cuilbh a thagh thu a thaisbeanadh"> 
-
 <!-- Context Menu -->
+
 <!ENTITY copyPref.key "C">
 <!ENTITY copyPref.label "Dèan lethbhreac">
 <!ENTITY copyPref.accesskey "c">

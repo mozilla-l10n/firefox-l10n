@@ -53,8 +53,8 @@
 <!ENTITY            renameButton.accesskey "r">
 <!ENTITY            deleteButton.label     "Sguab às pròifil…">
 <!ENTITY            deleteButton.accesskey "S">
-
 <!-- manager entities -->
+
 <!ENTITY            pmDescription.label    "Sàbhalaidh &brandShortName; fiosrachadh mu na roghainnean is rudan eile agad 'nad phròifil.">
 
 <!ENTITY            offlineState.label    "Dèan obair far loidhne">

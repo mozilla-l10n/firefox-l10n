@@ -1,6 +1,6 @@
 <!ENTITY accountSetupTitle.label    "Suidheachadh &syncBrand.fullName.label;">
-
 <!-- First page of the wizard -->
+
 
 <!ENTITY setup.pickSetupType.description "Fàilte ort! Mur eil thu air &syncBrand.fullName.label; a chleachdadh roimhe, bidh agad ri cunntas ùr a chruthachadh.">
 <!ENTITY button.createNewAccount.label "Cruthaich cunntas ùr">
@@ -10,8 +10,8 @@
 <!ENTITY setup.choicePage.title.label     "An do chleachd thu &syncBrand.fullName.label; roimhe?">
 <!ENTITY setup.choicePage.new.label       "Cha do chleachd mi &syncBrand.shortName.label; a-riamh roimhe">
 <!ENTITY setup.choicePage.existing.label  "Tha mi a' cleachdadh &syncBrand.shortName.label; air coimpiutair eile mu thràth">
-
 <!-- New Account AND Existing Account -->
+
 <!ENTITY server.label               "Am frithealaiche">
 <!ENTITY serverType.main.label      "Frithealaiche &syncBrand.fullName.label;">
 <!ENTITY serverType.custom2.label   "Cleachd frithealaiche gnàthaichte…">
@@ -19,17 +19,17 @@
 <!ENTITY signIn.account2.accesskey  "a">
 <!ENTITY signIn.password.label      "Facal-faire">
 <!ENTITY signIn.password.accesskey  "F">
-<!ENTITY signIn.syncKey.label       "Iuchair sioncronachaidh">
-<!ENTITY signIn.syncKey.accesskey   "I">
-
+<!ENTITY signIn.recoveryKey.label       "An iuchair aisig">
+<!ENTITY signIn.recoveryKey.accesskey   "g">
 <!-- New Account Page 1: Basic Account Info -->
+
 <!ENTITY setup.newAccountDetailsPage.title.label "Mion-fhiosrachadh a' chunntais">
-<!ENTITY setup.confirmPassword.label  "Dearbhaich am facal-faire">
-<!ENTITY setup.confirmPassword.accesskey  "m">
-<!ENTITY setup.choosePassword.label      "Tagh facal-faire">
-<!ENTITY setup.choosePassword.accesskey  "T">
 <!ENTITY setup.emailAddress.label     "Seòladh puist-dhealain">
 <!ENTITY setup.emailAddress.accesskey "e">
+<!ENTITY setup.choosePassword.label      "Tagh facal-faire">
+<!ENTITY setup.choosePassword.accesskey  "T">
+<!ENTITY setup.confirmPassword.label     "Dearbhaich am facal-faire">
+<!ENTITY setup.confirmPassword.accesskey "m">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
 <!ENTITY setup.tosAgree1.label      "Tha mi ag aontachadh ri">
@@ -39,21 +39,21 @@
 <!ENTITY setup.ppLink.label         "ris a' Phoileasaidh Phrìobhaideachd">
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "a">
-
 <!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "Tha do phrìobhaideachd cudromach do &brandShortName;">
-<!ENTITY setup.newSyncKeyPage.description.label "Gus do phrìobhaideachd iomlan a dhèanamh cinnteach, thèid an dàta gu lèir agad a dhubh-cheileadh mus dèid a luchdadh suas. Cha dèid an iuchair co-shioncronachaidh airson dì-cheileadh an dàta agad a luchdadh suas.">
-<!ENTITY syncKeyEntry.label        "An iuchair co-shioncronachaidh agad">
-<!ENTITY syncKeyEntry.accesskey    "A">
+
+<!ENTITY setup.newRecoveryKeyPage.title.label "Tha &brandShortName; am bun do phrìobhaideachd">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Gus do phrìobhaideachd iomlan a dhèanamh cinnteach, thèid an dàta gu lèir agad a dhubh-cheileadh mus dèid a luchdadh suas. Cha dèid an iuchair aisig airson dì-cheileadh an dàta agad a luchdadh suas.">
+<!ENTITY recoveryKeyEntry.label        "D' iuchair aisig">
+<!ENTITY recoveryKeyEntry.accesskey    "g">
 <!ENTITY syncGenerateNewKey.label  "Gin iuchair ùr">
-<!ENTITY syncKeyBackup.description "Tha feum air an iuchair cho-shioncronachaidh agad gus inntrigeadh a dhèanamh do &syncBrand.fullName.label; air innealan eile. Cruthaich lethbhreac glèidhidh. Chan urrainn dhuinn an iuchair co-shioncronachaidh aiseag dhut.">
+<!ENTITY recoveryKeyBackup.description "Tha feum air an iuchair aisig agad airson inntrigeadh do &syncBrand.fullName.label; air innealan eile. Cruthaich lethbhreac-glèidhidh dheth. Chan urrainn dhuinne an iuchair aisig agad a thoirt dhut a-rithist.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Clò-bhuail…">
 <!ENTITY button.syncKeyBackup.print.accesskey "C">
 <!ENTITY button.syncKeyBackup.save.label      "Sàbhail…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
-
 <!-- New Account Page 3: Captcha -->
+
 <!ENTITY setup.captchaPage2.title.label     "Dearbhaich nach e robotair a tha annad">
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
 <!ENTITY addDevice.title.label              "Cuir inneal ris">
@@ -65,17 +65,17 @@
 <!ENTITY addDevice.dialog.enterCode.label   "Cuir a-steach an còd a thug an t-inneal dhut:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Saoil am feuch thu ris a-rithist?">
 <!ENTITY addDevice.dialog.successful.label  "Chaidh an t-inneal a chur ris gu soirbheachail. Feumaidh a' chiad sioncronachadh grunn mhionaidean 's thig e gu crìoch sa chùlaibh.">
-<!ENTITY addDevice.dialog.syncKey.label     "Tha agad ris an iuchair sioncronachaidh a chur a-steach gus an t-inneal agad a chur ris. Clò-bhuail an iuchair seo no sàbhail e 's thoirt leat e.">
+<!ENTITY addDevice.dialog.recoveryKey.label     "Tha feum air d' iuchair aisig gus an t-inneal agad a chur thuige. Clò-bhuail an iuchair seo, no sàbhail e, agus thoir leat e.">
 <!ENTITY addDevice.dialog.connected.label   "Tha an t-inneal air a cheangal ris">
-
 <!-- Existing Account Page 2: Manual Login -->
+
 <!ENTITY setup.signInPage.title.label "Clàraich a-steach">
-<!ENTITY existingSyncKey.description "Gheibh thu lethbhreac dhen iuchair sioncronachaidh agad ma thèid thu gu roghainnean &syncBrand.shortName.label; air an inneal eile agad 's ma thaghas tu &#x0022;An iuchair sioncronachaidh agam&#x0022; fo &#x0022;Stiùirich an cunntas&#x0022;.">
+<!ENTITY existingRecoveryKey.description "Gheibh thu lethbhreac dhen iuchair aisig agad fo roghainnean &syncBrand.shortName.label; air an inneal eile agad 's tu a' taghadh  &#x0022;M' iuchair aisig&#x0022; fo &#x0022;Rianaich an cunntas&#x0022;.">
 <!ENTITY verifying.label              "'Ga dhearbhadh…">
 <!ENTITY resetPassword.label          "Ath-shuidhich am facal-faire">
 <!ENTITY resetSyncKey.label           "Chaill mi an t-inneal eile.">
-
 <!-- Sync Options -->
+
 <!ENTITY setup.optionsPage.title      "Roghainnean a' cho-shioncronachaidh">
 <!ENTITY syncComputerName.label       "Ainm a' choimpiutair:">
 <!ENTITY syncComputerName.accesskey   "c">
@@ -96,15 +96,15 @@
 <!ENTITY choice2.merge.recommended.label "Air a mholadh:">
 <!ENTITY choice2.client.main.label     "Cuir an dàta &syncBrand.shortName.label; agam an àite an dàta gu lèir air a' choimpiutair seo">
 <!ENTITY choice2.server.main.label     "Cuir dàta a' choimpiutair seo an àite gach inneal eile">
-
 <!-- Confirm Merge Options -->
+
 <!ENTITY setup.optionsConfirmPage.title "Dearbhaich">
 <!ENTITY confirm.merge.label    "Co-mheasgaichidh &syncBrand.fullName.label; dàta a' bhrabhsair air a' choimpiutair seo dhan chunntas cho-shioncronachaidh agad an-dràsta.">
 <!ENTITY confirm.client2.label         "Rabhadh: Thèid an dàta a leanas aig &brandShortName; a sguabadh às air a' choimpiutair seo:">
 <!ENTITY confirm.client.moreinfo.label "Nì &brandShortName; lethbhreac dhen dàta &syncBrand.fullName.label; agad air a' choimpiutair seo an uairsin.">
 <!ENTITY confirm.server2.label         "Rabhadh: Thèid an dàta ionadail a sgrìobhadh thairis air na h-innealan a leanas:">
-
 <!-- New & Existing Account: Setup Complete -->
+
 <!ENTITY setup.successPage.title "Tha an suidheachadh deiseil">
 <!ENTITY changeOptions.label "'S urrainn dhut an roghainn seo atharrachadh fo roghainnean a' cho-shioncronachaidh gu h-ìosal.">
 <!ENTITY continueUsing.label "'S urrainn dhut leantainn ort le bhith a' cleachdadh &brandShortName; a-nis.">

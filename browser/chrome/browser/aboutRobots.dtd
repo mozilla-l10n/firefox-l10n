@@ -4,8 +4,8 @@
          https://www.mozilla.com/en-US/firefox/3.0b3/firstrun/
      They're just meant to be fun and whimsical, with references to some geeky
      but well-known robots in movies and books. Be creative with translations! -->
-
 <!-- Nonsense line from the movie "The Day The Earth Stood Still". No translation needed. -->
+
 <!ENTITY robots.pagetitle  "Gort! Klaatu barada nikto!">
 <!-- Movie: Logan's Run... Box (cybog): "Welcome Humans! I am ready for you." -->
 <!ENTITY robots.errorTitleText "Fàilte oirbh, a mhac an duine!">
@@ -15,7 +15,7 @@
 <!ENTITY robots.errorLongDesc1 "Cha fhaod robotairean duine a leònadh no leigeil le cron a thachairt do dhuine le bhith &apos;nan tàmh.">
 <!-- Movie: Blade Runner. Batty: "I've seen things you people wouldn't believe..." -->
 <!ENTITY robots.errorLongDesc2 "Chunnaic robotairean rudan nach creid sibhse idir.">
-<!-- Book: Hitchiker's Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots. -->
+<!-- Book: Hitchhiker's Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots. -->
 <!ENTITY robots.errorLongDesc3 "Tha robotairean &apos;nur caraidean plastaig a tha a chuideachd spòrsail.">
 <!-- TV: Futurama. Bender's first line is "Bite my shiny metal ass." -->
 <!ENTITY robots.errorLongDesc4 "Tha tòin mheatailteach ghleansach air robotairean nach bu chòir dhut bìdeadh.">
@@ -23,5 +23,5 @@
 <!ENTITY robots.errorTrailerDescText "Agus tha plana aca.">
 <!-- TV: Battlestar Galactica (2004 series). Common expletive referring to Cylons. -->
 <!ENTITY robots.imgtitle "Tòstairean na mallachd">
-<!-- Book: Hitchiker's Guide To The Galaxy. Arthur presses a button and it warns him. -->
+<!-- Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him. -->
 <!ENTITY robots.dontpress "Saoil nach put thu am putan seo a-rithist?">

@@ -4,8 +4,8 @@
 
 <!ENTITY  columnLabel.name          "Ainm">
 <!ENTITY  columnLabel.keyword       "Facal-luirg">
-
 <!-- Buttons -->
+
 <!ENTITY  up.label                  "Gluais suas">
 <!ENTITY  up.accesskey              "u">
 <!ENTITY  dn.label                  "Gluais sìos">
