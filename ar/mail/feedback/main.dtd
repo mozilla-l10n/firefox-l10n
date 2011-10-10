@@ -1,0 +1,36 @@
+<!ENTITY testpilot.brand.label "مرشد الاختبارات">
+<!-- browser window: menu and status bar -->
+<!ENTITY testpilot.settings.label "إعدادات">
+<!ENTITY testpilot.settings.dataSubmission.label "إرسال البيانات">
+<!ENTITY testpilot.settings.notifications.label "تنبيهات">
+<!ENTITY testpilot.settings.notifyWhen.label "نبّهني عند…">
+<!ENTITY testpilot.settings.readyToSubmit.label "الدراسة جاهزة للإرسال">
+<!ENTITY testpilot.settings.newStudy.label "هناك دراسة جديدة">
+<!ENTITY testpilot.settings.hasNewResults.label "الدراسة فيها نتائج جديدة">
+<!ENTITY testpilot.settings.alwaysSubmitData.shortLabel "أرسِل بيانات دائمًا (من غير أن تسألني)">
+<!ENTITY testpilot.allYourStudies.label "جميع دراسات المستخدم الخاصة بك…">
+<!ENTITY testpilot.about.label "عن مرشد الاختبارات">
+<!-- all studies window -->
+
+<!ENTITY testpilot.studiesWindow.title "دراسات مرشد الاختبارات الخاص بك">
+<!ENTITY testpilot.studiesWindow.currentStudies.label "الدراسات الحالية">
+<!ENTITY testpilot.studiesWindow.finishedStudies.label "الدراسات المنتهية">
+<!ENTITY testpilot.studiesWindow.studyFindings.label "نتائج الدراسات">
+<!ENTITY testpilot.studiesWindow.settings.label "إعدادات">
+<!ENTITY testpilot.studiesWindow.stillLoadingMessage "يحمّل، يُرجى الانتظار…">
+<!-- raw data dialog -->
+
+<!ENTITY testpilot.rawDataWindow.title "مرشد الاختبارات: بيانات خام">
+<!-- notification -->
+
+<!ENTITY testpilot.notification.close.tooltip "أغلِق">
+<!-- Firefox 4 beta version UI -->
+
+<!ENTITY testpilot.enable.label "شغّل دراسات المستخدمين">
+<!ENTITY testpilot.feedbackbutton.label "التعليقات">
+<!ENTITY testpilot.happy.label "فَيَرفُكس أسعدني بسبب…">
+<!ENTITY testpilot.sad.label "فَيَرفُكس أحزنني بسبب…">
+<!ENTITY testpilot.happy.thunderbirdLabel "ثندِربِرد أسعدني بسبب…">
+<!ENTITY testpilot.sad.thunderbirdLabel "ثندِربِرد أحزنني بسبب…">
+<!ENTITY testpilot.broken.label "بلّغ عن هذا الموقع أنه لا يظهر بشكل صحيح…">
+<!ENTITY testpilot.idea.label "قدِّم لنا اقتراحًا">
