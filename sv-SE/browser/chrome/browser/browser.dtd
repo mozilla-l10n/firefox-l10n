@@ -198,7 +198,7 @@ can reach it easily. -->
 <!ENTITY toolsMenu.accesskey          "v"> 
 
 <!ENTITY keywordfield.label           "Lägg till ett nyckelord för denna sökning…">
-<!ENTITY keywordfield.accesskey       "n">
+<!ENTITY keywordfield.accesskey       "e">
 <!ENTITY search.label                 "Sök på webben">
 <!ENTITY search.accesskey             "S">
 <!ENTITY downloads.label              "Filhämtaren">
@@ -226,7 +226,7 @@ can reach it easily. -->
 <!ENTITY inspectMenu.commandkey       "I">
 
 <!ENTITY inspectContextMenu.label     "Inspektera element">
-<!ENTITY inspectContextMenu.accesskey "t">
+<!ENTITY inspectContextMenu.accesskey "n">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
