@@ -91,10 +91,12 @@
 <!ENTITY showContactPane.accesskey "ل">
 <!ENTITY menu_ShowNameAs.label "اعرض الاسم ك‍">
 <!ENTITY menu_ShowNameAs.accesskey "ك">
-<!ENTITY firstLastCmd.label "الأول، الأخير">
-<!ENTITY firstLastCmd.accesskey "خ">
-<!ENTITY lastFirstCmd.label "الأخير، الأول">
-<!ENTITY lastFirstCmd.accesskey "و">
+<!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
+because displayed names don't have the comma in between. -->
+<!ENTITY firstLastCmd2.label                            "الاسم الكنية">
+<!ENTITY firstLastCmd2.accesskey                        "ن"> 
+<!ENTITY lastFirstCmd.label "الكنية، الاسم">
+<!ENTITY lastFirstCmd.accesskey "م">
 <!ENTITY displayNameCmd.label "اسم العرض">
 <!ENTITY displayNameCmd.accesskey "س">
 <!ENTITY sortMenu.label "رتّب حسب">
