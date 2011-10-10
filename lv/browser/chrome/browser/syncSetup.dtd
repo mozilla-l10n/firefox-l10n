@@ -3,11 +3,12 @@
 <!-- First page of the wizard -->
 
 <!ENTITY button.createNewAccount.label "Izveidot jaunu kontu">
+<!ENTITY button.haveAccount.label      "Man jau ir konts">
 
 <!ENTITY setup.choicePage.title.label     "Vai lietojat &syncBrand.fullName.label;s iespēju?">
 <!ENTITY setup.choicePage.new.label       "Es vēl nelietoju &syncBrand.shortName.label;s iespēju">
 <!ENTITY setup.choicePage.existing.label  "Es jau lietoju &syncBrand.shortName.label;s iespēju citā datorā">
-<!ENTITY button.connect.label    "Pieslēgties">
+
 
 <!-- New Account AND Existing Account -->
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label;s serverim">
@@ -84,15 +85,12 @@
 
 <!ENTITY resetSyncKey.label           "Man ir pazudusi otra ierīce.">
 
-<!-- New Account Page 4: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "Lūdzu aplieciniet, ka neesat robots">
 
 <!-- Existing Account Page 1: Login -->
 <!ENTITY resetPassword.label          "Atjaunot paroli">
 <!ENTITY setup.newAccountDetailsPage.title.label "Konta informācija">
 
 <!-- Existing Account Page 2: Passphrase -->
-<!ENTITY setup.haveAccount.label "Man jau ir &syncBrand.fullName.label;s konts.">
 <!ENTITY verifying.label              "Notiek pārbaude…">
 <!ENTITY existingRecoveryKey.description "Savas Atgūšanas atslēgas kopiju, jūs varat iegūt, ejot uz &syncBrand.shortName.label;s iestatījumiem savā otrā ierīcē un izvēloties &#x0022;Mana Atgūšanas atslēga&#x0022; no &#x0022;Konta pārvaldība&#x0022; izvēlnes.">
 <!ENTITY setup.signInPage.title.label "Pieslēgties">
