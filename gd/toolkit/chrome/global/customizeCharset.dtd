@@ -40,11 +40,11 @@
 <!ENTITY title.label        "Gnàthaich còdachadh charactairean">
 <!ENTITY current.label      "Còdachaidhean charactairean beòtha:">
 <!ENTITY remove.label       "Thoir air falbh">
-<!ENTITY remove.accessKey   "R">
+<!ENTITY remove.accessKey   "r">
 <!ENTITY additional.label   "Còdachaidhean charactairean ri am faighinn:">
 <!ENTITY add.label          "Cuir ris">
-<!ENTITY add.accessKey      "A">
+<!ENTITY add.accessKey      "C">
 <!ENTITY moveUp.label       "Gluais suas">
-<!ENTITY moveUp.accessKey   "U">
+<!ENTITY moveUp.accessKey   "u">
 <!ENTITY moveDown.label     "Gluais sìos">
-<!ENTITY moveDown.accessKey "D">
+<!ENTITY moveDown.accessKey "G">

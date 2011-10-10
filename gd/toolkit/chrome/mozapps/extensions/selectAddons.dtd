@@ -29,7 +29,7 @@
 
 <!ENTITY action.disable.heading      "Thèid na tuilleadain a leanas a chur à comas:">
 <!ENTITY action.incompatible.heading "Tha na tuilleadain a leanas à comas ach cuirear an comas iad cho luath 's a bhios iad co-chòrdail:">
-<!ENTITY action.update.heading       "Thèid na tuilleadain a leanas ùrachadh :">
+<!ENTITY action.update.heading       "Thèid na tuilleadain a leanas ùrachadh:">
 <!ENTITY action.enable.heading       "Thèid na tuilleadain a leanas a chur an comas:">
 
 <!ENTITY update.heading              "Ag ùrachadh nan tuilleadan agad">

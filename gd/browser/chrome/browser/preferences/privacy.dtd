@@ -43,10 +43,10 @@
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "Cuimhnichidh &brandShortName; eachdraidh brabhsaidh, eachdraidh na chaidh a luchdadh a-nuas is na lorg thu is cumaidh e briosgaidean o na làraichean air a thadhlas tu.">
-
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+
 <!ENTITY  rememberActions.pre.label           "'S dòcha gum b' fheairrde dhut ">
 <!ENTITY  rememberActions.clearHistory.label  "an eachdraidh faisg ort a ghlanadh">
 <!ENTITY  rememberActions.middle.label        ", no ">
@@ -54,9 +54,9 @@
 <!ENTITY  rememberActions.post.label          ".">
 
 <!ENTITY  dontrememberDescription.label  "Cleachdaidh &brandShortName; na dearbh roghainnean 's a tha agad ann an brabhsadh prìobhaideach agus cha chuimhnich e eachdraidh sam bith 's tu a' brabhsadh an lìn.">
-
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+
 <!ENTITY  dontrememberActions.pre.label          "'S dòcha gum b' fheairrde dhut cuideachd ">
 <!ENTITY  dontrememberActions.clearHistory.label "an eachdraidh làithreach gu lèir a ghlanadh">
 <!ENTITY  dontrememberActions.post.label         ".">

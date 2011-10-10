@@ -9,5 +9,5 @@
 <!ENTITY serviceURL.accesskey         "s">
 <!ENTITY signingCA.label              "Soidhniche na freagairt:">
 <!ENTITY signingCA.accesskey          "r">
-<!ENTITY requireOCSP.label            "Nuair a dh'fhàilligeas ceangal ri frithealaiche OCSP, meas gu bheil an ceadachas mì-dhligheach.">
+<!ENTITY requireOCSP.label            "Nuair a dh'fhàilligeas ceangal ri frithealaiche OCSP, meas gu bheil an ceadachas mì-dhligheach">
 <!ENTITY requireOCSP.accesskey        "f">

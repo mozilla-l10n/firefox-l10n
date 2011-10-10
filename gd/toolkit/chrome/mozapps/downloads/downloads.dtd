@@ -5,7 +5,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY window.height                    "300"> 
 
 <!ENTITY starting.label                   "A' tòiseachadh…">
-<!ENTITY scanning.label                   "A' sganadh airson bhìorasan...">
+<!ENTITY scanning.label                   "A' sganadh airson bhìorasan…">
 
 <!ENTITY downloads.title                  "Luchdaidhean a-nuas">
 

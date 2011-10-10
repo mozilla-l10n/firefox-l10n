@@ -7,12 +7,11 @@
 
 <!ENTITY dialogCancel.label "Sguir dheth"> 
 <!ENTITY dialogClose.label "Dùin">
-
 <!-- LOCALIZATION NOTE (percentPrint):
 
     This string is used to format the text to the right of the progress
     meter.
 
     #1 will be replaced by the percentage of the file that has been saved -->
-<!ENTITY percentPrint "_: 
-#1&#037;">
+
+<!ENTITY percentPrint "#1&#037;">

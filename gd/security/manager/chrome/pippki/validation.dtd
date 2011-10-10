@@ -62,6 +62,6 @@
 <!ENTITY  crl.issuer.org.label                    "Buidheann: ">
 <!ENTITY  crl.issuer.orgunit.label                "Aonad: ">
 <!ENTITY  crl.import.nextupdate.label             "An t-ath-ùrachadh: ">
-<!ENTITY  crl.autoupdate.fail.cnt.label           "Dh'fhàillig ùrachaidhean an dèidh a chèile roimhe:">
-<!ENTITY  crl.autoupdate.fail.reason.label        "Mion-fhiosrachadh air fàillinn mu dheireadh an ùrachaidh:">
+<!ENTITY  crl.autoupdate.fail.cnt.label           "Dh'fhàillig ùrachaidhean an dèidh a chèile roimhe: ">
+<!ENTITY  crl.autoupdate.fail.reason.label        "Mion-fhiosrachadh air fàillinn mu dheireadh an ùrachaidh: ">
 <!ENTITY  edit.button                             "Roghainnean">

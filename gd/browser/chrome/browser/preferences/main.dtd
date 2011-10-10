@@ -1,7 +1,7 @@
 <!ENTITY startup.label             "Aig an toiseach">
 
-<!ENTITY startupPage.label         "Aig an toiseach">
-<!ENTITY startupPage.accesskey     "s">
+<!ENTITY startupPage.label         "Nuair a thòisicheas &brandShortName;:">
+<!ENTITY startupPage.accesskey     "t">
 <!ENTITY startupHomePage.label     "Seall an duilleag-dhachaigh agam">
 <!ENTITY startupBlankPage.label    "Seall duilleag bhàn">
 <!ENTITY startupLastSession.label  "Seall na h-uinneagan is tabaichean a bha agam san t-seisean mu dheireadh">
@@ -13,8 +13,8 @@
 <!ENTITY useCurrentPage.label      "Cleachd an duilleag làithreach">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "Cleachd na duilleagan làithreach">
-<!ENTITY useBookmark.label         "Cleachd comharra-lìn">
-<!ENTITY useBookmark.accesskey     "C">
+<!ENTITY chooseBookmark.label      "Cleachd comharra-lìn…">
+<!ENTITY chooseBookmark.accesskey  "c">
 <!ENTITY restoreDefault.label      "Aisig na roghainnean bunaiteach">
 <!ENTITY restoreDefault.accesskey  "r">
 

@@ -2,7 +2,7 @@
 
 <!ENTITY printJobOptions.title "Roghainnean a' chlò-bhualadair">
 
-<!ENTITY paperInput.label "Meud a' phàipeir">
+<!ENTITY paperInput.label "Meud a' phàipeir:">
 <!ENTITY paperInput.accesskey "p">
 
 <!ENTITY plexInput.label "Modh plex:">
