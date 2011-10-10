@@ -7,6 +7,7 @@
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Atjaunināt">
 <!ENTITY resetPass.label              "Atiestatīt">
+<!ENTITY myRecoveryKey.label            "Mana atgūšanas atslēga">
 
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Pārvaldīt kontu">
