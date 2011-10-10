@@ -432,6 +432,13 @@ can reach it easily. -->
 <!ENTITY mediaHideControls.accesskey "ك">
 <!ENTITY videoFullScreen.label "ملء الشاشة">
 <!ENTITY videoFullScreen.accesskey "ء">
+<!ENTITY videoSaveImage.label        "احفظ اللقطة ك‍…">
+<!ENTITY videoSaveImage.accesskey    "ظ">
+<!ENTITY videoShowStats.label        "أظهِر الإحصائيات">
+<!ENTITY videoShowStats.accesskey    "ر">
+<!ENTITY videoHideStats.label        "أخفِ الإحصائيات">
+<!ENTITY videoHideStats.accesskey    "خ">
+
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.

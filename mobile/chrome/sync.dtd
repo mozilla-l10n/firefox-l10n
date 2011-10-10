@@ -8,7 +8,7 @@
 <!ENTITY sync.syncNow "زامِن الآن">
 
 <!ENTITY sync.setup.title "الاتصال بتزامُن">
-<!ENTITY sync.setup.jpake "في الحاسوب الذي يشغل تزامُن فَيَرفُكس، اذهب إلى خيارات المزامنة واختر &#x0022;أضف جهازًا&#x0022;">
+<!ENTITY sync.setup.pair            "للتفعيل، اختر &#x0022;اربط مع جهاز آخر&#x0022; في جهازك الآخر.">
 <!ENTITY sync.fallback "لستُ قرب جهازي…">
 <!ENTITY sync.setup.manual "أدخِل معلومات حسابك في تزامُن">
 <!ENTITY sync.account "اسم الحساب">
@@ -19,3 +19,4 @@
 <!ENTITY sync.setup.connect "اتصل">
 <!ENTITY sync.setup.cancel "ألغِ">
 <!ENTITY sync.setup.tutorial "أرِني كيف أفعل ذلك">
+<!ENTITY sync.setup.waiting         "ربط الأجهزة قيد الإنشاء…">
