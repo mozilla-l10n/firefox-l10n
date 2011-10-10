@@ -34,6 +34,8 @@
 <!ENTITY setup.newRecoveryKeyPage.description.label "Lai nodrošinātu absolūtu privāto datu drošību, visi jūsu dati tiek nošifrēti pirms sūtīšanas uz Atgūšanas serveri. Atšifrēšanai nepieciešamā Atgūšanas atslēga netek sūtīta.">
 <!ENTITY recoveryKeyEntry.label        "Jūsu atgūšanas atslēga">
 <!ENTITY recoveryKeyEntry.accesskey    "t">
+<!ENTITY signIn.recoveryKey.label       "Atgūšanas atslēga">
+<!ENTITY signIn.recoveryKey.accesskey   "S">
 
 <!ENTITY button.syncKeyBackup.print.label     "Izdrukā…">
 <!ENTITY button.syncKeyBackup.print.accesskey "I">
