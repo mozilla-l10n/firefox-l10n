@@ -17,7 +17,7 @@
 <!ENTITY myRecoveryKey.label "مفتاح الاستعادة">
 <!ENTITY resetSync2.label "صفّر تزامُن…">
 
-<!ENTITY addDevice.label "أضِف جهازًا">
+<!ENTITY pairDevice.label             "اربط مع جهاز آخر">
 
 <!ENTITY syncMy.label "زامِن">
 <!ENTITY engine.bookmarks.label "علاماتي">
