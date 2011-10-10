@@ -9,6 +9,16 @@
 <!ENTITY setup.choicePage.existing.label  "Es jau lietoju &syncBrand.shortName.label;s iespēju citā datorā">
 <!ENTITY button.connect.label    "Pieslēgties">
 
+<!ENTITY addDevice.dialog.recoveryKey.label     "Lai aktivizētu ierīci, jums būs jāievada Atgūšanas atslēga. Lūdzu izdrukājiet vai pierakstiet to kaut kur.">
+
+<!ENTITY existingRecoveryKey.description "Savas Atgūšanas atslēgas kopiju, jūs varat iegūt, ejot uz &syncBrand.shortName.label;s iestatījumiem savā otrā ierīcē un izvēloties &#x0022;Mana Atgūšanas atslēga&#x0022; no &#x0022;Konta pārvaldība&#x0022; izvēlnes.">
+
+<!ENTITY recoveryKeyEntry.label        "Jūsu atgūšanas atslēga">
+<!ENTITY recoveryKeyEntry.accesskey    "t">
+<!ENTITY syncGenerateNewKey.label  "Ģenerēt jaunu atslēgu">
+<!ENTITY recoveryKeyBackup.description "Jūsu atgūšanas atslēga ir nepieciešama, lai piekļūtu &syncBrand.fullName.label;s datiem no citiem datoriem un ierīcēm. Lūdzu izveidojiet tās rezerves kopiju, jo nozaudēšanas gadījumā mēs nevarēsim palīdzēt jums to atgūt.">
+
+
 <!-- New Account AND Existing Account -->
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label;s serverim">
 <!ENTITY serverType.custom2.label   "Izmantot citu serveri…">
@@ -19,7 +29,11 @@
 <!ENTITY server.label               "Serveris">
 <!ENTITY signIn.syncKey.label       "Sinhronizācijas atslēga">
 <!ENTITY signIn.syncKey.accesskey   "S">
-<!ENTITY syncGenerateNewKey.label  "Ģenerēt jaunu atslēgu">
+
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; rūpējas par jūsu privāto datu drošību">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Lai nodrošinātu absolūtu privāto datu drošību, visi jūsu dati tiek nošifrēti pirms sūtīšanas uz Atgūšanas serveri. Atšifrēšanai nepieciešamā Atgūšanas atslēga netek sūtīta.">
+<!ENTITY recoveryKeyEntry.label        "Jūsu atgūšanas atslēga">
+<!ENTITY recoveryKeyEntry.accesskey    "t">
 
 <!ENTITY button.syncKeyBackup.print.label     "Izdrukā…">
 <!ENTITY button.syncKeyBackup.print.accesskey "I">
