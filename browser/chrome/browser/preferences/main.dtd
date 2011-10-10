@@ -16,6 +16,8 @@
 <!ENTITY restoreDefault.accesskey "A">
 <!ENTITY restoreOnDemand.label     "Neielādēt cilnes līdz izvēlēts">
 <!ENTITY restoreOnDemand.accesskey "l">
+<!ENTITY chooseBookmark.label "Lietot grāmatzīmi…">
+<!ENTITY chooseBookmark.accesskey "G">
 
 <!ENTITY downloads.label "Lejupielādes">
 

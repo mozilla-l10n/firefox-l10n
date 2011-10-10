@@ -29,6 +29,9 @@
 <!ENTITY backForwardButtonMenuMac.tooltip "Pavelciet uz leju, lai redzētu vēsturi">
 <!ENTITY searchFocus.commandkey2   "e">
 
+<!ENTITY inspectContextMenu.label     "Izmeklēt">
+<!ENTITY inspectContextMenu.accesskey "Q">
+
 <!ENTITY bookmarksMenuButton.unsorted.label "Nešķirotās grāmatzīmes">
 <!ENTITY bookmarkAllTabs.label "Saglabāt visas cilnes grāmatzīmēs...">
 <!ENTITY bookmarkAllTabs.accesskey "T">

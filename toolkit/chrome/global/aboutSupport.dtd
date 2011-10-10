@@ -21,6 +21,7 @@
 <!ENTITY aboutSupport.appBasicsBuildConfig "Būvējuma konfigurācija">
 <!ENTITY aboutSupport.appBasicsUserAgent "Lietotāja aģents">
 <!ENTITY aboutSupport.appBasicsCrashIDs "Avārijas ziņojumi">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Atmiņas izmantojums">
 
 <!ENTITY aboutSupport.show.label "Atvērt saturošo mapi">
 
