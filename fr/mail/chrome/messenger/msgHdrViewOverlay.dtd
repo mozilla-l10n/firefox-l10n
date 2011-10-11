@@ -116,6 +116,8 @@
 <!ENTITY deleteAllAttachmentsCmd.label "Tout supprimer…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey "s">
 
+<!ENTITY openAttachment.tooltip "Ouvrir la pièce jointe">
+
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label "Enregistrer">
 <!ENTITY saveAttachmentButton1.tooltip "Enregistrer la pièce jointe">
