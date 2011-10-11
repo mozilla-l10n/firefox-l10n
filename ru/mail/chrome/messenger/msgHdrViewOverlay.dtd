@@ -74,6 +74,7 @@
 <!ENTITY detachAllAttachmentsCmd.accesskey "О">
 <!ENTITY deleteAllAttachmentsCmd.label "Удалить все…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey "и">
+<!ENTITY openAttachment.tooltip "Открыть вложенный файл">
 <!ENTITY saveAttachmentButton1.label "Сохранить">
 <!ENTITY saveAttachmentButton1.tooltip "Сохранить вложенный файл">
 <!ENTITY saveAllAttachmentsButton1.label "Сохранить все">
