@@ -62,8 +62,6 @@
 <!ENTITY printAddressBook.accesskey                     "t"> 
 <!ENTITY printPreviewAddressBook.label                  "Esikatsele osoitekirjaa"> 
 <!ENTITY printPreviewAddressBook.accesskey              "a">
-<!ENTITY printSetupCmd.label                            "Sivun asetukset…">
-<!ENTITY printSetupCmd.accesskey                        "e">
 
 <!-- Edit Menu -->
 <!ENTITY deleteAbCmd.label                              "Poista osoitekirja">  
@@ -127,6 +125,9 @@
 <!ENTITY deleteItemButton.tooltip                       "Poista valittu merkintä">
 <!ENTITY throbber.tooltip                               "Siirry &vendorShortName;n kotisivulle">
 <!ENTITY advancedButton.tooltip                         "Osoitehaun lisäasetukset">
+
+<!-- Dir Tree header -->
+<!ENTITY dirTreeHeader.label                            "Osoitekirjat">
 
 <!-- Status Bar -->  
 <!ENTITY statusText.label                               "">

@@ -1,0 +1,6 @@
+<!ENTITY applyTheme.label          "Käytä teemaa">
+<!ENTITY applyTheme.accesskey      "e">
+<!ENTITY getNewThemesCmd.label     "Hae uusia teemoja">
+<!ENTITY getNewThemesCmd.accesskey "H">
+<!ENTITY getPersonasCmd.label      "Hae Personas-teemoja">
+<!ENTITY getPersonasCmd.accesskey  "P">

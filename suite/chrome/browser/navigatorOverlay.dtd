@@ -49,13 +49,6 @@
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "u">
 
-<!ENTITY applyTheme.label "Käytä teemaa">
-<!ENTITY applyTheme.accesskey "e">
-<!ENTITY getNewThemesCmd.label "Hae uusia teemoja">
-<!ENTITY getNewThemesCmd.accesskey "H">
-<!ENTITY getPersonasCmd.label "Hae Personas-teemoja">
-<!ENTITY getPersonasCmd.accesskey "P">
-
 <!-- Go Menu -->
 <!ENTITY goMenu.label "Siirry">
 <!ENTITY goMenu.accesskey "S">

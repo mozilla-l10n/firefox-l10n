@@ -14,12 +14,6 @@
 <!ENTITY editPageCmd.accesskey "v">
 <!ENTITY editPageCmd.commandkey "e">
 
-<!ENTITY printPreviewCmd.label "Tulostuksen esikatselu">
-<!ENTITY printPreviewCmd.accesskey "k">
-<!ENTITY printCmd.label "Tulosta…">
-<!ENTITY printCmd.accesskey "o">
-<!ENTITY printCmd.commandkey "p">
-
 <!ENTITY navbarCmd.label "Navigointipalkki">
 <!ENTITY navbarCmd.accesskey "N">
 <!ENTITY personalbarCmd.label "Kirjanmerkkipalkki">
