@@ -5,9 +5,9 @@
 
 <!-- Entities for Account Type page -->
 
-<!ENTITY accountSetupInfo.label "Ennen kuin voit vastaanottaa viestejä, sinun täytyy ensin antaa sähköposti- tai keskusteluryhmätilisi tiedot.">
+<!ENTITY accountSetupInfo2.label "Sinun tulee asentaa tili ennen kuin voit vastaanottaa viestejä.">
 <!ENTITY accountTypeTitle.label "Uuden tilin luominen">
-<!ENTITY accountTypeDesc.label "Tämä ohjattu toiminto kerää tarvittavat tiedot. Jos et tiedä tarvittavia tietoja, tiedustele niitä järjestelmän ylläpitäjältä tai palveluntarjoajalta.">
+<!ENTITY accountTypeDesc2.label "Tämä ohjattu toiminto kerää tilin asentamiseen tarvittavat tiedot. Jos et tiedä pyydettyjä tietoja, ota yhteys järjestelmänvalvojaan tai Internet-palveluntarjoajaan.">
 <!ENTITY accountTypeDirections.label "Valitse luotavan tilin tyyppi:">
 <!ENTITY accountTypeMail.label "Sähköposti">
 <!ENTITY accountTypeMail.accesskey "ä">

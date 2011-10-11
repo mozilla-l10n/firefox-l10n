@@ -107,13 +107,6 @@
 <!ENTITY downloadSelectedCmd.accesskey "v">
 <!ENTITY downloadFlaggedCmd.label "Nouda lipulla merkityt viestit">
 <!ENTITY downloadFlaggedCmd.accesskey "N">
-<!ENTITY printCmd.label "Tulosta…">
-<!ENTITY printCmd.accesskey "o">
-<!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Tulostuksen esikatselu">
-<!ENTITY printPreviewCmd.accesskey "k">
-<!ENTITY printSetupCmd.label "Sivun asetukset…">
-<!ENTITY printSetupCmd.accesskey "e">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Poista viesti">

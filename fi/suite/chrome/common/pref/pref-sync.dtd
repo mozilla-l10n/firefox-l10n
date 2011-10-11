@@ -20,8 +20,8 @@
 <!ENTITY viewQuota.accesskey          "N">
 <!ENTITY changePassword.label         "Muuta salasana">
 <!ENTITY changePassword.accesskey     "M">
-<!ENTITY mySyncKey.label              "Synkronointiavain">
-<!ENTITY mySyncKey.accesskey          "S">
+<!ENTITY myRecoveryKey.label          "Palautusavain">
+<!ENTITY myRecoveryKey.accesskey      "P">
 <!ENTITY resetSync.label              "Nollaa Sync">
 <!ENTITY resetSync.accesskey          "N">
 <!ENTITY deactivateDevice.label       "Irrota laite palvelusta">

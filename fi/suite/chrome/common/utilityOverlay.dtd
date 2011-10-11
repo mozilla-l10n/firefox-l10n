@@ -18,6 +18,13 @@
 <!ENTITY newNavigatorCmd.label "Selainikkuna">
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "S">
+<!ENTITY printSetupCmd.label "Sivun asetukset…">
+<!ENTITY printSetupCmd.accesskey "e">
+<!ENTITY printPreviewCmd.label "Tulostuksen esikatselu">
+<!ENTITY printPreviewCmd.accesskey "k">
+<!ENTITY printCmd.label "Tulosta…">
+<!ENTITY printCmd.accesskey "o">
+<!ENTITY printCmd.commandkey "p">
 
 <!ENTITY editMenu.label					"Muokkaa"> 
 <!ENTITY editMenu.accesskey				"M"> 
