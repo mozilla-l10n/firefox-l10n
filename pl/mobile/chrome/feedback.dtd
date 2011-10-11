@@ -5,10 +5,7 @@
 <!ENTITY feedback.feedback.good         "Dobrze">
 <!ENTITY feedback.feedback.bad          "Źle">
 
-<!ENTITY feedback.information.title     "Więcej informacji">
-<!ENTITY feedback.about.title           "O tym wydaniu beta">
-<!ENTITY feedback.about.button          "Przejdź do strony">
-
 <!ENTITY feedback.tools.title           "Narzędzia">
+<!ENTITY feedback.allowTelemetry.title  "Przesyłaj dane o wydajności">
 <!ENTITY feedback.forceCompat.title     "Wymuś zgodność dodatków">
 <!ENTITY feedback.errorConsole.title    "Włącz konsolę błędów">

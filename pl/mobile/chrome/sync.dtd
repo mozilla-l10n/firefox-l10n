@@ -13,7 +13,7 @@
 <!ENTITY sync.setup.manual          "Wprowadź dane konta Sync">
 <!ENTITY sync.account               "Nazwa konta">
 <!ENTITY sync.password              "Hasło">
-<!ENTITY sync.syncKey               "Klucz Sync">
+<!ENTITY sync.recoveryKey           "Klucz odzyskiwania">
 <!ENTITY sync.customServer          "Użyj innego serwera">
 <!ENTITY sync.serverURL             "URL serwera">
 <!ENTITY sync.setup.connect         "Połącz">

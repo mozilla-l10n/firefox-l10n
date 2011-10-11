@@ -9,3 +9,13 @@
 <!ENTITY aboutHome.noTabs                       "Brak kart z poprzedniej sesji">
 <!ENTITY aboutHome.noAddons                     "Brak polecanych dodatków">
 <!ENTITY aboutHome.getLocale                    "Zmień język">
+<!ENTITY aboutHome.getInBeforeBeta              "Sprawdź przed wersją Beta.">
+<!ENTITY aboutHome.tryAurora                    "Przetestuj Firefoksa Aurora i pomóż ukształtować przyszłość Firefoksa.">
+<!-- LOCALIZATION NOTE:
+     (aboutHome.downloadAurora): First line of a multi-line button. Treat as a title.
+-->
+<!ENTITY aboutHome.downloadAurora		"Pobierz Aurorę">
+<!-- LOCALIZATION NOTE:
+     (aboutHome.forAndroid): Second line of a multi-line button. Treat as a subtitle.
+-->
+<!ENTITY aboutHome.forAndroid			"dla Android">
