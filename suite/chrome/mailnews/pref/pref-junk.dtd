@@ -58,7 +58,7 @@
 <!ENTITY openJunkLog.accesskey          "h">
 <!ENTITY resetTrainingData.label        "Réinitialiser les données d'apprentissage">
 <!ENTITY resetTrainingData.accesskey    "R">
-<!ENTITY pref.suspectMail.caption       "Suspect Mail">
+<!ENTITY pref.suspectMail.caption       "Courrier suspect">
 
 <!-- Phishing Detector -->
 <!ENTITY pref.phishing.caption            "Courrier frauduleux">
