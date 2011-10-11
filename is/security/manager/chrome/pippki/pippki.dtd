@@ -108,7 +108,7 @@
 <!-- Form Signing confirmation prompt -->
 <!ENTITY formSigning.title "Beiðni um undirskrift á texta">
 <!ENTITY formSigning.cert "Undirritunarskrilríki">
-<!ENTITY formSigning.confirmPassword "Til að staðfesta með þínu skilríki að þú samþykkir þennan texta, staðfestu með því að slá inn aðallykilorð:">
+<!ENTITY formSigning.confirmPassword "Til að staðfesta að þú samþykkir þennan texta með þessu skilríki, sláðu inn aðallykilorðið:">
 <!-- Strings for protectedAuth dialog -->
 <!ENTITY protectedAuth.title "Varin tóka sannvottun">
 <!ENTITY protectedAuth.msg "Vinsamlega auðkenndu þig með tóka. Hvernig auðkennt er fer eftir tegund tóka.">
