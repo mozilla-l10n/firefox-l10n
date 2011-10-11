@@ -19,4 +19,4 @@
 <!ENTITY sync.setup.connect         "連線">
 <!ENTITY sync.setup.cancel          "取消">
 <!ENTITY sync.setup.tutorial        "告訴我如何作">
-<!ENTITY sync.setup.waiting         "正在配對中…">
+<!ENTITY sync.setup.waiting         "配對中…">
