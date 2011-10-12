@@ -77,6 +77,16 @@ pendant le transfert d'informations. Veuillez réessayer.</p>
 </ul>
 ">
 
+<!ENTITY notCached.title "Le document est expiré">
+<!ENTITY notCached.longDesc "
+<p>Le document demandé n'est pas disponible dans le cache du navigateur.</p>
+<ul>
+  <li>Pour des raisons de sécurité, le navigateur ne redemande pas automatiquement les documents sensibles.</li>
+  <li>Cliquer sur « Essayer à nouveau » pour redemander le document à partir du site Web.</li>
+</ul>
+">
+
+
 <!ENTITY netOffline.title "Mode hors connexion">
 
 <!ENTITY netOffline.longDesc2 "<p>Le navigateur est en mode hors connexion et ne peut pas se connecter à l'adresse indiquée.</p>
