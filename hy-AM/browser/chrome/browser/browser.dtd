@@ -63,8 +63,8 @@ used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-<!ENTITY  pinAppTab.label                    "Pin as App Tab">
-<!ENTITY  pinAppTab.accesskey                "P">
+<!ENTITY  pinAppTab.label                    "Ահ-ն անհատական համար դիմումի սյունաշարում">
+<!ENTITY  pinAppTab.accesskey                "Ա">
 <!ENTITY  unpinAppTab.label                  "Unpin Tab">
 <!ENTITY  unpinAppTab.accesskey              "b">
 <!ENTITY  moveToGroup.label                  "Տեղափոխել խումբ">
@@ -233,6 +233,9 @@ can reach it easily. -->
 <!ENTITY inspectMenu.accesskey        "Հ">
 <!ENTITY inspectMenu.commandkey       "I">
 
+<!ENTITY inspectContextMenu.label     "Inspect Element">
+<!ENTITY inspectContextMenu.accesskey "Q">
+
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -244,7 +247,7 @@ can reach it easily. -->
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
 <!ENTITY scratchpad.label             "Scratchpad">
-<!ENTITY scratchpad.accesskey         "S">
+<!ENTITY scratchpad.accesskey         "s">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 

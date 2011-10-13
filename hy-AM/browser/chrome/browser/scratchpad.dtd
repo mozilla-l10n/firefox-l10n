@@ -76,25 +76,25 @@
 <!ENTITY editMenu.label               "Խմբագրել">
 <!ENTITY editMenu.accesskey           "Խ">
 
-<!ENTITY undoCmd.label                "Undo">
-<!ENTITY undoCmd.key                  "Z">
-<!ENTITY undoCmd.accesskey            "U">
+<!ENTITY undoCmd.label                "Հետ">
+<!ENTITY undoCmd.key                  "Հ">
+<!ENTITY undoCmd.accesskey            "Հ">
 
-<!ENTITY redoCmd.label                "Redo">
-<!ENTITY redoCmd.key                  "Y">
-<!ENTITY redoCmd.accesskey            "R">
+<!ENTITY redoCmd.label                "Կրկնել">
+<!ENTITY redoCmd.key                  "Կ">
+<!ENTITY redoCmd.accesskey            "Կ">
 
-<!ENTITY cutCmd.label                 "Cut">
-<!ENTITY cutCmd.key                   "X">
-<!ENTITY cutCmd.accesskey             "t">
+<!ENTITY cutCmd.label                 "Կտրել">
+<!ENTITY cutCmd.key                   "Կ">
+<!ENTITY cutCmd.accesskey             "Կ">
 
-<!ENTITY copyCmd.label                "Copy">
-<!ENTITY copyCmd.key                  "C">
-<!ENTITY copyCmd.accesskey            "C">
+<!ENTITY copyCmd.label                "Պատճենել">
+<!ENTITY copyCmd.key                  "Պ">
+<!ENTITY copyCmd.accesskey            "Պ">
 
-<!ENTITY pasteCmd.label               "Paste">
-<!ENTITY pasteCmd.key                 "V">
-<!ENTITY pasteCmd.accesskey           "P">
+<!ENTITY pasteCmd.label               "Տեղադրել">
+<!ENTITY pasteCmd.key                 "Տ">
+<!ENTITY pasteCmd.accesskey           "Տ">
 
 <!ENTITY selectAllCmd.label           "Նշել բոլորը">
 <!ENTITY selectAllCmd.key             "A">
@@ -104,9 +104,9 @@
 <!ENTITY run.accesskey                "R">
 <!ENTITY run.key                      "r">
 
-<!ENTITY inspect.label                "Inspect">
-<!ENTITY inspect.accesskey            "I">
-<!ENTITY inspect.key                  "i">
+<!ENTITY inspect.label                "Հսկել">
+<!ENTITY inspect.accesskey            "Հ">
+<!ENTITY inspect.key                  "Հ">
 
 <!ENTITY display.label                "Display">
 <!ENTITY display.accesskey            "D">
@@ -119,11 +119,11 @@
   -  (browser).
   -->
 <!ENTITY environmentMenu.label        "Environment">
-<!ENTITY environmentMenu.accesskey    "n">
+<!ENTITY environmentMenu.accesskey    "N">
 
 
-<!ENTITY contentContext.label         "Content">
-<!ENTITY contentContext.accesskey     "C">
+<!ENTITY contentContext.label         "Պարունակությունը">
+<!ENTITY contentContext.accesskey     "Պ">
 
 <!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
   -  to select an execution environment for the browser window itself as opposed
@@ -141,15 +141,15 @@
 <!ENTITY resetContext.accesskey       "Բ">
 
 <!ENTITY executeMenu.label            "Execute">
-<!ENTITY executeMenu.accesskey        "x">
+<!ENTITY executeMenu.accesskey        "X">
 
-<!ENTITY toolsMenu.label              "Tools">
-<!ENTITY toolsMenu.accesskey          "T">
+<!ENTITY toolsMenu.label              "Գործիքներ">
+<!ENTITY toolsMenu.accesskey          "Գ">
 
-<!ENTITY errorConsoleCmd.label        "Error Console">
-<!ENTITY errorConsoleCmd.accesskey    "C">
-<!ENTITY errorConsoleCmd.commandkey   "j">
+<!ENTITY errorConsoleCmd.label        "Սխալների ցուցակ">
+<!ENTITY errorConsoleCmd.accesskey    "Ս">
+<!ENTITY errorConsoleCmd.commandkey   "Ս">
 
-<!ENTITY webConsoleCmd.label          "Web Console">
-<!ENTITY webConsoleCmd.accesskey      "W">
-<!ENTITY webConsoleCmd.commandkey     "k">
+<!ENTITY webConsoleCmd.label          "Վեբ կոնսոլ">
+<!ENTITY webConsoleCmd.accesskey      "Վ">
+<!ENTITY webConsoleCmd.commandkey     "Վ">

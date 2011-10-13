@@ -50,12 +50,12 @@
 <!-- LOCALIZATION NOTE (select.keep.style): Should be a width wide enough for
      the string in select.keep above. -->
 <!ENTITY select.keep.style           "width: 6ch;">
-<!ENTITY select.action               "Action">
+<!ENTITY select.action               "Գործողություն">
 <!-- LOCALIZATION NOTE (select.action.style): Should be a width wide enough for
      the action strings in selectAddons.properties or brandShortName. -->
 <!ENTITY select.action.style         "width: 35ch;">
 <!ENTITY select.source               "Installed By">
-<!ENTITY select.name                 "Name">
+<!ENTITY select.name                 "Անուն">
 <!-- LOCALIZATION NOTE (select.name.style): Should be a width small enough so
      the source column still has enough room for the source strings in
      selectAddons.properties. -->
@@ -78,7 +78,7 @@
 <!ENTITY errors.description          "Installing updates for some of your add-ons failed. &brandShortName; will automatically try to update them again later.">
 
 <!ENTITY footer.label                "You can always change your add-ons by going to the Add-ons Manager.">
-<!ENTITY cancel.label                "Cancel">
-<!ENTITY back.label                  "Back">
-<!ENTITY next.label                  "Next">
-<!ENTITY done.label                  "Done">
+<!ENTITY cancel.label                "Չեղարկել">
+<!ENTITY back.label                  "Հետ">
+<!ENTITY next.label                  "Հաջորդ">
+<!ENTITY done.label                  "Արված է">

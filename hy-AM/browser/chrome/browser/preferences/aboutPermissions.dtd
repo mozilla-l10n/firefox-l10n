@@ -63,7 +63,7 @@
 <!ENTITY cookie.label                    "Տեղադրել Քուուկի">
 <!ENTITY cookie.remove                   "Հեռացնել կուկերը">
 <!ENTITY cookie.manage                   "Manage Cookies…">
-<!ENTITY cookie.removeAll                "Remove All Cookies">
+<!ENTITY cookie.removeAll                "Ջնջել Բոլոր Պատրաստուքները">
 
 <!ENTITY geo.label                       "Հայտնել գտնվելու վայրը">
 

@@ -52,9 +52,9 @@
 <!ENTITY manageAccount.label          "Կարգավորեք հաշիվը">
 <!ENTITY manageAccount.accesskey      "Կ">
 <!ENTITY viewQuota.label              "Դիտել քվոտան">
-<!ENTITY changePassword2.label         "Change Password…">
-<!ENTITY mySyncKey.label              "Իմ Sync բանալին">
-<!ENTITY resetSync2.label              "Reset Sync…">
+<!ENTITY changePassword2.label        "Փոխել Գաղտնաբառը…">
+<!ENTITY myRecoveryKey.label          "My Recovery Key">
+<!ENTITY resetSync2.label             "Reset Sync…">
 
 <!ENTITY addDevice.label              "Ավելացրեք սարք">
 
