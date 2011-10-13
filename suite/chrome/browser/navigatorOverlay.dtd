@@ -49,13 +49,6 @@
 <!ENTITY pageInfoCmd.accesskey "i">
 <!ENTITY pageInfoCmd.commandkey "i">
 
-<!ENTITY applyTheme.label "Theme anwenden">
-<!ENTITY applyTheme.accesskey "T">
-<!ENTITY getNewThemesCmd.label "Neue Themes herunterladen">
-<!ENTITY getNewThemesCmd.accesskey "N">
-<!ENTITY getPersonasCmd.label "Personas holen">
-<!ENTITY getPersonasCmd.accesskey "P">
-
 <!-- Go Menu -->
 <!ENTITY goMenu.label "Gehe">
 <!ENTITY goMenu.accesskey "G">

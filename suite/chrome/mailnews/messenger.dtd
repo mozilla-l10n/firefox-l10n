@@ -107,13 +107,6 @@
 <!ENTITY downloadSelectedCmd.accesskey "G">
 <!ENTITY downloadFlaggedCmd.label "Gekennzeichnete Nachrichten abrufen">
 <!ENTITY downloadFlaggedCmd.accesskey "z">
-<!ENTITY printCmd.label "Drucken…">
-<!ENTITY printCmd.accesskey "D">
-<!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Druckvorschau">
-<!ENTITY printPreviewCmd.accesskey "k">
-<!ENTITY printSetupCmd.label "Seite einrichten…">
-<!ENTITY printSetupCmd.accesskey "S">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Nachricht löschen">
