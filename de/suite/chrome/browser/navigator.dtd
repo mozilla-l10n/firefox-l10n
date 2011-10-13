@@ -14,11 +14,6 @@
 <!ENTITY editPageCmd.accesskey "r">
 <!ENTITY editPageCmd.commandkey "e">
 
-<!ENTITY printPreviewCmd.label "Druckvorschau">
-<!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printCmd.label "Drucken…">
-<!ENTITY printCmd.accesskey "D">
-
 <!ENTITY navbarCmd.label "Navigations-Symbolleiste">
 <!ENTITY navbarCmd.accesskey "N">
 <!ENTITY personalbarCmd.label "Persönliche Symbolleiste">
