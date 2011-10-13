@@ -11,7 +11,7 @@
 <!-- LOCALIZATION NOTE (select.keep.style): Should be a width wide enough for
      the string in select.keep above. -->
 <!ENTITY select.keep.style           "width: 6ch;">
-<!ENTITY select.action               "AKtion">
+<!ENTITY select.action               "Aktion">
 <!-- LOCALIZATION NOTE (select.action.style): Should be a width wide enough for
      the action strings in selectAddons.properties or brandShortName. -->
 <!ENTITY select.action.style         "width: 35ch;">
@@ -28,15 +28,15 @@
 <!ENTITY confirm.description         "&brandShortName; wird noch schneller, wenn Add-ons deaktiviert werden, die Sie nicht mehr benutzen. Add-ons, die von Fremdanbietern bereits installiert wurden, werden automatisch deaktiviert, außer Sie wählen Sie in folgender Liste.">
 
 <!ENTITY action.disable.heading      "Die folgenden Add-ons werden deaktiviert:">
-<!ENTITY action.incompatible.heading "Die folgenden Add-ons sind deaktiviert, aber werden aktiviert, sobald sie kompatibel werden:">
+<!ENTITY action.incompatible.heading "Die folgenden Add-ons sind deaktiviert, werden aber aktiviert, sobald sie kompatibel sind:">
 <!ENTITY action.update.heading       "Die folgenden Add-ons werden aktualisiert:">
 <!ENTITY action.enable.heading       "Die folgenden Add-ons werden aktiviert:">
 
 <!ENTITY update.heading              "Aktualisieren Ihrer Add-ons">
 <!ENTITY update.progress.label       "Updates für Ihre gewählten Add-ons werden heruntergeladen und installiert.">
 
-<!ENTITY errors.heading              "&brandShortName; konnte einige Ihrerer Add-ons nicht aktualisieren.">
-<!ENTITY errors.description          "Die Installation von Updates für einige Ihrer Add-ons ist fehlgeschlagen. &brandShortName; wird später automatisch nochmal versuchen, sie zu aktualisieren.">
+<!ENTITY errors.heading              "&brandShortName; konnte einige Ihrer Add-ons nicht aktualisieren.">
+<!ENTITY errors.description          "Die Installation von Updates für einige Ihrer Add-ons ist fehlgeschlagen. &brandShortName; wird später automatisch erneut versuchen, sie zu aktualisieren.">
 
 <!ENTITY footer.label                "Sie können Ihre Add-ons immer ändern, indem Sie den Add-ons-Manager öffnen.">
 <!ENTITY cancel.label                "Abbrechen">
