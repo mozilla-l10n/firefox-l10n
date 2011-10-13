@@ -108,6 +108,8 @@
 <!ENTITY undoDefaultCmd.accesskey "A">
 <!ENTITY redoDefaultCmd.label "Ripeti">
 <!ENTITY redoDefaultCmd.accesskey "R">
+<!ENTITY menubarCmd.label "Barra del menu">
+<!ENTITY menubarCmd.accesskey "B">
 <!ENTITY showMessengerToolbarCmd.label "Barra dei messaggi">
 <!ENTITY showMessengerToolbarCmd.accesskey "m">
 <!ENTITY customizeToolbar.label "Personalizza…">
@@ -240,6 +242,8 @@
 <!ENTITY pageSourceCmd.label "Sorgente del messaggio">
 <!ENTITY pageSourceCmd.accesskey "t">
 <!ENTITY pageSourceCmd.key "u">
+<!ENTITY getNewMessagesCmd.key "y">
+<!ENTITY getAllNewMessagesCmd.key "Y">
 <!ENTITY findMenu.label "Trova">
 <!ENTITY findMenu.accesskey "v">
 <!ENTITY findCmd.label "Trova nel messaggio…">
@@ -455,12 +459,14 @@
 <!ENTITY previousButton.label "Precedente">
 <!ENTITY backButton1.label "Indietro">
 <!ENTITY goForwardButton1.label "Avanti">
+<!ENTITY deleteItem.title "Elimina">
 <!ENTITY deleteButton.label "Elimina">
 <!ENTITY undeleteButton.label "Ripristina">
 <!ENTITY markButton.label "Segna">
 <!ENTITY printButton.label "Stampa">
 <!ENTITY stopButton.label "Interrompi">
 <!ENTITY throbberItem.title "Indicatore di attività">
+<!ENTITY junkItem.title "Indesiderata">
 <!ENTITY junkButton.label "Indesiderata">
 <!ENTITY notJunkButton.label "Non indesiderata">
 <!ENTITY addressBookButton.label "Rubrica">

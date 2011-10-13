@@ -9,6 +9,7 @@
 <!ENTITY email.accesskey "I">
 <!ENTITY replyTo.label "Indirizzo per risposte:">
 <!ENTITY replyTo.accesskey "z">
+<!ENTITY replyTo.placeholder "I destinatari risponderanno a questo altro indirizzo">
 <!ENTITY organization.label "Organizzazione:">
 <!ENTITY organization.accesskey "O">
 <!ENTITY signatureText.label "Testo per firma:">

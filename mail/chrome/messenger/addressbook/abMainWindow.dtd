@@ -70,6 +70,8 @@
 <!ENTITY viewMenu.accesskey "v">
 <!ENTITY viewToolbarsMenu.label "Barre degli strumenti">
 <!ENTITY viewToolbarsMenu.accesskey "T">
+<!ENTITY menubarCmd.label "Barra del menu">
+<!ENTITY menubarCmd.accesskey "B">
 <!ENTITY showAbToolbarCmd.label "Strumenti Rubrica">
 <!ENTITY showAbToolbarCmd.accesskey "R">
 <!ENTITY showTaskbarCmd.label "Barra di stato">

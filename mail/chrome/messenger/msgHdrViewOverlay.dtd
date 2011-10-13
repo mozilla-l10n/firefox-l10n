@@ -1,38 +1,38 @@
 <!--null-->
-<!ENTITY toField2.label "a ">
-<!ENTITY fromField2.label "da ">
-<!ENTITY senderField2.label "mittente ">
-<!ENTITY organizationField2.label "organizzazione ">
-<!ENTITY replyToField2.label "rispondi a ">
-<!ENTITY subjectField2.label "oggetto ">
-<!ENTITY ccField2.label "cc ">
-<!ENTITY bccField2.label "ccn ">
-<!ENTITY newsgroupsField2.label "gruppi di discussione ">
-<!ENTITY followupToField2.label "inoltra a ">
-<!ENTITY tagsHdr2.label "etichette ">
-<!ENTITY dateField2.label "data ">
-<!ENTITY userAgentField2.label "user-agent ">
-<!ENTITY referencesField2.label "riferimenti ">
-<!ENTITY messageIdField2.label "message-id ">
-<!ENTITY inReplyToField2.label "in risposta a ">
-<!ENTITY originalWebsite2.label "sito web ">
+<!ENTITY toField3.label "A">
+<!ENTITY fromField3.label "Da">
+<!ENTITY senderField3.label "Mittente">
+<!ENTITY organizationField3.label "Organizzazione">
+<!ENTITY replyToField3.label "Rispondi a">
+<!ENTITY subjectField3.label "Oggetto">
+<!ENTITY ccField3.label "Cc ">
+<!ENTITY bccField3.label "Ccn">
+<!ENTITY newsgroupsField3.label "Gruppi di discussione">
+<!ENTITY followupToField3.label "Inoltra a">
+<!ENTITY tagsHdr3.label "Etichette ">
+<!ENTITY dateField3.label "Data">
+<!ENTITY userAgentField3.label "User agent ">
+<!ENTITY referencesField3.label "Riferimenti">
+<!ENTITY messageIdField3.label "ID del messaggio">
+<!ENTITY inReplyToField3.label "In risposta a ">
+<!ENTITY originalWebsite3.label "Sito web">
 <!ENTITY editMessageDescription.label "Questa è una bozza">
 <!ENTITY editMessageButton.label "Modifica…">
-<!ENTITY hdrArchiveButton.label "Archivia">
-<!ENTITY hdrArchiveButton.tooltip "Archivia questo messaggio">
-<!ENTITY hdrSmartReplyButton.label "risposta veloce">
-<!ENTITY hdrReplyButton.label "Rispondi">
-<!ENTITY hdrReplyButton.tooltip "Rispondi a questo messaggio">
-<!ENTITY hdrReplyAllButton.label "Rispondi a tutti">
-<!ENTITY hdrReplyAllButton.tooltip "Rispondi al mittente e a tutti i destinatari">
-<!ENTITY hdrReplyListButton.label "Rispondi alla lista">
-<!ENTITY hdrReplyListButton.tooltip "Rispondi alla lista di distribuzione">
-<!ENTITY hdrForwardButton.label "Inoltra">
-<!ENTITY hdrForwardButton.tooltip "Inoltra questo messaggio">
-<!ENTITY hdrJunkButton.label "Indesiderata">
-<!ENTITY hdrJunkButton.tooltip "Segna questo messaggio come posta indesiderata">
-<!ENTITY hdrTrashButton.label "Elimina">
-<!ENTITY hdrTrashButton.tooltip "Elimina questo messaggio">
+<!ENTITY hdrArchiveButton1.label "Archivia">
+<!ENTITY hdrArchiveButton1.tooltip "Archivia questo messaggio">
+<!ENTITY hdrSmartReplyButton1.label "Risposta veloce">
+<!ENTITY hdrReplyButton1.label "Rispondi">
+<!ENTITY hdrReplyButton1.tooltip "Rispondi a questo messaggio">
+<!ENTITY hdrReplyAllButton1.label "Rispondi a tutti">
+<!ENTITY hdrReplyAllButton1.tooltip "Rispondi al mittente e a tutti i destinatari">
+<!ENTITY hdrReplyListButton1.label "Rispondi alla lista">
+<!ENTITY hdrReplyListButton1.tooltip "Rispondi alla lista di distribuzione">
+<!ENTITY hdrForwardButton1.label "Inoltra">
+<!ENTITY hdrForwardButton1.tooltip "Inoltra questo messaggio">
+<!ENTITY hdrJunkButton1.label "Indesiderata">
+<!ENTITY hdrJunkButton1.tooltip "Segna questo messaggio indesiderato">
+<!ENTITY hdrTrashButton1.label "Elimina">
+<!ENTITY hdrTrashButton1.tooltip "Elimina questo messaggio">
 <!ENTITY hdrViewToolbarShowFull.label "Visualizza icone e testo">
 <!ENTITY hdrViewToolbarShowFull.accesskey "z">
 <!ENTITY hdrViewToolbarShowIcons.label "Visualizza solo icone">
@@ -41,23 +41,23 @@
 <!ENTITY hdrViewToolbarShowText.accesskey "t">
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Visualizza sempre Rispondi al mittente">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "R">
-<!ENTITY otherActionsButton.label "Altre azioni">
-<!ENTITY otherActionsOpenConversation.label "apri nella conversazione">
-<!ENTITY otherActionsOpenConversation.accesskey "c">
-<!ENTITY otherActionsOpenInNewWindow.label "apri in nuova finestra">
-<!ENTITY otherActionsOpenInNewWindow.accesskey "f">
-<!ENTITY otherActionsOpenInNewTab.label "apri in nuova scheda">
-<!ENTITY otherActionsOpenInNewTab.accesskey "a">
-<!ENTITY markAsReadMenuItem.label "segna come già letto">
-<!ENTITY markAsReadMenuItem.accesskey "e">
-<!ENTITY markAsUnreadMenuItem.label "segna come non letto">
-<!ENTITY markAsUnreadMenuItem.accesskey "o">
-<!ENTITY saveAsMenuItem.label "salva con nome…">
-<!ENTITY saveAsMenuItem.accesskey "s">
-<!ENTITY viewSourceMenuItem.label "visualizza sorgente">
-<!ENTITY viewSourceMenuItem.accesskey "v">
-<!ENTITY otherActionsPrint.label "stampa…">
-<!ENTITY otherActionsPrint.accesskey "m">
+<!ENTITY otherActionsButton1.label "Altre azioni">
+<!ENTITY otherActionsOpenConversation1.label "Apri nella conversazione">
+<!ENTITY otherActionsOpenConversation1.accesskey "A">
+<!ENTITY otherActionsOpenInNewWindow1.label "Apri in una nuova finestra">
+<!ENTITY otherActionsOpenInNewWindow1.accesskey "F">
+<!ENTITY otherActionsOpenInNewTab1.label "Apri in una nuova scheda">
+<!ENTITY otherActionsOpenInNewTab1.accesskey "A">
+<!ENTITY markAsReadMenuItem1.label "Segna come letto">
+<!ENTITY markAsReadMenuItem1.accesskey "S">
+<!ENTITY markAsUnreadMenuItem1.label "Segna come non letto">
+<!ENTITY markAsUnreadMenuItem1.accesskey "n">
+<!ENTITY saveAsMenuItem1.label "Salva come…">
+<!ENTITY saveAsMenuItem1.accesskey "S">
+<!ENTITY viewSourceMenuItem1.label "Visualizza sorgente">
+<!ENTITY viewSourceMenuItem1.accesskey "V">
+<!ENTITY otherActionsPrint1.label "Stampa…">
+<!ENTITY otherActionsPrint1.accesskey "S">
 <!ENTITY openAttachmentCmd.label "Apri">
 <!ENTITY openAttachmentCmd.accesskey "A">
 <!ENTITY saveAsAttachmentCmd.label "Salva come…">
@@ -65,7 +65,7 @@
 <!ENTITY detachAttachmentCmd.label "Separa…">
 <!ENTITY detachAttachmentCmd.accesskey "p">
 <!ENTITY deleteAttachmentCmd.label "Elimina">
-<!ENTITY deleteAttachmentCmd.accesskey "L">
+<!ENTITY deleteAttachmentCmd.accesskey "e">
 <!ENTITY openAllAttachmentsCmd.label "Apri tutti…">
 <!ENTITY openAllAttachmentsCmd.accesskey "A">
 <!ENTITY saveAllAttachmentsCmd.label "Salva tutti…">
@@ -73,27 +73,11 @@
 <!ENTITY detachAllAttachmentsCmd.label "Separa tutto…">
 <!ENTITY detachAllAttachmentsCmd.accesskey "S">
 <!ENTITY deleteAllAttachmentsCmd.label "Elimina tutti…">
-<!ENTITY deleteAllAttachmentsCmd.accesskey "E">
-<!ENTITY saveAttachmentButton.label "salva">
-<!ENTITY saveAttachmentButton.tooltip "salva i file allegati">
-<!ENTITY saveAllAttachmentsButton.label "salva tutto">
-<!ENTITY saveAllAttachmentsButton.tooltip "salva tutti i file allegati">
-<!ENTITY openAttachmentMenuItem.label "apri">
-<!ENTITY openAttachmentMenuItem.accesskey "a">
-<!ENTITY saveAsAttachmentMenuItem.label "salva con nome…">
-<!ENTITY saveAsAttachmentMenuItem.accesskey "s">
-<!ENTITY detachAttachmentMenuItem.label "separa…">
-<!ENTITY detachAttachmentMenuItem.accesskey "r">
-<!ENTITY deleteAttachmentMenuItem.label "elimina">
-<!ENTITY deleteAttachmentMenuItem.accesskey "e">
-<!ENTITY openAllAttachmentsMenuItem.label "apri tutti…">
-<!ENTITY openAllAttachmentsMenuItem.accesskey "a">
-<!ENTITY saveAllAttachmentsMenuItem.label "salva tutto…">
-<!ENTITY saveAllAttachmentsMenuItem.accesskey "s">
-<!ENTITY detachAllAttachmentsMenuItem.label "separa tutto…">
-<!ENTITY detachAllAttachmentsMenuItem.accesskey "S">
-<!ENTITY deleteAllAttachmentsMenuItem.label "cancella tutti…">
-<!ENTITY deleteAllAttachmentsMenuItem.accesskey "e">
+<!ENTITY deleteAllAttachmentsCmd.accesskey "e">
+<!ENTITY saveAttachmentButton1.label "Salva">
+<!ENTITY saveAttachmentButton1.tooltip "Salva il file allegato">
+<!ENTITY saveAllAttachmentsButton1.label "Salva tutto">
+<!ENTITY saveAllAttachmentsButton1.tooltip "Salva tutti gli allegati">
 <!ENTITY copyLinkCmd.label "Copia indirizzo">
 <!ENTITY copyLinkCmd.accesskey "C">
 <!ENTITY CopyMessageId.label "Copiare identificativo messaggio">
