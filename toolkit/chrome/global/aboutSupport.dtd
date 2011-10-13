@@ -1,5 +1,6 @@
 <!ENTITY aboutSupport.pageTitle "Información para solucionar problemas">
-<!ENTITY aboutSupport.pageSubtitle "Esta página presenta información técnica que puede servir de ayuda si necesitas resolver un problema. Para obtener respuestas a preguntas comúnes sobre &brandShortName; visita nuestro <a id='supportLink'>sitio de soporte</a>.
+<!ENTITY aboutSupport.pageSubtitle "
+Esta página presenta información técnica que puede ser de ayuda si necesitas resolver un problema. Para obtener respuestas a preguntas comúnes sobre &brandShortName; visita nuestro <a id='supportLink'>sitio web de soporte</a>.
 ">
 <!ENTITY aboutSupport.extensionsTitle "Extensiones">
 <!ENTITY aboutSupport.extensionName "Nombre">
@@ -14,6 +15,7 @@
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configuración de compilación">
 <!ENTITY aboutSupport.appBasicsUserAgent "Agente de usuario">
 <!ENTITY aboutSupport.appBasicsCrashIDs "Informes de colapso">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Uso de memoria">
 <!ENTITY aboutSupport.show.label "Abrir la carpeta que lo contiene">
 <!ENTITY aboutSupport.showMac.label "Mostrar en Finder">
 <!ENTITY aboutSupport.modifiedPrefsTitle "Preferencias modificadas">
