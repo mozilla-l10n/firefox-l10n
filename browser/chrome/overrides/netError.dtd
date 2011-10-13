@@ -51,6 +51,9 @@
 <!ENTITY netInterrupt.title "Ryšys buvo nutrauktas">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!ENTITY notCached.title "Dokumento galiojimas baigėsi">
+<!ENTITY notCached.longDesc "<p>Prašomo dokumento „Firefox“ podėlyje nėra.</p><ul><li>Saugumo sumetimais „Firefox“ jautrių dokumentų automatiškai iš naujo neatsiunčia.</li><li>Jeigu norite dokumentą iš svetainės atsiųsti iš naujo, spustelėkite „Bandyti dar kartą“.</li></ul>">
+
 <!ENTITY netOffline.title "Dirbama atsijungus nuo tinklo">
 <!ENTITY netOffline.longDesc2 "
 <ul>
