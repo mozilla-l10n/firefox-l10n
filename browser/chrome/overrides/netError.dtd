@@ -31,6 +31,8 @@
 ">
 <!ENTITY netInterrupt.title "Соединение было прервано">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+<!ENTITY notCached.title "Документ просрочен">
+<!ENTITY notCached.longDesc "<p>Запрошенный документ не доступен в кэше Firefox.</p><ul><li>В целях безопасности Firefox не производит автоматический повторный запрос важных документов.</li><li>Нажмите «Попробовать снова», чтобы повторно запросить документ с веб-сайта.</li></ul>">
 <!ENTITY netOffline.title "Автономный режим">
 <!ENTITY netOffline.longDesc2 "
 <ul>
