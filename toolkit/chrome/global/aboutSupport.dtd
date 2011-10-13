@@ -60,6 +60,7 @@
 <!ENTITY aboutSupport.appBasicsBuildConfig "Հավաքման ձևաչափ">
 <!ENTITY aboutSupport.appBasicsUserAgent "Օգտագործողի զննարկիչը">
 <!ENTITY aboutSupport.appBasicsCrashIDs "Crash Reports">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Memory Use">
 
 <!ENTITY aboutSupport.show.label "Բացել նրա պահոցը">
 

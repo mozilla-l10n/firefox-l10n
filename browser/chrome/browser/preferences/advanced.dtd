@@ -69,7 +69,7 @@
 <!ENTITY submitCrashes.label             "Տեղեկացնել վթարների մասին">
 <!ENTITY submitCrashes.accesskey         "t">
 <!ENTITY submitTelemetry.label           "Submit performance data">
-<!ENTITY submitTelemetry.accesskey       "p">
+<!ENTITY submitTelemetry.accesskey       "P">
 
 <!ENTITY networkTab.label                "Ցանց">
 
@@ -99,7 +99,7 @@
 
 <!ENTITY autoCheck.label                 "Ինքնաբար ստուգել թարմացումներ.">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "F">
+<!ENTITY enableAppUpdate.accesskey       "&">
 <!ENTITY enableAddonsUpdate2.label       "Հավելումներ">
 <!ENTITY enableAddonsUpdate2.accesskey   "n">
 <!ENTITY enableSearchUpdate.label        "Փնտրամեքենաներ">
