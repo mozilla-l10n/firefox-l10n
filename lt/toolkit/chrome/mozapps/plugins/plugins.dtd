@@ -53,6 +53,7 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "Papildinys(-iai) pradės veikti paleidus „&brandShortName;“ iš naujo.">
 
 <!ENTITY missingPlugin                                       "Šiam elementui parodyti reikalingas papildinys.">
+<!ENTITY clickToPlayPlugin                                   "Bakstelėkite čia, jeigu norite aktyvinti papildinį.">
 <!ENTITY disabledPlugin                                      "Šis papildinys išjungtas.">
 <!ENTITY blockedPlugin.label                                 "Šis papildinys užblokuotas Jūsų saugumo sumetimais.">
 
