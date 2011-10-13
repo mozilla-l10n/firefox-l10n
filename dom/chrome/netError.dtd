@@ -24,6 +24,9 @@
 <!ENTITY netInterrupt.title "Transferencia de datos interrumpida">
 <!ENTITY netInterrupt.longDesc "<p>El navegador conectó exitosamente, pero la conexión fue interrumpida al transferir información.  Intente nuevamente.</p><ul><li>¿No puede navegar otros sitios?  Verifique la conexión a la red de su computadora.</li><li>¿Todavía tiene problemas? Consulte a su administrador de red o a su proveedor de Internet por asistencia.</li></ul>">
 
+<!ENTITY notCached.title "Documento expirado">
+<!ENTITY notCached.longDesc "<p>El documento solicitado no está disponible en caché del navegador.</p><ul><li>Como una precaución de seguridad, el navegador no reenvía automáticamente documentos sensibles.</li><li>Haga clic en Intente nuevamente para solicitar el documento al sitio web nuevamente.</li></ul>">
+
 <!ENTITY netOffline.title "Modo sin conexión a la red">
 <!ENTITY netOffline.longDesc2 "<p>El navegador está actualmente funcionando en el modo sin conexión a la red y no puede conectarse al ítem solicitado.</p><ul><li>¿Está la computadora conectada a una red activa?</li><li>Presione &quot;Intente nuevamente&quot; para volver al modo con conexión y recargar la página.</li></ul>">
 
