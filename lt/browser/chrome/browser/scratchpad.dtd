@@ -79,8 +79,8 @@
   -  the user is evaluating against. I.e., Content (current tab) or Chrome
   -  (browser).
   -->
-<!ENTITY environmentMenu.label        "Aplinka">
-<!ENTITY environmentMenu.accesskey    "A">
+<!ENTITY environmentMenu.label        "Kontekstas">
+<!ENTITY environmentMenu.accesskey    "K">
 
 <!ENTITY contentContext.label         "Tinklalapis">
 <!ENTITY contentContext.accesskey     "T">
@@ -103,13 +103,8 @@
 <!ENTITY executeMenu.label            "Vykdymas">
 <!ENTITY executeMenu.accesskey        "V">
 
-<!ENTITY toolsMenu.label              "Priemonės">
-<!ENTITY toolsMenu.accesskey          "P">
-
 <!ENTITY errorConsoleCmd.label        "Klaidų pultas">
-<!ENTITY errorConsoleCmd.accesskey    "K">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
 <!ENTITY webConsoleCmd.label          "Saityno pultas">
-<!ENTITY webConsoleCmd.accesskey      "p">
 <!ENTITY webConsoleCmd.commandkey     "k">
