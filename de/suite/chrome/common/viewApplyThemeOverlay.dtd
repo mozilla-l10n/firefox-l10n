@@ -1,0 +1,6 @@
+<!ENTITY applyTheme.label          "Theme anwenden">
+<!ENTITY applyTheme.accesskey      "T">
+<!ENTITY getNewThemesCmd.label     "Neue Themes herunterladen">
+<!ENTITY getNewThemesCmd.accesskey "N">
+<!ENTITY getPersonasCmd.label      "Personas herunterladen">
+<!ENTITY getPersonasCmd.accesskey  "P">
