@@ -16,6 +16,8 @@
 <!ENTITY malformedURI.longDesc "<p>L'indirizzo fornito non è in un formato riconoscibile. Verificare l'eventuale presenza di errori nella barra degli indirizzi e riprovare.</p>">
 <!ENTITY netInterrupt.title "Trasferimento dati interrotto">
 <!ENTITY netInterrupt.longDesc "<p>Il browser si è connesso correttamente, ma la trasmissione delle informazioni è stata interrotta.  Si consiglia di riprovare.</p><ul><li>È possibile navigare in altri siti?  Controllare la connessione alla rete.</li><li>Il problema non si risolve? Consultare l'amministratore di rete o il provider internet per ricevere assistenza.</li></ul>">
+<!ENTITY notCached.title "Documento scaduto">
+<!ENTITY notCached.longDesc "<p>Il documento richiesto non è più disponibile nella cache del browser.</p><ul><li>Per ragioni di sicurezza il browser non effettua automaticamente una nuova richiesta per documenti sensibili.</li><li>Fare clic su Riprova per richiedere nuovamente il documento al sito web.</li></ul>">
 <!ENTITY netOffline.title "Non in linea">
 <!ENTITY netOffline.longDesc2 "<p>Il browser si trova in modalità non in linea e non è possibile connettersi con l'elemento richiesto.</p><ul><li>Il computer è collegato a una rete attiva?</li><li>Selezionare &quot;Riprova&quot; per passare alla modalità in linea e ricaricare la pagina.</li></ul>">
 <!ENTITY contentEncodingError.title "Errore di codifica del contenuto">
