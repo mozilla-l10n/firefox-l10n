@@ -21,6 +21,7 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; ten que reiniciar para que funcionen os engadidos.">
 
 <!ENTITY missingPlugin                                       "Precísase un engadido para visualizar este contido.">
+<!ENTITY clickToPlayPlugin                                   "Pulse aquí para activar o engadido.">
 <!ENTITY disabledPlugin                                      "Este engadido está desactivado.">
 <!ENTITY blockedPlugin.label                                 "Bloqueouse este engadido por protección.">
 
