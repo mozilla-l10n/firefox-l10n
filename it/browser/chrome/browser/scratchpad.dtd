@@ -50,15 +50,11 @@
 <!ENTITY contentContext.accesskey "C">
 <!ENTITY browserContext.label "Browser">
 <!ENTITY browserContext.accesskey "B">
-<!ENTITY resetContext.label "Reimposta">
+<!ENTITY resetContext.label "Reimposta variabili">
 <!ENTITY resetContext.accesskey "m">
 <!ENTITY executeMenu.label "Esecuzione">
 <!ENTITY executeMenu.accesskey "E">
-<!ENTITY toolsMenu.label "Strumenti">
-<!ENTITY toolsMenu.accesskey "S">
 <!ENTITY errorConsoleCmd.label "Console degli errori">
-<!ENTITY errorConsoleCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY webConsoleCmd.label "Console web">
-<!ENTITY webConsoleCmd.accesskey "w">
 <!ENTITY webConsoleCmd.commandkey "k">
