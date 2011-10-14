@@ -104,14 +104,9 @@
 <!ENTITY executeMenu.label            "Ejecutar">
 <!ENTITY executeMenu.accesskey        "j">
 
-<!ENTITY toolsMenu.label              "Herramientas">
-<!ENTITY toolsMenu.accesskey          "t">
-
 <!ENTITY errorConsoleCmd.label        "Consola de errores">
-<!ENTITY errorConsoleCmd.accesskey    "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
 <!ENTITY webConsoleCmd.label          "Consola web">
-<!ENTITY webConsoleCmd.accesskey      "w">
 <!ENTITY webConsoleCmd.commandkey     "k">
 
