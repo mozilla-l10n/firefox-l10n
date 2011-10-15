@@ -38,22 +38,22 @@
 <!ENTITY overrideSmartCacheSize.label "Отключить автоматическое управление кэшем">
 <!ENTITY overrideSmartCacheSize.accesskey "л">
 <!ENTITY updateTab.label "Обновления">
-<!ENTITY autoCheck.label "Автоматически проверять наличие обновлений для:">
-<!ENTITY enableAppUpdate.label "Браузера &brandShortName;">
-<!ENTITY enableAppUpdate.accesskey "у">
-<!ENTITY enableAddonsUpdate2.label "Дополнений">
-<!ENTITY enableAddonsUpdate2.accesskey "о">
-<!ENTITY enableSearchUpdate.label "Плагинов для поисковых систем">
-<!ENTITY enableSearchUpdate.accesskey "л">
-<!ENTITY whenUpdatesFound.label "При обнаружении обновлений для &brandShortName;:">
-<!ENTITY askMe.label "Предоставлять выбор действия пользователю">
-<!ENTITY askMe.accesskey "д">
-<!ENTITY modeAutomatic.label "Автоматически загружать и устанавливать обновления">
-<!ENTITY modeAutomatic.accesskey "в">
-<!ENTITY modeAutoAddonWarn.label "Предупреждать, если при данном действии будут отключены какие-либо дополнения">
-<!ENTITY modeAutoAddonWarn.accesskey "е">
+<!ENTITY updateApp.label "Обновления &brandShortName;:">
+<!ENTITY updateAuto.label "Автоматически устанавливать обновления (рекомендовано: повышает безопасность)">
+<!ENTITY updateAuto.accesskey "м">
+<!ENTITY updateCheck.label "Проверять наличие обновлений, но позволять мне решать, устанавливать ли их или нет">
+<!ENTITY updateCheck.accesskey "в">
+<!ENTITY updateManual.label "Никогда не проверять наличие обновлений (не рекомендовано: ставит безопасность под угрозу)">
+<!ENTITY updateManual.accesskey "и">
+<!ENTITY updateAutoAddonWarn.label "Предупреждать меня, если при этом будут отключены какие-либо дополнения">
+<!ENTITY updateAutoAddonWarn.accesskey "е">
 <!ENTITY updateHistory.label "Показать журнал обновлений">
 <!ENTITY updateHistory.accesskey "ж">
+<!ENTITY updateOthers.label "Автоматически обновлять:">
+<!ENTITY enableAddonsUpdate3.label "Дополнения">
+<!ENTITY enableAddonsUpdate3.accesskey "о">
+<!ENTITY enableSearchUpdate.label "Плагины для поисковых систем">
+<!ENTITY enableSearchUpdate.accesskey "л">
 <!ENTITY offlineNotify.label "Информировать, когда веб-сайт просит разрешения сохранить данные для использования в автономном режиме">
 <!ENTITY offlineNotify.accesskey "ф">
 <!ENTITY offlineNotifyExceptions.label "Исключения…">
