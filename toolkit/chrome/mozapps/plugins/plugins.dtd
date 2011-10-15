@@ -21,6 +21,7 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; doit être redémarré pour que le(s) plugin(s) fonctionne(nt).">
 
 <!ENTITY missingPlugin                                       "Un plugin est nécessaire pour afficher ce contenu.">
+<!ENTITY clickToPlayPlugin                                   "Taper ici pour activer le plugin.">
 <!ENTITY disabledPlugin                                      "Ce plugin est désactivé.">
 <!ENTITY blockedPlugin.label                                 "Ce plugin a été bloqué pour votre protection.">
 
