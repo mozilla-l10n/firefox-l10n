@@ -152,3 +152,7 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!ENTITY remoteXUL.title "Attālināts XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Lūdzu sazinieties ar mājas lapas īpašniekiem un informējiet viņus par šo problēmu.</li></ul></p>">
+
+<!ENTITY notCached.title "Dokumenta derīguma termiņš beidzies">
+<!ENTITY notCached.longDesc "<p>Pieprasītais dokuments vairs nav pieejams Firefox kešatmiņā.</p><ul><li>Drošības apsvērumu dēļ, Firefox neveic sensitīvu dokumentu automātisku atkārtotu pieprasīšanu.</li><li>Klikšķiniet uz Mēģināt vēlreiz, lai atkārtoti pieprasītu šo dokumentu no mājas lapas.</li></ul>">
+
