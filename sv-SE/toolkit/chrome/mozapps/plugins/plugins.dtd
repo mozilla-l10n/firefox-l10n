@@ -53,6 +53,7 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; måste startas om för att insticksmodulerna ska fungera.">
 
 <!ENTITY missingPlugin                                       "En insticksmodul behövs för att visa innehållet.">
+<!ENTITY clickToPlayPlugin                                   "Tryck för att aktivera insticksmodulen.">
 <!ENTITY disabledPlugin                                      "Instickmodulen har inaktiverats.">
 <!ENTITY blockedPlugin.label                                 "Den här insticksmodulen är blockerad av säkerhetsskäl.">
 
