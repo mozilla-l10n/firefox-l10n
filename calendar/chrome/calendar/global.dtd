@@ -87,7 +87,7 @@
 <!ENTITY onemonthbackward.tooltip "Un mes atrás" >
 <!ENTITY onemonthforward.tooltip "Un mes después" >
 <!ENTITY showToday.tooltip "Ir a hoy">
-<!ENTITY onedayforward.tooltip "Un día atrás">
-<!ENTITY onedaybackward.tooltip "Un día después">
+<!ENTITY onedayforward.tooltip "Un día después">
+<!ENTITY onedaybackward.tooltip "Un día atrás">
 <!ENTITY showselectedday.tooltip "Mostrar eventos para el día seleccionado">
 
