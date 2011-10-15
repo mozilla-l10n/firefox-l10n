@@ -103,8 +103,13 @@
 <!ENTITY executeMenu.label            "Vykdymas">
 <!ENTITY executeMenu.accesskey        "V">
 
+<!ENTITY toolsMenu.label              "Priemonės">
+<!ENTITY toolsMenu.accesskey          "P">
+
 <!ENTITY errorConsoleCmd.label        "Klaidų pultas">
+<!ENTITY errorConsoleCmd.accesskey    "K">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
 <!ENTITY webConsoleCmd.label          "Saityno pultas">
+<!ENTITY webConsoleCmd.accesskey      "p">
 <!ENTITY webConsoleCmd.commandkey     "k">

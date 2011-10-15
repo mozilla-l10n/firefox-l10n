@@ -30,8 +30,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!-- Note: due to bug 143065, the only remaining accesskeys available to be used
-     in the Advanced pane are: "b", "j", "q", "z" -->
+<!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "Bendrosios">
 
@@ -91,22 +90,25 @@
 
 <!ENTITY updateTab.label                 "Atnaujinimas">
 
-<!ENTITY autoCheck.label                 "Automatiškai tikrinti, ar yra naujinimų:">
-<!ENTITY enableAppUpdate.label           "programai „&brandShortName;“">
-<!ENTITY enableAppUpdate.accesskey       "p">
-<!ENTITY enableAddonsUpdate2.label       "programos priedams">
-<!ENTITY enableAddonsUpdate2.accesskey   "r">
-<!ENTITY enableSearchUpdate.label        "ieškyklėms">
-<!ENTITY enableSearchUpdate.accesskey    "e">
-<!ENTITY whenUpdatesFound.label          "Jei „&brandShortName;“ naujinimas rastas, tai:">
-<!ENTITY askMe.label                     "pranešti ir paklausti, ką daryti">
-<!ENTITY askMe.accesskey                 "k">
-<!ENTITY modeAutomatic.label             "naujinimus atsiųsti ir įdiegti automatiškai">
-<!ENTITY modeAutomatic.accesskey         "n">
-<!ENTITY modeAutoAddonWarn.label         "įspėti, jei naujinimas gali būti nesuderinamas su įdiegtais priedais">
-<!ENTITY modeAutoAddonWarn.accesskey     "s">
+<!ENTITY updateApp.label                 "Programos „&brandShortName;“ atnaujinimas:">
+<!ENTITY updateAuto.label                "Automatiškai įdiegti naujinimus (rekomenduojama – didesnis saugumas)">
+<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateCheck.label               "Tikrinti, ar yra naujinimų, bet atsiklausti prieš juos įdiegiant">
+<!ENTITY updateCheck.accesskey           "T">
+<!ENTITY updateManual.label              "Netikrinti, ar yra naujinimų (nerekomenduojama – galimos saugumo problemos)">
+<!ENTITY updateManual.accesskey          "N">
+
+<!ENTITY updateAutoAddonWarn.label       "Įspėti, jei naujinimas nesuderinamas su įdiegtais priedais">
+<!ENTITY updateAutoAddonWarn.accesskey   "s">
+
 <!ENTITY updateHistory.label             "Rodyti atnaujinimo žurnalą">
 <!ENTITY updateHistory.accesskey         "ž">
+
+<!ENTITY updateOthers.label              "Automatiškai atnaujinti:">
+<!ENTITY enableAddonsUpdate3.label       "programos priedus">
+<!ENTITY enableAddonsUpdate3.accesskey   "p">
+<!ENTITY enableSearchUpdate.label        "ieškykles">
+<!ENTITY enableSearchUpdate.accesskey    "e">
 
 <!ENTITY offlineNotify.label             "Pranešti, kai svetainė siūlo kompiuteryje išsaugoti duomenis, reikalingus darbui atsijungus nuo tinklo">
 <!ENTITY offlineNotify.accesskey         "P">
