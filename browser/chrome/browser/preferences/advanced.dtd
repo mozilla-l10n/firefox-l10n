@@ -57,20 +57,29 @@
 <!ENTITY submitCrashes.label             "Nosūtīt avārijas ziņojumus">
 <!ENTITY submitCrashes.accesskey         "S">
 
-<!ENTITY autoCheck.label "Automātiski pārbaudīt atjauninājumus:">
+
+<!ENTITY updateApp.label                 "&brandShortName; atjauninājumi:">
+<!ENTITY updateAuto.label                "Instalēt atjauninājumus automātiski (ieteicams: uzlabota drošība)">
+<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateCheck.label               "Pārbaudīt atjauninājumu pieejamību, bet ļaut man izvēlēties vai instalēt tos">
+<!ENTITY updateCheck.accesskey           "P">
+<!ENTITY updateManual.label              "Nepārbaudīt atjauninājumu pieejamību (nav ieteicams: drošības risks)">
+<!ENTITY updateManual.accesskey          "N">
+
+<!ENTITY updateAutoAddonWarn.label       "Brīdināt, ja tas deaktivizēs kādu no maniem papildinājumiem">
+<!ENTITY updateAutoAddonWarn.accesskey   "B">
+
+<!ENTITY updateHistory.label             "Rādīt atjauninājumu vēsturi">
+<!ENTITY updateHistory.accesskey         "R">
+
+<!ENTITY updateOthers.label              "Automātiski atjaunināt:">
+
 <!ENTITY enableAppUpdate.label "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey "F">
-<!ENTITY enableAddonsUpdate2.label "Papildinājumiem">
-<!ENTITY enableAddonsUpdate2.accesskey "p">
-<!ENTITY enableSearchUpdate.label "Meklētājiem">
+<!ENTITY enableAddonsUpdate3.label "Papildinājumus">
+<!ENTITY enableAddonsUpdate3.accesskey "p">
+<!ENTITY enableSearchUpdate.label "Meklētājus">
 <!ENTITY enableSearchUpdate.accesskey "l">
-<!ENTITY whenUpdatesFound.label "Kad ir pieejami &brandShortName; atjauninājumi:">
-<!ENTITY askMe.label "Jautāt man, ko darīt tālāk">
-<!ENTITY askMe.accesskey "k">
-<!ENTITY modeAutomatic.label "Automātiski lejupielādēt un instalēt atjauninājumus">
-<!ENTITY modeAutomatic.accesskey "d">
-<!ENTITY modeAutoAddonWarn.label "Brīdināt mani, ja atjauninājums deaktivizēs kādu no instalētajiem papildinājumiem">
-<!ENTITY modeAutoAddonWarn.accesskey "B">
 <!ENTITY updateHistory.label "Parādīt atjauninājumu vēsturi">
 <!ENTITY updateHistory.accesskey "p">
 
