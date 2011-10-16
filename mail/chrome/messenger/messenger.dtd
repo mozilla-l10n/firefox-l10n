@@ -664,7 +664,7 @@
 <!ENTITY ViewContact.accesskey "V">
 <!ENTITY SubscribeToNewsgroup.label "Suscribirse a grupo de noticias">
 <!ENTITY SubscribeToNewsgroup.accesskey "n">
-<!ENTITY SendMessageTo.label "Copiar mensaje a">
+<!ENTITY SendMessageTo.label "Enviar mensaje a">
 <!ENTITY SendMessageTo.accesskey "s">
 <!ENTITY CopyEmailAddress.label "Copiar dirección de correo electrónico">
 <!ENTITY CopyEmailAddress.accesskey "C">
