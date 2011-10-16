@@ -211,7 +211,7 @@
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Effacer les ancres nommées">
 <!ENTITY formatRemoveNamedAnchors.accesskey "E">
-<!ENTITY formatRemoveNamedAnchors.key "A">
+<!ENTITY formatRemoveNamedAnchors2.key "R">
 
 <!ENTITY paragraphMenu.label "Paragraphe">
 <!ENTITY paragraphMenu.accesskey "P">
