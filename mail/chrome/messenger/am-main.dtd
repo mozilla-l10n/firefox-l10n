@@ -11,6 +11,7 @@
 <!ENTITY email.accesskey "E">
 <!ENTITY replyTo.label "පිලිතුරු ලබන ලිපිනය:">
 <!ENTITY replyTo.accesskey "s">
+<!ENTITY replyTo.placeholder "ලබන්නා මෙම වෙනත් ලිපිනයට පිළිතුරු සපයනු ඇත">
 <!ENTITY organization.label "ආයතනය:">
 <!ENTITY organization.accesskey "O">
 <!ENTITY signatureText.label "අත්සන් පාඨය:">

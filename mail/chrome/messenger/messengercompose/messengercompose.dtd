@@ -90,6 +90,8 @@
 <!-- View Menu -->
 <!ENTITY viewMenu.label "දසුන්"> 
 <!ENTITY viewMenu.accesskey "V">
+<!ENTITY menubarCmd.label "මෙනු තීරුව">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY viewToolbarsMenuNew.label "මෙවලම් තීරු"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "T"> 
 <!ENTITY showCompositionToolbarCmd.label "ලිපි ලිවීමේ මෙවලම් තීරුව">

@@ -68,11 +68,6 @@
 <!ENTITY publishAsCmd.accesskey "h">
 <!ENTITY saveAsChangeEncodingCmd.label "අක්ෂර කේතනය වෙනස් කර සුරකින්න">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "E">
-<!ENTITY printSetupCmd.label "පිටු සැකසීම...">
-<!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printCmd.label "මුද්‍රණය...">
-<!ENTITY printCmd.accesskey "P">
-<!ENTITY printCmd.key "P">
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "සැකසුම්">
