@@ -41,14 +41,14 @@
 <!ENTITY organizationField3.label "நிறுவனம் ">
 <!ENTITY replyToField3.label "reply-to ">
 
-<!ENTITY subjectField2.label "விடயம் ">
+<!ENTITY subjectField3.label "விடயம் ">
 <!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
 <!ENTITY ccField3.label "cc ">
 <!ENTITY bccField3.label "bcc ">
 <!ENTITY newsgroupsField3.label "செய்திகள் குழுமங்கள் ">
 <!ENTITY followupToField3.label "followup-to ">
-<!ENTITY tagsHdr2.label "அடையாள ஒட்டுகள் ">
-<!ENTITY dateField2.label "திகதி ">
+<!ENTITY tagsHdr3.label "அடையாள ஒட்டுகள் ">
+<!ENTITY dateField3.label "திகதி ">
 <!ENTITY userAgentField3.label "பயனாளர்-முகவர் ">
 <!ENTITY referencesField3.label "குறிப்புகள்">
 <!ENTITY messageIdField3.label "message-id ">
@@ -106,7 +106,7 @@ Entities below were automatically added by compare-locales,
 <!ENTITY hdrReplyAllButton1.tooltip "அனுப்புனருக்கும் மற்றும் எல்லா பெறுனருக்கும் பதிலிடுக">
 <!ENTITY hdrViewToolbarShowFull.label "சின்னங்களையும் உரையையும் காட்டுக">
 <!ENTITY hdrTrashButton1.tooltip "இந்த செய்தியை அழிக்க">
-<!ENTITY otherActionsOpenConversation.accesskey "c">
+<!ENTITY otherActionsOpenConversation1.accesskey "c">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "R">
 <!ENTITY hdrViewToolbarShowText.label "உரையை மட்டும் காட்டுக">
 <!ENTITY hdrReplyButton1.tooltip "இந்த செய்திக்கு பதிலிடுக">
@@ -124,7 +124,7 @@ Entities below were automatically added by compare-locales,
 <!ENTITY hdrArchiveButton1.tooltip "இந்த செய்தியை ஆவணக்காப்பிடுக">
 <!ENTITY hdrViewToolbarShowIcons.accesskey "I">
 <!ENTITY hdrViewToolbarShowFull.accesskey "a">
-<!ENTITY otherActionsOpenConversation.label "உரையாடலில் திறக்க">
+<!ENTITY otherActionsOpenConversation1.label "உரையாடலில் திறக்க">
 <!ENTITY markAsReadMenuItem1.label "வாசிக்கப்பட்டதாக குறியிடுக">
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "எப்போதும் பதிலிடுவதை அனுப்புனருக்கு காட்டுக">
 <!ENTITY hdrJunkButton1.tooltip "இந்த செய்தியை கூளம் என குறிப்படுக">
