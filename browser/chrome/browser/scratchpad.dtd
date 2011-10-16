@@ -14,7 +14,6 @@ Entities below were automatically added by compare-locales,
 <!ENTITY browserContext.label "உலாவி">
 <!ENTITY run.label "இயக்குக">
 <!ENTITY executeMenu.accesskey "X">
-<!ENTITY textbox.placeholder1 "// Enter some JavaScript, select it, right click and select Run, Inspect or Display.">
 <!ENTITY undoCmd.key "Z">
 <!ENTITY resetContext.label "மீளமைக்க">
 <!ENTITY pasteCmd.key "V">
