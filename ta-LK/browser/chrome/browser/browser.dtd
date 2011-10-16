@@ -75,6 +75,8 @@
 <!ENTITY forwardCmd.label "முன்னோக்குக">
 <!ENTITY forwardCmd.accesskey "F">
 <!ENTITY forwardButton.tooltip "ஒரு பக்கம் முன்னோக்கி செல்க">
+<!ENTITY backForwardButtonMenu.tooltip "Right-click or pull down to show history">
+<!ENTITY backForwardButtonMenuMac.tooltip "Pull down to show history">
 <!ENTITY reloadCmd.label "மீண்டும் ஏற்றுக">
 <!ENTITY reloadCmd.accesskey "R">
 <!ENTITY reloadButton.tooltip "நடப்புப் பக்கத்தை மீண்டும் ஏற்றுக">
@@ -206,6 +208,7 @@
   
  -->
 <!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
 <!ENTITY openLinkCmd.label            "இணைப்பை புதிய சாளரத்தில் திறக்க">
@@ -452,6 +455,8 @@ Entities below were automatically added by compare-locales,
 <!ENTITY syncSetup.label "Set Up &syncBrand.shortName.label;…">
 <!ENTITY appMenuSafeMode.accesskey "R">
 <!ENTITY inspectButton.label "பரிசோதிக்க">
+<!ENTITY inspectContextMenu.label     "Inspect Element">
+<!ENTITY inspectContextMenu.accesskey "Q">
 <!ENTITY backForwardItem.title "பின்னோக்கு/முன்னனோக்கு">
 <!ENTITY historyRestoreLastSession.label "முந்தைய அமர்வை மீட்கவும்">
 <!ENTITY webConsoleCmd.accesskey "W">

@@ -12,7 +12,6 @@ Entities below were automatically added by compare-locales,
 <!ENTITY setupButton.accesskey "S">
 <!ENTITY engine.history.accesskey "r">
 <!ENTITY engine.history.label "வரலாறு">
-<!ENTITY resetSync.label "ஒத்திசைவை மீளமைக்க">
 <!ENTITY prefs.tosLink.label "சேவையினுடைய விதிமுறைகள்">
 <!ENTITY engine.tabs.accesskey "T">
 <!ENTITY resetPass.label "மீளமைக்க">
@@ -21,22 +20,21 @@ Entities below were automatically added by compare-locales,
 <!ENTITY setupButton.label "Set Up &syncBrand.fullName.label;">
 <!ENTITY manageAccount.accesskey "A">
 <!ENTITY viewQuota.label "ஒதுக்கீட்டை நோக்குக">
-<!ENTITY mySyncKey.label "என்னுடைய ஒத்திசைவு விசை">
 <!ENTITY engine.passwords.label "கடவுச்சொற்கள்">
 <!ENTITY engine.prefs.label "முன்னுரிமைகள்">
 <!ENTITY weaveDesc.label "&syncBrand.fullName.label;  இப்போது நீங்கள் உங்களுடைய அனைத்து சாதனங்களுக்குடாகவும் உங்களுடைய வரலாறு,பக்கஅடையாளங்கள்,கடவுச்சொற்கள் மற்றும் திறக்கப்பட்ட தத்தல்கள்  ஆகியவற்றை அணுகிக்கொள்ளலாம்.">
 <!ENTITY engine.prefs.accesskey "S">
 <!ENTITY engine.tabs.label "தத்தல்கள்">
-<!ENTITY changePassword.label "கடவுச்சொல்லை மாற்றுக">
+<!ENTITY changePassword2.label "கடவுச்சொல்லை மாற்றுக">
+<!ENTITY myRecoveryKey.label          "My Recovery Key">
 <!ENTITY prefs.ppLink.label "பிரத்தியேகக் கொள்கை">
 <!ENTITY syncComputerName.label "கணினியின் பெயர்:">
 <!ENTITY engine.passwords.accesskey "P">
-
-
+<!ENTITY resetSync2.label             "Reset Sync…">
+<!ENTITY unlinkDevice.label           "Unlink This Device">
 <!--
 Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
 <!ENTITY addDevice.label "ஒரு சாதனத்தைச் சேர்க்க">
-<!ENTITY deactivateDevice.label "இந்தச் சாதனத்தின் செயற்பாட்டை நிறுத்துக">
