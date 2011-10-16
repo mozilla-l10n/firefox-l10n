@@ -103,7 +103,10 @@
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "இணை படிவத்தை சுற்றி கரையை காட்டுக">
 <!ENTITY showImageLinkBorder.accessKey "B">
-<!-- These controls may be added some day; currently not used -->
+<!ENTITY LinkAdvancedEditButton.label "Link Advanced Edit…">
+<!ENTITY LinkAdvancedEditButton.accessKey "L">
+<!ENTITY LinkAdvancedEditButton.tooltip "Add or modify HTML attributes, style attributes, and JavaScript">
+
 
 <!-- These tabs are currently used in the image input dialog -->
 

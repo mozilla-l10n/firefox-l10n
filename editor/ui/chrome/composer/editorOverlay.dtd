@@ -68,11 +68,6 @@
 <!ENTITY publishAsCmd.accesskey "h">
 <!ENTITY saveAsChangeEncodingCmd.label "எழுத்து குறிமுறையை சேமித்துவிட்டு மாற்றுக">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "E">
-<!ENTITY printSetupCmd.label "பக்க அமைப்பு…">
-<!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printCmd.label "அச்சிடுக…">
-<!ENTITY printCmd.accesskey "P">
-<!ENTITY printCmd.key "P">
 <!ENTITY closeCmd.label "மூடுக">
 <!ENTITY closeCmd.accesskey "C">
 <!ENTITY closeCmd.key "W">
@@ -90,17 +85,6 @@
 <!ENTITY pasteAsQuotationCmd.label "Paste As Quotation">
 <!ENTITY pasteAsQuotationCmd.accesskey "Q">
 <!ENTITY findCmd.label "கண்டுபிடித்து மாற்றிடுக…">
-<!ENTITY findCmd.accesskey "F">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.key2 "VK_F19">
-<!ENTITY findAgainCmd.label "மீண்டும் கண்டுபிடிக்க">
-<!ENTITY findAgainCmd.accesskey "g">
-<!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "முந்தையதைக் கண்டுபிடிக்க">
-<!ENTITY findPrevCmd.accesskey "v">
-<!ENTITY findPrevCmd.key "G">
-<!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "தட்டச்சு செய்யும் போது எழுத்துக்கூட்டு ஆய்வு செய்க">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY checkSpellingCmd2.label "எழுத்துக்கூட்டை சரிபார்க்க">
@@ -138,23 +122,6 @@
 <!ENTITY createLinkCmd.accesskey "k">
 <!ENTITY editLinkCmd.label "புதிய இயற்றுபவரில் இணைப்பினை செவ்வையாக்குக">
 <!ENTITY editLinkCmd.accesskey "i">
-<!-- (Toplevel Edit menu uses utilityOverlay) -->
-<!ENTITY undoCmd.label "அ-செய்க">
-<!ENTITY undoCmd.accesskey "U">
-<!ENTITY redoCmd.label "மீ-செய்க">
-<!ENTITY redoCmd.accesskey "R">
-<!ENTITY cutCmd.label "வெட்டுக">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "நகல் செய்க">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "ஒட்டுக">
-<!ENTITY pasteCmd.accesskey "P">
-<!ENTITY deleteCmd.label "நீக்கு">
-<!ENTITY deleteCmd.accesskey "D">
-<!ENTITY clearCmd.label "சுத்தம் செய்க">
-<!ENTITY clearCmd.accesskey "l">
-<!ENTITY selectAllCmd.label "அனைத்தையும் தேர்வு செய்க">
-<!ENTITY selectAllCmd.accesskey "A">
 
 <!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip "எழுத்துருவை தேர்வு செய்க">
@@ -452,10 +419,9 @@
 <!ENTITY tocMenu.accesskey        "b">
 
 
-<!--
-Entities below were automatically added by compare-locales,
- based on en-US entities.
--->
+<!ENTITY cutToolbarCmd.tooltip "Cut">
+<!ENTITY copyToolbarCmd.tooltip "Copy">
+<!ENTITY pasteToolbarCmd.tooltip "Paste">
 
 <!ENTITY newToolbarCmd.label "New">
 <!ENTITY pasteAsQuotationCmd.key "o">
