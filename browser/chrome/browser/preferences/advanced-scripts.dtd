@@ -43,8 +43,8 @@
 
 <!ENTITY allowScripts.label             "Scenarijams leisti atlikti šiuos veiksmus:">
 
-<!ENTITY moveResizeWindows.label        "Keisti atvertų langų dydį bei padėtį">
-<!ENTITY moveResizeWindows.accesskey    "K">
+<!ENTITY moveResizePopupWindows.label     "Keisti iškylančiųjų langų dydį bei padėtį">
+<!ENTITY moveResizePopupWindows.accesskey "K">
 <!ENTITY raiseLowerWindows.label        "Keisti langų aktyvumą">
 <!ENTITY raiseLowerWindows.accesskey    "e">
 <!ENTITY disableContextMenus.label      "Nerodyti ar keisti kontekstinį meniu">
