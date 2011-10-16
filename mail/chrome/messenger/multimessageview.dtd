@@ -1,6 +1,6 @@
 <!ENTITY window.title             "செய்தி சுருக்கம்">
 <!ENTITY selectedmessages.label   "தெரிவுசெய்யப்பட்ட செய்திகள்">
-<!ENTITY archive.label            "ஆவணக்காப்பு">
+<!ENTITY archiveButton.label            "ஆவணக்காப்பு">
 
 
 <!--
@@ -8,4 +8,4 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY delete.label "அழிக்க">
+<!ENTITY deleteButton.label "அழிக்க">
