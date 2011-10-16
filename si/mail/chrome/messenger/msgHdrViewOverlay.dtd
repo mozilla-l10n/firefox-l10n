@@ -36,42 +36,42 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY toField2.label "වෙත: ">
-<!ENTITY fromField2.label "වෙතින්: ">
+<!ENTITY fromField3.label "වෙතින්: ">
 <!ENTITY senderField2.label "එවන්නා: ">
 <!ENTITY organizationField2.label "සංවිධානය: ">
 <!ENTITY replyToField2.label "පිළිතුරු මෙයට: ">
 
-<!ENTITY subjectField2.label "විෂයය: ">
+<!ENTITY subjectField.label "විෂයය: ">
 <!--# LOCALIZATION NOTE (ccField.label): DONT_TRANSLATE -->
-<!ENTITY ccField2.label "පිටපත්: ">
-<!ENTITY bccField2.label "රහස්‍ය පිටපත්: ">
-<!ENTITY newsgroupsField2.label "පුවත්සමූහ: ">
-<!ENTITY followupToField2.label "පසුවිපරම්-මෙයට: ">
-<!ENTITY tagsHdr2.label "ටැග: ">
-<!ENTITY dateField2.label "දිනය: ">
-<!ENTITY userAgentField2.label "User-Agent: ">
-<!ENTITY referencesField2.label "References: ">
-<!ENTITY messageIdField2.label "Message-ID: ">
-<!ENTITY inReplyToField2.label "පිළිතුරු මෙයට: ">
-<!ENTITY originalWebsite2.label "වෙබ් අඩවිය: ">
+<!ENTITY ccField3.label "පිටපත්: ">
+<!ENTITY bccField3.label "රහස්‍ය පිටපත්: ">
+<!ENTITY newsgroupsField3.label "පුවත්සමූහ: ">
+<!ENTITY followupToField3.label "පසුවිපරම්-මෙයට: ">
+<!ENTITY tagsHdr3.label "ටැග: ">
+<!ENTITY dateField3.label "දිනය: ">
+<!ENTITY userAgentField3.label "User-Agent: ">
+<!ENTITY referencesField3.label "References: ">
+<!ENTITY messageIdField3.label "Message-ID: ">
+<!ENTITY inReplyToField3.label "පිළිතුරු මෙයට: ">
+<!ENTITY originalWebsite3.label "වෙබ් අඩවිය: ">
 
 <!ENTITY editMessageDescription.label "මෙය කෙටුම්පත් කරන ලිපියකි">
 <!ENTITY editMessageButton.label "සැකසීම…">
-<!ENTITY hdrArchiveButton.label "සංරක්ෂණය">
-<!ENTITY hdrArchiveButton.tooltip "මෙම ලිපි සංරක්ෂණය කරන්න">
-<!ENTITY hdrSmartReplyButton.label "smart reply">
-<!ENTITY hdrReplyButton.label "පිළිතුරු">
-<!ENTITY hdrReplyButton.tooltip "මෙම ලිපියට පිළිතුරු යවන්න">
-<!ENTITY hdrReplyAllButton.label "සැමට පිළිතුරු">
-<!ENTITY hdrReplyAllButton.tooltip "එවන්නාට සහ සියළු ලබන්නන්ට පිළිතුරු යවන්න">
-<!ENTITY hdrReplyListButton.label "ලැයිස්තුවට පිළිතුරු">
-<!ENTITY hdrReplyListButton.tooltip "ලැයිස්තුවට පිළිතුරු යවන්න">
-<!ENTITY hdrForwardButton.label "යොමු කරන්න">
-<!ENTITY hdrForwardButton.tooltip "මෙම ලිපිය යොමු කරන්න">
-<!ENTITY hdrJunkButton.label "නිසරු (junk)">
-<!ENTITY hdrJunkButton.tooltip "මෙම ලිපිය නිසරු සේ ලකුණු කරන්න">
-<!ENTITY hdrTrashButton.label "මකන්න">
-<!ENTITY hdrTrashButton.tooltip "මෙම ලිපිය මකන්න">
+<!ENTITY hdrArchiveButton1.label "සංරක්ෂණය">
+<!ENTITY hdrArchiveButton1.tooltip "මෙම ලිපි සංරක්ෂණය කරන්න">
+<!ENTITY hdrSmartReplyButton1.label "smart reply">
+<!ENTITY hdrReplyButton1.label "පිළිතුරු">
+<!ENTITY hdrReplyButton1.tooltip "මෙම ලිපියට පිළිතුරු යවන්න">
+<!ENTITY hdrReplyAllButton1.label "සැමට පිළිතුරු">
+<!ENTITY hdrReplyAllButton1.tooltip "එවන්නාට සහ සියළු ලබන්නන්ට පිළිතුරු යවන්න">
+<!ENTITY hdrReplyListButton1.label "ලැයිස්තුවට පිළිතුරු">
+<!ENTITY hdrReplyListButton1.tooltip "ලැයිස්තුවට පිළිතුරු යවන්න">
+<!ENTITY hdrForwardButton1.label "යොමු කරන්න">
+<!ENTITY hdrForwardButton1.tooltip "මෙම ලිපිය යොමු කරන්න">
+<!ENTITY hdrJunkButton1.label "නිසරු (junk)">
+<!ENTITY hdrJunkButton1.tooltip "මෙම ලිපිය නිසරු සේ ලකුණු කරන්න">
+<!ENTITY hdrTrashButton1.label "මකන්න">
+<!ENTITY hdrTrashButton1.tooltip "මෙම ලිපිය මකන්න">
 
 <!ENTITY hdrViewToolbarShowFull.label "අයිකන සහ පාඨ පෙන්වන්න">
 <!ENTITY hdrViewToolbarShowFull.accesskey "a">
@@ -89,16 +89,16 @@
 <!ENTITY otherActionsOpenInNewWindow.accesskey "w">
 <!ENTITY otherActionsOpenInNewTab.label "නව ටැබයක විවෘත කරන්න">
 <!ENTITY otherActionsOpenInNewTab.accesskey "t">
-<!ENTITY markAsReadMenuItem.label "කියවූ සේ ලකුණු කරන්න">
-<!ENTITY markAsReadMenuItem.accesskey "r">
-<!ENTITY markAsUnreadMenuItem.label "නොකියවූ සේ ලකුණු කරන්න">
-<!ENTITY markAsUnreadMenuItem.accesskey "r">
+<!ENTITY markAsReadMenuItem1.label "කියවූ සේ ලකුණු කරන්න">
+<!ENTITY markAsReadMenuItem1.accesskey "r">
+<!ENTITY markAsUnreadMenuItem1.label "නොකියවූ සේ ලකුණු කරන්න">
+<!ENTITY markAsUnreadMenuItem1.accesskey "r">
 <!ENTITY saveAsMenuItem.label "සුරකින අයුර…">
 <!ENTITY saveAsMenuItem.accesskey "S">
-<!ENTITY viewSourceMenuItem.label "මූලය පෙන්වන්න…">
-<!ENTITY viewSourceMenuItem.accesskey "V">
-<!ENTITY otherActionsPrint.label "මුද්‍රණය…">
-<!ENTITY otherActionsPrint.accesskey "p">
+<!ENTITY viewSourceMenuItem1.label "මූලය පෙන්වන්න…">
+<!ENTITY viewSourceMenuItem1.accesskey "V">
+<!ENTITY otherActionsPrint1.label "මුද්‍රණය…">
+<!ENTITY otherActionsPrint1.accesskey "p">
 
 <!ENTITY openAttachmentCmd.label    "විවෘත කරන්න">
 <!ENTITY openAttachmentCmd.accesskey		"O">
@@ -126,27 +126,12 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY deleteAttachmentMenuItem.accesskey "e">
-<!ENTITY deleteAllAttachmentsMenuItem.accesskey "e">
-<!ENTITY detachAttachmentMenuItem.accesskey "d">
-<!ENTITY detachAllAttachmentsMenuItem.accesskey "d">
-<!ENTITY openAllAttachmentsMenuItem.label "සියල්ල විවෘත කරන්න…">
-<!ENTITY deleteAllAttachmentsMenuItem.label "සියල්ල මකන්න…">
-<!ENTITY saveAllAttachmentsButton.label "සියල්ල සුරකින්න">
-<!ENTITY deleteAttachmentMenuItem.label "මකන්න">
+
+<!ENTITY saveAllAttachmentsButton1.label "සියල්ල සුරකින්න">
 <!ENTITY saveAttachmentButton.tooltip "ඇමුණුම් ගොනුව සුරකින්න">
-<!ENTITY detachAllAttachmentsMenuItem.label "සියල්ල වෙන් කරන්න…">
-<!ENTITY openAttachmentMenuItem.label "විවෘත කරන්න">
-<!ENTITY saveAsAttachmentMenuItem.accesskey "s">
-<!ENTITY openAllAttachmentsMenuItem.accesskey "o">
 <!ENTITY deleteAttachmentCmd.accesskey "L">
-<!ENTITY saveAllAttachmentsMenuItem.accesskey "s">
-<!ENTITY detachAttachmentMenuItem.label "වෙන් කරන්න…">
 <!ENTITY openAllAttachmentsCmd.label "සියල්ල විවෘත කරන්න…">
 <!ENTITY openAllAttachmentsCmd.accesskey "O">
 <!ENTITY saveAttachmentButton.label "සුරකින්න">
-<!ENTITY saveAsAttachmentMenuItem.label "සුරකින්නේ මෙලෙස…">
 <!ENTITY detachAttachmentCmd.accesskey "T">
-<!ENTITY openAttachmentMenuItem.accesskey "o">
-<!ENTITY saveAllAttachmentsButton.tooltip "ඇමුණුම් ගොනු සියල්ල සුරකින්න">
-<!ENTITY saveAllAttachmentsMenuItem.label "සියල්ල සුරකින්න…">
+<!ENTITY saveAllAttachmentsButton1.tooltip "ඇමුණුම් ගොනු සියල්ල සුරකින්න">

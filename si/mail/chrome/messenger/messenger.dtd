@@ -113,6 +113,8 @@
 <!ENTITY redoDefaultCmd.accesskey "R">
 
 <!-- View Menu -->
+<!ENTITY menubarCmd.label "මෙනු තීරුව">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showMessengerToolbarCmd.label "ලිපි මෙවලම් තීරුව">
 <!ENTITY showMessengerToolbarCmd.accesskey "o">
 <!ENTITY customizeToolbar.label "රිසිකරණය...">
@@ -261,6 +263,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageSourceCmd.label "ලිපියේ මූලය">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.key "u">
+<!ENTITY getNewMessagesCmd.key "y">
+<!ENTITY getAllNewMessagesCmd.key "Y">
 
 <!-- Search Menu -->
 <!ENTITY findMenu.label "සොයන්න">
@@ -472,12 +476,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY backButton1.label "පසුපසට">
 <!ENTITY goForwardButton1.label "ඉදිරියට">
 <!ENTITY deleteButton.label "මකන්න">
+<!ENTITY deleteItem.title "මකන්න">
 <!ENTITY undeleteButton.label "අමකන්න (Undelete)">
 <!ENTITY markButton.label "සළකුණු කරන්න">
 <!ENTITY printButton.label "මුද්‍රණය">
 <!ENTITY stopButton.label "නවතන්න">
 <!ENTITY throbberItem.title "ක්‍රියාකාරීත්ව දර්ශකය">
 <!ENTITY junkButton.label "නිසරු ලිපි">
+<!ENTITY junkItem.title "නිසරු ලිපි">
 <!ENTITY notJunkButton.label "නිසරු සේ නොගැනෙන ලිපි">
 <!ENTITY addressBookButton.label "ලිපින පොත">
 <!ENTITY glodaSearch.title "Global Search">
