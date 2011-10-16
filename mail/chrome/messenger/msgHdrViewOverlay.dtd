@@ -35,13 +35,13 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField2.label "වෙත: ">
+<!ENTITY toField3.label "වෙත: ">
 <!ENTITY fromField3.label "වෙතින්: ">
-<!ENTITY senderField2.label "එවන්නා: ">
-<!ENTITY organizationField2.label "සංවිධානය: ">
-<!ENTITY replyToField2.label "පිළිතුරු මෙයට: ">
+<!ENTITY senderField3.label "එවන්නා: ">
+<!ENTITY organizationField3.label "සංවිධානය: ">
+<!ENTITY replyToField3.label "පිළිතුරු මෙයට: ">
 
-<!ENTITY subjectField.label "විෂයය: ">
+<!ENTITY subjectField3.label "විෂයය: ">
 <!--# LOCALIZATION NOTE (ccField.label): DONT_TRANSLATE -->
 <!ENTITY ccField3.label "පිටපත්: ">
 <!ENTITY bccField3.label "රහස්‍ය පිටපත්: ">
@@ -82,19 +82,19 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "සැමවිටම එවන්නාට පිළිතුර පෙන්වන්න">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "R">
 
-<!ENTITY otherActionsButton.label "වෙනත් ක්‍රියාවන්">
-<!ENTITY otherActionsOpenConversation.label "open in conversation">
-<!ENTITY otherActionsOpenConversation.accesskey "c">
-<!ENTITY otherActionsOpenInNewWindow.label "නව කවුළුවක විවෘත කරන්න">
-<!ENTITY otherActionsOpenInNewWindow.accesskey "w">
-<!ENTITY otherActionsOpenInNewTab.label "නව ටැබයක විවෘත කරන්න">
-<!ENTITY otherActionsOpenInNewTab.accesskey "t">
+<!ENTITY otherActionsButton1.label "වෙනත් ක්‍රියාවන්">
+<!ENTITY otherActionsOpenConversation1.label "open in conversation">
+<!ENTITY otherActionsOpenConversation1.accesskey "c">
+<!ENTITY otherActionsOpenInNewWindow1.label "නව කවුළුවක විවෘත කරන්න">
+<!ENTITY otherActionsOpenInNewWindow1.accesskey "w">
+<!ENTITY otherActionsOpenInNewTab1.label "නව ටැබයක විවෘත කරන්න">
+<!ENTITY otherActionsOpenInNewTab1.accesskey "t">
 <!ENTITY markAsReadMenuItem1.label "කියවූ සේ ලකුණු කරන්න">
 <!ENTITY markAsReadMenuItem1.accesskey "r">
 <!ENTITY markAsUnreadMenuItem1.label "නොකියවූ සේ ලකුණු කරන්න">
 <!ENTITY markAsUnreadMenuItem1.accesskey "r">
-<!ENTITY saveAsMenuItem.label "සුරකින අයුර…">
-<!ENTITY saveAsMenuItem.accesskey "S">
+<!ENTITY saveAsMenuItem1.label "සුරකින අයුර…">
+<!ENTITY saveAsMenuItem1.accesskey "S">
 <!ENTITY viewSourceMenuItem1.label "මූලය පෙන්වන්න…">
 <!ENTITY viewSourceMenuItem1.accesskey "V">
 <!ENTITY otherActionsPrint1.label "මුද්‍රණය…">
@@ -128,10 +128,10 @@ Entities below were automatically added by compare-locales,
 
 
 <!ENTITY saveAllAttachmentsButton1.label "සියල්ල සුරකින්න">
-<!ENTITY saveAttachmentButton.tooltip "ඇමුණුම් ගොනුව සුරකින්න">
+<!ENTITY saveAttachmentButton1.tooltip "ඇමුණුම් ගොනුව සුරකින්න">
 <!ENTITY deleteAttachmentCmd.accesskey "L">
 <!ENTITY openAllAttachmentsCmd.label "සියල්ල විවෘත කරන්න…">
 <!ENTITY openAllAttachmentsCmd.accesskey "O">
-<!ENTITY saveAttachmentButton.label "සුරකින්න">
+<!ENTITY saveAttachmentButton1.label "සුරකින්න">
 <!ENTITY detachAttachmentCmd.accesskey "T">
 <!ENTITY saveAllAttachmentsButton1.tooltip "ඇමුණුම් ගොනු සියල්ල සුරකින්න">
