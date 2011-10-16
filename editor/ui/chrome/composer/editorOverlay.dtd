@@ -210,7 +210,7 @@
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Benannte Anker entfernen">
 <!ENTITY formatRemoveNamedAnchors.accesskey "t">
-<!ENTITY formatRemoveNamedAnchors.key "A">
+<!ENTITY formatRemoveNamedAnchors2.key "R">
 
 <!ENTITY paragraphMenu.label "Absatz">
 <!ENTITY paragraphMenu.accesskey "b">
