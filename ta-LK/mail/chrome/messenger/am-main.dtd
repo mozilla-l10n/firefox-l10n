@@ -11,6 +11,7 @@
 <!ENTITY email.accesskey "E">
 <!ENTITY replyTo.label "முகவரிக்குப் பதில்:">
 <!ENTITY replyTo.accesskey "S">
+<!ENTITY replyTo.placeholder "Recipients will reply to this other address">
 <!ENTITY organization.label "நிறுவனம்:">
 <!ENTITY organization.accesskey "O">
 <!ENTITY signatureText.label "கைபொப்ப உரை:">

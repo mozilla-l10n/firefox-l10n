@@ -68,9 +68,6 @@
 <!ENTITY publishAsCmd.accesskey "h">
 <!ENTITY saveAsChangeEncodingCmd.label "எழுத்து குறிமுறையை சேமித்துவிட்டு மாற்றுக">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "E">
-<!ENTITY closeCmd.label "மூடுக">
-<!ENTITY closeCmd.accesskey "C">
-<!ENTITY closeCmd.key "W">
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "செவ்வையாக்குக">
