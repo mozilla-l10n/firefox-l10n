@@ -10,7 +10,7 @@ Entities below were automatically added by compare-locales,
 <!ENTITY syncGenerateNewKey.label "නව යතුරක් ජනනය කරන්න">
 <!ENTITY serverType.main.label "&syncBrand.fullName.label; සේවාදායකය">
 <!ENTITY engine.prefs.label "මනාපයන්">
-<!ENTITY syncKeyBackup.description "වෙනත් පරිගණකවල &syncBrand.fullName.label; ට ප්‍රවේශ වීමට සම්මුහුර්ත යතුර (Sync Key) අවශ්‍ය වනු ඇත. කරුණාකර රක්ෂිත කොපියක් (backup copy) සාදන්න. සම්මුහුර්ත යතුර (Sync Key) නැවත ලබා ගැනීමට අපට සහායය විය නොහැකිය.">
+<!ENTITY recoveryKeyBackup.description "වෙනත් පරිගණකවල &syncBrand.fullName.label; ට ප්‍රවේශ වීමට ප්‍රතිසාධන යතුර (Recovery Key) අවශ්‍ය වනු ඇත. කරුණාකර රක්ෂිත කොපියක් (backup copy) සාදන්න. ප්‍රතිසාධන යතුර (Recovery Key) නැවත ලබා ගැනීමට අපට සහායය විය නොහැකිය..">
 <!ENTITY syncMy.label "Sync My">
 <!ENTITY button.syncKeyBackup.print.label "මුද්‍රණය…">
 <!ENTITY engine.bookmarks.accesskey "m">
@@ -33,8 +33,6 @@ Entities below were automatically added by compare-locales,
 <!ENTITY server.label "සේවාදායකය">
 <!ENTITY setup.pickSetupType.description "සාදරයෙන් පිළිගනිමු, මීට පෙර කවදාවත් ඔබ &syncBrand.fullName.label; භාවිතා කර නැත්නම්, ඔබට නව ගිණුමක් සාදන්නට සිදුවනු ඇත.">
 <!ENTITY setup.choicePage.new.label "මීට පෙර කිසි දිනෙක &syncBrand.shortName.label; භාවිතා කර නැත">
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; ඔබගේ පෞද්ගලිකත්වය පිළිබඳව සැලකිලිමත් වේ">
-<!ENTITY syncKeyEntry.accesskey "K">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
 <!ENTITY serverType.custom2.label "රිසිකරණ සේවාදායකයක් භාවිතා කරන්න">
 <!ENTITY engine.tabs.accesskey "T">
@@ -62,14 +60,17 @@ Entities below were automatically added by compare-locales,
 <!ENTITY accountSetupTitle.label "&syncBrand.fullName.label; Setup">
 <!ENTITY changeOptions.label "පහත සම්මුහුර්ත විකල්පයන් (Sync Options) තේරීමෙන් ඔබට මෙම මනාපයන් වෙනස් කළ හැකිය.">
 <!ENTITY syncComputerName.label "පරිගණකයේ නම:">
+
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; ඔබගේ පෞද්ගලිකත්වය පිළිබඳව සැලකිලිමත් වේ">
+<!ENTITY setup.newRecoveryKeyPage.description.label "පූර්ණ පෞද්ගලිකත්වය තහවුරු වීමට,ඔබගේ සියළුම දත්ත උඩුගත කිරීමට ප්‍රථම සංකේතනය (encrypt) කරන්න. ඔබගේ දත්ත විසංකේතනය (decrypt) කිරීමට අවශය යතුර උඩුගත නොකරයි.">
 <!ENTITY setup.choicePage.title.label "මීට පෙර &syncBrand.fullName.label; භාවිතා කර තිබේද?">
-<!ENTITY setup.newSyncKeyPage.description.label "පූර්ණ පෞද්ගලිකත්වය තහවුරු වීමට,ඔබගේ සියළුම දත්ත උඩුගත කිරීමට ප්‍රථම සංකේතනය (encrypt) කරන්න. ඔබගේ දත්ත විසංකේතනය (decrypt) කිරීමට අවශය යතුර උඩුගත නොකරයි.">
 <!ENTITY engine.prefs.accesskey "S">
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.tabs.label "ටැබ්">
 <!ENTITY setup.choicePage.existing.label "මම දැනටම වෙනත් පරිගණකයක &syncBrand.shortName.label; භාවිතා කරමින් සිටියි">
 <!ENTITY choice2.server.main.label "මෙම පරිගණකයේ දත්ත මඟින් අනෙකුත් සියළු උපාංග ප්‍රතිස්ථාපනය (replace) කරන්න">
-<!ENTITY syncKeyEntry.label "ඔබගේ සම්මුහුර්ත යතුර (Sync Key)">
+<!ENTITY recoveryKeyEntry.label        "ඔබගේ ප්‍රතිසාධන යතුර (Recovery Key)">
+<!ENTITY recoveryKeyEntry.accesskey    "K">
 <!ENTITY verifying.label "ස්ථීර කරයි…">
 <!ENTITY confirm.client2.label "අවවාදයයි: මෙම පරිගණකයේ ඇති &brandShortName; පහත දත්ත මකනු ඇත:">
 
@@ -83,15 +84,16 @@ Entities below were automatically added by compare-locales,
 <!ENTITY addDevice.dialog.enterCode.label   "උපාංගය සපයන කේතය ඇතුළත් කරන්න:">
 <!ENTITY addDevice.dialog.tryAgain.label    "නැවත උත්සාහ කරන්න.">
 <!ENTITY addDevice.dialog.successful.label  "උපාංගය සාර්ථක ලෙස එක් කළා. ආරම්භක සම්මුහුර්තකරණය සඳහා විනාඩි කිහිපයක් ගන්නා අතර එය පසුබිමිහි සිටිමින් සම්පූර්ණ කරනු ඇත.">
-<!ENTITY addDevice.dialog.syncKey.label     "To activate your device you will need to enter your Sync Key. Please print or save this key and take it with you.">
+<!ENTITY addDevice.dialog.recoveryKey.label     "To activate your device you will need to enter your Recovery Key. Please print or save this key and take it with you.">
+
 <!ENTITY addDevice.dialog.connected.label   "සම්බන්ධිත උපාංග">
 
 <!ENTITY button.connect.label    "සම්බන්ධ වන්න">
 <!ENTITY setup.signInPage.title.label "Sign In">
-<!ENTITY existingSyncKey.description "You can get a copy of your Sync Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Sync Key&#x0022; under &#x0022;Manage Account&#x0022;.">
+<!ENTITY existingRecoveryKey.description "You can get a copy of your Recovery Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Recovery Key&#x0022; under &#x0022;Manage Account&#x0022;.">
 <!ENTITY setup.haveAccount.label "මට දැනටම &syncBrand.fullName.label; ගිණුමක් ඇත.">
-<!ENTITY signIn.syncKey.label       "සම්මුහුර්ත යතුර">
-<!ENTITY signIn.syncKey.accesskey   "K">
+<!ENTITY signIn.recoveryKey.label       "ප්‍රතිසාධන යතුර (Recovery Key)">
+<!ENTITY signIn.recoveryKey.accesskey   "K">
 
 
 <!--

@@ -511,3 +511,5 @@ Entities below were automatically added by compare-locales,
 <!ENTITY webDeveloperMenu.accesskey   "W">
 <!ENTITY backForwardButtonMenu.tooltip "Right-click or pull down to show history">
 <!ENTITY backForwardButtonMenuMac.tooltip "Pull down to show history">
+<!ENTITY inspectContextMenu.label     "Inspect Element">
+<!ENTITY inspectContextMenu.accesskey "Q">
