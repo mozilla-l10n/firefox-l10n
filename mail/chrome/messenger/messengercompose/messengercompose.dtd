@@ -90,6 +90,8 @@
 <!-- View Menu -->
 <!ENTITY viewMenu.label "நோக்கு">
 <!ENTITY viewMenu.accesskey "v">
+<!ENTITY menubarCmd.label "Menu Bar">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY viewToolbarsMenuNew.label "கருவிப்பட்டைகள்">
 <!ENTITY viewToolbarsMenuNew.accesskey "T">
 <!ENTITY showCompositionToolbarCmd.label "அஞ்சல் கருவிப்பட்டை">

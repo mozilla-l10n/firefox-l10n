@@ -35,45 +35,45 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField2.label "to ">
-<!ENTITY fromField2.label "from ">
-<!ENTITY senderField2.label "அனுப்புனர் ">
-<!ENTITY organizationField2.label "நிறுவனம் ">
-<!ENTITY replyToField2.label "reply-to ">
+<!ENTITY toField3.label "to ">
+<!ENTITY fromField3.label "from ">
+<!ENTITY senderField3.label "அனுப்புனர் ">
+<!ENTITY organizationField3.label "நிறுவனம் ">
+<!ENTITY replyToField3.label "reply-to ">
 
 <!ENTITY subjectField2.label "விடயம் ">
 <!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
-<!ENTITY ccField2.label "cc ">
-<!ENTITY bccField2.label "bcc ">
-<!ENTITY newsgroupsField2.label "செய்திகள் குழுமங்கள் ">
-<!ENTITY followupToField2.label "followup-to ">
+<!ENTITY ccField3.label "cc ">
+<!ENTITY bccField3.label "bcc ">
+<!ENTITY newsgroupsField3.label "செய்திகள் குழுமங்கள் ">
+<!ENTITY followupToField3.label "followup-to ">
 <!ENTITY tagsHdr2.label "அடையாள ஒட்டுகள் ">
 <!ENTITY dateField2.label "திகதி ">
-<!ENTITY userAgentField2.label "பயனாளர்-முகவர் ">
-<!ENTITY referencesField2.label "குறிப்புகள்">
-<!ENTITY messageIdField2.label "message-id ">
-<!ENTITY inReplyToField2.label "in-reply-to ">
-<!ENTITY originalWebsite2.label "இணையத்தளம் ">
+<!ENTITY userAgentField3.label "பயனாளர்-முகவர் ">
+<!ENTITY referencesField3.label "குறிப்புகள்">
+<!ENTITY messageIdField3.label "message-id ">
+<!ENTITY inReplyToField3.label "in-reply-to ">
+<!ENTITY originalWebsite3.label "இணையத்தளம் ">
 
 <!ENTITY editMessageDescription.label "இது முதல் வரைவு தகவல்">
 <!ENTITY editMessageButton.label "செவ்வையாக்குக…">
-<!ENTITY hdrReplyButton.label "பதிலனுப்புக">
-<!ENTITY hdrReplyAllButton.label "யாவற்றிற்கும் பதிலனுப்புக">
-<!ENTITY hdrReplyListButton.label "பதிலனுப்புதல் பட்டியல்">
-<!ENTITY hdrForwardButton.label "மீளனுப்புக">
-<!ENTITY hdrJunkButton.label "கூளம்">
+<!ENTITY hdrReplyButton1.label "பதிலனுப்புக">
+<!ENTITY hdrReplyAllButton1.label "யாவற்றிற்கும் பதிலனுப்புக">
+<!ENTITY hdrReplyListButton1.label "பதிலனுப்புதல் பட்டியல்">
+<!ENTITY hdrForwardButton1.label "மீளனுப்புக">
+<!ENTITY hdrJunkButton1.label "கூளம்">
 
-<!ENTITY otherActionsButton.label "ஏனைய செயற்பாடுகள்">
-<!ENTITY otherActionsOpenInNewWindow.label "புதிய சாளரத்தில் திறக்க">
-<!ENTITY otherActionsOpenInNewWindow.accesskey "w">
-<!ENTITY otherActionsOpenInNewTab.label "புதிய தத்தலில் திறக்க">
-<!ENTITY otherActionsOpenInNewTab.accesskey "t">
-<!ENTITY saveAsMenuItem.label "என சேமிக்க…">
-<!ENTITY saveAsMenuItem.accesskey "S">
-<!ENTITY viewSourceMenuItem.label "மூலத்தினை நோக்குக…">
-<!ENTITY viewSourceMenuItem.accesskey "V">
-<!ENTITY otherActionsPrint.label "அச்சிடுக…">
-<!ENTITY otherActionsPrint.accesskey "p">
+<!ENTITY otherActionsButton1.label "ஏனைய செயற்பாடுகள்">
+<!ENTITY otherActionsOpenInNewWindow1.label "புதிய சாளரத்தில் திறக்க">
+<!ENTITY otherActionsOpenInNewWindow1.accesskey "w">
+<!ENTITY otherActionsOpenInNewTab1.label "புதிய தத்தலில் திறக்க">
+<!ENTITY otherActionsOpenInNewTab1.accesskey "t">
+<!ENTITY saveAsMenuItem1.label "என சேமிக்க…">
+<!ENTITY saveAsMenuItem1.accesskey "S">
+<!ENTITY viewSourceMenuItem1.label "மூலத்தினை நோக்குக…">
+<!ENTITY viewSourceMenuItem1.accesskey "V">
+<!ENTITY otherActionsPrint1.label "அச்சிடுக…">
+<!ENTITY otherActionsPrint1.accesskey "p">
 
 <!ENTITY openAttachmentCmd.label    "திறக்க">
 <!ENTITY openAttachmentCmd.accesskey    "O">
@@ -102,49 +102,34 @@ Entities below were automatically added by compare-locales,
 -->
 
 <!ENTITY hdrViewToolbarShowText.accesskey "T">
-<!ENTITY deleteAttachmentMenuItem.accesskey "e">
-<!ENTITY markAsReadMenuItem.accesskey "r">
-<!ENTITY deleteAllAttachmentsMenuItem.accesskey "e">
-<!ENTITY hdrReplyAllButton.tooltip "அனுப்புனருக்கும் மற்றும் எல்லா பெறுனருக்கும் பதிலிடுக">
+<!ENTITY markAsReadMenuItem1.accesskey "r">
+<!ENTITY hdrReplyAllButton1.tooltip "அனுப்புனருக்கும் மற்றும் எல்லா பெறுனருக்கும் பதிலிடுக">
 <!ENTITY hdrViewToolbarShowFull.label "சின்னங்களையும் உரையையும் காட்டுக">
-<!ENTITY detachAllAttachmentsMenuItem.accesskey "d">
-<!ENTITY hdrTrashButton.tooltip "இந்த செய்தியை அழிக்க">
-<!ENTITY openAllAttachmentsMenuItem.label "எல்லாவற்றையும் திறக்க…">
-<!ENTITY deleteAllAttachmentsMenuItem.label "எல்லாவற்றையும் அழிக்க…">
+<!ENTITY hdrTrashButton1.tooltip "இந்த செய்தியை அழிக்க">
 <!ENTITY otherActionsOpenConversation.accesskey "c">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "R">
 <!ENTITY hdrViewToolbarShowText.label "உரையை மட்டும் காட்டுக">
-<!ENTITY deleteAttachmentMenuItem.label "அழிக்க">
-<!ENTITY hdrReplyButton.tooltip "இந்த செய்திக்கு பதிலிடுக">
-<!ENTITY saveAttachmentButton.tooltip "உடனிணைக்கப்பட்ட கோப்பை சேமிக்க">
-<!ENTITY markAsUnreadMenuItem.label "வாசிக்கப்படாததை குறியிடுக">
+<!ENTITY hdrReplyButton1.tooltip "இந்த செய்திக்கு பதிலிடுக">
+<!ENTITY saveAttachmentButton1.tooltip "உடனிணைக்கப்பட்ட கோப்பை சேமிக்க">
+<!ENTITY markAsUnreadMenuItem1.label "வாசிக்கப்படாததை குறியிடுக">
 <!ENTITY detachAttachmentCmd.accesskey "T">
-<!ENTITY saveAllAttachmentsButton.label "எல்லாவற்றையும் சேமிக்க">
-<!ENTITY detachAllAttachmentsMenuItem.label "detach all…">
-<!ENTITY detachAttachmentMenuItem.accesskey "d">
-<!ENTITY markAsUnreadMenuItem.accesskey "r">
-<!ENTITY openAttachmentMenuItem.label "திற்க்க">
-<!ENTITY saveAsAttachmentMenuItem.accesskey "s">
-<!ENTITY openAllAttachmentsMenuItem.accesskey "o">
+<!ENTITY saveAllAttachmentsButton1.label "எல்லாவற்றையும் சேமிக்க">
+<!ENTITY markAsUnreadMenuItem1.accesskey "r">
 <!ENTITY deleteAttachmentCmd.accesskey "L">
 <!ENTITY hdrViewToolbarShowIcons.label "சின்னங்களை மட்டும் காட்டுக">
-<!ENTITY saveAllAttachmentsMenuItem.accesskey "s">
-<!ENTITY detachAttachmentMenuItem.label "detach…">
-<!ENTITY hdrForwardButton.tooltip "இந்த செய்தியை முன்னனுப்புக">
+<!ENTITY hdrForwardButton1.tooltip "இந்த செய்தியை முன்னனுப்புக">
 <!ENTITY openAllAttachmentsCmd.label "எல்லாவற்றையும் திறக்க…">
 <!ENTITY openAllAttachmentsCmd.accesskey "O">
-<!ENTITY saveAttachmentButton.label "சேமிக்க">
-<!ENTITY hdrArchiveButton.tooltip "இந்த செய்தியை ஆவணக்காப்பிடுக">
+<!ENTITY saveAttachmentButton1.label "சேமிக்க">
+<!ENTITY hdrArchiveButton1.tooltip "இந்த செய்தியை ஆவணக்காப்பிடுக">
 <!ENTITY hdrViewToolbarShowIcons.accesskey "I">
 <!ENTITY hdrViewToolbarShowFull.accesskey "a">
 <!ENTITY otherActionsOpenConversation.label "உரையாடலில் திறக்க">
-<!ENTITY markAsReadMenuItem.label "வாசிக்கப்பட்டதாக குறியிடுக">
+<!ENTITY markAsReadMenuItem1.label "வாசிக்கப்பட்டதாக குறியிடுக">
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "எப்போதும் பதிலிடுவதை அனுப்புனருக்கு காட்டுக">
-<!ENTITY saveAsAttachmentMenuItem.label "என சேமி…">
-<!ENTITY hdrJunkButton.tooltip "இந்த செய்தியை கூளம் என குறிப்படுக">
-<!ENTITY hdrReplyListButton.tooltip "அனுப்படுகிற பட்டியலுக்கு பதிலிடுக">
-<!ENTITY hdrTrashButton.label "அழிக்க">
-<!ENTITY hdrArchiveButton.label "ஆவணகாப்பு">
-<!ENTITY openAttachmentMenuItem.accesskey "o">
-<!ENTITY saveAllAttachmentsButton.tooltip "உடனிணைக்கப்பட்ட எல்லா கோப்புகளையும் சேமிக்க">
-<!ENTITY saveAllAttachmentsMenuItem.label "எல்லாவற்றையும் சேமிக்க…">
+<!ENTITY hdrJunkButton1.tooltip "இந்த செய்தியை கூளம் என குறிப்படுக">
+<!ENTITY hdrReplyListButton1.tooltip "அனுப்படுகிற பட்டியலுக்கு பதிலிடுக">
+<!ENTITY hdrSmartReplyButton1.label "Smart Reply">
+<!ENTITY hdrTrashButton1.label "அழிக்க">
+<!ENTITY hdrArchiveButton1.label "ஆவணகாப்பு">
+<!ENTITY saveAllAttachmentsButton1.tooltip "உடனிணைக்கப்பட்ட எல்லா கோப்புகளையும் சேமிக்க">

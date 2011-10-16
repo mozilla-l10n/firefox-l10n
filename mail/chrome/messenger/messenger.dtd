@@ -115,6 +115,8 @@
 <!ENTITY redoDefaultCmd.accesskey "R">
 
 <!-- View Menu -->
+<!ENTITY menubarCmd.label "Menu Bar">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showMessengerToolbarCmd.label "அஞ்சல் கருவிப்பட்டை">
 <!ENTITY showMessengerToolbarCmd.accesskey "o">
 <!ENTITY customizeToolbar.label "தனிப்பயனாக்குக…">
@@ -163,6 +165,7 @@
 <!ENTITY sortByTagsCmd.accesskey "g">
 <!ENTITY sortByJunkStatusCmd.label "௯ள நிலை">
 <!ENTITY sortByJunkStatusCmd.accesskey "J">
+<!ENTITY junkItem.title "Junk">
 <!ENTITY sortBySubjectCmd.label "விடயம்">
 <!ENTITY sortBySubjectCmd.accesskey "b">
 <!ENTITY sortByFromCmd.label "இருந்து">
@@ -217,6 +220,8 @@
 <!ENTITY bodySanitized.accesskey "S">
 <!ENTITY bodyAsPlaintext.label "தனி உரை">
 <!ENTITY bodyAsPlaintext.accesskey "P">
+<!ENTITY bodyAllParts.label "All Body Parts">
+<!ENTITY bodyAllParts.accesskey "A">
 
 <!ENTITY bodyMenuFeed.label "செய்தியின் உடலை இவ்வாறு ஊட்டக">
 <!ENTITY bodyMenuFeed.accesskey "B">
@@ -268,6 +273,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findCmd.accesskey "F">
 <!ENTITY findCmd.key "f">
 <!ENTITY findAgainCmd.label "மீண்டும் கண்டுபிடி">
+
 <!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.key "g">
 <!ENTITY findAgainCmd.key2 "VK_F3">
@@ -462,6 +468,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goForwardButton1.label "முன்னோக்குக">
 <!ENTITY deleteButton.label "நீக்குக">
 <!ENTITY undeleteButton.label "நீக்காத">
+<!ENTITY deleteItem.title "Delete">
 <!ENTITY markButton.label "குறியிடுக">
 <!ENTITY printButton.label "அச்சிடுக">
 <!ENTITY stopButton.label "நிறுத்துக">
@@ -561,6 +568,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "பெயர் அல்லது மின்னஞ்சல் கொண்டிருக்கிறது:">
 <!ENTITY SearchNameOrEmail.accesskey "N">
+<!ENTITY getNewMessagesCmd.key "y">
+<!ENTITY getAllNewMessagesCmd.key "Y">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "விடயம்">
@@ -627,6 +636,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextReplySender.accesskey "R">
 <!ENTITY contextReplyNewsgroup.label "செய்தித்தொகுதியிற்கு பதிலிடுக">
 <!ENTITY contextReplyNewsgroup.accesskey "y">
+
 <!ENTITY contextReplyAll.label "அனைவருக்கும் பதிலிடுக">
 <!ENTITY contextReplyAll.accesskey "A">
 <!ENTITY contextReplyList.label "பட்டியலுக்கு பதிலிடுக">
