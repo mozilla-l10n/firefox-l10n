@@ -6,6 +6,9 @@
 
 <!-- General Settings -->
 
+<!ENTITY submitTelemetry.label         "Treuzkas roadennoù a-fet digonusted">
+<!ENTITY submitTelemetry.accesskey     "T">
+<!ENTITY telemetryInfoLink.label       "Muioc'h a ditouroù a-zivout Telemetry">
 <!ENTITY enableGlodaSearch.label       "Gweredekaat ar c'hlask hag an ibiliañ hollek">
 <!ENTITY enableGlodaSearch.accesskey   "h">
 <!ENTITY systemIntegration.label       "Enframmadur reizhiad">

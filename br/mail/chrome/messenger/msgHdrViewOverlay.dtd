@@ -35,43 +35,42 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField2.label "da ">
-<!ENTITY fromField2.label "a-berzh ">
-<!ENTITY senderField2.label "kaser ">
-<!ENTITY organizationField2.label "aozadur ">
-<!ENTITY replyToField2.label "respont-da ">
+<!ENTITY toField3.label "Da ">
+<!ENTITY fromField3.label "A-berzh ">
+<!ENTITY senderField3.label "Kaser ">
+<!ENTITY organizationField3.label "Aozadur ">
+<!ENTITY replyToField3.label "Respont da ">
 
-<!ENTITY subjectField2.label "danvez ">
-<!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
-<!ENTITY ccField2.label "cc ">
-<!ENTITY bccField2.label "bcc ">
-<!ENTITY newsgroupsField2.label "strolladoù-keleier ">
-<!ENTITY followupToField2.label "kas en-dro da ">
-<!ENTITY tagsHdr2.label "merkoù ">
-<!ENTITY dateField2.label "deiziad ">
-<!ENTITY userAgentField2.label "arveriad-gwezhiad ">
-<!ENTITY referencesField2.label "menegoù ">
-<!ENTITY messageIdField2.label "id-kemennadenn ">
-<!ENTITY inReplyToField2.label "e-respont-da ">
-<!ENTITY originalWebsite2.label "lec'hienn ">
+<!ENTITY subjectField3.label "Danvez ">
+<!ENTITY ccField3.label "Cc ">
+<!ENTITY bccField3.label "Bcc ">
+<!ENTITY newsgroupsField3.label "Strolladoù-keleier ">
+<!ENTITY followupToField3.label "Kas en-dro da ">
+<!ENTITY tagsHdr3.label "Merkoù ">
+<!ENTITY dateField3.label "Deiziad ">
+<!ENTITY userAgentField3.label "Gwezhiad arveriad ">
+<!ENTITY referencesField3.label "Menegoù ">
+<!ENTITY messageIdField3.label "Naoudi ar gemennadenn ">
+<!ENTITY inReplyToField3.label "E-respont-da ">
+<!ENTITY originalWebsite3.label "Lec'hienn ">
 
 <!ENTITY editMessageDescription.label "Ar gemennadenn-mañ zo ur brouilhed">
 <!ENTITY editMessageButton.label "Embann…">
-<!ENTITY hdrArchiveButton.label "diellaouiñ">
-<!ENTITY hdrArchiveButton.tooltip "diellaouiñ ar gemennadenn-mañ">
-<!ENTITY hdrSmartReplyButton.label "respont speredek">
-<!ENTITY hdrReplyButton.label "respont">
-<!ENTITY hdrReplyButton.tooltip "respont d'ar gemennadenn-mañ">
-<!ENTITY hdrReplyAllButton.label "respont d'an holl">
-<!ENTITY hdrReplyAllButton.tooltip "respont d'ar c'haser ha d'an holl zegemerien">
-<!ENTITY hdrReplyListButton.label "respont d'ar roll">
-<!ENTITY hdrReplyListButton.tooltip "respont d'ar roll skignañ">
-<!ENTITY hdrForwardButton.label "lakaat da dremen">
-<!ENTITY hdrForwardButton.tooltip "lakaat da dremen ar gemennadenn-mañ">
-<!ENTITY hdrJunkButton.label "lastez">
-<!ENTITY hdrJunkButton.tooltip "merkañ ar gemennadenn-mañ evel lastez">
-<!ENTITY hdrTrashButton.label "dilemel">
-<!ENTITY hdrTrashButton.tooltip "dilemel ar gemennadenn-mañ">
+<!ENTITY hdrArchiveButton1.label "Diellaouiñ">
+<!ENTITY hdrArchiveButton1.tooltip "Diellaouiñ ar gemennadenn-mañ">
+<!ENTITY hdrSmartReplyButton1.label "Respont speredek">
+<!ENTITY hdrReplyButton1.label "Respont">
+<!ENTITY hdrReplyButton1.tooltip "Respont d'ar gemennadenn-mañ">
+<!ENTITY hdrReplyAllButton1.label "Respont d'an holl">
+<!ENTITY hdrReplyAllButton1.tooltip "Respont d'ar c'haser ha d'an holl zegemerien">
+<!ENTITY hdrReplyListButton1.label "Respont d'ar roll">
+<!ENTITY hdrReplyListButton1.tooltip "Respont d'ar roll skignañ">
+<!ENTITY hdrForwardButton1.label "Lakaat da dremen">
+<!ENTITY hdrForwardButton1.tooltip "Lakaat da dremen ar gemennadenn-mañ">
+<!ENTITY hdrJunkButton1.label "Lastez">
+<!ENTITY hdrJunkButton1.tooltip "Merkañ ar gemennadenn-mañ evel lastez">
+<!ENTITY hdrTrashButton1.label "Dilemel">
+<!ENTITY hdrTrashButton1.tooltip "Dilemel ar gemennadenn-mañ">
 
 <!ENTITY hdrViewToolbarShowFull.label "Diskwel an arlunioù hag an destenn">
 <!ENTITY hdrViewToolbarShowFull.accesskey "D">
@@ -82,23 +81,23 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Diskwel atav Respont d'ar c'haser">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "R">
 
-<!ENTITY otherActionsButton.label "gwezhioù all">
-<!ENTITY otherActionsOpenConversation.label "digeriñ e-barzh ar gaozeadenn">
-<!ENTITY otherActionsOpenConversation.accesskey "d">
-<!ENTITY otherActionsOpenInNewWindow.label "digeriñ e-barzh ur prenestr nevez">
-<!ENTITY otherActionsOpenInNewWindow.accesskey "p">
-<!ENTITY otherActionsOpenInNewTab.label "digeriñ e-barzh un ivinell nevez">
-<!ENTITY otherActionsOpenInNewTab.accesskey "i">
-<!ENTITY markAsReadMenuItem.label "merkañ evel Lennet">
-<!ENTITY markAsReadMenuItem.accesskey "r">
-<!ENTITY markAsUnreadMenuItem.label "merkañ evel Ket lennet">
-<!ENTITY markAsUnreadMenuItem.accesskey "r">
-<!ENTITY saveAsMenuItem.label "enrollañ evel…">
-<!ENTITY saveAsMenuItem.accesskey "e">
-<!ENTITY viewSourceMenuItem.label "gwelout an tarzh">
-<!ENTITY viewSourceMenuItem.accesskey "w">
-<!ENTITY otherActionsPrint.label "moullañ…">
-<!ENTITY otherActionsPrint.accesskey "m">
+<!ENTITY otherActionsButton1.label "Gwezhioù all">
+<!ENTITY otherActionsOpenConversation1.label "Digeriñ e-barzh ar gaozeadenn">
+<!ENTITY otherActionsOpenConversation1.accesskey "D">
+<!ENTITY otherActionsOpenInNewWindow1.label "Digeriñ e-barzh ur prenestr nevez">
+<!ENTITY otherActionsOpenInNewWindow1.accesskey "D">
+<!ENTITY otherActionsOpenInNewTab1.label "Digeriñ e-barzh un ivinell nevez">
+<!ENTITY otherActionsOpenInNewTab1.accesskey "D">
+<!ENTITY markAsReadMenuItem1.label "Merkañ evel Lennet">
+<!ENTITY markAsReadMenuItem1.accesskey "r">
+<!ENTITY markAsUnreadMenuItem1.label "Merkañ evel Ket lennet">
+<!ENTITY markAsUnreadMenuItem1.accesskey "r">
+<!ENTITY saveAsMenuItem1.label "Enrollañ evel…">
+<!ENTITY saveAsMenuItem1.accesskey "E">
+<!ENTITY viewSourceMenuItem1.label "Gwelout an tarzh">
+<!ENTITY viewSourceMenuItem1.accesskey "G">
+<!ENTITY otherActionsPrint1.label "Moullañ…">
+<!ENTITY otherActionsPrint1.accesskey "M">
 
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Digeriñ">
@@ -119,26 +118,10 @@
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "m">
 
 <!-- Attachment toolbar items -->
-<!ENTITY saveAttachmentButton.label       "enrollañ">
-<!ENTITY saveAttachmentButton.tooltip     "enrollañ ar c'henstagadur">
-<!ENTITY saveAllAttachmentsButton.label   "enrollañ pep tra">
-<!ENTITY saveAllAttachmentsButton.tooltip "enrollañ an holl genstagadurioù">
-<!ENTITY openAttachmentMenuItem.label     "digeriñ">
-<!ENTITY openAttachmentMenuItem.accesskey    "d">
-<!ENTITY saveAsAttachmentMenuItem.label    "enrollañ evel…">
-<!ENTITY saveAsAttachmentMenuItem.accesskey    "e">
-<!ENTITY detachAttachmentMenuItem.label    "distagañ…">
-<!ENTITY detachAttachmentMenuItem.accesskey    "t">
-<!ENTITY deleteAttachmentMenuItem.label    "dilemel">
-<!ENTITY deleteAttachmentMenuItem.accesskey    "i">
-<!ENTITY openAllAttachmentsMenuItem.label    "digeriñ pep tra…">
-<!ENTITY openAllAttachmentsMenuItem.accesskey    "g">
-<!ENTITY saveAllAttachmentsMenuItem.label    "enrollañ pep tra…">
-<!ENTITY saveAllAttachmentsMenuItem.accesskey    "r">
-<!ENTITY detachAllAttachmentsMenuItem.label    "distagañ pep tra…">
-<!ENTITY detachAllAttachmentsMenuItem.accesskey    "a">
-<!ENTITY deleteAllAttachmentsMenuItem.label    "dilemel pep tra…">
-<!ENTITY deleteAllAttachmentsMenuItem.accesskey    "d">
+<!ENTITY saveAttachmentButton1.label       "Enrollañ">
+<!ENTITY saveAttachmentButton1.tooltip     "Enrollañ ar restr stag">
+<!ENTITY saveAllAttachmentsButton1.label   "Enrollañ pep tra">
+<!ENTITY saveAllAttachmentsButton1.tooltip "Enrollañ an holl restroù stag">
 
 <!ENTITY copyLinkCmd.label        "Eilañ lec'hiadur an ere">
 <!ENTITY copyLinkCmd.accesskey    "c">

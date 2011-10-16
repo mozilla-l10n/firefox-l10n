@@ -19,8 +19,8 @@
 <!ENTITY signIn.account2.accesskey  "K">
 <!ENTITY signIn.password.label      "Ger-tremen">
 <!ENTITY signIn.password.accesskey  "G">
-<!ENTITY signIn.syncKey.label       "Alc'hwez goubredañ">
-<!ENTITY signIn.syncKey.accesskey   "A">
+<!ENTITY signIn.recoveryKey.label       "Alc'hwez atoriñ">
+<!ENTITY signIn.recoveryKey.accesskey   "A">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Munudoù ar gont">
@@ -41,12 +41,12 @@
 <!ENTITY setup.tosAgree2.accesskey  "a">
 
 <!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; a daol evezh ouzh ho puhez prevez">
-<!ENTITY setup.newSyncKeyPage.description.label "A-benn gwareziñ ho puhez prevez e vo enrineget ho roadennoù holl kent bezañ kaset. Ne vo ket kaset an alc'hwez goubredañ ret a-benn ezrinegañ.">
-<!ENTITY syncKeyEntry.label        "Hoc'h alc'hwez goubredañ">
-<!ENTITY syncKeyEntry.accesskey    "H">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; a daol evezh ouzh ho puhez prevez">
+<!ENTITY setup.newRecoveryKeyPage.description.label "A-benn gwareziñ ho puhez prevez e vo enrineget ho roadennoù holl kent bezañ kaset. Ne vo ket kaset an alc'hwez atoriñ ret a-benn ezrinegañ.">
+<!ENTITY recoveryKeyEntry.label        "Hoc'h alc'hwez atoriñ">
+<!ENTITY recoveryKeyEntry.accesskey    "H">
 <!ENTITY syncGenerateNewKey.label  "Genel un alc'hwez nevez">
-<!ENTITY syncKeyBackup.description "Ezhomm ez eus hoc'h alc'hwez enrinegañ a-benn tizhout &syncBrand.fullName.label; war urzhiataerioù all. Mar plij, savit un eilad gwarediñ. N'hallimp ket reiñ skoazell deoc'h a-benn adtapout hoc'h alc'hwez goubredañ.">
+<!ENTITY recoveryKeyBackup.description "Ezhomm ez eus hoc'h alc'hwez atoriñ a-benn tizhout &syncBrand.fullName.label; war urzhiataerioù all. Mar plij, savit un eilad gwarediñ. N'hallimp ket reiñ skoazell deoc'h a-benn adtapout hoc'h alc'hwez atoriñ.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Moullañ…">
 <!ENTITY button.syncKeyBackup.print.accesskey "M">
@@ -65,12 +65,12 @@
 <!ENTITY addDevice.dialog.enterCode.label   "Biziata ar rineg pourchaset gant an trevnad :">
 <!ENTITY addDevice.dialog.tryAgain.label    "Mar plij, klaskit en-dro.">
 <!ENTITY addDevice.dialog.successful.label  "Ouzhpennet eo bet an trevnad gant berzh. Ar goubredañ kentañ a c'hell padout meur a vunutenn hag echuet e vo en drekleur.">
-<!ENTITY addDevice.dialog.syncKey.label     "A-benn gweredekaat ho trevnad ho po ezhomm hoc'h alc'hwez goubredañ. Mar plij, moullit pe enrollit an alc'hwez-mañ ha tapit eñ ganeoc'h.">
+<!ENTITY addDevice.dialog.recoveryKey.label     "A-benn gweredekaat ho trevnad ho po ezhomm hoc'h alc'hwez atoriñ. Mar plij, moullit pe enrollit an alc'hwez-mañ ha tapit eñ ganeoc'h.">
 <!ENTITY addDevice.dialog.connected.label   "Trevnad kennasket outi">
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "En em gennaskañ">
-<!ENTITY existingSyncKey.description "Tapet e vez un eilad eus hoc'h alc'hwez goubredañ en ur vont betek Dibarzhioù &syncBrand.shortName.label; gant ho trevnad hag en ur ziuzañ &#x0022;Ma alc'hwez goubredañ&#x0022; dindan &#x0022;Ardeiñ ar gont&#x0022;.">
+<!ENTITY existingRecoveryKey.description "Tapet e vez un eilad eus hoc'h alc'hwez atoriñ en ur vont betek Dibarzhioù &syncBrand.shortName.label; gant ho trevnad hag en ur ziuzañ &#x0022;Ma alc'hwez atoriñ&#x0022; dindan &#x0022;Ardeiñ ar gont&#x0022;.">
 <!ENTITY verifying.label              "O wiriañ…">
 <!ENTITY resetPassword.label          "Adderaouekaat ar ger-tremen">
 <!ENTITY resetSyncKey.label           "Kollet em eus ma zrevnad all.">

@@ -68,11 +68,6 @@
 <!ENTITY publishAsCmd.accesskey "B">
 <!ENTITY saveAsChangeEncodingCmd.label "Enrollañ ha kemmañ bonegañ an arouezioù">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "E">
-<!ENTITY printSetupCmd.label "Pajennaozañ…">
-<!ENTITY printSetupCmd.accesskey "n">
-<!ENTITY printCmd.label "Moullañ…">
-<!ENTITY printCmd.accesskey "M">
-<!ENTITY printCmd.key "P">
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "Embann">

@@ -11,6 +11,7 @@
 <!ENTITY email.accesskey "e">
 <!ENTITY replyTo.label "Postel Respont-da :">
 <!ENTITY replyTo.accesskey "s">
+<!ENTITY replyTo.placeholder "An degemererien a responto d'ar chomlec'h all-mañ">
 <!ENTITY organization.label "Aozadur :">
 <!ENTITY organization.accesskey "o">
 <!ENTITY signatureText.label "Sinadur testenn:">

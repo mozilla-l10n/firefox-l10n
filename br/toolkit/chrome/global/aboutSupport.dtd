@@ -20,6 +20,7 @@
 <!ENTITY aboutSupport.appBasicsBuildConfig "Kefluniad kempunadur">
 <!ENTITY aboutSupport.appBasicsUserAgent "Gwazour arveriad">
 <!ENTITY aboutSupport.appBasicsCrashIDs "Danevelloù sac'hadenn">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Arver ar vemor">
 
 <!ENTITY aboutSupport.show.label "Digeriñ teuliad an arload">
 

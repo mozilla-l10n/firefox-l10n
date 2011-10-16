@@ -5,9 +5,9 @@
 
 <!-- Entities for Account Type page -->
 
-<!ENTITY accountSetupInfo.label "Ret eo deoc'h krouiñ ha kefluniañ kontoù posteloù ha kontoù strolladoù-keleier evit bezañ gouest da gas ha da resev kemennadennoù.">
+<!ENTITY accountSetupInfo2.label "Ret eo deoc'h krouiñ ur gont evit degemer kemennadennoù.">
 <!ENTITY accountTypeTitle.label "Aozañ kontoù nevez">
-<!ENTITY accountTypeDesc.label "Dastum a ra an arload-mañ titouroù evit sevel hag aozañ ur gont bostel pe ur gont strolladoù-keleier. Ma n'anavezit ket an titouroù-mañ, kit e darempred gant ho merer-reizhiad pe gant ho pourchaser Internet.">
+<!ENTITY accountTypeDesc2.label "Dastum a raio ar skoazeller-mañ an titouroù ret evit kefluniañ ur gont. Ma n'anavezit ket an titouroù azgoulennet, kit e darempred gant hoc'h ardead reizhiad pe ho pourchaser Internet.">
 <!ENTITY accountTypeDirections.label "Diuzit peseurt kont a fell deoc'h aozañ :">
 <!ENTITY accountTypeMail.label "Kont ar posteloù">
 <!ENTITY accountTypeMail.accesskey "p">

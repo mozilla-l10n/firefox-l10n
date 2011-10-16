@@ -92,6 +92,8 @@
 <!ENTITY viewMenu.accesskey "w">
 <!ENTITY viewToolbarsMenuNew.label "Barrennoù ostilhoù"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "B"> 
+<!ENTITY menubarCmd.label "Barrenn lañser">
+<!ENTITY menubarCmd.accesskey "B">
 <!ENTITY showCompositionToolbarCmd.label "Barrenn ostilhoù ar posteloù">
 <!ENTITY showCompositionToolbarCmd.accesskey "B">
 <!ENTITY showFormattingBarCmd.label "Barrenn ostilhoù mentrezhañ">

@@ -13,8 +13,8 @@
 <!ENTITY useCurrentPage.label      "Arverañ ar bajenn vremanel">
 <!ENTITY useCurrentPage.accesskey  "A">
 <!ENTITY useMultiple.label         "Arverañ ar pajennoù bremanel">
-<!ENTITY useBookmark.label         "Arverañ ar sinedoù">
-<!ENTITY useBookmark.accesskey     "r">
+<!ENTITY chooseBookmark.label      "Arverañ ar sinedoù…">
+<!ENTITY chooseBookmark.accesskey  "A">
 <!ENTITY restoreDefault.label      "Adlakaat an arventennoù dre ziouer">
 <!ENTITY restoreDefault.accesskey  "l">
 

@@ -101,6 +101,9 @@
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "Diskouez ar riblenn tro dro d'ar skeudenn ereet">
 <!ENTITY showImageLinkBorder.accessKey "B">
+<!ENTITY LinkAdvancedEditButton.label "Embann kempleshoc'h an ere…">
+<!ENTITY LinkAdvancedEditButton.accessKey "E">
+<!ENTITY LinkAdvancedEditButton.tooltip "Ouzhpennañ pe zaskemmañ an doareennoù mod HTML, an doareennoù stil ha JavaScript">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "Furmskrid">

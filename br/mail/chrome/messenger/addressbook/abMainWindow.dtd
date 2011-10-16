@@ -79,6 +79,8 @@
 <!ENTITY viewMenu.accesskey                             "w">
 <!ENTITY viewToolbarsMenu.label                         "Barrennoù ostilhoù">
 <!ENTITY viewToolbarsMenu.accesskey                     "B"> 
+<!ENTITY menubarCmd.label                               "Barrenn lañser">
+<!ENTITY menubarCmd.accesskey                           "B">
 <!ENTITY showAbToolbarCmd.label                         "Barrenn ostilhoù ar c'harned posteloù">
 <!ENTITY showAbToolbarCmd.accesskey                     "o">
 <!ENTITY showTaskbarCmd.label                           "Barrenn stad">

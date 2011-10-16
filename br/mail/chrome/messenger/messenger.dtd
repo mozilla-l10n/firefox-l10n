@@ -119,6 +119,8 @@
 <!ENTITY redoDefaultCmd.accesskey "r">
 
 <!-- View Menu -->
+<!ENTITY menubarCmd.label "Barrenn lañser">
+<!ENTITY menubarCmd.accesskey "B">
 <!ENTITY showMessengerToolbarCmd.label "Barrenn ostilhoù posteloù">
 <!ENTITY showMessengerToolbarCmd.accesskey "o">
 <!ENTITY customizeToolbar.label "Personelaat…">
@@ -269,6 +271,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageSourceCmd.label "Tarzh ar gemennadenn">
 <!ENTITY pageSourceCmd.accesskey "T">
 <!ENTITY pageSourceCmd.key "u">
+<!ENTITY getNewMessagesCmd.key "y">
+<!ENTITY getAllNewMessagesCmd.key "o">
 
 <!-- Search Menu -->
 <!ENTITY findMenu.label "Kavout">
@@ -498,12 +502,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY previousButton.label "Kent">
 <!ENTITY backButton1.label "Kent">
 <!ENTITY goForwardButton1.label "Lakaat da dremen">
+<!ENTITY deleteItem.title "Dilemel">
 <!ENTITY deleteButton.label "Dilemel">
 <!ENTITY undeleteButton.label "Dizilemel">
 <!ENTITY markButton.label "Merk">
 <!ENTITY printButton.label "Moullañ">
 <!ENTITY stopButton.label "Paouez">
 <!ENTITY throbberItem.title "Meneger oberiantiz">
+<!ENTITY junkItem.title "Lastez">
 <!ENTITY junkButton.label "Lastez">
 <!ENTITY notJunkButton.label "Prizius">
 <!ENTITY addressBookButton.label "Chomlec'hioù">
