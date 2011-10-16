@@ -37,12 +37,12 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY advancedJSDialog.title         "Avancerade JavaScript-funktioner">
-<!ENTITY window.width                   "37em">
+<!ENTITY window.width                   "42em">
 
 <!ENTITY allowScripts.label             "Tillåt skript att:">
 
-<!ENTITY moveResizeWindows.label        "Flytta eller ändra storlek på fönster">
-<!ENTITY moveResizeWindows.accesskey    "F">
+<!ENTITY moveResizePopupWindows.label     "Flytta eller ändra storlek på popupfönster">
+<!ENTITY moveResizePopupWindows.accesskey "F">
 <!ENTITY raiseLowerWindows.label        "Höja eller sänka fönster">
 <!ENTITY raiseLowerWindows.accesskey    "e">
 <!ENTITY disableContextMenus.label      "Blockera eller ersätta snabbmenyer">
