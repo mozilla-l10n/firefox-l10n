@@ -5,7 +5,9 @@
 <!ENTITY itemCertificates.label "சான்றிதழ்கள்">
 
 <!-- General Settings -->
-
+<!ENTITY submitTelemetry.label         "Submit Performance Data">
+<!ENTITY submitTelemetry.accesskey     "P">
+<!ENTITY telemetryInfoLink.label       "More information about Telemetry">
 <!ENTITY enableGlodaSearch.label       "Indexer மற்றும் அகிலத் தேடலை இயலுமைப்படுத்துக">
 <!ENTITY enableGlodaSearch.accesskey   "E">
 <!ENTITY systemIntegration.label       "அமைப்பு ஒருங்கிணைப்பு">
