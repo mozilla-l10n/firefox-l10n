@@ -1,5 +1,4 @@
 
-
 <!--
 Entities below were automatically added by compare-locales,
  based on en-US entities.
@@ -23,7 +22,7 @@ Entities below were automatically added by compare-locales,
 <!ENTITY setupButton.label "&syncBrand.fullName.label; සකසන්න">
 <!ENTITY manageAccount.accesskey "A">
 <!ENTITY viewQuota.label "කොටා (Quota) පෙන්වන්න">
-<!ENTITY mySyncKey.label "මගේ සම්මුහුරත යතුර (Sync Key)">
+<!ENTITY myRecoveryKey.label	"මගේ ප්‍රතිසාධන යතුර (Recovery Key)">
 <!ENTITY engine.passwords.label "රහස්පද">
 <!ENTITY engine.prefs.label "මනාපයන්">
 <!ENTITY weaveDesc.label "ඔබගේ සියළු උපාංග තුළ පෙරදෑ, පිටුසළකුණු, රහස්පද, සහ විවෘත කළ ටැබ් වෙත ප්‍රවේශ වීමට &syncBrand.fullName.label; lඉඩ ලබා දේ.">

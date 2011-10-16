@@ -8,8 +8,8 @@
 <!ENTITY useCurrentPage.label      "දැන් පවතින පිටුව">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "දැන් පවතින පිටුව">
-<!ENTITY useBookmark.label         "පිටු සලකුණු">
-<!ENTITY useBookmark.accesskey     "B">
+<!ENTITY chooseBookmark.label      "පිටු සලකුණු භාවිතා කරන්න…">
+<!ENTITY chooseBookmark.accesskey  "B">
 <!ENTITY restoreDefault.label      "පෙරනිමිය">
 <!ENTITY restoreDefault.accesskey  "R">
 <!ENTITY restoreOnDemand.label     "Don’t load tabs until selected">
