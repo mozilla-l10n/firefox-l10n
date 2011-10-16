@@ -191,7 +191,7 @@
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Удалить якори с именами">
 <!ENTITY formatRemoveNamedAnchors.accesskey "д">
-<!ENTITY formatRemoveNamedAnchors.key "A">
+<!ENTITY formatRemoveNamedAnchors2.key "R">
 <!ENTITY paragraphMenu.label "Абзац">
 <!ENTITY paragraphMenu.accesskey "б">
 <!ENTITY paragraphParagraphCmd.label "Абзац">
