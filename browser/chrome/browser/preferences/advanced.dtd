@@ -38,22 +38,22 @@
 <!ENTITY overrideSmartCacheSize.label "Non utilizzare la gestione automatica della cache">
 <!ENTITY overrideSmartCacheSize.accesskey "N">
 <!ENTITY updateTab.label "Aggiornamenti">
-<!ENTITY autoCheck.label "Controlla automaticamente la presenza di aggiornamenti per:">
-<!ENTITY enableAppUpdate.label "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey "F">
-<!ENTITY enableAddonsUpdate2.label "Componenti aggiuntivi">
-<!ENTITY enableAddonsUpdate2.accesskey "C">
-<!ENTITY enableSearchUpdate.label "Motori di ricerca">
-<!ENTITY enableSearchUpdate.accesskey "M">
-<!ENTITY whenUpdatesFound.label "Quando viene trovato un aggiornamento per &brandShortName;:">
-<!ENTITY askMe.label "Chiedi ogni volta che cosa fare">
-<!ENTITY askMe.accesskey "h">
-<!ENTITY modeAutomatic.label "Scarica e installa automaticamente l'aggiornamento">
-<!ENTITY modeAutomatic.accesskey "S">
-<!ENTITY modeAutoAddonWarn.label "Avvisa se verranno disattivati dei componenti aggiuntivi">
-<!ENTITY modeAutoAddonWarn.accesskey "A">
+<!ENTITY updateApp.label "Aggiornamenti di &brandShortName;:">
+<!ENTITY updateAuto.label "Installa automaticamente gli aggiornamenti (consigliato: maggiore sicurezza)">
+<!ENTITY updateAuto.accesskey "s">
+<!ENTITY updateCheck.label "Cerca aggiornamenti ma permetti all'utente di scegliere se installarli">
+<!ENTITY updateCheck.accesskey "e">
+<!ENTITY updateManual.label "Non cercare aggiornamenti (non consigliato: rischi per la sicurezza)">
+<!ENTITY updateManual.accesskey "N">
+<!ENTITY updateAutoAddonWarn.label "Avvisa se verranno disattivati dei componenti aggiuntivi">
+<!ENTITY updateAutoAddonWarn.accesskey "A">
 <!ENTITY updateHistory.label "Mostra cronologia aggiornamenti">
 <!ENTITY updateHistory.accesskey "o">
+<!ENTITY updateOthers.label "Aggiorna automaticamente:">
+<!ENTITY enableAddonsUpdate3.label "Componenti aggiuntivi">
+<!ENTITY enableAddonsUpdate3.accesskey "C">
+<!ENTITY enableSearchUpdate.label "Motori di ricerca">
+<!ENTITY enableSearchUpdate.accesskey "M">
 <!ENTITY offlineNotify.label "Avvisa quando un sito web richiede di salvare dati per l'utilizzo non in linea">
 <!ENTITY offlineNotify.accesskey "A">
 <!ENTITY offlineNotifyExceptions.label "Eccezioni…">
