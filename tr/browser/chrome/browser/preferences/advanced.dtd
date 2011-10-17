@@ -59,22 +59,25 @@
 
 <!ENTITY updateTab.label "Güncelleme">
 
-<!ENTITY autoCheck.label "Bunların güncellemelerine kendiliğinden bak:">
-<!ENTITY enableAppUpdate.label "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey "e">
-<!ENTITY enableAddonsUpdate2.label "Eklentiler">
-<!ENTITY enableAddonsUpdate2.accesskey "E">
-<!ENTITY enableSearchUpdate.label "Search Engines">
-<!ENTITY enableSearchUpdate.accesskey "E">
-<!ENTITY whenUpdatesFound.label "&brandShortName; için güncelleme bulunursa:">
-<!ENTITY askMe.label "Ne yapmak istediğimi sor">
-<!ENTITY askMe.accesskey "s">
-<!ENTITY modeAutomatic.label "Güncellemeleri kendiliğinden indir ve kur">
-<!ENTITY modeAutomatic.accesskey "d">
-<!ENTITY modeAutoAddonWarn.label "Bu işlem kurulu eklentilerimden herhangi birini devre dışı bırakacaksa beni uyar">
-<!ENTITY modeAutoAddonWarn.accesskey "u">
+<!ENTITY updateApp.label "&brandShortName; updates:">
+<!ENTITY updateAuto.label "Automatically install updates (recommended: improved security)">
+<!ENTITY updateAuto.accesskey "A">
+<!ENTITY updateCheck.label "Check for updates, but let me choose whether to install them">
+<!ENTITY updateCheck.accesskey "C">
+<!ENTITY updateManual.label "Never check for updates (not recommended: security risk)">
+<!ENTITY updateManual.accesskey "N">
+
+<!ENTITY updateAutoAddonWarn.label "Bu işlem kurulu eklentilerimden herhangi birini devre dışı bırakacaksa beni uyar">
+<!ENTITY updateAutoAddonWarn.accesskey "u">
+
 <!ENTITY updateHistory.label "Güncelleme geçmişini göster">
 <!ENTITY updateHistory.accesskey "G">
+
+<!ENTITY updateOthers.label "Automatically update:">
+<!ENTITY enableAddonsUpdate3.label "Add-ons">
+<!ENTITY enableAddonsUpdate3.accesskey "o">
+<!ENTITY enableSearchUpdate.label "Search Engines">
+<!ENTITY enableSearchUpdate.accesskey "E">
 
 <!ENTITY offlineNotify.label "Bir site çevrim dışı kullanım için veri depolamak istediğinde beni uyar">
 <!ENTITY offlineNotify.accesskey "t">

@@ -8,7 +8,7 @@
 <!ENTITY sync.syncNow "Şimdi Eşitle">
 
 <!ENTITY sync.setup.title "Eşitleme sunucusuna bağlan">
-<!ENTITY sync.setup.jpake "Firefox Sync'e bağlı bir bilgisayardan Eşitleme seçeneklerine girip &#x0022;Aygıt ekle&#x0022;yi seçin.">
+<!ENTITY sync.setup.pair "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
 <!ENTITY sync.fallback "Bilgisayarımın yakınında değilim...">
 <!ENTITY sync.setup.manual "Sync hesap bilgilerinizi girin">
 <!ENTITY sync.account "Hesap adı">
@@ -19,3 +19,4 @@
 <!ENTITY sync.setup.connect "Bağlan">
 <!ENTITY sync.setup.cancel "İptal">
 <!ENTITY sync.setup.tutorial "Nasıl yapılacağını göster">
+<!ENTITY sync.setup.waiting "Pairing in progress…">

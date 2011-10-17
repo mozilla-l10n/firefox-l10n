@@ -16,6 +16,7 @@
 <!ENTITY attachMenu.accesskey "E">
 <!ENTITY attachFileCmd.label "Dosya…">
 <!ENTITY attachFileCmd.accesskey "o">
+<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachPageCmd.label "Web sayfası…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
