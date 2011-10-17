@@ -11,6 +11,7 @@
 <!ENTITY email.accesskey "E">
 <!ENTITY replyTo.label "Adresë për Përgjigju:">
 <!ENTITY replyTo.accesskey "u">
+<!ENTITY replyTo.placeholder "Marrësit do të përgjigjen te kjo adresë tjetër">
 <!ENTITY organization.label "Organizëm:">
 <!ENTITY organization.accesskey "O">
 <!ENTITY signatureText.label "Tekst nënshkrimi:">

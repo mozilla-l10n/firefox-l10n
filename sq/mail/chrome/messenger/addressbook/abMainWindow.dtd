@@ -66,14 +66,14 @@
 <!ENTITY viewMenu.accesskey                             "S">
 <!ENTITY viewToolbarsMenu.label                         "Panele">
 <!ENTITY viewToolbarsMenu.accesskey                     "P"> 
+<!ENTITY menubarCmd.label                               "Shtyllë Menush">
+<!ENTITY menubarCmd.accesskey                           "M">
 <!ENTITY showAbToolbarCmd.label                         "Panel Libri Adresash">
 <!ENTITY showAbToolbarCmd.accesskey                     "L">
-
 <!ENTITY printPreviewContactCmd.label                   "Paraparje Shtypjeje e Kontaktit">
 <!ENTITY printPreviewContactCmd.accesskey               "a">
 <!ENTITY showContactPane.label                          "Kuadrat Përmbledhjeje Kontakti">
 <!ENTITY showContactPane.accesskey                      "K">
-
 <!ENTITY showTaskbarCmd.label                           "Shtyllë Gjendjeje">
 <!ENTITY showTaskbarCmd.accesskey                       "G">
 <!ENTITY customizeToolbar.label                         "Përshtatni…">

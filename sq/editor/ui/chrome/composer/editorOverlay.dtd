@@ -1,3 +1,14 @@
+
+redoCmd.accesskey
+redoCmd.label
+selectAllCmd.accesskey
+selectAllCmd.label
+undoCmd.accesskey
+undoCmd.label
+
+
+
+
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
 <!-- File menu items -->
@@ -26,14 +37,7 @@
 <!ENTITY publishAsCmd.accesskey "S">
 <!ENTITY saveAsChangeEncodingCmd.label "Ruaje dhe Ndërroji Kodimin e Shkronjave">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "R">
-<!ENTITY printSetupCmd.label "Rregullim Faqeje…">
-<!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printCmd.label "Shtypni…">
-<!ENTITY printCmd.accesskey "y">
-<!ENTITY printCmd.key "P">
-<!ENTITY closeCmd.label "Mbylle">
-<!ENTITY closeCmd.accesskey "M">
-<!ENTITY closeCmd.key "W">
+
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "Përpunim">
@@ -48,18 +52,6 @@
 <!ENTITY pasteAsQuotationCmd.label "Ngjite Si Përmendje">
 <!ENTITY pasteAsQuotationCmd.accesskey "P">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findCmd.label "Gjeni dhe Zëvendësoni…">
-<!ENTITY findCmd.accesskey "G">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.key2 "VK_F19">
-<!ENTITY findAgainCmd.label "Gjej Sërish">
-<!ENTITY findAgainCmd.accesskey "r">
-<!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Gjej të Mëparshmen">
-<!ENTITY findPrevCmd.accesskey "m">
-<!ENTITY findPrevCmd.key "G">
-<!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Kontroll Drejtshkimi Në Shkrim e Sipër">
 <!ENTITY enableInlineSpellChecker.accesskey "D">
 <!ENTITY checkSpellingCmd2.label "Kontroll Drejtshkimi">
@@ -97,24 +89,6 @@
 <!ENTITY createLinkCmd.accesskey "K">
 <!ENTITY editLinkCmd.label "Përpunojeni Lidhjen në Hartues të Ri">
 <!ENTITY editLinkCmd.accesskey "P">
-
-<!-- (Toplevel Edit menu uses utilityOverlay) -->
-<!ENTITY undoCmd.label "Zhbëje">
-<!ENTITY undoCmd.accesskey "Z">
-<!ENTITY redoCmd.label "Ribëje">
-<!ENTITY redoCmd.accesskey "R">
-<!ENTITY cutCmd.label "Prije">
-<!ENTITY cutCmd.accesskey "P">
-<!ENTITY copyCmd.label "Kopjoje">
-<!ENTITY copyCmd.accesskey "K">
-<!ENTITY pasteCmd.label "Ngjite">
-<!ENTITY pasteCmd.accesskey "N">
-<!ENTITY deleteCmd.label "Fshije">
-<!ENTITY deleteCmd.accesskey "F">
-<!ENTITY clearCmd.label "Pastroje">
-<!ENTITY clearCmd.accesskey "S">
-<!ENTITY selectAllCmd.label "Përzgjidhe Krejt">
-<!ENTITY selectAllCmd.accesskey "j">
 
 <!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip "Zgjidhni shkronja">
@@ -356,6 +330,9 @@
 <!ENTITY openToolbarCmd.tooltip "Hap një kartelë vendore">
 <!ENTITY saveToolbarCmd.tooltip "Ruaje kartelën te një vendndodhje vendore">
 <!ENTITY publishToolbarCmd.tooltip "Ngarko kartelë te një vendndodhje e largët">
+<!ENTITY cutToolbarCmd.tooltip "Prije">
+<!ENTITY copyToolbarCmd.tooltip "Kopjoje">
+<!ENTITY pasteToolbarCmd.tooltip "Ngjite">
 <!ENTITY printToolbarCmd.label "Shtype">
 <!ENTITY printToolbarCmd.tooltip "Shtype këtë faqe">
 <!ENTITY findToolbarCmd.label "Gjej">
