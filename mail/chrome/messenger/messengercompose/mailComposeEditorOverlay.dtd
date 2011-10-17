@@ -1,5 +1,5 @@
-<!ENTITY attachImageSource.label         "Priložite ovu sliku uz poruku">
+<!ENTITY attachImageSource.label         "Priloži ovu sliku uz poruku">
 <!ENTITY attachImageSource.accesskey     "s">
 
-<!ENTITY attachLinkSource.label          "Priložite podatak iza ovog linka uz poruku">
+<!ENTITY attachLinkSource.label          "Priloži izvor poveznice uz poruku">
 <!ENTITY attachLinkSource.accesskey      "p">
