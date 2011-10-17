@@ -157,6 +157,8 @@
 <!ENTITY inspectPanelTitle.label "HTML">
 <!ENTITY inspectButton.label "Inspeicionar">
 <!ENTITY inspectButton.accesskey "I">
+<!ENTITY inspectContextMenu.label "Inspeicionar Elementu">
+<!ENTITY inspectContextMenu.accesskey "n">
 <!ENTITY getMoreDevtoolsCmd.label "Obtener más Ferramientes">
 <!ENTITY getMoreDevtoolsCmd.accesskey "m">
 <!ENTITY fileMenu.label "Ficheru">
