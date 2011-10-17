@@ -12,8 +12,8 @@
 <!ENTITY useCurrentPage.label      "Usar páxina actual">
 <!ENTITY useCurrentPage.accesskey  "U">
 <!ENTITY useMultiple.label         "Usar páxines actuales">
-<!ENTITY useBookmark.label         "Usar marcador">
-<!ENTITY useBookmark.accesskey     "m">
+<!ENTITY chooseBookmark.label      "Usar marcador…">
+<!ENTITY chooseBookmark.accesskey  "m">
 <!ENTITY restoreDefault.label      "Restaurar preconfiguráu">
 <!ENTITY restoreDefault.accesskey  "R">
 
