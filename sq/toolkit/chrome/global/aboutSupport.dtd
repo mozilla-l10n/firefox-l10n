@@ -19,6 +19,9 @@
 <!ENTITY aboutSupport.appBasicsProfileDir "Drejtoria e Profilit">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Shtojca të Aktivizuara">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Formësim Montimi">
+<!ENTITY aboutSupport.appBasicsUserAgent "Agjent Përdoruesi">
+<!ENTITY aboutSupport.appBasicsCrashIDs "Njoftime Vithisjesh">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Përdorim Kujtese">
 
 <!ENTITY aboutSupport.show.label "Hap Dosjen Që e Përmban">
 
@@ -32,7 +35,6 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.modifiedPrefsValue "Vlerë">
 
 <!ENTITY aboutSupport.graphicsTitle "Grafikë">
-<!ENTITY aboutSupport.appBasicsUserAgent "Agjent Përdoruesi">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Historik Instalimesh">
 <!ENTITY aboutSupport.updateHistoryTitle "Historik Përditësimesh">
