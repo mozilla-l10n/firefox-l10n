@@ -40,9 +40,8 @@
 
 <!ENTITY allowScripts.label             "Autoriser les scripts à :">
 
-<!ENTITY moveResizeWindows.label        "Déplacer ou redimensionner des fenêtres existantes">
+<!ENTITY moveResizeWindows.label        "Déplacer ou redimensionner des fenêtres popup">
 <!ENTITY moveResizeWindows.accesskey    "D">
-
 <!ENTITY raiseLowerWindows.label        "Passer les fenêtres à l'avant ou à l'arrière-plan">
 <!ENTITY raiseLowerWindows.accesskey    "P">
 <!ENTITY disableContextMenus.label      "Désactiver ou remplacer les menus contextuels">
