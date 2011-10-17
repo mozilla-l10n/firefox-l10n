@@ -5,9 +5,9 @@
 
 <!-- Entities for Account Type page -->
 
-<!ENTITY accountSetupInfo.label "Për të marrë mesazhe, lypset së pari të hapni një llogari Poste ose Grupi Lajmesh.">
+<!ENTITY accountSetupInfo2.label "Që të mund të merrni, lypset së pari të rregulloni një llogari.">
 <!ENTITY accountTypeTitle.label "Rregullime Llogarie të Re">
-<!ENTITY accountTypeDesc.label "Ky Krijues do të mbledhë të dhënat e nevojshme për rregullimin e një llogarie Poste ose Lajmesh. Nëse nuk i dini të dhënat e kërkuara, ju lutemi lidhuni me Përgjegjësin e Sistemit tuaj ose Mundësuesin e Shërbimit Internet (ISP).">
+<!ENTITY accountTypeDesc2.label "Ky Krijues do të mbledhë të dhënat e nevojshme për rregullimin e një llogarie. Nëse nuk i dini të dhënat e kërkuara, ju lutemi lidhuni me Përgjegjësin e Sistemit tuaj ose Mundësuesin e Shërbimit Internet (ISP).">
 <!ENTITY accountTypeDirections.label "Përzgjidhni llojin e llogarisë që doni të rregulloni:">
 <!ENTITY accountTypeMail.label "Llogari email">
 <!ENTITY accountTypeMail.accesskey "e">
