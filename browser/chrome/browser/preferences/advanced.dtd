@@ -74,8 +74,6 @@
 
 <!ENTITY updateOthers.label              "Automātiski atjaunināt:">
 
-<!ENTITY enableAppUpdate.label "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey "F">
 <!ENTITY enableAddonsUpdate3.label "Papildinājumus">
 <!ENTITY enableAddonsUpdate3.accesskey "p">
 <!ENTITY enableSearchUpdate.label "Meklētājus">
