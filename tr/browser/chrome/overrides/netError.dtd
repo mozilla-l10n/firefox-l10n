@@ -97,12 +97,10 @@ olduğundan emin olun.</li>
 </ul>">
 
 <!ENTITY nssFailure2.title "Güvenli bağlantı girişimi başarısız">
-<!ENTITY nssFailure2.longDesc "
-<ul>
-  <li>The page you are trying to view can not be shown because the authenticity of the received data could not be verified.</li>
-  <li>Please contact the website owners to inform them of this problem. Alternatively, use the command found in the help menu to report this broken site.</li>
-</ul>
-">
+<!ENTITY nssFailure2.longDesc "<ul> 
+<li>Alınan verilerin özgünlüğü doğrulanamadığı için bakmak istediğiniz sayfa gösterilemiyor.</li> 
+<li>Lütfen site yönetici ile irtibata geçerek durumu bildirin. Bunun dışında, bu çalışmayan siteyi yardım menüsündeki komutu kullanarak rapor edebilirsiniz.</li> 
+</ul>">
 
 <!ENTITY nssBadCert.title "Güvenli bağlantı hatalı">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
@@ -121,10 +119,8 @@ korunuyorsa, &brandShortName; uygulamasına internete erişmek için gerekli izi
 </ul>">
 
 <!ENTITY malwareBlocked.title "Şüpheli saldırı sitesi!">
-<!ENTITY malwareBlocked.longDesc "
-<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p>
-<p>Website owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo' >request a review</a>.</p>
-">
+<!ENTITY malwareBlocked.longDesc "<p>Saldırı siteleri; özel bilgilerinizi çalan, bilgisayarınızı başkalarına saldırma amacıyla kullanan ya da sisteminize zarar veren programlar kurmaya çalışır.</p> 
+<p>Kendi sitelerinin yanlışlıkla saldırı sitesi olarak rapor edildiğini düşünen site sahipleri <a href='http://www.stopbadware.org/home/reviewinfo' >yeniden inceleme isteğinde</a> bulunabilir.</p>">
 
 <!ENTITY phishingBlocked.title "Sahtekârlık şüphesi!">
 <!ENTITY phishingBlocked.longDesc "<p>Bu sayfada yapılacak kişisel bilgi girişi, kimlik hırsızlığı ya da başka tür dolandırıcılıkla sonuçlanabilir.</p> 
