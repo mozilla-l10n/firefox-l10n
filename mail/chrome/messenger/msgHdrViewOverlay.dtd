@@ -116,6 +116,8 @@
 <!ENTITY detachAllAttachmentsCmd.accesskey "T">
 <!ENTITY deleteAllAttachmentsCmd.label "Tümünü sil…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey "m">
+
+<!ENTITY openAttachment.tooltip "Open the attached file">
 <!-- Attachment toolbar items -->
 
 <!ENTITY saveAttachmentButton1.label "Save">

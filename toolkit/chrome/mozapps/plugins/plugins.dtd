@@ -21,6 +21,7 @@
 <!ENTITY pluginWizard.finalPage.restart.label "Yan uygulamaların çalışması için &brandShortName; uygulamasının baştan başlatılması gerek.">
 
 <!ENTITY missingPlugin "A plugin is needed to display this content.">
+<!ENTITY clickToPlayPlugin "Tap here to activate plugin.">
 <!ENTITY disabledPlugin "This plugin is disabled.">
 <!ENTITY blockedPlugin.label "Bu yan eklenti sizi korumak için engellendi.">
 
