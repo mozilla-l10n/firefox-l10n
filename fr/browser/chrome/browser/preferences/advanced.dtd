@@ -58,16 +58,16 @@
 
 <!ENTITY updateTab.label                 "Mises à jour">
 
-<!ENTITY updateApp.label                 "&brandShortName; updates:">
-<!ENTITY updateAuto.label                "Automatically install updates (recommended: improved security)">
+<!ENTITY updateApp.label                 "Mises à jour &brandShortName; :">
+<!ENTITY updateAuto.label                "Installer automatiquement les mises à jour (recommandé pour votre sécurité)">
 <!ENTITY updateAuto.accesskey            "A">
-<!ENTITY updateCheck.label               "Check for updates, but let me choose whether to install them">
+<!ENTITY updateCheck.label               "Vérifier l'existence de mises à jour mais laissez-moi décider de leur installation">
 <!ENTITY updateCheck.accesskey           "C">
-<!ENTITY updateManual.label              "Never check for updates (not recommended: security risk)">
+<!ENTITY updateManual.label              "Ne jamais vérifier les mises à jour (déconseillé, cela représente un risque de sécurité)">
 <!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateAutoAddonWarn.label       "Warn me if this will disable any of my add-ons">
-<!ENTITY updateAutoAddonWarn.accesskey   "W">
+<!ENTITY updateAutoAddonWarn.label       "Me prévenir si certains de mes modules sont désactivées">
+<!ENTITY updateAutoAddonWarn.accesskey   "M">
 
 <!ENTITY updateHistory.label             "Afficher l'historique des mises à jour">
 <!ENTITY updateHistory.accesskey         "A">
