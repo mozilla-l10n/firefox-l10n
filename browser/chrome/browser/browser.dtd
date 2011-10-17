@@ -189,7 +189,7 @@
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Shko te një Site Web">
 <!ENTITY urlbar.accesskey             "S">
-<!ENTITY urlbar.switchToTab.label     "Kalo në skedë:">
+<!ENTITY urlbar.switchToTab.label     "Kalo te skeda:">
 
 
 <!-- 
