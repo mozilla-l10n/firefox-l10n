@@ -24,7 +24,7 @@
 <!ENTITY printPreviewCmd.accesskey "k">
 <!ENTITY printCmd.label "Tulosta…">
 <!ENTITY printCmd.accesskey "o">
-<!ENTITY printCmd.commandkey "p">
+<!ENTITY printCmd.key "P">
 
 <!ENTITY editMenu.label					"Muokkaa"> 
 <!ENTITY editMenu.accesskey				"M"> 
