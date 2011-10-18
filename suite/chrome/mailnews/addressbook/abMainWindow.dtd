@@ -48,7 +48,7 @@
 <!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->  
 <!ENTITY newListCmd.accesskey                           "E">  
 <!ENTITY newAddressBookCmd.label                        "Adressebok …"> 
-<!ENTITY newAddressBookCmd.accesskey                    "d">
+<!ENTITY newAddressBookCmd.accesskey                    "d">  
 <!ENTITY newLDAPDirectoryCmd.label                      "LDAP-katalog …">
 <!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "L">
@@ -62,13 +62,11 @@
 <!ENTITY printAddressBook.accesskey                     "a"> 
 <!ENTITY printPreviewAddressBook.label                  "Forhåndsvisning av adressebok"> 
 <!ENTITY printPreviewAddressBook.accesskey              "F">
-<!ENTITY printSetupCmd.label                            "Utskriftsformat …">
-<!ENTITY printSetupCmd.accesskey                        "o">
 
 <!-- Edit Menu -->
 <!ENTITY deleteAbCmd.label                              "Slett adressebok">  
-<!ENTITY deleteContactCmd.label                         "Slett kontakt">  
-<!ENTITY deleteContactsCmd.label                        "Slett valgte kontakter">  
+<!ENTITY deleteContactCmd.label                         "Slett kontakt">
+<!ENTITY deleteContactsCmd.label                        "Slett valgte kontakter">
 <!ENTITY deleteListCmd.label                            "Slett liste">
 <!ENTITY deleteListsCmd.label                           "Slett valgte lister">
 <!ENTITY deleteItemsCmd.label                           "Slett valgte elementer">
@@ -88,10 +86,10 @@
   
 <!ENTITY menu_ShowNameAs.label                          "Vis navn som"> 
 <!ENTITY menu_ShowNameAs.accesskey                      "n"> 
-<!ENTITY firstLastCmd.label                             "Fornavn, Etternavn">
+<!ENTITY firstLastCmd.label                             "Fornavn, Etternavn">  
 <!ENTITY firstLastCmd.accesskey                         "F"> 
-<!ENTITY lastFirstCmd.label                             "Etternavn, Fornavn">
-<!ENTITY lastFirstCmd.accesskey                         "E">
+<!ENTITY lastFirstCmd.label                             "Etternavn, Fornavn">  
+<!ENTITY lastFirstCmd.accesskey                         "E"> 
 <!ENTITY displayNameCmd.label                           "Vis navn">  
 <!ENTITY displayNameCmd.accesskey                       "V"> 
 
@@ -102,16 +100,16 @@
 <!ENTITY exportCmd.accesskey                            "E">
 
 <!-- Toolbar and Popup items -->  
-<!ENTITY newContactButton.label                         "Ny kontakt">  
-<!ENTITY newContactButton.accesskey                     "N">  
+<!ENTITY newContactButton.label                         "Ny kontakt">
+<!ENTITY newContactButton.accesskey                     "N">
 <!ENTITY newlistButton.label                            "Ny liste">  
 <!ENTITY newlistButton.accesskey                        "L">  
-<!ENTITY editItemButton.label                           "Egenskaper">  
-<!ENTITY editItemButton.accesskey                       "P">  
+<!ENTITY editItemButton.label                           "Egenskaper">
+<!ENTITY editItemButton.accesskey                       "P">
 <!ENTITY newmsgButton.label                             "Skriv ny">  
 <!ENTITY newmsgButton.accesskey                         "n">  
-<!ENTITY deleteItemButton.label                         "Slett">  
-<!ENTITY deleteItemButton.accesskey                     "S">  
+<!ENTITY deleteItemButton.label                         "Slett">
+<!ENTITY deleteItemButton.accesskey                     "S">
 <!ENTITY newimButton.label                              "Lynmelding">  
 <!ENTITY newimButton.accesskey                          "I">  
 <!ENTITY searchNameAndEmail.placeholder                 "Søk i navn og e-postadresse">
@@ -119,14 +117,17 @@
 
 <!-- Tooltips -->
 <!ENTITY addressbookToolbar.tooltip                     "Adressebok-verktøylinje">
-<!ENTITY newContactButton.tooltip                       "Lag en ny kontakt"> 
+<!ENTITY newContactButton.tooltip                       "Lag en ny kontakt">
 <!ENTITY newlistButton.tooltip                          "Lag en ny liste"> 
-<!ENTITY editItemButton.tooltip                         "Rediger valgt element"> 
+<!ENTITY editItemButton.tooltip                         "Rediger valgt element">
 <!ENTITY newmsgButton.tooltip                           "Send en e-post"> 
 <!ENTITY newIM.tooltip                                  "Send en melding eller chat"> 
-<!ENTITY deleteItemButton.tooltip                       "Slett valgt element"> 
+<!ENTITY deleteItemButton.tooltip                       "Slett valgt element">
 <!ENTITY throbber.tooltip                               "Gå til hjemmesiden til &vendorShortName;">
 <!ENTITY advancedButton.tooltip                         "Avansert adressesøk">
+
+<!-- Dir Tree header -->
+<!ENTITY dirTreeHeader.label                            "Adressebøker">
 
 <!-- Status Bar -->  
 <!ENTITY statusText.label                               "">

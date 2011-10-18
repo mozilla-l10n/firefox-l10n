@@ -2,7 +2,7 @@
 <!ENTITY msgComposeWindow.title "Ny melding: (uten emne)">
 
 <!-- File Menu -->
-<!ENTITY fileMenu.label "Fil">
+<!ENTITY fileMenu.label "Fil"> 
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY newMenu.label "Ny">
 <!ENTITY newMenu.accesskey "N">
@@ -48,20 +48,20 @@
 <!ENTITY printCmd.accesskey "u">
 
 <!-- Edit Menu -->
-<!ENTITY editMenu.label "Rediger">
+<!ENTITY editMenu.label "Rediger"> 
 <!ENTITY editMenu.accesskey "R">
 <!ENTITY undoCmd.label "Angre">
 <!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "A">
+<!ENTITY undoCmd.accesskey "A"> 
 <!ENTITY redoCmd.label "Gjenta">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "G">
+<!ENTITY redoCmd.accesskey "G"> 
 <!ENTITY cutCmd.label "Klipp ut">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "u">
+<!ENTITY cutCmd.accesskey "u"> 
 <!ENTITY copyCmd.label "Kopier">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "K">
+<!ENTITY copyCmd.accesskey "K"> 
 <!ENTITY pasteCmd.label "Lim inn">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "L">
@@ -74,7 +74,7 @@
 <!ENTITY deleteCmd.accesskey "S">
 <!ENTITY selectAllCmd.label "Merk alt">
 <!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "M">
+<!ENTITY selectAllCmd.accesskey "M"> 
 <!ENTITY findCmd.label "Søk og erstatt …">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "S">
@@ -85,13 +85,15 @@
 <!ENTITY findPrevCmd.label "Søk etter forrige">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "e">
+<!ENTITY findPrevCmd.accesskey "e"> 
 
 <!-- View Menu -->
-<!ENTITY viewMenu.label "Vis">
+<!ENTITY viewMenu.label "Vis"> 
 <!ENTITY viewMenu.accesskey "V">
-<!ENTITY viewToolbarsMenuNew.label "Verktøylinjer">
-<!ENTITY viewToolbarsMenuNew.accesskey "V">
+<!ENTITY viewToolbarsMenuNew.label "Verktøylinjer"> 
+<!ENTITY viewToolbarsMenuNew.accesskey "V"> 
+<!ENTITY menubarCmd.label "Menylinje">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showCompositionToolbarCmd.label "Forfatterlinje">
 <!ENTITY showCompositionToolbarCmd.accesskey "F">
 <!ENTITY showFormattingBarCmd.label "Formateringslinje">
@@ -101,8 +103,8 @@
 <!ENTITY customizeToolbar.label "Tilpass …">
 <!ENTITY customizeToolbar.accesskey "T">
 
-<!ENTITY addressSidebar.label "Adressebok i sidestolpe">
-<!ENTITY addressSidebar.accesskey "A">
+<!ENTITY addressSidebar.label "Adressebok i sidestolpe"> 
+<!ENTITY addressSidebar.accesskey "A"> 
 
 <!-- Format Menu -->
 <!ENTITY formatMenu.label "Formater">
@@ -170,13 +172,13 @@
 <!ENTITY preferencesCmd.label "Innstillinger …">
 <!ENTITY preferencesCmd.accesskey "I">
 <!ENTITY preferencesCmdUnix.label       "Innstillinger">
-<!ENTITY preferencesCmdUnix.accesskey   "n">
+<!ENTITY preferencesCmdUnix.accesskey   "n"> 
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Minimer">
 <!ENTITY bringAllToFront.label "Send alle til forgrunnen">
-<!ENTITY zoomWindow.label "Forstørr">
+<!ENTITY zoomWindow.label "Forstørr"> 
 <!ENTITY windowMenu.label "Vindu">
 
 <!-- Mail Toolbar -->
@@ -188,13 +190,13 @@
 <!ENTITY saveButton.label "Lagre">
 
 <!-- Mail Toolbar Tooltips -->
-<!ENTITY sendButton.tooltip "Send meldingen nå">
-<!ENTITY sendlaterButton.tooltip "Send meldingen senere">
-<!ENTITY quoteButton.tooltip "Siter forrige melding">
-<!ENTITY addressButton.tooltip "Velg mottaker fra en adressebok">
-<!ENTITY attachButton.tooltip "Ta med vedlegg">
+<!ENTITY sendButton.tooltip "Send meldingen nå"> 
+<!ENTITY sendlaterButton.tooltip "Send meldingen senere"> 
+<!ENTITY quoteButton.tooltip "Siter forrige melding"> 
+<!ENTITY addressButton.tooltip "Velg mottaker fra en adressebok"> 
+<!ENTITY attachButton.tooltip "Ta med vedlegg"> 
 <!ENTITY spellingButton.tooltip "Kontroller staving av merket tekst eller hele meldingen">
-<!ENTITY saveButton.tooltip "Lagre meldingen">
+<!ENTITY saveButton.tooltip "Lagre meldingen"> 
 <!ENTITY cutButton.tooltip              "Klipp ut">
 <!ENTITY copyButton.tooltip             "Kopier">
 <!ENTITY pasteButton.tooltip            "Lim inn">
@@ -205,12 +207,12 @@
 <!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "Fra:">
 <!ENTITY fromAddr.accesskey "a">
-<!ENTITY toAddr.label "Til:">
-<!ENTITY ccAddr.label "Kopi til:">
-<!ENTITY bccAddr.label "Blind kopi til:">
-<!ENTITY replyAddr.label "Svar til:">
-<!ENTITY newsgroupsAddr.label "Nyhetsgruppe:">
-<!ENTITY followupAddr.label "Oppfølging til:">
+<!ENTITY toAddr.label "Til:"> 
+<!ENTITY ccAddr.label "Kopi til:"> 
+<!ENTITY bccAddr.label "Blind kopi til:"> 
+<!ENTITY replyAddr.label "Svar til:"> 
+<!ENTITY newsgroupsAddr.label "Nyhetsgruppe:"> 
+<!ENTITY followupAddr.label "Oppfølging til:"> 
 <!ENTITY subject.label "Emne:">
 <!ENTITY subject.accesskey "m">
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
