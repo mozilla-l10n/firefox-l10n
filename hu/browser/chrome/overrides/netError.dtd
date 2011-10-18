@@ -94,7 +94,7 @@
 </ul>
 ">
 
-<!ENTITY proxyResolveFailure.title " Nem található a proxykiszolgáló">
+<!ENTITY proxyResolveFailure.title "Nem található a proxykiszolgáló">
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
   <li>Ellenőrizze a proxybeállításokat, hogy helyesek-e.</li>

@@ -25,10 +25,10 @@
 <!ENTITY pasteCmd.key            "V">
 <!ENTITY pasteCmd.accesskey          "B">
 <!ENTITY deleteCmd.label          "Törlés">
-<!ENTITY deleteCmd.accesskey        "T">
+<!ENTITY deleteCmd.accesskey        "s">
 <!ENTITY selectAllCmd.label          "Mindent kijelöl">
 <!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey        "d">
+<!ENTITY selectAllCmd.accesskey        "i">
 <!ENTITY preferencesCmd.label        "Beállítások...">
 <!ENTITY preferencesCmd.accesskey      "B">
 <!ENTITY preferencesCmdUnix.label       "Beállítások">

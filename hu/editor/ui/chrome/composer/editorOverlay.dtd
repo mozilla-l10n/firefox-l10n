@@ -73,9 +73,6 @@
 <!ENTITY printCmd.label "Nyomtatás...">
 <!ENTITY printCmd.accesskey "N">
 <!ENTITY printCmd.key "P">
-<!ENTITY closeCmd.label "Bezárás">
-<!ENTITY closeCmd.accesskey "B">
-<!ENTITY closeCmd.key "W">
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "Szerkesztés">
@@ -91,17 +88,6 @@
 <!ENTITY pasteAsQuotationCmd.accesskey "i">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Keresés és csere...">
-<!ENTITY findCmd.accesskey "K">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.key2 "VK_F19">
-<!ENTITY findAgainCmd.label "Következő keresése">
-<!ENTITY findAgainCmd.accesskey "z">
-<!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Előző keresése">
-<!ENTITY findPrevCmd.accesskey "l">
-<!ENTITY findPrevCmd.key "G">
-<!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Helyesírás-ellenőrzés írás közben">
 <!ENTITY enableInlineSpellChecker.accesskey "e">
 <!ENTITY checkSpellingCmd2.label "Helyesírás-ellenőrzés">
@@ -139,23 +125,6 @@
 <!ENTITY createLinkCmd.accesskey "H">
 <!ENTITY editLinkCmd.label "Hivatkozás szerkesztése új szerkesztőablakban">
 <!ENTITY editLinkCmd.accesskey "s">
-<!-- (Toplevel Edit menu uses utilityOverlay) -->
-<!ENTITY undoCmd.label "Visszavonás">
-<!ENTITY undoCmd.accesskey "V">
-<!ENTITY redoCmd.label "Újra">
-<!ENTITY redoCmd.accesskey "r">
-<!ENTITY cutCmd.label "Kivágás">
-<!ENTITY cutCmd.accesskey "K">
-<!ENTITY copyCmd.label "Másolás">
-<!ENTITY copyCmd.accesskey "M">
-<!ENTITY pasteCmd.label "Beillesztés">
-<!ENTITY pasteCmd.accesskey "B">
-<!ENTITY deleteCmd.label "Törlés">
-<!ENTITY deleteCmd.accesskey "T">
-<!ENTITY clearCmd.label "Tartalom törlése">
-<!ENTITY clearCmd.accesskey "a">
-<!ENTITY selectAllCmd.label "Mindent kijelöl">
-<!ENTITY selectAllCmd.accesskey "i">
 
 <!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip "Betűkészlet kiválasztása">
@@ -164,7 +133,7 @@
 <!ENTITY fontVarWidth.label "Proporcionális">
 <!ENTITY fontVarWidth.accesskey "P">
 <!ENTITY fontFixedWidth.label "Fix szélességű">
-<!ENTITY fontFixedWidth.accesskey "x">
+<!ENTITY fontFixedWidth.accesskey "F">
 <!ENTITY fontFixedWidth.key "T">
 <!ENTITY fontHelvetica.label "Helvetica, Arial">
 <!ENTITY fontHelvetica.accesskey "H">
@@ -396,6 +365,9 @@
 <!ENTITY openToolbarCmd.tooltip "Helyi fájl megnyitása">
 <!ENTITY saveToolbarCmd.tooltip "Fájl mentése helyi lemezre">
 <!ENTITY publishToolbarCmd.tooltip "Fájl feltöltése távoli kiszolgálóra">
+<!ENTITY cutToolbarCmd.tooltip "Kivágás">
+<!ENTITY copyToolbarCmd.tooltip "Másolás">
+<!ENTITY pasteToolbarCmd.tooltip "Beillesztés">
 <!ENTITY printToolbarCmd.label "Nyomtatás">
 <!ENTITY printToolbarCmd.tooltip "Oldal kinyomtatása">
 <!ENTITY findToolbarCmd.label "Keresés">
