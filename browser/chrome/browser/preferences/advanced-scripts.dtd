@@ -40,8 +40,8 @@
 
 <!ENTITY allowScripts.label             "允許網頁程式碼 (Script) 執行下列操作:">
 
-<!ENTITY moveResizeWindows.label        "移動或改變已開啟視窗大小">
-<!ENTITY moveResizeWindows.accesskey    "M">
+<!ENTITY moveResizePopupWindows.label     "移動或重新調整彈出型視窗的大小">
+<!ENTITY moveResizePopupWindows.accesskey "M">
 <!ENTITY raiseLowerWindows.label        "將視窗移至上層或下層">
 <!ENTITY raiseLowerWindows.accesskey    "R">
 <!ENTITY disableContextMenus.label      "停用或取代右鍵選單">
