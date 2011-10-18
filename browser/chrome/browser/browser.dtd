@@ -495,7 +495,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "基本頁面樣式">
 <!ENTITY pageStylePersistentOnly.accesskey "B">
 
-<!ENTITY pageReportIcon.tooltip            "變更此網站開啟彈出 (廣告) 視窗的設定">
+<!ENTITY pageReportIcon.tooltip            "變更此網站開啟彈出型視窗的設定">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
