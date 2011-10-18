@@ -18,7 +18,7 @@
 <!ENTITY openHelp.label "Tartalom">
 <!ENTITY openHelp.accesskey "T">
 <!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac.label "&brandShortName; Súgó">
+<!ENTITY openHelpMac.label "&brandShortName; súgó">
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
 
