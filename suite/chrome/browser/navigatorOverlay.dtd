@@ -49,13 +49,6 @@
 <!ENTITY pageInfoCmd.accesskey "S">
 <!ENTITY pageInfoCmd.commandkey "i">
 
-<!ENTITY applyTheme.label "Bruk tema">
-<!ENTITY applyTheme.accesskey "B">
-<!ENTITY getNewThemesCmd.label "Hent nye temaer">
-<!ENTITY getNewThemesCmd.accesskey "G">
-<!ENTITY getPersonasCmd.label "Hent personas">
-<!ENTITY getPersonasCmd.accesskey "H">
-
 <!-- Go Menu -->
 <!ENTITY goMenu.label "Gå">
 <!ENTITY goMenu.accesskey "G">

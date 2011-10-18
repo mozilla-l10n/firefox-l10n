@@ -107,13 +107,6 @@
 <!ENTITY downloadSelectedCmd.accesskey "n">
 <!ENTITY downloadFlaggedCmd.label "Hent flaggede meldinger">
 <!ENTITY downloadFlaggedCmd.accesskey "f">
-<!ENTITY printCmd.label "Skriv ut …">
-<!ENTITY printCmd.accesskey "u">
-<!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Forhåndsvis side">
-<!ENTITY printPreviewCmd.accesskey "F">
-<!ENTITY printSetupCmd.label "Utskriftsformat …">
-<!ENTITY printSetupCmd.accesskey "o">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Slett melding">
