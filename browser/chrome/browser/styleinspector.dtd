@@ -1,3 +1,5 @@
 <!ENTITY userStylesLabel "Sólo estilos de usuario">
 <!ENTITY lookingAtLabel "Mirando:">
 <!ENTITY helpLinkTitle "Lea la documentación para esta propiedad">
+<!ENTITY matchedSelectors "Selectores que concuerdan">
+<!ENTITY unmatchedSelectors "No hay selectores concordantes">
