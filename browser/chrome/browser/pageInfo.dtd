@@ -94,7 +94,7 @@
 <!ENTITY  permBlock             "封鎖">
 <!ENTITY  permissionsFor        "此網站權限設定:">
 <!ENTITY  permImage             "載入圖片">
-<!ENTITY  permPopup             "開啟彈出式視窗">
+<!ENTITY  permPopup             "開啟彈出型視窗">
 <!ENTITY  permCookie            "設定 Cookie">
 <!ENTITY  permInstall           "安裝擴充套件或佈景主題">
 <!ENTITY  permGeo               "透露地理位置">

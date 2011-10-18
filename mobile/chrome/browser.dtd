@@ -69,7 +69,7 @@
 <!ENTITY bookmarkPopup.label       "此頁已加入書籤">
 <!ENTITY bookmarkRemove.label      "移除">
 <!ENTITY bookmarkEdit.label        "編輯">
-<!ENTITY bookmarkShortcut.label    "新增至首頁畫面">
+<!ENTITY bookmarkShortcut.label    "新增至裝置主畫面">
 
 <!ENTITY identity.unverifiedsite2 "此網站沒有提供身分識別資訊。">
 <!ENTITY identity.connectedTo2 "連線到">
@@ -106,11 +106,11 @@
 <!ENTITY contextFullScreen.label      "全螢幕">
 <!ENTITY contextEditBookmark.label    "編輯">
 <!ENTITY contextRemoveBookmark.label  "移除">
-<!ENTITY contextShortcutBookmark.label "新增至首頁畫面">
+<!ENTITY contextShortcutBookmark.label "新增至裝置主畫面">
 
 <!ENTITY pageactions.saveas.pdf      "另存成 PDF">
 <!ENTITY pageactions.share.page      "分享頁面">
-<!ENTITY pageactions.password.forget "忘記密碼">
+<!ENTITY pageactions.password.forget "忘掉在此網站輸入過的密碼">
 <!ENTITY pageactions.quit            "結束">
 <!ENTITY pageactions.reset           "清除頁面的偏好設定">
 <!ENTITY pageactions.findInPage      "尋找">
