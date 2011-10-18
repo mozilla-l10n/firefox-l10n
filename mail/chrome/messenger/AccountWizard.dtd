@@ -5,9 +5,9 @@
 
 <!-- Entities for Account Type page -->
 
-<!ENTITY accountSetupInfo.label "For å motta meldinger må du først opprette en konto.">
+<!ENTITY accountSetupInfo2.label "For å motta meldinger må du først lage en konto.">
 <!ENTITY accountTypeTitle.label "Innstillinger for ny konto">
-<!ENTITY accountTypeDesc.label "Denne veiviseren vil samle sammen informasjonen som er nødvendig for å opprette en ny konto. Dersom du ikke har denne informasjonen må du kontakte systemansvarlig eller Internett-tilbyderen din.">
+<!ENTITY accountTypeDesc2.label "Denne veiviseren samler inn informasjon som er nødvendig for å lage en konto. Dersom du ikke kjenner informasjonen det spørres etter, kontakt systemansvarlig eller Internett-leverandøren din.">
 <!ENTITY accountTypeDirections.label "Velg kontotype">
 <!ENTITY accountTypeMail.label "E-post">
 <!ENTITY accountTypeMail.accesskey "E">
@@ -58,9 +58,9 @@
 <!ENTITY leaveMsgsOnSrvr.accesskey "L">
 
 
-<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix "Den nåværende utgående tjeneren (SMTP), «">
 <!ENTITY haveSmtp1.suffix2 "» vil bli brukt. Du kan endre innstillinger for utgående tjener i kontoinnstillingene.">
@@ -76,15 +76,15 @@
 <!ENTITY usernameSmtpDesc.label "Skriv inn brukernavnet du har fått av e-posttilbyderen din for å sende e-post (dette er vanligvis det samme som innkommende brukernavn).">
 <!ENTITY usernameSmtpLabel.label "Utgående brukernavn">
 <!ENTITY usernameSmtpLabel.accesskey "U">
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Ditt valgte utgående (SMTP) brukernavn, «">
 <!ENTITY haveSmtp2.suffix2 "» vil bli brukt. Du kan endre innstillinger for utgående tjener i kontoinnstillingene.">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Den utgående tjeneren (SMTP), «">
 <!ENTITY haveSmtp3.suffix2 "» er identisk til din innkommende tjener, og ditt innkommende brukernavn vil bli brukt for å få tilgang til den. Du kan endre utgående tjener i kontoinnstillingene.">

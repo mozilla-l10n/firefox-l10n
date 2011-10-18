@@ -11,10 +11,7 @@
 <!-- menu items:  the . means that the menu item isn't implemented yet -->
 
 <!-- File menu items -->
-<!ENTITY newMessage.label "Melding">  
-<!ENTITY newMessage.accesskey "M">  
 <!ENTITY saveCmd.label "Lagre">
-<!ENTITY saveCmd.key "S">
 <!ENTITY saveCmd.accesskey "L">
 <!ENTITY saveAsCmd.label "Lagre som">
 <!ENTITY saveAsCmd.accesskey "o">
@@ -39,11 +36,6 @@
 <!ENTITY sendLaterCmd.label "Send senere">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "e">
-<!ENTITY printSetupCmd.label "Utskriftsformat">
-<!ENTITY printSetupCmd.accesskey "o">
-<!ENTITY printCmd.label "Skriv ut …">
-<!ENTITY printCmd.key "P">
-<!ENTITY printCmd.accesskey "u">
 
 <!-- Edit menu items -->
 <!ENTITY editRewrapCmd.label "Tekstbrytning">
@@ -74,7 +66,6 @@
 <!ENTITY selectAddressCmd.accesskey "V">
 
 <!ENTITY checkSpellingCmd2.label "Kontroller staving …">
-<!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY checkSpellingCmd2.accesskey "a">
 <!ENTITY enableInlineSpellChecker.label "Stavekontroller mens du skriver">
 <!ENTITY enableInlineSpellChecker.accesskey "v">
@@ -135,8 +126,6 @@
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
 <!ENTITY spellCheckAddToDictionary.label "Legg til i ordboken">
 <!ENTITY spellCheckAddToDictionary.accesskey "L">
-<!ENTITY pasteQuote.label "Lim inn som sitering">
-<!ENTITY pasteQuote.accesskey "t">
 
 <!ENTITY openAttachment.label "Åpne">
 <!ENTITY openAttachment.accesskey "Å">
