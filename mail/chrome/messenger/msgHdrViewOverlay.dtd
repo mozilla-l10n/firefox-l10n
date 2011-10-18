@@ -59,6 +59,7 @@
 <!ENTITY editMessageButton.label "Szerkesztés...">
 <!ENTITY hdrArchiveButton.label "archiválás">
 <!ENTITY hdrArchiveButton.tooltip "üzenet archiválása">
+<!ENTITY hdrSmartReplyButton.label "intelligens válasz">
 <!ENTITY hdrReplyButton.label "válasz">
 <!ENTITY hdrReplyButton.tooltip "válasz az üzenetre">
 <!ENTITY hdrReplyAllButton.label "válasz mindenkinek">

@@ -16,3 +16,8 @@
 <!ENTITY  sending_crash_report "Hibajelentés elküldése \u2026">
 <!ENTITY  exit_label "Kilépés">
 <!ENTITY  continue_label "Folytatás">
+
+<!ENTITY  launcher_shortcuts_title "&brandShortName;-webalkalmazások">
+<!ENTITY  launcher_shortcuts_empty "Nem találhatók webalkalmazások">
+
+<!ENTITY choose_file "Fájlválasztás">

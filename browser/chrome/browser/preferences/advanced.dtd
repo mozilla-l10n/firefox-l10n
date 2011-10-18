@@ -18,7 +18,7 @@
 <!ENTITY useSmoothScrolling.label        "Finom görgetés">
 <!ENTITY useSmoothScrolling.accesskey    "F">
 <!ENTITY allowHWAccel.label              "Hardveres gyorsítás használata, ha lehetséges">
-<!ENTITY allowHWAccel.accesskey          "a">
+<!ENTITY allowHWAccel.accesskey          "r">
 <!ENTITY checkSpelling.label             "Helyesírás-ellenőrzés beírás közben">
 <!ENTITY checkSpelling.accesskey         "H">
 
@@ -64,7 +64,7 @@
 <!ENTITY enableAddonsUpdate2.label       "Kiegészítők">
 <!ENTITY enableAddonsUpdate2.accesskey   "i">
 <!ENTITY enableSearchUpdate.label        "Keresőszolgáltatások">
-<!ENTITY enableSearchUpdate.accesskey    "K">
+<!ENTITY enableSearchUpdate.accesskey    "E">
 <!ENTITY whenUpdatesFound.label          "Amikor frissítések érhetők el a &brandShortName; programhoz:">
 <!ENTITY askMe.label                     "Kérdezzen rá, hogy mi a teendő">
 <!ENTITY askMe.accesskey                 "d">
