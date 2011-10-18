@@ -14,12 +14,6 @@
 <!ENTITY editPageCmd.accesskey "R">
 <!ENTITY editPageCmd.commandkey "e">
 
-<!ENTITY printPreviewCmd.label "Forhåndsvis side">
-<!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printCmd.label "Skriv ut …">
-<!ENTITY printCmd.accesskey "u">
-<!ENTITY printCmd.commandkey "p">
-
 <!ENTITY navbarCmd.label "Navigasjonslinje">
 <!ENTITY navbarCmd.accesskey "N">
 <!ENTITY personalbarCmd.label "Personlig verktøylinje">
