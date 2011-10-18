@@ -21,6 +21,7 @@
 <!ENTITY aboutSupport.appBasicsBuildConfig "Konfiguracija verzije">
 <!ENTITY aboutSupport.appBasicsUserAgent "Korisnički agent">
 <!ENTITY aboutSupport.appBasicsCrashIDs "Izvještaji o rušenju">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Upotreba memorije">
 
 <!ENTITY aboutSupport.show.label "Otvori sadržajni direktorij">
 

@@ -19,8 +19,8 @@
 <!ENTITY signIn.account2.accesskey  "A">
 <!ENTITY signIn.password.label      "Lozinka">
 <!ENTITY signIn.password.accesskey  "L">
-<!ENTITY signIn.syncKey.label       "Sync ključ">
-<!ENTITY signIn.syncKey.accesskey   "K">
+<!ENTITY signIn.recoveryKey.label       "Recovery ključ">
+<!ENTITY signIn.recoveryKey.accesskey   "K">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Detalji računa">
@@ -41,12 +41,12 @@
 <!ENTITY setup.tosAgree2.accesskey  "i">
 
 <!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; brine o vašoj privatnosti">
-<!ENTITY setup.newSyncKeyPage.description.label "Za osiguranje vaše potpune privatnosti, svi vaši podaci će biti enkriptovani prije slanja. Vaš Sync ključ koji je neophodan za dekripciju nije poslan.">
-<!ENTITY syncKeyEntry.label        "Vaš Sync ključ">
-<!ENTITY syncKeyEntry.accesskey    "k">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; brine o vašoj privatnosti">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Za osiguranje vaše potpune privatnosti, svi vaši podaci će biti enkriptovani prije slanja. Vaš Recovery ključ koji je neophodan za dekripciju nije poslan.">
+<!ENTITY recoveryKeyEntry.label        "Vaš Recovery ključ">
+<!ENTITY recoveryKeyEntry.accesskey    "K">
 <!ENTITY syncGenerateNewKey.label  "Generiši novi ključ">
-<!ENTITY syncKeyBackup.description "Vaš Sync ključ je neophodan za pristup &syncBrand.fullName.label;u na drugim mašinama. Molimo da kreirate kopiju ključa. Mi vam nećemo moći pomoći da povratite Sync ključ.">
+<!ENTITY recoveryKeyBackup.description "Vaš Recovery ključ je neophodan za pristup &syncBrand.fullName.label;u na drugim mašinama. Molimo da kreirate kopiju ključa. Mi vam nećemo moći pomoći da povratite svoj Recovery ključ.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Štampaj…">
 <!ENTITY button.syncKeyBackup.print.accesskey "p">
@@ -65,12 +65,13 @@
 <!ENTITY addDevice.dialog.enterCode.label   "Unesite kod koji vam uređaj ispiše:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Molimo pokušajte ponovo.">
 <!ENTITY addDevice.dialog.successful.label  "Vaš uređaj je uspješno dodat. Inicijalna sinhronizacija može potrajati nekoliko minuta i završit će se u pozadini.">
-<!ENTITY addDevice.dialog.syncKey.label     "Za aktiviranje vašeg uređaja neophodno je da unesete vaš Sync ključ. Molimo da odštampate ili spasite ovaj ključ i da ga uvijek imate kod sebe.">
+<!ENTITY addDevice.dialog.recoveryKey.label     "Za aktivaciju vašeg uređaja neophodno je da unesete vaš Recovery ključ. Molimo da odštampate ili spasite ovaj ključ i da ga uvijek imate kod sebe.">
 <!ENTITY addDevice.dialog.connected.label   "Uređaj konektovan">
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Prijava">
-<!ENTITY existingSyncKey.description "Kopiju svog Sync ključa možete dobiti tako što ćete na svojim drugim uređajima izabrati &syncBrand.shortName.label; Opcije, a zatim izabrati  &#x0022;Moj Sync ključ&#x0022; pod &#x0022;Upravljanje računom&#x0022;.">
+<!ENTITY existingRecoveryKey.description "Kopiju svog Recovery ključa možete dobiti tako što ćete na svojim drugim uređajima izabrati &syncBrand.shortName.label; Opcije, a zatim izabrati  &#x0022;Moj Recovery ključ&#x0022; pod &#x0022;Upravljanje računom&#x0022;.">
+
 <!ENTITY verifying.label              "Provjeravam…">
 <!ENTITY resetPassword.label          "Resetuj lozinku">
 <!ENTITY resetSyncKey.label           "Izgubio sam drugi uređaj.">

@@ -13,8 +13,8 @@
 <!ENTITY useCurrentPage.label      "Koristi trenutnu stranicu">
 <!ENTITY useCurrentPage.accesskey  "c">
 <!ENTITY useMultiple.label         "Koristi trenutne stranice">
-<!ENTITY useBookmark.label         "Koristi Zabilješke">
-<!ENTITY useBookmark.accesskey     "b">
+<!ENTITY chooseBookmark.label      "Koristi zabilješku…">
+<!ENTITY chooseBookmark.accesskey  "B">
 <!ENTITY restoreDefault.label      "Vrati na izvorne vrijednosti">
 <!ENTITY restoreDefault.accesskey  "r">
 
