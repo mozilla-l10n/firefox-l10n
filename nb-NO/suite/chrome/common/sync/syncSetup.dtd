@@ -20,8 +20,8 @@
 <!ENTITY signIn.account2.accesskey  "K">
 <!ENTITY signIn.password.label      "Passord">
 <!ENTITY signIn.password.accesskey  "P">
-<!ENTITY signIn.syncKey.label       "Sync-nøkkel">
-<!ENTITY signIn.syncKey.accesskey   "k">
+<!ENTITY signIn.recoveryKey.label     "Gjenopprettingsnøkkel">
+<!ENTITY signIn.recoveryKey.accesskey "G">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Kontodetaljer">
@@ -39,14 +39,14 @@
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 
-<!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; bryr seg om sikkerheten din">
-<!ENTITY setup.newSyncKeyPage.description.label "For å beskytte personvernet ditt vil alle data krypteres før den lastes opp. Sync-nøkkelen som er nødvendig for å dekryptere dine data vil ikke lastes opp.">
-<!ENTITY syncKeyEntry.label        "Sync-nøkkel">
-<!ENTITY syncKeyEntry.accesskey    "S">
-<!ENTITY syncKeyGenerate.label     "Generer">
-<!ENTITY syncKeyGenerate.accesskey "G">
-<!ENTITY syncKeyBackup.description "Sync-nøkkelen din er påkrevd for å få tilgang til &syncBrand.fullName.label; på flere maskiner. Lag en sikkerhetskopi. Vi kan ikke hjelpe deg å finne tilbake tilbake en glemt Sync-nøkkel.">
+<!-- New Account Page 2: Recovery Key -->
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; bryr seg om sikkerheten din">
+<!ENTITY setup.newRecoveryKeyPage.description.label "For å beskytte personvernet ditt vil alle data krypteres før den lastes opp. Gjenopprettingsnøkkelen som er nødvendig for å dekryptere dine data vil ikke lastes opp.">
+<!ENTITY recoveryKeyEntry.label        "Gjenopprettingsnøkkel">
+<!ENTITY recoveryKeyEntry.accesskey    "n">
+<!ENTITY recoveryKeyGenerate.label     "Generer">
+<!ENTITY recoveryKeyGenerate.accesskey "G">
+<!ENTITY recoveryKeyBackup.description "Gjenopprettingsnøkkelen din er påkrevd for å få tilgang til &syncBrand.fullName.label; på flere maskiner. Lag en sikkerhetskopi. Vi kan ikke hjelpe deg å finne tilbake tilbake en glemt gjenopprettingsnøkkelen.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Skriv ut …">
 <!ENTITY button.syncKeyBackup.print.accesskey "S">
@@ -66,12 +66,12 @@
 <!ENTITY addDevice.dialog.enterCode.label   "Skriv inn koden som enheten oppgir:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Prøv igjen.">
 <!ENTITY addDevice.dialog.successful.label  "Enheten ble lagt til. Den første synkroniseringen kan ta flere minutter, og vil fullføre i bakgrunnen.">
-<!ENTITY addDevice.dialog.syncKey.label     "For å aktivere enheten må du skrive inn Sync-nøkkelen. Gjerne skriv ut eller lagre denne nøkkelen og ta den med deg.">
+<!ENTITY addDevice.dialog.recoveryKey.label "For å aktivere enheten må du skrive inn gjenopprettingsnøkkelen. Gjerne skriv ut eller lagre denne nøkkelen og ta den med deg.">
 <!ENTITY addDevice.dialog.connected.label   "Enhet tilkoblet">
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Logg inn">
-<!ENTITY existingSyncKey.description  "Du kan skaffe en kopi av Sync-nøkkelen din ved å gå til &syncBrand.shortName.label; Innstillinger på den andre enheten, og velge &#x0022;Min Sync-nøkkel&#x0022; under &#x0022;Behandle konto&#x0022;.">
+<!ENTITY existingRecoveryKey.description "Du kan skaffe en kopi av gjenopprettingsnøkkelen din ved å gå til &syncBrand.shortName.label; Innstillinger på den andre enheten, og velge &#x0022;Min gjenopprettingsnøkkel&#x0022; under &#x0022;Behandle konto&#x0022;.">
 <!ENTITY verifying.label              "Bekrefter …">
 <!ENTITY resetPassword.label          "Tilbakestill passord">
 <!ENTITY resetSyncKey.label           "Jeg har mistet den andre enheten min.">
