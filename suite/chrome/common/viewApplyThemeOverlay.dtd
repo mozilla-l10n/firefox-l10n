@@ -1,0 +1,6 @@
+<!ENTITY applyTheme.label          "Bruk tema">
+<!ENTITY applyTheme.accesskey      "B">
+<!ENTITY getNewThemesCmd.label     "Hent nye temaer">
+<!ENTITY getNewThemesCmd.accesskey "H">
+<!ENTITY getPersonasCmd.label      "Hent Personas">
+<!ENTITY getPersonasCmd.accesskey  "e">
