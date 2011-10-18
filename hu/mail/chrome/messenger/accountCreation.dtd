@@ -77,6 +77,6 @@
 <!ENTITY insecureServer.tooltip.title    "Vigyázat! Ez a kiszolgáló nem biztonságos.">
 <!ENTITY insecureServer.tooltip.details  "A részletekért kattintson a körre.">
 
-<!ENTITY insecureUnencrypted.description "A levele és a hitelesítő adatai titkosítás nélkül lettek elküldve, ami azt jelenti, hogy a jelszavát (és a levelét) illetéktelek is elolvashatják. A &brandShortName; megengedi az ilyen módon történő levelezést, de javasoljuk, hogy kérje meg szolgáltatóját a kiszolgáló olyan konfigurálására, hogy az lehetővé tegye a biztonságos kapcsolatot.">
+<!ENTITY insecureUnencrypted.description "A levele és a hitelesítő adatai titkosítás nélkül lettek elküldve, ami azt jelenti, hogy a jelszavát (és a levelét) illetéktelenek is elolvashatják. A &brandShortName; megengedi az ilyen módon történő levelezést, de javasoljuk, hogy kérje meg szolgáltatóját a kiszolgáló olyan konfigurálására, hogy az lehetővé tegye a biztonságos kapcsolatot.">
 <!ENTITY insecureSelfSigned.description  "A kiszolgáló egy olyan tanúsítványt használ, amelyben nem bízunk meg, tehát nem lehetünk biztosan abban, hogy valaki nem hallgatja-e le az adatforgalmat a &brandShortName; és a kiszolgáló között. A &brandShortName; megengedi az ilyen módon történő levelezést, de javasoljuk, hogy kérje meg szolgáltatóját a kiszolgáló olyan konfigurálására, hogy az megbízható tanúsítványt használjon.">
 <!ENTITY secureServer.description        "Gratulálunk! Ez a kiszolgáló biztonságos.">
