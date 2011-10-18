@@ -18,6 +18,13 @@
 <!ENTITY newNavigatorCmd.label "Vindu">
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "N">
+<!ENTITY printSetupCmd.label "Utskriftsformat …">
+<!ENTITY printSetupCmd.accesskey "k">
+<!ENTITY printPreviewCmd.label "Forhåndsvisning">
+<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printCmd.label "Skriv ut …">
+<!ENTITY printCmd.accesskey "u">
+<!ENTITY printCmd.key "P">
 
 <!ENTITY editMenu.label                   "Rediger">
 <!ENTITY editMenu.accesskey               "R">
