@@ -125,6 +125,8 @@
 <!ENTITY undoMarkAllCmd.label "Zhbëje Shënimin të Tëra Si të Lexuara">
 
 <!-- View Menu -->
+<!ENTITY menubarCmd.label "Shtyllë Menush">
+<!ENTITY menubarCmd.accesskey "S">
 <!ENTITY showMessengerToolbarCmd.label "Panel Poste">
 <!ENTITY showMessengerToolbarCmd.accesskey "P">
 <!ENTITY customizeToolbar.label "Përshtatni…">
@@ -230,6 +232,8 @@
 <!ENTITY bodySanitized.accesskey "J">
 <!ENTITY bodyAsPlaintext.label "Tekst i Thjeshtë">
 <!ENTITY bodyAsPlaintext.accesskey "e">
+<!ENTITY bodyAllParts.label "Krejt Pjesët e Trupit">
+<!ENTITY bodyAllParts.accesskey "P">
 
 <!ENTITY bodyMenuFeed.label "Sille Lëndën e Mesazhit Si">
 <!ENTITY bodyMenuFeed.accesskey "S">
@@ -273,6 +277,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageSourceCmd.label "Burim Mesazhi">
 <!ENTITY pageSourceCmd.accesskey "B">
 <!ENTITY pageSourceCmd.key "u">
+<!ENTITY getNewMessagesCmd.key "y">
+<!ENTITY getAllNewMessagesCmd.key "Y">
 
 <!-- Search Menu -->
 <!ENTITY findMenu.label "Gjej">
@@ -503,12 +509,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY previousButton.label "I mëparshmi">
 <!ENTITY backButton1.label "Mbrapsht">
 <!ENTITY goForwardButton1.label "Përpara">
+<!ENTITY deleteItem.title "Fshirje">
 <!ENTITY deleteButton.label "Fshije">
 <!ENTITY undeleteButton.label "Çfshije">
 <!ENTITY markButton.label "Shënoje">
 <!ENTITY printButton.label "Shtype">
 <!ENTITY stopButton.label "Ndal">
 <!ENTITY throbberItem.title "Tregues Veprimtarie">
+<!ENTITY junkItem.title "E pavlerë">
 <!ENTITY junkButton.label "E pavlerë">
 <!ENTITY notJunkButton.label "Jo e Pavlerë">
 <!ENTITY addressBookButton.label "Libër Adresash">

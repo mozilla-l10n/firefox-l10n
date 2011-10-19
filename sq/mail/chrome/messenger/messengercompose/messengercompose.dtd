@@ -91,6 +91,8 @@
 <!ENTITY viewMenu.accesskey "S">
 <!ENTITY viewToolbarsMenuNew.label "Panele"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "n"> 
+<!ENTITY menubarCmd.label "Shtyllë Menush">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showCompositionToolbarCmd.label "Panel Hartimi">
 <!ENTITY showCompositionToolbarCmd.accesskey "H">
 <!ENTITY showFormattingBarCmd.label "Panel Formatimi">
