@@ -1,13 +1,13 @@
 <!ENTITY upgrade.style               "width: 93ch; height: 448px;">
 
 <!ENTITY checking.heading            "Preverjanje vaših dodatkov">
-<!ENTITY checking.progress.label     "Preverja se, ali so vaši dodatki skladni z inačico &brandShortName;.">
+<!ENTITY checking.progress.label     "Preverjanje združljivosti vaših dodatkov s trenutno različico &brandShortName;a.">
 
 <!ENTITY select.heading              "Izberite svoje dodatke">
 <!-- LOCALIZATION NOTE (select.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
-<!ENTITY select.description          "&brandShortName; lahko še pospešite, če dodatke, ki jih ne rabite več, onemogočite. Že nameščene Dodatke iz tretje roke se bo samodejno onesposobilo, če jih spodaj ne izberete.">
-<!ENTITY select.keep                 "Zadrži">
+<!ENTITY select.description          "&brandShortName; lahko še pohitrite, če onemogočite dodatke, ki jih ne rabite več. Že nameščeni dodatki iz tretje roke bodo samodejno onemogočeni, razen če jih izberete spodaj.">
+<!ENTITY select.keep                 "Obdrži">
 <!-- LOCALIZATION NOTE (select.keep.style): Should be a width wide enough for
      the string in select.keep above. -->
 <!ENTITY select.keep.style           "width: 6ch;">
@@ -25,20 +25,21 @@
 <!ENTITY confirm.heading             "Izberite svoje dodatke">
 <!-- LOCALIZATION NOTE (confirm.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
-<!ENTITY confirm.description         "brandShortName; lahko še pospešite, če onemogočite dodatke, ki jih ne rabite več. Že nameščene Dodatke iz tretje roke se bo samodejno onesposobilo, če jih spodaj ne izberete.">
-<!ENTITY action.disable.heading      "Naslednje dodatke se bo onemogočilo:">
-<!ENTITY action.incompatible.heading "Naslednje dodatke se bo onemogočilo, vedar bodo znova omogočeni, ko bo na razpolago skladna različica:">
-<!ENTITY action.update.heading       "Naslednje dodatke se bo posodobilo:">
-<!ENTITY action.enable.heading       "Naslednje dodatke se bo posodobilo:">
+<!ENTITY confirm.description         "&brandShortName; lahko še pohitrite, če onemogočite dodatke, ki jih ne rabite več. Že nameščeni dodatki iz tretje roke bodo samodejno onemogočeni, razen če jih izberete spodaj.">
 
-<!ENTITY update.heading              "Posodabljanje vaših dodatkov">
-<!ENTITY update.progress.label       "Prenos in nameščanje izbranih dodatkov.">
+<!ENTITY action.disable.heading      "Naslednji dodatki bodo onemogočeni:">
+<!ENTITY action.incompatible.heading "Naslednji dodatki bodo onemogočeni, vedar bodo znova omogočeni, ko bo na voljo združljiva različica:">
+<!ENTITY action.update.heading       "Naslednji dodatki bodo posodobljeni:">
+<!ENTITY action.enable.heading       "Naslednji dodatki bodo omogočeni:">
+
+<!ENTITY update.heading              "Posodobitev vaših dodatkov">
+<!ENTITY update.progress.label       "Prenašanje in nameščanje posodobitev za izbrane dodatke.">
 
 <!ENTITY errors.heading              "&brandShortName; nekaterih dodatkov ni uspel posobiti.">
-<!ENTITY errors.description          "Namestitev nekaterih dodatkov ni uspela. &brandShortName; jih bo skušal samodejno posodobiti kasneje.">
+<!ENTITY errors.description          "Posodobitev nekaterih dodatkov ni uspela. &brandShortName; jih bo poskušal samodejno posodobiti kasneje.">
 
 <!ENTITY footer.label                "Svoje dodatke lahko vedno prilagodite v Upravitelju dodatkov.">
 <!ENTITY cancel.label                "Prekliči">
 <!ENTITY back.label                  "Nazaj">
-<!ENTITY next.label                  "Dalje">
-<!ENTITY done.label                  "Končano">
+<!ENTITY next.label                  "Naprej">
+<!ENTITY done.label                  "Končaj">
