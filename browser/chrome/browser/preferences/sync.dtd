@@ -14,7 +14,7 @@
 <!ENTITY manageAccount.accesskey      "a">
 <!ENTITY viewQuota.label              "Prikaži omejitve">
 <!ENTITY changePassword2.label        "Spremeni geslo …">
-<!ENTITY mySyncKey.label              "Moj usklajevalni ključ">
+<!ENTITY myRecoveryKey.label          "Moj obnovitveni ključ">
 <!ENTITY resetSync2.label             "Ponastavi usklajevanje …">
 
 <!ENTITY addDevice.label              "Dodaj napravo">

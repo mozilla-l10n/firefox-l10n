@@ -19,8 +19,8 @@
 <!ENTITY signIn.account2.accesskey  "R">
 <!ENTITY signIn.password.label      "Geslo">
 <!ENTITY signIn.password.accesskey  "G">
-<!ENTITY signIn.syncKey.label       "usklajevalni ključ">
-<!ENTITY signIn.syncKey.accesskey   "K">
+<!ENTITY signIn.recoveryKey.label       "Obnovitveni ključ">
+<!ENTITY signIn.recoveryKey.accesskey   "K">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Podrobnosti računa">
@@ -41,12 +41,12 @@
 <!ENTITY setup.tosAgree2.accesskey  "">
 
 <!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; spoštuje vašo zasebnost">
-<!ENTITY setup.newSyncKeyPage.description.label "Za zagotovitev najvišje stopnje zasebnosti se vsi vaši podatki pred prenosom šifrirajo. usklajevalni ključ, ki je potreben za dešifriranje, pa se ne prenaša.">
-<!ENTITY syncKeyEntry.label        "Vaš usklajevalni ključ">
-<!ENTITY syncKeyEntry.accesskey    "K">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; spoštuje vašo zasebnost">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Za zagotovitev najvišje stopnje zasebnosti se vsi vaši podatki pred prenosom šifrirajo. Obnovitveni ključ, ki je potreben za dešifriranje, pa se ne prenaša.">
+<!ENTITY recoveryKeyEntry.label        "Vaš obnovitveni ključ">
+<!ENTITY recoveryKeyEntry.accesskey    "K">
 <!ENTITY syncGenerateNewKey.label  "Ustvari nov ključ">
-<!ENTITY syncKeyBackup.description "usklajevalni ključ je potreben za dostop do storitve &syncBrand.fullName.label; na drugih napravah. Ustvarite varnostno kopijo, saj vam ga ne moremo obnoviti.">
+<!ENTITY recoveryKeyBackup.description "Obnovitveni ključ potrebujete za dostop do storitve &syncBrand.fullName.label; na drugih napravah. Ustvarite varnostno kopijo, saj vam ga ne moremo obnoviti.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Natisni …">
 <!ENTITY button.syncKeyBackup.print.accesskey "N">
@@ -65,12 +65,13 @@
 <!ENTITY addDevice.dialog.enterCode.label   "Vnesite kodo, ki jo ponuja naprava:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Poskusite znova.">
 <!ENTITY addDevice.dialog.successful.label  "Naprava je bila dodana uspešno. Začetno usklajevanje lahko traja nekaj minut in se bo končala v ozadju.">
-<!ENTITY addDevice.dialog.syncKey.label     "Za vklop vaše naprave boste morali vnesti svoj usklajevalni ključ. Natisnite ga ali shranite in ga imejte pri sebi.">
+<!ENTITY addDevice.dialog.recoveryKey.label     "Za vklop vaše naprave boste morali vnesti svoj obnovitveni ključ. Natisnite ga ali shranite in ga imejte pri sebi.">
 <!ENTITY addDevice.dialog.connected.label   "Naprava je povezana">
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Prijava">
-<!ENTITY existingSyncKey.description "Kopijo usklajevalnega ključa lahko najdete v nastavitvah storitve &syncBrand.shortName.label; vaše druge naprave. Izberite &#x0022;Upravljanje računa&#x0022; in nato &#x0022;Moj usklajevalni ključ&#x0022;.">
+<!ENTITY existingRecoveryKey.description "Kopijo obnovitvenega ključa lahko najdete v nastavitvah storitve &syncBrand.shortName.label; vaše druge naprave. Izberite &#x0022;Upravljanje računa&#x0022; in nato &#x0022;Moj obnovitveni ključ&#x0022;.">
+
 <!ENTITY verifying.label              "Preverjanje …">
 <!ENTITY resetPassword.label          "Ponastavi geslo">
 <!ENTITY resetSyncKey.label           "Izgubil sem drugo napravo.">
