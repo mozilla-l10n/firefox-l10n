@@ -13,8 +13,8 @@
 <!ENTITY useCurrentPage.label "Uporabi trenutno stran">
 <!ENTITY useCurrentPage.accesskey "T">
 <!ENTITY useMultiple.label "Uporabi trenutne strani">
-<!ENTITY useBookmark.label "Uporabi zaznamek">
-<!ENTITY useBookmark.accesskey "z">
+<!ENTITY chooseBookmark.label      "Uporabi zaznamek …">
+<!ENTITY chooseBookmark.accesskey  "z">
 <!ENTITY restoreDefault.label "Uporabi privzeto stran">
 <!ENTITY restoreDefault.accesskey "i">
 
