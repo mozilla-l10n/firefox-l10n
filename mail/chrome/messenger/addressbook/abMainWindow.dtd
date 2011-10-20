@@ -79,6 +79,8 @@
 <!ENTITY viewMenu.accesskey                             "p">
 <!ENTITY viewToolbarsMenu.label                         "Orodne vrstice">
 <!ENTITY viewToolbarsMenu.accesskey                     "R"> 
+<!ENTITY menubarCmd.label                               "Vrstica z menijem">
+<!ENTITY menubarCmd.accesskey                           "M">
 <!ENTITY showAbToolbarCmd.label                         "Orodna vrstica za adresar">
 <!ENTITY showAbToolbarCmd.accesskey                     "A">
 <!ENTITY showTaskbarCmd.label                           "Vrstica stanja">

@@ -68,11 +68,6 @@
 <!ENTITY publishAsCmd.accesskey "j">
 <!ENTITY saveAsChangeEncodingCmd.label "Shrani in spremeni nabor znakov">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "h">
-<!ENTITY printSetupCmd.label "Nastavitve strani …">
-<!ENTITY printSetupCmd.accesskey "r">
-<!ENTITY printCmd.label "Natisni …">
-<!ENTITY printCmd.accesskey "N">
-<!ENTITY printCmd.key "N">
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "Urejaj">

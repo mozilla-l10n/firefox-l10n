@@ -94,13 +94,16 @@
 <!ENTITY leftRightEditField.label "Levo in desno:">
 <!ENTITY leftRightEditField.accessKey "L">
 <!ENTITY topBottomEditField.label "Zgoraj in spodaj:">
-<!ENTITY topBottomEditField.accessKey "Z">
+<!ENTITY topBottomEditField.accessKey "Z">	
 <!ENTITY borderEditField.label "Neprekinjen rob:">
 <!ENTITY borderEditField.accessKey "N">
 
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "Pokaži rob okoli povezane strani">
 <!ENTITY showImageLinkBorder.accessKey "P">
+<!ENTITY LinkAdvancedEditButton.label "Napredno urejanje povezave…">
+<!ENTITY LinkAdvancedEditButton.accessKey "u">
+<!ENTITY LinkAdvancedEditButton.tooltip "Dodaj ali uredi prilastke za HTML in slog ter JavaScript">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "Obrazec">

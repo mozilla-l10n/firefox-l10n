@@ -92,6 +92,8 @@
 <!ENTITY viewMenu.accesskey "p">
 <!ENTITY viewToolbarsMenuNew.label "Orodne vrstice"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "R"> 
+<!ENTITY menubarCmd.label "Vrstica z meniji">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showCompositionToolbarCmd.label "Orodna vrstica za sestavke">
 <!ENTITY showCompositionToolbarCmd.accesskey "S">
 <!ENTITY showFormattingBarCmd.label "Orodna vrstica za oblikovanje">
