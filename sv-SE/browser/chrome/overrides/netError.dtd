@@ -54,7 +54,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Utgånget dokument">
-<!ENTITY notCached.longDesc "<p>Det efterfrågade dokumentet finns inte längre i Firefox cache.</p><ul><li>Av säkerhetsskäl försöker inte Firefox automatiskt att hämta om känsliga dokument.</li><li>Klicka på Försök igen för att åter hämta dokumentet från webbplatsen.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Det efterfrågade dokumentet finns inte längre i &brandShortName; cache.</p><ul><li>Av säkerhetsskäl försöker inte &brandShortName; automatiskt att hämta om känsliga dokument.</li><li>Klicka på Försök igen för att åter hämta dokumentet från webbplatsen.</li></ul>">
 
 <!ENTITY netOffline.title "Nedkopplat läge">
 <!ENTITY netOffline.longDesc2 "
