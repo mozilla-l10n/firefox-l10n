@@ -31,7 +31,7 @@
 <!ENTITY showCondensedAddresses.label  "Diskwel an anv evit an den eus ma c'harned chomlec'hioù nemetken">
 <!ENTITY showCondensedAddresses.accesskey "D">
 
-<!ENTITY autoMarkAsRead.label          "Merkañ ar c'hemennadennoù evel lennet ent-emgefreek">
+<!ENTITY autoMarkAsRead.label          "Merkañ ar c'hemennadennoù evel lennet ent emgefreek">
 <!ENTITY autoMarkAsRead.accesskey      "a">
 <!ENTITY markAsReadNoDelay.label       "Adalek ar skrammañ">
 <!ENTITY markAsReadNoDelay.accesskey   "s">
@@ -52,7 +52,7 @@
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "S">
 
 <!-- Update -->
-<!ENTITY autoCheck.label                "Klask an hizivadurioù ent-emgefreek evit :">
+<!ENTITY autoCheck.label                "Klask an hizivadurioù ent emgefreek evit :">
 <!ENTITY enableAppUpdate.label          "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey      "h">
 <!ENTITY enableAddonsUpdate.label       "Askouezhioù bet staliet">
@@ -60,8 +60,8 @@
 <!ENTITY whenUpdatesFound.label         "Ur wech kavet hizivadurioù eus &brandShortName;,">
 <!ENTITY modeAskMe.label                "Goulenn ganin petra a fell din ober">
 <!ENTITY modeAskMe.accesskey            "a">
-<!ENTITY modeAutomatic.label            "Pellgargañ ent-emgefreek ha staliañ an hizivadur">
-<!ENTITY modeAutomatic.accesskey        "d">
+<!ENTITY modeAutomatic.label            "Pellgargañ ha staliañ ent emgefreek an hizivadur">
+<!ENTITY modeAutomatic.accesskey        "a">
 <!ENTITY modeAutoAddonWarn.label        "Kas keloù din hag-eñ e vo diweredekaet unan eus ma askouezhioù">
 <!ENTITY modeAutoAddonWarn.accesskey    "-">
 <!ENTITY showUpdates.label              "Diskouez istor an hizivadurioù">
@@ -96,8 +96,8 @@
 
 <!-- Certificates -->
 <!ENTITY certSelection.description       "Pa vez goulennet ma zesteni personel gant un dafariad:">
-<!ENTITY certs.auto                      "Diuz unan ent-emgefre">
-<!ENTITY certs.auto.accesskey            "u">
+<!ENTITY certs.auto                      "Diuz unan ent emgefreek">
+<!ENTITY certs.auto.accesskey            "D">
 <!ENTITY certs.ask                       "Goulenn diganin bewech">
 <!ENTITY certs.ask.accesskey             "b">
 

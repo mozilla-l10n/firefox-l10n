@@ -58,7 +58,7 @@
 
 <!ENTITY updateTab.label                 "Hizivaat">
 
-<!ENTITY autoCheck.label                 "Klask an hizivadurioù ent-emgefreek evit :">
+<!ENTITY autoCheck.label                 "Klask an hizivadurioù ent emgefreek evit :">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey       "F">
 <!ENTITY enableAddonsUpdate2.label       "Askouezhioù">
@@ -68,7 +68,7 @@
 <!ENTITY whenUpdatesFound.label          "Pa vez kavet hizivadurioù nevez evit &brandShortName; :">
 <!ENTITY askMe.label                     "Goulenn diganin petra ober">
 <!ENTITY askMe.accesskey                 "n">
-<!ENTITY modeAutomatic.label             "Pellgargañ ha staliañ ent-emgefreek an hizivadur nevez ">
+<!ENTITY modeAutomatic.label             "Pellgargañ ha staliañ ent emgefreek an hizivadur">
 <!ENTITY modeAutomatic.accesskey         "a">
 <!ENTITY modeAutoAddonWarn.label         "Kas keloù din mar bez dizaotreet un askouezh bennak">
 <!ENTITY modeAutoAddonWarn.accesskey     "k">
@@ -95,7 +95,7 @@
 <!ENTITY useTLS1.accesskey               "1">
 <!ENTITY certificates.label              "Testenioù">
 <!ENTITY certSelection.description       "Pa vez goulennet ma zesteni personel gant un dafariad :">
-<!ENTITY certs.auto                      "Diuz unan ent-emgefre">
+<!ENTITY certs.auto                      "Diuz unan ent emgefreek">
 <!ENTITY certs.auto.accesskey            "D">
 <!ENTITY certs.ask                       "Goulenn diganin bewech">
 <!ENTITY certs.ask.accesskey             "G">

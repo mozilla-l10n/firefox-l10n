@@ -70,7 +70,7 @@
 <!ENTITY rights.locationawarebrowsing-term4 "Diweredekaet eo ar merdeiñ gant kelaouiñ ho lec'hiadur">
 
 <!-- intro paragraph for unbranded builds -->
-<!ENTITY rights.webservices-unbranded "Un alberz war gwazerezhioù al lec'hiennoù web enkorfet er c'henderc'had, gant an ditouroù evit gouzout penaos o diweredekaat, mar bez tro, a zlefe bezañ kavet amañ.">
+<!ENTITY rights.webservices-unbranded "Un alberz war gwazerezhioù al lec'hiennoù web enkorfet er c'henderc'had, gant an titouroù evit gouzout penaos o diweredekaat, mar bez tro, a zlefe bezañ kavet amañ.">
 
 <!-- point 1 text for unbranded builds -->
 <!ENTITY rights.webservices-term1-unbranded "An holl dermenoù arloadus e-keñver ar gwazerezh evit ar c'henderc'had-mañ a rankfe bezañ kavet amañ.">

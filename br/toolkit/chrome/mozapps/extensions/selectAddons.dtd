@@ -6,7 +6,7 @@
 <!ENTITY select.heading              "Diuzañ hoc'h askouezhioù">
 <!-- LOCALIZATION NOTE (select.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
-<!ENTITY select.description          "Lakait &brandShortName; da vezañ herrekoc'h c'hoazh en ur ziweredekaat an askouezhioù nad int ket ken arveret ganeoc'h. An askouezhioù staliet gant tredeoù a vo diweredekaet ent-emgefreek nemet ha diuzañ a rit anezho amañ dindan.">
+<!ENTITY select.description          "Lakait &brandShortName; da vezañ herrekoc'h c'hoazh en ur ziweredekaat an askouezhioù nad int ket ken arveret ganeoc'h. An askouezhioù staliet gant tredeoù a vo diweredekaet ent emgefreek nemet ha diuzañ a rit anezho amañ dindan.">
 <!ENTITY select.keep                 "Mirout">
 <!-- LOCALIZATION NOTE (select.keep.style): Should be a width wide enough for
      the string in select.keep above. -->
@@ -25,7 +25,7 @@
 <!ENTITY confirm.heading             "Diuzañ hoc'h askouezhioù">
 <!-- LOCALIZATION NOTE (confirm.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
-<!ENTITY confirm.description         "Lakait &brandShortName; da vezañ herrekoc'h c'hoazh en ur ziweredekaat an askouezhioù nad int ket ken arveret ganeoc'h. An askouezhioù staliet gant tredeoù a vo diweredekaet ent-emgefreek nemet ha diuzañ a rit anezho amañ dindan.">
+<!ENTITY confirm.description         "Lakait &brandShortName; da vezañ herrekoc'h c'hoazh en ur ziweredekaat an askouezhioù nad int ket ken arveret ganeoc'h. An askouezhioù staliet gant tredeoù a vo diweredekaet ent emgefreek nemet ha diuzañ a rit anezho amañ dindan.">
 
 <!ENTITY action.disable.heading      "Diweredekaet e vo an askouezhioù da heul :">
 <!ENTITY action.incompatible.heading "Diweredekaet eo an askouezhioù da heul met gweredekaet e vint adal ma vint keverlec'h :">
@@ -36,7 +36,7 @@
 <!ENTITY update.progress.label       "O pellgargañ ha staliañ hizivadurioù evit hoc'h askouezhioù diuzet.">
 
 <!ENTITY errors.heading              "N'hall ket &brandShortName; hizivaat ul lod eus hoc'h askouezhioù.">
-<!ENTITY errors.description          "C'hwitet en deus staliadur ul lod eus hoc'h askouezhioù. &brandShortName; a glasko hizivaat anezho ent-emgefreek en-dro diwezhatoc'h.">
+<!ENTITY errors.description          "C'hwitet en deus staliadur ul lod eus hoc'h askouezhioù. &brandShortName; a glasko hizivaat anezho ent emgefreek en-dro diwezhatoc'h.">
 
 <!ENTITY footer.label                "Gallout a rit bepred kemmañ hoc'h askouezhioù dre arverañ ardoer an askouezhioù.">
 <!ENTITY cancel.label                "Dilezel">

@@ -11,7 +11,7 @@
 <!ENTITY reorderUpButton.accesskey "u">
 <!ENTITY reorderDownButton.label "Dilec'hiañ izeloc'h">
 <!ENTITY reorderDownButton.accesskey "i">
-<!ENTITY filterHeader.label "Lañset eo ar siloù gweredekaet ent-emgefre diouzh an urzh da heul.">
+<!ENTITY filterHeader.label "Lañset eo ar siloù gweredekaet ent emgefreek diouzh an urzh da heul.">
 <!ENTITY filtersForPrefix.label "Siloù evit :">
 <!ENTITY filtersForPrefix.accesskey "S">
 <!ENTITY viewLogButton.label "Logaritm silañ">

@@ -3,7 +3,7 @@
 <!ENTITY  popupExceptions.label       "Nemedennoù">
 <!ENTITY  popupExceptions.accesskey   "N">
 
-<!ENTITY  loadImages.label            "Kargañ ar skeudennoù ent-emgefre">
+<!ENTITY  loadImages.label            "Kargañ ar skeudennoù ent emgefreek">
 <!ENTITY  loadImages.accesskey        "K">
 <!ENTITY  exceptions.label            "Nemedennoù">
 <!ENTITY  exceptions.accesskey        "e">

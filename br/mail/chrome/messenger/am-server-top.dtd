@@ -35,7 +35,7 @@
 <!ENTITY daysEnd.label "a zeizioù">
 <!ENTITY deleteOnServer2.label "Betek ma vo dilamet ganin">
 <!ENTITY deleteOnServer2.accesskey "d">
-<!ENTITY downloadOnBiff.label "Pellgargañ ar c'hemennadennoù nevez ent-emgefre">
+<!ENTITY downloadOnBiff.label "Pellgargañ ar c'hemennadennoù nevez ent emgefreek">
 <!ENTITY downloadOnBiff.accesskey "m">
 <!ENTITY username.label "Hoc'h anv lugañ">
 <!ENTITY deleteMessagePrefix.label "Pa vez lamet kuit ur gemennadenn ganin :">

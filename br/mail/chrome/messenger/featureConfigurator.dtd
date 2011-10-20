@@ -12,7 +12,7 @@
 
 <!ENTITY featureConfigurator.toolbar.heading "Barrenn ostilhoù nevez evit ar c'hemennadennoù">
 <!ENTITY featureConfigurator.toolbar.new "Barrenn ostilhoù an afelloù kemennadenn">
-<!ENTITY featureConfigurator.toolbar.new.status.explanation "Ur varrenn ostilhoù sklaer gant holl hoc'h afelloù kemennadenn.">
+<!ENTITY featureConfigurator.toolbar.new.status.explanation "Ur varrenn ostilhoù sklaer gant hoc'h holl afelloù kemennadenn.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.toolbar.original): The word 'original' is chosen deliberately to be neutral, vs. 'old' which in English at least had a negative connotation.-->
 <!ENTITY featureConfigurator.toolbar.original "Mirout hoc'h afelloù orinel war ar varrenn ostilhoù">

@@ -19,8 +19,8 @@
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Aozañ ar c'hemennadennoù e mentrezh HTML">
 <!ENTITY useHtml.accesskey                    "z">
-<!ENTITY autoQuote.label                      "Menegiñ ent-emgefre ar gemennadenn a orin pa vez aozet ur respont">
-<!ENTITY autoQuote.accesskey                  "m">
+<!ENTITY autoQuote.label                      "Menegiñ ent emgefreek ar gemennadenn a orin pa vez aozet ur respont">
+<!ENTITY autoQuote.accesskey                  "M">
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY then.label                           "Neuze,">
 <!ENTITY then.accesskey                       "z">

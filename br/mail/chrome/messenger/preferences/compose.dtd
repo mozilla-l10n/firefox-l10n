@@ -35,9 +35,9 @@
 <!ENTITY autoSave.accesskey                   "e">
 <!ENTITY autoSaveEnd.label                    "a vunutennoù">
 
-<!ENTITY emailCollectionPicker.label           "Ouzhpennañ ent-emgefre ar chomlec'hioù eus ar posteloù kaset d'am :">
+<!ENTITY emailCollectionPicker.label           "Ouzhpennañ ent emgefreek ar chomlec'hioù eus ar posteloù kaset d'am :">
 <!ENTITY emailCollectionPicker.accesskey       "t">
-<!ENTITY addressingTitle.label                 "Peurklokaat ar chomlec'h ent-emgefreek">
+<!ENTITY addressingTitle.label                 "Peurklokaat ar chomlec'h ent emgefreek">
 <!ENTITY autocompleteText.label                "Pa lakait chomlec'h ar c'hemennadennoù, sellit ouzh an enankadoù a glot e :">
 <!ENTITY addressingEnable.label                "Karned-chomlec'hioù lec'hel">
 <!ENTITY addressingEnable.accesskey            "a">

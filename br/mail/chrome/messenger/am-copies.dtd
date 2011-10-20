@@ -1,7 +1,7 @@
 <!-- extracted from am-copies.xul -->
 
 <!ENTITY copyAndFolderTitle.label "Eiladoù ha teuliadoù">
-<!ENTITY sendingPrefix.label "Pa vez kaset kemennadennoù, ober ent-emgefre :">
+<!ENTITY sendingPrefix.label "Pa vez kaset kemennadennoù, ober ent emgefreek : ">
 <!ENTITY fccMailFolder.label "Eilañ e-barzh :">
 <!ENTITY fccMailFolder.accesskey "b">
 <!ENTITY fccReplyFollowsParent.label "Lakaat ar respontoù e teuliad ar c'hemennadennoù da vezañ respontet">

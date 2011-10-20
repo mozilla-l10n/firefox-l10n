@@ -3,7 +3,7 @@
 <!ENTITY loading.label                        "O kargañ…">
 <!ENTITY listEmpty.installed.label            "N'eus askouezh ebet eus ar rizh-mañ staliet">
 <!ENTITY listEmpty.availableUpdates.label     "Hizivadenn ebet kavet">
-<!ENTITY listEmpty.recentUpdates.label        "N'hoc'h eus ket hizivaet askouezh ebet a-nevez zo">
+<!ENTITY listEmpty.recentUpdates.label        "N'hoc'h eus ket hizivaet askouezh ebet nevez zo">
 <!ENTITY listEmpty.findUpdates.label          "Klask hizivadennoù">
 <!ENTITY listEmpty.search.label               "Askouezh ebet bet kavet">
 <!ENTITY listEmpty.button.label               "Gouzout hiroc'h a-zivout an askouezhioù">
@@ -49,7 +49,7 @@
      update checking behavior for all add-ons to the default global behavior
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
-<!ENTITY updates.resetUpdatesToAutomatic.label       "Adderaouekaat an holl askouezhioù a-benn ma vint hizivaet ent-emgefreek">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Adderaouekaat an holl askouezhioù a-benn ma vint hizivaet ent emgefreek">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "r">
 <!ENTITY updates.resetUpdatesToManual.label          "Adderaouekaat an holl askouezhioù a-benn ma vint hizivaet gant an dorn">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "r">
@@ -122,9 +122,9 @@
 <!ENTITY detail.updateDefault.label           "Diouer">
 <!ENTITY detail.updateDefault.tooltip         "Staliañ emgefreek an hizivadennoù mar bez an arventenn dre ziouer">
 <!ENTITY detail.updateAutomatic.label         "Gweredekaet">
-<!ENTITY detail.updateAutomatic.tooltip       "Staliañ an hizivadurioù ent-emgefreek">
+<!ENTITY detail.updateAutomatic.tooltip       "Staliañ an hizivadurioù ent emgefreek">
 <!ENTITY detail.updateManual.label            "Diweredekaet">
-<!ENTITY detail.updateManual.tooltip          "Arabat staliañ an hizivadennoù ent-emgefreek">
+<!ENTITY detail.updateManual.tooltip          "Arabat staliañ an hizivadennoù ent emgefreek">
 <!ENTITY detail.home                          "Pennbajenn">
 <!ENTITY detail.repository                    "Aelad an askouezh">
 <!ENTITY detail.size                          "Ment">

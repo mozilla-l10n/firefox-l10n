@@ -8,7 +8,7 @@
 <!ENTITY testpilot.settings.newStudy.label              "Ur studiadenn nevez ez eus">
 <!ENTITY testpilot.settings.hasNewResults.label         "Disoc'hoù nevez ez eus gant ur studiadenn">
 <!ENTITY testpilot.settings.alwaysSubmitData.shortLabel "Treuzkas ma roadennoù emgefreek (Na c'houlenn ganin)">
-<!ENTITY testpilot.allYourStudies.label                 "Holl ho studioù arveriad">
+<!ENTITY testpilot.allYourStudies.label                 "Ho holl studioù arveriad">
 <!ENTITY testpilot.about.label                          "Diwar-benn Test Pilot">
 
 <!-- all studies window -->

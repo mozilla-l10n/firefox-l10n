@@ -42,7 +42,7 @@
 
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
-<!ENTITY allAutosync.label               "Goubredañ an holl gemennadennoù ent-lec'hel hep dezverk oad">
+<!ENTITY allAutosync.label               "Goubredañ an holl gemennadennoù ent lec'hel hep dezverk oad">
 <!ENTITY allAutosync.accesskey           "o">
 <!ENTITY ageAutosyncBefore.label         "Goubredañ ar c'hemennadennoù nevesañ">
 <!ENTITY ageAutosync.accesskey           "n">
