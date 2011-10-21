@@ -226,6 +226,8 @@
 <!ENTITY bodySanitized.accesskey "S">
 <!ENTITY bodyAsPlaintext.label "Teks Polos">
 <!ENTITY bodyAsPlaintext.accesskey "P">
+<!ENTITY bodyAllParts.label "Semua Bagian Isi">
+<!ENTITY bodyAllParts.accesskey "g">
 
 <!ENTITY bodyMenuFeed.label "Isi Pesan Feed sebagai">
 <!ENTITY bodyMenuFeed.accesskey "I">
