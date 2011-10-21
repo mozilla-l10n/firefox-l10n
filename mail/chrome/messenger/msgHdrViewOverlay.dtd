@@ -59,6 +59,7 @@
 <!ENTITY editMessageButton.label "Sunting…">
 <!ENTITY hdrArchiveButton.label "arsipkan">
 <!ENTITY hdrArchiveButton.tooltip "arsipkan pesan ini">
+<!ENTITY hdrSmartReplyButton.label "balasan pintar">
 <!ENTITY hdrReplyButton.label "balas">
 <!ENTITY hdrReplyButton.tooltip "balas pesan ini">
 <!ENTITY hdrReplyAllButton.label "balas ke semua">
