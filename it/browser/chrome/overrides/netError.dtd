@@ -37,7 +37,7 @@
 <!ENTITY netInterrupt.title "La connessione è stata interrotta">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 <!ENTITY notCached.title "Documento scaduto">
-<!ENTITY notCached.longDesc "<p>Il documento richiesto non è più disponibile nella cache di Firefox.</p><ul><li>Per ragioni di sicurezza Firefox non effettua automaticamente una nuova richiesta per documenti sensibili.</li><li>Fare clic su Riprova per richiedere nuovamente il documento al sito web.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Il documento richiesto non è più disponibile nella cache di &brandShortName;.</p><ul><li>Per ragioni di sicurezza &brandShortName; non effettua automaticamente una nuova richiesta per documenti sensibili.</li><li>Fare clic su Riprova per richiedere nuovamente il documento al sito web.</li></ul>">
 <!ENTITY netOffline.title "Non in linea">
 <!ENTITY netOffline.longDesc2 "
 <ul>
