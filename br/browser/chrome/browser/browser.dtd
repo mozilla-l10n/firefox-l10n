@@ -259,7 +259,7 @@ can reach it easily. -->
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "Kregiñ ar merdeiñ prevez">
 <!ENTITY privateBrowsingCmd.start.accesskey     "p">
-<!ENTITY privateBrowsingCmd.stop.label          "Paouezañ ar merdeiñ prevez">
+<!ENTITY privateBrowsingCmd.stop.label          "Paouez gant ar merdeiñ prevez">
 <!ENTITY privateBrowsingCmd.stop.accesskey      "P">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 

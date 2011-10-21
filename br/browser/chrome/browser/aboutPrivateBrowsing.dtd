@@ -4,7 +4,7 @@
 <!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; ne zalc'ho ket soñj ar roll istor evit an estez-mañ.">
 <!ENTITY privatebrowsingpage.issueDesc.normal          "Evit c'hoazh, &brandShortName; n'eo ket en ar mod Merdeiñ Prevez.">
 
-<!ENTITY privatebrowsingpage.description               "En un estez Merdeiñ Prevez, &brandShortName; ne zalc'ho ket ar roll istor, ar c'hlaskoù, ar roll pellgargadur, ar furmskridoù, an toupinoù pe ar restroù kenrouedad padennek. Koulskoude, ar restroù pellgarget hag ar sinedoù a vo miret.">
+<!ENTITY privatebrowsingpage.description               "En un estez Merdeiñ Prevez, ne zalc'ho ket &brandShortName; ar roll istor, ar c'hlaskoù, ar roll pellgargañ, ar furmskridoù, an toupinoù pe ar restroù kenrouedad padennek. Koulskoude, miret e vo ar restroù pellgarget hag ar sinedoù.">
 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
@@ -20,5 +20,5 @@
 <!ENTITY privatebrowsingpage.howToStop2                "A-benn arsaviñ ar Merdeiñ prevez, diuzit &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label;, pe serrit &brandShortName;.">
 <!ENTITY privatebrowsingpage.howToStart2               "A-benn loc'hañ ar Merdeiñ prevez e vez diuzet &basePBMenu.label; &gt; &privateBrowsingCmd.start.label; ivez.">
 
-<!ENTITY privatebrowsingpage.moreInfo                  "Ha pa an urzhiataer-mañ ne zalc'h ket ar roll istor ho merdeiñ, ho pourvezer servijoù ar genrouedad (ISP) pe hoc'h implijer a c'hall gouzout c'hoazh ar pajennadoù hoc'h eus gweladennet.">
+<!ENTITY privatebrowsingpage.moreInfo                  "Ha pa ne zalc'hfe ket an urzhiataer-mañ roll istor ho merdeiñ, e c'hallo ho pourvezer servijoù ar genrouedad (ISP) pe hoc'h implijer gouzout c'hoazh ar pajennadoù bet gweladennet ganeoc'h.">
 <!ENTITY privatebrowsingpage.learnMore                 "Gouzout hiroc'h">
