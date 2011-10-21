@@ -6,7 +6,7 @@
 <!ENTITY select.heading              "Wählen Sie Ihre Add-ons">
 <!-- LOCALIZATION NOTE (select.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
-<!ENTITY select.description          "&brandShortName; wird noch schneller, wenn Add-ons deaktiviert werden, die Sie nicht mehr benutzen. Add-ons, die von Fremdanbietern bereits installiert wurden, werden automatisch deaktiviert, außer Sie wählen Sie in folgender Liste.">
+<!ENTITY select.description          "&brandShortName; wird noch schneller, wenn Add-ons deaktiviert werden, die Sie nicht mehr benutzen. Add-ons, die von Fremdanbietern bereits installiert wurden, werden automatisch deaktiviert, außer Sie wählen sie in folgender Liste.">
 <!ENTITY select.keep                 "Behalten">
 <!-- LOCALIZATION NOTE (select.keep.style): Should be a width wide enough for
      the string in select.keep above. -->
@@ -25,7 +25,7 @@
 <!ENTITY confirm.heading             "Wählen Sie Ihre Add-ons">
 <!-- LOCALIZATION NOTE (confirm.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
-<!ENTITY confirm.description         "&brandShortName; wird noch schneller, wenn Add-ons deaktiviert werden, die Sie nicht mehr benutzen. Add-ons, die von Fremdanbietern bereits installiert wurden, werden automatisch deaktiviert, außer Sie wählen Sie in folgender Liste.">
+<!ENTITY confirm.description         "&brandShortName; wird noch schneller, wenn Add-ons deaktiviert werden, die Sie nicht mehr benutzen. Add-ons, die von Fremdanbietern bereits installiert wurden, werden automatisch deaktiviert, außer Sie wählen sie in folgender Liste.">
 
 <!ENTITY action.disable.heading      "Die folgenden Add-ons werden deaktiviert:">
 <!ENTITY action.incompatible.heading "Die folgenden Add-ons sind deaktiviert, werden aber aktiviert, sobald sie kompatibel sind:">
