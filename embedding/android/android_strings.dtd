@@ -14,3 +14,8 @@
 <!ENTITY  sending_crash_report "Mengirim laporan kerusakan\u2026">
 <!ENTITY  exit_label "Keluar">
 <!ENTITY  continue_label "Lanjutkan">
+
+<!ENTITY  launcher_shortcuts_title "Apl Web &brandShortName;">
+<!ENTITY  launcher_shortcuts_empty "Tidak ada apl web ditemukan">
+
+<!ENTITY choose_file "Pilih Berkas">
