@@ -39,10 +39,10 @@
 <!ENTITY overrideSmartCacheSize.accesskey "N">
 <!ENTITY updateTab.label "Aggiornamenti">
 <!ENTITY updateApp.label "Aggiornamenti di &brandShortName;:">
-<!ENTITY updateAuto.label "Installa automaticamente gli aggiornamenti (consigliato: maggiore sicurezza)">
+<!ENTITY updateAuto.label "Installa automaticamente aggiornamenti (consigliato: maggiore sicurezza)">
 <!ENTITY updateAuto.accesskey "s">
-<!ENTITY updateCheck.label "Cerca aggiornamenti ma permetti all'utente di scegliere se installarli">
-<!ENTITY updateCheck.accesskey "e">
+<!ENTITY updateCheck.label "Controlla aggiornamenti ma permetti all'utente di scegliere se installarli">
+<!ENTITY updateCheck.accesskey "r">
 <!ENTITY updateManual.label "Non cercare aggiornamenti (non consigliato: rischi per la sicurezza)">
 <!ENTITY updateManual.accesskey "N">
 <!ENTITY updateAutoAddonWarn.label "Avvisa se verranno disattivati dei componenti aggiuntivi">
