@@ -5,7 +5,6 @@
 <!ENTITY certerror.pagetitle "Sambungan Tidak Terpercaya">
 <!ENTITY certerror.longpagetitle "Sambungan Ini Tidak Terpercaya">
 <!ENTITY certerror.introPara1 "Anda telah meminta &brandShortName; untuk tersambung ke <b>#1</b> secara aman, tetapi tidak dapat dikonfirmasi apakah sambungan Anda benar-benar aman.">
-<!ENTITY certerror.introPara2 "Umumnya jika Anda mencoba tersambung dalam mode aman, situs akan mengembalikan identifikasi yang dapat dipercaya yang membuktikan bahwa Anda sedang berada pada alamat yang benar. Akan tetapi identitas situs ini tidak dapat diverifikasi.">
 <!ENTITY certerror.whatShouldIDo.heading "Apa yang Harus Saya Lakukan?">
 <!ENTITY certerror.whatShouldIDo.content "Jika umumnya Anda tersambung dengan situs ini tanpa masalah, pesan kesalahan ini dapat berarti pihak tertentu mencoba menyamar menjadi server pada alamat di atas dan sebaiknya tidak Anda lanjutkan.">
 <!ENTITY certerror.getMeOutOfHere.label "Kabur!">
