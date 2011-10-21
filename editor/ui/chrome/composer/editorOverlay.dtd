@@ -73,9 +73,6 @@
 <!ENTITY printCmd.label "Cetak…">
 <!ENTITY printCmd.accesskey "C">
 <!ENTITY printCmd.key "p">
-<!ENTITY closeCmd.label "Tutup">
-<!ENTITY closeCmd.accesskey "T">
-<!ENTITY closeCmd.key "w">
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "Ubah">
@@ -91,17 +88,6 @@
 <!ENTITY pasteAsQuotationCmd.accesskey "K">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Cari dan Ganti…">
-<!ENTITY findCmd.accesskey "C">
-<!ENTITY findCmd.key "f">
-<!ENTITY findCmd.key2 "VK_F19">
-<!ENTITY findAgainCmd.label "Cari Lagi">
-<!ENTITY findAgainCmd.accesskey "g">
-<!ENTITY findAgainCmd.key "g">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Cari Sebelumnya">
-<!ENTITY findPrevCmd.accesskey "S">
-<!ENTITY findPrevCmd.key "g">
-<!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Periksa Ejaan saat Mengetik">
 <!ENTITY enableInlineSpellChecker.accesskey "e">
 <!ENTITY checkSpellingCmd2.label "Periksa Ejaan">
@@ -140,22 +126,6 @@
 <!ENTITY editLinkCmd.label "Sunting Tautan di Composer">
 <!ENTITY editLinkCmd.accesskey "S">
 <!-- (Toplevel Edit menu uses utilityOverlay) -->
-<!ENTITY undoCmd.label "Batal">
-<!ENTITY undoCmd.accesskey "B">
-<!ENTITY redoCmd.label "Ulangi">
-<!ENTITY redoCmd.accesskey "U">
-<!ENTITY cutCmd.label "Potong">
-<!ENTITY cutCmd.accesskey "P">
-<!ENTITY copyCmd.label "Salin">
-<!ENTITY copyCmd.accesskey "S">
-<!ENTITY pasteCmd.label "Tempel">
-<!ENTITY pasteCmd.accesskey "T">
-<!ENTITY deleteCmd.label "Hapus">
-<!ENTITY deleteCmd.accesskey "H">
-<!ENTITY clearCmd.label "Bersihkan">
-<!ENTITY clearCmd.accesskey "k">
-<!ENTITY selectAllCmd.label "Pilih Semua">
-<!ENTITY selectAllCmd.accesskey "a">
 
 <!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip "Pilih Huruf">
@@ -396,6 +366,9 @@
 <!ENTITY openToolbarCmd.tooltip "Buka berkas lokal">
 <!ENTITY saveToolbarCmd.tooltip "Simpan berkas ke lokasi lokal">
 <!ENTITY publishToolbarCmd.tooltip "Unggah berkas ke lokasi daring">
+<!ENTITY cutToolbarCmd.tooltip "Potong">
+<!ENTITY copyToolbarCmd.tooltip "Salin">
+<!ENTITY pasteToolbarCmd.tooltip "Tempel">
 <!ENTITY printToolbarCmd.label "Cetak">
 <!ENTITY printToolbarCmd.tooltip "Cetak Laman Ini">
 <!ENTITY findToolbarCmd.label "Cari">
