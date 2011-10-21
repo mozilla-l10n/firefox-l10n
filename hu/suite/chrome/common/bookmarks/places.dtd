@@ -67,8 +67,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label "Élő könyvjelző frissítése">
 <!ENTITY cmd.reloadLivebookmark.accesskey "f">
-<!ENTITY cmd.reloadMicrosummary.label "Élő cím frissítése">
-<!ENTITY cmd.reloadMicrosummary.accesskey "c">
 
 <!ENTITY cmd.moveBookmarks.label "Áthelyezés...">
 <!ENTITY cmd.moveBookmarks.accesskey "t">
