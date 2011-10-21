@@ -252,6 +252,8 @@
 <!ENTITY bodySanitized.accesskey "E">
 <!ENTITY bodyAsPlaintext.label "Normál szöveg">
 <!ENTITY bodyAsPlaintext.accesskey "s">
+<!ENTITY bodyAllParts.label "Minden elem a levéltörzsből">
+<!ENTITY bodyAllParts.accesskey "M">
 
 <!ENTITY bodyMenuFeed.label "Hír üzenettörzse, mint">
 <!ENTITY bodyMenuFeed.accesskey "H">
@@ -273,16 +275,7 @@
 <!ENTITY pageSourceCmd.key "u">
 
 <!ENTITY findCmd.label "Keresés ebben az üzenetben…">
-<!ENTITY findCmd.accesskey "K">
-<!ENTITY findCmd.key "f">
-<!ENTITY findAgainCmd.label "Következő keresése">
-<!ENTITY findAgainCmd.accesskey "K">
-<!ENTITY findAgainCmd.key "K">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Előző keresése">
-<!ENTITY findPrevCmd.accesskey "E">
-<!ENTITY findPrevCmd.key "E">
-<!ENTITY findPrevCmd.key2 "VK_F3">
+
 <!-- Go Menu -->
 
 

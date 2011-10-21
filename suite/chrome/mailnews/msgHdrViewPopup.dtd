@@ -47,5 +47,8 @@
 <!ENTITY copyLinkCmd.label "Hivatkozás címének másolása">
 <!ENTITY copyLinkCmd.accesskey "v">
 <!ENTITY CopyMessageId.label "Üzenetazonosító másolása">
+<!ENTITY CopyMessageId.accesskey "m">
 <!ENTITY OpenMessageForMsgId.label "Üzenetazonosítóhoz tartozó üzenet megnyitása">
+<!ENTITY OpenMessageForMsgId.accesskey "t">
 <!ENTITY OpenBrowserWithMsgId.label "Üzenetazonosítóhoz tartozó üzenet böngészése">
+<!ENTITY OpenBrowserWithMsgId.accesskey "b">
