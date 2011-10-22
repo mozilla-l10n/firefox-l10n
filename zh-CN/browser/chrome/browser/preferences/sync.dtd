@@ -13,9 +13,9 @@
 <!ENTITY manageAccount.label          "管理帐户">
 <!ENTITY manageAccount.accesskey      "A">
 <!ENTITY viewQuota.label              "查看配额">
-<!ENTITY changePassword2.label         "修改密码…">
-<!ENTITY mySyncKey.label              "我的同步密钥">
-<!ENTITY resetSync2.label              "重设同步…">
+<!ENTITY changePassword2.label        "修改密码…">
+<!ENTITY myRecoveryKey.label          "我的恢复密钥">
+<!ENTITY resetSync2.label             "重设同步…">
 
 <!ENTITY addDevice.label              "添加设备">
 

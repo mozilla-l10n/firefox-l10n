@@ -24,7 +24,7 @@ used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-<!ENTITY  pinAppTab.label                    "固定为应用程序标签页">
+<!ENTITY  pinAppTab.label                    "固定为应用标签页">
 <!ENTITY  pinAppTab.accesskey                "P">
 <!ENTITY  unpinAppTab.label                  "取消固定标签页">
 <!ENTITY  unpinAppTab.accesskey              "b">
@@ -194,6 +194,9 @@ can reach it easily. -->
 <!ENTITY inspectMenu.accesskey        "T">
 <!ENTITY inspectMenu.commandkey       "I">
 
+<!ENTITY inspectContextMenu.label     "检查元素">
+<!ENTITY inspectContextMenu.accesskey "Q">
+
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -281,7 +284,7 @@ can reach it easily. -->
 <!ENTITY historyRestoreLastSession.label "恢复上一次会话">
 
 <!ENTITY historyHomeCmd.label "主页">
-<!ENTITY showAllHistoryCmd2.label "显示全部历史">
+<!ENTITY showAllHistoryCmd2.label "显示所有历史">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuEdit.label "编辑">
@@ -298,7 +301,7 @@ can reach it easily. -->
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "转到一个网站">
 <!ENTITY urlbar.accesskey             "d">
-<!ENTITY urlbar.switchToTab.label     "切换到标签:">
+<!ENTITY urlbar.switchToTab.label     "切换到标签页：">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -356,9 +359,9 @@ can reach it easily. -->
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
 <!ENTITY reloadImageCmd.label         "重新载入图像">
 <!ENTITY reloadImageCmd.accesskey     "R">
-<!ENTITY viewImageCmd.label           "查看图片">
+<!ENTITY viewImageCmd.label           "查看图像">
 <!ENTITY viewImageCmd.accesskey       "I">
-<!ENTITY viewImageInfoCmd.label       "查看图片信息">
+<!ENTITY viewImageInfoCmd.label       "查看图像信息">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
 <!ENTITY viewVideoCmd.label           "查看视频">
 <!ENTITY viewVideoCmd.accesskey       "I">
@@ -401,7 +404,7 @@ can reach it easily. -->
 <!ENTITY sendAudioCmd.accesskey       "n">
 <!ENTITY copyLinkCmd.label            "复制链接地址">
 <!ENTITY copyLinkCmd.accesskey        "a">
-<!ENTITY copyImageCmd.label           "复制图片地址">
+<!ENTITY copyImageCmd.label           "复制图像地址">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "复制图像">
 <!ENTITY copyImageContentsCmd.accesskey  "y"> 
