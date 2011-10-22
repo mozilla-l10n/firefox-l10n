@@ -35,14 +35,14 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField3.label "to ">
+<!ENTITY toField3.label "za ">
 <!ENTITY fromField3.label "od ">
 <!ENTITY senderField3.label "pošiljatelj ">
 <!ENTITY organizationField3.label "organizacija ">
 <!ENTITY replyToField3.label "odgovor-za ">
 
-<!ENTITY subjectField3.label "zadeva ">>
-<!ENTITY ccField3.label "kb ">
+<!ENTITY subjectField3.label "zadeva ">
+<!ENTITY ccField3.label "kp ">
 <!ENTITY bccField3.label "skp">
 <!ENTITY newsgroupsField3.label "novičarske skupine ">
 <!ENTITY followupToField3.label "nadaljnje delo-za ">
@@ -68,7 +68,7 @@
 <!ENTITY hdrForwardButton1.label "posreduj">
 <!ENTITY hdrForwardButton1.tooltip "posreduj to sporočilo">
 <!ENTITY hdrJunkButton1.label "neželeno">
-<!ENTITY hdrJunkButton1.ooltip "označi to sporočilo kot neželeno">
+<!ENTITY hdrJunkButton1.tooltip "označi to sporočilo kot neželeno">
 <!ENTITY hdrTrashButton1.label "Izbriši">
 <!ENTITY hdrTrashButton1.tooltip "Izbriši to sporočilo">
 
@@ -118,10 +118,10 @@
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "š">
 
 <!-- Attachment toolbar items -->
-<!ENTITY saveAttachmentButton.label       "shrani">
-<!ENTITY saveAttachmentButton.tooltip     "shrani pripeto datoteko">
-<!ENTITY saveAllAttachmentsButton.label   "shrani vse">
-<!ENTITY saveAllAttachmentsButton.tooltip "shrani vse pripete datoteke">
+<!ENTITY saveAttachmentButton1.label       "shrani">
+<!ENTITY saveAttachmentButton1.tooltip     "shrani pripeto datoteko">
+<!ENTITY saveAllAttachmentsButton1.label   "shrani vse">
+<!ENTITY saveAllAttachmentsButton1.tooltip "shrani vse pripete datoteke">
 
 <!ENTITY copyLinkCmd.label        "Kopiraj mesto povezave">
 <!ENTITY copyLinkCmd.accesskey    "K">
