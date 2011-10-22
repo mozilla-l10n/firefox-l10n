@@ -20,8 +20,8 @@
 <!ENTITY viewQuota.accesskey          "V">
 <!ENTITY changePassword.label         "修改密码">
 <!ENTITY changePassword.accesskey     "C">
-<!ENTITY mySyncKey.label              "我的同步密钥">
-<!ENTITY mySyncKey.accesskey          "M">
+<!ENTITY myRecoveryKey.label          "我的恢复密钥">
+<!ENTITY myRecoveryKey.accesskey      "M">
 <!ENTITY resetSync.label              "重置同步">
 <!ENTITY resetSync.accesskey          "R">
 <!ENTITY deactivateDevice.label       "停用此设备">

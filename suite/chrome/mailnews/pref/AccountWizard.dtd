@@ -5,9 +5,9 @@
 
 <!-- Entities for Account Type page -->
 
-<!ENTITY accountSetupInfo.label "要收取消息，您必须先设置一个邮件或新闻组帐号。">
+<!ENTITY accountSetupInfo2.label "为了接收消息，您必须先建立一个帐户。">
 <!ENTITY accountTypeTitle.label "新建帐户设置">
-<!ENTITY accountTypeDesc.label "此向导将收集设置邮件或新闻组帐户的必需信息。如果不知道请求的信息，请与系统管理员或因特网服务提供商联系。">
+<!ENTITY accountTypeDesc2.label "这个向导会收集必要的信息用来创建一个帐户.如果您不知道其中必要的信息，请联系系统管理员或者互联网服务提供商.">
 <!ENTITY accountTypeDirections.label "选择您要设置的帐户类型：">
 <!ENTITY accountTypeMail.label "电子邮件帐号">
 <!ENTITY accountTypeMail.accesskey "m">

@@ -49,13 +49,6 @@
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
 
-<!ENTITY applyTheme.label "应用主题">
-<!ENTITY applyTheme.accesskey "A">
-<!ENTITY getNewThemesCmd.label "获取新的主题">
-<!ENTITY getNewThemesCmd.accesskey "G">
-<!ENTITY getPersonasCmd.label "获取炫彩风格">
-<!ENTITY getPersonasCmd.accesskey "P">
-
 <!-- Go Menu -->
 <!ENTITY goMenu.label "转到">
 <!ENTITY goMenu.accesskey "G">

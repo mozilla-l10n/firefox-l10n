@@ -11,10 +11,7 @@
 <!-- menu items:  the . means that the menu item isn't implemented yet -->
 
 <!-- File menu items -->
-<!ENTITY newMessage.label "消息">  
-<!ENTITY newMessage.accesskey "M">  
 <!ENTITY saveCmd.label "保存">
-<!ENTITY saveCmd.key "S">
 <!ENTITY saveCmd.accesskey "s">
 <!ENTITY saveAsCmd.label "另存为">
 <!ENTITY saveAsCmd.accesskey "A">
@@ -39,11 +36,6 @@
 <!ENTITY sendLaterCmd.label "以后发送">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "L">
-<!ENTITY printSetupCmd.label "打印设置…">
-<!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printCmd.label "打印…">
-<!ENTITY printCmd.key "P">
-<!ENTITY printCmd.accesskey "P">
 
 <!-- Edit menu items -->
 <!ENTITY editRewrapCmd.label "重新排版">
@@ -74,7 +66,6 @@
 <!ENTITY selectAddressCmd.accesskey "A">
 
 <!ENTITY checkSpellingCmd2.label "拼写检查…">
-<!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY checkSpellingCmd2.accesskey "h">
 <!ENTITY enableInlineSpellChecker.label "输入同时进行拼写检查">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
@@ -135,8 +126,6 @@
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
 <!ENTITY spellCheckAddToDictionary.label "添加至字典">
 <!ENTITY spellCheckAddToDictionary.accesskey "n">
-<!ENTITY pasteQuote.label "粘贴为引文">
-<!ENTITY pasteQuote.accesskey "Q">
 
 <!ENTITY openAttachment.label "打开
 ">

@@ -18,6 +18,13 @@
 <!ENTITY newNavigatorCmd.label "浏览器窗口">
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "B">
+<!ENTITY printSetupCmd.label "打印设置…">
+<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printPreviewCmd.label "打印预览">
+<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printCmd.label "打印…">
+<!ENTITY printCmd.accesskey "P">
+<!ENTITY printCmd.key "P">
 
 <!ENTITY editMenu.label                   "编辑">
 <!ENTITY editMenu.accesskey               "E">
