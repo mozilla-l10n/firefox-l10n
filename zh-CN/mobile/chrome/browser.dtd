@@ -93,9 +93,11 @@
 <!ENTITY consoleErrColumn.label    "列：">
 
 <!ENTITY contextOpenInNewTab.label    "在新标签页中打开">
-<!ENTITY contextSaveLink.label        "保存链接">
 <!ENTITY contextSaveImage.label       "保存图片">
 <!ENTITY contextCopyLink.label        "复制链接">
+<!ENTITY contextCopyEmail.label       "复制邮件地址">
+<!ENTITY contextCopyPhone.label       "复制电话号码">
+<!ENTITY contextCopyImageLocation.label       "复制图像地址">
 <!ENTITY contextShareLink.label       "分享链接">
 <!ENTITY contextShareImage.label      "分享图片">
 <!ENTITY contextBookmarkLink.label    "将链接加为书签">
@@ -116,6 +118,5 @@
 <!ENTITY pageactions.findInPage      "页内查找">
 <!ENTITY pageactions.search.addNew   "添加搜索引擎">
 <!ENTITY pageactions.charEncoding    "字符编码">
-<!ENTITY pageactions.webapps.install "安装为应用">
 
 <!ENTITY appMenu.siteOptions         "站点选项">
