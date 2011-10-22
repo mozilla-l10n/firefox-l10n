@@ -3,7 +3,6 @@
 <!ENTITY sync.connect               "连接">
 <!ENTITY sync.connected             "已连接">
 <!ENTITY sync.details               "详情">
-<!ENTITY sync.synchronize           "启用同步">
 <!ENTITY sync.deviceName            "该设备">
 <!ENTITY sync.disconnect            "断开连接">
 <!ENTITY sync.syncNow               "立即同步">
@@ -14,7 +13,7 @@
 <!ENTITY sync.setup.manual          "输入您的同步账户信息">
 <!ENTITY sync.account               "帐户名称">
 <!ENTITY sync.password              "密码">
-<!ENTITY sync.syncKey               "同步密钥">
+<!ENTITY sync.recoveryKey           "恢复密钥">
 <!ENTITY sync.customServer          "使用自定义服务器">
 <!ENTITY sync.serverURL             "服务器网址">
 <!ENTITY sync.setup.connect         "连接">
