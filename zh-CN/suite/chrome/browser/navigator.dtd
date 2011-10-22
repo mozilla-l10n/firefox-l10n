@@ -14,12 +14,6 @@
 <!ENTITY editPageCmd.accesskey "E">
 <!ENTITY editPageCmd.commandkey "e">
 
-<!ENTITY printPreviewCmd.label "打印预览">
-<!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printCmd.label "打印…">
-<!ENTITY printCmd.accesskey "p">
-<!ENTITY printCmd.commandkey "p">
-
 <!ENTITY navbarCmd.label "导航工具栏">
 <!ENTITY navbarCmd.accesskey "N">
 <!ENTITY personalbarCmd.label "个人工具栏">

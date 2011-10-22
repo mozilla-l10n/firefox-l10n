@@ -20,8 +20,8 @@
 <!ENTITY signIn.account2.accesskey  "A">
 <!ENTITY signIn.password.label      "密码">
 <!ENTITY signIn.password.accesskey  "P">
-<!ENTITY signIn.syncKey.label       "同步密钥">
-<!ENTITY signIn.syncKey.accesskey   "K">
+<!ENTITY signIn.recoveryKey.label     "恢复密钥">
+<!ENTITY signIn.recoveryKey.accesskey "K">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "帐户资料">
@@ -39,14 +39,14 @@
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 
-<!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; 保护您的隐私">
-<!ENTITY setup.newSyncKeyPage.description.label "为了保护您的全部隐私，所有数据上传前都会加密。解密您的数据所需的同步密钥不会上传。">
-<!ENTITY syncKeyEntry.label        "您的同步密钥">
-<!ENTITY syncKeyEntry.accesskey    "K">
-<!ENTITY syncKeyGenerate.label     "生成">
-<!ENTITY syncKeyGenerate.accesskey "G">
-<!ENTITY syncKeyBackup.description "在其他机器访问 &syncBrand.fullName.label; 您的同步密钥是必须的。请创建一个备份副本。我们不能帮助您恢复您的同步密钥。">
+<!-- New Account Page 2: Recovery Key -->
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; 关心您的隐私">
+<!ENTITY setup.newRecoveryKeyPage.description.label "为确保您的隐私，所有数据在上传之前都已经过加密。对数据解密的恢复密钥未上传。">
+<!ENTITY recoveryKeyEntry.label        "您的恢复密钥">
+<!ENTITY recoveryKeyEntry.accesskey    "K">
+<!ENTITY recoveryKeyGenerate.label     "生成">
+<!ENTITY recoveryKeyGenerate.accesskey "G">
+<!ENTITY recoveryKeyBackup.description "您需要提供恢复密钥以便从其他计算机访问 &syncBrand.fullName.label; 。请备份该密钥。我们将无法帮助您恢复您的恢复密钥。">
 
 <!ENTITY button.syncKeyBackup.print.label     "打印…">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
@@ -66,12 +66,12 @@
 <!ENTITY addDevice.dialog.enterCode.label   "请输入该设备提供的代码：">
 <!ENTITY addDevice.dialog.tryAgain.label    "请重试。">
 <!ENTITY addDevice.dialog.successful.label  "已成功添加该设备。初次的数据同步可能会长达数分钟，且该工作会在后台自动完成。">
-<!ENTITY addDevice.dialog.syncKey.label     "要激活您的设备，您需要输入您的同步密钥。请打印或保存此密钥并随身携带它。">
+<!ENTITY addDevice.dialog.recoveryKey.label "要激活您的设备，您需要输入您的恢复密钥。请打印或者保存此密钥并随身携带。">
 <!ENTITY addDevice.dialog.connected.label   "设备已连接">
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "登录">
-<!ENTITY existingSyncKey.description  "你可以从其他设备上查看 &syncBrand.shortName.label; 的首选项/选项，在 “管理帐户”下“我的同步密钥”中，复制一份您的同步密钥。">
+<!ENTITY existingRecoveryKey.description "您可以到您其他设备的 &syncBrand.shortName.label; 选项页面然后选择 &#x0022;管理帐户&#x0022; 下的 &#x0022;我的恢复密钥 &#x0022; 来获取一个拷贝。">
 <!ENTITY verifying.label              "正在校验…">
 <!ENTITY resetPassword.label          "重置密码">
 <!ENTITY resetSyncKey.label           "我丢失了其它设备。">
