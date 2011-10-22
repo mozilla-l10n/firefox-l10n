@@ -54,7 +54,7 @@
 <!ENTITY fileRecentMenu.label "最近的页面">
 <!ENTITY fileRecentMenu.accesskey "R">
 <!ENTITY fileRevert.label "恢复">
-<!ENTITY fileRevert.accesskey "v">
+<!ENTITY fileRevert.accesskey "t">
 <!ENTITY saveCmd.label "保存">
 <!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveCmd.key "S">
@@ -68,11 +68,6 @@
 <!ENTITY publishAsCmd.accesskey "h">
 <!ENTITY saveAsChangeEncodingCmd.label "保存并改变字符编码">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "E">
-<!ENTITY printSetupCmd.label "页面设置…">
-<!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printCmd.label "打印…">
-<!ENTITY printCmd.accesskey "P">
-<!ENTITY printCmd.key "P">
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "编辑">

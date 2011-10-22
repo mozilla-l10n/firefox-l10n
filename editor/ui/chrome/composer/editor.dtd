@@ -49,7 +49,7 @@
 
 <!-- File menu items -->
 <!ENTITY exportToTextCmd.label "导出至文本…">
-<!ENTITY exportToTextCmd.accesskey "T">
+<!ENTITY exportToTextCmd.accesskey "x">
 <!ENTITY previewCmd.label "浏览页面">
 <!ENTITY previewCmd.accesskey "w">
 <!ENTITY sendPageCmd.label "发送页面…">

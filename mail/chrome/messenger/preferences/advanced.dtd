@@ -6,6 +6,9 @@
 
 <!-- General Settings -->
 
+<!ENTITY submitTelemetry.label         "提交性能数据">
+<!ENTITY submitTelemetry.accesskey     "P">
+<!ENTITY telemetryInfoLink.label       "更多有关遥测的信息">
 <!ENTITY enableGlodaSearch.label       "启用全局搜索以及索引">
 <!ENTITY enableGlodaSearch.accesskey   "E">
 <!ENTITY systemIntegration.label       "系统集成">

@@ -92,6 +92,8 @@
 <!ENTITY viewMenu.accesskey "v">
 <!ENTITY viewToolbarsMenuNew.label "工具栏"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "T"> 
+<!ENTITY menubarCmd.label "菜单栏">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showCompositionToolbarCmd.label "编写工具栏">
 <!ENTITY showCompositionToolbarCmd.accesskey "o">
 <!ENTITY showFormattingBarCmd.label "格式栏">

@@ -79,6 +79,8 @@
 <!ENTITY viewMenu.accesskey                             "v">
 <!ENTITY viewToolbarsMenu.label                         "工具栏">
 <!ENTITY viewToolbarsMenu.accesskey                     "T"> 
+<!ENTITY menubarCmd.label                               "菜单栏">
+<!ENTITY menubarCmd.accesskey                           "M">
 <!ENTITY showAbToolbarCmd.label                         "通讯录工具栏">
 <!ENTITY showAbToolbarCmd.accesskey                     "o">
 <!ENTITY showTaskbarCmd.label                           "状态栏">
