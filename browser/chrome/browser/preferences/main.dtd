@@ -13,8 +13,8 @@
 <!ENTITY useCurrentPage.label      "使用当前页">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "使用当前页面">
-<!ENTITY useBookmark.label         "使用书签">
-<!ENTITY useBookmark.accesskey     "B">
+<!ENTITY chooseBookmark.label      "使用书签…">
+<!ENTITY chooseBookmark.accesskey  "B">
 <!ENTITY restoreDefault.label      "恢复默认设置">
 <!ENTITY restoreDefault.accesskey  "R">
 

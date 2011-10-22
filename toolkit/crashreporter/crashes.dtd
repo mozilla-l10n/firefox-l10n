@@ -1,4 +1,4 @@
-<!ENTITY crashes.title              "已提交崩溃报告">
+<!ENTITY crashes.title              "已提交的崩溃报告">
 <!ENTITY id.heading                 "报告 ID">
 <!ENTITY date.heading               "提交日期">
 <!ENTITY noReports.label            "没有提交崩溃报告。">

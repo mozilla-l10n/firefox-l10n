@@ -75,7 +75,7 @@
 <!ENTITY proxyResolveFailure.title "无法找到代理服务器">
 <!ENTITY proxyResolveFailure.longDesc "<ul><li>请检查浏览器的代理服务器设置是否正确。</li><li>请检查您的计算机连到了可用网络。</li><li>如果您的计算机受到防火墙的保护，请确认 &brandShortName; 可以访问网页。</li></ul>">
 
-<!ENTITY redirectLoop.title "此页面重定向不正确">
+<!ENTITY redirectLoop.title "此页面不能正确地重定向">
 <!ENTITY redirectLoop.longDesc "<ul><li>此问题可能是因为禁用或拒绝 Cookie 导致。</li></ul>">
 
 <!ENTITY unknownSocketType.title "不预期的服务器回应">
@@ -111,7 +111,7 @@
 <!ENTITY malwareBlocked.title "可疑的攻击站点！">
 <!ENTITY malwareBlocked.longDesc " <p>攻击站点尝试通过安装程序来盗取隐私数据、使用您的计算机攻击他人或者破坏您的系统。</p> <p>网站所有者若认为自己的站点被错误地报告为攻击站点，可以<a href='http://www.stopbadware.org/home/reviewinfo' >请求评审</a>。</p> ">
 
-<!ENTITY phishingBlocked.title "嫌疑欺诈网站！">
+<!ENTITY phishingBlocked.title "可疑的假冒网站！">
 <!ENTITY phishingBlocked.longDesc "<p>在本页面输入个人信息可能会导致帐号被窃或其他欺诈。</p>
 <p>这些欺诈网站均用于钓鱼攻击，在这些攻击中，伪装的网页或邮件地址可能用来假冒您信任的源地址。</p>">
 
