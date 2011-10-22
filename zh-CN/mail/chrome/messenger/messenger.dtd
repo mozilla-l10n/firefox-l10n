@@ -119,6 +119,8 @@
 <!ENTITY redoDefaultCmd.accesskey "R">
 
 <!-- View Menu -->
+<!ENTITY menubarCmd.label "菜单栏">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showMessengerToolbarCmd.label "邮件工具栏">
 <!ENTITY showMessengerToolbarCmd.accesskey "o">
 <!ENTITY customizeToolbar.label "自定义…">
@@ -269,6 +271,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageSourceCmd.label "消息源代码">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.key "u">
+<!ENTITY getNewMessagesCmd.key "y">
+<!ENTITY getAllNewMessagesCmd.key "Y">
 
 <!-- Search Menu -->
 <!ENTITY findMenu.label "查找">
@@ -498,12 +502,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY previousButton.label "上一个">
 <!ENTITY backButton1.label "后退">
 <!ENTITY goForwardButton1.label "前进">
+<!ENTITY deleteItem.title "删除">
 <!ENTITY deleteButton.label "删除">
 <!ENTITY undeleteButton.label "撤消删除">
 <!ENTITY markButton.label "标记">
 <!ENTITY printButton.label "打印">
 <!ENTITY stopButton.label "停止">
 <!ENTITY throbberItem.title "活动指示器">
+<!ENTITY junkItem.title "垃圾">
 <!ENTITY junkButton.label "垃圾">
 <!ENTITY notJunkButton.label "非垃圾">
 <!ENTITY addressBookButton.label "通讯录">
