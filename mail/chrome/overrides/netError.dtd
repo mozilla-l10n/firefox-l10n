@@ -111,7 +111,7 @@
 <!ENTITY unknownSocketType.title "Uventet svar fra server">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
-  <li>Undersøg om dit system har den personlige sikkerhedsmanager installeret.</li>
+  <li>Undersøg om dit system har Personal Security Manager installeret.</li>
   <li>Dette kan skyldes en ikke-standard opsætning af serveren.</li>
 </ul>
 ">
