@@ -56,24 +56,28 @@
 <!ENTITY overrideSmartCacheSize.label "Inorar l'alministración automática de caché">
 <!ENTITY overrideSmartCacheSize.accesskey "n">
 <!ENTITY updateTab.label                 "Anovar">
+<!ENTITY updateApp.label                 "Anovamientos de &brandShortName;:">
+<!ENTITY updateAuto.label                "Anovar automáticamente los anovamientos (encamiéntase: meyora la seguridá)">
+<!ENTITY updateAuto.accesskey "A">
+<!ENTITY updateCheck.label               "Comprobar anovamientos, pero dexándome escoyer si quiero instalales">
+<!ENTITY updateCheck.accesskey           "C">
+<!ENTITY updateManual.label              "Nun comprobar anovamientos (nun se recomienda: riesgos de seguridá)">
+<!ENTITY updateManual.accesskey          "N">
+<!ENTITY updateAutoAddonWarn.label       "Avisáime si esto desactiva dalgún de los mios complementos.">
+<!ENTITY updateAutoAddonWarn.accesskey   "v">
+<!ENTITY updateOthers.label              "Anovamientu automáticu:">
 
-<!ENTITY autoCheck.label                 "Guetar automáticamente anovamientos pa:">
-<!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "o">
-<!ENTITY enableAddonsUpdate2.label       "Complementos">
-<!ENTITY enableAddonsUpdate2.accesskey   "n">
+
 <!ENTITY enableSearchUpdate.label        "Guetadores">
 <!ENTITY enableSearchUpdate.accesskey    "G">
-<!ENTITY whenUpdatesFound.label          "Cuando s'alcuentren anovamientos pa &brandShortName;:">
-<!ENTITY askMe.label                     "Entrugar qué facer">
-<!ENTITY askMe.accesskey                 "q">
-<!ENTITY modeAutomatic.label             "Descargar ya instalar l'anovamientu automáticamente">
-<!ENTITY modeAutomatic.accesskey         "D">
-<!ENTITY modeAutoAddonWarn.label         "Avisame si esto desactivará dalgún de los complementos">
-<!ENTITY modeAutoAddonWarn.accesskey     "v">
+
+
+
+
 <!ENTITY updateHistory.label             "Amosar historial d'anovamientos">
 <!ENTITY updateHistory.accesskey         "m">
-
+<!ENTITY enableAddonsUpdate3.label       "Complementos">
+<!ENTITY enableAddonsUpdate3.accesskey   "C">
 <!ENTITY offlineNotify.label             "Avisame cuando s'entrugue pa guardar datos en mou desconexón">
 <!ENTITY offlineNotify.accesskey         "t">
 <!ENTITY offlineNotifyExceptions.label   "Esceiciones...">
