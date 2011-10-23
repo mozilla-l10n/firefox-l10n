@@ -202,7 +202,7 @@
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY windowMenu.label "Okno">
-<!ENTITY minimizeWindow.label "Minimiraj">
+<!ENTITY minimizeWindow.label "Pomanjšaj">
 <!ENTITY minimizeWindow.key "s">
 <!ENTITY bringAllToFront.label "Vse v ospredje">
 <!ENTITY zoomWindow.label "Povečaj">

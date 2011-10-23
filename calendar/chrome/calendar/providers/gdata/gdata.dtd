@@ -39,8 +39,8 @@
 <!ENTITY gdata.privacy.default.label "Privzeti Google">
 <!ENTITY gdata.privacy.default.accesskey "P">
 
-<!ENTITY gdata.migration.title "Migriraj koledarje, ki so le za branje">
-<!ENTITY gdata.migration.description "Vmesnik za Googlov koledar je zaznal, da imate koledarje, ki lahko dostopajo do Googlovega koledarja le v načinu samo za branje. Če bi radi katerega koli od teh koledarjev nadgradili, jih izberite s spodnjega seznama">
+<!ENTITY gdata.migration.title "Preseli koledarje, ki so le za branje">
+<!ENTITY gdata.migration.description "Vmesnik za Googlov koledar je zaznal, da imate koledarje, ki imajo dostop do Googlovega koledarja le v načinu za branje. Če bi radi katerega koli od teh koledarjev nadgradili, jih izberite s spodnjega seznama">
 <!ENTITY gdata.migration.upgrade.label "Posodobi">
 <!ENTITY gdata.migration.upgrade.accesskey "d">
 <!ENTITY gdata.migration.showagain.label "Vedno preveri ">

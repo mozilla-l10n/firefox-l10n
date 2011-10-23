@@ -42,7 +42,7 @@
 <!-- Calendar Invitations List -->
 <!ENTITY calendar.invitations.list.accept.button.label                  "Sprejmi">
 <!ENTITY calendar.invitations.list.decline.button.label                 "Zavrni">
-<!ENTITY calendar.invitations.list.recurrentevent.text                  "Ponavljujoč dogodek">
+<!ENTITY calendar.invitations.list.recurrentevent.text                  "Ponavljajoč dogodek">
 <!ENTITY calendar.invitations.list.alldayevent.text                     "Celodnevni dogodek">
 <!ENTITY calendar.invitations.list.location.text                        "Kraj: ">
 <!ENTITY calendar.invitations.list.organizer.text                       "Organizator: ">
