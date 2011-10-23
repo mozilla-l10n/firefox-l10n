@@ -13,14 +13,12 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Nuk u gjet shërbyes">
-<!ENTITY dnsNotFound.longDesc "
+<!ENTITY dnsNotFound.longDesc2 "
 <ul>
   <li>Kontrolloni adresën për gabime shkrimi si, p.sh.
     <strong>ww</strong>.shembull.com në vend të
     <strong>www</strong>.shembull.com</li>
-  <li>>Nëse nuk arrini të ngarkoni qoftë edhe një faqe, kontrolloni lidhjen në rrjet të kompjuterit tuaj.</li>
-  <li>Nëse kompjuteri ose rrjeti juaj mbrohet nga një &quot;firewall&quot; ose ndërmjetës, sigurohuni
-    që &brandShortName;-ut i lejohet hyrja në Web.</li>
+  <li>>Nëse nuk arrini të ngarkoni qoftë edhe një faqe, kontrolloni të dhënat e pajisjes suaj ose lidhjen tuaj Wi-Fi.</li>
 </ul>
 ">
 
@@ -137,12 +135,6 @@
   <li>Nëse kompjuteri apo rrjeti juaj mbrohet nga një &quot;firewall&quot; ose ndërmjetës, sigurohuni
     që &brandShortName;-ut i është lejuar hyrja në Web.</li>
 </ul>
-">
-
-<!ENTITY malwareBlocked.title "&quot;Site&quot; i Dyshuar për Sulme!">
-<!ENTITY malwareBlocked.longDesc "
-<p>&quot;Site&quot;-et e sulmeve përpiqen të instalojnë programe që grabisin të dhëna vetjake, përdorin kompjuterin tuaj të sulmojnë të tjerët, ose dëmtojnë sistemin tuaj.</p>
-<p>Të zotët e &quot;site&quot;-eve Web që besojnë se &quot;site&quot;-i i tyre është raportuar gabimisht si &quot;site&quot; sulmesh mund <a href='http://www.stopbadware.org/home/reviewinfo' >të kërkojnë shqyrtimin e çështjes</a>.</p>
 ">
 
 <!ENTITY phishingBlocked.title "E dyshuar si Sajesë Web!">
