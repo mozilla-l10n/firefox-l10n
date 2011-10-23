@@ -60,7 +60,7 @@
 <!ENTITY pairDevice.setup.description.label "Aby aktywować, na innym urządzeniu wybierz &#x0022;Sparuj urządzenie&#x0022;.">
 
 <!ENTITY addDevice.setup.enterCode.label    "Następnie wprowadź ten kod:">
-<!ENTITY addDevice.dialog.description.label "Aby aktywować nowe urządzenie, przejdź na nim do opcji  &syncBrand.shortName.label; i wybierz &#x0022;Połącz.&#x0022;">
+<!ENTITY pairDevice.dialog.description.label "Aby aktywować nowe urządzenie, wybierz na nim opcję &#x0022;Skonfiguruj synchronizację&#x0022;.">
 <!ENTITY addDevice.dialog.enterCode.label   "Wprowadź kod dostarczony przez to urządzenie:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Ponów próbę.">
 <!ENTITY addDevice.dialog.successful.label  "Urządzenie zostało dodane. Początkowa synchronizacja może potrwać kilka minut i ukończy się w tle.">
