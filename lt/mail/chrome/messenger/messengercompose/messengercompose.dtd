@@ -47,6 +47,7 @@
 <!ENTITY attachMenu.accesskey "d">
 <!ENTITY attachFileCmd.label "failą (failus)…">
 <!ENTITY attachFileCmd.accesskey "f">
+<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachPageCmd.label "tinklalapį…">
 <!ENTITY attachPageCmd.accesskey "T">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
