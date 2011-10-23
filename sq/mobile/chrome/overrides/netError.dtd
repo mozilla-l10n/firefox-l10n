@@ -7,7 +7,7 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "I pazoti të lidhet">
-
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
 
 <!ENTITY deniedPortAccess.title "Kjo adresë është e ndaluar">
 <!ENTITY deniedPortAccess.longDesc "">
@@ -46,7 +46,7 @@
 ">
 
 <!ENTITY netInterrupt.title "Lidhja u ndërpre">
-
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netOffline.title "Mënyrë i Palidhur">
 <!ENTITY netOffline.longDesc2 "
@@ -54,6 +54,26 @@
   <li>Riprovoni. &brandShortName;-u do të përpiqet të hapë një lidhje dhe të ringarkojë faqen.</li>
 </ul>
 ">
+
+<!ENTITY netOffline.title "Offline mode">
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>Try again. &brandShortName; will attempt to open a connection and reload the page.</li>
+</ul>
+">
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY contentEncodingError.title "Gabim Kodimi Përmbajtjeje">
 <!ENTITY contentEncodingError.longDesc "
@@ -70,7 +90,10 @@
 ">
 
 <!ENTITY netReset.title "Lidhja u rivendos">
+<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+
 <!ENTITY netTimeout.title "Lidhjes i përfundoi koha">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
 <!ENTITY protocolNotFound.title "Nuk u kuptua vendndodhja">
 <!ENTITY protocolNotFound.longDesc "
@@ -88,12 +111,10 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "I pazoti të gjejë shërbyesin ndërmjetës">
-<!ENTITY proxyResolveFailure.longDesc "
+<!ENTITY proxyResolveFailure.longDesc2 "
 <ul>
   <li>Kontrolloni rregullimet për ndërmjetësin, për t&apos;u siguruar që janë të sakta.</li>
-  <li>Kontrolloni kompjuterin tuaj, për t&apos;u siguruar që ka një lidhje rrjeti që punon.</li>
-  <li>Nëse kompjuteri apo rrjeti juaj mbrohet nga &quot;firewall&quot; apo ndërmjetës, sigurohuni
-    që &brandShortName;-ut i lejohet hyrja në Web.</li>
+  <li>Kontrolloni për t&apos;u siguruar që pajisja juaj ka të dhëna funksionimi ose lidhje Wi-Fi.</li>
 </ul>
 ">
 
@@ -128,19 +149,11 @@
 </ul>
 ">
 
-<!ENTITY sharedLongDesc "
+<!ENTITY sharedLongDesc2 "
 <ul>
   <li>&quot;Site&quot;-i mund të jetë përkohësisht jashtë pune ose tepër i zënë. Riprovoni pas pak çastesh.</li>
-  <li>Nëse nuk arrini të ngarkoni qoftë edhe një faqe, kontrolloni lidhjen në rrjet për kompjuterin tuaj.</li>
-  <li>Nëse kompjuteri apo rrjeti juaj mbrohet nga një &quot;firewall&quot; ose ndërmjetës, sigurohuni
-    që &brandShortName;-ut i është lejuar hyrja në Web.</li>
+  <li>Nëse nuk arrini të ngarkoni qoftë edhe një faqe, kontrolloni të dhënat e pajisjes suaj ose lidhjen Wi-Fi.</li>
 </ul>
-">
-
-<!ENTITY phishingBlocked.title "E dyshuar si Sajesë Web!">
-<!ENTITY phishingBlocked.longDesc "
-<p>Të dhënët e çfarëdo lloj të dhëne në këtë faqe mund të shpjerë në përvetësim të identitetit ose të ngjashme.</p>
-<p>Këto lloje sajesash web përdoren në mashtrime të njohura edhe si sulme &quot;phishing&quot;, gjatë të cilëve faqe web dhe email-e të gënjeshtërt përdoren për të imituar burime që u besoni.</p>
 ">
 
 <!ENTITY cspFrameAncestorBlocked.title "Bllokuar nga Rregullat e Sigurisë për Lëndën">
