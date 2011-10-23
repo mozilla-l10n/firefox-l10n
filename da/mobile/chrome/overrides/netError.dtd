@@ -111,7 +111,7 @@
 <!ENTITY unknownSocketType.title "Uventet svar fra server">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
-  <li>Undersøg om dit system har den personlige sikkerhedsmanager 
+  <li>Undersøg om dit system har Personal Security Manager 
     installeret.</li>
   <li>Dette kan skyldes en ikke-standard opsætning af serveren.</li>
 </ul>
@@ -121,7 +121,7 @@
 <!ENTITY nssFailure2.longDesc "
 <ul>
   <li>Siden kunne ikke vises da autenticiteten af de modtagne data ikke kunne bekræftes.</li>
-  <li>Kontakt venligst ejeren af webstedet omkring dette problem. Alternativt kan du bruge funktionen i Hjælp menuen til at fejlmelde dette websted.</li>
+  <li>Kontakt venligst ejeren af webstedet omkring dette problem. Alternativt kan du bruge funktionen i Hjælp-menuen til at fejlmelde dette websted.</li>
 </ul>
 ">
 

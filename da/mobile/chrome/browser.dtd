@@ -69,7 +69,7 @@
 <!ENTITY bookmarkPopup.label       "Side bogmærket">
 <!ENTITY bookmarkRemove.label      "Fjern">
 <!ENTITY bookmarkEdit.label        "Rediger">
-<!ENTITY bookmarkShortcut.label    "Tilføj til startskærm">
+<!ENTITY bookmarkShortcut.label    "Føj til startskærm">
 
 <!ENTITY identity.unverifiedsite2 "Dette websted leverer ingen information om dets identitet.">
 <!ENTITY identity.connectedTo2    "Forbundet til">
@@ -106,7 +106,7 @@
 <!ENTITY contextFullScreen.label      "Fuldskærm">
 <!ENTITY contextEditBookmark.label    "Rediger">
 <!ENTITY contextRemoveBookmark.label  "Fjern">
-<!ENTITY contextShortcutBookmark.label "Tilføj til startskærm">
+<!ENTITY contextShortcutBookmark.label "Føj til startskærm">
 
 <!ENTITY pageactions.saveas.pdf      "Gem som PDF">
 <!ENTITY pageactions.share.page      "Del side">
