@@ -27,6 +27,7 @@
    -   Hubert Gajewski <hubert@hubertgajewski.com>, Aviary.pl
    -   Fred Jendrzejewski <fred.jen@web.de>
    -   Simon Vaillancourt <simon.at.orcl@gmail.com>
+   -   Gianfranco Balza <bv1578@gmail.com>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -42,7 +43,10 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY event.title.label                  "Uredi vnos">
+<!ENTITY event.title.label                  "Uredi postavko">
+
+<!ENTITY event.dialog.keepDurationButton.tooltip   "Obdrži trajanje, kadar se spremeni datum zaključka">
+<!ENTITY event.dialog.keepDurationButton.accesskey "K">
 
 
 <!ENTITY newevent.from.label                "Od">
@@ -375,6 +379,10 @@
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Splošno">
 <!ENTITY read.only.title.label           "Naslov:">
+<!ENTITY read.only.event.start.label     "Začetni datum:">
+<!ENTITY read.only.task.start.label      "Začetni datum:">
+<!ENTITY read.only.event.end.label       "Zaključni datum:">
+<!ENTITY read.only.task.due.label        "Zaključni datum:">
 <!ENTITY read.only.repeat.label          "Ponovitev:">
 <!ENTITY read.only.location.label        "Kraj:">
 <!ENTITY read.only.category.label        "Kategorija:">
