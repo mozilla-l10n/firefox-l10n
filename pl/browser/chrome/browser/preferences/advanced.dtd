@@ -63,23 +63,25 @@
 
 <!ENTITY updateTab.label                 "Aktualizacja">
 
-<!ENTITY autoCheck.label                 "Automatycznie sprawdzaj, czy dostępne są aktualizacje dla:">
-<!ENTITY enableAppUpdate.label           "programu &brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate2.label       "dodatków">
-<!ENTITY enableAddonsUpdate2.accesskey   "d">
-<!ENTITY enableSearchUpdate.label        "wyszukiwarek">
-<!ENTITY enableSearchUpdate.accesskey    "w">
+<!ENTITY updateApp.label                 "Aktualizacje programu &brandShortName;:">
+<!ENTITY updateAuto.label                "Instaluj aktualizacje automatycznie (zalecane: większe bezpieczeństwo)">
+<!ENTITY updateAuto.accesskey            "n">
+<!ENTITY updateCheck.label               "Sprawdzaj dostępność aktualizacji, ale wymagaj potwierdzenia ich instalacji">
+<!ENTITY updateCheck.accesskey           "S">
+<!ENTITY updateManual.label              "Nie sprawdzaj dostępności aktualizacji (niezalecane: zagrożenie bezpieczeństwa)">
+<!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY whenUpdatesFound.label          "Kiedy odnalezione zostaną aktualizacje dla programu &brandShortName;:">
-<!ENTITY askMe.label                     "zapytaj, co robić">
-<!ENTITY askMe.accesskey                 "z">
-<!ENTITY modeAutomatic.label             "automatycznie pobierz i zainstaluj aktualizacje">
-<!ENTITY modeAutomatic.accesskey         "a">
-<!ENTITY modeAutoAddonWarn.label         "ostrzeż, jeśli aktualizacja spowoduje wyłączenie dodatków">
-<!ENTITY modeAutoAddonWarn.accesskey     "o">
+<!ENTITY updateAutoAddonWarn.label       "Ostrzeż, jeśli spowoduje to wyłączenie któregoś z dodatków">
+<!ENTITY updateAutoAddonWarn.accesskey   "O">
+
 <!ENTITY updateHistory.label             "Wyświetl historię aktualizacji">
-<!ENTITY updateHistory.accesskey         "h">
+<!ENTITY updateHistory.accesskey         "W">
+
+<!ENTITY updateOthers.label              "Aktualizuj automatycznie:">
+<!ENTITY enableAddonsUpdate3.label       "dodatki">
+<!ENTITY enableAddonsUpdate3.accesskey   "d">
+<!ENTITY enableSearchUpdate.label        "wyszukiwarki">
+<!ENTITY enableSearchUpdate.accesskey    "s">
 
 <!-- FIXME (offlineNotify.label) skrócić -->
 <!ENTITY offlineNotify.label             "Powiadamiaj, kiedy witryna poprosi o możliwość przechowywania danych dla trybu offline">
