@@ -28,7 +28,7 @@
 <!ENTITY confirm.description         "Przyspiesz program &brandShortName; wyłączając nieużywane już dodatki. Dodatki zainstalowane już przez inne programy zostaną automatycznie wyłączone, o ile nie zaznaczysz ich poniżej.">
 
 <!ENTITY action.disable.heading      "Następujące dodatki zostaną wyłączone::">
-<!ENTITY action.incompatible.heading "Następujące dodatki są wyłączone, ale zostaną włączone, kiedy tylko staną się zgodne:">
+<!ENTITY action.incompatible.heading "Następujące dodatki są wyłączone, ale zostaną włączone, gdy będą zgodne z tą wersją programu:">
 <!ENTITY action.update.heading       "Następujące dodatki zostaną zaktualizowane:">
 <!ENTITY action.enable.heading       "Następujące dodatki zostaną włączone:">
 
