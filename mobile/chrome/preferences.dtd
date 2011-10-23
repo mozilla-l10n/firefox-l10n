@@ -5,10 +5,10 @@
 <!ENTITY reflowZoom.title                          "Ombryd tekst ved zoom">
 <!ENTITY showImages.title                          "Vis billeder">
 <!ENTITY enableJavaScript.title                    "Aktiver JavaScript">
-<!ENTITY enablePlugins.title                       "Aktiver plugins">
 <!ENTITY privacy.title                             "Privatliv &amp; sikkerhed">
 <!ENTITY allowCookies.title                        "Tillad cookies">
 <!ENTITY doNotTrack.title                          "Aktiver Spor-mig-ej header">
+<!ENTITY masterPassword.title                      "Brug hovedadgangskode">
 <!ENTITY clearPrivateData2.title                   "Ryd private data">
 <!ENTITY clearPrivateData.button                   "Ryd">
 <!ENTITY rememberPasswords.title                   "Husk adgangskoder">
@@ -20,4 +20,4 @@
 <!ENTITY homepage.none                             "Blank side">
 <!ENTITY homepage.default                          "&brandShortName; Start">
 <!ENTITY homepage.currentpage                      "Brug nuværende side">
-<!ENTITY showCharset.title                         "Vis tegnkodning">
+<!ENTITY showCharsetEncoding.title                 "Vis tegnkodning">
