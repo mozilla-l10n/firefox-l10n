@@ -4,8 +4,7 @@
 
 <!ENTITY setup.pickSetupType.description "Witamy! Jeśli nie masz jeszcze konta &syncBrand.fullName.label;, konieczne będzie utworzenie nowego.">
 <!ENTITY button.createNewAccount.label "Utwórz nowe konto">
-<!ENTITY setup.haveAccount.label "Mam już konto &syncBrand.fullName.label;">
-<!ENTITY button.connect.label    "Połącz">
+<!ENTITY button.haveAccount.label      "Mam już konto">
 
 <!ENTITY setup.choicePage.title.label     "Czy korzystasz już z usługi &syncBrand.fullName.label;?">
 <!ENTITY setup.choicePage.new.label       "Korzystam z usługi &syncBrand.shortName.label; po raz pierwszy">
@@ -40,7 +39,7 @@
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 
-<!-- New Account Page 2: Sync Key -->
+<!-- My Recovery Key dialog -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; dba o twoją prywatność">
 <!ENTITY setup.newRecoveryKeyPage.description.label "Aby zapewnić całkowitą prywatność, wszystkie dane przed przesłaniem są szyfrowane. Klucz odzyskiwania, niezbędny do odszyfrowania danych, nie jest przesyłany.">
 <!ENTITY recoveryKeyEntry.label        "Twój klucz">
@@ -54,8 +53,6 @@
 <!ENTITY button.syncKeyBackup.save.label      "Zapisz…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "Z">
 
-<!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "Potwierdź, że nie jesteś robotem">
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
 <!ENTITY addDevice.title.label              "Dodaj urządzenie">
 <!ENTITY addDevice.showMeHow.label          "Pokaż, jak to zrobić">
