@@ -12,9 +12,9 @@ by NSS/PSM via netError.xhtml. -->
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara1 "&brandShortName; ste zaprosili za varno
-povezavo z <b>#1</b>, vendar ne moremo zagotoviti, da je vaša povezava res varna.">
-<!ENTITY certerror.introPara2 "Ko se poskušate varno povezati, se spletne strani
+<!ENTITY certerror.introPara1 "&brandShortName; ste zaprosili za zaščiteno
+povezavo z <b>#1</b>, vendar ne moremo zagotoviti, da je vaša povezava res zašćitena.">
+<!ENTITY certerror.introPara2 "Ko se poskušate zaščiteno povezati, se spletne strani
 običajno predstavijo in tako dokažejo, da ste prišli na pravo mesto. Toda istovetnosti
 te strani žal ni mogoče overiti.">
 
