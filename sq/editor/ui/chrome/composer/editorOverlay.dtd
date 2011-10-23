@@ -41,6 +41,7 @@
 <!ENTITY pasteAsQuotationCmd.label "Ngjite Si Përmendje">
 <!ENTITY pasteAsQuotationCmd.accesskey "P">
 <!ENTITY pasteAsQuotationCmd.key "o">
+<!ENTITY findCmd.label "Gjeni dhe Zëvendësoni…">
 <!ENTITY enableInlineSpellChecker.label "Kontroll Drejtshkimi Në Shkrim e Sipër">
 <!ENTITY enableInlineSpellChecker.accesskey "D">
 <!ENTITY checkSpellingCmd2.label "Kontroll Drejtshkimi">
