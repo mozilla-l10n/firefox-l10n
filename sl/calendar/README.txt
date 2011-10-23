@@ -1,3 +1,3 @@
-For information about installing, running and configuring Sunbird 
-including a list of known issues and troubleshooting information, 
-refer to: http://www.mozilla.org/projects/calendar/
+Za podatke o tem, kako namestiti, uporabljati in konfigurirati Sunbird, 
+in za seznam poznanih problemov in rešitev zanje, si oglejte naslednjo  
+stran: http://www.mozilla.org/projects/calendar/
