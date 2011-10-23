@@ -438,7 +438,9 @@ can reach it easily. -->
 <!ENTITY mediaHideControls.accesskey "e">
 <!ENTITY videoFullScreen.label       "Tryb pełnoekranowy">
 <!ENTITY videoFullScreen.accesskey   "T">
-
+<!ENTITY videoSaveImage.label        "Zapisz aktualną klatkę jako…">
+<!ENTITY videoSaveImage.accesskey    "u">
+    
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and 
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
