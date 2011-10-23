@@ -16,6 +16,7 @@
 <!ENTITY attachMenu.accesskey "h">
 <!ENTITY attachFileCmd.label "Datei(en) als Anhang anfügen…">
 <!ENTITY attachFileCmd.accesskey "A">
+<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachPageCmd.label "Webseite anhängen…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
