@@ -7,7 +7,7 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "I pazoti të lidhet">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+
 
 <!ENTITY deniedPortAccess.title "Kjo adresë është e ndaluar">
 <!ENTITY deniedPortAccess.longDesc "">
@@ -48,7 +48,7 @@
 ">
 
 <!ENTITY netInterrupt.title "Lidhja u ndërpre">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+
 
 <!ENTITY netOffline.title "Mënyrë i Palidhur">
 <!ENTITY netOffline.longDesc2 "
@@ -72,10 +72,7 @@
 ">
 
 <!ENTITY netReset.title "Lidhja u rivendos">
-<!ENTITY netReset.longDesc "&sharedLongDesc;">
-
 <!ENTITY netTimeout.title "Lidhjes i përfundoi koha">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY protocolNotFound.title "Nuk u kuptua vendndodhja">
 <!ENTITY protocolNotFound.longDesc "
