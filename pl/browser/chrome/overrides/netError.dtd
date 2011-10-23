@@ -50,6 +50,10 @@
 <!ENTITY netInterrupt.title "Połączenie zostało przerwane">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!ENTITY notCached.title "Dokument wygasł">
+<!ENTITY notCached.longDesc "<p>Żądany dokument nie jest dostępny w pamięci podręcznej Firefoksa.</p><ul><li>Ze względów bezpieczeństwa Firefox
+nie pobiera ponownie wrażliwych dokumentów automatycznie.</li><li>Kliknij przycisk Spróbuj ponownie, aby jeszcze raz pobrać dokument z witryny.</li></ul>">
+
 <!ENTITY netOffline.title "Tryb offline">
 <!ENTITY netOffline.longDesc2 "
 <ul>
