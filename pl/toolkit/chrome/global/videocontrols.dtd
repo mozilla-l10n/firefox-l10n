@@ -3,6 +3,21 @@
 <!ENTITY muteButton.muteLabel "Wycisz">
 <!ENTITY muteButton.unmuteLabel "Przywróć głośność">
 
+<!ENTITY stats.media "Media">
+<!ENTITY stats.size "Rozmiar">
+<!ENTITY stats.activity "Aktualny stan">
+<!ENTITY stats.activityPaused "Wstrzymanie">
+<!ENTITY stats.activityPlaying "Odtwarzanie">
+<!ENTITY stats.activityEnded "Zakończono">
+<!ENTITY stats.activitySeeking "(przewijanie)">
+<!ENTITY stats.volume "Głośność">
+<!ENTITY stats.channels "Kanały">
+<!ENTITY stats.sampleRate "Częstotliwość próbkowania">
+<!ENTITY stats.framesParsed "Liczba przetworzonych klatek">
+<!ENTITY stats.framesDecoded "Liczba odkodowanych klatek">
+<!ENTITY stats.framesPresented "Liczba pokazanych klatek">
+<!ENTITY stats.framesPainted "Liczba namalowanych klatek">
+
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
