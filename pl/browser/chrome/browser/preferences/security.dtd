@@ -1,4 +1,4 @@
-<!ENTITY  warnAddonInstall.label        "Ostrzegaj, kiedy witryny próbują instalować dodatki">
+<!ENTITY  warnAddonInstall.label        "Ostrzegaj, jeśli witryny próbują instalować dodatki">
 <!ENTITY  warnAddonInstall.accesskey    "O">
 
 <!-- LOCALIZATION NOTE (tellMaybeForgery2.label, tellMaybeAttackSite2.label):
