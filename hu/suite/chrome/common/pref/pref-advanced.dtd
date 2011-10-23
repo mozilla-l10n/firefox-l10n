@@ -1,11 +1,6 @@
 <!--LOCALIZATION NOTE : FILE 'Advanced' prefs settings -->
 <!ENTITY pref.advanced.title "Haladó">
 
-<!ENTITY prefEnableJava.caption "Weboldalak értelmezését segítő funkciók engedélyezése">
-
-<!ENTITY enbJavaCheck.label "Java engedélyezése">
-<!ENTITY enbJavaCheck.accesskey "J">
-
 <!ENTITY systemPref.caption "Rendszerbeállítások">
 <!ENTITY systemPrefCheck.label "Rendszerbeállítások használata">
 <!ENTITY systemPrefCheck.accesskey "R">
