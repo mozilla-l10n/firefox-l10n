@@ -89,3 +89,6 @@
 
 <!ENTITY remoteXUL.title "XUL Remotu">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contauta col alministrador del sitiu web pa informalu d'esti problema.</li></ul></p>">
+
+<!ENTITY notCached.title "Documentu caducáu">
+<!ENTITY notCached.longDesc "<p>El documentu solicitáu nun ta disponible na caché del navegador.</p><ul><li>Como midida de precaución, el navegador nun vuelve a solicitar automáticamente documentación sensible.</li><li>Fai click en 'Intentar' otra vuelta, pa solicitar otra vegada'l documentu al sitiu web.</li></ul>">
