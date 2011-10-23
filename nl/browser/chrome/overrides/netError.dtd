@@ -53,7 +53,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Document verlopen">
-<!ENTITY notCached.longDesc "<p>Het verzochte document is niet beschikbaar in Firefox's-buffer.</p><ul><li>Vanwege een veiligheidsvoorzorgmaatregel zal Firefox vertrouwelijke documenten niet automatisch opnieuw aanvragen.</li><li>Klik om het document opnieuw aan te vragen van de website.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Het verzochte document is niet beschikbaar in &brandShortName;'s-buffer.</p><ul><li>Vanwege een veiligheidsvoorzorgmaatregel zal &brandShortName; vertrouwelijke documenten niet automatisch opnieuw aanvragen.</li><li>Klik om het document opnieuw aan te vragen van de website.</li></ul>">
 
 <!ENTITY netOffline.title "Offlinemodus">
 <!ENTITY netOffline.longDesc2 "
