@@ -156,7 +156,12 @@
 <!ENTITY inspectButton.accesskey "I">
 <!ENTITY inspectContextMenu.label "Inspeicionar Elementu">
 <!ENTITY inspectContextMenu.accesskey "Q">
-
+<!ENTITY videoSaveImage.label "Guardar captura de pantalla como…">
+<!ENTITY videoSaveImage.accesskey "d">
+<!ENTITY videoShowStats.label "Amosar estadístiques">
+<!ENTITY videoShowStats.accesskey "t">
+<!ENTITY videoHideStats.label "Anubrir estadístiques">
+<!ENTITY videoHideStats.accesskey "t">
 
 <!ENTITY fileMenu.label "Ficheru">
 <!ENTITY fileMenu.accesskey "F">

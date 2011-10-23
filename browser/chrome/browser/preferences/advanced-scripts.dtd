@@ -40,8 +40,8 @@
 
 <!ENTITY allowScripts.label             "Permitir los scripts:">
 
-<!ENTITY moveResizeWindows.label        "Mover o redimensionar les ventanes esistentes">
-<!ENTITY moveResizeWindows.accesskey    "M">
+<!ENTITY moveResizePopupWindows.label "Mover o redimensionar les ventanes emerxentes">
+<!ENTITY moveResizePopupWindows.accesskey "l">
 <!ENTITY raiseLowerWindows.label        "Amosar o anubrir ventanes">
 <!ENTITY raiseLowerWindows.accesskey    "r">
 <!ENTITY disableContextMenus.label      "Desactivar o trocar menús contestuales">
