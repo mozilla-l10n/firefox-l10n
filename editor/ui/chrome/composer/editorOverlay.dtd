@@ -212,7 +212,7 @@
 <!ENTITY formatRemoveLinks.key         "K">
 <!ENTITY formatRemoveNamedAnchors.label "Pašalinti žymes">
 <!ENTITY formatRemoveNamedAnchors.accesskey "ž">
-<!ENTITY formatRemoveNamedAnchors.key  "A">
+<!ENTITY formatRemoveNamedAnchors2.key "R">
 
 <!ENTITY paragraphMenu.label           "Pastraipa">
 <!ENTITY paragraphMenu.accesskey       "P">
