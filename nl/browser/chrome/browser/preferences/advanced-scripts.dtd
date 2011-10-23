@@ -40,8 +40,8 @@
 
 <!ENTITY allowScripts.label             "Scripts toestaan om:">
 
-<!ENTITY moveResizeWindows.label        "Bestaande vensters te verplaatsen of vergroten/verkleinen">
-<!ENTITY moveResizeWindows.accesskey    "B">
+<!ENTITY moveResizePopupWindows.label     "Pop-upvensters te verplaatsen of vergroten/verkleinen">
+<!ENTITY moveResizePopupWindows.accesskey "P">
 <!ENTITY raiseLowerWindows.label        "Vensters te laten verschijnen/verdwijnen">
 <!ENTITY raiseLowerWindows.accesskey    "V">
 <!ENTITY disableContextMenus.label      "Contextmenu’s uit te schakelen of te vervangen">
