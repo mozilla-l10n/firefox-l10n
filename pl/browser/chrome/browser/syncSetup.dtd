@@ -53,11 +53,11 @@
 <!ENTITY button.syncKeyBackup.save.label      "Zapisz…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "Z">
 
-<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "Dodaj urządzenie">
+<!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
+<!ENTITY pairDevice.title.label             "Sparuj urządzenie">
 <!ENTITY addDevice.showMeHow.label          "Pokaż, jak to zrobić">
 <!ENTITY addDevice.dontHaveDevice.label     "Nie mam tego urządzenia przy sobie">
-<!ENTITY addDevice.setup.description.label  "Aby aktywować, przejdź do opcji &syncBrand.shortName.label; na innym urządzeniu i wybierz &#x0022;Dodaj urządzenie&#x0022;.">
+<!ENTITY pairDevice.setup.description.label "Aby aktywować, na innym urządzeniu wybierz &#x0022;Sparuj urządzenie&#x0022;.">
 
 <!ENTITY addDevice.setup.enterCode.label    "Następnie wprowadź ten kod:">
 <!ENTITY addDevice.dialog.description.label "Aby aktywować nowe urządzenie, przejdź na nim do opcji  &syncBrand.shortName.label; i wybierz &#x0022;Połącz.&#x0022;">
