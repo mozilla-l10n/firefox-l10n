@@ -16,6 +16,7 @@
 <!ENTITY attachMenu.accesskey "B">
 <!ENTITY attachFileCmd.label "Bestand(en)…">
 <!ENTITY attachFileCmd.accesskey "B">
+<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachPageCmd.label "Webpagina…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
