@@ -119,7 +119,7 @@
 </ul>
 ">
 
-<!ENTITY nssFailure2.title "Varna povezava ni uspela">
+<!ENTITY nssFailure2.title "Zaščitena povezava ni uspela">
 <!ENTITY nssFailure2.longDesc "
 <ul>
   <li>Strani, ki si jo želite ogledati, ni mogoče prikazati, ker ni mogoče preveriti pristnosti sprejetih podatkov.</li>
@@ -127,7 +127,7 @@
 </ul>
 ">
 
-<!ENTITY nssBadCert.title "Varna povezava ni uspela">
+<!ENTITY nssBadCert.title "Zaščitena povezava ni uspela">
 <!ENTITY nssBadCert.longDesc2 "
 <ul>
   <li>Napaka lahko izvira iz nastavitev strežnika, ali pa nekdo poskuša 

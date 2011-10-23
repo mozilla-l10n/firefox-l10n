@@ -58,10 +58,10 @@
 <!ENTITY unknownSocketType.title "Nepričakovan odgovor">
 <!ENTITY unknownSocketType.longDesc "<p>Stran je na mrežno zahtevo odgovorila na nepričakovan način in brskalnik ne more nadaljevati.</p>">
 
-<!ENTITY nssFailure2.title "Varna povezava ni uspela">
+<!ENTITY nssFailure2.title "zaščitena povezava ni uspela">
 <!ENTITY nssFailure2.longDesc "<p>Strani, ki si jo želite ogledati, ni mogoče prikazati, ker ni mogoče preveriti pristnosti prejetih podatkov.</p><ul><li>Obrnite se na lastnike spletne strani in jih obvestite o težavi.</li></ul>">
 
-<!ENTITY nssBadCert.title "Varna povezava ni uspela">
+<!ENTITY nssBadCert.title "zaščitena povezava ni uspela">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
 <li>Težava se lahko nahaja v nastavitvah strežnika ali pa se kdo poskuša lažno predstaviti z njim.</li> 
 <li>Če ste se v preteklosti že uspešno povezali na ta strežnik, je napaka morda samo začasna, zato lahko ponovno poskusite kasneje.</li> 
