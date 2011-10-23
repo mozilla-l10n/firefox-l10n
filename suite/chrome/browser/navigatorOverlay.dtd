@@ -48,7 +48,8 @@
 <!ENTITY pageInfoCmd.label "Oldal adatai">
 <!ENTITY pageInfoCmd.accesskey "a">
 <!ENTITY pageInfoCmd.commandkey "i">
-
+<!ENTITY historyCmd.label "Előzmények">
+<!ENTITY historyCmd.accesskey "l">
 <!ENTITY applyTheme.label "Téma alkalmazása">
 <!ENTITY applyTheme.accesskey "T">
 <!ENTITY getNewThemesCmd.label "Új témák letöltése">
@@ -70,6 +71,8 @@
 <!ENTITY recentWindows.commandkey "b">
 <!ENTITY historyRestoreLastSession.label "Előző munkamenet helyreállítása">
 <!ENTITY historyRestoreLastSession.accesskey "R">
+<!ENTITY syncTabsMenu.label "Lapok más számítógépekről">
+<!ENTITY syncTabsMenu.accesskey "m">
 
 <!-- Bookmarks Menu -->
 <!ENTITY bookmarksMenu.label "Könyvjelzők">
@@ -133,3 +136,7 @@
 <!ENTITY cookieImageManager.accesskey "K">
 <!ENTITY cookiePopupManager.label "Felugró ablakok kezelése">
 <!ENTITY cookiePopupManager.accesskey "F">
+
+<!ENTITY clearPrivateDataCmd.label "Személyes adatok törlése...">
+<!ENTITY clearPrivateDataCmd.accesskey "S">
+
