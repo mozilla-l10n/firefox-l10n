@@ -1,5 +1,98 @@
-<!-- the following is for the task menu overlay -->
+<!-- File Menu -->
+<!ENTITY tabCmd.label "Böngészőlap">
+<!ENTITY tabCmd.accesskey "l">
+<!ENTITY tabCmd.commandkey "t">
+<!ENTITY openCmd.label "Webcím megnyitása...">
+<!ENTITY openCmd.accesskey "W">
+<!ENTITY openCmd.commandkey "l">
+<!ENTITY openFileCmd.label "Fájl megnyitása...">
+<!ENTITY openFileCmd.accesskey "F">
+<!ENTITY openFileCmd.commandkey "o">
 
+<!ENTITY closeOtherTabs.label "Többi böngészőlap bezárása">
+<!ENTITY closeOtherTabs.accesskey "b">
+
+<!ENTITY uploadFile.label "Fájl feltöltése...">
+<!ENTITY uploadFile.accesskey "F">
+
+<!ENTITY printSetupCmd.label "Oldalbeállítás...">
+<!ENTITY printSetupCmd.accesskey "O">
+
+<!-- Edit Menu -->
+<!ENTITY findOnCmd.label "Keresés ezen az oldalon...">
+
+<!-- View Menu -->
+<!ENTITY toolbarsCmd.label "Megjelenítés/Elrejtés">
+<!ENTITY toolbarsCmd.accesskey "E">
+<!ENTITY tabbarCmd.label "Fülek sávja">
+<!ENTITY tabbarCmd.accesskey "F">
+<!ENTITY taskbarCmd.label "Állapotsor">
+<!ENTITY taskbarCmd.accesskey "l">
+<!ENTITY componentbarCmd.label "Mozilla-komponensek">
+<!ENTITY componentbarCmd.accesskey "M">
+
+<!ENTITY fullScreenCmd.label "Teljes képernyős üzemmód">
+<!ENTITY fullScreenCmd.accesskey "n">
+ 
+<!ENTITY useStyleSheetMenu.label "Stíluslapok használata">
+<!ENTITY useStyleSheetMenu.accesskey "u">
+<!ENTITY useStyleSheetNone.label "Nincs">
+<!ENTITY useStyleSheetNone.accesskey "N">
+<!ENTITY useStyleSheetPersistentOnly.label "Alapértelmezett stílus">
+<!ENTITY useStyleSheetPersistentOnly.accesskey "A">
+<!ENTITY bidiSwitchPageDirectionItem.label "Oldal irányának átváltása">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey "l">
+<!ENTITY pageSourceCmd.label "Oldal forrása">
+<!ENTITY pageSourceCmd.accesskey "f">
+<!ENTITY pageSourceCmd.commandkey "u">
+<!ENTITY pageInfoCmd.label "Oldal adatai">
+<!ENTITY pageInfoCmd.accesskey "a">
+<!ENTITY pageInfoCmd.commandkey "i">
+
+<!ENTITY applyTheme.label "Téma alkalmazása">
+<!ENTITY applyTheme.accesskey "T">
+<!ENTITY getNewThemesCmd.label "Új témák letöltése">
+<!ENTITY getNewThemesCmd.accesskey "j">
+<!ENTITY getPersonasCmd.label "Új Personák letöltése">
+<!ENTITY getPersonasCmd.accesskey "P">
+
+<!-- Go Menu -->
+<!ENTITY goMenu.label "Ugrás">
+<!ENTITY goMenu.accesskey "U">
+<!ENTITY goHomeCmd.label "Kezdőlap">
+<!ENTITY goHomeCmd.accesskey "K">
+
+<!ENTITY recentTabs.label "Nemrég bezárt lapok">
+<!ENTITY recentTabs.accesskey "N">
+<!ENTITY recentTabs.commandkey "l">
+<!ENTITY recentWindows.label "Nemrég bezárt ablakok">
+<!ENTITY recentWindows.accesskey "r">
+<!ENTITY recentWindows.commandkey "b">
+<!ENTITY historyRestoreLastSession.label "Előző munkamenet helyreállítása">
+<!ENTITY historyRestoreLastSession.accesskey "R">
+
+<!-- Bookmarks Menu -->
+<!ENTITY bookmarksMenu.label "Könyvjelzők">
+<!ENTITY bookmarksMenu.accesskey "K">
+<!ENTITY addCurPageCmd.label "Oldal hozzáadása a könyvjelzőkhöz">
+<!ENTITY addCurPageCmd.accesskey "k">
+<!ENTITY addCurPageAsCmd.label "Könyvjelző felvétele mint...">
+<!ENTITY addCurPageAsCmd.accesskey "f">
+<!ENTITY addCurPageAsCmd.commandkey "d">
+<!ENTITY addCurTabsAsCmd.label "Böngészőlapcsoport könyvjelzőzése...">
+<!ENTITY addCurTabsAsCmd.accesskey "k">
+<!ENTITY manBookmarksCmd.label "Könyvjelzők kezelése...">
+<!ENTITY manBookmarksCmd.accesskey "z">
+<!ENTITY manBookmarksCmd.commandkey "b">
+
+<!-- Tools Menu -->
+<!ENTITY searchInternetCmd.label "Keresés a weben">
+<!ENTITY searchInternetCmd.accesskey "K">
+<!ENTITY searchInternet.commandKey "s">
+<!ENTITY translateMenu.label "Oldal fordítása">
+<!ENTITY translateMenu.accesskey "f">
+
+<!-- the following is for the task menu overlay -->
 <!ENTITY cookieMessageTitle.label "A sütiengedélyek megváltoztak">
 <!ENTITY cookieDisplayCookiesCmd.label "Tárolt sütik kezelése">
 <!ENTITY cookieDisplayCookiesCmd.accesskey "T">

@@ -31,9 +31,6 @@
 <!ENTITY minimizeButton.tooltip "Kis méret">
 <!ENTITY restoreButton.tooltip "Visszaállítás">
 
-<!ENTITY goMenu.label "Ugrás">
-<!ENTITY goMenu.accesskey "U">
-
 <!ENTITY feedsMenu.label "Feliratkozás erre az oldalra">
 <!ENTITY feedsMenu.accesskey "F">
 

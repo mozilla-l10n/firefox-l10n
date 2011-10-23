@@ -55,6 +55,19 @@
 <!ENTITY preferencesCmd.label "Beállítások...">
 <!ENTITY preferencesCmd.key "E">
 <!ENTITY preferencesCmd.accesskey "B">
+<!ENTITY findCmd.key "K">
+<!-- LOCALIZATION NOTE (findCmd.accesskey): This accesskey should be within
+     findCmd.label found in messengercompose.dtd, messenger.dtd and
+     editorOverlay.dtd and findOnCmd.label found in navigatorOverlay.dtd -->
+<!ENTITY findCmd.accesskey "K">
+<!ENTITY findAgainCmd.label "Következő keresése">
+<!ENTITY findAgainCmd.accesskey "v">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findPrevCmd.label "Előző keresése">
+<!ENTITY findPrevCmd.accesskey "l">
+<!ENTITY findPrevCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findPrevCmd.commandkey2 "VK_F3">
 <!ENTITY findTypeTextCmd.label "Szöveg keresése gépeléssel">
 <!ENTITY findTypeTextCmd.accesskey "S">
 <!ENTITY findTypeLinksCmd.label "Hivatkozások keresése gépeléssel">
