@@ -317,6 +317,8 @@
 <!ENTITY calendarproperties.wcap.label     "Sistemski strežnik koledarjev Java Sun (WCAP)">
 <!ENTITY calendarproperties.format.label   "Oblika:">
 <!ENTITY calendarproperties.location.label "Lokacija:">
+<!ENTITY calendarproperties.refreshInterval.label          "Osveži koledar:">
+<!ENTITY calendarproperties.refreshInterval.manual.label   "Ročno">
 <!ENTITY calendarproperties.name.label     "Ime:">
 <!ENTITY calendarproperties.readonly.label                 "Samo za branje">
 <!ENTITY calendarproperties.firealarms.label               "Pokaži alarme">
