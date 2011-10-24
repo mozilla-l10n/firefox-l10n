@@ -13,15 +13,13 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Tsjinner net fûn">
-<!ENTITY dnsNotFound.longDesc "
+<!ENTITY dnsNotFound.longDesc2 "
 <ul>
-  <li>Kontrolearje it adres op typflaters as
+  <li>Kontrolearje it adres op typflaters, lykas
     <strong>ww</strong>.foarbyld.com yn stee fan
     <strong>www</strong>.foarbyld.com</li>
-  <li>Kontrolearje jo netwurkferbining as jo gjin inkele side lade
+  <li>Kontrolearje jo gegevevens- of Wi-Fi-ferbining fan jo apparaat as jo gjin inkele side lade
     kinne.</li>
-  <li>Gean nei oft &brandShortName; tagong hat ta it web of jo 
-    kompjûter of netwurk befeilige is troch in brânmuorre of proxytsjinner.</li>
 </ul>
 ">
 
@@ -96,12 +94,9 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "Kin de proxytsjinner net fine">
-<!ENTITY proxyResolveFailure.longDesc "
+<!ENTITY proxyResolveFailure.longDesc2 "
 <ul>
-  <li>Kontrolearje oft jo proxy-ynstellings goed binne.</li>
-  <li>Gean nei oft jo kompjûter op in wurkjend netwurk oansletten is.</li>
-  <li>Gean nei oft &brandShortName; tagong hat ta it web of jo 
-    kompjûter of netwurk befeilige is troch in brânmuorre of proxytsjinner.</li>
+  <li>Fersekerje jo derfan dat jo apparaat in wurkende gegevens- of Wi-Fi-ferbining hat.</li>
 </ul>
 ">
 
@@ -138,26 +133,13 @@
 </ul>
 ">
 
-<!ENTITY sharedLongDesc "
+<!ENTITY sharedLongDesc2 "
 <ul>
-  <li>Miskien is it webstee tydlik net beskikber. Besykje it letter 
+  <li>Miskien is it webstee tydlik net beskikber of oerbelêste. Besykje it letter 
     nochris.</li>
-  <li>Kontrolearje jo netwurkferbining as jo gjin inkele side lade kinne.</li>
-  <li>Gean nei oft &brandShortName; tagong hat ta it web, of dat jo 
-    kompjûter of netwurk befeilige is troch in brânmuorre of proxytsjinner.</li>
+  <li>Kontrolearje jo gegevevens- of Wi-Fi-ferbining fan jo apparaat as jo gjin inkele side lade
+    kinne.</li>
 </ul>
-">
-
-<!ENTITY malwareBlocked.title "Fertochte Oanfal Side!">
-<!ENTITY malwareBlocked.longDesc "<p>
-Oanfal sides probearje om programmatuer te ynstallearjen dy't privee-ynformaasje stêle kinne, jo komjûter brûke om oaren oan te fallen, of jo systeem skansearje.</p>
-<p>Jo soenen dizze side net besykje!</p>
-">
-
-<!ENTITY phishingBlocked.title "Fertochte Web Ferfalsking!">
-<!ENTITY phishingBlocked.longDesc "
-<p>It ynfieren fan persoanlike ynformaasje op dizze side kin resultearje yn identeitsstellerij of oare fraude.</p>
-<p>Dizze typen fan webferfalsking wurde brûkt yn scams bekend as phishing oanfallen, weryn frauduleuse websides en emails brûkt wurde om boarnes dy't jo fertrouwe te imitearjen.</p>
 ">
 
 <!ENTITY cspFrameAncestorBlocked.title "Blokkearre troch ynhâldsfeilichheidsbelied">
@@ -165,7 +147,6 @@ Oanfal sides probearje om programmatuer te ynstallearjen dy't privee-ynformaasje
 
 <!ENTITY corruptedContentError.title "Korruptearre ynhâldsflater">
 <!ENTITY corruptedContentError.longDesc "<p>De side dy't jo probearje te besjen kin net toand wurde omdat der in flater yn de gegevensoerdracht ûntdekt waard.</p><ul><li>Nim kontakt op mei de webstee-eigners om se te ynformearjen oer dit probleem.</li></ul>">
-
 
 <!ENTITY securityOverride.linkText "Of jo kinne in útsûndering tafoegje...">
 <!ENTITY securityOverride.getMeOutOfHereButton "Helje My Hjir út!">

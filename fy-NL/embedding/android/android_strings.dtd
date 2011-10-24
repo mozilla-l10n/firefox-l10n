@@ -16,3 +16,8 @@
 <!ENTITY  sending_crash_report "Ferstjoert ûngelokrapport\u2026">
 <!ENTITY  exit_label "Slute">
 <!ENTITY  continue_label "Fierder">
+
+<!ENTITY  launcher_shortcuts_title "&brandShortName; web-apps">
+<!ENTITY  launcher_shortcuts_empty "Gjin web-apps fûn">
+
+<!ENTITY choose_file "Bestân kieze">

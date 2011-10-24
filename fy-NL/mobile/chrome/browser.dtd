@@ -7,6 +7,7 @@
 <!ENTITY go.label              "Gean">
 <!ENTITY star.label            "Stjer">
 
+<!ENTITY showTabs.label        "Ljepblêden toane">
 <!ENTITY newtab.label          "Nij ljepblêd">
 <!ENTITY closetab.label        "Ljepblêd slute">
 
@@ -15,6 +16,7 @@
 <!ENTITY copyAll.label         "Kopiearje alles">
 <!ENTITY copylink.label        "Kopiearje keppelinglokaasje">
 <!ENTITY paste.label           "Plakke">
+<!ENTITY pasteAndGo.label      "Plakke &amp; Gean">
 <!ENTITY delete.label          "Fuortsmite">
 <!ENTITY selectAll.label       "Selektearje alles">
 <!ENTITY noSuggestions.label   "(Gjin foarstellen)">
@@ -68,6 +70,7 @@
 <!ENTITY bookmarkPopup.label       "Blêdwizer bewarre">
 <!ENTITY bookmarkRemove.label      "Fuortsmite">
 <!ENTITY bookmarkEdit.label        "Bewurkje">
+<!ENTITY bookmarkShortcut.label    "Tafoegje oan thússkerm">
 
 <!ENTITY identity.unverifiedsite2  "Dit webstee jout gjin identiteitsynformaasje.">
 <!ENTITY identity.connectedTo2 	   "Ferbûn mei">
@@ -92,6 +95,7 @@
 
 <!ENTITY contextOpenInNewTab.label "Iepenje keppeling yn nij ljepblêd">
 <!ENTITY contextSaveLink.label     "Bearje keppeling">
+<!ENTITY contextCopyLink.label        "Keppeling kopiearje">
 <!ENTITY contextSaveImage.label    "Bewarje ôfbylding">
 <!ENTITY contextShareLink.label       "Diel keppeling">
 <!ENTITY contextShareImage.label      "Diel ôfbylding">
@@ -103,6 +107,7 @@
 <!ENTITY contextFullScreen.label      "Folslein skerm">
 <!ENTITY contextEditBookmark.label    "Bewurkje">
 <!ENTITY contextRemoveBookmark.label  "Fuortsmite">
+<!ENTITY contextShortcutBookmark.label "Tafoegje oan thússkerm">
 
 <!ENTITY pageactions.saveas.pdf      "Bewarje as PDF">
 <!ENTITY pageactions.share.page      "Diel side">
@@ -112,5 +117,6 @@
 <!ENTITY pageactions.findInPage      "Fyn yn side">
 <!ENTITY pageactions.search.addNew   "Sykmasine tafoegje">
 <!ENTITY pageactions.charEncoding    "Karakterdekodearring">
+<!ENTITY pageactions.webapps.install "Ynstallearje as App">
 
 <!ENTITY appMenu.siteOptions         "Webstee-opsjes">
