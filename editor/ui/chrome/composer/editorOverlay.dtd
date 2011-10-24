@@ -68,11 +68,6 @@
 <!ENTITY publishAsCmd.accesskey "g">
 <!ENTITY saveAsChangeEncodingCmd.label "Memorisar e midar la codaziun da caracters">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "c">
-<!ENTITY printSetupCmd.label "Organisar la pagina…">
-<!ENTITY printSetupCmd.accesskey "O">
-<!ENTITY printCmd.label "Stampar…">
-<!ENTITY printCmd.accesskey "p">
-<!ENTITY printCmd.key "P">
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "Modifitgar">
