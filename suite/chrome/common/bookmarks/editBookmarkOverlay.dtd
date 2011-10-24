@@ -7,6 +7,7 @@
 <!ENTITY editBookmarkOverlay.siteLocation.label "Webhely helye:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey "W">
 <!ENTITY editBookmarkOverlay.folder.label "Mappa:">
+<!ENTITY editBookmarkOverlay.folder.accesskey "M">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip "Minden könyvjelzőmappa megjelenítése">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip "Elrejtés">
 <!ENTITY editBookmarkOverlay.tags.label "Címkék:">

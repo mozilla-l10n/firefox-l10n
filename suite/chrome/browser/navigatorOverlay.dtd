@@ -62,6 +62,14 @@
 <!ENTITY goHomeCmd.label "Kezdőlap">
 <!ENTITY goHomeCmd.accesskey "K">
 
+<!ENTITY clearPrivateDataCmd.label "Személyes adatok törlése...">
+<!ENTITY clearPrivateDataCmd.accesskey "S">
+<!ENTITY historyCmd.label "Előzmények">
+<!ENTITY historyCmd.accesskey "l">
+<!ENTITY history.commandKey "h">
+<!ENTITY syncTabsMenu.label     "Lapok más számítógépekről">
+<!ENTITY syncTabsMenu.acceskey     "L">
+
 <!ENTITY recentTabs.label "Nemrég bezárt lapok">
 <!ENTITY recentTabs.accesskey "N">
 <!ENTITY recentTabs.commandkey "l">
@@ -133,3 +141,4 @@
 <!ENTITY cookieImageManager.accesskey "K">
 <!ENTITY cookiePopupManager.label "Felugró ablakok kezelése">
 <!ENTITY cookiePopupManager.accesskey "F">
+
