@@ -35,43 +35,43 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField2.label "a ">
-<!ENTITY fromField2.label "da ">
-<!ENTITY senderField2.label "speditur ">
-<!ENTITY organizationField2.label "organisaziun ">
-<!ENTITY replyToField2.label "respunder a ">
+<!ENTITY toField3.label "A ">
+<!ENTITY fromField3.label "Da ">
+<!ENTITY senderField3.label "Speditur ">
+<!ENTITY organizationField3.label "Organisaziun ">
+<!ENTITY replyToField3.label "Respunder a ">
 
-<!ENTITY subjectField2.label "object ">
+<!ENTITY subjectField3.label "Object ">
 <!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
-<!ENTITY ccField2.label "cc ">
-<!ENTITY bccField2.label "bcc ">
-<!ENTITY newsgroupsField2.label "gruppas da discussiun ">
-<!ENTITY followupToField2.label "followup-to ">
-<!ENTITY tagsHdr2.label "etichettas ">
-<!ENTITY dateField2.label "data ">
-<!ENTITY userAgentField2.label "user-agent ">
-<!ENTITY referencesField2.label "referenzas ">
-<!ENTITY messageIdField2.label "ID dal messadi ">
-<!ENTITY inReplyToField2.label "sco-resposta-a ">
-<!ENTITY originalWebsite2.label "pagina web ">
+<!ENTITY ccField3.label "Cc ">
+<!ENTITY bccField3.label "Bcc ">
+<!ENTITY newsgroupsField3.label "Gruppas da discussiun ">
+<!ENTITY followupToField3.label "Followup-to ">
+<!ENTITY tagsHdr3.label "Etichettas ">
+<!ENTITY dateField3.label "Data ">
+<!ENTITY userAgentField3.label "User-agent ">
+<!ENTITY referencesField3.label "Referenzas ">
+<!ENTITY messageIdField3.label "ID dal messadi ">
+<!ENTITY inReplyToField3.label "Sco resposta a ">
+<!ENTITY originalWebsite3.label "pagina web ">
 
 <!ENTITY editMessageDescription.label "Quai è in sboz dad in messadi">
 <!ENTITY editMessageButton.label "Modifitgar...">
-<!ENTITY hdrArchiveButton.label "archiv">
-<!ENTITY hdrArchiveButton.tooltip "archivar quest messadi">
-<!ENTITY hdrSmartReplyButton.label "respunder smart">
-<!ENTITY hdrReplyButton.label "respunder">
-<!ENTITY hdrReplyButton.tooltip "respunder quest messadi">
-<!ENTITY hdrReplyAllButton.label "respunder a tuts">
-<!ENTITY hdrReplyAllButton.tooltip "respunder al speditur ed a tut ils destinaturs">
-<!ENTITY hdrReplyListButton.label "respunder a la glista">
-<!ENTITY hdrReplyListButton.tooltip "respunder a la glista dad e-mail">
-<!ENTITY hdrForwardButton.label "renviar">
-<!ENTITY hdrForwardButton.tooltip "renviar quest messadi">
-<!ENTITY hdrJunkButton.label "nungiavischà">
-<!ENTITY hdrJunkButton.tooltip "marcar quest messadi sco nungiavischà">
-<!ENTITY hdrTrashButton.label "stizzar">
-<!ENTITY hdrTrashButton.tooltip "stizzar quest messadi">
+<!ENTITY hdrArchiveButton1.label "Archivar">
+<!ENTITY hdrArchiveButton1.tooltip "Archivar quest messadi">
+<!ENTITY hdrSmartReplyButton1.label "Respunder smart">
+<!ENTITY hdrReplyButton1.label "Respunder">
+<!ENTITY hdrReplyButton1.tooltip "Respunder quest messadi">
+<!ENTITY hdrReplyAllButton1.label "Respunder a tuts">
+<!ENTITY hdrReplyAllButton1.tooltip "Respunder al speditur ed a tut ils destinaturs">
+<!ENTITY hdrReplyListButton1.label "Respunder a la glista">
+<!ENTITY hdrReplyListButton1.tooltip "Respunder a la glista dad e-mail">
+<!ENTITY hdrForwardButton1.label "Renviar">
+<!ENTITY hdrForwardButton1.tooltip "Renviar quest messadi">
+<!ENTITY hdrJunkButton1.label "Nungiavischà">
+<!ENTITY hdrJunkButton1.tooltip "Marcar quest messadi sco nungiavischà">
+<!ENTITY hdrTrashButton1.label "Stizzar">
+<!ENTITY hdrTrashButton1.tooltip "Stizzar quest messadi">
 
 <!ENTITY hdrViewToolbarShowFull.label "Mussar las iconas ed il text">
 <!ENTITY hdrViewToolbarShowFull.accesskey "a">
@@ -82,29 +82,29 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Adina mussar respunder al speditur">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "R">
 
-<!ENTITY otherActionsButton.label "autras acziuns">
-<!ENTITY otherActionsOpenConversation.label "avrir sco conversaziun">
-<!ENTITY otherActionsOpenConversation.accesskey "c">
-<!ENTITY otherActionsOpenInNewWindow.label "avrir en ina nova fanestra">
-<!ENTITY otherActionsOpenInNewWindow.accesskey "a">
-<!ENTITY otherActionsOpenInNewTab.label "avrir en in nov tab">
-<!ENTITY otherActionsOpenInNewTab.accesskey "t">
-<!ENTITY markAsReadMenuItem.label "marcar sco legì">
-<!ENTITY markAsReadMenuItem.accesskey "r">
-<!ENTITY markAsUnreadMenuItem.label "marcar sco nunlegì">
-<!ENTITY markAsUnreadMenuItem.accesskey "r">
-<!ENTITY saveAsMenuItem.label "memorisar sut…">
-<!ENTITY saveAsMenuItem.accesskey "s">
-<!ENTITY viewSourceMenuItem.label "vesair il text da funtauna">
-<!ENTITY viewSourceMenuItem.accesskey "v">
-<!ENTITY otherActionsPrint.label "stampar…">
-<!ENTITY otherActionsPrint.accesskey "p">
+<!ENTITY otherActionsButton1.label "Autras acziuns">
+<!ENTITY otherActionsOpenConversation1.label "Avrir sco conversaziun">
+<!ENTITY otherActionsOpenConversation1.accesskey "c">
+<!ENTITY otherActionsOpenInNewWindow1.label "Avrir en ina nova fanestra">
+<!ENTITY otherActionsOpenInNewWindow1.accesskey "A">
+<!ENTITY otherActionsOpenInNewTab1.label "Avrir en in nov tab">
+<!ENTITY otherActionsOpenInNewTab1.accesskey "t">
+<!ENTITY markAsReadMenuItem1.label "Marcar sco legì">
+<!ENTITY markAsReadMenuItem1.accesskey "r">
+<!ENTITY markAsUnreadMenuItem1.label "Marcar sco nunlegì">
+<!ENTITY markAsUnreadMenuItem1.accesskey "r">
+<!ENTITY saveAsMenuItem1.label "Memorisar sut…">
+<!ENTITY saveAsMenuItem1.accesskey "s">
+<!ENTITY viewSourceMenuItem1.label "Vesair il text da funtauna">
+<!ENTITY viewSourceMenuItem1.accesskey "V">
+<!ENTITY otherActionsPrint1.label "Stampar…">
+<!ENTITY otherActionsPrint1.accesskey "p">
 
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Avrir">
 <!ENTITY openAttachmentCmd.accesskey    "O">
 <!ENTITY saveAsAttachmentCmd.label    "Memorisar sut...">
-<!ENTITY saveAsAttachmentCmd.accesskey    "A">
+<!ENTITY saveAsAttachmentCmd.accesskey    "s">
 <!ENTITY detachAttachmentCmd.label    "Statgar…">
 <!ENTITY detachAttachmentCmd.accesskey    "t">
 <!ENTITY deleteAttachmentCmd.label    "Stizzar">
@@ -119,26 +119,10 @@
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
 
 <!-- Attachment toolbar items -->
-<!ENTITY saveAttachmentButton.label       "memorisar">
-<!ENTITY saveAttachmentButton.tooltip     "memorisar la datoteca agiuntada">
-<!ENTITY saveAllAttachmentsButton.label   "memorisar tuts">
-<!ENTITY saveAllAttachmentsButton.tooltip "memorisar tut las datotecas agiuntadas">
-<!ENTITY openAttachmentMenuItem.label     "avrir">
-<!ENTITY openAttachmentMenuItem.accesskey    "a">
-<!ENTITY saveAsAttachmentMenuItem.label    "memorisar sut…">
-<!ENTITY saveAsAttachmentMenuItem.accesskey    "s">
-<!ENTITY detachAttachmentMenuItem.label    "distatgar…">
-<!ENTITY detachAttachmentMenuItem.accesskey    "t">
-<!ENTITY deleteAttachmentMenuItem.label    "stizzar">
-<!ENTITY deleteAttachmentMenuItem.accesskey    "z">
-<!ENTITY openAllAttachmentsMenuItem.label    "avrir tuts…">
-<!ENTITY openAllAttachmentsMenuItem.accesskey    "a">
-<!ENTITY saveAllAttachmentsMenuItem.label    "memorisar tuts…">
-<!ENTITY saveAllAttachmentsMenuItem.accesskey    "u">
-<!ENTITY detachAllAttachmentsMenuItem.label    "distatgar tuts…">
-<!ENTITY detachAllAttachmentsMenuItem.accesskey    "g">
-<!ENTITY deleteAllAttachmentsMenuItem.label    "stizzar tuts…">
-<!ENTITY deleteAllAttachmentsMenuItem.accesskey    "i">
+<!ENTITY saveAttachmentButton1.label       "Memorisar">
+<!ENTITY saveAttachmentButton1.tooltip     "Memorisar la datoteca agiuntada">
+<!ENTITY saveAllAttachmentsButton1.label   "Memorisar tuts">
+<!ENTITY saveAllAttachmentsButton1.tooltip "Memorisar tut las datotecas agiuntadas">
 
 <!ENTITY copyLinkCmd.label        "Copiar l'adressa da la colliaziun">
 <!ENTITY copyLinkCmd.accesskey    "C">
