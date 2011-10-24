@@ -68,7 +68,7 @@
 <!ENTITY historyCmd.accesskey "l">
 <!ENTITY history.commandKey "h">
 <!ENTITY syncTabsMenu.label     "Lapok más számítógépekről">
-<!ENTITY syncTabsMenu.acceskey     "L">
+<!ENTITY syncTabsMenu.accesskey     "L">
 
 <!ENTITY recentTabs.label "Nemrég bezárt lapok">
 <!ENTITY recentTabs.accesskey "N">
