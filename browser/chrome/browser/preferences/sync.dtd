@@ -14,7 +14,7 @@
 <!ENTITY manageAccount.accesskey      "A">
 <!ENTITY viewQuota.label              "Mussar la quota">
 <!ENTITY changePassword2.label        "Midar il pled-clav…">
-<!ENTITY mySyncKey.label              "Mia clav da Sync">
+<!ENTITY myRecoveryKey.label          "Mia clav da restituziun">
 <!ENTITY resetSync2.label             "Redefinir Sync…">
 
 <!ENTITY addDevice.label              "Agiuntar in apparat">

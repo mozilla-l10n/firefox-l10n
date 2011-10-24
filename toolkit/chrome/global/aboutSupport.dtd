@@ -21,6 +21,7 @@
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configuraziun dal build">
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
 <!ENTITY aboutSupport.appBasicsCrashIDs "Annunzias da collaps">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Utilisaziun da la capacitad da memorisar">
 
 <!ENTITY aboutSupport.show.label "Avrir l'ordinatur">
 

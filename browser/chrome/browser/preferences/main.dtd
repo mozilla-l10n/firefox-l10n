@@ -13,8 +13,8 @@
 <!ENTITY useCurrentPage.label      "Utilisar la pagina actuala">
 <!ENTITY useCurrentPage.accesskey  "p">
 <!ENTITY useMultiple.label         "Utilisar las paginas actualas">
-<!ENTITY useBookmark.label         "Utilisar segnapaginas">
-<!ENTITY useBookmark.accesskey     "l">
+<!ENTITY chooseBookmark.label      "Utilisar segnapaginas…">
+<!ENTITY chooseBookmark.accesskey  "l">
 <!ENTITY restoreDefault.label      "Restituir il standard">
 <!ENTITY restoreDefault.accesskey  "R">
 
