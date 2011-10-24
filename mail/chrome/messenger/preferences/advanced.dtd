@@ -6,6 +6,9 @@
 
 <!-- General Settings -->
 
+<!ENTITY submitTelemetry.label         "Trametter datas da prestaziun">
+<!ENTITY submitTelemetry.accesskey     "P">
+<!ENTITY telemetryInfoLink.label       "Dapli infurmaziuns davart 'Telemetry'">
 <!ENTITY enableGlodaSearch.label       "Activar la tschertga globala e l'indexaziun da messadis">
 <!ENTITY enableGlodaSearch.accesskey   "E">
 <!ENTITY systemIntegration.label       "Integraziun en il sistem">

@@ -92,6 +92,8 @@
 <!ENTITY viewMenu.accesskey "V">
 <!ENTITY viewToolbarsMenuNew.label "Travs d'utensils"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "T"> 
+<!ENTITY menubarCmd.label "Trav da menu">
+<!ENTITY menubarCmd.accesskey "m">
 <!ENTITY showCompositionToolbarCmd.label "Trav d'utensils per rediger">
 <!ENTITY showCompositionToolbarCmd.accesskey "r">
 <!ENTITY showFormattingBarCmd.label "Trav da formataziun">
