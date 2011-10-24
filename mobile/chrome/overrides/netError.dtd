@@ -7,7 +7,7 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Kin gjin ferbining meitsje">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
 
 <!ENTITY deniedPortAccess.title "Dit adres hat in beheinde tagong">
 <!ENTITY deniedPortAccess.longDesc "">
@@ -48,7 +48,7 @@
 ">
 
 <!ENTITY netInterrupt.title "De ferbining waard ferbrutsen">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netOffline.title "Offline-moadus">
 <!ENTITY netOffline.longDesc2 "
@@ -72,10 +72,10 @@
 ">
 
 <!ENTITY netReset.title "De ferbining waard op 'e nij inisjalisearre">
-<!ENTITY netReset.longDesc "&sharedLongDesc;">
+<!ENTITY netReset.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netTimeout.title "De wachttiid foar de ferbining is ferstrutsen">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
 <!ENTITY protocolNotFound.title "It adres waard net begrepen">
 <!ENTITY protocolNotFound.longDesc "
