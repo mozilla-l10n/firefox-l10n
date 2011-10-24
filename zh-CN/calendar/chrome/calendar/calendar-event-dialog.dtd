@@ -27,6 +27,7 @@
    -   Hubert Gajewski <hubert@hubertgajewski.com>, Aviary.pl
    -   Fred Jendrzejewski <fred.jen@web.de>
    -   Simon Vaillancourt <simon.at.orcl@gmail.com>   
+   -   Gianfranco Balza <bv1578@gmail.com>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -44,6 +45,8 @@
 
 <!ENTITY event.title.label                  "编辑项目" >
 
+<!ENTITY event.dialog.keepDurationButton.tooltip   "更改截止时间时保持连续性">
+<!ENTITY event.dialog.keepDurationButton.accesskey "K">
 
 <!ENTITY newevent.from.label                "从" >
 <!ENTITY newevent.to.label                  "到" >
@@ -375,6 +378,10 @@
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "常规">
 <!ENTITY read.only.title.label           "标题：">
+<!ENTITY read.only.event.start.label     "开始日期：">
+<!ENTITY read.only.task.start.label      "开始日期：">
+<!ENTITY read.only.event.end.label       "截止日期：">
+<!ENTITY read.only.task.due.label        "截止时间：">
 <!ENTITY read.only.repeat.label          "重复：">
 <!ENTITY read.only.location.label        "位置：">
 <!ENTITY read.only.category.label        "分类：">
