@@ -125,6 +125,8 @@
 <!ENTITY redoDefaultCmd.accesskey "t">
 
 <!-- View Menu -->
+<!ENTITY menubarCmd.label "Trav da menu">
+<!ENTITY menubarCmd.accesskey "m">
 <!ENTITY showMessengerToolbarCmd.label "Trav d'utensils da messadi">
 <!ENTITY showMessengerToolbarCmd.accesskey "u">
 <!ENTITY customizeToolbar.label "Modifitgar…">
@@ -275,6 +277,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageSourceCmd.label "Text da funtuna dal messadi">
 <!ENTITY pageSourceCmd.accesskey "f">
 <!ENTITY pageSourceCmd.key "u">
+<!ENTITY getNewMessagesCmd.key "y">
+<!ENTITY getAllNewMessagesCmd.key "Y">
 
 <!-- Search Menu -->
 <!ENTITY findMenu.label "Tschertgar">
@@ -502,12 +506,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY previousButton.label "Ensi">
 <!ENTITY backButton1.label "Enavos">
 <!ENTITY goForwardButton1.label "Vinavant">
+<!ENTITY deleteItem.title "Stizzar">
 <!ENTITY deleteButton.label "Stizzar">
 <!ENTITY undeleteButton.label "Restaurar">
 <!ENTITY markButton.label "Marcar">
 <!ENTITY printButton.label "Stampar">
 <!ENTITY stopButton.label "Fermar">
 <!ENTITY throbberItem.title "Indicaziun da l'activitad">
+<!ENTITY junkItem.title "Nungiavischà">
 <!ENTITY junkButton.label "Nungiavischà">
 <!ENTITY notJunkButton.label "Betg nungiavischà">
 <!ENTITY addressBookButton.label "Cudeschet d'adressas">

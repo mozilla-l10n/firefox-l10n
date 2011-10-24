@@ -5,9 +5,9 @@
 
 <!-- Entities for Account Type page -->
 
-<!ENTITY accountSetupInfo.label "Per retschaiver messadis stos ti l'emprim crear in conto d'e-mail u d'ina gruppa da discussiun.">
+<!ENTITY accountSetupInfo2.label "Per retschaiver messadis stos ti l'emprim crear in conto.">
 <!ENTITY accountTypeTitle.label "Installaziun dal nov conto">
-<!ENTITY accountTypeDesc.label "Quest assistent ta gida da ramassar las infurmaziuns necessarias per installar in conto dad e-mail u d'ina gruppa da discussiun. Sche ti na conuschas betg las infurmaziuns dumandadas, contactescha per palschair tes administratur dal sistem u tes provider da survetschs d'internet.">
+<!ENTITY accountTypeDesc2.label "Quest assistent ta gida da ramassar las infurmaziuns necessarias per installar in conto. Sche ti na conuschas betg las infurmaziuns dumandadas, contactescha per palschair tes administratur dal sistem u tes provider da survetschs d'internet.">
 <!ENTITY accountTypeDirections.label "Tscherna tge tip da conto che ti vul installar:">
 <!ENTITY accountTypeMail.label "Conto d'e-mail">
 <!ENTITY accountTypeMail.accesskey "m">
