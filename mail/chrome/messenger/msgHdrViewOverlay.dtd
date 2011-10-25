@@ -59,6 +59,7 @@
 <!ENTITY editMessageButton.label "Редактиране…">
 <!ENTITY hdrArchiveButton.label "архивиране">
 <!ENTITY hdrArchiveButton.tooltip "архивира това съобщение">
+<!ENTITY hdrSmartReplyButton.label "умен отговор">
 <!ENTITY hdrReplyButton.label "отговор">
 <!ENTITY hdrReplyButton.tooltip "отговаря на това съобщение">
 <!ENTITY hdrReplyAllButton.label "отговор до всички">

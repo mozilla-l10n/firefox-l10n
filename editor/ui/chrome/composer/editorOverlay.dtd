@@ -73,9 +73,6 @@
 <!ENTITY printCmd.label "Печат…">
 <!ENTITY printCmd.accesskey "П">
 <!ENTITY printCmd.key "P">
-<!ENTITY closeCmd.label "Затваряне">
-<!ENTITY closeCmd.accesskey "З">
-<!ENTITY closeCmd.key "W">
 <!-- Edit menu items -->
 
 <!ENTITY editMenu.label "Редактиране">
@@ -91,17 +88,6 @@
 <!ENTITY pasteAsQuotationCmd.accesskey "ц">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Търсене и замяна…">
-<!ENTITY findCmd.accesskey "Т">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.key2 "VK_F19">
-<!ENTITY findAgainCmd.label "Търсене отново">
-<!ENTITY findAgainCmd.accesskey "н">
-<!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Търсене предишна">
-<!ENTITY findPrevCmd.accesskey "е">
-<!ENTITY findPrevCmd.key "G">
-<!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Проверка на правопис при писане">
 <!ENTITY enableInlineSpellChecker.accesskey "П">
 <!ENTITY checkSpellingCmd2.label "Проверка на правописа">
@@ -139,23 +125,6 @@
 <!ENTITY createLinkCmd.accesskey "з">
 <!ENTITY editLinkCmd.label "Редактиране на връзката в нов прозорец">
 <!ENTITY editLinkCmd.accesskey "а">
-<!-- (Toplevel Edit menu uses utilityOverlay) -->
-<!ENTITY undoCmd.label "Отмяна">
-<!ENTITY undoCmd.accesskey "О">
-<!ENTITY redoCmd.label "Повторение">
-<!ENTITY redoCmd.accesskey "П">
-<!ENTITY cutCmd.label "Изрязване">
-<!ENTITY cutCmd.accesskey "я">
-<!ENTITY copyCmd.label "Копиране">
-<!ENTITY copyCmd.accesskey "К">
-<!ENTITY pasteCmd.label "Поставяне">
-<!ENTITY pasteCmd.accesskey "в">
-<!ENTITY deleteCmd.label "Изтриване">
-<!ENTITY deleteCmd.accesskey "з">
-<!ENTITY clearCmd.label "Изчистване">
-<!ENTITY clearCmd.accesskey "ч">
-<!ENTITY selectAllCmd.label "Избор на всичко">
-<!ENTITY selectAllCmd.accesskey "И">
 <!-- Font Face SubMenu -->
 
 <!ENTITY FontFaceSelect.tooltip "Изберете шрифт">
@@ -397,6 +366,9 @@
 <!ENTITY openToolbarCmd.tooltip "Отваряне на файл от твърдия диск">
 <!ENTITY saveToolbarCmd.tooltip "Запис на файла на твърдия диск">
 <!ENTITY publishToolbarCmd.tooltip "Качаване на файл на отдалечен адрес">
+<!ENTITY cutToolbarCmd.tooltip "Изрязване">
+<!ENTITY copyToolbarCmd.tooltip "Копиране">
+<!ENTITY pasteToolbarCmd.tooltip "Поставяне">
 <!ENTITY printToolbarCmd.label "Печат">
 <!ENTITY printToolbarCmd.tooltip "Отпечатва тази страница">
 <!ENTITY findToolbarCmd.label "Търсене">

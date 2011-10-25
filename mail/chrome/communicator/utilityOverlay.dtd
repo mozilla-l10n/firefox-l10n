@@ -4,7 +4,7 @@
 
 <!ENTITY fileMenu.label "Файл">
 <!ENTITY fileMenu.accesskey "Ф">
-<!ENTITY newMenu.label "Нови">
+<!ENTITY newMenu.label "Нов">
 <!ENTITY newMenu.accesskey "Н">
 
 <!ENTITY editMenu.label "Редактиране">
@@ -12,37 +12,37 @@
 <!ENTITY undoCmd.label "Отмяна">
 <!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.accesskey "О">
-<!ENTITY redoCmd.label "Повторение">
+<!ENTITY redoCmd.label "Повтаряне">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "П">
 <!ENTITY cutCmd.label "Изрязване">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "я">
+<!ENTITY cutCmd.accesskey "з">
 <!ENTITY copyCmd.label "Копиране">
 <!ENTITY copyCmd.key "C">
 <!ENTITY copyCmd.accesskey "К">
 <!ENTITY pasteCmd.label "Поставяне">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "в">
+<!ENTITY pasteCmd.accesskey "П">
 <!ENTITY deleteCmd.label "Изтриване">
-<!ENTITY deleteCmd.accesskey "з">
-<!ENTITY selectAllCmd.label "Избор на всичко">
+<!ENTITY deleteCmd.accesskey "т">
+<!ENTITY selectAllCmd.label "Маркиране на всичкоl">
 <!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "И">
+<!ENTITY selectAllCmd.accesskey "в">
 <!ENTITY preferencesCmd.label "Настройки…">
 <!ENTITY preferencesCmd.accesskey "Н">
 <!ENTITY preferencesCmdUnix.label "Настройки">
 <!ENTITY preferencesCmdUnix.accesskey "Н">
 
 <!ENTITY viewMenu.label "Изглед">
-<!ENTITY viewMenu.accesskey "г">
-<!ENTITY viewToolbarsMenu.label "Ленти с инструменти">
-<!ENTITY viewToolbarsMenu.accesskey "и">
+<!ENTITY viewMenu.accesskey "И">
+<!ENTITY viewToolbarsMenu.label "Лента с инструменти">
+<!ENTITY viewToolbarsMenu.accesskey "Л">
 <!ENTITY showTaskbarCmd.label "Лента на състоянието">
-<!ENTITY showTaskbarCmd.accesskey "с">
+<!ENTITY showTaskbarCmd.accesskey "Л">
 
-<!ENTITY proxy.label "Конфигуриране на прокси…">
-<!ENTITY proxy.accesskey "ф">
+<!ENTITY proxy.label "Настройка на прокси…">
+<!ENTITY proxy.accesskey "Н">
 
 <!ENTITY closeCmd.label "Затваряне">
 <!ENTITY closeCmd.key "W">
@@ -50,10 +50,10 @@
 
 <!ENTITY quitApplicationCmd.label "Изход">
 <!ENTITY quitApplicationCmd.key "Q">
-<!ENTITY quitApplicationCmd.accesskey "х">
+<!ENTITY quitApplicationCmd.accesskey "И">
 
 <!ENTITY quitApplicationCmdUnix.label "Изход">
-<!ENTITY quitApplicationCmdUnix.accesskey "х">
+<!ENTITY quitApplicationCmdUnix.accesskey "И">
 
 <!ENTITY quitApplicationCmdMac.label "Изход от &brandShortName;">
-<!ENTITY quitApplicationCmdMac.accesskey "х">
+<!ENTITY quitApplicationCmdMac.accesskey "И">

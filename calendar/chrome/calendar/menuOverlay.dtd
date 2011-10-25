@@ -48,7 +48,7 @@
 
 <!ENTITY event.new.task "Нова задача…">
 <!ENTITY event.new.task.key "K">
-<!ENTITY event.new.task.accesskey "k">
+<!ENTITY event.new.task.accesskey "з">
 
 <!ENTITY calendar.new.server.label "Нов календар…">
 <!ENTITY calendar.new.server.key "L">
