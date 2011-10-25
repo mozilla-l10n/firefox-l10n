@@ -16,6 +16,7 @@
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Påslåtte programtillegg">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Byggekonfigurasjon">
 <!ENTITY aboutSupport.appBasicsUserAgent "Brukaragent">
+<!ENTITY aboutSupport.appBasicsCrashIDs "Krasjrapportar">
 
 <!ENTITY aboutSupport.show.label "Opne mappa med fila">
 

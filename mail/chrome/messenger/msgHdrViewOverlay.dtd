@@ -59,6 +59,7 @@
 <!ENTITY editMessageButton.label "Rediger …">
 <!ENTITY hdrArchiveButton.label "arkiver">
 <!ENTITY hdrArchiveButton.tooltip "arkiver denne meldinga">
+<!ENTITY hdrSmartReplyButton.label "smart-svar">
 <!ENTITY hdrReplyButton.label "svar">
 <!ENTITY hdrReplyButton.tooltip "svar på denne meldinga">
 <!ENTITY hdrReplyAllButton.label "Svar til alle">
@@ -67,8 +68,8 @@
 <!ENTITY hdrReplyListButton.tooltip "svar til e-postliste">
 <!ENTITY hdrForwardButton.label "vidaresend">
 <!ENTITY hdrForwardButton.tooltip "vidaresend denne meldinga">
-<!ENTITY hdrJunkButton.label "søppel">
-<!ENTITY hdrJunkButton.tooltip "merk denne meldinga som søppel">
+<!ENTITY hdrJunkButton.label "uønskt">
+<!ENTITY hdrJunkButton.tooltip "merk denne meldinga som uønskt">
 <!ENTITY hdrTrashButton.label "slett">
 <!ENTITY hdrTrashButton.tooltip "slett denne meldinga">
 
