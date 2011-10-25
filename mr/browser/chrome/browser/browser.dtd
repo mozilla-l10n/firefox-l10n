@@ -582,3 +582,6 @@
 <!ENTITY getMoreDevtoolsCmd.label        "अधिक साधने प्राप्त करा">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "M">
 <!ENTITY unsortedBookmarksCmd.label "विनाक्रमचे वाचनखूणा">
+<!ENTITY backForwardButtonMenu.tooltip "इतिहास दाखवण्याकरीता उजवी-क्लिक द्या किंवा खाली ओढा">
+<!ENTITY backForwardButtonMenuMac.tooltip "इतिहास दाखवण्याकरीता खाली ओढा">
+<!ENTITY searchFocus.commandkey2      "e">
