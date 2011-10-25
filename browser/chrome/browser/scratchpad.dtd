@@ -114,11 +114,3 @@
 <!ENTITY webConsoleCmd.label          "Вэб самбар">
 <!ENTITY webConsoleCmd.accesskey      "W">
 <!ENTITY webConsoleCmd.commandkey     "k">
-
-<!-- LOCALIZATION NOTE (textbox.placeholder1): This is some placeholder text
-  -  that appears when the Scratchpad's text area is empty and unfocused.
-  -  It should be a one-line JavaScript comment, i.e., preceded by '//'
-  -->
-<!ENTITY textbox.placeholder1         "// JavaScript-г бичиж оруулсны дараа кодийг сонгож хулганы баруун товчыг дарсны дараа гүйцэтгэх, шалгах эсвэл харуулахыг сонгоно уу.">
-
-

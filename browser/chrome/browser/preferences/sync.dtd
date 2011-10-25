@@ -13,9 +13,7 @@
 <!ENTITY manageAccount.label          "Дансаа хянах">
 <!ENTITY manageAccount.accesskey      "A">
 <!ENTITY viewQuota.label              "Хэмжээ харах">
-<!ENTITY changePassword.label         "Нууц үг солих">
 <!ENTITY mySyncKey.label              "Ижилсүүлэх түлхүүр">
-<!ENTITY resetSync.label              "Ижилсүүлэлтийг дахин тохируулах">
 <!ENTITY addDevice.label              "Төхөөрөмж нэмэх">
 
 <!ENTITY syncMy.label               "Ижилсүүлэх">
@@ -33,9 +31,11 @@
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label       "Компьютерийн нэр:">
 <!ENTITY syncComputerName.accesskey   "c">
-<!ENTITY deactivateDevice.label       "Энэ төхөөрөмжийг идэвхигүй болгох ">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Үйлчилгээний нөхцөл">
 <!ENTITY prefs.ppLink.label         "Хувийн мэдээлэлийн бодлого">
 
+<!ENTITY changePassword2.label        "Нууц үг солих…">
+<!ENTITY resetSync2.label             "Ижилсүүлэлтийг дахин тохируулах…">
+<!ENTITY unlinkDevice.label           "Энэ төхөөрөмжийг салгах">
