@@ -23,8 +23,11 @@
 <!ENTITY printCmd.label "छापा...">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
+
+<!--
 <!ENTITY import.label "आयात...">
 <!ENTITY import.accesskey "I">
+-->
 
 <!ENTITY goOfflineCmd.label "ऑफलाईन काम करा">
 <!ENTITY goOfflineCmd.accesskey "w">
@@ -512,6 +515,8 @@
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "तपास">
 <!ENTITY inspectButton.accesskey      "I">
+
+<!--
 <!ENTITY inspectNextButton.label      "पुढे">
 <!ENTITY inspectNextButton.accesskey  "N">
 <!ENTITY inspectPreviousButton.label  "मागील">
@@ -521,6 +526,8 @@
 <!ENTITY inspectStylePanelTitle.label  "शैली">
 <!ENTITY inspectObjectButton.label       "ऑबजेक्ट">
 <!ENTITY inspectObjectButton.accesskey   "O">
+-->
+
 <!ENTITY clearRecentHistory.label               "ताजा इतिहास नष्ट करा…">
 <!ENTITY clearRecentHistory.accesskey           "H">
 <!ENTITY viewTabGroups.label            "गटांना टॅबमध्ये लावा">

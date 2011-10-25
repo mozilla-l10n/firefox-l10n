@@ -22,9 +22,12 @@
 <!ENTITY password.manage                 "पासवर्ड व्यवस्थापीत करा…">
 
 <!ENTITY cookie.label                    "कुकिज् सेट करा">
-<!ENTITY cookie.clear                    "कुकिज् नष्ट करा">
 <!ENTITY cookie.manage                   "कुकिज् व्यवस्थापीत करा…">
+
+<!--
+<!ENTITY cookie.clear                    "कुकिज् नष्ट करा">
 <!ENTITY cookie.clearAll                 "सर्व कुकिज् नष्ट करा">
+-->
 
 <!ENTITY geo.label                       "ठिकाणाचा मिळून वापर करा">
 

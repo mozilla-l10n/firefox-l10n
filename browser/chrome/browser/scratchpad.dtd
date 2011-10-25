@@ -111,13 +111,14 @@
 <!ENTITY errorConsoleCmd.accesskey    "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY webConsoleCmd.label          "वेब कंसोल">
-<!ENTITY webConsoleCmd.accesskey      "W">
-<!ENTITY webConsoleCmd.commandkey     "k">
-
 <!-- LOCALIZATION NOTE (textbox.placeholder1): This is some placeholder text
   -  that appears when the Scratchpad's text area is empty and unfocused.
   -  It should be a one-line JavaScript comment, i.e., preceded by '//'
-  -->
+
 <!ENTITY textbox.placeholder1         "// जावास्क्रिप्टमध्ये काहितरी लिहा, त्याला नीवडा, ऊजवी क्लिक द्या व चालवा, चौकशी करा किंवा दाखवा नीवडा.">
+-->
+
+<!ENTITY webConsoleCmd.label          "वेब कंसोल">
+<!ENTITY webConsoleCmd.accesskey      "W">
+<!ENTITY webConsoleCmd.commandkey     "k">
 
