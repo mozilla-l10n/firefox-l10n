@@ -37,3 +37,6 @@
 <!ENTITY manageAddons.accesskey        "M">
 <!ENTITY homepage.accesskey        "P">
 <!ENTITY homepage.label            "నివాస పేజీ:">
+<!ENTITY restoreOnDemand.accesskey "l">
+
+<!ENTITY restoreOnDemand.label     "ఎంపికచేసేంతవరకు టాబ్లను లోడ్ చేయవద్దు">

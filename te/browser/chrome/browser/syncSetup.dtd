@@ -129,3 +129,6 @@
 
 <!ENTITY resetSyncKey.label           "నేను నా యితర పరికరమును కోల్పోయాను.">
 <!ENTITY syncGenerateNewKey.label  "కొత్త కీ సృష్టించు">
+
+<!ENTITY setup.choosePassword.accesskey  "P">
+<!ENTITY setup.choosePassword.label      "ఒక సంకేతపదం యెంచుకొనుము">

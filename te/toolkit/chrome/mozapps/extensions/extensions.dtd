@@ -168,4 +168,4 @@
 
 <!ENTITY info.plugincheck.label                 "మీ ప్లగిన్లు తాజాగా వున్నాయో లేదో చూచుటకు పరిశీలించు">
 <!ENTITY info.plugincheck.tooltip               "మీ ప్లగిన్లు తాజాగా వున్నాయో లేదో చూచుటకు పరిశీలించు">
-
+<!ENTITY settings.path.button.label           "బ్రౌజ్…">

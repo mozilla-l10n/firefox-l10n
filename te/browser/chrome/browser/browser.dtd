@@ -26,8 +26,6 @@
 <!ENTITY printCmd.label "ముద్రించు...">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "దిగుమతిచేయి...">
-<!ENTITY import.accesskey "I">
 
 <!ENTITY goOfflineCmd.label "ఆఫ్‌లైన్ గా పనిచేయి">
 <!ENTITY goOfflineCmd.accesskey "w">
@@ -472,20 +470,20 @@
 <!ENTITY inspectMenu.accesskey        "T">
 <!ENTITY inspectMenu.commandkey       "I">
 <!ENTITY inspectMenu.label            "విచారించు">
-<!ENTITY inspectNextButton.accesskey  "N">
-<!ENTITY inspectNextButton.label      "తరువాతి">
-<!ENTITY inspectObjectButton.accesskey   "O">
+
+
+
 <!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
   -  appears on the Inspector's toolbar. It is used to open and close the Object
   -  panel. There is also a label in inspector.properties for the panel
   -  titlebar: object.objectPanelTitle. -->
-<!ENTITY inspectObjectButton.label       "ఆబ్జక్ట్">
+
 <!ENTITY inspectPanelTitle.label      "HTML">
-<!ENTITY inspectPreviousButton.accesskey "P">
-<!ENTITY inspectPreviousButton.label  "మునుపటి">
-<!ENTITY inspectStyleButton.accesskey "S">
-<!ENTITY inspectStyleButton.label     "శైలి">
-<!ENTITY inspectStylePanelTitle.label  "శైలి">
+
+
+
+
+<!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY  listAllTabs.label      "అన్ని టాబ్‌ల జాబితా">
 <!ENTITY  moveToGroup.accesskey              "M">
 <!ENTITY  moveToGroup.label                  "సమూహమునకు కదుపుము">
@@ -553,4 +551,7 @@ can reach it easily. -->
 <!ENTITY unsortedBookmarksCmd.label "క్రమపరచని యిష్టాంశములు">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 <!ENTITY webDeveloperMenu.label       "వెబ్ అభివృద్దికారి">
+
+<!ENTITY backForwardButtonMenu.tooltip "చరిత్రను చూపుటకు కుడి-నొక్కు నొక్కుము లేదా కిందికి లాగుము">
+<!ENTITY backForwardButtonMenuMac.tooltip "చరిత్రను చూపటకు కిందికి లాగుము">
 

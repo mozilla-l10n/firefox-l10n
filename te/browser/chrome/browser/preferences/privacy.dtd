@@ -5,9 +5,6 @@
 <!ENTITY  dontrememberActions.pre.label          " ">
 <!ENTITY  dontrememberActions.clearHistory.label "మీ ప్రస్తుత చరిత్రని కూడా  తొలగించదలుచుకోవచ్చు">
 <!ENTITY  dontrememberActions.post.label         ".">
-
-<!ENTITY  privateBrowsingPermanent.accesskey "P">
-<!ENTITY  privateBrowsingPermanent.label "శాశ్వతమైన గోప్యతా అన్వేషణ రీతి">
 <!ENTITY  rememberHistory.accesskey  "b">
 <!ENTITY  rememberHistory.label      "నా అన్వేషణ చరిత్రను గుర్తుంచుకొనుము">
 
@@ -97,4 +94,7 @@
 <!ENTITY tracking.label                 "ఆరాతీస్తోంది">
 <!ENTITY doNotTrack.label               "నా గురించి ఆరాతీయొద్దని వెబ్ సైట్లకు చెప్పు">
 <!ENTITY doNotTrack.accesskey           "d">
+
+  <!ENTITY  privateBrowsingPermanent2.label "ఎల్లప్పుడు గోప్య బ్రౌజింగ్ రీతిని వుపయోగించు">
+<!ENTITY  privateBrowsingPermanent2.accesskey "p">
 

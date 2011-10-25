@@ -36,3 +36,4 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.updateHistoryTitle "నవీకరణ చరిత్ర">
 
 <!ENTITY aboutSupport.copyToClipboard.label "అన్నిటిని క్లిప్‌బోర్డునకు నకలుతీయుము">
+<!ENTITY aboutSupport.appBasicsCrashIDs "క్రాష్ నివేదికలు">
