@@ -263,7 +263,7 @@
 <!ENTITY calendarproperties.name.label "Nome:">
 <!ENTITY calendarproperties.readonly.label "Sola lettura">
 <!ENTITY calendarproperties.firealarms.label "Mostra allarmi">
-<!ENTITY calendarproperties.cache.label "Cache (SPERIMENTALE)">
+<!ENTITY calendarproperties.cache.label "Cache">
 <!ENTITY calendarproperties.enabled.label "Attiva questo calendario">
 <!ENTITY calendarproperties.forceDisabled.label "Impossibile trovare il gestore di questo calendario. Questo accade spesso quando vengono disattivati o disinstallati alcuni componenti aggiuntivi.">
 <!ENTITY calendarproperties.unsubscribe.label "Rimuovi sottoscrizione">
