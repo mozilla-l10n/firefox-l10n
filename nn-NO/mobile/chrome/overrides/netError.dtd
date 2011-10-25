@@ -13,21 +13,16 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Fann ikkje tenaren">
-<!ENTITY dnsNotFound.longDesc "
-<ul>
-  <li>Kontroller adressa for skrivefeil slik som
+<!ENTITY dnsNotFound.longDesc2 "<ul>
+  <li>sjekk om det er skrivefeil i adressa, til dømes
     <strong>ww</strong>.example.com i staden for
     <strong>www</strong>.example.com</li>
-<li>Om du ikkje klarer å laste sider, kontroller at nettverksambandet til 
-  datamaskina di er i orden.</li>
-<li>Om datamaskina di eller nettverket ditte er verna av ein brannmur 
-   eller mellomtenar, kontroller at &brandShortName; har løyve til å gå på nettet.</li>
+  <li>Om du ikkje klarer å laste nokre nettstader, kontroller data- eller Wi-Fi-sambandet til eininga di.</li>
 </ul>
 ">
 
 <!ENTITY fileNotFound.title "Fann ikkje fila">
-<!ENTITY fileNotFound.longDesc "
-<ul>
+<!ENTITY fileNotFound.longDesc "<ul>
   <li>Kontroller filnamnet for store/små bokstavar, eller andre skrivefeil.</li>
   <li>Kontroller om fila er flytta, fått nytt namn eller er sletta.</li>
 </ul>
@@ -35,13 +30,11 @@
 
 
 <!ENTITY generic.title "Oops.">
-<!ENTITY generic.longDesc "
-<p>&brandShortName; kan av ukjend grunn ikkje laste denne sida.</p>
+<!ENTITY generic.longDesc "<p>&brandShortName; kan av ukjend grunn ikkje laste denne sida.</p>
 ">
 
 <!ENTITY malformedURI.title "Ugyldig adresse">
-<!ENTITY malformedURI.longDesc "
-<ul>
+<!ENTITY malformedURI.longDesc "<ul>
   <li>Nettsideadresser er vanlegvis skrivne som
     <strong>http://www.eksempel.com/</strong></li>
   <li>Pass på at du har skråstreken rette vegen (dvs.
@@ -53,22 +46,19 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Fråkopla-modus">
-<!ENTITY netOffline.longDesc2 "
-<ul>
+<!ENTITY netOffline.longDesc2 "<ul>
   <li>Prøv igjen. &brandShortName; vil prøve å opne eitilkopling og laste sida inn på nytt.</li>
 </ul>
 ">
 
 <!ENTITY contentEncodingError.title "Feil med teiknkoding">
-<!ENTITY contentEncodingError.longDesc "
-<ul>
+<!ENTITY contentEncodingError.longDesc "<ul>
   <li>Kontakt eigarane av nettstaden og informer om problemet.</li>
 </ul>
 ">
 
 <!ENTITY unsafeContentType.title "Utrygg filtype">
-<!ENTITY unsafeContentType.longDesc "
-<ul>
+<!ENTITY unsafeContentType.longDesc "<ul>
   <li>Kontakt eigarane av nettsida for å informere om problemet.</li>
 </ul>
 ">
@@ -80,16 +70,14 @@
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY protocolNotFound.title "Klarte ikkje å forstå adressa">
-<!ENTITY protocolNotFound.longDesc "
-<ul>
+<!ENTITY protocolNotFound.longDesc "<ul>
   <li>Det kan vere at du må installere anna programvare for å opne denne
     addressa.</li>
 </ul>
 ">
 
 <!ENTITY proxyConnectFailure.title "Mellomtenar godtek ikkje tilkoplingar">
-<!ENTITY proxyConnectFailure.longDesc "
-<ul>
+<!ENTITY proxyConnectFailure.longDesc "<ul>
   <li>Kontroller at mellomtenarinnstillingane er korrekte.</li>
   <li>Kontakt nettverksansvarleg for å forsikre deg om at mellomtenaren
     verkar.</li>
@@ -97,26 +85,20 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "Klarer ikkje å finne mellomtenar">
-<!ENTITY proxyResolveFailure.longDesc "
-<ul>
-  <li>Kontroller at innstillingar for mellomtenar er korrekte.</li>
-  <li>Kontroller at datamaskina di har ei fungerande nettverkstilkopling.</li>
-  <li>Om datamaskina di eller nettverket ditt er verna av ein brannmur eller mellomtenar,  kontroller
-    at &brandShortName; har løyve til å gå på nettet.</li>
-</ul>
-">
+<!ENTITY proxyResolveFailure.longDesc2 "<ul>
+  <li>Kontroller at mellomtenarinnstillingane er rette.</li>
+  <li>Kontroller at eininga har eit data- eller Wi-Fi-samband som fungerer.</li>
+</ul>">
 
 <!ENTITY redirectLoop.title "Sida vidarekoplar ikkje skikkeleg">
-<!ENTITY redirectLoop.longDesc "
-<ul>
+<!ENTITY redirectLoop.longDesc "<ul>
   <li>Dette problemet kan av og til skuldast at infokapslar er
     slått av.</li>
 </ul>
 ">
 
 <!ENTITY unknownSocketType.title "Uventa svar frå tenar">
-<!ENTITY unknownSocketType.longDesc "
-<ul>
+<!ENTITY unknownSocketType.longDesc "<ul>
   <li>Kontroller at systemet ditt har «Personal Security Manager»
     installert.</li>
   <li>Dette kan skuldast eit ikkje-standardisert oppsett på tenaren.</li>
@@ -124,8 +106,7 @@
 ">
 
 <!ENTITY nssFailure2.title "Sikkert samband feila">
-<!ENTITY nssFailure2.longDesc "
-<ul>
+<!ENTITY nssFailure2.longDesc "<ul>
   <li>Sida du prøver å opne kan ikkje visast fordi autensiteten til mottekne
 data ikkje kunne stadfestast.</li>
   <li>Kontakt eigarane av nettsida for å informere dei om problemet. Alternativt kan du bruke, 
@@ -134,8 +115,7 @@ kommandoen i hjelpemenyen for å rapportere ei øydelagd lenkje.</li>
 ">
 
 <!ENTITY nssBadCert.title "Sikkert samband feila">
-<!ENTITY nssBadCert.longDesc2 "
-<ul>
+<!ENTITY nssBadCert.longDesc2 "<ul>
   <li>Dette kan vere pga. eit problem med oppsettet til tenaren, eller det kan vere
 nokon som prøver å etterlikne tenaren.</li>
   <li>Om du har kopla til denne tenaren tidlegare, kan feilen 
@@ -143,26 +123,10 @@ vere krtvarig, og du kan prøve igjen seinare.</li>
 </ul>
 ">
 
-<!ENTITY sharedLongDesc "
-<ul>  <li>Nettstaden kan vere mellombels utilgjengeleg eller opptatt. Prøv igjen om 
-   ei lita stund.</li>  
-<li>Dersom du ikkje klarer å laste nokre sider, kontroller at nettverkstilkoplinga
-  til datamaskina er i orden.</li>  
-<li>Dersom datamaskina er verna av ein brannmur eller mellomtenar, kontroller
-  at &brandShortName; har løyve til å bruke verdsveven (www).</li> 
+<!ENTITY sharedLongDesc2 "<ul>
+  <li>Sida kan vere mellombels utilgjengeleg, eller opptatt. Prøv igjen om ei stund.</li>
+  <li>Om du ikkje klarer å laste sider, kontroller at data- eller Wi-Fi-sambandet ditt på mobil-eininga di fungerer.</li>
 </ul>
-">
-
-<!ENTITY malwareBlocked.title "Mistenkt åtaksside!">
-<!ENTITY malwareBlocked.longDesc "
-<p>Åtakssider prøver å installere program som stel privat informasjon, brukar datamaskina di til å angripe andre, eler skade datamaskina di.</p>
-<p>Nettsideeigarar som meiner at deira nettstad er rapportert som ei åtaksside ved ein feil kan <a href='http://www.stopbadware.org/home/reviewinfo' >krevje ny vurdering</a>.</p>
-">
-
-<!ENTITY phishingBlocked.title "Mistenkt nettsvindel!">
-<!ENTITY phishingBlocked.longDesc "
-<p>Dersom du skriv inn personleg informasjon på denne sida kan det føre til identitetstjuveri eller annan svindel.</p>
-<p>Desse typane av nettfalskneri er brukt i svindel kjend som «phishing-åtak», der uærlege nettsider og e-postar vert brukte til å etterlikne kjelder du vanlegvis stolar på.</p>
 ">
 
 <!ENTITY cspFrameAncestorBlocked.title "Blokkert av tryggingsregel på innhaldet">
@@ -180,8 +144,7 @@ contents of the <xul:button> tags.  The only language content is the label= fiel
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningContent "
-<p>Du bør ikkje leggje til ein unntaksregel om du brukar eit Internett-samband som du ikkje stolar fullstendig på, eller dersom du ikkje er van med å sjå slike åtvaringar for denne tenaren.</p> 
+<!ENTITY securityOverride.warningContent "<p>Du bør ikkje leggje til ein unntaksregel om du brukar eit Internett-samband som du ikkje stolar fullstendig på, eller dersom du ikkje er van med å sjå slike åtvaringar for denne tenaren.</p> 
 
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>

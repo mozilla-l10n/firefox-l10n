@@ -6,18 +6,16 @@
 a replacement for the standard security certificate errors produced
 by NSS/PSM via netError.xhtml. -->
 
-<!ENTITY certerror.pagetitle  "Sambandet ikkje tiltudd">
-<!ENTITY certerror.longpagetitle "Dette sambandet er ikkje tiltrudd">
+<!ENTITY certerror.pagetitle  "Utrygg tilkopling">
+<!ENTITY certerror.longpagetitle "Denne tilkoplinga manglar tryggleik">
 
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara1 "Du har bede &brandShortName; om å kople til 
-<b>#1</b>, med ei trygg tilkopling, men &brandShortName; kan ikkje stadfeste at sambandet er trygt.">
-<!ENTITY certerror.introPara2 "Vanlegvis når du koplar til med ei trygg tilkopling 
-vil nettstader gje opp ein trygg identitet for å prove at du besøkjer rett nettstad. Men identiteten til denne nettsidasida kan ikkje stadfestast.">
+<b>#1</b>, med ei trygg tilkopling, men &brandShortName; kan ikkje stadfeste at tilkoplinga er trygt.">
 
-<!ENTITY certerror.whatShouldIDo.heading "Kva skal eg gjere?">
+<!ENTITY certerror.whatShouldIDo.heading "Kva bør eg gjere?">
 <!ENTITY certerror.whatShouldIDo.content "Om du vanlegvis koplar til
 denne sida utan problem, kan denne feilen tyde på at nokon
 prøver å etterlikne sida, og du bør ikkje halde fram.">
@@ -30,6 +28,6 @@ be &brandShortName; å byrje å stole på identifikasjonen til sida.
 <!ENTITY certerror.expert.contentPara2 "Ikkje legg til utvidingar utan at du veit 
 at det er ein god grunn til at denne nettstaden ikkje har trygg identifikasjon.">
 <!ENTITY certerror.addTemporaryException.label "Gå til sida">
-<!ENTITY certerror.addPermanentException.label "Legg til permanent unntak">
+<!ENTITY certerror.addPermanentException.label "Lag ein unntaksregel">
 
 <!ENTITY certerror.technical.heading "Tekniske detaljar">
