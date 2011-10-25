@@ -26,10 +26,12 @@
 <!ENTITY cmd.findCurrent.label          "वर्तमान संग्रहात शोधा…">
 <!ENTITY cmd.findCurrent.accesskey      "i">
 
+<!--
 <!ENTITY cmd.exportHTML.label           "HTML एक्सपोर्ट करा…">
 <!ENTITY cmd.exportHTML.accesskey       "E">
 <!ENTITY cmd.importHTML.label           "HTML इम्पोर्ट करा…">
 <!ENTITY cmd.importHTML.accesskey       "I">
+-->
 
 <!ENTITY cmd.backup.label               "बॅकअप…">
 <!ENTITY cmd.backup.accesskey           "B">
