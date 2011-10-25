@@ -38,28 +38,28 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.label                 "Malfari fermadon de folio">
 <!ENTITY  undoCloseTab.accesskey             "M">
 <!ENTITY  closeTab.label                     "Fermi folion">
-<!ENTITY  closeTab.accesskey                 "f">
+<!ENTITY  closeTab.accesskey                 "o">
 
 <!ENTITY  listAllTabs.label      "Listigi ĉiujn foliojn">
 
 <!ENTITY tabCmd.label "Nova folio">
-<!ENTITY tabCmd.accesskey "F">
+<!ENTITY tabCmd.accesskey "v">
 <!ENTITY tabCmd.commandkey "t">
 <!ENTITY openLocationCmd.label "Malfermi retadreson…">
-<!ENTITY openLocationCmd.accesskey "R">
+<!ENTITY openLocationCmd.accesskey "r">
 <!ENTITY openFileCmd.label "Malfermi dosieron…">
-<!ENTITY openFileCmd.accesskey "M">
+<!ENTITY openFileCmd.accesskey "d">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Agordi paĝon…">
-<!ENTITY printSetupCmd.accesskey "a">
+<!ENTITY printSetupCmd.accesskey "A">
 <!ENTITY printPreviewCmd.label "Antaŭvidi presadon">
-<!ENTITY printPreviewCmd.accesskey "s">
+<!ENTITY printPreviewCmd.accesskey "t">
 <!ENTITY printCmd.label "Presi…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
 
 <!ENTITY goOfflineCmd.label "Labori malkonektite">
-<!ENTITY goOfflineCmd.accesskey "l">
+<!ENTITY goOfflineCmd.accesskey "L">
 
 <!ENTITY menubarCmd.label "Strio de menuo">
 <!ENTITY menubarCmd.accesskey "M">
@@ -92,7 +92,7 @@ can reach it easily. -->
 <!ENTITY fullScreenExit.accesskey "P">
 
 <!ENTITY closeWindow.label "Fermi fenestron">
-<!ENTITY closeWindow.accesskey "f">
+<!ENTITY closeWindow.accesskey "e">
 
 <!ENTITY bookmarksMenu.label "Legosignoj">
 <!ENTITY bookmarksMenu.accesskey "L">
@@ -372,7 +372,7 @@ can reach it easily. -->
 <!ENTITY bookmarkThisFrameCmd.label      "Aldoni legosignon por tiu ĉi kadro">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "k">
 <!ENTITY sendPageCmd.label            "Sendi ligilon…">
-<!ENTITY sendPageCmd.accesskey        "e">
+<!ENTITY sendPageCmd.accesskey        "S">
 <!ENTITY savePageCmd.label            "Konservi paĝon kiel…">
 <!ENTITY savePageCmd.accesskey        "K">
 <!-- alternate for content area context menu -->
