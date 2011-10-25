@@ -35,3 +35,6 @@
 
 <!ENTITY homepage.label            "Нүүр хуудас:">
 <!ENTITY homepage.accesskey        "P">
+
+<!ENTITY restoreOnDemand.label     "Сонгохоос нааш тэйбийг ачааллуулахгүй байх">
+<!ENTITY restoreOnDemand.accesskey "l">

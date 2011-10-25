@@ -560,4 +560,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY addonBarCloseButton.tooltip  "Нэмэлтийн самбар хаах">
 <!ENTITY toggleAddonBarCmd.key        "/">
 
-
+<!ENTITY backForwardButtonMenu.tooltip "Хулганы баруун товч дарах юмуу доош татаж үзсэн вэб хуудасын жагсаалтыг харна уу">
+<!ENTITY backForwardButtonMenuMac.tooltip "Доош татаж үзсэн вэб хуудасын жагсаалтыг харна уу">
+<!ENTITY searchFocus.commandkey2      "e">
