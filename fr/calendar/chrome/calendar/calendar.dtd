@@ -314,7 +314,7 @@
 <!ENTITY calendarproperties.name.label                     "Nom :">
 <!ENTITY calendarproperties.readonly.label                 "En lecture seule">
 <!ENTITY calendarproperties.firealarms.label               "Afficher les alarmes">
-<!ENTITY calendarproperties.cache.label                    "Cache (EXPÉRIMENTAL, nécessite un redémarrage)">
+<!ENTITY calendarproperties.cache2.label                   "Cache">
 <!ENTITY calendarproperties.enabled.label                  "Activer cet agenda">
 <!ENTITY calendarproperties.forceDisabled.label            "Le fournisseur de cet agenda n'a pas été trouvé. Ceci arrive souvent lors de la désactivation ou de la désinstallation de certains modules complémentaires.">
 <!ENTITY calendarproperties.unsubscribe.label              "Se désabonner">
