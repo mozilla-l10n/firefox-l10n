@@ -105,4 +105,9 @@
 <!ENTITY contextSaveLink.label        "Αποθήκευση δεσμού">
 <!ENTITY pageactions.quit            "Κλείσιμο">
 
-
+<!ENTITY bookmarkShortcut.label    "Προσθήκη στην αρχική οθόνη">
+<!ENTITY contextCopyLink.label        "Αντιγραφή δεσμού">
+<!ENTITY contextShortcutBookmark.label "Προσθήκη στην αρχική οθόνη">
+<!ENTITY pageactions.webapps.install "Εγκατάσταση ως εφαρμογή">
+<!ENTITY pasteAndGo.label      "Επικόλληση &amp; μετάβαση">
+<!ENTITY showTabs.label        "Προβολή καρτελών">

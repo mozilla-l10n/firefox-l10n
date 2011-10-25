@@ -1,0 +1,7 @@
+<!ENTITY webapps.title.placeholder "Εισάγεται έναν τίτλο">
+<!ENTITY webapps.permissions "Να επιτρέπεται η πρόσβαση:">
+<!ENTITY webapps.perm.geolocation "Περιήγηση με γνωστοποίηση τοποθεσίας">
+<!ENTITY webapps.perm.offline "Αποθήκευση δεδομένων για εργασία χωρίς σύνδεση">
+<!ENTITY webapps.perm.notifications "Ειδοποιήσεις επιφάνειας εργασίας">
+<!ENTITY webapps.perm.requestedHint "(ζητήθηκε)">
+
