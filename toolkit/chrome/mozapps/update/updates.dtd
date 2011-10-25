@@ -59,11 +59,11 @@
 <!ENTITY  noupdatesautodisabled.intro     "अद्ययावत उपलब्ध नाही. कृपया पुन्हा तपासणी करा किंवा 
                                            &brandShortName; चे आपोआप अद्ययावत तपासणी कार्यान्वीत करा.">
 
-<!ENTITY  incompatibleCheck.title         "ऍड-ऑन सहत्व करीता तपास करीत आहे">
-<!ENTITY  incompatibleCheck.label         "तुमच्या ऍड-ऑन च्या नविन आवृत्ती करीता तपास करीत आहे…">
+<!ENTITY  incompatibleCheck.title         "ॲड-ऑन सहत्व करीता तपास करीत आहे">
+<!ENTITY  incompatibleCheck.label         "तुमच्या ॲड-ऑन च्या नविन आवृत्ती करीता तपास करीत आहे…">
 <!ENTITY  evangelism.desc                 "&brandShortName; करीता हे अद्ययावत तुम्ही त्वरीत लागू करा
                                            असे सूचविले जाते.">
-<!ENTITY  incompatibleList.title          "असहत्व ऍड-ऑन आढळले">
+<!ENTITY  incompatibleList.title          "असहत्व ॲड-ऑन आढळले">
 <!ENTITY  viewDetails.tooltip             "या अद्ययावत करीता तपशील पहा">
 <!ENTITY  finishedPage.title              "अद्ययावत आधिपासूनच प्रतिष्ठापीत आहे">
 <!ENTITY  finishedPage.text               "&brandShortName; पुढच्यावेळी सुरू झाल्यावर अद्ययावत प्रतिष्ठापीत होईल. तुम्ही आता

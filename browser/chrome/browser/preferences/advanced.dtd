@@ -53,7 +53,7 @@
 <!ENTITY certs.auto                      "आपोआप निवडा">
 
 <!ENTITY connectionSettings.accesskey    "e">
-<!-- <!ENTITY enableAddonsUpdate.label        "ऍडऑन प्रतिष्ठापीत केले"> -->
+<!-- <!ENTITY enableAddonsUpdate.label        "ॲडऑन प्रतिष्ठापीत केले"> -->
 <!ENTITY modeAutoAddonWarn.accesskey     "W">
 <!-- <!ENTITY enableAddonsUpdate.accesskey    "n"> -->
 <!ENTITY encryptionTab.label             "कुटलिपी">
@@ -65,7 +65,7 @@
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchStartTyping.label         "लिहीण्यास सुरूवात करतेवेळी मजकुर शोधा">
 <!ENTITY useAutoScroll.accesskey         "a">
-<!ENTITY modeAutoAddonWarn.label         "कुठलेही ऍडऑन अकार्यन्वीत होत असल्यास मला सचेत करा">
+<!ENTITY modeAutoAddonWarn.label         "कुठलेही ॲडऑन अकार्यन्वीत होत असल्यास मला सचेत करा">
 <!ENTITY connectionSettings.label        "संरचना...">
 <!-- <!ENTITY useCacheAfter.label             "कॅशकरता MB जागा"> -->
 <!ENTITY viewCerts.label                 "प्रमाणपत्रे पहा">
@@ -112,3 +112,6 @@
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 <!ENTITY enableAddonsUpdate2.label       "ॲडऑन्स्">
 <!ENTITY enableAddonsUpdate2.accesskey   "n">
+
+<!ENTITY submitTelemetry.label           "कामगिरि डाटा सादर करा">
+<!ENTITY submitTelemetry.accesskey       "P">

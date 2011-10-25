@@ -317,7 +317,7 @@
 <!ENTITY addons.accesskey             "A">
 <!ENTITY quitApplicationCmdMac.key      "Q">
 <!ENTITY subscribeToPageMenupopup.label "सेवा स्वीकारण्याकरता ह्या पानास भेट द्या">
-<!ENTITY addons.label                 "ऍडऑन">
+<!ENTITY addons.label                 "ॲडऑन">
 
 <!ENTITY subscribeToPageMenuitem.label "सेवा स्वीकारण्याकरता ह्या पानास भेट द्या...">
 <!ENTITY spellAddDictionaries.accesskey "A">
@@ -328,7 +328,7 @@
 <!ENTITY errorConsoleCmd.label        "त्रूटी कंसोल">
 
 <!--
-<!ENTITY addons.tooltip               "प्रतिष्ठापीत  ऍडऑन दर्शवा व नियंत्रीत करा">
+<!ENTITY addons.tooltip               "प्रतिष्ठापीत  ॲडऑन दर्शवा व नियंत्रीत करा">
 -->
 
 <!ENTITY quitApplicationCmdMac.label    "बाहेर पडा">

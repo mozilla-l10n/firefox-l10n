@@ -38,11 +38,15 @@
   appropriately if your localization causes this checkbox to wrap.
 -->
 
-<!ENTITY addonsMgr.label               "ऍड-ऑन">
-<!ENTITY manageAddonsDescWin.label     "ऍड-ऑन करीता पर्याय बदलवा">
-<!ENTITY manageAddonsDescUnix2.label   "ऍड-ऑन करीता प्राधान्यक्रम बदलवा">
-<!ENTITY manageAddons.label            "ऍड-ऑन नियंत्रीत करा…">
+<!ENTITY addonsMgr.label               "ॲड-ऑन">
+<!ENTITY manageAddonsDescWin.label     "ॲड-ऑन करीता पर्याय बदलवा">
+<!ENTITY manageAddonsDescUnix2.label   "ॲड-ऑन करीता प्राधान्यक्रम बदलवा">
+<!ENTITY manageAddons.label            "ॲड-ऑन नियंत्रीत करा…">
 <!ENTITY manageAddons.accesskey        "M">
 
-<!ENTITY homepage.label            "Home Page:">
+<!ENTITY homepage.label            "मुख्य पृष्ठ:">
 <!ENTITY homepage.accesskey        "P">
+
+<!ENTITY restoreOnDemand.label     "नीवड केल्याशिवाय टॅब्स् लोड करू नका">
+<!ENTITY restoreOnDemand.accesskey "l">
+
