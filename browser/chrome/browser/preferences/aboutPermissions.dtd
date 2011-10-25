@@ -1,3 +1,4 @@
+
 <!ENTITY permissionsManager.title        "అనుమతుల నిర్వాహిక">
 
 <!ENTITY sites.search                    "సైటులను అన్వేషించు">
@@ -22,9 +23,9 @@
 <!ENTITY password.manage                 "సంకేతపదాలు నిర్వహించు…">
 
 <!ENTITY cookie.label                    "కుకీలు అమర్చు">
-<!ENTITY cookie.clear                    "కుకీలు శుభ్రపరచు">
+
 <!ENTITY cookie.manage                   "కుకీలు నిర్వహించు…">
-<!ENTITY cookie.clearAll                 "అన్ని కుకీలు శుభ్రపరచు">
+
 
 <!ENTITY geo.label                       "స్థానాన్ని పంచుకొనుము">
 
@@ -33,3 +34,5 @@
 <!ENTITY indexedDB.label                 "ఆఫ్‌లైన్ నిల్వను నిర్వహించు">
 
 <!ENTITY popup.label                     "పాప్-అప్ విండోలను తెరువుము">
+<!ENTITY cookie.remove                   "కుకీలను తీసివేయి">
+<!ENTITY cookie.removeAll                "అన్ని కుకీలను తీసివేయి">

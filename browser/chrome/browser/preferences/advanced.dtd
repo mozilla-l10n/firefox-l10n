@@ -110,8 +110,5 @@
 <!ENTITY overrideSmartCacheSize.label    "స్వయంచాలక క్యాచీ నిర్వహణను వోవర్‌రైడ్ చేయుము">
 <!ENTITY submitCrashes.accesskey         "S">
 <!ENTITY submitCrashes.label             "క్రాష్ నివేదికలను అప్పగించుము">
-
-
-
-
-
+<!ENTITY submitTelemetry.accesskey       "P">
+<!ENTITY submitTelemetry.label           "పనితనపు డాటాను అప్పగించుము">

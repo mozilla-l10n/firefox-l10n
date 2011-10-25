@@ -15,9 +15,9 @@
 <!ENTITY manageAccount.label          "ఖాతాను నిర్వహించు">
 <!ENTITY manageAccount.accesskey      "A">
 <!ENTITY viewQuota.label              "కేటాయించన బాగమును దర్శించు">
-<!ENTITY changePassword.label         "సంకేతపదము మార్చుము">
+
 <!ENTITY mySyncKey.label              "నా సింక్ కీ">
-<!ENTITY resetSync.label              "సింక్‌ను తిరిగిఅమర్చు">
+
 
 
 <!-- Sync Settings -->
@@ -44,4 +44,9 @@
 
 <!ENTITY addDevice.label              "ఒక పరికరమును జతచేయి">
 
-<!ENTITY deactivateDevice.label       "ఈ పరికరమును అచేతనము చేయి">
+
+
+<!ENTITY changePassword2.label         "సంకేతపదం మార్చు…">
+
+<!ENTITY resetSync2.label              "సింక్ తిరిగివుంచు…"> 
+<!ENTITY unlinkDevice.label           "ఈ పరికరం లింకుతీసివేయి">
