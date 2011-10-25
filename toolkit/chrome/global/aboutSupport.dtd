@@ -21,7 +21,7 @@
 <!ENTITY aboutSupport.appBasicsProfileDir "Κατάλογος προφίλ">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Build Configuration">
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
-
+<!ENTITY aboutSupport.appBasicsMemoryUse "Χρήση μνήμης">
 
 <!ENTITY aboutSupport.modifiedPrefsTitle "Τροποποιημένες προτιμήσεις">
 <!ENTITY aboutSupport.modifiedPrefsName "Όνομα">

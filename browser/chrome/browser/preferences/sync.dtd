@@ -44,11 +44,11 @@
 <!ENTITY engine.tabs.label          "Καρτέλες">
 <!ENTITY engine.tabs.accesskey      "τ">
 
-<!ENTITY mySyncKey.label              "Το κλειδί συγχρονισμού μου">
+
 <!ENTITY syncMy.label               "Συγχρονισμός σε">
 
 
-
+<!ENTITY myRecoveryKey.label           "Το κλειδί ανάκτησης">
 
 <!ENTITY viewQuota.label              "Προβολή ορίων">
 
