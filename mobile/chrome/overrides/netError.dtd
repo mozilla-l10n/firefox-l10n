@@ -7,7 +7,7 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Klarte ikkje å kople til">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
 
 <!ENTITY deniedPortAccess.title "Tilgang til denne adressa er avgrensa">
 <!ENTITY deniedPortAccess.longDesc "">
@@ -43,7 +43,7 @@
 ">
 
 <!ENTITY netInterrupt.title "Tilkoplinga vart avbroten">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netOffline.title "Fråkopla-modus">
 <!ENTITY netOffline.longDesc2 "<ul>
@@ -64,10 +64,10 @@
 ">
 
 <!ENTITY netReset.title "Brot i sambandet">
-<!ENTITY netReset.longDesc "&sharedLongDesc;">
+<!ENTITY netReset.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netTimeout.title "Tidsavbrot i sambandet">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
 <!ENTITY protocolNotFound.title "Klarte ikkje å forstå adressa">
 <!ENTITY protocolNotFound.longDesc "<ul>
