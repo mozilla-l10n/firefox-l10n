@@ -227,3 +227,6 @@
 
 <!ENTITY resetSyncKey.label           "माझे इतर साधन हरवले आहे.">
 <!ENTITY syncGenerateNewKey.label  "नवीन कि निर्माण करा">
+
+<!ENTITY setup.choosePassword.label      "पासवर्ड नीवडा">
+<!ENTITY setup.choosePassword.accesskey  "P">

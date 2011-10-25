@@ -55,3 +55,7 @@
 <!ENTITY prefs.tosLink.label        "सेवा अटी">
 <!ENTITY prefs.ppLink.label         "गोपणीयता करार">
 <!ENTITY addDevice.label              "साधन समाविष्ट करा">
+
+<!ENTITY changePassword2.label         "पासवर्ड बदला…">
+<!ENTITY resetSync2.label              "सिंक पूर्ववत् करा…">
+<!ENTITY unlinkDevice.label           "साधनला खंडीत करा">

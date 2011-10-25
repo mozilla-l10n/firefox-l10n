@@ -34,5 +34,7 @@
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
 <!ENTITY indexedDB.label                 "ऑफलाइन स्टोरेज् नियंत्रीत ठेवा">
-
 <!ENTITY popup.label                     "पॉपअप पटले उघडा">
+<!ENTITY cookie.remove                   "कुकिज काढून टाका">
+<!ENTITY cookie.removeAll                "सर्व कुकिज काढून टाका">
+
