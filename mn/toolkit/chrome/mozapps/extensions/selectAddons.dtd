@@ -1,4 +1,4 @@
-<!ENTITY upgrade.style               "width: 93ch; өheight: 448px;">
+<!ENTITY upgrade.style               "width: 93ch; height: 448px;">
 <!ENTITY checking.heading            "Таны нэмэгдлүүдийг шалгаж байна">
 <!ENTITY checking.progress.label     "&brandShortName; -н энэ хувилбартай нийцүүлхийн тулд таны нэмэгдлүүдийг шалгаж байна.">
 <!ENTITY select.heading              "Нэмэгдлүүдээ сонгоно уу">
