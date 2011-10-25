@@ -157,10 +157,10 @@
      separate entry will be shown for each of the occurrences that happen on or
      before today (or the selected date, whichever is later). -->
 
-<!ENTITY calendar.task.filter.current.label "Current Tasks">
-<!ENTITY calendar.task.filter.current.accesskey "u">
-<!ENTITY calendar.task.filter.repeating.label "Repeating Tasks">
-<!ENTITY calendar.task.filter.repeating.accesskey "R">
+<!ENTITY calendar.task.filter.current.label "Текущи задачи">
+<!ENTITY calendar.task.filter.current.accesskey "Т">
+<!ENTITY calendar.task.filter.repeating.label "Повтарящи се задачи">
+<!ENTITY calendar.task.filter.repeating.accesskey "в">
 
 <!ENTITY calendar.task-details.title.label "заглавие">
 <!ENTITY calendar.task-details.organizer.label "от">
@@ -172,8 +172,8 @@
 <!ENTITY calendar.task-details.category.label "категория">
 <!ENTITY calendar.task-details.repeat.label "повтаряне">
 <!ENTITY calendar.task-details.attachments.label "притурки">
-<!ENTITY calendar.task-details.start.label "start date">
-<!ENTITY calendar.task-details.due.label "due date">
+<!ENTITY calendar.task-details.start.label "начална дата">
+<!ENTITY calendar.task-details.due.label "краен срок">
 
 <!ENTITY calendar.task.category.button.tooltip "Категоризиране на задачи">
 <!ENTITY calendar.task.complete.button.tooltip "Отеблязване на избраните задачи като завършени">
@@ -203,10 +203,10 @@
 <!ENTITY calendar.context.pasteevent.accesskey "в">
 <!ENTITY calendar.context.button.label "Дневен плот">
 <!ENTITY calendar.context.button.accesskey "в">
-<!ENTITY calendar.context.attendance.menu.label "Attendance">
-<!ENTITY calendar.context.attendance.menu.accesskey "d">
-<!ENTITY calendar.context.attendance.occurrence.label "This Occurrence">
-<!ENTITY calendar.context.attendance.all.label "All Occurrences">
+<!ENTITY calendar.context.attendance.menu.label "Присъствие">
+<!ENTITY calendar.context.attendance.menu.accesskey "с">
+<!ENTITY calendar.context.attendance.occurrence.label "Това повторение">
+<!ENTITY calendar.context.attendance.all.label "Всички повторения">
 <!-- Task Context Menu -->
 
 <!ENTITY calendar.context.progress.label "Напредък">
@@ -305,7 +305,7 @@
      user focuses the "Cancel" button in the "Snooze for..." popup of the alarm
      dialog. -->
 
-<!ENTITY calendar.alarm.snooze.cancel "Cancel Snooze">
+<!ENTITY calendar.alarm.snooze.cancel "Прекъсване на заглушаването">
 <!-- Calendar Server Dialog -->
 
 <!ENTITY calendar.server.dialog.title.edit "Редактиране на календар">
@@ -318,12 +318,12 @@
 <!ENTITY calendarproperties.wcap.label "Sun Java System Calendar Server (WCAP)">
 <!ENTITY calendarproperties.format.label "Формат:">
 <!ENTITY calendarproperties.location.label "Местоположение:">
-<!ENTITY calendarproperties.refreshInterval.label "Refresh Calendar:">
-<!ENTITY calendarproperties.refreshInterval.manual.label "Manually">
+<!ENTITY calendarproperties.refreshInterval.label "Обновяване на календара:">
+<!ENTITY calendarproperties.refreshInterval.manual.label "Ръчно">
 <!ENTITY calendarproperties.name.label "Име:">
 <!ENTITY calendarproperties.readonly.label "Само за четене">
 <!ENTITY calendarproperties.firealarms.label "Показване на алармите">
-<!ENTITY calendarproperties.cache.label "Кеш (ЕКСПЕРИМЕНТАЛНО)">
+<!ENTITY calendarproperties.cache.label "Кеш">
 <!ENTITY calendarproperties.enabled.label "Включване на този календар">
 <!ENTITY calendarproperties.forceDisabled.label "Доставчикът на този календар не може да бъде намерен. Това често се случва, ако сте изключили или премахнали някои добавки.">
 <!ENTITY calendarproperties.unsubscribe.label "Отписване">

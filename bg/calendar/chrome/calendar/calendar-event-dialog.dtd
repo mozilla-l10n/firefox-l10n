@@ -45,8 +45,8 @@
 
 <!ENTITY event.title.label "Редактиране на елемент">
 
-<!ENTITY event.dialog.keepDurationButton.tooltip "Keep the duration when changing the end date">
-<!ENTITY event.dialog.keepDurationButton.accesskey "K">
+<!ENTITY event.dialog.keepDurationButton.tooltip "Запазване на продължителността при смяна на крайната дата">
+<!ENTITY event.dialog.keepDurationButton.accesskey "З">
 
 <!ENTITY newevent.from.label "От">
 <!ENTITY newevent.to.label "До">
@@ -378,10 +378,10 @@
 
 <!ENTITY read.only.general.label "Основни">
 <!ENTITY read.only.title.label "Заглавие:">
-<!ENTITY read.only.event.start.label "Start Date:">
-<!ENTITY read.only.task.start.label "Start Date:">
-<!ENTITY read.only.event.end.label "End Date:">
-<!ENTITY read.only.task.due.label "Due Date:">
+<!ENTITY read.only.event.start.label "Начална дата:">
+<!ENTITY read.only.task.start.label "Начална дата:">
+<!ENTITY read.only.event.end.label "Крайна дата:">
+<!ENTITY read.only.task.due.label "Краен срок:">
 <!ENTITY read.only.repeat.label "Повторение:">
 <!ENTITY read.only.location.label "Местоположение:">
 <!ENTITY read.only.category.label "Категория:">

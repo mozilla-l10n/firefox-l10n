@@ -224,6 +224,8 @@
 <!ENTITY bodySanitized.accesskey "О">
 <!ENTITY bodyAsPlaintext.label "Обикновен текст">
 <!ENTITY bodyAsPlaintext.accesskey "б">
+<!ENTITY bodyAllParts.label "Всички части на тялото">
+<!ENTITY bodyAllParts.accesskey "В">
 
 <!ENTITY bodyMenuFeed.label "Текста на емисията като">
 <!ENTITY bodyMenuFeed.accesskey "Т">
