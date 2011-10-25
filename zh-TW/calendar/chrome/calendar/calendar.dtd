@@ -322,7 +322,7 @@
 <!ENTITY calendarproperties.name.label                     "名稱:">
 <!ENTITY calendarproperties.readonly.label                 "唯讀">
 <!ENTITY calendarproperties.firealarms.label               "顯示鬧鈴">
-<!ENTITY calendarproperties.cache.label                    "快取（實驗中）">
+<!ENTITY calendarproperties.cache2.label                   "快取">
 <!ENTITY calendarproperties.enabled.label                  "顯示此行事曆">
 <!ENTITY calendarproperties.forceDisabled.label            "無法找到此行事曆的提供者，此狀況通常發生於您停用或移除某些套件。">
 <!ENTITY calendarproperties.unsubscribe.label              "取消訂閱">
