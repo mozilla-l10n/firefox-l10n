@@ -6,7 +6,7 @@
 <!ENTITY  error_loading_file "Σφάλμα κατά την φόρτωση των απαραίτητων αρχείων για την εκτέλεση του &brandShortName;">
 
 <!ENTITY  crash_reporter_title "Αναφορά σφαλμάτων &brandShortName;">
-<!ENTITY  crash_message "Ο &brandShortName; κατέρευσε. Οι ανοικτές καρτέλες θα παρουσιαστούν στην αρχική σελίδα του &brandShortName; όταν επανεκκινήσετε.">
+<!ENTITY  crash_message "Ο &brandShortName; κατέρρευσε. Οι ανοικτές καρτέλες θα παρουσιαστούν στην αρχική σελίδα του &brandShortName; όταν επανεκκινήσετε.">
 <!ENTITY  crash_help_message "Βοηθήστε μας να διορθώσουμε το πρόβλημα!">
 <!ENTITY  crash_send_report_message "Στείλτε μια αναφορά σφάλματος στον Mozilla">
 <!ENTITY  crash_include_url "Να συμπεριληφθεί και η διεύθυνση της σελίδας">
@@ -15,4 +15,6 @@
 <!ENTITY  sending_crash_report "Γίνεται αποστολή αναφοράς σφάλματος\u2026">
 <!ENTITY  exit_label "Έξοδος">
 <!ENTITY  continue_label "Συνέχεια">
-
+<!ENTITY choose_file "Επιλογή αρχείου">
+<!ENTITY  launcher_shortcuts_title "&brandShortName; Web Apps">
+<!ENTITY  launcher_shortcuts_empty "Δεν βρέθηκαν web apps">
