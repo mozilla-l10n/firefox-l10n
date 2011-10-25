@@ -13,9 +13,10 @@
 <!ENTITY manageAccount.label "Управление на акаунта">
 <!ENTITY manageAccount.accesskey "а">
 <!ENTITY viewQuota.label "Показване на квотата">
-<!ENTITY changePassword.label "Промяна на парола">
+<!ENTITY changePassword2.label "Промяна на парола…">
 <!ENTITY mySyncKey.label "Моят ключ на Sync">
-<!ENTITY resetSync.label "Анулиране на Sync">
+<!ENTITY resetSync2.label "Анулиране на Sync…">
+
 <!ENTITY addDevice.label "Добавяне на устройство">
 
 <!ENTITY syncMy.label "Sync на моите">
@@ -33,7 +34,7 @@
 
 <!ENTITY syncComputerName.label "Име на компютъра:">
 <!ENTITY syncComputerName.accesskey "И">
-<!ENTITY deactivateDevice.label "Деактивиране на устройство">
+<!ENTITY unlinkDevice.label "Разкачване на устройството">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label "Условия за ползване на услугата">
