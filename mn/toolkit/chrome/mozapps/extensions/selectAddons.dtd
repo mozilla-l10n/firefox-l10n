@@ -1,4 +1,4 @@
-<!ENTITY upgrade.style               "өргөн: 93ch; өндөр: 448px;">
+<!ENTITY upgrade.style               "width: 93ch; өheight: 448px;">
 <!ENTITY checking.heading            "Таны нэмэгдлүүдийг шалгаж байна">
 <!ENTITY checking.progress.label     "&brandShortName; -н энэ хувилбартай нийцүүлхийн тулд таны нэмэгдлүүдийг шалгаж байна.">
 <!ENTITY select.heading              "Нэмэгдлүүдээ сонгоно уу">
@@ -8,17 +8,17 @@
 <!ENTITY select.keep                 "Хадгалах">
 <!-- LOCALIZATION NOTE (select.keep.style): Should be a width wide enough for
      the string in select.keep above. -->
-<!ENTITY select.keep.style           "өргөн: 6ch;">
+<!ENTITY select.keep.style           "width: 6ch;">
 <!ENTITY select.action               "Үйлдэл">
 <!-- LOCALIZATION NOTE (select.action.style): Should be a width wide enough for
      the action strings in selectAddons.properties or brandShortName. -->
-<!ENTITY select.action.style         "Өргөн: 35ch;">
+<!ENTITY select.action.style         "width: 35ch;">
 <!ENTITY select.source               "Нэрийн дагуу">
 <!ENTITY select.name                 "суулгагдсан : ">
 <!-- LOCALIZATION NOTE (select.name.style): Should be a width small enough so
      the source column still has enough room for the source strings in
      selectAddons.properties. -->
-<!ENTITY select.name.style           "өргөн: 33ch;">
+<!ENTITY select.name.style           "width: 33ch;">
 <!ENTITY confirm.heading             "Нэмэгдлүүдээ сонгоно уу">
 <!-- LOCALIZATION NOTE (confirm.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
