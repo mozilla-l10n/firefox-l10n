@@ -10,8 +10,8 @@
 <!ENTITY useCurrentPage.label      "Χρήση τρέχουσας σελίδας">
 <!ENTITY useCurrentPage.accesskey  "τ">
 <!ENTITY useMultiple.label         "Χρήση τρεχουσών σελίδων">
-<!ENTITY useBookmark.label         "Χρήση σελιδοδείκτη">
-<!ENTITY useBookmark.accesskey     "σ">
+<!ENTITY chooseBookmark.label      "Χρήση σελιδοδείκτη...">
+<!ENTITY chooseBookmark.accesskey  "σ">
 <!ENTITY restoreDefault.label      "Επαναφορά προεπιλεγμένης">
 <!ENTITY restoreDefault.accesskey  "ρ">
 

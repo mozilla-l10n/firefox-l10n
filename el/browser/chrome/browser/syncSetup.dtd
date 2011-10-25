@@ -16,9 +16,6 @@
 <!ENTITY signIn.account2.label      "Λογαριασμός">
 <!ENTITY signIn.account2.accesskey  "γ">
 
-<!ENTITY signIn.syncKey.label       "Κλειδί Sync">
-<!ENTITY signIn.syncKey.accesskey   "Κ">
-
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Εξυπηρετητής">
@@ -41,14 +38,6 @@
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 
-<!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "Ο &brandShortName; φροντίζει για το απόρρητο σας">
-<!ENTITY setup.newSyncKeyPage.description.label "Για να προστατευτεί πλήρως το απόρρητο σας, όλα τα δεδομένα σας κρυπτογραφούνται πριν τη μεταφορά τους. Το κλειδί Sync που είναι απαραίτητο για την αποκρυπτογράφηση τους θα το έχετε μόνο εσείς.">
-<!ENTITY syncKeyEntry.label        "Το κλειδί Sync σας">
-<!ENTITY syncKeyEntry.accesskey    "κ">
-
-
-<!ENTITY syncKeyBackup.description "Το κλειδί Sync απαιτείται για την πρόσβαση σας στο &syncBrand.fullName.label; με άλλες συσκευές. Κρατήστε ένα αντίγραφο ασφαλείας του κλειδιού. Δεν μπορούμε να σας βοηθήσουμε να ανακτήσετε το κλειδί Sync.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Εκτύπωση…">
 <!ENTITY button.syncKeyBackup.print.accesskey "π">
@@ -68,8 +57,6 @@
 <!ENTITY resetSyncKey.label           "Έχω χάσει την άλλη συσκευή.">
 
 
-
-<!ENTITY existingSyncKey.description "Μπορείτε να πάρετε ένα αντίγραφο του κλειδιού Sync πηγαίνοντας στις Επιλογές του &syncBrand.shortName.label; στον άλλο υπολογιστή και επιλέγοντας  &#x0022;Το κλειδί Sync&#x0022; στο &#x0022;Διαχείριση λογαριασμού&#x0022;.">
 
 
 <!ENTITY serverType.custom2.label   "Χρήση προσαρμοσμένου εξυπηρετητή…">
@@ -129,11 +116,21 @@
 <!ENTITY addDevice.dialog.enterCode.label   "Εισάγετε τον κωδικό που παρέχει η συσκευή:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Παρακαλώ προσπαθήστε ξανά.">
 <!ENTITY addDevice.dialog.successful.label  "Η συσκευή προστέθηκε με επιτυχία. Ο αρχικός συγχρονισμός μπορεί να διαρκέσει μερικά λεπτά και υα πραγματοποιηθεί στο παρασκήνιο.">
-<!ENTITY addDevice.dialog.syncKey.label     "Για να ενεργοποιηθεί η συσκευή θα πρέπει να εισάγετε το κλειδί Sync σας. Παρακαλώ εκτυπώστε ή αποθηκεύστε το κλειδί σας και πάρτε το μαζί σας.">
+
 <!ENTITY addDevice.dialog.connected.label   "Συσκευή συνδεδεμένη">
 
 <!ENTITY button.connect.label    "Σύνδεση">
 
 
 
+
+<!ENTITY addDevice.dialog.recoveryKey.label     "Για να ενεργοποιηθεί η συσκευή θα πρέπει να εισάγετε το κλειδί ανάκτησης σας. Παρακαλώ εκτυπώστε ή αποθηκεύστε το κλειδί σας και πάρτε το μαζί σας.">
+<!ENTITY existingRecoveryKey.description "Μπορείτε να πάρετε ένα αντίγραφο του κλειδιού ανάκτησης, πηγαίνοντας στις Επιλογές του &syncBrand.shortName.label; στον άλλο υπολογιστή και επιλέγοντας  &#x0022;Το κλειδί ανάκτησης&#x0022; στο &#x0022;Διαχείριση λογαριασμού&#x0022;.">
+<!ENTITY recoveryKeyBackup.description "Το κλειδί ανάκτησης απαιτείται για την πρόσβαση σας στο &syncBrand.fullName.label; με άλλες συσκευές. Κρατήστε ένα αντίγραφο ασφαλείας του κλειδιού. Δεν μπορούμε να σας βοηθήσουμε να ανακτήσετε το κλειδί ανάκτησης σας.">
+<!ENTITY recoveryKeyEntry.label        "Το κλειδί ανάκτησης σας">
+<!ENTITY recoveryKeyEntry.accesskey    "κ">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Για να προστατευτεί πλήρως το απόρρητο σας, όλα τα δεδομένα σας κρυπτογραφούνται πριν τη μεταφορά τους. Το κλειδί ανάκτησης που είναι απαραίτητο για την αποκρυπτογράφηση τους θα το έχετε μόνο εσείς.">
+<!ENTITY setup.newRecoveryKeyPage.title.label "Ο &brandShortName; νοιάζεται για το απόρρητο σας">
+<!ENTITY signIn.recoveryKey.label       "Κλειδί ανάκτησης">
+<!ENTITY signIn.recoveryKey.accesskey   "κ">
 
