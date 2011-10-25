@@ -5,6 +5,9 @@
 <!ENTITY startupHomePage.label "Показване на началната страница">
 <!ENTITY startupBlankPage.label "Показване на празна страница">
 <!ENTITY startupLastSession.label "Показване на под/прозорците от последния път">
+<!ENTITY restoreOnDemand.label "Без зареждане на подпрозорците преди да са нужни">
+<!ENTITY restoreOnDemand.accesskey "з">
+
 <!ENTITY homepage.label "Начална страница:">
 <!ENTITY homepage.accesskey "Н">
 <!ENTITY useCurrentPage.label "Текущата страница">
