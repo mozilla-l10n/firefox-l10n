@@ -11,7 +11,7 @@
 <!ENTITY purge1.label "Cancella automaticamente i messaggi spam dopo">
 <!ENTITY purge1.accesskey "C">
 <!ENTITY purge2.label "giorni">
-<!ENTITY whitelist.label "Non segnare come spam se il mittente é in:">
+<!ENTITY whitelist.label "Non segnare come spam se il mittente è in:">
 <!ENTITY whitelist.accesskey "N">
 <!ENTITY ispHeaders.label "Utilizza le intestazioni spam impostate da:">
 <!ENTITY ispHeaders.accesskey "U">
