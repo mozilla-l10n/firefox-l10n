@@ -11,6 +11,7 @@
 <!ENTITY email.accesskey "e">
 <!ENTITY replyTo.label "An seòladh freagairt-gu:">
 <!ENTITY replyTo.accesskey "s">
+<!ENTITY replyTo.placeholder "Freagraidh na faightearan an seòladh eile seo">
 <!ENTITY organization.label "Buidheann:">
 <!ENTITY organization.accesskey "B">
 <!ENTITY signatureText.label "Teacsa an earr-sgrìobhaidh:">

@@ -5,9 +5,9 @@
 
 <!-- Entities for Account Type page -->
 
-<!ENTITY accountSetupInfo.label "Feumaidh tu cunntas puist no buidhnean-naidheachd a chur air dòigh mus urrainn dhut teachdaireachdan fhaighinn.">
+<!ENTITY accountSetupInfo2.label "Feumaidh tu cunntas a chur air dòigh mus faigh thu teachdaireachdan.">
 <!ENTITY accountTypeTitle.label "Suidheachadh de chunntas ùr">
-<!ENTITY accountTypeDesc.label "Cruinnichidh an draoidh am fiosrachadh air a bheil feum gus cunntas puist no buidhinn-naidheachd a chur air dòigh. Mur eil am fiosrachadh ceart again, cuir fios gu rianadair an t-siostaim no solaraiche na seirbheise-lìn agad.">
+<!ENTITY accountTypeDesc2.label "Cruinnichidh an draoidh am fiosrachadh air a bheil feum gus cunntas a chur air dòigh. Mur eil am fiosrachadh ceart again, cuir fios gu rianadair an t-siostaim no solaraiche na seirbheise-lìn agad.">
 <!ENTITY accountTypeDirections.label "Tagh an seòrsa de chunntas a bu toigh leat a chur air dòigh:">
 <!ENTITY accountTypeMail.label "Cunntas puist-dhealain">
 <!ENTITY accountTypeMail.accesskey "C">
