@@ -13,8 +13,8 @@
 <!ENTITY useCurrentPage.label      "Usar a página aberta">
 <!ENTITY useCurrentPage.accesskey  "a">
 <!ENTITY useMultiple.label         "Usar as páginas abertas">
-<!ENTITY useBookmark.label         "Usar favorito…">
-<!ENTITY useBookmark.accesskey     "f">
+<!ENTITY chooseBookmark.label      "Usar favorito…">
+<!ENTITY chooseBookmark.accesskey  "f">
 <!ENTITY restoreDefault.label      "Restaurar o padrão">
 <!ENTITY restoreDefault.accesskey  "R">
 
