@@ -21,6 +21,7 @@
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configuração da compilação">
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
 <!ENTITY aboutSupport.appBasicsCrashIDs "Relatórios de travamento">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Uso de memória">
 
 <!ENTITY aboutSupport.show.label "Abrir pasta">
 
