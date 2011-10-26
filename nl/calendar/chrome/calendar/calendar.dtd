@@ -322,7 +322,7 @@
 <!ENTITY calendarproperties.name.label                     "Naam:">
 <!ENTITY calendarproperties.readonly.label                 "Alleen-lezen">
 <!ENTITY calendarproperties.firealarms.label               "Alarmen tonen">
-<!ENTITY calendarproperties.cache.label                    "Buffer (EXPERIMENTEEL, herstart nodig)">
+<!ENTITY calendarproperties.cache.label                    "Buffer">
 <!ENTITY calendarproperties.enabled.label                  "Deze agenda inschakelen">
 <!ENTITY calendarproperties.forceDisabled.label            "De provider voor deze agenda kon niet worden gevonden. Dit gebeurt vaak als u bepaalde add-ons hebt uitgeschakeld of gede-installeerd.">
 <!ENTITY calendarproperties.unsubscribe.label              "Afmelden">
