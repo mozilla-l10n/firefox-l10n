@@ -11,6 +11,7 @@
 <!ENTITY email.accesskey "E">
 <!ENTITY replyTo.label "Responder a:">
 <!ENTITY replyTo.accesskey "R">
+<!ENTITY replyTo.placeholder "Destinatários responderão para este endereço">
 <!ENTITY organization.label "Empresa:">
 <!ENTITY organization.accesskey "m">
 <!ENTITY signatureText.label "Texto da assinatura:">
