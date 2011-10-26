@@ -1,0 +1,10 @@
+<!ENTITY title           "ॲडऑन प्रतिष्ठापीत करा">
+<!ENTITY intro           "संगणकावरील इतर प्रोग्राम खालील ॲडऑनसह 
+                          &brandShortName; संपादित करू शकतो:">
+<!ENTITY warning         "विश्वासर्ह ऑथर्सकडूनच ॲडऑन प्रतिष्ठापीत करा.">
+<!ENTITY allow           "हे प्रतिष्ठापन स्वीकारा">
+<!ENTITY later           "ॲडऑन्स् मॅनेजरकडे जाऊन तुम्ही नेहमी मन बदलवू शकता.">
+<!ENTITY continue        "पुढे">
+<!ENTITY restartMessage  "या ॲडऑनचे प्रतिष्ठापन पूर्ण करण्यासाठी &brandShortName; पुनः सुरू करा.">
+<!ENTITY restartButton   "&brandShortName; पुनःसुरू करा">
+<!ENTITY cancelButton    "रद्द करा">
