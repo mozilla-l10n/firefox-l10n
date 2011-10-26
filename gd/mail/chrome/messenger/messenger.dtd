@@ -122,6 +122,8 @@
 <!ENTITY redoDefaultCmd.accesskey "A">
 
 <!-- View Menu -->
+<!ENTITY menubarCmd.label "Bàr a' chlàir-thaice">
+<!ENTITY menubarCmd.accesskey "r">
 <!ENTITY showMessengerToolbarCmd.label "Bàr-inneil a' phuist">
 <!ENTITY showMessengerToolbarCmd.accesskey "B">
 <!ENTITY customizeToolbar.label "Gnàthaich…">
@@ -272,6 +274,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageSourceCmd.label "Bun-tùs na teachdaireachd">
 <!ENTITY pageSourceCmd.accesskey "B">
 <!ENTITY pageSourceCmd.key "u">
+<!ENTITY getNewMessagesCmd.key "y">
+<!ENTITY getAllNewMessagesCmd.key "Y">
 
 <!-- Search Menu -->
 <!ENTITY findMenu.label "Lorg">
@@ -501,12 +505,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY previousButton.label "Air ais">
 <!ENTITY backButton1.label "Air ais">
 <!ENTITY goForwardButton1.label "Air adhart">
+<!ENTITY deleteItem.title "Sguab às">
 <!ENTITY deleteButton.label "Sguab às">
 <!ENTITY undeleteButton.label "Neo-dhèan an sguabadh às">
 <!ENTITY markButton.label "Cuir comharra">
 <!ENTITY printButton.label "Clò-bhuail">
 <!ENTITY stopButton.label "Sguir dheth">
 <!ENTITY throbberItem.title "Tosgair gnìomhachd">
+<!ENTITY junkItem.title "Truilleis">
 <!ENTITY junkButton.label "Truilleis">
 <!ENTITY notJunkButton.label "Post còir">
 <!ENTITY addressBookButton.label "Leabhar nan seòladh">
