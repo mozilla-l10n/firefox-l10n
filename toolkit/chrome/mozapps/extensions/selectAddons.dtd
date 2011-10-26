@@ -1,0 +1,45 @@
+<!ENTITY upgrade.style               "width: 93ch; height: 448px;">
+
+<!ENTITY checking.heading            "ॲडऑन्स् तपासत आहे">
+<!ENTITY checking.progress.label     "&brandShortName; च्या या आवृत्तीसह सहत्वताकरीता ॲडऑन्स् तपासत आहे.">
+
+<!ENTITY select.heading              "ॲडऑन्स् नीवडा">
+<!-- LOCALIZATION NOTE (select.description): The term used for "third parties"
+     here should match the string source.other in selectAddons.properties. -->
+<!ENTITY select.description          "वापर करत नसलेले ॲडऑन्स् बंद करून &brandShortName; अधिक वेगवान करा. नीवडविना तिसरे पक्षियतर्फे आधिपासूनच प्रतिष्ठापीत ॲडऑन्स् स्वयंरित्या बंद केले जाईल.">
+<!ENTITY select.keep                 "जपवा">
+<!-- LOCALIZATION NOTE (select.keep.style): Should be a width wide enough for
+     the string in select.keep above. -->
+<!ENTITY select.keep.style           "width: 6ch;">
+<!ENTITY select.action               "कृती">
+<!-- LOCALIZATION NOTE (select.action.style): Should be a width wide enough for
+     the action strings in selectAddons.properties or brandShortName. -->
+<!ENTITY select.action.style         "width: 35ch;">
+<!ENTITY select.source               "तर्फे प्रतिष्ठापीत">
+<!ENTITY select.name                 "नाव">
+<!-- LOCALIZATION NOTE (select.name.style): Should be a width small enough so
+     the source column still has enough room for the source strings in
+     selectAddons.properties. -->
+<!ENTITY select.name.style           "width: 33ch;">
+
+<!ENTITY confirm.heading             "ॲडऑन्स् नीवडा">
+<!-- LOCALIZATION NOTE (confirm.description): The term used for "third parties"
+     here should match the string source.other in selectAddons.properties. -->
+<!ENTITY confirm.description         "वापर करत नसलेले ॲडऑन्स् बंद करून &brandShortName; अधिक वेगवान करा. नीवडविना तिसऱ्या पक्षियतर्फे आधिपासूनच प्रतिष्ठापीत ॲडऑन्स् स्वयंरित्या बंद केले जाईल.">
+
+<!ENTITY action.disable.heading      "खालील ॲडऑन्स् बंद केले जाईल:">
+<!ENTITY action.incompatible.heading "खालील ॲडऑन्स् बंद आहेत, परंतु सहत्व झाल्यावर लवकरच सुरू केले जाईल:">
+<!ENTITY action.update.heading       "खालील ॲडऑन्स् सुरू केले जाईल:">
+<!ENTITY action.enable.heading       "खालील ॲडऑन्स् सुरू केले जाईल:">
+
+<!ENTITY update.heading              "ॲडऑन्स् सुधारित करत आहे">
+<!ENTITY update.progress.label       "नीवडलेल्या ॲडऑन्स्करीता सुधारणा डाउनलोड व प्रतिष्ठापीत करत आहे.">
+
+<!ENTITY errors.heading              "&brandShortName; काहिक ॲडऑन्स् सुधारित करू शकले नाही.">
+<!ENTITY errors.description          "ठराविक ॲडऑन्स् करीता सुधारणा प्रतिष्ठापीत करणे अपयशी झाले. &brandShortName; त्यानंतर स्वयंरित्या सुधारणा करायचा प्रयत्न करेल.">
+
+<!ENTITY footer.label                "ॲडऑन्स् मॅनेजरचा वापर करून ॲडऑन्स् बदलणे शक्य आहे.">
+<!ENTITY cancel.label                "रद्द करा">
+<!ENTITY back.label                  "मागे">
+<!ENTITY next.label                  "पुढे">
+<!ENTITY done.label                  "पूर्ण झाले">
