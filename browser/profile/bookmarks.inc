@@ -51,7 +51,7 @@
 
 # link title for http://en-US.www.mozilla.com/en-US/firefox/customize/
 
-#define firefox_customize Customize Firefox
+#define firefox_customize Customise Firefox
 
 
 # LOCALIZATION NOTE (firefox_community):

@@ -2,9 +2,9 @@
 <!ENTITY places.library.title  "Library">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
-<!ENTITY organize.label        "Organize">
+<!ENTITY organize.label        "Organise">
 <!ENTITY organize.accesskey    "O">
-<!ENTITY organize.tooltip      "Organize your bookmarks">
+<!ENTITY organize.tooltip      "Organise your bookmarks">
 
 <!ENTITY file.close.label               "Close">
 <!ENTITY file.close.accesskey           "C">
