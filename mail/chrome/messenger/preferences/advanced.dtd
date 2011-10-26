@@ -6,6 +6,9 @@
 
 <!-- General Settings -->
 
+<!ENTITY submitTelemetry.label         "Enviar dados sobre desempenho">
+<!ENTITY submitTelemetry.accesskey     "d">
+<!ENTITY telemetryInfoLink.label       "Mais informações sobre o envio de dados">
 <!ENTITY enableGlodaSearch.label       "Ativar pesquisa global e indexação">
 <!ENTITY enableGlodaSearch.accesskey   "A">
 <!ENTITY systemIntegration.label       "Integração com o sistema">

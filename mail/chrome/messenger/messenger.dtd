@@ -119,6 +119,8 @@
 <!ENTITY redoDefaultCmd.accesskey "R">
 
 <!-- View Menu -->
+<!ENTITY menubarCmd.label "Barra de menus">
+<!ENTITY menubarCmd.accesskey "m">
 <!ENTITY showMessengerToolbarCmd.label "Padrão">
 <!ENTITY showMessengerToolbarCmd.accesskey "a">
 <!ENTITY customizeToolbar.label "Personalizar…">
@@ -269,6 +271,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageSourceCmd.label "Código-fonte">
 <!ENTITY pageSourceCmd.accesskey "f">
 <!ENTITY pageSourceCmd.key "U">
+<!ENTITY getNewMessagesCmd.key "Y">
+<!ENTITY getAllNewMessagesCmd.key "y">
 
 <!-- Search Menu -->
 <!ENTITY findMenu.label "Localizar">
@@ -347,10 +351,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replySenderCmd.accesskey "R">
 <!ENTITY replyNewsgroupCmd.label "Responder ao newsgroup">
 <!ENTITY replyNewsgroupCmd.accesskey  "w">
-<!ENTITY replyToAllMsgCmd.label "Responder a todos">
-<!ENTITY replyToAllMsgCmd.accesskey  "t">
+<!ENTITY replyToAllMsgCmd.label "Re: Todos">
+<!ENTITY replyToAllMsgCmd.accesskey  "T">
 <!ENTITY replyToAllMsgCmd.key  "R">
-<!ENTITY replyToListMsgCmd.label "Responder à lista">
+<!ENTITY replyToListMsgCmd.label "Re: Lista">
 <!ENTITY replyToListMsgCmd.accesskey  "s">
 <!ENTITY replyToListMsgCmd.key  "l">
 <!ENTITY forwardMsgCmd.label "Encaminhar">
@@ -498,12 +502,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY previousButton.label "Anterior">
 <!ENTITY backButton1.label "Voltar">
 <!ENTITY goForwardButton1.label "Avançar">
+<!ENTITY deleteItem.title "Excluir">
 <!ENTITY deleteButton.label "Excluir">
 <!ENTITY undeleteButton.label "Restaurar">
 <!ENTITY markButton.label "Marcar">
 <!ENTITY printButton.label "Imprimir">
 <!ENTITY stopButton.label "Parar">
 <!ENTITY throbberItem.title "Indicador de atividade">
+<!ENTITY junkItem.title "Spam">
 <!ENTITY junkButton.label "Spam">
 <!ENTITY notJunkButton.label "Não é spam">
 <!ENTITY addressBookButton.label "Catálogo">
@@ -521,7 +527,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getAllNewMsgCmd.accesskey "T">
 <!ENTITY newMsgButton.tooltip "Nova mensagem">
 <!ENTITY replyButton.tooltip "Responder mensagem">
-<!ENTITY replyAllButton.tooltip "Responder ao remetente com cópia a todos os destinatários">
+<!ENTITY replyAllButton.tooltip "Responder ao remetente e a todos os destinatários">
 <!ENTITY replyListButton.tooltip "Responder à lista de emails">
 <!ENTITY forwardButton.tooltip "Encaminhar mensagem selecionada">
 <!ENTITY fileButton.tooltip "Mover mensagem selecionada para outra pasta">
@@ -665,9 +671,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextReplySender.accesskey "R">
 <!ENTITY contextReplyNewsgroup.label "Responder ao newsgroup">
 <!ENTITY contextReplyNewsgroup.accesskey "w">
-<!ENTITY contextReplyAll.label "Responder a todos">
-<!ENTITY contextReplyAll.accesskey "t">
-<!ENTITY contextReplyList.label "Responder à lista">
+<!ENTITY contextReplyAll.label "Re: Todos">
+<!ENTITY contextReplyAll.accesskey "T">
+<!ENTITY contextReplyList.label "Re: Lista">
 <!ENTITY contextReplyList.accesskey "s">
 <!ENTITY contextForward.label "Encaminhar">
 <!ENTITY contextForward.accesskey "E">
