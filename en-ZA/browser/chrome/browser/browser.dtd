@@ -193,6 +193,9 @@ can reach it easily. -->
 <!ENTITY inspectMenu.label            "Inspect">
 <!ENTITY inspectMenu.accesskey        "t">
 <!ENTITY inspectMenu.commandkey       "I">
+
+<!ENTITY inspectContextMenu.label     "Inspect Element">
+<!ENTITY inspectContextMenu.accesskey "Q">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -285,7 +288,7 @@ can reach it easily. -->
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuEdit.label "Edit">
-<!ENTITY appMenuCustomize.label "Customize">
+<!ENTITY appMenuCustomize.label "Customise">
 <!ENTITY appMenuToolbarLayout.label "Toolbar Layout…">
 <!ENTITY appMenuSidebars.label "Sidebars">
 <!ENTITY appMenuFind.label "Find…">
@@ -296,7 +299,7 @@ can reach it easily. -->
 <!ENTITY appMenuSafeMode.accesskey "R">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder           "Go to a Web Site">
+<!ENTITY urlbar.placeholder           "Go to a Website">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Switch to tab:">
 <!-- 
@@ -493,7 +496,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Basic Page Style">
 <!ENTITY pageStylePersistentOnly.accesskey "B">
 
-<!ENTITY pageReportIcon.tooltip            "Change pop-up blocking settings for this web site">
+<!ENTITY pageReportIcon.tooltip            "Change pop-up blocking settings for this website">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -525,7 +528,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "Cancel">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
-<!ENTITY identity.unverifiedsite2 "This web site does not supply identity information.">
+<!ENTITY identity.unverifiedsite2 "This website does not supply identity information.">
 <!ENTITY identity.connectedTo "You are connected to">
 <!-- Localization note (identity.runBy) : This string appears between a
 domain name (above) and an organization name (below). E.g.
