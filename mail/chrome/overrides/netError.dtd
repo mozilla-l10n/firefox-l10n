@@ -51,6 +51,13 @@
 <!ENTITY netInterrupt.title "La connexion a été interrompue">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!ENTITY notCached.title "Le document a expiré">
+<!ENTITY notCached.longDesc "<p>Le document demandé n'est plus disponible dans le cache de &brandShortName;.</p>
+<ul>
+  <li>Par mesure de sécurité, &brandShortName; ne redemande pas automatiquement de documents sensibles.</li>
+  <li>Cliquez sur Réessayer pour redemander ce document depuis le site web.</li>
+  </ul>">
+
 <!ENTITY netOffline.title "Mode hors connexion">
 <!ENTITY netOffline.longDesc2 "
 <ul>
