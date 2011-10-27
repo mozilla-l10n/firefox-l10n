@@ -1,7 +1,7 @@
 <!-- extracted from am-copies.xul -->
 
 <!ENTITY copyAndFolderTitle.label "Kopije &amp; mape">
-<!ENTITY sendingPrefix.label "Ko se pošilja ssporočila, samodejno: ">
+<!ENTITY sendingPrefix.label "Ko se pošilja sporočila, samodejno: ">
 <!ENTITY fccMailFolder.label "Vloži kopijo v:">
 <!ENTITY fccMailFolder.accesskey "V">
 <!ENTITY fccReplyFollowsParent.label "Daj odgovore v mapo s sporočilom, na katerega odgovarjam">
