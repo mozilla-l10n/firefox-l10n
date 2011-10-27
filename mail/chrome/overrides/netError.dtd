@@ -166,7 +166,7 @@ nekdo poskuša predstaviti kot strežnik.</li>
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; je preprečil, da bi se to stran na ta način naložilo, kajti zanjo veljajo pravila o varnosti vsebin, ki tega ne dovoljujejo.</p>">
 
 <!ENTITY corruptedContentError.title "Napaka - okvarjena vsebina">
-<!ENTITY corruptedContentError.longDesc "<p>Vsebine, ki jo želite videti, zaradi napake pri prenosu podatkov ni mogoče prikazati.</p><ul><li>Obrnite se prosim na lastnike strani in jih obvestite o problemu.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>Vsebine, ki jo želite videti, zaradi napake pri prenosu podatkov ni mogoče prikazati.</p><ul><li>Obrnite se na lastnike strani in jih obvestite o problemu.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Lahko pa dodate izjemo…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Spravi me proč od tod!">
@@ -185,5 +185,5 @@ netError.xhtml) because it exposes functionality specific to thunderbird. -->
 ">
 
 <!ENTITY remoteXUL.title "Oddaljeni XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Obrnite se prosim na lastnike spletne strani in jih obvestite o tem problemu.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Obrnite se na lastnike spletne strani in jih obvestite o tem problemu.</li></ul></p>">
 

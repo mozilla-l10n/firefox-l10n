@@ -99,7 +99,7 @@
 <!-- Entities for Done (Congratulations) page -->
 
 <!ENTITY completionTitle.label "Čestitamo!">
-<!ENTITY completionText.label "Prosimo, preverite, da so podatki spodaj pravilni.">
+<!ENTITY completionText.label "Preverite, da so podatki spodaj pravilni.">
 <!ENTITY serverTypePrefix.label "Vrsta dohodnega strežnika:">
 <!ENTITY serverNamePrefix.label "Ime dohodnega strežnika:">
 <!ENTITY smtpServerNamePrefix.label "Ime strežnika za odhodno pošto (SMTP):">
