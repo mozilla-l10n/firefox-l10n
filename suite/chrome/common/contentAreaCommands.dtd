@@ -136,6 +136,12 @@
 <!ENTITY mediaHideControls.accesskey  "m">
 <!ENTITY videoFullScreen.label        "Rodyti visame ekrane">
 <!ENTITY videoFullScreen.accesskey    "v">
+<!ENTITY videoSaveImage.label         "Įrašyti kadrą kaip…">
+<!ENTITY videoSaveImage.accesskey     "k">
+<!ENTITY videoShowStats.label         "Rodyti statistiką">
+<!ENTITY videoShowStats.accesskey     "s">
+<!ENTITY videoHideStats.label         "Nerodyti statistikos">
+<!ENTITY videoHideStats.accesskey     "s">
 <!ENTITY search.accesskey             "š">
 <!ENTITY bidiSwitchPageDirectionItem.label        "Pakeisti puslapio kryptį">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "a">
