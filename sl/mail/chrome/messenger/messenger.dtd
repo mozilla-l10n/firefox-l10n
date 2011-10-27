@@ -423,8 +423,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markStarredCmd.accesskey "v">
 <!ENTITY markStarredCmd.key "z">
 <!ENTITY markAsJunkCmd.label "Kot neželeno">
-<!ENTITY markAsJunkCmd.accesskey "ž">
-<!ENTITY markAsJunkCmd.key "ž">
+<!ENTITY markAsJunkCmd.accesskey "K">
+<!ENTITY markAsJunkCmd.key "K">
 <!ENTITY markAsNotJunkCmd.label "Ne kot neželeno">
 <!ENTITY markAsNotJunkCmd.accesskey "k">
 <!ENTITY markAsNotJunkCmd.key "k">
@@ -473,7 +473,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY filtersApplyToMessage.accesskey "s">
 <!ENTITY runJunkControls.label "Poženi nadzor za neželeno pošto v mapi">
 <!ENTITY runJunkControls.accesskey "ž">
-<!ENTITY deleteJunk.label "Izbriši v mapi pošto, Ki je označena kot neželena">
+<!ENTITY deleteJunk.label "Izbriši v mapi pošto, ki je označena kot neželena">
 <!ENTITY deleteJunk.accesskey "B">
 <!ENTITY importCmd.label "Uvozi …">
 <!ENTITY importCmd.accesskey "u">
