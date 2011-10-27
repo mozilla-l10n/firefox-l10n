@@ -145,7 +145,7 @@
 <!ENTITY calendar.task.filter.next7days.accesskey   "N">
 <!ENTITY calendar.task.filter.notstarted.label      "Nezačete opravke">
 <!ENTITY calendar.task.filter.notstarted.accesskey  "z">
-<!ENTITY calendar.task.filter.overdue.label         "Pretečeni opravki">
+<!ENTITY calendar.task.filter.overdue.label         "Pretečene opravke">
 <!ENTITY calendar.task.filter.overdue.accesskey     "P">
 <!ENTITY calendar.task.filter.completed.label       "Izvršene opravke">
 <!ENTITY calendar.task.filter.completed.accesskey   "I">
