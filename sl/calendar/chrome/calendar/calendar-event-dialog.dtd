@@ -44,6 +44,8 @@
 
 <!ENTITY event.title.label                  "Uredi vnos">
 
+<!ENTITY event.dialog.keepDurationButton.tooltip   "Obdrži trajanje, kadar se spremeni datum zaključka">
+<!ENTITY event.dialog.keepDurationButton.accesskey "K">
 
 <!ENTITY newevent.from.label                "Od">
 <!ENTITY newevent.to.label                  "Do">
@@ -376,6 +378,10 @@
 <!ENTITY read.only.general.label         "Splošno">
 <!ENTITY read.only.title.label           "Naslov:">
 <!ENTITY read.only.repeat.label          "Ponovitev:">
+<!ENTITY read.only.event.start.label     "Začetni datum:">
+<!ENTITY read.only.task.start.label      "Začetni datum:">
+<!ENTITY read.only.event.end.label       "Zaključni datum:">
+<!ENTITY read.only.task.due.label        "Zaključni datum:">
 <!ENTITY read.only.location.label        "Kraj:">
 <!ENTITY read.only.category.label        "Kategorija:">
 <!ENTITY read.only.organizer.label       "Organizator:">
