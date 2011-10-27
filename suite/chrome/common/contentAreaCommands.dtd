@@ -104,6 +104,12 @@
 <!ENTITY mediaHideControls.accesskey "M">
 <!ENTITY videoFullScreen.label "Plein écran">
 <!ENTITY videoFullScreen.accesskey "P">
+<!ENTITY videoSaveImage.label "Enregistrer un instantané sous…">
+<!ENTITY videoSaveImage.accesskey "s">
+<!ENTITY videoShowStats.label "Afficher les statistiques">
+<!ENTITY videoShowStats.accesskey "t">
+<!ENTITY videoHideStats.label "Masquer les statistiques">
+<!ENTITY videoHideStats.accesskey "t">
 <!ENTITY search.accesskey "r">
 <!ENTITY bidiSwitchPageDirectionItem.label "Changer le sens de la page">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey "g">
