@@ -46,19 +46,13 @@
 <!ENTITY display.key "l">
 <!ENTITY environmentMenu.label "Окружение">
 <!ENTITY environmentMenu.accesskey "ж">
-<!ENTITY contentContext.label "Content">
-<!ENTITY contentContext.accesskey "C">
+<!ENTITY contentContext.label "Содержимое">
+<!ENTITY contentContext.accesskey "ж">
 <!ENTITY browserContext.label "Браузер">
 <!ENTITY browserContext.accesskey "з">
-<!ENTITY resetContext.label "Сбросить">
-<!ENTITY resetContext.accesskey "и">
+<!ENTITY resetContext2.label "Сбросить переменные">
+<!ENTITY resetContext2.accesskey "б">
 <!ENTITY executeMenu.label "Выполнить">
 <!ENTITY executeMenu.accesskey "В">
-<!ENTITY toolsMenu.label "Инструменты">
-<!ENTITY toolsMenu.accesskey "н">
-<!ENTITY errorConsoleCmd.label "Консоль ошибок">
-<!ENTITY errorConsoleCmd.accesskey "о">
 <!ENTITY errorConsoleCmd.commandkey "j">
-<!ENTITY webConsoleCmd.label "Веб-консоль">
-<!ENTITY webConsoleCmd.accesskey "е">
 <!ENTITY webConsoleCmd.commandkey "k">
