@@ -22,7 +22,7 @@
 <!ENTITY reloadPlugin.pre "Вы можете попробовать ">
 <!ENTITY reloadPlugin.middle "перезагрузить эту страницу">
 <!ENTITY reloadPlugin.post ".">
-<!ENTITY report.please "Отправить сообщение о падении">
+<!ENTITY report.checkbox "…и отправить сообщение о падении">
 <!ENTITY report.submitting "Идёт отправка сообщения…">
 <!ENTITY report.submitted "Сообщение о падении отправлено.">
 <!ENTITY report.disabled "Отправка сообщений о падении отключена.">
