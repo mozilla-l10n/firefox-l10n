@@ -27,13 +27,13 @@
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Serwer">
 <!ENTITY serverType.main.label      "Serwera &syncBrand.fullName.label;">
-<!ENTITY serverType.custom2.label   "Brëkùjë swòji serwerë…">
+<!ENTITY serverType.custom2.label   "Brëkùjë swòjégò serwera…">
 <!ENTITY signIn.account2.label      "Kònto">
 <!ENTITY signIn.account2.accesskey  "K">
 <!ENTITY signIn.password.label      "Parola">
 <!ENTITY signIn.password.accesskey  "P">
-<!ENTITY signIn.recoveryKey.label       "Klucz òdzyskù">
-<!ENTITY signIn.recoveryKey.accesskey   "K">
+<!ENTITY signIn.syncKey.label       "Klucz synchronizacji">
+<!ENTITY signIn.syncKey.accesskey   "K">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Detale kònta">
@@ -54,12 +54,12 @@
 <!ENTITY setup.tosAgree2.accesskey  "ë">
 
 <!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; mô stôrã ò Twòją priwatnotã">
-<!ENTITY setup.newRecoveryKeyPage.description.label "Abë zagwësnic całowną priwatnotã, wszëtczé Twòjé pòdôwczi są szifrowóné przed wladënkã. Klucz òdzyskù, chtëren nót je do òdszyfrowaniô, nie je wladowóny.">
-<!ENTITY recoveryKeyEntry.label        "Twój klucz òdzyskù">
-<!ENTITY recoveryKeyEntry.accesskey    "k">
+<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; mô stôrã ò Twòją priwatnotã">
+<!ENTITY setup.newSyncKeyPage.description.label "Abë zagwësnic całowną priwatnotã, wszëtczé Twòjé pòdôwczi są szifrowóné przed wladënkã. Klucz synchronizacëji, chtëren nót je do òdszyfrowaniô, nie je wladowóny.">
+<!ENTITY syncKeyEntry.label        "Twój klucz synchronizacji">
+<!ENTITY syncKeyEntry.accesskey    "k">
 <!ENTITY syncGenerateNewKey.label  "Generëjë nowi klucz">
-<!ENTITY recoveryKeyBackup.description "Twój klucz òdzyskù je wëmôgóny bë dostac sã do &syncBrand.fullName.label; na jinëch ùrzãdzeniach. Proszã ùsôdzë jegò kòpijã. Ni mòżemë pòmóc Ce w dostónim nazôd Twòjégò klucza.">
+<!ENTITY syncKeyBackup.description "Twój klucz synchronizacji je wëmôgóny bë dostac sã do &syncBrand.fullName.label; na jinëch ùrzãdzeniach. Proszã ùsôdzë jegò kòpiã. Ni mòżemë pòmóc Cë w dostónim nazôd Twòjégò klucza.">
 <!ENTITY button.syncKeyBackup.print.label     "Drëkùjë…">
 <!ENTITY button.syncKeyBackup.print.accesskey "D">
 <!ENTITY button.syncKeyBackup.save.label      "Zapiszë…">
@@ -77,12 +77,12 @@
 <!ENTITY addDevice.dialog.enterCode.label   "Wpiszë kòd dlô ùrzãdzeniô:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Proszã spróbòwac znowa.">
 <!ENTITY addDevice.dialog.successful.label  "Ùrzãdzenie òstało dodóné. Pierszô synchronizacjô mòże dérowac czile minutów ë zakùńczë sã w spòdlim.">
-<!ENTITY addDevice.dialog.recoveryKey.label "Abë zaktiwowac swòjé ùrzãdzenie nót je wpisac klucz òdzyskù. Proszã gò wëdrukòwac abò zapisac ë miec gò kòle se.">
+<!ENTITY addDevice.dialog.syncKey.label "Abë zaktiwowac swòjé ùrzãdzenie brëkùjesz klucza sync. Proszã gò wëdrukòwac abò zapisac ë miec gò kòle se.">
 <!ENTITY addDevice.dialog.connected.label   "Ùrzãdzenie pòdłączoné">
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Wlogùjë">
-<!ENTITY existingRecoveryKey.description "Mòżesz dostac kòpiã swòjégò klucza òdzyskù w òptacjach programù &syncBrand.shortName.label; na swòjim ùrzãdzeniu wëbiérając tam &#x0022;Mój klucz Sync&#x0022; w &#x0022;Sprôwianié kòntã&#x0022;.">
+<!ENTITY existingSyncKey.description "Mòżesz dostac kòpiã swòjégò klucza sync w òptacjach programù &syncBrand.shortName.label; na swòjim ùrzãdzeniu wëbiérając tam &#x0022;Mój klucz Sync&#x0022; w &#x0022;Sprôwianié kòntã&#x0022;.">
 <!ENTITY verifying.label              "Sprôwdzanié…">
 <!ENTITY resetPassword.label          "Wëczëszczë parolã">
 <!ENTITY resetSyncKey.label           "Móm zgùbioné no drëdżi ùrządzenié.">

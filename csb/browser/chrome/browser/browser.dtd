@@ -227,9 +227,6 @@ can reach it easily. -->
 <!ENTITY inspectButton.label          "Sprôwdzë">
 <!ENTITY inspectButton.accesskey      "ô">
 
-<!ENTITY inspectContextMenu.label     "Sprôwdzë Element">
-<!ENTITY inspectContextMenu.accesskey "E">
-
 <!ENTITY getMoreDevtoolsCmd.label        "Nalezë wicy nôrzãdzów">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "N">
 
