@@ -35,6 +35,9 @@
 <!ENTITY netInterrupt.title "Interrompeuse a conexión">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!ENTITY notCached.title "O documento caducou">
+<!ENTITY notCached.longDesc "<p>O documento solicitado non está dispoñíbel na memoria caché do &brandShortName;.</p><ul><li>Por razóns de seguranza, automaticamente o &brandShortName; non volve a solicitar documentos sensíbeis.</li><li>Prema Tentar de novo para volver a solicitar o documento do sitio web.</li></ul>">
+
 <!ENTITY netOffline.title "Modo sen conexión">
 <!ENTITY netOffline.longDesc2 "
 <ul>
