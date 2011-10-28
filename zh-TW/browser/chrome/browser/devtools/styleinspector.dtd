@@ -22,4 +22,4 @@
 <!-- LOCALIZATION NOTE (unmatchedSelectors): For each style property
   -  the panel shows whether there are any selectors that do not match the
   -  currently selected element. -->
-<!ENTITY unmatchedSelectors    "不符合的選擇器">
+<!ENTITY unmatchedSelectors    "未符合的選擇器">
