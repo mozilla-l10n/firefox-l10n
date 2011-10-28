@@ -322,7 +322,7 @@
 <!ENTITY calendarproperties.name.label                     "Nome:">
 <!ENTITY calendarproperties.readonly.label                 "Só de lectura">
 <!ENTITY calendarproperties.firealarms.label               "Mostrar alarmas">
-<!ENTITY calendarproperties.cache.label                    "Caché (EXPERIMENTAL)">
+<!ENTITY calendarproperties.cache2.label                   "Caché">
 <!ENTITY calendarproperties.enabled.label                  "Activar este calendario">
 <!ENTITY calendarproperties.forceDisabled.label            "Non foi posíbel atopar o fornecedor para este calendario. Iso sucede frecuentemente se desactivou ou desinstalou certos complementos.">
 <!ENTITY calendarproperties.unsubscribe.label              "Cancelar subscrición">
