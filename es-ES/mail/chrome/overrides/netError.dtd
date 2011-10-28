@@ -43,6 +43,8 @@
 ">
 <!ENTITY netInterrupt.title "La conexión ha sido interrumpida">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+<!ENTITY notCached.title "Documento caducado">
+<!ENTITY notCached.longDesc "<p>El documento solicitado no está disponible en la caché.</p><ul><li>Como precaución de seguridad, &brandShortName; no vuelve a solicitar automáticamente documentos con información privada.</li><li>Pulse Reintentar para volver a solicitar el documento del sitio web.</li></ul>">
 <!ENTITY netOffline.title "Modo sin conexión">
 <!ENTITY netOffline.longDesc2 "
 <ul>
