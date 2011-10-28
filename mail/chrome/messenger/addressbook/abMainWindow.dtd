@@ -82,8 +82,8 @@
 <!ENTITY showContactPane.accesskey "C">
 <!ENTITY menu_ShowNameAs.label "Mostrar nombre como">
 <!ENTITY menu_ShowNameAs.accesskey "n">
-<!ENTITY firstLastCmd.label "Nombre y apellidos">
-<!ENTITY firstLastCmd.accesskey "N">
+<!ENTITY firstLastCmd2.label "Nombre y apellidos">
+<!ENTITY firstLastCmd2.accesskey "m">
 <!ENTITY lastFirstCmd.label "Apellidos, nombre">
 <!ENTITY lastFirstCmd.accesskey "l">
 <!ENTITY displayNameCmd.label "Nombre mostrado">
