@@ -50,15 +50,9 @@
 <!ENTITY contentContext.accesskey "s">
 <!ENTITY browserContext.label "Navegador">
 <!ENTITY browserContext.accesskey "v">
-<!ENTITY resetContext.label "Restablecer">
-<!ENTITY resetContext.accesskey "R">
+<!ENTITY resetContext2.label "Restablecer">
+<!ENTITY resetContext2.accesskey "R">
 <!ENTITY executeMenu.label "Acción">
 <!ENTITY executeMenu.accesskey "n">
-<!ENTITY toolsMenu.label "Herramientas">
-<!ENTITY toolsMenu.accesskey "T">
-<!ENTITY errorConsoleCmd.label "Consola de errores">
-<!ENTITY errorConsoleCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.commandkey "j">
-<!ENTITY webConsoleCmd.label "Consola web">
-<!ENTITY webConsoleCmd.accesskey "W">
 <!ENTITY webConsoleCmd.commandkey "k">
