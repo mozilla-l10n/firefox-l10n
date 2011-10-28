@@ -238,7 +238,7 @@
 <!ENTITY calendar.alarm.details.label "Detalles…">
 <!ENTITY calendar.alarm.snoozefor.label "Silenciar durante">
 <!ENTITY calendar.alarm.snoozeallfor.label "Silenciar todas las alarmas durante">
-<!ENTITY calendar.alarm.title.label "Alarma del calendario">
+<!ENTITY calendar.alarm.title.label "Aviso del calendario">
 <!ENTITY calendar.alarm.dismiss.label "Descartar">
 <!ENTITY calendar.alarm.dismissall.label "Descartar todo">
 <!ENTITY calendar.alarm.snooze.5minutes.label "5 minutos">
@@ -262,8 +262,8 @@
 <!ENTITY calendarproperties.refreshInterval.manual.label "Manualmente">
 <!ENTITY calendarproperties.name.label "Nombre:">
 <!ENTITY calendarproperties.readonly.label "Sólo lectura">
-<!ENTITY calendarproperties.firealarms.label "Mostrar alarmas">
-<!ENTITY calendarproperties.cache.label "Caché (EXPERIMENTAL)">
+<!ENTITY calendarproperties.firealarms.label "Mostrar avisos">
+<!ENTITY calendarproperties.cache2.label "Caché">
 <!ENTITY calendarproperties.enabled.label "Activar este calendario">
 <!ENTITY calendarproperties.forceDisabled.label "No se ha encontrado el proveedor de este calendario. Esto sucede a menudo si ha desactivado o desinstalado ciertos complementos.">
 <!ENTITY calendarproperties.unsubscribe.label "Cancelar suscripción">
