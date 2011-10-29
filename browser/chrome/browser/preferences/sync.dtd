@@ -13,9 +13,7 @@
 <!ENTITY manageAccount.label "Уреди ја сметката">
 <!ENTITY manageAccount.accesskey "а">
 <!ENTITY viewQuota.label "Види ограничување">
-<!ENTITY changePassword.label "Промени лозинка">
 <!ENTITY mySyncKey.label "Мојот клуч за Sync">
-<!ENTITY resetSync.label "Ресетирај го Sync">
 <!-- Sync Settings -->
 
 <!ENTITY syncComputerName.label "Име на компјутерот:">
@@ -39,7 +37,6 @@
 <!ENTITY prefs.ppLink.label "Политика за приватност">
 
 <!ENTITY addDevice.label              "Додај уред">
-<!ENTITY deactivateDevice.label       "Исклучи го овој уред">
 
 <!ENTITY changePassword2.label         "Промени лозинка…">
 <!ENTITY resetSync2.label              "Ресетирај го Sync…">
