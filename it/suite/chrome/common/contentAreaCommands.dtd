@@ -29,8 +29,8 @@
 <!ENTITY stopCmd.accesskey "I">
 <!ENTITY reloadFrameCmd.label "Ricarica riquadro">
 <!ENTITY reloadFrameCmd.accesskey "R">
-<!ENTITY viewPartialSourceForSelectionCmd.label "Mostra sorgente selezione">
-<!ENTITY viewPartialSourceForMathMLCmd.label "Mostra sorgente MathML">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Visualizza sorgente selezione">
+<!ENTITY viewPartialSourceForMathMLCmd.label "Visualizza sorgente MathML">
 <!ENTITY viewPartialSourceCmd.accesskey "n">
 <!ENTITY viewPageSourceCmd.label "Visualizza sorgente pagina">
 <!ENTITY viewPageSourceCmd.accesskey "z">
@@ -105,8 +105,8 @@
 <!ENTITY videoFullScreen.accesskey "A">
 <!ENTITY videoSaveImage.label "Salva fotogramma come…">
 <!ENTITY videoSaveImage.accesskey "S">
-<!ENTITY videoShowStats.label "Visualizza statistiche">
-<!ENTITY videoShowStats.accesskey "V">
+<!ENTITY videoShowStats.label "Mostra statistiche">
+<!ENTITY videoShowStats.accesskey "M">
 <!ENTITY videoHideStats.label "Nascondi statistiche">
 <!ENTITY videoHideStats.accesskey "N">
 <!ENTITY search.accesskey "w">
