@@ -312,7 +312,7 @@
 <!ENTITY openToolbarCmd.label "Открыть">
 <!ENTITY openToolbarCmd.tooltip "Открыть локальный файл">
 <!ENTITY saveToolbarCmd.tooltip "Сохранить файл локально">
-<!ENTITY publishToolbarCmd.tooltip "Загрузить файл на удалённый сервер">
+<!ENTITY publishToolbarCmd.tooltip "Выгрузить файл на удалённый сервер">
 <!ENTITY cutToolbarCmd.tooltip "Вырезать">
 <!ENTITY copyToolbarCmd.tooltip "Копировать">
 <!ENTITY pasteToolbarCmd.tooltip "Вставить">
