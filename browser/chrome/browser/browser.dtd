@@ -68,6 +68,7 @@
 <!ENTITY fullScreenAutohide.accesskey "N">
 <!ENTITY fullScreenExit.label "Ritorna a schermo normale">
 <!ENTITY fullScreenExit.accesskey "R">
+<!ENTITY domFullScreenWarning.label "Premere ESC per uscire dalla modalità a schermo intero">
 <!ENTITY closeWindow.label "Chiudi finestra">
 <!ENTITY closeWindow.accesskey "d">
 <!ENTITY bookmarksMenu.label "Segnalibri">
