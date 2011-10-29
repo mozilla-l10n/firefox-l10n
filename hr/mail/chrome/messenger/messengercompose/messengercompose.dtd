@@ -1,5 +1,5 @@
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
-<!ENTITY msgComposeWindow.title "Write: (no subject)">
+<!ENTITY msgComposeWindow.title "Nova poruka: (bez naslova)">
 
 <!-- File Menu -->
 <!ENTITY fileMenu.label "Datoteka"> 
@@ -31,8 +31,8 @@
 <!ENTITY saveAsCmd.accesskey "a">
 <!ENTITY saveAsFileCmd.label "Datoteku…">
 <!ENTITY saveAsFileCmd.accesskey "D">
-<!ENTITY saveAsDraftCmd.label "Nacrt">
-<!ENTITY saveAsDraftCmd.accesskey "N">
+<!ENTITY saveAsDraftCmd.label "Skicu">
+<!ENTITY saveAsDraftCmd.accesskey "k">
 <!ENTITY saveAsTemplateCmd.label "Predložak">
 <!ENTITY saveAsTemplateCmd.accesskey "P">
 <!ENTITY sendNowCmd.label "Pošalji sada">
@@ -67,8 +67,8 @@
 <!ENTITY pasteCmd.accesskey "Z">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY editRewrapCmd.label "Ponovo prelomi">
-<!ENTITY editRewrapCmd.key "R">
+<!ENTITY editRewrapCmd.label "Ponovno prelomi">
+<!ENTITY editRewrapCmd.key "r">
 <!ENTITY editRewrapCmd.accesskey "n">
 <!ENTITY deleteCmd.label "Obriši">
 <!ENTITY deleteCmd.accesskey "O">
@@ -78,7 +78,7 @@
 <!ENTITY findCmd.label "Pronađi i zamijeni…">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "j">
-<!ENTITY findAgainCmd.label "Pronađi slijedeće">
+<!ENTITY findAgainCmd.label "Pronađi sljedeće">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "r">
 <!ENTITY findAgainCmd.key2 "VK_F3">
@@ -88,20 +88,20 @@
 <!ENTITY findPrevCmd.accesskey "e"> 
 
 <!-- View Menu -->
-<!ENTITY viewMenu.label "Pogled"> 
-<!ENTITY viewMenu.accesskey "g">
+<!ENTITY viewMenu.label "Prikaz"> 
+<!ENTITY viewMenu.accesskey "z">
 <!ENTITY viewToolbarsMenuNew.label "Alatne trake"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "t"> 
-<!ENTITY showCompositionToolbarCmd.label "Upravljačka traka">
-<!ENTITY showCompositionToolbarCmd.accesskey "U">
-<!ENTITY showFormattingBarCmd.label "Traka formatiranja">
-<!ENTITY showFormattingBarCmd.accesskey "f">
+<!ENTITY showCompositionToolbarCmd.label "Traka sastavljanja">
+<!ENTITY showCompositionToolbarCmd.accesskey "s">
+<!ENTITY showFormattingBarCmd.label "Traka oblikovanja">
+<!ENTITY showFormattingBarCmd.accesskey "o">
 <!ENTITY showTaskbarCmd.label "Statusna traka">
 <!ENTITY showTaskbarCmd.accesskey "S">
 <!ENTITY customizeToolbar.label "Prilagodi…">
 <!ENTITY customizeToolbar.accesskey "l">
 
-<!ENTITY addressSidebar.label "Bočna traka kontakta"> 
+<!ENTITY addressSidebar.label "Bočna traka kontakata"> 
 <!ENTITY addressSidebar.accesskey "o"> 
 
 <!-- Format Menu -->
@@ -126,10 +126,10 @@
 
 <!ENTITY returnReceiptMenu.label "Potvrda čitanja">
 <!ENTITY returnReceiptMenu.accesskey "t">
-<!ENTITY dsnMenu.label "Potvrda primitka">
+<!ENTITY dsnMenu.label "Potvrda isporuke">
 <!ENTITY dsnMenu.accesskey "o">
-<!ENTITY outputFormatMenu.label "Formatiraj">
-<!ENTITY outputFormatMenu.accesskey "f">
+<!ENTITY outputFormatMenu.label "Oblikuj">
+<!ENTITY outputFormatMenu.accesskey "l">
 <!ENTITY autoFormatCmd.label "Automatski detektiraj">
 <!ENTITY autoFormatCmd.accesskey "a">
 <!ENTITY plainTextFormatCmd.label "Samo običan tekst">
@@ -153,7 +153,7 @@
 <!ENTITY highestPriorityCmd.accesskey "v">
 <!ENTITY fileCarbonCopyCmd.label "Pošalji kopiju">
 <!ENTITY fileCarbonCopyCmd.accesskey "a">
-<!ENTITY fileHereMenu.label "File Here">
+<!ENTITY fileHereMenu.label "Arhiviraj ovdje">
 
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Alati">
@@ -169,13 +169,13 @@
 <!ENTITY accountManagerCmdUnix.accesskey "s">
 <!ENTITY preferencesCmd.label "Mogućnosti…">
 <!ENTITY preferencesCmd.accesskey "M">
-<!ENTITY preferencesCmdUnix.label       "Mogućnosti">
-<!ENTITY preferencesCmdUnix.accesskey   "g"> 
+<!ENTITY preferencesCmdUnix.label       "Postavke">
+<!ENTITY preferencesCmdUnix.accesskey   "t"> 
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
-<!ENTITY minimizeWindow.label "Smanji">
-<!ENTITY bringAllToFront.label "Postavi sve naprijed">
+<!ENTITY minimizeWindow.label "Minimiziraj">
+<!ENTITY bringAllToFront.label "Postavi sve na vrh">
 <!ENTITY zoomWindow.label "Uvećanje"> 
 <!ENTITY windowMenu.label "Prozor">
 
@@ -190,7 +190,7 @@
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Pošalji poruku sada"> 
 <!ENTITY sendlaterButton.tooltip "Pošalji poruku kasnije"> 
-<!ENTITY quoteButton.tooltip "Citiraj prošlu poruku"> 
+<!ENTITY quoteButton.tooltip "Citiraj prethodnu poruku"> 
 <!ENTITY addressButton.tooltip "Odaberi primatelja iz adresara"> 
 <!ENTITY attachButton.tooltip "Uključi privitak"> 
 <!ENTITY spellingButton.tooltip "Provjeri pravopis odabranog teksta ili cijele poruke">
@@ -218,7 +218,7 @@
 <!ENTITY attachments.accesskey "c">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
-<!ENTITY SmileButton.tooltip "Umetni smiješka">
+<!ENTITY SmileButton.tooltip "Umetni smješka">
 <!ENTITY smiley1Cmd.label "Smiješak">
 <!ENTITY smiley2Cmd.label "Mrštenje">
 <!ENTITY smiley3Cmd.label "Namigivanje">
@@ -230,7 +230,7 @@
 <!ENTITY smiley9Cmd.label "Poljubac">
 <!ENTITY smiley10Cmd.label "Vikanje">
 <!ENTITY smiley11Cmd.label "Cool">
-<!ENTITY smiley12Cmd.label "Usta puna novca">
+<!ENTITY smiley12Cmd.label "Usta puna novaca">
 <!ENTITY smiley13Cmd.label "Cipela u ustima">
 <!ENTITY smiley14Cmd.label "Nevin">
 <!ENTITY smiley15Cmd.label "Plač">
@@ -269,7 +269,7 @@
 <!ENTITY attachPage.accesskey "w">
 
 <!-- Spell checker context menu items -->
-<!ENTITY spellAddDictionaries.label "Dodaj riječnike…">
+<!ENTITY spellAddDictionaries.label "Dodaj rječnike…">
 <!ENTITY spellAddDictionaries.accesskey "D">
 
 <!-- Title for the address picker panel -->
