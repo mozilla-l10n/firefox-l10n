@@ -68,6 +68,7 @@
 <!ENTITY fullScreenAutohide.accesskey "к">
 <!ENTITY fullScreenExit.label "Выйти из полноэкранного режима">
 <!ENTITY fullScreenExit.accesskey "ы">
+<!ENTITY domFullScreenWarning.label "Нажмите ESC чтобы выйти из полноэкранного режима">
 <!ENTITY closeWindow.label "Закрыть окно">
 <!ENTITY closeWindow.accesskey "а">
 <!ENTITY bookmarksMenu.label "Закладки">
