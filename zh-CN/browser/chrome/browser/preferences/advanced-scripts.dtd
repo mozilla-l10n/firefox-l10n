@@ -40,8 +40,8 @@
 
 <!ENTITY allowScripts.label             "允许脚本:">
 
-<!ENTITY moveResizeWindows.label        "移动或者缩放已存在窗口">
-<!ENTITY moveResizeWindows.accesskey    "M">
+<!ENTITY moveResizePopupWindows.label     "移动或改变弹出窗口大小">
+<!ENTITY moveResizePopupWindows.accesskey "M">
 <!ENTITY raiseLowerWindows.label        "前置或后置窗口">
 <!ENTITY raiseLowerWindows.accesskey    "R">
 <!ENTITY disableContextMenus.label      "禁用或替换上下文菜单">

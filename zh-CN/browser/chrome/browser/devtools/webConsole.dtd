@@ -1,4 +1,4 @@
-<!ENTITY networkPanel.requestURL                  "请求 URL">
+<!ENTITY networkPanel.requestURL                  "请求网址">
 <!ENTITY networkPanel.requestMethod               "请求方法">
 <!ENTITY networkPanel.statusCode                  "状态码">
 

@@ -19,18 +19,23 @@
 
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "查找更多或者手动查找缺失插件。">
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; 需要重启以启用插件。">
-  
-<!ENTITY missingPlugin.label                                 "点击此处下载插件。">
-<!ENTITY disabledPlugin.label                                "对此内容的插件已被禁用。请点击此处管理插件。">
+
+<!ENTITY missingPlugin                                       "需要一个插件来显示此内容。">
+<!ENTITY clickToPlayPlugin                                   "轻击此处即可激活插件。">
+<!ENTITY disabledPlugin                                      "此插件已禁用。">
 <!ENTITY blockedPlugin.label                                 "为保护您的信息安全，此插件已被阻止">
+
+<!ENTITY installPlugin                                       "安装插件…">
+<!ENTITY managePlugins                                       "管理插件…">
+
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "重新加载页面">
 <!ENTITY reloadPlugin.post                                   " 重试。">
-<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.please                                       "发送崩溃报告">
+<!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.checkbox                                     "…并发送崩溃报告">
 <!ENTITY report.submitting                                   "正在发送报告…">
 <!ENTITY report.submitted                                    "崩溃报告已发送。">
 <!ENTITY report.disabled                                     "禁用崩溃报告。">

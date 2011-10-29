@@ -1,4 +1,4 @@
-<!ENTITY safeb.palm.warning.title "嫌疑欺诈网站">
+<!ENTITY safeb.palm.warning.title "可疑的假冒网站">
 
 <!ENTITY safeb.palm.message.p1 "此页面已经被报告为蓄意伪造为诱骗用户透露个人或金融信息的页面。输入任何个人信息可能会导致 ID 偷窃和其它欺诈行为">
 <!ENTITY safeb.palm.message.p1.linkText "阅读更多 »">
@@ -13,7 +13,7 @@
 <!ENTITY safeb.palm.decline.label "忽略此警告">
 <!ENTITY safeb.palm.decline.statustext "关闭警告" >
 <!ENTITY safeb.palm.notforgery.label2 "这不是欺诈网站…">
-<!ENTITY safeb.palm.reportPage.label "为什么拦截本网页？">
+<!ENTITY safeb.palm.reportPage.label "为什么拦截此页面？">
 
 <!ENTITY safeb.blocked.malwarePage.title "已报告的攻击页面！">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->

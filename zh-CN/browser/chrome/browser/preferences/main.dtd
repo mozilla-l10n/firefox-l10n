@@ -5,13 +5,16 @@
 <!ENTITY startupHomePage.label     "显示我的主页">
 <!ENTITY startupBlankPage.label    "显示空白页">
 <!ENTITY startupLastSession.label  "显示上次打开的窗口和标签页">
+<!ENTITY restoreOnDemand.label     "选择之前不要加载">
+<!ENTITY restoreOnDemand.accesskey "l">
+
 <!ENTITY homepage.label            "主页:">
 <!ENTITY homepage.accesskey        "P">
 <!ENTITY useCurrentPage.label      "使用当前页">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "使用当前页面">
-<!ENTITY useBookmark.label         "使用书签">
-<!ENTITY useBookmark.accesskey     "B">
+<!ENTITY chooseBookmark.label      "使用书签…">
+<!ENTITY chooseBookmark.accesskey  "B">
 <!ENTITY restoreDefault.label      "恢复默认设置">
 <!ENTITY restoreDefault.accesskey  "R">
 

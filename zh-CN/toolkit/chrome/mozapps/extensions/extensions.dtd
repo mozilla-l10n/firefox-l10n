@@ -23,14 +23,13 @@
 <!ENTITY warning.updatesecurity.enable.label       "启用">
 <!ENTITY warning.updatesecurity.enable.tooltip     "启用附加组件安全更新检查">
 
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "检查看看您的插件是否都是最新的">
+<!ENTITY info.plugincheck.tooltip               "检查看看您的插件是否都是最新的">
+
 <!-- categories / views -->
 <!ENTITY view.search.label                    "搜索">
 <!ENTITY view.discover.label                  "获取附加组件">
-<!ENTITY view.locales.label                   "语言">
-<!ENTITY view.searchengines.label             "搜索引擎">
-<!ENTITY view.features.label                  "扩展">
-<!ENTITY view.appearance2.label               "外观">
-<!ENTITY view.plugins.label                   "插件">
 <!ENTITY view.recentUpdates.label             "最近更新">
 <!ENTITY view.availableUpdates.label          "可用更新">
 
@@ -197,3 +196,5 @@
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
 <!ENTITY eula.accept                          "接受并安装…">
+
+<!ENTITY settings.path.button.label           "浏览…">

@@ -6,12 +6,9 @@
 <!ENTITY organize.accesskey    "O">
 <!ENTITY organize.tooltip      "管理你的书签">
 
-<!ENTITY file.accesskey                 "F">
 <!ENTITY file.close.label               "关闭">
 <!ENTITY file.close.accesskey           "C">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY edit.label                     "编辑">
-<!ENTITY edit.accesskey                 "E">
 <!ENTITY views.label                    "视图">
 <!ENTITY views.accesskey                "V">
 <!ENTITY views.tooltip                  "更换您的视图">
@@ -31,10 +28,12 @@
 <!ENTITY cmd.findCurrent.label          "在当前集合中查找…">
 <!ENTITY cmd.findCurrent.accesskey      "i">
 
-<!ENTITY cmd.exportHTML.label           "导出 HTML…">
-<!ENTITY cmd.exportHTML.accesskey       "E">
-<!ENTITY cmd.importHTML.label           "导入 HTML…">
-<!ENTITY cmd.importHTML.accesskey       "I">
+<!ENTITY importBookmarksFromHTML.label     "从 HTML 导入书签…">
+<!ENTITY importBookmarksFromHTML.accesskey "I">
+<!ENTITY exportBookmarksToHTML.label       "导出书签到 HTML…">
+<!ENTITY exportBookmarksToHTML.accesskey   "E">
+<!ENTITY importOtherBrowser.label          "从另一个浏览器导入数据…">
+<!ENTITY importOtherBrowser.accesskey      "A">
 
 <!ENTITY cmd.backup.label               "备份…">
 <!ENTITY cmd.backup.accesskey           "B">
@@ -76,8 +75,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label      "重新载入实时书签">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "R">
-<!ENTITY cmd.reloadMicrosummary.label      "重新载入实时标题">
-<!ENTITY cmd.reloadMicrosummary.accesskey  "R">
 
 <!ENTITY cmd.moveBookmarks.label                  "移动…">
 <!ENTITY cmd.moveBookmarks.accesskey              "M">
@@ -113,17 +110,14 @@
 <!ENTITY maintenance.accesskey  "I">
 <!ENTITY maintenance.tooltip    "导入及备份您的书签">
 
-<!ENTITY backCmd.label       "后退">
 <!ENTITY backButton.tooltip  "返回上一步">
 
-<!ENTITY forwardCmd.label       "前进">
 <!ENTITY forwardButton.tooltip  "转到下一页">
 
 <!ENTITY detailsPane.more.label "复杂">
 <!ENTITY detailsPane.more.accesskey "e">
 <!ENTITY detailsPane.less.label "精简">
 <!ENTITY detailsPane.less.accesskey "e">
-<!ENTITY detailsPane.noPreviewAvailable.label "预览">
 <!ENTITY detailsPane.selectAnItemText.description "选择一个条目来查看或编辑其属性">
 
 <!ENTITY find.label               "搜索：">

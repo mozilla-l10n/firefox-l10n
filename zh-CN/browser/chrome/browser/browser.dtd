@@ -24,7 +24,7 @@ used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-<!ENTITY  pinAppTab.label                    "固定为应用程序标签页">
+<!ENTITY  pinAppTab.label                    "固定为应用标签页">
 <!ENTITY  pinAppTab.accesskey                "P">
 <!ENTITY  unpinAppTab.label                  "取消固定标签页">
 <!ENTITY  unpinAppTab.accesskey              "b">
@@ -57,8 +57,6 @@ can reach it easily. -->
 <!ENTITY printCmd.label "打印…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "导入…">
-<!ENTITY import.accesskey "I">
 
 <!ENTITY goOfflineCmd.label "脱机工作">
 <!ENTITY goOfflineCmd.accesskey "w">
@@ -92,6 +90,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "退出全屏模式">
 <!ENTITY fullScreenExit.accesskey "F">
+<!ENTITY domFullScreenWarning.label "请按 ESC 键离开全频模式">
 
 <!ENTITY closeWindow.label "关闭窗口">
 <!ENTITY closeWindow.accesskey "d">
@@ -104,7 +103,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenuitem.label "订阅此页…">
 <!ENTITY addCurPagesCmd.label "将所有标签页加入书签…">
 <!ENTITY showAllBookmarks2.label "显示所有书签">
-<!ENTITY bookmarkAllCmd.label "将全部标签页加为书签…">
+<!ENTITY unsortedBookmarksCmd.label "未分类书签">
 <!ENTITY bookmarksToolbarChevron.tooltip "显示更多书签">
 
 <!ENTITY backCmd.label                "后退">
@@ -113,6 +112,8 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "前进">
 <!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "转到下一页">
+<!ENTITY backForwardButtonMenu.tooltip "右击或下拉显示历史">
+<!ENTITY backForwardButtonMenuMac.tooltip "下拉显示历史">
 <!ENTITY reloadCmd.label              "重新载入">
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY reloadButton.tooltip         "重新载入当前页面">
@@ -179,6 +180,9 @@ can reach it easily. -->
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
 
+<!ENTITY webDeveloperMenu.label       "Web 开发者">
+<!ENTITY webDeveloperMenu.accesskey   "W">
+
 <!ENTITY errorConsoleCmd.label        "错误控制台">
 <!ENTITY errorConsoleCmd.accesskey    "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
@@ -187,26 +191,34 @@ can reach it easily. -->
 <!ENTITY webConsoleCmd.accesskey      "W">
 <!ENTITY webConsoleCmd.commandkey     "k">
 
-<!ENTITY inspectMenu.label            "查看">
+<!ENTITY inspectMenu.label            "检查">
 <!ENTITY inspectMenu.accesskey        "T">
 <!ENTITY inspectMenu.commandkey       "I">
 
+<!ENTITY inspectContextMenu.label     "查看元素">
+<!ENTITY inspectContextMenu.accesskey "Q">
+
+<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
+  -  in the Tools menu. See bug 653093.
+  -  The Scratchpad is intended to provide a simple text editor for creating
+  -  and evaluating bits of JavaScript code for the purposes of function
+  -  prototyping, experimentation and convenient scripting.
+  -
+  -  It's quite possible that you won't have a good analogue for the word
+  -  "Scratchpad" in your locale. You should feel free to find a close
+  -  approximation to it or choose a word (or words) that means
+  -  "simple discardable text editor". -->
+<!ENTITY scratchpad.label             "暂存器">
+<!ENTITY scratchpad.accesskey         "s">
+<!ENTITY scratchpad.keycode           "VK_F4">
+<!ENTITY scratchpad.keytext           "F4">
+
 <!ENTITY inspectPanelTitle.label      "HTML">
-<!ENTITY inspectButton.label          "查看">
+<!ENTITY inspectButton.label          "检查">
 <!ENTITY inspectButton.accesskey      "I">
-<!ENTITY inspectNextButton.label      "下一个">
-<!ENTITY inspectNextButton.accesskey  "N">
-<!ENTITY inspectPreviousButton.label  "上一个">
-<!ENTITY inspectPreviousButton.accesskey "P">
-<!ENTITY inspectStyleButton.label     "样式">
-<!ENTITY inspectStyleButton.accesskey "S">
-<!ENTITY inspectStylePanelTitle.label  "样式">
-<!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
-  -  appears on the Inspector's toolbar. It is used to open and close the Object
-  -  panel. There is also a label in inspector.properties for the panel
-  -  titlebar: object.objectPanelTitle. -->
-<!ENTITY inspectObjectButton.label       "对象">
-<!ENTITY inspectObjectButton.accesskey   "O">
+
+<!ENTITY getMoreDevtoolsCmd.label        "获取更多工具">
+<!ENTITY getMoreDevtoolsCmd.accesskey    "M">
 
 <!ENTITY fileMenu.label         "文件"> 
 <!ENTITY fileMenu.accesskey       "F">
@@ -273,7 +285,7 @@ can reach it easily. -->
 <!ENTITY historyRestoreLastSession.label "恢复上一次会话">
 
 <!ENTITY historyHomeCmd.label "主页">
-<!ENTITY showAllHistoryCmd2.label "显示全部历史">
+<!ENTITY showAllHistoryCmd2.label "显示所有历史">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuEdit.label "编辑">
@@ -290,7 +302,7 @@ can reach it easily. -->
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "转到一个网站">
 <!ENTITY urlbar.accesskey             "d">
-<!ENTITY urlbar.switchToTab.label     "切换到标签:">
+<!ENTITY urlbar.switchToTab.label     "切换到标签页：">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -302,6 +314,7 @@ can reach it easily. -->
   Mac:  Cmd+K (cross platform binding)
         Cmd+Opt+F (platform convention)
   Win:  Ctrl+K (cross platform binding)
+        Ctrl+E (IE compat)
 
   We support Ctrl+K on all platforms now and advertise it in the menu since it is
   our standard - it is a "safe" choice since it is near no harmful keys like "W" as
@@ -312,6 +325,7 @@ can reach it easily. -->
 
  -->
 <!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
 <!ENTITY tabView.commandkey           "e">
@@ -419,7 +433,12 @@ can reach it easily. -->
 <!ENTITY mediaHideControls.accesskey "C">
 <!ENTITY videoFullScreen.label       "全屏">
 <!ENTITY videoFullScreen.accesskey   "F">
-
+<!ENTITY videoSaveImage.label        "快照另存为…">
+<!ENTITY videoSaveImage.accesskey    "S">
+<!ENTITY videoShowStats.label        "显示统计信息">
+<!ENTITY videoShowStats.accesskey    "t">
+<!ENTITY videoHideStats.label        "隐藏统计信息">
+<!ENTITY videoHideStats.accesskey    "t">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
