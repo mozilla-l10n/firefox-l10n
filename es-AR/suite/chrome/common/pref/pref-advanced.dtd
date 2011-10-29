@@ -9,3 +9,8 @@
 <!ENTITY prefCheckDefault.caption   "Integración con el sistema">
 <!ENTITY prefCheckDefaultClient.label "Verificar las opciones predeterminadas de la aplicación al iniciar">
 <!ENTITY prefCheckDefaultClient.accesskey "c">
+
+<!ENTITY crashReports.caption       "Informe de fallos">
+<!ENTITY submitCrashes.label        "Enviar informe de fallos">
+<!ENTITY submitCrashes.accesskey    "s">
+
