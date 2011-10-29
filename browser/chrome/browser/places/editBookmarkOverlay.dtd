@@ -6,7 +6,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "F">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "站点地址:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "S">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "实时标题">
 <!ENTITY editBookmarkOverlay.folder.label                    "文件夹:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "显示所有书签文件夹">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "隐藏">

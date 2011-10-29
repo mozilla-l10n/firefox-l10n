@@ -14,8 +14,10 @@
 <!ENTITY aboutSupport.appBasicsVersion "版本">
 <!ENTITY aboutSupport.appBasicsProfileDir "配置文件夹">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "已启用的插件">
-<!ENTITY aboutSupport.appBasicsBuildConfig "构建选项">
+<!ENTITY aboutSupport.appBasicsBuildConfig "构建配置">
 <!ENTITY aboutSupport.appBasicsUserAgent "用户代理">
+<!ENTITY aboutSupport.appBasicsCrashIDs "崩溃报告">
+<!ENTITY aboutSupport.appBasicsMemoryUse "内存使用">
 
 <!ENTITY aboutSupport.show.label "打开所在文件夹">
 

@@ -40,13 +40,14 @@
 <!ENTITY netInterrupt.title "连接被中断">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!ENTITY notCached.title "文档已过期">
+<!ENTITY notCached.longDesc "<p>您请求的文档已无法在 &brandShortName; 的缓存中找到。</p><ul><li>作为一个安全上的预防措施，&brandShortName; 不会自动重新获取敏感信息文档。</li><li>请点击重试并从网站来重新获取该文档。</li></ul>">
+
 <!ENTITY netOffline.title "脱机模式">
-<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
-     indicate that "Work Offline" is a menu item without being too specific,
-     since it could be in either the normal menu (Mac/Linux) or the Firefox button
-     menu (Windows).
--->
-<!ENTITY netOffline.overrideLongDesc "<ul><li>请将菜单中的 &quot;脱机工作&quot; 取消选中，然后再试。</li></ul>">
+<!ENTITY netOffline.longDesc2 "<ul>
+  <li>按“重试”切换到在线模式并重新加载此页面。</li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.title "内容编码错误">
 <!ENTITY contentEncodingError.longDesc "<ul><li>请联系网站的所有者以告知此问题。</li></ul>">
@@ -113,12 +114,16 @@
 <!ENTITY malwareBlocked.title "可疑的攻击站点！">
 <!ENTITY malwareBlocked.longDesc " <p>攻击站点尝试通过安装程序来盗取隐私数据、使用您的计算机攻击他人或者破坏您的系统。</p> <p>网站所有者若认为自己的站点被错误地报告为攻击站点，可以<a href='http://www.stopbadware.org/home/reviewinfo' >请求评审</a>。</p> ">
 
-<!ENTITY phishingBlocked.title "嫌疑欺诈网站！">
+<!ENTITY phishingBlocked.title "可疑的假冒网站！">
 <!ENTITY phishingBlocked.longDesc "<p>在本页面输入个人信息可能会导致帐号被窃或其他欺诈。</p>
 <p>这些欺诈网站均用于钓鱼攻击，在这些攻击中，伪装的网页或邮件地址可能用来假冒您信任的源地址。</p>">
 
 <!ENTITY cspFrameAncestorBlocked.title "由于内容安全策略而被阻止">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>页面的内容安全策略导致 &brandShortName; 阻止以该方式载入此页。</p>">
+
+<!ENTITY corruptedContentError.title "内容损坏错误">
+<!ENTITY corruptedContentError.longDesc "<p>您要查看的该页面无法显示，因为检测到数据传输错误。</p><ul><li>请联系网站所有者通知他们这个问题。</li></ul>">
+
 
 <!ENTITY securityOverride.linkText "或者，您可以添加一个例外…">
 <!ENTITY securityOverride.getMeOutOfHereButton "离开这里！">
@@ -133,3 +138,6 @@ functionality specific to firefox. -->
 
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+
+<!ENTITY remoteXUL.title "远程 XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>请联系网站拥有者告知这个问题。</li></ul></p>">

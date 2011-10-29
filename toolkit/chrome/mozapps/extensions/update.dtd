@@ -20,7 +20,7 @@
 <!ENTITY  found.enableXPInstall.accesskey "A">
 
 <!ENTITY  installing.wizard.title         "正在安装兼容附加组件">
-<!ENTITY  installing.top.label            "下载并安装附加组件的更新…">
+<!ENTITY  installing.top.label            "正在下载并安装您附加组件的更新…">
 
 <!ENTITY  noupdates.wizard.title          "未找到兼容附加组件">
 <!ENTITY  noupdates.intro.desc            "&brandShortName; 无法找到不兼容附加组件的更新。">

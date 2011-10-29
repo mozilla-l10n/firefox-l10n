@@ -99,7 +99,7 @@
 <!ENTITY  permInstall           "安装扩展或主题">
 <!ENTITY  permGeo               "共享方位信息">
 
-<!ENTITY  permIndexedDB              "保持脱机存储">
+<!ENTITY  permIndexedDB              "维护离线存储">
 <!ENTITY  permClearStorage           "清除存储">
 <!ENTITY  permClearStorage.accesskey "C">
 
