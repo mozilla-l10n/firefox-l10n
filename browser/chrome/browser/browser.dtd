@@ -121,6 +121,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "S">
 <!ENTITY fullScreenExit.label "Išjungti visaekranę veikseną">
 <!ENTITY fullScreenExit.accesskey "v">
+<!ENTITY domFullScreenWarning.label "Kai norėsite išjungti visaekranę veikseną, spauskite klavišą Gr">
 
 <!ENTITY closeWindow.label "Užverti langą">
 <!ENTITY closeWindow.accesskey "g">
