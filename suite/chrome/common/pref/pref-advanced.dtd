@@ -9,3 +9,7 @@
 <!ENTITY prefCheckDefault.caption "Intégration système">
 <!ENTITY prefCheckDefaultClient.label "Vérifier les paramètres par défaut de l'application au démarrage">
 <!ENTITY prefCheckDefaultClient.accesskey "V">
+
+<!ENTITY crashReports.caption "Rapporteur de plantage">
+<!ENTITY submitCrashes.label "Envoyer les rapports de plantage">
+<!ENTITY submitCrashes.accesskey "E">
