@@ -103,6 +103,12 @@
 <!ENTITY mediaHideControls.accesskey "a">
 <!ENTITY videoFullScreen.label "A tutto schermo">
 <!ENTITY videoFullScreen.accesskey "A">
+<!ENTITY videoSaveImage.label "Salva fotogramma come…">
+<!ENTITY videoSaveImage.accesskey "S">
+<!ENTITY videoShowStats.label "Visualizza statistiche">
+<!ENTITY videoShowStats.accesskey "V">
+<!ENTITY videoHideStats.label "Nascondi statistiche">
+<!ENTITY videoHideStats.accesskey "N">
 <!ENTITY search.accesskey "w">
 <!ENTITY bidiSwitchPageDirectionItem.label "Cambia direzione pagina">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey "d">
