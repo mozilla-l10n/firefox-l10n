@@ -35,3 +35,6 @@
 <!ENTITY manageAddonsDescUnix2.label "Менување на преференции за Вашите додатоци">
 <!ENTITY manageAddons.label "Уреди ги додатоците…">
 <!ENTITY manageAddons.accesskey "У">
+
+<!ENTITY restoreOnDemand.label     "Не ги вчитувај јазичињата пред да бидат избрани">
+<!ENTITY restoreOnDemand.accesskey "ј">

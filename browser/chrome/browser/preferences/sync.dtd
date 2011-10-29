@@ -21,7 +21,7 @@
 <!ENTITY syncComputerName.label "Име на компјутерот:">
 <!ENTITY syncComputerName.accesskey "к">
 
-<!ENTITY syncMy.label "Синхорнизирај ги моите">
+<!ENTITY syncMy.label "Синхронизирај ги моите">
 <!ENTITY engine.bookmarks.label "Обележувачи">
 <!ENTITY engine.bookmarks.accesskey "б">
 <!ENTITY engine.tabs.label "Јазичиња">
@@ -40,3 +40,7 @@
 
 <!ENTITY addDevice.label              "Додај уред">
 <!ENTITY deactivateDevice.label       "Исклучи го овој уред">
+
+<!ENTITY changePassword2.label         "Промени лозинка…">
+<!ENTITY resetSync2.label              "Ресетирај го Sync…">
+<!ENTITY unlinkDevice.label           "Исклучи го овој уредо">
