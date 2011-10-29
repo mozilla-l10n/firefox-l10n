@@ -184,7 +184,7 @@
 <!ENTITY calendar.context.priority.accesskey "P">
 <!ENTITY percnt "&#037;">
 <!ENTITY calendar.context.markcompleted.label "Completata">
-<!ENTITY calendar.context.markcompleted.accesskey "S">
+<!ENTITY calendar.context.markcompleted.accesskey "o">
 <!ENTITY progress.level.0 "0&percnt; completata">
 <!ENTITY progress.level.0.accesskey "0">
 <!ENTITY progress.level.25 "25&percnt; completata">
