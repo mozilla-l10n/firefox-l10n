@@ -169,7 +169,7 @@
 <!ENTITY accountManagerCmdUnix.accesskey "s">
 <!ENTITY preferencesCmd.label "Mogućnosti…">
 <!ENTITY preferencesCmd.accesskey "M">
-<!ENTITY preferencesCmdUnix.label       "Postavke">
+<!ENTITY preferencesCmdUnix.label       "Mogućnosti">
 <!ENTITY preferencesCmdUnix.accesskey   "t"> 
 
 <!--  Mac OS X Window Menu -->
