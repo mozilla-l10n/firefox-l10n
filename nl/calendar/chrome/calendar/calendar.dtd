@@ -287,7 +287,7 @@
 
 <!ENTITY calendar.alarm.snoozefor.label             "Sluimeren gedurende" >
 <!ENTITY calendar.alarm.snoozeallfor.label          "Alle sluimeren gedurende" >
-<!ENTITY calendar.alarm.title.label                 "Agenda-alarm" >
+<!ENTITY calendar.alarm.title.label                 "Agendaherinneringen" >
 <!ENTITY calendar.alarm.dismiss.label               "Verwijderen" >
 <!ENTITY calendar.alarm.dismissall.label            "Alle verwijderen" >
 
@@ -321,8 +321,8 @@
 <!ENTITY calendarproperties.refreshInterval.manual.label   "Handmatig">
 <!ENTITY calendarproperties.name.label                     "Naam:">
 <!ENTITY calendarproperties.readonly.label                 "Alleen-lezen">
-<!ENTITY calendarproperties.firealarms.label               "Alarmen tonen">
-<!ENTITY calendarproperties.cache.label                    "Buffer">
+<!ENTITY calendarproperties.firealarms.label               "Herinneringen tonen">
+<!ENTITY calendarproperties.cache2.label                   "Buffer">
 <!ENTITY calendarproperties.enabled.label                  "Deze agenda inschakelen">
 <!ENTITY calendarproperties.forceDisabled.label            "De provider voor deze agenda kon niet worden gevonden. Dit gebeurt vaak als u bepaalde add-ons hebt uitgeschakeld of gede-installeerd.">
 <!ENTITY calendarproperties.unsubscribe.label              "Afmelden">
