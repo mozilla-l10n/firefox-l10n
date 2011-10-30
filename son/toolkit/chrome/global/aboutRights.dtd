@@ -38,7 +38,7 @@
 <!-- point 4 text for unbranded builds -->
 
 <!ENTITY rights.intro-point4a-unbranded "Nda tataaru goyyaŋ goo jinaa woo ra, kanandi-se goy kalimawey kul ga hima ka dobandi war">
-<!ENTITY rights.intro-point4b-unbranded "Tataaru nungu goyey">
+<!ENTITY rights.intro-point4b-unbranded "Interneti nungu goyey">
 <!ENTITY rights.intro-point4c-unbranded " dunboo.">
 
 <!ENTITY rights2.webservices-header "&brandFullName; Interneti alhabar goyey">
@@ -48,7 +48,7 @@
      updated.  -->
 <!-- intro paragraph for branded builds -->
 
-<!ENTITY rights2.webservices-a "&brandFullName; ga goy nda Interneti alhabar goyey (&quot;Services&quot;) ka too alhaaley wey jerey ma bara war se nda &brandShortName; cere-hinka dumoo woo se, kalimawey kaŋ šilbayandi ne ganda bande. Nda war ši baa ka goy nda goyey wey affoo wala affooyaŋ wala war ši yadda ne ganda kalimawey ga, war ga hin ka alhaaloo wala goy(ey) kaa. Yaamar, sanda takaa kaŋ nda alhaali wala goy tana ga hun, ga hin ka duwandi ">
+<!ENTITY rights2.webservices-a "&brandFullName; ga goy nda Interneti alhabar goyey (&quot;Services&quot;) ka too alhaaley wey jerey ma bara war še nda &brandShortName; cere-hinka dumoo woo še, kalimawey kaŋ šilbayandi ne ganda bande. Nda war ši baa ka goy nda goyey wey affoo wala affooyaŋ wala war ši yadda ne ganda kalimawey ga, war ga hin ka alhaaloo wala goy(ey) kaa. Yaamar, sanda takaa kaŋ nda alhaali wala goy tana ga hun, ga hin ka duwandi ">
 <!ENTITY rights2.webservices-b "ne">
 <!ENTITY rights2.webservices-c ".">
 <!-- safe browsing points for branded builds -->
@@ -70,7 +70,7 @@
 <!ENTITY rights.locationawarebrowsing-term4 "Gorodoo laasaabu naarumi kayandi sohõ">
 <!-- intro paragraph for unbranded builds -->
 
-<!ENTITY rights.webservices-unbranded "War Interneti nungu goyey moo-daaruyan goo nda yaamaryan ka war cebe taka kaŋ ka goyey kayanda, wala nda war ga baa, i ga damandi ne.">
+<!ENTITY rights.webservices-unbranded "War Interneti nungu goyey moo-daaruyan goo nda yaamaryan ka war cebe taka kaŋ ka goyey kayandi, wala nda war ga baa, i ga damandi ne.">
 <!-- point 1 text for unbranded builds -->
 
 <!ENTITY rights.webservices-term1-unbranded "Kanandi-se goy kalimawey kul ga hima ka hantumandi jinaa woo se.">
@@ -79,7 +79,7 @@
 <!ENTITY rights2.webservices-term1 "&vendorShortName; nda nga kanbuzaakey, duɲekey nda margakašiney ga durkutu ka goy alhakiikante nda taagante tee.  Amma ir ši hin ka tabatandi kaŋ alhabaroo ga timme wala firka kul ši a ra.  Sanda, nda Naarumi saajante goy ši hin ka nungu laaley maate wal'a ma dere ka nungu saajantey šilbay nda laalari, nda gorodoo laasaabu goy nungey kul kaŋ ir goy-nookey n'i sanba manti kala himandiyaŋ hine; adiši za iri hal'ir goy-nookey ši hin ka gorodogey alhakiikaroo tabatandi.">
 <!ENTITY rights.webservices-term2 "&vendorShortName; ga hin ka kay wal'a ma goyey barmay nga boŋ sakoo ra.">
 <!ENTITY rights2.webservices-term3 "War ga hin ka goyey tee nda &brandShortName; dumi hangantaa, nda &vendorShortName; ga war noo fondo kul ka woo tee.  &vendorShortName; nda nga duɲekey ga alhakey cindey kul gaabu goyey boŋ.  Kalimawey anniyaa manti ka fondawey kankamandi baytal goyjinawey goyandoo se, taka kaŋ nda i goo &brandShortName; nda aššil ašariya dumey kaŋ ga tenji nda &brandShortName;.">
-<!ENTITY rights.webservices-term4 "Goyey kaŋ &quot;as-is.&quot;  &vendorShortName;, nda žemnakey nda duɲekey k'i noo, ši nda allamaana kul i ga, ka tee haryan wala miileyan ra. Woo bandaa ga, allamaanawey ka hin ka maamalandi mise fooyaŋ se.  War boŋ huzumoo ti goyey wey suubaroo, ka war boŋ goyey tee, sanda goyey booriroo nda ngi alfaydaa. Alhukum fooyaŋ ši yadda allamaana tanawey wey kaayanoo wala ngi žaburoo, adiši a ga hin ka tee da kaŋ yaamaroo ši war guna.">
-<!ENTITY rights.webservices-term5 "Nda manti alhukumzuray ra, &vendorShortName;, nga kanbuzaakey, duŋekey nda žemnakey ši allamaana kul zaa hasaraw kul se kaŋ ga hin ka fatta &brandShortName; nda nga goyey goyandoo ra: ka tee mise kanbari, cerecere, ši-miilante, saŋante, marayante, hasaraw wala tana.  Kalimawey wey boŋ ga allamaana margantey kul ši kaa ka bisa $500 (doolar zangu guu). Alhukum fooyaŋ ši yadda hasaraw tanawey wey kaayanoo wala ngi žaburoo, adiši a ga hin ka tee da kaŋ yaamaroo ši war guna.">
+<!ENTITY rights.webservices-term4 "Goyey kaŋ &quot;as-is.&quot;  &vendorShortName;, nda žemnakey nda duɲekey k'i noo, ši nda allamaana kul i ga, ka tee haryan wala miileyan ra.  Woo bandaa ga, allamaanawey ka hin ka maamalandi mise fooyaŋ se.  War boŋ huzumoo ti goyey wey suubaroo, ka war boŋ goyey tee, sanda goyey booriroo nda ngi alfaydaa. Alhukum fooyaŋ ši yadda allamaana tanawey wey kaayanoo wala ngi žaburoo, adiši a ga hin ka tee da kaŋ yaamaroo ši war guna.">
+<!ENTITY rights.webservices-term5 "Nda manti alhukumzuray ra, &vendorShortName;, nga kanbuzaakey, duŋekey nda žemnakey ši allamaana kul zaa hasaraw kul se kaŋ ga hin ka fatta &brandShortName; nda nga goyey goyandoo ra: ka tee mise kanbari, cerecere, ši-miilante, saŋante, marayante, hasaraw wala tana.  Kalimawey wey boŋ ga allamaana margantey kul ši kaa ka bisa $500 (doolar zangu guu). Alhukum fooyaŋ ši yadda hasaraw tanawey wey kaayanoo wala ngey žaburoo, adiši a ga hin ka tee da kaŋ yaamaroo ši war guna.">
 <!ENTITY rights.webservices-term6 "Waati foo fooyan kul, &vendorShortName; ga hin ka kalimawey wey taagandi, nd'a ga hima. Kalimawey wey ši hima ka barmayandi wala i ma naŋandi bila nda &vendorShortName; waafakay hantumantaa.">
-<!ENTITY rights.webservices-term7 "Kalimawey wey ga huru Kaliforni (Ameriki laame margantey) laamaa alhukumey cire, nd'a manti nga cerehõoyan alhukum zurandirey. Nda kalimawey wey jereyaŋ kul ši tee wala i ši alhukum zuray ra, cindey ga ngi gaaboo nda sahãa gaabu. Nda kalimawey wey dumi berantey nda ingiliši dumoo ga cerehõo, dumoo kaŋ hantumandi ingiliši šennoo no ma juwal.">
+<!ENTITY rights.webservices-term7 "Kalimawey wey ga huru Kaliforni (Ameriki laame margantey) laamaa alhukumey cire, nd'a manti nga cerehõoyan alhukum zurandirey. Nda kalimawey wey jereyaŋ kul ši tee wala i ši alhukum zuray ra, cindey ga ngey gaaboo nda sahãa gaabu. Nda kalimawey wey dumi berantey nda ingiliši dumoo ga cerehõo, dumoo kaŋ hantumandi ingiliši šennoo no ma juwal.">

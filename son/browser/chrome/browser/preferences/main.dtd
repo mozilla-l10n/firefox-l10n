@@ -13,8 +13,8 @@
 <!ENTITY useCurrentPage.label      "Sohõ moɲoo goyandi">
 <!ENTITY useCurrentPage.accesskey  "S">
 <!ENTITY useMultiple.label         "Sohõ moɲey goyandi">
-<!ENTITY useBookmark.label         "Doo-šilbay goyandi">
-<!ENTITY useBookmark.accesskey     "D">
+<!ENTITY chooseBookmark.label      "Doo-šilbay goyandi...">
+<!ENTITY chooseBookmark.accesskey  "D">
 <!ENTITY restoreDefault.label      "Bere tilasu alhaali ga">
 <!ENTITY restoreDefault.accesskey  "B">
 

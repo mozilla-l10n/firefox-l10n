@@ -2,7 +2,7 @@
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
 <!ENTITY aboutSupport.pageSubtitle "  Moɲoo woo goo nda goyandi alhabar kaŋ ga hin ka bara nda nafaw waati kaŋ war ga 
-ceeci ka fatta šenday ra. Nda war ga zaabiyaŋ ceeci war zaarikul hãayaney se &brandShortName; ga, ir <a id='supportLink'>faaba Interneti nungoo</a> guna.">
+ceeci ka fatta šenday ra. Nda war ga zaabiyaŋ ceeci war zaarikul hãayaney še &brandShortName; ga, ir <a id='supportLink'>faaba Interneti nungoo</a> guna.">
 
 <!ENTITY aboutSupport.extensionsTitle "Dobuyaney">
 <!ENTITY aboutSupport.extensionName "Maa">
@@ -18,6 +18,7 @@ ceeci ka fatta šenday ra. Nda war ga zaabiyaŋ ceeci war zaarikul hãayaney se 
 <!ENTITY aboutSupport.appBasicsBuildConfig "Cinari hanseyan">
 <!ENTITY aboutSupport.appBasicsUserAgent "Goyteeri">
 <!ENTITY aboutSupport.appBasicsCrashIDs "Kaŋyan bayrandiyaney">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Lakkal goy-alkadar">
 
 <!ENTITY aboutSupport.show.label "Feeriyan foolo kunahere">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific

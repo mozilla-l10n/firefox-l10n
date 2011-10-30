@@ -51,13 +51,13 @@
 <!ENTITY proxyResolveFailure.longDesc "<p>Ceecikaa hanse ka goy nda tokore feršikaw, tokoraa ši hin ka duwandi.</p><ul><li>War ceecikaw tokore hanseyaney ga boori? Hanseyaney koroši, de ma ceeci koyne.</li><li>War ordinateroo ga dobu sankaw goyante ga?</li><li>Šenday goo hala sohõ? War sankay juwalkaa wala Interneti nookaa cee faaba se.</li></ul>">
 
 <!ENTITY redirectLoop.title "Moɲoo mana bisandi taaga boryo">
-<!ENTITY redirectLoop.longDesc "<p>Ceecikaa na hayiizoo kaŋ war wiri k'a soolom naŋ. Nungoo goo ma war hãayanoo bisandi taaga nda taka ka.</p><ul><li>War n'ka aleewawey kaŋ ga waažibi nungoo se kayandi wala k'i gagayandi?</li><li><em>NOTE</em>: Nda feršikaa aleewawey taaroo ši šendaa benandi, a ga hin ka tee hanseyan šenday no kaŋ duu war feršikaa nda war ordinateroo.</li></ul>">
+<!ENTITY redirectLoop.longDesc "<p>Ceecikaa na hayiizoo kaŋ war wiri k'a soolom naŋ. Nungoo goo ma war hãayanoo bisandi taaga nda taka kaŋ ši timme abada.</p><ul><li>War n'ka aleewawey kaŋ ga waažibandi nungoo še kayandi wala k'i gagayandi?</li><li><em>NOTE</em>: Nda feršikaa aleewawey taaroo ši šendaa benandi, a ga hin ka tee hanseyan šenday no kaŋ duu war feršikaa nda war ordinateroo.</li></ul>">
 
-<!ENTITY unknownSocketType.title "Feršikaw zaabi leybante">
+<!ENTITY unknownSocketType.title "Feršikaw zaabi laybante">
 <!ENTITY unknownSocketType.longDesc "<p>Nungoo na sankaa hãayano zaabi nda taka kaŋ mana hongandi, nda ceecikaa ši hin ka goy jine.</p>">
 
 <!ENTITY nssFailure2.title "Ciyari saajante kay">
-<!ENTITY nssFailure2.longDesc "<p>Moɲoo kaŋ war ga wiri k'a guna ši hin ka cebandi zama bayhaya duwantey ši hin ka tabatandi.</p><ul><li>Taare war tataaru nungu koyey cee ka šendaa alhabar tee i se.</li></ul>">
+<!ENTITY nssFailure2.longDesc "<p>Moɲoo kaŋ war ga wiri k'a guna ši hin ka cebandi zama bayhaya duwantey ši hin ka tabatandi.</p><ul><li>Taare war Interneti nungu koyey cee ka šendaa alhabar tee i še.</li></ul>">
 
 <!ENTITY nssBadCert.title "Ciyari saajante kay">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
@@ -67,14 +67,14 @@
 
 <!ENTITY malwareBlocked.title "Zanba nungu šikkari!">
 <!ENTITY malwareBlocked.longDesc "<p>Zanba nungey ka porogaramyaŋ sinji kaŋ ga sutura alhabar zay, i ga war ordinateroo ka boro waaniyaŋ tooɲe, wal'i ma war dabariɲaŋoo hasara.</p> 
-<p>Tataaru nungu koyey ga tammahã kaŋ ngi nungoo bayrandi ka tee zanba nungoo dereyan ra <a href='http://www.stopbadware.org/home/reviewinfo' >koroši alhabar hãa</a>.</p>">
+<p>Interneti nungu koyey ga tammahã kaŋ ngey nungoo bayrandi ka tee zanba nungoo dereyan ra <a href='http://www.stopbadware.org/home/reviewinfo' >koroši alhabar hãa</a>.</p>">
 
-<!ENTITY phishingBlocked.title "Zanba tataaru šikkari!">
+<!ENTITY phishingBlocked.title "Zanba Interneti doo šikkari!">
 <!ENTITY phishingBlocked.longDesc '<p>War alhabar suturante damyan moɲoo woo ra ga hin ka too war boŋtammaasaa ma zaytarandi, wal&apos;a ma zanbantey faaba.</p> 
 <p>Zanba tataaru dumey wey ga bangay zanbarey ra kaŋ š&apos;i ga ne haamari ("phishing"), kaŋ ra tataaru moɲey nda batagawey ga war ašsil moo naanayantey ženti.</p>'>
 
 <!ENTITY cspFrameAncestorBlocked.title "Gagayandi gundekuna saajaw alhukum ra">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Tataaruhugu-ceecikaa na moɲoo woo ganji a ma zunbu takaa woo zama moɲoo goo nda gundekuna kaŋ saajaw alhukum foo ši yadda a ga.</p>">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Interneti ceecikaa na moɲoo woo ganji a ma zunbu takaa woo zama moɲoo goo nda gundekuna kaŋ saajaw alhukum foo ši yadda a ga.</p>">
 
 <!ENTITY corruptedContentError.title "Gundekuna laybante firka">
 <!ENTITY corruptedContentError.longDesc "<p>Moɲoo kaŋ war ga wiri k'a guna ši hin ka diyandi zama a mma goy nda kankamandiyan dabari laala, wala affoo kaŋ ši nda gaakašinay.</p><ul><li>Taare wa šendaa woo alhabar tee war nungoo koyey še.</li></ul>">

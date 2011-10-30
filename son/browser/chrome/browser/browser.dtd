@@ -193,6 +193,9 @@ can reach it easily. -->
 <!ENTITY inspectMenu.label            "Hawgay">
 <!ENTITY inspectMenu.accesskey        "g">
 <!ENTITY inspectMenu.commandkey       "I">
+
+<!ENTITY inspectContextMenu.label     "Haya-ize koroši">
+<!ENTITY inspectContextMenu.accesskey "Q">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -296,7 +299,7 @@ can reach it easily. -->
 <!ENTITY appMenuSafeMode.accesskey "T">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder           "Koy tataaru nungoo do">
+<!ENTITY urlbar.placeholder           "Koy Interneti nungu foo do">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Bere nor loku ga:">
 <!-- 
@@ -449,7 +452,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
-<!ENTITY fullZoomResetCmd.label         "Yeeti">
+<!ENTITY fullZoomResetCmd.label         "Yeeri">
 <!ENTITY fullZoomResetCmd.accesskey     "Y">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
@@ -493,7 +496,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Moo fasal faala">
 <!ENTITY pageStylePersistentOnly.accesskey "f">
 
-<!ENTITY pageReportIcon.tooltip            "Biiboŋ bata kayandiyaney barmay nungoo woo še">
+<!ENTITY pageReportIcon.tooltip            "Biiboŋ bata kayandiyaney barmay Interneti nungoo woo še">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -525,8 +528,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "Naŋ">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
-<!ENTITY identity.unverifiedsite2 "Tataaru nungooo woo ši boŋtammaasa alhabar noo.">
-<!ENTITY identity.connectedTo "War ciya ne doo">
+<!ENTITY identity.unverifiedsite2 "Interneti nungoo woo ši boŋtammaasa alhabar noo.">
+<!ENTITY identity.connectedTo "War ciya dogoo ne">
 <!-- Localization note (identity.runBy) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 

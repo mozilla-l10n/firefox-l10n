@@ -8,7 +8,7 @@
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
 
-<!ENTITY privatebrowsingpage.clearRecentHistoryBefore  "Nda war ga baa, wa sintin nda da ">
+<!ENTITY privatebrowsingpage.clearRecentHistoryBefore  "Nda war ga baa, wa šintin nda da ">
 <!ENTITY privatebrowsingpage.clearRecentHistoryInner   "Ga war taariki kokorantaa koonandi">
 <!ENTITY privatebrowsingpage.clearRecentHistoryAfter   ".">
 

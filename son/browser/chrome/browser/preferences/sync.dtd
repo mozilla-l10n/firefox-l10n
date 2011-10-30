@@ -13,9 +13,9 @@
 <!ENTITY manageAccount.label          "Kontu juwal">
 <!ENTITY manageAccount.accesskey      "K">
 <!ENTITY viewQuota.label              "Baa guna">
-<!ENTITY changePassword2.label         "Šennikufal barmay...">
-<!ENTITY mySyncKey.label              "Ay hangandiyan kufaloo">
-<!ENTITY resetSync2.label              "Sync yeeti...">
+<!ENTITY changePassword2.label        "Šennikufal barmay...">
+<!ENTITY myRecoveryKey.label          "Ay kurmayan kufaloo">
+<!ENTITY resetSync2.label             "Sync yeeti...">
 
 <!ENTITY addDevice.label              "Jinay foo tonton">
 

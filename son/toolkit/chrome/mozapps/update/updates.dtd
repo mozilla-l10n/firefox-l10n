@@ -22,17 +22,18 @@ goyjinay sinji ordinateroo woo ra.">
 <!ENTITY  manualUpdateGetMsg.label        "War ga hin ka duu &brandShortName; dumi kokorantaa waati kul ne:">
 
 <!ENTITY  incompatibleCheck.title         "Tontoni cerekanbeyan ceeci">
-<!ENTITY  incompatibleCheck.label         "Goo ma dumi taagayaŋ ceeci war tontoney se…">
+<!ENTITY  incompatibleCheck.label         "Goo ma dumi taagayaŋ ceeci war tontoney še…">
 
-<!ENTITY  clickHere.label                 "Alhabar bešere guna taagandiroo se">
+<!ENTITY  clickHere.label                 "Alhabar bešere guna taagandiroo še">
 
-<!ENTITY  evangelism.desc                 "I ga hansa war yaamar kaŋ war ma taagandiroo woo kanandi &brandShortName; nda cahãri.">
+<!ENTITY  evangelism.desc                 "I ga hansa war yaamar kaŋ war ma taagandiroo woo 
+kanandi &brandShortName; nda cahãri.">
 
 <!ENTITY  license.instructions            "Nda war yaddo yaddaroo woo kalima ga, wa 
 Ay yadda naagu ganda hala taagandiroo woo sinjiyanoo ma koy nda jine.">
 
 <!ENTITY  license.titleText               "Goyjinay duɲe kaddasu">
-<!ENTITY  license.introText               "Kalima nda sarti goyjinaa woo goyandiroo se.">
+<!ENTITY  license.introText               "Kalima nda sarti goyjinaa woo goyandiroo še.">
 <!ENTITY  license.instructionText         "Taare wa duɲe waafakaa woo caw. Wa maažeeri cendante ka dii waafakaa cindoo.">
 <!ENTITY  license.accept                  "Ay ga yadda duɲe waafakaa kalimawey ga">
 <!ENTITY  license.accept.accesskey        "c">
@@ -43,12 +44,12 @@ Ay yadda naagu ganda hala taagandiroo woo sinjiyanoo ma koy nda jine.">
 
 <!ENTITY  downloadPage.title              "Goo ma &brandShortName; zumandi">
 <!ENTITY  downloading.intro               "Taagandiroo goo ma zumandi…">
-<!ENTITY  connecting.label                "Goo ciya ma taagandiri feršikaa se…">
+<!ENTITY  connecting.label                "Goo ma ciya taagandiri feršikaa še…">
 <!ENTITY  verificationFailedText.label    "&brandShortName; mana hin ka 
 timmetaraa tabatandi, kaŋ jere-taagandiri faalandi, woo se a goo ma 
 taagandiri sanbaroo kul zumandi.">
 
-<!ENTITY  viewDetails.tooltip             "Šilbayhayey guna taagandiroo se">
+<!ENTITY  viewDetails.tooltip             "Šilbayhayey guna taagandiroo še">
 
 <!ENTITY  details.link                    "Šilbayhayey">
 
@@ -74,7 +75,8 @@ hasaraw-baa taagandiri foo ga. Taare hantum war sankaa koyoo se ka faaba ceeci."
 <!ENTITY  finishedPage.text               "Taagandiroo ga sinjandi hiino kaŋ &brandShortName; ga tun. War 
 ga hin ka &brandShortName; tunandi taaga sohõda, wala ka gaabu goyoo ga, k'a tunandi taaga nd'a too kayna.">
 
-<!ENTITY  finishedBackgroundPage.text     "Saajaw wala tabatiyan taagandiri foo zumandi &brandShortName; se nda a soolu sinjiyanoo se.">
+<!ENTITY  finishedBackgroundPage.text     "Saajaw wala tabatiyan taagandiri foo zumandi &brandShortName; še 
+nd'a soolu sinjiyanoo še.">
 <!ENTITY  finishedBackground.name         "Taagandiri:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Taagandiroo ga sinja hiino kaŋ &brandShortName; ga tun. War 

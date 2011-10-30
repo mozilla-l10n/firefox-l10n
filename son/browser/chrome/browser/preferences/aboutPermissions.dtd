@@ -9,13 +9,13 @@
 <!ENTITY header.site.start               "Duɲeyaney koyoo">
 <!ENTITY header.site.end                 "">
 
-<!ENTITY header.defaults                 "Tilasu duɲeyaney nungey kul se">
+<!ENTITY header.defaults                 "Tilasu duɲeyaney nungey kul še">
 
 <!ENTITY permissions.forgetSite          "Dirɲa nungoo woo">
 
 <!ENTITY permission.alwaysAsk            "Hãa waati kul">
 <!ENTITY permission.allow                "Noo fondo">
-<!ENTITY permission.allowForSession      "Noo fondo goywaati se">
+<!ENTITY permission.allowForSession      "Noo fondo goywaati še">
 <!ENTITY permission.block                "Gagay">
 
 <!ENTITY password.label                  "Šennikufaley jiši">

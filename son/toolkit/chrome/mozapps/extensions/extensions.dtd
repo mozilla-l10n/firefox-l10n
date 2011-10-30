@@ -92,12 +92,12 @@
 <!ENTITY cmd.showPreferencesUnix.tooltip      "Tontonoo woo ibaayey barmay">
 <!ENTITY cmd.contribute.label                 "Kanbuzaamay">
 <!ENTITY cmd.contribute.accesskey             "K">
-<!ENTITY cmd.contribute.tooltip               "Kanbuzaamay tontonoo woo cineyanoo se">
+<!ENTITY cmd.contribute.tooltip               "Kanbuzaamay tontonoo woo cineyanoo še">
 
 <!ENTITY cmd.showReleaseNotes.label           "Kaataray hantumey cebe">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Kaataray hantumey cebe taagandiroo woo se">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Kaataray hantumey cebe taagandiroo woo še">
 <!ENTITY cmd.hideReleaseNotes.label           "Kaataray hantumey tugu">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "Kaataray hantumey tugu taagandiroo woo se">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "Kaataray hantumey tugu taagandiroo woo še">
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -106,7 +106,7 @@
 <!ENTITY discover.description2                "Tontoney ti porogaramyaŋ kaŋ ga too war ma &brandShortName; hanse war boŋ se nda goyyan sahã wala fasal šifanteyaŋ. Wey šii: ceraw zuu-žeeri cahãnte, waati-alhaali bangandikaw wala furari cebe-diji ka &brandShortName; 
 tee war boŋ wane.">
 <!ENTITY discover.footer                      "Waati kaŋ ga ciya nda Interneti, zanfun-izoo woo goo nda 
-tontoni kul ihenney nda bayrantey war šiiyanoo se.">
+tontoni kul ihenney nda bayrantey war šiiyanoo še.">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Dumi">
@@ -119,7 +119,7 @@ tontoni kul ihenney nda bayrantey war šiiyanoo se.">
 
 <!ENTITY detail.updateType                    "Boŋtaagandirey">
 <!ENTITY detail.updateDefault.label           "Tilasu">
-<!ENTITY detail.updateDefault.tooltip         "Taagandirey sinji ngi boŋše de nda tilasu no">
+<!ENTITY detail.updateDefault.tooltip         "Taagandirey sinji ngey boŋše de nda tilasu no">
 <!ENTITY detail.updateAutomatic.label         "Ga goy">
 <!ENTITY detail.updateAutomatic.tooltip       "Boŋtaagandirey sinji">
 <!ENTITY detail.updateManual.label            "Šii goy ra">
@@ -130,7 +130,7 @@ tontoni kul ihenney nda bayrantey war šiiyanoo se.">
 
 <!ENTITY detail.checkForUpdates.label         "Taagandirey ceeci">
 <!ENTITY detail.checkForUpdates.accesskey     "c">
-<!ENTITY detail.checkForUpdates.tooltip       "Taagandirey ceeci tontonoo woo se">
+<!ENTITY detail.checkForUpdates.tooltip       "Taagandirey ceeci tontonoo woo še">
 <!ENTITY detail.showPreferencesWin.label      "Suubarey">
 <!ENTITY detail.showPreferencesWin.accesskey  "S">
 <!ENTITY detail.showPreferencesWin.tooltip    "Tontonoo woo suubarey barmay">
@@ -165,7 +165,7 @@ tontoni kul ihenney nda bayrantey war šiiyanoo se.">
 
 <!ENTITY addon.homepage                       "Šintinmoo">
 <!ENTITY addon.details.label                  "Ka tonton">
-<!ENTITY addon.details.tooltip                "Šilbayhayey cebe tontonoo woo se">
+<!ENTITY addon.details.tooltip                "Šilbayhayey cebe tontonoo woo še">
 <!ENTITY addon.unknownDate                    "Šibayante">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
@@ -184,7 +184,7 @@ tontoni kul ihenney nda bayrantey war šiiyanoo se.">
 <!ENTITY addon.install.label                  "Sinji">
 <!ENTITY addon.install.tooltip                "Tontonoo woo sinji">
 <!ENTITY addon.updateNow.label                "Taagandi sohõ">
-<!ENTITY addon.updateNow.tooltip              "Taagandiri foo sinji tontonoo woo se">
+<!ENTITY addon.updateNow.tooltip              "Taagandiri foo sinji tontonoo woo še">
 <!ENTITY addon.includeUpdate.label            "Dam taagandiroo ra">
 <!ENTITY addon.updateAvailable.label          "Taagandiri foo ga bara">
 <!ENTITY addon.checkingForUpdates.label       "Taagandirey ceeci…">

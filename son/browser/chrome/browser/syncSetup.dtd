@@ -19,8 +19,8 @@
 <!ENTITY signIn.account2.accesskey  "o">
 <!ENTITY signIn.password.label      "Šennikufal">
 <!ENTITY signIn.password.accesskey  "f">
-<!ENTITY signIn.syncKey.label       "Sync kufal">
-<!ENTITY signIn.syncKey.accesskey   "k">
+<!ENTITY signIn.recoveryKey.label       "Yeetiyan kufal">
+<!ENTITY signIn.recoveryKey.accesskey   "k">
 <!-- New Account Page 1: Basic Account Info -->
 
 <!ENTITY setup.newAccountDetailsPage.title.label "Kontu šilbayhayey">
@@ -41,12 +41,12 @@
 <!ENTITY setup.tosAgree2.accesskey  "">
 <!-- New Account Page 2: Sync Key -->
 
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; ga joote nda war suturaa">
-<!ENTITY setup.newSyncKeyPage.description.label "Ka war suturaa tabatandi, war bayhayey kul n'ka tugandi jina kaŋ i ga zijandi. Sync kufaloo kaŋ ga waažibi ka war bayhayey kufal-kaa mana zijandi.">
-<!ENTITY syncKeyEntry.label        "War Sync kufaloo">
-<!ENTITY syncKeyEntry.accesskey    "k">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; ga joote nda war suturaa">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Ka war suturaa tabatandi, war bayhayey kul n'ka tugandi jina kaŋ i ga zijandi. Yeetiyan kufaloo kaŋ ga waažibi ka war bayhayey kufal-kaa mana zijandi.">
+<!ENTITY recoveryKeyEntry.label        "War yeetiyan kufaloo">
+<!ENTITY recoveryKeyEntry.accesskey    "k">
 <!ENTITY syncGenerateNewKey.label  "Kufal taaga kaataray">
-<!ENTITY syncKeyBackup.description "War Sync kufaloo ga waažibandi ka duu &syncBrand.fullName.label; maršin waaniyaŋ ga. Taare banda-gaadu celle tee. Ir ši hin ka war gaa ka war Sync kufaloo willi.">
+<!ENTITY recoveryKeyBackup.description "War yeetiyan kufaloo ga waažibandi ka duu &syncBrand.fullName.label; maršin waaniyaŋ ga. Taare banda-gaadu celle tee. Ir ši hin ka war gaa ka war yeetiyan kufaloo willi.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Kar…">
 <!ENTITY button.syncKeyBackup.print.accesskey "r">
@@ -59,18 +59,18 @@
 <!ENTITY addDevice.title.label              "Jinay foo tonton">
 <!ENTITY addDevice.showMeHow.label          "Takaa cebe yane.">
 <!ENTITY addDevice.dontHaveDevice.label     "Goyjinaa ši ay kone sohõda">
-<!ENTITY addDevice.setup.description.label  'K&apos;a tunandi, koy &syncBrand.shortName.label; suubarey do war jinay faa ga nda wa "Jinay foo tonton" suuba.'>
+<!ENTITY addDevice.setup.description.label  "K'a tunandi, koy &syncBrand.shortName.label; suubarey do war jinay faa ga nda wa Jinay foo tonton suuba.">
 <!ENTITY addDevice.setup.enterCode.label    "Ašariyaa woo dam waati din:">
 <!ENTITY addDevice.dialog.description.label "Ka war jinay taagaa tunandi, koy &syncBrand.shortName.label; Suubarey do jinaa ga nda &#x0022;Connect.&#x0022; suuba">
 <!ENTITY addDevice.dialog.enterCode.label   "Ašariya kaŋ jinaa n'a noo dam:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Taare ceeci koyne.">
 <!ENTITY addDevice.dialog.successful.label  "Jinaa tontonandi ka boori. Šintin hangandiyanoo ga hin too miniti booboyaŋ nd'a mma ben bandafaaroo ra.">
-<!ENTITY addDevice.dialog.syncKey.label     "Ka jinaa tunandi war ka hima ka war Sync kufaloo dam. Taare kufaloo kar wal'a gaabu nda war m'a dii war ga.">
+<!ENTITY addDevice.dialog.recoveryKey.label     "Ka jinaa tunandi war ka hima ka war yeetiyan kufaloo dam. Taare kufaloo kar wal'a gaabu nda war m'a dii war ga.">
 <!ENTITY addDevice.dialog.connected.label   "Jinay dobante">
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "Huru">
-<!ENTITY existingSyncKey.description 'War ga hin ka duu war Sync kufaloo celle nda war koy &syncBrand.shortName.label; Suubarey do war jinay faa ga, nda wa "Ay Sync kufaloo" suuba war "Kontu juwaloo" ra.'>
+<!ENTITY existingRecoveryKey.description "War ga hin ka duu war yeetiyan kufaloo celle nda war koy &syncBrand.shortName.label; suubarey do war jinay faa ga, nda wa Ay yeetiyan kufaloo suuba war kontu juwaloo ra.">
 <!ENTITY verifying.label              "Goo ma koroši…">
 <!ENTITY resetPassword.label          "Šennikufaloo yeeti">
 <!ENTITY resetSyncKey.label           "Ay jinay foo tanaa dere yane.">

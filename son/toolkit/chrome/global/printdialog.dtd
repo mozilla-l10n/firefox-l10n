@@ -22,7 +22,7 @@
 <!ENTITY rangeRadio.accesskey  "M">
 <!ENTITY frompageInput.label  "hun">
 <!ENTITY frompageInput.accesskey  "h">
-<!ENTITY topageInput.label  "doo">
+<!ENTITY topageInput.label  "do">
 <!ENTITY topageInput.accesskey  "d">
 <!ENTITY selectionRadio.label "Suubari">
 <!ENTITY selectionRadio.accesskey "S">

@@ -1,7 +1,7 @@
 <!--LOCALIZATION NOTE printProgress.dtd Main UI for Print Progress Dialog -->
 <!ENTITY printWindow.title "Goo ma karandi"> 
-<!ENTITY title    "Tiiramaa"> 
-<!ENTITY progress "Jinekoyyan">
+<!ENTITY title    "Tiiramaa:"> 
+<!ENTITY progress "Jinekoyyan:">
 <!ENTITY preparing "Sooluyan…">
 <!ENTITY printComplete "Karyanoo timme.">
 

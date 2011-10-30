@@ -8,7 +8,7 @@
 <!ENTITY useCursorNavigation.accesskey   "d">
 <!ENTITY searchStartTyping.label         "Kalimaɲaa kuru ceeci waati kaŋ ay šintin ka hantum">
 <!ENTITY searchStartTyping.accesskey     "l">
-<!ENTITY blockAutoRefresh.label          "Ay yaamar waati kaŋ nungey ka wiri ka moɲoo bisandi wala k'a dam taaga">
+<!ENTITY blockAutoRefresh.label          "Ay yaamar waati kaŋ Interneti nungey ga wiri ka moɲoo bisandi wala k'a zumandi taaga">
 <!ENTITY blockAutoRefresh.accesskey      "n">
 
 <!ENTITY browsing.label                  "Ceeciyan">
@@ -51,7 +51,7 @@
 
 <!ENTITY limitCacheSizeBefore.label      "Tugudoo kayandi">
 <!ENTITY limitCacheSizeBefore.accesskey  "d">
-<!ENTITY limitCacheSizeAfter.label       "MB jišidoo ga">
+<!ENTITY limitCacheSizeAfter.label       "MB jišidoo dimma">
 <!ENTITY clearCacheNow.label             "Koonandi sohõ">
 <!ENTITY clearCacheNow.accesskey         "K">
 <!ENTITY overrideSmartCacheSize.label    "Boŋdirandi tugudoo juwalyan daaru">

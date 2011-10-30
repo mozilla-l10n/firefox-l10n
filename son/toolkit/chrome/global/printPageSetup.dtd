@@ -26,7 +26,7 @@
 
 <!ENTITY advanced.tab        "Moo-cerawey &amp; boŋdeke/ceedeke">
 
-<!ENTITY marginGroup.label   "Moo-ceraw (#1)">
+<!ENTITY marginGroup.label   "Moo-cerawey (#1)">
 <!ENTITY marginUnits.inches  "kabaarey">
 <!ENTITY marginUnits.metric  "milimeetarey">
 <!ENTITY marginTop.label     "Beene:">
@@ -54,9 +54,9 @@
 <!ENTITY hfURL               "URL nungu">
 <!ENTITY hfDateAndTime       "Han/Waati">
 <!ENTITY hfPage              "Moo hinna">
-<!ENTITY hfPageAndTotal      "Moo hinna # ga">
+<!ENTITY hfPageAndTotal      "Moo # kaŋ hun # ra">
 <!ENTITY hfBlank             "--koonu--">
-<!ENTITY hfCustom            "Hanse war boŋ se…">
+<!ENTITY hfCustom            "Hanse war boŋ še…">
 
-<!ENTITY customPrompt.title  "Hanse war boŋ se…">
+<!ENTITY customPrompt.title  "Hanse war boŋ še…">
 <!ENTITY customPrompt.prompt "War kalimaɲaa kuroo boŋ boŋdeke/ceedeke dam">

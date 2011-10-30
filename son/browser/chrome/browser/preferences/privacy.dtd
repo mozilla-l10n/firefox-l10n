@@ -1,6 +1,6 @@
 <!ENTITY tracking.label                 "Kuryan">
 
-<!ENTITY doNotTrack.label               "Wa nee Interneti nungey še ay ši baa nd'ay ma kurandi">
+<!ENTITY doNotTrack.label               "Nee Interneti nungey še ay ši baa ya kurandi">
 <!ENTITY doNotTrack.accesskey           "d">
 
 <!ENTITY  history.label                 "Taariki">
@@ -39,10 +39,10 @@
 <!ENTITY  historyHeader.pre.accesskey      "g">
 <!ENTITY  historyHeader.remember.label     "Hongu taarikoo">
 <!ENTITY  historyHeader.dontremember.label "Ma ši honga taarikoo abada">
-<!ENTITY  historyHeader.custom.label       "Hanse bonše taariku se goyandi">
+<!ENTITY  historyHeader.custom.label       "Hanse bonše taariku še goyandi">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; ga honga gunari, zumandiyan, takari nda ceeci taariku, nd'a ga aleewawey kaŋ hun war tataaru goyey ra.">
+<!ENTITY  rememberDescription.label      "&brandShortName; ga honga war naaru, zumandi, takari nda ceeciyan taariku, nd'a ga aleewawey kaŋ hun war tataaru nungey ra gaabu.">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->

@@ -53,8 +53,8 @@
 <!ENTITY devmgr.button.changepw.accesskey       "k">
 <!ENTITY devmgr.button.load.label               "Zumandi">
 <!ENTITY devmgr.button.load.accesskey           "Z">
-<!ENTITY devmgr.button.unload.label             "Zumandi-say">
-<!ENTITY devmgr.button.unload.accesskey         "Z">
+<!ENTITY devmgr.button.unload.label             "Jeeje zumandi">
+<!ENTITY devmgr.button.unload.accesskey         "J">
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "Alhabar dam dunboo kaŋ war baa k'a tonton se.">

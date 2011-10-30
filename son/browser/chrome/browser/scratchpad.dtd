@@ -111,6 +111,6 @@
 <!ENTITY errorConsoleCmd.accesskey    "d">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY webConsoleCmd.label          "Tataaru diji-walha">
+<!ENTITY webConsoleCmd.label          "Interneti diji-walha">
 <!ENTITY webConsoleCmd.accesskey      "w">
 <!ENTITY webConsoleCmd.commandkey     "k">

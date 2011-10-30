@@ -9,7 +9,7 @@
 <!ENTITY importFromIE.accesskey         "M">
 <!ENTITY importFromNothing.label        "War ma ši haya kul cendi ka zaa">
 <!ENTITY importFromNothing.accesskey    "W">
-<!ENTITY importFromSeamonkey.label      "Netscape 6, 7 or Mozilla 1.x">
+<!ENTITY importFromSeamonkey.label      "Netscape 6, 7 wala Mozilla 1.x">
 <!ENTITY importFromSeamonkey.accesskey  "N">
 <!ENTITY importFromOpera.label          "Opera">
 <!ENTITY importFromOpera.accesskey      "O">
@@ -28,7 +28,7 @@
 <!ENTITY migrating.label                "Hayiizey wey goo ma cenda ka zaandi…">
 
 <!ENTITY selectProfile.title            "Alhal suuba">
-<!ENTITY selectProfile.label            "Alhaaley wey goo no cendi ka zaa ne se:">
+<!ENTITY selectProfile.label            "Alhaaley wey goo no cendi ka zaa ne še:">
 
 <!ENTITY done.title                     "Cendi ka zaayan timme">
 <!ENTITY done.label                     "Hayiizey wey cendi ka zaandi ka ben:">

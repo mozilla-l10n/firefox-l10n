@@ -7,11 +7,11 @@
 <!ENTITY name.label             "Maa">
 <!ENTITY size.label             "Adadu">
 <!ENTITY lastModified.label     "Barmay cee koraa">
-<!ENTITY showHiddenFiles.label  "Tuku nda foolaaɲaa tugantey cebe">
+<!ENTITY showHiddenFiles.label  "Tuku nda fooloɲaa tugantey cebe">
 <!ENTITY showHiddenFiles.accesskey  "T">
 
-<!ENTITY noPermissionError.label "War ši nda duɲeyan kaŋ too war ma dii foolaaɲaŋoo woo.">
+<!ENTITY noPermissionError.label "War ši nda duɲeyan kaŋ too war ma dii fooloɲaŋoo woo.">
 
 <!ENTITY folderUp.tooltiptext   "Ziji nda dimma foo">
 <!ENTITY folderHome.tooltiptext "Koy sintinoo ga">
-<!ENTITY folderNew.tooltiptext  "Foolaaɲaa taaga tee">
+<!ENTITY folderNew.tooltiptext  "Fooloɲaa taaga tee">

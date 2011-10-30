@@ -91,14 +91,15 @@ goy ra.</li>
 
 <!ENTITY unknownSocketType.title "Zaabi kaŋ mana hongandi hun feršikaa do">
 <!ENTITY unknownSocketType.longDesc "<ul> 
-<li>Guna k'alhakiika wala boŋ-saajaw juwalkaw ši sinjandi.</li> 
-<li>Woo sotoloo ga hin ka tee hanseyan dumi kaŋ fondaa ši hennay goo feršikaa ga.</li> 
+<li>Guna k'alhakiika wala boŋ-saajaw juwalkaw 
+ sinjandi.</li> 
+<li>Woo sotoloo ga hin ka tee hanseyan dumi foo kaŋ fondaa ši hennay ga bara feršikaa ga.</li> 
 </ul>">
 
 <!ENTITY nssFailure2.title "Ciyari saajante kay">
 <!ENTITY nssFailure2.longDesc "<ul> 
-<li>Moɲoo kaŋ war ga ceeci ka dii ya ši hin ka cebandi zama bayhaya duwantey tabatandiyan ši hin ka korosandi.</li> 
-<li>Taare war tataaru nungukoyey hãa ka šendaa woo bayrandi i se. Wala juwaloo kaŋ fatta faaba šilbayboŋoo ra ka nungu hasarantaa bayrandi.</li> 
+<li>Moɲoo kaŋ war ga ceeci ka dii ya ši hin ka cebandi zama bayhaya duwantey tabatandiyanoo ši hin ka korosandi.</li> 
+<li>Taare war Interneti nungu koyey hãa ka šendaa woo bayrandi i še. Wala juwaloo kaŋ fatta faaba šilbayboŋoo ra ka nungu hasarantaa bayrandi.</li> 
 </ul>">
 
 <!ENTITY nssBadCert.title "Ciyari saajante kay">
@@ -120,7 +121,7 @@ goo &brandShortName; nda fondo ka huru tataaroo ra.</li>
 
 <!ENTITY malwareBlocked.title "Zanba nungu šikkari!">
 <!ENTITY malwareBlocked.longDesc "<p>Zanba nungey ka porogaramyaŋ sinji kaŋ ga sutura alhabar zay, i ga war ordinateroo ka boro waaniyaŋ tooɲe, wal'i ma war dabariɲaŋoo hasara.</p> 
-<p>Tataaru nungu koyey ga tammahã kaŋ ngi nungoo bayrandi ka tee zanba nungoo dereyan ra <a href='http://www.stopbadware.org/home/reviewinfo' >koroši alhabar hãa</a>.</p>">
+<p>Interneti nungu koyey ga tammahã kaŋ ngey nungoo bayrandi ka tee zanba nungoo dereyan ra <a href='http://www.stopbadware.org/home/reviewinfo' >koroši alhabar hãa</a>.</p>">
 
 <!ENTITY phishingBlocked.title "Zanba tataaru šikkari!">
 <!ENTITY phishingBlocked.longDesc '<p>War alhabar suturante damyan moɲoo woo ra ga hin ka too war boŋtaamansaa ma zaytarandi, wal&apos;a ma darga faaba.</p> 
@@ -143,7 +144,6 @@ functionality specific to firefox. -->
 
 
 <!ENTITY securityOverride.warningContent "<p>War ši hima ka hasaraw tonton nda war ga goy nda Interneti ciyari kaŋ ši nda naanay gumo wala war mana doona ka dii yaamaroo woo feršikaa woo še.</p>  
- 
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
