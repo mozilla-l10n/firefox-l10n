@@ -1,10 +1,14 @@
 <!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
-<!ENTITY ok.label      "OK">
+<!ENTITY ok.label      "Bine">
 <!ENTITY cancel.label  "Renunță">
-
-

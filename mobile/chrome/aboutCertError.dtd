@@ -8,7 +8,6 @@
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!ENTITY % brandDTD
@@ -38,5 +37,3 @@ was trying to connect. -->
 <!ENTITY certerror.addPermanentException.label "Adaugă o excepție permanentă">
 
 <!ENTITY certerror.technical.heading "Detalii tehnice">
-
-

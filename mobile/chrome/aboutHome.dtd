@@ -10,7 +10,6 @@
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!ENTITY aboutHome.header                       "<span>&brandShortName; </span><span id='header-suffix'>la început</span>">
@@ -34,5 +33,3 @@
      (aboutHome.forAndroid): Second line of a multi-line button. Treat as a subtitle.
 -->
 <!ENTITY aboutHome.forAndroid			"pentru Android">
-
-

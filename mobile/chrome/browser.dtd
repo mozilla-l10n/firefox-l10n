@@ -16,7 +16,6 @@
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!ENTITY urlbar.emptytext      "Adresă sau căutare">
@@ -24,7 +23,7 @@
 <!ENTITY back.label            "Îna_poi">
 <!ENTITY forward.label         "Î_nainte">
 <!ENTITY reload.label          "Reîncarcă">
-<!ENTITY stop.label            "Opreşte">
+<!ENTITY stop.label            "Oprește">
 <!ENTITY go.label              "Du-te">
 <!ENTITY star.label            "Stea">
 
@@ -47,7 +46,7 @@
 <!ENTITY allPagesHeader.label      "Toate paginile">
 <!ENTITY bookmarksHeader.label     "Favorite">
 <!ENTITY historyHeader.label       "Istoric">
-<!ENTITY desktopHeader.label       "Spaţiu de lucru">
+<!ENTITY desktopHeader.label       "Spațiu de lucru">
 
 <!ENTITY editBookmarkDialog.title  "Editează semnul de carte">
 <!ENTITY editBookmarkDone.label    "Gata">
@@ -64,7 +63,7 @@
 <!ENTITY addonsSearch2.emptytext   "Caută în catalog">
 <!ENTITY addonsSearch.recommended  "Recomandate">
 
-<!ENTITY addonOptions.label        "Opţiuni">
+<!ENTITY addonOptions.label        "Opțiuni">
 <!ENTITY addonEnable.label         "Activează">
 <!ENTITY addonDisable.label        "Dezactivează">
 <!ENTITY addonInstall2.label       "Adaugă la &brandShortName;">
@@ -141,5 +140,3 @@
 <!ENTITY pageactions.charEncoding    "Codare caractere">
 
 <!ENTITY appMenu.siteOptions         "Opțiuni sait">
-
-
