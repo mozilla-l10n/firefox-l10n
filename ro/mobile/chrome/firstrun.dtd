@@ -22,7 +22,5 @@
 <!ENTITY firstrun.home2.description    "Săriți peste toate acestea și mergeți la pagina de pornire personalizată pentru a începe navigarea pe web">
 <!ENTITY firstrun.features             "Vedeți mai multe caracteristici">
 <!ENTITY firstrun.faq                  "Întrebări frecvente">
-<!ENTITY firstrun.privacy              "Politică de confidențialite">
-<!ENTITY firstrun.follow               "Urmăreşte-ne pe:">
-
-
+<!ENTITY firstrun.privacy              "Politică de confidențialitate">
+<!ENTITY firstrun.follow               "Urmărește-ne pe:">

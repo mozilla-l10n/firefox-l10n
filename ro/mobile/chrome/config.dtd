@@ -9,7 +9,6 @@
 <!--
 # Reviewer(s):
 #
-# raulmalea <raul.malea@gmail.com>
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
@@ -25,5 +24,3 @@
 <!ENTITY integer.label          "Număr întreg">
 <!ENTITY string.label           "Text">
 <!ENTITY boolean.label          "Adevărat/fals">
-
-

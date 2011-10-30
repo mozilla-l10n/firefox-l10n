@@ -6,10 +6,16 @@
 # raulmalea <raul.malea@gmail.com>
 #
 -->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY aboutPage.title                        "Despre &brandShortName;">
 <!ENTITY aboutPage.faq.label                    "Întrebări frecvente">
-<!ENTITY aboutPage.support.label                "Asistenţă">
-<!ENTITY aboutPage.privacyPolicy.label          "Politică de confidențialite">
+<!ENTITY aboutPage.support.label                "Asistență">
+<!ENTITY aboutPage.privacyPolicy.label          "Politică de confidențialitate">
 <!ENTITY aboutPage.rights.label                 "Cunoaște-ți drepturile">
 <!ENTITY aboutPage.relNotes.label               "Note de lansare">
 <!ENTITY aboutPage.credits.label                "Echipa">
@@ -24,5 +30,3 @@
 -->
 <!ENTITY aboutPage.licenseLink                  "Informații de licențiere">
 <!ENTITY aboutPage.licenseLinkSuffix            ".">
-
-

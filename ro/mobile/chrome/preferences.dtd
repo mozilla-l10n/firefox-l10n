@@ -8,11 +8,10 @@
 <!--
 # Reviewer(s):
 #
-# raulmalea <raul.malea@gmail.com>
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
-<!ENTITY prefsHeader.label                         "Preferinţe">
+<!ENTITY prefsHeader.label                         "Preferințe">
 <!ENTITY about.title                               "Despre &brandShortName;">
 <!ENTITY about.button                              "Mergi la pagina">
 <!ENTITY content.title                             "Conținut">
@@ -36,5 +35,3 @@
 <!ENTITY homepage.currentpage                      "Folosește pagina curentă">
 <!ENTITY showCharsetEncoding.title                 "Arată codarea caracterelor">
 <!ENTITY actionbar.default                         "Setări &brandShortName;">
-
-
