@@ -6,3 +6,6 @@
 <!ENTITY prefCheckDefault.caption "Integrazione con il sistema">
 <!ENTITY prefCheckDefaultClient.label "Controlla le impostazioni predefinite dell'applicazione all'avvio">
 <!ENTITY prefCheckDefaultClient.accesskey "C">
+<!ENTITY crashReports.caption "Crash Reporter">
+<!ENTITY submitCrashes.label "Invia segnalazioni in caso di arresto anomalo">
+<!ENTITY submitCrashes.accesskey "n">
