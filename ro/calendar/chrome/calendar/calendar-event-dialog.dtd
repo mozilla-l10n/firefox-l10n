@@ -384,7 +384,7 @@
 <!ENTITY event.freebusy.legend.unknown          "Fără informații" >
 <!ENTITY event.attendee.role.required           "Participant necesar">
 <!ENTITY event.attendee.role.optional           "Participant opțional">
-<!ENTITY event.attendee.role.chair              "Chair">
+<!ENTITY event.attendee.role.chair              "Președinte">
 <!ENTITY event.attendee.role.nonparticipant     "Nu participă">
 
 <!-- Timezone dialog -->
