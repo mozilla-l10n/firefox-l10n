@@ -55,5 +55,3 @@
 <!ENTITY borderEditField.accessKey "B">
 <!ENTITY borderEditField.tooltip "Tastați un număr pentru grosimea bordurii tabelului, sau zero (0) pentru tabel fără bordură">
 <!ENTITY pixels.label "pixeli">
-
-

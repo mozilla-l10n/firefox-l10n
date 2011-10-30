@@ -61,11 +61,11 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importDialog.windowTitle "Importează">
 <!ENTITY importAll.label          "Importă totul">
 <!ENTITY importAll.accesskey      "I">
-<!ENTITY importMail.label         "Poştă">
+<!ENTITY importMail.label         "Poștă">
 <!ENTITY importMail.accesskey     "P">
 <!ENTITY importAddressbook.label  "Agende de contacte">
 <!ENTITY importAddressbook.accesskey "A">
-<!ENTITY importSettings.label     "Setari">
+<!ENTITY importSettings.label     "Setări">
 <!ENTITY importSettings.accesskey "S">
 <!ENTITY importFilters.label      "Filtrează după:">
 <!ENTITY importFilters.accesskey  "F">
@@ -91,5 +91,3 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 <!ENTITY title.label              "Titlu">
 <!ENTITY processing.label         "Import…">
-
-

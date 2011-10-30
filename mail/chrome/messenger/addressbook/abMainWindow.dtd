@@ -7,7 +7,6 @@
 # purica <haliciu@gmail.com>
 # nicubunu <nicubunu@gmail.com>
 # turcan <nicturcan@gmail.com>
-# Lucian Oprea <oprea.luci@gmail.com>
 # xdaiana <xdaiana@yahoo.com>
 # Sergiu Bivol <sbivol87@gmail.com>
 # raulmalea <raul.malea@gmail.com>
@@ -22,7 +21,7 @@
 <!ENTITY addressbookWindow.title                        "Agendă de contacte">
 
 <!-- File Menu -->
-<!ENTITY fileMenu.label                                 "Fişier">
+<!ENTITY fileMenu.label                                 "Fișier">
 <!ENTITY fileMenu.accesskey                             "F">
 <!ENTITY newMenu.label                                  "Adaugă">
 <!ENTITY newMenu.accesskey                              "A">
@@ -37,7 +36,7 @@
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "d">
 <!ENTITY newMessageCmd.label                            "Mesaj">
 <!ENTITY newMessageCmd.key                              "M">
-<!ENTITY newMessageCmd.accesskey                        "m">
+<!ENTITY newMessageCmd.accesskey                        "M">
 <!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
 <!ENTITY osxAddressBook.label                           "Folosește agenda de contacte Mac OS X">
 <!ENTITY osxAddressBook.accesskey                       "o">
@@ -71,7 +70,7 @@
 <!ENTITY copyCmd.label                                  "Copiați">
 <!ENTITY copyCmd.key                                    "C">
 <!ENTITY copyCmd.accesskey                              "C">
-<!ENTITY pasteCmd.label                                 "Lipeşte">
+<!ENTITY pasteCmd.label                                 "Lipește">
 <!ENTITY pasteCmd.key                                   "v">
 <!ENTITY pasteCmd.accesskey                             "i">
 <!ENTITY deleteCmd.label                                "Șterge">
@@ -100,6 +99,8 @@
 <!ENTITY viewMenu.accesskey                             "V">
 <!ENTITY viewToolbarsMenu.label                         "Bare de unelte">
 <!ENTITY viewToolbarsMenu.accesskey                     "t"> 
+<!ENTITY menubarCmd.label                               "Menu Bar">
+<!ENTITY menubarCmd.accesskey                           "M">
 <!ENTITY showAbToolbarCmd.label                         "Bara Agendă">
 <!ENTITY showAbToolbarCmd.accesskey                     "B">
 <!ENTITY showTaskbarCmd.label                           "Bară de _stare">
@@ -133,7 +134,7 @@
 <!ENTITY exportCmd.accesskey                            "E">
 <!ENTITY preferencesCmd.label                           "Opțiuni…">
 <!ENTITY preferencesCmd.accesskey                       "O">
-<!ENTITY preferencesCmdUnix.label                       "Preferinţe">
+<!ENTITY preferencesCmdUnix.label                       "Preferințe">
 <!ENTITY preferencesCmdUnix.accesskey                   "n">
 
 <!-- Address Book Toolbar and Context Menus -->  
@@ -141,7 +142,7 @@
 <!ENTITY newContactButton.accesskey                     "C">
 <!ENTITY newlistButton.label                            "Listă nouă">
 <!ENTITY newlistButton.accesskey                        "L">
-<!ENTITY editButton2.label                              "Proprietăţi">
+<!ENTITY editButton2.label                              "Proprietăți">
 <!ENTITY editButton2.accesskey                          "P">
 <!ENTITY newmsgButton.label                             "Scriere">
 <!ENTITY newmsgButton.accesskey                         "S">
@@ -225,5 +226,3 @@
 <!ENTITY minimizeWindow.key "M">
 <!ENTITY bringAllToFront.label "Adu-le pe toate în față">
 <!ENTITY zoomWindow.label "Lupă">
-
-

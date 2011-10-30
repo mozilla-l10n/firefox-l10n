@@ -129,7 +129,7 @@
 <!ENTITY HomeState.accesskey            "J">
 <!ENTITY HomeZipCode.label              "Cod poștal:">
 <!ENTITY HomeZipCode.accesskey          "C">
-<!ENTITY HomeCountry.label              "Ţara:">
+<!ENTITY HomeCountry.label              "Țara:">
 <!ENTITY HomeCountry.accesskey          "a">
 <!ENTITY HomeWebPage.label              "Pagină web:">
 <!ENTITY HomeWebPage.accesskey          "P">
@@ -147,7 +147,7 @@
 <!ENTITY JobTitle.accesskey             "T">
 <!ENTITY Department.label               "Departament:">
 <!ENTITY Department.accesskey           "D">
-<!ENTITY Company.label                  "Organizaţie:">
+<!ENTITY Company.label                  "Organizație:">
 <!ENTITY Company.accesskey              "O">
 <!ENTITY WorkAddress.label              "Adresă:">
 <!ENTITY WorkAddress.accesskey          "A">
@@ -159,7 +159,7 @@
 <!ENTITY WorkState.accesskey            "J">
 <!ENTITY WorkZipCode.label              "Cod poștal:">
 <!ENTITY WorkZipCode.accesskey          "C">
-<!ENTITY WorkCountry.label              "Ţara:">
+<!ENTITY WorkCountry.label              "Țara:">
 <!ENTITY WorkCountry.accesskey          "a">
 <!ENTITY WorkWebPage.label              "Pagină web:">
 <!ENTITY WorkWebPage.accesskey          "P">
@@ -185,12 +185,10 @@
 <!ENTITY DefaultPhoto.label             "Implicit">
 <!ENTITY PhotoFile.label                "Pe acest calculator">
 <!ENTITY PhotoFile.accesskey            "P">
-<!ENTITY BrowsePhoto.label              "Răsfoieşte">
+<!ENTITY BrowsePhoto.label              "Răsfoiește">
 <!ENTITY BrowsePhoto.accesskey          "R">
 <!ENTITY PhotoURL.label                 "Pe web">
 <!ENTITY PhotoURL.accesskey             "b">
 <!ENTITY PhotoURL.placeholder           "Inserați sau tastați adresa web a pozei">
 <!ENTITY UpdatePhoto.label              "Împrospătare">
 <!ENTITY UpdatePhoto.accesskey          "m">
-
-

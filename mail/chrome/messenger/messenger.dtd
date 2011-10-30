@@ -13,16 +13,15 @@
 # rsandu <razvan.sandu@zando.ro>
 # secarica <orice@secarica.ro>
 # anonymous <anonymous@n.a>
-# Lucian Oprea <oprea.luci@gmail.com>
 # Sergiu Bivol <sbivol87@gmail.com>
 # xdaiana <xdaiana@yahoo.com>
-# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!ENTITY messengerWindow.title "Corespondență și grupuri de discuții">
@@ -58,7 +57,7 @@
 <!ENTITY openAttachmentCmd.accesskey "A">
 <!ENTITY saveAsMenu.label "Salveaza ca">
 <!ENTITY saveAsMenu.accesskey "S">
-<!ENTITY saveAsFileCmd.label "Fişier">
+<!ENTITY saveAsFileCmd.label "Fișier">
 <!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsFileCmd.key "S">
 <!ENTITY saveAsTemplateCmd.label "Șablon">
@@ -146,12 +145,14 @@
 <!ENTITY redoDefaultCmd.accesskey "R">
 
 <!-- View Menu -->
+<!ENTITY menubarCmd.label "Menu Bar">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showMessengerToolbarCmd.label "Bară de unelte pentru corespondență">
 <!ENTITY showMessengerToolbarCmd.accesskey "o">
 <!ENTITY customizeToolbar.label "Personalizare…">
 <!ENTITY customizeToolbar.accesskey "P">
 
-<!ENTITY messagePaneLayoutStyle.label "Aşezare">
+<!ENTITY messagePaneLayoutStyle.label "Așezare">
 <!ENTITY messagePaneLayoutStyle.accesskey "A">
 <!ENTITY messagePaneClassic.label "Vedere clasică">
 <!ENTITY messagePaneClassic.accesskey "c">
@@ -186,7 +187,7 @@
 <!ENTITY sortByStarCmd.accesskey "S">
 <!ENTITY sortByAttachmentsCmd.label "Atașamente">
 <!ENTITY sortByAttachmentsCmd.accesskey "A">
-<!ENTITY sortByPriorityCmd.label "Importanţă">
+<!ENTITY sortByPriorityCmd.label "Importanță">
 <!ENTITY sortByPriorityCmd.accesskey "p">
 <!ENTITY sortBySizeCmd.label "Mărimea">
 <!ENTITY sortBySizeCmd.accesskey "r">
@@ -272,13 +273,13 @@ fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-<!ENTITY fullZoomEnlargeCmd.label       "Măreşte">
+<!ENTITY fullZoomEnlargeCmd.label       "Mărește">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "M">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards --><!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
-<!ENTITY fullZoomReduceCmd.label        "Micşorează">
+<!ENTITY fullZoomReduceCmd.label        "Micșorează">
 <!ENTITY fullZoomReduceCmd.accesskey    "o">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
@@ -296,6 +297,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageSourceCmd.label "Sursă mesaj">
 <!ENTITY pageSourceCmd.accesskey "u">
 <!ENTITY pageSourceCmd.key "U">
+<!ENTITY getNewMessagesCmd.key "y">
+<!ENTITY getAllNewMessagesCmd.key "Y">
 
 <!-- Search Menu -->
 <!ENTITY findMenu.label "Caută">
@@ -317,11 +320,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Go Menu -->
 <!ENTITY goMenu.label "OK">
-<!ENTITY goMenu.accesskey "M">
-<!ENTITY nextMenu.label "Î_nainte">
+<!ENTITY goMenu.accesskey "O">
+<!ENTITY nextMenu.label "Înainte">
 <!ENTITY nextMenu.accesskey "n">
 <!ENTITY nextMsgCmd.label "Mesaj">
-<!ENTITY nextMsgCmd.accesskey "m">
+<!ENTITY nextMsgCmd.accesskey "M">
 <!ENTITY nextMsgCmd.key "F">
 <!ENTITY nextUnreadMsgCmd.label "Mesaj necitit">
 <!ENTITY nextUnreadMsgCmd.accesskey "n">
@@ -334,7 +337,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY prevMenu.label "Precedent">
 <!ENTITY prevMenu.accesskey "P">
 <!ENTITY prevMsgCmd.label "Mesaj">
-<!ENTITY prevMsgCmd.accesskey "m">
+<!ENTITY prevMsgCmd.accesskey "M">
 <!ENTITY prevMsgCmd.key "b">
 <!ENTITY prevUnreadMsgCmd.label "Mesaj necitit">
 <!ENTITY prevUnreadMsgCmd.accesskey "n">
@@ -357,11 +360,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Message Menu -->
 <!ENTITY msgMenu.label "Mesaj">
-<!ENTITY msgMenu.accesskey "m">
+<!ENTITY msgMenu.accesskey "M">
 <!ENTITY newMsgCmd.label "Mesaj nou">
 <!ENTITY newMsgCmd.accesskey "n">
 <!ENTITY newNewMsgCmd.label "Mesaj">
-<!ENTITY newNewMsgCmd.accesskey "m">
+<!ENTITY newNewMsgCmd.accesskey "M">
 <!ENTITY archiveMsgCmd.label "Arhiveaza">
 <!ENTITY archiveMsgCmd.accesskey "A">
 <!ENTITY archiveMsgCmd.key  "A">
@@ -525,12 +528,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY previousButton.label "Precedentul">
 <!ENTITY backButton1.label "Înapoi">
 <!ENTITY goForwardButton1.label "Înainte">
+<!ENTITY deleteItem.title "Delete">
 <!ENTITY deleteButton.label "Șterge">
 <!ENTITY undeleteButton.label "Restaurează">
 <!ENTITY markButton.label "Marchează">
 <!ENTITY printButton.label "Tipărește">
 <!ENTITY stopButton.label "Oprește">
 <!ENTITY throbberItem.title "Indicator de activitate">
+<!ENTITY junkItem.title "Junk">
 <!ENTITY junkButton.label "Nesolicitat">
 <!ENTITY notJunkButton.label "Nu e nesolicitat">
 <!ENTITY addressBookButton.label "Contacte">
@@ -585,7 +590,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextOpenNewTab.accesskey "D">
 <!ENTITY folderContextNew.label "Subdosar nou…">
 <!ENTITY folderContextNew.accesskey "n">
-<!ENTITY folderContextRename.label "Redenumeşte">
+<!ENTITY folderContextRename.label "Redenumește">
 <!ENTITY folderContextRename.accesskey "R">
 <!ENTITY folderContextRemove.label "Șterge">
 <!ENTITY folderContextRemove.accesskey "g">
@@ -859,7 +864,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyImageAllCmd.accesskey "i">
 <!ENTITY copyEmailCmd.label "Copiază adresa de email">
 <!ENTITY copyEmailCmd.accesskey "e">
-<!ENTITY stopCmd.label "Opreşte">
+<!ENTITY stopCmd.label "Oprește">
 <!ENTITY stopCmd.accesskey "O">
 <!ENTITY reloadCmd.label "Reîncarcă">
 <!ENTITY reloadCmd.accesskey "R">
@@ -869,7 +874,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openLinkInBrowser.accesskey "o">
 
 <!-- Statusbar -->
-<!ENTITY statusText.label "Pregătit">
+<!ENTITY statusText.label "Terminat">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.label "Minimizează">
@@ -889,5 +894,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "Arată-le pe toate">
-
-

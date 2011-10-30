@@ -24,7 +24,5 @@
 <!ENTITY copyLinkCmd.label        "Copiază adresa legăturii">
 <!ENTITY copyLinkCmd.accesskey    "C">
 
-<!ENTITY pasteLinkCmd.label       "Lipeşte">
+<!ENTITY pasteLinkCmd.label       "Lipește">
 <!ENTITY pasteLinkCmd.accesskey   "i">
-
-

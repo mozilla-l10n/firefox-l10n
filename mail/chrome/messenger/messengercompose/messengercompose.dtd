@@ -10,7 +10,6 @@
 # turcan <nicturcan@gmail.com>
 # stas <stas@nerd.ro>
 # anonymous <anonymous@n.a>
-# Lucian Oprea <oprea.luci@gmail.com>
 # xdaiana <xdaiana@yahoo.com>
 #
 -->
@@ -25,14 +24,14 @@
 <!ENTITY msgComposeWindow.title "Redactare mesaj: (fără subiect)">
 
 <!-- File Menu -->
-<!ENTITY fileMenu.label "Fişier"> 
+<!ENTITY fileMenu.label "Fișier"> 
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY newMenu.label "Adaugă">
 <!ENTITY newMenu.accesskey "A">
 <!ENTITY newMessage.label "Mesaj">
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessage.accesskey "m">
+<!ENTITY newMessage.accesskey "M">
 <!ENTITY newContact.label "Contact în agendă…">
 <!ENTITY newContact.accesskey "C">
 <!ENTITY attachMenu.label "Anexează">
@@ -85,7 +84,7 @@
 <!ENTITY copyCmd.label "Copiați">
 <!ENTITY copyCmd.key "C">
 <!ENTITY copyCmd.accesskey "C"> 
-<!ENTITY pasteCmd.label "Lipeşte">
+<!ENTITY pasteCmd.label "Lipește">
 <!ENTITY pasteCmd.key "v">
 <!ENTITY pasteCmd.accesskey "i">
 <!ENTITY pasteNoFormattingCmd.key "V">
@@ -115,6 +114,8 @@
 <!ENTITY viewMenu.accesskey "V">
 <!ENTITY viewToolbarsMenuNew.label "Bare de unelte"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "t"> 
+<!ENTITY menubarCmd.label "Menu Bar">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showCompositionToolbarCmd.label "Bară de redactare">
 <!ENTITY showCompositionToolbarCmd.accesskey "B">
 <!ENTITY showFormattingBarCmd.label "Bară de formatare">
@@ -132,7 +133,7 @@
 <!ENTITY formatMenu.accesskey "o">
 
 <!-- Options Menu -->
-<!ENTITY optionsMenu.label "Opţiuni">
+<!ENTITY optionsMenu.label "Opțiuni">
 <!ENTITY optionsMenu.accesskey "p">
 <!ENTITY checkSpellingCmd2.label "Verifică ortografia…">
 <!ENTITY checkSpellingCmd2.key "o">
@@ -161,7 +162,7 @@
 <!ENTITY htmlFormatCmd.accesskey "b">
 <!ENTITY bothFormatCmd.label "Text și HTML">
 <!ENTITY bothFormatCmd.accesskey "H">
-<!ENTITY priorityMenu.label "Importanţă">
+<!ENTITY priorityMenu.label "Importanță">
 <!ENTITY priorityMenu.accesskey "p">
 <!ENTITY priorityButton.label "Prioritate:">
 <!ENTITY lowestPriorityCmd.label "Cea mai mică">
@@ -192,7 +193,7 @@
 <!ENTITY accountManagerCmdUnix.accesskey "S">
 <!ENTITY preferencesCmd.label "Opțiuni…">
 <!ENTITY preferencesCmd.accesskey "O">
-<!ENTITY preferencesCmdUnix.label       "Preferinţe">
+<!ENTITY preferencesCmdUnix.label       "Preferințe">
 <!ENTITY preferencesCmdUnix.accesskey   "n"> 
 
 <!--  Mac OS X Window Menu -->
@@ -271,7 +272,7 @@
 <!ENTITY cut.accesskey "T">
 <!ENTITY copy.label "Copiați">
 <!ENTITY copy.accesskey "C">
-<!ENTITY paste.label "Lipeşte">
+<!ENTITY paste.label "Lipește">
 <!ENTITY paste.accesskey "i">
 <!ENTITY pasteQuote.label "Lipește ca citat">
 <!ENTITY pasteQuote.accesskey "p">
@@ -297,6 +298,4 @@
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Prieteni">
-
-
 

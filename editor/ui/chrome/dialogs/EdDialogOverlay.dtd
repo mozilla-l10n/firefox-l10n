@@ -55,5 +55,3 @@
 <!-- Shared by Link and Image dialogs -->
 <!ENTITY LinkURLEditField.label "Introduceți o locație de pagină web, un fișier local sau alegeți o ancoră cu nume sau un subtitlu din următoarea listă:">
 <!ENTITY LinkURLEditField.accessKey "L">
-
-

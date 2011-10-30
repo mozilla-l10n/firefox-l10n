@@ -61,7 +61,7 @@
 <!ENTITY cancel.accesskey                "A">
 <!ENTITY continue.label                  "Continua">
 <!ENTITY continue.accesskey              "C">
-<!ENTITY stop.label                      "Opreşte">
+<!ENTITY stop.label                      "Oprește">
 <!ENTITY stop.accesskey                  "O">
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
      displayed on the button in manual edit mode which will re-guess
@@ -102,5 +102,3 @@
 <!ENTITY insecureUnencrypted.description "Adresa dumneavoastră de email și datele de autentificare sunt trimise fără a fi criptate, ca urmare parola și mesajul dumneavoastră pot fi citite de alte persoane. &brandShortName; vă va permite să vă citiți mesajele, dar vă recomandăm să vă contactați furnizorul de email în legătură cu configurarea serverului pentru o conexiune securizată.">
 <!ENTITY insecureSelfSigned.description  "Serverul folosește un certificat în care nu aveți încredere, așadar nu puteți fi sigur că cineva nu interceptează traficul dintre &brandShortName; și server. &brandShortName; vă va permite să accesați emailul chiar și în acest mod, dar vă sugerăm să recomandați furnizorului de email să configureze serverul cu un certificat de încredere.">
 <!ENTITY secureServer.description        "Felicitări! Aveți de a face cu un server securizat.">
-
-

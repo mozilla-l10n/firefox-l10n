@@ -62,7 +62,7 @@
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
 <!-- File menu items -->
-<!ENTITY fileMenu.label "Fişier">
+<!ENTITY fileMenu.label "Fișier">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY openFileCmd.label "Deschide un fișier…">
 <!ENTITY openFileCmd.accesskey "D">
@@ -87,11 +87,6 @@
 <!ENTITY publishAsCmd.accesskey "P">
 <!ENTITY saveAsChangeEncodingCmd.label "Trtetete">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "T">
-<!ENTITY printSetupCmd.label "Aranjare în pagină...">
-<!ENTITY printSetupCmd.accesskey "A">
-<!ENTITY printCmd.label "Imprimă…">
-<!ENTITY printCmd.accesskey "I">
-<!ENTITY printCmd.key "P">
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "Editare">
@@ -191,7 +186,7 @@
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Stil text">
 <!ENTITY fontStyleMenu.accesskey "S">
-<!ENTITY styleBoldCmd.label "Îngroşat">
+<!ENTITY styleBoldCmd.label "Îngroșat">
 <!ENTITY styleBoldCmd.accesskey "a">
 <!ENTITY styleBoldCmd.key "B">
 <!ENTITY styleItalicCmd.label "Italic">
@@ -386,7 +381,7 @@
 <!ENTITY publishToolbarCmd.tooltip "Încarcă fișierul într-o locație la distanță">
 <!ENTITY cutToolbarCmd.tooltip "Tăiere">
 <!ENTITY copyToolbarCmd.tooltip "Copiați">
-<!ENTITY pasteToolbarCmd.tooltip "Lipeşte">
+<!ENTITY pasteToolbarCmd.tooltip "Lipește">
 <!ENTITY printToolbarCmd.label "Imprimă">
 <!ENTITY printToolbarCmd.tooltip "Imprimă această pagină">
 <!ENTITY findToolbarCmd.label "Caută">
@@ -442,5 +437,3 @@
 <!ENTITY removeTOC.accesskey      "E">
 <!ENTITY tocMenu.label            "Cuprins…">
 <!ENTITY tocMenu.accesskey        "C">
-
-
