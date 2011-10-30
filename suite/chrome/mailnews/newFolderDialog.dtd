@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# Sergiu Bivol <sbivol87@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -45,3 +58,5 @@
 <!ENTITY folderRestriction2.label   "Noul dosar va conține:">
 <!ENTITY foldersOnly.label          "Doar dosare">
 <!ENTITY messagesOnly.label         "Doar mesaje">
+<!ENTITY accept.label               "Create Folder">
+<!ENTITY accept.accesskey           "r">

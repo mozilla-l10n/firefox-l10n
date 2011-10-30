@@ -1,3 +1,17 @@
+<!--
+# Translator(s):
+#
+# purica <haliciu@gmail.com>
+# turcan <nicturcan@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
 
@@ -57,14 +71,11 @@
 <!ENTITY printContactViewCmd.accesskey                  "p">
 <!ENTITY printPreviewContactViewCmd.label               "Previzualizare tipărire contact">
 <!ENTITY printPreviewContactViewCmd.accesskey           "v">
-<!-- LOCALIZATION NOTE (printCardViewCmd.key) : DONT_TRANSLATE -->  
 <!ENTITY printContactViewCmd.key                        "P">
 <!ENTITY printAddressBook.label                         "Tipărește agenda de contacte…"> 
 <!ENTITY printAddressBook.accesskey                     "a"> 
 <!ENTITY printPreviewAddressBook.label                  "Previz. imprimare carte adrese"> 
 <!ENTITY printPreviewAddressBook.accesskey              "P">
-<!ENTITY printSetupCmd.label                            "Aranjare în pagină…">
-<!ENTITY printSetupCmd.accesskey                        "A">
 
 <!-- Edit Menu -->
 <!ENTITY deleteAbCmd.label                              "Șterge agenda de contacte">  
@@ -101,8 +112,6 @@
 <!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label                                "Exportă...">
 <!ENTITY exportCmd.accesskey                            "E">
-<!ENTITY allowOnlineCheck.label                         "Check online presence (AOL)">
-<!ENTITY allowOnlineCheck.accesskey                     "C">
 
 <!-- Toolbar and Popup items -->  
 <!ENTITY newContactButton.label                         "Contact nou">
@@ -117,7 +126,8 @@
 <!ENTITY deleteItemButton.accesskey                     "t">
 <!ENTITY newimButton.label                              "Mesaj instantaneu">  
 <!ENTITY newimButton.accesskey                          "i">  
-<!ENTITY searchNameAndEmail.emptytext                   "Search Name and Email">
+<!ENTITY searchNameAndEmail.placeholder                 "Search Name and Email">
+<!ENTITY searchBox.title                                "Search">
 
 <!-- Tooltips -->
 <!ENTITY addressbookToolbar.tooltip                     "Bara Agendă">
@@ -130,9 +140,12 @@
 <!ENTITY throbber.tooltip                               "Pagina principală &vendorShortName;">
 <!ENTITY advancedButton.tooltip                         "Căutare avansată în agendă">
 
+<!-- Dir Tree header -->
+<!ENTITY dirTreeHeader.label                            "Address Books">
+
 <!-- Status Bar -->  
 <!ENTITY statusText.label                               "">
 
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY  hideSwapFnLnUI                                "adevărat">
+<!ENTITY  hideSwapFnLnUI                                "true">

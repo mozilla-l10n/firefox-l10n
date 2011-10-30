@@ -1,3 +1,17 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# janimo <jani@ubuntu.com>
+# iulianv <iulianv@email.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
 
@@ -53,7 +67,7 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY window.title "Reguli filtrare">
-
+<!ENTITY filterEditorDialog.dimensions "width: 105ch;">
 <!ENTITY filterName.label "Nume filtru:">
 <!ENTITY filterName.accesskey "i">
 
@@ -62,7 +76,7 @@
 
 <!ENTITY lowestPriorityCmd.label "Cea mai mică">
 <!ENTITY lowPriorityCmd.label "Încet">
-<!ENTITY normalPriorityCmd.label "Normală">
+<!ENTITY normalPriorityCmd.label "Normal">
 <!ENTITY highPriorityCmd.label "Tare">
 <!ENTITY highestPriorityCmd.label "Cea mai mare">
 
@@ -71,6 +85,8 @@
 <!ENTITY contextIncoming.label "Se verifică mesajele">
 <!ENTITY contextManual.label "Rulează manual">
 <!ENTITY contextBoth.label "Se verifică mailul sau se rulează manual">
+<!ENTITY contextPostPlugin.label "Checking Mail (after classification)">
+<!ENTITY contextPostPluginBoth.label "Checking Mail (after classification) or Manually Run">
 
 <!ENTITY filterActionDesc.label "Efectuează următoarele acțiuni:">
 <!ENTITY filterActionDesc.accesskey "E">
@@ -82,7 +98,6 @@
 <!ENTITY replyWithTemplate.label "Răspunde cu un șablon">
 <!ENTITY markMessageRead.label "Marchează ca citit">
 <!ENTITY markMessageStarred.label "Mark As Flagged">
-<!ENTITY labelMessage.label "Etichetează mesajul ca">
 <!ENTITY setPriority.label "Schimbă prioritatea în">
 <!ENTITY addTag.label "Etichetează mesaj">
 <!ENTITY setJunkScore.label "Setează statutul de spam la">

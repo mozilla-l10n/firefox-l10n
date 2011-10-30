@@ -1,3 +1,19 @@
+<!--
+# Translator(s):
+#
+# nicubunu <nicubunu@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
+# evinteler <emil_vinteler2000@yahoo.com>
+# Laudatti <Laudatti@gmail.com>
+# janimo <jani@ubuntu.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
 
@@ -58,7 +74,7 @@
 <!ENTITY wrapOutMsg.accesskey                 "n">
 <!ENTITY char.label                           "caractere">
 
-<!ENTITY spellingHeader.label                 "Ortografie">
+<!ENTITY spellingHeader.label                 "Spelling">
 <!ENTITY spellCheck.label                     "Verifică ortografia înainte de a trimite">
 <!ENTITY spellCheck.accesskey                 "c">
 <!ENTITY spellCheckInline.label               "Verific ortografia pe măsură ce scrieți">

@@ -1,3 +1,17 @@
+<!--
+# Translator(s):
+#
+# evinteler <emil_vinteler2000@yahoo.com>
+# Laudatti <Laudatti@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
 
@@ -56,11 +70,11 @@
 <!ENTITY PlainTexttitle.label         "Domenii cu text simplu">
 <!ENTITY PlainTexttitle.accesskey     "p">
 <!ENTITY AddButton.label              "Adaugă…">
-<!ENTITY AddHtmlDomain.accesskey      "a">
+<!ENTITY AddHtmlDomain.accesskey      "A">
 <!ENTITY AddPlainText.accesskey       "d">
 <!ENTITY DeleteButton.label           "Șterge elementul">
-<!ENTITY DeleteHtmlDomain.accesskey   "l">
-<!ENTITY DeletePlainText.accesskey    "u">
+<!ENTITY DeleteHtmlDomain.accesskey   "e">
+<!ENTITY DeletePlainText.accesskey    "t">
 
 <!-- Add Domain Name -->
 <!ENTITY add.htmltitle                "Adaugă un nume de domeniu pentru HTML">

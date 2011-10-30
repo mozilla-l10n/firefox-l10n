@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# BuBBaX <mikebubbax@yahoo.com>
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 
 <!ENTITY  pref.policies.title "Politici de Securitate">
 
@@ -15,5 +28,5 @@
 <!ENTITY  settings.label      "Setări pentru ">
 <!ENTITY  settings.accesskey  "S">
 
-<!ENTITY  description.label   "Descrierea Politicii:">
- 
+<!ENTITY  description.label   "Descrierea Politicii:"> 
+

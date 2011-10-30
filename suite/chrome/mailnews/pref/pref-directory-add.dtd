@@ -1,3 +1,17 @@
+<!--
+# Translator(s):
+#
+# janimo <jani@ubuntu.com>
+# Alexandru Szasz <alexxed@gmail.com>
+# xdaiana <xdaiana@yahoo.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
 
@@ -49,7 +63,7 @@
 <!ENTITY directoryLogin.label              "Bind DN: ">
 <!ENTITY directoryLogin.accesskey          "i">
 <!ENTITY General.tab                       "General">
-<!ENTITY Offline.tab                       "Deconectați">
+<!ENTITY Offline.tab                       "Offline">
 <!ENTITY Advanced.tab                      "Avansat">
 <!ENTITY portNumber.label                  "Număr port:">
 <!ENTITY portNumber.accesskey              "p">
@@ -65,6 +79,13 @@
 <!ENTITY return.accesskey                  "r">
 <!ENTITY results.label                     "Rezultate">
 <!ENTITY offlineText.label                 "Puteți descărca o copie locală a acestui repertoar pentru a o avea la îndemână când nu sunteți conectat(ă) la rețea.">
+<!ENTITY saslMechanism.label               "Login method: ">
+<!ENTITY saslMechanism.accesskey           "m">
+<!ENTITY saslOff.label                     "Simple">
+<!ENTITY saslOff.accesskey		   "l">
+<!ENTITY saslGSSAPI.label                  "Kerberos (GSSAPI)">
+<!ENTITY saslGSSAPI.accesskey		   "K">
+
 <!-- Localization note: this is here because the width of the dialog 
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.

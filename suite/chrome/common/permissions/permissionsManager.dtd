@@ -1,6 +1,18 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY windowtitle.label              "Excepții">
 <!ENTITY treehead.sitename.label        "Sait">
-<!ENTITY treehead.status.label          "Situația">
+<!ENTITY treehead.status.label          "Stare">
 <!ENTITY remove.label                   "Elimină sit">
 <!ENTITY remove.accesskey               "E">
 <!ENTITY removeall.label                "Elimină toate saiturile">

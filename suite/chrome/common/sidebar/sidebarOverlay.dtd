@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# BuBBaX <mikebubbax@yahoo.com>
+# stas <stas@nerd.ro>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -37,10 +50,10 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY sidebar.panels.label           "Panoul lateral">
+<!ENTITY sidebar.panels.label           "Bară laterală">
 <!ENTITY sidebar.reload.label           "Reîncarcă">
 <!ENTITY sidebar.reload.accesskey       "R">
-<!ENTITY sidebar.picker.label           "Taburi">
+<!ENTITY sidebar.picker.label           "File">
 <!ENTITY sidebar.customize.label        "Personalizare Bara laterală">
 <!ENTITY sidebar.customize.accesskey    "P">
 <!ENTITY sidebar.hide.label             "Ascunde Fila">
@@ -63,3 +76,7 @@
 <!ENTITY sidebar.close.tooltip       "Închideți Bara Laterală">
 <!ENTITY sidebar.open.tooltip        "Deschideți Bara Laterală">
 
+<!ENTITY sidebar.search.label         "Search">
+<!ENTITY sidebar.client-bookmarks.label     "Bookmarks">
+<!ENTITY sidebar.client-history.label       "History">
+<!ENTITY sidebar.client-addressbook.label   "Address Book">

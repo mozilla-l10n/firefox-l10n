@@ -1,4 +1,19 @@
 <!--
+# Translator(s):
+#
+# Sergiu Bivol <sbivol87@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
+# strainu <crangasi2001@yahoo.com>
+# Laudatti <Laudatti@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
 # ***** BEGIN LICENSE BLOCK *****
 # Version: MPL 1.1/GPL 2.0/LGPL 2.1
 #
@@ -46,7 +61,8 @@
 <!ENTITY  selectall.key         "a">
 <!ENTITY  selectall.label       "Selectați tot">
 <!ENTITY  selectall.accesskey   "a">
-<!ENTITY  closeWindow.key       "c">
+<!ENTITY  openHelpMac.key       "?">
+<!ENTITY  closeWindow.key       "w">
 
 <!ENTITY  generalTab            "General">
 <!ENTITY  generalTab.accesskey  "G">
@@ -60,8 +76,8 @@
 <!ENTITY  generalEncoding       "Codare:">
 <!ENTITY  generalMetaName       "Denumire">
 <!ENTITY  generalMetaContent    "Conținut">
-<!ENTITY  generalSecurityMore   "Mai multe">
-<!ENTITY  generalSecurityMore.accesskey "M">
+<!ENTITY  generalSecurityDetails           "Details">
+<!ENTITY  generalSecurityDetails.accesskey "D">
 
 <!ENTITY  formsTab              "Formă">
 <!ENTITY  formsTab.accesskey    "F">
@@ -93,15 +109,15 @@
 <!ENTITY  mediaAddress          "Adresă proprie">
 <!ENTITY  mediaType             "Tip:">
 <!ENTITY  mediaSize             "Mărimea">
-<!ENTITY  mediaCount            "Numără">
+<!ENTITY  mediaCount            "Count">
 <!ENTITY  mediaDimensions       "Dimensiuni specificate:">
 <!ENTITY  mediaPhysDimensions   "Dimensiuni reale:">
 <!ENTITY  mediaTitle            "Denumire:">
 <!ENTITY  mediaLongdesc         "Descriere lungă:">
-<!ENTITY  mediaBlockImage.accesskey "R">
+<!ENTITY  mediaBlockImage.accesskey "B">
 <!ENTITY  mediaSaveAs           "Salvează ca…">
 <!ENTITY  mediaSaveAs.accesskey "a">
-<!ENTITY  mediaSaveAs2.accesskey "l">
+<!ENTITY  mediaSaveAs2.accesskey "e">
 <!ENTITY  mediaPreview          "Previzualizare media:">
 
 <!ENTITY  feedTab               "Feed-uri">
@@ -112,6 +128,7 @@
 <!ENTITY  permTab               "Permisiuni">
 <!ENTITY  permTab.accesskey     "P">
 <!ENTITY  permUseDefault        "Folosește setările implicite">
+<!ENTITY  permAskAlways         "Always ask">
 <!ENTITY  permAllow             "Permite">
 <!ENTITY  permAllowSession      "Permite pentru sesiune">
 <!ENTITY  permBlock             "Blochează">
@@ -120,6 +137,7 @@
 <!ENTITY  permPopup             "Deschide ferestrele popup">
 <!ENTITY  permCookie            "Setează cookie-uri">
 <!ENTITY  permInstall           "Instalează extensii sau teme">
+<!ENTITY  permGeo               "Share Location">
 
 <!ENTITY  securityTab           "Securitate">
 <!ENTITY  securityTab.accesskey "S">
@@ -130,9 +148,9 @@
 
 
 <!ENTITY  securityView.identity.header   "Identitate sait web">
-<!ENTITY  securityView.identity.owner    "Proprietar:">
+<!ENTITY  securityView.identity.owner    "Owner: ">
 <!ENTITY  securityView.identity.domain   "Sait web:">
-<!ENTITY  securityView.identity.verifier "Verificat de:">
+<!ENTITY  securityView.identity.verifier "Verified by: ">
 
 <!ENTITY  securityView.privacy.header                   "Intimitate și istoric">
 <!ENTITY  securityView.privacy.history                  "Am mai vizitat acest sait astăzi?">

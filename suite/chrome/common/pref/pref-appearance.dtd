@@ -1,6 +1,12 @@
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!--LOCALIZATION NOTE : FILE The Appearance prefs dialog.  -->
 
-<!ENTITY pref.appearance.title "Franța">
+<!ENTITY pref.appearance.title "Aspect">
 <!--LOCALIZATION NOTE (onStartLegend.label): Don't translate "&brandShortName;".
     Place &brandShortName; in the phrase where the name of the application should appear
 -->

@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# BuBBaX <mikebubbax@yahoo.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -35,5 +47,5 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY askViewZoom.title "Mărime text">
+<!ENTITY askViewZoom.title "Panoramează">
 <!ENTITY selectZoom.label "Selectați mărire (&#37;):">

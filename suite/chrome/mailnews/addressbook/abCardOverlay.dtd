@@ -1,3 +1,19 @@
+<!--
+# Translator(s):
+#
+# nicubunu <nicubunu@gmail.com>
+# Sergiu Bivol <sbivol87@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
+# janimo <jani@ubuntu.com>
+# iulianv <iulianv@email.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
 
@@ -36,7 +52,7 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY Contact.tab                     "Contact">
-<!ENTITY Contact.accesskey               "A">
+<!ENTITY Contact.accesskey               "C">
 <!ENTITY Name.box                        "Denumire">
 
 <!-- LOCALIZATION NOTE:
@@ -79,9 +95,13 @@
 <!ENTITY ScreenName.label               "Nume afișat:">
 <!ENTITY ScreenName.accesskey           "N">
 
-<!ENTITY allowRemoteContent.label       "Allow remote images in HTML mail.">
-<!ENTITY allowRemoteContent.accesskey   "w">
-<!ENTITY allowRemoteContent.tooltip     "În mesajele HTML e posibil să înglobați imagini din surse de la distanță. Deschiderea unor astfel de mesaje necesită conexiunea la aceste surse aflate la distanță. Acest lucru poate divulga faptul că ați citit mesajul. Dacă bifați această opțiune, veți permite încărcarea unor astfel de imagini din mesajele primite de la această persoană de contact.">
+<!ENTITY allowRemoteContent1.label      "Allow remote content.">
+<!ENTITY allowRemoteContent1.accesskey  "r">
+<!ENTITY allowRemoteContent1.tooltip    "In HTML messages it is possible to
+embed content from remote sources. Opening such a message will open a
+connection to this external source. This may allow tracking of the
+message being read. Checking this box will allow such external embedded
+content in HTML messages from this contact.">
 
 <!ENTITY WorkPhone.label                "Lucru:">
 <!ENTITY WorkPhone.accesskey            "L">
@@ -113,9 +133,9 @@
 <!ENTITY Birthday.label                 "Zi de naștere:">
 <!ENTITY Birthday.accesskey             "Z">
 <!ENTITY In.label                       "">
-<!ENTITY Year.emptytext                 "Anul">
+<!ENTITY Year.placeholder               "Year">
 <!ENTITY Or.value                       "sau">
-<!ENTITY Age.emptytext                  "Vârsta">
+<!ENTITY Age.placeholder                "Age">
 <!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Lucru">
@@ -141,8 +161,8 @@
 <!ENTITY WorkWebPage.label              "Pagină web:">
 <!ENTITY WorkWebPage.accesskey          "e">
 
-<!ENTITY Other.tab                      "Alta">
-<!ENTITY Other.accesskey                "z">
+<!ENTITY Other.tab                      "Other">
+<!ENTITY Other.accesskey                "h">
 <!ENTITY Custom1.label                  "Personalizat 1:">
 <!ENTITY Custom1.accesskey              "1">
 <!ENTITY Custom2.label                  "Personalizat 2:">
@@ -153,3 +173,19 @@
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "Note:">
 <!ENTITY Notes.accesskey                "N">
+
+<!ENTITY Photo.tab                      "Photo">
+<!ENTITY Photo.accesskey                "o">
+<!ENTITY PhotoDesc.label                "Pick one of the following:">
+<!ENTITY GenericPhoto.label             "Generic Photo">
+<!ENTITY GenericPhoto.accesskey         "G">
+<!ENTITY DefaultPhoto.label             "Default">
+<!ENTITY PhotoFile.label                "On this Computer">
+<!ENTITY PhotoFile.accesskey            "n">
+<!ENTITY BrowsePhoto.label              "Browse">
+<!ENTITY BrowsePhoto.accesskey          "r">
+<!ENTITY PhotoURL.label                 "On the Web">
+<!ENTITY PhotoURL.accesskey             "b">
+<!ENTITY PhotoURL.placeholder           "Paste or type the web address of a photo">
+<!ENTITY UpdatePhoto.label              "Update">
+<!ENTITY UpdatePhoto.accesskey          "U">

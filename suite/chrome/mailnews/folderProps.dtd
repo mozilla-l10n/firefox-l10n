@@ -1,3 +1,17 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# Sergiu Bivol <sbivol87@gmail.com>
+# manuelciosici <manuelrciosici@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -45,13 +59,16 @@
 <!ENTITY folderCharsetTab.accesskey              "e">
 <!ENTITY folderCharsetOverride.label             "Aplică această codare implicit tuturor mesajelor din dosar (se vor ignora setările din mesaje precum și detecția automată)">
 <!ENTITY folderCharsetOverride.accesskey         "A">
-<!ENTITY folderRebuildSummaryFile.label          "Reconstruiește fișierul sumar">
-<!ENTITY folderRebuildSummaryFile.accesskey      "R">
-<!ENTITY folderRebuildSummaryFileTip.label       "Reconstruiește fișierul sumar">
+<!ENTITY folderRebuildSummaryFileTip2.label      "Rebuild Summary File Index">
+<!ENTITY folderRebuildSummaryFile2.label         "Repair Folder">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "R">
+<!ENTITY folderRebuildSummaryFile.explanation    "Sometimes the folder index (.msf) file becomes damaged and messages may appear missing or deleted messages continue showing; repairing the folder may fix these issues.">
+<!ENTITY folderIncludeInGlobalSearch.label       "Include messages in this folder in Global Search results">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "G">
 
 <!ENTITY retention.label "Politica de păstrare">
-<!ENTITY retentionUseDefault.label "Utilizează setările implicite ale serverului">
-<!ENTITY retentionUseDefault.accesskey "U">
+<!ENTITY retentionUseAccount.label "Use my account settings">
+<!ENTITY retentionUseAccount.accesskey "U">
 <!ENTITY daysOld.label "zile">
 <!ENTITY message.label "mesaj">
 <!ENTITY retentionCleanup.label "Keep messages:">
@@ -61,16 +78,16 @@
 <!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "All messages">
 <!ENTITY retentionKeepAll.accesskey "A">
-<!ENTITY retentionKeepNew.label "The newest">
-<!ENTITY retentionKeepNew.accesskey "n">
-<!ENTITY retentionKeepUnread.label "Only unread messages">
-<!ENTITY retentionKeepUnread.accesskey "u">
+<!ENTITY retentionKeepRecent.label "The newest">
+<!ENTITY retentionKeepRecent.accesskey "n">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Always delete read messages (overrides age settings)">
 <!ENTITY retentionApplyToFlagged.label "Always keep flagged messages">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
-<!ENTITY folderOfflineTab.label                  "Deconectați">
-<!ENTITY folderCheckForNewMessages.label         "Verifică dacă sunt mesaje noi în acest dosar">
-<!ENTITY folderCheckForNewMessages.accesskey     "c">
+<!ENTITY folderSynchronizationTab.label          "Synchronization">
+<!ENTITY folderCheckForNewMessages2.label        "When getting new messages for this account, always check this folder">
+<!ENTITY folderCheckForNewMessages2.accesskey    "c">
 
 <!ENTITY offlineFolder.check.label               "Selectează acest dosar pentru utilizare în mod deconectat">
 <!ENTITY offlineFolder.check.accesskey           "S">
@@ -96,4 +113,4 @@
 <!ENTITY folderQuotaTab.label                    "Cotă">
 <!ENTITY folderQuotaRoot.label                   "Rădăcină cotă:">
 <!ENTITY folderQuotaUsage.label                  "Utilizare:">
-<!ENTITY folderQuotaStatus.label                 "Stare:">
+<!ENTITY folderQuotaStatus.label                 "Status:">

@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -37,6 +49,11 @@
 
 <!--LOCALIZATION NOTE : FILE 'Privacy and Security' prefs settings -->
 <!ENTITY pref.security.title              "Intimitate și securitate">
+
+<!ENTITY tracking.label                   "User Tracking">
+<!ENTITY doNotTrack.label                 "Tell web sites I do not want to be tracked">
+<!ENTITY doNotTrack.accesskey             "T">
+
 <!ENTITY privateData.label                "Date private">
 
 <!ENTITY alwaysClear.label                "Șterge datele private de fiecare dată când închid &brandShortName;">
@@ -52,5 +69,5 @@
   The same accesskey is used for both labels.
 -->
 <!ENTITY clearDataDialog.label            "Șterge acum...">
-<!ENTITY clearDataSilent.label            "Șterge acum">
+<!ENTITY clearDataSilent.label            "Curăță acum">
 <!ENTITY clearDataDialog.accesskey        "t">

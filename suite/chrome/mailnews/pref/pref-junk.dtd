@@ -1,3 +1,17 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# turcan <nicturcan@gmail.com>
+# Laudatti <Laudatti@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -34,7 +48,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.junk.title "Spam">
+<!ENTITY pref.junk.title "Junk Mail">
 <!ENTITY junkSettings.caption "Global Junk Mail Settings">
 <!ENTITY junkMail.intro "Goto Account Settings to configure account specific junk mail settings.">
 
@@ -57,4 +71,16 @@
 <!ENTITY openJunkLog.label              "Arată jurnalul">
 <!ENTITY openJunkLog.accesskey          "A">
 <!ENTITY resetTrainingData.label        "Reset training data">
-<!ENTITY resetTrainingData.accesskey    "t">
+<!ENTITY resetTrainingData.accesskey    "R">
+
+<!ENTITY pref.suspectMail.caption       "Suspect Mail">
+
+<!-- Phishing Detector -->
+<!ENTITY pref.phishing.caption            "E-mail Scams">
+<!ENTITY enablePhishingDetector.label     "Tell me if the message I'm reading is a suspected email scam">
+<!ENTITY enablePhishingDetector.accesskey "T">
+
+<!-- Anti Virus -->
+<!ENTITY pref.antivirus.caption           "Anti-Virus">
+<!ENTITY antiVirus.label                  "Allow anti-virus clients to scan incoming messages more easily">
+<!ENTITY antiVirus.accesskey              "A">

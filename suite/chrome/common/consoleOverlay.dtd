@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# BuBBaX <mikebubbax@yahoo.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
 
@@ -35,7 +48,7 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY menuBar.tooltip       "Bară meniu">
+<!ENTITY menuBar.tooltip       "Bara meniului">
 <!ENTITY modeToolbar.tooltip   "Bara de unelte pentru moduri">
 <!ENTITY entryToolbar.tooltip  "Javascript Entry Toolbar">
 <!ENTITY toolbarsCmd.label     "Arată/Ascunde">
@@ -45,9 +58,9 @@
 <!ENTITY toolbarEval.label     "JavaScript Entry">
 <!ENTITY toolbarEval.accesskey "J">
 
-<!ENTITY all.accesskey         "a">
-<!ENTITY errors.accesskey      "d">
+<!ENTITY all.accesskey         "A">
+<!ENTITY errors.accesskey      "r">
 <!ENTITY warnings.accesskey    "n">
-<!ENTITY messages.accesskey    "p">
-<!ENTITY clear.accesskey       "g">
+<!ENTITY messages.accesskey    "M">
+<!ENTITY clear.accesskey       "l">
 <!ENTITY evaluate.accesskey    "u">

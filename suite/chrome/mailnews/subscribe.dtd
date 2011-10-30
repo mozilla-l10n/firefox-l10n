@@ -1,3 +1,17 @@
+<!--
+# Translator(s):
+#
+# Laudatti <Laudatti@gmail.com>
+# stas <stas@nerd.ro>
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
 
@@ -50,6 +64,6 @@
 <!ENTITY server.accesskey             "C">
 <!ENTITY subscribedHeader.label       "Subscrie">
 <!-- commenting out until bug 38906 is fixed 
-<!ENTITY messagesHeader.label         "Mesaje"> -->
+--><!ENTITY messagesHeader.label         "Mesaje"> 
 <!ENTITY namefield.label              "Arată grupurile care conțin:">
 <!ENTITY namefield.accesskey          "A">
