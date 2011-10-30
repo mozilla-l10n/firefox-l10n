@@ -6,6 +6,12 @@
 # Laudatti <Laudatti@gmail.com>
 #
 -->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "Minimizează">
 <!ENTITY bringAllToFront.label    "Adu toate în față">

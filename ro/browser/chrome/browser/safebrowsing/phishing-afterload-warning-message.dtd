@@ -4,6 +4,12 @@
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY safeb.palm.warning.title "Suspiciune de contrafacere web">
 
 <!ENTITY safeb.palm.message.p1 "Această pagină a fost raportată ca o contrafacere web pentru a păcăli utilizatorii să furnizeze informații personale sau financiare. Introducerea oricărei informații personale pe această pagină poate rezulta în furt de identitate sau altă fraudă. &#160;">

@@ -5,6 +5,12 @@
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- LOCALIZATION NOTE (tabs.otherComputers.label): Keep this in sync with syncTabsMenu.label from browser.dtd -->
 <!ENTITY tabs.otherComputers.label               "File de pe alte calculatoare">
 
