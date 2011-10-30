@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# Laudatti <Laudatti@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -49,6 +62,3 @@
 <!ENTITY pref.defaultlength.accesskey "e">
 <!ENTITY pref.defaultsnoozelength.label "Durata implicită a amânării alarmei:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "D">
-<!ENTITY pref.refreshbox.label "Reîncarcă setările" >
-<!ENTITY pref.autorefresh.label "Reîncarcă calendarele la fiecare" >
-<!ENTITY pref.autorefresh.accesskey "R" >
