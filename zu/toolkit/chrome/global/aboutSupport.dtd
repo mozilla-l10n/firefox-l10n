@@ -1,9 +1,11 @@
 <!ENTITY aboutSupport.pageTitle "Imininingwane yokuxazululwa kwezinkinga">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "  Leli khasi liqukethe ulwazi olunzima olungahle lukusize uma
-uzama ukuxazulula inkinga. Uma ufuna izimpendulo zemibuzo ejwayelekile 
-mayelana ne-&brandShortName;, hlola i-<a id='supportLink'>support web site</a>.">
+<!ENTITY aboutSupport.pageSubtitle "
+  This page contains technical information that might be useful when you're
+  trying to solve a problem. If you are looking for answers to common questions
+  about &brandShortName;, check out our <a id='supportLink'>support website</a>.
+">
 
 <!ENTITY aboutSupport.extensionsTitle "Izithasiselo">
 <!ENTITY aboutSupport.extensionName "Igama">
@@ -18,6 +20,8 @@ mayelana ne-&brandShortName;, hlola i-<a id='supportLink'>support web site</a>."
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Yenza kusebenze okuxhunyaniswayo">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Ukuhlelwa kokulungisa">
 <!ENTITY aboutSupport.appBasicsUserAgent "Ummeli womsebenzisi">
+<!ENTITY aboutSupport.appBasicsCrashIDs "Crash Reports">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Memory Use">
 
 <!ENTITY aboutSupport.show.label "Vula ifolda equkethe">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific

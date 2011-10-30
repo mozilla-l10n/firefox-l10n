@@ -20,7 +20,7 @@
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "Thola okwengeziwe Ngokufakwa Emapulagini noma uzitholele ngesandla obekungekho.">
 <!ENTITY pluginWizard.finalPage.restart.label                "I-&brandShortName; idinga ukuqalwa kabusha ukuze okufakwa emapulagini kusebenze.">
 
-<!ENTITY missingPlugin                                       "I-Plugin liyadingeka ukubonisa lokhu okuqukethwe.">
+<!ENTITY missingPlugin                                       "I-plugin liyadingeka ukubonisa lokhu okuqukethwe.">
 <!ENTITY disabledPlugin                                      "I-Plugin likhutshaziwe.">
 <!ENTITY blockedPlugin.label                                 "Le plugin ivinjelwe ukuvikeleka kwakho.">
 

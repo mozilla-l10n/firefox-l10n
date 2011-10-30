@@ -13,9 +13,10 @@
 <!ENTITY manageAccount.label          "Phatha i-akhawunti">
 <!ENTITY manageAccount.accesskey      "i">
 <!ENTITY viewQuota.label              "Bheka i-quota">
-<!ENTITY changePassword.label         "Shintsha igama lokungena">
-<!ENTITY mySyncKey.label              "Isikhiya sami se-Sync">
-<!ENTITY resetSync.label              "Misa kabusha i-Sync">
+<!ENTITY changePassword2.label        "Shintsha igama lokungena…">
+<!ENTITY myRecoveryKey.label          "Ukhiye wami Wokubuyisela">
+<!ENTITY resetSync2.label             "Misa kabusha i-Sync…">
+
 <!ENTITY addDevice.label              "Yengeza isisetshenziswa">
 
 <!ENTITY syncMy.label               "Faka ku-sync">
@@ -33,7 +34,7 @@
 
 <!ENTITY syncComputerName.label       "Igama lekhompyutha:">
 <!ENTITY syncComputerName.accesskey   "k">
-<!ENTITY deactivateDevice.label       "Yenza lesi sisetshenziswa singasebenzi">
+<!ENTITY unlinkDevice.label           "Hlukanisa lesi sisetshenziswa">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "Imigomo yokusebenza">

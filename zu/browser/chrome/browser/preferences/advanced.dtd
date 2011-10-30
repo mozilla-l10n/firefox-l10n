@@ -8,7 +8,7 @@
 <!ENTITY useCursorNavigation.accesskey   "z">
 <!ENTITY searchStartTyping.label         "Sesha imibhalo uma ngiqala ukuthayipha">
 <!ENTITY searchStartTyping.accesskey     "b">
-<!ENTITY blockAutoRefresh.label          "Mangixwayiswe uma amawebhusayithi azama akuqondisa kabusha noma ukulayisha futhi ikhasi">
+<!ENTITY blockAutoRefresh.label          "Warn me when websites try to redirect or reload the page">
 <!ENTITY blockAutoRefresh.accesskey      "b">
 
 <!ENTITY browsing.label                  "Ukudlulisa amehlo">
@@ -17,8 +17,8 @@
 <!ENTITY useAutoScroll.accesskey         "o">
 <!ENTITY useSmoothScrolling.label        "Sebenzisa ukwehla wenyuka okushelelayo">
 <!ENTITY useSmoothScrolling.accesskey    "k">
-<!ENTITY allowHWAccel.label              "Sebenzisa ukusheshisa kwehadiwe uma kukhona">
-<!ENTITY allowHWAccel.accesskey          "h">
+<!ENTITY allowHWAccel.label              "Use hardware acceleration when available">
+<!ENTITY allowHWAccel.accesskey          "r">
 <!ENTITY checkSpelling.label             "Hlola ukupeleta kwami uma ngithayipha">
 <!ENTITY checkSpelling.accesskey         "t">
 
@@ -64,8 +64,8 @@
 <!ENTITY enableAppUpdate.accesskey       "F">
 <!ENTITY enableAddonsUpdate2.label       "Okungangezwa">
 <!ENTITY enableAddonsUpdate2.accesskey   "u">
-<!ENTITY enableSearchUpdate.label        "Izinjini zokusesha">
-<!ENTITY enableSearchUpdate.accesskey    "i">
+<!ENTITY enableSearchUpdate.label        "Search Engines">
+<!ENTITY enableSearchUpdate.accesskey    "E">
 <!ENTITY whenUpdatesFound.label          "Uma kutholakala ukulungiswa ku-&brandShortName;:">
 <!ENTITY askMe.label                     "Ngibuze ukuthi ngifuna ukwenzani">
 <!ENTITY askMe.accesskey                 "N">

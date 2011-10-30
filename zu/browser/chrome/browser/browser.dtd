@@ -111,6 +111,8 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "Phambili">
 <!ENTITY forwardCmd.accesskey         "P">
 <!ENTITY forwardButton.tooltip        "Yiya phambili ngekhasi elilodwa">
+<!ENTITY backForwardButtonMenu.tooltip "Qhofoza ngakwesokudla noma donsela phansi ukubonisa umlando">
+<!ENTITY backForwardButtonMenuMac.tooltip "Donesla phansi ukubonisa umlando">
 <!ENTITY reloadCmd.label              "Phinda ulayishe">
 <!ENTITY reloadCmd.accesskey          "P">
 <!ENTITY reloadButton.tooltip         "Phinda ulayishe leli khasi">
@@ -191,6 +193,9 @@ can reach it easily. -->
 <!ENTITY inspectMenu.label            "Hlola">
 <!ENTITY inspectMenu.accesskey        "a">
 <!ENTITY inspectMenu.commandkey       "I">
+
+<!ENTITY inspectContextMenu.label     "Ngamela i-elementi">
+<!ENTITY inspectContextMenu.accesskey "Q">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -294,7 +299,7 @@ can reach it easily. -->
 <!ENTITY appMenuSafeMode.accesskey "Q">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder           "Hamba kuwebhusayithi">
+<!ENTITY urlbar.placeholder           "Iya kuwebhusayithi">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Shintshela kumaki:">
 <!-- 
@@ -307,6 +312,7 @@ can reach it easily. -->
   Mac:  Cmd+K (cross platform binding)
         Cmd+Opt+F (platform convention)
   Win:  Ctrl+K (cross platform binding)
+        Ctrl+E (IE compat)
 
   We support Ctrl+K on all platforms now and advertise it in the menu since it is
   our standard - it is a "safe" choice since it is near no harmful keys like "W" as
@@ -318,6 +324,7 @@ can reach it easily. -->
  -->
 
 <!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
 <!ENTITY tabView.commandkey           "e">
@@ -489,7 +496,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Isitayela sekhasi esiyinhloko">
 <!ENTITY pageStylePersistentOnly.accesskey "I">
 
-<!ENTITY pageReportIcon.tooltip            "Shintsha ukuhlelwa kokuvimbela okuqhamuka esikhaleni kule ngosi">
+<!ENTITY pageReportIcon.tooltip            "Shintsha ukuhlelwa kokuvimbela okuqhamuka esikhaleni kule webhusayithi">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
