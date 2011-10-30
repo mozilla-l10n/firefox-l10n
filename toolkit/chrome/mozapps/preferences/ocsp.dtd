@@ -1,3 +1,9 @@
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY ocspDialog.title             "Validare de certificate">
 <!ENTITY enableOCSP.label             "Folosește OCSP (protocolul de verificare a stării unui certificat online) pentru a confirma validitatea certificatelor">
 <!ENTITY enableOCSP.accesskey         "u">

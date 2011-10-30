@@ -4,6 +4,12 @@
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY header.label     "Titlu scurt"> 
 <!ENTITY message.label    "Aici vine o mostră de text.">
 <!ENTITY editfield0.label "Nume utilizator:"> 
