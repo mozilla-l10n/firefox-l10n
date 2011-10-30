@@ -58,22 +58,25 @@
 
 <!ENTITY updateTab.label                 "Actualizar">
 
-<!ENTITY autoCheck.label                 "Buscar automaticamente actualizacións para:">
-<!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate2.label       "Complementos">
-<!ENTITY enableAddonsUpdate2.accesskey   "C">
-<!ENTITY enableSearchUpdate.label        "Buscadores">
-<!ENTITY enableSearchUpdate.accesskey    "B">
-<!ENTITY whenUpdatesFound.label          "Ao encontrar actualizacións para &brandShortName;:">
-<!ENTITY askMe.label                     "Preguntarme que quero facer">
-<!ENTITY askMe.accesskey                 "r">
-<!ENTITY modeAutomatic.label             "Descargar e instalar automaticamente a actualización">
-<!ENTITY modeAutomatic.accesskey         "D">
-<!ENTITY modeAutoAddonWarn.label         "Avisarme se isto desactivase algún dos meus complementos">
-<!ENTITY modeAutoAddonWarn.accesskey     "A">
+<!ENTITY updateApp.label                 "Actualizacións do &brandShortName;:">
+<!ENTITY updateAuto.label                "Instalar actualizacións automaticamente (recomendado para a súa seguranza)">
+<!ENTITY updateAuto.accesskey            "a">
+<!ENTITY updateCheck.label               "Buscar actualizacións, pero permitirme escoller se quero instalalas">
+<!ENTITY updateCheck.accesskey           "c">
+<!ENTITY updateManual.label              "Non buscar actualizacións (non recomendado: risco de seguranza)">
+<!ENTITY updateManual.accesskey          "N">
+
+<!ENTITY updateAutoAddonWarn.label       "Avisarme se isto desactiva algúns dos complementos">
+<!ENTITY updateAutoAddonWarn.accesskey   "v">
+
 <!ENTITY updateHistory.label             "Mostrar historial de actualización">
 <!ENTITY updateHistory.accesskey         "z">
+
+<!ENTITY updateOthers.label              "Actualizar automaticamente:">
+<!ENTITY enableAddonsUpdate3.label       "Complementos">
+<!ENTITY enableAddonsUpdate3.accesskey   "o">
+<!ENTITY enableSearchUpdate.label        "Buscadores">
+<!ENTITY enableSearchUpdate.accesskey    "B">
 
 <!ENTITY offlineNotify.label             "Informarme cando un sitio web solicita o almacenamento de datos para a utilización sen conexión">
 <!ENTITY offlineNotify.accesskey         "I">
