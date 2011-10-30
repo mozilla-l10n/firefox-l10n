@@ -25,6 +25,9 @@
 
 <!-- General Settings -->
 
+<!ENTITY submitTelemetry.label         "Submit Performance Data">
+<!ENTITY submitTelemetry.accesskey     "P">
+<!ENTITY telemetryInfoLink.label       "More information about Telemetry">
 <!ENTITY enableGlodaSearch.label       "Activează căutarea globală și indexarea">
 <!ENTITY enableGlodaSearch.accesskey   "i">
 <!ENTITY systemIntegration.label       "Integrare cu sistemul">
@@ -125,5 +128,3 @@
 <!ENTITY validation.accesskey           "d">
 <!ENTITY viewSecurityDevices.label      "Dispozitive de securitate">
 <!ENTITY viewSecurityDevices.accesskey  "u">
-
-

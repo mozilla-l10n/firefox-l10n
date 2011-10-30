@@ -4,7 +4,6 @@
 # evinteler <emil_vinteler2000@yahoo.com>
 # Alexandru Szasz <alexxed@gmail.com>
 # Laudatti <Laudatti@gmail.com>
-# Lucian Oprea <oprea.luci@gmail.com>
 #
 -->
 <!--
@@ -46,5 +45,3 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.search.commandkey            "k">
 
 <!ENTITY searchBox.label                  "Caută…">
-
-

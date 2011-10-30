@@ -52,7 +52,7 @@
 <!ENTITY newGroupsTab.accesskey       "n">
 <!ENTITY refreshButton.label          "Actualizare">
 <!ENTITY refreshButton.accesskey      "u">
-<!ENTITY stopButton.label             "Opreşte">
+<!ENTITY stopButton.label             "Oprește">
 <!ENTITY stopButton.accesskey         "t">
 <!ENTITY server.label                 "Cont:">
 <!ENTITY server.accesskey             "C">
@@ -61,5 +61,3 @@
 --><!ENTITY messagesHeader.label         "Mesaje"> 
 <!ENTITY namefield.label              "Arată grupurile care conțin:">
 <!ENTITY namefield.accesskey          "r">
-
-

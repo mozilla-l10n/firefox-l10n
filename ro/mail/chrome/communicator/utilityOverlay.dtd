@@ -3,7 +3,6 @@
 #
 # Alexandru Szasz <alexxed@gmail.com>
 # janimo <jani@ubuntu.com>
-# Lucian Oprea <oprea.luci@gmail.com>
 #
 -->
 <!--
@@ -16,7 +15,7 @@
 
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
-<!ENTITY fileMenu.label          "Fişier">
+<!ENTITY fileMenu.label          "Fișier">
 <!ENTITY fileMenu.accesskey        "F">
 <!ENTITY newMenu.label            "Adaugă">
 <!ENTITY newMenu.accesskey          "A">
@@ -35,7 +34,7 @@
 <!ENTITY copyCmd.label            "Copiați">
 <!ENTITY copyCmd.key            "C">
 <!ENTITY copyCmd.accesskey          "C">
-<!ENTITY pasteCmd.label            "Lipeşte">
+<!ENTITY pasteCmd.label            "Lipește">
 <!ENTITY pasteCmd.key            "v">
 <!ENTITY pasteCmd.accesskey          "L">
 <!ENTITY deleteCmd.label          "Șterge">
@@ -45,7 +44,7 @@
 <!ENTITY selectAllCmd.accesskey        "o">
 <!ENTITY preferencesCmd.label        "Opțiuni…">
 <!ENTITY preferencesCmd.accesskey      "O">
-<!ENTITY preferencesCmdUnix.label       "Preferinţe">
+<!ENTITY preferencesCmdUnix.label       "Preferințe">
 <!ENTITY preferencesCmdUnix.accesskey     "e">
 
 <!ENTITY viewMenu.label          "Vizualizați">
@@ -62,7 +61,7 @@
 <!ENTITY closeCmd.key      "w">
 <!ENTITY closeCmd.accesskey    "c">
 
-<!ENTITY quitApplicationCmd.label  "Ieşire">
+<!ENTITY quitApplicationCmd.label  "Ieșire">
 <!ENTITY quitApplicationCmd.key    "Q">
 <!ENTITY quitApplicationCmd.accesskey  "I">
 
@@ -71,5 +70,3 @@
 
 <!ENTITY quitApplicationCmdMac.label  "Ieșire">
 <!ENTITY quitApplicationCmdMac.accesskey  "I">
-
-

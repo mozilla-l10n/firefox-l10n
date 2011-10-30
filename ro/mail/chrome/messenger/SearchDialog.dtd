@@ -19,7 +19,7 @@
 <!ENTITY searchSubfolders.accesskey  "e">
 <!ENTITY searchOnServer.label        "Rulează căutarea pe server">
 <!ENTITY searchOnServer.accesskey    "u">
-<!ENTITY resetButton.label           "Curăţire">
+<!ENTITY resetButton.label           "Curățire">
 <!ENTITY resetButton.accesskey       "C">
 <!ENTITY openButton.label            "Deschis">
 <!ENTITY openButton.accesskey        "D">
@@ -29,7 +29,7 @@
 <!ENTITY results.label               "Rezultate">
 <!ENTITY fileHereMenu.label          "Îndosariază aici">
 <!ENTITY fileHereMenu.accesskey      "n">
-<!ENTITY fileButton.label            "Fişier">
+<!ENTITY fileButton.label            "Fișier">
 <!ENTITY fileButton.accesskey        "F">
 <!ENTITY closeCmd.key                "w"> 
 <!ENTITY openInFolder.label          "Deschide în dosar">
@@ -40,7 +40,7 @@
 <!-- for ABSearchDialog.xul -->
 <!ENTITY abSearchHeading.label       "Caută în:">
 <!ENTITY abSearchHeading.accesskey   "C">
-<!ENTITY propertiesButton.label      "Proprietăţi">
+<!ENTITY propertiesButton.label      "Proprietăți">
 <!ENTITY propertiesButton.accesskey  "P">
 <!ENTITY composeButton.label         "Scriere">
 <!ENTITY composeButton.accesskey     "S">
@@ -86,5 +86,3 @@
 <!ENTITY starredColumn.tooltip "Clic pentru a sorta după steluță">
 <!ENTITY locationColumn.tooltip "Clic pentru a sorta după amplasare">
 <!ENTITY idColumn.tooltip "Clic pentru a sorta după ordinea în care au fost primite">
-
-

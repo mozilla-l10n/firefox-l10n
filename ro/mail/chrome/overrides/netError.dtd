@@ -3,7 +3,7 @@
 #
 # janimo <jani@ubuntu.com>
 # Alexandru Szasz <alexxed@gmail.com>
-# stelistcristi <stelistcristi@yahoo.com>
+# Cristian Silaghi <stelistcristi@yahoo.com>
 # raulmalea <raul.malea@gmail.com>
 # Vestitorul <vestitorul@yahoo.com>
 #
@@ -136,5 +136,3 @@ functionality specific to thunderbird. -->
 
 <!ENTITY remoteXUL.title "Remote XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Vă rugăm să contactați proprietarii websaitului pentru a-i informa despre această problemă.</li></ul></p>">
-
-

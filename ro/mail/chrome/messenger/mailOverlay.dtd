@@ -13,9 +13,7 @@
 <!ENTITY  newMessageCmd2.key              "N">
 <!ENTITY  newMessageCmd.key               "M">
 <!ENTITY  newMessageCmd.label             "Mesaj">
-<!ENTITY  newMessageCmd.accesskey         "m">
+<!ENTITY  newMessageCmd.accesskey         "M">
  
 <!ENTITY  newContactCmd.label             "Contact în agendă…">
 <!ENTITY  newContactCmd.accesskey         "C">
-
-

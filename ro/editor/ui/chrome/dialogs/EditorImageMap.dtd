@@ -57,9 +57,9 @@
 
 <!-- Menu Items -->
 <!-- File menu -->
-<!ENTITY mapfileMenu.label "Fişier">
+<!ENTITY mapfileMenu.label "Fișier">
 <!ENTITY mapfileMenu.accesskey "F">
-<!ENTITY clearCmd.label "Curăţire">
+<!ENTITY clearCmd.label "Curățire">
 <!ENTITY clearCmd.accesskey "C">
 <!ENTITY closeCmd.label "Închide">
 <!ENTITY closeCmd.accesskey "n">
@@ -71,7 +71,7 @@
 <!ENTITY cutCmd.accesskey "T">
 <!ENTITY copyCmd.label "Copiați">
 <!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "Lipeşte">
+<!ENTITY pasteCmd.label "Lipește">
 <!ENTITY pasteCmd.accesskey "L">
 <!ENTITY selectallCmd.label "Selectează _tot">
 <!ENTITY selectallCmd.accesskey "S">
@@ -105,5 +105,3 @@
 <!ENTITY paste.key "p">
 <!ENTITY props.key "P">
 <!ENTITY tbar.key "t">
-
-

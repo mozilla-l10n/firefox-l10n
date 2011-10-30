@@ -19,7 +19,8 @@
 <!ENTITY email.accesskey "d">
 <!ENTITY replyTo.label "Adresă pentru răspuns:">
 <!ENTITY replyTo.accesskey "s">
-<!ENTITY organization.label "Organizaţie:">
+<!ENTITY replyTo.placeholder "Recipients will reply to this other address">
+<!ENTITY organization.label "Organizație:">
 <!ENTITY organization.accesskey "O">
 <!ENTITY signatureText.label "Textul semnăturii:">
 <!ENTITY signatureText.accesskey "x">
@@ -43,5 +44,3 @@
 <!ENTITY smtpName.label "Server de trimitere (SMTP):">
 <!ENTITY smtpName.accesskey "t">
 <!ENTITY smtpDefaultServer.label "Folosește serverul implicit">
-
-

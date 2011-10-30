@@ -36,7 +36,7 @@
 <!ENTITY bottomLinks.rights         "Drepturile utilizatorului final">
 
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
-<!ENTITY bottomLinks.privacy        "Politică de confidențialite">
+<!ENTITY bottomLinks.privacy        "Politică de confidențialitate">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingForUpdates  "Se caută actualizări…">
@@ -52,7 +52,7 @@
      one line with linkText being wrapped in an anchor that links to a site to download
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.failed.start        "Actualizare eşuată. ">
+<!ENTITY update.failed.start        "Actualizare eșuată. ">
 <!ENTITY update.failed.linkText     "Descărcați cea mai recentă versiune">
 <!ENTITY update.failed.end          "">
 
@@ -79,5 +79,3 @@
 <!ENTITY channel.description.end    " ca sursă de actualizare. ">
 
 <!ENTITY cmdCloseMac.commandKey "w">
-
-

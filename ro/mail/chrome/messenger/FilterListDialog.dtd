@@ -31,7 +31,7 @@
 <!ENTITY viewLogButton.accesskey "J">
 <!ENTITY runFilters.label "Rulează acum">
 <!ENTITY runFilters.accesskey "R">
-<!ENTITY stopFilters.label "Opreşte">
+<!ENTITY stopFilters.label "Oprește">
 <!ENTITY stopFilters.accesskey "O">
 <!ENTITY folderPickerPrefix.label "Rulează filtrul(ele) selectate pe:">
 <!ENTITY folderPickerPrefix.accesskey "a">
@@ -40,5 +40,3 @@
 <!ENTITY helpButton.label "Ajutor">
 <!ENTITY helpButton.accesskey "A">
 <!ENTITY closeCmd.key "w"> 
-
-

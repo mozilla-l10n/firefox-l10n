@@ -99,7 +99,7 @@
 <!ENTITY featureConfigurator.diskSpace.currentSize "Utilizare curentă de spațiu disc pentru emailuri:">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.diskSpace.freeSpace): The label for the current amount of free space available on your hard disk. -->
-<!ENTITY featureConfigurator.diskSpace.freeSpace "Spaţiu liber:">
+<!ENTITY featureConfigurator.diskSpace.freeSpace "Spațiu liber:">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.diskSpace.requireSpace): The label for the required amount of free space to synchronize all of your IMAP accounts. -->
 <!ENTITY featureConfigurator.diskSpace.requireSpace "Necesar:">
@@ -111,5 +111,3 @@
 <!ENTITY featureConfigurator.previousButton "Înapoi">
 <!ENTITY featureConfigurator.nextButton "Înainte">
 <!ENTITY featureConfigurator.closeButton "Închide">
-
-

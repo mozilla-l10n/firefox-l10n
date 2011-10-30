@@ -52,5 +52,3 @@
 <!ENTITY deleteCharCheck.label "Șterge caracterul de separare">
 <!ENTITY collapseSpaces.label  "Ignoră spațiile în plus">
 <!ENTITY collapseSpaces.tooltip "Transformă spațiile adiacente într-un singur separator">
-
-
