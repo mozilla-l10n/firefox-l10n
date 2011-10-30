@@ -48,7 +48,7 @@
 <!ENTITY viewImageCmd.label           "Grafik anzeigen">
 <!ENTITY viewImageCmd.accesskey       "G">
 <!ENTITY viewVideoCmd.label           "Video ansehen">
-<!ENTITY viewVideoCmd.accesskey       "i">
+<!ENTITY viewVideoCmd.accesskey       "o">
 <!ENTITY viewBGImageCmd.label         "Hintergrundgrafik anzeigen">
 <!ENTITY viewBGImageCmd.accesskey     "z">
 <!ENTITY setWallpaperCmd.label        "Als Hintergrundbild setzen">
@@ -81,9 +81,9 @@
 <!ENTITY copyImageCmd.label           "Grafik kopieren">
 <!ENTITY copyImageCmd.accesskey       "k">
 <!ENTITY copyVideoURLCmd.label        "Video-Adresse kopieren">
-<!ENTITY copyVideoURLCmd.accesskey    "V">
+<!ENTITY copyVideoURLCmd.accesskey    "k">
 <!ENTITY copyAudioURLCmd.label        "Audio-Adresse kopieren">
-<!ENTITY copyAudioURLCmd.accesskey    "u">
+<!ENTITY copyAudioURLCmd.accesskey    "k">
 <!ENTITY metadataCmd.label            "Eigenschaften">
 <!ENTITY metadataCmd.accesskey        "i">
 <!ENTITY copyEmailCmd.label           "E-Mail-Adresse kopieren">
@@ -104,6 +104,12 @@
 <!ENTITY mediaHideControls.accesskey  "M">
 <!ENTITY videoFullScreen.label        "Vollbild">
 <!ENTITY videoFullScreen.accesskey    "V">
+<!ENTITY videoSaveImage.label         "Schnappschuss speichern unter...">
+<!ENTITY videoSaveImage.accesskey     "c">
+<!ENTITY videoShowStats.label         "Statistiken anzeigen">
+<!ENTITY videoShowStats.accesskey     "t">
+<!ENTITY videoHideStats.label         "Statistiken verstecken">
+<!ENTITY videoHideStats.accesskey     "t">
 <!ENTITY search.accesskey             "W">
 <!ENTITY bidiSwitchPageDirectionItem.label        "Seitenrichtung umschalten">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "u">
