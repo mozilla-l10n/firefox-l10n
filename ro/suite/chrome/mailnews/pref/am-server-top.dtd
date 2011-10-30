@@ -54,7 +54,7 @@
 <!ENTITY downloadOnBiff.label "Descarcă automat mesajele noi">
 <!ENTITY downloadOnBiff.accesskey "m">
 <!ENTITY username.label "Numele dumneavoastră de login">
-<!ENTITY deleteMessagePrefix.label "&Când șterg un mesaj:">
+<!ENTITY deleteMessagePrefix.label "Când șterg un mesaj:">
 <!ENTITY modelMoveToTrash.label "Mută-l în coșul de gunoi">
 <!ENTITY modelMoveToTrash.accesskey "o">
 <!ENTITY modelMarkDeleted.label "Marchează-l ca șters">
