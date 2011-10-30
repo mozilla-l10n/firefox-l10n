@@ -9,3 +9,7 @@
 <!ENTITY prefCheckDefault.caption   "System-Integration">
 <!ENTITY prefCheckDefaultClient.label "Standardprogramm-Einstellungen beim Start prüfen">
 <!ENTITY prefCheckDefaultClient.accesskey "S">
+
+<!ENTITY crashReports.caption       "Absturzmelder">
+<!ENTITY submitCrashes.label        "Absturzberichte senden">
+<!ENTITY submitCrashes.accesskey    "A">
