@@ -72,9 +72,9 @@
 
 <!ENTITY certmgr.editcert.title               "Sesa Bambɔ Abodin krataa Nhyehyɛe">
 <!ENTITY certmgr.editcacert.title             "Sesa CA abodin krataa agyedi nhyehyɛe">
-<!ENTITY certmgr.editsslcert.title            "Sesa wɛbsaet abodin krataa agyedi nhyehyɛe">
+<!ENTITY certmgr.editsslcert.title            "Edit website certificate trust settings">
 <!ENTITY certmgr.editcert.edittrust           "Sesa agyedi nhyehyɛe:">
-<!ENTITY certmgr.editcert.trustssl            "Saa abodin krataa yi betumi akyerɛ wɛb nsaet.">
+<!ENTITY certmgr.editcert.trustssl            "This certificate can identify websites.">
 <!ENTITY certmgr.editcert.trustemail          "Saa abodin krataa yi betumi akyerɛ emel dwumadifo.">
 <!ENTITY certmgr.editcert.trustobjsign        "Saa abodin krataa yi betumi akyerɛ sɔftwɛɛ yɛfo.">
 <!ENTITY certmgr.editsslcert.edittrust        "Sesa abodin krataa agyedi nhyehyɛe:">

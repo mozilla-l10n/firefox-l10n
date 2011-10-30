@@ -1,7 +1,7 @@
 <!ENTITY aboutSupport.pageTitle "Hawyi ho infɔmehyɛn">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "       Krataafa yi wɔ infɔmehyɛn bi a ebɛhia sɛwo 
+<!ENTITY aboutSupport.pageSubtitle "Krataafa yi wɔ infɔmehyɛn bi a ebɛhia sɛwo 
 pɛsɛ wo siesie ɔhaw bi a. Sɛ wopɛ nyiano ma nsɛmbisa bi 
 a ɛfa &brandShortName; ho a, hwɛ yɛ mmoa seat yi <a id='supportLink'> </a>.">
 
@@ -19,6 +19,7 @@ a ɛfa &brandShortName; ho a, hwɛ yɛ mmoa seat yi <a id='supportLink'> </a>.">
 <!ENTITY aboutSupport.appBasicsBuildConfig "esi nhyehyɛe">
 <!ENTITY aboutSupport.appBasicsUserAgent "Odi dwuma Gyinamusini">
 <!ENTITY aboutSupport.appBasicsCrashIDs "Egyae-yɛ amaneɛbɔ">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Mɛmri Adwumadi">
 
 <!ENTITY aboutSupport.show.label "Bue folda a ɛwɔ mu">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific

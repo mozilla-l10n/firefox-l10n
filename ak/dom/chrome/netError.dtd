@@ -57,7 +57,7 @@
 <!ENTITY unknownSocketType.longDesc "<p>Site no gyee nɛtwɛk mbisae ne so wɔ kwan a Firefox eni nnda so, nti brawsa no renntumi nntoa so.</p>">
 
 <!ENTITY nssFailure2.title "Kɔnɛkhyɛn a wɔabɔ ho ban no annkɔ yie">
-<!ENTITY nssFailure2.longDesc "<p>Firefox renntumi nnkyerɛ krataafa a wopɛ sɛ wo hwɛ no efiri sɛ Firefox nntumi nnhu sɛ data a ne nsa aka no di mu a.</p><ul><li>Yɛsrɛ wo sɛ ka asɛm yi kyerɛ wɔn a wɛbsaet no yɛ wɔn de.</li></ul>">
+<!ENTITY nssFailure2.longDesc "<p>Firefox nntumi nnkyerɛ krataafa a wopɛ sɛ wo hwɛ no efiri sɛ Firefox nntumi nnhu sɛ data a ne nsa aka no di mu a.</p><ul><li>Yɛsrɛ wo sɛ ka asɛm yi kyerɛ wɔn a wɛbsaet no yɛ wɔn de.</li></ul>">
 
 <!ENTITY nssBadCert.title "Kɔnɛkhyɛn a wɔabɔ ho ban no annkɔ yie">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
@@ -66,7 +66,7 @@
 </ul>">
 
 <!ENTITY malwareBlocked.title "Saet yi betumi ahaw adwen papaapa!">
-<!ENTITY malwareBlocked.longDesc "<p>Saet a wɔhaw adwen bɔ mbɔden sɛ wɔbɛinstɔl mprogram de ewia wo infɔmehyɛn, anaaso wɔde wo kɔmputa no bɛhaw afoforo wɔn adwen, anaaso wɔbɛhaw wo kɔmputa.</p> 
+<!ENTITY malwareBlocked.longDesc "<p>Saet a wɔhaw adwen bɔ mbɔden sɛ wɔ bɛinstɔl mprogram de ewia wo infɔmehyɛn, anaaso wɔde wo kɔmputa no bɛhaw afoforo wɔn adwen, anaaso wɔbɛhaw wo kɔmputa.</p> 
 <p>Sɛ wɛbsaet bi yɛ wo de na wo gye di sɛ obi afom sɛ wɔaka sɛ wo wɛbsaet no haw adwen a, <a href='http://www.stopbadware.org/home/reviewinfo' >bisa sɛ wɔnhwɛ wo asɛm nka mma wo</a>.</p>">
 
 <!ENTITY phishingBlocked.title "Ayɛ sɛ wɛb ndaadaa!">

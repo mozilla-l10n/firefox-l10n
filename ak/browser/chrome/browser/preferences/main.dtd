@@ -13,8 +13,8 @@
 <!ENTITY useCurrentPage.label      "Fa Krataafa Seiseiara di dwuma">
 <!ENTITY useCurrentPage.accesskey  "S">
 <!ENTITY useMultiple.label         "Fa Nkrataafa Nseiseiara di dwuma">
-<!ENTITY useBookmark.label         "Fa Bukmaak di dwuma">
-<!ENTITY useBookmark.accesskey     "B">
+<!ENTITY chooseBookmark.label      "Fa Bukmaak di dwuma…">
+<!ENTITY chooseBookmark.accesskey  "B">
 <!ENTITY restoreDefault.label      "San fa kɔ Difɔlt">
 <!ENTITY restoreDefault.accesskey  "S">
 

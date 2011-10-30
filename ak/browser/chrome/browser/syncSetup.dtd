@@ -19,8 +19,8 @@
 <!ENTITY signIn.account2.accesskey  "A">
 <!ENTITY signIn.password.label      "Ehintasɛmfua">
 <!ENTITY signIn.password.accesskey  "E">
-<!ENTITY signIn.syncKey.label       "Sync safoa">
-<!ENTITY signIn.syncKey.accesskey   "s">
+<!ENTITY signIn.recoveryKey.label       "Nsa-san-ka safoa">
+<!ENTITY signIn.recoveryKey.accesskey   "s">
 <!-- New Account Page 1: Basic Account Info -->
 
 <!ENTITY setup.newAccountDetailsPage.title.label "Akawnt nhunumu">
@@ -41,12 +41,12 @@
 <!ENTITY setup.tosAgree2.accesskey  "">
 <!-- New Account Page 2: Sync Key -->
 
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; Dwene Wo Asiesɛm Ho">
-<!ENTITY setup.newSyncKeyPage.description.label "Sɛ wopɛsɛ wo nya wo asiede a, wo data nyinaa ɛnkreptee ansa na epia akɔ. Sync safoa a ehia sɛ wo sian data ano no mpia akɔ.">
-<!ENTITY syncKeyEntry.label        "Wo Sync safoa">
-<!ENTITY syncKeyEntry.accesskey    "s">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; Dwene Wo Asiesɛm Ho">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Sɛ wo pɛ sɛ wo nya wo asiede a, wo data nyinara ɛnkreptee ansa wɔn epia akɔ. Nsa-san-ka safoa a ehia sɛ wo sian data ano no mpia akɔ.">
+<!ENTITY recoveryKeyEntry.label        "Wo nsa-san-ka safoa">
+<!ENTITY recoveryKeyEntry.accesskey    "f">
 <!ENTITY syncGenerateNewKey.label  "Gyɛnɛrete safoa foforo">
-<!ENTITY syncKeyBackup.description "Wo Sync safoa no hia akwannya &syncBrand.fullName.label; wɔ afidie foforo so. Me srɛ wo yɛ nsiakyire no bi. Wɛ ntomi mmoa wo nsan nya Sync Key.">
+<!ENTITY recoveryKeyBackup.description "Wo nsa-san-ka safoa no hia akwannya &syncBrand.fullName.label; wɔ afidie afoforo so. Yɛ srɛ wo yɛ nsiakyire no bi. Yɛnntumi  mmboa wo nsan nnya nsa-san-ka safoa.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Prente…">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
@@ -65,12 +65,12 @@
 <!ENTITY addDevice.dialog.enterCode.label   "Bɔ kood koro a efidie no kyerɛ:">
 <!ENTITY addDevice.dialog.tryAgain.label    "San sɔ hwɛ.">
 <!ENTITY addDevice.dialog.successful.label  "Wɔde efidie no aka ho. Synkronaesahyin a edi kan no bɛ kyɛ kakra na ebewie wɔ ndaekyir.">
-<!ENTITY addDevice.dialog.syncKey.label     "Wopɛ skenyan wo efidie no a, ɛwɔ sɛ wobɔ Synk kii no. Prente anaa fa kii yi sie na kura mu de kɔ.">
+<!ENTITY addDevice.dialog.recoveryKey.label     "Wo pɛ sɛ wo kenyan wo fidie no a, ɛwɔ sɛ wo bɔ Nsa-san-ka kii no. Prente anaa fa kii yi sie na kura mu fa kɔ.">
 <!ENTITY addDevice.dialog.connected.label   "Efidie no akɔnɛkte">
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "Bra mu">
-<!ENTITY existingSyncKey.description "Wo nsa bɛtumi aka wo Sync safoa ne sɛso sɛ wo kɔ nɔphyɛn a wɔwɔ  &syncBrand.shortName.label; wɔ wo divaes ne so, na wo paw  &#x0022;Me Sync safoa&#x0022; wɔ &#x0022;Manage Account&#x0022;.">
+<!ENTITY existingRecoveryKey.description "Wo nsa bɛtumi aka wo nsa-san-ka safoa ne sɛso sɛ wo kɔ nɔphyɛn a wɔwɔ  &syncBrand.shortName.label; wɔ wo divaes ne so, na wo paw  &#x0022;Me nsa-san-ka safoa&#x0022; wɔ &#x0022;Hwɛ akawnt so&#x0022;.">
 <!ENTITY verifying.label              "Regye-ato-mu…">
 <!ENTITY resetPassword.label          "San-hyɛ Ehintasɛmfua">
 <!ENTITY resetSyncKey.label           "M'efidie foforo no ayera.">

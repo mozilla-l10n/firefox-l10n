@@ -13,9 +13,9 @@
 <!ENTITY manageAccount.label          "Hwɛ akawnt so">
 <!ENTITY manageAccount.accesskey      "a">
 <!ENTITY viewQuota.label              "Hwɛ dodoɔ bi">
-<!ENTITY changePassword2.label         "Sesa ehintasɛmfua…">
-<!ENTITY mySyncKey.label              "Me Sync kii">
-<!ENTITY resetSync2.label              "San-hyehyɛɛ Sync…">
+<!ENTITY changePassword2.label        "Sesa ehintasɛmfua…">
+<!ENTITY myRecoveryKey.label          "Me nsa-san-ka safoa">
+<!ENTITY resetSync2.label             "San-hyehyɛɛ Sync…">
 
 <!ENTITY addDevice.label              "Fa efidie ka ho">
 

@@ -111,13 +111,13 @@
 <!ENTITY  securityView.unknown   "Hena-so-ni">
 
 
-<!ENTITY  securityView.identity.header   "Wɛbsaet su-ahyɛnsode">
+<!ENTITY  securityView.identity.header   "Wɛbsaet Ahyɛnsode">
 <!ENTITY  securityView.identity.owner    "Owura:">
 <!ENTITY  securityView.identity.domain   "Wɛbsaet:">
 <!ENTITY  securityView.identity.verifier "Eyi agye ato mu:">
 
 <!ENTITY  securityView.privacy.header                   "Siesɛm &amp; abakɔsɛm">
-<!ENTITY  securityView.privacy.history                  "Me asra wɛbsaet yi ndɛ anaa?">
+<!ENTITY  securityView.privacy.history                  "M'asra wɛbsaet yi da anaa?">
 <!ENTITY  securityView.privacy.cookies                  "Wɛbsaet yi de infɔmehyen (akuki) resie wɔ me kɔmputa no so anaa?">
 <!ENTITY  securityView.privacy.viewCookies              "Hwɛ akuki">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">

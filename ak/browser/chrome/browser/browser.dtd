@@ -193,6 +193,9 @@ can reach it easily. -->
 <!ENTITY inspectMenu.label            "Inspɛkt">
 <!ENTITY inspectMenu.accesskey        "t">
 <!ENTITY inspectMenu.commandkey       "I">
+
+<!ENTITY inspectContextMenu.label     "Inspɛkt ɛlɛmɛnt">
+<!ENTITY inspectContextMenu.accesskey "Q">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -493,7 +496,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Krataafa ne Stael Mfitiase">
 <!ENTITY pageStylePersistentOnly.accesskey "f">
 
-<!ENTITY pageReportIcon.tooltip            "Sesa nhyehyɛe a wɔfa mpɔpap ho ma wɛbsaet yi">
+<!ENTITY pageReportIcon.tooltip            "Sesa mpɔpap nhyehyɛe ma wɛbsaet yi">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -525,7 +528,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "Twa-mu">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
-<!ENTITY identity.unverifiedsite2 "Wɛbsaet yi mma obiara ne ho nsɛm.">
+<!ENTITY identity.unverifiedsite2 "Wɛbsaet yi mmfa ne ho nsɛm nnkyerɛ obiara.">
 <!ENTITY identity.connectedTo "Wo akɔnɛkte akɔ">
 <!-- Localization note (identity.runBy) : This string appears between a
 domain name (above) and an organization name (below). E.g.

@@ -7,7 +7,7 @@
 <!ENTITY removepermission.accesskey   "Y">
 <!ENTITY removeallpermissions.label   "Yi asaet nyinaa">
 <!ENTITY removeallpermissions.accesskey "n">
-<!ENTITY address.label                "Wɛb saet adrɛs:">
+<!ENTITY address.label                "Wɛbsaet adrɛs:">
 <!ENTITY address.accesskey            "a">
 <!ENTITY block.label                  "Blɔk">
 <!ENTITY block.accesskey              "B">
