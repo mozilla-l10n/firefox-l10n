@@ -72,9 +72,9 @@
 
 <!ENTITY certmgr.editcert.title               "Longosa santifikati ye`byokwerida eteegeka">
 <!ENTITY certmgr.editcacert.title             "Longosa CA santifikati ekakase eteegeka">
-<!ENTITY certmgr.editsslcert.title            "Longosa omutimba santafikati ekakase eteegeka">
+<!ENTITY certmgr.editsslcert.title            "Kyusa entegeka  za'okwesiga satifikate ezebyapa">
 <!ENTITY certmgr.editcert.edittrust           "Longosa ekakasee eteegeka:">
-<!ENTITY certmgr.editcert.trustssl            "Santifikati eno enyiza kwogere ku omutimba.">
+<!ENTITY certmgr.editcert.trustssl            "Eno Satifiketi esoobola okwawula ebyapa.">
 <!ENTITY certmgr.editcert.trustemail          "Santifikati eno enyiza kwogera ku mukozesa wa mayiru.">
 <!ENTITY certmgr.editcert.trustobjsign        "Santifikati eno enyiza kutegeza bananyini ba kompyuta pulogulamu.">
 <!ENTITY certmgr.editsslcert.edittrust        "Longosa santifikati ekakasee eteegeka:">

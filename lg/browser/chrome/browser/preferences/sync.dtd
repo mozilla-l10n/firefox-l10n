@@ -6,16 +6,16 @@
 <!-- Login error feedback -->
 
 
-<!ENTITY updatePass.label             "Tusaganya">
+<!ENTITY updatePass.label             "Tuusa">
 <!ENTITY resetPass.label              "Ddamu otegeke">
 <!-- Manage Account -->
 
 <!ENTITY manageAccount.label          "Fuga Akawunta">
 <!ENTITY manageAccount.accesskey      "A">
 <!ENTITY viewQuota.label              "Laba essalira">
-<!ENTITY changePassword2.label         "Kyusa Akasuumuluzo…">
-<!ENTITY mySyncKey.label              "Akasumuluzo kange Akakwanaganya">
-<!ENTITY resetSync2.label              "Ddamu Okwanaganye…">
+<!ENTITY changePassword2.label        "Kyusa Akasuumuluzo…">
+<!ENTITY myRecoveryKey.label          "Akasumuluzo Kange Akazaobujja">
+<!ENTITY resetSync2.label             "Ddamu Okwanaganye…">
 
 <!ENTITY addDevice.label              "Gatta ko Ekikozesebwa">
 

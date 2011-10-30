@@ -57,7 +57,7 @@
 <!ENTITY unknownSocketType.longDesc "<p>Ekibanja kikkiriza okusaba kw'enkwataganya mu ngeri etasuubirwa era akanoonya tekasobodde kweyongerayo.</p>">
 
 <!ENTITY nssFailure2.title "Okunnyungibwa Okwesigika Kuganye">
-<!ENTITY nssFailure2.longDesc "<p>Omuko gw'ogezaako okulaba teguyinza kulagibwa, kubanga ensibuko y'ebiwandiiko tekakasiddwa .</p><ul><li>Bambi kwatagana nebananyini mukutu okubategeeze ku kizibu kino.</li></ul>">
+<!ENTITY nssFailure2.longDesc "<p>Omuko gw'ogezaako okulaba teguyinza kulagibwa, kubanga ensibuko y'ebiwandiiko tesoobola kukakasibbwa .</p><ul><li>Bambi tukirira bananyini kibanja kino okubategeeza ku kizibu kino.</li></ul>">
 
 <!ENTITY nssBadCert.title "Okunnyungibwa Okwesigika Kugaanye">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
@@ -66,8 +66,8 @@
 </ul>">
 
 <!ENTITY malwareBlocked.title "Ekibanja Ekiteberezebwa Okulumbaganya!">
-<!ENTITY malwareBlocked.longDesc "<p>Ebibanja ebilumba, bigezako okuteka mu kompyuta yo entekateka ezibba amawulire,okukozesa kompyuta yo okulumba kompyuta endala,oba okwonona kompyuta yo.</p> 
-<p>Bananyini byapa byolutimbagano abalowooza nti ebyapa byabwe biropedwa nga ebyapa ebilumba naye mubu kyamu,bayinza <a href='http://www.stopbadware.org/home/reviewinfo' >okusaba okwekebejebwa</a>.</p>">
+<!ENTITY malwareBlocked.longDesc "<p>Ebibanja ebilumba, bigezako okuteka mu kompyuta yo entekateka ezibba amawulire, okukozesa kompyuta yo okulumba kompyuta endala, oba okwonona kompyuta yo.</p> 
+<p>Bananyini bibanja bino kutimbagano abalowooza nti ebibanja byabwe biropedwa munsobi bayinza <a href='http://www.stopbadware.org/home/reviewinfo' >okusaba okuddamu okutunula mu nsonga zabbwe</a>.</p>">
 
 <!ENTITY phishingBlocked.title "Waliwo okutebereza kwo'Mutimbangano nga Gucupula!">
 <!ENTITY phishingBlocked.longDesc "<p>Okuyingiza amawulire gonna ago'bwanannyini ku muko guno kiyinza okuvirako okubbibwa kwekiraga oba okukumpanya okwengeri endala.</p> 

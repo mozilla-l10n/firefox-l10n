@@ -7,7 +7,7 @@
 <!ENTITY removepermission.accesskey   "J">
 <!ENTITY removeallpermissions.label   "Jjawo ebibanja byonna">
 <!ENTITY removeallpermissions.accesskey "j">
-<!ENTITY address.label                "Endagiriro yo'mutimbangano:">
+<!ENTITY address.label                "Endagiriro ye'ekibanja kumutimbagano:">
 <!ENTITY address.accesskey            "n">
 <!ENTITY block.label                  "Buloka">
 <!ENTITY block.accesskey              "B">

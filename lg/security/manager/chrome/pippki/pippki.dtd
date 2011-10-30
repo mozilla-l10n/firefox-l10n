@@ -70,7 +70,7 @@
 
 <!ENTITY downloadCert.title "Kuwanuula Santifikati">
 <!ENTITY downloadCert.message1 "Obandee osabibwa ku kakasa Obunyiza bwa Santifikati empya (CA).">
-<!ENTITY downloadCert.trustSSL "Kakasa CA eno ku tagaza emitimba.">
+<!ENTITY downloadCert.trustSSL "Wesige CA eno okwawula ebyapa.">
 <!ENTITY downloadCert.trustEmail "Kakasa CA eno ku tagaza abakozesa ba i-mayilu.">
 <!ENTITY downloadCert.trustObjSign "Kakasa CA eno ku tagaza abazibye ba pulogulamu.">
 <!ENTITY downloadCert.message3 "Nga tonaba kukakasa CA eno kurwe kola yona, oyina kukebera santifikati ne ekola ne ebigobererwa (bwebiba biriko).">

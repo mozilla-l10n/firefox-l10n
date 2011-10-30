@@ -1,9 +1,9 @@
 
 <!ENTITY migrationWizard.title          "Leeta Kafulu">
 
-<!ENTITY importFrom.label               "Leeta Ebirala, Obulamba, Ebyafayo, Akasumuluzo ne bwino omulala okuva:">
-<!ENTITY importFromUnix.label           "Leeta Ebyerobozebwa, Obulamba, Ebyafayo, Obusumuluzo ne bwino omulala okuva:">
-<!ENTITY importFromBookmarks.label      "Leeta Obulamba okuva:">
+<!ENTITY importFrom.label               "Leeta Ebirala, Obulambe, Ebyafayo, Obusumuluzo ne bwino omulala okuva:">
+<!ENTITY importFromUnix.label           "Leeta Ebyerobozebwa, Obulambe, Ebyafayo, Obusumuluzo ne bwino omulala okuva:">
+<!ENTITY importFromBookmarks.label      "Leeta Obulambe okuva:">
 
 <!ENTITY importFromIE.label             "Mocrosoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">

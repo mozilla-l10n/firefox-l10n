@@ -111,17 +111,17 @@
 <!ENTITY  securityView.unknown   "Tekimanyiddwa">
 
 
-<!ENTITY  securityView.identity.header   "Ekilaga Olutimbe kumukutu gw'ensi yonna">
+<!ENTITY  securityView.identity.header   "Ebyogera ku Kibanja">
 <!ENTITY  securityView.identity.owner    "Nnanyini:">
-<!ENTITY  securityView.identity.domain   "Ekitimba kye mpuliziganya:">
+<!ENTITY  securityView.identity.domain   "Ekibanja:">
 <!ENTITY  securityView.identity.verifier "Kikakasiddwa:">
 
 <!ENTITY  securityView.privacy.header                   "Byakyama &amp; Byafaayo">
-<!ENTITY  securityView.privacy.history                  "Nkyaddeko omuko guno ngojeko leero?">
-<!ENTITY  securityView.privacy.cookies                  "Olutimbe luno lutereka obubaka obukwata (kuki) ku kyuma kyange kalimagezi?">
+<!ENTITY  securityView.privacy.history                  "Nakyaddeko kumuko guno emabegako?">
+<!ENTITY  securityView.privacy.cookies                  "Ekibanja kino kirina bwiino (bukuki) bwe kitereka ku kompyuta yange?">
 <!ENTITY  securityView.privacy.viewCookies              "Kenga bu kuki">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
-<!ENTITY  securityView.privacy.passwords                "Naaterese obusumuluzo bwonna obw'olutimbe luno?">
+<!ENTITY  securityView.privacy.passwords                "Nterese yo obusumuluzo bwonna obwe kibanja kino?">
 <!ENTITY  securityView.privacy.viewPasswords            "Kenga ku Busumuluzo Obutereke">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 

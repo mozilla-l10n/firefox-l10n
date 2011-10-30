@@ -70,7 +70,7 @@
 <!ENTITY rights.locationawarebrowsing-term4 "Okunonya okumanyi ekifo kati kunafuyiziddwa">
 <!-- intro paragraph for unbranded builds -->
 
-<!ENTITY rights.webservices-unbranded "Ebikwata ku mpeereza y'ekibanja ezingiramu, awamu n'endagiriro ku ngeri y'okuginafuyamu, bwe biba bisoboka, bisaanye bigattibwe wano.">
+<!ENTITY rights.webservices-unbranded "Ebikwata ku mpeereza y'ekibanja ezi kirizibwamu, awamu nebiragiriro ku ngeri y'okubijjako, bwe biba bisoboka, bisaanye bigattibwe wano.">
 <!-- point 1 text for unbranded builds -->
 
 <!ENTITY rights.webservices-term1-unbranded "Enkola yonna n'amateeka g'empeereza eno essane eragibwe wanno.">

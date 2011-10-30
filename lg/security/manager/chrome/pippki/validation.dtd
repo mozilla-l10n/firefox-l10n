@@ -38,22 +38,22 @@
 <!ENTITY  validation.crlmanager.label             "Efunga CRLs">
 <!ENTITY  validation.crlmanager.description       "Olukalala lwa Satifiketi ezitaliyo (CRL) luterekerwa mu terekero lya wiino ya satifiketi:">
 <!ENTITY  validation.crlname.label                "Erinnya">
-<!ENTITY  validation.crllastupdate.label          "Endogosa Esebyeyo">
-<!ENTITY  validation.crlnextupdate.label          "Endogosa Esossee">
-<!ENTITY  validation.crlautoupdateenabled.label   "Endogosa Eyetekawo">
-<!ENTITY  validation.crlautoupdatestatus.label    "Endogosa Eyetekako Kumutindo">
+<!ENTITY  validation.crllastupdate.label          "Ekituusa Ekisembayo">
+<!ENTITY  validation.crlnextupdate.label          "Ekituusa Ekiddako">
+<!ENTITY  validation.crlautoupdateenabled.label   "Ekyetuusa Kyoka">
+<!ENTITY  validation.crlautoupdatestatus.label    "Okwetuusa Kwoka Wekutuse">
 <!ENTITY  validation.deletecrl.label              "Sangula">
 <!ENTITY  validation.deletecrl.accesskey          "S">
-<!ENTITY  validation.updatecrl.label              "Longoosa">
-<!ENTITY  validation.updatecrl.accesskey          "L">
+<!ENTITY  validation.updatecrl.label              "Tuusa">
+<!ENTITY  validation.updatecrl.accesskey          "T">
 <!ENTITY  validation.advanced.label               "Eteegeka">
 <!ENTITY  validation.advanced.accesskey           "E">
 
-<!ENTITY  validation.crl.autoupdate.title         "Eyetekako CRL Elongoosa Okweroboza">
-<!ENTITY  validation.crl.autoupdate.enable.label  "Kiriza Ebilongoosa Ebyetekako ku CRL eno">
-<!ENTITY  validation.crl.autoupdate.time.label1   "Longoosa">
-<!ENTITY  validation.crl.autoupdate.time.label2   "Ennaku(s) ezisoka olunanku Olulongoosa Olundako">
-<!ENTITY  validation.crl.autoupdate.freq.label1   "Longoosa bulikisera">
+<!ENTITY  validation.crl.autoupdate.title         "Ebyokweroboza mu Kwetuusa kwa CRL">
+<!ENTITY  validation.crl.autoupdate.enable.label  "Sobozesa Okwetuusa Kwoka okwa CRL eno">
+<!ENTITY  validation.crl.autoupdate.time.label1   "Tuusa">
+<!ENTITY  validation.crl.autoupdate.time.label2   "Ennaku(s) ezibulayo Okutuka Kukutuusa Okudako">
+<!ENTITY  validation.crl.autoupdate.freq.label1   "Tuusa buli">
 <!ENTITY  validation.crl.autoupdate.freq.label2   "Ennaku(s)">
 <!ENTITY  validation.crl.autoupdate.url.label     "CRL ejjaku jjirwa Kuva:">
 <!ENTITY  crl.import.status.title                 "CRL ejjaku Jjirwa ku bera">
@@ -61,7 +61,7 @@
 <!ENTITY  crl.issuer.label                        "CRL Ewerendwa Na:">
 <!ENTITY  crl.issuer.org.label                    "Ekitogole: ">
 <!ENTITY  crl.issuer.orgunit.label                "Akatundu: ">
-<!ENTITY  crl.import.nextupdate.label             "Longoosa Ekindako Ku: ">
-<!ENTITY  crl.autoupdate.fail.cnt.label           "Elongosa Eyisewo Ezindirira Ziganye: ">
-<!ENTITY  crl.autoupdate.fail.reason.label        "Ebikwata ku Elongosa Eyisewo kugana: ">
+<!ENTITY  crl.import.nextupdate.label             "Okutuusa Okuddako Nga: ">
+<!ENTITY  crl.autoupdate.fail.cnt.label           "Okulemerewa Mukutuusa Okuyisewo Okwawamu: ">
+<!ENTITY  crl.autoupdate.fail.reason.label        "Ebikwata ku Kulemererwa Okutuusa Okusembyeyo: ">
 <!ENTITY  edit.button                             "Eteegeka">

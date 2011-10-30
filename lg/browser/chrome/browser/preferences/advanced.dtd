@@ -8,8 +8,8 @@
 <!ENTITY useCursorNavigation.accesskey   "a">
 <!ENTITY searchStartTyping.label         "Nonya kulwa ekiwandiiko bweba ntadise kuwandiika">
 <!ENTITY searchStartTyping.accesskey     "k">
-<!ENTITY blockAutoRefresh.label          "Ndabula nga ndi kubibanja ku mutimbangano nga gezezako kundamu kulagira oba kutikka omuko">
-<!ENTITY blockAutoRefresh.accesskey      "o">
+<!ENTITY blockAutoRefresh.label          "Ndabula nga ebibanja bigezako okutika nate omuko">
+<!ENTITY blockAutoRefresh.accesskey      "e">
 
 <!ENTITY browsing.label                  "Kunoonya">
 
@@ -24,7 +24,7 @@
 
 <!ENTITY systemDefaults.label            "Ebiberewo bya sisitimu">
 <!--XXX-->
-<!ENTITY alwaysCheckDefault.label        "Bukiseera kebera kulaba ku &brandShortName; akanoonya akaberawo mu kutandika">
+<!ENTITY alwaysCheckDefault.label        "Bulikiseera kebera okulaba oba &brandShortName; ye nonyeso enyenkalakalira mu kutandika">
 <!ENTITY alwaysCheckDefault.accesskey    "k">
 <!ENTITY checkNow.label                  "Kebera Kkati">
 <!ENTITY checkNow.accesskey              "K">
@@ -57,19 +57,19 @@
 <!ENTITY overrideSmartCacheSize.label    "Sukuluma ku enzirukanya ye terekero eyekola yoka">
 <!ENTITY overrideSmartCacheSize.accesskey "S">
 
-<!ENTITY updateTab.label                 "Longosa">
+<!ENTITY updateTab.label                 "Tuusa">
 
-<!ENTITY autoCheck.label                 "Akakebere akaberawo kulwo ku longosa:">
+<!ENTITY autoCheck.label                 "Kyekeberere ebutuusa ebya:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey       "F">
 <!ENTITY enableAddonsUpdate2.label       "Ebigattibwako">
 <!ENTITY enableAddonsUpdate2.accesskey   "a">
 <!ENTITY enableSearchUpdate.label        "Yingini Ezinoonya">
 <!ENTITY enableSearchUpdate.accesskey    "n">
-<!ENTITY whenUpdatesFound.label          "Mu kulongosa ku &brandShortName; bizuunse:">
+<!ENTITY whenUpdatesFound.label          "Ebituusa ebya &brandShortName; bwe biba bizuuse:">
 <!ENTITY askMe.label                     "Bunza kiki kye njjangala ku kola">
 <!ENTITY askMe.accesskey                 "a">
-<!ENTITY modeAutomatic.label             "Wanula era otekamu ekituusa kino">
+<!ENTITY modeAutomatic.label             "Wanula era otekamu ekituusa">
 <!ENTITY modeAutomatic.accesskey         "W">
 <!ENTITY modeAutoAddonWarn.label         "Ndabula nga kino kiza salawo ku bigattwamu byage">
 <!ENTITY modeAutoAddonWarn.accesskey     "N">

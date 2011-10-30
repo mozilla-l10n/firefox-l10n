@@ -13,8 +13,8 @@
 <!ENTITY useCurrentPage.label      "Kozesa Omuko Ogw'obuliwo">
 <!ENTITY useCurrentPage.accesskey  "O">
 <!ENTITY useMultiple.label         "Kozesa emiko Ej'obuliwo">
-<!ENTITY useBookmark.label         "Kozesa Akalambe">
-<!ENTITY useBookmark.accesskey     "A">
+<!ENTITY chooseBookmark.label      "Kozesa Akalambe…">
+<!ENTITY chooseBookmark.accesskey  "A">
 <!ENTITY restoreDefault.label      "Zaawo Ebyenkalakalira">
 <!ENTITY restoreDefault.accesskey  "Z">
 

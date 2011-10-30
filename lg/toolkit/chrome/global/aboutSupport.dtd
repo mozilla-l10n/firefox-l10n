@@ -19,6 +19,7 @@ ejjabulijo ku &brandShortName;, keberako ku <a id='supportLink'>muko ogwo'obuyam
 <!ENTITY aboutSupport.appBasicsBuildConfig "Zzimba Entekateka">
 <!ENTITY aboutSupport.appBasicsUserAgent "Akayamba Omukozesa">
 <!ENTITY aboutSupport.appBasicsCrashIDs "Alipoota Ezokusanawo">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Enkozesa Memory">
 
 <!ENTITY aboutSupport.show.label "Ggulawo Ebirimu Tterekero">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific

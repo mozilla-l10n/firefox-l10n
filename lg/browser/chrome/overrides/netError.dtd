@@ -12,7 +12,7 @@
 <!ENTITY deniedPortAccess.title "Endagiriro eno ekugiddwa">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Egabizi tezuulidddwa">
+<!ENTITY dnsNotFound.title "Engabizi tezuulidddwa">
 <!ENTITY dnsNotFound.longDesc "<ul> 
 <li>Kebera endagiriro ku nsobi ezikoleddwa mu kuwandiika nga 
 <strong>ww</strong>.ekyokulabirako.com mu kifo kya 
@@ -99,8 +99,8 @@ nti &brandShortName; bukkiriziddwa okuyingira ku Omukuttu.</li>
 
 <!ENTITY nssFailure2.title "Obuyunzi okwesigika kugaanye">
 <!ENTITY nssFailure2.longDesc "<ul> 
-<li>Olutimbe lw`ogezaako okulaba telusobola kulagibwa kubanga obutuufu bw`obubaka obufuniddwa tebusobodde kukakasibwa.</li> 
-<li>Osabibwa okwatagane ne bannannyini mutimbo obategeeze ku buzibu buno. Oba, weeyambise endagiriro esangibwa mu lukalala oluyambi owaabe okuziŋŋama kw`olutimbo luno.</li> 
+<li>Omuko gwo gezaako okulaba tegusobola kulabibwa kubanga obutuufu bw`obubaka obufuniddwa tebusobodde kukakasibwa.</li> 
+<li>Osabibwa otukikirire bannannyini kibanja kino obategeeze ku buzibu buno. Oba, weeyambise endagiriro esangibwa mu lukalala oluyambi owaabe ekibanja ekimenyese.</li> 
 </ul>">
 
 <!ENTITY nssBadCert.title "Okuyungibwa Okweigibwa kugaanye">
@@ -121,8 +121,8 @@ eyinza obutaba yaluberera era oyinza okugezako edda.okuba yakaseera katono, osob
  </ul>">
 
 <!ENTITY malwareBlocked.title "Ekibanja Ekiteberezebwa Okulumbaganya!">
-<!ENTITY malwareBlocked.longDesc "<p>Ebibanja ebilumba, bigezako okuteka mu kompyuta yo entekateka ezibba amawulire,okukozesa kompyuta yo okulumba kompyuta endala,oba okwonona kompyuta yo.</p> 
-<p>Bananyini byapa byolutimbagano abalowooza nti ebyapa byabwe biropedwa nga ebyapa ebilumba naye mubu kyamu,bayinza <a href='http://www.stopbadware.org/home/reviewinfo' >okusaba okwekebejebwa</a>.</p>">
+<!ENTITY malwareBlocked.longDesc "<p>Ebibanja ebilumba bigezako okuteka mu kompyuta yo pulogulamu ezibba winno owobwananyini, oba ezikozesebwa okwonona kompyuta yo.</p> 
+<p>Bananyini bibanja abalowooza nti ebanja byabwe bilopedwa nga ebibanja ebilumba naye mubu kyamu, bayinza <a href='http://www.stopbadware.org/home/reviewinfo' >okusaba okuddamu okutunula munsonga zabbwe</a>.</p>">
 
 <!ENTITY phishingBlocked.title "Kiteeberezebwa waliwo okujingirira kulutimbe!">
 <!ENTITY phishingBlocked.longDesc "<p>Okuyingiza amawulire gonna ago'bwanannyini ku muko guno kiyinza okuvirako okubbibwa kwekiraga oba okukumpanya okwengeri endala.</p> 

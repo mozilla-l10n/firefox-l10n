@@ -19,8 +19,8 @@
 <!ENTITY signIn.account2.accesskey  "A">
 <!ENTITY signIn.password.label      "Akasumuluzo">
 <!ENTITY signIn.password.accesskey  "A">
-<!ENTITY signIn.syncKey.label       "Akasumuluzo Akatusaganya">
-<!ENTITY signIn.syncKey.accesskey   "A">
+<!ENTITY signIn.recoveryKey.label       "Akasumuluzo Akanunula">
+<!ENTITY signIn.recoveryKey.accesskey   "k">
 <!-- New Account Page 1: Basic Account Info -->
 
 <!ENTITY setup.newAccountDetailsPage.title.label "Ebikwata ku Akaunta">
@@ -41,12 +41,12 @@
 <!ENTITY setup.tosAgree2.accesskey  "">
 <!-- New Account Page 2: Sync Key -->
 
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; Efayo Ku Byekyama Byo">
-<!ENTITY setup.newSyncKeyPage.description.label "Okukakasa nti ebyekyamabyo bikumiddwa, data wo yena atafutibwa nga tanaba kutikibwa. Akasumuluzo akatusaganya aketagisa okujjamu olufutifuti teka tikibwa.">
-<!ENTITY syncKeyEntry.label        "Akasumuluzo Ko">
-<!ENTITY syncKeyEntry.accesskey    "K">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; Efayo Ku Byekyama Byo">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Okukakasa nti ebyekyamabyo bikumiddwa, bwiino wo yena atafutiddwa nga tanaba kutikibwa. Akasumuluzo akanunula aketagisa okujjamu olufutifuti teka tikiddwa.">
+<!ENTITY recoveryKeyEntry.label        "Akasumuluzo Ko Akanunula">
+<!ENTITY recoveryKeyEntry.accesskey    "k">
 <!ENTITY syncGenerateNewKey.label  "Fulumya akasumuloza akapya">
-<!ENTITY syncKeyBackup.description "Akasumuluzo ko ketagisa okufuna &syncBrand.fullName.label; ku machini endala. Bambi tondawo kopi endala. Tetusoboola kuyamba okuzawo akasumuluzoko.">
+<!ENTITY recoveryKeyBackup.description "Akasumuluzo ko Akanunula ketagisa okufuna olukusa ku &syncBrand.fullName.label; ku machini endala. Bambi tondawo kopi endala. Tetusoboola kuyamba okuzawo akasumuluzoko.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Fulumya…">
 <!ENTITY button.syncKeyBackup.print.accesskey "u">
@@ -65,12 +65,12 @@
 <!ENTITY addDevice.dialog.enterCode.label   "Tekamu kodi ekuwereddwa ekyuma:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Bambi gezako nate.">
 <!ENTITY addDevice.dialog.successful.label  "Ekyuma kigattidwako bulungi. Okutusaganya okusooka kusoobola okutwala edakika nyinji ko era ejakumaliriza mukasirise.">
-<!ENTITY addDevice.dialog.syncKey.label     "Okuteka munkola ekyuma kyo, ojakwetaga Akasumuluzo Akatuusa. Bambi fulumya oba tereka akasumuluzo kano era okatwale nawe.">
+<!ENTITY addDevice.dialog.recoveryKey.label     "Okuteka munkola ekyuma kyo, ojakwetaga okuyingiza Akasumuluzo ko Akanunula. Bambi fulumya oba tereka akasumuluzo kano era okatwale nawe.">
 <!ENTITY addDevice.dialog.connected.label   "Ekyuma Kiyungidwa">
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "Yingira">
-<!ENTITY existingSyncKey.description "Osoobola okufuna kopi ya'kasumuluzo akatuusa nga ogenze ku bilondebwako bya &syncBrand.shortName.label; ku kyumakyo ekirala no londako  &#x0022;My Sync Key&#x0022; wansiwa &#x0022;Ddukanya Akaunti&#x0022;.">
+<!ENTITY existingRecoveryKey.description "Osoobola okufuna kopi ya'kasumuluzo akanunula nga ogenze ku bilondebwako bya &syncBrand.shortName.label; ku kyumakyo ekirala no londako  &#x0022;Akasumuluzo Kange Akanunula&#x0022; wansiwa &#x0022;Ddukanya Akaunti&#x0022;.">
 <!ENTITY verifying.label              "Ekakasa…">
 <!ENTITY resetPassword.label          "Funa Akasumuluzo Akapya">
 <!ENTITY resetSyncKey.label           "Mbuziza ekyuma kyange ekirala.">

@@ -42,7 +42,7 @@
 <!ENTITY  historyHeader.custom.label       "Kozesa entegeka eyiyo ku byafaayo">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; ejja kujjukira okunonyereza, okuwanula n'okutereka ebyafaayo, wamu ne kkuki okuva mu mikutu gy'Emutimbagano gy'okyalira.">
+<!ENTITY  rememberDescription.label      "&brandShortName; ejja kujjukira okunonyereza, okuwanula n'okutereka ebyafaayo, wamu ne kkuki okuva mu mikutu gy'emutimbagano gy'okyalira.">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
