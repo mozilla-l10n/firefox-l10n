@@ -19,8 +19,8 @@
 <!ENTITY signIn.account2.accesskey  "I">
 <!ENTITY signIn.password.label      "I-password">
 <!ENTITY signIn.password.accesskey  "p">
-<!ENTITY signIn.syncKey.label       "Ukhiye lokushadisa">
-<!ENTITY signIn.syncKey.accesskey   "k">
+<!ENTITY signIn.recoveryKey.label       "Ukhiye wokushadisa">
+<!ENTITY signIn.recoveryKey.accesskey   "k">
 <!-- New Account Page 1: Basic Account Info -->
 
 <!ENTITY setup.newAccountDetailsPage.title.label "Ukuhlelwa kwe-Akhawunti">
@@ -41,12 +41,12 @@
 <!ENTITY setup.tosAgree2.accesskey  "">
 <!-- New Account Page 2: Sync Key -->
 
-<!ENTITY setup.newSyncKeyPage.title.label "I-&brandShortName; ikhathelela okuyimfihlo kwakho">
-<!ENTITY setup.newSyncKeyPage.description.label "Ukuqinisekisa okuyimfihlo okuphelele, idatha yakho yonke izombalwa ngokwemfihlo ngaphambi kokuba ilayishwe. Isikhiya sokushadisa esidingekayo ukuze kuvulwe idatha yakho asilayishiwanga.">
-<!ENTITY syncKeyEntry.label        "Ikhiya yakho yokushadisa">
-<!ENTITY syncKeyEntry.accesskey    "k">
+<!ENTITY setup.newRecoveryKeyPage.title.label "I-&brandShortName; ikhathelela okuyimfihlo kwakho">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Ukuqinisekisa okuyimfihlo okuphelele, idatha yakho yonke izobhalwa ngokwemfihlo ngaphambi kokuba ilayishwe. Ukhiye wokushadisa odingekayo ukuze kuvulwe idatha yakho akalayishiwe.">
+<!ENTITY recoveryKeyEntry.label        "Ukhiye wakho wokushadisa">
+<!ENTITY recoveryKeyEntry.accesskey    "k">
 <!ENTITY syncGenerateNewKey.label  "Enza ikhiye omusha">
-<!ENTITY syncKeyBackup.description "Ikhiya yakho yokushadisa iiyafuneka ukuze ufinyelele kwi-&syncBrand.fullName.label; kweminye imishini. Sicela udale ikhophi elinye. Asikwazi ukukusiza ubuyise isikhiya sakho sokushadisa.">
+<!ENTITY recoveryKeyBackup.description "Ukhiye wakho wokushadisa uyafuneka ukuze ufinyelele kwi-&syncBrand.fullName.label; kweminye imishini. Sicela udale ikhophi elinye. Asikwazi ukukusiza ubuyise ukhiye wakho wokushadisa.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Printa…">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
@@ -65,12 +65,12 @@
 <!ENTITY addDevice.dialog.enterCode.label   "Faka ikhodi leyo enikwa isisetshenziswa:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Sicela uzame futhi.">
 <!ENTITY addDevice.dialog.successful.label  "Isisetshenziswa sakho singezwe ngempumelelo. Ukufaka kokuqala kungathatha imizuzu embalwa futhi izoqeda endaweni yasemuva.">
-<!ENTITY addDevice.dialog.syncKey.label     "U">
+<!ENTITY addDevice.dialog.recoveryKey.label     "Ukwenza into yakho yokusebenzisa isebenze uzodinga ukufaka ukhiye wakho wokushadisa. Sicela ushicilele noma ugcine lo khiye futhi uhambe naye.">
 <!ENTITY addDevice.dialog.connected.label   "Isisetshenziswa sixhunyiwe">
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "Ngena ngemvume">
-<!ENTITY existingSyncKey.description "Ungathola ikhophi lekhiya yakho yokushadisa ngokuya kwizinketho ze-&syncBrand.shortName.label; kwisisetshenziswa esinye, futhi ukhethe    &#x0022;My Sync Key&#x0022; under &#x0022;Manage Account&#x0022;.">
+<!ENTITY existingRecoveryKey.description "Ungathola ikhophi lekhiya yakho yokushadisa ngokuya kwizinketho ze-&syncBrand.shortName.label; kwisisetshenziswa esinye, futhi ukhethe  &#x0022;Ukhiye wami wokushadisa&#x0022; ngaphansi kuka-&#x0022;phatha i-akhawunti&#x0022;.">
 <!ENTITY verifying.label              "Iyaqinisekisa…">
 <!ENTITY resetPassword.label          "Beka kabusha i-password">
 <!ENTITY resetSyncKey.label           "Ngilahlekelwe isisetshenziswa sami esinye.">

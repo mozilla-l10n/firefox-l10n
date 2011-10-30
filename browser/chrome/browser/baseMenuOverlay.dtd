@@ -1,7 +1,7 @@
 <!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "Nciphisa">
 <!ENTITY bringAllToFront.label    "Kulethe Konke Phambili">
-<!ENTITY zoomWindow.label         "Sondeza">
+<!ENTITY zoomWindow.label         "Lwiza">
 <!ENTITY windowMenu.label         "Iwindi">
 
 <!ENTITY helpMenu.label           "Usizo"> 

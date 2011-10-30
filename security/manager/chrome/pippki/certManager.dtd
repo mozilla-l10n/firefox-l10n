@@ -72,9 +72,9 @@
 
 <!ENTITY certmgr.editcert.title               "Lungisa Ukuvikeleka Kokuhlelwa Kwesitifiketi">
 <!ENTITY certmgr.editcacert.title             "Lungisa ukuhlelwa kokwethembeka kwesitifiketi se-CA">
-<!ENTITY certmgr.editsslcert.title            "Lungisa ukuhlelwa kokwethembeka kwesifitiketi sengosi yewebhu">
+<!ENTITY certmgr.editsslcert.title            "Edit website certificate trust settings">
 <!ENTITY certmgr.editcert.edittrust           "Lungisa ukuhlelwa kokwethembeka:">
-<!ENTITY certmgr.editcert.trustssl            "Lesi sitifiketi singahlonza izingosi zewebhu.">
+<!ENTITY certmgr.editcert.trustssl            "This certificate can identify websites.">
 <!ENTITY certmgr.editcert.trustemail          "Lesi sitifiketi singahlonza abasebenzisa iposi.">
 <!ENTITY certmgr.editcert.trustobjsign        "Lesi sitifiketi singahlonza abenza izinhlaka ezisetshenziswayo.">
 <!ENTITY certmgr.editsslcert.edittrust        "Lungisa ukuhlelwa kokwethembeka kwesitifiketi:">

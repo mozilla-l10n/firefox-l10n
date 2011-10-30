@@ -70,7 +70,7 @@
 
 <!ENTITY downloadCert.title "Ukuthatha ufake izitifiketi">
 <!ENTITY downloadCert.message1 "Ucelwe ukuba wethembe iGunya Lesitifiketi (CA) elisha.">
-<!ENTITY downloadCert.trustSSL "Themba le CA ukuthi izohlonza izingosi zewebhu.">
+<!ENTITY downloadCert.trustSSL "Trust this CA to identify websites.">
 <!ENTITY downloadCert.trustEmail "Themba le CA ukuthi izohlonza abasebenzisi be-imeyili.">
 <!ENTITY downloadCert.trustObjSign "Themba le CA ukuthi izohlonza abakhi bezinhlaka ezisetshenziswayo.">
 <!ENTITY downloadCert.message3 "Ngaphambi kokuba uthembe le CA kunoma yini, kufanele uhlole isitifiketi sayo nemigomo nenqubo yaso (uma ikhona).">

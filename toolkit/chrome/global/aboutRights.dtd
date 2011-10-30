@@ -38,7 +38,7 @@
 <!-- point 4 text for unbranded builds -->
 
 <!ENTITY rights.intro-point4a-unbranded "Uma lo mkhiqizo ungenisa izinsizakalo zewebhu, noma imiphi imigomo yensizakalo wezinsizakalo kufanele zihlanganiswe ku ">
-<!ENTITY rights.intro-point4b-unbranded "Izinsizakalo zewebhu sayithi">
+<!ENTITY rights.intro-point4b-unbranded "Website Services">
 <!ENTITY rights.intro-point4c-unbranded " isigaba.">
 
 <!ENTITY rights2.webservices-header "Izinsizakalo zolwazi ezigxile kwiwebhu ye-&brandFullName;">
@@ -70,7 +70,7 @@
 <!ENTITY rights.locationawarebrowsing-term4 "Ukudlulisa amehlo kokuqonda kwendawo manje kukhutshaziwe">
 <!-- intro paragraph for unbranded builds -->
 
-<!ENTITY rights.webservices-unbranded "Ukufinqwa kwezinsizakalo zewebhusayithi umkhiqizo uhlanganisa, nemiyalo ekubeni ungazikhubaza kanjani, uma kukhona kufanele kufakwe.">
+<!ENTITY rights.webservices-unbranded "An overview of the website services the product incorporates, along with instructions on how to disable them, if applicable, should be included here.">
 <!-- point 1 text for unbranded builds -->
 
 <!ENTITY rights.webservices-term1-unbranded "Noma iyiphi inqubomgomo yensizakalo yalo mkhiqizo kufanele fakwe ohlwini lapha.">

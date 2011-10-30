@@ -111,13 +111,13 @@
 <!ENTITY  securityView.unknown   "Akwaziwa">
 
 
-<!ENTITY  securityView.identity.header   "Ubunikazi bewebhu sayithi">
+<!ENTITY  securityView.identity.header   "Ubunikazi bewebhusayithi">
 <!ENTITY  securityView.identity.owner    "Umnikazi:">
-<!ENTITY  securityView.identity.domain   "Iwebhu sayithi:">
+<!ENTITY  securityView.identity.domain   "Iwebhusayithi:">
 <!ENTITY  securityView.identity.verifier "Iqinisekiswe ngu:">
 
 <!ENTITY  securityView.privacy.header                   "Okwangasese nomlando">
-<!ENTITY  securityView.privacy.history                  "Ingabe ngiyivakashele le webhu sayithi ngaphambi kwanamuhla?">
+<!ENTITY  securityView.privacy.history                  "Ingabe ngiyivakashele le webhusayithi ngaphambi kwanamuhla?">
 <!ENTITY  securityView.privacy.cookies                  "Ingabe le webhu sayithi iyalugcina ulwazi (amakhukhi) kukhompyutha yami?">
 <!ENTITY  securityView.privacy.viewCookies              "Bheka amakhukhi">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
