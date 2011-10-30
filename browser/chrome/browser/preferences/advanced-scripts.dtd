@@ -40,8 +40,8 @@
 
 <!ENTITY allowScripts.label             "Permitir scripts para:">
 
-<!ENTITY moveResizeWindows.label        "Mover ou redimensionar as xanelas existentes">
-<!ENTITY moveResizeWindows.accesskey    "M">
+<!ENTITY moveResizePopupWindows.label     "Mover ou redimensionar as xanelas emerxentes">
+<!ENTITY moveResizePopupWindows.accesskey "M">
 <!ENTITY raiseLowerWindows.label        "Elevar ou baixar xanelas">
 <!ENTITY raiseLowerWindows.accesskey    "E">
 <!ENTITY disableContextMenus.label      "Desactivar ou substituír menús de contexto">
