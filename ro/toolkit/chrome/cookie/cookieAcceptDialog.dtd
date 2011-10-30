@@ -1,3 +1,9 @@
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY     props.name.label               "Nume:">
 <!ENTITY     props.value.label              "Conținut:">
 <!ENTITY     props.domain.label             "Gazdă:">

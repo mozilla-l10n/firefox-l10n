@@ -1,3 +1,9 @@
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY lookInMenuList.label   "Privește în:">
 <!ENTITY lookInMenuList.accesskey   "P">
 <!ENTITY textInput.label        "Nume fișier:">

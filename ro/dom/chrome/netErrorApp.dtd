@@ -1,3 +1,9 @@
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- Error messages that are likely to be overridden by applications go in this
      file, all messages that likely don't need to tie into app-specific UI
      should go into netError.dtd -->
