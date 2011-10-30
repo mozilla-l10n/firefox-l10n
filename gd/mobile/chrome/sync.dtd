@@ -3,7 +3,6 @@
 <!ENTITY sync.connect               "Ceangail">
 <!ENTITY sync.connected             "Ceangailte ris">
 <!ENTITY sync.details               "Mion-fhiosrachadh">
-<!ENTITY sync.synchronize           "Cuir an sioncronachadh an comas">
 <!ENTITY sync.deviceName            "An t-inneal seo">
 <!ENTITY sync.disconnect            "Dì-cheangail">
 <!ENTITY sync.syncNow               "Co-shioncronaich an-dràsta">
@@ -14,7 +13,7 @@
 <!ENTITY sync.setup.manual          "Cuir a-steach fiosrachadh a' chunntais sioncronachaidh agad">
 <!ENTITY sync.account               "Ainm a' chunntais">
 <!ENTITY sync.password              "Facal-faire">
-<!ENTITY sync.syncKey               "Iuchair sioncronachaidh">
+<!ENTITY sync.recoveryKey           "An iuchair aisig">
 <!ENTITY sync.customServer          "Cleachd frithealaichte gnàthaichte">
 <!ENTITY sync.serverURL             "URL an fhrithealaiche">
 <!ENTITY sync.setup.connect         "Ceangail">

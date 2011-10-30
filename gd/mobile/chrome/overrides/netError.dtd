@@ -3,8 +3,8 @@
 
 <!ENTITY loadError.label "Duilgheadas le luchdadh na duilleige">
 <!ENTITY retry.label "Feuch ris a-rithist">
-
 <!-- Specific error messages -->
+
 
 <!ENTITY connectionFailure.title "Cha ghabh ceangal a dhèanamh ris">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
@@ -13,22 +13,19 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Cha deach am frithealaiche a lorg">
-<!ENTITY dnsNotFound.longDesc2 "
-<ul>
-  <li>Dèan cinnteach nach eil mearachdan litreachaidh san t-seòladh mar
-    <strong>ww</strong>.ball-sampaill.com seach
-    <strong>www</strong>.ball-sampaill.com</li>
-  <li>Mur urrainn dhut duilleag sam bith a ruigsinn, cuir sùil air ceangal dàta no WiFi an inneil agad.</li>
-</ul>
-">
+<!ENTITY dnsNotFound.longDesc2 "<ul> 
+<li>Dèan cinnteach nach eil mearachdan litreachaidh san t-seòladh mar 
+<strong>ww</strong>.ball-sampaill.com seach 
+<strong>www</strong>.ball-sampaill.com</li> 
+<li>Mur urrainn dhut duilleag sam bith a ruigsinn, cuir sùil air ceangal dàta no WiFi an inneil agad.</li> 
+</ul>">
 
 <!ENTITY fileNotFound.title "Cha deach am faidhle a lorg">
-<!ENTITY fileNotFound.longDesc "
-<ul>
-  <li>Dèan cinnteach nach eile litrichean mòra no beaga san àite chearr no mearachdan litreachaidh eile.</li>
-  <li>Saoil an deach am faidhle a ghluasad, a sguabadh às no gun deach ainm ùr a chur air?</li>
-</ul>
-">
+<!ENTITY fileNotFound.longDesc "<ul> 
+<li>Dèan cinnteach nach eile litrichean mòra no beaga san àite chearr no mearachdan litreachaidh eile.</li> 
+<li>Saoil an deach am faidhle a ghluasad, a sguabadh às no gun deach ainm ùr a chur air?</li> 
+</ul>">
+
 
 <!ENTITY generic.title "Mo chreach!">
 <!ENTITY generic.longDesc "<p>Chan urrainn do &brandShortName; an duilleag seo a luchdadh air sgàth adhbhar air choireigin.</p>">
@@ -40,11 +37,9 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netOffline.title "Am modh far loidhne">
-<!ENTITY netOffline.longDesc2 "
-<ul>
-  <li>Feuch ris a-rithist. Feuchaidh &brandShortName; ri ceangal fhosgladh is an duilleag ath-luchdadh.</li>
-</ul>
-">
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>Feuch ris a-rithist. Feuchaidh &brandShortName; ri ceangal fhosgladh is an duilleag ath-luchdadh.</li> 
+</ul>">
 
 <!ENTITY contentEncodingError.title "Mearachd le còdachadh na susbaint">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Nach leig thu fios air an duilgheadas seo gun fheadhainn aig a bheil an làrach-lìn?</li> </ul>">
@@ -65,12 +60,10 @@
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Dèan cinnteach gu bheil na roghainnean progsaidh ceart.</li> <li>Cuir fios gu rianaire an lìonra agad gus dèanamh cinnteach gu bheil am progsaidh ag obair.</li></ul>">
 
 <!ENTITY proxyResolveFailure.title "Cha ghabh am frithealaiche progsaidh a lorg">
-<!ENTITY proxyResolveFailure.longDesc2 "
-<ul>
-  <li>Dèan cinnteach gu bheil na roghainnean progsaidh ceart.</li>
-  <li>Dèan cinnteach gu bheil ceangal dàta no WiFi beò aig an inneal agad.</li>
-</ul>
-">
+<!ENTITY proxyResolveFailure.longDesc2 "<ul> 
+<li>Dèan cinnteach gu bheil na roghainnean progsaidh ceart.</li> 
+<li>Dèan cinnteach gu bheil ceangal dàta no WiFi beò aig an inneal agad.</li> 
+</ul>">
 
 <!ENTITY redirectLoop.title "Chan eil an duilleag ag ath-stiùireadh mar bu chòir">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Tachraidh seo uaireannan mur eil briosgaidean an comas no 'gan diùltadh.</li></ul>">
@@ -84,12 +77,10 @@
 <!ENTITY nssBadCert.title "Dh'fhàillig an ceangal tèarainte">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Dh'fhaodadh gur e duilgheadas le rèiteachadh an fhrithealaiche a tha ann no gu bheil cuideigin a' feuchainn ri gabhail orra gur iadsan am frithealaiche.</li> <li>Ma chaidh agad air ceangal a dhèanamh ris an fhrithealaiche seo roimhe, 's mathaid nach mair a' mhearachd agus feuch ris a-rithist an ceann tàmaill.</li> </ul>     ">
 
-<!ENTITY sharedLongDesc2 "
-<ul>
-  <li>Dh'fhaodadh nach eil an làrach seo ri faighinn rè seal no gu bheil e ro thrang. Feuch ris a-rithist an ceann tàmaill.</li>
-  <li>Mur urrainn dhut duilleag sam bith a ruigsinn, cuir sùil air ceangal dàta no WiFi an inneil agad.</li>
-</ul>
-">
+<!ENTITY sharedLongDesc2 "<ul> 
+<li>Dh'fhaodadh nach eil an làrach seo ri faighinn rè seal no gu bheil e ro thrang. Feuch ris a-rithist an ceann tàmaill.</li> 
+<li>Mur urrainn dhut duilleag sam bith a ruigsinn, cuir sùil air ceangal dàta no WiFi an inneil agad.</li> 
+</ul>">
 
 <!ENTITY cspFrameAncestorBlocked.title "'Ga chasgadh le poileasaidh tèarainteachd susbainte">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Chuir &brandShortName; casg air luchdadh na duilleige seo air an dòigh seo a chionn 's gu bheil poileasaidh tèarainteachd susbainte ann nach eil 'ga cheadachadh.</p>">
@@ -100,17 +91,17 @@
 <!ENTITY securityOverride.linkText "No 's urrainn dhut eisgeachd a chur ris…">
 <!ENTITY securityOverride.getMeOutOfHereButton "A-mach às an àite seo leam!">
 <!ENTITY securityOverride.exceptionButtonLabel "Cuir eisgeachd ris…">
-
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningContent "<p>Cha bu chòir dhut eisgeachd a chur ris ma tha thu a' cleachdadh ceangal dhan eadar-lìon anns nach eil earbsa agad buileach no mur eil dùil agad ri rabhadh mun fhrithealaiche seo.</p>
 
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
- ">
+<!ENTITY securityOverride.warningContent "<p>Cha bu chòir dhut eisgeachd a chur ris ma tha thu a' cleachdadh ceangal dhan eadar-lìon anns nach eil earbsa agad buileach no mur eil dùil agad ri rabhadh mun fhrithealaiche seo.</p> 
+ 
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "XUL cèin">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Leig fios do sheilbheadairean na làraich-lìn mun duilgheadas seo.</li></ul></p>">
+
