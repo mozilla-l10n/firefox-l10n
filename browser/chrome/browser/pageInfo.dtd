@@ -121,7 +121,7 @@
 <!ENTITY  securityView.privacy.cookies                  "Stoor hierdie webwerf inligting (koekies) op my rekenaar?">
 <!ENTITY  securityView.privacy.viewCookies              "Bekyk koekies">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
-<!ENTITY  securityView.privacy.passwords                "Het ek enige wagwoord vir hierdie webwerf gestoor?">
+<!ENTITY  securityView.privacy.passwords                "Het ek enige wagwoorde vir hierdie webwerf gestoor?">
 <!ENTITY  securityView.privacy.viewPasswords            "Bekyk gestoorde wagwoorde">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "k">
 

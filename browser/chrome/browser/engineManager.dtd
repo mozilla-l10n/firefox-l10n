@@ -13,7 +13,7 @@
 <!ENTITY  remove.label              "Verwyder">
 <!ENTITY  remove.accesskey          "V">
 <!ENTITY  edit.label                "Redigeer sleutelwoord…">
-<!ENTITY  edit.accesskey            "i">
+<!ENTITY  edit.accesskey            "e">
 
 <!ENTITY  addEngine.label           "Kry meer soekenjins…">
 <!ENTITY  addEngine.accesskey       "e">
@@ -22,4 +22,4 @@
 <!ENTITY  enableSuggest.accesskey   "W">
 
 <!ENTITY  restoreDefaults.label     "Laai verstek terug">
-<!ENTITY  restoreDefaults.accesskey "a">
+<!ENTITY  restoreDefaults.accesskey "L">

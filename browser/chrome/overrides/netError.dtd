@@ -137,7 +137,7 @@ instaanbediener beskerm word, maak seker dat &brandShortName; toegelaat word om 
 
 
 <!ENTITY securityOverride.linkText "Of u kan 'n uitsondering byvoeg…">
-<!ENTITY securityOverride.getMeOutOfHereButton "Eina! Laat ek weg wees!">
+<!ENTITY securityOverride.getMeOutOfHereButton "Laat ek weg wees!">
 <!ENTITY securityOverride.exceptionButtonLabel "Voeg uitsondering by…">
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The

@@ -4,8 +4,8 @@
 <!ENTITY warnCloseMultipleTabs.label  "Waarsku my wanneer ek meer as een oortjie sluit">
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">
 
-<!ENTITY warnOpenManyTabs.label       "Waarsku my wanneer dit dalk &brandShortName; kan vertraag as ek meer as een oortjies open">
-<!ENTITY warnOpenManyTabs.accesskey   "o">
+<!ENTITY warnOpenManyTabs.label       "Waarsku my wanneer dit dalk &brandShortName; kan vertraag as ek klomp oortjies open">
+<!ENTITY warnOpenManyTabs.accesskey   "W">
 
 <!ENTITY showTabBar.label             "Wys altyd die oortjiebalk">
 <!ENTITY showTabBar.accesskey         "b">
