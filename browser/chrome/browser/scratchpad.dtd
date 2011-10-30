@@ -2,7 +2,7 @@
 # Translator(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
-# stelistcristi <stelistcristi@yahoo.com>
+# Cristian Silaghi <stelistcristi@yahoo.com>
 # raulmalea <raul.malea@gmail.com>
 #
 -->
@@ -10,7 +10,6 @@
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!-- LOCALIZATION NOTE : FILE This file contains the Scratchpad window strings -->
@@ -68,7 +67,7 @@
 <!ENTITY copyCmd.key                  "C">
 <!ENTITY copyCmd.accesskey            "C">
 
-<!ENTITY pasteCmd.label               "Lipeşte">
+<!ENTITY pasteCmd.label               "Lipește">
 <!ENTITY pasteCmd.key                 "V">
 <!ENTITY pasteCmd.accesskey           "p">
 
