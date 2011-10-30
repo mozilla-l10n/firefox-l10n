@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# Laudatti <Laudatti@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -46,4 +59,5 @@
 <!ENTITY calendar.invitations.list.alldayevent.text                     "Evenimentul durează toată ziua">
 <!ENTITY calendar.invitations.list.location.text                        "Loc: ">
 <!ENTITY calendar.invitations.list.organizer.text                       "Organizator: ">
+<!ENTITY calendar.invitations.list.attendee.text                        "Participant: ">
 <!ENTITY calendar.invitations.list.none.text                            "Niciuna">
