@@ -19,8 +19,8 @@
 <!ENTITY signIn.account2.accesskey  "R">
 <!ENTITY signIn.password.label      "Wagwoord">
 <!ENTITY signIn.password.accesskey  "W">
-<!ENTITY signIn.syncKey.label       "Sync-sleutel">
-<!ENTITY signIn.syncKey.accesskey   "s">
+<!ENTITY signIn.recoveryKey.label       "Herwinningsleutel">
+<!ENTITY signIn.recoveryKey.accesskey   "H">
 <!-- New Account Page 1: Basic Account Info -->
 
 <!ENTITY setup.newAccountDetailsPage.title.label "Rekeningdetails">
@@ -41,12 +41,12 @@
 <!ENTITY setup.tosAgree2.accesskey  "">
 <!-- New Account Page 2: Sync Key -->
 
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; is besorg oor jou privaatheid">
-<!ENTITY setup.newSyncKeyPage.description.label "Om algehele privaatheid te verseker word al jou data geënkripteer voor dit opgelaai word. Die Sync-sleutel wat nodig is om die data mee te dekripteer, word nie opgelaai nie.">
-<!ENTITY syncKeyEntry.label        "Jou Sync-sleutel">
-<!ENTITY syncKeyEntry.accesskey    "s">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; is besorg oor jou privaatheid">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Om algehele privaatheid te verseker word al u data geënkripteer voor dit opgelaai word. Die herwinningsleutel wat nodig is om die data mee te dekripteer, word nie opgelaai nie.">
+<!ENTITY recoveryKeyEntry.label        "U herwinningsleutel">
+<!ENTITY recoveryKeyEntry.accesskey    "h">
 <!ENTITY syncGenerateNewKey.label  "Genereer 'n nuwe sleutel">
-<!ENTITY syncKeyBackup.description "Die Sync-sleutel is nodig om &syncBrand.fullName.label; op ander rekenaars te bekyk. Maak asseblief 'n dekkopie. Ons kan nie help om jou Sync-sleutel te herwin nie.">
+<!ENTITY recoveryKeyBackup.description "Die herwinningsleutel is nodig vir toegang tot &syncBrand.fullName.label; op ander rekenaars. Maak asseblief 'n dekkopie. Ons kan nie help om 'n herwinningsleutel te herwin nie.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Druk…">
 <!ENTITY button.syncKeyBackup.print.accesskey "D">
@@ -59,18 +59,18 @@
 <!ENTITY addDevice.title.label              "Voeg toestel by">
 <!ENTITY addDevice.showMeHow.label          "Wys my hoe.">
 <!ENTITY addDevice.dontHaveDevice.label     "Ek het nie 'n toestel by my nie">
-<!ENTITY addDevice.setup.description.label  "Om te aktiveer, gaan na &syncBrand.shortName.label; se Opsies op jou ander toestel en kies &#x0022;Voeg 'n toestel by&#x0022;.">
+<!ENTITY addDevice.setup.description.label  "Om te aktiveer, gaan na &syncBrand.shortName.label; se Opsies op die ander toestel en kies &#x0022;Voeg 'n toestel by&#x0022;.">
 <!ENTITY addDevice.setup.enterCode.label    "Tik dan hierdie kode in:">
-<!ENTITY addDevice.dialog.description.label "Om jou nuwe toestel te aktiveer, gaan na &syncBrand.shortName.label; se opsies op die toestel en kies &#x0022;Koppel&#x0022;.">
+<!ENTITY addDevice.dialog.description.label "Om 'n nuwe toestel te aktiveer, gaan na &syncBrand.shortName.label; se opsies op die toestel en kies &#x0022;Koppel&#x0022;.">
 <!ENTITY addDevice.dialog.enterCode.label   "Tik die kode wat die toestel gee:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Probeer gerus weer.">
 <!ENTITY addDevice.dialog.successful.label  "Die toestel is suksesvol bygevoeg. Die aanvanklike sinkronisering kan lank duur en sal in die agtergrond klaarmaak.">
-<!ENTITY addDevice.dialog.syncKey.label     "Om jou toestel te aktiveer moet jy jou Sync-sleutel intik. Druk of stoor hierdie sleutel en neem dit saam.">
+<!ENTITY addDevice.dialog.recoveryKey.label     "Om 'n toestel te aktiveer, moet die herwinningsleutel ingetik word. Druk of stoor hierdie sleutel en neem dit saam.">
 <!ENTITY addDevice.dialog.connected.label   "Toestel gekoppel">
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "Meld aan">
-<!ENTITY existingSyncKey.description "Om 'n afskrif van jou Sync-sleutel te kry, gaan na &syncBrand.shortName.label; se Opsies op jou ander toestel, en kies &#x0022;My Sync-sleutel&#x0022; in &#x0022;Bestuur rekening&#x0022;.">
+<!ENTITY existingRecoveryKey.description "Om 'n afskrif van 'n herwinningsleutel te kry, gaan na &syncBrand.shortName.label; se Opsies op die ander toestel, en kies &#x0022;My herwinningsleutel&#x0022; in &#x0022;Bestuur rekening&#x0022;.">
 <!ENTITY verifying.label              "Verifieer tans…">
 <!ENTITY resetPassword.label          "Stel wagwoord terug">
 <!ENTITY resetSyncKey.label           "Ek het my ander toestel verloor.">

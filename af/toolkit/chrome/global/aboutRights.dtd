@@ -70,7 +70,7 @@
 <!ENTITY rights.locationawarebrowsing-term4 "Liggingbewuste blaaiery is nou gedeaktiveer">
 <!-- intro paragraph for unbranded builds -->
 
-<!ENTITY rights.webservices-unbranded "'n Oorsig oor die webwerfdienste wat die produk bevat, asook instruksies hoe om hulle te deaktiveer, indien van toepassing, behoort hierby ingesluit te wees.">
+<!ENTITY rights.webservices-unbranded "'n Oorsig oor die webwerfdienste wat die produk bevat, asook instruksies vir hoe om hulle te deaktiveer, indien van toepassing, behoort hierby ingesluit te wees.">
 <!-- point 1 text for unbranded builds -->
 
 <!ENTITY rights.webservices-term1-unbranded "Enige toepaslike diensbepalings vir hierdie produk sal daar gelys wees.">

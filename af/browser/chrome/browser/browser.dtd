@@ -111,10 +111,10 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "Vorentoe">
 <!ENTITY forwardCmd.accesskey         "V">
 <!ENTITY forwardButton.tooltip        "Gaan een bladsy vorentoe">
-<!ENTITY backForwardButtonMenu.tooltip "Klik regs of trek of om geskiedenis te wys">
+<!ENTITY backForwardButtonMenu.tooltip "Klik regs of trek af om geskiedenis te wys">
 <!ENTITY backForwardButtonMenuMac.tooltip "Trek af om geskiedenis te wys">
 <!ENTITY reloadCmd.label              "Herlaai">
-<!ENTITY reloadCmd.accesskey          "H">
+<!ENTITY reloadCmd.accesskey          "r">
 <!ENTITY reloadButton.tooltip         "Herlaai huidige bladsy">
 <!ENTITY stopCmd.label                "Stop">
 <!ENTITY stopCmd.accesskey            "S">
@@ -193,6 +193,9 @@ can reach it easily. -->
 <!ENTITY inspectMenu.label            "Inspekteer">
 <!ENTITY inspectMenu.accesskey        "t">
 <!ENTITY inspectMenu.commandkey       "I">
+
+<!ENTITY inspectContextMenu.label     "Inspekteer element">
+<!ENTITY inspectContextMenu.accesskey "Q">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating

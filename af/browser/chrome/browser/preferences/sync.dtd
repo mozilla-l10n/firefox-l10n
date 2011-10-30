@@ -13,19 +13,19 @@
 <!ENTITY manageAccount.label          "Bestuur rekening">
 <!ENTITY manageAccount.accesskey      "r">
 <!ENTITY viewQuota.label              "Bekyk kwota">
-<!ENTITY changePassword2.label         "Verander wagwoord…">
-<!ENTITY mySyncKey.label              "My Sync-sleutel">
-<!ENTITY resetSync2.label              "Laai Sync terug…">
+<!ENTITY changePassword2.label        "Verander wagwoord…">
+<!ENTITY myRecoveryKey.label          "My herwinningsleutel">
+<!ENTITY resetSync2.label             "Laai Sync terug…">
 
 <!ENTITY addDevice.label              "Voeg toestel by">
 
-<!ENTITY syncMy.label               "Sync my">
+<!ENTITY syncMy.label               "Sinkroniseer my">
 <!ENTITY engine.bookmarks.label     "Boekmerke">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label          "Oortjies">
 <!ENTITY engine.tabs.accesskey      "O">
 <!ENTITY engine.history.label       "Geskiedenis">
-<!ENTITY engine.history.accesskey   "d">
+<!ENTITY engine.history.accesskey   "G">
 <!ENTITY engine.passwords.label     "Wagwoorde">
 <!ENTITY engine.passwords.accesskey "W">
 <!ENTITY engine.prefs.label         "Voorkeure">

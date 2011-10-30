@@ -13,8 +13,8 @@
 <!ENTITY useCurrentPage.label      "Gebruik huidige bladsy">
 <!ENTITY useCurrentPage.accesskey  "G">
 <!ENTITY useMultiple.label         "Gebruik huidige bladsye">
-<!ENTITY useBookmark.label         "Gebruik boekmerk">
-<!ENTITY useBookmark.accesskey     "b">
+<!ENTITY chooseBookmark.label      "Gebruik boekmerk…">
+<!ENTITY chooseBookmark.accesskey  "b">
 <!ENTITY restoreDefault.label      "Stel terug na verstek">
 <!ENTITY restoreDefault.accesskey  "S">
 

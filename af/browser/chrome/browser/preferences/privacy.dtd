@@ -73,7 +73,7 @@
 <!ENTITY  rememberSearchForm.label       "Onthou soek- en vormgeskiedenis">
 <!ENTITY  rememberSearchForm.accesskey   "v">
 
-<!ENTITY  clearOnClose.label             "Wys geskiedenis wanneer &brandShortName; toemaak">
+<!ENTITY  clearOnClose.label             "Wis geskiedenis wanneer &brandShortName; toemaak">
 <!ENTITY  clearOnClose.accesskey         "r">
 
 <!ENTITY  clearOnCloseSettings.label     "Opstelling…">

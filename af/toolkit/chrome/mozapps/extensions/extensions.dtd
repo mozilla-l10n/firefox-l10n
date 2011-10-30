@@ -1,9 +1,9 @@
 <!ENTITY addons.windowTitle                   "Byvoegingbestuurder">
 <!ENTITY search.placeholder                   "Deursoek alle byvoegings">
 <!ENTITY loading.label                        "Laai tans…">
-<!ENTITY listEmpty.installed.label            "Jy het nie enige byvoegings van hierdie tipe geïnstalleer nie">
+<!ENTITY listEmpty.installed.label            "Daar is geen byvoegings van hierdie tipe geïnstalleer nie">
 <!ENTITY listEmpty.availableUpdates.label     "Geen bywerkings gevind nie">
-<!ENTITY listEmpty.recentUpdates.label        "Jy het nie onlangs enige byvoegings bygewerk nie">
+<!ENTITY listEmpty.recentUpdates.label        "Geen byvoegings is onlangs bygewerk nie">
 <!ENTITY listEmpty.findUpdates.label          "Kontroleer vir bywerkings">
 <!ENTITY listEmpty.search.label               "Kon nie enige bypassende byvoegings vind nie">
 <!ENTITY listEmpty.button.label               "Kom meer te wete oor byvoegings">
