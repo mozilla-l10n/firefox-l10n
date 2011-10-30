@@ -12,7 +12,7 @@
 <!ENTITY manageAccount.accesskey      "A">
 <!ENTITY viewQuota.label              "Tampilkan Info Jatah">
 <!ENTITY changePassword2.label         "Ganti Sandi…">
-<!ENTITY mySyncKey.label              "Kunci Sinkronisasi">
+<!ENTITY myRecoveryKey.label          "Kunci Pemulihan Saya">
 <!ENTITY resetSync2.label              "Setel Ulang Sinkronisasi…">
 <!ENTITY addDevice.label              "Tambah Perangkat">
 

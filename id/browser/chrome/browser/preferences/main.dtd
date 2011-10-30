@@ -12,8 +12,8 @@
 <!ENTITY useCurrentPage.label      "Gunakan Laman Sekarang">
 <!ENTITY useCurrentPage.accesskey  "G">
 <!ENTITY useMultiple.label         "Gunakan Semua Laman Berikut">
-<!ENTITY useBookmark.label         "Gunakan Markah">
-<!ENTITY useBookmark.accesskey     "h">
+<!ENTITY chooseBookmark.label      "Gunakan Markah…">
+<!ENTITY chooseBookmark.accesskey  "h">
 <!ENTITY restoreDefault.label      "Kembalikan ke Default">
 <!ENTITY restoreDefault.accesskey  "D">
 
