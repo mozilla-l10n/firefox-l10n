@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# janimo <jani@ubuntu.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY window.title  "Despre mesajele spam">
 <!ENTITY window.width  "450">
 <!ENTITY info1a.label  "Mail automatically detects incoming messages that appear to be junk mail (also known as spam). Messages that Mail thinks are junk will display a junk icon">

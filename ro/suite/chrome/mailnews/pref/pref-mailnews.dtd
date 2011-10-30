@@ -1,3 +1,21 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# adiroiban <adiroiban@gmail.com>
+# strainu <crangasi2001@yahoo.com>
+# toffee <daniel@toffee.ro>
+# manuelciosici <manuelrciosici@gmail.com>
+# janimo <jani@ubuntu.com>
+# Laudatti <Laudatti@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
 
@@ -41,6 +59,8 @@
 <!ENTITY confirmMove.accesskey            "C">
 <!ENTITY preserveThreading.label          "Preserve threading when sorting messages">
 <!ENTITY preserveThreading.accesskey      "v">
+<!ENTITY mailBiffOnNewWindow.label        "Only check for new mail after opening Mail &amp; Newsgroups">
+<!ENTITY mailBiffOnNewWindow.accesskey    "O">
 
 <!ENTITY defaultMailSettings.description  "Make &brandShortName; the default application for:">
 <!ENTITY setDefaultMail.label             "Email">
@@ -59,14 +79,3 @@
 <!ENTITY useDefault.accesskey             "R">
 <!ENTITY rememberLastMsg.label            "Reține ultimul mesaj selectat">
 <!ENTITY rememberLastMsg.accesskey        "R">
-<!ENTITY toolbarIntro.caption             "Select the buttons you want to see in the toolbar">
-<!ENTITY fileButton.label                 "Fișierul">
-<!ENTITY fileButton.accesskey             "F">
-<!ENTITY nextButton.label                 "General">
-<!ENTITY nextButton.accesskey             "G">
-<!ENTITY junkMailButton.label             "Nesolicitate">
-<!ENTITY junkMailButton.accesskey         "N">
-<!ENTITY printButton.label                "Listare">
-<!ENTITY printButton.accesskey            "L">
-<!ENTITY stopButton.label                 "Stop">
-<!ENTITY stopButton.accesskey             "S">

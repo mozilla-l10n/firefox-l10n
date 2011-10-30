@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# silviubogan <silviubogan@yahoo.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -41,7 +54,7 @@
 <!ENTITY pageSetup.accesskey  "A">
 <!ENTITY page.label           "Pagină:">
 <!ENTITY page.accesskey       "a">
-<!ENTITY of.label             "a">
+<!ENTITY of.label             "din">
 <!ENTITY scale.label          "Scală:">
 <!ENTITY scale.accesskey      "S">
 <!ENTITY portrait.label       "Portret">
@@ -66,7 +79,7 @@
 <!ENTITY ShrinkToFit.label    "Micșorează ca să încapă">
 <!ENTITY customPrompt.title   "Scală la alegere...">
 
-<!ENTITY homearrow.tooltip    "Pagină dreapta">
+<!ENTITY homearrow.tooltip    "Prima pagină">
 <!ENTITY endarrow.tooltip     "Ultima pagină">
 <!ENTITY rightarrow.tooltip   "Pagina următoare">
-<!ENTITY leftarrow.tooltip    "Înapoi">
+<!ENTITY leftarrow.tooltip    "Pagina precedentă">

@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
 
@@ -41,7 +53,7 @@
 <!ENTITY readMsgsLink.label           "Citește corespondența"> 
 <!ENTITY composeMsgLink.label         "Compose a new message"> 
 
-<!ENTITY newsSectionHdr.label         "Grupuri de știri"> 
+<!ENTITY newsSectionHdr.label         "Newsgroups"> 
 <!ENTITY subscribeNewsLink.label      "Gestionează abonamentele la grupuri de discuții"> 
 
 <!ENTITY accountsSectionHdr.label     "Conturi"> 
@@ -55,6 +67,6 @@
 <!ENTITY junkSettings.label           "Parametri mesaje nesolicitate">
 <!ENTITY offlineLink.label            "Setări pentru lucru offline">
 
-<!ENTITY rssSectionHdr.label          "Știri și bloguri prin RSS"> 
-<!ENTITY subscibeRSS.label            "Gestionează abonamentele"> 
+<!ENTITY feedsSectionHdr.label        "Feeds">
+<!ENTITY subscribeFeeds.label         "Manage subscriptions">
 

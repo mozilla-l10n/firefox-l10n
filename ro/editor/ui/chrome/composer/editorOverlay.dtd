@@ -2,9 +2,9 @@
 # Translator(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
-# nicubunu <nicubunu@gmail.com>
-# turcan <nicturcan@gmail.com>
 # stas <stas@nerd.ro>
+# turcan <nicturcan@gmail.com>
+# nicubunu <nicubunu@gmail.com>
 # janimo <jani@ubuntu.com>
 # secarica <orice@secarica.ro>
 # toffee <daniel@toffee.ro>
@@ -190,7 +190,7 @@
 <!ENTITY styleBoldCmd.accesskey "a">
 <!ENTITY styleBoldCmd.key "B">
 <!ENTITY styleItalicCmd.label "Italic">
-<!ENTITY styleItalicCmd.accesskey "C">
+<!ENTITY styleItalicCmd.accesskey "I">
 <!ENTITY styleItalicCmd.key "I">
 <!ENTITY styleUnderlineCmd.label "Subliniere">
 <!ENTITY styleUnderlineCmd.accesskey "S">

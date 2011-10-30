@@ -1,3 +1,17 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# turcan <nicturcan@gmail.com>
+# secarica <orice@secarica.ro>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
 
@@ -43,7 +57,7 @@
 
 <!ENTITY subjectField.label "Subiect:">
 <!--# LOCALIZATION NOTE (ccField.label): DONT_TRANSLATE -->
-<!ENTITY ccField.label "Copie:">
+<!ENTITY ccField.label "Cc: ">
 <!ENTITY bccField.label "Copie ascunsă:">
 <!ENTITY newsgroupsField.label "Grupuri de discuții:">
 <!ENTITY followupToField.label "Urmare la:">

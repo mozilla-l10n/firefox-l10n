@@ -1,3 +1,9 @@
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -45,7 +51,7 @@ client, supporting advanced junk mail detection and other useful features.">
 <!ENTITY features.title "Caracteristici">
 <!ENTITY feat_multiacc.label "Support for multiple accounts">
 <!ENTITY feat_junk.label "Junk Mail detection">
-<!ENTITY feat_rss.label "Cititor RSS">
+<!ENTITY feat_feeds.label "Feed Reader">
 <!ENTITY feat_filters.label "Filtre mesaje">
 <!ENTITY feat_htmlmsg.label "HTML message support">
 <!ENTITY feat_abook.label "Contacte">

@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
 
@@ -47,5 +59,8 @@
 <!ENTITY copyLinkCmd.label                 "Copiază adresa legăturii">
 <!ENTITY copyLinkCmd.accesskey             "C">
 <!ENTITY CopyMessageId.label               "Copiază Message-ID">
+<!ENTITY CopyMessageId.accesskey           "C">
 <!ENTITY OpenMessageForMsgId.label         "Deschide mesajul pentru ID">
+<!ENTITY OpenMessageForMsgId.accesskey     "O">
 <!ENTITY OpenBrowserWithMsgId.label        "Deschide navigatorul cu Message-ID">
+<!ENTITY OpenBrowserWithMsgId.accesskey    "B">

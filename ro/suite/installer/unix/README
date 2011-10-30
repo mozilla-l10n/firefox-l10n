@@ -31,7 +31,7 @@ at
 
 For the very latest builds, see
 
-  http://ftp.mozilla.org/pub/mozilla.org/seamonkey/nightly/latest-trunk/
+  http://www.seamonkey-project.org/dev/nightly
 
 Keep in mind that nightly builds, which are used by mozilla.org developers
 for testing, may be buggy. If you are looking for a more polished version
@@ -53,12 +53,11 @@ found at the preceding URL along with the releases themselves.
 
 * Linux
 
-   - The following library versions (or compatible) are required:
-     glibc 2.3.2, X.org 1.x, GTK 2.x, fontconfig, pango 1.10, libstdc++ 6.
+   - The following minimum library versions (or compatible) are required:
+     GTK+ 2.10, GLib 2.12, Pango 1.14, X.Org 1.0.
      Red Hat Enterprise Linux 5, Fedora Core 6, ubuntu 6.10 ("Edgy"),
-     Debian "Lenny" (testing), and openSUSE 10.2 (or later) installations
-     should work.
-   - Intel Pentium class processor (500 MHz or faster recommended)
+     Debian "Lenny", and openSUSE 10.2 (or later) installations should work.
+   - Intel Pentium class processor or better (500 MHz or faster recommended)
    - 128 MB RAM
    - 50 MB free hard disk space
 
@@ -78,7 +77,7 @@ Installing on top of previously released builds may cause problems.
 Note: These instructions do not tell you how to build SeaMonkey.
 For info on building SeaMonkey from the mozilla.org source code, see
 
-  http://developer.mozilla.org/en/docs/Build_Documentation
+  http://developer.mozilla.org/en/Build_Documentation
 
 
 Installation Instructions
@@ -93,7 +92,7 @@ Installation Instructions
   1. Create a directory named "seamonkey" (mkdir seamonkey) and change
      to that directory (cd seamonkey).
 
-  2. Click the link on the site you're downloading SeaMonkey from to
+  2. Click the link on the website you're downloading SeaMonkey from to
      download the package (seamonkey*.tar.bz2) file into the seamonkey
      directory.
 
@@ -130,8 +129,8 @@ Installation Instructions
 
   4. Click the icon button and type in the following as the icon's location:
 
-       directory_name/chrome/icons/default/default.xpm
+       directory_name/chrome/icons/default/default.png
 
      where directory_name is the directory where you installed SeaMonkey.
      For example, the default directory is
-     /usr/local/seamonkey/chrome/icons/default/default.xpm.
+     /usr/local/seamonkey/chrome/icons/default/default.png.

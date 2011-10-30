@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# nicubunu <nicubunu@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
 
@@ -37,13 +49,13 @@
 
 <!-- Box Headings -->
 <!ENTITY contact.heading             "Contact">
-<!ENTITY home.heading                "Pagina de start">
-<!ENTITY other.heading               "Alta">
-<!ENTITY phone.heading               "Telefon">
+<!ENTITY home.heading                "Home">
+<!ENTITY other.heading               "Other">
+<!ENTITY phone.heading               "Phone">
 <!ENTITY work.heading                "Lucru">
 <!-- Special Box Headings, for mailing lists -->
 <!ENTITY description.heading         "Descriere">
-<!ENTITY addresses.heading           "Adresă proprie">
+<!ENTITY addresses.heading           "Addresses">
 <!-- For Map It! -->
 <!ENTITY mapItButton.label           "Hartă">
 <!ENTITY mapIt.tooltip               "Afișează o hartă de pe web cu această adresă">
