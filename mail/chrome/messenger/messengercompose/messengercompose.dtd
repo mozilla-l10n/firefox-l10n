@@ -16,6 +16,7 @@
 <!ENTITY attachMenu.accesskey "x">
 <!ENTITY attachFileCmd.label "Ficheiros...">
 <!ENTITY attachFileCmd.accesskey "R">
+<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachPageCmd.label "Página da web...">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -35,7 +36,7 @@
 <!ENTITY saveAsDraftCmd.accesskey "R">
 <!ENTITY saveAsTemplateCmd.label "Modelo">
 <!ENTITY saveAsTemplateCmd.accesskey "M">
-<!ENTITY sendNowCmd.label "Enviar">
+<!ENTITY sendNowCmd.label "Enviar agora">
 <!ENTITY sendCmd.keycode "VK_RETURN">
 <!ENTITY sendNowCmd.accesskey "e">
 <!ENTITY sendLaterCmd.label "Enviar depois">
@@ -72,7 +73,7 @@
 <!ENTITY editRewrapCmd.accesskey "b">
 <!ENTITY deleteCmd.label "Eliminar">
 <!ENTITY deleteCmd.accesskey "l">
-<!ENTITY selectAllCmd.label "Seleccionar tudo">
+<!ENTITY selectAllCmd.label "Selecionar tudo">
 <!ENTITY selectAllCmd.key "a">
 <!ENTITY selectAllCmd.accesskey "s">
 <!ENTITY findCmd.label "Procurar e substituir...">
