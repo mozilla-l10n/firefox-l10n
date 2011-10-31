@@ -19,8 +19,8 @@
 <!ENTITY signIn.account2.accesskey          "K">
 <!ENTITY signIn.password.label              "Parool">
 <!ENTITY signIn.password.accesskey          "P">
-<!ENTITY signIn.syncKey.label               "Synci võti">
-<!ENTITY signIn.syncKey.accesskey           "S">
+<!ENTITY signIn.recoveryKey.label           "Taastamise võti">
+<!ENTITY signIn.recoveryKey.accesskey       "T">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Konto andmed">
@@ -41,12 +41,12 @@
 <!ENTITY setup.tosAgree2.accesskey          "">
 
 <!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label   "&brandShortName; peab lugu sinu privaatsusest">
-<!ENTITY setup.newSyncKeyPage.description.label "Privaatsuse tagamiseks krüptitakse kõik andmed enne üleslaadimist. Võtit, mis on vajalik andmete dekrüptimiseks, üles ei laadita.">
-<!ENTITY syncKeyEntry.label                 "Synci võti">
-<!ENTITY syncKeyEntry.accesskey             "S">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; peab lugu sinu privaatsusest">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Privaatsuse tagamiseks krüptitakse kõik andmed enne üleslaadimist. Võtit, mis on vajalik andmete dekrüptimiseks, üles ei laadita.">
+<!ENTITY recoveryKeyEntry.label             "Taastamise võti">
+<!ENTITY recoveryKeyEntry.accesskey         "T">
 <!ENTITY syncGenerateNewKey.label           "Genereeri uus võti">
-<!ENTITY syncKeyBackup.description          "Synci võti on vajalik &syncBrand.fullName.label;i kasutamisel teistes arvutites. Palun tee varukoopia. Me ei saa sind Synci võtme taastamisel aidata.">
+<!ENTITY recoveryKeyBackup.description      "Taastamise võti on vajalik &syncBrand.fullName.label;i kasutamisel teistes arvutites. Palun tee varukoopia. Me ei saa sind taastamise võtme taastamisel aidata.">
 
 <!ENTITY button.syncKeyBackup.print.label   "Prindi…">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
@@ -65,12 +65,12 @@
 <!ENTITY addDevice.dialog.enterCode.label   "Sisesta kood, mida seade kuvab:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Palun proovi uuesti.">
 <!ENTITY addDevice.dialog.successful.label  "Seade on edukalt lisatud. Esialgne sünkroniseerimine võib võtta mitu minutit ning see lõpetatakse taustal.">
-<!ENTITY addDevice.dialog.syncKey.label     "Seadme aktiveerimiseks tuleb sisestada Synci võti. Palun prindi või salvesta see võti ning võta endaga kaasa.">
+<!ENTITY addDevice.dialog.recoveryKey.label "Seadme aktiveerimiseks tuleb sisestada taastamise võti. Palun prindi või salvesta see võti ning võta endaga kaasa.">
 <!ENTITY addDevice.dialog.connected.label   "Seade on ühendatud">
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label       "Sisselogimine">
-<!ENTITY existingSyncKey.description        "Koopia oma Synci võtmest saad, kui avad &syncBrand.shortName.label;i seaded oma teises seadmes ning valid &#x0022;Konto haldamise&#x0022; alt &#x0022;Synci võti&#x0022;.">
+<!ENTITY existingRecoveryKey.description    "Koopia oma taastamise võtmest saad, kui avad &syncBrand.shortName.label;i seaded oma teises seadmes ning valid &#x0022;Konto haldamise&#x0022; alt &#x0022;Taastamise võti&#x0022;.">
 <!ENTITY verifying.label                    "Kontrollimine…">
 <!ENTITY resetPassword.label                "Lähtesta parool">
 <!ENTITY resetSyncKey.label                 "Ma kaotasin oma teise seadme.">

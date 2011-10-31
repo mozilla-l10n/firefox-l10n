@@ -14,7 +14,7 @@
 <!ENTITY manageAccount.accesskey         "K">
 <!ENTITY viewQuota.label                 "Vaata kvooti">
 <!ENTITY changePassword2.label           "Muuda parooli…">
-<!ENTITY mySyncKey.label                 "Synci võti">
+<!ENTITY myRecoveryKey.label             "Taastamise võti">
 <!ENTITY resetSync2.label                "Lähtesta Sync…">
 
 <!ENTITY addDevice.label                 "Lisa seade">

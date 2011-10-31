@@ -13,8 +13,8 @@
 <!ENTITY useCurrentPage.label          "Kasuta aktiivset veebilehte">
 <!ENTITY useCurrentPage.accesskey      "K">
 <!ENTITY useMultiple.label             "Kasuta aktiivseid veebilehti">
-<!ENTITY useBookmark.label             "Kasuta järjehoidjat">
-<!ENTITY useBookmark.accesskey         "j">
+<!ENTITY chooseBookmark.label          "Kasuta järjehoidjat…">
+<!ENTITY chooseBookmark.accesskey      "j">
 <!ENTITY restoreDefault.label          "Taasta vaikeväärtus">
 <!ENTITY restoreDefault.accesskey      "r">
 
