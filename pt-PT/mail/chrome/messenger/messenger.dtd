@@ -768,7 +768,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY mdnBarIgnoreButton2.label "Ignorar">
 <!ENTITY mdnBarIgnoreButton2.accesskey "I">
 <!ENTITY mdnBarSendButton2.label "Enviar recibo de leitura">
-<!ENTITY mdnBarSendButton2.accesskey "S">
+<!ENTITY mdnBarSendButton2.accesskey "b">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
