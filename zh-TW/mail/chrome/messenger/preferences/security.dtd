@@ -54,6 +54,6 @@
 <!ENTITY askEachTime.label              "每次都詢問我">
 <!ENTITY cookieExceptions.label         "例外網站…">
 <!ENTITY cookieExceptions.accesskey     "E">
-<!ENTITY showCookies.label              "顯示 Cookie …">
+<!ENTITY showCookies.label              "顯示 Cookie…">
 <!ENTITY showCookies.accesskey          "S">
 
