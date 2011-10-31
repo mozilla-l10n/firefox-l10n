@@ -9,3 +9,7 @@
 <!ENTITY prefCheckDefault.caption   "Integração do sistema">
 <!ENTITY prefCheckDefaultClient.label "Verificar definições pré-definidas no arranque">
 <!ENTITY prefCheckDefaultClient.accesskey "V">
+
+<!ENTITY crashReports.caption       "Relatórios de erro">
+<!ENTITY submitCrashes.label        "Enviar relatórios de erro">
+<!ENTITY submitCrashes.accesskey    "S">
