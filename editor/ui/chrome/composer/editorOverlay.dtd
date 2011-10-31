@@ -69,6 +69,7 @@
 <!ENTITY saveAsChangeEncodingCmd.label "අක්ෂර කේතනය වෙනස් කර සුරකින්න">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "E">
 
+
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "සැකසුම්">
 <!ENTITY editMenu.accesskey "E">

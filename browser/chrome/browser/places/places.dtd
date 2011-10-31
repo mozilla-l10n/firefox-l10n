@@ -141,8 +141,8 @@ Entities below were automatically added by compare-locales,
 -->
 
 <!ENTITY importBookmarksFromHTML.accesskey "I">
-<!ENTITY importBookmarksFromHTML.label "Import Bookmarks from HTML…">
-<!ENTITY importOtherBrowser.label "Import Data from Another Browser…">
+<!ENTITY importBookmarksFromHTML.label "HTML වෙතින් පිටුලකුණු ආයාත කිරීම…">
+<!ENTITY importOtherBrowser.label "Browser වෙනත් බ්‍රව්සරයකින් දත්ත ආයාත කිරීම…">
 <!ENTITY exportBookmarksToHTML.accesskey "E">
-<!ENTITY exportBookmarksToHTML.label "Export Bookmarks to HTML…">
+<!ENTITY exportBookmarksToHTML.label "HTML වෙත පිටුලකුණු නිර්යාත කිරීම…">
 <!ENTITY importOtherBrowser.accesskey "A">

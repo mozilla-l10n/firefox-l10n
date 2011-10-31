@@ -16,4 +16,4 @@
 <!ENTITY restorepage.restoreHeader  "ප්‍රතිස්ථාපනය">
 <!ENTITY restorepage.listHeader     "කවුළු සහ ටැබ්">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "Window &#37;S">
+<!ENTITY restorepage.windowLabel    "කවුළු අංක &#37;S">

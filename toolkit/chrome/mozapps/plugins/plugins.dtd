@@ -27,11 +27,6 @@
 <!ENTITY managePlugins                                       "ප්ලගීන කළමනාකරණය…">
 
 
-<!--
-Entities below were automatically added by compare-locales,
- based on en-US entities.
--->
-
 <!ENTITY reloadPlugin.middle "පිටුව ප්‍රතිපූරණය කරන්න">
 <!ENTITY report.disabled "බිඳවැටුම් වාර්තා කිරිම අබල (disable) කර ඇත.">
 <!ENTITY report.failed "යැවීම අසාර්ථක විය.">

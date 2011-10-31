@@ -9,11 +9,5 @@
 <!ENTITY blocklist.accept.label      "&brandShortName; ප්‍රත්‍යාරම්භ (Restart) කරන්න">
 <!ENTITY blocklist.accept.accesskey  "R">
 
-
-<!--
-Entities below were automatically added by compare-locales,
- based on en-US entities.
--->
-
 <!ENTITY blocklist.checkbox.label "අබල">
 <!ENTITY blocklist.blocked.label "අවහිර කළ">
