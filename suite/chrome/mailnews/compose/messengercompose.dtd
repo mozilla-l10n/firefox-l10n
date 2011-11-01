@@ -32,7 +32,6 @@
 <!ENTITY editRewrapCmd.label "Riformatta">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "m">
-<!ENTITY findCmd.label "Trova e sostituisci…">
 <!ENTITY accountManagerCmd.label "Configurazione account…">
 <!ENTITY accountManagerCmd.accesskey "n">
 <!ENTITY showComposeToolbarCmd.label "Barra degli strumenti">
@@ -48,10 +47,6 @@
 <!ENTITY selectAddressCmd.label "Selezione indirizzi…">
 <!ENTITY selectAddressCmd.key "">
 <!ENTITY selectAddressCmd.accesskey "z">
-<!ENTITY checkSpellingCmd2.label "Controlla ortografia…">
-<!ENTITY checkSpellingCmd2.accesskey "C">
-<!ENTITY enableInlineSpellChecker.label "Correggi ortografia in scrittura ">
-<!ENTITY enableInlineSpellChecker.accesskey "u">
 <!ENTITY priorityMenu.label "Priorità">
 <!ENTITY priorityMenu.accesskey "P">
 <!ENTITY lowestPriorityCmd.label "Minima">
