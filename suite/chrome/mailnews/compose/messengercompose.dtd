@@ -41,7 +41,6 @@
 <!ENTITY editRewrapCmd.label "Reformater">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "o">
-<!ENTITY findCmd.label "Rechercher…">
 <!ENTITY accountManagerCmd.label     "Paramètres des comptes…">
 <!ENTITY accountManagerCmd.accesskey "m">
 
@@ -64,11 +63,6 @@
 <!ENTITY selectAddressCmd.label "Sélectionner des adresses…">
 <!ENTITY selectAddressCmd.key "">
 <!ENTITY selectAddressCmd.accesskey "S">
-
-<!ENTITY checkSpellingCmd2.label "Vérifier l'orthographe…">
-<!ENTITY checkSpellingCmd2.accesskey "V">
-<!ENTITY enableInlineSpellChecker.label "Vérifier l'orthographe pendant la saisie">
-<!ENTITY enableInlineSpellChecker.accesskey "S">
 
 <!ENTITY priorityMenu.label "Priorité">
 <!ENTITY priorityMenu.accesskey "P">
