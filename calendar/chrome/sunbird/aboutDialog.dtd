@@ -54,7 +54,7 @@
 <!ENTITY aboutLink.label        "&lt; Despre &brandFullName;">
 <!ENTITY aboutLink.accesskey    "D">
 <!ENTITY aboutVersion           "versiunea">
-<!ENTITY copyrightText          "©1998-2008 Colaboratorii. Toate drepturile sunt rezervate. Mozilla Sunbird, Sunbird, și siglele Sunbird sunt mărci înregistrate ale Fundației Mozilla. Toate drepturile asupra lor sunt rezervate.">
+<!ENTITY copyrightText          "&#169;1998-2010 Colaboratorii. Toate drepturile sunt rezervate. Mozilla Sunbird, Sunbird, și siglele Sunbird sunt mărci înregistrate ale Fundației Mozilla. Toate drepturile asupra lor sunt rezervate.">
 
 <!ENTITY brandMotto       "era și timpul">
 <!ENTITY credit.thanks    "Mulțumiri speciale">
