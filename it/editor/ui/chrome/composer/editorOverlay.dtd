@@ -40,46 +40,19 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY fileMenu.label "File">
-<!ENTITY fileMenu.accesskey "F">
-<!ENTITY openFileCmd.label "Apri file…">
-<!ENTITY openFileCmd.accesskey "f">
-<!ENTITY openFileCmd.key "O">
-<!ENTITY openRemoteCmd.label "Apri pagina web…">
-<!ENTITY openRemoteCmd.accesskey "w">
-<!ENTITY openRemoteCmd.key "L">
-<!ENTITY fileRecentMenu.label "Pagine recenti">
-<!ENTITY fileRecentMenu.accesskey "r">
-<!ENTITY fileRevert.label "Torna all'ultimo salvataggio">
-<!ENTITY fileRevert.accesskey "T">
-<!ENTITY saveCmd.label "Salva">
-<!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveCmd.key "S">
-<!ENTITY saveAsCmd.label "Salva come…">
-<!ENTITY saveAsCmd.accesskey "m">
-<!ENTITY publishCmd.label "Pubblica">
-<!ENTITY publishCmd.accesskey "u">
-<!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "Pubblica con nome…">
-<!ENTITY publishAsCmd.accesskey "l">
-<!ENTITY saveAsChangeEncodingCmd.label "Salva e cambia codifica caratteri">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "d">
-<!ENTITY editMenu.label "Modifica">
-<!ENTITY editMenu.accesskey "M">
 <!ENTITY pasteNoFormatting.label "Incolla senza formattazione">
 <!ENTITY pasteNoFormatting.accesskey "f">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Incolla come">
 <!ENTITY pasteAs.accesskey "o">
-<!ENTITY publishSettings.label "Impostazioni pubblicazione…">
-<!ENTITY publishSettings.accesskey "m">
 <!ENTITY pasteAsQuotationCmd.label "Incolla come citazione">
 <!ENTITY pasteAsQuotationCmd.accesskey "n">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Trova e sostituisci…">
 <!ENTITY enableInlineSpellChecker.label "Controllo ortografico durante la digitazione">
 <!ENTITY enableInlineSpellChecker.accesskey "z">
-<!ENTITY checkSpellingCmd2.label "Controlla ortografia">
+<!ENTITY checkSpellingCmd2.label "Controlla ortografia…">
 <!ENTITY checkSpellingCmd2.accesskey "C">
 <!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY insertMenu.label "Inserisci">
