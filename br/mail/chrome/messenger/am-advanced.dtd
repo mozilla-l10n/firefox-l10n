@@ -4,7 +4,7 @@
 <!ENTITY smtpServer.label "Arventennoù an dafariad kas (SMTP)">
 
 <!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpDesc.label "Daoust ma vez tu reiñ meur a zafariad kas (SMTP) ez eo erbedet an dra-se d'an arveriaded ampart hepken. Gallout a rafec'h resev fazioù en ur gas kemennadennoù, mar spisafec'h meur a zafariad SMTP.">
+<!ENTITY smtpDesc.label "Daoust ma vez tu da reiñ meur a zafariad kas (SMTP) ez eo erbedet an dra-se d'an arveriaded ampart hepken. Gallout a rafec'h resev fazioù en ur gas kemennadennoù, mar spisafec'h meur a zafariad SMTP.">
 
 <!ENTITY smtpListAdd.label  "Ouzhpennañ …">
 <!ENTITY smtpListAdd.accesskey  "O">

@@ -3,8 +3,8 @@
 <!ENTITY securityHeading.label "A-benn kas ha degemer kemennadennoù sinet pe enrineget e vefe gwell deoc'h erspizañ un testeni sinañ niverel hag ivez un testeni enrinegañ.">
 <!ENTITY encryptionGroupTitle.label "Enrinegañ">
 <!ENTITY encryptionChoiceLabel.label "Arventennoù enrinegañ dre ziouer pa vez kaset kemennadennoù :">
-<!ENTITY neverEncrypt.label "Morse (na arverañ ket an enrinegañ)">
-<!ENTITY neverEncrypt.accesskey "M">
+<!ENTITY neverEncrypt.label "Morse (na arverañ an enrinegañ)">
+<!ENTITY neverEncrypt.accesskey "n">
 <!ENTITY alwaysEncryptMessage.label "Azgoulennet (n'hall ket kas kemennadennoù anez ma vefe testenioù gant an holl zegemerion)">
 <!ENTITY alwaysEncryptMessage.accesskey "u">
 <!ENTITY encryptionCert.message "Arverañ an testeni-mañ evit enrinegañ &amp; ezrinegañ ar c'hemennadennoù kaset deoc'h :">

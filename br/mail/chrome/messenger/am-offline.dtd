@@ -15,8 +15,8 @@
 <!ENTITY nntpDownloadMsg.label "Kemennadennoù a zo muioc'h a">
 <!ENTITY nntpDownloadMsg.accesskey "e">
 <!ENTITY retentionCleanup.label "Evit adkavout egor kantenn ez eo posupl diverkañ kemennadennoù kozh da vat">
-<!ENTITY retentionCleanupImap.label "Evit adkavout egor kantenn ez eo posupl diverkañ kemennadennoù kozh da vat, an eiladoù lec'hel hag ar c'hemennadennoù a orin war an dafariad.">
-<!ENTITY retentionCleanupPop.label "Evit adkavout egor kantenn ez eo posupl diverkañ kemennadennoù kozh da vat, hag ar c'hemennadennoù a orin war an dafariad ivez.">
+<!ENTITY retentionCleanupImap.label "Evit adkavout egor kantenn ez eo posupl diverkañ kemennadennoù kozh da vat, an eiladoù lec'hel hag ar c'hemennadennoù orin war an dafariad.">
+<!ENTITY retentionCleanupPop.label "Evit adkavout egor kantenn ez eo posupl diverkañ kemennadennoù kozh da vat, hag ar c'hemennadennoù orin war an dafariad ivez.">
 <!ENTITY retentionKeepMsg.label "Lemel kuit kemennadennoù koshoc'h eget">
 <!ENTITY retentionKeepMsg.accesskey "L">
 <!ENTITY retentionKeepAll.label "Chom hep diverkañ kemennadennoù">

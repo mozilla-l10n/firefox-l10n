@@ -72,5 +72,5 @@
 
 <!ENTITY viewDefaultCharsetList.label     "Postel o tont e-barzh :">
 <!ENTITY viewDefaultCharsetList.accesskey  "s">
-<!ENTITY replyInDefaultCharset2.label     "Mard eo posubl, arverañ ar bonegañ dre ziouer gant ar respontoù">
-<!ENTITY replyInDefaultCharset2.accesskey "e">
+<!ENTITY replyInDefaultCharset2.label     "Mard eo posupl, arverañ ar bonegañ dre ziouer gant ar respontoù">
+<!ENTITY replyInDefaultCharset2.accesskey "M">

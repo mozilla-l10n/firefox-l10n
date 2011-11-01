@@ -41,7 +41,7 @@
 <!ENTITY chooseFileButton.label "Diuzañ ur restr…">
 <!ENTITY chooseFileButton.accessKey "D">
 <!ENTITY chooseFileLinkButton.label "Diuzañ ur restr…">
-<!ENTITY chooseFileLinkButton.accessKey "o">
+<!ENTITY chooseFileLinkButton.accessKey "D">
 <!ENTITY makeUrlRelative.label "Daveel eo an URL ouzh lec'hiadur ar bajennad">
 <!ENTITY makeUrlRelative.accessKey "r">
 <!ENTITY makeUrlRelative.tooltip "Eskemm etre an URL daveel ha dizave. Re eo deoc'h enrollañ ar bajennad a-raok kemm an dra-se.">

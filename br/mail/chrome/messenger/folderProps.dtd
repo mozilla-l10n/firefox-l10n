@@ -58,8 +58,8 @@
 <!ENTITY daysOld.label "a zeizioù zo">
 <!ENTITY message.label "kemennadennoù">
 <!ENTITY retentionCleanup.label "Evit adkavout egor kantenn ez eo posupl lemel kuit kemennadennoù kozh da vat">
-<!ENTITY retentionCleanupImap.label "Evit adkavout egor kantenn ez eo posupl lemel kuit kemennadennoù kozh da vat, an eiladoù lec'hel hag ar c'hemennadennoù a orin war an dafariad.">
-<!ENTITY retentionCleanupPop.label "Evit adkavout egor kantenn ez eo posupl lemel kuit kemennadennoù kozh da vat, hag ar c'hemennadennoù a orin war an dafariad ivez.">
+<!ENTITY retentionCleanupImap.label "Evit adkavout egor kantenn ez eo posupl diverkañ kemennadennoù kozh da vat, an eiladoù lec'hel hag ar c'hemennadennoù orin war an dafariad.">
+<!ENTITY retentionCleanupPop.label "Evit adkavout egor kantenn ez eo posupl diverkañ kemennadennoù kozh da vat, hag ar c'hemennadennoù orin war an dafariad ivez.">
 <!ENTITY retentionDeleteMsg.label "Dilemel ar c'hemennadennoù koshoc'h eget">
 <!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Chom hep dilemel kemennadennoù">

@@ -16,7 +16,7 @@
 
 <!-- global warnings -->
 <!ENTITY warning.safemode.label                    "An holl askouezhioù zo bet diweredekaet gant ar mod diogelroez.">
-<!ENTITY warning.checkcompatibility.label          "Gwiriañ keverlec'hded an askouezhioù zo dizaotreet. Posubl eo deoc'h kaout askouezhioù nad int ket keverlec'h.">
+<!ENTITY warning.checkcompatibility.label          "Gwiriañ keverlec'hded an askouezhioù zo dizaotreet. Posupl eo deoc'h kaout askouezhioù nad int ket keverlec'h.">
 <!ENTITY warning.checkcompatibility.enable.label   "Gweredekaat">
 <!ENTITY warning.checkcompatibility.enable.tooltip "Gweredekaat ar gwiriadur evit keverlec'hded an askouezh">
 <!ENTITY warning.updatesecurity.label              "Diweredekaet eo ar gwiriañ evit hizivaat an askouezhioù. Marteze e viot lakaet en arvar gant hizivadurioù.">

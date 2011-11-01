@@ -50,7 +50,7 @@
 
 <!ENTITY  error.label                     "Kudennoù zo bet evit klask, pellgargañ pe staliañ an hizivadur-mañ. &brandShortName; n'eo ket bet hizivaet rak :">
                                            
-<!ENTITY  errorManual.label               "Posubl eo deoc'h hizivaat &brandShortName; dre zorn en ur weladenniñ an ere-mañ ha pellgargañ an handelv diwezhañ :">
+<!ENTITY  errorManual.label               "Posupl eo deoc'h hizivaat &brandShortName; dre zorn en ur weladenniñ an ere-mañ ha pellgargañ an handelv diwezhañ :">
                                            
 <!ENTITY  errorpatching.intro             "N'hall ket bezañ sevenet an hizivadur darnel. Klasket e vo en-dro gant &brandShortName; da bellgargañ un hizivadur klok.">
 
