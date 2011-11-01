@@ -6,6 +6,9 @@
 
 <!-- General Settings -->
 
+<!ENTITY submitTelemetry.label         "Lähetä suorityskykytietoja">
+<!ENTITY submitTelemetry.accesskey     "s">
+<!ENTITY telemetryInfoLink.label       "Lue lisää lähetyistä tiedoista">
 <!ENTITY enableGlodaSearch.label       "Ota käyttöön viestien yleishaku ja indeksoija">
 <!ENTITY enableGlodaSearch.accesskey   "O">
 <!ENTITY systemIntegration.label       "Järjestelmään liittäminen">

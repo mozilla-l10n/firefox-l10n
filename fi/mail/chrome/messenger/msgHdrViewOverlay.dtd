@@ -35,43 +35,42 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField2.label "vastaanottaja ">
-<!ENTITY fromField2.label "lähettäjä ">
-<!ENTITY senderField2.label "lähettäjä ">
-<!ENTITY organizationField2.label "organisaatio ">
-<!ENTITY replyToField2.label "vastausosoite ">
+<!ENTITY toField3.label "Vastaanottaja ">
+<!ENTITY fromField3.label "Lähettäjä ">
+<!ENTITY senderField3.label "Lähettäjä ">
+<!ENTITY organizationField3.label "Organisaatio ">
+<!ENTITY replyToField3.label "Vastausosoite ">
 
-<!ENTITY subjectField2.label "aihe ">
-<!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
-<!ENTITY ccField2.label "kopio ">
-<!ENTITY bccField2.label "piilokopio ">
-<!ENTITY newsgroupsField2.label "ryhmät ">
-<!ENTITY followupToField2.label "vastausryhmä ">
-<!ENTITY tagsHdr2.label "avainsanat ">
-<!ENTITY dateField2.label "päiväys ">
-<!ENTITY userAgentField2.label "asiakasohjelma ">
-<!ENTITY referencesField2.label "viittaukset ">
-<!ENTITY messageIdField2.label "viestitunnus ">
-<!ENTITY inReplyToField2.label "vastauksena viestiin ">
-<!ENTITY originalWebsite2.label "verkkosivu ">
+<!ENTITY subjectField3.label "Aihe ">
+<!ENTITY ccField3.label "Kopio ">
+<!ENTITY bccField3.label "Piilokopio ">
+<!ENTITY newsgroupsField3.label "Ryhmät ">
+<!ENTITY followupToField3.label "Vastausryhmä ">
+<!ENTITY tagsHdr3.label "Avainsanat ">
+<!ENTITY dateField3.label "Päiväys ">
+<!ENTITY userAgentField3.label "Asiakasohjelma ">
+<!ENTITY referencesField3.label "Viittaukset ">
+<!ENTITY messageIdField3.label "Viestitunnus ">
+<!ENTITY inReplyToField3.label "Vastauksena viestiin ">
+<!ENTITY originalWebsite3.label "Verkkosivu ">
 
 <!ENTITY editMessageDescription.label "Tämä on luonnos">
 <!ENTITY editMessageButton.label "Muokkaa…">
-<!ENTITY hdrArchiveButton.label "arkistoi">
-<!ENTITY hdrArchiveButton.tooltip "arkistoi viesti">
-<!ENTITY hdrSmartReplyButton.label "älyvastaa">
-<!ENTITY hdrReplyButton.label "vastaa">
-<!ENTITY hdrReplyButton.tooltip "vastaa viestiin">
-<!ENTITY hdrReplyAllButton.label "vastaa kaikille">
-<!ENTITY hdrReplyAllButton.tooltip "vastaa lähettäjälle ja muille vastaanottajille">
-<!ENTITY hdrReplyListButton.label "vastaa listalle">
-<!ENTITY hdrReplyListButton.tooltip "vastaa postituslistalle">
-<!ENTITY hdrForwardButton.label "välitä">
-<!ENTITY hdrForwardButton.tooltip "välitä viesti">
-<!ENTITY hdrJunkButton.label "roskapostia">
-<!ENTITY hdrJunkButton.tooltip "merkitse viesti roskapostiksi">
-<!ENTITY hdrTrashButton.label "poista">
-<!ENTITY hdrTrashButton.tooltip "poista viesti">
+<!ENTITY hdrArchiveButton1.label "Arkistoi">
+<!ENTITY hdrArchiveButton1.tooltip "Arkistoi viesti">
+<!ENTITY hdrSmartReplyButton1.label "Älyvastaus">
+<!ENTITY hdrReplyButton1.label "Vastaa">
+<!ENTITY hdrReplyButton1.tooltip "Vastaa viestiin">
+<!ENTITY hdrReplyAllButton1.label "Vastaa kaikille">
+<!ENTITY hdrReplyAllButton1.tooltip "Vastaa lähettäjälle ja muille vastaanottajille">
+<!ENTITY hdrReplyListButton1.label "Vastaa listalle">
+<!ENTITY hdrReplyListButton1.tooltip "Vastaa postituslistalle">
+<!ENTITY hdrForwardButton1.label "Välitä">
+<!ENTITY hdrForwardButton1.tooltip "Välitä viesti">
+<!ENTITY hdrJunkButton1.label "Roskapostia">
+<!ENTITY hdrJunkButton1.tooltip "Merkitse viesti roskapostiksi">
+<!ENTITY hdrTrashButton1.label "Poista">
+<!ENTITY hdrTrashButton1.tooltip "Poista viesti">
 
 <!ENTITY hdrViewToolbarShowFull.label "Kuvakkeet ja teksti">
 <!ENTITY hdrViewToolbarShowFull.accesskey "j">
@@ -82,23 +81,23 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Näytä aina vastaa lähettäjälle">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "N">
 
-<!ENTITY otherActionsButton.label "muut toiminnot">
-<!ENTITY otherActionsOpenConversation.label "avaa keskusteluna">
-<!ENTITY otherActionsOpenConversation.accesskey "k">
-<!ENTITY otherActionsOpenInNewWindow.label "avaa uuteen ikkunaan">
-<!ENTITY otherActionsOpenInNewWindow.accesskey "a">
-<!ENTITY otherActionsOpenInNewTab.label "avaa uuteen välilehteen">
-<!ENTITY otherActionsOpenInNewTab.accesskey "v">
-<!ENTITY markAsReadMenuItem.label "merkitse luetuksi">
-<!ENTITY markAsReadMenuItem.accesskey "l">
-<!ENTITY markAsUnreadMenuItem.label "merkitse ei luetuksi">
-<!ENTITY markAsUnreadMenuItem.accesskey "e">
-<!ENTITY saveAsMenuItem.label "tallenna nimellä…">
-<!ENTITY saveAsMenuItem.accesskey "t">
-<!ENTITY viewSourceMenuItem.label "näytä lähdekoodi…">
-<!ENTITY viewSourceMenuItem.accesskey "n">
-<!ENTITY otherActionsPrint.label "tulosta…">
-<!ENTITY otherActionsPrint.accesskey "u">
+<!ENTITY otherActionsButton1.label "Muut toiminnot">
+<!ENTITY otherActionsOpenConversation1.label "Avaa keskusteluna">
+<!ENTITY otherActionsOpenConversation1.accesskey "k">
+<!ENTITY otherActionsOpenInNewWindow1.label "Avaa uuteen ikkunaan">
+<!ENTITY otherActionsOpenInNewWindow1.accesskey "a">
+<!ENTITY otherActionsOpenInNewTab1.label "Avaa uuteen välilehteen">
+<!ENTITY otherActionsOpenInNewTab1.accesskey "v">
+<!ENTITY markAsReadMenuItem1.label "Merkitse luetuksi">
+<!ENTITY markAsReadMenuItem1.accesskey "l">
+<!ENTITY markAsUnreadMenuItem1.label "Merkitse ei luetuksi">
+<!ENTITY markAsUnreadMenuItem1.accesskey "e">
+<!ENTITY saveAsMenuItem1.label "Tallenna nimellä…">
+<!ENTITY saveAsMenuItem1.accesskey "t">
+<!ENTITY viewSourceMenuItem1.label "Näytä lähdekoodi…">
+<!ENTITY viewSourceMenuItem1.accesskey "n">
+<!ENTITY otherActionsPrint1.label "Tulosta…">
+<!ENTITY otherActionsPrint1.accesskey "u">
 
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label     "Avaa">
@@ -119,26 +118,10 @@
 <!ENTITY deleteAllAttachmentsCmd.accesskey     "K">
 
 <!-- Attachment toolbar items -->
-<!ENTITY saveAttachmentButton.label       "tallenna">
-<!ENTITY saveAttachmentButton.tooltip     "tallenna liitetty tiedosto">
-<!ENTITY saveAllAttachmentsButton.label   "tallenna kaikki">
-<!ENTITY saveAllAttachmentsButton.tooltip "tallenna kaikki liitetyt tiedostot">
-<!ENTITY openAttachmentMenuItem.label     "avaa">
-<!ENTITY openAttachmentMenuItem.accesskey    "a">
-<!ENTITY saveAsAttachmentMenuItem.label    "tallenna nimellä…">
-<!ENTITY saveAsAttachmentMenuItem.accesskey    "t">
-<!ENTITY detachAttachmentMenuItem.label    "irrota…">
-<!ENTITY detachAttachmentMenuItem.accesskey    "i">
-<!ENTITY deleteAttachmentMenuItem.label    "poista">
-<!ENTITY deleteAttachmentMenuItem.accesskey    "p">
-<!ENTITY openAllAttachmentsMenuItem.label    "avaa kaikki…">
-<!ENTITY openAllAttachmentsMenuItem.accesskey    "k">
-<!ENTITY saveAllAttachmentsMenuItem.label    "tallenna kaikki…">
-<!ENTITY saveAllAttachmentsMenuItem.accesskey    "e">
-<!ENTITY detachAllAttachmentsMenuItem.label    "irrota kaikki…">
-<!ENTITY detachAllAttachmentsMenuItem.accesskey    "r">
-<!ENTITY deleteAllAttachmentsMenuItem.label    "poista kaikki…">
-<!ENTITY deleteAllAttachmentsMenuItem.accesskey    "s">
+<!ENTITY saveAttachmentButton1.label       "Tallenna">
+<!ENTITY saveAttachmentButton1.tooltip     "Tallenna liitetty tiedosto">
+<!ENTITY saveAllAttachmentsButton1.label   "Tallenna kaikki">
+<!ENTITY saveAllAttachmentsButton1.tooltip "Tallenna kaikki liitetyt tiedostot">
 
 <!ENTITY copyLinkCmd.label         "Kopioi linkin osoite">
 <!ENTITY copyLinkCmd.accesskey		 "K">
