@@ -43,42 +43,14 @@
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
 <!-- File menu items -->
-<!ENTITY fileMenu.label "Fichier">
-<!ENTITY fileMenu.accesskey "F">
-<!ENTITY openFileCmd.label "Ouvrir un fichier…">
-<!ENTITY openFileCmd.accesskey "O">
-<!ENTITY openFileCmd.key "O">
-<!ENTITY openRemoteCmd.label "Ouvrir une page Web…">
-<!ENTITY openRemoteCmd.accesskey "W">
-<!ENTITY openRemoteCmd.key "L">
-<!ENTITY fileRecentMenu.label "Pages récentes">
-<!ENTITY fileRecentMenu.accesskey "r">
-<!ENTITY fileRevert.label "Revenir au dernier enregistrement">
-<!ENTITY fileRevert.accesskey "d">
-<!ENTITY saveCmd.label "Enregistrer">
-<!ENTITY saveCmd.accesskey "s">
 <!ENTITY saveCmd.key "S">
-<!ENTITY saveAsCmd.label "Enregistrer sous…">
-<!ENTITY saveAsCmd.accesskey "u">
-
-<!ENTITY publishCmd.label "Publier">
-<!ENTITY publishCmd.accesskey "P">
-<!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "Publier comme…">
-<!ENTITY publishAsCmd.accesskey "i">
-<!ENTITY saveAsChangeEncodingCmd.label "Enregistrer en modifiant l'encodage de caractères…">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "r">
 
 <!-- Edit menu items -->
-<!ENTITY editMenu.label "Édition">
-<!ENTITY editMenu.accesskey "n">
 <!ENTITY pasteNoFormatting.label "Coller sans mise en forme">
 <!ENTITY pasteNoFormatting.accesskey "s">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Coller comme">
 <!ENTITY pasteAs.accesskey "c">
-<!ENTITY publishSettings.label "Paramètres de publication des sites…">
-<!ENTITY publishSettings.accesskey "b">
 
 <!ENTITY pasteAsQuotationCmd.label "Coller comme une citation">
 <!ENTITY pasteAsQuotationCmd.accesskey "i">
@@ -86,7 +58,7 @@
 <!ENTITY findCmd.label "Rechercher…">
 <!ENTITY enableInlineSpellChecker.label "Vérifier l'orthographe pendant la saisie">
 <!ENTITY enableInlineSpellChecker.accesskey "A">
-<!ENTITY checkSpellingCmd2.label "Vérifier l'orthographe">
+<!ENTITY checkSpellingCmd2.label "Vérifier l'orthographe…">
 <!ENTITY checkSpellingCmd2.accesskey "o">
 <!ENTITY checkSpellingCmd2.key "p">
 
