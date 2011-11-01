@@ -40,46 +40,19 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY fileMenu.label "Файл">
-<!ENTITY fileMenu.accesskey "а">
-<!ENTITY openFileCmd.label "Открыть файл…">
-<!ENTITY openFileCmd.accesskey "к">
-<!ENTITY openFileCmd.key "O">
-<!ENTITY openRemoteCmd.label "Открыть адрес в Интернете…">
-<!ENTITY openRemoteCmd.accesskey "а">
-<!ENTITY openRemoteCmd.key "L">
-<!ENTITY fileRecentMenu.label "Последние открытые страницы">
-<!ENTITY fileRecentMenu.accesskey "с">
-<!ENTITY fileRevert.label "Вернуться к последнему сохранению">
-<!ENTITY fileRevert.accesskey "н">
-<!ENTITY saveCmd.label "Сохранить">
-<!ENTITY saveCmd.accesskey "х">
 <!ENTITY saveCmd.key "S">
-<!ENTITY saveAsCmd.label "Сохранить как…">
-<!ENTITY saveAsCmd.accesskey "к">
-<!ENTITY publishCmd.label "Опубликовать">
-<!ENTITY publishCmd.accesskey "п">
-<!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "Опубликовать как…">
-<!ENTITY publishAsCmd.accesskey "у">
-<!ENTITY saveAsChangeEncodingCmd.label "Изменить и сохранить кодировку">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "з">
-<!ENTITY editMenu.label "Правка">
-<!ENTITY editMenu.accesskey "р">
 <!ENTITY pasteNoFormatting.label "Вставить без форматирования">
 <!ENTITY pasteNoFormatting.accesskey "б">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Вставить как">
 <!ENTITY pasteAs.accesskey "к">
-<!ENTITY publishSettings.label "Параметры сайта публикации…">
-<!ENTITY publishSettings.accesskey "б">
 <!ENTITY pasteAsQuotationCmd.label "Вставить как цитату">
 <!ENTITY pasteAsQuotationCmd.accesskey "ц">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Найти и заменить…">
 <!ENTITY enableInlineSpellChecker.label "Проверка орфографии при наборе текста">
 <!ENTITY enableInlineSpellChecker.accesskey "н">
-<!ENTITY checkSpellingCmd2.label "Проверка орфографии">
+<!ENTITY checkSpellingCmd2.label "Проверка орфографии…">
 <!ENTITY checkSpellingCmd2.accesskey "в">
 <!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY insertMenu.label "Вставить">

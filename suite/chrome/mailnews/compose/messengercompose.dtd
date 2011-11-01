@@ -32,7 +32,6 @@
 <!ENTITY editRewrapCmd.label "Переформатировать">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "е">
-<!ENTITY findCmd.label "Найти и заменить…">
 <!ENTITY accountManagerCmd.label "Параметры учётной записи…">
 <!ENTITY accountManagerCmd.accesskey "м">
 <!ENTITY showComposeToolbarCmd.label "Панель инструментов почты">
@@ -48,10 +47,6 @@
 <!ENTITY selectAddressCmd.label "Выбрать адреса…">
 <!ENTITY selectAddressCmd.key "">
 <!ENTITY selectAddressCmd.accesskey "в">
-<!ENTITY checkSpellingCmd2.label "Проверить орфографию…">
-<!ENTITY checkSpellingCmd2.accesskey "в">
-<!ENTITY enableInlineSpellChecker.label "Проверка орфографии при наборе текста">
-<!ENTITY enableInlineSpellChecker.accesskey "о">
 <!ENTITY priorityMenu.label "Важность">
 <!ENTITY priorityMenu.accesskey "ж">
 <!ENTITY lowestPriorityCmd.label "Самая низкая">
