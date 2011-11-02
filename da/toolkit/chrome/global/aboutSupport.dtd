@@ -21,6 +21,7 @@
 <!ENTITY aboutSupport.appBasicsBuildConfig "Byggekonfiguration">
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
 <!ENTITY aboutSupport.appBasicsCrashIDs "Fejlrapporter">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Hukommelsesforbrug">
 
 <!ENTITY aboutSupport.show.label "Åbn mappe">
 
