@@ -12,7 +12,7 @@
 <!ENTITY select.name.style "width: 33ch;">
 <!ENTITY confirm.heading "Selecciona tus complementos">
 <!ENTITY confirm.description "Haz que &brandShortName; sea aún más rápido mediante la desactivación de los complementos que ya no usas. Los complementos de terceros ya instalados se desactivarán automáticamente, a menos que los selecciones a continuación.">
-<!ENTITY action.disable.heading "Los siguientes complementos serán deshabilidatos:">
+<!ENTITY action.disable.heading "Los siguientes complementos serán desabilidatos:">
 <!ENTITY action.incompatible.heading "Los siguientes complementos están deshabilitados, pero serán activados tan pronto como sean compatibles:">
 <!ENTITY action.update.heading "Los siguientes complementos serán actualizados:">
 <!ENTITY action.enable.heading "Los complementos siguientes serán activados:">
