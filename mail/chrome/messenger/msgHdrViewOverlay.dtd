@@ -117,7 +117,6 @@
 <!ENTITY deleteAllAttachmentsCmd.label    "Διαγραφή όλων…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "φ">
 
-<!ENTITY openAttachment.tooltip "Άνοιγμα του συνημμένου αρχείου">
 
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Αποθήκευση">
