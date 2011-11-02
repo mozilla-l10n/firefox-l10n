@@ -1,57 +1,57 @@
-<!ENTITY itemGeneral.label                   "General">
-<!ENTITY itemAutoComplete.label              "Addressing">
-<!ENTITY itemSpellCheck.label                "Spelling">
+<!ENTITY itemGeneral.label                   "Općenito">
+<!ENTITY itemAutoComplete.label              "Adresiranje">
+<!ENTITY itemSpellCheck.label                "Pravopis">
 
-<!ENTITY forwardMsg.label                     "Forward messages:">
-<!ENTITY forwardMsg.accesskey                 "F">
-<!ENTITY inline.label                         "Inline">
-<!ENTITY asAttachment.label                   "As Attachment">
-<!ENTITY addExtension.label                   "add extension to file name">
+<!ENTITY forwardMsg.label                     "Proslijedi poruke:">
+<!ENTITY forwardMsg.accesskey                 "P">
+<!ENTITY inline.label                         "Umetnute">
+<!ENTITY asAttachment.label                   "Kao privitak">
+<!ENTITY addExtension.label                   "dodaj nastavak na ime datoteke">
 <!ENTITY addExtension.accesskey               "e">
 
 <!ENTITY htmlComposeHeader.label              "HTML">
-<!ENTITY font.label                           "Font:">
-<!ENTITY font.accesskey                       "n">
-<!ENTITY size.label                           "Size:">
-<!ENTITY size.accesskey                       "z">
-<!ENTITY fontColor.label                      "Text Color:">
-<!ENTITY fontColor.accesskey                  "T">
-<!ENTITY bgColor.label                        "Background Color:">
+<!ENTITY font.label                           "Slova:">
+<!ENTITY font.accesskey                       "l">
+<!ENTITY size.label                           "Veličina:">
+<!ENTITY size.accesskey                       "V">
+<!ENTITY fontColor.label                      "Boja teksta:">
+<!ENTITY fontColor.accesskey                  "t">
+<!ENTITY bgColor.label                        "Boja pozadine:">
 <!ENTITY bgColor.accesskey                    "B">
-<!ENTITY restoreHTMLDefaults.label            "Restore Defaults">
-<!ENTITY restoreHTMLDefaults.accesskey        "R">
+<!ENTITY restoreHTMLDefaults.label            "Vrati zadane postavke">
+<!ENTITY restoreHTMLDefaults.accesskey        "r">
 
-<!ENTITY spellCheck.label                     "Check spelling before sending">
-<!ENTITY spellCheck.accesskey                 "C">
-<!ENTITY spellCheckInline.label               "Enable spell check as you type">
-<!ENTITY spellCheckInline1.accesskey          "E">
-<!ENTITY languagePopup.label                  "Language:">
-<!ENTITY languagePopup.accessKey              "L">
-<!ENTITY downloadDictionaries.label           "Download More Dictionaries">
+<!ENTITY spellCheck.label                     "Provjeri pravopis prije slanja">
+<!ENTITY spellCheck.accesskey                 "P">
+<!ENTITY spellCheckInline.label               "Omogući provjeru pravopisa prilikom tipkanja">
+<!ENTITY spellCheckInline1.accesskey          "e">
+<!ENTITY languagePopup.label                  "Jezik:">
+<!ENTITY languagePopup.accessKey              "J">
+<!ENTITY downloadDictionaries.label           "Preuzmi više riječnika">
 
-<!ENTITY warnOnSendAccelKey.label             "Confirm when using keyboard shortcut to send message">
-<!ENTITY warnOnSendAccelKey.accesskey         "C">
-<!ENTITY autoSave.label                       "Auto Save every">
+<!ENTITY warnOnSendAccelKey.label             "Potvrdi slanje prilikom korištenja tipkovničkih skraćenica za slanje poruke">
+<!ENTITY warnOnSendAccelKey.accesskey         "o">
+<!ENTITY autoSave.label                       "Automatski spremi svakih">
 <!ENTITY autoSave.accesskey                   "A">
-<!ENTITY autoSaveEnd.label                    "minutes">
+<!ENTITY autoSaveEnd.label                    "minuta">
 
-<!ENTITY emailCollectionPicker.label           "Automatically add outgoing e-mail addresses to my:">
+<!ENTITY emailCollectionPicker.label           "Automatski dodaj adrese e-pošte iz poslanih poruka u moj:">
 <!ENTITY emailCollectionPicker.accesskey       "A">
-<!ENTITY addressingTitle.label                 "Address Autocompletion">
-<!ENTITY autocompleteText.label                "When addressing messages, look for matching entries in:">
-<!ENTITY addressingEnable.label                "Local Address Books">
+<!ENTITY addressingTitle.label                 "Automatsko dovršavanje adrese">
+<!ENTITY autocompleteText.label                "Kada adresiram poruke, traži odgovarajuće adrese u:">
+<!ENTITY addressingEnable.label                "Lokalnom adresaru">
 <!ENTITY addressingEnable.accesskey            "L">
-<!ENTITY directories.label                     "Directory Server:">
-<!ENTITY directories.accesskey                 "D">
-<!ENTITY directoriesNone.label                 "None">
-<!ENTITY editDirectories.label                 "Edit Directories…">
-<!ENTITY editDirectories.accesskey             "E">
+<!ENTITY directories.label                     "Poslužiteljskom imeniku:">
+<!ENTITY directories.accesskey                 "P">
+<!ENTITY directoriesNone.label                 "Nepostojeći">
+<!ENTITY editDirectories.label                 "Uredi server…">
+<!ENTITY editDirectories.accesskey             "e">
 
-<!ENTITY sendOptionsDescription.label          "Configure text format behavior">
-<!ENTITY sendOptions.label                     "Send Options…">
-<!ENTITY sendOptions.accesskey                 "S">
+<!ENTITY sendOptionsDescription.label          "Konfiguriraj ponašanje prilikom formatiranja teksta">
+<!ENTITY sendOptions.label                     "Mogućnosti slanja…">
+<!ENTITY sendOptions.accesskey                 "s">
 
-<!ENTITY attachmentReminder.label              "Check for missing attachments">
-<!ENTITY attachmentReminder.accesskey          "m">
-<!ENTITY attachmentReminderOptions.label       "Keywords…">
+<!ENTITY attachmentReminder.label              "Provjeravaj da li nedostaju privitci">
+<!ENTITY attachmentReminder.accesskey          "n">
+<!ENTITY attachmentReminderOptions.label       "Ključne riječi…">
 <!ENTITY attachmentReminderOptions.accesskey   "K">
