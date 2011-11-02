@@ -1,19 +1,19 @@
-<!ENTITY  typeColumn.label            "Content Type">
-<!ENTITY  typeColumn.accesskey        "T">
+<!ENTITY  typeColumn.label            "Vrsta sadržaja">
+<!ENTITY  typeColumn.accesskey        "t">
 
-<!ENTITY  actionColumn2.label         "Action">
-<!ENTITY  actionColumn2.accesskey     "A">
+<!ENTITY  actionColumn2.label         "Radnja">
+<!ENTITY  actionColumn2.accesskey     "a">
 
 <!ENTITY  focusSearch1.key            "f">
 <!ENTITY  focusSearch2.key            "k">
 
-<!ENTITY  filter.placeholder          "Search">
+<!ENTITY  filter.placeholder          "Traži">
 
-<!ENTITY saveTo.label                 "Save files to">
+<!ENTITY saveTo.label                 "Spremi datoteke u">
 <!ENTITY saveTo.accesskey             "S">
-<!ENTITY alwaysAsk.label              "Always ask me where to save files">
-<!ENTITY alwaysAsk.accesskey          "A">
-<!ENTITY chooseFolderWin.label        "Browse…">
-<!ENTITY chooseFolderWin.accesskey    "B">
-<!ENTITY chooseFolderMac.label        "Choose…">
-<!ENTITY chooseFolderMac.accesskey    "C">
+<!ENTITY alwaysAsk.label              "Uvijek me pitaj gdje spremiti datoteke">
+<!ENTITY alwaysAsk.accesskey          "U">
+<!ENTITY chooseFolderWin.label        "Odaberi…">
+<!ENTITY chooseFolderWin.accesskey    "i">
+<!ENTITY chooseFolderMac.label        "Odaberi…">
+<!ENTITY chooseFolderMac.accesskey    "i">
