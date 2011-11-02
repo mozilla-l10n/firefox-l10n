@@ -89,3 +89,7 @@
 <!ENTITY imageDimensionsTab.label "Διαστάσεις">
 <!ENTITY imageAppearanceTab.label "Εμφάνιση">
 <!ENTITY imageLinkTab.label "Δεσμός">
+
+<!ENTITY LinkAdvancedEditButton.label "Προχωρημένη επεξεργασία δεσμού…">
+<!ENTITY LinkAdvancedEditButton.accessKey "δ">
+<!ENTITY LinkAdvancedEditButton.tooltip "Προσθήκη ή τροποποίηση γνωρισμάτων στυλ, HTML και JavaScript">

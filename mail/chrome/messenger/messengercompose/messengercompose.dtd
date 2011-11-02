@@ -235,3 +235,5 @@
 <!ENTITY spellAddDictionaries.label "Προσθήκη λεξικών">
 <!ENTITY spellAddDictionaries.accesskey "θ">
 <!ENTITY addressesSidebarTitle.label "Επαφές">
+<!ENTITY menubarCmd.label "Εργαλειοθήκη μενού">
+<!ENTITY menubarCmd.accesskey "μ">
