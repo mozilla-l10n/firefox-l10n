@@ -1,16 +1,16 @@
-<!ENTITY  fontsAndEncodingsDialog.title           "Fonts &amp; Encodings">
+<!ENTITY  fontsAndEncodingsDialog.title           "Slova i kodne stranice">
 <!ENTITY  window.width                            "39em">
 <!ENTITY  window.macWidth                         "43em">
 <!ENTITY  window.unixWidth                        "41em">
 
-<!ENTITY  language.label                          "Fonts for:">
-<!ENTITY  language.accesskey                      "t">
+<!ENTITY  language.label                          "Slova za:">
+<!ENTITY  language.accesskey                      "l">
 
-<!ENTITY  size.label                              "Size:">
+<!ENTITY  size.label                              "Veličina:">
 <!ENTITY  proportionalSize.accesskey              "e">
 <!ENTITY  sizeMono.accesskey                      "i">
 
-<!ENTITY  proportional.label                      "Proportional:">
+<!ENTITY  proportional.label                      "Proporcionalan:">
 <!ENTITY  proportional.accesskey                  "P">
 
 <!ENTITY  serif.label                             "Serif:">
@@ -49,28 +49,28 @@
 <!ENTITY  font.langGroup.malayalam                "Malayalam">
 
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Minimum font size:">
-<!ENTITY minSize.accesskey                        "z">
-<!ENTITY minSize.none                             "None">
+<!ENTITY minSize.label                            "Najmanja veličina slova:">
+<!ENTITY minSize.accesskey                        "a">
+<!ENTITY minSize.none                             "Nijedna">
 
 <!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
 <!-- fonts in message -->
-<!ENTITY  fontControl.label                       "Font Control">
-<!ENTITY  useFixedWidthForPlainText.label         "Use fixed width font for plain text messages">
-<!ENTITY  fixedWidth.accesskey                    "x">
-<!ENTITY  useDocumentFonts.label                  "Allow messages to use other fonts">
+<!ENTITY  fontControl.label                       "Upravljanje slovima">
+<!ENTITY  useFixedWidthForPlainText.label         "Koristi slova fiksne širine za poruke sa običnim tekstom">
+<!ENTITY  fixedWidth.accesskey                    "f">
+<!ENTITY  useDocumentFonts.label                  "Dozvoli porukama da koriste drugačiju vrstu slova">
 <!ENTITY  useDocumentFonts.accesskey              "o">
 
 <!-- Language settings -->
-<!ENTITY sendDefaultCharset.label         "Outgoing Mail:">
-<!ENTITY sendDefaultCharset.accesskey     "u">
-<!ENTITY languagesTitle1.label            "Character Encodings">
-<!ENTITY composingDescription.label       "Set the default character encodings for sending and receiving mail">
+<!ENTITY sendDefaultCharset.label         "Odlazna pošta:">
+<!ENTITY sendDefaultCharset.accesskey     "d">
+<!ENTITY languagesTitle1.label            "Kodne stranice">
+<!ENTITY composingDescription.label       "Postavite zadane kodne stranice za poslanu i primljenu poštu">
 
-<!ENTITY viewDefaultCharsetList.label     "Incoming Mail:">
-<!ENTITY viewDefaultCharsetList.accesskey  "I">
-<!ENTITY replyInDefaultCharset2.label     "When possible, use the default character encoding in replies">
-<!ENTITY replyInDefaultCharset2.accesskey "h">
+<!ENTITY viewDefaultCharsetList.label     "Dolazna pošta:">
+<!ENTITY viewDefaultCharsetList.accesskey  "a">
+<!ENTITY replyInDefaultCharset2.label     "Ako je moguće koristi zadanu kodnu stranicu u odgovorima">
+<!ENTITY replyInDefaultCharset2.accesskey "k">
