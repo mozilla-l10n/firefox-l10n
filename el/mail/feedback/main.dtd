@@ -4,7 +4,7 @@
 <!ENTITY testpilot.settings.readyToSubmit.label     "Μια μελέτη είναι έτοιμη για υποβολή">
 <!ENTITY testpilot.settings.newStudy.label          "Υπάρχει νέα μελέτη">
 <!ENTITY testpilot.settings.hasNewResults.label     "Μια μελέτη έχει νέα αποτελέσματα">
-
+<!ENTITY testpilot.settings.alwaysSubmitData.shortLabel "Πάντα υποβολή δεδομένων (να μην γίνεται ερώτηση)">
 <!ENTITY testpilot.about.label                      "Περί Test Pilot">
 
 <!-- all studies window -->
