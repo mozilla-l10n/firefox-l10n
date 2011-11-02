@@ -706,3 +706,10 @@
 <!ENTITY showAllAppsCmdMac.label "Προβολή όλων">
 <!ENTITY bodyAllParts.label "Όλα τα ήμερη του κυρίως κειμένου">
 <!ENTITY bodyAllParts.accesskey "λ">
+
+<!ENTITY deleteItem.title "Διαγραφή">
+<!ENTITY getAllNewMessagesCmd.key "Y">
+<!ENTITY getNewMessagesCmd.key "y">
+<!ENTITY junkItem.title "Ανεπιθύμητα">
+<!ENTITY menubarCmd.label "Εργαλειοθήκη μενού">
+<!ENTITY menubarCmd.accesskey "μ">

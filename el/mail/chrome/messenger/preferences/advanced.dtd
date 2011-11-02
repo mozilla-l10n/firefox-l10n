@@ -82,3 +82,7 @@
 <!ENTITY validation.accesskey "π">
 <!ENTITY viewSecurityDevices.label "Συσκευές ασφαλείας">
 <!ENTITY viewSecurityDevices.accesskey "υ">
+
+<!ENTITY submitTelemetry.label         "Υποβολή δεδομένων επιδόσεων">
+<!ENTITY submitTelemetry.accesskey     "δ">
+<!ENTITY telemetryInfoLink.label       "Περισσότερες πληροφορίες για την τηλεμετρία">

@@ -174,3 +174,5 @@
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Μεταφορά όλων μπροστά">
 <!ENTITY zoomWindow.label "Μεγέθυνση">
+<!ENTITY menubarCmd.label                               "Εργαλειοθήκη μενού">
+<!ENTITY menubarCmd.accesskey                           "μ">
