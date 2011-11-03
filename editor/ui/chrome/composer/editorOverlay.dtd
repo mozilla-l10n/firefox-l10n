@@ -68,11 +68,6 @@
 <!ENTITY publishAsCmd.accesskey "v">
 <!ENTITY saveAsChangeEncodingCmd.label "Gem med tegnsættet">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "E">
-<!ENTITY printSetupCmd.label "Sideopsætning…">
-<!ENTITY printSetupCmd.accesskey "S">
-<!ENTITY printCmd.label "Udskriv">
-<!ENTITY printCmd.accesskey "U">
-<!ENTITY printCmd.key "P">
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "Rediger">

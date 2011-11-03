@@ -1,13 +1,21 @@
+<!-- Entities for AccountWizard -->
+
 <!ENTITY windowTitle.label "HTML-mail spørgsmål">
 <!ENTITY accountWizard.size "width: 40em; height: 38em;">
-<!ENTITY accountSetupInfo.label "For at modtage meddelelser skal du først opsætte en konto.">
+
+<!-- Entities for Account Type page -->
+
+<!ENTITY accountSetupInfo2.label "For at modtage meddelelser skal du først opsætte en konto.">
 <!ENTITY accountTypeTitle.label "Opsæt ny konto">
-<!ENTITY accountTypeDesc.label "Denne guide vil indsamle de nødvendige oplysninger til oprettelse af en konto. Hvis du ikke har alle de nødvendige oplysninger, skal du kontakte din systemadministrator eller internetudbyder.">
+<!ENTITY accountTypeDesc2.label "Denne guide vil indsamle de nødvendige oplysninger til oprettelse af en konto. Hvis du ikke har alle de nødvendige oplysninger, skal du kontakte din systemadministrator eller internetudbyder.">
 <!ENTITY accountTypeDirections.label "Vælg den type konto du gerne vil oprette:">
 <!ENTITY accountTypeMail.label "Mailkonto">
 <!ENTITY accountTypeMail.accesskey "m">
 <!ENTITY accountTypeNews.label "Nyhedsgruppekonto">
 <!ENTITY accountTypeNews.accesskey "y">
+
+<!-- Entities for Identity page -->
+
 <!ENTITY identityTitle.label "Identitet">
 <!ENTITY identityDesc.label "Hver konto har en identitet, som er de oplysninger andre ser om dig, når de læser dine meddelelser.">
 <!ENTITY fullnameDesc.label "Indtast det navn du gerne vil have vist i &quot;Fra&quot; feltet i de meddelelser du sender">
@@ -16,6 +24,9 @@
 <!ENTITY fullnameLabel.accesskey "n">
 <!ENTITY emailLabel.label "Mailadresse:">
 <!ENTITY emailLabel.accesskey "E">
+
+<!-- Entities for Server page -->
+
 <!ENTITY serverTitle.label "Serveroplysninger">
 <!ENTITY incomingServerTypeDesc.label "Vælg typen på din indgående server.">
 <!ENTITY incomingServerNameDesc.label "Indtast navnet på din indgående server (f.eks. &quot;mail.eksempel.dk&quot;).">
@@ -42,6 +53,8 @@
 <!ENTITY haveSmtp1.prefix "Din eksisterende udgående mailserver (SMTP), &quot;">
 <!ENTITY haveSmtp1.suffix2 "&quot;, vil blive brugt. Du kan ændre indstillingerne for den udgående mailserver i Kontoindstillinger i menuen Funktioner.">
 
+<!-- Entities for Login page -->
+
 <!ENTITY loginTitle.label "Brugernavne">
 <!ENTITY usernameDesc.label "Skriv brugernavnet, som du har fået af din mailudbyder">
 <!ENTITY usernameExample.label "(f.eks. &quot;jhansen&quot;).">
@@ -65,10 +78,15 @@
 <!ENTITY haveSmtp3.prefix "Din udgående mailserver (SMTP), &quot;">
 <!ENTITY haveSmtp3.suffix2 "&quot;, er identisk med din indkommende server, dit indkommende brugernavn bliver brugt til at oprette forbindelse. Du kan ændre indstillingerne for den udgående server ved at vælge Kontoindstillinger i menuen Funktioner.">
 
+<!-- Entities for Account name page -->
+
 <!ENTITY accnameTitle.label "Kontonavn">
 <!ENTITY accnameDesc.label "Indtast det navn du vil bruge til at referere til denne konto (f.eks. &quot;Arbejdskonto&quot;, &quot;Hjemmekonto&quot; eller &quot;Nyhedskonto&quot;).">
 <!ENTITY accnameLabel.label "Kontonavn:">
 <!ENTITY accnameLabel.accesskey "n">
+
+<!-- Entities for Done (Congratulations) page -->
+
 <!ENTITY completionTitle.label "Tillykke!">
 <!ENTITY completionText.label "Bekræft at nedenstående oplysninger er korrekte.">
 <!ENTITY serverTypePrefix.label "Indgående servertype:">

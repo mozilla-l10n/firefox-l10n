@@ -1,5 +1,5 @@
 <!ENTITY window.title             "Meddelelsesoversigt">
 <!ENTITY selectedmessages.label   "Udvalgte meddelelser">
-<!ENTITY archive.label            "Arkiver">
-<!ENTITY delete.label             "Slet">
+<!ENTITY archiveButton.label             "Arkiver">
+<!ENTITY deleteButton.label             "Slet">
 

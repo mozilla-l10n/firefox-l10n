@@ -1,5 +1,47 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- These strings are for use specifically in the editor's image and form image dialogs. -->
+
+<!-- Window title -->
 <!ENTITY windowTitle.label "Egenskaber for billede">
 <!ENTITY pixelsPopup.value "pixler">
+
+<!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label "Billedets placering:">
 <!ENTITY locationEditField.accessKey "L">
 <!ENTITY locationEditField.tooltip "Skriv billedets navn eller placering">
@@ -11,7 +53,11 @@
 <!ENTITY altTextEditField.tooltip "Skriv den tekst der skal skrives på billedets plads">
 <!ENTITY noAltText.label "Brug ikke alternativ tekst">
 <!ENTITY noAltText.accessKey "B">
+
 <!ENTITY previewBox.label "Billedoplysninger">
+
+<!-- These controls are in the Dimensions tab panel -->
+<!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
 <!ENTITY actualSize.label "Billedets egen størrelse:">
 <!ENTITY actualSizeRadio.label "Billedets egen størrelse">
 <!ENTITY actualSizeRadio.accessKey "d">
@@ -26,17 +72,23 @@
 <!ENTITY constrainCheckbox.label "Bundet">
 <!ENTITY constrainCheckbox.accessKey "u">
 <!ENTITY constrainCheckbox.tooltip "Bevar billedets størrelsesforhold">
+
+<!-- These controls are in the Image Map box of the expanded area -->
 <!ENTITY imagemapBox.label "Aktive billedområder">
 <!ENTITY removeImageMapButton.label "Fjern">
 <!ENTITY removeImageMapButton.accessKey "R">
 <!ENTITY editImageMapButton.label "Rediger…">
 <!ENTITY editImageMapButton.tooltip "Gør områder på billedet til aktive områder med link">
+
+<!-- These are the options for image alignment -->
 <!ENTITY alignment.label "Juster teksten langs billedet">
 <!ENTITY bottomPopup.value "Forneden">
 <!ENTITY topPopup.value "Foroven">
 <!ENTITY centerPopup.value "I centrum">
 <!ENTITY wrapRightPopup.value "Ombryd til højre">
 <!ENTITY wrapLeftPopup.value "Ombryd til venstre">
+
+<!-- These controls are in the Spacing Box -->
 <!ENTITY spacingBox.label "Afstand">
 <!ENTITY leftRightEditField.label "Venstre og højre:">
 <!ENTITY leftRightEditField.accessKey "V">
@@ -44,8 +96,16 @@
 <!ENTITY topBottomEditField.accessKey "T">
 <!ENTITY borderEditField.label "Udfyldt ramme:">
 <!ENTITY borderEditField.accessKey "U">
+
+<!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "Farvet kant rundt om billeder der er link">
 <!ENTITY showImageLinkBorder.accessKey "U">
+
+<!ENTITY LinkAdvancedEditButton.label "Avanceret linkredigering…">
+<!ENTITY LinkAdvancedEditButton.accessKey "l">
+<!ENTITY LinkAdvancedEditButton.tooltip "Tilføj eller rediger HTML-attributter, CSS-attributter og JavaScript">
+
+<!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "Formular">
 <!ENTITY imageLocationTab.label "Sted">
 <!ENTITY imageDimensionsTab.label "Dimensioner">

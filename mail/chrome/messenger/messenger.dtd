@@ -122,6 +122,8 @@
 <!ENTITY redoDefaultCmd.accesskey "G">
 
 <!-- View Menu -->
+<!ENTITY menubarCmd.label "Menulinje">
+<!ENTITY menubarCmd.accesskey "e">
 <!ENTITY showMessengerToolbarCmd.label "Maillinje">
 <!ENTITY showMessengerToolbarCmd.accesskey "M">
 <!ENTITY customizeToolbar.label "Tilpas…">
@@ -272,6 +274,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageSourceCmd.label "Kildekode">
 <!ENTITY pageSourceCmd.accesskey "e">
 <!ENTITY pageSourceCmd.key "u">
+<!ENTITY getNewMessagesCmd.key "y">
+<!ENTITY getAllNewMessagesCmd.key "Y">
 
 <!-- Search Menu -->
 <!ENTITY findMenu.label "Find">
@@ -502,12 +506,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY backButton1.label "Tilbage">
 <!ENTITY goForwardButton1.label "Fremad">
 <!ENTITY deleteButton.label "Slet">
+<!ENTITY deleteItem.title "Slet">
 <!ENTITY undeleteButton.label "Fortryd sletning">
 <!ENTITY markButton.label "Marker">
 <!ENTITY printButton.label "Udskriv">
 <!ENTITY stopButton.label "Stop">
 <!ENTITY throbberItem.title "Aktivitetsindikator">
 <!ENTITY junkButton.label "Spam">
+<!ENTITY junkItem.title "Spam">
 <!ENTITY notJunkButton.label "Ikke-spam">
 <!ENTITY addressBookButton.label "Adressebog">
 <!ENTITY glodaSearch.title "Global søg">
