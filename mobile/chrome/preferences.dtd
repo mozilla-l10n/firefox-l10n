@@ -21,3 +21,4 @@
 <!ENTITY homepage.default                          "&brandShortName;in aloitus">
 <!ENTITY homepage.currentpage                      "Käytä avointa sivua">
 <!ENTITY showCharsetEncoding.title                 "Näytä merkistökoodaus">
+<!ENTITY actionbar.default                         "&brandShortName; asetukset">

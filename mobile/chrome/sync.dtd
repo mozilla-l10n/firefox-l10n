@@ -3,7 +3,6 @@
 <!ENTITY sync.connect               "Yhdistä">
 <!ENTITY sync.connected             "Yhdistetty">
 <!ENTITY sync.details               "Lisätiedot">
-<!ENTITY sync.synchronize           "Ota synkronointi käyttöön">
 <!ENTITY sync.deviceName            "Tämä laite">
 <!ENTITY sync.disconnect            "Katkaise yhteys">
 <!ENTITY sync.syncNow               "Synkronoi">
@@ -14,7 +13,7 @@
 <!ENTITY sync.setup.manual          "Kirjoita Sync-tilisi tiedot">
 <!ENTITY sync.account               "Tilin nimi">
 <!ENTITY sync.password              "Salasana">
-<!ENTITY sync.syncKey               "Synkronointiavain">
+<!ENTITY sync.recoveryKey           "Palautusavain">
 <!ENTITY sync.customServer          "Käytä omaa palvelinta">
 <!ENTITY sync.serverURL             "Palvelimen URL">
 <!ENTITY sync.setup.connect         "Yhdistä">

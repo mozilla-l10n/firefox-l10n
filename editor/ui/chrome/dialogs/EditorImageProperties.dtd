@@ -101,6 +101,9 @@
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label  "Näytä linkkikuvan ympärillä reunus">
 <!ENTITY showImageLinkBorder.accessKey  "N">
+<!ENTITY LinkAdvancedEditButton.label "Linkin lisäasetukset…">
+<!ENTITY LinkAdvancedEditButton.accessKey "a">
+<!ENTITY LinkAdvancedEditButton.tooltip "Lisää tai muokkaa HTML-attribuutteja, tyyliattribuutteja ja JavaScript-komentosarjoja">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label  "Lomake">
