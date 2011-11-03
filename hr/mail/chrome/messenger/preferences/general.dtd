@@ -1,5 +1,5 @@
 <!ENTITY messengerStartPage.label         "&brandShortName; početna stranica">
-<!ENTITY enableStartPage.label            "Prilikom pokretanja &brandShortName;-a, prikaži početnu stranicu u prostoru za poruke">
+<!ENTITY enableStartPage.label            "Kad se &brandShortName; pokrene, prikaži početnu stranicu u prostoru za poruke">
 <!ENTITY enableStartPage.accesskey        "l">
 <!ENTITY location.label                   "Lokacija:">
 <!ENTITY location1.accesskey               "o">
@@ -10,26 +10,26 @@
 <!ENTITY bounceSystemDockIcon.accesskey   "i">
 
 <!ENTITY newMessagesArrive.label          "Kada stigne nova poruka:">
-<!ENTITY playSound.label                  "Sviraj zvuk">
+<!ENTITY playSound.label                  "Reproduciraj zvuk">
 <!ENTITY playSound1.accesskey              "v">
 <!ENTITY showAnimatedAlert.label          "Prikaži obavijest">
 <!ENTITY showAnimatedAlert.accesskey      "P">
 <!ENTITY customizeMailAlert.label         "Prilagodi…">
 <!ENTITY customizeMailAlert.accesskey     "a">
 
-<!ENTITY play.label                       "Sviraj">
-<!ENTITY play.accesskey                   "S">
+<!ENTITY play.label                       "Reproduciraj">
+<!ENTITY play.accesskey                   "p">
 <!ENTITY systemsound.label                "Zadani sistemski zvuk za novu poruku">
 <!ENTITY systemsoundMac.label             "Sistemski zvuk obavijesti">
 <!ENTITY systemsoundMac.accesskey         "Z">
 <!ENTITY systemsound.accesskey            "z">
-<!ENTITY customsound.label                "Koristi slijedeću zvučnu datoteku">
+<!ENTITY customsound.label                "Koristi sljedeću zvučnu datoteku">
 <!ENTITY customsound.accesskey            "u">
 <!ENTITY browse.label                     "Odaberi…">
 <!ENTITY browse.accesskey                 "b">
 
 <!ENTITY addonsMgr.label                  "Dodaci">
-<!ENTITY manageAddonsDescWin.label        "Promijeni mogućnosti za svoje dodatke">
-<!ENTITY manageAddonsDescUnix2.label      "Promijeni mogućnosti za svoje dodatke">
+<!ENTITY manageAddonsDescWin.label        "Promijenite mogućnosti svojih dodataka">
+<!ENTITY manageAddonsDescUnix2.label      "Promijenite mogućnosti svojih dodataka">
 <!ENTITY manageAddons.label               "Upravljanje dodacima…">
 <!ENTITY manageAddons.accesskey           "d">
