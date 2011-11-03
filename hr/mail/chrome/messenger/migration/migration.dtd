@@ -1,8 +1,8 @@
 
-<!ENTITY migrationWizard.title          "Čarobnjak za uvoz">
+<!ENTITY migrationWizard.title          "Čarobnjak uvoza">
 
-<!ENTITY importFromWin.label            "Mogućnosti uvoza, postavke računa, adresar, filteri i drugi podaci iz:">
-<!ENTITY importFromNonWin.label         "Postavke uvoza, postavke računa, adresar, filteri i drugi podaci iz::">
+<!ENTITY importFromWin.label            "Uvezi postavke, postavke računa, adresar, filtere i ostale podatke iz:">
+<!ENTITY importFromNonWin.label         "Uvezi postavke, postavke računa, adresar, filteri i ostale podatke iz:">
 
 <!ENTITY importFromNothing.label        "Ne uvozi ništa">
 <!ENTITY importFromNothing.accesskey    "N">
@@ -15,15 +15,15 @@
 <!ENTITY importFromEudora.label         "Eudora">
 <!ENTITY importFromEudora.accesskey     "E">
 
-<!ENTITY importSource.title             "Postavke uvoza i direktoriji pošte">
+<!ENTITY importSource.title             "Uvezi postavke i direktorije pošte">
 <!ENTITY importItems.title              "Stavke za uvoz">
 <!ENTITY importItems.label              "Odaberite koje stavke želite uvesti:">
 
-<!ENTITY migrating.title                "Uvoženje…">
-<!ENTITY migrating.label                "Slijedeće stavke se trenutno uvoze…">
+<!ENTITY migrating.title                "Uvoz…">
+<!ENTITY migrating.label                "Sljedeće stavke se trenutno uvoze…">
 
 <!ENTITY selectProfile.title            "Odaberite profil">
-<!ENTITY selectProfile.label            "Slijedeći profili su dostupni za uvoz iz:">
+<!ENTITY selectProfile.label            "Sljedeći profili su dostupni za uvoz iz:">
 
 <!ENTITY done.title                     "Uvoz završen">
-<!ENTITY done.label                     "Slijedeće stavke su uspješno uvezene:">
+<!ENTITY done.label                     "Sljedeće stavke su uspješno uvezene:">
