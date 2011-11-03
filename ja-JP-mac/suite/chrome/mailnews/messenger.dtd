@@ -107,13 +107,6 @@
 <!ENTITY downloadSelectedCmd.accesskey         "t">
 <!ENTITY downloadFlaggedCmd.label              "フラグを付けたメッセージを受信">
 <!ENTITY downloadFlaggedCmd.accesskey          "G">
-<!ENTITY printCmd.label                        "プリント...">
-<!ENTITY printCmd.accesskey                    "P">
-<!ENTITY printCmd.key                          "p">
-<!ENTITY printPreviewCmd.label                 "プリントプレビュー">
-<!ENTITY printPreviewCmd.accesskey             "v">
-<!ENTITY printSetupCmd.label                   "ページ設定...">
-<!ENTITY printSetupCmd.accesskey               "u">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label                    "メッセージを削除">
@@ -329,9 +322,9 @@
 <!ENTITY replyToAllMsgCmd.label                 "全員に返信">
 <!ENTITY replyToAllMsgCmd.accesskey             "p">
 <!ENTITY replyToAllMsgCmd.key                   "r">
-<!ENTITY replyToSenderAndNewsgroupCmd.label     "送受信者全員とニュースグループに返信"><!--Reply to Sender and Newsgroup-->
+<!ENTITY replyToSenderAndNewsgroupCmd.label     "送信者とニュースグループに返信"><!--Reply to Sender and Newsgroup-->
 <!ENTITY replyToSenderAndNewsgroupCmd.accesskey "p">
-<!ENTITY replyToAllRecipientsCmd.label          "すべての受取人に返信"><!--Reply to All Recipients-->
+<!ENTITY replyToAllRecipientsCmd.label          "すべての受信者に返信"><!--Reply to All Recipients-->
 <!ENTITY replyToAllRecipientsCmd.accesskey      "a">
 <!ENTITY forwardMsgCmd.label                    "転送">
 <!ENTITY forwardMsgCmd.accesskey                "F">
