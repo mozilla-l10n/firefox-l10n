@@ -1,18 +1,18 @@
 <!ENTITY  connectionsDialog.title       "Postavke spajanja">
 <!ENTITY  window.width                   "37em">
 
-<!ENTITY  proxyTitle.label              "Podesi proxy za pristupanje internetu">
+<!ENTITY  proxyTitle.label              "Podesite proxy za pristupanje Internetu">
 <!ENTITY  noProxyTypeRadio.label        "Bez proxyja">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "Koristi sistemske postavke za proxy">
 <!ENTITY  systemTypeRadio.accesskey     "s">
-<!ENTITY  WPADTypeRadio.label           "Automatski pronađi postavke za ovu mrežu">
+<!ENTITY  WPADTypeRadio.label           "Automatski pronađi proxy postavke za ovu mrežu">
 <!ENTITY  WPADTypeRadio.accesskey       "t">
 <!ENTITY  manualTypeRadio.label         "Ručno podešavanje proxyja:">
 <!ENTITY  manualTypeRadio.accesskey     "x">
 <!ENTITY  autoTypeRadio.label           "URL za automatsko podešavanje proxyja:">
 <!ENTITY  autoTypeRadio.accesskey       "a">
-<!ENTITY  reload.label                  "Osvježi">
+<!ENTITY  reload.label                  "Ponovno učitaj">
 <!ENTITY  reload.accesskey              "e">
 <!ENTITY  http.label                    "HTTP Proxy:">
 <!ENTITY  http.accesskey                "h">
@@ -24,12 +24,12 @@
 <!ENTITY  socks4.accesskey              "k">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
-<!ENTITY  HTTPport.label                "Ulaz:">
-<!ENTITY  HTTPport.accesskey            "U">
-<!ENTITY  SSLport.label                 "Ulaz:">
-<!ENTITY  SSLport.accesskey             "l">
-<!ENTITY  SOCKSport.label               "Ulaz:">
-<!ENTITY  SOCKSport.accesskey           "z">
+<!ENTITY  HTTPport.label                "Port:">
+<!ENTITY  HTTPport.accesskey            "P">
+<!ENTITY  SSLport.label                 "Port:">
+<!ENTITY  SSLport.accesskey             "o">
+<!ENTITY  SOCKSport.label               "Port:">
+<!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "Bez proxyja za:">
 <!ENTITY  noproxy.accesskey             "z">
 <!ENTITY  noproxyExplain.label          "Primjer: .mozilla.org, .net.nz, 192.168.1.0/24">
