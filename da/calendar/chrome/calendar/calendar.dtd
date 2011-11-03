@@ -320,7 +320,7 @@
 <!ENTITY calendarproperties.name.label "Navn:">
 <!ENTITY calendarproperties.readonly.label "Skrivebeskyttet">
 <!ENTITY calendarproperties.firealarms.label "Vis alarmer">
-<!ENTITY calendarproperties.cache.label "Cache (EKSPERIMENTELT! kræver genstart)">
+<!ENTITY calendarproperties.cache.label "Cache (Kræver genstart)">
 <!ENTITY calendarproperties.enabled.label "Slå denne kalender til">
 <!ENTITY calendarproperties.forceDisabled.label "Kunne ikke finde kalenderens udgiver. Dette kan ofte ske, hvis du afinstallerer eller slår en bestemt udvidelse fra.">
 <!ENTITY calendarproperties.unsubscribe.label "Stop abonnement">

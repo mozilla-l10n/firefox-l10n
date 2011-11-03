@@ -92,6 +92,8 @@
 <!ENTITY viewMenu.accesskey "V">
 <!ENTITY viewToolbarsMenuNew.label "Værktøjslinjer">
 <!ENTITY viewToolbarsMenuNew.accesskey "V">
+<!ENTITY menubarCmd.label "Menulinje">
+<!ENTITY menubarCmd.accesskey "e">
 <!ENTITY showCompositionToolbarCmd.label "Maillinje">
 <!ENTITY showCompositionToolbarCmd.accesskey "M">
 <!ENTITY showFormattingBarCmd.label "Formateringslinje">

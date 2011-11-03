@@ -9,6 +9,7 @@
 <!ENTITY email.accesskey "E">
 <!ENTITY replyTo.label "Svaradresse:">
 <!ENTITY replyTo.accesskey "r">
+<!ENTITY replyTo.placeholder "Modtagere vil svare til denne anden adresse">
 <!ENTITY organization.label "Organisation:">
 <!ENTITY organization.accesskey "O">
 <!ENTITY signatureFile.label "Vedhæft signaturen fra en fil (tekst, HTML eller et billede):">
