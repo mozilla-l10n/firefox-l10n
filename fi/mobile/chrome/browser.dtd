@@ -93,9 +93,11 @@
 <!ENTITY consoleErrColumn.label    "Sarake:">
 
 <!ENTITY contextOpenInNewTab.label    "Avaa linkki välilehteen">
-<!ENTITY contextSaveLink.label        "Tallenna linkki">
 <!ENTITY contextSaveImage.label       "Tallenna kuva">
 <!ENTITY contextCopyLink.label        "Kopioi linkki">
+<!ENTITY contextCopyEmail.label       "Kopioi sähköpostiosoite">
+<!ENTITY contextCopyPhone.label       "Kopioi puhelinnumero">
+<!ENTITY contextCopyImageLocation.label       "Kopioi kuvan osoite">
 <!ENTITY contextShareLink.label       "Jaa linkki">
 <!ENTITY contextShareImage.label      "Jaa kuva">
 <!ENTITY contextBookmarkLink.label    "Lisää kirjanmerkki linkistä">
@@ -116,6 +118,5 @@
 <!ENTITY pageactions.findInPage      "Etsi sivulta">
 <!ENTITY pageactions.search.addNew   "Lisää hakukone">
 <!ENTITY pageactions.charEncoding    "Merkistökoodaus">
-<!ENTITY pageactions.webapps.install "Asenna sovelluksena">
 
 <!ENTITY appMenu.siteOptions         "Sivuston valinnat">

@@ -68,11 +68,6 @@
 <!ENTITY publishAsCmd.accesskey "u">
 <!ENTITY saveAsChangeEncodingCmd.label "Tallenna ja muuta merkistökoodausta">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "m">
-<!ENTITY printSetupCmd.label "Sivun asetukset…">
-<!ENTITY printSetupCmd.accesskey "i">
-<!ENTITY printCmd.label "Tulosta…">
-<!ENTITY printCmd.accesskey "o">
-<!ENTITY printCmd.key "P">
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "Muokkaa">
