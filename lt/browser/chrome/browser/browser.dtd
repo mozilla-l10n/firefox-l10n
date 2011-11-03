@@ -247,6 +247,7 @@ can reach it easily. -->
 <!ENTITY inspectPanelTitle.label           "HTML">
 <!ENTITY inspectButton.label               "Tirti">
 <!ENTITY inspectButton.accesskey           "T">
+<!ENTITY inspectCloseButton.tooltiptext    "Užverti tyriklį">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Gauti daugiau priemonių">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "G">
