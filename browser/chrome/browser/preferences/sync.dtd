@@ -14,7 +14,7 @@
 <!ENTITY manageAccount.accesskey      "H">
 <!ENTITY viewQuota.label              "Näytä tilavaraus">
 <!ENTITY changePassword2.label         "Vaihda salasana…">
-<!ENTITY mySyncKey.label              "Synkronointiavaimesi">
+<!ENTITY myRecoveryKey.label          "Palautusavaimeni">
 <!ENTITY resetSync2.label              "Aloita synkronointi alusta…">
 
 <!ENTITY addDevice.label              "Liitä laite">
