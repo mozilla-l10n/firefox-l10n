@@ -5,8 +5,8 @@
 <!ENTITY style.accesskey                  "i">
 <!ENTITY regularStyle.label               "Normalno">
 <!ENTITY bold.label                       "Podebljano">
-<!ENTITY italic.label                     "Ukošeno">
-<!ENTITY boldItalic.label                 "Podebljano ukošeno">
+<!ENTITY italic.label                     "Kurziv">
+<!ENTITY boldItalic.label                 "Podebljani kurziv">
 <!ENTITY size.label                       "Veličina:">
 <!ENTITY size.accesskey                   "V">
 <!ENTITY regularSize.label                "Normalno">
@@ -15,16 +15,16 @@
 <!ENTITY color.label                      "Boja:">
 <!ENTITY color.accesskey                  "B">
 <!ENTITY displayWidth.label               "Poruke s običnim tekstom">
-<!ENTITY displayText.label                "Prilikom prikazivanja citiranih poruka sa običnim tekstom:">
+<!ENTITY displayText.label                "Kod prikaza citiranih poruka s običnim tekstom:">
 <!ENTITY colors.label                     "Boje">
-<!ENTITY overrideColors.label             "Prilikom prikazivanja poruka koristi slijedeće boje:">
+<!ENTITY overrideColors.label             "Kod prikazivanja poruka, koristi sljedeće boje:">
 <!ENTITY textColor.label                  "Boja teksta:">
 <!ENTITY textColor.accesskey              "t">
 <!ENTITY backgroundColor.label            "Boja pozadine:">
 <!ENTITY backgroundColor.accesskey        "o">
 
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
-<!ENTITY convertEmoticons.label        "Prikaži emocije (smiješke) slikama">
+<!ENTITY convertEmoticons.label        "Grafički prikaži smješke">
 <!ENTITY convertEmoticons.accesskey    "r">
 
 <!-- labels -->
@@ -37,8 +37,8 @@
 <!ENTITY removeTagButton.accesskey "O">
 
 <!-- Fonts -->
-<!ENTITY fontsAndColors.label    "Slova">
-<!ENTITY defaultFont.label       "Zadani oblik slova:">
+<!ENTITY fontsAndColors.label    "Fontovi">
+<!ENTITY defaultFont.label       "Zadani font:">
 <!ENTITY defaultFont.accesskey   "d">
 <!ENTITY defaultSize.label       "Veličina:">
 <!ENTITY defaultSize.accesskey   "l">
