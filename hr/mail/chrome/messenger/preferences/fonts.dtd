@@ -1,4 +1,4 @@
-<!ENTITY  fontsAndEncodingsDialog.title           "Fontovi i kodne stranice">
+<!ENTITY  fontsAndEncodingsDialog.title           "Fontovi i Kôdne stranice">
 <!ENTITY  window.width                            "39em">
 <!ENTITY  window.macWidth                         "43em">
 <!ENTITY  window.unixWidth                        "41em">
@@ -20,33 +20,33 @@
 <!ENTITY  monospace.label                         "Monospace:">
 <!ENTITY  monospace.accesskey                     "m">
 
-<!ENTITY  font.langGroup.latin1                   "Western">
-<!ENTITY  font.langGroup.latin2                   "Central European">
-<!ENTITY  font.langGroup.japanese                 "Japanese">
-<!ENTITY  font.langGroup.trad-chinese             "Traditional Chinese (Taiwan)">
-<!ENTITY  font.langGroup.simpl-chinese            "Simplified Chinese">
-<!ENTITY  font.langGroup.trad-chinese-hk          "Traditional Chinese (Hong Kong)">
-<!ENTITY  font.langGroup.korean                   "Korean">
-<!ENTITY  font.langGroup.cyrillic                 "Cyrillic">
-<!ENTITY  font.langGroup.baltic                   "Baltic">
-<!ENTITY  font.langGroup.el                       "Greek">
-<!ENTITY  font.langGroup.turkish                  "Turkish">
-<!ENTITY  font.langGroup.unicode                  "Other Languages">
-<!ENTITY  font.langGroup.user-def                 "User Defined">
-<!ENTITY  font.langGroup.thai                     "Thai">
-<!ENTITY  font.langGroup.hebrew                   "Hebrew">
-<!ENTITY  font.langGroup.arabic                   "Arabic">
+<!ENTITY  font.langGroup.latin1                   "Zapadni">
+<!ENTITY  font.langGroup.latin2                   "Srednjoeuropski">
+<!ENTITY  font.langGroup.japanese                 "Japanski">
+<!ENTITY  font.langGroup.trad-chinese             "Tradicionalni kineski (Tajvan)">
+<!ENTITY  font.langGroup.simpl-chinese            "Pojednostavljeni kineski">
+<!ENTITY  font.langGroup.trad-chinese-hk          "Tradicionalni kineski (Hong Kong)">
+<!ENTITY  font.langGroup.korean                   "Korejski">
+<!ENTITY  font.langGroup.cyrillic                 "Ćirilični">
+<!ENTITY  font.langGroup.baltic                   "Baltički">
+<!ENTITY  font.langGroup.el                       "Grčki">
+<!ENTITY  font.langGroup.turkish                  "Turski">
+<!ENTITY  font.langGroup.unicode                  "Ostali jezici">
+<!ENTITY  font.langGroup.user-def                 "Korisnički određeno">
+<!ENTITY  font.langGroup.thai                     "Tajlandski">
+<!ENTITY  font.langGroup.hebrew                   "Hebrejski">
+<!ENTITY  font.langGroup.arabic                   "Arapski">
 <!ENTITY  font.langGroup.devanagari               "Devanagari">
 <!ENTITY  font.langGroup.tamil                    "Tamil">
-<!ENTITY  font.langGroup.armenian                 "Armenian">
-<!ENTITY  font.langGroup.bengali                  "Bengali">
-<!ENTITY  font.langGroup.canadian                 "Unified Canadian Syllabary">
-<!ENTITY  font.langGroup.ethiopic                 "Ethiopic">
-<!ENTITY  font.langGroup.georgian                 "Georgian">
-<!ENTITY  font.langGroup.gujarati                 "Gujarati">
+<!ENTITY  font.langGroup.armenian                 "Armenski">
+<!ENTITY  font.langGroup.bengali                  "Bengalski">
+<!ENTITY  font.langGroup.canadian                 "Objedinjeni kanadski slogovni">
+<!ENTITY  font.langGroup.ethiopic                 "Etiopski">
+<!ENTITY  font.langGroup.georgian                 "Gruzijski">
+<!ENTITY  font.langGroup.gujarati                 "Gudžaratski">
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 <!ENTITY  font.langGroup.khmer                    "Khmer">
-<!ENTITY  font.langGroup.malayalam                "Malayalam">
+<!ENTITY  font.langGroup.malayalam                "Malajalam">
 
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Minimalna veličina fonta:">
@@ -59,18 +59,18 @@
 
 <!-- fonts in message -->
 <!ENTITY  fontControl.label                       "Upravljanje fontovima">
-<!ENTITY  useFixedWidthForPlainText.label         "Koristi font fiksne širine za poruke sa običnim tekstom">
+<!ENTITY  useFixedWidthForPlainText.label         "Koristi font fiksne širine za poruke s običnim tekstom">
 <!ENTITY  fixedWidth.accesskey                    "K">
-<!ENTITY  useDocumentFonts.label                  "Dozvoli porukama da koriste drugačiju vrstu fonta">
+<!ENTITY  useDocumentFonts.label                  "Dopusti porukama korištenje drugih fontova">
 <!ENTITY  useDocumentFonts.accesskey              "o">
 
 <!-- Language settings -->
 <!ENTITY sendDefaultCharset.label         "Odlazna pošta:">
 <!ENTITY sendDefaultCharset.accesskey     "d">
-<!ENTITY languagesTitle1.label            "Kodne stranice">
-<!ENTITY composingDescription.label       "Postavite zadane kodne stranice za poslanu i primljenu poštu">
+<!ENTITY languagesTitle1.label            "Kôdne stranice">
+<!ENTITY composingDescription.label       "Postavite zadane kôdne stranice za slanje i primanje pošte">
 
 <!ENTITY viewDefaultCharsetList.label     "Dolazna pošta:">
 <!ENTITY viewDefaultCharsetList.accesskey  "a">
-<!ENTITY replyInDefaultCharset2.label     "Ako je moguće koristi zadanu kodnu stranicu u odgovorima">
+<!ENTITY replyInDefaultCharset2.label     "Kada je moguće, koristi zadanu kôdnu stranicu u odgovorima">
 <!ENTITY replyInDefaultCharset2.accesskey "j">
