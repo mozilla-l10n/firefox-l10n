@@ -2,30 +2,30 @@
 <!ENTITY itemDisplay.label       "Čitanje i prikaz">
 <!ENTITY itemUpdate.label        "Ažuriranje">
 <!ENTITY itemNetworking.label    "Mreža i diskovni prostor">
-<!ENTITY itemCertificates.label  "Certifikat">
+<!ENTITY itemCertificates.label  "Certifikati">
 
 <!-- General Settings -->
 
 <!ENTITY enableGlodaSearch.label       "Omogući globalno pretraživanje i indeksiranje">
 <!ENTITY enableGlodaSearch.accesskey   "e">
 <!ENTITY systemIntegration.label       "Sistemska integracija">
-<!ENTITY alwaysCheckDefault.label      "Prilikom pokretanja uvijek provjeri da li je &brandShortName; zadani program za e-poštu">
+<!ENTITY alwaysCheckDefault.label      "Prilikom pokretanja uvijek provjeri je li &brandShortName; zadani program za e-poštu">
 <!ENTITY alwaysCheckDefault.accesskey  "a">
-<!ENTITY searchIntegration.label       "Dozvoli &searchIntegration.engineName; pretraživanje poruka">
+<!ENTITY searchIntegration.label       "Dopusti da &searchIntegration.engineName; pretražuje poruke">
 <!ENTITY searchIntegration.accesskey   "D">
 <!ENTITY checkNow.label                "Provjeri sada">
 <!ENTITY checkNow.accesskey            "P">
 <!ENTITY configEditDesc.label          "Napredne postavke">
 <!ENTITY configEdit.label              "Uređivač postavki…">
 <!ENTITY configEdit.accesskey          "U">
-<!ENTITY returnReceiptsInfo.label      "Odredite kako će &brandShortName; rukovati sa potvrdama čitanja">
+<!ENTITY returnReceiptsInfo.label      "Odredite kako će &brandShortName; rukovati s potvrdama čitanja">
 <!ENTITY showReturnReceipts.label      "Potvrde čitanja…">
 <!ENTITY showReturnReceipts.accesskey  "r">
 
 <!-- Display and Reading Settings -->
 <!ENTITY reading.caption               "Čitanje">
 <!ENTITY display.caption               "Prikaz">
-<!ENTITY showCondensedAddresses.label  "Prikaži samo Ime za prikaz za ljude iz mog adresara">
+<!ENTITY showCondensedAddresses.label  "Prikaži samo ime za prikaz osoba iz mojeg adresara">
 <!ENTITY showCondensedAddresses.accesskey "P">
 
 <!ENTITY autoMarkAsRead.label          "Automatski označi poruku kao pročitanu">
@@ -35,31 +35,31 @@
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label         "Nakon prikazivanja od">
+<!ENTITY markAsReadDelay.label         "Nakon prikazivanja u trajanju od">
 <!ENTITY markAsReadDelay.accesskey     "d">
 <!ENTITY secondsLabel.label            "sekundi">
 <!ENTITY openMsgIn.label               "Otvori poruke u:">
-<!ENTITY openMsgInNewTab.label         "Novu karticu">
+<!ENTITY openMsgInNewTab.label         "Novoj kartici">
 <!ENTITY openMsgInNewTab.accesskey     "t">
-<!ENTITY reuseExpRadio0.label          "Novi prozor poruke">
+<!ENTITY reuseExpRadio0.label          "Novom prozoru poruke">
 <!ENTITY reuseExpRadio0.accesskey      "N">
-<!ENTITY reuseExpRadio1.label          "Postojeći prozor poruke">
+<!ENTITY reuseExpRadio1.label          "Postojećem prozoru poruke">
 <!ENTITY reuseExpRadio1.accesskey      "e">
 <!ENTITY closeMsgOnMoveOrDelete.label  "Zatvori prozor/karticu poruke prilikom premještanja ili brisanja">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "Z">
 
 <!-- Update -->
-<!ENTITY autoCheck.label                "Automatski provjeri dostupna ažuriranja za:">
+<!ENTITY autoCheck.label                "Automatski provjeri dostupne dopune za:">
 <!ENTITY enableAppUpdate.label          "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey      "h">
 <!ENTITY enableAddonsUpdate.label       "Instalirane dodatke">
 <!ENTITY enableAddonsUpdate.accesskey   "a">
-<!ENTITY whenUpdatesFound.label         "Kada su ažuriranja za &brandShortName; dostupna,">
-<!ENTITY modeAskMe.label                "Pitaj me šta želim uraditi">
+<!ENTITY whenUpdatesFound.label         "Kada su dostupne dopune za &brandShortName;,">
+<!ENTITY modeAskMe.label                "Pitaj me što želim uraditi">
 <!ENTITY modeAskMe.accesskey            "m">
-<!ENTITY modeAutomatic.label            "Automatski preuzmi i instaliraj ažuriranja">
+<!ENTITY modeAutomatic.label            "Automatski preuzmi i instaliraj dopune">
 <!ENTITY modeAutomatic.accesskey        "p">
-<!ENTITY modeAutoAddonWarn.label        "Upozori me ako će ovo onemogućiti neki od mojih dodataka">
+<!ENTITY modeAutoAddonWarn.label        "Upozori me ako će ovo onemogućiti neke od mojih dodataka">
 <!ENTITY modeAutoAddonWarn.accesskey    "U">
 <!ENTITY showUpdates.label              "Prikaži povijest ažuriranja">
 <!ENTITY showUpdates.accesskey          "s">
@@ -67,15 +67,15 @@
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Postavke…">
 <!ENTITY showSettings.accesskey        "s">
-<!ENTITY proxiesConfigure.label        "Konfiguriraj kako se &brandShortName; povezuje na internet">
+<!ENTITY proxiesConfigure.label        "Podesite način na koji se&brandShortName; povezuje na Internet">
 <!ENTITY connectionsInfo.caption       "Veza">
 <!ENTITY offlineInfo.caption           "Izvanmrežno">
-<!ENTITY offlineInfo.label             "Konfiguriraj izvanmrežne postavke">
+<!ENTITY offlineInfo.label             "Podesi izvanmrežne postavke">
 <!ENTITY showOffline.label             "Izvanmrežno…">
 <!ENTITY showOffline.accesskey         "I">
 
 <!ENTITY Diskspace "Diskovni prostor">
-<!ENTITY offlineCompact.label "Zbij direktorije kada će to sačuvati više od">
+<!ENTITY offlineCompact.label "Sažmi direktorije kada se može uštedjeti više od">
 <!ENTITY offlineCompact.accesskey "Z">
 <!ENTITY mb.label "MB">
 
@@ -88,12 +88,12 @@
 <!ENTITY useCacheBefore.label            "Koristi do">
 <!ENTITY useCacheBefore.accesskey        "K">
 <!ENTITY useCacheAfter.label             "MB prostora za priručnu memoriju">
-<!ENTITY clearCacheNow.label             "Očisti sad">
+<!ENTITY clearCacheNow.label             "Očisti sada">
 <!ENTITY clearCacheNow.accesskey         "O">
 
 <!-- Certificates -->
-<!ENTITY certSelection.description       "Kada server zatraži moj osobni certifikat:">
-<!ENTITY certs.auto                      "Odaberi jedan automatski">
+<!ENTITY certSelection.description       "Kada poslužitelj zatraži moj osobni certifikat:">
+<!ENTITY certs.auto                      "Automatski odaberi jedan">
 <!ENTITY certs.auto.accesskey            "O">
 <!ENTITY certs.ask                       "Pitaj me svaki put">
 <!ENTITY certs.ask.accesskey             "a">
