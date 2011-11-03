@@ -19,8 +19,8 @@
 <!ENTITY signIn.account2.accesskey  "T">
 <!ENTITY signIn.password.label      "Salasana">
 <!ENTITY signIn.password.accesskey  "a">
-<!ENTITY signIn.syncKey.label       "Synkronointiavain">
-<!ENTITY signIn.syncKey.accesskey   "S">
+<!ENTITY signIn.recoveryKey.label       "Palautusavain">
+<!ENTITY signIn.recoveryKey.accesskey   "P">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Tilin tiedot">
@@ -41,12 +41,12 @@
 <!ENTITY setup.tosAgree2.accesskey  "">
 
 <!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; ja yksityisyydensuojasi">
-<!ENTITY setup.newSyncKeyPage.description.label "Varmistaaksemme täydellisen yksityisyydensuojan, kaikki tiedot salataan ennen kuin ne lähetetään eteenpäin. Synkronointiavaimesi on välttämätön tietojen purkamiseen, mutta sitä ei lähetetä eteenpäin.">
-<!ENTITY syncKeyEntry.label        "Synkronointiavaimesi">
-<!ENTITY syncKeyEntry.accesskey    "S">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; pitää huolta yksityisyydensuojastasi">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Varmistaaksemme täydellisen yksityisyydensuojan, kaikki tiedot salataan ennen kuin ne lähetetään eteenpäin. Palautusavaimesi on välttämätön tietojen purkamiseen, mutta sitä ei lähetetä eteenpäin.">
+<!ENTITY recoveryKeyEntry.label        "Palautusavaimesi">
+<!ENTITY recoveryKeyEntry.accesskey    "P">
 <!ENTITY syncGenerateNewKey.label  "Luo uusi avain">
-<!ENTITY syncKeyBackup.description "Tarvitset synkronointiavaintasi kun haluat liittää toisia laitteita &syncBrand.fullName.label; -tiliisi. Otathan siis avaimesta varmuuskopion. Emme voi auttaa sinua palauttamaan hävinnyttä synkronointiavainta.">
+<!ENTITY recoveryKeyBackup.description "Tarvitset palautusavaintasi kun haluat liittää toisia laitteita &syncBrand.fullName.label; -tiliisi. Otathan siis avaimesta varmuuskopion. Emme voi auttaa sinua palauttamaan hävinnyttä palautusavainta.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Tulosta…">
 <!ENTITY button.syncKeyBackup.print.accesskey "T">
@@ -65,12 +65,12 @@
 <!ENTITY addDevice.dialog.enterCode.label   "Kirjoita alle uuden laitteen antama koodi:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Yritä uudestaan.">
 <!ENTITY addDevice.dialog.successful.label  "Laitteen liittäminen onnistui. Ensimmäinen synkronointi voi kestää useita minuutteja ja se suoritetaan taustalla.">
-<!ENTITY addDevice.dialog.syncKey.label     "Kirjoita synkronointiavaimesi aktivoidaksesi laitteen. Kirjoita ylös tai tulosta tämä avain ja ota se mukaasi.">
+<!ENTITY addDevice.dialog.recoveryKey.label     "Kirjoita palautusavaimesi aktivoidaksesi laitteen. Kirjoita ylös tai tulosta tämä avain ja ota se mukaasi.">
 <!ENTITY addDevice.dialog.connected.label   "Laite liitetty">
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Kirjaudu sisään">
-<!ENTITY existingSyncKey.description "Voit tarkistaa synkronointiavaimesi avaamalla &syncBrand.shortName.label;-palvelun asetukset toisella laitteellasi ja valitsemalla &#x0022;Hallinnoi tiliä&#x0022; ja &#x0022;Synkronointiavaimeni&#x0022;.">
+<!ENTITY existingRecoveryKey.description "Voit tarkistaa palautusavaimesi avaamalla &syncBrand.shortName.label;-palvelun asetukset toisella laitteellasi ja valitsemalla &#x0022;Hallinnoi tiliä&#x0022; ja &#x0022;Palautusavaimeni&#x0022;.">
 <!ENTITY verifying.label              "Todennetaan…">
 <!ENTITY resetPassword.label          "Tyhjennä salasana">
 <!ENTITY resetSyncKey.label           "Toinen synkronoitava laitteeni on kadonnut.">

@@ -13,8 +13,8 @@
 <!ENTITY useCurrentPage.label      "Käytä avointa sivua">
 <!ENTITY useCurrentPage.accesskey  "K">
 <!ENTITY useMultiple.label         "Käytä avoimia sivuja">
-<!ENTITY useBookmark.label         "Käytä kirjanmerkkiä">
-<!ENTITY useBookmark.accesskey     "m">
+<!ENTITY chooseBookmark.label      "Käytä kirjanmerkkiä…">
+<!ENTITY chooseBookmark.accesskey  "m">
 <!ENTITY restoreDefault.label      "Palauta oletusasetus">
 <!ENTITY restoreDefault.accesskey  "P">
 
