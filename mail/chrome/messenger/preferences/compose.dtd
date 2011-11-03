@@ -10,7 +10,7 @@
 <!ENTITY addExtension.accesskey               "e">
 
 <!ENTITY htmlComposeHeader.label              "HTML">
-<!ENTITY font.label                           "Slova:">
+<!ENTITY font.label                           "Font:">
 <!ENTITY font.accesskey                       "l">
 <!ENTITY size.label                           "Veličina:">
 <!ENTITY size.accesskey                       "V">
@@ -23,13 +23,13 @@
 
 <!ENTITY spellCheck.label                     "Provjeri pravopis prije slanja">
 <!ENTITY spellCheck.accesskey                 "P">
-<!ENTITY spellCheckInline.label               "Omogući provjeru pravopisa prilikom tipkanja">
+<!ENTITY spellCheckInline.label               "Omogući provjeru pravopisa prilikom pisanja">
 <!ENTITY spellCheckInline1.accesskey          "e">
 <!ENTITY languagePopup.label                  "Jezik:">
 <!ENTITY languagePopup.accessKey              "J">
-<!ENTITY downloadDictionaries.label           "Preuzmi više riječnika">
+<!ENTITY downloadDictionaries.label           "Preuzmi više rječnika">
 
-<!ENTITY warnOnSendAccelKey.label             "Potvrdi slanje prilikom korištenja tipkovničkih skraćenica za slanje poruke">
+<!ENTITY warnOnSendAccelKey.label             "Zatraži potvrdu kod slanja poruke pomoću tipkovničke kratice">
 <!ENTITY warnOnSendAccelKey.accesskey         "o">
 <!ENTITY autoSave.label                       "Automatski spremi svakih">
 <!ENTITY autoSave.accesskey                   "A">
@@ -38,20 +38,20 @@
 <!ENTITY emailCollectionPicker.label           "Automatski dodaj adrese e-pošte iz poslanih poruka u moj:">
 <!ENTITY emailCollectionPicker.accesskey       "A">
 <!ENTITY addressingTitle.label                 "Automatsko dovršavanje adrese">
-<!ENTITY autocompleteText.label                "Kada adresiram poruke, traži odgovarajuće adrese u:">
+<!ENTITY autocompleteText.label                "Kod adresiranja poruka, traži odgovarajuće adrese u:">
 <!ENTITY addressingEnable.label                "Lokalnom adresaru">
 <!ENTITY addressingEnable.accesskey            "L">
 <!ENTITY directories.label                     "Poslužiteljskom imeniku:">
 <!ENTITY directories.accesskey                 "P">
 <!ENTITY directoriesNone.label                 "Nepostojeći">
-<!ENTITY editDirectories.label                 "Uredi server…">
+<!ENTITY editDirectories.label                 "Uredi imenike…">
 <!ENTITY editDirectories.accesskey             "e">
 
-<!ENTITY sendOptionsDescription.label          "Konfiguriraj ponašanje prilikom formatiranja teksta">
+<!ENTITY sendOptionsDescription.label          "Podesite ponašanje prilikom oblikovanja teksta">
 <!ENTITY sendOptions.label                     "Mogućnosti slanja…">
 <!ENTITY sendOptions.accesskey                 "s">
 
-<!ENTITY attachmentReminder.label              "Provjeravaj da li nedostaju privitci">
+<!ENTITY attachmentReminder.label              "Provjeravaj nedostaju li privici">
 <!ENTITY attachmentReminder.accesskey          "n">
 <!ENTITY attachmentReminderOptions.label       "Ključne riječi…">
 <!ENTITY attachmentReminderOptions.accesskey   "K">
