@@ -1,0 +1,11 @@
+<!--null-->
+<!ENTITY pref.ldap.window.title "Sirvidores de direutoriu LDAP">
+<!ENTITY directories.label "Sirvidor de direutoriu LDAP:">
+<!ENTITY directoriesText.label "Seleicionar un sirvidor de direutoriu LDAP:">
+<!ENTITY directoriesText.accesskey "S">
+<!ENTITY addDirectory.label "Amestar">
+<!ENTITY addDirectory.accesskey "A">
+<!ENTITY editDirectory.label "Editar">
+<!ENTITY editDirectory.accesskey "e">
+<!ENTITY deleteDirectory.label "Desaniciar">
+<!ENTITY deleteDirectory.accesskey "r">

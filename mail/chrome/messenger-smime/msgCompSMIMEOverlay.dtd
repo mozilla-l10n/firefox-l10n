@@ -1,0 +1,10 @@
+<!ENTITY menu_securityEncryptRequire.label "Cifrar esti mensaxe">
+<!ENTITY menu_securityEncryptRequire.accesskey "E">
+<!ENTITY menu_securitySign.label "Roblar dixitalmente esti mensaxe">
+<!ENTITY menu_securitySign.accesskey "F">
+<!ENTITY menu_securityStatus.label "Ver información de seguridá">
+<!ENTITY menu_securityStatus.accesskey "I">
+<!ENTITY securityButton.label "Seguridá">
+<!ENTITY securityButton.tooltip "Ver o camudar la configuración de seguridá">
+<!ENTITY menu_viewSecurityStatus.label "Información de seguridá del mensaxe">
+<!ENTITY menu_viewSecurityStatus.accesskey "s">

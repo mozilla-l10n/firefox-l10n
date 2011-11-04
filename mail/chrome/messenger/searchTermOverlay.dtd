@@ -1,0 +1,10 @@
+<!ENTITY matchAll.label "Toes estes regles">
+<!ENTITY matchAll.accesskey "e">
+<!ENTITY matchAny.label "Cualquiera d'estas regles">
+<!ENTITY matchAny.accesskey "q">
+<!ENTITY matchAllMsgs.label "Incluyir tolos mensaxes">
+<!ENTITY matchAllMsgs.accesskey "m">
+<!ENTITY searchTermListAttributesFlexValue "4">
+<!ENTITY searchTermListOperatorsFlexValue "4">
+<!ENTITY searchTermListValueFlexValue "4">
+<!ENTITY searchTermListButtonsFlexValue "2">

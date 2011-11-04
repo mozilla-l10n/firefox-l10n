@@ -1,0 +1,29 @@
+<!ENTITY dialog.title "Opciones d'unviu">
+<!ENTITY sendMail.title "Formatu del testu">
+<!ENTITY sendMaildesc.label "Al unviar mensaxes en formatu HTML y ún o más destinatarios nun tean na llista pa poder recibir HTML:">
+<!ENTITY askMe.label "Entrugame qué facer">
+<!ENTITY askMe.accesskey "E">
+<!ENTITY convertPlain.label "Convertir el mensaxe a testu ensin formatu">
+<!ENTITY convertPlain.accesskey "C">
+<!ENTITY sendHTML.label "Unviar el mensaxe en HTML de toes formes">
+<!ENTITY sendHTML.accesskey "S">
+<!ENTITY sendBoth.label "Unviar el mensaxe en testu sin formatu y en HTML">
+<!ENTITY sendBoth.accesskey "e">
+<!ENTITY override.label "Nota: usa la llibreta de direiciones pa especificar los formatos preferíos de testu pa los destinatarios.">
+<!ENTITY domaindesc.label "Al unviar un mensaxe a una direición con ún de los nomes de dominiu llistaos debaxo, &brandShortName; automáticamente unvia'l mensaxe nel formatu correutu.">
+<!ENTITY HTMLTab.label "Dominios HTML">
+<!ENTITY HTMLTab.accesskey "H">
+<!ENTITY PlainTextTab.label "Dominios de testu ensin formatu">
+<!ENTITY PlainTextTab.accesskey "f">
+<!ENTITY AddHtmlDomain.label "Amestar…">
+<!ENTITY AddHtmlDomain.accesskey "A">
+<!ENTITY AddPlainText.label "Amestar…">
+<!ENTITY AddPlainText.accesskey "A">
+<!ENTITY DeleteHtmlDomain.label "Desaniciar">
+<!ENTITY DeleteHtmlDomain.accesskey "n">
+<!ENTITY DeletePlainText.label "Desaniciar">
+<!ENTITY DeletePlainText.accesskey "n">
+<!ENTITY add.htmltitle "Amestar nome de dominiu HTML">
+<!ENTITY add.htmldomain "Nome de dominiu HTML:">
+<!ENTITY add.plaintexttitle "Amestar nome de dominiu de testu ensin formatu">
+<!ENTITY add.plaintextdomain "Nome de dominiu de testu ensin formatu:">

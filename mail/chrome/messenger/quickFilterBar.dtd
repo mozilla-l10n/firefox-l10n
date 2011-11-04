@@ -1,0 +1,31 @@
+<!ENTITY quickFilterBar.toggleBarVisibility.menu.label "Barra de filtráu rápidu">
+<!ENTITY quickFilterBar.toggleBarVisibility.menu.accesskey "B">
+<!ENTITY quickFilterBar.toggleBarVisibility.button.tooltip "Amosar/anubrir la barra de filtráu rápidu">
+<!ENTITY quickFilterBar.sticky.tooltip "Caltener filtros aplicaos al cambiar de carpetes">
+<!ENTITY quickFilterBar.barLabel.label "Filtru rápidu:">
+<!ENTITY quickFilterBar.unread.label "Non lleíos">
+<!ENTITY quickFilterBar.unread.tooltip "Amosar namái los mensaxes ensin lleer">
+<!ENTITY quickFilterBar.starred.label "Con estrella">
+<!ENTITY quickFilterBar.starred.tooltip "Amosar namái los mensaxes con estrella">
+<!ENTITY quickFilterBar.inaddrbook.label "Contautu">
+<!ENTITY quickFilterBar.inaddrbook.tooltip "Amosar namái los mensaxes de persones na llibreta de direiciones">
+<!ENTITY quickFilterBar.tags.label "Etiquetes">
+<!ENTITY quickFilterBar.tags.tooltip "Amosar namái los mensaxes con etiquetes nellos">
+<!ENTITY quickFilterBar.attachment.label "Axuntu">
+<!ENTITY quickFilterBar.attachment.tooltip "Amosar namái los mensaxes con axuntos">
+<!ENTITY quickFilterBar.resultsLabel.some.formatString "#1 mensaxe;#1 mensaxes">
+<!ENTITY quickFilterBar.resultsLabel.none "Nun hai resultaos">
+<!ENTITY quickFilterBar.resultsLabel.minWidth "100">
+<!ENTITY quickFilterBar.textbox.emptyText.base "Filtrar estos mensaxes… #1">
+<!ENTITY quickFilterBar.show.key2 "k">
+<!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.nonmac "&lt;Ctrl+Mayús+K&gt;">
+<!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.mac "&lt;⇧⌘K&gt;">
+<!ENTITY quickFilterBar.textbox.idealWidth "320">
+<!ENTITY quickFilterBar.textbox.minWidth "280">
+<!ENTITY quickFilterBar.textFilter.explanation.label "Filtrar mensaxes por:">
+<!ENTITY quickFilterBar.textFilter.sender.label "Remitente">
+<!ENTITY quickFilterBar.textFilter.recipients.label "Destinatarios">
+<!ENTITY quickFilterBar.textFilter.subject.label "Asuntu">
+<!ENTITY quickFilterBar.textFilter.body.label "Cuerpu">
+<!ENTITY quickFilterBar.glodaUpsell.continueSearch "Continuar esta gueta per toles carpetes">
+<!ENTITY quickFilterBar.glodaUpsell.pressEnterAndCurrent "Calca 'Enter' de nueves pa siguir cola gueta de: #1">

@@ -1,0 +1,15 @@
+<!ENTITY feedSubscriptions.label "Soscripciones a canales">
+<!ENTITY subscriptionDesc.label "Nota: desaniciar o camudar la carpeta d'una canal nun va afeutar a los artículos descargaos previamente.">
+<!ENTITY feedTitle.label "Títulu:">
+<!ENTITY location.label "Llocalización:">
+<!ENTITY button.addFeed.label "Amestar">
+<!ENTITY button.addFeed.accesskey "A">
+<!ENTITY button.editFeed.label "Editar">
+<!ENTITY button.editFeed.accesskey "E">
+<!ENTITY button.removeFeed.label "Desaniciar">
+<!ENTITY button.removeFeed.accesskey "R">
+<!ENTITY button.importOPML.label "Importar">
+<!ENTITY button.importOPML.accesskey "I">
+<!ENTITY button.exportOPML.label "Esportar">
+<!ENTITY button.exportOPML.accesskey "S">
+<!ENTITY cmd.close.commandKey "w">

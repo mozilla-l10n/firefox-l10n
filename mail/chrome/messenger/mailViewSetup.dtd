@@ -1,0 +1,4 @@
+<!ENTITY mailViewSetupTitle.label "Configuración de vistes de mensaxes">
+<!ENTITY mailViewHeading.label "Nome de la vista de mensaxes:">
+<!ENTITY mailViewHeading.accesskey "e">
+<!ENTITY searchTermCaption.label "Cuando se seleiciona esta vista, amosar namái los mensaxes que:">

@@ -1,0 +1,50 @@
+<!ENTITY itemGeneral.label "Xeneral">
+<!ENTITY itemAutoComplete.label "Destinatariu">
+<!ENTITY itemSpellCheck.label "Ortografía">
+<!ENTITY forwardMsg.label "Reunviar mensaxes:">
+<!ENTITY forwardMsg.accesskey "m">
+<!ENTITY inline.label "Incorporáu">
+<!ENTITY asAttachment.label "Como axuntu">
+<!ENTITY addExtension.label "Amestar estensión al nome de ficheru">
+<!ENTITY addExtension.accesskey "A">
+<!ENTITY htmlComposeHeader.label "HTML">
+<!ENTITY font.label "Triba de lletra:">
+<!ENTITY font.accesskey "T">
+<!ENTITY size.label "Tamañu:">
+<!ENTITY size.accesskey "u">
+<!ENTITY fontColor.label "Color del testu:">
+<!ENTITY fontColor.accesskey "s">
+<!ENTITY bgColor.label "Color de fondu:">
+<!ENTITY bgColor.accesskey "C">
+<!ENTITY restoreHTMLDefaults.label "Restaurar valores por omisión">
+<!ENTITY restoreHTMLDefaults.accesskey "R">
+<!ENTITY spellCheck.label "Comprobar la ortografía enantes d'unviar">
+<!ENTITY spellCheck.accesskey "C">
+<!ENTITY spellCheckInline.label "Activar correición ortográfica al escribir">
+<!ENTITY spellCheckInline1.accesskey "v">
+<!ENTITY languagePopup.label "Llingua:">
+<!ENTITY languagePopup.accessKey "L">
+<!ENTITY downloadDictionaries.label "Descargar más diccionarios">
+<!ENTITY warnOnSendAccelKey.label "Confirmar al usar l'atayu de tecláu pal unviu de mensaxes">
+<!ENTITY warnOnSendAccelKey.accesskey "n">
+<!ENTITY autoSave.label "Guardar automáticamente cada">
+<!ENTITY autoSave.accesskey "G">
+<!ENTITY autoSaveEnd.label "minutos">
+<!ENTITY emailCollectionPicker.label "Amestar automáticamente les direiciones de corréu saliente al mio/mios:">
+<!ENTITY emailCollectionPicker.accesskey "A">
+<!ENTITY addressingTitle.label "Autocompletáu de direiciones">
+<!ENTITY autocompleteText.label "Al unviar mensaxes, guetar entraes coincidentes en:">
+<!ENTITY addressingEnable.label "Llibretes de direiciones llocales">
+<!ENTITY addressingEnable.accesskey "L">
+<!ENTITY directories.label "Sirvidor de direutoriu:">
+<!ENTITY directories.accesskey "S">
+<!ENTITY directoriesNone.label "Dengún">
+<!ENTITY editDirectories.label "Editar direutorios…">
+<!ENTITY editDirectories.accesskey "E">
+<!ENTITY sendOptionsDescription.label "Configurar comportamientu del formatu de testu">
+<!ENTITY sendOptions.label "Opciones d'unviu…">
+<!ENTITY sendOptions.accesskey "v">
+<!ENTITY attachmentReminder.label "Comprobar axuntos escaecíos">
+<!ENTITY attachmentReminder.accesskey "b">
+<!ENTITY attachmentReminderOptions.label "Pallabres clave…">
+<!ENTITY attachmentReminderOptions.accesskey "P">

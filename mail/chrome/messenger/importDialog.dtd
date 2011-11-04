@@ -1,0 +1,27 @@
+<!--null-->
+<!ENTITY importDialog.windowTitle "Importar">
+<!ENTITY importAll.label "Importar too">
+<!ENTITY importAll.accesskey "I">
+<!ENTITY importMail.label "Corréu">
+<!ENTITY importMail.accesskey "C">
+<!ENTITY importAddressbook.label "Llibretas de direiciones">
+<!ENTITY importAddressbook.accesskey "L">
+<!ENTITY importSettings.label "Configuración">
+<!ENTITY importSettings.accesskey "u">
+<!ENTITY importFilters.label "Filtros">
+<!ENTITY importFilters.accesskey "F">
+<!ENTITY window.width "47em">
+<!ENTITY window.macWidth "52em">
+<!ENTITY importTitle.label "Encontu d'importación de &brandShortName;">
+<!ENTITY importShortDesc.label "Importar corréu, llibretes de direiciones, configuraciones y filtros d'otros programas">
+<!ENTITY importDescription1.label "Esti Encontu va importar mensaxes de corréu, entraes de llibretes de direiciones, preferencies o filtros d'otros programes de corréu y formatos comunes de llibretes de direiciones en &brandShortName;.">
+<!ENTITY importDescription2.label "Cuando s'importen, vas poder acceder a ellos dende'l corréu de &brandShortName;.">
+<!ENTITY selectDescription.label "Por favor, esbilla'l tipu de ficheru que te prestaría importar:">
+<!ENTITY selectDescription.accesskey "P">
+<!ENTITY back.label "&lt; Atrás">
+<!ENTITY forward.label "Siguiente &gt;">
+<!ENTITY finish.label "Terminar">
+<!ENTITY cancel.label "Encaboxar">
+<!ENTITY select.label "o seleiciona'l tipu de datos a importar:">
+<!ENTITY title.label "Puestu">
+<!ENTITY processing.label "Importando…">

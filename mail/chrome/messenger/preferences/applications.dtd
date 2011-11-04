@@ -1,0 +1,15 @@
+<!ENTITY typeColumn.label "Triba de conteníu">
+<!ENTITY typeColumn.accesskey "T">
+<!ENTITY actionColumn2.label "Aición">
+<!ENTITY actionColumn2.accesskey "A">
+<!ENTITY focusSearch1.key "f">
+<!ENTITY focusSearch2.key "k">
+<!ENTITY filter.placeholder "Guetar">
+<!ENTITY saveTo.label "Guardar ficheros en">
+<!ENTITY saveTo.accesskey "G">
+<!ENTITY alwaysAsk.label "Entrugame siempre aú guardar ficheros">
+<!ENTITY alwaysAsk.accesskey "P">
+<!ENTITY chooseFolderWin.label "Desaminar…">
+<!ENTITY chooseFolderWin.accesskey "s">
+<!ENTITY chooseFolderMac.label "Elexir…">
+<!ENTITY chooseFolderMac.accesskey "E">

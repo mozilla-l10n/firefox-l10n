@@ -1,0 +1,11 @@
+<!ENTITY accountTitle.label "Configuración de la cuenta">
+<!ENTITY accountSettingsDesc.label "La siguiente cuenta ye especial. Nun tien identidaes asociaes.">
+<!ENTITY accountName.label "Nome de la cuenta:">
+<!ENTITY accountName.accesskey "N">
+<!ENTITY messageStorage.label "Almacenamientu de mensaxes">
+<!ENTITY emptyTrashOnExit.label "Vaciar papelera al salir">
+<!ENTITY emptyTrashOnExit.accesskey "V">
+<!ENTITY localPath.label "Direutoriu llocal:">
+<!ENTITY localFolderPicker.label "Seleiciona'l direutoriu llocal">
+<!ENTITY browseFolder.label "Desaminar…">
+<!ENTITY browseFolder.accesskey "x">

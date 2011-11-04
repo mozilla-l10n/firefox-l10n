@@ -1,0 +1,87 @@
+<!ENTITY itemGeneral.label "Xeneral">
+<!ENTITY itemDisplay.label "Llectura y visualización">
+<!ENTITY itemUpdate.label "Anovamientu">
+<!ENTITY itemNetworking.label "Rede y espaciu en discu">
+<!ENTITY itemCertificates.label "Certificaos">
+<!ENTITY submitTelemetry.label "Unviar datos de rendimientu">
+<!ENTITY submitTelemetry.accesskey "V">
+<!ENTITY telemetryInfoLink.label "Más información sobre Telemetry">
+<!ENTITY enableGlodaSearch.label "Activar indexador y gueta global">
+<!ENTITY enableGlodaSearch.accesskey "A">
+<!ENTITY systemIntegration.label "Integración col sistema">
+<!ENTITY alwaysCheckDefault.label "Comprobar siempre al aniciar si &brandShortName; ye'l veceru de corréu por omisión">
+<!ENTITY alwaysCheckDefault.accesskey "C">
+<!ENTITY searchIntegration.label "Permitir que &searchIntegration.engineName; guete nos mensaxes">
+<!ENTITY searchIntegration.accesskey "P">
+<!ENTITY checkNow.label "Comprobar agora">
+<!ENTITY checkNow.accesskey "b">
+<!ENTITY configEditDesc.label "Configuración avanzada">
+<!ENTITY configEdit.label "Editor de configuración…">
+<!ENTITY configEdit.accesskey "E">
+<!ENTITY returnReceiptsInfo.label "Determinar cómo xestiona &brandShortName; los acuses de recibu">
+<!ENTITY showReturnReceipts.label "Acuses de recibu…">
+<!ENTITY showReturnReceipts.accesskey "r">
+<!ENTITY reading.caption "Llectura">
+<!ENTITY display.caption "Visualización">
+<!ENTITY showCondensedAddresses.label "Amosar namái l'atributu 'nome amosáu' pa les personles de la mio llibreta de direiciones">
+<!ENTITY showCondensedAddresses.accesskey "a">
+<!ENTITY autoMarkAsRead.label "Conseñar mensaxe automáticamente como lleíu">
+<!ENTITY autoMarkAsRead.accesskey "m">
+<!ENTITY markAsReadNoDelay.label "Namái amosalu">
+<!ENTITY markAsReadNoDelay.accesskey "N">
+<!ENTITY markAsReadDelay.label "Tres d'amosalu durante">
+<!ENTITY markAsReadDelay.accesskey "d">
+<!ENTITY secondsLabel.label "segundos">
+<!ENTITY openMsgIn.label "Abrir mensaxes en:">
+<!ENTITY openMsgInNewTab.label "Una llingüeta nueva">
+<!ENTITY openMsgInNewTab.accesskey "t">
+<!ENTITY reuseExpRadio0.label "Una ventana de mensaxes nueva">
+<!ENTITY reuseExpRadio0.accesskey "U">
+<!ENTITY reuseExpRadio1.label "Una ventana de mensaxes esistente">
+<!ENTITY reuseExpRadio1.accesskey "v">
+<!ENTITY closeMsgOnMoveOrDelete.label "Zarrar llingüeta/ventana del mensaxe al mover o desaniciar">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "Z">
+<!ENTITY autoCheck.label "Guetar anovamientos automáticamente pa:">
+<!ENTITY enableAppUpdate.label "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey "h">
+<!ENTITY enableAddonsUpdate.label "Complementos instalaos">
+<!ENTITY enableAddonsUpdate.accesskey "C">
+<!ENTITY whenUpdatesFound.label "Cuando s'alcuentren anovamientos pa &brandShortName;,">
+<!ENTITY modeAskMe.label "Entrugame qué quiero facer">
+<!ENTITY modeAskMe.accesskey "E">
+<!ENTITY modeAutomatic.label "Descargar ya instalar automáticamente l'anovamientu">
+<!ENTITY modeAutomatic.accesskey "D">
+<!ENTITY modeAutoAddonWarn.label "Avisame si esto desactivará dalgún de los mios complementos">
+<!ENTITY modeAutoAddonWarn.accesskey "A">
+<!ENTITY showUpdates.label "Amosar l'historial d'anovamientos">
+<!ENTITY showUpdates.accesskey "M">
+<!ENTITY showSettings.label "Configuración…">
+<!ENTITY showSettings.accesskey "C">
+<!ENTITY proxiesConfigure.label "Configurar cómo se coneuta &brandShortName; a Internet">
+<!ENTITY connectionsInfo.caption "Conexón">
+<!ENTITY offlineInfo.caption "Desconeutáu">
+<!ENTITY offlineInfo.label "Configurar mou ensin conexón">
+<!ENTITY showOffline.label "Ensin conexón…">
+<!ENTITY showOffline.accesskey "S">
+<!ENTITY Diskspace "Espaciu en discu">
+<!ENTITY offlineCompact.label "Compautar carpetes si s'aforra más de">
+<!ENTITY offlineCompact.accesskey "o">
+<!ENTITY mb.label "MB">
+<!ENTITY useCacheBefore.label "Usar hasta">
+<!ENTITY useCacheBefore.accesskey "U">
+<!ENTITY useCacheAfter.label "MB d'espaciu pa la caché">
+<!ENTITY clearCacheNow.label "Llimpiar agora">
+<!ENTITY clearCacheNow.accesskey "L">
+<!ENTITY certSelection.description "Cuando un sirvidor solicite'l mio certificáu personal:">
+<!ENTITY certs.auto "Seleicionar ún automáticamente">
+<!ENTITY certs.auto.accesskey "S">
+<!ENTITY certs.ask "Entrugame cada vegada">
+<!ENTITY certs.ask.accesskey "P">
+<!ENTITY viewCertificates.label "Ver certificaos">
+<!ENTITY viewCertificates.accesskey "a">
+<!ENTITY viewCRLs.label "Llistes de revocación">
+<!ENTITY viewCRLs.accesskey "L">
+<!ENTITY validation.label "Validación">
+<!ENTITY validation.accesskey "V">
+<!ENTITY viewSecurityDevices.label "Preseos de seguridá">
+<!ENTITY viewSecurityDevices.accesskey "P">

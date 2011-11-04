@@ -1,0 +1,29 @@
+<!ENTITY window.title "Filtros de mensaxes">
+<!ENTITY nameColumn.label "Nome de filtru">
+<!ENTITY activeColumn.label "Activáu">
+<!ENTITY newButton.label "Nuevu…">
+<!ENTITY newButton.accesskey "N">
+<!ENTITY editButton.label "Editar…">
+<!ENTITY editButton.accesskey "E">
+<!ENTITY deleteButton.label "Desaniciar">
+<!ENTITY deleteButton.accesskey "r">
+<!ENTITY reorderUpButton.label "Mover arriba">
+<!ENTITY reorderUpButton.accesskey "M">
+<!ENTITY reorderDownButton.label "Mover abaxo">
+<!ENTITY reorderDownButton.accesskey "x">
+<!ENTITY filterHeader.label "Los filtros activos aplíquense automáticamente nel orde de la llista.">
+<!ENTITY filtersForPrefix.label "Filtros pa:">
+<!ENTITY filtersForPrefix.accesskey "F">
+<!ENTITY viewLogButton.label "Rexistru de filtros">
+<!ENTITY viewLogButton.accesskey "L">
+<!ENTITY runFilters.label "Executar agora">
+<!ENTITY runFilters.accesskey "R">
+<!ENTITY stopFilters.label "Parar">
+<!ENTITY stopFilters.accesskey "P">
+<!ENTITY folderPickerPrefix.label "Executar los filtros seleicionaos en:">
+<!ENTITY folderPickerPrefix.accesskey "c">
+<!ENTITY choosethis.label "elexir esta carpeta">
+<!ENTITY choosethisnewsserver.label "elexir esti sirvidor de noticies">
+<!ENTITY helpButton.label "Ayuda">
+<!ENTITY helpButton.accesskey "u">
+<!ENTITY closeCmd.key "W">

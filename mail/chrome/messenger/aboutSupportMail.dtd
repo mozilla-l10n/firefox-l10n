@@ -1,0 +1,13 @@
+<!ENTITY aboutSupport.appBasicsAppBuildID "ID de compilación de l'aplicación">
+<!ENTITY aboutSupport.accountsTitle "Cuentes de corréu y noticies">
+<!ENTITY aboutSupport.showPrivateData.mainText "Incluyir nomes de les cuentes">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(posiblemente identificando información)">
+<!ENTITY aboutSupport.accountsID "ID">
+<!ENTITY aboutSupport.accountsName "Nome">
+<!ENTITY aboutSupport.accountsIncomingServer "Sirvidor d'entrada">
+<!ENTITY aboutSupport.accountsOutgoingServers "Sirvidores de salida">
+<!ENTITY aboutSupport.accountsServerName "Nome">
+<!ENTITY aboutSupport.accountsConnSecurity "Seguridá de la conexón">
+<!ENTITY aboutSupport.accountsAuthMethod "Métodu d'identificación">
+<!ENTITY aboutSupport.accountsDefault "¿Predetermináu?">
+<!ENTITY aboutSupport.sendViaEmail.label "Unviar per corréu">

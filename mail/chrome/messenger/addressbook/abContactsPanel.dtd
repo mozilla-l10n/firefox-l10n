@@ -1,0 +1,16 @@
+<!ENTITY addressbookPicker.label "Llibreta de direiciones:">
+<!ENTITY addressbookPicker.accesskey "L">
+<!ENTITY searchInput.label "Guetar:">
+<!ENTITY searchInput.accesskey "u">
+<!ENTITY SearchNameOrEmail.label "Nome o direición de corréu">
+<!ENTITY deleteAddrBookCard.label "Desaniciar">
+<!ENTITY addrBookCardProperties.label "Propiedaes">
+<!ENTITY addtoToFieldMenu.label "Amestar a campu Pa">
+<!ENTITY addtoCcFieldMenu.label "Amestar a campu Cc">
+<!ENTITY addtoBccFieldMenu.label "Amestar a campu CCt">
+<!ENTITY toButton.label "Amestar a Pa:">
+<!ENTITY toButton.accesskey "A">
+<!ENTITY ccButton.label "Amestar a Cc:">
+<!ENTITY ccButton.accesskey "s">
+<!ENTITY bccButton.label "Amestar a Cct:">
+<!ENTITY bccButton.accesskey "t">

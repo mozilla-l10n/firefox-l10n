@@ -1,0 +1,66 @@
+<!ENTITY windowTitle.label "Encontu pa cuentes">
+<!ENTITY accountWizard.size "width: 45em; height: 42em;">
+<!ENTITY accountSetupInfo2.label "Pa poder recibir mensaxes, primero necesites configurar una cuenta.">
+<!ENTITY accountTypeTitle.label "Configuración de nueva cuenta">
+<!ENTITY accountTypeDesc2.label "Esti Encontu va recopilar la información necesaria pa configurar una cuenta. Si nun conoces la información solicitada, por favor, contauta col alministrador del sistema o'l fornidor de servicios d'internet.">
+<!ENTITY accountTypeDirections.label "Esbilla la triba de cuenta que quies configurar:">
+<!ENTITY accountTypeMail.label "Cuenta de corréu-e">
+<!ENTITY accountTypeMail.accesskey "c">
+<!ENTITY accountTypeNews.label "Cuenta de noticies">
+<!ENTITY accountTypeNews.accesskey "n">
+<!ENTITY identityTitle.label "Identidá">
+<!ENTITY identityDesc.label "Cada cuenta tien una identidá, que ye la información que t'identifica énte otros cuando ellos reciben los tos mensaxes.">
+<!ENTITY fullnameDesc.label "Introduz el nome que quies qu'apaeza nel campu &quot;De&quot; al unviar mensaxes">
+<!ENTITY fullnameExample.label "(por exemplu, &quot;Xune Fueyo&quot;).">
+<!ENTITY fullnameLabel.label "Nome:">
+<!ENTITY fullnameLabel.accesskey "N">
+<!ENTITY emailLabel.label "Direición de corréu-e:">
+<!ENTITY emailLabel.accesskey "E">
+<!ENTITY serverTitle.label "Información de sirvidor">
+<!ENTITY incomingServerTypeDesc.label "Seleiciona la triba de sirvidor d'entrada que tas usando.">
+<!ENTITY incomingServerNameDesc.label "Introduz el nome del sirvidor d'entrada (por exemplu, &quot;mail.exemplu.net&quot;).">
+<!ENTITY incomingServerLabel.label "Sirvidor d'entrada:">
+<!ENTITY incomingServerLabel.accesskey "S">
+<!ENTITY newsServerNameDesc.label "Introduz el nome del sirvidor de noticies (NNTP) (por exemplu, &quot;news.exemplu.net&quot;).">
+<!ENTITY smtpServerDesc.label "Introduz el nome del sirvidor de salida (SMTP) (por exemplu, &quot;smtp.exemplu.net&quot;).">
+<!ENTITY smtpServerLabel.label "Sirvidor de corréu de salida:">
+<!ENTITY smtpServerLabel.accesskey "O">
+<!ENTITY newsServerLabel.label "Sirvidor de noticies:">
+<!ENTITY newsServerLabel.accesskey "n">
+<!ENTITY imapType.label "IMAP">
+<!ENTITY imapType.accesskey "I">
+<!ENTITY popType.label "POP">
+<!ENTITY popType.accesskey "P">
+<!ENTITY leaveMsgsOnSrvr.label "Dexar los mensaxes nel sirvidor">
+<!ENTITY leaveMsgsOnSrvr.accesskey "m">
+<!ENTITY haveSmtp1.prefix "El sirvidor de salida (SMTP) esistente, &quot;">
+<!ENTITY haveSmtp1.suffix2 "&quot;, va usase. Pues camudar los sirvidores de salida na configuración de les cuentes.">
+<!ENTITY loginTitle.label "Nomes d'usuariu">
+<!ENTITY usernameDesc.label "Introduz el nome d'usuariu entrante facilitáu pol to fornidor de corréu-e ">
+<!ENTITY usernameExample.label "(por exemplu, &quot;xfueyo&quot;).">
+<!ENTITY usernameLabel.label "Nome d'usuariu entrante:">
+<!ENTITY usernameLabel.accesskey "I">
+<!ENTITY usernameSmtpDesc.label "Introduz el nome d'usuariu saliente facilitáu pol to fornidor de corréu-e (normalmente ye'l mesmu que l'entrante).">
+<!ENTITY usernameSmtpLabel.label "Nome d'usuariu saliente:">
+<!ENTITY usernameSmtpLabel.accesskey "O">
+<!ENTITY haveSmtp2.prefix "El to nome d'usuariu saliente (SMTP) esistente, &quot;">
+<!ENTITY haveSmtp2.suffix2 "&quot;, va usase. Pues camudar los sirvidores de salida na configuración de les cuentes.">
+<!ENTITY haveSmtp3.prefix "El to sirvidor saliente (SMTP), &quot;">
+<!ENTITY haveSmtp3.suffix2 "&quot;, ye idénticu al sirvidor d'entrada, poro, va usase'l to nome d'usuariu d'entrada p'acceder a él. Pues camudar los sirvidores de salida na configuración de les cuentes.">
+<!ENTITY accnameTitle.label "Nome de la cuenta">
+<!ENTITY accnameDesc.label "Introduz el nome pol que quies referite a esta cuenta (por exemplu, &quot;Cuenta del trabayu&quot;, &quot;Cuenta de casa&quot; o &quot;Cuenta de noticies&quot;).">
+<!ENTITY accnameLabel.label "Nome de la cuenta:">
+<!ENTITY accnameLabel.accesskey "A">
+<!ENTITY completionTitle.label "¡Felicidaes!">
+<!ENTITY completionText.label "Por favor, comprueba que la información de debaxo ye correuta.">
+<!ENTITY serverTypePrefix.label "Triba de sirvidor d'entrada:">
+<!ENTITY serverNamePrefix.label "Nome del sirvidor d'entrada:">
+<!ENTITY smtpServerNamePrefix.label "Nome del sirvidor de salida (SMTP):">
+<!ENTITY newsServerNamePrefix.label "Nome del sirvidor de noticies (NNTP):">
+<!ENTITY downloadOnLogin.label "Descargar mensaxes agora">
+<!ENTITY downloadOnLogin.accesskey "D">
+<!ENTITY deferStorageDesc.label "Desmarca esta caxella pa guardar el corréu d'esta cuenta nel to direutoriu. Esto va facer qu'esta cuenta apaeza como una cuenta del nivel principal. Sinón, formará parte de la cuenta de la bandexa d'entrada global nes carpetes llocales.">
+<!ENTITY deferStorage.label "Usar la bandexa d'entrada global (almacenar nes carpetes llocales)">
+<!ENTITY deferStorage.accesskey "G">
+<!ENTITY clickFinish.label "Calca'l botón Finar pa guardar estes configuraciones y colar del Encontu de cuentes.">
+<!ENTITY clickFinish.labelMac "Calca Fináu pa guardar estos valores y colar del Encontu de cuentes.">

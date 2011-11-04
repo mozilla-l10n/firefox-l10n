@@ -1,0 +1,9 @@
+<!ENTITY systemIntegration.title "Integración col sistema">
+<!ENTITY defaultClient.intro "Usar &brandShortName; como veceru por defeutu pa:">
+<!ENTITY email.label "Corréu-e">
+<!ENTITY newsgroups.label "Grupos de noticies">
+<!ENTITY feeds.label "Canales">
+<!ENTITY checkOnStartup.label "Facer siempre esta comprobación al aniciar &brandShortName;">
+<!ENTITY checkOnStartup.accesskey "F">
+<!ENTITY searchIntegration.label "Permitir que &searchIntegration.engineName; guete nos mensaxes">
+<!ENTITY searchIntegration.accesskey "P">

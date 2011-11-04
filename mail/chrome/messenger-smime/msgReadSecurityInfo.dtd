@@ -1,0 +1,7 @@
+<!ENTITY status.label "Seguridá del mensaxe">
+<!ENTITY signatureCert.label "Ver certificáu de la robla">
+<!ENTITY encryptionCert.label "Ver certificáu de cifráu">
+<!ENTITY signer.name "Robláu por:">
+<!ENTITY recipient.name "Cifráu pa:">
+<!ENTITY email.address "Direiciones de corréu-e:">
+<!ENTITY issuer.name "Certificáu emitíu por:">

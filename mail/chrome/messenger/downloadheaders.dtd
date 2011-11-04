@@ -1,0 +1,9 @@
+<!--null-->
+<!ENTITY all.label "Descargar toles testeres">
+<!ENTITY all.accesskey "D">
+<!ENTITY download.label "Descargar">
+<!ENTITY download.accesskey "a">
+<!ENTITY headers.label "Testeres">
+<!ENTITY headers.accesskey "r">
+<!ENTITY mark.label "Conseñar les testeres restantes como lleíes">
+<!ENTITY mark.accesskey "C">

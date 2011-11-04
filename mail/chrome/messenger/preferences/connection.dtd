@@ -1,0 +1,36 @@
+<!ENTITY connectionsDialog.title "Configuración de conexón">
+<!ENTITY window.width "47em">
+<!ENTITY proxyTitle.label "Configurar proxies pal accesu a Internet">
+<!ENTITY noProxyTypeRadio.label "Ensin proxy">
+<!ENTITY noProxyTypeRadio.accesskey "i">
+<!ENTITY systemTypeRadio.label "Usar configuración de proxy del sistema">
+<!ENTITY systemTypeRadio.accesskey "U">
+<!ENTITY WPADTypeRadio.label "Autodeteutar configuración del proxy pa esta rede">
+<!ENTITY WPADTypeRadio.accesskey "t">
+<!ENTITY manualTypeRadio.label "Configuración manual del proxy:">
+<!ENTITY manualTypeRadio.accesskey "m">
+<!ENTITY autoTypeRadio.label "URL pa la configuración automática del proxy:">
+<!ENTITY autoTypeRadio.accesskey "A">
+<!ENTITY reload.label "Recargar">
+<!ENTITY reload.accesskey "R">
+<!ENTITY http.label "Proxy HTTP:">
+<!ENTITY http.accesskey "h">
+<!ENTITY ssl.label "Proxy SSL:">
+<!ENTITY ssl.accesskey "s">
+<!ENTITY socks.label "Sirvidor SOCKS:">
+<!ENTITY socks.accesskey "c">
+<!ENTITY socks4.label "SOCKS v4">
+<!ENTITY socks4.accesskey "k">
+<!ENTITY socks5.label "SOCKS v5">
+<!ENTITY socks5.accesskey "v">
+<!ENTITY HTTPport.label "Puertu:">
+<!ENTITY HTTPport.accesskey "p">
+<!ENTITY SSLport.label "Puertu:">
+<!ENTITY SSLport.accesskey "u">
+<!ENTITY SOCKSport.label "Puertu:">
+<!ENTITY SOCKSport.accesskey "e">
+<!ENTITY noproxy.label "Nun usar proxy pa:">
+<!ENTITY noproxy.accesskey "n">
+<!ENTITY noproxyExplain.label "Exemplu: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY shareproxy.label "Usar el mesmu proxy pa too">
+<!ENTITY shareproxy.accesskey "x">

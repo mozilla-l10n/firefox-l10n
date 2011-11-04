@@ -1,0 +1,178 @@
+<!ENTITY addressbookWindow.title "Llibreta de direiciones">
+<!ENTITY fileMenu.label "Ficheru">
+<!ENTITY fileMenu.accesskey "u">
+<!ENTITY newMenu.label "Nuevu">
+<!ENTITY newMenu.accesskey "N">
+<!ENTITY newContact.label "Contautu de la llibreta de direiciones…">
+<!ENTITY newContact.accesskey "C">
+<!ENTITY newContact.key "N">
+<!ENTITY newListCmd.label "Llista de corréu…">
+<!ENTITY newListCmd.accesskey "L">
+<!ENTITY newAddressBookCmd.label "Llibreta de direiciones…">
+<!ENTITY newAddressBookCmd.accesskey "B">
+<!ENTITY newLDAPDirectoryCmd.label "Direutoriu LDAP…">
+<!ENTITY newLDAPDirectoryCmd.accesskey "D">
+<!ENTITY newMessageCmd.label "Mensaxe">
+<!ENTITY newMessageCmd.key "M">
+<!ENTITY newMessageCmd.accesskey "m">
+<!ENTITY osxAddressBook.label "Usar la llibreta de direiciones de Mac OS X">
+<!ENTITY osxAddressBook.accesskey "U">
+<!ENTITY closeCmd.label "Zarrar">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "z">
+<!ENTITY printSetupCmd.label "Configurar páxina…">
+<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printPreviewContactCmd.label "Vista preliminar del contautu">
+<!ENTITY printPreviewContactCmd.accesskey "V">
+<!ENTITY printPreviewAddressBook.label "Vista preliminar de la llibreta de direiciones">
+<!ENTITY printPreviewAddressBook.accesskey "B">
+<!ENTITY printContactCmd.label "Imprentar contautu…">
+<!ENTITY printContactCmd.accesskey "P">
+<!ENTITY printContactCmd.key "P">
+<!ENTITY printAddressBook.label "Imprentar llibreta de direiciones…">
+<!ENTITY printAddressBook.accesskey "A">
+<!ENTITY editMenu.label "Editar">
+<!ENTITY editMenu.accesskey "e">
+<!ENTITY undoCmd.label "Desfacer">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "f">
+<!ENTITY redoCmd.label "Refacer">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "R">
+<!ENTITY cutCmd.label "Cortar">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "t">
+<!ENTITY copyCmd.label "Copiar">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "c">
+<!ENTITY pasteCmd.label "Apegar">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "p">
+<!ENTITY deleteCmd.label "Desaniciar">
+<!ENTITY deleteCmd.accesskey "r">
+<!ENTITY deleteAbCmd.label "Desaniciar llibreta de direiciones">
+<!ENTITY deleteContactCmd.label "Desaniciar contautu">
+<!ENTITY deleteContactsCmd.label "Desaniciar contautos">
+<!ENTITY deleteListCmd.label "Desaniciar llista">
+<!ENTITY deleteListsCmd.label "Desaniciar llistes">
+<!ENTITY deleteItemsCmd.label "Desaniciar elementos">
+<!ENTITY selectAllCmd.label "Esbillar too">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY searchAddressesCmd.key "f">
+<!ENTITY selectAllCmd.accesskey "t">
+<!ENTITY swapFirstNameLastNameCmd.label "Intercambiar nome y apellíos">
+<!ENTITY swapFirstNameLastNameCmd.accesskey "t">
+<!ENTITY hideSwapFnLnUI "true">
+<!ENTITY propertiesCmd.label "Propiedaes…">
+<!ENTITY propertiesCmd.accesskey "i">
+<!ENTITY propertiesCmd.key "i">
+<!ENTITY viewMenu.label "Ver">
+<!ENTITY viewMenu.accesskey "v">
+<!ENTITY viewToolbarsMenu.label "Barres de ferramientes">
+<!ENTITY viewToolbarsMenu.accesskey "f">
+<!ENTITY menubarCmd.label "Barra de menú">
+<!ENTITY menubarCmd.accesskey "M">
+<!ENTITY showAbToolbarCmd.label "Barra de ferramientes de la llibreta de direiciones">
+<!ENTITY showAbToolbarCmd.accesskey "o">
+<!ENTITY showTaskbarCmd.label "Barra d'estáu">
+<!ENTITY showTaskbarCmd.accesskey "S">
+<!ENTITY customizeToolbar.label "Personalizar…">
+<!ENTITY customizeToolbar.accesskey "P">
+<!ENTITY showContactPane.label "Panel de resume del contautu">
+<!ENTITY showContactPane.accesskey "C">
+<!ENTITY menu_ShowNameAs.label "Amosar nome como">
+<!ENTITY menu_ShowNameAs.accesskey "n">
+<!ENTITY firstLastCmd.label "Nome y apellíos">
+<!ENTITY firstLastCmd.accesskey "N">
+<!ENTITY lastFirstCmd.label "Apellíos, nome">
+<!ENTITY lastFirstCmd.accesskey "l">
+<!ENTITY displayNameCmd.label "Nome amosáu">
+<!ENTITY displayNameCmd.accesskey "m">
+<!ENTITY sortMenu.label "Ordenar por">
+<!ENTITY sortMenu.accesskey "O">
+<!ENTITY tasksMenu.label "Ferramientes">
+<!ENTITY tasksMenu.accesskey "T">
+<!ENTITY messengerCmd.label "Corréu y noticies">
+<!ENTITY messengerCmd.accesskey "o">
+<!ENTITY messengerCmd.commandkey "1">
+<!ENTITY searchAddressesCmd.label "Guetar direiciones…">
+<!ENTITY searchAddressesCmd.accesskey "S">
+<!ENTITY importCmd.label "Importar…">
+<!ENTITY importCmd.accesskey "I">
+<!ENTITY exportCmd.label "Esportar…">
+<!ENTITY exportCmd.accesskey "E">
+<!ENTITY preferencesCmd.label "Opciones…">
+<!ENTITY preferencesCmd.accesskey "o">
+<!ENTITY preferencesCmdUnix.label "Preferencies">
+<!ENTITY preferencesCmdUnix.accesskey "n">
+<!ENTITY newContactButton.label "Contautu nuevu">
+<!ENTITY newContactButton.accesskey "C">
+<!ENTITY newlistButton.label "Llista nueva">
+<!ENTITY newlistButton.accesskey "L">
+<!ENTITY editButton2.label "Propiedaes">
+<!ENTITY editButton2.accesskey "P">
+<!ENTITY newmsgButton.label "Redactar">
+<!ENTITY newmsgButton.accesskey "t">
+<!ENTITY newIM.label "IM">
+<!ENTITY newIM.accesskey "I">
+<!ENTITY deleteButton2.label "Desaniciar">
+<!ENTITY deleteButton2.accesskey "s">
+<!ENTITY newContactButton.tooltip "Crear un contautu nuevu na llibreta de direiciones">
+<!ENTITY newlistButton.tooltip "Crear llista nueva">
+<!ENTITY editButton2.tooltip "Editar l'elementu esbilláu">
+<!ENTITY newmsgButton.tooltip "Unviar un mensaxe de corréu">
+<!ENTITY newIM.tooltip "Unviar un mensaxe o conversación instantáneos">
+<!ENTITY deleteButton2.tooltip "Desaniciar elementu esbilláu">
+<!ENTITY dirTreeHeader.label "Llibretes de direiciones">
+<!ENTITY SearchNameOrEmail.label "Nome o direición de corréu">
+<!ENTITY SearchNameOrEmail.accesskey "N">
+<!ENTITY advancedButton.tooltip "Gueta avanzada de direiciones">
+<!ENTITY quickSearchCmd.key "k">
+<!ENTITY searchItem.title "Gueta rápida">
+<!ENTITY GeneratedName.label "Nome">
+<!ENTITY GeneratedName.accesskey "N">
+<!ENTITY PrimaryEmail.label "Corréu electrónicu">
+<!ENTITY PrimaryEmail.accesskey "E">
+<!ENTITY ScreenName.label "Nome en pantalla">
+<!ENTITY ScreenName.accesskey "p">
+<!ENTITY Company.label "Organización">
+<!ENTITY Company.accesskey "z">
+<!ENTITY NickName.label "Nomatu">
+<!ENTITY NickName.accesskey "t">
+<!ENTITY SecondEmail.label "Corréu electrónicu adicional">
+<!ENTITY SecondEmail.accesskey "l">
+<!ENTITY Department.label "Departamentu">
+<!ENTITY Department.accesskey "r">
+<!ENTITY JobTitle.label "Puestu">
+<!ENTITY JobTitle.accesskey "T">
+<!ENTITY CellularNumber.label "Móvil">
+<!ENTITY CellularNumber.accesskey "M">
+<!ENTITY PagerNumber.label "Buscapersones">
+<!ENTITY PagerNumber.accesskey "P">
+<!ENTITY FaxNumber.label "Fax">
+<!ENTITY FaxNumber.accesskey "F">
+<!ENTITY HomePhone.label "Teléfonu particular">
+<!ENTITY HomePhone.accesskey "C">
+<!ENTITY WorkPhone.label "Teléfonu del trabayu">
+<!ENTITY WorkPhone.accesskey "T">
+<!ENTITY sortAscending.label "Ascendente">
+<!ENTITY sortAscending.accesskey "A">
+<!ENTITY sortDescending.label "Descendente">
+<!ENTITY sortDescending.accesskey "D">
+<!ENTITY _PhoneticName.label "Nome fonéticu">
+<!ENTITY _PhoneticName.accesskey "o">
+<!ENTITY contact.heading "Contautu">
+<!ENTITY home.heading "Casa">
+<!ENTITY other.heading "Otru">
+<!ENTITY phone.heading "Teléfonu">
+<!ENTITY work.heading "Trabayu">
+<!ENTITY description.heading "Descripción">
+<!ENTITY addresses.heading "Direiciones">
+<!ENTITY mapItButton.label "Obtener mapa">
+<!ENTITY mapIt.tooltip "Amosar una páxina web con un mapa d'esta dirección.">
+<!ENTITY statusText.label "">
+<!ENTITY windowMenu.label "Ventana">
+<!ENTITY minimizeWindow.label "Minimizar ventana">
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY bringAllToFront.label "Traer too al frente">
+<!ENTITY zoomWindow.label "Zoom ventana">

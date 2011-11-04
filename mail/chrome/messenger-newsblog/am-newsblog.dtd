@@ -1,0 +1,14 @@
+<!ENTITY accountTitle.label "Configuración de cuenta">
+<!ENTITY biffStart.label "Guetar mensaxes nuevos cada ">
+<!ENTITY biffStart.accesskey "G">
+<!ENTITY biffEnd.label "minutos">
+<!ENTITY loginAtStartup.label "Comprobar si hai mensaxes nuevos al aniciar">
+<!ENTITY loginAtStartup.accesskey "C">
+<!ENTITY useQuickMode.label "Amosar de mou predetermináu el resume d'artículos en cuenta de cargar la páxina web">
+<!ENTITY useQuickMode.accesskey "M">
+<!ENTITY manageSubscriptions.label "Alministrar soscripciones…">
+<!ENTITY manageSubscriptions.accesskey "A">
+<!ENTITY feeds.accountName "Canales de Blogues y Noticies">
+<!ENTITY feeds.wizardShortName "Canales">
+<!ENTITY feeds.wizardLongName "Canales de Blogues y Noticies">
+<!ENTITY feeds.wizardLongName.accesskey "N">

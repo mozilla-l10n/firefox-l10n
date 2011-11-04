@@ -1,0 +1,29 @@
+<!ENTITY serverAdvanced.label "Configuración avanzada de cuentes">
+<!ENTITY serverDirectory.label "direutoriu del sirvidor IMAP:">
+<!ENTITY serverDirectory.accesskey "d">
+<!ENTITY usingSubscription.label "Amosar namái les carpetes soscrites">
+<!ENTITY usingSubscription.accesskey "u">
+<!ENTITY dualUseFolders.label "El sirvidor almite carpetes que contengan sub-carpetes y mensaxes">
+<!ENTITY dualUseFolders.accesskey "g">
+<!ENTITY useIdle.label "Usar comandu IDLE si'l sirvidor lo almite">
+<!ENTITY useIdle.accesskey "I">
+<!ENTITY maximumConnectionsNumber.label "Númberu máximu de conexones del sirvidor a la caché">
+<!ENTITY maximumConnectionsNumber.accesskey "M">
+<!ENTITY namespaceDesc.label "Estes preferencies especifiquen los espacios de nomes nel to sirvidor IMAP">
+<!ENTITY personalNamespace.label "Espaciu de nomes personal:">
+<!ENTITY personalNamespace.accesskey "P">
+<!ENTITY publicNamespace.label "Públicu (compartíu):">
+<!ENTITY publicNamespace.accesskey "b">
+<!ENTITY otherUsersNamespace.label "Otros usuarios:">
+<!ENTITY otherUsersNamespace.accesskey "O">
+<!ENTITY overrideNamespaces.label "Permitir que'l sirvidor troque estos espacios de nomes">
+<!ENTITY overrideNamespaces.accesskey "A">
+<!ENTITY pop3Desc.label "Al descargar el corréu pop d'esti sirvidor, usar esta carpeta pal corréu nuevu:">
+<!ENTITY globalInbox.label "Bandexa d'entrada global (Carpetes llocales)">
+<!ENTITY globalInbox.accesskey "G">
+<!ENTITY accountDirectory.label "Bandexa d'entrada pa la cuenta d'esti sirvidor">
+<!ENTITY accountDirectory.accesskey "S">
+<!ENTITY deferToServer.label "Bandexa d'entrada pa una cuenta distinta">
+<!ENTITY deferToServer.accesskey "D">
+<!ENTITY deferGetNewMail.label "Incluyir esti sirvidor al recibir corréu nuevu">
+<!ENTITY deferGetNewMail.accesskey "I">

@@ -1,0 +1,39 @@
+<!ENTITY itemFormatting.label "Formatu">
+<!ENTITY itemTags.label "Etiquetes">
+<!ENTITY style.label "Estilu:">
+<!ENTITY style.accesskey "E">
+<!ENTITY regularStyle.label "Regular">
+<!ENTITY bold.label "Negrina">
+<!ENTITY italic.label "Cursiva">
+<!ENTITY boldItalic.label "Negrina cursiva">
+<!ENTITY size.label "Tamañu:">
+<!ENTITY size.accesskey "a">
+<!ENTITY regularSize.label "Regular">
+<!ENTITY bigger.label "Mayor">
+<!ENTITY smaller.label "Menor">
+<!ENTITY color.label "Color:">
+<!ENTITY color.accesskey "C">
+<!ENTITY displayWidth.label "Mensaxes de testu ensin formatu">
+<!ENTITY displayText.label "Al amosar mensaxes de testu ensin formatu:">
+<!ENTITY colors.label "Colores">
+<!ENTITY overrideColors.label "Al amosar mensaxes, usar los siguientes colores:">
+<!ENTITY textColor.label "Color del testu:">
+<!ENTITY textColor.accesskey "o">
+<!ENTITY backgroundColor.label "Color de fondu:">
+<!ENTITY backgroundColor.accesskey "d">
+<!ENTITY convertEmoticons.label "Amosar fustaxes como gráficos">
+<!ENTITY convertEmoticons.accesskey "A">
+<!ENTITY displayTagsText.label "Les etiquetes puen usase pa categorizar y priorizar los tos mensaxes.">
+<!ENTITY addTagButton.label "Amestar">
+<!ENTITY addTagButton.accesskey "A">
+<!ENTITY editTagButton.label "Editar">
+<!ENTITY editTagButton.accesskey "E">
+<!ENTITY removeTagButton.label "Desaniciar">
+<!ENTITY removeTagButton.accesskey "r">
+<!ENTITY fontsAndColors.label "Tribes de lletra">
+<!ENTITY defaultFont.label "Tribes de lletra por defeutu:">
+<!ENTITY defaultFont.accesskey "i">
+<!ENTITY defaultSize.label "Tamañu:">
+<!ENTITY defaultSize.accesskey "T">
+<!ENTITY fontOptions.accesskey "v">
+<!ENTITY fontOptions.label "Avanzaes…">
