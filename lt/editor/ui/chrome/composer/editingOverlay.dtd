@@ -1,0 +1,26 @@
+<!-- File menu items -->
+<!ENTITY openFileCmd.label             "Atverti failą…">
+<!ENTITY openFileCmd.accesskey         "A">
+<!ENTITY openFileCmd.key               "O">
+<!ENTITY openRemoteCmd.label           "Atverti tinklalapį…">
+<!ENTITY openRemoteCmd.accesskey       "v">
+<!ENTITY openRemoteCmd.key             "L">
+<!ENTITY fileRecentMenu.label          "Paskiausiai atverti tinklalapiai">
+<!ENTITY fileRecentMenu.accesskey      "P">
+<!ENTITY saveCmd.label                 "Įrašyti">
+<!ENTITY saveCmd.accesskey             "r">
+<!ENTITY saveAsCmd.label               "Įrašyti kaip…">
+<!ENTITY saveAsCmd.accesskey           "k">
+<!ENTITY saveAsChangeEncodingCmd.label "Pakeisti koduotę ir įrašyti…">
+<!ENTITY saveAsChangeEncodingCmd.accesskey "d">
+<!ENTITY publishCmd.label              "Publikuoti">
+<!ENTITY publishCmd.accesskey          "P">
+<!ENTITY publishCmd.key                "S">
+<!ENTITY publishAsCmd.label            "Publikuoti kitaip…">
+<!ENTITY publishAsCmd.accesskey        "i">
+<!ENTITY fileRevert.label              "Grįžti prie paskiausiai įrašyto">
+<!ENTITY fileRevert.accesskey          "G">
+
+<!-- Edit menu items -->
+<!ENTITY publishSettings.label         "Publikavimo nuostatos…">
+<!ENTITY publishSettings.accesskey     "b">
