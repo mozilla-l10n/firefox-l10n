@@ -16,9 +16,9 @@
 
 <!-- LOCALIZATION NOTE (featureConfigurator.toolbar.original): The word 'original' is chosen deliberately to be neutral, vs. 'old' which in English at least had a negative connotation.-->
 <!ENTITY featureConfigurator.toolbar.original "使用原本的工具列。">
-<!ENTITY featureConfigurator.toolbar.original.status.explanation "保留任何自訂的工具列按鈕到新的郵件工具列之中。">
+<!ENTITY featureConfigurator.toolbar.original.status.explanation "在新的訊息按鈕之中保留原有自訂的工具列按鈕。">
 
-<!ENTITY featureConfigurator.toolbarBenefits.para "一些功能像是回覆和轉寄已經從工具列被移動到每封訊息自己的的標頭。這樣可以提供更多的空間給搜尋框與附加元件。">
+<!ENTITY featureConfigurator.toolbarBenefits.para "像是回覆和轉寄等功能已經從工具列被移動到每封訊息自己的的標頭。這樣可以提供更多的空間給搜尋框與附加元件。">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.addOn.downloading): The text to display while downloading the addon. -->
 <!ENTITY featureConfigurator.addOn.downloading "下載中…">
@@ -67,7 +67,7 @@
 
 <!-- LOCALIZATION NOTE (featureConfigurator.autoSync.on): The label for the radio button for synchronizing all the accounts. -->
 <!ENTITY featureConfigurator.autoSync.on "同步">
-<!ENTITY featureConfigurator.autoSync.on.explanation "您將可以更快讀取信息，也能有更好的搜尋結果。">
+<!ENTITY featureConfigurator.autoSync.on.explanation "您將可以更快地讀取訊息，也能有更好的搜尋結果。">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.autoSync.off): The label for the radio button that will synchronize none of the accounts. -->
 <!ENTITY featureConfigurator.autoSync.off "不要同步">
@@ -84,12 +84,12 @@
 <!ENTITY featureConfigurator.diskSpace.freeSpace "剩餘空間:">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.diskSpace.requireSpace): The label for the required amount of free space to synchronize all of your IMAP accounts. -->
-<!ENTITY featureConfigurator.diskSpace.requireSpace "需要的:">
+<!ENTITY featureConfigurator.diskSpace.requireSpace "需要:">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.diskSpace.warning): The label shown when your estimated available hard disk space if you chose autosync would be less than 50MB or if we estimate turning on autosync would use more than 50% of your free space. -->
 <!ENTITY featureConfigurator.diskSpace.warning "您的磁碟空間快不夠了！">
 
 
-<!ENTITY featureConfigurator.previousButton "上一個">
-<!ENTITY featureConfigurator.nextButton "下一個">
+<!ENTITY featureConfigurator.previousButton "上一步">
+<!ENTITY featureConfigurator.nextButton "下一步">
 <!ENTITY featureConfigurator.closeButton "關閉">
