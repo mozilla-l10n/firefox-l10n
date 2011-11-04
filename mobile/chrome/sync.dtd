@@ -18,4 +18,8 @@
 <!ENTITY sync.setup.connect "Соединиться">
 <!ENTITY sync.setup.cancel "Отмена">
 <!ENTITY sync.setup.tutorial "Показать мне как">
-<!ENTITY sync.setup.waiting "Идёт спаривание…">
+<!ENTITY sync.setup.waiting2 "Ожидание другого устройства…">
+<!ENTITY sync.pair.title "Спаривание устройства">
+<!ENTITY sync.pair.description "Для активации вашего нового устройства выберите на устройстве «Настроить синхронизацию».">
+<!ENTITY sync.setup.close "Закрыть">
+<!ENTITY sync.setup.waitingdownload "Ваши данные сейчас загружаются в фоновом режиме. Вы можете закрыть это окно в любое время.">
