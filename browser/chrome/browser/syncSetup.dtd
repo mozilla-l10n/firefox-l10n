@@ -38,10 +38,10 @@
 <!ENTITY button.syncKeyBackup.print.accesskey "ч">
 <!ENTITY button.syncKeyBackup.save.label "Сохранить…">
 <!ENTITY button.syncKeyBackup.save.accesskey "х">
-<!ENTITY pairDevice.title.label "Спаривание устройства">
+<!ENTITY pairDevice.title.label "Соединение с устройством">
 <!ENTITY addDevice.showMeHow.label "Показать мне как.">
 <!ENTITY addDevice.dontHaveDevice.label "У меня нет с собой устройства">
-<!ENTITY pairDevice.setup.description.label "Для активации выберите «Спарить устройство» на другом вашем устройстве.">
+<!ENTITY pairDevice.setup.description.label "Для активации выберите «Соединиться с устройством» на другом вашем устройстве.">
 <!ENTITY addDevice.setup.enterCode.label "Затем введите этот код:">
 <!ENTITY pairDevice.dialog.description.label "Для активации вашего нового устройства выберите на устройстве «Настроить синхронизацию».">
 <!ENTITY addDevice.dialog.enterCode.label "Введите предоставленный устройством код:">
