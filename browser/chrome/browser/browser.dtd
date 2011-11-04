@@ -160,6 +160,9 @@
 <!ENTITY inspectPanelTitle.label "HTML">
 <!ENTITY inspectButton.label "Analisi">
 <!ENTITY inspectButton.accesskey "A">
+<!ENTITY inspectCloseButton.tooltiptext "Chiudi lo strumento di analisi">
+<!ENTITY inspectStyleButton.label "Stile">
+<!ENTITY inspectStyleButton.accesskey "S">
 <!ENTITY getMoreDevtoolsCmd.label "Altri strumenti di sviluppo">
 <!ENTITY getMoreDevtoolsCmd.accesskey "A">
 <!ENTITY fileMenu.label "File">
