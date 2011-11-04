@@ -59,7 +59,7 @@
 <!ENTITY findCmd.label                 "Ieškoti ir pakeisti…">
 <!ENTITY enableInlineSpellChecker.label "Tikrinti rašybą renkant tekstą">
 <!ENTITY enableInlineSpellChecker.accesskey "r">
-<!ENTITY checkSpellingCmd2.label       "Tikrinti rašybą">
+<!ENTITY checkSpellingCmd2.label       "Tikrinti rašybą…">
 <!ENTITY checkSpellingCmd2.accesskey   "r">
 <!ENTITY checkSpellingCmd2.key         "p">
 
