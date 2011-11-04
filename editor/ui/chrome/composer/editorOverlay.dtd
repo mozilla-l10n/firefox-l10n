@@ -45,42 +45,14 @@
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
 <!-- File menu items -->
-<!ENTITY fileMenu.label                "Failas">
-<!ENTITY fileMenu.accesskey            "F">
-<!ENTITY openFileCmd.label             "Atverti failą…">
-<!ENTITY openFileCmd.accesskey         "A">
-<!ENTITY openFileCmd.key               "O">
-<!ENTITY openRemoteCmd.label           "Atverti tinklalapį…">
-<!ENTITY openRemoteCmd.accesskey       "v">
-<!ENTITY openRemoteCmd.key             "L">
-<!ENTITY fileRecentMenu.label          "Paskiausiai atverti tinklalapiai">
-<!ENTITY fileRecentMenu.accesskey      "P">
-<!ENTITY fileRevert.label              "Grįžti prie paskiausiai įrašyto">
-<!ENTITY fileRevert.accesskey          "G">
-<!ENTITY saveCmd.label                 "Įrašyti">
-<!ENTITY saveCmd.accesskey             "r">
 <!ENTITY saveCmd.key                   "S">
-<!ENTITY saveAsCmd.label               "Įrašyti kaip…">
-<!ENTITY saveAsCmd.accesskey           "k">
-
-<!ENTITY publishCmd.label              "Publikuoti">
-<!ENTITY publishCmd.accesskey          "P">
-<!ENTITY publishCmd.key                "S">
-<!ENTITY publishAsCmd.label            "Publikuoti kitaip…">
-<!ENTITY publishAsCmd.accesskey        "i">
-<!ENTITY saveAsChangeEncodingCmd.label "Pakeisti koduotę ir įrašyti…">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "d">
 
 <!-- Edit menu items -->
-<!ENTITY editMenu.label                "Taisa">
-<!ENTITY editMenu.accesskey            "T">
 <!ENTITY pasteNoFormatting.label       "Įdėti be formatų">
 <!ENTITY pasteNoFormatting.accesskey   "f">
 <!ENTITY pasteNoFormatting.key         "V">
 <!ENTITY pasteAs.label                 "Įdėti kitaip">
 <!ENTITY pasteAs.accesskey             "t">
-<!ENTITY publishSettings.label         "Publikavimo nuostatos…">
-<!ENTITY publishSettings.accesskey     "b">
 <!ENTITY pasteAsQuotationCmd.label     "Įdėti kaip citatą">
 <!ENTITY pasteAsQuotationCmd.accesskey "c">
 <!ENTITY pasteAsQuotationCmd.key       "o">
