@@ -19,4 +19,9 @@
 <!ENTITY sync.setup.connect         "Anslut">
 <!ENTITY sync.setup.cancel          "Avbryt">
 <!ENTITY sync.setup.tutorial        "Visa mig">
-<!ENTITY sync.setup.waiting         "Parar…">
+<!ENTITY sync.setup.waiting2        "Väntar på annan enhet…">
+
+<!ENTITY sync.pair.title            "Para ihop enheter">
+<!ENTITY sync.pair.description      "Aktivera den nya enheten genom att välja ”Ställ in Sync” på enheten.">
+<!ENTITY sync.setup.close           "Stäng">
+<!ENTITY sync.setup.waitingdownload "Din data hämtas nu. Du kan stänga det här fönstret när du vill.">
