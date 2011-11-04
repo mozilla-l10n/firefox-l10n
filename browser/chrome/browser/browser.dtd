@@ -119,6 +119,7 @@
 <!ENTITY fullScreenAutohide.accesskey "P">
 <!ENTITY fullScreenExit.label "Iziet no pilnekrāna režīma">
 <!ENTITY fullScreenExit.accesskey "P">
+<!ENTITY domFullScreenWarning.label "Nospiediet ESC, lai pamestu pilnekrāna režīmu">
 
 <!ENTITY closeWindow.label "Aizvērt logu">
 <!ENTITY closeWindow.accesskey "g">
@@ -198,6 +199,9 @@
 <!ENTITY inspectMenu.label            "Apskatīt">
 <!ENTITY inspectMenu.accesskey        "T">
 <!ENTITY inspectMenu.commandkey       "A">
+<!ENTITY inspectCloseButton.tooltiptext "Aizvērt apskati">
+<!ENTITY inspectStyleButton.label     "Stils">
+<!ENTITY inspectStyleButton.accesskey "S">
 
 <!ENTITY errorConsoleCmd.label "Kļūdu pārlūks">
 <!ENTITY errorConsoleCmd.accesskey "K">
