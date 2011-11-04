@@ -1,0 +1,17 @@
+<!ENTITY junkSettings.label "Configuración de corréu non deseáu">
+<!ENTITY trainingWarning.label "Si s'activa, primero tienes d'enseñar a &brandShortName; a identificar el corréu non deseáu usando la barra de ferramientes de corréu non deseáu conseñando los mensaxes como non deseaos o llexítimos. Necesites identificar los mensaxes d'un y otru tipu.">
+<!ENTITY level.label "Activar los controles adautativos de corréu non deseáu pa esta cuenta">
+<!ENTITY level.accesskey "A">
+<!ENTITY move.label "Mover nuevos mensaxes de corréu non deseaos a:">
+<!ENTITY move.accesskey "M">
+<!ENTITY junkFolderOn.label "Carpeta de &quot;corréu non deseáu&quot; en:">
+<!ENTITY junkFolderOn.accesskey "d">
+<!ENTITY otherFolder.label "Otra:">
+<!ENTITY otherFolder.accesskey "O">
+<!ENTITY purge1.label "Desaniciar automáticamente corréu non deseáu con más de">
+<!ENTITY purge1.accesskey "E">
+<!ENTITY purge2.label "díes">
+<!ENTITY whitelist.label "Nun conseñar mensaxes como corréu non deseáu si'l remitente ta en: ">
+<!ENTITY whitelist.accesskey "N">
+<!ENTITY ispHeaders.label "Confiar nes testeres de corréu non deseáu unviaes por: ">
+<!ENTITY ispHeaders.accesskey "C">

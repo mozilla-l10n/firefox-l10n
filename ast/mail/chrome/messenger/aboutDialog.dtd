@@ -1,0 +1,27 @@
+<!ENTITY aboutDialog.title "Tocante a &brandFullName;">
+<!ENTITY community.start2 "&brandShortName; ta diseñáu por ">
+<!ENTITY community.mozillaLink "&vendorShortName;">
+<!ENTITY community.middle2 ", una ">
+<!ENTITY community.creditsLink "comunidá global">
+<!ENTITY community.end2 " que trabaya xunida pa facer una Internet meyor. Creemos qu'Internet tien de ser abierta, pública y accesible a tol mundu ensin restricción dalguna.">
+<!ENTITY contribute.start "¿Suénate interesante? ">
+<!ENTITY contribute.getInvolvedLink "¡Trabaya con nós!">
+<!ENTITY contribute.end "">
+<!ENTITY bottomLinks.license "Información de llicencia">
+<!ENTITY bottomLinks.rights "Derechos del usuariu final">
+<!ENTITY bottomLinks.privacy "Política de privacidá">
+<!ENTITY update.checkingForUpdates "Guetando anovamientos…">
+<!ENTITY update.checkingAddonCompat "Comprobando compatibilidá de complementos…">
+<!ENTITY update.noUpdatesFound "&brandShortName; ta anováu">
+<!ENTITY update.adminDisabled "Anovamientos desactivaos pol alministrador del sistema">
+<!ENTITY update.failed.start "Anovamientu fallíu. ">
+<!ENTITY update.failed.linkText "Descargar la cabera versión">
+<!ENTITY update.failed.end "">
+<!ENTITY update.manual.start "Descargar la ">
+<!ENTITY update.manual.linkText "cabera versión">
+<!ENTITY update.manual.end "">
+<!ENTITY update.downloading.start "Descargando anovamientu — ">
+<!ENTITY update.downloading.end "">
+<!ENTITY channel.description.start "Anguaño tas na canal d'anovamientos ">
+<!ENTITY channel.description.end ". ">
+<!ENTITY cmdCloseMac.commandKey "w">

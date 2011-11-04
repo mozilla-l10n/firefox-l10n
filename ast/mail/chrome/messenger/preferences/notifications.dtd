@@ -1,0 +1,9 @@
+<!ENTITY notificationsDialog2.title "Personalizar avisu de corréu nuevu">
+<!ENTITY window.width "30em">
+<!ENTITY alertCustomization.intro "Esbilla qué campos amosar na notificación d'avisu:">
+<!ENTITY previewText.label "Testu de previsualización de mensaxe">
+<!ENTITY previewText.accesskey "T">
+<!ENTITY subject.label "Asuntu">
+<!ENTITY subject.accesskey "A">
+<!ENTITY sender.label "Remitente">
+<!ENTITY sender.accesskey "R">

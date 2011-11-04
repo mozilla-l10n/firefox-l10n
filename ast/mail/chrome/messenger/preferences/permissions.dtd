@@ -1,0 +1,19 @@
+<!ENTITY window.title "Esceiciones">
+<!ENTITY window.width "36em">
+<!ENTITY treehead.sitename.label "Sitiu">
+<!ENTITY treehead.status.label "Estáu">
+<!ENTITY removepermission.label "Desaniciar sitiu">
+<!ENTITY removepermission.accesskey "D">
+<!ENTITY removeallpermissions.label "Desaniciar tolos sitios">
+<!ENTITY removeallpermissions.accesskey "a">
+<!ENTITY address.label "Direición del sitiu web:">
+<!ENTITY address.accesskey "D">
+<!ENTITY block.label "Bloquiar">
+<!ENTITY block.accesskey "B">
+<!ENTITY session.label "Permitir durante la sesión">
+<!ENTITY session.accesskey "P">
+<!ENTITY allow.label "Permitir">
+<!ENTITY allow.accesskey "m">
+<!ENTITY windowClose.key "w">
+<!ENTITY button.close.label "Zarrar">
+<!ENTITY button.close.accesskey "Z">

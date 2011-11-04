@@ -1,0 +1,6 @@
+<!ENTITY newMessageCmd2.key "N">
+<!ENTITY newMessageCmd.key "M">
+<!ENTITY newMessageCmd.label "Mensaxe">
+<!ENTITY newMessageCmd.accesskey "m">
+<!ENTITY newContactCmd.label "Contautu de la llibreta de direiciones…">
+<!ENTITY newContactCmd.accesskey "C">

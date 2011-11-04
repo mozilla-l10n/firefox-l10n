@@ -1,0 +1,16 @@
+<!ENTITY viewPicker.label "Ver:">
+<!ENTITY viewPicker.accesskey "r">
+<!ENTITY viewAll.label "Too">
+<!ENTITY viewAll.accesskey "T">
+<!ENTITY viewUnread.label "Non lleíos">
+<!ENTITY viewUnread.accesskey "N">
+<!ENTITY viewNotDeleted.label "Non desaniciaos">
+<!ENTITY viewNotDeleted.accesskey "e">
+<!ENTITY viewTags.label "Etiquetes">
+<!ENTITY viewTags.accesskey "E">
+<!ENTITY viewCustomViews.label "Vistes personalizaes">
+<!ENTITY viewCustomViews.accesskey "V">
+<!ENTITY viewVirtualFolder.label "Guardar vista como una carpeta…">
+<!ENTITY viewVirtualFolder.accesskey "G">
+<!ENTITY viewCustomizeView.label "Personalizar…">
+<!ENTITY viewCustomizeView.accesskey "P">

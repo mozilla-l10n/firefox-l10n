@@ -1,0 +1,93 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   David Bienvenu <bienvenu@netscape.com>
+   -   Mohan Bhamidipati <mohanb@netscape.com>
+   -   Lorenzo Colitti   <lorenzo@colitti.com>
+   -   Stefan Borggraefe <Stefan.Borggraefe@gmx.de>
+   -   Proyecto NAVE (http://www.proyectonave.es/)
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!ENTITY folderProps.windowtitle.label "Propiedaes">
+<!ENTITY generalInfo.label "Información xeneral">
+<!ENTITY folderCharsetTab.label "Xuegu de caráuteres predetermináu:">
+<!ENTITY folderCharsetTab.accesskey "X">
+<!ENTITY folderCharsetOverride.label "Aplicar la configuración predeterminada a tolos mensaxes de la carpeta (inorando l'autodeteición y la configuración de codificación de caráuteres de cada mensaxe)">
+<!ENTITY folderCharsetOverride.accesskey "A">
+<!ENTITY folderRebuildSummaryFileTip2.label "Reconstruyir el ficheru índiz resume">
+<!ENTITY folderRebuildSummaryFile2.label "Iguar carpeta">
+<!ENTITY folderRebuildSummaryFile2.accesskey "I">
+<!ENTITY folderRebuildSummaryFile.explanation "Dalgunes vegaes, el ficheru índiz de la carpeta (.msf) fráñase y pue paecer que dalgunos mensaxes válidos desapaecen mentanto qu'otros desaniciaos siguen amosándose; iguar la carpeta pue correxir estos problemes.">
+<!ENTITY folderIncludeInGlobalSearch.label "Incluyir mensaxes nesta carpeta nos resultaos de la gueta global">
+<!ENTITY folderIncludeInGlobalSearch.accesskey "I">
+<!ENTITY retention.label "Política de retención">
+<!ENTITY retentionUseAccount.label "Usar los datos de la mio cuenta">
+<!ENTITY retentionUseAccount.accesskey "i">
+<!ENTITY daysOld.label "díes d'antigüedá">
+<!ENTITY message.label "mensaxes">
+<!ENTITY retentionCleanup.label "Pa recuperar espaciu en discu, los mensaxes antiguos puen desaniciase ensembre.">
+<!ENTITY retentionCleanupImap.label "Pa recuperar espaciu en discu, los mensaxes antiguos puen desaniciase ensembre, tantu les copies llocales como los orixinales nel sirvidor remotu.">
+<!ENTITY retentionCleanupPop.label "Pa recuperar espaciu en discu, los mensaxes antiguos puen desaniciase ensembre, incluyendo los orixinales nel sirvidor remotu.">
+<!ENTITY retentionDeleteMsg.label "Desaniciar mensaxes con más de">
+<!ENTITY retentionDeleteMsg.accesskey "m">
+<!ENTITY retentionKeepAll.label "Nun desaniciar dengún mensaxe">
+<!ENTITY retentionKeepAll.accesskey "A">
+<!ENTITY retentionKeepRecent.label "Desaniciar toos sacante los más recientes">
+<!ENTITY retentionKeepRecent.accesskey "t">
+<!ENTITY retentionKeepUnreadHidden.label "Desaniciar siempre mensaxes lleíos (prevalez sobre la configuración d'antigüedá)">
+<!ENTITY retentionApplyToFlagged.label "Caltener siempre los mensaxes con estrella">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
+<!ENTITY folderSynchronizationTab.label "Sincronización">
+<!ENTITY folderCheckForNewMessages2.label "Al obtener mensaxes nuevos d'esta cuenta, comprobar siempre esta carpeta">
+<!ENTITY folderCheckForNewMessages2.accesskey "b">
+<!ENTITY offlineFolder.check.label "Esbillar esta carpeta pa usar ensin conexón">
+<!ENTITY offlineFolder.check.accesskey "E">
+<!ENTITY offlineFolder.button.label "Descargar agora">
+<!ENTITY offlineFolder.button.accesskey "D">
+<!ENTITY selectofflineNewsgroup.check.label "Esbillar esti grupu de noticies pa usar ensin conexón">
+<!ENTITY selectofflineNewsgroup.check.accesskey "o">
+<!ENTITY offlineNewsgroup.button.label "Descargar agora">
+<!ENTITY offlineNewsgroup.button.accesskey "D">
+<!ENTITY folderProps.name.label "Nome:">
+<!ENTITY folderProps.name.accesskey "N">
+<!ENTITY folderProps.location.label "Llocalización:">
+<!ENTITY folderProps.location.accesskey "L">
+<!ENTITY folderSharingTab.label "Compartir">
+<!ENTITY privileges.button.label "Privilexos…">
+<!ENTITY privileges.button.accesskey "P">
+<!ENTITY permissionsDesc.label "Tienes los siguientes permisos:">
+<!ENTITY folderType.label "Triba de carpeta:">
+<!ENTITY folderQuotaTab.label "Cuota">
+<!ENTITY folderQuotaRoot.label "Cuota raíz:">
+<!ENTITY folderQuotaUsage.label "Usu:">
+<!ENTITY folderQuotaStatus.label "Estáu:">

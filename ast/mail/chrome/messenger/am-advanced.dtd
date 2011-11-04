@@ -1,0 +1,16 @@
+<!ENTITY smtpServer.label "Configuración del sirvidor de salida (SMTP)">
+<!ENTITY smtpDesc.label "Magar que pues especificar más d'un sirvidor de salida (SMTP), esto namái s'encamienta pa usuarios avanzaos. Configurar múltiples sirvidores SMTP pue causar errores al unviar mensaxes.">
+<!ENTITY smtpListAdd.label "Amestar…">
+<!ENTITY smtpListAdd.accesskey "s">
+<!ENTITY smtpListEdit.label "Editar…">
+<!ENTITY smtpListEdit.accesskey "E">
+<!ENTITY smtpListDelete.label "Desaniciar">
+<!ENTITY smtpListDelete.accesskey "f">
+<!ENTITY smtpListSetDefault.label "Afitar predetermináu">
+<!ENTITY smtpListSetDefault.accesskey "t">
+<!ENTITY serverDescription.label "Descripción: ">
+<!ENTITY serverName.label "Nome del sirvidor: ">
+<!ENTITY serverPort.label "Puertu: ">
+<!ENTITY userName.label "Nome d'usuariu: ">
+<!ENTITY connectionSecurity.label "Seguridá de la conexón: ">
+<!ENTITY authMethod.label "Métodu d'identificación: ">

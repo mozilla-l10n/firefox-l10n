@@ -1,0 +1,32 @@
+<!ENTITY accountTitle.label "Configuración de la cuenta">
+<!ENTITY accountName.label "Nome de la cuenta:">
+<!ENTITY accountName.accesskey "N">
+<!ENTITY identityTitle.label "Identidá">
+<!ENTITY identityDesc.label "Cada cuenta tien una identidá, que ye la información qu'otres personas van ver al lleer los tos mensaxes.">
+<!ENTITY name.label "Nome:">
+<!ENTITY name.accesskey "m">
+<!ENTITY email.label "Direición de corréu-e:">
+<!ENTITY email.accesskey "D">
+<!ENTITY replyTo.label "Direición de rempuesta:">
+<!ENTITY replyTo.accesskey "s">
+<!ENTITY replyTo.placeholder "Los destinatarios retrucarán a esta otra direición">
+<!ENTITY organization.label "Organización:">
+<!ENTITY organization.accesskey "O">
+<!ENTITY signatureText.label "Testu de la robla:">
+<!ENTITY signatureText.accesskey "T">
+<!ENTITY signatureHtml.label "Usar HTML (p.e., &lt;b&gt;negrina&lt;/b&gt;)">
+<!ENTITY signatureHtml.accesskey "L">
+<!ENTITY signatureFile.label "Axuntar la robla d'un ficheru (testu, HTML o imaxe):">
+<!ENTITY signatureFile.accesskey "H">
+<!ENTITY edit.label "Editar…">
+<!ENTITY choose.label "Elexir…">
+<!ENTITY choose.accesskey "E">
+<!ENTITY editVCard.label "Editar tarxeta…">
+<!ENTITY editVCard.accesskey "a">
+<!ENTITY attachVCard.label "Axuntar la mio tarxeta nos mensaxes">
+<!ENTITY attachVCard.accesskey "u">
+<!ENTITY manageIdentities.label "Alministrar identidaes…">
+<!ENTITY manageIdentities.accesskey "M">
+<!ENTITY smtpName.label "Sirvidor de salida (SMTP):">
+<!ENTITY smtpName.accesskey "v">
+<!ENTITY smtpDefaultServer.label "Usar sirvidor predetermináu">

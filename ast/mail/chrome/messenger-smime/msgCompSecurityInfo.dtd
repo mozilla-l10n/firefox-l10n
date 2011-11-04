@@ -1,0 +1,12 @@
+<!ENTITY title.label "Seguridá del mensaxe">
+<!ENTITY subject.plaintextWarning "Por favor, observa que les llinies Asuntu de los mensaxes de corréu-e enxamás van cifraes.">
+<!ENTITY status.heading "Los conteníos del mensaxe van unviase como sigui:">
+<!ENTITY status.signed "Robláu dixitalmente:">
+<!ENTITY status.encrypted "Cifráu:">
+<!ENTITY status.certificates "Certificaos:">
+<!ENTITY view.label "Ver">
+<!ENTITY view.accesskey "V">
+<!ENTITY tree.recipient "Recipiente:">
+<!ENTITY tree.status "Estáu">
+<!ENTITY tree.issuedDate "Emitíu:">
+<!ENTITY tree.expiresDate "Caduca">

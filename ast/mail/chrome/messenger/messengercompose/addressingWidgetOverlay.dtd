@@ -1,0 +1,6 @@
+<!ENTITY toAddr.label "Pa:">
+<!ENTITY ccAddr.label "Cc:">
+<!ENTITY bccAddr.label "Cct:">
+<!ENTITY replyAddr.label "Retrucar-a:">
+<!ENTITY newsgroupsAddr.label "Grupu de noticies:">
+<!ENTITY followupAddr.label "Followup-To:">

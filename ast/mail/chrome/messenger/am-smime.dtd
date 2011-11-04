@@ -1,0 +1,27 @@
+<!ENTITY securityTitle.label "Seguridá">
+<!ENTITY securityTab.label "Seguridá">
+<!ENTITY securityHeading.label "Pa unviar y recibir mensaxes roblaos o cifraos, tien d'especificar tanto un certificáu pa robla dixital como ún pa cifráu.">
+<!ENTITY encryptionGroupTitle.label "Cifráu">
+<!ENTITY encryptionChoiceLabel.label "Cifráu elexíu pa unviar mensaxes:">
+<!ENTITY neverEncrypt.label "Enxamás (nun usar cifráu)">
+<!ENTITY neverEncrypt.accesskey "N">
+<!ENTITY alwaysEncryptMessage.label "Siempre (nun vas poder unviar si dalgún receutor nun tien certificáu)">
+<!ENTITY alwaysEncryptMessage.accesskey "e">
+<!ENTITY encryptionCert.message "Usar esti certificáu pa cifrar/descifrar mensaxes unviaos a Vd.:">
+<!ENTITY digitalSign.certificate.button "Seleicionar…">
+<!ENTITY digitalSign.certificate.accesskey "S">
+<!ENTITY digitalSign.certificate_clear.button "Llimpiar">
+<!ENTITY digitalSign.certificate_clear.accesskey "L">
+<!ENTITY encryption.certificate.button "Seleicionar…">
+<!ENTITY encryption.certificate.accesskey "c">
+<!ENTITY encryption.certificate_clear.button "Llimpiar">
+<!ENTITY encryption.certificate_clear.accesskey "m">
+<!ENTITY signingGroupTitle.label "Robláu dixital">
+<!ENTITY signMessage.label "Roblar mensaxes dixitalmente">
+<!ENTITY signMessage.accesskey "D">
+<!ENTITY signingCert.message "Usar esti certificáu pa roblar los mensaxes qu'unvie:">
+<!ENTITY certificates.label "Certificaos">
+<!ENTITY manageCerts.label "Ver certificaos">
+<!ENTITY manageCerts.accesskey "V">
+<!ENTITY manageDevices.label "Preseos de seguridá">
+<!ENTITY manageDevices.accesskey "i">

@@ -1,0 +1,116 @@
+<!--null-->
+<!ENTITY Contact.tab "Contautu">
+<!ENTITY Contact.accesskey "C">
+<!ENTITY Name.box "Nome">
+<!ENTITY NameField1.id "FirstName">
+<!ENTITY NameField2.id "LastName">
+<!ENTITY PhoneticField1.id "PhoneticFirstName">
+<!ENTITY PhoneticField2.id "PhoneticLastName">
+<!ENTITY NameField1.label "Nome:">
+<!ENTITY NameField1.accesskey "N">
+<!ENTITY NameField2.label "Apellíos:">
+<!ENTITY NameField2.accesskey "e">
+<!ENTITY PhoneticField1.label "Nome fonéticu:">
+<!ENTITY PhoneticField2.label "Apellíu fonéticu:">
+<!ENTITY DisplayName.label "Amosáu:">
+<!ENTITY DisplayName.accesskey "A">
+<!ENTITY preferDisplayName.label "Preferir siempre'l nome amosáu al de la testera del mensaxe">
+<!ENTITY preferDisplayName.accesskey "f">
+<!ENTITY NickName.label "Nomatu:">
+<!ENTITY NickName.accesskey "o">
+<!ENTITY PrimaryEmail.label "Corréu-e:">
+<!ENTITY PrimaryEmail.accesskey "r">
+<!ENTITY SecondEmail.label "Corréu-e adicional:">
+<!ENTITY SecondEmail.accesskey "i">
+<!ENTITY PreferMailFormat.label "Prefiero recibir el mensaxe formateáu como:">
+<!ENTITY PreferMailFormat.accesskey "P">
+<!ENTITY PlainText.label "Testu ensin formatu">
+<!ENTITY HTML.label "HTML">
+<!ENTITY Unknown.label "Desconocíu">
+<!ENTITY ScreenName.label "Nome en pantalla:">
+<!ENTITY ScreenName.accesskey "l">
+<!ENTITY allowRemoteContent1.label "Permitir conteníu remotu.">
+<!ENTITY allowRemoteContent1.accesskey "r">
+<!ENTITY allowRemoteContent1.tooltip "Nos mensaxes HTML ye posible incluyir conteníu d'oríxenes remotos. Abrir talos mensaxes abrirá tamién una conexón a esi orixe esternu. Esto pue permitir el siguimientu de la llectura del mensaxe. Conseñar esta caxella va permitir esti tipu de conteníu nos mensaxes HTML d'esti contautu.">
+<!ENTITY WorkPhone.label "Trabayu:">
+<!ENTITY WorkPhone.accesskey "T">
+<!ENTITY HomePhone.label "Casa:">
+<!ENTITY HomePhone.accesskey "s">
+<!ENTITY FaxNumber.label "Fax:">
+<!ENTITY FaxNumber.accesskey "x">
+<!ENTITY PagerNumber.label "Buscapersones:">
+<!ENTITY PagerNumber.accesskey "B">
+<!ENTITY CellularNumber.label "Móvil:">
+<!ENTITY CellularNumber.accesskey "v">
+<!ENTITY Home.tab "Priváu">
+<!ENTITY Home.accesskey "P">
+<!ENTITY HomeAddress.label "Direición:">
+<!ENTITY HomeAddress.accesskey "D">
+<!ENTITY HomeAddress2.label "">
+<!ENTITY HomeAddress2.accesskey "">
+<!ENTITY HomeCity.label "Ciudá:">
+<!ENTITY HomeCity.accesskey "u">
+<!ENTITY HomeState.label "Provincia/estáu:">
+<!ENTITY HomeState.accesskey "v">
+<!ENTITY HomeZipCode.label "Códigu postal / ZIP:">
+<!ENTITY HomeZipCode.accesskey "Z">
+<!ENTITY HomeCountry.label "País:">
+<!ENTITY HomeCountry.accesskey "s">
+<!ENTITY HomeWebPage.label "Páxina web:">
+<!ENTITY HomeWebPage.accesskey "w">
+<!ENTITY Birthday.label "Cumpleaños:">
+<!ENTITY Birthday.accesskey "m">
+<!ENTITY In.label "">
+<!ENTITY Year.placeholder "Añu">
+<!ENTITY Or.value "o">
+<!ENTITY Age.placeholder "Edá">
+<!ENTITY YearsOld.label "">
+<!ENTITY Work.tab "Trabayu">
+<!ENTITY Work.accesskey "T">
+<!ENTITY JobTitle.label "Puestu:">
+<!ENTITY JobTitle.accesskey "e">
+<!ENTITY Department.label "Departamentu:">
+<!ENTITY Department.accesskey "r">
+<!ENTITY Company.label "Organización:">
+<!ENTITY Company.accesskey "n">
+<!ENTITY WorkAddress.label "Direición:">
+<!ENTITY WorkAddress.accesskey "D">
+<!ENTITY WorkAddress2.label "">
+<!ENTITY WorkAddress2.accesskey "">
+<!ENTITY WorkCity.label "Ciudá:">
+<!ENTITY WorkCity.accesskey "u">
+<!ENTITY WorkState.label "Provincia/estáu:">
+<!ENTITY WorkState.accesskey "v">
+<!ENTITY WorkZipCode.label "Códigu postal / ZIP:">
+<!ENTITY WorkZipCode.accesskey "Z">
+<!ENTITY WorkCountry.label "País:">
+<!ENTITY WorkCountry.accesskey "s">
+<!ENTITY WorkWebPage.label "Páxina web:">
+<!ENTITY WorkWebPage.accesskey "w">
+<!ENTITY Other.tab "Otros">
+<!ENTITY Other.accesskey "O">
+<!ENTITY Custom1.label "Personalizáu 1:">
+<!ENTITY Custom1.accesskey "1">
+<!ENTITY Custom2.label "Personalizáu 2:">
+<!ENTITY Custom2.accesskey "2">
+<!ENTITY Custom3.label "Personalizáu 3:">
+<!ENTITY Custom3.accesskey "3">
+<!ENTITY Custom4.label "Personalizáu 4:">
+<!ENTITY Custom4.accesskey "4">
+<!ENTITY Notes.label "Notes:">
+<!ENTITY Notes.accesskey "N">
+<!ENTITY Photo.tab "Semeya">
+<!ENTITY Photo.accesskey "m">
+<!ENTITY PhotoDesc.label "Esbilla una de les siguientes:">
+<!ENTITY GenericPhoto.label "Semeya xenérica">
+<!ENTITY GenericPhoto.accesskey "S">
+<!ENTITY DefaultPhoto.label "Predetermináu">
+<!ENTITY PhotoFile.label "Nesti equipu">
+<!ENTITY PhotoFile.accesskey "N">
+<!ENTITY BrowsePhoto.label "Desaminar">
+<!ENTITY BrowsePhoto.accesskey "e">
+<!ENTITY PhotoURL.label "Na web">
+<!ENTITY PhotoURL.accesskey "w">
+<!ENTITY PhotoURL.placeholder "Apega o escribi la direición web d'una semeya">
+<!ENTITY UpdatePhoto.label "Anovar">
+<!ENTITY UpdatePhoto.accesskey "A">

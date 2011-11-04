@@ -1,0 +1,36 @@
+<!ENTITY window.title "Regles de filtráu">
+<!ENTITY filterEditorDialog.dimensions "width: 100ch;">
+<!ENTITY filterName.label "Nome del filtru:">
+<!ENTITY filterName.accesskey "i">
+<!ENTITY junk.label "Corréu non deseáu">
+<!ENTITY notJunk.label "Llexítimu">
+<!ENTITY lowestPriorityCmd.label "La más baxa">
+<!ENTITY lowPriorityCmd.label "Baxa">
+<!ENTITY normalPriorityCmd.label "Normal">
+<!ENTITY highPriorityCmd.label "Alta">
+<!ENTITY highestPriorityCmd.label "La más alta">
+<!ENTITY contextDesc.label "Aplicar filtru cuando:">
+<!ENTITY contextDesc.accesskey "u">
+<!ENTITY contextIncoming.label "se compruebe'l corréu">
+<!ENTITY contextManual.label "s'execute manualmente">
+<!ENTITY contextBoth.label "se compruebe'l corréu o s'execute manualmente">
+<!ENTITY contextPostPlugin.label "se compruebe'l corréu (tres clasificalu)">
+<!ENTITY contextPostPluginBoth.label "se compruebe'l corréu (tres clasificalu) o s'execute manualmente">
+<!ENTITY filterActionDesc.label "Facer estes aiciones:">
+<!ENTITY filterActionDesc.accesskey "F">
+<!ENTITY moveMessage.label "Mover mensaxe a">
+<!ENTITY copyMessage.label "Copiar mensaxe a">
+<!ENTITY forwardTo.label "Reunviar mensaxe a">
+<!ENTITY replyWithTemplate.label "Retrucar con plantía">
+<!ENTITY markMessageRead.label "Conseñar como lleíu">
+<!ENTITY markMessageStarred.label "Amestar estrella">
+<!ENTITY setPriority.label "Fixar prioridá a">
+<!ENTITY addTag.label "Etiquetar mensaxe">
+<!ENTITY setJunkScore.label "Fixar estáu de corréu non deseáu a">
+<!ENTITY deleteMessage.label "Desaniciar mensaxe">
+<!ENTITY deleteFromPOP.label "Desaniciar del sirvidor POP">
+<!ENTITY fetchFromPOP.label "Recuperar del sirvidor POP">
+<!ENTITY ignoreThread.label "Inorar conversación">
+<!ENTITY ignoreSubthread.label "Inorar sub-conversación">
+<!ENTITY watchThread.label "Observar conversación">
+<!ENTITY stopExecution.label "Detener execución de los filtros">
