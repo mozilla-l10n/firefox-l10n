@@ -244,9 +244,12 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectPanelTitle.label      "HTML">
-<!ENTITY inspectButton.label          "Inspektera">
-<!ENTITY inspectButton.accesskey      "I">
+<!ENTITY inspectPanelTitle.label       "HTML">
+<!ENTITY inspectButton.label           "Inspektera">
+<!ENTITY inspectButton.accesskey       "I">
+<!ENTITY inspectCloseButton.tooltiptext "Stäng inspektör">
+<!ENTITY inspectStyleButton.label     "Stil">
+<!ENTITY inspectStyleButton.accesskey "S">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Hämta fler verktyg">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "H">
