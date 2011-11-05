@@ -4,3 +4,4 @@
 <!ENTITY webapps.perm.offline       "Võrguta režiimis andmete salvestamine">
 <!ENTITY webapps.perm.notifications "Töölaua märguanded">
 <!ENTITY webapps.perm.requestedHint "(nõutud)">
+<!ENTITY webapps.add-homescreen     "Lisa avaekraanile">

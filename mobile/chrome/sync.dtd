@@ -3,7 +3,6 @@
 <!ENTITY sync.connect               "Ühenda">
 <!ENTITY sync.connected             "Ühendatud">
 <!ENTITY sync.details               "Üksikasjad">
-<!ENTITY sync.synchronize           "Luba Sync">
 <!ENTITY sync.deviceName            "See seade">
 <!ENTITY sync.disconnect            "Katkesta ühendus">
 <!ENTITY sync.syncNow               "Süngi kohe">
@@ -14,7 +13,7 @@
 <!ENTITY sync.setup.manual          "Sisesta oma Synci konto info">
 <!ENTITY sync.account               "Konto nimi">
 <!ENTITY sync.password              "Parool">
-<!ENTITY sync.syncKey               "Synci võti">
+<!ENTITY sync.recoveryKey           "Taastamise võti">
 <!ENTITY sync.customServer          "Kasutatakse kohandatud serverit">
 <!ENTITY sync.serverURL             "Serveri URL">
 <!ENTITY sync.setup.connect         "Ühenda">
