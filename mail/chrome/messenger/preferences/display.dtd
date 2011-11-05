@@ -31,7 +31,7 @@
 <!ENTITY removeTagButton.label "Desaniciar">
 <!ENTITY removeTagButton.accesskey "r">
 <!ENTITY fontsAndColors.label "Fontes de lletra">
-<!ENTITY defaultFont.label "Fontes de lletra por defeutu:">
+<!ENTITY defaultFont.label "Fonte de lletra por defeutu:">
 <!ENTITY defaultFont.accesskey "e">
 <!ENTITY defaultSize.label "Tamañu:">
 <!ENTITY defaultSize.accesskey "T">
