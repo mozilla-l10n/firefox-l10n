@@ -106,6 +106,6 @@
 <!ENTITY confirm.server2.label         "Avís: se sobreescriuran les dades dels dispositius següents amb les vostres dades locals:">
 <!-- New & Existing Account: Setup Complete -->
 
-<!ENTITY setup.successPage.title "S'ha completat la configuració!">
+<!ENTITY setup.successPage.title "S'ha completat la configuració">
 <!ENTITY changeOptions.label "Podeu canviar aquesta preferència seleccionant les opcions de sincronització a continuació.">
 <!ENTITY continueUsing.label "Podeu continuar utilitzant el &brandShortName;.">
