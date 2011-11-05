@@ -50,7 +50,7 @@
 <!ENTITY expungeOnExit.accesskey "E">
 <!ENTITY emptyTrashOnExit.label "Buida la paperera en sortir">
 <!ENTITY emptyTrashOnExit.accesskey "B">
-<!ENTITY loginAtStartup.label "En iniciar, comprova si hi ha correu nou">
+<!ENTITY loginAtStartup.label "En iniciar, comprova si hi ha correu nou"> 
 <!ENTITY loginAtStartup.accesskey "c">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number

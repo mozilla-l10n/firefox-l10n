@@ -5,9 +5,9 @@
 <!-- Entities for Account Type page -->
 
 
-<!ENTITY accountSetupInfo.label "Per poder rebre missatges, primer heu de configurar un compte de correu o de grups de discussió.">
+<!ENTITY accountSetupInfo2.label "Si voleu rebre missatges, primer heu de configurar un compte.">
 <!ENTITY accountTypeTitle.label "Configuració d'un compte nou">
-<!ENTITY accountTypeDesc.label "Aquest auxiliar recollirà la informació necessària per configurar un compte de correu o un grup de discussió. Si no sabeu la informació sol·licitada, contacteu amb l'administrador del sistema o proveïdor d'Internet.">
+<!ENTITY accountTypeDesc2.label "L'auxiliar us demanarà informació que necessita per configurar el vostre compte. Si no sabeu la informació que us demana, contacteu amb l'administrador del vostre sistema o amb el vostre proveïdor d'Internet.">
 <!ENTITY accountTypeDirections.label "Seleccioneu el tipus de compte que voleu configurar:">
 <!ENTITY accountTypeMail.label "Compte de correu">
 <!ENTITY accountTypeMail.accesskey "e">

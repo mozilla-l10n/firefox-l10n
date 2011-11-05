@@ -68,11 +68,6 @@
 <!ENTITY publishAsCmd.accesskey "o">
 <!ENTITY saveAsChangeEncodingCmd.label "Desa i canvia el joc de caràcters">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "e">
-<!ENTITY printSetupCmd.label "Configuració de la pàgina…">
-<!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printCmd.label "Imprimeix…">
-<!ENTITY printCmd.accesskey "p">
-<!ENTITY printCmd.key "p">
 <!-- Edit menu items -->
 
 <!ENTITY editMenu.label "Edita">
@@ -151,7 +146,7 @@
 <!ENTITY increaseFontSize.accesskey "g">
 <!ENTITY increaseFontSize.key "+">
 <!-- + is above this key on many keyboards -->
-<!ENTITY increaseFontSize.key2 "=">
+<!ENTITY increaseFontSize.key2 "="> 
 
 <!ENTITY fontSizeMenu.label "Mida">
 <!ENTITY fontSizeMenu.accesskey "M">
@@ -220,7 +215,7 @@
 
 <!ENTITY paragraphMenu.label "Paràgraf">
 <!ENTITY paragraphMenu.accesskey "P">
-<!ENTITY paragraphParagraphCmd.label "Paràgraf">
+<!ENTITY paragraphParagraphCmd.label "Paràgraf">  
 <!ENTITY paragraphParagraphCmd.accesskey "P">
 <!ENTITY heading1Cmd.label "Encapçalament 1">
 <!ENTITY heading1Cmd.accesskey "1">

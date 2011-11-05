@@ -34,34 +34,34 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY time.midnight "Mitjanit">
-<!ENTITY time.noon "Migdia">
+<!ENTITY time.midnight "Mitjanit" >
+<!ENTITY time.noon "Migdia" >
 <!-- Day Names -->
 <!-- LOCALIZATION NOTE : Accesskeys for day.1.Ddd to day.7.Ddd are currently
      only used in Preferences > Views > Workweek groupbox -->
 
-<!ENTITY day.1.Ddd "dg">
+<!ENTITY day.1.Ddd "dg" >
 <!ENTITY day.1.Ddd.accesskey "g">
-<!ENTITY day.2.Ddd "dl">
+<!ENTITY day.2.Ddd "dl" >
 <!ENTITY day.2.Ddd.accesskey "l">
-<!ENTITY day.3.Ddd "dt">
+<!ENTITY day.3.Ddd "dt" >
 <!ENTITY day.3.Ddd.accesskey "t">
-<!ENTITY day.4.Ddd "dc">
+<!ENTITY day.4.Ddd "dc" >
 <!ENTITY day.4.Ddd.accesskey "c">
-<!ENTITY day.5.Ddd "dj">
+<!ENTITY day.5.Ddd "dj" >
 <!ENTITY day.5.Ddd.accesskey "j">
-<!ENTITY day.6.Ddd "dv">
+<!ENTITY day.6.Ddd "dv" >
 <!ENTITY day.6.Ddd.accesskey "v">
-<!ENTITY day.7.Ddd "ds">
+<!ENTITY day.7.Ddd "ds" >
 <!ENTITY day.7.Ddd.accesskey "s">
 
-<!ENTITY day.1.name "diumenge">
-<!ENTITY day.2.name "dilluns">
-<!ENTITY day.3.name "dimarts">
-<!ENTITY day.4.name "dimecres">
-<!ENTITY day.5.name "dijous">
-<!ENTITY day.6.name "divendres">
-<!ENTITY day.7.name "dissabte">
+<!ENTITY day.1.name "diumenge" >
+<!ENTITY day.2.name "dilluns" >
+<!ENTITY day.3.name "dimarts" >
+<!ENTITY day.4.name "dimecres" >
+<!ENTITY day.5.name "dijous" >
+<!ENTITY day.6.name "divendres" >
+<!ENTITY day.7.name "dissabte" >
 <!-- Units -->
 
 <!ENTITY calendar.global.units.minute   "minut">
@@ -71,21 +71,21 @@
 <!ENTITY calendar.global.units.day      "dia">
 <!ENTITY calendar.global.units.days     "dies">
 
-<!ENTITY month.1.name "Gener">
-<!ENTITY month.2.name "Febrer">
-<!ENTITY month.3.name "Març">
-<!ENTITY month.4.name "Abril">
-<!ENTITY month.5.name "Maig">
-<!ENTITY month.6.name "Juny">
-<!ENTITY month.7.name "Juliol">
-<!ENTITY month.8.name "Agost">
-<!ENTITY month.9.name "Setembre">
-<!ENTITY month.10.name "Octubre">
-<!ENTITY month.11.name "Novembre">
-<!ENTITY month.12.name "Desembre">
+<!ENTITY month.1.name "Gener" >
+<!ENTITY month.2.name "Febrer" >
+<!ENTITY month.3.name "Març" >
+<!ENTITY month.4.name "Abril" >
+<!ENTITY month.5.name "Maig" >
+<!ENTITY month.6.name "Juny" >
+<!ENTITY month.7.name "Juliol" >
+<!ENTITY month.8.name "Agost" >
+<!ENTITY month.9.name "Setembre" >
+<!ENTITY month.10.name "Octubre" >
+<!ENTITY month.11.name "Novembre" >
+<!ENTITY month.12.name "Desembre" >
 
-<!ENTITY onemonthbackward.tooltip "Un mes enrere">
-<!ENTITY onemonthforward.tooltip "Un mes endavant">
+<!ENTITY onemonthbackward.tooltip "Un mes enrere" >
+<!ENTITY onemonthforward.tooltip "Un mes endavant" >
 <!ENTITY showToday.tooltip "Mostra el dia d'avui">
 <!ENTITY onedayforward.tooltip "Un dia endavant">
 <!ENTITY onedaybackward.tooltip "Un dia enrere">

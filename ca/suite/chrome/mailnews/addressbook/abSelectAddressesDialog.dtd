@@ -39,26 +39,26 @@
 <!ENTITY selectAddressWindow.title           "Seleccioneu les adreces">
 <!-- Buttons -->
 
-<!ENTITY toButton.label                      "A->">
-<!ENTITY toButton.accesskey                  "A">
-<!ENTITY ccButton.label                      "Cc->">
-<!ENTITY ccButton.accesskey                  "C">
-<!ENTITY bccButton.label                     "Cco->">
-<!ENTITY bccButton.accesskey                 "o">
-<!ENTITY newButton.label                     "Nou...">
-<!ENTITY newButton.accesskey                 "N">
-<!ENTITY editButton.label                    "Edita...">
+<!ENTITY toButton.label                      "A->"> 
+<!ENTITY toButton.accesskey                  "A"> 
+<!ENTITY ccButton.label                      "Cc->"> 
+<!ENTITY ccButton.accesskey                  "C"> 
+<!ENTITY bccButton.label                     "Cco->">  
+<!ENTITY bccButton.accesskey                 "o">  
+<!ENTITY newButton.label                     "Nou..."> 
+<!ENTITY newButton.accesskey                 "N"> 
+<!ENTITY editButton.label                    "Edita..."> 
 <!ENTITY editButton.accesskey                "E">
-<!ENTITY removeButton.label                  "Elimina">
-<!ENTITY removeButton.accesskey              "i">
-<!ENTITY lookIn.label                        "Cerca a: ">
-<!ENTITY lookIn.accesskey                    "r">
-<!ENTITY for.label                           "per:">
-<!ENTITY for.accesskey                       "e">
+<!ENTITY removeButton.label                  "Elimina"> 
+<!ENTITY removeButton.accesskey              "i"> 
+<!ENTITY lookIn.label                        "Cerca a: "> 
+<!ENTITY lookIn.accesskey                    "r"> 
+<!ENTITY for.label                           "per:"> 
+<!ENTITY for.accesskey                       "e"> 
 <!ENTITY for.placeholder                     "Nom o correu">
-<!ENTITY addressMessageTo.label              "Adreça el missatge a:">
+<!ENTITY addressMessageTo.label              "Adreça el missatge a:"> 
 <!-- Tooltips items -->  
 
-<!ENTITY addressPickerNewButton.tooltip      "Crea una nova targeta de llibreta d'adreces">
-<!ENTITY addressPickerEditButton.tooltip     "Edita la targeta seleccionada">
+<!ENTITY addressPickerNewButton.tooltip      "Crea una nova targeta de llibreta d'adreces"> 
+<!ENTITY addressPickerEditButton.tooltip     "Edita la targeta seleccionada"> 
 

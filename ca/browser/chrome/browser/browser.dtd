@@ -164,7 +164,7 @@ can reach it easily. -->
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Eines">
-<!ENTITY toolsMenu.accesskey          "n">
+<!ENTITY toolsMenu.accesskey          "n"> 
 
 <!ENTITY keywordfield.label           "Afegeix una paraula clau per a aquesta cerca…">
 <!ENTITY keywordfield.accesskey       "p">
@@ -193,6 +193,9 @@ can reach it easily. -->
 <!ENTITY inspectMenu.label            "Inspecciona">
 <!ENTITY inspectMenu.accesskey        "o">
 <!ENTITY inspectMenu.commandkey       "I">
+
+<!ENTITY inspectContextMenu.label     "Inspecciona l'element">
+<!ENTITY inspectContextMenu.accesskey "I">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -216,39 +219,39 @@ can reach it easily. -->
 <!ENTITY getMoreDevtoolsCmd.label        "Aconsegueix més eines">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "m">
 
-<!ENTITY fileMenu.label         "Fitxer">
+<!ENTITY fileMenu.label         "Fitxer"> 
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newNavigatorCmd.label        "Obre una finestra">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "n">
 
-<!ENTITY editMenu.label         "Edita">
-<!ENTITY editMenu.accesskey       "E">
-<!ENTITY undoCmd.label            "Desfés">
-<!ENTITY undoCmd.key            "Z">
-<!ENTITY undoCmd.accesskey          "D">
-<!ENTITY redoCmd.label            "Refés">
-<!ENTITY redoCmd.key            "Y">
-<!ENTITY redoCmd.accesskey          "R">
-<!ENTITY cutCmd.label           "Retalla">
-<!ENTITY cutCmd.key             "X">
-<!ENTITY cutCmd.accesskey         "t">
-<!ENTITY copyCmd.label            "Copia">
-<!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "C">
-<!ENTITY pasteCmd.label           "Enganxa">
-<!ENTITY pasteCmd.key           "V">
-<!ENTITY pasteCmd.accesskey         "x">
-<!ENTITY deleteCmd.label          "Suprimeix">
-<!ENTITY deleteCmd.key            "D">
-<!ENTITY deleteCmd.accesskey        "u">
-<!ENTITY selectAllCmd.label         "Selecciona-ho tot">
-<!ENTITY selectAllCmd.key         "A">
-<!ENTITY selectAllCmd.accesskey       "a">
+<!ENTITY editMenu.label         "Edita"> 
+<!ENTITY editMenu.accesskey       "E"> 
+<!ENTITY undoCmd.label            "Desfés">  
+<!ENTITY undoCmd.key            "Z">  
+<!ENTITY undoCmd.accesskey          "D"> 
+<!ENTITY redoCmd.label            "Refés">  
+<!ENTITY redoCmd.key            "Y">  
+<!ENTITY redoCmd.accesskey          "R"> 
+<!ENTITY cutCmd.label           "Retalla">  
+<!ENTITY cutCmd.key             "X">  
+<!ENTITY cutCmd.accesskey         "t"> 
+<!ENTITY copyCmd.label            "Copia">  
+<!ENTITY copyCmd.key            "C">  
+<!ENTITY copyCmd.accesskey          "C"> 
+<!ENTITY pasteCmd.label           "Enganxa">  
+<!ENTITY pasteCmd.key           "V">  
+<!ENTITY pasteCmd.accesskey         "x"> 
+<!ENTITY deleteCmd.label          "Suprimeix">  
+<!ENTITY deleteCmd.key            "D">  
+<!ENTITY deleteCmd.accesskey        "u"> 
+<!ENTITY selectAllCmd.label         "Selecciona-ho tot">  
+<!ENTITY selectAllCmd.key         "A">  
+<!ENTITY selectAllCmd.accesskey       "a"> 
 <!ENTITY preferencesCmd2.label       "Opcions">
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Preferències">
-<!ENTITY preferencesCmdUnix.accesskey     "n">
+<!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
 <!ENTITY clearRecentHistory.label               "Neteja l'historial recent…">
 <!ENTITY clearRecentHistory.accesskey           "h">
@@ -260,15 +263,15 @@ can reach it easily. -->
 <!ENTITY privateBrowsingCmd.stop.accesskey      "n">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "Visualitza">
-<!ENTITY viewMenu.accesskey       "V">
+<!ENTITY viewMenu.label         "Visualitza"> 
+<!ENTITY viewMenu.accesskey       "V"> 
 <!ENTITY viewTabGroups.label            "Grups de pestanyes">
 <!ENTITY viewTabGroups.accesskey        "G">
-<!ENTITY viewToolbarsMenu.label       "Barres d'eines">
-<!ENTITY viewToolbarsMenu.accesskey     "a">
+<!ENTITY viewToolbarsMenu.label       "Barres d'eines"> 
+<!ENTITY viewToolbarsMenu.accesskey     "a"> 
 <!ENTITY viewSidebarMenu.label "Barra lateral">
 <!ENTITY viewSidebarMenu.accesskey "e">
-<!ENTITY viewCustomizeToolbar.label       "Personalitza…">
+<!ENTITY viewCustomizeToolbar.label       "Personalitza…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
 <!ENTITY viewTabsOnTop.label            "Les pestanyes a dalt">
 <!ENTITY viewTabsOnTop.accesskey        "t">
@@ -385,7 +388,7 @@ can reach it easily. -->
 <!ENTITY printFrameCmd.accesskey      "p">
 <!ENTITY saveLinkCmd.label            "Anomena i desa el contingut de l'enllaç…">
 <!ENTITY saveLinkCmd.accesskey        "s">
-<!ENTITY sendLinkCmd.label            "Envia l'enllaç…">
+<!ENTITY sendLinkCmd.label            "Envia l'enllaç…"> 
 <!ENTITY sendLinkCmd.accesskey        "i">
 <!ENTITY saveImageCmd.label           "Anomena i desa la imatge…">
 <!ENTITY saveImageCmd.accesskey       "A">
@@ -404,7 +407,7 @@ can reach it easily. -->
 <!ENTITY copyImageCmd.label           "Copia la ubicació de la imatge">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "Copia la imatge">
-<!ENTITY copyImageContentsCmd.accesskey  "m">
+<!ENTITY copyImageContentsCmd.accesskey  "m"> 
 <!ENTITY copyVideoURLCmd.label        "Copia la ubicació del vídeo">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "Copia la ubicació de l'àudio">
@@ -441,7 +444,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.accesskey   "A">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Redueix">
@@ -473,17 +476,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY zoomInButton.tooltip           "Redueix">
 <!ENTITY zoomControls.label             "Controls del zoom">
 
-<!ENTITY quitApplicationCmdWin.label       "Surt">
+<!ENTITY quitApplicationCmdWin.label       "Surt"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "u">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Surt">
+<!ENTITY quitApplicationCmd.label       "Surt"> 
 <!ENTITY quitApplicationCmd.accesskey   "u">
 <!ENTITY quitApplicationCmdMac.label    "Surt del &brandShortName;">
 <!ENTITY quitApplicationCmdMac.key      "Q">
 
-<!ENTITY closeCmd.label                 "Tanca">
-<!ENTITY closeCmd.key                   "W">
+<!ENTITY closeCmd.label                 "Tanca">  
+<!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "c">
 
 <!ENTITY pageStyleMenu.label "Estil de pàgina">

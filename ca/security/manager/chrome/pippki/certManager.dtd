@@ -60,7 +60,7 @@
 <!ENTITY certmgr.pending.label                "S'està verificant el certificat…">
 <!ENTITY certmgr.subjectinfo.label            "Emès a nom de">
 <!ENTITY certmgr.issuerinfo.label             "Emès per">
-<!ENTITY certmgr.validity.label               "Validesa">
+<!ENTITY certmgr.validity.label               "Validesa" >
 <!ENTITY certmgr.fingerprints.label           "Empremtes digitals">
 <!ENTITY certmgr.certdetail.title             "Detall del certificat">
 <!ENTITY certmgr.certdetail.cn                "Nom habitual (CN)">

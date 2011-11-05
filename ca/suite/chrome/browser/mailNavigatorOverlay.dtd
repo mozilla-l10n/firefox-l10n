@@ -21,6 +21,6 @@
 <!ENTITY contextSendFrame.label          "Envia el marc...">
 <!ENTITY contextSendFrame.accesskey      "n">
 
-<!ENTITY sendLinkCmd.label               "Envia l'enllaç...">
+<!ENTITY sendLinkCmd.label               "Envia l'enllaç..."> 
 <!ENTITY sendLinkCmd.accesskey           "i">
 
