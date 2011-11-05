@@ -5,9 +5,9 @@
 
 <!-- Entities for Account Type page -->
 
-<!ENTITY accountSetupInfo.label        "Kirjade vastuvõtuks on vajalik kõigepealt luua kas uudistegrupi või e-posti konto.">
+<!ENTITY accountSetupInfo2.label       "Kirjade vastuvõtuks on vajalik kõigepealt luua konto.">
 <!ENTITY accountTypeTitle.label        "Uue konto loomine">
-<!ENTITY accountTypeDesc.label         "See haldur kogub e-posti ja uudistegruppide kasutamiseks vajaliku informatsiooni. Kui sa ei tea kõike nõutavat infot, võta ühendust oma teenusepakkuja või süsteemiadministraatoriga.">
+<!ENTITY accountTypeDesc2.label        "See haldur kogub konto kasutamiseks vajaliku informatsiooni. Kui sa ei tea kogu nõutavat infot, võta ühendust oma teenusepakkuja või süsteemiadministraatoriga.">
 <!ENTITY accountTypeDirections.label   "Vali loodava konto tüüp:">
 <!ENTITY accountTypeMail.label         "E-posti konto">
 <!ENTITY accountTypeMail.accesskey     "E">

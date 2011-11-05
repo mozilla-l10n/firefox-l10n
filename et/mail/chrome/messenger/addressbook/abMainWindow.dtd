@@ -79,6 +79,8 @@
 <!ENTITY viewMenu.accesskey                 "V">
 <!ENTITY viewToolbarsMenu.label             "Tööriistaribad">
 <!ENTITY viewToolbarsMenu.accesskey         "T">
+<!ENTITY menubarCmd.label                   "Menüüriba">
+<!ENTITY menubarCmd.accesskey               "M">
 <!ENTITY showAbToolbarCmd.label             "Aadressiraamatu riba">
 <!ENTITY showAbToolbarCmd.accesskey         "A">
 <!ENTITY showTaskbarCmd.label               "Olekuriba">

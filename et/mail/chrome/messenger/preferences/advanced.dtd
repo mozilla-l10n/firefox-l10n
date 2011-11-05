@@ -6,6 +6,9 @@
 
 <!-- General Settings -->
 
+<!ENTITY submitTelemetry.label            "Lubatakse sooritusvõimsuse raportite saatmine">
+<!ENTITY submitTelemetry.accesskey        "u">
+<!ENTITY telemetryInfoLink.label          "Rohkem teavet telemeetria saatmise kohta">
 <!ENTITY enableGlodaSearch.label          "Lubatakse kirjade üldotsing ja indekseerimine">
 <!ENTITY enableGlodaSearch.accesskey      "L">
 <!ENTITY systemIntegration.label          "Süsteemi integratsioon">
