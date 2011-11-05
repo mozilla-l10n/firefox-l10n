@@ -58,22 +58,25 @@
 
 <!ENTITY updateTab.label "Aktualizace">
 
-<!ENTITY autoCheck.label "Automaticky kontrolovat aktualizace pro:">
-<!ENTITY enableAppUpdate.label "Aplikace &brandShortName;">
-<!ENTITY enableAppUpdate.accesskey "A">
-<!ENTITY enableAddonsUpdate2.label "Doplňky">
-<!ENTITY enableAddonsUpdate2.accesskey "D">
+<!ENTITY updateApp.label "Aktualizace aplikace &brandShortName;:">
+<!ENTITY updateAuto.label "Instalovat aktualizace automaticky (doporučováno z důvodu vyšší bezpečnosti">
+<!ENTITY updateAuto.accesskey "I">
+<!ENTITY updateCheck.label "Vyhledávat aktualizace, ale dotázat se, zda mají být nainstalovány">
+<!ENTITY updateCheck.accesskey "V">
+<!ENTITY updateManual.label "Nikdy nevyhledávat aktualizace (nedoporučováno z důvodu rizika ohrožení)">
+<!ENTITY updateManual.accesskey "N">
+
+<!ENTITY updateAutoAddonWarn.label "Upozornit, pokud by aktualizace zakázala některé doplňky">
+<!ENTITY updateAutoAddonWarn.accesskey "U">
+
+<!ENTITY updateHistory.label "Zobrazit historii aktualizací">
+<!ENTITY updateHistory.accesskey "b">
+
+<!ENTITY updateOthers.label "Automaticky aktualizovat:">
+<!ENTITY enableAddonsUpdate3.label "Doplňky">
+<!ENTITY enableAddonsUpdate3.accesskey "D">
 <!ENTITY enableSearchUpdate.label "Vyhledávací moduly">
 <!ENTITY enableSearchUpdate.accesskey "h">
-<!ENTITY whenUpdatesFound.label "Je-li dostupná aktualizace pro aplikaci &brandShortName;:">
-<!ENTITY askMe.label "Vždy se dotázat na další postup">
-<!ENTITY askMe.accesskey "l">
-<!ENTITY modeAutomatic.label "Automaticky aktualizaci stáhnout a nainstalovat">
-<!ENTITY modeAutomatic.accesskey "t">
-<!ENTITY modeAutoAddonWarn.label "Upozornit, pokud by aktualizace zakázala některé doplňky">
-<!ENTITY modeAutoAddonWarn.accesskey "U">
-<!ENTITY updateHistory.label "Zobrazit historii aktualizací…">
-<!ENTITY updateHistory.accesskey "b">
 
 <!ENTITY offlineNotify.label "Upozornit, pokud server chce uložit offline obsah">
 <!ENTITY offlineNotify.accesskey "U">
