@@ -95,22 +95,23 @@
 <!ENTITY browserContext.label "Prohlížeč">
 <!ENTITY browserContext.accesskey "r">
 
-<!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
+<!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
-<!ENTITY resetContext.label "Vymazat">
-<!ENTITY resetContext.accesskey "V">
+<!ENTITY resetContext2.label "Vymazat proměnné">
+<!ENTITY resetContext2.accesskey "m">
 
 <!ENTITY executeMenu.label "Vykonat">
 <!ENTITY executeMenu.accesskey "k">
 
-<!ENTITY toolsMenu.label "Nástroje">
-<!ENTITY toolsMenu.accesskey "N">
-
-<!ENTITY errorConsoleCmd.label "Chybová konzola">
-<!ENTITY errorConsoleCmd.accesskey "C">
+<!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
+  -  the browser Error Console, the key should be identical to the property of
+  -  the same name in browser.dtd.
+  -->
 <!ENTITY errorConsoleCmd.commandkey "j">
 
-<!ENTITY webConsoleCmd.label "Webová konzola">
-<!ENTITY webConsoleCmd.accesskey "W">
+<!-- LOCALIZATION NOTE (webConsoleCmd.commandkey): This command key launches
+  -  the browser WebConsole, the key should be identical to the property of
+  -  the same name in browser.dtd.
+  -->
 <!ENTITY webConsoleCmd.commandkey "k">
