@@ -10,18 +10,18 @@
 <!ENTITY openFileCmd.commandkey "o">
 
 <!ENTITY closeOtherTabs.label "Tanca les altres pestanyes">
-<!ENTITY closeOtherTabs.accesskey "t">
+<!ENTITY closeOtherTabs.accesskey "T">
 
 <!ENTITY uploadFile.label "Puja un fitxer…">
 <!ENTITY uploadFile.accesskey "f">
 
 <!ENTITY printSetupCmd.label "Configuració de la pàgina…">
 <!ENTITY printSetupCmd.accesskey "g">
-
 <!-- Edit Menu -->
-<!ENTITY findOnCmd.label "Cerca en aquesta pàgina…">
 
+<!ENTITY findOnCmd.label "Cerca en aquesta pàgina…">
 <!-- View Menu -->
+
 <!ENTITY toolbarsCmd.label "Mostra/amaga">
 <!ENTITY toolbarsCmd.accesskey "s">
 <!ENTITY tabbarCmd.label "Barra de pestanyes">
@@ -48,15 +48,8 @@
 <!ENTITY pageInfoCmd.label "Informació de la pàgina">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
-
-<!ENTITY applyTheme.label "Aplica el tema">
-<!ENTITY applyTheme.accesskey "A">
-<!ENTITY getNewThemesCmd.label "Aconsegueix temes nous">
-<!ENTITY getNewThemesCmd.accesskey "g">
-<!ENTITY getPersonasCmd.label "Aconsegueix Personas">
-<!ENTITY getPersonasCmd.accesskey "P">
-
 <!-- Go Menu -->
+
 <!ENTITY goMenu.label "Vés">
 <!ENTITY goMenu.accesskey "s">
 <!ENTITY goHomeCmd.label "Inici">
@@ -68,14 +61,14 @@
 <!ENTITY recentTabs.accesskey "c">
 <!ENTITY recentTabs.commandkey "t">
 <!ENTITY recentWindows.label "Finestres tancades recentment">
-<!ENTITY recentWindows.accesskey "f">
+<!ENTITY recentWindows.accesskey "F">
 <!ENTITY recentWindows.commandkey "y">
 <!ENTITY historyRestoreLastSession.label "Restaura la sessió anterior">
 <!ENTITY historyRestoreLastSession.accesskey "R">
 <!ENTITY syncTabsMenu.label "Pestanyes d'altres ordinadors">
 <!ENTITY syncTabsMenu.accesskey "o">
-
 <!-- Bookmarks Menu -->
+
 <!ENTITY bookmarksMenu.label "Adreces d'interès">
 <!ENTITY bookmarksMenu.accesskey "r">
 <!ENTITY addCurPageCmd.label "Afegeix aquesta pàgina a les adreces d'interès">
@@ -88,8 +81,8 @@
 <!ENTITY manBookmarksCmd.label "Gestiona les adreces d'interès…">
 <!ENTITY manBookmarksCmd.accesskey "G">
 <!ENTITY manBookmarksCmd.commandkey "b">
-
 <!-- Tools Menu -->
+
 <!ENTITY searchInternetCmd.label "Cerca al web">
 <!ENTITY searchInternetCmd.accesskey "r">
 <!ENTITY searchInternet.commandKey "s">

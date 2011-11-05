@@ -20,8 +20,8 @@
 <!ENTITY viewQuota.accesskey          "V">
 <!ENTITY changePassword.label         "Canvia la contrasenya">
 <!ENTITY changePassword.accesskey     "C">
-<!ENTITY mySyncKey.label              "La meva clau de sincronització">
-<!ENTITY mySyncKey.accesskey          "m">
+<!ENTITY myRecoveryKey.label          "La meva clau de recuperació">
+<!ENTITY myRecoveryKey.accesskey      "m">
 <!ENTITY resetSync.label              "Reinicia la sincronització">
 <!ENTITY resetSync.accesskey          "e">
 <!ENTITY deactivateDevice.label       "Desactiva el dispositiu">

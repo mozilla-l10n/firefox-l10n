@@ -16,20 +16,20 @@
 <!ENTITY hideOtherAppsCmd.key           "g">
 <!ENTITY hideOtherAppsCmd.modifiers     "accel,alt">
 <!ENTITY showAllAppsCmd.label           "Mostra-ho tot">
-<!ENTITY quitApplicationCmd.label       "Surt del &brandShortName;">
+<!ENTITY quitApplicationCmd.label       "Surt del &brandShortName;"> 
 <!ENTITY quitApplicationCmd.key         "u">
 <!ENTITY quitApplicationCmd.modifiers   "accel">
 <!-- End of Application menu -->
 
-<!ENTITY closeCmd.label                 "Tanca">
-<!ENTITY closeCmd.key                   "W">
+<!ENTITY closeCmd.label                 "Tanca">  
+<!ENTITY closeCmd.key                   "W">  
 
 <!ENTITY printSetupCmd.label            "Configuració de la pàgina…">
 <!ENTITY printSetupCmd.accesskey        "u">
 
-<!ENTITY redoCmd.key                    "Z">
+<!ENTITY redoCmd.key                    "Z">  
 
-<!ENTITY historyCmd.key                 "H">
+<!ENTITY historyCmd.key                 "H">  
 
 <!ENTITY findTypeTextCmd.key            "">
 <!ENTITY findTypeLinksCmd.key           "">

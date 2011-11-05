@@ -4,11 +4,11 @@
 <!ENTITY zoomWindow.label         "Zoom">
 <!ENTITY windowMenu.label         "Finestra">
 
-<!ENTITY helpMenu.label           "Ajuda">
-<!ENTITY helpMenu.accesskey       "j">
+<!ENTITY helpMenu.label           "Ajuda"> 
+<!ENTITY helpMenu.accesskey       "j"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "Ajuda">
+<!ENTITY helpMenuWin.label        "Ajuda"> 
 <!ENTITY helpMenuWin.accesskey    "j">
 <!ENTITY aboutProduct.label       "Quant al &brandShortName;">
 <!ENTITY aboutProduct.accesskey   "Q">

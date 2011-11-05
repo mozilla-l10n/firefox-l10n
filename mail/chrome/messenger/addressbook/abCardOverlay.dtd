@@ -122,7 +122,7 @@ de contingut incrustat en els missatges HTML d'aquest contacte.">
 <!ENTITY Year.placeholder               "Any">
 <!ENTITY Or.value                       "o">
 <!ENTITY Age.placeholder                "Edat">
-<!ENTITY YearsOld.label                 "">
+<!ENTITY YearsOld.label                 "anys">
 
 <!ENTITY Work.tab                       "Feina">
 <!ENTITY Work.accesskey                 "F">

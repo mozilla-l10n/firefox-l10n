@@ -18,6 +18,13 @@
 <!ENTITY newNavigatorCmd.label "Finestra del Navegador">
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "N">
+<!ENTITY printSetupCmd.label "Configuració de la pàgina...">
+<!ENTITY printSetupCmd.accesskey "p">
+<!ENTITY printPreviewCmd.label "Exemple d'impressió">
+<!ENTITY printPreviewCmd.accesskey "E">
+<!ENTITY printCmd.label "Imprimeix...">
+<!ENTITY printCmd.accesskey "I">
+<!ENTITY printCmd.key "P">
 
 <!ENTITY editMenu.label                   "Edita">
 <!ENTITY editMenu.accesskey               "E">
@@ -48,13 +55,13 @@
 <!ENTITY selectAllCmd.label               "Selecciona-ho tot">
 <!ENTITY selectAllCmd.key                 "A">
 <!ENTITY selectAllCmd.accesskey           "a">
-<!ENTITY clearHistoryCmd.label    "Neteja l'historial de cerca">
-<!ENTITY clearHistoryCmd.accesskey   "h">
-<!ENTITY showSuggestionsCmd.label   "Mostra suggeriments">
-<!ENTITY showSuggestionsCmd.accesskey  "s">
+<!ENTITY clearHistoryCmd.label    "Neteja l'historial de cerca">  
+<!ENTITY clearHistoryCmd.accesskey   "h"> 
+<!ENTITY showSuggestionsCmd.label   "Mostra suggeriments">  
+<!ENTITY showSuggestionsCmd.accesskey  "s"> 
 <!ENTITY preferencesCmd.label    "Preferències…">
-<!ENTITY preferencesCmd.key     "E">
-<!ENTITY preferencesCmd.accesskey   "e">
+<!ENTITY preferencesCmd.key     "E">  
+<!ENTITY preferencesCmd.accesskey   "e"> 
 <!ENTITY findCmd.key "F">
 <!-- LOCALIZATION NOTE (findCmd.accesskey): This accesskey should be within
      findCmd.label found in messengercompose.dtd, messenger.dtd and
@@ -73,15 +80,15 @@
 <!ENTITY findTypeLinksCmd.label "Cerca enllaços a mesura que escric">
 <!ENTITY findTypeLinksCmd.accesskey "l">
 
-<!ENTITY viewMenu.label     "Visualitza">
+<!ENTITY viewMenu.label     "Visualitza"> 
 <!ENTITY viewMenu.accesskey               "V">
-<!ENTITY viewToolbarsMenu.label    "Mostra/Amaga">
-<!ENTITY viewToolbarsMenu.accesskey   "g">
-<!ENTITY showTaskbarCmd.label     "Barra d'estat">
-<!ENTITY showTaskbarCmd.accesskey    "s">
+<!ENTITY viewToolbarsMenu.label    "Mostra/Amaga"> 
+<!ENTITY viewToolbarsMenu.accesskey   "g"> 
+<!ENTITY showTaskbarCmd.label     "Barra d'estat">  
+<!ENTITY showTaskbarCmd.accesskey    "s"> 
 
-<!ENTITY helpMenu.label     "Ajuda">
-<!ENTITY helpMenu.accesskey    "j">
+<!ENTITY helpMenu.label     "Ajuda"> 
+<!ENTITY helpMenu.accesskey    "j"> 
 
 <!ENTITY helpTroubleshootingInfo.label      "Informació per a la resolució de problemes">
 <!ENTITY helpTroubleshootingInfo.accesskey  "r">

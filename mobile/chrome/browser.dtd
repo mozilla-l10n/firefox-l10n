@@ -93,9 +93,11 @@
 <!ENTITY consoleErrColumn.label    "Columna:">
 
 <!ENTITY contextOpenInNewTab.label    "Obre en una pestanya nova">
-<!ENTITY contextSaveLink.label        "Desa l'enllaç">
 <!ENTITY contextSaveImage.label       "Desa la imatge">
 <!ENTITY contextCopyLink.label        "Copia l'enllaç">
+<!ENTITY contextCopyEmail.label       "Copia les adreces electròniques">
+<!ENTITY contextCopyPhone.label       "Copia el número de telèfon">
+<!ENTITY contextCopyImageLocation.label       "Copia la ubicació de la imatge">
 <!ENTITY contextShareLink.label       "Comparteix l'enllaç">
 <!ENTITY contextShareImage.label      "Comparteix la imatge">
 <!ENTITY contextBookmarkLink.label    "Desa l'enllaç a les adreces d'interès">
@@ -116,6 +118,5 @@
 <!ENTITY pageactions.findInPage      "Cerca a la pàgina">
 <!ENTITY pageactions.search.addNew   "Afegeix el motor de cerca">
 <!ENTITY pageactions.charEncoding    "Codificació de caràcters">
-<!ENTITY pageactions.webapps.install "Instal·la com a aplicació">
 
 <!ENTITY appMenu.siteOptions         "Opcions del lloc">

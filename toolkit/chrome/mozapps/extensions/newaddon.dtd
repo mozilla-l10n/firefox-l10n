@@ -1,6 +1,6 @@
 <!ENTITY title           "Instaŀla el complement">
 <!ENTITY intro           "Un altre programa del vostre ordinador vol modificar el 
-                          &brandShortName; amb el següent complement:">
+&brandShortName; amb el següent complement:">
 <!ENTITY warning         "Només instaŀleu complements dels autors que confieu.">
 <!ENTITY allow           "Permet aquesta instaŀlació">
 <!ENTITY later           "Sempre podeu canviar d'idea i anar al Gestor de complements.">

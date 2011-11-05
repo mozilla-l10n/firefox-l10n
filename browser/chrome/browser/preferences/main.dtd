@@ -13,8 +13,8 @@
 <!ENTITY useCurrentPage.label      "Utilitza la pàgina actual">
 <!ENTITY useCurrentPage.accesskey  "c">
 <!ENTITY useMultiple.label         "Utilitza les pàgines actuals">
-<!ENTITY useBookmark.label         "Utilitza una adreça d'interès">
-<!ENTITY useBookmark.accesskey     "d">
+<!ENTITY chooseBookmark.label      "Utilitza l'adreça d'interès">
+<!ENTITY chooseBookmark.accesskey  "a">
 <!ENTITY restoreDefault.label      "Restaura les pàgines per defecte">
 <!ENTITY restoreDefault.accesskey  "R">
 

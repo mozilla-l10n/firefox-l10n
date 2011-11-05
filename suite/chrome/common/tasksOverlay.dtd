@@ -21,7 +21,7 @@
 <!ENTITY windowMenu.accesskey "n">
 
 <!ENTITY tasksMenu.label "Eines">
-<!ENTITY tasksMenu.accesskey "n">
+<!ENTITY tasksMenu.accesskey "n"> 
 
 <!ENTITY datamanCmd.label "Gestor de dades">
 <!ENTITY datamanCmd.accesskey "G">

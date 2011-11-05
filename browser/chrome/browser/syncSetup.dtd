@@ -19,8 +19,8 @@
 <!ENTITY signIn.account2.accesskey  "e">
 <!ENTITY signIn.password.label      "Contrasenya">
 <!ENTITY signIn.password.accesskey  "y">
-<!ENTITY signIn.syncKey.label       "Clau de sincronització">
-<!ENTITY signIn.syncKey.accesskey   "a">
+<!ENTITY signIn.recoveryKey.label       "Clau de reucperació">
+<!ENTITY signIn.recoveryKey.accesskey   "C">
 <!-- New Account Page 1: Basic Account Info -->
 
 <!ENTITY setup.newAccountDetailsPage.title.label "Detalls del compte">
@@ -41,12 +41,12 @@
 <!ENTITY setup.tosAgree2.accesskey  "">
 <!-- New Account Page 2: Sync Key -->
 
-<!ENTITY setup.newSyncKeyPage.title.label "Al &brandShortName; li importa la vostra privadesa">
-<!ENTITY setup.newSyncKeyPage.description.label "Per garantir la vostra total privadesa, es xifraran totes les vostres dades abans de pujar-les. La clau de sincronització, necessària per desxifrar les dades, no es pujarà.">
-<!ENTITY syncKeyEntry.label        "La vostra clau de sincronització">
-<!ENTITY syncKeyEntry.accesskey    "c">
+<!ENTITY setup.newRecoveryKeyPage.title.label "El &brandShortName; es preocupa de la vostra privacitat">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Per garantir la vostra privacitat, totes les vostres dades s'encriptaran abans no es pugin. Però la clau de recuperació que es necessita per desencriptar les dades no es pujarà mai.">
+<!ENTITY recoveryKeyEntry.label        "La vostra clau de recuperació">
+<!ENTITY recoveryKeyEntry.accesskey    "c">
 <!ENTITY syncGenerateNewKey.label  "Generate una clau nova">
-<!ENTITY syncKeyBackup.description "La clau de sincronització és necessària per accedir al &syncBrand.fullName.label; en altres màquines. Creeu-ne una còpia de seguretat. No podem ajudar-vos a recuperar la vostra clau de sincronització.">
+<!ENTITY recoveryKeyBackup.description "La vostra clau de recuperació us farà falta per accedir al &syncBrand.fullName.label; des d'altres màquines. Cal que feu una còpia de seguretat. Ja que no us podrem ajudar a recuperar la clau de seguretat. ">
 
 <!ENTITY button.syncKeyBackup.print.label     "Imprimeix…">
 <!ENTITY button.syncKeyBackup.print.accesskey "p">
@@ -65,12 +65,12 @@
 <!ENTITY addDevice.dialog.enterCode.label   "Introduïu el codi que proporciona el dispositiu:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Torneu-ho a provar.">
 <!ENTITY addDevice.dialog.successful.label  "S'ha afegit el dispositiu amb èxit. La sincronització inicial pot portar uns quants minuts i finalitzarà en segon pla.">
-<!ENTITY addDevice.dialog.syncKey.label     "Per activar el dispositiu, heu d'introduir la clau de sincronització. Imprimiu o deseu la clau i emporteu-vos-la a sobre sempre.">
+<!ENTITY addDevice.dialog.recoveryKey.label     "Per activar el vostre dispositiu necessitareu introduir la vostra clau de recuperació. Imprimiu-la o deseu-la per tenir-la apunt quan la torneu a utilitzar.">
 <!ENTITY addDevice.dialog.connected.label   "Dispositiu connectat">
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "Inicia una sessió">
-<!ENTITY existingSyncKey.description "Podeu obtenir una còpia de la clau de sincronització anant a les opcions del &syncBrand.shortName.label; del vostre altre dispositiu, seleccioneu «La meva clau de sincronització» a «Gestiona el compte».">
+<!ENTITY existingRecoveryKey.description "Podeu obtenir una còpia de la vostra clau de recuperació podeu anar al menú Opcions del &syncBrand.shortName.label; del vostre altre dispositiu i seleccionar &#x0022;La meva clau de recuperació&#x0022; dins de la &#x0022;Gestió del compte&#x0022;.">
 <!ENTITY verifying.label              "S'està verificant…">
 <!ENTITY resetPassword.label          "Reinicia la contrasenya">
 <!ENTITY resetSyncKey.label           "He perdut el meu altre dispositiu.">

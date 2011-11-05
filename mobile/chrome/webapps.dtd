@@ -3,4 +3,5 @@
 <!ENTITY webapps.perm.geolocation "Informació de l'ubicació">
 <!ENTITY webapps.perm.offline "Emmagatzema dades fora de línia">
 <!ENTITY webapps.perm.notifications "Notificacions a l'escriptori">
-<!ENTITY webapps.perm.requestedHint "(soŀlicitat)">
+<!ENTITY webapps.perm.requestedHint "(so?licitat)">
+<!ENTITY webapps.add-homescreen "Afegeix-ho a la pantalla d'inici">

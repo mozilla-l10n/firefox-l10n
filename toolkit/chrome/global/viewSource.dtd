@@ -47,7 +47,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY reloadCmd.label "Actualitza">
 <!ENTITY reloadCmd.accesskey "z">
 <!ENTITY reloadCmd.commandkey "r">
-<!ENTITY menu_wrapLongLines.title "Ajusta les línies llargues">
+<!ENTITY menu_wrapLongLines.title "Ajusta les línies llargues"> 
 <!ENTITY menu_wrapLongLines.accesskey "r">
 <!ENTITY menu_highlightSyntax.label "Ressaltat de sintaxis">
 <!ENTITY menu_highlightSyntax.accesskey "s">

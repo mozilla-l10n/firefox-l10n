@@ -6,6 +6,9 @@
 <!-- General Settings -->
 
 
+<!ENTITY submitTelemetry.label         "Envia dades del rendiment ">
+<!ENTITY submitTelemetry.accesskey     "r">
+<!ENTITY telemetryInfoLink.label       "Més informació sobre el Telemetry">
 <!ENTITY enableGlodaSearch.label       "Habilita el cercador i indexador de missatges">
 <!ENTITY enableGlodaSearch.accesskey   "i">
 <!ENTITY systemIntegration.label       "Integració amb el sistema">

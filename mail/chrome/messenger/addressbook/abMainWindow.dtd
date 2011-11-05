@@ -78,7 +78,9 @@
 <!ENTITY viewMenu.label                                 "Visualitza">
 <!ENTITY viewMenu.accesskey                             "V">
 <!ENTITY viewToolbarsMenu.label                         "Barres d'eines">
-<!ENTITY viewToolbarsMenu.accesskey                     "i">
+<!ENTITY viewToolbarsMenu.accesskey                     "i"> 
+<!ENTITY menubarCmd.label                               "Barra de menú">
+<!ENTITY menubarCmd.accesskey                           "m">
 <!ENTITY showAbToolbarCmd.label                         "Barra d'eines de la llibreta d'adreces">
 <!ENTITY showAbToolbarCmd.accesskey                     "r">
 <!ENTITY showTaskbarCmd.label                           "Barra d'estat">
@@ -88,9 +90,9 @@
 <!ENTITY showContactPane.label                          "Subfinestra resum del contacte">
 <!ENTITY showContactPane.accesskey                      "b">
 <!ENTITY menu_ShowNameAs.label                          "Mostra el nom com a">
-<!ENTITY menu_ShowNameAs.accesskey                      "n">
+<!ENTITY menu_ShowNameAs.accesskey                      "n"> 
 <!ENTITY firstLastCmd.label                             "Nom Cognom">
-<!ENTITY firstLastCmd.accesskey                         "N">
+<!ENTITY firstLastCmd.accesskey                         "N"> 
 <!ENTITY lastFirstCmd.label                             "Cognom, Nom">
 <!ENTITY lastFirstCmd.accesskey                         "C">
 <!ENTITY displayNameCmd.label                           "Nom a mostrar">

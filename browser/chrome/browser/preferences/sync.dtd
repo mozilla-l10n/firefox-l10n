@@ -13,9 +13,9 @@
 <!ENTITY manageAccount.label          "Gestiona el compte">
 <!ENTITY manageAccount.accesskey      "a">
 <!ENTITY viewQuota.label              "Visualitza la quota">
-<!ENTITY changePassword2.label         "Canvia la contrasenya…">
-<!ENTITY mySyncKey.label              "La meva clau de sincronització">
-<!ENTITY resetSync2.label              "Reinicia el compte Sync...">
+<!ENTITY changePassword2.label        "Canvia la contrasenya…">
+<!ENTITY myRecoveryKey.label          "La meva clau de recuperació">
+<!ENTITY resetSync2.label             "Reinicia el compte Sync...">
 
 <!ENTITY addDevice.label              "Afegeix un dispositiu">
 

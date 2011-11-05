@@ -119,6 +119,8 @@
 <!ENTITY redoDefaultCmd.accesskey "R">
 <!-- View Menu -->
 
+<!ENTITY menubarCmd.label "Barra de menú">
+<!ENTITY menubarCmd.accesskey "m">
 <!ENTITY showMessengerToolbarCmd.label "Barra d'eines de la Missatgeria">
 <!ENTITY showMessengerToolbarCmd.accesskey "r">
 <!ENTITY customizeToolbar.label "Personalitza…">
@@ -249,7 +251,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.accesskey   "g">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Redueix">
@@ -270,6 +272,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageSourceCmd.label "Codi font del missatge">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.key "u">
+<!ENTITY getNewMessagesCmd.key "y">
+<!ENTITY getAllNewMessagesCmd.key "Y">
 <!-- Search Menu -->
 
 <!ENTITY findMenu.label "Cerca">
@@ -499,12 +503,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY previousButton.label "Anterior">
 <!ENTITY backButton1.label "Enrere">
 <!ENTITY goForwardButton1.label "Endavant">
+<!ENTITY deleteItem.title "Suprimeix">
 <!ENTITY deleteButton.label "Suprimeix">
 <!ENTITY undeleteButton.label "Dessuprimeix">
 <!ENTITY markButton.label "Marca">
 <!ENTITY printButton.label "Imprimeix">
 <!ENTITY stopButton.label "Atura">
 <!ENTITY throbberItem.title "Indicador d'activitat">
+<!ENTITY junkItem.title "Brossa">
 <!ENTITY junkButton.label "Correu brossa">
 <!ENTITY notJunkButton.label "És correu legítim">
 <!ENTITY addressBookButton.label "Llibreta d'adreces">

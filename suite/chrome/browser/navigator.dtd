@@ -14,12 +14,6 @@
 <!ENTITY editPageCmd.accesskey "d">
 <!ENTITY editPageCmd.commandkey "e">
 
-<!ENTITY printPreviewCmd.label "Exemple d'impressió">
-<!ENTITY printPreviewCmd.accesskey "l">
-<!ENTITY printCmd.label "Imprimeix...">
-<!ENTITY printCmd.accesskey "p">
-<!ENTITY printCmd.commandkey "p">
-
 <!ENTITY navbarCmd.label "Barra de navegació">
 <!ENTITY navbarCmd.accesskey "n">
 <!ENTITY personalbarCmd.label "Barra de les adreces d'interès">

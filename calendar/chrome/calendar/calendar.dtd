@@ -50,10 +50,10 @@
 <!ENTITY calendar.calendar.label     "Calendari">
 <!ENTITY calendar.calendar.accesskey "C">
 
-<!ENTITY calendar.newevent.button.tooltip         "Crea una nova cita">
-<!ENTITY calendar.newtask.button.tooltip          "Crea una nova tasca">
+<!ENTITY calendar.newevent.button.tooltip         "Crea una nova cita" >
+<!ENTITY calendar.newtask.button.tooltip          "Crea una nova tasca" >
 
-<!ENTITY calendar.unifinder.todoitems.label       "Tasques">
+<!ENTITY calendar.unifinder.todoitems.label       "Tasques" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Mostra les tasques finalitzades">
 
 <!ENTITY calendar.today.button.label       "Avui">
@@ -84,53 +84,53 @@
 <!ENTITY calendar.unifinder.tree.duration.label      "Temps restant">
 <!ENTITY calendar.unifinder.close.tooltip            "Tanca la llista i la cerca de cites">
 
-<!ENTITY calendar.today.button.tooltip          "Vés a avui">
-<!ENTITY calendar.todaypane.button.tooltip      "Mostra el plafó d'avui">
+<!ENTITY calendar.today.button.tooltip          "Vés a avui" >
+<!ENTITY calendar.todaypane.button.tooltip      "Mostra el plafó d'avui" >
 
-<!ENTITY calendar.day.button.tooltip            "Canvia a vista diària">
-<!ENTITY calendar.week.button.tooltip           "Canvia a vista setmanal">
-<!ENTITY calendar.month.button.tooltip          "Canvia a vista mensual">
-<!ENTITY calendar.multiweek.button.tooltip      "Canvia a vista multisetmanal">
+<!ENTITY calendar.day.button.tooltip            "Canvia a vista diària" >
+<!ENTITY calendar.week.button.tooltip           "Canvia a vista setmanal" >
+<!ENTITY calendar.month.button.tooltip          "Canvia a vista mensual" >
+<!ENTITY calendar.multiweek.button.tooltip      "Canvia a vista multisetmanal" >
 
-<!ENTITY calendar.nextday.label                 "Dia següent">
-<!ENTITY calendar.prevday.label                 "Dia anterior">
-<!ENTITY calendar.nextday.accesskey             "s">
-<!ENTITY calendar.prevday.accesskey             "a">
-<!ENTITY calendar.nextweek.label                "Setmana següent">
-<!ENTITY calendar.prevweek.label                "Setmana anterior">
-<!ENTITY calendar.nextweek.accesskey            "S">
-<!ENTITY calendar.prevweek.accesskey            "a">
-<!ENTITY calendar.nextmonth.label               "Mes següent">
-<!ENTITY calendar.prevmonth.label               "Mes anterior">
-<!ENTITY calendar.nextmonth.accesskey           "s">
-<!ENTITY calendar.prevmonth.accesskey           "a">
+<!ENTITY calendar.nextday.label                 "Dia següent" >
+<!ENTITY calendar.prevday.label                 "Dia anterior" >
+<!ENTITY calendar.nextday.accesskey             "s" >
+<!ENTITY calendar.prevday.accesskey             "a" >
+<!ENTITY calendar.nextweek.label                "Setmana següent" >
+<!ENTITY calendar.prevweek.label                "Setmana anterior" >
+<!ENTITY calendar.nextweek.accesskey            "S" >
+<!ENTITY calendar.prevweek.accesskey            "a" >
+<!ENTITY calendar.nextmonth.label               "Mes següent" >
+<!ENTITY calendar.prevmonth.label               "Mes anterior" >
+<!ENTITY calendar.nextmonth.accesskey           "s" >
+<!ENTITY calendar.prevmonth.accesskey           "a" >
 
-<!ENTITY calendar.navigation.nextday.tooltip    "Un dia després">
-<!ENTITY calendar.navigation.prevday.tooltip    "Un dia abans">
-<!ENTITY calendar.navigation.nextweek.tooltip   "Una setmana després">
-<!ENTITY calendar.navigation.prevweek.tooltip   "Una setmana abans">
-<!ENTITY calendar.navigation.nextmonth.tooltip  "Un mes després">
-<!ENTITY calendar.navigation.prevmonth.tooltip  "Un mes abans">
+<!ENTITY calendar.navigation.nextday.tooltip    "Un dia després" >
+<!ENTITY calendar.navigation.prevday.tooltip    "Un dia abans" >
+<!ENTITY calendar.navigation.nextweek.tooltip   "Una setmana després" >
+<!ENTITY calendar.navigation.prevweek.tooltip   "Una setmana abans" >
+<!ENTITY calendar.navigation.nextmonth.tooltip  "Un mes després" >
+<!ENTITY calendar.navigation.prevmonth.tooltip  "Un mes abans" >
 
-<!ENTITY calendar.newevent.button.label         "Nova cita">
-<!ENTITY calendar.newtask.button.label          "Nova tasca">
-<!ENTITY calendar.print.button.label            "Imprimeix">
+<!ENTITY calendar.newevent.button.label         "Nova cita" >
+<!ENTITY calendar.newtask.button.label          "Nova tasca" >
+<!ENTITY calendar.print.button.label            "Imprimeix" >
 
-<!ENTITY calendar.export.calendar                "Exporta el calendari…">
+<!ENTITY calendar.export.calendar                "Exporta el calendari…" >
 
-<!ENTITY calendar.day.button.label              "Vista diària">
-<!ENTITY calendar.week.button.label             "Vista setmanal">
-<!ENTITY calendar.month.button.label            "Vista mensual">
-<!ENTITY calendar.multiweek.button.label        "Vista multisetmanal">
-<!ENTITY calendar.onlyworkday.checkbox.label    "Només els dies feiners">
-<!ENTITY calendar.onlyworkday.checkbox.accesskey  "d">
-<!ENTITY calendar.displaytodos.checkbox.label   "Tasques visualitzades">
-<!ENTITY calendar.displaytodos.checkbox.accesskey "q">
-<!ENTITY calendar.completedtasks.checkbox.label     "Mostra les tasques finalitzades">
-<!ENTITY calendar.completedtasks.checkbox.accesskey "f">
+<!ENTITY calendar.day.button.label              "Vista diària" >
+<!ENTITY calendar.week.button.label             "Vista setmanal" >
+<!ENTITY calendar.month.button.label            "Vista mensual" >
+<!ENTITY calendar.multiweek.button.label        "Vista multisetmanal" >
+<!ENTITY calendar.onlyworkday.checkbox.label    "Només els dies feiners" >
+<!ENTITY calendar.onlyworkday.checkbox.accesskey  "d" >
+<!ENTITY calendar.displaytodos.checkbox.label   "Tasques visualitzades" >
+<!ENTITY calendar.displaytodos.checkbox.accesskey "q" >
+<!ENTITY calendar.completedtasks.checkbox.label     "Mostra les tasques finalitzades" >
+<!ENTITY calendar.completedtasks.checkbox.accesskey "f" >
 
-<!ENTITY calendar.orientation.label "Gira la vista">
-<!ENTITY calendar.orientation.accesskey "G">
+<!ENTITY calendar.orientation.label "Gira la vista" >
+<!ENTITY calendar.orientation.accesskey "G" >
 
 <!ENTITY calendar.search.options.searchfor " que continguin">
 
@@ -201,12 +201,12 @@
 <!ENTITY calendar.context.copyevent.accesskey         "C">
 <!ENTITY calendar.context.pasteevent.label            "Enganxa">
 <!ENTITY calendar.context.pasteevent.accesskey        "x">
-<!ENTITY calendar.context.button.label                "Plafó d'avui">
-<!ENTITY calendar.context.button.accesskey            "a">
-<!ENTITY calendar.context.attendance.menu.label       "Assistència">
-<!ENTITY calendar.context.attendance.menu.accesskey   "s">
-<!ENTITY calendar.context.attendance.occurrence.label "Aquesta cita">
-<!ENTITY calendar.context.attendance.all.label        "Totes les cites">
+<!ENTITY calendar.context.button.label                "Plafó d'avui" >
+<!ENTITY calendar.context.button.accesskey            "a" >
+<!ENTITY calendar.context.attendance.menu.label       "Assistència" >
+<!ENTITY calendar.context.attendance.menu.accesskey   "s" >
+<!ENTITY calendar.context.attendance.occurrence.label "Aquesta cita" >
+<!ENTITY calendar.context.attendance.all.label        "Totes les cites" >
 <!-- Task Context Menu -->
 
 <!ENTITY calendar.context.progress.label              "En curs">
@@ -215,7 +215,7 @@
 <!ENTITY calendar.context.priority.accesskey          "r">
 <!--=percent sign-->
 
-<!ENTITY percnt "&#38;#37;">
+<!ENTITY percnt "&#38;#37;" >
 
 <!ENTITY calendar.context.markcompleted.label     "Marca finalitzada">
 <!ENTITY calendar.context.markcompleted.accesskey "f">
@@ -249,8 +249,8 @@
 
 <!ENTITY calendar.context.newserver.label              "Nou calendari">
 <!ENTITY calendar.context.newserver.accesskey          "N">
-<!ENTITY calendar.context.findcalendar.label           "Cerca un calendari…">
-<!ENTITY calendar.context.findcalendar.accesskey       "C">
+<!ENTITY calendar.context.findcalendar.label           "Cerca un calendari…" >
+<!ENTITY calendar.context.findcalendar.accesskey       "C" >
 <!ENTITY calendar.context.deleteserver.label           "Suprimeix el calendari">
 <!ENTITY calendar.context.deleteserver.accesskey       "S">
 <!ENTITY calendar.context.reloadserver.label           "Actualitza els calendaris remots">
@@ -283,23 +283,23 @@
 <!-- Calendar Alarm Dialog -->
 
 
-<!ENTITY calendar.alarm.location.label              "Lloc:">
-<!ENTITY calendar.alarm.details.label               "Detalls…">
+<!ENTITY calendar.alarm.location.label              "Lloc:" >
+<!ENTITY calendar.alarm.details.label               "Detalls…" >
 
-<!ENTITY calendar.alarm.snoozefor.label             "Torna'm a avisar d'aquí ">
-<!ENTITY calendar.alarm.snoozeallfor.label          "Torna'm a avisar de tot d'aquí ">
-<!ENTITY calendar.alarm.title.label                 "Alarma del calendari">
-<!ENTITY calendar.alarm.dismiss.label               "Para l'alarma">
-<!ENTITY calendar.alarm.dismissall.label            "Para totes les alarmes">
+<!ENTITY calendar.alarm.snoozefor.label             "Torna'm a avisar d'aquí " >
+<!ENTITY calendar.alarm.snoozeallfor.label          "Torna'm a avisar de tot d'aquí " >
+<!ENTITY calendar.alarm.title.label                 "Alarma del calendari" >
+<!ENTITY calendar.alarm.dismiss.label               "Para l'alarma" >
+<!ENTITY calendar.alarm.dismissall.label            "Para totes les alarmes" >
 
-<!ENTITY calendar.alarm.snooze.5minutes.label       "5 minuts">
-<!ENTITY calendar.alarm.snooze.10minutes.label      "10 minuts">
-<!ENTITY calendar.alarm.snooze.15minutes.label      "15 minuts">
-<!ENTITY calendar.alarm.snooze.30minutes.label      "30 minuts">
-<!ENTITY calendar.alarm.snooze.45minutes.label      "45 minuts">
-<!ENTITY calendar.alarm.snooze.1hour.label          "1 hora">
-<!ENTITY calendar.alarm.snooze.2hours.label         "2 hores">
-<!ENTITY calendar.alarm.snooze.1day.label           "1 dia">
+<!ENTITY calendar.alarm.snooze.5minutes.label       "5 minuts" >
+<!ENTITY calendar.alarm.snooze.10minutes.label      "10 minuts" >
+<!ENTITY calendar.alarm.snooze.15minutes.label      "15 minuts" >
+<!ENTITY calendar.alarm.snooze.30minutes.label      "30 minuts" >
+<!ENTITY calendar.alarm.snooze.45minutes.label      "45 minuts" >
+<!ENTITY calendar.alarm.snooze.1hour.label          "1 hora" >
+<!ENTITY calendar.alarm.snooze.2hours.label         "2 hores" >
+<!ENTITY calendar.alarm.snooze.1day.label           "1 dia" >
 <!-- LOCALIZATION NOTE (calendar.alarm.snooze.cancel)
      This string is not seen in the UI, it is read by screen readers when the
      user focuses the "Cancel" button in the "Snooze for..." popup of the alarm
