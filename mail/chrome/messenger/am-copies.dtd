@@ -12,7 +12,7 @@
 <!ENTITY bccAddressList.placeholder "Separtar direiciones con comes">
 <!ENTITY saveMessageDlg.label "Amosar diálogu de confirmación cuando se guarden los mensaxes">
 <!ENTITY saveMessageDlg.accesskey "M">
-<!ENTITY sentFolderOn.label "Carpeta &quot;Unviaos&quot; en:">
+<!ENTITY sentFolderOn.label "Carpeta &quot;Unvios Fechos&quot; en:">
 <!ENTITY sentFolderOn.accesskey "U">
 <!ENTITY sentInOtherFolder.label "Otru:">
 <!ENTITY sentInOtherFolder.accesskey "O">

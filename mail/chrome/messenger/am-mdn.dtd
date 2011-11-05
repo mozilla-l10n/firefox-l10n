@@ -8,7 +8,7 @@
 <!ENTITY receiptArrive.label "Cuando aporte un acuse de recibu:">
 <!ENTITY leaveIt.label "Dexalu na mio bandexa d'entrada">
 <!ENTITY leaveIt.accesskey "D">
-<!ENTITY moveToSent.label "Movelu a la mio carpeta &quot;Unviaos&quot;">
+<!ENTITY moveToSent.label "Movelu a la mio carpeta &quot;Unvios fechos&quot;">
 <!ENTITY moveToSent.accesskey "M">
 <!ENTITY requestMDN.label "Cuando reciba una solicitú d'acuse de recibu:">
 <!ENTITY returnSome.label "Permitir acuse de recibu pa dalgunos mensaxes">
