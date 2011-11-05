@@ -64,6 +64,6 @@
 <!ENTITY  allowPagesToUse.label                   "Permitir a les páxines escoyer los sos propios colores, en cuenta de la mio seleición anterior.">
 <!ENTITY  allowPagesToUse.accesskey               "e">
 
-<!ENTITY languages.customize.Charset.grouplabel         "Codif. carauteres">
-<!ENTITY languages.customize.DefaultCharset.label       "Codif. carauteres predet.">
+<!ENTITY languages.customize.Charset.grouplabel         "Codif. caráuteres">
+<!ENTITY languages.customize.DefaultCharset.label       "Codif. caráuteres predet.">
 <!ENTITY languages.customize.DefaultCharset.accesskey   "C">
