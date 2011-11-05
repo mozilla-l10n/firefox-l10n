@@ -306,21 +306,8 @@
 <!ENTITY tagMenu.accesskey "М">
 <!ENTITY tagCustomize.label "Настроить…">
 <!ENTITY tagCustomize.accesskey "Н">
-<!ENTITY tagCmd0.key "0">
-<!ENTITY tagCmd1.key "1">
-<!ENTITY tagCmd2.key "2">
-<!ENTITY tagCmd3.key "3">
-<!ENTITY tagCmd4.key "4">
-<!ENTITY tagCmd5.key "5">
-<!ENTITY tagCmd6.key "6">
-<!ENTITY tagCmd7.key "7">
-<!ENTITY tagCmd8.key "8">
-<!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Отметить">
 <!ENTITY markMenu.accesskey "т">
-<!ENTITY markAsReadCmd.label "Как прочитанное">
-<!ENTITY markAsReadCmd.accesskey "ч">
-<!ENTITY markAsReadCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "Обсуждение как прочитанное">
 <!ENTITY markThreadAsReadCmd.accesskey "О">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -330,9 +317,6 @@
 <!ENTITY markAllReadCmd.label "Все как прочитанные">
 <!ENTITY markAllReadCmd.accesskey "В">
 <!ENTITY markAllReadCmd.key "c">
-<!ENTITY markFlaggedCmd.label "Флагом">
-<!ENTITY markFlaggedCmd.accesskey "Ф">
-<!ENTITY markFlaggedCmd.key "i">
 <!ENTITY markAsJunkCmd.label "Как спам">
 <!ENTITY markAsJunkCmd.accesskey "м">
 <!ENTITY markAsJunkCmd.key "j">
@@ -347,9 +331,6 @@
 <!ENTITY markAsNotPhishCmd.label "Как не мошенническое">
 <!ENTITY markAsNotPhishCmd.accesskey "н">
 <!ENTITY markAsNotPhishCmd.key "p">
-<!ENTITY openMessageWindowCmd.label "Открыть">
-<!ENTITY openMessageWindowCmd.accesskey "О">
-<!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY openFeedMessage.label "Открыть сообщение ленты новостей">
 <!ENTITY openFeedMessage.accesskey "т">
 <!ENTITY openFeedWebPageInWindow.label "Веб-страницу в новом окне">
