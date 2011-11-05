@@ -21,4 +21,5 @@
 <!ENTITY homepage.default                          "&brandShortName; Start">
 <!ENTITY homepage.currentpage                      "Aktiivne leht">
 <!ENTITY showCharsetEncoding.title                 "Kodeeringu kuvamine">
-<!ENTITY actionbar.default                         "&brandShortName;i Sätted">
+<!ENTITY actionbar.default                         "&brandShortName;i sätted">
+
