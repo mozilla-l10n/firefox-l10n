@@ -55,8 +55,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_textSize.accesskey "m">
 <!ENTITY menu_textEnlarge.label "Aumentar">
 <!ENTITY menu_textEnlarge.accesskey "A">
-<!ENTITY menu_textReduce.label "Reducir">
-<!ENTITY menu_textReduce.accesskey "d">
+<!ENTITY menu_textReduce.label "Amenorgar">
+<!ENTITY menu_textReduce.accesskey "m">
 <!ENTITY menu_textReset.label "Normal">
 <!ENTITY menu_textReset.accesskey "N">
 

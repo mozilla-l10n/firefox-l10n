@@ -37,11 +37,11 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY title.label        "Personalizar codificación de carauteres">
-<!ENTITY current.label      "Codificaciones de carauteres actives:">
+<!ENTITY title.label        "Personalizar codificación de caráuteres">
+<!ENTITY current.label      "Codificaciones de caráuteres actives:">
 <!ENTITY remove.label       "Desaniciar">
 <!ENTITY remove.accessKey   "E">
-<!ENTITY additional.label   "Codificaciones de carauteres disponibles:">
+<!ENTITY additional.label   "Codificaciones de caráuteres disponibles:">
 <!ENTITY add.label          "Amestar">
 <!ENTITY add.accessKey      "A">
 <!ENTITY moveUp.label       "Mover arriba">
