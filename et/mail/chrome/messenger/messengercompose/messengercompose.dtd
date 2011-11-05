@@ -94,7 +94,7 @@
 <!ENTITY viewToolbarsMenuNew.accesskey       "T">
 <!ENTITY menubarCmd.label                    "Menüüriba">
 <!ENTITY menubarCmd.accesskey                "M">
-<!ENTITY showCompositionToolbarCmd.label     "Koostamise tööriistariba">
+<!ENTITY showCompositionToolbarCmd.label     "Koostamisriba">
 <!ENTITY showCompositionToolbarCmd.accesskey "o">
 <!ENTITY showFormattingBarCmd.label          "Vorminguriba">
 <!ENTITY showFormattingBarCmd.accesskey      "V">

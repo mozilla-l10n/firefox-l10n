@@ -103,7 +103,7 @@
 <!ENTITY showImageLinkBorder.accessKey      "m">
 <!ENTITY LinkAdvancedEditButton.label       "Lingi täpsem muutmine…">
 <!ENTITY LinkAdvancedEditButton.accessKey   "L">
-<!ENTITY LinkAdvancedEditButton.tooltip     "Lisa või muuda HTMLi atribuute, stiilide atribuute ja JavaSkripti">
+<!ENTITY LinkAdvancedEditButton.tooltip     "Lisa või muuda HTMLi atribuute, stiilide atribuute ja JavaScripti">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label                "Vorm">
