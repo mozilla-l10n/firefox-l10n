@@ -10,3 +10,7 @@
 <!ENTITY prefCheckDefault.caption   "Integrácia do systému">
 <!ENTITY prefCheckDefaultClient.label "Pri štarte kontrolovať nastavenia predvolenej aplikácie">
 <!ENTITY prefCheckDefaultClient.accesskey "k">
+
+<!ENTITY crashReports.caption       "Správy o zlyhaní">
+<!ENTITY submitCrashes.label        "Odosielať správy o zlyhaní">
+<!ENTITY submitCrashes.accesskey    "O">

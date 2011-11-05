@@ -41,7 +41,6 @@
 <!ENTITY editRewrapCmd.label "Zalomiť znovu">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey  "m">
-<!ENTITY findCmd.label "Hľadať a nahradiť…">
 <!ENTITY accountManagerCmd.label "Nastavenia účtov pre Poštu a diskusné skupiny…">
 <!ENTITY accountManagerCmd.accesskey "N">
 
@@ -64,11 +63,6 @@
 <!ENTITY selectAddressCmd.label "Vybrať adresy…">
 <!ENTITY selectAddressCmd.key "">
 <!ENTITY selectAddressCmd.accesskey "r">
-
-<!ENTITY checkSpellingCmd2.label "Kontrola pravopisu…">
-<!ENTITY checkSpellingCmd2.accesskey "K">
-<!ENTITY enableInlineSpellChecker.label "Automatická kontrola pravopisu">
-<!ENTITY enableInlineSpellChecker.accesskey "A">
 
 <!ENTITY priorityMenu.label "Priorita">
 <!ENTITY priorityMenu.accesskey "P">

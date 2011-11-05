@@ -43,42 +43,14 @@
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
 <!-- File menu items -->
-<!ENTITY fileMenu.label "Súbor">
-<!ENTITY fileMenu.accesskey "S">
-<!ENTITY openFileCmd.label "Otvoriť súbor…">
-<!ENTITY openFileCmd.accesskey "O">
-<!ENTITY openFileCmd.key "O">
-<!ENTITY openRemoteCmd.label "Otvoriť miesto na webe…">
-<!ENTITY openRemoteCmd.accesskey "m">
-<!ENTITY openRemoteCmd.key "L">
-<!ENTITY fileRecentMenu.label "Naposledy použité stránky">
-<!ENTITY fileRecentMenu.accesskey "r">
-<!ENTITY fileRevert.label "Vrátiť sa k poslednému uloženiu">
-<!ENTITY fileRevert.accesskey "i">
-<!ENTITY saveCmd.label "Uložiť">
-<!ENTITY saveCmd.accesskey "U">
 <!ENTITY saveCmd.key "S">
-<!ENTITY saveAsCmd.label "Uložiť ako…">
-<!ENTITY saveAsCmd.accesskey "a">
-
-<!ENTITY publishCmd.label "Publikovať">
-<!ENTITY publishCmd.accesskey "P">
-<!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "Publikovať ako…">
-<!ENTITY publishAsCmd.accesskey "b">
-<!ENTITY saveAsChangeEncodingCmd.label "Uložiť a zmeniť kódovanie">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "k">
 
 <!-- Edit menu items -->
-<!ENTITY editMenu.label "Upraviť">
-<!ENTITY editMenu.accesskey "u">
 <!ENTITY pasteNoFormatting.label "Prilepiť bez formátovania">
 <!ENTITY pasteNoFormatting.accesskey "f">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Prilepiť ako">
 <!ENTITY pasteAs.accesskey "a">
-<!ENTITY publishSettings.label "Nastavenie servera na publikovanie…">
-<!ENTITY publishSettings.accesskey "b">
 
 <!ENTITY pasteAsQuotationCmd.label "Prilepiť ako citáciu">
 <!ENTITY pasteAsQuotationCmd.accesskey "c">
@@ -86,7 +58,7 @@
 <!ENTITY findCmd.label "Hľadať a nahradiť…">
 <!ENTITY enableInlineSpellChecker.label "Kontrolovať pravopis počas písania">
 <!ENTITY enableInlineSpellChecker.accesskey "K">
-<!ENTITY checkSpellingCmd2.label "Kontrola pravopisu">
+<!ENTITY checkSpellingCmd2.label "Kontrola pravopisu…">
 <!ENTITY checkSpellingCmd2.accesskey "p">
 <!ENTITY checkSpellingCmd2.key "P">
 
@@ -211,7 +183,7 @@
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Odstrániť pomenované kotvy">
 <!ENTITY formatRemoveNamedAnchors.accesskey "d">
-<!ENTITY formatRemoveNamedAnchors.key "A">
+<!ENTITY formatRemoveNamedAnchors2.key "R">
 
 <!ENTITY paragraphMenu.label "Odstavec">
 <!ENTITY paragraphMenu.accesskey "O">
