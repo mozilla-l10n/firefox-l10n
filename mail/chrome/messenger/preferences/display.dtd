@@ -30,9 +30,9 @@
 <!ENTITY editTagButton.accesskey "E">
 <!ENTITY removeTagButton.label "Desaniciar">
 <!ENTITY removeTagButton.accesskey "r">
-<!ENTITY fontsAndColors.label "Tribes de lletra">
-<!ENTITY defaultFont.label "Tribes de lletra por defeutu:">
-<!ENTITY defaultFont.accesskey "i">
+<!ENTITY fontsAndColors.label "Fontes de lletra">
+<!ENTITY defaultFont.label "Fontes de lletra por defeutu:">
+<!ENTITY defaultFont.accesskey "e">
 <!ENTITY defaultSize.label "Tamañu:">
 <!ENTITY defaultSize.accesskey "T">
 <!ENTITY fontOptions.accesskey "v">
