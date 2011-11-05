@@ -24,6 +24,9 @@
 <!ENTITY netInterrupt.title "Přenos dat přerušen">
 <!ENTITY netInterrupt.longDesc "<p>Podařilo se připojit k serveru, ale spojení bylo v průběhu přenosu přerušeno. Opakujte akci.</p><ul><li>Nemůžete-li prohlížet i ostatní stránky, zkontrolujte síťové připojení svého počítače.</li><li>Pokud problém přetrvává, konzultujte jej s svým síťovým administrátorem, nebo poskytovatelem připojení k Internetu.</li></ul>">
 
+<!ENTITY notCached.title "Platnost dokumentu vypršela">
+<!ENTITY notCached.longDesc "<p>Požadovaný dokument již není dostupný v mezipaměti aplikace.</p><ul><li>Z důvodů bezpečnosti &brandShortName; automaticky nestahuje důvěrné dokumenty.</li><li>Pro opětovné stažení dokumentu z webového serveru klepněte na tlačítko „Zkusit znovu“.</li></ul>">
+
 <!ENTITY netOffline.title "Režim offline">
 <!ENTITY netOffline.longDesc2 "<p>Prohlížeč je nyní v režimu offline a k požadované položce se nelze připojit.</p><ul><li>Je počítač připojen k funkční síti?</li><li>Pro přechod do režimu online a obnovení stránky klepněte na tlačítko „Zkusit znovu“.</li></ul>">
 
@@ -95,3 +98,4 @@
      Please, try to keep this at the end of the file. -->
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;
+;
