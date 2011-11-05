@@ -16,6 +16,7 @@
 <!ENTITY attachMenu.accesskey "P">
 <!ENTITY attachFileCmd.label "Súbor…">
 <!ENTITY attachFileCmd.accesskey "S">
+<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachPageCmd.label "Webovú stránku…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->

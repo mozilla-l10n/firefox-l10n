@@ -40,8 +40,8 @@
 
 <!ENTITY allowScripts.label             "Povoliť skriptom:">
 
-<!ENTITY moveResizeWindows.label        "Presúvať alebo meniť veľkosť okien">
-<!ENTITY moveResizeWindows.accesskey    "e">
+<!ENTITY moveResizePopupWindows.label     "Presúvať alebo meniť veľkosť vyskakovacích okien">
+<!ENTITY moveResizePopupWindows.accesskey "e">
 <!ENTITY raiseLowerWindows.label        "Premiestnenie okien do popredia alebo do pozadia">
 <!ENTITY raiseLowerWindows.accesskey    "o">
 <!ENTITY disableContextMenus.label      "Zakázať alebo nahradiť kontextovú ponuku">

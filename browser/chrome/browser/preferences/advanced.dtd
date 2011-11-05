@@ -58,22 +58,25 @@
 
 <!ENTITY updateTab.label                 "Aktualizácie">
 
-<!ENTITY autoCheck.label                 "Automaticky kontrolovať aktualizácie pre:">
-<!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate2.label       "Doplnky">
-<!ENTITY enableAddonsUpdate2.accesskey   "D">
-<!ENTITY enableSearchUpdate.label        "Vyhľadávacie moduly">
-<!ENTITY enableSearchUpdate.accesskey    "V">
-<!ENTITY whenUpdatesFound.label          "Ak sú dostupné aktualizácie pre &brandShortName;:">
-<!ENTITY askMe.label                     "Vždy sa opýtať, čo urobiť">
-<!ENTITY askMe.accesskey                 "o">
-<!ENTITY modeAutomatic.label             "Automaticky aktualizácie prevziať a nainštalovať">
-<!ENTITY modeAutomatic.accesskey         "A">
-<!ENTITY modeAutoAddonWarn.label         "Upozorniť, ak by nainštalovanie zakázalo niektoré doplnky">
-<!ENTITY modeAutoAddonWarn.accesskey     "U">
+<!ENTITY updateApp.label                 "Aktualizácie prehliadača &brandShortName;">
+<!ENTITY updateAuto.label                "Automaticky inštalovať aktualizácie (odporúčané z dôvodu zvýšenej bezpečnosti)">
+<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateCheck.label               "Vyhľadávať aktualizácie, ale poskytnúť možnosť zvoliť, či sa nainštalujú">
+<!ENTITY updateCheck.accesskey           "k">
+<!ENTITY updateManual.label              "Nevyhľadávať aktualizácie (neodporúča sa z dôvodu zníženej bezpečnosti)">
+<!ENTITY updateManual.accesskey          "N">
+
+<!ENTITY updateAutoAddonWarn.label       "Upozorniť, ak by nainštalovanie zakázalo niektoré doplnky">
+<!ENTITY updateAutoAddonWarn.accesskey   "U">
+
 <!ENTITY updateHistory.label             "Zobraziť históriu aktualizácií">
 <!ENTITY updateHistory.accesskey         "h">
+
+<!ENTITY updateOthers.label              "Automaticky aktualizovať:">
+<!ENTITY enableAddonsUpdate3.label       "Doplnky">
+<!ENTITY enableAddonsUpdate3.accesskey   "D">
+<!ENTITY enableSearchUpdate.label        "Vyhľadávacie moduly">
+<!ENTITY enableSearchUpdate.accesskey    "V">
 
 <!ENTITY offlineNotify.label             "Upozorniť, ak stránka ponúka možnosť uložiť údaje na použitie v režime offline">
 <!ENTITY offlineNotify.accesskey         "U">
