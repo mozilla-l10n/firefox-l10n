@@ -11,6 +11,7 @@
 <!ENTITY email.accesskey            "E">
 <!ENTITY replyTo.label              "Vastuse aadress:">
 <!ENTITY replyTo.accesskey          "s">
+<!ENTITY replyTo.placeholder        "Saajad vastavad sellele teisele aadressile">
 <!ENTITY organization.label         "Organisatsioon:">
 <!ENTITY organization.accesskey     "O">
 <!ENTITY signatureText.label        "Signatuur:">
