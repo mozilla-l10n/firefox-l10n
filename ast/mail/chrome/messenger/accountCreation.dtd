@@ -1,8 +1,8 @@
 <!ENTITY autoconfigWizard.title "Configuración de cuenta de corréu">
 <!ENTITY name.label "Nome:">
-<!ENTITY name.accesskey "S">
+<!ENTITY name.accesskey "N">
 <!ENTITY name.placeholder "Nome y apellíos">
-<!ENTITY name.text "Nome, talo y como s'amuesa a los demás">
+<!ENTITY name.text "El nome que se va amosar a los demás">
 <!ENTITY email.label "Direición de corréu:">
 <!ENTITY email.accesskey "D">
 <!ENTITY email.placeholder "email@exemplu.com">
