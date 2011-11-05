@@ -1,5 +1,5 @@
 <!-- extracted from charsetOverlay.xul -->
-<!ENTITY charsetMenu.label             "Codificación de carauteres">
+<!ENTITY charsetMenu.label             "Codificación de caráuteres">
 <!ENTITY charsetMenu.accesskey         "C">
 <!ENTITY charsetMenuAutodet.label      "Auto-Deteutar">
 <!ENTITY charsetMenuAutodet.accesskey  "a">
