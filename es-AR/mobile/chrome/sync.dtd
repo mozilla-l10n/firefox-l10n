@@ -19,4 +19,10 @@
 <!ENTITY sync.setup.connect         "Conectar">
 <!ENTITY sync.setup.cancel          "Cancelar">
 <!ENTITY sync.setup.tutorial        "Mostrarme cómo">
-<!ENTITY sync.setup.waiting         "Asociación en proceso…">
+<!ENTITY sync.setup.waiting2        "Esperando al otro dispositivo…">
+
+<!ENTITY sync.pair.title            "Asociar un dispositivo">
+<!ENTITY sync.pair.description      "Para activar tu nuevo dispositivo, seleccioná &#x0022;Configurar Sync&#x0022; en el dispositivo.">
+<!ENTITY sync.setup.close           "Cerrar">
+<!ENTITY sync.setup.waitingdownload "Tus datos ahora están siendo descargados en segundo plano. Podés cerrar esta ventana en cualquier momento.">
+
