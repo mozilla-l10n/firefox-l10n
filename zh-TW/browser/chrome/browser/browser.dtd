@@ -217,6 +217,8 @@ can reach it easily. -->
 <!ENTITY inspectButton.label            "檢測">
 <!ENTITY inspectButton.accesskey        "I">
 <!ENTITY inspectCloseButton.tooltiptext "關閉檢測器">
+<!ENTITY inspectStyleButton.label     "樣式">
+<!ENTITY inspectStyleButton.accesskey "S">
 
 <!ENTITY getMoreDevtoolsCmd.label        "取得更多工具">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "M">
