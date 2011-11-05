@@ -213,7 +213,7 @@
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Ta bort namngivna ankare">
 <!ENTITY formatRemoveNamedAnchors.accesskey "a">
-<!ENTITY formatRemoveNamedAnchors.key "A">
+<!ENTITY formatRemoveNamedAnchors2.key "R">
 
 <!ENTITY paragraphMenu.label "Stycke">
 <!ENTITY paragraphMenu.accesskey "y">
