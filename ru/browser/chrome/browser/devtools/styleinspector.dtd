@@ -1,5 +1,9 @@
 <!ENTITY userStylesLabel "Только стили пользователя">
-<!ENTITY lookingAtLabel "Смотрим на:">
+<!ENTITY userStylesSearch "Поиск">
+<!ENTITY selectedElementLabel "Выбранный элемент:">
 <!ENTITY helpLinkTitle "Прочесть документацию по этому свойству">
-<!ENTITY matchedSelectors "Подошедшие селекторы">
 <!ENTITY unmatchedSelectors "Неподошедшие селекторы">
+<!ENTITY bestMatch "Лучшее совпадение">
+<!ENTITY matched "Подошло">
+<!ENTITY parentMatch "Подошедший родитель">
+<!ENTITY unmatched "Не подошло">
