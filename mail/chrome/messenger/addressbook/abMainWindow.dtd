@@ -1,6 +1,6 @@
 <!ENTITY addressbookWindow.title "Llibreta de direiciones">
 <!ENTITY fileMenu.label "Ficheru">
-<!ENTITY fileMenu.accesskey "u">
+<!ENTITY fileMenu.accesskey "i">
 <!ENTITY newMenu.label "Nuevu">
 <!ENTITY newMenu.accesskey "N">
 <!ENTITY newContact.label "Contautu de la llibreta de direiciones…">
@@ -91,7 +91,7 @@
 <!ENTITY sortMenu.label "Ordenar por">
 <!ENTITY sortMenu.accesskey "O">
 <!ENTITY tasksMenu.label "Ferramientes">
-<!ENTITY tasksMenu.accesskey "T">
+<!ENTITY tasksMenu.accesskey "e">
 <!ENTITY messengerCmd.label "Corréu y noticies">
 <!ENTITY messengerCmd.accesskey "o">
 <!ENTITY messengerCmd.commandkey "1">
