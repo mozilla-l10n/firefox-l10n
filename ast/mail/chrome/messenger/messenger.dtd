@@ -474,7 +474,7 @@
 <!ENTITY searchItem.title "Gueta rápida">
 <!ENTITY mailViewsToolbarItem.title "Vistes de corréu">
 <!ENTITY folderLocationToolbarItem.title "Llocalización de la carpeta">
-<!ENTITY tagButton.label "Etiqueta">
+<!ENTITY tagButton.label "Etiquetes">
 <!ENTITY compactButton.label "Compautar">
 <!ENTITY advancedButton.tooltip "Gueta avanzada de mensaxes">
 <!ENTITY getMsgButton.tooltip "Recibir mensaxes nuevos">
