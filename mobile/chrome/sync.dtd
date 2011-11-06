@@ -20,5 +20,8 @@
 <!ENTITY sync.setup.cancel "Zrušit">
 <!ENTITY sync.setup.tutorial "Zobrazit nápovědu">
 <!ENTITY sync.setup.waiting "Probíhá připojování…">
+
+<!ENTITY sync.pair.title "Připojit zařízení">
+<!ENTITY sync.pair.description "Na připojovaném zařízení zvolte „Nastavit Sync“.">
 <!ENTITY sync.setup.close "Zavřít">
 <!ENTITY sync.setup.waitingdownload "Vaše data jsou nyní stahována na pozadí. Toto okno můžete nyní zavřít.">
