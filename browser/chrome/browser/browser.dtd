@@ -216,6 +216,8 @@ can reach it easily. -->
 <!ENTITY inspectButton.label            "Examiner">
 <!ENTITY inspectButton.accesskey        "E">
 <!ENTITY inspectCloseButton.tooltiptext "Fermer l'inspecteur">
+<!ENTITY inspectStyleButton.label     "Style">
+<!ENTITY inspectStyleButton.accesskey "S">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Obtenir d'autres outils">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "b">
