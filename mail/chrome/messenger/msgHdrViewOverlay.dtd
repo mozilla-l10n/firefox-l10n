@@ -81,7 +81,7 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Πάντα προβολή του Απάντηση στον αποστολέα">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "β">
 
-<!ENTITY otherActionsButton1.label "Άλλες ενέργειας">
+<!ENTITY otherActionsButton1.label "Άλλες ενέργειες">
 <!ENTITY otherActionsOpenConversation1.label "Άνοιγμα σε λειτουργία συζήτησης">
 <!ENTITY otherActionsOpenConversation1.accesskey "ζ">
 <!ENTITY otherActionsOpenInNewWindow1.label "Άνοιγμα σε νέο παράθυρο">
@@ -112,7 +112,7 @@
 <!ENTITY openAllAttachmentsCmd.accesskey    "λ">
 <!ENTITY saveAllAttachmentsCmd.label    "Αποθήκευση όλων…">
 <!ENTITY saveAllAttachmentsCmd.accesskey    "θ">
-<!ENTITY detachAllAttachmentsCmd.label    "Απόσπαση όλων…">
+<!ENTITY detachAllAttachmentsCmd.label    "Απόσέερπαση όλων…">
 <!ENTITY detachAllAttachmentsCmd.accesskey    "σ">
 <!ENTITY deleteAllAttachmentsCmd.label    "Διαγραφή όλων…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "φ">
