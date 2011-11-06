@@ -369,10 +369,10 @@
 <!ENTITY markMenu.label "Σημείωση">
 <!ENTITY markMenu.accesskey "μ">
 <!ENTITY toggleReadCmd.key "m">
-<!ENTITY markAsReadCmd.label "Ως αναγνωσμένα">
+<!ENTITY markAsReadCmd.label "Ως αναγνωσμένο">
 <!ENTITY markAsReadCmd.accesskey "σ">
-<!ENTITY markAsUnreadCmd.label "As Unread">
-<!ENTITY markAsUnreadCmd.accesskey "U">
+<!ENTITY markAsUnreadCmd.label "Ως μη αναγνωσμένο">
+<!ENTITY markAsUnreadCmd.accesskey "μ">
 <!ENTITY markThreadAsReadCmd.label "Αλληλουχίας ως αναγνωσμένης">
 <!ENTITY markThreadAsReadCmd.accesskey "η">
 <!ENTITY markThreadAsReadCmd.key "r">
