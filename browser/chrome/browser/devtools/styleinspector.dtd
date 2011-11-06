@@ -1,5 +1,9 @@
 <!ENTITY userStylesLabel "Solo stili utente">
-<!ENTITY lookingAtLabel "Elemento analizzato:">
+<!ENTITY userStylesSearch "Cerca">
+<!ENTITY selectedElementLabel "Elemento selezionato:">
 <!ENTITY helpLinkTitle "Leggi la documentazione relativa a questa proprietà">
-<!ENTITY matchedSelectors "Selettori con corrispondenza">
 <!ENTITY unmatchedSelectors "Selettori senza corrispondenza">
+<!ENTITY bestMatch "Miglior corrispondenza">
+<!ENTITY matched "Corrispondenza">
+<!ENTITY parentMatch "Corrispondenza genitore">
+<!ENTITY unmatched "Nessuna corrispondenza">
