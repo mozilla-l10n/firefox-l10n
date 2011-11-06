@@ -20,5 +20,8 @@
 <!ENTITY sync.setup.cancel          "Annuler">
 <!ENTITY sync.setup.tutorial        "Guide">
 <!ENTITY sync.setup.waiting         "Association en cours…">
+
+<!ENTITY sync.pair.title            "Associer un appareil">
+<!ENTITY sync.pair.description      "Pour activer votre nouvel appareil, choisissez &#x0022;Configurer la synchronisation&#x0022; sur celui-ci.">
 <!ENTITY sync.setup.close           "Fermer">
-<!ENTITY sync.setup.waitingdownload "Vos données sont téléchargées en arrière-plan. Vous pouvez fermer ce dialogue quand vous voulez.">
+<!ENTITY sync.setup.waitingdownload "Vos données sont téléchargées en arrière-plan. Vous pouvez fermer ce dialogue quand vous le désirez.">
