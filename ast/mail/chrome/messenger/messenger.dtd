@@ -568,7 +568,7 @@
 <!ENTITY receivedColumn.label "Recibío">
 <!ENTITY starredColumn.label "Con estrella">
 <!ENTITY locationColumn.label "Llocalización">
-<!ENTITY idColumn.label "Orden de receición">
+<!ENTITY idColumn.label "Orde de receición">
 <!ENTITY attachmentColumn.label "Axuntos">
 <!ENTITY columnChooser.tooltip "Calca pa esbillar les columnes a amosar">
 <!ENTITY threadColumn.tooltip "Calca p'amosar los mensaxes agrupaos por conversaciones">
