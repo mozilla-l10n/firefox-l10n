@@ -21,6 +21,7 @@
 <!ENTITY aboutSupport.appBasicsBuildConfig "Utjeftekonfiguraasje">
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
 <!ENTITY aboutSupport.appBasicsCrashIDs "Ungelokrapporten">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Unthâldgebrûk">
 
 <!ENTITY aboutSupport.show.label "Byhearrende map iepenje">
 
