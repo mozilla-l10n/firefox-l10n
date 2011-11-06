@@ -81,9 +81,9 @@
 <!ENTITY viewToolbarsMenu.accesskey "V">
 <!ENTITY menubarCmd.label                               "Menulinje">
 <!ENTITY menubarCmd.accesskey                           "e">
-<!ENTITY showAbToolbarCmd.label "Adressebogslinjen">
+<!ENTITY showAbToolbarCmd.label "Adressebogslinje">
 <!ENTITY showAbToolbarCmd.accesskey "A">
-<!ENTITY showTaskbarCmd.label "Statuslinjen">
+<!ENTITY showTaskbarCmd.label "Statuslinje">
 <!ENTITY showTaskbarCmd.accesskey "S">
 <!ENTITY customizeToolbar.label "Tilpas…">
 <!ENTITY customizeToolbar.accesskey "T">
