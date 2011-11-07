@@ -3,9 +3,9 @@
 <!ENTITY level.label "Activar en quest conto il filter per e-mails nungiavischads">
 <!ENTITY level.accesskey "E">
 
-<!ENTITY move.label "Spustar novs messadis nungiavischads a:">
+<!ENTITY move.label "Spustar novs messadis nungiavischads en:">
 <!ENTITY move.accesskey "M">
-<!ENTITY junkFolderOn.label "Ordinatur &quot;Nungiavischà&quot; en:">
+<!ENTITY junkFolderOn.label "L'ordinatur &quot;Nungiavischà&quot; da:">
 <!ENTITY junkFolderOn.accesskey "N">
 <!ENTITY otherFolder.label "Auter ordinatur:">
 <!ENTITY otherFolder.accesskey "O">

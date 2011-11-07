@@ -103,7 +103,7 @@
 <!ENTITY showImageLinkBorder.accessKey "M">
 <!ENTITY LinkAdvancedEditButton.label "Modifitgar la colliaziun a moda extendida…">
 <!ENTITY LinkAdvancedEditButton.accessKey "l">
-<!ENTITY LinkAdvancedEditButton.tooltip "Agiuntar u modifitgar attributs da HTML, da stil e JavaScript">
+<!ENTITY LinkAdvancedEditButton.tooltip "Agiuntar u modifitgar JavaScript ed attributs da HTML e da stil">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "Formular">

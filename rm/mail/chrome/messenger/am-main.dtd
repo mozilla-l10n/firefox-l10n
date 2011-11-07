@@ -11,7 +11,7 @@
 <!ENTITY email.accesskey "E">
 <!ENTITY replyTo.label "Adressa per resposta:">
 <!ENTITY replyTo.accesskey "s">
-<!ENTITY replyTo.placeholder "Destinaturs vegnan a respunder a questa autra adressa">
+<!ENTITY replyTo.placeholder "Destinaturs vegnan a respunder a questa adressa">
 <!ENTITY organization.label "Organisaziun:">
 <!ENTITY organization.accesskey "O">
 <!ENTITY signatureText.label "Text da la suttascripziun:">
