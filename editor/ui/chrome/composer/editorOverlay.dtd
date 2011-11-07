@@ -85,7 +85,7 @@
 <!ENTITY findCmd.label "Tschertgar e remplazzar…">
 <!ENTITY enableInlineSpellChecker.label "Controllar l'ortografia durant tippar">
 <!ENTITY enableInlineSpellChecker.accesskey "t">
-<!ENTITY checkSpellingCmd2.label "Controllar l'ortografia">
+<!ENTITY checkSpellingCmd2.label "Controllar l'ortografia…">
 <!ENTITY checkSpellingCmd2.accesskey "C">
 <!ENTITY checkSpellingCmd2.key "P">
 

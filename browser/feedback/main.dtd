@@ -27,7 +27,7 @@
 <!-- Firefox 4 beta version UI -->
 <!ENTITY testpilot.enable.label                        "Activar ils studis dad utilisaziun">
 <!ENTITY testpilot.feedbackbutton.label                "Resun">
-<!ENTITY testpilot.happy.label        "Jau sun cuntent cun Firefox perquai che…">
-<!ENTITY testpilot.sad.label          "Jau na sun betg cuntent cun Firefox perquai che…">
+<!ENTITY testpilot.happy.label        "Jau sun cuntent(a) cun Firefox perquai che…">
+<!ENTITY testpilot.sad.label          "Jau na sun betg cuntent(a) cun Firefox perquai che…">
 <!ENTITY testpilot.broken.label       "Annunziar questa website sco donnegiada…">
 <!ENTITY testpilot.idea.label         "Ans trametta tia idea…">
