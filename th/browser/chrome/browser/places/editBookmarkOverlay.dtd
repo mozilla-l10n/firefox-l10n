@@ -6,7 +6,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey "ฟ">
 <!ENTITY editBookmarkOverlay.siteLocation.label "ที่ตั้งของไซต์ :">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey "ซ">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label "ไลฟ์ไตเติ้ล">
 <!ENTITY editBookmarkOverlay.folder.label "โฟลเดอร์ :">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip "แสดงโฟลเดอร์ที่คั่นหน้าทั้งหมด">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip "ซ่อน">
