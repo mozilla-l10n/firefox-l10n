@@ -1,7 +1,7 @@
 <!ENTITY firstrun.title                "ยินดีต้อนรับสู่ &brandShortName;">
 <!ENTITY firstrun.heading2             "ยินดีต้อนรับสู่ &brandShortName;">
 <!ENTITY firstrun.sync2.title          "เริ่ม Sync">
-<!ENTITY firstrun.sync2.description    "ล็อกอินด้วยบัญชี Sync ของคุณ และแชร์ประวัติการท่องเว็บ, รหัสผ่าน, ที่คั่นหน้าเว็บ และแท็บ ระหว่างอุปกรณ์พกพาและตั้งโต๊ะ">
+<!ENTITY firstrun.sync2.description    "ล็อกอินด้วยบัญชี Sync ของคุณ และแชร์ประวัติการท่องเว็บ, รหัสผ่าน, ที่คั่นหน้า และแท็บ ระหว่างอุปกรณ์พกพาและตั้งโต๊ะ">
 <!ENTITY firstrun.addons2.title        "ปรับแต่ง">
 <!ENTITY firstrun.addons2.description  "ค้นหาและติดตั้งส่วนเสริมเพื่อเพิ่มความสามารถให้ &brandShortName; ของคุณ">
 <!ENTITY firstrun.home2.title          "เรียกดู">

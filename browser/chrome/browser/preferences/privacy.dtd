@@ -5,9 +5,9 @@
 <!ENTITY  locbar.pre.label              "เมื่อใช้แถบที่อยู่ ให้เสนอแนะ :">
 <!ENTITY  locbar.pre.accessKey          "ท">
 <!ENTITY  locbar.post.label             "">
-<!ENTITY  locbar.both.label             "ประวัติและที่คั่นหน้าเว็บ">
+<!ENTITY  locbar.both.label             "ประวัติและที่คั่นหน้า">
 <!ENTITY  locbar.history.label          "ประวัติ">
-<!ENTITY  locbar.bookmarks.label        "ที่คั่นหน้าเว็บ">
+<!ENTITY  locbar.bookmarks.label        "ที่คั่นหน้า">
 <!ENTITY  locbar.nothing.label          "ไม่เสนอแนะเลย">
 
 <!ENTITY acceptCookies.label "รับคุกกี้จากเว็บไซต์">

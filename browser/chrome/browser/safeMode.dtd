@@ -48,7 +48,7 @@
 <!ENTITY resetToolbars.label "ตั้งค่าแถบเครื่องมือและตัวควบคุมไปยังค่าตั้งต้น">
 <!ENTITY resetToolbars.accesskey "ต">
 
-<!ENTITY deleteBookmarks.label        "ลบที่คั่นหน้าเว็บทั้งหมดยกเว้นที่สำรองไว้">
+<!ENTITY deleteBookmarks.label        "ลบที่คั่นหน้าทั้งหมดยกเว้นที่สำรองไว้">
 <!ENTITY deleteBookmarks.accesskey    "ส">
 
 <!ENTITY resetUserPrefs.label "ตั้งค่าการปรับแต่งของผู้ใช้ทั้งหมดไปยังค่าปริยายของ &brandShortName;">

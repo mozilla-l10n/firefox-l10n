@@ -65,9 +65,9 @@ can reach it easily. -->
 <!ENTITY menubarCmd.accesskey "ถ">
 <!ENTITY navbarCmd.label "แถบเครื่องมือนำทาง">
 <!ENTITY navbarCmd.accesskey "น">
-<!ENTITY personalbarCmd.label "แถบเครื่องมือที่คั่นหน้าเว็บ">
+<!ENTITY personalbarCmd.label "แถบเครื่องมือที่คั่นหน้า">
 <!ENTITY personalbarCmd.accesskey "ค">
-<!ENTITY bookmarksToolbarItem.label "แถบเครื่องมือรายการที่คั่นหน้าเว็บ">
+<!ENTITY bookmarksToolbarItem.label "แถบเครื่องมือรายการที่คั่นหน้า">
 <!ENTITY addonBarCmd.label "แถบส่วนเสริม">
 <!ENTITY addonBarCmd.accesskey "ส">
 
@@ -94,16 +94,16 @@ can reach it easily. -->
 <!ENTITY closeWindow.label "ปิดหน้าต่าง">
 <!ENTITY closeWindow.accesskey "ด">
 
-<!ENTITY bookmarksMenu.label "ที่คั่นหน้าเว็บ">
+<!ENTITY bookmarksMenu.label "ที่คั่นหน้า">
 <!ENTITY bookmarksMenu.accesskey "น">
 <!ENTITY bookmarkThisPageCmd.label "คั่นหน้าเว็บนี้">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY subscribeToPageMenupopup.label "บอกรับหน้านี้">
 <!ENTITY subscribeToPageMenuitem.label "บอกรับหน้านี้…">
 <!ENTITY addCurPagesCmd.label "คั่นทุกแท็บ…">
-<!ENTITY showAllBookmarks2.label "แสดงที่คั่นหน้าเว็บทั้งหมด">
+<!ENTITY showAllBookmarks2.label "แสดงที่คั่นหน้าทั้งหมด">
 <!ENTITY unsortedBookmarksCmd.label "ที่คั่นหน้าที่ไม่เรียงลำดับ">
-<!ENTITY bookmarksToolbarChevron.tooltip "แสดงที่คั่นหน้าเว็บอื่น ๆ ด้วย">
+<!ENTITY bookmarksToolbarChevron.tooltip "แสดงที่คั่นหน้าอื่น ๆ ด้วย">
 
 <!ENTITY backCmd.label "ย้อนกลับ">
 <!ENTITY backCmd.accesskey "ย">
@@ -128,7 +128,7 @@ can reach it easily. -->
 <!ENTITY locationItem.title "ที่ตั้ง">
 <!ENTITY searchItem.title "ค้นหา">
 <!ENTITY throbberItem.title "ตัวบ่งชี้กิจกรรม">
-<!ENTITY bookmarksItem.title "ที่คั่นหน้าเว็บ">
+<!ENTITY bookmarksItem.title "ที่คั่นหน้า">
 
 <!-- Toolbar items -->
 <!ENTITY appMenuButton.label          "เมนู">
@@ -138,16 +138,16 @@ can reach it easily. -->
 <!ENTITY tabGroupsButton.label        "กลุ่มแท็บ">
 <!ENTITY tabGroupsButton.tooltip      "จัดกลุ่มแท็บของคุณ">
 
-<!ENTITY bookmarksButton.label "ที่คั่นหน้าเว็บ">
-<!ENTITY bookmarksButton.tooltip "แสดงที่คั่นหน้าเว็บ">
+<!ENTITY bookmarksButton.label "ที่คั่นหน้า">
+<!ENTITY bookmarksButton.tooltip "แสดงที่คั่นหน้า">
 <!ENTITY bookmarksButton.accesskey  "ว">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "ที่คั่นหน้าเว็บ">
-<!ENTITY bookmarksMenuButton.tooltip        "แสดงที่คั่นหน้าเว็บของคุณ">
-<!ENTITY bookmarksMenuButton.unsorted.label "ที่คั่นหน้าเว็บที่ยังไม่ได้เรียง">
+<!ENTITY bookmarksMenuButton.label          "ที่คั่นหน้า">
+<!ENTITY bookmarksMenuButton.tooltip        "แสดงที่คั่นหน้าของคุณ">
+<!ENTITY bookmarksMenuButton.unsorted.label "ที่คั่นหน้าที่ยังไม่ได้เรียง">
 <!ENTITY viewBookmarksSidebar.label         "แสดงในแถบข้าง">
-<!ENTITY viewBookmarksToolbar.label         "ดูแถบเครื่องมือที่คั่นหน้าเว็บ">
+<!ENTITY viewBookmarksToolbar.label         "ดูแถบเครื่องมือที่คั่นหน้า">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -292,7 +292,7 @@ can reach it easily. -->
 <!ENTITY appMenuToolbarLayout.label "รูปแบบแถบเครื่องมือ…">
 <!ENTITY appMenuSidebars.label "แถบข้าง">
 <!ENTITY appMenuFind.label "ค้นหา…">
-<!ENTITY appMenuUnsorted.label "ที่คั่นหน้าเว็บที่ยังไม่ได้เรียงลำดับ">
+<!ENTITY appMenuUnsorted.label "ที่คั่นหน้าที่ยังไม่ได้เรียงลำดับ">
 <!ENTITY appMenuWebDeveloper.label "นักพัฒนาเว็บ">
 <!ENTITY appMenuGettingStarted.label "เริ่มต้น">
 <!ENTITY appMenuSafeMode.label "เริ่มใหม่และปิดใช้งานส่วนเสริม…">
