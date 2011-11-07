@@ -25,7 +25,7 @@
 <!ENTITY confirm.heading             "Seleccioneu els vostres complements">
 <!-- LOCALIZATION NOTE (confirm.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
-<!ENTITY confirm.description         "Inhabiliteu els complements que ja no fareu servir més per fer que el &brandShortName; vagi encara més ràpid. Per això s'inhabilitaran els complements que han instal·lat aplicacions de tercers a no ser que els seleccioneu a continuació.">
+<!ENTITY confirm.description         "Inhabiliteu els complements que ja no fareu servir més per fer que el &brandShortName; vagi encara més ràpid. Per això s'inhabilitaran els complements que han instal·lat aplicacions de tercers llevat que els seleccioneu a continuació.">
 
 <!ENTITY action.disable.heading      "S'inhabilitaran els següents complements:">
 <!ENTITY action.incompatible.heading "S'inhabilitaran els següents complements, però es tornaran a habilitar quan hi hagi una actualització compatible:">
