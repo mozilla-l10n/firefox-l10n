@@ -13,9 +13,10 @@
 <!ENTITY manageAccount.label          "จัดการบัญชีผู้ใช้">
 <!ENTITY manageAccount.accesskey      "จ">
 <!ENTITY viewQuota.label              "ดูโควตา">
-<!ENTITY changePassword.label         "เปลี่ยนรหัสผ่าน">
-<!ENTITY mySyncKey.label              "กุญแจ Sync ของฉัน">
-<!ENTITY resetSync.label              "ล้าง Sync">
+<!ENTITY changePassword2.label        "เปลี่ยนรหัสผ่าน…">
+<!ENTITY myRecoveryKey.label          "กุญแจกู้ข้อมูลของฉัน">
+<!ENTITY resetSync2.label             "ล้าง Sync…">
+
 <!ENTITY addDevice.label              "เพิ่มอุปกรณ์">
 
 <!ENTITY syncMy.label               "ผสานข้อมูล">
@@ -33,7 +34,7 @@
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label       "ชื่อคอมพิวเตอร์:">
 <!ENTITY syncComputerName.accesskey   "ค">
-<!ENTITY deactivateDevice.label       "เลิกใช้งานอุปกรณ์นี้">
+<!ENTITY unlinkDevice.label           "ยกเลิกการเชื่อมโยงอุปกรณ์นี้">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "ข้อกำหนดการให้บริการ">
