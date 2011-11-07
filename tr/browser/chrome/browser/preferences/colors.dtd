@@ -1,22 +1,22 @@
-<!ENTITY colorsDialog.title "Renkler">
-<!ENTITY window.width "42em">
-<!ENTITY window.macWidth "42em">
+<!ENTITY  colorsDialog.title              "Renkler">
+<!ENTITY  window.width                    "42em">
+<!ENTITY  window.macWidth                 "42em">
 
-<!ENTITY allowPagesToUse.label "Yukarıdaki seçimlerin yerine, sayfaların kendi renklerini seçmelerine izin ver">
-<!ENTITY allowPagesToUse.accesskey "s">
+<!ENTITY  allowPagesToUse.label           "Yukarıdaki seçimlerin yerine, sayfaların kendi renklerini seçmelerine izin ver">
+<!ENTITY  allowPagesToUse.accesskey       "s">
 
-<!ENTITY color "Metin ve Arka Plan">
-<!ENTITY textColor.label "Metin:">
-<!ENTITY textColor.accesskey "t">
-<!ENTITY backgroundColor.label "Arka Plan:">
-<!ENTITY backgroundColor.accesskey "P">
-<!ENTITY useSystemColors.label "Sistem renklerini kullan">
-<!ENTITY useSystemColors.accesskey "S">
+<!ENTITY  color                           "Metin ve Arka Plan">
+<!ENTITY  textColor.label                 "Metin:">
+<!ENTITY  textColor.accesskey             "t">
+<!ENTITY  backgroundColor.label           "Arka Plan:">
+<!ENTITY  backgroundColor.accesskey       "P">
+<!ENTITY  useSystemColors.label           "Sistem renklerini kullan">
+<!ENTITY  useSystemColors.accesskey       "S">
 
-<!ENTITY underlineLinks.label "Bağlantıların altını çiz">
-<!ENTITY underlineLinks.accesskey "ı">
-<!ENTITY links "Bağlantı Renkleri">
-<!ENTITY linkColor.label "Ziyaret edilmemiş bağlantılar:">
-<!ENTITY linkColor.accesskey "l">
-<!ENTITY visitedLinkColor.label "Ziyaret edilmiş bağlantılar:">
-<!ENTITY visitedLinkColor.accesskey "Z">
+<!ENTITY  underlineLinks.label            "Bağlantıların altını çiz">
+<!ENTITY  underlineLinks.accesskey        "ı">
+<!ENTITY  links                           "Bağlantı Renkleri">
+<!ENTITY  linkColor.label                 "Ziyaret edilmemiş bağlantılar:">
+<!ENTITY  linkColor.accesskey             "l">
+<!ENTITY  visitedLinkColor.label          "Ziyaret edilmiş bağlantılar:">
+<!ENTITY  visitedLinkColor.accesskey      "Z">

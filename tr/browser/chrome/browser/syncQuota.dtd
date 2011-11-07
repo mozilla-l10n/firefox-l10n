@@ -1,4 +1,4 @@
-<!ENTITY quota.dialogTitle.label "Sunucu sınırı">
+<!ENTITY quota.dialogTitle.label    "Sunucu sınırı">
 <!ENTITY quota.retrievingInfo.label "Sınır bilgisi alınıyor...">
-<!ENTITY quota.typeColumn.label "Türü">
-<!ENTITY quota.sizeColumn.label "Boyut">
+<!ENTITY quota.typeColumn.label     "Türü">
+<!ENTITY quota.sizeColumn.label     "Boyut">

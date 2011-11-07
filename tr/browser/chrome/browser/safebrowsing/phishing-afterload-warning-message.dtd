@@ -11,16 +11,16 @@
 <!ENTITY safeb.palm.accept.label "Beni buradan kurtar!">
 <!ENTITY safeb.palm.accept.statustext "Başlangıç sayfama git">
 <!ENTITY safeb.palm.decline.label "Bu uyarıyı yok say">
-<!ENTITY safeb.palm.decline.statustext "Uyarıyı kapat">
+<!ENTITY safeb.palm.decline.statustext "Uyarıyı kapat" >
 <!ENTITY safeb.palm.notforgery.label2 "Bu sahtekârlık değil…">
 <!ENTITY safeb.palm.reportPage.label "Bu site neden engellendi?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Saldırgan olarak bildirilmiş site!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "<span id='malware_sitename'/> konumundaki sitenin saldırı sitesi olduğu bildirildi ve açılması güvenlik tercihlerinize dayanılarak engellendi.">
+<!ENTITY safeb.blocked.malwarePage.shortDesc "This web page at <span id='malware_sitename'/> has been reported as an attack page and has been blocked based on your security preferences.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Saldırı sitesi olarak tanımlanan siteler özel bilgilerinizi çalan, bilgisayarınızı başkalarına saldırı amacıyla kullanan ya da sisteminize zarar veren programları kurmaya çalışan sitelerdir.</p><p>Bazı saldırı siteleri zararlı yazılımları bilerek dağıtırken, çoğu site, sahibinin bilgisi ve izni dışında bu amaçla kullanılır.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title "Sahtekâr olarak bildirilmiş site!">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc "<span id='phishing_sitename'/> konumundaki sitenin sahtekârlık (yemleme) sitesi olduğu bildirildi ve açılması güvenlik tercihlerinize dayanılarak engellendi.">
+<!ENTITY safeb.blocked.phishingPage.shortDesc "This web page at <span id='phishing_sitename'/> has been reported as a web forgery and has been blocked based on your security preferences.">
 <!ENTITY safeb.blocked.phishingPage.longDesc "<p>Bu tür sahtekârlık girişimleriyle güvenebileceğiniz kuruluşlar taklit edilerek sizden kişisel veya mali bilgileriniz sızdırılmaya çalışılır.</p><p>Bu sayfada gerçekleşecek herhangi bir bilgi girişi, kimlik hırsızlığı ya da başka tür dolandırıcılıkla son bulabilir.</p>">

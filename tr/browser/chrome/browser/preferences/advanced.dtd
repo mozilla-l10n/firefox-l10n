@@ -1,110 +1,109 @@
 <!-- Note: each tab panel must contain unique accesskeys -->
 
-<!ENTITY generalTab.label "Genel">
+<!ENTITY generalTab.label                "Genel">
 
-<!ENTITY accessibility.label "Erişilebilirlik">
+<!ENTITY accessibility.label             "Erişilebilirlik">
 
-<!ENTITY useCursorNavigation.label "Sayfaların içinde hareket ederken her zaman işaretçi tuşlarını kullan">
-<!ENTITY useCursorNavigation.accesskey "S">
-<!ENTITY searchStartTyping.label "Yazmaya başlar başlamaz arama yap">
-<!ENTITY searchStartTyping.accesskey "z">
-<!ENTITY blockAutoRefresh.label "Siteler sayfaları yönlendirmek ya da tazelemek istediğinde beni uyar">
-<!ENTITY blockAutoRefresh.accesskey "r">
+<!ENTITY useCursorNavigation.label       "Sayfaların içinde hareket ederken her zaman işaretçi tuşlarını kullan">
+<!ENTITY useCursorNavigation.accesskey   "S">
+<!ENTITY searchStartTyping.label         "Yazmaya başlar başlamaz arama yap">
+<!ENTITY searchStartTyping.accesskey     "z">
+<!ENTITY blockAutoRefresh.label          "Siteler sayfaları yönlendirmek ya da tazelemek istediğinde beni uyar">
+<!ENTITY blockAutoRefresh.accesskey      "r">
 
-<!ENTITY browsing.label "Tarama">
+<!ENTITY browsing.label                  "Tarama">
 
-<!ENTITY useAutoScroll.label "Otomatik kaydırmayı kullan">
-<!ENTITY useAutoScroll.accesskey "a">
-<!ENTITY useSmoothScrolling.label "Akıcı kaydırmayı kullan">
-<!ENTITY useSmoothScrolling.accesskey "c">
-<!ENTITY allowHWAccel.label "Mümkün olduğunda donanım ivmelenmesini kullan">
-<!ENTITY allowHWAccel.accesskey "d">
-<!ENTITY checkSpelling.label "Yazarken yazım denetimi gerçekleştir">
-<!ENTITY checkSpelling.accesskey "t">
+<!ENTITY useAutoScroll.label             "Otomatik kaydırmayı kullan">
+<!ENTITY useAutoScroll.accesskey         "a">
+<!ENTITY useSmoothScrolling.label        "Akıcı kaydırmayı kullan">
+<!ENTITY useSmoothScrolling.accesskey    "c">
+<!ENTITY allowHWAccel.label              "Mümkün olduğunda donanım ivmelenmesini kullan">
+<!ENTITY allowHWAccel.accesskey          "d">
+<!ENTITY checkSpelling.label             "Yazarken yazım denetimi gerçekleştir">
+<!ENTITY checkSpelling.accesskey         "t">
 
-<!ENTITY systemDefaults.label "Varsayılan sistem ayarları">
-<!--XXX-->
-<!ENTITY alwaysCheckDefault.label "Her başlangıçta &brandShortName; tarayıcısının öntanımlı olup olmadığına bak">
-<!ENTITY alwaysCheckDefault.accesskey "b">
-<!ENTITY checkNow.label "Şimdi bak">
-<!ENTITY checkNow.accesskey "m">
-<!ENTITY submitCrashes.label "Çökme raporlarını gönder">
-<!ENTITY submitCrashes.accesskey "r">
-<!ENTITY submitTelemetry.label "Performans verilerini gönder">
-<!ENTITY submitTelemetry.accesskey "P">
+<!ENTITY systemDefaults.label            "Varsayılan sistem ayarları">
+<!ENTITY alwaysCheckDefault.label        "Her başlangıçta &brandShortName; tarayıcısının öntanımlı olup olmadığına bak"><!--XXX-->
+<!ENTITY alwaysCheckDefault.accesskey    "b">
+<!ENTITY checkNow.label                  "Şimdi bak">
+<!ENTITY checkNow.accesskey              "m">
+<!ENTITY submitCrashes.label             "Çökme raporlarını gönder">
+<!ENTITY submitCrashes.accesskey         "r">
+<!ENTITY submitTelemetry.label           "Performans verilerini gönder">
+<!ENTITY submitTelemetry.accesskey       "P">
 
-<!ENTITY networkTab.label "Ağ">
+<!ENTITY networkTab.label                "Ağ">
 
-<!ENTITY connection.label "Bağlantı">
+<!ENTITY connection.label                "Bağlantı">
 
-<!ENTITY connectionDesc.label "&brandShortName; tarayıcısının internete nasıl bağlanacağını ayarlayın">
-<!ENTITY connectionSettings.label "Ayarlar…">
-<!ENTITY connectionSettings.accesskey "A">
+<!ENTITY connectionDesc.label            "&brandShortName; tarayıcısının internete nasıl bağlanacağını ayarlayın">
+<!ENTITY connectionSettings.label        "Ayarlar…">
+<!ENTITY connectionSettings.accesskey    "A">
 
-<!ENTITY offlineStorage.label "Çevrim dışı depolama">
+<!ENTITY offlineStorage.label            "Çevrim dışı depolama">
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-
-<!ENTITY limitCacheSizeBefore.label "Önbelleği">
-<!ENTITY limitCacheSizeBefore.accesskey "Ö">
-<!ENTITY limitCacheSizeAfter.label "MB ile sınırla">
-<!ENTITY clearCacheNow.label "Şimdi temizle">
-<!ENTITY clearCacheNow.accesskey "z">
-<!ENTITY overrideSmartCacheSize.label "Otomatik önbellek yönetimini devre dışı bırak">
+<!ENTITY limitCacheSizeBefore.label      "Önbelleği">
+<!ENTITY limitCacheSizeBefore.accesskey  "Ö">
+<!ENTITY limitCacheSizeAfter.label       "MB ile sınırla">
+<!ENTITY clearCacheNow.label             "Şimdi temizle">
+<!ENTITY clearCacheNow.accesskey         "z">
+<!ENTITY overrideSmartCacheSize.label    "Otomatik önbellek yönetimini devre dışı bırak">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
-<!ENTITY updateTab.label "Güncelleme">
+<!ENTITY updateTab.label                 "Güncelleme">
 
-<!ENTITY autoCheck.label "Bunların güncellemelerine kendiliğinden bak:">
-<!ENTITY enableAppUpdate.label "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey "e">
-<!ENTITY enableAddonsUpdate2.label "Eklentiler">
-<!ENTITY enableAddonsUpdate2.accesskey "E">
-<!ENTITY enableSearchUpdate.label "Arama motorları">
-<!ENTITY enableSearchUpdate.accesskey "m">
-<!ENTITY whenUpdatesFound.label "&brandShortName; için güncelleme bulunursa:">
-<!ENTITY askMe.label "Ne yapmak istediğimi sor">
-<!ENTITY askMe.accesskey "s">
-<!ENTITY modeAutomatic.label "Güncellemeleri kendiliğinden indir ve kur">
-<!ENTITY modeAutomatic.accesskey "d">
-<!ENTITY modeAutoAddonWarn.label "Bu işlem kurulu eklentilerimden herhangi birini devre dışı bırakacaksa beni uyar">
-<!ENTITY modeAutoAddonWarn.accesskey "u">
-<!ENTITY updateHistory.label "Güncelleme geçmişini göster">
-<!ENTITY updateHistory.accesskey "G">
+<!ENTITY autoCheck.label                 "Bunların güncellemelerine kendiliğinden bak:">
+<!ENTITY enableAppUpdate.label           "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey       "&">
+<!ENTITY enableAddonsUpdate2.label       "Eklentiler">
+<!ENTITY enableAddonsUpdate2.accesskey   "E">
+<!ENTITY enableSearchUpdate.label        "Arama motorları">
+<!ENTITY enableSearchUpdate.accesskey    "m">
+<!ENTITY whenUpdatesFound.label          "&brandShortName; için güncelleme bulunursa:">
+<!ENTITY askMe.label                     "Ne yapmak istediğimi sor">
+<!ENTITY askMe.accesskey                 "s">
+<!ENTITY modeAutomatic.label             "Güncellemeleri kendiliğinden indir ve kur">
+<!ENTITY modeAutomatic.accesskey         "d">
+<!ENTITY modeAutoAddonWarn.label         "Bu işlem kurulu eklentilerimden herhangi birini devre dışı bırakacaksa beni uyar">
+<!ENTITY modeAutoAddonWarn.accesskey     "u">
+<!ENTITY updateHistory.label             "Güncelleme geçmişini göster">
+<!ENTITY updateHistory.accesskey         "G">
 
-<!ENTITY offlineNotify.label "Bir site çevrim dışı kullanım için veri depolamak istediğinde beni uyar">
-<!ENTITY offlineNotify.accesskey "t">
-<!ENTITY offlineNotifyExceptions.label "Ayrıcalıklar…">
+<!ENTITY offlineNotify.label             "Bir site çevrim dışı kullanım için veri depolamak istediğinde beni uyar">
+<!ENTITY offlineNotify.accesskey         "t">
+<!ENTITY offlineNotifyExceptions.label   "Ayrıcalıklar…">
 <!ENTITY offlineNotifyExceptions.accesskey "A">
 
-<!ENTITY offlineAppsList.label "Aşağıdaki siteler çevrim dışı kullanım için veri depoladılar:">
-<!ENTITY offlineAppsList.height "7em">
-<!ENTITY offlineAppsListRemove.label "Kaldır…">
+<!ENTITY offlineAppsList.label           "Aşağıdaki siteler çevrim dışı kullanım için veri depoladılar:">
+<!ENTITY offlineAppsList.height          "7em">
+<!ENTITY offlineAppsListRemove.label     "Kaldır…">
 <!ENTITY offlineAppsListRemove.accesskey "r">
-<!ENTITY offlineAppRemove.confirm "Çevrim dışı veriyi sil">
+<!ENTITY offlineAppRemove.confirm        "Çevrim dışı veriyi sil">
 
-<!ENTITY encryptionTab.label "Şifreleme">
+<!ENTITY encryptionTab.label             "Şifreleme">
 
-<!ENTITY protocols.label "İletişim Kuralları">
-<!ENTITY useSSL3.label "SSL 3.0 kullan">
-<!ENTITY useSSL3.accesskey "3">
-<!ENTITY useTLS1.label "TLS 1.0 kullan">
-<!ENTITY useTLS1.accesskey "1">
-<!ENTITY certificates.label "Onay belgeleri">
-<!ENTITY certSelection.description "Sunucu kişisel onay belgemi istediğinde:">
-<!ENTITY certs.auto "Birini kendiliğinden seç">
-<!ENTITY certs.auto.accesskey "B">
-<!ENTITY certs.ask "Her seferinde bana sor">
-<!ENTITY certs.ask.accesskey "b">
-<!ENTITY viewCerts.label "Onay belgelerini göster">
-<!ENTITY viewCerts.accesskey "O">
-<!ENTITY viewCRLs.label "Hükümsüz sayılanlar listesi">
-<!ENTITY viewCRLs.accesskey "r">
-<!ENTITY verify2.label "Doğrulama">
-<!ENTITY verify2.accesskey "o">
-<!ENTITY viewSecurityDevices.label "Güvenlik aygıtları">
-<!ENTITY viewSecurityDevices.accesskey "G">
+<!ENTITY protocols.label                 "İletişim Kuralları">
+<!ENTITY useSSL3.label                   "SSL 3.0 kullan">
+<!ENTITY useSSL3.accesskey               "3">
+<!ENTITY useTLS1.label                   "TLS 1.0 kullan">
+<!ENTITY useTLS1.accesskey               "1">
+<!ENTITY certificates.label              "Onay belgeleri">
+<!ENTITY certSelection.description       "Sunucu kişisel onay belgemi istediğinde:">
+<!ENTITY certs.auto                      "Birini kendiliğinden seç">
+<!ENTITY certs.auto.accesskey            "B">
+<!ENTITY certs.ask                       "Her seferinde bana sor">
+<!ENTITY certs.ask.accesskey             "b">
+<!ENTITY viewCerts.label                 "Onay belgelerini göster">
+<!ENTITY viewCerts.accesskey             "O">
+<!ENTITY viewCRLs.label                  "Hükümsüz sayılanlar listesi">
+<!ENTITY viewCRLs.accesskey              "r">
+<!ENTITY verify2.label                   "Doğrulama">
+<!ENTITY verify2.accesskey               "o">
+<!ENTITY viewSecurityDevices.label       "Güvenlik aygıtları">
+<!ENTITY viewSecurityDevices.accesskey   "G">

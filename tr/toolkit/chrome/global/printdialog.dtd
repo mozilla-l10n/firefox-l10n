@@ -18,12 +18,12 @@
 <!ENTITY printrangeGroup.label "Kenarları yazdır">
 <!ENTITY allpagesRadio.label "Bütün sayfalar">
 <!ENTITY allpagesRadio.accesskey "a">
-<!ENTITY rangeRadio.label "Sayfalar">
-<!ENTITY rangeRadio.accesskey "S">
-<!ENTITY frompageInput.label "nereden">
-<!ENTITY frompageInput.accesskey "r">
-<!ENTITY topageInput.label "nereye">
-<!ENTITY topageInput.accesskey "y">
+<!ENTITY rangeRadio.label  "Sayfalar">
+<!ENTITY rangeRadio.accesskey  "S">
+<!ENTITY frompageInput.label  "nereden">
+<!ENTITY frompageInput.accesskey  "r">
+<!ENTITY topageInput.label  "nereye">
+<!ENTITY topageInput.accesskey  "y">
 <!ENTITY selectionRadio.label "Seçim">
 <!ENTITY selectionRadio.accesskey "S">
 
@@ -34,7 +34,7 @@
 <!ENTITY printframeGroup.label "Çerçeveyi yazdır">
 <!ENTITY aslaidoutRadio.label "Pencerede görüldüğü gibi">
 <!ENTITY aslaidoutRadio.accesskey "P">
-<!ENTITY selectedframeRadio.label "Seçilen çerçeve">
-<!ENTITY selectedframeRadio.accesskey "l">
-<!ENTITY eachframesepRadio.label "Bütün çerçeveyi ayrı ayrı">
-<!ENTITY eachframesepRadio.accesskey "e">
+<!ENTITY selectedframeRadio.label  "Seçilen çerçeve">
+<!ENTITY selectedframeRadio.accesskey  "l">
+<!ENTITY eachframesepRadio.label  "Bütün çerçeveyi ayrı ayrı">
+<!ENTITY eachframesepRadio.accesskey  "e">

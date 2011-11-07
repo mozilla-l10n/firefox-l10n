@@ -1,11 +1,9 @@
-<!ENTITY title "Install Add-on">
-<!ENTITY intro "Another program on your computer would like to modify
-                          &brandShortName; with the following add-on:">
-<!ENTITY warning "Sadece güvendiğiniz eklenti yazarlarının eklentilerini kurun.">
-<!ENTITY allow "Allow this installation">
-<!ENTITY later "You can always change your mind at any time by going
-                          to the Add-ons Manager.">
-<!ENTITY continue "Continue">
-<!ENTITY restartMessage "You must restart &brandShortName; to finish installing this add-on.">
-<!ENTITY restartButton "&brandShortName; baştan başlasın">
-<!ENTITY cancelButton "Vazgeç">
+<!ENTITY title           "Eklentiyi yükle">
+<!ENTITY intro           "Bilgisayarınızdaki başka bir program &brandShortName; uygulamasına aşağıdaki eklentiyi yüklemek istiyor:">
+<!ENTITY warning         "Sadece güvendiğiniz eklenti yazarlarının eklentilerini kurun.">
+<!ENTITY allow           "Bu kuruluma izin ver">
+<!ENTITY later           "Eklenti Yöneticisi'ne girerek istediğiniz zaman fikrinizi değiştirebilirsiniz.">
+<!ENTITY continue        "Devam et">
+<!ENTITY restartMessage  "Eklenti kurulumunun tamamlanması için &brandShortName; yeniden başlatılmalıdır.">
+<!ENTITY restartButton   "&brandShortName; baştan başlasın">
+<!ENTITY cancelButton    "Vazgeç">
