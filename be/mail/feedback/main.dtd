@@ -6,7 +6,7 @@
 <!ENTITY testpilot.settings.readyToSubmit.label "Даследаванне гатовае для падачы">
 <!ENTITY testpilot.settings.newStudy.label "Паявілася новае даследаванне">
 <!ENTITY testpilot.settings.hasNewResults.label "Даследаванне мае новыя вынікі">
-<!ENTITY testpilot.settings.alwaysSubmitData.label "Самастойна падаваць мае здаткі (не пытаць мяне)">
+<!ENTITY testpilot.settings.alwaysSubmitData.shortLabel "Заўсёды падаваць мае здаткі (не пытаць мяне)">
 <!ENTITY testpilot.allYourStudies.label "Усе вашы карыстальніцкія даследаванні…">
 <!ENTITY testpilot.about.label "Пра Test Pilot">
 <!ENTITY testpilot.studiesWindow.title "Вашы даследаванні пілота выпрабаванняў">
@@ -21,5 +21,7 @@
 <!ENTITY testpilot.feedbackbutton.label "Водгук">
 <!ENTITY testpilot.happy.label "Firefox зрабіў мяне шчаслівым праз…">
 <!ENTITY testpilot.sad.label "Firefox зрабіў мяне сумным праз…">
+<!ENTITY testpilot.happy.thunderbirdLabel "Thunderbird зрабіў мяне шчаслівым праз…">
+<!ENTITY testpilot.sad.thunderbirdLabel "Thunderbird зрабіў мяне сумным праз…">
 <!ENTITY testpilot.broken.label "Паведаміць пра няспраўную пляцоўку…">
 <!ENTITY testpilot.idea.label "Прапанаваць нам…">

@@ -5,10 +5,7 @@
 <!ENTITY subject.accesskey "Т">
 <!ENTITY attachments.label "Далучэнні:">
 <!ENTITY attachments.accesskey "ч">
-<!ENTITY newMessage.label "Ліст">
-<!ENTITY newMessage.accesskey "Л">
 <!ENTITY saveCmd.label "Захаваць">
-<!ENTITY saveCmd.key "S">
 <!ENTITY saveCmd.accesskey "З">
 <!ENTITY saveAsCmd.label "Захаваць як">
 <!ENTITY saveAsCmd.accesskey "Я">
@@ -32,11 +29,6 @@
 <!ENTITY sendLaterCmd.label "Даслаць пазней">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "П">
-<!ENTITY printSetupCmd.label "Уладкаваць старонку…">
-<!ENTITY printSetupCmd.accesskey "л">
-<!ENTITY printCmd.label "Друкаваць…">
-<!ENTITY printCmd.key "P">
-<!ENTITY printCmd.accesskey "Д">
 <!ENTITY editRewrapCmd.label "Перазагінаць">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "г">
@@ -57,7 +49,6 @@
 <!ENTITY selectAddressCmd.key "">
 <!ENTITY selectAddressCmd.accesskey "А">
 <!ENTITY checkSpellingCmd2.label "Праверыць правапіс…">
-<!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY checkSpellingCmd2.accesskey "р">
 <!ENTITY enableInlineSpellChecker.label "Праверка правапісу падчас набору">
 <!ENTITY enableInlineSpellChecker.accesskey "П">
@@ -107,8 +98,6 @@
 <!ENTITY spellCheckIgnoreWord.accesskey "І">
 <!ENTITY spellCheckAddToDictionary.label "Дадаць у слоўнік">
 <!ENTITY spellCheckAddToDictionary.accesskey "с">
-<!ENTITY pasteQuote.label "Уставіць як вытрымку">
-<!ENTITY pasteQuote.accesskey "В">
 <!ENTITY openAttachment.label "Адчыніць">
 <!ENTITY openAttachment.accesskey "А">
 <!ENTITY renameAttachment.label "Змяніць назву…">

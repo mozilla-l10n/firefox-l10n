@@ -38,12 +38,6 @@
 <!ENTITY pageInfoCmd.label "Звесткі пра старонку">
 <!ENTITY pageInfoCmd.accesskey "З">
 <!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY applyTheme.label "Ужыць тэму">
-<!ENTITY applyTheme.accesskey "У">
-<!ENTITY getNewThemesCmd.label "Атрымаць новыя тэмы">
-<!ENTITY getNewThemesCmd.accesskey "А">
-<!ENTITY getPersonasCmd.label "Атрымаць Персоны">
-<!ENTITY getPersonasCmd.accesskey "П">
 <!ENTITY goMenu.label "Рух">
 <!ENTITY goMenu.accesskey "р">
 <!ENTITY goHomeCmd.label "Дадому">

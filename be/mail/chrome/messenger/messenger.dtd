@@ -108,6 +108,8 @@
 <!ENTITY undoDefaultCmd.accesskey "А">
 <!ENTITY redoDefaultCmd.label "Вярнуць">
 <!ENTITY redoDefaultCmd.accesskey "В">
+<!ENTITY menubarCmd.label "Паліца меню">
+<!ENTITY menubarCmd.accesskey "м">
 <!ENTITY showMessengerToolbarCmd.label "Паліца прыладаў пошты">
 <!ENTITY showMessengerToolbarCmd.accesskey "л">
 <!ENTITY customizeToolbar.label "Наладзіць…">
@@ -240,6 +242,8 @@
 <!ENTITY pageSourceCmd.label "Зыходнік ліста">
 <!ENTITY pageSourceCmd.accesskey "ы">
 <!ENTITY pageSourceCmd.key "u">
+<!ENTITY getNewMessagesCmd.key "y">
+<!ENTITY getAllNewMessagesCmd.key "Y">
 <!ENTITY findMenu.label "Знайсці">
 <!ENTITY findMenu.accesskey "З">
 <!ENTITY findCmd.label "Знайсці ў гэтым лісце…">
@@ -455,12 +459,14 @@
 <!ENTITY previousButton.label "Папярэдні">
 <!ENTITY backButton1.label "Назад">
 <!ENTITY goForwardButton1.label "Наперад">
+<!ENTITY deleteItem.title "Выдаліць">
 <!ENTITY deleteButton.label "Выдаліць">
 <!ENTITY undeleteButton.label "Адмяніць выдаленне">
 <!ENTITY markButton.label "Пазначыць">
 <!ENTITY printButton.label "Друкаваць">
 <!ENTITY stopButton.label "Прыпыніць">
 <!ENTITY throbberItem.title "Паказнік дзейнасці">
+<!ENTITY junkItem.title "Лухта">
 <!ENTITY junkButton.label "Лухта">
 <!ENTITY notJunkButton.label "Не лухта">
 <!ENTITY addressBookButton.label "Адрасная кніга">

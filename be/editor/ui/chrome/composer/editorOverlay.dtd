@@ -64,11 +64,6 @@
 <!ENTITY publishAsCmd.accesskey "к">
 <!ENTITY saveAsChangeEncodingCmd.label "Захаваць і змяніць кадоўку знакаў">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "к">
-<!ENTITY printSetupCmd.label "Уладкаванне старонкі…">
-<!ENTITY printSetupCmd.accesskey "У">
-<!ENTITY printCmd.label "Друкаваць…">
-<!ENTITY printCmd.accesskey "Д">
-<!ENTITY printCmd.key "P">
 <!ENTITY editMenu.label "Праўка">
 <!ENTITY editMenu.accesskey "П">
 <!ENTITY pasteNoFormatting.label "Уставіць без фарматавання">

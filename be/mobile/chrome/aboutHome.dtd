@@ -9,3 +9,7 @@
 <!ENTITY aboutHome.noTabs "Няма адчыненых раней уставак">
 <!ENTITY aboutHome.noAddons "Няма параеных дадаткаў">
 <!ENTITY aboutHome.getLocale "Змена мовы">
+<!ENTITY aboutHome.getInBeforeBeta "Атрымаць перад Бета.">
+<!ENTITY aboutHome.tryAurora "Паспрабаваць Firefox Aurora і дапамагчы фармаванню будучага Firefox.">
+<!ENTITY aboutHome.downloadAurora "Сцягванне Aurora">
+<!ENTITY aboutHome.forAndroid "для Android">

@@ -11,8 +11,8 @@
 <!ENTITY useCurrentPage.label "Ужыць гэтачасовую старонку">
 <!ENTITY useCurrentPage.accesskey "г">
 <!ENTITY useMultiple.label "Ужыць гэтачасовыя старонкі">
-<!ENTITY useBookmark.label "Ужыць закладку">
-<!ENTITY useBookmark.accesskey "з">
+<!ENTITY chooseBookmark.label "Ужыць закладку…">
+<!ENTITY chooseBookmark.accesskey "з">
 <!ENTITY restoreDefault.label "Аднавіць змоўчную">
 <!ENTITY restoreDefault.accesskey "А">
 <!ENTITY downloads.label "Загрузкі">

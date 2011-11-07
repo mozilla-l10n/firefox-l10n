@@ -62,13 +62,6 @@
 <!ENTITY downloadSelectedCmd.accesskey "л">
 <!ENTITY downloadFlaggedCmd.label "Атрымаць лісты з сцяжкамі">
 <!ENTITY downloadFlaggedCmd.accesskey "ц">
-<!ENTITY printCmd.label "Друкаваць…">
-<!ENTITY printCmd.accesskey "Д">
-<!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Папярэдні прагляд друку">
-<!ENTITY printPreviewCmd.accesskey "г">
-<!ENTITY printSetupCmd.label "Уладкаваць старонку…">
-<!ENTITY printSetupCmd.accesskey "у">
 <!ENTITY deleteMsgCmd.label "Выдаліць ліст">
 <!ENTITY deleteMsgCmd.accesskey "д">
 <!ENTITY undeleteMsgCmd.label "Адмяніць выдаленне ліста">

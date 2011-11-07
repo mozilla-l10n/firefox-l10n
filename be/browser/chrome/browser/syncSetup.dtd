@@ -13,8 +13,8 @@
 <!ENTITY signIn.account2.accesskey "Р">
 <!ENTITY signIn.password.label "Пароль">
 <!ENTITY signIn.password.accesskey "П">
-<!ENTITY signIn.syncKey.label "Ключ Sync">
-<!ENTITY signIn.syncKey.accesskey "К">
+<!ENTITY signIn.recoveryKey.label "Адноўны ключ">
+<!ENTITY signIn.recoveryKey.accesskey "к">
 <!ENTITY setup.newAccountDetailsPage.title.label "Падрабязнасці рахунку">
 <!ENTITY setup.emailAddress.label "Э-паштовы адрас">
 <!ENTITY setup.emailAddress.accesskey "Э">
@@ -29,12 +29,12 @@
 <!ENTITY setup.ppLink.label "палітыкай адасаблення">
 <!ENTITY setup.tosAgree3.label "">
 <!ENTITY setup.tosAgree2.accesskey "">
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; дбае пра ваша адасабленне">
-<!ENTITY setup.newSyncKeyPage.description.label "Каб забяспечыць ваша адасабленне, усе вашы здаткі шыфруюцца перад зацягваннем на паслугач. Ключ Sync, неабходны для расшыфравання, не зацягваецца.">
-<!ENTITY syncKeyEntry.label "Ваш ключ Sync">
-<!ENTITY syncKeyEntry.accesskey "к">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; дбае пра ваша адасабленне">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Каб захаваць вашу бяспеку, усе вашы здаткі шыфруюцца перад зацягваннем. Адноўны ключ, неабходны для расшыфравання вашых здаткаў, не зацягваецца.">
+<!ENTITY recoveryKeyEntry.label "Ваш адноўны ключ">
+<!ENTITY recoveryKeyEntry.accesskey "к">
 <!ENTITY syncGenerateNewKey.label "Вырабіць новы ключ">
-<!ENTITY syncKeyBackup.description "Ключ Sync неабходны вам для доступу да &syncBrand.fullName.label; з іншых машынаў. Стварыце, калі ласка, яго адноўную копію. Мы не зможам дапамагчы вам аднавіць ваш ключ Sync.">
+<!ENTITY recoveryKeyBackup.description "Ваш адноўны ключ патрэбны для дасягання &syncBrand.fullName.label; на іншых машынах. Стварыце, калі ласка, яго адноўную копію. Мы не зможам дапамагчы вам аднавіць адноўны ключ.">
 <!ENTITY button.syncKeyBackup.print.label "Друкаваць…">
 <!ENTITY button.syncKeyBackup.print.accesskey "Д">
 <!ENTITY button.syncKeyBackup.save.label "Захаваць…">
@@ -49,10 +49,10 @@
 <!ENTITY addDevice.dialog.enterCode.label "Увядзіце код, які быў атрыманы на збудове:">
 <!ENTITY addDevice.dialog.tryAgain.label "Паспрабуйце, калі ласка, зноў.">
 <!ENTITY addDevice.dialog.successful.label "Збудова паспяхова дададзена. Пачатковая сінхранізацыя працягнецца некалькі хвілінаў і будзе фонава здзяйсняцца.">
-<!ENTITY addDevice.dialog.syncKey.label "Каб задзейнічаць вашу збудову, вы павінны ўвесці ключ Sync. Калі ласка, надрукуйце гэты ключ ці запішыце яго і вазьміце яго з сабой.">
+<!ENTITY addDevice.dialog.recoveryKey.label "Каб задзейничаць вашу збудову, вы мусіце ўвесці ваш адноўны ключ. Калі ласка, надрукуйце або захавайце гэты ключ і трымайце яго ў сябе.">
 <!ENTITY addDevice.dialog.connected.label "Збудова злучана">
 <!ENTITY setup.signInPage.title.label "Увайсці">
-<!ENTITY existingSyncKey.description 'Вы можаце атрымаць копію ключа Sync у наладжваннях &syncBrand.shortName.label; на вашай іншай збудове і выберыце "Мой ключ Sync" у пункце "Кіраваць рахункам".'>
+<!ENTITY existingRecoveryKey.description 'Вы можаце атрымаць падвой вашага адноўнага ключа ў наладжваннях &syncBrand.shortName.label; на іншай вашай збудове, выберыце "Мой адноўны ключ" у "Кіраваць рахункам".'>
 <!ENTITY verifying.label "Праверка…">
 <!ENTITY resetPassword.label "Скінуць пароль">
 <!ENTITY resetSyncKey.label "Я згубіў маю іншую збудову.">

@@ -70,6 +70,8 @@
 <!ENTITY viewMenu.accesskey "г">
 <!ENTITY viewToolbarsMenu.label "Прыладапаліцы">
 <!ENTITY viewToolbarsMenu.accesskey "П">
+<!ENTITY menubarCmd.label "Паліца меню">
+<!ENTITY menubarCmd.accesskey "м">
 <!ENTITY showAbToolbarCmd.label "Паліца прыладаў адраснай кнігі">
 <!ENTITY showAbToolbarCmd.accesskey "р">
 <!ENTITY showTaskbarCmd.label "Паліца статусу">

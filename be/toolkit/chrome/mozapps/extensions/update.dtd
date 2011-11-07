@@ -17,7 +17,7 @@
 <!ENTITY found.top.label "Вылучыце дадаткі, якія вы хочаце ўсталяваць:">
 <!ENTITY found.disabledXPinstall.label "Гэтыя абнаўленні не могуць быць усталяваны, бо ўсталявання праграмнага забеспячэння зараз
                                            забаронена. Вы можаце змяніць гэтае наладжванне ўнізе.">
-<!ENTITY found.enableXPInstall.label "Дазволіць пляцоўкам павуціны ўсталёўваць праграмнае забеспячэнне">
+<!ENTITY found.enableXPInstall.label "Дазволіць пляцоўкам сеціва ўсталёўваць праграмнае забеспячэнне">
 <!ENTITY found.enableXPInstall.accesskey "Д">
 <!ENTITY installing.wizard.title "Усталяванне сумяшчальных дадаткаў">
 <!ENTITY installing.top.label "Загрузка і ўсталяванне абнаўленняў вашых дадаткаў…">

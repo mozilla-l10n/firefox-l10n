@@ -4,11 +4,6 @@
 <!ENTITY editPageCmd.label "Рэдагаваць старонку">
 <!ENTITY editPageCmd.accesskey "Р">
 <!ENTITY editPageCmd.commandkey "e">
-<!ENTITY printPreviewCmd.label "Папярэдні прагляд">
-<!ENTITY printPreviewCmd.accesskey "г">
-<!ENTITY printCmd.label "Друкаваць…">
-<!ENTITY printCmd.accesskey "Д">
-<!ENTITY printCmd.commandkey "p">
 <!ENTITY navbarCmd.label "Паліца з прыладамі Навігацыі">
 <!ENTITY navbarCmd.accesskey "Н">
 <!ENTITY personalbarCmd.label "Паліца з уласнымі прыладамі">

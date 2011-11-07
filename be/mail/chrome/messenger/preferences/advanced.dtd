@@ -3,6 +3,9 @@
 <!ENTITY itemUpdate.label "Абнаўленне">
 <!ENTITY itemNetworking.label "Сетка і дыскавая прастора">
 <!ENTITY itemCertificates.label "Пасведчанні">
+<!ENTITY submitTelemetry.label "Падаць звесткі пра працавыніковасць ">
+<!ENTITY submitTelemetry.accesskey "п">
+<!ENTITY telemetryInfoLink.label "Падрабязней пра тэлеметрыю">
 <!ENTITY enableGlodaSearch.label "Дазволіць агульныя пошук і стварэнне паказнікаў">
 <!ENTITY enableGlodaSearch.accesskey "а">
 <!ENTITY systemIntegration.label "Узаемадзеянне з сістэмай">

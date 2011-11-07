@@ -83,6 +83,9 @@
 <!ENTITY borderEditField.accessKey "М">
 <!ENTITY showImageLinkBorder.label "Паказваць мяжу навокал злучанай выявы">
 <!ENTITY showImageLinkBorder.accessKey "я">
+<!ENTITY LinkAdvancedEditButton.label "Пашыраная праўка спасылкі…">
+<!ENTITY LinkAdvancedEditButton.accessKey "с">
+<!ENTITY LinkAdvancedEditButton.tooltip "Дадаць або змяніць атрыбуты HTML, атрыбуты стылю, ці JavaScript">
 <!ENTITY imageInputTab.label "Форма">
 <!ENTITY imageLocationTab.label "Месцазнаходжанне">
 <!ENTITY imageDimensionsTab.label "Вымярэнні">
