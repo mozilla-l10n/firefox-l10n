@@ -44,8 +44,7 @@
 <!ENTITY setup.newRecoveryKeyPage.description.label "Pour respecter totalement votre vie privée, toutes vos données sont chiffrées avant d'être envoyées. La clé de récupération qui est nécessaire pour déchiffrer vos données n'est pas transmise.">
 <!ENTITY recoveryKeyEntry.label        "Votre clé de récupération">
 <!ENTITY recoveryKeyEntry.accesskey    "c">
-<!ENTITY recoveryKeyGenerate.label     "Générer">
-<!ENTITY recoveryKeyGenerate.accesskey "G">
+<!ENTITY recoveryGenerateNewKey.label  "Générer une nouvelle clé">
 <!ENTITY recoveryKeyBackup.description "Votre clé de récupération est nécessaire pour accéder à &syncBrand.fullName.label; sur d'autres machines. Veuillez en faire une copie de sauvegarde. Nous ne pourrons pas vous aider à la récupérer.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Imprimer…">
