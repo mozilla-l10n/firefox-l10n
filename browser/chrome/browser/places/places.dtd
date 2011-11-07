@@ -108,7 +108,7 @@
 
 <!ENTITY maintenance.label      "Importi kaj sekurkopii">
 <!ENTITY maintenance.accesskey  "I">
-<!ENTITY maintenance.tooltip    "Importkaj sekurkopii viajn legosignojn">
+<!ENTITY maintenance.tooltip    "Importi kaj sekurkopii viajn legosignojn">
 
 <!ENTITY backButton.tooltip  "Malantaŭenn">
 
