@@ -10,8 +10,8 @@
 <!ENTITY useCurrentPage.label "ใช้หน้าปัจจุบัน">
 <!ENTITY useCurrentPage.accesskey "ป">
 <!ENTITY useMultiple.label "ใช้หน้าปัจจุบัน">
-<!ENTITY useBookmark.label "ใช้ที่คั่นหน้า">
-<!ENTITY useBookmark.accesskey "ท">
+<!ENTITY chooseBookmark.label      "ใช้ที่คั่นหน้า…">
+<!ENTITY chooseBookmark.accesskey  "ช">
 <!ENTITY restoreDefault.label "คืนสู่ค่าปริยาย">
 <!ENTITY restoreDefault.accesskey "ค">
 
