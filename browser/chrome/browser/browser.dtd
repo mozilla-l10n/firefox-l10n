@@ -57,8 +57,6 @@ can reach it easily. -->
 <!ENTITY printCmd.label "พิมพ์…">
 <!ENTITY printCmd.accesskey "พ">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "นำเข้า…">
-<!ENTITY import.accesskey "น">
 
 <!ENTITY goOfflineCmd.label "ทำงานออฟไลน์">
 <!ENTITY goOfflineCmd.accesskey "ฟ">
@@ -104,7 +102,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenuitem.label "บอกรับหน้านี้…">
 <!ENTITY addCurPagesCmd.label "คั่นทุกแท็บ…">
 <!ENTITY showAllBookmarks2.label "แสดงที่คั่นหน้าเว็บทั้งหมด">
-<!ENTITY bookmarkAllCmd.label "คั่นทุกแท็บ…">
+<!ENTITY unsortedBookmarksCmd.label "ที่คั่นหน้าที่ไม่เรียงลำดับ">
 <!ENTITY bookmarksToolbarChevron.tooltip "แสดงที่คั่นหน้าเว็บอื่น ๆ ด้วย">
 
 <!ENTITY backCmd.label "ย้อนกลับ">
@@ -113,6 +111,8 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label "ถัดไป">
 <!ENTITY forwardCmd.accesskey "ถ">
 <!ENTITY forwardButton.tooltip "ถัดไปหนึ่งหน้า">
+<!ENTITY backForwardButtonMenu.tooltip "คลิกขวาหรือดึงลงเพื่อแสดงประวัติ">
+<!ENTITY backForwardButtonMenuMac.tooltip "ดึงลงเพื่อแสดงประวัติ">
 <!ENTITY reloadCmd.label "เรียกใหม่">
 <!ENTITY reloadCmd.accesskey "ร">
 <!ENTITY reloadButton.tooltip "เรียกหน้าปัจจุบันใหม่">
@@ -179,6 +179,9 @@ can reach it easily. -->
 <!ENTITY addons.accesskey "ส">
 <!ENTITY addons.commandkey            "a">
 
+<!ENTITY webDeveloperMenu.label       "นักพัฒนาเว็บ">
+<!ENTITY webDeveloperMenu.accesskey   "พ">
+
 <!ENTITY errorConsoleCmd.label "หน้าจอข้อผิดพลาด">
 <!ENTITY errorConsoleCmd.accesskey "จ">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -191,22 +194,30 @@ can reach it easily. -->
 <!ENTITY inspectMenu.accesskey        "ต">
 <!ENTITY inspectMenu.commandkey       "ต">
 
+<!ENTITY inspectContextMenu.label     "ตรวจดูส่วนประกอบ">
+<!ENTITY inspectContextMenu.accesskey "ป">
+
+<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
+  -  in the Tools menu. See bug 653093.
+  -  The Scratchpad is intended to provide a simple text editor for creating
+  -  and evaluating bits of JavaScript code for the purposes of function
+  -  prototyping, experimentation and convenient scripting.
+  -
+  -  It's quite possible that you won't have a good analogue for the word
+  -  "Scratchpad" in your locale. You should feel free to find a close
+  -  approximation to it or choose a word (or words) that means
+  -  "simple discardable text editor". -->
+<!ENTITY scratchpad.label             "กระดานทดลอง">
+<!ENTITY scratchpad.accesskey         "ล">
+<!ENTITY scratchpad.keycode           "VK_F4">
+<!ENTITY scratchpad.keytext           "F4">
+
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "ตรวจดู">
 <!ENTITY inspectButton.accesskey      "ต">
-<!ENTITY inspectNextButton.label      "ถัดไป">
-<!ENTITY inspectNextButton.accesskey  "ถ">
-<!ENTITY inspectPreviousButton.label  "ก่อนหน้า">
-<!ENTITY inspectPreviousButton.accesskey "ก">
-<!ENTITY inspectStyleButton.label     "รูปแบบ">
-<!ENTITY inspectStyleButton.accesskey "ร">
-<!ENTITY inspectStylePanelTitle.label  "รูปแบบ">
-<!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
-  -  appears on the Inspector's toolbar. It is used to open and close the Object
-  -  panel. There is also a label in inspector.properties for the panel
-  -  titlebar: object.objectPanelTitle. -->
-<!ENTITY inspectObjectButton.label       "วัตถุ">
-<!ENTITY inspectObjectButton.accesskey   "ว">
+
+<!ENTITY getMoreDevtoolsCmd.label        "เพิ่มเครื่องมือ">
+<!ENTITY getMoreDevtoolsCmd.accesskey    "ม">
 
 <!ENTITY fileMenu.label "แฟ้ม">
 <!ENTITY fileMenu.accesskey "ฟ">
@@ -315,6 +326,7 @@ can reach it easily. -->
 
  -->
 <!ENTITY searchFocus.commandkey "k">
+<!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey "j">
 
 <!ENTITY tabView.commandkey           "e">
