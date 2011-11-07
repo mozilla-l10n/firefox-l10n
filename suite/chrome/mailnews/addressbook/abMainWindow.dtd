@@ -18,8 +18,6 @@
 <!ENTITY printAddressBook.accesskey "А">
 <!ENTITY printPreviewAddressBook.label "Папярэдні прагляд адраснай кнігі">
 <!ENTITY printPreviewAddressBook.accesskey "К">
-<!ENTITY printSetupCmd.label "Уладкаваць старонку…">
-<!ENTITY printSetupCmd.accesskey "н">
 <!ENTITY deleteAbCmd.label "Выдаліць адрасную кнігу">
 <!ENTITY deleteContactCmd.label "Выдаліць сувязь">
 <!ENTITY deleteContactsCmd.label "Выдаліць вылучаныя сувязі">
@@ -70,5 +68,6 @@
 <!ENTITY deleteItemButton.tooltip "Выдаліць вылучаную адзінку">
 <!ENTITY throbber.tooltip "Пайсці на хатнюю старонку &vendorShortName;">
 <!ENTITY advancedButton.tooltip "Пашыраны пошук адрасоў">
+<!ENTITY dirTreeHeader.label "Адрасныя кнігі">
 <!ENTITY statusText.label "">
 <!ENTITY hideSwapFnLnUI "false">

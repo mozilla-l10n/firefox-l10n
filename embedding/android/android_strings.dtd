@@ -1,5 +1,3 @@
-<!ENTITY splash_screen_loading "Загрузка">
-<!ENTITY splash_screen_installing_libs "Усталяванне бібліятэк\u2026">
 <!ENTITY splash_firstrun "Наладжванне &brandShortName;\u2026">
 <!ENTITY no_space_to_start_error "Няма прасторы, неабходнай &brandShortName; для запуску.">
 <!ENTITY error_loading_file "Здарылася памылка падчас загрузкі файлаў, патрэбных для выканання &brandShortName;">

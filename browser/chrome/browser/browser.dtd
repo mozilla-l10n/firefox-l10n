@@ -150,6 +150,8 @@
 <!ENTITY inspectMenu.label "Даследаваць">
 <!ENTITY inspectMenu.accesskey "Д">
 <!ENTITY inspectMenu.commandkey "I">
+<!ENTITY inspectContextMenu.label "Даследаваць адзінку">
+<!ENTITY inspectContextMenu.accesskey "Д">
 <!ENTITY scratchpad.label "Scratchpad">
 <!ENTITY scratchpad.accesskey "s">
 <!ENTITY scratchpad.keycode "VK_F4">

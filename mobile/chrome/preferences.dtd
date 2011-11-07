@@ -21,3 +21,4 @@
 <!ENTITY homepage.default "&brandShortName;: У пачатку">
 <!ENTITY homepage.currentpage "Цяперашняя старонка">
 <!ENTITY showCharsetEncoding.title "Паказаць кадоўку знакаў">
+<!ENTITY actionbar.default "Наладжванні &brandShortName;">

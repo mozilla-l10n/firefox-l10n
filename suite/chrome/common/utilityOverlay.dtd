@@ -14,6 +14,13 @@
 <!ENTITY newNavigatorCmd.label "Акно азіральніка">
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "а">
+<!ENTITY printSetupCmd.label "Уладкаваць старонку…">
+<!ENTITY printSetupCmd.accesskey "У">
+<!ENTITY printPreviewCmd.label "Перадпрагляд друку">
+<!ENTITY printPreviewCmd.accesskey "П">
+<!ENTITY printCmd.label "Друкаваць…">
+<!ENTITY printCmd.accesskey "Д">
+<!ENTITY printCmd.key "P">
 <!ENTITY editMenu.label "Праўка">
 <!ENTITY editMenu.accesskey "П">
 <!ENTITY undoCmd.label "Адмяніць">
