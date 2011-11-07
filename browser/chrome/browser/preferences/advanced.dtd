@@ -18,7 +18,7 @@
 <!ENTITY useSmoothScrolling.label        "Uzi glatan ŝovadon">
 <!ENTITY useSmoothScrolling.accesskey    "g">
 <!ENTITY allowHWAccel.label              "Uzi aparatan akceladon se tio disponeblas">
-<!ENTITY allowHWAccel.accesskey          "h">
+<!ENTITY allowHWAccel.accesskey          "k">
 <!ENTITY checkSpelling.label             "Kontroli literumadon dum tajpado">
 <!ENTITY checkSpelling.accesskey         "t">
 
@@ -60,7 +60,7 @@
 
 <!ENTITY autoCheck.label                 "Aŭtomate kontroli ĉu estas ĝisdatigoj por:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "M">
+<!ENTITY enableAppUpdate.accesskey       "F">
 <!ENTITY enableAddonsUpdate2.label       "Aldonaĵoj">
 <!ENTITY enableAddonsUpdate2.accesskey   "n">
 <!ENTITY enableSearchUpdate.label        "Serĉiloj">
