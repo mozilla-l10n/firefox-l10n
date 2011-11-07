@@ -37,7 +37,7 @@
 
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; :">
-<!ENTITY  historyHeader.pre.accesskey      "l">
+<!ENTITY  historyHeader.pre.accesskey      "F">
 <!ENTITY  historyHeader.remember.label     "memoros historion">
 <!ENTITY  historyHeader.dontremember.label "neniam memoros historion">
 <!ENTITY  historyHeader.custom.label       "uzos personajn agordojn por la historio">

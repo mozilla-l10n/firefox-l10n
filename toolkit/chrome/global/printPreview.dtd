@@ -45,7 +45,7 @@
 <!ENTITY scale.label          "Skalo:">
 <!ENTITY scale.accesskey      "S">
 <!ENTITY portrait.label       "Vertikala">
-<!ENTITY portrait.accesskey   "o">
+<!ENTITY portrait.accesskey   "V">
 <!ENTITY landscape.label      "Horizontala">
 <!ENTITY landscape.accesskey  "H">
 <!ENTITY close.label          "Fermi">

@@ -8,7 +8,7 @@
 <!ENTITY community.creditsLink      "tutmonda komunumo">
 <!ENTITY community.end2             " kiu kunlaboras por igi la Interreton pli bona. Ni kredas ke la Interreto devus esti malfermita, publika kaj alirebla por ĉiuj, sen limigoj.">
 
-<!ENTITY contribute.start           "Ĉu tio aspektas interesa? ">
+<!ENTITY contribute.start           "Ĉu tio aspektas interese? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY contribute.getInvolvedLink "Partoprenu do!">
 <!ENTITY contribute.end             "">
