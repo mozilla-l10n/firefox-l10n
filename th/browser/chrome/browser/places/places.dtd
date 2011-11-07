@@ -10,8 +10,6 @@
 <!ENTITY file.close.label "ปิด">
 <!ENTITY file.close.accesskey "ป">
 <!ENTITY cmd.close.key "w">
-<!ENTITY edit.label "แก้ไข">
-<!ENTITY edit.accesskey "ก">
 <!ENTITY views.label "มุมมอง">
 <!ENTITY views.accesskey "ม">
 <!ENTITY view.columns.label "แสดงคอลัมน์">
@@ -31,17 +29,18 @@
 <!ENTITY cmd.findCurrent.label "หาในชุดปัจจุบัน…">
 <!ENTITY cmd.findCurrent.accesskey "น">
 
-<!ENTITY cmd.exportHTML.label "ส่งออกเป็น HTML…">
-<!ENTITY cmd.exportHTML.accesskey "ส">
-<!ENTITY cmd.importHTML.label "นำเข้าจาก HTML…">
-<!ENTITY cmd.importHTML.accesskey "น">
+<!ENTITY importBookmarksFromHTML.label     "นำเข้าคั่นหน้าเว็บจาก HTML…">
+<!ENTITY importBookmarksFromHTML.accesskey "ข">
+<!ENTITY exportBookmarksToHTML.label       "ส่งออกคั่นหน้าเว็บเป็น HTML…">
+<!ENTITY exportBookmarksToHTML.accesskey   "ส">
+<!ENTITY importOtherBrowser.label          "นำเข้าข้อมูลจากเบราว์เซอร์อื่น…">
+<!ENTITY importOtherBrowser.accesskey      "น">
 
 <!ENTITY cmd.backup.label "สำรองข้อมูล…">
 <!ENTITY cmd.backup.accesskey "ส">
 <!ENTITY cmd.restore2.label "คืนค่าเดิม">
 <!ENTITY cmd.restore2.accesskey "ด">
 <!ENTITY cmd.restoreFromFile.label "เลือกแฟ้ม…">
-<!ENTITY cmd.restoreFromFile.accesskey "ล">
 
 <!ENTITY cmd.bookmarkLink.label         "คั่นหน้าเว็บนี้…">
 <!ENTITY cmd.bookmarkLink.accesskey     "ค">
@@ -76,9 +75,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label "เรียกไลฟ์บุ๊กมาร์กใหม่">
 <!ENTITY cmd.reloadLivebookmark.accesskey "ร">
-<!ENTITY cmd.reloadMicrosummary.label "เรียกไลฟ์ไตเติ้ลใหม่">
-<!ENTITY cmd.reloadMicrosummary.accesskey "ร">
-
 
 <!ENTITY cmd.moveBookmarks.label "ย้าย…">
 <!ENTITY cmd.moveBookmarks.accesskey "ย">
@@ -115,17 +111,14 @@
 <!ENTITY maintenance.accesskey "น">
 <!ENTITY maintenance.tooltip    "นำเข้าและสำรองที่คั่นหน้าของคุณ">
 
-<!ENTITY backCmd.label "ย้อนกลับ">
 <!ENTITY backButton.tooltip "ย้อนกลับ">
 
-<!ENTITY forwardCmd.label "ถัดไป">
 <!ENTITY forwardButton.tooltip "ถัดไป">
 
 <!ENTITY detailsPane.more.label "ขยาย">
 <!ENTITY detailsPane.more.accesskey "ข">
 <!ENTITY detailsPane.less.label "ย่อ">
 <!ENTITY detailsPane.less.accesskey "ย">
-<!ENTITY detailsPane.noPreviewAvailable.label "ดูตัวอย่าง">
 <!ENTITY detailsPane.selectAnItemText.description "เลือกรายการเพื่อแสดงและแก้ไขคุณสมบัติของมัน">
 
 <!ENTITY find.label               "ค้นหา:">
