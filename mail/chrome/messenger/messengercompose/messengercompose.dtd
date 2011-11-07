@@ -92,6 +92,8 @@
 <!ENTITY viewMenu.accesskey "L">
 <!ENTITY viewToolbarsMenuNew.label "Arkbalken">
 <!ENTITY viewToolbarsMenuNew.accesskey "A">
+<!ENTITY menubarCmd.label "Menubalke">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showCompositionToolbarCmd.label "Komposysje-arkbalke">
 <!ENTITY showCompositionToolbarCmd.accesskey "o">
 <!ENTITY showFormattingBarCmd.label "Opmaakarkbalke">

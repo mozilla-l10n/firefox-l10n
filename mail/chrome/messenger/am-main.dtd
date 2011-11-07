@@ -11,6 +11,7 @@
 <!ENTITY email.accesskey "E">
 <!ENTITY replyTo.label "Antwurdadres:">
 <!ENTITY replyTo.accesskey "n">
+<!ENTITY replyTo.placeholder "Untfangers sille antwurdzje nei dit oare adres">
 <!ENTITY organization.label "Organisaasje:">
 <!ENTITY organization.accesskey "O">
 <!ENTITY signatureText.label "Undertekeningstekst:">

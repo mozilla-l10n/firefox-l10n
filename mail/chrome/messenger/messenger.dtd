@@ -122,6 +122,8 @@
 <!ENTITY redoDefaultCmd.accesskey "n">
 
 <!-- View Menu -->
+<!ENTITY menubarCmd.label "Menubalke">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showMessengerToolbarCmd.label "E-mailarkbalke">
 <!ENTITY showMessengerToolbarCmd.accesskey "E">
 <!ENTITY customizeToolbar.label "Oanpasse…">
@@ -272,6 +274,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageSourceCmd.label "Berjochtboarne">
 <!ENTITY pageSourceCmd.accesskey "r">
 <!ENTITY pageSourceCmd.key "u">
+<!ENTITY getNewMessagesCmd.key "y">
+<!ENTITY getAllNewMessagesCmd.key "Y">
 
 <!-- Search Menu -->
 <!ENTITY findMenu.label "Sykje">
@@ -501,12 +505,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY previousButton.label "Foarige">
 <!ENTITY backButton1.label "Tebek">
 <!ENTITY goForwardButton1.label "Foarút">
+<!ENTITY deleteItem.title "Fuortsmite">
 <!ENTITY deleteButton.label "Fuortsmite">
 <!ENTITY undeleteButton.label "Tebeksette">
 <!ENTITY markButton.label "Markearje">
 <!ENTITY printButton.label "Ofdrukke">
 <!ENTITY stopButton.label "Ophâlde">
 <!ENTITY throbberItem.title "Aktiviteitsyndikator">
+<!ENTITY junkItem.title "Net-winske">
 <!ENTITY junkButton.label "Net-winske">
 <!ENTITY notJunkButton.label "Winske">
 <!ENTITY addressBookButton.label "Adresboek">
