@@ -101,6 +101,9 @@
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "In râne werjaan om de keppelingsôfbylding">
 <!ENTITY showImageLinkBorder.accessKey "r">
+<!ENTITY LinkAdvancedEditButton.label "Keppel avansearre bewurkjen…">
+<!ENTITY LinkAdvancedEditButton.accessKey "K">
+<!ENTITY LinkAdvancedEditButton.tooltip "HTML-attributen, stylkenmerken en JavaScript tafoegje of oanpasse">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "Formulier">
