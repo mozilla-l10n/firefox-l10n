@@ -44,8 +44,7 @@
 <!ENTITY setup.newRecoveryKeyPage.description.label "Na maximálne zabezpečenie vášho súkromia sú všetky vaše údaje pred odoslaním zašifrované. Obnovovací kľúč, ktorý je potrebný na ich odšifrovanie, nie je odosielaný.">
 <!ENTITY recoveryKeyEntry.label        "Váš Obnovovací kľúč">
 <!ENTITY recoveryKeyEntry.accesskey    "k">
-<!ENTITY recoveryKeyGenerate.label     "Vygenerovať">
-<!ENTITY recoveryKeyGenerate.accesskey "e">
+<!ENTITY recoveryGenerateNewKey.label  "Vygenerovať nový kľúč">
 <!ENTITY recoveryKeyBackup.description "Na prístup k službe &syncBrand.fullName.label; z iných zariadení je potrebný Obnovovací kľúč. Preto si vytvorte jeho kópiu. Váš Obnovovací kľúč nie je možné po strate obnoviť.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Vytlačiť…">
