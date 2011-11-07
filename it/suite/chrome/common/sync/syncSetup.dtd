@@ -32,8 +32,7 @@
 <!ENTITY setup.newRecoveryKeyPage.description.label "Per garantire la massima privacy, tutti i dati vengono cifrati prima della trasmissione. La chiave di ripristino necessaria per decifrarli non viene caricata sul server.">
 <!ENTITY recoveryKeyEntry.label "Chiave di ripristino">
 <!ENTITY recoveryKeyEntry.accesskey "C">
-<!ENTITY recoveryKeyGenerate.label "Genera">
-<!ENTITY recoveryKeyGenerate.accesskey "G">
+<!ENTITY recoveryGenerateNewKey.label "Genera una nuova chiave">
 <!ENTITY recoveryKeyBackup.description "La chiave di ripristino è indispensabile per accedere a &syncBrand.fullName.label; da altri dispositivi. Si consiglia di crearne una copia di sicurezza in quanto non è possibile recuperarla in caso di smarrimento.">
 <!ENTITY button.syncKeyBackup.print.label "Stampa…">
 <!ENTITY button.syncKeyBackup.print.accesskey "m">
