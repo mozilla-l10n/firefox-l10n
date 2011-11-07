@@ -37,32 +37,32 @@
 
 <!ENTITY errorConsole.title "Hata konsolu">
 
-<!ENTITY errFile.label "Kaynak dosya:">
-<!ENTITY errLine.label "Satır:">
+<!ENTITY errFile.label   "Kaynak dosya:">
+<!ENTITY errLine.label   "Satır:">
 <!ENTITY errColumn.label "Sütun:">
 
-<!ENTITY all.label "Hepsi">
-<!ENTITY all.accesskey "H">
-<!ENTITY errors.label "Hatalar">
-<!ENTITY errors.accesskey "r">
-<!ENTITY warnings.label "Uyarılar">
+<!ENTITY all.label          "Hepsi">
+<!ENTITY all.accesskey      "H">
+<!ENTITY errors.label       "Hatalar">
+<!ENTITY errors.accesskey   "r">
+<!ENTITY warnings.label     "Uyarılar">
 <!ENTITY warnings.accesskey "U">
-<!ENTITY messages.label "İletiler">
+<!ENTITY messages.label     "İletiler">
 <!ENTITY messages.accesskey "İ">
-<!ENTITY clear.label "Temizle">
-<!ENTITY clear.accesskey "l">
-<!ENTITY codeEval.label "Kod:">
+<!ENTITY clear.label        "Temizle">
+<!ENTITY clear.accesskey    "l">
+<!ENTITY codeEval.label     "Kod:">
 <!ENTITY codeEval.accesskey "o">
-<!ENTITY evaluate.label "Değerlendirme">
+<!ENTITY evaluate.label     "Değerlendirme">
 <!ENTITY evaluate.accesskey "m">
 
-<!ENTITY copyCmd.label "Kopyala">
-<!ENTITY copyCmd.accesskey "K">
-<!ENTITY copyCmd.commandkey "C">
-<!ENTITY sortFirst.label "İlk > Son  sıralama düzeni">
+<!ENTITY copyCmd.label       "Kopyala">  
+<!ENTITY copyCmd.accesskey   "K"> 
+<!ENTITY copyCmd.commandkey  "C"> 
+<!ENTITY sortFirst.label     "İlk > Son  sıralama düzeni">
 <!ENTITY sortFirst.accesskey "S">
-<!ENTITY sortLast.label "Son > İlk sıralama düzeni">
-<!ENTITY sortLast.accesskey "k">
-<!ENTITY closeCmd.commandkey "w">
-<!ENTITY focus1.commandkey "l">
-<!ENTITY focus2.commandkey "d">
+<!ENTITY sortLast.label      "Son > İlk sıralama düzeni">
+<!ENTITY sortLast.accesskey  "k">
+<!ENTITY closeCmd.commandkey "w">  
+<!ENTITY focus1.commandkey   "l">  
+<!ENTITY focus2.commandkey   "d">  

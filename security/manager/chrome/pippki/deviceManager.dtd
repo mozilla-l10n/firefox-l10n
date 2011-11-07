@@ -35,35 +35,35 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY devmgr.title "Aygıt yöneticisi">
+<!ENTITY devmgr.title                           "Aygıt yöneticisi">
 
-<!ENTITY devmgr.devlist.label "Güvenlik Parçaları ve Aygıtları">
-<!ENTITY devmgr.details.title "Ayrıntılar">
-<!ENTITY devmgr.details.title2 "Değer">
-<!ENTITY devmgr.status.label "Durum">
-<!ENTITY devmgr.version.label "Sürüm">
+<!ENTITY devmgr.devlist.label                   "Güvenlik Parçaları ve Aygıtları">
+<!ENTITY devmgr.details.title                   "Ayrıntılar">
+<!ENTITY devmgr.details.title2                  "Değer">
+<!ENTITY devmgr.status.label                    "Durum">
+<!ENTITY devmgr.version.label                   "Sürüm">
 
-<!ENTITY devmgr.button.changeslotname.label "Yuva adını değiştir">
+<!ENTITY devmgr.button.changeslotname.label     "Yuva adını değiştir">
 <!ENTITY devmgr.button.changeslotname.accesskey "Y">
-<!ENTITY devmgr.button.login.label "Giriş yap">
-<!ENTITY devmgr.button.login.accesskey "p">
-<!ENTITY devmgr.button.logout.label "Oturumu kapat">
-<!ENTITY devmgr.button.logout.accesskey "O">
-<!ENTITY devmgr.button.changepw.label "Parola değiştir">
-<!ENTITY devmgr.button.changepw.accesskey "P">
-<!ENTITY devmgr.button.load.label "Yükle">
-<!ENTITY devmgr.button.load.accesskey "l">
-<!ENTITY devmgr.button.unload.label "Boşalt">
-<!ENTITY devmgr.button.unload.accesskey "B">
-<!ENTITY devmgr.button.fips.accesskey "F">
+<!ENTITY devmgr.button.login.label              "Giriş yap">
+<!ENTITY devmgr.button.login.accesskey          "p">
+<!ENTITY devmgr.button.logout.label             "Oturumu kapat">
+<!ENTITY devmgr.button.logout.accesskey         "O">
+<!ENTITY devmgr.button.changepw.label           "Parola değiştir">
+<!ENTITY devmgr.button.changepw.accesskey       "P">
+<!ENTITY devmgr.button.load.label               "Yükle">
+<!ENTITY devmgr.button.load.accesskey           "l">
+<!ENTITY devmgr.button.unload.label             "Boşalt">
+<!ENTITY devmgr.button.unload.accesskey         "B">
+<!ENTITY devmgr.button.fips.accesskey           "F">
 
-<!ENTITY loaddevice.info "Eklemek istediğiniz modülle ilgili bilgileri girin.">
-<!ENTITY loaddevice.modname "Modül Adı:">
-<!ENTITY loaddevice.modname.accesskey "M">
-<!ENTITY loaddevice.modname.default "Yeni PKCS#11 Modülü">
-<!ENTITY loaddevice.filename "Modül dosyası:">
-<!ENTITY loaddevice.filename.accesskey "d">
-<!ENTITY loaddevice.browse "Gözat…">
-<!ENTITY loaddevice.browse.accesskey "G">
+<!ENTITY loaddevice.info                        "Eklemek istediğiniz modülle ilgili bilgileri girin.">
+<!ENTITY loaddevice.modname                     "Modül Adı:">
+<!ENTITY loaddevice.modname.accesskey           "M">
+<!ENTITY loaddevice.modname.default             "Yeni PKCS#11 Modülü">
+<!ENTITY loaddevice.filename                    "Modül dosyası:">
+<!ENTITY loaddevice.filename.accesskey          "d">
+<!ENTITY loaddevice.browse                      "Gözat…">
+<!ENTITY loaddevice.browse.accesskey            "G">
 
-<!ENTITY loaddevice.title "PKCS#11 Aygıtını Yükle">
+<!ENTITY loaddevice.title                       "PKCS#11 Aygıtını Yükle">

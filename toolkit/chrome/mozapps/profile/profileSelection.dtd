@@ -38,27 +38,27 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowtitle.label "&brandShortName; - Kullanıcı kimliği seçin">
+<!ENTITY            windowtitle.label      "&brandShortName; - Kullanıcı kimliği seçin">
 
-<!ENTITY profilename.label "Kimlik adı:">
+<!ENTITY            profilename.label      "Kimlik adı:">
 
-<!ENTITY start.label "&brandShortName; uygulamasını başlat">
-<!ENTITY exit.label "Çık">
+<!ENTITY            start.label            "&brandShortName; uygulamasını başlat">
+<!ENTITY            exit.label             "Çık">
 
-<!ENTITY availprofiles.label "Kullanılabilen kimlikler">
+<!ENTITY            availprofiles.label    "Kullanılabilen kimlikler">
 
-<!ENTITY newButton.label "Kimlik oluştur…">
-<!ENTITY newButton.accesskey "o">
-<!ENTITY renameButton.label "Kimliğin adını değiştir…">
-<!ENTITY renameButton.accesskey "d">
-<!ENTITY deleteButton.label "Kimliği sil…">
-<!ENTITY deleteButton.accesskey "s">
+<!ENTITY            newButton.label        "Kimlik oluştur…">
+<!ENTITY            newButton.accesskey    "o">
+<!ENTITY            renameButton.label     "Kimliğin adını değiştir…">
+<!ENTITY            renameButton.accesskey "d">
+<!ENTITY            deleteButton.label     "Kimliği sil…">
+<!ENTITY            deleteButton.accesskey "s">
+
 <!-- manager entities -->
+<!ENTITY            pmDescription.label    "&brandShortName; ayarlarınız, tercihleriniz ve kullanıcı kimliğinizdeki diğer öğelerle ilgili bilgileri depolar.">
 
-<!ENTITY pmDescription.label "&brandShortName; ayarlarınız, tercihleriniz ve kullanıcı kimliğinizdeki diğer öğelerle ilgili bilgileri depolar.">
+<!ENTITY            offlineState.label    "Çevrim dışı çalış">
+<!ENTITY            offlineState.accesskey "e">
 
-<!ENTITY offlineState.label "Çevrim dışı çalış">
-<!ENTITY offlineState.accesskey "e">
-
-<!ENTITY autoSelect.label "Başlangıçta sorma">
-<!ENTITY autoSelect.accesskey "B">
+<!ENTITY            autoSelect.label       "Başlangıçta sorma">
+<!ENTITY            autoSelect.accesskey   "B">

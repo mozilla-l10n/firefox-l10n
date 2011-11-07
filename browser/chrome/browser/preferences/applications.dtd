@@ -1,10 +1,10 @@
-<!ENTITY typeColumn.label "İçerik türü">
-<!ENTITY typeColumn.accesskey "t">
+<!ENTITY  typeColumn.label        "İçerik türü">
+<!ENTITY  typeColumn.accesskey    "t">
 
-<!ENTITY actionColumn2.label "Eylem">
-<!ENTITY actionColumn2.accesskey "E">
+<!ENTITY  actionColumn2.label     "Eylem">
+<!ENTITY  actionColumn2.accesskey "E">
 
-<!ENTITY focusSearch1.key "f">
-<!ENTITY focusSearch2.key "k">
+<!ENTITY  focusSearch1.key        "f">
+<!ENTITY  focusSearch2.key        "k">
 
-<!ENTITY filter.emptytext "Ara">
+<!ENTITY  filter.emptytext        "Ara">

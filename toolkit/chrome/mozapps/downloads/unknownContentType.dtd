@@ -37,25 +37,25 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY intro.label "İndirmek istediğiniz dosya:">
-<!ENTITY from.label "Nereden:">
-<!ENTITY actionQuestion.label "&brandShortName; bu dosya ile ne yapsın?">
+<!ENTITY  intro.label                 "İndirmek istediğiniz dosya:">
+<!ENTITY  from.label                  "Nereden:">
+<!ENTITY  actionQuestion.label        "&brandShortName; bu dosya ile ne yapsın?">
 
-<!ENTITY openWith.label "Birlikte aç">
-<!ENTITY openWith.accesskey "a">
-<!ENTITY other.label "Diğer…">
+<!ENTITY  openWith.label              "Birlikte aç">
+<!ENTITY  openWith.accesskey          "a">
+<!ENTITY  other.label                 "Diğer…">
 
-<!ENTITY saveFile.label "Sabit diske kaydet">
-<!ENTITY saveFile.accesskey "d">
+<!ENTITY  saveFile.label              "Sabit diske kaydet">
+<!ENTITY  saveFile.accesskey          "d">
 
-<!ENTITY rememberChoice.label "Bu tür dosyalar indirilirken hep bu işlemi gerçekleştir">
-<!ENTITY rememberChoice.accesskey "B">
+<!ENTITY  rememberChoice.label        "Bu tür dosyalar indirilirken hep bu işlemi gerçekleştir">
+<!ENTITY  rememberChoice.accesskey    "B">
 
-<!ENTITY whichIsA.label "Türü:">
+<!ENTITY  whichIsA.label              "Türü:">
 
-<!ENTITY chooseHandlerMac.label "Seçin…">
-<!ENTITY chooseHandlerMac.accesskey "S">
-<!ENTITY chooseHandler.label "Gözat…">
-<!ENTITY chooseHandler.accesskey "t">
+<!ENTITY  chooseHandlerMac.label      "Seçin…">
+<!ENTITY  chooseHandlerMac.accesskey  "S">
+<!ENTITY  chooseHandler.label         "Gözat…">
+<!ENTITY  chooseHandler.accesskey     "t">
 
-<!ENTITY unknownPromptText.label "Bu dosyayı kaydetmek ister misiniz?">
+<!ENTITY  unknownPromptText.label     "Bu dosyayı kaydetmek ister misiniz?">
