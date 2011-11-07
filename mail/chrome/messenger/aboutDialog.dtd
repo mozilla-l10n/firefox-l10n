@@ -23,5 +23,5 @@
 <!ENTITY update.downloading.start "Сцягванне абнаўлення — ">
 <!ENTITY update.downloading.end "">
 <!ENTITY channel.description.start "Зараз вы на ">
-<!ENTITY channel.description.end " канал абнаўленняў.">
+<!ENTITY channel.description.end " канале абнаўленняў.">
 <!ENTITY cmdCloseMac.commandKey "w">
