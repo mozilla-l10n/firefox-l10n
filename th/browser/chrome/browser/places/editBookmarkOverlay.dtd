@@ -8,7 +8,7 @@
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey "ซ">
 <!ENTITY editBookmarkOverlay.liveTitlesSeparator.label "ไลฟ์ไตเติ้ล">
 <!ENTITY editBookmarkOverlay.folder.label "โฟลเดอร์ :">
-<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip "แสดงโฟลเดอร์ที่คั่นหน้าเว็บทั้งหมด">
+<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip "แสดงโฟลเดอร์ที่คั่นหน้าทั้งหมด">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip "ซ่อน">
 <!ENTITY editBookmarkOverlay.tags.label "ป้าย :">
 <!ENTITY editBookmarkOverlay.tags.accesskey "ป">
@@ -18,7 +18,7 @@
 <!ENTITY editBookmarkOverlay.keyword.label "คำสำคัญ :">
 <!ENTITY editBookmarkOverlay.keyword.accesskey "ค">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip "แสดงป้ายทั้งหมด">
-<!ENTITY editBookmarkOverlay.loadInSidebar.label "โหลดที่คั่นหน้าเว็บนี้ในแถบข้าง">
+<!ENTITY editBookmarkOverlay.loadInSidebar.label "โหลดที่คั่นหน้านี้ในแถบข้าง">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey "ล">
 <!ENTITY editBookmarkOverlay.choose.label "เลือก…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "โฟลเดอร์ใหม่">

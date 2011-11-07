@@ -1,9 +1,9 @@
 
 <!ENTITY migrationWizard.title "ตัวช่วยนำเข้า">
 
-<!ENTITY importFrom.label "นำเข้าตัวเลือก, ที่คั่นหน้าเว็บ, ประวัติ, รหัสผ่าน และข้อมูลจาก :">
-<!ENTITY importFromUnix.label "นำเข้าค่าปรับแต่ง, ที่คั่นหน้าเว็บ, ประวัติ, รหัสผ่าน และข้อมูลจาก :">
-<!ENTITY importFromBookmarks.label "นำเข้าที่คั่นหน้าเว็บจาก :">
+<!ENTITY importFrom.label "นำเข้าตัวเลือก, ที่คั่นหน้า, ประวัติ, รหัสผ่าน และข้อมูลจาก :">
+<!ENTITY importFromUnix.label "นำเข้าค่าปรับแต่ง, ที่คั่นหน้า, ประวัติ, รหัสผ่าน และข้อมูลจาก :">
+<!ENTITY importFromBookmarks.label "นำเข้าที่คั่นหน้าจาก :">
 
 <!ENTITY importFromIE.label "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey "M">
@@ -34,7 +34,7 @@
 <!ENTITY importFromHTMLFile.label "จากแฟ้ม HTML">
 <!ENTITY importFromHTMLFile.accesskey "จ">
 
-<!ENTITY noMigrationSources.label "ไม่พบโปรแกรมใดที่มีข้อมูลที่คั่นหน้าเว็บ, ประวัติ หรือรหัสผ่าน">
+<!ENTITY noMigrationSources.label "ไม่พบโปรแกรมใดที่มีข้อมูลที่คั่นหน้า, ประวัติ หรือรหัสผ่าน">
 
 <!ENTITY importSource.title "นำเข้าค่าตั้งและข้อมูล">
 <!ENTITY importItems.title "สิ่งที่จะนำเข้า">

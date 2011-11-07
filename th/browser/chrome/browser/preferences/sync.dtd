@@ -1,7 +1,7 @@
 <!-- The page shown when not logged in... -->
 <!ENTITY setupButton.label          "ติดตั้ง &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "ต">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; ให้คุณเข้าถึงประวัติ ที่คั่นหน้าเว็บ รหัสผ่าน และแท็บที่เปิดไว้ผ่านอุปกรณ์ของคุณทั้งหมด">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; ให้คุณเข้าถึงประวัติ ที่คั่นหน้า รหัสผ่าน และแท็บที่เปิดไว้ผ่านอุปกรณ์ของคุณทั้งหมด">
 
 <!-- The page shown when logged in... -->
 
@@ -19,7 +19,7 @@
 <!ENTITY addDevice.label              "เพิ่มอุปกรณ์">
 
 <!ENTITY syncMy.label               "ผสานข้อมูล">
-<!ENTITY engine.bookmarks.label     "ที่คั่นหน้าเว็บ">
+<!ENTITY engine.bookmarks.label     "ที่คั่นหน้า">
 <!ENTITY engine.bookmarks.accesskey "ค">
 <!ENTITY engine.tabs.label          "แท็บ">
 <!ENTITY engine.tabs.accesskey      "ท">

@@ -4,7 +4,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label "จัดระเบียบ">
 <!ENTITY organize.accesskey "จ">
-<!ENTITY organize.tooltip      "จัดการที่คั่นหน้าเว็บของคุณ">
+<!ENTITY organize.tooltip      "จัดการที่คั่นหน้าของคุณ">
 
 <!ENTITY file.accesskey "ฟ">
 <!ENTITY file.close.label "ปิด">
@@ -26,7 +26,7 @@
 <!ENTITY view.sortDescending.label "เรียงลำดับ ฮ > ก">
 <!ENTITY view.sortDescending.accesskey "ฮ">
 
-<!ENTITY cmd.findInBookmarks.label "หาในรายการที่คั่นหน้าเว็บ…">
+<!ENTITY cmd.findInBookmarks.label "หาในรายการที่คั่นหน้า…">
 <!ENTITY cmd.findInBookmarks.accesskey "ห">
 <!ENTITY cmd.findCurrent.label "หาในชุดปัจจุบัน…">
 <!ENTITY cmd.findCurrent.accesskey "น">
@@ -66,7 +66,7 @@
 <!ENTITY cmd.sortby_name.accesskey "ช">
 <!ENTITY cmd.context_sortby_name.accesskey "ช">
 
-<!ENTITY cmd.new_bookmark.label "ที่คั่นหน้าเว็บใหม่…">
+<!ENTITY cmd.new_bookmark.label "ที่คั่นหน้าใหม่…">
 <!ENTITY cmd.new_bookmark.accesskey "ค">
 <!ENTITY cmd.new_folder.label "โฟลเดอร์ใหม่…">
 <!ENTITY cmd.new_folder.accesskey "ฟ">
@@ -100,7 +100,7 @@
 
 <!ENTITY search.scopeFolder.label "โฟลเดอร์ที่ถูกเลือก">
 <!ENTITY search.scopeFolder.accesskey "ฟ">
-<!ENTITY search.scopeBookmarks.label "ที่คั่นหน้าเว็บ">
+<!ENTITY search.scopeBookmarks.label "ที่คั่นหน้า">
 <!ENTITY search.scopeBookmarks.accesskey "ท">
 <!ENTITY search.scopeDownloads.label "ดาวน์โหลด">
 <!ENTITY search.scopeDownloads.accesskey "ด">
@@ -113,7 +113,7 @@
 
 <!ENTITY maintenance.label "นำเข้าและสำรองข้อมูล">
 <!ENTITY maintenance.accesskey "น">
-<!ENTITY maintenance.tooltip    "นำเข้าและสำรองที่คั่นหน้าเว็บของคุณ">
+<!ENTITY maintenance.tooltip    "นำเข้าและสำรองที่คั่นหน้าของคุณ">
 
 <!ENTITY backCmd.label "ย้อนกลับ">
 <!ENTITY backButton.tooltip "ย้อนกลับ">
