@@ -5,9 +5,9 @@
 
 <!-- Entities for Account Type page -->
 
-<!ENTITY accountSetupInfo.label "Om berjochten ûntfange te kinnen moatte jo earst in e-mail- of nijsgroepaccount oanmeitsje.">
+<!ENTITY accountSetupInfo2.label "Om berjochten ûntfange te kinnen moatte jo earst in account oanmeitsje.">
 <!ENTITY accountTypeTitle.label "Nij account oanmeitsje">
-<!ENTITY accountTypeDesc.label "Dizze helper sammelt de ynformaasje dy't nedich is om in e-mail- of nijsgroepaccount oan te meitsje. As jo net oer de frege ynformaasje beskikke, nim dan kontakt op mei jo systeembehearder of ynternetprovider.">
+<!ENTITY accountTypeDesc2.label "Dizze helper sammelt de ynformaasje dy't nedich is om in account oan te meitsje. As jo net oer de frege ynformaasje beskikke, nim dan kontakt op mei jo systeembehearder of ynternetprovider.">
 <!ENTITY accountTypeDirections.label "Selektearje it type account dat jo oanmeitsje wolle:">
 <!ENTITY accountTypeMail.label "E-mailaccount">
 <!ENTITY accountTypeMail.accesskey "m">

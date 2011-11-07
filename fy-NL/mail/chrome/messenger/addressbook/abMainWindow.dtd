@@ -79,6 +79,8 @@
 <!ENTITY viewMenu.accesskey                             "L">
 <!ENTITY viewToolbarsMenu.label                         "Arkbalken">
 <!ENTITY viewToolbarsMenu.accesskey                     "A">
+<!ENTITY menubarCmd.label                               "Menubalke">
+<!ENTITY menubarCmd.accesskey                           "M">
 <!ENTITY showAbToolbarCmd.label                         "Adresboekarkbalke">
 <!ENTITY showAbToolbarCmd.accesskey                     "A">
 <!ENTITY showTaskbarCmd.label                           "Steatbalke">
