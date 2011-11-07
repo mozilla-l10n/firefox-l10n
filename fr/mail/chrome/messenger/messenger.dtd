@@ -137,6 +137,8 @@
 <!ENTITY messagePaneWide.accesskey "L">
 <!ENTITY messagePaneVertical.label "Verticale">
 <!ENTITY messagePaneVertical.accesskey "V">
+<!ENTITY showFolderPaneCmd.label "Panneau des dossiers">
+<!ENTITY showFolderPaneCmd.accesskey "o">
 <!ENTITY showMessageCmd.label "Panneau d'affichage des messages">
 <!ENTITY showMessageCmd.accesskey "n">
 

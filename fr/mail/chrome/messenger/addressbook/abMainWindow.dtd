@@ -90,18 +90,22 @@
 <!ENTITY showTaskbarCmd.accesskey                       "t">
 <!ENTITY customizeToolbar.label                         "Personnaliser…">
 <!ENTITY customizeToolbar.accesskey                     "P">
-<!ENTITY showContactPane.label                          "Résumé de la fiche">
-<!ENTITY showContactPane.accesskey                      "c">
+<!ENTITY layoutMenu.label                               "Disposition">
+<!ENTITY layoutMenu.accesskey                           "D">
+<!ENTITY showDirectoryPane.label                        "Panneau de répertoire">
+<!ENTITY showDirectoryPane.accesskey                    "r">
+<!ENTITY showContactPane2.label                         "Panneau de contact">
+<!ENTITY showContactPane2.accesskey                     "c">
 <!ENTITY menu_ShowNameAs.label                          "Afficher le nom comme">
-<!ENTITY menu_ShowNameAs.accesskey			"n">
+<!ENTITY menu_ShowNameAs.accesskey                      "n">
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
-<!ENTITY firstLastCmd2.label "Prénom Nom">
-<!ENTITY firstLastCmd2.accesskey "P"> 
-<!ENTITY lastFirstCmd.label				"Nom, Prénom">
-<!ENTITY lastFirstCmd.accesskey				"N">
-<!ENTITY displayNameCmd.label				"Nom à afficher">
-<!ENTITY displayNameCmd.accesskey			"a">
+<!ENTITY firstLastCmd2.label                            "Prénom Nom">
+<!ENTITY firstLastCmd2.accesskey                        "P"> 
+<!ENTITY lastFirstCmd.label                             "Nom, Prénom">
+<!ENTITY lastFirstCmd.accesskey                         "N">
+<!ENTITY displayNameCmd.label                           "Nom à afficher">
+<!ENTITY displayNameCmd.accesskey                       "a">
 <!ENTITY sortMenu.label                                 "Trier par">
 <!ENTITY sortMenu.accesskey                             "r">
 
