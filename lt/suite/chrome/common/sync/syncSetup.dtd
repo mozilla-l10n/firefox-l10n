@@ -44,8 +44,7 @@
 <!ENTITY setup.newRecoveryKeyPage.description.label "Siekiant užtikrinti privatumą, visi Jūsų duomenys prieš siunčiant į serverį yra šifruojami. Jiems iššifruoti reikalingas atkūrimo raktas, kuris į serverį nesiunčiamas.">
 <!ENTITY recoveryKeyEntry.label        "Jūsų atkūrimo raktas">
 <!ENTITY recoveryKeyEntry.accesskey    "r">
-<!ENTITY recoveryKeyGenerate.label     "Sugeneruoti">
-<!ENTITY recoveryKeyGenerate.accesskey "g">
+<!ENTITY recoveryGenerateNewKey.label  "Sugeneruoti naują raktą">
 <!ENTITY recoveryKeyBackup.description "Atkūrimo rakto Jums prireiks, kai norėsite „&syncBrand.fullName.label;“ pasiekti iš kito kompiuterio. Pasirūpinkite, kad jo nepamestumėte. Pametus atkūrimo raktą, mes negalėsime Jums padėti jo atstatyti.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Spausdinti…">
