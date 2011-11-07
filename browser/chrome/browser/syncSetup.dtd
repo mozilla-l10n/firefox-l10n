@@ -4,9 +4,10 @@
 
 <!ENTITY setup.pickSetupType.description "Wolkom, as jo noait earder &syncBrand.fullName.label; brûkt hawwe, moatte jo in account oanmeitsje.">
 <!ENTITY button.createNewAccount.label "Meitsje in nij account oan">
-<!ENTITY button.haveAccount.label      "Ik haw in account">
+<!ENTITY setup.haveAccount.label      "Ik haw al in &syncBrand.fullName.label; account">
+<!ENTITY button.connect.label    "Ferbyn">
 
-<!ENTITY setup.choicePage.title.label     "Hawwe jo &syncBrand.fullName.label; earder brûkt?">
+<!ENTITY setup.choicePage.title.label     "Hawwe jo &syncBrand.fullName.label; al earder brûkt?">
 <!ENTITY setup.choicePage.new.label       "Ik haw &syncBrand.shortName.label; net earder brûkt">
 <!ENTITY setup.choicePage.existing.label  "Ik brûk &syncBrand.shortName.label; al op in oare kompjûter">
 
