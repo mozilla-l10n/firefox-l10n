@@ -1,0 +1,93 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Proyecto NAVE (http://www.proyectonave.es/)
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!ENTITY windowTitle.label "Espublizar páxina">
+<!ENTITY windowTitleSettings.label "Configuración de publicación">
+<!ENTITY publishTab.label "Espublizar">
+<!ENTITY settingsTab.label "Configuración">
+<!ENTITY publishButton.label "Espublizar">
+<!ENTITY siteList.label "Nome del sitiu:">
+<!ENTITY siteList.accesskey "e">
+<!ENTITY siteList.tooltip "Escueyi'l sitiu nel que quies espublizar">
+<!ENTITY newSiteButton.label "Sitiu nuevu">
+<!ENTITY newSiteButton.accesskey "N">
+<!ENTITY docDirList.label "Subdireutoriu del sitiu pa esta páxina:">
+<!ENTITY docDirList.accesskey "S">
+<!ENTITY docDirList.tooltip "Escueyi o introduz el nome del subdireutoriu remotu pa esta páxina">
+<!ENTITY publishImgCheckbox.label "Incluyir imáxenes y otros ficheros">
+<!ENTITY publishImgCheckbox.accesskey "I">
+<!ENTITY publishImgCheckbox.tooltip "Espublizar imáxenes y otros ficheros referenciaos por esta páxina">
+<!ENTITY sameLocationRadio.label "Usar la mesma direición como páxina">
+<!ENTITY sameLocationRadio.accesskey "U">
+<!ENTITY sameLocationRadio.tooltip "Espublizar ficheros na mesma direición que la páxina">
+<!ENTITY useSubdirRadio.label "Usar esti subdireutoriu del sitiu:">
+<!ENTITY useSubdirRadio.accesskey "d">
+<!ENTITY useSubdirRadio.tooltip "Espublizar archivos al subdireutoriu remotu esbilláu">
+<!ENTITY otherDirList.tooltip "Escueyi o introduz el nome del subdireutoriu remotu au se van espublizar los ficheros">
+<!ENTITY pageTitle.label "Títulu de la páxina:">
+<!ENTITY pageTitle.accesskey "T">
+<!ENTITY pageTitle.tooltip "Introduz un títulu pa identificar la páxina na ventana y nos marcadores">
+<!ENTITY pageTitleExample.label "ex.: &quot;La mio páxina web&quot;">
+<!ENTITY filename.label "Nome de ficheru:">
+<!ENTITY filename.accesskey "a">
+<!ENTITY filename.tooltip "Introduz un nome pa esti ficheru, incluyendo '.html' si ye una páxina web">
+<!ENTITY filenameExample.label "ex.: &quot;lamiopaxina.html&quot;">
+<!ENTITY setDefaultButton.label "Esbillar como valor predetermináu">
+<!ENTITY setDefaultButton.accesskey "S">
+<!ENTITY removeButton.label "Desaniciar sitiu">
+<!ENTITY removeButton.accesskey "r">
+<!ENTITY publishSites.label "Sitios d'espublización">
+<!ENTITY serverInfo.label "Información del sitiu web">
+<!ENTITY loginInfo.label "Sirvidor d'espublización">
+<!ENTITY siteName.label "Nome del sitiu:">
+<!ENTITY siteName.accesskey "e">
+<!ENTITY siteName.tooltip "Un nome qu'identifique esti sitiu d'espublización (e.x.: 'ElMioSitiu')">
+<!ENTITY siteUrl.label "Direición d'espublización (e.x.: 'ftp://ftp.mipsi.com/elmionomedusuariu'):">
+<!ENTITY siteUrl.accesskey "p">
+<!ENTITY siteUrl.tooltip "La direición FTP:// o HTTP:// proporcionada pol PSI o serviciu d'agospiamientu web">
+<!ENTITY browseUrl.label "Direición HTTP de la páxina inicial (e.x.: 'http://www.mipsi.com/elmionomedusuariu'):">
+<!ENTITY browseUrl.accesskey "H">
+<!ENTITY browseUrl.tooltip "La direición HTTP:// del to direutoriu personal (nun incluyas el nome de ficheru)">
+<!ENTITY username.label "Nome d'usuariu:">
+<!ENTITY username.accesskey "U">
+<!ENTITY username.tooltip "El nome d'usuariu qu'uses p'aniciar sesión nel PSI o serviciu d'agospiamientu web">
+<!ENTITY password.label "Contraseña:">
+<!ENTITY password.accesskey "o">
+<!ENTITY password.tooltip "La contraseña asociada al to nome d'usuariu">
+<!ENTITY savePassword.label "Guardar contraseña">
+<!ENTITY savePassword.accesskey "G">
+<!ENTITY savePassword.tooltip "Seleiciona esta caxella pa guardar la contraseña de mou seguru usando'l xestor de contraseñes">
