@@ -5,7 +5,7 @@
 <!ENTITY smtpListEdit.label "Editar…">
 <!ENTITY smtpListEdit.accesskey "E">
 <!ENTITY smtpListDelete.label "Desaniciar">
-<!ENTITY smtpListDelete.accesskey "f">
+<!ENTITY smtpListDelete.accesskey "D">
 <!ENTITY smtpListSetDefault.label "Afitar predetermináu">
 <!ENTITY smtpListSetDefault.accesskey "t">
 <!ENTITY serverDescription.label "Descripción: ">

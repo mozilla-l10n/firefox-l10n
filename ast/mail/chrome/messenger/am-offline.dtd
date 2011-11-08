@@ -9,7 +9,6 @@
 <!ENTITY autosyncNotDownload.accesskey "c">
 <!ENTITY kb.label "KB">
 <!ENTITY daysOld.label "díes d'antigüedá">
-<!ENTITY message.label "mensaxes">
 <!ENTITY nntpNotDownloadRead.label "Mensaxes lleíos">
 <!ENTITY nntpNotDownloadRead.accesskey "l">
 <!ENTITY nntpDownloadMsg.label "Mensaxes de más de">
@@ -21,8 +20,9 @@
 <!ENTITY retentionKeepMsg.accesskey "r">
 <!ENTITY retentionKeepAll.label "Nun desaniciar dengún mensaxe">
 <!ENTITY retentionKeepAll.accesskey "N">
-<!ENTITY retentionKeepRecent.label "Desaniciar toos sacante los más recientes">
+<!ENTITY retentionKeepRecent.label "Desaniciar toos sacante los">
 <!ENTITY retentionKeepRecent.accesskey "a">
+<!ENTITY message.label "mensaxes más recientes">
 <!ENTITY retentionKeepUnreadHidden.label "Desaniciar siempre mensaxes lleíos (prevalez sobre la configuración d'antigüedá)">
 <!ENTITY retentionApplyToFlagged.label "Caltener siempre los mensaxes con estrella">
 <!ENTITY retentionApplyToFlagged.accesskey "i">
