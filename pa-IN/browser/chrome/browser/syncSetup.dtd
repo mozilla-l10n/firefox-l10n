@@ -44,8 +44,8 @@
 <!ENTITY setup.newRecoveryKeyPage.description.label "To ensure your total privacy, all of your data is encrypted prior to being uploaded. The Recovery Key which is necessary to decrypt your data is not uploaded.">
 <!ENTITY recoveryKeyEntry.label        "ਤੁਹਾਡੀ ਰਿਕਵਰੀ ਕੁੰਜੀ">
 <!ENTITY recoveryKeyEntry.accesskey    "K">
-
 <!ENTITY syncGenerateNewKey.label  "ਇੱਕ ਨਵੀਂ ਕੁੰਜੀ ਬਣਾਓ">
+<!ENTITY recoveryKeyBackup.description "Your Recovery Key is required to access &syncBrand.fullName.label; on other machines. Please create a backup copy. We cannot help you recover your Recovery Key.">
 <!ENTITY button.syncKeyBackup.print.label     "ਪਰਿੰਟ ਕਰੋ…">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
 <!ENTITY button.syncKeyBackup.save.label      "ਸੰਭਾਲੋ…">

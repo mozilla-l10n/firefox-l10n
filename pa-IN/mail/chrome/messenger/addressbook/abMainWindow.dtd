@@ -79,6 +79,8 @@
 <!ENTITY viewMenu.accesskey                             "v">
 <!ENTITY viewToolbarsMenu.label                         "ਟੂਲਬਾਰ">
 <!ENTITY viewToolbarsMenu.accesskey                     "T"> 
+<!ENTITY menubarCmd.label                               "ਮੇਨੂ ਪੱਟੀ">
+<!ENTITY menubarCmd.accesskey                           "M">
 <!ENTITY showAbToolbarCmd.label                         "ਐਡਰੈੱਸ ਬੁੱਕ ਟੂਲਬਾਰ">
 <!ENTITY showAbToolbarCmd.accesskey                     "o">
 <!ENTITY showTaskbarCmd.label                           "ਹਾਲਤ-ਪੱਟੀ">

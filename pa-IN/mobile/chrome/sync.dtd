@@ -14,7 +14,6 @@
 <!ENTITY sync.setup.manual          "ਆਪਣੀ ਸਿੰਕ ਜਾਣਕਾਰੀ ਦਿਉ">
 <!ENTITY sync.account               "ਅਕਾਊਂਟ ਨਾਂ">
 <!ENTITY sync.password              "ਪਾਸਵਰਡ">
-<!ENTITY sync.syncKey               "ਸਿੰਕ ਕੁੰਜੀ">
 <!ENTITY sync.recoveryKey           "ਕੁੰਜੀ ਮੁੜ-ਪ੍ਰਾਪਤੀ">
 <!ENTITY sync.customServer          "ਪਸੰਦੀਦਾ ਸਰਵਰ ਵਰਤੋਂ">
 <!ENTITY sync.serverURL             "ਸਰਵਰ URL">
