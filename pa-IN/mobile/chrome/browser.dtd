@@ -95,9 +95,11 @@
 <!ENTITY consoleErrColumn.label    "ਕਾਲਮ:">
 
 <!ENTITY contextOpenInNewTab.label    "ਲਿੰਕ ਨਵੀਂ ਟੈਬ 'ਚ ਖੋਲ੍ਹੋ">
-<!ENTITY contextSaveLink.label        "ਲਿੰਕ ਸੰਭਾਲੋ">
 <!ENTITY contextSaveImage.label       "ਚਿੱਤਰ ਸੰਭਾਲੋ">
 <!ENTITY contextCopyLink.label        "ਲਿੰਕ ਕਾਪੀ ਕਰੋ">
+<!ENTITY contextCopyEmail.label       "ਈਮੇਲ ਐਡਰੈਸ ਕਾਪੀ ਕਰੋ">
+<!ENTITY contextCopyPhone.label       "ਫੋਨ ਨੰਬਰ ਕਾਪੀ ਕਰੋ">
+<!ENTITY contextCopyImageLocation.label       "ਚਿੱਤਰ ਟਿਕਾਣਾ ਕਾਪੀ ਕਰੋ">
 <!ENTITY contextShareLink.label       "ਲਿੰਕ ਸਾਂਝਾ ਕਰੋ">
 <!ENTITY contextBookmarkLink.label    "ਲਿੰਕ ਬੁੱਕਮਾਰਕ ਕਰੋ">
 <!ENTITY contextShareImage.label      "ਚਿੱਤਰ ਸਾਂਝਾ ਕਰੋ">
@@ -119,6 +121,5 @@
 <!ENTITY pageactions.findInPage      "ਸਫ਼ੇ 'ਚ ਲੱਭੋ">
 <!ENTITY pageactions.search.addNew   "ਖੋਜ ਇੰਜਣ ਸ਼ਾਮਲ">
 <!ENTITY pageactions.charEncoding    "ਅੱਖਰ ਇੰਕੋਡਿੰਗ">
-<!ENTITY pageactions.webapps.install "App ਵਜੋਂ ਇੰਸਟਾਲ ਕਰੋ">
 
 <!ENTITY appMenu.siteOptions         "ਸਾਈਟ ਚੋਣਾਂ">

@@ -86,6 +86,9 @@
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "ਲਿੰਕ ਚਿੱਤਰ ਦੁਆਲੇ ਚਿੱਤਰ ਦਿਓ">
 <!ENTITY showImageLinkBorder.accessKey "B">
+<!ENTITY LinkAdvancedEditButton.label "ਲਿੰਕ ਤਕਨੀਕੀ ਸੋਧ…">
+<!ENTITY LinkAdvancedEditButton.accessKey "L">
+<!ENTITY LinkAdvancedEditButton.tooltip "HTML ਗੁਣ, ਸਟਾਇਲ ਗੁਣ ਅਤੇ ਜਾਵਾਸਕ੍ਰਿਪਟ ਸ਼ਾਮਲ ਕਰੋ ਜਾਂ ਸੋਧ">
 
 
 <!-- These tabs are currently used in the image input dialog -->

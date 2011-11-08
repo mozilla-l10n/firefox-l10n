@@ -68,12 +68,6 @@
 <!ENTITY publishAsCmd.accesskey "h">
 <!ENTITY saveAsChangeEncodingCmd.label "ਸੰਭਾਲੋ ਅਤੇ ਅੱਖਰ ਇੰਕੋਡਿੰਗ ਬਦਲੋ">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "E">
-<!ENTITY printSetupCmd.label "ਸਫ਼ਾ ਸੈਟਅੱਪ…">
-<!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printCmd.label "ਪਰਿੰਟ ਕਰੋ…">
-<!ENTITY printCmd.accesskey "P">
-<!ENTITY printCmd.key "P">
-
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "ਸੋਧ">

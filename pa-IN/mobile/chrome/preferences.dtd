@@ -22,4 +22,6 @@
 <!ENTITY homepage.default                          "&brandShortName; ਸ਼ੁਰੂ">
 <!ENTITY homepage.currentpage                      "ਮੌਜੂਦਾ ਸਫ਼ਾ ਵਰਤੋਂ">
 <!ENTITY showCharsetEncoding.title                 "ਅੱਖਰ ਇੰਕੋਡਿੰਗ ਵਰਤੋਂ">
+<!ENTITY actionbar.default                         "&brandShortName; ਸੈਟਿੰਗ">
+
 

@@ -6,6 +6,9 @@
 
 <!-- General Settings -->
 
+<!ENTITY submitTelemetry.label         "ਕਾਰਗੁਜ਼ਾਰੀ ਡਾਟਾ ਭੇਜੋ">
+<!ENTITY submitTelemetry.accesskey     "P">
+<!ENTITY telemetryInfoLink.label       "ਟੈਲੀਮੈਟਰੀ ਬਾਰੀ ਹੋਰ ਜਾਣਕਾਰੀ">
 <!ENTITY enableGlodaSearch.label       "ਗਲੋਬਲ ਖੋਜ ਅਤੇ ਇੰਡੈਕਸਰ ਚਾਲੂ">
 <!ENTITY enableGlodaSearch.accesskey   "E">
 <!ENTITY systemIntegration.label       "ਸਿਸਟਮ ਸਬੰਧ">
@@ -96,8 +99,8 @@
 <!ENTITY clearCacheNow.accesskey         "C">
 
 <!-- Certificates -->
-<!ENTITY certSelection.description       "When a server requests my personal certificate:">
-<!ENTITY certs.auto                      "ਇੱਕ ਆਟੋਮੈਟਿਖ ਚੁਣੋ">
+<!ENTITY certSelection.description       "ਜਦੋਂ ਇੱਕ ਸਰਵਰ ਮੇਰੇ ਨਿੱਜੀ ਸਰਟੀਫਿਕੇਟ ਦੀ ਮੰਗ ਕਰੇ:">
+<!ENTITY certs.auto                      "ਇੱਕ ਆਟੋਮੈਟਿਕ ਚੁਣੋ">
 <!ENTITY certs.auto.accesskey            "m">
 <!ENTITY certs.ask                       "ਮੈਨੂੰ ਹਰ ਵਾਰ ਪੁੱਛੋ">
 <!ENTITY certs.ask.accesskey             "A">

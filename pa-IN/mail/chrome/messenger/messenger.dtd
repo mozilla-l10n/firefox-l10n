@@ -97,13 +97,13 @@
 <!ENTITY selectThreadCmd.label "ਥਰਿੱਡ">
 <!ENTITY selectThreadCmd.accesskey "T">
 <!ENTITY selectThreadCmd.key "a">
-<!ENTITY selectFlaggedCmd.label "Starred Messages">
+<!ENTITY selectFlaggedCmd.label "ਤਾਰਾ ਲਗਾਏ ਸੁਨੇਹੇ">
 <!ENTITY selectFlaggedCmd.accesskey "S">
-<!ENTITY menuFavoriteFolder.label "Favorite Folder">
+<!ENTITY menuFavoriteFolder.label "ਪਸੰਦੀਦਾ ਫੋਲਡਰ">
 <!ENTITY menuFavoriteFolder.accesskey "v">
-<!ENTITY folderPropsCmd.label "Properties…">
-<!ENTITY folderPropsFolderCmd.label "Folder Properties…">
-<!ENTITY folderPropsNewsgroupCmd.label "Newsgroup Properties…">
+<!ENTITY folderPropsCmd.label "ਵਿਸ਼ੇਸ਼ਤਾ…">
+<!ENTITY folderPropsFolderCmd.label "ਫੋਲਡਰ ਵਿਸ਼ੇਸ਼ਤਾ…">
+<!ENTITY folderPropsNewsgroupCmd.label "ਨਿਊਜ਼ਗਰੁੱਪ ਵਿਸ਼ੇਸ਼ਤਾ…">
 <!ENTITY folderPropsCmd.accesskey "o">
 <!ENTITY undoDeleteMsgCmd.label "Undo Delete Message">
 <!ENTITY redoDeleteMsgCmd.label "Redo Delete Message">
@@ -119,6 +119,8 @@
 <!ENTITY redoDefaultCmd.accesskey "R">
 
 <!-- View Menu -->
+<!ENTITY menubarCmd.label "ਮੇਨੂ ਪੱਟੀ">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showMessengerToolbarCmd.label "ਮੇਲ ਟੂਲਬਾਰ">
 <!ENTITY showMessengerToolbarCmd.accesskey "o">
 <!ENTITY customizeToolbar.label "ਕਸਟਮਾਈਜ਼…">
@@ -177,15 +179,15 @@
 <!ENTITY sortByRecipientCmd.accesskey "c">
 <!ENTITY sortByUnreadCmd.label "ਪੜ੍ਹੇ">
 <!ENTITY sortByUnreadCmd.accesskey "R">
-<!ENTITY sortByOrderReceivedCmd.label "Order Received">
+<!ENTITY sortByOrderReceivedCmd.label "ਪ੍ਰਾਪਤੀ ਕ੍ਰਮ">
 <!ENTITY sortByOrderReceivedCmd.accesskey "O">
 <!ENTITY sortAscending.label "ਵੱਧਦਾ ਕ੍ਰਮ">
 <!ENTITY sortAscending.accesskey "A">
 <!ENTITY sortDescending.label "ਘੱਟਦਾ ਕ੍ਰਮ">
 <!ENTITY sortDescending.accesskey "D">
-<!ENTITY sortThreaded.label "Threaded">
+<!ENTITY sortThreaded.label "ਥਰਿੱਡ">
 <!ENTITY sortThreaded.accesskey "T">
-<!ENTITY sortUnthreaded.label "Unthreaded">
+<!ENTITY sortUnthreaded.label "ਬਿਨ-ਥਰਿੱਡ">
 <!ENTITY sortUnthreaded.accesskey "h">
 <!ENTITY groupBySort.label "Grouped By Sort">
 <!ENTITY groupBySort.accesskey "G">
@@ -195,19 +197,19 @@
 <!ENTITY threads.accesskey "e">
 <!ENTITY allMsgsCmd.label "ਸਭ">
 <!ENTITY allMsgsCmd.accesskey "A">
-<!ENTITY expandAllThreadsCmd.label "Expand All Threads">
+<!ENTITY expandAllThreadsCmd.label "ਸਭ ਥਰਿੱਡ ਫੈਲਾਓ">
 <!ENTITY expandAllThreadsCmd.accesskey "E">
 <!ENTITY expandAllThreadsCmd.key "*">
 <!ENTITY collapseAllThreadsCmd.label "Collapse All Threads">
 <!ENTITY collapseAllThreadsCmd.accesskey "C">
 <!ENTITY collapseAllThreadsCmd.key "\">
-<!ENTITY unreadMsgsCmd.label "Unread">
+<!ENTITY unreadMsgsCmd.label "ਨਾ-ਪੜ੍ਹੇ">
 <!ENTITY unreadMsgsCmd.accesskey "U">
 <!ENTITY threadsWithUnreadCmd.label "Threads with Unread">
 <!ENTITY threadsWithUnreadCmd.accesskey "T">
 <!ENTITY watchedThreadsWithUnreadCmd.label "Watched Threads with Unread">
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "W">
-<!ENTITY ignoredThreadsCmd.label "Ignored Threads">
+<!ENTITY ignoredThreadsCmd.label "ਅਣਡਿੱਠੇ ਕੀਤੇ ਥਰਿੱਡ">
 <!ENTITY ignoredThreadsCmd.accesskey "i">
 
 <!ENTITY headersMenu.label "ਹੈੱਡਰ">
@@ -236,7 +238,7 @@
 <!ENTITY viewFeedSummaryFeedPropsPref.label "ਡਿਫਾਲਟ ਫਾਰਮੈਟ">
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "D">
 
-<!ENTITY viewAttachmentsInlineCmd.label "Display Attachments Inline">
+<!ENTITY viewAttachmentsInlineCmd.label "ਅਟੈਚਮੈਂਟ ਇਨਲਾਈਨ ਵੇਖਾਓ">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "A">
 
 <!-- LOCALIZATION NOTE :
@@ -261,7 +263,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY fullZoomToggleCmd.label        "Zoom Text Only">
+<!ENTITY fullZoomToggleCmd.label        "ਕੇਵਲ ਟੈਕਸਟ ਹੀ ਜ਼ੂਮ ਕਰੋ">
 <!ENTITY fullZoomToggleCmd.accesskey    "T">
 <!ENTITY fullZoom.label                 "ਜ਼ੂਮ">
 <!ENTITY fullZoom.accesskey             "Z">
@@ -269,6 +271,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageSourceCmd.label "ਸੁਨੇਹਾ ਸਰੋਤ">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.key "u">
+<!ENTITY getNewMessagesCmd.key "y">
+<!ENTITY getAllNewMessagesCmd.key "Y">
 
 <!-- Search Menu -->
 <!ENTITY findMenu.label "ਖੋਜ">
@@ -309,7 +313,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY prevMsgCmd.label "ਸੁਨੇਹਾ">
 <!ENTITY prevMsgCmd.accesskey "M">
 <!ENTITY prevMsgCmd.key "b">
-<!ENTITY prevUnreadMsgCmd.label "Unread Message">
+<!ENTITY prevUnreadMsgCmd.label "ਨਾ-ਪੜ੍ਹੇ ਸੁਨੇਹਾ">
 <!ENTITY prevUnreadMsgCmd.accesskey "U">
 <!ENTITY prevUnreadMsgCmd.key "p">
 <!ENTITY goForwardCmd.label "ਅੱਗੇ">
@@ -498,12 +502,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY previousButton.label "ਪਿੱਛੇ">
 <!ENTITY backButton1.label "ਪਿੱਛੇ">
 <!ENTITY goForwardButton1.label "ਅੱਗੇ">
+<!ENTITY deleteItem.title "ਹਟਾਓ">
 <!ENTITY deleteButton.label "ਹਟਾਓ">
 <!ENTITY undeleteButton.label "ਹਟਾਉਣਾ ਰੱਦ ਕਰੋ">
 <!ENTITY markButton.label "ਨਿਸ਼ਾਨਬੱਧ">
 <!ENTITY printButton.label "ਪਰਿੰਟ ਕਰੋ">
 <!ENTITY stopButton.label "ਰੋਕੋ">
 <!ENTITY throbberItem.title "ਸਰਗਰਮੀ ਇੰਡੀਕੇਟਰ">
+<!ENTITY junkItem.title "ਜੰਕ">
 <!ENTITY junkButton.label "ਜੰਕ">
 <!ENTITY notJunkButton.label "ਜੰਕ ਨਹੀਂ">
 <!ENTITY addressBookButton.label "ਐਡਰੈੱਸ ਬੁੱਕ">
@@ -537,9 +543,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY stopButton.tooltip "ਮੌਜੂਦਾ ਟਰਾਂਸਫਰ ਰੋਕੋ">
 <!ENTITY junkButton.tooltip "Mark the selected messages as junk">
 <!ENTITY notJunkButton.tooltip "Mark the selected messages as not junk">
-<!ENTITY addressBookButton.tooltip "Go to the address book">
+<!ENTITY addressBookButton.tooltip "ਐਡਰੈਸ ਬੁੱਕ ਉੱਤੇ ਜਾਓ">
 <!ENTITY tagButton.tooltip "ਸੁਨੇਹੇ ਟੈਗ ਕਰੋ">
-<!ENTITY compactButton.tooltip "Remove deleted messages from selected folder">
+<!ENTITY compactButton.tooltip "ਚੁਣੇ ਫੋਲਡਰ ਤੋਂ ਹਟਾਏ ਗਏ ਸੁਨੇਹੇ ਹਟਾਓ">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "ਨਵਾਂ ਟੈਗ…">
@@ -574,7 +580,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextUnsubscribe.accesskey "U">
 <!ENTITY folderContextMarkNewsgroupRead.label "Mark Newsgroup Read">
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "k">
-<!ENTITY folderContextMarkMailFolderRead.label "Mark Folder Read">
+<!ENTITY folderContextMarkMailFolderRead.label "ਫੋਲਡਰ ਪੜ੍ਹਿਆ ਬਣਾਓ">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "k">
 <!ENTITY folderContextSubscribe.label "ਮੈਂਬਰ ਬਣੋ…">
 <!ENTITY folderContextSubscribe.accesskey "b">
@@ -621,7 +627,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY receivedColumn.label "ਪ੍ਰਾਪਤ ਹੋਏ">
 <!ENTITY starredColumn.label "Starred">
 <!ENTITY locationColumn.label "ਟਿਕਾਣਾ">
-<!ENTITY idColumn.label "Order Received">
+<!ENTITY idColumn.label "ਪ੍ਰਾਪਤੀ ਕ੍ਰਮ">
 <!ENTITY attachmentColumn.label "ਅਟੈਚਮੈਂਟ">
 
 <!-- Thread Pane Tooltips -->
@@ -847,8 +853,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.label "ਘੱਟੋ-ਘੱਟ">
 <!ENTITY minimizeWindow.key "m">
-<!ENTITY bringAllToFront.label "Bring All to Front">
-<!ENTITY zoomWindow.label "Zoom">
+<!ENTITY bringAllToFront.label "ਸਭ ਅੱਗੇ ਲਿਆਓ">
+<!ENTITY zoomWindow.label "ਜ਼ੂਮ">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
 <!ENTITY preferencesCmdMac.label        "ਮੇਰੀ ਪਸੰਦ…">

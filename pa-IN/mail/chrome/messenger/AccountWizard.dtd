@@ -4,10 +4,9 @@
 <!ENTITY accountWizard.size "width: 40em; height: 38em;">
 
 <!-- Entities for Account Type page -->
-
-<!ENTITY accountSetupInfo.label "ਮੇਲ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ, ਤੁਹਾਨੂੰ ਪਹਿਲਾਂ ਇੱਕ ਮੇਲ ਜਾਂ ਨਿਊਜ਼ਗਰੁੱਪ ਅਕਾਊਂਟ ਸੰਰਚਿਤ ਕਰਨਾ ਪਵੇਗਾ।">
+<!ENTITY accountSetupInfo2.label "ਸੁਨੇਹੇ ਪ੍ਰਾਪਤ ਕਰਨ ਦੇ ਲਈ, ਤੁਹਾਨੂੰ ਪਹਿਲਾਂ ਇੱਕ ਅਕਾਊਂਟ ਸੈਟਅੱਪ ਕਰਨਾ ਪਵੇਗਾ।">
 <!ENTITY accountTypeTitle.label "ਨਵਾਂ ਅਕਾਊਂਟ ਸੈੱਟਅੱਪ">
-<!ENTITY accountTypeDesc.label "ਇਹ ਸਹਾਇਕ ਮੇਲ ਜਾਂ ਨਿਊਜ਼ਗਰੁੱਪ ਅਕਾਊਂਟ ਬਣਾਉਣ ਬਾਰੇ ਜਾਣਕਾਰੀ ਇੱਕਠੀ ਕਰੇਗਾ। ਜੇਕਰ ਤੁਸੀਂ ਲੋੜੀਦੀਂ ਜਾਣਕਾਰੀ ਬਾਰੇ ਜਾਣਦੇ ਨਹੀਂ ਹੋ ਤਾਂ ਆਪਣੇ ਸਿਸਟਮ ਐਡਮਿਨ ਜਾਂ ਇੰਟਰਨੈੱਟ ਸੇਵਾ ਉਪਲੱਬਧ ਕਰਤਾ ਨਾਲ ਸੰਪਰਕ ਕਰੋ।">
+<!ENTITY accountTypeDesc2.label "ਇਹ ਸਹਾਇਕ ਅਕਾਊਂਟ ਬਣਾਉਣ ਬਾਰੇ ਜਾਣਕਾਰੀ ਇੱਕਠੀ ਕਰੇਗਾ। ਜੇਕਰ ਤੁਸੀਂ ਲੋੜੀਦੀਂ ਜਾਣਕਾਰੀ ਬਾਰੇ ਜਾਣਦੇ ਨਹੀਂ ਹੋ ਤਾਂ ਆਪਣੇ ਸਿਸਟਮ ਐਡਮਿਨ ਜਾਂ ਇੰਟਰਨੈੱਟ ਸੇਵਾ ਉਪਲੱਬਧ ਕਰਤਾ ਨਾਲ ਸੰਪਰਕ ਕਰੋ">
 <!ENTITY accountTypeDirections.label "ਕਿਸ ਕਿਸਮ ਦਾ ਅਕਾਊਂਟ ਤੁਸੀਂ ਬਣਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ:">
 <!ENTITY accountTypeMail.label "ਈ-ਮੇਲ ਅਕਾਊਂਟ">
 <!ENTITY accountTypeMail.accesskey "m">

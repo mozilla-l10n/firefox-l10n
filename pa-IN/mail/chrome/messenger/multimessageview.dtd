@@ -1,4 +1,5 @@
 <!ENTITY window.title             "ਸੁਨੇਹਾ ਸੰਖੇਪ">
 <!ENTITY selectedmessages.label   "ਚੁਣੇ ਸੁਨੇਹੇ">
-<!ENTITY archive.label            "ਅਕਾਇਵ ਕਰੋ">
-<!ENTITY delete.label             "ਹਟਾਓ">
+<!ENTITY archiveButton.label      "ਅਕਾਇਵ">
+<!ENTITY deleteButton.label       "ਹਟਾਓ">
+

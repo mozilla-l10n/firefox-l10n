@@ -3,7 +3,7 @@
 <!ENTITY sync.connect               "ਕੁਨੈਕਟ ਕਰੋ">
 <!ENTITY sync.connected             "ਕੁਨੈਕਟ ਹੈ">
 <!ENTITY sync.details               "ਵੇਰਵਾ">
-<!ENTITY sync.synchronize           "ਸਿੰਕ ਚਾਲੂ ਕਰੋ">
+
 <!ENTITY sync.deviceName            "ਇਹ ਜੰਤਰ">
 <!ENTITY sync.disconnect            "ਡਿਸ-ਕੁਨੈਕਟ ਕਰੋ">
 <!ENTITY sync.syncNow               "ਹੁਣੇ ਸਿੰਕ ਕਰੋ">
@@ -15,6 +15,7 @@
 <!ENTITY sync.account               "ਅਕਾਊਂਟ ਨਾਂ">
 <!ENTITY sync.password              "ਪਾਸਵਰਡ">
 <!ENTITY sync.syncKey               "ਸਿੰਕ ਕੁੰਜੀ">
+<!ENTITY sync.recoveryKey           "ਕੁੰਜੀ ਮੁੜ-ਪ੍ਰਾਪਤੀ">
 <!ENTITY sync.customServer          "ਪਸੰਦੀਦਾ ਸਰਵਰ ਵਰਤੋਂ">
 <!ENTITY sync.serverURL             "ਸਰਵਰ URL">
 <!ENTITY sync.setup.connect         "ਕੁਨੈਕਟ ਕਰੋ">
