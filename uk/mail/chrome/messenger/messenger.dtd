@@ -119,6 +119,8 @@
 <!ENTITY redoDefaultCmd.accesskey "П">
 
 <!-- View Menu -->
+<!ENTITY menubarCmd.label "Панель меню">
+<!ENTITY menubarCmd.accesskey "м">
 <!ENTITY showMessengerToolbarCmd.label "Панель інструментів пошти">
 <!ENTITY showMessengerToolbarCmd.accesskey "П">
 <!ENTITY customizeToolbar.label "Налаштувати…">
@@ -269,6 +271,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageSourceCmd.label "Повний код листа">
 <!ENTITY pageSourceCmd.accesskey "п">
 <!ENTITY pageSourceCmd.key "u">
+<!ENTITY getNewMessagesCmd.key "y">
+<!ENTITY getAllNewMessagesCmd.key "Y">
 
 <!-- Search Menu -->
 <!ENTITY findMenu.label "Знайти">
@@ -498,12 +502,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY previousButton.label "Попереднє">
 <!ENTITY backButton1.label "Назад">
 <!ENTITY goForwardButton1.label "Вперед">
+<!ENTITY deleteItem.title "Delete">
 <!ENTITY deleteButton.label "Вилучити">
 <!ENTITY undeleteButton.label "Відновити">
 <!ENTITY markButton.label "Позначити">
 <!ENTITY printButton.label "Друк">
 <!ENTITY stopButton.label "Стоп">
 <!ENTITY throbberItem.title "Індикатор активності">
+<!ENTITY junkItem.title "Junk">
 <!ENTITY junkButton.label "Спам">
 <!ENTITY notJunkButton.label "Не спам">
 <!ENTITY addressBookButton.label "Адресна книга">
