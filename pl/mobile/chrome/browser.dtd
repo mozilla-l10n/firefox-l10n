@@ -7,8 +7,8 @@
 <!ENTITY go.label              "Przejdź">
 <!ENTITY star.label            "Gwiazdka">
 
-<!ENTITY newtab.label          "Nowa karta">
 <!ENTITY showTabs.label        "Pokaż karty">
+<!ENTITY newtab.label          "Nowa karta">
 <!ENTITY closetab.label        "Zamknij kartę">
 
 <!ENTITY cut.label             "Wytnij">
