@@ -156,13 +156,16 @@
 <!ENTITY inspectButton.accesskey "I">
 <!ENTITY inspectContextMenu.label "Inspeicionar Elementu">
 <!ENTITY inspectContextMenu.accesskey "Q">
+<!ENTITY inspectCloseButton.tooltiptext "Zarrar l'Inspector">
+<!ENTITY inspectStyleButton.label "Estilu">
+<!ENTITY inspectStyleButton.accesskey "S">
 <!ENTITY videoSaveImage.label "Guardar captura de pantalla como…">
 <!ENTITY videoSaveImage.accesskey "d">
 <!ENTITY videoShowStats.label "Amosar estadístiques">
 <!ENTITY videoShowStats.accesskey "t">
 <!ENTITY videoHideStats.label "Anubrir estadístiques">
 <!ENTITY videoHideStats.accesskey "t">
-
+<!ENTITY domFullScreenWarning.label "Calca ESC (escape) pa colar de la pantalla completa">
 <!ENTITY fileMenu.label "Ficheru">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY newNavigatorCmd.label "Ventana nueva">
