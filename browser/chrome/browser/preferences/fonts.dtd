@@ -7,8 +7,8 @@
 <!ENTITY  language.accesskey                      "T">
 
 <!ENTITY  size.label                              "Grando:">
-<!ENTITY  sizeProportional.accesskey              "z">
-<!ENTITY  sizeMonospace.accesskey                 "e">
+<!ENTITY  sizeProportional.accesskey              "r">
+<!ENTITY  sizeMonospace.accesskey                 "G">
 
 <!ENTITY  proportional.label                      "Proporcia:">
 <!ENTITY  proportional.accesskey                  "P">
@@ -16,7 +16,7 @@
 <!ENTITY  serif.label                             "Serifa:">
 <!ENTITY  serif.accesskey                         "S">
 <!ENTITY  sans-serif.label                        "Senserifa:">
-<!ENTITY  sans-serif.accesskey                    "e">
+<!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Egallarĝa:">
 <!ENTITY  monospace.accesskey                     "E">
 
@@ -66,4 +66,4 @@
 
 <!ENTITY languages.customize.Charset.grouplabel         "Signa enkodigo">
 <!ENTITY languages.customize.DefaultCharset.label       "Ĉefa signa enkodigo:">
-<!ENTITY languages.customize.DefaultCharset.accesskey   "S">
+<!ENTITY languages.customize.DefaultCharset.accesskey   "k">

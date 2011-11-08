@@ -7,7 +7,7 @@
 <!ENTITY useCursorNavigation.label       "Ĉiam uzi la moviĝoklavojn por moviĝi ene de paĝoj">
 <!ENTITY useCursorNavigation.accesskey   "m">
 <!ENTITY searchStartTyping.label         "Serĉi tekston kiam mi komencas tajpi">
-<!ENTITY searchStartTyping.accesskey     "k">
+<!ENTITY searchStartTyping.accesskey     "S">
 <!ENTITY blockAutoRefresh.label          "Averti min kiam retejoj klopodas redirekti aŭ reŝargi paĝon">
 <!ENTITY blockAutoRefresh.accesskey      "r">
 
@@ -18,7 +18,7 @@
 <!ENTITY useSmoothScrolling.label        "Uzi glatan ŝovadon">
 <!ENTITY useSmoothScrolling.accesskey    "g">
 <!ENTITY allowHWAccel.label              "Uzi aparatan akceladon se tio disponeblas">
-<!ENTITY allowHWAccel.accesskey          "k">
+<!ENTITY allowHWAccel.accesskey          "d">
 <!ENTITY checkSpelling.label             "Kontroli literumadon dum tajpado">
 <!ENTITY checkSpelling.accesskey         "t">
 
@@ -26,9 +26,9 @@
 <!ENTITY alwaysCheckDefault.label        "Ĉiam kontroli ĉe la eko ĉu &brandShortName; estas la ĉefa retumilo"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "k">
 <!ENTITY checkNow.label                  "Kontroli nun">
-<!ENTITY checkNow.accesskey              "K">
+<!ENTITY checkNow.accesskey              "N">
 <!ENTITY submitCrashes.label             "Sendi raportojn pri paneoj">
-<!ENTITY submitCrashes.accesskey         "S">
+<!ENTITY submitCrashes.accesskey         "p">
 <!ENTITY submitTelemetry.label           "Sendi informon pri efikeco">
 <!ENTITY submitTelemetry.accesskey       "e">
 
@@ -96,7 +96,7 @@
 <!ENTITY certificates.label              "Atestiloj">
 <!ENTITY certSelection.description       "Kiam servilo petas mian personan atestilon:">
 <!ENTITY certs.auto                      "Elekti unu aŭtomate">
-<!ENTITY certs.auto.accesskey            "l">
+<!ENTITY certs.auto.accesskey            "E">
 <!ENTITY certs.ask                       "Ĉiam demandi al mi">
 <!ENTITY certs.ask.accesskey             "i">
 <!ENTITY viewCerts.label                 "Vidi atestilojn">

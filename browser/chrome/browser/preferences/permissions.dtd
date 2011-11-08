@@ -18,5 +18,5 @@
 <!ENTITY windowClose.key              "w">
 
 <!ENTITY button.close.label           "Fermi">
-<!ENTITY button.close.accesskey       "F">
+<!ENTITY button.close.accesskey       "e">
 
