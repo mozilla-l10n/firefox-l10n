@@ -92,6 +92,8 @@
 <!ENTITY viewMenu.accesskey "В">
 <!ENTITY viewToolbarsMenuNew.label "Панелі інструментів"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "н"> 
+<!ENTITY menubarCmd.label "Панель меню">
+<!ENTITY menubarCmd.accesskey "м">
 <!ENTITY showCompositionToolbarCmd.label "Панель інструментів написання листа">
 <!ENTITY showCompositionToolbarCmd.accesskey "н">
 <!ENTITY showFormattingBarCmd.label "Панель форматування">
