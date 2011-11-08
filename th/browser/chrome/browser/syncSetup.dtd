@@ -19,8 +19,8 @@
 <!ENTITY signIn.account2.accesskey  "บ">
 <!ENTITY signIn.password.label      "รหัสผ่าน">
 <!ENTITY signIn.password.accesskey  "ร">
-<!ENTITY signIn.syncKey.label       "กุญแจ Sync">
-<!ENTITY signIn.syncKey.accesskey   "ก">
+<!ENTITY signIn.recoveryKey.label       "กุญแจกู้ข้อมูล">
+<!ENTITY signIn.recoveryKey.accesskey   "ญ">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "รายละเอียดบัญชี">
@@ -28,6 +28,10 @@
 <!ENTITY setup.confirmPassword.accesskey  "ย">
 <!ENTITY setup.emailAddress.label     "ที่อยู่อีเมล">
 <!ENTITY setup.emailAddress.accesskey "ท">
+<!ENTITY setup.choosePassword.label      "เลือกรหัสผ่าน">
+<!ENTITY setup.choosePassword.accesskey  "ผ">
+<!ENTITY setup.confirmPassword.label     "ยืนยันรหัสผ่าน">
+<!ENTITY setup.confirmPassword.accesskey "น">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
 <!ENTITY setup.tosAgree1.label      "ฉันยอมรับ">
@@ -39,12 +43,12 @@
 <!ENTITY setup.tosAgree2.accesskey  "">
 
 <!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; ห่วงใยความเป็นส่วนตัวของคุณ">
-<!ENTITY setup.newSyncKeyPage.description.label "เพื่อให้แน่ใจว่าข้อมูลของคุณจะถูกรักษาความเป็นส่วนตัวอย่างเต็มที่ ข้อมูลของคุณจะถูกเข้ารหัสลับก่อนอัปโหลด และ Sync Key ซึ่งจำเป็นสำหรับการถอดรหัสลับจะไม่ถูกอัปโหลดไปด้วย">
-<!ENTITY syncKeyEntry.label        "กุญแจ Sync ของคุณ">
-<!ENTITY syncKeyEntry.accesskey    "ก">
-<!ENTITY syncKeyGenerate.label     "สร้าง">
-<!ENTITY syncKeyBackup.description "การเข้าถึง &syncBrand.fullName.label; จากคอมพิวเตอร์เครื่องอื่น จำเป็นต้องใช้ กุญแจ Sync ของคุณ โปรดสำรองข้อมูลนี้ไว้ เราไม่สามารถช่วยกู้คืนกุญแจ Sync ของคุณได้">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; Cares About Your Privacy">
+<!ENTITY setup.newRecoveryKeyPage.description.label "To ensure your total privacy, all of your data is encrypted prior to being uploaded. The Recovery Key which is necessary to decrypt your data is not uploaded.">
+<!ENTITY recoveryKeyEntry.label        "กุญแจกู้ข้อมูลของคุณ">
+<!ENTITY recoveryKeyEntry.accesskey    "ญ">
+<!ENTITY syncGenerateNewKey.label  "สร้างกุญแจใหม่">
+<!ENTITY recoveryKeyBackup.description "&syncBrand.fullName.label; ต้องการกุญแจกู้ข้อมูลของคุณในการใช้งานกับเครื่องอื่น โปรดสำรองกุญแจกู้ข้อมูลไว้ เราไม่สามารถช่วยคุณกู้กุญแจกู้ข้อมูลของคุณได้">
 
 <!ENTITY button.syncKeyBackup.print.label     "พิมพ์…">
 <!ENTITY button.syncKeyBackup.print.accesskey "พ">
@@ -63,7 +67,7 @@
 <!ENTITY addDevice.dialog.enterCode.label   "กรอกรหัสที่ได้จากอุปกรณ์:">
 <!ENTITY addDevice.dialog.tryAgain.label    "โปรดลองอีกครั้ง">
 <!ENTITY addDevice.dialog.successful.label  "เพิ่มอุปกรณ์เรียบร้อยแล้ว การผสานข้อมูลในครั้งแรกอาจใช้เวลาหลายนาที และจะเสร็จสิ้นในการทำงานเบื้องหลัง">
-<!ENTITY addDevice.dialog.syncKey.label     "คุณต้องใช้กุญแจ Sync ในการเปิดการใช้งานบนอุปกรณ์ของคุณ โปรดพิมพ์หรือบันทึกกุญแจนี้ไว้และเก็บไว้กับตัวคุณเอง">
+<!ENTITY addDevice.dialog.recoveryKey.label     "คุณต้องกรอกกุญแจกู้ข้อมูลเพื่อเปิดใช้อุปกรณ์ของคุณ โปรแกรมพิมพ์หรือบันทึกกุญแจนี้เพื่อความง่ายต่อการนำติดตัว">
 <!ENTITY addDevice.dialog.connected.label   "อุปกรณ์เชื่อมต่อแล้ว">
 
 <!-- Existing Account Page 1: Login -->
@@ -71,9 +75,12 @@
 <!ENTITY resetPassword.label          "ล้างรหัสผ่าน">
 <!ENTITY resetSyncKey.label           "ฉันทำอุปกรณ์อื่นหาย">
 
-<!-- Existing Account Page 2: Sync Key -->
-<!ENTITY existingSyncKey.description  "คุณสามารถหาสำเนากุญแจ Sync ของคุณได้โดยไปที่ตัวเลือก &syncBrand.shortName.label; บนอุปกรณ์อื่นของคุณ แล้วเลือก &#x0022;กุญแจ Sync ของฉัน&#x0022; ในส่วน &#x0022;จัดการบัญชีผู้ใช้&#x0022;.">
+<!-- Existing Account Page 2: Manual Login -->
+<!ENTITY setup.signInPage.title.label "Sign In">
+<!ENTITY existingRecoveryKey.description "You can get a copy of your Recovery Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Recovery Key&#x0022; under &#x0022;Manage Account&#x0022;.">
 <!ENTITY verifying.label              "กำลังตรวจสอบ…">
+<!ENTITY resetPassword.label          "ล้างรหัสผ่าน">
+<!ENTITY resetSyncKey.label           "ฉันทำอุปกรณ์ชิ้นอื่นหาย">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "ตัวเลือก Sync">
