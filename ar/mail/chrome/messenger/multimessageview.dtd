@@ -1,4 +1,4 @@
 <!ENTITY window.title "ملخص الرسائل">
 <!ENTITY selectedmessages.label "الرسائل المختارة">
-<!ENTITY archiveButton.label "Archive">
-<!ENTITY deleteButton.label "Delete">
+<!ENTITY archiveButton.label "أرشِف">
+<!ENTITY deleteButton.label "احذف">
