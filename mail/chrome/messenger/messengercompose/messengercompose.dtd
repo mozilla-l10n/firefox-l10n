@@ -16,6 +16,7 @@
 <!ENTITY attachMenu.accesskey "f">
 <!ENTITY attachFileCmd.label "Bifoga fil…">
 <!ENTITY attachFileCmd.accesskey "B">
+<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachPageCmd.label "Bifoga webbsida…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->

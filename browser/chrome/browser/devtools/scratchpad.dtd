@@ -95,22 +95,23 @@
 <!ENTITY browserContext.label         "Webbläsaren">
 <!ENTITY browserContext.accesskey     "W">
 
-<!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
+<!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
-<!ENTITY resetContext.label           "Återställ">
-<!ENTITY resetContext.accesskey       "Å">
+<!ENTITY resetContext2.label          "Återställ variabler">
+<!ENTITY resetContext2.accesskey      "Å">
 
 <!ENTITY executeMenu.label            "Kör">
 <!ENTITY executeMenu.accesskey        "K">
 
-<!ENTITY toolsMenu.label              "Verktyg">
-<!ENTITY toolsMenu.accesskey          "V">
-
-<!ENTITY errorConsoleCmd.label        "Felkonsol">
-<!ENTITY errorConsoleCmd.accesskey    "F">
+<!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
+  -  the browser Error Console, the key should be identical to the property of
+  -  the same name in browser.dtd.
+  -->
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY webConsoleCmd.label          "Webbkonsol">
-<!ENTITY webConsoleCmd.accesskey      "W">
+<!-- LOCALIZATION NOTE (webConsoleCmd.commandkey): This command key launches
+  -  the browser WebConsole, the key should be identical to the property of
+  -  the same name in browser.dtd.
+  -->
 <!ENTITY webConsoleCmd.commandkey     "k">

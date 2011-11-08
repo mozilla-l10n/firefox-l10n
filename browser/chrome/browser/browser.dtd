@@ -121,6 +121,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "D">
 <!ENTITY fullScreenExit.label "Avsluta helskärmsläget">
 <!ENTITY fullScreenExit.accesskey "A">
+<!ENTITY domFullScreenWarning.label "Tryck ESC för att lämna helskärmsläget">
 
 <!ENTITY closeWindow.label "Stäng fönster">
 <!ENTITY closeWindow.accesskey "t">
@@ -243,9 +244,12 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectPanelTitle.label      "HTML">
-<!ENTITY inspectButton.label          "Inspektera">
-<!ENTITY inspectButton.accesskey      "I">
+<!ENTITY inspectPanelTitle.label       "HTML">
+<!ENTITY inspectButton.label           "Inspektera">
+<!ENTITY inspectButton.accesskey       "I">
+<!ENTITY inspectCloseButton.tooltiptext "Stäng inspektör">
+<!ENTITY inspectStyleButton.label     "Stil">
+<!ENTITY inspectStyleButton.accesskey "S">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Hämta fler verktyg">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "H">
@@ -450,9 +454,9 @@ can reach it easily. -->
 
 <!-- Media (video/audio) controls -->
 <!ENTITY mediaPlay.label             "Spela upp">
-<!ENTITY mediaPlay.accesskey         "p">
+<!ENTITY mediaPlay.accesskey         "S">
 <!ENTITY mediaPause.label            "Pausa">
-<!ENTITY mediaPause.accesskey        "P">
+<!ENTITY mediaPause.accesskey        "s">
 <!ENTITY mediaMute.label             "Ljud av">
 <!ENTITY mediaMute.accesskey         "L">
 <!ENTITY mediaUnmute.label           "Ljud på">
@@ -463,7 +467,12 @@ can reach it easily. -->
 <!ENTITY mediaHideControls.accesskey "k">
 <!ENTITY videoFullScreen.label       "Helskärm">
 <!ENTITY videoFullScreen.accesskey   "H">
-
+<!ENTITY videoSaveImage.label        "Spara ögonblicksbild som…">
+<!ENTITY videoSaveImage.accesskey    "ö">
+<!ENTITY videoShowStats.label        "Visa statistik">
+<!ENTITY videoShowStats.accesskey    "a">
+<!ENTITY videoHideStats.label        "Dölj statistik">
+<!ENTITY videoHideStats.accesskey    "a">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
