@@ -119,8 +119,8 @@
 <!ENTITY redoDefaultCmd.accesskey "ع">
 <!-- View Menu -->
 
-<!ENTITY menubarCmd.label "Menu Bar">
-<!ENTITY menubarCmd.accesskey "M">
+<!ENTITY menubarCmd.label "شريط القائمة">
+<!ENTITY menubarCmd.accesskey "ئ">
 <!ENTITY showMessengerToolbarCmd.label "شريط أدوات البريد">
 <!ENTITY showMessengerToolbarCmd.accesskey "ر">
 <!ENTITY customizeToolbar.label "خصّص…">
@@ -503,14 +503,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY previousButton.label "السابق">
 <!ENTITY backButton1.label "إلى الخلف">
 <!ENTITY goForwardButton1.label "إلى الأمام">
-<!ENTITY deleteItem.title "Delete">
+<!ENTITY deleteItem.title "حذف">
 <!ENTITY deleteButton.label "احذف">
 <!ENTITY undeleteButton.label "ألغِ الحذف">
 <!ENTITY markButton.label "أشِّر">
 <!ENTITY printButton.label "اطبع">
 <!ENTITY stopButton.label "قف">
 <!ENTITY throbberItem.title "مبيّن النشاط">
-<!ENTITY junkItem.title "Junk">
+<!ENTITY junkItem.title "سخام">
 <!ENTITY junkButton.label "سخام">
 <!ENTITY notJunkButton.label "ليست سخامًا">
 <!ENTITY addressBookButton.label "دفتر العناوين">
