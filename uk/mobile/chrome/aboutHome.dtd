@@ -9,3 +9,13 @@
 <!ENTITY aboutHome.noTabs                       "Нема вкладок з минулого разу">
 <!ENTITY aboutHome.noAddons                     "Нема рекомендованих додатків">
 <!ENTITY aboutHome.getLocale                    "Змінити мову">
+<!ENTITY aboutHome.getInBeforeBeta              "Не чекайте Бети.">
+<!ENTITY aboutHome.tryAurora                    "Долучайтесь до тесту Firefox Аврора та впливайте на майбутнє Firefox.">
+<!-- LOCALIZATION NOTE:
+     (aboutHome.downloadAurora): First line of a multi-line button. Treat as a title.
+-->
+<!ENTITY aboutHome.downloadAurora		"Завантажити Аврору">
+<!-- LOCALIZATION NOTE:
+     (aboutHome.forAndroid): Second line of a multi-line button. Treat as a subtitle.
+-->
+<!ENTITY aboutHome.forAndroid			"під Android">
