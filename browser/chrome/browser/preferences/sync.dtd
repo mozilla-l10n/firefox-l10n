@@ -13,9 +13,9 @@
 <!ENTITY manageAccount.label          "Håndter konto">
 <!ENTITY manageAccount.accesskey      "H">
 <!ENTITY viewQuota.label              "Vis kvota">
-<!ENTITY changePassword2.label         "Ændr adgangskode…">
-<!ENTITY mySyncKey.label              "Min Sync-nøgle">
-<!ENTITY resetSync2.label              "Nulstil Sync…">
+<!ENTITY changePassword2.label        "Ændr adgangskode…">
+<!ENTITY myRecoveryKey.label          "Min gendannelsesnøgle">
+<!ENTITY resetSync2.label             "Nulstil Sync…">
 
 <!ENTITY addDevice.label              "Tilføj enhed">
 
