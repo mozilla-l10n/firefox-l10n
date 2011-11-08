@@ -14,12 +14,6 @@
 # link title for http://en-US.www.mozilla.com/en-US/firefox/central/
 #define getting_started Cómo entamar
 
-# LOCALIZATION NOTE (latest_headlines):
-# link title for the live bookmarks sample, a redirect on
-# http://en-US.fxfeeds.mozilla.com/en-US/firefox/headlines.xml
-# Changing the redirect is subject to approval of l10n-drivers.
-#define latest_headlines Caberes noticies
-
 # LOCALIZATION NOTE (firefox_heading):
 # Firefox links folder name
 #define firefox_heading Mozilla Firefox
