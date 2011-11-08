@@ -6,7 +6,7 @@
 <!ENTITY select.heading              "Uw add-ons selecteren">
 <!-- LOCALIZATION NOTE (select.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
-<!ENTITY select.description          "Maak &brandShortName; nog sneller door add-ons uit te schakelen die u niet langer gebruikt. Add-ons geïnstalleerd door derden worden automatisch uitgeschakeld tenzij u ze hieronder selecteerd.">
+<!ENTITY select.description          "Maak &brandShortName; nog sneller door add-ons uit te schakelen die u niet langer gebruikt. Add-ons geïnstalleerd door derden worden automatisch uitgeschakeld, tenzij u ze hieronder selecteert.">
 <!ENTITY select.keep                 "Houden">
 <!-- LOCALIZATION NOTE (select.keep.style): Should be a width wide enough for
      the string in select.keep above. -->
@@ -25,10 +25,10 @@
 <!ENTITY confirm.heading             "Uw add-ons selecteren">
 <!-- LOCALIZATION NOTE (confirm.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
-<!ENTITY confirm.description         "Maak &brandShortName; nog sneller door add-ons uit te schakelen die u niet langer gebruikt. Add-ons geïnstalleerd door derden worden automatisch uitgeschakeld tenzij u ze hieronder selecteerd.">
+<!ENTITY confirm.description         "Maak &brandShortName; nog sneller door add-ons uit te schakelen die u niet langer gebruikt. Add-ons geïnstalleerd door derden worden automatisch uitgeschakeld, tenzij u ze hieronder selecteert.">
 
 <!ENTITY action.disable.heading      "De volgende add-ons worden uitgeschakeld:">
-<!ENTITY action.incompatible.heading "De volgende add-ons zijn uitgeschakeld maar worden ingeschakled zodra ze compatibel zijn:">
+<!ENTITY action.incompatible.heading "De volgende add-ons zijn uitgeschakeld maar worden ingeschakeld zodra ze compatibel zijn:">
 <!ENTITY action.update.heading       "De volgende add-ons worden bijgewerkt:">
 <!ENTITY action.enable.heading       "De volgende add-ons worden ingeschakeld:">
 
