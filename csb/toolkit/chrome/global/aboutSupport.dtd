@@ -27,6 +27,7 @@
 <!ENTITY aboutSupport.appBasicsBuildConfig "Kònfigùracëjã brëkòwóną do kòmpilacji">
 <!ENTITY aboutSupport.appBasicsUserAgent "Pòstrzédnik brëkòwnika">
 <!ENTITY aboutSupport.appBasicsCrashIDs "Rapòrtë ò awarjach">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Ùżëcy pamiãcë">
 <!ENTITY aboutSupport.show.label "Òtemkni zamëkający w se katalog">
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific

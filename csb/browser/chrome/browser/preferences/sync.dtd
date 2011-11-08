@@ -21,7 +21,7 @@
 <!ENTITY manageAccount.accesskey      "S">
 <!ENTITY viewQuota.label              "Òbaczë limitë">
 <!ENTITY changePassword2.label        "Resetëjë parolã…">
-<!ENTITY mySyncKey.label          "Mój klucz sync">
+<!ENTITY myRecoveryKey.label          "Mój klucz òdzyskù">
 <!ENTITY resetSync2.label             "Resetëjë synchronizacjô…">
 <!ENTITY addDevice.label              "Dodôj ùrządzenié">
 

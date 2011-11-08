@@ -13,8 +13,8 @@
 <!ENTITY useCurrentPage.label      "Brëkùjë aktualny starnë">
 <!ENTITY useCurrentPage.accesskey  "a">
 <!ENTITY useMultiple.label         "Brëkùjë ti starnë">
-<!ENTITY useBookmark.label      "Brëkùjë załóżczi…">
-<!ENTITY useBookmark.accesskey  "B">
+<!ENTITY chooseBookmark.label      "Brëkùjë załóżczi…">
+<!ENTITY chooseBookmark.accesskey  "B">
 <!ENTITY restoreDefault.label      "Doprowôdzë domëslną nazôd">
 <!ENTITY restoreDefault.accesskey  "D">
 
