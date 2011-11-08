@@ -1,5 +1,3 @@
-<!ENTITY  splash_screen_loading "Uruchamianie">
-<!ENTITY  splash_screen_installing_libs "Instalowanie bibliotek\u2026">
 <!ENTITY  splash_firstrun "&brandShortName; — Przygotowywanie\u2026">
 
 <!ENTITY  no_space_to_start_error "Na dysku jest za mało wolnego miejsca aby uruchomić program &brandShortName;">
