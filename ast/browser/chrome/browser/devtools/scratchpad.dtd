@@ -88,17 +88,14 @@
 <!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
   -  to reset/clear the global object of the context where the code executes.
   -->
-<!ENTITY resetContext.label           "Resetear">
-<!ENTITY resetContext.accesskey       "R">
+<!ENTITY resetContext2.label           "Restablecer">
+<!ENTITY resetContext2.accesskey       "R">
 
-<!ENTITY toolsMenu.label              "Ferramientes">
-<!ENTITY toolsMenu.accesskey          "F">
 
-<!ENTITY errorConsoleCmd.label        "Fallu Consola">
-<!ENTITY errorConsoleCmd.accesskey    "C">
+
+
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY webConsoleCmd.label          "Consola Web">
-<!ENTITY webConsoleCmd.accesskey      "W">
+
 <!ENTITY webConsoleCmd.commandkey     "k">
 
