@@ -2,7 +2,7 @@
 <!ENTITY newWindowsAsTabs.accesskey   "f">
 
 <!ENTITY warnCloseMultipleTabs.label  "Atentigi min antaŭ ol fermi plurajn foliojn">
-<!ENTITY warnCloseMultipleTabs.accesskey  "m">
+<!ENTITY warnCloseMultipleTabs.accesskey  "p">
 
 <!ENTITY warnOpenManyTabs.label       "Averti min se malfermado de pluraj folioj povus malrapidigi &brandShortName;">
 <!ENTITY warnOpenManyTabs.accesskey   "m">

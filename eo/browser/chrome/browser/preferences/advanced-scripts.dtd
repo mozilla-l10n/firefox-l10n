@@ -44,5 +44,5 @@
 <!ENTITY moveResizeWindows.accesskey    "M">
 <!ENTITY raiseLowerWindows.label        "Levi aŭ mallevi fenestrojn">
 <!ENTITY raiseLowerWindows.accesskey    "L">
-<!ENTITY disableContextMenus.label      "Malaktivigi aŭ anstataŭigi menuojn de kunteksto">
-<!ENTITY disableContextMenus.accesskey  "M">
+<!ENTITY disableContextMenus.label      "Malaktivigi aŭ anstataŭigi kuntekstajn menuojn">
+<!ENTITY disableContextMenus.accesskey  "k">

@@ -23,12 +23,12 @@
 <!ENTITY  rememberPasswords.label       "Memori pasvortojn de retejoj">
 <!ENTITY  rememberPasswords.accesskey   "M">
 <!ENTITY  passwordExceptions.label      "Esceptoj…">
-<!ENTITY  passwordExceptions.accesskey  "e">
+<!ENTITY  passwordExceptions.accesskey  "s">
 
 <!ENTITY  useMasterPassword.label        "Uzi ĉefan pasvorton">
 <!ENTITY  useMasterPassword.accesskey    "U">
 <!ENTITY  changeMasterPassword.label     "Ŝanĝi ĉefan pasvorton…">
 <!ENTITY  changeMasterPassword.accesskey "Ĝ">
 
-<!ENTITY  savedPasswords.label            "Konservitaj pasvortojn…">
+<!ENTITY  savedPasswords.label            "Konservitaj pasvortoj…">
 <!ENTITY  savedPasswords.accesskey        "P">
