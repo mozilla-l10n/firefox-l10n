@@ -66,7 +66,8 @@
 <!ENTITY updateAutoAddonWarn.label       "Avisáime si esto desactiva dalgún de los mios complementos.">
 <!ENTITY updateAutoAddonWarn.accesskey   "v">
 <!ENTITY updateOthers.label              "Anovamientu automáticu:">
-
+<!ENTITY useService.label                "Usar un serviciu de fondu pa instalar anovamientos">
+<!ENTITY useService.accesskey            "s">
 
 <!ENTITY enableSearchUpdate.label        "Guetadores">
 <!ENTITY enableSearchUpdate.accesskey    "G">
