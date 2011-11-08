@@ -1,7 +1,6 @@
 <!ENTITY userStylesLabel "Только стили пользователя">
 <!ENTITY userStylesSearch "Поиск">
 <!ENTITY selectedElementLabel "Выбранный элемент:">
-<!ENTITY helpLinkTitle "Прочесть документацию по этому свойству">
 <!ENTITY noPropertiesFound "CSS-свойства не найдены.">
 <!ENTITY unmatchedSelectors "Неподошедшие селекторы">
 <!ENTITY bestMatch "Лучшее совпадение">
