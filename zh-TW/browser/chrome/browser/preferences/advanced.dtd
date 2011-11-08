@@ -72,6 +72,9 @@
 <!ENTITY updateHistory.label             "顯示更新記錄">
 <!ENTITY updateHistory.accesskey         "p">
 
+<!ENTITY useService.label                "在背景服務當中安裝更新">
+<!ENTITY useService.accesskey            "b">
+
 <!ENTITY updateOthers.label              "自動更新:">
 <!ENTITY enableAddonsUpdate3.label       "附加元件">
 <!ENTITY enableAddonsUpdate3.accesskey   "o">
