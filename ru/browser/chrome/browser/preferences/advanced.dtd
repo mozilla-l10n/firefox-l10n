@@ -49,6 +49,8 @@
 <!ENTITY updateAutoAddonWarn.accesskey "е">
 <!ENTITY updateHistory.label "Показать журнал обновлений">
 <!ENTITY updateHistory.accesskey "ж">
+<!ENTITY useService.label "Использовать фоновую службу для установки обновлений">
+<!ENTITY useService.accesskey "ф">
 <!ENTITY updateOthers.label "Автоматически обновлять:">
 <!ENTITY enableAddonsUpdate3.label "Дополнения">
 <!ENTITY enableAddonsUpdate3.accesskey "о">

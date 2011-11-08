@@ -78,8 +78,12 @@
 <!ENTITY showTaskbarCmd.accesskey "С">
 <!ENTITY customizeToolbar.label "Настроить…">
 <!ENTITY customizeToolbar.accesskey "Н">
-<!ENTITY showContactPane.label "Область окна контакта">
-<!ENTITY showContactPane.accesskey "б">
+<!ENTITY layoutMenu.label "Разбивка окна">
+<!ENTITY layoutMenu.accesskey "б">
+<!ENTITY showDirectoryPane.label "Панель каталогов">
+<!ENTITY showDirectoryPane.accesskey "а">
+<!ENTITY showContactPane2.label "Панель контактов">
+<!ENTITY showContactPane2.accesskey "к">
 <!ENTITY menu_ShowNameAs.label "Показывать имя как">
 <!ENTITY menu_ShowNameAs.accesskey "П">
 <!ENTITY firstLastCmd2.label "Имя Фамилия">
