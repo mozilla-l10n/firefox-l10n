@@ -87,8 +87,12 @@
 <!ENTITY showTaskbarCmd.accesskey                       "S">
 <!ENTITY customizeToolbar.label                         "自訂…">
 <!ENTITY customizeToolbar.accesskey                     "C">
-<!ENTITY showContactPane.label                          "連絡人摘要面板">
-<!ENTITY showContactPane.accesskey                      "C">
+<!ENTITY layoutMenu.label                               "視窗配置方式">
+<!ENTITY layoutMenu.accesskey                           "L">
+<!ENTITY showDirectoryPane.label                        "資料夾窗格">
+<!ENTITY showDirectoryPane.accesskey                    "D">
+<!ENTITY showContactPane2.label                         "聯絡人窗格">
+<!ENTITY showContactPane2.accesskey                     "C">
 <!ENTITY menu_ShowNameAs.label                          "姓名顯示方式">
 <!ENTITY menu_ShowNameAs.accesskey                      "N"> 
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
