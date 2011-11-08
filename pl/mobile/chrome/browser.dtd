@@ -7,8 +7,8 @@
 <!ENTITY go.label              "Przejdź">
 <!ENTITY star.label            "Gwiazdka">
 
-<!ENTITY showTabs.label        "Pokaż karty">
 <!ENTITY newtab.label          "Nowa karta">
+<!ENTITY showTabs.label        "Pokaż karty">
 <!ENTITY closetab.label        "Zamknij kartę">
 
 <!ENTITY cut.label             "Wytnij">
@@ -66,7 +66,7 @@
 <!ENTITY bookmarkPopup.label       "Zakładka dodana">
 <!ENTITY bookmarkRemove.label      "Usuń">
 <!ENTITY bookmarkEdit.label        "Edytuj">
-<!ENTITY bookmarkShortcut.label    "Dodaj do Ekranu Głównego">
+<!ENTITY bookmarkShortcut.label    "Dodaj do ekranu domowego">
 
 <!ENTITY identity.unverifiedsite2 "Ta witryna nie dostarcza informacji o swojej tożsamości.">
 <!ENTITY identity.connectedTo2 "Połączono z">
@@ -96,6 +96,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY consoleErrColumn.label    "Kolumna:">
 
 <!ENTITY contextOpenInNewTab.label    "Otwórz odnośnik w nowej karcie">
+<!ENTITY contextSaveLink.label        "Zapisz odnośnik">
 <!ENTITY contextSaveImage.label       "Zapisz obrazek">
 <!ENTITY contextCopyLink.label        "Skopiuj odnośnik">
 <!ENTITY contextCopyEmail.label       "Skopiuj adres email">
@@ -111,7 +112,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY contextFullScreen.label      "Tryb pełnoekranowy">
 <!ENTITY contextEditBookmark.label    "Edytuj">
 <!ENTITY contextRemoveBookmark.label  "Usuń">
-<!ENTITY contextShortcutBookmark.label "Dodaj do Ekranu Głównego">
+<!ENTITY contextShortcutBookmark.label "Dodaj do ekranu domowego">
 
 <!ENTITY pageactions.saveas.pdf      "Zapisz jako PDF">
 <!ENTITY pageactions.share.page      "Podziel się stroną">
@@ -121,5 +122,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pageactions.findInPage      "Znajdź na stronie">
 <!ENTITY pageactions.search.addNew   "Dodaj wyszukiwarkę">
 <!ENTITY pageactions.charEncoding    "Kodowanie znaków">
+<!ENTITY pageactions.webapps.install "Zainstaluj jako aplikację">
 
 <!ENTITY appMenu.siteOptions         "Informacje o stronie">
