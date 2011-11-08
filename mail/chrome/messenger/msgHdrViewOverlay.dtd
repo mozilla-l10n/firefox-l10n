@@ -35,43 +35,42 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField2.label "кому ">
-<!ENTITY fromField2.label "від ">
-<!ENTITY senderField2.label "відправник ">
-<!ENTITY organizationField2.label "організація ">
-<!ENTITY replyToField2.label "reply-to ">
+<!ENTITY toField3.label "Кому ">
+<!ENTITY fromField3.label "Від ">
+<!ENTITY senderField3.label "Відправник ">
+<!ENTITY organizationField3.label "Організація ">
+<!ENTITY replyToField3.label "Відповідати-до ">
 
-<!ENTITY subjectField2.label "тема ">
-<!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
-<!ENTITY ccField2.label "cc ">
-<!ENTITY bccField2.label "bcc ">
-<!ENTITY newsgroupsField2.label "групи новин ">
-<!ENTITY followupToField2.label "followup-to ">
-<!ENTITY tagsHdr2.label "мітки ">
-<!ENTITY dateField2.label "дата ">
-<!ENTITY userAgentField2.label "user-agent ">
-<!ENTITY referencesField2.label "посилання ">
-<!ENTITY messageIdField2.label "message-id ">
-<!ENTITY inReplyToField2.label "in-reply-to ">
-<!ENTITY originalWebsite2.label "сайт ">
+<!ENTITY subjectField3.label "Тема ">
+<!ENTITY ccField3.label "Копія ">
+<!ENTITY bccField3.label "Прихована копія ">
+<!ENTITY newsgroupsField3.label "Групи новин ">
+<!ENTITY followupToField3.label "Продовження до ">
+<!ENTITY tagsHdr3.label "Мітки ">
+<!ENTITY dateField3.label "Дата ">
+<!ENTITY userAgentField3.label "User agent ">
+<!ENTITY referencesField3.label "References ">
+<!ENTITY messageIdField3.label "Message ID ">
+<!ENTITY inReplyToField3.label "У відповідь на ">
+<!ENTITY originalWebsite3.label "Сайт ">
 
 <!ENTITY editMessageDescription.label "це чернетка">
 <!ENTITY editMessageButton.label "редагувати…">
-<!ENTITY hdrArchiveButton.label "архівувати">
-<!ENTITY hdrArchiveButton.tooltip "архівувати це повідомлення">
-<!ENTITY hdrSmartReplyButton.label "smart reply">
-<!ENTITY hdrReplyButton.label "відповісти">
-<!ENTITY hdrReplyButton.tooltip "відповісти на це повідомлення">
-<!ENTITY hdrReplyAllButton.label "відповісти всім">
-<!ENTITY hdrReplyAllButton.tooltip "відповісти відправнику та всім отримувачам">
-<!ENTITY hdrReplyListButton.label "відповісти списку">
-<!ENTITY hdrReplyListButton.tooltip "відповісти списку розсилки">
-<!ENTITY hdrForwardButton.label "переслати">
-<!ENTITY hdrForwardButton.tooltip "переслати це повідомлення">
-<!ENTITY hdrJunkButton.label "в спам">
-<!ENTITY hdrJunkButton.tooltip "позначити це повідомлення як спам">
-<!ENTITY hdrTrashButton.label "стерти">
-<!ENTITY hdrTrashButton.tooltip "стерти це повідомлення">
+<!ENTITY hdrArchiveButton1.label "Архівувати">
+<!ENTITY hdrArchiveButton1.tooltip "Архівувати цей лист">
+<!ENTITY hdrSmartReplyButton1.label "Розумна відповідь">
+<!ENTITY hdrReplyButton1.label "Відповісти">
+<!ENTITY hdrReplyButton1.tooltip "Відповісти на цей лист">
+<!ENTITY hdrReplyAllButton1.label "Відповісти всім">
+<!ENTITY hdrReplyAllButton1.tooltip "Відповісти відправнику та всім отримувачам">
+<!ENTITY hdrReplyListButton1.label "Відповісти списку">
+<!ENTITY hdrReplyListButton1.tooltip "Відповісти списку розсилки">
+<!ENTITY hdrForwardButton1.label "Переслати">
+<!ENTITY hdrForwardButton1.tooltip "Переслати цей лист">
+<!ENTITY hdrJunkButton1.label "Спам">
+<!ENTITY hdrJunkButton1.tooltip "Позначити цей лист як спам">
+<!ENTITY hdrTrashButton1.label "Видалити">
+<!ENTITY hdrTrashButton1.tooltip "Видалити цей лист">
 
 <!ENTITY hdrViewToolbarShowFull.label "Показувати значки та текст">
 <!ENTITY hdrViewToolbarShowFull.accesskey "т">
@@ -82,23 +81,23 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Завжди показувати Відповісти Відправнику">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "В">
 
-<!ENTITY otherActionsButton.label "інші дії">
-<!ENTITY otherActionsOpenConversation.label "відкрити у бесіді">
-<!ENTITY otherActionsOpenConversation.accesskey "б">
-<!ENTITY otherActionsOpenInNewWindow.label "відкрити у новому вікні">
-<!ENTITY otherActionsOpenInNewWindow.accesskey "в">
-<!ENTITY otherActionsOpenInNewTab.label "відкрити у новій вкладці">
-<!ENTITY otherActionsOpenInNewTab.accesskey "к">
-<!ENTITY markAsReadMenuItem.label "позначити як прочитане">
-<!ENTITY markAsReadMenuItem.accesskey "ч">
-<!ENTITY markAsUnreadMenuItem.label "позначити як нечитане">
-<!ENTITY markAsUnreadMenuItem.accesskey "н">
-<!ENTITY saveAsMenuItem.label "зберегти як…">
-<!ENTITY saveAsMenuItem.accesskey "з">
-<!ENTITY viewSourceMenuItem.label "глянути джерело…">
-<!ENTITY viewSourceMenuItem.accesskey "д">
-<!ENTITY otherActionsPrint.label "друкувати…">
-<!ENTITY otherActionsPrint.accesskey "д">
+<!ENTITY otherActionsButton1.label "Інші дії">
+<!ENTITY otherActionsOpenConversation1.label "Відкрити у бесіді">
+<!ENTITY otherActionsOpenConversation1.accesskey "б">
+<!ENTITY otherActionsOpenInNewWindow1.label "Відкрити у новому вікні">
+<!ENTITY otherActionsOpenInNewWindow1.accesskey "в">
+<!ENTITY otherActionsOpenInNewTab1.label "Відкрити у новій вкладці">
+<!ENTITY otherActionsOpenInNewTab1.accesskey "к">
+<!ENTITY markAsReadMenuItem1.label "Позначити як прочитане">
+<!ENTITY markAsReadMenuItem1.accesskey "ч">
+<!ENTITY markAsUnreadMenuItem1.label "Позначити як нечитане">
+<!ENTITY markAsUnreadMenuItem1.accesskey "н">
+<!ENTITY saveAsMenuItem1.label "Зберегти як…">
+<!ENTITY saveAsMenuItem1.accesskey "з">
+<!ENTITY viewSourceMenuItem1.label "Глянути джерело">
+<!ENTITY viewSourceMenuItem1.accesskey "д">
+<!ENTITY otherActionsPrint1.label "Друкувати…">
+<!ENTITY otherActionsPrint1.accesskey "Д">
 
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Відкрити">
@@ -119,26 +118,10 @@
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "д">
 
 <!-- Attachment toolbar items -->
-<!ENTITY saveAttachmentButton.label       "зберегти">
-<!ENTITY saveAttachmentButton.tooltip     "зберегти владений файл">
-<!ENTITY saveAllAttachmentsButton.label   "зберегти всі">
-<!ENTITY saveAllAttachmentsButton.tooltip "зберегти всі вкладені файли">
-<!ENTITY openAttachmentMenuItem.label     "відкрити">
-<!ENTITY openAttachmentMenuItem.accesskey    "в">
-<!ENTITY saveAsAttachmentMenuItem.label    "зберегти як…">
-<!ENTITY saveAsAttachmentMenuItem.accesskey    "з">
-<!ENTITY detachAttachmentMenuItem.label    "викласти…">
-<!ENTITY detachAttachmentMenuItem.accesskey    "к">
-<!ENTITY deleteAttachmentMenuItem.label    "видалити">
-<!ENTITY deleteAttachmentMenuItem.accesskey    "д">
-<!ENTITY openAllAttachmentsMenuItem.label    "відкрити всі…">
-<!ENTITY openAllAttachmentsMenuItem.accesskey    "в">
-<!ENTITY saveAllAttachmentsMenuItem.label    "зберегти всі…">
-<!ENTITY saveAllAttachmentsMenuItem.accesskey    "з">
-<!ENTITY detachAllAttachmentsMenuItem.label    "викласти всі…">
-<!ENTITY detachAllAttachmentsMenuItem.accesskey    "к">
-<!ENTITY deleteAllAttachmentsMenuItem.label    "видалити всі…">
-<!ENTITY deleteAllAttachmentsMenuItem.accesskey    "д">
+<!ENTITY saveAttachmentButton1.label       "Зберегти">
+<!ENTITY saveAttachmentButton1.tooltip     "Зберегти вкладений файл">
+<!ENTITY saveAllAttachmentsButton1.label   "Зберегти всі">
+<!ENTITY saveAllAttachmentsButton1.tooltip "Зберегти всі вкладені файли">
 
 <!ENTITY copyLinkCmd.label        "Копіювати посилання">
 <!ENTITY copyLinkCmd.accesskey    "К">

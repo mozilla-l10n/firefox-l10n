@@ -12,3 +12,7 @@ security/manager/chrome/pipnss/pipnss.properties (grep Surname)
 
 A mail/chrome/messenger/aboutSupportMail.dtd
 A mail/chrome/messenger/aboutSupportMail.properties
+
+A mail/feedback/main.dtd
+A mail/feedback/main.properties
+
