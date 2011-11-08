@@ -6,6 +6,9 @@
 
 <!-- General Settings -->
 
+<!ENTITY submitTelemetry.label         "Надсилати дані про швидкодію">
+<!ENTITY submitTelemetry.accesskey     "Н">
+<!ENTITY telemetryInfoLink.label       "Дізнатись більше про телеметрію">
 <!ENTITY enableGlodaSearch.label       "Ввімкнути глобальний пошук та індексацію">
 <!ENTITY enableGlodaSearch.accesskey   "і">
 <!ENTITY systemIntegration.label       "Системна інтеграція">
