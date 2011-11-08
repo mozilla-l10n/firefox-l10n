@@ -6,7 +6,6 @@
 <!ENTITY organize.accesskey "จ">
 <!ENTITY organize.tooltip      "จัดการที่คั่นหน้าของคุณ">
 
-<!ENTITY file.accesskey "ฟ">
 <!ENTITY file.close.label "ปิด">
 <!ENTITY file.close.accesskey "ป">
 <!ENTITY cmd.close.key "w">
@@ -41,6 +40,7 @@
 <!ENTITY cmd.restore2.label "คืนค่าเดิม">
 <!ENTITY cmd.restore2.accesskey "ด">
 <!ENTITY cmd.restoreFromFile.label "เลือกแฟ้ม…">
+<!ENTITY cmd.restoreFromFile.accesskey  "C">
 
 <!ENTITY cmd.bookmarkLink.label         "คั่นหน้าเว็บนี้…">
 <!ENTITY cmd.bookmarkLink.accesskey     "ค">
