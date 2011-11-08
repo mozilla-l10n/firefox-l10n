@@ -21,6 +21,7 @@
 <!ENTITY aboutSupport.appBasicsBuildConfig "Конфігурація збірки">
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
 <!ENTITY aboutSupport.appBasicsCrashIDs "Звіти про аварії">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Використання пам’яті">
 
 <!ENTITY aboutSupport.show.label "Відкрити відповідну теку">
 
