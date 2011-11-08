@@ -68,11 +68,6 @@
 <!ENTITY publishAsCmd.accesskey "я">
 <!ENTITY saveAsChangeEncodingCmd.label "Змінити і зберегти кодування">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "к">
-<!ENTITY printSetupCmd.label "Параметри сторінки…">
-<!ENTITY printSetupCmd.accesskey "а">
-<!ENTITY printCmd.label "Друк…">
-<!ENTITY printCmd.accesskey "Д">
-<!ENTITY printCmd.key "P">
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "Правка">
@@ -360,7 +355,6 @@
 <!ENTITY menuBar.tooltip "Панель меню">
 <!ENTITY formatToolbar.tooltip "Панель форматування">
 <!ENTITY newToolbarCmd.label "Нова">
-<!-- ??? -->
 <!ENTITY newToolbarCmd.tooltip "Створити нову сторінку Компонувальника">
 <!ENTITY openToolbarCmd.label "Відкрити">
 <!ENTITY openToolbarCmd.tooltip "Відкрити локальний файл">
