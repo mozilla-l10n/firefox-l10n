@@ -2,7 +2,7 @@
 <!ENTITY cutCmd.accesskey "r">
 <!ENTITY copyCmd.label "Copiar">
 <!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "Pegar">
+<!ENTITY pasteCmd.label "Apegar">
 <!ENTITY pasteCmd.accesskey "P">
 <!ENTITY undoCmd.label "Desfacer">
 <!ENTITY undoCmd.accesskey "s">
@@ -15,6 +15,6 @@
 <!ENTITY spellAddToDictionary.accesskey "o">
 <!ENTITY spellCheckEnable.label "Revisar ortografía">
 <!ENTITY spellCheckEnable.accesskey "s">
-<!ENTITY spellNoSuggestions.label "(Nun hai soxerencies d'ortografía)">
+<!ENTITY spellNoSuggestions.label "(Nun hai suxerencies d'ortografía)">
 <!ENTITY spellDictionaries.label "Llingües">
 <!ENTITY spellDictionaries.accesskey "g">
