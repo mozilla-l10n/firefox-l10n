@@ -79,8 +79,8 @@
 <!ENTITY viewMenu.accesskey "ع">
 <!ENTITY viewToolbarsMenu.label "أشرطة الأدوات">
 <!ENTITY viewToolbarsMenu.accesskey "ش">
-<!ENTITY menubarCmd.label "Menu Bar">
-<!ENTITY menubarCmd.accesskey "M">
+<!ENTITY menubarCmd.label "شريط القائمة">
+<!ENTITY menubarCmd.accesskey "ئ">
 <!ENTITY showAbToolbarCmd.label "شريط أدوات دفتر العناوين">
 <!ENTITY showAbToolbarCmd.accesskey "ش">
 <!ENTITY showTaskbarCmd.label "شريط الحالة">
