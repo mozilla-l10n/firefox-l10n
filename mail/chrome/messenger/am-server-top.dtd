@@ -21,8 +21,8 @@
 <!ENTITY authMethod.accesskey "i">
 <!ENTITY leaveOnServer.label "Dexar los mensaxes nel sirvidor.">
 <!ENTITY leaveOnServer.accesskey "a">
-<!ENTITY headersOnly.label "Descargar namái los encabezaos">
-<!ENTITY headersOnly.accesskey "z">
+<!ENTITY headersOnly.label "Descargar namái les testeres">
+<!ENTITY headersOnly.accesskey "t">
 <!ENTITY deleteByAgeFromServer.label "Desaniciar mensaxes del sirvidor tres">
 <!ENTITY deleteByAgeFromServer.accesskey "o">
 <!ENTITY daysEnd.label "díes">
