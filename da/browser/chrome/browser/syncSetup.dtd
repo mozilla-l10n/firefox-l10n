@@ -19,8 +19,8 @@
 <!ENTITY signIn.account2.accesskey  "K">
 <!ENTITY signIn.password.label      "Adgangskode">
 <!ENTITY signIn.password.accesskey  "A">
-<!ENTITY signIn.syncKey.label       "Sync-nøgle">
-<!ENTITY signIn.syncKey.accesskey   "S">
+<!ENTITY signIn.recoveryKey.label       "Gendannelsesnøgle">
+<!ENTITY signIn.recoveryKey.accesskey   "G">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Kontodetaljer">
@@ -41,12 +41,12 @@
 <!ENTITY setup.tosAgree2.accesskey  "">
 
 <!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; bekymrer sig om sikringen af dine private oplysninger">
-<!ENTITY setup.newSyncKeyPage.description.label "For at sikre dine private oplysninger bliver alle dine data krypteret før de bliver sendt. Sync-nøglen, som bruges til at dekryptere dine data sendes ikke.">
-<!ENTITY syncKeyEntry.label        "Din Sync-nøgle">
-<!ENTITY syncKeyEntry.accesskey    "n">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; bekymrer sig om sikringen af dine private oplysninger">
+<!ENTITY setup.newRecoveryKeyPage.description.label "For at sikre dine private oplysninger bliver alle dine data krypteret før de bliver sendt. Gendannelsesnøglen, som bruges til at dekryptere dine data sendes ikke.">
+<!ENTITY recoveryKeyEntry.label        "Din gendannelsesnøgle">
+<!ENTITY recoveryKeyEntry.accesskey    "g">
 <!ENTITY syncGenerateNewKey.label  "Opret en ny nøgle">
-<!ENTITY syncKeyBackup.description "Din Sync-nøgle er nødvendig for at kunne tilgå &syncBrand.fullName.label; på andre maskiner. Vi anbefaler at du laver en sikkerhedskopi. Vi kan ikke hjælpe med at genskabe din Sync-nøgle.">
+<!ENTITY recoveryKeyBackup.description "Din gendannelsesnøgle er nødvendig for at kunne tilgå &syncBrand.fullName.label; på andre maskiner. Vi anbefaler at du laver en sikkerhedskopi. Vi kan ikke hjælpe med at genskabe din gendannelsesnøgle.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Udskriv…">
 <!ENTITY button.syncKeyBackup.print.accesskey "U">
@@ -65,12 +65,12 @@
 <!ENTITY addDevice.dialog.enterCode.label   "Indtast koden som enheden leverer:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Prøv venligst igen.">
 <!ENTITY addDevice.dialog.successful.label  "Enheden er blevet tilføjet. Den indledende synkronisering kan tage op til flere minutter og vil færdiggøres i baggrunden.">
-<!ENTITY addDevice.dialog.syncKey.label     "For at aktivere din enhed skal du indtaste din Sync-nøgle. Udskriv eller gem venligst denne nøgle og tag den med dig.">
+<!ENTITY addDevice.dialog.recoveryKey.label     "For at aktivere din enhed skal du indtaste din gendannelsesnøgle. Udskriv eller gem venligst denne nøgle og tag den med dig.">
 <!ENTITY addDevice.dialog.connected.label   "Enhed tilsluttet">
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Log på">
-<!ENTITY existingSyncKey.description "Du kan finde din Sync-nøgle ved at tilgå Indstillinger for &syncBrand.shortName.label; på en af dine andre enheder og vælge &#x0022;Min Sync-nøgle&#x0022; under &#x0022;Håndter konto&#x0022;.">
+<!ENTITY existingRecoveryKey.description "Du kan finde din gendannelsesnøgle ved at tilgå Indstillinger for &syncBrand.shortName.label; på en af dine andre enheder og vælge &#x0022;Min gendannelsesnøgle&#x0022; under &#x0022;Håndter konto&#x0022;.">
 <!ENTITY verifying.label              "Bekræfter…">
 <!ENTITY resetPassword.label          "Nulstil adgangskode">
 <!ENTITY resetSyncKey.label           "Jeg har mistet min anden enhed.">
