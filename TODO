@@ -1,3 +1,8 @@
+M toolkit/chrome/global/headsUpDisplay.properties
+A browser/chrome/browser/inspector.properties
+A browser/chrome/browser/styleinspector.dtd
+A browser/chrome/browser/styleinspector.properties
+
 dom/chrome/dom/dom.properties
 dom/chrome/layout/css.properties (grep keyframe)
 dom/chrome/layout/xbl.properties
