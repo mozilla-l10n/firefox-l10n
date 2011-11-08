@@ -1,7 +1,7 @@
 <!ENTITY userStylesLabel "Solo stili utente">
 <!ENTITY userStylesSearch "Cerca">
 <!ENTITY selectedElementLabel "Elemento selezionato:">
-<!ENTITY helpLinkTitle "Leggi la documentazione relativa a questa proprietà">
+<!ENTITY noPropertiesFound "Nessuna proprietà CSS trovata.">
 <!ENTITY unmatchedSelectors "Selettori senza corrispondenza">
 <!ENTITY bestMatch "Miglior corrispondenza">
 <!ENTITY matched "Corrispondenza">
