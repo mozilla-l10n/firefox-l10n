@@ -21,6 +21,7 @@
 <!ENTITY aboutSupport.appBasicsBuildConfig "ਬਿਲਡ ਸੰਰਚਨਾ">
 <!ENTITY aboutSupport.appBasicsUserAgent "ਯੂਜ਼ਰ ਏਜੰਟ">
 <!ENTITY aboutSupport.appBasicsCrashIDs "ਕਰੈਸ਼ ਰਿਪੋਰਟ">
+<!ENTITY aboutSupport.appBasicsMemoryUse "ਮੈਮੋਰੀ ਵਰਤੋਂ">
 
 <!ENTITY aboutSupport.show.label "ਰੱਖਣ ਵਾਲਾ ਫੋਲਡਰ ਖੋਲ੍ਹੋ">
 

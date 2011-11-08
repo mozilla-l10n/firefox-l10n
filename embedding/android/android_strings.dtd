@@ -1,6 +1,3 @@
-<!ENTITY  splash_screen_loading "ਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ">
-
-<!ENTITY  splash_screen_installing_libs "ਲਾਇਬਰੇਰੀਆਂ ਇੰਸਟਾਲ ਕੀਤੀਆਂ ਜਾ ਰਹੀਆਂ ਹਨ\u2026">
 <!ENTITY  splash_firstrun "&brandShortName; ਸੈਟ ਅੱਪ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ\u2026">
 <!ENTITY  no_space_to_start_error "&brandShortName; ਨੂੰ ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਘੱਟੋ-ਘੱਟ ਥਾਂ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ।">
 <!ENTITY  error_loading_file "&brandShortName; ਨੂੰ ਚਲਾਉਣ ਲਈ ਲੋੜੀਦੀਆਂ ਫਾਇਲਾਂ ਲੋਡ ਕਰਨ ਦੇ ਦੌਰਾਨ ਗਲਤੀ ਆਈ ਹੈ।">

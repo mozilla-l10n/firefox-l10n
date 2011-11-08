@@ -12,11 +12,9 @@
 <!ENTITY manageAccount.accesskey      "A">
 <!ENTITY viewQuota.label              "ਕੋਟਾ ਵੇਖੋ">
 <!ENTITY changePassword2.label         "ਪਾਸਵਰਡ ਬਦਲੋ…">
-<!ENTITY mySyncKey.label              "ਮੇਰੀ ਸਿੰਕ ਕੁੰਜੀ">
+<!ENTITY myRecoveryKey.label          "ਮੇਰੀ ਰਿਕਵਰੀ ਕੁੰਜੀ">
 <!ENTITY resetSync2.label              "ਸਿੰਕ ਪਾਸਵਰਡ ਮੁੜ-ਸੈੱਟ ਕਰੋ…">
-
 <!ENTITY addDevice.label              "ਜੰਤਰ ਸ਼ਾਮਲ ਕਰੋ">
-
 
 <!-- Sync Settings -->
 

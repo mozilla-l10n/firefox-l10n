@@ -91,7 +91,9 @@
 <!ENTITY viewMenu.label "ਵੇਖੋ"> 
 <!ENTITY viewMenu.accesskey "v">
 <!ENTITY viewToolbarsMenuNew.label "ਟੂਲਬਾਰ"> 
-<!ENTITY viewToolbarsMenuNew.accesskey "T"> 
+<!ENTITY viewToolbarsMenuNew.accesskey "T">
+<!ENTITY menubarCmd.label "ਮੇਨੂ ਪੱਟੀ">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showCompositionToolbarCmd.label "ਕੰਪੋਜ਼ਿਸ਼ਨ ਟੂਲਬਾਰ">
 <!ENTITY showCompositionToolbarCmd.accesskey "o">
 <!ENTITY showFormattingBarCmd.label "ਫਾਰਮੈਟ ਟੂਲਬਾਰ">
