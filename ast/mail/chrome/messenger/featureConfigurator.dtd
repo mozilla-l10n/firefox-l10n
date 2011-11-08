@@ -10,7 +10,7 @@
 <!ENTITY featureConfigurator.toolbarBenefits.para "Les aiciones con mensaxes, talo como retrucar y re-unviar treslladáronse dende la barra de ferramientes a la testera del propiu mensaxe. Esto asocia los botones d'aición direutamente al mensaxe, lo que dexa más espaciu na barra de ferramientes pa la caxa de testu de gueta meyorada, asina como pa los complementos.">
 <!ENTITY featureConfigurator.addOn.downloading "Descargando…">
 <!ENTITY featureConfigurator.addOn.installing "Instalando…">
-<!ENTITY featureConfigurator.addOn.installed "Instalado">
+<!ENTITY featureConfigurator.addOn.installed "Instaláu">
 <!ENTITY featureConfigurator.addOn.failure "¡Hebo un fallu al instalar esta estensión!">
 <!ENTITY featureConfigurator.addOn.alreadyInstalled "Esta estensión yá ta instalada.">
 <!ENTITY featureConfigurator.collapsedHeaders.heading "Testera compauta">
@@ -18,8 +18,8 @@
 <!ENTITY featureConfigurator.collapsedHeaders.para.strong "Decatámosnos de que tabes usando la testera compauta al lleer mensaxes. Esta función treslladóse a la to propia estensión y encamentámoste que la instales equí si quies siguir usándola.">
 <!ENTITY featureConfigurator.collapsedHeaders.install "Instalar CompactHeader…">
 <!ENTITY featureConfigurator.folderColumns.heading "Columnes de carpeta avanzaes">
-<!ENTITY featureConfigurator.folderColumns.para.weak "La estensión Extra Folder Columns troca lo que enantes yera una preferencia avanzada. Pa caltener a la vista'l númberu exautu de mensaxes y espaciu en discu que cada carpeta ta usando vas necesitas instalar esta estensión.">
-<!ENTITY featureConfigurator.folderColumns.para.strong "Decatámosnos de  que tabes usando les columnes de carpeta avanzaes. Esta función treslladóse a la to propia estensión y encamentámoste que la instales equí.">
+<!ENTITY featureConfigurator.folderColumns.para.weak "La estensión Extra Folder Columns troca lo qu'enantes yera una preferencia avanzada. Pa caltener a la vista'l númberu exautu de mensaxes y espaciu en discu que ta usando cada carpeta vas necesitar instalar esta estensión.">
+<!ENTITY featureConfigurator.folderColumns.para.strong "Decatámosnos de que tabes usando les columnes de carpeta avanzaes. Esta función treslladóse a la to propia estensión y encamentámoste que la instales equí.">
 <!ENTITY featureConfigurator.folderColumns.install "Instalar Extra Folder Columns…">
 <!ENTITY featureConfigurator.autoSync.heading "Espaciu en discu">
 <!ENTITY featureConfigurator.autoSync.para "Esta nueva versión de &brandShortName; tien una funcionalidá de gueta nueva y ameyorada. Pa esperimentar esta nueva gueta vas necesitar sincronizar los mensaxes de corréu.">
