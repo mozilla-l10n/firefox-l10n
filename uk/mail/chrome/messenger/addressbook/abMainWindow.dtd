@@ -79,6 +79,8 @@
 <!ENTITY viewMenu.accesskey                             "В">
 <!ENTITY viewToolbarsMenu.label                         "Панелі інструментів">
 <!ENTITY viewToolbarsMenu.accesskey                     "П"> 
+<!ENTITY menubarCmd.label                               "Панель меню">
+<!ENTITY menubarCmd.accesskey                           "м">
 <!ENTITY showAbToolbarCmd.label                         "Панель адресної книги">
 <!ENTITY showAbToolbarCmd.accesskey                     "а">
 <!ENTITY showTaskbarCmd.label                           "Рядок стану">
