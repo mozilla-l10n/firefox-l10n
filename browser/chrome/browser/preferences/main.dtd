@@ -5,6 +5,9 @@
 <!ENTITY startupHomePage.label "แสดงหน้าแรก">
 <!ENTITY startupBlankPage.label "แสดงหน้าว่าง">
 <!ENTITY startupLastSession.label "แสดงหน้าต่างและแท็บจากครั้งก่อน">
+<!ENTITY restoreOnDemand.label     "อย่าโหลดแท็บจนกว่าจะเลือก">
+<!ENTITY restoreOnDemand.accesskey "ย">
+
 <!ENTITY homepage.label "หน้าแรก :">
 <!ENTITY homepage.accesskey "น">
 <!ENTITY useCurrentPage.label "ใช้หน้าปัจจุบัน">
