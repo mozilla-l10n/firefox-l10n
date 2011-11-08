@@ -1,0 +1,93 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Proyecto NAVE (http://www.proyectonave.es/)
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!ENTITY windowTitle.label "Propiedaes de la imaxe">
+<!ENTITY pixelsPopup.value "píxeles">
+<!ENTITY locationEditField.label "URL de la imaxe:">
+<!ENTITY locationEditField.accessKey "L">
+<!ENTITY locationEditField.tooltip "Escribi'l nome del ficheru de la imaxe o el so allugamientu">
+<!ENTITY title.label "Conseyu:">
+<!ENTITY title.accessKey "C">
+<!ENTITY title.tooltip "L'atributu HTML 'title' que s'amuesa como conseyu">
+<!ENTITY altText.label "Testu alternativu:">
+<!ENTITY altText.accessKey "A">
+<!ENTITY altTextEditField.tooltip "Escribi'l testu a amosar en cuenta de la imaxe">
+<!ENTITY noAltText.label "Nun usar testu alternativu">
+<!ENTITY noAltText.accessKey "n">
+<!ENTITY previewBox.label "Vista preliminar">
+<!ENTITY actualSize.label "Tamañu real:">
+<!ENTITY actualSizeRadio.label "Tamañu real">
+<!ENTITY actualSizeRadio.accessKey "A">
+<!ENTITY actualSizeRadio.tooltip "Restablecer al tamañu real de la imaxe">
+<!ENTITY customSizeRadio.label "Tamañu personalizáu">
+<!ENTITY customSizeRadio.accessKey "S">
+<!ENTITY customSizeRadio.tooltip "Camudar el tamañu de la imaxe al afitáu na páxina">
+<!ENTITY heightEditField.label "Altor:">
+<!ENTITY heightEditField.accessKey "o">
+<!ENTITY widthEditField.label "Anchor:">
+<!ENTITY widthEditField.accessKey "n">
+<!ENTITY constrainCheckbox.label "Caltener aspeutu">
+<!ENTITY constrainCheckbox.accessKey "C">
+<!ENTITY constrainCheckbox.tooltip "Caltener la proporción nel aspeutu de la imaxe">
+<!ENTITY imagemapBox.label "Mapa d'imaxe">
+<!ENTITY removeImageMapButton.label "Desaniciar">
+<!ENTITY removeImageMapButton.accessKey "D">
+<!ENTITY editImageMapButton.label "Editar…">
+<!ENTITY editImageMapButton.tooltip "Crear zones que reaicionen al facer clic nesta imaxe">
+<!ENTITY alignment.label "Alliniar el testu cola imaxe">
+<!ENTITY bottomPopup.value "Na parte inferior">
+<!ENTITY topPopup.value "Na parte superior">
+<!ENTITY centerPopup.value "Nel centru">
+<!ENTITY wrapRightPopup.value "El testu flúi pela derecha">
+<!ENTITY wrapLeftPopup.value "El testu flúi pela izquierda">
+<!ENTITY spacingBox.label "Espaciu">
+<!ENTITY leftRightEditField.label "Izquierda y derecha:">
+<!ENTITY leftRightEditField.accessKey "I">
+<!ENTITY topBottomEditField.label "Parte superior y parte inferior:">
+<!ENTITY topBottomEditField.accessKey "T">
+<!ENTITY borderEditField.label "Berbesu sólidu:">
+<!ENTITY borderEditField.accessKey "B">
+<!ENTITY showImageLinkBorder.label "Amosar el berbesu alredor de la imaxe-enllaz">
+<!ENTITY showImageLinkBorder.accessKey "B">
+<!ENTITY LinkAdvancedEditButton.label "Edición avanzada del enllaz…">
+<!ENTITY LinkAdvancedEditButton.accessKey "E">
+<!ENTITY LinkAdvancedEditButton.tooltip "Amiesta o modifica atributos HTML, atributos d'estilu y JavaScript">
+<!ENTITY imageInputTab.label "Formulariu">
+<!ENTITY imageLocationTab.label "Llocalización">
+<!ENTITY imageDimensionsTab.label "Dimensiones">
+<!ENTITY imageAppearanceTab.label "Aspeutu">
+<!ENTITY imageLinkTab.label "Enllaz">
