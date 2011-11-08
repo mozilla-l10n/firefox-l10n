@@ -3,7 +3,6 @@
 <!ENTITY sync.connect               "Під’єднатись">
 <!ENTITY sync.connected             "Під’єднано">
 <!ENTITY sync.details               "Подробиці">
-<!ENTITY sync.synchronize           "Увімкнути синхронізацію">
 <!ENTITY sync.deviceName            "Цей пристрій">
 <!ENTITY sync.disconnect            "Від’єднатись">
 <!ENTITY sync.syncNow               "Синхронізувати">
@@ -14,7 +13,7 @@
 <!ENTITY sync.setup.manual          "Введіть дані вашого облікового запису Sync">
 <!ENTITY sync.account               "Назва обл. запису">
 <!ENTITY sync.password              "Пароль">
-<!ENTITY sync.syncKey               "Ключ синхронізації">
+<!ENTITY sync.recoveryKey           "Ключ відновлення">
 <!ENTITY sync.customServer          "Використовувати інший сервер">
 <!ENTITY sync.serverURL             "URL сервера">
 <!ENTITY sync.setup.connect         "З’єднатись">

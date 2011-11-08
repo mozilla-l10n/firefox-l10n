@@ -21,3 +21,4 @@
 <!ENTITY homepage.default                          "&brandShortName;:початкова">
 <!ENTITY homepage.currentpage                      "Встановити поточну">
 <!ENTITY showCharsetEncoding.title                 "Показувати кодування символів">
+<!ENTITY actionbar.default                         "Налаштування &brandShortName;">

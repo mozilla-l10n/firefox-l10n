@@ -93,9 +93,11 @@
 <!ENTITY consoleErrColumn.label    "Символ:">
 
 <!ENTITY contextOpenInNewTab.label    "Відкрити посилання у новій вкладці">
-<!ENTITY contextSaveLink.label        "Зберегти посилання">
 <!ENTITY contextSaveImage.label       "Зберегти зображення">
 <!ENTITY contextCopyLink.label        "Копіювати посилання">
+<!ENTITY contextCopyEmail.label       "Копіювати Email адресу">
+<!ENTITY contextCopyPhone.label       "Копіювати телефон">
+<!ENTITY contextCopyImageLocation.label       "Копіювати адресу зображення">
 <!ENTITY contextShareLink.label       "Поділитись посиланням">
 <!ENTITY contextShareImage.label      "Поділитись зображенням">
 <!ENTITY contextBookmarkLink.label    "Закласти посилання">
@@ -116,6 +118,5 @@
 <!ENTITY pageactions.findInPage      "Знайти на сторінці">
 <!ENTITY pageactions.search.addNew   "Додати пошуковик">
 <!ENTITY pageactions.charEncoding    "Кодування тексту">
-<!ENTITY pageactions.webapps.install "Встановити програму">
 
 <!ENTITY appMenu.siteOptions         "Налаштування сайта">
