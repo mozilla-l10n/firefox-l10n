@@ -1,7 +1,7 @@
 <!ENTITY upgrade.style "width: 93ch; height: 448px;">
 
 <!ENTITY checking.heading "يتحقق من إضافاتك">
-<!ENTITY checking.progress.label "يتحقق من توافية إضافاتك مع هذه النسخة من &brandShortName;.">
+<!ENTITY checking.progress.label "يتحقق من توافقية إضافاتك مع هذه النسخة من &brandShortName;.">
 
 <!ENTITY select.heading "اختر إضافاتك">
 <!-- LOCALIZATION NOTE (select.description): The term used for "third parties"
