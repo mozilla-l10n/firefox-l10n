@@ -46,49 +46,21 @@
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
 <!-- File menu items -->
-<!ENTITY fileMenu.label "Arkiv">
-<!ENTITY fileMenu.accesskey "A">
-<!ENTITY openFileCmd.label "Öppna fil...">
-<!ENTITY openFileCmd.accesskey "p">
-<!ENTITY openFileCmd.key "O">
-<!ENTITY openRemoteCmd.label "Öppna webbplats...">
-<!ENTITY openRemoteCmd.accesskey "w">
-<!ENTITY openRemoteCmd.key "L">
-<!ENTITY fileRecentMenu.label "Senaste sidor">
-<!ENTITY fileRecentMenu.accesskey "r">
-<!ENTITY fileRevert.label "Återgå till senast sparade">
-<!ENTITY fileRevert.accesskey "Å">
-<!ENTITY saveCmd.label "Spara">
-<!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveCmd.key "S">
-<!ENTITY saveAsCmd.label "Spara som...">
-<!ENTITY saveAsCmd.accesskey "a">
-
-<!ENTITY publishCmd.label "Publicera">
-<!ENTITY publishCmd.accesskey "b">
-<!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "Publicera som...">
-<!ENTITY publishAsCmd.accesskey "l">
-<!ENTITY saveAsChangeEncodingCmd.label "Spara och ändra teckenkodning">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "ä">
 
 <!-- Edit menu items -->
-<!ENTITY editMenu.label "Redigera">
-<!ENTITY editMenu.accesskey "e">
 <!ENTITY pasteNoFormatting.label "Klistra in utan formatering">
 <!ENTITY pasteNoFormatting.accesskey "u">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Klistra in som">
 <!ENTITY pasteAs.accesskey "a">
-<!ENTITY publishSettings.label "Publiceringsinställningar...">
-<!ENTITY publishSettings.accesskey "P">
 <!ENTITY pasteAsQuotationCmd.label "Klistra in som citat">
 <!ENTITY pasteAsQuotationCmd.accesskey "c">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Sök och ersätt...">
 <!ENTITY enableInlineSpellChecker.label "Stavningskontrollera medan du skriver">
 <!ENTITY enableInlineSpellChecker.accesskey "v">
-<!ENTITY checkSpellingCmd2.label "Stavningskontroll">
+<!ENTITY checkSpellingCmd2.label "Stavningskontroll…">
 <!ENTITY checkSpellingCmd2.accesskey "a">
 <!ENTITY checkSpellingCmd2.key "p">
 
@@ -213,7 +185,7 @@
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Ta bort namngivna ankare">
 <!ENTITY formatRemoveNamedAnchors.accesskey "a">
-<!ENTITY formatRemoveNamedAnchors.key "A">
+<!ENTITY formatRemoveNamedAnchors2.key "R">
 
 <!ENTITY paragraphMenu.label "Stycke">
 <!ENTITY paragraphMenu.accesskey "y">

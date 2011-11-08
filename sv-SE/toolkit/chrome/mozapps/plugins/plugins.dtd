@@ -53,6 +53,7 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; måste startas om för att insticksmodulerna ska fungera.">
 
 <!ENTITY missingPlugin                                       "En insticksmodul behövs för att visa innehållet.">
+<!ENTITY clickToPlayPlugin                                   "Tryck för att aktivera insticksmodulen.">
 <!ENTITY disabledPlugin                                      "Instickmodulen har inaktiverats.">
 <!ENTITY blockedPlugin.label                                 "Den här insticksmodulen är blockerad av säkerhetsskäl.">
 
@@ -65,8 +66,8 @@
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "Uppdatera sidan">
 <!ENTITY reloadPlugin.post                                   " för att försöka igen.">
-<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.please                                       "Skicka kraschrapport">
+<!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.checkbox                                     "… och skicka kraschrapport">
 <!ENTITY report.submitting                                   "Skickar rapporten…">
 <!ENTITY report.submitted                                    "Kraschrapport skickad.">
 <!ENTITY report.disabled                                     "Kraschrapportering är inaktiverad.">

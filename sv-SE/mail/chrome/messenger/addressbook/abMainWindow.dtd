@@ -124,8 +124,10 @@
 <!ENTITY showContactPane.accesskey                      "K">
 <!ENTITY menu_ShowNameAs.label                          "Visa namn så här"> 
 <!ENTITY menu_ShowNameAs.accesskey                      "n"> 
-<!ENTITY firstLastCmd.label                             "Förnamn Efternamn">  
-<!ENTITY firstLastCmd.accesskey                         "f"> 
+<!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
+because displayed names don't have the comma in between. -->
+<!ENTITY firstLastCmd2.label                            "Förnamn Efternamn">  
+<!ENTITY firstLastCmd2.accesskey                        "f"> 
 <!ENTITY lastFirstCmd.label                             "Efternamn, Förnamn">  
 <!ENTITY lastFirstCmd.accesskey                         "t"> 
 <!ENTITY displayNameCmd.label                           "Visa kortnamn">  
