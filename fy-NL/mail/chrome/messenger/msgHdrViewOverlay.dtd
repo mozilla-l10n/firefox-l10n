@@ -118,8 +118,6 @@
 <!ENTITY deleteAllAttachmentsCmd.label "Alles fuortsmite…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey "f">
 
-<!ENTITY openAttachment.tooltip "Bylagebestân iepenje">
-
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Bewarje">
 <!ENTITY saveAttachmentButton1.tooltip     "Bylage bewarje">

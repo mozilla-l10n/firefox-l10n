@@ -7,7 +7,7 @@
 <!ENTITY testpilot.settings.readyToSubmit.label     "In ûndersyk kin ynsteld wurde">
 <!ENTITY testpilot.settings.newStudy.label          "Der in nij ûndersyk is">
 <!ENTITY testpilot.settings.hasNewResults.label     "Der nije útslaggen fan in ûndersyek binne">
-<!ENTITY testpilot.settings.alwaysSubmitData.label  "Myn gegevens automatysk yntsjinje (net freegje)">
+<!ENTITY testpilot.settings.alwaysSubmitData.shortlabel  "Myn gegevens automatysk yntsjinje (net freegje)">
 <!ENTITY testpilot.allYourStudies.label             "Al jo brûkersûndersiken…">
 <!ENTITY testpilot.about.label                      "Oer Test Pilot">
 
