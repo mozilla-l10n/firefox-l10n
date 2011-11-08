@@ -161,6 +161,8 @@
 <!ENTITY inspectButton.label "Inspeccionar">
 <!ENTITY inspectButton.accesskey "I">
 <!ENTITY inspectCloseButton.tooltiptext "Cerrar el Inspector">
+<!ENTITY inspectStyleButton.label "Estilo">
+<!ENTITY inspectStyleButton.accesskey "S">
 <!ENTITY getMoreDevtoolsCmd.label "Conseguir más herramientas">
 <!ENTITY getMoreDevtoolsCmd.accesskey "M">
 <!ENTITY fileMenu.label "Archivo">
