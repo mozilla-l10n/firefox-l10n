@@ -8,7 +8,7 @@
 <!ENTITY privacy.title                             "Prywatność i bezpieczeństwo">
 <!ENTITY allowCookies.title                        "Akceptuj ciasteczka">
 <!ENTITY doNotTrack.title                          "Informuj witryny, że nie chcę być śledzony">
-<!ENTITY masterPassword.title                      "Użyj hasła głównego">
+<!ENTITY masterPassword.title                      "Używaj hasła głównego">
 <!ENTITY clearPrivateData2.title                   "Wyczyść dane prywatne">
 <!ENTITY clearPrivateData.button                   "Wyczyść">
 <!ENTITY rememberPasswords.title                   "Pamiętaj hasła">
