@@ -9,7 +9,7 @@
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY closeOtherTabs.label "Закрыть другие вкладки">
 <!ENTITY closeOtherTabs.accesskey "ы">
-<!ENTITY uploadFile.label "Загрузить файл на сервер…">
+<!ENTITY uploadFile.label "Выгрузить файл…">
 <!ENTITY uploadFile.accesskey "ф">
 <!ENTITY printSetupCmd.label "Параметры страницы…">
 <!ENTITY printSetupCmd.accesskey "м">

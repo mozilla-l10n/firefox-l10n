@@ -1,8 +1,7 @@
 <!ENTITY accountSetupTitle.label "Настройка &syncBrand.fullName.label;">
 <!ENTITY setup.pickSetupType.description "Добро пожаловать. Если вы никогда раньше не использовали &syncBrand.fullName.label;, вам нужно создать новую учётную запись.">
 <!ENTITY button.createNewAccount.label "Создать учётную запись">
-<!ENTITY setup.haveAccount.label "У меня уже есть учётная запись &syncBrand.fullName.label;.">
-<!ENTITY button.connect.label "Соединиться">
+<!ENTITY button.haveAccount.label "У меня есть учётная запись">
 <!ENTITY setup.choicePage.title.label "Вы использовали раньше &syncBrand.fullName.label;?">
 <!ENTITY setup.choicePage.new.label "Я никогда раньше не использовал &syncBrand.shortName.label;">
 <!ENTITY setup.choicePage.existing.label "Я уже использую &syncBrand.shortName.label; на другом компьютере">
@@ -30,7 +29,7 @@
 <!ENTITY setup.tosAgree3.label "">
 <!ENTITY setup.tosAgree2.accesskey "">
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; заботится о вашей приватности">
-<!ENTITY setup.newRecoveryKeyPage.description.label "Чтобы обеспечить абсолютную приватность, все ваши данные перед их загрузкой шифруются. Ключ восстановления, необходимый для расшифровки ваших данных, не загружается.">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Чтобы обеспечить абсолютную приватность, все ваши данные перед их выгрузкой шифруются. Ключ восстановления, необходимый для расшифровки ваших данных, не выгружается.">
 <!ENTITY recoveryKeyEntry.label "Ваш ключ восстановления">
 <!ENTITY recoveryKeyEntry.accesskey "к">
 <!ENTITY syncGenerateNewKey.label "Сгенерировать новый ключ">
@@ -39,13 +38,12 @@
 <!ENTITY button.syncKeyBackup.print.accesskey "ч">
 <!ENTITY button.syncKeyBackup.save.label "Сохранить…">
 <!ENTITY button.syncKeyBackup.save.accesskey "х">
-<!ENTITY setup.captchaPage2.title.label "Пожалуйста, подтвердите, что вы не робот">
-<!ENTITY addDevice.title.label "Добавление устройства">
+<!ENTITY pairDevice.title.label "Соединение с устройством">
 <!ENTITY addDevice.showMeHow.label "Показать мне как.">
 <!ENTITY addDevice.dontHaveDevice.label "У меня нет с собой устройства">
-<!ENTITY addDevice.setup.description.label "Для активации перейдите на другом вашем устройстве в настройки &syncBrand.shortName.label; и выберите «Добавить устройство».">
+<!ENTITY pairDevice.setup.description.label "Для активации выберите «Соединиться с устройством» на другом вашем устройстве.">
 <!ENTITY addDevice.setup.enterCode.label "Затем введите этот код:">
-<!ENTITY addDevice.dialog.description.label "Чтобы активировать ваше новое устройство, перейдите на устройстве в настройки &syncBrand.shortName.label; и выберите «Соединиться».">
+<!ENTITY pairDevice.dialog.description.label "Для активации вашего нового устройства выберите на устройстве «Настроить синхронизацию».">
 <!ENTITY addDevice.dialog.enterCode.label "Введите предоставленный устройством код:">
 <!ENTITY addDevice.dialog.tryAgain.label "Пожалуйста, попробуйте снова.">
 <!ENTITY addDevice.dialog.successful.label "Устройство было успешно добавлено. Первоначальная синхронизация может занять несколько минут и завершится в фоновом режиме.">

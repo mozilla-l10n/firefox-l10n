@@ -9,7 +9,7 @@
 <!ENTITY changePassword2.label "Сменить пароль…">
 <!ENTITY myRecoveryKey.label "Мой ключ восстановления">
 <!ENTITY resetSync2.label "Заменить или объединить данные Sync…">
-<!ENTITY addDevice.label "Добавить устройство">
+<!ENTITY pairDevice.label "Соединиться с устройством">
 <!ENTITY syncMy.label "Синхронизировать мои">
 <!ENTITY engine.bookmarks.label "Закладки">
 <!ENTITY engine.bookmarks.accesskey "к">

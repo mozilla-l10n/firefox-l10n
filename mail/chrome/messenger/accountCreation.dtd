@@ -40,6 +40,8 @@
 <!ENTITY half-manual-test.accesskey "е">
 <!ENTITY manual-edit.label "Настройка вручную">
 <!ENTITY manual-edit.accesskey "с">
+<!ENTITY switch-to-provisioner.label "Получить новую учётную запись">
+<!ENTITY switch-to-provisioner.accesskey "л">
 <!ENTITY warning.label "Предупреждение!">
 <!ENTITY incomingSettings.label "Параметры входящей почты:">
 <!ENTITY outgoingSettings.label "Параметры исходящей почты:">

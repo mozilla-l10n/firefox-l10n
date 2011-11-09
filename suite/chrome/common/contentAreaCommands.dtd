@@ -103,6 +103,12 @@
 <!ENTITY mediaHideControls.accesskey "к">
 <!ENTITY videoFullScreen.label "Полный экран">
 <!ENTITY videoFullScreen.accesskey "э">
+<!ENTITY videoSaveImage.label "Сохранить кадр как…">
+<!ENTITY videoSaveImage.accesskey "х">
+<!ENTITY videoShowStats.label "Показать статистику">
+<!ENTITY videoShowStats.accesskey "к">
+<!ENTITY videoHideStats.label "Скрыть статистику">
+<!ENTITY videoHideStats.accesskey "к">
 <!ENTITY search.accesskey "П">
 <!ENTITY bidiSwitchPageDirectionItem.label "Переключить направление текста на странице">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey "н">
