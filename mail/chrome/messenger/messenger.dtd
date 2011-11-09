@@ -23,8 +23,10 @@
 <!ENTITY newVirtualFolderCmd.accesskey "e">
 <!ENTITY newOtherAccountsCmd.label "Kita paskyra…">
 <!ENTITY newOtherAccountsCmd.accesskey "K">
-<!ENTITY newEmailAccountCmd.label "Pašto paskyra…">
-<!ENTITY newEmailAccountCmd.accesskey "P">
+<!ENTITY newCreateEmailAccountCmd.label "Kurti naują el. pašto paskyrą…">
+<!ENTITY newCreateEmailAccountCmd.accesskey "n">
+<!ENTITY newExistingEmailAccountCmd.label "Registruoti turimą el. pašto paskyrą…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "R">
 <!ENTITY openMessageFileCmd.label "Atverti įrašytą laišką…">
 <!ENTITY openMessageFileCmd.accesskey "A">
 <!ENTITY openAttachmentCmd.label "Priedai">
