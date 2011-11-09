@@ -8,7 +8,7 @@
 <!ENTITY radioAlwaysOnline.label "Uvijek pokreni u on-line stanju">
 <!ENTITY radioAlwaysOnline.accesskey "l">
 
-<!ENTITY textGoingOnline "Pošalji neposlane poruke prilikom spajanja on-line?">
+<!ENTITY textGoingOnline "Poslati neposlane poruke prilikom spajanja on-line?">
 <!ENTITY radioAutoSend.label "Da">
 <!ENTITY radioAutoSend.accesskey "D">
 <!ENTITY radioNotSend.label "Ne">
