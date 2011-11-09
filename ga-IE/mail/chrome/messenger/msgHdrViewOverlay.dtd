@@ -116,6 +116,8 @@
 <!ENTITY detachAllAttachmentsCmd.accesskey "D">
 <!ENTITY deleteAllAttachmentsCmd.label "Scrios Uile…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey "c">
+
+<!ENTITY openAttachment.tooltip "Oscail an comhad ceangailte">
 <!-- Attachment toolbar items -->
 
 <!ENTITY saveAttachmentButton1.label "Sábháil">

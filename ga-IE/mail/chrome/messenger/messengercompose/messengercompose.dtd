@@ -16,6 +16,7 @@
 <!ENTITY attachMenu.accesskey "C">
 <!ENTITY attachFileCmd.label "Comha(i)d…">
 <!ENTITY attachFileCmd.accesskey "C">
+<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachPageCmd.label "Leathanach Gréasáin…">
 <!ENTITY attachPageCmd.accesskey "L">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->

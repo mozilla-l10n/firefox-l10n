@@ -87,12 +87,18 @@
 <!ENTITY showTaskbarCmd.accesskey "S">
 <!ENTITY customizeToolbar.label "Saincheap…">
 <!ENTITY customizeToolbar.accesskey "c">
-<!ENTITY showContactPane.label "Pána Achoimre Teagmhála">
-<!ENTITY showContactPane.accesskey "T">
+<!ENTITY layoutMenu.label "Leagan Amach">
+<!ENTITY layoutMenu.accesskey "L">
+<!ENTITY showDirectoryPane.label "Pána Eolaire">
+<!ENTITY showDirectoryPane.accesskey "E">
+<!ENTITY showContactPane2.label "Pána Teagmhálacha">
+<!ENTITY showContactPane2.accesskey "C">
 <!ENTITY menu_ShowNameAs.label "Taispeáin Ainm Mar">
 <!ENTITY menu_ShowNameAs.accesskey "n">
-<!ENTITY firstLastCmd.label "Ainm, Sloinne">
-<!ENTITY firstLastCmd.accesskey "A">
+<!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
+because displayed names don't have the comma in between. -->
+<!ENTITY firstLastCmd2.label "Ainm Sloinne">
+<!ENTITY firstLastCmd2.accesskey "A">
 <!ENTITY lastFirstCmd.label "Sloinne, Ainm">
 <!ENTITY lastFirstCmd.accesskey "l">
 <!ENTITY displayNameCmd.label "Ainm Taispeána">
