@@ -49,6 +49,8 @@
 <!ENTITY half-manual-test.accesskey "T">
 <!ENTITY manual-edit.label "Cumraíocht láimhe">
 <!ENTITY manual-edit.accesskey "l">
+<!ENTITY switch-to-provisioner.label "Faigh cuntas nua">
+<!ENTITY switch-to-provisioner.accesskey "g">
 
 
 <!ENTITY warning.label "Rabhadh!">
