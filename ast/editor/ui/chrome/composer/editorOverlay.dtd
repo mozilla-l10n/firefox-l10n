@@ -40,39 +40,17 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY fileMenu.label "Ficheru">
-<!ENTITY fileMenu.accesskey "F">
-<!ENTITY openFileCmd.label "Abrir ficheru…">
-<!ENTITY openFileCmd.accesskey "u">
-<!ENTITY openFileCmd.key "O">
-<!ENTITY openRemoteCmd.label "Abrir direición web…">
-<!ENTITY openRemoteCmd.accesskey "d">
-<!ENTITY openRemoteCmd.key "L">
-<!ENTITY fileRecentMenu.label "Páxines recientes">
-<!ENTITY fileRecentMenu.accesskey "R">
-<!ENTITY fileRevert.label "Revertir">
-<!ENTITY fileRevert.accesskey "t">
-<!ENTITY saveCmd.label "Guardar">
-<!ENTITY saveCmd.accesskey "G">
+
+
+
 <!ENTITY saveCmd.key "S">
-<!ENTITY saveAsCmd.label "Guardar como…">
-<!ENTITY saveAsCmd.accesskey "A">
-<!ENTITY publishCmd.label "Espublizar">
-<!ENTITY publishCmd.accesskey "b">
-<!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "Espublizar como…">
-<!ENTITY publishAsCmd.accesskey "m">
-<!ENTITY saveAsChangeEncodingCmd.label "Guardar y cambiar codif. de caráuteres">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "E">
-<!ENTITY editMenu.label "Editar">
-<!ENTITY editMenu.accesskey "E">
+
+
 <!ENTITY pasteNoFormatting.label "Apegar ensin formatu">
 <!ENTITY pasteNoFormatting.accesskey "s">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Apegar como">
 <!ENTITY pasteAs.accesskey "a">
-<!ENTITY publishSettings.label "Configuración de sitiu d'espublización…">
-<!ENTITY publishSettings.accesskey "b">
 <!ENTITY pasteAsQuotationCmd.label "Apegar como cita">
 <!ENTITY pasteAsQuotationCmd.accesskey "i">
 <!ENTITY pasteAsQuotationCmd.key "o">
