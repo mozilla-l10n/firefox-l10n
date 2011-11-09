@@ -7,7 +7,7 @@
 <!ENTITY sync.disconnect "Разъединиться">
 <!ENTITY sync.syncNow "Синхронизировать">
 <!ENTITY sync.setup.title "Соединение с Sync">
-<!ENTITY sync.setup.jpake "На компьютере, соединённым с Firefox Sync, перейдите в настройки синхронизации и выберите «Добавить устройство»">
+<!ENTITY sync.setup.pair "Для активации выберите «Соединиться с устройством» на другом вашем устройстве.">
 <!ENTITY sync.fallback "Я не рядом с моим компьютером…">
 <!ENTITY sync.setup.manual "Введите данные вашей учётной записи синхронизации">
 <!ENTITY sync.account "Имя учётной записи">
@@ -18,3 +18,8 @@
 <!ENTITY sync.setup.connect "Соединиться">
 <!ENTITY sync.setup.cancel "Отмена">
 <!ENTITY sync.setup.tutorial "Показать мне как">
+<!ENTITY sync.setup.waiting2 "Ожидание другого устройства…">
+<!ENTITY sync.pair.title "Соединение с устройством">
+<!ENTITY sync.pair.description "Для активации вашего нового устройства выберите на устройстве «Настроить синхронизацию».">
+<!ENTITY sync.setup.close "Закрыть">
+<!ENTITY sync.setup.waitingdownload "Ваши данные сейчас загружаются в фоновом режиме. Вы можете закрыть это окно в любое время.">

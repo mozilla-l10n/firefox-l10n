@@ -29,11 +29,10 @@
 <!ENTITY setup.tosAgree3.label "">
 <!ENTITY setup.tosAgree2.accesskey "">
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; заботится о вашей приватности">
-<!ENTITY setup.newRecoveryKeyPage.description.label "Чтобы обеспечить абсолютную приватность, все ваши данные перед их загрузкой шифруются. Ключ восстановления, необходимый для расшифровки ваших данных, не загружается.">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Чтобы обеспечить абсолютную приватность, все ваши данные перед их выгрузкой шифруются. Ключ восстановления, необходимый для расшифровки ваших данных, не выгружается.">
 <!ENTITY recoveryKeyEntry.label "Ваш ключ восстановления">
 <!ENTITY recoveryKeyEntry.accesskey "к">
-<!ENTITY recoveryKeyGenerate.label "Сгенерировать">
-<!ENTITY recoveryKeyGenerate.accesskey "г">
+<!ENTITY recoveryGenerateNewKey.label "Сгенерировать новый ключ">
 <!ENTITY recoveryKeyBackup.description "Ваш ключ восстановления требуется для получения доступа к &syncBrand.fullName.label; с других машин. Пожалуйста, создайте его резервную копию. Мы не можем помочь вам восстановить ваш ключ восстановления.">
 <!ENTITY button.syncKeyBackup.print.label "Распечатать…">
 <!ENTITY button.syncKeyBackup.print.accesskey "ч">

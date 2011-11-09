@@ -6,3 +6,6 @@
 <!ENTITY prefCheckDefault.caption "Интеграция с системой">
 <!ENTITY prefCheckDefaultClient.label "Проверять при запуске параметры приложений по умолчанию">
 <!ENTITY prefCheckDefaultClient.accesskey "в">
+<!ENTITY crashReports.caption "Сообщения о падениях">
+<!ENTITY submitCrashes.label "Отправлять сообщения о падениях">
+<!ENTITY submitCrashes.accesskey "п">
