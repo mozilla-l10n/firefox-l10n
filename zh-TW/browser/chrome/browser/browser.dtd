@@ -90,6 +90,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "離開全螢幕模式">
 <!ENTITY fullScreenExit.accesskey "F">
+<!ENTITY domFullScreenWarning.label "按 ESC 鍵以離開全螢幕模式">
 
 <!ENTITY closeWindow.label "關閉視窗">
 <!ENTITY closeWindow.accesskey "d">
@@ -212,9 +213,12 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectPanelTitle.label      "HTML">
-<!ENTITY inspectButton.label          "檢測">
-<!ENTITY inspectButton.accesskey      "I">
+<!ENTITY inspectPanelTitle.label        "HTML">
+<!ENTITY inspectButton.label            "檢測">
+<!ENTITY inspectButton.accesskey        "I">
+<!ENTITY inspectCloseButton.tooltiptext "關閉檢測器">
+<!ENTITY inspectStyleButton.label     "樣式">
+<!ENTITY inspectStyleButton.accesskey "S">
 
 <!ENTITY getMoreDevtoolsCmd.label        "取得更多工具">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "M">
@@ -432,7 +436,12 @@ can reach it easily. -->
 <!ENTITY mediaHideControls.accesskey "C">
 <!ENTITY videoFullScreen.label       "全螢幕">
 <!ENTITY videoFullScreen.accesskey   "F">
-
+<!ENTITY videoSaveImage.label        "另存快照為…">
+<!ENTITY videoSaveImage.accesskey    "S">
+<!ENTITY videoShowStats.label        "顯示統計資訊">
+<!ENTITY videoShowStats.accesskey    "t">
+<!ENTITY videoHideStats.label        "隱藏統計資訊">
+<!ENTITY videoHideStats.accesskey    "t">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and

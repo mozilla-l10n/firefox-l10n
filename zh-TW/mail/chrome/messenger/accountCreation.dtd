@@ -49,6 +49,8 @@
 <!ENTITY half-manual-test.accesskey      "t">
 <!ENTITY manual-edit.label               "手動設定">
 <!ENTITY manual-edit.accesskey           "M">
+<!ENTITY switch-to-provisioner.label     "取得全新的帳號">
+<!ENTITY switch-to-provisioner.accesskey "G">
 
 
 <!ENTITY warning.label                   "警告！">

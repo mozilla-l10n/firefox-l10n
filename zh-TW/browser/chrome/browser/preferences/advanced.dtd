@@ -58,22 +58,28 @@
 
 <!ENTITY updateTab.label                 "更新">
 
-<!ENTITY autoCheck.label                 "自動檢查下列項目是否有更新:">
-<!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate2.label       "附加元件">
-<!ENTITY enableAddonsUpdate2.accesskey   "n">
-<!ENTITY enableSearchUpdate.label        "搜尋引擎">
-<!ENTITY enableSearchUpdate.accesskey    "e">
-<!ENTITY whenUpdatesFound.label          "找到 &brandShortName; 的更新檔時:">
-<!ENTITY askMe.label                     "詢問我要怎麼處理">
-<!ENTITY askMe.accesskey                 "k">
-<!ENTITY modeAutomatic.label             "自動下載並安裝更新檔案">
-<!ENTITY modeAutomatic.accesskey         "d">
-<!ENTITY modeAutoAddonWarn.label         "若需要停用任何已安裝的附加元件時先警告我">
-<!ENTITY modeAutoAddonWarn.accesskey     "W">
+<!ENTITY updateApp.label                 "&brandShortName; 的更新方式:">
+<!ENTITY updateAuto.label                "自動安裝更新（建議的，保持安全性）">
+<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateCheck.label               "自動檢查更新，但讓我選擇要不要安裝">
+<!ENTITY updateCheck.accesskey           "C">
+<!ENTITY updateManual.label              "不要檢查更新（不建議，可能會有安全性風險）">
+<!ENTITY updateManual.accesskey          "N">
+
+<!ENTITY updateAutoAddonWarn.label       "若需要停用任何已安裝的附加元件時先警告我">
+<!ENTITY updateAutoAddonWarn.accesskey   "W">
+
 <!ENTITY updateHistory.label             "顯示更新記錄">
 <!ENTITY updateHistory.accesskey         "p">
+
+<!ENTITY useService.label                "在背景服務當中安裝更新">
+<!ENTITY useService.accesskey            "b">
+
+<!ENTITY updateOthers.label              "自動更新:">
+<!ENTITY enableAddonsUpdate3.label       "附加元件">
+<!ENTITY enableAddonsUpdate3.accesskey   "o">
+<!ENTITY enableSearchUpdate.label        "搜尋引擎">
+<!ENTITY enableSearchUpdate.accesskey    "e">
 
 <!ENTITY offlineNotify.label             "若網站要求儲存資料以供離線使用時告訴我">
 <!ENTITY offlineNotify.accesskey         "T">
