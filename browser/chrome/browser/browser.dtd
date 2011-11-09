@@ -80,7 +80,7 @@ can reach it easily. -->
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Celozaslonski način">
 <!ENTITY fullScreenCmd.accesskey "C">
-<!ENTITY fullScreenCmd.macCommandKey "c">
+<!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Prikaži vse zavihke">
 <!ENTITY showAllTabsCmd.accesskey "A">
 
