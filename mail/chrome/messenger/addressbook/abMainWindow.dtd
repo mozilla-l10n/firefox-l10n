@@ -87,8 +87,12 @@
 <!ENTITY showTaskbarCmd.accesskey                       "u">
 <!ENTITY customizeToolbar.label                         "Anpassen…">
 <!ENTITY customizeToolbar.accesskey                     "A">
-<!ENTITY showContactPane.label                          "Kontaktvorschau">
-<!ENTITY showContactPane.accesskey                      "K">
+<!ENTITY layoutMenu.label                               "Fensterlayout">
+<!ENTITY layoutMenu.accesskey                           "F">
+<!ENTITY showDirectoryPane.label                        "Verzeichnisliste">
+<!ENTITY showDirectoryPane.accesskey                    "V">
+<!ENTITY showContactPane2.label                         "Kontaktbereich">
+<!ENTITY showContactPane2.accesskey                     "K">
 <!ENTITY menu_ShowNameAs.label                          "Namen anzeigen">
 <!ENTITY menu_ShowNameAs.accesskey                      "N">
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here

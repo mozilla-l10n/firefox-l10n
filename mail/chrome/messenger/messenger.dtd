@@ -136,6 +136,8 @@
 <!ENTITY messagePaneWide.accesskey "B">
 <!ENTITY messagePaneVertical.label "3-Spalten-Ansicht">
 <!ENTITY messagePaneVertical.accesskey "S">
+<!ENTITY showFolderPaneCmd.label "Konten-/Ordnerliste">
+<!ENTITY showFolderPaneCmd.accesskey "O">
 <!ENTITY showMessageCmd.label "Nachrichtenbereich">
 <!ENTITY showMessageCmd.accesskey "c">
 
