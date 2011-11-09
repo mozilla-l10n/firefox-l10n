@@ -93,9 +93,6 @@
       Internetleverantören för ytterligare hjälp.</li>
   </ul>">
 
-<!ENTITY notCached.title "Utgånget dokument">
-<!ENTITY notCached.longDesc "<p>Det efterfrågade dokumentet finns inte längre i webbläsarens cache.</p><ul><li>Av säkerhetsskäl försöker inte webbläsaren automatiskt att hämta om känsliga dokument.</li><li>Klicka på Försök igen för att åter hämta dokumentet från webbplatsen.</li></ul>">
-
 <!ENTITY netOffline.title "Nedkopplat läge">
 <!ENTITY netOffline.longDesc2 "<p>Webbläsaren befinner sig i nedkopplat läge och
   kan inte ansluta till den efterfrågade tjänsten.</p>
