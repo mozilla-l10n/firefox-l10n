@@ -43,49 +43,21 @@
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
 <!-- File menu items -->
-<!ENTITY fileMenu.label "檔案">
-<!ENTITY fileMenu.accesskey "F">
-<!ENTITY openFileCmd.label "開啟檔案…">
-<!ENTITY openFileCmd.accesskey "O">
-<!ENTITY openFileCmd.key "O">
-<!ENTITY openRemoteCmd.label "開啟網址…">
-<!ENTITY openRemoteCmd.accesskey "L">
-<!ENTITY openRemoteCmd.key "L">
-<!ENTITY fileRecentMenu.label "最近開啟頁面">
-<!ENTITY fileRecentMenu.accesskey "R">
-<!ENTITY fileRevert.label "反向">
-<!ENTITY fileRevert.accesskey "t">
-<!ENTITY saveCmd.label "儲存">
-<!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveCmd.key "S">
-<!ENTITY saveAsCmd.label "另存新檔…">
-<!ENTITY saveAsCmd.accesskey "a">
-
-<!ENTITY publishCmd.label "發表">
-<!ENTITY publishCmd.accesskey "b">
-<!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "發佈為…">
-<!ENTITY publishAsCmd.accesskey "h">
-<!ENTITY saveAsChangeEncodingCmd.label "另存新檔並修改字元編碼">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "e">
 
 <!-- Edit menu items -->
-<!ENTITY editMenu.label "編輯">
-<!ENTITY editMenu.accesskey "E">
 <!ENTITY pasteNoFormatting.label "不重新格式化並貼上">
 <!ENTITY pasteNoFormatting.accesskey "n">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "貼上為">
 <!ENTITY pasteAs.accesskey "a">
-<!ENTITY publishSettings.label "網站發佈設定…">
-<!ENTITY publishSettings.accesskey "b">
 <!ENTITY pasteAsQuotationCmd.label "以引言方式貼上">
 <!ENTITY pasteAsQuotationCmd.accesskey "Q">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "尋找及取代…">
 <!ENTITY enableInlineSpellChecker.label "即時拼字檢查">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
-<!ENTITY checkSpellingCmd2.label "檢查拼字">
+<!ENTITY checkSpellingCmd2.label "檢查拼字…">
 <!ENTITY checkSpellingCmd2.accesskey "h">
 <!ENTITY checkSpellingCmd2.key "p">
 
@@ -210,7 +182,7 @@
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "移除錨點">
 <!ENTITY formatRemoveNamedAnchors.accesskey "R">
-<!ENTITY formatRemoveNamedAnchors.key "A">
+<!ENTITY formatRemoveNamedAnchors2.key "R">
 
 <!ENTITY paragraphMenu.label "段落">
 <!ENTITY paragraphMenu.accesskey "P">
