@@ -49,6 +49,8 @@
 <!ENTITY updateAutoAddonWarn.accesskey "A">
 <!ENTITY updateHistory.label "Mostra cronologia aggiornamenti">
 <!ENTITY updateHistory.accesskey "o">
+<!ENTITY useService.label "Utilizza un servizio di sistema per installare gli aggiornamenti">
+<!ENTITY useService.accesskey "U">
 <!ENTITY updateOthers.label "Aggiorna automaticamente:">
 <!ENTITY enableAddonsUpdate3.label "Componenti aggiuntivi">
 <!ENTITY enableAddonsUpdate3.accesskey "C">
