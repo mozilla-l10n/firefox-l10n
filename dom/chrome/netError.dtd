@@ -45,7 +45,7 @@
 <!ENTITY netTimeout.longDesc "<p>El sitiu solicitáu nun retrucó a una petición de conexón y el restolador dexó d'esperar una rempuesta.</p><ul><li>¿Podría tar esperimentando'l sirvidor alta demanda o un corte temporal? Vuelvi a intentalo más sero.</li><li>¿Nun puedes restolar per otros sitios? Comprueba la conexón de rede del equipu.</li><li>¿Ta l'equipu protexíu por un proxy o un firewall? Una configuración incorreuta pue interferir col restolar.</li><li>¿Entá con problemes? Consulta col to alministrador de rede o fornidor d'Internet p'asistencia téunica.</li></ul>">
 
 <!ENTITY notCached.title "Documentu caducáu">
-<!ENTITY notCached.longDesc "<p>El documentu solicitáu nun ta disponible na caché de &brandShortName;.</p><ul><li>Por seguridá, &brandShortName; nun va solicitar automáticamente documentos con información sensible.</li><li>Calca en Intentar pa solicitar el documentu dende la web.</li></ul>">
+<!ENTITY notCached.longDesc "<p>El documentu solicitáu nun ta disponible na caché del navegador.</p><ul><li>Por seguridá, el navegador nun va solicitar automáticamente documentos con información sensible.</li><li>Calca en Intentar pa solicitar el documentu dende la web.</li></ul>">
 
 <!ENTITY protocolNotFound.title "Protocolu desconocíu">
 <!ENTITY protocolNotFound.longDesc "<p>La direición especifica un protocolu (p.ex. <q>wxyz://</q>) que'l restolador nun reconoz, polo que'l restolador nun puede coneutase al sitiu de mou correutu.</p><ul><li>¿Tas intentando acceder a un serviciu multimedia u otru serviciu que nun ye de testu? Comprueba los requisitos estra del sitiu.</li><li>Dalgunos protocolos pueden necesitar software de terceros o plugins enantes de que'l restolador pueda reconocelos.</li></ul>">
