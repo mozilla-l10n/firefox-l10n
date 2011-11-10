@@ -78,12 +78,18 @@
 <!ENTITY showTaskbarCmd.accesskey "S">
 <!ENTITY customizeToolbar.label "Personalizar…">
 <!ENTITY customizeToolbar.accesskey "P">
-<!ENTITY showContactPane.label "Panel de resume del contautu">
-<!ENTITY showContactPane.accesskey "C">
+<!ENTITY layoutMenu.label "Distribución">
+<!ENTITY layoutMenu.accesskey "t">
+
+<!ENTITY showContactPane2.label "Panel del contautu">
+<!ENTITY showContactPane2.accesskey "C">
+<!ENTITY showDirectoryPane.label "Directoriu del panel">
+<!ENTITY showDirectoryPane.accesskey "D">
+
 <!ENTITY menu_ShowNameAs.label "Amosar nome como">
 <!ENTITY menu_ShowNameAs.accesskey "n">
-<!ENTITY firstLastCmd.label "Nome y apellíos">
-<!ENTITY firstLastCmd.accesskey "N">
+<!ENTITY firstLastCmd2.label "Nome y apellíos">
+<!ENTITY firstLastCmd2.accesskey "m">
 <!ENTITY lastFirstCmd.label "Apellíos, nome">
 <!ENTITY lastFirstCmd.accesskey "l">
 <!ENTITY displayNameCmd.label "Nome amosáu">
