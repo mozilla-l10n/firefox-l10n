@@ -40,46 +40,19 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY fileMenu.label "Archivo">
-<!ENTITY fileMenu.accesskey "A">
-<!ENTITY openFileCmd.label "Abrir archivo…">
-<!ENTITY openFileCmd.accesskey "O">
-<!ENTITY openFileCmd.key "O">
-<!ENTITY openRemoteCmd.label "Abrir dirección web…">
-<!ENTITY openRemoteCmd.accesskey "d">
-<!ENTITY openRemoteCmd.key "L">
-<!ENTITY fileRecentMenu.label "Páginas recientes">
-<!ENTITY fileRecentMenu.accesskey "R">
-<!ENTITY fileRevert.label "Revertir">
-<!ENTITY fileRevert.accesskey "t">
-<!ENTITY saveCmd.label "Guardar">
-<!ENTITY saveCmd.accesskey "G">
 <!ENTITY saveCmd.key "S">
-<!ENTITY saveAsCmd.label "Guardar como…">
-<!ENTITY saveAsCmd.accesskey "A">
-<!ENTITY publishCmd.label "Publicar">
-<!ENTITY publishCmd.accesskey "b">
-<!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "Publicar como…">
-<!ENTITY publishAsCmd.accesskey "m">
-<!ENTITY saveAsChangeEncodingCmd.label "Guardar y cambiar codif. de caracteres">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "E">
-<!ENTITY editMenu.label "Editar">
-<!ENTITY editMenu.accesskey "E">
 <!ENTITY pasteNoFormatting.label "Pegar sin formato">
 <!ENTITY pasteNoFormatting.accesskey "s">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Pegar como">
 <!ENTITY pasteAs.accesskey "a">
-<!ENTITY publishSettings.label "Configuración de sitio de publicación…">
-<!ENTITY publishSettings.accesskey "b">
 <!ENTITY pasteAsQuotationCmd.label "Pegar como cita">
 <!ENTITY pasteAsQuotationCmd.accesskey "i">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Buscar y reemplazar…">
 <!ENTITY enableInlineSpellChecker.label "Revisar ortografía según escribe">
 <!ENTITY enableInlineSpellChecker.accesskey "R">
-<!ENTITY checkSpellingCmd2.label "Revisar ortografía">
+<!ENTITY checkSpellingCmd2.label "Revisar ortografía…">
 <!ENTITY checkSpellingCmd2.accesskey "o">
 <!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY insertMenu.label "Insertar">
@@ -191,7 +164,7 @@
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Eliminar enlaces internos con nombre">
 <!ENTITY formatRemoveNamedAnchors.accesskey "m">
-<!ENTITY formatRemoveNamedAnchors.key "A">
+<!ENTITY formatRemoveNamedAnchors2.key "R">
 <!ENTITY paragraphMenu.label "Párrafo">
 <!ENTITY paragraphMenu.accesskey "P">
 <!ENTITY paragraphParagraphCmd.label "Párrafo">
