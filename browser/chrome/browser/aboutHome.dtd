@@ -22,3 +22,6 @@
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "É fácil personalizar o Firefox da maneira que quer. <a>Escolha a partir de centenas de extras</a>.">
+
+<!ENTITY abouthome.syncSetup.label   "Cunfigurar Sync">
+<!ENTITY abouthome.pairDevice.label  "Emparelhar um dispositivo">

@@ -35,14 +35,14 @@
 #endif
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY advancedJSDialog.title "Definições Avançadas de JavaScript">
-<!ENTITY window.width "40em">
+<!ENTITY advancedJSDialog.title         "Definições Avançadas de JavaScript">
+<!ENTITY window.width                   "40em">
 
-<!ENTITY allowScripts.label "Permitir que os scripts:">
+<!ENTITY allowScripts.label             "Permitir que os scripts:">
 
-<!ENTITY moveResizeWindows.label        "Movam ou redimensionem janelas existentes">
-<!ENTITY moveResizeWindows.accesskey    "r">
-<!ENTITY raiseLowerWindows.label "Minimizem ou maximizem janelas">
+<!ENTITY moveResizePopupWindows.label     "Mover ou redimensionar janelas de popup">
+<!ENTITY moveResizePopupWindows.accesskey "r">
+<!ENTITY raiseLowerWindows.label "Minimizar ou maximizar janelas">
 <!ENTITY raiseLowerWindows.accesskey "M">
-<!ENTITY disableContextMenus.label "Desativem ou substituam menus de contexto">
+<!ENTITY disableContextMenus.label "Desativar ou substituir menus de contexto">
 <!ENTITY disableContextMenus.accesskey "D">
