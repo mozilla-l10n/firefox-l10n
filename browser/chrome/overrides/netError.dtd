@@ -29,6 +29,10 @@ pue tar caducada.</li><li>¿Nun yes quien a navegar per otros sitios? Comprueba 
 <!ENTITY netInterrupt.title "Torgóse la conexón">
 <!ENTITY netInterrupt.longDesc "<p>El restolador coneutóse correcho, pero torgóse la conexón mentanto se taba tresfiriendo información. Por favor, vuelvi a intentalo.</p><ul><li>¿Nun pues navegar per otros sitios? Comprueba la conexón de rede del equipu.</li><li>¿Entá tienes problemes? Consulta col alministrador de rede o fornidor d'Internet pa obtener asistencia téunica.</li></ul>">
 
+<!ENTITY notCached.title "Documentu caducáu">
+<!ENTITY notCached.longDesc "<p>El documentu solicitáu nun ta disponible na caché de &brandShortName;.</p><ul><li>Por seguridá, &brandShortName; nun va solicitar automáticamente documentos con información sensible.</li><li>Calca en Intentar pa solicitar el documentu dende la web.</li></ul>">
+
+
 <!ENTITY netOffline.title "Mou ensin conexón">
 <!ENTITY netOffline.longDesc2 "
 <ul>
