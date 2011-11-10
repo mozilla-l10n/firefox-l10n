@@ -56,20 +56,26 @@
 <!ENTITY overrideSmartCacheSize.accesskey "n">
 <!ENTITY updateTab.label                 "Anovar">
 
-<!ENTITY autoCheck.label                 "Guetar automáticamente anovamientos pa:">
-<!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "o">
-<!ENTITY enableAddonsUpdate2.label       "Complementos">
-<!ENTITY enableAddonsUpdate2.accesskey   "n">
+
+
+<!ENTITY enableAddonsUpdate3.label       "Complementos">
+<!ENTITY enableAddonsUpdate3.accesskey   "n">
 <!ENTITY enableSearchUpdate.label        "Guetadores">
 <!ENTITY enableSearchUpdate.accesskey    "G">
-<!ENTITY whenUpdatesFound.label          "Cuando s'alcuentren anovamientos pa &brandShortName;:">
-<!ENTITY askMe.label                     "Entrugar qué facer">
-<!ENTITY askMe.accesskey                 "q">
-<!ENTITY modeAutomatic.label             "Descargar ya instalar l'anovamientu automáticamente">
-<!ENTITY modeAutomatic.accesskey         "D">
-<!ENTITY modeAutoAddonWarn.label         "Avisame si esto desactivará dalgún de los complementos">
-<!ENTITY modeAutoAddonWarn.accesskey     "v">
+<!ENTITY updateApp.label                 "Anovamientos &brandShortName;:">
+<!ENTITY updateAuto.label                "Instalar anovamientos automáticamente (recomendáu: meyora de seguridá)">
+<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateAutoAddonWarn.label       "Avisame si esto va desactivar dalgún de los mios complementos">
+<!ENTITY updateAutoAddonWarn.accesskey   "t">
+<!ENTITY updateCheck.label               "Comprobar anovamientos, pero dexame elexir si quiero instalalos">
+<!ENTITY updateCheck.accesskey           "C">
+<!ENTITY updateManual.label              "Nun comprobar anovamientos (nun se recomienda: riesgu na seguridá)">
+<!ENTITY updateManual.accesskey          "N">
+<!ENTITY updateOthers.label              "Anovar automáticamente:">
+<!ENTITY useService.label                "Usar serviciu en segundu planu pa instalar los anovamientos">
+<!ENTITY useService.accesskey            "v">
+
+
 <!ENTITY updateHistory.label             "Amosar historial d'anovamientos">
 <!ENTITY updateHistory.accesskey         "m">
 
