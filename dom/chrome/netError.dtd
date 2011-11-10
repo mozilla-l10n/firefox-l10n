@@ -24,6 +24,9 @@
 <!ENTITY netInterrupt.title "Briseadh Tarchur na Sonraí">
 <!ENTITY netInterrupt.longDesc "<p>D'éirigh leis an mbrabhsálaí ceangal a bhunú ach idirbhriseadh an ceangal le linn traschur na faisnéise. Triail arís é le do thoil.</p><ul><li>Mura bhfuil tú in ann suímh eile a bhrabhsáil, déan seiceáil ar cheangal líonra do ríomhaire.</li><li>An bhfuil fadhbanna agat fós? Téigh i dteagmháil le do riarthóir líonra nó le do sholáthraí Idirlín le haghaidh cabhrach.</li></ul>">
 
+<!ENTITY notCached.title "Cáipéis As Feidhm">
+<!ENTITY notCached.longDesc "<p>Níl an cháipéis iarrtha ar fáil i dtaisce an bhrabhsálaí.</p><ul><li>Mar gheall ar chúrsaí slándála, ní dhéanfaidh an brabhsálaí iarracht eile aon cháipéis íogair a fháil go huathoibríoch.</li><li>Cliceáil 'Déan Iarracht Eile' chun an cháipéis a iarraidh ón suíomh arís.</li></ul>">
+
 <!ENTITY netOffline.title "Mód As Líne">
 <!ENTITY netOffline.longDesc2 "<p>Tá an brabhsálaí sa mhód as líne agus ní féidir ceangal leis an mhír iarrtha.</p><ul><li>An bhfuil an ríomhaire ceangailte le líonra beo?</li><li>Brúigh 'Déan Iarracht Arís' chun dul ar líne agus an leathanach a luchtú arís.</li></ul>">
 

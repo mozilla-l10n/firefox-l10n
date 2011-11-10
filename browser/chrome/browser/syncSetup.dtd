@@ -4,8 +4,7 @@
 
 <!ENTITY setup.pickSetupType.description "Fáilte romhat, murar bhain tú úsáid as &syncBrand.fullName.label; riamh, ní mór duit cuntas nua a chruthú.">
 <!ENTITY button.createNewAccount.label "Cruthaigh Cuntas Nua">
-<!ENTITY setup.haveAccount.label "Tá cuntas &syncBrand.fullName.label; agam cheana.">
-<!ENTITY button.connect.label "Ceangail">
+<!ENTITY button.haveAccount.label "Tá Cuntas Agam">
 
 <!ENTITY setup.choicePage.title.label "Ar bhain tú úsáid as &syncBrand.fullName.label; riamh?">
 <!ENTITY setup.choicePage.new.label "Níor bhain mé úsáid as &syncBrand.shortName.label; riamh">
@@ -39,7 +38,7 @@
 <!ENTITY setup.ppLink.label "Polasaí Príobháideachta">
 <!ENTITY setup.tosAgree3.label "">
 <!ENTITY setup.tosAgree2.accesskey "">
-<!-- New Account Page 2: Sync Key -->
+<!-- My Recovery Key dialog -->
 
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName;: Tá do phríobháideacht tábhachtach dúinn">
 <!ENTITY setup.newRecoveryKeyPage.description.label "Le do phríobháideacht a chinntiú go hiomlán, uasluchtófar do chuid sonraí i bhfoirm chriptithe. Ní uasluchtófar an Eochair Athshlánaithe a úsáidtear chun do chuid sonraí a dhíchriptiú.">
@@ -52,16 +51,14 @@
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
 <!ENTITY button.syncKeyBackup.save.label "Sábháil…">
 <!ENTITY button.syncKeyBackup.save.accesskey "S">
-<!-- New Account Page 3: Captcha -->
+<!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
 
-<!ENTITY setup.captchaPage2.title.label "Deimhnigh nach róbat thú">
-<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label "Cuir Gléas Leis">
+<!ENTITY pairDevice.title.label "Ceangail Gléas">
 <!ENTITY addDevice.showMeHow.label "Taispeáin dom.">
 <!ENTITY addDevice.dontHaveDevice.label "Níl an gléas liom faoi láthair.">
-<!ENTITY addDevice.setup.description.label "Chun é a chur i bhfeidhm, téigh go Roghanna &syncBrand.shortName.label; ar do ghléas eile agus roghnaigh &#x0022;Cuir Gléas Leis&#x0022;.">
+<!ENTITY pairDevice.setup.description.label "Chun é a chur i ngníomh, roghnaigh &#x0022;Ceangail Gléas&#x0022; ar do ghléas eile.">
 <!ENTITY addDevice.setup.enterCode.label "Ansin, cuir an cód seo isteach:">
-<!ENTITY addDevice.dialog.description.label "Chun do ghléas nua a ghníomhachtú, téigh go Roghanna &syncBrand.shortName.label; ar an ngléas agus roghnaigh &#x0022;Ceangail.&#x0022;">
+<!ENTITY pairDevice.dialog.description.label "Chun do ghléas nua a chur i ngníomh, roghnaigh &#x0022;Socraigh Sync&#x0022; ar an ngléas.">
 <!ENTITY addDevice.dialog.enterCode.label "Cuir isteach an cód a thug an gléas duit:">
 <!ENTITY addDevice.dialog.tryAgain.label "Bain triail as arís.">
 <!ENTITY addDevice.dialog.successful.label "D'éirigh le cur leis an ghléis. D'fhéadfadh an chéadshioncronú leanúint ar feadh cúpla nóiméad agus críochnóidh sé sa chúlra.">

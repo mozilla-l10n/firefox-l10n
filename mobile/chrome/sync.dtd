@@ -8,7 +8,7 @@
 <!ENTITY sync.syncNow "Sioncrónaigh Anois">
 
 <!ENTITY sync.setup.title "Ceangail le Sync">
-<!ENTITY sync.setup.jpake "Ó ríomhaire atá ceangailte le Firefox Sync, téigh go dtí na roghanna Sync agus roghnaigh &#x0022;Cuir gléas leis&#x0022;">
+<!ENTITY sync.setup.pair "Chun é a chur i ngníomh, roghnaigh &#x0022;Ceangail Gléas&#x0022; ar do ghléas eile.">
 <!ENTITY sync.fallback "Nílim in aice le mo ríomhaire…">
 <!ENTITY sync.setup.manual "Cuir faisnéis do chuntais Sync isteach">
 <!ENTITY sync.account "Ainm an Chuntais">
@@ -19,3 +19,9 @@
 <!ENTITY sync.setup.connect "Ceangail">
 <!ENTITY sync.setup.cancel "Cealaigh">
 <!ENTITY sync.setup.tutorial "Taispeáin dom é">
+<!ENTITY sync.setup.waiting2 "Ag fanacht leis an ngléas eile…">
+
+<!ENTITY sync.pair.title "Ceangail Gléas">
+<!ENTITY sync.pair.description "Chun do ghléas nua a chur i ngníomh, roghnaigh &#x0022;Socraigh Sync&#x0022; ar an ngléas.">
+<!ENTITY sync.setup.close "Dún">
+<!ENTITY sync.setup.waitingdownload "Tá do chuid sonraí á n-íosluchtú sa chúlra faoi láthair. Tá cead agat an fhuinneog seo a dhúnadh aon uair is maith leat.">

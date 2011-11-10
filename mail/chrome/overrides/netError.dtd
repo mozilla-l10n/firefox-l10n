@@ -35,7 +35,7 @@ go bhfuil cead ag &brandShortName; an Gréasán a rochtain.</li>
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Cáipéis As Feidhm">
-<!ENTITY notCached.longDesc "<p>The requested document is not available in the cache.</p><ul><li>As a security precaution, &brandShortName; does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Níl an cháipéis iarrtha ar fáil sa taisce.</p><ul><li>Mar gheall ar chúrsaí slándála, ní dhéanfaidh &brandShortName; iarracht eile aon cháipéis íogair a fháil go huathoibríoch.</li><li>Cliceáil 'Déan Iarracht Eile' chun an cháipéis a iarraidh ón suíomh arís.</li></ul>">
 
 <!ENTITY netOffline.title "Mód as líne">
 <!ENTITY netOffline.longDesc2 "<ul> 

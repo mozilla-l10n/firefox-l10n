@@ -17,7 +17,7 @@
 <!ENTITY myRecoveryKey.label "M'Eochair Athshlánaithe">
 <!ENTITY resetSync2.label "Athshocraigh Sync…">
 
-<!ENTITY addDevice.label "Cuir Gléas Leis">
+<!ENTITY pairDevice.label "Ceangail Gléas">
 
 <!ENTITY syncMy.label "Sioncrónaigh Mo Chuid">
 <!ENTITY engine.bookmarks.label "Leabharmharcanna">

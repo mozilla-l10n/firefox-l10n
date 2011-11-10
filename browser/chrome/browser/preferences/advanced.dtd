@@ -59,22 +59,28 @@
 
 <!ENTITY updateTab.label "Nuashonrú">
 
-<!ENTITY autoCheck.label "Déan nuashonruithe a lorg go huathoibríoch i gcomhair:">
-<!ENTITY enableAppUpdate.label "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey "F">
-<!ENTITY enableAddonsUpdate2.label "Breiseáin">
-<!ENTITY enableAddonsUpdate2.accesskey "n">
-<!ENTITY enableSearchUpdate.label "Innill Chuardaigh">
-<!ENTITY enableSearchUpdate.accesskey "I">
-<!ENTITY whenUpdatesFound.label "Agus nuashonruithe do &brandShortName; aimsithe:">
-<!ENTITY askMe.label "Fiafraigh díom cad atá le déanamh">
-<!ENTITY askMe.accesskey "c">
-<!ENTITY modeAutomatic.label "Íosluchtaigh agus suiteáil an nuashonrú go huathoibríoch">
-<!ENTITY modeAutomatic.accesskey "l">
-<!ENTITY modeAutoAddonWarn.label "Tabhair rabhadh dom má tá breiseán díchumasaithe dá mbarr">
-<!ENTITY modeAutoAddonWarn.accesskey "T">
+<!ENTITY updateApp.label "Nuashonruithe &brandShortName;:">
+<!ENTITY updateAuto.label "Suiteáil nuashonruithe go huathoibríoch (molta: slándáil níos fearr)">
+<!ENTITY updateAuto.accesskey "a">
+<!ENTITY updateCheck.label "Lorg nuashonruithe, ach lig dom iad a shuiteáil nuair is mian liom">
+<!ENTITY updateCheck.accesskey "L">
+<!ENTITY updateManual.label "Ná lorg nuashonruithe riamh (rabhadh: contúirt slándála)">
+<!ENTITY updateManual.accesskey "N">
+
+<!ENTITY updateAutoAddonWarn.label "Tabhair rabhadh dom má tá breiseán díchumasaithe dá mbarr">
+<!ENTITY updateAutoAddonWarn.accesskey "T">
+
 <!ENTITY updateHistory.label "Taispeáin Stair na Nuashonruithe">
 <!ENTITY updateHistory.accesskey "p">
+
+<!ENTITY useService.label "Úsáid seirbhís sa chúlra chun nuashonruithe a shuiteáil">
+<!ENTITY useService.accesskey "b">
+
+<!ENTITY updateOthers.label "Nuashonraigh go huathoibríoch:">
+<!ENTITY enableAddonsUpdate3.label "Breiseáin">
+<!ENTITY enableAddonsUpdate3.accesskey "B">
+<!ENTITY enableSearchUpdate.label "Innill Chuardaigh">
+<!ENTITY enableSearchUpdate.accesskey "I">
 
 <!ENTITY offlineNotify.label "Inis dom nuair a iarrann suíomh Gréasáin sonraí a stóráil le haghaidh úsáide as líne">
 <!ENTITY offlineNotify.accesskey "t">

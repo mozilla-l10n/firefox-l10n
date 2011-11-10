@@ -40,8 +40,8 @@
 
 <!ENTITY allowScripts.label "Ceadaigh scripteanna chun:">
 
-<!ENTITY moveResizeWindows.label "Fuinneoga reatha a aistriú nó a méid a athrú">
-<!ENTITY moveResizeWindows.accesskey "F">
+<!ENTITY moveResizePopupWindows.label "Bog nó athraigh méid preabfhuinneoga">
+<!ENTITY moveResizePopupWindows.accesskey "o">
 <!ENTITY raiseLowerWindows.label "Fuinneoga a ardú nó a ísliú">
 <!ENTITY raiseLowerWindows.accesskey "r">
 <!ENTITY disableContextMenus.label "Roghchláir chomhthéacs a dhíchumasú nó a ionadú">

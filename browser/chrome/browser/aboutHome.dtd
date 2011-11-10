@@ -17,3 +17,6 @@
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "Cuir Firefox in oiriúint duit féin. <a>Roghnaigh ó na mílte breiseán</a>.">
+
+<!ENTITY abouthome.syncSetup.label "Socraigh Sync">
+<!ENTITY abouthome.pairDevice.label "Ceangail Gléas">
