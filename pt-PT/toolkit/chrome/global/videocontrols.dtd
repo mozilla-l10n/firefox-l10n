@@ -3,8 +3,24 @@
 <!ENTITY muteButton.muteLabel "Sem som">
 <!ENTITY muteButton.unmuteLabel "Som">
 
+<!ENTITY stats.media "Media">
+<!ENTITY stats.size "Tamanho">
+<!ENTITY stats.activity "Atividade">
+<!ENTITY stats.activityPaused "Em pausa">
+<!ENTITY stats.activityPlaying "A reproduzir">
+<!ENTITY stats.activityEnded "Terminado">
+<!ENTITY stats.activitySeeking "(a procurar)">
+<!ENTITY stats.volume "Volume">
+<!ENTITY stats.channels "Canais">
+<!ENTITY stats.sampleRate "Rácio da amostra">
+<!ENTITY stats.framesParsed "Frames analisadas">
+<!ENTITY stats.framesDecoded "Frames descodificados">
+<!ENTITY stats.framesPresented "Frames apresentadas">
+<!ENTITY stats.framesPainted "Frames pintadas">
+
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
-"6:00:00", result string would be "5:00 of 6:00:00 elapsed". -->
+"6:00:00", result string would be "5:00 of 6:00:00 elapsed".
+-->
 <!ENTITY scrubberScale.nameFormat "Reproduzidos #1 de #2">
