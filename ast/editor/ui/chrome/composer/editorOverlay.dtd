@@ -169,7 +169,7 @@
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Desaniciar enllaces internos con nome">
 <!ENTITY formatRemoveNamedAnchors.accesskey "m">
-<!ENTITY formatRemoveNamedAnchors.key "A">
+<!ENTITY formatRemoveNamedAnchors2.key "D">
 <!ENTITY paragraphMenu.label "Párrafu">
 <!ENTITY paragraphMenu.accesskey "P">
 <!ENTITY paragraphParagraphCmd.label "Párrafu">
