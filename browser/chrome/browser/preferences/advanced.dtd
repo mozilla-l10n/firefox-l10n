@@ -23,7 +23,7 @@
 <!ENTITY submitCrashes.label "Enviar reportes de fallos">
 <!ENTITY submitCrashes.accesskey "f">
 <!ENTITY submitTelemetry.label "Enviar información de rendimiento">
-<!ENTITY submitTelemetry.accesskey "m">
+<!ENTITY submitTelemetry.accesskey "n">
 <!ENTITY networkTab.label "Red">
 <!ENTITY connection.label "Conexión">
 <!ENTITY connectionDesc.label "Configurar cómo &brandShortName; se conecta a Internet">
@@ -38,22 +38,24 @@
 <!ENTITY overrideSmartCacheSize.label "Ignorar la administración automática de caché">
 <!ENTITY overrideSmartCacheSize.accesskey "g">
 <!ENTITY updateTab.label "Actualizar">
-<!ENTITY autoCheck.label "Buscar automáticamente actualizaciones para:">
-<!ENTITY enableAppUpdate.label "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey "F">
-<!ENTITY enableAddonsUpdate2.label "Complementos">
-<!ENTITY enableAddonsUpdate2.accesskey "n">
-<!ENTITY enableSearchUpdate.label "Buscadores">
-<!ENTITY enableSearchUpdate.accesskey "b">
-<!ENTITY whenUpdatesFound.label "Cuando se encuentren actualizaciones para &brandShortName;:">
-<!ENTITY askMe.label "Preguntar qué hacer">
-<!ENTITY askMe.accesskey "q">
-<!ENTITY modeAutomatic.label "Descargar e instalar la actualización automáticamente">
-<!ENTITY modeAutomatic.accesskey "d">
-<!ENTITY modeAutoAddonWarn.label "Advertir si esto desactivará alguno de los complementos">
-<!ENTITY modeAutoAddonWarn.accesskey "v">
+<!ENTITY updateApp.label "Actualizaciones de &brandShortName;:">
+<!ENTITY updateAuto.label "Actualizar automáticamente las actualizaciones (recomendado: mejora la seguridad)">
+<!ENTITY updateAuto.accesskey "A">
+<!ENTITY updateCheck.label "Comprobar actualizaciones, pero dejarme elegir si las quiero instalar">
+<!ENTITY updateCheck.accesskey "C">
+<!ENTITY updateManual.label "No comprobar actualizaciones (no recomendado: riesgos de seguridad)">
+<!ENTITY updateManual.accesskey "N">
+<!ENTITY updateAutoAddonWarn.label "Avisarme si esto desactivara alguno de mis complementos.">
+<!ENTITY updateAutoAddonWarn.accesskey "v">
 <!ENTITY updateHistory.label "Mostrar historial de actualizaciones">
 <!ENTITY updateHistory.accesskey "c">
+<!ENTITY useService.label "Usar un servicio de fondo para instalar actualizaciones">
+<!ENTITY useService.accesskey "z">
+<!ENTITY updateOthers.label "Actualización automática:">
+<!ENTITY enableAddonsUpdate3.label "Complementos">
+<!ENTITY enableAddonsUpdate3.accesskey "C">
+<!ENTITY enableSearchUpdate.label "Buscadores">
+<!ENTITY enableSearchUpdate.accesskey "b">
 <!ENTITY offlineNotify.label "Avisarme si un sitio solicita guardar datos para uso sin conexión">
 <!ENTITY offlineNotify.accesskey "T">
 <!ENTITY offlineNotifyExceptions.label "Excepciones…">

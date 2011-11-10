@@ -7,7 +7,7 @@
 <!ENTITY sync.disconnect "Desconectar">
 <!ENTITY sync.syncNow "Sincronizar ahora">
 <!ENTITY sync.setup.title "Conectar a Sync">
-<!ENTITY sync.setup.jpake 'Desde un equipo conectado a Firefox Sync, vaya a las opciones de Sync y seleccione "Añadir un dispositivo"'>
+<!ENTITY sync.setup.pair 'Para activarlo, seleccione "Emparejar un dispositivo" en su otro dispositivo.'>
 <!ENTITY sync.fallback "No estoy cerca de mi ordenador…">
 <!ENTITY sync.setup.manual "Escriba la información de su cuenta de Sync">
 <!ENTITY sync.account "Nombre de cuenta">
@@ -18,3 +18,8 @@
 <!ENTITY sync.setup.connect "Conectar">
 <!ENTITY sync.setup.cancel "Cancelar">
 <!ENTITY sync.setup.tutorial "Muéstrame cómo">
+<!ENTITY sync.setup.waiting2 "Esperando al otro dispositivo…">
+<!ENTITY sync.pair.title "Emparejar un dispositivo">
+<!ENTITY sync.pair.description 'Para activar su nuevo dispositivo, seleccione "Configurar Sync" en su dispositivo.'>
+<!ENTITY sync.setup.close "Cerrar">
+<!ENTITY sync.setup.waitingdownload "Sus datos están ahora siendo descargados en segundo plano. Puede cerrar esta ventana en cualquier momento.">
