@@ -40,6 +40,8 @@
 <!ENTITY half-manual-test.accesskey "V">
 <!ENTITY manual-edit.label "Config. manual">
 <!ENTITY manual-edit.accesskey "m">
+<!ENTITY switch-to-provisioner.label     "Obtener una cuenta nueva">
+<!ENTITY switch-to-provisioner.accesskey "O">
 <!ENTITY warning.label "¡Avisu!">
 <!ENTITY incomingSettings.label "Configuración d'entrada:">
 <!ENTITY outgoingSettings.label "Configuración de salida:">

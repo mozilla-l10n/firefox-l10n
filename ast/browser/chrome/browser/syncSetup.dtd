@@ -43,11 +43,11 @@
 <!ENTITY button.syncKeyBackup.save.accesskey "r">
 <!ENTITY pairDevice.dialog.description.label "P'activar el nuevu preséu calca en 'Configurar Sync' nel preséu.">
 <!ENTITY pairDevice.setup.description.label  "P'activar, seleiciona 'Emparexar preséu' nel otru preséu.">
+<!ENTITY addDevice.setup.enterCode.label    "Dempués, introduz esti códigu:">
 <!ENTITY pairDevice.title.label             "Emparexar un preséu">
 
 <!ENTITY addDevice.showMeHow.label "Depréndime cómo.">
 <!ENTITY addDevice.dontHaveDevice.label "Nun tengo'l preséu conmigo">
-<!ENTITY addDevice.setup.description.label "P'activalu, vete a les opciones de &syncBrand.shortName.label; n'otru preséu y esbilla 'Amestar un preséu'.">
 
 
 
