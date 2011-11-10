@@ -2,4 +2,18 @@
 <!ENTITY playButton.pauseLabel "Pausar">
 <!ENTITY muteButton.muteLabel "Silenciar">
 <!ENTITY muteButton.unmuteLabel "Restaurar sonido">
+<!ENTITY stats.media "Medios">
+<!ENTITY stats.size "Tamaño">
+<!ENTITY stats.activity "Actividad">
+<!ENTITY stats.activityPaused "En pausa">
+<!ENTITY stats.activityPlaying "Reproduciendo">
+<!ENTITY stats.activityEnded "Finalizado">
+<!ENTITY stats.activitySeeking "(buscando)">
+<!ENTITY stats.volume "Volumen">
+<!ENTITY stats.channels "Canales">
+<!ENTITY stats.sampleRate "Tasa de muestreo">
+<!ENTITY stats.framesParsed "Imágenes procesadas">
+<!ENTITY stats.framesDecoded "Imágenes decodicadas">
+<!ENTITY stats.framesPresented "Imágenes presentadas">
+<!ENTITY stats.framesPainted "Imágenes mostradas">
 <!ENTITY scrubberScale.nameFormat "Transcurridos #1 de #2">
