@@ -43,42 +43,14 @@
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
 <!-- File menu items -->
-<!ENTITY fileMenu.label "Ficheiro">
-<!ENTITY fileMenu.accesskey "f">
-<!ENTITY openFileCmd.label "Abrir Ficheiro...">
-<!ENTITY openFileCmd.accesskey "o">
-<!ENTITY openFileCmd.key "o">
-<!ENTITY openRemoteCmd.label "Abrir local da web...">
-<!ENTITY openRemoteCmd.accesskey "l">
-<!ENTITY openRemoteCmd.key "l">
-<!ENTITY fileRecentMenu.label "Páginas Recentes">
-<!ENTITY fileRecentMenu.accesskey "r">
-<!ENTITY fileRevert.label "Reverter">
-<!ENTITY fileRevert.accesskey "v">
-<!ENTITY saveCmd.label "Guardar">
-<!ENTITY saveCmd.accesskey "G">
 <!ENTITY saveCmd.key "s">
-<!ENTITY saveAsCmd.label "Guardar como...">
-<!ENTITY saveAsCmd.accesskey "u">
-
-<!ENTITY publishCmd.label "Publicar">
-<!ENTITY publishCmd.accesskey "b">
-<!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "Publicar como...">
-<!ENTITY publishAsCmd.accesskey "i">
-<!ENTITY saveAsChangeEncodingCmd.label "Guardar e mudar a codificação de caracteres">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "G">
 
 <!-- Edit menu items -->
-<!ENTITY editMenu.label "Editar">
-<!ENTITY editMenu.accesskey "E">
 <!ENTITY pasteNoFormatting.label "Colar sem formatação">
 <!ENTITY pasteNoFormatting.accesskey "ç">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Colar como">
 <!ENTITY pasteAs.accesskey "a">
-<!ENTITY publishSettings.label "Configurações do sítio de publicação...">
-<!ENTITY publishSettings.accesskey "b">
 <!ENTITY pasteAsQuotationCmd.label "Colar como Citação">
 <!ENTITY pasteAsQuotationCmd.accesskey "m">
 <!ENTITY pasteAsQuotationCmd.key "o">
@@ -156,11 +128,11 @@
 <!ENTITY size-smallCmd.label "pequeno">
 <!ENTITY size-smallCmd.accesskey "p">
 <!ENTITY size-mediumCmd.label "médio">
-<!ENTITY size-mediumCmd.accesskey "é">
+<!ENTITY size-mediumCmd.accesskey "d">
 <!ENTITY size-largeCmd.label "grande">
 <!ENTITY size-largeCmd.accesskey "g">
 <!ENTITY size-x-largeCmd.label "x-grande">
-<!ENTITY size-x-largeCmd.accesskey "r">
+<!ENTITY size-x-largeCmd.accesskey "x">
 <!ENTITY size-xx-largeCmd.label "xx-grande">
 <!ENTITY size-xx-largeCmd.accesskey "a">
 
@@ -210,7 +182,7 @@
 <!ENTITY formatRemoveLinks.key "k">
 <!ENTITY formatRemoveNamedAnchors.label "Remover Âncoras">
 <!ENTITY formatRemoveNamedAnchors.accesskey "R">
-<!ENTITY formatRemoveNamedAnchors.key "a">
+<!ENTITY formatRemoveNamedAnchors2.key "a">
 
 <!ENTITY paragraphMenu.label "Parágrafo">
 <!ENTITY paragraphMenu.accesskey "P">
