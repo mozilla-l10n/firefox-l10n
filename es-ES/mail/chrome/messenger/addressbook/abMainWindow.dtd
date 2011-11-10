@@ -78,12 +78,16 @@
 <!ENTITY showTaskbarCmd.accesskey "S">
 <!ENTITY customizeToolbar.label "Personalizar…">
 <!ENTITY customizeToolbar.accesskey "P">
-<!ENTITY showContactPane.label "Panel de resumen del contacto">
-<!ENTITY showContactPane.accesskey "C">
+<!ENTITY layoutMenu.label "Disposición">
+<!ENTITY layoutMenu.accesskey "D">
+<!ENTITY showDirectoryPane.label "Panel de directorio">
+<!ENTITY showDirectoryPane.accesskey "a">
+<!ENTITY showContactPane2.label "Panel de contactos">
+<!ENTITY showContactPane2.accesskey "P">
 <!ENTITY menu_ShowNameAs.label "Mostrar nombre como">
 <!ENTITY menu_ShowNameAs.accesskey "n">
-<!ENTITY firstLastCmd.label "Nombre y apellidos">
-<!ENTITY firstLastCmd.accesskey "N">
+<!ENTITY firstLastCmd2.label "Nombre y apellidos">
+<!ENTITY firstLastCmd2.accesskey "m">
 <!ENTITY lastFirstCmd.label "Apellidos, nombre">
 <!ENTITY lastFirstCmd.accesskey "l">
 <!ENTITY displayNameCmd.label "Nombre mostrado">

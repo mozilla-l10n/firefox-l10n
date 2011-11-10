@@ -13,6 +13,7 @@
 <!ENTITY attachMenu.accesskey "t">
 <!ENTITY attachFileCmd.label "Archivo(s)…">
 <!ENTITY attachFileCmd.accesskey "v">
+<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachPageCmd.label "Adjuntar página web…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!ENTITY attachVCardCmd.label "Tarjeta personal (vCard)">

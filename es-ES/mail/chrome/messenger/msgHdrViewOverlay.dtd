@@ -74,6 +74,7 @@
 <!ENTITY detachAllAttachmentsCmd.accesskey "D">
 <!ENTITY deleteAllAttachmentsCmd.label "Eliminar todos…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey "d">
+<!ENTITY openAttachment.tooltip "Abrir el archivo adjunto">
 <!ENTITY saveAttachmentButton1.label "Guardar">
 <!ENTITY saveAttachmentButton1.tooltip "Guardar el archivo adjunto">
 <!ENTITY saveAllAttachmentsButton1.label "Guardar todo">
