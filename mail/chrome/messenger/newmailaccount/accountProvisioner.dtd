@@ -1,0 +1,39 @@
+<!ENTITY window.title "Willkommen bei &brandShortName;">
+<!ENTITY header.label "Wollen Sie eine neue E-Mail-Adresse für &brandShortName; erhalten?">
+<!ENTITY other.languages "Es werden nur Postfachanbieter gezeigt, die Adressen in Ihrer Region anbieten.  Hier klicken, um alle Anbieter zu zeigen.">
+<!ENTITY error.line1 "Entschuldigung, es konnten keine vorgeschlagenen E-Mail-Adressen gefunden werden.">
+<!ENTITY error.line2 "Sie können mit Spitznamen oder anderen Begriffen versuchen, weitere E-Mail-Adressen zu finden">
+
+<!-- LOCALIZATION NOTE(error.suggest.before, error.suggest.middle, error.suggest.after):
+     error.suggest.before, error.suggest.middle, and error.suggest.after all go into
+     one line with error.suggest.middle that links to a site which provides download
+     of free account alternatives. -->
+<!ENTITY error.suggest.before "Zudem können Sie eine der ">
+<!ENTITY error.suggest.middle "kostenlosen E-Mail-Postfach Alternativen">
+<!ENTITY error.suggest.after " ausprobieren.">
+
+<!-- LOCALIZATION NOTE(success.title.before, success.title.after):
+     success.title.before and success.title.after all go into one line, wrapping
+     around the name that the user has typed in to the search input. -->
+<!ENTITY success.title.before "Hallo ">
+<!ENTITY success.title.after ", folgende E-Mail-Adressen sind für Sie verfügbar:">
+<!ENTITY success.tip "(Sie können mit Spitznamen oder anderen Begriffen versuchen, weitere E-Mail-Adressen zu finden)">
+<!ENTITY partnership.description "In Zusammenarbeit mit verschiedenen Anbietern bietet &brandShortName; Ihnen die Möglichkeit für ein neues E-Mail-Postfach. Geben Sie oben einfach Ihren Vor- und Nachnamen ein, oder beliebige andere Begriffe, die Sie möchten, um zu beginnen.">
+<!ENTITY existing.header "Haben Sie bereits eine Adresse, die Sie verwenden wollen?">
+<!ENTITY tinyheader.title "Eine Adresse bekommen?">
+<!ENTITY tinyheader.existing "Überspringen und meine existierende E-Mail-Adresse verwenden">
+<!ENTITY content.close "Ich werde mein Konto später konfigurieren.">
+<!ENTITY successful.title "Glückwunsch!">
+<!ENTITY successful.successMessage "Sie haben Ihr Konto erfolgreich erstellt.">
+<!ENTITY successful.write "E-Mails schreiben">
+<!ENTITY successful.write.desc "Informieren Sie Ihre Bekannten und Familie über die neue E-Mail-Adresse.<br/> Dafür haben Sie doch das neue Postfach, stimmts?">
+<!ENTITY successful.customize "Passen Sie &brandShortName; mit tollen Add-ons an">
+<!ENTITY successful.customize.desc "Es gibt tausende Add-ons, mit deren Hilfe Sie &brandShortName; an Ihre speziellen Bedürfnisse anpassen können.">
+<!ENTITY successful.attach "Eine persönliche Signatur an meine E-Mails anhängen">
+<!ENTITY successful.attach.desc "Sie können einen kurzen Text, ein Zitat oder Informationen über Sie selbst automatisiert an das Ende Ihrer gesendeten Nachrichten anhängen.">
+<!ENTITY successful.close "Dieses Fenster schließen.">
+<!ENTITY input.namePlaceholder "Ihr Name oder Spitzname">
+<!ENTITY input.search "Suchen">
+<!ENTITY search_engine.title "Wählen Sie eine Suchmaschine aus">
+<!ENTITY search_engine.message "Ihr Postfachanbieter kann Ihnen auch die Möglichkeit zur Suche im Web anbieten.">
+<!ENTITY search_engine.button "Fertigstellen">

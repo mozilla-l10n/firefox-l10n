@@ -21,10 +21,12 @@
 <!ENTITY moveToNewWindow.accesskey "n">
 <!ENTITY newVirtualFolderCmd.label "Virtueller Ordner…">
 <!ENTITY newVirtualFolderCmd.accesskey "V">
-<!ENTITY newOtherAccountsCmd.label "Anderes Konto…">
+<!ENTITY newOtherAccountsCmd.label "Andere Konten…">
 <!ENTITY newOtherAccountsCmd.accesskey "o">
-<!ENTITY newEmailAccountCmd.label "E-Mail-Konto…">
-<!ENTITY newEmailAccountCmd.accesskey "E">
+<!ENTITY newCreateEmailAccountCmd.label "Neues E-Mail-Konto erhalten…">
+<!ENTITY newCreateEmailAccountCmd.accesskey "N">
+<!ENTITY newExistingEmailAccountCmd.label "Vorhandenes E-Mail-Konto…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "V">
 <!ENTITY openMessageFileCmd.label "Datei öffnen…">
 <!ENTITY openMessageFileCmd.accesskey "ö">
 <!ENTITY openAttachmentCmd.label "Anhänge">

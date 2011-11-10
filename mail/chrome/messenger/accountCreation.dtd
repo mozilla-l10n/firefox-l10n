@@ -49,6 +49,8 @@
 <!ENTITY half-manual-test.accesskey      "t">
 <!ENTITY manual-edit.label               "Manuell bearbeiten">
 <!ENTITY manual-edit.accesskey           "M">
+<!ENTITY switch-to-provisioner.label     "Neues E-Mail-Konto erhalten…">
+<!ENTITY switch-to-provisioner.accesskey "N">
 
 <!ENTITY warning.label                   "Warnung!">
 <!ENTITY incomingSettings.label          "Posteingang-Einstellungen:">
