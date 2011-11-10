@@ -58,22 +58,28 @@
 
 <!ENTITY updateTab.label                 "Actualizaciones">
 
-<!ENTITY autoCheck.label                 "Automáticamente chequear por actualizaciones de:">
-<!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "r">
-<!ENTITY enableAddonsUpdate2.label        "Complementos">
-<!ENTITY enableAddonsUpdate2.accesskey    "C">
+<!ENTITY updateApp.label                 "Actualizaciones de &brandShortName;:">
+<!ENTITY updateAuto.label                "Instalar actualizaciones automáticamente (recomendado: mejoras de seguridad)">
+<!ENTITY updateAuto.accesskey            "a">
+<!ENTITY updateCheck.label               "Buscar actualizaciones, pero dejarme elegir si deseo instalarlas">
+<!ENTITY updateCheck.accesskey           "c">
+<!ENTITY updateManual.label              "Nunca buscar actualizaciones (no recomendado: riesgos de seguridad)">
+<!ENTITY updateManual.accesskey          "N">
+
+<!ENTITY updateAutoAddonWarn.label       "Avisarme si ésto deshabilitará alguno de mis complementos">
+<!ENTITY updateAutoAddonWarn.accesskey   "v">
+
+<!ENTITY updateHistory.label             "Mostrar historial de actualizaciones">
+<!ENTITY updateHistory.accesskey         "h">
+
+
+<!ENTITY updateOthers.label              "Actualizar automáticamente:">
+<!ENTITY enableAddonsUpdate3.label       "Complementos">
+<!ENTITY enableAddonsUpdate3.accesskey   "o">
 <!ENTITY enableSearchUpdate.label        "Motores de búsqueda">
 <!ENTITY enableSearchUpdate.accesskey    "M">
-<!ENTITY whenUpdatesFound.label          "Cuando se encuentren actualizaciones de &brandShortName;:">
-<!ENTITY askMe.label                     "Preguntarme qué deseo hacer">
-<!ENTITY askMe.accesskey                 "P">
-<!ENTITY modeAutomatic.label             "Automáticamente descargar e instalar la actualización">
-<!ENTITY modeAutomatic.accesskey         "d">
-<!ENTITY modeAutoAddonWarn.label         "Avisarme si deshabilitará alguna de mis extensiones">
-<!ENTITY modeAutoAddonWarn.accesskey     "x">
 <!ENTITY updateHistory.label             "Mostar el historial de actualizaciones">
-<!ENTITY updateHistory.accesskey         "H">
+<!ENTITY updateHistory.accesskey         "h">
 
 <!ENTITY offlineNotify.label             "Informarme cuando un sitio web pida guardar datos para usar sin conexión">
 <!ENTITY offlineNotify.accesskey         "t">

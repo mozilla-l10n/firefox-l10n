@@ -43,42 +43,14 @@
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
 <!-- File menu items -->
-<!ENTITY fileMenu.label "Archivo">
-<!ENTITY fileMenu.accesskey "A">
-<!ENTITY openFileCmd.label "Abrir archivo…">
-<!ENTITY openFileCmd.accesskey "a">
-<!ENTITY openFileCmd.key "a">
-<!ENTITY openRemoteCmd.label "Abrir dirección…">
-<!ENTITY openRemoteCmd.accesskey "d">
-<!ENTITY openRemoteCmd.key "d">
-<!ENTITY fileRecentMenu.label "Páginas recientes">
-<!ENTITY fileRecentMenu.accesskey "r">
-<!ENTITY fileRevert.label "Volver a la última copia guardada">
-<!ENTITY fileRevert.accesskey "v">
-<!ENTITY saveCmd.label "Guardar">
-<!ENTITY saveCmd.accesskey "G">
 <!ENTITY saveCmd.key "G">
-<!ENTITY saveAsCmd.label "Guardar como…">
-<!ENTITY saveAsCmd.accesskey "A">
-
-<!ENTITY publishCmd.label "Publicar">
-<!ENTITY publishCmd.accesskey "b">
-<!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "Publicar como…">
-<!ENTITY publishAsCmd.accesskey "m">
-<!ENTITY saveAsChangeEncodingCmd.label "Guardar y cambiar codif. de caracteres">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "d">
 
 <!-- Edit menu items -->
-<!ENTITY editMenu.label "Editar">
-<!ENTITY editMenu.accesskey "e">
 <!ENTITY pasteNoFormatting.label "Pegar sin formato">
 <!ENTITY pasteNoFormatting.accesskey "f">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Pegar como">
 <!ENTITY pasteAs.accesskey "a">
-<!ENTITY publishSettings.label "Configuración de sitio de publicación…">
-<!ENTITY publishSettings.accesskey "b">
 <!ENTITY pasteAsQuotationCmd.label "Pegar como cita">
 <!ENTITY pasteAsQuotationCmd.accesskey "g">
 <!ENTITY pasteAsQuotationCmd.key "o">
@@ -210,7 +182,7 @@
 <!ENTITY formatRemoveLinks.key "k">
 <!ENTITY formatRemoveNamedAnchors.label "Eliminar enlaces internos con nombre">
 <!ENTITY formatRemoveNamedAnchors.accesskey "m">
-<!ENTITY formatRemoveNamedAnchors.key "a">
+<!ENTITY formatRemoveNamedAnchors2.key "r">
 
 <!ENTITY paragraphMenu.label "Párrafo">
 <!ENTITY paragraphMenu.accesskey "P">
