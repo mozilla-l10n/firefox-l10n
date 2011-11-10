@@ -16,8 +16,10 @@
 <!ENTITY newVirtualFolderCmd.accesskey "B">
 <!ENTITY newOtherAccountsCmd.label "Otras cuentas…">
 <!ENTITY newOtherAccountsCmd.accesskey "O">
-<!ENTITY newEmailAccountCmd.label "Cuenta de correo…">
-<!ENTITY newEmailAccountCmd.accesskey "C">
+<!ENTITY newCreateEmailAccountCmd.label "Obtener una nueva cuenta de correo…">
+<!ENTITY newCreateEmailAccountCmd.accesskey "O">
+<!ENTITY newExistingEmailAccountCmd.label "Cuenta de correo existente…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "E">
 <!ENTITY openMessageFileCmd.label "Abrir mensaje guardado…">
 <!ENTITY openMessageFileCmd.accesskey "A">
 <!ENTITY openAttachmentCmd.label "Adjuntos">
@@ -122,6 +124,8 @@
 <!ENTITY messagePaneWide.accesskey "a">
 <!ENTITY messagePaneVertical.label "Vista vertical">
 <!ENTITY messagePaneVertical.accesskey "v">
+<!ENTITY showFolderPaneCmd.label "Panel de carpetas">
+<!ENTITY showFolderPaneCmd.accesskey "c">
 <!ENTITY showMessageCmd.label "Mensaje">
 <!ENTITY showMessageCmd.accesskey "e">
 <!ENTITY folderView.label "Carpetas">
