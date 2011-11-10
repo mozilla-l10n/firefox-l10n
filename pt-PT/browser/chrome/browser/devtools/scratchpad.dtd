@@ -95,23 +95,24 @@
 <!ENTITY browserContext.label         "Navegador">
 <!ENTITY browserContext.accesskey     "N">
 
-<!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
+<!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the context where the code executes.
   -->
-<!ENTITY resetContext.label           "Reiniciar">
-<!ENTITY resetContext.accesskey       "R">
+<!ENTITY resetContext2.label           "Reiniciar">
+<!ENTITY resetContext2.accesskey       "R">
 
 <!ENTITY executeMenu.label            "Executar">
 <!ENTITY executeMenu.accesskey        "X">
 
-<!ENTITY toolsMenu.label              "Ferramentas">
-<!ENTITY toolsMenu.accesskey          "T">
-
-<!ENTITY errorConsoleCmd.label        "Consola de erro">
-<!ENTITY errorConsoleCmd.accesskey    "C">
+<!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
+  -  the browser Error Console, the key should be identical to the property of
+  -  the same name in browser.dtd.
+  -->
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY webConsoleCmd.label          "Consola Web">
-<!ENTITY webConsoleCmd.accesskey      "W">
+<!-- LOCALIZATION NOTE (webConsoleCmd.commandkey): This command key launches
+  -  the browser WebConsole, the key should be identical to the property of
+  -  the same name in browser.dtd.
+  -->
 <!ENTITY webConsoleCmd.commandkey     "k">
 
