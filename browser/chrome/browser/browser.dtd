@@ -90,6 +90,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "E">
 <!ENTITY fullScreenExit.label "Sair de Modo de Ecrã Inteiro">
 <!ENTITY fullScreenExit.accesskey "I">
+<!ENTITY domFullScreenWarning.label "Pressione ESC para sair do modo de ecrã inteiro">
 
 <!ENTITY closeWindow.label "Fechar Janela">
 <!ENTITY closeWindow.accesskey "J">
@@ -215,6 +216,9 @@ shortcut keys on Linux. -->
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "Inspeccionar">
 <!ENTITY inspectButton.accesskey      "I">
+<!ENTITY inspectCloseButton.tooltiptext "Fechar Inspector">
+<!ENTITY inspectStyleButton.label     "Estilo">
+<!ENTITY inspectStyleButton.accesskey "s">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Obter mais ferramentas">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "m">
@@ -432,7 +436,12 @@ shortcut keys on Linux. -->
 <!ENTITY mediaHideControls.accesskey "C">
 <!ENTITY videoFullScreen.label       "Ecrã completo">
 <!ENTITY videoFullScreen.accesskey   "c">
-
+<!ENTITY videoSaveImage.label        "Guardar instantâneo como…">
+<!ENTITY videoSaveImage.accesskey    "s">
+<!ENTITY videoShowStats.label        "Mostrar estatísticas">
+<!ENTITY videoShowStats.accesskey    "t">
+<!ENTITY videoHideStats.label        "Ocultar estatísticas">
+<!ENTITY videoHideStats.accesskey    "t">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and

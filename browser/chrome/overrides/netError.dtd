@@ -52,8 +52,15 @@
 <!ENTITY netInterrupt.title "A ligação foi interrompida">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!ENTITY notCached.title "Documento expirado">
+<!ENTITY notCached.longDesc "<p>O documento pedido não está disponível na cache do navegador.</p><ul><li>Como precaução de segurança, o navegador não pede de novo de forma automática documentos sensíveis.</li><li>Clique voltar a tentar para voltar a pedir o documento do sítio web.</li></ul>">
+
 <!ENTITY netOffline.title "Modo desligado">
-<!ENTITY netOffline.longDesc2 "<p>O navegador está no modo desligado e não pode ligar-se ao item pedido.</p><ul><li>O computador está ligado a uma rede?</li><li>Pressione &quot;Tentar novamente&quot; para ficar ligado e recarregar a página.</li></ul>">
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>Pressione &quot;Tentar novamente&quot; para ficar ligado e recarregar a página.</li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.title "Erro de Codificação de Conteúdo">
 <!ENTITY contentEncodingError.longDesc "
