@@ -78,6 +78,9 @@
 <!ENTITY saveAttachmentButton1.tooltip "Guardar el ficheru axuntu">
 <!ENTITY saveAllAttachmentsButton1.label "Guardar too">
 <!ENTITY saveAllAttachmentsButton1.tooltip "Guardar tolos ficheros axuntos">
+
+<!ENTITY openAttachment.tooltip "Abrir el ficheru axuntu">
+
 <!ENTITY copyLinkCmd.label "Copiar la direición del enllaz">
 <!ENTITY copyLinkCmd.accesskey "C">
 <!ENTITY CopyMessageId.label "Copiar Message-ID">

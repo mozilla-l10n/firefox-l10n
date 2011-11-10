@@ -13,6 +13,7 @@
 <!ENTITY attachMenu.accesskey "t">
 <!ENTITY attachFileCmd.label "Ficheru(os)…">
 <!ENTITY attachFileCmd.accesskey "r">
+<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachPageCmd.label "Axuntar páxina web…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!ENTITY attachVCardCmd.label "Tarxeta personal (vCard)">

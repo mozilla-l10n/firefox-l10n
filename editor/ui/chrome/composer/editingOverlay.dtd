@@ -19,3 +19,7 @@
 <!ENTITY publishAsCmd.accesskey "u">
 <!ENTITY fileRevert.label "Revertir">
 <!ENTITY fileRevert.accesskey "t">
+
+<!ENTITY publishSettings.label "Axustes d'espublización…">
+<!ENTITY publishSettings.accesskey "b">
+
