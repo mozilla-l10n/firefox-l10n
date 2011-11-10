@@ -21,6 +21,7 @@
 <!ENTITY pluginWizard.finalPage.restart.label "&brandShortName; necesita reiniciarse para que funcionen los plugins.">
   
 <!ENTITY missingPlugin                                       "Se necesita un pluin para mostrar este contenido.">
+<!ENTITY clickToPlayPlugin                                   "Pulse aquí para activar el plugin.">
 <!ENTITY disabledPlugin                                      "Este plugin ha sido deshabilitado.">
 <!ENTITY blockedPlugin.label                                 "Este plugin ha sido bloqueado para su protección.">
 
@@ -35,7 +36,7 @@
 <!ENTITY reloadPlugin.post                                   " para intentar nuevamente.">
 
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.please                                       "Enviar informe de problema">
+<!ENTITY report.checkbox                                     "…y enviar informe de problema">
 <!ENTITY report.submitting                                   "Enviando informe…">
 <!ENTITY report.submitted                                    "Informe de problema enviado.">
 <!ENTITY report.disabled                                     "Informe de problemas deshabilitado.">

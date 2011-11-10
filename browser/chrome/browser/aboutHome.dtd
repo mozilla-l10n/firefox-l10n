@@ -19,3 +19,6 @@
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "Es fácil personalizar su Firefox exactamente de la forma en que lo desee. <a>Hay miles de complementos para elegir</a>.">
 
+<!ENTITY abouthome.syncSetup.label   "Configurar Sync">
+<!ENTITY abouthome.pairDevice.label  "Asociar un dispositivo">
+
