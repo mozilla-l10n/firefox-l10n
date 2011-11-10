@@ -90,6 +90,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "h">
 <!ENTITY fullScreenExit.label "Fág Mód Lánscáileáin">
 <!ENTITY fullScreenExit.accesskey "L">
+<!ENTITY domFullScreenWarning.label "Brúigh ESC chun an mód lánscáileáin a fhágáil">
 
 <!ENTITY closeWindow.label "Dún an Fhuinneog">
 <!ENTITY closeWindow.accesskey "F">
@@ -215,6 +216,9 @@ can reach it easily. -->
 <!ENTITY inspectPanelTitle.label "HTML">
 <!ENTITY inspectButton.label "Scrúdaigh">
 <!ENTITY inspectButton.accesskey "S">
+<!ENTITY inspectCloseButton.tooltiptext "Dún an Scrúdaitheoir">
+<!ENTITY inspectStyleButton.label "Stíl">
+<!ENTITY inspectStyleButton.accesskey "S">
 
 <!ENTITY getMoreDevtoolsCmd.label "Faigh Tuilleadh Uirlisí">
 <!ENTITY getMoreDevtoolsCmd.accesskey "T">
@@ -432,12 +436,17 @@ can reach it easily. -->
 <!ENTITY mediaHideControls.accesskey "R">
 <!ENTITY videoFullScreen.label "Lánscáileán">
 <!ENTITY videoFullScreen.accesskey "i">
+<!ENTITY videoSaveImage.label "Sábháil Grianghraf Mar…">
+<!ENTITY videoSaveImage.accesskey "S">
+<!ENTITY videoShowStats.label "Taispeáin Staitisticí">
+<!ENTITY videoShowStats.accesskey "t">
+<!ENTITY videoHideStats.label "Folaigh Staitisticí">
+<!ENTITY videoHideStats.accesskey "t">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
-
 
 
 <!ENTITY fullZoomEnlargeCmd.label "Súmáil Isteach">

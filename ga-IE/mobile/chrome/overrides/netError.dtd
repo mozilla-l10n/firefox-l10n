@@ -33,6 +33,9 @@
 <!ENTITY netInterrupt.title "Idirbhriseadh an ceangal">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
+<!ENTITY notCached.title "Cáipéis As Feidhm">
+<!ENTITY notCached.longDesc "<p>Níl an cháipéis iarrtha ar fáil i dtaisce &brandShortName;.</p><ul><li>Mar gheall ar chúrsaí slándála, ní dhéanfaidh &brandShortName; iarracht eile aon cháipéis íogair a fháil go huathoibríoch.</li><li>Cliceáil 'Déan Iarracht Eile' chun an cháipéis a iarraidh ón suíomh arís.</li></ul>">
+
 <!ENTITY netOffline.title "Mód as líne">
 <!ENTITY netOffline.longDesc2 "<ul> 
 <li>Déan iarracht eile. Iarrfaidh &brandShortName; ceangal a oscailt agus an leathanach a athluchtú.</li> 

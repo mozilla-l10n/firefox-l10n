@@ -2,6 +2,21 @@
 <!ENTITY playButton.pauseLabel "Cuir ar Shos">
 <!ENTITY muteButton.muteLabel "Gan fuaim">
 <!ENTITY muteButton.unmuteLabel "Le fuaim">
+
+<!ENTITY stats.media "Meáin">
+<!ENTITY stats.size "Méid">
+<!ENTITY stats.activity "Gníomhaíocht">
+<!ENTITY stats.activityPaused "Curtha ar Shos">
+<!ENTITY stats.activityPlaying "Ag Seinm">
+<!ENTITY stats.activityEnded "Críochnaithe">
+<!ENTITY stats.activitySeeking "(cuardach)">
+<!ENTITY stats.volume "Airde">
+<!ENTITY stats.channels "Cainéil">
+<!ENTITY stats.sampleRate "Ráta Samplála">
+<!ENTITY stats.framesParsed "Frámaí parsáilte">
+<!ENTITY stats.framesDecoded "Frámaí díchódaithe">
+<!ENTITY stats.framesPresented "Frámaí curtha ar taispeáint">
+<!ENTITY stats.framesPainted "Frámaí péinteáilte">
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
