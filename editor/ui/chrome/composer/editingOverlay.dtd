@@ -25,7 +25,8 @@
    -   Ryan Cassin (rcassin@supernova.org)
    -   Daniel Glazman (glazman@netscape.com)
    -   Stephen Donner (technutz@netscape.net)
-   -   Proyecto NAVE (http://www.proyectonave.es/)
+   -   Charles Manske (cmanske@netscape.com)
+   -   Ian Neal (iann_bugzilla@blueyonder.co.uk)
    -   
    -
    - Alternatively, the contents of this file may be used under the terms of
@@ -64,3 +65,9 @@
 <!ENTITY fileRevert.accesskey "t">
 <!ENTITY publishSettings.label "Configuración de sitio de publicación…">
 <!ENTITY publishSettings.accesskey "b">
+<!ENTITY newToolbarCmd.label "Nuevo">
+<!ENTITY newToolbarCmd.tooltip "Crear una página nueva en Composer">
+<!ENTITY openToolbarCmd.label "Abrir">
+<!ENTITY openToolbarCmd.tooltip "Abrir un archivo local">
+<!ENTITY saveToolbarCmd.tooltip "Guardar archivo en una ubicación local">
+<!ENTITY publishToolbarCmd.tooltip "Subir un archivo a una ubicación remota">
