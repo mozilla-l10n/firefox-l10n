@@ -68,6 +68,7 @@
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "Colar del mou pantalla completa">
 <!ENTITY fullScreenExit.accesskey "m">
+<!ENTITY domFullScreenWarning.label "Calca ESC pa colar de pantalla completa">
 <!ENTITY closeWindow.label "Zarrar ventana">
 <!ENTITY closeWindow.accesskey "v">
 <!ENTITY bookmarksMenu.label "Marcadores">
@@ -157,6 +158,10 @@
 <!ENTITY inspectPanelTitle.label "HTML">
 <!ENTITY inspectButton.label "Inspeicionar">
 <!ENTITY inspectButton.accesskey "I">
+<!ENTITY inspectCloseButton.tooltiptext "Zarrar Inspector">
+<!ENTITY inspectStyleButton.label     "Estilu">
+<!ENTITY inspectStyleButton.accesskey "S">
+
 <!ENTITY inspectContextMenu.label "Inspeicionar Elementu">
 <!ENTITY inspectContextMenu.accesskey "n">
 <!ENTITY getMoreDevtoolsCmd.label "Obtener más Ferramientes">
@@ -336,6 +341,13 @@
 <!ENTITY mediaHideControls.accesskey "C">
 <!ENTITY videoFullScreen.label "Pantalla completa">
 <!ENTITY videoFullScreen.accesskey "c">
+<!ENTITY videoSaveImage.label        "Guardar captura como…">
+<!ENTITY videoSaveImage.accesskey    "G">
+<!ENTITY videoShowStats.label        "Amosar estadístiques">
+<!ENTITY videoShowStats.accesskey    "t">
+<!ENTITY videoHideStats.label        "Anubrir estadístiques">
+<!ENTITY videoHideStats.accesskey    "n">
+
 <!ENTITY fullZoomEnlargeCmd.label "Aumentar">
 <!ENTITY fullZoomEnlargeCmd.accesskey "A">
 <!ENTITY fullZoomEnlargeCmd.commandkey "+">
