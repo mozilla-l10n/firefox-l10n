@@ -49,6 +49,9 @@
   <li>Calca &quot;Reintentar&quot; pa cambiar al mou con conexón y recargar la páxina.</li>
 </ul>
 ">
+
+<!ENTITY notCached.title "Documentu caducáu">
+<!ENTITY notCached.longDesc "<p>El documentu solicitáu nun ta disponible na caché.</p><ul><li>Por precaución, &brandShortName; nun va solicitar automáticamente documentos con información sensible.</li><li>Calca en Intentar pa solicitar otra vegada'l documentu dende'l sitiu web.</li></ul>">
 <!ENTITY contentEncodingError.title "Error de codificación de conteníu">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
