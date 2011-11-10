@@ -20,6 +20,7 @@
    -
    - Contributor(s): 
    -   Cédric Corazza <cedric.corazza@wanadoo.fr>
+   -   Philipp Kewisch <mozilla@kewis.ch>
    -   
    -
    - Alternatively, the contents of this file may be used under the terms of
@@ -35,7 +36,7 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY pref.alarmgoesoff.label "Cuando se activa una alarma:">
+<!ENTITY pref.alarmgoesoff.label "Cuando se activa un aviso:">
 <!ENTITY pref.playasound "Reproducir sonido">
 <!ENTITY pref.calendar.alarms.playsound.accessKey "R">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "Usar sonido predeterminado">
@@ -44,20 +45,20 @@
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "x">
 <!ENTITY pref.calendar.alarms.sound.preview.label "Escuchar">
 <!ENTITY pref.calendar.alarms.sound.preview.accessKey "E">
-<!ENTITY pref.showalarmbox "Mostrar una ventana de alarma">
+<!ENTITY pref.showalarmbox "Mostrar la ventana de aviso">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "M">
-<!ENTITY pref.missedalarms "Mostrar alarmas vencidas">
+<!ENTITY pref.missedalarms "Mostrar avisos vencidos">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "o">
-<!ENTITY pref.calendar.alarms.defaults.label "Valores por omisión para alarmas">
-<!ENTITY pref.defalarm4events.label "Config. predet. de alarma para eventos:">
+<!ENTITY pref.calendar.alarms.defaults.label "Valores por omisión para avisos">
+<!ENTITY pref.defalarm4events.label "Config. predet. de aviso para eventos:">
 <!ENTITY pref.defalarm4events.accesskey "C">
-<!ENTITY pref.defalarm4todos.label "Config. predet. de alarma para tareas:">
+<!ENTITY pref.defalarm4todos.label "Config. predet. de aviso para tareas:">
 <!ENTITY pref.defalarm4todos.accesskey "n">
 <!ENTITY pref.alarm.on "Encendido">
 <!ENTITY pref.alarm.off "Apagado">
-<!ENTITY pref.defalarmlen4events.label "Preaviso de alarma antes de un evento:">
+<!ENTITY pref.defalarmlen4events.label "Antelación predet. con la que un aviso aparece antes de un evento:">
 <!ENTITY pref.defalarmlen4events.accesskey "P">
-<!ENTITY pref.defalarmlen4todos.label "Preaviso de alarma antes de una tarea:">
+<!ENTITY pref.defalarmlen4todos.label "Antelación predet. con la que un aviso aparece antes de una tarea:">
 <!ENTITY pref.defalarmlen4todos.accesskey "v">
-<!ENTITY pref.defaultemail.label "Dirección predet. a la que enviar las alarmas:">
-<!ENTITY pref.defaulttext.label "Texto predeterminado de las alarmas:">
+<!ENTITY pref.defaultemail.label "Dirección predet. a la que enviar los avisos:">
+<!ENTITY pref.defaulttext.label "Texto predeterminado de los avisos:">
