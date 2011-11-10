@@ -72,6 +72,9 @@
 <!ENTITY updateHistory.label             "Afficher l'historique des mises à jour">
 <!ENTITY updateHistory.accesskey         "A">
 
+<!ENTITY useService.label                "Utiliser un service en arrière-plan pour installer les mises à jour">
+<!ENTITY useService.accesskey            "s">
+
 <!ENTITY updateOthers.label              "Mettre à jour automatiquement :">
 <!ENTITY enableAddonsUpdate3.label       "les modules">
 <!ENTITY enableAddonsUpdate3.accesskey   "e">
