@@ -4,8 +4,7 @@
 
 <!ENTITY setup.pickSetupType.description "Bem vindo, se nunca usou o &syncBrand.fullName.label; antes, tem de criar uma nova conta.">
 <!ENTITY button.createNewAccount.label "Criar uma nova conta">
-<!ENTITY setup.haveAccount.label "Eu já tenho uma conta do &syncBrand.fullName.label;.">
-<!ENTITY button.connect.label    "Ligar">
+<!ENTITY button.haveAccount.label      "Eu já tenho uma conta">
 
 <!ENTITY setup.choicePage.title.label     "Já usou antes o &syncBrand.fullName.label;?">
 <!ENTITY setup.choicePage.new.label       "Nunca usei o &syncBrand.shortName.label;">
@@ -40,7 +39,7 @@
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 
-<!-- New Account Page 2: Sync Key -->
+<!-- My Recovery Key dialog -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "O &brandShortName; preocupa-se com a sua privacidade">
 <!ENTITY setup.newRecoveryKeyPage.description.label "Para assegurar total privacidade, todos os seus dados são cifrados antes de serem carregados. A chave do Sync que é necessária para decifrar os seus dados não é carregada.">
 <!ENTITY recoveryKeyEntry.label        "A sua chave de recuperação">
@@ -53,15 +52,13 @@
 <!ENTITY button.syncKeyBackup.save.label      "Guardar…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "G">
 
-<!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "Por favor confirme que não é um robot ;)">
-<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "Adicionar um dispositivo">
+<!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
+<!ENTITY pairDevice.title.label             "Emparelhar um dispositivo">
 <!ENTITY addDevice.showMeHow.label          "Mostrar-me como.">
 <!ENTITY addDevice.dontHaveDevice.label     "Não tenho o dispositivo comigo">
-<!ENTITY addDevice.setup.description.label  "Para activar, vá às opções do &syncBrand.shortName.label; no seu outro dispositivo e seleccione &#x0022;Adicionar um dispositivo&#x0022;.">
+<!ENTITY pairDevice.setup.description.label "Para activar, seleccione &#x0022;Emparelhar um dispositivo&#x0022; no seu outro dispositivo.">
 <!ENTITY addDevice.setup.enterCode.label    "Então, escreva este código:">
-<!ENTITY addDevice.dialog.description.label "Para activar o seu novo dispositivo, vá às opções do &syncBrand.shortName.label; no dispositivo e seleccione &#x0022;Ligar.&#x0022;">
+<!ENTITY pairDevice.dialog.description.label "Para activar o seu novo dispositivo, seleccione &#x0022;Configurar Sync&#x0022; no dispositivo">
 <!ENTITY addDevice.dialog.enterCode.label   "Escreva o código que o dispositivo forneceu:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Por favor, tente de novo.">
 <!ENTITY addDevice.dialog.successful.label  "O dispositivo foi adicionado com sucesso. A sincronização inicial pode demorar alguns minutos e irá terminar em segundo plano.">
