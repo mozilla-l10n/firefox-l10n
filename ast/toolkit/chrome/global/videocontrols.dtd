@@ -2,7 +2,20 @@
 <!ENTITY playButton.pauseLabel "Posar">
 <!ENTITY muteButton.muteLabel "Silenciar">
 <!ENTITY muteButton.unmuteLabel "Restaurar soníu">
-
+<!ENTITY stats.media "Media">
+<!ENTITY stats.size "Tamañu">
+<!ENTITY stats.activity "Actividá">
+<!ENTITY stats.activityPaused "En posa">
+<!ENTITY stats.activityPlaying "N'execución">
+<!ENTITY stats.activityEnded "Fináu">
+<!ENTITY stats.activitySeeking "(en busca)">
+<!ENTITY stats.volume "Volume">
+<!ENTITY stats.channels "Canal">
+<!ENTITY stats.sampleRate "Tasa muestréu">
+<!ENTITY stats.framesParsed "Marcos analizaos">
+<!ENTITY stats.framesDecoded "Marcos decodificaos">
+<!ENTITY stats.framesPresented "Marcos presentaos">
+<!ENTITY stats.framesPainted "Marcos reproducíos">
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
