@@ -608,3 +608,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY inspectContextMenu.label     "Έλεγχος αντικειμένου">
 <!ENTITY inspectContextMenu.accesskey "υ">
 
+
+<!ENTITY domFullScreenWarning.label "Πατήστε ESC για έξοδο από τη λειτουργία πλήρους οθόνης">
+<!ENTITY inspectCloseButton.tooltiptext "Κλείσιμο Inspector">
+<!ENTITY inspectStyleButton.label     "Στυλ">
+<!ENTITY inspectStyleButton.accesskey "Σ">
+<!ENTITY videoSaveImage.label        "Αποθήκευση στιγμιότυπου ως…">
+<!ENTITY videoSaveImage.accesskey    "ς">
+<!ENTITY videoShowStats.label        "Εμφάνιση στατιστικών">
+<!ENTITY videoShowStats.accesskey    "φ">
+<!ENTITY videoHideStats.label        "Απόκρυψη στατιστικών">
+<!ENTITY videoHideStats.accesskey    "ψ">

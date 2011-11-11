@@ -27,12 +27,12 @@
 <!ENTITY saveFileCmd.accesskey        "σ">
 <!ENTITY saveFileCmd.commandkey       "s">
 
-<!ENTITY saveFileAsCmd.label          "Αποθήκεση ως…">
+<!ENTITY saveFileAsCmd.label          "Αποθήκευση ως…">
 <!ENTITY saveFileAsCmd.accesskey      "ω">
 
 <!ENTITY closeCmd.label               "Κλείσιμο">
-<!ENTITY closeCmd.key                 "W">
-<!ENTITY closeCmd.accesskey           "Κ">
+<!ENTITY closeCmd.key                 "Κ">
+<!ENTITY closeCmd.accesskey           "C">
 
 <!ENTITY editMenu.label               "Επεξεργασία">
 <!ENTITY editMenu.accesskey           "Ε">
@@ -62,16 +62,16 @@
 <!ENTITY selectAllCmd.accesskey       "λ">
 
 <!ENTITY run.label                    "Εκτέλεση">
-<!ENTITY run.accesskey                "τ">
+<!ENTITY run.accesskey                "λ">
 <!ENTITY run.key                      "r">
 
-<!ENTITY inspect.label                "Επιθεώρηση">
-<!ENTITY inspect.accesskey            "θ">
-<!ENTITY inspect.key                  "i">
+<!ENTITY inspect.label                "Έλεγχος">
+<!ENTITY inspect.accesskey            "I">
+<!ENTITY inspect.key                  "χ">
 
 <!ENTITY display.label                "Προβολή">
-<!ENTITY display.accesskey            "β">
-<!ENTITY display.key                  "l">
+<!ENTITY display.accesskey            "D">
+<!ENTITY display.key                  "β">
 
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
@@ -79,12 +79,12 @@
   -  the user is evaluating against. I.e., Content (current tab) or Chrome
   -  (browser).
   -->
-<!ENTITY environmentMenu.label        "Περιβάλλον">
-<!ENTITY environmentMenu.accesskey    "ρ">
+<!ENTITY environmentMenu.label        "Environment">
+<!ENTITY environmentMenu.accesskey    "N">
 
 
-<!ENTITY contentContext.label         "Περιεχόμενο">
-<!ENTITY contentContext.accesskey     "χ">
+<!ENTITY contentContext.label         "Content">
+<!ENTITY contentContext.accesskey     "C">
 
 <!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
   -  to select an execution environment for the browser window itself as opposed
@@ -92,28 +92,27 @@
   -  enabled via the devtools.chrome.enabled preference. Formerly, this label
   -  was called "Chrome".
   -->
-<!ENTITY browserContext.label         "Περιηγητής">
-<!ENTITY browserContext.accesskey     "Π">
+<!ENTITY browserContext.label         "Browser">
+<!ENTITY browserContext.accesskey     "B">
 
-<!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
+<!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
-<!ENTITY resetContext.label           "Επαναφορά">
-<!ENTITY resetContext.accesskey       "φ">
+<!ENTITY resetContext2.label          "Εκκαθάριση μεταβλητών">
+<!ENTITY resetContext2.accesskey      "θ">
 
 <!ENTITY executeMenu.label            "Εκτέλεση">
 <!ENTITY executeMenu.accesskey        "τ">
 
-<!ENTITY toolsMenu.label              "Εργαλεία">
-<!ENTITY toolsMenu.accesskey          "γ">
-
-<!ENTITY errorConsoleCmd.label        "Κονσόλα σφαλμάτων">
-<!ENTITY errorConsoleCmd.accesskey    "Κ">
+<!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
+  -  the browser Error Console, the key should be identical to the property of
+  -  the same name in browser.dtd.
+  -->
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY webConsoleCmd.label          "Web Console">
-<!ENTITY webConsoleCmd.accesskey      "W">
+<!-- LOCALIZATION NOTE (webConsoleCmd.commandkey): This command key launches
+  -  the browser WebConsole, the key should be identical to the property of
+  -  the same name in browser.dtd.
+  -->
 <!ENTITY webConsoleCmd.commandkey     "k">
-
-
 
