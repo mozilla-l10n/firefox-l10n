@@ -1,6 +1,6 @@
 <!ENTITY securityTitle.label "Seguridá">
 <!ENTITY securityTab.label "Seguridá">
-<!ENTITY securityHeading.label "Pa unviar y recibir mensaxes roblaos o cifraos, tien d'especificar tanto un certificáu pa robla dixital como ún pa cifráu.">
+<!ENTITY securityHeading.label "Pa unviar y recibir mensaxes roblaos o cifraos, tienes d'especificar tanto un certificáu pa robla dixital como ún pa cifráu.">
 <!ENTITY encryptionGroupTitle.label "Cifráu">
 <!ENTITY encryptionChoiceLabel.label "Cifráu elexíu pa unviar mensaxes:">
 <!ENTITY neverEncrypt.label "Enxamás (nun usar cifráu)">

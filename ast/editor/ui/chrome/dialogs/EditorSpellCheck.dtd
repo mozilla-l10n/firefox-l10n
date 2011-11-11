@@ -56,7 +56,7 @@
 <!ENTITY userDictionary.label "Diccionariu personal:">
 <!ENTITY moreDictionaries.label "Descargar más diccionarios…">
 <!ENTITY addToUserDictionaryButton.label "Amestar pallabra">
-<!ENTITY addToUserDictionaryButton.accessKey "d">
+<!ENTITY addToUserDictionaryButton.accessKey "m">
 <!ENTITY editUserDictionaryButton.label "Editar…">
 <!ENTITY editUserDictionaryButton.accessKey "E">
 <!ENTITY recheckButton.label "Volver a revisar la páxina">
