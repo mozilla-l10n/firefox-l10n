@@ -13,13 +13,13 @@
 <!ENTITY useHtml.accesskey "R">
 <!ENTITY autoQuote.label "Citar automáticamente el mensaxe orixinal al retrucar">
 <!ENTITY autoQuote.accesskey "C">
-<!ENTITY then.label "Entós,">
+<!ENTITY then.label "entós,">
 <!ENTITY then.accesskey "T">
 <!ENTITY aboveQuote.label "entamar la mio rempuesta sobre'l testu citáu">
 <!ENTITY belowQuote.label "entamar la mio rempuesta baxo'l testu citáu">
 <!ENTITY selectAndQuote.label "seleicionar el testu citáu">
 <!ENTITY place.label "y poner la mio robla">
-<!ENTITY place.accesskey "f">
+<!ENTITY place.accesskey "r">
 <!ENTITY belowText.label "baxo'l testu citáu (recomiéndase)">
 <!ENTITY aboveText.label "Baxo la mio rempuesta (sobre'l testu citáu)">
 <!ENTITY includeSigOnReply.label "Incluyir robla nes rempuestes">

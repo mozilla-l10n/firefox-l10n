@@ -89,8 +89,8 @@
 <!ENTITY editLinkCmd.label "Editar enllaz en ventana de Composer nueva">
 <!ENTITY editLinkCmd.accesskey "i">
 <!ENTITY FontFaceSelect.tooltip "Esbilla un tipu de lletra">
-<!ENTITY fontfaceMenu.label "Tipu de lletra">
-<!ENTITY fontfaceMenu.accesskey "T">
+<!ENTITY fontfaceMenu.label "Fonte de lletra">
+<!ENTITY fontfaceMenu.accesskey "F">
 <!ENTITY fontVarWidth.label "Anchor variable">
 <!ENTITY fontVarWidth.accesskey "V">
 <!ENTITY fontFixedWidth.label "Anchor fixu">
@@ -123,7 +123,7 @@
 <!ENTITY size-largeCmd.label "Grande">
 <!ENTITY size-largeCmd.accesskey "G">
 <!ENTITY size-x-largeCmd.label "Mui grande">
-<!ENTITY size-x-largeCmd.accesskey "y">
+<!ENTITY size-x-largeCmd.accesskey "d">
 <!ENTITY size-xx-largeCmd.label "Estragrande">
 <!ENTITY size-xx-largeCmd.accesskey "s">
 <!ENTITY fontStyleMenu.label "Estilu de testu">
@@ -156,7 +156,7 @@
 <!ENTITY styleAcronym.label "Acrónimu">
 <!ENTITY styleAcronym.accesskey "r">
 <!ENTITY styleCode.label "Códigu">
-<!ENTITY styleCode.accesskey "o">
+<!ENTITY styleCode.accesskey "d">
 <!ENTITY styleSamp.label "Aspeutu d'exemplu">
 <!ENTITY styleSamp.accesskey "m">
 <!ENTITY styleVar.label "Variable">
