@@ -24,9 +24,9 @@
 <!ENTITY newOtherAccountsCmd.label "Andere Konten…">
 <!ENTITY newOtherAccountsCmd.accesskey "o">
 <!ENTITY newCreateEmailAccountCmd.label "Neue E-Mail-Adresse erhalten…">
-<!ENTITY newCreateEmailAccountCmd.accesskey "N">
+<!ENTITY newCreateEmailAccountCmd.accesskey "E">
 <!ENTITY newExistingEmailAccountCmd.label "Existierendes E-Mail-Konto…">
-<!ENTITY newExistingEmailAccountCmd.accesskey "V">
+<!ENTITY newExistingEmailAccountCmd.accesskey "x">
 <!ENTITY openMessageFileCmd.label "Datei öffnen…">
 <!ENTITY openMessageFileCmd.accesskey "ö">
 <!ENTITY openAttachmentCmd.label "Anhänge">
