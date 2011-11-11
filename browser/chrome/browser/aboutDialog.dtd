@@ -24,7 +24,7 @@
 <!ENTITY contribute.getInvolvedLink "Uključite se!">
 <!ENTITY contribute.end             "">
 
-<!ENTITY update.adminDisabled       "Updates disabled by your system administrator">
+<!ENTITY update.adminDisabled       "Dopune onemogućene od vašeg sistem administratora">
 <!ENTITY update.checkingAddonCompat "Provjera kompatibilnosti dodataka…">
 <!ENTITY update.checkingForUpdates  "Provjera dopuna…">
 <!ENTITY update.downloading.start   "Preuzimanje dopune — ">
