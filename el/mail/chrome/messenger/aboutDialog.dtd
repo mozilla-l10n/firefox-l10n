@@ -1,7 +1,7 @@
 <!ENTITY aboutDialog.title "Περί &brandFullName;">
 <!ENTITY community.start2 "Ο &brandShortName; έχει σχεδιαστεί από το ">
 <!ENTITY community.mozillaLink "&vendorShortName;">
-<!ENTITY community.middle2 ", μια">
+<!ENTITY community.middle2 ", μια ">
 <!ENTITY community.creditsLink " παγκόσμια κοινότητα">
 <!ENTITY community.end2 " που συνεργάζεται για να κάνει το διαδίκτυο έναν καλύτερο κόσμο. Βασική μας αρχή είναι ότι το διαδίκτυο θα πρέπει να είναι ανοικτό, ελεύθερο και προσβάσιμο από όλους χωρίς κανένα περιορισμό.">
 <!ENTITY contribute.start "Ακούγεται ενδιαφέρον; ">
@@ -23,6 +23,6 @@
 <!ENTITY update.downloading.start "Λήψη ενημέρωσης σε εξέλιξη -">
 <!ENTITY update.downloading.end "">
 <!ENTITY channel.description.start "Βρίσκεστε στο κανάλι ενημερώσεων της έκδοσης ">
-<!ENTITY channel.description.end " .">
+<!ENTITY channel.description.end ".">
 <!ENTITY cmdCloseMac.commandKey "w">
 
