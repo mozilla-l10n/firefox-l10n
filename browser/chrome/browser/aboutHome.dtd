@@ -23,3 +23,5 @@
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "Είναι πανεύκολο να προσαρμόσετε τον Firefox όπως ακριβώς τον θέλετε. <a>Επιλέξτε ανάμεσα από χιλιάδες πρόσθετα</a>.">
 
+<!ENTITY abouthome.syncSetup.label   "Ρύθμιση Sync">
+<!ENTITY abouthome.pairDevice.label  "Σύνδεση μιας συσκευής">
