@@ -23,9 +23,9 @@
 <!ENTITY newVirtualFolderCmd.accesskey "V">
 <!ENTITY newOtherAccountsCmd.label "Andere Konten…">
 <!ENTITY newOtherAccountsCmd.accesskey "o">
-<!ENTITY newCreateEmailAccountCmd.label "Neues E-Mail-Konto erhalten…">
+<!ENTITY newCreateEmailAccountCmd.label "Neue E-Mail-Adresse erhalten…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "N">
-<!ENTITY newExistingEmailAccountCmd.label "Vorhandenes E-Mail-Konto…">
+<!ENTITY newExistingEmailAccountCmd.label "Existierendes E-Mail-Konto…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "V">
 <!ENTITY openMessageFileCmd.label "Datei öffnen…">
 <!ENTITY openMessageFileCmd.accesskey "ö">
