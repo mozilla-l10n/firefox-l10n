@@ -1,31 +1,31 @@
-<!ENTITY dialog.title                 "Send Options">
-<!ENTITY sendMail.title               "Text Format">
-<!ENTITY sendMaildesc.label           "When sending messages in HTML format and one or more recipients are not listed as being able to receive HTML:">
-<!ENTITY askMe.label                  "Ask me what to do">
-<!ENTITY askMe.accesskey              "k">
-<!ENTITY convertPlain.label           "Convert the message to plain text">
-<!ENTITY convertPlain.accesskey       "C">
-<!ENTITY sendHTML.label               "Send the message in HTML anyway">
+<!ENTITY dialog.title                 "Mogućnosti slanja">
+<!ENTITY sendMail.title               "Oblikovanje teksta">
+<!ENTITY sendMaildesc.label           "Ako prilikom slanja poruka u HTML formatu jedan ili više primatelja nisu označeni da mogu primati HTML poruke:">
+<!ENTITY askMe.label                  "Pitaj me što želim uraditi">
+<!ENTITY askMe.accesskey              "i">
+<!ENTITY convertPlain.label           "Pretvori poruku u običan tekst">
+<!ENTITY convertPlain.accesskey       "r">
+<!ENTITY sendHTML.label               "Svakako pošalji HTML poruku">
 <!ENTITY sendHTML.accesskey           "S">
-<!ENTITY sendBoth.label               "Send the message in both plain text and HTML">
-<!ENTITY sendBoth.accesskey           "e">
-<!ENTITY override.label               "Note: Use the Address Book to specify preferred text formats for recipients.">
+<!ENTITY sendBoth.label               "Pošalji poruku kao običan tekst i HTML">
+<!ENTITY sendBoth.accesskey           "a">
+<!ENTITY override.label               "Napomena: Koristite adresar kako bi odredili željeni format teksta za primatelje.">
 
-<!ENTITY domaindesc.label             "When you send a message to an address with one of the domain names listed below, &brandShortName; automatically sends the message in the correct format.">
-<!ENTITY HTMLTab.label                "HTML Domains">
+<!ENTITY domaindesc.label             "Kada šaljete poruku na adresu e-pošte koja sadržava jednu od niže navedenih domena, &brandShortName; automatski šalje poruku u ispravnom formatu.">
+<!ENTITY HTMLTab.label                "HTML domene">
 <!ENTITY HTMLTab.accesskey            "H">
-<!ENTITY PlainTextTab.label           "Plain Text Domains">
-<!ENTITY PlainTextTab.accesskey       "P">
-<!ENTITY AddHtmlDomain.label          "Add…">
-<!ENTITY AddHtmlDomain.accesskey      "A">
-<!ENTITY AddPlainText.label           "Add…">
-<!ENTITY AddPlainText.accesskey       "A">
-<!ENTITY DeleteHtmlDomain.label       "Delete">
-<!ENTITY DeleteHtmlDomain.accesskey   "D">
-<!ENTITY DeletePlainText.label        "Delete">
-<!ENTITY DeletePlainText.accesskey    "D">
+<!ENTITY PlainTextTab.label           "Obični tekst domene">
+<!ENTITY PlainTextTab.accesskey       "b">
+<!ENTITY AddHtmlDomain.label          "Dodaj…">
+<!ENTITY AddHtmlDomain.accesskey      "D">
+<!ENTITY AddPlainText.label           "Dodaj…">
+<!ENTITY AddPlainText.accesskey       "D">
+<!ENTITY DeleteHtmlDomain.label       "Obriši">
+<!ENTITY DeleteHtmlDomain.accesskey   "O">
+<!ENTITY DeletePlainText.label        "Obriši">
+<!ENTITY DeletePlainText.accesskey    "O">
 
-<!ENTITY add.htmltitle                "Add HTML Domain Name">
-<!ENTITY add.htmldomain               "HTML Domain Name:">
-<!ENTITY add.plaintexttitle           "Add Plain Text Domain Name">
-<!ENTITY add.plaintextdomain          "Plain Text Domain Name:">
+<!ENTITY add.htmltitle                "Dodaj HTML domenu">
+<!ENTITY add.htmldomain               "Naziv HTML domene:">
+<!ENTITY add.plaintexttitle           "Dodaj običan tekst domenu">
+<!ENTITY add.plaintextdomain          "Naziv običan tekst domene:">
