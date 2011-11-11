@@ -1,4 +1,4 @@
-<!ENTITY messengerWindow.title "&brandFullName;">
+<!ENTITY messengerWindow.title "Nachrichten &amp; Newsgruppen">
 <!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
@@ -21,10 +21,12 @@
 <!ENTITY moveToNewWindow.accesskey "n">
 <!ENTITY newVirtualFolderCmd.label "Virtueller Ordner…">
 <!ENTITY newVirtualFolderCmd.accesskey "V">
-<!ENTITY newOtherAccountsCmd.label "Anderes Konto…">
+<!ENTITY newOtherAccountsCmd.label "Andere Konten…">
 <!ENTITY newOtherAccountsCmd.accesskey "o">
-<!ENTITY newEmailAccountCmd.label "E-Mail-Konto…">
-<!ENTITY newEmailAccountCmd.accesskey "E">
+<!ENTITY newCreateEmailAccountCmd.label "Neue E-Mail-Adresse erhalten…">
+<!ENTITY newCreateEmailAccountCmd.accesskey "E">
+<!ENTITY newExistingEmailAccountCmd.label "Existierendes E-Mail-Konto…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "x">
 <!ENTITY openMessageFileCmd.label "Datei öffnen…">
 <!ENTITY openMessageFileCmd.accesskey "ö">
 <!ENTITY openAttachmentCmd.label "Anhänge">
@@ -136,6 +138,8 @@
 <!ENTITY messagePaneWide.accesskey "B">
 <!ENTITY messagePaneVertical.label "3-Spalten-Ansicht">
 <!ENTITY messagePaneVertical.accesskey "S">
+<!ENTITY showFolderPaneCmd.label "Konten-/Ordnerliste">
+<!ENTITY showFolderPaneCmd.accesskey "O">
 <!ENTITY showMessageCmd.label "Nachrichtenbereich">
 <!ENTITY showMessageCmd.accesskey "c">
 

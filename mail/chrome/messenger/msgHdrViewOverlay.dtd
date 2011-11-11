@@ -117,6 +117,8 @@
 <!ENTITY deleteAllAttachmentsCmd.label "Alle löschen">
 <!ENTITY deleteAllAttachmentsCmd.accesskey "c">
 
+<!ENTITY openAttachment.tooltip "Angehängte Datei öffnen">
+
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Speichern">
 <!ENTITY saveAttachmentButton1.tooltip     "Angehängte Datei speichern">

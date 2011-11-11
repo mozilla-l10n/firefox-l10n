@@ -9,9 +9,9 @@
 <!ENTITY accountTypeTitle.label "Neues Konto einrichten">
 <!ENTITY accountTypeDesc2.label "Dieser Assistent sammelt Informationen, die notwendig sind, um ein neues Konto einzurichten. Wenn Sie die abgefragten Daten nicht kennen, kontaktieren Sie bitte Ihren Systemadministrator oder Internet-Service-Provider.">
 <!ENTITY accountTypeDirections.label "Wählen Sie den Konten-Typ, den Sie einrichten wollen:">
-<!ENTITY accountTypeMail.label "E-Mail-Konto">
+<!ENTITY accountTypeMail.label "E-Mail">
 <!ENTITY accountTypeMail.accesskey "E">
-<!ENTITY accountTypeNews.label "Newsgruppen-Konto">
+<!ENTITY accountTypeNews.label "Newsgruppe">
 <!ENTITY accountTypeNews.accesskey "w">
 
 <!-- Entities for Identity page -->
