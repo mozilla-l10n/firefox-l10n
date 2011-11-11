@@ -26,7 +26,7 @@
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop3.label                      "POP3">
 <!ENTITY smtp.label                      "SMTP">
-<!ENTITY autodetect.label                "Autodetect">
+<!ENTITY autodetect.label                "Automatisch erkennen">
 <!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
      Transmission of emails in cleartext over the Internet. -->
 <!ENTITY noEncryption.label              "Keine Verbindungssicherheit">
@@ -49,6 +49,8 @@
 <!ENTITY half-manual-test.accesskey      "t">
 <!ENTITY manual-edit.label               "Manuell bearbeiten">
 <!ENTITY manual-edit.accesskey           "M">
+<!ENTITY switch-to-provisioner.label     "Neue E-Mail-Adresse erhalten…">
+<!ENTITY switch-to-provisioner.accesskey "N">
 
 <!ENTITY warning.label                   "Warnung!">
 <!ENTITY incomingSettings.label          "Posteingang-Einstellungen:">
