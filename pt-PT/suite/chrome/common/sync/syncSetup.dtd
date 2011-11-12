@@ -39,13 +39,12 @@
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 
-<!-- New Account Page 2: recovery Key -->
+<!-- New Account Page 2: Recovery Key -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "O &brandShortName; Respeita a Sua Privacidade">
 <!ENTITY setup.newRecoveryKeyPage.description.label "Para assegurar a sua privacidade total, toda a sua informação é cifrada antes de ser enviada. A chave de recuperação necessária para decifrar a informação não é enviada.">
-<!ENTITY recoveryKeyEntry.label        "A Sua Chave Sync">
+<!ENTITY recoveryKeyEntry.label        "A Sua Chave de recuperação">
 <!ENTITY recoveryKeyEntry.accesskey    "C">
-<!ENTITY recoveryKeyGenerate.label     "Gerar">
-<!ENTITY recoveryKeyGenerate.accesskey "G">
+<!ENTITY recoveryGenerateNewKey.label  "Criar uma nova chave">
 <!ENTITY recoveryKeyBackup.description "A sua chave de recuperação é necessária para aceder ao &syncBrand.fullName.label; noutras máquinas. Por favor crie uma cópia de segurança. Não podemos ajudá-lo a recuperar a sua chave de recuperação.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Imprimir...">
