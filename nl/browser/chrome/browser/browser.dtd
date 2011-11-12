@@ -90,6 +90,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "W">
 <!ENTITY fullScreenExit.label "Volledigschermmodus verlaten">
 <!ENTITY fullScreenExit.accesskey "d">
+<!ENTITY domFullScreenWarning.label "Druk op ESC om volledigschermmodus te verlaten">
 
 <!ENTITY closeWindow.label "Venster sluiten">
 <!ENTITY closeWindow.accesskey "e">
