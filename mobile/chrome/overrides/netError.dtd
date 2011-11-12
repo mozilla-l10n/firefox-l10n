@@ -49,6 +49,9 @@
 <!ENTITY netInterrupt.title "A ligação foi interrompida">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
+<!ENTITY notCached.title "Documento expirado">
+<!ENTITY notCached.longDesc "<p>O documento solicitado não está disponível na cache do &brandShortName;.</p><ul><li>Como medida de segurança, o &brandShortName; não volta a pedir automaticamente documentos sensíveis.</li><li>Clique tentar novamente para voltar a pedir o documento do sítio web.</li></ul>">
+
 <!ENTITY netOffline.title "Modo desligado">
 <!ENTITY netOffline.longDesc2 "
 <ul>
