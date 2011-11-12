@@ -68,3 +68,11 @@
 <!-- Edit menu items -->
 <!ENTITY publishSettings.label "Publiceringsinställningar…">
 <!ENTITY publishSettings.accesskey "P">
+
+<!-- Toolbar buttons/items -->
+<!ENTITY newToolbarCmd.label "Ny">
+<!ENTITY newToolbarCmd.tooltip "Skapa en ny sida i Composer">
+<!ENTITY openToolbarCmd.label "Öppna">
+<!ENTITY openToolbarCmd.tooltip "Öppna en lokal fil">
+<!ENTITY saveToolbarCmd.tooltip "Spara filen lokalt">
+<!ENTITY publishToolbarCmd.tooltip "Publicera fil">
