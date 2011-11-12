@@ -368,6 +368,8 @@
 <!ENTITY tagMenu.accesskey "q">
 <!ENTITY tagCustomize.label "Personalizar...">
 <!ENTITY tagCustomize.accesskey "z">
+<!ENTITY markMenu.label "Marcar">
+<!ENTITY markMenu.accesskey "a">
 <!ENTITY markThreadAsReadCmd.label "Tópico como lido">
 <!ENTITY markThreadAsReadCmd.accesskey "c">
 <!ENTITY markThreadAsReadCmd.key "R">
