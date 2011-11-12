@@ -72,6 +72,9 @@
 <!ENTITY updateHistory.label             "Updategeschiedenis tonen">
 <!ENTITY updateHistory.accesskey         "d">
 
+<!ENTITY useService.label                "Gebruik een achtergrondservice om updates te installeren">
+<!ENTITY useService.accesskey            "a">
+
 <!ENTITY updateOthers.label              "Automatisch update:">
 <!ENTITY enableAddonsUpdate3.label       "Add-ons">
 <!ENTITY enableAddonsUpdate3.accesskey   "o">
