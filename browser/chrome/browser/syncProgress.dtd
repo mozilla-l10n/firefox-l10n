@@ -1,0 +1,11 @@
+<!ENTITY % brandDTD
+    SYSTEM "chrome://branding/locale/brand.dtd">
+    %brandDTD;
+
+<!-- These strings are used in the sync progress upload page -->
+<!ENTITY syncProgress.pageTitle    "Uw eerste Sync">
+<!ENTITY syncProgress.textBlurb    "Uw gegevens worden nu versleuteld en geüpload op de achtergrond. U kunt dit tabblad afsluiten en doorgaan met &brandShortName; te gebruiken.">
+<!ENTITY syncProgress.closeButton  "Sluiten">
+<!ENTITY syncProgress.logoAltText  "&brandShortName;-logo">
+<!ENTITY syncProgress.diffText     "&brandShortName; zal nu automatisch synchroniseren op de achtergrond.  U kunt dit tabblad afsluiten en doorgaan met &brandShortName; te gebruiken.">
+
