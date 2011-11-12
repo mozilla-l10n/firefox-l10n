@@ -326,12 +326,6 @@
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Nabídka">
 <!ENTITY formatToolbar.tooltip "Lišta úprav">
-<!ENTITY newToolbarCmd.label "Nová">
-<!ENTITY newToolbarCmd.tooltip "Vytvoří novou stránku">
-<!ENTITY openToolbarCmd.label "Otevřít">
-<!ENTITY openToolbarCmd.tooltip "Otevře uložený soubor">
-<!ENTITY saveToolbarCmd.tooltip "Uloží stránku do souboru">
-<!ENTITY publishToolbarCmd.tooltip "Umístí soubor na vzdálený server">
 <!ENTITY cutToolbarCmd.tooltip "Vyjme">
 <!ENTITY copyToolbarCmd.tooltip "Zkopíruje">
 <!ENTITY pasteToolbarCmd.tooltip "Vloží">
