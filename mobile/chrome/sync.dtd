@@ -3,7 +3,6 @@
 <!ENTITY sync.connect               "Verbinden">
 <!ENTITY sync.connected             "Verbonden">
 <!ENTITY sync.details               "Details">
-<!ENTITY sync.synchronize           "Sync inschakelen">
 <!ENTITY sync.deviceName            "Dit apparaat">
 <!ENTITY sync.disconnect            "Verbinding verbreken">
 <!ENTITY sync.syncNow               "Nu synchroniseren">
@@ -14,7 +13,7 @@
 <!ENTITY sync.setup.manual          "Voer uw Sync-accountgegevens in">
 <!ENTITY sync.account               "Accountnaam">
 <!ENTITY sync.password              "Wachtwoord">
-<!ENTITY sync.syncKey               "Sync-sleutel">
+<!ENTITY sync.recoveryKey           "Herstelsleutel">
 <!ENTITY sync.customServer          "Eigen server gebruiken">
 <!ENTITY sync.serverURL             "Server-URL">
 <!ENTITY sync.setup.connect         "Verbinden">

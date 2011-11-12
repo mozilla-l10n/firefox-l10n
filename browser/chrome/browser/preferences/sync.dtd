@@ -13,9 +13,9 @@
 <!ENTITY manageAccount.label          "Account beheren">
 <!ENTITY manageAccount.accesskey      "A">
 <!ENTITY viewQuota.label              "Quota bekijken">
-<!ENTITY changePassword2.label         "Wachtwoord wijzigen…">
-<!ENTITY mySyncKey.label              "Mijn Sync-sleutel">
-<!ENTITY resetSync2.label              "Sync herinitialiseren…">
+<!ENTITY changePassword2.label        "Wachtwoord wijzigen…">
+<!ENTITY myRecoveryKey.label          "Mijn herstelsleutel">
+<!ENTITY resetSync2.label             "Sync herinitialiseren…">
 
 <!ENTITY addDevice.label              "Een apparaat toevoegen">
 

@@ -13,8 +13,8 @@
 <!ENTITY useCurrentPage.label      "Huidige pagina gebruiken">
 <!ENTITY useCurrentPage.accesskey  "u">
 <!ENTITY useMultiple.label         "Huidige pagina’s gebruiken">
-<!ENTITY useBookmark.label         "Bladwijzer gebruiken">
-<!ENTITY useBookmark.accesskey     "B">
+<!ENTITY chooseBookmark.label      "Bladwijzer gebruiken…">
+<!ENTITY chooseBookmark.accesskey  "B">
 <!ENTITY restoreDefault.label      "Standaard herstellen">
 <!ENTITY restoreDefault.accesskey  "S">
 

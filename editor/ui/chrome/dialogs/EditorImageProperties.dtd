@@ -101,6 +101,9 @@
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "Rand om gekoppelde afbeelding weergeven">
 <!ENTITY showImageLinkBorder.accessKey "R">
+<!ENTITY LinkAdvancedEditButton.label "Koppel geavanceerd bewerken…">
+<!ENTITY LinkAdvancedEditButton.accessKey "K">
+<!ENTITY LinkAdvancedEditButton.tooltip "HTML-attributen, stijlkenmerken en JavaScript toevoegen of aanpassen">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "Formulier">

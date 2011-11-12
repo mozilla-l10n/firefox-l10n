@@ -19,8 +19,8 @@
 <!ENTITY signIn.account2.accesskey  "A">
 <!ENTITY signIn.password.label      "Wachtwoord">
 <!ENTITY signIn.password.accesskey  "W">
-<!ENTITY signIn.syncKey.label       "Sync-sleutel">
-<!ENTITY signIn.syncKey.accesskey   "S">
+<!ENTITY signIn.recoveryKey.label       "Herstelsleutel">
+<!ENTITY signIn.recoveryKey.accesskey   "H">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Accountdetails">
@@ -41,12 +41,12 @@
 <!ENTITY setup.tosAgree2.accesskey  "">
 
 <!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; denkt aan uw privacy">
-<!ENTITY setup.newSyncKeyPage.description.label "Om uw totale privacy te waarborgen worden al uw gegevens voor het uploaden versleuteld. De Sync-sleutel, die nodig is om uw gegevens te ontcijferen, wordt niet geüpload.">
-<!ENTITY syncKeyEntry.label        "Uw Sync-sleutel">
-<!ENTITY syncKeyEntry.accesskey    "s">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; denkt aan uw privacy">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Om uw totale privacy te waarborgen worden al uw gegevens voor het uploaden versleuteld. De herstelsleutel, die nodig is om uw gegevens te ontcijferen, wordt niet geüpload.">
+<!ENTITY recoveryKeyEntry.label        "Uw herstelsleutel">
+<!ENTITY recoveryKeyEntry.accesskey    "h">
 <!ENTITY syncGenerateNewKey.label  "Nieuwe sleutel genereren">
-<!ENTITY syncKeyBackup.description "Uw Sync-sleutel is vereist voor de toegang van &syncBrand.fullName.label; op andere machines. Maak een reservekopie. We kunnen uw Sync-sleutel niet herstellen.">
+<!ENTITY recoveryKeyBackup.description "Uw herstelsleutel is vereist voor de toegang van &syncBrand.fullName.label; op andere machines. Maak een reservekopie. We kunnen uw herstelsleutel niet herstellen.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Afdrukken…">
 <!ENTITY button.syncKeyBackup.print.accesskey "A">
@@ -65,12 +65,12 @@
 <!ENTITY addDevice.dialog.enterCode.label   "Voer de code in die het apparaat geeft:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Probeer het opnieuw.">
 <!ENTITY addDevice.dialog.successful.label  "Het apparaat is met succes toegevoegd. De eerste synchronisatie kan meerdere minuten duren en zal op de achtergrond worden voltooid.">
-<!ENTITY addDevice.dialog.syncKey.label     "Om uw apparaat te activeren dient u uw Sync-sleutel in te voeren. Druk deze sleutel af of sla hem op, en neem hem met u mee.">
+<!ENTITY addDevice.dialog.recoveryKey.label     "Om uw apparaat te activeren dient u uw herstelsleutel in te voeren. Druk deze sleutel af of sla hem op, en neem hem met u mee.">
 <!ENTITY addDevice.dialog.connected.label   "Apparaat verbonden">
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Aanmelden">
-<!ENTITY existingSyncKey.description "U kunt een kopie van uw Sync-sleutel verkrijgen door naar Opties van &syncBrand.shortName.label; op uw andere apparaat te gaan en “Mijn Sync-sleutel” onder “Account beheren” te selecteren.">
+<!ENTITY existingRecoveryKey.description "U kunt een kopie van uw herstelsleutel verkrijgen door naar Opties van &syncBrand.shortName.label; op uw andere apparaat te gaan en “Mijn herstelsleutel” onder “Account beheren” te selecteren.">
 <!ENTITY verifying.label              "Verifiëren…">
 <!ENTITY resetPassword.label          "Wachtwoord herinitialiseren">
 <!ENTITY resetSyncKey.label           "Ik ben mijn andere apparaat kwijt.">
