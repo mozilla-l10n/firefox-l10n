@@ -57,8 +57,10 @@
 <!ENTITY newVirtualFolderCmd.accesskey "s">
 <!ENTITY newOtherAccountsCmd.label "Annat konto…">
 <!ENTITY newOtherAccountsCmd.accesskey "k">
-<!ENTITY newEmailAccountCmd.label "Nytt e-postkonto…">
-<!ENTITY newEmailAccountCmd.accesskey "e">
+<!ENTITY newCreateEmailAccountCmd.label "Skapa ett nytt e-postkonto…">
+<!ENTITY newCreateEmailAccountCmd.accesskey "S">
+<!ENTITY newExistingEmailAccountCmd.label "Existerande e-postkonto…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "E">
 <!ENTITY openMessageFileCmd.label "Öppna sparat meddelande…">
 <!ENTITY openMessageFileCmd.accesskey "s">
 <!ENTITY openAttachmentCmd.label "Bilagor">
