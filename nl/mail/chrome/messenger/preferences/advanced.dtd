@@ -6,6 +6,9 @@
 
 <!-- General Settings -->
 
+<!ENTITY submitTelemetry.label         "Prestatiegegevens verzenden">
+<!ENTITY submitTelemetry.accesskey     "P">
+<!ENTITY telemetryInfoLink.label       "Meer informatie over Telemetry">
 <!ENTITY enableGlodaSearch.label       "Globaal zoeken en indexer activeren">
 <!ENTITY enableGlodaSearch.accesskey   "G">
 <!ENTITY systemIntegration.label       "Systeemintegratie">
