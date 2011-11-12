@@ -280,12 +280,6 @@
 <!ENTITY tableProperties.accesskey "P">
 <!ENTITY menuBar.tooltip "Barra del menu">
 <!ENTITY formatToolbar.tooltip "Barra di formattazione">
-<!ENTITY newToolbarCmd.label "Nuovo">
-<!ENTITY newToolbarCmd.tooltip "Crea una nuova pagina con Composer">
-<!ENTITY openToolbarCmd.label "Apri">
-<!ENTITY openToolbarCmd.tooltip "Carica una pagina locale">
-<!ENTITY saveToolbarCmd.tooltip "Salva la pagina localmente">
-<!ENTITY publishToolbarCmd.tooltip "Memorizza i file presso un indirizzo remoto">
 <!ENTITY cutToolbarCmd.tooltip "Taglia">
 <!ENTITY copyToolbarCmd.tooltip "Copia">
 <!ENTITY pasteToolbarCmd.tooltip "Incolla">

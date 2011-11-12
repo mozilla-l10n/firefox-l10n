@@ -65,3 +65,9 @@
 <!ENTITY fileRevert.accesskey "T">
 <!ENTITY publishSettings.label "Impostazioni pubblicazione…">
 <!ENTITY publishSettings.accesskey "m">
+<!ENTITY newToolbarCmd.label "Nuovo">
+<!ENTITY newToolbarCmd.tooltip "Crea una nuova pagina con Composer">
+<!ENTITY openToolbarCmd.label "Apri">
+<!ENTITY openToolbarCmd.tooltip "Carica una pagina locale">
+<!ENTITY saveToolbarCmd.tooltip "Salva la pagina localmente">
+<!ENTITY publishToolbarCmd.tooltip "Memorizza i file presso un indirizzo remoto">
