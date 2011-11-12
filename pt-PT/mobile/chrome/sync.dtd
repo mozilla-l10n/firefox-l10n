@@ -19,4 +19,9 @@
 <!ENTITY sync.setup.connect         "Ligar">
 <!ENTITY sync.setup.cancel          "Cancelar">
 <!ENTITY sync.setup.tutorial          "Ver como fazer">
-<!ENTITY sync.setup.waiting         "Emparelhamento em curso…">
+<!ENTITY sync.setup.waiting2         "A esperar pelo ouro dispositivo…">
+
+<!ENTITY sync.pair.title            "Emparelhar um dispositivo">
+<!ENTITY sync.pair.description      "Para ativar o seu novo dispositivo, selecione no dispositivo &#x0022;Configurar Sync&#x0022;.">
+<!ENTITY sync.setup.close           "fechar">
+<!ENTITY sync.setup.waitingdownload "Os seus dados estão agora a ser transferidos em segundo plano. Pode fechar esta janela a qualquer momento.">
