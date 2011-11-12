@@ -14,6 +14,11 @@
   -  This is the link title shown in the hover tooltip. -->
 <!ENTITY helpLinkTitle         "Lees de documentatie voor deze eigenschap">
 
+<!-- LOCALIZATION NOTE (noPropertiesFound): In the case where there are no CSS
+  -  properties to display e.g. due to search criteria this message is
+  -  displayed. -->
+<!ENTITY noPropertiesFound     "Geen CSS-eigenschappen gevonden.">
+
 <!-- LOCALIZATION NOTE (matchedSelectors): For each style property the
   -  panel shows whether there are any selectors that match the currently
   -  selected element. -->
