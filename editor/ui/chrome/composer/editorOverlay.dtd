@@ -43,31 +43,7 @@
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
 <!-- File menu items -->
-<!ENTITY fileMenu.label "Soubor">
-<!ENTITY fileMenu.accesskey "S">
-<!ENTITY openFileCmd.label "Otevřít soubor…">
-<!ENTITY openFileCmd.accesskey "O">
-<!ENTITY openFileCmd.key "O">
-<!ENTITY openRemoteCmd.label "Otevřít adresu…">
-<!ENTITY openRemoteCmd.accesskey "a">
-<!ENTITY openRemoteCmd.key "L">
-<!ENTITY fileRecentMenu.label "Poslední dokumenty">
-<!ENTITY fileRecentMenu.accesskey "d">
-<!ENTITY fileRevert.label "Zpět">
-<!ENTITY fileRevert.accesskey "Z">
-<!ENTITY saveCmd.label "Uložit">
-<!ENTITY saveCmd.accesskey "U">
 <!ENTITY saveCmd.key "S">
-<!ENTITY saveAsCmd.label "Uložit jako…">
-<!ENTITY saveAsCmd.accesskey "l">
-
-<!ENTITY publishCmd.label "Publikovat">
-<!ENTITY publishCmd.accesskey "P">
-<!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "Publikovat jako…">
-<!ENTITY publishAsCmd.accesskey "i">
-<!ENTITY saveAsChangeEncodingCmd.label "Uložit ve znakové sadě">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "v">
 
 <!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Vložit bez formátování">
