@@ -120,8 +120,12 @@
 <!ENTITY showTaskbarCmd.accesskey                       "S"> 
 <!ENTITY customizeToolbar.label                         "Anpassa…">
 <!ENTITY customizeToolbar.accesskey                     "A">
-<!ENTITY showContactPane.label                          "Kontaktsammanfattning">
-<!ENTITY showContactPane.accesskey                      "K">
+<!ENTITY layoutMenu.label                               "Layout">
+<!ENTITY layoutMenu.accesskey                           "L">
+<!ENTITY showDirectoryPane.label                        "Katalogfältet">
+<!ENTITY showDirectoryPane.accesskey                    "K">
+<!ENTITY showContactPane2.label                         "Kontaktfältet">
+<!ENTITY showContactPane2.accesskey                     "K">
 <!ENTITY menu_ShowNameAs.label                          "Visa namn så här"> 
 <!ENTITY menu_ShowNameAs.accesskey                      "n"> 
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
