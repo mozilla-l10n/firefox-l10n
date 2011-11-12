@@ -87,8 +87,12 @@
 <!ENTITY showTaskbarCmd.accesskey "s">
 <!ENTITY customizeToolbar.label "Personalizar…">
 <!ENTITY customizeToolbar.accesskey "P">
-<!ENTITY showContactPane.label                          "Vista de resumen de contactos">
-<!ENTITY showContactPane.accesskey                      "C">
+<!ENTITY layoutMenu.label                               "Disposición">
+<!ENTITY layoutMenu.accesskey                           "D">
+<!ENTITY showDirectoryPane.label                        "Vista de guía">
+<!ENTITY showDirectoryPane.accesskey                    "V">
+<!ENTITY showContactPane2.label                         "Vista de contactos">
+<!ENTITY showContactPane2.accesskey                     "c">
 <!ENTITY menu_ShowNameAs.label "Mostrar nombre como">
 <!ENTITY menu_ShowNameAs.accesskey "n">
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
