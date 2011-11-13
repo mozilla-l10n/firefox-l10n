@@ -49,6 +49,8 @@
 <!ENTITY half-manual-test.accesskey "Z">
 <!ENTITY manual-edit.label "Ruční nastavení">
 <!ENTITY manual-edit.accesskey "u">
+<!ENTITY switch-to-provisioner.label "Získat nový účet">
+<!ENTITY switch-to-provisioner.accesskey "n">
 
 
 <!ENTITY warning.label "Upozornění!">
