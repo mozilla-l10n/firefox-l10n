@@ -36,6 +36,30 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
+<!-- File menu items -->
+<!ENTITY openFileCmd.label "Open File…">
+<!ENTITY openFileCmd.label "Bestand openen…">
+<!ENTITY openFileCmd.accesskey "o">
+<!ENTITY openFileCmd.key "o">
+<!ENTITY openRemoteCmd.label "Weblocatie openen…">
+<!ENTITY openRemoteCmd.accesskey "l">
+<!ENTITY openRemoteCmd.key "l">
+<!ENTITY fileRecentMenu.label "Recente pagina’s">
+<!ENTITY fileRecentMenu.accesskey "R">
+<!ENTITY saveCmd.label "Opslaan">
+<!ENTITY saveCmd.accesskey "p">
+<!ENTITY saveAsCmd.label "Opslaan als…">
+<!ENTITY saveAsCmd.accesskey "s">
+<!ENTITY saveAsChangeEncodingCmd.label "Save And Change Character Encoding">
+<!ENTITY saveAsChangeEncodingCmd.accesskey "E">
+<!ENTITY publishCmd.label "Publiceren">
+<!ENTITY publishCmd.accesskey "u">
+<!ENTITY publishCmd.key "S">
+<!ENTITY publishAsCmd.label "Publiceren als…">
+<!ENTITY publishAsCmd.accesskey "c">">
+<!ENTITY fileRevert.label "Ongedaan maken">
+<!ENTITY fileRevert.accesskey "m">
+
 <!-- Edit menu items -->
 <!ENTITY publishSettings.label "Publicatiewebsite-instellingen…">
 <!ENTITY publishSettings.accesskey "b">
