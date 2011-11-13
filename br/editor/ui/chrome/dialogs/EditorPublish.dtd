@@ -59,7 +59,7 @@
 <!ENTITY sameLocationRadio.tooltip    "Embann ar restroù er memes lec'hiadur hag ar bajenn">
 <!ENTITY useSubdirRadio.label         "Implijout iskavlec'h-mañ al lec'hienn:">
 <!ENTITY useSubdirRadio.accesskey     "m">
-<!ENTITY useSubdirRadio.tooltip       "Embann ar restroù er iskavlec'h a-bell diuzet">
+<!ENTITY useSubdirRadio.tooltip       "Embann ar restroù en iskavlec'h a-bell diuzet">
 <!ENTITY otherDirList.tooltip         "Dibabit pe bizskrivit anv ar c'havlec'h a-bell da belec'h e vo brudet ar restroù">
 <!ENTITY pageTitle.label              "Titl ar bajenn:">
 <!ENTITY pageTitle.accesskey          "T">

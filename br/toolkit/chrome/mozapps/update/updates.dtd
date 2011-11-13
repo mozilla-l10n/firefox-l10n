@@ -9,7 +9,7 @@
 
 <!ENTITY  noupdatesfound.title            "Hizivadur ebet bet kavet">
 <!ENTITY  noupdatesautoenabled.intro      "N'eus hizivadur ebet hegerz. Gallout a ra &brandShortName; gwiriañ ur wech an amzer mard ez eus hizivadurioù hegerz.">
-<!ENTITY  noupdatesautodisabled.intro     "N'eus hizivadur ebet hegerz. Gwiriit en-dro diwezhatoc'h pe gweredekit gwiriadur emgefreek an hizivadurioù evit &brandShortName; .">
+<!ENTITY  noupdatesautodisabled.intro     "N'eus hizivadur ebet hegerz. Gwiriit en-dro diwezhatoc'h pe gweredekit gwiriadur emgefreek an hizivadurioù evit &brandShortName;.">
 
 <!ENTITY  manualUpdate.title              "N'eo ket c'hallus da hizivaat">
 <!ENTITY  manualUpdate.desc               "Un hizivadur erbedet zo hegerz, met n'hoc'h eus ket an aotreoù da staliañ anezhañ. Klaskit en-dro gant un arveriad aotreet pe kit e darempred gant hoc'h ardoer">
@@ -25,13 +25,13 @@
 <!ENTITY  evangelism.desc                 "Aliet groñs eo deoc'h seveniñ an 
                                            hizivadur-mañ evit &brandShortName; an abretañ ar gwellañ.">
 
-<!ENTITY  license.instructions            "M'asantit da termennoù an emglev lañvaz-mañ, klikit war A-du emaon a-is evit kenderc'hel gant staliañ an hizivadur-mañ.">
+<!ENTITY  license.instructions            "M'asantit da dermenoù an emglev lañvaz-mañ, klikit war A-du emaon a-is evit kenderc'hel gant staliañ an hizivadur-mañ.">
 
 <!ENTITY  license.titleText               "Emglev lañvaz ar meziant">
 <!ENTITY  license.introText               "Termenoù ha divizoù arver ar meziant-mañ.">
 <!ENTITY  license.instructionText         "Trugarez da lenn an emglev lañvaz da-heul. Arverit ar varrenn dibunañ evit gwelout peurrest an emglev.">
-<!ENTITY  license.accept                  "Asantiñ a ran da termenoù an emglev lañvaz">
-<!ENTITY  license.accept.accesskey        "s">
+<!ENTITY  license.accept                  "Asantiñ a ran da dermenoù an emglev lañvaz">
+<!ENTITY  license.accept.accesskey        "A">
 <!ENTITY  license.decline                 "N'asantan ket ouzh termenoù an emglev lañvaz">
 <!ENTITY  license.decline.accesskey       "t">
 

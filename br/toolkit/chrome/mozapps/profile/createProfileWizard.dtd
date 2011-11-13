@@ -10,7 +10,7 @@
 <!ENTITY profileCreationExplanation_4Gnome.text  "Evit krouiñ hoc'h aelad, klikit war War-lerc'h.">
 
 <!-- Second wizard page -->
-<!ENTITY profileCreationIntro.text      "Mar bez krouet meur a aelad ganeoc'h e c'hallot o diforc'hañ dre an anvioù aeladoù. Tu zo deoc'h d'ober gant an anv roet amañ pe arverañ unan e-touez ho re.">
+<!ENTITY profileCreationIntro.text      "Mar bez krouet meur a aelad ganeoc'h e c'hallot o tiforc'hañ dre an anvioù aeladoù. Tu zo deoc'h d'ober gant an anv roet amañ pe arverañ unan e-touez ho re.">
 <!ENTITY profilePrompt.label            "Roit un anv aelad nevez :">
 <!ENTITY profilePrompt.accesskey        "e">
 <!ENTITY profileDirectoryExplanation.text   "Gwaredet e vo hoc'h arventennoù, ho kwellvezioù hag ar roadennoù all o tennañ d'an arveriaded all e :">

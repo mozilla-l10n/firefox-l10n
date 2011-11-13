@@ -79,7 +79,7 @@
 <!ENTITY NormalModeTab.label "Reizh">
 <!ENTITY NormalMode.label "Mod embann reizh">
 <!ENTITY NormalMode.accesskey "n">
-<!ENTITY NormalMode.tooltip "Diskouez riblennoù an taolenn hag an eorioù anvet">
+<!ENTITY NormalMode.tooltip "Diskouez riblennoù an daolenn hag an eorioù anvet">
 <!ENTITY AllTagsModeTab.label "Klavioù HTML">
 <!ENTITY AllTagsMode.label "Klavioù HTML">
 <!ENTITY AllTagsMode.accesskey "H">

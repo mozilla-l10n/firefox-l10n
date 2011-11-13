@@ -191,7 +191,7 @@
 <!ENTITY addon.checkingForUpdates.label       "O wiriañ an hizivadurioù…">
 <!ENTITY addon.releaseNotes.label             "Notennoù handelv :">
 <!ENTITY addon.loadingReleaseNotes.label      "O kargañ…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Digarezit, degouezhet ez eus bet un fazi en ur bellgargañ an notennoù handelv.">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Digarezit, degouezhet ez eus bet ur fazi en ur bellgargañ an notennoù handelv.">
 
 <!ENTITY addon.createdBy.label                "Gant ">
 

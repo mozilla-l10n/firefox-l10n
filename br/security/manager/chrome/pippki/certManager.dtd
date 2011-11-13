@@ -81,7 +81,7 @@
 <!ENTITY certmgr.editsslcert.dotrust          "Bezit gant fiziañs e gwirder an testeni-mañ.">
 <!ENTITY certmgr.editsslcert.donttrust        "Na gaout fiziañs e gwirded eus an testeni-mañ.">
 <!ENTITY certmgr.editemailcert.title          "Embann arventennoù testeni a fiziañs ar posteloù">
-<!ENTITY certmgr.editemailcert.edittrust      "Embann arventennoù ar testenioù a fiziañs :">
+<!ENTITY certmgr.editemailcert.edittrust      "Embann arventennoù testeni a fiziañs">
 <!ENTITY certmgr.editemailcert.dotrust        "Bezit gant fiziañs e gwirder an testeni-mañ.">
 <!ENTITY certmgr.editemailcert.donttrust      "Bezit gant disfiziañs e gwirder an testeni-mañ.">
 

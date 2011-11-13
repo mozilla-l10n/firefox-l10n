@@ -1,7 +1,7 @@
 <!-- The page shown when not logged in... -->
 <!ENTITY setupButton.label          "Kefluniañ &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "K">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; a ro tro deoc'h da haeziñ ho roll istor, ho sinedoù, ho kerioù-tremen hag hoc'h ivinelloù digor dre meur a urzhiataer pe trevnad.">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; a ro tro deoc'h da haeziñ ho roll istor, ho sinedoù, ho kerioù-tremen hag hoc'h ivinelloù digor dre veur a urzhiataer pe trevnad.">
 
 <!-- The page shown when logged in... -->
 

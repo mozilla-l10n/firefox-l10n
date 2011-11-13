@@ -16,8 +16,8 @@
 <!ENTITY  showPublishDialog.label       "Bepred diskwel ar prenestr Brudañ pa vez brudet pajennadoù">
 <!ENTITY  showPublishDialog.accesskey   "d">
 <!ENTITY  composerEditing.label         "Brudañ">
-<!ENTITY  maintainStructure.label       "Gwarezañ tresad an taolenn pa vez enlakaet pe dilamet kelligoù">
-<!ENTITY  maintainStructure.tooltip     "Gwarezañ stumm hirgarrezek an taolenn gant ouzhpennañ kelligoù ent emgefreek goude enlakaat pe dilemel kelligoù">
+<!ENTITY  maintainStructure.label       "Gwarezañ tresad an daolenn pa vez enlakaet pe dilamet kelligoù">
+<!ENTITY  maintainStructure.tooltip     "Gwarezañ stumm hirgarrezek an daolenn gant ouzhpennañ kelligoù ent emgefreek goude enlakaat pe dilemel kelligoù">
 <!ENTITY  maintainStructure.accesskey   "t">
 <!ENTITY  useCSS.label                  "Implijout stiloù CSS e-lec'h elfennoù HTML ha doarennoù">
 <!ENTITY  useCSS.accesskey              "I">

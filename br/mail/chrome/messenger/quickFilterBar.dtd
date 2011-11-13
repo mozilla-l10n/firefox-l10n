@@ -125,7 +125,7 @@
      are no messages matching the filter.
      -->
 <!ENTITY quickFilterBar.resultsLabel.none
-         "Disoc'hoù ebet">
+         "Disoc'h ebet">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.minWidth):
      The minimum width, in pixels, of the results label.  Please size this
