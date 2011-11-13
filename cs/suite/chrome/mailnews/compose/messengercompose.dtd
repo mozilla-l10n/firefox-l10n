@@ -41,7 +41,6 @@
 <!ENTITY editRewrapCmd.label "Zalomit">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "l">
-<!ENTITY findCmd.label "Najít/nahradit…">
 <!ENTITY accountManagerCmd.label "Nastavení účtu…">
 <!ENTITY accountManagerCmd.accesskey "t">
 
@@ -64,11 +63,6 @@
 <!ENTITY selectAddressCmd.label "Vybrat adresy…">
 <!ENTITY selectAddressCmd.key "">
 <!ENTITY selectAddressCmd.accesskey "V">
-
-<!ENTITY checkSpellingCmd2.label "Kontrola pravopisu…">
-<!ENTITY checkSpellingCmd2.accesskey "p">
-<!ENTITY enableInlineSpellChecker.label "Automatická kontrola pravopisu">
-<!ENTITY enableInlineSpellChecker.accesskey "A">
 
 <!ENTITY priorityMenu.label "Priorita">
 <!ENTITY priorityMenu.accesskey "p">
