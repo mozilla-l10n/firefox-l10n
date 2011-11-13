@@ -20,11 +20,11 @@
 <!ENTITY moveToNewWindow.label "Perkelti į naują langą">
 <!ENTITY moveToNewWindow.accesskey "l">
 <!ENTITY newVirtualFolderCmd.label "Paieška įrašant radinius…">
-<!ENTITY newVirtualFolderCmd.accesskey "e">
+<!ENTITY newVirtualFolderCmd.accesskey "P">
 <!ENTITY newOtherAccountsCmd.label "Kita paskyra…">
 <!ENTITY newOtherAccountsCmd.accesskey "K">
 <!ENTITY newCreateEmailAccountCmd.label "Kurti naują el. pašto paskyrą…">
-<!ENTITY newCreateEmailAccountCmd.accesskey "n">
+<!ENTITY newCreateEmailAccountCmd.accesskey "e">
 <!ENTITY newExistingEmailAccountCmd.label "Registruoti turimą el. pašto paskyrą…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "R">
 <!ENTITY openMessageFileCmd.label "Atverti įrašytą laišką…">
