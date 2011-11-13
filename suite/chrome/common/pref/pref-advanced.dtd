@@ -9,3 +9,7 @@
 <!ENTITY prefCheckDefault.caption "Nastavení systému">
 <!ENTITY prefCheckDefaultClient.label "Při startu kontrolovat nastavení výchozí aplikace">
 <!ENTITY prefCheckDefaultClient.accesskey "t">
+
+<!ENTITY crashReports.caption "Hlášení o pádech">
+<!ENTITY submitCrashes.label "Odesílat hlášení o pádech">
+<!ENTITY submitCrashes.accesskey "O">
