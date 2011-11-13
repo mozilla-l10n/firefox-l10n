@@ -23,8 +23,10 @@
 <!ENTITY newVirtualFolderCmd.accesskey "U">
 <!ENTITY newOtherAccountsCmd.label "Další účty…">
 <!ENTITY newOtherAccountsCmd.accesskey "D">
-<!ENTITY newEmailAccountCmd.label "Poštovní účet…">
-<!ENTITY newEmailAccountCmd.accesskey "P">
+<!ENTITY newCreateEmailAccountCmd.label "Získat nový poštovní účet…">
+<!ENTITY newCreateEmailAccountCmd.accesskey "Z">
+<!ENTITY newExistingEmailAccountCmd.label "Existující poštovní účet…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "E">
 <!ENTITY openMessageFileCmd.label "Otevřít uloženou zprávu…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Přílohy">
@@ -152,7 +154,7 @@
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Seřadit podle sloupce">
-<!ENTITY sortMenu.accesskey "p">
+<!ENTITY sortMenu.accesskey "p">;
 <!ENTITY sortByDateCmd.label "Datum">
 <!ENTITY sortByDateCmd.accesskey "u">
 <!ENTITY sortByReceivedCmd.label "Doručeno">
