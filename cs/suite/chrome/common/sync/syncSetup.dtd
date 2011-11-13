@@ -44,8 +44,7 @@
 <!ENTITY setup.newRecoveryKeyPage.description.label "Z důvodu zajištění vašeho soukromí jsou všechna vaše data před nahráváním na server zašifrována. Obnovovací klíč potřebný k rozšifrování vašich dat nahrán není.">
 <!ENTITY recoveryKeyEntry.label "Obnovovací klíč">
 <!ENTITY recoveryKeyEntry.accesskey "K">
-<!ENTITY recoveryKeyGenerate.label "Vygenerovat">
-<!ENTITY recoveryKeyGenerate.accesskey "g">
+<!ENTITY recoveryGenerateNewKey.label "Vygenerovat nový klíč">
 <!ENTITY recoveryKeyBackup.description "Obnovovací klíč je vyžadován k přístupu k &syncBrand.fullName.label; z ostatních zařízení. Vytvořte si prosím zálohu, neboť obnovovací klíč není možné obnovit.">
 
 <!ENTITY button.syncKeyBackup.print.label "Tisk…">
