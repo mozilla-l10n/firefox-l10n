@@ -117,6 +117,8 @@
 <!ENTITY deleteAllAttachmentsCmd.label "Smazat vše">
 <!ENTITY deleteAllAttachmentsCmd.accesskey "S">
 
+<!ENTITY openAttachment.tooltip "Otevře přiložený soubor">
+
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label "Uložit">
 <!ENTITY saveAttachmentButton1.tooltip "Uloží soubor přílohy">
