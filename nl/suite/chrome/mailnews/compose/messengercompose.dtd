@@ -41,7 +41,6 @@
 <!ENTITY editRewrapCmd.label "Opnieuw uitlijnen">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey  "l">
-<!ENTITY findCmd.label "Zoeken en vervangen…">
 <!ENTITY accountManagerCmd.label "Accountinstellingen voor E-mail &amp; nieuwsgroepen…">
 <!ENTITY accountManagerCmd.accesskey "c">
 
@@ -64,11 +63,6 @@
 <!ENTITY selectAddressCmd.label "Adressen selecteren…">
 <!ENTITY selectAddressCmd.key "">
 <!ENTITY selectAddressCmd.accesskey "A">
-
-<!ENTITY checkSpellingCmd2.label "Spelling controleren…">
-<!ENTITY checkSpellingCmd2.accesskey "c">
-<!ENTITY enableInlineSpellChecker.label "Spellingcontrole tijdens typen">
-<!ENTITY enableInlineSpellChecker.accesskey "S">
 
 <!ENTITY priorityMenu.label "Prioriteit">
 <!ENTITY priorityMenu.accesskey "P">
