@@ -70,22 +70,18 @@
 <!ENTITY saveAsChangeEncodingCmd.accesskey "k">
 
 <!-- Edit menu items -->
-<!ENTITY editMenu.label "Bewerken">
-<!ENTITY editMenu.accesskey "w">
 <!ENTITY pasteNoFormatting.label "Plakken zonder opmaak">
 <!ENTITY pasteNoFormatting.accesskey "m">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Plakken als">
 <!ENTITY pasteAs.accesskey "P">
-<!ENTITY publishSettings.label "Publicatiewebsite-instellingen…">
-<!ENTITY publishSettings.accesskey "b">
 <!ENTITY pasteAsQuotationCmd.label "Plakken als citaat">
 <!ENTITY pasteAsQuotationCmd.accesskey "c">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Zoeken en vervangen…">
 <!ENTITY enableInlineSpellChecker.label "Spelling controleren tijdens typen">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
-<!ENTITY checkSpellingCmd2.label "Spelling controleren">
+<!ENTITY checkSpellingCmd2.label "Spelling controleren…">
 <!ENTITY checkSpellingCmd2.accesskey "c">
 <!ENTITY checkSpellingCmd2.key "p">
 
