@@ -9,8 +9,8 @@
 <!ENTITY pluginWizard.availablePluginsPage.installerUI       "Stlennoù ouzhpenn a c'hell bezañ azgoulennet gant enlugelladoù zo e-pad ar staliañ.">
 
 <!ENTITY pluginWizard.licensePage.title                      "Lañvaz an enlugelladoù">
-<!ENTITY pluginWizard.licensePage.accept.label               "A-du on.">
-<!ENTITY pluginWizard.licensePage.deny.label                 "N'on ket a-du (ne vo ket staliet an enlugellad)">
+<!ENTITY pluginWizard.licensePage.accept.label               "A-du emaon.">
+<!ENTITY pluginWizard.licensePage.deny.label                 "N'emaon ket a-du (ne vo ket staliet an enlugellad).">
 
 <!ENTITY pluginWizard.installPluginsPage.title               "O staliañ enlugelladoù">
 <!ENTITY pluginWizard.installPluginsPage.description.label   "Emañ &brandShortName; o staliañ an enlugelladoù…">

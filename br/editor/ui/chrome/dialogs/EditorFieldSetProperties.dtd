@@ -34,7 +34,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowTitle.label "Perzhioù an holl maeziennoù">
+<!ENTITY windowTitle.label "Perzhioù an holl vaeziennoù">
 
 <!ENTITY Legend.label "Alc'hwez">
 <!ENTITY Legend.accesskey "A">
@@ -48,5 +48,5 @@
 <!ENTITY AlignCenter.label "Kreiz">
 <!ENTITY AlignRight.label "Dehou">
 
-<!ENTITY RemoveFieldSet.label "Dilemel an holl maeziennoù">
+<!ENTITY RemoveFieldSet.label "Dilemel an holl vaeziennoù">
 <!ENTITY RemoveFieldSet.accesskey "D">

@@ -121,7 +121,7 @@
 <!ENTITY createCertInfo.msg2 "Gortozit mar plij …">
 
 <!-- Form Signing confirmation prompt -->
-<!ENTITY formSigning.title "Azgoulenn an sinañ testenn">
+<!ENTITY formSigning.title "Azgoulenn ar sinañ testenn">
 <!ENTITY formSigning.cert "O sinañ an testeni">
 <!ENTITY formSigning.confirmPassword "Evit kadarnaat ez oc'h a-du da sinañ ar gemennadenn destenn-mañ en ur arverañ ho testeni diuzet, kadarnait dre enankañ ar ger-tremen mestr :">
 

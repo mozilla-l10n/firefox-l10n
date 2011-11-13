@@ -767,7 +767,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- MDN Bar -->
 <!ENTITY mdnBarIgnoreButton2.label "Na zerc'hel kont">
 <!ENTITY mdnBarIgnoreButton2.accesskey "N">
-<!ENTITY mdnBarSendButton2.label "Kas ar gemenn degemer">
+<!ENTITY mdnBarSendButton2.label "Kas ar c'hemenn degemer">
 <!ENTITY mdnBarSendButton2.accesskey "s">
 
 <!-- Quick Search Bar -->
