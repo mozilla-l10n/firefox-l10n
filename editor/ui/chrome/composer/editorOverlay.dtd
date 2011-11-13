@@ -43,31 +43,7 @@
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
 <!-- File menu items -->
-<!ENTITY fileMenu.label "Bestand">
-<!ENTITY fileMenu.accesskey "B">
-<!ENTITY openFileCmd.label "Bestand openen…">
-<!ENTITY openFileCmd.accesskey "o">
-<!ENTITY openFileCmd.key "o">
-<!ENTITY openRemoteCmd.label "Weblocatie openen…">
-<!ENTITY openRemoteCmd.accesskey "l">
-<!ENTITY openRemoteCmd.key "l">
-<!ENTITY fileRecentMenu.label "Recente pagina’s">
-<!ENTITY fileRecentMenu.accesskey "R">
-<!ENTITY fileRevert.label "Terugkeren">
-<!ENTITY fileRevert.accesskey "T">
-<!ENTITY saveCmd.label "Opslaan">
-<!ENTITY saveCmd.accesskey "p">
 <!ENTITY saveCmd.key "s">
-<!ENTITY saveAsCmd.label "Opslaan als…">
-<!ENTITY saveAsCmd.accesskey "s">
-
-<!ENTITY publishCmd.label "Publiceren">
-<!ENTITY publishCmd.accesskey "u">
-<!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "Publiceren als…">
-<!ENTITY publishAsCmd.accesskey "c">
-<!ENTITY saveAsChangeEncodingCmd.label "Opslaan en tekenset wijzigen">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "k">
 
 <!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Plakken zonder opmaak">
