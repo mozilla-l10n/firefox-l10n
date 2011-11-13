@@ -20,3 +20,5 @@
 <!ENTITY sync.setup.cancel          "Annuleren">
 <!ENTITY sync.setup.tutorial        "Tonen hoe">
 <!ENTITY sync.setup.waiting         "Koppelen bezig…">
+<!ENTITY sync.setup.close           "Sluiten">
+<!ENTITY sync.setup.waitingdownload "Uw gegevens worden nu gedownload op de achtergrond. U kunt dit venster op elk gewenst moment sluiten.">
