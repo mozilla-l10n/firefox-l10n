@@ -154,7 +154,7 @@
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Seřadit podle sloupce">
-<!ENTITY sortMenu.accesskey "p">;
+<!ENTITY sortMenu.accesskey "p">
 <!ENTITY sortByDateCmd.label "Datum">
 <!ENTITY sortByDateCmd.accesskey "u">
 <!ENTITY sortByReceivedCmd.label "Doručeno">
