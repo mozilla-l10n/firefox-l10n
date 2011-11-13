@@ -104,6 +104,12 @@
 <!ENTITY mediaHideControls.accesskey "o">
 <!ENTITY videoFullScreen.label "Celá obrazovka">
 <!ENTITY videoFullScreen.accesskey "C">
+<!ENTITY videoSaveImage.label "Uložit snímek jako…">
+<!ENTITY videoSaveImage.accesskey "U">
+<!ENTITY videoShowStats.label "Zobrazit statistiku">
+<!ENTITY videoShowStats.accesskey "s">
+<!ENTITY videoHideStats.label "Skrýt statistiku">
+<!ENTITY videoHideStats.accesskey "s">
 <!ENTITY search.accesskey "W">
 <!ENTITY bidiSwitchPageDirectionItem.label "Přepnout orientaci stránky">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey "o">
