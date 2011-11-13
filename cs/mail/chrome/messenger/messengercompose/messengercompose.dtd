@@ -16,6 +16,7 @@
 <!ENTITY attachMenu.accesskey "t">
 <!ENTITY attachFileCmd.label "Připojit soubor…">
 <!ENTITY attachFileCmd.accesskey "s">
+<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachPageCmd.label "Připojit WWW stránku…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
