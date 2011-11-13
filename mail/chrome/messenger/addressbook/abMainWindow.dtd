@@ -87,8 +87,12 @@
 <!ENTITY showTaskbarCmd.accesskey "t">
 <!ENTITY customizeToolbar.label "Vlastní…">
 <!ENTITY customizeToolbar.accesskey "V">
-<!ENTITY showContactPane.label "Obsah kontaktu">
-<!ENTITY showContactPane.accesskey "O">
+<!ENTITY layoutMenu.label "Rozmístění">
+<!ENTITY layoutMenu.accesskey "R">
+<!ENTITY showDirectoryPane.label "Panel adresáře">
+<!ENTITY showDirectoryPane.accesskey "a">
+<!ENTITY showContactPane2.label "Panel kontaktu">
+<!ENTITY showContactPane2.accesskey "k">
 <!ENTITY menu_ShowNameAs.label "Zobrazit jméno jako">
 <!ENTITY menu_ShowNameAs.accesskey "b">
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
