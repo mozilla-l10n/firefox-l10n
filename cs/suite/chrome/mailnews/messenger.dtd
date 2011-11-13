@@ -368,21 +368,8 @@
 <!ENTITY tagMenu.accesskey "t">
 <!ENTITY tagCustomize.label "Vlastní…">
 <!ENTITY tagCustomize.accesskey "V">
-<!ENTITY tagCmd0.key "0">
-<!ENTITY tagCmd1.key "1">
-<!ENTITY tagCmd2.key "2">
-<!ENTITY tagCmd3.key "3">
-<!ENTITY tagCmd4.key "4">
-<!ENTITY tagCmd5.key "5">
-<!ENTITY tagCmd6.key "6">
-<!ENTITY tagCmd7.key "7">
-<!ENTITY tagCmd8.key "8">
-<!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Označit">
 <!ENTITY markMenu.accesskey "z">
-<!ENTITY markAsReadCmd.label "Přečtené">
-<!ENTITY markAsReadCmd.accesskey "P">
-<!ENTITY markAsReadCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "Přečtené vlákno">
 <!ENTITY markThreadAsReadCmd.accesskey "l">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -392,9 +379,6 @@
 <!ENTITY markAllReadCmd.label "Vše přečtené">
 <!ENTITY markAllReadCmd.accesskey "e">
 <!ENTITY markAllReadCmd.key "c">
-<!ENTITY markFlaggedCmd.label "S praporkem">
-<!ENTITY markFlaggedCmd.accesskey "p">
-<!ENTITY markFlaggedCmd.key "i">
 <!ENTITY markAsJunkCmd.label "Nevyžádané">
 <!ENTITY markAsJunkCmd.accesskey "V">
 <!ENTITY markAsJunkCmd.key "j">
@@ -409,9 +393,6 @@
 <!ENTITY markAsNotPhishCmd.label "Není podvodný">
 <!ENTITY markAsNotPhishCmd.accesskey "P">
 <!ENTITY markAsNotPhishCmd.key "p">
-<!ENTITY openMessageWindowCmd.label "Otevřít zprávu">
-<!ENTITY openMessageWindowCmd.accesskey "V">
-<!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY openFeedMessage.label "Otevřít zprávu kanálu">
 <!ENTITY openFeedMessage.accesskey "O">
 <!ENTITY openFeedWebPageInWindow.label "Webová stránka v novém okně">
