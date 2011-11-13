@@ -20,5 +20,8 @@
 <!ENTITY sync.setup.cancel          "Annuleren">
 <!ENTITY sync.setup.tutorial        "Tonen hoe">
 <!ENTITY sync.setup.waiting         "Koppelen bezig…">
+
+<!ENTITY sync.pair.title            "Een apparaat koppelen">
+<!ENTITY sync.pair.description      "Selecteer om uw nieuwe apparaat te activeren &#x0022;Sync instellen&#x0022; op het apparaat.">
 <!ENTITY sync.setup.close           "Sluiten">
 <!ENTITY sync.setup.waitingdownload "Uw gegevens worden nu gedownload op de achtergrond. U kunt dit venster op elk gewenst moment sluiten.">
