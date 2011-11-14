@@ -126,7 +126,7 @@
 
 <!ENTITY getMoreDevtoolsCmd.label        "Iegūt vairāk rīku">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "r">
-<!ENTITY scratchpad.label             "Teksta redaktors">
+<!ENTITY scratchpad.label             "Javascript smilškaste">
 <!ENTITY scratchpad.accesskey         "e">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
