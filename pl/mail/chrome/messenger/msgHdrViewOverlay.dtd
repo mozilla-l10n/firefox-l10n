@@ -122,6 +122,8 @@
 <!ENTITY deleteAllAttachmentsCmd.label     "Usuń wszystkie…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey "U">
 
+<!ENTITY openAttachment.tooltip "Otwórz załączony plik">
+
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Zapisz">
 <!ENTITY saveAttachmentButton1.tooltip     "Zapisz załącznik">
