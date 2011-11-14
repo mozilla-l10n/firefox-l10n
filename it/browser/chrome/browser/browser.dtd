@@ -157,7 +157,7 @@
 <!ENTITY scratchpad.keycode "VK_F4">
 <!ENTITY scratchpad.keytext "F4">
 <!ENTITY inspectPanelTitle.label "HTML">
-<!ENTITY inspectButton.label "Analisi">
+<!ENTITY inspectButton.label "Analizza">
 <!ENTITY inspectButton.accesskey "A">
 <!ENTITY getMoreDevtoolsCmd.label "Altri strumenti di sviluppo">
 <!ENTITY getMoreDevtoolsCmd.accesskey "A">
