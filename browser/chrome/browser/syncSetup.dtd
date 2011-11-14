@@ -4,12 +4,14 @@
 
 <!ENTITY setup.pickSetupType.description "Καλώς ήλθατε, αν δεν έχετε χρησιμοποιήσει το &syncBrand.fullName.label; στο παρελθόν, θα χρειαστεί να δημιουργήσετε ένα νέο λογαριασμό.">
 <!ENTITY button.createNewAccount.label "Δημιουργία νέου λογαριασμού">
-<!ENTITY setup.haveAccount.label "Έχω ήδη ένα λογαριασμό &syncBrand.fullName.label;.">
+
 <!ENTITY syncGenerateNewKey.label  "Δημιουργία ενός νέου κλειδιού">
 
 <!ENTITY setup.choicePage.title.label     "Έχετε χρησιμοποιήσει το &syncBrand.fullName.label; στο παρελθόν;">
 <!ENTITY setup.choicePage.new.label       "Δεν έχω χρησιμοποιήσει το &syncBrand.shortName.label; ξανά">
 <!ENTITY setup.choicePage.existing.label  "Χρησιμοποιώ ήδη το &syncBrand.shortName.label; σε άλλο υπολογιστή">
+
+<!ENTITY button.haveAccount.label      "Έχω ήδη λογαριασμό">
 
 <!ENTITY setup.signInPage.title.label "Είσοδος">
 
@@ -44,8 +46,7 @@
 <!ENTITY button.syncKeyBackup.save.label      "Αποθήκευση…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "θ">
 
-<!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "Παρακαλώ αποδείξτε ότι δεν είστε ρομπότ ;)">
+
 
 <!-- Existing Account Page 1: Login -->
 
@@ -107,19 +108,19 @@
 
 
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "Προσθήκη συσκευής">
+
 <!ENTITY addDevice.showMeHow.label          "Δείξτε μου τον τρόπο.">
 <!ENTITY addDevice.dontHaveDevice.label     "Δεν έχω την συσκευή μαζί μου">
-<!ENTITY addDevice.setup.description.label  "Για την ενεργοποίηση, πηγαίνετε στο μενού Επιλογές του &syncBrand.shortName.label; της άλλης συσκευής και επιλέξτε &#x0022;Προσθήκη συσκευής&#x0022;.">
+
 <!ENTITY addDevice.setup.enterCode.label    "Έπειτα, εισάγετε αυτόν τον κωδικό:">
-<!ENTITY addDevice.dialog.description.label "Για να ενεργοποιήσετε την νέα σας συσκευή πηγαίνετε στο μενού Επιλογές του &syncBrand.shortName.label; της συσκευής και επιλέξτε &#x0022;Σύνδεση.&#x0022;">
+ συσκευής και επιλέξτε &#x0022;Σύνδεση.&#x0022;">
 <!ENTITY addDevice.dialog.enterCode.label   "Εισάγετε τον κωδικό που παρέχει η συσκευή:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Παρακαλώ προσπαθήστε ξανά.">
 <!ENTITY addDevice.dialog.successful.label  "Η συσκευή προστέθηκε με επιτυχία. Ο αρχικός συγχρονισμός μπορεί να διαρκέσει μερικά λεπτά και υα πραγματοποιηθεί στο παρασκήνιο.">
 
 <!ENTITY addDevice.dialog.connected.label   "Συσκευή συνδεδεμένη">
 
-<!ENTITY button.connect.label    "Σύνδεση">
+
 
 
 
@@ -134,3 +135,8 @@
 <!ENTITY signIn.recoveryKey.label       "Κλειδί ανάκτησης">
 <!ENTITY signIn.recoveryKey.accesskey   "κ">
 
+<!ENTITY pairDevice.dialog.description.label "Για να ενεργοποιήσετε τη νέα συσκευή, επιλέξτε &#x0022;Ρύθμιση Sync&#x0022; στη συσκευή.">
+
+<!ENTITY pairDevice.setup.description.label  "Για την ενεργοποίηση, επιλέξτε &#x0022;Σύνδεση συσκευής&#x0022; στην άλλη σας συσκευή.">
+
+<!ENTITY pairDevice.title.label             "Σύνδεση συσκευής">

@@ -30,9 +30,6 @@
 
 
 
-<!ENTITY askMe.label                     "Ερώτηση για το τι θέλω να κάνω">
-<!ENTITY askMe.accesskey                 "κ">
-
 <!ENTITY updateHistory.label             "Εμφάνιση ιστορικού ενημερώσεων">
 <!ENTITY updateHistory.accesskey         "ρ">
 
@@ -72,16 +69,15 @@
 <!ENTITY viewSecurityDevices.label      "Συσκευές ασφαλείας">
 <!ENTITY viewSecurityDevices.accesskey  "σ">
 
-<!ENTITY enableAppUpdate.label          "Τον &brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "ν">
 
-<!ENTITY autoCheck.label                "Αυτόματος έλεγχος ενημερώσεων για:">
 <!ENTITY whenUpdatesFound.label         "Όταν βρίσκονται ενημερώσεις για τον &brandShortName;">
-<!ENTITY modeAutomatic.label            "Αυτόματη λήψη και εγκατάσταση της ενημέρωσης">
-<!ENTITY modeAutomatic.accesskey        "λ">
+
 <!ENTITY enableSearchUpdate.label       "Μηχανές αναζήτησης">
 <!ENTITY enableSearchUpdate.accesskey   "χ">
 <!ENTITY certSelection.description       "Όταν ένας εξυπηρετητής απαιτεί ένα πιστοποιητικό:">
+
+<!ENTITY enableAddonsUpdate3.label       "Πρόσθετα">
+<!ENTITY enableAddonsUpdate3.accesskey   "θ">
 
 <!ENTITY offlineAppsListRemove.label     "Απομάκρυνση…">
 <!ENTITY offlineAppsListRemove.accesskey "ρ">
@@ -90,8 +86,6 @@
 <!ENTITY checkSpelling.label             "Ορθογραφικός έλεγχος κατά την πληκτρολόγηση">
 <!ENTITY checkSpelling.accesskey         "θ">
 
-<!ENTITY modeAutoAddonWarn.label         "Προειδοποίηση αν αυτό απενεργοποιήσει κάποιο από τα πρόσθετα">
-<!ENTITY modeAutoAddonWarn.accesskey     "δ">
 
 
 <!ENTITY offlineStorage.label            "Αποθήκευση για εργασία χωρίς σύνδεση">
@@ -104,8 +98,7 @@
 <!ENTITY offlineNotifyExceptions.label   "Εξαιρέσεις…">
 <!ENTITY offlineNotifyExceptions.accesskey "ξ">
 
-<!ENTITY enableAddonsUpdate2.label       "Πρόσθετα">
-<!ENTITY enableAddonsUpdate2.accesskey   "θ">
+
 
 <!ENTITY submitCrashes.label             "Υποβολή αναφορών κατάρρευσης">
 <!ENTITY submitCrashes.accesskey         "φ">
@@ -128,5 +121,19 @@
 <!ENTITY clearCacheNow.accesskey         "θ">
 <!ENTITY overrideSmartCacheSize.label    "Παράκαμψη αυτόματης διαχείρισης cache">
 <!ENTITY overrideSmartCacheSize.accesskey "ψ">
+
+<!ENTITY updateApp.label                 "Ενημερώσεις &brandShortName;:">
+<!ENTITY updateAuto.label                "Αυτόματη εγκατάσταση ενημερώσεων (συνιστώμενο: βελτιωμένη ασφάλεια)">
+<!ENTITY updateAuto.accesskey            "Α">
+<!ENTITY updateCheck.label               "Έλεγχος για ενημερώσεις, αλλά με δυνατότητα επιλογής για το αν εγκατασταθούν ή όχι">
+<!ENTITY updateCheck.accesskey           "χ">
+<!ENTITY updateManual.label              "Να μην γίνεται έλεγχος για ενημερώσεις (δεν συστήνεται: επικίνδυνο γα την ασφάλεια)">
+<!ENTITY updateManual.accesskey          "μ">
+<!ENTITY updateAutoAddonWarn.label       "Προειδοποίηση αν αυτό απενεργοποιήσει κάποιο από τα πρόσθετα">
+<!ENTITY updateAutoAddonWarn.accesskey   "δ">
+<!ENTITY updateOthers.label              "Αυτόματη ενημέρωση:">
+
+<!ENTITY useService.label                "Χρήση μιας υπηρεσίας παρασκηνίου για την εγκατάσταση ενημερώσεων">
+<!ENTITY useService.accesskey            "ρ">
 
 

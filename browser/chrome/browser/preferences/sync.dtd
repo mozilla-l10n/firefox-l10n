@@ -13,7 +13,7 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Διαχείριση λογαριασμού">
 <!ENTITY manageAccount.accesskey      "χ">
-
+<!ENTITY pairDevice.label             "Σύνδεση μιας συσκευής">
 
 <!ENTITY changePassword2.label         "Αλλαγή κωδικού…">
 <!ENTITY resetSync2.label              "Επαναφορά Sync…">
@@ -22,7 +22,7 @@
 <!-- Sync Settings -->
 <!ENTITY syncComputerName.label       "Όνομα υπολογιστή:">
 <!ENTITY syncComputerName.accesskey   "υ">
-<!ENTITY addDevice.label              "Προσθήκη συσκευής">
+
 
 
 <!-- Footer stuff -->

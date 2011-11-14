@@ -30,7 +30,7 @@
 <!ENTITY reloadPlugin.middle                                 "Ανανέωση της σελίδας">
 <!ENTITY reloadPlugin.post                                   " για να προσπαθήσετε ξανά.">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.please                                       "Αποστολή αναφοράς κατάρρευσης">
+<!ENTITY report.checkbox                                     "…και να  στείλτε αναφορά κατάρρρευσης">
 <!ENTITY report.submitting                                   "Γίνεται αποστολή αναφοράς…">
 <!ENTITY report.submitted                                    "Η αναφορά κατάρρευσης στάλθηκε.">
 <!ENTITY report.disabled                                     "Η αναφορά καταρρεύσεων απενεργοποιήθηκε.">
@@ -42,3 +42,4 @@
 <!ENTITY managePlugins                                       "Διαχείριση πρόσθετης λειτουργίας…">
 <!ENTITY missingPlugin                                       "Απαιτείται μια πρόσθετη λειτουργία για την προβολή αυτού του περιεχομένου.">
 
+<!ENTITY clickToPlayPlugin                                   "Πατήστε για την ενεργοποίηση της πρόσθετης λειτουργίας.">
