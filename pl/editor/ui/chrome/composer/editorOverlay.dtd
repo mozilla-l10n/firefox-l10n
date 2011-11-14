@@ -214,7 +214,7 @@
 <!ENTITY formatRemoveLinks.key              "K">
 <!ENTITY formatRemoveNamedAnchors.label     "Usuń kotwicę">
 <!ENTITY formatRemoveNamedAnchors.accesskey "U">
-<!ENTITY formatRemoveNamedAnchors.key       "A">
+<!ENTITY formatRemoveNamedAnchors2.key      "R">
 
 <!ENTITY paragraphMenu.label             "Akapit">
 <!ENTITY paragraphMenu.accesskey         "p">

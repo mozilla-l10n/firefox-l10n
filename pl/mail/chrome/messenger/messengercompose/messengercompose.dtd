@@ -16,6 +16,7 @@
 <!ENTITY attachMenu.accesskey    "c">
 <!ENTITY attachFileCmd.label     "Plik…">
 <!ENTITY attachFileCmd.accesskey "l">
+<!ENTITY attachFileCmd.key       "A">
 <!ENTITY attachPageCmd.label     "Stronę WWW…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!ENTITY attachVCardCmd.label        "Wizytówkę">
