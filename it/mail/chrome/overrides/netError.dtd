@@ -37,6 +37,8 @@
 ">
 <!ENTITY netInterrupt.title "La connessione è stata interrotta">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+<!ENTITY notCached.title "Documento scaduto">
+<!ENTITY notCached.longDesc "<p>Il documento richiesto non è disponibile nella cache.</p><ul><li>Come precauzione di sicurezza &brandShortName; non richiede nuovamente documenti sensibili.</li><li>Click su Riprova per richiedere nuovamente il documento dal sito web.</li></ul>">
 <!ENTITY netOffline.title "Non in linea">
 <!ENTITY netOffline.longDesc2 "
 <ul>
@@ -67,7 +69,7 @@
 <!ENTITY proxyConnectFailure.longDesc "<ul>
    <li>Verificare la correttezza delle impostazioni del proxy.</li>
    <li>Contattare l'amministratore di rete per verificare se il server proxy è funzionante.</li></ul>">
-<!ENTITY proxyResolveFailure.title "Server proxy non reperibile">
+<!ENTITY proxyResolveFailure.title "Impossibile stabilire una connessione con il server proxy">
 <!ENTITY proxyResolveFailure.longDesc "<ul>
   <li>Verificare la correttezza delle impostazioni del proxy.</li>
 <li>Verificare se il computer ha una connessione di rete funzionante.</li>

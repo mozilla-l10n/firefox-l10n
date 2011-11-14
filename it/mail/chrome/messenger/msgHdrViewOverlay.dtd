@@ -74,6 +74,7 @@
 <!ENTITY detachAllAttachmentsCmd.accesskey "S">
 <!ENTITY deleteAllAttachmentsCmd.label "Elimina tutti…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey "e">
+<!ENTITY openAttachment.tooltip "Apri il file allegato">
 <!ENTITY saveAttachmentButton1.label "Salva">
 <!ENTITY saveAttachmentButton1.tooltip "Salva il file allegato">
 <!ENTITY saveAllAttachmentsButton1.label "Salva tutto">
