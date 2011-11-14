@@ -20,7 +20,13 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
+   -   Sammy Ford
+   -   Blake Ross
+   -   Ryan Cassin (rcassin@supernova.org)
+   -   Daniel Glazman (glazman@netscape.com)
+   -   Stephen Donner (technutz@netscape.net)
    -   Charles Manske (cmanske@netscape.com)
+   -   Ian Neal (iann_bugzilla@blueyonder.co.uk)
    -   Stefan Plewako <splewako@aviary.pl> (Polish translation)
    -
    - Alternatively, the contents of this file may be used under the terms of
@@ -36,6 +42,30 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
+<!-- File menu items -->
+<!ENTITY openFileCmd.label        "Otwórz plik…">
+<!ENTITY openFileCmd.accesskey    "O">
+<!ENTITY openFileCmd.key          "O">
+<!ENTITY openRemoteCmd.label      "Otwórz adres internetowy…">
+<!ENTITY openRemoteCmd.accesskey  "i">
+<!ENTITY openRemoteCmd.key        "L">
+<!ENTITY fileRecentMenu.label     "Ostatnio edytowane strony">
+<!ENTITY fileRecentMenu.accesskey "r">
+<!ENTITY fileRevert.label         "Przywróć">
+<!ENTITY fileRevert.accesskey     "y">
+<!ENTITY saveCmd.label            "Zapisz">
+<!ENTITY saveCmd.accesskey        "p">
+<!ENTITY saveAsCmd.label          "Zapisz jako…">
+<!ENTITY saveAsCmd.accesskey      "a">
+
+<!ENTITY publishCmd.label                  "Publikuj">
+<!ENTITY publishCmd.accesskey              "b">
+<!ENTITY publishCmd.key                    "S">
+<!ENTITY publishAsCmd.label                "Opublikuj jako…">
+<!ENTITY publishAsCmd.accesskey            "j">
+<!ENTITY saveAsChangeEncodingCmd.label     "Zapisz i zmień kodowanie znaków">
+<!ENTITY saveAsChangeEncodingCmd.accesskey "m">
 
 <!-- Edit menu items -->
 <!ENTITY publishSettings.label     "Ustawienia publikowanej witryny…">

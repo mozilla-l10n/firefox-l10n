@@ -44,34 +44,8 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
-
 <!-- File menu items -->
-<!ENTITY fileMenu.label           "Plik">
-<!ENTITY fileMenu.accesskey       "P">
-<!ENTITY openFileCmd.label        "Otwórz plik…">
-<!ENTITY openFileCmd.accesskey    "O">
-<!ENTITY openFileCmd.key          "O">
-<!ENTITY openRemoteCmd.label      "Otwórz adres internetowy…">
-<!ENTITY openRemoteCmd.accesskey  "i">
-<!ENTITY openRemoteCmd.key        "L">
-<!ENTITY fileRecentMenu.label     "Ostatnio edytowane strony">
-<!ENTITY fileRecentMenu.accesskey "r">
-<!ENTITY fileRevert.label         "Przywróć">
-<!ENTITY fileRevert.accesskey     "y">
-<!ENTITY saveCmd.label            "Zapisz">
-<!ENTITY saveCmd.accesskey        "p">
-<!ENTITY saveCmd.key              "S">
-<!ENTITY saveAsCmd.label          "Zapisz jako…">
-<!ENTITY saveAsCmd.accesskey      "a">
-
-<!ENTITY publishCmd.label                  "Publikuj">
-<!ENTITY publishCmd.accesskey              "b">
-<!ENTITY publishCmd.key                    "S">
-<!ENTITY publishAsCmd.label                "Opublikuj jako…">
-<!ENTITY publishAsCmd.accesskey            "j">
-<!ENTITY saveAsChangeEncodingCmd.label     "Zapisz i zmień kodowanie znaków">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "m">
+<!ENTITY saveCmd.key "S">
 
 <!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label     "Wklej bez formatowania">
