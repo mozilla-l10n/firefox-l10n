@@ -92,6 +92,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "U">
 <!ENTITY fullScreenExit.label "Opuść tryb pełnoekranowy">
 <!ENTITY fullScreenExit.accesskey "O">
+<!ENTITY domFullScreenWarning.label "Naciśnij ESC, by opuścić tryb pełnoekranowy">
 
 <!ENTITY closeWindow.label "Zamknij okno" >
 <!ENTITY closeWindow.accesskey "m">
