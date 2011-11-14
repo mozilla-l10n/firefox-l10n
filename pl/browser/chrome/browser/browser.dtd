@@ -223,9 +223,10 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectPanelTitle.label      "HTML">
-<!ENTITY inspectButton.label          "Zbadaj">
-<!ENTITY inspectButton.accesskey      "b">
+<!ENTITY inspectPanelTitle.label        "HTML">
+<!ENTITY inspectButton.label            "Zbadaj">
+<!ENTITY inspectButton.accesskey        "b">
+<!ENTITY inspectCloseButton.tooltiptext "Zamknij Inspektora">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Pobierz więcej narzędzi">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "P">
