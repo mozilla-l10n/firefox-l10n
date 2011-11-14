@@ -70,7 +70,6 @@
 <!ENTITY viewSecurityDevices.accesskey  "σ">
 
 
-<!ENTITY whenUpdatesFound.label         "Όταν βρίσκονται ενημερώσεις για τον &brandShortName;">
 
 <!ENTITY enableSearchUpdate.label       "Μηχανές αναζήτησης">
 <!ENTITY enableSearchUpdate.accesskey   "χ">

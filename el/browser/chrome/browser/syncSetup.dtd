@@ -113,7 +113,6 @@
 <!ENTITY addDevice.dontHaveDevice.label     "Δεν έχω την συσκευή μαζί μου">
 
 <!ENTITY addDevice.setup.enterCode.label    "Έπειτα, εισάγετε αυτόν τον κωδικό:">
- συσκευής και επιλέξτε &#x0022;Σύνδεση.&#x0022;">
 <!ENTITY addDevice.dialog.enterCode.label   "Εισάγετε τον κωδικό που παρέχει η συσκευή:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Παρακαλώ προσπαθήστε ξανά.">
 <!ENTITY addDevice.dialog.successful.label  "Η συσκευή προστέθηκε με επιτυχία. Ο αρχικός συγχρονισμός μπορεί να διαρκέσει μερικά λεπτά και υα πραγματοποιηθεί στο παρασκήνιο.">

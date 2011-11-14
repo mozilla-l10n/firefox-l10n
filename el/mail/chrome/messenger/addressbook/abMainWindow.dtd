@@ -76,12 +76,8 @@
 <!ENTITY showTaskbarCmd.accesskey "μ">
 <!ENTITY customizeToolbar.label "Προσαρμογή...">
 <!ENTITY customizeToolbar.accesskey "ρ">
-<!ENTITY showContactPane.label "Στήλη περίληψης επαφής">
-<!ENTITY showContactPane.accesskey "Σ">
 <!ENTITY menu_ShowNameAs.label "Εμφάνιση ονόματος ως">
 <!ENTITY menu_ShowNameAs.accesskey "ν">
-<!ENTITY firstLastCmd.label "Όνομα-Επώνυμο">
-<!ENTITY firstLastCmd.accesskey "μ">
 <!ENTITY lastFirstCmd.label "Επώνυμο-Όνομα">
 <!ENTITY lastFirstCmd.accesskey "π">
 <!ENTITY displayNameCmd.label "Όνομα">
@@ -176,3 +172,14 @@
 <!ENTITY zoomWindow.label "Μεγέθυνση">
 <!ENTITY menubarCmd.label                               "Εργαλειοθήκη μενού">
 <!ENTITY menubarCmd.accesskey                           "μ">
+
+<!ENTITY firstLastCmd2.label                            "Όνομα Επίθετο">
+<!ENTITY firstLastCmd2.accesskey                        "μ">
+<!ENTITY layoutMenu.label                               "Διάταξη">
+<!ENTITY layoutMenu.accesskey                           "ξ">
+
+
+<!ENTITY showDirectoryPane.label                        "Ταμπλό ευρετηρίου">
+<!ENTITY showDirectoryPane.accesskey                    "υ">
+<!ENTITY showContactPane2.label                         "Ταπλό επαφών">
+<!ENTITY showContactPane2.accesskey                     "φ">

@@ -80,7 +80,7 @@
 
 
 <!ENTITY notCached.title "Το έγγραφο έληξε">
-<!ENTITY notCached.longDesc "<p>Το έγγραφο που ζητήσατε δεν είναι πια διαθέσιμο στην μνήμη του &brandShortName;.</p><ul><li>Ως μέτρο ασφαλείας ο  &brandShortName; δεν ζητά ξανά να ανασύρει ευαίσθητα έγγραφα.</li><li>Πατήστε Προσπάθεια ξανά για να γίνει αίτηση ξανά στη σελίδα.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Το έγγραφο που ζητήσατε δεν είναι πια διαθέσιμο στην μνήμη του περιηγητή.</p><ul><li>Ως μέτρο ασφαλείας ο  &brandShortName; δεν ζητά ξανά να ανασύρει ευαίσθητα έγγραφα.</li><li>Πατήστε Προσπάθεια ξανά για να γίνει αίτηση ξανά στη σελίδα.</li></ul>">
 
 
 <!-- Include app-specific error messages - do not change this in localization!
