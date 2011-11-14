@@ -26,8 +26,10 @@
 <!ENTITY newVirtualFolderCmd.accesskey "v">
 <!ENTITY newOtherAccountsCmd.label "Autres comptes…">
 <!ENTITY newOtherAccountsCmd.accesskey "m">
-<!ENTITY newEmailAccountCmd.label "Compte courrier…">
-<!ENTITY newEmailAccountCmd.accesskey "o">
+<!ENTITY newCreateEmailAccountCmd.label "Obtenir un nouveau compte courrier…">
+<!ENTITY newCreateEmailAccountCmd.accesskey "O">
+<!ENTITY newExistingEmailAccountCmd.label "Compte courrier existant…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "e">
 <!ENTITY openMessageFileCmd.label "Ouvrir un fichier…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Pièces jointes">
