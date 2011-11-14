@@ -74,22 +74,18 @@
 <!ENTITY saveAsChangeEncodingCmd.accesskey "m">
 
 <!-- Edit menu items -->
-<!ENTITY editMenu.label              "Edycja">
-<!ENTITY editMenu.accesskey          "E">
 <!ENTITY pasteNoFormatting.label     "Wklej bez formatowania">
 <!ENTITY pasteNoFormatting.accesskey "f">
 <!ENTITY pasteNoFormatting.key       "V">
 <!ENTITY pasteAs.label               "Wklej jako">
 <!ENTITY pasteAs.accesskey           "a">
-<!ENTITY publishSettings.label       "Ustawienia publikowanej witryny…">
-<!ENTITY publishSettings.accesskey   "b">
 <!ENTITY pasteAsQuotationCmd.label     "Wklej jako cytat">
 <!ENTITY pasteAsQuotationCmd.accesskey "y">
 <!ENTITY pasteAsQuotationCmd.key     "o">
 <!ENTITY findCmd.label               "Znajdź i zamień…">
 <!ENTITY enableInlineSpellChecker.label     "Sprawdzaj pisownię podczas wprowadzania tekstu">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
-<!ENTITY checkSpellingCmd2.label            "Sprawdź pisownię">
+<!ENTITY checkSpellingCmd2.label            "Sprawdź pisownię…">
 <!ENTITY checkSpellingCmd2.accesskey        "r">
 <!ENTITY checkSpellingCmd2.key              "p">
 
