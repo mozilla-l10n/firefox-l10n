@@ -70,3 +70,11 @@
 <!-- Edit menu items -->
 <!ENTITY publishSettings.label     "Ustawienia publikowanej witryny…">
 <!ENTITY publishSettings.accesskey "b">
+
+<!-- Toolbar buttons/items -->
+<!ENTITY newToolbarCmd.label       "Nowy">
+<!ENTITY newToolbarCmd.tooltip     "Utwórz nową stronę Kompozytora Stron">
+<!ENTITY openToolbarCmd.label      "Otwórz">
+<!ENTITY openToolbarCmd.tooltip    "Otwórz lokalny plik">
+<!ENTITY saveToolbarCmd.tooltip    "Zapisz plik na lokalnym dysku">
+<!ENTITY publishToolbarCmd.tooltip "Prześlij plik na zdalny serwer">
