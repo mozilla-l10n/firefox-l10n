@@ -138,6 +138,8 @@
 <!ENTITY messagePaneWide.accesskey         "S">
 <!ENTITY messagePaneVertical.label         "Pionowy">
 <!ENTITY messagePaneVertical.accesskey     "P">
+<!ENTITY showFolderPaneCmd.label           "Panel folderów">
+<!ENTITY showFolderPaneCmd.accesskey       "f">
 <!ENTITY showMessageCmd.label              "Panel wiadomości">
 <!ENTITY showMessageCmd.accesskey          "m">
 

@@ -85,8 +85,12 @@
 <!ENTITY showTaskbarCmd.accesskey   "k">
 <!ENTITY customizeToolbar.label     "Dostosuj…">
 <!ENTITY customizeToolbar.accesskey "t">
-<!ENTITY showContactPane.label      "Panel kontaktów">
-<!ENTITY showContactPane.accesskey  "P">
+<!ENTITY layoutMenu.label           "Układ">
+<!ENTITY layoutMenu.accesskey       "U">
+<!ENTITY showDirectoryPane.label      "Panel książek adresowych">
+<!ENTITY showDirectoryPane.accesskey  "P">
+<!ENTITY showContactPane2.label       "Panel kontaktu">
+<!ENTITY showContactPane2.accesskey   "k">
 <!ENTITY menu_ShowNameAs.label      "Pokazuj nazwę jako">
 <!ENTITY menu_ShowNameAs.accesskey  "z">
 <!ENTITY firstLastCmd2.label        "Imię Nazwisko">
