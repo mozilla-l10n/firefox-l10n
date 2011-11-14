@@ -326,12 +326,6 @@
 <!-- toolbar-only items -->
 <!ENTITY menuBar.tooltip "Barre de menu">
 <!ENTITY formatToolbar.tooltip "Barre d'outils de mise en forme">
-<!ENTITY newToolbarCmd.label "Nouveau">
-<!ENTITY newToolbarCmd.tooltip "Créer une nouvelle page">
-<!ENTITY openToolbarCmd.label "Ouvrir">
-<!ENTITY openToolbarCmd.tooltip "Ouvrir un fichier">
-<!ENTITY saveToolbarCmd.tooltip "Enregistrer le fichier">
-<!ENTITY publishToolbarCmd.tooltip "Envoyer le fichier à une adresse distante">
 <!ENTITY cutToolbarCmd.tooltip "Couper">
 <!ENTITY copyToolbarCmd.tooltip "Copier">
 <!ENTITY pasteToolbarCmd.tooltip "Coller">
