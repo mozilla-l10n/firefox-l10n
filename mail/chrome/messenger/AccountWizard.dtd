@@ -2,7 +2,7 @@
 <!ENTITY accountWizard.size "width: 40em; height: 38em;">
 <!ENTITY accountSetupInfo2.label "Per ricevere messaggi è necessario prima creare un account.">
 <!ENTITY accountTypeTitle.label "Configurazione nuovo account">
-<!ENTITY accountTypeDesc2.label "Questa procedura guidata raccoglierà le informazioni necessarie per creare un account. Se non si conoscono le informazioni richieste contattare l'amministratore di sistema o l'Internet Service Provider.">
+<!ENTITY accountTypeDesc2.label "Questa procedura guidata raccoglierà le informazioni necessarie per creare un account. Se non si conoscono le informazioni richieste contattare l'amministratore di sistema o il fornitore di servizi internet.">
 <!ENTITY accountTypeDirections.label "Selezionare il tipo di account da configurare:">
 <!ENTITY accountTypeMail.label "Account di posta">
 <!ENTITY accountTypeMail.accesskey "c">
