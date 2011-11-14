@@ -17,7 +17,7 @@
 <!ENTITY successful.title "Congratulazioni">
 <!ENTITY successful.successMessage "La creazione dell'account si è conclusa con successo.">
 <!ENTITY successful.write "Scrivere alcune e-mail">
-<!ENTITY successful.write.desc "Fai conoscere ai tuoi amici ed alla tua famiglia il tuo nuovo indirizza.<br> Questa è la ragione per cui è stato creato questo indirizzo, giusto?">
+<!ENTITY successful.write.desc "Fai conoscere ai tuoi amici ed alla tua famiglia il tuo nuovo indirizzo.<br/> Questa è la ragione per cui è stato creato, vero?">
 <!ENTITY successful.customize "Personalizzare &brandShortName; con qualche componente aggiuntivo eccezionale">
 <!ENTITY successful.customize.desc "Ci sono migliaia di componenti aggiuntivi che consentono di personalizzare &brandShortName; rendendolo così adatto alle proprie esigenze.">
 <!ENTITY successful.attach "Allegare una firma personale alle e-mail">
