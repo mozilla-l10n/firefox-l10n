@@ -68,3 +68,11 @@
 <!-- Edit menu items -->
 <!ENTITY publishSettings.label "Paramètres de publication des sites…">
 <!ENTITY publishSettings.accesskey "b">
+
+<!-- Toolbar buttons/items -->
+<!ENTITY newToolbarCmd.label "Nouveau">
+<!ENTITY newToolbarCmd.tooltip "Créer une nouvelle page">
+<!ENTITY openToolbarCmd.label "Ouvrir">
+<!ENTITY openToolbarCmd.tooltip "Ouvrir un fichier">
+<!ENTITY saveToolbarCmd.tooltip "Enregistrer le fichier">
+<!ENTITY publishToolbarCmd.tooltip "Envoyer le fichier à une adresse distante">
