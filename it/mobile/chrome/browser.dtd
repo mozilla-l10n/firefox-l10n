@@ -91,11 +91,11 @@
 <!ENTITY contextRemoveBookmark.label "Elimina">
 <!ENTITY contextShortcutBookmark.label "Aggiungi alla schermata iniziale">
 <!ENTITY pageactions.saveas.pdf "Salva come PDF">
-<!ENTITY pageactions.share.page "Condividi pagina">
+<!ENTITY pageactions.share.page "Condividi">
 <!ENTITY pageactions.password.forget "Dimentica password">
 <!ENTITY pageactions.quit "Esci">
 <!ENTITY pageactions.reset "Cancella preferenze dei siti">
-<!ENTITY pageactions.findInPage "Cerca nella pagina">
+<!ENTITY pageactions.findInPage "Cerca">
 <!ENTITY pageactions.search.addNew "Aggiungi motore di ricerca">
 <!ENTITY pageactions.charEncoding "Codifica caratteri">
 <!ENTITY appMenu.siteOptions "Opzioni sito">
