@@ -148,7 +148,7 @@
      box faster.
      -->
 <!ENTITY quickFilterBar.textbox.emptyText.base
-         "Diese Nachrichten filtern… #1">
+         "Liste filtern… #1">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
      This is the key used to show the quick filter bar. -->
