@@ -46,6 +46,8 @@
 <!ENTITY half-manual-test.accesskey "t">
 <!ENTITY manual-edit.label "Handvirkar stillingar">
 <!ENTITY manual-edit.accesskey "H">
+<!ENTITY switch-to-provisioner.label "Sækja um nýjan reikning">
+<!ENTITY switch-to-provisioner.accesskey "S">
 <!ENTITY warning.label "Viðvörun!">
 <!ENTITY incomingSettings.label "Stillingar fyrir innsendan póst:">
 <!ENTITY outgoingSettings.label "Stillingar fyrir útsendan póst:">

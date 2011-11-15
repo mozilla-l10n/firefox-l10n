@@ -82,6 +82,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "F">
 <!ENTITY fullScreenExit.label "Ekki fylla skjá">
 <!ENTITY fullScreenExit.accesskey "f">
+<!ENTITY domFullScreenWarning.label "Smelltu á ESC til að fara úr skjáham">
 <!ENTITY closeWindow.label "Loka glugga">
 <!ENTITY closeWindow.accesskey "k">
 <!ENTITY bookmarksMenu.label "Bókamerki">
@@ -189,6 +190,9 @@ can reach it easily. -->
 <!ENTITY inspectPanelTitle.label "HTML">
 <!ENTITY inspectButton.label "Skoða">
 <!ENTITY inspectButton.accesskey "o">
+<!ENTITY inspectCloseButton.tooltiptext "Loka skoðara">
+<!ENTITY inspectStyleButton.label "Stíll">
+<!ENTITY inspectStyleButton.accesskey "S">
 <!ENTITY getMoreDevtoolsCmd.label "Ná í fleiri verkfæri">
 <!ENTITY getMoreDevtoolsCmd.accesskey "N">
 <!ENTITY fileMenu.label "Skrá">
@@ -425,6 +429,12 @@ can reach it easily. -->
 <!ENTITY mediaHideControls.accesskey "F">
 <!ENTITY videoFullScreen.label "Fylla skjá">
 <!ENTITY videoFullScreen.accesskey "F">
+<!ENTITY videoSaveImage.label "Vista skjámynd sem…">
+<!ENTITY videoSaveImage.accesskey "s">
+<!ENTITY videoShowStats.label "Sýna tölfræði">
+<!ENTITY videoShowStats.accesskey "t">
+<!ENTITY videoHideStats.label "Fela tölfræði">
+<!ENTITY videoHideStats.accesskey "t">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.

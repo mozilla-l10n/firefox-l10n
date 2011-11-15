@@ -16,6 +16,7 @@
 <!ENTITY attachMenu.accesskey "e">
 <!ENTITY attachFileCmd.label "Skrá…">
 <!ENTITY attachFileCmd.accesskey "S">
+<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachPageCmd.label "Vefsíðu…">
 <!ENTITY attachPageCmd.accesskey "V">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->

@@ -47,22 +47,24 @@
 <!ENTITY overrideSmartCacheSize.label "Hunsa sjálfvirka umsýslu skyndiminnis">
 <!ENTITY overrideSmartCacheSize.accesskey "H">
 <!ENTITY updateTab.label "Uppfærslur">
-<!ENTITY autoCheck.label "Athuga sjálfvirkt uppfærslur fyrir:">
-<!ENTITY enableAppUpdate.label "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey "F">
-<!ENTITY enableAddonsUpdate2.label "Viðbætur">
-<!ENTITY enableAddonsUpdate2.accesskey "V">
-<!ENTITY enableSearchUpdate.label "Leitarvélar">
-<!ENTITY enableSearchUpdate.accesskey "L">
-<!ENTITY whenUpdatesFound.label "Ef uppfærslur finnast fyrir &brandShortName;:">
-<!ENTITY askMe.label "Spyrja hvað á að gera">
-<!ENTITY askMe.accesskey "S">
-<!ENTITY modeAutomatic.label "Hlaða sjálfvirkt niður og setja uppfærsluna inn">
-<!ENTITY modeAutomatic.accesskey "H">
-<!ENTITY modeAutoAddonWarn.label "Vara við ef uppfærslan gerir einhverja viðbót óvirka">
-<!ENTITY modeAutoAddonWarn.accesskey "u">
+<!ENTITY updateApp.label "&brandShortName; uppfærslur:">
+<!ENTITY updateAuto.label "Setja sjálfvirkt inn uppfærslur (mælt með: eykur öryggi)">
+<!ENTITY updateAuto.accesskey "a">
+<!ENTITY updateCheck.label "Athuga með uppfærslur, en leyfa mér að velja hvenær á að setja þær upp">
+<!ENTITY updateCheck.accesskey "A">
+<!ENTITY updateManual.label "Aldrei athuga með uppfærslur (ekki mælt með: öryggisáhætta)">
+<!ENTITY updateManual.accesskey "l">
+<!ENTITY updateAutoAddonWarn.label "Vara við ef uppfærslan gerir einhverja viðbót óvirka">
+<!ENTITY updateAutoAddonWarn.accesskey "V">
 <!ENTITY updateHistory.label "Sýna uppfærslusögu">
 <!ENTITY updateHistory.accesskey "p">
+<!ENTITY useService.label "Nota bakgrunnsþjónustu til að setja inn uppfærslur">
+<!ENTITY useService.accesskey "b">
+<!ENTITY updateOthers.label "Uppfæra sjálfvirkt:">
+<!ENTITY enableAddonsUpdate3.label "Viðbætur">
+<!ENTITY enableAddonsUpdate3.accesskey "V">
+<!ENTITY enableSearchUpdate.label "Leitarvélar">
+<!ENTITY enableSearchUpdate.accesskey "L">
 <!ENTITY offlineNotify.label "Láta vita þegar vefsvæði biður um að geyma gögn fyrir ónettengda notkun">
 <!ENTITY offlineNotify.accesskey "t">
 <!ENTITY offlineNotifyExceptions.label "Undanþágur…">

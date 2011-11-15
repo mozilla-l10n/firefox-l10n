@@ -39,8 +39,8 @@
 <!ENTITY window.width "43em">
 <!ENTITY allowScripts.label "Leyfa skriftum að:
 ">
-<!ENTITY moveResizeWindows.label "Færa eða breyta stærð opinna glugga">
-<!ENTITY moveResizeWindows.accesskey "F">
+<!ENTITY moveResizePopupWindows.label "Færa eða breyta stærð á sprettigluggum">
+<!ENTITY moveResizePopupWindows.accesskey "m">
 <!ENTITY raiseLowerWindows.label "Stækka eða minnka glugga">
 <!ENTITY raiseLowerWindows.accesskey "k">
 <!ENTITY disableContextMenus.label "Slökkva á eða koma með nýjar smellivalmyndir">

@@ -2,6 +2,20 @@
 <!ENTITY playButton.pauseLabel "Í bið">
 <!ENTITY muteButton.muteLabel "Hljóðdeyfa">
 <!ENTITY muteButton.unmuteLabel "Virkja hljóð">
+<!ENTITY stats.media "Gögn">
+<!ENTITY stats.size "Stærð">
+<!ENTITY stats.activity "Aðgerð">
+<!ENTITY stats.activityPaused "Í bið">
+<!ENTITY stats.activityPlaying "Spila">
+<!ENTITY stats.activityEnded "Lokið">
+<!ENTITY stats.activitySeeking "(leita)">
+<!ENTITY stats.volume "Bindi">
+<!ENTITY stats.channels "Rásir">
+<!ENTITY stats.sampleRate "Söfnunartíðni">
+<!ENTITY stats.framesParsed "Þáttaðir rammar">
+<!ENTITY stats.framesDecoded "Afkóðaðir rammar">
+<!ENTITY stats.framesPresented "Birtir rammar">
+<!ENTITY stats.framesPainted "Litaðir rammar">
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be

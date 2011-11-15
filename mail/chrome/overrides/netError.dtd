@@ -42,6 +42,8 @@
 ">
 <!ENTITY netInterrupt.title "Tenging slitnaði">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+<!ENTITY notCached.title "Skjal er útrunnið">
+<!ENTITY notCached.longDesc "<p>Umbeðið skjal er ekki til í skyndiminni.</p><ul><li>Vegna öryggisástæðna, nær &brandShortName; ekki sjálfkrafa aftur í viðkvæm skjöl.</li><li>Smelltu á reyna aftur til að ná aftur í skjalið frá vefsvæðinu.</li></ul>">
 <!ENTITY netOffline.title "Ónettengdur hamur">
 <!ENTITY netOffline.longDesc2 "
 <ul>
