@@ -43,6 +43,8 @@
 <!ENTITY half-manual-test.accesskey "W">
 <!ENTITY manual-edit.label          "Konfiguracja zaawansowana">
 <!ENTITY manual-edit.accesskey      "K">
+<!ENTITY switch-to-provisioner.label     "Nowy adres e-mail">
+<!ENTITY switch-to-provisioner.accesskey "N">
 
 <!ENTITY warning.label            "Ostrzeżenie!">
 <!ENTITY incomingSettings.label   "Ustawienia dla poczty przychodzącej:">

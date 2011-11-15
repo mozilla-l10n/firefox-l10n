@@ -14,16 +14,19 @@
 <!ENTITY moveToNewWindow.accesskey    "n">
 
 <!-- File Menu -->
-<!ENTITY newNewMsgCmd.label             "Wiadomość">
-<!ENTITY newNewMsgCmd.accesskey         "W">
-<!ENTITY newFolderCmd.label             "Folder…">
-<!ENTITY newFolderCmd.accesskey         "F">
-<!ENTITY newVirtualFolderCmd.label      "Folder wyszukiwania…">
-<!ENTITY newVirtualFolderCmd.accesskey  "e">
-<!ENTITY newEmailAccountCmd.label       "Konto pocztowe…">
-<!ENTITY newEmailAccountCmd.accesskey   "K">
-<!ENTITY newOtherAccountsCmd.label      "Konto…">
-<!ENTITY newOtherAccountsCmd.accesskey  "o">
+<!ENTITY newNewMsgCmd.label                   "Wiadomość">
+<!ENTITY newNewMsgCmd.accesskey               "W">
+<!ENTITY newFolderCmd.label                   "Folder…">
+<!ENTITY newFolderCmd.accesskey               "F">
+<!ENTITY newVirtualFolderCmd.label            "Folder wyszukiwania…">
+<!ENTITY newVirtualFolderCmd.accesskey        "e">
+<!ENTITY newCreateEmailAccountCmd.label       "Nowy adres e-mail…">
+<!ENTITY newCreateEmailAccountCmd.accesskey   "N">
+<!ENTITY newExistingEmailAccountCmd.label     "Konfigurację konta pocztowego…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "K">
+<!ENTITY newOtherAccountsCmd.label            "Konfigurację innego konta…">
+<!ENTITY newOtherAccountsCmd.accesskey        "o">
+
 <!ENTITY openMessageFileCmd.label       "Otwórz zapisaną wiadomość">
 <!ENTITY openMessageFileCmd.accesskey   "O">
 <!ENTITY openAttachmentCmd.label        "Załączniki">
