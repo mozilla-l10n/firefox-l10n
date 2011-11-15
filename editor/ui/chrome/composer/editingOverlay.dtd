@@ -24,3 +24,11 @@
 <!-- Edit menu items -->
 <!ENTITY publishSettings.label         "Publikavimo nuostatos…">
 <!ENTITY publishSettings.accesskey     "b">
+
+<!-- Toolbar buttons/items -->
+<!ENTITY newToolbarCmd.label           "Naujas">
+<!ENTITY newToolbarCmd.tooltip         "Kurti naują tinklalapį">
+<!ENTITY openToolbarCmd.label          "Atverti">
+<!ENTITY openToolbarCmd.tooltip        "Atverti failą iš šio kompiuterio">
+<!ENTITY saveToolbarCmd.tooltip        "Įrašyti failą į diską">
+<!ENTITY publishToolbarCmd.tooltip     "Nusiųsti failą į nuotolinį kompiuterį">
