@@ -49,6 +49,9 @@
 <!ENTITY netInterrupt.title "Przerwano przesyłanie danych">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
+<!ENTITY notCached.title "Dokument wygasł">
+<!ENTITY notCached.longDesc "<p>Żądany dokument nie jest dostępny w pamięci podręcznej programu &brandShortName;.</p><ul><li>Ze względów bezpieczeństwa &brandShortName; nie pobiera ponownie wrażliwych dokumentów automatycznie.</li><li>Kliknij przycisk Spróbuj ponownie, aby jeszcze raz pobrać dokument z witryny.</li></ul>">
+
 <!ENTITY netOffline.title "Tryb offline">
 <!ENTITY netOffline.longDesc2 "
 <ul>
