@@ -4,7 +4,7 @@
 <!ENTITY error.line1 "Siamo spiacenti, non abbiamo trovato alcuna e-mail suggerita.">
 <!ENTITY error.line2 "E' possibile cercare fra i soprannomi o altri termini per trovare altre e-mail">
 <!ENTITY error.suggest.before "E' anche possibile trovare una delle ">
-<!ENTITY error.suggest.middle "alternative di e-mail gratuite">
+<!ENTITY error.suggest.middle "e-mail gratuite alternative">
 <!ENTITY error.suggest.after ".">
 <!ENTITY success.title.before "Ciao ">
 <!ENTITY success.title.after ", sono disponibili le seguenti e-mail:">
