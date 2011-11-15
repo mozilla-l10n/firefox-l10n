@@ -1,0 +1,7 @@
+amazondotcom-de
+bing-de
+eBay-de
+google-de
+twitter-de
+wikipedia-de
+yahoo-de
