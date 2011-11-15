@@ -34,7 +34,7 @@
 <!ENTITY undoCmd.accesskey "u">
 <!ENTITY redoCmd.label "Endurtaka">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "r">
+<!ENTITY redoCmd.accesskey "n">
 <!ENTITY cutCmd.label "Klippa">
 <!ENTITY cutCmd.key "X">
 <!ENTITY cutCmd.accesskey "K">
@@ -51,10 +51,10 @@
 <!ENTITY run.accesskey "r">
 <!ENTITY run.key "r">
 <!ENTITY inspect.label "Skoða">
-<!ENTITY inspect.accesskey "k">
+<!ENTITY inspect.accesskey "S">
 <!ENTITY inspect.key "i">
 <!ENTITY display.label "Sýna">
-<!ENTITY display.accesskey "S">
+<!ENTITY display.accesskey "n">
 <!ENTITY display.key "l">
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
@@ -74,18 +74,20 @@
   -->
 <!ENTITY browserContext.label "Vafri">
 <!ENTITY browserContext.accesskey "V">
-<!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
+<!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
-<!ENTITY resetContext.label "Endursetja">
-<!ENTITY resetContext.accesskey "r">
+<!ENTITY resetContext2.label "Endurstilla breytur">
+<!ENTITY resetContext2.accesskey "t">
 <!ENTITY executeMenu.label "Keyra">
 <!ENTITY executeMenu.accesskey "K">
-<!ENTITY toolsMenu.label "Verkfæri">
-<!ENTITY toolsMenu.accesskey "V">
-<!ENTITY errorConsoleCmd.label "Villugluggi">
-<!ENTITY errorConsoleCmd.accesskey "V">
+<!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
+  -  the browser Error Console, the key should be identical to the property of
+  -  the same name in browser.dtd.
+  -->
 <!ENTITY errorConsoleCmd.commandkey "j">
-<!ENTITY webConsoleCmd.label "Vefgluggi">
-<!ENTITY webConsoleCmd.accesskey "e">
+<!-- LOCALIZATION NOTE (webConsoleCmd.commandkey): This command key launches
+  -  the browser WebConsole, the key should be identical to the property of
+  -  the same name in browser.dtd.
+  -->
 <!ENTITY webConsoleCmd.commandkey "k">

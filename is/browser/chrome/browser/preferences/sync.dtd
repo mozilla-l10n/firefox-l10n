@@ -14,7 +14,7 @@
 <!ENTITY changePassword2.label "Breyta lykilorði…">
 <!ENTITY myRecoveryKey.label "Endurheimtunarlykill">
 <!ENTITY resetSync2.label "Endurstilla Sync…">
-<!ENTITY addDevice.label "Bæta við tölvu">
+<!ENTITY pairDevice.label "Para saman tæki">
 <!ENTITY syncMy.label "Samstilla">
 <!ENTITY engine.bookmarks.label "Bókamerki">
 <!ENTITY engine.bookmarks.accesskey "m">

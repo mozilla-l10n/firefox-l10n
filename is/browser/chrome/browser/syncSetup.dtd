@@ -3,8 +3,7 @@
 
 <!ENTITY setup.pickSetupType.description "Velkominn, ef þú hefur aldrei notað &syncBrand.fullName.label; áður, verðurðu að stofna nýjan aðgang.">
 <!ENTITY button.createNewAccount.label "Stofna nýjan aðgang">
-<!ENTITY setup.haveAccount.label "Ég er þegar með aðgang að &syncBrand.fullName.label;.">
-<!ENTITY button.connect.label "Tengjast">
+<!ENTITY button.haveAccount.label "Ég er með reikning">
 <!ENTITY setup.choicePage.title.label "Hefurðu notað &syncBrand.fullName.label; áður?">
 <!ENTITY setup.choicePage.new.label "Ég hef aldrei notað &syncBrand.shortName.label; áður">
 <!ENTITY setup.choicePage.existing.label "Ég er þegar að nota &syncBrand.shortName.label; á annari tölvu">
@@ -35,7 +34,7 @@
 <!ENTITY setup.ppLink.label "Meðferð persónuupplýsinga">
 <!ENTITY setup.tosAgree3.label "">
 <!ENTITY setup.tosAgree2.accesskey "">
-<!-- New Account Page 2: Sync Key -->
+<!-- My Recovery Key dialog -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; er umhugað um friðhelgi þína">
 <!ENTITY setup.newRecoveryKeyPage.description.label "Til að passa upp á öryggi, eru öll gögn dulkóðuð áður en þau eru send. Endurheimtunarlykillinn sem er nauðsynlegur til að afkóða gögnin er ekki sendur.">
 <!ENTITY recoveryKeyEntry.label "Endurheimtunarlykillinn þinn">
@@ -46,15 +45,13 @@
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
 <!ENTITY button.syncKeyBackup.save.label "Vista…">
 <!ENTITY button.syncKeyBackup.save.accesskey "s">
-<!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label "Staðfestu að þú sért ekki vélmenni">
-<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label "Bæta við tölvu">
+<!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
+<!ENTITY pairDevice.title.label "Para saman tæki">
 <!ENTITY addDevice.showMeHow.label "Sýna mér hvernig.">
 <!ENTITY addDevice.dontHaveDevice.label "Ég er ekki með tölvuna með mér">
-<!ENTITY addDevice.setup.description.label "Til að virkja, farðu í &syncBrand.shortName.label; stillingar á hinni tölvunni og veldu &#x0022;Bæta við tölvu&#x0022;.">
+<!ENTITY pairDevice.setup.description.label "Til að virkja, veldu &#x0022;Para saman tæki&#x0022; á hinu tækinu.">
 <!ENTITY addDevice.setup.enterCode.label "Sláðu svo inn þennan kóða:">
-<!ENTITY addDevice.dialog.description.label "Til að virkja nýju tölvuna þína, farðu í &syncBrand.shortName.label; stillingar á tölvunni og veldu &#x0022;Bæta við tölvu&#x0022;.">
+<!ENTITY pairDevice.dialog.description.label "Til að virkja nýja tækið þitt, veldu &#x0022;Setja upp Sync&#x0022; á tækinu.">
 <!ENTITY addDevice.dialog.enterCode.label "Sláðu inn kóðann sem tölvan gaf upp:">
 <!ENTITY addDevice.dialog.tryAgain.label "Vinsamlegast reyndu aftur.">
 <!ENTITY addDevice.dialog.successful.label "Búið er að bæta við tölvu. Fyrsta samstilling gæti tekið nokkrar mínútur og verður keyrð í bakgrunni.">

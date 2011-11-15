@@ -43,40 +43,13 @@
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
 <!-- File menu items -->
-<!ENTITY fileMenu.label "Skrá">
-<!ENTITY fileMenu.accesskey "S">
-<!ENTITY openFileCmd.label "Opna skrá…">
-<!ENTITY openFileCmd.accesskey "O">
-<!ENTITY openFileCmd.key "O">
-<!ENTITY openRemoteCmd.label "Opna staðsetningu…">
-<!ENTITY openRemoteCmd.accesskey "p">
-<!ENTITY openRemoteCmd.key "L">
-<!ENTITY fileRecentMenu.label "Nýlegar síður">
-<!ENTITY fileRecentMenu.accesskey "r">
-<!ENTITY fileRevert.label "Afturkalla">
-<!ENTITY fileRevert.accesskey "k">
-<!ENTITY saveCmd.label "Vista">
-<!ENTITY saveCmd.accesskey "s">
 <!ENTITY saveCmd.key "S">
-<!ENTITY saveAsCmd.label "Vista sem…">
-<!ENTITY saveAsCmd.accesskey "a">
-<!ENTITY publishCmd.label "Gefa út">
-<!ENTITY publishCmd.accesskey "G">
-<!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "Gefa út sem…">
-<!ENTITY publishAsCmd.accesskey "f">
-<!ENTITY saveAsChangeEncodingCmd.label "Vista og breyta stafatöflu">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "e">
 <!-- Edit menu items -->
-<!ENTITY editMenu.label "Breyta">
-<!ENTITY editMenu.accesskey "e">
 <!ENTITY pasteNoFormatting.label "Líma án sniðs">
 <!ENTITY pasteNoFormatting.accesskey "m">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Líma sem">
 <!ENTITY pasteAs.accesskey "a">
-<!ENTITY publishSettings.label "Stillingar útgáfuvefsvæðis…">
-<!ENTITY publishSettings.accesskey "S">
 <!ENTITY pasteAsQuotationCmd.label "Líma inn sem tilvitnun">
 <!ENTITY pasteAsQuotationCmd.accesskey "t">
 <!ENTITY pasteAsQuotationCmd.key "o">
@@ -202,7 +175,7 @@
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Fjarlægja nefnda tengla">
 <!ENTITY formatRemoveNamedAnchors.accesskey "r">
-<!ENTITY formatRemoveNamedAnchors.key "A">
+<!ENTITY formatRemoveNamedAnchors2.key "R">
 <!ENTITY paragraphMenu.label "Málsgrein">
 <!ENTITY paragraphMenu.accesskey "M">
 <!ENTITY paragraphParagraphCmd.label "Málsgrein">

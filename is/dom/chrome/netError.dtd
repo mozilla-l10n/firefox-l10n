@@ -16,6 +16,8 @@
 <!ENTITY malformedURI.longDesc "<p>Innslegið vistfang er ekki á viðurkenndu sniði. Athugaðu hvort slegið var inn rangt og reyndu aftur.</p>">
 <!ENTITY netInterrupt.title "Tenging slitnaði">
 <!ENTITY netInterrupt.longDesc "<p>Vafrinn gat tengst, en tenging var rofin meðan verið var að senda upplýsingar.  Reyndu aftur.</p><ul><li>Geturðu ekki tengst við önnur svæði?  Athugaðu netstillingar tölvu.</li><li>Ennþá vandamál? Hafðu samband við kerfisstjóra eða netaðila fyrir hjálp.</li></ul>">
+<!ENTITY notCached.title "Skjal er útrunnið">
+<!ENTITY notCached.longDesc "<p>Umbeðið skjal er ekki til í skyndiminni vafrans.</p><ul><li>Vegna öryggisástæðna, nær vafrinn ekki sjálfkrafa aftur í viðkvæm skjöl.</li><li>Smelltu á reyna aftur til að ná aftur í skjalið frá vefsvæðinu.</li></ul>">
 <!ENTITY netOffline.title "Ónettengdur hamur">
 <!ENTITY netOffline.longDesc2 "<p>Vafrinn er að vinna án nettengingar og getur ekki tengst við umbeðna síðu.</p><ul><li>Er tölvan tengt við virkt net?</li><li>Smelltu á &quot;Reyna aftur&quot; til að tengjast netinu og endurnýja síðuna.</li></ul>">
 <!ENTITY contentEncodingError.title "Kóðunarvilla">

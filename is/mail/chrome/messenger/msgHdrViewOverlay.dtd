@@ -111,6 +111,7 @@
 <!ENTITY detachAllAttachmentsCmd.accesskey "ö">
 <!ENTITY deleteAllAttachmentsCmd.label "Eyða öllum…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey "E">
+<!ENTITY openAttachment.tooltip "Opna viðhengið">
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label "Vista">
 <!ENTITY saveAttachmentButton1.tooltip "Vista viðhengi">

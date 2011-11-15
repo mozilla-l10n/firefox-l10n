@@ -86,13 +86,19 @@
 <!ENTITY showTaskbarCmd.accesskey "ö">
 <!ENTITY customizeToolbar.label "Sérsníða…">
 <!ENTITY customizeToolbar.accesskey "S">
-<!ENTITY showContactPane.label "Samantekt tengiliðs">
-<!ENTITY showContactPane.accesskey "S">
+<!ENTITY layoutMenu.label "Útlit">
+<!ENTITY layoutMenu.accesskey "l">
+<!ENTITY showDirectoryPane.label "Möppuflipi">
+<!ENTITY showDirectoryPane.accesskey "ö">
+<!ENTITY showContactPane2.label "Tengiliðaflipi">
+<!ENTITY showContactPane2.accesskey "T">
 <!ENTITY menu_ShowNameAs.label "Sýna nafn sem">
 <!ENTITY menu_ShowNameAs.accesskey "n">
  
-<!ENTITY firstLastCmd.label "Fornafn, eftirnafn">
-<!ENTITY firstLastCmd.accesskey "F">
+<!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
+because displayed names don't have the comma in between. -->
+<!ENTITY firstLastCmd2.label "Skírnarnafn eftirnafn">
+<!ENTITY firstLastCmd2.accesskey "f">
  
 <!ENTITY lastFirstCmd.label "Eftirnafn, fornafn">
 <!ENTITY lastFirstCmd.accesskey "E">

@@ -21,8 +21,10 @@
 <!ENTITY newVirtualFolderCmd.accesskey "V">
 <!ENTITY newOtherAccountsCmd.label "Aðrir reikningar…">
 <!ENTITY newOtherAccountsCmd.accesskey "A">
-<!ENTITY newEmailAccountCmd.label "Póstreikningur…">
-<!ENTITY newEmailAccountCmd.accesskey "r">
+<!ENTITY newCreateEmailAccountCmd.label "Búa til nýjan póstreikning…">
+<!ENTITY newCreateEmailAccountCmd.accesskey "g">
+<!ENTITY newExistingEmailAccountCmd.label "Póstreikningur sem er þegar til…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "e">
 <!ENTITY openMessageFileCmd.label "Opna vistaðan póst…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Viðhengi">
@@ -129,6 +131,8 @@
 <!ENTITY messagePaneWide.accesskey "B">
 <!ENTITY messagePaneVertical.label "Lóðrétt sýn">
 <!ENTITY messagePaneVertical.accesskey "ð">
+<!ENTITY showFolderPaneCmd.label "Möppuflipi">
+<!ENTITY showFolderPaneCmd.accesskey "f">
 <!ENTITY showMessageCmd.label "Lestrarrúða">
 <!ENTITY showMessageCmd.accesskey "L">
 <!ENTITY folderView.label "Möppur">

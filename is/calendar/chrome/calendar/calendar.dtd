@@ -286,7 +286,7 @@
 <!ENTITY calendarproperties.name.label "Nafn:">
 <!ENTITY calendarproperties.readonly.label "Skrifvarin">
 <!ENTITY calendarproperties.firealarms.label "Sýna viðvörun">
-<!ENTITY calendarproperties.cache.label "Skyndiminni (TILRAUN, þarfnast endurræsingar)">
+<!ENTITY calendarproperties.cache2.label "Biðminni">
 <!ENTITY calendarproperties.enabled.label "Kveikja á þessu dagatali">
 <!ENTITY calendarproperties.forceDisabled.label "Ekki var hægt að finna þjónustu fyrir þetta dagatal. Þetta getur skeð ef þú hefur gert óvirkar eða tekið út ákveðnar viðbætur.">
 <!ENTITY calendarproperties.unsubscribe.label "Afpanta áskrift">
