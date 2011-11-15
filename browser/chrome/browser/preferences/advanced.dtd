@@ -38,7 +38,7 @@
 <!ENTITY checkSpelling.accesskey         "t">
 
 <!ENTITY systemDefaults.label            "Opțiunile implicite ale sistemului">
-<!--XXX--><!ENTITY alwaysCheckDefault.label        "Verifică întotdeauna la pornire dacă &brandShortName; este navigatorul implicit">
+<!ENTITY alwaysCheckDefault.label        "Verifică întotdeauna la pornire dacă &brandShortName; este navigatorul implicit"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "V">
 <!ENTITY checkNow.label                  "Verifică acum">
 <!ENTITY checkNow.accesskey              "a">
