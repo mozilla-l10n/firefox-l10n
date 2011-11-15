@@ -328,12 +328,6 @@
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip               "Meniu juosta">
 <!ENTITY formatToolbar.tooltip         "Formatavimo priemonių juostą">
-<!ENTITY newToolbarCmd.label           "Naujas">
-<!ENTITY newToolbarCmd.tooltip         "Kurti naują tinklalapį">
-<!ENTITY openToolbarCmd.label          "Atverti">
-<!ENTITY openToolbarCmd.tooltip        "Atverti failą iš šio kompiuterio">
-<!ENTITY saveToolbarCmd.tooltip        "Įrašyti failą į diską">
-<!ENTITY publishToolbarCmd.tooltip     "Nusiųsti failą į nuotolinį kompiuterį">
 <!ENTITY cutToolbarCmd.tooltip         "Iškirpti">
 <!ENTITY copyToolbarCmd.tooltip        "Kopijuoti">
 <!ENTITY pasteToolbarCmd.tooltip       "Įdėti">
