@@ -104,6 +104,12 @@
 <!ENTITY mediaHideControls.accesskey "m">
 <!ENTITY videoFullScreen.label "Tryb pełnoekranowy">
 <!ENTITY videoFullScreen.accesskey "T">
+<!ENTITY videoSaveImage.label "Zapisz klatkę jako…">
+<!ENTITY videoSaveImage.accesskey "s">
+<!ENTITY videoShowStats.label "Wyświetl statystyki">
+<!ENTITY videoShowStats.accesskey "t">
+<!ENTITY videoHideStats.label "Ukryj statystyki">
+<!ENTITY videoHideStats.accesskey "t">
 <!ENTITY search.accesskey "W">
 <!ENTITY bidiSwitchPageDirectionItem.label "Przełącz kierunek strony">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey "s">
