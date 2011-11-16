@@ -368,21 +368,8 @@
 <!ENTITY tagMenu.accesskey "t">
 <!ENTITY tagCustomize.label "Dostosuj…">
 <!ENTITY tagCustomize.accesskey "D">
-<!ENTITY tagCmd0.key "0">
-<!ENTITY tagCmd1.key "1">
-<!ENTITY tagCmd2.key "2">
-<!ENTITY tagCmd3.key "3">
-<!ENTITY tagCmd4.key "4">
-<!ENTITY tagCmd5.key "5">
-<!ENTITY tagCmd6.key "6">
-<!ENTITY tagCmd7.key "7">
-<!ENTITY tagCmd8.key "8">
-<!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Oznacz">
 <!ENTITY markMenu.accesskey "c">
-<!ENTITY markAsReadCmd.label "Jako przeczytaną">
-<!ENTITY markAsReadCmd.accesskey "p">
-<!ENTITY markAsReadCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "Wątek jako przeczytany">
 <!ENTITY markThreadAsReadCmd.accesskey "W">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -392,9 +379,6 @@
 <!ENTITY markAllReadCmd.label "Wszystkie jako przeczytane">
 <!ENTITY markAllReadCmd.accesskey "c">
 <!ENTITY markAllReadCmd.key "c">
-<!ENTITY markFlaggedCmd.label "Oznacz">
-<!ENTITY markFlaggedCmd.accesskey "O">
-<!ENTITY markFlaggedCmd.key "i">
 <!ENTITY markAsJunkCmd.label "Jako niechcianą">
 <!ENTITY markAsJunkCmd.accesskey "J">
 <!ENTITY markAsJunkCmd.key "j">
@@ -409,9 +393,6 @@
 <!ENTITY markAsNotPhishCmd.label "Jako prawdziwą">
 <!ENTITY markAsNotPhishCmd.accesskey "r">
 <!ENTITY markAsNotPhishCmd.key "p">
-<!ENTITY openMessageWindowCmd.label "Otwórz wiadomość">
-<!ENTITY openMessageWindowCmd.accesskey "O">
-<!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY openFeedMessage.label "Otwórz artykuł">
 <!ENTITY openFeedMessage.accesskey "z">
 <!ENTITY openFeedWebPageInWindow.label "Strona w nowym oknie">
