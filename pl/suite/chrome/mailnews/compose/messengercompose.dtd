@@ -39,7 +39,6 @@
 <!ENTITY editRewrapCmd.label "Zawiń wiersze">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "Z">
-<!ENTITY findCmd.label "Znajdź i zamień…">
 <!ENTITY accountManagerCmd.label "Konfiguracja kont…">
 <!ENTITY accountManagerCmd.accesskey "g">
 
@@ -62,11 +61,6 @@
 <!ENTITY selectAddressCmd.label "Wybierz adresy…">
 <!ENTITY selectAddressCmd.key "">
 <!ENTITY selectAddressCmd.accesskey "W">
-
-<!ENTITY checkSpellingCmd2.label "Sprawdź pisownię…">
-<!ENTITY checkSpellingCmd2.accesskey "r">
-<!ENTITY enableInlineSpellChecker.label "Sprawdzaj pisownię w trakcie tworzenia">
-<!ENTITY enableInlineSpellChecker.accesskey "S">
 
 <!ENTITY priorityMenu.label "Priorytet">
 <!ENTITY priorityMenu.accesskey "p">
