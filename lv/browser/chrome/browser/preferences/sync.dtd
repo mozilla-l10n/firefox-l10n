@@ -1,5 +1,5 @@
 <!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "Iestatīt &syncBrand.fullName.label;">
+<!ENTITY setupButton.label          "Iestatīt sinhronizāciju">
 <!ENTITY setupButton.accesskey      "S">
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; ļauj jums piekļūt pārlūkošanas vēsturei, grāmatzīmēm, parolēm un atvērtajām cilnēm visās jūsu izmantotajās ierīcēs.">
 
@@ -7,7 +7,6 @@
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Atjaunināt">
 <!ENTITY resetPass.label              "Atiestatīt">
-<!ENTITY myRecoveryKey.label            "Mana atgūšanas atslēga">
 
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Pārvaldīt kontu">
@@ -15,7 +14,7 @@
 <!ENTITY changePassword2.label         "Mainīt paroli…">
 <!ENTITY resetSync2.label              "Atiestatīt sinhronizāciju…">
 <!ENTITY viewQuota.label              "Aplūkot kvotu">
-<!ENTITY addDevice.label              "Pievienot ierīci">
+<!ENTITY pairDevice.label             "Sapārot ierīci">
 
 <!-- Sync Settings -->
 <!ENTITY syncComputerName.label       "Datora nosaukums:">
@@ -33,7 +32,7 @@
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "Iestatījumus">
 <!ENTITY engine.prefs.accesskey     "S">
-<!ENTITY mySyncKey.label              "Mana sinhronizācijas atslēga">
+<!ENTITY myRecoveryKey.label            "Mana atgūšanas atslēga">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Lietošanas noteikumi">

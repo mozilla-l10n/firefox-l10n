@@ -34,8 +34,6 @@
 <!ENTITY corruptedContentError.title "Bojāta satura kļūda">
 <!ENTITY corruptedContentError.longDesc "<p>Lapu, ko mēģināt apskatīt nevar attēlot datu pārraides kļūdas dēļ.</p><ul><li>Lūdzu sazinieties ar lapas īpašniekiem un informējiet viņus par šo problēmu.</li></ul>">
 
-<!ENTITY netOffline.longDesc2 "<p>Pārlūks darbojas nesaistes režīmā un nevar pieslēgties pieprasītajai vietai.</p><ul><li>Vai dators ir pieslēgts aktīvam tīkla savienojumam?</li><li>Nospiediet &quot;Mēģināt vēlreiz&quot; lai pārslēgtos uz tiešsaistes režīmu un pārlādētu lapu.</li></ul>">
-
 <!ENTITY generic.title "Nevar pabeigt pieprasījumu">
 
 <!ENTITY generic.longDesc "<p>Papildu informācija par notikušo problēmu šobrīd nav pieejama.</p>">
@@ -55,6 +53,8 @@
 
 
 <!ENTITY netOffline.title "Nesaistes režīms">
+
+<!ENTITY netOffline.longDesc2 "<p>Pārlūks darbojas nesaistes režīmā un nevar pieslēgties pieprasītajai vietai.</p><ul><li>Vai dators ir pieslēgts aktīvam tīkla savienojumam?</li><li>Nospiediet &quot;Mēģināt vēlreiz&quot; lai pārslēgtos uz tiešsaistes režīmu un pārlādētu lapu.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Satura kodējuma kļūda">
 
@@ -138,16 +138,20 @@
 
 <!ENTITY phishingBlocked.longDesc "<p>Personiskās informācijas ievadīšana šajā lapā var novest pie tās zādzības un ļaunprātīgas izmantošanas vai krāpšanas.</p> 
 <p>Šāda tipa lapas tiek izmantotas uzbrukumos, kas pazīstami kā fišinga uzbrukumi, kuros ar neīstu mājas lapu vai e-pastu palīdzību krāpnieki mēģina izlikties par uzticamiem Interneta avotiem.</p>">
+
+<!ENTITY remoteXUL.title "Attālināts XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Lūdzu sazinieties ar mājas lapas īpašniekiem un informējiet viņus par šo problēmu.</li></ul></p>">
+
+<!ENTITY notCached.title "Dokumenta derīguma termiņš beidzies">
+<!ENTITY notCached.longDesc "<p>Pieprasītais dokuments vairs nav pieejams Firefox kešatmiņā.</p><ul><li>Drošības apsvērumu dēļ, Firefox neveic sensitīvu dokumentu automātisku atkārtotu pieprasīšanu.</li><li>Klikšķiniet uz Mēģināt vēlreiz, lai atkārtoti pieprasītu šo dokumentu no mājas lapas.</li></ul>">
+
+
 <!-- Include app-specific error messages - do not change this in localization!
 
      Some applications might override netErrorApp.dtd with their specific version,
 
      this inclusion needs to be intact for that approach to work correctly. -->
 
-<!ENTITY remoteXUL.title "Attālināts XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Lūdzu sazinieties ar mājas lapas īpašniekiem un informējiet viņus par šo problēmu.</li></ul></p>">
-
 
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
-
 %netErrorAppDTD;

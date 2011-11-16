@@ -40,8 +40,9 @@
 
 <!ENTITY allowScripts.label "Ļaut skriptiem:">
 
-<!ENTITY moveResizeWindows.label "Pārvietot un mainīt esošo logu izmērus">
-<!ENTITY moveResizeWindows.accesskey "M">
+<!ENTITY moveResizePopupWindows.label     "Pārvietot vai mainīt uznirstošo logu izmērus">
+<!ENTITY moveResizePopupWindows.accesskey "M">
+
 <!ENTITY raiseLowerWindows.label "Mainīt logu izmērus un minimizēt tos">
 <!ENTITY raiseLowerWindows.accesskey "R">
 <!ENTITY disableContextMenus.label "Deaktivizēt vai aizvietot izvēlnes">
