@@ -216,6 +216,7 @@ can reach it easily. -->
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "Inspeccionar">
 <!ENTITY inspectButton.accesskey      "I">
+<!ENTITY inspectCloseButton.tooltiptext "Pechar o inspector">
 <!ENTITY inspectStyleButton.label     "Estilo">
 <!ENTITY inspectStyleButton.accesskey "s">
 
