@@ -220,7 +220,6 @@ can reach it easily. -->
 <!ENTITY inspectStyleButton.label     "Estilo">
 <!ENTITY inspectStyleButton.accesskey "s">
 
-
 <!ENTITY getMoreDevtoolsCmd.label        "Obter máis ferramentas">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "m">
 
