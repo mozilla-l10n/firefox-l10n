@@ -443,7 +443,7 @@ can reach it easily. -->
 <!ENTITY videoFullScreen.label       "Tryb pełnoekranowy">
 <!ENTITY videoFullScreen.accesskey   "n">
 <!ENTITY videoSaveImage.label        "Zapisz klatkę jako…">
-<!ENTITY videoSaveImage.accesskey    "u">
+<!ENTITY videoSaveImage.accesskey    "k">
 <!ENTITY videoShowStats.label        "Wyświetl statystyki">
 <!ENTITY videoShowStats.accesskey    "t">
 <!ENTITY videoHideStats.label        "Ukryj statystyki">
