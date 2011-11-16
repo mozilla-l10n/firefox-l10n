@@ -90,6 +90,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "O">
 <!ENTITY fullScreenExit.label "Saír do modo Pantalla completa">
 <!ENTITY fullScreenExit.accesskey "c">
+<!ENTITY domFullScreenWarning.label "Prema ESC para saír do modo Pantalla completa">
 
 <!ENTITY closeWindow.label "Pechar xanela">
 <!ENTITY closeWindow.accesskey "P">
@@ -215,6 +216,10 @@ can reach it easily. -->
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "Inspeccionar">
 <!ENTITY inspectButton.accesskey      "I">
+<!ENTITY inspectCloseButton.tooltiptext "Pechar o inspector">
+<!ENTITY inspectStyleButton.label     "Estilo">
+<!ENTITY inspectStyleButton.accesskey "s">
+
 
 <!ENTITY getMoreDevtoolsCmd.label        "Obter máis ferramentas">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "m">
@@ -432,7 +437,12 @@ can reach it easily. -->
 <!ENTITY mediaHideControls.accesskey "O">
 <!ENTITY videoFullScreen.label       "Pantalla completa">
 <!ENTITY videoFullScreen.accesskey   "P">
-
+<!ENTITY videoSaveImage.label        "Gardar a captura como…">
+<!ENTITY videoSaveImage.accesskey    "G">
+<!ENTITY videoShowStats.label        "Mostrar as estatísticas">
+<!ENTITY videoShowStats.accesskey    "t">
+<!ENTITY videoHideStats.label        "Ocultar as estatísticas">
+<!ENTITY videoHideStats.accesskey    "t">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
