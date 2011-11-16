@@ -7,7 +7,6 @@
 # nicubunu <nicubunu@gmail.com>
 # Laudatti <Laudatti@gmail.com>
 # secarica <orice@secarica.ro>
-# anonymous <anonymous@n.a>
 #
 -->
 <!--
@@ -25,7 +24,7 @@
 <!ENTITY bold.label                       "Îngroșat">
 <!ENTITY italic.label                     "Înclinat">
 <!ENTITY boldItalic.label                 "Îngroșat și înclinat">
-<!ENTITY size.label                       "Mărime">
+<!ENTITY size.label                       "Mărime:">
 <!ENTITY size.accesskey                   "M">
 <!ENTITY regularSize.label                "Normal">
 <!ENTITY bigger.label                     "Mai mare">
@@ -47,7 +46,7 @@
 
 <!-- labels -->
 <!ENTITY displayTagsText.label     "Etichetele pot fi folosite pentru a organiza mesajele dumneavoastră pe categorii și după priorități. ">
-<!ENTITY addTagButton.label        "Adauga">
+<!ENTITY addTagButton.label        "Adaugă">
 <!ENTITY addTagButton.accesskey    "A">
 <!ENTITY editTagButton.label       "Editare">
 <!ENTITY editTagButton.accesskey   "E">
@@ -58,7 +57,8 @@
 <!ENTITY fontsAndColors.label    "Fonturi ">
 <!ENTITY defaultFont.label       "Font implicit:">
 <!ENTITY defaultFont.accesskey   "F">
-<!ENTITY defaultSize.label       "Mărime">
+<!ENTITY defaultSize.label       "Mărime:">
 <!ENTITY defaultSize.accesskey   "M">
 <!ENTITY fontOptions.accesskey   "F">
 <!ENTITY fontOptions.label       "Fonturi…">
+

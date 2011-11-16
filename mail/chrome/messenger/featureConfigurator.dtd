@@ -1,7 +1,7 @@
 <!--
 # Translator(s):
 #
-# strainu <crangasi2001@yahoo.com>
+# strainu <narro@strainu.ro>
 # rz <rz@r2dev.ro>
 # Alexandru Szasz <alexxed@gmail.com>
 # raulmalea <raul.malea@gmail.com>
@@ -111,3 +111,4 @@
 <!ENTITY featureConfigurator.previousButton "Înapoi">
 <!ENTITY featureConfigurator.nextButton "Înainte">
 <!ENTITY featureConfigurator.closeButton "Închide">
+

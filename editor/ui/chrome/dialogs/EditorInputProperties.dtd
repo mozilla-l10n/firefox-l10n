@@ -1,8 +1,8 @@
 <!--
 # Translator(s):
 #
+# mirceade <mirceade@yahoo.com>
 # Alexandru Szasz <alexxed@gmail.com>
-# alexef <alex@eftimie.ro>
 #
 -->
 <!--
@@ -76,7 +76,7 @@
 <!ENTITY InputChecked.accesskey "b">
 <!ENTITY InputSelected.label "Inițial selectată">
 <!ENTITY InputSelected.accesskey "s">
-<!ENTITY InputReadOnly.label "Doar _citire">
+<!ENTITY InputReadOnly.label "Numai pentru citit">
 <!ENTITY InputReadOnly.accesskey "D">
 <!ENTITY InputDisabled.label "Inactivat">
 <!ENTITY InputDisabled.accesskey "I">
@@ -93,3 +93,4 @@
 
 <!ENTITY ImageProperties.label "Proprietăți imagine…">
 <!ENTITY ImageProperties.accesskey "e">
+

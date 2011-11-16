@@ -1,4 +1,10 @@
 <!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
@@ -45,10 +51,11 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label "Acroșează la grilă">
 
-<!ENTITY enableSnapToGrid.label "Activează Snap to Grid">
+<!ENTITY enableSnapToGrid.label "activează alinierea la grilă">
 <!ENTITY enableSnapToGrid.accessKey "a">
 
 <!ENTITY sizeEditField.label "Mărime:">
 <!ENTITY sizeEditField.accessKey "M">
 
 <!ENTITY pixelsLabel.value "pixeli">
+

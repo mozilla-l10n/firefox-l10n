@@ -2,6 +2,7 @@
 # Translator(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# turcan <nicturcan@gmail.com>
 #
 -->
 <!--
@@ -104,3 +105,4 @@
 <!ENTITY paste.key "p">
 <!ENTITY props.key "P">
 <!ENTITY tbar.key "t">
+

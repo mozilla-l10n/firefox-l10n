@@ -2,7 +2,7 @@
 # Translator(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
-# strainu <crangasi2001@yahoo.com>
+# strainu <narro@strainu.ro>
 # turcan <nicturcan@gmail.com>
 #
 -->
@@ -86,3 +86,4 @@
 <!ENTITY starredColumn.tooltip "Clic pentru a sorta după steluță">
 <!ENTITY locationColumn.tooltip "Clic pentru a sorta după amplasare">
 <!ENTITY idColumn.tooltip "Clic pentru a sorta după ordinea în care au fost primite">
+

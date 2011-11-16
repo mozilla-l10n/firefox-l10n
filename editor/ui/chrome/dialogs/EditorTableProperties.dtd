@@ -2,11 +2,13 @@
 # Translator(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# secarica <orice@secarica.ro>
 #
 -->
 <!--
 # Reviewer(s):
 #
+# raulmalea <raul.malea@gmail.com>
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
@@ -66,13 +68,13 @@
 <!ENTITY tableBorderWidth.accessKey       "B">
 <!ENTITY tableSpacing.label               "Spațiere:">
 <!ENTITY tableSpacing.accessKey           "S">
-<!ENTITY tablePadding.label               "Spațiu umplere:">
+<!ENTITY tablePadding.label               "Umplutură:">
 <!ENTITY tablePadding.accessKey           "P">
 <!ENTITY tablePxBetwCells.label           "pixeli între celule">
 <!ENTITY tablePxBetwBrdrCellContent.label "pixeli între marginea și conținutul celulei">
 <!ENTITY tableAlignment.label             "Aliniere tabel:">
 <!ENTITY tableAlignment.accessKey         "A">
-<!ENTITY tableCaption.label               "Explicație:">
+<!ENTITY tableCaption.label               "Titlu:">
 <!ENTITY tableCaption.accessKey           "X">
 <!ENTITY tableCaptionAbove.label          "Deasupra tabelului">
 <!ENTITY tableCaptionBelow.label          "Sub tabel">
@@ -91,15 +93,15 @@
 <!ENTITY cellSelectPrevious.accessKey     "P">
 <!ENTITY applyBeforeChange.label          "Schimbările curente vor fi aplicate înainte de schimbarea selecției.">
 <!ENTITY cellContentAlignment.label       "Aliniere conținut">
-<!ENTITY cellHorizontal.label             "Orizontală:">
+<!ENTITY cellHorizontal.label             "Orizontal:">
 <!ENTITY cellHorizontal.accessKey         "Z">
-<!ENTITY cellVertical.label               "Verticală:">
+<!ENTITY cellVertical.label               "Vertical:">
 <!ENTITY cellVertical.accessKey           "v">
 <!ENTITY cellStyle.label                  "Stil celulă:">
 <!ENTITY cellStyle.accessKey              "S">
 <!ENTITY cellNormal.label                 "Normală">
 <!ENTITY cellHeader.label                 "Antet">
-<!ENTITY cellTextWrap.label               "Înfășurare text:">
+<!ENTITY cellTextWrap.label               "Împachetare text:">
 <!ENTITY cellTextWrap.accessKey           "T">
 <!ENTITY cellWrap.label                   "Înfășoară">
 <!ENTITY cellNoWrap.label                 "Nu înfășura">
@@ -113,8 +115,9 @@
 <!-- Used in both Table and Cell panels  -->
 <!ENTITY size.label                       "Mărimea">
 <!ENTITY pixels.label                     "pixeli">
-<!ENTITY backgroundColor.label            "Culoare fundal:">
+<!ENTITY backgroundColor.label            "Culoare de fundal:">
 <!ENTITY backgroundColor.accessKey        "F">
 <!ENTITY AlignLeft.label                  "Stânga">
 <!ENTITY AlignCenter.label                "Centru">
 <!ENTITY AlignRight.label                 "Dreapta">
+

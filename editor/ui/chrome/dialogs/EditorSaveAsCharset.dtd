@@ -2,6 +2,7 @@
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!-- ***** BEGIN LICENSE BLOCK *****
@@ -51,6 +52,7 @@
 <!ENTITY documentCharsetTitle.label "Codare caractere">
 <!ENTITY documentCharsetDesc.label "Alegeți codarea de caractere în care doriți să salvați documentul:">
 <!ENTITY documentExportToText.label "Exportă ca text">
+
 
 
 

@@ -1,4 +1,11 @@
 <!--
+# Translator(s):
+#
+# nicubunu <nicubunu@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
@@ -50,9 +57,9 @@
 <!ENTITY TextAreaRows.accessKey "R">
 <!ENTITY TextAreaCols.label "Coloane:">
 <!ENTITY TextAreaCols.accessKey "C">
-<!ENTITY TextAreaReadOnly.label "Doar-citire">
+<!ENTITY TextAreaReadOnly.label "Numai pentru citit">
 <!ENTITY TextAreaReadOnly.accessKey "O">
-<!ENTITY TextAreaDisabled.label "Inactiv">
+<!ENTITY TextAreaDisabled.label "Dezactivat">
 <!ENTITY TextAreaDisabled.accessKey "I">
 <!ENTITY TextAreaTabIndex.label "Index tab:">
 <!ENTITY TextAreaTabIndex.accessKey "I">
@@ -61,7 +68,7 @@
 <!ENTITY InitialText.label "Text inițial:">
 <!ENTITY InitialText.accessKey "T">
 
-<!ENTITY TextAreaWrap.label "Mod înfășurare:">
+<!ENTITY TextAreaWrap.label "Mod de împachetare:">
 <!ENTITY TextAreaWrap.accessKey "w">
 <!ENTITY WrapDefault.value "Implicit">
 <!ENTITY WrapOff.value "Fără">
@@ -69,3 +76,4 @@
 <!ENTITY WrapSoft.value "'Soft'">
 <!ENTITY WrapPhysical.value "Fizic">
 <!ENTITY WrapVirtual.value "Virtual">
+

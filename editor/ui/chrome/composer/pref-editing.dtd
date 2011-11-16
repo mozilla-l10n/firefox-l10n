@@ -33,8 +33,9 @@
 <!ENTITY background.accesskey       "F">
 <!ENTITY colon.character            ":">
 
-<!ENTITY backgroundImage.label      "Imagine fundal:">
+<!ENTITY backgroundImage.label      "Imagine de fundal:">
 <!ENTITY backgroundImage.accesskey  "g">
 <!ENTITY chooseFile.label           "Alegere fișier…">
 <!ENTITY chooseFile.accesskey       "A">
+
 
