@@ -24,15 +24,6 @@ savienojumu.</li>
 ka &brandShortName; ir atļauts piekļūt tīmeklim.</li> 
 </ul>">
 
-<!ENTITY corruptedContentError.title "Bojāta satura kļūda">
-<!ENTITY corruptedContentError.longDesc "<p>Lapu, ko mēģināt apskatīt nevar attēlot datu pārraides kļūdas dēļ.</p><ul><li>Lūdzu sazinieties ar lapas īpašniekiem un informējiet viņus par šo problēmu.</li></ul>">
-
-<!ENTITY netOffline.longDesc2 "
-<ul>
-  <li>Nospiediet &quot;Mēģināt vēlreiz&quot; lai pārslēgtos uz tiešsaistes režīmu un pārlādētu lapu.</li>
-</ul>
-">
-
 <!ENTITY fileNotFound.title "Fails nav atrasts">
 <!ENTITY fileNotFound.longDesc "<ul> 
 <li>Pārbaudiet, vai faila vārds ir uzrakstīts pareizi un ar pareizā lieluma burtiem.</li> 
@@ -55,11 +46,18 @@ ka &brandShortName; ir atļauts piekļūt tīmeklim.</li>
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "Nesaistes režīms">
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>Nospiediet &quot;Mēģināt vēlreiz&quot; lai pārslēgtos uz tiešsaistes režīmu un pārlādētu lapu.</li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.title "Satura kodējuma kļūda">
 <!ENTITY contentEncodingError.longDesc "<ul> 
 <li>Lūdzu, informējiet mājas lapas īpašniekus par šo problēmu.</li> 
 </ul>">
+<!ENTITY corruptedContentError.title "Bojāta satura kļūda">
+<!ENTITY corruptedContentError.longDesc "<p>Lapu, ko mēģināt apskatīt nevar attēlot datu pārraides kļūdas dēļ.</p><ul><li>Lūdzu sazinieties ar lapas īpašniekiem un informējiet viņus par šo problēmu.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Nedrošs faila tips">
 <!ENTITY unsafeContentType.longDesc "<ul> 
@@ -154,3 +152,7 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!ENTITY remoteXUL.title "Attālināts XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Lūdzu sazinieties ar mājas lapas īpašniekiem un informējiet viņus par šo problēmu.</li></ul></p>">
+
+<!ENTITY notCached.title "Dokumenta derīguma termiņš beidzies">
+<!ENTITY notCached.longDesc "<p>Pieprasītais dokuments vairs nav pieejams Firefox kešatmiņā.</p><ul><li>Drošības apsvērumu dēļ, Firefox neveic sensitīvu dokumentu automātisku atkārtotu pieprasīšanu.</li><li>Klikšķiniet uz Mēģināt vēlreiz, lai atkārtoti pieprasītu šo dokumentu no mājas lapas.</li></ul>">
+

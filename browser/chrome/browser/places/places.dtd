@@ -42,6 +42,7 @@
 <!ENTITY cmd.restore2.label "Atjaunot">
 <!ENTITY cmd.restore2.accesskey "A">
 <!ENTITY cmd.restoreFromFile.label "Izvēlēties failu...">
+<!ENTITY cmd.restoreFromFile.accesskey "I">
 
 <!ENTITY cmd.open.label "Atvērt">
 <!ENTITY cmd.open.accesskey "A">
@@ -97,13 +98,13 @@
 <!ENTITY saveSearch.accesskey "S">
 
 <!ENTITY cmd.find.key "f">
-<!ENTITY cmd.restoreFromFile.accesskey "I">
 
 <!ENTITY maintenance.label "Importēšana un rezerves kopēšana">
 <!ENTITY maintenance.accesskey "I">
 <!ENTITY maintenance.tooltip    "Grāmatzīmju importēšana un rezerves kopēšana">
 
 <!ENTITY backButton.tooltip "Iet atpakaļ">
+
 <!ENTITY forwardButton.tooltip "Iet uz priekšu">
 
 <!ENTITY detailsPane.more.label "Vairāk">

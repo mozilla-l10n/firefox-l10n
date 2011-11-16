@@ -3,6 +3,21 @@
 <!ENTITY muteButton.muteLabel "Apklusināt">
 <!ENTITY muteButton.unmuteLabel "Atapklusināt">
 
+<!ENTITY stats.media "Vide">
+<!ENTITY stats.size "Izmērs">
+<!ENTITY stats.activity "Aktivitāte">
+<!ENTITY stats.activityPaused "Apturēts">
+<!ENTITY stats.activityPlaying "Atskaņo">
+<!ENTITY stats.activityEnded "Atskaņots">
+<!ENTITY stats.activitySeeking "(meklē)">
+<!ENTITY stats.volume "Skaļums">
+<!ENTITY stats.channels "Kanāli">
+<!ENTITY stats.sampleRate "Kadru ātrums">
+<!ENTITY stats.framesParsed "Apstrādāti kadri">
+<!ENTITY stats.framesDecoded "Dekodēti kadri">
+<!ENTITY stats.framesPresented "Prezentētie kadri">
+<!ENTITY stats.framesPainted "Uzzīmētie kadri">
+
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be

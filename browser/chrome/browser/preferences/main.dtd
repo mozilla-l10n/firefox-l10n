@@ -5,19 +5,18 @@
 <!ENTITY startupHomePage.label "Parādīt manu mājas lapu">
 <!ENTITY startupBlankPage.label "Parādīt tukšu lapu">
 <!ENTITY startupLastSession.label "Parādīt manus logus un cilnes no iepriekšējās reizes">
+<!ENTITY restoreOnDemand.label     "Neielādēt cilnes līdz izvēlēts">
+<!ENTITY restoreOnDemand.accesskey "l">
+
 <!ENTITY homepage.label "Mājas lapa:">
 <!ENTITY homepage.accesskey "M">
 <!ENTITY useCurrentPage.label "Lietot pašreizējo lapu">
 <!ENTITY useCurrentPage.accesskey "L">
 <!ENTITY useMultiple.label "Lietot pašreizējās lapas">
-<!ENTITY useBookmark.label "Lietot grāmatzīmi">
-<!ENTITY useBookmark.accesskey "G">
-<!ENTITY restoreDefault.label "Atjaunot uz noklusēto">
-<!ENTITY restoreDefault.accesskey "A">
-<!ENTITY restoreOnDemand.label     "Neielādēt cilnes līdz izvēlēts">
-<!ENTITY restoreOnDemand.accesskey "l">
 <!ENTITY chooseBookmark.label "Lietot grāmatzīmi…">
 <!ENTITY chooseBookmark.accesskey "G">
+<!ENTITY restoreDefault.label "Atjaunot uz noklusēto">
+<!ENTITY restoreDefault.accesskey "A">
 
 <!ENTITY downloads.label "Lejupielādes">
 
