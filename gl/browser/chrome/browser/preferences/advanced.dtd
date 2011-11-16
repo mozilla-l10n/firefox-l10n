@@ -72,6 +72,9 @@
 <!ENTITY updateHistory.label             "Mostrar historial de actualización">
 <!ENTITY updateHistory.accesskey         "z">
 
+<!ENTITY useService.label                "Usar un servizo en segundo plano para instalar as actualizacións">
+<!ENTITY useService.accesskey            "g">
+
 <!ENTITY updateOthers.label              "Actualizar automaticamente:">
 <!ENTITY enableAddonsUpdate3.label       "Complementos">
 <!ENTITY enableAddonsUpdate3.accesskey   "o">
