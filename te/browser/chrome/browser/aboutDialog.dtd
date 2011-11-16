@@ -15,7 +15,7 @@
 <!ENTITY contribute.end             "">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY contribute.getInvolvedLink "పాలుపంచుకోండి!">
-<!ENTITY contribute.start           "ఆశక్తిగా వున్నారా? ">
+<!ENTITY contribute.start           "ఆసక్తిగా వున్నారా? ">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "నవీకరణలు మీ సిస్టమ్ నిర్వహణాధికారిచే అచేతనము చేయబడినవి">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
