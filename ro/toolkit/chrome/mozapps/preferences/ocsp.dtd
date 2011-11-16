@@ -17,3 +17,4 @@
 <!ENTITY signingCA.accesskey          "r">
 <!ENTITY requireOCSP.label            "Când o conexiune cu serverul OCSP eșuează, tratează certificatul ca invalid">
 <!ENTITY requireOCSP.accesskey        "C">
+
