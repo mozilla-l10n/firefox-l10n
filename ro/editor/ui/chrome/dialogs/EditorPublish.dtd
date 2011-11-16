@@ -8,7 +8,7 @@
 <!--
 # Reviewer(s):
 #
-# Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!-- ***** BEGIN LICENSE BLOCK *****
@@ -109,3 +109,4 @@
 <!ENTITY savePassword.label           "Salvează parola">
 <!ENTITY savePassword.accesskey       "S">
 <!ENTITY savePassword.tooltip         "Bifați pentru a vă salva securizat parola cu ajutorul Gestionarului de parole">
+

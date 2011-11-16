@@ -2,12 +2,14 @@
 # Translator(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# mirceade <mirceade@yahoo.com>
 #
 -->
 <!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!-- ***** BEGIN LICENSE BLOCK *****
@@ -90,3 +92,4 @@
 <!ENTITY MoveElementUp.accesskey "s">
 <!ENTITY MoveElementDown.label "Mută în j_os">
 <!ENTITY MoveElementDown.accesskey "j">
+

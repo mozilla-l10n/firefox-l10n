@@ -20,7 +20,7 @@
 <!ENTITY feedTitle.label "Titlu:">
 <!ENTITY location.label  "Loc:">
 
-<!ENTITY button.addFeed.label       "Adauga">
+<!ENTITY button.addFeed.label       "Adaugă">
 <!ENTITY button.addFeed.accesskey   "A">
 <!ENTITY button.editFeed.label      "Editare">
 <!ENTITY button.editFeed.accesskey  "E">
@@ -32,3 +32,4 @@
 <!ENTITY button.exportOPML.accesskey   "x">
 
 <!ENTITY cmd.close.commandKey             "w">
+

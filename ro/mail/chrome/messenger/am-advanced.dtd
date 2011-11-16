@@ -22,7 +22,7 @@
 
 <!ENTITY smtpListAdd.label  "Adaugă…">
 <!ENTITY smtpListAdd.accesskey  "A">
-<!ENTITY smtpListEdit.label "Editează">
+<!ENTITY smtpListEdit.label "Editează…">
 <!ENTITY smtpListEdit.accesskey "E">
 <!ENTITY smtpListDelete.label "Elimină">
 <!ENTITY smtpListDelete.accesskey "n">
@@ -35,3 +35,4 @@
 <!ENTITY userName.label   "Nume utilizator:">
 <!ENTITY connectionSecurity.label "Securitatea conexiunii: ">
 <!ENTITY authMethod.label   "Metodă de autentificare: ">
+

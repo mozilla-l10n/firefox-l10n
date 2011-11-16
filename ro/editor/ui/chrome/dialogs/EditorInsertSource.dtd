@@ -1,6 +1,7 @@
 <!--
 # Translator(s):
 #
+# nicubunu <nicubunu@gmail.com>
 # janimo <jani@ubuntu.com>
 # Alexandru Szasz <alexxed@gmail.com>
 #
@@ -59,3 +60,4 @@
 <!ENTITY exampleText.label "Salutare lume!">
 <!ENTITY insertButton.label "Introduceți">
 <!ENTITY insertButton.accesskey "I">
+

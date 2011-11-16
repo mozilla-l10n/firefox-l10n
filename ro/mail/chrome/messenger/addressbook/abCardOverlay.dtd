@@ -7,7 +7,7 @@
 # iulianv <iulianv@email.com>
 # manuelciosici <manuelrciosici@gmail.com>
 # turcan <nicturcan@gmail.com>
-# strainu <crangasi2001@yahoo.com>
+# strainu <narro@strainu.ro>
 # rsandu <razvan.sandu@zando.ro>
 # secarica <orice@secarica.ro>
 #
@@ -192,3 +192,4 @@
 <!ENTITY PhotoURL.placeholder           "Inserați sau tastați adresa web a pozei">
 <!ENTITY UpdatePhoto.label              "Împrospătare">
 <!ENTITY UpdatePhoto.accesskey          "m">
+

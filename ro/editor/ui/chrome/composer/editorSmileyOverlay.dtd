@@ -1,17 +1,11 @@
 <!--
 # Translator(s):
 #
-# Alexandru Szasz <alexxed@gmail.com>
-# nicubunu <nicubunu@gmail.com>
 # rsandu <razvan.sandu@zando.ro>
+# nicubunu <nicubunu@gmail.com>
 # janimo <jani@ubuntu.com>
-# toffee <daniel@toffee.ro>
-#
--->
-<!--
-# Reviewer(s):
-#
 # Alexandru Szasz <alexxed@gmail.com>
+# toffee <daniel@toffee.ro>
 #
 -->
 <!-- ***** BEGIN LICENSE BLOCK *****
@@ -105,4 +99,5 @@
 <!ENTITY smiley16Cmd.accesskey "b">
 <!ENTITY smiley16Cmd.tooltip "Inserează o figură cu buzele pecetluite">
 <!ENTITY SmileButton.tooltip "Inserează o figură zâmbitoare">
+
 

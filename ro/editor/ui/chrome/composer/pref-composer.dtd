@@ -6,12 +6,6 @@
 # turcan <nicturcan@gmail.com>
 #
 -->
-<!--
-# Reviewer(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-#
--->
 <!-- extracted from content/pref-composer.xul -->
 
 <!--LOCALIZATION NOTE : FILE 'Composer' prefs dialog. Similar to Communcator 4.x Document Properties/Colors and Background -->
@@ -37,3 +31,4 @@
 <!ENTITY  useCSS.accesskey              "F">
 <!ENTITY  crInPCreatesNewP.label        "Tasta Enter într-un paragraf creează întotdeauna un nou paragraf">
 <!ENTITY  crInPCreatesNewP.accesskey    "r">
+

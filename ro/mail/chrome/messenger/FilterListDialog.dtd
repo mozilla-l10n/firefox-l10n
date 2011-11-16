@@ -2,7 +2,6 @@
 # Translator(s):
 #
 # Laudatti <Laudatti@gmail.com>
-# Alexandru Szasz <alexxed@gmail.com>
 #
 -->
 <!--
@@ -16,7 +15,7 @@
 <!ENTITY activeColumn.label "Activ">
 <!ENTITY newButton.label "Nou…">
 <!ENTITY newButton.accesskey "N">
-<!ENTITY editButton.label "Editează">
+<!ENTITY editButton.label "Editează…">
 <!ENTITY editButton.accesskey "E">
 <!ENTITY deleteButton.label "Șterge">
 <!ENTITY deleteButton.accesskey "t">
@@ -40,3 +39,4 @@
 <!ENTITY helpButton.label "Ajutor">
 <!ENTITY helpButton.accesskey "A">
 <!ENTITY closeCmd.key "w"> 
+

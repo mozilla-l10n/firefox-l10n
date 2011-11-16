@@ -28,7 +28,7 @@
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Font:">
 <!ENTITY font.accesskey                       "n">
-<!ENTITY size.label                           "Mărime">
+<!ENTITY size.label                           "Mărime:">
 <!ENTITY size.accesskey                       "M">
 <!ENTITY fontColor.label                      "Culoare text:">
 <!ENTITY fontColor.accesskey                  "x">
@@ -41,7 +41,7 @@
 <!ENTITY spellCheck.accesskey                 "c">
 <!ENTITY spellCheckInline.label               "Activează verificarea ortografiei în timpul tastării">
 <!ENTITY spellCheckInline1.accesskey          "n">
-<!ENTITY languagePopup.label                  "Limba:">
+<!ENTITY languagePopup.label                  "Limbă:">
 <!ENTITY languagePopup.accessKey              "L">
 <!ENTITY downloadDictionaries.label           "Descarcă mai multe dicționare">
 
@@ -71,3 +71,4 @@
 <!ENTITY attachmentReminder.accesskey          "V">
 <!ENTITY attachmentReminderOptions.label       "Cuvinte cheie…">
 <!ENTITY attachmentReminderOptions.accesskey   "C">
+

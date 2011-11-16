@@ -1,8 +1,8 @@
 <!--
 # Translator(s):
 #
-# Alexandru Szasz <alexxed@gmail.com>
 # rsandu <razvan.sandu@zando.ro>
+# Alexandru Szasz <alexxed@gmail.com>
 #
 -->
 <!--
@@ -111,3 +111,4 @@
 <!ENTITY PreviewMode.label "Previzualizare">
 <!ENTITY PreviewMode.accesskey "P">
 <!ENTITY PreviewMode.tooltip "Afișează ca în navigator">
+

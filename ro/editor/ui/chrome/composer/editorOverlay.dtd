@@ -2,9 +2,9 @@
 # Translator(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
-# stas <stas@nerd.ro>
-# turcan <nicturcan@gmail.com>
 # nicubunu <nicubunu@gmail.com>
+# turcan <nicturcan@gmail.com>
+# stas <stas@nerd.ro>
 # janimo <jani@ubuntu.com>
 # secarica <orice@secarica.ro>
 # toffee <daniel@toffee.ro>
@@ -164,7 +164,7 @@
 <!ENTITY increaseFontSize.label "Mai mare">
 <!ENTITY increaseFontSize.accesskey "M">
 <!ENTITY increaseFontSize.key "+">
-<!-- + is above this key on many keyboards --><!ENTITY increaseFontSize.key2 "="> 
+<!ENTITY increaseFontSize.key2 "="> <!-- + is above this key on many keyboards -->
 
 <!ENTITY fontSizeMenu.label "Mărimea">
 <!ENTITY fontSizeMenu.accesskey "M">
@@ -190,7 +190,7 @@
 <!ENTITY styleBoldCmd.accesskey "a">
 <!ENTITY styleBoldCmd.key "B">
 <!ENTITY styleItalicCmd.label "Italic">
-<!ENTITY styleItalicCmd.accesskey "I">
+<!ENTITY styleItalicCmd.accesskey "C">
 <!ENTITY styleItalicCmd.key "I">
 <!ENTITY styleUnderlineCmd.label "Subliniere">
 <!ENTITY styleUnderlineCmd.accesskey "S">
@@ -437,3 +437,4 @@
 <!ENTITY removeTOC.accesskey      "E">
 <!ENTITY tocMenu.label            "Cuprins…">
 <!ENTITY tocMenu.accesskey        "C">
+

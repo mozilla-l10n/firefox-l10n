@@ -7,7 +7,6 @@
 # purica <haliciu@gmail.com>
 # nicubunu <nicubunu@gmail.com>
 # turcan <nicturcan@gmail.com>
-# xdaiana <xdaiana@yahoo.com>
 # Sergiu Bivol <sbivol87@gmail.com>
 # raulmalea <raul.malea@gmail.com>
 #
@@ -99,8 +98,8 @@
 <!ENTITY viewMenu.accesskey                             "V">
 <!ENTITY viewToolbarsMenu.label                         "Bare de unelte">
 <!ENTITY viewToolbarsMenu.accesskey                     "t"> 
-<!ENTITY menubarCmd.label                               "Menu Bar">
-<!ENTITY menubarCmd.accesskey                           "M">
+<!ENTITY menubarCmd.label                               "Bara cu meniul">
+<!ENTITY menubarCmd.accesskey                           "m">
 <!ENTITY showAbToolbarCmd.label                         "Bara Agendă">
 <!ENTITY showAbToolbarCmd.accesskey                     "B">
 <!ENTITY showTaskbarCmd.label                           "Bară de _stare">
@@ -121,7 +120,7 @@
 <!ENTITY sortMenu.accesskey                             "S">
 
 <!-- Tools Menu -->
-<!ENTITY tasksMenu.label                                "Utilitare">
+<!ENTITY tasksMenu.label                                "Unelte">
 <!ENTITY tasksMenu.accesskey                            "t">
 <!ENTITY messengerCmd.label                             "Email și grupuri de discuții">
 <!ENTITY messengerCmd.accesskey                         "c">
@@ -226,3 +225,4 @@
 <!ENTITY minimizeWindow.key "M">
 <!ENTITY bringAllToFront.label "Adu-le pe toate în față">
 <!ENTITY zoomWindow.label "Lupă">
+

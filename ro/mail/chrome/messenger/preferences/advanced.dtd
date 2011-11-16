@@ -6,9 +6,10 @@
 # nicubunu <nicubunu@gmail.com>
 # purica <haliciu@gmail.com>
 # Laudatti <Laudatti@gmail.com>
-# strainu <crangasi2001@yahoo.com>
+# strainu <narro@strainu.ro>
 # Lucian Oprea <oprea.luci@gmail.com>
 # rsandu <razvan.sandu@zando.ro>
+# https://www.google.com/accounts/o8/id?id=AItOawlnUhqAust-7hqM7HhylXGcKyQHz7bLFkw <https://www.google.com/accounts/o8/id?id=AItOawlnUhqAust-7hqM7HhylXGcKyQHz7bLFkw>
 #
 -->
 <!--
@@ -25,9 +26,9 @@
 
 <!-- General Settings -->
 
-<!ENTITY submitTelemetry.label         "Submit Performance Data">
-<!ENTITY submitTelemetry.accesskey     "P">
-<!ENTITY telemetryInfoLink.label       "More information about Telemetry">
+<!ENTITY submitTelemetry.label         "Trimite date despre performanță">
+<!ENTITY submitTelemetry.accesskey     "p">
+<!ENTITY telemetryInfoLink.label       "Detalii despre telemetrie">
 <!ENTITY enableGlodaSearch.label       "Activează căutarea globală și indexarea">
 <!ENTITY enableGlodaSearch.accesskey   "i">
 <!ENTITY systemIntegration.label       "Integrare cu sistemul">
@@ -128,3 +129,4 @@
 <!ENTITY validation.accesskey           "d">
 <!ENTITY viewSecurityDevices.label      "Dispozitive de securitate">
 <!ENTITY viewSecurityDevices.accesskey  "u">
+
