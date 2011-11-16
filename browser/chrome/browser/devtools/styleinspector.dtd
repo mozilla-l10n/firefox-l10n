@@ -18,6 +18,11 @@
   -  This is the link title shown in the hover tooltip. -->
 <!ENTITY helpLinkTitle         "Lea a documentación desta propiedade">
 
+<!-- LOCALIZATION NOTE (noPropertiesFound): In the case where there are no CSS
+  -  properties to display e.g. due to search criteria this message is
+  -  displayed. -->
+<!ENTITY noPropertiesFound     "Non se atoparon propiedades CSS.">
+
 <!-- LOCALIZATION NOTE (unmatchedSelectors): For each style property
   -  the panel shows whether there are any selectors that do not match the
   -  currently selected element. -->
