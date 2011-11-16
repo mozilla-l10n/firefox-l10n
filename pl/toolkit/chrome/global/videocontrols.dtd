@@ -16,7 +16,7 @@
 <!ENTITY stats.framesParsed "Liczba przetworzonych klatek">
 <!ENTITY stats.framesDecoded "Liczba odkodowanych klatek">
 <!ENTITY stats.framesPresented "Liczba pokazanych klatek">
-<!ENTITY stats.framesPainted "Liczba namalowanych klatek">
+<!ENTITY stats.framesPainted "Liczba narysowanych klatek">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
