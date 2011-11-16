@@ -8,3 +8,7 @@
 <!ENTITY prefCheckDefault.caption "Integracja z systemem">
 <!ENTITY prefCheckDefaultClient.label "Sprawdzaj ustawienia domyślnych aplikacji podczas uruchamiania">
 <!ENTITY prefCheckDefaultClient.accesskey "c">
+
+<!ENTITY crashReports.caption "Zgłaszanie awarii">
+<!ENTITY submitCrashes.label "Przesyłaj zgłoszenia awarii">
+<!ENTITY submitCrashes.accesskey "z">
