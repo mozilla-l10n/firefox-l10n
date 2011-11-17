@@ -67,7 +67,7 @@
 <!-- Entities for Login page -->
 
 <!ENTITY loginTitle.label "Benutzernamen">
-<!ENTITY usernameDesc.label "Geben Sie den Benutzernamen ein, der Ihnen vom E-Mail-Provider gegeben wurde">
+<!ENTITY usernameDesc.label "Geben Sie den Benutzernamen ein, der Ihnen vom Anbieter des E-Mail-Diensts gegeben wurde">
 <!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
 <!ENTITY usernameExample.label "(zum Beispiel &quot;hmaier&quot;).">
 <!ENTITY usernameLabel.label "Posteingang-Server Benutzername:">
