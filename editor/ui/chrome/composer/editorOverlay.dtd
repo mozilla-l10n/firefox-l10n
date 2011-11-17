@@ -70,22 +70,18 @@
 <!ENTITY saveAsChangeEncodingCmd.accesskey "m">
 
 <!-- Edit menu items -->
-<!ENTITY editMenu.label "Editar">
-<!ENTITY editMenu.accesskey "E">
 <!ENTITY pasteNoFormatting.label "Pegar sen formato">
 <!ENTITY pasteNoFormatting.accesskey "r">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Pegar como">
 <!ENTITY pasteAs.accesskey "o">
-<!ENTITY publishSettings.label "Publicar configuración do sitio…">
-<!ENTITY publishSettings.accesskey "b">
 <!ENTITY pasteAsQuotationCmd.label "Pegar como cita">
 <!ENTITY pasteAsQuotationCmd.accesskey "r">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Localizar e substituír…">
 <!ENTITY enableInlineSpellChecker.label "Verificar ortografía mentres escribe">
 <!ENTITY enableInlineSpellChecker.accesskey "e">
-<!ENTITY checkSpellingCmd2.label "Verificación ortográfica">
+<!ENTITY checkSpellingCmd2.label "Verificación ortográfica…">
 <!ENTITY checkSpellingCmd2.accesskey "V">
 <!ENTITY checkSpellingCmd2.key "K">
 
