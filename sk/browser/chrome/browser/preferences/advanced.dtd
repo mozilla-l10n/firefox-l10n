@@ -72,6 +72,9 @@
 <!ENTITY updateHistory.label             "Zobraziť históriu aktualizácií">
 <!ENTITY updateHistory.accesskey         "h">
 
+<!ENTITY useService.label                "Na inštaláciu aktualizácií používať službu na pozadí">
+<!ENTITY useService.accesskey            "z">
+
 <!ENTITY updateOthers.label              "Automaticky aktualizovať:">
 <!ENTITY enableAddonsUpdate3.label       "Doplnky">
 <!ENTITY enableAddonsUpdate3.accesskey   "D">
