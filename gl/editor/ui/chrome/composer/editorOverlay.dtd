@@ -43,31 +43,7 @@
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
 <!-- File menu items -->
-<!ENTITY fileMenu.label "Ficheiro">
-<!ENTITY fileMenu.accesskey "F">
-<!ENTITY openFileCmd.label "Abrir ficheiro…">
-<!ENTITY openFileCmd.accesskey "A">
-<!ENTITY openFileCmd.key "O">
-<!ENTITY openRemoteCmd.label "Abrir localización web…">
-<!ENTITY openRemoteCmd.accesskey "l">
-<!ENTITY openRemoteCmd.key "L">
-<!ENTITY fileRecentMenu.label "Páxinas recentes">
-<!ENTITY fileRecentMenu.accesskey "r">
-<!ENTITY fileRevert.label "Volver">
-<!ENTITY fileRevert.accesskey "V">
-<!ENTITY saveCmd.label "Gardar">
-<!ENTITY saveCmd.accesskey "G">
 <!ENTITY saveCmd.key "S">
-<!ENTITY saveAsCmd.label "Gardar como…">
-<!ENTITY saveAsCmd.accesskey "c">
-
-<!ENTITY publishCmd.label "Publicar">
-<!ENTITY publishCmd.accesskey "b">
-<!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "Publicar como…">
-<!ENTITY publishAsCmd.accesskey "b">
-<!ENTITY saveAsChangeEncodingCmd.label "Gardar e modificar a codificación de caracteres">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "m">
 
 <!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Pegar sen formato">
