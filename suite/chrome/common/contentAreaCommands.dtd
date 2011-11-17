@@ -98,12 +98,18 @@
 <!ENTITY mediaMute.accesskey          "m">
 <!ENTITY mediaUnmute.label            "Zrušiť stlmenie">
 <!ENTITY mediaUnmute.accesskey        "m">
-<!ENTITY mediaShowControls.label      "Zobraziť ovládanie">
-<!ENTITY mediaShowControls.accesskey  "n">
-<!ENTITY mediaHideControls.label      "Skryť ovládanie">
-<!ENTITY mediaHideControls.accesskey  "n">
+<!ENTITY mediaShowControls.label      "Zobraziť ovládače">
+<!ENTITY mediaShowControls.accesskey  "d">
+<!ENTITY mediaHideControls.label      "Skryť ovládače">
+<!ENTITY mediaHideControls.accesskey  "d">
 <!ENTITY videoFullScreen.label        "Na celú obrazovku">
 <!ENTITY videoFullScreen.accesskey    "c">
+<!ENTITY videoSaveImage.label         "Uložiť snímku ako…">
+<!ENTITY videoSaveImage.accesskey     "s">
+<!ENTITY videoShowStats.label         "Zobraziť štatistiky">
+<!ENTITY videoShowStats.accesskey     "a">
+<!ENTITY videoHideStats.label         "Skryť štatistiky">
+<!ENTITY videoHideStats.accesskey     "a">
 <!ENTITY search.accesskey             "W">
 <!ENTITY bidiSwitchPageDirectionItem.label        "Prepnúť smer textu stránky">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "m">

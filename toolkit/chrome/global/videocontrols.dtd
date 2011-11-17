@@ -3,6 +3,21 @@
 <!ENTITY muteButton.muteLabel "Stlmiť">
 <!ENTITY muteButton.unmuteLabel "Zrušiť stlmenie">
 
+<!ENTITY stats.media "Médium">
+<!ENTITY stats.size "Rozmery">
+<!ENTITY stats.activity "Aktivita">
+<!ENTITY stats.activityPaused "Pozastavené">
+<!ENTITY stats.activityPlaying "Prehráva sa">
+<!ENTITY stats.activityEnded "Ukončené">
+<!ENTITY stats.activitySeeking "(presúva sa)">
+<!ENTITY stats.volume "Hlasitosť">
+<!ENTITY stats.channels "Kanály">
+<!ENTITY stats.sampleRate "Vzorkovacia frekvencia">
+<!ENTITY stats.framesParsed "Spracovaných snímok">
+<!ENTITY stats.framesDecoded "Dekódovaných snímok">
+<!ENTITY stats.framesPresented "Prezentovaných snímok">
+<!ENTITY stats.framesPainted "Vykreslených snímok">
+
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be

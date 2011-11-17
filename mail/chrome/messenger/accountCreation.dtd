@@ -49,6 +49,8 @@
 <!ENTITY half-manual-test.accesskey      "o">
 <!ENTITY manual-edit.label               "Manuálne nastavenie">
 <!ENTITY manual-edit.accesskey           "n">
+<!ENTITY switch-to-provisioner.label     "Získať nový účet">
+<!ENTITY switch-to-provisioner.accesskey "s">
 
 <!ENTITY warning.label                   "Upozornenie!">
 <!ENTITY incomingSettings.label          "Nastavenia pre prichádzajúcu poštu:">
