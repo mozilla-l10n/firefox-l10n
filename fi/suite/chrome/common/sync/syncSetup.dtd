@@ -44,8 +44,7 @@
 <!ENTITY setup.newRecoveryKeyPage.description.label "Täydellisen tietosuojan varmistamiseksi kaikki tiedot salataan ennen palvelimelle lähettämistä. Salauksen purkamiseksi tarvittavaa palautusavainta ei lähetetä palvelimelle.">
 <!ENTITY recoveryKeyEntry.label        "Palautusavaimesi">
 <!ENTITY recoveryKeyEntry.accesskey    "P">
-<!ENTITY recoveryKeyGenerate.label     "Luo">
-<!ENTITY recoveryKeyGenerate.accesskey "L">
+<!ENTITY recoveryGenerateNewKey.label  "Luo uusi avain">
 <!ENTITY recoveryKeyBackup.description "Sinun tulee tietää palautusavaimesi käyttääksesi &syncBrand.fullName.label;iä muilla laitteilla. Ole hyvä ja ota avaimestasi varmuuskopio. Emme voi auttaa sinua palauttamaan hävinnyttä palautusavainta.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Tulosta…">

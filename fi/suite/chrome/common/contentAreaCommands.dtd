@@ -104,6 +104,12 @@
 <!ENTITY mediaHideControls.accesskey  "a">
 <!ENTITY videoFullScreen.label        "Kokoruututila">
 <!ENTITY videoFullScreen.accesskey    "K">
+<!ENTITY videoSaveImage.label         "Tallenna kuvakaappaus nimellä…">
+<!ENTITY videoSaveImage.accesskey     "k">
+<!ENTITY videoShowStats.label         "Näytä tilastotiedot">
+<!ENTITY videoShowStats.accesskey     "N">
+<!ENTITY videoHideStats.label         "Piilota tilastotiedot">
+<!ENTITY videoHideStats.accesskey     "t">
 <!ENTITY search.accesskey             "W">
 <!ENTITY bidiSwitchPageDirectionItem.label        "Vaihda sivun suuntaa">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "V">

@@ -7,5 +7,9 @@
 <!ENTITY systemPref.desc            "Jos valitset tämän, &brandShortName; hakee asetuksensa järjestelmältä. Näitä järjestelmäasetuksia noudatetaan mieluummin kuin &brandShortName;n omia asetuksia.">
 
 <!ENTITY prefCheckDefault.caption   "Järjestelmäintegraatio">
-<!ENTITY prefCheckDefaultClient.label "Tarkista oletussovellusten asetukset käynnistettäessä">
+<!ENTITY prefCheckDefaultClient.label "Tarkista oletussovellusten asetukset käynnistyksen yhteydessä">
 <!ENTITY prefCheckDefaultClient.accesskey "T">
+
+<!ENTITY crashReports.caption       "Kaatumisilmoitin">
+<!ENTITY submitCrashes.label        "Lähetä kaatumisilmoitukset">
+<!ENTITY submitCrashes.accesskey    "L">
