@@ -8,7 +8,7 @@
 <!ENTITY sync.syncNow               "Synchronizovať">
 
 <!ENTITY sync.setup.title           "Víta vás služba Sync">
-<!ENTITY sync.setup.jpake           "Na svojom stolnom počítači prejdite v prehliadači Firefox do nastavení služby Sync a zvoľte voľbu &#x0022;Pridať zariadenie&#x0022;">
+<!ENTITY sync.setup.pair            "Na aktiváciu zvoľte položku &#x0022;Spárovať zariadenie&#x0022; na svojom ďalšom zariadení.">
 <!ENTITY sync.fallback              "Nie som pri svojom počítači…">
 <!ENTITY sync.setup.manual          "Zadajte údaje o svojom účte služby Sync">
 <!ENTITY sync.account               "Názov účtu">
@@ -19,3 +19,9 @@
 <!ENTITY sync.setup.connect         "Pripojiť">
 <!ENTITY sync.setup.cancel          "Zrušiť">
 <!ENTITY sync.setup.tutorial        "Ako na to">
+<!ENTITY sync.setup.waiting2        "Čaká sa na zariadenie…">
+
+<!ENTITY sync.pair.title            "Spárovanie zariadenia">
+<!ENTITY sync.pair.description      "Ak chcete aktivovať vaše nové zariadenie, zvoľte v tomto zariadení položku &#x0022;Nastaviť synchronizáciu&#x0022;.">
+<!ENTITY sync.setup.close           "Zavrieť">
+<!ENTITY sync.setup.waitingdownload "Vaše údaje sú teraz preberané na pozadí. Toto okno môžete kedykoľvek zavrieť.">

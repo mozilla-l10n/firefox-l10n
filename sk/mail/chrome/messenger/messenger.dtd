@@ -23,8 +23,10 @@
 <!ENTITY newVirtualFolderCmd.accesskey "d">
 <!ENTITY newOtherAccountsCmd.label "Ďalšie účty…">
 <!ENTITY newOtherAccountsCmd.accesskey "a">
-<!ENTITY newEmailAccountCmd.label "Poštový účet…">
-<!ENTITY newEmailAccountCmd.accesskey "o">
+<!ENTITY newCreateEmailAccountCmd.label "Získať nový poštový účet…">
+<!ENTITY newCreateEmailAccountCmd.accesskey "Z">
+<!ENTITY newExistingEmailAccountCmd.label "Existujúci poštový účet…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "E">
 <!ENTITY openMessageFileCmd.label "Otvoriť uložené správy…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Prílohy">
@@ -134,6 +136,8 @@
 <!ENTITY messagePaneWide.accesskey "o">
 <!ENTITY messagePaneVertical.label "Zvislý pohľad">
 <!ENTITY messagePaneVertical.accesskey "Z">
+<!ENTITY showFolderPaneCmd.label "Panel priečinkov">
+<!ENTITY showFolderPaneCmd.accesskey "a">
 <!ENTITY showMessageCmd.label "Panel správy">
 <!ENTITY showMessageCmd.accesskey "P">
 

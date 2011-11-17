@@ -24,6 +24,9 @@
 <!ENTITY netInterrupt.title "Chyba: Prenos dát prerušený">
 <!ENTITY netInterrupt.longDesc "<p>Prehliadač sa úspešne pripojil k serveru, no spojenie počas prenosu informácií zlyhalo.</p><ul><li>Môže to byť zlyhanie siete medzi vašim počítačom a serverom</li><li>Prosím skúste to neskôr. Ak problémy pretrvávajú, kontaktujte, prosím, svojho správcu siete alebo poskytovateľa Internetu.</li></ul>">
 
+<!ENTITY notCached.title "Platnosť dokumentu vypršala">
+<!ENTITY notCached.longDesc "<p>Požadovaný dokument sa nenachádza vo vyrovnávacej pamäti prehliadača.</p><ul><li>Z bezpečnostných dôvodov prehliadač automaticky nežiada o opätovné načítanie citlivých dokumentov.</li><li>Kliknutím na tlačidlo Skúsiť znova požiadate o opätovné načítanie dokumentu.</li></ul>">
+
 <!ENTITY netOffline.title "Chyba: Režim offline">
 <!ENTITY netOffline.longDesc2 "<p>Prehliadač je momentálne v režime offline a nemôže sa pripojiť na požadovaný server.</p><ul><li>Je počítač pripojený k aktívnej sieti?</li><li>Kliknutím na tlačidlo &quot;Skúsiť znova&quot; prejdete do režimu online a opätovne načítate obsah stránky.</li></ul>">
 
