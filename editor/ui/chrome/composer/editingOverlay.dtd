@@ -42,6 +42,30 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
+<!-- File menu items -->
+<!ENTITY openFileCmd.label "Abrir ficheiro…">
+<!ENTITY openFileCmd.accesskey "A">
+<!ENTITY openFileCmd.key "O">
+<!ENTITY openRemoteCmd.label "Abrir localización web…">
+<!ENTITY openRemoteCmd.accesskey "l">
+<!ENTITY openRemoteCmd.key "L">
+<!ENTITY fileRecentMenu.label "Páxinas recentes">
+<!ENTITY fileRecentMenu.accesskey "r">
+<!ENTITY saveCmd.label "Gardar">
+<!ENTITY saveCmd.accesskey "G">
+<!ENTITY saveAsCmd.label "Gardar como…">
+<!ENTITY saveAsCmd.accesskey "c">
+<!ENTITY saveAsChangeEncodingCmd.label "Gardar e modificar a codificación de caracteres">
+<!ENTITY saveAsChangeEncodingCmd.accesskey "m">
+<!ENTITY publishCmd.label "Publicar">
+<!ENTITY publishCmd.accesskey "b">
+<!ENTITY publishCmd.key "S">
+<!ENTITY publishAsCmd.label "Publicar como…">
+<!ENTITY publishAsCmd.accesskey "b">
+<!ENTITY fileRevert.label "Volver">
+<!ENTITY fileRevert.accesskey "V">
+
+
 <!-- Edit menu items -->
 <!ENTITY publishSettings.label "Publicar configuración do sitio…">
 <!ENTITY publishSettings.accesskey "b">
