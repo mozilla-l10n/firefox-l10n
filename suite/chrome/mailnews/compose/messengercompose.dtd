@@ -41,7 +41,6 @@
 <!ENTITY editRewrapCmd.label "Rivitä uudelleen">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey  "R">
-<!ENTITY findCmd.label "Etsi ja korvaa…">
 <!ENTITY accountManagerCmd.label "Tilien asetukset…">
 <!ENTITY accountManagerCmd.accesskey "u">
 
@@ -64,11 +63,6 @@
 <!ENTITY selectAddressCmd.label "Valitse osoitteet…">
 <!ENTITY selectAddressCmd.key "">
 <!ENTITY selectAddressCmd.accesskey "a">
-
-<!ENTITY checkSpellingCmd2.label "Oikolue…">
-<!ENTITY checkSpellingCmd2.accesskey "u">
-<!ENTITY enableInlineSpellChecker.label "Oikolue kirjoitettaessa">
-<!ENTITY enableInlineSpellChecker.accesskey "s">
 
 <!ENTITY priorityMenu.label "Tärkeysaste">
 <!ENTITY priorityMenu.accesskey "T">
