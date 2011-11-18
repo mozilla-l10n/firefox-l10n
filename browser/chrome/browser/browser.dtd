@@ -159,6 +159,11 @@
 <!ENTITY inspectCloseButton.tooltiptext "Zarrar l'Inspector">
 <!ENTITY inspectStyleButton.label "Estilu">
 <!ENTITY inspectStyleButton.accesskey "S">
+<!ENTITY styleeditor.label            "Editor d'estilu">
+<!ENTITY styleeditor.accesskey        "i">
+<!ENTITY styleeditor.keycode          "VK_F7">
+<!ENTITY styleeditor.keytext          "F7">
+
 <!ENTITY videoSaveImage.label "Guardar captura de pantalla como…">
 <!ENTITY videoSaveImage.accesskey "d">
 <!ENTITY videoShowStats.label "Amosar estadístiques">
