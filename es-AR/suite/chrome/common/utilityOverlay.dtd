@@ -61,15 +61,15 @@
 <!ENTITY showSuggestionsCmd.accesskey		"s"> 
 <!ENTITY preferencesCmd.label				"Preferencias…">
 <!ENTITY preferencesCmd.key					"E">  
-<!ENTITY preferencesCmd.accesskey			"e"> 
+<!ENTITY preferencesCmd.accesskey			"f"> 
 <!ENTITY findCmd.key "F">
 <!-- LOCALIZATION NOTE (findCmd.accesskey): This accesskey should be within
      findCmd.label found in messengercompose.dtd, messenger.dtd and
      editorOverlay.dtd and findOnCmd.label found in navigatorOverlay.dtd -->
-<!ENTITY findCmd.accesskey "F">
+<!ENTITY findCmd.accesskey "B">
 <!ENTITY findAgainCmd.label "Repetir la búsqueda">
 <!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.accesskey "q">
+<!ENTITY findAgainCmd.accesskey "u">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Buscar anterior">
 <!ENTITY findPrevCmd.key "e">
