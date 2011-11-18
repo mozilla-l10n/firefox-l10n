@@ -38,23 +38,23 @@
 <!-- extracted from ./customize.xul -->
 
 <!-- LOCALIZATION NOTE  sidebar.customize.title.label: Do NOT localize the term "&sidebarName;"  -->
-<!ENTITY sidebar.customize.title.label          "Customize &sidebarName;">
+<!ENTITY sidebar.customize.title.label          "Personalizar &sidebarName;">
 <!-- LOCALIZATION NOTE  sidebar.customize.current.label: Do NOT localize the term "&sidebarName;"  -->
-<!ENTITY sidebar.customize.current.label        "Tabs in &sidebarName;:">
-<!ENTITY sidebar.customize.current.accesskey    "T">
-<!ENTITY sidebar.customize.customize.label      "Customize Tab…">
-<!ENTITY sidebar.customize.customize.accesskey  "C">
-<!ENTITY sidebar.customize.remove.label         "Remove">
-<!ENTITY sidebar.customize.remove.accesskey     "R">
-<!ENTITY sidebar.customize.additional.label     "Available Tabs:">
-<!ENTITY sidebar.customize.additional.accesskey "v">
-<!ENTITY sidebar.customize.add.label            "Add">
+<!ENTITY sidebar.customize.current.label        "Pestañas en &sidebarName;:">
+<!ENTITY sidebar.customize.current.accesskey    "t">
+<!ENTITY sidebar.customize.customize.label      "Personalizar pestaña…">
+<!ENTITY sidebar.customize.customize.accesskey  "P">
+<!ENTITY sidebar.customize.remove.label         "Eliminar">
+<!ENTITY sidebar.customize.remove.accesskey     "r">
+<!ENTITY sidebar.customize.additional.label     "Pestañas disponibles:">
+<!ENTITY sidebar.customize.additional.accesskey "d">
+<!ENTITY sidebar.customize.add.label            "Agregar">
 <!ENTITY sidebar.customize.add.accesskey        "A">
-<!ENTITY sidebar.customize.preview.label        "Preview…">
-<!ENTITY sidebar.customize.preview.accesskey    "P">
-<!ENTITY sidebar.customize.up.label             "Move Up">
-<!ENTITY sidebar.customize.up.accesskey         "U">
-<!ENTITY sidebar.customize.down.label           "Move Down">
-<!ENTITY sidebar.customize.down.accesskey       "D">
-<!ENTITY sidebar.more.label                     "Find More Tabs…">
-<!ENTITY sidebar.more.accesskey                 "F">
+<!ENTITY sidebar.customize.preview.label        "Vista previa…">
+<!ENTITY sidebar.customize.preview.accesskey    "V">
+<!ENTITY sidebar.customize.up.label             "Mover arriba">
+<!ENTITY sidebar.customize.up.accesskey         "b">
+<!ENTITY sidebar.customize.down.label           "Mover abajo">
+<!ENTITY sidebar.customize.down.accesskey       "j">
+<!ENTITY sidebar.more.label                     "Buscar más pestañas…">
+<!ENTITY sidebar.more.accesskey                 "B">
