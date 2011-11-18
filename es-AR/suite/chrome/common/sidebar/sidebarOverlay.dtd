@@ -37,31 +37,31 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY sidebar.panels.label           "Sidebar">
-<!ENTITY sidebar.reload.label           "Reload">
+<!ENTITY sidebar.panels.label           "Barra lateral">
+<!ENTITY sidebar.reload.label           "Recargar">
 <!ENTITY sidebar.reload.accesskey       "R">
-<!ENTITY sidebar.picker.label           "Tabs">
-<!ENTITY sidebar.customize.label        "Customize Sidebar…">
-<!ENTITY sidebar.customize.accesskey    "u">
-<!ENTITY sidebar.hide.label             "Hide Tab">
-<!ENTITY sidebar.hide.accesskey         "H">
-<!ENTITY sidebar.switch.label           "Switch to Tab">
-<!ENTITY sidebar.switch.accesskey       "T">
-<!ENTITY sidebarCmd.label               "Sidebar">
-<!ENTITY sidebarCmd.accesskey           "b">
-<!ENTITY sidebar.loading.label          "Loading…">
-<!ENTITY sidebar.loadstopped.label      "Load stopped">
-<!ENTITY sidebar.loading.stop.label     "Stop">
-<!ENTITY sidebar.loading.stop.accesskey "S">
+<!ENTITY sidebar.picker.label           "Pestañas">
+<!ENTITY sidebar.customize.label        "Personalizar barra lateral…">
+<!ENTITY sidebar.customize.accesskey    "P">
+<!ENTITY sidebar.hide.label             "Ocultar pestaña">
+<!ENTITY sidebar.hide.accesskey         "O">
+<!ENTITY sidebar.switch.label           "Cambiar a pestaña">
+<!ENTITY sidebar.switch.accesskey       "t">
+<!ENTITY sidebarCmd.label               "Barra lateral">
+<!ENTITY sidebarCmd.accesskey           "B">
+<!ENTITY sidebar.loading.label          "Cargando…">
+<!ENTITY sidebar.loadstopped.label      "Carga detenida">
+<!ENTITY sidebar.loading.stop.label     "Detener">
+<!ENTITY sidebar.loading.stop.accesskey "D">
 
-<!ENTITY sidebar.no-panels.state     "The sidebar is currently empty.">
-<!ENTITY sidebar.no-panels.add       'You may add tabs by clicking on the "Tabs" button above.'>
-<!ENTITY sidebar.no-panels.hide      'If you would like to completely hide the Sidebar, click on the "View" menu above, and select "Sidebar" from the "Show/Hide" sub-menu.'>
-<!ENTITY sidebar.sbDirectory.label   "Sidebar Directory…">
+<!ENTITY sidebar.no-panels.state     "La barra lateral está vacía.">
+<!ENTITY sidebar.no-panels.add       'Puede agregar pestañas al hacer clic en el botón "Pestañas" que está encima.'>
+<!ENTITY sidebar.no-panels.hide      'Si quiere ocultar la barra lateral completamente, haga clic en "Ver" en el menú y seleccione "Barra lateral" en el sub menú "Mostrar/Ocultar".'>
+<!ENTITY sidebar.sbDirectory.label   "Directorio de barras laterales…">
 
-<!ENTITY sidebar.pagenotfound.label  "This tab is not available right now.">
-<!ENTITY sidebar.close.tooltip       "Close Sidebar">
-<!ENTITY sidebar.open.tooltip        "Open Sidebar">
+<!ENTITY sidebar.pagenotfound.label  "Esta pestaña no está disponible en este momento.">
+<!ENTITY sidebar.close.tooltip       "Cerrar barra lateral">
+<!ENTITY sidebar.open.tooltip        "Abrir barra lateral">
 
 <!ENTITY sidebar.search.label         "Buscar">
 <!ENTITY sidebar.client-bookmarks.label     "Marcadores">
