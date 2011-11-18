@@ -13,7 +13,7 @@
 <!ENTITY cmd.back.tooltip "Retroceder una página">
 <!ENTITY cmd.forward.tooltip "Avanzar una página">
 <!ENTITY warning.safemode.label "Todos los complementos han sido desactivados por el modo seguro.">
-<!ENTITY warning.checkcompatibility.label "La comprobación de compatibilidad de los complementos está desactivada. Puede que tenga complementos incompatibles.">
+<!ENTITY warning.checkcompatibility.label "La comprobación de compatibilidad de complementos está desactivada. Puede tener algunos incompatibles.">
 <!ENTITY warning.checkcompatibility.enable.label "Activar">
 <!ENTITY warning.checkcompatibility.enable.tooltip "Activar comprobación de compatibilidad de complementos">
 <!ENTITY warning.updatesecurity.label "La comprobación de seguridad de los complementos está desactivada. Puede ver su seguridad comprometida durante las actualizaciones.">
