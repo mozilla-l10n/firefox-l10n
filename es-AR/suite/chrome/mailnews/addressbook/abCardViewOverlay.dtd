@@ -36,15 +36,15 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Box Headings -->
-<!ENTITY contact.heading             "Contact">
-<!ENTITY home.heading                "Home">
-<!ENTITY other.heading               "Other">
-<!ENTITY phone.heading               "Phone">
-<!ENTITY work.heading                "Work">
+<!ENTITY contact.heading             "Contacto">
+<!ENTITY home.heading                "Casa">
+<!ENTITY other.heading               "Otros">
+<!ENTITY phone.heading               "Teléfono">
+<!ENTITY work.heading                "Trabajo">
 <!-- Special Box Headings, for mailing lists -->
-<!ENTITY description.heading         "Description">
-<!ENTITY addresses.heading           "Addresses">
+<!ENTITY description.heading         "Descripción">
+<!ENTITY addresses.heading           "Direcciones">
 <!-- For Map It! -->
-<!ENTITY mapItButton.label           "Get Map">
-<!ENTITY mapIt.tooltip               "Display a map of this address from the Web">
+<!ENTITY mapItButton.label           "Obtener mapa">
+<!ENTITY mapIt.tooltip               "Obtener de la web un mapa de esta dirección">
 
