@@ -90,6 +90,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "ซ">
 <!ENTITY fullScreenExit.label "ออกจากโหมดเต็มจอ">
 <!ENTITY fullScreenExit.accesskey "อ">
+<!ENTITY domFullScreenWarning.label "กด ESC เพื่อออกจากโหมดเต็มจอ">
 
 <!ENTITY closeWindow.label "ปิดหน้าต่าง">
 <!ENTITY closeWindow.accesskey "ด">
@@ -215,6 +216,9 @@ can reach it easily. -->
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "ตรวจดู">
 <!ENTITY inspectButton.accesskey      "ต">
+<!ENTITY inspectCloseButton.tooltiptext "ปิดตัวตรวจดู">
+<!ENTITY inspectStyleButton.label     "สไตล์">
+<!ENTITY inspectStyleButton.accesskey "ส">
 
 <!ENTITY getMoreDevtoolsCmd.label        "เพิ่มเครื่องมือ">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "ม">
@@ -434,6 +438,12 @@ can reach it easily. -->
 <!ENTITY mediaHideControls.accesskey "น">
 <!ENTITY videoFullScreen.label       "เต็มจอ">
 <!ENTITY videoFullScreen.accesskey   "ต">
+<!ENTITY videoSaveImage.label        "จับหน้าจอเป็น…">
+<!ENTITY videoSaveImage.accesskey    "า">
+<!ENTITY videoShowStats.label        "แสดงสถิติ">
+<!ENTITY videoShowStats.accesskey    "ถ">
+<!ENTITY videoHideStats.label        "ซ่อนสถิติ">
+<!ENTITY videoHideStats.accesskey    "ซ">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
