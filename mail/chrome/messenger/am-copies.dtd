@@ -1,46 +1,46 @@
 <!-- extracted from am-copies.xul -->
 
-<!ENTITY copyAndFolderTitle.label "Copies &amp; Folders">
-<!ENTITY sendingPrefix.label "When sending messages, automatically: ">
-<!ENTITY fccMailFolder.label "Place a copy in:">
-<!ENTITY fccMailFolder.accesskey "P">
-<!ENTITY fccReplyFollowsParent.label "Place replies in the folder of the message being replied to">
-<!ENTITY fccReplyFollowsParent.accesskey "R">
+<!ENTITY copyAndFolderTitle.label "Kopije i mape">
+<!ENTITY sendingPrefix.label "Prilikom slanja poruka, automatski: ">
+<!ENTITY fccMailFolder.label "Stavi kopiju poruke u:">
+<!ENTITY fccMailFolder.accesskey "p">
+<!ENTITY fccReplyFollowsParent.label "Stavi odgovore u mapu poruke na koju se odgovara">
+<!ENTITY fccReplyFollowsParent.accesskey "t">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
-<!ENTITY ccAddress.label "Cc these email addresses:">
+<!ENTITY ccAddress.label "Cc ove adrese e-pošte:">
 <!ENTITY ccAddress.accesskey "C">
-<!ENTITY ccAddressList.placeholder "Separate addresses with commas">
+<!ENTITY ccAddressList.placeholder "Odvojite adrese zarezom">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
-<!ENTITY bccAddress.label "Bcc these email addresses:">
+<!ENTITY bccAddress.label "Bcc ove adrese e-pošte:">
 <!ENTITY bccAddress.accesskey "B">
-<!ENTITY bccAddressList.placeholder "Separate addresses with commas">
-<!ENTITY saveMessageDlg.label "Show confirmation dialog when messages are saved">
-<!ENTITY saveMessageDlg.accesskey "w">
+<!ENTITY bccAddressList.placeholder "Odvojite adrese zarezom">
+<!ENTITY saveMessageDlg.label "Prikaži upit za potvrdu prilikom spremanja poruke">
+<!ENTITY saveMessageDlg.accesskey "l">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY sentFolderOn.label "&quot;Sent&quot; Folder on:">
-<!ENTITY sentFolderOn.accesskey "S">
-<!ENTITY sentInOtherFolder.label "Other:">
-<!ENTITY sentInOtherFolder.accesskey "O">
+<!ENTITY sentFolderOn.label "Mapu &quot;Poslana pošta&quot; u:">
+<!ENTITY sentFolderOn.accesskey "s">
+<!ENTITY sentInOtherFolder.label "Drugi:">
+<!ENTITY sentInOtherFolder.accesskey "g">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesTitle.label "Message Archives">
-<!ENTITY keepArchives.label "Keep message archives in:">
-<!ENTITY keepArchives.accesskey "K">
-<!ENTITY archiveHierarchyButton.label "Archive options…">
-<!ENTITY archiveHierarchyButton.accesskey "A">
-<!ENTITY archivesFolderOn.label "&quot;Archives&quot; Folder on:">
-<!ENTITY archivesFolderOn.accesskey "n">
-<!ENTITY archiveInOtherFolder.label "Other:">
-<!ENTITY archiveInOtherFolder.accesskey "h">
-<!ENTITY specialFolders.label "Drafts and Templates">
-<!ENTITY keepDrafts.label "Keep message drafts in:">
+<!ENTITY archivesTitle.label "Arhiva poruka">
+<!ENTITY keepArchives.label "Drži arhivu poruka u:">
+<!ENTITY keepArchives.accesskey "v">
+<!ENTITY archiveHierarchyButton.label "Mogućnosti arhive…">
+<!ENTITY archiveHierarchyButton.accesskey "a">
+<!ENTITY archivesFolderOn.label "Mapi &quot;Arhiva&quot; u:">
+<!ENTITY archivesFolderOn.accesskey "u">
+<!ENTITY archiveInOtherFolder.label "Drugi:">
+<!ENTITY archiveInOtherFolder.accesskey "D">
+<!ENTITY specialFolders.label "Skice i predlošci">
+<!ENTITY keepDrafts.label "Drži skice poruka u:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY draftsFolderOn.label "&quot;Drafts&quot; Folder on:">
-<!ENTITY draftsFolderOn.accesskey "D">
-<!ENTITY draftInOtherFolder.label "Other:">
-<!ENTITY draftInOtherFolder.accesskey "t">
-<!ENTITY keepTemplates.label "Keep message templates in:">
+<!ENTITY draftsFolderOn.label "Mapi &quot;Skice&quot; u:">
+<!ENTITY draftsFolderOn.accesskey "k">
+<!ENTITY draftInOtherFolder.label "Drugi:">
+<!ENTITY draftInOtherFolder.accesskey "r">
+<!ENTITY keepTemplates.label "Drži predloške poruka u:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY templatesFolderOn.label "&quot;Templates&quot; Folder on:">
-<!ENTITY templatesFolderOn.accesskey "m">
-<!ENTITY templateInOtherFolder.label "Other:">
-<!ENTITY templateInOtherFolder.accesskey "e">
+<!ENTITY templatesFolderOn.label "Mapi &quot;Predlošci&quot; u:">
+<!ENTITY templatesFolderOn.accesskey "M">
+<!ENTITY templateInOtherFolder.label "Drugi:">
+<!ENTITY templateInOtherFolder.accesskey "i">
