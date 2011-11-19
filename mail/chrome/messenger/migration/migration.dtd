@@ -15,7 +15,7 @@
 <!ENTITY importFromEudora.label         "Eudora">
 <!ENTITY importFromEudora.accesskey     "E">
 
-<!ENTITY importSource.title             "Uvezi postavke i direktorije pošte">
+<!ENTITY importSource.title             "Uvezi postavke i mape pošte">
 <!ENTITY importItems.title              "Stavke za uvoz">
 <!ENTITY importItems.label              "Odaberite koje stavke želite uvesti:">
 
