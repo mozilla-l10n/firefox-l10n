@@ -8,7 +8,7 @@
 <!ENTITY junkMail.intro "Postavite svoje zadane postavke neželjene pošte. Specifične postavke za pojedini račun se mogu podesiti u postavkama računa.">
 <!ENTITY manualMark.label "Kada označim poruke kao neželjenu poštu:">
 <!ENTITY manualMark.accesskey "K">
-<!ENTITY manualMarkModeMove.label "Premjesti ih u direktorij &quot;Neželjena pošta&quot;">
+<!ENTITY manualMarkModeMove.label "Premjesti ih u mapu &quot;Neželjena pošta&quot;">
 <!ENTITY manualMarkModeMove.accesskey "j">
 <!ENTITY manualMarkModeDelete.label "Obriši ih">
 <!ENTITY manualMarkModeDelete.accesskey "O">
