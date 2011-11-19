@@ -73,22 +73,28 @@
 
 <!ENTITY updateTab.label                 "Actualizare">
 
-<!ENTITY autoCheck.label                 "Caută automat actualizări pentru:">
-<!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate2.label       "Suplimente">
-<!ENTITY enableAddonsUpdate2.accesskey   "n">
-<!ENTITY enableSearchUpdate.label        "Motoare de căutare">
-<!ENTITY enableSearchUpdate.accesskey    "M">
-<!ENTITY whenUpdatesFound.label          "Când sunt găsite actualizări pentru &brandShortName;:">
-<!ENTITY askMe.label                     "Întreabă-mă ce doresc să fac">
-<!ENTITY askMe.accesskey                 "n">
-<!ENTITY modeAutomatic.label             "Descarcă și instalează actualizările automat">
-<!ENTITY modeAutomatic.accesskey         "D">
-<!ENTITY modeAutoAddonWarn.label         "Avertizează-mă dacă asta va duce la dezactivarea unora dintre suplimentele mele">
-<!ENTITY modeAutoAddonWarn.accesskey     "A">
+<!ENTITY updateApp.label                 "Actualizări: &brandShortName;:">
+<!ENTITY updateAuto.label                "Instalează automat actualizările (recomandat: securitate îmbunătățită)">
+<!ENTITY updateAuto.accesskey            "a">
+<!ENTITY updateCheck.label               "Caută actualizări, dar lasă-mă pe mine să decid dacă să le instalez sau nu">
+<!ENTITY updateCheck.accesskey           "C">
+<!ENTITY updateManual.label              "Nu căuta niciodată actualizări (nerecomandat: risc de securitate)">
+<!ENTITY updateManual.accesskey          "N">
+
+<!ENTITY updateAutoAddonWarn.label       "Avertizează-mă dacă asta va duce la dezactivarea unora dintre suplimentele mele">
+<!ENTITY updateAutoAddonWarn.accesskey   "v">
+
 <!ENTITY updateHistory.label             "Arată istoricul actualizărilor">
 <!ENTITY updateHistory.accesskey         "i">
+
+<!ENTITY useService.label                "Folosește serviciul care rulează în fundal pentru a instala actualizări">
+<!ENTITY useService.accesskey            "d">
+
+<!ENTITY updateOthers.label              "Actualizează automat:">
+<!ENTITY enableAddonsUpdate3.label       "Suplimente">
+<!ENTITY enableAddonsUpdate3.accesskey   "u">
+<!ENTITY enableSearchUpdate.label        "Motoare de căutare">
+<!ENTITY enableSearchUpdate.accesskey    "M">
 
 <!ENTITY offlineNotify.label             "Spune-mi când un sait cere să stocheze date pentru uz offline">
 <!ENTITY offlineNotify.accesskey         "t">

@@ -43,6 +43,9 @@
 <!ENTITY netInterrupt.title "Conexiunea a fost întreruptă">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!ENTITY notCached.title "Document expirat">
+<!ENTITY notCached.longDesc "<p>Documentul cerut nu mai este disponibil în memoria temporară creată de &brandShortName;.</p><ul><li>Ca o măsură de siguranță, &brandShortName; nu cere din nou automat documente ce par a fi confidențiale.</li><li>Clic pe Încearcă din nou pentru a cere din nou documentul de la saitul de unde provine.</li></ul>">
+
 <!ENTITY netOffline.title "Mod offline">
 <!ENTITY netOffline.longDesc2 "
 <ul>

@@ -30,7 +30,7 @@
 <!ENTITY myRecoveryKey.label          "Cheia mea de recuperare">
 <!ENTITY resetSync2.label             "Resetează sincronizarea…">
 
-<!ENTITY addDevice.label              "Adaugă un dispozitiv">
+<!ENTITY pairDevice.label             "Împerechează un dispozitiv">
 
 <!ENTITY syncMy.label               "Sincronizează">
 <!ENTITY engine.bookmarks.label     "Semne de carte">

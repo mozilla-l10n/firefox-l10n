@@ -1,4 +1,10 @@
 <!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
@@ -46,8 +52,8 @@
 
 <!ENTITY allowScripts.label             "Permite scripturilor să:">
 
-<!ENTITY moveResizeWindows.label        "mute sau să redimensioneze ferestre existente">
-<!ENTITY moveResizeWindows.accesskey    "m">
+<!ENTITY moveResizePopupWindows.label     "mute sau să redimensioneze ferestre popup">
+<!ENTITY moveResizePopupWindows.accesskey "M">
 <!ENTITY raiseLowerWindows.label        "ridice sau să coboare ferestre">
 <!ENTITY raiseLowerWindows.accesskey    "r">
 <!ENTITY disableContextMenus.label      "dezactiveze sau să înlocuiască meniuri contextuale">

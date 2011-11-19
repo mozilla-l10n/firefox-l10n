@@ -18,8 +18,7 @@
 
 <!ENTITY setup.pickSetupType.description "Bine ați venit, dacă nu ați utilizat până acum &syncBrand.fullName.label; va trebui să vă creați un cont nou.">
 <!ENTITY button.createNewAccount.label "Creează un cont nou">
-<!ENTITY setup.haveAccount.label "Am deja un cont de &syncBrand.fullName.label;.">
-<!ENTITY button.connect.label    "Conectare">
+<!ENTITY button.haveAccount.label      "Am un cont">
 
 <!ENTITY setup.choicePage.title.label     "Ați mai folosit &syncBrand.fullName.label;?">
 <!ENTITY setup.choicePage.new.label       "N-am mai folosit niciodată &syncBrand.shortName.label;">
@@ -54,7 +53,7 @@
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 
-<!-- New Account Page 2: Sync Key -->
+<!-- My Recovery Key dialog -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; ține cont de confidențialitatea datelor dumneavoastră">
 <!ENTITY setup.newRecoveryKeyPage.description.label "Pentru a vă asigura confidențialitatea totală, toate datele sunt criptate înainte de a fi încărcate pe server. Cheia de recuperare e necesară pentru a decripta datele nu este încărcată.">
 <!ENTITY recoveryKeyEntry.label        "Cheia dumneavoastră de recuperare">
@@ -67,15 +66,13 @@
 <!ENTITY button.syncKeyBackup.save.label      "Salvează…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
 
-<!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "Vă rugăm confirmați că nu sunteți un robot">
-<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "Adaugă un dispozitiv">
+<!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
+<!ENTITY pairDevice.title.label             "Împerecheați un dispozitiv">
 <!ENTITY addDevice.showMeHow.label          "Arată-mi cum.">
 <!ENTITY addDevice.dontHaveDevice.label     "Nu am dispozitivul cu mine">
-<!ENTITY addDevice.setup.description.label  "Pentru activare, mergeți la Opțiunile &syncBrand.shortName.label; de celălalt dispozitiv și selectați &#x0022;Adaugă un dispozitiv&#x0022;.">
+<!ENTITY pairDevice.setup.description.label  "Pentru activare, selectați „Împerecheați un dispozitiv” de pe celălalt dispozitiv.">
 <!ENTITY addDevice.setup.enterCode.label    "Apoi introduceți acest cod:">
-<!ENTITY addDevice.dialog.description.label "Pentru a activa noul dispozitiv, mergeți la opțiunile &syncBrand.shortName.label; de pe dispozitiv și selectați &#x0022;Conectare.&#x0022;">
+<!ENTITY pairDevice.dialog.description.label "Pentru a activa noul dispozitiv, selectați „Setați sincronizarea” pe celălalt dispozitiv.">
 <!ENTITY addDevice.dialog.enterCode.label   "Introduceți codul furnizat de dispozitiv:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Vă rugăm încercați încă o dată.">
 <!ENTITY addDevice.dialog.successful.label  "The device has been successfully added. The initial synchronization can several minutes and will finish in the background.">
