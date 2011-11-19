@@ -1,0 +1,25 @@
+<!ENTITY window.title               "Editor d'estilu">
+<!ENTITY newButton.label            "Nueva">
+<!ENTITY newButton.tooltip          "Crear y axuntar al documentu una fueya d'estilu nueva">
+<!ENTITY newButton.accesskey        "N">
+<!ENTITY newButton.commandkey       "n">
+<!ENTITY importButton.label         "Importar…">
+<!ENTITY importButton.tooltip       "Importar y axuntar al documentu una fueya d'estilu esistente">
+<!ENTITY importButton.accesskey     "I">
+<!ENTITY importButton.commandkey    "i">
+<!ENTITY searchInput.tooltip        "Filtrar fueyes d'estilu por nome">
+<!ENTITY searchInput.placeholder    "Guetar fueya d'estilu">
+<!ENTITY searchNoResults.label      "Nun s'alcontró una fueya d'estilu que concase.">
+<!ENTITY searchClearButton.label    "Llimpiar">
+<!ENTITY visibilityToggle.tooltip   "Alternar visibilidá de la fueya d'estilu">
+<!ENTITY visibilityToggle.accesskey "v">
+<!ENTITY saveButton.label           "Guardar">
+<!ENTITY saveButton.tooltip         "Guardar esta fueya d'estilu nun ficheru">
+<!ENTITY saveButton.accesskey       "s">
+<!ENTITY saveButton.commandkey      "s">
+<!ENTITY scoped.label               "Ámbitu.">
+<!ENTITY editorTextbox.placeholder  "Ingresa CSS equí.">
+<!ENTITY noStyleSheet.label         "Esta páxina nun tien fueya d'estilu.">
+<!ENTITY noStyleSheet-tip-start.label  "Seique prefieras ">
+<!ENTITY noStyleSheet-tip-action.label "amestar una fueya d'estilu nueva">
+<!ENTITY noStyleSheet-tip-end.label    "?">
