@@ -107,8 +107,8 @@
 <!ENTITY newsServerNamePrefix.label "Ime poslužitelja interesnih grupa (NNTP):">
 <!ENTITY downloadOnLogin.label "Preuzmi poruke">
 <!ENTITY downloadOnLogin.accesskey "P">
-<!ENTITY deferStorageDesc.label "Isključite ovo polje kako bi spremali poštu za ovaj račun u poseban direktorij. Ovo će prikazati taj račun kao račun najviše razine. Inače će biti dio globalne primljene pošte lokalnih direktorija.">
-<!ENTITY deferStorage.label "Koristi globalnu primljenu poštu (spremaj poštu u lokalne direktorije)">
+<!ENTITY deferStorageDesc.label "Isključite ovo polje kako bi spremali poštu za ovaj račun u posebnu mapu. Ovo će prikazati taj račun kao račun najviše razine. Inače će biti dio globalne primljene pošte lokalnih direktorija.">
+<!ENTITY deferStorage.label "Koristi globalnu primljenu poštu (spremaj poštu u lokalne mape)">
 <!ENTITY deferStorage.accesskey "g">
 <!ENTITY clickFinish.label "Kliknite Završi kako bi spremili ove postavke i izašli iz čarobnjaka.">
 <!ENTITY clickFinish.labelMac "Kliknite Završi kako bi spremili ove postavke i izašli iz čarobnjaka.">
