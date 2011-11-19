@@ -87,16 +87,22 @@
 <!ENTITY showTaskbarCmd.accesskey                       "d">
 <!ENTITY customizeToolbar.label                         "Personalizar…">
 <!ENTITY customizeToolbar.accesskey                     "z">
-<!ENTITY showContactPane.label                          "Panel resumo do contacto">
-<!ENTITY showContactPane.accesskey                      "c">
+<!ENTITY layoutMenu.label                               "Deseño">
+<!ENTITY layoutMenu.accesskey                           "ñ">
+<!ENTITY showDirectoryPane.label                        "Panel de directorio">
+<!ENTITY showDirectoryPane.accesskey                    "d">
+<!ENTITY showContactPane2.label                         "Panel de contactos">
+<!ENTITY showContactPane2.accesskey                     "c">
 <!ENTITY menu_ShowNameAs.label                          "Mostrar nome como">
 <!ENTITY menu_ShowNameAs.accesskey                      "s"> 
-<!ENTITY firstLastCmd.label                             "Nome, apelido">
-<!ENTITY firstLastCmd.accesskey                         "e"> 
-<!ENTITY lastFirstCmd.label                             "Apelido, nome">
+<!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
+because displayed names don't have the comma in between. -->
+<!ENTITY firstLastCmd2.label                            "Nome e apelidos">
+<!ENTITY firstLastCmd2.accesskey                        "e"> 
+<!ENTITY lastFirstCmd.label                             "Apelidos, nome">
 <!ENTITY lastFirstCmd.accesskey                         "l">
-<!ENTITY displayNameCmd.label                           "Mostrar nome">
-<!ENTITY displayNameCmd.accesskey                       "M">
+<!ENTITY displayNameCmd.label                           "Texto de 'Mostrar'">
+<!ENTITY displayNameCmd.accesskey                       "T">
 <!ENTITY sortMenu.label                                 "Ordenar por">
 <!ENTITY sortMenu.accesskey                             "d">
 

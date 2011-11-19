@@ -41,13 +41,16 @@
 <!ENTITY continue.accesskey              "C">
 <!ENTITY stop.label                      "Deter">
 <!ENTITY stop.accesskey                  "t">
-<!-- LOCALIZATION NOTE (retest.label): This is the text that is
-     displayed on the button which will re-guess the account configuration,
-     taking into account the settings the user has changed. -->
+<!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
+     displayed on the button in manual edit mode which will re-guess
+     the account configuration, taking into account the settings that
+     the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Volver a probar">
 <!ENTITY half-manual-test.accesskey      "V">
 <!ENTITY manual-edit.label               "Configuración manual">
 <!ENTITY manual-edit.accesskey           "m">
+<!ENTITY switch-to-provisioner.label     "Obter unha nova conta">
+<!ENTITY switch-to-provisioner.accesskey "b">
 
 
 <!ENTITY warning.label                   "Aviso!">
