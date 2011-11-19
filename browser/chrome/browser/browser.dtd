@@ -110,6 +110,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "A">
 <!ENTITY fullScreenExit.label "Revenire din modul „ecran complet”">
 <!ENTITY fullScreenExit.accesskey "R">
+<!ENTITY domFullScreenWarning.label "Apasă ESC pentru a ieși din vederea pe tot ecranul">
 
 <!ENTITY closeWindow.label "Închide fereastra">
 <!ENTITY closeWindow.accesskey "d">
@@ -232,9 +233,12 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectPanelTitle.label      "HTML">
-<!ENTITY inspectButton.label          "Inspectează">
-<!ENTITY inspectButton.accesskey      "I">
+<!ENTITY inspectPanelTitle.label        "HTML">
+<!ENTITY inspectButton.label            "Inspectează">
+<!ENTITY inspectButton.accesskey        "I">
+<!ENTITY inspectCloseButton.tooltiptext "Închide inspectorul">
+<!ENTITY inspectStyleButton.label     "Stil">
+<!ENTITY inspectStyleButton.accesskey "S">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Obțineți mai multe unelte">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "m">
@@ -452,7 +456,12 @@ can reach it easily. -->
 <!ENTITY mediaHideControls.accesskey "c">
 <!ENTITY videoFullScreen.label       "Pe tot ecranul">
 <!ENTITY videoFullScreen.accesskey   "P">
-
+<!ENTITY videoSaveImage.label        "Salvează captura ca…">
+<!ENTITY videoSaveImage.accesskey    "S">
+<!ENTITY videoShowStats.label        "Arată statisticile">
+<!ENTITY videoShowStats.accesskey    "t">
+<!ENTITY videoHideStats.label        "Ascunde statisticile">
+<!ENTITY videoHideStats.accesskey    "t">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and

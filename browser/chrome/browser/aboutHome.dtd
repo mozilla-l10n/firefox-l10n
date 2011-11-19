@@ -32,3 +32,6 @@
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "Este ușor să vă personalizați Firefox exact cum doriți. <a>Alegeți din mii de suplimente</a>.">
 
+<!ENTITY abouthome.syncSetup.label   "Setați sincronizarea">
+<!ENTITY abouthome.pairDevice.label  "Împerecheați un dispozitiv">
+
