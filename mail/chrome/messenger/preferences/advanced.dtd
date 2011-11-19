@@ -75,7 +75,7 @@
 <!ENTITY showOffline.accesskey         "I">
 
 <!ENTITY Diskspace "Diskovni prostor">
-<!ENTITY offlineCompact.label "Sažmi direktorije kada se može uštedjeti više od">
+<!ENTITY offlineCompact.label "Sažmi mape kada se može uštedjeti više od">
 <!ENTITY offlineCompact.accesskey "Z">
 <!ENTITY mb.label "MB">
 

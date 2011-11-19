@@ -4,7 +4,7 @@
 <!ENTITY receiptArrive.label           "Kada potvrda stigne:">
 <!ENTITY leaveIt.label                 "Ostavi je u Primljenoj pošti">
 <!ENTITY leaveIt.accesskey             "i">
-<!ENTITY moveToSent.label              "Premjesti je direktorij &quot;Poslano&quot;">
+<!ENTITY moveToSent.label              "Premjesti je u mapu &quot;Poslana pošta&quot;">
 <!ENTITY moveToSent.accesskey          "m">
 <!ENTITY requestMDN.label              "Kada primim zahtjev za potvrdu čitanja:">
 <!ENTITY never.label                   "Nikada ne šalji potvrdu čitanja">
