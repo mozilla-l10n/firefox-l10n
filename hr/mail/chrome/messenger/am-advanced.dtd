@@ -1,23 +1,23 @@
 <!-- extracted from am-advanced.xul -->
 
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpServer.label "Outgoing Server (SMTP) Settings">
+<!ENTITY smtpServer.label "Postavke odlaznog (SMTP) poslužitelja">
 
 <!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpDesc.label "Although you can specify more than one outgoing server (SMTP), this is only recommended for advanced users. Setting up multiple SMTP servers can cause errors when sending messages.">
 
-<!ENTITY smtpListAdd.label  "Add…">
-<!ENTITY smtpListAdd.accesskey  "d">
-<!ENTITY smtpListEdit.label "Edit…">
-<!ENTITY smtpListEdit.accesskey "E">
-<!ENTITY smtpListDelete.label "Remove">
-<!ENTITY smtpListDelete.accesskey "m">
-<!ENTITY smtpListSetDefault.label "Set Default">
+<!ENTITY smtpListAdd.label  "Dodaj…">
+<!ENTITY smtpListAdd.accesskey  "D">
+<!ENTITY smtpListEdit.label "Uredi…">
+<!ENTITY smtpListEdit.accesskey "e">
+<!ENTITY smtpListDelete.label "Ukloni">
+<!ENTITY smtpListDelete.accesskey "U">
+<!ENTITY smtpListSetDefault.label "Postavi zadano">
 <!ENTITY smtpListSetDefault.accesskey "t">
 
-<!ENTITY serverDescription.label "Description: ">
-<!ENTITY serverName.label "Server Name: ">
+<!ENTITY serverDescription.label "Opis: ">
+<!ENTITY serverName.label "Ime poslužitelja: ">
 <!ENTITY serverPort.label "Port: ">
-<!ENTITY userName.label   "User Name: ">
-<!ENTITY connectionSecurity.label "Connection Security: ">
-<!ENTITY authMethod.label   "Authentication method: ">
+<!ENTITY userName.label   "Korisničko ime: ">
+<!ENTITY connectionSecurity.label "Sigurnost veze: ">
+<!ENTITY authMethod.label   "Metoda autentifikacije: ">
