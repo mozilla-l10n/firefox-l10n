@@ -117,6 +117,8 @@
 <!ENTITY deleteAllAttachmentsCmd.label    "Borrar todo…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "r">
 
+<!ENTITY openAttachment.tooltip "Abrir o ficheiro anexado">
+
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Gardar">
 <!ENTITY saveAttachmentButton1.tooltip     "Gardar o ficheiro anexado">
