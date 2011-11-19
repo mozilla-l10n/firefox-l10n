@@ -139,6 +139,8 @@
 <!ENTITY messagePaneWide.accesskey "z">
 <!ENTITY messagePaneVertical.label "Visualización vertical">
 <!ENTITY messagePaneVertical.accesskey "c">
+<!ENTITY showFolderPaneCmd.label "Panel do cartafol">
+<!ENTITY showFolderPaneCmd.accesskey "f">
 <!ENTITY showMessageCmd.label "Panel da mensaxe">
 <!ENTITY showMessageCmd.accesskey "x">
 
