@@ -1,20 +1,20 @@
-<!ENTITY junkSettings.label "Junk Settings">
-<!ENTITY trainingWarning.label "If enabled, you must first train &brandShortName; to identify junk mail by using the Junk toolbar button to mark messages as junk or not. You need to identify both junk and non junk messages.">
-<!ENTITY level.label "Enable adaptive junk mail controls for this account">
-<!ENTITY level.accesskey "E">
+<!ENTITY junkSettings.label "Postavke neželjene pošte">
+<!ENTITY trainingWarning.label "Ukoliko je omogućeno, morate prvo naučiti &brandShortName; kako prepoznati neželjenu poštu koristeći tipku Neželjena pošta na alatnoj traci kako bi označili poruku kao neželjenu ili željenu. Trebate identificirati neželjenu i željenu poštu.">
+<!ENTITY level.label "Omogući kontrolu neželjene pošte za ovaj račun">
+<!ENTITY level.accesskey "e">
 
-<!ENTITY move.label "Move new junk messages to:">
-<!ENTITY move.accesskey "M">
-<!ENTITY junkFolderOn.label "&quot;Junk&quot; folder on:">
-<!ENTITY junkFolderOn.accesskey "J">
-<!ENTITY otherFolder.label "Other:">
-<!ENTITY otherFolder.accesskey "O">
-<!ENTITY purge1.label "Automatically delete junk mail older than">
+<!ENTITY move.label "Premjesti nove poruke neželjene pošte u:">
+<!ENTITY move.accesskey "m">
+<!ENTITY junkFolderOn.label "Mapu &quot;Neželjena pošta&quot; u:">
+<!ENTITY junkFolderOn.accesskey "N">
+<!ENTITY otherFolder.label "Drugi:">
+<!ENTITY otherFolder.accesskey "r">
+<!ENTITY purge1.label "Automatski obriši neželjenu poštu stariju od">
 <!ENTITY purge1.accesskey "u">
-<!ENTITY purge2.label "days">
+<!ENTITY purge2.label "dana">
 
-<!ENTITY whitelist.label "Do not mark mail as junk if the sender is in: ">
-<!ENTITY whitelist.accesskey "D">
+<!ENTITY whitelist.label "Ne označavaj poštu kao neželjenu ako je pošiljatelj: ">
+<!ENTITY whitelist.accesskey "o">
 
-<!ENTITY ispHeaders.label "Trust junk mail headers set by: ">
-<!ENTITY ispHeaders.accesskey "T">
+<!ENTITY ispHeaders.label "Vjeruj zaglavljima neželjene pošte postavljenim od: ">
+<!ENTITY ispHeaders.accesskey "t">
