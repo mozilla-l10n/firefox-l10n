@@ -163,6 +163,10 @@
 <!ENTITY inspectCloseButton.tooltiptext "Закрыть Инспектор">
 <!ENTITY inspectStyleButton.label "Стиль">
 <!ENTITY inspectStyleButton.accesskey "и">
+<!ENTITY styleeditor.label "Редактор стилей">
+<!ENTITY styleeditor.accesskey "д">
+<!ENTITY styleeditor.keycode "VK_F7">
+<!ENTITY styleeditor.keytext "F7">
 <!ENTITY getMoreDevtoolsCmd.label "Другие инструменты">
 <!ENTITY getMoreDevtoolsCmd.accesskey "у">
 <!ENTITY fileMenu.label "Файл">
