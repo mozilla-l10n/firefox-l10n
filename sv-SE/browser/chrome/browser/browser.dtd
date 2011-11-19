@@ -251,6 +251,13 @@ can reach it easily. -->
 <!ENTITY inspectStyleButton.label     "Stil">
 <!ENTITY inspectStyleButton.accesskey "S">
 
+<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
+  -  in the Tools menu. -->
+<!ENTITY styleeditor.label            "Stileditor">
+<!ENTITY styleeditor.accesskey        "e">
+<!ENTITY styleeditor.keycode          "VK_F7">
+<!ENTITY styleeditor.keytext          "F7">
+
 <!ENTITY getMoreDevtoolsCmd.label        "Hämta fler verktyg">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "H">
 
