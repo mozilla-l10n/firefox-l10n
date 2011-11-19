@@ -3,6 +3,21 @@
 <!ENTITY muteButton.muteLabel "Mykistä ääni">
 <!ENTITY muteButton.unmuteLabel "Palauta ääni">
 
+<!ENTITY stats.media "Media">
+<!ENTITY stats.size "Koko">
+<!ENTITY stats.activity "Toiminto">
+<!ENTITY stats.activityPaused "Pysäytetty">
+<!ENTITY stats.activityPlaying "Toistetaan">
+<!ENTITY stats.activityEnded "Päättynyt">
+<!ENTITY stats.activitySeeking "(etsitään)">
+<!ENTITY stats.volume "Äänenvoimakkuus">
+<!ENTITY stats.channels "Kanavat">
+<!ENTITY stats.sampleRate "Näytteenottotaajuus">
+<!ENTITY stats.framesParsed "Ruutua jäsennetty">
+<!ENTITY stats.framesDecoded "Ruutua purettu">
+<!ENTITY stats.framesPresented "Ruutua näytetty">
+<!ENTITY stats.framesPainted "Ruutua piirretty">
+
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
