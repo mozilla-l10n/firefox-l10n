@@ -1,9 +1,9 @@
-<!ENTITY aboutSupport.appBasicsAppBuildID "Broj programske inačice">
+<!ENTITY aboutSupport.appBasicsAppBuildID "ID programske inačice">
 s
 <!ENTITY aboutSupport.accountsTitle "Računi pošte i interesnih grupa">
 <!ENTITY aboutSupport.showPrivateData.mainText "Uključi imena računa">
 <!ENTITY aboutSupport.showPrivateData.explanationText "(moguća indentifikacija na temelju ovog podatka)">
-<!ENTITY aboutSupport.accountsID "Broj">
+<!ENTITY aboutSupport.accountsID "ID">
 <!ENTITY aboutSupport.accountsName "Naziv">
 <!ENTITY aboutSupport.accountsIncomingServer "Dolazni poslužitelj">
 <!ENTITY aboutSupport.accountsOutgoingServers "Odlazni poslužitelji">
