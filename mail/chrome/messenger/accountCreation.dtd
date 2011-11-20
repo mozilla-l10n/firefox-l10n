@@ -72,11 +72,11 @@
 <!ENTITY changeSettings.label            "Promijeni postavke">
 <!ENTITY changeSettings.accesskey        "o">
 
-<!ENTITY contactYourProvider.description "&brandShortName; će vam omogućiti primanje vaše pošte koristeći dane postavke. Međutim, trebali biste kontaktirati svog administratora ili pružatelja usluge u vezi s ovim nepravilnim vezama. Pogledajte Thunderbird često postavljana pitanja za više informacija.">
+<!ENTITY contactYourProvider.description "&brandShortName; će vam omogućiti primanje vaše pošte koristeći dane postavke. Međutim, trebali biste kontaktirati svog administratora ili pružatelja usluge u vezi s ovim nepravilnim vezama. Za više informacija pogledajte često postavljana pitanja u vezi Thunderbirda.">
 
 <!ENTITY insecureServer.tooltip.title    "Upozorenje! Ovo je nesiguran poslužitelj.">
 <!ENTITY insecureServer.tooltip.details  "Kliknite na krug za više informacija.">
 
 <!ENTITY insecureUnencrypted.description "Vaša e-pošta i autentifikacija se šalju nekriptirani, tako da vašu lozinku (i vašu poruku) mogu pročitati i drugi ljudi. &brandShortName; će vam omogućiti primanje vaše pošte, ali biste trebali kontaktirati vašeg pružatelja usluge radi podešavanja poslužitelja sa sigurnom vezom.">
-<!ENTITY insecureSelfSigned.description  "Poslužitelj koristi certifikat kojem ne možemo vjerovati, ne možemo biti sigurni da netko neće presresti promet između &brandShortName;a i vašeg poslužitelja. &brandShortName; će vam omogućiti primanje vaše pošte, ali biste trebali kontaktirati vašeg pružatelja usluge radi podešavanja poslužitelja sa provjerenim certifikatom.">
+<!ENTITY insecureSelfSigned.description  "Poslužitelj koristi certifikat kojemu ne možemo vjerovati, te ne možemo biti sigurni da netko neće presresti promet između &brandShortName;a i vašeg poslužitelja. &brandShortName; će vam omogućiti primanje vaše pošte, ali biste trebali kontaktirati vašeg pružatelja usluge radi podešavanja poslužitelja s provjerenim certifikatom.">
 <!ENTITY secureServer.description        "Čestitamo! Ovo je sigurni poslužitelj.">
