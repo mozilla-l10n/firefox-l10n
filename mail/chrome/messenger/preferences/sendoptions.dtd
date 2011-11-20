@@ -5,16 +5,16 @@
 <!ENTITY askMe.accesskey              "i">
 <!ENTITY convertPlain.label           "Pretvori poruku u običan tekst">
 <!ENTITY convertPlain.accesskey       "r">
-<!ENTITY sendHTML.label               "Svejedno pošalji HTML poruku">
+<!ENTITY sendHTML.label               "Svakako pošalji HTML poruku">
 <!ENTITY sendHTML.accesskey           "S">
 <!ENTITY sendBoth.label               "Pošalji poruku kao običan tekst i HTML">
 <!ENTITY sendBoth.accesskey           "a">
-<!ENTITY override.label               "Napomena: Koristite adresar kako biste odredili željeni format teksta za primatelje.">
+<!ENTITY override.label               "Napomena: Koristite adresar kako bi odredili željeni format teksta za primatelje.">
 
-<!ENTITY domaindesc.label             "Kada šaljete poruku na adresu e-pošte na jednu od niže navedenih domena, &brandShortName; automatski šalje poruku u ispravnom formatu.">
+<!ENTITY domaindesc.label             "Kada šaljete poruku na adresu e-pošte koja sadrži jednu od niže navedenih domena, &brandShortName; automatski šalje poruku u ispravnom formatu.">
 <!ENTITY HTMLTab.label                "HTML domene">
 <!ENTITY HTMLTab.accesskey            "H">
-<!ENTITY PlainTextTab.label           "Domene običnog teksta">
+<!ENTITY PlainTextTab.label           "Obični tekst domene">
 <!ENTITY PlainTextTab.accesskey       "b">
 <!ENTITY AddHtmlDomain.label          "Dodaj…">
 <!ENTITY AddHtmlDomain.accesskey      "D">
@@ -25,7 +25,7 @@
 <!ENTITY DeletePlainText.label        "Obriši">
 <!ENTITY DeletePlainText.accesskey    "O">
 
-<!ENTITY add.htmltitle                "Dodaj domenu za HTML">
-<!ENTITY add.htmldomain               "Naziv domene za HTML:">
-<!ENTITY add.plaintexttitle           "Dodaj domenu za običan tekst">
-<!ENTITY add.plaintextdomain          "Naziv domene za običan tekst:">
+<!ENTITY add.htmltitle                "Dodaj HTML domenu">
+<!ENTITY add.htmldomain               "Naziv HTML domene:">
+<!ENTITY add.plaintexttitle           "Dodaj običan tekst domenu">
+<!ENTITY add.plaintextdomain          "Naziv običan tekst domene:">
