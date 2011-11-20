@@ -13,19 +13,19 @@
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
 <!ENTITY rights.intro-point1a "&brandShortName; vam je dostupan pod uvjetima ">
-<!ENTITY rights.intro-point1b "Mozilla Public Licence">
-<!ENTITY rights.intro-point1c ". To znači da možete koristiti, kopirati i distribuirati &brandShortName; drugima. Također ste pozvani mijenjati izvorni kod &brandShortName; kako god želite. Mozilla Public Licenca vam daje pravo distribucije izmijenjenih inačica.">
+<!ENTITY rights.intro-point1b "Mozilla Public licence">
+<!ENTITY rights.intro-point1c ". To znači da možete koristiti, kopirati i distribuirati &brandShortName; drugima. Također ste pozvani mijenjati izvorni kod &brandShortName; kako god želite. Mozilla Public licenca vam daje pravo distribucije izmijenjenih inačica.">
 
-<!ENTITY rights.intro-point2a "Mozilla vam ne daje nikakva prava na Mozilla i Firefox zaštićene oznaka, pa ni na logotipe. Dodatne informacije o zaštićenim oznakama možete naći ">
+<!ENTITY rights.intro-point2a "Nisu vam odobrena nikakva prava na Mozilla i Firefox zaštitne znakove ili logo. Dodatne informacije o zaštitnim znacima možete naći ">
 <!ENTITY rights.intro-point2b "ovdje">
 <!ENTITY rights.intro-point2c ".">
 
-<!ENTITY rights.intro-point2-a "Nisu vam odogrena nikakva prava na zaštitni znak ili licenciranje zaštitnih znakova Mozilla fundacije ili bilo kojih drugih strana, uključujući, ali ne i ograničeno na, ime Firefox ili logo. Dodatne informacije o zaštitnim znacima možete naći ">
+<!ENTITY rights.intro-point2-a "Nisu vam odobrena nikakva prava na zaštitni znak ili licenciranje zaštitnih znakova Mozilla fundacije ili bilo kojih drugih strana, uključujući, ali ne i ograničeno na, ime Firefox ili logo. Dodatne informacije o zaštitnim znacima možete naći ">
 <!ENTITY rights.intro-point2-b "ovdje">
 <!ENTITY rights.intro-point2-c ".">
 
 <!-- point 2.5 text for official branded builds -->
-<!ENTITY rights.intro-point2.5 "Some features in &brandShortName;, such as the Crash Reporter, give you the option to provide feedback to &vendorShortName;. By choosing to submit feedback, you give &vendorShortName; permission to use the feedback to improve its products, to publish the feedback on its websites, and to distribute the feedback.">
+<!ENTITY rights.intro-point2.5 "Neke mogućnosti u &brandShortName;, poput izvjestitelja o rušenjima, nude vam izbor slanja povratnih informacija na &vendorShortName;. Odabirom slanja povratnih informacija, automatski dopuštate da &vendorShortName; iskoristi vaše informacije za unaprijeđenje svojih proizoda, objavi informacije na svojim web stranicama i to distribuira vaše povratne informacije.">
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights.intro-point3a "Pravila privatnosti za proizvode &vendorShortName; možete naći ">
