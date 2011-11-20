@@ -25,7 +25,7 @@
 <!ENTITY DeletePlainText.label        "Obriši">
 <!ENTITY DeletePlainText.accesskey    "O">
 
-<!ENTITY add.htmltitle                "Dodaj HTML domenu">
-<!ENTITY add.htmldomain               "Naziv HTML domene:">
-<!ENTITY add.plaintexttitle           "Dodaj domenu običanog teksta">
-<!ENTITY add.plaintextdomain          "Naziv domene običanog teksta:">
+<!ENTITY add.htmltitle                "Dodaj domenu za HTML">
+<!ENTITY add.htmldomain               "Naziv domene za HTML:">
+<!ENTITY add.plaintexttitle           "Dodaj domenu za običan tekst">
+<!ENTITY add.plaintextdomain          "Naziv domene za običan tekst:">
