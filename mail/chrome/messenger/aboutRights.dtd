@@ -13,8 +13,8 @@
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
 <!ENTITY rights.intro-point1a "&brandShortName; vam je dostupan pod uvjetima ">
-<!ENTITY rights.intro-point1b "Mozilla Public Licence">
-<!ENTITY rights.intro-point1c ". To znači da možete koristiti, kopirati i distribuirati &brandShortName; drugima.  Također ste pozvani mijenjati izvorni kod &brandShortName; kako god želite. Mozilla Public Licenca vam daje pravo distribucije izmijenjenih inačica.">
+<!ENTITY rights.intro-point1b "Mozilla Public licence">
+<!ENTITY rights.intro-point1c ". To znači da možete koristiti, kopirati i distribuirati &brandShortName; drugima.  Također ste pozvani mijenjati izvorni kod &brandShortName; kako god želite. Mozilla Public licenca vam daje pravo distribucije izmijenjenih inačica.">
 
 <!ENTITY rights.intro-point2a "Nisu vam odobrena nikakva prava na Mozilla i Thunderbird zaštitne znakove ili logo. Dodatne informacije o zaštitnim znacima možete naći ">
 <!ENTITY rights.intro-point2b "ovdje">
@@ -34,9 +34,9 @@
 <!ENTITY rights.intro-point4c ".">
 
 <!-- point 4 text for unbranded builds -->
-<!ENTITY rights.intro-point4a-unbranded "If this product incorporates web services, any applicable service terms for the service(s) should be linked to the ">
-<!ENTITY rights.intro-point4b-unbranded "Web Site Services">
-<!ENTITY rights.intro-point4c-unbranded " section.">
+<!ENTITY rights.intro-point4a-unbranded "Ako ova proizvod sadrži web servise, bilo kakvi primjenjivi uvjeti korištenja tih servisa trebaju biti povezani s ">
+<!ENTITY rights.intro-point4b-unbranded "Servisi web stranica">
+<!ENTITY rights.intro-point4c-unbranded " dijelom.">
 
 <!ENTITY rights.webservices-header "&brandFullName; informacijske usluge na webu">
 
@@ -52,15 +52,15 @@
 <!ENTITY rights.webservices-e " i uklonite oznaku na &quot;Automatski provjeri dostupne dopune za&quot;.">
 
 <!-- intro paragraph for unbranded builds -->
-<!ENTITY rights.webservices-unbranded "An overview of the web site services the product incorporates, along with instructions on how to disable them, if applicable, should be included here.">
+<!ENTITY rights.webservices-unbranded "Pregled servisa web stranica koje proizvod sadrži, zajedno s uputama kako ih onemogućiti, ako su primijenjive, trebaju biti uključene ovdje.">
 
 <!-- point 1 text for unbranded builds -->
-<!ENTITY rights.webservices-term1-unbranded "Any applicable service terms for this product should be listed here.">
+<!ENTITY rights.webservices-term1-unbranded "Bilo kakvi primjenjivi uvjeti servisa za ovaj proizvod trebali bi biti navedeni ovdje.">
 
 <!-- points 1-7 text for branded builds -->
 <!ENTITY rights.webservices-term1 "&vendorShortName; može ukinuti ili promijeniti uslugu prema vlastitom nahođenju.">
-<!ENTITY rights.webservices-term2 "Uz danu inačicu &brandShortName;a slobodni ste koristiti ove usluge i imate sva prava koja su potreba za to.  &vendorShortName; i njezini pružatelji licence zadržavaju sva ostala prava u uslugama.  Ovi uvjeti nisu namjenjeni ograničavanju vaših prava danih u licencama otvorenog kôda koje se primjenjuju na &brandShortName; i odgovarajući izvorni kôd &brandShortName;a.">
-<!ENTITY rights.webservices-term3 "Usluge su pružene &quot;kakve jesu.&quot;  &vendorShortName;, njegovi razvijatelji, vlasnici licenca i distributeri, poriču sva jamstva, izražena ili podrazumijevana, uključujući bez ograničenja, jamstva da su usluge uporabljive kvalitete i da su primjenjive vašim potrebama. Snosite cijeli rizik odabira Usluga za svoje potrebe i kvalitete i performanse Usluga. Neki entiteti ne dozvoljavaju izuzeće ili ograničavanje podrazumijevanih jamstava, pa se ovo odricanje možda ne primjenjuje i na vas.">
+<!ENTITY rights.webservices-term2 "Uz danu inačicu &brandShortName;a slobodni ste koristiti ove usluge i imate sva prava koja su potrebna za to.  &vendorShortName; i njezini pružatelji licence zadržavaju sva ostala prava u uslugama.  Ovi uvjeti nisu namijenjeni ograničavanju vaših prava danih u licencama otvorenog kôda koje se primjenjuju nad &brandShortName;om i odgovarajući izvorni kôd &brandShortName;a.">
+<!ENTITY rights.webservices-term3 "Usluge su pružane &quot;kakve jesu.&quot;  &vendorShortName;, njegovi razvijatelji, vlasnici licenca i distributeri, poriču sva jamstva, izražena ili podrazumijevana, uključujući bez ograničenja, jamstva da su usluge uporabljive kvalitete i da su primijenjive vašim potrebama. Snosite cijeli rizik odabira Usluga za svoje potrebe i kvalitete i performanse Usluga. Neki entiteti ne dozvoljavaju izuzeće ili ograničavanje podrazumijevanih jamstava, pa se ovo odricanje možda ne primjenjuje i na vas.">
 <!ENTITY rights.webservices-term4 "Osim kada to zahtijeva zakon, &vendorShortName;, njegovi razvijatelji, vlasnici licenca i distributeri neće biti odgovorni za nikakvu indirektnu, posebnu, slučajnu, posljedičnu, kaznenu ili primjernu štetu nastalu od ili na bilo koji način povezano uz uporabu &brandShortName;a i njegovih Usluga.  Ukupna odgovornost pod ovim uvjetima neće prelaziti $500 (pet stotina dolara). Neki entiteti ne dozvoljavaju izuzeće ili ograničavanje podrazumijevanih jamstava, pa se ovo odricanje možda ne primjenjuje i na vas.">
 <!ENTITY rights.webservices-term5 "&vendorShortName; može izmijeniti ove uvjete s vremena na vrijeme, ukoliko je to potrebno. Ovi se uvjeti ne mogu promijeniti ili ukinuti bez pisanog sporazuma s &vendorShortName;.">
 <!ENTITY rights.webservices-term6 "Ovi uvjeti su pokriveni zakonima države Kalifornija, SAD, izuzimajući je iz konflikata u zakonskim propisima. Ako je bilo koji dio ovih uvjeta nevaljan ili neprimijenjiv, preostali dio ostaje u punoj snazi i djelovanju. U slučaju konflikta između prevedene verzija ovih uvjeta i verzije na engleskom jeziku, verzija na engleskom jeziku je primijenjiva.">
