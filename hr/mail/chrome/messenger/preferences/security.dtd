@@ -39,7 +39,7 @@
 <!ENTITY savedPasswords.accesskey       "S">
 
 <!-- Anti Virus -->
-<!ENTITY antiVirus.intro      "&brandShortName; može olakšati antivirusnim programima analizu primljenih poruka e-pošte za viruse prije nego se pohrane lokalno.">
+<!ENTITY antiVirus.intro      "&brandShortName; može olakšati antivirusnim programima analizu primljenih poruka e-pošte na viruse prije nego se pohrane lokalno.">
 <!ENTITY antiVirus.label      "Dozvoli antivirusnim programima da izoliraju pojedine primljene poruke">
 <!ENTITY antiVirus.accesskey  "a">
 
