@@ -47,6 +47,13 @@
 <!ENTITY webDeveloperMenu.label       "Tīmekļa izstrādātājs">
 <!ENTITY webDeveloperMenu.accesskey   "T">
 
+<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
+  -  in the Tools menu. -->
+<!ENTITY styleeditor.label            "Stila redaktors">
+<!ENTITY styleeditor.accesskey        "l">
+<!ENTITY styleeditor.keycode          "VK_F7">
+<!ENTITY styleeditor.keytext          "F7">
+
 <!ENTITY bookmarksMenuButton.unsorted.label "Nešķirotās grāmatzīmes">
 <!ENTITY bookmarkAllTabs.label "Saglabāt visas cilnes grāmatzīmēs...">
 <!ENTITY bookmarkAllTabs.accesskey "T">
