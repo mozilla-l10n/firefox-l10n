@@ -35,7 +35,6 @@
 <!ENTITY  showCookies.label             "Montri kuketojn…">
 <!ENTITY  showCookies.accesskey         "M">
 
-
 <!ENTITY  historyHeader.pre.label          "&brandShortName; :">
 <!ENTITY  historyHeader.pre.accesskey      "F">
 <!ENTITY  historyHeader.remember.label     "memoros historion">

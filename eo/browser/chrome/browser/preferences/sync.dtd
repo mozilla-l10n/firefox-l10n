@@ -13,11 +13,11 @@
 <!ENTITY manageAccount.label          "Administri konton">
 <!ENTITY manageAccount.accesskey      "A">
 <!ENTITY viewQuota.label              "Montri limigon de spaco">
-<!ENTITY changePassword2.label         "Ŝanĝi pasvorton…">
+<!ENTITY changePassword2.label        "Ŝanĝi pasvorton…">
 <!ENTITY myRecoveryKey.label          "Mia reakira ŝlosilo">
-<!ENTITY resetSync2.label              "Rekomenci speguladon…">
+<!ENTITY resetSync2.label             "Rekomenci speguladon…">
 
-<!ENTITY addDevice.label              "Aldoni aparaton">
+<!ENTITY pairDevice.label             "Pair a Device">
 
 <!ENTITY syncMy.label               "Speguli miajn">
 <!ENTITY engine.bookmarks.label     "legosignojn">
