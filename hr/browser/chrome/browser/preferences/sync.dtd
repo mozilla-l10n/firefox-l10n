@@ -16,7 +16,8 @@
 <!ENTITY changePassword2.label        "Promjena lozinke…">
 <!ENTITY myRecoveryKey.label          "Moj ključ popravka">
 <!ENTITY resetSync2.label             "Resetiranje Synca…">
-<!ENTITY addDevice.label              "Dodaj uređaj">
+
+<!ENTITY pairDevice.label             "Upari uređaj">
 
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label       "Naziv računala:">
