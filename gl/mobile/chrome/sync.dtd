@@ -19,7 +19,7 @@
 <!ENTITY sync.setup.connect         "Conectar">
 <!ENTITY sync.setup.cancel          "Cancelar">
 <!ENTITY sync.setup.tutorial        "Móstreme como">
-<!ENTITY sync.setup.waiting         "Asociación en progreso…">
+<!ENTITY sync.setup.waiting2        "Esperando polo outro dispositivo…">
 
 <!ENTITY sync.pair.title            "Asociar un dispositivo">
 <!ENTITY sync.pair.description      "Para activar o novo dispositivo, seleccione &#x0022;Configurar sincronización&#x0022; no dispositivo.">
