@@ -4,12 +4,11 @@
 
 <!ENTITY setup.pickSetupType.description "Dobrodošli. Ako nikada niste koristili &syncBrand.fullName.label;, trebat ćete otvoriti novi korisnički račun.">
 <!ENTITY button.createNewAccount.label "Otvori novi korisnički račun">
+<!ENTITY button.haveAccount.label      "Već imam korisnički račun">
 
 <!ENTITY setup.choicePage.title.label     "Jeste li već koristili &syncBrand.fullName.label;?">
 <!ENTITY setup.choicePage.new.label       "Nikad nisam koristio/la &syncBrand.shortName.label;">
 <!ENTITY setup.choicePage.existing.label  "Već koristim &syncBrand.shortName.label; na drugom računalu">
-<!ENTITY setup.haveAccount.label "Već imam &syncBrand.fullName.label; korisnički račun.">
-<!ENTITY button.connect.label    "Povezivanje">
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Poslužitelj">
@@ -55,9 +54,6 @@
 <!ENTITY button.syncKeyBackup.save.label      "Spremi…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
 
-<!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "Molim potvrdite da niste robot">
-
 <!-- Existing Account Page 1: Login -->
 <!ENTITY resetPassword.label          "Resetiraj lozinku">
 
@@ -101,15 +97,16 @@
 <!ENTITY continueUsing.label "Možete nastaviti koristiti &brandShortName;.">
 
 
-<!ENTITY addDevice.dialog.description.label "Da biste aktivirali novi uređaj, otvorite &syncBrand.shortName.label; Mogućnosti na novom uređaju i odaberite &#x0022;Povezivanje.&#x0022;">
 <!ENTITY addDevice.dialog.enterCode.label   "Upišite kôd kojeg Vam uređaj javi:">
 <!ENTITY addDevice.dialog.recoveryKey.label "Da biste aktivirali svoj uređaj, trebate upisati ključ popravka. Ispišite ili spremite ovaj ključ, te ga ponesite sa sobom.">
 <!ENTITY addDevice.dialog.successful.label  "Uređaj je uspješno dodan. Inicijalna sinkronizacija može potrajati nekoliko minuta i dovršit će se u pozadini.">
 <!ENTITY addDevice.dialog.tryAgain.label    "Molim pokušajte ponovno.">
 <!ENTITY addDevice.dontHaveDevice.label     "Nemam uređaj sa sobom">
-<!ENTITY addDevice.setup.description.label  "Da biste aktivirali, otvorite &syncBrand.shortName.label; Mogućnosti na vašem drugom uređaju i odaberite  &#x0022;Dodavanje uređaja&#x0022;.">
 <!ENTITY addDevice.setup.enterCode.label    "Zatim upišite ovaj kôd:">
 <!ENTITY addDevice.showMeHow.label          "Pokažite mi kako.">
-<!ENTITY addDevice.title.label              "Dodavanje uređaja">
 <!ENTITY addDevice.dialog.connected.label   "Uređaj spojen">
 <!ENTITY setup.signInPage.title.label "Prijava">
+
+<!ENTITY pairDevice.title.label             "Upari uređaj">
+<!ENTITY pairDevice.setup.description.label  "Da biste aktivirali, odaberite &#x0022;Upari uređaj&#x0022; na svojem uređaju.">
+<!ENTITY pairDevice.dialog.description.label "Da biste aktivirali vaš novi uređaj, odaberite &#x0022;Podesi sync&#x0022; na vašem uređaju.">
