@@ -10,12 +10,13 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "T">
-<!ENTITY newContact.label "Caraid ann an leabhar nan seòladh…">
-<!ENTITY newContact.accesskey "C">
+<!ENTITY newContact.label "Neach-aithne ann an leabhar nan seòladh…">
+<!ENTITY newContact.accesskey "e">
 <!ENTITY attachMenu.label "Cuir ris">
 <!ENTITY attachMenu.accesskey "C">
-<!ENTITY attachFileCmd.label "Faidhle/Faidhlichean…">
+<!ENTITY attachFileCmd.label "Faidhl(ichean)…">
 <!ENTITY attachFileCmd.accesskey "F">
+<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachPageCmd.label "Duilleag-lìn…">
 <!ENTITY attachPageCmd.accesskey "D">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -103,7 +104,7 @@
 <!ENTITY customizeToolbar.label "Gnàthaich…">
 <!ENTITY customizeToolbar.accesskey "c">
 
-<!ENTITY addressSidebar.label "Bàr-taoibh nan caraidean"> 
+<!ENTITY addressSidebar.label "Bàr-taoibh an luchd-aithne"> 
 <!ENTITY addressSidebar.accesskey "o"> 
 
 <!-- Format Menu -->
@@ -184,7 +185,7 @@
 <!-- Mail Toolbar -->
 <!ENTITY sendButton.label "Cuir">
 <!ENTITY quoteButton.label "Thoir luaidh">
-<!ENTITY addressButton.label "Caraidean">
+<!ENTITY addressButton.label "Luchd-aithne">
 <!ENTITY attachButton.label "Cuir ris">
 <!ENTITY spellingButton.label "Litreachadh">
 <!ENTITY saveButton.label "Sàbhail">
@@ -275,5 +276,5 @@
 <!ENTITY spellAddDictionaries.accesskey "a">
 
 <!-- Title for the address picker panel -->
-<!ENTITY addressesSidebarTitle.label "Caraidean">
+<!ENTITY addressesSidebarTitle.label "Luchd-aithne">
 
