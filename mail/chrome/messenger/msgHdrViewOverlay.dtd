@@ -117,6 +117,8 @@
 <!ENTITY deleteAllAttachmentsCmd.label    "Sguab às a h-uile…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
 
+<!ENTITY openAttachment.tooltip "Fosgail am faidhle a tha ris">
+
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Sàbhail">
 <!ENTITY saveAttachmentButton1.tooltip     "Sàbhail am faidhle a tha ris">
