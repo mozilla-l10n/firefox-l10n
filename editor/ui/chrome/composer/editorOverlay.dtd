@@ -42,36 +42,7 @@
 
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
-<!-- File menu items -->
-<!ENTITY fileMenu.label "Faidhle">
-<!ENTITY fileMenu.accesskey "F">
-<!ENTITY openFileCmd.label "Fosgail faidhle…">
-<!ENTITY openFileCmd.accesskey "o">
-<!ENTITY openFileCmd.key "O">
-<!ENTITY openRemoteCmd.label "Fosgail seòladh-lìn…">
-<!ENTITY openRemoteCmd.accesskey "l">
-<!ENTITY openRemoteCmd.key "L">
-<!ENTITY fileRecentMenu.label "Duilleagan faisg ort">
-<!ENTITY fileRecentMenu.accesskey "r">
-<!ENTITY fileRevert.label "Aisig">
-<!ENTITY fileRevert.accesskey "A">
-<!ENTITY saveCmd.label "Sàbhail">
-<!ENTITY saveCmd.accesskey "S">
-<!ENTITY saveCmd.key "S">
-<!ENTITY saveAsCmd.label "Sàbhail mar…">
-<!ENTITY saveAsCmd.accesskey "a">
-
-<!ENTITY publishCmd.label "Foillsich">
-<!ENTITY publishCmd.accesskey "F">
-<!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "Foillsich mar…">
-<!ENTITY publishAsCmd.accesskey "h">
-<!ENTITY saveAsChangeEncodingCmd.label "Sàbhail is atharraich còdachadh nan caractairean">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "e">
-
 <!-- Edit menu items -->
-<!ENTITY editMenu.label "Deasaich">
-<!ENTITY editMenu.accesskey "e">
 <!ENTITY pasteNoFormatting.label "Cuir ann gun fhòrmatadh">
 <!ENTITY pasteNoFormatting.accesskey "C">
 <!ENTITY pasteNoFormatting.key "V">
@@ -210,7 +181,7 @@
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Thoir air falbh acairean ainmichte">
 <!ENTITY formatRemoveNamedAnchors.accesskey "r">
-<!ENTITY formatRemoveNamedAnchors.key "A">
+<!ENTITY formatRemoveNamedAnchors2.key "R">
 
 <!ENTITY paragraphMenu.label "Paragraf">
 <!ENTITY paragraphMenu.accesskey "P">
