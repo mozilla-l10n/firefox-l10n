@@ -44,8 +44,7 @@
 <!ENTITY setup.newRecoveryKeyPage.description.label "Para asegurar plenamente a súa privacidade, todos os datos cífranse antes de subilos ao servidor. A chave de recuperación que se precisa para descifralos non se envía.">
 <!ENTITY recoveryKeyEntry.label        "A súa chave de recuperación">
 <!ENTITY recoveryKeyEntry.accesskey    "h">
-<!ENTITY recoveryKeyGenerate.label     "Xerar">
-<!ENTITY recoveryKeyGenerate.accesskey "X">
+<!ENTITY recoveryGenerateNewKey.label  "Xerar unha nova chave">
 <!ENTITY recoveryKeyBackup.description "Requírese a súa chave de recuperación para acceder ao &syncBrand.fullName.label; noutras máquinas. Cree unha copia de seguranza. Non é posíbel que lle axudemos a recuperar a súa chave de recuperación.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Imprimir…">
