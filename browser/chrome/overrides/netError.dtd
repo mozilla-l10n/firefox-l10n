@@ -42,17 +42,6 @@
 </ul>
 ">
 
-<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
-     indicate that "Work Offline" is a menu item without being too specific,
-     since it could be in either the normal menu (Mac/Linux) or the Firefox button
-     menu (Windows).
--->
-<!ENTITY netOffline.overrideLongDesc "
-<ul>
-  <li>Isključite opciju &quot;Izvanmrežni rad&quot; i pokušajte ponovno.</li>
-</ul>
-">
-
 <!ENTITY contentEncodingError.title "Greška kodiranja sadržaja">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
@@ -69,6 +58,9 @@
 
 <!ENTITY netReset.title "Veza je prekinuta">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
+
+<!ENTITY notCached.title "Dokument je istekao">
+<!ENTITY notCached.longDesc "<p>Traženi dokument nije dostupan u &brandShortName;ovoj priručnoj memoriji.</p><ul><li>. Radi mjere sigurnosti, &brandShortName; neće automatski ponovno zatražiti osjetljive dokumente.</li><li>Kliknite na Pokušaj ponovno da biste zatražili dokument od web stranice.</li></ul>">
 
 <!ENTITY netTimeout.title "Vezi je isteklo vrijeme">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
@@ -140,18 +132,6 @@ može biti privremena, pa možete pokušati ponovno kasnije.</li>
 <!ENTITY securityOverride.linkText "Ili možete dodati iznimku…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Izvuci me odavdje!">
 <!ENTITY securityOverride.exceptionButtonLabel "Dodaj iznimku…">
-
-<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
-contents of the <xul:button> tags.  The only language content is the label= field,
-which uses strings already defined above. The button is included here (instead of
-netError.xhtml) because it exposes functionality specific to firefox. -->
-
-<!ENTITY securityOverride.warningText "
-<p>Ne biste trebali dodavati iznimke ako koristite internet vezu kojoj ne vjerujete u postpunosti ili ako niste prije viđali ovo upozorenje na ovom poslužitelju.</p>
-
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='getMeOutOfHereButton' label='&securityOverride.getMeOutOfHereButton;'/>
-<xul:button xmlns:xul='http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul' id='exceptionDialogButton' label='&securityOverride.exceptionButtonLabel;'/>
-">
 
 <!ENTITY corruptedContentError.title "Greška oštećenog sadržajaCorrupted Content Error">
 <!ENTITY corruptedContentError.longDesc "<p>Stranicu kojoj pokušavate pristupiti nije moguće prikazati zbog greške u prijenosu podataka.</p><ul><li>Obavijestite vlasnike web stranice o ovom problemu.</li></ul>">
