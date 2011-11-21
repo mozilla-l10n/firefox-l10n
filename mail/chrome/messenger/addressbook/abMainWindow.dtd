@@ -5,7 +5,7 @@
 <!ENTITY fileMenu.accesskey                             "F">
 <!ENTITY newMenu.label                                  "Ùr">
 <!ENTITY newMenu.accesskey                              "Ù">
-<!ENTITY newContact.label                               "Caraid ann an leabhar nan seòladh…">
+<!ENTITY newContact.label                               "Neach-aithne ann an leabhar nan seòladh…">
 <!ENTITY newContact.accesskey                           "C">
 <!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.label                               "Liosta puist…">
@@ -29,7 +29,7 @@
 <!ENTITY printPreviewContactCmd.accesskey               "R">
 <!ENTITY printPreviewAddressBook.label                  "Ro-shealladh clò-bhualaidh de leabhar nan seòladh">
 <!ENTITY printPreviewAddressBook.accesskey              "b">
-<!ENTITY printContactCmd.label                          "Clò-bhuail caraid…">
+<!ENTITY printContactCmd.label                          "Clò-bhuail neach-aithne…">
 <!ENTITY printContactCmd.accesskey                      "C">
 <!ENTITY printContactCmd.key                            "P">
 <!ENTITY printAddressBook.label                         "Clò-bhuail leabhar nan seòladh…">
@@ -57,7 +57,7 @@
 <!ENTITY deleteCmd.accesskey                            "S">
 <!ENTITY deleteAbCmd.label                              "Sguab às leabhar nan seòladh">
 <!ENTITY deleteContactCmd.label                         "Sguab às a' charaid">
-<!ENTITY deleteContactsCmd.label                        "Sguab às caraidean">
+<!ENTITY deleteContactsCmd.label                        "Sguab às luchd-aithne">
 <!ENTITY deleteListCmd.label                            "Sguab às liosta">
 <!ENTITY deleteListsCmd.label                           "Sguab às liostaichean">
 <!ENTITY deleteItemsCmd.label                           "Sguab às rudan">
@@ -87,13 +87,19 @@
 <!ENTITY showTaskbarCmd.accesskey                       "s">
 <!ENTITY customizeToolbar.label                         "Gnàthaich…">
 <!ENTITY customizeToolbar.accesskey                     "c">
-<!ENTITY showContactPane.label                          "Gearr-chunntas na caraide">
-<!ENTITY showContactPane.accesskey                      "c">
+<!ENTITY layoutMenu.label                               "Co-dhealbhachd">
+<!ENTITY layoutMenu.accesskey                           "d">
+<!ENTITY showDirectoryPane.label                        "Leòsan an eòlaire">
+<!ENTITY showDirectoryPane.accesskey                    "L">
+<!ENTITY showContactPane2.label                         "Leòsan an neach-aithne">
+<!ENTITY showContactPane2.accesskey                     "e">
 <!ENTITY menu_ShowNameAs.label                          "Seall an t-ainm mar seo">
 <!ENTITY menu_ShowNameAs.accesskey                      "n"> 
-<!ENTITY firstLastCmd.label                             "Ainm, sloinneadh">
-<!ENTITY firstLastCmd.accesskey                         "A"> 
-<!ENTITY lastFirstCmd.label                             "Sloinneadh, ainm">
+<!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
+because displayed names don't have the comma in between. -->
+<!ENTITY firstLastCmd2.label                             "Ainm Sloinneadh">
+<!ENTITY firstLastCmd2.accesskey                         "A"> 
+<!ENTITY lastFirstCmd.label                             "Sloinneadh, Ainm">
 <!ENTITY lastFirstCmd.accesskey                         "l">
 <!ENTITY displayNameCmd.label                           "Ainm-taisbeanaidh">
 <!ENTITY displayNameCmd.accesskey                       "d">
@@ -118,8 +124,8 @@
 <!ENTITY preferencesCmdUnix.accesskey                   "n">
 
 <!-- Address Book Toolbar and Context Menus -->  
-<!ENTITY newContactButton.label                         "Caraid ùr">
-<!ENTITY newContactButton.accesskey                     "C">
+<!ENTITY newContactButton.label                         "Neach-aithne ùr">
+<!ENTITY newContactButton.accesskey                     "N">
 <!ENTITY newlistButton.label                            "Liosta ùr">
 <!ENTITY newlistButton.accesskey                        "L">
 <!ENTITY editButton2.label                              "Roghainnean">
@@ -132,7 +138,7 @@
 <!ENTITY deleteButton2.accesskey                        "S">
 
 <!-- Address Book Toolbar Tooltips -->
-<!ENTITY newContactButton.tooltip                       "Cruthaich caraid ùr ann an leabhar nan seòladh">
+<!ENTITY newContactButton.tooltip                       "Cruthaich neach-aithne ùr ann an leabhar nan seòladh">
 <!ENTITY newlistButton.tooltip                          "Cruthaich liosta ùr">
 <!ENTITY editButton2.tooltip                            "Deasaich an rud a thagh thu">
 <!ENTITY newmsgButton.tooltip                           "Cuir teachdaireachd puist">
@@ -185,7 +191,7 @@
 
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
-<!ENTITY contact.heading                                "Caraid">
+<!ENTITY contact.heading                                "Neach-aithne">
 <!ENTITY home.heading                                   "Dachaigh">
 <!ENTITY other.heading                                  "Eile">
 <!ENTITY phone.heading                                  "Fòn">

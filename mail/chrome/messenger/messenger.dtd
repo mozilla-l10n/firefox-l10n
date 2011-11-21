@@ -26,8 +26,10 @@
 <!ENTITY newVirtualFolderCmd.accesskey "s">
 <!ENTITY newOtherAccountsCmd.label "Cunntasan eile…">
 <!ENTITY newOtherAccountsCmd.accesskey "C">
-<!ENTITY newEmailAccountCmd.label "Cunntas puist…">
-<!ENTITY newEmailAccountCmd.accesskey "a">
+<!ENTITY newCreateEmailAccountCmd.label "Faigh cunntas puist ùr…">
+<!ENTITY newCreateEmailAccountCmd.accesskey "a">
+<!ENTITY newExistingEmailAccountCmd.label "Cunntas puist a tha agad mu thràth…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "u">
 <!ENTITY openMessageFileCmd.label "Fosgail teachdaireachd a chaidh a shàbhaladh…">
 <!ENTITY openMessageFileCmd.accesskey "o">
 <!ENTITY openAttachmentCmd.label "Ceanglachain">
@@ -137,7 +139,9 @@
 <!ENTITY messagePaneWide.accesskey "A">
 <!ENTITY messagePaneVertical.label "Sealladh inghearach">
 <!ENTITY messagePaneVertical.accesskey "S">
-<!ENTITY showMessageCmd.label "Leòs na teachdaireachd">
+<!ENTITY showFolderPaneCmd.label "Leòsan nam pasgan">
+<!ENTITY showFolderPaneCmd.accesskey "m">
+<!ENTITY showMessageCmd.label "Leòsan na teachdaireachd">
 <!ENTITY showMessageCmd.accesskey "L">
 
 <!ENTITY folderView.label "Pasgain">
@@ -807,9 +811,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY AddToAddressBook.accesskey "b">
 <!ENTITY AddDirectlyToAddressBook.label "Cuir ri leabhar nan seòladh">
 <!ENTITY AddDirectlyToAddressBook.accesskey "b">
-<!ENTITY EditContact.label "Deasaich a' charaid…">
+<!ENTITY EditContact.label "Deasaich an neach-aithne…">
 <!ENTITY EditContact.accesskey "e">
-<!ENTITY ViewContact.label "Seall a' charaid">
+<!ENTITY ViewContact.label "Seall an neach-aithne">
 <!ENTITY ViewContact.accesskey "S">
 <!ENTITY SubscribeToNewsgroup.label "Fo-sgrìobh gun bhuidheann-naidheachd">
 <!ENTITY SubscribeToNewsgroup.accesskey "n">
