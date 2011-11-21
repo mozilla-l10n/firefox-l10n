@@ -4,8 +4,7 @@
 
 <!ENTITY setup.pickSetupType.description "Bonvenon, se vi neniam antaŭe uzis &syncBrand.fullName.label; vi bezonos krei konton.">
 <!ENTITY button.createNewAccount.label "Krei novan konton">
-<!ENTITY setup.haveAccount.label "Mi jam havas &syncBrand.fullName.label; konton.">
-<!ENTITY button.connect.label    "Konekti">
+<!ENTITY button.haveAccount.label      "I Have an Account">
 
 <!ENTITY setup.choicePage.title.label     "Ĉu vi uzis &syncBrand.fullName.label; antaŭe?">
 <!ENTITY setup.choicePage.new.label       "Mi neniam antaŭe uzis &syncBrand.shortName.label;">
@@ -28,9 +27,8 @@
 <!ENTITY setup.emailAddress.accesskey "A">
 <!ENTITY setup.choosePassword.label      "Tajpu pasvorton">
 <!ENTITY setup.choosePassword.accesskey  "t">
-<!ENTITY setup.confirmPassword.label  "Konfirmu pasvorton">
-<!ENTITY setup.confirmPassword.accesskey  "k">
-
+<!ENTITY setup.confirmPassword.label     "Konfirmu pasvorton">
+<!ENTITY setup.confirmPassword.accesskey "k">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
 <!ENTITY setup.tosAgree1.label      "Mi akceptas la">
@@ -41,7 +39,7 @@
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 
-<!-- New Account Page 2: Sync Key -->
+<!-- My Recovery Key dialog -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; zorgas pri via privateco">
 <!ENTITY setup.newRecoveryKeyPage.description.label "Por certigi tutan privatecon ĉiuj viaj datumoj estas ĉifritaj antaŭ ol alŝuti ilin. La reakira ŝlosilo, kiu estas bezonata por malĉifri viajn datumon, ne estas alŝutita.">
 <!ENTITY recoveryKeyEntry.label        "Via reakira ŝlosilo">
@@ -54,15 +52,13 @@
 <!ENTITY button.syncKeyBackup.save.label      "Konservi…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "K">
 
-<!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "Bonvolu konfirmi ke vi ne estas roboto">
-<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "Aldoni aparaton">
+<!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
+<!ENTITY pairDevice.title.label             "Pair a Device">
 <!ENTITY addDevice.showMeHow.label          "Montri al mi kiel fari tion.">
 <!ENTITY addDevice.dontHaveDevice.label     "Mi ne havas la aparaton kun mi">
-<!ENTITY addDevice.setup.description.label  "Por aktivigi, iru al Opcioj de &syncBrand.shortName.label; en via alia aparato kaj elektu &#x0022;Aldoni aparaton&#x0022;.">
+<!ENTITY pairDevice.setup.description.label  "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
 <!ENTITY addDevice.setup.enterCode.label    "Poste, tajpu tiun ĉi kodon:">
-<!ENTITY addDevice.dialog.description.label "Por aktivigi la novan aparaton iru al Opcioj de &syncBrand.shortName.label; en la aparato kaj elektu &#x0022;Konekti.&#x0022;">
+<!ENTITY pairDevice.dialog.description.label "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
 <!ENTITY addDevice.dialog.enterCode.label   "Tajpu la kodon provizitan de la aparato:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Bonvolu klopodi denove.">
 <!ENTITY addDevice.dialog.successful.label  "La aparato estis sukcese aldonita. La unua sikronigado povas postuli kelkajn minutojn kaj finiĝos en la fono.">

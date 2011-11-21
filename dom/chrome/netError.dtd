@@ -24,6 +24,9 @@
 <!ENTITY netInterrupt.title "Haltigita transmetado de datumoj">
 <!ENTITY netInterrupt.longDesc "<p>La retlegilo bone konektiĝis, sed la konekto estis haltigita dum la transmetado de informo. Bonvolu klopodi denove.</p><ul><li>Ĉu aliajn retejojn vi povas esplori? Kontrolu la konekton de via komputilo.</li><li>Ĉu ankoraŭ estas problemoj? Serĉu asistadon ĉe via reta administranto aŭ retprovizanto.</li></ul>">
 
+<!ENTITY notCached.title "Document Expired">
+<!ENTITY notCached.longDesc "<p>The requested document is not available in the browser's cache.</p><ul><li>As a security precaution, the browser does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
+
 <!ENTITY netOffline.title "Malkonektita reĝimo">
 <!ENTITY netOffline.longDesc2 "<p>La restesplorilo funkcias en sia malkonektita reĝimo kaj ne povas konektiĝi al la petita elemento.</p><ul><li>Ĉu la komputilo estas konektita al aktiva reto?</li><li>Premu &quot;Klopodi denove&quot; por baskuli al la konektita reĝimo kaj reŝargi la paĝon.</li></ul>">
 
@@ -84,6 +87,7 @@
 
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
-     this inclusion needs to be intact for that approach to work correctly. -->
+     this inclusion needs to be intact for that approach to work correctly.
+     Please, try to keep this at the end of the file. -->
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;
