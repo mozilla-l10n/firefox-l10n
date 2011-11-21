@@ -322,7 +322,7 @@
 <!ENTITY calendarproperties.name.label     "Ime:">
 <!ENTITY calendarproperties.readonly.label                 "Samo za branje">
 <!ENTITY calendarproperties.firealarms.label               "Pokaži alarme">
-<!ENTITY calendarproperties.cache.label                    "Medpomnilnik">
+<!ENTITY calendarproperties.cache2.label                    "Medpomnilnik">
 <!ENTITY calendarproperties.enabled.label                  "Vključi ta koledar">
 <!ENTITY calendarproperties.forceDisabled.label            "Ponudnika tega koledarja ni mogoče najti. To se pogosto zgodi, če ste onemogočili ali odstranili določene dodatke.">
 <!ENTITY calendarproperties.unsubscribe.label              "Odnaroči">
