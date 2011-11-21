@@ -92,6 +92,8 @@
 <!ENTITY printButton.label            "Ispis">
 <!ENTITY printButton.tooltip          "Ispiši ovu stranicu">
 
+<!ENTITY domFullScreenWarning.label "Pritisnite ESC za izlaz iz prikaza preko cijelog zaslona">
+
 <!ENTITY locationItem.title           "Lokacija">
 <!ENTITY searchItem.title             "Traži">
 <!ENTITY throbberItem.title           "Indikator aktivnosti">
@@ -478,6 +480,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "Ispitaj">
 <!ENTITY inspectButton.accesskey      "I">
+<!ENTITY inspectCloseButton.tooltiptext "Zatvori ispitivača">
+<!ENTITY inspectStyleButton.label     "Stil">
+<!ENTITY inspectStyleButton.accesskey "S">
 
 <!ENTITY inspectContextMenu.label     "Ispitaj element">
 <!ENTITY inspectContextMenu.accesskey "e">
@@ -555,6 +560,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY videoFullScreen.label       "Cijeli zaslon">
 <!ENTITY videoFullScreen.accesskey   "C">
+<!ENTITY videoSaveImage.label        "Snimi sliku kao…">
+<!ENTITY videoSaveImage.accesskey    "S">
+<!ENTITY videoShowStats.label        "Prikaži statistiku">
+<!ENTITY videoShowStats.accesskey    "t">
+<!ENTITY videoHideStats.label        "Sakrij statistiku">
+<!ENTITY videoHideStats.accesskey    "t">
 
 <!ENTITY viewBookmarksSidebar.label         "Prikaži na bočnoj traci">
 <!ENTITY viewBookmarksToolbar.label         "Prikaži traku zabilješki">
