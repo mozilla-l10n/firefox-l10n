@@ -41,7 +41,6 @@
 <!ENTITY editRewrapCmd.label "Reaxustar">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey  "R">
-<!ENTITY findCmd.label "Localizar e substituír…">
 <!ENTITY accountManagerCmd.label "Configuración de contas de correo e novas…">
 <!ENTITY accountManagerCmd.accesskey "C">
 
@@ -64,11 +63,6 @@
 <!ENTITY selectAddressCmd.label "Seleccionar enderezos…">
 <!ENTITY selectAddressCmd.key "">
 <!ENTITY selectAddressCmd.accesskey "a">
-
-<!ENTITY checkSpellingCmd2.label "Verificación ortográfica…">
-<!ENTITY checkSpellingCmd2.accesskey "V">
-<!ENTITY enableInlineSpellChecker.label "Revisar a ortografía mentres escribe">
-<!ENTITY enableInlineSpellChecker.accesskey "s">
 
 <!ENTITY priorityMenu.label "Prioridade">
 <!ENTITY priorityMenu.accesskey "P">
