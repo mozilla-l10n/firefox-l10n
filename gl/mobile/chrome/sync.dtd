@@ -20,3 +20,5 @@
 <!ENTITY sync.setup.cancel          "Cancelar">
 <!ENTITY sync.setup.tutorial        "Móstreme como">
 <!ENTITY sync.setup.waiting         "Asociación en progreso…">
+<!ENTITY sync.setup.close           "Pechar">
+<!ENTITY sync.setup.waitingdownload "Agora os seus datos estanse descargando en segundo plano. Pode pechar esta xanela en calquera momento.">
