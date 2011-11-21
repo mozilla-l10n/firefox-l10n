@@ -21,6 +21,7 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; mora biti ponovno pokrenut da bi priključak/ci mogli raditi.">
   
 <!ENTITY missingPlugin                                       "Za prikaz ovog sadržaja potreban je priključak.">
+<!ENTITY clickToPlayPlugin                                   "Pritisnite ovdje da biste aktivirali priključak.">
 <!ENTITY disabledPlugin                                      "Ovaj je priključak onemogućen.">
 <!ENTITY blockedPlugin.label                                 "Ovaj je priključak blokiran radi vaše sigurnosti.">
 
@@ -34,7 +35,7 @@
 <!ENTITY reloadPlugin.middle                                 "Osvježi stranicu">
 <!ENTITY reloadPlugin.post                                   " za ponovni pokušaj.">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.please                                       "Pošalji izvještaj o rušenju">
+<!ENTITY report.checkbox                                     "…i pošalji izvještaj o rušenju">
 <!ENTITY report.submitting                                   "Slanje izvješća…">
 <!ENTITY report.submitted                                    "Izvještaj poslan.">
 <!ENTITY report.disabled                                     "Prijavljivanje rušenja je onemogućeno.">
