@@ -20,5 +20,8 @@
 <!ENTITY sync.setup.cancel          "Cancelar">
 <!ENTITY sync.setup.tutorial        "Móstreme como">
 <!ENTITY sync.setup.waiting         "Asociación en progreso…">
+
+<!ENTITY sync.pair.title            "Asociar un dispositivo">
+<!ENTITY sync.pair.description      "Para activar o novo dispositivo, seleccione &#x0022;Configurar sincronización&#x0022; no dispositivo.">
 <!ENTITY sync.setup.close           "Pechar">
 <!ENTITY sync.setup.waitingdownload "Agora os seus datos estanse descargando en segundo plano. Pode pechar esta xanela en calquera momento.">
