@@ -24,6 +24,9 @@
 <!ENTITY netInterrupt.title "Prijenos podataka prekinut">
 <!ENTITY netInterrupt.longDesc "<p>Pretraživač se uspješno povezao, ali je veza prekinuta prilikom prijenosa podataka. Molim, pokušajte ponovo.</p><ul><li>Ne možete pretraživati niti druge stranice? Provjerite mrežnu povezanost računala.</li><li>Ako još uvijek imate problema, za pomoć se obratite svojem administratoru mreže ili pružatelju Internet usluga.</li></ul>">
 
+<!ENTITY notCached.title "Dokument je istekao">
+<!ENTITY notCached.longDesc "<p>Traženi dokument nije dostupan u priručnoj memoriji preglednika.</p><ul><li>Radi mjere sigurnosti, preglednik neće automatski ponovno zatražiti osjetljive dokumente.</li><li>Kliknite na Pokušaj ponovno da biste zatražili dokument od web stranice.</li></ul>">
+
 <!ENTITY netOffline.title "Izvanmreženi način rada">
 <!ENTITY netOffline.longDesc2 "<p>Web preglednik je u izvanmrežnom načinu rada i ne može se spojiti na traženu stavku.</p><ul><li>Je li računalo spojeno na aktivnu mrežu?</li><li>Kliknite na &quot;Pokušaj ponovno&quot; da biste uključili mrežni način rada i ponovno učitali stranicu.</li></ul>">
 
