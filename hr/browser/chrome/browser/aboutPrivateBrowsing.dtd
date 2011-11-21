@@ -15,9 +15,6 @@
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Pokreni Privatno pretraživanje">
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "P">
 
-<!ENTITY privatebrowsingpage.howToStop                 "Za prekidanje Privatnog pretraživanje, odaberite &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label; ili zatvorite &brandShortName;.">
-<!ENTITY privatebrowsingpage.howToStart                "Za početak Privatnog pretraživanja, možete odabrati &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
-
 <!ENTITY privatebrowsingpage.moreInfo                  "I dok ovo računalo neće imati zapise o vašem pretraživanju, vaš pružatelj internet usluga ili poslodavac još uvijek mogu pratiti stranice koje posječujete.">
 <!ENTITY privatebrowsingpage.learnMore                 "Saznaj više">
 
