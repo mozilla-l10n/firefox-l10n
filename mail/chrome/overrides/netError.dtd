@@ -84,7 +84,7 @@
 </ul>">
 
 <!ENTITY notCached.title "Dh'fhalbh an ùine air an sgrìobhainn">
-<!ENTITY notCached.longDesc "<p>Chan eil an sgrìobhainn a dh'iarr thu san tasgadan.</p><ul><li>Air sgàth adhbharan tèarainteachd, chan iarr &brandShortName; sgrìobhainnean cugallach gu fèin-obrachail.</li><li>Briog air "Feuch ris a-rithist" gus an sgrìobhainn iarraidh on làrach-lìn a-rithist.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Chan eil an sgrìobhainn a dh'iarr thu san tasgadan.</p><ul><li>Air sgàth adhbharan tèarainteachd, chan iarr &brandShortName; sgrìobhainnean cugallach gu fèin-obrachail.</li><li>Briog air Feuch ris a-rithist gus an sgrìobhainn iarraidh on làrach-lìn a-rithist.</li></ul>">
 
 <!ENTITY proxyResolveFailure.title "Cha ghabh am frithealaiche progsaidh a lorg">
 <!ENTITY proxyResolveFailure.longDesc "
