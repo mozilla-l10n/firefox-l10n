@@ -42,14 +42,15 @@
 
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
+<!-- File menu items -->
+<!ENTITY saveCmd.key "S">
+
 <!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Cuir ann gun fhòrmatadh">
 <!ENTITY pasteNoFormatting.accesskey "C">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Cuir ann mar">
 <!ENTITY pasteAs.accesskey "a">
-<!ENTITY publishSettings.label "Roghainnean làrach foillseachaidh…">
-<!ENTITY publishSettings.accesskey "R">
 <!ENTITY pasteAsQuotationCmd.label "Cuir ann mar luaidh">
 <!ENTITY pasteAsQuotationCmd.accesskey "C">
 <!ENTITY pasteAsQuotationCmd.key "o">
