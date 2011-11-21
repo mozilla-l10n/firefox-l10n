@@ -32,11 +32,3 @@
 
 <!ENTITY  savedPasswords.label            "Spremljene lozinke…">
 <!ENTITY  savedPasswords.accesskey        "S">
-
-
-<!ENTITY  warnings.label                "Poruke upozorenja">
-
-<!ENTITY  chooseWarnings.label          "Odaberite poruke upozorenja koje želite vidjeti prilikom pretraživanja weba">
-
-<!ENTITY  warningSettings.label         "Postavke...">
-<!ENTITY  warningSettings.accesskey     "S">

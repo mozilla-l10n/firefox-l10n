@@ -61,12 +61,6 @@
 <!ENTITY  dontrememberActions.clearHistory.label "očistiti svu trenutnu povijest">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingAutoStart.label "Automatski pokreni &brandShortName; u sesiji privatnog pretraživanja">
-<!ENTITY  privateBrowsingAutoStart.accesskey "A">
-<!ENTITY  rememberHistory.pre.label      "Zapamti moju povijest pretraživanja za najmanje">
-<!ENTITY  rememberHistory.pre.accesskey  "s">
-<!ENTITY  rememberHistory.post.label     "dana">
-
 <!ENTITY  rememberDownload.label         "Zapamti povijest preuzimanja">
 <!ENTITY  rememberDownload.accesskey     "r">
 
