@@ -94,10 +94,8 @@
 
 <!ENTITY certmgr.certname                     "Naziv certifikata">
 <!ENTITY certmgr.certserver                   "Poslužitelj">
-<!ENTITY certmgr.typesofoverrides             "Iznimke">
 <!ENTITY certmgr.override_lifetime            "Vijek trajanja">
 <!ENTITY certmgr.tokenname                    "Sigurnosni uređaj">
-<!ENTITY certmgr.purpose                      "Svrhe">
 <!ENTITY certmgr.issued                       "Izdano">
 <!ENTITY certmgr.expires                      "Istječe">
 <!ENTITY certmgr.email                        "Adresa e-pošte">
@@ -107,8 +105,6 @@
 <!ENTITY certmgr.close.accesskey              "Z">
 <!ENTITY certmgr.view2.label                  "Pogled…">
 <!ENTITY certmgr.view2.accesskey              "P">
-<!ENTITY certmgr.edit2.label                  "Uredi…">
-<!ENTITY certmgr.edit2.accesskey              "e">
 <!ENTITY certmgr.editca.label                 "Uredi CA povjerenje">
 <!ENTITY certmgr.editca.accesskey             "d">
 <!ENTITY certmgr.add.label                    "Dodaj">
@@ -135,8 +131,6 @@
 <!ENTITY exceptionMgr.title                   "Dodaj sigurnosnu iznimku">
 <!ENTITY exceptionMgr.exceptionButton.label   "Potvrdi sigurnosnu iznimku">
 <!ENTITY exceptionMgr.exceptionButton.accesskey "r">
-<!ENTITY exceptionMgr.exceptionButton         "Potvrdi sigurnosnu iznimku">
-<!ENTITY exceptionMgr.exceptionButtonAccess   "s">
 <!ENTITY exceptionMgr.supplementalWarning     "Legitimne banke, trgovine i ostale javne stranice vas neće tražiti da ovo učinite.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Poslužitelj">
 <!ENTITY exceptionMgr.certlocation.url        "Lokacija:">
