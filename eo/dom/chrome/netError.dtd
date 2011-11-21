@@ -24,8 +24,8 @@
 <!ENTITY netInterrupt.title "Haltigita transmetado de datumoj">
 <!ENTITY netInterrupt.longDesc "<p>La retlegilo bone konektiĝis, sed la konekto estis haltigita dum la transmetado de informo. Bonvolu klopodi denove.</p><ul><li>Ĉu aliajn retejojn vi povas esplori? Kontrolu la konekton de via komputilo.</li><li>Ĉu ankoraŭ estas problemoj? Serĉu asistadon ĉe via reta administranto aŭ retprovizanto.</li></ul>">
 
-<!ENTITY notCached.title "Document Expired">
-<!ENTITY notCached.longDesc "<p>The requested document is not available in the browser's cache.</p><ul><li>As a security precaution, the browser does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
+<!ENTITY notCached.title "Dokumento malaktuala">
+<!ENTITY notCached.longDesc "<p>La petita dokumento ne ekzistas en la staplo de la retesplorilo.</p><ul><li>Pro sekureca singardo la retesplorilo ne repetas aŭtomate delikatajn dokumentojn.</li><li>Alklaku 'Klopodi denove' por peti denove la dokumenton al la retejo.</li></ul>">
 
 <!ENTITY netOffline.title "Malkonektita reĝimo">
 <!ENTITY netOffline.longDesc2 "<p>La restesplorilo funkcias en sia malkonektita reĝimo kaj ne povas konektiĝi al la petita elemento.</p><ul><li>Ĉu la komputilo estas konektita al aktiva reto?</li><li>Premu &quot;Klopodi denove&quot; por baskuli al la konektita reĝimo kaj reŝargi la paĝon.</li></ul>">
