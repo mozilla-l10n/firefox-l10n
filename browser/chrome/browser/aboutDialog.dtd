@@ -30,7 +30,7 @@
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; বৰ্তমান তাৰিখলে কাৰ্য্যত">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "আপডেইটসমূহ আপোনাৰ চিস্টেম ব্যৱস্থাপকৰ দ।বাৰা অসামৰ্থবান কৰি থোৱা হৈছে">
+<!ENTITY update.adminDisabled       "আপডেইটসমূহ আপোনাৰ চিস্টেম ব্যৱস্থাপকৰ দ্বাৰা অসামৰ্থবান কৰি থোৱা হৈছে">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
