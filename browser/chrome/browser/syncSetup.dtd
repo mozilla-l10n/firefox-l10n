@@ -4,7 +4,7 @@
 
 <!ENTITY setup.pickSetupType.description "Bonvenon, se vi neniam antaŭe uzis &syncBrand.fullName.label; vi bezonos krei konton.">
 <!ENTITY button.createNewAccount.label "Krei novan konton">
-<!ENTITY button.haveAccount.label      "I Have an Account">
+<!ENTITY button.haveAccount.label      "Mi havas konton">
 
 <!ENTITY setup.choicePage.title.label     "Ĉu vi uzis &syncBrand.fullName.label; antaŭe?">
 <!ENTITY setup.choicePage.new.label       "Mi neniam antaŭe uzis &syncBrand.shortName.label;">
@@ -53,12 +53,12 @@
 <!ENTITY button.syncKeyBackup.save.accesskey  "K">
 
 <!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
-<!ENTITY pairDevice.title.label             "Pair a Device">
+<!ENTITY pairDevice.title.label             "Asocii aparaton">
 <!ENTITY addDevice.showMeHow.label          "Montri al mi kiel fari tion.">
 <!ENTITY addDevice.dontHaveDevice.label     "Mi ne havas la aparaton kun mi">
-<!ENTITY pairDevice.setup.description.label  "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
+<!ENTITY pairDevice.setup.description.label  "Por aktivigi, elektu &#x0022;Asocii aparaton&#x0022; en via alia aparato.">
 <!ENTITY addDevice.setup.enterCode.label    "Poste, tajpu tiun ĉi kodon:">
-<!ENTITY pairDevice.dialog.description.label "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
+<!ENTITY pairDevice.dialog.description.label "Por aktivigi la novan aparaton, elektu &#x0022;Agordi speguladon&#x0022; en la aparato.">
 <!ENTITY addDevice.dialog.enterCode.label   "Tajpu la kodon provizitan de la aparato:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Bonvolu klopodi denove.">
 <!ENTITY addDevice.dialog.successful.label  "La aparato estis sukcese aldonita. La unua sikronigado povas postuli kelkajn minutojn kaj finiĝos en la fono.">
