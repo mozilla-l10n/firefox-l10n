@@ -19,8 +19,6 @@
 <!ENTITY useSmoothScrolling.accesskey    "u">
 <!ENTITY checkSpelling.label             "Provjeri pravopis pri pisanju">
 <!ENTITY checkSpelling.accesskey         "v">
-<!ENTITY doNotTrack.label                "Javi web stranicama da ne želim biti praćen(a)">
-<!ENTITY doNotTrack.accesskey            "w">
 <!ENTITY allowHWAccel.label              "Koristi hardversku akceleraciju kad je moguće">
 <!ENTITY allowHWAccel.accesskey          "h">
 
@@ -62,9 +60,6 @@
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-<!ENTITY useCacheBefore.label            "Koristi do">
-<!ENTITY useCacheBefore.accesskey        "d">
-<!ENTITY useCacheAfter.label             "MB prostora za privremenu memoriju">
 <!ENTITY clearCacheNow.label             "Očisti sada">
 <!ENTITY clearCacheNow.accesskey         "č">
 
@@ -73,20 +68,25 @@
 
 <!ENTITY updateTab.label                 "Nadogradnje">
 
-<!ENTITY autoCheck.label                 "Automatski provjeri postojanje nadogradnji za:">
-<!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate2.label       "Dodaci">
-<!ENTITY enableAddonsUpdate2.accesskey   "D">
+<!ENTITY updateApp.label                 "&brandShortName; dopune:">
+<!ENTITY updateAuto.label                "Automatski instaliraj dopune (preporučeno: sigurnije)">
+<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateCheck.label               "Provjeri dostupnost dopuna, ali mi ponudi instalaciju">
+<!ENTITY updateCheck.accesskey           "c">
+<!ENTITY updateManual.label              "Nikada ne provjeravaj dostupnost dopuna (nije preporučeno: sigurnosni rizik)">
+<!ENTITY updateManual.accesskey          "N">
+
+<!ENTITY updateAutoAddonWarn.label       "Upozori me ako će to onemogućiti neke od mojih dodataka">
+<!ENTITY updateAutoAddonWarn.accesskey   "U">
+
+<!ENTITY useService.label                "Koristi pozadinski servis za instalaciju dopuna">
+<!ENTITY useService.accesskey            "d">
+
+<!ENTITY updateOthers.label              "Automatski ažuriraj:">
+<!ENTITY enableAddonsUpdate3.label       "Dodatke">
+<!ENTITY enableAddonsUpdate3.accesskey   "o">
 <!ENTITY enableSearchUpdate.label        "Pretraživače">
 <!ENTITY enableSearchUpdate.accesskey    "t">
-<!ENTITY whenUpdatesFound.label          "Kad su nadogradnje za &brandShortName; pronađene:">
-<!ENTITY askMe.label                     "Pitaj me što želim učiniti">
-<!ENTITY askMe.accesskey                 "P">
-<!ENTITY modeAutomatic.label             "Automatski preuzmi i instaliraj nadogradnju">
-<!ENTITY modeAutomatic.accesskey         "d">
-<!ENTITY modeAutoAddonWarn.label         "Upozori me ako će nadogradnja isključiti neki od mojih dodataka">
-<!ENTITY modeAutoAddonWarn.accesskey     "U">
 <!ENTITY updateHistory.label             "Prikaži povijest nadogradnji">
 <!ENTITY updateHistory.accesskey         "n">
 
