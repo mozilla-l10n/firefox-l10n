@@ -104,6 +104,12 @@
 <!ENTITY mediaHideControls.accesskey  "a">
 <!ENTITY videoFullScreen.label        "Pantalla completa">
 <!ENTITY videoFullScreen.accesskey    "P">
+<!ENTITY videoSaveImage.label         "Gardar a captura como…">
+<!ENTITY videoSaveImage.accesskey     "u">
+<!ENTITY videoShowStats.label         "Mostrar as estatísticas">
+<!ENTITY videoShowStats.accesskey     "t">
+<!ENTITY videoHideStats.label         "Ocultar as estatísticas">
+<!ENTITY videoHideStats.accesskey     "t">
 <!ENTITY search.accesskey             "W">
 <!ENTITY bidiSwitchPageDirectionItem.label        "Cambiar a orientación da páxina">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "C">
