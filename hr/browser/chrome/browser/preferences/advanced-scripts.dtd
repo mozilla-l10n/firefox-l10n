@@ -40,13 +40,9 @@
 
 <!ENTITY allowScripts.label             "Dozvoli skriptama:">
 
-<!ENTITY moveResizeWindows.label        "Premještanje i promjena veličine postojećih prozora">
-<!ENTITY moveResizeWindows.accesskey    "e">
+<!ENTITY moveResizePopupWindows.label     "Premještanje ili promjena veličine skočnih prozora">
+<!ENTITY moveResizePopupWindows.accesskey "m">
 <!ENTITY raiseLowerWindows.label        "Podizanje ili spuštanje prozora">
 <!ENTITY raiseLowerWindows.accesskey    "s">
 <!ENTITY disableContextMenus.label      "Onemogućavanje ili izmjenu kontekstnih izbornika">
 <!ENTITY disableContextMenus.accesskey  "n">
-<!ENTITY hideStatusBar.label            "Skrivanje statusne trake">
-<!ENTITY hideStatusBar.accesskey        "s">
-<!ENTITY changeStatusBar.label          "Promijeni tekst statusne trake">
-<!ENTITY changeStatusBar.accesskey      "t">
