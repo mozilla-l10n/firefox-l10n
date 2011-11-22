@@ -5,9 +5,9 @@
 
 <!-- Entities for Account Type page -->
 
-<!ENTITY accountSetupInfo.label "For å ta i mot meldingar må du først setje opp ein konto.">
+<!ENTITY accountSetupInfo2.label "For å ta imot meldingar må du fyrst lage ein konto.">
 <!ENTITY accountTypeTitle.label "Innstillingar for ny konto">
-<!ENTITY accountTypeDesc.label "Denne vegvisaren vil samle saman informasjonen som trengst for å lage opp ein ny konto. Dersom du ikkje har denne informasjonen må du kontakte systemansvarleg eller Internett-tilbydaren din.">
+<!ENTITY accountTypeDesc2.label "This Wizard will collect the information necessary to set up an account. If you do not know the information requested, please contact your System Administrator or Internet Service Provider.">
 <!ENTITY accountTypeDirections.label "Vel kontotype">
 <!ENTITY accountTypeMail.label "E-post">
 <!ENTITY accountTypeMail.accesskey "E">
@@ -20,7 +20,7 @@
 <!ENTITY identityDesc.label "Kvar konto har sin eigen identitet, som er den informasjonen som identifiserer deg til andre når dei får ei melding frå deg.">
 
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY fullnameDesc.label "Skriv inn namnet du ønskjer skal stå i «Frå»-feltet på meldingane du sender">
+<!ENTITY fullnameDesc.label "Skriv inn namnet du ynskjer skal stå i «Frå»-feltet på meldingane du sender">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
   1, do not translate two of "&quot;"
   2, Use localized full name instead of "John Smith"
@@ -93,7 +93,7 @@
 
 <!ENTITY accnameTitle.label "Kontonamn">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
-<!ENTITY accnameDesc.label "Skriv inn namnet du ønskjer å gje denne kontoen (til dømes «Jobbkonto», «Heimekonto» eller «Nyhendekonto»).">
+<!ENTITY accnameDesc.label "Skriv inn namnet du ynskjer å gje denne kontoen (til dømes «Jobbkonto», «Heimekonto» eller «Nyhendekonto»).">
 <!ENTITY accnameLabel.label "Kontonamn:">
 <!ENTITY accnameLabel.accesskey "K">
 

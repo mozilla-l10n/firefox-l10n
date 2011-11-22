@@ -35,43 +35,42 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField2.label "til">
-<!ENTITY fromField2.label "frå">
-<!ENTITY senderField2.label "avsendar">
-<!ENTITY organizationField2.label "organisasjon">
-<!ENTITY replyToField2.label "svar-til">
+<!ENTITY toField3.label "Til">
+<!ENTITY fromField3.label "Frå ">
+<!ENTITY senderField3.label "Avsendar">
+<!ENTITY organizationField3.label "Organisasjon">
+<!ENTITY replyToField3.label "Svar til">
 
-<!ENTITY subjectField2.label "emne ">
-<!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
-<!ENTITY ccField2.label "kopi ">
-<!ENTITY bccField2.label "blindkopi">
-<!ENTITY newsgroupsField2.label "nyhendegrupper">
-<!ENTITY followupToField2.label "oppfølging">
-<!ENTITY tagsHdr2.label "stikkord">
-<!ENTITY dateField2.label "dato ">
-<!ENTITY userAgentField2.label "brukarprogram">
-<!ENTITY referencesField2.label "referansar">
-<!ENTITY messageIdField2.label "meldings-ID">
-<!ENTITY inReplyToField2.label "som-svar-til">
-<!ENTITY originalWebsite2.label "nettstad">
+<!ENTITY subjectField3.label "Emne">
+<!ENTITY ccField3.label "Kopi">
+<!ENTITY bccField3.label "Blindkopi">
+<!ENTITY newsgroupsField3.label "Nyhenderupper">
+<!ENTITY followupToField3.label "Oppfølgjing">
+<!ENTITY tagsHdr3.label "Stikkord">
+<!ENTITY dateField3.label "Dato">
+<!ENTITY userAgentField3.label "Program">
+<!ENTITY referencesField3.label "Referansar">
+<!ENTITY messageIdField3.label "Meldings-ID ">
+<!ENTITY inReplyToField3.label "Som svar til">
+<!ENTITY originalWebsite3.label "Nettstad">
 
 <!ENTITY editMessageDescription.label "Dette er eit meldingsutkast">
 <!ENTITY editMessageButton.label "Rediger …">
-<!ENTITY hdrArchiveButton.label "arkiver">
-<!ENTITY hdrArchiveButton.tooltip "arkiver denne meldinga">
-<!ENTITY hdrSmartReplyButton.label "smart-svar">
-<!ENTITY hdrReplyButton.label "svar">
-<!ENTITY hdrReplyButton.tooltip "svar på denne meldinga">
-<!ENTITY hdrReplyAllButton.label "Svar til alle">
-<!ENTITY hdrReplyAllButton.tooltip "svar til avsendaren og alle motakarar">
-<!ENTITY hdrReplyListButton.label "svar til liste">
-<!ENTITY hdrReplyListButton.tooltip "svar til e-postliste">
-<!ENTITY hdrForwardButton.label "vidaresend">
-<!ENTITY hdrForwardButton.tooltip "vidaresend denne meldinga">
-<!ENTITY hdrJunkButton.label "uønskt">
-<!ENTITY hdrJunkButton.tooltip "merk denne meldinga som uønskt">
-<!ENTITY hdrTrashButton.label "slett">
-<!ENTITY hdrTrashButton.tooltip "slett denne meldinga">
+<!ENTITY hdrArchiveButton1.label "Arkiver">
+<!ENTITY hdrArchiveButton1.tooltip "Arkiver denne meldinga">
+<!ENTITY hdrSmartReplyButton1.label "Smart svar">
+<!ENTITY hdrReplyButton1.label "Svar">
+<!ENTITY hdrReplyButton1.tooltip "Svar på denne meldinga">
+<!ENTITY hdrReplyAllButton1.label "Svar til alle">
+<!ENTITY hdrReplyAllButton1.tooltip "Svar til avsendar og alle mottakarar">
+<!ENTITY hdrReplyListButton1.label "Svar til liste">
+<!ENTITY hdrReplyListButton1.tooltip "Svar til e-postliste">
+<!ENTITY hdrForwardButton1.label "Vidaresend">
+<!ENTITY hdrForwardButton1.tooltip "Vidaresend denne meldinga">
+<!ENTITY hdrJunkButton1.label "Uynskt">
+<!ENTITY hdrJunkButton1.tooltip "Merk denne meldinga som uynskt">
+<!ENTITY hdrTrashButton1.label "Slett">
+<!ENTITY hdrTrashButton1.tooltip "Slett denne meldinga">
 
 <!ENTITY hdrViewToolbarShowFull.label "Vis ikon og tekst">
 <!ENTITY hdrViewToolbarShowFull.accesskey "V">
@@ -82,23 +81,23 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Alltid vis Svar til avsendar">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "A">
 
-<!ENTITY otherActionsButton.label "andre handlingar">
-<!ENTITY otherActionsOpenConversation.label "Opne i samtale">
-<!ENTITY otherActionsOpenConversation.accesskey "n">
-<!ENTITY otherActionsOpenInNewWindow.label "opne i nytt vindauge">
-<!ENTITY otherActionsOpenInNewWindow.accesskey "o">
-<!ENTITY otherActionsOpenInNewTab.label "opne i ny fane">
-<!ENTITY otherActionsOpenInNewTab.accesskey "a">
-<!ENTITY markAsReadMenuItem.label "merk som lesen">
-<!ENTITY markAsReadMenuItem.accesskey "m">
-<!ENTITY markAsUnreadMenuItem.label "merk som ulesen">
-<!ENTITY markAsUnreadMenuItem.accesskey "m">
-<!ENTITY saveAsMenuItem.label "lagre som …">
-<!ENTITY saveAsMenuItem.accesskey "s">
-<!ENTITY viewSourceMenuItem.label "vis kjeldekode …">
-<!ENTITY viewSourceMenuItem.accesskey "k">
-<!ENTITY otherActionsPrint.label "Skriv ut …">
-<!ENTITY otherActionsPrint.accesskey "S">
+<!ENTITY otherActionsButton1.label "Andre handlingar">
+<!ENTITY otherActionsOpenConversation1.label "Opne i samtale">
+<!ENTITY otherActionsOpenConversation1.accesskey "O">
+<!ENTITY otherActionsOpenInNewWindow1.label "Opne i nytt vindauge">
+<!ENTITY otherActionsOpenInNewWindow1.accesskey "n">
+<!ENTITY otherActionsOpenInNewTab1.label "Opne i ny fane">
+<!ENTITY otherActionsOpenInNewTab1.accesskey "e">
+<!ENTITY markAsReadMenuItem1.label "Merk som lest">
+<!ENTITY markAsReadMenuItem1.accesskey "M">
+<!ENTITY markAsUnreadMenuItem1.label "Merk som ulest">
+<!ENTITY markAsUnreadMenuItem1.accesskey "M">
+<!ENTITY saveAsMenuItem1.label "Lagre som …">
+<!ENTITY saveAsMenuItem1.accesskey "s">
+<!ENTITY viewSourceMenuItem1.label "Vis kjeldekode">
+<!ENTITY viewSourceMenuItem1.accesskey "V">
+<!ENTITY otherActionsPrint1.label "Skriv ut …">
+<!ENTITY otherActionsPrint1.accesskey "S">
 
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Opne">
@@ -119,26 +118,10 @@
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
 
 <!-- Attachment toolbar items -->
-<!ENTITY saveAttachmentButton.label       "lagre">
-<!ENTITY saveAttachmentButton.tooltip     "lagre vedlagt fil">
-<!ENTITY saveAllAttachmentsButton.label   "lagre alle">
-<!ENTITY saveAllAttachmentsButton.tooltip "lagre alle dei vedlagde filene">
-<!ENTITY openAttachmentMenuItem.label     "opne">
-<!ENTITY openAttachmentMenuItem.accesskey    "o">
-<!ENTITY saveAsAttachmentMenuItem.label    "lagre som …">
-<!ENTITY saveAsAttachmentMenuItem.accesskey    "l">
-<!ENTITY detachAttachmentMenuItem.label    "løys frå …">
-<!ENTITY detachAttachmentMenuItem.accesskey    "s">
-<!ENTITY deleteAttachmentMenuItem.label    "slett">
-<!ENTITY deleteAttachmentMenuItem.accesskey    "t">
-<!ENTITY openAllAttachmentsMenuItem.label    "opne alle ">
-<!ENTITY openAllAttachmentsMenuItem.accesskey    "o">
-<!ENTITY saveAllAttachmentsMenuItem.label    "lagre alle …">
-<!ENTITY saveAllAttachmentsMenuItem.accesskey    "l">
-<!ENTITY detachAllAttachmentsMenuItem.label    "løys frå alle …">
-<!ENTITY detachAllAttachmentsMenuItem.accesskey    "ø">
-<!ENTITY deleteAllAttachmentsMenuItem.label    "slett alle …">
-<!ENTITY deleteAllAttachmentsMenuItem.accesskey    "e">
+<!ENTITY saveAttachmentButton1.label       "Lagre">
+<!ENTITY saveAttachmentButton1.tooltip     "Lagre vedlagde fil">
+<!ENTITY saveAllAttachmentsButton1.label   "Lagre alle">
+<!ENTITY saveAllAttachmentsButton1.tooltip "Lagre alle vedlagde filer">
 
 <!ENTITY copyLinkCmd.label        "Kopier lenkjeadresse">
 <!ENTITY copyLinkCmd.accesskey    "K">
