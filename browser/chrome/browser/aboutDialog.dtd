@@ -24,9 +24,9 @@
 <!ENTITY bottomLinks.privacy        "গোপনীয়তা নীতি">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingForUpdates  "আপডেইটসমূহ নিৰিক্ষণ কৰা হৈ আছে…">
+<!ENTITY update.checkingForUpdates  "আপডেইটসমূহ নিৰীক্ষণ কৰা হৈ আছে…">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingAddonCompat "এড-অন সমূহৰ মিল খোৱা ক্ষমতা নিৰিক্ষন কৰা হৈ আছে…">
+<!ENTITY update.checkingAddonCompat "এড-অন সমূহৰ মিল খোৱা ক্ষমতা নিৰীক্ষণ কৰা হৈ আছে…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; বৰ্তমান তাৰিখলে কাৰ্য্যত">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
