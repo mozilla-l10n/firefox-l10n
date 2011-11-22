@@ -18,6 +18,8 @@
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "ส่วนเสริมที่ถูกเปิดใช้งาน">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Build Configuration">
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
+<!ENTITY aboutSupport.appBasicsCrashIDs "รายงานข้อผิดพลาด">
+<!ENTITY aboutSupport.appBasicsMemoryUse "หน่วยความจำที่ใช้">
 
 <!ENTITY aboutSupport.show.label "เปิดดูโฟลเดอร์">
 

@@ -193,7 +193,7 @@ can reach it easily. -->
 
 <!ENTITY inspectMenu.label            "ตรวจดู">
 <!ENTITY inspectMenu.accesskey        "ต">
-<!ENTITY inspectMenu.commandkey       "ต">
+<!ENTITY inspectMenu.commandkey       "I">
 
 <!ENTITY inspectContextMenu.label     "ตรวจดูส่วนประกอบ">
 <!ENTITY inspectContextMenu.accesskey "ป">

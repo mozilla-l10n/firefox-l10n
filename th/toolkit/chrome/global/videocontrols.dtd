@@ -3,6 +3,21 @@
 <!ENTITY muteButton.muteLabel "ปิดเสียง">
 <!ENTITY muteButton.unmuteLabel "เปิดเสียง">
 
+<!ENTITY stats.media "สื่อ">
+<!ENTITY stats.size "ขนาด">
+<!ENTITY stats.activity "กิจกรรม">
+<!ENTITY stats.activityPaused "หยุด">
+<!ENTITY stats.activityPlaying "กำลังเล่น">
+<!ENTITY stats.activityEnded "จบแล้ว">
+<!ENTITY stats.activitySeeking "(กำลังค้นหา)">
+<!ENTITY stats.volume "ระดับเสียง">
+<!ENTITY stats.channels "ช่องสัญญาณ">
+<!ENTITY stats.sampleRate "อัตราสุ่ม">
+<!ENTITY stats.framesParsed "เฟรมที่วิเคราะห์แล้ว">
+<!ENTITY stats.framesDecoded "เฟรมที่ถอดรหัสแล้ว">
+<!ENTITY stats.framesPresented "เฟรมที่แสดงผลแล้ว">
+<!ENTITY stats.framesPainted "เฟรมที่วาดแล้ว">
+
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be

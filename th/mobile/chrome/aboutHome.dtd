@@ -8,8 +8,24 @@
 <!ENTITY aboutHome.openAllTabs                  "เปิดทั้งหมดเป็นแท็บ">
 <!ENTITY aboutHome.noTabs                       "ไม่มีแท็บจากคราวที่แล้ว">
 <!ENTITY aboutHome.noAddons                     "ไม่มีส่วนเสริมแนะนำ">
-
-<!-- LOCALIZATION NOTE: 'Firefox Spark' is the official name of the promotion/constest and should not be translated     -->
-<!ENTITY aboutHome.promoLabel                   "Firefox Spark">
-<!-- LOCALIZATION NOTE: 'Play' should be translated in the context of 'playing a game' and not 'playing a video' -->
-<!ENTITY aboutHome.promoButton                  "เล่น">
+<!ENTITY aboutHome.getLocale                    "เปลี่ยนภาษา">
+<!ENTITY aboutHome.getInBeforeBeta              "ลองใช้ก่อนเบต้า">
+<!ENTITY aboutHome.tryAurora                    "ทดลองใช้ Firefox Aurora แล้วช่วยเรากำหนดอนาคตของ Firefox">
+<!-- LOCALIZATION NOTE:
+     (aboutHome.downloadAurora): First line of a multi-line button. Treat as a title.
+-->
+<!ENTITY aboutHome.downloadAurora       "ดาวน์โหลด Aurora">
+<!-- LOCALIZATION NOTE:
+     (aboutHome.forAndroid): Second line of a multi-line button. Treat as a subtitle.
+-->
+<!ENTITY aboutHome.forAndroid           "สำหรับแอนดรอยด์">
+<!-- LOCALIZATION NOTE:
+     (aboutHome.setupSync): This string should match the desktop
+     equivalent, in particular concerning syncBrand.fullName.label.
+-->
+<!ENTITY aboutHome.setupSync            "ตั้งค่า Sync">
+<!-- LOCALIZATION NOTE:
+     (aboutHome.syncPairDevice): This string should match the desktop
+     equivalent, in particular concerning syncBrand.fullName.label.
+-->
+<!ENTITY aboutHome.syncPairDevice       "เชื่อมโยงอุปกรณ์">

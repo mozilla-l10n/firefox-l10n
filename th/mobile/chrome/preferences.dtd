@@ -5,9 +5,10 @@
 <!ENTITY reflowZoom.title                          "ปรับการแสดงผลข้อความเมื่อย่อ-ขยาย">
 <!ENTITY showImages.title                          "แสดงรูป">
 <!ENTITY enableJavaScript.title                    "เปิดการทำงานของ JavaScript">
-<!ENTITY enablePlugins.title                       "เปิดการทำงานของโปรแกรมเสริม">
 <!ENTITY privacy.title                             "ความเป็นส่วนตัว &amp; ความปลอดภัย">
 <!ENTITY allowCookies.title                        "ยอมรับคุกกี้">
+<!ENTITY doNotTrack.title                          "บอกเว็บไซต์นี้ไม่ให้ติดตามฉัน">
+<!ENTITY masterPassword.title                      "ใช้รหัสผ่านหลัก">
 <!ENTITY clearPrivateData2.title                   "ล้างข้อมูลส่วนตัว">
 <!ENTITY clearPrivateData.button                   "ล้าง">
 <!ENTITY rememberPasswords.title                   "จำรหัสผ่าน">
@@ -19,4 +20,5 @@
 <!ENTITY homepage.none                             "หน้าเปล่า">
 <!ENTITY homepage.default                          "เริ่ม &brandShortName;">
 <!ENTITY homepage.currentpage                      "ใช้หน้าปัจจุบัน">
-<!ENTITY showCharset.title                         "แสดงการเข้ารหัสอักขระ">
+<!ENTITY showCharsetEncoding.title                 "แสดงการเข้ารหัสอักขระ">
+<!ENTITY actionbar.default                         "การตั้งค่า &brandShortName;">
