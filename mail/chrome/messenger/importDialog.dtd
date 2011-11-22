@@ -65,7 +65,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importDescription1.label "Denne vegvisaren hjelper deg å importere e-post, adressebøker, innstillingar og/eller filter frå andre e-postprogram og vanlege adressebokformat til &brandShortName;.">
 <!ENTITY importDescription2.label "Når dei er importerte, vil du kunne bruke dei i &brandShortName; e-post og nyhendegrupper og/eller adressebok.">
 
-<!ENTITY selectDescription.label  "Vel filtypen du ønskjer å importere:">
+<!ENTITY selectDescription.label  "Vel filtypen du ynskjer å importere:">
 <!ENTITY selectDescription.accesskey "V">
 
 <!ENTITY back.label               "&lt; Tilbake">

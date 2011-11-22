@@ -3,7 +3,7 @@
 <!ENTITY checking.heading            "Kontrollerer utvidingar">
 <!ENTITY checking.progress.label     "Kontrollerer utvidingar for kompatibilitet med denne versjonen av &brandShortName;.">
 
-<!ENTITY select.heading              "Vel dine utvidingar">
+<!ENTITY select.heading              "Vel utvidingane dine">
 <!-- LOCALIZATION NOTE (select.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
 <!ENTITY select.description          "Gjer &brandShortName; endå raskare ved å skru av utvidingar du ikkje lenger brukar. Utvidingar som er installerte av tredjepartar vil automatisk verte slått av med mindre du vel dei nedanfor.">
@@ -22,7 +22,7 @@
      selectAddons.properties. -->
 <!ENTITY select.name.style           "width: 33ch;">
 
-<!ENTITY confirm.heading             "Vel dine utvidingar">
+<!ENTITY confirm.heading             "Vel utvidingane dine">
 <!-- LOCALIZATION NOTE (confirm.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
 <!ENTITY confirm.description         "Gjer &brandShortName; endå raskare ved å skru av utvidingar du ikkje lenger brukar. Utvidingar som er installerte av tredjepartar vil automatisk verte slått av med mindre du vel dei nedanfor.">
