@@ -26,6 +26,8 @@
 <!ENTITY submitCrashes.accesskey         "S">
 <!ENTITY submitTelemetry.label           "Nosūtīt veiktspējas datus">
 <!ENTITY submitTelemetry.accesskey       "V">
+<!ENTITY useService.label                "Instalēt atjauninājumus fonā">
+<!ENTITY useService.accesskey            "f">
 
 <!ENTITY systemDefaults.label "Noklusētie iestatījumi">
 <!--XXX-->
