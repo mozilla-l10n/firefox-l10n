@@ -15,6 +15,21 @@
 <!ENTITY muteButton.muteLabel "Oprește sonorul">
 <!ENTITY muteButton.unmuteLabel "Activează sonorul">
 
+<!ENTITY stats.media "Media">
+<!ENTITY stats.size "Size">
+<!ENTITY stats.activity "Activity">
+<!ENTITY stats.activityPaused "Paused">
+<!ENTITY stats.activityPlaying "Redare">
+<!ENTITY stats.activityEnded "Terminat">
+<!ENTITY stats.activitySeeking "(căutare)">
+<!ENTITY stats.volume "Volume">
+<!ENTITY stats.channels "Channels">
+<!ENTITY stats.sampleRate "Rată de eșantionare">
+<!ENTITY stats.framesParsed "Cadre analizate">
+<!ENTITY stats.framesDecoded "Cadre decodate">
+<!ENTITY stats.framesPresented "Cadre prezentate">
+<!ENTITY stats.framesPainted "Cadre pictate">
+
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
