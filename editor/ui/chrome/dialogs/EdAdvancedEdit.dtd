@@ -36,10 +36,10 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY WindowTitle.label              "Editor avansat proprietăți">
-<!ENTITY AttName.label                  "Atribut:">
-<!ENTITY AttValue.label                 "Valoare:">
-<!ENTITY PropertyName.label             "Proprietate:">
+<!ENTITY WindowTitle.label              "Advanced Property Editor">
+<!ENTITY AttName.label                  "Attribute: ">
+<!ENTITY AttValue.label                 "Value: ">
+<!ENTITY PropertyName.label             "Property: ">
 <!ENTITY currentattributesfor.label     "Atribute curente pentru:">
 <!ENTITY tree.attributeHeader.label     "Atribut">
 <!ENTITY tree.propertyHeader.label      "Proprietate">

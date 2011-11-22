@@ -73,13 +73,13 @@
 <!ENTITY copyCmd.accesskey "C">
 <!ENTITY pasteCmd.label "Lipește">
 <!ENTITY pasteCmd.accesskey "L">
-<!ENTITY selectallCmd.label "Selectează _tot">
+<!ENTITY selectallCmd.label "Selectează tot">
 <!ENTITY selectallCmd.accesskey "S">
 <!ENTITY propsCmd.label "Proprietăți zonă sensibilă">
 <!ENTITY propsCmd.accesskey "P">
 
 <!-- View menu -->
-<!ENTITY mapviewMenu.label "Vizualizați">
+<!ENTITY mapviewMenu.label "Vizualizare">
 <!ENTITY mapviewMenu.accesskey "V">
 <!ENTITY showhideTbarCmd.label "Ascunde bara de unelte">
 <!ENTITY showhideTbarCmd.accesskey "A">

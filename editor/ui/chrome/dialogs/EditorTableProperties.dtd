@@ -117,7 +117,7 @@
 <!ENTITY pixels.label                     "pixeli">
 <!ENTITY backgroundColor.label            "Culoare de fundal:">
 <!ENTITY backgroundColor.accessKey        "F">
-<!ENTITY AlignLeft.label                  "Stânga">
-<!ENTITY AlignCenter.label                "Centru">
-<!ENTITY AlignRight.label                 "Dreapta">
+<!ENTITY AlignLeft.label                  "Left">
+<!ENTITY AlignCenter.label                "Center">
+<!ENTITY AlignRight.label                 "Right">
 

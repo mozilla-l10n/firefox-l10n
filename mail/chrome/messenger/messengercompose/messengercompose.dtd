@@ -3,13 +3,12 @@
 #
 # Alexandru Szasz <alexxed@gmail.com>
 # nicubunu <nicubunu@gmail.com>
-# Laudatti <Laudatti@gmail.com>
 # secarica <orice@secarica.ro>
 # janimo <jani@ubuntu.com>
+# Laudatti <Laudatti@gmail.com>
 # rsandu <razvan.sandu@zando.ro>
 # turcan <nicturcan@gmail.com>
 # stas <stas@nerd.ro>
-# anonymous <anonymous@n.a>
 #
 -->
 <!--
@@ -25,7 +24,7 @@
 <!-- File Menu -->
 <!ENTITY fileMenu.label "Fișier"> 
 <!ENTITY fileMenu.accesskey "F">
-<!ENTITY newMenu.label "Adaugă">
+<!ENTITY newMenu.label "Creează">
 <!ENTITY newMenu.accesskey "A">
 <!ENTITY newMessage.label "Mesaj">
 <!ENTITY newMessage.key "M">
@@ -37,6 +36,7 @@
 <!ENTITY attachMenu.accesskey "x">
 <!ENTITY attachFileCmd.label "Fișier(e)…">
 <!ENTITY attachFileCmd.accesskey "F">
+<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachPageCmd.label "Pagină web…">
 <!ENTITY attachPageCmd.accesskey "w">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -48,7 +48,7 @@
 <!ENTITY saveCmd.label "Salvare">
 <!ENTITY saveCmd.key "S">
 <!ENTITY saveCmd.accesskey "S">
-<!ENTITY saveAsCmd.label "Salveaza ca">
+<!ENTITY saveAsCmd.label "Salvează ca">
 <!ENTITY saveAsCmd.accesskey "c">
 <!ENTITY saveAsFileCmd.label "Fișier…">
 <!ENTITY saveAsFileCmd.accesskey "F">
@@ -74,7 +74,7 @@
 <!ENTITY undoCmd.label "Înapoi">
 <!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.accesskey "n"> 
-<!ENTITY redoCmd.label "Refacere">
+<!ENTITY redoCmd.label "Refă">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "R"> 
 <!ENTITY cutCmd.label "Tăiere">
@@ -93,7 +93,7 @@
 <!ENTITY editRewrapCmd.accesskey "n">
 <!ENTITY deleteCmd.label "Șterge">
 <!ENTITY deleteCmd.accesskey "t">
-<!ENTITY selectAllCmd.label "Selectează _tot">
+<!ENTITY selectAllCmd.label "Selectează tot">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a"> 
 <!ENTITY findCmd.label "Caută și înlocuiește…">
@@ -109,7 +109,7 @@
 <!ENTITY findPrevCmd.accesskey "n"> 
 
 <!-- View Menu -->
-<!ENTITY viewMenu.label "Vizualizați"> 
+<!ENTITY viewMenu.label "Vizualizare"> 
 <!ENTITY viewMenu.accesskey "V">
 <!ENTITY viewToolbarsMenuNew.label "Bare de unelte"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "t"> 
@@ -241,7 +241,7 @@
 <!ENTITY attachments.accesskey "B">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
-<!ENTITY SmileButton.tooltip "Inserează o figură zâmbitoare">
+<!ENTITY SmileButton.tooltip "Insert a smiley face">
 <!ENTITY smiley1Cmd.label "Zâmbet">
 <!ENTITY smiley2Cmd.label "Scârbit">
 <!ENTITY smiley3Cmd.label "Clipit">
@@ -284,7 +284,7 @@
 <!ENTITY removeAttachment.accesskey "m">
 <!ENTITY renameAttachment.label "Redenumește…">
 <!ENTITY renameAttachment.accesskey "R">
-<!ENTITY selectAll.label "Selectează _tot">
+<!ENTITY selectAll.label "Selectează tot">
 <!ENTITY selectAll.accesskey "a">
 <!ENTITY attachFile.label "Anexează fișier(e)…">
 <!ENTITY attachFile.accesskey "f">

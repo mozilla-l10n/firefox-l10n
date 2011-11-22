@@ -48,19 +48,19 @@
 
 <!ENTITY windowTitle.label "Proprietăți formular">
 
-<!ENTITY Settings.label "Setări">
+<!ENTITY Settings.label "Settings">
 
-<!ENTITY FormName.label "Nume formular:">
+<!ENTITY FormName.label "Form Name:">
 <!ENTITY FormName.accesskey "N">
-<!ENTITY FormAction.label "URL acțiune:">
-<!ENTITY FormAction.accesskey "U">
-<!ENTITY FormMethod.label "Metodă:">
+<!ENTITY FormAction.label "Action URL:">
+<!ENTITY FormAction.accesskey "A">
+<!ENTITY FormMethod.label "Method:">
 <!ENTITY FormMethod.accesskey "M">
-<!ENTITY FormEncType.label "Codare:">
-<!ENTITY FormEncType.accesskey "C">
-<!ENTITY FormTarget.label "Cadru de destinație:">
-<!ENTITY FormTarget.accesskey "C">
+<!ENTITY FormEncType.label "Encoding:">
+<!ENTITY FormEncType.accesskey "c">
+<!ENTITY FormTarget.label "Target Frame:">
+<!ENTITY FormTarget.accesskey "T">
 
-<!ENTITY RemoveForm.label "Elimină formular">
-<!ENTITY RemoveForm.accesskey "E">
+<!ENTITY RemoveForm.label "Remove Form">
+<!ENTITY RemoveForm.accesskey "R">
 

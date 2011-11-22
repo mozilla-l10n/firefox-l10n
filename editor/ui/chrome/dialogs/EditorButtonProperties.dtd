@@ -36,25 +36,25 @@
 
 <!ENTITY windowTitle.label "Proprietăți buton">
 
-<!ENTITY Settings.label "Setări">
+<!ENTITY Settings.label "Settings">
 
-<!ENTITY ButtonType.label "Tip">
+<!ENTITY ButtonType.label "Type">
 <!ENTITY ButtonType.accesskey "T">
 <!ENTITY submit.value "Trimite">
 <!ENTITY reset.value "Resetează">
 <!ENTITY button.value "buton">
 
-<!ENTITY ButtonName.label "Numele:">
+<!ENTITY ButtonName.label "Name:">
 <!ENTITY ButtonName.accesskey "N">
-<!ENTITY ButtonValue.label "Valoare:">
+<!ENTITY ButtonValue.label "Value:">
 <!ENTITY ButtonValue.accesskey "V">
 <!ENTITY tabIndex.label "Index tab:">
 <!ENTITY tabIndex.accesskey "I">
-<!ENTITY ButtonDisabled.label "Inactivat">
-<!ENTITY ButtonDisabled.accesskey "I">
-<!ENTITY AccessKey.label "Tastă acces:">
-<!ENTITY AccessKey.accesskey "a">
+<!ENTITY ButtonDisabled.label "Disabled">
+<!ENTITY ButtonDisabled.accesskey "D">
+<!ENTITY AccessKey.label "Access Key:">
+<!ENTITY AccessKey.accesskey "K">
 
-<!ENTITY RemoveButton.label "Elimină buton">
-<!ENTITY RemoveButton.accesskey "E">
+<!ENTITY RemoveButton.label "Remove Button">
+<!ENTITY RemoveButton.accesskey "R">
 

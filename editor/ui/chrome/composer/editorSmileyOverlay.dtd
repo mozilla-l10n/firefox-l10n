@@ -98,6 +98,6 @@
 <!ENTITY smiley16Cmd.label "Cu buzele pecetluite">
 <!ENTITY smiley16Cmd.accesskey "b">
 <!ENTITY smiley16Cmd.tooltip "Inserează o figură cu buzele pecetluite">
-<!ENTITY SmileButton.tooltip "Inserează o figură zâmbitoare">
+<!ENTITY SmileButton.tooltip "Insert a smiley face">
 
 

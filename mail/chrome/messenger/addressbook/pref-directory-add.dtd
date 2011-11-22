@@ -63,9 +63,9 @@
 <!ENTITY directorySecure.accesskey         "u">
 <!ENTITY directoryLogin.label              "Bind DN: ">
 <!ENTITY directoryLogin.accesskey          "i">
-<!ENTITY General.tab                       "Generalități">
+<!ENTITY General.tab                       "General">
 <!ENTITY Offline.tab                       "Offline">
-<!ENTITY Advanced.tab                      "Avansat">
+<!ENTITY Advanced.tab                      "Advanced">
 <!ENTITY portNumber.label                  "Număr port:">
 <!ENTITY portNumber.accesskey              "p">
 <!ENTITY searchFilter.label                "Filtru căutare:">
