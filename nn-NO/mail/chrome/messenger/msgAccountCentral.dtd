@@ -13,7 +13,7 @@
 <!ENTITY advFeaturesSectionHdr.label  "Avanserte funksjonar"> 
 <!ENTITY searchMsgsLink.label         "Søk i meldingar"> 
 <!ENTITY filtersLink.label            "Opprett meldingsfilter">
-<!ENTITY junkSettings.label           "Innstillingar for uønskt e-post">
+<!ENTITY junkSettings.label           "Innstillingar for uynskt e-post">
 <!ENTITY offlineLink.label            "Innstillingar for fråkopla tilstand">
 
 <!ENTITY feedsSectionHdr.label        "Kjelder">

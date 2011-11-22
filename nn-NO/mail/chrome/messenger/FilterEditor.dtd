@@ -3,8 +3,8 @@
 <!ENTITY filterName.label "Filternamn:">
 <!ENTITY filterName.accesskey "F">
 
-<!ENTITY junk.label "Uønskt">
-<!ENTITY notJunk.label "Ønskt">
+<!ENTITY junk.label "Uynskt">
+<!ENTITY notJunk.label "Ynskt">
 
 <!ENTITY lowestPriorityCmd.label "Lågast">
 <!ENTITY lowPriorityCmd.label "Låg">
@@ -31,7 +31,7 @@
 <!ENTITY markMessageStarred.label "Merk med stjerne">
 <!ENTITY setPriority.label "Sett prioritet til">
 <!ENTITY addTag.label "Merk melding">
-<!ENTITY setJunkScore.label "Sett uønskt-status til">
+<!ENTITY setJunkScore.label "Sett uynskt-status til">
 <!ENTITY deleteMessage.label "Slett melding">
 <!ENTITY deleteFromPOP.label "Slett frå POP-tenaren">
 <!ENTITY fetchFromPOP.label "Hent frå POP-tenaren">

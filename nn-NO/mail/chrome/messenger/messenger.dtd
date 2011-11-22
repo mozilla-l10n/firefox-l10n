@@ -5,7 +5,7 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Mappe …">
 <!ENTITY newFolderCmd.accesskey "e">
-<!ENTITY closeTabCmd2.label "Lat att fana">
+<!ENTITY closeTabCmd2.label "Lat att fane">
 <!ENTITY closeTabCmd2.accesskey "L">
 <!ENTITY closeOtherTabsCmd2.label "Lat att andre faner">
 <!ENTITY closeOtherTabsCmd2.accesskey "a">
@@ -119,6 +119,8 @@
 <!ENTITY redoDefaultCmd.accesskey "G">
 
 <!-- View Menu -->
+<!ENTITY menubarCmd.label "Menu Bar">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showMessengerToolbarCmd.label "Meldingslinje">
 <!ENTITY showMessengerToolbarCmd.accesskey "e">
 <!ENTITY customizeToolbar.label "Tilpass …">
@@ -167,8 +169,8 @@
 <!ENTITY sortByStatusCmd.accesskey "u">
 <!ENTITY sortByTagsCmd.label "Stikkord">
 <!ENTITY sortByTagsCmd.accesskey "t">
-<!ENTITY sortByJunkStatusCmd.label "Uønskt-status">
-<!ENTITY sortByJunkStatusCmd.accesskey "ø">
+<!ENTITY sortByJunkStatusCmd.label "Uynskt-status">
+<!ENTITY sortByJunkStatusCmd.accesskey "y">
 <!ENTITY sortBySubjectCmd.label "Emne">
 <!ENTITY sortBySubjectCmd.accesskey "E">
 <!ENTITY sortByFromCmd.label "Frå">
@@ -269,6 +271,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageSourceCmd.label "Kjeldekode">
 <!ENTITY pageSourceCmd.accesskey "K">
 <!ENTITY pageSourceCmd.key "u">
+<!ENTITY getNewMessagesCmd.key "y">
+<!ENTITY getAllNewMessagesCmd.key "Y">
 
 <!-- Search Menu -->
 <!ENTITY findMenu.label "Søk">
@@ -422,13 +426,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markStarredCmd.label "Merk med stjerne">
 <!ENTITY markStarredCmd.accesskey "s">
 <!ENTITY markStarredCmd.key "S">
-<!ENTITY markAsJunkCmd.label "Som uønskt">
+<!ENTITY markAsJunkCmd.label "Som uynskt">
 <!ENTITY markAsJunkCmd.accesskey "o">
 <!ENTITY markAsJunkCmd.key "j">
-<!ENTITY markAsNotJunkCmd.label "Som ønskt">
+<!ENTITY markAsNotJunkCmd.label "Som ynskt">
 <!ENTITY markAsNotJunkCmd.accesskey "m">
 <!ENTITY markAsNotJunkCmd.key "j">
-<!ENTITY recalculateJunkScoreCmd.label "Køyr kontroll av uønskt e-post">
+<!ENTITY recalculateJunkScoreCmd.label "Køyr kontroll av uynskt e-post">
 <!ENTITY recalculateJunkScoreCmd.accesskey "K">
 <!ENTITY openMessageWindowCmd.label "Opne melding">
 <!ENTITY openMessageWindowCmd.accesskey "O">
@@ -471,9 +475,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY filtersApplyToSelection.accesskey "f">
 <!ENTITY filtersApplyToMessage.label "Køyr filter på meldingar">
 <!ENTITY filtersApplyToMessage.accesskey "ø">
-<!ENTITY runJunkControls.label "Køyr kontroll av uønskt e-post på mappe">
+<!ENTITY runJunkControls.label "Køyr kontroll av uynskt e-post på mappe">
 <!ENTITY runJunkControls.accesskey "r">
-<!ENTITY deleteJunk.label "Slett all uønskt e-post i denne mappa">
+<!ENTITY deleteJunk.label "Slett all uynskt e-post i denne mappa">
 <!ENTITY deleteJunk.accesskey "S">
 <!ENTITY importCmd.label "Importer …">
 <!ENTITY importCmd.accesskey "m">
@@ -498,14 +502,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY previousButton.label "Førre">
 <!ENTITY backButton1.label "Tilbake">
 <!ENTITY goForwardButton1.label "Fram">
+<!ENTITY deleteItem.title "Slett">
 <!ENTITY deleteButton.label "Slett">
 <!ENTITY undeleteButton.label "Angre sletting">
 <!ENTITY markButton.label "Merk">
 <!ENTITY printButton.label "Skriv ut">
 <!ENTITY stopButton.label "Stopp">
 <!ENTITY throbberItem.title "Aktivitetsindikator">
-<!ENTITY junkButton.label "uønskt">
-<!ENTITY notJunkButton.label "ønskt">
+<!ENTITY junkItem.title "Søppel">
+<!ENTITY junkButton.label "Uynskt">
+<!ENTITY notJunkButton.label "Ynskt">
 <!ENTITY addressBookButton.label "Adressebok">
 <!ENTITY glodaSearch.title "Globalt søk">
 <!ENTITY searchItem.title "Snøggsøk">
@@ -535,8 +541,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markButton.tooltip "Merk meldingar">
 <!ENTITY printButton.tooltip "Skriv ut denne meldinga">
 <!ENTITY stopButton.tooltip "Stopp denne overføringa">
-<!ENTITY junkButton.tooltip "Merk dei valde meldingane som uønskte">
-<!ENTITY notJunkButton.tooltip "Merk den valde meldinga som ønskt">
+<!ENTITY junkButton.tooltip "Merk dei valde meldingane som uynskte">
+<!ENTITY notJunkButton.tooltip "Merk den valde meldinga som ynskt">
 <!ENTITY addressBookButton.tooltip "Gå til adresseboka">
 <!ENTITY tagButton.tooltip "Merk meldingar">
 <!ENTITY compactButton.tooltip "Fjern sletta meldingar frå vald mappe">
@@ -614,7 +620,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY accountColumn.label "Konto">
 <!ENTITY statusColumn.label "Status">
 <!ENTITY sizeColumn.label "Storleik">
-<!ENTITY junkStatusColumn.label "Uønskt-status">
+<!ENTITY junkStatusColumn.label "Uynskt-status">
 <!ENTITY unreadColumn.label "Ulesen">
 <!ENTITY totalColumn.label "Totalt">
 <!ENTITY readColumn.label "Lesen">
@@ -636,7 +642,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY accountColumn.tooltip "Trykk her for å sortere etter konto">
 <!ENTITY statusColumn.tooltip "Trykk her for å sortere etter status">
 <!ENTITY sizeColumn.tooltip "Trykk her for å sortere etter storleik">
-<!ENTITY junkStatusColumn.tooltip "Trykk her for å sortere etter uønskt-status">
+<!ENTITY junkStatusColumn.tooltip "Trykk her for å sortere etter uynskt-status">
 <!ENTITY unreadColumn.tooltip "Tal på ulesne meldingar i tråden">
 <!ENTITY totalColumn.tooltip "Totalt tal på meldingar i tråden">
 <!ENTITY readColumn.tooltip "Trykk her for å sortere etter lesen-tilstand">
@@ -744,8 +750,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextUnmute.accesskey "å">
 
 <!-- Junk Bar -->
-<!ENTITY junkBarMessage1.label "Uønskt e-post">
-<!ENTITY junkBarButton1.label "ønskt">
+<!ENTITY junkBarMessage1.label "Uynskt e-post">
+<!ENTITY junkBarButton1.label "Ynskt">
 <!ENTITY junkInfoButton.label "?">
 
 <!-- Remote Content Bar -->
