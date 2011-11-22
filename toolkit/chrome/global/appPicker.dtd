@@ -4,7 +4,6 @@
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
-<!ENTITY NoAppFound.label      "Nu s-a găsit nicio aplicație pentru acest tip de fișier.">
-<!ENTITY BrowseButton.label    "Răsfoiește...">
-<!ENTITY SendMsg.label         "Trimite către:">
-
+<!ENTITY NoAppFound.label      "No applications were found for this file type.">
+<!ENTITY BrowseButton.label    "Browse…">
+<!ENTITY SendMsg.label         "Send this item to:">
