@@ -7,6 +7,7 @@
 <!ENTITY go.label              "ไป">
 <!ENTITY star.label            "ดาว">
 
+<!ENTITY showTabs.label        "แสดงแท็บ">
 <!ENTITY newtab.label          "แท็บใหม่">
 <!ENTITY closetab.label        "ปิดแท็บ">
 
@@ -14,7 +15,8 @@
 <!ENTITY copy.label            "คัดลอก">
 <!ENTITY copyAll.label         "คัดลอกทั้งหมด">
 <!ENTITY copylink.label        "คัดลอกที่ตั้งลิงก์">
-<!ENTITY paste.label           "แปะ">
+<!ENTITY paste.label           "วาง">
+<!ENTITY pasteAndGo.label      "วางแล้วเข้าเว็บ">
 <!ENTITY delete.label          "ลบ">
 <!ENTITY selectAll.label       "เลือกทั้งหมด">
 <!ENTITY noSuggestions.label   "(ไม่มีรายการแนะนำ)">
@@ -68,6 +70,7 @@
 <!ENTITY bookmarkPopup.label       "คั่นหน้าแล้ว">
 <!ENTITY bookmarkRemove.label      "เอาออก">
 <!ENTITY bookmarkEdit.label        "แก้ไข">
+<!ENTITY bookmarkShortcut.label    "เพิ่มลงหน้าจอแรก">
 
 <!ENTITY identity.unverifiedsite2 "เว็บไซต์นี้ไม่ได้ระบุข้อมูลอัตลักษณ์">
 <!ENTITY identity.connectedTo2 "ได้เชื่อมต่อไปยัง">
@@ -91,10 +94,14 @@
 <!ENTITY consoleErrColumn.label    "สดมภ์:">
 
 <!ENTITY contextOpenInNewTab.label    "เปิดลิงก์ในแท็บใหม่">
-<!ENTITY contextSaveLink.label        "บันทึกลิงก์">
 <!ENTITY contextSaveImage.label       "บันทึกรูป">
+<!ENTITY contextCopyLink.label        "คัดลอกลิงก์">
+<!ENTITY contextCopyEmail.label       "คัดลอกที่อยู่อีเมล">
+<!ENTITY contextCopyPhone.label       "คัดลอกหมายเลขโทรศัพท์">
+<!ENTITY contextCopyImageLocation.label       "คัดลอกที่ตั้งภาพ">
 <!ENTITY contextShareLink.label       "แบ่งปันลิงก์">
 <!ENTITY contextShareImage.label      "แบ่งปันรูป">
+<!ENTITY contextBookmarkLink.label    "คั่นลิงก์">
 <!ENTITY contextSaveVideo.label       "บันทึกวิดีโอ">
 <!ENTITY contextShareVideo.label      "แบ่งปันวิดีโอ">
 <!ENTITY contextPlayMedia.label       "เล่น">
@@ -102,10 +109,12 @@
 <!ENTITY contextFullScreen.label      "เต็มจอ">
 <!ENTITY contextEditBookmark.label    "แก้ไข">
 <!ENTITY contextRemoveBookmark.label  "ลบ">
+<!ENTITY contextShortcutBookmark.label "เพิ่มลงหน้าจอแรก">
 
 <!ENTITY pageactions.saveas.pdf      "บันทึกเป็น PDF">
 <!ENTITY pageactions.share.page      "แบ่งปันหน้านี้">
 <!ENTITY pageactions.password.forget "จำรหัสผ่านไม่ได้">
+<!ENTITY pageactions.quit            "ออก">
 <!ENTITY pageactions.reset           "ล้างค่าปรับแต่งของเว็บไซต์">
 <!ENTITY pageactions.findInPage      "ค้นหาในหน้านี้">
 <!ENTITY pageactions.search.addNew   "เพิ่มเครื่องมือค้นหา">

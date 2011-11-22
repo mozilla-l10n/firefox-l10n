@@ -13,7 +13,6 @@
 
 # LOCALIZATION NOTE (bookmarks_welcome):
 # link title for about:firstrun
-#define bookmarks_welcome Firefox: ยินดีต้อนรับ
 
 # LOCALIZATION NOTE (bookmarks_aboutBrowser):
 # link title for about:fennec

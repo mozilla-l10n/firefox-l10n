@@ -7,19 +7,18 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "ไม่สามารถเชื่อมต่อได้">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
 
 <!ENTITY deniedPortAccess.title "ที่ตั้งนี้ถูกจำกัด">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "ไม่พบเซิร์ฟเวอร์">
-<!ENTITY dnsNotFound.longDesc "
+<!ENTITY dnsNotFound.longDesc2 "
 <ul>
   <li>ตรวจสอบว่าพิมพ์ที่ตั้งถูกหรือไม่ เช่น
     <strong>ww</strong>.example.com แทนที่จะเป็น
     <strong>www</strong>.example.com</li>
-  <li>หากคุณไม่สามารถโหลดหน้าเว็บใดๆ ได้เลย ลองตรวจสอบสถานะการเชื่อมต่อเครือข่ายของคุณ</li>
-  <li>หากคอมพิวเตอร์หรือเครือข่ายของคุณอยู่ภายใต้ไฟร์วอลล์หรือพร็อกซี ให้ตรวจสอบว่า &brandShortName; ได้รับอนุญาตให้เข้าถึงเว็บหรือไม่</li>
+  <li>หากคุณไม่สามารถโหลดหน้าเว็บใดๆ ได้เลย ลองตรวจสอบการรับส่งข้อมูลของอุปกรณ์ หรือการเชื่อมต่อ Wi-Fi</li>
 </ul>
 ">
 
@@ -47,10 +46,13 @@
 ">
 
 <!ENTITY netInterrupt.title "การเชื่อมต่อถูกขัด">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+
+<!ENTITY notCached.title "เอกสารหมดอายุ">
+<!ENTITY notCached.longDesc "<p>เอกสารที่เรียก ไม่อยู่ในแคชของ &brandShortName;</p><ul><li>ตามมาตรการการรักษาความปลอดภัย &brandShortName; จะไม่เรียกเอกสารที่ละเอียดอ่อนให้ใหม่โดยอัตโนมัติ</li><li>กดลองอีกครั้ง เพื่อเรียกเอกสารจากเว็บไซต์ใหม่</li></ul>">
 
 <!ENTITY netOffline.title "ทำงานออฟไลน์">
-<!ENTITY netOffline.overrideLongDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
   <li>ลองใหม่ &brandShortName; จะพยายามสร้างการเชื่อมต่อและโหลดหน้าเว็บใหม่</li>
 </ul>
@@ -71,10 +73,10 @@
 ">
 
 <!ENTITY netReset.title "การเชื่อมต่อถูกล้าง">
-<!ENTITY netReset.longDesc "&sharedLongDesc;">
+<!ENTITY netReset.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netTimeout.title "หมดเวลาการเชื่อมต่อ">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
 <!ENTITY protocolNotFound.title "ไม่เข้าใจที่ตั้งนี้">
 <!ENTITY protocolNotFound.longDesc "
@@ -92,11 +94,10 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "ไม่พบเซิร์ฟเวอร์พร็อกซี">
-<!ENTITY proxyResolveFailure.longDesc "
+<!ENTITY proxyResolveFailure.longDesc2 "
 <ul>
-  <li>ตรวจสอบการตั้งค่าพร็อกซีให้ถูกต้อง</li>
-  <li>ตรวจสอบว่าคอมพิวเตอร์ของคุณเชื่อมต่อกับเครือข่ายที่ใช้งานได้</li>
-  <li>หากคอมพิวเตอร์หรือเครือข่ายของคุณอยู่ภายใต้ไฟร์วอลล์หรือพร็อกซี ให้ตรวจสอบว่า &brandShortName; ได้รับอนุญาตให้เข้าถึงเว็บหรือไม่</li>
+  <li>ตรวจสอบการตั้งค่าพร็อกซีให้แน่ใจว่าใช้งานได้</li>
+  <li>ตรวจสอบให้แน่ใจว่าอุปกรณ์ของคุณเชื่อมต่อกับเครือข่ายข้อมูลหรือ Wi-Fi</li>
 </ul>
 ">
 
@@ -131,28 +132,18 @@
 </ul>
 ">
 
-<!ENTITY sharedLongDesc "
+<!ENTITY sharedLongDesc2 "
 <ul>
   <li>ไม่สามารถเข้าถึงเว็บไซต์นี้ได้ชั่วคราว หรือเว็บไซต์อาจกำลังทำงานหนัก รออีกสักพักแล้วลองใหม่</li>
-  <li>หากคุณไม่สามารถโหลดหน้าเว็บใดๆ ได้เลย ลองตรวจสอบสถานะการเชื่อมต่อเครือข่ายของคุณ </li>
-  <li>หากคอมพิวเตอร์หรือเครือข่ายของคุณอยู่ภายใต้ไฟร์วอลล์หรือพร็อกซี ให้ตรวจสอบว่า &brandShortName; ได้รับอนุญาตให้เข้าถึงเว็บหรือไม่</li>
+  <li>หากคุณไม่สามารถโหลดหน้าเว็บใดๆ ได้เลย ลองตรวจสอบการรับส่งข้อมูลของอุปกรณ์ หรือการเชื่อมต่อ Wi-Fi</li>
 </ul>
-">
-
-<!ENTITY malwareBlocked.title "พบข้อสงสัยว่าจะเป็นเว็บรุกราน!">
-<!ENTITY malwareBlocked.longDesc "
-<p>เว็บรุกรานจะพยายามติดตั้งโปรแกรมเพื่อขโมยข้อมูลของคุณ ใช้คอมพิวเตอร์ของคุณเพื่อโจมตีคอมพิวเตอร์ของผู้อื่น หรือทำความเสียหายให้กับระบบของคุณ</p>
-<p>เจ้าของเว็บไซต์ที่เชื่อว่าการรายงานเว็บรุกรานนี้ผิดพลาด สามารถ<a href='http://www.stopbadware.org/home/reviewinfo' >ร้องขอการตรวจสอบ</a>ได้</p>
-">
-
-<!ENTITY phishingBlocked.title "พบข้อสงสัยว่าจะเป็นเว็บปลอมแปลง!">
-<!ENTITY phishingBlocked.longDesc "
-<p>การป้อนข้อมูลส่วนตัวให้กับเว็บไซต์นี้ อาจทำให้ถูกขโมยอัตลักษณ์หรือหลอกลวงอื่นได้</p>
-<p>เว็บปลอมแปลงประเภทนี้จัดเป็นประเภท phishing ซึ่งจะลอกเลียนหน้าตาของเว็บไซต์หรืออีเมลที่คุณอาจหลงเชื่อ</p>
 ">
 
 <!ENTITY cspFrameAncestorBlocked.title "ถูกปิดกั้นโดยนโยบายความปลอดภัยของเนื้อหา">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; ระงับการโหลดหน้าเว็บ เนื่องจากหน้านี้มีนโยบายความปลอดภัยของเนื้อหาที่ไม่อนุญาตให้โหลดหน้าเว็บด้วยวิธีนี้</p>">
+
+<!ENTITY corruptedContentError.title "ผิดพลาดจากเนื้อหาเสียหาย">
+<!ENTITY corruptedContentError.longDesc "<p>ไม่สามารถแสดงหน้าเว็บที่คุณพยายามเรียกดูได้เนื่องจากเกิดความผิดพลาดในการรับส่งข้อมูล </p><ul><li>โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งถึงปัญหานี้</li></ul>">
 
 <!ENTITY securityOverride.linkText "หรือคุณสามารถเพิ่มข้อยกเว้น…">
 <!ENTITY securityOverride.getMeOutOfHereButton "นำฉันออกไปจากที่นี่!">
@@ -169,3 +160,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
+
+<!ENTITY remoteXUL.title "รีโมท XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งถึงปัญหานี้</li></ul></p>">

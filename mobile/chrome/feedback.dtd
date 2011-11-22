@@ -5,10 +5,7 @@
 <!ENTITY feedback.feedback.good         "ดี">
 <!ENTITY feedback.feedback.bad          "แย่">
 
-<!ENTITY feedback.information.title     "ข้อมูลเพิ่มเติม">
-<!ENTITY feedback.about.title           "เกี่ยวกับ Beta นี้">
-<!ENTITY feedback.about.button          "เปิดดู">
-
 <!ENTITY feedback.tools.title           "เครื่องมือ">
+<!ENTITY feedback.allowTelemetry.title  "ส่งข้อมูลประสิทธิภาพการทำงาน">
 <!ENTITY feedback.forceCompat.title     "บังคับความเข้ากันได้ของส่วนเสริม">
 <!ENTITY feedback.errorConsole.title    "เปิดใช้งานคอนโซลข้อผิดพลาด">
