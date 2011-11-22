@@ -48,13 +48,15 @@
 <!ENTITY newVirtualFolderCmd.accesskey "s">
 <!ENTITY newOtherAccountsCmd.label "Alte conturi…">
 <!ENTITY newOtherAccountsCmd.accesskey "o">
-<!ENTITY newEmailAccountCmd.label "Cont de email…">
-<!ENTITY newEmailAccountCmd.accesskey "a">
+<!ENTITY newCreateEmailAccountCmd.label "Get a New Mail Account…">
+<!ENTITY newCreateEmailAccountCmd.accesskey "G">
+<!ENTITY newExistingEmailAccountCmd.label "Existing Mail Account…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "E">
 <!ENTITY openMessageFileCmd.label "Deschide un mesaj salvat…">
 <!ENTITY openMessageFileCmd.accesskey "h">
 <!ENTITY openAttachmentCmd.label "Atașamente">
 <!ENTITY openAttachmentCmd.accesskey "A">
-<!ENTITY saveAsMenu.label "Salveaza ca">
+<!ENTITY saveAsMenu.label "Salvează ca">
 <!ENTITY saveAsMenu.accesskey "S">
 <!ENTITY saveAsFileCmd.label "Fișier">
 <!ENTITY saveAsFileCmd.accesskey "F">
@@ -140,7 +142,7 @@
 <!ENTITY redoMarkAllCmd.label "Refă marcarea tuturor ca citite">
 <!ENTITY undoDefaultCmd.label "Înapoi">
 <!ENTITY undoDefaultCmd.accesskey "n">
-<!ENTITY redoDefaultCmd.label "Refacere">
+<!ENTITY redoDefaultCmd.label "Refă">
 <!ENTITY redoDefaultCmd.accesskey "R">
 
 <!-- View Menu -->
@@ -159,6 +161,8 @@
 <!ENTITY messagePaneWide.accesskey "V">
 <!ENTITY messagePaneVertical.label "Vedere verticală">
 <!ENTITY messagePaneVertical.accesskey "V">
+<!ENTITY showFolderPaneCmd.label "Folder Pane">
+<!ENTITY showFolderPaneCmd.accesskey "F">
 <!ENTITY showMessageCmd.label "Panoul de mesaj">
 <!ENTITY showMessageCmd.accesskey "m">
 
@@ -333,7 +337,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY nextUnreadThread.label "Conversație necitită">
 <!ENTITY nextUnreadThread.accesskey "C">
 <!ENTITY nextUnreadThread.key "t">
-<!ENTITY prevMenu.label "Precedent">
+<!ENTITY prevMenu.label "Înapoi">
 <!ENTITY prevMenu.accesskey "P">
 <!ENTITY prevMsgCmd.label "Mesaj">
 <!ENTITY prevMsgCmd.accesskey "M">
@@ -432,7 +436,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tagCmd7.key "7">
 <!ENTITY tagCmd8.key "8">
 <!ENTITY tagCmd9.key "9">
-<!ENTITY markMenu.label "Semn">
+<!ENTITY markMenu.label "Marchează">
 <!ENTITY markMenu.accesskey "m">
 <!ENTITY toggleReadCmd.key "m">
 <!ENTITY markAsReadCmd.label "Ca citit">
@@ -619,7 +623,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextSettings.accesskey "e">
 
 <!-- Search Bar -->
-<!ENTITY SearchNameOrEmail.label "Numele sau mesajul conțin:">
+<!ENTITY SearchNameOrEmail.label "Name or Email contains:">
 <!ENTITY SearchNameOrEmail.accesskey "N">
 
 <!-- Gloda Search Bar -->
@@ -825,26 +829,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY searchAllMessages.keyLabel2.mac "&lt;&#x2318;K&gt;">
 
 <!-- Message Header Context Menu -->
-<!ENTITY AddToAddressBook.label "Adaugă la contacte…">
-<!ENTITY AddToAddressBook.accesskey "c">
-<!ENTITY AddDirectlyToAddressBook.label "Adaugă la agenda de contacte">
-<!ENTITY AddDirectlyToAddressBook.accesskey "A">
-<!ENTITY EditContact.label "Editează contactul…">
+<!ENTITY AddToAddressBook.label "Add to Address Book…">
+<!ENTITY AddToAddressBook.accesskey "B">
+<!ENTITY AddDirectlyToAddressBook.label "Add to Address Book">
+<!ENTITY AddDirectlyToAddressBook.accesskey "B">
+<!ENTITY EditContact.label "Edit Contact…">
 <!ENTITY EditContact.accesskey "E">
-<!ENTITY ViewContact.label "Vizualizare contact">
+<!ENTITY ViewContact.label "View Contact">
 <!ENTITY ViewContact.accesskey "V">
-<!ENTITY SubscribeToNewsgroup.label "Abonare la grupul de discuții">
-<!ENTITY SubscribeToNewsgroup.accesskey "n">
-<!ENTITY SendMessageTo.label "Compune un mesaj către">
+<!ENTITY SubscribeToNewsgroup.label "Subscribe to Newsgroup">
+<!ENTITY SubscribeToNewsgroup.accesskey "N">
+<!ENTITY SendMessageTo.label "Compose Message To">
 <!ENTITY SendMessageTo.accesskey "s">
-<!ENTITY CopyEmailAddress.label "Copiază adresa de email">
+<!ENTITY CopyEmailAddress.label "Copy Email Address">
 <!ENTITY CopyEmailAddress.accesskey "C">
-<!ENTITY CopyNewsgroupName.label "Copiază numele grupului de discuții">
+<!ENTITY CopyNewsgroupName.label "Copy Newsgroup Name">
 <!ENTITY CopyNewsgroupName.accesskey "C">
-<!ENTITY CopyNewsgroupURL.label "Copiază adresa grupului de discuții">
-<!ENTITY CopyNewsgroupURL.accesskey "u">
-<!ENTITY CreateFilterFrom.label "Creează filtru din…">
-<!ENTITY CreateFilterFrom.accesskey "f">
+<!ENTITY CopyNewsgroupURL.label "Copy Newsgroup URL">
+<!ENTITY CopyNewsgroupURL.accesskey "U">
+<!ENTITY CreateFilterFrom.label "Create Filter From…">
+<!ENTITY CreateFilterFrom.accesskey "F">
 <!ENTITY reportPhishingURL.label "Raportează înșelătorie prin email">
 <!ENTITY reportPhishingURL.accesskey "o">
 

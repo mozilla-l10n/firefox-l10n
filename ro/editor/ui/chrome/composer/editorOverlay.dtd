@@ -62,42 +62,14 @@
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
 <!-- File menu items -->
-<!ENTITY fileMenu.label "Fișier">
-<!ENTITY fileMenu.accesskey "F">
-<!ENTITY openFileCmd.label "Deschide un fișier…">
-<!ENTITY openFileCmd.accesskey "D">
-<!ENTITY openFileCmd.key "D">
-<!ENTITY openRemoteCmd.label "Deschide o adresă web…">
-<!ENTITY openRemoteCmd.accesskey "D">
-<!ENTITY openRemoteCmd.key "L">
-<!ENTITY fileRecentMenu.label "Pagini recente">
-<!ENTITY fileRecentMenu.accesskey "P">
-<!ENTITY fileRevert.label "Revenire">
-<!ENTITY fileRevert.accesskey "n">
-<!ENTITY saveCmd.label "Salvare">
-<!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveCmd.key "S">
-<!ENTITY saveAsCmd.label "Salvează ca…">
-<!ENTITY saveAsCmd.accesskey "S">
-
-<!ENTITY publishCmd.label "Publică">
-<!ENTITY publishCmd.accesskey "P">
-<!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "Publică ca…">
-<!ENTITY publishAsCmd.accesskey "P">
-<!ENTITY saveAsChangeEncodingCmd.label "Trtetete">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "T">
 
 <!-- Edit menu items -->
-<!ENTITY editMenu.label "Editare">
-<!ENTITY editMenu.accesskey "E">
 <!ENTITY pasteNoFormatting.label "Lipește fără formatare">
 <!ENTITY pasteNoFormatting.accesskey "i">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Lipește ca">
 <!ENTITY pasteAs.accesskey "a">
-<!ENTITY publishSettings.label "Opțiuni sit publicare…">
-<!ENTITY publishSettings.accesskey "b">
 <!ENTITY pasteAsQuotationCmd.label "Lipește ca citat">
 <!ENTITY pasteAsQuotationCmd.accesskey "L">
 <!ENTITY pasteAsQuotationCmd.key "o">
@@ -141,7 +113,7 @@
 <!ENTITY editLinkCmd.accesskey "E">
 
 <!-- Font Face SubMenu -->
-<!ENTITY FontFaceSelect.tooltip "Alegeți un font">
+<!ENTITY FontFaceSelect.tooltip "Choose a font">
 <!ENTITY fontfaceMenu.label "Font">
 <!ENTITY fontfaceMenu.accesskey "F">
 <!ENTITY fontVarWidth.label "Lățime variabilă">
@@ -157,7 +129,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
-<!ENTITY FontSizeSelect.tooltip "Alegeți mărimea fontului">
+<!ENTITY FontSizeSelect.tooltip "Choose a font size">
 <!ENTITY decreaseFontSize.label "Mai mic">
 <!ENTITY decreaseFontSize.accesskey "M">
 <!ENTITY decreaseFontSize.key "-">
@@ -229,7 +201,7 @@
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Elimină ancorele cu nume">
 <!ENTITY formatRemoveNamedAnchors.accesskey "l">
-<!ENTITY formatRemoveNamedAnchors.key "A">
+<!ENTITY formatRemoveNamedAnchors2.key "R">
 
 <!ENTITY paragraphMenu.label "Paragraf">
 <!ENTITY paragraphMenu.accesskey "P">
@@ -268,7 +240,7 @@
 <!ENTITY listPropsCmd.label "Proprietăți listă…">
 <!ENTITY listPropsCmd.accesskey "l">
 
-<!ENTITY ParagraphSelect.tooltip "Alegeți o formatare pentru paragraf">
+<!ENTITY ParagraphSelect.tooltip "Choose a paragraph format">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Corp text">
 <!ENTITY bodyTextCmd.accesskey "C">
@@ -398,10 +370,10 @@
 <!ENTITY linkToolbarCmd.tooltip "Inserează o nouă legătură sau editează proprietățile legăturii selectate">
 <!ENTITY anchorToolbarCmd.label "Ancoră">
 <!ENTITY anchorToolbarCmd.tooltip "Inserează o nouă ancoră cu nume sau editează proprietățile ancorei selectate">
-<!ENTITY TextColorButton.tooltip "Alege culoarea pentru text">
-<!ENTITY BackgroundColorButton.tooltip "Alege culoarea pentru fundal">
+<!ENTITY TextColorButton.tooltip "Choose color for text">
+<!ENTITY BackgroundColorButton.tooltip "Choose color for background">
 <!ENTITY throbber.tooltip "Pagina principală &vendorShortName;">
-<!ENTITY HighlightColorButton.tooltip "Alege culoarea de evidențiere pentru text">
+<!ENTITY HighlightColorButton.tooltip "Choose highlight color for text">
 
 <!-- Editor toolbar -->
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Font mai mic">
@@ -413,8 +385,8 @@
 <!ENTITY numberListToolbarCmd.tooltip "Aplică sau elimină listă numerotată">
 <!ENTITY outdentToolbarCmd.tooltip "Scade indentarea textului (mută la stânga)">
 <!ENTITY indentToolbarCmd.tooltip "Crește indentarea textului (mută la dreapta)">
-<!ENTITY AlignPopupButton.tooltip "Alege alinierea textului">
-<!ENTITY InsertPopupButton.tooltip "Inserează legătură, ancoră, imagine, linie orizontală sau tabel">
+<!ENTITY AlignPopupButton.tooltip "Choose text alignment">
+<!ENTITY InsertPopupButton.tooltip "Insert a Link, Anchor, Image, Horizontal Line, or Table">
 <!ENTITY alignLeftButton.tooltip "Aliniază textul la stânga">
 <!ENTITY alignCenterButton.tooltip "Centrează textul">
 <!ENTITY alignRightButton.tooltip "Aliniază textul la dreapta">

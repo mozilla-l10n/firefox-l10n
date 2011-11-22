@@ -50,46 +50,46 @@
 
 <!ENTITY windowTitle.label "Proprietăți listă selecție">
 
-<!ENTITY Select.label "Listă selecție">
-<!ENTITY SelectName.label "Nume listă:">
+<!ENTITY Select.label "Selection List">
+<!ENTITY SelectName.label "List Name:">
 <!ENTITY SelectName.accesskey "N">
-<!ENTITY SelectSize.label "Înălțime:">
-<!ENTITY SelectSize.accesskey "l">
-<!ENTITY SelectMultiple.label "Selecție multiplă">
-<!ENTITY SelectMultiple.accesskey "m">
-<!ENTITY SelectDisabled.label "Inactivat">
-<!ENTITY SelectDisabled.accesskey "I">
-<!ENTITY SelectTabIndex.label "Index tab:">
-<!ENTITY SelectTabIndex.accesskey "t">
+<!ENTITY SelectSize.label "Height:">
+<!ENTITY SelectSize.accesskey "H">
+<!ENTITY SelectMultiple.label "Multiple Selection">
+<!ENTITY SelectMultiple.accesskey "M">
+<!ENTITY SelectDisabled.label "Disabled">
+<!ENTITY SelectDisabled.accesskey "D">
+<!ENTITY SelectTabIndex.label "Tab Index:">
+<!ENTITY SelectTabIndex.accesskey "I">
 
-<!ENTITY OptGroup.label "Grup opțiuni">
-<!ENTITY OptGroupLabel.label "Etichetă:">
-<!ENTITY OptGroupLabel.accesskey "E">
-<!ENTITY OptGroupDisabled.label "Inactivat">
-<!ENTITY OptGroupDisabled.accesskey "I">
+<!ENTITY OptGroup.label "Option Group">
+<!ENTITY OptGroupLabel.label "Label:">
+<!ENTITY OptGroupLabel.accesskey "L">
+<!ENTITY OptGroupDisabled.label "Disabled">
+<!ENTITY OptGroupDisabled.accesskey "D">
 
-<!ENTITY Option.label "Opțiune">
+<!ENTITY Option.label "Option">
 <!ENTITY OptionText.label "Text:">
 <!ENTITY OptionText.accesskey "T">
-<!ENTITY OptionValue.label "Valoare:">
+<!ENTITY OptionValue.label "Value:">
 <!ENTITY OptionValue.accesskey "V">
-<!ENTITY OptionSelected.label "Inițial selectată">
-<!ENTITY OptionSelected.accesskey "s">
-<!ENTITY OptionDisabled.label "Inactivat">
-<!ENTITY OptionDisabled.accesskey "I">
+<!ENTITY OptionSelected.label "Initially Selected">
+<!ENTITY OptionSelected.accesskey "S">
+<!ENTITY OptionDisabled.label "Disabled">
+<!ENTITY OptionDisabled.accesskey "D">
 
 <!ENTITY TextHeader.label "Text">
-<!ENTITY ValueHeader.label "Valoare">
-<!ENTITY SelectedHeader.label "Selectat">
+<!ENTITY ValueHeader.label "Value">
+<!ENTITY SelectedHeader.label "Selected">
 
-<!ENTITY AddOption.label "Adaugă opțiune">
-<!ENTITY AddOption.accesskey "o">
-<!ENTITY AddOptGroup.label "Adaugă un grup">
-<!ENTITY AddOptGroup.accesskey "g">
-<!ENTITY RemoveElement.label "Elimină">
-<!ENTITY RemoveElement.accesskey "E">
-<!ENTITY MoveElementUp.label "Mută în s_us">
-<!ENTITY MoveElementUp.accesskey "s">
-<!ENTITY MoveElementDown.label "Mută în j_os">
-<!ENTITY MoveElementDown.accesskey "j">
+<!ENTITY AddOption.label "Add Option">
+<!ENTITY AddOption.accesskey "O">
+<!ENTITY AddOptGroup.label "Add Group">
+<!ENTITY AddOptGroup.accesskey "G">
+<!ENTITY RemoveElement.label "Remove">
+<!ENTITY RemoveElement.accesskey "R">
+<!ENTITY MoveElementUp.label "Move Up">
+<!ENTITY MoveElementUp.accesskey "U">
+<!ENTITY MoveElementDown.label "Move Down">
+<!ENTITY MoveElementDown.accesskey "D">
 

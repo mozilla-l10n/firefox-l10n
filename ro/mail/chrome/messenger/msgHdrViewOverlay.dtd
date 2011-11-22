@@ -110,7 +110,7 @@
 <!ENTITY markAsReadMenuItem1.accesskey "r">
 <!ENTITY markAsUnreadMenuItem1.label "Marchează ca necitit">
 <!ENTITY markAsUnreadMenuItem1.accesskey "k">
-<!ENTITY saveAsMenuItem1.label "Salvează ca">
+<!ENTITY saveAsMenuItem1.label "Salvează ca…">
 <!ENTITY saveAsMenuItem1.accesskey "s">
 <!ENTITY viewSourceMenuItem1.label "Vizualizează sursa">
 <!ENTITY viewSourceMenuItem1.accesskey "u">
@@ -135,6 +135,8 @@
 <!ENTITY deleteAllAttachmentsCmd.label    "Șterge toate anexele…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
 
+<!ENTITY openAttachment.tooltip "Open the attached file">
+
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Salvează">
 <!ENTITY saveAttachmentButton1.tooltip     "Salvează fișierul anexat">
@@ -144,7 +146,7 @@
 <!ENTITY copyLinkCmd.label        "Copiază adresa legăturii">
 <!ENTITY copyLinkCmd.accesskey    "C">
 
-<!ENTITY CopyMessageId.label "Copiază Message-ID">
-<!ENTITY OpenMessageForMsgId.label "Deschide mesajul pentru ID">
-<!ENTITY OpenBrowserWithMsgId.label "Deschide navigatorul cu Message-ID">
+<!ENTITY CopyMessageId.label "Copy Message-ID">
+<!ENTITY OpenMessageForMsgId.label "Open Message For ID">
+<!ENTITY OpenBrowserWithMsgId.label "Open Browser With Message-ID">
 

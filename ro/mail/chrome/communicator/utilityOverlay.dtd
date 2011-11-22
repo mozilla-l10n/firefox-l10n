@@ -17,7 +17,7 @@
 
 <!ENTITY fileMenu.label          "Fișier">
 <!ENTITY fileMenu.accesskey        "F">
-<!ENTITY newMenu.label            "Adaugă">
+<!ENTITY newMenu.label            "Creează">
 <!ENTITY newMenu.accesskey          "A">
 
 <!ENTITY editMenu.label          "Editare">
@@ -25,7 +25,7 @@
 <!ENTITY undoCmd.label            "Înapoi">
 <!ENTITY undoCmd.key            "Z">
 <!ENTITY undoCmd.accesskey          "n">
-<!ENTITY redoCmd.label            "Refacere">
+<!ENTITY redoCmd.label            "Refă">
 <!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "R">
 <!ENTITY cutCmd.label            "Tăiere">
@@ -39,7 +39,7 @@
 <!ENTITY pasteCmd.accesskey          "L">
 <!ENTITY deleteCmd.label          "Șterge">
 <!ENTITY deleteCmd.accesskey        "g">
-<!ENTITY selectAllCmd.label          "Selectează _tot">
+<!ENTITY selectAllCmd.label          "Selectează tot">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey        "o">
 <!ENTITY preferencesCmd.label        "Opțiuni…">
@@ -47,7 +47,7 @@
 <!ENTITY preferencesCmdUnix.label       "Preferințe">
 <!ENTITY preferencesCmdUnix.accesskey     "e">
 
-<!ENTITY viewMenu.label          "Vizualizați">
+<!ENTITY viewMenu.label          "Vizualizare">
 <!ENTITY viewMenu.accesskey        "V">
 <!ENTITY viewToolbarsMenu.label        "Bare de unelte">
 <!ENTITY viewToolbarsMenu.accesskey      "B">
