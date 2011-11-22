@@ -7,7 +7,7 @@
 
 <!ENTITY  locationBar.label             "Adressleiste">
 
-<!ENTITY  locbar.pre.label              "Bei Eingaben in die Adressleiste">
+<!ENTITY  locbar.pre.label              "In der Adressleiste">
 <!ENTITY  locbar.pre.accessKey          "A">
 <!ENTITY  locbar.post.label             " vorschlagen">
 <!ENTITY  locbar.both.label             "Einträge aus Chronik und Lesezeichen">
