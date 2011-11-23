@@ -6,8 +6,8 @@
 <!-- The page shown when logged in... -->
 
 <!-- Login error feedback -->
-<!ENTITY updatePass.label             "Update">
-<!ENTITY resetPass.label              "Reset">
+<!ENTITY updatePass.label             "Güncelle">
+<!ENTITY resetPass.label              "Sıfırla">
 
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Hesabı yönet">
@@ -17,7 +17,7 @@
 <!ENTITY myRecoveryKey.label          "Kurtarma anahtarım">
 <!ENTITY resetSync2.label             "Sync'i sıfırla...">
 
-<!ENTITY addDevice.label              "Aygıt ekle">
+<!ENTITY pairDevice.label             "Aygıt eşleştir">
 
 <!ENTITY syncMy.label               "Eşitlenecekler:">
 <!ENTITY engine.bookmarks.label     "Yer imleri">
@@ -39,3 +39,4 @@
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Kullanım Koşulları">
 <!ENTITY prefs.ppLink.label         "Gizlilik Anlaşması">
+

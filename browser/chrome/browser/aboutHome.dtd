@@ -13,8 +13,12 @@
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
-<!ENTITY abouthome.defaultSnippet1.v1 "Thanks for choosing Firefox! To get the most out of your browser, learn more about the <a>latest features</a>.">
+<!ENTITY abouthome.defaultSnippet1.v1 "Firefox'u seçtiğiniz için teşekkürler! Tarayıcınızdan en üst düzeyde yararlanmak için <a>yeni özellikler</a> hakkında daha fazla bilgi alın.">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
-<!ENTITY abouthome.defaultSnippet2.v1 "It's easy to customize your Firefox exactly the way you want it. <a>Choose from thousands of add-ons</a>.">
+<!ENTITY abouthome.defaultSnippet2.v1 "Firefox'u istediğiniz şekilde kendinize uyarlamak çok kolay. <a>Binlerce eklentiler dilediğinizi seçin</a>.">
+
+<!ENTITY abouthome.syncSetup.label   "Eşitlemeyi kur">
+<!ENTITY abouthome.pairDevice.label  "Aygıt eşleştir">
+
