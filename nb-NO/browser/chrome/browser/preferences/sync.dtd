@@ -17,7 +17,7 @@
 <!ENTITY myRecoveryKey.label          "Gjenopprettingsnøkkel">
 <!ENTITY resetSync2.label             "Tilbakestill Sync …">
 
-<!ENTITY addDevice.label              "Legg til en enhet">
+<!ENTITY pairDevice.label             "Tilknytt en enhet">
 
 <!ENTITY syncMy.label               "Synkroniser">
 <!ENTITY engine.bookmarks.label     "Bokmerker">
