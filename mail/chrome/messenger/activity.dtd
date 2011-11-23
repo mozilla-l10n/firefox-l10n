@@ -16,16 +16,16 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.undo.accesskey               "V">
 <!ENTITY cmd.recover.label                "Ponovi">
 <!ENTITY cmd.recover.accesskey            "v">
-<!ENTITY cmd.retry.label                  "Ponovo pokušaj">
+<!ENTITY cmd.retry.label                  "Pokušaj ponovno">
 <!ENTITY cmd.retry.accesskey              "k">
-<!ENTITY cmd.removeFromList.label         "Ukloni sa popisa">
+<!ENTITY cmd.removeFromList.label         "Ukloni s popisa">
 <!ENTITY cmd.removeFromList.accesskey     "U">
 
 <!ENTITY cmd.close.commandkey             "w">
 <!ENTITY cmd.close2.commandkey            "j">
 <!ENTITY cmd.close2Unix.commandkey        "y">
 <!ENTITY cmd.clearList.label              "Očisti popis">
-<!ENTITY cmd.clearList.tooltip            "Uklanja završene, otkazane i neuspjele stavke sa popisa">
+<!ENTITY cmd.clearList.tooltip            "Uklanja završene, otkazane i neuspjele stavke s popisa">
 <!ENTITY cmd.clearList.accesskey          "i">
 <!ENTITY cmd.find.commandkey              "f">
 <!ENTITY cmd.search.commandkey            "k">
