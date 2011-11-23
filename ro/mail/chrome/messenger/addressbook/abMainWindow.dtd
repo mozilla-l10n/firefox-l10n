@@ -57,7 +57,7 @@
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Editare">
 <!ENTITY editMenu.accesskey                             "E">
-<!ENTITY undoCmd.label                                  "Înapoi">
+<!ENTITY undoCmd.label                                  "Anulează">
 <!ENTITY undoCmd.key                                    "Z">
 <!ENTITY undoCmd.accesskey                              "n">
 <!ENTITY redoCmd.label                                  "Refă">

@@ -48,10 +48,10 @@
 <!ENTITY newVirtualFolderCmd.accesskey "s">
 <!ENTITY newOtherAccountsCmd.label "Alte conturi…">
 <!ENTITY newOtherAccountsCmd.accesskey "o">
-<!ENTITY newCreateEmailAccountCmd.label "Get a New Mail Account…">
-<!ENTITY newCreateEmailAccountCmd.accesskey "G">
-<!ENTITY newExistingEmailAccountCmd.label "Existing Mail Account…">
-<!ENTITY newExistingEmailAccountCmd.accesskey "E">
+<!ENTITY newCreateEmailAccountCmd.label "Obține un cont nou de email…">
+<!ENTITY newCreateEmailAccountCmd.accesskey "n">
+<!ENTITY newExistingEmailAccountCmd.label "Cont existent de email…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "e">
 <!ENTITY openMessageFileCmd.label "Deschide un mesaj salvat…">
 <!ENTITY openMessageFileCmd.accesskey "h">
 <!ENTITY openAttachmentCmd.label "Atașamente">
@@ -115,7 +115,7 @@
 <!ENTITY undeleteMsgsCmd.accesskey "j">
 <!ENTITY deleteFolderCmd.label "Ștergere dosar">
 <!ENTITY deleteFolderCmd.accesskey "d">
-<!ENTITY unsubscribeNewsgroupCmd.label "Anulează subscrierea">
+<!ENTITY unsubscribeNewsgroupCmd.label "Dezabonare">
 <!ENTITY unsubscribeNewsgroupCmd.accesskey "n">
 <!ENTITY selectMenu.label "Selectare">
 <!ENTITY selectMenu.accesskey "S">
@@ -140,7 +140,7 @@
 <!ENTITY redoCopyMsgCmd.label "Copiază mesajul din nou">
 <!ENTITY undoMarkAllCmd.label "Anulează marcarea tuturor ca citite">
 <!ENTITY redoMarkAllCmd.label "Refă marcarea tuturor ca citite">
-<!ENTITY undoDefaultCmd.label "Înapoi">
+<!ENTITY undoDefaultCmd.label "Anulează">
 <!ENTITY undoDefaultCmd.accesskey "n">
 <!ENTITY redoDefaultCmd.label "Refă">
 <!ENTITY redoDefaultCmd.accesskey "R">
@@ -149,7 +149,7 @@
 <!ENTITY menubarCmd.label "Bara meniului">
 <!ENTITY menubarCmd.accesskey "m">
 <!ENTITY showMessengerToolbarCmd.label "Bara de unelte">
-<!ENTITY showMessengerToolbarCmd.accesskey "o">
+<!ENTITY showMessengerToolbarCmd.accesskey "u">
 <!ENTITY customizeToolbar.label "Personalizare…">
 <!ENTITY customizeToolbar.accesskey "P">
 
@@ -323,8 +323,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Go Menu -->
 <!ENTITY goMenu.label "Mergi la">
-<!ENTITY goMenu.accesskey "O">
-<!ENTITY nextMenu.label "Înainte">
+<!ENTITY goMenu.accesskey "l">
+<!ENTITY nextMenu.label "Următorul">
 <!ENTITY nextMenu.accesskey "n">
 <!ENTITY nextMsgCmd.label "Mesaj">
 <!ENTITY nextMsgCmd.accesskey "M">
@@ -337,7 +337,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY nextUnreadThread.label "Conversație necitită">
 <!ENTITY nextUnreadThread.accesskey "C">
 <!ENTITY nextUnreadThread.key "t">
-<!ENTITY prevMenu.label "Înapoi">
+<!ENTITY prevMenu.label "Precedentul">
 <!ENTITY prevMenu.accesskey "P">
 <!ENTITY prevMsgCmd.label "Mesaj">
 <!ENTITY prevMsgCmd.accesskey "M">
@@ -524,7 +524,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyButton.label "Răspunde">
 <!ENTITY replyAllButton.label "Tuturor">
 <!ENTITY replyListButton.label "Răspunde listei">
-<!ENTITY forwardButton.label "Înainte">
+<!ENTITY forwardButton.label "Înaintează">
 <!ENTITY fileButton.label "Îndosariază">
 <!ENTITY archiveButton.label "Arhivează">
 <!ENTITY nextButton.label "Următorul">
@@ -605,7 +605,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextEmptyJunk.accesskey "G">
 <!ENTITY folderContextSendUnsentMessages.label "Trimite mesajele netrimise">
 <!ENTITY folderContextSendUnsentMessages.accesskey "T">
-<!ENTITY folderContextUnsubscribe.label "Anulează subscrierea">
+<!ENTITY folderContextUnsubscribe.label "Dezabonare">
 <!ENTITY folderContextUnsubscribe.accesskey "z">
 <!ENTITY folderContextMarkNewsgroupRead.label "Marchează grupul ca citit">
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "h">

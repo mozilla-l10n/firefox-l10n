@@ -71,13 +71,13 @@
 <!-- Edit Menu -->
 <!ENTITY editMenu.label "Editare"> 
 <!ENTITY editMenu.accesskey "E">
-<!ENTITY undoCmd.label "Înapoi">
+<!ENTITY undoCmd.label "Anulează">
 <!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.accesskey "n"> 
 <!ENTITY redoCmd.label "Refă">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "R"> 
-<!ENTITY cutCmd.label "Tăiere">
+<!ENTITY cutCmd.label "Taie">
 <!ENTITY cutCmd.key "X">
 <!ENTITY cutCmd.accesskey "T"> 
 <!ENTITY copyCmd.label "Copiați">
@@ -265,7 +265,7 @@
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
 <!ENTITY spellCheckAddToDictionary.label "Adaugă la dicționar">
 <!ENTITY spellCheckAddToDictionary.accesskey "n">
-<!ENTITY undo.label "Înapoi">
+<!ENTITY undo.label "Anulează">
 <!ENTITY undo.accesskey "n">
 <!ENTITY cut.label "Tăiere">
 <!ENTITY cut.accesskey "T">

@@ -53,7 +53,7 @@
 <!ENTITY fieldMapImport.recordNumber "Date importate pentru înregistrarea:">
 <!ENTITY fieldMapImport.next.label "Înainte">
 <!ENTITY fieldMapImport.next.accesskey "n">
-<!ENTITY fieldMapImport.previous.label "Precedent">
+<!ENTITY fieldMapImport.previous.label "Precedentul">
 <!ENTITY fieldMapImport.previous.accesskey "P">
 <!ENTITY fieldMapImport.text "Folosiți Mută sus și Mută jos pentru a potrivi câmpurile agendei de contacte (din stânga) cu datele corecte de importat (din dreapta). Nu bifați elementele pe care nu doriți să le importați.">
 <!ENTITY fieldMapImport.up.label "Mută în s_us">
