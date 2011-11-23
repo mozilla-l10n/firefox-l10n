@@ -24,6 +24,9 @@
 <!ENTITY netInterrupt.title "Dataoverføring ble avbrutt">
 <!ENTITY netInterrupt.longDesc "<p>Nettleseren klarte å koble til tjeneren, men tilkoblingen ble avbrutt ved overføring av informasjon. Prøv igjen.</p><ul><li>Klarer du å åpne andre nettsider? Kontroller datamaskinens nettverkstilkobling.</li><li>Har du fortsatt problem? Henvend deg til nettverksansvarlig eller Internett-tilbyder for mer hjelp.</li></ul>">
 
+<!ENTITY notCached.title "Dokumentet er utgått på dato">
+<!ENTITY notCached.longDesc "<p>Det forespurte dokumentet er ikke tilgjengelig i nettleserens hurtiglager.</p><ul><li>Av sikkerhetshensyn sender ikke nettleseren automatisk forespørsler etter sensitive dokumenter på nytt.</li><li>Trykk Prøv igjen for å laste inn dokumentet fra nettstedet på nytt.</li></ul>">
+
 <!ENTITY netOffline.title "Frakoblet tilstand">
 <!ENTITY netOffline.longDesc2 "<p>Nettleseren er i frakoblet modus, og kan ikke koble til tjeneren.</p><ul><li>Er datamaskinen koblet til et aktivt nettverk?</li><li>Trykk «Prøv igjen» for å bytte til tilkoblet modus og laste siden på nytt.</li></ul>">
 
@@ -31,8 +34,7 @@
 <!ENTITY contentEncodingError.longDesc "<p>Nettsiden du forsøker å åpne kan ikke vises fordi den bruker en ukjent eller ugyldig komprimeringsmetode.</p><ul><li>Kontakt den ansvarlige for nettstedet og informer dem om problemet.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Utrygg filtype">
-<!ENTITY unsafeContentType.longDesc "
-<ul>
+<!ENTITY unsafeContentType.longDesc "<ul>
   <li>Kontakt nettsideeierne og informer dem om dette problemet.</li>
 </ul>
 ">
@@ -69,14 +71,12 @@
 ">
 
 <!ENTITY malwareBlocked.title "Mistenkt farlig nettsted!">
-<!ENTITY malwareBlocked.longDesc "
-<p>Farlige nettsted kan forsøke å installere programvare som stjeler privat informasjon, bruker datamaskinen din til å angripe andre, eller skader datamaskinen din.</p>
+<!ENTITY malwareBlocked.longDesc "<p>Farlige nettsted kan forsøke å installere programvare som stjeler privat informasjon, bruker datamaskinen din til å angripe andre, eller skader datamaskinen din.</p>
 <p>Nettstedseiere som tror at deres nettsted er feilaktig rapportert som farlig kan <a href='http://www.stopbadware.org/home/reviewinfo' >be om å bli vurdert på nytt</a>.</p>
 ">
 
 <!ENTITY phishingBlocked.title "Mistenkt nettsvindel!">
-<!ENTITY phishingBlocked.longDesc "
-<p>Dersom du skriver inn personlig informasjon på denne nettsiden kan føre til identitetstyveri eller annen svindel.</p>
+<!ENTITY phishingBlocked.longDesc "<p>Dersom du skriver inn personlig informasjon på denne nettsiden kan føre til identitetstyveri eller annen svindel.</p>
 <p>Disse typene nettsvindler brukes i såkalte «phishing-angrep», hvor forfalskede nettsider og e-post imiterer kilder som du stoler på.</p>
 ">
 
