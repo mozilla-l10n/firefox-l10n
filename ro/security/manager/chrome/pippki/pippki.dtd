@@ -114,7 +114,7 @@
 <!ENTITY pkcs12.setpassword.reminder "Important: Dacă uitați parola de siguranță pentru certificate, nu veți putea reface această copie mai târziu.  Aveți grijă să o păstrați într-un loc sigur.">
 
 <!ENTITY pkcs12.getpassword.title  "Introducere parolă">
-<!ENTITY pkcs12.getpassword.message "Vă rugăm introduceți parola cu care s-a criptat această copie de siguranță a certificatelor.">
+<!ENTITY pkcs12.getpassword.message "Introduceți parola cu care s-a criptat această copie de siguranță a certificatelor.">
 
 <!ENTITY chooseToken.title  "Alegere token">
 <!ENTITY chooseToken.message1 "Vă rugăm alegeți token.">
