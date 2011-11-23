@@ -64,7 +64,7 @@
 <!ENTITY server.accesskey             "C">
 <!ENTITY subscribedHeader.label       "Abonare">
 <!-- commenting out until bug 38906 is fixed 
-<!ENTITY messagesHeader.label         "Messages"> -->
+<!ENTITY messagesHeader.label         "Mesaje"> -->
 <!ENTITY namefield.label              "Arată elementele care conțin:">
 <!ENTITY namefield.accesskey          "r">
 
