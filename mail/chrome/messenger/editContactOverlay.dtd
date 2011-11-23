@@ -1,19 +1,19 @@
-<!ENTITY editContactPanelDeleteContact.label "Delete">
-<!ENTITY editContactPanelDeleteContact.accesskey "l">
+<!ENTITY editContactPanelDeleteContact.label "Obriši">
+<!ENTITY editContactPanelDeleteContact.accesskey "O">
 
-<!ENTITY editContactName.label "Name:">
-<!ENTITY editContactName.accesskey "N">
+<!ENTITY editContactName.label "Ime:">
+<!ENTITY editContactName.accesskey "I">
 
-<!ENTITY editContactEmail.label "Email:">
+<!ENTITY editContactEmail.label "E-pošta:">
 <!ENTITY editContactEmail.accesskey "E">
 
-<!ENTITY editContactAddressBook.label "Address Book:">
+<!ENTITY editContactAddressBook.label "Adresar:">
 <!ENTITY editContactAddressBook.accesskey "A">
 
-<!ENTITY editContactPanelCancel.label "Cancel">
-<!ENTITY editContactPanelCancel.accesskey "C">
+<!ENTITY editContactPanelCancel.label "Otkaži">
+<!ENTITY editContactPanelCancel.accesskey "t">
 
-<!ENTITY editContactPanelDone.label "Done">
-<!ENTITY editContactPanelDone.accesskey "D">
+<!ENTITY editContactPanelDone.label "Gotovo">
+<!ENTITY editContactPanelDone.accesskey "G">
 
-<!ENTITY contactMoveDisabledWarning.description "You can't change the address book because the contact is in a mailing list.">
+<!ENTITY contactMoveDisabledWarning.description "Ne možete provijeniti adresar, kontakt se nalazi u popisu primatelja.">
