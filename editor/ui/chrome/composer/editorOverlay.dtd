@@ -351,7 +351,7 @@
 <!ENTITY openToolbarCmd.tooltip "Deschide un fișier local">
 <!ENTITY saveToolbarCmd.tooltip "Salvează local fișierul">
 <!ENTITY publishToolbarCmd.tooltip "Încarcă fișierul într-o locație la distanță">
-<!ENTITY cutToolbarCmd.tooltip "Tăiere">
+<!ENTITY cutToolbarCmd.tooltip "Taie">
 <!ENTITY copyToolbarCmd.tooltip "Copiați">
 <!ENTITY pasteToolbarCmd.tooltip "Lipește">
 <!ENTITY printToolbarCmd.label "Imprimă">

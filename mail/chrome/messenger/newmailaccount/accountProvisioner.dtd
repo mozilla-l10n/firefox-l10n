@@ -1,5 +1,17 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY window.title "Welcome to &brandShortName;">
-<!ENTITY header.label "Want a new email address for &brandShortName;?">
+<!ENTITY header.label "Vreți o adresă nouă de email pentru &brandShortName;?">
 <!ENTITY other.languages "We are only displaying the providers offering addresses in your area.  Click here to show all providers.">
 <!ENTITY error.line1 "Sorry, we could not find any suggested email addresses.">
 <!ENTITY error.line2 "You try can search for nicknames or any other term to find more emails">
@@ -18,7 +30,7 @@
 <!ENTITY success.title.before "Hello ">
 <!ENTITY success.title.after ", the following email addresses are available to you:">
 <!ENTITY success.tip "(You can also search for nicknames or any other term to find more emails)">
-<!ENTITY partnership.description "In partnership with several providers, &brandShortName; can offer you a new email account. Just fill in your first and last name, or any other words you’d like, in the fields above to get started.">
+<!ENTITY partnership.description "În parteneriat cu diverși furnizori, &brandShortName; poate să vă ofere un cont nou de email. Completați numele și prenumele sau orice alte cuvinte doriți în câmpurile de mai jos pentru a începe.">
 <!ENTITY existing.header "Already have an address you want to use?">
 <!ENTITY tinyheader.title "Got an address?">
 <!ENTITY tinyheader.existing "Skip this and use my existing email">

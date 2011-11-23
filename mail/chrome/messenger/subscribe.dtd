@@ -50,9 +50,9 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY subscribeDialog.title        "Abonare">
-<!ENTITY subscribeButton.label        "Subscrie">
-<!ENTITY subscribeButton.accesskey    "S">
-<!ENTITY unsubscribeButton.label      "Anulează subscrierea">
+<!ENTITY subscribeButton.label        "Abonare">
+<!ENTITY subscribeButton.accesskey    "b">
+<!ENTITY unsubscribeButton.label      "Dezabonare">
 <!ENTITY unsubscribeButton.accesskey  "A">
 <!ENTITY newGroupsTab.label           "Grupuri noi">
 <!ENTITY newGroupsTab.accesskey       "n">

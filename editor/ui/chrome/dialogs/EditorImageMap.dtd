@@ -67,7 +67,7 @@
 <!-- Edit menu -->
 <!ENTITY mapeditMenu.label "Editare">
 <!ENTITY mapeditMenu.accesskey "E">
-<!ENTITY cutCmd.label "Tăiere">
+<!ENTITY cutCmd.label "Taie">
 <!ENTITY cutCmd.accesskey "T">
 <!ENTITY copyCmd.label "Copiați">
 <!ENTITY copyCmd.accesskey "C">
