@@ -4,8 +4,7 @@
 
 <!ENTITY setup.pickSetupType.description "Hoş geldiniz. Daha önce hiç &syncBrand.fullName.label; kullanmadıysanız yeni bir hesap açmanız gerekecek.">
 <!ENTITY button.createNewAccount.label "Yeni hesap aç">
-<!ENTITY setup.haveAccount.label "Hâlihazırda bir &syncBrand.fullName.label; hesabım var.">
-<!ENTITY button.connect.label    "Bağlan">
+<!ENTITY button.haveAccount.label      "Hesabım var">
 
 <!ENTITY setup.choicePage.title.label     "Daha önce &syncBrand.fullName.label; kullandınız mı?">
 <!ENTITY setup.choicePage.new.label       "Daha önce hiç &syncBrand.shortName.label; kullanmadım">
@@ -40,7 +39,7 @@
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 
-<!-- New Account Page 2: Sync Key -->
+<!-- My Recovery Key dialog -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; gizliliğinize önem verir">
 <!ENTITY setup.newRecoveryKeyPage.description.label "Gizliliğinizin sağlanması için tüm verileriniz sunucularımıza gönderilmeden önce şifrelenir. Verilerinizi çözmeye yaran kurtarma anahtarı asla sunucularımıza gönderilmez.">
 <!ENTITY recoveryKeyEntry.label        "Kurtarma anahtarınız">
@@ -53,15 +52,13 @@
 <!ENTITY button.syncKeyBackup.save.label      "Kaydet...">
 <!ENTITY button.syncKeyBackup.save.accesskey  "K">
 
-<!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "Lütfen robot olmadığınızı kanıtlayın">
-<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "Aygıt ekle">
+<!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
+<!ENTITY pairDevice.title.label             "Aygıt eşleştir">
 <!ENTITY addDevice.showMeHow.label          "Nasıl yapılacağını göster.">
 <!ENTITY addDevice.dontHaveDevice.label     "Aygıt yanımda değil">
-<!ENTITY addDevice.setup.description.label  "Etkinleştirmek için diğer aygıtınızdaki &syncBrand.shortName.label; seçeneklerine gidip &#x0022;Aygıt ekle&#x0022; seçeneğini işaretleyin.">
+<!ENTITY pairDevice.setup.description.label  "Etkinleştirmek için, diğer aygıtınızdan &#x0022;Aygıt eşleştir&#x0022;i seçin.">
 <!ENTITY addDevice.setup.enterCode.label    "Ardından bu kodu girin:">
-<!ENTITY addDevice.dialog.description.label "Yeni aygıtınızı etkinleştirmek için aygıttaki &syncBrand.shortName.label; seçeneklerine gidip &#x0022;Bağlan&#x0022;'ı seçin.">
+<!ENTITY pairDevice.dialog.description.label "Yeni aygtınızı etkinleştirmek için, diğer aygıttan &#x0022;Eşitlemeyi kur&#x0022;u seçin.">
 <!ENTITY addDevice.dialog.enterCode.label   "Aygıtın verdiği kodu girin:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Lütfen tekrar deneyin.">
 <!ENTITY addDevice.dialog.successful.label  "Aygıt başarıyla eklendi. Arkaplanda yapılacak ilk eşitleme birkaç dakika sürebilir.">
@@ -108,3 +105,4 @@
 <!ENTITY setup.successPage.title "Kurulum tamamlandı">
 <!ENTITY changeOptions.label "Bu tercihi aşağıdaki Sync seçeneklerine girerek değiştirebilirsiniz.">
 <!ENTITY continueUsing.label "Şimdi &brandShortName; uygulamasını kullanmaya devam edebilirsiniz.">
+

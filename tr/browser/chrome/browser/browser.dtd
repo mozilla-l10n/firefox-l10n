@@ -90,6 +90,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "g">
 <!ENTITY fullScreenExit.label "Tam ekran kipinden çık">
 <!ENTITY fullScreenExit.accesskey "e">
+<!ENTITY domFullScreenWarning.label "Tam ekran modundan çıkmak için ESC tuşuna basın">
 
 <!ENTITY closeWindow.label "Pencereyi kapat">
 <!ENTITY closeWindow.accesskey "k">
@@ -212,9 +213,12 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectPanelTitle.label      "HTML">
-<!ENTITY inspectButton.label          "İncele">
-<!ENTITY inspectButton.accesskey      "c">
+<!ENTITY inspectPanelTitle.label        "HTML">
+<!ENTITY inspectButton.label            "İncele">
+<!ENTITY inspectButton.accesskey        "c">
+<!ENTITY inspectCloseButton.tooltiptext "Close Inspector">
+<!ENTITY inspectStyleButton.label     "Stil">
+<!ENTITY inspectStyleButton.accesskey "S">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Daha fazla araca ulaş">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "u">
@@ -432,7 +436,12 @@ can reach it easily. -->
 <!ENTITY mediaHideControls.accesskey "D">
 <!ENTITY videoFullScreen.label       "Tam ekran">
 <!ENTITY videoFullScreen.accesskey   "T">
-
+<!ENTITY videoSaveImage.label        "Save Snapshot As…">
+<!ENTITY videoSaveImage.accesskey    "S">
+<!ENTITY videoShowStats.label        "İstatistikleri göster">
+<!ENTITY videoShowStats.accesskey    "g">
+<!ENTITY videoHideStats.label        "İstatistikleri gizle">
+<!ENTITY videoHideStats.accesskey    "z">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -564,3 +573,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY addonBarCloseButton.tooltip  "Eklenti çubuğunu kapat">
 <!ENTITY toggleAddonBarCmd.key        "/">
+
