@@ -41,7 +41,6 @@
 <!ENTITY editRewrapCmd.label "Tekstbrytning">
 <!ENTITY editRewrapCmd.key "T">
 <!ENTITY editRewrapCmd.accesskey  "B">
-<!ENTITY findCmd.label "Søk og erstatt …">
 <!ENTITY accountManagerCmd.label "Kontoinnstillinger …">
 <!ENTITY accountManagerCmd.accesskey "K">
 
@@ -64,11 +63,6 @@
 <!ENTITY selectAddressCmd.label "Velg adresser …">
 <!ENTITY selectAddressCmd.key "">
 <!ENTITY selectAddressCmd.accesskey "V">
-
-<!ENTITY checkSpellingCmd2.label "Kontroller staving …">
-<!ENTITY checkSpellingCmd2.accesskey "a">
-<!ENTITY enableInlineSpellChecker.label "Stavekontroller mens du skriver">
-<!ENTITY enableInlineSpellChecker.accesskey "v">
 
 <!ENTITY priorityMenu.label "Prioritet">
 <!ENTITY priorityMenu.accesskey "p">
