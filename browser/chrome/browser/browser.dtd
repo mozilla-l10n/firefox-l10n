@@ -220,13 +220,6 @@ can reach it easily. -->
 <!ENTITY inspectStyleButton.label     "Štýl">
 <!ENTITY inspectStyleButton.accesskey "t">
 
-<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
-  -  in the Tools menu. -->
-<!ENTITY styleeditor.label            "Editor štýlov">
-<!ENTITY styleeditor.accesskey        "y">
-<!ENTITY styleeditor.keycode          "VK_F7">
-<!ENTITY styleeditor.keytext          "F7">
-
 <!ENTITY getMoreDevtoolsCmd.label        "Získať ďalšie nástroje">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "Z">
 
