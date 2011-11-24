@@ -222,6 +222,13 @@ can reach it easily. -->
 <!ENTITY getMoreDevtoolsCmd.label        "Obtenir d'autres outils">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "b">
 
+<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
+  -  in the Tools menu. -->
+<!ENTITY styleeditor.label            "Éditeur de styles">
+<!ENTITY styleeditor.accesskey        "y">
+<!ENTITY styleeditor.keycode          "VK_F7">
+<!ENTITY styleeditor.keytext          "F7">
+
 <!ENTITY fileMenu.label           "Fichier">
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newNavigatorCmd.label        "Nouvelle fenêtre">
