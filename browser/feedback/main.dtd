@@ -27,7 +27,7 @@
 
 <!-- Firefox 4 beta version UI -->
 <!ENTITY testpilot.enable.label                        "Aktivizēt lietotāja pētījumus">
-<!ENTITY testpilot.feedbackbutton.label                "Atgriezeniskā saite">
+<!ENTITY testpilot.feedbackbutton.label                "Atsauksme">
 <!ENTITY testpilot.happy.label        "Firefox padarīja mani laimīgu jo...">
 <!ENTITY testpilot.sad.label          "Firefox padarīja mani bēdīgu jo...">
 <!ENTITY testpilot.broken.label      "Ziņot, ka šī mājas lapa ir bojāta…">
