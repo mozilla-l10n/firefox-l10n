@@ -1,9 +1,9 @@
 <!--
 # Translator(s):
 #
+# Alexandru Szasz <alexxed@gmail.com>
 # nicubunu <nicubunu@gmail.com>
 # janimo <jani@ubuntu.com>
-# Alexandru Szasz <alexxed@gmail.com>
 #
 -->
 <!--
@@ -51,7 +51,7 @@
 
 <!-- Window title -->
 <!ENTITY windowTitle.label "Inserare HTML">
-<!ENTITY sourceEditField.label "Introduceți tag-uri HTML și text:">
+<!ENTITY sourceEditField.label "Introduceți etichete HTML și text:">
 <!ENTITY example.label "Exemplu:">
 <!-- LOCALIZATION NOTE (exampleOpenTag.label): DONT_TRANSLATE: they are text for HTML tagnames: "<i>" and "</i>" -->
 <!ENTITY exampleOpenTag.label "&lt;i&gt;">

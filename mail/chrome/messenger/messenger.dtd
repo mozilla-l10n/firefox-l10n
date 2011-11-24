@@ -121,8 +121,8 @@
 <!ENTITY selectMenu.accesskey "S">
 <!ENTITY all.label "Tot">
 <!ENTITY all.accesskey "T">
-<!ENTITY selectThreadCmd.label "Fir">
-<!ENTITY selectThreadCmd.accesskey "F">
+<!ENTITY selectThreadCmd.label "Conversație">
+<!ENTITY selectThreadCmd.accesskey "C">
 <!ENTITY selectThreadCmd.key "A">
 <!ENTITY selectFlaggedCmd.label "Mesaje cu steluță">
 <!ENTITY selectFlaggedCmd.accesskey "s">
@@ -196,7 +196,7 @@
 <!ENTITY sortBySizeCmd.accesskey "r">
 <!ENTITY sortByStatusCmd.label "După s_tare">
 <!ENTITY sortByStatusCmd.accesskey "s">
-<!ENTITY sortByTagsCmd.label "Tag-uri">
+<!ENTITY sortByTagsCmd.label "Etichete">
 <!ENTITY sortByTagsCmd.accesskey "T">
 <!ENTITY sortByJunkStatusCmd.label "Statut de spam">
 <!ENTITY sortByJunkStatusCmd.accesskey "e">
@@ -325,7 +325,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goMenu.label "Mergi la">
 <!ENTITY goMenu.accesskey "l">
 <!ENTITY nextMenu.label "Următorul">
-<!ENTITY nextMenu.accesskey "n">
+<!ENTITY nextMenu.accesskey "U">
 <!ENTITY nextMsgCmd.label "Mesaj">
 <!ENTITY nextMsgCmd.accesskey "M">
 <!ENTITY nextMsgCmd.key "F">
@@ -623,7 +623,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextSettings.accesskey "e">
 
 <!-- Search Bar -->
-<!ENTITY SearchNameOrEmail.label "Name or Email contains:">
+<!ENTITY SearchNameOrEmail.label "Numele sau mesajul conțin:">
 <!ENTITY SearchNameOrEmail.accesskey "N">
 
 <!-- Gloda Search Bar -->
@@ -639,7 +639,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY saveAsVirtualFolderMenu.label "Salvează căutarea ca dosar…">
 
 <!-- Thread Pane -->
-<!ENTITY threadColumn.label "Fir">
+<!ENTITY threadColumn.label "Conversație">
 <!ENTITY fromColumn.label "Expeditor">
 <!ENTITY recipientColumn.label "Destinatar">
 <!ENTITY subjectColumn.label "Subiect">
@@ -829,26 +829,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY searchAllMessages.keyLabel2.mac "&lt;&#x2318;K&gt;">
 
 <!-- Message Header Context Menu -->
-<!ENTITY AddToAddressBook.label "Add to Address Book…">
-<!ENTITY AddToAddressBook.accesskey "B">
-<!ENTITY AddDirectlyToAddressBook.label "Add to Address Book">
-<!ENTITY AddDirectlyToAddressBook.accesskey "B">
-<!ENTITY EditContact.label "Edit Contact…">
+<!ENTITY AddToAddressBook.label "Adaugă la contacte…">
+<!ENTITY AddToAddressBook.accesskey "c">
+<!ENTITY AddDirectlyToAddressBook.label "Adaugă la agenda de contacte">
+<!ENTITY AddDirectlyToAddressBook.accesskey "A">
+<!ENTITY EditContact.label "Editează contactul…">
 <!ENTITY EditContact.accesskey "E">
-<!ENTITY ViewContact.label "View Contact">
+<!ENTITY ViewContact.label "Vizualizare contact">
 <!ENTITY ViewContact.accesskey "V">
-<!ENTITY SubscribeToNewsgroup.label "Subscribe to Newsgroup">
-<!ENTITY SubscribeToNewsgroup.accesskey "N">
-<!ENTITY SendMessageTo.label "Compose Message To">
+<!ENTITY SubscribeToNewsgroup.label "Abonare la grupul de discuții">
+<!ENTITY SubscribeToNewsgroup.accesskey "n">
+<!ENTITY SendMessageTo.label "Compune un mesaj către">
 <!ENTITY SendMessageTo.accesskey "s">
-<!ENTITY CopyEmailAddress.label "Copy Email Address">
+<!ENTITY CopyEmailAddress.label "Copiază adresa de email">
 <!ENTITY CopyEmailAddress.accesskey "C">
-<!ENTITY CopyNewsgroupName.label "Copy Newsgroup Name">
+<!ENTITY CopyNewsgroupName.label "Copiază numele grupului de discuții">
 <!ENTITY CopyNewsgroupName.accesskey "C">
-<!ENTITY CopyNewsgroupURL.label "Copy Newsgroup URL">
-<!ENTITY CopyNewsgroupURL.accesskey "U">
-<!ENTITY CreateFilterFrom.label "Create Filter From…">
-<!ENTITY CreateFilterFrom.accesskey "F">
+<!ENTITY CopyNewsgroupURL.label "Copiază adresa grupului de discuții">
+<!ENTITY CopyNewsgroupURL.accesskey "u">
+<!ENTITY CreateFilterFrom.label "Creează filtru din…">
+<!ENTITY CreateFilterFrom.accesskey "f">
 <!ENTITY reportPhishingURL.label "Raportează înșelătorie prin email">
 <!ENTITY reportPhishingURL.accesskey "o">
 

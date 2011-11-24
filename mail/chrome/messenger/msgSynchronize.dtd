@@ -13,9 +13,9 @@
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
 
 <!ENTITY MsgSynchronize.label "Download and Sync Messages">
-<!ENTITY MsgSelect.label "Items for Offline Use">
-<!ENTITY MsgSyncDesc.label "If you have already selected mail folders or newsgroups for offline use, you can download and/or sync them now. Otherwise, use the &quot;Select&quot; button to choose mail folders and newsgroups for offline use.">
-<!ENTITY MsgSyncDirections.label "Download and/or sync the following:">
+<!ENTITY MsgSelect.label "Ce se utilizează în modul offline">
+<!ENTITY MsgSyncDesc.label "Dacă ați selectat deja dosare de email sau grupuri de news pentru utilizare în mod deconectat, le puteți descărca și/sau sincroniza acum. Altfel, folosiți butonul &quot;Selectează&quot; pentru a alege dosare de email și grupuri de news.">
+<!ENTITY MsgSyncDirections.label "Descarcă și sincronizează:">
 <!ENTITY syncTypeMail.label "Mesajele email">
 <!ENTITY syncTypeMail.accesskey "M">
 <!ENTITY syncTypeNews.label "Mesajele news">
@@ -26,6 +26,6 @@
 <!ENTITY workOffline.accesskey "D">
 <!ENTITY selectButton.label "Selectează…">
 <!ENTITY selectButton.accesskey "S">
-<!ENTITY MsgSelectDesc.label "Choose mail folders and newsgroups for offline use.">
-<!ENTITY MsgSelectInd.label "Download">
-<!ENTITY MsgSelectItems.label "Folders and Newsgroups">
+<!ENTITY MsgSelectDesc.label "Alegeți dosarele de email și grupurile de news pentru utilizare în mod deconectat.">
+<!ENTITY MsgSelectInd.label "Descarcă">
+<!ENTITY MsgSelectItems.label "Dosare și grupuri de news">
