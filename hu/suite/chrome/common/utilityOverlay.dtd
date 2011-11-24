@@ -55,7 +55,7 @@
 <!ENTITY preferencesCmd.label "Beállítások...">
 <!ENTITY preferencesCmd.key "E">
 <!ENTITY preferencesCmd.accesskey "B">
-<!ENTITY findCmd.key "K">
+<!ENTITY findCmd.key "F">
 <!-- LOCALIZATION NOTE (findCmd.accesskey): This accesskey should be within
      findCmd.label found in messengercompose.dtd, messenger.dtd and
      editorOverlay.dtd and findOnCmd.label found in navigatorOverlay.dtd -->
