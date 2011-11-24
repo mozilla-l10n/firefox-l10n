@@ -2,6 +2,8 @@
 <!ENTITY playButton.pauseLabel "Pause">
 <!ENTITY muteButton.muteLabel "Muet">
 <!ENTITY muteButton.unmuteLabel "Écoute">
+<!ENTITY fullscreenButton.enterfullscreenlabel "Plein écran">
+<!ENTITY fullscreenButton.exitfullscreenlabel "Sortie du mode plein écran">
 
 <!ENTITY stats.media "Média">
 <!ENTITY stats.size "Taille">
