@@ -439,7 +439,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaPause.accesskey        "e">
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
 "Unmute" are the same because the two context-menu
-items are mutually exclusive. -->">
+items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Muet">
 <!ENTITY mediaMute.accesskey         "u">
 <!ENTITY mediaUnmute.label           "Audible">
