@@ -14,10 +14,10 @@
 <!ENTITY manageAccount.accesskey      "A">
 <!ENTITY viewQuota.label              "View Quota">
 <!ENTITY changePassword2.label        "Change Password…">
-<!ENTITY mySyncKey.label              "My Sync Key">
+<!ENTITY myRecoveryKey.label          "My Recovery Key">
 <!ENTITY resetSync2.label             "Reset Sync…">
 
-<!ENTITY addDevice.label              "Add a Device">
+<!ENTITY pairDevice.label             "Pair a Device">
 
 <!ENTITY syncMy.label               "Synchronise My">
 <!ENTITY engine.bookmarks.label     "Bookmarks">
