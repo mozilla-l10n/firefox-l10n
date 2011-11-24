@@ -32,7 +32,6 @@
    - Hasse Wallanger <hasse@jasajudeju.se>
   -->
 
-<!ENTITY messengerWindow.title "E-post &amp; Diskussionsgrupper">
 <!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
