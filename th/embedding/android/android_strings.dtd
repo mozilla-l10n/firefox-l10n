@@ -1,5 +1,4 @@
 <!ENTITY  splash_firstrun "กำลังตั้งค่า &brandShortName;\u2026">
-<!ENTITY  incompatable_cpu_error "อุปกรณ์นี้ไม่ได้ตามความต้องการขั้นต่ำของระบบสำหรับ &brandShortName;.">
 <!ENTITY  no_space_to_start_error "มีเนื้อที่ไม่พอสำหรับการเริ่มการทำงานของ &brandShortName;">
 <!ENTITY  error_loading_file "เกิดความผิดพลาดในการโหลดแฟ้มที่จำเป็นในการเรียกใช้งาน &brandShortName;">
 
