@@ -28,7 +28,7 @@
 <!ENTITY successful.write "Napíšte e-mailovú správu">
 <!ENTITY successful.write.desc "Dajte svojim priateľom a rodine vedieť o svojej novej adrese.<br/> Kvôli tomu predsa máte svoj účet, no nie?">
 <!ENTITY successful.customize "Prispôsobte si &brandShortName; pomocou nových doplnkov">
-<!ENTITY successful.customize.desc "Svoj &brandShortName; si môžete prispôsobiť pomocou stoviek doplnkov pres ne podľa svojich predstáv.">
+<!ENTITY successful.customize.desc "Svoj &brandShortName; si môžete prispôsobiť pomocou stoviek doplnkov presne podľa svojich predstáv.">
 <!ENTITY successful.attach "Pripájať osobný podpis k e-mailovej správe">
 <!ENTITY successful.attach.desc "Ku každej odosielanej správe môžete automaticky pripájať blok textu so svojimi kontaktnými informáciami.">
 <!ENTITY successful.close "Zavrieť toto okno">
