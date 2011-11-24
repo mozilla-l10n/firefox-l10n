@@ -48,7 +48,7 @@
 <!ENTITY sidebar.switch.label           "Valitse välilehti">
 <!ENTITY sidebar.switch.accesskey       "t">
 <!ENTITY sidebarCmd.label               "Sivupaneeli">
-<!ENTITY sidebarCmd.accesskey           "S">
+<!ENTITY sidebarCmd.accesskey           "i">
 <!ENTITY sidebar.loading.label          "Ladataan…">
 <!ENTITY sidebar.loadstopped.label      "Lataus pysäytetty">
 <!ENTITY sidebar.loading.stop.label     "Pysäytä">

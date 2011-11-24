@@ -37,7 +37,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Link Toolbar Title -->
-<!ENTITY linkToolbar.label "Suunnistuspalkki">
+<!ENTITY linkToolbar.label "Sivustonavigaatiopalkki">
 <!ENTITY linkToolbar.accesskey "S">
 
 <!-- Link Toolbar visibility options -->

@@ -27,7 +27,7 @@
 <!ENTITY tabbarCmd.label "Välilehtipalkki">
 <!ENTITY tabbarCmd.accesskey "V">
 <!ENTITY taskbarCmd.label "Tilarivi">
-<!ENTITY taskbarCmd.accesskey "S">
+<!ENTITY taskbarCmd.accesskey "T">
 <!ENTITY componentbarCmd.label "Komponenttipalkki">
 <!ENTITY componentbarCmd.accesskey "o">
 

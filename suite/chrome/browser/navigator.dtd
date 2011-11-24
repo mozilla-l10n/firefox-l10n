@@ -14,7 +14,7 @@
 <!ENTITY editPageCmd.accesskey "v">
 <!ENTITY editPageCmd.commandkey "e">
 
-<!ENTITY navbarCmd.label "Navigointipalkki">
+<!ENTITY navbarCmd.label "Navigaatiopalkki">
 <!ENTITY navbarCmd.accesskey "N">
 <!ENTITY personalbarCmd.label "Kirjanmerkkipalkki">
 <!ENTITY personalbarCmd.accesskey "K">
