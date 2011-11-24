@@ -4,8 +4,7 @@
 
 <!ENTITY setup.pickSetupType.description "Welkom! As jy nog nooit &syncBrand.fullName.label; gebruik het nie, moet jy 'n nuwe rekening opstel.">
 <!ENTITY button.createNewAccount.label "Skep 'n nuwe rekening">
-<!ENTITY setup.haveAccount.label "Ek het reeds 'n &syncBrand.fullName.label;-rekening.">
-<!ENTITY button.connect.label    "Koppel">
+<!ENTITY button.haveAccount.label      "I Have an Account">
 
 <!ENTITY setup.choicePage.title.label     "Het jy &syncBrand.fullName.label; tevore gebruik?">
 <!ENTITY setup.choicePage.new.label       "Ek het nog nooit &syncBrand.shortName.label; tevore gebruik nie">
@@ -39,7 +38,7 @@
 <!ENTITY setup.ppLink.label         "Privaatheidbeleid">
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
-<!-- New Account Page 2: Sync Key -->
+<!-- My Recovery Key dialog -->
 
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; is besorg oor jou privaatheid">
 <!ENTITY setup.newRecoveryKeyPage.description.label "Om algehele privaatheid te verseker word al u data geënkripteer voor dit opgelaai word. Die herwinningsleutel wat nodig is om die data mee te dekripteer, word nie opgelaai nie.">
@@ -52,16 +51,14 @@
 <!ENTITY button.syncKeyBackup.print.accesskey "D">
 <!ENTITY button.syncKeyBackup.save.label      "Stoor…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
-<!-- New Account Page 3: Captcha -->
+<!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
 
-<!ENTITY setup.captchaPage2.title.label     "Bevestig dat jy nie 'n robot is nie">
-<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "Voeg toestel by">
+<!ENTITY pairDevice.title.label             "Pair a Device">
 <!ENTITY addDevice.showMeHow.label          "Wys my hoe.">
 <!ENTITY addDevice.dontHaveDevice.label     "Ek het nie 'n toestel by my nie">
-<!ENTITY addDevice.setup.description.label  "Om te aktiveer, gaan na &syncBrand.shortName.label; se Opsies op die ander toestel en kies &#x0022;Voeg 'n toestel by&#x0022;.">
+<!ENTITY pairDevice.setup.description.label  "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
 <!ENTITY addDevice.setup.enterCode.label    "Tik dan hierdie kode in:">
-<!ENTITY addDevice.dialog.description.label "Om 'n nuwe toestel te aktiveer, gaan na &syncBrand.shortName.label; se opsies op die toestel en kies &#x0022;Koppel&#x0022;.">
+<!ENTITY pairDevice.dialog.description.label "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
 <!ENTITY addDevice.dialog.enterCode.label   "Tik die kode wat die toestel gee:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Probeer gerus weer.">
 <!ENTITY addDevice.dialog.successful.label  "Die toestel is suksesvol bygevoeg. Die aanvanklike sinkronisering kan lank duur en sal in die agtergrond klaarmaak.">

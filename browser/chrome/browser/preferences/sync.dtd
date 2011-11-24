@@ -17,7 +17,7 @@
 <!ENTITY myRecoveryKey.label          "My herwinningsleutel">
 <!ENTITY resetSync2.label             "Laai Sync terug…">
 
-<!ENTITY addDevice.label              "Voeg toestel by">
+<!ENTITY pairDevice.label             "Pair a Device">
 
 <!ENTITY syncMy.label               "Sinkroniseer my">
 <!ENTITY engine.bookmarks.label     "Boekmerke">

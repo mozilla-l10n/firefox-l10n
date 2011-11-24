@@ -59,22 +59,28 @@
 
 <!ENTITY updateTab.label                 "Bywerk">
 
-<!ENTITY autoCheck.label                 "Kontroleer outomaties vir bywerkings aan:">
-<!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate2.label       "Byvoegings">
-<!ENTITY enableAddonsUpdate2.accesskey   "n">
-<!ENTITY enableSearchUpdate.label        "Soekenjins">
-<!ENTITY enableSearchUpdate.accesskey    "e">
-<!ENTITY whenUpdatesFound.label          "Wanneer bywerking vir &brandShortName; gevind word:">
-<!ENTITY askMe.label                     "Vra my wat ek wil doen">
-<!ENTITY askMe.accesskey                 "r">
-<!ENTITY modeAutomatic.label             "Laai die bywerking outomaties af en installeer dit">
-<!ENTITY modeAutomatic.accesskey         "o">
-<!ENTITY modeAutoAddonWarn.label         "Waarsku my as dit enige van my byvoegings sal deaktiveer">
-<!ENTITY modeAutoAddonWarn.accesskey     "W">
+<!ENTITY updateApp.label                 "&brandShortName; updates:">
+<!ENTITY updateAuto.label                "Automatically install updates (recommended: improved security)">
+<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateCheck.label               "Check for updates, but let me choose whether to install them">
+<!ENTITY updateCheck.accesskey           "C">
+<!ENTITY updateManual.label              "Never check for updates (not recommended: security risk)">
+<!ENTITY updateManual.accesskey          "N">
+
+<!ENTITY updateAutoAddonWarn.label       "Waarsku my as dit enige van my byvoegings sal deaktiveer">
+<!ENTITY updateAutoAddonWarn.accesskey   "W">
+
 <!ENTITY updateHistory.label             "Wys bywerkinggeskiedenis">
 <!ENTITY updateHistory.accesskey         "y">
+
+<!ENTITY useService.label                "Use a background service to install updates">
+<!ENTITY useService.accesskey            "b">
+
+<!ENTITY updateOthers.label              "Automatically update:">
+<!ENTITY enableAddonsUpdate3.label       "Add-ons">
+<!ENTITY enableAddonsUpdate3.accesskey   "o">
+<!ENTITY enableSearchUpdate.label        "Soekenjins">
+<!ENTITY enableSearchUpdate.accesskey    "e">
 
 <!ENTITY offlineNotify.label             "Vertel my wanneer 'n webwerf vra om data te stoor vir vanlyn gebruik">
 <!ENTITY offlineNotify.accesskey         "V">

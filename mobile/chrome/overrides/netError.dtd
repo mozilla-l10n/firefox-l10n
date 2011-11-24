@@ -1,0 +1,164 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+<!ENTITY loadError.label "Kan nie die bladsy laai nie">
+<!ENTITY retry.label "Probeer weer">
+<!-- Specific error messages -->
+
+
+<!ENTITY connectionFailure.title "Kan nie koppel nie">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+
+<!ENTITY deniedPortAccess.title "Hierdie adres het beperkings op">
+<!ENTITY deniedPortAccess.longDesc "">
+
+<!ENTITY dnsNotFound.title "Bediener nie gevind nie">
+<!ENTITY dnsNotFound.longDesc2 "
+<ul>
+  <li>Check the address for typing errors such as
+    <strong>ww</strong>.example.com instead of
+    <strong>www</strong>.example.com</li>
+  <li>If you are unable to load any pages, check your device's data or Wi-Fi connection.</li>
+</ul>
+">
+
+<!ENTITY fileNotFound.title "Lêer nie gevind nie">
+<!ENTITY fileNotFound.longDesc "<ul> 
+<li>Kontroleer die lêernaam vir bokas of onderkas of ander tikfoute.</li> 
+<li>Kontroleer of die lêer verskuif, hernoem of geskrap is.</li> 
+</ul>">
+
+
+<!ENTITY generic.title "Oeps.">
+<!ENTITY generic.longDesc "
+<p>&brandShortName; can't load this page for some reason.</p>
+">
+
+<!ENTITY malformedURI.title "Die adres is ongeldig">
+<!ENTITY malformedURI.longDesc "
+<ul>
+  <li>Web addresses are usually written like
+    <strong>http://www.example.com/</strong></li>
+  <li>Make sure that you're using forward slashes (i.e.
+    <strong>/</strong>).</li>
+</ul>
+">
+
+<!ENTITY netInterrupt.title "Die verbinding is onderbreek">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+
+<!ENTITY notCached.title "Document Expired">
+<!ENTITY notCached.longDesc "<p>The requested document is not available in &brandShortName;'s cache.</p><ul><li>As a security precaution, &brandShortName; does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
+
+<!ENTITY netOffline.title "Aflynmodus">
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>Try again. &brandShortName; will attempt to open a connection and reload the page.</li>
+</ul>
+">
+
+<!ENTITY contentEncodingError.title "Content Encoding Error">
+<!ENTITY contentEncodingError.longDesc "
+<ul>
+  <li>Please contact the website owners to inform them of this problem.</li>
+</ul>
+">
+
+<!ENTITY unsafeContentType.title "Onveilige lêersoort">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>Please contact the website owners to inform them of this problem.</li>
+</ul>
+">
+
+<!ENTITY netReset.title "Die verbinding is teruggestel">
+<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+
+<!ENTITY netTimeout.title "Die verbinding het uitgetel">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+
+<!ENTITY protocolNotFound.title "The address wasn't understood">
+<!ENTITY protocolNotFound.longDesc "
+<ul>
+  <li>You might need to install other software to open this address.</li>
+</ul>
+">
+
+<!ENTITY proxyConnectFailure.title "The proxy server is refusing connections">
+<!ENTITY proxyConnectFailure.longDesc "
+<ul>
+  <li>Check the proxy settings to make sure that they are correct.</li>
+  <li>Contact your network administrator to make sure the proxy server is
+    working.</li>
+</ul>
+">
+
+<!ENTITY proxyResolveFailure.title "Unable to find the proxy server">
+<!ENTITY proxyResolveFailure.longDesc2 "
+<ul>
+  <li>Check the proxy settings to make sure that they are correct.</li>
+  <li>Check to make sure your device has a working data or Wi-Fi connection.</li>
+</ul>
+">
+
+<!ENTITY redirectLoop.title "Die bladsy herverwys nie behoorlik nie">
+<!ENTITY redirectLoop.longDesc "<ul> 
+<li>Hierdie probleem kan soms veroorsaak word deur koekies te deaktiveer of 
+te weier om koekies te aanvaar.</li> 
+</ul>">
+
+<!ENTITY unknownSocketType.title "Onverwagse respons vanaf bediener">
+<!ENTITY unknownSocketType.longDesc "<ul> 
+<li>Kontroleer of die persoonlike sekuriteitbestuurder op u rekenaar 
+geïnstalleer is.</li> 
+<li>Dit kan wees vanweë 'n niestandaard-opstelling op die bediener.</li> 
+</ul>">
+
+<!ENTITY nssFailure2.title "Kon nie beveilig koppel nie">
+<!ENTITY nssFailure2.longDesc "
+<ul>
+  <li>The page you are trying to view can not be shown because the authenticity of the received data could not be verified.</li>
+  <li>Please contact the website owners to inform them of this problem. Alternatively, use the command found in the help menu to report this broken site.</li>
+</ul>
+">
+
+<!ENTITY nssBadCert.title "Secure Connection Failed">
+<!ENTITY nssBadCert.longDesc2 "
+<ul>
+  <li>This could be a problem with the server's configuration, or it could be
+someone trying to impersonate the server.</li>
+  <li>If you have connected to this server successfully in the past, the error may
+be temporary, and you can try again later.</li>
+</ul>
+">
+
+<!ENTITY sharedLongDesc2 "
+<ul>
+  <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>
+  <li>If you are unable to load any pages, check your mobile device's data or Wi-Fi connection.</li>
+</ul>
+">
+
+<!ENTITY cspFrameAncestorBlocked.title "Geblokkeer deur inhoudbeveiligingsbeleid">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; het voorkom dat hierdie bladsy op hierdie manier laai want die bladsy het 'n inhoudbeveiligingsbeleid wat dit keer.</p>">
+
+<!ENTITY corruptedContentError.title "Fout: inhoud korrup">
+<!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
+
+<!ENTITY securityOverride.linkText "Of u kan 'n uitsondering byvoeg…">
+<!ENTITY securityOverride.getMeOutOfHereButton "Eina! Laat ek weg wees!">
+<!ENTITY securityOverride.exceptionButtonLabel "Voeg uitsondering by…">
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <xul:button> tags.  The only language content is the label= field,
+which uses strings already defined above. The button is included here (instead of
+netError.xhtml) because it exposes functionality specific to firefox. -->
+
+
+<!ENTITY securityOverride.warningContent "<p>Jy moenie 'n uitsondering byvoeg as jy 'n internetverbinding gebruik wat jy nie volledig vertrou nie, of as jy nie gewoonlik 'n waarskuwing vir hierdie bediener sien nie.</p> 
+ 
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+
+<!ENTITY remoteXUL.title "Afgeleë XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Kontak die webwerf se eienaar om hulle oor die probleem in te lig.</li></ul></p>">
+
