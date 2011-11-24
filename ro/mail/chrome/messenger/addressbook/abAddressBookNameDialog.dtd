@@ -48,6 +48,6 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Labels -->
-<!ENTITY name.label      "Numele agendei de contacte:">
+<!ENTITY name.label      "Address Book Name:">
 <!ENTITY name.accesskey  "N">
 

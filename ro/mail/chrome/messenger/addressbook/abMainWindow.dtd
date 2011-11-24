@@ -63,13 +63,13 @@
 <!ENTITY redoCmd.label                                  "Refă">
 <!ENTITY redoCmd.key                                    "Y">
 <!ENTITY redoCmd.accesskey                              "R">
-<!ENTITY cutCmd.label                                   "Tăiere">
+<!ENTITY cutCmd.label                                   "Decupează">
 <!ENTITY cutCmd.key                                     "X">
 <!ENTITY cutCmd.accesskey                               "T">
 <!ENTITY copyCmd.label                                  "Copiați">
 <!ENTITY copyCmd.key                                    "C">
 <!ENTITY copyCmd.accesskey                              "C">
-<!ENTITY pasteCmd.label                                 "Lipește">
+<!ENTITY pasteCmd.label                                 "Inserează">
 <!ENTITY pasteCmd.key                                   "v">
 <!ENTITY pasteCmd.accesskey                             "i">
 <!ENTITY deleteCmd.label                                "Șterge">
@@ -102,7 +102,7 @@
 <!ENTITY menubarCmd.accesskey                           "m">
 <!ENTITY showAbToolbarCmd.label                         "Bara Agendă">
 <!ENTITY showAbToolbarCmd.accesskey                     "B">
-<!ENTITY showTaskbarCmd.label                           "Bară de _stare">
+<!ENTITY showTaskbarCmd.label                           "Bară de stare">
 <!ENTITY showTaskbarCmd.accesskey                       "s">
 <!ENTITY customizeToolbar.label                         "Personalizare…">
 <!ENTITY customizeToolbar.accesskey                     "P">
@@ -168,39 +168,39 @@ because displayed names don't have the comma in between. -->
 <!ENTITY dirTreeHeader.label                            "Agende de contacte">
 
 <!-- Search Bar -->
-<!ENTITY SearchNameOrEmail.label                        "Name or Email">
+<!ENTITY SearchNameOrEmail.label                        "Nume sau email">
 <!ENTITY SearchNameOrEmail.accesskey                    "N">
 <!ENTITY advancedButton.tooltip                         "Căutare avansată în agendă">
 <!ENTITY quickSearchCmd.key                             "K">
 <!ENTITY searchItem.title "Căutare rapidă">
 
 <!-- Results Pane -->
-<!ENTITY GeneratedName.label                            "Name">
-<!ENTITY GeneratedName.accesskey                        "N">
+<!ENTITY GeneratedName.label                            "Denumire">
+<!ENTITY GeneratedName.accesskey                        "n">
 <!ENTITY PrimaryEmail.label                             "Email">
 <!ENTITY PrimaryEmail.accesskey                         "E">
-<!ENTITY ScreenName.label                               "Screen Name">
-<!ENTITY ScreenName.accesskey                           "S">
-<!ENTITY Company.label                                  "Organization">
+<!ENTITY ScreenName.label                               "Numele pentru mesagerie">
+<!ENTITY ScreenName.accesskey                           "s">
+<!ENTITY Company.label                                  "Organizația">
 <!ENTITY Company.accesskey                              "z">
-<!ENTITY NickName.label                                 "Nickname">
-<!ENTITY NickName.accesskey                             "i">
-<!ENTITY SecondEmail.label                              "Additional Email">
+<!ENTITY NickName.label                                 "Porecla">
+<!ENTITY NickName.accesskey                             "P">
+<!ENTITY SecondEmail.label                              "Altă adresă de email">
 <!ENTITY SecondEmail.accesskey                          "l">
-<!ENTITY Department.label                               "Department">
+<!ENTITY Department.label                               "Departamentul">
 <!ENTITY Department.accesskey                           "r">
-<!ENTITY JobTitle.label                                 "Title">
+<!ENTITY JobTitle.label                                 "Titlul">
 <!ENTITY JobTitle.accesskey                             "T">
-<!ENTITY CellularNumber.label                           "Mobile">
-<!ENTITY CellularNumber.accesskey                       "M">
-<!ENTITY PagerNumber.label                              "Pager">
+<!ENTITY CellularNumber.label                           "Telefon mobil">
+<!ENTITY CellularNumber.accesskey                       "m">
+<!ENTITY PagerNumber.label                              "Paginator">
 <!ENTITY PagerNumber.accesskey                          "P">
 <!ENTITY FaxNumber.label                                "Fax">
-<!ENTITY FaxNumber.accesskey                            "F">
-<!ENTITY HomePhone.label                                "Home Phone">
-<!ENTITY HomePhone.accesskey                            "H">
-<!ENTITY WorkPhone.label                                "Work Phone">
-<!ENTITY WorkPhone.accesskey                            "W">
+<!ENTITY FaxNumber.accesskey                            "f">
+<!ENTITY HomePhone.label                                "Telefonul acasă">
+<!ENTITY HomePhone.accesskey                            "T">
+<!ENTITY WorkPhone.label                                "Telefonul serviciu">
+<!ENTITY WorkPhone.accesskey                            "T">
 <!ENTITY sortAscending.label                            "Crescătoare">
 <!ENTITY sortAscending.accesskey                        "C">
 <!ENTITY sortDescending.label                           "În ordine descrescătoare">

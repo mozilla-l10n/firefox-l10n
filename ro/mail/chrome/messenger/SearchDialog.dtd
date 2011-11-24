@@ -47,7 +47,7 @@
 <!ENTITY abSearchDialogTitle.label   "Căutare avansată în agenda de contacte">
 
 <!-- Thread Pane -->
-<!ENTITY threadColumn.label "Fir">
+<!ENTITY threadColumn.label "Conversație">
 <!ENTITY fromColumn.label "Expeditor">
 <!ENTITY recipientColumn.label "Destinatar">
 <!ENTITY subjectColumn.label "Subiect">

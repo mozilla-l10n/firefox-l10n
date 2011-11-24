@@ -77,13 +77,13 @@
 <!ENTITY redoCmd.label "Refă">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "R"> 
-<!ENTITY cutCmd.label "Taie">
+<!ENTITY cutCmd.label "Decupează">
 <!ENTITY cutCmd.key "X">
 <!ENTITY cutCmd.accesskey "T"> 
 <!ENTITY copyCmd.label "Copiați">
 <!ENTITY copyCmd.key "C">
 <!ENTITY copyCmd.accesskey "C"> 
-<!ENTITY pasteCmd.label "Lipește">
+<!ENTITY pasteCmd.label "Inserează">
 <!ENTITY pasteCmd.key "v">
 <!ENTITY pasteCmd.accesskey "i">
 <!ENTITY pasteNoFormattingCmd.key "V">
@@ -119,7 +119,7 @@
 <!ENTITY showCompositionToolbarCmd.accesskey "B">
 <!ENTITY showFormattingBarCmd.label "Bară de formatare">
 <!ENTITY showFormattingBarCmd.accesskey "f">
-<!ENTITY showTaskbarCmd.label "Bară de _stare">
+<!ENTITY showTaskbarCmd.label "Bară de stare">
 <!ENTITY showTaskbarCmd.accesskey "s">
 <!ENTITY customizeToolbar.label "Personalizare…">
 <!ENTITY customizeToolbar.accesskey "P">
@@ -128,7 +128,7 @@
 <!ENTITY addressSidebar.accesskey "o"> 
 
 <!-- Format Menu -->
-<!ENTITY formatMenu.label "Format trimitere">
+<!ENTITY formatMenu.label "Format">
 <!ENTITY formatMenu.accesskey "o">
 
 <!-- Options Menu -->
@@ -151,7 +151,7 @@
 <!ENTITY returnReceiptMenu.accesskey "C">
 <!ENTITY dsnMenu.label "Notificare asupra stadiului livrării">
 <!ENTITY dsnMenu.accesskey "N">
-<!ENTITY outputFormatMenu.label "Format trimitere">
+<!ENTITY outputFormatMenu.label "Format">
 <!ENTITY outputFormatMenu.accesskey "F">
 <!ENTITY autoFormatCmd.label "Autodetecție">
 <!ENTITY autoFormatCmd.accesskey "A">
@@ -218,7 +218,7 @@
 <!ENTITY attachButton.tooltip "Anexează un fișier la acest mesaj"> 
 <!ENTITY spellingButton.tooltip "Verifică ortografia pentru zona selectată sau pentru întregul mesaj">
 <!ENTITY saveButton.tooltip "Salvează acest mesaj"> 
-<!ENTITY cutButton.tooltip              "Taie">
+<!ENTITY cutButton.tooltip              "Decupează">
 <!ENTITY copyButton.tooltip             "Copiază">
 <!ENTITY pasteButton.tooltip            "Inserează">
 
@@ -241,7 +241,7 @@
 <!ENTITY attachments.accesskey "B">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
-<!ENTITY SmileButton.tooltip "Insert a smiley face">
+<!ENTITY SmileButton.tooltip "Inserează o figură zâmbitoare">
 <!ENTITY smiley1Cmd.label "Zâmbet">
 <!ENTITY smiley2Cmd.label "Scârbit">
 <!ENTITY smiley3Cmd.label "Clipit">
@@ -267,13 +267,13 @@
 <!ENTITY spellCheckAddToDictionary.accesskey "n">
 <!ENTITY undo.label "Anulează">
 <!ENTITY undo.accesskey "n">
-<!ENTITY cut.label "Tăiere">
+<!ENTITY cut.label "Decupează">
 <!ENTITY cut.accesskey "T">
 <!ENTITY copy.label "Copiați">
 <!ENTITY copy.accesskey "C">
-<!ENTITY paste.label "Lipește">
+<!ENTITY paste.label "Inserează">
 <!ENTITY paste.accesskey "i">
-<!ENTITY pasteQuote.label "Lipește ca citat">
+<!ENTITY pasteQuote.label "Inserează ca citat">
 <!ENTITY pasteQuote.accesskey "p">
 
 <!ENTITY openAttachment.label "Deschis">

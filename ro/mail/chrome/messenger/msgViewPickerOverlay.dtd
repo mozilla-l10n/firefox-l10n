@@ -2,7 +2,6 @@
 # Translator(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
-# stas <stas@nerd.ro>
 #
 -->
 <!--
@@ -21,7 +20,7 @@
 <!ENTITY viewUnread.accesskey "N">
 <!ENTITY viewNotDeleted.label "Nu este șters">
 <!ENTITY viewNotDeleted.accesskey "N">
-<!ENTITY viewTags.label "Tag-uri">
+<!ENTITY viewTags.label "Etichete">
 <!ENTITY viewTags.accesskey "T">
 <!ENTITY viewCustomViews.label "Vederi personalizate">
 <!ENTITY viewCustomViews.accesskey "V">

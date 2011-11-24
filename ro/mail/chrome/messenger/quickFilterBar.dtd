@@ -3,7 +3,6 @@
 #
 # Alexandru Szasz <alexxed@gmail.com>
 # nicubunu <nicubunu@gmail.com>
-# stas <stas@nerd.ro>
 #
 -->
 <!--
@@ -99,7 +98,7 @@
      include messages with at least one tag on them.
      -->
 <!ENTITY quickFilterBar.tags.label
-         "Tag-uri">
+         "Etichete">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.tags.tooltip):
      The tooltip for the filter button that causes us to filter results to only
