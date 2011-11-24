@@ -20,7 +20,7 @@
 <!ENTITY pluginWizard.finalPage.moreInfo.label "ดูเพิ่มเกี่ยวกับโปรแกรมเสริมต่าง ๆ หรือหาโปรแกรมเสริมที่ขาดหายไปด้วยตัวเอง">
 <!ENTITY pluginWizard.finalPage.restart.label "&brandShortName; จำเป็นต้องเริ่มใหม่เพื่อให้โปรแกรมเสริมทำงาน">
   
-<!ENTITY missingPlugin        ต้องใช้โปรแกรมเสริมเพื่อดูเนื้อหานี้">
+<!ENTITY missingPlugin        "ต้องใช้โปรแกรมเสริมเพื่อดูเนื้อหานี้">
 <!ENTITY clickToPlayPlugin    "แตะที่นี้เพือเปิดใช้งานโปรแกรมเสริม">
 <!ENTITY disabledPlugin       "โปรแกรมเสริมนี้ถูกปิดการใช้งาน">
 <!ENTITY blockedPlugin.label "โปรแกรมเสริมนี้ถูกปิดกั้นเพื่อปกป้องคุณ">
