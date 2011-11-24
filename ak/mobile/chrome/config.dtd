@@ -1,0 +1,12 @@
+<!ENTITY empty.label            "Hwehwɛ">
+<!ENTITY newpref.label          "Add a New Preference">
+<!ENTITY addpref.name           "Din">
+<!ENTITY addpref.value          "aba">
+
+<!ENTITY cancel.label           "Twa-mu">
+<!ENTITY reset.label            "Reset">
+<!ENTITY done.label             "Ewie">
+
+<!ENTITY integer.label          "Integer">
+<!ENTITY string.label           "String">
+<!ENTITY boolean.label          "Boolean">

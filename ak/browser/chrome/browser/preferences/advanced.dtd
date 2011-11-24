@@ -59,22 +59,28 @@
 
 <!ENTITY updateTab.label                 "Ntoso">
 
-<!ENTITY autoCheck.label                 "Hwehwɛ ntoso otomatikmu:">
-<!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate2.label       "Nkaho">
-<!ENTITY enableAddonsUpdate2.accesskey   "h">
-<!ENTITY enableSearchUpdate.label        "Ahwehwɛmfidie">
-<!ENTITY enableSearchUpdate.accesskey    "m">
-<!ENTITY whenUpdatesFound.label          "Bere a wɔehu &brandShortName; ntoso:">
-<!ENTITY askMe.label                     "Bisa me nea mepɛsɛ meyɛ">
-<!ENTITY askMe.accesskey                 "i">
-<!ENTITY modeAutomatic.label             "Twe na instɔɔle ntoso bi otomatikmu">
-<!ENTITY modeAutomatic.accesskey         "k">
-<!ENTITY modeAutoAddonWarn.label         "Bɔ me kɔkɔ sɛ eyi bedum me nkaho bi a">
-<!ENTITY modeAutoAddonWarn.accesskey     "ɔ">
+<!ENTITY updateApp.label                 "&brandShortName; updates:">
+<!ENTITY updateAuto.label                "Automatically install updates (recommended: improved security)">
+<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateCheck.label               "Check for updates, but let me choose whether to install them">
+<!ENTITY updateCheck.accesskey           "C">
+<!ENTITY updateManual.label              "Never check for updates (not recommended: security risk)">
+<!ENTITY updateManual.accesskey          "N">
+
+<!ENTITY updateAutoAddonWarn.label       "Bɔ me kɔkɔ sɛ eyi bedum me nkaho bi a">
+<!ENTITY updateAutoAddonWarn.accesskey   "ɔ">
+
 <!ENTITY updateHistory.label             "Kyerɛ ntoso abakɔsɛm">
 <!ENTITY updateHistory.accesskey         "s">
+
+<!ENTITY useService.label                "Use a background service to install updates">
+<!ENTITY useService.accesskey            "b">
+
+<!ENTITY updateOthers.label              "Automatically update:">
+<!ENTITY enableAddonsUpdate3.label       "Add-ons">
+<!ENTITY enableAddonsUpdate3.accesskey   "o">
+<!ENTITY enableSearchUpdate.label        "Ahwehwɛmfidie">
+<!ENTITY enableSearchUpdate.accesskey    "m">
 
 <!ENTITY offlineNotify.label             "Ka kyerɛ me wɔ bere a wɛbsaet bi bisa sɛ ɛde deta besie ɔflaen ayɛ ho edwuma">
 <!ENTITY offlineNotify.accesskey         "K">

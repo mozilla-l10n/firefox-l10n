@@ -7,21 +7,20 @@
 
 
 <!ENTITY connectionFailure.title "Nntumi nnkɔnɛkt">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
 
 <!ENTITY deniedPortAccess.title "Wɔaka adrɛs yi ahyɛ">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Ennhu sɛɛva no">
-<!ENTITY dnsNotFound.longDesc "<ul> 
-<li>Hwɛ adrɛs ne mu sɛ wo behu mfomso bi te sɛ 
-<strong>ww</strong>.mfatoho.com a naa wopɛsɛ wo kyerɛw 
-<strong>www</strong>.mfatoho.com</li> 
-<li>Sɛ wo nntumi mmbue krataafa biara a, hwɛ wo kɔmputa ne nɛtwɛk 
-kɔnɛkhyɛn.</li> 
-<li>Sɛ ogyaban anaaso prɔksi bi bɔ wo kɔmputa anaaso nɛtwɛk ne ho ban a, bɔ mbɔden 
-sɛ &brandShortName; wɔ ho kwan sɛ ɔbɛkɔ Wɛb ne so.</li> 
-</ul>">
+<!ENTITY dnsNotFound.longDesc2 "
+<ul>
+  <li>Check the address for typing errors such as
+    <strong>ww</strong>.example.com instead of
+    <strong>www</strong>.example.com</li>
+  <li>If you are unable to load any pages, check your device's data or Wi-Fi connection.</li>
+</ul>
+">
 
 <!ENTITY fileNotFound.title "Ennhu fael no">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -42,31 +41,37 @@ sɛ &brandShortName; wɔ ho kwan sɛ ɔbɛkɔ Wɛb ne so.</li>
 </ul>">
 
 <!ENTITY netInterrupt.title "Wotwaa kɔnɛkhyɛn ne so">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
 <!ENTITY notCached.title "Document Expired">
 <!ENTITY notCached.longDesc "<p>The requested document is not available in &brandShortName;'s cache.</p><ul><li>As a security precaution, &brandShortName; does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
 
 <!ENTITY netOffline.title "Ɔflaen tebea">
-<!ENTITY netOffline.longDesc2 "<ul> 
-<li>Mia &quot;San-sɔ-hwɛ&quot; fa kɔ ɔnlaen tebea mu na san bue krataafa no.</li> 
-</ul>">
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>Try again. &brandShortName; will attempt to open a connection and reload the page.</li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.title "Mu-asɛm Ndanee Mfomso">
-<!ENTITY contentEncodingError.longDesc "<ul> 
-<li> Yɛsrɛ wo sɛ bisa wɔn a wɛbsaet yi yɛ wɔn de ma wɔnhwɛ asɛm yi ho asɛm nka.</li> 
-</ul>">
+<!ENTITY contentEncodingError.longDesc "
+<ul>
+  <li>Please contact the website owners to inform them of this problem.</li>
+</ul>
+">
 
-<!ENTITY unsafeContentType.title "Fael bɔbea a onni bambɔ">
-<!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Yɛsrɛ wo sɛ bisa wɔn a wɛbsaet yi yɛ wɔn de ma wɔnhwɛ asɛm yi ho asɛm nka.</li> 
-</ul>">
+<!ENTITY unsafeContentType.title "Unsafe File Type">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>Please contact the website owners to inform them of this problem.</li>
+</ul>
+">
 
 <!ENTITY netReset.title "Wɔhyɛɛ kɔnɛkhyɛn no ase bio">
-<!ENTITY netReset.longDesc "&sharedLongDesc;">
+<!ENTITY netReset.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netTimeout.title "Kɔnɛkhyɛn no ne bere apa ho">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
 <!ENTITY protocolNotFound.title "Firefox annte adrɛs no ase">
 <!ENTITY protocolNotFound.longDesc "<ul> 
@@ -81,12 +86,12 @@ sɛ &brandShortName; wɔ ho kwan sɛ ɔbɛkɔ Wɛb ne so.</li>
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Nntumi nnhu prɔksi sɛɛva no">
-<!ENTITY proxyResolveFailure.longDesc "<ul> 
-<li>Hwɛ wo prɔksi sɛɛva nhyehyɛe no mu sɛ biribia yɛ nokware a.</li> 
-<li>Hwɛ sɛ wo kɔmputa no wɔ nɛtwɛk a ɛyɛ edwuma</li> 
-<li>Sɛ prɔksi anaaso ogyaban bɔ wo kɔmputa anaaso nɛtwɛk no ho ban a, hwɛ 
-sɛ &brandShortName; wɔ ho kwan sɛ ɔbɛkɔ Wɛb no so.</li> 
-</ul>">
+<!ENTITY proxyResolveFailure.longDesc2 "
+<ul>
+  <li>Check the proxy settings to make sure that they are correct.</li>
+  <li>Check to make sure your device has a working data or Wi-Fi connection.</li>
+</ul>
+">
 
 <!ENTITY redirectLoop.title "Krataafa no rennkɔ beebi a ɛwɔ sɛ ɔkɔ no papa">
 <!ENTITY redirectLoop.longDesc "<ul> 
@@ -115,36 +120,26 @@ obi pɛ sɛ ɔyɛ ne ho te sɛ ɔno ne sɛɛva no.</li>
 yɛ biribi ɛto betwa a ɛrennkyɛ koraa, anaaso wo pɛ a san sɔ hwɛ ekyiri yi.</li> 
 </ul>">
 
-<!ENTITY sharedLongDesc "<ul> 
-<li>Etumi ba no sɛ kwan nnda hɔ mma saet no anaaso ɔayɛ bisi. Ɛkyɛre kakra a, 
- san sɔ hwɛ. </li> 
-<li>Sɛ wonntumi nnhu krataafa biara a, hwɛ wo kɔmputa nɛtwɛk no mu.</li> 
-<li>Sɛ prɔksi anaaso ogyaban bɔ wo nɛtwɛk ne ho ban a, hwɛ 
- sɛ &brandShortName; wɔ ho kwan sɛ ɔbɛkɔ Wɛb no so.</li> 
-</ul>">
+<!ENTITY sharedLongDesc2 "
+<ul>
+  <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>
+  <li>If you are unable to load any pages, check your mobile device's data or Wi-Fi connection.</li>
+</ul>
+">
 
-<!ENTITY malwareBlocked.title "Saet yi betumi ahaw adwen papaapa!">
-<!ENTITY malwareBlocked.longDesc "<p>Saet a wɔhaw adwen bɔ mbɔden sɛ wɔbɛinstɔl mprogram de ewia wo infɔmehyɛn, anaaso wɔde wo kɔmputa no bɛhaw afoforo wɔn adwen, anaaso wɔbɛhaw wo kɔmputa.</p> 
-<p>Sɛ wɛbsaet bi yɛ wo de na wo gye di sɛ obi afom sɛ wɔaka sɛ wo wɛbsaet no haw adwen a, <a href='http://www.stopbadware.org/home/reviewinfo' >bisa sɛ wɔnhwɛ wo asɛm nka mma wo</a>.</p>">
-
-<!ENTITY phishingBlocked.title "Ayɛ sɛ wɛb ndaadaa!">
-<!ENTITY phishingBlocked.longDesc "<p>Wo rekyerɛw wo ho nsɛm wɔ krataafa yi so betumi ama obi ewia wo su, anaaso ewia wo sika anaaso biribi foforo.</p> 
-<p>Yɛfrɛ wɛb ndaadaa te sɛ yinom sɛ Intanɛt sakawa, a binom nam emel ne wɛb nkrataafa so de yɛ wɔn ho sɛ obia a wobetumi de wo were ahyɛ wɔn mu.</p>">
-
-<!ENTITY cspFrameAncestorBlocked.title "Kɔntɛnt Sikuriti Mbra esi no kwan">
+<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; sii krataafa yi kwan sɛ ɔbeloode wɔ kwan yi so efiri sɛ krataafa no wɔ sikuriti mbra bi a ɔmma biribi te sɛ yi ho kwan.</p>">
 
-<!ENTITY corruptedContentError.title "Mfomso a ɛkyerɛ kɔntent a ne ho atɔ kyima">
-<!ENTITY corruptedContentError.longDesc "<p>Wo renntumi nnhu krataafa a wo pɛ sɛ wo hwɛ no ɛsian sɛ wɔhuu mfomso bi wɔ data nsoma no mu.</p><ul><li>Yɛ srɛ wo sɛ bisa wɔn a wɛbsaet no yɛ wɔn de ma wɔ wɔnhwɛ ho asɛm nka.</li></ul>">
-
+<!ENTITY corruptedContentError.title "Corrupted Content Error">
+<!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Anaaso wobetumi eyi wɛbsaet yi efiri mu…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Ma me nyew mfiri ha oo!">
 <!ENTITY securityOverride.exceptionButtonLabel "Yi Firi Mu…">
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
-contents of the <button> tags. It uses strings already defined above. The
-button is included here (instead of netError.xhtml) because it exposes
-functionality specific to firefox. -->
+contents of the <xul:button> tags.  The only language content is the label= field,
+which uses strings already defined above. The button is included here (instead of
+netError.xhtml) because it exposes functionality specific to firefox. -->
 
 
 <!ENTITY securityOverride.warningContent "<p>Enni sɛ wo de ɛksɛphyɛn beka ho sɛ wo de Intanɛt kɔnɛkhyɛn a wo nngye di redi dwuma anaaso sɛ wo nntaa nnhu kɔkɔbɔ mma sɛɛva yi a.</p> 
@@ -154,3 +149,4 @@ functionality specific to firefox. -->
 
 <!ENTITY remoteXUL.title "XUL remoot">
 <!ENTITY remoteXUL.longDesc "<p><ul><li> Yɛsrɛ wo sɛ bisa wɔn a wɛbsaet yi yɛ wɔn de ma wɔnhwɛ asɛm yi ho asɛm nka.</li></ul></p>">
+

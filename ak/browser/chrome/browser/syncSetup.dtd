@@ -4,8 +4,7 @@
 
 <!ENTITY setup.pickSetupType.description "Akɔaba, sɛ wo mmfaa &syncBrand.fullName.label; nndii dwuma da a, ho bɛhia sɛ wo bɛbɔ akawnt foforo.">
 <!ENTITY button.createNewAccount.label "Bɔ akawnt foforo">
-<!ENTITY setup.haveAccount.label "Me mɔ &syncBrand.fullName.label; akawnt dadaw.">
-<!ENTITY button.connect.label    "Kɔnɛkt">
+<!ENTITY button.haveAccount.label      "I Have an Account">
 
 <!ENTITY setup.choicePage.title.label     "Wo de &syncBrand.fullName.label; edi dwuma da?">
 <!ENTITY setup.choicePage.new.label       "Me mmfaa &syncBrand.shortName.label; nndii dwuma da">
@@ -39,7 +38,7 @@
 <!ENTITY setup.ppLink.label         "Siesɛm mbra">
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
-<!-- New Account Page 2: Sync Key -->
+<!-- My Recovery Key dialog -->
 
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; Dwene Wo Asiesɛm Ho">
 <!ENTITY setup.newRecoveryKeyPage.description.label "Sɛ wo pɛ sɛ wo nya wo asiede a, wo data nyinara ɛnkreptee ansa wɔn epia akɔ. Nsa-san-ka safoa a ehia sɛ wo sian data ano no mpia akɔ.">
@@ -52,16 +51,14 @@
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
 <!ENTITY button.syncKeyBackup.save.label      "Sie">
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
-<!-- New Account Page 3: Captcha -->
+<!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
 
-<!ENTITY setup.captchaPage2.title.label     "Me srɛ wo kyerɛ sɛ wo nnyɛ robɔt foo">
-<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "Fa efidie ka ho">
+<!ENTITY pairDevice.title.label             "Pair a Device">
 <!ENTITY addDevice.showMeHow.label          "Kyerɛ me sɛnea wɔ yɛ no.">
 <!ENTITY addDevice.dontHaveDevice.label     "Efidie no nni me nhyɛn">
-<!ENTITY addDevice.setup.description.label  "Wo pɛ sɛ wo kenyan a, kɔ &syncBrand.shortName.label; nɔphyɛn wɔ woefidie foforo no so na paw &#x0022;Fa efidie ka ho&#x0022;">
+<!ENTITY pairDevice.setup.description.label  "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
 <!ENTITY addDevice.setup.enterCode.label    "Ɛneɛ, bɔ kood yi:">
-<!ENTITY addDevice.dialog.description.label "Wopɛ sɛ wo kenyan woefidie foforo no a, kɔ &syncBrand.shortName.label; nɔphyɛn wɔ efidie no so na paw &#x0022;Kɔnɛkte.&#x0022;">
+<!ENTITY pairDevice.dialog.description.label "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
 <!ENTITY addDevice.dialog.enterCode.label   "Bɔ kood koro a efidie no kyerɛ:">
 <!ENTITY addDevice.dialog.tryAgain.label    "San sɔ hwɛ.">
 <!ENTITY addDevice.dialog.successful.label  "Wɔde efidie no aka ho. Synkronaesahyin a edi kan no bɛ kyɛ kakra na ebewie wɔ ndaekyir.">

@@ -94,23 +94,24 @@
 
 <!ENTITY browserContext.label         "Brawsa">
 <!ENTITY browserContext.accesskey     "B">
-<!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
+<!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
 
-<!ENTITY resetContext.label           "San hyɛ">
-<!ENTITY resetContext.accesskey       "n">
+<!ENTITY resetContext2.label          "Reset Variables">
+<!ENTITY resetContext2.accesskey      "T">
 
 <!ENTITY executeMenu.label            "Yɛ">
 <!ENTITY executeMenu.accesskey        "Y">
+<!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
+  -  the browser Error Console, the key should be identical to the property of
+  -  the same name in browser.dtd.
+  -->
 
-<!ENTITY toolsMenu.label              "Mfidie">
-<!ENTITY toolsMenu.accesskey          "i">
-
-<!ENTITY errorConsoleCmd.label        "Mfomso Kɔnsool">
-<!ENTITY errorConsoleCmd.accesskey    "K">
 <!ENTITY errorConsoleCmd.commandkey   "j">
+<!-- LOCALIZATION NOTE (webConsoleCmd.commandkey): This command key launches
+  -  the browser WebConsole, the key should be identical to the property of
+  -  the same name in browser.dtd.
+  -->
 
-<!ENTITY webConsoleCmd.label          "Wɛb Kɔnsool">
-<!ENTITY webConsoleCmd.accesskey      "W">
 <!ENTITY webConsoleCmd.commandkey     "k">

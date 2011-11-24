@@ -17,7 +17,7 @@
 <!ENTITY myRecoveryKey.label          "Me nsa-san-ka safoa">
 <!ENTITY resetSync2.label             "San-hyehyɛɛ Sync…">
 
-<!ENTITY addDevice.label              "Fa efidie ka ho">
+<!ENTITY pairDevice.label             "Pair a Device">
 
 <!ENTITY syncMy.label               "Sync Mediɛ">
 <!ENTITY engine.bookmarks.label     "Mbukmaak">
