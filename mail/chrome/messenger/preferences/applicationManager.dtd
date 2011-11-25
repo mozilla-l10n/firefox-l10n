@@ -13,6 +13,6 @@
 -->
 <!ENTITY appManager.title     "Detaliile aplicației">
 <!ENTITY appManager.style     "width: 30em; min-height: 20em;">
-<!ENTITY remove.label         "Ștergere">
-<!ENTITY remove.accesskey     "e">
+<!ENTITY remove.label         "Elimină">
+<!ENTITY remove.accesskey     "E">
 

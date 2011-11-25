@@ -15,7 +15,7 @@
 <!ENTITY removeallpermissions.accesskey "E">
 <!ENTITY address.label                "Adresa saitului web:">
 <!ENTITY address.accesskey            "d">
-<!ENTITY block.label                  "Bloc">
+<!ENTITY block.label                  "Blochează">
 <!ENTITY block.accesskey              "B">
 <!ENTITY session.label                "Permite pentru sesiune">
 <!ENTITY session.accesskey            "s">

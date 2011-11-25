@@ -3,7 +3,6 @@
 #
 # Alexandru Szasz <alexxed@gmail.com>
 # turcan <nicturcan@gmail.com>
-# secarica <orice@secarica.ro>
 #
 -->
 <!--
@@ -60,19 +59,19 @@
 <!-- File menu -->
 <!ENTITY mapfileMenu.label "Fișier">
 <!ENTITY mapfileMenu.accesskey "F">
-<!ENTITY clearCmd.label "Curățire">
-<!ENTITY clearCmd.accesskey "C">
+<!ENTITY clearCmd.label "Golește">
+<!ENTITY clearCmd.accesskey "G">
 <!ENTITY closeCmd.label "Închide">
 <!ENTITY closeCmd.accesskey "n">
 
 <!-- Edit menu -->
 <!ENTITY mapeditMenu.label "Editare">
 <!ENTITY mapeditMenu.accesskey "E">
-<!ENTITY cutCmd.label "Decupează">
+<!ENTITY cutCmd.label "Taie">
 <!ENTITY cutCmd.accesskey "T">
-<!ENTITY copyCmd.label "Copiați">
+<!ENTITY copyCmd.label "Copiază">
 <!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "Inserează">
+<!ENTITY pasteCmd.label "Lipește">
 <!ENTITY pasteCmd.accesskey "L">
 <!ENTITY selectallCmd.label "Selectează tot">
 <!ENTITY selectallCmd.accesskey "S">
@@ -85,7 +84,7 @@
 <!ENTITY showhideTbarCmd.label "Ascunde bara de unelte">
 <!ENTITY showhideTbarCmd.accesskey "A">
 <!-- Scaling -->
-<!ENTITY mapviewScale.label "Scară">
+<!ENTITY mapviewScale.label "Scală">
 <!ENTITY mapviewScale.accesskey "S">
 <!ENTITY apercentCmd.label "100">
 <!ENTITY apercentCmd.accesskey "1">
@@ -98,7 +97,7 @@
 <!ENTITY zoomoutCmd.label "Depărtează">
 
 <!-- Keys -->
-<!ENTITY clear.key "d">
+<!ENTITY clear.key "C">
 <!ENTITY selectall.key "o">
 <!ENTITY close.key "l">
 <!ENTITY cut.key "T">

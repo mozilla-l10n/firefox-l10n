@@ -2,13 +2,11 @@
 # Translator(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
-# secarica <orice@secarica.ro>
 #
 -->
 <!--
 # Reviewer(s):
 #
-# raulmalea <raul.malea@gmail.com>
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
@@ -50,7 +48,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY tableWindow.title                "Proprietăți tabel">
-<!ENTITY applyButton.label                "Aplicați">
+<!ENTITY applyButton.label                "Aplică">
 <!ENTITY applyButton.accesskey            "A">
 <!ENTITY closeButton.label                "Închide">
 <!ENTITY tableTab.label                   "Tabel">
@@ -68,13 +66,13 @@
 <!ENTITY tableBorderWidth.accessKey       "B">
 <!ENTITY tableSpacing.label               "Spațiere:">
 <!ENTITY tableSpacing.accessKey           "S">
-<!ENTITY tablePadding.label               "Umplutură:">
+<!ENTITY tablePadding.label               "Spațiu umplere:">
 <!ENTITY tablePadding.accessKey           "P">
 <!ENTITY tablePxBetwCells.label           "pixeli între celule">
 <!ENTITY tablePxBetwBrdrCellContent.label "pixeli între marginea și conținutul celulei">
 <!ENTITY tableAlignment.label             "Aliniere tabel:">
 <!ENTITY tableAlignment.accessKey         "A">
-<!ENTITY tableCaption.label               "Titlu:">
+<!ENTITY tableCaption.label               "Explicație:">
 <!ENTITY tableCaption.accessKey           "X">
 <!ENTITY tableCaptionAbove.label          "Deasupra tabelului">
 <!ENTITY tableCaptionBelow.label          "Sub tabel">
@@ -93,15 +91,15 @@
 <!ENTITY cellSelectPrevious.accessKey     "P">
 <!ENTITY applyBeforeChange.label          "Schimbările curente vor fi aplicate înainte de schimbarea selecției.">
 <!ENTITY cellContentAlignment.label       "Aliniere conținut">
-<!ENTITY cellHorizontal.label             "Orizontal:">
+<!ENTITY cellHorizontal.label             "Orizontală:">
 <!ENTITY cellHorizontal.accessKey         "Z">
-<!ENTITY cellVertical.label               "Vertical:">
+<!ENTITY cellVertical.label               "Verticală:">
 <!ENTITY cellVertical.accessKey           "v">
 <!ENTITY cellStyle.label                  "Stil celulă:">
 <!ENTITY cellStyle.accessKey              "S">
 <!ENTITY cellNormal.label                 "Normală">
 <!ENTITY cellHeader.label                 "Antet">
-<!ENTITY cellTextWrap.label               "Împachetare text:">
+<!ENTITY cellTextWrap.label               "Înfășurare text:">
 <!ENTITY cellTextWrap.accessKey           "T">
 <!ENTITY cellWrap.label                   "Înfășoară">
 <!ENTITY cellNoWrap.label                 "Nu înfășura">
@@ -113,11 +111,11 @@
 <!ENTITY cellUseCheckboxHelp.label        "Folosiți bifele pentru a indica ce proprietăți se aplică celulelor selectate">
 
 <!-- Used in both Table and Cell panels  -->
-<!ENTITY size.label                       "Mărimea">
+<!ENTITY size.label                       "Mărime">
 <!ENTITY pixels.label                     "pixeli">
-<!ENTITY backgroundColor.label            "Culoare de fundal:">
+<!ENTITY backgroundColor.label            "Culoare fundal:">
 <!ENTITY backgroundColor.accessKey        "F">
-<!ENTITY AlignLeft.label                  "Left">
-<!ENTITY AlignCenter.label                "Center">
-<!ENTITY AlignRight.label                 "Right">
+<!ENTITY AlignLeft.label                  "Stânga">
+<!ENTITY AlignCenter.label                "Centru">
+<!ENTITY AlignRight.label                 "Dreapta">
 

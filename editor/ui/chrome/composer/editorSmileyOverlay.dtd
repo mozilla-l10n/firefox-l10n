@@ -4,8 +4,12 @@
 # rsandu <razvan.sandu@zando.ro>
 # nicubunu <nicubunu@gmail.com>
 # janimo <jani@ubuntu.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
 # Alexandru Szasz <alexxed@gmail.com>
-# toffee <daniel@toffee.ro>
 #
 -->
 <!-- ***** BEGIN LICENSE BLOCK *****
@@ -46,17 +50,17 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Smiley Menu items -->
-<!ENTITY insertSmiley.label "Mozomaină">
-<!ENTITY insertSmiley.accesskey "z">
+<!ENTITY insertSmiley.label "Zâmbăreț">
+<!ENTITY insertSmiley.accesskey "Z">
 
-<!ENTITY smiley1Cmd.label "Zâmbet">
+<!ENTITY smiley1Cmd.label "Zâmbitor">
 <!ENTITY smiley1Cmd.accesskey "Z">
 <!ENTITY smiley1Cmd.tooltip "Inserează o figură zâmbitoare">
-<!ENTITY smiley2Cmd.label "Scârbit">
+<!ENTITY smiley2Cmd.label "Încruntat">
 <!ENTITY smiley2Cmd.accesskey "c">
 <!ENTITY smiley2Cmd.tooltip "Inserează o figură încruntată">
-<!ENTITY smiley3Cmd.label "Clipit">
-<!ENTITY smiley3Cmd.accesskey "C">
+<!ENTITY smiley3Cmd.label "Făcând cu ochiul">
+<!ENTITY smiley3Cmd.accesskey "F">
 <!ENTITY smiley3Cmd.tooltip "Inserează o figură care face cu ochiul">
 <!ENTITY smiley4Cmd.label "Cu limba scoasă">
 <!ENTITY smiley4Cmd.accesskey "l">
@@ -79,18 +83,18 @@
 <!ENTITY smiley10Cmd.label "Țipând">
 <!ENTITY smiley10Cmd.accesskey "d">
 <!ENTITY smiley10Cmd.tooltip "Inserează o figură care țipă">
-<!ENTITY smiley11Cmd.label "Rece">
+<!ENTITY smiley11Cmd.label "Șmecher">
 <!ENTITY smiley11Cmd.accesskey "c">
 <!ENTITY smiley11Cmd.tooltip "Inserează o figură șmecheră">
-<!ENTITY smiley12Cmd.label "Gură aurită">
+<!ENTITY smiley12Cmd.label "Cu banul în gură">
 <!ENTITY smiley12Cmd.accesskey "a">
 <!ENTITY smiley12Cmd.tooltip "Inserează o figură cu gura în formă de dolar
   ">
-<!ENTITY smiley13Cmd.label "Ar trebui să taci">
-<!ENTITY smiley13Cmd.accesskey "A">
+<!ENTITY smiley13Cmd.label "Cu piciorul în gură">
+<!ENTITY smiley13Cmd.accesskey "g">
 <!ENTITY smiley13Cmd.tooltip "Inserează o figură distrusă">
-<!ENTITY smiley14Cmd.label "Nevinovat">
-<!ENTITY smiley14Cmd.accesskey "i">
+<!ENTITY smiley14Cmd.label "Inocent">
+<!ENTITY smiley14Cmd.accesskey "I">
 <!ENTITY smiley14Cmd.tooltip "Inserează o figură inocentă">
 <!ENTITY smiley15Cmd.label "Plângând">
 <!ENTITY smiley15Cmd.accesskey "g">
@@ -98,6 +102,6 @@
 <!ENTITY smiley16Cmd.label "Cu buzele pecetluite">
 <!ENTITY smiley16Cmd.accesskey "b">
 <!ENTITY smiley16Cmd.tooltip "Inserează o figură cu buzele pecetluite">
-<!ENTITY SmileButton.tooltip "Insert a smiley face">
+<!ENTITY SmileButton.tooltip "Inserează o figură zâmbitoare">
 
 

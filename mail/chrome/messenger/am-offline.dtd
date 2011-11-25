@@ -2,7 +2,12 @@
 # Translator(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
-# Laudatti <Laudatti@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
 #
 -->
 <!ENTITY doNotDownloadPop3Movemail.label "Pentru a economisi spațiul pe disc, nu descărca:">
@@ -17,7 +22,7 @@
 <!ENTITY kb.label "KO">
 <!ENTITY daysOld.label "zile">
 <!ENTITY message.label "mesaje">
-<!ENTITY nntpNotDownloadRead.label "Citește corespondența">
+<!ENTITY nntpNotDownloadRead.label "Mesaje citite">
 <!ENTITY nntpNotDownloadRead.accesskey "c">
 <!ENTITY nntpDownloadMsg.label "Mesaje mai vechi de">
 <!ENTITY nntpDownloadMsg.accesskey "e">
@@ -26,7 +31,7 @@
 <!ENTITY retentionCleanupPop.label "Pentru a câștiga spațiu pe disc, mesajele vechi pot fi șterse pentru totdeauna, inclusiv originalele de pe server.">
 <!ENTITY retentionKeepMsg.label "Șterge mesajele mai vechi de">
 <!ENTITY retentionKeepMsg.accesskey "g">
-<!ENTITY retentionKeepAll.label "Nu șterge niciun mesaj">
+<!ENTITY retentionKeepAll.label "Nu șterge nici un mesaj">
 <!ENTITY retentionKeepAll.accesskey "N">
 <!ENTITY retentionKeepRecent.label "Șterge tot cu excepția celor mai recente">
 <!ENTITY retentionKeepRecent.accesskey "t">
@@ -38,8 +43,8 @@
 <!ENTITY nntpRemoveMsgBody.accesskey "o">
 <!ENTITY offlineSelectNntp.label "Alegeți grupurile de news pentru utilizare în mod deconectat…">
 <!ENTITY offlineSelectNntp.accesskey "A">
-<!ENTITY offlineImapAdvancedOffline.label "Fonturi…">
-<!ENTITY offlineImapAdvancedOffline.accesskey "F">
+<!ENTITY offlineImapAdvancedOffline.label "Avansat…">
+<!ENTITY offlineImapAdvancedOffline.accesskey "A">
 <!ENTITY syncGroupTitle.label "Sincronizare mesaje">
 <!ENTITY diskspaceGroupTitle.label "Spațiu pe disc">
 

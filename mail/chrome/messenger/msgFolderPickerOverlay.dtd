@@ -1,3 +1,9 @@
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
 
@@ -36,6 +42,6 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Labels -->
-<!ENTITY newfolderchoosethis.label      "choose this for the parent">
+<!ENTITY newfolderchoosethis.label      "alege acesta ca părinte">
 <!ENTITY filemessageschoosethis.label   "alege acest dosar">
 

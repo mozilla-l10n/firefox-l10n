@@ -51,7 +51,7 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY newDirectoryTitle.label           "Proprietăți server LDAP">
-<!ENTITY directoryName.label               "Nume: ">
+<!ENTITY directoryName.label               "Nume:">
 <!ENTITY directoryName.accesskey           "N">
 <!ENTITY directoryHostname.label           "Nume host:">
 <!ENTITY directoryHostname.accesskey       "h">
@@ -63,9 +63,9 @@
 <!ENTITY directorySecure.accesskey         "u">
 <!ENTITY directoryLogin.label              "Bind DN: ">
 <!ENTITY directoryLogin.accesskey          "i">
-<!ENTITY General.tab                       "General">
+<!ENTITY General.tab                       "Generalități">
 <!ENTITY Offline.tab                       "Offline">
-<!ENTITY Advanced.tab                      "Advanced">
+<!ENTITY Advanced.tab                      "Avansat">
 <!ENTITY portNumber.label                  "Număr port:">
 <!ENTITY portNumber.accesskey              "p">
 <!ENTITY searchFilter.label                "Filtru căutare:">

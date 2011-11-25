@@ -14,7 +14,7 @@
 <!ENTITY editContactPanelDeleteContact.label "Șterge">
 <!ENTITY editContactPanelDeleteContact.accesskey "t">
 
-<!ENTITY editContactName.label "Numele:">
+<!ENTITY editContactName.label "Nume:">
 <!ENTITY editContactName.accesskey "N">
 
 <!ENTITY editContactEmail.label "Email:">
@@ -27,7 +27,7 @@
 <!ENTITY editContactPanelCancel.accesskey "R">
 
 <!ENTITY editContactPanelDone.label "Gata">
-<!ENTITY editContactPanelDone.accesskey "g">
+<!ENTITY editContactPanelDone.accesskey "G">
 
 <!ENTITY contactMoveDisabledWarning.description "Nu puteți schimba agenda de contacte fiindcă contactul e într-o listă de discuții prin email.">
 

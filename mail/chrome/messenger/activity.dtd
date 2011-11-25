@@ -24,10 +24,10 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.pause.accesskey              "P">
 <!ENTITY cmd.resume.label                 "Continuă">
 <!ENTITY cmd.resume.accesskey             "C">
-<!ENTITY cmd.cancel.label                 "Renunță">
-<!ENTITY cmd.cancel.accesskey             "R">
-<!ENTITY cmd.undo.label                   "Anulează">
-<!ENTITY cmd.undo.accesskey               "n">
+<!ENTITY cmd.cancel.label                 "Anulează">
+<!ENTITY cmd.cancel.accesskey             "A">
+<!ENTITY cmd.undo.label                   "Desfă">
+<!ENTITY cmd.undo.accesskey               "D">
 <!ENTITY cmd.recover.label                "Recuperează">
 <!ENTITY cmd.recover.accesskey            "R">
 <!ENTITY cmd.retry.label                  "Încearcă din nou">
@@ -38,7 +38,7 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.close.commandkey             "w">
 <!ENTITY cmd.close2.commandkey            "j">
 <!ENTITY cmd.close2Unix.commandkey        "y">
-<!ENTITY cmd.clearList.label              "Curățați lista">
+<!ENTITY cmd.clearList.label              "Curăță lista">
 <!ENTITY cmd.clearList.tooltip            "Elimină din listă elementele completate, anulate și cele eșuate">
 <!ENTITY cmd.clearList.accesskey          "C">
 <!ENTITY cmd.find.commandkey              "f">

@@ -3,7 +3,6 @@
 #
 # Laudatti <Laudatti@gmail.com>
 # Alexandru Szasz <alexxed@gmail.com>
-# https://www.google.com/accounts/o8/id?id=AItOawlnUhqAust-7hqM7HhylXGcKyQHz7bLFkw <https://www.google.com/accounts/o8/id?id=AItOawlnUhqAust-7hqM7HhylXGcKyQHz7bLFkw>
 #
 -->
 <!--
@@ -50,22 +49,22 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Verificați ortografie">
+<!ENTITY windowTitle.label "Verificare ortografică">
 
 <!ENTITY misspelledWord.label "Cuvânt greșit:">
 <!ENTITY wordEditField.label "Înlocuiește cu:">
 <!ENTITY wordEditField.accessKey "c">
-<!ENTITY checkwordButton.label "Verifică cuvântul">
+<!ENTITY checkwordButton.label "Verifică cuvânt">
 <!ENTITY checkwordButton.accessKey "v">
 <!ENTITY suggestions.label "Sugestii:">
 <!ENTITY suggestions.accessKey "U">
 <!ENTITY ignoreButton.label "Ignoră">
 <!ENTITY ignoreButton.accessKey "I">
-<!ENTITY ignoreAllButton.label "Ignoră tot">
+<!ENTITY ignoreAllButton.label "Ignoră toate">
 <!ENTITY ignoreAllButton.accessKey "N">
 <!ENTITY replaceButton.label "Înlocuiește">
 <!ENTITY replaceButton.accessKey "L">
-<!ENTITY replaceAllButton.label "Înlocuiește tot">
+<!ENTITY replaceAllButton.label "Înlocuiește toate">
 <!ENTITY replaceAllButton.accessKey "O">
 <!ENTITY stopButton.label "Oprește">
 <!ENTITY stopButton.accessKey "T">

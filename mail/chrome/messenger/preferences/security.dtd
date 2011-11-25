@@ -7,6 +7,12 @@
 # Laudatti <Laudatti@gmail.com>
 #
 -->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY itemJunk.label          "Nesolicitat">
 <!ENTITY itemPhishing.label      "Înșelătorii prin email">
 <!ENTITY itemPasswords.label     "Parole">
@@ -14,7 +20,7 @@
 <!ENTITY itemCookies.label       "Conținut web">
 
 <!-- Junk Mail Controls -->
-<!ENTITY junkMail.intro "Alegeți setările implicite pentru mesajele spam. Se pot alege și setări specifice fiecărui cont din setările contului.">
+<!ENTITY junkMail.intro "Alegeți setările implicite pentru mesajele nesolicitate. Se pot alege și setări specifice fiecărui cont din setările contului.">
 <!ENTITY manualMark.label "Când marchez mesaje ca nesolicitate:">
 <!ENTITY manualMark.accesskey "C">
 <!ENTITY manualMarkModeMove.label "Mută-le în dosarul cu mesaje nesolicitate al contului">

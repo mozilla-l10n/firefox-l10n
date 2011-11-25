@@ -60,7 +60,7 @@
 <!ENTITY locationEditField.label "Locație imagine:">
 <!ENTITY locationEditField.accessKey "L">
 <!ENTITY locationEditField.tooltip "Tastați numele fișierului sau locația imaginii">
-<!ENTITY title.label "Text ajutător:">
+<!ENTITY title.label "Indiciu:">
 <!ENTITY title.accessKey "T">
 <!ENTITY title.tooltip "Atributul HTML 'title', care se afișează ca indicație rapidă (tooltip)">
 <!ENTITY altText.label "Text alternativ:">
@@ -115,12 +115,12 @@
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "Afișează cu bordură imaginea cu legături">
 <!ENTITY showImageLinkBorder.accessKey "A">
-<!ENTITY LinkAdvancedEditButton.label "Link Advanced Edit…">
-<!ENTITY LinkAdvancedEditButton.accessKey "L">
-<!ENTITY LinkAdvancedEditButton.tooltip "Add or modify HTML attributes, style attributes, and JavaScript">
+<!ENTITY LinkAdvancedEditButton.label "Editare avansată a legăturii…">
+<!ENTITY LinkAdvancedEditButton.accessKey "l">
+<!ENTITY LinkAdvancedEditButton.tooltip "Adăugați sau modificați atribute HTML, stiluri, precum și cod JavaScript">
 
 <!-- These tabs are currently used in the image input dialog -->
-<!ENTITY imageInputTab.label "Formular ">
+<!ENTITY imageInputTab.label "formular">
 <!ENTITY imageLocationTab.label "Locație">
 <!ENTITY imageDimensionsTab.label "Dimensiuni">
 <!ENTITY imageAppearanceTab.label "Aspect">

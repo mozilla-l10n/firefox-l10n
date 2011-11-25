@@ -7,6 +7,12 @@
 # Laudatti <Laudatti@gmail.com>
 #
 -->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY messengerStartPage.label         "Pagina de pornire &brandShortName;">
 <!ENTITY enableStartPage.label            "Arată pagina de start în zona mesajelor la pornirea &brandShortName;">
 <!ENTITY enableStartPage.accesskey        "A">
@@ -23,10 +29,10 @@
 <!ENTITY playSound1.accesskey              "d">
 <!ENTITY showAnimatedAlert.label          "Afișează o alertă">
 <!ENTITY showAnimatedAlert.accesskey      "A">
-<!ENTITY customizeMailAlert.label         "Personalizare…">
+<!ENTITY customizeMailAlert.label         "Personalizează…">
 <!ENTITY customizeMailAlert.accesskey     "P">
 
-<!ENTITY play.label                       "Redare">
+<!ENTITY play.label                       "Redă">
 <!ENTITY play.accesskey                   "R">
 <!ENTITY systemsound.label                "Sunetul de sistem implicit pentru mesaj nou">
 <!ENTITY systemsoundMac.label             "Alertă sonoră a sistemului">
@@ -34,7 +40,7 @@
 <!ENTITY systemsound.accesskey            "S">
 <!ENTITY customsound.label                "Utilizează următorul fișier de sunet">
 <!ENTITY customsound.accesskey            "U">
-<!ENTITY browse.label                     "Răsfoiește...">
+<!ENTITY browse.label                     "Răsfoiește…">
 <!ENTITY browse.accesskey                 "R">
 
 <!ENTITY addonsMgr.label                  "Suplimente">

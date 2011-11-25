@@ -54,7 +54,7 @@
      include unread messages.
      -->
 <!ENTITY quickFilterBar.unread.label
-         "Necitit">
+         "Necitite">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.unread.tooltip):
      The tooltip for the filter button that causes us to filter results to only
@@ -215,7 +215,7 @@
      sender for the string.
      -->
 <!ENTITY quickFilterBar.textFilter.sender.label
-         "Expeditorul">
+         "Expeditor">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.recipients.label):
      The button label that toggles whether the text filter searches the message
@@ -229,7 +229,7 @@
      subject for the string.
      -->
 <!ENTITY quickFilterBar.textFilter.subject.label
-         "Subiectul">
+         "Subiect">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.body.label):
      The button label that toggles whether the text filter searches the message

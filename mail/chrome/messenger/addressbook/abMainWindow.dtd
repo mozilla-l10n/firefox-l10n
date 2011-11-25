@@ -7,8 +7,6 @@
 # nicubunu <nicubunu@gmail.com>
 # turcan <nicturcan@gmail.com>
 # Laudatti <Laudatti@gmail.com>
-# Sergiu Bivol <sbivol87@gmail.com>
-# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!--
@@ -23,7 +21,7 @@
 <!ENTITY fileMenu.label                                 "Fișier">
 <!ENTITY fileMenu.accesskey                             "F">
 <!ENTITY newMenu.label                                  "Creează">
-<!ENTITY newMenu.accesskey                              "A">
+<!ENTITY newMenu.accesskey                              "C">
 <!ENTITY newContact.label                               "Contact în agendă…">
 <!ENTITY newContact.accesskey                           "C">
 <!ENTITY newContact.key                                 "N">
@@ -33,20 +31,20 @@
 <!ENTITY newAddressBookCmd.accesskey                    "c">
 <!ENTITY newLDAPDirectoryCmd.label                      "un nou director LDAP…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "d">
-<!ENTITY newMessageCmd.label                            "Mesaj">
+<!ENTITY newMessageCmd.label                            "un mesaj nou">
 <!ENTITY newMessageCmd.key                              "M">
-<!ENTITY newMessageCmd.accesskey                        "M">
+<!ENTITY newMessageCmd.accesskey                        "m">
 <!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
 <!ENTITY osxAddressBook.label                           "Folosește agenda de contacte Mac OS X">
 <!ENTITY osxAddressBook.accesskey                       "o">
 <!ENTITY closeCmd.label                                 "Închide">
 <!ENTITY closeCmd.key                                   "w">
 <!ENTITY closeCmd.accesskey                             "h">
-<!ENTITY printSetupCmd.label                            "Aranjare în pagină...">
+<!ENTITY printSetupCmd.label                            "Aranjare în pagină…">
 <!ENTITY printSetupCmd.accesskey                        "j">
 <!ENTITY printPreviewContactCmd.label                   "Previzualizare tipărire contact">
 <!ENTITY printPreviewContactCmd.accesskey               "v">
-<!ENTITY printPreviewAddressBook.label                  "Previz. imprimare carte adrese">
+<!ENTITY printPreviewAddressBook.label                  "Previzualizează tipărirea agendei de contacte">
 <!ENTITY printPreviewAddressBook.accesskey              "P">
 <!ENTITY printContactCmd.label                          "Tipărește contactul…">
 <!ENTITY printContactCmd.accesskey                      "T">
@@ -57,21 +55,21 @@
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Editare">
 <!ENTITY editMenu.accesskey                             "E">
-<!ENTITY undoCmd.label                                  "Anulează">
+<!ENTITY undoCmd.label                                  "Desfă">
 <!ENTITY undoCmd.key                                    "Z">
-<!ENTITY undoCmd.accesskey                              "n">
-<!ENTITY redoCmd.label                                  "Refă">
+<!ENTITY undoCmd.accesskey                              "D">
+<!ENTITY redoCmd.label                                  "Restaurează">
 <!ENTITY redoCmd.key                                    "Y">
 <!ENTITY redoCmd.accesskey                              "R">
 <!ENTITY cutCmd.label                                   "Decupează">
 <!ENTITY cutCmd.key                                     "X">
-<!ENTITY cutCmd.accesskey                               "T">
-<!ENTITY copyCmd.label                                  "Copiați">
+<!ENTITY cutCmd.accesskey                               "D">
+<!ENTITY copyCmd.label                                  "Copiază">
 <!ENTITY copyCmd.key                                    "C">
 <!ENTITY copyCmd.accesskey                              "C">
 <!ENTITY pasteCmd.label                                 "Inserează">
 <!ENTITY pasteCmd.key                                   "v">
-<!ENTITY pasteCmd.accesskey                             "i">
+<!ENTITY pasteCmd.accesskey                             "I">
 <!ENTITY deleteCmd.label                                "Șterge">
 <!ENTITY deleteCmd.accesskey                            "t">
 <!ENTITY deleteAbCmd.label                              "Șterge agenda de contacte">
@@ -100,11 +98,11 @@
 <!ENTITY viewToolbarsMenu.accesskey                     "t"> 
 <!ENTITY menubarCmd.label                               "Bara cu meniul">
 <!ENTITY menubarCmd.accesskey                           "m">
-<!ENTITY showAbToolbarCmd.label                         "Bara Agendă">
-<!ENTITY showAbToolbarCmd.accesskey                     "B">
+<!ENTITY showAbToolbarCmd.label                         "Bara cu contacte">
+<!ENTITY showAbToolbarCmd.accesskey                     "o">
 <!ENTITY showTaskbarCmd.label                           "Bară de stare">
 <!ENTITY showTaskbarCmd.accesskey                       "s">
-<!ENTITY customizeToolbar.label                         "Personalizare…">
+<!ENTITY customizeToolbar.label                         "Personalizează…">
 <!ENTITY customizeToolbar.accesskey                     "P">
 <!ENTITY layoutMenu.label                               "Layout">
 <!ENTITY layoutMenu.accesskey                           "L">
@@ -128,14 +126,14 @@ because displayed names don't have the comma in between. -->
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label                                "Unelte">
 <!ENTITY tasksMenu.accesskey                            "t">
-<!ENTITY messengerCmd.label                             "Email și grupuri de discuții">
-<!ENTITY messengerCmd.accesskey                         "c">
+<!ENTITY messengerCmd.label                             "Corespondență și grupuri de discuții">
+<!ENTITY messengerCmd.accesskey                         "C">
 <!ENTITY messengerCmd.commandkey                        "1">
 <!ENTITY searchAddressesCmd.label                       "Caută adrese…">
 <!ENTITY searchAddressesCmd.accesskey                   "s">
-<!ENTITY importCmd.label                                "Importă…">
+<!ENTITY importCmd.label                                "Import...">
 <!ENTITY importCmd.accesskey                            "I">
-<!ENTITY exportCmd.label                                "Exportă...">
+<!ENTITY exportCmd.label                                "Export...">
 <!ENTITY exportCmd.accesskey                            "E">
 <!ENTITY preferencesCmd.label                           "Opțiuni…">
 <!ENTITY preferencesCmd.accesskey                       "O">
@@ -149,8 +147,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newlistButton.accesskey                        "L">
 <!ENTITY editButton2.label                              "Proprietăți">
 <!ENTITY editButton2.accesskey                          "P">
-<!ENTITY newmsgButton.label                             "Scriere">
-<!ENTITY newmsgButton.accesskey                         "S">
+<!ENTITY newmsgButton.label                             "Scrie mesaj">
+<!ENTITY newmsgButton.accesskey                         "m">
 <!ENTITY newIM.label                                    "Mesaj instantaneu">
 <!ENTITY newIM.accesskey                                "i">
 <!ENTITY deleteButton2.label                            "Șterge">
@@ -175,36 +173,36 @@ because displayed names don't have the comma in between. -->
 <!ENTITY searchItem.title "Căutare rapidă">
 
 <!-- Results Pane -->
-<!ENTITY GeneratedName.label                            "Denumire">
-<!ENTITY GeneratedName.accesskey                        "n">
+<!ENTITY GeneratedName.label                            "Nume">
+<!ENTITY GeneratedName.accesskey                        "N">
 <!ENTITY PrimaryEmail.label                             "Email">
 <!ENTITY PrimaryEmail.accesskey                         "E">
 <!ENTITY ScreenName.label                               "Numele pentru mesagerie">
 <!ENTITY ScreenName.accesskey                           "s">
 <!ENTITY Company.label                                  "Organizația">
 <!ENTITY Company.accesskey                              "z">
-<!ENTITY NickName.label                                 "Porecla">
-<!ENTITY NickName.accesskey                             "P">
-<!ENTITY SecondEmail.label                              "Altă adresă de email">
+<!ENTITY NickName.label                                 "Pseudonim">
+<!ENTITY NickName.accesskey                             "i">
+<!ENTITY SecondEmail.label                              "A doua adresă de email">
 <!ENTITY SecondEmail.accesskey                          "l">
 <!ENTITY Department.label                               "Departamentul">
 <!ENTITY Department.accesskey                           "r">
 <!ENTITY JobTitle.label                                 "Titlul">
 <!ENTITY JobTitle.accesskey                             "T">
-<!ENTITY CellularNumber.label                           "Telefon mobil">
-<!ENTITY CellularNumber.accesskey                       "m">
-<!ENTITY PagerNumber.label                              "Paginator">
-<!ENTITY PagerNumber.accesskey                          "P">
-<!ENTITY FaxNumber.label                                "Fax">
+<!ENTITY CellularNumber.label                           "Mobil">
+<!ENTITY CellularNumber.accesskey                       "M">
+<!ENTITY PagerNumber.label                              "Nr. de pager">
+<!ENTITY PagerNumber.accesskey                          "p">
+<!ENTITY FaxNumber.label                                "Nr. de fax">
 <!ENTITY FaxNumber.accesskey                            "f">
-<!ENTITY HomePhone.label                                "Telefonul acasă">
+<!ENTITY HomePhone.label                                "Telefon de acasă">
 <!ENTITY HomePhone.accesskey                            "T">
-<!ENTITY WorkPhone.label                                "Telefonul serviciu">
+<!ENTITY WorkPhone.label                                "Telefon de serviciu">
 <!ENTITY WorkPhone.accesskey                            "T">
-<!ENTITY sortAscending.label                            "Crescătoare">
+<!ENTITY sortAscending.label                            "Crescător">
 <!ENTITY sortAscending.accesskey                        "C">
-<!ENTITY sortDescending.label                           "În ordine descrescătoare">
-<!ENTITY sortDescending.accesskey                       "d">
+<!ENTITY sortDescending.label                           "Descrescător">
+<!ENTITY sortDescending.accesskey                       "D">
 <!ENTITY _PhoneticName.label                            "Phonetic Name">
 <!ENTITY _PhoneticName.accesskey                        "o">
 

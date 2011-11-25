@@ -1,8 +1,8 @@
 <!--
 # Translator(s):
 #
-# anonymous <anonymous@n.a>
 # rz <rz@r2dev.ro>
+# anonymous <anonymous@n.a>
 #
 -->
 <!--
@@ -50,8 +50,8 @@
    - ***** END LICENSE BLOCK ***** -->
    
 <!-- Labels -->
-<!ENTITY newFolderDialog.title      "Folder Nou">
-<!ENTITY name.label                 "Numele:">
+<!ENTITY newFolderDialog.title      "Dosar nou">
+<!ENTITY name.label                 "Nume:">
 <!ENTITY name.accesskey             "N">
 <!ENTITY description.label          "Creează ca dosar sub:">
 <!ENTITY description.accesskey      "C">

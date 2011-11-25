@@ -1,12 +1,7 @@
 <!--
-# Translator(s):
-#
-# secarica <orice@secarica.ro>
-#
--->
-<!--
 # Reviewer(s):
 #
+# Alexandru Szasz <alexxed@gmail.com>
 # raulmalea <raul.malea@gmail.com>
 #
 -->
@@ -48,19 +43,19 @@
 
 <!ENTITY windowTitle.label "Proprietăți formular">
 
-<!ENTITY Settings.label "Settings">
+<!ENTITY Settings.label "Setări">
 
-<!ENTITY FormName.label "Form Name:">
+<!ENTITY FormName.label "Nume formular:">
 <!ENTITY FormName.accesskey "N">
-<!ENTITY FormAction.label "Action URL:">
-<!ENTITY FormAction.accesskey "A">
-<!ENTITY FormMethod.label "Method:">
+<!ENTITY FormAction.label "URL acțiune:">
+<!ENTITY FormAction.accesskey "U">
+<!ENTITY FormMethod.label "Metodă:">
 <!ENTITY FormMethod.accesskey "M">
-<!ENTITY FormEncType.label "Encoding:">
-<!ENTITY FormEncType.accesskey "c">
-<!ENTITY FormTarget.label "Target Frame:">
-<!ENTITY FormTarget.accesskey "T">
+<!ENTITY FormEncType.label "Codare:">
+<!ENTITY FormEncType.accesskey "C">
+<!ENTITY FormTarget.label "Frame destinație:">
+<!ENTITY FormTarget.accesskey "F">
 
-<!ENTITY RemoveForm.label "Remove Form">
-<!ENTITY RemoveForm.accesskey "R">
+<!ENTITY RemoveForm.label "Elimină formular">
+<!ENTITY RemoveForm.accesskey "E">
 

@@ -50,10 +50,10 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label "Culori și fundal pagină">
 <!ENTITY pageColors.label "Culori pagină">
-<!ENTITY defaultColorsRadio.label "Culorile implicite ale cititorului (Fără culori în pagină)">
+<!ENTITY defaultColorsRadio.label "Culorile implicite ale cititorului (Nu seta nici o culoare)">
 <!ENTITY defaultColorsRadio.accessKey "C">
 <!ENTITY defaultColorsRadio.tooltip "Folosește setările de culoare din navigatorul celui care vede sau citește">
-<!ENTITY customColorsRadio.label "Folosește culori personalizate:">
+<!ENTITY customColorsRadio.label "Folosește culori personale:">
 <!ENTITY customColorsRadio.accessKey "P">
 <!ENTITY customColorsRadio.tooltip "Aceste culori se vor folosi în locul celor implicite din browserul cititorului">
 
@@ -68,7 +68,7 @@
 <!ENTITY background.label "Fundal:">
 <!ENTITY background.accessKey "F">
 <!ENTITY colon.character ":">
-<!ENTITY backgroundImage.label "Imagine de fundal:">
+<!ENTITY backgroundImage.label "Imagine fundal:">
 <!ENTITY backgroundImage.accessKey "i">
 <!ENTITY backgroundImage.tooltip "Folosește o imagine ca fundal pentru pagină">
 

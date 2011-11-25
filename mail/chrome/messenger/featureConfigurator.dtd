@@ -45,7 +45,7 @@
 <!ENTITY featureConfigurator.addOn.installing "Instalare...">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.addOn.installed): The text to display after the user installs the addon from the configurator. -->
-<!ENTITY featureConfigurator.addOn.installed "Instalate">
+<!ENTITY featureConfigurator.addOn.installed "Instalat">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.addOn.failure): The text to display when there is a problem installing the addon. -->
 <!ENTITY featureConfigurator.addOn.failure "Am întâmpinat o problemă la instalarea extensiei !">

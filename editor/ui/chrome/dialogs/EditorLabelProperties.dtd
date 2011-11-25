@@ -42,16 +42,16 @@
 
 <!ENTITY windowTitle.label "Proprietăți etichetă">
 
-<!ENTITY Settings.label "Settings">
+<!ENTITY Settings.label "Setări">
 <!ENTITY Settings.accesskey "S">
 
-<!ENTITY EditLabelText.label "Edit Text:">
-<!ENTITY EditLabelText.accesskey "T">
-<!ENTITY LabelFor.label "For Control:">
-<!ENTITY LabelFor.accesskey "F">
-<!ENTITY AccessKey.label "Access Key:">
-<!ENTITY AccessKey.accesskey "K">
+<!ENTITY EditLabelText.label "Editare text:">
+<!ENTITY EditLabelText.accesskey "t">
+<!ENTITY LabelFor.label "Pentru controlul:">
+<!ENTITY LabelFor.accesskey "c">
+<!ENTITY AccessKey.label "Tastă acces:">
+<!ENTITY AccessKey.accesskey "a">
 
-<!ENTITY RemoveLabel.label "Remove Label">
-<!ENTITY RemoveLabel.accesskey "R">
+<!ENTITY RemoveLabel.label "Elimină etichetă">
+<!ENTITY RemoveLabel.accesskey "E">
 

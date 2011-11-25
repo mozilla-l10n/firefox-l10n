@@ -12,20 +12,20 @@
 -->
 <!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
 
-<!ENTITY viewPicker.label "Vizualizare:">
+<!ENTITY viewPicker.label "Perspectivă:">
 <!ENTITY viewPicker.accesskey "i">
-<!ENTITY viewAll.label "Tot">
-<!ENTITY viewAll.accesskey "T">
-<!ENTITY viewUnread.label "Necitit">
+<!ENTITY viewAll.label "Toate">
+<!ENTITY viewAll.accesskey "a">
+<!ENTITY viewUnread.label "Necitite">
 <!ENTITY viewUnread.accesskey "N">
 <!ENTITY viewNotDeleted.label "Nu este șters">
 <!ENTITY viewNotDeleted.accesskey "N">
 <!ENTITY viewTags.label "Etichete">
-<!ENTITY viewTags.accesskey "T">
+<!ENTITY viewTags.accesskey "t">
 <!ENTITY viewCustomViews.label "Vederi personalizate">
 <!ENTITY viewCustomViews.accesskey "V">
 <!ENTITY viewVirtualFolder.label "Salvează vederea ca un dosar…">
 <!ENTITY viewVirtualFolder.accesskey "S">
-<!ENTITY viewCustomizeView.label "Personalizare…">
+<!ENTITY viewCustomizeView.label "Personalizează…">
 <!ENTITY viewCustomizeView.accesskey "P">
 

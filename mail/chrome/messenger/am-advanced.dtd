@@ -24,10 +24,10 @@
 <!ENTITY smtpListAdd.accesskey  "A">
 <!ENTITY smtpListEdit.label "Editează…">
 <!ENTITY smtpListEdit.accesskey "E">
-<!ENTITY smtpListDelete.label "Elimină">
-<!ENTITY smtpListDelete.accesskey "n">
-<!ENTITY smtpListSetDefault.label "Stabilește ca implicită">
-<!ENTITY smtpListSetDefault.accesskey "i">
+<!ENTITY smtpListDelete.label "Șterge">
+<!ENTITY smtpListDelete.accesskey "g">
+<!ENTITY smtpListSetDefault.label "Implicit">
+<!ENTITY smtpListSetDefault.accesskey "I">
 
 <!ENTITY serverDescription.label "Descriere:">
 <!ENTITY serverName.label "Nume server:">

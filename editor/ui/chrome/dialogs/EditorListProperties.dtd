@@ -45,7 +45,7 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label "Proprietăți listă">
 
-<!ENTITY ListType.label "List Type">
+<!ENTITY ListType.label "Tip listă">
 <!ENTITY bulletStyle.label "Stil buline:">
 <!ENTITY startingNumber.label "Începe de la:">
 <!ENTITY startingNumber.accessKey "N">

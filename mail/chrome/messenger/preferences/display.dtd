@@ -29,8 +29,8 @@
 <!ENTITY regularSize.label                "Normal">
 <!ENTITY bigger.label                     "Mai mare">
 <!ENTITY smaller.label                    "Mai mic">
-<!ENTITY color.label                      "Stabilire culori">
-<!ENTITY color.accesskey                  "c">
+<!ENTITY color.label                      "Culoare:">
+<!ENTITY color.accesskey                  "C">
 <!ENTITY displayWidth.label               "Mesaje text">
 <!ENTITY displayText.label                "Pentru afișarea mesajelor text citate:">
 <!ENTITY colors.label                     "Culori">
@@ -48,8 +48,8 @@
 <!ENTITY displayTagsText.label     "Etichetele pot fi folosite pentru a organiza mesajele dumneavoastră pe categorii și după priorități. ">
 <!ENTITY addTagButton.label        "Adaugă">
 <!ENTITY addTagButton.accesskey    "A">
-<!ENTITY editTagButton.label       "Editare">
-<!ENTITY editTagButton.accesskey   "E">
+<!ENTITY editTagButton.label       "Modifică">
+<!ENTITY editTagButton.accesskey   "M">
 <!ENTITY removeTagButton.label     "Șterge">
 <!ENTITY removeTagButton.accesskey "t">
 

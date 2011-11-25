@@ -57,17 +57,17 @@
 <!ENTITY replaceField.accesskey "n">
 <!ENTITY caseSensitiveCheckbox.label "Ține cont de majuscule">
 <!ENTITY caseSensitiveCheckbox.accesskey "c">
-<!ENTITY wrapCheckbox.label "Continuă căutarea de la început">
+<!ENTITY wrapCheckbox.label "Împrejur">
 <!ENTITY wrapCheckbox.accesskey "p">
-<!ENTITY backwardsCheckbox.label "Căutare în direcție opusă">
+<!ENTITY backwardsCheckbox.label "Caută înapoi">
 <!ENTITY backwardsCheckbox.accesskey "a">
-<!ENTITY findNextButton.label "Găsește Următor">
-<!ENTITY findNextButton.accesskey "G">
+<!ENTITY findNextButton.label "Caută următorul">
+<!ENTITY findNextButton.accesskey "C">
 <!ENTITY replaceButton.label "Înlocuiește">
 <!ENTITY replaceButton.accesskey "o">
 <!ENTITY replaceAndFindButton.label "Înlocuiește și caută">
 <!ENTITY replaceAndFindButton.accesskey "i">
-<!ENTITY replaceAllButton.label "Înlocuiește tot">
+<!ENTITY replaceAllButton.label "Înlocuiește toate">
 <!ENTITY replaceAllButton.accesskey "t">
 <!ENTITY closeButton.label "Închide">
 
