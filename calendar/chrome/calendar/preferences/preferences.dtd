@@ -39,15 +39,16 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY prefWindow.titleWin "Seçenekler">
-<!ENTITY prefWindow.titleGNOME "&brandShortName; Tercihleri">
-<!ENTITY prefWindow.styleWin "width: 47em; height: 37em;">
-<!ENTITY prefWindow.styleMac "width: 47em;">
-<!ENTITY prefWindow.styleGNOME "width: 47em; height: 34.5em;">
+<!ENTITY  prefWindow.titleWin     "Seçenekler">
+<!ENTITY  prefWindow.titleGNOME   "&brandShortName; Tercihleri">
+<!ENTITY  prefWindow.styleWin     "width: 47em; height: 37em;">
+<!ENTITY  prefWindow.styleMac     "width: 47em;">
+<!ENTITY  prefWindow.styleGNOME   "width: 47em; height: 34.5em;">
 
-<!ENTITY paneGeneral.title "Genel">
-<!ENTITY paneAlarms.title "Reminders">
-<!ENTITY paneCategories.title "Kategoriler">
-<!ENTITY paneViews.title "Görünüm">
-<!ENTITY paneTimezones.title "Zaman dilimi">
-<!ENTITY paneAdvanced.title "Gelişmiş">
+<!ENTITY  paneGeneral.title       "Genel">
+<!ENTITY  paneAlarms.title        "Hatırlatmalar">
+<!ENTITY  paneCategories.title    "Kategoriler">
+<!ENTITY  paneViews.title         "Görünüm">
+<!ENTITY  paneTimezones.title     "Zaman dilimi">
+<!ENTITY  paneAdvanced.title      "Gelişmiş">
+

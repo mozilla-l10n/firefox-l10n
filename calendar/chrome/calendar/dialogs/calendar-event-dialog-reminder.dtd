@@ -34,21 +34,22 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY reminderdialog.title "Uyarıları ayarla">
-<!ENTITY reminder.add.label "Ekle">
-<!ENTITY reminder.add.accesskey "E">
-<!ENTITY reminder.remove.label "Kaldır">
-<!ENTITY reminder.remove.accesskey "r">
+<!ENTITY reminderdialog.title                              "Uyarıları ayarla">
+<!ENTITY reminder.add.label                                "Ekle">
+<!ENTITY reminder.add.accesskey                            "E">
+<!ENTITY reminder.remove.label                             "Kaldır">
+<!ENTITY reminder.remove.accesskey                         "r">
 
-<!ENTITY reminder.reminderDetails.label "Uyarı bilgileri">
-<!ENTITY reminder.action.label "Uyarı eylemi seç">
+<!ENTITY reminder.reminderDetails.label                    "Uyarı bilgileri">
+<!ENTITY reminder.action.label                             "Uyarı eylemi seç">
 
-<!ENTITY reminder.relation.before.label "before">
-<!ENTITY reminder.relation.after.label "after">
+<!ENTITY reminder.relation.before.label                    "önce" >
+<!ENTITY reminder.relation.after.label                     "sonra" >
 
-<!ENTITY reminder.action.alert.label "Beni uyar">
-<!ENTITY reminder.action.email.label "E-posta gönder">
+<!ENTITY reminder.action.alert.label                       "Beni uyar">
+<!ENTITY reminder.action.email.label                       "E-posta gönder">
 
-<!ENTITY alarm.units.minutes "minutes">
-<!ENTITY alarm.units.hours "hours">
-<!ENTITY alarm.units.days "days">
+<!ENTITY alarm.units.minutes                               "dakika" >
+<!ENTITY alarm.units.hours                                 "saat" >
+<!ENTITY alarm.units.days                                  "gün" >
+

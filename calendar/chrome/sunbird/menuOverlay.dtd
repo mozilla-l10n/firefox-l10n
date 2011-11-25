@@ -42,144 +42,145 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY calendar.open.file.label "Takvim dosyasını aç…">
-<!ENTITY calendar.open.file.key "O">
-<!ENTITY calendar.open.file.accesskey "T">
+<!ENTITY calendar.open.file.label                          "Takvim dosyasını aç…">
+<!ENTITY calendar.open.file.key                            "O">
+<!ENTITY calendar.open.file.accesskey                      "T">
 
-<!ENTITY event.edit.event "Seçimi düzenle…">
-<!ENTITY event.edit.event.key "E">
-<!ENTITY event.edit.event.accesskey "e">
+<!ENTITY event.edit.event                                  "Seçimi düzenle…">
+<!ENTITY event.edit.event.key                              "E">
+<!ENTITY event.edit.event.accesskey                        "e">
 
-<!ENTITY event.delete.event "Seçilmiş etkinlikleri sil">
-<!ENTITY event.delete.event.accesskey "S">
+<!ENTITY event.delete.event                                "Seçilmiş etkinlikleri sil">
+<!ENTITY event.delete.event.accesskey                      "S">
 
-<!ENTITY event.delete.tasks "Seçilmiş görevleri sil">
-<!ENTITY event.delete.tasks.accesskey "g">
+<!ENTITY event.delete.tasks                                "Seçilmiş görevleri sil">
+<!ENTITY event.delete.tasks.accesskey                      "g">
 
-<!ENTITY calendar.pagesetup.label "Sayfa düzeni…">
-<!ENTITY calendar.pagesetup.accesskey "a">
+<!ENTITY calendar.pagesetup.label                          "Sayfa düzeni…">
+<!ENTITY calendar.pagesetup.accesskey                      "a">
 
-<!ENTITY calendar.subscribe.label "Uzaktaki takvime aboneabone ol…">
-<!ENTITY calendar.subscribe.accesskey "U">
+<!ENTITY calendar.subscribe.label                          "Uzaktaki takvime aboneabone ol…">
+<!ENTITY calendar.subscribe.accesskey                      "U">
 
-<!ENTITY calendar.reloadserver.label "Uzaktaki takvimleri tazele">
-<!ENTITY calendar.reloadserver.key "R">
-<!ENTITY calendar.reloadserver.accesskey "e">
+<!ENTITY calendar.reloadserver.label                       "Uzaktaki takvimleri tazele">
+<!ENTITY calendar.reloadserver.key                         "R">
+<!ENTITY calendar.reloadserver.accesskey                   "e">
 
-<!ENTITY calendar.publish.calendar.label "Takvimi yayınla…">
-<!ENTITY calendar.publish.calendar.accesskey "T">
-<!ENTITY calendar.publish.selection.label "Seçimi yayınla…">
-<!ENTITY calendar.publish.selection.accesskey "m">
+<!ENTITY calendar.publish.calendar.label                   "Takvimi yayınla…">
+<!ENTITY calendar.publish.calendar.accesskey               "T">
+<!ENTITY calendar.publish.selection.label                  "Seçimi yayınla…">
+<!ENTITY calendar.publish.selection.accesskey              "m">
 
-<!ENTITY calendar.quit.label "Çık">
-<!ENTITY calendar.quit.accesskey "k">
-<!ENTITY calendar.quit.key "Q">
-<!ENTITY calendar.quit.label.mac "&brandShortName; uygulamasından çık">
+<!ENTITY calendar.quit.label                               "Çık">
+<!ENTITY calendar.quit.accesskey                           "k">
+<!ENTITY calendar.quit.key                                 "Q">
+<!ENTITY calendar.quit.label.mac                           "&brandShortName; uygulamasından çık">
 
-<!ENTITY calendar.exit.label "Çık">
-<!ENTITY calendar.exit.accesskey "k">
+<!ENTITY calendar.exit.label                               "Çık">
+<!ENTITY calendar.exit.accesskey                           "k">
 
-<!ENTITY calendar.undo.label "Geri al">
-<!ENTITY calendar.undo.key "z">
-<!ENTITY calendar.undo.accesskey "G">
+<!ENTITY calendar.undo.label                               "Geri al">
+<!ENTITY calendar.undo.key                                 "z">
+<!ENTITY calendar.undo.accesskey                           "G">
 
-<!ENTITY calendar.redo.label "Yinele">
-<!ENTITY calendar.redo.key "Y">
-<!ENTITY calendar.redo.accesskey "Y">
+<!ENTITY calendar.redo.label                               "Yinele">
+<!ENTITY calendar.redo.key                                 "Y">
+<!ENTITY calendar.redo.accesskey                           "Y">
 
-<!ENTITY calendar.cut.label "Kes">
-<!ENTITY calendar.cut.key "X">
-<!ENTITY calendar.cut.accesskey "K">
+<!ENTITY calendar.cut.label                                "Kes">
+<!ENTITY calendar.cut.key                                  "X">
+<!ENTITY calendar.cut.accesskey                            "K">
 
-<!ENTITY calendar.copy.label "Kopyala">
-<!ENTITY calendar.copy.key "C">
-<!ENTITY calendar.copy.accesskey "K">
+<!ENTITY calendar.copy.label                               "Kopyala">
+<!ENTITY calendar.copy.key                                 "C">
+<!ENTITY calendar.copy.accesskey                           "K">
 
-<!ENTITY calendar.paste.label "Yapıştır">
-<!ENTITY calendar.paste.key "V">
-<!ENTITY calendar.paste.accesskey "p">
+<!ENTITY calendar.paste.label                              "Yapıştır">
+<!ENTITY calendar.paste.key                                "V">
+<!ENTITY calendar.paste.accesskey                          "p">
 
-<!ENTITY calendar.selectall.label "Tümünü seç">
-<!ENTITY calendar.selectall.key "A">
-<!ENTITY calendar.selectall.accesskey "e">
+<!ENTITY calendar.selectall.label                          "Tümünü seç">
+<!ENTITY calendar.selectall.key                            "A">
+<!ENTITY calendar.selectall.accesskey                      "e">
 
-<!ENTITY toolbarsMenu.label "Araç çubukları">
-<!ENTITY toolbarsMenu.accesskey "A">
+<!ENTITY toolbarsMenu.label                                "Araç çubukları">
+<!ENTITY toolbarsMenu.accesskey                            "A">
 
-<!ENTITY showStatusBarCmd.label "Durum çubuğu">
-<!ENTITY showStatusBarCmd.accesskey "D">
+<!ENTITY showStatusBarCmd.label                            "Durum çubuğu">
+<!ENTITY showStatusBarCmd.accesskey                        "D">
 
-<!ENTITY showTaskBoxCmd.label "Görev listesi">
-<!ENTITY showTaskBoxCmd.accesskey "l">
+<!ENTITY showTaskBoxCmd.label                              "Görev listesi">
+<!ENTITY showTaskBoxCmd.accesskey                          "l">
 
-<!ENTITY calendar.fullscreen.label "Tam ekran">
-<!ENTITY calendar.fullscreen.accesskey "T">
+<!ENTITY calendar.fullscreen.label                         "Tam ekran">
+<!ENTITY calendar.fullscreen.accesskey                     "T">
 
-<!ENTITY calendar.addons.label "Eklentiler">
-<!ENTITY calendar.addons.accesskey "k">
+<!ENTITY calendar.addons.label                             "Eklentiler">
+<!ENTITY calendar.addons.accesskey                         "k">
 
-<!ENTITY goMenu.label "Git">
-<!ENTITY goMenu.accesskey "G">
+<!ENTITY goMenu.label                                      "Git">
+<!ENTITY goMenu.accesskey                                  "G">
 
-<!ENTITY goDateCmd.label "Tarih…">
-<!ENTITY goDateCmd.accesskey "T">
+<!ENTITY goDateCmd.label                                   "Tarih…">
+<!ENTITY goDateCmd.accesskey                               "T">
 
-<!ENTITY toolsMenu.label "Araçlar">
-<!ENTITY toolsMenu.accesskey "A">
+<!ENTITY toolsMenu.label                                   "Araçlar">
+<!ENTITY toolsMenu.accesskey                               "A">
 
-<!ENTITY errorConsoleCmd.label "Hata konsolu">
-<!ENTITY errorConsoleCmd.accesskey "k">
+<!ENTITY errorConsoleCmd.label                             "Hata konsolu">
+<!ENTITY errorConsoleCmd.accesskey                         "k">
 
-<!ENTITY helpMenu.label "Yardım">
-<!ENTITY helpMenu.accesskey "Y">
+<!ENTITY helpMenu.label                                    "Yardım">
+<!ENTITY helpMenu.accesskey                                "Y">
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
            for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label "Yardım">
-<!ENTITY helpMenuWin.accesskey "Y">
+<!ENTITY helpMenuWin.label                                 "Yardım">
+<!ENTITY helpMenuWin.accesskey                             "Y">
 
-<!ENTITY fileMenu.label "Dosya">
-<!ENTITY fileMenu.accesskey "D">
+<!ENTITY fileMenu.label                                    "Dosya">
+<!ENTITY fileMenu.accesskey                                "D">
 
-<!ENTITY editMenu.label "Düzenle">
-<!ENTITY editMenu.accesskey "e">
+<!ENTITY editMenu.label                                    "Düzenle">
+<!ENTITY editMenu.accesskey                                "e">
 
-<!ENTITY optionsCmd.label "Seçenekler…">
-<!ENTITY optionsCmd.accesskey "e">
+<!ENTITY optionsCmd.label                                  "Seçenekler…">
+<!ENTITY optionsCmd.accesskey                              "e">
 
-<!ENTITY preferencesCmd.label "Tercihler">
-<!ENTITY preferencesCmd.accesskey "c">
-<!ENTITY preferencesCmdMac.label "Tercihler…">
-<!ENTITY preferencesCmdMac.commandkey ",">
-<!ENTITY preferencesCmdMac.modifiers "accel">
+<!ENTITY preferencesCmd.label                              "Tercihler">
+<!ENTITY preferencesCmd.accesskey                          "c">
+<!ENTITY preferencesCmdMac.label                           "Tercihler…">
+<!ENTITY preferencesCmdMac.commandkey                      ",">
+<!ENTITY preferencesCmdMac.modifiers                       "accel">
 
-<!ENTITY viewMenu.label "Görünüm">
-<!ENTITY viewMenu.accesskey "G">
+<!ENTITY viewMenu.label                                    "Görünüm">
+<!ENTITY viewMenu.accesskey                                "G">
 
-<!ENTITY releaseCmd.label "Sürüm notları">
-<!ENTITY releaseCmd.accesskey "S">
+<!ENTITY releaseCmd.label                                  "Sürüm notları">
+<!ENTITY releaseCmd.accesskey                              "S">
 
-<!ENTITY aboutCmd.label "&brandFullName; hakkında">
-<!ENTITY aboutCmd.accesskey "h">
+<!ENTITY aboutCmd.label                                    "&brandFullName; hakkında">
+<!ENTITY aboutCmd.accesskey                                "h">
 
-<!ENTITY updateCmd.label "Güncellemeleri bak…">
-<!ENTITY updateCmd.accesskey "b">
+<!ENTITY updateCmd.label                                   "Güncellemeleri bak…">
+<!ENTITY updateCmd.accesskey                               "b">
 
-<!ENTITY sunbird.export.calendar.label "Takvimi dışa aktar…">
-<!ENTITY sunbird.export.calendar.accesskey "a">
+<!ENTITY sunbird.export.calendar.label                     "Takvimi dışa aktar…">
+<!ENTITY sunbird.export.calendar.accesskey                 "a">
+
 <!-- Mac OS X "Window" menu items -->
+<!ENTITY windowMenu.label                                  "Pencere">
+<!ENTITY minimizeWindow.label                              "Küçült">
+<!ENTITY zoomWindow.label                                  "Yakınlaştırma">
+<!ENTITY minimizeWindow.key                                "K">
+<!ENTITY bringAllToFront.label                             "Hepsini ön plana al">
 
-<!ENTITY windowMenu.label "Window">
-<!ENTITY minimizeWindow.label "Minimize">
-<!ENTITY zoomWindow.label "Zoom">
-<!ENTITY minimizeWindow.key "M">
-<!ENTITY bringAllToFront.label "Hepsini ön plana al">
 <!-- Mac OS X Application menu items -->
+<!ENTITY servicesMenuMac.label                             "Hizmetler">
+<!ENTITY hideThisAppCmdMac.label                           "&brandShortName; uygulamasını gizle">
+<!ENTITY hideThisAppCmdMac.commandkey                      "H">
+<!ENTITY hideThisAppCmdMac.modifiers                       "accel">
+<!ENTITY hideOtherAppsCmdMac.label                         "Diğerlerini gizle">
+<!ENTITY hideOtherAppsCmdMac.commandkey                    "H">
+<!ENTITY hideOtherAppsCmdMac.modifiers                     "accel,alt">
+<!ENTITY showAllAppsCmdMac.label                           "Tümünü göster">
 
-<!ENTITY servicesMenuMac.label "Hizmetler">
-<!ENTITY hideThisAppCmdMac.label "&brandShortName; uygulamasını gizle">
-<!ENTITY hideThisAppCmdMac.commandkey "H">
-<!ENTITY hideThisAppCmdMac.modifiers "accel">
-<!ENTITY hideOtherAppsCmdMac.label "Diğerlerini gizle">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
-<!ENTITY showAllAppsCmdMac.label "Tümünü göster">

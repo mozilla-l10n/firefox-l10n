@@ -35,35 +35,37 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!-- WARNING! This file contains UTF-8 encoded characters!
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
-
-<!ENTITY pref.alarmgoesoff.label "When a Reminder is Due:">
+<!ENTITY pref.alarmgoesoff.label "Hatırlatma zamanı geldiğinde:">
 <!ENTITY pref.playasound "Ses dosyası çal">
-<!ENTITY pref.calendar.alarms.playsound.accessKey "s">
+<!ENTITY pref.calendar.alarms.playsound.accessKey "S">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "Varsayılan ses dosyasını kullan">
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "d">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Gözat…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "G">
 <!ENTITY pref.calendar.alarms.sound.preview.label "Önizleme">
 <!ENTITY pref.calendar.alarms.sound.preview.accessKey "z">
-<!ENTITY pref.showalarmbox "Show the reminder dialog">
+<!ENTITY pref.showalarmbox "Hatırlatma penceresini göster">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "m">
-<!ENTITY pref.missedalarms "Show missed reminders">
+<!ENTITY pref.missedalarms "Kaçırılan hatırlatmaları göster">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "m">
-<!ENTITY pref.calendar.alarms.defaults.label "Reminder Defaults">
-<!ENTITY pref.defalarm4events.label "Default reminder setting for events:">
-<!ENTITY pref.defalarm4events.accesskey "e">
-<!ENTITY pref.defalarm4todos.label "Default reminder setting for tasks:">
-<!ENTITY pref.defalarm4todos.accesskey "a">
+<!ENTITY pref.calendar.alarms.defaults.label "Hatırlatma varsayılanları">
+<!ENTITY pref.defalarm4events.label "Etkinlikler için varsayılan hatırlatma ayarı:">
+<!ENTITY pref.defalarm4events.accesskey "v">
+<!ENTITY pref.defalarm4todos.label "Görevler için varsayılan hatırlatma ayarı:">
+<!ENTITY pref.defalarm4todos.accesskey "s">
 <!ENTITY pref.alarm.on "Açık">
 <!ENTITY pref.alarm.off "Kapalı">
-<!ENTITY pref.defalarmlen4events.label "Default time a reminder is set before an event:">
-<!ENTITY pref.defalarmlen4events.accesskey "u">
-<!ENTITY pref.defalarmlen4todos.label "Default time a reminder is set before a task:">
-<!ENTITY pref.defalarmlen4todos.accesskey "o">
-<!ENTITY pref.defaultemail.label "Default address to send reminders to:">
-<!ENTITY pref.defaulttext.label "Default text for reminders :">
+<!ENTITY pref.defalarmlen4events.label "Etkinlikten önce hatırlatmanın kurulacağı varsayılan süre: 
+">
+<!ENTITY pref.defalarmlen4events.accesskey "y">
+<!ENTITY pref.defalarmlen4todos.label "Görevden önce hatırlatmanın kurulacağı varsayılan süre:">
+<!ENTITY pref.defalarmlen4todos.accesskey "n">
+<!ENTITY pref.defaultemail.label "Hatırlatmaların gönderileceği varsayılan adres:">
+<!ENTITY pref.defaulttext.label "Hatırlatmalar için varsayılan metin:">
+

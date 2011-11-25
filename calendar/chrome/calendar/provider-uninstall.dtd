@@ -34,11 +34,12 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY providerUninstall.title "Uninstall a Provider">
-<!ENTITY providerUninstall.accept.label "Unsubscribe Selected">
-<!ENTITY providerUninstall.accept.accesskey "U">
-<!ENTITY providerUninstall.cancel.label "Keep Addon">
-<!ENTITY providerUninstall.cancel.accesskey "K">
-<!ENTITY providerUninstall.preName.label "You have requested to uninstall or disable:">
-<!ENTITY providerUninstall.postName.label "This will cause the calendars below to be disabled.">
-<!ENTITY providerUninstall.reinstallNote.label "Unless you are planning to reinstall this provider, you may choose to unsubscribe from this provider's calendars.">
+<!ENTITY providerUninstall.title                           "Sağlayıcı kaldır">
+<!ENTITY providerUninstall.accept.label                    "Seçilenlerin aboneliğinden ayrıl">
+<!ENTITY providerUninstall.accept.accesskey                "b">
+<!ENTITY providerUninstall.cancel.label                    "Eklentiyi tut">
+<!ENTITY providerUninstall.cancel.accesskey                "t">
+<!ENTITY providerUninstall.preName.label                   "Şunları kaldırmayı veya devre dışı bırakmayı talep ettiniz:">
+<!ENTITY providerUninstall.postName.label                  "Bu işlem, aşağıda takvimleri devre dışı bıracaktır.">
+<!ENTITY providerUninstall.reinstallNote.label             "Bu sağlayıcıyı yeniden yüklemeyi planlamıyorsanız, sağlayıcının takvimlerinden ayrılmayı tercih edebilirsiniz.">
+

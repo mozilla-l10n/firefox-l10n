@@ -39,10 +39,11 @@
 <!ENTITY gdata.privacy.default.label "Google öntanımlı">
 <!ENTITY gdata.privacy.default.accesskey "G">
 
-<!ENTITY gdata.migration.title "Migrate read-only calendars">
+<!ENTITY gdata.migration.title "Salt okunur takvimleri taşı">
 <!ENTITY gdata.migration.description "The Provider for Google Calendar has detected that you have existing calendars that are only capable of accessing Google Calendar in read-only mode. If you would like to upgrade any of these calendars, please select them below">
 <!ENTITY gdata.migration.upgrade.label "Yükselt">
 <!ENTITY gdata.migration.upgrade.accesskey "Y">
 <!ENTITY gdata.migration.showagain.label "Her zaman denetle">
 
 <!ENTITY gdata.reminder.action.sms.label "Metin ileti olarak gönder">
+
