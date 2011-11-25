@@ -26,7 +26,7 @@
 <!ENTITY restoreButton.tooltip        "Palauta">
 
 <!ENTITY feedsMenu.label "Tilaa sivu">
-<!ENTITY feedsMenu.accesskey "i">
+<!ENTITY feedsMenu.accesskey "T">
 
 <!ENTITY menuBar.tooltip                  "Valikkopalkki">
 <!ENTITY personalToolbar.tooltip          "Kirjanmerkkipalkki">

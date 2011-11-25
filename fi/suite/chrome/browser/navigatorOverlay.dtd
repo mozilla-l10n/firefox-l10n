@@ -72,14 +72,14 @@
 <!ENTITY bookmarksMenu.label "Kirjanmerkit">
 <!ENTITY bookmarksMenu.accesskey "K">
 <!ENTITY addCurPageCmd.label "Lisää sivu kirjanmerkkeihin">
-<!ENTITY addCurPageCmd.accesskey "L">
+<!ENTITY addCurPageCmd.accesskey "k">
 <!ENTITY addCurPageAsCmd.label "Tallenna kirjanmerkki…">
-<!ENTITY addCurPageAsCmd.accesskey "T">
+<!ENTITY addCurPageAsCmd.accesskey "a">
 <!ENTITY addCurPageAsCmd.commandkey "d">
 <!ENTITY addCurTabsAsCmd.label "Lisää välilehdet kirjanmerkkeihin…">
 <!ENTITY addCurTabsAsCmd.accesskey "v">
 <!ENTITY manBookmarksCmd.label "Järjestele kirjanmerkkejä…">
-<!ENTITY manBookmarksCmd.accesskey "ä">
+<!ENTITY manBookmarksCmd.accesskey "J">
 <!ENTITY manBookmarksCmd.commandkey "b">
 
 <!-- Tools Menu -->

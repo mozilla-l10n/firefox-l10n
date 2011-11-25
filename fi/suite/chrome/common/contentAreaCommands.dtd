@@ -22,7 +22,7 @@
 <!ENTITY goForwardCmd.label           "Seuraava">
 <!ENTITY goForwardCmd.accesskey       "S">
 <!ENTITY goUpCmd.label                "Ylös">
-<!ENTITY goUpCmd.accesskey            "ö">
+<!ENTITY goUpCmd.accesskey            "Y">
 <!ENTITY reloadCmd.label              "Päivitä">
 <!ENTITY reloadCmd.accesskey          "ä">
 <!ENTITY reloadCmd.commandkey         "r">
