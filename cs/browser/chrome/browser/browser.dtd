@@ -429,14 +429,23 @@ can reach it easily. -->
 <!ENTITY thisFrameMenu.accesskey "T">
 
 <!-- Media (video/audio) controls -->
+<!-- LOCALIZATION NOTE: The access keys for "Play" and
+"Pause" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaPlay.label "Přehrát">
-<!ENTITY mediaPlay.accesskey "h">
+<!ENTITY mediaPlay.accesskey "P">
 <!ENTITY mediaPause.label "Pozastavit">
-<!ENTITY mediaPause.accesskey "z">
+<!ENTITY mediaPause.accesskey "P">
+<!-- LOCALIZATION NOTE: The access keys for "Mute" and
+"Unmute" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaMute.label "Vypnout zvuk">
-<!ENTITY mediaMute.accesskey "p">
+<!ENTITY mediaMute.accesskey "z">
 <!ENTITY mediaUnmute.label "Zapnout zvuk">
-<!ENTITY mediaUnmute.accesskey "p">
+<!ENTITY mediaUnmute.accesskey "z">
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label "Zobrazit ovládání">
 <!ENTITY mediaShowControls.accesskey "o">
 <!ENTITY mediaHideControls.label "Skrýt ovládání">
@@ -445,6 +454,9 @@ can reach it easily. -->
 <!ENTITY videoFullScreen.accesskey "C">
 <!ENTITY videoSaveImage.label "Uložit snímek jako…">
 <!ENTITY videoSaveImage.accesskey "U">
+<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
+"Hide Statistics" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY videoShowStats.label "Zobrazit statistiku">
 <!ENTITY videoShowStats.accesskey "s">
 <!ENTITY videoHideStats.label "Skrýt statistiku">
