@@ -43,7 +43,7 @@
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "Z">
 <!ENTITY autoCheck.label "Guetar anovamientos automáticamente pa:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey "h">
+<!ENTITY enableAppUpdate.accesskey "i">
 <!ENTITY enableAddonsUpdate.label "Complementos instalaos">
 <!ENTITY enableAddonsUpdate.accesskey "C">
 <!ENTITY whenUpdatesFound.label "Cuando s'alcuentren anovamientos pa &brandShortName;,">
@@ -76,7 +76,7 @@
 <!ENTITY certs.auto "Seleicionar ún automáticamente">
 <!ENTITY certs.auto.accesskey "S">
 <!ENTITY certs.ask "Entrugame cada vegada">
-<!ENTITY certs.ask.accesskey "P">
+<!ENTITY certs.ask.accesskey "E">
 <!ENTITY viewCertificates.label "Ver certificaos">
 <!ENTITY viewCertificates.accesskey "a">
 <!ENTITY viewCRLs.label "Llistes de revocación">
