@@ -85,4 +85,3 @@
 <!ENTITY domainnameError.title        "Eroare în numele domeniului">
 <!-- LOCALIZATION NOTE: do not translate @string@ -->
 <!ENTITY invalidEntryError.label      "The domain name @string@ is invalid and will be ignored. Valid domain names must include at least one '.' and characters on either side of it.">
-

@@ -1,13 +1,7 @@
-<!--
-# Reviewer(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-#
--->
 <!ENTITY mnEditUndo.label "Undo">
 <!ENTITY mnEditUndo.accesskey "u">
-<!ENTITY mnEditRedo.label "Refă">
-<!ENTITY mnEditRedo.accesskey "R">
+<!ENTITY mnEditRedo.label "Redo">
+<!ENTITY mnEditRedo.accesskey "r">
 <!ENTITY mnEditCut.label "Cut">
 <!ENTITY mnEditCut.accesskey "t">
 <!ENTITY mnEditCopy.label "Copy">
@@ -27,4 +21,3 @@
 <!ENTITY mnEditCopyFileURI.accesskey "U">
 <!ENTITY mnEditViewFileURI.label "View File">
 <!ENTITY mnEditViewFileURI.accesskey "V">
-

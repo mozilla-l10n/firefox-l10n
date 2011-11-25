@@ -28,6 +28,5 @@
 <!ENTITY  settings.label      "Setări pentru ">
 <!ENTITY  settings.accesskey  "S">
 
-<!ENTITY  description.label   "Descrierea Politicii:">
- 
+<!ENTITY  description.label   "Descrierea Politicii:"> 
 

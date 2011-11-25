@@ -1,8 +1,8 @@
 <!--
 # Translator(s):
 #
+# nicubunu <nicubunu@gmail.com>
 # janimo <jani@ubuntu.com>
-# Alexandru Szasz <alexxed@gmail.com>
 #
 -->
 <!--
@@ -57,6 +57,6 @@
 <!-- LOCALIZATION NOTE (exampleCloseTag.label): DONT_TRANSLATE: they are text for HTML tagnames: "<i>" and "</i>" -->
 <!ENTITY exampleCloseTag.label "&lt;/i&gt;">
 <!ENTITY exampleText.label "Salutare lume!">
-<!ENTITY insertButton.label "Introduceți">
+<!ENTITY insertButton.label "Inserează">
 <!ENTITY insertButton.accesskey "I">
 

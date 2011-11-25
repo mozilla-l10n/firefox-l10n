@@ -2,4 +2,3 @@
 <!ENTITY quota.retrievingInfo.label "Retrieving quota information…">
 <!ENTITY quota.typeColumn.label     "Type">
 <!ENTITY quota.sizeColumn.label     "Size">
-

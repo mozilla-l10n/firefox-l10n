@@ -2,8 +2,8 @@
 # Translator(s):
 #
 # Laudatti <Laudatti@gmail.com>
-# Alexandru Szasz <alexxed@gmail.com>
 # stas <stas@nerd.ro>
+# Alexandru Szasz <alexxed@gmail.com>
 #
 -->
 <!--
@@ -64,7 +64,6 @@
 <!ENTITY server.accesskey             "C">
 <!ENTITY subscribedHeader.label       "Subscrie">
 <!-- commenting out until bug 38906 is fixed 
-<!ENTITY messagesHeader.label         "Mesaje"> -->
+--><!ENTITY messagesHeader.label         "Mesaje"> 
 <!ENTITY namefield.label              "Arată grupurile care conțin:">
 <!ENTITY namefield.accesskey          "A">
-

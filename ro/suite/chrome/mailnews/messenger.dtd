@@ -5,6 +5,7 @@
 # Laudatti <Laudatti@gmail.com>
 # toffee <daniel@toffee.ro>
 # nicubunu <nicubunu@gmail.com>
+# strainu <crangasi2001@yahoo.com>
 # purica <haliciu@gmail.com>
 # Iosif Fettich <ifettich@netsoft.ro>
 # stas <stas@nerd.ro>
@@ -145,7 +146,7 @@
 <!ENTITY unsubscribeNewsgroupCmd.accesskey "n">
 <!ENTITY selectMenu.label "Selectare">
 <!ENTITY selectMenu.accesskey "S">
-<!ENTITY selectThreadCmd.label "Conversație">
+<!ENTITY selectThreadCmd.label "Conversația">
 <!ENTITY selectThreadCmd.accesskey "C">
 <!ENTITY selectThreadCmd.key "i">
 <!ENTITY selectFlaggedCmd.label "Flagged Messages">
@@ -165,7 +166,7 @@
 <!ENTITY undoMarkAllCmd.label "Anulează marcarea tuturor ca citite">
 <!ENTITY redoMarkAllCmd.label "Refă marcarea tuturor ca citite">
 <!ENTITY undoDefaultCmd.label "Anulează">
-<!ENTITY redoDefaultCmd.label "Refă">
+<!ENTITY redoDefaultCmd.label "Refacere">
 
 <!-- View Menu -->
 <!ENTITY showMessengerToolbarCmd.label "Bara de unelte">
@@ -232,7 +233,7 @@
 <!ENTITY groupBySort.accesskey "G">
 <!ENTITY msgsMenu.label "Mesaje">
 <!ENTITY msgsMenu.accesskey "M">
-<!ENTITY threads.label "Conversații">
+<!ENTITY threads.label "Fire">
 <!ENTITY threads.accesskey "e">
 <!ENTITY allMsgsCmd.label "Tot">
 <!ENTITY allMsgsCmd.accesskey "T">
@@ -614,4 +615,3 @@
 <!ENTITY mdnBarMessage.label "The sender of this message has asked to be notified when you read this message. Do you wish to notify the sender?">
 <!ENTITY mdnBarIgnoreButton.label "Ignore Request">
 <!ENTITY mdnBarSendButton.label "Send Receipt">
-

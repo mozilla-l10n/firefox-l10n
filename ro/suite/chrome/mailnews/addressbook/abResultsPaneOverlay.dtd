@@ -53,7 +53,7 @@
 <!ENTITY PrimaryEmail.accesskey                "E">
 <!ENTITY Company.label                         "Organizația">
 <!ENTITY Company.accesskey                     "z">
-<!ENTITY _PhoneticName.label                   "Phonetic Name">
+<!ENTITY _PhoneticName.label                   "Nume fonetic">
 <!ENTITY _PhoneticName.accesskey               "o">
 <!ENTITY NickName.label                        "Trimite legătura de resetare a parolei">
 <!ENTITY NickName.accesskey                    "i">
@@ -93,4 +93,3 @@
 <!ENTITY newAddrBookMailingList.accesskey      "M">
 <!ENTITY addrBookCardProperties.label          "Proprietăți">
 <!ENTITY addrBookCardProperties.accesskey      "P">
-
