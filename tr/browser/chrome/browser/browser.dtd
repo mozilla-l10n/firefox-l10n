@@ -216,7 +216,7 @@ can reach it easily. -->
 <!ENTITY inspectPanelTitle.label        "HTML">
 <!ENTITY inspectButton.label            "İncele">
 <!ENTITY inspectButton.accesskey        "c">
-<!ENTITY inspectCloseButton.tooltiptext "Close Inspector">
+<!ENTITY inspectCloseButton.tooltiptext "Denetçiyi kapat">
 <!ENTITY inspectStyleButton.label     "Stil">
 <!ENTITY inspectStyleButton.accesskey "S">
 
@@ -436,11 +436,11 @@ can reach it easily. -->
 <!ENTITY mediaHideControls.accesskey "D">
 <!ENTITY videoFullScreen.label       "Tam ekran">
 <!ENTITY videoFullScreen.accesskey   "T">
-<!ENTITY videoSaveImage.label        "Save Snapshot As…">
-<!ENTITY videoSaveImage.accesskey    "S">
-<!ENTITY videoShowStats.label        "İstatistikleri göster">
+<!ENTITY videoSaveImage.label        "Ekran görüntüsünü farklı kaydet…">
+<!ENTITY videoSaveImage.accesskey    "E">
+<!ENTITY videoShowStats.label        "Show Statistics">
 <!ENTITY videoShowStats.accesskey    "g">
-<!ENTITY videoHideStats.label        "İstatistikleri gizle">
+<!ENTITY videoHideStats.label        "Hide Statistics">
 <!ENTITY videoHideStats.accesskey    "z">
 
 <!-- LOCALIZATION NOTE :

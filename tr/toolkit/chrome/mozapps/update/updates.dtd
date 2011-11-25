@@ -72,5 +72,6 @@ bir bağlantıyı kabul ettirmeye çalışıyor. Hizmet sağlayıcınızla gör�
 <!ENTITY  whatsnew.label                  "Yenilikleri oku…">
 
 <!ENTITY  update.details.label            "Ayrıntılar">
-<!ENTITY  update.installedOn.label        "Kurulduğu yer:">
+<!ENTITY  update.installedOn.label        "Kurulum tarihi:">
 <!ENTITY  update.status.label             "Durum:">
+

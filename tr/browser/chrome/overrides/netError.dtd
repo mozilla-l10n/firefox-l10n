@@ -43,7 +43,7 @@ bulunduğundan emin olun. Bu işaret sola değil,
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Belge zaman aşımına uğradı">
-<!ENTITY notCached.longDesc "<p>The requested document is not available in &brandShortName;'s cache.</p><ul><li>As a security precaution, &brandShortName; does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Talep edilen belge &brandShortName; önbelleğinde mevcut değil.</p><ul><li>Bir güvenli önlemli olarak, &brandShortName; hassas belgeleri otomatik olarak yeniden talep etmez.</li><li>Belgeyi siteden tekrar talep etmek için Yeniden dene'ye tıklayın.</li></ul>">
 
 <!ENTITY netOffline.title "Çevrim dışı tarama kipi">
 <!ENTITY netOffline.longDesc2 "<ul> 

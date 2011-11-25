@@ -21,6 +21,7 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "Yan uygulamaların çalışması için &brandShortName; uygulamasının baştan başlatılması gerek.">
 
 <!ENTITY missingPlugin                                       "Bu içeriği gösterecek bir yan uygulama eksik.">
+<!ENTITY clickToPlayPlugin                                   "Yan uygulama etkinleştirmek için buraya dokunun.">
 <!ENTITY disabledPlugin                                      "Bu yan uygulama devre dışı.">
 <!ENTITY blockedPlugin.label                                 "Bu yan eklenti sizi korumak için engellendi.">
 
@@ -33,10 +34,11 @@
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "sayfayı yeniden yükleyin">
 <!ENTITY reloadPlugin.post                                   ".">
-<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.please                                       "Çökme raporu gönder">
+<!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.checkbox                                     "…ve çöke raporu gönder">
 <!ENTITY report.submitting                                   "Rapor gönderiliyor...">
 <!ENTITY report.submitted                                    "Çökme raporu gönderildi.">
 <!ENTITY report.disabled                                     "Çökme raporu gönderimi devre dışı.">
 <!ENTITY report.failed                                       "Gönderim başarısız.">
 <!ENTITY report.unavailable                                  "Rapor yok.">
+
