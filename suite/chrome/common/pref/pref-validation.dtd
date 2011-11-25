@@ -68,3 +68,4 @@
 <!ENTITY signingCA.accesskey                      "r">
 <!ENTITY validation.requireOCSP.description       "Când o conexiune cu serverul OCSP eșuează, tratează certificatul ca invalid">
 <!ENTITY validation.requireOCSP.accesskey         "W">
+

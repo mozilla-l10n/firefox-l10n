@@ -1,8 +1,13 @@
 <!--
+# Translator(s):
+#
+# secarica <orice@secarica.ro>
+#
+-->
+<!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!-- ***** BEGIN LICENSE BLOCK *****
@@ -53,8 +58,8 @@
 <!ENTITY FormMethod.accesskey "M">
 <!ENTITY FormEncType.label "Codare:">
 <!ENTITY FormEncType.accesskey "C">
-<!ENTITY FormTarget.label "Frame destinație:">
-<!ENTITY FormTarget.accesskey "F">
+<!ENTITY FormTarget.label "Cadru de destinație:">
+<!ENTITY FormTarget.accesskey "C">
 
 <!ENTITY RemoveForm.label "Elimină formular">
 <!ENTITY RemoveForm.accesskey "E">

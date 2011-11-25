@@ -3,7 +3,7 @@
 #
 # Alexandru Szasz <alexxed@gmail.com>
 # adiroiban <adiroiban@gmail.com>
-# strainu <crangasi2001@yahoo.com>
+# strainu <narro@strainu.ro>
 # toffee <daniel@toffee.ro>
 # manuelciosici <manuelrciosici@gmail.com>
 # janimo <jani@ubuntu.com>
@@ -79,3 +79,4 @@
 <!ENTITY useDefault.accesskey             "R">
 <!ENTITY rememberLastMsg.label            "Reține ultimul mesaj selectat">
 <!ENTITY rememberLastMsg.accesskey        "R">
+

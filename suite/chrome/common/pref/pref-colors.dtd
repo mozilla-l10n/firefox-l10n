@@ -33,3 +33,4 @@
 <!-- LOCALIZATION NOTE (ignoreDocColors.label): This is option two, and it appends to 'someProvColors' above.  -->
 <!ENTITY useMyColors.label                 "Use my chosen colors, ignoring the colors and background image specified">
 <!ENTITY useMyColors.accesskey             "m">
+

@@ -48,7 +48,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Inserare tabel">
+<!ENTITY windowTitle.label "Inserează un tabel">
 
 <!ENTITY size.label "Mărime">
 <!ENTITY numRowsEditField.label "Rânduri:">

@@ -47,7 +47,7 @@
 <!ENTITY undoCmd.label                    "Anulează">
 <!ENTITY undoCmd.key                      "Z">
 <!ENTITY undoCmd.accesskey                "u">
-<!ENTITY redoCmd.label                    "Refacere">
+<!ENTITY redoCmd.label                    "Refă">
 <!ENTITY redoCmd.key                      "Y">
 <!ENTITY redoCmd.accesskey                "R">
 <!ENTITY cutCmd.label                     "Tăiați">
@@ -163,3 +163,4 @@
 <!ENTITY dontShowMessage.accesskey    "d">
 
 <!ENTITY syncToolbarButton.label "Sync">
+

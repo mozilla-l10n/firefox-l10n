@@ -3,7 +3,7 @@
 #
 # nicubunu <nicubunu@gmail.com>
 # janimo <jani@ubuntu.com>
-# strainu <crangasi2001@yahoo.com>
+# strainu <narro@strainu.ro>
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
@@ -32,3 +32,4 @@
 
 <!ENTITY pasteLinkCmd.label       "Lipiți">
 <!ENTITY pasteLinkCmd.accesskey   "p">
+
