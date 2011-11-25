@@ -9,7 +9,6 @@
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!ENTITY editContactPanelDeleteContact.label "Șterge">
@@ -24,10 +23,10 @@
 <!ENTITY editContactAddressBook.label "Agendă de contacte:">
 <!ENTITY editContactAddressBook.accesskey "A">
 
-<!ENTITY editContactPanelCancel.label "Anuleaz">
-<!ENTITY editContactPanelCancel.accesskey "A">
+<!ENTITY editContactPanelCancel.label "Renunță">
+<!ENTITY editContactPanelCancel.accesskey "R">
 
-<!ENTITY editContactPanelDone.label "Terminat">
+<!ENTITY editContactPanelDone.label "Gata">
 <!ENTITY editContactPanelDone.accesskey "g">
 
 <!ENTITY contactMoveDisabledWarning.description "Nu puteți schimba agenda de contacte fiindcă contactul e într-o listă de discuții prin email.">

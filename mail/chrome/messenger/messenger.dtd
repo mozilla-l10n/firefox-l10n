@@ -20,7 +20,6 @@
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!ENTITY messengerWindow.title "Corespondență și grupuri de discuții">
@@ -877,7 +876,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openLinkInBrowser.accesskey "o">
 
 <!-- Statusbar -->
-<!ENTITY statusText.label "Terminat">
+<!ENTITY statusText.label "Gata">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.label "Minimizează">
