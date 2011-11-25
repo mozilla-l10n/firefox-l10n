@@ -39,4 +39,3 @@
 <!ENTITY  socksRemoteDNS.label        "Use for resolving hostnames (recommended for SOCKS v5)">
 <!ENTITY  socksRemoteDNS.accesskey    "e">
 <!ENTITY  SOCKSport.accesskey         "t">
-

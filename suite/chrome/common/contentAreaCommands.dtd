@@ -1,6 +1,7 @@
 <!--
 # Translator(s):
 #
+# strainu <crangasi2001@yahoo.com>
 # BuBBaX <mikebubbax@yahoo.com>
 # Alexandru Szasz <alexxed@gmail.com>
 # secarica <orice@secarica.ro>
@@ -136,4 +137,3 @@
 <!ENTITY spellDictionaries.accesskey    "L">
 <!ENTITY spellAddDictionaries.label     "Descarcă Mai Multe Dicționare">
 <!ENTITY spellAddDictionaries.accesskey "D">
-

@@ -1,8 +1,8 @@
 <!--
 # Translator(s):
 #
-# Alexandru Szasz <alexxed@gmail.com>
 # rsandu <razvan.sandu@zando.ro>
+# Alexandru Szasz <alexxed@gmail.com>
 #
 -->
 <!--
@@ -73,11 +73,11 @@
 <!ENTITY compositionToolbarCmd.accesskey "B">
 <!ENTITY formattingToolbarCmd.label "Bară de formatare">
 <!ENTITY formattingToolbarCmd.accesskey "B">
-<!ENTITY editmodeToolbarCmd.label "Bară editare">
+<!ENTITY editmodeToolbarCmd.label "Bară de editare">
 <!ENTITY editmodeToolbarCmd.accesskey "B">
 
 <!-- Format menu items -->
-<!ENTITY formatMenu.label "Format trimitere">
+<!ENTITY formatMenu.label "Formatare">
 <!ENTITY formatMenu.accesskey "F">
 <!ENTITY grid.label "Grilă de poziționare">
 <!ENTITY grid.accesskey "G">

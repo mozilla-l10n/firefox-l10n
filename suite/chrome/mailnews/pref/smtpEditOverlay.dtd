@@ -33,4 +33,3 @@
 <!ENTITY serverPortDefault.label "Implicit:">
 <!ENTITY authMethod.label "Authentication method:">
 <!ENTITY authMethod.accesskey "i">
-

@@ -2,7 +2,7 @@
 # Translator(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
-# strainu <narro@strainu.ro>
+# strainu <crangasi2001@yahoo.com>
 #
 -->
 <!--
@@ -21,4 +21,3 @@
 
 <!ENTITY checkOnStartup.label "Întotdeauna efectuează această verificare la pornirea &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "a">
-

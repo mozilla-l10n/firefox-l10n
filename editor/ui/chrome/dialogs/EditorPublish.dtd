@@ -9,6 +9,7 @@
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!-- ***** BEGIN LICENSE BLOCK *****
@@ -49,7 +50,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label            "Publică pagina">
+<!ENTITY windowTitle.label            "Publicare pagină">
 <!ENTITY windowTitleSettings.label    "Setări de publicare">
 <!ENTITY publishTab.label             "Publică">
 <!ENTITY settingsTab.label            "Setări">
@@ -82,8 +83,8 @@
 <!ENTITY filename.accesskey           "N">
 <!ENTITY filename.tooltip             "Introduceți un nume pentru acest fișier, adăugând '.html' în cazul unei pagini web">
 <!ENTITY filenameExample.label        "ex.: „pagina mea.html”">
-<!ENTITY setDefaultButton.label       "Setează ca implicit">
-<!ENTITY setDefaultButton.accesskey   "i">
+<!ENTITY setDefaultButton.label       "Implicit">
+<!ENTITY setDefaultButton.accesskey   "I">
 <!ENTITY removeButton.label           "Elimină saitul">
 <!ENTITY removeButton.accesskey       "E">
 
@@ -103,7 +104,7 @@
 <!ENTITY username.label               "Nume utilizator:">
 <!ENTITY username.accesskey           "N">
 <!ENTITY username.tooltip             "Numele de utilizator cu care vă autentificați la ISP sau la serviciul de găzduire web">
-<!ENTITY password.label               "Parola:">
+<!ENTITY password.label               "Parolă:">
 <!ENTITY password.accesskey           "P">
 <!ENTITY password.tooltip             "Parola asociată numelui dumneavoastră de utilizator">
 <!ENTITY savePassword.label           "Salvează parola">

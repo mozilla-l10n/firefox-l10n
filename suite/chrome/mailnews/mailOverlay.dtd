@@ -16,6 +16,5 @@
 <!ENTITY  newMessageCmd.accesskey         "m">
  
 <!ENTITY  newContactCmd.label             "Contact…">
-<!ENTITY  newContactCmd.accesskey         "C">
- 
+<!ENTITY  newContactCmd.accesskey         "C"> 
 

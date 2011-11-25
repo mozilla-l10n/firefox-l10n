@@ -39,4 +39,3 @@
 <!ENTITY  noproxy.label                 "Niciun proxy pentru:">
 <!ENTITY  noproxy.accesskey             "N">
 <!ENTITY  noproxyExplain.label          "Exemplu: .mozilla.org, .net.nz, 192.168.1.0/24">
-

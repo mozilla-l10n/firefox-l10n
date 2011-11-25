@@ -14,11 +14,10 @@
 <!ENTITY zoomEnlargeCmd.label       "Mai mare">
 <!ENTITY zoomEnlargeCmd.accesskey   "M">
 <!ENTITY zoomEnlargeCmd.commandkey  "+">
-<!ENTITY zoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!-- + is above this key on many keyboards --><!ENTITY zoomEnlargeCmd.commandkey2 "="> 
 
 <!ENTITY zoomReduceCmd.label        "Mai mic">
 <!ENTITY zoomReduceCmd.accesskey    "M">
 <!ENTITY zoomReduceCmd.commandkey   "-">
 
 <!ENTITY zoomResetCmd.commandkey    "0">
-
