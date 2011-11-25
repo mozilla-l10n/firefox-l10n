@@ -12,7 +12,7 @@
 -->
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
 
-<!ENTITY MsgSynchronize.label "Download and Sync Messages">
+<!ENTITY MsgSynchronize.label "Descărcare și sincronizare mesaje">
 <!ENTITY MsgSelect.label "Ce se utilizează în modul offline">
 <!ENTITY MsgSyncDesc.label "Dacă ați selectat deja dosare de email sau grupuri de news pentru utilizare în mod deconectat, le puteți descărca și/sau sincroniza acum. Altfel, folosiți butonul &quot;Selectează&quot; pentru a alege dosare de email și grupuri de news.">
 <!ENTITY MsgSyncDirections.label "Descarcă și sincronizează:">

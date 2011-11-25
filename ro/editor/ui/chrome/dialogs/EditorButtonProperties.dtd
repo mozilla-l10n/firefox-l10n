@@ -1,3 +1,9 @@
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -36,25 +42,25 @@
 
 <!ENTITY windowTitle.label "Proprietăți buton">
 
-<!ENTITY Settings.label "Settings">
+<!ENTITY Settings.label "Setări">
 
-<!ENTITY ButtonType.label "Type">
+<!ENTITY ButtonType.label "Tip">
 <!ENTITY ButtonType.accesskey "T">
 <!ENTITY submit.value "Trimite">
 <!ENTITY reset.value "Resetează">
 <!ENTITY button.value "buton">
 
-<!ENTITY ButtonName.label "Name:">
+<!ENTITY ButtonName.label "Nume:">
 <!ENTITY ButtonName.accesskey "N">
-<!ENTITY ButtonValue.label "Value:">
+<!ENTITY ButtonValue.label "Valoare:">
 <!ENTITY ButtonValue.accesskey "V">
 <!ENTITY tabIndex.label "Index tab:">
 <!ENTITY tabIndex.accesskey "I">
-<!ENTITY ButtonDisabled.label "Disabled">
+<!ENTITY ButtonDisabled.label "Dezactivat">
 <!ENTITY ButtonDisabled.accesskey "D">
-<!ENTITY AccessKey.label "Access Key:">
-<!ENTITY AccessKey.accesskey "K">
+<!ENTITY AccessKey.label "Tastă acces:">
+<!ENTITY AccessKey.accesskey "a">
 
-<!ENTITY RemoveButton.label "Remove Button">
-<!ENTITY RemoveButton.accesskey "R">
+<!ENTITY RemoveButton.label "Elimină buton">
+<!ENTITY RemoveButton.accesskey "E">
 

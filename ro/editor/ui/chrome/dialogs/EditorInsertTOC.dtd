@@ -47,7 +47,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY Window.title        "Table of Contents">
+<!ENTITY Window.title        "Tablă de materii">
 <!ENTITY buildToc.label      "Construiește tabla de materii după:">
 <!ENTITY tag.label           "Etichetă:">
 <!ENTITY class.label         "Clasă:">

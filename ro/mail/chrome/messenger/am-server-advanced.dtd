@@ -16,7 +16,7 @@
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
 <!ENTITY serverDirectory.label "Director pe serverul IMAP:">
 <!ENTITY serverDirectory.accesskey "D">
-<!ENTITY usingSubscription.label "Afișează doar dosarele la care sunt abonat">
+<!ENTITY usingSubscription.label "Afișează doar dosarele la care sunt abonat(ă)">
 <!ENTITY usingSubscription.accesskey "b">
 <!ENTITY dualUseFolders.label "Serverul suportă dosare care conțin subdosare și mesaje">
 <!ENTITY dualUseFolders.accesskey "v">

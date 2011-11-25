@@ -50,7 +50,7 @@
 <!ENTITY windowTitle.label "Proprietăți câmp formular">
 <!ENTITY windowTitleImage.label "Proprietăți imagine formular">
 
-<!ENTITY InputType.label "Field Type">
+<!ENTITY InputType.label "Tip câmp">
 <!ENTITY InputType.accesskey "T">
 <!ENTITY text.value "Text">
 <!ENTITY password.value "Parola">
@@ -63,34 +63,34 @@
 <!ENTITY image.value "imagine">
 <!ENTITY button.value "buton">
 
-<!ENTITY InputSettings.label "Field Settings">
-<!ENTITY InputName.label "Field Name:">
+<!ENTITY InputSettings.label "Setările câmpului">
+<!ENTITY InputName.label "Nume câmp:">
 <!ENTITY InputName.accesskey "N">
-<!ENTITY GroupName.label "Group Name:">
+<!ENTITY GroupName.label "Nume grup:">
 <!ENTITY GroupName.accesskey "N">
-<!ENTITY InputValue.label "Field Value:">
+<!ENTITY InputValue.label "Valoare câmp:">
 <!ENTITY InputValue.accesskey "V">
-<!ENTITY InitialValue.label "Initial Value:">
+<!ENTITY InitialValue.label "Valoare inițială:">
 <!ENTITY InitialValue.accesskey "V">
-<!ENTITY InputChecked.label "Initially Checked">
-<!ENTITY InputChecked.accesskey "C">
-<!ENTITY InputSelected.label "Initially Selected">
-<!ENTITY InputSelected.accesskey "S">
-<!ENTITY InputReadOnly.label "Read Only">
-<!ENTITY InputReadOnly.accesskey "R">
-<!ENTITY InputDisabled.label "Disabled">
-<!ENTITY InputDisabled.accesskey "D">
+<!ENTITY InputChecked.label "Inițial bifat">
+<!ENTITY InputChecked.accesskey "b">
+<!ENTITY InputSelected.label "Inițial selectat">
+<!ENTITY InputSelected.accesskey "s">
+<!ENTITY InputReadOnly.label "Doar-citire">
+<!ENTITY InputReadOnly.accesskey "D">
+<!ENTITY InputDisabled.label "Inactiv">
+<!ENTITY InputDisabled.accesskey "I">
 <!ENTITY tabIndex.label "Index tab:">
 <!ENTITY tabIndex.accesskey "t">
-<!ENTITY TextSize.label "Field Size:">
-<!ENTITY TextSize.accesskey "F">
-<!ENTITY TextLength.label "Maximum Length:">
+<!ENTITY TextSize.label "Mărime câmp:">
+<!ENTITY TextSize.accesskey "M">
+<!ENTITY TextLength.label "Lungime maximă:">
 <!ENTITY TextLength.accesskey "L">
-<!ENTITY AccessKey.label "Access Key:">
-<!ENTITY AccessKey.accesskey "K">
-<!ENTITY Accept.label "Accept Types:">
-<!ENTITY Accept.accesskey "A">
+<!ENTITY AccessKey.label "Tastă acces:">
+<!ENTITY AccessKey.accesskey "a">
+<!ENTITY Accept.label "Tipuri acceptate:">
+<!ENTITY Accept.accesskey "p">
 
-<!ENTITY ImageProperties.label "Image Properties…">
-<!ENTITY ImageProperties.accesskey "E">
+<!ENTITY ImageProperties.label "Proprietăți imagine…">
+<!ENTITY ImageProperties.accesskey "e">
 

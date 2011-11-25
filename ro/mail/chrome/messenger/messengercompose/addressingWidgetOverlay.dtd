@@ -2,12 +2,17 @@
 # Translator(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
-# stas <stas@nerd.ro>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
 #
 -->
 <!-- address labels -->
 <!--LOCALIZATION NOTE addressingWidgetOverlay.dtd The basic mail/news composition headers as they are seen in UI -->
-<!ENTITY toAddr.label   "Pentru:"> 
+<!ENTITY toAddr.label   "Către:"> 
 <!ENTITY ccAddr.label   "Copie:"> 
 <!ENTITY bccAddr.label  "Copie ascunsă:"> 
 <!ENTITY replyAddr.label   "Răspuns către:"> 

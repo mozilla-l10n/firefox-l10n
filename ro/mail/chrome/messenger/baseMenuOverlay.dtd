@@ -6,7 +6,6 @@
 # strainu <narro@strainu.ro>
 # Nicu <kneekoo@yahoo.com>
 # janimo <jani@ubuntu.com>
-# Laudatti <Laudatti@gmail.com>
 #
 -->
 <!--
@@ -32,8 +31,8 @@
 <!ENTITY whatsNewCmd.accesskey "C">
 <!ENTITY featureConfiguratorCmd.label "Asistent de migrare">
 <!ENTITY featureConfiguratorCmd.accesskey "m">
-<!ENTITY openHelp.label "Ajutor conținut">
-<!ENTITY openHelp.accesskey "A">
+<!ENTITY openHelp.label "Manual de utilizare">
+<!ENTITY openHelp.accesskey "M">
 <!ENTITY openHelp.commandkey "V">
 <!ENTITY openHelpMac.label "Ajutor pentru &brandShortName;">
 <!ENTITY openHelpMac2.commandkey   "?">

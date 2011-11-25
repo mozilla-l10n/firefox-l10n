@@ -3,8 +3,6 @@
 #
 # rz <rz@r2dev.ro>
 # Alexandru Szasz <alexxed@gmail.com>
-# Laudatti <Laudatti@gmail.com>
-# manuelciosici <manuelrciosici@gmail.com>
 #
 -->
 <!--
@@ -78,7 +76,7 @@
 <!ENTITY retentionCleanupPop.label "Pentru a câștiga spațiu pe disc, mesajele vechi pot fi șterse pentru totdeauna, inclusiv originalele de pe server.">
 <!ENTITY retentionDeleteMsg.label "Șterge mesajele mai vechi de">
 <!ENTITY retentionDeleteMsg.accesskey "m">
-<!ENTITY retentionKeepAll.label "Nu șterge niciun mesaj">
+<!ENTITY retentionKeepAll.label "Nu șterge nici un mesaj">
 <!ENTITY retentionKeepAll.accesskey "a">
 <!ENTITY retentionKeepRecent.label "Șterge tot cu excepția celor mai recente">
 <!ENTITY retentionKeepRecent.accesskey "l">
@@ -101,10 +99,10 @@
 <!ENTITY offlineNewsgroup.button.label           "Descarcă acum">
 <!ENTITY offlineNewsgroup.button.accesskey       "D">
 
-<!ENTITY folderProps.name.label                  "Numele:">
+<!ENTITY folderProps.name.label                  "Nume:">
 <!ENTITY folderProps.name.accesskey              "N">
-<!ENTITY folderProps.location.label              "Locația:">
-<!ENTITY folderProps.location.accesskey          "L">
+<!ENTITY folderProps.location.label              "Amplasare:">
+<!ENTITY folderProps.location.accesskey          "l">
 
 <!ENTITY folderSharingTab.label                  "Partajare">
 <!ENTITY privileges.button.label                 "Privilegii…">

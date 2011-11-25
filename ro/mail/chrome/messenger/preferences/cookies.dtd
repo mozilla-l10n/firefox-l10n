@@ -1,10 +1,4 @@
 <!--
-# Translator(s):
-#
-# Alexandru Szasz <alexxed@gmail.com>
-#
--->
-<!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
@@ -32,7 +26,7 @@
 <!ENTITY focusSearch1.key                  "f">
 <!ENTITY focusSearch2.key                  "k">
 
-<!ENTITY filter.label                      "Căutare">
+<!ENTITY filter.label                      "Caută:">
 <!ENTITY filter.accesskey                  "C">
 
 <!ENTITY button.close.label                "Închide">

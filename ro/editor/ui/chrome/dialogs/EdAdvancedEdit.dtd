@@ -42,7 +42,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY WindowTitle.label              "Advanced Property Editor">
+<!ENTITY WindowTitle.label              "Editor avansat proprietăți">
 <!ENTITY AttName.label                  "Atribut:">
 <!ENTITY AttValue.label                 "Valoare:">
 <!ENTITY PropertyName.label             "Proprietate:">

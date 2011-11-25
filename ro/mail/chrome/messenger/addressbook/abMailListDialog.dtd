@@ -1,7 +1,7 @@
 <!--
-# Translator(s):
+# Reviewer(s):
 #
-# anonymous <anonymous@n.a>
+# Alexandru Szasz <alexxed@gmail.com>
 #
 -->
 <!-- ***** BEGIN LICENSE BLOCK *****
@@ -43,9 +43,9 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Title -->
-<!ENTITY mailListWindow.title           "Lista de Corespondenta">
+<!ENTITY mailListWindow.title           "Listă de expediție">
 <!-- Labels -->
-<!ENTITY addToAddressBook.label         "Adaugă în:">
+<!ENTITY addToAddressBook.label         "Adaugă la:">
 
 <!ENTITY ListName.label                 "Numele listei:">
 <!ENTITY ListNickName.label             "Nume scurt:">

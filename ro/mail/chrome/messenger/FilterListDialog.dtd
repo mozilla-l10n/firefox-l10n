@@ -19,9 +19,9 @@
 <!ENTITY editButton.accesskey "E">
 <!ENTITY deleteButton.label "Șterge">
 <!ENTITY deleteButton.accesskey "t">
-<!ENTITY reorderUpButton.label "Mută în s_us">
+<!ENTITY reorderUpButton.label "Mută sus">
 <!ENTITY reorderUpButton.accesskey "s">
-<!ENTITY reorderDownButton.label "Mută în j_os">
+<!ENTITY reorderDownButton.label "Mută jos">
 <!ENTITY reorderDownButton.accesskey "j">
 <!ENTITY filterHeader.label "Filtrele active vor fi rulate automat în ordinea de mai jos.">
 <!ENTITY filtersForPrefix.label "Filtre pentru:">
@@ -30,7 +30,7 @@
 <!ENTITY viewLogButton.accesskey "J">
 <!ENTITY runFilters.label "Rulează acum">
 <!ENTITY runFilters.accesskey "R">
-<!ENTITY stopFilters.label "Oprește">
+<!ENTITY stopFilters.label "Oprire">
 <!ENTITY stopFilters.accesskey "O">
 <!ENTITY folderPickerPrefix.label "Rulează filtrul(ele) selectate pe:">
 <!ENTITY folderPickerPrefix.accesskey "a">

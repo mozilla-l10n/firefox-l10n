@@ -46,15 +46,15 @@
 
 <!ENTITY wordEditField.label "Cuvânt nou:">
 <!ENTITY wordEditField.accessKey "N">
-<!ENTITY AddButton.label "Add">
+<!ENTITY AddButton.label "Adaugă">
 <!ENTITY AddButton.accessKey "A">
-<!ENTITY DictionaryList.label "Words in dictionary:">
-<!ENTITY DictionaryList.accessKey "W">
-<!ENTITY ReplaceButton.label "Replace">
-<!ENTITY ReplaceButton.accessKey "R">
-<!ENTITY RemoveButton.label "Remove">
-<!ENTITY RemoveButton.accessKey "e">
+<!ENTITY DictionaryList.label "Cuvinte în dicționar:">
+<!ENTITY DictionaryList.accessKey "c">
+<!ENTITY ReplaceButton.label "Înlocuiește">
+<!ENTITY ReplaceButton.accessKey "O">
+<!ENTITY RemoveButton.label "Elimină">
+<!ENTITY RemoveButton.accessKey "E">
 
-<!ENTITY CloseButton.label "Close">
-<!ENTITY CloseButton.accessKey "C">
+<!ENTITY CloseButton.label "Închide">
+<!ENTITY CloseButton.accessKey "H">
 

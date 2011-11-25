@@ -7,8 +7,8 @@
 <!--
 # Reviewer(s):
 #
-# raulmalea <raul.malea@gmail.com>
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!-- ***** BEGIN LICENSE BLOCK *****
@@ -59,6 +59,6 @@
 <!ENTITY descriptionInput.label "Descriere:">
 <!ENTITY descriptionInput.accessKey "d">
 <!ENTITY locationNewPage.label "[Pagină nouă, nesalvată încă]">
-<!ENTITY EditHEADSource1.label "Advanced users:">
-<!ENTITY EditHEADSource2.label "To edit other contents of the &lt;head&gt; region, use &quot;HTML Source&quot; in the View Menu or Edit Mode Toolbar.">
+<!ENTITY EditHEADSource1.label "Utilizatori avansați:">
+<!ENTITY EditHEADSource2.label "Pentru a edita conținutul regiunii &lt;head&gt;, alegeți „Sursă HTML” din meniul Vizualizare sau din bara de moduri de editare.">
 

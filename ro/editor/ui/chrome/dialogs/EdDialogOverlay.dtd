@@ -47,9 +47,9 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY AdvancedEditButton.label "Advanced Edit…">
+<!ENTITY AdvancedEditButton.label "Editare avansată…">
 <!ENTITY AdvancedEditButton.accessKey "E">
-<!ENTITY AdvancedEditButton.tooltip "Add or modify HTML attributes, style attributes, and JavaScript">
+<!ENTITY AdvancedEditButton.tooltip "Adăugați sau modificați atribute HTML, stiluri, precum și cod JavaScript">
 <!ENTITY chooseFileButton.label "Alegere fișier…">
 <!ENTITY chooseFileButton.accessKey "F">
 <!ENTITY chooseFileLinkButton.label "Alegere fișier…">
@@ -59,6 +59,6 @@
 <!ENTITY makeUrlRelative.tooltip "Comută între URL relativ și absolut. Trebuie să salvați pagina înainte de a face această modificare.">
 
 <!-- Shared by Link and Image dialogs -->
-<!ENTITY LinkURLEditField.label "Enter a web page location, a local file, or select a Named Anchor or Heading from the popup list:">
-<!ENTITY LinkURLEditField.accessKey "w">
+<!ENTITY LinkURLEditField.label "Introduceți o locație de pagină web, un fișier local sau alegeți o ancoră cu nume sau un subtitlu din următoarea listă:">
+<!ENTITY LinkURLEditField.accessKey "L">
 

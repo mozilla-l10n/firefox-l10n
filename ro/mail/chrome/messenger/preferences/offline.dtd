@@ -22,15 +22,15 @@
 <!ENTITY radioAlwaysOnline.accesskey "l">
 
 <!ENTITY textGoingOnline "Doriți să se expedieze mesajele netrimise când lucrați online?">
-<!ENTITY radioAutoSend.label "da">
-<!ENTITY radioAutoSend.accesskey "d">
+<!ENTITY radioAutoSend.label "Da">
+<!ENTITY radioAutoSend.accesskey "D">
 <!ENTITY radioNotSend.label "Nu">
 <!ENTITY radioNotSend.accesskey "N">
 <!ENTITY radioAskUnsent.label "Întreabă-mă">
 <!ENTITY radioAskUnsent.accesskey "n">
 <!ENTITY textGoingOffline "Doriți să se descarce mesajele pentru uz offline când alegeți să lucrați offline?">
-<!ENTITY radioAutoDownload.label "da">
-<!ENTITY radioAutoDownload.accesskey "d">
+<!ENTITY radioAutoDownload.label "Da">
+<!ENTITY radioAutoDownload.accesskey "D">
 <!ENTITY radioNotDownload.label "Nu">
 <!ENTITY radioNotDownload.accesskey "N">
 <!ENTITY radioAskDownload.label "Întreabă-mă">

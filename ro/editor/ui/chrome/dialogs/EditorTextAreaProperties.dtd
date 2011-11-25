@@ -2,7 +2,6 @@
 # Translator(s):
 #
 # nicubunu <nicubunu@gmail.com>
-# Alexandru Szasz <alexxed@gmail.com>
 #
 -->
 <!--
@@ -49,31 +48,31 @@
 
 <!ENTITY windowTitle.label "Proprietăți zonă text">
 
-<!ENTITY Settings.label "Settings">
+<!ENTITY Settings.label "Setări">
 
-<!ENTITY TextAreaName.label "Field Name:">
+<!ENTITY TextAreaName.label "Nume câmp:">
 <!ENTITY TextAreaName.accessKey "N">
-<!ENTITY TextAreaRows.label "Rows:">
+<!ENTITY TextAreaRows.label "Rânduri:">
 <!ENTITY TextAreaRows.accessKey "R">
-<!ENTITY TextAreaCols.label "Columns:">
+<!ENTITY TextAreaCols.label "Coloane:">
 <!ENTITY TextAreaCols.accessKey "C">
-<!ENTITY TextAreaReadOnly.label "Read Only">
+<!ENTITY TextAreaReadOnly.label "Doar-citire">
 <!ENTITY TextAreaReadOnly.accessKey "O">
-<!ENTITY TextAreaDisabled.label "Disabled">
-<!ENTITY TextAreaDisabled.accessKey "D">
-<!ENTITY TextAreaTabIndex.label "Tab Index:">
+<!ENTITY TextAreaDisabled.label "Inactiv">
+<!ENTITY TextAreaDisabled.accessKey "I">
+<!ENTITY TextAreaTabIndex.label "Index tab:">
 <!ENTITY TextAreaTabIndex.accessKey "I">
-<!ENTITY TextAreaAccessKey.label "Access Key:">
+<!ENTITY TextAreaAccessKey.label "Tastă acces:">
 <!ENTITY TextAreaAccessKey.accessKey "K">
-<!ENTITY InitialText.label "Initial Text:">
+<!ENTITY InitialText.label "Text inițial:">
 <!ENTITY InitialText.accessKey "T">
 
-<!ENTITY TextAreaWrap.label "Wrap Mode:">
-<!ENTITY TextAreaWrap.accessKey "W">
-<!ENTITY WrapDefault.value "Default">
-<!ENTITY WrapOff.value "Off">
-<!ENTITY WrapHard.value "Hard">
-<!ENTITY WrapSoft.value "Soft">
-<!ENTITY WrapPhysical.value "Physical">
+<!ENTITY TextAreaWrap.label "Mod înfășurare:">
+<!ENTITY TextAreaWrap.accessKey "w">
+<!ENTITY WrapDefault.value "Implicit">
+<!ENTITY WrapOff.value "Fără">
+<!ENTITY WrapHard.value "'Hard'">
+<!ENTITY WrapSoft.value "'Soft'">
+<!ENTITY WrapPhysical.value "Fizic">
 <!ENTITY WrapVirtual.value "Virtual">
 

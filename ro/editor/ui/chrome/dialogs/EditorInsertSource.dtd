@@ -1,7 +1,6 @@
 <!--
 # Translator(s):
 #
-# Alexandru Szasz <alexxed@gmail.com>
 # nicubunu <nicubunu@gmail.com>
 # janimo <jani@ubuntu.com>
 #
@@ -51,13 +50,13 @@
 
 <!-- Window title -->
 <!ENTITY windowTitle.label "Inserare HTML">
-<!ENTITY sourceEditField.label "Introduceți etichete HTML și text:">
+<!ENTITY sourceEditField.label "Introduceți tag-uri HTML și text:">
 <!ENTITY example.label "Exemplu:">
 <!-- LOCALIZATION NOTE (exampleOpenTag.label): DONT_TRANSLATE: they are text for HTML tagnames: "<i>" and "</i>" -->
 <!ENTITY exampleOpenTag.label "&lt;i&gt;">
 <!-- LOCALIZATION NOTE (exampleCloseTag.label): DONT_TRANSLATE: they are text for HTML tagnames: "<i>" and "</i>" -->
 <!ENTITY exampleCloseTag.label "&lt;/i&gt;">
 <!ENTITY exampleText.label "Salutare lume!">
-<!ENTITY insertButton.label "Introduceți">
+<!ENTITY insertButton.label "Inserează">
 <!ENTITY insertButton.accesskey "I">
 

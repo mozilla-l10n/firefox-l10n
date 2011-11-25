@@ -1,7 +1,6 @@
 <!--
 # Translator(s):
 #
-# secarica <orice@secarica.ro>
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
@@ -51,15 +50,15 @@
 
 <!ENTITY composition.caption    "Afișează următoarele butoane în bara de redactare:">
 
-<!ENTITY new.label              "Creează">
+<!ENTITY new.label              "Nouă">
 <!ENTITY open.label             "Deschide">
 <!ENTITY save.label             "Salvează">
 <!ENTITY publish.label          "Publică">
 <!ENTITY preview.label          "Răsfoiește">
-<!ENTITY cut.label              "Decupează">
+<!ENTITY cut.label              "Taie">
 <!ENTITY copy.label             "Copiază">
-<!ENTITY paste.label            "Inserează">
-<!ENTITY print.label            "Tipărește">
+<!ENTITY paste.label            "Lipește">
+<!ENTITY print.label            "Imprimă">
 <!ENTITY find.label             "Caută">
 <!ENTITY image.label            "imagine">
 <!ENTITY hline.label            "Linie">

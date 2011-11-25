@@ -49,9 +49,9 @@
 
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Acroșează la grilă">
+<!ENTITY windowTitle.label "Aliniază la grilă">
 
-<!ENTITY enableSnapToGrid.label "activează alinierea la grilă">
+<!ENTITY enableSnapToGrid.label "Activează Snap to Grid">
 <!ENTITY enableSnapToGrid.accessKey "a">
 
 <!ENTITY sizeEditField.label "Mărime:">

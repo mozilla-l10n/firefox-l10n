@@ -118,7 +118,7 @@
 <!ENTITY otherActionsPrint1.accesskey "p">
 
 <!-- Attachment context menu items -->
-<!ENTITY openAttachmentCmd.label    "Deschis">
+<!ENTITY openAttachmentCmd.label    "Deschide">
 <!ENTITY openAttachmentCmd.accesskey    "D">
 <!ENTITY saveAsAttachmentCmd.label    "Salvează ca…">
 <!ENTITY saveAsAttachmentCmd.accesskey    "a">
