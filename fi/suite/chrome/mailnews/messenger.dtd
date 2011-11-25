@@ -208,7 +208,7 @@
 <!ENTITY sortThreaded.accesskey "j">
 <!ENTITY sortUnthreaded.label "Yksittäin">
 <!ENTITY sortUnthreaded.accesskey "Y">
-<!ENTITY groupBySort.label "Lajin mukaan ryhmiteltynä">
+<!ENTITY groupBySort.label "Ryhmiteltynä">
 <!ENTITY groupBySort.accesskey "m">
 <!ENTITY msgsMenu.label "Viestit">
 <!ENTITY msgsMenu.accesskey "V">
@@ -257,7 +257,7 @@
 <!ENTITY viewFeedSummaryFeedPropsPref.label "Oletusmuoto">
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "O">
 
-<!ENTITY viewAttachmentsInlineCmd.label "Näytä liitteet viestiin sisällytettynä">
+<!ENTITY viewAttachmentsInlineCmd.label "Näytä liitteet osana viestiä">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "l">
 <!ENTITY reloadCmd.label "Päivitä">
 <!ENTITY reloadCmd.accesskey "ä">
