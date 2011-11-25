@@ -24,6 +24,9 @@
 <!ENTITY netInterrupt.title "Veri aktarma hatası">
 <!ENTITY netInterrupt.longDesc "<p>Tarayıcı başarıyla bağlantı kurmasına karşın veri aktarımı sırasında kesinti meydana geldi. Lütfen yeniden deneyin.</p><ul><li>Diğer siteleri de açamıyor olabilirsiniz. Bilgisayarınızın ağ bağlantısını gözden geçirin.</li><li>Hâlâ sorun yaşıyorsanız ağ yöneticinize ya da internet servis sağlayıcınıza başvurun.</li></ul>">
 
+<!ENTITY notCached.title "Belge zaman aşımına uğradı">
+<!ENTITY notCached.longDesc "<p>The requested document is not available in the browser's cache.</p><ul><li>As a security precaution, the browser does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
+
 <!ENTITY netOffline.title "Çevrim dışı bağlantı hatası">
 <!ENTITY netOffline.longDesc2 "<p>Tarayıcı şu an çevrim dışı kipte ve istenen öğeye bağlanamaz.</p><ul><li>Bilgisayarınız etkin bir ağ bağlantısına sahip mi?</li><li>Tarayıcıyı çevrim içi hâle getirdikten sonra sayfayı açmayı yeniden deneyin.</li></ul>">
 
@@ -84,6 +87,7 @@
 <!ENTITY remoteXUL.longDesc "<ul> 
 <li>Lütfen site sahipleriyle iletişim kurup onları bu sorundan haberdar edin.</li> 
 </ul>">
+
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
      this inclusion needs to be intact for that approach to work correctly.

@@ -50,3 +50,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomReduceBtn.accesskey    "b">
 <!ENTITY fullZoomEnlargeBtn.label       "Yazı boyutunu büyüt">
 <!ENTITY fullZoomEnlargeBtn.accesskey   "u">
+

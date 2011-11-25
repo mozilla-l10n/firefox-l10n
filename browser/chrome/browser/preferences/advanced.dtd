@@ -59,12 +59,12 @@
 <!ENTITY updateTab.label                 "Güncelle">
 
 <!ENTITY updateApp.label                 "&brandShortName; güncellemeleri:">
-<!ENTITY updateAuto.label                "Automatically install updates (recommended: improved security)">
-<!ENTITY updateAuto.accesskey            "A">
-<!ENTITY updateCheck.label               "Check for updates, but let me choose whether to install them">
-<!ENTITY updateCheck.accesskey           "C">
-<!ENTITY updateManual.label              "Never check for updates (not recommended: security risk)">
-<!ENTITY updateManual.accesskey          "N">
+<!ENTITY updateAuto.label                "Güncellemeleri otomatik olarak kur (önerilir: artırılmış güvenlik)">
+<!ENTITY updateAuto.accesskey            "o">
+<!ENTITY updateCheck.label               "Güncellemeleri denetle, ama kurma konusunda kararı bana bırak">
+<!ENTITY updateCheck.accesskey           "d">
+<!ENTITY updateManual.label              "Güncellemeleri hiçbir zaman denetleme (önerilmez: güvenlik riski)">
+<!ENTITY updateManual.accesskey          "h">
 
 <!ENTITY updateAutoAddonWarn.label       "Bu işlem, eklentilerimden birini devre dışı bırakacaksa beni uyar">
 <!ENTITY updateAutoAddonWarn.accesskey   "m">
@@ -72,10 +72,10 @@
 <!ENTITY updateHistory.label             "Güncelleme geçmişini göster">
 <!ENTITY updateHistory.accesskey         "G">
 
-<!ENTITY useService.label                "Use a background service to install updates">
-<!ENTITY useService.accesskey            "b">
+<!ENTITY useService.label                "Güncellemeleri kurmak için arka plan hizmetini kullan">
+<!ENTITY useService.accesskey            "h">
 
-<!ENTITY updateOthers.label              "Automatically update:">
+<!ENTITY updateOthers.label              "Otomatik güncelle:">
 <!ENTITY enableAddonsUpdate3.label       "Eklentiler">
 <!ENTITY enableAddonsUpdate3.accesskey   "E">
 <!ENTITY enableSearchUpdate.label        "Arama motorları">
