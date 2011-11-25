@@ -69,7 +69,7 @@
 <!ENTITY copyCmd.accesskey                              "C">
 <!ENTITY pasteCmd.label                                 "Inserează">
 <!ENTITY pasteCmd.key                                   "v">
-<!ENTITY pasteCmd.accesskey                             "I">
+<!ENTITY pasteCmd.accesskey                             "z">
 <!ENTITY deleteCmd.label                                "Șterge">
 <!ENTITY deleteCmd.accesskey                            "t">
 <!ENTITY deleteAbCmd.label                              "Șterge agenda de contacte">
@@ -104,18 +104,18 @@
 <!ENTITY showTaskbarCmd.accesskey                       "s">
 <!ENTITY customizeToolbar.label                         "Personalizează…">
 <!ENTITY customizeToolbar.accesskey                     "P">
-<!ENTITY layoutMenu.label                               "Layout">
-<!ENTITY layoutMenu.accesskey                           "L">
-<!ENTITY showDirectoryPane.label                        "Directory Pane">
-<!ENTITY showDirectoryPane.accesskey                    "D">
-<!ENTITY showContactPane2.label                         "Contact Pane">
-<!ENTITY showContactPane2.accesskey                     "C">
+<!ENTITY layoutMenu.label                               "Aranjare">
+<!ENTITY layoutMenu.accesskey                           "r">
+<!ENTITY showDirectoryPane.label                        "Panoul cu agenda">
+<!ENTITY showDirectoryPane.accesskey                    "g">
+<!ENTITY showContactPane2.label                         "Panoul cu contacte">
+<!ENTITY showContactPane2.accesskey                     "c">
 <!ENTITY menu_ShowNameAs.label                          "Afișează numele în forma">
 <!ENTITY menu_ShowNameAs.accesskey                      "n"> 
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
 <!ENTITY firstLastCmd2.label                            "First Last">
-<!ENTITY firstLastCmd2.accesskey                        "f"> 
+<!ENTITY firstLastCmd2.accesskey                        "F"> 
 <!ENTITY lastFirstCmd.label                             "Nume, Prenume">
 <!ENTITY lastFirstCmd.accesskey                         "N">
 <!ENTITY displayNameCmd.label                           "Nume de afișat">
