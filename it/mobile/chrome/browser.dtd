@@ -86,7 +86,7 @@
 <!ENTITY contextShareVideo.label "Condividi video">
 <!ENTITY contextPlayMedia.label "Riproduci">
 <!ENTITY contextPauseMedia.label "Pausa">
-<!ENTITY contextFullScreen.label "A tutto schermo">
+<!ENTITY contextFullScreen.label "Schermo intero">
 <!ENTITY contextEditBookmark.label "Modifica">
 <!ENTITY contextRemoveBookmark.label "Elimina">
 <!ENTITY contextShortcutBookmark.label "Aggiungi alla schermata iniziale">

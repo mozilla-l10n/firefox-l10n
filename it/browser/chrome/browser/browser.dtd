@@ -56,8 +56,8 @@
 <!ENTITY pageInfoCmd.label "Informazioni sulla pagina">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY fullScreenCmd.label "A tutto schermo">
-<!ENTITY fullScreenCmd.accesskey "u">
+<!ENTITY fullScreenCmd.label "Schermo intero">
+<!ENTITY fullScreenCmd.accesskey "S">
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Visualizza tutte le schede">
 <!ENTITY showAllTabsCmd.accesskey "h">
@@ -66,9 +66,9 @@
 <!ENTITY fullScreenClose.tooltip "Chiudi">
 <!ENTITY fullScreenAutohide.label "Nascondi barre degli strumenti">
 <!ENTITY fullScreenAutohide.accesskey "N">
-<!ENTITY fullScreenExit.label "Ritorna a schermo normale">
-<!ENTITY fullScreenExit.accesskey "R">
-<!ENTITY domFullScreenWarning.label "Premere ESC per uscire dalla modalità a schermo intero">
+<!ENTITY fullScreenExit.label "Abbandona schermo intero">
+<!ENTITY fullScreenExit.accesskey "A">
+<!ENTITY domFullScreenWarning.label "Premere ESC per abbandonare la modalità schermo intero">
 <!ENTITY closeWindow.label "Chiudi finestra">
 <!ENTITY closeWindow.accesskey "d">
 <!ENTITY bookmarksMenu.label "Segnalibri">
@@ -342,8 +342,8 @@
 <!ENTITY mediaShowControls.accesskey "c">
 <!ENTITY mediaHideControls.label "Nascondi controlli">
 <!ENTITY mediaHideControls.accesskey "c">
-<!ENTITY videoFullScreen.label "A tutto schermo">
-<!ENTITY videoFullScreen.accesskey "u">
+<!ENTITY videoFullScreen.label "Schermo intero">
+<!ENTITY videoFullScreen.accesskey "m">
 <!ENTITY videoSaveImage.label "Salva fotogramma come…">
 <!ENTITY videoSaveImage.accesskey "f">
 <!ENTITY videoShowStats.label "Visualizza statistiche">
