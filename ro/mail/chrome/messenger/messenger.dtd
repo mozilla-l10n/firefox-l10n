@@ -158,8 +158,8 @@
 <!ENTITY messagePaneWide.accesskey "V">
 <!ENTITY messagePaneVertical.label "Vedere verticală">
 <!ENTITY messagePaneVertical.accesskey "V">
-<!ENTITY showFolderPaneCmd.label "Folder Pane">
-<!ENTITY showFolderPaneCmd.accesskey "F">
+<!ENTITY showFolderPaneCmd.label "Panoul cu dosare">
+<!ENTITY showFolderPaneCmd.accesskey "d">
 <!ENTITY showMessageCmd.label "Panoul de mesaj">
 <!ENTITY showMessageCmd.accesskey "m">
 

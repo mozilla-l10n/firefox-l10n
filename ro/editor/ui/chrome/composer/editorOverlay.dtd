@@ -66,10 +66,10 @@
 <!ENTITY pasteNoFormatting.label "Lipește fără formatare">
 <!ENTITY pasteNoFormatting.accesskey "i">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Lipește ca">
+<!ENTITY pasteAs.label "Inserează ca">
 <!ENTITY pasteAs.accesskey "a">
 <!ENTITY pasteAsQuotationCmd.label "Lipește ca citat">
-<!ENTITY pasteAsQuotationCmd.accesskey "L">
+<!ENTITY pasteAsQuotationCmd.accesskey "z">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Caută și înlocuiește…">
 <!ENTITY enableInlineSpellChecker.label "Corectare ortografică în timpul tastării">
@@ -199,7 +199,7 @@
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Elimină ancorele cu nume">
 <!ENTITY formatRemoveNamedAnchors.accesskey "l">
-<!ENTITY formatRemoveNamedAnchors2.key "R">
+<!ENTITY formatRemoveNamedAnchors2.key "E">
 
 <!ENTITY paragraphMenu.label "Paragraf">
 <!ENTITY paragraphMenu.accesskey "P">
@@ -352,8 +352,8 @@
 <!ENTITY cutToolbarCmd.tooltip "Decupează">
 <!ENTITY copyToolbarCmd.tooltip "Copiați">
 <!ENTITY pasteToolbarCmd.tooltip "Inserează">
-<!ENTITY printToolbarCmd.label "Imprimă">
-<!ENTITY printToolbarCmd.tooltip "Imprimă această pagină">
+<!ENTITY printToolbarCmd.label "Tipărește">
+<!ENTITY printToolbarCmd.tooltip "Tipărește această pagină">
 <!ENTITY findToolbarCmd.label "Caută">
 <!ENTITY findToolbarCmd.tooltip "Caută text în pagină">
 <!ENTITY spellToolbarCmd.label "Ortografie">

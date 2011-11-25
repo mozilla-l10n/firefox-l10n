@@ -135,7 +135,7 @@
 <!ENTITY deleteAllAttachmentsCmd.label    "Șterge toate anexele…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
 
-<!ENTITY openAttachment.tooltip "Open the attached file">
+<!ENTITY openAttachment.tooltip "Deschide fișierul anexat">
 
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Salvează">

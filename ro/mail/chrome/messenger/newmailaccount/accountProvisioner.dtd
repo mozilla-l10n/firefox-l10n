@@ -10,43 +10,43 @@
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
-<!ENTITY window.title "Welcome to &brandShortName;">
+<!ENTITY window.title "Bun venit la &brandShortName;">
 <!ENTITY header.label "Vreți o adresă nouă de email pentru &brandShortName;?">
-<!ENTITY other.languages "We are only displaying the providers offering addresses in your area.  Click here to show all providers.">
-<!ENTITY error.line1 "Sorry, we could not find any suggested email addresses.">
-<!ENTITY error.line2 "You try can search for nicknames or any other term to find more emails">
+<!ENTITY other.languages "Afișăm doar furnizorii care oferă adrese în zona dumneavoastră. Clic aici pentru a afișa toți furnizorii.">
+<!ENTITY error.line1 "Ne pare rău, nu am putut găsi nicio sugestie de adresă de email.">
+<!ENTITY error.line2 "Puteți încerca să căutați după pseudonime sau orice alt termen pentru a găsi mai multe emailuri">
 
 <!-- LOCALIZATION NOTE(error.suggest.before, error.suggest.middle, error.suggest.after):
      error.suggest.before, error.suggest.middle, and error.suggest.after all go into
      one line with error.suggest.middle that links to a site which provides download
      of free account alternatives. -->
-<!ENTITY error.suggest.before "Also you might try one of the ">
-<!ENTITY error.suggest.middle "free email account alternatives">
+<!ENTITY error.suggest.before "Puteți încerca și una dintre">
+<!ENTITY error.suggest.middle "alternativele de conturi gratuite de email">
 <!ENTITY error.suggest.after ".">
 
 <!-- LOCALIZATION NOTE(success.title.before, success.title.after):
      success.title.before and success.title.after all go into one line, wrapping
      around the name that the user has typed in to the search input. -->
-<!ENTITY success.title.before "Hello ">
-<!ENTITY success.title.after ", the following email addresses are available to you:">
-<!ENTITY success.tip "(You can also search for nicknames or any other term to find more emails)">
+<!ENTITY success.title.before "Salut ">
+<!ENTITY success.title.after ", următoarele adrese de email vă sunt disponibile:">
+<!ENTITY success.tip "(Puteți căuta și pseudonime sau orice alt termen pentru a găsi mai multe emailuri)">
 <!ENTITY partnership.description "În parteneriat cu diverși furnizori, &brandShortName; poate să vă ofere un cont nou de email. Completați numele și prenumele sau orice alte cuvinte doriți în câmpurile de mai jos pentru a începe.">
-<!ENTITY existing.header "Already have an address you want to use?">
-<!ENTITY tinyheader.title "Got an address?">
-<!ENTITY tinyheader.existing "Skip this and use my existing email">
-<!ENTITY content.close "I think I’ll configure my account later.">
-<!ENTITY successful.title "Congratulations!">
-<!ENTITY successful.successMessage "You have successfully set up your account.">
-<!ENTITY successful.write "Write some email">
-<!ENTITY successful.write.desc "Let your friends and family know about your new address.<br/> That’s why you got this new account, isn’t it?">
-<!ENTITY successful.customize "Customize &brandShortName; with some cool add-ons">
-<!ENTITY successful.customize.desc "There are thousands of add-ons that let you customize &brandShortName; to make it fit your specific needs.">
-<!ENTITY successful.attach "Attach a personal signature to my email">
-<!ENTITY successful.attach.desc "You can automatically attach a quote or some information about yourself to the end of every message you send.">
-<!ENTITY successful.close "Close this window.">
-<!ENTITY input.namePlaceholder "Your name, or nickname">
-<!ENTITY input.search "Search">
-<!ENTITY search_engine.title "Customize your search engine">
-<!ENTITY search_engine.message "Your email provider can also provide you with web search capabilities.">
-<!ENTITY search_engine.button "Finish">
+<!ENTITY existing.header "Aveți deja o adresă pe care doriți să o folosiți?">
+<!ENTITY tinyheader.title "Aveți o adresă?">
+<!ENTITY tinyheader.existing "Sări peste și folosește adresa mea de email">
+<!ENTITY content.close "Cred că îmi voi configura contul mai târziu.">
+<!ENTITY successful.title "Felicitări!">
+<!ENTITY successful.successMessage "V-ați setat contul cu succes.">
+<!ENTITY successful.write "Scrieți niște mesaje">
+<!ENTITY successful.write.desc "Spuneți-le prietenilor și familiei despre noua dumneavoastră adresă.<br/> Doar de aceea v-ați făcut un cont nou, nu ?">
+<!ENTITY successful.customize "Personalizați &brandShortName; cu niște suplimente interesante">
+<!ENTITY successful.customize.desc "Sunt mii de suplimente ce vă permit să personalizați &brandShortName; pentru a-l face mai potrivit pentru nevoi specifice.">
+<!ENTITY successful.attach "Adaugă o semnătură personală mesajelor mele">
+<!ENTITY successful.attach.desc "Puteți adăuga automat un citat sau informații despre dumneavoastră la sfârșitul fiecărui mesaj pe care-l trimiteți.">
+<!ENTITY successful.close "Închideți fereastra.">
+<!ENTITY input.namePlaceholder "Numele dumneavoastră, sau pseudonimul">
+<!ENTITY input.search "Caută">
+<!ENTITY search_engine.title "Alegeți motorul de căutare">
+<!ENTITY search_engine.message "Furnizorul dumneavoastră de email poate oferi și căutare pe web.">
+<!ENTITY search_engine.button "Finalizează">
 

@@ -76,7 +76,7 @@
 <!ENTITY redoCmd.label "Restaurează">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "R"> 
-<!ENTITY cutCmd.label "Taie">
+<!ENTITY cutCmd.label "Decupează">
 <!ENTITY cutCmd.key "X">
 <!ENTITY cutCmd.accesskey "T"> 
 <!ENTITY copyCmd.label "Copiază">
@@ -84,7 +84,7 @@
 <!ENTITY copyCmd.accesskey "C"> 
 <!ENTITY pasteCmd.label "Inserează">
 <!ENTITY pasteCmd.key "v">
-<!ENTITY pasteCmd.accesskey "I">
+<!ENTITY pasteCmd.accesskey "z">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.label "Înfășoară rândurile">
@@ -217,7 +217,7 @@
 <!ENTITY attachButton.tooltip "Anexează un fișier la acest mesaj"> 
 <!ENTITY spellingButton.tooltip "Verifică ortografia pentru zona selectată sau pentru întregul mesaj">
 <!ENTITY saveButton.tooltip "Salvează acest mesaj"> 
-<!ENTITY cutButton.tooltip              "Taie">
+<!ENTITY cutButton.tooltip              "Decupează">
 <!ENTITY copyButton.tooltip             "Copiază">
 <!ENTITY pasteButton.tooltip            "Inserează">
 
@@ -266,14 +266,14 @@
 <!ENTITY spellCheckAddToDictionary.accesskey "n">
 <!ENTITY undo.label "Desfă">
 <!ENTITY undo.accesskey "D">
-<!ENTITY cut.label "Taie">
+<!ENTITY cut.label "Decupează">
 <!ENTITY cut.accesskey "T">
 <!ENTITY copy.label "Copiază">
 <!ENTITY copy.accesskey "C">
 <!ENTITY paste.label "Inserează">
-<!ENTITY paste.accesskey "I">
-<!ENTITY pasteQuote.label "Lipește ca citat">
-<!ENTITY pasteQuote.accesskey "p">
+<!ENTITY paste.accesskey "z">
+<!ENTITY pasteQuote.label "Inserează ca citat">
+<!ENTITY pasteQuote.accesskey "r">
 
 <!ENTITY openAttachment.label "Deschide">
 <!ENTITY openAttachment.accesskey "D">
