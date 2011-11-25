@@ -1,7 +1,6 @@
 <!--
 # Translator(s):
 #
-# mirceade <mirceade@yahoo.com>
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
@@ -66,7 +65,7 @@
 <!ENTITY InputSettings.label "Setările câmpului">
 <!ENTITY InputName.label "Nume câmp:">
 <!ENTITY InputName.accesskey "N">
-<!ENTITY GroupName.label "Nume grup:">
+<!ENTITY GroupName.label "Numele grupului:">
 <!ENTITY GroupName.accesskey "N">
 <!ENTITY InputValue.label "Valoare câmp:">
 <!ENTITY InputValue.accesskey "V">
@@ -74,11 +73,11 @@
 <!ENTITY InitialValue.accesskey "V">
 <!ENTITY InputChecked.label "Inițial bifat">
 <!ENTITY InputChecked.accesskey "b">
-<!ENTITY InputSelected.label "Inițial selectat">
+<!ENTITY InputSelected.label "Inițial selectată">
 <!ENTITY InputSelected.accesskey "s">
-<!ENTITY InputReadOnly.label "Doar-citire">
+<!ENTITY InputReadOnly.label "Doar _citire">
 <!ENTITY InputReadOnly.accesskey "D">
-<!ENTITY InputDisabled.label "Inactiv">
+<!ENTITY InputDisabled.label "Inactivat">
 <!ENTITY InputDisabled.accesskey "I">
 <!ENTITY tabIndex.label "Index tab:">
 <!ENTITY tabIndex.accesskey "t">

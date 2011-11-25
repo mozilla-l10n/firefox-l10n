@@ -1,8 +1,8 @@
 <!--
 # Translator(s):
 #
-# Laudatti <Laudatti@gmail.com>
 # Alexandru Szasz <alexxed@gmail.com>
+# Laudatti <Laudatti@gmail.com>
 #
 -->
 <!--
@@ -49,7 +49,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Verificare ortografică">
+<!ENTITY windowTitle.label "Verificați ortografie">
 
 <!ENTITY misspelledWord.label "Cuvânt greșit:">
 <!ENTITY wordEditField.label "Înlocuiește cu:">

@@ -1,3 +1,9 @@
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 
 <!ENTITY Inspector.title "DOM Inspector">
 
@@ -34,7 +40,7 @@
 <!ENTITY mnEdit.accesskey "E">
   <!ENTITY cmdUndo.label "Undo">
   <!ENTITY cmdUndo.accesskey "U">
-  <!ENTITY cmdRedo.label "Redo">
+  <!ENTITY cmdRedo.label "Refă">
   <!ENTITY cmdRedo.accesskey "R">
   <!ENTITY cmdCut.label "Cut">
   <!ENTITY cmdCut.accesskey "t">
@@ -61,3 +67,4 @@
 
 <!ENTITY saveCmd.key "S">
 <!ENTITY closeCmd.key "W">
+

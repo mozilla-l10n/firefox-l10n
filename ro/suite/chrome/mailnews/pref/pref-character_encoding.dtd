@@ -61,3 +61,4 @@
 <!ENTITY sendDefaultCharset.accesskey    "C">
 <!ENTITY replyInDefaultCharset2.label    "When possible, use this default character encoding in replies. (When unchecked, only new messages use this default.)">
 <!ENTITY replyInDefaultCharset2.accesskey "W">
+
