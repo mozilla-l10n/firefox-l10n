@@ -335,13 +335,13 @@
 <!ENTITY mediaPause.label "Приостановить">
 <!ENTITY mediaPause.accesskey "с">
 <!ENTITY mediaMute.label "Убрать звук">
-<!ENTITY mediaMute.accesskey "б">
+<!ENTITY mediaMute.accesskey "т">
 <!ENTITY mediaUnmute.label "Восстановить звук">
 <!ENTITY mediaUnmute.accesskey "т">
 <!ENTITY mediaShowControls.label "Показать пульт управления">
-<!ENTITY mediaShowControls.accesskey "а">
+<!ENTITY mediaShowControls.accesskey "п">
 <!ENTITY mediaHideControls.label "Скрыть пульт управления">
-<!ENTITY mediaHideControls.accesskey "к">
+<!ENTITY mediaHideControls.accesskey "п">
 <!ENTITY videoFullScreen.label "Полный экран">
 <!ENTITY videoFullScreen.accesskey "л">
 <!ENTITY videoSaveImage.label "Сохранить кадр как…">
