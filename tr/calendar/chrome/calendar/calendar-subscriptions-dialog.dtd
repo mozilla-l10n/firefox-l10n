@@ -34,13 +34,14 @@
    -
    - ***** END LICENSE BLOCK *****
 -->
-<!-- Calendar Subscriptions Dialog -->
 
-<!ENTITY calendar.subscriptions.dialog.title "Takvim aboneliği">
-<!ENTITY calendar.subscriptions.dialog.search.label.value "Bunu içeren takvimleri göster:">
-<!ENTITY calendar.subscriptions.dialog.search.button.label "Ara">
-<!ENTITY calendar.subscriptions.dialog.select.label.value "Abone olacağınız takvimleri seçin:">
-<!ENTITY calendar.subscriptions.dialog.subscribe.button.label "Abone ol">
-<!ENTITY calendar.subscriptions.dialog.unsubscribe.button.label "Abonelikten çık">
-<!ENTITY calendar.subscriptions.dialog.statusmessage.busy.label "Aranıyor…">
-<!ENTITY calendar.subscriptions.dialog.statusmessage.nomatches.label "Hiçbir eşleşme bulunamadı.">
+<!-- Calendar Subscriptions Dialog -->
+<!ENTITY calendar.subscriptions.dialog.title                            "Takvim aboneliği">
+<!ENTITY calendar.subscriptions.dialog.search.label.value               "Bunu içeren takvimleri göster:">
+<!ENTITY calendar.subscriptions.dialog.search.button.label              "Ara">
+<!ENTITY calendar.subscriptions.dialog.select.label.value               "Abone olacağınız takvimleri seçin:">
+<!ENTITY calendar.subscriptions.dialog.subscribe.button.label           "Abone ol">
+<!ENTITY calendar.subscriptions.dialog.unsubscribe.button.label         "Abonelikten çık">
+<!ENTITY calendar.subscriptions.dialog.statusmessage.busy.label         "Aranıyor…">
+<!ENTITY calendar.subscriptions.dialog.statusmessage.nomatches.label    "Hiçbir eşleşme bulunamadı.">
+

@@ -36,27 +36,23 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY aboutDialog.title "&brandFullName; hakkında">
-<!ENTITY copyright.label "Destekleyenler">
-<!ENTITY copyright.accesskey "D">
-<!ENTITY aboutLink.label "&lt; &brandFullName; hakkında">
-<!ENTITY aboutLink.accesskey "k">
-<!ENTITY aboutVersion "sürüm">
-<!ENTITY copyrightText "&#169;1998-2010 katkıda bulunanlar. Bütün 
+<!ENTITY aboutDialog.title      "&brandFullName; hakkında">
+<!ENTITY copyright.label        "Destekleyenler">
+<!ENTITY copyright.accesskey    "D">
+<!ENTITY aboutLink.label        "&lt; &brandFullName; hakkında">
+<!ENTITY aboutLink.accesskey    "k">
+<!ENTITY aboutVersion           "sürüm">
+<!ENTITY copyrightText          "&#169;1998-2010 katkıda bulunanlar. Bütün 
 hakları saklıdır. Mozilla Sunbird, Sunbird 
 ve Sunbird logosu, Mozilla Vakfı'nın ticari 
 markalarıdır. Bütün hakları saklıdır.  ">
 
-<!ENTITY brandMotto "Zaman her şeydir!">
-<!ENTITY credit.thanks "Özel olarak teşekkür ettiklerimiz">
-<!-- localization credits look like this: -->
-<!--
-<!ENTITY credit.translation
-  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+<!ENTITY brandMotto       "Zaman her şeydir!">
+<!ENTITY credit.thanks    "Özel olarak teşekkür ettiklerimiz">
 -->
+<!ENTITY credit.translation "<h3>Çevirmenler</h3><ul><li>Mozilla Türkiye Ekibi (http://www.mozilla.org.tr)</li></ul>  ">
 
-<!ENTITY credit.translation "<h3>Çevirenler</h3><ul><li>Erkan Kaplan</li><li>Ahmet Serkan Tıratacı</li><li>Rail Aliev</li></ul>">
+<!ENTITY credit.powered     "Gücünün kaynağı">
+<!ENTITY license.and        "ve">
+<!ENTITY cmdClose.macKey  "W">
 
-<!ENTITY credit.powered "Gücünün kaynağı">
-<!ENTITY license.and "ve">
-<!ENTITY cmdClose.macKey "W">

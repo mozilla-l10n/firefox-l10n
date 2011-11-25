@@ -33,21 +33,22 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY wizard.title "Yeni bir takvim oluştur">
-<!ENTITY wizard.label "Yeni bir takvim oluştur">
-<!ENTITY wizard.description "Takvim konumunu seçin">
+<!ENTITY wizard.title             "Yeni bir takvim oluştur" >
+<!ENTITY wizard.label             "Yeni bir takvim oluştur" >
+<!ENTITY wizard.description       "Takvim konumunu seçin" >
 
-<!ENTITY initialpage.description "Takviminizi bilgisayarınızda yerel olarak kaydedebilirsiniz veya erişim hakkınız olan bir sunucuya gönderebilir ve arkadaşlarınız ile paylaşabilirsiniz">
-<!ENTITY initialpage.computer.label "Kendi bilgisayarımda">
-<!ENTITY initialpage.network.label "Ağ üzerinde">
+<!ENTITY initialpage.description    "Takviminizi bilgisayarınızda yerel olarak kaydedebilirsiniz veya erişim hakkınız olan bir sunucuya gönderebilir ve arkadaşlarınız ile paylaşabilirsiniz" >
+<!ENTITY initialpage.computer.label  "Kendi bilgisayarımda">
+<!ENTITY initialpage.network.label  "Ağ üzerinde">
 
-<!ENTITY locationpage.description "Provide info about what is needed to access your remote calendar">
-<!ENTITY locationpage.login.description "Seçmeli: Bir kullanıcı ve parola giriniz">
-<!ENTITY locationpage.username.label "Kullanıcı:">
-<!ENTITY locationpage.password.label "Parola:">
+<!ENTITY locationpage.description         "Uzaktaki takviminize ulaşmak için gerekli bilgileri sağlayın" >
+<!ENTITY locationpage.login.description   "Seçmeli: Bir kullanıcı ve parola giriniz" >
+<!ENTITY locationpage.username.label      "Kullanıcı:" >
+<!ENTITY locationpage.password.label      "Parola:" >
 
-<!ENTITY custompage.shortdescription "Takviminizi özelleştirir">
-<!ENTITY custompage.longdescription "Takviminize bir takma isim verebilir ve görevlerinizi takvim içinde reklendirebilirsiniz">
+<!ENTITY custompage.shortdescription  "Takviminizi özelleştirir" >
+<!ENTITY custompage.longdescription   "Takviminize bir takma isim verebilir ve görevlerinizi takvim içinde reklendirebilirsiniz" >
 
-<!ENTITY finishpage.shortdescription "Takvim oluşturuldu">
-<!ENTITY finishpage.longdescription "Takviminiz oluşturuldu">
+<!ENTITY finishpage.shortdescription  "Takvim oluşturuldu" >
+<!ENTITY finishpage.longdescription   "Takviminiz oluşturuldu" >
+

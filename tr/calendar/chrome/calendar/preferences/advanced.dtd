@@ -35,26 +35,26 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!-- WARNING! This file contains UTF-8 encoded characters!
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
-
 <!ENTITY pref.calendar.advanced.generalTab.label "Genel">
-<!ENTITY pref.calendar.advanced.passwordsTab.label "Parola">
+<!ENTITY pref.calendar.advanced.passwordsTab.label "Parolalar">
 <!ENTITY pref.calendar.advanced.updateTab.label "Güncelle">
-<!ENTITY pref.calendar.advanced.encryptionTab.label "Encryption">
-<!-- General -->
+<!ENTITY pref.calendar.advanced.encryptionTab.label "Șifreleme">
 
-<!ENTITY pref.calendar.advanced.showConnections.label "Bağlantı ayarları…">
+<!-- General -->
+<!ENTITY pref.calendar.advanced.showConnections.label     "Bağlantı ayarları…">
 <!ENTITY pref.calendar.advanced.showConnections.accesskey "a">
-<!ENTITY pref.calendar.advanced.proxiesInfo.label "&brandShortName; uygulamasının internete nasıl bağlanacağını ayarlayın">
+<!ENTITY pref.calendar.advanced.proxiesInfo.label         "&brandShortName; uygulamasının internete nasıl bağlanacağını ayarlayın">
 <!ENTITY pref.calendar.advanced.configEdit.caption "Gelişmiş ayarlar">
 <!ENTITY pref.calendar.advanced.configEdit.button "Ayarları Düzenle…">
 <!ENTITY pref.calendar.advanced.configEdit.accesskey "Y">
-<!-- Passwords -->
 
+<!-- Passwords -->
 <!ENTITY pref.calendar.advanced.savedPasswords.intro "&brandShortName; uygulaması şifrelerinizi saklayabilir. Bu sayede şifrenizi tekrar girmenize gerek kalmaz.">
 <!ENTITY pref.calendar.advanced.useMasterPassword.label "Kayıtlı parolaları şifrelemek için ana parola kullan">
 <!ENTITY pref.calendar.advanced.useMasterPassword.accesskey "p">
@@ -63,8 +63,8 @@
 <!ENTITY pref.calendar.advanced.changeMasterPassword.accesskey "n">
 <!ENTITY pref.calendar.advanced.viewPasswords.label "Kayıtlı parolaları göster…">
 <!ENTITY pref.calendar.advanced.viewPasswords.accesskey "y">
-<!-- Update -->
 
+<!-- Update -->
 <!ENTITY pref.calendar.advanced.update.autoCheck.label "Bunların güncellemelerine kendiliğinden bak:">
 <!ENTITY pref.calendar.advanced.update.enableAppUpdate.label "&brandShortName;">
 <!ENTITY pref.calendar.advanced.update.enableAppUpdate.accesskey "r">
@@ -79,9 +79,9 @@
 <!ENTITY pref.calendar.advanced.update.modeAutoWarn.accesskey "H">
 <!ENTITY pref.calendar.advanced.update.showHistory.label "Güncelleme geçmişini göster…">
 <!ENTITY pref.calendar.advanced.update.showHistory.accesskey "c">
-<!-- Encryption -->
 
-<!ENTITY pref.calendar.advanced.encryption.protocols.label "Protocols">
+<!-- Encryption -->
+<!ENTITY pref.calendar.advanced.encryption.protocols.label "İletişim Kuralları">
 <!ENTITY pref.calendar.advanced.encryption.useSSL3.label "SSL 3.0 kullan">
 <!ENTITY pref.calendar.advanced.encryption.useSSL3.accesskey "3">
 <!ENTITY pref.calendar.advanced.encryption.useTLS1.label "TLS 1.0 kullan">
@@ -100,3 +100,4 @@
 <!ENTITY pref.calendar.advanced.encryption.verify2.accesskey "D">
 <!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.label "Güvenlik Aygıtları">
 <!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.accesskey "G">
+

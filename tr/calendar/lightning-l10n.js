@@ -11,11 +11,11 @@
 # for the specific language governing rights and limitations under the
 # License.
 #
-# The Original Code is Mozilla Calendar code.
+# The Original Code is the Firefox browser.
 #
 # The Initial Developer of the Original Code is
-#   Marc Zahnlecker <m.zahnlecker@googlemail.com>
-# Portions created by the Initial Developer are Copyright (C) 2009
+# Benjamin Smedberg <bsmedberg@covad.net>
+# Portions created by the Initial Developer are Copyright (C) 2004
 # the Initial Developer. All Rights Reserved.
 #
 # Contributor(s):
@@ -34,9 +34,22 @@
 #
 # ***** END LICENSE BLOCK *****
 
-event.attendee.role.required = Gerekli katılımcı
-event.attendee.role.optional = İsteğe bağlı katılımcı
-event.attendee.role.nonparticipant = Katılımcı değil
-event.attendee.role.chair = Başkan
-event.attendee.role.unknown = Bilinmeyen katılımcı (%1S)
+#filter substitution
 
+# the default day to start the week on
+#0=Sunday 1=Monday 2=Tuesday 3=Wednesday 4=Thursday 5=Friday 6=Saturday
+pref("calendar.week.start", 0);
+
+# default days off (not in work week)
+pref("calendar.week.d0sundaysoff", true);
+pref("calendar.week.d1mondaysoff", false);
+pref("calendar.week.d2tuesdaysoff", false);
+pref("calendar.week.d3wednesdaysoff", false);
+pref("calendar.week.d4thursdaysoff", false);
+pref("calendar.week.d5fridaysoff", false);
+pref("calendar.week.d6saturdaysoff", true);
+
+pref("general.useragent.locale", "@AB_CD@");
+
+# categories
+pref("calendar.categories.names", "Anniversary,Birthday,Business,Calls,Clients,Competition,Customer,Favorites,Follow up,Gifts,Holidays,Ideas,Issues,Meeting,Miscellaneous,Personal,Projects,Public Holiday,Status,Suppliers,Travel,Vacation");
