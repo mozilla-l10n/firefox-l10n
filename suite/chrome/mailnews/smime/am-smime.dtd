@@ -1,13 +1,13 @@
 <!ENTITY securityTitle.label "Suojaus">
 <!ENTITY securityTab.label "Suojaus">
-<!ENTITY securityHeading.label "Jos haluat lähettää tai vastaanottaa allekirjoitettuja tai salattuja viestejä, sinun tulee määrittää varmenne sekä allekirjoittamista että salaamista varten.">
+<!ENTITY securityHeading.label "Jotta voisit lähettää ja vastaanottaa allekirjoitettuja tai salattuja viestejä, sinun tulee määrittää varmenteet sekä allekirjoittamista että salaamista varten.">
 <!ENTITY encryptionGroupTitle.label "Salaus">
 <!ENTITY encryptionChoiceLabel.label "Salauksen oletusasetukset viestejä lähetettäessä:">
 <!ENTITY neverEncrypt.label "Ei koskaan (älä käytä salausta)">
 <!ENTITY neverEncrypt.accesskey "E">
 <!ENTITY alwaysEncryptMessage.label "Vaadittu (viestiä ei voi lähettää, ellei kaikilla vastaanottajilla ole varmennetta)">
 <!ENTITY alwaysEncryptMessage.accesskey "d">
-<!ENTITY encryptionCert.message "Käytä tätä varmennetta lähettämiesi viestien salaamiseen sekä sinulle tulleiden viestien salauksen purkamiseen:">
+<!ENTITY encryptionCert.message "Sinulle lähetetyt viestit salataan ja avataan tällä avaimella:">
 <!ENTITY digitalSign.certificate.button "Valitse…">
 <!ENTITY digitalSign.certificate.accesskey "V">
 <!ENTITY digitalSign.certificate_clear.button "Tyhjennä">
@@ -19,7 +19,7 @@
 <!ENTITY signingGroupTitle.label "Digitaalinen allekirjoittaminen">
 <!ENTITY signMessage.label "Allekirjoita viestit digitaalisesti (oletusarvoisesti)">
 <!ENTITY signMessage.accesskey "k">
-<!ENTITY signingCert.message "Allekirjoita lähettämäsi viestit digitaalisesti tällä varmenteella:">
+<!ENTITY signingCert.message "Lähettämäsi viestit allekirjoitetaan digitaalisesti tällä avaimella:">
 
 <!ENTITY certificates.label "Varmenteet">
 <!ENTITY manageCerts.label "Varmenteiden hallinta">
