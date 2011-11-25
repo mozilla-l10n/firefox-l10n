@@ -40,8 +40,8 @@
 
 <!ENTITY allowScripts.label "อนุญาตให้ใช้สคริปต์ :">
 
-<!ENTITY moveResizeWindows.label "เลื่อนหรือเปลี่ยนขนาดหน้าต่าง">
-<!ENTITY moveResizeWindows.accesskey "ล">
+<!ENTITY moveResizePopupWindows.label     "ย้ายหรือเปลี่ยนขนาดหน้าต่างป๊อปอัป">
+<!ENTITY moveResizePopupWindows.accesskey "ย">
 <!ENTITY raiseLowerWindows.label "ดึงหน้าต่างขึ้นหรือดันลง">
 <!ENTITY raiseLowerWindows.accesskey "ด">
 <!ENTITY disableContextMenus.label "ปิดการใช้งานคอนเทกซ์เมนู">
