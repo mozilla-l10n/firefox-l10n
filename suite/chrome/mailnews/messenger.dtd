@@ -368,21 +368,8 @@
 <!ENTITY tagMenu.accesskey "g">
 <!ENTITY tagCustomize.label "Anpassen…">
 <!ENTITY tagCustomize.accesskey "A">
-<!ENTITY tagCmd0.key "0">
-<!ENTITY tagCmd1.key "1">
-<!ENTITY tagCmd2.key "2">
-<!ENTITY tagCmd3.key "3">
-<!ENTITY tagCmd4.key "4">
-<!ENTITY tagCmd5.key "5">
-<!ENTITY tagCmd6.key "6">
-<!ENTITY tagCmd7.key "7">
-<!ENTITY tagCmd8.key "8">
-<!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Markieren">
 <!ENTITY markMenu.accesskey "M">
-<!ENTITY markAsReadCmd.label "Als gelesen">
-<!ENTITY markAsReadCmd.accesskey "A">
-<!ENTITY markAsReadCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "Thread als gelesen">
 <!ENTITY markThreadAsReadCmd.accesskey "T">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -392,9 +379,6 @@
 <!ENTITY markAllReadCmd.label "Alles als gelesen">
 <!ENTITY markAllReadCmd.accesskey "A">
 <!ENTITY markAllReadCmd.key "c">
-<!ENTITY markFlaggedCmd.label "Kennzeichnung">
-<!ENTITY markFlaggedCmd.accesskey "k">
-<!ENTITY markFlaggedCmd.key "i">
 <!ENTITY markAsJunkCmd.label "Als Junk">
 <!ENTITY markAsJunkCmd.accesskey "A">
 <!ENTITY markAsJunkCmd.key "j">
@@ -409,9 +393,6 @@
 <!ENTITY markAsNotPhishCmd.label "Als kein Scam">
 <!ENTITY markAsNotPhishCmd.accesskey "A">
 <!ENTITY markAsNotPhishCmd.key "p">
-<!ENTITY openMessageWindowCmd.label "Nachricht öffnen">
-<!ENTITY openMessageWindowCmd.accesskey "N">
-<!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY openFeedMessage.label "Feed-Artikel öffnen als">
 <!ENTITY openFeedMessage.accesskey "ö">
 <!ENTITY openFeedWebPageInWindow.label "Webseite in neuem Fenster">

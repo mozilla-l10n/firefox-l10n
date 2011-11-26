@@ -44,8 +44,7 @@
 <!ENTITY setup.newRecoveryKeyPage.description.label "Um den kompletten Schutz Ihrer Daten zu gewährleisten, werden alle Daten verschlüsselt, bevor Sie hochgeladen werden. Der Wiederherstellungs-Schlüssel, um Ihre Daten zu entschlüsseln, wird nicht hochgeladen.">
 <!ENTITY recoveryKeyEntry.label        "Ihr Wiederherstellungs-Schlüssel">
 <!ENTITY recoveryKeyEntry.accesskey    "S">
-<!ENTITY recoveryKeyGenerate.label     "Generieren">
-<!ENTITY recoveryKeyGenerate.accesskey "G">
+<!ENTITY recoveryGenerateNewKey.label  "Einen neuen Schlüssel erstellen">
 <!ENTITY recoveryKeyBackup.description "Sie benötigen den Wiederherstellungs-Schlüssel, um auf anderen Geräten auf &syncBrand.fullName.label; zuzugreifen. Bitte hinterlegen Sie eine Sicherheitskopie des Schlüssels. Wir können Ihnen nicht dabei helfen, den Wiederherstellungs-Schlüssel wiederzuerlangen.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Drucken…">
