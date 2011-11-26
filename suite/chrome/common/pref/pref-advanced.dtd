@@ -9,3 +9,7 @@
 <!ENTITY prefCheckDefault.caption   "Systemintegrasjon">
 <!ENTITY prefCheckDefaultClient.label "Kontroller standardprogram-innstillinger ved oppstart">
 <!ENTITY prefCheckDefaultClient.accesskey "K">
+
+<!ENTITY crashReports.caption       "Krasjrapportering">
+<!ENTITY submitCrashes.label        "Send krasjrapporter">
+<!ENTITY submitCrashes.accesskey    "S">
