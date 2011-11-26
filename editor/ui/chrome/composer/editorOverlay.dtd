@@ -63,12 +63,12 @@
 <!ENTITY saveCmd.key "S">
 
 <!-- Edit menu items -->
-<!ENTITY pasteNoFormatting.label "Lipește fără formatare">
+<!ENTITY pasteNoFormatting.label "Inserează fără formatare">
 <!ENTITY pasteNoFormatting.accesskey "i">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Inserează ca">
 <!ENTITY pasteAs.accesskey "a">
-<!ENTITY pasteAsQuotationCmd.label "Lipește ca citat">
+<!ENTITY pasteAsQuotationCmd.label "Inserează ca citat">
 <!ENTITY pasteAsQuotationCmd.accesskey "z">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Caută și înlocuiește…">
@@ -79,8 +79,8 @@
 <!ENTITY checkSpellingCmd2.key "o">
 
 <!-- Insert menu items -->
-<!ENTITY insertMenu.label "Inserare">
-<!ENTITY insertMenu.accesskey "I">
+<!ENTITY insertMenu.label "Inserează">
+<!ENTITY insertMenu.accesskey "z">
 <!ENTITY insertLinkCmd.label "Legătură…">
 <!ENTITY insertLinkCmd.accesskey "L">
 <!ENTITY insertLinkCmd.key "L">
@@ -288,13 +288,13 @@
 <!ENTITY tableSelectMenu2.label "Selectează în tabel">
 <!ENTITY tableSelectMenu2.accesskey "S">
 <!ENTITY tableInsertMenu2.label "Inserează în tabel">
-<!ENTITY tableInsertMenu2.accesskey "I">
+<!ENTITY tableInsertMenu2.accesskey "z">
 <!ENTITY tableDeleteMenu2.label "Șterge din tabel">
 <!ENTITY tableDeleteMenu2.accesskey "t">
 
 <!-- Insert SubMenu -->
-<!ENTITY tableInsertMenu.label "Inserare">
-<!ENTITY tableInsertMenu.accesskey "I">
+<!ENTITY tableInsertMenu.label "Inserează">
+<!ENTITY tableInsertMenu.accesskey "z">
 <!ENTITY tableTable.label "Tabel">
 <!ENTITY tableTable.accesskey "T">
 <!ENTITY tableRow.label "Rând">
@@ -350,7 +350,7 @@
 <!ENTITY saveToolbarCmd.tooltip "Salvează local fișierul">
 <!ENTITY publishToolbarCmd.tooltip "Încarcă fișierul într-o locație la distanță">
 <!ENTITY cutToolbarCmd.tooltip "Decupează">
-<!ENTITY copyToolbarCmd.tooltip "Copiați">
+<!ENTITY copyToolbarCmd.tooltip "Copiază">
 <!ENTITY pasteToolbarCmd.tooltip "Inserează">
 <!ENTITY printToolbarCmd.label "Tipărește">
 <!ENTITY printToolbarCmd.tooltip "Tipărește această pagină">
@@ -400,7 +400,7 @@
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Inserează">
-<!ENTITY insertTOC.accesskey      "I">
+<!ENTITY insertTOC.accesskey      "z">
 <!ENTITY updateTOC.label          "Actualizează">
 <!ENTITY updateTOC.accesskey      "A">
 <!ENTITY removeTOC.label          "Elimină">
