@@ -49,9 +49,9 @@
 <!ENTITY resetToolbars.accesskey      "T">
 
 <!ENTITY deleteBookmarks.label        "Slett alle bokmerker med unntak av sikkerhetskopier">
-<!ENTITY deleteBookmarks.accesskey    "t">
+<!ENTITY deleteBookmarks.accesskey    "e">
 
-<!ENTITY resetUserPrefs.label         "Tilbakestill alle brukerinnstillinger til &brandShortName;s standard">
+<!ENTITY resetUserPrefs.label         "Tilbakestill alle innstillinger til &brandShortName; sine standardverdier">
 <!ENTITY resetUserPrefs.accesskey     "a">
 
 <!ENTITY restoreSearch.label          "Tilbakestill standard søkemotor">
