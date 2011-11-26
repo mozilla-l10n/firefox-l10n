@@ -1,10 +1,26 @@
-<!ENTITY playButton.playLabel "Esita">
-<!ENTITY playButton.pauseLabel "Paus">
-<!ENTITY muteButton.muteLabel "Summutatud">
-<!ENTITY muteButton.unmuteLabel "Summutus maha">
+<!ENTITY playButton.playLabel     "Esita">
+<!ENTITY playButton.pauseLabel    "Paus">
+<!ENTITY muteButton.muteLabel     "Summutatud">
+<!ENTITY muteButton.unmuteLabel   "Summutus maha">
+
+<!ENTITY stats.media              "Meedia">
+<!ENTITY stats.size               "Suurus">
+<!ENTITY stats.activity           "Aktiivsus">
+<!ENTITY stats.activityPaused     "Pausil">
+<!ENTITY stats.activityPlaying    "Esitamisel">
+<!ENTITY stats.activityEnded      "Lõppenud">
+<!ENTITY stats.activitySeeking    "(otsimine)">
+<!ENTITY stats.volume             "Helitugevus">
+<!ENTITY stats.channels           "Kanalid">
+<!ENTITY stats.sampleRate         "Diskreetimissagedus">
+<!ENTITY stats.framesParsed       "Parsitud kaadreid">
+<!ENTITY stats.framesDecoded      "Dekodeeritud kaadreid">
+<!ENTITY stats.framesPresented    "Esitatavaid kaadreid">
+<!ENTITY stats.framesPainted      "Esitatud kaadreid">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
-"6:00:00", result string would be "5:00 of 6:00:00 elapsed". -->
-<!ENTITY scrubberScale.nameFormat "#1 of #2 elapsed">
+"6:00:00", result string would be "5:00 of 6:00:00 elapsed".
+-->
+<!ENTITY scrubberScale.nameFormat "#1 - #2">

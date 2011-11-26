@@ -26,6 +26,9 @@ muidu kasutatakse <em>muul</em> otstarbel kui veebilehitsemine. Veebilehitseja k
 <!ENTITY netInterrupt.title "Andmete edastamine katkes">
 <!ENTITY netInterrupt.longDesc "<p>Veebilehitsejal õnnestus edukalt ühenduda, kuid ühendust segati keset andmete edastamist.  Palun proovi uuesti.</p><ul><li>Kas ka teiste lehtede vaatamine ei õnnestu? Kontrolli arvuti võrguühendust.</li><li>Endiselt probleemid? Konsulteeri oma võrguadministraatoriga või interneti teenusepakkujaga.</li></ul>">
 
+<!ENTITY notCached.title "Dokument aegus">
+<!ENTITY notCached.longDesc "<p>Nõutud dokument pole brauseri vahemälus saadaval.</p><ul><li>Turvalisuse ettevaatusabinõuna ei laadi brauser tundliku infoga dokumente automaatselt uuesti.</li><li>Klõpsa Proovi uuesti, et hankida dokumendi sisu veebilehelt uuesti.</li></ul>">
+
 <!ENTITY netOffline.title "Võrguta režiim">
 <!ENTITY netOffline.longDesc2 "<p>Veebilehitseja on võrguta režiimis ega saa soovitud aadressiga ühenduda.</p><ul><li>Kas arvuti võrguühendus on aktiivne?</li><li>Vajuta &quot;Proovi uuesti&quot;, et lülituda võrgurežiimi ning laadida leht uuesti.</li></ul>">
 
