@@ -21,6 +21,7 @@
 <!ENTITY aboutSupport.appBasicsBuildConfig "Build-Konfiguration">
 <!ENTITY aboutSupport.appBasicsUserAgent "User-Agent">
 <!ENTITY aboutSupport.appBasicsCrashIDs "Absturzberichte">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Speicherverwendung">
 
 <!ENTITY aboutSupport.show.label "Ordner anzeigen">
 
