@@ -34,17 +34,18 @@
  the terms of any one of the MPL, the GPL or the LGPL.
 
  ***** END LICENSE BLOCK ***** -->
-<!-- LOCALIZATION NOTE (window.title) : do not translate "LDAP" in below line -->
 
-<!ENTITY pref.ldap.window.title "LDAP Dizin Sunucuları">
+<!-- LOCALIZATION NOTE (window.title) : do not translate "LDAP" in below line -->
+<!ENTITY pref.ldap.window.title    "LDAP Directory Servers">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
-<!ENTITY directories.label "LDAP Dizin Sunucusu:">
+<!ENTITY directories.label         "LDAP Dizin Sunucusu:">
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
-<!ENTITY directoriesText.label "Bir LDAP dizin sunucusu seçin:">
+<!ENTITY directoriesText.label     "Bir LDAP dizin sunucusu seçin:">
 <!ENTITY directoriesText.accesskey "B">
-<!ENTITY addDirectory.label "Ekle">
-<!ENTITY addDirectory.accesskey "E">
-<!ENTITY editDirectory.label "Düzenle">
-<!ENTITY editDirectory.accesskey "z">
-<!ENTITY deleteDirectory.label "Sil">
+<!ENTITY addDirectory.label        "Ekle">
+<!ENTITY addDirectory.accesskey    "E">
+<!ENTITY editDirectory.label       "Düzenle">
+<!ENTITY editDirectory.accesskey   "z">
+<!ENTITY deleteDirectory.label     "Sil">
 <!ENTITY deleteDirectory.accesskey "S">
+

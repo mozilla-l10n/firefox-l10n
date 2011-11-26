@@ -34,10 +34,10 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
+
 <!-- Window title -->
-
-
-<!ENTITY windowTitle.label "Yatay Satır Özellikleri">
+<!ENTITY windowTitle.label "Horizontal Line Properties">
 
 <!ENTITY dimensionsBox.label "Boyutlar">
 <!ENTITY heightEditField.label "Yükseklik:">
@@ -58,3 +58,4 @@
 <!ENTITY saveSettings.label "Öntanımlı olarak kullan">
 <!ENTITY saveSettings.accessKey "n">
 <!ENTITY saveSettings.tooltip "Yeni yatay satırlar eklemede kullanmak için bu ayarları kaydet">
+

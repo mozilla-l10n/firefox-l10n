@@ -35,9 +35,10 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!-- Window title -->
 
-<!ENTITY windowTitle.label "İmge ve Bağlantı yerlerini kontrol et">
-<!ENTITY succeeded.label "Başarılı">
-<!ENTITY failed.label "Hatalı">
-<!ENTITY closeButton.label "Kapat">
+<!-- Window title -->
+<!ENTITY windowTitle.label     "Resim ve bağlantı konumlarını denetle">
+<!ENTITY succeeded.label       "Başarılı">
+<!ENTITY failed.label          "Hatalı">
+<!ENTITY closeButton.label     "Kapat">
+

@@ -1,7 +1,7 @@
 <!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
 
 <!ENTITY viewPicker.label "Göster:">
-<!ENTITY viewPicker.accesskey "r">
+<!ENTITY viewPicker.accesskey "G">
 <!ENTITY viewAll.label "Hepsini">
 <!ENTITY viewAll.accesskey "e">
 <!ENTITY viewUnread.label "Okunmayanları">
@@ -16,3 +16,4 @@
 <!ENTITY viewVirtualFolder.accesskey "G">
 <!ENTITY viewCustomizeView.label "Özelleştir…">
 <!ENTITY viewCustomizeView.accesskey "l">
+

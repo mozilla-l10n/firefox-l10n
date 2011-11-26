@@ -31,8 +31,9 @@
 
 <!ENTITY manageIdentities.label "Kimlikleri yönet…">
 <!ENTITY manageIdentities.accesskey "m">
-<!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
 
+<!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
 <!ENTITY smtpName.label "Gönderme sunucusu (SMTP):">
 <!ENTITY smtpName.accesskey "u">
 <!ENTITY smtpDefaultServer.label "Varsayılan sunucuyu kullan">
+

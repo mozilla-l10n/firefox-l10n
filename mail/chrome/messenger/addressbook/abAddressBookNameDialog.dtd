@@ -34,7 +34,8 @@
  the terms of any one of the MPL, the GPL or the LGPL.
 
  ***** END LICENSE BLOCK ***** -->
-<!-- Labels -->
 
-<!ENTITY name.label "Adres defterinin adı:">
-<!ENTITY name.accesskey "A">
+<!-- Labels -->
+<!ENTITY name.label      "Adres defterinin adı:">
+<!ENTITY name.accesskey  "A">
+

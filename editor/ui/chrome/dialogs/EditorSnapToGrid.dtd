@@ -34,9 +34,9 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
+
 <!-- Window title -->
-
-
 <!ENTITY windowTitle.label "Izgaralara yerleştir">
 
 <!ENTITY enableSnapToGrid.label "Izgara arasına eklemeyi etkinleştir">
@@ -46,3 +46,4 @@
 <!ENTITY sizeEditField.accessKey "B">
 
 <!ENTITY pixelsLabel.value "piksel">
+

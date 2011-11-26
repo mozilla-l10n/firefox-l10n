@@ -35,23 +35,24 @@
  the terms of any one of the MPL, the GPL or the LGPL.
 
  ***** END LICENSE BLOCK ***** -->
+
 <!-- Title -->
-
-<!ENTITY mailListWindow.title "Posta listesi">
+<!ENTITY mailListWindow.title           "Posta listesi">
 <!-- Labels -->
-<!ENTITY addToAddressBook.label "Buraya ekle: ">
+<!ENTITY addToAddressBook.label         "Buraya ekle: ">
 
-<!ENTITY ListName.label "Liste adı: ">
-<!ENTITY ListNickName.label "Liste takma adı: ">
-<!ENTITY ListDescription.label "Tanımlama: ">
+<!ENTITY ListName.label                 "Liste Adı:">
+<!ENTITY ListNickName.label             "Liste takma adı:">
+<!ENTITY ListDescription.label          "Açıklama: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label "Aşağıda posta listesine isimleri yazın veya adresleri sürükleyin:">
-<!ENTITY UpButton.label "Yukarıya">
-<!ENTITY DownButton.label "Aşağıya">
-<!-- Access Keys -->
+<!ENTITY AddressTitle.label             "Posta listesine eklemek istediğiniz e-posta adreslerini yazın:">
+<!ENTITY UpButton.label                 "Yukarıya taşı">
+<!ENTITY DownButton.label               "Aşağıya taşı">
 
-<!ENTITY addToAddressBook.accesskey "B">
-<!ENTITY ListName.accesskey "a">
-<!ENTITY ListNickName.accesskey "L">
-<!ENTITY ListDescription.accesskey "T">
+<!-- Access Keys -->
+<!ENTITY addToAddressBook.accesskey     "B">
+<!ENTITY ListName.accesskey             "L">
+<!ENTITY ListNickName.accesskey         "t">
+<!ENTITY ListDescription.accesskey      "k">
+
 

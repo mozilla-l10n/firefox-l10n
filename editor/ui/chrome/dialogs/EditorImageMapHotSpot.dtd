@@ -36,23 +36,24 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!-- Window title -->
 
+<!ENTITY windowTitle.label "Hotspot Properties">
 
-<!ENTITY windowTitle.label "Önemli nokta özellikleri">
+<!ENTITY link.label				"Sıcaknokta Bağlantısı">
+<!ENTITY urlFieldset.label		"Sıcaknokta URL:">
+<!ENTITY altFieldset.label		"Sıcaknokta Alt Metni:">
+<!ENTITY browseButton.label		"Gözat…">
+<!ENTITY targetFieldset.label	"Hedef Ayar">
+<!ENTITY target.label			"Sıcaknokta Hedefi">
 
-<!ENTITY link.label "Sıcaknokta Bağlantısı">
-<!ENTITY urlFieldset.label "Sıcaknokta URL:">
-<!ENTITY altFieldset.label "Sıcaknokta Alt Metni:">
-<!ENTITY browseButton.label "Gözat…">
-<!ENTITY targetFieldset.label "Hedef Ayar">
-<!ENTITY target.label "Sıcaknokta Hedefi">
 <!-- Targets -->
+<!ENTITY commonFieldset.label	"Ortak Hedefler:">
+<!ENTITY none.value				"(hiçbiri)">
+<!ENTITY same.value				"Aynı Çerçeve">
+<!ENTITY whole.value			"Tüm sayfa">
+<!ENTITY new.value				"Yeni Pencere">
+<!ENTITY parent.value			"Ana çerçeve">
 
-<!ENTITY commonFieldset.label "Ortak Hedefler:">
-<!ENTITY none.value "(hiçbiri)">
-<!ENTITY same.value "Aynı Çerçeve">
-<!ENTITY whole.value "Tüm sayfa">
-<!ENTITY new.value "Yeni Pencere">
-<!ENTITY parent.value "Ana çerçeve">
 

@@ -34,8 +34,8 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!-- Window title -->
 
+<!-- Window title -->
 <!ENTITY windowTitle.label "Sayfa özellikleri">
 <!ENTITY location.label "Konum:">
 <!ENTITY lastModified.label "Son Güncelleme:">
@@ -48,3 +48,4 @@
 <!ENTITY locationNewPage.label "[Yeni sayfa, henüz kaydedilmedi]">
 <!ENTITY EditHEADSource1.label "Gelişmiş kullanıcılar:">
 <!ENTITY EditHEADSource2.label "&lt;Başlık&gt;  bölümünün içeriğini düzenlemek için, &quot;HTML Kaynak kodunu&quot; Düzenle menüsü veya  Araç çubuğu Düzenleme kipini kullanın.">
+

@@ -34,8 +34,8 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!-- Window title -->
 
+<!-- Window title -->
 <!ENTITY windowTitle.label "HTML ekle">
 <!ENTITY sourceEditField.label "HTML kesmeleri ve metni gir:">
 <!ENTITY example.label "Örnek: ">
@@ -46,3 +46,4 @@
 <!ENTITY exampleText.label "Merhaba Dünya!">
 <!ENTITY insertButton.label "İçine koy">
 <!ENTITY insertButton.accesskey "k">
+

@@ -34,7 +34,8 @@
  the terms of any one of the MPL, the GPL or the LGPL.
 
  ***** END LICENSE BLOCK ***** -->
-<!-- Labels -->
 
-<!ENTITY newfolderchoosethis.label "Bunu ana için seçiniz">
-<!ENTITY filemessageschoosethis.label "Bu dizini seçin">
+<!-- Labels -->
+<!ENTITY newfolderchoosethis.label      "choose this for the parent">
+<!ENTITY filemessageschoosethis.label   "Bu dizini seçin">
+

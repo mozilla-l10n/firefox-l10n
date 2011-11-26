@@ -34,8 +34,8 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!-- Window title -->
 
+<!-- Window title -->
 <!ENTITY windowTitle.label "Tablo ekle">
 
 <!ENTITY size.label "Boyut">
@@ -49,3 +49,4 @@
 <!ENTITY borderEditField.accessKey "K">
 <!ENTITY borderEditField.tooltip "Tablonun kenarı için bir numara yaz, veya Tablo kenarı olmaması için sıfır (0) yaz">
 <!ENTITY pixels.label "piksel">
+

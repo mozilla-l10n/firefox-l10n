@@ -34,8 +34,8 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!-- Window title -->
 
+<!-- Window title -->
 <!ENTITY windowTitle.label "Sayfa renkleri ve zemini">
 <!ENTITY pageColors.label "Sayfa renkleri">
 <!ENTITY defaultColorsRadio.label "Okuyucunun öntanımlı renkleri (Sayfadaki renkleri ayarlama)">
@@ -59,3 +59,4 @@
 <!ENTITY backgroundImage.label "Arkaplan resmi:">
 <!ENTITY backgroundImage.accessKey "k">
 <!ENTITY backgroundImage.tooltip "Bir görüntü dosyasını sayfanızda zemin gibi kullanın">
+

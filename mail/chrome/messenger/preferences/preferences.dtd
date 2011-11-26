@@ -1,12 +1,13 @@
-<!ENTITY prefWindow.titleWin "Seçenekler">
-<!ENTITY prefWindow.titleGNOME "&brandShortName; tercihleri">
-<!ENTITY prefWindow.styleWindows "width: 48em; min-height: 38.5em;">
-<!ENTITY prefWindow.styleMac "width: 47em;">
-<!ENTITY prefWindow.styleGNOME "width: 47em; min-height: 38em;">
+<!ENTITY  prefWindow.titleWin     "Seçenekler">
+<!ENTITY  prefWindow.titleGNOME   "&brandShortName; tercihleri">
+<!ENTITY  prefWindow.styleWindows "width: 48em; min-height: 38.5em;">
+<!ENTITY  prefWindow.styleMac     "width: 47em;">
+<!ENTITY  prefWindow.styleGNOME   "width: 47em; min-height: 38em;">
 
-<!ENTITY paneGeneral.title "Genel">
-<!ENTITY paneDisplay.title "Görünüm">
-<!ENTITY paneComposition.title "Düzenleme">
-<!ENTITY paneAttachments.title "Ekler">
-<!ENTITY paneSecurity.title "Güvenlik">
-<!ENTITY paneAdvanced.title "Gelişmiş">
+<!ENTITY paneGeneral.title        "Genel">
+<!ENTITY paneDisplay.title        "Görünüm">
+<!ENTITY paneComposition.title    "Düzenleme">
+<!ENTITY paneAttachments.title    "Ekler">
+<!ENTITY paneSecurity.title       "Güvenlik">
+<!ENTITY paneAdvanced.title       "Gelişmiş">
+

@@ -34,15 +34,16 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
+
 <!-- Window title -->
-
-
-<!ENTITY windowTitle.label "Tablo olarak çevir">
-<!ENTITY instructions1.label "Düzenleyici, seçim içersindeki herbir paragraf için yeni bir tablo sırası yaratıyor.">
-<!ENTITY instructions2.label "Seçimi kolonlara ayırmak için kullanılan işareti seç:">
-<!ENTITY commaRadio.label "Virgül">
-<!ENTITY spaceRadio.label "Boşluk">
-<!ENTITY otherRadio.label "Diğer işaret:">
+<!ENTITY windowTitle.label "Tabloya dönüştür">
+<!ENTITY instructions1.label   "Düzenleyici, seçim içersindeki herbir paragraf için yeni bir tablo sırası yaratıyor.">
+<!ENTITY instructions2.label   "Seçimi kolonlara ayırmak için kullanılan işareti seç:">
+<!ENTITY commaRadio.label      "Virgül">
+<!ENTITY spaceRadio.label      "Boşluk">
+<!ENTITY otherRadio.label      "Diğer işaret:">
 <!ENTITY deleteCharCheck.label "Ayraç işaretini sil">
-<!ENTITY collapseSpaces.label "Ekstra boşlukları dikkate alma">
+<!ENTITY collapseSpaces.label  "Ekstra boşlukları dikkate alma">
 <!ENTITY collapseSpaces.tooltip "Yakın boşlukları bir ayraç olarak çevir">
+

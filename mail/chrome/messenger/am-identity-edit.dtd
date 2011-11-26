@@ -2,6 +2,7 @@
 <!ENTITY identityTitle.label "Kimlik ayarları">
 <!ENTITY identityListDesc.label "Bu kimlik için ayarları düzenle:">
 
-<!ENTITY settingsTab.label "Ayarlar">
+<!ENTITY settingsTab.label       "Ayarlar">
 <!ENTITY copiesFoldersTab.label "Kopyalar ve dizinler">
-<!ENTITY addressingTab.label "Yazı ve adresler">
+<!ENTITY addressingTab.label    "Yazı ve adresler">
+

@@ -20,7 +20,7 @@
 <!ENTITY otherUsersNamespace.accesskey "i">
 <!ENTITY overrideNamespaces.label "Sunucuya bu Namespaces aktarılmasına izin ver">
 <!ENTITY overrideNamespaces.accesskey "N">
-<!ENTITY pop3Desc.label "Bu sunucunun pop3 hesaplarını indirdikten sonra, hesabın yerel dizinndeki 'Gelen' kutusundaki  saklayabilirsiniz.">
+<!ENTITY pop3Desc.label "Bu sunucunun pop3 hesaplarını indirdikten sonra, hesabın yerel dizinndeki 'Gelen' kutusundaki  saklayabilirsiniz." >
 <!ENTITY globalInbox.label "Gelen kutusunda sakla (Yerel gelen kutusu)">
 <!ENTITY globalInbox.accesskey "G">
 <!ENTITY accountDirectory.label "Sunucunun Gelen kutusunda sakla">
@@ -29,3 +29,4 @@
 <!ENTITY deferToServer.accesskey "k">
 <!ENTITY deferGetNewMail.label "Yeni mesajları indirirken sunucudan da indir">
 <!ENTITY deferGetNewMail.accesskey "s">
+

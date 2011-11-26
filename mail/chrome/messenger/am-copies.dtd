@@ -4,8 +4,8 @@
 <!ENTITY sendingPrefix.label "Postaları otomatik gönderirken">
 <!ENTITY fccMailFolder.label "Bir kopyasını buraya koy:">
 <!ENTITY fccMailFolder.accesskey "p">
-<!ENTITY fccReplyFollowsParent.label "Place replies in the folder of the message being replied to">
-<!ENTITY fccReplyFollowsParent.accesskey "R">
+<!ENTITY fccReplyFollowsParent.label "Yanıtları yanıtlanan iletinin dizinine koy">
+<!ENTITY fccReplyFollowsParent.accesskey "r">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
 <!ENTITY ccAddress.label "Bu e-posta adreslerini Cc'ye ekle:">
 <!ENTITY ccAddress.accesskey "C">
@@ -44,3 +44,4 @@
 <!ENTITY templatesFolderOn.accesskey "G">
 <!ENTITY templateInOtherFolder.label "Diğer:">
 <!ENTITY templateInOtherFolder.accesskey "r">
+

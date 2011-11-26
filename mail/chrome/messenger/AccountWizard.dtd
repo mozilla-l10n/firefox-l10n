@@ -2,8 +2,8 @@
 
 <!ENTITY windowTitle.label "Hesap sihirbazı">
 <!ENTITY accountWizard.size "width: 50em; height: 40em;">
-<!-- Entities for Account Type page -->
 
+<!-- Entities for Account Type page -->
 
 <!ENTITY accountSetupInfo2.label "In order to receive messages, you first need to set up an account.">
 <!ENTITY accountTypeTitle.label "Yeni Hesap Ayarları">
@@ -13,13 +13,13 @@
 <!ENTITY accountTypeMail.accesskey "p">
 <!ENTITY accountTypeNews.label "Haber grubu hesabı">
 <!ENTITY accountTypeNews.accesskey "e">
-<!-- Entities for Identity page -->
 
+<!-- Entities for Identity page -->
 
 <!ENTITY identityTitle.label "Kimlik">
 <!ENTITY identityDesc.label "Her hesabın kendi kimliği vardır. Postanızı alan  kişi sizi bu kimlikteki bilgilerden tanır.">
-<!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 
+<!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY fullnameDesc.label "Giden iletiler için &quot;Gönderen&quot; kısmına isminizi giriniz">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
   1, do not translate two of "&quot;"
@@ -31,8 +31,8 @@
 
 <!ENTITY emailLabel.label "E-posta adresi:">
 <!ENTITY emailLabel.accesskey "E">
-<!-- Entities for Server page -->
 
+<!-- Entities for Server page -->
 
 <!ENTITY serverTitle.label "Sunucu Bilgileri">
 <!ENTITY incomingServerTypeDesc.label "Kullandığınız Gelen Posta sunucunun türünü seçin.">
@@ -50,22 +50,22 @@
 <!ENTITY newsServerLabel.accesskey "H">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
-<!ENTITY imapType.accesskey "M">
+<!ENTITY imapType.accesskey "I">
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
 <!ENTITY leaveMsgsOnSrvr.label "E-postaları sunucuda bırak">
 <!ENTITY leaveMsgsOnSrvr.accesskey "p">
+
+
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
 -->
-
-
 <!ENTITY haveSmtp1.prefix "Giden E-posta (SMTP) için mevcut &quot;">
 <!ENTITY haveSmtp1.suffix2 "&quot; sunucusu kullanılacak. Giden posta yapılandırması hesap ayarlarından değiştirilebilir.">
-<!-- Entities for Login page -->
 
+<!-- Entities for Login page -->
 
 <!ENTITY loginTitle.label "Kullanıcı adları">
 <!ENTITY usernameDesc.label "E-posta sunucunuz tarafından sağlanmış kullanıcı isminizi giriniz">
@@ -88,16 +88,16 @@
 -->
 <!ENTITY haveSmtp3.prefix "Giden E-posta (SMTP) için sunucu ismi, &quot;">
 <!ENTITY haveSmtp3.suffix2 "&quot;,  gelen e-posta için sunucu ismi ile aynı. Gelen sunucu için kullanıcı isminiz erişim amaçlı kullanılacak. Giden sunucu ayarlarınızı Posta ve haber grubu hesap ayarları bölümünden ayarlayabilirsiniz.">
-<!-- Entities for Account name page -->
 
+<!-- Entities for Account name page -->
 
 <!ENTITY accnameTitle.label "Hesap adı">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
 <!ENTITY accnameDesc.label "Hesaba uygun bir ad verin (ör. &quot;İş Hesabı&quot;, &quot;Ev Hesabı&quot; veya &quot;Haber Grupları Hesabı&quot;).">
 <!ENTITY accnameLabel.label "Hesap İsmi:">
 <!ENTITY accnameLabel.accesskey "a">
-<!-- Entities for Done (Congratulations) page -->
 
+<!-- Entities for Done (Congratulations) page -->
 
 <!ENTITY completionTitle.label "Tebrikler!">
 <!ENTITY completionText.label "Lütfen aşağıdaki bilgilerin doğruluğunu kontrol edin.">
@@ -112,3 +112,4 @@
 <!ENTITY deferStorage.accesskey "G">
 <!ENTITY clickFinish.label "Hesap sihirbazından çıkmak ve ayarları kaydetmek için Bitir'i tıklayın.">
 <!ENTITY clickFinish.labelMac "Hesap sihirbazınızdan çıkmak ve ayarları kaydetmek için Bitir'i tıklayın.">
+

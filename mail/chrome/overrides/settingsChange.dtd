@@ -1,2 +1,3 @@
-<!ENTITY settingsChangePreferences.label "Bu ayar &brandShortName; tercihler bölümündeki eklentiler sekmesinden değiştirilebilir.">
-<!ENTITY settingsChangeOptions.label "Bu ayar &brandShortName; ayarlar bölümündeki eklentiler sekmesinden değiştirilebilir.">
+<!ENTITY  settingsChangePreferences.label  "Bu ayar &brandShortName; tercihler bölümündeki eklentiler sekmesinden değiştirilebilir.">
+<!ENTITY  settingsChangeOptions.label      "Bu ayar &brandShortName; ayarlar bölümündeki eklentiler sekmesinden değiştirilebilir.">
+

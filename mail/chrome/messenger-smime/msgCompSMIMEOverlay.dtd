@@ -1,6 +1,6 @@
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
-<!ENTITY menu_securityEncryptRequire.label "İletiyi şifrele">
+<!ENTITY menu_securityEncryptRequire.label "Bu iletiyi şifrele">
 <!ENTITY menu_securityEncryptRequire.accesskey "r">
 
 <!ENTITY menu_securitySign.label "Bu iletiye sayısal imza ekle">
@@ -14,3 +14,4 @@
 
 <!ENTITY menu_viewSecurityStatus.label "İleti güvenlik bilgisi">
 <!ENTITY menu_viewSecurityStatus.accesskey "b">
+

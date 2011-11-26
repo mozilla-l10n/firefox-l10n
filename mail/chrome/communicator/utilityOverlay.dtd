@@ -1,59 +1,60 @@
 <!-- these things need to move into utilityOverlay.xul -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
+<!ENTITY fileMenu.label          "Dosya">
+<!ENTITY fileMenu.accesskey        "D">
+<!ENTITY newMenu.label            "Yeni">
+<!ENTITY newMenu.accesskey          "Y">
 
-<!ENTITY fileMenu.label "Dosya">
-<!ENTITY fileMenu.accesskey "D">
-<!ENTITY newMenu.label "Yeni">
-<!ENTITY newMenu.accesskey "Y">
+<!ENTITY editMenu.label          "Düzenle">
+<!ENTITY editMenu.accesskey        "z">
+<!ENTITY undoCmd.label            "Geri al">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "r">
+<!ENTITY redoCmd.label            "Yinele">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "Y">
+<!ENTITY cutCmd.label            "Kes">
+<!ENTITY cutCmd.key              "X">
+<!ENTITY cutCmd.accesskey          "K">
+<!ENTITY copyCmd.label            "Kopyala">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "K">
+<!ENTITY pasteCmd.label            "Yapıştır">
+<!ENTITY pasteCmd.key            "V">
+<!ENTITY pasteCmd.accesskey          "p">
+<!ENTITY deleteCmd.label          "Sil">
+<!ENTITY deleteCmd.accesskey        "S">
+<!ENTITY selectAllCmd.label          "Tümünü seç">
+<!ENTITY selectAllCmd.key          "A">
+<!ENTITY selectAllCmd.accesskey        "n">
+<!ENTITY preferencesCmd.label        "Seçenekler…">
+<!ENTITY preferencesCmd.accesskey      "e">
+<!ENTITY preferencesCmdUnix.label       "Tercihler">
+<!ENTITY preferencesCmdUnix.accesskey     "c">
 
-<!ENTITY editMenu.label "Düzenle">
-<!ENTITY editMenu.accesskey "z">
-<!ENTITY undoCmd.label "Geri al">
-<!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "r">
-<!ENTITY redoCmd.label "Yinele">
-<!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "Y">
-<!ENTITY cutCmd.label "Kes">
-<!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "K">
-<!ENTITY copyCmd.label "Kopyala">
-<!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "K">
-<!ENTITY pasteCmd.label "Yapıştır">
-<!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "p">
-<!ENTITY deleteCmd.label "Sil">
-<!ENTITY deleteCmd.accesskey "S">
-<!ENTITY selectAllCmd.label "Tümünü seç">
-<!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "n">
-<!ENTITY preferencesCmd.label "Seçenekler…">
-<!ENTITY preferencesCmd.accesskey "e">
-<!ENTITY preferencesCmdUnix.label "Tercihler">
-<!ENTITY preferencesCmdUnix.accesskey "c">
+<!ENTITY viewMenu.label          "Görünüm">
+<!ENTITY viewMenu.accesskey        "G">
+<!ENTITY viewToolbarsMenu.label        "Araç çubukları">
+<!ENTITY viewToolbarsMenu.accesskey      "A">
+<!ENTITY showTaskbarCmd.label          "Durum çubuğu">
+<!ENTITY showTaskbarCmd.accesskey        "m">
 
-<!ENTITY viewMenu.label "Görünüm">
-<!ENTITY viewMenu.accesskey "G">
-<!ENTITY viewToolbarsMenu.label "Araç çubukları">
-<!ENTITY viewToolbarsMenu.accesskey "A">
-<!ENTITY showTaskbarCmd.label "Durum çubuğu">
-<!ENTITY showTaskbarCmd.accesskey "m">
+<!ENTITY proxy.label                                    "Vekil sunucu ayaları…">
+<!ENTITY proxy.accesskey                                "c">
 
-<!ENTITY proxy.label "Vekil sunucu ayaları…">
-<!ENTITY proxy.accesskey "c">
+<!ENTITY closeCmd.label      "Kapat">
+<!ENTITY closeCmd.key      "W">
+<!ENTITY closeCmd.accesskey    "K">
 
-<!ENTITY closeCmd.label "Kapat">
-<!ENTITY closeCmd.key "W">
-<!ENTITY closeCmd.accesskey "K">
+<!ENTITY quitApplicationCmd.label  "Çık">
+<!ENTITY quitApplicationCmd.key    "Q">
+<!ENTITY quitApplicationCmd.accesskey  "k">
 
-<!ENTITY quitApplicationCmd.label "Çık">
-<!ENTITY quitApplicationCmd.key "Q">
-<!ENTITY quitApplicationCmd.accesskey "k">
+<!ENTITY quitApplicationCmdUnix.label  "Çık">
+<!ENTITY quitApplicationCmdUnix.accesskey  "k">
 
-<!ENTITY quitApplicationCmdUnix.label "Çık">
-<!ENTITY quitApplicationCmdUnix.accesskey "k">
+<!ENTITY quitApplicationCmdMac.label  "&brandShortName; uygulamasından Çık">
+<!ENTITY quitApplicationCmdMac.accesskey  "k">
 
-<!ENTITY quitApplicationCmdMac.label "&brandShortName; uygulamasından Çık">
-<!ENTITY quitApplicationCmdMac.accesskey "k">

@@ -34,9 +34,9 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
+
 <!-- Window title -->
-
-
 <!ENTITY windowTitle.label "Karakter ekle">
 <!ENTITY category.label "Kategori">
 <!ENTITY letter.label "Harf:">
@@ -50,3 +50,4 @@
 <!ENTITY commonSymbols.label "Genel semboller">
 <!ENTITY insertButton.label "Ekle">
 <!ENTITY closeButton.label "Kapat">
+

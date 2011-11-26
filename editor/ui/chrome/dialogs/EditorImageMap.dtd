@@ -36,22 +36,22 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!-- These strings are for use specifically in the editor's image map dialog. -->
+
 <!-- Window title -->
-
-
 <!ENTITY windowTitle.label "Görüntü Haritası Editörü">
+
 <!-- Menu Items -->
 <!-- File menu -->
-
 <!ENTITY mapfileMenu.label "Dosya">
 <!ENTITY mapfileMenu.accesskey "D">
 <!ENTITY clearCmd.label "Temizle">
 <!ENTITY clearCmd.accesskey "T">
 <!ENTITY closeCmd.label "Kapat">
 <!ENTITY closeCmd.accesskey "K">
-<!-- Edit menu -->
 
+<!-- Edit menu -->
 <!ENTITY mapeditMenu.label "Düzenle">
 <!ENTITY mapeditMenu.accesskey "z">
 <!ENTITY cutCmd.label "Kes">
@@ -64,8 +64,8 @@
 <!ENTITY selectallCmd.accesskey "a">
 <!ENTITY propsCmd.label "Önemli nokta özellikleri">
 <!ENTITY propsCmd.accesskey "n">
-<!-- View menu -->
 
+<!-- View menu -->
 <!ENTITY mapviewMenu.label "Göster">
 <!ENTITY mapviewMenu.accesskey "G">
 <!ENTITY showhideTbarCmd.label "Araç Çubuğunu Gizle">
@@ -82,8 +82,8 @@
 
 <!ENTITY zoominCmd.label "Yakınlaş">
 <!ENTITY zoomoutCmd.label "Uzaklaş">
-<!-- Keys -->
 
+<!-- Keys -->
 <!ENTITY clear.key "d">
 <!ENTITY selectall.key "a">
 <!ENTITY close.key "l">
@@ -92,3 +92,4 @@
 <!ENTITY paste.key "v">
 <!ENTITY props.key "p">
 <!ENTITY tbar.key "t">
+

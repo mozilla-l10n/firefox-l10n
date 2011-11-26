@@ -1,8 +1,8 @@
 <!ENTITY virtualFolderProperties.title "Yeni kaydolmuş arama dizini">
-<!ENTITY name.label "İsim:">
-<!ENTITY name.accesskey "s">
-<!ENTITY description.label "Buranın alt dizini olarak oluştur:">
-<!ENTITY description.accesskey "d">
+<!ENTITY name.label                 "İsim:">
+<!ENTITY name.accesskey             "s">
+<!ENTITY description.label          "Buranın alt dizini olarak oluştur:">
+<!ENTITY description.accesskey      "d">
 
 <!ENTITY searchTermCaption.label "Arama kriterini bu sanal dizin için ayarla:">
 
@@ -12,7 +12,8 @@
 
 <!ENTITY searchOnline.label "Çevrim içi ara ">
 <!ENTITY searchOnline.accesskey "a">
-<!ENTITY newFolderButton.label "Oluştur">
-<!ENTITY newFolderButton.accesskey "u">
-<!ENTITY editFolderButton.label "Güncelle">
-<!ENTITY editFolderButton.accesskey "G">
+<!ENTITY newFolderButton.label       "Oluştur">
+<!ENTITY newFolderButton.accesskey   "u">
+<!ENTITY editFolderButton.label      "Güncelle">
+<!ENTITY editFolderButton.accesskey  "G">
+

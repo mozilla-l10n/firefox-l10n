@@ -26,4 +26,5 @@
 <!ENTITY choosethisnewsserver.label "bu haber sunucusunu seç">
 <!ENTITY helpButton.label "Yardım">
 <!ENTITY helpButton.accesskey "Y">
-<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.key "W"> 
+
