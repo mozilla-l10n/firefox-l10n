@@ -49,20 +49,13 @@
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
 
-<!ENTITY applyTheme.label "Apply Theme">
-<!ENTITY applyTheme.accesskey "A">
-<!ENTITY getNewThemesCmd.label "Get New Themes">
-<!ENTITY getNewThemesCmd.accesskey "G">
-<!ENTITY getPersonasCmd.label "Get Personas">
-<!ENTITY getPersonasCmd.accesskey "P">
-
 <!-- Go Menu -->
 <!ENTITY goMenu.label "Go">
 <!ENTITY goMenu.accesskey "G">
 <!ENTITY goHomeCmd.label "Home">
 <!ENTITY goHomeCmd.accesskey "H">
 <!ENTITY historyCmd.label "History">
-<!ENTITY historyCmd.accesskey "i">
+<!ENTITY historyCmd.accesskey "s">
 <!ENTITY history.commandKey "h">
 <!ENTITY recentTabs.label "Recently Closed Tabs">
 <!ENTITY recentTabs.accesskey "C">
