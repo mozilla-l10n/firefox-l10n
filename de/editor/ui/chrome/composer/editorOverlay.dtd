@@ -326,12 +326,6 @@
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Menüleiste">
 <!ENTITY formatToolbar.tooltip "Formatierungs-Symbolleiste">
-<!ENTITY newToolbarCmd.label "Neu">
-<!ENTITY newToolbarCmd.tooltip "Neue Composer-Seite erstellen">
-<!ENTITY openToolbarCmd.label "Öffnen">
-<!ENTITY openToolbarCmd.tooltip "Lokale Datei öffnen">
-<!ENTITY saveToolbarCmd.tooltip "Datei an lokaler Adresse speichern">
-<!ENTITY publishToolbarCmd.tooltip "Datei auf externe Adresse hochladen">
 <!ENTITY cutToolbarCmd.tooltip "Ausschneiden">
 <!ENTITY copyToolbarCmd.tooltip "Kopieren">
 <!ENTITY pasteToolbarCmd.tooltip "Einfügen">
