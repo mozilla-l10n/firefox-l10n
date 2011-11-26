@@ -86,9 +86,9 @@
 <!ENTITY WorkPhone.label                "Dienstlich:">
 <!ENTITY WorkPhone.accesskey            "h">
 <!ENTITY HomePhone.label                "Privat:">
-<!ENTITY HomePhone.accesskey            "v">
+<!ENTITY HomePhone.accesskey            "a">
 <!ENTITY FaxNumber.label                "Fax:">
-<!ENTITY FaxNumber.accesskey            "a">
+<!ENTITY FaxNumber.accesskey            "F">
 <!ENTITY PagerNumber.label              "Pager:">
 <!ENTITY PagerNumber.accesskey          "g">
 <!ENTITY CellularNumber.label           "Mobiltelefon:">
