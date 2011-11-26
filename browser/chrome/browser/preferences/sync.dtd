@@ -17,7 +17,7 @@
 <!ENTITY myRecoveryKey.label          "กุญแจกู้ข้อมูลของฉัน">
 <!ENTITY resetSync2.label             "ล้าง Sync…">
 
-<!ENTITY addDevice.label              "เพิ่มอุปกรณ์">
+<!ENTITY pairDevice.label             "เชื่อมโยงอุปกรณ์">
 
 <!ENTITY syncMy.label               "ผสานข้อมูล">
 <!ENTITY engine.bookmarks.label     "ที่คั่นหน้า">

@@ -44,6 +44,9 @@
 <!ENTITY netInterrupt.title "การเชื่อมต่อถูกรบกวน">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!ENTITY notCached.title "เอกสารหมดอายุ">
+<!ENTITY notCached.longDesc "<p>เอกสารที่เรียก ไม่อยู่ในแคชของ &brandShortName;</p><ul><li>ตามมาตรการการรักษาความปลอดภัย &brandShortName; จะไม่เรียกเอกสารที่ละเอียดอ่อนให้ใหม่โดยอัตโนมัติ</li><li>กดลองอีกครั้ง เพื่อเรียกเอกสารจากเว็บไซต์ใหม่</li></ul>">
+
 <!ENTITY netOffline.title "โหมดออฟไลน์">
 <!ENTITY netOffline.longDesc2 "
 <ul>

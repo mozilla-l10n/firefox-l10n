@@ -4,8 +4,7 @@
 
 <!ENTITY setup.pickSetupType.description "ยินดีต้อนรับ ถ้าคุณไม่เคยใช้ &syncBrand.fullName.label; มาก่อน คุณจะต้องสร้างบัญชีผู้ใช้ใหม่เสียก่อน">
 <!ENTITY button.createNewAccount.label "สร้างบัญชีผู้ใช้ใหม่">
-<!ENTITY setup.haveAccount.label "ฉันมีบัญชีผู้ใช้ของ &syncBrand.fullName.label; อยู่แล้ว">
-<!ENTITY button.connect.label    "เชื่อมต่อ">
+<!ENTITY button.haveAccount.label      "ฉันมีบัญชีผู้ใช้แล้ว">
 
 <!ENTITY setup.choicePage.title.label     "คุณเคยใช้ &syncBrand.fullName.label; มาก่อนหรือไม่?">
 <!ENTITY setup.choicePage.new.label       "ฉันไม่เคยใช้ &syncBrand.shortName.label; มาก่อน">
@@ -55,15 +54,13 @@
 <!ENTITY button.syncKeyBackup.save.label      "บันทึก…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "บ">
 
-<!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "โปรดยืนยันว่าคุณเป็นมนุษย์">
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "เพิ่มอุปกรณ์">
+<!ENTITY pairDevice.title.label             "เชื่อมโยงอุปกรณ์">
 <!ENTITY addDevice.showMeHow.label          "บอกฉันว่าทำอย่างไร">
 <!ENTITY addDevice.dontHaveDevice.label     "ฉันไม่มีอุปกรณ์อยู่กับตัว">
-<!ENTITY addDevice.setup.description.label  "เปิดการใช้งาน โดยไปที่ตัวเลือก  &syncBrand.shortName.label; บนอุปกรณ์ของคุณ แล้วเลือก &#x0022;เพิ่มอุปกรณ์&#x0022;">
+<!ENTITY pairDevice.setup.description.label  "เปิดการใช้งานโดยเลือก &#x0022;เชื่อมโยงอุปกรณ์&#x0022; จากอุปกรณ์ของคุณ">
 <!ENTITY addDevice.setup.enterCode.label    "จากนั้น กรอกรหัสนี้:">
-<!ENTITY addDevice.dialog.description.label "เปิดการใช้งานบนอุปกรณ์ใหม่ของคุณ โดยไปที่ตัวเลือก  &syncBrand.shortName.label; บนอุปกรณ์ของคุณ แล้วเลือก &#x0022;เชื่อมต่อ&#x0022;">
+<!ENTITY pairDevice.dialog.description.label "เปิดการใช้งานบนอุปกรณ์ใหม่ของคุณ โดยไปที่ตัวเลือก &#x0022;ติดตั้ง Sync&#x0022; บนอุปกรณ์ของคุณ">
 <!ENTITY addDevice.dialog.enterCode.label   "กรอกรหัสที่ได้จากอุปกรณ์:">
 <!ENTITY addDevice.dialog.tryAgain.label    "โปรดลองอีกครั้ง">
 <!ENTITY addDevice.dialog.successful.label  "เพิ่มอุปกรณ์เรียบร้อยแล้ว การผสานข้อมูลในครั้งแรกอาจใช้เวลาหลายนาที และจะเสร็จสิ้นในการทำงานเบื้องหลัง">
