@@ -21,6 +21,7 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; muss neugestartet werden, damit installierte Plugins funktionieren.">
 
 <!ENTITY missingPlugin                                       "Ein Plugin wird benötigt, um diese Inhalte darzustellen.">
+<!ENTITY clickToPlayPlugin                                   "Tippen Sie hier, um das Plugin zu aktivieren.">
 <!ENTITY disabledPlugin                                      "Dieses Plugin ist deaktiviert.">
 <!ENTITY blockedPlugin.label                                 "Dieses Plugin wurde zu Ihrem Schutz blockiert.">
 
@@ -33,8 +34,8 @@
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "Seite neu laden,">
 <!ENTITY reloadPlugin.post                                   " um es erneut zu versuchen.">
-<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.please                                       "Absturzbericht senden">
+<!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.checkbox                                     "…und einen Absturzbericht senden.">
 <!ENTITY report.submitting                                   "Meldung wird gesendet…">
 <!ENTITY report.submitted                                    "Absturzbericht gesendet.">
 <!ENTITY report.disabled                                     "Melden von Abstürzen deaktiviert.">
