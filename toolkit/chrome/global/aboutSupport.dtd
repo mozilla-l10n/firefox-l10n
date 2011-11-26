@@ -1,4 +1,4 @@
-<!ENTITY aboutSupport.pageTitle "Informasjon for feilsøking">
+<!ENTITY aboutSupport.pageTitle "Feilsøking">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "  Denne siden inneholder teknisk informasjon som kan være nyttig når du
