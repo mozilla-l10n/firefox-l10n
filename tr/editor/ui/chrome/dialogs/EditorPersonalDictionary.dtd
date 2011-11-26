@@ -34,9 +34,9 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!-- Window title -->
 
-<!ENTITY windowTitle.label "Özel Sözlük">
+<!-- Window title -->
+<!ENTITY windowTitle.label "Kişisel sözlük">
 
 <!ENTITY wordEditField.label "Yeni sözcük:">
 <!ENTITY wordEditField.accessKey "n">
@@ -51,3 +51,4 @@
 
 <!ENTITY CloseButton.label "Kapat">
 <!ENTITY CloseButton.accessKey "K">
+

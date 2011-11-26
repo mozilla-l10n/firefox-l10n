@@ -1,5 +1,5 @@
-<!--LOCALIZATION NOTE (editorCheck.label): DONT_TRANSLATE -->
 
+<!--LOCALIZATION NOTE (editorCheck.label): DONT_TRANSLATE -->
 <!ENTITY editorCheck.label "Composer">
 <!ENTITY editorCheck.accesskey "c">
 
@@ -7,3 +7,4 @@
 <!ENTITY editing.label "Yeni sayfa ayarları">
 <!ENTITY toolbars.label "Araç Çubuğu">
 <!ENTITY publish.label "Yayınla">
+

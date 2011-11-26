@@ -34,38 +34,39 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.toolbars.title "Araç Çubuğu">
+<!ENTITY pref.toolbars.title    "Araç Çubuğu">
 
-<!ENTITY composition.caption "Oluşturulan araç çubuğunda bu düğme alanını göster:">
+<!ENTITY composition.caption    "Oluşturulan araç çubuğunda bu düğme alanını göster:">
 
-<!ENTITY new.label "Yeni">
-<!ENTITY open.label "Aç">
-<!ENTITY save.label "Kaydet">
-<!ENTITY publish.label "Yayınla">
-<!ENTITY preview.label "Ara">
-<!ENTITY cut.label "Kes">
-<!ENTITY copy.label "Kopyala">
-<!ENTITY paste.label "Ekle">
-<!ENTITY print.label "Yazdır">
-<!ENTITY find.label "Bul">
-<!ENTITY image.label "Grafik">
-<!ENTITY hline.label "Yatay çizgi">
-<!ENTITY table.label "Tablo">
-<!ENTITY link.label "Bağlantı">
-<!ENTITY anchor.label "Hedef">
+<!ENTITY new.label              "Yeni">
+<!ENTITY open.label             "Aç">
+<!ENTITY save.label             "Kaydet">
+<!ENTITY publish.label          "Yayınla">
+<!ENTITY preview.label          "Ara">
+<!ENTITY cut.label              "Kes">
+<!ENTITY copy.label             "Kopyala">
+<!ENTITY paste.label            "Ekle">
+<!ENTITY print.label            "Yazdır">
+<!ENTITY find.label             "Bul">
+<!ENTITY image.label            "Grafik">
+<!ENTITY hline.label            "Yatay çizgi">
+<!ENTITY table.label            "Tablo">
+<!ENTITY link.label             "Bağlantı">
+<!ENTITY anchor.label           "Hedef">
 
-<!ENTITY formatting.caption "Aşağıdaki düğmeleri düzenleme araç çubuğunda göster:">
+<!ENTITY formatting.caption     "Aşağıdaki düğmeleri düzenleme araç çubuğunda göster:">
 
-<!ENTITY smaller.label "Daha küçük">
-<!ENTITY larger.label "Daha büyük">
-<!ENTITY bold.label "Koyu">
-<!ENTITY bullets.label "Diyez işaretleri">
-<!ENTITY numbers.label "Sayılar">
-<!ENTITY italic.label "Eğik">
-<!ENTITY outdent.label "Dışa doğru">
-<!ENTITY indent.label "İçeriye">
-<!ENTITY underline.label "Altı çizgili">
+<!ENTITY smaller.label          "Daha küçük">
+<!ENTITY larger.label           "Daha büyük">
+<!ENTITY bold.label             "Koyu">
+<!ENTITY bullets.label          "Diyez işaretleri">
+<!ENTITY numbers.label          "Sayılar">
+<!ENTITY italic.label           "Eğik">
+<!ENTITY outdent.label          "Dışa doğru">
+<!ENTITY indent.label           "İçeriye">
+<!ENTITY underline.label        "Altı çizgili">
 
 <!ENTITY absolutePosition.label "Salt konumlandırma">
-<!ENTITY decreaseZIndex.label "Arkaplana gönder">
-<!ENTITY increaseZIndex.label "Önplana getir">
+<!ENTITY decreaseZIndex.label   "Arkaplana gönder">
+<!ENTITY increaseZIndex.label   "Önplana getir">
+

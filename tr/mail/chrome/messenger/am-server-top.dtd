@@ -24,8 +24,8 @@
 <!ENTITY connectionSecurityType-1.label "STARTTLS, mevcutsa">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY authMethod.label "Authentication method:">
-<!ENTITY authMethod.accesskey "i">
+<!ENTITY authMethod.label "Yetkilendirme yöntemi:">
+<!ENTITY authMethod.accesskey "Y">
 <!ENTITY leaveOnServer.label "E-postaları sunucuda bırak">
 <!ENTITY leaveOnServer.accesskey "p">
 <!ENTITY headersOnly.label "Sadece başlıkları getir">
@@ -62,7 +62,7 @@
 <!ENTITY maxMessagesEnd.label "ileti">
 <!ENTITY alwaysAuthenticate.label "Bu sunucuya bağlandığında daima kimlik doğrulaması gerekli.">
 <!ENTITY alwaysAuthenticate.accesskey "u">
-<!ENTITY newsrcFilePath.label 'Haber grubu ayar dosyası ("newsrc"):'>
+<!ENTITY newsrcFilePath.label "Haber grubu ayar dosyası ("newsrc"):">
 <!ENTITY localPath.label "Dizinler:">
 <!ENTITY abbreviate.label "Haber grubu isimlerini ileti dizini penceresinde birlikte görüntüle:">
 <!ENTITY abbreviateOn.label "Tüm isim (örnek, 'netscape.public.mozilla.mail-news')">
@@ -76,3 +76,4 @@
 <!ENTITY newsrcPicker.label "newsrc dosyasını seçin">
 <!ENTITY browseNewsrc.label "Gözat…">
 <!ENTITY browseNewsrc.accesskey "t">
+

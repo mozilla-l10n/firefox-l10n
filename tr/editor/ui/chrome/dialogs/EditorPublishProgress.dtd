@@ -35,16 +35,17 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!-- Window title -->
+<!ENTITY siteUrl.label         "Site adresi:">
+<!ENTITY docSubdir.label       "Sayfa altdizini:">
+<!ENTITY otherSubdir.label     "Resim altdizini:">
 
-<!ENTITY siteUrl.label "Sayfa URL:">
-<!ENTITY docSubdir.label "Sayfa altdizini:">
-<!ENTITY otherSubdir.label "Resim altdizini:">
+<!ENTITY status.label          "Yayınlanıyor…">
+<!ENTITY fileList.label        "Yayınlama durumu">
+<!ENTITY succeeded.label       "Başarılı">
+<!ENTITY failed.label          "Başarısız">
 
-<!ENTITY status.label "Yayınlanıyor…">
-<!ENTITY fileList.label "Yayınlama durumu">
-<!ENTITY succeeded.label "Başarılı">
-<!ENTITY failed.label "Başarısız">
+<!ENTITY keepOpen              "Yayınlama tamamlandıktan sonra bu pencereyi açık tut.">
+<!ENTITY closeButton.label     "Kapat">
 
-<!ENTITY keepOpen "Yayınlama tamamlandıktan sonra bu pencereyi açık tut.">
-<!ENTITY closeButton.label "Kapat">

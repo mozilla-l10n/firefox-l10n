@@ -36,20 +36,21 @@
 #endif
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY safeModeDialog.title "&brandShortName; güvenli kip">
-<!ENTITY window.width "37em">
+<!ENTITY safeModeDialog.title             "&brandShortName; güvenli kip">
+<!ENTITY window.width                     "37em">
 
-<!ENTITY safeModeDescription.label "&brandShortName; şimdi güvenli kipte çalıştırıldı. Bu kipte ayarlarınız, temalarınız ve eklentileriniz devre dışı durumundadır.">
-<!ENTITY safeModeDescription2.label "Aşağıdaki değişiklikleri yapabilirsiniz:">
+<!ENTITY safeModeDescription.label        "&brandShortName; şimdi güvenli kipte çalıştırıldı. Bu kipte ayarlarınız, temalarınız ve eklentileriniz devre dışı durumundadır.">
+<!ENTITY safeModeDescription2.label       "Aşağıdaki değişiklikleri yapabilirsiniz:">
 
-<!ENTITY disableAddons.label "Bütün eklentileri etkisizleştir">
-<!ENTITY disableAddons.accesskey "B">
+<!ENTITY disableAddons.label              "Bütün eklentileri etkisizleştir">
+<!ENTITY disableAddons.accesskey          "B">
 
-<!ENTITY resetToolbars.label "Araç çubuğunu ve düğmeleri sıfırla">
-<!ENTITY resetToolbars.accesskey "r">
+<!ENTITY resetToolbars.label              "Araç çubuğunu ve düğmeleri sıfırla">
+<!ENTITY resetToolbars.accesskey          "r">
 
-<!ENTITY changeAndRestartButton.label "Make Changes and Restart">
+<!ENTITY changeAndRestartButton.label     "Değişiklikleri uygula ve tekrar çalıştır">
 <!ENTITY changeAndRestartButton.accesskey "M">
 
-<!ENTITY continueButton.label "Continue in Safe Mode">
-<!ENTITY continueButton.accesskey "C">
+<!ENTITY continueButton.label             "Güvenli kipte devam et">
+<!ENTITY continueButton.accesskey         "G">
+

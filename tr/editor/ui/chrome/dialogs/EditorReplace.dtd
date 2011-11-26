@@ -35,8 +35,8 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!-- extracted from EdReplace.xul -->
 
+<!-- extracted from EdReplace.xul -->
 
 <!ENTITY replaceDialog.title "Bul ve değiştir">
 <!ENTITY findField.label "Aranacak:">
@@ -58,3 +58,4 @@
 <!ENTITY replaceAllButton.label "Tümünü değiştir">
 <!ENTITY replaceAllButton.accesskey "T">
 <!ENTITY closeButton.label "Kapat">
+

@@ -1,22 +1,23 @@
-<!ENTITY dialog.title "Alındı onayı">
-<!ENTITY requestReceipt.label "Her ileti gönderiminde alındı onayı iste">
-<!ENTITY requestReceipt.accesskey "H">
-<!ENTITY receiptArrive.label "Alındı onayı gelince:">
-<!ENTITY leaveIt.label "Gelen kutusunda bırak">
-<!ENTITY leaveIt.accesskey "G">
-<!ENTITY moveToSent.label "&quot;Giden&quot; kutusuna taşı">
-<!ENTITY moveToSent.accesskey "t">
-<!ENTITY requestMDN.label "Benden alındı onayı istendiğinde:">
-<!ENTITY never.label "Alındı onayı gönderme">
-<!ENTITY never.accesskey "n">
-<!ENTITY returnSome.label "Bazılarına alındı onayı gönder">
-<!ENTITY returnSome.accesskey "r">
-<!ENTITY notInToCc.label "Adresim 'Kime' ya da Cc satırında değilse:">
-<!ENTITY notInToCc.accesskey "n">
-<!ENTITY outsideDomain.label "Gönderenle aynı alan adından değilsem:">
-<!ENTITY outsideDomain.accesskey "m">
-<!ENTITY otherCases.label "Diğer tüm koşullarda:">
-<!ENTITY otherCases.accesskey "a">
-<!ENTITY askMe.label "Bana sor">
-<!ENTITY alwaysSend.label "Gönder">
-<!ENTITY neverSend.label "Gönderme">
+<!ENTITY dialog.title                  "Alındı onayı">
+<!ENTITY requestReceipt.label          "Her ileti gönderiminde alındı onayı iste">
+<!ENTITY requestReceipt.accesskey      "H">
+<!ENTITY receiptArrive.label           "Alındı onayı gelince:">
+<!ENTITY leaveIt.label                 "Gelen kutusunda bırak">
+<!ENTITY leaveIt.accesskey             "G">
+<!ENTITY moveToSent.label              "&quot;Giden&quot; kutusuna taşı">
+<!ENTITY moveToSent.accesskey          "t">
+<!ENTITY requestMDN.label              "Benden alındı onayı istendiğinde:">
+<!ENTITY never.label                   "Alındı onayı gönderme">
+<!ENTITY never.accesskey               "n">
+<!ENTITY returnSome.label              "Bazılarına alındı onayı gönder">
+<!ENTITY returnSome.accesskey          "r">
+<!ENTITY notInToCc.label               "Adresim 'Kime' ya da Cc satırında değilse:">
+<!ENTITY notInToCc.accesskey           "n">
+<!ENTITY outsideDomain.label           "Gönderenle aynı alan adından değilsem:">
+<!ENTITY outsideDomain.accesskey       "m">
+<!ENTITY otherCases.label              "Diğer tüm koşullarda:">
+<!ENTITY otherCases.accesskey          "a">
+<!ENTITY askMe.label                   "Bana sor">
+<!ENTITY alwaysSend.label              "Gönder">
+<!ENTITY neverSend.label               "Gönderme">
+

@@ -36,8 +36,9 @@
    -
    - ***** END LICENSE BLOCK ***** -->
    
-<!ENTITY renameFolderDialog.title "Dizini yeniden İsimlendir">
-<!ENTITY rename.label "Dizininiz için yeni isim girin:">
-<!ENTITY rename.accesskey "i">
-<!ENTITY accept.label "Rename">
-<!ENTITY accept.accesskey "R">
+<!ENTITY renameFolderDialog.title          "Dizini yeniden İsimlendir">
+<!ENTITY rename.label                      "Dizininiz için yeni isim girin:">
+<!ENTITY rename.accesskey                  "i">
+<!ENTITY accept.label                      "Yeniden adlandır">
+<!ENTITY accept.accesskey                  "Y">
+

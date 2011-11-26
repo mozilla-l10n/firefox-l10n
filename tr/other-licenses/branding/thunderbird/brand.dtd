@@ -1,4 +1,5 @@
-<!ENTITY brandShortName "Thunderbird">
-<!ENTITY brandFullName "Mozilla Thunderbird">
-<!ENTITY vendorShortName "Mozilla">
-<!ENTITY trademarkInfo.part1 "Mozilla Thunderbird ve Thunderbird logoları Mozilla Vakfı'nın tescilli markalarıdır.">
+<!ENTITY  brandShortName        "Thunderbird">
+<!ENTITY  brandFullName         "Mozilla Thunderbird">
+<!ENTITY  vendorShortName       "Mozilla">
+<!ENTITY  trademarkInfo.part1   "Mozilla Thunderbird ve Thunderbird logoları Mozilla Vakfı'nın tescilli markalarıdır.">
+

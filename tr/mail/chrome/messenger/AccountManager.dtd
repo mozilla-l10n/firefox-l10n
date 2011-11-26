@@ -1,6 +1,6 @@
 <!-- extracted from AccountManager.xul -->
 
-<!ENTITY accountManagerTitle.label "Posta ve haber grubu hesap ayarları">
+<!ENTITY accountManagerTitle.label "Hesap ayarları">
 
 <!ENTITY accountActionsButton.label "Hesap işlemleri">
 <!ENTITY accountActionsButton.accesskey "H">
@@ -12,6 +12,7 @@
 <!ENTITY setDefaultButton.accesskey "n">
 <!ENTITY removeButton.label "Hesabı Sil">
 <!ENTITY removeButton.accesskey "H">
+
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
      setting dialog, which specifies the width and height in em units of the dialog.
@@ -21,6 +22,6 @@
      1em = The height of the font.
      XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
      this window for en-US. -->
-
 <!ENTITY accountManager.size "width: 105ch; height: 55em;">
 <!ENTITY accountTree.width "width: 20em;">
+

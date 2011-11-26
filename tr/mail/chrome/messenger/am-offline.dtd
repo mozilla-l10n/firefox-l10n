@@ -35,20 +35,21 @@
 <!ENTITY offlineImapAdvancedOffline.accesskey "G">
 <!ENTITY syncGroupTitle.label "İleti eşzamanlaması">
 <!ENTITY diskspaceGroupTitle.label "Disk alanı">
+
 <!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
   The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
   on a single line within the scope of useAutosync.ByAge as follows:
 
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
+<!ENTITY allAutosync.label               "Tarihini gözardı ederek tüm iletileri eşzamanla">
+<!ENTITY allAutosync.accesskey           "T">
+<!ENTITY ageAutosyncBefore.label         "Son">
+<!ENTITY ageAutosync.accesskey           "o">
+<!ENTITY ageAutosyncMiddle.label         "">
+<!ENTITY dayAgeInterval.label            "günü">
+<!ENTITY weekAgeInterval.label           "haftayı">
+<!ENTITY monthAgeInterval.label          "ayı">
+<!ENTITY yearAgeInterval.label           "yılı">
+<!ENTITY ageAutosyncAfter.label          "">
 
-<!ENTITY allAutosync.label "Tarihini gözardı ederek tüm iletileri eşzamanla">
-<!ENTITY allAutosync.accesskey "T">
-<!ENTITY ageAutosyncBefore.label "Son">
-<!ENTITY ageAutosync.accesskey "o">
-<!ENTITY ageAutosyncMiddle.label "">
-<!ENTITY dayAgeInterval.label "günü">
-<!ENTITY weekAgeInterval.label "haftayı">
-<!ENTITY monthAgeInterval.label "ayı">
-<!ENTITY yearAgeInterval.label "yılı">
-<!ENTITY ageAutosyncAfter.label "eşzamanla">

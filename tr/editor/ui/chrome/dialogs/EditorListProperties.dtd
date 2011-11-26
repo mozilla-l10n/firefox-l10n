@@ -34,12 +34,12 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
+
 <!-- Window title -->
+<!ENTITY windowTitle.label "Liste özellikleri">
 
-
-<!ENTITY windowTitle.label "Liste Özellikleri">
-
-<!ENTITY ListType.label "Liste Tipi">
+<!ENTITY ListType.label "Liste türü">
 <!ENTITY bulletStyle.label "Madde Tipi:">
 <!ENTITY startingNumber.label "Buradan başla:">
 <!ENTITY startingNumber.accessKey "B">
@@ -51,3 +51,4 @@
 <!ENTITY changeEntireListRadio.accessKey "T">
 <!ENTITY changeSelectedRadio.label "Seçili öğeleri değiştir">
 <!ENTITY changeSelectedRadio.accessKey "l">
+

@@ -1,38 +1,38 @@
 <!-- for SearchDialog.xul -->
-<!ENTITY searchHeading.label "Postaları burada ara:">
-<!ENTITY searchHeading.accesskey "a">
-<!ENTITY searchSubfolders.label "Alt dizinleri ara">
-<!ENTITY searchSubfolders.accesskey "A">
-<!ENTITY searchOnServer.label "Aramayı sunucuda çalıştır">
-<!ENTITY searchOnServer.accesskey "s">
-<!ENTITY resetButton.label "Temizle">
-<!ENTITY resetButton.accesskey "T">
-<!ENTITY openButton.label "Aç ">
-<!ENTITY openButton.accesskey "A">
-<!ENTITY deleteButton.label "Sil">
-<!ENTITY deleteButton.accesskey "S">
-<!ENTITY searchDialogTitle.label "Postaları ara">
-<!ENTITY results.label "Sonuçlar">
-<!ENTITY fileHereMenu.label "Buraya dosyala">
-<!ENTITY fileHereMenu.accesskey "B">
-<!ENTITY fileButton.label "Dosyala">
-<!ENTITY fileButton.accesskey "o">
-<!ENTITY closeCmd.key "W">
-<!ENTITY openInFolder.label "Bu dizinde aç">
-<!ENTITY openInFolder.accesskey "d">
-<!ENTITY saveAsVFButton.label "Arama dizini olarak kaydet">
-<!ENTITY saveAsVFButton.accesskey "A">
+<!ENTITY searchHeading.label         "Postaları burada ara:">
+<!ENTITY searchHeading.accesskey     "a">
+<!ENTITY searchSubfolders.label      "Alt dizinleri ara">
+<!ENTITY searchSubfolders.accesskey  "A">
+<!ENTITY searchOnServer.label        "Aramayı sunucuda çalıştır">
+<!ENTITY searchOnServer.accesskey    "s">
+<!ENTITY resetButton.label           "Temizle">
+<!ENTITY resetButton.accesskey       "T">
+<!ENTITY openButton.label            "Aç ">
+<!ENTITY openButton.accesskey        "A">
+<!ENTITY deleteButton.label          "Sil">
+<!ENTITY deleteButton.accesskey      "S">
+<!ENTITY searchDialogTitle.label     "Postaları ara">
+<!ENTITY results.label               "Sonuçlar">
+<!ENTITY fileHereMenu.label          "Buraya dosyala">
+<!ENTITY fileHereMenu.accesskey      "B">
+<!ENTITY fileButton.label            "Dosyala">
+<!ENTITY fileButton.accesskey        "o">
+<!ENTITY closeCmd.key                "W"> 
+<!ENTITY openInFolder.label          "Bu dizinde aç">
+<!ENTITY openInFolder.accesskey      "d">
+<!ENTITY saveAsVFButton.label        "Arama dizini olarak kaydet">
+<!ENTITY saveAsVFButton.accesskey    "A">
+
 <!-- for ABSearchDialog.xul -->
+<!ENTITY abSearchHeading.label       "İçinde ara:">
+<!ENTITY abSearchHeading.accesskey   "a">
+<!ENTITY propertiesButton.label      "Özellikler">
+<!ENTITY propertiesButton.accesskey  "z">
+<!ENTITY composeButton.label         "Oluştur">
+<!ENTITY composeButton.accesskey     "t">
+<!ENTITY abSearchDialogTitle.label   "Gelişmiş Adres Defteri Araması">
 
-<!ENTITY abSearchHeading.label "İçinde ara:">
-<!ENTITY abSearchHeading.accesskey "a">
-<!ENTITY propertiesButton.label "Özellikler">
-<!ENTITY propertiesButton.accesskey "z">
-<!ENTITY composeButton.label "Oluştur">
-<!ENTITY composeButton.accesskey "t">
-<!ENTITY abSearchDialogTitle.label "Gelişmiş Adres Defteri Araması">
 <!-- Thread Pane -->
-
 <!ENTITY threadColumn.label "Dizilim">
 <!ENTITY fromColumn.label "Gönderen">
 <!ENTITY recipientColumn.label "Alıcı">
@@ -51,10 +51,10 @@
 <!ENTITY starredColumn.label "Etiket">
 <!ENTITY locationColumn.label "Konum">
 <!ENTITY idColumn.label "Alındı sırası">
-<!-- Thread Pane Tooltips -->
 
+<!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "Görüntülenecek sütunları tıklayın">
-<!ENTITY threadColumn.tooltip "Posta dizilimlerini görmek için tıklayın">
+<!ENTITY threadColumn.tooltip "Posta dizilimlerini görmek için tıklayın"> 
 <!ENTITY fromColumn.tooltip "Gönderene göre sıralamak için tıklayın">
 <!ENTITY recipientColumn.tooltip "Alıcıya göre sıralamak için tıklayın">
 <!ENTITY subjectColumn.tooltip "Konuya göre sıralamak için tıklayın">
@@ -72,3 +72,4 @@
 <!ENTITY starredColumn.tooltip "Etiketlere göre sırala">
 <!ENTITY locationColumn.tooltip "Konuma göre sırala">
 <!ENTITY idColumn.tooltip "İstek alınmasına göre sıralamak için tıklayın">
+

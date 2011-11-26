@@ -37,4 +37,4 @@
 #filter substitution
 
 pref("general.useragent.locale", "@AB_CD@");
-pref("spellchecker.dictionary", "tr-TR");
+pref("spellchecker.dictionary", "@AB_CD@");

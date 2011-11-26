@@ -1,3 +1,4 @@
 <!-- Labels -->
-<!ENTITY chooseAddressBook.label "Buraya ekle: ">
-<!ENTITY chooseAddressBook.accesskey "y">
+<!ENTITY chooseAddressBook.label         "Buraya ekle: ">
+<!ENTITY chooseAddressBook.accesskey     "y">
+

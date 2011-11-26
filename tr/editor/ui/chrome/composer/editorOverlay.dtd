@@ -39,46 +39,18 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
+
 <!-- File menu items -->
-
-
-<!ENTITY fileMenu.label "Dosya">
-<!ENTITY fileMenu.accesskey "D">
-<!ENTITY openFileCmd.label "Dosya aç…">
-<!ENTITY openFileCmd.accesskey "s">
-<!ENTITY openFileCmd.key "O">
-<!ENTITY openRemoteCmd.label "Web adresi aç…">
-<!ENTITY openRemoteCmd.accesskey "W">
-<!ENTITY openRemoteCmd.key "L">
-<!ENTITY fileRecentMenu.label "Son sayfalar">
-<!ENTITY fileRecentMenu.accesskey "r">
-<!ENTITY fileRevert.label "Revert">
-<!ENTITY fileRevert.accesskey "t">
-<!ENTITY saveCmd.label "Kaydet">
-<!ENTITY saveCmd.accesskey "K">
 <!ENTITY saveCmd.key "S">
-<!ENTITY saveAsCmd.label "Farklı kaydet…">
-<!ENTITY saveAsCmd.accesskey "k">
 
-<!ENTITY publishCmd.label "Yayınla">
-<!ENTITY publishCmd.accesskey "Y">
-<!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "Farklı yayınla…">
-<!ENTITY publishAsCmd.accesskey "F">
-<!ENTITY saveAsChangeEncodingCmd.label "Karakter kodlamasını kaydet ve değiştir">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "t">
 <!-- Edit menu items -->
-
-<!ENTITY editMenu.label "Düzenle">
-<!ENTITY editMenu.accesskey "z">
 <!ENTITY pasteNoFormatting.label "Biçimlendirme olmadan yapıştır">
 <!ENTITY pasteNoFormatting.accesskey "y">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Farklı yapıştır">
 <!ENTITY pasteAs.accesskey "a">
-<!ENTITY publishSettings.label "Sayfa yayınlama ayarları…">
-<!ENTITY publishSettings.accesskey "S">
 <!ENTITY pasteAsQuotationCmd.label "Alıntı olarak yapıştır">
 <!ENTITY pasteAsQuotationCmd.accesskey "o">
 <!ENTITY pasteAsQuotationCmd.key "o">
@@ -88,8 +60,8 @@
 <!ENTITY checkSpellingCmd2.label "Yazımı Denetle">
 <!ENTITY checkSpellingCmd2.accesskey "D">
 <!ENTITY checkSpellingCmd2.key "p">
-<!-- Insert menu items -->
 
+<!-- Insert menu items -->
 <!ENTITY insertMenu.label "Ekle">
 <!ENTITY insertMenu.accesskey "E">
 <!ENTITY insertLinkCmd.label "Bağlantı…">
@@ -109,8 +81,8 @@
 <!ENTITY insertCharsCmd.accesskey "K">
 <!ENTITY insertBreakAllCmd.label "Aşağıdaki görüntüleri kes">
 <!ENTITY insertBreakAllCmd.accesskey "k">
-<!-- Used just in context popup. -->
 
+<!-- Used just in context popup. -->
 <!ENTITY spellCheckNoSuggestions.label "(Öneri bulunamadı)">
 <!ENTITY spellCheckIgnoreWord.label "Kelimeyi görmezden gel">
 <!ENTITY spellCheckIgnoreWord.accesskey "K">
@@ -120,8 +92,8 @@
 <!ENTITY createLinkCmd.accesskey "B">
 <!ENTITY editLinkCmd.label "Bağlantıyı Yeni Düzenleyicide Aç">
 <!ENTITY editLinkCmd.accesskey "i">
-<!-- Font Face SubMenu -->
 
+<!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip "Bir yazıtipi seçin">
 <!ENTITY fontfaceMenu.label "Yazıtipi">
 <!ENTITY fontfaceMenu.accesskey "Y">
@@ -136,8 +108,8 @@
 <!ENTITY fontTimes.accesskey "T">
 <!ENTITY fontCourier.label "Courier">
 <!ENTITY fontCourier.accesskey "C">
-<!-- Font Size SubMenu -->
 
+<!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip "Yazıtipi boyutu seç">
 <!ENTITY decreaseFontSize.label "Daha küçük">
 <!ENTITY decreaseFontSize.accesskey "h">
@@ -145,8 +117,7 @@
 <!ENTITY increaseFontSize.label "Daha büyük">
 <!ENTITY increaseFontSize.accesskey "b">
 <!ENTITY increaseFontSize.key "+">
-<!-- + is above this key on many keyboards -->
-<!ENTITY increaseFontSize.key2 "=">
+<!ENTITY increaseFontSize.key2 "="> <!-- + is above this key on many keyboards -->
 
 <!ENTITY fontSizeMenu.label "Boyut">
 <!ENTITY fontSizeMenu.accesskey "B">
@@ -164,8 +135,8 @@
 <!ENTITY size-x-largeCmd.accesskey "e">
 <!ENTITY size-xx-largeCmd.label "xx-büyük">
 <!ENTITY size-xx-largeCmd.accesskey "b">
-<!-- Font Style SubMenu -->
 
+<!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Metin Stili">
 <!ENTITY fontStyleMenu.accesskey "e">
 <!ENTITY styleBoldCmd.label "Kalın">
@@ -211,11 +182,11 @@
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "İsimlendirilen çapaları kaldır">
 <!ENTITY formatRemoveNamedAnchors.accesskey "d">
-<!ENTITY formatRemoveNamedAnchors.key "A">
+<!ENTITY formatRemoveNamedAnchors2.key "R">
 
 <!ENTITY paragraphMenu.label "Paragraf">
 <!ENTITY paragraphMenu.accesskey "P">
-<!ENTITY paragraphParagraphCmd.label "Paragraf">
+<!ENTITY paragraphParagraphCmd.label "Paragraf">  
 <!ENTITY paragraphParagraphCmd.accesskey "P">
 <!ENTITY heading1Cmd.label "Başlık 1">
 <!ENTITY heading1Cmd.accesskey "1">
@@ -233,8 +204,8 @@
 <!ENTITY paragraphAddressCmd.accesskey "A">
 <!ENTITY paragraphPreformatCmd.label "Önbiçimleme">
 <!ENTITY paragraphPreformatCmd.accesskey "Ö">
-<!-- List menu items -->
 
+<!-- List menu items -->
 <!ENTITY formatlistMenu.label "Liste">
 <!ENTITY formatlistMenu.accesskey "L">
 <!ENTITY noneCmd.label "Hiçbiri">
@@ -257,8 +228,8 @@
 <!-- isn't used in menu now, but may be added in future -->
 <!ENTITY advancedPropertiesCmd.label "Gelişmiş Özellikler">
 <!ENTITY advancedPropertiesCmd.accesskey "Ö">
-<!-- Align menu items -->
 
+<!-- Align menu items -->
 <!ENTITY alignMenu.label "Hizala">
 <!ENTITY alignMenu.accesskey "H">
 <!ENTITY alignLeft.label "Sol">
@@ -273,8 +244,8 @@
 <!ENTITY alignJustify.label "Ayarla">
 <!ENTITY alignJustify.accesskey "A">
 <!ENTITY alignJustify.tooltip "Açıklayıcı Yerleştir">
-<!-- Layer toolbar items -->
 
+<!-- Layer toolbar items -->
 <!ENTITY layer.tooltip "Katman">
 <!ENTITY layerSendToBack.tooltip "Arkaya getir">
 <!ENTITY layerBringToFront.tooltip "Öne getir">
@@ -288,12 +259,12 @@
 
 <!ENTITY colorsAndBackground.label "Sayfa renkleri ve zeminleri…">
 <!ENTITY colorsAndBackground.accesskey "z">
-<!-- Table Menu -->
 
+<!-- Table Menu -->
 <!ENTITY tableMenu.label "Tablo">
 <!ENTITY tableMenu.accesskey "T">
-<!-- Select Submenu -->
 
+<!-- Select Submenu -->
 <!ENTITY tableSelectMenu.label "Seçin">
 <!ENTITY tableSelectMenu.accesskey "S">
 
@@ -303,8 +274,8 @@
 <!ENTITY tableInsertMenu2.accesskey "e">
 <!ENTITY tableDeleteMenu2.label "Tablo sil">
 <!ENTITY tableDeleteMenu2.accesskey "l">
-<!-- Insert SubMenu -->
 
+<!-- Insert SubMenu -->
 <!ENTITY tableInsertMenu.label "Ekle">
 <!ENTITY tableInsertMenu.accesskey "E">
 <!ENTITY tableTable.label "Tablo">
@@ -335,14 +306,14 @@
 <!ENTITY tableCellAfter.label "Hücreden sonra">
 <!ENTITY tableCellAfter.accesskey "ü">
 <!-- Delete SubMenu -->
-<!ENTITY tableDeleteMenu.label "Delete">
-<!ENTITY tableDeleteMenu.accesskey "D">
+<!ENTITY tableDeleteMenu.label "Sil">
+<!ENTITY tableDeleteMenu.accesskey "S">
+
 <!-- text for "Join Cells" is in editor.properties 
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly
 -->
-
 <!ENTITY tableJoinCells.label "ü">
 <!ENTITY tableJoinCells.accesskey "ü">
 <!ENTITY tableSplitCell.label "Hücreyi böl">
@@ -351,8 +322,8 @@
 <!ENTITY convertToTable.accesskey "S">
 <!ENTITY tableProperties.label "Tablo özellikleri…">
 <!ENTITY tableProperties.accesskey "b">
-<!-- Toolbar-only items -->
 
+<!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Menü Çubuğu">
 <!ENTITY formatToolbar.tooltip "Araç Çubuğu Biçimi">
 <!ENTITY newToolbarCmd.label "Yeni">
@@ -361,9 +332,9 @@
 <!ENTITY openToolbarCmd.tooltip "Yerel bir dosya aç">
 <!ENTITY saveToolbarCmd.tooltip "Yerel bir konuma dosya kaydet">
 <!ENTITY publishToolbarCmd.tooltip "Dosyayı uzak konuma gönder">
-<!ENTITY cutToolbarCmd.tooltip "Cut">
-<!ENTITY copyToolbarCmd.tooltip "Copy">
-<!ENTITY pasteToolbarCmd.tooltip "Paste">
+<!ENTITY cutToolbarCmd.tooltip "Kes">
+<!ENTITY copyToolbarCmd.tooltip "Kopyala">
+<!ENTITY pasteToolbarCmd.tooltip "Yapıștır">
 <!ENTITY printToolbarCmd.label "Yazdır">
 <!ENTITY printToolbarCmd.tooltip "Bu sayfayı yazdır">
 <!ENTITY findToolbarCmd.label "Bul">
@@ -384,8 +355,8 @@
 <!ENTITY BackgroundColorButton.tooltip "Arkaplan için renk seç">
 <!ENTITY throbber.tooltip "&vendorShortName; anasayfasına git">
 <!ENTITY HighlightColorButton.tooltip "Vurgulu metin için renk seçin">
-<!-- Editor toolbar -->
 
+<!-- Editor toolbar -->
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Küçük yazı boyutu">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Büyük yazıtipi boyutu">
 <!ENTITY boldToolbarCmd.tooltip "Kalın">
@@ -401,21 +372,22 @@
 <!ENTITY alignCenterButton.tooltip "Metni ortala">
 <!ENTITY alignRightButton.tooltip "Metni sağ marj boyunca yerleştir">
 <!ENTITY alignJustifyButton.tooltip "Metni sol ve sağ marjlar boyunca yerleştir">
+
 <!-- Structure Toolbar Context Menu items -->
+<!ENTITY structSelect.label         "Seç">
+<!ENTITY structSelect.accesskey     "S">
+<!ENTITY structRemoveTag.label      "Etiket kaldır">
+<!ENTITY structRemoveTag.accesskey  "E">
+<!ENTITY structChangeTag.label      "Etiket değiştir">
+<!ENTITY structChangeTag.accesskey  "t">
 
-<!ENTITY structSelect.label "Seç">
-<!ENTITY structSelect.accesskey "S">
-<!ENTITY structRemoveTag.label "Etiket kaldır">
-<!ENTITY structRemoveTag.accesskey "E">
-<!ENTITY structChangeTag.label "Etiket değiştir">
-<!ENTITY structChangeTag.accesskey "t">
 <!-- TOC manipulation -->
+<!ENTITY insertTOC.label          "Arasına ekle">
+<!ENTITY insertTOC.accesskey      "e">
+<!ENTITY updateTOC.label          "Güncelle">
+<!ENTITY updateTOC.accesskey      "G">
+<!ENTITY removeTOC.label          "Sil">
+<!ENTITY removeTOC.accesskey      "S">
+<!ENTITY tocMenu.label            "İçerik tablosu…">
+<!ENTITY tocMenu.accesskey        "k">
 
-<!ENTITY insertTOC.label "Arasına ekle">
-<!ENTITY insertTOC.accesskey "e">
-<!ENTITY updateTOC.label "Güncelle">
-<!ENTITY updateTOC.accesskey "G">
-<!ENTITY removeTOC.label "Sil">
-<!ENTITY removeTOC.accesskey "S">
-<!ENTITY tocMenu.label "İçerik tablosu…">
-<!ENTITY tocMenu.accesskey "k">

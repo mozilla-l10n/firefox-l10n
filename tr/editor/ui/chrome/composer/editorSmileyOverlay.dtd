@@ -34,8 +34,8 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!-- Smiley Menu items -->
 
+<!-- Smiley Menu items -->
 <!ENTITY insertSmiley.label "Gülümseme">
 <!ENTITY insertSmiley.accesskey "s">
 
@@ -88,4 +88,5 @@
 <!ENTITY smiley16Cmd.accesskey "D">
 <!ENTITY smiley16Cmd.tooltip "Dudakları kapalı bir yüz ekler">
 <!ENTITY SmileButton.tooltip "Gülen yüzler ekle">
+
 

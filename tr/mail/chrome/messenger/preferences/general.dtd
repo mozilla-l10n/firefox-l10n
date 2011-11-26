@@ -1,35 +1,36 @@
-<!ENTITY messengerStartPage.label "&brandShortName; başlangıç sayfası">
-<!ENTITY enableStartPage.label "&brandShortName; açıldığında ileti alanında başlangıç sayfasını göster">
-<!ENTITY enableStartPage.accesskey "g">
-<!ENTITY location.label "Konum:">
-<!ENTITY location1.accesskey "o">
-<!ENTITY useDefault.label "Öntanımlı Ayarlar">
-<!ENTITY useDefault.accesskey "r">
+<!ENTITY messengerStartPage.label         "&brandShortName; başlangıç sayfası">
+<!ENTITY enableStartPage.label            "&brandShortName; açıldığında ileti alanında başlangıç sayfasını göster">
+<!ENTITY enableStartPage.accesskey        "g">
+<!ENTITY location.label                   "Konum:">
+<!ENTITY location1.accesskey               "o">
+<!ENTITY useDefault.label                 "Öntanımlı Ayarlar">
+<!ENTITY useDefault.accesskey             "r">
 
-<!ENTITY bounceSystemDockIcon.label "Küçük simgeyi oynat">
-<!ENTITY bounceSystemDockIcon.accesskey "o">
+<!ENTITY bounceSystemDockIcon.label       "Küçük simgeyi oynat">
+<!ENTITY bounceSystemDockIcon.accesskey   "o">
 
-<!ENTITY newMessagesArrive.label "Yeni ileti geldiğinde">
-<!ENTITY playSound.label "Ses dosyası çal">
-<!ENTITY playSound1.accesskey "d">
-<!ENTITY showAnimatedAlert.label "Beni uyar">
-<!ENTITY showAnimatedAlert.accesskey "y">
-<!ENTITY customizeMailAlert.label "Özelleştir…">
-<!ENTITY customizeMailAlert.accesskey "z">
+<!ENTITY newMessagesArrive.label          "Yeni ileti geldiğinde">
+<!ENTITY playSound.label                  "Ses dosyası çal">
+<!ENTITY playSound1.accesskey              "d">
+<!ENTITY showAnimatedAlert.label          "Beni uyar">
+<!ENTITY showAnimatedAlert.accesskey      "y">
+<!ENTITY customizeMailAlert.label         "Özelleştir…">
+<!ENTITY customizeMailAlert.accesskey     "z">
 
-<!ENTITY play.label "Çal">
-<!ENTITY play.accesskey "l">
-<!ENTITY systemsound.label "Yeni posta var için öntanımlı ses dosyası">
-<!ENTITY systemsoundMac.label "Sistem uyarı ses dosyaları">
-<!ENTITY systemsoundMac.accesskey "y">
-<!ENTITY systemsound.accesskey "Y">
-<!ENTITY customsound.label "Aşağıdaki ses dosyalarını kullan">
-<!ENTITY customsound.accesskey "u">
-<!ENTITY browse.label "Gözat…">
-<!ENTITY browse.accesskey "G">
+<!ENTITY play.label                       "Çal">
+<!ENTITY play.accesskey                   "l">
+<!ENTITY systemsound.label                "Yeni posta var için öntanımlı ses dosyası">
+<!ENTITY systemsoundMac.label             "Sistem uyarı ses dosyaları">
+<!ENTITY systemsoundMac.accesskey         "y">
+<!ENTITY systemsound.accesskey            "Y">
+<!ENTITY customsound.label                "Aşağıdaki ses dosyalarını kullan">
+<!ENTITY customsound.accesskey            "u">
+<!ENTITY browse.label                     "Gözat…">
+<!ENTITY browse.accesskey                 "G">
 
-<!ENTITY addonsMgr.label "Eklentiler">
-<!ENTITY manageAddonsDescWin.label "Eklenti ayarları">
-<!ENTITY manageAddonsDescUnix2.label "Eklenti tercihleri">
-<!ENTITY manageAddons.label "Eklenti yönetimi…">
-<!ENTITY manageAddons.accesskey "E">
+<!ENTITY addonsMgr.label                  "Eklentiler">
+<!ENTITY manageAddonsDescWin.label        "Eklenti ayarları">
+<!ENTITY manageAddonsDescUnix2.label      "Eklenti tercihleri">
+<!ENTITY manageAddons.label               "Eklenti yönetimi…">
+<!ENTITY manageAddons.accesskey           "E">
+

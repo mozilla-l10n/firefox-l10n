@@ -1,8 +1,9 @@
-<!ENTITY attachmentReminderDialog.title "Eksik ek hatırlatıcısı anahtar kelimeleri">
-<!ENTITY attachKeywordText.label "Aşağıdaki anahtar kelimeler kullanılmışsa &brandShortName; sizi unutulmuş ekler hakkında uyaracaktır.">
-<!ENTITY addKeywordButton.label "Ekle">
-<!ENTITY addKeywordButton.accesskey "E">
-<!ENTITY editKeywordButton.label "Düzenle">
-<!ENTITY editKeywordButton.accesskey "e">
-<!ENTITY removeKeywordButton.label "Sil">
-<!ENTITY removeKeywordButton.accesskey "S">
+<!ENTITY attachmentReminderDialog.title   "Eksik ek hatırlatıcısı anahtar kelimeleri">
+<!ENTITY attachKeywordText.label          "Aşağıdaki anahtar kelimeler kullanılmışsa &brandShortName; sizi unutulmuş ekler hakkında uyaracaktır.">
+<!ENTITY addKeywordButton.label           "Ekle">
+<!ENTITY addKeywordButton.accesskey       "E">
+<!ENTITY editKeywordButton.label          "Düzenle">
+<!ENTITY editKeywordButton.accesskey      "e">
+<!ENTITY removeKeywordButton.label        "Sil">
+<!ENTITY removeKeywordButton.accesskey    "S">
+

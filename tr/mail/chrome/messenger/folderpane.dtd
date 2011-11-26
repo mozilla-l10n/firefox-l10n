@@ -34,7 +34,8 @@
  the terms of any one of the MPL, the GPL or the LGPL.
 
  ***** END LICENSE BLOCK ***** -->
-<!ENTITY nameColumn.label "Adı">
-<!ENTITY unreadColumn.label "Okunmamış">
-<!ENTITY totalColumn.label "Toplam">
-<!ENTITY folderSizeColumn.label "Boyut">
+<!ENTITY nameColumn.label   "Ad"> 
+<!ENTITY unreadColumn.label "Okunmamış"> 
+<!ENTITY totalColumn.label "Toplam"> 
+<!ENTITY folderSizeColumn.label "Boyut"> 
+
