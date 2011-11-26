@@ -95,7 +95,7 @@
 
 <!-- Tasks Menu -->
 <!ENTITY importCmd.label                                "Importieren…">
-<!ENTITY importCmd.accesskey                            "I">
+<!ENTITY importCmd.accesskey                            "o">
 <!ENTITY exportCmd.label                                "Exportieren…">
 <!ENTITY exportCmd.accesskey                            "E">
 
@@ -111,7 +111,7 @@
 <!ENTITY deleteItemButton.label                         "Löschen">
 <!ENTITY deleteItemButton.accesskey                     "L">
 <!ENTITY newimButton.label                              "Instant-Nachricht">  
-<!ENTITY newimButton.accesskey                          "I">  
+<!ENTITY newimButton.accesskey                          "N">  
 <!ENTITY searchNameAndEmail.placeholder                 "Name und E-Mail durchsuchen">
 <!ENTITY searchBox.title                                "Suchen">
 

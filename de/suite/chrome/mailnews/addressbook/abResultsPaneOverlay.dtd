@@ -45,7 +45,7 @@
 <!ENTITY NickName.label                        "Spitzname">
 <!ENTITY NickName.accesskey                    "S">
 <!ENTITY SecondEmail.label                     "Weitere E-Mail">
-<!ENTITY SecondEmail.accesskey                 "Z">
+<!ENTITY SecondEmail.accesskey                 "W">
 <!ENTITY Department.label                      "Abteilung">
 <!ENTITY Department.accesskey                  "A">
 <!ENTITY JobTitle.label                        "Titel">
@@ -57,15 +57,15 @@
 <!ENTITY FaxNumber.label                       "Fax">
 <!ENTITY FaxNumber.accesskey                   "F">
 <!ENTITY HomePhone.label                       "Tel. privat">
-<!ENTITY HomePhone.accesskey                   "T">
+<!ENTITY HomePhone.accesskey                   "v">
 <!ENTITY WorkPhone.label                       "Tel. dienstlich">
-<!ENTITY WorkPhone.accesskey                   "T">
+<!ENTITY WorkPhone.accesskey                   "d">
 <!ENTITY ScreenName.label                      "AOL-Name">
-<!ENTITY ScreenName.accesskey                  "A">
+<!ENTITY ScreenName.accesskey                  "L">
 <!ENTITY sortAscending.label                   "Aufsteigend">
-<!ENTITY sortAscending.accesskey               "A">
+<!ENTITY sortAscending.accesskey               "u">
 <!ENTITY sortDescending.label                  "Absteigend">
-<!ENTITY sortDescending.accesskey              "A">
+<!ENTITY sortDescending.accesskey              "b">
 
 <!-- context menu -->
 <!ENTITY composeEmail.label                    "Verfassen einer E-Mail an">
@@ -77,6 +77,6 @@
 <!ENTITY newAddrBookCard.label                 "Neue Karte…">
 <!ENTITY newAddrBookCard.accesskey             "N">
 <!ENTITY newAddrBookMailingList.label          "Neue Mailing List…">
-<!ENTITY newAddrBookMailingList.accesskey      "N">
+<!ENTITY newAddrBookMailingList.accesskey      "M">
 <!ENTITY addrBookCardProperties.label          "Eigenschaften">
 <!ENTITY addrBookCardProperties.accesskey      "E">
