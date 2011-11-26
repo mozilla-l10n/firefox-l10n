@@ -7,7 +7,7 @@
 <!ENTITY useCursorNavigation.label       "Alltid bruk piltaster for å navigere innenfor nettsider">
 <!ENTITY useCursorNavigation.accesskey   "A">
 <!ENTITY searchStartTyping.label         "Søk etter tekst når jeg starter å skrive">
-<!ENTITY searchStartTyping.accesskey     "S">
+<!ENTITY searchStartTyping.accesskey     "ø">
 <!ENTITY blockAutoRefresh.label          "Varsle når nettsider forsøker å omdirigere eller laste siden på nytt">
 <!ENTITY blockAutoRefresh.accesskey      "V">
 
@@ -30,7 +30,7 @@
 <!ENTITY submitCrashes.label             "Send inn krasjrapporter">
 <!ENTITY submitCrashes.accesskey         "e">
 <!ENTITY submitTelemetry.label           "Send ytelsesdata">
-<!ENTITY submitTelemetry.accesskey       "n">
+<!ENTITY submitTelemetry.accesskey       "S">
 
 <!ENTITY networkTab.label                "Nettverk">
 
@@ -53,7 +53,7 @@
 <!ENTITY limitCacheSizeAfter.label       " MB diskplass">
 <!ENTITY clearCacheNow.label             "Tøm nå">
 <!ENTITY clearCacheNow.accesskey         "T">
-<!ENTITY overrideSmartCacheSize.label    "Overstyr automatisk kontroll av hurtiglager">
+<!ENTITY overrideSmartCacheSize.label    "Overstyr automatisk styring av hurtiglager">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
 <!ENTITY updateTab.label                 "Oppdatering">
