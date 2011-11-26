@@ -59,7 +59,7 @@
 <!ENTITY addDevice.title.label              "Legg til en enhet">
 <!ENTITY addDevice.showMeHow.label          "Vis meg hvordan.">
 <!ENTITY addDevice.dontHaveDevice.label     "Jeg har ikke enheten med meg">
-<!ENTITY addDevice.setup.description.label  "For å aktivere, gå til &syncBrand.shortName.label; Innstillinger på den andre enheten, og velg &#x0022;Legg til enhet&#x0022;.">
+<!ENTITY addDevice.setup.description.label  "For å aktivere, gå til &syncBrand.shortName.label;-innstillingene på den andre enheten og velg &#x0022;Legg til enhet&#x0022;.">
 <!ENTITY addDevice.setup.enterCode.label    "Skriv deretter inn denne koden:">
 <!ENTITY addDevice.dialog.description.label "For å aktivere den nye enheten, gå til &syncBrand.shortName.label; Innstillinger på enheten og velg &#x0022;Koble til.&#x0022;">
 <!ENTITY addDevice.dialog.enterCode.label   "Skriv inn koden som enheten oppgir:">
@@ -70,7 +70,7 @@
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Logg inn">
-<!ENTITY existingRecoveryKey.description "Du kan hente ut en kopi av gjenopprettingsnøkkelen ved å gå til &syncBrand.shortName.label;-innstillingene på den andre enheten, og velge  &#x0022;Gjenopprettingsnøkkel&#x0022; under &#x0022;Behandle konto&#x0022;.">
+<!ENTITY existingRecoveryKey.description "Du kan hente ut en kopi av gjenopprettingsnøkkelen ved å gå til &syncBrand.shortName.label;-innstillingene på den andre enheten, og velge  «Gjenopprettingsnøkkel» under «Behandle konto».">
 <!ENTITY verifying.label              "Bekrefter …">
 <!ENTITY resetPassword.label          "Tilbakestill passord">
 <!ENTITY resetSyncKey.label           "Jeg har mistet den andre enheten min.">
