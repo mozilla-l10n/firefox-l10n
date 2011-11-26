@@ -104,6 +104,12 @@
 <!ENTITY mediaHideControls.accesskey  "k">
 <!ENTITY videoFullScreen.label        "Fullskjerm">
 <!ENTITY videoFullScreen.accesskey    "F">
+<!ENTITY videoSaveImage.label         "Lagre øyeblikksbilde som …">
+<!ENTITY videoSaveImage.accesskey     "L">
+<!ENTITY videoShowStats.label         "Vis statistikk">
+<!ENTITY videoShowStats.accesskey     "t">
+<!ENTITY videoHideStats.label         "Skjul statistikk">
+<!ENTITY videoHideStats.accesskey     "t">
 <!ENTITY search.accesskey             "N">
 <!ENTITY bidiSwitchPageDirectionItem.label        "Bytt sideretning">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "d">
