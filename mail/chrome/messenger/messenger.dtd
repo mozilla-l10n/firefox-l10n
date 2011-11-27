@@ -146,16 +146,16 @@
 
 <!ENTITY folderView.label "Dossiers">
 <!ENTITY folderView.accesskey "r">
-<!ENTITY unifiedFolders.label "Dossiers unifiés">
-<!ENTITY unifiedFolders.accesskey "D">
+<!ENTITY unifiedFolders.label "Unifiés">
+<!ENTITY unifiedFolders.accesskey "U">
 <!ENTITY allFolders.label "Tous">
 <!ENTITY allFolders.accesskey "T">
-<!ENTITY unreadFolders.label "Dossiers avec des non lus">
-<!ENTITY unreadFolders.accesskey "n">
-<!ENTITY favoriteFolders.label "Dossiers préférés">
-<!ENTITY favoriteFolders.accesskey "p">
-<!ENTITY recentFolders.label "Dossiers récents">
-<!ENTITY recentFolders.accesskey "r">
+<!ENTITY unreadFolders.label "Avec des messages non lus">
+<!ENTITY unreadFolders.accesskey "A">
+<!ENTITY favoriteFolders.label "Préférés">
+<!ENTITY favoriteFolders.accesskey "P">
+<!ENTITY recentFolders.label "Récents">
+<!ENTITY recentFolders.accesskey "R">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Trier par">
