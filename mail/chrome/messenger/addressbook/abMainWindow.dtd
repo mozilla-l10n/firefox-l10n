@@ -63,7 +63,7 @@
 <!ENTITY redoCmd.accesskey                              "R">
 <!ENTITY cutCmd.label                                   "Decupează">
 <!ENTITY cutCmd.key                                     "X">
-<!ENTITY cutCmd.accesskey                               "D">
+<!ENTITY cutCmd.accesskey                               "p">
 <!ENTITY copyCmd.label                                  "Copiază">
 <!ENTITY copyCmd.key                                    "C">
 <!ENTITY copyCmd.accesskey                              "C">
