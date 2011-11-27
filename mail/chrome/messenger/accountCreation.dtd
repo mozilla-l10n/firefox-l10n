@@ -49,6 +49,8 @@
 <!ENTITY half-manual-test.accesskey                "P">
 <!ENTITY manual-edit.label                      "Uredi ročno">
 <!ENTITY manual-edit.accesskey           "U">
+<!ENTITY switch-to-provisioner.label     "Dobi nov račun">
+<!ENTITY switch-to-provisioner.accesskey "D">
 
 
 <!ENTITY warning.label                   "Opozorilo!">

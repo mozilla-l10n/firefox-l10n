@@ -87,13 +87,19 @@
 <!ENTITY showTaskbarCmd.accesskey                       "S">
 <!ENTITY customizeToolbar.label                         "Prilagodi…">
 <!ENTITY customizeToolbar.accesskey                     "P">
-<!ENTITY showContactPane.label                          "Podokno za povzetek stika">
-<!ENTITY showContactPane.accesskey                      "z">
+<!ENTITY layoutMenu.label                               "Postavitev">
+<!ENTITY layoutMenu.accesskey                           "V">
+<!ENTITY showDirectoryPane.label                        "Podokno za kazalo">
+<!ENTITY showDirectoryPane.accesskey                    "O">
+<!ENTITY showContactPane2.label                         "Podokno za stike">
+<!ENTITY showContactPane2.accesskey                     "E">
 <!ENTITY menu_ShowNameAs.label                          "Pokaži ime kot">
 <!ENTITY menu_ShowNameAs.accesskey                      "i"> 
-<!ENTITY firstLastCmd.label                             "Ime, Priimek">
-<!ENTITY firstLastCmd.accesskey                         "i"> 
-<!ENTITY lastFirstCmd.label                             "Priimek, Ime">
+<!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
+because displayed names don't have the comma in between. -->
+<!ENTITY firstLastCmd2.label                            "Ime Priimek">
+<!ENTITY firstLastCmd2.accesskey                        "i"> 
+<!ENTITY lastFirstCmd.label                             "Priimek ime">
 <!ENTITY lastFirstCmd.accesskey                         "p">
 <!ENTITY displayNameCmd.label                           "Prikazano ime">
 <!ENTITY displayNameCmd.accesskey                       "p">
