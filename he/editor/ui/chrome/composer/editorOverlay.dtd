@@ -158,7 +158,7 @@
 <!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip "בחר גודל גופן">
 <!ENTITY decreaseFontSize.label "קטן יותר">
-<!ENTITY decreaseFontSize.accesskey "r">
+<!ENTITY decreaseFontSize.accesskey "ק">
 <!ENTITY decreaseFontSize.key "-">
 <!ENTITY increaseFontSize.label "גדול יותר">
 <!ENTITY increaseFontSize.accesskey "g">
@@ -378,9 +378,9 @@
 <!ENTITY openToolbarCmd.tooltip "פתח קובץ מקומי">
 <!ENTITY saveToolbarCmd.tooltip "שמור קובץ למיקום מקומי">
 <!ENTITY publishToolbarCmd.tooltip "העלה קובץ למיקום מרוחק">
-  <!ENTITY cutToolbarCmd.tooltip "גזירה">
-  <!ENTITY copyToolbarCmd.tooltip "העתקה">
-  <!ENTITY pasteToolbarCmd.tooltip "הדבקה">
+<!ENTITY cutToolbarCmd.tooltip "גזירה">
+<!ENTITY copyToolbarCmd.tooltip "העתקה">
+<!ENTITY pasteToolbarCmd.tooltip "הדבקה">
 <!ENTITY printToolbarCmd.label "הדפסה">
 <!ENTITY printToolbarCmd.tooltip "הדפס דף זה">
 <!ENTITY findToolbarCmd.label "מצא">
