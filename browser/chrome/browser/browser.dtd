@@ -66,8 +66,8 @@
 <!ENTITY fullScreenClose.tooltip "Chiudi">
 <!ENTITY fullScreenAutohide.label "Nascondi barre degli strumenti">
 <!ENTITY fullScreenAutohide.accesskey "N">
-<!ENTITY fullScreenExit.label "Abbandona schermo intero">
-<!ENTITY fullScreenExit.accesskey "A">
+<!ENTITY fullScreenExit.label "Esci da schermo intero">
+<!ENTITY fullScreenExit.accesskey "E">
 <!ENTITY domFullScreenWarning.label "Premere ESC per abbandonare la modalità schermo intero">
 <!ENTITY closeWindow.label "Chiudi finestra">
 <!ENTITY closeWindow.accesskey "d">
