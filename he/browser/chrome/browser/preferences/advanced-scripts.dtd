@@ -40,8 +40,8 @@
 
 <!ENTITY allowScripts.label             "אפשר לתסריטים לבצע את הפעולות הבאות:">
 
-<!ENTITY moveResizeWindows.label        "הזזה או שינוי גודל חלונות קיימים">
-<!ENTITY moveResizeWindows.accesskey    "ה">
+<!ENTITY moveResizePopupWindows.label     "הזזה או שינוי גודל של חלונות קופצים">
+<!ENTITY moveResizePopupWindows.accesskey "ה">
 <!ENTITY raiseLowerWindows.label        "העברת חלון לקידמה או לרקע">
 <!ENTITY raiseLowerWindows.accesskey    "ר">
 <!ENTITY disableContextMenus.label      "ביטול או החלפת תפריטי הקשר">
