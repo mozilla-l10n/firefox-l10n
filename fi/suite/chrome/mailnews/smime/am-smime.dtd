@@ -7,7 +7,7 @@
 <!ENTITY neverEncrypt.accesskey "E">
 <!ENTITY alwaysEncryptMessage.label "Vaadittu (viestiä ei voi lähettää, ellei kaikilla vastaanottajilla ole varmennetta)">
 <!ENTITY alwaysEncryptMessage.accesskey "d">
-<!ENTITY encryptionCert.message "Sinulle lähetetyt viestit salataan ja avataan tällä avaimella:">
+<!ENTITY encryptionCert.message "Lähettämäsi viestit salataan ja avataan tällä avaimella:">
 <!ENTITY digitalSign.certificate.button "Valitse…">
 <!ENTITY digitalSign.certificate.accesskey "V">
 <!ENTITY digitalSign.certificate_clear.button "Tyhjennä">
