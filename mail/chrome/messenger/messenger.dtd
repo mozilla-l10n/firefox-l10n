@@ -23,8 +23,10 @@
 <!ENTITY newVirtualFolderCmd.accesskey "O">
 <!ENTITY newOtherAccountsCmd.label "Andere accounts…">
 <!ENTITY newOtherAccountsCmd.accesskey "A">
-<!ENTITY newEmailAccountCmd.label "E-mailaccount…">
-<!ENTITY newEmailAccountCmd.accesskey "E">
+<!ENTITY newCreateEmailAccountCmd.label "Nieuw e-mailaccount ophalen…">
+<!ENTITY newCreateEmailAccountCmd.accesskey "N">
+<!ENTITY newExistingEmailAccountCmd.label "Bestaand E-mailaccount…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "B">
 <!ENTITY openMessageFileCmd.label "Opgeslagen bericht openen…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Bijlagen">
