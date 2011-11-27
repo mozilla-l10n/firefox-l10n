@@ -33,7 +33,7 @@
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "מצא עוד על תוספים או חפש ידנית תוספים חסרים">
 <!ENTITY pluginWizard.finalPage.restart.label                "יש להפעיל מחדש את &brandShortName; כדי שהתוספים החיצוניים יתפקדו.">
 
-<!ENTITY missingPlugin                                       "נחוץ תוסף חיצוני כדי להציג את תוכן זה.">
+<!ENTITY missingPlugin                                       "נחוץ תוסף חיצוני כדי להציג תוכן זה.">
 <!ENTITY disabledPlugin                                      "תוסף חיצוני זה אינו פעיל.">
 <!ENTITY blockedPlugin.label                                 "תוסף זה נחסם כדי להגן עליך.">
 
