@@ -3,7 +3,7 @@
 <!ENTITY muteButton.muteLabel "Disattiva audio">
 <!ENTITY muteButton.unmuteLabel "Attiva audio">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Schermo intero">
-<!ENTITY fullscreenButton.exitfullscreenlabel "Abbandona schermo intero">
+<!ENTITY fullscreenButton.exitfullscreenlabel "Esci da schermo intero">
 <!ENTITY stats.media "Media">
 <!ENTITY stats.size "Dimensione">
 <!ENTITY stats.activity "Attività">
