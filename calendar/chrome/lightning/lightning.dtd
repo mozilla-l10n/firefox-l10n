@@ -50,8 +50,11 @@
 
 <!-- New menu popup in File menu -->
 <!ENTITY lightning.menupopup.new.event.label    "אירוע…">
+<!ENTITY lightning.menupopup.new.event.accesskey "א">
 <!ENTITY lightning.menupopup.new.task.label     "משימה…">
+<!ENTITY lightning.menupopup.new.task.accesskey "מ">
 <!ENTITY lightning.menupopup.new.calendar.label "לוח שנה…">
+<!ENTITY lightning.menupopup.new.calendar.accesskey "ל">
 
 <!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.label               "פתיחה">
@@ -61,11 +64,15 @@
 <!ENTITY lightning.menupopup.open.calendar.label      "קובץ לוח שנה…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "ל">
 
-<!-- Messenger Sidebar -->
-<!ENTITY lightning.calendar.label            "לוח שנה">
-<!ENTITY lightning.calendar.accesskey        "ל">
-<!ENTITY lightning.tasks.label               "משימות">
-<!ENTITY lightning.tasks.accesskey           "מ">
+<!-- View Menu -->
+<!ENTITY lightning.menu.view.calendar.label            "לוח שנה">
+<!ENTITY lightning.menu.view.calendar.accesskey        "ל">
+<!ENTITY lightning.menu.view.tasks.label               "משימות">
+<!ENTITY lightning.menu.view.tasks.accesskey           "ש">
+
+<!-- Events and Tasks menu -->
+<!ENTITY lightning.menu.eventtask.label                "אירועים ומשימות">
+<!ENTITY lightning.menu.eventtask.accesskey            "ר">
 
 <!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.mail.label         "דואר">
@@ -98,6 +105,8 @@
 <!ENTITY lightning.imipbar.description "הודעה זו כוללת הזמנה לאירוע.">
 
 <!-- Lightning specific keybindings -->
+<!ENTITY lightning.keys.event.showCalendar.key "C">
+<!ENTITY lightning.keys.event.showTasks.key "D">
 <!ENTITY lightning.keys.event.new "I">
 <!ENTITY lightning.keys.todo.new "D">
 
@@ -114,3 +123,4 @@
 <!ENTITY todaypane.showTodayPane.label "הצג את לוח היום">
 <!ENTITY todaypane.showTodayPane.accesskey "צ">
 <!ENTITY todaypane.statusButton.label "לוח היום">
+

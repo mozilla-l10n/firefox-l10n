@@ -47,4 +47,6 @@
 <!ENTITY calendar.invitations.list.alldayevent.text                     "אירוע של כל היום">
 <!ENTITY calendar.invitations.list.location.text                        "מיקום: ">
 <!ENTITY calendar.invitations.list.organizer.text                       "מארגן: ">
+<!ENTITY calendar.invitations.list.attendee.text                        "משתתף: ">
 <!ENTITY calendar.invitations.list.none.text                            "ללא">
+
