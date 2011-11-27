@@ -229,7 +229,14 @@ can reach it easily. -->
 <!ENTITY inspectCloseButton.tooltiptext "Zamknij Inspektora">
 <!ENTITY inspectStyleButton.label     "Styl">
 <!ENTITY inspectStyleButton.accesskey "S">
-    
+
+<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
+  -  in the Tools menu. -->
+<!ENTITY styleeditor.label            "Edytor stylów">
+<!ENTITY styleeditor.accesskey        "y">
+<!ENTITY styleeditor.keycode          "VK_F7">
+<!ENTITY styleeditor.keytext          "F7">
+
 <!ENTITY getMoreDevtoolsCmd.label        "Pobierz więcej narzędzi">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "P">
     
