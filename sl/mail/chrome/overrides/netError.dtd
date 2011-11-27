@@ -51,6 +51,10 @@
 <!ENTITY netInterrupt.title "Povezava je bila prekinjena">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+
+<!ENTITY notCached.title "Dokument je potekel">
+<!ENTITY notCached.longDesc "<p>Zahtevani dokument v medpomnilniku brskalnika ni več na razpolago.</p><ul><li>Iz varnostnih razlogov &brandShortName; občutljivih dokumentov ne zahteva ponovno.</li><li>Kliknite na poskusi znova, da sdokument ponovno zahteva s spletne strani.</li></ul>">
+
 <!ENTITY netOffline.title "Brez povezave">
 <!ENTITY netOffline.longDesc2 "
 <ul>

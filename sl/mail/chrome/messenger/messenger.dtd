@@ -23,8 +23,10 @@
 <!ENTITY newVirtualFolderCmd.accesskey "h">
 <!ENTITY newOtherAccountsCmd.label "Drugi računi …">
 <!ENTITY newOtherAccountsCmd.accesskey "D">
-<!ENTITY newEmailAccountCmd.label "Poštni račun …">
-<!ENTITY newEmailAccountCmd.accesskey "R">
+<!ENTITY newCreateEmailAccountCmd.label "Odpri nov poštni račun …">
+<!ENTITY newCreateEmailAccountCmd.accesskey "R">
+<!ENTITY newExistingEmailAccountCmd.label "Obstoječ poštni račun…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "O">
 <!ENTITY openMessageFileCmd.label "Odpri shranjeno sporočilo …">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Priponke">
@@ -134,6 +136,8 @@
 <!ENTITY messagePaneWide.accesskey "Š">
 <!ENTITY messagePaneVertical.label "Navpična postavitev">
 <!ENTITY messagePaneVertical.accesskey "N">
+<!ENTITY showFolderPaneCmd.label "Podokno za mapo">
+<!ENTITY showFolderPaneCmd.accesskey "M">
 <!ENTITY showMessageCmd.label "Podokno za sporočila">
 <!ENTITY showMessageCmd.accesskey "P">
 

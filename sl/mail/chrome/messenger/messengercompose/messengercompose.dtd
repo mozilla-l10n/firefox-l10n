@@ -16,6 +16,7 @@
 <!ENTITY attachMenu.accesskey "n">
 <!ENTITY attachFileCmd.label "Datoteke…">
 <!ENTITY attachFileCmd.accesskey "D">
+<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachPageCmd.label "Spletno stran…">
 <!ENTITY attachPageCmd.accesskey "L">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->

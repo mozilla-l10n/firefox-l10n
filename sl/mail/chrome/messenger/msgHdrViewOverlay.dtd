@@ -117,6 +117,8 @@
 <!ENTITY deleteAllAttachmentsCmd.label    "Izbriši vse …">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "š">
 
+<!ENTITY openAttachment.tooltip "Odpri pripeto datoteko">
+
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "shrani">
 <!ENTITY saveAttachmentButton1.tooltip     "shrani pripeto datoteko">
