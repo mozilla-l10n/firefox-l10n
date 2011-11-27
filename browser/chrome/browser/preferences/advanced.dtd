@@ -3,13 +3,14 @@
 #
 # Yaron <sh.yaron@gmail.com>
 # elad <el.il@doom.co.il>
-# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+# Tomer Cohen <tomer.mozilla@tomercohen.com>
 #
 -->
 <!--
 # Reviewer(s):
 #
-# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+# Tomer Cohen <tomer.mozilla@tomercohen.com>
+# hatul <amiadb@gmail.com>
 #
 -->
 <!-- Note: each tab panel must contain unique accesskeys -->
@@ -72,22 +73,29 @@
 
 <!ENTITY updateTab.label                 "עדכון">
 
-<!ENTITY autoCheck.label                 "בדוק אוטומטית אם ישנם עדכונים עבור:">
-<!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate2.label       "תוספות">
-<!ENTITY enableAddonsUpdate2.accesskey   "ת">
-<!ENTITY enableSearchUpdate.label        "מנועי חיפוש">
-<!ENTITY enableSearchUpdate.accesskey    "מ">
-<!ENTITY whenUpdatesFound.label          "כאשר נמצאים עדכונים עבור &brandShortName;:">
-<!ENTITY askMe.label                     "שאל אותי מה לעשות">
-<!ENTITY askMe.accesskey                 "ש">
-<!ENTITY modeAutomatic.label             "הורד והתקן את העדכון אוטומטית">
-<!ENTITY modeAutomatic.accesskey         "ע">
-<!ENTITY modeAutoAddonWarn.label         "הזהר אותי אם זה ינטרל תוספת כלשהי">
-<!ENTITY modeAutoAddonWarn.accesskey     "נ">
+<!ENTITY updateApp.label                 "עדכוני &brandShortName;:">
+<!ENTITY updateAuto.label                "התקנת עדכונים אוטומטית (מומלץ: אבטחה משופרת)">
+<!ENTITY updateAuto.accesskey            "א">
+<!ENTITY updateCheck.label               "בדיקת עדכונים, אבל הצגת הודעה שתאפשר לי לבחור אם להתקין אותם">
+<!ENTITY updateCheck.accesskey           "ה">
+<!ENTITY updateManual.label              "לעולם לא לבצע בדיקת עדכונים (לא מומלץ: סיכוני אבטחה)">
+<!ENTITY updateManual.accesskey          "ל">
+
+<!ENTITY updateAutoAddonWarn.label       "הזהר אותי אם עדכון זה ינטרל תוספות מותקנות">
+<!ENTITY updateAutoAddonWarn.accesskey   "ז">
+
 <!ENTITY updateHistory.label             "הצג היסטורית עדכונים">
 <!ENTITY updateHistory.accesskey         "צ">
+
+
+<!ENTITY useService.label                "שימוש בשירות רקע לשם התקנת עדכונים">
+<!ENTITY useService.accesskey            "b">
+
+<!ENTITY updateOthers.label              "עדכונים אוטומטיים עבור:">
+<!ENTITY enableAddonsUpdate3.label       "תוספות">
+<!ENTITY enableAddonsUpdate3.accesskey   "ת">
+<!ENTITY enableSearchUpdate.label        "מנועי חיפוש">
+<!ENTITY enableSearchUpdate.accesskey    "מ">
 
 <!ENTITY offlineNotify.label             "דווח לי כאשר אתר מבקש לשמור נתונים לשימוש לא מקוון">
 <!ENTITY offlineNotify.accesskey         "ד">
