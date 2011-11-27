@@ -164,6 +164,9 @@
 <!ENTITY updateCmd.label                                   "בדוק אם ישנם…">
 <!ENTITY updateCmd.accesskey                               "ב">
 
+<!ENTITY sunbird.export.calendar.label                     "יצוא לוח שנה…">
+<!ENTITY sunbird.export.calendar.accesskey                 "צ">
+
 <!-- Mac OS X "Window" menu items -->
 <!ENTITY windowMenu.label                                  "חלון">
 <!ENTITY minimizeWindow.label                              "מזער">
@@ -180,3 +183,4 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey                    "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers                     "accel,alt">
 <!ENTITY showAllAppsCmdMac.label                           "הצג הכול">
+

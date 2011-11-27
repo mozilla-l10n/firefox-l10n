@@ -86,7 +86,8 @@
 
 <!ENTITY onemonthbackward.tooltip "חודש אחד אחורה" >
 <!ENTITY onemonthforward.tooltip "חודש אחד קדימה" >
-<!ENTITY onedaybackward.tooltip "יום אחד אחורה">
-<!ENTITY onedayforward.tooltip "יום אחד קדימה">
 <!ENTITY showToday.tooltip "עבור להיום">
+<!ENTITY onedayforward.tooltip "יום אחד קדימה">
+<!ENTITY onedaybackward.tooltip "יום אחד אחורה">
 <!ENTITY showselectedday.tooltip "הצג אירועים ליום הנבחר">
+

@@ -43,42 +43,40 @@
 <!ENTITY  window.width                  "37em">
 <!ENTITY  window.macWidth               "39em">
 
-<!ENTITY proxyTitle.label "קבע תצורה לשרתים מתווכים לגישה לאינטרנט">
+<!ENTITY  proxyTitle.label              "קבע תצורה לשרתים מתווכים לגישה לאינטרנט">
 <!ENTITY  directTypeRadio.label         "חיבור ישיר לרשת">
 <!ENTITY  directTypeRadio.accesskey     "ח">
-<!ENTITY WPADTypeRadio.label "זהה אוטומטית הגדרות שרת מתווך עבור רשת זו">
+<!ENTITY  WPADTypeRadio.label           "זהה אוטומטית הגדרות שרת מתווך עבור רשת זו">
 <!ENTITY  WPADTypeRadio.accesskey       "ז">
-<!ENTITY manualTypeRadio.accesskey "ה">
-<!ENTITY manualTypeRadio.label "הגדרות שרת מתווך ידניות:">
-<!ENTITY autoTypeRadio.label "URL לתצורה אוטומטית של שרת מתווך:">
+<!ENTITY  manualTypeRadio.label         "הגדרות שרת מתווך ידניות:">
+<!ENTITY  manualTypeRadio.accesskey     "ה">
+<!ENTITY  autoTypeRadio.label           "URL לתצורה אוטומטית של שרת מתווך:">
 <!ENTITY  autoTypeRadio.accesskey       "א">
-<!ENTITY reload.accesskey "ט">
-<!ENTITY reload.label "טען מחדש">
-<!ENTITY ftp.accesskey "F">
-<!ENTITY ftp.label "שרת מתווך FTP:">
-<!ENTITY gopher.label "שרת מתווך Gopher:">
-<!ENTITY gopherPort.accesskey "">
-<!ENTITY http.accesskey "H">
-<!ENTITY http.label "שרת מתווך HTTP‏:">
-<!ENTITY socks.accesskey "C">
-<!ENTITY socks.label "שרת מארח SOCKS:">
-<!ENTITY socks4.accesskey "K">
-<!ENTITY socks4.label "SOCKS v4">
-<!ENTITY socks5.accesskey "v">
-<!ENTITY socks5.label "SOCKS v5">
-<!ENTITY ssl.accesskey "S">
-<!ENTITY ssl.label "שרת מתווך SSL:">
-<!ENTITY port.label "שער:">
+<!ENTITY  reload.label                  "טען מחדש">
+<!ENTITY  reload.accesskey              "ט">
+<!ENTITY  ftp.label                     "שרת מתווך FTP:">
+<!ENTITY  ftp.accesskey                 "F">
+<!ENTITY  http.label                    "שרת מתווך HTTP‏:">
+<!ENTITY  http.accesskey                "H">
+<!ENTITY  ssl.label                     "שרת מתווך SSL:">
+<!ENTITY  ssl.accesskey                 "S">
+<!ENTITY  socks.label                   "שרת מארח SOCKS:">
+<!ENTITY  socks.accesskey               "C">
+<!ENTITY  socks4.label                  "SOCKS v4">
+<!ENTITY  socks4.accesskey              "K">
+<!ENTITY  socks5.label                  "SOCKS v5">
+<!ENTITY  socks5.accesskey              "v">
+<!ENTITY  port.label                    "שער:">
 <!ENTITY  HTTPport.accesskey            "ש">
 <!ENTITY  SSLport.accesskey             "ע">
 <!ENTITY  FTPport.accesskey             "ר">
 <!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
 <!ENTITY  gopherPort.accesskey          "">
 <!ENTITY  SOCKSport.accesskey           "">
-<!ENTITY noproxy.label "אין צורך בשרת מתווך עבור:">
+<!ENTITY  noproxy.label                 "אין צורך בשרת מתווך עבור:">
 <!ENTITY  noproxy.accesskey             "א">
 <!ENTITY  noproxyExplain.label          "לדוגמה: .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY shareproxy.accesskey "פ">
-<!ENTITY shareproxy.label "השתמש בשרת מתווך זה עבור כל הפרוטוקולים">
+<!ENTITY  shareproxy.label              "השתמש בשרת מתווך זה עבור כל הפרוטוקולים">
+<!ENTITY  shareproxy.accesskey          "פ">
 
 <!ENTITY  gopher.accesskey              "G">
