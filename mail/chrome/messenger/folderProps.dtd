@@ -38,65 +38,65 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY folderProps.windowtitle.label           "Properties">
+<!ENTITY folderProps.windowtitle.label           "Postavke">
 
-<!ENTITY generalInfo.label                       "General Information">
-<!ENTITY folderCharsetTab.label                  "Default Character Encoding:">
-<!ENTITY folderCharsetTab.accesskey              "E">
-<!ENTITY folderCharsetOverride.label             "Apply default to all messages in the folder (individual message character encoding settings and auto-detection will be ignored)">
-<!ENTITY folderCharsetOverride.accesskey         "A">
-<!ENTITY folderRebuildSummaryFileTip2.label      "Rebuild Summary File Index">
-<!ENTITY folderRebuildSummaryFile2.label         "Repair Folder">
-<!ENTITY folderRebuildSummaryFile2.accesskey     "R">
-<!ENTITY folderRebuildSummaryFile.explanation    "Sometimes the folder index (.msf) file becomes damaged and messages may appear missing or deleted messages continue showing; repairing the folder may fix these issues.">
-<!ENTITY folderIncludeInGlobalSearch.label       "Include messages in this folder in Global Search results">
-<!ENTITY folderIncludeInGlobalSearch.accesskey   "G">
+<!ENTITY generalInfo.label                       "Opće informacije">
+<!ENTITY folderCharsetTab.label                  "Zadana kodna stranica:">
+<!ENTITY folderCharsetTab.accesskey              "k">
+<!ENTITY folderCharsetOverride.label             "Primjeni zadano na sve poruke u mapi (postavke kodnih stranica pojedinih poruka i automatsko otkrivanje će biti zanemareno)">
+<!ENTITY folderCharsetOverride.accesskey         "a">
+<!ENTITY folderRebuildSummaryFileTip2.label      "Ponovno izgradi skupnu indeks datoteku">
+<!ENTITY folderRebuildSummaryFile2.label         "Popravi mapu">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "r">
+<!ENTITY folderRebuildSummaryFile.explanation    "Ponekad se (.msf) datoteka koja je indeks mape ošteti i poruke izgledaju nedostupne ili se izbrisane poruke i dalje pojavljuju; popravak mape možda popravi ove probleme.">
+<!ENTITY folderIncludeInGlobalSearch.label       "Uvrsti poruke iz ove mape u globalne rezultate pretraživanja">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "g">
      
-<!ENTITY retention.label "Retention Policy">
-<!ENTITY retentionUseAccount.label  "Use my account settings">
-<!ENTITY retentionUseAccount.accesskey "U">
-<!ENTITY daysOld.label "days old">
-<!ENTITY message.label "messages">
-<!ENTITY retentionCleanup.label "To recover disk space, old messages can be permanently deleted.">
-<!ENTITY retentionCleanupImap.label "To recover disk space, old messages can be permanently deleted, both local copies and originals on the remote server.">
-<!ENTITY retentionCleanupPop.label "To recover disk space, old messages can be permanently deleted, including originals on the remote server.">
-<!ENTITY retentionDeleteMsg.label "Delete messages more than">
-<!ENTITY retentionDeleteMsg.accesskey "m">
-<!ENTITY retentionKeepAll.label "Don't delete any messages">
-<!ENTITY retentionKeepAll.accesskey "A">
-<!ENTITY retentionKeepRecent.label "Delete all but the most recent">
-<!ENTITY retentionKeepRecent.accesskey "l">
+<!ENTITY retention.label "Politika čuvanja">
+<!ENTITY retentionUseAccount.label  "Koristi moje postavke računa">
+<!ENTITY retentionUseAccount.accesskey "u">
+<!ENTITY daysOld.label "dana">
+<!ENTITY message.label "najnovijih poruka">
+<!ENTITY retentionCleanup.label "Kako bi povratili diskovni prostor stare poruke mogu biti trajno izbrisane.">
+<!ENTITY retentionCleanupImap.label "Kako bi povratili diskovni prostor stare poruke mogu biti trajno izbrisane, lokalne kopije i izvorne na udaljenom poslužitelju.">
+<!ENTITY retentionCleanupPop.label "Kako bi povratili diskovni prostor stare poruke mogu biti trajno izbrisane, uključujući i izvorne poruke na udaljenom poslužitelju.">
+<!ENTITY retentionDeleteMsg.label "Obriši poruke starije od">
+<!ENTITY retentionDeleteMsg.accesskey "b">
+<!ENTITY retentionKeepAll.label "Ne briši nikakve poruke">
+<!ENTITY retentionKeepAll.accesskey "a">
+<!ENTITY retentionKeepRecent.label "Obriši sve osim">
+<!ENTITY retentionKeepRecent.accesskey "i">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Always delete read messages (overrides age settings)">
-<!ENTITY retentionApplyToFlagged.label "Always keep starred messages">
+<!ENTITY retentionKeepUnreadHidden.label "Uvijek obriši pročitane poruke (nadjačaj starosne postavke)">
+<!ENTITY retentionApplyToFlagged.label "Uvijek zadrži poruke označene zvijezdom">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
-<!ENTITY folderSynchronizationTab.label          "Synchronization">
-<!ENTITY folderCheckForNewMessages2.label         "When getting new messages for this account, always check this folder">
-<!ENTITY folderCheckForNewMessages2.accesskey     "c">
+<!ENTITY folderSynchronizationTab.label          "Sinkronizacija">
+<!ENTITY folderCheckForNewMessages2.label         "Prilikom primanja novih poruka za ovaj račun, uvijek provjeri ovu mapu">
+<!ENTITY folderCheckForNewMessages2.accesskey     "m">
 
-<!ENTITY offlineFolder.check.label               "Select this folder for offline use">
-<!ENTITY offlineFolder.check.accesskey           "S">
-<!ENTITY offlineFolder.button.label              "Download Now">
-<!ENTITY offlineFolder.button.accesskey          "D">
+<!ENTITY offlineFolder.check.label               "Odaberi ovu mapu za izvanmrežno korištenje">
+<!ENTITY offlineFolder.check.accesskey           "v">
+<!ENTITY offlineFolder.button.label              "Preuzmi sada">
+<!ENTITY offlineFolder.button.accesskey          "z">
 
-<!ENTITY selectofflineNewsgroup.check.label      "Select this newsgroup for offline use">
-<!ENTITY selectofflineNewsgroup.check.accesskey  "o">
-<!ENTITY offlineNewsgroup.button.label           "Download Now">
-<!ENTITY offlineNewsgroup.button.accesskey       "D">
+<!ENTITY selectofflineNewsgroup.check.label      "Odaberi ovu interesnu grupu za izvanmrežno korištenje">
+<!ENTITY selectofflineNewsgroup.check.accesskey  "O">
+<!ENTITY offlineNewsgroup.button.label           "Preuzmi sada">
+<!ENTITY offlineNewsgroup.button.accesskey       "z">
 
-<!ENTITY folderProps.name.label                  "Name:">
+<!ENTITY folderProps.name.label                  "Naziv:">
 <!ENTITY folderProps.name.accesskey              "N">
-<!ENTITY folderProps.location.label              "Location:">
+<!ENTITY folderProps.location.label              "Lokacija:">
 <!ENTITY folderProps.location.accesskey          "L">
 
-<!ENTITY folderSharingTab.label                  "Sharing">
-<!ENTITY privileges.button.label                 "Privileges…">
+<!ENTITY folderSharingTab.label                  "Dijeljenje">
+<!ENTITY privileges.button.label                 "Povlastice…">
 <!ENTITY privileges.button.accesskey             "P">
-<!ENTITY permissionsDesc.label                   "You have the following permissions:">
-<!ENTITY folderType.label                        "Folder Type:">
+<!ENTITY permissionsDesc.label                   "Imate slijedeće dozvole:">
+<!ENTITY folderType.label                        "Vrsta mape:">
 
-<!ENTITY folderQuotaTab.label                    "Quota">
-<!ENTITY folderQuotaRoot.label                   "Quota Root:">
-<!ENTITY folderQuotaUsage.label                  "Usage:">
+<!ENTITY folderQuotaTab.label                    "Kvota">
+<!ENTITY folderQuotaRoot.label                   "Root kvota:">
+<!ENTITY folderQuotaUsage.label                  "Upotreba:">
 <!ENTITY folderQuotaStatus.label                 "Status:">
