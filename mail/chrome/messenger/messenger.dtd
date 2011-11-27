@@ -1,4 +1,3 @@
-<!ENTITY messengerWindow.title "郵件與新聞群組">
 <!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
@@ -750,13 +749,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextPause.accesskey "P">
 <!ENTITY contextMute.label "靜音">
 <!ENTITY contextMute.accesskey "M">
-<!ENTITY contextUnmute.label "聲音">
+<!ENTITY contextUnmute.label "取消靜音">
 <!ENTITY contextUnmute.accesskey "m">
 
 <!-- Junk Bar -->
 <!ENTITY junkBarMessage1.label "垃圾郵件">
 <!ENTITY junkBarButton1.label "非垃圾信">
-<!ENTITY junkInfoButton.label "？">
+<!ENTITY junkInfoButton.label "?">
 
 <!-- Remote Content Bar -->
 <!ENTITY remoteContentMessage2.label "為保護您的隱私，&brandShortName; 已阻擋來自遠端的內容。">
