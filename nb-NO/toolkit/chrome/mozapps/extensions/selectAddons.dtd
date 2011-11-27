@@ -3,10 +3,10 @@
 <!ENTITY checking.heading            "Kontrollerer utvidelser">
 <!ENTITY checking.progress.label     "Kontrollerer utvidelser for kompatibilitet med denne versjonen av &brandShortName;.">
 
-<!ENTITY select.heading              "Velg dine utvidelser">
+<!ENTITY select.heading              "Velg utvidelser">
 <!-- LOCALIZATION NOTE (select.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
-<!ENTITY select.description          "Gjør &brandShortName; enda raskere ved å skru av utvidelser du ikke lenger bruker. Utvidelser som er installert av tredjeparter vil automatisk slått av med mindre du velger dem nedenfor.">
+<!ENTITY select.description          "Gjør &brandShortName; enda raskere ved å skru av utvidelser du ikke lenger bruker. Utvidelser som er installert av tredjeparter slås automatisk av med mindre du velger dem nedenfor.">
 <!ENTITY select.keep                 "Behold">
 <!-- LOCALIZATION NOTE (select.keep.style): Should be a width wide enough for
      the string in select.keep above. -->
@@ -22,12 +22,12 @@
      selectAddons.properties. -->
 <!ENTITY select.name.style           "width: 33ch;">
 
-<!ENTITY confirm.heading             "Velg dine utvidelser">
+<!ENTITY confirm.heading             "Velg utvidelser">
 <!-- LOCALIZATION NOTE (confirm.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
-<!ENTITY confirm.description         "Gjør &brandShortName; enda raskere ved å skru av utvidelser du ikke bruker lenger. Utvidelser som er installert av tredjeparter vil bli slått av automatisk med mindre du velger dem nedenfor.">
+<!ENTITY confirm.description         "Gjør &brandShortName; enda raskere ved å skru av utvidelser du ikke bruker lenger. Utvidelser som er installert av tredjeparter slås automatisk av med mindre du velger dem nedenfor.">
 
-<!ENTITY action.disable.heading      "Følgende utvidelser vil bli slått av:">
+<!ENTITY action.disable.heading      "Følgende utvidelser vil slås av:">
 <!ENTITY action.incompatible.heading "Følgende utvidelser er avslått, men vil bli påslått så snart de er kompatible:">
 <!ENTITY action.update.heading       "Følgende utvidelser vil bli oppdatert:">
 <!ENTITY action.enable.heading       "Følgende utvidelser vil bli slått på:">
