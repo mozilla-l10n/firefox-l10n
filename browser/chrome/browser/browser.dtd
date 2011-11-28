@@ -90,6 +90,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "退出全屏模式">
 <!ENTITY fullScreenExit.accesskey "F">
+<!ENTITY domFullScreenWarning.label "请按 ESC 键离开全频模式">
 
 <!ENTITY closeWindow.label "关闭窗口">
 <!ENTITY closeWindow.accesskey "d">
@@ -136,7 +137,7 @@ can reach it easily. -->
 <!ENTITY homeButton.label             "主页">
 
 <!ENTITY tabGroupsButton.label        "标签页组">
-<!ENTITY tabGroupsButton.tooltip      "将您的标签页分组">
+<!ENTITY tabGroupsButton.tooltip      "给您的标签页分组">
 
 <!ENTITY feedButton.label             "订阅">
 <!ENTITY feedButton.tooltip           "订阅此页…">
@@ -190,11 +191,11 @@ can reach it easily. -->
 <!ENTITY webConsoleCmd.accesskey      "W">
 <!ENTITY webConsoleCmd.commandkey     "k">
 
-<!ENTITY inspectMenu.label            "检查">
+<!ENTITY inspectMenu.label            "查看">
 <!ENTITY inspectMenu.accesskey        "T">
 <!ENTITY inspectMenu.commandkey       "I">
 
-<!ENTITY inspectContextMenu.label     "检查元素">
+<!ENTITY inspectContextMenu.label     "查看元素">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
@@ -212,9 +213,12 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectPanelTitle.label      "HTML">
-<!ENTITY inspectButton.label          "检查">
-<!ENTITY inspectButton.accesskey      "I">
+<!ENTITY inspectPanelTitle.label        "HTML">
+<!ENTITY inspectButton.label            "查看">
+<!ENTITY inspectButton.accesskey        "I">
+<!ENTITY inspectCloseButton.tooltiptext "关闭查看器">
+<!ENTITY inspectStyleButton.label     "样式">
+<!ENTITY inspectStyleButton.accesskey "S">
 
 <!ENTITY getMoreDevtoolsCmd.label        "获取更多工具">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "M">
@@ -432,7 +436,12 @@ can reach it easily. -->
 <!ENTITY mediaHideControls.accesskey "C">
 <!ENTITY videoFullScreen.label       "全屏">
 <!ENTITY videoFullScreen.accesskey   "F">
-
+<!ENTITY videoSaveImage.label        "快照另存为…">
+<!ENTITY videoSaveImage.accesskey    "S">
+<!ENTITY videoShowStats.label        "显示统计信息">
+<!ENTITY videoShowStats.accesskey    "t">
+<!ENTITY videoHideStats.label        "隐藏统计信息">
+<!ENTITY videoHideStats.accesskey    "t">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
