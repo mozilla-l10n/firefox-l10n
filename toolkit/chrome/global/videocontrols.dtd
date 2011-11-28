@@ -2,6 +2,8 @@
 <!ENTITY playButton.pauseLabel        "Pristabdyti">
 <!ENTITY muteButton.muteLabel         "Išjungti garsą">
 <!ENTITY muteButton.unmuteLabel       "Įjungti garsą">
+<!ENTITY fullscreenButton.enterfullscreenlabel "Visas ekranas">
+<!ENTITY fullscreenButton.exitfullscreenlabel "Normalioji veiksena">
 
 <!ENTITY stats.media "Medija">
 <!ENTITY stats.size "Dytis">
