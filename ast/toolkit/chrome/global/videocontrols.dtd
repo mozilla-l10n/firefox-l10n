@@ -16,6 +16,9 @@
 <!ENTITY stats.framesDecoded "Imáxenes decodificaes">
 <!ENTITY stats.framesPresented "Imáxenes presentaes">
 <!ENTITY stats.framesPainted "Imáxenes amosaes">
+<!ENTITY fullscreenButton.enterfullscreenlabel "Pantalla completa">
+<!ENTITY fullscreenButton.exitfullscreenlabel "Colar de pantalla completa">
+
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
