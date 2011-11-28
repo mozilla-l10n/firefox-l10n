@@ -9,3 +9,7 @@
 <!ENTITY prefCheckDefault.caption   "系统集成">
 <!ENTITY prefCheckDefaultClient.label "启动时检查默认应用程序设置">
 <!ENTITY prefCheckDefaultClient.accesskey "C">
+
+<!ENTITY crashReports.caption       "崩溃报告程序">
+<!ENTITY submitCrashes.label        "提交崩溃报告">
+<!ENTITY submitCrashes.accesskey    "S">

@@ -41,7 +41,6 @@
 <!ENTITY editRewrapCmd.label "重新排版">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey  "w">
-<!ENTITY findCmd.label "查找并替换…">
 <!ENTITY accountManagerCmd.label "邮件 &amp; 新闻组帐户设置…">
 <!ENTITY accountManagerCmd.accesskey "m">
 
@@ -64,11 +63,6 @@
 <!ENTITY selectAddressCmd.label "选择地址">
 <!ENTITY selectAddressCmd.key "">
 <!ENTITY selectAddressCmd.accesskey "A">
-
-<!ENTITY checkSpellingCmd2.label "拼写检查…">
-<!ENTITY checkSpellingCmd2.accesskey "h">
-<!ENTITY enableInlineSpellChecker.label "输入同时进行拼写检查">
-<!ENTITY enableInlineSpellChecker.accesskey "S">
 
 <!ENTITY priorityMenu.label "优先">
 <!ENTITY priorityMenu.accesskey "p">
