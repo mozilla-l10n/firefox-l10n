@@ -44,8 +44,7 @@
 <!ENTITY setup.newRecoveryKeyPage.description.label "För att skydda din personliga integritet kommer all data att krypteras innan den skickas till servern. Återställningsnyckeln som du använder för att dekryptera datan kommer inte skickas.">
 <!ENTITY recoveryKeyEntry.label        "Din återställningsnyckel">
 <!ENTITY recoveryKeyEntry.accesskey    "D">
-<!ENTITY recoveryKeyGenerate.label     "Generera">
-<!ENTITY recoveryKeyGenerate.accesskey "G">
+<!ENTITY recoveryGenerateNewKey.label  "Skapa en ny nyckel">
 <!ENTITY recoveryKeyBackup.description "Din återställningsnyckel behövs för att använda &syncBrand.fullName.label; på din andra enheter. Du bör skapa en säkerhetskopia av nyckeln. Vi kan inte hjälpa dig att återskapa en borttappad återställningsnyckel.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Skriv ut…">
