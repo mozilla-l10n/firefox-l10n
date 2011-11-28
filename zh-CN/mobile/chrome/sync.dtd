@@ -8,7 +8,7 @@
 <!ENTITY sync.syncNow               "立即同步">
 
 <!ENTITY sync.setup.title           "连接到同步">
-<!ENTITY sync.setup.jpake           "从一台 Firefox Sync 已连接的计算机，打开同步选项，并选择 &#x0022;添加设备&#x0022;">
+<!ENTITY sync.setup.pair            "请在您的其他设备上选择 &#x0022;设备配对&#x0022; 来激活。">
 <!ENTITY sync.fallback              "我不在电脑旁…">
 <!ENTITY sync.setup.manual          "输入您的同步账户信息">
 <!ENTITY sync.account               "帐户名称">
@@ -19,3 +19,9 @@
 <!ENTITY sync.setup.connect         "连接">
 <!ENTITY sync.setup.cancel          "取消">
 <!ENTITY sync.setup.tutorial        "教我怎样做">
+<!ENTITY sync.setup.waiting2        "正在等待其他设备…">
+
+<!ENTITY sync.pair.title            "设备配对">
+<!ENTITY sync.pair.description      "请在设备上选择 &#x0022;设置同步&#x0022; 来激活您的新设备。">
+<!ENTITY sync.setup.close           "关闭">
+<!ENTITY sync.setup.waitingdownload "您的数据目前正在后台下载。您随时可以关闭本窗口。">
