@@ -90,6 +90,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "h">
 <!ENTITY fullScreenExit.label "Etšwa mokgweng wa sekirini se se feleletšego">
 <!ENTITY fullScreenExit.accesskey "m">
+<!ENTITY domFullScreenWarning.label "Gatelela ESC gore o tloge mokgweng wa sekirini se tletšego">
 
 <!ENTITY closeWindow.label "Tswalela lefasetere">
 <!ENTITY closeWindow.accesskey "e">
@@ -212,9 +213,12 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectPanelTitle.label      "HTML">
-<!ENTITY inspectButton.label          "Hlahloba">
-<!ENTITY inspectButton.accesskey      "H">
+<!ENTITY inspectPanelTitle.label        "HTML">
+<!ENTITY inspectButton.label            "Hlahloba">
+<!ENTITY inspectButton.accesskey        "H">
+<!ENTITY inspectCloseButton.tooltiptext "Tswalela mohlahlobi">
+<!ENTITY inspectStyleButton.label     "Setaele">
+<!ENTITY inspectStyleButton.accesskey "S">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Hwetša dithulusi tše oketšegilego">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "o">
@@ -432,12 +436,17 @@ can reach it easily. -->
 <!ENTITY mediaHideControls.accesskey "d">
 <!ENTITY videoFullScreen.label       "Sekirini se se tletšego">
 <!ENTITY videoFullScreen.accesskey   "t">
+<!ENTITY videoSaveImage.label        "Boloka seswantšho e le...">
+<!ENTITY videoSaveImage.accesskey    "B">
+<!ENTITY videoShowStats.label        "Laetša dipalopalo">
+<!ENTITY videoShowStats.accesskey    "l">
+<!ENTITY videoHideStats.label        "Fihla dipalopalo">
+<!ENTITY videoHideStats.accesskey    "l">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
-
 
 
 <!ENTITY fullZoomEnlargeCmd.label       "Godišetša ka gare">

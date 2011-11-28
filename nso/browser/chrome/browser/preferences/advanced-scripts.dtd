@@ -40,8 +40,8 @@
 
 <!ENTITY allowScripts.label             "Dumelela dingwalwa go:">
 
-<!ENTITY moveResizeWindows.label        "Šuthiša goba o lokiše bogolo bja mafasetere ao a šetšego a le gona">
-<!ENTITY moveResizeWindows.accesskey    "t">
+<!ENTITY moveResizePopupWindows.label     "Šuthiša goba o lokiše bogolo bja mafasetere ao a runyago">
+<!ENTITY moveResizePopupWindows.accesskey "t">
 <!ENTITY raiseLowerWindows.label        "Iša godimo goba o theoše mafasetere">
 <!ENTITY raiseLowerWindows.accesskey    "I">
 <!ENTITY disableContextMenus.label      "Šitiša goba o tšee legato la diteng tša dikagare">

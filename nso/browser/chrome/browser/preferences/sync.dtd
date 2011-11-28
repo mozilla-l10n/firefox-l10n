@@ -17,7 +17,7 @@
 <!ENTITY myRecoveryKey.label          "Khii ya ka ya khwetšo">
 <!ENTITY resetSync2.label             "Beakanya nyalantšho ka leswa...">
 
-<!ENTITY addDevice.label              "Tsenya sedirišwa">
+<!ENTITY pairDevice.label             "Para sešomišwa">
 
 <!ENTITY syncMy.label               "Nyalantšha yaka">
 <!ENTITY engine.bookmarks.label     "Dipukutshwayo">

@@ -21,6 +21,7 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; e swanetše go thongwa gape gore ditsebišo-koketšo di šome.">
 
 <!ENTITY missingPlugin                                       "Go nyakega tsebišo-koketšo gore go tsentšwe dikagare tše.">
+<!ENTITY clickToPlayPlugin                                   "Kgotla mo gore o diragatše tsebišo-koketšo.">
 <!ENTITY disabledPlugin                                      "Tsebišo-koketšo ye e šitišitšwe.">
 <!ENTITY blockedPlugin.label                                 "Tsebišo-koketšo e thibetšwe bakeng sa tšhireletšo ya gago.">
 
@@ -33,8 +34,8 @@
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "Hlahlela letlakala gape">
 <!ENTITY reloadPlugin.post                                   " gore o leke gape.">
-<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.please                                       "Romela pego ya go pšhatlega">
+<!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.checkbox                                     "...gomme o romele pego ya go pšhatlega">
 <!ENTITY report.submitting                                   "Go romela pego…">
 <!ENTITY report.submitted                                    "Pego ya go pšhatlega e rometšwe.">
 <!ENTITY report.disabled                                     "Pego ya go pšhatlega e šitišitšwe.">
