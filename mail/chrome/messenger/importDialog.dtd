@@ -44,36 +44,36 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 "&brandShortName;" below.
 -->
 
-<!ENTITY importDialog.windowTitle "Import">
-<!ENTITY importAll.label          "Import Everything">
-<!ENTITY importAll.accesskey      "E">
-<!ENTITY importMail.label         "Mail">
-<!ENTITY importMail.accesskey     "M">
-<!ENTITY importAddressbook.label  "Address Books">
+<!ENTITY importDialog.windowTitle "Uvoz">
+<!ENTITY importAll.label          "Uvezi sve">
+<!ENTITY importAll.accesskey      "e">
+<!ENTITY importMail.label         "Pošta">
+<!ENTITY importMail.accesskey     "P">
+<!ENTITY importAddressbook.label  "Adresari">
 <!ENTITY importAddressbook.accesskey "A">
-<!ENTITY importSettings.label     "Settings">
-<!ENTITY importSettings.accesskey "S">
-<!ENTITY importFilters.label      "Filters">
+<!ENTITY importSettings.label     "Postavke">
+<!ENTITY importSettings.accesskey "s">
+<!ENTITY importFilters.label      "Filteri">
 <!ENTITY importFilters.accesskey  "F">
 
 <!ENTITY  window.width            "40em">
 <!ENTITY  window.macWidth         "45em">
 
-<!ENTITY importTitle.label        "&brandShortName; Import Wizard">
-<!ENTITY importShortDesc.label    "Import Mail, Address Books, Settings, and Filters from other programs">
+<!ENTITY importTitle.label        "&brandShortName; čarobnjak za uvoz">
+<!ENTITY importShortDesc.label    "Uvezite poštu, adresare, postavke i filtere iz drugih programa">
 
-<!ENTITY importDescription1.label "This wizard will import mail messages, address book entries, preferences, and/or filters from other mail programs and common address book formats into &brandShortName;.">
-<!ENTITY importDescription2.label "Once they have been imported, you will be able to access them from within &brandShortName;.">
+<!ENTITY importDescription1.label "Ovaj čarobnjak će uvesti poruke e-pošte, kontakte adresara, postavke i/ili filtere iz drugih programa e-pošte i uobičajenih formata adresara u &brandShortName;.">
+<!ENTITY importDescription2.label "Jednom uvezeni biti će dostupni za korištenje unutar &brandShortName;a.">
 
-<!ENTITY selectDescription.label  "Please select the type of file that you would like to import:">
-<!ENTITY selectDescription.accesskey "P">
+<!ENTITY selectDescription.label  "Odaberite vrstu datoteke koju želite uvesti:">
+<!ENTITY selectDescription.accesskey "O">
 
-<!ENTITY back.label               "&lt; Back">
-<!ENTITY forward.label            "Next &gt;">
-<!ENTITY finish.label             "Finish">
-<!ENTITY cancel.label             "Cancel">
+<!ENTITY back.label               "&lt; Prethodna">
+<!ENTITY forward.label            "Slijedeća &gt;">
+<!ENTITY finish.label             "Završi">
+<!ENTITY cancel.label             "Odustani">
 
-<!ENTITY select.label             "or select the type of material to import:">
+<!ENTITY select.label             "ili odaberite tip podataka za uvoz:">
 
-<!ENTITY title.label              "Title">
-<!ENTITY processing.label         "Importing…">
+<!ENTITY title.label              "Naslov">
+<!ENTITY processing.label         "Uvoz…">
