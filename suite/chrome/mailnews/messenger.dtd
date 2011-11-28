@@ -372,21 +372,8 @@
 <!ENTITY tagMenu.accesskey "d">
 <!ENTITY tagCustomize.label "Anpassa…">
 <!ENTITY tagCustomize.accesskey "A">
-<!ENTITY tagCmd0.key "0">
-<!ENTITY tagCmd1.key "1">
-<!ENTITY tagCmd2.key "2">
-<!ENTITY tagCmd3.key "3">
-<!ENTITY tagCmd4.key "4">
-<!ENTITY tagCmd5.key "5">
-<!ENTITY tagCmd6.key "6">
-<!ENTITY tagCmd7.key "7">
-<!ENTITY tagCmd8.key "8">
-<!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Märk">
 <!ENTITY markMenu.accesskey "M">
-<!ENTITY markAsReadCmd.label "Som läst">
-<!ENTITY markAsReadCmd.accesskey "m">
-<!ENTITY markAsReadCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "Hela tråden som läst">
 <!ENTITY markThreadAsReadCmd.accesskey "t">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -396,9 +383,6 @@
 <!ENTITY markAllReadCmd.label "Alla som lästa">
 <!ENTITY markAllReadCmd.accesskey "A">
 <!ENTITY markAllReadCmd.key "c">
-<!ENTITY markFlaggedCmd.label "Flagga">
-<!ENTITY markFlaggedCmd.accesskey "F">
-<!ENTITY markFlaggedCmd.key "i">
 <!ENTITY markAsJunkCmd.label "Som Skräppost">
 <!ENTITY markAsJunkCmd.accesskey "S">
 <!ENTITY markAsJunkCmd.key "j">
@@ -413,9 +397,6 @@
 <!ENTITY markAsNotPhishCmd.label "Som Ej nätfiske">
 <!ENTITY markAsNotPhishCmd.accesskey "i">
 <!ENTITY markAsNotPhishCmd.key "p">
-<!ENTITY openMessageWindowCmd.label "Öppna meddelande">
-<!ENTITY openMessageWindowCmd.accesskey "Ö">
-<!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY openFeedMessage.label "Öppna kanalmeddelande">
 <!ENTITY openFeedMessage.accesskey "k">
 <!ENTITY openFeedWebPageInWindow.label "Webbsida i nytt fönster">

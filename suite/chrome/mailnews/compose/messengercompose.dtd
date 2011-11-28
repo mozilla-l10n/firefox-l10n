@@ -41,7 +41,6 @@
 <!ENTITY editRewrapCmd.label "Ombryt">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey  "y">
-<!ENTITY findCmd.label "Sök och ersätt…">
 <!ENTITY accountManagerCmd.label "Kontoinställningar för E-post &amp; Grupper…">
 <!ENTITY accountManagerCmd.accesskey "ä">
 
@@ -64,11 +63,6 @@
 <!ENTITY selectAddressCmd.label "Välj adresser…">
 <!ENTITY selectAddressCmd.key "">
 <!ENTITY selectAddressCmd.accesskey "V">
-
-<!ENTITY checkSpellingCmd2.label "Kontrollera stavningen…">
-<!ENTITY checkSpellingCmd2.accesskey "K">
-<!ENTITY enableInlineSpellChecker.label "Automatisk stavningskontroll">
-<!ENTITY enableInlineSpellChecker.accesskey "u">
 
 <!ENTITY priorityMenu.label "Prioritet">
 <!ENTITY priorityMenu.accesskey "p">

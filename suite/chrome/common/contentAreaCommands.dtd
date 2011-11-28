@@ -104,6 +104,12 @@
 <!ENTITY mediaHideControls.accesskey  "a">
 <!ENTITY videoFullScreen.label        "Helskärm">
 <!ENTITY videoFullScreen.accesskey    "H">
+<!ENTITY videoSaveImage.label         "Spara stillbild som…">
+<!ENTITY videoSaveImage.accesskey     "S">
+<!ENTITY videoShowStats.label         "Visa statistik">
+<!ENTITY videoShowStats.accesskey     "t">
+<!ENTITY videoHideStats.label         "Dölj statistik">
+<!ENTITY videoHideStats.accesskey     "t">
 <!ENTITY search.accesskey             "W">
 <!ENTITY bidiSwitchPageDirectionItem.label        "Byt sidriktning">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">
