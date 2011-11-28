@@ -39,9 +39,9 @@
 <!ENTITY aboutWarningText.label "Изменение этих настроек может привести к ухудшению стабильности, безопасности и производительности данного приложения. Вам следует изменять что-либо только в том случае, если вы уверены в том, что делаете.">
 <!ENTITY aboutWarningButton.label "Я обещаю, что буду осторожен!">
 <!ENTITY aboutWarningCheckbox.label "Показывать это предупреждение в следующий раз">
-<!ENTITY filterPrefs.label "Фильтр:">
-<!ENTITY filterPrefs.accesskey "л">
-<!ENTITY focusFilter.key "f">
+<!ENTITY searchPrefs.label "Поиск:">
+<!ENTITY searchPrefs.accesskey "о">
+<!ENTITY focusSearch.key "r">
 <!ENTITY prefColumn.label "Имя настройки">
 <!ENTITY lockColumn.label "Состояние">
 <!ENTITY typeColumn.label "Тип">
@@ -50,22 +50,22 @@
 <!ENTITY columnChooser.tooltip "Нажмите, чтобы выбрать колонки для отображения">
 <!ENTITY copyPref.key "C">
 <!ENTITY copyPref.label "Копировать">
-<!ENTITY copyPref.accesskey "К">
+<!ENTITY copyPref.accesskey "п">
 <!ENTITY copyName.label "Копировать имя">
 <!ENTITY copyName.accesskey "и">
 <!ENTITY copyValue.label "Копировать значение">
-<!ENTITY copyValue.accesskey "з">
+<!ENTITY copyValue.accesskey "в">
 <!ENTITY modify.label "Изменить">
-<!ENTITY modify.accesskey "И">
+<!ENTITY modify.accesskey "з">
 <!ENTITY toggle.label "Переключить">
-<!ENTITY toggle.accesskey "П">
+<!ENTITY toggle.accesskey "л">
 <!ENTITY reset.label "Сбросить">
-<!ENTITY reset.accesskey "р">
+<!ENTITY reset.accesskey "б">
 <!ENTITY new.label "Создать">
-<!ENTITY new.accesskey "з">
+<!ENTITY new.accesskey "а">
 <!ENTITY string.label "Строка">
-<!ENTITY string.accesskey "т">
+<!ENTITY string.accesskey "к">
 <!ENTITY integer.label "Целое">
-<!ENTITY integer.accesskey "Ц">
+<!ENTITY integer.accesskey "е">
 <!ENTITY boolean.label "Логическое">
-<!ENTITY boolean.accesskey "Л">
+<!ENTITY boolean.accesskey "ч">
