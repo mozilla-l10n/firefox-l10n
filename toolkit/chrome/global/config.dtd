@@ -43,9 +43,9 @@
 <!ENTITY aboutWarningButton.label   "Je ferai attention, promis !">
 <!ENTITY aboutWarningCheckbox.label "Afficher cet avertissement la prochaine fois">
 
-<!ENTITY filterPrefs.label "Filtre :">
-<!ENTITY filterPrefs.accesskey "I">
-<!ENTITY focusFilter.key "f">
+<!ENTITY searchPrefs.label "Rechercher :">
+<!ENTITY searchPrefs.accesskey "R">
+<!ENTITY focusSearch.key "r">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "Nom de l'option">
