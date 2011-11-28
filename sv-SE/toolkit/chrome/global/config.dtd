@@ -45,9 +45,9 @@
 <!ENTITY aboutWarningButton.label "Jag lovar, jag ska vara försiktig!">
 <!ENTITY aboutWarningCheckbox.label "Visa denna varning nästa gång">
 
-<!ENTITY filterPrefs.label "Filter:">
-<!ENTITY filterPrefs.accesskey "F">
-<!ENTITY focusFilter.key "f">
+<!ENTITY searchPrefs.label "Sök:">
+<!ENTITY searchPrefs.accesskey "ö">
+<!ENTITY focusSearch.key "r">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "Inställningsnamn">
