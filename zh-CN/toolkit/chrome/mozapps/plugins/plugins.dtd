@@ -21,6 +21,7 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; 需要重启以启用插件。">
 
 <!ENTITY missingPlugin                                       "需要一个插件来显示此内容。">
+<!ENTITY clickToPlayPlugin                                   "轻击此处即可激活插件。">
 <!ENTITY disabledPlugin                                      "此插件已禁用。">
 <!ENTITY blockedPlugin.label                                 "为保护您的信息安全，此插件已被阻止">
 
@@ -33,8 +34,8 @@
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "重新加载页面">
 <!ENTITY reloadPlugin.post                                   " 重试。">
-<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.please                                       "发送崩溃报告">
+<!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.checkbox                                     "…并发送崩溃报告">
 <!ENTITY report.submitting                                   "正在发送报告…">
 <!ENTITY report.submitted                                    "崩溃报告已发送。">
 <!ENTITY report.disabled                                     "禁用崩溃报告。">

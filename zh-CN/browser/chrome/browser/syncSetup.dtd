@@ -4,8 +4,7 @@
 
 <!ENTITY setup.pickSetupType.description "欢迎，如果您以前从未使用过 &syncBrand.fullName.label;，您将需要创建一个新帐户。">
 <!ENTITY button.createNewAccount.label "创建一个新帐户">
-<!ENTITY setup.haveAccount.label "我已经有一个 &syncBrand.fullName.label; 帐户。">
-<!ENTITY button.connect.label    "连接">
+<!ENTITY button.haveAccount.label      "已有帐号">
 
 <!ENTITY setup.choicePage.title.label     "您以前是否使用过 &syncBrand.fullName.label;？">
 <!ENTITY setup.choicePage.new.label       "我以前从未使用过 &syncBrand.shortName.label;">
@@ -40,7 +39,7 @@
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 
-<!-- New Account Page 2: Sync Key -->
+<!-- My Recovery Key dialog -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; 关心您的隐私">
 <!ENTITY setup.newRecoveryKeyPage.description.label "为确保您的隐私，所有数据在上传之前都已经过加密。对数据解密的恢复密钥未上传。">
 <!ENTITY recoveryKeyEntry.label        "您的恢复密钥">
@@ -53,15 +52,13 @@
 <!ENTITY button.syncKeyBackup.save.label      "保存…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
 
-<!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "请确认您不是机器人">
-<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "添加设备">
+<!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
+<!ENTITY pairDevice.title.label             "设备配对">
 <!ENTITY addDevice.showMeHow.label          "告诉我怎么办。">
 <!ENTITY addDevice.dontHaveDevice.label     "该设备不在我身边">
-<!ENTITY addDevice.setup.description.label  "要激活，去您的其他设备的 &syncBrand.shortName.label; 选项并选择 &#x0022;添加设备&#x0022;。">
+<!ENTITY pairDevice.setup.description.label  "请在您的其他设备上选择 &#x0022;设备配对&#x0022; 来激活。">
 <!ENTITY addDevice.setup.enterCode.label    "然后，输入此代码：">
-<!ENTITY addDevice.dialog.description.label "要激活您的新设备，去设备的 &syncBrand.shortName.label; 选项并选择 &#x0022;连接。&#x0022;">
+<!ENTITY pairDevice.dialog.description.label "请在设备上选择 &#x0022;设置同步&#x0022; 来激活您的新设备。">
 <!ENTITY addDevice.dialog.enterCode.label   "请输入该设备提供的代码：">
 <!ENTITY addDevice.dialog.tryAgain.label    "请重试。">
 <!ENTITY addDevice.dialog.successful.label  "已成功添加该设备。初次的数据同步可能会长达数分钟，且该工作会在后台自动完成。">
