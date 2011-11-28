@@ -36,16 +36,16 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY managecerts.caption "Керувати сертифікатами">
-<!ENTITY managecerts.text "Керувати сертифікатами, щоб організувати ваші власні сертифікати так само, як вони в інших людей і в джерелах сертифікатів.">
-<!ENTITY managecerts.button "Керувати сертифікатами…">
-<!ENTITY managecerts.accesskey "К">
-<!ENTITY managedevices.caption "Керувати пристроями захисту">
-<!ENTITY managedevices.text "Використати цю кнопку, щоб керувати вашими пристроями захисту такі, як smart card.">
-<!ENTITY managedevices.button "Керувати пристроями захисту…">
-<!ENTITY managedevices.accesskey "К">
+<!ENTITY  managecerts.caption      "Керувати сертифікатами">
+<!ENTITY  managecerts.text         "Керувати сертифікатами, щоб організувати ваші власні сертифікати так само, як вони в інших людей і в джерелах сертифікатів.">
+<!ENTITY  managecerts.button       "Керувати сертифікатами…">
+<!ENTITY  managecerts.accesskey    "К">
+<!ENTITY  managedevices.caption    "Керувати пристроями захисту">
+<!ENTITY  managedevices.text       "Використати цю кнопку, щоб керувати вашими пристроями захисту такі, як smart card.">
+<!ENTITY  managedevices.button     "Керувати пристроями захисту…">
+<!ENTITY  managedevices.accesskey  "К">
 
-<!ENTITY ssl.label "SSL">
+<!ENTITY  ssl.label                "SSL">
 
-<!ENTITY pref.certs.title "Сертифікати">
-<!ENTITY certs.label "Сертифікати">
+<!ENTITY  pref.certs.title         "Сертифікати">
+<!ENTITY  certs.label              "Сертифікати">

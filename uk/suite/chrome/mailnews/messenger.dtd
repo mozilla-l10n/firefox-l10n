@@ -94,9 +94,9 @@
 <!ENTITY renameFolder.label "Перейменувати теку…">
 <!ENTITY renameFolder.accesskey "й">
 <!ENTITY compactFolders.label "Стиснути теки">
-<!ENTITY compactFolders.accesskey "У">
+<!ENTITY compactFolders.accesskey		"У">
 <!ENTITY emptyTrashCmd.label "Очистити «Кошик»">
-<!ENTITY emptyTrashCmd.accesskey "ч">
+<!ENTITY emptyTrashCmd.accesskey		"ч">
 <!ENTITY offlineMenu.label "Автономний режим">
 <!ENTITY offlineMenu.accesskey "ж">
 <!ENTITY synchronizeOfflineCmd.label "Завантажити/Синхронізувати…">
@@ -107,13 +107,6 @@
 <!ENTITY downloadSelectedCmd.accesskey "З">
 <!ENTITY downloadFlaggedCmd.label "Отримати позначені листи">
 <!ENTITY downloadFlaggedCmd.accesskey "О">
-<!ENTITY printCmd.label "Друк…">
-<!ENTITY printCmd.accesskey "у">
-<!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Попередній перегляд">
-<!ENTITY printPreviewCmd.accesskey "г">
-<!ENTITY printSetupCmd.label "Параметри сторінки…">
-<!ENTITY printSetupCmd.accesskey "П">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Вилучити лист">
@@ -252,6 +245,8 @@
 <!ENTITY bodySanitized.accesskey "с">
 <!ENTITY bodyAsPlaintext.label "У вигляді звичайного тексту">
 <!ENTITY bodyAsPlaintext.accesskey "т">
+<!ENTITY bodyAllParts.label "All Body Parts">
+<!ENTITY bodyAllParts.accesskey "A">
 
 <!ENTITY bodyMenuFeed.label "Feed Message Body As">
 <!ENTITY bodyMenuFeed.accesskey "B">
@@ -273,16 +268,6 @@
 <!ENTITY pageSourceCmd.key "u">
 
 <!ENTITY findCmd.label "Знайти в цьому листі…">
-<!ENTITY findCmd.accesskey "З">
-<!ENTITY findCmd.key "f">
-<!ENTITY findAgainCmd.label "Знайти наступне">
-<!ENTITY findAgainCmd.accesskey "с">
-<!ENTITY findAgainCmd.key "g">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Знайти попереднє">
-<!ENTITY findPrevCmd.accesskey "З">
-<!ENTITY findPrevCmd.key "g">
-<!ENTITY findPrevCmd.key2 "VK_F3">
 
 <!-- Go Menu -->
 
@@ -329,21 +314,21 @@
 <!ENTITY newNewMsgCmd.accesskey "Л">
 <!ENTITY replyMsgCmd.label "Відповісти">
 <!ENTITY replyMsgCmd.accesskey "В">
-<!ENTITY replyMsgCmd.key "r">
+<!ENTITY replyMsgCmd.key	"r">
 <!ENTITY replySenderCmd.label "Відповісти відправнику">
 <!ENTITY replySenderCmd.accesskey "і">
 <!ENTITY replyNewsgroupCmd.label "Відповісти у групу новин">
-<!ENTITY replyNewsgroupCmd.accesskey "г">
+<!ENTITY replyNewsgroupCmd.accesskey	"г">
 <!ENTITY replyToAllMsgCmd.label "Відповісти всім">
-<!ENTITY replyToAllMsgCmd.accesskey "с">
-<!ENTITY replyToAllMsgCmd.key "r">
+<!ENTITY replyToAllMsgCmd.accesskey	"с">
+<!ENTITY replyToAllMsgCmd.key	"r">
 <!ENTITY replyToSenderAndNewsgroupCmd.label "Відповісти відправнику і групі новин">
 <!ENTITY replyToSenderAndNewsgroupCmd.accesskey "В">
 <!ENTITY replyToAllRecipientsCmd.label "Відповісти всім отримувачам">
 <!ENTITY replyToAllRecipientsCmd.accesskey "a">
 <!ENTITY forwardMsgCmd.label "Переслати">
 <!ENTITY forwardMsgCmd.accesskey "П">
-<!ENTITY forwardMsgCmd.key "l">
+<!ENTITY forwardMsgCmd.key	"l">
 <!ENTITY forwardAsMenu.label "Переслати як">
 <!ENTITY forwardAsMenu.accesskey "П">
 <!ENTITY forwardAsInline.label "Частина листа">
@@ -383,21 +368,8 @@
 <!ENTITY tagMenu.accesskey "м">
 <!ENTITY tagCustomize.label "Налаштувати…">
 <!ENTITY tagCustomize.accesskey "Н">
-<!ENTITY tagCmd0.key "0">
-<!ENTITY tagCmd1.key "1">
-<!ENTITY tagCmd2.key "2">
-<!ENTITY tagCmd3.key "3">
-<!ENTITY tagCmd4.key "4">
-<!ENTITY tagCmd5.key "5">
-<!ENTITY tagCmd6.key "6">
-<!ENTITY tagCmd7.key "7">
-<!ENTITY tagCmd8.key "8">
-<!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Позначити">
 <!ENTITY markMenu.accesskey "н">
-<!ENTITY markAsReadCmd.label "Прочитаним">
-<!ENTITY markAsReadCmd.accesskey "ч">
-<!ENTITY markAsReadCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "Гілку прочитаною">
 <!ENTITY markThreadAsReadCmd.accesskey "г">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -407,9 +379,6 @@
 <!ENTITY markAllReadCmd.label "Всі прочитаними">
 <!ENTITY markAllReadCmd.accesskey "В">
 <!ENTITY markAllReadCmd.key "c">
-<!ENTITY markFlaggedCmd.label "Помічений">
-<!ENTITY markFlaggedCmd.accesskey "F">
-<!ENTITY markFlaggedCmd.key "i">
 <!ENTITY markAsJunkCmd.label "Спамом">
 <!ENTITY markAsJunkCmd.accesskey "С">
 <!ENTITY markAsJunkCmd.key "j">
@@ -424,9 +393,6 @@
 <!ENTITY markAsNotPhishCmd.label "Як не спам">
 <!ENTITY markAsNotPhishCmd.accesskey "Я">
 <!ENTITY markAsNotPhishCmd.key "p">
-<!ENTITY openMessageWindowCmd.label "Відкрити лист">
-<!ENTITY openMessageWindowCmd.accesskey "В">
-<!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY openFeedMessage.label "Open Feed Message">
 <!ENTITY openFeedMessage.accesskey "O">
 <!ENTITY openFeedWebPageInWindow.label "Web Page in New Window">
@@ -510,7 +476,7 @@
 <!ENTITY notJunkButton.tooltip "Позначити обрані повідомлення як не спам">
 
 <!-- Statusbar -->
-<!ENTITY statusText.label "Готово">
+<!ENTITY  statusText.label "Готово">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Відкрити лист в новому вікні">

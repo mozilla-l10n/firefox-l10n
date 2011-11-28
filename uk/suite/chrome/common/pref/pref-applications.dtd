@@ -1,9 +1,10 @@
+<!--LOCALIZATION NOTE : FILE The Applications prefs dialog -->
 <!ENTITY pref.applications.title "Довідник програм">
 
-<!ENTITY typeColumn.label "Вміст типу">
-<!ENTITY typeColumn.accesskey "T">
+<!ENTITY typeColumn.label        "Вміст типу">
+<!ENTITY typeColumn.accesskey    "T">
 
-<!ENTITY actionColumn2.label "Дія">
+<!ENTITY actionColumn2.label     "Дія">
 <!ENTITY actionColumn2.accesskey "Д">
 
-<!ENTITY search.placeholder "Search Types and Actions">
+<!ENTITY search.placeholder      "Search Types and Actions">

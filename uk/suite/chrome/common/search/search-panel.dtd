@@ -35,6 +35,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY search.button.label "Шукати">
-<!ENTITY search.placeholder "Enter search text">
+<!ENTITY search.button.label      "Шукати">
+<!ENTITY search.placeholder       "Enter search text">
 
+<!ENTITY search.engineManager.label "Manage Search Engines…">

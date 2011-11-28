@@ -1,6 +1,8 @@
 
-<!ENTITY newMessageCmd.key "M">
-<!ENTITY newMessageCmd.label "Лист">
-<!ENTITY newMessageCmd.accesskey "Л">
-<!ENTITY newContactCmd.label "Контакт…">
-<!ENTITY newContactCmd.accesskey "К">
+<!ENTITY  newMessageCmd.key               "M">
+<!ENTITY  newMessageCmd.label             "Лист">
+<!ENTITY  newMessageCmd.accesskey         "Л">
+ 
+<!ENTITY  newContactCmd.label             "Контакт…">
+<!ENTITY  newContactCmd.accesskey         "К">
+ 

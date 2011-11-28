@@ -2,6 +2,6 @@
 <!ENTITY identityTitle.label "Налаштування ідентифікатора">
 <!ENTITY identityListDesc.label "Налаштувати параметри для цього ідентифікатора:">
 
-<!ENTITY settingsTab.label "Параметри">
+<!ENTITY settingsTab.label       "Параметри">
 <!ENTITY copiesFoldersTab.label "Копії та теки">
-<!ENTITY addressingTab.label "Написання та адресація">
+<!ENTITY addressingTab.label    "Написання та адресація">

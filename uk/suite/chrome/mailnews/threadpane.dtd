@@ -55,8 +55,9 @@
 <!ENTITY locationColumn.label "Адреса">
 <!ENTITY idColumn.label "Порядок отримання">
 
+<!--Tooltips-->
 <!ENTITY columnChooser.tooltip "Натисніть, щоб вибрати колонки для відображення">
-<!ENTITY threadColumn.tooltip "Натисніть тут, щоб переглянути обговорення">
+<!ENTITY threadColumn.tooltip "Натисніть тут, щоб переглянути обговорення"> 
 <!ENTITY fromColumn.tooltip "Натисніть тут, щоб відсортувати листи за відправником">
 <!ENTITY recipientColumn.tooltip "Натисніть тут, щоб відсортувати листи за адресатом">
 <!ENTITY attachmentColumn.tooltip "Натисніть тут, щоб відсортувати листи по наявності долучень">

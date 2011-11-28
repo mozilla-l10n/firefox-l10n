@@ -5,9 +5,9 @@
 
 <!-- Entities for Account Type page -->
 
-<!ENTITY accountSetupInfo.label "Для того, щоб отримувати листи, Ви маєте створити поштовий чи новинний обліковий запис.">
+<!ENTITY accountSetupInfo2.label "In order to receive messages, you first need to set up an account.">
 <!ENTITY accountTypeTitle.label "Створення нового облікового запису">
-<!ENTITY accountTypeDesc.label "Цей майстер збере необхідну інформацію для створення поштового або новинного облікового запису. Якщо ви не знаєте запитаних даних, зв’яжіться з Вашим системним адміністратором або провайдером Інтернет.">
+<!ENTITY accountTypeDesc2.label "This Wizard will collect the information necessary to set up an account. If you do not know the information requested, please contact your System Administrator or Internet Service Provider.">
 <!ENTITY accountTypeDirections.label "Виберіть тип облікового запису для створення:">
 <!ENTITY accountTypeMail.label "Пошта (Email)">
 <!ENTITY accountTypeMail.accesskey "п">
@@ -54,6 +54,8 @@
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
+<!ENTITY leaveMsgsOnSrvr.label "Leave messages on server">
+<!ENTITY leaveMsgsOnSrvr.accesskey "L">
 
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting

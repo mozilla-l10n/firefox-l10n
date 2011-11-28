@@ -1,3 +1,4 @@
+<!--LOCALIZATION NOTE askSendFormat.dtd UI for dialog that asks the user, which format to use for sending a message -->
 <!ENTITY windowTitle.label "Формат вихідних листів">
 
 <!ENTITY recipient.label "Деякі з адресатів не можуть одержувати листа у форматі HTML.">

@@ -36,14 +36,14 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Labels -->
-<!ENTITY newFolderDialog.title "Створити теку">
-<!ENTITY name.label "Назва:">
-<!ENTITY name.accesskey "Н">
-<!ENTITY description.label "Створити як вкладену теку:">
-<!ENTITY description.accesskey "С">
-<!ENTITY folderRestriction1.label "Цей сервер розділяє теки на два типи.">
-<!ENTITY folderRestriction2.label "Дозволити новій теці містити:">
-<!ENTITY foldersOnly.label "Теки">
-<!ENTITY messagesOnly.label "Листи">
-<!ENTITY accept.label "Створити теку">
-<!ENTITY accept.accesskey "и">
+<!ENTITY newFolderDialog.title      "Створити теку">
+<!ENTITY name.label                 "Назва:">
+<!ENTITY name.accesskey             "Н">
+<!ENTITY description.label          "Створити як вкладену теку:">
+<!ENTITY description.accesskey      "С">
+<!ENTITY folderRestriction1.label   "Цей сервер розділяє теки на два типи.">
+<!ENTITY folderRestriction2.label   "Дозволити новій теці містити:">
+<!ENTITY foldersOnly.label          "Теки">
+<!ENTITY messagesOnly.label         "Листи">
+<!ENTITY accept.label               "Створити теку">
+<!ENTITY accept.accesskey           "и">

@@ -1,17 +1,21 @@
-<!ENTITY pref.content.title "Вміст">
-<!ENTITY pref.content.description "Ці налаштування впливають на те, як сайт і вміст повідомлень виринає в &brandShortName;.">
-<!ENTITY siteIcons.label "Піктограма сайтів">
-<!ENTITY useSiteIcons.label "Показувати піктограми сайтів">
-<!ENTITY useSiteIcons.accesskey "П">
-<!ENTITY useFavIcons.label "Не показувати піктограми сайтів, коли сторінка не відкриває їх">
-<!ENTITY useFavIcons.accesskey "Н">
-<!ENTITY enableAutomaticImageResizing.label "Змінити розмір великих зображень до придатного у вікні навігатора">
+<!--LOCALIZATION NOTE : FILE The Appearance > Content prefs dialog.  -->
+
+<!ENTITY pref.content.title                     "Вміст">
+<!ENTITY pref.content.description               "Ці налаштування впливають на те, як сайт і вміст повідомлень виринає в &brandShortName;.">
+<!ENTITY siteIcons.label                        "Піктограма сайтів">
+<!ENTITY useSiteIcons.label                     "Показувати піктограми сайтів">
+<!ENTITY useSiteIcons.accesskey                 "П">
+<!ENTITY useFavIcons.label                      "Не показувати піктограми сайтів, коли сторінка не відкриває їх">
+<!ENTITY useFavIcons.accesskey                  "Н">
+<!ENTITY enableAutomaticImageResizing.label     "Змінити розмір великих зображень до придатного у вікні навігатора">
 <!ENTITY enableAutomaticImageResizing.accesskey "З">
-<!ENTITY useSmoothScroll.label "Використати плавне прокручування">
-<!ENTITY useSmoothScroll.accesskey "В">
-<!ENTITY allowHWAccel.label "Use hardware acceleration when available">
-<!ENTITY allowHWAccel.accesskey "e">
-<!ENTITY textZoomOnly.label "Масштабувати лише текст замість цілих сторінок">
-<!ENTITY textZoomOnly.accesskey "М">
-<!ENTITY blockAutoRefresh.label "Warn me when web sites try to redirect or reload the page">
-<!ENTITY blockAutoRefresh.accesskey "W">
+<!ENTITY useSmoothScroll.label                  "Використати плавне прокручування">
+<!ENTITY useSmoothScroll.accesskey              "В">
+<!ENTITY allowHWAccel.label                     "Use hardware acceleration when available">
+<!ENTITY allowHWAccel.accesskey                 "e">
+<!ENTITY textZoomOnly.label                     "Масштабувати лише текст замість цілих сторінок">
+<!ENTITY textZoomOnly.accesskey                 "М">
+<!ENTITY blockAutoRefresh.label                 "Warn me when web sites try to redirect or reload the page">
+<!ENTITY blockAutoRefresh.accesskey             "W">
+<!ENTITY siteSpecific.label                     "Remember zoom levels on per-site basis">
+<!ENTITY siteSpecific.accesskey                 "m">

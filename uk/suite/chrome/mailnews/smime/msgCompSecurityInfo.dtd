@@ -1,3 +1,5 @@
+<!--LOCALIZATION NOTE msgCompSecurityInfo.dtd UI for viewing security status when composing a message -->
+
 <!ENTITY title.label "Захист повідомлення">
 <!ENTITY subject.plaintextWarning "Зверніть увагу: рядок теми повідомлення ніколи не шифрується.">
 <!ENTITY status.heading "Вміст вашого повідомлення буде надіслано:">

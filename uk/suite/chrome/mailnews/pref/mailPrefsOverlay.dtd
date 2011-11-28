@@ -1,21 +1,21 @@
 <!-- These are added to the Advanced - Scripts & Plugins panel -->
-<!ENTITY enbPluginCheckMailNews.label "Пошта і новини">
+<!ENTITY enbPluginCheckMailNews.label     "Пошта і новини">
 <!ENTITY enbPluginCheckMailNews.accesskey "П">
 
 <!-- These are added to the Window menu -->
-<!ENTITY mail.label "Пошта і новини">
-<!ENTITY mail.accesskey "П">
-<!ENTITY addressbook.label "Адресна книга">
-<!ENTITY addressbook.accesskey "А">
+<!ENTITY mail.label                       "Пошта і новини">
+<!ENTITY mail.accesskey                   "П">
+<!ENTITY addressbook.label                "Адресна книга">
+<!ENTITY addressbook.accesskey            "А">
 
 <!-- These are added to Preferences dialog -->
-<!ENTITY viewingMessages.label "Лист">
-<!ENTITY notifications.label "Сповіщення">
-<!ENTITY address.label "Адресація">
-<!ENTITY composingMessages.label "Написання">
-<!ENTITY format.label "Формат відправки">
-<!ENTITY return.label "Сповіщення про доставку">
-<!ENTITY junk.label "Спам">
-<!ENTITY tags.label "Ключові слова">
-<!ENTITY characterEncoding.label "Кодування">
-<!ENTITY networkStorage.label "Network &amp; Storage">
+<!ENTITY viewingMessages.label            "Лист">
+<!ENTITY notifications.label              "Сповіщення">
+<!ENTITY address.label                    "Адресація">
+<!ENTITY composingMessages.label          "Написання">
+<!ENTITY format.label                     "Формат відправки">
+<!ENTITY return.label                     "Сповіщення про доставку">
+<!ENTITY junk.label                       "Спам">
+<!ENTITY tags.label                       "Ключові слова">
+<!ENTITY characterEncoding.label          "Кодування">
+<!ENTITY networkStorage.label             "Network &amp; Storage">

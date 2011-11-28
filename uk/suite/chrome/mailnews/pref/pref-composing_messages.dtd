@@ -36,43 +36,43 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.composing.messages.title "Складання листа">
-<!ENTITY generalComposing.label "Загальне">
-<!ENTITY forwardMsg.label "Пересилати лист:">
-<!ENTITY inline.label "Частина листа">
-<!ENTITY inline.accesskey "Ч">
-<!ENTITY asAttachment.label "Як долучення">
-<!ENTITY asAttachment.accesskey "Я">
+<!ENTITY pref.composing.messages.title        "Складання листа">
+<!ENTITY generalComposing.label               "Загальне">
+<!ENTITY forwardMsg.label                     "Пересилати лист:">
+<!ENTITY inline.label                         "Частина листа">
+<!ENTITY inline.accesskey                     "Ч">
+<!ENTITY asAttachment.label                   "Як долучення">
+<!ENTITY asAttachment.accesskey               "Я">
 
-<!ENTITY replyQuoteInline.label "Цитувати долучення, показуючи у відповідях">
-<!ENTITY replyQuoteInline.accesskey "Q">
-<!ENTITY warnOnSendAccelKey.label "Запитувати підтвердження при використанні клавіатурних скорочень для надсилання листів">
-<!ENTITY warnOnSendAccelKey.accesskey "З">
+<!ENTITY replyQuoteInline.label               "Цитувати долучення, показуючи у відповідях">
+<!ENTITY replyQuoteInline.accesskey           "Q">
+<!ENTITY warnOnSendAccelKey.label             "Запитувати підтвердження при використанні клавіатурних скорочень для надсилання листів">
+<!ENTITY warnOnSendAccelKey.accesskey         "З">
 <!-- LOCALIZATION NOTE (autoSave.label): This will concatenate with
      "xxx minutes", using a number and (autoSaveEnd.label). -->
-<!ENTITY autoSave.label "Автоматично зберігати листи кожні">
-<!ENTITY autoSave.accesskey "А">
-<!ENTITY autoSaveEnd.label "хвилини">
+<!ENTITY autoSave.label                       "Автоматично зберігати листи кожні">
+<!ENTITY autoSave.accesskey                   "А">
+<!ENTITY autoSaveEnd.label                    "хвилини">
 <!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
-<!ENTITY wrapOutMsg.label "Переносити в новий рядок після">
-<!ENTITY wrapOutMsg.accesskey "П">
-<!ENTITY char.label "символів">
+<!ENTITY wrapOutMsg.label                     "Переносити в новий рядок після">
+<!ENTITY wrapOutMsg.accesskey                 "П">
+<!ENTITY char.label                           "символів">
 
-<!ENTITY spellingHeader.label "Орфографія">
-<!ENTITY spellCheck.label "Перевіряти орфографію перед відсиланням листа">
-<!ENTITY spellCheck.accesskey "П">
-<!ENTITY spellCheckInline.label "Первіряти орфографію при вводі">
-<!ENTITY spellCheckInline.accesskey "e">
-<!ENTITY languagePopup.label "Мова:">
-<!ENTITY languagePopup.accessKey "М">
-<!ENTITY moreDictionaries.label "Звантажити ще словники…">
+<!ENTITY spellingHeader.label                 "Орфографія">
+<!ENTITY spellCheck.label                     "Перевіряти орфографію перед відсиланням листа">
+<!ENTITY spellCheck.accesskey                 "П">
+<!ENTITY spellCheckInline.label               "Первіряти орфографію при вводі">
+<!ENTITY spellCheckInline.accesskey           "e">
+<!ENTITY languagePopup.label                  "Мова:">
+<!ENTITY languagePopup.accessKey              "М">
+<!ENTITY moreDictionaries.label               "Звантажити ще словники…">
 
-<!ENTITY defaultMessagesHeader.label "Типово для листів HTML">
-<!ENTITY font.label "Шрифт:">
-<!ENTITY font.accesskey "Ш">
-<!ENTITY size.label "Розмір:">
-<!ENTITY size.accesskey "Р">
-<!ENTITY fontColor.label "Текст:">
-<!ENTITY fontColor.accesskey "Т">
-<!ENTITY bgColor.label "Тло:">
-<!ENTITY bgColor.accesskey "Т">
+<!ENTITY defaultMessagesHeader.label          "Типово для листів HTML">
+<!ENTITY font.label                           "Шрифт:">
+<!ENTITY font.accesskey                       "Ш">
+<!ENTITY size.label                           "Розмір:">
+<!ENTITY size.accesskey                       "Р">
+<!ENTITY fontColor.label                      "Текст:">
+<!ENTITY fontColor.accesskey                  "Т">
+<!ENTITY bgColor.label                        "Тло:">
+<!ENTITY bgColor.accesskey                    "Т">

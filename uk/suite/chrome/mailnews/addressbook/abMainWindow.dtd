@@ -36,100 +36,102 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Title -->
-<!ENTITY addressbookWindow.title "Адресна книга">
+<!ENTITY addressbookWindow.title                        "Адресна книга">
 
 <!-- Menus:  the . means that the menu item isn't implemented yet -->
 
 <!-- File Menu -->
-<!ENTITY newContact.label "Контакт…">
+<!ENTITY newContact.label                               "Контакт…">
 <!-- LOCALIZATION NOTE (newContact.accesskey) : DONT_TRANSLATE -->
-<!ENTITY newContact.accesskey "п">
-<!ENTITY newListCmd.label "Список розсилки…">
+<!ENTITY newContact.accesskey                           "п">
+<!ENTITY newListCmd.label                               "Список розсилки…">
 <!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->  
-<!ENTITY newListCmd.accesskey "С">
-<!ENTITY newAddressBookCmd.label "Адресну книгу…">
-<!ENTITY newAddressBookCmd.accesskey "А">
-<!ENTITY newLDAPDirectoryCmd.label "Каталог LDAP…">
+<!ENTITY newListCmd.accesskey                           "С">  
+<!ENTITY newAddressBookCmd.label                        "Адресну книгу…"> 
+<!ENTITY newAddressBookCmd.accesskey                    "А">  
+<!ENTITY newLDAPDirectoryCmd.label                      "Каталог LDAP…">
 <!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
-<!ENTITY newLDAPDirectoryCmd.accesskey "л">
-<!ENTITY newIM.label "IM">
-<!ENTITY printContactViewCmd.label "Роздрукувати картку…">
-<!ENTITY printContactViewCmd.accesskey "Р">
-<!ENTITY printPreviewContactViewCmd.label "Попередній перегляд картки">
-<!ENTITY printPreviewContactViewCmd.accesskey "П">
-<!ENTITY printContactViewCmd.key "P">
-<!ENTITY printAddressBook.label "Друк адресної книги…">
-<!ENTITY printAddressBook.accesskey "е">
-<!ENTITY printPreviewAddressBook.label "Попередній перегляд адресної книги">
-<!ENTITY printPreviewAddressBook.accesskey "а">
-<!ENTITY printSetupCmd.label "Параметри сторінки…">
-<!ENTITY printSetupCmd.accesskey "м">
+<!ENTITY newLDAPDirectoryCmd.accesskey                  "л">
+<!ENTITY newIM.label                                    "IM">
+<!ENTITY printContactViewCmd.label                      "Роздрукувати картку…">
+<!ENTITY printContactViewCmd.accesskey                  "Р">
+<!ENTITY printPreviewContactViewCmd.label               "Попередній перегляд картки">
+<!ENTITY printPreviewContactViewCmd.accesskey           "П">
+<!ENTITY printContactViewCmd.key                        "P">
+<!ENTITY printAddressBook.label                         "Друк адресної книги…"> 
+<!ENTITY printAddressBook.accesskey                     "е"> 
+<!ENTITY printPreviewAddressBook.label                  "Попередній перегляд адресної книги"> 
+<!ENTITY printPreviewAddressBook.accesskey              "а">
 
 <!-- Edit Menu -->
-<!ENTITY deleteAbCmd.label "Вилучити адресну книгу">
-<!ENTITY deleteContactCmd.label "Вилучити картку">
-<!ENTITY deleteContactsCmd.label "Вилучити вибрані контакти">
-<!ENTITY deleteListCmd.label "Знищити список">
-<!ENTITY deleteListsCmd.label "Вилучити вибрані списки">
-<!ENTITY deleteItemsCmd.label "Вилучити вибрані пункти">
-<!ENTITY swapFirstNameLastNameCmd.label "Поміняти місцями ім’я і прізвище">
-<!ENTITY swapFirstNameLastNameCmd.accesskey "П">
-<!ENTITY propertiesCmd.label "Властивості…">
+<!ENTITY deleteAbCmd.label                              "Вилучити адресну книгу">  
+<!ENTITY deleteContactCmd.label                         "Вилучити картку">
+<!ENTITY deleteContactsCmd.label                        "Вилучити вибрані контакти">
+<!ENTITY deleteListCmd.label                            "Знищити список">
+<!ENTITY deleteListsCmd.label                           "Вилучити вибрані списки">
+<!ENTITY deleteItemsCmd.label                           "Вилучити вибрані пункти">
+<!ENTITY swapFirstNameLastNameCmd.label                 "Поміняти місцями ім’я і прізвище">
+<!ENTITY swapFirstNameLastNameCmd.accesskey             "П">  
+<!ENTITY propertiesCmd.label                            "Властивості…">
 <!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->  
-<!ENTITY propertiesCmd.accesskey "т">
-<!ENTITY propertiesCmd.key "i">
+<!ENTITY propertiesCmd.accesskey                        "т">  
+<!ENTITY propertiesCmd.key                              "i">  
 
 <!-- View Menu -->
-<!ENTITY showAbToolbarCmd.label "Панель адресної книги">
-<!ENTITY showAbToolbarCmd.accesskey "а">
+<!ENTITY showAbToolbarCmd.label                         "Панель адресної книги"> 
+<!ENTITY showAbToolbarCmd.accesskey                     "а">  
 
-<!ENTITY showCardPane.label "Резюме">
-<!ENTITY showCardPane.accesskey "Р">
-<!ENTITY menu_ShowNameAs.label "Показувати ім’я як">
-<!ENTITY menu_ShowNameAs.accesskey "П">
-<!ENTITY firstLastCmd.label "Ім'я, Прізвище">
-<!ENTITY firstLastCmd.accesskey "І">
-<!ENTITY lastFirstCmd.label "Прізвище, Ім’я">
-<!ENTITY lastFirstCmd.accesskey "П">
-<!ENTITY displayNameCmd.label "Ім’я, що відображається">
-<!ENTITY displayNameCmd.accesskey "і">
+<!ENTITY showCardPane.label                             "Резюме">
+<!ENTITY showCardPane.accesskey                         "Р">
+  
+<!ENTITY menu_ShowNameAs.label                          "Показувати ім’я як"> 
+<!ENTITY menu_ShowNameAs.accesskey                      "П"> 
+<!ENTITY firstLastCmd.label                             "Ім'я, Прізвище">  
+<!ENTITY firstLastCmd.accesskey                         "І"> 
+<!ENTITY lastFirstCmd.label                             "Прізвище, Ім’я">  
+<!ENTITY lastFirstCmd.accesskey                         "П"> 
+<!ENTITY displayNameCmd.label                           "Ім’я, що відображається">  
+<!ENTITY displayNameCmd.accesskey                       "і"> 
 
 <!-- Tasks Menu -->
-<!ENTITY importCmd.label "Імпорт…">
-<!ENTITY importCmd.accesskey "І">
-<!ENTITY exportCmd.label "Експорт…">
-<!ENTITY exportCmd.accesskey "Е">
+<!ENTITY importCmd.label                                "Імпорт…">
+<!ENTITY importCmd.accesskey                            "І">
+<!ENTITY exportCmd.label                                "Експорт…">
+<!ENTITY exportCmd.accesskey                            "Е">
 
 <!-- Toolbar and Popup items -->  
-<!ENTITY newContactButton.label "Створити картку">
-<!ENTITY newContactButton.accesskey "С">
-<!ENTITY newlistButton.label "Створити список">
-<!ENTITY newlistButton.accesskey "С">
-<!ENTITY editItemButton.label "Властивості">
-<!ENTITY editItemButton.accesskey "В">
-<!ENTITY newmsgButton.label "Скласти">
-<!ENTITY newmsgButton.accesskey "С">
-<!ENTITY deleteItemButton.label "Вилучити">
-<!ENTITY deleteItemButton.accesskey "В">
-<!ENTITY newimButton.label "Миттєве повідомлення">
-<!ENTITY newimButton.accesskey "М">
-<!ENTITY searchNameAndEmail.placeholder "Search Name and Email">
-<!ENTITY searchBox.title "Search">
+<!ENTITY newContactButton.label                         "Створити картку">
+<!ENTITY newContactButton.accesskey                     "С">
+<!ENTITY newlistButton.label                            "Створити список">  
+<!ENTITY newlistButton.accesskey                        "С">  
+<!ENTITY editItemButton.label                           "Властивості">
+<!ENTITY editItemButton.accesskey                       "В">
+<!ENTITY newmsgButton.label                             "Скласти">  
+<!ENTITY newmsgButton.accesskey                         "С">  
+<!ENTITY deleteItemButton.label                         "Вилучити">
+<!ENTITY deleteItemButton.accesskey                     "В">
+<!ENTITY newimButton.label                              "Миттєве повідомлення">  
+<!ENTITY newimButton.accesskey                          "М">  
+<!ENTITY searchNameAndEmail.placeholder                 "Search Name and Email">
+<!ENTITY searchBox.title                                "Search">
 
 <!-- Tooltips -->
-<!ENTITY addressbookToolbar.tooltip "Панель адресної книги">
-<!ENTITY newContactButton.tooltip "Створити нову картку в адресній книзі">
-<!ENTITY newlistButton.tooltip "Створенити новий список розсилки">
-<!ENTITY editItemButton.tooltip "Змінити властивості виділеного елемента">
-<!ENTITY newmsgButton.tooltip "Написати листа">
-<!ENTITY newIM.tooltip "Відіслати звісточку чи почати бесіду">
-<!ENTITY deleteItemButton.tooltip "Вилучити обраний елемент">
-<!ENTITY throbber.tooltip "Відправитись до домашньої сторінки &vendorShortName;">
-<!ENTITY advancedButton.tooltip "Розширений режим пошуку адрес">
+<!ENTITY addressbookToolbar.tooltip                     "Панель адресної книги">
+<!ENTITY newContactButton.tooltip                       "Створити нову картку в адресній книзі">
+<!ENTITY newlistButton.tooltip                          "Створенити новий список розсилки"> 
+<!ENTITY editItemButton.tooltip                         "Змінити властивості виділеного елемента">
+<!ENTITY newmsgButton.tooltip                           "Написати листа"> 
+<!ENTITY newIM.tooltip                                  "Відіслати звісточку чи почати бесіду"> 
+<!ENTITY deleteItemButton.tooltip                       "Вилучити обраний елемент">
+<!ENTITY throbber.tooltip                               "Відправитись до домашньої сторінки &vendorShortName;">
+<!ENTITY advancedButton.tooltip                         "Розширений режим пошуку адрес">
+
+<!-- Dir Tree header -->
+<!ENTITY dirTreeHeader.label                            "Address Books">
 
 <!-- Status Bar -->  
-<!ENTITY statusText.label "">
+<!ENTITY statusText.label                               "">
 
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI "істина">
+<!ENTITY  hideSwapFnLnUI                                "істина">
