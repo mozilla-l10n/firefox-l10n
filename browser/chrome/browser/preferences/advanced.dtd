@@ -59,22 +59,28 @@
 
 <!ENTITY updateTab.label                 "Kaonafatšo">
 
-<!ENTITY autoCheck.label                 "Ka maitirišo lekola dikaonafatšo go:">
-<!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate2.label       "Ditlaleletši">
-<!ENTITY enableAddonsUpdate2.accesskey   "e">
-<!ENTITY enableSearchUpdate.label        "Dientšene tša nyako">
-<!ENTITY enableSearchUpdate.accesskey    "e">
-<!ENTITY whenUpdatesFound.label          "Ge dikaonafatšo tša &brandShortName; di hweditšwe:">
-<!ENTITY askMe.label                     "Mpotšiše seo ke nyakago go se dira">
-<!ENTITY askMe.accesskey                 "p">
-<!ENTITY modeAutomatic.label             "Ka maitirišo laolla le go lokela dikaonafatšo">
-<!ENTITY modeAutomatic.accesskey         "l">
-<!ENTITY modeAutoAddonWarn.label         "Ntemoše ge e ba se se tla šitiša ditlaleletši tša ka le ge e le dife ">
-<!ENTITY modeAutoAddonWarn.accesskey     "N">
+<!ENTITY updateApp.label                 "Dimpshafatšo tša &brandShortName;">
+<!ENTITY updateAuto.label                "Lokela dimpshafatšo ka maitirišo (e a hlohleletšwa; tšhireletšego yeo e kaonafaditšwego)">
+<!ENTITY updateAuto.accesskey            "a">
+<!ENTITY updateCheck.label               "Lekola dimpshafatšo, eupša e re ke kgethe ge eba ke tla di lokela">
+<!ENTITY updateCheck.accesskey           "a">
+<!ENTITY updateManual.label              "O se ke wa lekola dimpshafatšo (ga e hlohleletšwe, kotsi ya tšhireletšego)">
+<!ENTITY updateManual.accesskey          "O">
+
+<!ENTITY updateAutoAddonWarn.label       "Ntemoše ge e ba se se tla šitiša ditlaleletši tša ka le ge e le dife ">
+<!ENTITY updateAutoAddonWarn.accesskey   "N">
+
 <!ENTITY updateHistory.label             "Laetša histori ya kaonafatšo">
 <!ENTITY updateHistory.accesskey         "o">
+
+<!ENTITY useService.label                "Diriša tirelo ya bokamorago gore o lokele dimpshafatšo">
+<!ENTITY useService.accesskey            "b">
+
+<!ENTITY updateOthers.label              "Mpshafatša ka maitirišo:">
+<!ENTITY enableAddonsUpdate3.label       "Ditlaleletši">
+<!ENTITY enableAddonsUpdate3.accesskey   "e">
+<!ENTITY enableSearchUpdate.label        "Dientšene tša nyako">
+<!ENTITY enableSearchUpdate.accesskey    "e">
 
 <!ENTITY offlineNotify.label             "Mpotše ge wepesaete e kgopela go boloka tsebišo gore e e diriše e se inthaneteng">
 <!ENTITY offlineNotify.accesskey         "M">
