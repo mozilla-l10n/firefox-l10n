@@ -39,13 +39,13 @@
 <!ENTITY overrideSmartCacheSize.accesskey "g">
 <!ENTITY updateTab.label "Actualizar">
 <!ENTITY updateApp.label "Actualizaciones de &brandShortName;:">
-<!ENTITY updateAuto.label "Actualizar automáticamente las actualizaciones (recomendado: mejora la seguridad)">
+<!ENTITY updateAuto.label "Instalar automáticamente las actualizaciones (recomendado: mejora la seguridad)">
 <!ENTITY updateAuto.accesskey "A">
 <!ENTITY updateCheck.label "Comprobar actualizaciones, pero dejarme elegir si las quiero instalar">
 <!ENTITY updateCheck.accesskey "C">
 <!ENTITY updateManual.label "No comprobar actualizaciones (no recomendado: riesgos de seguridad)">
 <!ENTITY updateManual.accesskey "N">
-<!ENTITY updateAutoAddonWarn.label "Avisarme si esto desactivara alguno de mis complementos.">
+<!ENTITY updateAutoAddonWarn.label "Avisarme si esto desactivará alguno de mis complementos.">
 <!ENTITY updateAutoAddonWarn.accesskey "v">
 <!ENTITY updateHistory.label "Mostrar historial de actualizaciones">
 <!ENTITY updateHistory.accesskey "c">
