@@ -1,73 +1,100 @@
-<!ENTITY addressBookCmd.accesskey "כ">
-<!ENTITY addressBookCmd.label "פנקס כתובות">
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is OEone Calendar Code, released October 31st, 2001.
+   -
+   - The Initial Developer of the Original Code is
+   - OEone Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s): Garth Smedley <garths@oeone.com>
+   -                 Mike Potter <mikep@oeone.com>
+   -                 Chris Charabaruk <coldacid@meldstar.com>
+   -                 Matthew Willis <mattwillis@gmail.com>
+   -                 Stefan Sitter <ssitter@googlemail.com>
+   -                 Berend Cornelius <berend.cornelius@sun.com>
+   -                 Philipp Kewisch <mozilla@kewis.ch>
+   -                 Simon Paquet <bugzilla@babylonsounds.com>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY calendar.import.accesskey "י">
-<!ENTITY calendar.import.label "יבא מקובץ…">
-<!ENTITY calendar.new.server.accesskey "ח">
-<!ENTITY calendar.new.server.label "יומן חדש">
+<!-- Event Menu -->
+<!ENTITY event.new.event                        "אירוע חדש">
+<!ENTITY event.new.event.key                    "N">
+<!ENTITY event.new.event.accesskey              "א">
 
-<!ENTITY calendar.print.accesskey "ה">
-<!ENTITY calendar.print.label "הדפס יומנים פעילים…">
+<!ENTITY event.new.task                         "משימה חדשה…">
+<!ENTITY event.new.task.key                     "K">
+<!ENTITY event.new.task.accesskey               "מ">
 
-<!ENTITY calendar.publish.accesskey "פ">
-<!ENTITY calendar.publish.label "פרסם את האירועים שנבחרו…">
+<!ENTITY calendar.new.server.label              "לוח שנה חדש">
+<!ENTITY calendar.new.server.key                "L">
+<!ENTITY calendar.new.server.accesskey          "ל">
 
-<!ENTITY event.new.event "אירוע חדש">
-<!ENTITY event.new.event.accesskey "א">
-<!ENTITY event.new.todo "מטלה חדשה">
-<!ENTITY event.new.todo.accesskey "מ">
+<!ENTITY calendar.print.label                   "הדפס יומנים פעילים…">
+<!ENTITY calendar.print.key                     "P">
+<!ENTITY calendar.print.accesskey               "ה">
 
-<!ENTITY goPreviousCmd.accesskey "ק">
-
-<!ENTITY goTodayCmd.accesskey "ה">
-<!ENTITY goTodayCmd.label "עבור להיום">
-
-
-<!ENTITY calendar.displaytodos.checkbox.accesskey   "מ">
-
-<!ENTITY calendar.displaytodos.checkbox.label       "הצג מטלות בלוח השנה">
-<!ENTITY calendar.export.calendar.accesskey     "י">
-
-<!ENTITY calendar.export.calendar.label         "יצא לוח שנה…">
-<!ENTITY calendar.export.selection.accesskey    "צ">
-<!ENTITY calendar.export.selection.label        "יצא בחירה…">
+<!ENTITY calendar.import.label                  "יבא מקובץ…">
 <!ENTITY calendar.import.key                    "ב">
+<!ENTITY calendar.import.accesskey              "י">
 
-<!ENTITY calendar.importcalendar.label          "יבא לוח שנה…">
-<!ENTITY calendar.menu.customize.accesskey      "ה">
+<!ENTITY calendar.export.label                  "ייצוא…">
+<!ENTITY calendar.export.accesskey              "E">
+<!ENTITY calendar.export.selection.label        "יצא בחירה…">
+<!ENTITY calendar.export.selection.accesskey    "צ">
+
+<!ENTITY calendar.publish.label                 "פרסם את האירועים שנבחרו…">
+<!ENTITY calendar.publish.accesskey             "פ">
+
+<!ENTITY calendar.deletecalendar.label          "מחק את היומן הנבחר…">
+<!ENTITY calendar.deletecalendar.accesskey      "ח">
 
 <!ENTITY calendar.menu.customize.label          "התאמה אישית…">
+<!ENTITY calendar.menu.customize.accesskey      "ה">
+
+<!ENTITY showUnifinderCmd.label                 "מצא אירועים">
+<!ENTITY showUnifinderCmd.accesskey             "מ">
+
+<!ENTITY calendar.displaytodos.checkbox.label       "הצג מטלות בלוח השנה">
+<!ENTITY calendar.displaytodos.checkbox.accesskey   "מ">
+
+<!ENTITY calendar.menu.numberofweeks.label      "גודל תצוגה רב־שבועית">
 <!ENTITY calendar.menu.numberofweeks.2          "שני שבועות">
 <!ENTITY calendar.menu.numberofweeks.3          "שלושה שבועות">
 <!ENTITY calendar.menu.numberofweeks.4          "ארבעה שבועות">
 <!ENTITY calendar.menu.numberofweeks.5          "חמישה שבועות">
 <!ENTITY calendar.menu.numberofweeks.6          "שישה שבועות">
 
-<!ENTITY calendar.menu.numberofweeks.label      "גודל תצוגה רב־שבועית">
-<!ENTITY calendar.new.server.key                "L">
-<!ENTITY calendar.print.key                     "P">
-<!ENTITY calendar.properties.accesskey          "מ">
-
-<!ENTITY calendar.properties.label              "מאפייני לוח שנה…">
-<!ENTITY calendar.toolbar.accesskey             "ל">
-
-<!ENTITY calendar.toolbar.label                 "סרגל כלים לוח שנה">
-<!ENTITY event.new.event.key                    "N">
-<!ENTITY event.new.todo.key                     "T">
-<!ENTITY goNextCmd.all.accesskey                "ב">
-
-<!ENTITY goNextCmd.day.label                    "היום הבא">
-<!ENTITY goNextCmd.month.label                  "חודש הבא">
-<!ENTITY goNextCmd.week.label                   "שבוע הבא">
-
-<!ENTITY goPreviousCmd.day.label                "יום קודם">
-<!ENTITY goPreviousCmd.month.label              "חודש קודם">
-<!ENTITY goPreviousCmd.week.label               "שבוע קודם">
-<!ENTITY showCurrentView.accesskey              "ת">
+<!ENTITY goTodayCmd.label                       "עבור להיום">
+<!ENTITY goTodayCmd.accesskey                   "ה">
 
 <!ENTITY showCurrentView.label                  "תצוגה נוכחית">
-<!ENTITY showUnifinderCmd.accesskey             "מ">
+<!ENTITY showCurrentView.accesskey              "ת">
 
-<!ENTITY showUnifinderCmd.label                 "מצא אירועים">
-<!ENTITY task.toolbar.accesskey                 "מ">
-<!ENTITY task.toolbar.label                     "סרגל משימות">
+<!ENTITY calendar.properties.label              "מאפייני לוח שנה…">
+<!ENTITY calendar.properties.accesskey          "מ">
+
