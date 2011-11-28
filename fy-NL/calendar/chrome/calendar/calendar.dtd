@@ -322,7 +322,7 @@
 <!ENTITY calendarproperties.name.label     			"Namme:">
 <!ENTITY calendarproperties.readonly.label 			"Allinnich-lêze">
 <!ENTITY calendarproperties.firealarms.label 		"Alarmen toane">
-<!ENTITY calendarproperties.cache.label    			"Buffer (EKSPERIMENTEEL, werstart nedich)">
+<!ENTITY calendarproperties.cache2.label    			"Buffer">
 <!ENTITY calendarproperties.enabled.label  			"Dizze aginda ynskeakelje">
 <!ENTITY calendarproperties.forceDisabled.label		"De útjouwer foar dizze aginda koe net fûn wurde. Dit bart faak as jo bepaalde útwreidings útskeakele of de-ynstallearre hawwe.">
 <!ENTITY calendarproperties.unsubscribe.label		"Utskriuwe">
