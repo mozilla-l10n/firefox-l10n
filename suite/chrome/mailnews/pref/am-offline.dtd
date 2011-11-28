@@ -42,13 +42,13 @@
 
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
-<!ENTITY allAutosync.label "Синхронізувати всі листи локально, незважаючи на вік">
-<!ENTITY allAutosync.accesskey "С">
-<!ENTITY ageAutosyncBefore.label "Синхронізувати за останні">
-<!ENTITY ageAutosync.accesskey "S">
-<!ENTITY ageAutosyncMiddle.label "">
-<!ENTITY dayAgeInterval.label "Днів">
-<!ENTITY weekAgeInterval.label "Тижнів">
-<!ENTITY monthAgeInterval.label "Місяців">
-<!ENTITY yearAgeInterval.label "Років">
-<!ENTITY ageAutosyncAfter.label "">
+<!ENTITY allAutosync.label               "Синхронізувати всі листи локально, незважаючи на вік">
+<!ENTITY allAutosync.accesskey           "С">
+<!ENTITY ageAutosyncBefore.label         "Синхронізувати за останні">
+<!ENTITY ageAutosync.accesskey           "S">
+<!ENTITY ageAutosyncMiddle.label         "">
+<!ENTITY dayAgeInterval.label            "Днів">
+<!ENTITY weekAgeInterval.label           "Тижнів">
+<!ENTITY monthAgeInterval.label          "Місяців">
+<!ENTITY yearAgeInterval.label           "Років">
+<!ENTITY ageAutosyncAfter.label          "">

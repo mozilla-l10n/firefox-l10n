@@ -35,23 +35,23 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.notifications.title "Сповіщення">
-<!ENTITY notifications.caption "Сповіщення">
-<!ENTITY newMessagesArrive.label "При появі нових листів:">
-<!ENTITY playSound.label "Подати звуковий сигнал">
-<!ENTITY playSound.accesskey "П">
-<!ENTITY showAnimatedAlert.label "Показувати сповіщення">
-<!ENTITY showAnimatedAlert.accesskey "П">
-<!ENTITY showTrayIcon.label "Показувати піктограму у лотку">
-<!ENTITY showTrayIcon.accesskey "л">
-<!ENTITY bounceSystemDockIcon.label "Анімувати піктограму">
-<!ENTITY bounceSystemDockIcon.accesskey "А">
-<!ENTITY preview.label "Попередній перегляд">
-<!ENTITY preview.accesskey "П">
-<!ENTITY systemsound.label "Системний звук">
-<!ENTITY systemsound.accesskey "С">
-<!ENTITY customsound.label "Нетиповий аудіофайл">
-<!ENTITY customsound.accesskey "Н">
-<!ENTITY browse.label "Вибрати…">
-<!ENTITY browse.accesskey "В">
-<!ENTITY browse.title "Вибрати файл">
+<!ENTITY pref.notifications.title         "Сповіщення">
+<!ENTITY notifications.caption            "Сповіщення">
+<!ENTITY newMessagesArrive.label          "При появі нових листів:">
+<!ENTITY playSound.label                  "Подати звуковий сигнал">
+<!ENTITY playSound.accesskey              "П">
+<!ENTITY showAnimatedAlert.label          "Показувати сповіщення">
+<!ENTITY showAnimatedAlert.accesskey      "П">
+<!ENTITY showTrayIcon.label               "Показувати піктограму у лотку">
+<!ENTITY showTrayIcon.accesskey           "л">
+<!ENTITY bounceSystemDockIcon.label       "Анімувати піктограму">
+<!ENTITY bounceSystemDockIcon.accesskey   "А">
+<!ENTITY playButton.label                 "Play">
+<!ENTITY playButton.accesskey             "l">
+<!ENTITY systemsound.label                "Системний звук">
+<!ENTITY systemsound.accesskey            "С">
+<!ENTITY customsound.label                "Нетиповий аудіофайл">
+<!ENTITY customsound.accesskey            "Н">
+<!ENTITY browse.label                     "Вибрати…">
+<!ENTITY browse.accesskey                 "В">
+<!ENTITY browse.title                     "Вибрати файл">

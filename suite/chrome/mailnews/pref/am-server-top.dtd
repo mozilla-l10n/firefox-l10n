@@ -50,7 +50,7 @@
 <!ENTITY expungeOnExit.accesskey "т">
 <!ENTITY emptyTrashOnExit.label "Очищувати «Кошик» при виході">
 <!ENTITY emptyTrashOnExit.accesskey "ч">
-<!ENTITY loginAtStartup.label "Перевіряти пошту при запуску">
+<!ENTITY loginAtStartup.label "Перевіряти пошту при запуску"> 
 <!ENTITY loginAtStartup.accesskey "в">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number

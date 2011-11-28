@@ -36,48 +36,48 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.viewing.messages.title "Екран листа">
-<!ENTITY style.label "Стиль:">
-<!ENTITY style.accesskey "С">
-<!ENTITY regular.label "Звичайний">
-<!ENTITY bold.label "Напівжирний">
-<!ENTITY italic.label "Курсив">
-<!ENTITY boldItalic.label "Напівжирний курсив">
-<!ENTITY size.label "Розмір:">
-<!ENTITY size.accesskey "Р">
-<!ENTITY bigger.label "Більший">
-<!ENTITY smaller.label "Менший">
-<!ENTITY color.label "Колір:">
-<!ENTITY color.accesskey "К">
-<!ENTITY displayPlainText.caption "Звичайний текст листів">
-<!ENTITY fontPlainText.label "Шрифт:">
-<!ENTITY fontPlainText.accesskey "Ш">
-<!ENTITY displayQuoted.label "Налаштування для цитованих листів:">
-<!ENTITY wrapInMsg.label "Вирівняти текст до ширина вікна">
-<!ENTITY wrapInMsg.accesskey "В">
+<!ENTITY pref.viewing.messages.title      "Екран листа">
+<!ENTITY style.label                      "Стиль:">
+<!ENTITY style.accesskey                  "С">
+<!ENTITY regular.label                    "Звичайний">
+<!ENTITY bold.label                       "Напівжирний">
+<!ENTITY italic.label                     "Курсив">
+<!ENTITY boldItalic.label                 "Напівжирний курсив">
+<!ENTITY size.label                       "Розмір:">
+<!ENTITY size.accesskey                   "Р">
+<!ENTITY bigger.label                     "Більший">
+<!ENTITY smaller.label                    "Менший">
+<!ENTITY color.label                      "Колір:">
+<!ENTITY color.accesskey                  "К">
+<!ENTITY displayPlainText.caption         "Звичайний текст листів">
+<!ENTITY fontPlainText.label              "Шрифт:">
+<!ENTITY fontPlainText.accesskey          "Ш">
+<!ENTITY displayQuoted.label              "Налаштування для цитованих листів:">
+<!ENTITY wrapInMsg.label                  "Вирівняти текст до ширина вікна">
+<!ENTITY wrapInMsg.accesskey              "В">
 <!-- LOCALIZATION NOTE : (convertEmoticons.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
-<!ENTITY convertEmoticons.label "Відображати смайлики як графіку">
-<!ENTITY convertEmoticons.accesskey "В">
-<!ENTITY generalMessageDisplay.caption "Основне">
-<!ENTITY autoMarkAsRead.label "Автоматично позначати листи як прочитані">
-<!ENTITY autoMarkAsRead.accesskey "А">
-<!ENTITY markAsReadNoDelay.label "Зразу після відораження">
-<!ENTITY markAsReadNoDelay.accesskey "З">
+<!ENTITY convertEmoticons.label           "Відображати смайлики як графіку">
+<!ENTITY convertEmoticons.accesskey       "В">
+<!ENTITY generalMessageDisplay.caption    "Основне">
+<!ENTITY autoMarkAsRead.label             "Автоматично позначати листи як прочитані">
+<!ENTITY autoMarkAsRead.accesskey         "А">
+<!ENTITY markAsReadNoDelay.label          "Зразу після відораження">
+<!ENTITY markAsReadNoDelay.accesskey      "З">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label "Як мине">
-<!ENTITY markAsReadDelay.accesskey "Я">
-<!ENTITY secondsLabel.label "секунд">
+<!ENTITY markAsReadDelay.label            "Як мине">
+<!ENTITY markAsReadDelay.accesskey        "Я">
+<!ENTITY secondsLabel.label               "секунд">
 
-<!ENTITY openingMessages.label "Коли відкривається листи, показувати їх у:">
-<!ENTITY newWindowRadio.label "новому вікні">
-<!ENTITY newWindowRadio.accesskey "н">
-<!ENTITY existingWindowRadio.label "вже існуючому вікні">
-<!ENTITY existingWindowRadio.accesskey "в">
-<!ENTITY disableContent.label "Заборонити зображення та інший контекст з віддалених джерел">
-<!ENTITY disableContent.accesskey "З">
-<!ENTITY showCondensedAddresses.label "Показувати тільки імена людей, що знаходяться в моїй адресній книзі">
+<!ENTITY openingMessages.label            "Коли відкривається листи, показувати їх у:">
+<!ENTITY newWindowRadio.label             "новому вікні">
+<!ENTITY newWindowRadio.accesskey         "н">
+<!ENTITY existingWindowRadio.label        "вже існуючому вікні">
+<!ENTITY existingWindowRadio.accesskey    "в">
+<!ENTITY disableContent.label             "Заборонити зображення та інший контекст з віддалених джерел">
+<!ENTITY disableContent.accesskey         "З">
+<!ENTITY showCondensedAddresses.label     "Показувати тільки імена людей, що знаходяться в моїй адресній книзі">
 <!ENTITY showCondensedAddresses.accesskey "П">
-<!ENTITY closeMsgWindowOnDelete.label "Close message window when deleting the message">
+<!ENTITY closeMsgWindowOnDelete.label     "Close message window when deleting the message">
 <!ENTITY closeMsgWindowOnDelete.accesskey "l">

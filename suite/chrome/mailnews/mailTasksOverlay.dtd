@@ -1,18 +1,18 @@
 
 <!-- LOCALIZATION NOTE (messengerCmd.label): DONT_TRANSLATE -->
-<!ENTITY messengerCmd.label "Пошта і новини">
-<!ENTITY messengerCmd.accesskey "П">
-<!ENTITY messengerCmd.commandkey "2">
-<!ENTITY addressBookCmd.label "Адресна книга">
-<!ENTITY addressBookCmd.accesskey "А">
-<!ENTITY addressBookCmd.commandkey "5">
+<!ENTITY messengerCmd.label					"Пошта і новини">
+<!ENTITY messengerCmd.accesskey				"П">
+<!ENTITY messengerCmd.commandkey			"2">
+<!ENTITY addressBookCmd.label				"Адресна книга">  
+<!ENTITY addressBookCmd.accesskey			"А">
+<!ENTITY addressBookCmd.commandkey			"5">
 
-<!ENTITY taskMessenger.tooltip "Пошта і новини">
-<!ENTITY taskAddressBook.tooltip "Адресна книга">
+<!ENTITY taskMessenger.tooltip  "Пошта і новини">
+<!ENTITY taskAddressBook.tooltip  "Адресна книга">
 
 <!-- searchAddressesCmd is also used by addressbook -->
-<!ENTITY searchAddressesCmd.label "Пошук адрес…">
-<!ENTITY searchAddressesCmd.accesskey "П">
+<!ENTITY searchAddressesCmd.label                       "Пошук адрес…">
+<!ENTITY searchAddressesCmd.accesskey                   "П">
 
 <!ENTITY searchMailCmd.label "Пошук листів…">
 <!ENTITY searchMailCmd.accesskey "П">

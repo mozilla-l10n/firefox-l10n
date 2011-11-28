@@ -35,29 +35,29 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.mailnews.title "Пошта і новини">
-<!ENTITY generalSettings.caption "Основні налаштування">
-<!ENTITY confirmMove.label "Підтверджувати, коли теки пересуваються в кошик">
-<!ENTITY confirmMove.accesskey "П">
-<!ENTITY preserveThreading.label "Убергігати гілку, коли впорядковуюються листи">
-<!ENTITY preserveThreading.accesskey "З">
-<!ENTITY mailBiffOnNewWindow.label "Only check for new mail after opening Mail &amp; Newsgroups">
-<!ENTITY mailBiffOnNewWindow.accesskey "O">
+<!ENTITY pref.mailnews.title              "Пошта і новини">
+<!ENTITY generalSettings.caption          "Основні налаштування">
+<!ENTITY confirmMove.label                "Підтверджувати, коли теки пересуваються в кошик">
+<!ENTITY confirmMove.accesskey            "П">
+<!ENTITY preserveThreading.label          "Убергігати гілку, коли впорядковуюються листи">
+<!ENTITY preserveThreading.accesskey      "З">
+<!ENTITY mailBiffOnNewWindow.label        "Only check for new mail after opening Mail &amp; Newsgroups">
+<!ENTITY mailBiffOnNewWindow.accesskey    "O">
 
-<!ENTITY defaultMailSettings.description "Зробити &brandShortName; типовою програмою для:">
-<!ENTITY setDefaultMail.label "Пошту">
-<!ENTITY setDefaultMail.accesskey "П">
-<!ENTITY setDefaultNews.label "Конференції">
-<!ENTITY setDefaultNews.accesskey "К">
-<!ENTITY setDefaultFeed.label "Стрічки">
-<!ENTITY setDefaultFeed.accesskey "С">
+<!ENTITY defaultMailSettings.description  "Зробити &brandShortName; типовою програмою для:">
+<!ENTITY setDefaultMail.label             "Пошту">
+<!ENTITY setDefaultMail.accesskey         "П">
+<!ENTITY setDefaultNews.label             "Конференції">
+<!ENTITY setDefaultNews.accesskey         "К">
+<!ENTITY setDefaultFeed.label             "Стрічки">
+<!ENTITY setDefaultFeed.accesskey         "С">
 
-<!ENTITY messengerStartPage.caption "Початкова сторінка">
-<!ENTITY enableStartPage.label "Показувати початкову сторінку на місці листа, коли ввімкнуто пошту">
-<!ENTITY enableStartPage.accesskey "П">
-<!ENTITY location.label "Місце:">
-<!ENTITY location.accesskey "М">
-<!ENTITY useDefault.label "Відновити">
-<!ENTITY useDefault.accesskey "В">
-<!ENTITY rememberLastMsg.label "Пам'ятати останні вибрані листи">
-<!ENTITY rememberLastMsg.accesskey "П">
+<!ENTITY messengerStartPage.caption       "Початкова сторінка">
+<!ENTITY enableStartPage.label            "Показувати початкову сторінку на місці листа, коли ввімкнуто пошту">
+<!ENTITY enableStartPage.accesskey        "П">
+<!ENTITY location.label                   "Місце:">
+<!ENTITY location.accesskey               "М">
+<!ENTITY useDefault.label                 "Відновити">
+<!ENTITY useDefault.accesskey             "В">
+<!ENTITY rememberLastMsg.label            "Пам'ятати останні вибрані листи">
+<!ENTITY rememberLastMsg.accesskey        "П">

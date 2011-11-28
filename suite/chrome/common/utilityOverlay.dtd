@@ -1,16 +1,16 @@
 <!-- these things need to move into utilityOverlay.xul -->
-<!ENTITY offlineGoOfflineCmd.label "Працювати автономно">
-<!ENTITY offlineGoOfflineCmd.accesskey "П">
+<!ENTITY  offlineGoOfflineCmd.label                 "Працювати автономно">
+<!ENTITY  offlineGoOfflineCmd.accesskey             "П">
 
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
 
-<!ENTITY fileMenu.label "Файл">
-<!ENTITY fileMenu.accesskey "ф">
-<!ENTITY newMenu.label "Створити">
-<!ENTITY newMenu.accesskey "т">
-<!ENTITY newBlankPageCmd.label "Сторінка редактора">
-<!ENTITY newBlankPageCmd.accesskey "С">
-<!ENTITY newBlankPageCmd.key "n">
+<!ENTITY fileMenu.label                   "Файл">
+<!ENTITY fileMenu.accesskey               "ф">
+<!ENTITY newMenu.label                    "Створити">
+<!ENTITY newMenu.accesskey                "т">
+<!ENTITY newBlankPageCmd.label            "Сторінка редактора">
+<!ENTITY newBlankPageCmd.accesskey        "С">
+<!ENTITY newBlankPageCmd.key              "n">
 <!ENTITY newPageFromTemplateCmd.label "Сторінка, яка використовує шаблон">
 <!ENTITY newPageFromTemplateCmd.accesskey "С">
 <!ENTITY newPageFromDraftCmd.label "Сторінка, яка використовує чернетку">
@@ -18,101 +18,132 @@
 <!ENTITY newNavigatorCmd.label "Вікно">
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "B">
+<!ENTITY printSetupCmd.label "Page Setup…">
+<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printPreviewCmd.label "Print Preview">
+<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printCmd.label "Print…">
+<!ENTITY printCmd.accesskey "P">
+<!ENTITY printCmd.key "P">
 
-<!ENTITY editMenu.label "Правка">
-<!ENTITY editMenu.accesskey "п">
-<!ENTITY undoCmd.label "Скасувати">
-<!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "П">
-<!ENTITY redoCmd.label "Повторити">
-<!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "П">
-<!ENTITY cutCmd.label "Вирізати">
-<!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "и">
-<!ENTITY copyCmd.label "Копіювати">
-<!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "п">
-<!ENTITY pasteCmd.label "Вставити">
-<!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "т">
-<!ENTITY pasteGoCmd.label "Paste &amp; Go">
-<!ENTITY pasteGoCmd.accesskey "G">
-<!ENTITY deleteCmd.label "Стерти">
-<!ENTITY deleteCmd.accesskey "С">
-<!ENTITY selectAllCmd.label "Виділити все">
-<!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "с">
-<!ENTITY preferencesCmd.label "Налаштування…">
-<!ENTITY preferencesCmd.key "E">
-<!ENTITY preferencesCmd.accesskey "Н">
+<!ENTITY editMenu.label                   "Правка">
+<!ENTITY editMenu.accesskey               "п">
+<!ENTITY undoCmd.label                    "Скасувати">
+<!ENTITY undoCmd.key                      "Z">
+<!ENTITY undoCmd.accesskey                "П">
+<!ENTITY redoCmd.label                    "Повторити">
+<!ENTITY redoCmd.key                      "Y">
+<!ENTITY redoCmd.accesskey                "П">
+<!ENTITY cutCmd.label                     "Вирізати">
+<!ENTITY cutCmd.key                       "X">
+<!ENTITY cutCmd.accesskey                 "и">
+<!ENTITY copyCmd.label                    "Копіювати">
+<!ENTITY copyCmd.key                      "C">
+<!ENTITY copyCmd.accesskey                "п">
+<!ENTITY pasteCmd.label                   "Вставити">
+<!ENTITY pasteCmd.key                     "V">
+<!ENTITY pasteCmd.accesskey               "т">
+<!ENTITY pasteGoCmd.label                 "Paste &amp; Go">
+<!ENTITY pasteGoCmd.accesskey             "G">
+
+<!-- LOCALIZATION NOTE (pasteSearchCmd): "Search" is a verb, this is the
+     search bar equivalent to the url bar's "Paste & Go"  -->
+<!ENTITY pasteSearchCmd.label             "Paste &amp; Search">
+<!ENTITY pasteSearchCmd.accesskey         "e">
+<!ENTITY deleteCmd.label                  "Стерти">
+<!ENTITY deleteCmd.accesskey              "С">
+<!ENTITY selectAllCmd.label               "Виділити все">
+<!ENTITY selectAllCmd.key                 "A">
+<!ENTITY selectAllCmd.accesskey           "с">
+<!ENTITY clearHistoryCmd.label				"Clear Search History">  
+<!ENTITY clearHistoryCmd.accesskey			"H"> 
+<!ENTITY showSuggestionsCmd.label			"Show Suggestions">  
+<!ENTITY showSuggestionsCmd.accesskey		"S"> 
+<!ENTITY preferencesCmd.label				"Налаштування…">
+<!ENTITY preferencesCmd.key					"E">  
+<!ENTITY preferencesCmd.accesskey			"Н"> 
+<!ENTITY findCmd.key "F">
+<!-- LOCALIZATION NOTE (findCmd.accesskey): This accesskey should be within
+     findCmd.label found in messengercompose.dtd, messenger.dtd and
+     editorOverlay.dtd and findOnCmd.label found in navigatorOverlay.dtd -->
+<!ENTITY findCmd.accesskey "F">
+<!ENTITY findAgainCmd.label "Find Again">
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.label "Find Previous">
+<!ENTITY findPrevCmd.key "G">
+<!ENTITY findPrevCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.accesskey "v">
 <!ENTITY findTypeTextCmd.label "Знайти як тест">
 <!ENTITY findTypeTextCmd.accesskey "x">
 <!ENTITY findTypeLinksCmd.label "Знайти як посилання">
 <!ENTITY findTypeLinksCmd.accesskey "k">
 
-<!ENTITY viewMenu.label "Вигляд">
-<!ENTITY viewMenu.accesskey "в">
-<!ENTITY viewToolbarsMenu.label "Показати/Сховати">
-<!ENTITY viewToolbarsMenu.accesskey "П">
-<!ENTITY showTaskbarCmd.label "Рядок стану">
-<!ENTITY showTaskbarCmd.accesskey "Р">
+<!ENTITY viewMenu.label					"Вигляд"> 
+<!ENTITY viewMenu.accesskey               "в">
+<!ENTITY viewToolbarsMenu.label				"Показати/Сховати"> 
+<!ENTITY viewToolbarsMenu.accesskey			"П"> 
+<!ENTITY showTaskbarCmd.label					"Рядок стану">  
+<!ENTITY showTaskbarCmd.accesskey				"Р"> 
 
-<!ENTITY helpMenu.label "Довідка">
-<!ENTITY helpMenu.accesskey "Д">
+<!ENTITY helpMenu.label					"Довідка"> 
+<!ENTITY helpMenu.accesskey				"Д"> 
 
-<!ENTITY helpTroubleshootingInfo.label "Troubleshooting Information">
-<!ENTITY helpTroubleshootingInfo.accesskey "T">
-<!ENTITY releaseCmd.label "Примітки до випуску">
-<!ENTITY releaseCmd.accesskey "П">
-<!ENTITY updateCmd.label "Перевірити наявність оновлень…">
-<!ENTITY updateCmd.accesskey "П">
-<!ENTITY aboutCmd.label "Про &brandShortName;">
-<!ENTITY aboutCmd.accesskey "П">
-<!ENTITY aboutCommPluginsCmd.label "Про модулі (plug-ins)">
-<!ENTITY aboutCommPluginsCmd.accesskey "П">
+<!ENTITY helpTroubleshootingInfo.label      "Troubleshooting Information">
+<!ENTITY helpTroubleshootingInfo.accesskey  "T">
+<!ENTITY releaseCmd.label                   "Примітки до випуску">
+<!ENTITY releaseCmd.accesskey               "П">
+<!ENTITY helpSafeMode.label                 "Restart with Add-ons Disabled">
+<!ENTITY helpSafeMode.accesskey             "R">
+<!ENTITY updateCmd.label                    "Перевірити наявність оновлень…">
+<!ENTITY updateCmd.accesskey                "П">
+<!ENTITY aboutCmd.label					"Про &brandShortName;">
+<!ENTITY aboutCmd.accesskey				"П">
+<!ENTITY aboutCommPluginsCmd.label			"Про модулі (plug-ins)">
+<!ENTITY aboutCommPluginsCmd.accesskey			"П">
 
-<!ENTITY direct.label "У мережі (проксі: нема)">
-<!ENTITY direct.accesskey "н">
-<!ENTITY manual.label "У мережі (проксі: ручний)">
-<!ENTITY manual.accesskey "р">
-<!ENTITY pac.label "У мережі (проксі: автопосилання)">
-<!ENTITY pac.accesskey "а">
-<!ENTITY wpad.label "У мережі (проксі: авторозпізнання)">
-<!ENTITY wpad.accesskey "а">
-<!ENTITY system.label "У мережі (проксі: системне проксі)">
-<!ENTITY system.accesskey "с">
+<!ENTITY direct.label                                   "У мережі (проксі: нема)">
+<!ENTITY direct.accesskey                               "н">
+<!ENTITY manual.label                                   "У мережі (проксі: ручний)">
+<!ENTITY manual.accesskey                               "р">
+<!ENTITY pac.label                                      "У мережі (проксі: автопосилання)">
+<!ENTITY pac.accesskey                                  "а">
+<!ENTITY wpad.label                                     "У мережі (проксі: авторозпізнання)">
+<!ENTITY wpad.accesskey                                 "а">
+<!ENTITY system.label                                   "У мережі (проксі: системне проксі)">
+<!ENTITY system.accesskey                               "с">
 
-<!ENTITY proxy.label "Конфігурація проксі-сервера…">
-<!ENTITY proxy.accesskey "к">
+<!ENTITY proxy.label                                    "Конфігурація проксі-сервера…">
+<!ENTITY proxy.accesskey                                "к">
 
-<!ENTITY bidiSwitchTextDirectionItem.label "Перемкнути напрям тексту на сторінці">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey "П">
-<!ENTITY bidiSwitchTextDirectionItem.commandkey "X">
+<!ENTITY bidiSwitchTextDirectionItem.label        "Перемкнути напрям тексту на сторінці">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "П">
+<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
-<!ENTITY customizeToolbarContext.label "Налаштувати…">
-<!ENTITY customizeToolbarContext.accesskey "Н">
+<!ENTITY customizeToolbarContext.label            "Налаштувати…">
+<!ENTITY customizeToolbarContext.accesskey        "Н">
 
-<!ENTITY customizeToolbar.toolbarmode.label "Налаштування для цієї панелі інструментів">
-<!ENTITY customizeToolbar.toolbarmode.accesskey "Н">
-<!ENTITY customizeToolbar.iconsAndText.label "Піктограми і текст">
-<!ENTITY customizeToolbar.iconsAndText.accesskey "П">
-<!ENTITY customizeToolbar.icons.label "Тільки піктограми">
-<!ENTITY customizeToolbar.icons.accesskey "Т">
-<!ENTITY customizeToolbar.text.label "Тільки текст">
-<!ENTITY customizeToolbar.text.accesskey "Т">
-<!ENTITY customizeToolbar.useSmallIcons.label "Використовувати маленькі піктограми">
+<!ENTITY customizeToolbar.toolbarmode.label       "Налаштування для цієї панелі інструментів">
+<!ENTITY customizeToolbar.toolbarmode.accesskey   "Н">
+<!ENTITY customizeToolbar.iconsAndText.label      "Піктограми і текст">
+<!ENTITY customizeToolbar.iconsAndText.accesskey  "П">
+<!ENTITY customizeToolbar.icons.label             "Тільки піктограми">
+<!ENTITY customizeToolbar.icons.accesskey         "Т">
+<!ENTITY customizeToolbar.text.label              "Тільки текст">
+<!ENTITY customizeToolbar.text.accesskey          "Т">
+<!ENTITY customizeToolbar.useSmallIcons.label     "Використовувати маленькі піктограми">
 <!ENTITY customizeToolbar.useSmallIcons.accesskey "В">
-<!ENTITY customizeToolbar.labelAlignEnd.label "Показувати текст поряд піктограми">
+<!ENTITY customizeToolbar.labelAlignEnd.label     "Показувати текст поряд піктограми">
 <!ENTITY customizeToolbar.labelAlignEnd.accesskey "П">
-<!ENTITY customizeToolbar.useDefault.label "Використати типові налаштування">
-<!ENTITY customizeToolbar.useDefault.accesskey "В">
+<!ENTITY customizeToolbar.useDefault.label        "Використати типові налаштування">
+<!ENTITY customizeToolbar.useDefault.accesskey    "В">
 
 <!-- Popup Blocked notification menu -->
-<!ENTITY allowPopups.accesskey "p">
-<!ENTITY showPopupManager.label "Керувати виринаннями">
-<!ENTITY showPopupManager.accesskey "К">
-<!ENTITY dontShowMessage.label "Не показувати це повідомлення, коли виринання заблоковані">
-<!ENTITY dontShowMessage.accesskey "Н">
+<!ENTITY allowPopups.accesskey        "p">
+<!ENTITY showPopupManager.label       "Керувати виринаннями">
+<!ENTITY showPopupManager.accesskey   "К">
+<!ENTITY dontShowMessage.label        "Не показувати це повідомлення, коли виринання заблоковані">
+<!ENTITY dontShowMessage.accesskey    "Н">
 
 <!ENTITY syncToolbarButton.label "Sync">

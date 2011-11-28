@@ -1,27 +1,28 @@
-<!ENTITY pref.proxies.advanced.title "Розширені налаштуванння проксі">
-<!ENTITY protocols.caption "Проксі по протоколах">
-<!ENTITY protocols.description "Зазвичай, один проксі може обробляти всі зазначені нижче протоколи.">
-<!ENTITY http.label "HTTP-проксі:">
-<!ENTITY http.accesskey "H">
-<!ENTITY ssl.label "SSL-проксі:">
-<!ENTITY ssl.accesskey "S">
-<!ENTITY ftp.label "FTP-проксі:">
-<!ENTITY ftp.accesskey "F">
-<!ENTITY reuseProxy.label "Використовувати налаштуванння HTTP-проксі для всіх протоколів">
-<!ENTITY reuseProxy.accesskey "В">
-<!ENTITY port.label "Порт:">
-<!ENTITY HTTPPort.accesskey "P">
-<!ENTITY SSLPort.accesskey "o">
-<!ENTITY FTPPort.accesskey "r">
+<!--LOCALIZATION NOTE : FILE The Advanced Proxy Preferences dialog -->
+<!ENTITY  pref.proxies.advanced.title "Розширені налаштуванння проксі">
+<!ENTITY  protocols.caption           "Проксі по протоколах">
+<!ENTITY  protocols.description       "Зазвичай, один проксі може обробляти всі зазначені нижче протоколи.">
+<!ENTITY  http.label                  "HTTP-проксі:">
+<!ENTITY  http.accesskey              "H">
+<!ENTITY  ssl.label                   "SSL-проксі:">
+<!ENTITY  ssl.accesskey               "S">
+<!ENTITY  ftp.label                   "FTP-проксі:">
+<!ENTITY  ftp.accesskey               "F">
+<!ENTITY  reuseProxy.label            "Використовувати налаштуванння HTTP-проксі для всіх протоколів">
+<!ENTITY  reuseProxy.accesskey        "В">
+<!ENTITY  port.label                  "Порт:">
+<!ENTITY  HTTPPort.accesskey          "P">
+<!ENTITY  SSLPort.accesskey           "o">
+<!ENTITY  FTPPort.accesskey           "r">
 
-<!ENTITY socks.caption "Груповий проксі">
-<!ENTITY socks.description "SOCKS-проксі — груповий проксі, іноді виростовують у корпоративному або подібному оточенні.">
-<!ENTITY socks.label "SOCKS-проксі:">
-<!ENTITY socks.accesskey "П">
-<!ENTITY socks4.label "SOCKS 4">
-<!ENTITY socks4.accesskey "4">
-<!ENTITY socks5.label "SOCKS 5">
-<!ENTITY socks5.accesskey "5">
-<!ENTITY socksRemoteDNS.label "Використовувати для перетворення назв вузлів (рекомендовано для SOCKS v5)">
-<!ENTITY socksRemoteDNS.accesskey "В">
-<!ENTITY SOCKSport.accesskey "В">
+<!ENTITY  socks.caption               "Груповий проксі">
+<!ENTITY  socks.description           "SOCKS-проксі — груповий проксі, іноді виростовують у корпоративному або подібному оточенні.">
+<!ENTITY  socks.label                 "SOCKS-проксі:">
+<!ENTITY  socks.accesskey             "П">
+<!ENTITY  socks4.label                "SOCKS 4">
+<!ENTITY  socks4.accesskey            "4">
+<!ENTITY  socks5.label                "SOCKS 5">
+<!ENTITY  socks5.accesskey            "5">
+<!ENTITY  socksRemoteDNS.label        "Використовувати для перетворення назв вузлів (рекомендовано для SOCKS v5)">
+<!ENTITY  socksRemoteDNS.accesskey    "В">
+<!ENTITY  SOCKSport.accesskey         "В">

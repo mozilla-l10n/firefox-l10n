@@ -2,7 +2,7 @@
 a replacement for the standard security certificate errors produced
 by NSS/PSM via netError.xhtml. -->
 
-<!ENTITY certerror.pagetitle "Недовірене з'єднання">
+<!ENTITY certerror.pagetitle  "Недовірене з'єднання">
 <!ENTITY certerror.longpagetitle "Це недовірене з'єднання">
 
 <!-- Localization note (certerror.introPara1) - The string "#1" will

@@ -1,5 +1,5 @@
-<!ENTITY defaultClient.title "Типова поштова програма">
-<!ENTITY defaultClient.intro "Використовувати &brandShortName; як стандартний клієнт для:">
+<!ENTITY defaultClient.title  "Типова поштова програма">
+<!ENTITY defaultClient.intro  "Використовувати &brandShortName; як стандартний клієнт для:">
 
 <!ENTITY browser.label "Навігації">
 <!ENTITY email.label "Електронної пошти">

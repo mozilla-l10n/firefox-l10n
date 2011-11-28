@@ -36,19 +36,19 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.tags.title "Ключові слова">
-<!ENTITY pref.tags.caption "Налагодити вкладки">
-<!ENTITY pref.tags.description "Вкладки можуть використовуватись для впорядкування за категоріями і важливістю ваших листів. Змініть вигляд і важливість вкладок, використовуючи налаштування нижче. Вкладки, що ближче до верхівки — більш важливі, ніж ті, що внизу.">
-<!ENTITY tagColumn.label "Позначка">
-<!ENTITY colorColumn.label "Колір">
-<!ENTITY defaultTagName.label "Вкладки бе назв">
-<!ENTITY addTagButton.label "Додати">
-<!ENTITY addTagButton.accesskey "Д">
-<!ENTITY deleteTagButton.label "Вилучити">
-<!ENTITY deleteTagButton.accesskey "В">
-<!ENTITY raiseTagButton.label "Вища важливість">
-<!ENTITY raiseTagButton.accesskey "В">
-<!ENTITY lowerTagButton.label "Нижча важливість">
-<!ENTITY lowerTagButton.accesskey "Н">
-<!ENTITY restoreButton.label "Відновити типові значення">
-<!ENTITY restoreButton.accesskey "В">
+<!ENTITY pref.tags.title            "Ключові слова">
+<!ENTITY pref.tags.caption          "Налагодити вкладки">
+<!ENTITY pref.tags.description      "Вкладки можуть використовуватись для впорядкування за категоріями і важливістю ваших листів. Змініть вигляд і важливість вкладок, використовуючи налаштування нижче. Вкладки, що ближче до верхівки — більш важливі, ніж ті, що внизу.">
+<!ENTITY tagColumn.label            "Позначка">
+<!ENTITY colorColumn.label          "Колір">
+<!ENTITY defaultTagName.label       "Вкладки бе назв">
+<!ENTITY addTagButton.label         "Додати">
+<!ENTITY addTagButton.accesskey     "Д">
+<!ENTITY deleteTagButton.label      "Вилучити">
+<!ENTITY deleteTagButton.accesskey  "В">
+<!ENTITY raiseTagButton.label       "Вища важливість">
+<!ENTITY raiseTagButton.accesskey   "В">
+<!ENTITY lowerTagButton.label       "Нижча важливість">
+<!ENTITY lowerTagButton.accesskey   "Н">
+<!ENTITY restoreButton.label        "Відновити типові значення">
+<!ENTITY restoreButton.accesskey    "В">

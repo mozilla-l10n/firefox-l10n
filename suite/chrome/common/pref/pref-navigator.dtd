@@ -1,34 +1,34 @@
-<!ENTITY pref.navigator.title "Переглядач">
+<!ENTITY pref.navigator.title           "Переглядач">
 
-<!ENTITY navRadio.label "Показувати">
-<!ENTITY navRadio.accesskey "П">
-<!ENTITY navStartPageMenu.label "Після запуску переглядача">
-<!ENTITY newWinPageMenu.label "У новому вікні">
-<!ENTITY newTabPageMenu.label "Новій вклаці">
+<!ENTITY navRadio.label                 "Показувати">
+<!ENTITY navRadio.accesskey             "П">
+<!ENTITY navStartPageMenu.label         "Після запуску переглядача">
+<!ENTITY newWinPageMenu.label           "У новому вікні">
+<!ENTITY newTabPageMenu.label           "Новій вклаці">
 
-<!ENTITY blankPageRadio.label "Порожня сторінка">
-<!ENTITY blankPageRadio.accesskey "П">
-<!ENTITY homePageRadio.label "Домівка">
-<!ENTITY homePageRadio.accesskey "Д">
-<!ENTITY lastPageRadio.label "Сторінка, що останньою відвідували">
-<!ENTITY lastPageRadio.accesskey "С">
-<!ENTITY restoreSessionRadio.label "Відновити попередній сеанс">
-<!ENTITY restoreSessionRadio.accesskey "В">
+<!ENTITY blankPageRadio.label           "Порожня сторінка">
+<!ENTITY blankPageRadio.accesskey       "П">
+<!ENTITY homePageRadio.label            "Домівка">
+<!ENTITY homePageRadio.accesskey        "Д">
+<!ENTITY lastPageRadio.label            "Сторінка, що останньою відвідували">
+<!ENTITY lastPageRadio.accesskey        "С">
+<!ENTITY restoreSessionRadio.label      "Відновити попередній сеанс">
+<!ENTITY restoreSessionRadio.accesskey  "В">
 
-<!ENTITY header2.label "Домівка">
-<!ENTITY homePageIntro.label "Натиснення кнопки Домівка перенесе вас до цієї групи сторінок:">
-<!ENTITY useCurrent.label "Використовувати поточну сторінку">
-<!ENTITY useCurrent.accesskey "В">
-<!ENTITY useCurrentGroup.label "Використовувати поточну групу">
-<!ENTITY useCurrentGroup.accesskey "В">
-<!ENTITY browseFile.label "Вибрати файл…">
-<!ENTITY browseFile.accesskey "В">
-<!ENTITY useDefault.label "Відновити типове">
-<!ENTITY useDefault.accesskey "В">
+<!ENTITY header2.label                  "Домівка">
+<!ENTITY homePageIntro.label            "Натиснення кнопки Домівка перенесе вас до цієї групи сторінок:">
+<!ENTITY useCurrent.label               "Використовувати поточну сторінку">
+<!ENTITY useCurrent.accesskey           "В">
+<!ENTITY useCurrentGroup.label          "Використовувати поточну групу">
+<!ENTITY useCurrentGroup.accesskey      "В">
+<!ENTITY browseFile.label               "Вибрати файл…">
+<!ENTITY browseFile.accesskey           "В">
+<!ENTITY useDefault.label               "Відновити типове">
+<!ENTITY useDefault.accesskey           "В">
 
-<!ENTITY defaultBrowserGroup.label "Типовий переглядач">
-<!ENTITY defaultBrowserButton.label "Встановити типовим переглядачем">
+<!ENTITY defaultBrowserGroup.label      "Типовий переглядач">
+<!ENTITY defaultBrowserButton.label     "Встановити типовим переглядачем">
 <!ENTITY defaultBrowserButton.accesskey "В">
-<!ENTITY alreadyDefaultText "&brandShortName; вже є типовим переглядачем.">
-<!ENTITY defaultPendingText "&brandShortName; буде встановленим як типовий переглядач, коли ви натисните Гаразд.">
-<!ENTITY makeDefaultText "Встановити &brandShortName; як типовий переглядач.">
+<!ENTITY alreadyDefaultText             "&brandShortName; вже є типовим переглядачем.">
+<!ENTITY defaultPendingText             "&brandShortName; буде встановленим як типовий переглядач, коли ви натисните Гаразд.">
+<!ENTITY makeDefaultText                "Встановити &brandShortName; як типовий переглядач.">

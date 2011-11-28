@@ -1,14 +1,11 @@
-<!ENTITY zoomEnlargeCmd.label "Більший">
-<!ENTITY zoomEnlargeCmd.accesskey "Б">
-<!ENTITY zoomEnlargeCmd.commandkey "+">
-<!ENTITY zoomEnlargeCmd.commandkey2 "=">
+<!-- LOCALIZATION NOTE: do not use digits "0"-"9" as accesskeys -->
+<!ENTITY zoomEnlargeCmd.label       "Більший">
+<!ENTITY zoomEnlargeCmd.accesskey   "Б">
+<!ENTITY zoomEnlargeCmd.commandkey  "+">
+<!ENTITY zoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 
-<!ENTITY zoomReduceCmd.label "Менший">
-<!ENTITY zoomReduceCmd.accesskey "М">
-<!ENTITY zoomReduceCmd.commandkey "-">
+<!ENTITY zoomReduceCmd.label        "Менший">
+<!ENTITY zoomReduceCmd.accesskey    "М">
+<!ENTITY zoomReduceCmd.commandkey   "-">
 
-<!ENTITY zoomResetCmd.commandkey "0">
-
-<!-- see zoomOtherLabel in viewZoomOverlay.properties -->
-<!ENTITY zoomMenu.accesskey "z">
-<!ENTITY zoomOtherCmd.accesskey "o">
+<!ENTITY zoomResetCmd.commandkey    "0">

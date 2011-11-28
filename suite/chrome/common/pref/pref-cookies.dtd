@@ -1,38 +1,38 @@
-<!ENTITY pref.cookies.title "Куки">
+<!ENTITY pref.cookies.title             "Куки">
 
 <!-- cookies -->
 
-<!ENTITY cookiePolicy.label "Умови прийому куки">
+<!ENTITY cookiePolicy.label             "Умови прийому куки">
 
-<!ENTITY accAllCookiesRadio.label "Дозволити всі куки">
-<!ENTITY accAllCookiesRadio.accesskey "Д">
+<!ENTITY accAllCookiesRadio.label       "Дозволити всі куки">
+<!ENTITY accAllCookiesRadio.accesskey   "Д">
 
-<!ENTITY accOrgCookiesRadio.label "Дозволити куки лише з сторінки сайта">
-<!ENTITY accOrgCookiesRadio.accesskey "Д">
+<!ENTITY accOrgCookiesRadio.label       "Дозволити куки лише з сторінки сайта">
+<!ENTITY accOrgCookiesRadio.accesskey   "Д">
 
-<!ENTITY disableCookies.label "Заборонити куки">
-<!ENTITY disableCookies.accesskey "З">
+<!ENTITY disableCookies.label           "Заборонити куки">
+<!ENTITY disableCookies.accesskey       "З">
 
-<!ENTITY cookieRetentionPolicy.label "Умови зберігання кук">
+<!ENTITY cookieRetentionPolicy.label    "Умови зберігання кук">
 
-<!ENTITY acceptNormally.label "Звичайний дозвіл">
-<!ENTITY acceptNormally.accesskey "З">
+<!ENTITY acceptNormally.label           "Звичайний дозвіл">
+<!ENTITY acceptNormally.accesskey       "З">
 
-<!ENTITY acceptForSession.label "Дозволити лише протягом сеансу">
-<!ENTITY acceptForSession.accesskey "Д">
+<!ENTITY acceptForSession.label         "Дозволити лише протягом сеансу">
+<!ENTITY acceptForSession.accesskey     "Д">
 
-<!ENTITY acceptforNDays.label "Дозволити протягом">
-<!ENTITY acceptforNDays.accesskey "Д">
-<!ENTITY days.label "днів">
+<!ENTITY acceptforNDays.label           "Дозволити протягом">
+<!ENTITY acceptforNDays.accesskey       "Д">
+<!ENTITY days.label                     "днів">
 
-<!ENTITY warnAboutCookies.label "Запитувати мене про кожну окремо">
-<!ENTITY warnAboutCookies.accesskey "З">
-<!ENTITY forCurrentSession.label "Виключно протягом сеансу">
-<!ENTITY forCurrentSession.accesskey "В">
+<!ENTITY warnAboutCookies.label         "Запитувати мене про кожну окремо">
+<!ENTITY warnAboutCookies.accesskey     "З">
+<!ENTITY forCurrentSession.label        "Виключно протягом сеансу">
+<!ENTITY forCurrentSession.accesskey    "В">
 
-<!ENTITY manageCookies.label "Налаштувати куки і сайти">
+<!ENTITY manageCookies.label            "Налаштувати куки і сайти">
 <!ENTITY manageCookiesDescription.label "Allows you to view and manage stored cookies and per-website settings for accepting and rejecting cookies. Per-website settings will override the settings above.">
 
-<!ENTITY viewCookies.label "Налаштування кук">
-<!ENTITY viewCookies.accesskey "Н">
+<!ENTITY viewCookies.label              "Налаштування кук">
+<!ENTITY viewCookies.accesskey          "Н">
 

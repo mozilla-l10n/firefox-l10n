@@ -36,29 +36,29 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Title -->
-<!ENTITY selectAddressWindow.title "Вибрати адреси">
+<!ENTITY selectAddressWindow.title           "Вибрати адреси">
 
 <!-- Buttons -->
-<!ENTITY toButton.label "До->">
-<!ENTITY toButton.accesskey "T">
-<!ENTITY ccButton.label "Cc->">
-<!ENTITY ccButton.accesskey "C">
-<!ENTITY bccButton.label "Bcc->">
-<!ENTITY bccButton.accesskey "B">
-<!ENTITY newButton.label "Створити…">
-<!ENTITY newButton.accesskey "С">
-<!ENTITY editButton.label "Редагувати…">
-<!ENTITY editButton.accesskey "Р">
-<!ENTITY removeButton.label "Вилучити">
-<!ENTITY removeButton.accesskey "В">
-<!ENTITY lookIn.label "Дивитися в:">
-<!ENTITY lookIn.accesskey "Д">
-<!ENTITY for.label "">
-<!ENTITY for.accesskey "f">
-<!ENTITY for.placeholder "Name or Email">
-<!ENTITY addressMessageTo.label "Адресат листа:">
+<!ENTITY toButton.label                      "До->"> 
+<!ENTITY toButton.accesskey                  "T"> 
+<!ENTITY ccButton.label                      "Cc->"> 
+<!ENTITY ccButton.accesskey                  "C"> 
+<!ENTITY bccButton.label                     "Bcc->">  
+<!ENTITY bccButton.accesskey                 "B">  
+<!ENTITY newButton.label                     "Створити…"> 
+<!ENTITY newButton.accesskey                 "С"> 
+<!ENTITY editButton.label                    "Редагувати…"> 
+<!ENTITY editButton.accesskey                "Р">
+<!ENTITY removeButton.label                  "Вилучити"> 
+<!ENTITY removeButton.accesskey              "В"> 
+<!ENTITY lookIn.label                        "Дивитися в:"> 
+<!ENTITY lookIn.accesskey                    "Д"> 
+<!ENTITY for.label                           ""> 
+<!ENTITY for.accesskey                       "f"> 
+<!ENTITY for.placeholder                     "Name or Email">
+<!ENTITY addressMessageTo.label              "Адресат листа:"> 
 
 <!-- Tooltips items -->  
-<!ENTITY addressPickerNewButton.tooltip "Створити нову картку адресної книги">
-<!ENTITY addressPickerEditButton.tooltip "Редагувати вибрану картку">
+<!ENTITY addressPickerNewButton.tooltip      "Створити нову картку адресної книги"> 
+<!ENTITY addressPickerEditButton.tooltip     "Редагувати вибрану картку"> 
 
