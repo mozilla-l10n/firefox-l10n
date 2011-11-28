@@ -27,8 +27,7 @@
 <!ENTITY printCmd.label "ମୁଦ୍ରଣ କରନ୍ତୁ…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "ଆମଦାନୀ କରନ୍ତୁ…">
-<!ENTITY import.accesskey "I">
+
 
 <!ENTITY goOfflineCmd.label "ଅଫଲାଇନରେ କାମ କରନ୍ତୁ">
 <!ENTITY goOfflineCmd.accesskey "w">
@@ -475,15 +474,6 @@ just addresses the organization to follow, e.g. "ଏହି ସାଇଟଟି �
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "ଯାଞ୍ଚ କରନ୍ତୁ">
 <!ENTITY inspectButton.accesskey      "I">
-<!ENTITY inspectNextButton.label      "ପରବର୍ତ୍ତି">
-<!ENTITY inspectNextButton.accesskey  "N">
-<!ENTITY inspectPreviousButton.label  "ପୂର୍ବବର୍ତ୍ତୀ">
-<!ENTITY inspectPreviousButton.accesskey "P">
-<!ENTITY inspectStyleButton.label     "ଶୈଳୀ">
-<!ENTITY inspectStyleButton.accesskey "S">
-<!ENTITY inspectStylePanelTitle.label  "ଶୈଳୀ">
-<!ENTITY inspectObjectButton.label       "ବସ୍ତୁ">
-<!ENTITY inspectObjectButton.accesskey   "O">
 <!ENTITY  listAllTabs.label      "ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼ିକୁ ତାଲିକାଭୁକ୍ତ କରନ୍ତୁ">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY menubarCmd.label "ତାଲିକା ପଟି">
@@ -552,3 +542,9 @@ just addresses the organization to follow, e.g. "ଏହି ସାଇଟଟି �
 <!ENTITY unsortedBookmarksCmd.label "ଅସଜଡ଼ା ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକ">
 <!ENTITY webDeveloperMenu.label       "ୱେବ ବିକାଶକ">
 <!ENTITY webDeveloperMenu.accesskey   "W">
+
+<!ENTITY backForwardButtonMenu.tooltip "ପୁରୁଣା ତଥ୍ୟକୁ ଦର୍ଶାଇବା ପାଇଁ ଡ଼ାହାଣ ପାଖ କ୍ଲିକ କରନ୍ତୁ ଅଥବା ତଳକୁ ଟାଣନ୍ତୁ">
+<!ENTITY backForwardButtonMenuMac.tooltip "ପୁରୁଣା ତଥ୍ୟକୁ ଦର୍ଶାଇବା ପାଇଁ ତଳକୁ ଟାଣନ୍ତୁ">
+<!ENTITY inspectContextMenu.label     "ଉପାଦାନକୁ ନିରୀକ୍ଷଣ କରନ୍ତୁ">
+<!ENTITY inspectContextMenu.accesskey "Q">
+<!ENTITY searchFocus.commandkey2      "e">

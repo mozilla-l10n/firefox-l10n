@@ -107,4 +107,5 @@
 <!ENTITY submitCrashes.label             "ନଷ୍ଟ ବିବରଣୀଗୁଡ଼ିକୁ ଦାଖଲ କରନ୍ତୁ">
 <!ENTITY submitCrashes.accesskey         "S">
 
-
+<!ENTITY submitTelemetry.label           "କାର୍ଯ୍ୟଦକ୍ଷତା ତଥ୍ୟକୁ ଦାଖଲ କରନ୍ତୁ">
+<!ENTITY submitTelemetry.accesskey       "P">

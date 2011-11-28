@@ -48,9 +48,6 @@
 <!ENTITY  clearOnCloseSettings.label     "ବିନ୍ୟାସ…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
-<!ENTITY  privateBrowsingPermanent.label "ସ୍ଥାୟୀ ବ୍ୟକ୍ତିଗତ ବ୍ରାଉଜିଙ୍ଗ ଧାରା">
-<!ENTITY  privateBrowsingPermanent.accesskey "P">
-
 
 <!ENTITY  locationBar.label             "ଅବସ୍ଥାନ ପଟି">
 
@@ -81,6 +78,8 @@
 <!ENTITY  locbar.history.label          "ପୁରୁଣା ତଥ୍ୟ">
 <!ENTITY  locbar.bookmarks.label        "ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକ">
 <!ENTITY  locbar.nothing.label          "କିଛି ନୁହଁ">
+<!ENTITY  privateBrowsingPermanent2.label "ସର୍ବଦା ବ୍ଯକ୍ତିଗତ ବ୍ରାଉଜିଙ୍ଗ ପଦ୍ଧତିକୁ ବ୍ୟବହାର କରନ୍ତୁ">
+<!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
 
 

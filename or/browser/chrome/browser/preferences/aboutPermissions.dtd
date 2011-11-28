@@ -22,9 +22,8 @@
 <!ENTITY password.manage                 "ପ୍ରବେଶ ସଂକେତଗୁଡ଼ିକୁ ପରିଚାଳନା କରନ୍ତୁ…">
 
 <!ENTITY cookie.label                    "କୁକିଗୁଡ଼ିକୁ ସେଟ କରନ୍ତୁ">
-<!ENTITY cookie.clear                    "କୁକିଗୁଡ଼ିକୁ ସଫା କରନ୍ତୁ">
+
 <!ENTITY cookie.manage                   "କୁକିଗୁଡ଼ିକୁ ପରିଚାଳନା କରନ୍ତୁ…">
-<!ENTITY cookie.clearAll                 "ସମସ୍ତ କୁକିଗୁଡ଼ିକୁ ସଫା କରନ୍ତୁ">
 
 <!ENTITY geo.label                       "ସ୍ଥାନକୁ ସହଭାଗ କରନ୍ତୁ">
 
@@ -33,3 +32,7 @@
 <!ENTITY indexedDB.label                 "ଅଫଲାଇନ ସଂରକ୍ଷଣକୁ ନିର୍ବାହ କରନ୍ତୁ">
 
 <!ENTITY popup.label                     "ପପଅପ ୱିଣ୍ଡୋଗୁଡ଼ିକୁ ଖୋଲନ୍ତୁ">
+
+
+<!ENTITY cookie.remove                   "କୁକିଗୁଡ଼ିକୁ ବାହାର କରନ୍ତୁ">
+<!ENTITY cookie.removeAll                "ସମସ୍ତ କୁକିଗୁଡ଼ିକୁ ବାହାର କରନ୍ତୁ">
