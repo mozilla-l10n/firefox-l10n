@@ -25,7 +25,6 @@
 <!ENTITY netInterrupt.longDesc "<p>ବ୍ରାଉଜର ସଫଳତାର ସହିତ  ସଂଯୁକ୍ତ ହୋଇଛି, କିନ୍ତୁ ସୂଚନା ସ୍ଥାନାନ୍ତରଣ କରିବ ସମୟରେ ସଂଯୋଗ ବ୍ୟାଘାତ ପ୍ରାପ୍ତ ହୋଇଛି। ଦୟାକରି ପୁଣିଥରେ ଚେଷ୍ଟାକରନ୍ତୁ।</p><ul><li>ଆପଣ ଅନ୍ୟ ସାଇଟଗୁଡ଼ିକୁ ବ୍ରାଉଜ କରିବାରେ ଅକ୍ଷମ କି? କମ୍ପୁଟରର ନେଟୱର୍କ ସଂଯୋଗକୁ ଯାଞ୍ଚ କରନ୍ତୁ।</li><li>ଏପର୍ଯ୍ୟନ୍ତ ସମସ୍ୟା ଅଛି କି? ସହାୟତା ପାଇଁ ଆପଣଙ୍କର ନେଟୱର୍କ ପ୍ରଶାସକଙ୍କ କିମ୍ବା ଇଣ୍ଟରନେଟ ପ୍ରଦାନକାରୀ ସହିତ ଯୋଗାଯୋଗ କରନ୍ତୁ।</li></ul>">
 
 <!ENTITY netOffline.title "ଅଫଲାଇନ ଅବସ୍ଥା">
-<!ENTITY netOffline.longDesc "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Place the browser in online mode and try again.</li></ul>">
 
 <!ENTITY contentEncodingError.title "ବିଷୟବସ୍ତୁ ସାଙ୍କେତିକରଣ ତ୍ରୁଟି">
 <!ENTITY contentEncodingError.longDesc "<p>ଆପଣ ଦେଖିବାକୁ ଚେଷ୍ଟାକରୁଥିବା ପୃଷ୍ଠାକୁ ଦର୍ଶାଯାଇପାରିବ ନାହିଁ କାରଣ ଏହା ଗୋଟିଏ ଅବୈଧ କିମ୍ବା ଅସମର୍ଥିତ ସଙ୍କୋଚନକୁ ବ୍ୟବହାର କରିଥାଏ।</p><ul><li>ଏହି ସମସ୍ୟା ବିଷୟରେ ସୂଚନା ଦେବା ପାଇଁ  ଦୟାକରି ୱେବସାଇଟ ମାଲିକଙ୍କ ସହିତ ଯୋଗାଯୋଗ କରନ୍ତୁ।</li></ul>">
@@ -59,7 +58,7 @@
 <!ENTITY unknownSocketType.longDesc "<p>The site responded to the network request in an unexpected way and the browser cannot continue.</p>">
 
 <!ENTITY nssFailure2.title "ସୁରକ୍ଷିତ ସଂଯୋଗ ବିଫଳ ହେଲା">
-<!ENTITY nssFailure2.longDesc "<p>The page you are trying to view can not be shown because the authenticity of the received data could not be verified.</p><ul><li>Please contact the web site owners to inform them of this problem.</li></ul>">
+<!ENTITY nssFailure2.longDesc "<p>ଆପଣ ଦେଖିବାକୁ ଚାହୁଁଥିବା ପୃଷ୍ଠାକୁ ଦର୍ଶାଯାଇ ପାରିବ ନାହିଁ କାରଣ ଗ୍ରହଣ କରାଯାଇଥିବା ତଥ୍ୟର ବୈଧିକରଣକୁ ଯାଞ୍ଚ କରାଯାଇନାହିଁ।</p><ul><li>ଏହି ସମସ୍ୟା ବିଷୟରେ ଅଗଚର କରାଇବା ପାଇଁ ଦୟାକରି ୱେବସାଇଟ ମାଲିକଙ୍କ ସହିତ ସମ୍ପର୍କ କରନ୍ତୁ।</li></ul>">
 
 <!ENTITY nssBadCert.title "ସୁରକ୍ଷିତ ସଂଯୋଗ ବିଫଳ ହେଲା">
 <!ENTITY nssBadCert.longDesc2 "<ul>
@@ -88,8 +87,16 @@
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>ବ୍ରାଉଜର ଏହି ପୃଷ୍ଠାକୁ ଏହି ଉପାୟରେ ଧାରଣ କରିବାରୁ ବାରଣ ହୋଇଛି କାରଣ ସେହି ପୃଷ୍ଠାରେ ଏମିତି କିଛି ବିଷୟବସ୍ତୁ ଅଛି ଯାହାକି ଧାରଣ କରିବା ପାଇଁ ଅନୁମତି ଦେଇନଥାଏ।</p>">
 
 <!ENTITY cspFrameAncestorBlocked.title "ବିଷୟବସ୍ତୁ ସୁରକ୍ଷା ନିତୀ ଦ୍ୱାରା ଅଟକ ରଖାଯାଇଛି">
-<!ENTITY netOffline.overrideLongDesc "<p>ବ୍ରାଉଜର ଅଫଲାଇନ ଧାରାରେ ଚାଲିଛି ଏବଂ ଅନୁରୋଧ ଅନୁସାରେ ସଂଯୋଗ କରିପାରିବ ନାହିଁ।</p><ul><li>କମ୍ପୁଟରଟି କୌଣସି ସକ୍ରିୟ ନେଟୱର୍କ ସହିତ ସଂଯୁକ୍ତ ଅଛି କି?</li><li>ବ୍ରାଉଜରକୁ ଅନଲାଇନ ଧାରାରେ ରଖନ୍ତୁ ଏବଂ ପୁଣିଥରେ ଚେଷ୍ଟାକରନ୍ତୁ।</li></ul>">
+
 <!ENTITY remoteXUL.longDesc "<p><ul><li>ଏହି ସମସ୍ୟା ବିଷୟରେ ଅବଗତ କରାଇବା ପାଇଁ ଦୟାକରି ୱେବସାଇଟ ମାଲିକଙ୍କ ସହିତ ଯୋଗାଯୋଗ କରନ୍ତୁ।</li></ul></p>">
 <!ENTITY remoteXUL.title "ସୁଦୂର XUL">
+
+<!ENTITY corruptedContentError.longDesc "<p>ଆପଣ ଦେଖିବାକୁ ଚାହୁଁଥିବା ପୃଷ୍ଠାକୁ ଦର୍ଶାଯାଇ ପାରିବ ନାହିଁ କାରଣ ତଥ୍ୟ ପରିବହନରେ ଗୋଟିଏ ତ୍ରୁଟି ଦେଖା ଦେଇଛି।</p><ul><li>ଏହି ସମସ୍ୟା ବିଷୟରେ ଅଗଚର କରାଇବା ପାଇଁ ଦୟାକରି ୱେବସାଇଟ ମାଲିକଙ୍କ ସହିତ ସମ୍ପର୍କ କରନ୍ତୁ।</li></ul>">
+
+<!ENTITY corruptedContentError.title "ତ୍ରୁଟିଯୁକ୍ତ ବିଷୟବସ୍ତୁ ତ୍ରୁଟି">
+
+<!ENTITY netOffline.longDesc2 "<p>ବ୍ରାଉଜର ଅଫଲାଇନ ଧାରାରେ ଚାଲୁଅଛି ଏବଂ ଅନୁରୋଧ  କରିଥିବା ବସ୍ତୁ ସହିତ ସଂଯୋଗ କରିପାରିବେ ନାହିଁ।</p><ul><li>କମ୍ପୁଟରଟି ସକ୍ରିୟ ନେଟୱର୍କ ସହିତ ସଂଯୁକ୍ତ ହୋଇଛି କି ନାହିଁ?</li><li>&quot; କୁ ଦବାନ୍ତୁ ଏବଂ ଅନଲାଇନ ଧାରାକୁ ପରିବର୍ତ୍ତନ କରିବା ପାଇଁ ଏବଂ ପୃଷ୍ଠାକୁ ପୁନର୍ଧାରଣ କରିବା ପାଇଁ &quot; କୁ ପୁଣିଥରେ ଚେଷ୍ଟାକରନ୍ତୁ।</li></ul>">
+
+
 
 
