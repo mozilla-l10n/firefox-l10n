@@ -9,7 +9,7 @@ agad mu &brandShortName;, cuir sùil air an <a id='supportLink'>làrach-taice</a
 <!ENTITY aboutSupport.extensionName "Ainm">
 <!ENTITY aboutSupport.extensionEnabled "Air a chur an comas">
 <!ENTITY aboutSupport.extensionVersion "Tionndadh">
-<!ENTITY aboutSupport.extensionId "DA">
+<!ENTITY aboutSupport.extensionId "ID">
 
 <!ENTITY aboutSupport.appBasicsTitle "Bun-tùs a' phrògraim">
 <!ENTITY aboutSupport.appBasicsName "Ainm">

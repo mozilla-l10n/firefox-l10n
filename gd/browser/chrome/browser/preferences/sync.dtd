@@ -17,7 +17,7 @@
 <!ENTITY myRecoveryKey.label          "M' iuchair aisig">
 <!ENTITY resetSync2.label             "Ath-shuidhich an co-shioncronachadh…">
 
-<!ENTITY addDevice.label              "Cuir inneal ris">
+<!ENTITY pairDevice.label             "Paidhrich inneal">
 
 <!ENTITY syncMy.label               "Co-shioncronaich">
 <!ENTITY engine.bookmarks.label     "na comharran-lìn agam">
