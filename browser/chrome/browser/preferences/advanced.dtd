@@ -59,22 +59,28 @@
 
 <!ENTITY updateTab.label                 "Ùraich">
 
-<!ENTITY autoCheck.label                 "Lorgar ùrachaidhean airson na leanas leis fhèin:">
-<!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "f">
-<!ENTITY enableAddonsUpdate2.label       "Tuilleadain">
-<!ENTITY enableAddonsUpdate2.accesskey   "n">
-<!ENTITY enableSearchUpdate.label        "Einnseanan-luirg">
-<!ENTITY enableSearchUpdate.accesskey    "E">
-<!ENTITY whenUpdatesFound.label          "Nuair a thèid ùrachadh a lorg airson &brandShortName;:">
-<!ENTITY askMe.label                     "Faighnich dhìom na tha mi airson dèanamh">
-<!ENTITY askMe.accesskey                 "F">
-<!ENTITY modeAutomatic.label             "Luchdaichear a-nuas is stàlaichear an t-ùrachadh leis fhèin">
-<!ENTITY modeAutomatic.accesskey         "d">
-<!ENTITY modeAutoAddonWarn.label         "Thoir rabhadh dhomh ma bhios gin dhe na tuilleadan agam à comas 'na chois">
-<!ENTITY modeAutoAddonWarn.accesskey     "T">
+<!ENTITY updateApp.label                 "Ùrachaidhean &brandShortName;:">
+<!ENTITY updateAuto.label                "Stàlaich na h-ùrachaidhean gu fèin-obrachail (mholamaid seo airson tèarainteachd na b' fhearr)">
+<!ENTITY updateAuto.accesskey            "S">
+<!ENTITY updateCheck.label               "Thoir sùil ach a bheil ùrachadh ann ach cuiridh mi fhìn romham a bheil mi airson an stàladh">
+<!ENTITY updateCheck.accesskey           "b">
+<!ENTITY updateManual.label              "Na thoir sùil airson ùrachaidhean idir (cha mholamaid seo oir adhbharaichidh seo cunnartan tèarainteachd)">
+<!ENTITY updateManual.accesskey          "N">
+
+<!ENTITY updateAutoAddonWarn.label       "Thoir rabhadh dhomh ma bhios gin dhe na tuilleadan agam à comas 'na chois">
+<!ENTITY updateAutoAddonWarn.accesskey   "T">
+
 <!ENTITY updateHistory.label             "Seall eachdraidh nan ùrachaidhean">
 <!ENTITY updateHistory.accesskey         "S">
+
+<!ENTITY useService.label                "Cleachd seirbheis a stàlaicheas na h-ùrachaidhean sa chùlaibh">
+<!ENTITY useService.accesskey            "C">
+
+<!ENTITY updateOthers.label              "Ùraich gu fèin-obrachail:">
+<!ENTITY enableAddonsUpdate3.label       "Tuilleadain">
+<!ENTITY enableAddonsUpdate3.accesskey   "n">
+<!ENTITY enableSearchUpdate.label        "Einnseanan-luirg">
+<!ENTITY enableSearchUpdate.accesskey    "E">
 
 <!ENTITY offlineNotify.label             "Innis dhomh ma bhios làrach-lìn ag iarraidh dàta a stòradh a chum cleachdaidh far loidhne">
 <!ENTITY offlineNotify.accesskey         "t">

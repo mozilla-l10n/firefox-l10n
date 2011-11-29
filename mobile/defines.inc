@@ -1,5 +1,4 @@
 #filter emptyLines
-
 #define MOZ_LANGPACK_CREATOR Sgioba Ionadaileadh Mozilla na Gàidhlig
 
 # If non-English locales wish to credit multiple contributors, uncomment this

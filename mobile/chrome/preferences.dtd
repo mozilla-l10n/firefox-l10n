@@ -21,3 +21,4 @@
 <!ENTITY homepage.default                          "Toisich &brandShortName;">
 <!ENTITY homepage.currentpage                      "Cleachd an duilleag làithreach">
 <!ENTITY showCharsetEncoding.title                 "Seall còdachadh charactairean">
+<!ENTITY actionbar.default                         "Roghainnean &brandShortName;">

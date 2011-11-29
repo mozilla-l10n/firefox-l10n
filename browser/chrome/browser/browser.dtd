@@ -90,6 +90,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "h">
 <!ENTITY fullScreenExit.label "Fàg modh na làn-sgrìn">
 <!ENTITY fullScreenExit.accesskey "l">
+<!ENTITY domFullScreenWarning.label "Put ESC gus modh na làn-sgrìn fhàgail">
 
 <!ENTITY closeWindow.label "Dùin an uinneag">
 <!ENTITY closeWindow.accesskey "D">
@@ -212,9 +213,12 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectPanelTitle.label      "HTML">
-<!ENTITY inspectButton.label          "Sgrùdaich">
-<!ENTITY inspectButton.accesskey      "i">
+<!ENTITY inspectPanelTitle.label        "HTML">
+<!ENTITY inspectButton.label            "Sgrùdaich">
+<!ENTITY inspectButton.accesskey        "i">
+<!ENTITY inspectCloseButton.tooltiptext "Dùin an sgrùdaiche">
+<!ENTITY inspectStyleButton.label     "Stoidhle">
+<!ENTITY inspectStyleButton.accesskey "S">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Faigh barrachd innealan">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "F">
@@ -432,12 +436,17 @@ can reach it easily. -->
 <!ENTITY mediaHideControls.accesskey "C">
 <!ENTITY videoFullScreen.label       "Làn-sgrìn">
 <!ENTITY videoFullScreen.accesskey   "L">
+<!ENTITY videoSaveImage.label        "Sàbhail an snapshot mar...">
+<!ENTITY videoSaveImage.accesskey    "S">
+<!ENTITY videoShowStats.label        "Seall an stadastaireachd">
+<!ENTITY videoShowStats.accesskey    "a">
+<!ENTITY videoHideStats.label        "Falaich an stadastaireachd">
+<!ENTITY videoHideStats.accesskey    "F">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
-
 
 
 <!ENTITY fullZoomEnlargeCmd.label       "Sùm a-steach">

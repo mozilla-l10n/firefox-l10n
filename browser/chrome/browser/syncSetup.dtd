@@ -4,8 +4,7 @@
 
 <!ENTITY setup.pickSetupType.description "Fàilte ort! Mur eil thu air &syncBrand.fullName.label; a chleachdadh roimhe, bidh agad ri cunntas ùr a chruthachadh.">
 <!ENTITY button.createNewAccount.label "Cruthaich cunntas ùr">
-<!ENTITY setup.haveAccount.label "Tha cunntas &syncBrand.fullName.label; agam mu thràth.">
-<!ENTITY button.connect.label    "Ceangail">
+<!ENTITY button.haveAccount.label      "Tha cunntas agam">
 
 <!ENTITY setup.choicePage.title.label     "An do chleachd thu &syncBrand.fullName.label; roimhe?">
 <!ENTITY setup.choicePage.new.label       "Cha do chleachd mi &syncBrand.shortName.label; a-riamh roimhe">
@@ -39,7 +38,7 @@
 <!ENTITY setup.ppLink.label         "ris a' Phoileasaidh Phrìobhaideachd">
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "a">
-<!-- New Account Page 2: Sync Key -->
+<!-- My Recovery Key dialog -->
 
 <!ENTITY setup.newRecoveryKeyPage.title.label "Tha &brandShortName; am bun do phrìobhaideachd">
 <!ENTITY setup.newRecoveryKeyPage.description.label "Gus do phrìobhaideachd iomlan a dhèanamh cinnteach, thèid an dàta gu lèir agad a dhubh-cheileadh mus dèid a luchdadh suas. Cha dèid an iuchair aisig airson dì-cheileadh an dàta agad a luchdadh suas.">
@@ -52,16 +51,14 @@
 <!ENTITY button.syncKeyBackup.print.accesskey "C">
 <!ENTITY button.syncKeyBackup.save.label      "Sàbhail…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
-<!-- New Account Page 3: Captcha -->
+<!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
 
-<!ENTITY setup.captchaPage2.title.label     "Dearbhaich nach e robotair a tha annad">
-<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "Cuir inneal ris">
+<!ENTITY pairDevice.title.label             "Paidhrich inneal">
 <!ENTITY addDevice.showMeHow.label          "Seall dhomh mar a nì mi seo.">
 <!ENTITY addDevice.dontHaveDevice.label     "Chan eil an t-inneal agam an-seo">
-<!ENTITY addDevice.setup.description.label  "Gus a chur thuige, rach gu roghainnean &syncBrand.shortName.label; air an inneal eile agad is tagh &#x0022;Cuir inneal ris&#x0022;.">
+<!ENTITY pairDevice.setup.description.label  "Gus a chur an gnìomh, tagh &#x0022;Paidhrich inneal&#x0022; air an dàrna inneal agad.">
 <!ENTITY addDevice.setup.enterCode.label    "Agus cuir a-steach an còd seo an uairsin:">
-<!ENTITY addDevice.dialog.description.label "Gus an t-inneal ùr agad a chur thuige, rach gu roghainnean &syncBrand.shortName.label; air an inneal is tagh &#x0022;Dèan ceangal.&#x0022;">
+<!ENTITY pairDevice.dialog.description.label "Gus an t-inneal ùr agad a chur an gnìomh, tagh &#x0022;Suidhich an sioncronachadh&#x0022; air an inneal ud.">
 <!ENTITY addDevice.dialog.enterCode.label   "Cuir a-steach an còd a thug an t-inneal dhut:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Saoil am feuch thu ris a-rithist?">
 <!ENTITY addDevice.dialog.successful.label  "Chaidh an t-inneal a chur ris gu soirbheachail. Feumaidh a' chiad sioncronachadh grunn mhionaidean 's thig e gu crìoch sa chùlaibh.">
