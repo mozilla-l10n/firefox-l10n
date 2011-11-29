@@ -3,6 +3,23 @@
 <!ENTITY muteButton.muteLabel "Nemo">
 <!ENTITY muteButton.unmuteLabel "Glasno">
 
+
+<!ENTITY stats.media "Medij">
+<!ENTITY stats.size "Velikost">
+<!ENTITY stats.activity "Activnost">
+<!ENTITY stats.activityPaused "Ustavljeno">
+<!ENTITY stats.activityPlaying "Igra">
+<!ENTITY stats.activityEnded "Končano">
+<!ENTITY stats.activitySeeking "(iskanje)">
+<!ENTITY stats.volume "Glasnost">
+<!ENTITY stats.channels "Kanali">
+<!ENTITY stats.sampleRate "Hitrost vzorčenja">
+<!ENTITY stats.framesParsed "Razčlenjenih okvirjev">
+<!ENTITY stats.framesDecoded "Dekodiranih okvirjev">
+<!ENTITY stats.framesPresented "Predstavljenih okvirjev">
+<!ENTITY stats.framesPainted "Naslikanih okvirjev">
+
+
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
