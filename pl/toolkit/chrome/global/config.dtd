@@ -44,9 +44,9 @@
 <!ENTITY aboutWarningButton.label   "Zachowam ostrożność, obiecuję!">
 <!ENTITY aboutWarningCheckbox.label "Wyświetl to ostrzeżenie następnym razem">
 
-<!ENTITY filterPrefs.label "Filtr:" >
-<!ENTITY filterPrefs.accesskey "F" >
-<!ENTITY focusFilter.key "f">
+<!ENTITY searchPrefs.label "Szukaj:" >
+<!ENTITY searchPrefs.accesskey "S" >
+<!ENTITY focusSearch.key "r">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "Nazwa" >
