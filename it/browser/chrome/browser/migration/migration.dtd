@@ -12,6 +12,8 @@
 <!ENTITY importFromOpera.accesskey "O">
 <!ENTITY importFromSafari.label "Safari">
 <!ENTITY importFromSafari.accesskey "S">
+<!ENTITY importFromChrome.label "Chrome">
+<!ENTITY importFromChrome.accesskey "C">
 <!ENTITY importFromHTMLFile.label "Da un file HTML">
 <!ENTITY importFromHTMLFile.accesskey "D">
 <!ENTITY noMigrationSources.label "Non è stato trovato alcun programma contenente segnalibri, cronologie o password.">
