@@ -18,8 +18,8 @@
 <!ENTITY signIn.account2.accesskey   "A">
 <!ENTITY signIn.password.label      "암호">
 <!ENTITY signIn.password.accesskey  "P">
-<!ENTITY signIn.syncKey.label       "동기화키">
-<!ENTITY signIn.syncKey.accesskey   "K">
+<!ENTITY signIn.recoveryKey.label       "복구키">
+<!ENTITY signIn.recoveryKey.accesskey   "K">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "계정 상세 정보">
@@ -41,17 +41,17 @@
 <!ENTITY setup.tosAgree2.accesskey  "">
 
 <!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; 개인 정보 보호">
-<!ENTITY setup.newSyncKeyPage.description.label "개인 정보를 완벽히 보호하기 위해 데이터 전송 전 암호화 됩니다. 암호된 자료를 풀기 위한 동기화키는 전송되지 않습니다.">
-<!ENTITY syncKeyEntry.label        "동기화키">
-<!ENTITY syncKeyEntry.accesskey    "K">
-<!ENTITY syncGenerateNewKey.label     "새 동기화키 생성">
-<!ENTITY syncKeyBackup.description "동기화키는 다른 기기에서 &syncBrand.fullName.label; 접속 시 필요합니다. 백업본을 만드시기 바랍니다. 동기화키는 복구할 수 없습니다.">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; 개인 정보 보호">
+<!ENTITY setup.newRecoveryKeyPage.description.label "개인 정보를 완벽히 보호하기 위해 데이터 전송 전 암호화 됩니다. 암호된 자료를 풀기 위한 복구키는 전송되지 않습니다.">
+<!ENTITY recoveryKeyEntry.label        "복구키">
+<!ENTITY recoveryKeyEntry.accesskey    "K">
+<!ENTITY syncGenerateNewKey.label     "새 복구키 생성">
+<!ENTITY recoveryKeyBackup.description "복구키는 다른 기기에서 &syncBrand.fullName.label; 접속 시 필요합니다. 백업본을 만드시기 바랍니다. 복구키는 복구할 수 없습니다.">
 
-<!ENTITY button.syncKeyBackup.print.label     "인쇄…">
-<!ENTITY button.syncKeyBackup.print.accesskey "P">
-<!ENTITY button.syncKeyBackup.save.label      "저장…">
-<!ENTITY button.syncKeyBackup.save.accesskey  "S">
+<!ENTITY button.recoveryKeyBackup.print.label     "인쇄…">
+<!ENTITY button.recoveryKeyBackup.print.accesskey "P">
+<!ENTITY button.recoveryKeyBackup.save.label      "저장…">
+<!ENTITY button.recoveryKeyBackup.save.accesskey  "S">
 
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "그림 속 글자 입력">
@@ -65,7 +65,7 @@
 <!ENTITY addDevice.dialog.enterCode.label   "기기가 제공하는 코드를 입력하세요:">
 <!ENTITY addDevice.dialog.tryAgain.label    "다시 시도해 주십시오.">
 <!ENTITY addDevice.dialog.successful.label  "새로운 기기를 추가하였습니다. 초기 동기화 시 수 분 정도 소요되지만 배경 작업으로 진행될 것입니다.">
-<!ENTITY addDevice.dialog.syncKey.label     "여러분의 기기를 활성화 시키려면 동기화키를 입력해야 합니다. 아래 키를 저장하거나 어디에 기록해 두시기 바랍니다.">
+<!ENTITY addDevice.dialog.recoveryKey.label     "여러분의 기기를 활성화 시키려면 복구키를 입력해야 합니다. 아래 키를 저장하거나 어디에 기록해 두시기 바랍니다.">
 <!ENTITY addDevice.dialog.connected.label   "새 기기 연결함">
 
 <!-- New Account Page 3: Sync Type Options -->
@@ -74,8 +74,8 @@
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "로그인">
-<!ENTITY existingSyncKey.description "다른 기기에서 &syncBrand.shortName.label; 설정에서 &#x0022;계정 관리&#x0022; 내 &#x0022;나의 동기화키&#x0022;에서 동기화키를 찾을 수 있습니다.">
-<!ENTITY resetSyncKey.label           "동기화키 재설정">
+<!ENTITY existingRecoveryKey.description "다른 기기에서 &syncBrand.shortName.label; 설정에서 &#x0022;계정 관리&#x0022; 내 &#x0022;나의 복구키&#x0022;에서 복구키를 찾을 수 있습니다.">
+<!ENTITY resetRecoveryKey.label           "복구키 재설정">
 <!ENTITY resetPassword.label          "암호 재설정">
 <!ENTITY verifying.label              "확인 중…">
 
