@@ -1,4 +1,4 @@
-<!ENTITY  engineManager.title       "Menedżer listy wyszukiwarek">
+<!ENTITY  engineManager.title       "Zarządzanie listą wyszukiwarek">
 <!ENTITY  engineManager.style       "min-width: 36em;">
 <!ENTITY  engineManager.intro       "Zainstalowane są następujące wyszukiwarki:">
 
