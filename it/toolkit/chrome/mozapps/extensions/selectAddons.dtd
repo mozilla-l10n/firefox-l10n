@@ -18,8 +18,8 @@
 <!ENTITY action.enable.heading "Verranno attivati i seguenti componenti aggiuntivi:">
 <!ENTITY update.heading "Aggiornamento dei componenti aggiuntivi">
 <!ENTITY update.progress.label "Download e installazione in corso degli aggiornamenti per i componenti aggiuntivi selezionati.">
-<!ENTITY errors.heading "Impossibile completare l'aggiornamento di alcuni componenti aggiuntivi.&#037;1$0.S">
-<!ENTITY errors.description "Non è stato possibile completare l'aggiornamento di alcuni componenti aggiuntivi. L'aggiornamento verrà ritentato automaticamente in seguito.&#037;1$0.S">
+<!ENTITY errors.heading "Impossibile completare l'aggiornamento di alcuni componenti aggiuntivi.">
+<!ENTITY errors.description "Non è stato possibile completare l'aggiornamento di alcuni componenti aggiuntivi. L'aggiornamento verrà ritentato automaticamente in seguito.">
 <!ENTITY footer.label "In qualunque momento è possibile modificare i componenti aggiuntivi installati utilizzando il Gestore componenti aggiuntivi.">
 <!ENTITY cancel.label "Annulla">
 <!ENTITY back.label "Indietro">
