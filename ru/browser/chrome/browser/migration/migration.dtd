@@ -12,6 +12,8 @@
 <!ENTITY importFromOpera.accesskey "O">
 <!ENTITY importFromSafari.label "Safari">
 <!ENTITY importFromSafari.accesskey "S">
+<!ENTITY importFromChrome.label "Chrome">
+<!ENTITY importFromChrome.accesskey "C">
 <!ENTITY importFromHTMLFile.label "HTML-файла">
 <!ENTITY importFromHTMLFile.accesskey "ф">
 <!ENTITY noMigrationSources.label "Ни одной программы, содержащей закладки, журнал или пароли, не найдено.">
