@@ -1,5 +1,5 @@
 <!ENTITY dialog.title             "ସାଧନ ପଟିକୁ ଇଚ୍ଛାରୂପଣ କରନ୍ତୁ">
-<!ENTITY dialog.style             "ଓସାର: 635px; ଉଚ୍ଚତା: 400px;">
+<!ENTITY dialog.style             "width: 635px; height: 400px;">
 <!ENTITY instructions.description "ଆପଣ ବସ୍ତୁଗୁଡ଼ିକୁ ସାଧନପଟିରୁ ଟାଣିକରି  ଯୋଗ କରିପାରିବେ କିମ୍ବା କାଢ଼ି ପାରିବେ।">
 <!ENTITY show.label               "ଦର୍ଶାନ୍ତୁ:">
 <!ENTITY iconsAndText.label       "ଚିତ୍ର ସଂକେତ ଏବଂ ପାଠ୍ୟ">
