@@ -92,7 +92,7 @@
 <!ENTITY  event.menu.item.new.event.label                 "Tapahtuma">
 <!ENTITY  event.menu.item.new.event.accesskey             "T">
 <!ENTITY  event.menu.item.new.task.label                  "Tehtävä">
-<!ENTITY  event.menu.item.new.task.accesskey              "T">
+<!ENTITY  event.menu.item.new.task.accesskey              "e">
 <!ENTITY  event.menu.item.new.message.label               "Viesti">
 <!ENTITY  event.menu.item.new.message.accesskey           "V">
 <!ENTITY  event.menu.item.new.contact.label               "Osoitekirjan yhteyshenkilö">
@@ -141,7 +141,7 @@
 <!ENTITY  event.menu.options.attachments.label                "Lisää verkkosivu liitteeksi…">
 <!ENTITY  event.menu.options.attachments.accesskey            "L">
 <!ENTITY  event.menu.options.attendees.label                  "Kutsu osallistujia…">
-<!ENTITY  event.menu.options.attendees.accesskey              "i">
+<!ENTITY  event.menu.options.attendees.accesskey              "K">
 <!ENTITY  event.menu.options.spellcheck.label                 "Oikolue…">
 <!ENTITY  event.menu.options.spellcheck.accesskey             "O">
 <!ENTITY  event.menu.options.inline.spellcheck.label          "Oikolue kirjoitettaessa">
@@ -151,7 +151,7 @@
 <!ENTITY  event.menu.options.timezone.label                   "Aikavyöhyke">
 <!ENTITY  event.menu.options.timezone.accesskey               "A">
 <!ENTITY  event.menu.options.priority2.label                  "Tärkeysaste">
-<!ENTITY  event.menu.options.priority2.accesskey              "y">
+<!ENTITY  event.menu.options.priority2.accesskey              "T">
 <!ENTITY  event.menu.options.priority.notspecified.label      "Ei määritetty">
 <!ENTITY  event.menu.options.priority.notspecified.accesskey  "E">
 <!ENTITY  event.menu.options.priority.low.label               "Matala">
@@ -161,9 +161,9 @@
 <!ENTITY  event.menu.options.priority.high.label              "Korkea">
 <!ENTITY  event.menu.options.priority.high.accesskey          "K">
 <!ENTITY  event.menu.options.privacy.label                    "Tietosuoja">
-<!ENTITY  event.menu.options.privacy.accesskey                "T">
+<!ENTITY  event.menu.options.privacy.accesskey                "s">
 <!ENTITY  event.menu.options.privacy.public.label             "Julkinen tapahtuma">
-<!ENTITY  event.menu.options.privacy.public.accesskey         "u">
+<!ENTITY  event.menu.options.privacy.public.accesskey         "J">
 <!ENTITY  event.menu.options.privacy.confidential.label       "Näytä vain aika ja päivämäärä">
 <!ENTITY  event.menu.options.privacy.confidential.accesskey   "N">
 <!ENTITY  event.menu.options.privacy.private.label            "Yksityinen tapahtuma">
@@ -176,7 +176,7 @@
 <!ENTITY  event.menu.options.show.time.free.accesskey         "V">
 
 <!ENTITY event.invite.attendees.label                     "Kutsu osallistujia…">
-<!ENTITY event.invite.attendees.accesskey                 "i">
+<!ENTITY event.invite.attendees.accesskey                 "K">
 <!ENTITY event.email.attendees.label                      "Kirjoita viesti kaikille osallistujille…">
 <!ENTITY event.email.attendees.accesskey                  "a">
 <!ENTITY event.email.tentative.attendees.label            "Kirjoita viesti epävarmoille osallistujille…">
@@ -266,15 +266,15 @@
 <!ENTITY event.recurrence.month.label                   "kerran kuussa" >
 <!ENTITY event.recurrence.year.label                    "kerran vuodessa" >
 
-<!ENTITY event.recurrence.pattern.every.label           "xxx" >
+<!ENTITY event.recurrence.pattern.every.label           "" >
 <!ENTITY repeat.units.days.both                         "päivän välein" >
 <!ENTITY event.recurrence.pattern.every.weekday.label   "Joka arkipäivä" >
 
-<!ENTITY event.recurrence.pattern.weekly.every.label    "xxx" >
+<!ENTITY event.recurrence.pattern.weekly.every.label    "" >
 <!ENTITY repeat.units.weeks.both                        "viikon välein" >
-<!ENTITY event.recurrence.on.label                      "xxx" >
+<!ENTITY event.recurrence.on.label                      "" >
 
-<!ENTITY event.recurrence.pattern.monthly.every.label   "xxx" >
+<!ENTITY event.recurrence.pattern.monthly.every.label   "" >
 <!ENTITY repeat.units.months.both                       "kuukauden välein" >
 <!ENTITY event.recurrence.monthly.every.label           "Jokaisena" >
 <!ENTITY event.recurrence.monthly.first.label           "Ensimmäisenä">
@@ -291,11 +291,11 @@
 <!ENTITY event.recurrence.pattern.monthly.week.6.label  "perjantaina" >
 <!ENTITY event.recurrence.pattern.monthly.week.7.label  "lauantaina" >
 <!ENTITY event.recurrence.repeat.dayofmonth.label       "päivänä">
-<!ENTITY event.recurrence.repeat.recur.label            "xxx">
+<!ENTITY event.recurrence.repeat.recur.label            "">
 
-<!ENTITY event.recurrence.every.label                        "xxx" >
+<!ENTITY event.recurrence.every.label                        "" >
 <!ENTITY repeat.units.years.both                             "vuoden välein" >
-<!ENTITY event.recurrence.pattern.yearly.every.month.label   "xxx" >
+<!ENTITY event.recurrence.pattern.yearly.every.month.label   "" >
 
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:

@@ -90,7 +90,7 @@
 <!ENTITY calendar.menu.numberofweeks.6          "Kuusi viikkoa">
 
 <!ENTITY goTodayCmd.label                       "Tähän päivään">
-<!ENTITY goTodayCmd.accesskey                   "T">
+<!ENTITY goTodayCmd.accesskey                   "h">
 
 <!ENTITY showCurrentView.label                  "Nykyinen näkymä">
 <!ENTITY showCurrentView.accesskey              "N">
