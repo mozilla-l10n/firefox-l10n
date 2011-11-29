@@ -87,8 +87,12 @@
 <!ENTITY showTaskbarCmd.accesskey                       "S">
 <!ENTITY customizeToolbar.label                         "Aanpassen…">
 <!ENTITY customizeToolbar.accesskey                     "A">
-<!ENTITY showContactPane.label                          "Contactsamenvattingsvenster">
-<!ENTITY showContactPane.accesskey                      "C">
+<!ENTITY layoutMenu.label                               "Vormgeving">
+<!ENTITY layoutMenu.accesskey                           "V">
+<!ENTITY showDirectoryPane.label                        "Directoryvenster">
+<!ENTITY showDirectoryPane.accesskey                    "M">
+<!ENTITY showContactPane2.label                         "Contactvenster">
+<!ENTITY showContactPane2.accesskey                     "C">
 <!ENTITY menu_ShowNameAs.label                          "Namen tonen als">
 <!ENTITY menu_ShowNameAs.accesskey                      "N">
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
