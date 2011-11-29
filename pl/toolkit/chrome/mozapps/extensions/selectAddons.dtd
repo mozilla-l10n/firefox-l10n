@@ -1,6 +1,6 @@
 <!ENTITY upgrade.style               "width: 93ch; height: 448px;">
 
-<!ENTITY checking.heading            "Sprawdzanie zainstalowanych Add-ons">
+<!ENTITY checking.heading            "Sprawdzanie zainstalowanych dodatków">
 <!ENTITY checking.progress.label     "Sprawdzanie dodatków pod względem zgodności z tą wersją programu &brandShortName;.">
 
 <!ENTITY select.heading              "Wybierz dodatki">
