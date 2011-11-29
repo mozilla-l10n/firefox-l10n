@@ -56,7 +56,7 @@
 <!ENTITY publishCmd.accesskey "u">
 <!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "Publiceren als…">
-<!ENTITY publishAsCmd.accesskey "c">">
+<!ENTITY publishAsCmd.accesskey "c">
 <!ENTITY fileRevert.label "Ongedaan maken">
 <!ENTITY fileRevert.accesskey "m">
 
