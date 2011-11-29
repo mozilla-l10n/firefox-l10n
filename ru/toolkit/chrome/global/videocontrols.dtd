@@ -7,13 +7,13 @@
 <!ENTITY stats.activity "Состояние">
 <!ENTITY stats.activityPaused "Приостановлено">
 <!ENTITY stats.activityPlaying "Проигрывается">
-<!ENTITY stats.activityEnded "Окончено">
+<!ENTITY stats.activityEnded "Завершено">
 <!ENTITY stats.activitySeeking "(поиск)">
 <!ENTITY stats.volume "Громкость">
 <!ENTITY stats.channels "Каналы">
 <!ENTITY stats.sampleRate "Частота дискретизации">
-<!ENTITY stats.framesParsed "Кадров разобрано">
+<!ENTITY stats.framesParsed "Кадров проанализировано">
 <!ENTITY stats.framesDecoded "Кадров декодировано">
 <!ENTITY stats.framesPresented "Кадров представлено">
-<!ENTITY stats.framesPainted "Кадров прорисовано">
+<!ENTITY stats.framesPainted "Кадров отрисовано">
 <!ENTITY scrubberScale.nameFormat "прошло #1 из #2">
