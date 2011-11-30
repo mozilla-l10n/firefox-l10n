@@ -22,11 +22,6 @@
 <!ENTITY publishAsCmd.accesskey "h">
 <!ENTITY saveAsChangeEncodingCmd.label "문자 인코딩 변경 및 저장">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "E">
-<!ENTITY printSetupCmd.label "인쇄 화면 설정…">
-<!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printCmd.label "인쇄…">
-<!ENTITY printCmd.accesskey "p">
-<!ENTITY printCmd.key "p">
 <!ENTITY editMenu.label "편집">
 <!ENTITY editMenu.accesskey "e">
 <!ENTITY pasteNoFormatting.label "포맷없이 붙여넣기">

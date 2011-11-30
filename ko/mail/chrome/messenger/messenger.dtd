@@ -132,10 +132,14 @@
 <!ENTITY undoDefaultCmd.accesskey "U">
 <!ENTITY redoDefaultCmd.label "재실행">
 <!ENTITY redoDefaultCmd.accesskey "R">
+
+<!ENTITY menubarCmd.label			"도구모음">
+<!ENTITY menubarCmd.accesskey			"M">
 <!ENTITY showMessengerToolbarCmd.label "메일 도구 모음">
 <!ENTITY showMessengerToolbarCmd.accesskey "o">
 <!ENTITY customizeToolbar.label "사용자 정의…">
 <!ENTITY customizeToolbar.accesskey "C">
+
 <!ENTITY messagePaneLayoutStyle.label "창 보기">
 <!ENTITY messagePaneLayoutStyle.accesskey "L">
 <!ENTITY messagePaneClassic.label "기본 보기">
@@ -261,6 +265,9 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY pageSourceCmd.label "메시지 소스 보기">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.key "u">
+<!ENTITY getNewMessagesCmd.key			"y">
+<!ENTITY getAllNewMessagesCmd.key		"Y"
+
 <!ENTITY findCmd.label "메시지에서 찾기…">
 <!ENTITY findCmd.accesskey "F">
 <!ENTITY findCmd.key "f">
@@ -448,12 +455,14 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY previousButton.label "이전">
 <!ENTITY backButton1.label "뒤로">
 <!ENTITY goForwardButton1.label "앞으로">
+<!ENTITY deleteItem.title "삭제">
 <!ENTITY deleteButton.label "삭제">
 <!ENTITY undeleteButton.label "복구">
 <!ENTITY markButton.label "표시">
 <!ENTITY printButton.label "인쇄">
 <!ENTITY stopButton.label "중지">
 <!ENTITY throbberItem.title "활성도 지시자">
+<!ENTITY junkItem.title	"스팸">
 <!ENTITY junkButton.label "스팸">
 <!ENTITY notJunkButton.label "정상">
 <!ENTITY addressBookButton.label "주소록">
