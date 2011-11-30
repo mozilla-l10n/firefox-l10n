@@ -6,18 +6,11 @@
 <!ENTITY allowHWAccel.label              "하드웨어 가속이 가능하면 사용">
 <!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY updateTab.label "업데이트">
-<!ENTITY autoCheck.label "자동으로 업데이트할 항목:">
-<!ENTITY enableAppUpdate.label "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey "F">
-<!ENTITY enableAddonsUpdate2.label "부가 기능">
-<!ENTITY enableAddonsUpdate2.accesskey "n">
+<!ENTITY enableAddonsUpdate3.label "부가 기능">
+<!ENTITY enableAddonsUpdate3.accesskey "o">
 <!ENTITY enableSearchUpdate.label "검색 사이트">
 <!ENTITY enableSearchUpdate.accesskey "h">
-<!ENTITY whenUpdatesFound.label "&brandShortName; 업데이트 항목이 있는 경우:">
-<!ENTITY modeAutomatic.label "자동으로 다운로드하여 설치하기">
-<!ENTITY modeAutomatic.accesskey "d">
-<!ENTITY modeAutoAddonWarn.label "부가 기능을 사용할 수 없는 경우 알림">
-<!ENTITY modeAutoAddonWarn.accesskey "W">
+
 <!ENTITY protocols.label "프로토콜">
 <!ENTITY useSSL3.label "SSL 3.0 사용">
 <!ENTITY useSSL3.accesskey "3">
@@ -57,11 +50,25 @@
 <!ENTITY overrideSmartCacheSize.label    "자동 캐시 크기 관리">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
-<!ENTITY askMe.label "항상 물어 보기">
-<!ENTITY askMe.accesskey "k">
+<!ENTITY updateTab.label                 "업데이트">
+
+<!ENTITY updateApp.label                 "&brandShortName; 업데이트:">
+<!ENTITY updateAuto.label                "자동 업데이트 설치 (추천: 보안 강화)">
+<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateCheck.label               "업데이트 확인 (설치 여부 결정)">
+<!ENTITY updateCheck.accesskey           "C">
+<!ENTITY updateManual.label              "업데이트 확인 안함 (추천 안함: 보안 위협)">
+<!ENTITY updateManual.accesskey          "N">
+<!ENTITY updateAutoAddonWarn.label       "부가 기능을 사용 안함으로 변경 시 알려주기">
+<!ENTITY updateAutoAddonWarn.accesskey   "W">
+
 <!ENTITY updateHistory.label "업데이트 기록 보기">
 <!ENTITY updateHistory.accesskey "p">
 
+<!ENTITY useService.label                "업데이트 설치 시 백그라운드 작업으로 하기">
+<!ENTITY useService.accesskey            "b">
+
+<!ENTITY updateOthers.label              "자동 업데이트:">
 <!ENTITY offlineNotify.label             "오프라인 시 이용할 자료를 저장할 때 알려주기">
 <!ENTITY offlineNotify.accesskey         "T">
 <!ENTITY offlineNotifyExceptions.label   "예외 사항…">
