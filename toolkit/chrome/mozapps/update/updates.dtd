@@ -1,7 +1,7 @@
 <!ENTITY  updateWizard.title              "Uygulama Güncelleme">
 
 <!ENTITY  checking.title                  "Güncelleme Denetimi">
-<!ENTITY  updateCheck.label               "&brandShortName; uygulamasının yeni sürümü aranıyor">
+<!ENTITY  updateCheck.label               "Yeni &brandShortName; sürümleri aranıyor…">
 
 <!ENTITY  pluginupdatesfound.title        "Yan uygulamaların güncellemesi mevcut">
 <!ENTITY  pluginupdatesfound.label        "Kurulu yan uygulamanın daha yeni sürümü bulundu.">
@@ -18,7 +18,7 @@
 <!ENTITY  manualUpdateGetMsg.label        "&brandShortName; uygulamasının en son sürümüne her zaman buradan ulaşabilirsiniz:">
 
 <!ENTITY  incompatibleCheck.title         "Eklenti uyumluluk denetimi">
-<!ENTITY  incompatibleCheck.label         "Eklentilerinizin yeni sürümü aranıyor…">
+<!ENTITY  incompatibleCheck.label         "Eklentilerinizin yeni sürümleri aranıyor…">
 
 <!ENTITY  clickHere.label                 "Bu güncelleme hakkındaki bilgileri göster">
 
@@ -39,7 +39,7 @@
 <!ENTITY  downloadPage.title              "&brandShortName; indiriliyor">
 <!ENTITY  downloading.intro               "Aşağıdaki güncellemeler kuruldu:">
 <!ENTITY  connecting.label                "Güncelleme sunucusuna bağlanıyor…">
-<!ENTITY  verificationFailedText.label    "&brandShortName; indirilen güncelleme dosyalarının bütünlüğünü kontrol edemiyor. Şimdi paketler tekrardan indirilecek.">
+<!ENTITY  verificationFailedText.label    "&brandShortName; indirilen artırımlı güncellemenin bütünlüğünü doğrulayamadı, bu yüzden şimdi tam güncelleme paketi indiriliyor.">
 
 <!ENTITY  viewDetails.tooltip             "Bu güncellemenin ayrıntılarına bak">
 
@@ -65,7 +65,7 @@ bir bağlantıyı kabul ettirmeye çalışıyor. Hizmet sağlayıcınızla gör�
 <!ENTITY  finishedBackgroundPage.text     "&brandShortName; uygulamasına ait bir güvenlik ve kararlılık güncellemesi indirildi ve kuruluma hazır.">
 <!ENTITY  finishedBackground.name         "Güncelleme:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
-<!ENTITY  finishedBackground.more         "Güncelleme &brandShortName; yeniden başlatıldığında kurulacak. &brandShortName; uygulamasını şu an da başlatabilirsiniz, şimdi işinize devam edip daha sonra da baştan başlatabilirsiniz.">
+<!ENTITY  finishedBackground.more         "Güncelleme &brandShortName; yeniden başlatıldığında kurulacak. &brandShortName; uygulamasını şu an da yeniden başlatabilirsiniz, işinize devam edip daha sonra da yeniden başlatabilirsiniz.">
 
 <!ENTITY  installed.title                 "Güncelleme dosyaları kuruldu">
 <!ENTITY  installed.intro                 "Güncelleme başarılı bir şekilde kuruldu.">

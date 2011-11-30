@@ -18,7 +18,7 @@
 <!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; eksik yan uygulamaların kurulumunu tamamladı:">
 
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "Yan uygulamalara ilişkin daha fazla bilgi edinin ya da eksik yan uygulamaları kendiniz arayın.">
-<!ENTITY pluginWizard.finalPage.restart.label                "Yan uygulamaların çalışması için &brandShortName; uygulamasının baştan başlatılması gerek.">
+<!ENTITY pluginWizard.finalPage.restart.label                "Yan uygulamaların çalışması için &brandShortName; uygulamasının yeniden başlatılması gerekiyor.">
 
 <!ENTITY missingPlugin                                       "Bu içeriği gösterecek bir yan uygulama eksik.">
 <!ENTITY clickToPlayPlugin                                   "Yan uygulama etkinleştirmek için buraya dokunun.">

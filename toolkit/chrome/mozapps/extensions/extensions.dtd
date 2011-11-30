@@ -56,7 +56,7 @@
 <!ENTITY updates.updating.label               "Eklentiler güncelleniyor">
 <!ENTITY updates.installed.label              "Eklentileriniz güncellendi.">
 <!ENTITY updates.downloaded.label             "Eklenti güncellemeleriniz indirildi.">
-<!ENTITY updates.restart.label                "Kurulumu tamamlamak için şimdi baştan başlat">
+<!ENTITY updates.restart.label                "Kurulumu tamamlamak için şimdi baştan başlatın">
 <!ENTITY updates.noneFound.label              "Güncelleme bulunamadı">
 <!ENTITY updates.manualUpdatesFound.label     "Yapılabilecek güncellemelere bak">
 <!ENTITY updates.updateSelected.label         "Güncellemeleri kur">
@@ -103,8 +103,7 @@
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 <!ENTITY discover.title                       "Eklenti nedir?">
-<!ENTITY discover.description2                "Eklentiler ek özellik ve biçimlerle &brandShortName; uygulamanızı kişiselleştirmenizi 
-sağlayan uygulamalardır. Size zaman kazandıran bir araç çubuğunu, hava durumu habercisini veya &brandShortName; uygulamasının istediğiniz gibi görünmesini sağlayacak bir tema deneyin.">
+<!ENTITY discover.description2                "  Eklentiler ek işlev ve biçimlerle &brandShortName; uygulamanızı kişiselleştirmenizi sağlayan uygulamalardır. Size zaman kazandıran bir araç çubuğunu, hava durumu habercisini veya &brandShortName; uygulamasının istediğiniz gibi görünmesini sağlayacak bir temayı deneyin.">
 <!ENTITY discover.footer                      "İnternete bağlı olduğunuzda bu bölümde denemeniz için 
 en çok tutulan eklentilerden bazıları öne çıkarılacak.">
 
