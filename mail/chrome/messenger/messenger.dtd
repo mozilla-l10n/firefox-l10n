@@ -266,7 +266,7 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.key "u">
 <!ENTITY getNewMessagesCmd.key			"y">
-<!ENTITY getAllNewMessagesCmd.key		"Y"
+<!ENTITY getAllNewMessagesCmd.key		"Y">
 
 <!ENTITY findCmd.label "메시지에서 찾기…">
 <!ENTITY findCmd.accesskey "F">

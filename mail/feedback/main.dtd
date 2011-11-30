@@ -7,7 +7,7 @@
 <!ENTITY testpilot.settings.readyToSubmit.label     "과제 제출 준비될 때">
 <!ENTITY testpilot.settings.newStudy.label          "새 과제가 나올 때">
 <!ENTITY testpilot.settings.hasNewResults.label     "새 결과가 나올 때">
-<!ENTITY testpilot.settings.alwaysSubmitData.label  "자동 결과 보내기 (묻지 않음)">
+<!ENTITY testpilot.settings.alwaysSubmitData.shortLabel	"자동으로 데이터 보냄 (통지 안함)">
 <!ENTITY testpilot.allYourStudies.label                 "사용자 테스트 전체 목록">
 <!ENTITY testpilot.about.label                      "Test Pilot 소개">
 
@@ -30,6 +30,8 @@
 <!ENTITY testpilot.feedbackbutton.label                "의견 보내기">
 <!ENTITY testpilot.happy.label        "Firefox 장점 보내기…">
 <!ENTITY testpilot.sad.label          "Firefox 단점 보내기…">
+<!ENTITY testpilot.happy.thunderbirdLabel        "Thunderbird 장점 보내기…">
+<!ENTITY testpilot.sad.thunderbirdLabel          "Thunderbird 단점 보내기…">
 <!ENTITY testpilot.broken.label      "웹 사이트 문제점 보고…">
 <!ENTITY testpilot.idea.label        "개선 아이디어 보내기…">
 
