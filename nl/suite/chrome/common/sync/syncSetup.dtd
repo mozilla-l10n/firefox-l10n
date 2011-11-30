@@ -44,8 +44,7 @@
 <!ENTITY setup.newRecoveryKeyPage.description.label "Om uw volledige privacy te waarborgen worden al uw gegevens versleuteld voordat ze worden geüpload. De herstelsleutel voor het ontcijferen van uw gegevens wordt niet geüpload.">
 <!ENTITY recoveryKeyEntry.label        "Uw herstelsleutel">
 <!ENTITY recoveryKeyEntry.accesskey    "s">
-<!ENTITY recoveryKeyGenerate.label     "Genereren">
-<!ENTITY recoveryKeyGenerate.accesskey "G">
+<!ENTITY recoveryGenerateNewKey.label  "Nieuwe sleutel genereren">
 <!ENTITY recoveryKeyBackup.description "Uw herstelsleutel is vereist voor de toegang van &syncBrand.fullName.label; op andere machines. Maak een reservekopie. We kunnen uw herstelsleutel niet herstellen.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Afdrukken…">
