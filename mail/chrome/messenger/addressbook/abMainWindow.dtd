@@ -71,6 +71,8 @@
 <!ENTITY viewMenu.accesskey "v">
 <!ENTITY viewToolbarsMenu.label "도구 모음">
 <!ENTITY viewToolbarsMenu.accesskey "T">
+<!ENTITY menubarCmd.label			"도구 모음">
+<!ENTITY menubarCmd.accesskey			"M">
 <!ENTITY showAbToolbarCmd.label "주소록 도구 모음">
 <!ENTITY showAbToolbarCmd.accesskey "o">
 <!ENTITY showTaskbarCmd.label "상태 표시줄">

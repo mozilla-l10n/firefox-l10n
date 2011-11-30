@@ -5,6 +5,9 @@
 <!ENTITY itemCertificates.label "인증서">
 
 <!-- General Settings -->
+<!ENTITY submitTelemetry.label			"성능 정보를 송신">
+<!ENTITY submitTelemetry.accesskey		"P">
+<!ENTITY telemetryInfoLink.label		"송신 정보 상세 보기">
 <!ENTITY enableGlodaSearch.label       "전체 검색 및 색인 사용함">
 <!ENTITY enableGlodaSearch.accesskey   "E">
 <!ENTITY systemIntegration.label       "시스템 통합">
