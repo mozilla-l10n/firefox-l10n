@@ -2,6 +2,8 @@
 <!ENTITY playButton.pauseLabel "Paŭzigi">
 <!ENTITY muteButton.muteLabel "Silentigi">
 <!ENTITY muteButton.unmuteLabel "Malsilentigi">
+<!ENTITY fullscreenButton.enterfullscreenlabel "Full Screen">
+<!ENTITY fullscreenButton.exitfullscreenlabel "Exit Full Screen">
 
 <!ENTITY stats.media "Media">
 <!ENTITY stats.size "Size">
