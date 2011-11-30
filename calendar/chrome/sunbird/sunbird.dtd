@@ -44,7 +44,7 @@
 <!ENTITY sunbird.import.button.tooltip                     "יבוא אירועים מקובץ מקומי" >
 <!ENTITY sunbird.export.button.tooltip                     "יצוא אירועים לקובץ מקומי" >
 <!ENTITY sunbird.subscribe.button.tooltip                  "רישום לקובץ לוח שנה על מכונה מרוחקת" >
-<!ENTITY sunbird.publish.button.tooltip                    "פרסום אירועים למכונה מרוחקת" >
+<!ENTITY sunbird.publish.button.tooltip                    "פרסום אירועים למחשב מרוחק" >
 <!ENTITY sunbird.unifinder.button.tooltip                  "חיפוש והצגת אירועים ברשימה" >
 <!ENTITY sunbird.edit.button.tooltip                       "עריכת אירוע נבחר" >
 

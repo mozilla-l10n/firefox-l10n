@@ -163,7 +163,7 @@
 <!ENTITY calendar.task.filter.repeating.accesskey   "ח">
 
 <!ENTITY calendar.task-details.title.label           "כותרת">
-<!ENTITY calendar.task-details.organizer.label       "from">
+<!ENTITY calendar.task-details.organizer.label       "מאת">
 <!ENTITY calendar.task-details.priority.label        "עדיפות">
 <!ENTITY calendar.task-details.priority.low.label    "נמוכה">
 <!ENTITY calendar.task-details.priority.normal.label "רגילה">
@@ -173,7 +173,7 @@
 <!ENTITY calendar.task-details.repeat.label          "חזרה">
 <!ENTITY calendar.task-details.attachments.label     "קבצים מצורפים">
 <!ENTITY calendar.task-details.start.label           "תאריך התחלה">
-<!ENTITY calendar.task-details.due.label             "תאריך יעד">
+<!ENTITY calendar.task-details.due.label             "תאריך סיום">
 
 <!ENTITY calendar.task.category.button.tooltip  "חלק משימות לקטגוריות">
 <!ENTITY calendar.task.complete.button.tooltip  "סמן שהמשימות שנבחרו הושלמו">
@@ -304,7 +304,7 @@
      This string is not seen in the UI, it is read by screen readers when the
      user focuses the "Cancel" button in the "Snooze for..." popup of the alarm
      dialog. -->
-<!ENTITY calendar.alarm.snooze.cancel               "Cancel Snooze">
+<!ENTITY calendar.alarm.snooze.cancel               "בטל השהייה">
 
 <!-- Calendar Server Dialog -->
 <!ENTITY calendar.server.dialog.title.edit          "ערוך יומן">
@@ -314,11 +314,11 @@
 <!ENTITY calendarproperties.color.label                    "צבע:">
 <!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)‎">
 <!ENTITY calendarproperties.caldav.label                   "CalDAV">
-<!ENTITY calendarproperties.wcap.label                     "Sun Java System Calendar Server (WCAP)">
+<!ENTITY calendarproperties.wcap.label                     "Sun Java System Calendar Server (WCAP)‎">
 <!ENTITY calendarproperties.format.label                   "מבנה:">
 <!ENTITY calendarproperties.location.label                 "מיקום:">
 <!ENTITY calendarproperties.refreshInterval.label          "רענן יומן:">
-<!ENTITY calendarproperties.refreshInterval.manual.label   "ידני">
+<!ENTITY calendarproperties.refreshInterval.manual.label   "ידנית">
 <!ENTITY calendarproperties.name.label                     "שם:">
 <!ENTITY calendarproperties.readonly.label                 "קריאה בלבד">
 <!ENTITY calendarproperties.firealarms.label               "הצג התראות">
