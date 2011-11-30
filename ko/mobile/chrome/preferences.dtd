@@ -21,3 +21,4 @@
 <!ENTITY homepage.default                          "&brandShortName; 시작">
 <!ENTITY homepage.currentpage                      "현재 페이지 사용">
 <!ENTITY showCharsetEncoding.title                 "문자 인코딩 보기">
+<!ENTITY actionbar.default                         "&brandShortName;설정">
