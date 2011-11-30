@@ -40,6 +40,9 @@ certiĝu ke &brandShortName; rajtas aliri la TTTn.</li> </ul>">
 <!ENTITY netInterrupt.title "La konekto estis ĉesigita">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!ENTITY notCached.title "Document Expired">
+<!ENTITY notCached.longDesc "<p>The requested document is not available in &brandShortName;'s cache.</p><ul><li>As a security precaution, &brandShortName; does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
+
 <!ENTITY netOffline.title "Malkonektita reĝimo">
 <!ENTITY netOffline.longDesc2 "
 <ul>
@@ -124,6 +127,7 @@ la eraro povas esti tempa kaj vi povos klopodi denove poste.</li>
 
 <!ENTITY corruptedContentError.title "Eraro pro difektita enhavo">
 <!ENTITY corruptedContentError.longDesc "<p>La paĝo kiun vi volas vidi ne povas esti montrita ĉar okazis eraro en la sendado de datumoj.</p><ul><li>Bonvolu kontakti la posedantojn de tiu retejo kaj raporti al ili tiun ĉi problemon.</li></ul>">
+
 
 <!ENTITY securityOverride.linkText "Aŭ vi povas aldoni escepton…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Mi volas foriri de ĉi tie!">
