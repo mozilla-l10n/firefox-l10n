@@ -49,6 +49,3 @@
 <!ENTITY pref.defaultlength.accesskey "E">
 <!ENTITY pref.defaultsnoozelength.label "기본 대기 시간:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "S">
-<!ENTITY pref.refreshbox.label "설정 새로 고침" >
-<!ENTITY pref.autorefresh.label "다음 시간마다 캘린더 새로 고침" >
-<!ENTITY pref.autorefresh.accesskey "R" >
