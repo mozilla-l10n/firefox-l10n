@@ -326,6 +326,12 @@
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Menubalk">
 <!ENTITY formatToolbar.tooltip "Opmaakwerkbalk">
+<!ENTITY newToolbarCmd.label "Nieuw">
+<!ENTITY newToolbarCmd.tooltip "Een nieuwe Composer-pagina creëren">
+<!ENTITY openToolbarCmd.label "Openen">
+<!ENTITY openToolbarCmd.tooltip "Een lokaal bestand openen">
+<!ENTITY saveToolbarCmd.tooltip "Bestand opslaan op een lokale locatie">
+<!ENTITY publishToolbarCmd.tooltip "Bestand uploaden naar een locatie op afstand">
 <!ENTITY cutToolbarCmd.tooltip "Knippen">
 <!ENTITY copyToolbarCmd.tooltip "Kopiëren">
 <!ENTITY pasteToolbarCmd.tooltip "Plakken">
