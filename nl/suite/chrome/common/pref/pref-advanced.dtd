@@ -9,3 +9,7 @@
 <!ENTITY prefCheckDefault.caption   "Systeemintegratie">
 <!ENTITY prefCheckDefaultClient.label "Instellingen van standaardtoepassingen controleren bij het opstarten">
 <!ENTITY prefCheckDefaultClient.accesskey "s">
+
+<!ENTITY crashReports.caption       "Crashreporter">
+<!ENTITY submitCrashes.label        "Crashrapporten verzenden">
+<!ENTITY submitCrashes.accesskey    "C">
