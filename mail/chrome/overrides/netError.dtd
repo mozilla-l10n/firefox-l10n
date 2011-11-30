@@ -31,11 +31,9 @@ gibi yanlış yazılmış olabilir.</li>
 <!ENTITY generic.longDesc "<p>&brandShortName; bazı nedenlerden dolayı bu sayfayı açamıyor.</p>">
 
 <!ENTITY malformedURI.title "Adres geçersiz">
-<!ENTITY malformedURI.longDesc "<ul> 
-<li>Web adreslerinin kullanımı aşağıdaki gibidir: 
-<strong>http://www.lapis.org/</strong></li> 
-<li>Lütfen <strong> "/" </strong> işaretini doğru bir şekilde kullandığınızdan emin olun. 
-/).</li> 
+<!ENTITY malformedURI.longDesc " <ul> 
+<li>Web adresleri genellikle <strong>http://www.mozilla.org.tr/</strong> şeklinde yazılır.</li> 
+<li>Bölü işaretini <strong>(/)</strong> doğru şekilde kullandığınızdan emin olun.</li> 
 </ul>">
 
 <!ENTITY netInterrupt.title "Bağlantı kesilmiş">
@@ -144,5 +142,5 @@ functionality specific to thunderbird. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "Uzak XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Lütfen site sahipleriyle iletişim kurup onları bu sorundan haberdar edin.</li></ul></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Lütfen site sahipleriyle iletişim kurup onları bu sorundan haberdar edin.</li></ul></p>">
 

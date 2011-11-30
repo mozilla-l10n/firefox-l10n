@@ -36,9 +36,9 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY toField3.label "To ">
-<!ENTITY fromField3.label "From ">
-<!ENTITY senderField3.label "Sender ">
-<!ENTITY organizationField3.label "Organization ">
+<!ENTITY fromField3.label "Kimden ">
+<!ENTITY senderField3.label "Gönderen ">
+<!ENTITY organizationField3.label "Kurum ">
 <!ENTITY replyToField3.label "Reply to ">
 
 <!ENTITY subjectField3.label "Konu ">
