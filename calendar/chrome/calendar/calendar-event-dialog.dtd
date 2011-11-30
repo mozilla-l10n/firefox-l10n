@@ -44,6 +44,8 @@
 
 <!ENTITY event.title.label                  "항목 편집" >
 
+<!ENTITY event.dialog.keepDurationButton.tooltip	"종료 일시를 변경해도 기간 길이를 유지">
+<!ENTITY event.dialog.keepDurationButton.accesskey	"K">
 
 <!ENTITY newevent.from.label                "개시일" >
 <!ENTITY newevent.to.label                  "종료일" >
@@ -376,6 +378,10 @@
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "일반">
 <!ENTITY read.only.title.label           "제목:">
+<!ENTITY read.only.event.start.label		"시작일:">
+<!ENTITY read.only.task.start.label			"착수일:">
+<!ENTITY read.only.event.end.label			"종료일:">
+<!ENTITY read.only.task.due.label			"마감일:">
 <!ENTITY read.only.repeat.label          "되풀이:">
 <!ENTITY read.only.location.label        "위치:">
 <!ENTITY read.only.category.label        "분류:">

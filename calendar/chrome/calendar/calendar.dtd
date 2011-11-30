@@ -148,6 +148,11 @@
 <!ENTITY calendar.task.filter.open.label            "완료되지 못한 태스크">
 <!ENTITY calendar.task.filter.open.accesskey        "m">
 
+<!ENTITY calendar.task.filter.current.label		"현재 할일">
+<!ENTITY calendar.task.filter.current.accesskey		"u">
+<!ENTITY calendar.task.filter.repeating.label		"반복 할일">
+<!ENTITY calendar.task.filter.repeating.accesskey	"R">
+
 <!ENTITY calendar.task-details.title.label           "제목">
 <!ENTITY calendar.task-details.organizer.label       "작업자">
 <!ENTITY calendar.task-details.priority.label        "중요도">
@@ -158,6 +163,8 @@
 <!ENTITY calendar.task-details.category.label        "분류">
 <!ENTITY calendar.task-details.repeat.label          "되풀이">
 <!ENTITY calendar.task-details.attachments.label     "첨부">
+<!ENTITY calendar.task-details.start.label		"시작일">
+<!ENTITY calendar.task-details.due.label		"종료일">
 
 <!ENTITY calendar.task.category.button.tooltip  "태스크 분류 하기">
 <!ENTITY calendar.task.complete.button.tooltip  "선택한 태스크 완료 확인">
@@ -175,25 +182,10 @@
 <!ENTITY calendar.context.newevent.accesskey          "N">
 <!ENTITY calendar.context.newtodo.label               "새 태스크…">
 <!ENTITY calendar.context.newtodo.accesskey           "k">
-<!ENTITY calendar.context.modifytask.label            "태스트 편집…">
-<!ENTITY calendar.context.modifytask.accesskey        "E">
-<!ENTITY calendar.context.modifyitem.label            "항목 편집…">
-<!ENTITY calendar.context.modifyitem.accesskey        "E">
 <!ENTITY calendar.context.deletetask.label            "태스크 삭제">
 <!ENTITY calendar.context.deletetask.accesskey        "l">
-<!ENTITY calendar.context.deleteitem.label            "삭제">
-<!ENTITY calendar.context.deleteitem.accesskey        "l">
 <!ENTITY calendar.context.deleteevent.label            "이벤트 삭제">
 <!ENTITY calendar.context.deleteevent.accesskey        "l">
-<!ENTITY calendar.context.deletethisevent.label        "이 이벤트">
-<!ENTITY calendar.context.deletethisevent.accesskey    "T">
-<!ENTITY calendar.context.deletecompleteseries.label   "완료된 항목">
-<!ENTITY calendar.context.deletecompleteseries.accesskey   "S">
-<!ENTITY calendar.context.deletefutureevents.label     "시작되지 않은 모든 이벤트">
-<!ENTITY calendar.context.deletefutureevents.accesskey "F">
-<!ENTITY calendar.context.deletefuturetasks.label      "시작되지 않은 모든 태스크">
-<!ENTITY calendar.context.deletefuturetasks.accesskey  "F">
-
 
 <!ENTITY calendar.context.cutevent.label              "잘라내기">
 <!ENTITY calendar.context.cutevent.accesskey          "t">
@@ -201,10 +193,12 @@
 <!ENTITY calendar.context.copyevent.accesskey         "C">
 <!ENTITY calendar.context.pasteevent.label            "붙여넣기">
 <!ENTITY calendar.context.pasteevent.accesskey        "P">
-<!ENTITY calendar.context.selectall.label             "모두 선택">
-<!ENTITY calendar.context.selectall.accesskey         "A">
 <!ENTITY calendar.context.button.label                "오늘 창">
 <!ENTITY calendar.context.button.accesskey            "T">
+<!ENTITY calendar.context.attendance.menu.label		"참여" >
+<!ENTITY calendar.context.attendance.menu.accesskey	"d" >
+<!ENTITY calendar.context.attendance.occurrence.label	"현재 일정만" >
+<!ENTITY calendar.context.attendance.all.label		"모든 일정" >
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "진행">
@@ -238,13 +232,14 @@
 <!ENTITY priority.level.high                "높음">
 <!ENTITY priority.level.high.accesskey      "H">
 
+<!ENTITY calendar.taskview.delete.label			"삭제">
+<!ENTITY calendar.taskview.delete.accesskey		"l">
+
 <!-- Server Context Menu -->
 <!ENTITY calendar.context.newserver.label              "새 캘린더…">
 <!ENTITY calendar.context.newserver.accesskey          "N">
 <!ENTITY calendar.context.findcalendar.label           "캘린더 찾기" >
 <!ENTITY calendar.context.findcalendar.accesskey       "F" >
-<!ENTITY calendar.context.deleteserver.label           "캘린더 삭제">
-<!ENTITY calendar.context.deleteserver.accesskey       "D">
 <!ENTITY calendar.context.reloadserver.label           "리모트 캘린더 새로 고침">
 <!ENTITY calendar.context.reloadserver.accesskey       "R">
 <!ENTITY calendar.context.publish.label                "캘린더 게시…">
@@ -291,6 +286,8 @@
 <!ENTITY calendar.alarm.snooze.2hours.label         "2시간" >
 <!ENTITY calendar.alarm.snooze.1day.label          "1일" >
 
+<!ENTITY calendar.alarm.snooze.cancel			"대기 취소">
+
 <!-- Calendar Server Dialog -->
 <!ENTITY calendar.server.dialog.title.edit          "캘린더 편집">
 <!ENTITY calendar.server.dialog.name.label          "캘린더 이름:">
@@ -302,6 +299,8 @@
 <!ENTITY calendarproperties.wcap.label     "Sun 자바 시스템 캘린더 서버 (WCAP)">
 <!ENTITY calendarproperties.format.label   "형식:">
 <!ENTITY calendarproperties.location.label "위치:">
+<!ENTITY calendarproperties.refreshInterval.label	"캘린더 업데이트:">
+<!ENTITY calendarproperties.refreshInterval.manual.label	"수동">
 <!ENTITY calendarproperties.name.label     "이름:">
 <!ENTITY calendarproperties.readonly.label "읽기 전용">
 <!ENTITY calendarproperties.firealarms.label "알람 보기">
