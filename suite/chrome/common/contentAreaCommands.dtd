@@ -104,6 +104,12 @@
 <!ENTITY mediaHideControls.accesskey    "C">
 <!ENTITY videoFullScreen.label        "Volledig scherm">
 <!ENTITY videoFullScreen.accesskey    "V">
+<!ENTITY videoSaveImage.label         "Snapshot opslaan als…">
+<!ENTITY videoSaveImage.accesskey     "S">
+<!ENTITY videoShowStats.label         "Statistieken tonen">
+<!ENTITY videoShowStats.accesskey     "t">
+<!ENTITY videoHideStats.label         "Statistieken verbergen">
+<!ENTITY videoHideStats.accesskey     "t">
 <!ENTITY search.accesskey               "W">
 <!ENTITY bidiSwitchPageDirectionItem.label "Paginarichting omkeren">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey "a">
