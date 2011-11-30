@@ -58,8 +58,8 @@
 
 <!ENTITY editMessageDescription.label "이 메시지는 초안임">
 <!ENTITY editMessageButton.label "편집…">
-<!ENTITY hdrArchiveButton.label "보관">
-<!ENTITY hdrArchiveButton.tooltip "이 메시지 보관">
+<!ENTITY hdrArchiveButton1.label "보관">
+<!ENTITY hdrArchiveButton1.tooltip "이 메시지 보관">
 <!ENTITY hdrSmartReplyButton1.label		"빠른 답장">
 <!ENTITY hdrReplyButton1.label "답장">
 <!ENTITY hdrReplyButton1.tooltip "이 메시지에 답장">
