@@ -58,22 +58,28 @@
 
 <!ENTITY updateTab.label                 "Ĝisdatigi">
 
-<!ENTITY autoCheck.label                 "Aŭtomate kontroli ĉu estas ĝisdatigoj por:">
-<!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "M">
-<!ENTITY enableAddonsUpdate2.label       "Aldonaĵoj">
-<!ENTITY enableAddonsUpdate2.accesskey   "n">
-<!ENTITY enableSearchUpdate.label        "Serĉiloj">
-<!ENTITY enableSearchUpdate.accesskey    "i">
-<!ENTITY whenUpdatesFound.label          "Kiam haveblas ĝisdatigoj de &brandShortName;:">
-<!ENTITY askMe.label                     "Demandi al mi kion mi volas fari">
-<!ENTITY askMe.accesskey                 "e">
-<!ENTITY modeAutomatic.label             "Aŭtomate elŝuti kaj instali la ĝisdatigon">
-<!ENTITY modeAutomatic.accesskey         "e">
-<!ENTITY modeAutoAddonWarn.label         "Averti se tio malaktivigos iun ajn el miaj aldonaĵoj">
-<!ENTITY modeAutoAddonWarn.accesskey     "V">
+<!ENTITY updateApp.label                 "&brandShortName; updates:">
+<!ENTITY updateAuto.label                "Automatically install updates (recommended: improved security)">
+<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateCheck.label               "Check for updates, but let me choose whether to install them">
+<!ENTITY updateCheck.accesskey           "C">
+<!ENTITY updateManual.label              "Never check for updates (not recommended: security risk)">
+<!ENTITY updateManual.accesskey          "N">
+
+<!ENTITY updateAutoAddonWarn.label       "Warn me if this will disable any of my add-ons">
+<!ENTITY updateAutoAddonWarn.accesskey   "W">
+
 <!ENTITY updateHistory.label             "Montri la historion de ĝisdatigoj">
 <!ENTITY updateHistory.accesskey         "h">
+
+<!ENTITY useService.label                "Use a background service to install updates">
+<!ENTITY useService.accesskey            "b">
+
+<!ENTITY updateOthers.label              "Automatically update:">
+<!ENTITY enableAddonsUpdate3.label       "Add-ons">
+<!ENTITY enableAddonsUpdate3.accesskey   "o">
+<!ENTITY enableSearchUpdate.label        "Serĉiloj">
+<!ENTITY enableSearchUpdate.accesskey    "i">
 
 <!ENTITY offlineNotify.label             "Diri al mi kiam retejo petas la konservado de datumojn por uzi malkonektite">
 <!ENTITY offlineNotify.accesskey         "D">
