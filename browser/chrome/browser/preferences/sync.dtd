@@ -17,7 +17,7 @@
 <!ENTITY myRecoveryKey.label          "Mia reakira ŝlosilo">
 <!ENTITY resetSync2.label             "Rekomenci speguladon…">
 
-<!ENTITY pairDevice.label             "Pair a Device">
+<!ENTITY pairDevice.label             "Asocii aparaton">
 
 <!ENTITY syncMy.label               "Speguli miajn">
 <!ENTITY engine.bookmarks.label     "legosignojn">

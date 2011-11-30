@@ -40,7 +40,7 @@
 
 <!ENTITY allowScripts.label             "Permesi al skizoj:">
 
-<!ENTITY moveResizePopupWindows.label     "Move or resize popup windows">
+<!ENTITY moveResizePopupWindows.label     "Movi aŭ ŝanĝi grandecon de ŝprucfenestroj">
 <!ENTITY moveResizePopupWindows.accesskey "M">
 <!ENTITY raiseLowerWindows.label        "Levi aŭ mallevi fenestrojn">
 <!ENTITY raiseLowerWindows.accesskey    "L">

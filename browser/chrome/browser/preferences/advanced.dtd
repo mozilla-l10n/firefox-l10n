@@ -28,7 +28,7 @@
 <!ENTITY checkNow.label                  "Kontroli nun">
 <!ENTITY checkNow.accesskey              "K">
 <!ENTITY submitCrashes.label             "Sendi raportojn pri paneoj">
-<!ENTITY submitCrashes.accesskey         "S">
+<!ENTITY submitCrashes.accesskey         "p">
 <!ENTITY submitTelemetry.label           "Sendi informon pri efikeco">
 <!ENTITY submitTelemetry.accesskey       "e">
 
@@ -58,25 +58,25 @@
 
 <!ENTITY updateTab.label                 "Ĝisdatigi">
 
-<!ENTITY updateApp.label                 "&brandShortName; updates:">
-<!ENTITY updateAuto.label                "Automatically install updates (recommended: improved security)">
+<!ENTITY updateApp.label                 "Ĝisdatigoj de &brandShortName;:">
+<!ENTITY updateAuto.label                "Aŭtomate instali ĝisdatigojn (rekomendita: pli bona sekureco)">
 <!ENTITY updateAuto.accesskey            "A">
-<!ENTITY updateCheck.label               "Check for updates, but let me choose whether to install them">
-<!ENTITY updateCheck.accesskey           "C">
-<!ENTITY updateManual.label              "Never check for updates (not recommended: security risk)">
+<!ENTITY updateCheck.label               "Kontroli ĉu estas ĝisdatigoj, sed lasi min elekti ĉu instali ilin aŭ ne">
+<!ENTITY updateCheck.accesskey           "K">
+<!ENTITY updateManual.label              "Neniam kontroli ĉu estas ĝisdatigoj (ne rekomendita: sekureca risko)">
 <!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateAutoAddonWarn.label       "Warn me if this will disable any of my add-ons">
-<!ENTITY updateAutoAddonWarn.accesskey   "W">
+<!ENTITY updateAutoAddonWarn.label       "Averti min se tio malaktivigos iun ajn el miaj aldonaĵoj">
+<!ENTITY updateAutoAddonWarn.accesskey   "v">
 
 <!ENTITY updateHistory.label             "Montri la historion de ĝisdatigoj">
 <!ENTITY updateHistory.accesskey         "h">
 
-<!ENTITY useService.label                "Use a background service to install updates">
-<!ENTITY useService.accesskey            "b">
+<!ENTITY useService.label                "Uzi fonan servon por instali ĝisdatigojn">
+<!ENTITY useService.accesskey            "f">
 
-<!ENTITY updateOthers.label              "Automatically update:">
-<!ENTITY enableAddonsUpdate3.label       "Add-ons">
+<!ENTITY updateOthers.label              "Aŭtomate ĝisdatigi:">
+<!ENTITY enableAddonsUpdate3.label       "Aldonaĵoj">
 <!ENTITY enableAddonsUpdate3.accesskey   "o">
 <!ENTITY enableSearchUpdate.label        "Serĉiloj">
 <!ENTITY enableSearchUpdate.accesskey    "i">
@@ -102,7 +102,7 @@
 <!ENTITY certificates.label              "Atestiloj">
 <!ENTITY certSelection.description       "Kiam servilo petas mian personan atestilon:">
 <!ENTITY certs.auto                      "Elekti unu aŭtomate">
-<!ENTITY certs.auto.accesskey            "l">
+<!ENTITY certs.auto.accesskey            "E">
 <!ENTITY certs.ask                       "Ĉiam demandi al mi">
 <!ENTITY certs.ask.accesskey             "i">
 <!ENTITY viewCerts.label                 "Vidi atestilojn">
