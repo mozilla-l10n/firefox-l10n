@@ -62,7 +62,7 @@
 <!ENTITY maxMessagesEnd.label "ileti">
 <!ENTITY alwaysAuthenticate.label "Bu sunucuya bağlandığında daima kimlik doğrulaması gerekli.">
 <!ENTITY alwaysAuthenticate.accesskey "u">
-<!ENTITY newsrcFilePath.label "Haber grubu ayar dosyası ("newsrc"):">
+<!ENTITY newsrcFilePath.label "newsrc doyası:">
 <!ENTITY localPath.label "Dizinler:">
 <!ENTITY abbreviate.label "Haber grubu isimlerini ileti dizini penceresinde birlikte görüntüle:">
 <!ENTITY abbreviateOn.label "Tüm isim (örnek, 'netscape.public.mozilla.mail-news')">

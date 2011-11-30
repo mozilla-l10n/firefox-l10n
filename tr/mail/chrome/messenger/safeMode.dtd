@@ -49,7 +49,7 @@
 <!ENTITY resetToolbars.accesskey          "r">
 
 <!ENTITY changeAndRestartButton.label     "Değişiklikleri uygula ve tekrar çalıştır">
-<!ENTITY changeAndRestartButton.accesskey "M">
+<!ENTITY changeAndRestartButton.accesskey "D">
 
 <!ENTITY continueButton.label             "Güvenli kipte devam et">
 <!ENTITY continueButton.accesskey         "G">

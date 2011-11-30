@@ -57,8 +57,8 @@
 <!ENTITY saveAsCmd.accesskey "F">
 <!ENTITY saveAsChangeEncodingCmd.label "Karakter kodlamasını kaydet ve değiştir">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "e">
-<!ENTITY publishCmd.label "Publish">
-<!ENTITY publishCmd.accesskey "b">
+<!ENTITY publishCmd.label "Yayımla">
+<!ENTITY publishCmd.accesskey "Y">
 <!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "Farklı yayımla…">
 <!ENTITY publishAsCmd.accesskey "y">

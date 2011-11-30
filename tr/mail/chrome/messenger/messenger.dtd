@@ -433,7 +433,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markAsJunkCmd.label "Gereksiz ">
 <!ENTITY markAsJunkCmd.accesskey "G">
 <!ENTITY markAsJunkCmd.key "j">
-<!ENTITY markAsNotJunkCmd.label ""Gereksiz" değil">
+<!ENTITY markAsNotJunkCmd.label "Gereksiz değil">
 <!ENTITY markAsNotJunkCmd.accesskey "d">
 <!ENTITY markAsNotJunkCmd.key "j">
 <!ENTITY recalculateJunkScoreCmd.label "Gereksiz posta denetimini çalıştır">
@@ -515,7 +515,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY throbberItem.title "Durum göstergesi">
 <!ENTITY junkItem.title "Gereksiz">
 <!ENTITY junkButton.label "Gereksiz">
-<!ENTITY notJunkButton.label ""Gereksiz" değil">
+<!ENTITY notJunkButton.label "Gereksiz değil">
 <!ENTITY addressBookButton.label "Adres defteri">
 <!ENTITY glodaSearch.title "Global arama">
 <!ENTITY searchItem.title "Hızlı arama">
@@ -546,7 +546,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY printButton.tooltip "İletiyi	yazdır">
 <!ENTITY stopButton.tooltip "Şu anki aktarımı durdur">
 <!ENTITY junkButton.tooltip "Seçili iletileri gereksiz olarak işaretle">
-<!ENTITY notJunkButton.tooltip "Seçili iletiyi "Gereksiz değil" olarak işaretle">
+<!ENTITY notJunkButton.tooltip "Seçili iletiyi gereksiz değil olarak işaretle">
 <!ENTITY addressBookButton.tooltip "Adres defterine git">
 <!ENTITY tagButton.tooltip "İletileri etiketle">
 <!ENTITY compactButton.tooltip "Seçilen dizinden silinmiş iletileri kaldır">

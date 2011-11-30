@@ -11,7 +11,7 @@
 <!ENTITY email.accesskey "E">
 <!ENTITY replyTo.label "Yanıt adresi:">
 <!ENTITY replyTo.accesskey "s">
-<!ENTITY replyTo.placeholder "Recipients will reply to this other address">
+<!ENTITY replyTo.placeholder "Alıcılar bu diğer adrese yanıt verecektir">
 <!ENTITY organization.label "Kurum:">
 <!ENTITY organization.accesskey "K">
 <!ENTITY signatureText.label "İmza metni:">
