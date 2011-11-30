@@ -56,6 +56,8 @@
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "원래 화면으로 복구">
 <!ENTITY fullScreenExit.accesskey "F">
+<!ENTITY domFullScreenWarning.label "원래 화면으로 돌아가려면 ESC 누르기">
+
 <!ENTITY closeWindow.label "창 닫기">
 <!ENTITY bookmarksMenu.label "북마크">
 <!ENTITY bookmarksMenu.accesskey "B">
@@ -325,6 +327,12 @@ can reach it easily. -->
 <!ENTITY mediaHideControls.accesskey "C">
 <!ENTITY videoFullScreen.label       "전체 화면">
 <!ENTITY videoFullScreen.accesskey   "F">
+<!ENTITY videoSaveImage.label        "다른 이름으로 이미지 저장…">
+<!ENTITY videoSaveImage.accesskey    "S">
+<!ENTITY videoShowStats.label        "통계 보기">
+<!ENTITY videoShowStats.accesskey    "t">
+<!ENTITY videoHideStats.label        "통계 숨기기">
+<!ENTITY videoHideStats.accesskey    "t">
 
 <!ENTITY newTabButton.tooltip  "새 탭 열기">
 <!ENTITY newWindowButton.tooltip "새 창 열기">
@@ -398,6 +406,9 @@ can reach it easily. -->
 <!ENTITY inspectMenu.accesskey        "T">
 <!ENTITY inspectMenu.commandkey       "I">
 
+<!ENTITY inspectContextMenu.label     "요소 검사">
+<!ENTITY inspectContextMenu.accesskey "Q">
+
 <!-- LOCALIZATION NOTE (scratchpad.label) : This menu item label appears
 - in the Tools menu. See bug 653093.
 - The Scratchpad is intended to provide a simple text editor for creating
@@ -417,6 +428,9 @@ can reach it easily. -->
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "문서 검사">
 <!ENTITY inspectButton.accesskey      "I">
+<!ENTITY inspectCloseButton.tooltiptext "검사기 닫기">
+<!ENTITY inspectStyleButton.label     "스타일">
+<!ENTITY inspectStyleButton.accesskey "S">
 
 <!ENTITY getMoreDevtoolsCmd.label "기타 도구">
 <!ENTITY getMoreDevtoolsCmd.accesskey "M">

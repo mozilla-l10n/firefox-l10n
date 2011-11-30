@@ -13,8 +13,8 @@
 <!ENTITY useCurrentPage.label "현재 페이지">
 <!ENTITY useCurrentPage.accesskey "C">
 <!ENTITY useMultiple.label "현재 탭">
-<!ENTITY useBookmark.label "북마크 선택">
-<!ENTITY useBookmark.accesskey "B">
+<!ENTITY chooseBookmark.label "북마크 사용…">
+<!ENTITY chooseBookmark.accesskey "B">
 <!ENTITY restoreDefault.label "초기 설정">
 <!ENTITY restoreDefault.accesskey "R">
 <!ENTITY downloads.label "다운로드">
