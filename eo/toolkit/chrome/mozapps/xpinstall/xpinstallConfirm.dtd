@@ -1,9 +1,0 @@
-<!-- extracted from institems.xul -->
-
-<!ENTITY dialog.title            "Instalado de programoj">
-<!ENTITY dialog.style            "width: 45em">
-<!ENTITY warningPrimary.label    "Nur instali aldonaĵojn de aŭtoroj kiujn vi fidas.">
-<!ENTITY warningSecondary.label  "Fia programaro povas difekti vian komputilon aŭ elmeti vian privatecon.">
-
-<!ENTITY from.label "el:">
-
