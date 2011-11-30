@@ -90,7 +90,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "K">
 <!ENTITY fullScreenExit.label "Eliri el plenekrana reĝimo">
 <!ENTITY fullScreenExit.accesskey "P">
-<!ENTITY domFullScreenWarning.label "Press ESC to leave full-screen mode">
+<!ENTITY domFullScreenWarning.label "Premu ESK por eliri el la plenekrana reĝimo">
 
 <!ENTITY closeWindow.label "Fermi fenestron">
 <!ENTITY closeWindow.accesskey "f">
@@ -188,7 +188,7 @@ can reach it easily. -->
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
 <!ENTITY webConsoleCmd.label          "TTTa konzolo">
-<!ENTITY webConsoleCmd.accesskey      "W">
+<!ENTITY webConsoleCmd.accesskey      "k">
 <!ENTITY webConsoleCmd.commandkey     "k">
 
 <!ENTITY inspectMenu.label            "Inspekti">
@@ -216,8 +216,8 @@ can reach it easily. -->
 <!ENTITY inspectPanelTitle.label        "HTML">
 <!ENTITY inspectButton.label            "Inspekti">
 <!ENTITY inspectButton.accesskey        "I">
-<!ENTITY inspectCloseButton.tooltiptext "Close Inspector">
-<!ENTITY inspectStyleButton.label     "Style">
+<!ENTITY inspectCloseButton.tooltiptext "Fermi inspektilon">
+<!ENTITY inspectStyleButton.label     "Stilo">
 <!ENTITY inspectStyleButton.accesskey "S">
 
 <!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
@@ -387,7 +387,7 @@ can reach it easily. -->
 <!ENTITY bookmarkThisFrameCmd.label      "Aldoni legosignon por tiu ĉi kadro">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "k">
 <!ENTITY sendPageCmd.label            "Sendi ligilon…">
-<!ENTITY sendPageCmd.accesskey        "e">
+<!ENTITY sendPageCmd.accesskey        "S">
 <!ENTITY savePageCmd.label            "Konservi paĝon kiel…">
 <!ENTITY savePageCmd.accesskey        "K">
 <!-- alternate for content area context menu -->
@@ -452,15 +452,15 @@ items are mutually exclusive. -->
 <!ENTITY mediaHideControls.accesskey "C">
 <!ENTITY videoFullScreen.label       "Plenekrane">
 <!ENTITY videoFullScreen.accesskey   "F">
-<!ENTITY videoSaveImage.label        "Save Snapshot As…">
-<!ENTITY videoSaveImage.accesskey    "S">
+<!ENTITY videoSaveImage.label        "Konservi filmetan bildon kiel…">
+<!ENTITY videoSaveImage.accesskey    "K">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY videoShowStats.label        "Show Statistics">
-<!ENTITY videoShowStats.accesskey    "t">
-<!ENTITY videoHideStats.label        "Hide Statistics">
-<!ENTITY videoHideStats.accesskey    "t">
+<!ENTITY videoShowStats.label        "Montri statistikojn">
+<!ENTITY videoShowStats.accesskey    "s">
+<!ENTITY videoHideStats.label        "Kaŝi statistikojn">
+<!ENTITY videoHideStats.accesskey    "s">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and

@@ -40,8 +40,8 @@ certiĝu ke &brandShortName; rajtas aliri la TTTn.</li> </ul>">
 <!ENTITY netInterrupt.title "La konekto estis ĉesigita">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY notCached.title "Document Expired">
-<!ENTITY notCached.longDesc "<p>The requested document is not available in &brandShortName;'s cache.</p><ul><li>As a security precaution, &brandShortName; does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
+<!ENTITY notCached.title "Dokumento malaktuala">
+<!ENTITY notCached.longDesc "<p>La petita dokumento ne ekzistas en la staplo de &brandShortName;.</p><ul><li>Pro sekureca singardo, &brandShortName; aŭtomate ne repetas delikatajn dokumentojn.</li><li>Alklaku 'Klopodi denove' por peti denove la dokumenton al la retejo.</li></ul>">
 
 <!ENTITY netOffline.title "Malkonektita reĝimo">
 <!ENTITY netOffline.longDesc2 "

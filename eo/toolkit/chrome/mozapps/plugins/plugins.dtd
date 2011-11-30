@@ -21,7 +21,7 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; devas esti rekomencita antaŭ ol la kromprogramo(j) funkcios.">
 
 <!ENTITY missingPlugin                                       "Kromprogramo estas bezonata por montri tiun ĉi enhavon.">
-<!ENTITY clickToPlayPlugin                                   "Tap here to activate plugin.">
+<!ENTITY clickToPlayPlugin                                   "Tuŝu ĉi tie por aktivigi la kromprogramon.">
 <!ENTITY disabledPlugin                                      "Tiu ĉi kromprogramo estas malaktivigita.">
 <!ENTITY blockedPlugin.label                                 "Tiu ĉi kromprogramo estis blokita por protekti vin.">
 
@@ -35,7 +35,7 @@
 <!ENTITY reloadPlugin.middle                                 "Reŝargi la paĝon">
 <!ENTITY reloadPlugin.post                                   " por klopodi denove.">
 <!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.checkbox                                     "…and send crash report">
+<!ENTITY report.checkbox                                     "…kaj sendi raporton pri paneo">
 <!ENTITY report.submitting                                   "Raporto sendata…">
 <!ENTITY report.submitted                                    "Raporto pri paneo estis sendita.">
 <!ENTITY report.disabled                                     "Raportado de paneoj ne estas aktiva.">

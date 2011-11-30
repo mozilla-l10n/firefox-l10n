@@ -123,14 +123,14 @@
 <!ENTITY find.label               "Serĉi:">
 <!ENTITY find.accesskey           "S">
 <!ENTITY view.label               "Vidi">
-<!ENTITY view.accesskey           "w">
+<!ENTITY view.accesskey           "v">
 <!ENTITY byDate.label             "Laŭ dato">
 <!ENTITY byDate.accesskey         "D">
 <!ENTITY bySite.label             "Laŭ retejo">
-<!ENTITY bySite.accesskey         "S">
+<!ENTITY bySite.accesskey         "r">
 <!ENTITY byMostVisited.label      "Laŭ vizitoj">
 <!ENTITY byMostVisited.accesskey  "V">
 <!ENTITY byLastVisited.label      "Laŭ dato de vizito">
-<!ENTITY byLastVisited.accesskey  "L">
+<!ENTITY byLastVisited.accesskey  "a">
 <!ENTITY byDayAndSite.label       "Laŭ dato kaj retejo">
-<!ENTITY byDayAndSite.accesskey   "t">
+<!ENTITY byDayAndSite.accesskey   "k">
