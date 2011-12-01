@@ -3,6 +3,21 @@
 <!ENTITY muteButton.muteLabel "Senza tun">
 <!ENTITY muteButton.unmuteLabel "Cun tun">
 
+<!ENTITY stats.media "Media">
+<!ENTITY stats.size "Grondezza">
+<!ENTITY stats.activity "Activitad">
+<!ENTITY stats.activityPaused "Pausa">
+<!ENTITY stats.activityPlaying "Fa ir">
+<!ENTITY stats.activityEnded "Finì">
+<!ENTITY stats.activitySeeking "(tschertgar)">
+<!ENTITY stats.volume "Volumen">
+<!ENTITY stats.channels "Chanals">
+<!ENTITY stats.sampleRate "Rata da palpar">
+<!ENTITY stats.framesParsed "Frames analisads">
+<!ENTITY stats.framesDecoded "Frames decodads">
+<!ENTITY stats.framesPresented "Frames preschentads">
+<!ENTITY stats.framesPainted "Frames picturads">
+
 <!--
 Localization note: the #1 string is the current media position, and the #2
 string is the total duration. For example, when at the 5 minute mark in a 6
