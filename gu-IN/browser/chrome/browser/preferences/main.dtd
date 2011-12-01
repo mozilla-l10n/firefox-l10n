@@ -11,8 +11,6 @@
 <!ENTITY useCurrentPage.label      "વર્તમાન પાનું વાપરો">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "વર્તમાન પાનાંઓ વાપરો">
-<!ENTITY useBookmark.label         "બુકમાર્ક વાપરો">
-<!ENTITY useBookmark.accesskey     "B">
 <!ENTITY restoreDefault.label      "મૂળભૂતમાં પુનઃસંગ્રહો">
 <!ENTITY restoreDefault.accesskey  "R">
 

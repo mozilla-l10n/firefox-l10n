@@ -23,8 +23,6 @@
 <!ENTITY printCmd.label "છાપો...">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "આયાત કરો...">
-<!ENTITY import.accesskey "I">
 
 <!ENTITY goOfflineCmd.label "ઓફલાઈન કામ કરો">
 <!ENTITY goOfflineCmd.accesskey "w">
@@ -456,16 +454,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY inspectMenu.accesskey        "T">
 <!ENTITY inspectMenu.commandkey       "I">
 <!ENTITY inspectMenu.label            "તપાસો">
-<!ENTITY inspectNextButton.accesskey  "N">
-<!ENTITY inspectNextButton.label      "આગળનું">
-<!ENTITY inspectObjectButton.accesskey   "O">
-<!ENTITY inspectObjectButton.label       "ઑબ્જેક્ટ">
 <!ENTITY inspectPanelTitle.label      "HTML">
-<!ENTITY inspectPreviousButton.accesskey "P">
-<!ENTITY inspectPreviousButton.label  "પહેલાનું">
 <!ENTITY inspectStyleButton.accesskey "S">
 <!ENTITY inspectStyleButton.label     "શૈલી">
-<!ENTITY inspectStylePanelTitle.label  "શૈલી">
 <!ENTITY  listAllTabs.label      "બધા ટૅબની યાદી કરો">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY menubarCmd.label "મેનુ પટ્ટી">

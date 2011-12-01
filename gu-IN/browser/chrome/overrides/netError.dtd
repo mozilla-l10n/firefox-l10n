@@ -155,11 +155,6 @@
 
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName;એ આ રીતે લોડ કરવાથી આ પાનાંને અટકાવેલ છે કારણ કે  પાનાં પાસે સમાવિષ્ટ સુરક્ષા પોલિસી છે કે જે તેને પરવાનગી આપતુ નથી.</p>">
 <!ENTITY cspFrameAncestorBlocked.title "સમાવિષ્ટ સુરક્ષા પોલિસી દ્દારા બ્લોક થયેલ છે">
-<!ENTITY netOffline.overrideLongDesc "
-<ul>
-  <li>&quot;Work Offline&quot; મેનુ વસ્તુને ચકાસો નહિં, પછી ફરીથી પ્રયત્ન કરો.</li>
-</ul>
-">
 
 
 <!ENTITY securityOverride.warningContent "

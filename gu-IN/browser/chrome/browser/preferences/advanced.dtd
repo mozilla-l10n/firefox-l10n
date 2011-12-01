@@ -48,18 +48,8 @@
 
 <!ENTITY updateTab.label                 "સુધારો">
 
-<!ENTITY autoCheck.label                 "સુધારાઓ માટે આમાં આપોઆપ ચકાસો:">
-<!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "F">
 <!ENTITY enableSearchUpdate.label        "શોધ યંત્રો">
 <!ENTITY enableSearchUpdate.accesskey    "h">
-<!ENTITY whenUpdatesFound.label          "જ્યારે &brandShortName; ના સુધારાઓ મળે:">
-<!ENTITY askMe.label                     "મારે શું કરવાની જરૂર છે તેના માટે પૂછો">
-<!ENTITY askMe.accesskey                 "k">
-<!ENTITY modeAutomatic.label             "સુધારો આપોઆપ ડાઉનલોડ અને સ્થાપિત કરો">
-<!ENTITY modeAutomatic.accesskey         "d">
-<!ENTITY modeAutoAddonWarn.label         "જો આ મારા કોઈપણ એડ-ઓનને નિષ્ક્રિય કરી નાંખે તો મને ચેતવો">
-<!ENTITY modeAutoAddonWarn.accesskey     "W">
 <!ENTITY updateHistory.label             "સુધારા ઈતિહાસ બતાવો">
 <!ENTITY updateHistory.accesskey         "p">
 
@@ -90,7 +80,7 @@
 <!ENTITY systemDefaults.label            "સિસ્ટમ મૂળભૂતો">
 <!ENTITY clearCacheNow.label             "હમણાં સાફ કરો">
 <!ENTITY clearCacheNow.accesskey         "C">
-<!ENTITY alwaysCheckDefault.label        "&brandShortName; એ શરૂઆત કરવા પર મૂળભૂત બ્રાઉઝર છે કે નહિં તે જોવા માટે હંમેશા ચકાસો"><!--XXX-->
+<!ENTITY alwaysCheckDefault.label        "&brandShortName; એ શરૂઆત કરવા પર મૂળભૂત બ્રાઉઝર છે કે નહિં તે જોવા માટે હંમેશા ચકાસો">
 <!ENTITY alwaysCheckDefault.accesskey    "w">
 
 <!ENTITY certSelection.description       "જ્યારેપણ સર્વર મારા ખાનગી પ્રમાણપત્ર માટે અરજી કરે:">
@@ -103,8 +93,6 @@
 <!ENTITY offlineNotifyExceptions.accesskey "x">
 <!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY allowHWAccel.label              "હાર્ડવેર વેગને વાપરો જ્યારે ઉપલબ્ધ હોય">
-<!ENTITY enableAddonsUpdate2.accesskey   "n">
-<!ENTITY enableAddonsUpdate2.label       "ઍડ-ઑન">
 <!ENTITY limitCacheSizeAfter.label       "MB જેટલી જગ્યા">
 <!ENTITY limitCacheSizeBefore.accesskey  "L">
 <!ENTITY limitCacheSizeBefore.label      "તેની માટે મર્યાદિત કેશ">

@@ -40,8 +40,6 @@
 
 <!ENTITY allowScripts.label             "આના પ્રતિ સ્ક્રિપ્ટને પરવાનગી આપો:">
 
-<!ENTITY moveResizeWindows.label        "હાલની વિન્ડો ખસેડો અથવા તેનું માપ બદલો">
-<!ENTITY moveResizeWindows.accesskey    "M">
 <!ENTITY raiseLowerWindows.label        "વિન્ડો ઊંચી અથવા નીચી કરો">
 <!ENTITY raiseLowerWindows.accesskey    "R">
 <!ENTITY disableContextMenus.label      "સંદર્ભ મેનુઓ નિષ્ક્રિય કરો અથવા બદલો">

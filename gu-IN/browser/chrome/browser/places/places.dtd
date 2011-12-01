@@ -31,11 +31,6 @@
 <!ENTITY cmd.findCurrent.label          "વર્તમાન સંગ્રહમાં શોધો...">
 <!ENTITY cmd.findCurrent.accesskey      "i">
 
-<!ENTITY cmd.exportHTML.label           "HTML નિકાસ કરો…">
-<!ENTITY cmd.exportHTML.accesskey       "E">
-<!ENTITY cmd.importHTML.label           "HTML આયાત કરો…">
-<!ENTITY cmd.importHTML.accesskey       "I">
-
 <!ENTITY cmd.backup.label               "બેકઅપ...">
 <!ENTITY cmd.backup.accesskey           "B">
 <!ENTITY cmd.restore2.label              "પુનઃસંગ્રહો...">
