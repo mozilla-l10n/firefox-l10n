@@ -44,7 +44,7 @@
 <!ENTITY pref.dateformat.label "Päiväystekstin formaatti:" >
 <!ENTITY pref.dateformat.accesskey "P">
 <!ENTITY pref.dateformat.long "Pitkä" >
-<!ENTITY pref.dateformat.short "Short"  >
+<!ENTITY pref.dateformat.short "Lyhyt"  >
 <!ENTITY pref.defaultlength.label "Tapahtuman oletuspituus:" >
 <!ENTITY pref.defaultlength.accesskey "T">
 <!ENTITY pref.defaultsnoozelength.label "Torkun oletuspituus:" >

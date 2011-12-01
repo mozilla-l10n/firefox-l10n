@@ -263,13 +263,13 @@
 
 <!ENTITY calendar.context.convertmenu.label              "Muunna">
 <!ENTITY calendar.context.convertmenu.accesskey.mail     "n">
-<!ENTITY calendar.context.convertmenu.accesskey.calendar "v">
+<!ENTITY calendar.context.convertmenu.accesskey.calendar "n">
 <!ENTITY calendar.context.convertmenu.event.label        "Tapahtumaksi…">
 <!ENTITY calendar.context.convertmenu.event.accesskey    "T">
 <!ENTITY calendar.context.convertmenu.message.label      "Viestiksi…">
 <!ENTITY calendar.context.convertmenu.message.accesskey  "V">
 <!ENTITY calendar.context.convertmenu.task.label         "Tehtäväksi…">
-<!ENTITY calendar.context.convertmenu.task.accesskey     "T">
+<!ENTITY calendar.context.convertmenu.task.accesskey     "e">
 
 <!ENTITY calendar.tasks.view.minimonth.label           "Pienoiskuukausi">
 <!ENTITY calendar.tasks.view.minimonth.accesskey       "P">
