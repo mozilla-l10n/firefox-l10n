@@ -43,9 +43,9 @@
 <!ENTITY aboutWarningButton.label "我發誓，我一定會小心的！">
 <!ENTITY aboutWarningCheckbox.label "下次顯示此警告訊息">
 
-<!ENTITY filterPrefs.label "篩選條件:">
-<!ENTITY filterPrefs.accesskey "F">
-<!ENTITY focusFilter.key "f">
+<!ENTITY searchPrefs.label "搜尋:">
+<!ENTITY searchPrefs.accesskey "r">
+<!ENTITY focusSearch.key "r">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "偏好設定名稱">
