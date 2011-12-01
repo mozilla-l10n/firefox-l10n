@@ -77,8 +77,6 @@
 
 <!ENTITY  rememberSearchForm.label       "શોધ અને ફોર્મ ઈતિહાસ યાદ રાખો">
 <!ENTITY  rememberSearchForm.accesskey   "f">
-<!ENTITY  privateBrowsingPermanent.accesskey "P">
-<!ENTITY  privateBrowsingPermanent.label "કાયમી ખાનગી બ્રાઉઝીંગ સ્થિતિ">
 <!ENTITY  rememberHistory.accesskey  "b">
 <!ENTITY  rememberHistory.label      "મારા બ્રાઉઝીંગ ઇતિહાસને યાદ રાખો">
 <!ENTITY doNotTrack.accesskey           "d">

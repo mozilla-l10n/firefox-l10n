@@ -3,10 +3,6 @@
 <!ENTITY setupButton.accesskey      "S">
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; તમને તમારા બધા ઉપકરણોમાં તમારા ઇતિહાસ, બુકમાર્કો, પાસવર્ડો અને ખુલ્લા ટૅબમાં પ્રવેશ કરવા દે છે.">
 
-<!-- The page shown when logged in... -->
-
-
-
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "સુધારો">
 <!ENTITY resetPass.label              "પુન:સુયોજિત કરો">
@@ -15,10 +11,6 @@
 <!ENTITY manageAccount.label          "ખાતાને સંચાલિત કરો">
 <!ENTITY manageAccount.accesskey      "A">
 <!ENTITY viewQuota.label              "ક્વોટાને દર્શાવો">
-<!ENTITY changePassword.label         "પાસવર્ડને બદલો">
-<!ENTITY mySyncKey.label              "મારી સુમેળ કી">
-<!ENTITY resetSync.label              "સુમેળને પુન:સુયોજિત કરો">
-
 
 <!-- Sync Settings -->
 
@@ -41,6 +33,3 @@
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "સેવાની મર્યાદાઓ">
 <!ENTITY prefs.ppLink.label         "ખાનગી પોલિસી">
-<!ENTITY addDevice.label              "ઉપકરણ ઉમેરો">
-
-<!ENTITY deactivateDevice.label       "આ ઉપકરણને નિષ્ક્રિય કરો">

@@ -22,7 +22,6 @@
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY report.disabled                                     "ભંગાણ અહેવાલીકરણ નિષ્ક્રિય.">
 <!ENTITY report.failed                                       "ઉમેરવાનું નિષ્ફળ.">
-<!ENTITY report.please                                       "ભંગાણ અહેવાલને મોકલો">
 <!ENTITY report.submitted                                    "ભંગાણ એહેવાલને મોકલી દીધો.">
 <!ENTITY report.submitting                                   "અહેવાલ મોકલી રહ્યા છે…">
 <!ENTITY report.unavailable                                  "ઉપલબ્ધ અહેવાલ નથી.">

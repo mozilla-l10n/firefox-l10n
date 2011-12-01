@@ -37,33 +37,16 @@
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 
-<!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; તમારા ખાનગીપણાની કાળજી લે છે">
-<!ENTITY setup.newSyncKeyPage.description.label "તમારી સંપૂર્ણ ખાનગીપણાની ખાતરી કરવા માટે, બધી તમારી માહિતીને અપલોડ કરતા પહેલાં એનક્રિપ્ટ થયેલ છે. સુમેળ કી કે જે તમારી માહિતી અપલોડ થયેલ નથી તેને ડિક્રિપ્ટ કરવાની જરૂર છે.">
-<!ENTITY syncKeyEntry.label        "તમારી સુમેળ કી">
-<!ENTITY syncKeyEntry.accesskey    "K">
-
-
-
-<!ENTITY syncKeyBackup.description "તમારી સુમેળ કીને બીજા મશીનો પર &syncBrand.fullName.label; ને વાપરવાની જરૂર છે. મહેરબાની કરીને બેકઅપ નકલને બનાવો. અમે તમારી સુમેળ કીને પ્રાપ્ત કરવા તમને મદદ કરી શકતા નથી.">
-
 <!ENTITY button.syncKeyBackup.print.label     "છાપો…">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
 <!ENTITY button.syncKeyBackup.save.label      "સંગ્રહો…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
 
-<!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "મહેરબાની કરીને ખાતરી કરો કે તમે રૉબોટ નથી">
-
 <!-- Existing Account Page 1: Login -->
 
 <!ENTITY resetPassword.label          "પાસવર્ડને પુન:સુયોજિત કરો">
 
-
 <!-- Existing Account Page 2: Sync Key -->
-
-
-
 
 <!ENTITY verifying.label              "ચકાસી રહ્યા છે…">
 
@@ -105,24 +88,15 @@
 <!ENTITY confirm.server2.label         "ચેતવણી: નીચેના ઉપકરણો તમારી સ્થાનિક માહિતી સાથે ઉપર લખાઇ જશે:">
 
 <!ENTITY addDevice.dialog.connected.label   "જોડાયેલ ઉપકરણ">
-<!ENTITY addDevice.dialog.description.label "તમારા નવા ઉપકરણને સક્રિય કરવા માટે, ઉપકરણ  પર &syncBrand.shortName.label; વિકલ્પોમાં જાઓ  અને &#x0022;Connect.&#x0022; ને પસંદ કરો">
 <!ENTITY addDevice.dialog.enterCode.label   "કોડને દાખલ કરો કે જે ઉપકરણ પૂરુ પાડે છે:">
 <!ENTITY addDevice.dialog.successful.label  "ઉપકરણને સફળતાપૂર્વક ઉમેરી દેવામાં આવ્યુ છે. પ્રારંભિક સુમેળને ઘણીબધી મિનિટો લાગી શકે છે અને પાશ્ર્વભાગમાં સમાપ્ત થશે.">
-<!ENTITY addDevice.dialog.syncKey.label     "તમારા ઉપકરણને સક્રિય કરવા માટે તમારે તમારી સુમેળ કીને દાખલ કરવાની જરૂર પડશે. મહેરબાની કરીને આ કીને છાપો અથવા સંગ્રહ કરો અને તમારી સાથે તેને લો.">
 <!ENTITY addDevice.dialog.tryAgain.label    "મહેરબાની કરીને ફરીથી પ્રયત્ન કરો.">
 <!ENTITY addDevice.dontHaveDevice.label     "મારી પાસે અત્યારે ઉપકરણ નથી">
-<!ENTITY addDevice.setup.description.label  "સક્રિય કરવા માટે, તમારા બીજા ઉપકરણ પર &syncBrand.shortName.label; વિકલ્પોમાં જાઓ  અને &#x0022; ને પસંદ કરો Device&#x0022; ને ઉમેરો.">
 <!ENTITY addDevice.setup.enterCode.label    "પછી, આ કોડને દાખલ કરો:">
 <!ENTITY addDevice.showMeHow.label          "મને બતાવો કેવી રીતે થાય છે.">
-<!ENTITY addDevice.title.label              "ઉપકરણ ઉમેરો">
-<!ENTITY button.connect.label    "જોડાવો">
-<!ENTITY existingSyncKey.description "તમારા બીજા ઉપકરણ પર &syncBrand.shortName.label; વિકલ્પોમાં જવા દ્દારા તમારી સુમેળ કીની નકલ લઇ શકો છો, અને &#x0022;Manage Account&#x0022; હેઠળ &#x0022;મારી સુમેળ કીને&#x0022; પસંદ કરી રહ્યા છે.">
 <!ENTITY serverType.custom2.label   "વૈવિધ્ય સર્વરને વાપરો…">
-<!ENTITY setup.haveAccount.label "મારી પાસે પહેલેથી જ &syncBrand.fullName.label; ખાતુ છે.">
 <!ENTITY setup.signInPage.title.label "માં પ્રવેશો">
 <!ENTITY signIn.account2.accesskey  "A">
 <!ENTITY signIn.account2.label      "ખાતુ">
-<!ENTITY signIn.syncKey.accesskey   "K">
-<!ENTITY signIn.syncKey.label       "સુમેળ કી">
 <!ENTITY resetSyncKey.label           "મેં મારુ બીજુ ઉપકરણ ગુમાવ્યુ.">
 <!ENTITY syncGenerateNewKey.label  "નવી કીને ઉત્પન્ન કરો">
