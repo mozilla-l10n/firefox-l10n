@@ -53,7 +53,7 @@
 <!ENTITY  font.langGroup.sinhala                  "Seylanca">
 <!ENTITY  font.langGroup.tibetan                  "Tibet Dili">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "En ufak yazitipi boyutu:">
+<!ENTITY minSize.label                            "En küçük yazı tipi boyutu:">
 <!ENTITY minSize.accesskey                        "z">
 <!ENTITY minSize.none                             "Yok">
 
