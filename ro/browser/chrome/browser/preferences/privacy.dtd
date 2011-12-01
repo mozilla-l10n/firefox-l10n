@@ -3,6 +3,7 @@
 #
 # raulmalea <raul.malea@gmail.com>
 # Alexandru Szasz <alexxed@gmail.com>
+# strainu <narro@strainu.ro>
 # Cristian Silaghi <stelistcristi@yahoo.com>
 #
 -->
@@ -10,6 +11,8 @@
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# Cristian Silaghi <stelistcristi@yahoo.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!ENTITY tracking.label                 "Urmărire">
@@ -53,7 +56,7 @@
 <!ENTITY  historyHeader.pre.accesskey      "v">
 <!ENTITY  historyHeader.remember.label     "Memora istoricul">
 <!ENTITY  historyHeader.dontremember.label "Nu va memora istoricul niciodată">
-<!ENTITY  historyHeader.custom.label       "Folosește setări personalizate pentru istoric">
+<!ENTITY  historyHeader.custom.label       "Folosi setări personalizate pentru istoric">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; va memora istoricul navigării, al descărcărilor, al formularelor și al căutărilor precum și cookie-urile de la saiturile vizitate.">
@@ -62,7 +65,7 @@
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
 <!ENTITY  rememberActions.pre.label           "Ați putea dori să ">
-<!ENTITY  rememberActions.clearHistory.label  "curăță istoricul recent">
+<!ENTITY  rememberActions.clearHistory.label  "curățați istoricul recent">
 <!ENTITY  rememberActions.middle.label        ", sau ">
 <!ENTITY  rememberActions.removeCookies.label "să ștergeți anumite cookie-uri">
 <!ENTITY  rememberActions.post.label          ".">
