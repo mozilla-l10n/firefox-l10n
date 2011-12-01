@@ -2,12 +2,15 @@
 # Translator(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# vas_galati <vas_galati@yahoo.com>
+# secarica <orice@secarica.ro>
 #
 -->
 <!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# Cristian Silaghi <stelistcristi@yahoo.com>
 #
 -->
 <!ENTITY playButton.playLabel "Redare">
@@ -16,14 +19,14 @@
 <!ENTITY muteButton.unmuteLabel "Activează sonorul">
 
 <!ENTITY stats.media "Media">
-<!ENTITY stats.size "Size">
-<!ENTITY stats.activity "Activity">
-<!ENTITY stats.activityPaused "Paused">
+<!ENTITY stats.size "Dimensiune">
+<!ENTITY stats.activity "Activitate">
+<!ENTITY stats.activityPaused "În pauză">
 <!ENTITY stats.activityPlaying "Redare">
 <!ENTITY stats.activityEnded "Terminat">
 <!ENTITY stats.activitySeeking "(căutare)">
-<!ENTITY stats.volume "Volume">
-<!ENTITY stats.channels "Channels">
+<!ENTITY stats.volume "Volum">
+<!ENTITY stats.channels "Canale">
 <!ENTITY stats.sampleRate "Rată de eșantionare">
 <!ENTITY stats.framesParsed "Cadre analizate">
 <!ENTITY stats.framesDecoded "Cadre decodate">
