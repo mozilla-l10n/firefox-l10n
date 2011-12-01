@@ -3,8 +3,8 @@
 <!ENTITY enableStartPage.accesskey        "g">
 <!ENTITY location.label                   "Konum:">
 <!ENTITY location1.accesskey               "o">
-<!ENTITY useDefault.label                 "Öntanımlı Ayarlar">
-<!ENTITY useDefault.accesskey             "r">
+<!ENTITY useDefault.label                 "Öntanımlıyı yükle">
+<!ENTITY useDefault.accesskey             "g">
 
 <!ENTITY bounceSystemDockIcon.label       "Küçük simgeyi oynat">
 <!ENTITY bounceSystemDockIcon.accesskey   "o">
@@ -19,11 +19,11 @@
 
 <!ENTITY play.label                       "Çal">
 <!ENTITY play.accesskey                   "l">
-<!ENTITY systemsound.label                "Yeni posta var için öntanımlı ses dosyası">
+<!ENTITY systemsound.label                "Yeni posta için öntanımlı sistem sesi">
 <!ENTITY systemsoundMac.label             "Sistem uyarı ses dosyaları">
 <!ENTITY systemsoundMac.accesskey         "y">
 <!ENTITY systemsound.accesskey            "Y">
-<!ENTITY customsound.label                "Aşağıdaki ses dosyalarını kullan">
+<!ENTITY customsound.label                "Aşağıdaki ses dosyasını kullan">
 <!ENTITY customsound.accesskey            "u">
 <!ENTITY browse.label                     "Gözat…">
 <!ENTITY browse.accesskey                 "G">

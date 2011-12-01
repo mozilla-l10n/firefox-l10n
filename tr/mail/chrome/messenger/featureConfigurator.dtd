@@ -12,11 +12,11 @@
 
 <!ENTITY featureConfigurator.toolbar.heading "Yeni araç çubuğu">
 <!ENTITY featureConfigurator.toolbar.new "İleti düğmeleri araç çubuğu">
-<!ENTITY featureConfigurator.toolbar.new.status.explanation "A clean toolbar with all your messaging buttons at your fingertips.">
+<!ENTITY featureConfigurator.toolbar.new.status.explanation "Yalın bir araç çubuğuyla tüm mesajlaşma düğmeleri parmaklarınızın ucunda.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.toolbar.original): The word 'original' is chosen deliberately to be neutral, vs. 'old' which in English at least had a negative connotation.-->
 <!ENTITY featureConfigurator.toolbar.original "Eski araç çubuğu düğmelerim kalsın">
-<!ENTITY featureConfigurator.toolbar.original.status.explanation "Keep any custom toolbar buttons in addition to the new Message Buttons.">
+<!ENTITY featureConfigurator.toolbar.original.status.explanation "Yeni ileti düğmelerinin yanı sıra tüm kişisel araç çubuğu düğmelerinizi tutun.">
 
 <!ENTITY featureConfigurator.toolbarBenefits.para "A cleaner interface than our previous default, which leaves more room  for the richer search textbox, as well as add-ons.">
 

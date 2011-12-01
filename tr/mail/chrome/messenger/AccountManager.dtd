@@ -8,7 +8,7 @@
 <!ENTITY addMailAccountButton.accesskey "P">
 <!ENTITY addOtherAccountButton.label "Diğer hesap ekle…">
 <!ENTITY addOtherAccountButton.accesskey "D">
-<!ENTITY setDefaultButton.label "Öntanımlı ata">
+<!ENTITY setDefaultButton.label "Öntanımlı olarak ayarla">
 <!ENTITY setDefaultButton.accesskey "n">
 <!ENTITY removeButton.label "Hesabı Sil">
 <!ENTITY removeButton.accesskey "H">

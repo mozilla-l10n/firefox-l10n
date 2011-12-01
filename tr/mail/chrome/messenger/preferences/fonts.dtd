@@ -49,7 +49,7 @@
 <!ENTITY  font.langGroup.malayalam                "Malayalam">
 
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "En küçük yazı boyutu:">
+<!ENTITY minSize.label                            "En küçük yazı tipi boyutu:">
 <!ENTITY minSize.accesskey                        "z">
 <!ENTITY minSize.none                             "Hiçbiri">
 
@@ -58,8 +58,8 @@
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
 <!-- fonts in message -->
-<!ENTITY  fontControl.label                       "Yazıtipi denetimi">
-<!ENTITY  useFixedWidthForPlainText.label         "Düz metin iletilerde sabit genişlikli yazıtipi kullan">
+<!ENTITY  fontControl.label                       "Yazı tipi denetimi">
+<!ENTITY  useFixedWidthForPlainText.label         "Düz metin iletilerde sabit genişlikli yazı tipi kullan">
 <!ENTITY  fixedWidth.accesskey                    "l">
 <!ENTITY  useDocumentFonts.label                  "Mesajların diğer yazıtiplerini kullanmasına izin ver">
 <!ENTITY  useDocumentFonts.accesskey              "a">
@@ -72,6 +72,6 @@
 
 <!ENTITY viewDefaultCharsetList.label     "Gelen posta:">
 <!ENTITY viewDefaultCharsetList.accesskey  "G">
-<!ENTITY replyInDefaultCharset2.label     "Yanıtlarda mümkünse öntanımlı karakter kodlamayı kullan">
+<!ENTITY replyInDefaultCharset2.label     "Yanıtlarda mümkünse öntanımlı karakter kodlamasını kullan">
 <!ENTITY replyInDefaultCharset2.accesskey "Y">
 

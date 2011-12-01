@@ -49,8 +49,8 @@
 <!ENTITY half-manual-test.accesskey      "d">
 <!ENTITY manual-edit.label               "Elle yapılandırma">
 <!ENTITY manual-edit.accesskey           "E">
-<!ENTITY switch-to-provisioner.label     "Get a new account">
-<!ENTITY switch-to-provisioner.accesskey "G">
+<!ENTITY switch-to-provisioner.label     "Yeni hesap al">
+<!ENTITY switch-to-provisioner.accesskey "Y">
 
 
 <!ENTITY warning.label                   "Uyarı!">
@@ -65,7 +65,7 @@
 <!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
-<!ENTITY createAccount.label             "Hesap yarat">
+<!ENTITY createAccount.label             "Hesabı oluştur">
 <!ENTITY createAccount.accesskey         "H">
 <!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
      the incoming or outgoing servers, then the page that pops up will have

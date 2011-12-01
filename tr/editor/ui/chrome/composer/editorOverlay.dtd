@@ -94,8 +94,8 @@
 <!ENTITY editLinkCmd.accesskey "i">
 
 <!-- Font Face SubMenu -->
-<!ENTITY FontFaceSelect.tooltip "Bir yazıtipi seçin">
-<!ENTITY fontfaceMenu.label "Yazıtipi">
+<!ENTITY FontFaceSelect.tooltip "Bir yazı tipi seçin">
+<!ENTITY fontfaceMenu.label "Yazı tipi">
 <!ENTITY fontfaceMenu.accesskey "Y">
 <!ENTITY fontVarWidth.label "Değişken genişlik">
 <!ENTITY fontVarWidth.accesskey "D">
@@ -110,7 +110,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
-<!ENTITY FontSizeSelect.tooltip "Yazıtipi boyutu seç">
+<!ENTITY FontSizeSelect.tooltip "Yazı tipi boyutu seç">
 <!ENTITY decreaseFontSize.label "Daha küçük">
 <!ENTITY decreaseFontSize.accesskey "h">
 <!ENTITY decreaseFontSize.key "-">
@@ -358,7 +358,7 @@
 
 <!-- Editor toolbar -->
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Küçük yazı boyutu">
-<!ENTITY increaseFontSizeToolbarCmd.tooltip "Büyük yazıtipi boyutu">
+<!ENTITY increaseFontSizeToolbarCmd.tooltip "Daha büyük yazı tipi boyutu">
 <!ENTITY boldToolbarCmd.tooltip "Kalın">
 <!ENTITY italicToolbarCmd.tooltip "Eğik">
 <!ENTITY underlineToolbarCmd.tooltip "Altı çizgili">

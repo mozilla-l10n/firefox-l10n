@@ -17,8 +17,8 @@
 <!ENTITY encryption.certificate_clear.button "Temizle">
 <!ENTITY encryption.certificate_clear.accesskey "z">
 <!ENTITY signingGroupTitle.label "Sayısal imza">
-<!ENTITY signMessage.label "Postaları Sayısal İmzala (Öntanımlı)">
-<!ENTITY signMessage.accesskey "S">
+<!ENTITY signMessage.label "Postaları dijital olarak imzala (öntanımlı)">
+<!ENTITY signMessage.accesskey "d">
 <!ENTITY signingCert.message "Aşağıdaki kişisel onay belgesini kullan:">
 
 <!ENTITY certificates.label "Onay belgeleri">

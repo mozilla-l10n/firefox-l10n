@@ -1,33 +1,33 @@
-<!ENTITY window.title "Welcome to &brandShortName;">
-<!ENTITY header.label "Want a new email address for &brandShortName;?">
-<!ENTITY other.languages "We are only displaying the providers offering addresses in your area.  Click here to show all providers.">
-<!ENTITY error.line1 "Sorry, we could not find any suggested email addresses.">
-<!ENTITY error.line2 "You try can search for nicknames or any other term to find more emails">
+<!ENTITY window.title "&brandShortName; uygulamasına hoş geldiniz">
+<!ENTITY header.label "&brandShortName; için yeni bir e-posta adresi ister misiniz?">
+<!ENTITY other.languages "Yalnızca sizin bölgenize adres sunan sağlayıcıları görüntülüyoruz. Tüm sağlayıcıları görmek için buraya tıklayın.">
+<!ENTITY error.line1 "Üzgünüz, hiçbir e-posta adresi önerisi bulamadık.">
+<!ENTITY error.line2 "Daha fazla e-posta bulmak için rumuz veya başka bir terim araması yapmayı deneyebilirsiniz.">
 
 <!-- LOCALIZATION NOTE(error.suggest.before, error.suggest.middle, error.suggest.after):
      error.suggest.before, error.suggest.middle, and error.suggest.after all go into
      one line with error.suggest.middle that links to a site which provides download
      of free account alternatives. -->
-<!ENTITY error.suggest.before "Also you might try one of the ">
-<!ENTITY error.suggest.middle "free email account alternatives">
-<!ENTITY error.suggest.after ".">
+<!ENTITY error.suggest.before "Ayrıca ">
+<!ENTITY error.suggest.middle "bedava e-posta hesabı alternatiflerinden birini">
+<!ENTITY error.suggest.after " deneyebilirsiniz.">
 
 <!-- LOCALIZATION NOTE(success.title.before, success.title.after):
      success.title.before and success.title.after all go into one line, wrapping
      around the name that the user has typed in to the search input. -->
-<!ENTITY success.title.before "Hello ">
-<!ENTITY success.title.after ", the following email addresses are available to you:">
-<!ENTITY success.tip "(You can also search for nicknames or any other term to find more emails)">
-<!ENTITY partnership.description "In partnership with several providers, &brandShortName; can offer you a new email account. Just fill in your first and last name, or any other words you’d like, in the fields above to get started.">
+<!ENTITY success.title.before "Merhaba ">
+<!ENTITY success.title.after ", aşağıdaki e-posta adresleri sizin için uygun olabilir:">
+<!ENTITY success.tip "(Daha fazla e-posta bulmak için rumuz veya başka bir terim araması da yapabilirsiniz.)">
+<!ENTITY partnership.description "Çeşitli sağlayıcılarla ortaklık kuran &brandShortName; size yeni bir e-posta hesabı önerebilir. Başlamak için yukarıdaki alana adınızı ve soyadınızı veya istediğiniz diğer kelimeleri yazmanız yeterlidir.">
 <!ENTITY existing.header "Kullanmak istediğiniz bir adresiniz zaten var mı?">
 <!ENTITY tinyheader.title "Adresiniz var mı?">
-<!ENTITY tinyheader.existing "Skip this and use my existing email">
-<!ENTITY content.close "I think I’ll configure my account later.">
+<!ENTITY tinyheader.existing "Bunu geç, mevcut e-postamı kullanacağım">
+<!ENTITY content.close "Hesabımı daha sonra yapılandıracağım.">
 <!ENTITY successful.title "Tebrikler!">
 <!ENTITY successful.successMessage "Hesabınızı başarıyla kurdunuz.">
-<!ENTITY successful.write "Write some email">
-<!ENTITY successful.write.desc "Let your friends and family know about your new address.<br/> That’s why you got this new account, isn’t it?">
-<!ENTITY successful.customize "Customize &brandShortName; with some cool add-ons">
+<!ENTITY successful.write "Birkaç e-posta yazın">
+<!ENTITY successful.write.desc "Arkadaşlarınıza ve akrabalarınıza yeni adresinizi duyurun.<br/> Zaten bu yeni hesabı bunun için oluşturmadınız mı?">
+<!ENTITY successful.customize "&brandShortName; uygulamasını eklentilerle özelleştirin">
 <!ENTITY successful.customize.desc "There are thousands of add-ons that let you customize &brandShortName; to make it fit your specific needs.">
 <!ENTITY successful.attach "E-postama kişisel bir imza ekle">
 <!ENTITY successful.attach.desc "You can automatically attach a quote or some information about yourself to the end of every message you send.">

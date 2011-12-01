@@ -40,7 +40,7 @@
 <!ENTITY pageColors.label "Sayfa renkleri">
 <!ENTITY defaultColorsRadio.label "Okuyucunun öntanımlı renkleri (Sayfadaki renkleri ayarlama)">
 <!ENTITY defaultColorsRadio.accessKey "d">
-<!ENTITY defaultColorsRadio.tooltip "Sadece okuyucunun gözatıcı ayarlarrındaki renkleri kullan">
+<!ENTITY defaultColorsRadio.tooltip "Sadece okuyucunun tarayıcısındaki renk ayarlarını kullan">
 <!ENTITY customColorsRadio.label "Özel renkleri kullan:">
 <!ENTITY customColorsRadio.accessKey "r">
 <!ENTITY customColorsRadio.tooltip "Bu renkler okuyucunun gözatıcı ayarlarından önceliklidir">
@@ -58,5 +58,5 @@
 <!ENTITY colon.character ":">
 <!ENTITY backgroundImage.label "Arkaplan resmi:">
 <!ENTITY backgroundImage.accessKey "k">
-<!ENTITY backgroundImage.tooltip "Bir görüntü dosyasını sayfanızda zemin gibi kullanın">
+<!ENTITY backgroundImage.tooltip "Bir görüntü dosyasını sayfanızda arka plan olarak kullanın">
 
