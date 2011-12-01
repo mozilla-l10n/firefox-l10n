@@ -12,32 +12,32 @@
 
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
-<!ENTITY rights.intro-point1a "&brandShortName; aşağıdaki şartlar altında dağıtılmaktadır (hukuki nedenlerden dolayı lisans metni İngilizce'dir)">
+<!ENTITY rights.intro-point1a "&brandShortName; ">
 <!ENTITY rights.intro-point1b "Mozilla Kamu Lisansı">
-<!ENTITY rights.intro-point1c ". Yani &brandShortName; serbestçe kullanılabilir, kopyalanabilir ve başkalarına dağıtılabilir. Ayrıca ihtiyaçlarınıza göre &brandShortName; kaynak kodlarını değiştirmekte de özgürsünüz. Mozilla Kamu Lisansı, değiştirdiğiniz sürümleri dağıtma hakkını da size vermektedir.">
+<!ENTITY rights.intro-point1c " şartları altında sunulmaktadır. Yani &brandShortName; serbestçe kullanılabilir, kopyalanabilir ve başkalarına dağıtılabilir. Ayrıca ihtiyaçlarınıza göre &brandShortName; kaynak kodlarını değiştirmekte de özgürsünüz. Mozilla Kamu Lisansı, değiştirdiğiniz sürümleri dağıtma hakkını da size vermektedir.">
 
-<!ENTITY rights.intro-point2a "Mozilla does not grant you any rights to the Mozilla and Thunderbird trademarks or logos. Additional information on Trademarks may be found ">
-<!ENTITY rights.intro-point2b "burada bulunabilir">
-<!ENTITY rights.intro-point2c ".">
+<!ENTITY rights.intro-point2a "Mozilla size Mozilla ve Thunderbird markalarını veya logolarını kullanma hakkını vermez. Tescilli markalarda ilgili ek bilgiler ">
+<!ENTITY rights.intro-point2b "burada">
+<!ENTITY rights.intro-point2c " bulunabilir.">
 
 <!-- point 3 text for official branded builds -->
-<!ENTITY rights.intro-point3a "Privacy policies for &vendorShortName;'s products may be found ">
-<!ENTITY rights.intro-point3b "burada listelenmelidir">
-<!ENTITY rights.intro-point3c ".">
+<!ENTITY rights.intro-point3a "&vendorShortName; gizlilik ilkeleri ">
+<!ENTITY rights.intro-point3b "burada">
+<!ENTITY rights.intro-point3c " bulunabilir.">
 
 <!-- point 3 text for unbranded builds -->
 <!ENTITY rights.intro-point3-unbranded "Bu ürünle ilgili tüm gizlilik ilkeleri burada listelenmelidir.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName; also offers optional services, such as the add-on update service; however we cannot guarantee they are 100&#37; accurate or error-free. More details, including information on how to disable the services, can be found in the ">
-<!ENTITY rights.intro-point4b "hizmet koşulları">
-<!ENTITY rights.intro-point4c ".">
+<!ENTITY rights.intro-point4a "&brandShortName;, eklenti güncelleme hizmeti gibi ek hizmetler sunar, ancak bunların kesin ve hatasız olduklarını garanti edemeyiz. Bu hizmetlerin devre dışı bırakılma yönergeleri de dâhil olmak üzere daha fazla bilgi ">
+<!ENTITY rights.intro-point4b "hizmet koşullarında">
+<!ENTITY rights.intro-point4c " bulunabilir.">
 
 <!-- point 4 text for unbranded builds -->
-<!ENTITY rights.intro-point4a-unbranded "Bu ürün web hizmetleriyle bağlantı kuruyorsa, hizmet(ler) ile ilgili tüm hizmet koşulları">
-<!ENTITY rights.intro-point4b-unbranded "Web Sitesi Hizmetleri 
+<!ENTITY rights.intro-point4a-unbranded "Bu ürün web hizmetleriyle bağlantı kuruyorsa, hizmet(ler) ile ilgili tüm hizmet koşulları ">
+<!ENTITY rights.intro-point4b-unbranded "Web Sitesi Hizmetleri
 ">
-<!ENTITY rights.intro-point4c-unbranded "bölümüne bağlanmalıdır.">
+<!ENTITY rights.intro-point4c-unbranded " bölümüne bağlanmalıdır.">
 
 <!ENTITY rights.webservices-header "&brandFullName; Web Sitesi Hizmetleri">
 

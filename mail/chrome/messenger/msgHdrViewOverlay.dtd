@@ -50,7 +50,7 @@
 <!ENTITY dateField3.label "Tarih ">
 <!ENTITY userAgentField3.label "User agent ">
 <!ENTITY referencesField3.label "References ">
-<!ENTITY messageIdField3.label "Message ID ">
+<!ENTITY messageIdField3.label "İleti kimliği ">
 <!ENTITY inReplyToField3.label "In reply to ">
 <!ENTITY originalWebsite3.label "Web sitesi ">
 
@@ -58,17 +58,17 @@
 <!ENTITY editMessageButton.label "Düzenle…">
 <!ENTITY hdrArchiveButton1.label "Arşivle">
 <!ENTITY hdrArchiveButton1.tooltip "Bu iletiyi arşivle">
-<!ENTITY hdrSmartReplyButton1.label "Smart Reply">
+<!ENTITY hdrSmartReplyButton1.label "Akıllı yanıt">
 <!ENTITY hdrReplyButton1.label "Yanıtla">
 <!ENTITY hdrReplyButton1.tooltip "Bu iletiyi yanıtla">
 <!ENTITY hdrReplyAllButton1.label "Tümüne yanıtla">
 <!ENTITY hdrReplyAllButton1.tooltip "Göndereni ve tüm alıcıları yanıtla">
 <!ENTITY hdrReplyListButton1.label "Reply List">
-<!ENTITY hdrReplyListButton1.tooltip "Reply to mailing list">
+<!ENTITY hdrReplyListButton1.tooltip "Posta listesini yanıtla">
 <!ENTITY hdrForwardButton1.label "İlet">
 <!ENTITY hdrForwardButton1.tooltip "Bu iletiyi ilet">
 <!ENTITY hdrJunkButton1.label "Gereksiz">
-<!ENTITY hdrJunkButton1.tooltip "Mark this message as junk">
+<!ENTITY hdrJunkButton1.tooltip "Bu iletiyi gereksiz olarak işaretle">
 <!ENTITY hdrTrashButton1.label "Sil">
 <!ENTITY hdrTrashButton1.tooltip "Bu iletiyi sil">
 
@@ -117,7 +117,7 @@
 <!ENTITY deleteAllAttachmentsCmd.label    "Tümünü sil…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "m">
 
-<!ENTITY openAttachment.tooltip "Open the attached file">
+<!ENTITY openAttachment.tooltip "Ekli dosyayı aç">
 
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Kaydet">

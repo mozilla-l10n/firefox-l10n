@@ -1,6 +1,6 @@
 <!ENTITY identityDialog.style "width: 67ch;">
 <!ENTITY identityTitle.label "Kimlik ayarları">
-<!ENTITY identityListDesc.label "Bu kimlik için ayarları düzenle:">
+<!ENTITY identityListDesc.label "Bu kimlik için ayarları yapılandır:">
 
 <!ENTITY settingsTab.label       "Ayarlar">
 <!ENTITY copiesFoldersTab.label "Kopyalar ve dizinler">

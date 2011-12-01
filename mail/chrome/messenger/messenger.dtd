@@ -19,7 +19,7 @@
      -->
 <!ENTITY moveToNewWindow.label "Yeni pencereye taşı">
 <!ENTITY moveToNewWindow.accesskey "n">
-<!ENTITY newVirtualFolderCmd.label "Kayıtlı arama sonuçları…">
+<!ENTITY newVirtualFolderCmd.label "Kayıtlı arama…">
 <!ENTITY newVirtualFolderCmd.accesskey "s">
 <!ENTITY newOtherAccountsCmd.label "Diğer hesaplar…">
 <!ENTITY newOtherAccountsCmd.accesskey "D">
@@ -525,7 +525,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY compactButton.label "Sıkıştır">
 
 <!-- Mail Toolbar Tooltips-->
-<!ENTITY advancedButton.tooltip "Gelişmiş arama">
+<!ENTITY advancedButton.tooltip "Gelişmiş ileti arama">
 <!ENTITY getMsgButton.tooltip "Yeni iletileri indir">
 <!ENTITY getAllNewMsgCmd.label "Tüm yeni postaları indir">
 <!ENTITY getAllNewMsgCmd.accesskey "T">
@@ -611,7 +611,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY searchRecipient.label "Kime veya Cc">
 <!ENTITY searchSubjectOrRecipientMenu.label "Konu, kime veya ilgili kopya">
 <!ENTITY searchMessageBody.label "İleti gövdesi">
-<!ENTITY saveAsVirtualFolderMenu.label "Arama dizini olarak kaydet…">
+<!ENTITY saveAsVirtualFolderMenu.label "Aramayı dizin olarak kaydet…">
 
 <!-- Thread Pane -->
 <!ENTITY threadColumn.label "Dizilim">
@@ -789,7 +789,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      to get to the box faster.  If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
      -->
-<!ENTITY searchAllMessages.label.base "Search all messages… #1">
+<!ENTITY searchAllMessages.label.base "Tüm iletilerde ara… #1">
 <!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key).  We use the key defined in

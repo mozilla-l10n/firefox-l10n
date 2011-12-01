@@ -7,7 +7,7 @@
 <!ENTITY testpilot.settings.readyToSubmit.label         "Bir araştırma gönderilmeye hazırsa">
 <!ENTITY testpilot.settings.newStudy.label              "Yeni bir araştırma varsa">
 <!ENTITY testpilot.settings.hasNewResults.label         "Bir çalışmanın sonuçları açıklanmışsa">
-<!ENTITY testpilot.settings.alwaysSubmitData.shortLabel "Always submit my data (don't ask me)">
+<!ENTITY testpilot.settings.alwaysSubmitData.shortLabel "Verilerimi her zaman gönder (bana sorma)">
 <!ENTITY testpilot.allYourStudies.label                 "Tüm kullanıcı araştırmalarınız...">
 <!ENTITY testpilot.about.label                          "Test Pilotu hakkında">
 
@@ -28,10 +28,10 @@
 <!-- Firefox 4 beta version UI -->
 <!ENTITY testpilot.enable.label                         "Kullanıcı araştırmalarını devreye sok">
 <!ENTITY testpilot.feedbackbutton.label                 "Geri bildirim">
-<!ENTITY testpilot.happy.label                          "Firefox beni sevindirdi, çünkü...">
-<!ENTITY testpilot.sad.label                            "Firefox beni üzdü, çünkü...">
-<!ENTITY testpilot.happy.thunderbirdLabel               "Thunderbird Made Me Happy Because…">
-<!ENTITY testpilot.sad.thunderbirdLabel                 "Thunderbird Made Me Sad Because…">
+<!ENTITY testpilot.happy.label                          "Firefox beni sevindirdi, çünkü…">
+<!ENTITY testpilot.sad.label                            "Firefox beni üzdü, çünkü…">
+<!ENTITY testpilot.happy.thunderbirdLabel               "Thunderbird beni sevindirdi, çünkü…">
+<!ENTITY testpilot.sad.thunderbirdLabel                 "Thunderbird beni üzdü, çünkü…">
 <!ENTITY testpilot.broken.label                         "Bu sitenin çalışmadığını bildir...">
 <!ENTITY testpilot.idea.label                           "Bize öneride bulunun...">
 

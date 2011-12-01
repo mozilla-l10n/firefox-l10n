@@ -6,7 +6,7 @@
 <!-- Entities for Account Type page -->
 
 <!ENTITY accountSetupInfo2.label "İleti almak için, öncelikle bir hesap kurmalısınız.">
-<!ENTITY accountTypeTitle.label "Yeni Hesap Ayarları">
+<!ENTITY accountTypeTitle.label "Yeni Hesap Kurulumu">
 <!ENTITY accountTypeDesc2.label "Bu sihirbaz, hesap kurulumu için gereken bilgileri toplayacaktır. İstenen bilgilere sahip değilseniz lütfen sistem yöneticinizle veya internet servis sağlayıcınızla iletişime geçin.">
 <!ENTITY accountTypeDirections.label "Ayarlamak istediğiniz hesap türünü seçin:">
 <!ENTITY accountTypeMail.label "E-posta hesabı">
@@ -63,7 +63,7 @@
      text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix "Giden E-posta (SMTP) için mevcut &quot;">
-<!ENTITY haveSmtp1.suffix2 "&quot; sunucusu kullanılacak. Giden posta yapılandırması hesap ayarlarından değiştirilebilir.">
+<!ENTITY haveSmtp1.suffix2 "&quot; kullanılacak. Giden posta sunucularını hesap ayarlarından değiştirebilirsiniz.">
 
 <!-- Entities for Login page -->
 
@@ -81,13 +81,13 @@
      text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Giden E-posta (SMTP) için mevcut &quot;">
-<!ENTITY haveSmtp2.suffix2 "&quot; kullanıcı adı kullanılacaktır. Giden posta yapılandırması hesap ayarlarından değiştirilebilir.">
+<!ENTITY haveSmtp2.suffix2 "&quot; kullanılacak. Giden posta sunucularını hesap ayarlarından değiştirebilirsiniz.">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Giden E-posta (SMTP) için sunucu ismi, &quot;">
-<!ENTITY haveSmtp3.suffix2 "&quot;,  gelen e-posta için sunucu ismi ile aynı. Gelen sunucu için kullanıcı isminiz erişim amaçlı kullanılacak. Giden sunucu ayarlarınızı Posta ve haber grubu hesap ayarları bölümünden ayarlayabilirsiniz.">
+<!ENTITY haveSmtp3.suffix2 "&quot;,  gelen posta sunucunuzla aynı. Buna erişmek için gelen sunucusu kullanıcı adınız kullanılacak. Giden posta sunucularını hesap ayarlarından değiştirebilirsiniz.">
 
 <!-- Entities for Account name page -->
 
@@ -110,6 +110,6 @@
 <!ENTITY deferStorageDesc.label "Bu hesaba ait e-postaları kendi dizininde saklamak istiyorsanız, bu kutucuğu işaretlemeyin. Bu işlem hesabın üst seviye olarak görünmesini sağlayacaktır. Aksi takdirde, Yerel Gelen Kutusu hesabının parçası olacaktır.">
 <!ENTITY deferStorage.label "Genel gelen kutusunu kullan (postalar yerel dizinde kaydedilir)">
 <!ENTITY deferStorage.accesskey "G">
-<!ENTITY clickFinish.label "Hesap sihirbazından çıkmak ve ayarları kaydetmek için Bitir'i tıklayın.">
-<!ENTITY clickFinish.labelMac "Hesap sihirbazınızdan çıkmak ve ayarları kaydetmek için Bitir'i tıklayın.">
+<!ENTITY clickFinish.label "Bu ayarları kaydederek hesap sihirbazından çıkmak için Bitir'i tıklayın.">
+<!ENTITY clickFinish.labelMac "Bu ayarları kaydederek hesap sihirbazından çıkmak için Bitir'i tıklayın.">
 

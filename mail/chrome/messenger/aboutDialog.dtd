@@ -20,7 +20,7 @@
 <!ENTITY bottomLinks.rights         "Son kullanıcı hakları">
 
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
-<!ENTITY bottomLinks.privacy        "gizlilik politikasını">
+<!ENTITY bottomLinks.privacy        "Gizlilik ilkeleri">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingForUpdates  "Güncelleme denetleniyor...">

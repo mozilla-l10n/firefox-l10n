@@ -10,7 +10,7 @@
 <!ENTITY addExtension.accesskey               "d">
 
 <!ENTITY htmlComposeHeader.label              "HTML">
-<!ENTITY font.label                           "Yazıtipi:">
+<!ENTITY font.label                           "Yazı tipi:">
 <!ENTITY font.accesskey                       "Y">
 <!ENTITY size.label                           "Boyut:">
 <!ENTITY size.accesskey                       "B">
@@ -18,8 +18,8 @@
 <!ENTITY fontColor.accesskey                  "t">
 <!ENTITY bgColor.label                        "Artalan rengi:">
 <!ENTITY bgColor.accesskey                    "n">
-<!ENTITY restoreHTMLDefaults.label            "Öntanımlı değerler">
-<!ENTITY restoreHTMLDefaults.accesskey        "ğ">
+<!ENTITY restoreHTMLDefaults.label            "Öntanımlıları geri yükle">
+<!ENTITY restoreHTMLDefaults.accesskey        "g">
 
 <!ENTITY spellCheck.label                     "Yazım hatalarını göndermeden önce kontrol et">
 <!ENTITY spellCheck.accesskey                 "a">

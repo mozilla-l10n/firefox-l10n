@@ -5,7 +5,7 @@
 <!ENTITY itemCookies.label       "Web içeriği">
 
 <!-- Junk Mail Controls -->
-<!ENTITY junkMail.intro "Öntanımlı gereksiz e-posta özelliklerini ayarlayınız. Hesap bazlı özellikler hesap ayarlarında bulabilirsiniz.">
+<!ENTITY junkMail.intro "Öntanımlı gereksiz posta ayarlarınızı yapılandırın. Hesap bazlı gereksiz posta ayarları, hesap ayarlarından yapılandırılabilir.">
 <!ENTITY manualMark.label "İletileri gereksiz olarak işaretlediğimde:">
 <!ENTITY manualMark.accesskey "l">
 <!ENTITY manualMarkModeMove.label "Hesaba ait &quot;Gereksiz&quot; dizinine taşı">
