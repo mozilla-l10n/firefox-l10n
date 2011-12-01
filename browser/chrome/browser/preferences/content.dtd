@@ -19,7 +19,7 @@
 
 <!ENTITY  fontsAndColors.label        "Yazıtipleri ve renkler">
 
-<!ENTITY  defaultFont.label           "Öntanımlı yazıtipi:">
+<!ENTITY  defaultFont.label           "Öntanımlı yazı tipi:">
 <!ENTITY  defaultFont.accesskey       "z">
 <!ENTITY  defaultSize.label           "Öntanımlı boyut:">
 <!ENTITY  defaultSize.accesskey       "b">

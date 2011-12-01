@@ -27,7 +27,7 @@
 <!ENTITY colorspaceInput.accesskey "n">
 
 <!ENTITY fontsGroup.label "Yazıtipleri:">
-<!ENTITY downloadFonts.label "Yazıcı için yazıtipi indirilsin mi?">
+<!ENTITY downloadFonts.label "Yazı tiplerini yazıcıya indir">
 <!ENTITY downloadFonts.accesskey "d">
 
 <!ENTITY edgeMarginInput.label "Kenar boşluk uzunluğunun sınırı">
