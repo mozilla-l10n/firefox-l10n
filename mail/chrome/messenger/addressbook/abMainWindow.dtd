@@ -87,12 +87,18 @@
 <!ENTITY showTaskbarCmd.accesskey                       "S">
 <!ENTITY customizeToolbar.label                         "Modifitgar…">
 <!ENTITY customizeToolbar.accesskey                     "M">
-<!ENTITY showContactPane.label                          "Prevista dal contact">
-<!ENTITY showContactPane.accesskey                      "C">
+<!ENTITY layoutMenu.label                               "Disposiziun">
+<!ENTITY layoutMenu.accesskey                           "D">
+<!ENTITY showDirectoryPane.label                        "Trav dad ordinaturs">
+<!ENTITY showDirectoryPane.accesskey                    "T">
+<!ENTITY showContactPane2.label                         "Prevista dal contact">
+<!ENTITY showContactPane2.accesskey                     "C">
 <!ENTITY menu_ShowNameAs.label                          "Mussar suandantamain il num">
 <!ENTITY menu_ShowNameAs.accesskey                      "N"> 
-<!ENTITY firstLastCmd.label                             "Prenum num">
-<!ENTITY firstLastCmd.accesskey                         "F"> 
+<!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
+because displayed names don't have the comma in between. -->
+<!ENTITY firstLastCmd2.label                            "Prenum num">
+<!ENTITY firstLastCmd2.accesskey                        "F"> 
 <!ENTITY lastFirstCmd.label                             "Num, prenum">
 <!ENTITY lastFirstCmd.accesskey                         "L">
 <!ENTITY displayNameCmd.label                           "Num per mussar">
