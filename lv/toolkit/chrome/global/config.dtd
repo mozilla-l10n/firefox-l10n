@@ -43,9 +43,9 @@
 <!ENTITY aboutWarningButton.label "Goda vārds, es darbošos uzmanīgi!">
 <!ENTITY aboutWarningCheckbox.label "Nākamreiz rādīt šo brīdinājumu">
 
-<!ENTITY filterPrefs.label "Filtrs:">
-<!ENTITY filterPrefs.accesskey "F">
-<!ENTITY focusFilter.key "f">
+<!ENTITY searchPrefs.label "Meklēt:">
+<!ENTITY searchPrefs.accesskey "l">
+<!ENTITY focusSearch.key "l">
 <!-- Columns -->
 
 <!ENTITY prefColumn.label "Iestatījuma nosaukums">

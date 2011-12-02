@@ -2,6 +2,8 @@
 <!ENTITY playButton.pauseLabel "Apturēt">
 <!ENTITY muteButton.muteLabel "Apklusināt">
 <!ENTITY muteButton.unmuteLabel "Atapklusināt">
+<!ENTITY fullscreenButton.enterfullscreenlabel "Pa visu ekrānu">
+<!ENTITY fullscreenButton.exitfullscreenlabel "Aizvērt pilnekrāna režīmu">
 
 <!ENTITY stats.media "Vide">
 <!ENTITY stats.size "Izmērs">
