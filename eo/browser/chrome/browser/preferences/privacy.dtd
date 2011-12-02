@@ -66,7 +66,7 @@
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
 <!ENTITY  rememberHistory.label      "Memori mian retesploran historion">
-<!ENTITY  rememberHistory.accesskey  "b">
+<!ENTITY  rememberHistory.accesskey  "r">
 
 <!ENTITY  rememberDownload.label         "Memori mian elŝutan historion">
 <!ENTITY  rememberDownload.accesskey     "e">
@@ -75,7 +75,7 @@
 <!ENTITY  rememberSearchForm.accesskey   "s">
 
 <!ENTITY  clearOnClose.label             "Forviŝi historion kiam &brandShortName; finas">
-<!ENTITY  clearOnClose.accesskey         "f">
+<!ENTITY  clearOnClose.accesskey         "v">
 
 <!ENTITY  clearOnCloseSettings.label     "Agordoj…">
 <!ENTITY  clearOnCloseSettings.accesskey "a">

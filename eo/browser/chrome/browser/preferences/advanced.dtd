@@ -62,18 +62,18 @@
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey       "F">
 <!ENTITY enableAddonsUpdate2.label       "Aldonaĵoj">
-<!ENTITY enableAddonsUpdate2.accesskey   "n">
+<!ENTITY enableAddonsUpdate2.accesskey   "A">
 <!ENTITY enableSearchUpdate.label        "Serĉiloj">
-<!ENTITY enableSearchUpdate.accesskey    "i">
+<!ENTITY enableSearchUpdate.accesskey    "S">
 <!ENTITY whenUpdatesFound.label          "Kiam haveblas ĝisdatigoj de &brandShortName;:">
 <!ENTITY askMe.label                     "Demandi al mi kion mi volas fari">
-<!ENTITY askMe.accesskey                 "e">
+<!ENTITY askMe.accesskey                 "D">
 <!ENTITY modeAutomatic.label             "Aŭtomate elŝuti kaj instali la ĝisdatigon">
 <!ENTITY modeAutomatic.accesskey         "e">
 <!ENTITY modeAutoAddonWarn.label         "Averti se tio malaktivigos iun ajn el miaj aldonaĵoj">
 <!ENTITY modeAutoAddonWarn.accesskey     "V">
 <!ENTITY updateHistory.label             "Montri la historion de ĝisdatigoj">
-<!ENTITY updateHistory.accesskey         "h">
+<!ENTITY updateHistory.accesskey         "M">
 
 <!ENTITY offlineNotify.label             "Diri al mi kiam retejo petas la konservado de datumojn por uzi malkonektite">
 <!ENTITY offlineNotify.accesskey         "D">
