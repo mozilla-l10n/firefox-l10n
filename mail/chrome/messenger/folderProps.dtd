@@ -45,7 +45,7 @@
 <!ENTITY folderCharsetTab.accesskey              "e">
 <!ENTITY folderCharsetOverride.label             "對此資料夾內所有郵件或文章套用預設值 (忽略 MIME 指定的字元集與自動偵測結果)">
 <!ENTITY folderCharsetOverride.accesskey         "A">
-<!ENTITY folderRebuildSummaryFileTip2.label      "重建摘要檔索引">
+<!ENTITY folderRebuildSummaryFileTip2.label      "重建摘要檔案索引">
 <!ENTITY folderRebuildSummaryFile2.label         "修復資料夾">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
 <!ENTITY folderRebuildSummaryFile.explanation    "有時資料夾索引（.msf）檔可能會毀損，有些郵件可能會突然消失；已經被刪除的郵件也可能持續存在。重建資料夾可能可以修正這些問題。">
@@ -58,7 +58,7 @@
 <!ENTITY daysOld.label "天的郵件或文章">
 <!ENTITY message.label "封以外全部刪除">
 <!ENTITY retentionCleanup.label "為了減少佔用的磁碟空間，舊郵件或文章可以永遠刪除">
-<!ENTITY retentionCleanupImap.label "欲回復磁碟空間，可以同時永久刪除舊郵件的本機副本和遠端的原始郵件。">
+<!ENTITY retentionCleanupImap.label "欲回復磁碟空間，可以永久刪除舊郵件的本機副本和遠端的原始郵件。">
 <!ENTITY retentionCleanupPop.label "欲回復磁碟空間，可以永久刪除舊的郵件包括遠端伺服器上的那一份。">
 <!ENTITY retentionDeleteMsg.label "刪除存放超過">
 <!ENTITY retentionDeleteMsg.accesskey "m">

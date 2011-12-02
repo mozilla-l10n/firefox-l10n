@@ -5,7 +5,7 @@
 <!ENTITY itemCookies.label       "網站內容">
 
 <!-- Junk Mail Controls -->
-<!ENTITY junkMail.intro "設定您的預設垃圾郵件設定。 帳號個別設定可於帳號設定中修改。">
+<!ENTITY junkMail.intro "您可以到帳號設定調整各個帳號的預設垃圾郵件處理方式。">
 <!ENTITY manualMark.label "當標示郵件為垃圾信時:">
 <!ENTITY manualMark.accesskey "W">
 <!ENTITY manualMarkModeMove.label "移動到該帳號的「垃圾郵件」資料夾">

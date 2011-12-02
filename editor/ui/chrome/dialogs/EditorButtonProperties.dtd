@@ -38,7 +38,7 @@
 
 <!ENTITY Settings.label "設定">
 
-<!ENTITY ButtonType.label "種類">
+<!ENTITY ButtonType.label "類型">
 <!ENTITY ButtonType.accesskey "T">
 <!ENTITY submit.value "送出">
 <!ENTITY reset.value "重設">
