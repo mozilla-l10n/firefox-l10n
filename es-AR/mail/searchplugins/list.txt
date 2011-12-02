@@ -1,7 +1,8 @@
 google
 yahoo-ar
+bing
+twitter
 amazondotcom
 mercadolibre-ar
-creativecommons
 drae
 wikipedia-es
