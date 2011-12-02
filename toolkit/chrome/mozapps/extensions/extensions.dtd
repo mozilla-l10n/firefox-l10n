@@ -1,5 +1,6 @@
 <!ENTITY addons.windowTitle "Управление дополнениями">
 <!ENTITY search.placeholder "Поиск среди дополнений">
+<!ENTITY search.commandkey "f">
 <!ENTITY loading.label "Загрузка…">
 <!ENTITY listEmpty.installed.label "У вас не установлено ни одного дополнения данного типа">
 <!ENTITY listEmpty.availableUpdates.label "Обновлений не найдено">
