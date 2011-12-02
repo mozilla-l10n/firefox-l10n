@@ -56,6 +56,11 @@
 <!ENTITY remoteXUL.title "원격 XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>현재 문제를 해결하려면 웹 사이트 관리자에게 연락하시기 바랍니다.</li></ul></p>">
 
+<!ENTITY notCached.title "문서 만료">
+<!ENTITY notCached.longDesc "<p>요청한 문서는 웹 브라우저 캐시에서 사용할 수 없습니다.</p>
+<ul>
+ <li>보안 문제 때문에 브라우저는 다시 자동적으로 민감한 정보를 재전송하지 않습니다.</li>
+ <li>웹 페이지를 다시 받으려면 다시 전송 버튼을 눌러주십시오.</li></ul>">
 
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
