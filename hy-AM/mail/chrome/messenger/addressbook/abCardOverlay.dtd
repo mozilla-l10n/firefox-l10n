@@ -174,4 +174,3 @@ content in HTML messages from this contact.">
 <!ENTITY PhotoURL.accesskey             "b">
 <!ENTITY PhotoURL.placeholder           "Paste or type the web address of a photo">
 <!ENTITY UpdatePhoto.label              "Update">
-<!ENTITY UpdatePhoto.accesskey          "U">

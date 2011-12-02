@@ -50,4 +50,3 @@
 <!ENTITY fieldMapImport.fieldListTitle "Հասցեագրքի դաշտերը">
 <!ENTITY fieldMapImport.dataTitle "Ներմուծվող գրառման տվյալը">
 <!ENTITY fieldMapImport.skipFirstRecord.label "First record contains field names">
-<!ENTITY fieldMapImport.skipFirstRecord.accessKey "F">

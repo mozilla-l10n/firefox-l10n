@@ -1,6 +1,7 @@
 amazondotcom
+bing
 eBay
 google
-wikipedia-hy
+twitter
+wikipedia
 yahoo
-list-am

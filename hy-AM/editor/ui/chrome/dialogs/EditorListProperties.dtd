@@ -50,4 +50,3 @@
 <!ENTITY changeEntireListRadio.label "Change entire list">
 <!ENTITY changeEntireListRadio.accessKey "C">
 <!ENTITY changeSelectedRadio.label "Change just selected items">
-<!ENTITY changeSelectedRadio.accessKey "I">

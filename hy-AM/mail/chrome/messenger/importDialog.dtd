@@ -76,4 +76,3 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY select.label             "or select the type of material to import:">
 
 <!ENTITY title.label              "Title">
-<!ENTITY processing.label         "Importing…">
