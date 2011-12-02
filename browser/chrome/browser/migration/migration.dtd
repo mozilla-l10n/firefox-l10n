@@ -39,8 +39,6 @@
 <!ENTITY importFromIE.accesskey         "M">
 <!ENTITY importFromNothing.label        "Importera inte någonting">
 <!ENTITY importFromNothing.accesskey    "I">
-<!ENTITY importFromSeamonkey.label      "Netscape 6, 7 eller Mozilla 1.x">
-<!ENTITY importFromSeamonkey.accesskey  "N">
 <!ENTITY importFromOpera.label          "Opera">
 <!ENTITY importFromOpera.accesskey      "O">
 <!ENTITY importFromSafari.label         "Safari">
