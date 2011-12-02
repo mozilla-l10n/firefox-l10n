@@ -1,4 +1,4 @@
-<SearchPlugin xmlns="http://www.mozilla.org/2011/browser/search/">
+<SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/">
 <ShortName>Wikipedia (hy)</ShortName>
 <Description>Վիքիփեդիա՝ ազատ հանրագիտարան</Description>
 <InputEncoding>UTF-8</InputEncoding>
