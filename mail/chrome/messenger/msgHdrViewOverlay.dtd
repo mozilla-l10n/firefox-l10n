@@ -118,6 +118,8 @@
 <!ENTITY deleteAllAttachmentsCmd.label    "Stizzar tuts…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
 
+<!ENTITY openAttachment.tooltip "Avrir la datoteca agiuntada">
+
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Memorisar">
 <!ENTITY saveAttachmentButton1.tooltip     "Memorisar la datoteca agiuntada">
