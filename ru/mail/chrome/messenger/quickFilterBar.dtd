@@ -1,3 +1,4 @@
+<!ENTITY quickFilterBar.qfbShowFilterBar.label "Быстрый фильтр">
 <!ENTITY quickFilterBar.toggleBarVisibility.menu.label "Панель быстрого фильтра">
 <!ENTITY quickFilterBar.toggleBarVisibility.menu.accesskey "а">
 <!ENTITY quickFilterBar.toggleBarVisibility.button.tooltip "Включить/выключить панель быстрого фильтра">
