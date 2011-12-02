@@ -1,0 +1,7 @@
+google
+amazon-france
+bing
+wikipedia-fr
+eBay-france
+yahoo-france
+cnrtl-tlfi-fr
