@@ -97,19 +97,10 @@
 <!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
-<!ENTITY resetContext.label		"재설정">
-<!ENTITY resetContext.accesskey		"R">
+<!ENTITY resetContext2.label		"변수 재설정">
+<!ENTITY resetContext2.accesskey		"t">
 
 <!ENTITY executeMenu.label		"실행 메뉴">
 <!ENTITY executeMenu.accesskey		"X">
 
-<!ENTITY toolsMenu.label		"개발 도구">
-<!ENTITY toolsMenu.accesskey		"T">
-
-<!ENTITY errorConsoleCmd.label		"오류 창">
-<!ENTITY errorConsoleCmd.accesskey	"C">
-<!ENTITY errorConsoleCmd.commandkey	"j">
-
-<!ENTITY webConsoleCmd.label		"웹 콘솔">
-<!ENTITY webConsoleCmd.accesskey	"W">
 <!ENTITY webConsoleCmd.commandkey	"k">
