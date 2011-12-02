@@ -16,7 +16,7 @@
 <!ENTITY rights.intro-point1b "Mozilla 公眾授權條款">
 <!ENTITY rights.intro-point1c "中的條件提供給您的。這表示您有權使用、複製、散布 &brandShortName;。我們也歡迎您自行修改 &brandShortName; 的原始碼以滿足您的需求；Mozilla 公眾授權條款也同時賦予您散布修改版本的權利。">
 
-<!ENTITY rights.intro-point2a "Mozilla 沒有給予您使用 Mozilla 與 Thunderbird 商標與 Logo 的任何權利。更多關於商標的使用條款請看">
+<!ENTITY rights.intro-point2a "Mozilla 沒有授予您使用 Mozilla 與 Thunderbird 的商標與圖示的任何權利。更多關於商標的附加資訊請參考 ">
 <!ENTITY rights.intro-point2b "這裡">
 <!ENTITY rights.intro-point2c "。">
 
@@ -29,7 +29,7 @@
 <!ENTITY rights.intro-point3-unbranded "適用此產品的隱私權保護政策應在此處列出。">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName; 提供選用的附加資訊服務，例如附加元件升級服務；但是我們無法保證它 100&#37; 準確且沒有錯誤。在">
+<!ENTITY rights.intro-point4a "&brandShortName; 提供選用的網頁資訊服務，例如附加元件升級服務；但是我們無法保證它 100&#37; 準確且沒有錯誤。在 ">
 <!ENTITY rights.intro-point4b "服務聲明條款">
 <!ENTITY rights.intro-point4c "可以找到更多資訊，包括如何停用這些服務的說明。">
 
