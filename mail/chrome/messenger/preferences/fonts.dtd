@@ -73,4 +73,3 @@
 <!ENTITY viewDefaultCharsetList.label     "Incoming Mail:">
 <!ENTITY viewDefaultCharsetList.accesskey  "I">
 <!ENTITY replyInDefaultCharset2.label     "When possible, use the default character encoding in replies">
-<!ENTITY replyInDefaultCharset2.accesskey "h">

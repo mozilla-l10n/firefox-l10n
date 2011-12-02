@@ -76,4 +76,3 @@
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.
 -->
-<!ENTITY newDirectoryWidth                 "36em">

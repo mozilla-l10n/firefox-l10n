@@ -62,7 +62,7 @@
 <!ENTITY checkSpelling.accesskey         "Տ">
 
 <!ENTITY systemDefaults.label            "Սկզբնական Վիճակ">
-<!--XXX--><!ENTITY alwaysCheckDefault.label        "Միանալուց միշտ ստուգիր, աևդյոք &brandShortName; -ը հիմնական բռաուզեր է:">
+<!ENTITY alwaysCheckDefault.label        "Միանալուց միշտ ստուգիր, աևդյոք &brandShortName; -ը հիմնական բռաուզեր է:"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "Մ">
 <!ENTITY checkNow.label                  "Հիմա Ստուգել">
 <!ENTITY checkNow.accesskey              "N">
@@ -97,22 +97,28 @@
 
 <!ENTITY updateTab.label                 "Թարմացնել">
 
-<!ENTITY autoCheck.label                 "Ինքնաբար ստուգել թարմացումներ.">
-<!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "&">
-<!ENTITY enableAddonsUpdate2.label       "Հավելումներ">
-<!ENTITY enableAddonsUpdate2.accesskey   "n">
-<!ENTITY enableSearchUpdate.label        "Փնտրամեքենաներ">
-<!ENTITY enableSearchUpdate.accesskey    "h">
-<!ENTITY whenUpdatesFound.label          "Երբ որ &brandShortName;­ի համար թարմացումներ են առկա.">
-<!ENTITY askMe.label                     "Հարցնել ինձ">
-<!ENTITY askMe.accesskey                 "Հ">
-<!ENTITY modeAutomatic.label             "Ինքնաբար բեռնավորել և տեղադրել թարմացումը">
-<!ENTITY modeAutomatic.accesskey         "d">
-<!ENTITY modeAutoAddonWarn.label         "Զգուշացրու ինձ եթե այն պիտի պասիվացնի որևէ հավելում">
-<!ENTITY modeAutoAddonWarn.accesskey     "Զ">
+<!ENTITY updateApp.label                 "&brandShortName; updates:">
+<!ENTITY updateAuto.label                "Automatically install updates (recommended: improved security)">
+<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateCheck.label               "Check for updates, but let me choose whether to install them">
+<!ENTITY updateCheck.accesskey           "C">
+<!ENTITY updateManual.label              "Never check for updates (not recommended: security risk)">
+<!ENTITY updateManual.accesskey          "N">
+
+<!ENTITY updateAutoAddonWarn.label       "Warn me if this will disable any of my add-ons">
+<!ENTITY updateAutoAddonWarn.accesskey   "W">
+
 <!ENTITY updateHistory.label             "Ցուցադրել Թարմացումների Պատմությունը">
 <!ENTITY updateHistory.accesskey         "Ց">
+
+<!ENTITY useService.label                "Use a background service to install updates">
+<!ENTITY useService.accesskey            "b">
+
+<!ENTITY updateOthers.label              "Automatically update:">
+<!ENTITY enableAddonsUpdate3.label       "Add-ons">
+<!ENTITY enableAddonsUpdate3.accesskey   "o">
+<!ENTITY enableSearchUpdate.label        "Փնտրամեքենաներ">
+<!ENTITY enableSearchUpdate.accesskey    "h">
 
 <!ENTITY offlineNotify.label             "Տեղեկացնել, երբ վեբ կայքը խնդրում է պակպանել ֆայլեր offline ռեժիմում օգտագործելու համար">
 <!ENTITY offlineNotify.accesskey         "Տ">
@@ -120,7 +126,7 @@
 <!ENTITY offlineNotifyExceptions.accesskey "x">
 
 <!ENTITY offlineAppsList.label           "Հետևյալ վեբ կայքերը խահպանել են ինֆորմացիա offline ռեժիմում օգտագործելու համար`">
-<!ENTITY offlineAppsList.height          "10em">
+<!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Ջնջել…">
 <!ENTITY offlineAppsListRemove.accesskey "Ջ">
 <!ENTITY offlineAppRemove.confirm        "Ջնջել offline ֆայլերը">

@@ -64,6 +64,9 @@
 <!ENTITY netInterrupt.title "Տվյալների Փոխանցումն Ընդհատվեց">
 <!ENTITY netInterrupt.longDesc "<p>Զննիչը հաջողությամբ կապնվել էր, սակայն տվյալների տեղափոխման ընթացքում կապը կտրվեց:</p><ul><li>Եթե իվիճակի չեք նավարկել այլ հանգույցներ, ստուգեք ցանցային կապը</li><li>Կրկի՞ն բարդությունների եք հանդիպում: Օգնության համար խորհրդակցեք ցանցային վարպետի կամ Ինտերնետը սպասարկողի հետ:</li></ul>">
 
+<!ENTITY notCached.title "Document Expired">
+<!ENTITY notCached.longDesc "<p>The requested document is not available in the browser's cache.</p><ul><li>As a security precaution, the browser does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
+
 <!ENTITY netOffline.title "Առանձ Կապի Եղանակ">
 <!ENTITY netOffline.longDesc2 "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li></ul>">
 
@@ -123,10 +126,10 @@
 
 <!ENTITY remoteXUL.title "Հեռավոր XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Խնդրում ենք, կապնվեք վեբ կայքի սեփականատերերի հետ` այս խնդրի մասին տեղեկացնելու համար:</li></ul></p>">
+
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
      this inclusion needs to be intact for that approach to work correctly.
      Please, try to keep this at the end of the file. -->
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;
-

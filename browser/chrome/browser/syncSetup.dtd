@@ -43,8 +43,7 @@
 
 <!ENTITY setup.pickSetupType.description "Եթե դուք նախկինում չեք օգտագործել &syncBrand.fullName.label; ապա դուք պետք է ստեղծեք նոր հաշիվ:">
 <!ENTITY button.createNewAccount.label "Ստեղծել նոր հաշիվ">
-<!ENTITY setup.haveAccount.label "Ես արդեն ունեմ &syncBrand.fullName.label; հաշիվ:">
-<!ENTITY button.connect.label    "Միանալ">
+<!ENTITY button.haveAccount.label      "I Have an Account">
 
 <!ENTITY setup.choicePage.title.label     "Դուք նախկինում օգտագործե՞լ եք &syncBrand.fullName.label;">
 <!ENTITY setup.choicePage.new.label       "Ես նախկինում երբեք չեմ օգտագործել &syncBrand.shortName.label;">
@@ -79,7 +78,7 @@
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 
-<!-- New Account Page 2: Sync Key -->
+<!-- My Recovery Key dialog -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName;-ը հոգում է ձեր գաղտնիության մասին">
 <!ENTITY setup.newRecoveryKeyPage.description.label "To ensure your total privacy, all of your data is encrypted prior to being uploaded. The Recovery Key which is necessary to decrypt your data is not uploaded.">
 <!ENTITY recoveryKeyEntry.label        "Your Recovery Key">
@@ -92,18 +91,16 @@
 <!ENTITY button.syncKeyBackup.save.label      "Պահպանել…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "Պ">
 
-<!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "Խնդրեմ հաստատեք որ դուք Ռոբոտ չեք">
-<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "Ավելացրեք սարք">
+<!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
+<!ENTITY pairDevice.title.label             "Pair a Device">
 <!ENTITY addDevice.showMeHow.label          "Ցույց տվեք, թե ինչպես:">
 <!ENTITY addDevice.dontHaveDevice.label     "Սարքը ինձ հետ չի">
-<!ENTITY addDevice.setup.description.label  "Ակտիվացնելու համար գնացե΄ք &syncBrand.shortName.label; Ընտրանքներ ձեր մյուս սարքում և ընտրե΄ք &#x0022;ը,Ավելացրե΄ք Device&#x0022;ը:">
+<!ENTITY pairDevice.setup.description.label  "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
 <!ENTITY addDevice.setup.enterCode.label    "Այնուհետև մուտքագրեք հետևյալ ծածկագիրը">
-<!ENTITY addDevice.dialog.description.label "Ձեր նոր սարքը ակտիվացնելու համար գնացեք &syncBrand.shortName.label; Ընտրանքներ` ձեր սարքում և ընտրեք &#x0022;ը, միացեք &#x0022;ին">
+<!ENTITY pairDevice.dialog.description.label "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
 <!ENTITY addDevice.dialog.enterCode.label   "Մուտքագրեք գաղտնաբառը, որը սարքը տրամադրում է">
 <!ENTITY addDevice.dialog.tryAgain.label    "Խնդրում ենք, կրկին փորձեք:">
-<!ENTITY addDevice.dialog.successful.label  "Սարքը բարեհաջող ավելացվել է:Սկզբնական համաժամանակացումը մի քանի րոպե կպահանջի և կավարտվի ետին հատվածում:">
+<!ENTITY addDevice.dialog.successful.label  "Սարքը բարեհաջող ավելացվել է: Սկզբնական համաժամանակացումը մի քանի րոպե կպահանջի և կավարտվի ետին հատվածում:">
 <!ENTITY addDevice.dialog.recoveryKey.label     "To activate your device you will need to enter your Recovery Key. Please print or save this key and take it with you.">
 <!ENTITY addDevice.dialog.connected.label   "Սարքը միացված է">
 

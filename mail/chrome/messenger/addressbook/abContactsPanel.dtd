@@ -15,4 +15,3 @@
 <!ENTITY ccButton.label                     "Add to Cc:">
 <!ENTITY ccButton.accesskey                 "d">
 <!ENTITY bccButton.label                    "Add to Bcc:">
-<!ENTITY bccButton.accesskey                "B">

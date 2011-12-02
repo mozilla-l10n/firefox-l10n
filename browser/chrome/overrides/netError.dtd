@@ -69,7 +69,7 @@
      ">
 
 
-<!ENTITY generic.title "Պրոբլեմ">
+<!ENTITY generic.title "Վայ։">
 <!ENTITY generic.longDesc "<p>&brandShortName;ը ինչ որ պատճառով չի կարողանում բեռնել այս էջը</p>
  ">
 
@@ -83,6 +83,9 @@
 
 <!ENTITY netInterrupt.title "Կապը խզվեց">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+
+<!ENTITY notCached.title "Document Expired">
+<!ENTITY notCached.longDesc "<p>The requested document is not available in &brandShortName;'s cache.</p><ul><li>As a security precaution, &brandShortName; does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
 
 <!ENTITY netOffline.title "Օֆֆլայն ռեժիմ">
 <!ENTITY netOffline.longDesc2 "<ul>
@@ -183,7 +186,7 @@
 
 
 <!ENTITY securityOverride.linkText "Կամ դուք կարող էք ավելացնել բացառություն…">
-<!ENTITY securityOverride.getMeOutOfHereButton "Դուրս բեր ինձ այստեղից!">
+<!ENTITY securityOverride.getMeOutOfHereButton "Դո՛ւրս բեր ինձ այստեղից">
 <!ENTITY securityOverride.exceptionButtonLabel "Ավելացնել Բացառություն...">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the

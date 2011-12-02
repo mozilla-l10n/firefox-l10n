@@ -71,4 +71,3 @@
 <!ENTITY receivedColumn.tooltip "Click to sort by date received">
 <!ENTITY starredColumn.tooltip "Click to sort by star">
 <!ENTITY locationColumn.tooltip "Click to sort by location">
-<!ENTITY idColumn.tooltip "Click to sort by order received">
