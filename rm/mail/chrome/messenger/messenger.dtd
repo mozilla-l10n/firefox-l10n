@@ -140,6 +140,8 @@
 <!ENTITY messagePaneWide.accesskey "l">
 <!ENTITY messagePaneVertical.label "Vista a 3 colonnas">
 <!ENTITY messagePaneVertical.accesskey "3">
+<!ENTITY showFolderPaneCmd.label "Trav dad ordinaturs">
+<!ENTITY showFolderPaneCmd.accesskey "T">
 <!ENTITY showMessageCmd.label "Zona da prevista dals messadis">
 <!ENTITY showMessageCmd.accesskey "p">
 
