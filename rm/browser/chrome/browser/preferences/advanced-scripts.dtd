@@ -40,8 +40,8 @@
 
 <!ENTITY allowScripts.label             "Permetter als scripts las suandantas acziuns:">
 
-<!ENTITY moveResizeWindows.label        "Spustar las fanestras existentas u midar lur grondezza">
-<!ENTITY moveResizeWindows.accesskey    "e">
+<!ENTITY moveResizePopupWindows.label        "Spustar las fanestras da pop-up u midar lur grondezza">
+<!ENTITY moveResizePopupWindows.accesskey    "e">
 <!ENTITY raiseLowerWindows.label        "Plazzar las fanestras davant u davos autras fanestras">
 <!ENTITY raiseLowerWindows.accesskey    "f">
 <!ENTITY disableContextMenus.label      "Deactivar u remplazzar il menu contextual">
