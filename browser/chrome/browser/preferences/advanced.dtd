@@ -57,23 +57,28 @@
 <!ENTITY overrideSmartCacheSize.accesskey "c">
 
 <!ENTITY updateTab.label                 "Actualisaziun">
+<!ENTITY updateApp.label                 "Actualisaziuns da &brandShortName;:">
+<!ENTITY updateAuto.label                "Installar automaticamain las actualisaziuns (recumandà, procura per dapli segirezza)">
+<!ENTITY updateAuto.accesskey            "a">
+<!ENTITY updateCheck.label               "Tschertgar actualisaziuns, dentant dumandar sch'ella duai vegnir installada">
+<!ENTITY updateCheck.accesskey           "T">
+<!ENTITY updateManual.label              "Mai tschertgar actualisaziuns (betg recumandà, privel da segirezza)">
+<!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY autoCheck.label                 "Tschertgar automaticamain actualisaziuns per:">
-<!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "f">
-<!ENTITY enableAddonsUpdate2.label        "Supplements">
-<!ENTITY enableAddonsUpdate2.accesskey    "u">
-<!ENTITY enableSearchUpdate.label        "Maschinas da tschertgar">
-<!ENTITY enableSearchUpdate.accesskey    "i">
-<!ENTITY whenUpdatesFound.label          "Sche actualisaziuns per &brandShortName; vegnan chattadas">
-<!ENTITY askMe.label                     "dumandar tge far">
-<!ENTITY askMe.accesskey                 "n">
-<!ENTITY modeAutomatic.label             "Telechargiar ed installar automaticamain l'actualisaziun">
-<!ENTITY modeAutomatic.accesskey         "a">
-<!ENTITY modeAutoAddonWarn.label         "Avisar, per cas ch'in supplement vegn deactivà qua tras">
-<!ENTITY modeAutoAddonWarn.accesskey     "A">
+<!ENTITY updateAutoAddonWarn.label       "M'avisar sche quei deactivescha intgins da mes supplements">
+<!ENTITY updateAutoAddonWarn.accesskey   "a">
+
 <!ENTITY updateHistory.label             "Mussar la cronologia da las actualisaziuns">
 <!ENTITY updateHistory.accesskey         "c">
+
+<!ENTITY useService.label                "Utilisar in servetsch per installar actualisaziuns senza disturbi">
+<!ENTITY useService.accesskey            "b">
+
+<!ENTITY updateOthers.label              "Actualisar automaticamain:">
+<!ENTITY enableAddonsUpdate3.label       "Supplements">
+<!ENTITY enableAddonsUpdate3.accesskey   "p">
+<!ENTITY enableSearchUpdate.label        "Maschinas da tschertgar">
+<!ENTITY enableSearchUpdate.accesskey    "i">
 
 <!ENTITY offlineNotify.label             "Dumandar ina conferma, sche websites vulan memorisar datas per l'utilisaziun en il modus offline.">
 <!ENTITY offlineNotify.accesskey         "n">

@@ -17,7 +17,7 @@
 <!ENTITY myRecoveryKey.label          "Mia clav da restauraziun">
 <!ENTITY resetSync2.label             "Redefinir Sync…">
 
-<!ENTITY addDevice.label              "Agiuntar in apparat">
+<!ENTITY pairDevice.label             "Associar in apparat">
 
 <!ENTITY syncMy.label               "Sincronisar">
 <!ENTITY engine.bookmarks.label     "ils segnapaginas">
