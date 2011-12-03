@@ -43,42 +43,14 @@
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
 <!-- File menu items -->
-<!ENTITY fileMenu.label "文件">
-<!ENTITY fileMenu.accesskey "F">
-<!ENTITY openFileCmd.label "打开文件…">
-<!ENTITY openFileCmd.accesskey "O">
-<!ENTITY openFileCmd.key "O">
-<!ENTITY openRemoteCmd.label "打开网站地址…">
-<!ENTITY openRemoteCmd.accesskey "L">
-<!ENTITY openRemoteCmd.key "L">
-<!ENTITY fileRecentMenu.label "最近的页面">
-<!ENTITY fileRecentMenu.accesskey "R">
-<!ENTITY fileRevert.label "恢复">
-<!ENTITY fileRevert.accesskey "t">
-<!ENTITY saveCmd.label "保存">
-<!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveCmd.key "S">
-<!ENTITY saveAsCmd.label "另存为…">
-<!ENTITY saveAsCmd.accesskey "A">
-
-<!ENTITY publishCmd.label "发布">
-<!ENTITY publishCmd.accesskey "b">
-<!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "发布为…">
-<!ENTITY publishAsCmd.accesskey "h">
-<!ENTITY saveAsChangeEncodingCmd.label "保存并改变字符编码">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "E">
 
 <!-- Edit menu items -->
-<!ENTITY editMenu.label "编辑">
-<!ENTITY editMenu.accesskey "E">
 <!ENTITY pasteNoFormatting.label "粘贴为无格式文本">
 <!ENTITY pasteNoFormatting.accesskey "n">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "粘贴为">
 <!ENTITY pasteAs.accesskey "a">
-<!ENTITY publishSettings.label "发布站点设置…">
-<!ENTITY publishSettings.accesskey "b">
 <!ENTITY pasteAsQuotationCmd.label "粘贴为引文">
 <!ENTITY pasteAsQuotationCmd.accesskey "Q">
 <!ENTITY pasteAsQuotationCmd.key "o">
@@ -210,7 +182,7 @@
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "删除锚标">
 <!ENTITY formatRemoveNamedAnchors.accesskey "R">
-<!ENTITY formatRemoveNamedAnchors.key "A">
+<!ENTITY formatRemoveNamedAnchors2.key "R">
 
 <!ENTITY paragraphMenu.label "段落">
 <!ENTITY paragraphMenu.accesskey "P">
