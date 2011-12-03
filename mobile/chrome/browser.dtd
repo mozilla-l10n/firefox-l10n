@@ -96,7 +96,9 @@
 <!ENTITY contextOpenInNewTab.label "새 탭에 링크 열기">
 <!ENTITY contextSaveImage.label    "그림 저장">
 <!ENTITY contextCopyLink.label        "링크 복사">
-<!ENTITY contextSaveLink.label        "링크 저장">
+<!ENTITY contextCopyEmail.label       "메일 주소 복사">
+<!ENTITY contextCopyPhone.label       "전화 번호 복사">
+<!ENTITY contextCopyImageLocation.label  "이미지 주소 복사">
 <!ENTITY contextShareLink.label       "링크 공유">
 <!ENTITY contextShareImage.label      "그림 공유">
 <!ENTITY contextBookmarkLink.label    "링크 북마크">
@@ -117,6 +119,5 @@
 <!ENTITY pageactions.findInPage      "찾기">
 <!ENTITY pageactions.search.addNew   "검색 엔진 추가">
 <!ENTITY pageactions.charEncoding    "문자 인코딩">
-<!ENTITY pageactions.webapps.install "웹 앱 설치">
 
 <!ENTITY appMenu.siteOptions         "사이트 설정">

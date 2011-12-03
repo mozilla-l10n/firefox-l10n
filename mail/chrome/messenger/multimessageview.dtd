@@ -1,4 +1,4 @@
 <!ENTITY window.title             "메시지 요약">
 <!ENTITY selectedmessages.label   "선택된 메시지">
 <!ENTITY archiveButton.label            "보관">
-<!ENTITY deletebutton.label             "삭제">
+<!ENTITY deleteButton.label             "삭제">
