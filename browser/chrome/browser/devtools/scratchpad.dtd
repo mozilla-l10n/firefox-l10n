@@ -103,4 +103,6 @@
 <!ENTITY executeMenu.label		"실행 메뉴">
 <!ENTITY executeMenu.accesskey		"X">
 
+<!ENTITY errorConsoleCmd.commandkey   "j">
+
 <!ENTITY webConsoleCmd.commandkey	"k">
