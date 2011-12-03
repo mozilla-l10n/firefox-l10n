@@ -1,10 +1,9 @@
+<!ENTITY saveCmd.key "S">
 <!ENTITY pasteNoFormatting.label "포맷없이 붙여넣기">
 <!ENTITY pasteNoFormatting.accesskey "o">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "다른 이름으로 붙여넣기">
 <!ENTITY pasteAs.accesskey "a">
-<!ENTITY publishSettings.label "공개할 사이트 설정…">
-<!ENTITY publishSettings.accesskey "b">
 <!ENTITY pasteAsQuotationCmd.label "인용 형식으로 붙여넣기">
 <!ENTITY pasteAsQuotationCmd.accesskey "q">
 <!ENTITY pasteAsQuotationCmd.key "o">
@@ -244,8 +243,6 @@
 <!ENTITY tableProperties.accesskey "o">
 <!ENTITY menuBar.tooltip "도구 모음">
 <!ENTITY formatToolbar.tooltip "서식 도구 모음">
-<!ENTITY saveToolbarCmd.tooltip "로컬 경로에 파일 저장">
-<!ENTITY publishToolbarCmd.tooltip "외부 경로로 파일 보내기">
 <!ENTITY printToolbarCmd.label "인쇄">
 <!ENTITY printToolbarCmd.tooltip "페이지 인쇄">
 <!ENTITY findToolbarCmd.label "찾기">
