@@ -1,0 +1,26 @@
+<!-- File menu items -->
+<!ENTITY openFileCmd.label "파일 열기…">
+<!ENTITY openFileCmd.accesskey "O">
+<!ENTITY openFileCmd.key "O">
+<!ENTITY openRemoteCmd.label "주소 열기…">
+<!ENTITY openRemoteCmd.accesskey "L">
+<!ENTITY openRemoteCmd.key "L">
+<!ENTITY fileRecentMenu.label "최근 페이지">
+<!ENTITY fileRecentMenu.accesskey "R">
+<!ENTITY saveCmd.label "저장">
+<!ENTITY saveCmd.accesskey "S">
+<!ENTITY saveAsCmd.label "다른 이름으로 저장…">
+<!ENTITY saveAsCmd.accesskey "A">
+<!ENTITY publishCmd.label "공개">
+<!ENTITY publishCmd.accesskey "b">
+<!ENTITY publishCmd.key "S">
+<!ENTITY publishAsCmd.label "다른 이름으로 공개…">
+<!ENTITY publishAsCmd.accesskey "h">
+<!ENTITY saveAsChangeEncodingCmd.label "문자 인코딩 변경 및 저장">
+<!ENTITY saveAsChangeEncodingCmd.accesskey "E">
+<!ENTITY fileRevert.label "변환">
+<!ENTITY fileRevert.accesskey "t">
+
+<!-- Edit menu items -->
+<!ENTITY publishSettings.label "웹 사이트 설정 공개…">
+<!ENTITY publishSettings.accesskey "b">

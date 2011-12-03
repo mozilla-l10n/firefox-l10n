@@ -22,14 +22,6 @@
 <!ENTITY publishAsCmd.accesskey "h">
 <!ENTITY saveAsChangeEncodingCmd.label "문자 인코딩 변경 및 저장">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "E">
-<!ENTITY printSetupCmd.label "인쇄 화면 설정…">
-<!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printCmd.label "인쇄…">
-<!ENTITY printCmd.accesskey "p">
-<!ENTITY printCmd.key "p">
-<!ENTITY closeCmd.label "닫기">
-<!ENTITY closeCmd.accesskey "c">
-<!ENTITY closeCmd.key "w">
 <!ENTITY editMenu.label "편집">
 <!ENTITY editMenu.accesskey "e">
 <!ENTITY pasteNoFormatting.label "포맷없이 붙여넣기">
@@ -43,17 +35,6 @@
 <!ENTITY pasteAsQuotationCmd.accesskey "q">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "찾아서 바꾸기…">
-<!ENTITY findCmd.accesskey "f">
-<!ENTITY findCmd.key "f">
-<!ENTITY findCmd.key2 "VK_F19">
-<!ENTITY findAgainCmd.label "다시 찾기">
-<!ENTITY findAgainCmd.accesskey "g">
-<!ENTITY findAgainCmd.key "g">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "이전 찾기">
-<!ENTITY findPrevCmd.accesskey "v">
-<!ENTITY findPrevCmd.key "g">
-<!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "입력시 맞춤법 검사">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY checkSpellingCmd2.label "맞춤법 검사">
@@ -87,22 +68,9 @@
 <!ENTITY createLinkCmd.accesskey "k">
 <!ENTITY editLinkCmd.label "새 편집기에서 링크 편집">
 <!ENTITY editLinkCmd.accesskey "i">
-<!ENTITY undoCmd.label "실행 취소">
-<!ENTITY undoCmd.accesskey "u">
-<!ENTITY redoCmd.label "재실행">
-<!ENTITY redoCmd.accesskey "r">
-<!ENTITY cutCmd.label "잘라내기">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "복사">
-<!ENTITY copyCmd.accesskey "c">
-<!ENTITY pasteCmd.label "붙여넣기">
-<!ENTITY pasteCmd.accesskey "p">
-<!ENTITY deleteCmd.label "삭제">
-<!ENTITY deleteCmd.accesskey "d">
-<!ENTITY clearCmd.label "삭제">
-<!ENTITY clearCmd.accesskey "l">
-<!ENTITY selectAllCmd.label "모두 선택">
-<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY cutToolbarCmd.tooltip "잘라내기">
+<!ENTITY copyToolbarCmd.tooltip "복사">
+<!ENTITY pasteToolbarCmd.tooltip "붙여넣기">
 <!ENTITY FontFaceSelect.tooltip "글꼴 선택">
 <!ENTITY fontfaceMenu.label "글꼴">
 <!ENTITY fontfaceMenu.accesskey "f">
