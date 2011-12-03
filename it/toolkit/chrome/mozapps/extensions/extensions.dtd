@@ -1,5 +1,6 @@
 <!ENTITY addons.windowTitle "Gestione componenti aggiuntivi">
 <!ENTITY search.placeholder "Cerca tra i componenti aggiuntivi">
+<!ENTITY search.commandkey "f">
 <!ENTITY loading.label "Caricamento in corso…">
 <!ENTITY listEmpty.installed.label "Non risulta installato alcun componente aggiuntivo di questo tipo">
 <!ENTITY listEmpty.availableUpdates.label "Nessun aggiornamento disponibile">
