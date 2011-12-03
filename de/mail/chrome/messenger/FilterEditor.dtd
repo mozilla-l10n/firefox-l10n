@@ -28,6 +28,7 @@
 <!ENTITY forwardTo.label "Weiterleiten an:">
 <!ENTITY replyWithTemplate.label "Antworte mit Vorlage:">
 <!ENTITY markMessageRead.label "Markiere als gelesen">
+<!ENTITY markMessageUnread.label "Markiere als ungelesen">
 <!ENTITY markMessageStarred.label "Kennzeichne die Nachricht">
 <!ENTITY setPriority.label "Priorität ändern auf:">
 <!ENTITY addTag.label "Schlagwort hinzufügen:">
