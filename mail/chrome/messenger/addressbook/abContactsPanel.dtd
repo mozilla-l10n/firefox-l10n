@@ -8,12 +8,12 @@
 <!ENTITY addrBookCardProperties.label       "Özellikler">
 <!ENTITY addtoToFieldMenu.label             "İlgili adrese ekle">
 <!ENTITY addtoCcFieldMenu.label             "İlgili adrese ekle">
-<!ENTITY addtoBccFieldMenu.label            "Gizli adrese ekle">
+<!ENTITY addtoBccFieldMenu.label            "Bcc alanına ekle">
 
 <!ENTITY toButton.label                     "Kime: bölümüne ekle">
 <!ENTITY toButton.accesskey                 "e">
 <!ENTITY ccButton.label                     "İlgili adrese ekle">
 <!ENTITY ccButton.accesskey                 "d">
-<!ENTITY bccButton.label                    "Gizli adrese ekle">
+<!ENTITY bccButton.label                    "Bcc'ye ekle:">
 <!ENTITY bccButton.accesskey                "l">
 

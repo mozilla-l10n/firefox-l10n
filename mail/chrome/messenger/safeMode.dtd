@@ -39,7 +39,7 @@
 <!ENTITY safeModeDialog.title             "&brandShortName; güvenli kip">
 <!ENTITY window.width                     "37em">
 
-<!ENTITY safeModeDescription.label        "&brandShortName; şimdi güvenli kipte çalıştırıldı. Bu kipte ayarlarınız, temalarınız ve eklentileriniz devre dışı durumundadır.">
+<!ENTITY safeModeDescription.label        "&brandShortName; şu an güvenli kipte çalışıyor. Bu kipte ayarlarınız, temalarınız ve eklentileriniz geçici olarak devre dışıdır.">
 <!ENTITY safeModeDescription2.label       "Aşağıdaki değişiklikleri yapabilirsiniz:">
 
 <!ENTITY disableAddons.label              "Bütün eklentileri etkisizleştir">

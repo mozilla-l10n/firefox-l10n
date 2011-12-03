@@ -4,8 +4,8 @@
 <!ENTITY biffStart.accesskey "k">
 <!ENTITY biffEnd.label "dakika">
 
-<!ENTITY loginAtStartup.label "Başlangıçta yeni öğeleri yükle"> 
-<!ENTITY loginAtStartup.accesskey "k">
+<!ENTITY loginAtStartup.label "Başlangıçta yeni haberleri denetle"> 
+<!ENTITY loginAtStartup.accesskey "h">
 
 <!ENTITY useQuickMode.label "Her öğenin tamamını yüklemektense özetini göster"> 
 <!ENTITY useQuickMode.accesskey "H">

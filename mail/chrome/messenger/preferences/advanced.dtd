@@ -8,11 +8,11 @@
 
 <!ENTITY submitTelemetry.label         "Performans verilerini gönder">
 <!ENTITY submitTelemetry.accesskey     "P">
-<!ENTITY telemetryInfoLink.label       "More information about Telemetry">
+<!ENTITY telemetryInfoLink.label       "Telemetry hakkında daha fazla bilgi">
 <!ENTITY enableGlodaSearch.label       "Global aramayı ve endekslemeyi etkin kıl">
 <!ENTITY enableGlodaSearch.accesskey   "e">
 <!ENTITY systemIntegration.label       "Sistem entegrasyonu">
-<!ENTITY alwaysCheckDefault.label      "&brandShortName; uygulamasının öntanımlı e-posta istemcisi olarak kullanıldığını her açılışta denetle">
+<!ENTITY alwaysCheckDefault.label      "&brandShortName; uygulamasının varsayılan e-posta istemcisi olarak kullanıldığını her açılışta denetle">
 <!ENTITY alwaysCheckDefault.accesskey  "h">
 <!ENTITY searchIntegration.label       "&searchIntegration.engineName; ileti aramasına izin ver">
 <!ENTITY searchIntegration.accesskey   "s">
@@ -70,7 +70,7 @@
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Ayarlar…">
 <!ENTITY showSettings.accesskey        "A">
-<!ENTITY proxiesConfigure.label        "&brandShortName; İnternet bağlantısını ayarla">
+<!ENTITY proxiesConfigure.label        "&brandShortName; internet bağlantısını yapılandır">
 <!ENTITY connectionsInfo.caption       "Bağlantı">
 <!ENTITY offlineInfo.caption           "Çevrim dışı">
 <!ENTITY offlineInfo.label             "Çevrim dışı çalışma ayarları">

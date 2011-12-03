@@ -34,9 +34,9 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.toolbars.title    "Araç Çubuğu">
+<!ENTITY pref.toolbars.title    "Araç çubukları">
 
-<!ENTITY composition.caption    "Oluşturulan araç çubuğunda bu düğme alanını göster:">
+<!ENTITY composition.caption    "Aşağıdaki düğmeleri düzenleme araç çubuğunda göster:">
 
 <!ENTITY new.label              "Yeni">
 <!ENTITY open.label             "Aç">
@@ -54,7 +54,7 @@
 <!ENTITY link.label             "Bağlantı">
 <!ENTITY anchor.label           "Hedef">
 
-<!ENTITY formatting.caption     "Aşağıdaki düğmeleri düzenleme araç çubuğunda göster:">
+<!ENTITY formatting.caption     "Aşağıdaki düğmeleri biçimlendirme araç çubuğunda göster:">
 
 <!ENTITY smaller.label          "Daha küçük">
 <!ENTITY larger.label           "Daha büyük">

@@ -55,6 +55,6 @@
 <!ENTITY quitApplicationCmdUnix.label  "Çık">
 <!ENTITY quitApplicationCmdUnix.accesskey  "k">
 
-<!ENTITY quitApplicationCmdMac.label  "&brandShortName; uygulamasından Çık">
+<!ENTITY quitApplicationCmdMac.label  "&brandShortName; uygulamasından çık">
 <!ENTITY quitApplicationCmdMac.accesskey  "k">
 

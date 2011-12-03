@@ -68,8 +68,8 @@
 <!-- View menu -->
 <!ENTITY mapviewMenu.label "Göster">
 <!ENTITY mapviewMenu.accesskey "G">
-<!ENTITY showhideTbarCmd.label "Araç Çubuğunu Gizle">
-<!ENTITY showhideTbarCmd.accesskey "A">
+<!ENTITY showhideTbarCmd.label "Araç çubuğunu gizle">
+<!ENTITY showhideTbarCmd.accesskey "g">
 <!-- Scaling -->
 <!ENTITY mapviewScale.label "Ölçek">
 <!ENTITY mapviewScale.accesskey "Ö">

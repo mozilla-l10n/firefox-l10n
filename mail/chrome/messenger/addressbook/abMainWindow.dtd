@@ -77,12 +77,12 @@
 <!-- View Menu -->
 <!ENTITY viewMenu.label                                 "Görünüm">
 <!ENTITY viewMenu.accesskey                             "n">
-<!ENTITY viewToolbarsMenu.label                         "Araç çubuğu">
-<!ENTITY viewToolbarsMenu.accesskey                     "r"> 
+<!ENTITY viewToolbarsMenu.label                         "Araç çubukları">
+<!ENTITY viewToolbarsMenu.accesskey                     "A"> 
 <!ENTITY menubarCmd.label                               "Menü çubuğu">
 <!ENTITY menubarCmd.accesskey                           "M">
-<!ENTITY showAbToolbarCmd.label                         "Araç çubuğunu göster">
-<!ENTITY showAbToolbarCmd.accesskey                     "r">
+<!ENTITY showAbToolbarCmd.label                         "Adres defteri araç çubuğu">
+<!ENTITY showAbToolbarCmd.accesskey                     "d">
 <!ENTITY showTaskbarCmd.label                           "Durum çubuğu">
 <!ENTITY showTaskbarCmd.accesskey                       "D">
 <!ENTITY customizeToolbar.label                         "Özelleştir…">
@@ -211,5 +211,5 @@ because displayed names don't have the comma in between. -->
 <!ENTITY minimizeWindow.label "Küçült">
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Hepsini ön plana al">
-<!ENTITY zoomWindow.label "Ölçek">
+<!ENTITY zoomWindow.label "Yakınlaştırma">
 

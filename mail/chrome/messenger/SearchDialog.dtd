@@ -48,7 +48,7 @@
 <!ENTITY totalColumn.label "Toplam">
 <!ENTITY readColumn.label "Okundu">
 <!ENTITY receivedColumn.label "Tarih">
-<!ENTITY starredColumn.label "Etiket">
+<!ENTITY starredColumn.label "Yıldızlı">
 <!ENTITY locationColumn.label "Konum">
 <!ENTITY idColumn.label "Alındı sırası">
 
@@ -69,7 +69,7 @@
 <!ENTITY totalColumn.tooltip "İletilerin toplam sayısı">
 <!ENTITY readColumn.tooltip "Okunanlara göre sıralamak için tıklayın">
 <!ENTITY receivedColumn.tooltip "Alış tarihine göre sıralamak için tıklayın">
-<!ENTITY starredColumn.tooltip "Etiketlere göre sırala">
+<!ENTITY starredColumn.tooltip "Yıldıza göre sırala">
 <!ENTITY locationColumn.tooltip "Konuma göre sırala">
 <!ENTITY idColumn.tooltip "İstek alınmasına göre sıralamak için tıklayın">
 
