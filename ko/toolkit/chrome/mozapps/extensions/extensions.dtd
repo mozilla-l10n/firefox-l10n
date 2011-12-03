@@ -1,5 +1,8 @@
 <!ENTITY addons.windowTitle                   "부가 기능 관리자">
 <!ENTITY search.placeholder                   "전체 검색">
+<!-- LOCALIZATION NOTE (search.commandKey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
 <!ENTITY loading.label                        "읽는 중…">
 <!ENTITY listEmpty.installed.label            "설치한 부가 기능이 없음">
 <!ENTITY listEmpty.availableUpdates.label     "업데이트 없음">

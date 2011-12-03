@@ -18,8 +18,10 @@
 <!ENTITY newVirtualFolderCmd.accesskey "S">
 <!ENTITY newOtherAccountsCmd.label "기타 계정…">
 <!ENTITY newOtherAccountsCmd.accesskey "O">
-<!ENTITY newEmailAccountCmd.label "메일 계정…">
-<!ENTITY newEmailAccountCmd.accesskey "A">
+<!ENTITY newCreateEmailAccountCmd.label "새 메일 계정…">
+<!ENTITY newCreateEmailAccountCmd.accesskey "G">
+<!ENTITY newExistingEmailAccountCmd.label "기존 메일 계정…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "E">
 <!ENTITY openMessageFileCmd.label "메시지 열기…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "첨부">
@@ -133,13 +135,13 @@
 <!ENTITY redoDefaultCmd.label "재실행">
 <!ENTITY redoDefaultCmd.accesskey "R">
 
-<!ENTITY menubarCmd.label			"도구모음">
-<!ENTITY menubarCmd.accesskey			"M">
+<!-- View Menu -->
+<!ENTITY menubarCmd.label "메뉴 모음">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showMessengerToolbarCmd.label "메일 도구 모음">
 <!ENTITY showMessengerToolbarCmd.accesskey "o">
 <!ENTITY customizeToolbar.label "사용자 정의…">
 <!ENTITY customizeToolbar.accesskey "C">
-
 <!ENTITY messagePaneLayoutStyle.label "창 보기">
 <!ENTITY messagePaneLayoutStyle.accesskey "L">
 <!ENTITY messagePaneClassic.label "기본 보기">
@@ -148,7 +150,9 @@
 <!ENTITY messagePaneWide.accesskey "W">
 <!ENTITY messagePaneVertical.label "아래로 보기">
 <!ENTITY messagePaneVertical.accesskey "V">
-<!ENTITY showMessageCmd.label "메시지창">
+<!ENTITY showFolderPaneCmd.label "폴더 창">
+<!ENTITY showFolderPaneCmd.accesskey "F">
+<!ENTITY showMessageCmd.label "메시지 창">
 <!ENTITY showMessageCmd.accesskey "M">
 <!ENTITY sortMenu.label "정렬">
 <!ENTITY sortMenu.accesskey "S">
@@ -265,8 +269,8 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY pageSourceCmd.label "메시지 소스 보기">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.key "u">
-<!ENTITY getNewMessagesCmd.key			"y">
-<!ENTITY getAllNewMessagesCmd.key		"Y">
+<!ENTITY getNewMessagesCmd.key "y">
+<!ENTITY getAllNewMessagesCmd.key "Y">
 
 <!ENTITY findCmd.label "메시지에서 찾기…">
 <!ENTITY findCmd.accesskey "F">
@@ -462,7 +466,7 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY printButton.label "인쇄">
 <!ENTITY stopButton.label "중지">
 <!ENTITY throbberItem.title "활성도 지시자">
-<!ENTITY junkItem.title	"스팸">
+<!ENTITY junkItem.title "스팸">
 <!ENTITY junkButton.label "스팸">
 <!ENTITY notJunkButton.label "정상">
 <!ENTITY addressBookButton.label "주소록">

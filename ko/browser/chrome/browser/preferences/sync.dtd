@@ -12,9 +12,10 @@
 <!ENTITY manageAccount.accesskey      "A">
 <!ENTITY viewQuota.label              "용량 보기">
 <!ENTITY changePassword2.label         "암호 변경…">
-<!ENTITY myRecoveryKey.label           "복구용 키">
+<!ENTITY myRecoveryKey.label           "복구키 표시">
 <!ENTITY resetSync2.label              "동기화 재설정…">
-<!ENTITY addDevice.label              "새 기기 추가">
+
+<!ENTITY pairDevice.label             "기기 연결하기">
 
 <!-- Sync Settings -->
 <!ENTITY syncComputerName.label       "컴퓨터 이름:">
