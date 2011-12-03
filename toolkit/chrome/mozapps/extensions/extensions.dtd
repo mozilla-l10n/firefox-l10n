@@ -1,5 +1,9 @@
 <!ENTITY addons.windowTitle                   "Administrador de complementos">
 <!ENTITY search.placeholder                   "Buscar todos los complementos">
+<!-- LOCALIZATION NOTE (search.commandKey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
+
 <!ENTITY loading.label                        "Cargando…">
 <!ENTITY listEmpty.installed.label            "No tiene instalado ningún complemento de este tipo">
 <!ENTITY listEmpty.availableUpdates.label     "No se encontraron actualizaciones">
