@@ -9,8 +9,6 @@
 <!ENTITY importFromIE.accesskey "M">
 <!ENTITY importFromNothing.label "No importar nada">
 <!ENTITY importFromNothing.accesskey "i">
-<!ENTITY importFromSeamonkey.label "Netscape 6, 7 o Mozilla 1.x">
-<!ENTITY importFromSeamonkey.accesskey "N">
 <!ENTITY importFromOpera.label "Opera">
 <!ENTITY importFromOpera.accesskey "O">
 <!ENTITY importFromSafari.label "Safari">
@@ -26,8 +24,8 @@
 <!ENTITY importItems.title "Items a importar">
 <!ENTITY importItems.label "Seleccionar que ítems importar:">
 
-<!ENTITY migrating.title "Importando...">
-<!ENTITY migrating.label "Los siguientes ítems están siendo importados...">
+<!ENTITY migrating.title "Importando…">
+<!ENTITY migrating.label "Los siguientes ítems están siendo importados…">
 
 <!ENTITY selectProfile.title "Seleccione perfil">
 <!ENTITY selectProfile.label "Los siguientes perfiles están disponibles para ser importados:">
