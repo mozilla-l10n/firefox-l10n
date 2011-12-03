@@ -13,7 +13,7 @@
 <!ENTITY stats.channels "Canales">
 <!ENTITY stats.sampleRate "Tasa de muestreo">
 <!ENTITY stats.framesParsed "Imágenes procesadas">
-<!ENTITY stats.framesDecoded "Imágenes decodicadas">
+<!ENTITY stats.framesDecoded "Imágenes decodificadas">
 <!ENTITY stats.framesPresented "Imágenes presentadas">
 <!ENTITY stats.framesPainted "Imágenes mostradas">
 <!ENTITY scrubberScale.nameFormat "Transcurridos #1 de #2">
