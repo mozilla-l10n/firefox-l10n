@@ -5,10 +5,7 @@
 <!ENTITY feedback.feedback.good         "장점">
 <!ENTITY feedback.feedback.bad          "단점">
 
-<!ENTITY feedback.information.title     "자세한 정보">
-<!ENTITY feedback.about.title           "베타 버전 정보">
-<!ENTITY feedback.about.button          "페이지로 가기">
-
 <!ENTITY feedback.tools.title           "도구">
+<!ENTITY feedback.allowTelemetry.title  "성능 자료 전송하기">
 <!ENTITY feedback.forceCompat.title     "부가 기능 호환 시키기">
 <!ENTITY feedback.errorConsole.title    "오류 콘솔 사용">

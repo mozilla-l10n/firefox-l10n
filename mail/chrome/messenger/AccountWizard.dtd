@@ -1,8 +1,8 @@
 <!ENTITY windowTitle.label "계정 마법사">
 <!ENTITY accountWizard.size "width: 40em; height: 38em;">
-<!ENTITY accountSetupInfo.label "메시지 수신을 위해서는 메일 또는 뉴스 그룹의 계정을 설정해야 합니다.">
-<!ENTITY accountTypeTitle.label "새 계정 설정">
-<!ENTITY accountTypeDesc.label "이 마법사는 메일과 뉴스 그룹 계정을 설정하는데 필요한 정보를 수집합니다. 자세한 내용은 시스템 관리자 또는 ISP에 문의하십시오.">
+<!ENTITY accountSetupInfo2.label "메시지 수신을 위해서는 계정을 설정해야 합니다.">
+<!ENTITY accountTypeTitle.label "계정 종류">
+<!ENTITY accountTypeDesc2.label "계정을 설정하는데 필요한 정보를 입력해 주십시오. 자세한 내용은 시스템 관리자 또는 ISP에 문의하십시오.">
 <!ENTITY accountTypeDirections.label "설정할 계정의 종류를 선택하십시오:">
 <!ENTITY accountTypeMail.label "메일 계정">
 <!ENTITY accountTypeMail.accesskey "m">
@@ -31,6 +31,9 @@
 <!ENTITY imapType.accesskey "I">
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
+<!ENTITY leaveMsgsOnSrvr.label "서버에 메일 남기기">
+<!ENTITY leaveMsgsOnSrvr.accesskey "L">
+
 <!ENTITY haveSmtp1.prefix "메일 서버 (SMTP) &quot;">
 <!ENTITY haveSmtp1.suffix2 "&quot;은(는) 사용 중. 메일과 뉴스 그룹 프로그램의 편집 메뉴의 계정 설정에서 메일 서버를 수정할 수 있습니다.">
 <!ENTITY loginTitle.label "사용자 이름">
@@ -62,5 +65,3 @@
 <!ENTITY deferStorage.label "전체 메일함 사용 (로컬 폴더에 메일 저장)">
 <!ENTITY clickFinish.label "이 설정을 저장하려면 완료를 눌러 계정 마법사를 종료하십시오.">
 <!ENTITY clickFinish.labelMac "현재 설정을 저장하고 계정 마법사를 종료하려면 완료를 선택하십시오.">
-<!ENTITY leaveMsgsOnSrvr.label "서버에 메시지 남겨두기">
-<!ENTITY leaveMsgsOnSrvr.accesskey "L">
