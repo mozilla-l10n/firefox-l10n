@@ -17,11 +17,11 @@
 
 <!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; eksik yan uygulamaların kurulumunu tamamladı:">
 
-<!ENTITY pluginWizard.finalPage.moreInfo.label               "Yan uygulamalara ilişkin daha fazla bilgi edinin ya da eksik yan uygulamaları kendiniz arayın.">
+<!ENTITY pluginWizard.finalPage.moreInfo.label               "Yan uygulamalara ilişkin daha fazla bilgi edinin veya eksik yan uygulamaları kendiniz arayın.">
 <!ENTITY pluginWizard.finalPage.restart.label                "Yan uygulamaların çalışması için &brandShortName; uygulamasının yeniden başlatılması gerekiyor.">
 
 <!ENTITY missingPlugin                                       "Bu içeriği gösterecek bir yan uygulama eksik.">
-<!ENTITY clickToPlayPlugin                                   "Yan uygulama etkinleştirmek için buraya dokunun.">
+<!ENTITY clickToPlayPlugin                                   "Yan uygulamayı etkinleştirmek için buraya dokunun.">
 <!ENTITY disabledPlugin                                      "Bu yan uygulama devre dışı.">
 <!ENTITY blockedPlugin.label                                 "Bu yan eklenti sizi korumak için engellendi.">
 

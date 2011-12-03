@@ -2,9 +2,9 @@
 <!ENTITY privatebrowsingpage.title.normal          "Gizli taramayı başlatmak ister misiniz?">
 
 <!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; bu oturumda geçen hiçbir şeyi hatırlamayacak.">
-<!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; hâlihazırda gizli taramada değil.">
+<!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; şu anda gizli tarama kipinde değil.">
 
-<!ENTITY privatebrowsingpage.description               "&brandShortName; gizli tarama boyunca kayıt tutmayacak. Ziyaret geçmişi, arama geçmişi, indirme geçmişi, form geçmişi, çerezler ve geçici internet dosyaları kaydı tutulmayacaklara dahildir. İndirdiğiniz dosyalar ya da kaydettiğiniz yer imleri ise korunacaktır.">
+<!ENTITY privatebrowsingpage.description               "&brandShortName; gizli tarama oturumu boyunca ziyaret geçmişi, arama geçmişi, indirme geçmişi, form geçmişi, çerezler ve geçici internet dosyaları kaydını tutmayacaktır; ancak indirdiğiniz dosyalar ve kaydettiğiniz yer imleri korunacaktır.">
 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
@@ -17,9 +17,9 @@
 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStop2): please leave &basePBMenu.label; intact in the translation -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart2): please leave &basePBMenu.label; intact in the translation -->
-<!ENTITY privatebrowsingpage.howToStop2                "Gizli taramadan çıkmak için &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label; yolunu izleyin ya da &brandShortName; uygulamasını kapatın.">
+<!ENTITY privatebrowsingpage.howToStop2                "Gizli taramadan çıkmak için &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label; yolunu izleyin veya &brandShortName; uygulamasını kapatın.">
 <!ENTITY privatebrowsingpage.howToStart2               "Gizli taramayı başlatmak için &basePBMenu.label; &gt; &privateBrowsingCmd.start.label; yolunu da izleyebilirsiniz.">
 
-<!ENTITY privatebrowsingpage.moreInfo                  "Tarama geçmişinizle ilgili kayıtlar bu bilgisayar tarafından tutulmayacak olsa bile, internet servis sağlayıcınız ya da işvereniniz yine de ziyaret ettiğiniz sayfaları takip edebilir.">
+<!ENTITY privatebrowsingpage.moreInfo                  "Tarama geçmişinizle ilgili kayıtlar bu bilgisayar tarafından tutulmayacak olsa bile, internet servis sağlayıcınız veya işvereniniz yine de ziyaret ettiğiniz sayfaları takip edebilir.">
 <!ENTITY privatebrowsingpage.learnMore                 "Daha fazla bilgi">
 

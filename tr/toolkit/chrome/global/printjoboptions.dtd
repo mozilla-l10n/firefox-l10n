@@ -26,7 +26,7 @@
 <!ENTITY colorspaceInput.label "Renk boşluğu:">
 <!ENTITY colorspaceInput.accesskey "n">
 
-<!ENTITY fontsGroup.label "Yazıtipleri:">
+<!ENTITY fontsGroup.label "Yazı tipleri:">
 <!ENTITY downloadFonts.label "Yazı tiplerini yazıcıya indir">
 <!ENTITY downloadFonts.accesskey "d">
 

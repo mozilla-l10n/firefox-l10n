@@ -117,8 +117,8 @@ en çok tutulan eklentilerden bazıları öne çıkarılacak.">
 <!ENTITY detail.contributions.description     "Bu eklentinin geliştiricisi, sizden ufak bir katkıda bulunarak süregelen geliştirme faaliyetlerini desteklemenizi istiyor.">
 
 <!ENTITY detail.updateType                    "Kendiliğinden güncelleme">
-<!ENTITY detail.updateDefault.label           "Öntanımlı">
-<!ENTITY detail.updateDefault.tooltip         "Güncellemeleri sadece öntanımlıysa kendiliğinden kur">
+<!ENTITY detail.updateDefault.label           "Varsayılan">
+<!ENTITY detail.updateDefault.tooltip         "Güncellemeleri sadece varsayılan ayar buysa kendiliğinden kur">
 <!ENTITY detail.updateAutomatic.label         "Açık">
 <!ENTITY detail.updateAutomatic.tooltip       "Güncellemeleri kendiliğinden kur">
 <!ENTITY detail.updateManual.label            "Kapalı">

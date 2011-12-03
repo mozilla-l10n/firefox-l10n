@@ -8,10 +8,10 @@
   useDownloadedList.label convey the meaning "reported" (and not something like
   "known").
 -->
-<!ENTITY  blockAttackSites.label     "Bildirilen saldırı sitelerini engelle">
+<!ENTITY  blockAttackSites.label     "Bildirilmiş saldırı sitelerini engelle">
 <!ENTITY  blockAttackSites.accesskey "s">
 
-<!ENTITY  blockWebForgeries.label     "Bildirilen sahtekârlıkları engelle">
+<!ENTITY  blockWebForgeries.label     "Bildirilmiş sahtekârlık sitelerini engelle">
 <!ENTITY  blockWebForgeries.accesskey "h">
 
 <!ENTITY  addonExceptions.label         "Ayrıcalıklar…">

@@ -51,10 +51,10 @@
 <!ENTITY deleteBookmarks.label        "Yedekler dışındaki tüm yer imlerini sil">
 <!ENTITY deleteBookmarks.accesskey    "Y">
 
-<!ENTITY resetUserPrefs.label         "Bütün kullanıcı ayarlarını &brandShortName; öntanımlı ayarlara getir">
+<!ENTITY resetUserPrefs.label         "Tüm kullanıcı tercihlerini &brandShortName; varsayılan ayarlara sıfırla">
 <!ENTITY resetUserPrefs.accesskey     "B">
 
-<!ENTITY restoreSearch.label          "Öntanımlı arama motorlarını geri getir">
+<!ENTITY restoreSearch.label          "Varsayılan arama motorlarını geri getir">
 <!ENTITY restoreSearch.accesskey      "t">
 
 <!ENTITY changeAndRestartButton.label "Değişiklikleri uygula ve tekrar çalıştır">
