@@ -1,29 +1,3 @@
-<!ENTITY fileMenu.label "파일">
-<!ENTITY fileMenu.accesskey "f">
-<!ENTITY openFileCmd.label "파일 열기…">
-<!ENTITY openFileCmd.accesskey "o">
-<!ENTITY openFileCmd.key "o">
-<!ENTITY openRemoteCmd.label "주소 열기…">
-<!ENTITY openRemoteCmd.accesskey "l">
-<!ENTITY openRemoteCmd.key "l">
-<!ENTITY fileRecentMenu.label "최근 페이지">
-<!ENTITY fileRecentMenu.accesskey "r">
-<!ENTITY fileRevert.label "마지막 저장 문서로 바꾸기">
-<!ENTITY fileRevert.accesskey "v">
-<!ENTITY saveCmd.label "저장">
-<!ENTITY saveCmd.accesskey "s">
-<!ENTITY saveCmd.key "s">
-<!ENTITY saveAsCmd.label "다른 이름으로 저장…">
-<!ENTITY saveAsCmd.accesskey "A">
-<!ENTITY publishCmd.label "공개">
-<!ENTITY publishCmd.accesskey "b">
-<!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "다른 이름으로 공개…">
-<!ENTITY publishAsCmd.accesskey "h">
-<!ENTITY saveAsChangeEncodingCmd.label "문자 인코딩 변경 및 저장">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "E">
-<!ENTITY editMenu.label "편집">
-<!ENTITY editMenu.accesskey "e">
 <!ENTITY pasteNoFormatting.label "포맷없이 붙여넣기">
 <!ENTITY pasteNoFormatting.accesskey "o">
 <!ENTITY pasteNoFormatting.key "V">
@@ -152,7 +126,7 @@
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "내부 링크 없애기">
 <!ENTITY formatRemoveNamedAnchors.accesskey "R">
-<!ENTITY formatRemoveNamedAnchors.key "a">
+<!ENTITY formatRemoveNamedAnchors2.key "a">
 <!ENTITY paragraphMenu.label "문단">
 <!ENTITY paragraphMenu.accesskey "P">
 <!ENTITY paragraphParagraphCmd.label "문단">
@@ -270,10 +244,6 @@
 <!ENTITY tableProperties.accesskey "o">
 <!ENTITY menuBar.tooltip "도구 모음">
 <!ENTITY formatToolbar.tooltip "서식 도구 모음">
-<!ENTITY newToolbarCmd.tooltip "새 편집 페이지 만들기">
-<!ENTITY newToolbarCmd.label "새로 만들기">
-<!ENTITY openToolbarCmd.label "열기">
-<!ENTITY openToolbarCmd.tooltip "로컬 파일 열기">
 <!ENTITY saveToolbarCmd.tooltip "로컬 경로에 파일 저장">
 <!ENTITY publishToolbarCmd.tooltip "외부 경로로 파일 보내기">
 <!ENTITY printToolbarCmd.label "인쇄">
