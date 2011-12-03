@@ -24,3 +24,11 @@
 <!-- Edit menu items -->
 <!ENTITY publishSettings.label "웹 사이트 설정 공개…">
 <!ENTITY publishSettings.accesskey "b">
+
+<!-- Toolbar buttons/items -->
+<!ENTITY newToolbarCmd.label "새로 열기">
+<!ENTITY newToolbarCmd.tooltip "새 페이지 편집하기">
+<!ENTITY openToolbarCmd.label "열기">
+<!ENTITY openToolbarCmd.tooltip "파일 열기">
+<!ENTITY saveToolbarCmd.tooltip "파일 저장하기">
+<!ENTITY publishToolbarCmd.tooltip "파일을 원격 주소로 업로드하기">
