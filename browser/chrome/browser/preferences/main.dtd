@@ -15,7 +15,7 @@
 <!ENTITY useMultiple.label         "Güncel sayfaları kullan">
 <!ENTITY chooseBookmark.label      "Yer imi kullan...">
 <!ENTITY chooseBookmark.accesskey  "Y">
-<!ENTITY restoreDefault.label      "Öntanımlıları geri getir">
+<!ENTITY restoreDefault.label      "Varsayılanı geri getir">
 <!ENTITY restoreDefault.accesskey  "r">
 
 <!ENTITY downloads.label     "İndirme">

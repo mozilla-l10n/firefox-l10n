@@ -13,7 +13,7 @@
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Sunucu">
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label; sunucusu">
-<!ENTITY serverType.custom2.label   "Özel sunucu kullan...">
+<!ENTITY serverType.custom2.label   "Özel sunucu kullan…">
 <!ENTITY signIn.account2.label      "Hesap">
 <!ENTITY signIn.account2.accesskey  "a">
 <!ENTITY signIn.password.label      "Parola">
@@ -47,9 +47,9 @@
 <!ENTITY syncGenerateNewKey.label  "Yeni bir anahtar oluştur">
 <!ENTITY recoveryKeyBackup.description "Kurtarma anahtarınız diğer makinelerde &syncBrand.fullName.label; erişimi sağlamak için gereklidir. Lütfen bir yedek kopya oluşturun. Kurtarma anahtarınızı geri almanıza yardımcı olamayız.">
 
-<!ENTITY button.syncKeyBackup.print.label     "Yazdır...">
+<!ENTITY button.syncKeyBackup.print.label     "Yazdır…">
 <!ENTITY button.syncKeyBackup.print.accesskey "z">
-<!ENTITY button.syncKeyBackup.save.label      "Kaydet...">
+<!ENTITY button.syncKeyBackup.save.label      "Kaydet…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "K">
 
 <!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
@@ -68,7 +68,7 @@
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Oturum aç">
 <!ENTITY existingRecoveryKey.description "Kurtarma anahtarınızın bir kopyasını edinmek için diğer aygıtınızda &syncBrand.fullName.label; Seçenekleri'ne girin ve &#x0022;Hesabı yönett&#x0022; altından &#x0022;Kurtarma anahtarım&#x0022;ı seçin.">
-<!ENTITY verifying.label              "Doğrulanıyor...">
+<!ENTITY verifying.label              "Doğrulanıyor…">
 <!ENTITY resetPassword.label          "Parolayı sıfırla">
 <!ENTITY resetSyncKey.label           "Diğer aygıtımı kaybettim.">
 

@@ -28,11 +28,11 @@
 <!ENTITY cmd.findCurrent.label          "Geçerli koleksiyonda ara…">
 <!ENTITY cmd.findCurrent.accesskey      "i">
 
-<!ENTITY importBookmarksFromHTML.label     "Yer imlerini HTML'den içe aktar...">
+<!ENTITY importBookmarksFromHTML.label     "Yer imlerini HTML'den içe aktar…">
 <!ENTITY importBookmarksFromHTML.accesskey "H">
-<!ENTITY exportBookmarksToHTML.label       "Yer imlerini HTML olarak dışa ver...">
+<!ENTITY exportBookmarksToHTML.label       "Yer imlerini HTML olarak dışa ver…">
 <!ENTITY exportBookmarksToHTML.accesskey   "M">
-<!ENTITY importOtherBrowser.label          "Başka bir tarayıcıdaki verileri içe aktar...">
+<!ENTITY importOtherBrowser.label          "Başka bir tarayıcıdaki verileri içe aktar…">
 <!ENTITY importOtherBrowser.accesskey      "B">
 
 <!ENTITY cmd.backup.label               "Yedekle…">
@@ -73,8 +73,8 @@
 <!ENTITY cmd.new_separator.label           "Yeni ayraç">
 <!ENTITY cmd.new_separator.accesskey       "Y">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Canlı yer imini tazele">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "r">
+<!ENTITY cmd.reloadLivebookmark.label      "Canlı yer iminini tazele">
+<!ENTITY cmd.reloadLivebookmark.accesskey  "t">
 
 <!ENTITY cmd.moveBookmarks.label                  "Taşı…">
 <!ENTITY cmd.moveBookmarks.accesskey              "T">

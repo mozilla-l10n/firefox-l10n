@@ -5,17 +5,17 @@
 <!ENTITY  allowPagesToUse.label           "Yukarıdaki seçimlerin yerine, sayfaların kendi renklerini seçmelerine izin ver">
 <!ENTITY  allowPagesToUse.accesskey       "s">
 
-<!ENTITY  color                           "Metin ve Arka Plan">
+<!ENTITY  color                           "Metin ve arka plan">
 <!ENTITY  textColor.label                 "Metin:">
 <!ENTITY  textColor.accesskey             "t">
-<!ENTITY  backgroundColor.label           "Arka Plan:">
-<!ENTITY  backgroundColor.accesskey       "P">
+<!ENTITY  backgroundColor.label           "Arka plan:">
+<!ENTITY  backgroundColor.accesskey       "p">
 <!ENTITY  useSystemColors.label           "Sistem renklerini kullan">
 <!ENTITY  useSystemColors.accesskey       "S">
 
 <!ENTITY  underlineLinks.label            "Bağlantıların altını çiz">
 <!ENTITY  underlineLinks.accesskey        "ı">
-<!ENTITY  links                           "Bağlantı Renkleri">
+<!ENTITY  links                           "Bağlantı renkleri">
 <!ENTITY  linkColor.label                 "Ziyaret edilmemiş bağlantılar:">
 <!ENTITY  linkColor.accesskey             "l">
 <!ENTITY  visitedLinkColor.label          "Ziyaret edilmiş bağlantılar:">

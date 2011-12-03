@@ -21,6 +21,6 @@
 <!ENTITY  enableSuggest.label       "Arama önerilerini göster">
 <!ENTITY  enableSuggest.accesskey   "s">
 
-<!ENTITY  restoreDefaults.label     "Öntanımlıları geri getir">
+<!ENTITY  restoreDefaults.label     "Varsayılanları geri getir">
 <!ENTITY  restoreDefaults.accesskey "e">
 

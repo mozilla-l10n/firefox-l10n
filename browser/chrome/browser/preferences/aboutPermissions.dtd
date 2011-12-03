@@ -9,7 +9,7 @@
 <!ENTITY header.site.start               "İzinler:">
 <!ENTITY header.site.end                 "">
 
-<!ENTITY header.defaults                 "Tüm siteler için geçerli öntanımlı izinler">
+<!ENTITY header.defaults                 "Tüm siteler için geçerli varsayılan izinler">
 
 <!ENTITY permissions.forgetSite          "Bu siteyi unut">
 
@@ -19,18 +19,18 @@
 <!ENTITY permission.block                "Engelle">
 
 <!ENTITY password.label                  "Parolaları kaydet">
-<!ENTITY password.manage                 "Parolaları yönet...">
+<!ENTITY password.manage                 "Parolaları yönet…">
 
 <!ENTITY cookie.label                    "Çerez bırak">
 <!ENTITY cookie.remove                   "Çerezleri sil">
-<!ENTITY cookie.manage                   "Çerezleri yönet...">
+<!ENTITY cookie.manage                   "Çerezleri yönet…">
 <!ENTITY cookie.removeAll                "Tüm çerezleri sil">
 
 <!ENTITY geo.label                       "Konumu paylaş">
 
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
-<!ENTITY indexedDB.label                 "Çevrim dışı depolamayı yönet">
+<!ENTITY indexedDB.label                 "Çevrim dışı depolamaya izin ver">
 
-<!ENTITY popup.label                     "İstenmeyen pencereleri aç">
+<!ENTITY popup.label                     "Açılır pencereleri aç">
 

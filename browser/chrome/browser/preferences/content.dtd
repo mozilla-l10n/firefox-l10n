@@ -17,12 +17,12 @@
 <!ENTITY  enableJava.accesskey        "n">
 
 
-<!ENTITY  fontsAndColors.label        "Yazıtipleri ve renkler">
+<!ENTITY  fontsAndColors.label        "Yazı tipleri ve renkler">
 
-<!ENTITY  defaultFont.label           "Öntanımlı yazı tipi:">
+<!ENTITY  defaultFont.label           "Varsayılan yazı tipi:">
 <!ENTITY  defaultFont.accesskey       "z">
-<!ENTITY  defaultSize.label           "Öntanımlı boyut:">
-<!ENTITY  defaultSize.accesskey       "b">
+<!ENTITY  defaultSize.label           "Boyut:">
+<!ENTITY  defaultSize.accesskey       "B">
 
 <!ENTITY  advancedFonts.label         "Gelişmiş…">
 <!ENTITY  advancedFonts.accesskey     "e">

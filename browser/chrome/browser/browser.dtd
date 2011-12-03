@@ -33,14 +33,14 @@ can reach it easily. -->
 <!ENTITY  moveToNewGroup.label               "Yeni grup">
 <!ENTITY  moveToNewWindow.label              "Yeni pencereye taşı">
 <!ENTITY  moveToNewWindow.accesskey          "n">
-<!ENTITY  bookmarkAllTabs.label              "Tüm sekmeleri yer imlerine ekle...">
+<!ENTITY  bookmarkAllTabs.label              "Tüm sekmeleri yer imlerine ekle…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "Kapatılan sekmeyi aç">
 <!ENTITY  undoCloseTab.accesskey             "K">
 <!ENTITY  closeTab.label                     "Sekmeyi kapat">
 <!ENTITY  closeTab.accesskey                 "k">
 
-<!ENTITY  listAllTabs.label      "Tüm sekmeleri diz">
+<!ENTITY  listAllTabs.label      "Tüm sekmeleri listele">
 
 <!ENTITY tabCmd.label "Yeni sekme">
 <!ENTITY tabCmd.accesskey "s">
@@ -67,7 +67,7 @@ can reach it easily. -->
 <!ENTITY navbarCmd.accesskey "t">
 <!ENTITY personalbarCmd.label "Yer imi araç çubuğu">
 <!ENTITY personalbarCmd.accesskey "Y">
-<!ENTITY bookmarksToolbarItem.label "Yer imi araç çubuğu öğeleri">
+<!ENTITY bookmarksToolbarItem.label "Yer imi araç çubuğu ögeleri">
 <!ENTITY addonBarCmd.label "Eklenti çubuğu">
 <!ENTITY addonBarCmd.accesskey "E">
 
@@ -90,7 +90,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "g">
 <!ENTITY fullScreenExit.label "Tam ekran kipinden çık">
 <!ENTITY fullScreenExit.accesskey "e">
-<!ENTITY domFullScreenWarning.label "Tam ekran modundan çıkmak için ESC tuşuna basın">
+<!ENTITY domFullScreenWarning.label "Tam ekran kipinden çıkmak için ESC tuşuna basın">
 
 <!ENTITY closeWindow.label "Pencereyi kapat">
 <!ENTITY closeWindow.accesskey "k">
@@ -102,7 +102,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "Bu sayfaya abone ol">
 <!ENTITY subscribeToPageMenuitem.label "Bu sayfaya abone ol…">
 <!ENTITY addCurPagesCmd.label "Tüm sekmeleri yer imlerine ekle…">
-<!ENTITY showAllBookmarks2.label "Tüm yer imlerini göster...">
+<!ENTITY showAllBookmarks2.label "Tüm yer imlerini göster">
 <!ENTITY unsortedBookmarksCmd.label "Sıralanmamış yer imleri">
 <!ENTITY bookmarksToolbarChevron.tooltip "Daha fazla yer imi göster">
 
@@ -195,7 +195,7 @@ can reach it easily. -->
 <!ENTITY inspectMenu.accesskey        "l">
 <!ENTITY inspectMenu.commandkey       "I">
 
-<!ENTITY inspectContextMenu.label     "Ögeyi İncele">
+<!ENTITY inspectContextMenu.label     "Ögeyi incele">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
@@ -252,7 +252,7 @@ can reach it easily. -->
 <!ENTITY selectAllCmd.label         "Tümünü seç">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "T"> 
-<!ENTITY preferencesCmd2.label       "Seçenekler...">
+<!ENTITY preferencesCmd2.label       "Seçenekler">
 <!ENTITY preferencesCmd2.accesskey     "S">
 <!ENTITY preferencesCmdUnix.label       "Tercihler">
 <!ENTITY preferencesCmdUnix.accesskey     "T"> 
@@ -293,13 +293,13 @@ can reach it easily. -->
 
 <!ENTITY appMenuEdit.label "Düzen">
 <!ENTITY appMenuCustomize.label "Özelleştir">
-<!ENTITY appMenuToolbarLayout.label "Araç çubuğu düzeni...">
+<!ENTITY appMenuToolbarLayout.label "Araç çubuğu düzeni…">
 <!ENTITY appMenuSidebars.label "Kenar çubukları">
 <!ENTITY appMenuFind.label "Bul...">
 <!ENTITY appMenuUnsorted.label "Sıralanmamış yer imleri">
 <!ENTITY appMenuWebDeveloper.label "Web geliştirici">
 <!ENTITY appMenuGettingStarted.label "İlk adım">
-<!ENTITY appMenuSafeMode.label "Eklentileri devre dışı bırakıp başlat...">
+<!ENTITY appMenuSafeMode.label "Eklentileri devre dışı bırakıp başlat…">
 <!ENTITY appMenuSafeMode.accesskey "d">
 
 <!ENTITY openCmd.commandkey           "l">
@@ -565,7 +565,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY syncBrand.shortName.label    "Eşitleme">
 
-<!ENTITY syncSetup.label              "&syncBrand.shortName.label; kurulumu...">
+<!ENTITY syncSetup.label              "&syncBrand.shortName.label; kurulumu…">
 <!ENTITY syncSetup.accesskey          "k">
 <!ENTITY syncSyncNowItem.label        "Şimdi eşitle">
 <!ENTITY syncSyncNowItem.accesskey    "m">
