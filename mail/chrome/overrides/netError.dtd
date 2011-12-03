@@ -17,6 +17,8 @@
 <!ENTITY netInterrupt.title "연결이 끊어짐">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 <!ENTITY netOffline.title "오프라인 모드">
+<!ENTITY notCached.title "문서 만료">
+<!ENTITY notCached.longDesc "<p>요청한 문서는 더 이상 &brandShortName; 캐시에 저장되어 있지 않습니다.</p><ul><li>보안 문제로 인해 &brandShortName;는 자동적으로 문서를 재 호출 합니다.</li><li>웹 사이트에서 문서를 재 요청 하시려면 다시 시도를 눌러주십시오.</li></ul>">
 <!ENTITY netOffline.longDesc2 "<ul><li>온라인 모드로 바꾸고 페이지를 새로 고침하려면 &quot;다시 시도&quot;를 눌러 주십시오.</li></ul>">
 <!ENTITY netReset.title "연결 초기화">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
