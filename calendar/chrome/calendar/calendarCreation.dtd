@@ -42,12 +42,12 @@
 <!ENTITY initialpage.network.label  "On the Network">
 
 <!ENTITY locationpage.description         "Provide info about what is needed to access your remote calendar" >
-<!ENTITY locationpage.login.description   "Optional: enter an username and password" >
-<!ENTITY locationpage.username.label      "Username:" >
+<!ENTITY locationpage.login.description   "Optional: enter a user name and password" >
+<!ENTITY locationpage.username.label      "User name:" >
 <!ENTITY locationpage.password.label      "Password:" >
 
 <!ENTITY custompage.shortdescription  "Customise your calendar" >
-<!ENTITY custompage.longdescription   "You can give your calendar a nickname and assign colours to the events from this calendar." >
+<!ENTITY custompage.longdescription   "You can give your calendar a nickname and colourise the events from this calendar." >
 
 <!ENTITY finishpage.shortdescription  "Calendar Created" >
 <!ENTITY finishpage.longdescription   "Your calendar has been created." >
