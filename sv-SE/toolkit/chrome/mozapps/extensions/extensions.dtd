@@ -1,5 +1,10 @@
 <!ENTITY addons.windowTitle                   "Hantera tillägg">
+
 <!ENTITY search.placeholder                   "Sök bland alla tillägg">
+<!-- LOCALIZATION NOTE (search.commandKey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
+
 <!ENTITY loading.label                        "Hämtar…">
 <!ENTITY listEmpty.installed.label            "Du har inga tillägg av den här typen installerade">
 <!ENTITY listEmpty.availableUpdates.label     "Inga uppdateringar hittades">
