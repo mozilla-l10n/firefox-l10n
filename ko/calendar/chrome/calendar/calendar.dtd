@@ -306,7 +306,7 @@
 <!ENTITY calendarproperties.name.label     "이름:">
 <!ENTITY calendarproperties.readonly.label "읽기 전용">
 <!ENTITY calendarproperties.firealarms.label "알람 보기">
-<!ENTITY calendarproperties.cache.label    "캐시 (시범, 다시 시작 필요)">
+<!ENTITY calendarproperties.cache2.label    "캐시">
 <!ENTITY calendarproperties.enabled.label   "이 캘린더 전환: ">
 <!ENTITY calendarproperties.forceDisabled.label "이 캘린더에 대한 공급자를 찾을 수 없습니다. 이 문제는 어떤 부가 기능을 사용 안함 또는 삭제를 했을 경우에 자주 발생할 수 있습니다.">
 <!ENTITY calendarproperties.unsubscribe.label "해지">

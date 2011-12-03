@@ -19,3 +19,13 @@
      (aboutHome.forAndroid): Second line of a multi-line button. Treat as a subtitle.
 -->
 <!ENTITY aboutHome.forAndroid			"Android 버전">
+<!-- LOCALIZATION NOTE:
+     (aboutHome.setupSync): This string should match the desktop
+     equivalent, in particular concerning syncBrand.fullName.label.
+-->
+<!ENTITY aboutHome.setupSync            "동기화 설정">
+<!-- LOCALIZATION NOTE:
+     (aboutHome.syncPairDevice): This string should match the desktop
+     equivalent, in particular concerning syncBrand.fullName.label.
+-->
+<!ENTITY aboutHome.syncPairDevice       "디바이스 연결하기">
