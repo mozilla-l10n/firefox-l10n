@@ -17,6 +17,8 @@
 <!ENTITY half-manual-test.accesskey "t">
 <!ENTITY manual-edit.label "수동 설정">
 <!ENTITY manual-edit.accesskey "M">
+<!ENTITY switch-to-provisioner.label     "새 계정 만들기">
+<!ENTITY switch-to-provisioner.accesskey "G">
 
 <!ENTITY imapLong.label "IMAP (원격)">
 <!ENTITY pop3Long.label "POP3 (메일을 컴퓨터에 저장)">

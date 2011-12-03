@@ -71,7 +71,7 @@
 <!ENTITY viewMenu.accesskey "v">
 <!ENTITY viewToolbarsMenu.label "도구 모음">
 <!ENTITY viewToolbarsMenu.accesskey "T">
-<!ENTITY menubarCmd.label			"도구 모음">
+<!ENTITY menubarCmd.label			"메뉴 모음">
 <!ENTITY menubarCmd.accesskey			"M">
 <!ENTITY showAbToolbarCmd.label "주소록 도구 모음">
 <!ENTITY showAbToolbarCmd.accesskey "o">
@@ -79,12 +79,16 @@
 <!ENTITY showTaskbarCmd.accesskey "S">
 <!ENTITY customizeToolbar.label "사용자 정의…">
 <!ENTITY customizeToolbar.accesskey "C">
-<!ENTITY showContactPane.label "연락처 요약">
-<!ENTITY showContactPane.accesskey "C">
+<!ENTITY layoutMenu.label                               "레이아웃">
+<!ENTITY layoutMenu.accesskey                           "L">
+<!ENTITY showDirectoryPane.label                        "분류 창">
+<!ENTITY showDirectoryPane.accesskey                    "D">
+<!ENTITY showContactPane2.label                         "연락처 창">
+<!ENTITY showContactPane2.accesskey                     "C">
 <!ENTITY menu_ShowNameAs.label "이름 표시">
 <!ENTITY menu_ShowNameAs.accesskey "n">
-<!ENTITY firstLastCmd.label "이름 성 형식">
-<!ENTITY firstLastCmd.accesskey "f">
+<!ENTITY firstLastCmd2.label "성 이름 형식">
+<!ENTITY firstLastCmd2.accesskey "f">
 <!ENTITY lastFirstCmd.label "성, 이름 형식">
 <!ENTITY lastFirstCmd.accesskey "l">
 <!ENTITY displayNameCmd.label "표시명">

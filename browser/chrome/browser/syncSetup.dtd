@@ -3,9 +3,7 @@
 <!-- First page of the wizard -->
 <!ENTITY setup.pickSetupType.description "환영합니다. &syncBrand.fullName.label;를 처음 이용하시면, 계정을 먼저 만드십시오.">
 <!ENTITY button.createNewAccount.label "새 계정 만들기">
-<!ENTITY setup.haveAccount.label "이미 &syncBrand.fullName.label; 계정이 있습니다.">
-<!ENTITY button.connect.label    "연결하기">
-
+<!ENTITY button.haveAccount.label      "계정 있음">
 <!ENTITY setup.choicePage.title.label     "&syncBrand.fullName.label; 사용해 보신 적이 있으십니까?">
 <!ENTITY setup.choicePage.new.label       "&syncBrand.shortName.label; 처음 사용합니다.">
 <!ENTITY setup.choicePage.existing.label  "&syncBrand.shortName.label; 사용 중 입니다.">
@@ -54,14 +52,13 @@
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
 
 <!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "그림 속 글자 입력">
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "새 기기 추가">
+<!ENTITY pairDevice.title.label              "새 기기 연결">
 <!ENTITY addDevice.showMeHow.label          "사용 방법">
-<!ENTITY addDevice.dontHaveDevice.label     "추가할 기기가 없음">
-<!ENTITY addDevice.setup.description.label  "활성화 하려면 다른 기기에서 &syncBrand.shortName.label; 설정의 &#x0022;새 기기 추가&#x0022;를 선택하세요.">
+<!ENTITY addDevice.dontHaveDevice.label     "연결할 기기가 없음">
+<!ENTITY pairDevice.setup.description.label  "활성화 하려면 다른 기기에서 &#x0022;새 기기 추가&#x0022;를 선택하세요.">
 <!ENTITY addDevice.setup.enterCode.label    "그리고 아래 코드를 입력하세요:">
-<!ENTITY addDevice.dialog.description.label "새 기기를 활성화 하려면 다른 기기의 &syncBrand.shortName.label; 설정에서 &#x0022;연결하기&#x0022;를 선택하세요.">
+<!ENTITY pairDevice.dialog.description.label "새 기기를 활성화 하려면 다른 기기의 &#x0022;기기 연결하기&#x0022;를 선택하세요.">
 <!ENTITY addDevice.dialog.enterCode.label   "기기가 제공하는 코드를 입력하세요:">
 <!ENTITY addDevice.dialog.tryAgain.label    "다시 시도해 주십시오.">
 <!ENTITY addDevice.dialog.successful.label  "새로운 기기를 추가하였습니다. 초기 동기화 시 수 분 정도 소요되지만 배경 작업으로 진행될 것입니다.">
