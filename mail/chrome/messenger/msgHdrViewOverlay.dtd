@@ -117,6 +117,8 @@
 <!ENTITY deleteAllAttachmentsCmd.label    "全部删除…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
 
+<!ENTITY openAttachment.tooltip "打开附件">
+
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "保存">
 <!ENTITY saveAttachmentButton1.tooltip     "保存附件">
