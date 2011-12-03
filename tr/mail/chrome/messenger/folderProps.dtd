@@ -49,8 +49,8 @@
 <!ENTITY folderRebuildSummaryFile2.label         "Dizini onar">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
 <!ENTITY folderRebuildSummaryFile.explanation    "Sometimes the folder index (.msf) file becomes damaged and messages may appear missing or deleted messages continue showing; repairing the folder may fix these issues.">
-<!ENTITY folderIncludeInGlobalSearch.label       "Include messages in this folder in Global Search results">
-<!ENTITY folderIncludeInGlobalSearch.accesskey   "G">
+<!ENTITY folderIncludeInGlobalSearch.label       "Bu dizindeki iletileri global arama sonuçlarına dâhil et">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "g">
      
 <!ENTITY retention.label "Kayıt güvenliği">
 <!ENTITY retentionUseAccount.label  "Hesap ayarlarınını kullan">
@@ -68,12 +68,12 @@
 <!ENTITY retentionKeepRecent.accesskey "S">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
 <!ENTITY retentionKeepUnreadHidden.label "Okunmuş iletileri sil (zaman ayarlarını gözardı et)">
-<!ENTITY retentionApplyToFlagged.label "Yıldızlı iletileri silme">
+<!ENTITY retentionApplyToFlagged.label "Yıldızlı iletileri hiçbir zaman silme">
 <!ENTITY retentionApplyToFlagged.accesskey "Y">
 
 <!ENTITY folderSynchronizationTab.label          "Eşzamanlama">
-<!ENTITY folderCheckForNewMessages2.label         "When getting new messages for this account, always check this folder">
-<!ENTITY folderCheckForNewMessages2.accesskey     "c">
+<!ENTITY folderCheckForNewMessages2.label         "Bu hesap için yeni ileti alırken her zaman bu dizini denetle">
+<!ENTITY folderCheckForNewMessages2.accesskey     "y">
 
 <!ENTITY offlineFolder.check.label               "Bu dizini çevrim dışı kullanım için seç">
 <!ENTITY offlineFolder.check.accesskey           "v">

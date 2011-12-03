@@ -104,7 +104,7 @@
 <!ENTITY customizeToolbar.label "Özelleştir…">
 <!ENTITY customizeToolbar.accesskey "l">
 
-<!ENTITY addressSidebar.label "Adres kenar çubuğu"> 
+<!ENTITY addressSidebar.label "Kişiler kenar çubuğu"> 
 <!ENTITY addressSidebar.accesskey "s"> 
 
 <!-- Format Menu -->
@@ -179,7 +179,7 @@
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Küçült">
 <!ENTITY bringAllToFront.label "Ön plana getir">
-<!ENTITY zoomWindow.label "Odakla"> 
+<!ENTITY zoomWindow.label "Yakınlaştır"> 
 <!ENTITY windowMenu.label "Pencere">
 
 <!-- Mail Toolbar -->
@@ -209,8 +209,8 @@
 <!ENTITY fromAddr.label "Gönderen:">
 <!ENTITY fromAddr.accesskey "G">
 <!ENTITY toAddr.label "Kime:"> 
-<!ENTITY ccAddr.label "İlgili kopyası:"> 
-<!ENTITY bccAddr.label "Gizli kopya:"> 
+<!ENTITY ccAddr.label "Cc:"> 
+<!ENTITY bccAddr.label "Bcc:"> 
 <!ENTITY replyAddr.label "Yanıt adresi:"> 
 <!ENTITY newsgroupsAddr.label "Haber grubu:"> 
 <!ENTITY followupAddr.label "Takip adresi:"> 

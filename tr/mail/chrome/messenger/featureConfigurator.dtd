@@ -8,9 +8,9 @@
 <!ENTITY featureConfigurator.para.1 "Bu yeni &brandShortName; sürümü, gurur duyduğumuz ve çoğu kişinin seveceğini düşündüğümüz etkili ve yeni özellikler içeriyor. İnsanların zevklerinin ve ihtiyaçlarının değişkenlik gösterdiğini de biliyoruz, bu yüzden &brandShortName; uygulamasını özelleştirmeyi kolaylaştırdık.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.para.2): This paragraph explains that this page is active (the buttons change the UI), and that they can get back to it if they change their mind later.-->
-<!ENTITY featureConfigurator.para.2 "Use this page to configure these new settings. You can always get back to the Migration Assistant from the Help menu.">
+<!ENTITY featureConfigurator.para.2 "Yeni ayarları yapılandırmak için bu sayfayı kullanın. Göç yardımcısı'na her zaman Yardım menüsünden ulaşabilirsiniz.">
 
-<!ENTITY featureConfigurator.toolbar.heading "Yeni araç çubuğu">
+<!ENTITY featureConfigurator.toolbar.heading "Yeni ileti araç çubuğu">
 <!ENTITY featureConfigurator.toolbar.new "İleti düğmeleri araç çubuğu">
 <!ENTITY featureConfigurator.toolbar.new.status.explanation "Yalın bir araç çubuğuyla tüm mesajlaşma düğmeleri parmaklarınızın ucunda.">
 
@@ -39,13 +39,13 @@
 <!ENTITY featureConfigurator.collapsedHeaders.heading "Kapanmış başlıklar">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.collapsedHeaders.para.weak): The paragraph to display if the user hadn't previously used the collapsed headers feature. -->
-<!ENTITY featureConfigurator.collapsedHeaders.para.weak "The compact message reader view has been moved into its own extension where it is now getting much more attention and options.">
+<!ENTITY featureConfigurator.collapsedHeaders.para.weak "Yoğun ileti okuyucu görünümü, daha fazla gelişme olanağı ve yeni seçenekleriyle kendi eklentisine taşındı.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.collapsedHeaders.para.strong): The paragraph to display if the user had previously used the collapsed headers feature. -->
-<!ENTITY featureConfigurator.collapsedHeaders.para.strong "We noticed that you were using the compact message reader header.  This function has moved into its own extension and we recommend you install it here if you would like to continue using it.">
+<!ENTITY featureConfigurator.collapsedHeaders.para.strong "Yoğun ileti okuyucu başlığını kullanmakta olduğunuzu fark ettik. Bu işlev kendi başına bir eklentiye dönüşmüştür. Kullanmaya devam etmek istiyorsanız bu eklentiyi kurmanızı öneririz.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.collapsedHeaders.install): The text for the button that will install the Compact Headers addon. -->
-<!ENTITY featureConfigurator.collapsedHeaders.install "Install Compact Header…">
+<!ENTITY featureConfigurator.collapsedHeaders.install "Compact Header'ı kur…">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.heading): The heading for the Folder Columns page. -->
 <!ENTITY featureConfigurator.folderColumns.heading "Gelişmiş dizin sütunları">
@@ -57,7 +57,7 @@
 <!ENTITY featureConfigurator.folderColumns.para.strong "We noticed that you were using the Advanced Folder columns.  This feature has moved into its own extension, and we recommend you install here.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.install): The text for the button that will install the Extra Folder Columns addon. -->
-<!ENTITY featureConfigurator.folderColumns.install "Install Extra Columns…">
+<!ENTITY featureConfigurator.folderColumns.install "Extra Columns'u yükle…">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.autoSync.heading): The heading for the Disk space page. -->
 <!ENTITY featureConfigurator.autoSync.heading "Disk alanı">
@@ -67,15 +67,15 @@
 
 <!-- LOCALIZATION NOTE (featureConfigurator.autoSync.on): The label for the radio button for synchronizing all the accounts. -->
 <!ENTITY featureConfigurator.autoSync.on "Eşitle">
-<!ENTITY featureConfigurator.autoSync.on.explanation "You'll see faster message loading and better search results.">
+<!ENTITY featureConfigurator.autoSync.on.explanation "İletileriniz daha hızlı yüklenecek ve daha iyi arama sonuçları elde edeceksiniz.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.autoSync.off): The label for the radio button that will synchronize none of the accounts. -->
 <!ENTITY featureConfigurator.autoSync.off "Eşitleme">
-<!ENTITY featureConfigurator.autoSync.off.explanation "This will mean slower message loading and incomplete search results.">
+<!ENTITY featureConfigurator.autoSync.off.explanation "İletileriniz daha yavaş yüklenecek ve arama sonuçları eksik olabilecek.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.autoSync.some): The label for the radio button that will let you customize the synchronize for each account. -->
 <!ENTITY featureConfigurator.autoSync.some "Her hesap için ayrıca belirle">
-<!ENTITY featureConfigurator.autoSync.some.explanation "Customize your synchronization needs per account and folder.">
+<!ENTITY featureConfigurator.autoSync.some.explanation "Eşitleme ihtiyaçlarınızı hesaba ve dizine göre özelleştirin.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.diskSpace.currentSize): The label for the current amount of disk space your accounts are consuming. -->
 <!ENTITY featureConfigurator.diskSpace.currentSize "Şu an toplam e-posta kullanımınız:">

@@ -24,8 +24,8 @@
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY then.label                           "Sonra">
 <!ENTITY then.accesskey                       "S">
-<!ENTITY aboveQuote.label                     "Yanıt alıntı metnin üstünden başla">
-<!ENTITY belowQuote.label                     "Yanıt alıntı metnin altında başla">
+<!ENTITY aboveQuote.label                     "Yanıtıma alıntının üstünden başla">
+<!ENTITY belowQuote.label                     "Yanıtıma alıntının altından başla">
 <!ENTITY selectAndQuote.label                 "alıntı metni işaretle">
 <!ENTITY place.label                          "ve imzamı ekle">
 <!ENTITY place.accesskey                      "v">

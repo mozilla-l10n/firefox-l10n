@@ -17,7 +17,7 @@
      toggles the visibility of the quick filter bar.
      -->
 <!ENTITY quickFilterBar.toggleBarVisibility.button.tooltip
-         "Toggle the quick filter bar">
+         "Hızlı süzgeç çubuğunu aç/kapat">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.sticky.tooltip):
      The tooltip to display when the user hovers over the sticky button

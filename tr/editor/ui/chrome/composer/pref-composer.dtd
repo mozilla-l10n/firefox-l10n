@@ -17,7 +17,7 @@
 <!ENTITY  showPublishDialog.accesskey   "a">
 <!ENTITY  composerEditing.label         "Düzenleme">
 <!ENTITY  maintainStructure.label       "Yeni bir hücre ekleme veya silmeden sonraki tablo görünümünü ayarla">
-<!ENTITY  maintainStructure.tooltip     "Preserves table's rectangular shape by automatically adding cells after inserting or deleting cells">
+<!ENTITY  maintainStructure.tooltip     "Tablonun dikdörtgen şeklini korumak için, eklenen veya silinen hücrelerin ardından otomatik olarak hücre ekler">
 <!ENTITY  maintainStructure.accesskey   "m">
 <!ENTITY  useCSS.label                  "HTML elementleri ve vasıfları yerine CSS stillerini kullan">
 <!ENTITY  useCSS.accesskey              "u">

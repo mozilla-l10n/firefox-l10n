@@ -22,14 +22,14 @@
 <!ENTITY resetTrainingData.accesskey "r">
 
 <!-- Phishing Detector -->
-<!ENTITY phishingDetector1.intro  "&brandShortName; yaygın dolandırıcılık tekniklerini inceleyerek sizi sahetkârlık girişimlerinden koruyabilir.">
+<!ENTITY phishingDetector1.intro  "&brandShortName;, iletilerinizi yaygın dolandırıcılık tekniklerine karşı inceleyerek sizi sahetkârlık girişimlerinden koruyabilir.">
 <!ENTITY enablePhishingDetector1.label    "Okuduğum iletinin sahtekârlık girişimi olup olmadığını bana göster">
 <!ENTITY enablePhishingDetector1.accesskey  "O">
 <!ENTITY useDownloadedList.label "Şüpheli sahtekârlık iletilerin indirilmiş listesini kullan">
 <!ENTITY useDownloadedList.accesskey "p">
 
 <!-- Passwords -->
-<!ENTITY savedPasswords.intro           "&brandShortName; bütün hesaplarınızın parolasını kaydedebilir.">
+<!ENTITY savedPasswords.intro           "&brandShortName; bütün hesaplarınızın parolalarını hatırlayabilir.">
 <!ENTITY useMasterPassword.label        "Ana parola kullan">
 <!ENTITY useMasterPassword.accesskey    "A">
 <!ENTITY masterPassword.intro           "Ana parola bütün parolalarınızı koruyor, sadece her oturumda onu girmeniz gerekecektir.">
@@ -39,12 +39,12 @@
 <!ENTITY savedPasswords.accesskey       "K">
 
 <!-- Anti Virus -->
-<!ENTITY antiVirus.intro      "&brandShortName; anti-virüs yazılımının gelen iletilerin virüslere karşı taramasında yardımcı olabilir.">
+<!ENTITY antiVirus.intro      "&brandShortName; antivirüs yazılımlarının gelen iletileri depolamadan önce virüslere karşı taramasını kolaylaştırabilir.">
 <!ENTITY antiVirus.label      "Anti-virüs yazılımının belirli iletilerin karantinaya gönderilmesine izin ver">
 <!ENTITY antiVirus.accesskey  "A">
 
 <!-- Cookies -->
-<!ENTITY cookies.intro                  "&brandShortName; aracılığı ile günlük, haber ve diğer sitelerin çerez bırakma iznini belirleyebilirsiniz.">
+<!ENTITY cookies.intro                  "&brandShortName; aracılığı ile e-güncelerin, haber akışlarının ve diğer sitelerin çerez bırakma iznini belirleyebilirsiniz.">
 <!ENTITY acceptCookies.label            "Sitelerin çerez bırakmasına izin ver">
 <!ENTITY acceptCookies.accesskey        "z">
 <!ENTITY keepUntil.label                "Tutma sınırı:">

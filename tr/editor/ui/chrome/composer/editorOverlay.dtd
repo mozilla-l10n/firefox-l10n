@@ -77,10 +77,10 @@
 <!ENTITY insertTableCmd.accesskey "T">
 <!ENTITY insertHTMLCmd.label "HTML …">
 <!ENTITY insertHTMLCmd.accesskey "H">
-<!ENTITY insertCharsCmd.label "Karakterler ve Semboller…">
+<!ENTITY insertCharsCmd.label "Karakterler ve simgeler…">
 <!ENTITY insertCharsCmd.accesskey "K">
-<!ENTITY insertBreakAllCmd.label "Aşağıdaki görüntüleri kes">
-<!ENTITY insertBreakAllCmd.accesskey "k">
+<!ENTITY insertBreakAllCmd.label "Resimlerin altına satır ekle">
+<!ENTITY insertBreakAllCmd.accesskey "s">
 
 <!-- Used just in context popup. -->
 <!ENTITY spellCheckNoSuggestions.label "(Öneri bulunamadı)">
@@ -223,8 +223,8 @@
 
 <!ENTITY ParagraphSelect.tooltip "Bir paragraf biçimi seçin">
 <!-- Shared in Paragraph, and Toolbar menulist -->
-<!ENTITY bodyTextCmd.label "Gövde Metni">
-<!ENTITY bodyTextCmd.accesskey "t">
+<!ENTITY bodyTextCmd.label "Gövde metni">
+<!ENTITY bodyTextCmd.accesskey "m">
 <!-- isn't used in menu now, but may be added in future -->
 <!ENTITY advancedPropertiesCmd.label "Gelişmiş Özellikler">
 <!ENTITY advancedPropertiesCmd.accesskey "Ö">
@@ -324,8 +324,8 @@
 <!ENTITY tableProperties.accesskey "b">
 
 <!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "Menü Çubuğu">
-<!ENTITY formatToolbar.tooltip "Araç Çubuğu Biçimi">
+<!ENTITY menuBar.tooltip "Menü çubuğu">
+<!ENTITY formatToolbar.tooltip "Biçimlendirme araç çubuğu">
 <!ENTITY newToolbarCmd.label "Yeni">
 <!ENTITY newToolbarCmd.tooltip "Yeni bir Düzenleyici sayfası oluştur">
 <!ENTITY openToolbarCmd.label "Aç">
