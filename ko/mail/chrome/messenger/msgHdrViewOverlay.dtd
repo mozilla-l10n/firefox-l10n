@@ -118,6 +118,7 @@
 <!ENTITY detachAllAttachmentsCmd.accesskey "D">
 <!ENTITY deleteAllAttachmentsCmd.label "모두 삭제…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey "e">
+<!ENTITY openAttachment.tooltip "첨부 파일 열기">
 
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label "저장">
