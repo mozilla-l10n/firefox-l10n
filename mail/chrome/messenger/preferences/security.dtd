@@ -12,7 +12,7 @@
 <!ENTITY manualMarkModeMove.accesskey "F">
 <!ENTITY manualMarkModeDelete.label "Slett dei">
 <!ENTITY manualMarkModeDelete.accesskey "t">
-<!ENTITY markAsReadOnSpam.label "Merk søppel-meldingar som lesne">
+<!ENTITY markAsReadOnSpam.label "Merk uønskt-meldingar som lesne">
 <!ENTITY markAsReadOnSpam.accesskey "M">
 <!ENTITY enableJunkLogging.label "Loggfør hendingar i filteret for uynskt e-post">
 <!ENTITY enableJunkLogging.accesskey "L">

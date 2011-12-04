@@ -19,8 +19,8 @@
 <!ENTITY signIn.account2.accesskey  "K">
 <!ENTITY signIn.password.label      "Passord">
 <!ENTITY signIn.password.accesskey  "P">
-<!ENTITY signIn.syncKey.label       "Sync-nøkkel">
-<!ENTITY signIn.syncKey.accesskey   "k">
+<!ENTITY signIn.recoveryKey.label       "Oppattbyggjingsnøkkel">
+<!ENTITY signIn.recoveryKey.accesskey   "O">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Kontodetaljar">
@@ -29,7 +29,7 @@
 <!ENTITY setup.choosePassword.label      "Vel eit passord">
 <!ENTITY setup.choosePassword.accesskey  "V">
 <!ENTITY setup.confirmPassword.label     "Stadfest passord">
-<!ENTITY setup.confirmPassword.accesskey  "a">
+<!ENTITY setup.confirmPassword.accesskey "a">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
 <!ENTITY setup.tosAgree1.label      "Eg godtar">
@@ -41,12 +41,12 @@
 <!ENTITY setup.tosAgree2.accesskey  "">
 
 <!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; bryr seg om tryggleiken din">
-<!ENTITY setup.newSyncKeyPage.description.label "For å ta vare på personvernet ditt vil alle data verte krypterte før dei vert lasta opp. Sync-nøkkelen som er nødvendig for å dekryptere dine data vert ikkje lasta opp.">
-<!ENTITY syncKeyEntry.label        "Sync-nøkkel">
-<!ENTITY syncKeyEntry.accesskey    "S">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; bryr seg om personvernet ditt">
+<!ENTITY setup.newRecoveryKeyPage.description.label "For å sikre fullstendig personvern er alle dataa dine krypterte før dei blir lasta opp. Oppattbyggjingsnøkkelen som er nødvendig for å dekryptere data blir ikkje lasta opp.">
+<!ENTITY recoveryKeyEntry.label        "Oppattbyggjingsnøkkel">
+<!ENTITY recoveryKeyEntry.accesskey    "O">
 <!ENTITY syncGenerateNewKey.label  "Generer ny nøkkel">
-<!ENTITY syncKeyBackup.description "Sync-nøkkelen din er påkravd for å få tilgang til &syncBrand.fullName.label; på andre maskiner. Lag ein tryggingskopi. Vi kan ikkje hjelpe deg med å finne tilbake ein gløymd Sync-nøkkel.">
+<!ENTITY recoveryKeyBackup.description "Oppattbyggjingsnøkkelen treng du for å få tilgang til &syncBrand.fullName.label; på andre maskiner. Lag ein tryggingskopi av han. Vi kan ikkje hjelpe deg å finne igjen Oppattbyggjingsnøkkelen.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Skriv ut …">
 <!ENTITY button.syncKeyBackup.print.accesskey "S">
@@ -65,12 +65,12 @@
 <!ENTITY addDevice.dialog.enterCode.label   "Skriv inn koden som eininga gjev opp:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Prøv igjen.">
 <!ENTITY addDevice.dialog.successful.label  "Eininga vart lagt til. Den første synkroniseringa kan ta fleire minutt, og vil fullføre i bakgrunnen.">
-<!ENTITY addDevice.dialog.syncKey.label     "For å aktivere eininga må du skrive inn Sync-nøkkelen. Gjerne skriv ut eller lagre denne nøkkelen og ta han med deg.">
+<!ENTITY addDevice.dialog.recoveryKey.label     "For å aktivere eininga di treng du oppattbyggjingsnøkkelen. Skriv ut eller lagre denne nøkkelen, og ta han med deg.">
 <!ENTITY addDevice.dialog.connected.label   "Eining tilkopla">
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Logg inn">
-<!ENTITY existingSyncKey.description "Du kan skaffe ein kopi av Sync-nøkkelen din ved å gå til &syncBrand.shortName.label; Innstillingar på den andre eininga, og velje &#x0022;Min Sync-nøkkel&#x0022; under &#x0022;Handsame konto&#x0022;.">
+<!ENTITY existingRecoveryKey.description "Du kan hente ut ein kopi av oppattbyggjingsnøkkelen ved å gå til &syncBrand.shortName.label;-innstillingane på den andre eininga, og velje «Oppattbyggjingsnøkkel» under «Handsame konto».">
 <!ENTITY verifying.label              "Stadfestar …">
 <!ENTITY resetPassword.label          "Tilbakestill passord">
 <!ENTITY resetSyncKey.label           "Eg har mista den andre eininga mi.">

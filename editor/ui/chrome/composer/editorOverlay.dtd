@@ -68,11 +68,6 @@
 <!ENTITY publishAsCmd.accesskey "o">
 <!ENTITY saveAsChangeEncodingCmd.label "Lagre og endre teiknkoding">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "e">
-<!ENTITY printSetupCmd.label "Utskriftsformat …">
-<!ENTITY printSetupCmd.accesskey "m">
-<!ENTITY printCmd.label "Skriv ut …">
-<!ENTITY printCmd.accesskey "S">
-<!ENTITY printCmd.key "P">
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "Rediger">
@@ -116,7 +111,7 @@
 <!ENTITY insertBreakAllCmd.accesskey "u">
 
 <!-- Used just in context popup. -->
-<!ENTITY spellCheckNoSuggestions.label "(Ingen framlegg funne)">
+<!ENTITY spellCheckNoSuggestions.label "(Ingen forslag)">
 <!ENTITY spellCheckIgnoreWord.label "Oversjå ord">
 <!ENTITY spellCheckIgnoreWord.accesskey "O">
 <!ENTITY spellCheckAddToDictionary.label "Legg til i ordboka">

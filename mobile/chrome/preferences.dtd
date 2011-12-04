@@ -21,3 +21,4 @@
 <!ENTITY homepage.default                          "&brandShortName; Start">
 <!ENTITY homepage.currentpage                      "Bruk aktiv side">
 <!ENTITY showCharsetEncoding.title                 "Vis teiknkoding">
+<!ENTITY actionbar.default                         "&brandShortName; innstillingar">
