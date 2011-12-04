@@ -92,6 +92,8 @@
 <!ENTITY viewMenu.accesskey "V">
 <!ENTITY viewToolbarsMenuNew.label "Verktylinjer"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "V"> 
+<!ENTITY menubarCmd.label "Menylinje">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showCompositionToolbarCmd.label "Forfattarlinje">
 <!ENTITY showCompositionToolbarCmd.accesskey "F">
 <!ENTITY showFormattingBarCmd.label "Formateringslinje">

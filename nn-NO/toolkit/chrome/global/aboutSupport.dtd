@@ -17,6 +17,7 @@
 <!ENTITY aboutSupport.appBasicsBuildConfig "Byggekonfigurasjon">
 <!ENTITY aboutSupport.appBasicsUserAgent "Brukaragent">
 <!ENTITY aboutSupport.appBasicsCrashIDs "Krasjrapportar">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Minnebruk">
 
 <!ENTITY aboutSupport.show.label "Opne mappa med fila">
 

@@ -3,7 +3,6 @@
 <!ENTITY sync.connect               "Kople til">
 <!ENTITY sync.connected             "Tilkopla">
 <!ENTITY sync.details               "Detaljar">
-<!ENTITY sync.synchronize           "Slå på Sync">
 <!ENTITY sync.deviceName            "Denne eininga">
 <!ENTITY sync.disconnect            "Kople frå">
 <!ENTITY sync.syncNow               "Sync no">
@@ -14,7 +13,7 @@
 <!ENTITY sync.setup.manual          "Skriv inn Sync-kontodetaljar">
 <!ENTITY sync.account               "Kontonamn">
 <!ENTITY sync.password              "Passord">
-<!ENTITY sync.syncKey               "Sync-nøkkel">
+<!ENTITY sync.recoveryKey           "Oppattbyggjingsnøkkel">
 <!ENTITY sync.customServer          "Bruk eigendefinert tenar">
 <!ENTITY sync.serverURL             "Tenar-URL">
 <!ENTITY sync.setup.connect         "Kople til">
