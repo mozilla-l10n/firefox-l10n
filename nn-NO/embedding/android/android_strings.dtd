@@ -1,6 +1,4 @@
 
-<!ENTITY  splash_screen_loading "Lastar">
-<!ENTITY  splash_screen_installing_libs "installerer bibliotek \u2026">
 <!ENTITY  splash_firstrun "Konfigurerer &brandShortName; \u2026">
 
 <!ENTITY  no_space_to_start_error "Det er ikkje nok ledig plass for at &brandShortName; kan starte.">
@@ -17,7 +15,7 @@
 <!ENTITY  exit_label "Avslutt">
 <!ENTITY  continue_label "Hald fram">
 
-<!ENTITY  launcher_shortcuts_title "&brandShortName; Nett-appar">
-<!ENTITY  launcher_shortcuts_empty "Ingen nett-appar vart funne">
+<!ENTITY  launcher_shortcuts_title "&brandShortName; nett-appar">
+<!ENTITY  launcher_shortcuts_empty "Fann ingen nett-appar">
 
 <!ENTITY choose_file "Vel fil">

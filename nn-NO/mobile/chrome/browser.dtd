@@ -93,9 +93,11 @@
 <!ENTITY consoleErrColumn.label    "Kolonne:">
 
 <!ENTITY contextOpenInNewTab.label    "Opne lenkje i ny fane">
-<!ENTITY contextSaveLink.label        "Lagre lenkje">
 <!ENTITY contextSaveImage.label       "Lagre bilete">
 <!ENTITY contextCopyLink.label        "Kopier lenkje">
+<!ENTITY contextCopyEmail.label       "Kopier e-postadresse">
+<!ENTITY contextCopyPhone.label       "Kopier telefonnummer">
+<!ENTITY contextCopyImageLocation.label       "Kopier bildeadresse">
 <!ENTITY contextShareLink.label       "Del lenkje">
 <!ENTITY contextShareImage.label      "Del bilete">
 <!ENTITY contextBookmarkLink.label    "Bokmerk lenkje">
@@ -116,6 +118,5 @@
 <!ENTITY pageactions.findInPage      "Finn på sida">
 <!ENTITY pageactions.search.addNew   "Legg til søkjemotor">
 <!ENTITY pageactions.charEncoding    "Teiknkoding">
-<!ENTITY pageactions.webapps.install "Installer som App">
 
 <!ENTITY appMenu.siteOptions         "Nettstadsval">
