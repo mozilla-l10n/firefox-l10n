@@ -13,9 +13,9 @@
 <!ENTITY manageAccount.label          "Handsame konto">
 <!ENTITY manageAccount.accesskey      "H">
 <!ENTITY viewQuota.label              "Vis plassavgrensing">
-<!ENTITY changePassword2.label         "Endre passord …">
-<!ENTITY mySyncKey.label              "Min Sync-nøkkel">
-<!ENTITY resetSync2.label              "Tilbakestill Sync …">
+<!ENTITY changePassword2.label        "Endre passord …">
+<!ENTITY myRecoveryKey.label          "Oppattbyggjingsnøkkel">
+<!ENTITY resetSync2.label             "Tilbakestill Sync …">
 
 <!ENTITY addDevice.label              "Legg til ei eining">
 

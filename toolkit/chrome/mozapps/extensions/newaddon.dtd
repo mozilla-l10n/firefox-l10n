@@ -1,5 +1,5 @@
 <!ENTITY title           "Installer utviding">
-<!ENTITY intro           "Eit anna program på datamaskina ønskjer å endre
+<!ENTITY intro           "Eit anna program på datamaskina ynskjer å endre
                           &brandShortName; med følgjande utviding:">
 <!ENTITY warning         "Installer utvidingar berre frå utgjevarar du stolar på.">
 <!ENTITY allow           "Tillat denne installeringa">
