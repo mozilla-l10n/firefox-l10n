@@ -121,6 +121,8 @@
 <!ENTITY redoDefaultCmd.accesskey "U">
 
 <!-- View Menu -->
+<!ENTITY menubarCmd.label "Bilah Menu">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showMessengerToolbarCmd.label "Bilah Alat Email">
 <!ENTITY showMessengerToolbarCmd.accesskey "t">
 <!ENTITY customizeToolbar.label "Kesukaan…">
@@ -271,6 +273,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageSourceCmd.label "Kode Sumber Pesan">
 <!ENTITY pageSourceCmd.accesskey "P">
 <!ENTITY pageSourceCmd.key "u">
+<!ENTITY getNewMessagesCmd.key "y">
+<!ENTITY getAllNewMessagesCmd.key "Y">
 
 <!-- Search Menu -->
 <!ENTITY findMenu.label "Cari">
@@ -498,12 +502,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY previousButton.label "Sebelumnya">
 <!ENTITY backButton1.label "Mundur">
 <!ENTITY goForwardButton1.label "Maju">
+<!ENTITY deleteItem.title "Hapus">
 <!ENTITY deleteButton.label "Hapus">
 <!ENTITY undeleteButton.label "Kembalikan">
 <!ENTITY markButton.label "Tandai">
 <!ENTITY printButton.label "Cetak">
 <!ENTITY stopButton.label "Berhenti">
 <!ENTITY throbberItem.title "Indikator Aktivitas">
+<!ENTITY junkItem.title "Junk">
 <!ENTITY junkButton.label "Junk">
 <!ENTITY notJunkButton.label "Bukan Junk">
 <!ENTITY addressBookButton.label "Buku Alamat">

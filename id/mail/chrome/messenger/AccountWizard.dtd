@@ -5,9 +5,9 @@
 
 <!-- Entities for Account Type page -->
 
-<!ENTITY accountSetupInfo.label "Untuk menerima pesan, Anda diwajibkan membuat sebuah akun Email atau Newsgroup.">
+<!ENTITY accountSetupInfo2.label "Untuk menerima pesan, Anda diwajibkan membuat sebuah akun.">
 <!ENTITY accountTypeTitle.label "Membuat Akun Baru">
-<!ENTITY accountTypeDesc.label "Penuntun ini akan mengumpulkan informasi yang dibutuhkan untuk mengatur akun Email atau Newsgroup. Jika Anda tidak mengetahui informasi yang diminta, silakan hubungi Administrator Sistem atau Internet Service Provider Anda.">
+<!ENTITY accountTypeDesc2.label "Penuntun ini akan mengumpulkan informasi yang dibutuhkan untuk mengatur akun. Jika Anda tidak mengetahui informasi yang diminta, silakan hubungi Administrator Sistem atau Internet Service Provider Anda.">
 <!ENTITY accountTypeDirections.label "Pilih jenis akun yang ingin Anda atur:">
 <!ENTITY accountTypeMail.label "Akun email">
 <!ENTITY accountTypeMail.accesskey "m">
