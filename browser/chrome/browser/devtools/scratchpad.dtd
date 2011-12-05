@@ -137,19 +137,9 @@
 <!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
-<!ENTITY resetContext.label           "Բերել նախնականի">
-<!ENTITY resetContext.accesskey       "Բ">
-
 <!ENTITY executeMenu.label            "Execute">
 <!ENTITY executeMenu.accesskey        "X">
 
-<!ENTITY toolsMenu.label              "Գործիքներ">
-<!ENTITY toolsMenu.accesskey          "Գ">
-
-<!ENTITY errorConsoleCmd.label        "Սխալների ցուցակ">
-<!ENTITY errorConsoleCmd.accesskey    "Ս">
 <!ENTITY errorConsoleCmd.commandkey   "Ս">
 
-<!ENTITY webConsoleCmd.label          "Վեբ կոնսոլ">
-<!ENTITY webConsoleCmd.accesskey      "Վ">
 <!ENTITY webConsoleCmd.commandkey     "Վ">
