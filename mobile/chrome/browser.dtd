@@ -93,9 +93,11 @@
 <!ENTITY consoleErrColumn.label    "Oszlop:">
 
 <!ENTITY contextOpenInNewTab.label    "Megnyitás új lapon">
-<!ENTITY contextSaveLink.label        "Hivatkozás mentése">
 <!ENTITY contextSaveImage.label       "Kép mentése">
 <!ENTITY contextCopyLink.label        "Hivatkozás másolása">
+<!ENTITY contextCopyEmail.label       "E-mail cím másolása">
+<!ENTITY contextCopyPhone.label       "Telefonszám másolása">
+<!ENTITY contextCopyImageLocation.label       "Kép címének másolása">
 <!ENTITY contextShareLink.label       "Hivatkozás megosztása">
 <!ENTITY contextShareImage.label      "Kép megosztása">
 <!ENTITY contextBookmarkLink.label    "Hivatkozás könyvjelzőzése">
@@ -116,6 +118,5 @@
 <!ENTITY pageactions.findInPage      "Keresés az oldalon">
 <!ENTITY pageactions.search.addNew   "Keresőszolgáltatás hozzáadása">
 <!ENTITY pageactions.charEncoding    "Karakterkódolás">
-<!ENTITY pageactions.webapps.install "Telepítés alkalmazásként">
 
 <!ENTITY appMenu.siteOptions         "Webhely beállításai">

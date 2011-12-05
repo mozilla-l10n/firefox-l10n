@@ -79,6 +79,8 @@
 <!ENTITY viewMenu.accesskey                             "N">
 <!ENTITY viewToolbarsMenu.label                         "Eszköztárak">
 <!ENTITY viewToolbarsMenu.accesskey                     "E"> 
+<!ENTITY menubarCmd.label                               "Menüsor">
+<!ENTITY menubarCmd.accesskey                           "M">
 <!ENTITY showAbToolbarCmd.label                         "Címjegyzék eszköztár">
 <!ENTITY showAbToolbarCmd.accesskey                     "C">
 <!ENTITY showTaskbarCmd.label                           "Állapotsor">

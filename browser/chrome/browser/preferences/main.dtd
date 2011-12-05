@@ -13,8 +13,8 @@
 <!ENTITY useCurrentPage.label      "Aktuális oldal használata">
 <!ENTITY useCurrentPage.accesskey  "o">
 <!ENTITY useMultiple.label         "Aktuális oldalak használata">
-<!ENTITY useBookmark.label         "Könyvjelző használata">
-<!ENTITY useBookmark.accesskey     "h">
+<!ENTITY chooseBookmark.label      "Könyvjelző használata...">
+<!ENTITY chooseBookmark.accesskey  "n">
 <!ENTITY restoreDefault.label      "Alapértelmezés">
 <!ENTITY restoreDefault.accesskey  "A">
 
