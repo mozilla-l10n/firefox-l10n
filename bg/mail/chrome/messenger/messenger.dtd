@@ -119,6 +119,8 @@
 <!ENTITY redoDefaultCmd.accesskey "П">
 <!-- View Menu -->
 
+<!ENTITY menubarCmd.label "Лента за менюто">
+<!ENTITY menubarCmd.accesskey "м">
 <!ENTITY showMessengerToolbarCmd.label "Лента за поща">
 <!ENTITY showMessengerToolbarCmd.accesskey "п">
 <!ENTITY customizeToolbar.label "Персонализиране…">
@@ -270,6 +272,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageSourceCmd.label "Изходен код на писмото">
 <!ENTITY pageSourceCmd.accesskey "х">
 <!ENTITY pageSourceCmd.key "u">
+<!ENTITY getNewMessagesCmd.key "y">
+<!ENTITY getAllNewMessagesCmd.key "Y">
 <!-- Search Menu -->
 
 <!ENTITY findMenu.label "Търсене">
@@ -499,12 +503,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY previousButton.label "Предишно">
 <!ENTITY backButton1.label "Назад">
 <!ENTITY goForwardButton1.label "Препращане">
+<!ENTITY deleteItem.title "Изтриване">
 <!ENTITY deleteButton.label "Изтриване">
 <!ENTITY undeleteButton.label "Възстановяване">
 <!ENTITY markButton.label "Отбелязване">
 <!ENTITY printButton.label "Печат">
 <!ENTITY stopButton.label "Стоп">
 <!ENTITY throbberItem.title "Индикатор за активност">
+<!ENTITY junkItem.title "Junk">
 <!ENTITY junkButton.label "Нежелана поща">
 <!ENTITY notJunkButton.label "Желана поща">
 <!ENTITY addressBookButton.label "Адресник">

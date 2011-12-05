@@ -193,6 +193,9 @@ can reach it easily. -->
 <!ENTITY inspectMenu.label "Изследване">
 <!ENTITY inspectMenu.accesskey "И">
 <!ENTITY inspectMenu.commandkey "I">
+
+<!ENTITY inspectContextMenu.label "Изследване на елемент">
+<!ENTITY inspectContextMenu.accesskey "И">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -296,7 +299,7 @@ can reach it easily. -->
 <!ENTITY appMenuSafeMode.accesskey "Р">
 
 <!ENTITY openCmd.commandkey "l">
-<!ENTITY urlbar.placeholder "Go to a Web Site">
+<!ENTITY urlbar.placeholder "Отиване в уеб сайт">
 <!ENTITY urlbar.accesskey "Т">
 <!ENTITY urlbar.switchToTab.label "Превключване към подпрозорец:">
 <!-- 

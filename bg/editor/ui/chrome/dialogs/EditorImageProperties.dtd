@@ -101,6 +101,9 @@
 
 <!ENTITY showImageLinkBorder.label "Показване на рамка около изображението връзка">
 <!ENTITY showImageLinkBorder.accessKey "м">
+<!ENTITY LinkAdvancedEditButton.label "Разширено редактиране на връзка…">
+<!ENTITY LinkAdvancedEditButton.accessKey "Р">
+<!ENTITY LinkAdvancedEditButton.tooltip "Добавяне или промяна на атрибути на HTML, стилови атрибути и JavaScript.">
 <!-- These tabs are currently used in the image input dialog -->
 
 <!ENTITY imageInputTab.label "Формуляр">

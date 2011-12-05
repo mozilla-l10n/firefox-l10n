@@ -13,8 +13,8 @@
 <!ENTITY useCurrentPage.label "Текущата страница">
 <!ENTITY useCurrentPage.accesskey "Т">
 <!ENTITY useMultiple.label "Текущите страници">
-<!ENTITY useBookmark.label "Отметка">
-<!ENTITY useBookmark.accesskey "О">
+<!ENTITY chooseBookmark.label "Отметка…">
+<!ENTITY chooseBookmark.accesskey "О">
 <!ENTITY restoreDefault.label "Стандартна страница">
 <!ENTITY restoreDefault.accesskey "С">
 

@@ -111,7 +111,7 @@
 <!ENTITY securityView.unknown "Неизвестен">
 
 
-<!ENTITY securityView.identity.header "Паспорт на сайта">
+<!ENTITY securityView.identity.header "Идентичност на сайта">
 <!ENTITY securityView.identity.owner "Собственик:">
 <!ENTITY securityView.identity.domain "Уеб сайт:">
 <!ENTITY securityView.identity.verifier "Проверено от:">
