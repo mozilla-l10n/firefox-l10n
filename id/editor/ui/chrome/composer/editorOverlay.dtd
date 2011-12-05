@@ -68,11 +68,6 @@
 <!ENTITY publishAsCmd.accesskey "n">
 <!ENTITY saveAsChangeEncodingCmd.label "Simpan dan Ubah Pengodean Karakter">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "e">
-<!ENTITY printSetupCmd.label "Tata Laman…">
-<!ENTITY printSetupCmd.accesskey "T">
-<!ENTITY printCmd.label "Cetak…">
-<!ENTITY printCmd.accesskey "C">
-<!ENTITY printCmd.key "p">
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "Ubah">

@@ -79,6 +79,8 @@
 <!ENTITY viewMenu.accesskey                             "T">
 <!ENTITY viewToolbarsMenu.label                         "Bilah Alat">
 <!ENTITY viewToolbarsMenu.accesskey                     "t"> 
+<!ENTITY menubarCmd.label 								"Bilah Menu">
+<!ENTITY menubarCmd.accesskey 							"M">
 <!ENTITY showAbToolbarCmd.label                         "Bilah Alat Buku Alamat">
 <!ENTITY showAbToolbarCmd.accesskey                     "B">
 <!ENTITY showTaskbarCmd.label                           "Bilah Status">
