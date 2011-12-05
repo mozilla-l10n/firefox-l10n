@@ -1,16 +1,16 @@
 <!ENTITY networkPanel.requestURL                  "Eskaeraren URLa">
-<!ENTITY networkPanel.requestMethod               "Eskaera-metodoa">
+<!ENTITY networkPanel.requestMethod               "Eskaeraren metodoa">
 <!ENTITY networkPanel.statusCode                  "Egoera-kodea">
 
 <!ENTITY networkPanel.requestHeaders              "Eskaeraren goiburuak">
-<!ENTITY networkPanel.requestCookie               "Bidalitako cookie-ak">
+<!ENTITY networkPanel.requestCookie               "Bidalitako cookie-a">
 <!ENTITY networkPanel.requestBody                 "Eskaeraren gorputza">
-<!ENTITY networkPanel.requestFormData             "Bidalitako inprimaki-datuak">
+<!ENTITY networkPanel.requestFormData             "Bidaliako inprimakien datuak">
 
 <!ENTITY networkPanel.responseHeaders             "Erantzunaren goiburuak">
 <!ENTITY networkPanel.responseBody                "Erantzunaren gorputza">
-<!ENTITY networkPanel.responseBodyCached          "Cache-atutako datuak">
+<!ENTITY networkPanel.responseBodyCached          "Cache-ko datuak">
 <!ENTITY networkPanel.responseBodyUnknownType     "Eduki mota ezezaguna">
-<!ENTITY networkPanel.responseNoBody              "Erantzunaren gorputzik ez">
+<!ENTITY networkPanel.responseNoBody              "Erantzunean gorputzik ez">
 <!ENTITY networkPanel.responseImage               "Jasotako irudia">
-<!ENTITY networkPanel.responseImageCached         "Cache-atutako irudia">
+<!ENTITY networkPanel.responseImageCached         "Cache-ko irudia">

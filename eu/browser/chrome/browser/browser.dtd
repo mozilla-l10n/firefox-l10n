@@ -90,6 +90,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "E">
 <!ENTITY fullScreenExit.label "Irten pantaila osoko ikuspegitik">
 <!ENTITY fullScreenExit.accesskey "p">
+<!ENTITY domFullScreenWarning.label "Sakatu ESC pantaila osoko ikuspegia uzteko">
 
 <!ENTITY closeWindow.label "Itxi leihoa">
 <!ENTITY closeWindow.accesskey "h">
@@ -212,9 +213,12 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectPanelTitle.label      "HTML">
-<!ENTITY inspectButton.label          "Ikuskatu">
-<!ENTITY inspectButton.accesskey      "I">
+<!ENTITY inspectPanelTitle.label        "HTML">
+<!ENTITY inspectButton.label            "Ikuskatu">
+<!ENTITY inspectButton.accesskey        "I">
+<!ENTITY inspectCloseButton.tooltiptext "Itxi ikuskatzailea">
+<!ENTITY inspectStyleButton.label     "Estiloa">
+<!ENTITY inspectStyleButton.accesskey "s">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Eskuratu tresna gehiago">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "E">
@@ -432,12 +436,17 @@ can reach it easily. -->
 <!ENTITY mediaHideControls.accesskey "k">
 <!ENTITY videoFullScreen.label       "Pantaila osoa">
 <!ENTITY videoFullScreen.accesskey   "P">
+<!ENTITY videoSaveImage.label        "Gorde argazkia honela…">
+<!ENTITY videoSaveImage.accesskey    "G">
+<!ENTITY videoShowStats.label        "Erakutsi estatistikak">
+<!ENTITY videoShowStats.accesskey    "t">
+<!ENTITY videoHideStats.label        "Ezkutatu estatistikak">
+<!ENTITY videoHideStats.accesskey    "t">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
-
 
 
 <!ENTITY fullZoomEnlargeCmd.label       "Gerturatu">

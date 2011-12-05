@@ -2,6 +2,21 @@
 <!ENTITY playButton.pauseLabel "Pausatu">
 <!ENTITY muteButton.muteLabel "Mututu">
 <!ENTITY muteButton.unmuteLabel "Ez mututu">
+
+<!ENTITY stats.media "Media">
+<!ENTITY stats.size "Tamaina">
+<!ENTITY stats.activity "Jarduera">
+<!ENTITY stats.activityPaused "Pausatuta">
+<!ENTITY stats.activityPlaying "Erreproduzitzen">
+<!ENTITY stats.activityEnded "Amaituta">
+<!ENTITY stats.activitySeeking "(bilatzen)">
+<!ENTITY stats.volume "Bolumena">
+<!ENTITY stats.channels "Kanalak">
+<!ENTITY stats.sampleRate "Lagin-maiztasuna">
+<!ENTITY stats.framesParsed "Analizatutako fotogramak">
+<!ENTITY stats.framesDecoded "Deskodetutako fotogramak">
+<!ENTITY stats.framesPresented "Aurkeztutako fotogramak">
+<!ENTITY stats.framesPainted "Marraztutako fotogramak">
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be

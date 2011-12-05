@@ -17,7 +17,7 @@
 <!ENTITY myRecoveryKey.label          "Nire berreskuratze-gakoa">
 <!ENTITY resetSync2.label             "Berrezarri Sync…">
 
-<!ENTITY addDevice.label              "Gehitu gailua">
+<!ENTITY pairDevice.label             "Parekatu gailua">
 
 <!ENTITY syncMy.label               "Sinkronizatu nire">
 <!ENTITY engine.bookmarks.label     "Laster-markak">
