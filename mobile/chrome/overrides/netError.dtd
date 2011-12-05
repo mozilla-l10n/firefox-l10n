@@ -70,13 +70,13 @@
 <li>Agian bestelako programaren bat instalatu behar duzu helbide hau irekitzeko.</li> 
 </ul>">
 
-<!ENTITY proxyConnectFailure.title "Proxy zerbitzaria konexioak ukatzen ari da">
+<!ENTITY proxyConnectFailure.title "Proxy-zerbitzaria konexioak ukatzen ari da">
 <!ENTITY proxyConnectFailure.longDesc "<ul> 
 <li>Egiaztatu proxyaren ezarpenak zuzenak diren ziurtatzeko.</li> 
-<li>Jarri harremanetan zure sare administratzailearekin proxy zerbitzaria badabilela ziurtatzeko.</li> 
+<li>Jarri harremanetan zure sare administratzailearekin proxy-zerbitzaria badabilela ziurtatzeko.</li> 
 </ul>">
 
-<!ENTITY proxyResolveFailure.title "Proxy zerbitzaria ezin da aurkitu">
+<!ENTITY proxyResolveFailure.title "Proxy-zerbitzaria ezin da aurkitu">
 <!ENTITY proxyResolveFailure.longDesc2 "<ul> 
 <li>Egiaztatu proxyaren ezarpenak zuzenak direla ziurtatzeko.</li> 
 <li>Egiaztatu zure gailuak datuen edo WiFi-aren konexioa daukala.</li> 

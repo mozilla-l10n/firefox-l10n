@@ -310,7 +310,7 @@
 <!ENTITY calendarproperties.name.label "Izena:">
 <!ENTITY calendarproperties.readonly.label "Irakurketa soilekoa">
 <!ENTITY calendarproperties.firealarms.label "Ikusi alarmak">
-<!ENTITY calendarproperties.cache.label "Katxe (EXPERIMENTALA, berrabiaraztea behar du))">
+<!ENTITY calendarproperties.cache.label "Cache-a (ESPERIMENTALA, berrabiaraztea behar du))">
 <!ENTITY calendarproperties.enabled.label "Aldatu egutegi hau:">
 <!-- Calendar Publish Dialog -->
 

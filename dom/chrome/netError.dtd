@@ -15,7 +15,7 @@
 <!ENTITY fileNotFound.title "Fitxategia ez da aurkitu">
 <!ENTITY fileNotFound.longDesc "<ul><li>Elementuaren izena aldatua, elementua bera ezabatuta edo lekuz aldatua egon daiteke?</li><li>Helbidea oker idatzi duzu?</li><li>Baduzu eskatutako elementua jasotzeko baimenik?</li></ul>">
 
-<!ENTITY generic.title "Eskakizuna ezin da osatu">
+<!ENTITY generic.title "Ezin da eskaera osatu">
 <!ENTITY generic.longDesc "<p>Momentu honetan ez dago arazo edo errore honen inguruko argibide gehiago.</p>">
 
 <!ENTITY malformedURI.title "Helbide baliogabea">
@@ -47,14 +47,14 @@
 <!ENTITY protocolNotFound.title "Protokolo ezezaguna">
 <!ENTITY protocolNotFound.longDesc "<p>Nabigatzaileak ez du helbidean zehaztutako protokoloa ulertzen (adib. <q>wxyz://</q>), beraz ezin du gunearekin konektatu.</p><ul><li>Multimedia edo testua ez diren bestelako zerbitzuak kargatzen saiatzen ari zara? Irakurri ondo guneak eskatzen dituen betekizunak.</li><li>Protokolo batzuek hirugarrenek garatutako programa edo pluginak instalatzea eskatzen dute.</li></ul>">
 
-<!ENTITY proxyConnectFailure.title "Proxy zerbitzariak konexioa ukatu egin du">
-<!ENTITY proxyConnectFailure.longDesc "<p>Nabigatzailea proxy zerbitzari bat erabiltzeko konfiguratuta dago, baina proxy zerbitzariak konexioa ukatu egin du.</p><ul><li>Proxy zerbitzariaren ezarpenak ondo ezarrita daude? Begira itzazu ezarpenak eta saiatu berriro.</li><li>Proxy zerbitzariak sare honetatik bideratutako konexioak baimentzen ditu?</li><li>Arazoak oraindik? Jarri harremanetan zure sarearen kudeatzailearekin edo Internet hornitzailearekin.</li></ul>">
+<!ENTITY proxyConnectFailure.title "Proxy-zerbitzariak konexioa ukatu egin du">
+<!ENTITY proxyConnectFailure.longDesc "<p>Nabigatzailea proxy-zerbitzari bat erabiltzeko konfiguratuta dago, baina proxy-zerbitzariak konexioa ukatu egin du.</p><ul><li>Proxy-zerbitzariaren ezarpenak ondo ezarrita daude? Begira itzazu ezarpenak eta saiatu berriro.</li><li>Proxy-zerbitzariak sare honetatik bideratutako konexioak baimentzen ditu?</li><li>Arazoak oraindik? Jarri harremanetan zure sarearen kudeatzailearekin edo Internet hornitzailearekin.</li></ul>">
 
-<!ENTITY proxyResolveFailure.title "Proxy zerbitzaria ez da aurkitu">
-<!ENTITY proxyResolveFailure.longDesc "<p>Nabigatzailea proxy zerbitzari bat erabiltzeko konfiguratuta dago, baina proxy zerbitzaria ez da aurkitu.</p><ul><li>Proxy zerbitzariaren ezarpenak ondo ezarrita daude? Begira itzazu ezarpenak eta saiatu berriro.</li><li>Ordenagailua sare batera konektatua dago?</li><li>Arazoak oraindik? Jarri harremanetan zure sarearen kudeatzailearekin edo Internet hornitzailearekin.</li></ul>">
+<!ENTITY proxyResolveFailure.title "Proxy-zerbitzaria ez da aurkitu">
+<!ENTITY proxyResolveFailure.longDesc "<p>Nabigatzailea proxy-zerbitzari bat erabiltzeko konfiguratuta dago, baina proxy-zerbitzaria ez da aurkitu.</p><ul><li>Proxy-zerbitzariaren ezarpenak ondo ezarrita daude? Begira itzazu ezarpenak eta saiatu berriro.</li><li>Ordenagailua sare batera konektatua dago?</li><li>Arazoak oraindik? Jarri harremanetan zure sarearen kudeatzailearekin edo Internet hornitzailearekin.</li></ul>">
 
 <!ENTITY redirectLoop.title "Berbideratze-begizta">
-<!ENTITY redirectLoop.longDesc "<p>Nabigatzaileak eskatutako elementua berreskuratzen saiatzeari utzi dio. Gunea eskakizuna modu okerrean berbideratzen ari da.</p><ul><li>Gune honetarako cookie-ak blokeatu edo ezgaitu dituzu?</li><li><em>OHARRA</em>: guneak bidalitako cookie-ak onartu eta gero arazoa konpontzen ez bada, zerbitzariaren konfigurazioaren arazoa izan daiteke eta ez zure ordenagailuarena.</li></ul>">
+<!ENTITY redirectLoop.longDesc "<p>Nabigatzaileak eskatutako elementua berreskuratzen saiatzeari utzi dio. Gunea eskaera modu okerrean birbideratzen ari da.</p><ul><li>Gune honetarako cookie-ak blokeatu edo ezgaitu dituzu?</li><li><em>OHARRA</em>: guneak bidalitako cookie-ak onartu eta gero arazoa konpontzen ez bada, zerbitzariaren konfigurazioaren arazoa izan daiteke eta ez zure ordenagailuarena.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Erantzun desegokia">
 <!ENTITY unknownSocketType.longDesc "<p>Guneak emandako erantzuna ustekabekoa izan da eta nabigatzaileak ezin du aurrera jarraitu.</p>">

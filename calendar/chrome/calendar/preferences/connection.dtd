@@ -78,5 +78,5 @@
 <!ENTITY noproxy.label "Proxy gabe honentzat:">
 <!ENTITY noproxy.accesskey "g">
 <!ENTITY noproxyExplain.label "Adibidea: .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY shareproxy.label "Proxy zerbitzari hau erabili protokolo guztientzat">
+<!ENTITY shareproxy.label "Proxy-zerbitzari hau erabili protokolo guztientzat">
 <!ENTITY shareproxy.accesskey "x">

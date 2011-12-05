@@ -64,7 +64,7 @@
 <!ENTITY pageTitle.label              "Orriaren izenburua:">
 <!ENTITY pageTitle.accesskey          "i">
 <!ENTITY pageTitle.tooltip            "Leihoan eta laster-marketan orriak erabiltzeko izenburua idatzi">
-<!ENTITY pageTitleExample.label       "adib.: &quot;Nire Web Orria&quot;">
+<!ENTITY pageTitleExample.label       "adib.: &quot;Nire web orria&quot;">
 <!ENTITY filename.label               "Fitxategi-izena:">
 <!ENTITY filename.accesskey           "F">
 <!ENTITY filename.tooltip             "Idatzi fitxategiaren izena, web orrientzat '.html' ere">
