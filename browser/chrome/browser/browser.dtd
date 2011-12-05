@@ -441,14 +441,14 @@ fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-<!ENTITY fullZoomEnlargeCmd.label "Minnka">
-<!ENTITY fullZoomEnlargeCmd.accesskey "M">
+<!ENTITY fullZoomEnlargeCmd.label "Stækka">
+<!ENTITY fullZoomEnlargeCmd.accesskey "S">
 <!ENTITY fullZoomEnlargeCmd.commandkey "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
  <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-<!ENTITY fullZoomReduceCmd.label "Stækka">
-<!ENTITY fullZoomReduceCmd.accesskey "S">
+<!ENTITY fullZoomReduceCmd.label "Minnka">
+<!ENTITY fullZoomReduceCmd.accesskey "M">
 <!ENTITY fullZoomReduceCmd.commandkey "-">
 <!ENTITY fullZoomReduceCmd.commandkey2 "">
 <!ENTITY fullZoomResetCmd.label "Endursetja">
