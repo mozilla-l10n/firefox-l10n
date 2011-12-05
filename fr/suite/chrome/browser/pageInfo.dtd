@@ -79,7 +79,6 @@
 
 <!ENTITY  linksTab              "Liens">
 <!ENTITY  linksTab.accesskey    "L">
-<!ENTITY  linkNo                "Non.">
 <!ENTITY  linkName              "Nom">
 <!ENTITY  linkAddress           "Adresse">
 <!ENTITY  linkType              "Type">
