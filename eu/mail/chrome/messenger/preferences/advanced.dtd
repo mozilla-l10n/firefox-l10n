@@ -90,7 +90,7 @@
 
 <!ENTITY useCacheBefore.label            "Erabili gehienez">
 <!ENTITY useCacheBefore.accesskey        "E">
-<!ENTITY useCacheAfter.label             "MB katxearentzat">
+<!ENTITY useCacheAfter.label             "MB cache-arentzat">
 <!ENTITY clearCacheNow.label             "Garbitu orain">
 <!ENTITY clearCacheNow.accesskey         "G">
 <!-- Certificates -->

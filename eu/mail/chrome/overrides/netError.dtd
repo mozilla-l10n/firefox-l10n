@@ -16,7 +16,7 @@
 <!ENTITY dnsNotFound.longDesc "<ul> 
 <li>Helbidea ondo begiratu mota honetako erroreak ekiditeko: 
 <strong>ww</strong>.adibidea.net <strong>www</strong>.adibidea.net-en ordez</li> 
-<li>Ezin baduzu inolako orririk kargatu, zure ordenagailuaren sare konexioa begiratu.</li> <li>Zure ordenagailua edo sarea firewall edo proxy baten bitartez babestuta badago, ziurtatu &brandShortName;(e)k weba nabigatzeko baimenik daukan.</li> 
+<li>Ezin baduzu inolako orririk kargatu, zure ordenagailuaren sareko konexioa begiratu.</li> <li>Zure ordenagailua edo sarea firewall edo proxy baten bitartez babestuta badago, ziurtatu &brandShortName;(e)k weba nabigatzeko baimenik daukan.</li> 
 </ul>">
 
 <!ENTITY fileNotFound.title "Fitxategia ez da aurkitu">
@@ -64,16 +64,16 @@
 <li>Seguruenik beste programa bat instalatu behar duzu helbide hau irekitzeko.</li> 
 </ul>">
 
-<!ENTITY proxyConnectFailure.title "Proxy zerbitzaria konexioak ukatzen ari da">
+-!ENTITY proxyConnectFailure.title "Proxy-zerbitzaria konexioak ukatzen ari da">
 <!ENTITY proxyConnectFailure.longDesc "<ul> 
 <li>Egiaztatu proxyaren konexioaren ezarpenak.</li> 
-<li>Sare kudeatzailearekin harremanetan jarri ziurtatzeko proxy zerbitzariamartxan dagoela.</li> 
+<li>Sare kudeatzailearekin harremanetan jarri ziurtatzeko proxy-zerbitzaria martxan dagoela.</li> 
 </ul>">
 
-<!ENTITY proxyResolveFailure.title "Proxy zerbitzaria ezin da aurkitu">
+<!ENTITY proxyResolveFailure.title "Proxy-zerbitzaria ezin da aurkitu">
 <!ENTITY proxyResolveFailure.longDesc "<ul> 
 <li>Egiaztatu proxyaren konexioaren ezarpenak.</li> 
-<li>Egiaztatu zure ordenagailuak sare konexioa duela.</li> 
+<li>Egiaztatu zure ordenagailuak sareko konexioa duela.</li> 
 <li> Ordenagailua edo sarea firewall edo proxy baten bidez babestuta badaude, egiaztatu &brandShortName;(e)k webera irteteko baimena daukala.</li> 
 </ul>">
 
@@ -102,8 +102,8 @@
 
 <!ENTITY sharedLongDesc "<ul> 
 <li>Gunea une batez desgaituta edo oso lanpetuta egon daiteke. Saiatu berriz minutu batzuen buruan.</li> 
-<li>Beste inolako orririk kargatu ezin baduzu, zure ordenagailuaren sare konexioa egiaztatu.</li> 
-<li> Ordenagailua edo sarea firewall edo proxy baten bidez babestuta badaude, egiaztatu &brandShortName; (e)k Webera irteteko baimena daukala.</li> 
+<li>Beste inolako orririk ezin baduzu kargatu, egiaztatu ordenagailuaren sareko konexioa.</li> 
+<li>Ordenagailua edo sarea firewall edo proxy baten bidez babestuta badaude, egiaztatu &brandShortName;(e)k webera irteteko baimena daukala.</li> 
 </ul>">
 
 <!ENTITY malwareBlocked.title "Ustezko eraso gunea!">
