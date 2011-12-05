@@ -24,6 +24,7 @@
 <!ENTITY forwardTo.label "Переслать сообщение на">
 <!ENTITY replyWithTemplate.label "Ответить по шаблону">
 <!ENTITY markMessageRead.label "Отметить как прочитанное">
+<!ENTITY markMessageUnread.label "Отметить как непрочитанное">
 <!ENTITY markMessageStarred.label "Присвоить флаг">
 <!ENTITY setPriority.label "Изменить важность на">
 <!ENTITY addTag.label "Присвоить сообщению метку">
