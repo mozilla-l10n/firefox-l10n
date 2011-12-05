@@ -37,6 +37,11 @@
 <!ENTITY leaveMsgsOnSrvr.label         "Zostawiaj wiadomości na serwerze">
 <!ENTITY leaveMsgsOnSrvr.accesskey     "Z">
 
+<!ENTITY portNum.label          "Port:">
+<!ENTITY portNum.accesskey      "t">
+<!ENTITY defaultPortLabel.label "Domyślny:">
+<!ENTITY defaultPortValue.label "">
+
 <!ENTITY haveSmtp1.prefix            "Zostanie użyty domyślny serwer poczty wychodzącej (SMTP) - „">
 <!ENTITY haveSmtp1.suffix2           "”. Ustawienia serwera poczty wychodzącej można zmieniać za pomocą opcji dostępnych w oknie konfiguracji kont.">
 <!ENTITY loginTitle.label            "Nazwa użytkownika">
