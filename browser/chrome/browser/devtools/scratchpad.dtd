@@ -16,7 +16,7 @@
 <!ENTITY fileMenu.accesskey           "F">
 
 <!ENTITY newWindowCmd.label           "Leiho berria">
-<!ENTITY newWindowCmd.accesskey       "L">
+<!ENTITY newWindowCmd.accesskey       "b">
 <!ENTITY newWindowCmd.commandkey      "n">
 
 <!ENTITY openFileCmd.label            "Ireki fitxategia…">
@@ -32,7 +32,7 @@
 
 <!ENTITY closeCmd.label               "Itxi">
 <!ENTITY closeCmd.key                 "W">
-<!ENTITY closeCmd.accesskey           "I">
+<!ENTITY closeCmd.accesskey           "x">
 
 <!ENTITY editMenu.label               "Editatu">
 <!ENTITY editMenu.accesskey           "E">
@@ -43,11 +43,11 @@
 
 <!ENTITY redoCmd.label                "Berregin">
 <!ENTITY redoCmd.key                  "Y">
-<!ENTITY redoCmd.accesskey            "B">
+<!ENTITY redoCmd.accesskey            "r">
 
 <!ENTITY cutCmd.label                 "Ebaki">
 <!ENTITY cutCmd.key                   "X">
-<!ENTITY cutCmd.accesskey             "E">
+<!ENTITY cutCmd.accesskey             "k">
 
 <!ENTITY copyCmd.label                "Kopiatu">
 <!ENTITY copyCmd.key                  "C">
@@ -55,14 +55,14 @@
 
 <!ENTITY pasteCmd.label               "Itsatsi">
 <!ENTITY pasteCmd.key                 "V">
-<!ENTITY pasteCmd.accesskey           "s">
+<!ENTITY pasteCmd.accesskey           "I">
 
 <!ENTITY selectAllCmd.label           "Hautatu dena">
 <!ENTITY selectAllCmd.key             "A">
-<!ENTITY selectAllCmd.accesskey       "a">
+<!ENTITY selectAllCmd.accesskey       "d">
 
 <!ENTITY run.label                    "Exekutatu">
-<!ENTITY run.accesskey                "E">
+<!ENTITY run.accesskey                "x">
 <!ENTITY run.key                      "r">
 
 <!ENTITY inspect.label                "Ikuskatu">
@@ -94,23 +94,24 @@
 
 <!ENTITY browserContext.label         "Nabigatzailea">
 <!ENTITY browserContext.accesskey     "N">
-<!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
+<!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
 
-<!ENTITY resetContext.label           "Berrezarri">
-<!ENTITY resetContext.accesskey       "r">
+<!ENTITY resetContext2.label          "Berrezarri aldagaiak">
+<!ENTITY resetContext2.accesskey      "r">
 
 <!ENTITY executeMenu.label            "Exekutatu">
 <!ENTITY executeMenu.accesskey        "x">
+<!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
+  -  the browser Error Console, the key should be identical to the property of
+  -  the same name in browser.dtd.
+  -->
 
-<!ENTITY toolsMenu.label              "Tresnak">
-<!ENTITY toolsMenu.accesskey          "T">
-
-<!ENTITY errorConsoleCmd.label        "Errore-kontsola">
-<!ENTITY errorConsoleCmd.accesskey    "k">
 <!ENTITY errorConsoleCmd.commandkey   "j">
+<!-- LOCALIZATION NOTE (webConsoleCmd.commandkey): This command key launches
+  -  the browser WebConsole, the key should be identical to the property of
+  -  the same name in browser.dtd.
+  -->
 
-<!ENTITY webConsoleCmd.label          "Web kontsola">
-<!ENTITY webConsoleCmd.accesskey      "W">
 <!ENTITY webConsoleCmd.commandkey     "k">

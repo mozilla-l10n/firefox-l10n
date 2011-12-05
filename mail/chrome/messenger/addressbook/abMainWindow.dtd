@@ -87,12 +87,18 @@
 <!ENTITY showTaskbarCmd.accesskey                       "E">
 <!ENTITY customizeToolbar.label                         "Pertsonalizatu…">
 <!ENTITY customizeToolbar.accesskey                     "P">
-<!ENTITY showContactPane.label                          "Kontaktu-laburpenen panela">
-<!ENTITY showContactPane.accesskey                      "K">
+<!ENTITY layoutMenu.label                               "Diseinua">
+<!ENTITY layoutMenu.accesskey                           "D">
+<!ENTITY showDirectoryPane.label                        "Direktorioaren panela">
+<!ENTITY showDirectoryPane.accesskey                    "D">
+<!ENTITY showContactPane2.label                         "Kontaktuen panela">
+<!ENTITY showContactPane2.accesskey                     "K">
 <!ENTITY menu_ShowNameAs.label                          "Erakutsi izena honela">
 <!ENTITY menu_ShowNameAs.accesskey                      "n"> 
-<!ENTITY firstLastCmd.label                             "Izena, abizena">
-<!ENTITY firstLastCmd.accesskey                         "I"> 
+<!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
+because displayed names don't have the comma in between. -->
+<!ENTITY firstLastCmd2.label                            "Izen-abizenak">
+<!ENTITY firstLastCmd2.accesskey                        "I"> 
 <!ENTITY lastFirstCmd.label                             "Abizena, izena">
 <!ENTITY lastFirstCmd.accesskey                         "A">
 <!ENTITY displayNameCmd.label                           "Bistaratzeko izena">

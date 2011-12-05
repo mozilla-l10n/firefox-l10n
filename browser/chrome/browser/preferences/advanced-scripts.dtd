@@ -40,8 +40,8 @@
 
 <!ENTITY allowScripts.label             "Baimendu script-ei:">
 
-<!ENTITY moveResizeWindows.label        "Leihoak mugitu edo tamainaz aldatzea">
-<!ENTITY moveResizeWindows.accesskey    "m">
+<!ENTITY moveResizePopupWindows.label     "Popup leihoak lekuz edo tamainaz aldatzea">
+<!ENTITY moveResizePopupWindows.accesskey "k">
 <!ENTITY raiseLowerWindows.label        "Leihoak goratu edo beheratzea">
 <!ENTITY raiseLowerWindows.accesskey    "g">
 <!ENTITY disableContextMenus.label      "Testuinguru-menuak desgaitu edo ordezkatzea">

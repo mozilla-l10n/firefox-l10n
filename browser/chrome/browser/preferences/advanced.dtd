@@ -59,22 +59,28 @@
 
 <!ENTITY updateTab.label                 "Eguneratu">
 
-<!ENTITY autoCheck.label                 "Bilatu eguneraketak automatikoki honentzat:">
-<!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate2.label       "Gehigarriak">
-<!ENTITY enableAddonsUpdate2.accesskey   "r">
-<!ENTITY enableSearchUpdate.label        "Bilaketa-motorrak">
-<!ENTITY enableSearchUpdate.accesskey    "B">
-<!ENTITY whenUpdatesFound.label          "&brandShortName;(r)en eguneraketak topatzen direnean:">
-<!ENTITY askMe.label                     "Galdetu zer egin nahi dudan">
-<!ENTITY askMe.accesskey                 "G">
-<!ENTITY modeAutomatic.label             "Deskargatu eta instalatu automatikoki eguneraketa">
-<!ENTITY modeAutomatic.accesskey         "D">
-<!ENTITY modeAutoAddonWarn.label         "Ohar nazazu nire gehigarriren bat ezgaitzea badakar">
-<!ENTITY modeAutoAddonWarn.accesskey     "O">
+<!ENTITY updateApp.label                 "&brandShortName; eguneraketak:">
+<!ENTITY updateAuto.label                "Instalatu eguneraketak automatikoki (gomendatua: segurtasun hobea)">
+<!ENTITY updateAuto.accesskey            "a">
+<!ENTITY updateCheck.label               "Bilatu eguneraketak baina utzi aukeratzen instalatuko diren edo ez">
+<!ENTITY updateCheck.accesskey           "B">
+<!ENTITY updateManual.label              "Ez bilatu eguneraketak inoiz (ez gomendatua: segurtasun arriskua)">
+<!ENTITY updateManual.accesskey          "n">
+
+<!ENTITY updateAutoAddonWarn.label       "Abisatu nire gehigarriren bat desgaituko badu">
+<!ENTITY updateAutoAddonWarn.accesskey   "A">
+
 <!ENTITY updateHistory.label             "Erakutsi eguneraketen historia">
 <!ENTITY updateHistory.accesskey         "E">
+
+<!ENTITY useService.label                "Erabili atzeko planoko zerbitzua eguneraketak instalatzeko">
+<!ENTITY useService.accesskey            "z">
+
+<!ENTITY updateOthers.label              "Eguneratu automatikoki:">
+<!ENTITY enableAddonsUpdate3.label       "Gehigarriak">
+<!ENTITY enableAddonsUpdate3.accesskey   "G">
+<!ENTITY enableSearchUpdate.label        "Bilaketa-motorrak">
+<!ENTITY enableSearchUpdate.accesskey    "B">
 
 <!ENTITY offlineNotify.label             "Ohar nazazu webgune batek datuak biltegiratu nahi baditu lineaz kanpo erabiltzeko">
 <!ENTITY offlineNotify.accesskey         "O">

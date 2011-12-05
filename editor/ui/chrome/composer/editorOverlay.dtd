@@ -43,42 +43,14 @@
 <!-- File menu items -->
 
 
-<!ENTITY fileMenu.label "Fitxategia">
-<!ENTITY fileMenu.accesskey "F">
-<!ENTITY openFileCmd.label "Ireki fitxategia…">
-<!ENTITY openFileCmd.accesskey "I">
-<!ENTITY openFileCmd.key "I">
-<!ENTITY openRemoteCmd.label "Ireki web kokagunea…">
-<!ENTITY openRemoteCmd.accesskey "k">
-<!ENTITY openRemoteCmd.key "k">
-<!ENTITY fileRecentMenu.label "Duela gutxiko orriak">
-<!ENTITY fileRecentMenu.accesskey "D">
-<!ENTITY fileRevert.label "Leheneratu">
-<!ENTITY fileRevert.accesskey "n">
-<!ENTITY saveCmd.label "Gorde">
-<!ENTITY saveCmd.accesskey "G">
 <!ENTITY saveCmd.key "G">
-<!ENTITY saveAsCmd.label "Gorde honela…">
-<!ENTITY saveAsCmd.accesskey "h">
-
-<!ENTITY publishCmd.label "Argitaratu">
-<!ENTITY publishCmd.accesskey "r">
-<!ENTITY publishCmd.key "t">
-<!ENTITY publishAsCmd.label "Argitaratu honela…">
-<!ENTITY publishAsCmd.accesskey "h">
-<!ENTITY saveAsChangeEncodingCmd.label "Gorde eta aldatu karaktere-kodeketa">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "e">
 <!-- Edit menu items -->
 
-<!ENTITY editMenu.label "Editatu">
-<!ENTITY editMenu.accesskey "E">
 <!ENTITY pasteNoFormatting.label "Itsasi formaturik gabe">
 <!ENTITY pasteNoFormatting.accesskey "g">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Itsasi honela">
 <!ENTITY pasteAs.accesskey "h">
-<!ENTITY publishSettings.label "Argitaratze leku ezarpenak…">
-<!ENTITY publishSettings.accesskey "g">
 <!ENTITY pasteAsQuotationCmd.label "Itsatsi aipamen bezala">
 <!ENTITY pasteAsQuotationCmd.accesskey "p">
 <!ENTITY pasteAsQuotationCmd.key "o">
@@ -209,9 +181,9 @@
 
 <!ENTITY formatRemoveStyles.key "Y">
 <!ENTITY formatRemoveLinks.key "K">
-<!ENTITY formatRemoveNamedAnchors.label "Ezabatu izendunak aingurak">
+<!ENTITY formatRemoveNamedAnchors.label "Ezabatu aingura izendunak">
 <!ENTITY formatRemoveNamedAnchors.accesskey "E">
-<!ENTITY formatRemoveNamedAnchors.key "A">
+<!ENTITY formatRemoveNamedAnchors2.key "E">
 
 <!ENTITY paragraphMenu.label "Paragrafoa">
 <!ENTITY paragraphMenu.accesskey "P">

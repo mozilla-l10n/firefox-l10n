@@ -116,6 +116,8 @@
 <!ENTITY detachAllAttachmentsCmd.accesskey    "d">
 <!ENTITY deleteAllAttachmentsCmd.label    "Ezabatu dena…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "E">
+
+<!ENTITY openAttachment.tooltip "Ireki erantsitako fitxategia">
 <!-- Attachment toolbar items -->
 
 <!ENTITY saveAttachmentButton1.label       "Gorde">

@@ -4,8 +4,7 @@
 
 <!ENTITY setup.pickSetupType.description "Ongi etorri, ez baduzu &syncBrand.fullName.label; aurretik erabili, kontu berria sortu beharko duzu.">
 <!ENTITY button.createNewAccount.label "Sortu kontu berria">
-<!ENTITY setup.haveAccount.label "Badaukat &syncBrand.fullName.label; kontua dagoeneko.">
-<!ENTITY button.connect.label    "Konektatu">
+<!ENTITY button.haveAccount.label      "Badaukat kontua">
 
 <!ENTITY setup.choicePage.title.label     "&syncBrand.fullName.label; aurretik erabili duzu?">
 <!ENTITY setup.choicePage.new.label       "Ez dut inoiz &syncBrand.shortName.label; erabili">
@@ -39,7 +38,7 @@
 <!ENTITY setup.ppLink.label         "pribatutasun-politika">
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
-<!-- New Account Page 2: Sync Key -->
+<!-- My Recovery Key dialog -->
 
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName;(r)i zure pribatutasunak axola dio">
 <!ENTITY setup.newRecoveryKeyPage.description.label "Erabateko pribatutasuna ziurtatzeko, igo aurretik zure datu guztiak zifratu egiten dira. Zure datuak deszifratzeko beharrezkoa den berreskuratze-gakoa ez da igotzen.">
@@ -52,16 +51,14 @@
 <!ENTITY button.syncKeyBackup.print.accesskey "p">
 <!ENTITY button.syncKeyBackup.save.label      "Gorde…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "G">
-<!-- New Account Page 3: Captcha -->
+<!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
 
-<!ENTITY setup.captchaPage2.title.label     "Berretsi ez zarela robota">
-<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "Gehitu gailua">
+<!ENTITY pairDevice.title.label             "Parekatu gailua">
 <!ENTITY addDevice.showMeHow.label          "Erakutsi nola.">
 <!ENTITY addDevice.dontHaveDevice.label     "Ez daukat gailua nirekin">
-<!ENTITY addDevice.setup.description.label  "Aktibatzeko, zoaz &syncBrand.shortName.label;(r)en aukeretara zure beste gailuan eta hautatu &#x0022;Gehitu gailua&#x0022;.">
+<!ENTITY pairDevice.setup.description.label  "Aktibatzeko, hautatu &#x0022;Parekatu gailua&#x0022; zure beste gailuan.">
 <!ENTITY addDevice.setup.enterCode.label    "Ondoren, idatzi kode hau:">
-<!ENTITY addDevice.dialog.description.label "Zure gailu berria aktibatzeko, zoaz gailuan &syncBrand.shortName.label;(r)en aukeretara eta hautatu &#x0022;Konektatu.&#x0022;">
+<!ENTITY pairDevice.dialog.description.label "Zure gailu berria aktibatzeko, hautatu &#x0022;Konfiguratu Sync&#x0022; gailuan.">
 <!ENTITY addDevice.dialog.enterCode.label   "Idatzi gailuak emandako kodea:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Saiatu berriro mesedez.">
 <!ENTITY addDevice.dialog.successful.label  "Gailua ondo gehitu da. Hasierako sinkronizazioak hainbat minutu har ditzake eta atzeko planoan burutuko da.">

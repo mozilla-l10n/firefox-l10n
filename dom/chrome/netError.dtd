@@ -24,13 +24,16 @@
 <!ENTITY netInterrupt.title "Datuen transferentzia eten egin da">
 <!ENTITY netInterrupt.longDesc "<p>Nabigatzaileak konexioa ondo sortu du, baina datuak jasotzen ari zela transferentzia eten egin da.  Mesedez, saiatu berriro.</p><ul><li>Gauza bera gertatzen zaizu beste guneekin? Begiratu zure ordenagailuaren sareko konexioa.</li><li>Arazoak oraindik? Jarri harremanetan zure sarearen kudeatzailearekin edo Internet hornitzailearekin.</li></ul>">
 
-<!ENTITY netOffline.title "Lineaz-kanpo">
-<!ENTITY netOffline.longDesc2 "<p>Nabigatzailea lineaz kanpo dago eta ezin du eskatutako elementuarekin konektatu.</p><ul><li>Ordenagailua sare aktibo batera konektatua dago?</li><li>Jarri nabigatzailea linean eta saiatu berriro.</li></ul>">
+<!ENTITY notCached.title "Dokumentua iraungita">
+<!ENTITY notCached.longDesc "<p>Eskatutako dokumentua ez dago nabigatzailearen cache memorian.</p><ul><li>Segurtasun-neurri gisa, nabigatzaileak ez ditu berriro automatikoki eskatzen informazio pertsonala izan dezaketen dokumentuak.</li><li>Egin klik 'Saiatu berriro' botoian webguneko dokumentua berriro eskatzeko.</li></ul>">
+
+<!ENTITY netOffline.title "Lineaz kanpo">
+<!ENTITY netOffline.longDesc2 "<p>Nabigatzailea lineaz kanpo dago eta ezin du eskatutako elementuarekin konektatu.</p><ul><li>Ordenagailua sare aktibo batera konektatuta dago?</li><li>Jarri nabigatzailea linean eta berritu orria.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Edukien kodeketaren errorea">
 <!ENTITY contentEncodingError.longDesc "<p>Ikusten saiatzen ari zaren orria ezin da ikusi baliogabeko edo onartzen ez den konpresio mota bat erabiltzen baitu.</p><ul><li>Jarri harremanetan gunearen arduradunarekin arazo honen berri emateko.</li></ul>">
 
-<!ENTITY unsafeContentType.title "Fitxategi mota EZ-segurua">
+<!ENTITY unsafeContentType.title "Fitxategi mota ez-segurua">
 <!ENTITY unsafeContentType.longDesc "<ul> 
 <li>Jarri harremanetan webgunearen jabeekin arazo honen berri emateko.</li> 
 </ul>">
@@ -50,7 +53,7 @@
 <!ENTITY proxyResolveFailure.title "Proxy zerbitzaria ez da aurkitu">
 <!ENTITY proxyResolveFailure.longDesc "<p>Nabigatzailea proxy zerbitzari bat erabiltzeko konfiguratuta dago, baina proxy zerbitzaria ez da aurkitu.</p><ul><li>Proxy zerbitzariaren ezarpenak ondo ezarrita daude? Begira itzazu ezarpenak eta saiatu berriro.</li><li>Ordenagailua sare batera konektatua dago?</li><li>Arazoak oraindik? Jarri harremanetan zure sarearen kudeatzailearekin edo Internet hornitzailearekin.</li></ul>">
 
-<!ENTITY redirectLoop.title "Berbidertze begizta">
+<!ENTITY redirectLoop.title "Berbideratze-begizta">
 <!ENTITY redirectLoop.longDesc "<p>Nabigatzaileak eskatutako elementua berreskuratzen saiatzeari utzi dio. Gunea eskakizuna modu okerrean berbideratzen ari da.</p><ul><li>Gune honetarako cookie-ak blokeatu edo ezgaitu dituzu?</li><li><em>OHARRA</em>: guneak bidalitako cookie-ak onartu eta gero arazoa konpontzen ez bada, zerbitzariaren konfigurazioaren arazoa izan daiteke eta ez zure ordenagailuarena.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Erantzun desegokia">
@@ -59,7 +62,7 @@
 <!ENTITY nssFailure2.title "Konexio seguruak huts egin du">
 <!ENTITY nssFailure2.longDesc "<p>Ikusten saiatzen ari zaren orria ezin da ikusi jasotako datuen autentikotasuna ezin baita egiaztatu.</p><ul><li>Jarri harremanetan gunearen jabeekin arazo honen berri emateko.</li></ul>">
 
-<!ENTITY nssBadCert.title "Konexioa seguruak huts egin du">
+<!ENTITY nssBadCert.title "Konexio seguruak huts egin du">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Hau zerbitzariaren konfigurazioan errore batengatik edo norbait zerbitzariaren nortasuna hartzen ari delako izan daiteke.</li> <li>Aurretik zerbitzari honetara behar bezala konektatu bazara, errorea behin-behinekoa izan daiteke eta beranduago saia zaitezke.</li> </ul>">
 
 <!ENTITY malwareBlocked.title "Ustezko web erasoa!">
@@ -71,8 +74,8 @@
 <!ENTITY cspFrameAncestorBlocked.title "Edukien segurtasun-politikak blokeatuta">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Nabigatzaileak orri hau modu honetan kargatzea eragotzi du onartzen ez den edukien-segurtasun politika duelako.</p>">
 
-<!ENTITY corruptedContentError.title "Hondatutako edukiaren errorea">
-<!ENTITY corruptedContentError.longDesc "<p>Ikusten saiatzen ari zaren orria ezin da erakutsi errore bat detektatu delako datu-transmisioan.</p><ul><li>Jarri harremanetan gunearen arduradunarekin arazo honen berri emateko.</li></ul>">
+<!ENTITY corruptedContentError.title "Hondatutako edukien errorea">
+<!ENTITY corruptedContentError.longDesc "<p>Ikusten saiatzen ari zaren orria ezin da erakutsi datuen transmisioan errore bat detektatu delako.</p><ul><li>Jarri harremanetan gunearen arduradunarekin arazo honen berri emateko.</li></ul>">
 
 <!ENTITY remoteXUL.title "Urruneko XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Jarri harremanetan webgunearen jabeekin arazo honen berri emateko.</li></ul></p>">

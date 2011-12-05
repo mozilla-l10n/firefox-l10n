@@ -49,6 +49,8 @@
 <!ENTITY half-manual-test.accesskey      "B">
 <!ENTITY manual-edit.label               "Eskuzko konfigurazioa">
 <!ENTITY manual-edit.accesskey           "E">
+<!ENTITY switch-to-provisioner.label     "Lortu kontu berria">
+<!ENTITY switch-to-provisioner.accesskey "L">
 
 
 <!ENTITY warning.label                   "Kontuz!">
