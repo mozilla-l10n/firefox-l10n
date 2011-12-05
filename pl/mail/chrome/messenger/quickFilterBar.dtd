@@ -1,3 +1,5 @@
+<!ENTITY quickFilterBar.qfbShowFilterBar.label "Szybkie filtrowanie">
+
 <!ENTITY quickFilterBar.toggleBarVisibility.menu.label     "Pasek szybkiego filtrowania">
 <!ENTITY quickFilterBar.toggleBarVisibility.menu.accesskey "f">
 
