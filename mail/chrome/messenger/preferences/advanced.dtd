@@ -6,6 +6,9 @@
 <!-- General Settings -->
 
 
+<!ENTITY submitTelemetry.label "Изпращане на данни за производителността">
+<!ENTITY submitTelemetry.accesskey "п">
+<!ENTITY telemetryInfoLink.label "Повече информация за телеметрията">
 <!ENTITY enableGlodaSearch.label "Разрешаване на глобално търсене и индексиране">
 <!ENTITY enableGlodaSearch.accesskey "Р">
 <!ENTITY systemIntegration.label "Системно интегриране">

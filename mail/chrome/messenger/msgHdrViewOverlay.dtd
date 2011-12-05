@@ -35,43 +35,42 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField2.label "до">
-<!ENTITY fromField2.label "от">
-<!ENTITY senderField2.label "подател ">
-<!ENTITY organizationField2.label "организация ">
-<!ENTITY replyToField2.label "отговор-до ">
+<!ENTITY toField3.label "до">
+<!ENTITY fromField3.label "от">
+<!ENTITY senderField3.label "подател ">
+<!ENTITY organizationField3.label "организация ">
+<!ENTITY replyToField3.label "отговор-до ">
 
-<!ENTITY subjectField2.label "тема ">
-<!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
-<!ENTITY ccField2.label "cc ">
-<!ENTITY bccField2.label "bcc ">
-<!ENTITY newsgroupsField2.label "дискусионни групи ">
-<!ENTITY followupToField2.label "продължаване в ">
-<!ENTITY tagsHdr2.label "етикети ">
-<!ENTITY dateField2.label "дата ">
-<!ENTITY userAgentField2.label "user-agent ">
-<!ENTITY referencesField2.label "референции ">
-<!ENTITY messageIdField2.label "message-id ">
-<!ENTITY inReplyToField2.label "в-отговор-до ">
-<!ENTITY originalWebsite2.label "уебсайт ">
+<!ENTITY subjectField3.label "тема ">
+<!ENTITY ccField3.label "копие">
+<!ENTITY bccField3.label "bcc ">
+<!ENTITY newsgroupsField3.label "дискусионни групи ">
+<!ENTITY followupToField3.label "продължаване в ">
+<!ENTITY tagsHdr3.label "етикети ">
+<!ENTITY dateField3.label "дата ">
+<!ENTITY userAgentField3.label "user-agent ">
+<!ENTITY referencesField3.label "референции ">
+<!ENTITY messageIdField3.label "Message ID ">
+<!ENTITY inReplyToField3.label "в-отговор-до ">
+<!ENTITY originalWebsite3.label "уебсайт ">
 
 <!ENTITY editMessageDescription.label "Това е чернова">
 <!ENTITY editMessageButton.label "Редактиране…">
-<!ENTITY hdrArchiveButton.label "архивиране">
-<!ENTITY hdrArchiveButton.tooltip "архивира това съобщение">
-<!ENTITY hdrSmartReplyButton.label "умен отговор">
-<!ENTITY hdrReplyButton.label "отговор">
-<!ENTITY hdrReplyButton.tooltip "отговаря на това съобщение">
-<!ENTITY hdrReplyAllButton.label "отговор до всички">
-<!ENTITY hdrReplyAllButton.tooltip "отговаря на подателя и всички получатели">
-<!ENTITY hdrReplyListButton.label "отговор до списък">
-<!ENTITY hdrReplyListButton.tooltip "отговаря до пощенския списък">
-<!ENTITY hdrForwardButton.label "препращане">
-<!ENTITY hdrForwardButton.tooltip "препраща съобщението">
-<!ENTITY hdrJunkButton.label "нежелана">
-<!ENTITY hdrJunkButton.tooltip "отбелязва съобщението като нежелано">
-<!ENTITY hdrTrashButton.label "изтриване">
-<!ENTITY hdrTrashButton.tooltip "изтрива съобщението">
+<!ENTITY hdrArchiveButton1.label "архивиране">
+<!ENTITY hdrArchiveButton1.tooltip "архивира това съобщение">
+<!ENTITY hdrSmartReplyButton1.label "умен отговор">
+<!ENTITY hdrReplyButton1.label "отговор">
+<!ENTITY hdrReplyButton1.tooltip "отговаря на това съобщение">
+<!ENTITY hdrReplyAllButton1.label "отговор до всички">
+<!ENTITY hdrReplyAllButton1.tooltip "отговаря на подателя и всички получатели">
+<!ENTITY hdrReplyListButton1.label "отговор до списък">
+<!ENTITY hdrReplyListButton1.tooltip "отговаря до пощенския списък">
+<!ENTITY hdrForwardButton1.label "препращане">
+<!ENTITY hdrForwardButton1.tooltip "препраща съобщението">
+<!ENTITY hdrJunkButton1.label "нежелана">
+<!ENTITY hdrJunkButton1.tooltip "отбелязва съобщението като нежелано">
+<!ENTITY hdrTrashButton1.label "Изтриване">
+<!ENTITY hdrTrashButton1.tooltip "изтрива съобщението">
 
 <!ENTITY hdrViewToolbarShowFull.label "Показване на икони и текст ">
 <!ENTITY hdrViewToolbarShowFull.accesskey "и">
@@ -82,33 +81,33 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Винаги показва отговора до подателя">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "о">
 
-<!ENTITY otherActionsButton.label "други действия">
-<!ENTITY otherActionsOpenConversation.label "отваряне в диалога">
-<!ENTITY otherActionsOpenConversation.accesskey "д">
-<!ENTITY otherActionsOpenInNewWindow.label "отваряне в нов прозорец">
-<!ENTITY otherActionsOpenInNewWindow.accesskey "н">
-<!ENTITY otherActionsOpenInNewTab.label "отваряне в нов подпрозорец">
-<!ENTITY otherActionsOpenInNewTab.accesskey "п">
-<!ENTITY markAsReadMenuItem.label "отбелязване като прочетено">
-<!ENTITY markAsReadMenuItem.accesskey "б">
-<!ENTITY markAsUnreadMenuItem.label "отбелязване като непрочетено">
-<!ENTITY markAsUnreadMenuItem.accesskey "л">
-<!ENTITY saveAsMenuItem.label "запис като…">
-<!ENTITY saveAsMenuItem.accesskey "з">
-<!ENTITY viewSourceMenuItem.label "преглед на изходния код">
-<!ENTITY viewSourceMenuItem.accesskey "п">
-<!ENTITY otherActionsPrint.label "печат…">
-<!ENTITY otherActionsPrint.accesskey "п">
+<!ENTITY otherActionsButton1.label "други действия">
+<!ENTITY otherActionsOpenConversation1.label "отваряне в диалога">
+<!ENTITY otherActionsOpenConversation1.accesskey "д">
+<!ENTITY otherActionsOpenInNewWindow1.label "Отваряне в нов прозорец">
+<!ENTITY otherActionsOpenInNewWindow1.accesskey "н">
+<!ENTITY otherActionsOpenInNewTab1.label "отваряне в нов подпрозорец">
+<!ENTITY otherActionsOpenInNewTab1.accesskey "п">
+<!ENTITY markAsReadMenuItem1.label "Отбелязване като прочетено">
+<!ENTITY markAsReadMenuItem1.accesskey "п">
+<!ENTITY markAsUnreadMenuItem1.label "отбелязване като непрочетено">
+<!ENTITY markAsUnreadMenuItem1.accesskey "л">
+<!ENTITY saveAsMenuItem1.label "запис като…">
+<!ENTITY saveAsMenuItem1.accesskey "з">
+<!ENTITY viewSourceMenuItem1.label "преглед на изходния код">
+<!ENTITY viewSourceMenuItem1.accesskey "п">
+<!ENTITY otherActionsPrint1.label "печат…">
+<!ENTITY otherActionsPrint1.accesskey "п">
 <!-- Attachment context menu items -->
 
 <!ENTITY openAttachmentCmd.label "Отваряне">
 <!ENTITY openAttachmentCmd.accesskey "О">
-<!ENTITY saveAsAttachmentCmd.label "Запис като…">
-<!ENTITY saveAsAttachmentCmd.accesskey "к">
-<!ENTITY detachAttachmentCmd.label "Откачане…">
+<!ENTITY saveAsAttachmentCmd.label "Запис на всички…">
+<!ENTITY saveAsAttachmentCmd.accesskey "в">
+<!ENTITY detachAttachmentCmd.label "откачане…">
 <!ENTITY detachAttachmentCmd.accesskey "к">
-<!ENTITY deleteAttachmentCmd.label "Изтриване">
-<!ENTITY deleteAttachmentCmd.accesskey "з">
+<!ENTITY deleteAttachmentCmd.label "изтриване">
+<!ENTITY deleteAttachmentCmd.accesskey "р">
 <!ENTITY openAllAttachmentsCmd.label "Отваряне на всички…">
 <!ENTITY openAllAttachmentsCmd.accesskey "О">
 <!ENTITY saveAllAttachmentsCmd.label "Запис на всички…">
@@ -119,26 +118,10 @@
 <!ENTITY deleteAllAttachmentsCmd.accesskey "з">
 <!-- Attachment toolbar items -->
 
-<!ENTITY saveAttachmentButton.label "запис">
-<!ENTITY saveAttachmentButton.tooltip "запис на прикрепения файл">
-<!ENTITY saveAllAttachmentsButton.label "запис на всички">
-<!ENTITY saveAllAttachmentsButton.tooltip "запис на всички прикрепени файлове">
-<!ENTITY openAttachmentMenuItem.label "отваряне">
-<!ENTITY openAttachmentMenuItem.accesskey "о">
-<!ENTITY saveAsAttachmentMenuItem.label "запис като…">
-<!ENTITY saveAsAttachmentMenuItem.accesskey "з">
-<!ENTITY detachAttachmentMenuItem.label "откачане…">
-<!ENTITY detachAttachmentMenuItem.accesskey "к">
-<!ENTITY deleteAttachmentMenuItem.label "изтриване">
-<!ENTITY deleteAttachmentMenuItem.accesskey "р">
-<!ENTITY openAllAttachmentsMenuItem.label "отваряне на всички…">
-<!ENTITY openAllAttachmentsMenuItem.accesskey "я">
-<!ENTITY saveAllAttachmentsMenuItem.label "запис на всички…">
-<!ENTITY saveAllAttachmentsMenuItem.accesskey "з">
-<!ENTITY detachAllAttachmentsMenuItem.label "откачане на всички…">
-<!ENTITY detachAllAttachmentsMenuItem.accesskey "ч">
-<!ENTITY deleteAllAttachmentsMenuItem.label "изтриване на всички…">
-<!ENTITY deleteAllAttachmentsMenuItem.accesskey "з">
+<!ENTITY saveAttachmentButton1.label "запис">
+<!ENTITY saveAttachmentButton1.tooltip "запис на прикрепения файл">
+<!ENTITY saveAllAttachmentsButton1.label "Запис на всички…">
+<!ENTITY saveAllAttachmentsButton1.tooltip "запис на всички прикрепени файлове">
 
 <!ENTITY copyLinkCmd.label "Копиране адреса на връзката">
 <!ENTITY copyLinkCmd.accesskey "К">

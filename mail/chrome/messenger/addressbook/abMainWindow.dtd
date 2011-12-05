@@ -79,6 +79,8 @@
 <!ENTITY viewMenu.accesskey "г">
 <!ENTITY viewToolbarsMenu.label "Ленти с инструменти">
 <!ENTITY viewToolbarsMenu.accesskey "Л">
+<!ENTITY menubarCmd.label "Лента на менюто">
+<!ENTITY menubarCmd.accesskey "м">
 <!ENTITY showAbToolbarCmd.label "Лента на адресника">
 <!ENTITY showAbToolbarCmd.accesskey "а">
 <!ENTITY showTaskbarCmd.label "Лента състояние">

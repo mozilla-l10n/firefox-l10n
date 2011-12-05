@@ -14,7 +14,7 @@
 <!ENTITY manageAccount.accesskey "а">
 <!ENTITY viewQuota.label "Показване на квотата">
 <!ENTITY changePassword2.label "Промяна на парола…">
-<!ENTITY mySyncKey.label "Моят ключ на Sync">
+<!ENTITY myRecoveryKey.label "Моят ключ за възстановяване">
 <!ENTITY resetSync2.label "Анулиране на Sync…">
 
 <!ENTITY addDevice.label "Добавяне на устройство">

@@ -53,8 +53,8 @@
 <!ENTITY openRemoteCmd.key "L">
 <!ENTITY fileRecentMenu.label "Последни страници">
 <!ENTITY fileRecentMenu.accesskey "П">
-<!ENTITY fileRevert.label "Възстановяване">
-<!ENTITY fileRevert.accesskey "ъ">
+<!ENTITY fileRevert.label "Връщане">
+<!ENTITY fileRevert.accesskey "В">
 <!ENTITY saveCmd.label "Запис">
 <!ENTITY saveCmd.accesskey "с">
 <!ENTITY saveCmd.key "S">
@@ -68,11 +68,6 @@
 <!ENTITY publishAsCmd.accesskey "у">
 <!ENTITY saveAsChangeEncodingCmd.label "Запис и смяна знаковото кодиране">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "к">
-<!ENTITY printSetupCmd.label "Конфигуриране на страница…">
-<!ENTITY printSetupCmd.accesskey "К">
-<!ENTITY printCmd.label "Печат…">
-<!ENTITY printCmd.accesskey "П">
-<!ENTITY printCmd.key "P">
 <!-- Edit menu items -->
 
 <!ENTITY editMenu.label "Редактиране">

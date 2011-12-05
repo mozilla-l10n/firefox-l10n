@@ -92,6 +92,8 @@
 <!ENTITY viewMenu.accesskey "г">
 <!ENTITY viewToolbarsMenuNew.label "Ленти с инструменти">
 <!ENTITY viewToolbarsMenuNew.accesskey "Л">
+<!ENTITY menubarCmd.label "Лента на менюто">
+<!ENTITY menubarCmd.accesskey "м">
 <!ENTITY showCompositionToolbarCmd.label "Инструменти за писане">
 <!ENTITY showCompositionToolbarCmd.accesskey "и">
 <!ENTITY showFormattingBarCmd.label "Лента за форматиране">

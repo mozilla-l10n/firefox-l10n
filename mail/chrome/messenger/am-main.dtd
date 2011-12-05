@@ -11,6 +11,7 @@
 <!ENTITY email.accesskey "А">
 <!ENTITY replyTo.label "Адрес за отговор:">
 <!ENTITY replyTo.accesskey "р">
+<!ENTITY replyTo.placeholder "Получателите ще отговарят до този друг адрес">
 <!ENTITY organization.label "Организация:">
 <!ENTITY organization.accesskey "ц">
 <!ENTITY signatureText.label "Текст за подпис:">
