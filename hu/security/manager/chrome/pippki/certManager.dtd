@@ -72,7 +72,7 @@
 
 <!ENTITY certmgr.editcert.title               "Biztonsági tanúsítványok beállításainak szerkesztése">
 <!ENTITY certmgr.editcacert.title             "Hitelesítésszolgáltató tanúsítványa megbízhatóságának beállítása">
-<!ENTITY certmgr.editsslcert.title            "Webhelytanúsítvány megbízhatóságának beállítása">
+<!ENTITY certmgr.editsslcert.title            "Webhely tanúsítványa megbízhatóságának beállítása">
 <!ENTITY certmgr.editcert.edittrust           "Megbízhatósági beállítások megadása:">
 <!ENTITY certmgr.editcert.trustssl            "Ez a tanúsítvány használható webhelyek azonosítására.">
 <!ENTITY certmgr.editcert.trustemail          "Ez a tanúsítvány használható elektronikus levelek feladóinak azonosítására.">

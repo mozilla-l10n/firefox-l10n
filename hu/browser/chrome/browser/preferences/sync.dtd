@@ -13,9 +13,9 @@
 <!ENTITY manageAccount.label          "Fiók kezelése">
 <!ENTITY manageAccount.accesskey      "F">
 <!ENTITY viewQuota.label              "Kvóta megtekintése">
-<!ENTITY changePassword2.label         "Jelszó megváltoztatása...">
-<!ENTITY mySyncKey.label              "Saját Sync-kulcs">
-<!ENTITY resetSync2.label              "Sync alaphelyzet...">
+<!ENTITY changePassword2.label        "Jelszó megváltoztatása...">
+<!ENTITY myRecoveryKey.label          "Saját helyreállítókulcs">
+<!ENTITY resetSync2.label             "Sync alaphelyzet...">
 
 <!ENTITY addDevice.label              "Eszköz hozzáadása">
 

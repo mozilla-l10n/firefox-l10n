@@ -123,8 +123,9 @@
 <!ENTITY nssFailure2.title "A biztonságos kapcsolat sikertelen">
 <!ENTITY nssFailure2.longDesc "
 <ul>
-  <li>A megtekinteni kívánt oldal nem jeleníthető meg, mert a kapott adatok hitelesége nem volt ellenőrizhető.</li>
-  <li>Értesítse a webhely tulajdonosait erről a problémáról. A másik lehetőség, hogy a Súgó menü megfelelő menüpontjának segítségével jelentse be ezt a hibás webhelyet.</li>
+  <li>A megtekinteni kívánt oldal nem jeleníthető meg, mert a kapott adatok hitelessége nem ellenőrizhető.</li>
+  <li>Lépjen kapcsolatba a webhely üzemeltetőjével, és értesítse a problémáról.
+A másik lehetőség, hogy a Súgó menü megfelelő menüpontjának segítségével jelentse be ezt a hibás webhelyet.</li>
 </ul>
 ">
 
@@ -179,6 +180,7 @@ functionality specific to firefox. -->
 
 <!ENTITY securityOverride.warningContent "
 <p>Ne adjon hozzá kivételt, ha nem teljesen megbízható internetkapcsolatot használ, vagy ha nem szokta látni ezt a figyelmeztetést ennél a kiszolgálónál.</p>
+
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">

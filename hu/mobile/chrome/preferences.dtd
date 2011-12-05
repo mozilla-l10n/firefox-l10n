@@ -21,3 +21,4 @@
 <!ENTITY homepage.default                          "&brandShortName; kezdőoldal">
 <!ENTITY homepage.currentpage                      "Aktuális oldal használata">
 <!ENTITY showCharsetEncoding.title                 "Karakterkódolás megjelenítése">
+<!ENTITY actionbar.default                         "A &brandShortName; beállításai">

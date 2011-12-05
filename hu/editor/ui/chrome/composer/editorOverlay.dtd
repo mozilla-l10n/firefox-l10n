@@ -68,11 +68,6 @@
 <!ENTITY publishAsCmd.accesskey "z">
 <!ENTITY saveAsChangeEncodingCmd.label "Mentés és a karakterkódolás megváltoztatása">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "a">
-<!ENTITY printSetupCmd.label "Oldalbeállítás...">
-<!ENTITY printSetupCmd.accesskey "O">
-<!ENTITY printCmd.label "Nyomtatás...">
-<!ENTITY printCmd.accesskey "N">
-<!ENTITY printCmd.key "P">
 
 <!-- Edit menu items -->
 <!ENTITY editMenu.label "Szerkesztés">

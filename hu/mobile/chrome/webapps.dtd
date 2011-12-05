@@ -4,3 +4,4 @@
 <!ENTITY webapps.perm.offline "Kapcsolat nélküli adattárolás">
 <!ENTITY webapps.perm.notifications "Értesítés a munkaasztalon">
 <!ENTITY webapps.perm.requestedHint "(kért)">
+<!ENTITY webapps.add-homescreen "Hozzáadás a kezdőképernyőhöz">
