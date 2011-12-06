@@ -47,8 +47,8 @@
 <!ENTITY download.label     "Sadece">
 <!ENTITY download.accesskey "a">
 <!--LOCALIZATION NOTE (headers.label): see note for download.label -->
-<!ENTITY headers.label      "ileti indir">
-<!ENTITY headers.accesskey  "t">
-<!ENTITY mark.label         "Kalan başlıkları okunmuş olarak işaretle">
-<!ENTITY mark.accesskey     "m">
+<!ENTITY headers.label      "başlık indir">
+<!ENTITY headers.accesskey  "k">
+<!ENTITY mark.label         "Kalan başlıkları okundu olarak işaretle">
+<!ENTITY mark.accesskey     "d">
 

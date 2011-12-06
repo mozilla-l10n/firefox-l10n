@@ -38,14 +38,14 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label "Sayfa özellikleri">
 <!ENTITY location.label "Konum:">
-<!ENTITY lastModified.label "Son Güncelleme:">
+<!ENTITY lastModified.label "Son değişiklik:">
 <!ENTITY titleInput.label "Başlık:">
 <!ENTITY titleInput.accessKey "B">
 <!ENTITY authorInput.label "Yazar:">
-<!ENTITY authorInput.accessKey "a">
+<!ENTITY authorInput.accessKey "Y">
 <!ENTITY descriptionInput.label "Açıklama:">
 <!ENTITY descriptionInput.accessKey "A">
 <!ENTITY locationNewPage.label "[Yeni sayfa, henüz kaydedilmedi]">
-<!ENTITY EditHEADSource1.label "Gelişmiş kullanıcılar:">
+<!ENTITY EditHEADSource1.label "Deneyimli kullanıcılar:">
 <!ENTITY EditHEADSource2.label "&lt;Başlık&gt; bölümünün içeriğini düzenlemek için, Görünüm menüsündeki veya Düzenleme modu araç çubuğundaki &quot;HTML kaynağı&quot;nı kullanın.">
 

@@ -39,10 +39,10 @@
 <!-- extracted from EdReplace.xul -->
 
 <!ENTITY replaceDialog.title "Bul ve değiştir">
-<!ENTITY findField.label "Aranacak:">
+<!ENTITY findField.label "Aranacak metin:">
 <!ENTITY findField.accesskey "A">
-<!ENTITY replaceField.label "Değiştirilecek:">
-<!ENTITY replaceField.accesskey "D">
+<!ENTITY replaceField.label "Bununla değiştir:">
+<!ENTITY replaceField.accesskey "d">
 <!ENTITY caseSensitiveCheckbox.label "Büyük/küçük harfe duyarlı">
 <!ENTITY caseSensitiveCheckbox.accesskey "B">
 <!ENTITY wrapCheckbox.label "Baştan başla">

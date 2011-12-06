@@ -38,19 +38,19 @@
 <!-- Window title -->
 <!-- LOCALIZATION NOTE  (editorWindow.titlemodifier): DONT_TRANSLATE -->
 <!ENTITY editorWindow.titlemodifier "Composer"> 
-<!ENTITY editorWindow.titlemodifiermenuseparator " -">
+<!ENTITY editorWindow.titlemodifiermenuseparator " - ">
 
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
 
 <!-- Toolbar-only items -->
 <!ENTITY compositionToolbar.tooltip "Düzenleme araç çubuğu">
 <!ENTITY previewToolbarCmd.label "Gözat">
-<!ENTITY previewToolbarCmd.tooltip "Bu sayfayı Kılavuza yükle">
+<!ENTITY previewToolbarCmd.tooltip "Bu sayfayı tarayıcıda yükle">
 
 <!-- File menu items -->
 <!ENTITY exportToTextCmd.label "Metin olarak dışa aktar…">
 <!ENTITY exportToTextCmd.accesskey "M">
-<!ENTITY previewCmd.label "Sayfayı tarayıcıda önizle">
+<!ENTITY previewCmd.label "Sayfaya göz at">
 <!ENTITY previewCmd.accesskey "ö">
 <!ENTITY sendPageCmd.label "Sayfa gönder…">
 <!ENTITY sendPageCmd.accesskey "g">
@@ -72,7 +72,7 @@
 <!ENTITY pageProperties.accesskey "ğ">
 
 <!-- Tools menu items -->
-<!ENTITY validateCmd.label "HTML geçerlilik denetlemesi">
+<!ENTITY validateCmd.label "HTML'i doğrula">
 <!ENTITY validateCmd.accesskey "d">
 
 <!-- Display Mode toolbar and View menu items -->
@@ -83,7 +83,7 @@
 <!ENTITY AllTagsModeTab.label "HTML etiketleri">
 <!ENTITY AllTagsMode.label "HTML etiketleri">
 <!ENTITY AllTagsMode.accesskey "M">
-<!ENTITY AllTagsMode.tooltip "Tüm HTML biçim imleri için simgeleri göster">
+<!ENTITY AllTagsMode.tooltip "Tüm HTML etiketleri için simgeleri göster">
 <!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
      Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if
      you want the <html> image to left of the 'HTMLSourceModeTab.label' text,
@@ -97,5 +97,5 @@
 <!ENTITY PreviewModeTab.label "Önizleme">
 <!ENTITY PreviewMode.label "Önizleme">
 <!ENTITY PreviewMode.accesskey "n">
-<!ENTITY PreviewMode.tooltip "WYSIWYG olarak görüntüle (Kılavuzda gibi)">
+<!ENTITY PreviewMode.tooltip "WYSIWYG olarak görüntüle (tarayıcıdaki gibi)">
 

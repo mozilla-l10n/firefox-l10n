@@ -37,10 +37,10 @@
 
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Izgaralara yerleştir">
+<!ENTITY windowTitle.label "Izgaraya yapıştır">
 
-<!ENTITY enableSnapToGrid.label "Izgara arasına eklemeyi etkinleştir">
-<!ENTITY enableSnapToGrid.accessKey "e">
+<!ENTITY enableSnapToGrid.label "ızgaraya yapıştırmayı inleştir">
+<!ENTITY enableSnapToGrid.accessKey "y">
 
 <!ENTITY sizeEditField.label "Boyut:">
 <!ENTITY sizeEditField.accessKey "B">

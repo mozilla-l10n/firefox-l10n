@@ -37,7 +37,7 @@
 
 <!-- Box Headings -->
 <!ENTITY contact.heading             "Kişi">
-<!ENTITY home.heading                "Başlangıç">
+<!ENTITY home.heading                "Ev">
 <!ENTITY other.heading               "Diğer">
 <!ENTITY phone.heading               "Telefon">
 <!ENTITY work.heading                "İş">
@@ -45,7 +45,7 @@
 <!ENTITY description.heading         "Açıklama">
 <!ENTITY addresses.heading           "Adresler">
 <!-- For Map It! -->
-<!ENTITY mapItButton.label           "Harita göster">
-<!ENTITY mapIt.tooltip               "Web üzerinde bu adresin bir haritasını görüntüle">
+<!ENTITY mapItButton.label           "Haritada göster">
+<!ENTITY mapIt.tooltip               "Web üzerinde bu adresin haritasını görüntüle">
 
 

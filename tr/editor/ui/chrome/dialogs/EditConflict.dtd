@@ -37,8 +37,8 @@
 
 <!-- Window title -->
 <!ENTITY windowTitle.label "Düzenleme değişikliklerini seç">
-<!ENTITY conflictWarning.label "Bu sayfa başka bir program tarafından değiştirilmiştir, ancak Düzenleyici içersinde kaydetmediğiniz değişikler var.">
-<!ENTITY conflictResolve.label "Hangi sürümün korunacağını seç:">
+<!ENTITY conflictWarning.label "Bu sayfa başka bir program tarafından değiştirilmiştir, ancak Düzenleyici içinde de kaydetmediğiniz değişikler var.">
+<!ENTITY conflictResolve.label "Hangi sürümün korunacağını seçin:">
 <!ENTITY keepCurrentPageButton.label "Mevcut sayfa değişikliklerini koru">
 <!ENTITY useOtherPageButton.label "Mevcut sayfayı diğer değişikliklerle değiştir">
 

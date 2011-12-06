@@ -38,12 +38,12 @@
 
 <!-- Window title -->
 <!ENTITY windowTitle.label "Tabloya dönüştür">
-<!ENTITY instructions1.label   "Düzenleyici, seçim içersindeki herbir paragraf için yeni bir tablo sırası yaratıyor.">
-<!ENTITY instructions2.label   "Seçimi kolonlara ayırmak için kullanılan işareti seç:">
+<!ENTITY instructions1.label   "Düzenleyici, seçimdeki her bir paragraf için yeni bir tablo satırı oluşturur.">
+<!ENTITY instructions2.label   "Seçimi sütunlara ayırmak için kullanılacak karakteri seçin:">
 <!ENTITY commaRadio.label      "Virgül">
 <!ENTITY spaceRadio.label      "Boşluk">
-<!ENTITY otherRadio.label      "Diğer işaret:">
-<!ENTITY deleteCharCheck.label "Ayraç işaretini sil">
+<!ENTITY otherRadio.label      "Diğer karakter:">
+<!ENTITY deleteCharCheck.label "Ayraç karakterini sil">
 <!ENTITY collapseSpaces.label  "Ekstra boşlukları dikkate alma">
-<!ENTITY collapseSpaces.tooltip "Yakın boşlukları bir ayraç olarak çevir">
+<!ENTITY collapseSpaces.tooltip "Yakın boşlukları tek bir ayraca dönüştür">
 

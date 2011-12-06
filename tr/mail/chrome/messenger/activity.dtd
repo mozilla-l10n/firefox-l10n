@@ -4,7 +4,7 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY window.width2                    "485">
 <!ENTITY window.height                    "300">
 
-<!ENTITY activity.title                  "Aktivite yöneticisi">
+<!ENTITY activity.title                  "Etkinlik yöneticisi">
 
 <!ENTITY cmd.pause.label                  "Duraklat">
 <!ENTITY cmd.pause.accesskey              "D">
@@ -25,7 +25,7 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.close2.commandkey            "j">
 <!ENTITY cmd.close2Unix.commandkey        "y">
 <!ENTITY cmd.clearList.label              "Listeyi temizle">
-<!ENTITY cmd.clearList.tooltip            "Tamamlanan, vazgeçilen ve başarısız olan indirme işlemleri listeden kaldırılır">
+<!ENTITY cmd.clearList.tooltip            "Tamamlanan, vazgeçilen ve başarısız olan ögeleri listeden kaldırılır">
 <!ENTITY cmd.clearList.accesskey          "e">
 <!ENTITY cmd.find.commandkey              "f">
 <!ENTITY cmd.search.commandkey            "k">

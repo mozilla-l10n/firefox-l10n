@@ -44,12 +44,12 @@
 <!ENTITY _PhoneticName.accesskey               "o">
 <!ENTITY NickName.label                        "Takma adı">
 <!ENTITY NickName.accesskey                    "T">
-<!ENTITY SecondEmail.label                     "Başka e-posta">
-<!ENTITY SecondEmail.accesskey                 "ş">
+<!ENTITY SecondEmail.label                     "Ek e-posta">
+<!ENTITY SecondEmail.accesskey                 "p">
 <!ENTITY Department.label                      "Bölüm">
 <!ENTITY Department.accesskey                  "m">
-<!ENTITY JobTitle.label                        "Başlık">
-<!ENTITY JobTitle.accesskey                    "B">
+<!ENTITY JobTitle.label                        "Unvan">
+<!ENTITY JobTitle.accesskey                    "U">
 <!ENTITY CellularNumber.label                  "Cep telefonu">
 <!ENTITY CellularNumber.accesskey              "e">
 <!ENTITY PagerNumber.label                     "Çağrı cihazı">

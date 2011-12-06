@@ -37,7 +37,7 @@
 
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Horizontal Line Properties">
+<!ENTITY windowTitle.label "Yatay çizgi özellikleri">
 
 <!ENTITY dimensionsBox.label "Boyutlar">
 <!ENTITY heightEditField.label "Yükseklik:">
@@ -45,17 +45,17 @@
 <!ENTITY widthEditField.label "Genişlik:">
 <!ENTITY widthEditField.accessKey "k">
 <!ENTITY pixelsPopup.value "piksel">
-<!ENTITY alignmentBox.label "Yerleştirme">
+<!ENTITY alignmentBox.label "Hizalama">
 <!ENTITY leftRadio.label "Sol">
 <!ENTITY leftRadio.accessKey "l">
-<!ENTITY centerRadio.label "Merkez">
-<!ENTITY centerRadio.accessKey "M">
+<!ENTITY centerRadio.label "Orta">
+<!ENTITY centerRadio.accessKey "O">
 <!ENTITY rightRadio.label "Sağ">
 <!ENTITY rightRadio.accessKey "S">
 
-<!ENTITY threeDShading.label "3-D Gölgelendirme">
-<!ENTITY threeDShading.accessKey "G">
-<!ENTITY saveSettings.label "Öntanımlı olarak kullan">
+<!ENTITY threeDShading.label "3B gölgelendirme">
+<!ENTITY threeDShading.accessKey "g">
+<!ENTITY saveSettings.label "Varsayılan olarak kullan">
 <!ENTITY saveSettings.accessKey "n">
-<!ENTITY saveSettings.tooltip "Yeni yatay satırlar eklemede kullanmak için bu ayarları kaydet">
+<!ENTITY saveSettings.tooltip "Yeni yatay çizgi eklemede kullanmak için bu ayarları kaydet">
 

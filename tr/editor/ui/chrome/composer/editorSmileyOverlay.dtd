@@ -47,16 +47,16 @@
 <!ENTITY smiley2Cmd.tooltip "Kızgın bir yüz ekler">
 <!ENTITY smiley3Cmd.label "Göz kırpma">
 <!ENTITY smiley3Cmd.accesskey "G">
-<!ENTITY smiley3Cmd.tooltip "Gözkırpan bir yüz ekler">
+<!ENTITY smiley3Cmd.tooltip "Göz kırpan bir yüz ekler">
 <!ENTITY smiley4Cmd.label "Dil çıkartma">
 <!ENTITY smiley4Cmd.accesskey "t">
-<!ENTITY smiley4Cmd.tooltip "Dil çıkartan bir yüz ekler">
+<!ENTITY smiley4Cmd.tooltip "Dil çıkaran bir yüz ekler">
 <!ENTITY smiley5Cmd.label "Gülme">
 <!ENTITY smiley5Cmd.accesskey "l">
 <!ENTITY smiley5Cmd.tooltip "Gülen bir yüz ekler">
-<!ENTITY smiley6Cmd.label "Engellendi">
-<!ENTITY smiley6Cmd.accesskey "E">
-<!ENTITY smiley6Cmd.tooltip "Engelleyen bir yüz ekler">
+<!ENTITY smiley6Cmd.label "Utanmış">
+<!ENTITY smiley6Cmd.accesskey "U">
+<!ENTITY smiley6Cmd.tooltip "Utanmış bir yüz ekler">
 <!ENTITY smiley7Cmd.label "Kararsız">
 <!ENTITY smiley7Cmd.accesskey "K">
 <!ENTITY smiley7Cmd.tooltip "Kararsız bir yüz ekler">

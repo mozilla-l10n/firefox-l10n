@@ -1,5 +1,5 @@
 <!-- LOCALIZATION NOTE (featureConfigurator.title): Title for the Migration Assistant page. It should match featureConfiguratorCmd.label in baseMenuOverlay.dtd -->
-<!ENTITY featureConfigurator.title "Geçiş yardımcısı">
+<!ENTITY featureConfigurator.title "Taşınma yardımcısı">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.heading1): Heading for the page -->
 <!ENTITY featureConfigurator.heading1 "Bilinmeye değer yeni &brandShortName; özellikleri">
@@ -8,7 +8,7 @@
 <!ENTITY featureConfigurator.para.1 "Bu yeni &brandShortName; sürümü, gurur duyduğumuz ve çoğu kişinin seveceğini düşündüğümüz etkili ve yeni özellikler içeriyor. İnsanların zevklerinin ve ihtiyaçlarının değişkenlik gösterdiğini de biliyoruz, bu yüzden &brandShortName; uygulamasını özelleştirmeyi kolaylaştırdık.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.para.2): This paragraph explains that this page is active (the buttons change the UI), and that they can get back to it if they change their mind later.-->
-<!ENTITY featureConfigurator.para.2 "Yeni ayarları yapılandırmak için bu sayfayı kullanın. Göç yardımcısı'na her zaman Yardım menüsünden ulaşabilirsiniz.">
+<!ENTITY featureConfigurator.para.2 "Yeni ayarları yapılandırmak için bu sayfayı kullanın. Taşınma yardımcısı'na her zaman Yardım menüsünden ulaşabilirsiniz.">
 
 <!ENTITY featureConfigurator.toolbar.heading "Yeni ileti araç çubuğu">
 <!ENTITY featureConfigurator.toolbar.new "İleti düğmeleri araç çubuğu">
@@ -18,7 +18,7 @@
 <!ENTITY featureConfigurator.toolbar.original "Eski araç çubuğu düğmelerim kalsın">
 <!ENTITY featureConfigurator.toolbar.original.status.explanation "Yeni ileti düğmelerinin yanı sıra tüm kişisel araç çubuğu düğmelerinizi tutun.">
 
-<!ENTITY featureConfigurator.toolbarBenefits.para "A cleaner interface than our previous default, which leaves more room  for the richer search textbox, as well as add-ons.">
+<!ENTITY featureConfigurator.toolbarBenefits.para "'Yanıtla' ve 'ilet' gibi ileti eylemleri, araç çubuğundan kendi ileti başlıklarına taşındılar. Bu sayede eylem düğmeleri doğrudan iletiye bağlanıyor, araç çbuğunda da daha büyük bir arama kutusu ve eklentiler için daha fazla yer kalıyor.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.addOn.downloading): The text to display while downloading the addon. -->
 <!ENTITY featureConfigurator.addOn.downloading "İndiriliyor…">
@@ -36,7 +36,7 @@
 <!ENTITY featureConfigurator.addOn.alreadyInstalled "Bu uzantı zaten yüklenmiş.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.collapsedHeaders.heading): The heading for the Compact Header page. -->
-<!ENTITY featureConfigurator.collapsedHeaders.heading "Kapanmış başlıklar">
+<!ENTITY featureConfigurator.collapsedHeaders.heading "Yoğun başlık">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.collapsedHeaders.para.weak): The paragraph to display if the user hadn't previously used the collapsed headers feature. -->
 <!ENTITY featureConfigurator.collapsedHeaders.para.weak "Yoğun ileti okuyucu görünümü, daha fazla gelişme olanağı ve yeni seçenekleriyle kendi eklentisine taşındı.">
@@ -51,10 +51,10 @@
 <!ENTITY featureConfigurator.folderColumns.heading "Gelişmiş dizin sütunları">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.para.weak): The paragraph to display if the user hadn't previously used the folder columns feature. -->
-<!ENTITY featureConfigurator.folderColumns.para.weak "The Extra Folder Columns extension replaces what was initially an advanced preference.  To keep tabs on the exact count of messages and disk space each folder is using you'll want to install this extension.">
+<!ENTITY featureConfigurator.folderColumns.para.weak "Gelişmiş Dizin Sütunları uzantısı, daha önce gelişmiş bir tercih olarak sunulan özelliğin yerini alıyor. Tam ileti sayısı ve dizinlerin disk kullanımı gibi sekmeleri saklamak istiyorsanız bu uzantıyı kurmalısınız.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.para.strong): The paragraph to display if the user had previously used the folder columns feature. -->
-<!ENTITY featureConfigurator.folderColumns.para.strong "We noticed that you were using the Advanced Folder columns.  This feature has moved into its own extension, and we recommend you install here.">
+<!ENTITY featureConfigurator.folderColumns.para.strong "Gelişmiş Dizin Sütunlarını kullanmakta olduğunuzu fark ettik. Bu özellik kendi eklentisine taşınmıştır. Buradan yüklemenizi tavsiye ederiz.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.folderColumns.install): The text for the button that will install the Extra Folder Columns addon. -->
 <!ENTITY featureConfigurator.folderColumns.install "Extra Columns'u yükle…">
@@ -63,7 +63,7 @@
 <!ENTITY featureConfigurator.autoSync.heading "Disk alanı">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.autoSync.para): The paragraph that explains why the user would want to turn on autosync. -->
-<!ENTITY featureConfigurator.autoSync.para "This new version of &brandShortName; comes with a new and better search functionality.  To experience this new search you'll need to synchronize your email messages.">
+<!ENTITY featureConfigurator.autoSync.para "Bu yeni &brandShortName; sürümü, yeni ve daha iyi bir arama işleviyle geliyor. Bu yeni arama işlevinden yararlanmak için e-posta iletilerinizi eşitlemelisiniz.">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.autoSync.on): The label for the radio button for synchronizing all the accounts. -->
 <!ENTITY featureConfigurator.autoSync.on "Eşitle">

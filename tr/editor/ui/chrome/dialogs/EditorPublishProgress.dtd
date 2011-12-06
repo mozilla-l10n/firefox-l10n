@@ -38,14 +38,14 @@
 
 <!-- Window title -->
 <!ENTITY siteUrl.label         "Site adresi:">
-<!ENTITY docSubdir.label       "Sayfa altdizini:">
-<!ENTITY otherSubdir.label     "Resim altdizini:">
+<!ENTITY docSubdir.label       "Sayfa alt dizini:">
+<!ENTITY otherSubdir.label     "Resim alt dizini:">
 
-<!ENTITY status.label          "Yayınlanıyor…">
-<!ENTITY fileList.label        "Yayınlama durumu">
+<!ENTITY status.label          "Yayımlanıyor…">
+<!ENTITY fileList.label        "Yayın durumu">
 <!ENTITY succeeded.label       "Başarılı">
 <!ENTITY failed.label          "Başarısız">
 
-<!ENTITY keepOpen              "Yayınlama tamamlandıktan sonra bu pencereyi açık tut.">
+<!ENTITY keepOpen              "Yayımlama tamamlandıktan sonra bu pencereyi açık tut.">
 <!ENTITY closeButton.label     "Kapat">
 

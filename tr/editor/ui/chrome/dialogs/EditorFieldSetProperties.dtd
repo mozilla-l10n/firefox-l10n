@@ -39,13 +39,13 @@
 <!ENTITY Legend.label "Gösterge">
 <!ENTITY Legend.accesskey "G">
 
-<!ENTITY EditLegendText.label "Gösterge düzenle:">
+<!ENTITY EditLegendText.label "Göstergeyi düzenle:">
 <!ENTITY EditLegendText.accesskey "d">
-<!ENTITY LegendAlign.label "Gösterge hizala:">
+<!ENTITY LegendAlign.label "Göstergeyi hizala:">
 <!ENTITY LegendAlign.accesskey "s">
-<!ENTITY AlignDefault.label "Öntanımlı">
+<!ENTITY AlignDefault.label "Varsayılan">
 <!ENTITY AlignLeft.label "Sol">
-<!ENTITY AlignCenter.label "Merkez">
+<!ENTITY AlignCenter.label "Orta">
 <!ENTITY AlignRight.label "Sağ">
 
 <!ENTITY RemoveFieldSet.label "Alan kümesini kaldır">

@@ -41,23 +41,23 @@
 <!ENTITY folderProps.windowtitle.label           "Özellikler">
 
 <!ENTITY generalInfo.label                       "Genel bilgiler">
-<!ENTITY folderCharsetTab.label                  "Öntanımlı karakter kodlaması:">
-<!ENTITY folderCharsetTab.accesskey              "e">
-<!ENTITY folderCharsetOverride.label             "Öntanımlamayı bu dizindeki postalara uyumla.">
+<!ENTITY folderCharsetTab.label                  "Varsayılan karakter kodlaması:">
+<!ENTITY folderCharsetTab.accesskey              "V">
+<!ENTITY folderCharsetOverride.label             "Dizindeki tüm iletileri varsayılanı uygula (ayrı ileti karakter kodlama ayarları ve otomatik tespit görmezden gelinecek)">
 <!ENTITY folderCharsetOverride.accesskey         "a">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Özet dosyası indeksini yeniden oluştur">
 <!ENTITY folderRebuildSummaryFile2.label         "Dizini onar">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
-<!ENTITY folderRebuildSummaryFile.explanation    "Sometimes the folder index (.msf) file becomes damaged and messages may appear missing or deleted messages continue showing; repairing the folder may fix these issues.">
+<!ENTITY folderRebuildSummaryFile.explanation    "Bazen dizin indeks dosyası (.msf) hasar görebilir ve iletiler eksik görünebilir veya silinmiş iletiler görünmeye devam edebilir. Dizini onarmak bu sorunları çözebilir.">
 <!ENTITY folderIncludeInGlobalSearch.label       "Bu dizindeki iletileri global arama sonuçlarına dâhil et">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "g">
      
-<!ENTITY retention.label "Kayıt güvenliği">
-<!ENTITY retentionUseAccount.label  "Hesap ayarlarınını kullan">
+<!ENTITY retention.label "Kayıt ilkeleri">
+<!ENTITY retentionUseAccount.label  "Hesap ayarlarımı kullan">
 <!ENTITY retentionUseAccount.accesskey "H">
 <!ENTITY daysOld.label "günden eski ise sil">
 <!ENTITY message.label "ileti dışındakileri sil">
-<!ENTITY retentionCleanup.label "Boş yer kazanmak için eski iletileri düzenli aralıklar ile silebilirsiniz.">
+<!ENTITY retentionCleanup.label "Disk alanı kazanmak için eski iletileri kalıcı olarak silebilirsiniz.">
 <!ENTITY retentionCleanupImap.label "Disk alanı kazanmak için sunucudaki eski özgün iletiler ve yerel kopyaları tamamen silinebilir.">
 <!ENTITY retentionCleanupPop.label "Disk alanı kazanmak için sunucudaki eski özgün iletiler tamamen silinebilir.">
 <!ENTITY retentionDeleteMsg.label "İleti">
@@ -67,11 +67,11 @@
 <!ENTITY retentionKeepRecent.label "Son">
 <!ENTITY retentionKeepRecent.accesskey "S">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Okunmuş iletileri sil (zaman ayarlarını gözardı et)">
+<!ENTITY retentionKeepUnreadHidden.label "Okunmuş iletileri sil (zaman ayarlarını göz ardı et)">
 <!ENTITY retentionApplyToFlagged.label "Yıldızlı iletileri hiçbir zaman silme">
 <!ENTITY retentionApplyToFlagged.accesskey "Y">
 
-<!ENTITY folderSynchronizationTab.label          "Eşzamanlama">
+<!ENTITY folderSynchronizationTab.label          "Eşitleme">
 <!ENTITY folderCheckForNewMessages2.label         "Bu hesap için yeni ileti alırken her zaman bu dizini denetle">
 <!ENTITY folderCheckForNewMessages2.accesskey     "y">
 
@@ -90,10 +90,10 @@
 <!ENTITY folderProps.location.label              "Konum:">
 <!ENTITY folderProps.location.accesskey          "m">
 
-<!ENTITY folderSharingTab.label                  "Ortak kullanım">
+<!ENTITY folderSharingTab.label                  "Paylaşım">
 <!ENTITY privileges.button.label                 "Öncelikli haklar…">
 <!ENTITY privileges.button.accesskey             "h">
-<!ENTITY permissionsDesc.label                   "İzinleriniz:">
+<!ENTITY permissionsDesc.label                   "Aşağıdaki izinlere sahipsiniz:">
 <!ENTITY folderType.label                        "Dizin türü:">
 
 <!ENTITY folderQuotaTab.label                    "Kota">

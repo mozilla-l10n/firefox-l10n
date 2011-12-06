@@ -1,7 +1,7 @@
 <!-- extracted from am-copies.xul -->
 
 <!ENTITY copyAndFolderTitle.label "Kopyalar ve dizinler">
-<!ENTITY sendingPrefix.label "Postaları otomatik gönderirken">
+<!ENTITY sendingPrefix.label "İletileri gönderirken otomatik olarak: ">
 <!ENTITY fccMailFolder.label "Bir kopyasını buraya koy:">
 <!ENTITY fccMailFolder.accesskey "p">
 <!ENTITY fccReplyFollowsParent.label "Yanıtları yanıtlanan iletinin dizinine koy">
@@ -14,12 +14,12 @@
 <!ENTITY bccAddress.label "Bu e-posta adreslerini Bcc'ye ekle:">
 <!ENTITY bccAddress.accesskey "B">
 <!ENTITY bccAddressList.placeholder "Adresleri virgülle ayırın">
-<!ENTITY saveMessageDlg.label "Mesajlar kaydoldulurken onaylama penceresini göster">
+<!ENTITY saveMessageDlg.label "Mesajlar kaydedildiğinde onay penceresini göster">
 <!ENTITY saveMessageDlg.accesskey "s">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY sentFolderOn.label "&quot;Giden&quot; dizini:">
 <!ENTITY sentFolderOn.accesskey "e">
-<!ENTITY sentInOtherFolder.label "Diğer">
+<!ENTITY sentInOtherFolder.label "Diğer:">
 <!ENTITY sentInOtherFolder.accesskey "D">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY archivesTitle.label "İleti Arşivleri">
@@ -36,11 +36,11 @@
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "&quot;Taslak&quot; dizini:">
 <!ENTITY draftsFolderOn.accesskey "T">
-<!ENTITY draftInOtherFolder.label "Diğer">
+<!ENTITY draftInOtherFolder.label "Diğer:">
 <!ENTITY draftInOtherFolder.accesskey "D">
 <!ENTITY keepTemplates.label "İleti şablonlarının tutulacağı yer:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY templatesFolderOn.label "&quot;Geçici&quot; dizini:">
+<!ENTITY templatesFolderOn.label "&quot;Şablonlar&quot; dizini:">
 <!ENTITY templatesFolderOn.accesskey "G">
 <!ENTITY templateInOtherFolder.label "Diğer:">
 <!ENTITY templateInOtherFolder.accesskey "r">

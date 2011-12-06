@@ -35,34 +35,34 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY windowTitle.label "Form alanı özellikleri">
-<!ENTITY windowTitleImage.label "Form görüntüsü özellikleri">
+<!ENTITY windowTitleImage.label "Form resmi özellikleri">
 
-<!ENTITY InputType.label "Alan tipi">
+<!ENTITY InputType.label "Alan türü">
 <!ENTITY InputType.accesskey "l">
 <!ENTITY text.value "Metin">
 <!ENTITY password.value "Parola">
-<!ENTITY checkbox.value "İşaret kutucuğu">
+<!ENTITY checkbox.value "Onay kutusu">
 <!ENTITY radio.value "Radyo düğmesi">
 <!ENTITY submit.value "Gönder düğmesi">
 <!ENTITY reset.value "Sıfırla düğmesi">
 <!ENTITY file.value "Dosya">
 <!ENTITY hidden.value "Gizli">
-<!ENTITY image.value "Görüntü">
+<!ENTITY image.value "Resim">
 <!ENTITY button.value "Düğme">
 
 <!ENTITY InputSettings.label "Alan ayarları">
-<!ENTITY InputName.label "Alan ismi">
+<!ENTITY InputName.label "Alan ismi:">
 <!ENTITY InputName.accesskey "n">
-<!ENTITY GroupName.label "Grup adı:">
+<!ENTITY GroupName.label "Grup ismi:">
 <!ENTITY GroupName.accesskey "G">
 <!ENTITY InputValue.label "Alan değeri:">
-<!ENTITY InputValue.accesskey "A">
+<!ENTITY InputValue.accesskey "d">
 <!ENTITY InitialValue.label "Başlangıç değeri:">
-<!ENTITY InitialValue.accesskey "d">
+<!ENTITY InitialValue.accesskey "B">
 <!ENTITY InputChecked.label "Başlangıçta işaretli">
-<!ENTITY InputChecked.accesskey "B">
+<!ENTITY InputChecked.accesskey "g">
 <!ENTITY InputSelected.label "Başlangıçta seçili">
-<!ENTITY InputSelected.accesskey "B">
+<!ENTITY InputSelected.accesskey "s">
 <!ENTITY InputReadOnly.label "Salt okunur">
 <!ENTITY InputReadOnly.accesskey "S">
 <!ENTITY InputDisabled.label "Kullanılamaz">
@@ -78,6 +78,6 @@
 <!ENTITY Accept.label "Kabul etme tipleri:">
 <!ENTITY Accept.accesskey "b">
 
-<!ENTITY ImageProperties.label "Resim dosyası özellikleri…">
+<!ENTITY ImageProperties.label "Resim özellikleri…">
 <!ENTITY ImageProperties.accesskey "e">
 

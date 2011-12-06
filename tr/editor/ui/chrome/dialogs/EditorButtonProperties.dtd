@@ -34,7 +34,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowTitle.label "Düğme Özellikleri">
+<!ENTITY windowTitle.label "Düğme özellikleri">
 
 <!ENTITY Settings.label "Ayarlar">
 
@@ -52,7 +52,7 @@
 <!ENTITY tabIndex.accesskey "e">
 <!ENTITY ButtonDisabled.label "Kullanılamaz">
 <!ENTITY ButtonDisabled.accesskey "K">
-<!ENTITY AccessKey.label "Erişim Tuşu:">
+<!ENTITY AccessKey.label "Erişim tuşu:">
 <!ENTITY AccessKey.accesskey "E">
 
 <!ENTITY RemoveButton.label "Düğmeyi kaldır">

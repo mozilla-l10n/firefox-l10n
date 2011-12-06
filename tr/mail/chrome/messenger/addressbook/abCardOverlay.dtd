@@ -73,7 +73,7 @@
 <!ENTITY PrimaryEmail.accesskey         "p">
 <!ENTITY SecondEmail.label              "Ek e-posta:">
 <!ENTITY SecondEmail.accesskey          "o">
-<!ENTITY PreferMailFormat.label         "Alıcı için tercih edilen ileti gönderme şekli:">
+<!ENTITY PreferMailFormat.label         "Tercih ettiği ileti alma biçimi:">
 <!ENTITY PreferMailFormat.accesskey     "h">
 <!ENTITY PlainText.label                "Düz metin">
 <!ENTITY HTML.label                     "HTML">
@@ -83,11 +83,7 @@
 
 <!ENTITY allowRemoteContent1.label      "Uzak içeriği kabul et.">
 <!ENTITY allowRemoteContent1.accesskey  "U">
-<!ENTITY allowRemoteContent1.tooltip    "Uzak kaynaklardan gelen gömülü içerik HTML ileti içerebilir. 
-Açılacak bir ileti dış kaynağa bir bağlantı açacak. 
-Okunmaya başlanan iletinin izlenmesi için kabul edilmelidir. 
-Bu kişinin dış gömülü içeriğinin HTML iletiyi kabul etmek için 
-bu kutuyu kontrol edin.">
+<!ENTITY allowRemoteContent1.tooltip    "HTML iletilere uzak kaynaklardan içerik gömmek mümkündür. Böyle bir iletiyi açtığınızda bu harici kaynağa bağlı kurulur. Bu, iletinin okunup okunmadığının takip edilmesini sağlayabilir. Bu kutuyu işaretlerseniz, bu kişiden gelen HTML iletilerdeki gömülü içeriğe izin verilecektir.">
 
 <!ENTITY WorkPhone.label                "İş:">
 <!ENTITY WorkPhone.accesskey            "ş">
@@ -108,8 +104,8 @@ bu kutuyu kontrol edin.">
 <!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "Şehir:">
 <!ENTITY HomeCity.accesskey             "h">
-<!ENTITY HomeState.label                "Bölge:">
-<!ENTITY HomeState.accesskey            "B">
+<!ENTITY HomeState.label                "Eyalet:">
+<!ENTITY HomeState.accesskey            "y">
 <!ENTITY HomeZipCode.label              "Posta kodu:">
 <!ENTITY HomeZipCode.accesskey          "P">
 <!ENTITY HomeCountry.label              "Ülke:">
@@ -126,8 +122,8 @@ bu kutuyu kontrol edin.">
 
 <!ENTITY Work.tab                       "İş">
 <!ENTITY Work.accesskey                 "W">
-<!ENTITY JobTitle.label                 "Ünvan:">
-<!ENTITY JobTitle.accesskey             "a">
+<!ENTITY JobTitle.label                 "Unvan:">
+<!ENTITY JobTitle.accesskey             "U">
 <!ENTITY Department.label               "Bölüm:">
 <!ENTITY Department.accesskey           "m">
 <!ENTITY Company.label                  "Kurum:">
@@ -160,12 +156,12 @@ bu kutuyu kontrol edin.">
 <!ENTITY Notes.label                    "Notlar:">
 <!ENTITY Notes.accesskey                "N">
 
-<!ENTITY Photo.tab                      "Resim">
+<!ENTITY Photo.tab                      "Fotoğraf">
 <!ENTITY Photo.accesskey                "o">
 <!ENTITY PhotoDesc.label                "Aşağıdakilerden birini seçin:">
-<!ENTITY GenericPhoto.label             "Genel resim">
+<!ENTITY GenericPhoto.label             "Genel fotoğraf">
 <!ENTITY GenericPhoto.accesskey         "G">
-<!ENTITY DefaultPhoto.label             "Öntanımlı">
+<!ENTITY DefaultPhoto.label             "Varsayılan">
 <!ENTITY PhotoFile.label                "Bu bilgisayarda">
 <!ENTITY PhotoFile.accesskey            "g">
 <!ENTITY BrowsePhoto.label              "Gözat">

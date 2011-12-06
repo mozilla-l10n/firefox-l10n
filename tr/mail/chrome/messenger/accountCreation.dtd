@@ -13,7 +13,7 @@
 <!ENTITY rememberPassword.label          "Parolayı hatırla">
 <!ENTITY rememberPassword.accesskey      "h">
 
-<!ENTITY imapLong.label                  "IMAP (uzak klasörler)">
+<!ENTITY imapLong.label                  "IMAP (uzak dizinler)">
 <!ENTITY pop3Long.label                  "POP3 (postalar bilgisayarınızda saklanacak)">
 
 <!ENTITY incoming.label                  "Gelen:">

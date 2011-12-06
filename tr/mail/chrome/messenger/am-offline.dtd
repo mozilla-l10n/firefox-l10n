@@ -1,5 +1,5 @@
-<!ENTITY doNotDownloadPop3Movemail.label "Yer sıkıntısı çekmemek için indirilmeyenler:">
-<!ENTITY doNotDownloadNntp.label "Yer sıkıntısı çekmemek için çevrim dışı kullanımı için indirilmeyenler:">
+<!ENTITY doNotDownloadPop3Movemail.label "Disk alanı tasarrufu için şunları indirme:">
+<!ENTITY doNotDownloadNntp.label "Disk alanı tasarrufu için şunları çevrim dışı kullanılmak üzere indirme:">
 <!ENTITY doNotDownloadImap.label "Disk alanından tasarruf etmek için sunucudaki iletilerin indirilmesi ve çevrim dışı için yerel kopyalarının bulundurması boyut veya yaş ile sınırlandırılabilir.">
 <!ENTITY allFoldersOffline.label "Hesaba ait iletileri bu bilgisayarda tut">
 <!ENTITY allFoldersOffline.accesskey "H">
@@ -7,14 +7,14 @@
 <!ENTITY offlineNotDownload.accesskey "t">
 <!ENTITY autosyncNotDownload.label "İleti">
 <!ENTITY autosyncNotDownload.accesskey "t">
-<!ENTITY kb.label "KB den büyük ise indirme">
-<!ENTITY daysOld.label "günden eski ise sil">
+<!ENTITY kb.label "KB'den büyükse indirme">
+<!ENTITY daysOld.label "günden eskiyse sil">
 <!ENTITY message.label "ileti dışındakileri sil">
 <!ENTITY nntpNotDownloadRead.label "Okunmuş iletiler">
 <!ENTITY nntpNotDownloadRead.accesskey "l">
 <!ENTITY nntpDownloadMsg.label "İleti">
 <!ENTITY nntpDownloadMsg.accesskey "i">
-<!ENTITY retentionCleanup.label "Boş yer kazanmak için eski iletireri düzenli aralıklar ile silebilirsiniz.">
+<!ENTITY retentionCleanup.label "Disk alanı kazanmak için eski iletileri kalıcı olarak silebilirsiniz.">
 <!ENTITY retentionCleanupImap.label "Disk alanı kazanmak için sunucudaki eski özgün iletiler ve yerel kopyaları tamamen silinebilir.">
 <!ENTITY retentionCleanupPop.label "Disk alanı kazanmak için sunucudaki eski özgün iletiler tamamen silinebilir.">
 <!ENTITY retentionKeepMsg.label "İleti">
@@ -24,7 +24,7 @@
 <!ENTITY retentionKeepRecent.label "Son">
 <!ENTITY retentionKeepRecent.accesskey "S">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Okunmuş iletileri sil (zaman ayarlarını gözardı et)">
+<!ENTITY retentionKeepUnreadHidden.label "Okunmuş iletileri her zaman sil (yaş ayarlarını göz ardı et)">
 <!ENTITY retentionApplyToFlagged.label "Yıldızlı iletileri hiçbir zaman silme">
 <!ENTITY retentionApplyToFlagged.accesskey "Y">
 <!ENTITY nntpRemoveMsgBody.label "İleti gövdesi">
@@ -33,7 +33,7 @@
 <!ENTITY offlineSelectNntp.accesskey "s">
 <!ENTITY offlineImapAdvancedOffline.label "Gelişmiş…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "G">
-<!ENTITY syncGroupTitle.label "İleti eşzamanlaması">
+<!ENTITY syncGroupTitle.label "İleti eşitleme">
 <!ENTITY diskspaceGroupTitle.label "Disk alanı">
 
 <!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
@@ -42,14 +42,14 @@
 
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
-<!ENTITY allAutosync.label               "Tarihini gözardı ederek tüm iletileri eşzamanla">
+<!ENTITY allAutosync.label               "Tarihini göz ardı ederek tüm iletileri eşitle">
 <!ENTITY allAutosync.accesskey           "T">
 <!ENTITY ageAutosyncBefore.label         "Son">
 <!ENTITY ageAutosync.accesskey           "o">
 <!ENTITY ageAutosyncMiddle.label         "">
-<!ENTITY dayAgeInterval.label            "günü">
-<!ENTITY weekAgeInterval.label           "haftayı">
-<!ENTITY monthAgeInterval.label          "ayı">
-<!ENTITY yearAgeInterval.label           "yılı">
+<!ENTITY dayAgeInterval.label            "günü eşitle">
+<!ENTITY weekAgeInterval.label           "haftayı eşitle">
+<!ENTITY monthAgeInterval.label          "ayı eşitle">
+<!ENTITY yearAgeInterval.label           "yılı eşitle">
 <!ENTITY ageAutosyncAfter.label          "">
 

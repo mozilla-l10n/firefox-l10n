@@ -37,24 +37,24 @@
 <!ENTITY windowTitle.label "Seçim Listesi Özellikleri">
 
 <!ENTITY Select.label "Seçim listesi">
-<!ENTITY SelectName.label "Liste Adı:">
+<!ENTITY SelectName.label "Liste adı:">
 <!ENTITY SelectName.accesskey "L">
 <!ENTITY SelectSize.label "Yükseklik:">
 <!ENTITY SelectSize.accesskey "Y">
-<!ENTITY SelectMultiple.label "Çoklu Seçim">
+<!ENTITY SelectMultiple.label "Çoklu seçim">
 <!ENTITY SelectMultiple.accesskey "e">
 <!ENTITY SelectDisabled.label "Kullanılamaz">
 <!ENTITY SelectDisabled.accesskey "K">
 <!ENTITY SelectTabIndex.label "Sekme indeksi:">
 <!ENTITY SelectTabIndex.accesskey "e">
 
-<!ENTITY OptGroup.label "Seçim grupları">
+<!ENTITY OptGroup.label "Seçnek grubu">
 <!ENTITY OptGroupLabel.label "Etiket:">
 <!ENTITY OptGroupLabel.accesskey "E">
 <!ENTITY OptGroupDisabled.label "Kullanılamaz">
 <!ENTITY OptGroupDisabled.accesskey "K">
 
-<!ENTITY Option.label "Opsiyon">
+<!ENTITY Option.label "aSeçenek">
 <!ENTITY OptionText.label "Metin:">
 <!ENTITY OptionText.accesskey "t">
 <!ENTITY OptionValue.label "Değer:">
@@ -68,14 +68,14 @@
 <!ENTITY ValueHeader.label "Değer">
 <!ENTITY SelectedHeader.label "Seçilmiş">
 
-<!ENTITY AddOption.label "Özellik ekle">
-<!ENTITY AddOption.accesskey "z">
+<!ENTITY AddOption.label "Seçenek ekle">
+<!ENTITY AddOption.accesskey "n">
 <!ENTITY AddOptGroup.label "Grup ekle">
 <!ENTITY AddOptGroup.accesskey "G">
 <!ENTITY RemoveElement.label "Kaldır">
 <!ENTITY RemoveElement.accesskey "r">
-<!ENTITY MoveElementUp.label "Yukarıya">
+<!ENTITY MoveElementUp.label "Yukarı taşı">
 <!ENTITY MoveElementUp.accesskey "u">
-<!ENTITY MoveElementDown.label "Aşağıya">
+<!ENTITY MoveElementDown.label "Aşağı taşı">
 <!ENTITY MoveElementDown.accesskey "A">
 

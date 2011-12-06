@@ -46,8 +46,8 @@
 <!ENTITY ListDescription.label          "Açıklama: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label             "Posta listesine eklemek istediğiniz e-posta adreslerini yazın:">
-<!ENTITY UpButton.label                 "Yukarıya taşı">
-<!ENTITY DownButton.label               "Aşağıya taşı">
+<!ENTITY UpButton.label                 "Yukarı taşı">
+<!ENTITY DownButton.label               "Aşağı taşı">
 
 <!-- Access Keys -->
 <!ENTITY addToAddressBook.accesskey     "B">

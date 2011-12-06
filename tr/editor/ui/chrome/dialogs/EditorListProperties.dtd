@@ -40,15 +40,15 @@
 <!ENTITY windowTitle.label "Liste özellikleri">
 
 <!ENTITY ListType.label "Liste türü">
-<!ENTITY bulletStyle.label "Madde Tipi:">
-<!ENTITY startingNumber.label "Buradan başla:">
+<!ENTITY bulletStyle.label "Madde imi stili:">
+<!ENTITY startingNumber.label "Başlangıç:">
 <!ENTITY startingNumber.accessKey "B">
 <!ENTITY none.value "Hiçbiri">
-<!ENTITY bulletList.value "Maddeli (numarasız) Liste">
+<!ENTITY bulletList.value "Madde imli (numarasız) liste">
 <!ENTITY numberList.value "Numaralı Liste">
-<!ENTITY definitionList.value "Tanımlama Listesi">
+<!ENTITY definitionList.value "Tanım listesi">
 <!ENTITY changeEntireListRadio.label "Tüm listeyi değiştir">
 <!ENTITY changeEntireListRadio.accessKey "T">
-<!ENTITY changeSelectedRadio.label "Seçili öğeleri değiştir">
+<!ENTITY changeSelectedRadio.label "Yalnızca seçili ögeleri değiştir">
 <!ENTITY changeSelectedRadio.accessKey "l">
 

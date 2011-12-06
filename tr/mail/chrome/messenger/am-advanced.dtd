@@ -4,7 +4,7 @@
 <!ENTITY smtpServer.label "Giden posta sunucusu (SMTP) ayarları">
 
 <!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpDesc.label "Sadece bir tane giden posta sunucusu(SMTP) belirlemeniz yeterlidir. Giden posta sunucunuzun ismini giriniz.">
+<!ENTITY smtpDesc.label "Birden fazla giden sunucusu (SMTP) belirtebilirsiniz ama bu sadece deneyimli kullanıcılar için önerilir. irden fazla SMTP sunucusunun kurulması, ileti gönderirken hatalara yol açabilir.">
 
 <!ENTITY smtpListAdd.label  "Ekle…">
 <!ENTITY smtpListAdd.accesskey  "l">
@@ -18,7 +18,7 @@
 <!ENTITY serverDescription.label "Açıklama: ">
 <!ENTITY serverName.label "Sunucu ismi: ">
 <!ENTITY serverPort.label "Port: ">
-<!ENTITY userName.label   "Kullanıcı ismi: ">
+<!ENTITY userName.label   "Kullanıcı adı: ">
 <!ENTITY connectionSecurity.label "Bağlantı güvenliği: ">
 <!ENTITY authMethod.label   "Yetkilendirme yöntemi: ">
 
