@@ -8,7 +8,7 @@
 <!ENTITY rights.intro-point2-a "No se le concede ningún derecho ni licencia sobre las marcas comerciales de Mozilla Foundation o sus filiales, incluyendo sin limitación el nombre y logo de Firefox. Puede encontrarse información adicional sobre las marcas comerciales ">
 <!ENTITY rights.intro-point2-b "aquí">
 <!ENTITY rights.intro-point2-c ".">
-<!ENTITY rights.intro-point2.5 "Algunas características en &brandShortName;, como agente de fallos, le dan la opción de proporcionar información a &vendorShortName;. Al elegir enviar esa información, concede a &vendorShortName; permiso para usar la misma para mejorar sus productos, para publicar esa información en sus sitios web y para distribuirla.">
+<!ENTITY rights.intro-point2.5 "Algunas características en &brandShortName;, como el agente de informe de fallos, le dan la opción de proporcionar información a &vendorShortName;. Al elegir enviar esa información, concede a &vendorShortName; permiso para usar la misma para mejorar sus productos, para publicar esa información en sus sitios web y para distribuirla.">
 <!ENTITY rights2.intro-point3a "La manera en que usamos su información personal y las opiniones enviadas a &vendorShortName; a través de &brandShortName; se describe en la ">
 <!ENTITY rights2.intro-point3b "Política de privacidad de &brandShortName;">
 <!ENTITY rights.intro-point3c ".">
