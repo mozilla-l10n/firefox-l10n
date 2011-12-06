@@ -2,7 +2,7 @@
 
 <!ENTITY  authorName.label          "Yazar:">
 <!ENTITY  authorName.accesskey      "a">
-<!ENTITY  pageColorHeader           "Öntanımlı sayfa görünümü">
+<!ENTITY  pageColorHeader           "Varsayılan sayfa görünümü">
 
 <!ENTITY defaultColors.label        "Okuyucunun öntanımlı renkleri (Sayfadaki renkleri ayarlama)">
 <!ENTITY defaultColors.accesskey    "t">
@@ -13,15 +13,15 @@
 <!ENTITY normalText.accesskey       "r">
 <!ENTITY linkText.label             "Bağlantı metni">
 <!ENTITY linkText.accesskey         "B">
-<!ENTITY activeLinkText.label       "Etkin bağlantı rengi">
+<!ENTITY activeLinkText.label       "Etkin bağlantı metni">
 <!ENTITY activeLinkText.accesskey   "a">
 <!ENTITY visitedLinkText.label      "Ziyaret edilmiş bağlantı metni">
 <!ENTITY visitedLinkText.accesskey  "Z">
-<!ENTITY background.label           "Arkaplan:">
+<!ENTITY background.label           "Arka plan:">
 <!ENTITY background.accesskey       "A">
 <!ENTITY colon.character            ":">
 
-<!ENTITY backgroundImage.label      "Arkaplan resmi:">
+<!ENTITY backgroundImage.label      "Arka plan resmi:">
 <!ENTITY backgroundImage.accesskey  "A">
 <!ENTITY chooseFile.label           "Dosya seç…">
 <!ENTITY chooseFile.accesskey       "ç">

@@ -39,15 +39,15 @@
 <!ENTITY windowTitle.label "İmla denetimi">
 
 <!ENTITY misspelledWord.label "Hatalı sözcük:">
-<!ENTITY wordEditField.label "Değiştirilecek:">
-<!ENTITY wordEditField.accessKey "D">
-<!ENTITY checkwordButton.label "Kelimeyi kontrol et">
-<!ENTITY checkwordButton.accessKey "o">
+<!ENTITY wordEditField.label "Bununla değiştir:">
+<!ENTITY wordEditField.accessKey "d">
+<!ENTITY checkwordButton.label "Sözcüğü denetle">
+<!ENTITY checkwordButton.accessKey "z">
 <!ENTITY suggestions.label "Öneriler:">
 <!ENTITY suggestions.accessKey "n">
 <!ENTITY ignoreButton.label "Görmezden gel">
 <!ENTITY ignoreButton.accessKey "G">
-<!ENTITY ignoreAllButton.label "Hepsini görmemezlikten gel">
+<!ENTITY ignoreAllButton.label "Hepsini görmezden gel">
 <!ENTITY ignoreAllButton.accessKey "n">
 <!ENTITY replaceButton.label "Değiştir">
 <!ENTITY replaceButton.accessKey "e">
@@ -56,12 +56,12 @@
 <!ENTITY stopButton.label "Dur">
 <!ENTITY stopButton.accessKey "D">
 <!ENTITY userDictionary.label "Kişisel sözlük:">
-<!ENTITY moreDictionaries.label "Daha fazla indir">
+<!ENTITY moreDictionaries.label "Daha fazla sözlük indir…">
 <!ENTITY addToUserDictionaryButton.label "Sözcük ekle">
 <!ENTITY addToUserDictionaryButton.accessKey "S">
 <!ENTITY editUserDictionaryButton.label "Düzenle…">
 <!ENTITY editUserDictionaryButton.accessKey "D">
-<!ENTITY recheckButton.label "Sayfayı tekrar kontrol et">
+<!ENTITY recheckButton.label "Sayfayı tekrar denetle">
 <!ENTITY recheckButton.accessKey "S">
 <!ENTITY closeButton.label "Kapat">
 <!ENTITY closeButton.accessKey "K">

@@ -3,11 +3,11 @@
 <!ENTITY accountTitle.label "Hesap ayarları">
 <!ENTITY accountName.label "Hesap adı:">
 <!ENTITY accountName.accesskey "d">
-<!ENTITY identityTitle.label "Kimlik">
+<!ENTITY identityTitle.label "Varsayılan kimlik">
 <!ENTITY identityDesc.label "Her hesabın kendi kimliği vardır. Alıcılar bu bilgileri e-postanızı okudukları zaman görürler.">
 <!ENTITY name.label "İsminiz:">
 <!ENTITY name.accesskey "s">
-<!ENTITY email.label "E-posta adresi:">
+<!ENTITY email.label "Email Address:">
 <!ENTITY email.accesskey "E">
 <!ENTITY replyTo.label "Yanıt adresi:">
 <!ENTITY replyTo.accesskey "s">
@@ -16,24 +16,24 @@
 <!ENTITY organization.accesskey "K">
 <!ENTITY signatureText.label "İmza metni:">
 <!ENTITY signatureText.accesskey "n">
-<!ENTITY signatureHtml.label "HTML kullan (örn. &lt;b&gt;bold&lt;/b&gt;)">
+<!ENTITY signatureHtml.label "HTML kullan (örn. &lt;b&gt;kalın&lt;/b&gt;)">
 <!ENTITY signatureHtml.accesskey "L">
-<!ENTITY signatureFile.label "İmzayı dosyadan al (metin, HTML veya resim):">
-<!ENTITY signatureFile.accesskey "T">
+<!ENTITY signatureFile.label "İmzayı bir dosyadan ekle (metin, HTML veya resim):">
+<!ENTITY signatureFile.accesskey "d">
 <!ENTITY edit.label "Düzenle…">
 <!ENTITY choose.label "Seçin…">
 <!ENTITY choose.accesskey "e">
-<!ENTITY editVCard.label "Kartvizit düzenle…">
+<!ENTITY editVCard.label "Kartviziti düzenle…">
 <!ENTITY editVCard.accesskey "d">
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
-<!ENTITY attachVCard.label "Postama kartvizitimi ekle">
+<!ENTITY attachVCard.label "İletilere vCard'ımı ekle">
 <!ENTITY attachVCard.accesskey "v">
 
 <!ENTITY manageIdentities.label "Kimlikleri yönet…">
 <!ENTITY manageIdentities.accesskey "m">
 
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
-<!ENTITY smtpName.label "Gönderme sunucusu (SMTP):">
+<!ENTITY smtpName.label "Giden sunucusu (SMTP):">
 <!ENTITY smtpName.accesskey "u">
 <!ENTITY smtpDefaultServer.label "Varsayılan sunucuyu kullan">
 

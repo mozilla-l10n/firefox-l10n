@@ -7,7 +7,7 @@
 <!ENTITY feedLocation.label       "Canlı yer imi adresi: ">
 <!ENTITY feedLocation.accesskey   "C">
 
-<!ENTITY choosethisfolder.label   "bu dizini seçin">
+<!ENTITY choosethisfolder.label   "bu dizini seç">
 
 <!ENTITY quickMode.label          "Web sayfasını yüklemek yerine sayfaların bir özetini göster">
 <!ENTITY quickMode.accesskey      "s">

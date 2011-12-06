@@ -42,7 +42,7 @@
 <!ENTITY name.accesskey             "D">
 <!ENTITY description.label          "Aşağıdaki dizinin içinde oluştur:">
 <!ENTITY description.accesskey      "k">
-<!ENTITY folderRestriction1.label   "Bu sunucu dizinleri iki biçimde kısıtlar.">
+<!ENTITY folderRestriction1.label   "Bu sunucu dizinleri iki özel türle sınırlandırıyor.">
 <!ENTITY folderRestriction2.label   "Yeni dizin aşağıdakileri içerebilir:">
 <!ENTITY foldersOnly.label          "Sadece dizinler">
 <!ENTITY messagesOnly.label         "Sadece postalar">

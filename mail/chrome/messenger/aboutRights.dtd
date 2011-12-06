@@ -53,7 +53,7 @@
 <!ENTITY rights.webservices-e " tab, and unchecking the options for &quot;Automatically check for updates to&quot;.">
 
 <!-- intro paragraph for unbranded builds -->
-<!ENTITY rights.webservices-unbranded "An overview of the web site services the product incorporates, along with instructions on how to disable them, if applicable, should be included here.">
+<!ENTITY rights.webservices-unbranded "Ürünün içerdiği web sitesi hizmetlerine genel bakış ve varsa devre dışı bırakma yönergeleri buraya eklenmelidir.">
 
 <!-- point 1 text for unbranded builds -->
 <!ENTITY rights.webservices-term1-unbranded "Bu ürünle ilgili tüm hizmet koşulları burada listelenmelidir.">

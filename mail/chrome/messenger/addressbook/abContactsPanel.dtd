@@ -2,18 +2,18 @@
 <!ENTITY addressbookPicker.accesskey        "t">
 <!ENTITY searchInput.label                  "Ara:">
 <!ENTITY searchInput.accesskey              "A">
-<!ENTITY SearchNameOrEmail.label            "İsim veya E-posta">
+<!ENTITY SearchNameOrEmail.label            "İsim veya e-posta">
 
 <!ENTITY deleteAddrBookCard.label           "Sil">
 <!ENTITY addrBookCardProperties.label       "Özellikler">
 <!ENTITY addtoToFieldMenu.label             "İlgili adrese ekle">
-<!ENTITY addtoCcFieldMenu.label             "İlgili adrese ekle">
+<!ENTITY addtoCcFieldMenu.label             "Cc alanına ekle">
 <!ENTITY addtoBccFieldMenu.label            "Bcc alanına ekle">
 
-<!ENTITY toButton.label                     "Kime: bölümüne ekle">
+<!ENTITY toButton.label                     "Kime: alanına ekle">
 <!ENTITY toButton.accesskey                 "e">
-<!ENTITY ccButton.label                     "İlgili adrese ekle">
+<!ENTITY ccButton.label                     "Cc'ye ekle:">
 <!ENTITY ccButton.accesskey                 "d">
 <!ENTITY bccButton.label                    "Bcc'ye ekle:">
-<!ENTITY bccButton.accesskey                "l">
+<!ENTITY bccButton.accesskey                "B">
 

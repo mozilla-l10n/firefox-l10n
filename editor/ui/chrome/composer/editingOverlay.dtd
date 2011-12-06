@@ -44,7 +44,7 @@
 
 <!-- File menu items -->
 <!ENTITY openFileCmd.label "Dosya aç…">
-<!ENTITY openFileCmd.accesskey "D">
+<!ENTITY openFileCmd.accesskey "o">
 <!ENTITY openFileCmd.key "o">
 <!ENTITY openRemoteCmd.label "Web konumu aç…">
 <!ENTITY openRemoteCmd.accesskey "k">
@@ -66,6 +66,6 @@
 <!ENTITY fileRevert.accesskey "G">
 
 <!-- Edit menu items -->
-<!ENTITY publishSettings.label "Publishing Site Settings…">
-<!ENTITY publishSettings.accesskey "b">
+<!ENTITY publishSettings.label "Yayın sitesi ayarları">
+<!ENTITY publishSettings.accesskey "Y">
 

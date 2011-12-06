@@ -101,7 +101,7 @@
 <!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "Yıldızlı iletiler">
 <!ENTITY selectFlaggedCmd.accesskey "l">
-<!ENTITY menuFavoriteFolder.label "Tercih edilen dizinler">
+<!ENTITY menuFavoriteFolder.label "Favori dizin">
 <!ENTITY menuFavoriteFolder.accesskey "e">
 <!ENTITY folderPropsCmd.label "Özellikler…">
 <!ENTITY folderPropsFolderCmd.label "Dizin özellikleri…">

@@ -2,9 +2,9 @@
 
 <!ENTITY addressing.label          "Kompozisyon ve hitap">
 <!ENTITY addressingGroupTitle.label "Adresler">
-<!ENTITY addressingText.label      "Adreslere bakılırken,">
+<!ENTITY addressingText.label      "Adreslere bakılırken:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
-<!ENTITY useGlobal.label           "LDAP sunucumun ayarlarını bu hesap için kullan">
+<!ENTITY useGlobal.label           "Bu hesap için global LDAP sunucu tercihlerimi  kullan">
 <!ENTITY useGlobal.accesskey       "L">
 <!ENTITY editDirectories.label     "Dizinleri düzenle…">
 <!ENTITY editDirectories.accesskey "e">
@@ -15,24 +15,24 @@
 
 <!-- am-addressing.xul -->
 
-<!ENTITY compositionGroupTitle.label "Düzenle">
+<!ENTITY compositionGroupTitle.label "Kompozisyon">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
-<!ENTITY useHtml.label                        "İletiyi HTML olarak yaz">
+<!ENTITY useHtml.label                        "İletileri HTML biçiminde yaz">
 <!ENTITY useHtml.accesskey                    "H">
-<!ENTITY autoQuote.label                      "Cevap yazarken özgün metni alıntı olarak tekrar yaz">
+<!ENTITY autoQuote.label                      "Yanıt yazarken özgün metni otomatik olarak alıntıla">
 <!ENTITY autoQuote.accesskey                  "a">
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY then.label                           "Sonra">
 <!ENTITY then.accesskey                       "S">
 <!ENTITY aboveQuote.label                     "Yanıtıma alıntının üstünden başla">
 <!ENTITY belowQuote.label                     "Yanıtıma alıntının altından başla">
-<!ENTITY selectAndQuote.label                 "alıntı metni işaretle">
+<!ENTITY selectAndQuote.label                 "alıntıyı seç">
 <!ENTITY place.label                          "ve imzamı ekle">
 <!ENTITY place.accesskey                      "v">
-<!ENTITY belowText.label                      "alıntı metnin altına koy (tavsiye edilen)">
-<!ENTITY aboveText.label                      "benim yanıtımın altına koy (alıntı metnin üstüne)">
-<!ENTITY includeSigOnReply.label              "Yanıtlara imzayı ekle">
+<!ENTITY belowText.label                      "alıntı metnin altına (önerilir)">
+<!ENTITY aboveText.label                      "yanıtımın altına (alıntının üstüne)">
+<!ENTITY includeSigOnReply.label              "Yanıtlara imza ekle">
 <!ENTITY includeSigOnReply.accesskey          "i">
-<!ENTITY includeSigOnForward.label            "İletilenlere imzayı ekle">
+<!ENTITY includeSigOnForward.label            "İletilenlere imza ekle">
 <!ENTITY includeSigOnForward.accesskey        "z">
 

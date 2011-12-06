@@ -2,7 +2,7 @@
 <!-- browser window: menu and status bar -->
 <!ENTITY testpilot.settings.label                       "Ayarlar">
 <!ENTITY testpilot.settings.dataSubmission.label        "Veri gönderimi">
-<!ENTITY testpilot.settings.notifications.label         "Uyarılar">
+<!ENTITY testpilot.settings.notifications.label         "Bildirimler">
 <!ENTITY testpilot.settings.notifyWhen.label            "Bu durumlarda beni haberdar et:">
 <!ENTITY testpilot.settings.readyToSubmit.label         "Bir araştırma gönderilmeye hazırsa">
 <!ENTITY testpilot.settings.newStudy.label              "Yeni bir araştırma varsa">

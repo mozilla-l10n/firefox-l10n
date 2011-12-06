@@ -1,8 +1,8 @@
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
 
 <!ENTITY MsgSynchronize.label "İletileri indir ve eşitle">
-<!ENTITY MsgSelect.label "Kapalı hat için kullanılacaklar">
-<!ENTITY MsgSyncDesc.label "Posta Dizinlerini ve Haber gruplarını çevrim dışı kullanımı için seçtiyseniz, şimdi indirebilir yada eşzamanlayabilirsiniz.Bundan başka,&quot;Seç&quot; düğmesini tıklayarak posta dizinlerini ve haber gruplarını çevrim dışı kullanımı için seçebilirsiniz.">
+<!ENTITY MsgSelect.label "Çevrim dışı kullanılacak ögeler">
+<!ENTITY MsgSyncDesc.label "Posta dizinlerini veya haber gruplarını çevrim dışı kullanımı için seçtiyseniz, onları şimdi indirebilir ve/veya eşitleyebilirsiniz. Aksi hâlde, &quot;Seç&quot; düğmesini tıklayarak posta dizinlerini ve haber gruplarını çevrim dışı kullanım için seçebilirsiniz.">
 <!ENTITY MsgSyncDirections.label "Şunu İndir ve/veya eşzamanla:">
 <!ENTITY syncTypeMail.label "Posta mesajları">
 <!ENTITY syncTypeMail.accesskey "e">
@@ -14,6 +14,6 @@
 <!ENTITY workOffline.accesskey "a">
 <!ENTITY selectButton.label "Seç…">
 <!ENTITY selectButton.accesskey "e">
-<!ENTITY MsgSelectDesc.label "Posta dizinlerini ve haber gruplarını çevrim dışı kullanımı için seç.">
+<!ENTITY MsgSelectDesc.label "Çevrim dışı kullanılacak posta dizinlerini ve haber gruplarını seçin.">
 <!ENTITY MsgSelectInd.label "İndir">
 <!ENTITY MsgSelectItems.label "Dizinler ve haber grupları">

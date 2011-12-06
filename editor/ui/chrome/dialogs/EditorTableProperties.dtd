@@ -37,73 +37,73 @@
 
 <!ENTITY tableWindow.title                "Tablo özellikleri">
 <!ENTITY applyButton.label                "Uygula">
-<!ENTITY applyButton.accesskey            "a">
+<!ENTITY applyButton.accesskey            "U">
 <!ENTITY closeButton.label                "Kapat">
 <!ENTITY tableTab.label                   "Tablo">
 <!ENTITY cellTab.label                    "Hücreler">
-<!ENTITY tableRows.label                  "Sıralar:">
+<!ENTITY tableRows.label                  "Satırlar:">
 <!ENTITY tableRows.accessKey              "S">
-<!ENTITY tableColumns.label               "Kolonlar:">
+<!ENTITY tableColumns.label               "Sütunlar:">
 <!ENTITY tableColumns.accessKey           "n">
 <!ENTITY tableHeight.label                "Yükseklik:">
-<!ENTITY tableHeight.accessKey            "k">
+<!ENTITY tableHeight.accessKey            "Y">
 <!ENTITY tableWidth.label                 "Genişlik:">
-<!ENTITY tableWidth.accessKey             "n">
-<!ENTITY tableBorderSpacing.label         "Çerçeveler ve Aralıklar">
-<!ENTITY tableBorderWidth.label           "Kenar:">
+<!ENTITY tableWidth.accessKey             "G">
+<!ENTITY tableBorderSpacing.label         "Kenarlıklar ve boşluklar">
+<!ENTITY tableBorderWidth.label           "Kenarlık:">
 <!ENTITY tableBorderWidth.accessKey       "r">
 <!ENTITY tableSpacing.label               "Aralık:">
 <!ENTITY tableSpacing.accessKey           "A">
 <!ENTITY tablePadding.label               "Dolgu:">
 <!ENTITY tablePadding.accessKey           "o">
-<!ENTITY tablePxBetwCells.label           "piksel hücreler arasında">
-<!ENTITY tablePxBetwBrdrCellContent.label "piksel, hücre çerçevesi ile içerik arasında">
-<!ENTITY tableAlignment.label             "Tablo Yerleşimi:">
+<!ENTITY tablePxBetwCells.label           "piksel, hücreler arasında">
+<!ENTITY tablePxBetwBrdrCellContent.label "piksel, hücre kenarlığı ile içerik arasında">
+<!ENTITY tableAlignment.label             "Tablo hizası:">
 <!ENTITY tableAlignment.accessKey         "T">
-<!ENTITY tableCaption.label               "Başlık:">
-<!ENTITY tableCaption.accessKey           "B">
-<!ENTITY tableCaptionAbove.label          "Tablonun Üstünde">
-<!ENTITY tableCaptionBelow.label          "Tablonun Altında">
+<!ENTITY tableCaption.label               "Alt yazı:">
+<!ENTITY tableCaption.accessKey           "t">
+<!ENTITY tableCaptionAbove.label          "Tablonun üstü">
+<!ENTITY tableCaptionBelow.label          "Tablonun altı">
 <!ENTITY tableCaptionLeft.label           "Tablonun solu">
 <!ENTITY tableCaptionRight.label          "Tablonun sağı">
 <!ENTITY tableCaptionNone.label           "Hiçbiri">
-<!ENTITY tableInheritColor.label           "(Baştan başa sayfa rengini göster)">
+<!ENTITY tableInheritColor.label           "(Sayfa rengi geçirgen olsun)">
 
 <!ENTITY cellSelection.label              "Seçim">
 <!ENTITY cellSelectCell.label             "Hücre">
 <!ENTITY cellSelectRow.label              "Satır">
-<!ENTITY cellSelectColumn.label           "Kolon">
+<!ENTITY cellSelectColumn.label           "Sütun">
 <!ENTITY cellSelectNext.label             "Sonraki">
 <!ENTITY cellSelectNext.accessKey         "n">
 <!ENTITY cellSelectPrevious.label         "Önceki">
-<!ENTITY cellSelectPrevious.accessKey     "n">
-<!ENTITY applyBeforeChange.label          "Şu anki değişiklikler, seçim değişikliğinden önce uygulanacaktır.">
-<!ENTITY cellContentAlignment.label       "İçerik Yerleşimi">
+<!ENTITY cellSelectPrevious.accessKey     "k">
+<!ENTITY applyBeforeChange.label          "Mevcut değişiklikler, seçim değişikliğinden önce uygulanacaktır.">
+<!ENTITY cellContentAlignment.label       "İçerik hizalaması">
 <!ENTITY cellHorizontal.label             "Yatay:">
 <!ENTITY cellHorizontal.accessKey         "t">
-<!ENTITY cellVertical.label               "Düşey:">
+<!ENTITY cellVertical.label               "Dikey:">
 <!ENTITY cellVertical.accessKey           "D">
-<!ENTITY cellStyle.label                  "Hücre biçimi:">
+<!ENTITY cellStyle.label                  "Hücre stili:">
 <!ENTITY cellStyle.accessKey              "H">
 <!ENTITY cellNormal.label                 "Normal">
 <!ENTITY cellHeader.label                 "Başlık">
-<!ENTITY cellTextWrap.label               "Metin Kaydırma:">
+<!ENTITY cellTextWrap.label               "Metin kaydırma:">
 <!ENTITY cellTextWrap.accessKey           "M">
 <!ENTITY cellWrap.label                   "Kaydır">
 <!ENTITY cellNoWrap.label                 "Kaydırma">
 <!ENTITY cellAlignTop.label               "Üst">
 <!ENTITY cellAlignMiddle.label            "Orta">
 <!ENTITY cellAlignBottom.label            "Alt">
-<!ENTITY cellAlignJustify.label           "Ayarla">
-<!ENTITY cellInheritColor.label           "(Tablonun baştan başa rengini göster)">
-<!ENTITY cellUseCheckboxHelp.label        "Tüm seçilen hücrelere hangi özelliklerin uygulandığını belirlemek için işaret kutucuğunu kullan">
+<!ENTITY cellAlignJustify.label           "Blok">
+<!ENTITY cellInheritColor.label           "(Tablo rengi geçirgen olsun)">
+<!ENTITY cellUseCheckboxHelp.label        "Tüm seçilen hücrelere hangi özelliklerin uygulanacağını belirlemek için onay kutularını kullanın">
 
 <!-- Used in both Table and Cell panels  -->
 <!ENTITY size.label                       "Boyut">
 <!ENTITY pixels.label                     "piksel">
-<!ENTITY backgroundColor.label            "Zemin Rengi:">
-<!ENTITY backgroundColor.accessKey        "Z">
+<!ENTITY backgroundColor.label            "Arka plan rengi:">
+<!ENTITY backgroundColor.accessKey        "p">
 <!ENTITY AlignLeft.label                  "Sol">
-<!ENTITY AlignCenter.label                "Merkez">
+<!ENTITY AlignCenter.label                "Orta">
 <!ENTITY AlignRight.label                 "Sağ">
 

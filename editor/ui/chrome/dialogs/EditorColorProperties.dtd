@@ -36,27 +36,27 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Sayfa renkleri ve zemini">
+<!ENTITY windowTitle.label "Sayfa renkleri ve arka planı">
 <!ENTITY pageColors.label "Sayfa renkleri">
-<!ENTITY defaultColorsRadio.label "Okuyucunun öntanımlı renkleri (Sayfadaki renkleri ayarlama)">
+<!ENTITY defaultColorsRadio.label "Okuyucunun varsayılan renkleri (Sayfadaki renkleri ayarlama)">
 <!ENTITY defaultColorsRadio.accessKey "d">
 <!ENTITY defaultColorsRadio.tooltip "Sadece okuyucunun tarayıcısındaki renk ayarlarını kullan">
 <!ENTITY customColorsRadio.label "Özel renkleri kullan:">
 <!ENTITY customColorsRadio.accessKey "r">
-<!ENTITY customColorsRadio.tooltip "Bu renkler okuyucunun gözatıcı ayarlarından önceliklidir">
+<!ENTITY customColorsRadio.tooltip "Bu renkler okuyucunun tarayıcı ayarlarından önceliklidir">
 
 <!ENTITY normalText.label "Normal metin">
 <!ENTITY normalText.accessKey "N">
 <!ENTITY linkText.label "Bağlantı metni">
 <!ENTITY linkText.accessKey "e">
-<!ENTITY activeLinkText.label "Etkin bağlantı rengi">
+<!ENTITY activeLinkText.label "Etkin bağlantı metni">
 <!ENTITY activeLinkText.accessKey "E">
 <!ENTITY visitedLinkText.label "Ziyaret edilmiş bağlantı metni">
 <!ENTITY visitedLinkText.accessKey "b">
-<!ENTITY background.label "Arkaplan:">
+<!ENTITY background.label "Arka plan:">
 <!ENTITY background.accessKey "A">
 <!ENTITY colon.character ":">
-<!ENTITY backgroundImage.label "Arkaplan resmi:">
+<!ENTITY backgroundImage.label "Arka plan resmi:">
 <!ENTITY backgroundImage.accessKey "k">
-<!ENTITY backgroundImage.tooltip "Bir görüntü dosyasını sayfanızda arka plan olarak kullanın">
+<!ENTITY backgroundImage.tooltip "Bir resim dosyasını sayfanızda arka plan olarak kullanın">
 

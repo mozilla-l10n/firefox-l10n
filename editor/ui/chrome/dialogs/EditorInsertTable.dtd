@@ -39,14 +39,14 @@
 <!ENTITY windowTitle.label "Tablo ekle">
 
 <!ENTITY size.label "Boyut">
-<!ENTITY numRowsEditField.label "Sıralar:">
+<!ENTITY numRowsEditField.label "Satır:">
 <!ENTITY numRowsEditField.accessKey "S">
-<!ENTITY numColumnsEditField.label "Kolonlar:">
-<!ENTITY numColumnsEditField.accessKey "K">
+<!ENTITY numColumnsEditField.label "Sütun:">
+<!ENTITY numColumnsEditField.accessKey "t">
 <!ENTITY widthEditField.label "Genişlik:">
 <!ENTITY widthEditField.accessKey "G">
-<!ENTITY borderEditField.label "Kenar:">
+<!ENTITY borderEditField.label "Kenarlık:">
 <!ENTITY borderEditField.accessKey "K">
-<!ENTITY borderEditField.tooltip "Tablonun kenarı için bir numara yaz, veya Tablo kenarı olmaması için sıfır (0) yaz">
+<!ENTITY borderEditField.tooltip "Tablonun kenarlığı için bir sayı yazın veya kenarlık olmaması için sıfır (0) yazın">
 <!ENTITY pixels.label "piksel">
 

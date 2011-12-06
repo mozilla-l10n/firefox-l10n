@@ -39,6 +39,6 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label     "Resim ve bağlantı konumlarını denetle">
 <!ENTITY succeeded.label       "Başarılı">
-<!ENTITY failed.label          "Hatalı">
+<!ENTITY failed.label          "Başarısız">
 <!ENTITY closeButton.label     "Kapat">
 

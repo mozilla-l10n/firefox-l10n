@@ -22,9 +22,9 @@ gibi yanlış yazılmış olabilir.</li>
 </ul>">
 
 <!ENTITY fileNotFound.title "Dosya bulunamadı">
-<!ENTITY fileNotFound.longDesc "<ul> 
-<li>Dosya isminindeki büyük küçük harf yanlışı gibi yazı yanlışlarını kontrol ediniz.</li> 
-<li>Dosyanın taşındığını, adını değiştirdiğini veya silindiğini kontrol ediniz.</li> 
+<!ENTITY fileNotFound.longDesc " <ul> 
+<li>Dosya isminindeki büyük-küçük harfleri ve yazım hatalarını kontrol edin.</li> 
+<li>Dosyanın taşınmadığını, adının değişmediğini veya silinmediğini kontrol edin.</li> 
 </ul>">
 
 <!ENTITY generic.title "Ops.">

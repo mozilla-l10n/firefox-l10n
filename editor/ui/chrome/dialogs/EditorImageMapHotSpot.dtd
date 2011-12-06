@@ -39,21 +39,21 @@
 
 <!-- Window title -->
 
-<!ENTITY windowTitle.label "Hotspot Properties">
+<!ENTITY windowTitle.label "Bağ noktası özellikleri">
 
-<!ENTITY link.label				"Sıcaknokta Bağlantısı">
-<!ENTITY urlFieldset.label		"Sıcaknokta URL:">
-<!ENTITY altFieldset.label		"Sıcaknokta Alt Metni:">
+<!ENTITY link.label				"Bağ noktası bağlantısı">
+<!ENTITY urlFieldset.label		"Bağ noktası URL'si:">
+<!ENTITY altFieldset.label		"Bağ noktası alt metni:">
 <!ENTITY browseButton.label		"Gözat…">
-<!ENTITY targetFieldset.label	"Hedef Ayar">
-<!ENTITY target.label			"Sıcaknokta Hedefi">
+<!ENTITY targetFieldset.label	"Hedef ayarı">
+<!ENTITY target.label			"Bağ noktası hedefi">
 
 <!-- Targets -->
-<!ENTITY commonFieldset.label	"Ortak Hedefler:">
+<!ENTITY commonFieldset.label	"Sık kullanılan hedefler:">
 <!ENTITY none.value				"(hiçbiri)">
-<!ENTITY same.value				"Aynı Çerçeve">
+<!ENTITY same.value				"Aynı çerçeve">
 <!ENTITY whole.value			"Tüm sayfa">
-<!ENTITY new.value				"Yeni Pencere">
-<!ENTITY parent.value			"Ana çerçeve">
+<!ENTITY new.value				"Yeni pencere">
+<!ENTITY parent.value			"Üst çerçeve">
 
 

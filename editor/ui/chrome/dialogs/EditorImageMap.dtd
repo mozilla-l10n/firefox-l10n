@@ -60,9 +60,9 @@
 <!ENTITY copyCmd.accesskey "o">
 <!ENTITY pasteCmd.label "Yapıştır">
 <!ENTITY pasteCmd.accesskey "Y">
-<!ENTITY selectallCmd.label "Tamamını seç">
-<!ENTITY selectallCmd.accesskey "a">
-<!ENTITY propsCmd.label "Önemli nokta özellikleri">
+<!ENTITY selectallCmd.label "Tümünü seç">
+<!ENTITY selectallCmd.accesskey "m">
+<!ENTITY propsCmd.label "Bağ noktası özellikleri">
 <!ENTITY propsCmd.accesskey "n">
 
 <!-- View menu -->

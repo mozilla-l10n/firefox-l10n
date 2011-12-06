@@ -40,12 +40,12 @@
 
 <!ENTITY FormName.label "Form ismi:">
 <!ENTITY FormName.accesskey "F">
-<!ENTITY FormAction.label "Hareket URL si:">
+<!ENTITY FormAction.label "Eylem URL'si:">
 <!ENTITY FormAction.accesskey "U">
 <!ENTITY FormMethod.label "Yöntem:">
 <!ENTITY FormMethod.accesskey "Y">
-<!ENTITY FormEncType.label "Şifreleme:">
-<!ENTITY FormEncType.accesskey "i">
+<!ENTITY FormEncType.label "Karakter kümesi:">
+<!ENTITY FormEncType.accesskey "k">
 <!ENTITY FormTarget.label "Hedef çerçeve:">
 <!ENTITY FormTarget.accesskey "H">
 

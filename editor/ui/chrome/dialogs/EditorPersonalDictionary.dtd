@@ -42,7 +42,7 @@
 <!ENTITY wordEditField.accessKey "n">
 <!ENTITY AddButton.label "Ekle">
 <!ENTITY AddButton.accessKey "E">
-<!ENTITY DictionaryList.label "Sözcükler:">
+<!ENTITY DictionaryList.label "Sözlükteki sözcükler:">
 <!ENTITY DictionaryList.accessKey "e">
 <!ENTITY ReplaceButton.label "Değiştir">
 <!ENTITY ReplaceButton.accessKey "D">
