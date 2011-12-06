@@ -35,114 +35,114 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField2.label "to ">
-<!ENTITY fromField2.label "from ">
-<!ENTITY senderField2.label "sender ">
-<!ENTITY organizationField2.label "organization ">
-<!ENTITY replyToField2.label "reply-to ">
+<!ENTITY toField2.label "prima ">
+<!ENTITY fromField2.label "šalje ">
+<!ENTITY senderField2.label "pošiljatelj ">
+<!ENTITY organizationField2.label "organizacija ">
+<!ENTITY replyToField2.label "odgovori na ">
 
-<!ENTITY subjectField2.label "subject ">
+<!ENTITY subjectField2.label "naslov ">
 <!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
 <!ENTITY ccField2.label "cc ">
 <!ENTITY bccField2.label "bcc ">
-<!ENTITY newsgroupsField2.label "newsgroups ">
-<!ENTITY followupToField2.label "followup-to ">
-<!ENTITY tagsHdr2.label "tags ">
-<!ENTITY dateField2.label "date ">
-<!ENTITY userAgentField2.label "user-agent ">
-<!ENTITY referencesField2.label "references ">
-<!ENTITY messageIdField2.label "message-id ">
-<!ENTITY inReplyToField2.label "in-reply-to ">
-<!ENTITY originalWebsite2.label "website ">
+<!ENTITY newsgroupsField2.label "interesne grupe ">
+<!ENTITY followupToField2.label "nastavak - za ">
+<!ENTITY tagsHdr2.label "oznake ">
+<!ENTITY dateField2.label "datum ">
+<!ENTITY userAgentField2.label "korisnički agent ">
+<!ENTITY referencesField2.label "reference ">
+<!ENTITY messageIdField2.label "id poruke ">
+<!ENTITY inReplyToField2.label "u odgovoru za ">
+<!ENTITY originalWebsite2.label "web stranica ">
 
-<!ENTITY editMessageDescription.label "This is a draft message">
-<!ENTITY editMessageButton.label "Edit…">
-<!ENTITY hdrArchiveButton.label "archive">
-<!ENTITY hdrArchiveButton.tooltip "archive this message">
-<!ENTITY hdrSmartReplyButton.label "smart reply">
-<!ENTITY hdrReplyButton.label "reply">
-<!ENTITY hdrReplyButton.tooltip "reply to this message">
-<!ENTITY hdrReplyAllButton.label "reply all">
-<!ENTITY hdrReplyAllButton.tooltip "reply to sender and all recipients">
-<!ENTITY hdrReplyListButton.label "reply list">
-<!ENTITY hdrReplyListButton.tooltip "reply to mailing list">
-<!ENTITY hdrForwardButton.label "forward">
-<!ENTITY hdrForwardButton.tooltip "forward this message">
-<!ENTITY hdrJunkButton.label "junk">
-<!ENTITY hdrJunkButton.tooltip "mark this message as junk">
-<!ENTITY hdrTrashButton.label "delete">
-<!ENTITY hdrTrashButton.tooltip "delete this message">
+<!ENTITY editMessageDescription.label "Ovo je skica poruke">
+<!ENTITY editMessageButton.label "Uredi…">
+<!ENTITY hdrArchiveButton.label "arhiviraj">
+<!ENTITY hdrArchiveButton.tooltip "arhiviraj ovu poruku">
+<!ENTITY hdrSmartReplyButton.label "pametni odgovor">
+<!ENTITY hdrReplyButton.label "odgovori">
+<!ENTITY hdrReplyButton.tooltip "odgovori na ovu poruku">
+<!ENTITY hdrReplyAllButton.label "odgovori svima">
+<!ENTITY hdrReplyAllButton.tooltip "odgovori pošiljatelju i svim primateljima">
+<!ENTITY hdrReplyListButton.label "odgovori na listu">
+<!ENTITY hdrReplyListButton.tooltip "odgovori na mailing listu">
+<!ENTITY hdrForwardButton.label "proslijedi">
+<!ENTITY hdrForwardButton.tooltip "proslijedi ovu poruku">
+<!ENTITY hdrJunkButton.label "neželjena pošta">
+<!ENTITY hdrJunkButton.tooltip "označi ovu poruku kao neželjenu poštu">
+<!ENTITY hdrTrashButton.label "obriši">
+<!ENTITY hdrTrashButton.tooltip "obriši ovu poruku">
 
-<!ENTITY hdrViewToolbarShowFull.label "Show Icons and Text">
+<!ENTITY hdrViewToolbarShowFull.label "Prikaži ikone i tekst">
 <!ENTITY hdrViewToolbarShowFull.accesskey "a">
-<!ENTITY hdrViewToolbarShowIcons.label "Show Icons Only">
-<!ENTITY hdrViewToolbarShowIcons.accesskey "I">
-<!ENTITY hdrViewToolbarShowText.label "Show Text Only">
-<!ENTITY hdrViewToolbarShowText.accesskey "T">
-<!ENTITY hdrViewToolbarAlwaysReplySender.label "Always Show Reply to Sender">
-<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "R">
+<!ENTITY hdrViewToolbarShowIcons.label "Prikaži samo ikone">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "i">
+<!ENTITY hdrViewToolbarShowText.label "Prikaži samo tekst">
+<!ENTITY hdrViewToolbarShowText.accesskey "t">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "Uvijek prikaži Odgovori pošiljatelju">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "r">
 
-<!ENTITY otherActionsButton.label "other actions">
-<!ENTITY otherActionsOpenConversation.label "open in conversation">
-<!ENTITY otherActionsOpenConversation.accesskey "c">
-<!ENTITY otherActionsOpenInNewWindow.label "open in new window">
-<!ENTITY otherActionsOpenInNewWindow.accesskey "w">
-<!ENTITY otherActionsOpenInNewTab.label "open in new tab">
+<!ENTITY otherActionsButton.label "druge radnje">
+<!ENTITY otherActionsOpenConversation.label "otvori kao razgovor">
+<!ENTITY otherActionsOpenConversation.accesskey "o">
+<!ENTITY otherActionsOpenInNewWindow.label "otvori u novom prozoru">
+<!ENTITY otherActionsOpenInNewWindow.accesskey "n">
+<!ENTITY otherActionsOpenInNewTab.label "otvori u novoj kartici">
 <!ENTITY otherActionsOpenInNewTab.accesskey "t">
-<!ENTITY markAsReadMenuItem.label "mark as read">
+<!ENTITY markAsReadMenuItem.label "označi kao pročitano">
 <!ENTITY markAsReadMenuItem.accesskey "r">
-<!ENTITY markAsUnreadMenuItem.label "mark as unread">
+<!ENTITY markAsUnreadMenuItem.label "označi kao nepročitano">
 <!ENTITY markAsUnreadMenuItem.accesskey "r">
-<!ENTITY saveAsMenuItem.label "save as…">
+<!ENTITY saveAsMenuItem.label "spremi kao…">
 <!ENTITY saveAsMenuItem.accesskey "s">
-<!ENTITY viewSourceMenuItem.label "view source">
+<!ENTITY viewSourceMenuItem.label "prikaži izvorni kod">
 <!ENTITY viewSourceMenuItem.accesskey "v">
-<!ENTITY otherActionsPrint.label "print…">
+<!ENTITY otherActionsPrint.label "ispiši…">
 <!ENTITY otherActionsPrint.accesskey "p">
 
 <!-- Attachment context menu items -->
-<!ENTITY openAttachmentCmd.label    "Open">
+<!ENTITY openAttachmentCmd.label    "Otvori">
 <!ENTITY openAttachmentCmd.accesskey    "O">
-<!ENTITY saveAsAttachmentCmd.label    "Save As…">
-<!ENTITY saveAsAttachmentCmd.accesskey    "A">
-<!ENTITY detachAttachmentCmd.label    "Detach…">
-<!ENTITY detachAttachmentCmd.accesskey    "T">
-<!ENTITY deleteAttachmentCmd.label    "Delete">
-<!ENTITY deleteAttachmentCmd.accesskey    "L">
-<!ENTITY openAllAttachmentsCmd.label    "Open All…">
+<!ENTITY saveAsAttachmentCmd.label    "Spremi kao…">
+<!ENTITY saveAsAttachmentCmd.accesskey    "a">
+<!ENTITY detachAttachmentCmd.label    "Odvoji…">
+<!ENTITY detachAttachmentCmd.accesskey    "v">
+<!ENTITY deleteAttachmentCmd.label    "Obriši">
+<!ENTITY deleteAttachmentCmd.accesskey    "b">
+<!ENTITY openAllAttachmentsCmd.label    "Otvori sve…">
 <!ENTITY openAllAttachmentsCmd.accesskey    "O">
-<!ENTITY saveAllAttachmentsCmd.label    "Save All…">
+<!ENTITY saveAllAttachmentsCmd.label    "Spremi sve…">
 <!ENTITY saveAllAttachmentsCmd.accesskey    "S">
-<!ENTITY detachAllAttachmentsCmd.label    "Detach All…">
-<!ENTITY detachAllAttachmentsCmd.accesskey    "D">
-<!ENTITY deleteAllAttachmentsCmd.label    "Delete All…">
-<!ENTITY deleteAllAttachmentsCmd.accesskey    "E">
+<!ENTITY detachAllAttachmentsCmd.label    "Odvoji sve…">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "d">
+<!ENTITY deleteAllAttachmentsCmd.label    "Obriši sve…">
+<!ENTITY deleteAllAttachmentsCmd.accesskey    "i">
 
 <!-- Attachment toolbar items -->
-<!ENTITY saveAttachmentButton.label       "save">
-<!ENTITY saveAttachmentButton.tooltip     "save the attached file">
-<!ENTITY saveAllAttachmentsButton.label   "save all">
-<!ENTITY saveAllAttachmentsButton.tooltip "save all the attached files">
-<!ENTITY openAttachmentMenuItem.label     "open">
+<!ENTITY saveAttachmentButton.label       "spremi">
+<!ENTITY saveAttachmentButton.tooltip     "spremi priloženu datoteku">
+<!ENTITY saveAllAttachmentsButton.label   "spremi sve">
+<!ENTITY saveAllAttachmentsButton.tooltip "spremi sve priložene datoteke">
+<!ENTITY openAttachmentMenuItem.label     "otvori">
 <!ENTITY openAttachmentMenuItem.accesskey    "o">
-<!ENTITY saveAsAttachmentMenuItem.label    "save as…">
+<!ENTITY saveAsAttachmentMenuItem.label    "spremi kao…">
 <!ENTITY saveAsAttachmentMenuItem.accesskey    "s">
-<!ENTITY detachAttachmentMenuItem.label    "detach…">
+<!ENTITY detachAttachmentMenuItem.label    "odvoji…">
 <!ENTITY detachAttachmentMenuItem.accesskey    "d">
-<!ENTITY deleteAttachmentMenuItem.label    "delete">
-<!ENTITY deleteAttachmentMenuItem.accesskey    "e">
-<!ENTITY openAllAttachmentsMenuItem.label    "open all…">
+<!ENTITY deleteAttachmentMenuItem.label    "obriši">
+<!ENTITY deleteAttachmentMenuItem.accesskey    "b">
+<!ENTITY openAllAttachmentsMenuItem.label    "otvori sve…">
 <!ENTITY openAllAttachmentsMenuItem.accesskey    "o">
-<!ENTITY saveAllAttachmentsMenuItem.label    "save all…">
+<!ENTITY saveAllAttachmentsMenuItem.label    "spremi sve…">
 <!ENTITY saveAllAttachmentsMenuItem.accesskey    "s">
-<!ENTITY detachAllAttachmentsMenuItem.label    "detach all…">
+<!ENTITY detachAllAttachmentsMenuItem.label    "odvoji sve…">
 <!ENTITY detachAllAttachmentsMenuItem.accesskey    "d">
-<!ENTITY deleteAllAttachmentsMenuItem.label    "delete all…">
-<!ENTITY deleteAllAttachmentsMenuItem.accesskey    "e">
+<!ENTITY deleteAllAttachmentsMenuItem.label    "obriši sve…">
+<!ENTITY deleteAllAttachmentsMenuItem.accesskey    "r">
 
-<!ENTITY copyLinkCmd.label        "Copy Link Location">
-<!ENTITY copyLinkCmd.accesskey    "C">
+<!ENTITY copyLinkCmd.label        "Kopiraj lokaciju veze">
+<!ENTITY copyLinkCmd.accesskey    "K">
 
-<!ENTITY CopyMessageId.label "Copy Message-ID">
-<!ENTITY OpenMessageForMsgId.label "Open Message For ID">
-<!ENTITY OpenBrowserWithMsgId.label "Open Browser With Message-ID">
+<!ENTITY CopyMessageId.label "Kopiraj ID poruke">
+<!ENTITY OpenMessageForMsgId.label "Otvori poruku radi ID">
+<!ENTITY OpenBrowserWithMsgId.label "Otvori preglednik interneta sa ID poruke">
