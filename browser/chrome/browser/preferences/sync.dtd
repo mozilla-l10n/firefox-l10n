@@ -14,7 +14,8 @@
 <!ENTITY changePassword2.label         "Ganti Sandi…">
 <!ENTITY myRecoveryKey.label          "Kunci Pemulihan Saya">
 <!ENTITY resetSync2.label              "Setel Ulang Sinkronisasi…">
-<!ENTITY addDevice.label              "Tambah Perangkat">
+
+<!ENTITY pairDevice.label             "Pasangkan Perangkat">
 
 <!-- Sync Settings -->
 <!ENTITY syncComputerName.label       "Nama Komputer:">

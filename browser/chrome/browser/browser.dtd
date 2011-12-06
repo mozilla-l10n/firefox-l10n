@@ -90,6 +90,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "S">
 <!ENTITY fullScreenExit.label "Keluar dari Mode Layar Penuh">
 <!ENTITY fullScreenExit.accesskey "P">
+<!ENTITY domFullScreenWarning.label "Tekan ESC untuk keluar dari mode layar penuh">
 
 <!ENTITY closeWindow.label "Tutup Jendela">
 <!ENTITY closeWindow.accesskey "d">
@@ -215,6 +216,9 @@ can reach it easily. -->
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "Inspeksi">
 <!ENTITY inspectButton.accesskey      "I">
+<!ENTITY inspectCloseButton.tooltiptext "Tutup Inspektur">
+<!ENTITY inspectStyleButton.label     "Gaya">
+<!ENTITY inspectStyleButton.accesskey "G">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Dapatkan Alat Lainnya">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "n">
@@ -433,6 +437,12 @@ can reach it easily. -->
 <!ENTITY mediaHideControls.accesskey "S">
 <!ENTITY videoFullScreen.label       "Layar Penuh">
 <!ENTITY videoFullScreen.accesskey   "P">
+<!ENTITY videoSaveImage.label        "Simpan Cuplikan dengan Nama…">
+<!ENTITY videoSaveImage.accesskey    "S">
+<!ENTITY videoShowStats.label        "Tampilkan Statistik">
+<!ENTITY videoShowStats.accesskey    "t">
+<!ENTITY videoHideStats.label        "Sembunyikan Statistik">
+<!ENTITY videoHideStats.accesskey    "t">
 
 
 <!-- LOCALIZATION NOTE :
