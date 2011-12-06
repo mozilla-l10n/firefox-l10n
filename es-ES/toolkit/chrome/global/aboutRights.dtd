@@ -8,7 +8,7 @@
 <!ENTITY rights.intro-point2-a "No se le concede ningún derecho ni licencia sobre las marcas comerciales de Mozilla Foundation o sus filiales, incluyendo sin limitación el nombre y logo de Firefox. Puede encontrarse información adicional sobre las marcas comerciales ">
 <!ENTITY rights.intro-point2-b "aquí">
 <!ENTITY rights.intro-point2-c ".">
-<!ENTITY rights.intro-point2.5 "Algunas características en &brandShortName;, como agente de fallos, le dan la opción de proporcionar información a &vendorShortName;. Al elegir enviar esa información, concede a &vendorShortName; permiso para usar la misma para mejorar sus productos, para publicar esa información en sus sitios web y para distribuirla.">
+<!ENTITY rights.intro-point2.5 "Algunas características en &brandShortName;, como el agente de informe de fallos, le dan la opción de proporcionar información a &vendorShortName;. Al elegir enviar esa información, concede a &vendorShortName; permiso para usar la misma para mejorar sus productos, para publicar esa información en sus sitios web y para distribuirla.">
 <!ENTITY rights2.intro-point3a "La manera en que usamos su información personal y las opiniones enviadas a &vendorShortName; a través de &brandShortName; se describe en la ">
 <!ENTITY rights2.intro-point3b "Política de privacidad de &brandShortName;">
 <!ENTITY rights.intro-point3c ".">
@@ -23,7 +23,7 @@
 <!ENTITY rights2.webservices-a "&brandFullName; usa servicios de información basados en web (&quot;servicios&quot;) para proporcionar algunas de las características ofrecidas para su uso con esta versión binaria de &brandShortName; bajo los términos descritos a continuación. Si no quiere usar uno o más de los servicios o los términos que siguen no son aceptables, puede desactivar la característica o servicio(s). Las instrucciones sobre cómo desactivar una característica o servicio concretos pueden encontrarse ">
 <!ENTITY rights2.webservices-b "aquí">
 <!ENTITY rights2.webservices-c ".">
-<!ENTITY rights.safebrowsing-a "Navegación segura:">
+<!ENTITY rights.safebrowsing-a "Navegación segura: ">
 <!ENTITY rights.safebrowsing-b "Desactivar la característica de navegación segura no se recomienda porque puede dar como resultado que visite sitios no seguros. Si desea desactivar la característica completamente, siga estos pasos:">
 <!ENTITY rights.safebrowsing-term1 "Abra las preferencias de la aplicación">
 <!ENTITY rights.safebrowsing-term2 "Seleccione el panel Seguridad">
