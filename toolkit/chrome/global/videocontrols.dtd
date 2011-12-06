@@ -20,6 +20,13 @@
 <!ENTITY stats.framesPresented "Images présentées">
 <!ENTITY stats.framesPainted "Images dessinées">
 
+<!ENTITY error.aborted "Chargement de la vidéo arrêté.">
+<!ENTITY error.network "La lecture de la vidéo a été interrompue à cause d'une erreur de réseau.">
+<!ENTITY error.decode "La vidéo ne peut être visionnée car le fichier est corrompu.">
+<!ENTITY error.srcNotSupported "Le format vidéo ou le type MIME n'est pas géré.">
+<!ENTITY error.noSource "Vidéo introuvable.">
+<!ENTITY error.generic "La lecture de la vidéo a été interrompue à cause d'une erreur inconnue.">
+
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
