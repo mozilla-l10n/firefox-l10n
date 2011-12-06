@@ -322,16 +322,16 @@
 <!ENTITY calendarproperties.name.label                     "Adı:">
 <!ENTITY calendarproperties.readonly.label                 "Salt okunur">
 <!ENTITY calendarproperties.firealarms.label               "Hatırlatmaları göster">
-<!ENTITY calendarproperties.cache.label                    "Önbellek (Deneme aşamasında, tekrar başlatılması gerekli)">
+<!ENTITY calendarproperties.cache2.label                    "Önbellek">
 <!ENTITY calendarproperties.enabled.label                  "Takvim devre içi">
 <!ENTITY calendarproperties.forceDisabled.label            "Takvim sağlayıcısı bulunamıyor. Bu tür sorunlar sağlayıcı için gerekli eklentilerin devre dışı bırakılması veya kaldırması ile genelde oluşuyor.">
 <!ENTITY calendarproperties.unsubscribe.label              "Aboneliği iptal et">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "p">
 
 <!-- Calendar Publish Dialog -->
-<!ENTITY calendar.publish.dialog.title              "Takvimi yayınla">
-<!ENTITY calendar.publish.url.label                 "Yayınlanma adresi">
-<!ENTITY calendar.publish.publish.button      "Yayınla">
+<!ENTITY calendar.publish.dialog.title              "Takvimi yayımla">
+<!ENTITY calendar.publish.url.label                 "Yayımlanma adresi">
+<!ENTITY calendar.publish.publish.button      "Yayımla">
 <!ENTITY calendar.publish.close.button      "Kapat">
 
 <!ENTITY calendar.publish.example.url.description   "Örnek:  http://www.myserver.com/webdav/test.ics">
