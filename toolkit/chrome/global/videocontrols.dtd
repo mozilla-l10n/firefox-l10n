@@ -18,4 +18,10 @@
 <!ENTITY stats.framesDecoded "Кадров декодировано">
 <!ENTITY stats.framesPresented "Кадров представлено">
 <!ENTITY stats.framesPainted "Кадров отрисовано">
+<!ENTITY error.aborted "Загрузка видео остановлена.">
+<!ENTITY error.network "Воспроизведение видео прервано из-за ошибки сети.">
+<!ENTITY error.decode "Видео не может быть воспроизведено, так как файл повреждён.">
+<!ENTITY error.srcNotSupported "Формат видео или тип MIME не поддерживаются.">
+<!ENTITY error.noSource "Видео не найдено.">
+<!ENTITY error.generic "Воспроизведение видео прервано из-за неизвестной ошибки.">
 <!ENTITY scrubberScale.nameFormat "прошло #1 из #2">
