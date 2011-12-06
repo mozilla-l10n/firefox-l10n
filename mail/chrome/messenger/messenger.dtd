@@ -60,7 +60,7 @@
 <!ENTITY offlineMenu.label "Izvanmrežno">
 <!ENTITY offlineMenu.accesskey "z">
 <!ENTITY offlineGoOfflineCmd.label "Radi izvanmrežno">
-<!ENTITY offlineGoOfflineCmd.accesskey "w">
+<!ENTITY offlineGoOfflineCmd.accesskey "i">
 <!ENTITY synchronizeOfflineCmd.label "Download/Sync Now…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
 <!ENTITY settingsOfflineCmd.label "Offline Settings…">
