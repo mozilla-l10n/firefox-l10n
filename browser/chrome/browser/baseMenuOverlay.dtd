@@ -28,7 +28,7 @@
 <!ENTITY productHelp.label        "עזרה של &brandShortName;">
 <!ENTITY productHelp.accesskey    "ע">
 <!ENTITY helpMac.commandkey       "?">
-<!ENTITY helpSafeMode.label       "אתחל עם תוספות מנוטרלות…">
+<!ENTITY helpSafeMode.label       "הפעלה מחדש עם תוספות מנוטרלות…">
 <!ENTITY helpSafeMode.accesskey   "א">
 
 <!ENTITY helpTroubleshootingInfo.label      "מידע לפתרון בעיות">
