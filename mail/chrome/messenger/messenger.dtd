@@ -57,9 +57,9 @@
 <!ENTITY compactFolders.accesskey    "F">
 <!ENTITY emptyTrashCmd.label "Empty Trash">
 <!ENTITY emptyTrashCmd.accesskey    "y">
-<!ENTITY offlineMenu.label "Offline">
-<!ENTITY offlineMenu.accesskey "l">
-<!ENTITY offlineGoOfflineCmd.label "Work Offline">
+<!ENTITY offlineMenu.label "Izvanmrežno">
+<!ENTITY offlineMenu.accesskey "z">
+<!ENTITY offlineGoOfflineCmd.label "Radi izvanmrežno">
 <!ENTITY offlineGoOfflineCmd.accesskey "w">
 <!ENTITY synchronizeOfflineCmd.label "Download/Sync Now…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
