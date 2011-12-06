@@ -4,7 +4,7 @@
 <!-- First wizard page -->
 <!ENTITY profileCreationExplanation_1.text "&brandShortName; guarda información acerca de sus opciones y preferencias en su perfil personal.">
 <!ENTITY profileCreationExplanation_2.text "Si está compartiendo &brandShortName; con otras personas bajo la misma cuenta de usuario de computadora, puede crear perfiles diferentes para mantener separada la información de cada persona. Para hacer esto, cada quien debería crear su propio perfil.">
-<!ENTITY profileCreationExplanation_3.text "Si usted es la única persona que utiliza &brandShortName;bajo esta misma cuenta de usuario de computadora, debe tener, al menos, un perfil. De todas maneras, si así lo desea, puede crear múltiples perfiles para guardar diferentes configuraciones y preferencias. Por ejemplo, quizás le interese tener perfiles separados para uso personal y comercial.">
+<!ENTITY profileCreationExplanation_3.text "Si usted es la única persona que utiliza &brandShortName; bajo esta misma cuenta de usuario de computadora, debe tener al menos un perfil. De todas maneras, si así lo desea, puede crear múltiples perfiles para guardar diferentes configuraciones y preferencias. Por ejemplo, quizás le interese tener perfiles separados para uso personal y comercial.">
 <!ENTITY profileCreationExplanation_4.text "Para comenzar a crear su perfil, haga clic en Siguiente.">
 <!ENTITY profileCreationExplanation_4Mac.text "Para comenzar a crear su perfil, haga clic en Continuar.">
 <!ENTITY profileCreationExplanation_4Gnome.text  "Para comenzar a crear su perfil, haga clic en Siguiente.">
