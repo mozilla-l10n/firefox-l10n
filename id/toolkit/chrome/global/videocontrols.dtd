@@ -3,6 +3,21 @@
 <!ENTITY muteButton.muteLabel "Senyap">
 <!ENTITY muteButton.unmuteLabel "Keraskan">
 
+<!ENTITY stats.media "Media">
+<!ENTITY stats.size "Ukuran">
+<!ENTITY stats.activity "Aktivitas">
+<!ENTITY stats.activityPaused "Ditunda">
+<!ENTITY stats.activityPlaying "Diputar">
+<!ENTITY stats.activityEnded "Selesai">
+<!ENTITY stats.activitySeeking "(mencari)">
+<!ENTITY stats.volume "Volume">
+<!ENTITY stats.channels "Kanal">
+<!ENTITY stats.sampleRate "Laju Sampel">
+<!ENTITY stats.framesParsed "Bingkai diparse">
+<!ENTITY stats.framesDecoded "Bingkai didekode">
+<!ENTITY stats.framesPresented "Bingkai ditampilkan">
+<!ENTITY stats.framesPainted "Bingkai digambar">
+
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be

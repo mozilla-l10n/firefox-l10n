@@ -21,6 +21,7 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; perlu dimulai ulang agar plugin bisa bekerja.">
   
 <!ENTITY missingPlugin                                       "Plugin dibutuhkan untuk menampilkan konten.">
+<!ENTITY clickToPlayPlugin                                   "Ketuk di sini untuk mengaktifkan plugin.">
 <!ENTITY disabledPlugin                                      "Plugin untuk isi berikut telah dimatikan.">
 <!ENTITY blockedPlugin.label                                 "Plugin berikut telah diblokir untuk keamanan Anda.">
 
@@ -33,8 +34,8 @@
 <!ENTITY reloadPlugin.pre                                    "Silakan coba ">
 <!ENTITY reloadPlugin.middle                                 "memuat ulang laman">
 <!ENTITY reloadPlugin.post                                   ".">
-<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.please                                       "Kirim laporan crash">
+<!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.checkbox                                     "…dan mengirim laporan crash">
 <!ENTITY report.submitting                                   "Mengirim laporan…">
 <!ENTITY report.submitted                                    "Laporan crash terkirim.">
 <!ENTITY report.disabled                                     "Pelaporan crash dimatikan.">
