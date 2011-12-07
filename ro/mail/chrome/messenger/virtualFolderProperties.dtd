@@ -13,7 +13,7 @@
 #
 -->
 <!ENTITY virtualFolderProperties.title "Dosar nou pentru o căutare salvată">
-<!ENTITY name.label                 "Numele:">
+<!ENTITY name.label                 "Nume:">
 <!ENTITY name.accesskey             "N">
 <!ENTITY description.label          "Creează ca dosar sub:">
 <!ENTITY description.accesskey      "C">
@@ -30,3 +30,4 @@
 <!ENTITY newFolderButton.accesskey   "r">
 <!ENTITY editFolderButton.label      "Împrospătare">
 <!ENTITY editFolderButton.accesskey  "m">
+

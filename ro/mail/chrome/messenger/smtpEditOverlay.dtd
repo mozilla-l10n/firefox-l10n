@@ -2,8 +2,6 @@
 # Translator(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
-# janimo <jani@ubuntu.com>
-# Laudatti <Laudatti@gmail.com>
 # rz <rz@r2dev.ro>
 #
 -->
@@ -21,7 +19,7 @@
 <!ENTITY serverDescription.accesskey "D">
 <!ENTITY serverPort.label "Port:">
 <!ENTITY serverPort.accesskey "P">
-<!ENTITY userName.label "Nume Utilizator:">
+<!ENTITY userName.label "Nume utilizator:">
 <!ENTITY userName.accesskey "u">
 <!ENTITY connectionSecurity.label "Securitatea conexiunii:">
 <!ENTITY connectionSecurity.accesskey "n">
@@ -33,3 +31,4 @@
 <!ENTITY serverPortDefault.label "Implicit:">
 <!ENTITY authMethod.label "Metoda de autentificare:">
 <!ENTITY authMethod.accesskey "i">
+

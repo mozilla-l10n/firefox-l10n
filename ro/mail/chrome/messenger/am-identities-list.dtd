@@ -3,7 +3,6 @@
 #
 # nicubunu <nicubunu@gmail.com>
 # Laudatti <Laudatti@gmail.com>
-# Alexandru Szasz <alexxed@gmail.com>
 #
 -->
 <!--
@@ -15,7 +14,8 @@
 <!ENTITY identitiesListDesc.label "Suport pentru identități multiple">
 <!ENTITY identitiesListAdd.label  "Adaugă…">
 <!ENTITY identitiesListAdd.accesskey  "A">
-<!ENTITY identitiesListEdit.label "Editează">
+<!ENTITY identitiesListEdit.label "Editează…">
 <!ENTITY identitiesListEdit.accesskey "E">
 <!ENTITY identitiesListDelete.label "Șterge">
 <!ENTITY identitiesListDelete.accesskey "t">
+

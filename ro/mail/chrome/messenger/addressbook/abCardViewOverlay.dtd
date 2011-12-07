@@ -1,10 +1,4 @@
 <!--
-# Translator(s):
-#
-# nicubunu <nicubunu@gmail.com>
-#
--->
-<!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
@@ -59,4 +53,5 @@
 <!-- For Map It! -->
 <!ENTITY mapItButton.label           "Hartă">
 <!ENTITY mapIt.tooltip               "Afișează o hartă de pe web cu această adresă">
+
 

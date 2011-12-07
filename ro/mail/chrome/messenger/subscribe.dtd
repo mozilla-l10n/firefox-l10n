@@ -1,9 +1,14 @@
 <!--
 # Translator(s):
 #
-# Laudatti <Laudatti@gmail.com>
 # Alexandru Szasz <alexxed@gmail.com>
-# stas <stas@nerd.ro>
+# Laudatti <Laudatti@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
 #
 -->
 <!-- ***** BEGIN LICENSE BLOCK *****
@@ -44,13 +49,13 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY subscribeDialog.title        "Abonare">
-<!ENTITY subscribeButton.label        "Subscrie">
-<!ENTITY subscribeButton.accesskey    "S">
-<!ENTITY unsubscribeButton.label      "Anulează subscrierea">
-<!ENTITY unsubscribeButton.accesskey  "A">
+<!ENTITY subscribeButton.label        "Abonează">
+<!ENTITY subscribeButton.accesskey    "A">
+<!ENTITY unsubscribeButton.label      "Dezabonează">
+<!ENTITY unsubscribeButton.accesskey  "D">
 <!ENTITY newGroupsTab.label           "Grupuri noi">
 <!ENTITY newGroupsTab.accesskey       "n">
-<!ENTITY refreshButton.label          "Actualizare">
+<!ENTITY refreshButton.label          "Actualizează">
 <!ENTITY refreshButton.accesskey      "u">
 <!ENTITY stopButton.label             "Oprește">
 <!ENTITY stopButton.accesskey         "t">
@@ -58,6 +63,7 @@
 <!ENTITY server.accesskey             "C">
 <!ENTITY subscribedHeader.label       "Abonare">
 <!-- commenting out until bug 38906 is fixed 
---><!ENTITY messagesHeader.label         "Mesaje"> 
+<!ENTITY messagesHeader.label         "Mesaje"> -->
 <!ENTITY namefield.label              "Arată grupurile care conțin:">
 <!ENTITY namefield.accesskey          "r">
+

@@ -5,7 +5,6 @@
 # evinteler <emil_vinteler2000@yahoo.com>
 # Alexandru Szasz <alexxed@gmail.com>
 # secarica <orice@secarica.ro>
-# anonymous <anonymous@n.a>
 #
 -->
 <!--
@@ -20,15 +19,16 @@
 <!ENTITY feedTitle.label "Titlu:">
 <!ENTITY location.label  "Loc:">
 
-<!ENTITY button.addFeed.label       "Adauga">
+<!ENTITY button.addFeed.label       "Adaugă">
 <!ENTITY button.addFeed.accesskey   "A">
-<!ENTITY button.editFeed.label      "Editare">
-<!ENTITY button.editFeed.accesskey  "E">
-<!ENTITY button.removeFeed.label "Elimină">
-<!ENTITY button.removeFeed.accesskey   "n">
-<!ENTITY button.importOPML.label "Importează">
+<!ENTITY button.editFeed.label      "Modifică">
+<!ENTITY button.editFeed.accesskey  "M">
+<!ENTITY button.removeFeed.label "Șterge">
+<!ENTITY button.removeFeed.accesskey   "r">
+<!ENTITY button.importOPML.label "Importă">
 <!ENTITY button.importOPML.accesskey   "I">
-<!ENTITY button.exportOPML.label "Exporta">
+<!ENTITY button.exportOPML.label "Exportă">
 <!ENTITY button.exportOPML.accesskey   "x">
 
 <!ENTITY cmd.close.commandKey             "w">
+

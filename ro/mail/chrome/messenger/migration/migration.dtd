@@ -3,7 +3,6 @@
 #
 # Alexandru Szasz <alexxed@gmail.com>
 # Laudatti <Laudatti@gmail.com>
-# nicubunu <nicubunu@gmail.com>
 #
 -->
 <!--
@@ -41,3 +40,4 @@
 
 <!ENTITY done.title                     "Import încheiat">
 <!ENTITY done.label                     "Următoarele elemente au fost importate cu succes:">
+

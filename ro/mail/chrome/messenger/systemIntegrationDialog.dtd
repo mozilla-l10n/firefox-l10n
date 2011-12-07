@@ -2,7 +2,13 @@
 # Translator(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
-# strainu <crangasi2001@yahoo.com>
+# strainu <narro@strainu.ro>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
 #
 -->
 <!ENTITY systemIntegration.title  "Integrare cu sistemul">
@@ -17,3 +23,4 @@
 
 <!ENTITY searchIntegration.label "Permite &searchIntegration.engineName; căutarea în mesaje">
 <!ENTITY searchIntegration.accesskey "P">
+

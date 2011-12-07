@@ -2,14 +2,12 @@
 # Translator(s):
 #
 # xdaiana <xdaiana@yahoo.com>
-# janimo <jani@ubuntu.com>
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
 <!--
 # Reviewer(s):
 #
-# raulmalea <raul.malea@gmail.com>
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
@@ -51,7 +49,7 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY newDirectoryTitle.label           "Proprietăți server LDAP">
-<!ENTITY directoryName.label               "Nume: ">
+<!ENTITY directoryName.label               "Nume:">
 <!ENTITY directoryName.accesskey           "N">
 <!ENTITY directoryHostname.label           "Nume host:">
 <!ENTITY directoryHostname.accesskey       "h">
@@ -92,3 +90,4 @@
      to vary somewhat with the language.
 -->
 <!ENTITY newDirectoryWidth                 "38em">
+

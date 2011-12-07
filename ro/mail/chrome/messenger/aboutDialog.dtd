@@ -4,14 +4,12 @@
 # raulmalea <raul.malea@gmail.com>
 # Alexandru Szasz <alexxed@gmail.com>
 # rsandu <razvan.sandu@zando.ro>
-# Irina Sandu <irina.sandu@mozilla.ro>
 #
 -->
 <!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!ENTITY aboutDialog.title          "Despre &brandFullName;">
@@ -79,3 +77,4 @@
 <!ENTITY channel.description.end    " ca sursă de actualizare. ">
 
 <!ENTITY cmdCloseMac.commandKey "w">
+
