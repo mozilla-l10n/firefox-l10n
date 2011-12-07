@@ -18,8 +18,6 @@
 <!ENTITY signIn.account2.accesskey   "A">
 <!ENTITY signIn.password.label      "Нууц үг">
 <!ENTITY signIn.password.accesskey  "P">
-<!ENTITY signIn.syncKey.label       "Ижилсүүлэх түлхүүр">
-<!ENTITY signIn.syncKey.accesskey   "K">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Дансны талаархи дэлгэрэнгүй мэдээлэл">
@@ -39,12 +37,7 @@
 <!ENTITY setup.tosAgree2.accesskey  "байна">
 
 <!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; хувийн мэдээлэл хамгаална">
-<!ENTITY setup.newSyncKeyPage.description.label "Хувийн мэдээллийг хамгаалахын тулд өгөгдөлийг илгээхээс өмнө кодлох болно. Кодыг тайлах ижилсүүлэх түлхүүр үг хамт илгээгдэргүй.">
-<!ENTITY syncKeyEntry.label        "Ижилсүүлэх түлхүүр">
-<!ENTITY syncKeyEntry.accesskey    "K">
 <!ENTITY syncGenerateNewKey.label     "Шинэ ижилсүүлэх түлхүүр хийх">
-<!ENTITY syncKeyBackup.description "Ижилсүүлэх түлхүүр нь өөр төхөөрөмжөөс &syncBrand.fullName.label; нэврэх үед хэрэгтэй. Сэргээх хуулбар хийж хадгалахыг хүсье. Ижилсүүлэх түлхүүрийг дахин сэргээх боломжгүй.">
 <!ENTITY button.syncKeyBackup.print.label     "Хэвлэх…">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
 <!ENTITY button.syncKeyBackup.save.label      "Хадгалах…">
@@ -62,7 +55,6 @@
 <!ENTITY addDevice.dialog.enterCode.label   "Төхөөрөмжийн кодыг бичин оруулна уу:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Дахин оролдно уу.">
 <!ENTITY addDevice.dialog.successful.label  "Шинэ төхөөрөмж нэмэгдлээ. Ижилсүүлэлтийг анх удаа хийж байгаа тохиолдолд хугацаа багагүй зарцуулагдах боловч арын нүүрэнд явагдах болно.">
-<!ENTITY addDevice.dialog.syncKey.label     "Та төхөөрөмжөө идэвхижүүлхээр бол ижилсүүлэх түлхүүрээ оруулах хэрэгтэй. Доорхи түлхүүрийг хадгалах юмуу өөр газар бичин хадгална уу.">
 <!ENTITY addDevice.dialog.connected.label   "Шинэ төхөөрөмж холбох">
 
 <!-- New Account Page 3: Sync Type Options -->
@@ -71,7 +63,6 @@
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Логин">
-<!ENTITY existingSyncKey.description "Өөр төхөөрөмжөөс &syncBrand.shortName.label; тохируулга дундаас &#x0022; данс хянах &#x0022; доторхи &#x0022; миний ижилсүүлэх түлхүүр 
 
 &#x0022;-с ижилсүүлэх түлхүүрээ олж болно.">
 <!ENTITY resetSyncKey.label           "Ижилсүүлэх түлхүүр дахин тохируулах">
@@ -112,3 +103,17 @@
 <!ENTITY continueUsing.label "&brandShortName;-г үргэлжилүүлэн ашиглах боломжтой.">
 <!ENTITY setup.choosePassword.label      "Нууц үг сонгох">
 <!ENTITY setup.choosePassword.accesskey  "P">
+
+<!ENTITY addDevice.dialog.recoveryKey.label     "Таны төхөөрөмжийг идэвхижүүлэхийг тулд нөхөн сэргээх түлхүүрийг оруулах хэрэгтэй. Доорх түлхүүрийг хадгалах юмуу тэмдэглэж авна уу.">
+
+<!ENTITY existingRecoveryKey.description "Өөр төхөөрөмжнөөс &syncBrand.shortName.label; тохируулгаас &#x0022; данс зохицуулах &#x0022; дотор &#x0022; миний нөхөн сэргээх түлхүүр &#x0022;-с нөхөн сэргээх түлхүүрийг олж болно.">
+
+<!ENTITY recoveryKeyBackup.description "Нөхөн сэргээх түлхүүр нь өөр төхөөрөмжнөөс &syncBrand.fullName.label; нэвтрэх үед хэрэгтэй. Backup хувь хийнэ үү. Нөхөн сэргээх түлхүүр нь дахин сэргээгдэх боломжгүй.">
+
+<!ENTITY recoveryKeyEntry.accesskey    "K">
+<!ENTITY recoveryKeyEntry.label        "Нөхөн сэргээх түлхүүр">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Хувийн мэдээллээ сайн хамгаалхын тулд мэдээлэл илгээхийн өмнө кодлогддог. Кодлогдсон мэдээллийг тайлхад хэрэглэгддэг Нөхөн сэргээх түлхүүр нь хамт илгээгддэггүй.">
+
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; Хувийн мэдээлэл хамгаалах">
+<!ENTITY signIn.recoveryKey.accesskey   "K">
+<!ENTITY signIn.recoveryKey.label       "Нөхөн сэргээх түлхүүр">

@@ -13,8 +13,8 @@
 <!ENTITY manageAccount.label          "Дансаа хянах">
 <!ENTITY manageAccount.accesskey      "A">
 <!ENTITY viewQuota.label              "Хэмжээ харах">
-<!ENTITY mySyncKey.label              "Ижилсүүлэх түлхүүр">
 <!ENTITY addDevice.label              "Төхөөрөмж нэмэх">
+<!ENTITY myRecoveryKey.label           "Нөхөн сэргээх түлхүүр">
 
 <!ENTITY syncMy.label               "Ижилсүүлэх">
 <!ENTITY engine.bookmarks.label     "Вэб хуудасын тэмдэглэл">
