@@ -1,5 +1,10 @@
 <!ENTITY addons.windowTitle                   "Gestor de Extras">
+
 <!ENTITY search.placeholder                   "Procurar todos os extras">
+<!-- LOCALIZATION NOTE (search.commandKey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
+
 <!ENTITY loading.label                        "A carregar…">
 <!ENTITY listEmpty.installed.label            "Não tem nenhum extra deste tipo instalado">
 <!ENTITY listEmpty.availableUpdates.label     "Nenhuma atualização encontrada">
