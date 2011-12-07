@@ -1,5 +1,5 @@
 <!ENTITY itemGeneral.label                   "Genel">
-<!ENTITY itemAutoComplete.label              "Adreslendirme">
+<!ENTITY itemAutoComplete.label              "Hitap">
 <!ENTITY itemSpellCheck.label                "İmla denetimi">
 
 <!ENTITY forwardMsg.label                     "İletileri">
@@ -16,30 +16,30 @@
 <!ENTITY size.accesskey                       "B">
 <!ENTITY fontColor.label                      "Metin rengi:">
 <!ENTITY fontColor.accesskey                  "t">
-<!ENTITY bgColor.label                        "Artalan rengi:">
+<!ENTITY bgColor.label                        "Arka plan rengi:">
 <!ENTITY bgColor.accesskey                    "n">
-<!ENTITY restoreHTMLDefaults.label            "Öntanımlıları geri yükle">
+<!ENTITY restoreHTMLDefaults.label            "Varsayılanları geri yükle">
 <!ENTITY restoreHTMLDefaults.accesskey        "g">
 
-<!ENTITY spellCheck.label                     "Yazım hatalarını göndermeden önce kontrol et">
-<!ENTITY spellCheck.accesskey                 "a">
-<!ENTITY spellCheckInline.label               "Yazı esnasında imla denetimini etkinleştir">
+<!ENTITY spellCheck.label                     "Göndermeden önce imla denetimi yap">
+<!ENTITY spellCheck.accesskey                 "m">
+<!ENTITY spellCheckInline.label               "Yazma sırasında imla denetimini etkinleştir">
 <!ENTITY spellCheckInline1.accesskey          "k">
 <!ENTITY languagePopup.label                  "Diller:">
 <!ENTITY languagePopup.accessKey              "D">
 <!ENTITY downloadDictionaries.label           "Diğer sözlükleri indir">
 
-<!ENTITY warnOnSendAccelKey.label             "Kısayol tuşları ileti göndermek için kullanılırsa onayla">
-<!ENTITY warnOnSendAccelKey.accesskey         "K">
+<!ENTITY warnOnSendAccelKey.label             "İleti göndermek için klavye kısayolu kullanıldığında onay iste">
+<!ENTITY warnOnSendAccelKey.accesskey         "k">
 <!ENTITY autoSave.label                       "Her ">
 <!ENTITY autoSave.accesskey                   "e">
-<!ENTITY autoSaveEnd.label                    "dakika kaydet">
+<!ENTITY autoSaveEnd.label                    "dakikada bir kaydet">
 
-<!ENTITY emailCollectionPicker.label           "Giden e-postaları otomatik olarak buraya ekle:">
+<!ENTITY emailCollectionPicker.label           "E-posta gönderdiğim adresleri otomatik olarak buraya ekle:">
 <!ENTITY emailCollectionPicker.accesskey       "t">
 <!ENTITY addressingTitle.label                 "Otomatik adres tamamlama">
-<!ENTITY autocompleteText.label                "Adreslendirme yaparken eşleşme için buraya bak:">
-<!ENTITY addressingEnable.label                "Yerel adres defteri">
+<!ENTITY autocompleteText.label                "Adresleri girerken eşleşen kayıtları bulmak için buraya bak:">
+<!ENTITY addressingEnable.label                "Yerel adres defterleri">
 <!ENTITY addressingEnable.accesskey            "a">
 <!ENTITY directories.label                     "Dizin sunucusu:">
 <!ENTITY directories.accesskey                 "D">
@@ -47,8 +47,8 @@
 <!ENTITY editDirectories.label                 "Dizinleri düzenle…">
 <!ENTITY editDirectories.accesskey             "e">
 
-<!ENTITY sendOptionsDescription.label          "Metin biçimi davranışını ayarlayın">
-<!ENTITY sendOptions.label                     "Gönderim özellikleri…">
+<!ENTITY sendOptionsDescription.label          "Metin biçimi davranışını yapılandırın">
+<!ENTITY sendOptions.label                     "Gönderim seçenekleri…">
 <!ENTITY sendOptions.accesskey                 "m">
 
 <!ENTITY attachmentReminder.label              "Eksik ekleri denetle">

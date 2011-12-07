@@ -2,17 +2,17 @@
 %brandDTD;
 
 <!ENTITY loadError.label "Sayfa yükleme sorunu">
-<!ENTITY retry.label "Yeniden Dene">
+<!ENTITY retry.label "Yeniden dene">
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Bağlanamıyor">
+<!ENTITY connectionFailure.title "Bağlanılamadı">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "Adres erişimi kısıtlanmış">
+<!ENTITY deniedPortAccess.title "Bu adres kısıtlıdır">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Sunucu bulunamamıştı">
+<!ENTITY dnsNotFound.title "Sunucu bulunamadı">
 <!ENTITY dnsNotFound.longDesc "<ul> 
 <li>Adres <strong>www</strong>.sunucu.com yerine 
 <strong>ww</strong>.sunucu.com 
@@ -27,7 +27,7 @@ gibi yanlış yazılmış olabilir.</li>
 <li>Dosyanın taşınmadığını, adının değişmediğini veya silinmediğini kontrol edin.</li> 
 </ul>">
 
-<!ENTITY generic.title "Ops.">
+<!ENTITY generic.title "Tüh.">
 <!ENTITY generic.longDesc "<p>&brandShortName; bazı nedenlerden dolayı bu sayfayı açamıyor.</p>">
 
 <!ENTITY malformedURI.title "Adres geçersiz">
@@ -36,7 +36,7 @@ gibi yanlış yazılmış olabilir.</li>
 <li>Bölü işaretini <strong>(/)</strong> doğru şekilde kullandığınızdan emin olun.</li> 
 </ul>">
 
-<!ENTITY netInterrupt.title "Bağlantı kesilmiş">
+<!ENTITY netInterrupt.title "Bağlantı kesintiye uğradı">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Belge zaman aşımına uğradı">
@@ -57,51 +57,51 @@ gibi yanlış yazılmış olabilir.</li>
 <li>Lütfen site sahipleriyle iletişim kurup onları bu sorundan haberdar edin.</li> 
 </ul>">
 
-<!ENTITY netReset.title "Bağlantı sıfırlanmış">
+<!ENTITY netReset.title "Bağlantı sıfırlandı">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "Bağlantı zaman aşımına uğramış">
+<!ENTITY netTimeout.title "Bağlantı zaman aşımına uğradı">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "Adres türü desteklenmiyor">
-<!ENTITY protocolNotFound.longDesc "<ul> 
-<li>Bu adresi açmak için başka bir uygulama kurmanız gerekebilir.</li> 
+<!ENTITY protocolNotFound.title "Adres anlaşılamadı">
+<!ENTITY protocolNotFound.longDesc " <ul> 
+<li>Bu adresi açmak için başka bir yazılım kurmanız gerekebilir.</li> 
 </ul>">
 
-<!ENTITY proxyConnectFailure.title "Vekil sunucusu bağlantıyı reddediyor">
+<!ENTITY proxyConnectFailure.title "Vekil sunucu bağlantıları reddediyor">
 <!ENTITY proxyConnectFailure.longDesc "<ul> 
 <li>Vekil sunucu ayarlarının doğruluğunu kontrol edin.</li> 
 <li>Sistem yöneticiniz ile irtibata geçin ve vekil sunucunuzu kontrol ettirin.</li> 
 </ul>">
 
-<!ENTITY proxyResolveFailure.title "Vekil sunucusu bulunamıyor">
-<!ENTITY proxyResolveFailure.longDesc "<ul> 
-<li>Vekil sunucusu ayarlarının doğru olduğundan emin olun.</li> 
+<!ENTITY proxyResolveFailure.title "Vekil sunucu bulunamadı">
+<!ENTITY proxyResolveFailure.longDesc " <ul> 
+<li>Vekil sunucu ayarlarının doğru olduğundan emin olun.</li> 
 <li>Bilgisayarınızın ağ bağlantısını kontrol edin.</li> 
-<li>Bilgisayarınız vekil sunucusu veya ateş duvarı arkasındaysa,  &brandShortName; uygulamasının Web ulaşımı izni olduğundan emin olun.</li> 
+<li>Bilgisayarınız vekil sunucu veya güvenlik duvarı arkasındaysa, &brandShortName; uygulamasının web'e erişim izni olduğundan emin olun.</li> 
 </ul>">
 
 <!ENTITY redirectLoop.title "Sayfa doğru bir şekilde yönlendirilmiyor">
-<!ENTITY redirectLoop.longDesc "<ul> 
-<li>Bazen bu sorunun nedeni  çerezlerin etkisizleştirilmesi veya 
-reddi olabiliyor.</li> 
+<!ENTITY redirectLoop.longDesc " <ul> 
+<li>Bazen bu sorunun nedeni çerezlerin etkisizleştirilmesi veya 
+reddedilmesi olabilmektedir.</li> 
 </ul>">
 
 <!ENTITY unknownSocketType.title "Beklenmeyen sunucu yanıtı">
-<!ENTITY unknownSocketType.longDesc "<ul> 
-<li>Kişisel güvenlik yöneticisinin kurulu olduğundan emin olunuz</li> 
-<li>Standart olmayan sunucu ayarlarından kaynaklanabilir.</li> 
+<!ENTITY unknownSocketType.longDesc " <ul> 
+<li>Sisteminizde kişisel güvenlik yöneticisinin kurulu olduğundan emin olun.</li> 
+<li>Bu durum, standart dışı sunucu yapılandırmasından kaynaklanabilir.</li> 
 </ul>">
 
 <!ENTITY nssFailure2.title "Güvenli bağlantı hatası">
-<!ENTITY nssFailure2.longDesc "<ul> 
-<li>Bağlanmaya çalıştığınız sayfanın içerik güvenilirliği doğrulanamadığı için gösterilemiyor.</li> 
+<!ENTITY nssFailure2.longDesc " <ul> 
+<li>Görüntülemeye çalıştığınız sayfa, alınan verilerin yetkinliği doğrulanamadığı için gösterilemiyor.</li> 
 <li>Lütfen site yöneticisi ile irtibata geçip durumu bildirin.</li> 
 </ul>">
 
 <!ENTITY nssBadCert.title "Güvenli bağlantı hatası">
-<!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>Bu, sunucunun yapılandırmasıyla ilgili bir sorundan ya da birinin sunucuyu taklit etmeye çalışmasından kaynaklanıyor olabilir.</li> 
+<!ENTITY nssBadCert.longDesc2 " <ul> 
+<li>Bu, sunucunun yapılandırmasıyla ilgili bir sorundan veya birinin sunucuyu taklit etmeye çalışmasından kaynaklanıyor olabilir.</li> 
 <li>Daha önce bu sunucuya başarılı bir şekilde bağlandıysanız sorun geçici olabilir ve daha sonra yeniden açmayı deneyebilirsiniz.</li> 
 </ul>">
 

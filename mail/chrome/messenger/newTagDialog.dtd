@@ -1,5 +1,5 @@
 <!-- New Tag Dialog -->
-<!ENTITY newTagDialog.title      "Yeni etiket">
-<!ENTITY name.label              "Etiket:">
+<!ENTITY newTagDialog.title      "Yeni etiket oluştur">
+<!ENTITY name.label              "Etiket adı:">
 <!ENTITY name.accesskey          "t">
 
