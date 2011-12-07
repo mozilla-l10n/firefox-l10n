@@ -1,5 +1,10 @@
 <!ENTITY addons.windowTitle                   "附加元件管理員">
+
 <!ENTITY search.placeholder                   "搜尋所有附加元件">
+<!-- LOCALIZATION NOTE (search.commandKey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
+
 <!ENTITY loading.label                        "載入中…">
 <!ENTITY listEmpty.installed.label            "您並未安裝任何此類型的附加元件">
 <!ENTITY listEmpty.availableUpdates.label     "找不到更新">

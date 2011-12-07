@@ -20,6 +20,13 @@
 <!ENTITY stats.framesPresented "已展現的畫框數">
 <!ENTITY stats.framesPainted "已繪製的畫框數">
 
+<!ENTITY error.aborted "已停止載入視訊。">
+<!ENTITY error.network "因為網路錯誤，已中止視訊播放。">
+<!ENTITY error.decode "因為檔案毀損，無法播放視訊。">
+<!ENTITY error.srcNotSupported "不支援的視訊格式或 MIME 類型。">
+<!ENTITY error.noSource "找不到視訊。">
+<!ENTITY error.generic "因為未知錯誤，已中止視訊播放。">
+
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
