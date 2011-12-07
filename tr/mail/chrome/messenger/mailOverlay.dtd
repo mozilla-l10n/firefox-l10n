@@ -1,8 +1,8 @@
 <!ENTITY  newMessageCmd2.key              "N">
 <!ENTITY  newMessageCmd.key               "M">
-<!ENTITY  newMessageCmd.label             "İleti">
-<!ENTITY  newMessageCmd.accesskey         "t">
+<!ENTITY  newMessageCmd.label             "Posta">
+<!ENTITY  newMessageCmd.accesskey         "P">
  
-<!ENTITY  newContactCmd.label             "Adres defteri kişisi…">
-<!ENTITY  newContactCmd.accesskey         "k">
+<!ENTITY  newContactCmd.label             "Adres defteri adresi…">
+<!ENTITY  newContactCmd.accesskey         "A">
 

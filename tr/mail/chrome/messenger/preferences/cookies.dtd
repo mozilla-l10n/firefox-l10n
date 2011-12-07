@@ -1,6 +1,6 @@
 <!ENTITY window.width                      "36em">
 
-<!ENTITY cookiesonsystem.label             "Aşağıdaki çerezler bilgisayarınızda depolanmıştır:">
+<!ENTITY cookiesonsystem.label             "Bilgisayarınıza kayıtlı çerezler aşağıdadır:">
 <!ENTITY cookiename.label                  "Çerez ismi">
 <!ENTITY cookiedomain.label                "Site">
 <!ENTITY button.removecookie.label         "Çerezi sil">

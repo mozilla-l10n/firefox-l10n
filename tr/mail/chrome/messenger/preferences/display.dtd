@@ -15,12 +15,12 @@
 <!ENTITY color.label                      "Renk:">
 <!ENTITY color.accesskey                  "R">
 <!ENTITY displayWidth.label               "Düz metin iletiler">
-<!ENTITY displayText.label                "Alıntılanmış düz metin iletileri görüntülerken:">
-<!ENTITY colors.label                     "Renkler">
+<!ENTITY displayText.label                "Tırnakla belirtilmiş düz metini görüntülerken aşağıdaki ayarları kullan:">
+<!ENTITY colors.label                     "Renkler:">
 <!ENTITY overrideColors.label             "İletileri gösterirken bu renkleri kullan:">
 <!ENTITY textColor.label                  "Metin rengi:">
 <!ENTITY textColor.accesskey              "t">
-<!ENTITY backgroundColor.label            "Arka plan rengi:">
+<!ENTITY backgroundColor.label            "Arkaplan rengi:">
 <!ENTITY backgroundColor.accesskey        "p">
 
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
@@ -28,7 +28,7 @@
 <!ENTITY convertEmoticons.accesskey    "D">
 
 <!-- labels -->
-<!ENTITY displayTagsText.label     "Etiketler, iletilerinizi sınıflandırmak ve önemlerini belirlemek için kullanılabilir.">
+<!ENTITY displayTagsText.label     "Etiketler, iletilerde kategori oluşturmaya veya önemlilik derecesine göre sıralamanıza yarar.">
 <!ENTITY addTagButton.label        "Ekle">
 <!ENTITY addTagButton.accesskey    "E">
 <!ENTITY editTagButton.label       "Düzenle">
@@ -37,8 +37,8 @@
 <!ENTITY removeTagButton.accesskey "l">
 
 <!-- Fonts -->
-<!ENTITY fontsAndColors.label    "Yazı tipleri">
-<!ENTITY defaultFont.label       "Varsayılan yazı tipi:">
+<!ENTITY fontsAndColors.label    "Yazıtipleri">
+<!ENTITY defaultFont.label       "Öntanımlı yazı tipi:">
 <!ENTITY defaultFont.accesskey   "z">
 <!ENTITY defaultSize.label       "Boyut:">
 <!ENTITY defaultSize.accesskey   "o">
