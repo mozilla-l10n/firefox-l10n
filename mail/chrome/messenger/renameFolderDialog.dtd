@@ -36,8 +36,8 @@
    -
    - ***** END LICENSE BLOCK ***** -->
    
-<!ENTITY renameFolderDialog.title          "Rename Folder">
-<!ENTITY rename.label                      "Enter the new name for your folder:">
-<!ENTITY rename.accesskey                  "E">
-<!ENTITY accept.label                      "Rename">
-<!ENTITY accept.accesskey                  "R">
+<!ENTITY renameFolderDialog.title          "Preimenuj mapu">
+<!ENTITY rename.label                      "Unesite novo ime za vašu mapu:">
+<!ENTITY rename.accesskey                  "e">
+<!ENTITY accept.label                      "Preimenuj">
+<!ENTITY accept.accesskey                  "r">
