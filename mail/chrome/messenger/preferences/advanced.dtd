@@ -23,7 +23,7 @@
 <!ENTITY showReturnReceipts.accesskey "r">
 <!ENTITY reading.caption "Llectura">
 <!ENTITY display.caption "Visualización">
-<!ENTITY showCondensedAddresses.label "Amosar namái l'atributu 'nome amosáu' pa les personles de la mio llibreta de direiciones">
+<!ENTITY showCondensedAddresses.label "Amosar namái l'atributu 'nome amosáu' pa les persones de la mio llibreta de direiciones">
 <!ENTITY showCondensedAddresses.accesskey "a">
 <!ENTITY autoMarkAsRead.label "Conseñar mensaxe automáticamente como lleíu">
 <!ENTITY autoMarkAsRead.accesskey "m">

@@ -10,7 +10,7 @@
 <!ENTITY advFeaturesSectionHdr.label "Carauterístiques avanzaes">
 <!ENTITY searchMsgsLink.label "Guetar mensaxes">
 <!ENTITY filtersLink.label "Alministrar filtros de mensaxes">
-<!ENTITY junkSettings.label "Corréu non deseáu">
+<!ENTITY junkSettings.label "Corréu puxarra (SPAM)">
 <!ENTITY offlineLink.label "Configuración ensin conexón">
 <!ENTITY feedsSectionHdr.label "Canales">
 <!ENTITY subscribeFeeds.label "Alministrar soscripciones">
