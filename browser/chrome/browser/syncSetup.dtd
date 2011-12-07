@@ -63,8 +63,6 @@
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Логин">
-
-&#x0022;-с ижилсүүлэх түлхүүрээ олж болно.">
 <!ENTITY resetSyncKey.label           "Ижилсүүлэх түлхүүр дахин тохируулах">
 <!ENTITY resetPassword.label          "Нууц үг дахин тохируулах">
 <!ENTITY verifying.label              "Шалгаж байна…">
