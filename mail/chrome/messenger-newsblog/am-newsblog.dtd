@@ -1,21 +1,21 @@
 <!ENTITY accountTitle.label "Hesap ayarları">
 
-<!ENTITY biffStart.label "Yeni haberleri denetleme sıklığı ">
+<!ENTITY biffStart.label "Abonelikleri denetleme sıklığı ">
 <!ENTITY biffStart.accesskey "k">
 <!ENTITY biffEnd.label "dakika">
 
 <!ENTITY loginAtStartup.label "Başlangıçta yeni haberleri denetle"> 
 <!ENTITY loginAtStartup.accesskey "h">
 
-<!ENTITY useQuickMode.label "Varsayılan olarak, web sayfasını yüklemek yerine haber özetini göster"> 
-<!ENTITY useQuickMode.accesskey "V">
+<!ENTITY useQuickMode.label "Her öğenin tamamını yüklemektense özetini göster"> 
+<!ENTITY useQuickMode.accesskey "H">
 
-<!ENTITY manageSubscriptions.label "Aboneliklerini yönet…"> 
+<!ENTITY manageSubscriptions.label "Aboneliklerini denetle…"> 
 <!ENTITY manageSubscriptions.accesskey "A">
 
 <!-- entities from rss.rdf -->
-<!ENTITY feeds.accountName "E-günceler ve haber beslemeleri">
-<!ENTITY feeds.wizardShortName "Beslemeler">
-<!ENTITY feeds.wizardLongName "E-günceler ve haber beslemeleri">
-<!ENTITY feeds.wizardLongName.accesskey "g">
+<!ENTITY feeds.accountName "Günlükler ve canlı yer imleri">
+<!ENTITY feeds.wizardShortName "Canlı yer imleri">
+<!ENTITY feeds.wizardLongName "Günlükler ve canlı yer imleri">
+<!ENTITY feeds.wizardLongName.accesskey "G">
 

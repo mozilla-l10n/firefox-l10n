@@ -1,16 +1,16 @@
-<!ENTITY virtualFolderProperties.title "Yeni kayıtlı arama dizini">
+<!ENTITY virtualFolderProperties.title "Yeni kaydolmuş arama dizini">
 <!ENTITY name.label                 "İsim:">
 <!ENTITY name.accesskey             "s">
 <!ENTITY description.label          "Buranın alt dizini olarak oluştur:">
 <!ENTITY description.accesskey      "d">
 
-<!ENTITY searchTermCaption.label "Arama kriterini bu kayıtlı arama dizini için yapılandır: ">
+<!ENTITY searchTermCaption.label "Arama kriterini bu sanal dizin için ayarla:">
 
-<!ENTITY folderSelectionCaption.label "Aranacak dizinleri seçin: ">
+<!ENTITY folderSelectionCaption.label "Aranacak dizini seçin:">
 <!ENTITY chooseFoldersButton.label "Seçin…">
 <!ENTITY chooseFoldersButton.accesskey "S">
 
-<!ENTITY searchOnline.label "Çevrim içi ara (IMAP ve haber grubu dizindeki için güncel sonuçlar verir ama dizin açma süresini artırır)">
+<!ENTITY searchOnline.label "Çevrim içi ara ">
 <!ENTITY searchOnline.accesskey "a">
 <!ENTITY newFolderButton.label       "Oluştur">
 <!ENTITY newFolderButton.accesskey   "u">

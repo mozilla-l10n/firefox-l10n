@@ -40,12 +40,12 @@
 <!ENTITY window.width                     "37em">
 
 <!ENTITY safeModeDescription.label        "&brandShortName; şu an güvenli kipte çalışıyor. Bu kipte ayarlarınız, temalarınız ve eklentileriniz geçici olarak devre dışıdır.">
-<!ENTITY safeModeDescription2.label       "Aşağıdaki değişiklikleri kalıcı yapabilirsiniz:">
+<!ENTITY safeModeDescription2.label       "Aşağıdaki değişiklikleri yapabilirsiniz:">
 
-<!ENTITY disableAddons.label              "Tüm eklentileri devre dışı bırak">
+<!ENTITY disableAddons.label              "Bütün eklentileri etkisizleştir">
 <!ENTITY disableAddons.accesskey          "B">
 
-<!ENTITY resetToolbars.label              "Araç çubuklarını ve düğmeleri sıfırla">
+<!ENTITY resetToolbars.label              "Araç çubuğunu ve düğmeleri sıfırla">
 <!ENTITY resetToolbars.accesskey          "r">
 
 <!ENTITY changeAndRestartButton.label     "Değişiklikleri uygula ve tekrar çalıştır">

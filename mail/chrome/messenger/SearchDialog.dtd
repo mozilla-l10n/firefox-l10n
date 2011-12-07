@@ -1,5 +1,5 @@
 <!-- for SearchDialog.xul -->
-<!ENTITY searchHeading.label         "İletileri burada ara:">
+<!ENTITY searchHeading.label         "Postaları burada ara:">
 <!ENTITY searchHeading.accesskey     "a">
 <!ENTITY searchSubfolders.label      "Alt dizinlerde ara">
 <!ENTITY searchSubfolders.accesskey  "A">
@@ -11,7 +11,7 @@
 <!ENTITY openButton.accesskey        "A">
 <!ENTITY deleteButton.label          "Sil">
 <!ENTITY deleteButton.accesskey      "S">
-<!ENTITY searchDialogTitle.label     "İletilerde ara">
+<!ENTITY searchDialogTitle.label     "Postaları ara">
 <!ENTITY results.label               "Sonuçlar">
 <!ENTITY fileHereMenu.label          "Buraya dosyala">
 <!ENTITY fileHereMenu.accesskey      "B">
@@ -33,7 +33,7 @@
 <!ENTITY abSearchDialogTitle.label   "Gelişmiş Adres Defteri Araması">
 
 <!-- Thread Pane -->
-<!ENTITY threadColumn.label "Dizi">
+<!ENTITY threadColumn.label "Dizilim">
 <!ENTITY fromColumn.label "Gönderen">
 <!ENTITY recipientColumn.label "Alıcı">
 <!ENTITY subjectColumn.label "Konu">
@@ -44,32 +44,32 @@
 <!ENTITY statusColumn.label "Durum">
 <!ENTITY sizeColumn.label "Boyut">
 <!ENTITY junkStatusColumn.label "Gereksiz durumu">
-<!ENTITY unreadColumn.label "Okunmadı">
+<!ENTITY unreadColumn.label "Okunmamış">
 <!ENTITY totalColumn.label "Toplam">
 <!ENTITY readColumn.label "Okundu">
 <!ENTITY receivedColumn.label "Tarih">
 <!ENTITY starredColumn.label "Yıldızlı">
 <!ENTITY locationColumn.label "Konum">
-<!ENTITY idColumn.label "Alınma sırası">
+<!ENTITY idColumn.label "Alındı sırası">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "Görüntülenecek sütunları seçmek için tıklayın">
-<!ENTITY threadColumn.tooltip "İleti dizilerini görmek için tıklayın"> 
+<!ENTITY columnChooser.tooltip "Görüntülenecek sütunları tıklayın">
+<!ENTITY threadColumn.tooltip "Posta dizilimlerini görmek için tıklayın"> 
 <!ENTITY fromColumn.tooltip "Gönderene göre sıralamak için tıklayın">
 <!ENTITY recipientColumn.tooltip "Alıcıya göre sıralamak için tıklayın">
 <!ENTITY subjectColumn.tooltip "Konuya göre sıralamak için tıklayın">
 <!ENTITY dateColumn.tooltip "Tarihe göre sıralamak için tıklayın">
 <!ENTITY priorityColumn.tooltip "Önceliğe göre sıralamak için tıklayın">
-<!ENTITY tagsColumn.tooltip "Etiketlere göre sıralamak için tıklayın">
-<!ENTITY accountColumn.tooltip "Hesaba göre sıralamak için tıklayın">
+<!ENTITY tagsColumn.tooltip "Etiketlere göre sırala">
+<!ENTITY accountColumn.tooltip "Hesaba göre sırala">
 <!ENTITY statusColumn.tooltip "Duruma göre sıralamak için tıklayın">
-<!ENTITY sizeColumn.tooltip "Boyuta göre sıralamak için tıklayın">
+<!ENTITY sizeColumn.tooltip "Boyuta göre sırala">
 <!ENTITY junkStatusColumn.tooltip "Gereksizlik durumuna göre sıralamak için tıklayın">
 <!ENTITY unreadColumn.tooltip "Dizideki okunmayan iletilerin sayısı">
 <!ENTITY totalColumn.tooltip "Dizideki iletilerin toplam sayısı">
 <!ENTITY readColumn.tooltip "Okunanlara göre sıralamak için tıklayın">
 <!ENTITY receivedColumn.tooltip "Alış tarihine göre sıralamak için tıklayın">
-<!ENTITY starredColumn.tooltip "Yıldıza göre sıralamak için tıklayın">
-<!ENTITY locationColumn.tooltip "Konuma göre sıralamak için tıklayın">
+<!ENTITY starredColumn.tooltip "Yıldıza göre sırala">
+<!ENTITY locationColumn.tooltip "Konuma göre sırala">
 <!ENTITY idColumn.tooltip "İstek alınmasına göre sıralamak için tıklayın">
 

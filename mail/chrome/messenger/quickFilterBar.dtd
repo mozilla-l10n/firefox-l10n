@@ -27,7 +27,7 @@
      filters are propagated between folder changes and when opening new tabs.)
      -->
 <!ENTITY quickFilterBar.sticky.tooltip
-         "Dizin değiştirirken süzgeçleri uygulamayı sürdür">
+         "Keep filters applied when switching folders">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.barLabel.label):
      The text to display on the quick filter bar, labeling it.  This should
@@ -70,7 +70,7 @@
      books.
      -->
 <!ENTITY quickFilterBar.inaddrbook.label
-         "Kişi">
+         "Adres">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.inaddrbook.tooltip):
      The tooltip for the filter button that causes us to filter results to only
@@ -237,5 +237,5 @@
      This line will have #1 replaced with what the user has typed so far.
      -->
 <!ENTITY quickFilterBar.glodaUpsell.pressEnterAndCurrent
-         "Aramanıza devam etmek için tekrar Enter'a basın: #1">
+         "Press 'Enter' again to continue your search for: #1">
 

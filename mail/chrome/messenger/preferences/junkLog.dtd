@@ -1,5 +1,5 @@
 <!ENTITY junkLog.title "Gereksiz posta günlüğü">
-<!ENTITY junkLogInfo.label "Gereksiz posta denetim etkinliğinin günlüğü.">
+<!ENTITY junkLogInfo.label "Gereksiz posta günlüğü, gereksiz posta kontrol aktivitelerini belgeleyen bir dosyadır. Günlük tutmayı etkinleştirmek için aşağıdaki kontrol kutusunu kullanın.">
 <!ENTITY clearLog.label "Günlüğü temizle">
 <!ENTITY clearLog.accesskey "t">
 <!ENTITY closeLog.label "Kapat">

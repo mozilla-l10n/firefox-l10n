@@ -1,8 +1,8 @@
 <!ENTITY viewLog.title "Süzgeç günlüğü">
-<!ENTITY viewLogInfo.text "Süzgeç günlüğü, hangi süzgeçlerin çalıştığını belgeleyen bir dosyadır. Aşağıdaki onay kutusunu kullanarak günlük tutulmasını etkinleştirebilirsiniz.">
-<!ENTITY clearLog.label "Günlüğü temizle">
+<!ENTITY viewLogInfo.text "Süzgeç günlüğü, hangi süzgeçlerin çalıştığını belgeleyen bir dosyadır. Aşağıdaki kontrol kutusunu kullanarak günlük tutulmasını etkinleştirebilirsiniz.">
+<!ENTITY clearLog.label "Günlüğü Temizle">
 <!ENTITY clearLog.accesskey "G">
-<!ENTITY enableLog.label "Süzgeç günlüğünü etkinleştir">
+<!ENTITY enableLog.label "Süzgeç günlüğünü etkinleştir.">
 <!ENTITY enableLog.accesskey "z">
 <!ENTITY closeLog.label "Kapat">
 <!ENTITY closeLog.accesskey "t">

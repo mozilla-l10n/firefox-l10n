@@ -35,6 +35,6 @@
 <!ENTITY input.namePlaceholder "İsminiz veya rumuzunuz">
 <!ENTITY input.search "Arama">
 <!ENTITY search_engine.title "Arama motorunuzu özelleştirin">
-<!ENTITY search_engine.message "E-posta sağlayıcınız web'de arama becerileri de sunuyor olabilir.">
+<!ENTITY search_engine.message "Your email provider can also provide you with web search capabilities.">
 <!ENTITY search_engine.button "Bitir">
 

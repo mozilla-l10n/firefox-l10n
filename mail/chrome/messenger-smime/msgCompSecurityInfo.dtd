@@ -1,15 +1,15 @@
 <!--LOCALIZATION NOTE msgCompSecurityInfo.dtd UI for viewing security status when composing a message -->
 
 <!ENTITY title.label "İleti güvenliği">
-<!ENTITY subject.plaintextWarning "Lütfen dikkat: E-postaların konu satırları asla şifrelenmezler.">
+<!ENTITY subject.plaintextWarning "Lütfen unutmayın: E-postaların konu satırları asla şifrelenmezler.">
 <!ENTITY status.heading "İletinin içeriği aşağıdaki gibi gönderilecektir:">
 <!ENTITY status.signed "Sayısal imzalı:">
 <!ENTITY status.encrypted "Şifreleme:">
 <!ENTITY status.certificates "Onay belgeleri:">
 <!ENTITY view.label "Görünüm">
 <!ENTITY view.accesskey "G">
-<!ENTITY tree.recipient "Alıcı">
-<!ENTITY tree.status "Durum">
-<!ENTITY tree.issuedDate "Belge tarihi">
-<!ENTITY tree.expiresDate "Son kullanım tarihi">
+<!ENTITY tree.recipient "Alıcı:">
+<!ENTITY tree.status "Durum:">
+<!ENTITY tree.issuedDate "Yayınlayıcı:">
+<!ENTITY tree.expiresDate "Geçerlilik tarihi:">
 

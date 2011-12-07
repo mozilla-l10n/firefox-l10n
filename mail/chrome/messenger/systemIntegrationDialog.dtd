@@ -2,12 +2,12 @@
 <!ENTITY defaultClient.intro  "&brandShortName; aşağıdaki hizmetler için varsayılan istemci olarak kullanılsın:">
 
 <!ENTITY email.label "E-posta">
-<!ENTITY newsgroups.label "Haber grupları">
-<!ENTITY feeds.label "Beslemeler">
+<!ENTITY newsgroups.label "Haber Grupları">
+<!ENTITY feeds.label "Canlı yer imleri">
 
 <!ENTITY checkOnStartup.label "Bu denetimi &brandShortName; uygulamasının her açılışında uygula">
 <!ENTITY checkOnStartup.accesskey "B">
 
-<!ENTITY searchIntegration.label "&searchIntegration.engineName; uygulamasının iletileri aramasına izin ver">
+<!ENTITY searchIntegration.label "&searchIntegration.engineName; ileti aramasına izin ver">
 <!ENTITY searchIntegration.accesskey "s">
 

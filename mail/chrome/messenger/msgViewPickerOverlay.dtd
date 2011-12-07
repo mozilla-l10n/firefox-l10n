@@ -10,9 +10,9 @@
 <!ENTITY viewNotDeleted.accesskey "S">
 <!ENTITY viewTags.label "Etiketler">
 <!ENTITY viewTags.accesskey "t">
-<!ENTITY viewCustomViews.label "Özel görünümler">
+<!ENTITY viewCustomViews.label "Özel gösterim">
 <!ENTITY viewCustomViews.accesskey "z">
-<!ENTITY viewVirtualFolder.label "Görünümü dizin olarak kaydet…">
+<!ENTITY viewVirtualFolder.label "Gösterimi dizin olarak kaydet…">
 <!ENTITY viewVirtualFolder.accesskey "G">
 <!ENTITY viewCustomizeView.label "Özelleştir…">
 <!ENTITY viewCustomizeView.accesskey "l">
