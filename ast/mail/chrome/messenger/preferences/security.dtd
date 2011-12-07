@@ -1,18 +1,18 @@
-<!ENTITY itemJunk.label "Corréu non deseáu">
+<!ENTITY itemJunk.label "Corréu puxarra">
 <!ENTITY itemPhishing.label "Corréu fraudulentu">
 <!ENTITY itemPasswords.label "Contraseñes">
 <!ENTITY itemAntiVirus.label "Antivirus">
 <!ENTITY itemCookies.label "Conteníu web">
 <!ENTITY junkMail.intro "Afita la to configuración predeterminada pal corréu non deseáu. La configuración específica de cada cuenta pue axustase na Configuración de les cuentes.">
-<!ENTITY manualMark.label "Cuando conseño los mensaxes como non deseaos:">
+<!ENTITY manualMark.label "Cuando conseño los mensaxes como puxarra:">
 <!ENTITY manualMark.accesskey "C">
-<!ENTITY manualMarkModeMove.label "Movelos a la carpeta &quot;Corréu non deseáu&quot; de la cuenta">
+<!ENTITY manualMarkModeMove.label "Movelos a la carpeta &quot;Corréu puxarra&quot; de la cuenta">
 <!ENTITY manualMarkModeMove.accesskey "o">
 <!ENTITY manualMarkModeDelete.label "Desanicialos">
 <!ENTITY manualMarkModeDelete.accesskey "D">
-<!ENTITY markAsReadOnSpam.label "Conseñar como lleíos los mensaxes calificaos como non deseaos">
+<!ENTITY markAsReadOnSpam.label "Conseñar como lleíos los mensaxes calificaos como puxarra">
 <!ENTITY markAsReadOnSpam.accesskey "M">
-<!ENTITY enableJunkLogging.label "Activar rexistru del filtru de corréu non deseáu">
+<!ENTITY enableJunkLogging.label "Activar rexistru del filtru de corréu puxarra">
 <!ENTITY enableJunkLogging.accesskey "A">
 <!ENTITY openJunkLog.label "Amosar el rexistru">
 <!ENTITY openJunkLog.accesskey "s">

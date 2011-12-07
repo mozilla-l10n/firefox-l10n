@@ -158,7 +158,7 @@
 <!ENTITY sortByStatusCmd.accesskey "e">
 <!ENTITY sortByTagsCmd.label "Etiquetes">
 <!ENTITY sortByTagsCmd.accesskey "q">
-<!ENTITY sortByJunkStatusCmd.label "Estáu de corréu non deseáu">
+<!ENTITY sortByJunkStatusCmd.label "Estáu de corréu puxarra">
 <!ENTITY sortByJunkStatusCmd.accesskey "s">
 <!ENTITY sortBySubjectCmd.label "Asuntu">
 <!ENTITY sortBySubjectCmd.accesskey "a">
@@ -395,13 +395,13 @@
 <!ENTITY markStarredCmd.label "Amestar estrella">
 <!ENTITY markStarredCmd.accesskey "S">
 <!ENTITY markStarredCmd.key "S">
-<!ENTITY markAsJunkCmd.label "Como corréu non deseáu">
+<!ENTITY markAsJunkCmd.label "Como corréu puxarra">
 <!ENTITY markAsJunkCmd.accesskey "s">
 <!ENTITY markAsJunkCmd.key "j">
 <!ENTITY markAsNotJunkCmd.label "Como corréu llexítimu">
 <!ENTITY markAsNotJunkCmd.accesskey "m">
 <!ENTITY markAsNotJunkCmd.key "j">
-<!ENTITY recalculateJunkScoreCmd.label "Executar controles de corréu non deseáu">
+<!ENTITY recalculateJunkScoreCmd.label "Executar controles de corréu puxarra">
 <!ENTITY recalculateJunkScoreCmd.accesskey "C">
 <!ENTITY openMessageWindowCmd.label "Abrir mensaxe">
 <!ENTITY openMessageWindowCmd.accesskey "A">
@@ -440,9 +440,9 @@
 <!ENTITY filtersApplyToSelection.accesskey "u">
 <!ENTITY filtersApplyToMessage.label "Executar filtros nel mensaxe">
 <!ENTITY filtersApplyToMessage.accesskey "u">
-<!ENTITY runJunkControls.label "Executar controles de corréu non deseáu na carpeta">
+<!ENTITY runJunkControls.label "Executar controles de corréu puxarra na carpeta">
 <!ENTITY runJunkControls.accesskey "C">
-<!ENTITY deleteJunk.label "Desaniciar mensaxes conseñaos como non deseaos na carpeta">
+<!ENTITY deleteJunk.label "Desaniciar mensaxes conseñaos como puxarra na carpeta">
 <!ENTITY deleteJunk.accesskey "E">
 <!ENTITY importCmd.label "Importar…">
 <!ENTITY importCmd.accesskey "I">
@@ -471,7 +471,7 @@
 <!ENTITY stopButton.label "Detener">
 <!ENTITY throbberItem.title "Indicador d'actividá">
 <!ENTITY junkItem.title "Puxarra">
-<!ENTITY junkButton.label "Non deseáu">
+<!ENTITY junkButton.label "Puxarra">
 <!ENTITY notJunkButton.label "Llexítimu">
 <!ENTITY addressBookButton.label "Direiciones">
 <!ENTITY glodaSearch.title "Gueta global">
@@ -525,7 +525,7 @@
 <!ENTITY folderContextCompact.accesskey "C">
 <!ENTITY folderContextEmptyTrash.label "Vaciar papelera">
 <!ENTITY folderContextEmptyTrash.accesskey "v">
-<!ENTITY folderContextEmptyJunk.label "Vaciar corréu non deseáu">
+<!ENTITY folderContextEmptyJunk.label "Vaciar corréu puxarra">
 <!ENTITY folderContextEmptyJunk.accesskey "s">
 <!ENTITY folderContextSendUnsentMessages.label "Unviar mensaxes pendientes">
 <!ENTITY folderContextSendUnsentMessages.accesskey "n">
@@ -565,7 +565,7 @@
 <!ENTITY accountColumn.label "Cuenta">
 <!ENTITY statusColumn.label "Estáu">
 <!ENTITY sizeColumn.label "Tamañu">
-<!ENTITY junkStatusColumn.label "Estáu de corréu non deseáu">
+<!ENTITY junkStatusColumn.label "Estáu de corréu puxarra">
 <!ENTITY unreadColumn.label "Non lleíos">
 <!ENTITY totalColumn.label "Total">
 <!ENTITY readColumn.label "Lleío">
@@ -585,7 +585,7 @@
 <!ENTITY accountColumn.tooltip "Calca pa ordenar por cuenta">
 <!ENTITY statusColumn.tooltip "Calca pa ordenar por estáu">
 <!ENTITY sizeColumn.tooltip "Calca pa ordenar por tamañu">
-<!ENTITY junkStatusColumn.tooltip "Calca pa ordenar por estáu de corréu non deseáu">
+<!ENTITY junkStatusColumn.tooltip "Calca pa ordenar por estáu de corréu puxarra">
 <!ENTITY unreadColumn.tooltip "Númberu de mensaxes non lleíos na conversación">
 <!ENTITY totalColumn.tooltip "Númberu total de mensaxes na conversación">
 <!ENTITY readColumn.tooltip "Calca pa ordenar los mensaxes lleíos">
@@ -641,7 +641,7 @@
 <!ENTITY contextMute.accesskey "S">
 <!ENTITY contextUnmute.label "Restaurar soníu">
 <!ENTITY contextUnmute.accesskey "s">
-<!ENTITY junkBarMessage1.label "Corréu non deseáu">
+<!ENTITY junkBarMessage1.label "Corréu puxarra">
 <!ENTITY junkBarButton1.label "Llexítimu">
 <!ENTITY junkInfoButton.label "?">
 <!ENTITY remoteContentMessage2.label "Pa protexer la to privacidá, &brandShortName; bloquió'l conteníu remotu nesti mensaxe.">
