@@ -427,7 +427,8 @@ the menu -->
 <!ENTITY mediaHideControls.accesskey "C">
 <!ENTITY videoFullScreen.label       "Дэлгэц дүүрэн болгох">
 <!ENTITY videoFullScreen.accesskey   "F">
-
+<!ENTITY inspectContextMenu.label     "Элемент хайх">
+<!ENTITY inspectContextMenu.accesskey "Q">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and

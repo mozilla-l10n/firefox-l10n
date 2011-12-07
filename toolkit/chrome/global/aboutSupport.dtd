@@ -37,3 +37,5 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.copyToClipboard.label "Clipboard-д хуулах">
 
 <!ENTITY aboutSupport.appBasicsCrashIDs "Эвдрэлийн тайлан">
+
+<!ENTITY aboutSupport.appBasicsMemoryUse	"Санах ой ашиглах хэмжээ">
