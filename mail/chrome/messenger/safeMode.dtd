@@ -2,14 +2,12 @@
 # Translator(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
-# Laudatti <Laudatti@gmail.com>
 #
 -->
 <!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!-- ***** BEGIN LICENSE BLOCK *****
@@ -67,3 +65,4 @@
 
 <!ENTITY continueButton.label             "Continuă în modul sigur">
 <!ENTITY continueButton.accesskey         "C">
+

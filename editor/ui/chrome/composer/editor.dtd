@@ -73,11 +73,11 @@
 <!ENTITY compositionToolbarCmd.accesskey "B">
 <!ENTITY formattingToolbarCmd.label "Bară de formatare">
 <!ENTITY formattingToolbarCmd.accesskey "B">
-<!ENTITY editmodeToolbarCmd.label "Bară editare">
+<!ENTITY editmodeToolbarCmd.label "Bară de editare">
 <!ENTITY editmodeToolbarCmd.accesskey "B">
 
 <!-- Format menu items -->
-<!ENTITY formatMenu.label "Format trimitere">
+<!ENTITY formatMenu.label "Formatare">
 <!ENTITY formatMenu.accesskey "F">
 <!ENTITY grid.label "Grilă de poziționare">
 <!ENTITY grid.accesskey "G">
@@ -111,3 +111,4 @@
 <!ENTITY PreviewMode.label "Previzualizare">
 <!ENTITY PreviewMode.accesskey "P">
 <!ENTITY PreviewMode.tooltip "Afișează ca în navigator">
+

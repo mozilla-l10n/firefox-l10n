@@ -3,8 +3,14 @@
 #
 # nicubunu <nicubunu@gmail.com>
 # janimo <jani@ubuntu.com>
-# strainu <crangasi2001@yahoo.com>
+# strainu <narro@strainu.ro>
 # secarica <orice@secarica.ro>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
 #
 -->
 <!-- Feed Properties Dialog -->
@@ -24,5 +30,6 @@
 <!ENTITY copyLinkCmd.label        "Copiază adresa legăturii">
 <!ENTITY copyLinkCmd.accesskey    "C">
 
-<!ENTITY pasteLinkCmd.label       "Lipește">
-<!ENTITY pasteLinkCmd.accesskey   "i">
+<!ENTITY pasteLinkCmd.label       "Inserează">
+<!ENTITY pasteLinkCmd.accesskey   "z">
+

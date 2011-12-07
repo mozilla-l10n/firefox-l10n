@@ -48,7 +48,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY tableWindow.title                "Proprietăți tabel">
-<!ENTITY applyButton.label                "Aplicați">
+<!ENTITY applyButton.label                "Aplică">
 <!ENTITY applyButton.accesskey            "A">
 <!ENTITY closeButton.label                "Închide">
 <!ENTITY tableTab.label                   "Tabel">
@@ -111,10 +111,11 @@
 <!ENTITY cellUseCheckboxHelp.label        "Folosiți bifele pentru a indica ce proprietăți se aplică celulelor selectate">
 
 <!-- Used in both Table and Cell panels  -->
-<!ENTITY size.label                       "Mărimea">
+<!ENTITY size.label                       "Mărime">
 <!ENTITY pixels.label                     "pixeli">
 <!ENTITY backgroundColor.label            "Culoare fundal:">
 <!ENTITY backgroundColor.accessKey        "F">
 <!ENTITY AlignLeft.label                  "Stânga">
 <!ENTITY AlignCenter.label                "Centru">
 <!ENTITY AlignRight.label                 "Dreapta">
+

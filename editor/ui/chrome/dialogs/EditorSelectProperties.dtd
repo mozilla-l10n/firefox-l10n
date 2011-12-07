@@ -55,16 +55,16 @@
 <!ENTITY SelectSize.accesskey "l">
 <!ENTITY SelectMultiple.label "Selecție multiplă">
 <!ENTITY SelectMultiple.accesskey "m">
-<!ENTITY SelectDisabled.label "Inactivat">
-<!ENTITY SelectDisabled.accesskey "I">
+<!ENTITY SelectDisabled.label "Dezactivat">
+<!ENTITY SelectDisabled.accesskey "D">
 <!ENTITY SelectTabIndex.label "Index tab:">
 <!ENTITY SelectTabIndex.accesskey "t">
 
 <!ENTITY OptGroup.label "Grup opțiuni">
 <!ENTITY OptGroupLabel.label "Etichetă:">
 <!ENTITY OptGroupLabel.accesskey "E">
-<!ENTITY OptGroupDisabled.label "Inactivat">
-<!ENTITY OptGroupDisabled.accesskey "I">
+<!ENTITY OptGroupDisabled.label "Dezactivat">
+<!ENTITY OptGroupDisabled.accesskey "D">
 
 <!ENTITY Option.label "Opțiune">
 <!ENTITY OptionText.label "Text:">
@@ -73,8 +73,8 @@
 <!ENTITY OptionValue.accesskey "V">
 <!ENTITY OptionSelected.label "Inițial selectată">
 <!ENTITY OptionSelected.accesskey "s">
-<!ENTITY OptionDisabled.label "Inactivat">
-<!ENTITY OptionDisabled.accesskey "I">
+<!ENTITY OptionDisabled.label "Dezactivat">
+<!ENTITY OptionDisabled.accesskey "D">
 
 <!ENTITY TextHeader.label "Text">
 <!ENTITY ValueHeader.label "Valoare">
@@ -82,11 +82,12 @@
 
 <!ENTITY AddOption.label "Adaugă opțiune">
 <!ENTITY AddOption.accesskey "o">
-<!ENTITY AddOptGroup.label "Adaugă un grup">
+<!ENTITY AddOptGroup.label "Adaugă grup">
 <!ENTITY AddOptGroup.accesskey "g">
-<!ENTITY RemoveElement.label "Elimină">
-<!ENTITY RemoveElement.accesskey "E">
-<!ENTITY MoveElementUp.label "Mută în s_us">
+<!ENTITY RemoveElement.label "Șterge">
+<!ENTITY RemoveElement.accesskey "r">
+<!ENTITY MoveElementUp.label "Mută sus">
 <!ENTITY MoveElementUp.accesskey "s">
-<!ENTITY MoveElementDown.label "Mută în j_os">
+<!ENTITY MoveElementDown.label "Mută jos">
 <!ENTITY MoveElementDown.accesskey "j">
+

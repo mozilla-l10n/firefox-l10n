@@ -8,7 +8,6 @@
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!ENTITY aboutSupport.appBasicsAppBuildID "ID-ul de compilare al aplicației">
@@ -26,3 +25,4 @@
 <!ENTITY aboutSupport.accountsDefault "Implicit ?">
 
 <!ENTITY aboutSupport.sendViaEmail.label "Trimite prin poștă electronică">
+

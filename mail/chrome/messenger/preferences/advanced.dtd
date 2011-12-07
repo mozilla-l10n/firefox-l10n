@@ -3,12 +3,12 @@
 #
 # Alexandru Szasz <alexxed@gmail.com>
 # janimo <jani@ubuntu.com>
+# https://www.google.com/accounts/o8/id?id=AItOawlnUhqAust-7hqM7HhylXGcKyQHz7bLFkw <https://www.google.com/accounts/o8/id?id=AItOawlnUhqAust-7hqM7HhylXGcKyQHz7bLFkw>
 # nicubunu <nicubunu@gmail.com>
 # purica <haliciu@gmail.com>
-# Laudatti <Laudatti@gmail.com>
-# strainu <crangasi2001@yahoo.com>
-# Lucian Oprea <oprea.luci@gmail.com>
 # rsandu <razvan.sandu@zando.ro>
+# Laudatti <Laudatti@gmail.com>
+# strainu <narro@strainu.ro>
 #
 -->
 <!--
@@ -25,9 +25,9 @@
 
 <!-- General Settings -->
 
-<!ENTITY submitTelemetry.label         "Submit Performance Data">
-<!ENTITY submitTelemetry.accesskey     "P">
-<!ENTITY telemetryInfoLink.label       "More information about Telemetry">
+<!ENTITY submitTelemetry.label         "Trimite date despre performanță">
+<!ENTITY submitTelemetry.accesskey     "p">
+<!ENTITY telemetryInfoLink.label       "Detalii despre telemetrie">
 <!ENTITY enableGlodaSearch.label       "Activează căutarea globală și indexarea">
 <!ENTITY enableGlodaSearch.accesskey   "i">
 <!ENTITY systemIntegration.label       "Integrare cu sistemul">
@@ -35,10 +35,10 @@
 <!ENTITY alwaysCheckDefault.accesskey  "l">
 <!ENTITY searchIntegration.label       "Permite &searchIntegration.engineName; căutarea în mesaje">
 <!ENTITY searchIntegration.accesskey   "P">
-<!ENTITY checkNow.label                "Verificare nouă">
+<!ENTITY checkNow.label                "Verifică acum…">
 <!ENTITY checkNow.accesskey            "V">
 <!ENTITY configEditDesc.label          "Configurare avansată">
-<!ENTITY configEdit.label              "Editor de configurare…">
+<!ENTITY configEdit.label              "Editor de configurație…">
 <!ENTITY configEdit.accesskey          "g">
 <!ENTITY returnReceiptsInfo.label      "Configurați gestionarea confirmărilor de primire">
 <!ENTITY showReturnReceipts.label      "Confirmări de primire…">
@@ -81,13 +81,13 @@
 <!ENTITY modeAskMe.accesskey            "n">
 <!ENTITY modeAutomatic.label            "Descarcă și instalează actualizarea automat">
 <!ENTITY modeAutomatic.accesskey        "m">
-<!ENTITY modeAutoAddonWarn.label        "Avertizează-mă dacă va fi dezactivat vreunul dintre suplimentele mele">
+<!ENTITY modeAutoAddonWarn.label        "Avertizează-mă dacă asta va duce la dezactivarea unora dintre suplimentele mele">
 <!ENTITY modeAutoAddonWarn.accesskey    "-">
 <!ENTITY showUpdates.label              "Arată istoricul actualizărilor">
 <!ENTITY showUpdates.accesskey          "A">
 
 <!-- Networking and Disk Space -->
-<!ENTITY showSettings.label            "Setări...">
+<!ENTITY showSettings.label            "Setări…">
 <!ENTITY showSettings.accesskey        "S">
 <!ENTITY proxiesConfigure.label        "Configurați cum se conectează &brandShortName; la Internet">
 <!ENTITY connectionsInfo.caption       "Conexiune">
@@ -110,8 +110,8 @@
 <!ENTITY useCacheBefore.label            "Folosește până la">
 <!ENTITY useCacheBefore.accesskey        "F">
 <!ENTITY useCacheAfter.label             "MO de spațiu pentru cache">
-<!ENTITY clearCacheNow.label             "Șterge acum">
-<!ENTITY clearCacheNow.accesskey         "c">
+<!ENTITY clearCacheNow.label             "Curăță acum">
+<!ENTITY clearCacheNow.accesskey         "C">
 
 <!-- Certificates -->
 <!ENTITY certSelection.description       "Când un server cere certificatul meu personal:">
@@ -120,7 +120,7 @@
 <!ENTITY certs.ask                       "Întreabă-mă de fiecare dată">
 <!ENTITY certs.ask.accesskey             "a">
 
-<!ENTITY viewCertificates.label         "Vezi certificate">
+<!ENTITY viewCertificates.label         "Vizualizare certificate">
 <!ENTITY viewCertificates.accesskey     "a">
 <!ENTITY viewCRLs.label                 "Liste de revocare">
 <!ENTITY viewCRLs.accesskey             "e">
@@ -128,3 +128,4 @@
 <!ENTITY validation.accesskey           "d">
 <!ENTITY viewSecurityDevices.label      "Dispozitive de securitate">
 <!ENTITY viewSecurityDevices.accesskey  "u">
+

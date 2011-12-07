@@ -6,6 +6,12 @@
 # Laudatti <Laudatti@gmail.com>
 #
 -->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY notificationsDialog2.title       "Personalizează alerta de mesaj nou">
 <!ENTITY window.width                     "32em">
 
@@ -16,4 +22,5 @@
 <!ENTITY subject.accesskey                "S">
 <!ENTITY sender.label                     "Expeditorul">
 <!ENTITY sender.accesskey                 "E">
+
 

@@ -1,4 +1,11 @@
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!--LOCALIZATION NOTE sendprogress.dtd Main UI for Send Message Progress Dialog -->
 <!ENTITY sendWindow.title "Trimitere mesaje"> 
 <!ENTITY status.label "Stare:">
 <!ENTITY progress.label "Progres:">
+

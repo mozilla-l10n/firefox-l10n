@@ -2,7 +2,6 @@
 # Translator(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
-# janimo <jani@ubuntu.com>
 #
 -->
 <!--
@@ -53,14 +52,15 @@
 <!ENTITY fieldMapImport.recordNumber "Date importate pentru înregistrarea:">
 <!ENTITY fieldMapImport.next.label "Înainte">
 <!ENTITY fieldMapImport.next.accesskey "n">
-<!ENTITY fieldMapImport.previous.label "Precedent">
-<!ENTITY fieldMapImport.previous.accesskey "P">
+<!ENTITY fieldMapImport.previous.label "Înapoi">
+<!ENTITY fieldMapImport.previous.accesskey "p">
 <!ENTITY fieldMapImport.text "Folosiți Mută sus și Mută jos pentru a potrivi câmpurile agendei de contacte (din stânga) cu datele corecte de importat (din dreapta). Nu bifați elementele pe care nu doriți să le importați.">
-<!ENTITY fieldMapImport.up.label "Mută în s_us">
+<!ENTITY fieldMapImport.up.label "Mută în sus">
 <!ENTITY fieldMapImport.up.accesskey "u">
-<!ENTITY fieldMapImport.down.label "Mută în j_os">
+<!ENTITY fieldMapImport.down.label "Mută în jos">
 <!ENTITY fieldMapImport.down.accesskey "M">
 <!ENTITY fieldMapImport.fieldListTitle "Câmpuri din agenda de contacte">
 <!ENTITY fieldMapImport.dataTitle "Date de importat">
 <!ENTITY fieldMapImport.skipFirstRecord.label "Primul rând conține numele câmpurilor">
 <!ENTITY fieldMapImport.skipFirstRecord.accessKey "P">
+

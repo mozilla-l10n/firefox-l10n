@@ -2,7 +2,7 @@
 # Translator(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
-# strainu <crangasi2001@yahoo.com>
+# strainu <narro@strainu.ro>
 # turcan <nicturcan@gmail.com>
 #
 -->
@@ -19,9 +19,9 @@
 <!ENTITY searchSubfolders.accesskey  "e">
 <!ENTITY searchOnServer.label        "Rulează căutarea pe server">
 <!ENTITY searchOnServer.accesskey    "u">
-<!ENTITY resetButton.label           "Curățire">
-<!ENTITY resetButton.accesskey       "C">
-<!ENTITY openButton.label            "Deschis">
+<!ENTITY resetButton.label           "Golește">
+<!ENTITY resetButton.accesskey       "G">
+<!ENTITY openButton.label            "Deschide">
 <!ENTITY openButton.accesskey        "D">
 <!ENTITY deleteButton.label          "Șterge">
 <!ENTITY deleteButton.accesskey      "g">
@@ -29,8 +29,8 @@
 <!ENTITY results.label               "Rezultate">
 <!ENTITY fileHereMenu.label          "Îndosariază aici">
 <!ENTITY fileHereMenu.accesskey      "n">
-<!ENTITY fileButton.label            "Fișier">
-<!ENTITY fileButton.accesskey        "F">
+<!ENTITY fileButton.label            "Îndosariază">
+<!ENTITY fileButton.accesskey        "n">
 <!ENTITY closeCmd.key                "w"> 
 <!ENTITY openInFolder.label          "Deschide în dosar">
 <!ENTITY openInFolder.accesskey      "r">
@@ -42,12 +42,12 @@
 <!ENTITY abSearchHeading.accesskey   "C">
 <!ENTITY propertiesButton.label      "Proprietăți">
 <!ENTITY propertiesButton.accesskey  "P">
-<!ENTITY composeButton.label         "Scriere">
+<!ENTITY composeButton.label         "Scrie mesaj">
 <!ENTITY composeButton.accesskey     "S">
 <!ENTITY abSearchDialogTitle.label   "Căutare avansată în agenda de contacte">
 
 <!-- Thread Pane -->
-<!ENTITY threadColumn.label "Fir">
+<!ENTITY threadColumn.label "Conversație">
 <!ENTITY fromColumn.label "Expeditor">
 <!ENTITY recipientColumn.label "Destinatar">
 <!ENTITY subjectColumn.label "Subiect">
@@ -86,3 +86,4 @@
 <!ENTITY starredColumn.tooltip "Clic pentru a sorta după steluță">
 <!ENTITY locationColumn.tooltip "Clic pentru a sorta după amplasare">
 <!ENTITY idColumn.tooltip "Clic pentru a sorta după ordinea în care au fost primite">
+

@@ -2,7 +2,6 @@
 # Translator(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
-# nicubunu <nicubunu@gmail.com>
 # Laudatti <Laudatti@gmail.com>
 #
 -->
@@ -61,13 +60,13 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importDialog.windowTitle "Importează">
 <!ENTITY importAll.label          "Importă totul">
 <!ENTITY importAll.accesskey      "I">
-<!ENTITY importMail.label         "Poștă">
-<!ENTITY importMail.accesskey     "P">
+<!ENTITY importMail.label         "Corespondență">
+<!ENTITY importMail.accesskey     "C">
 <!ENTITY importAddressbook.label  "Agende de contacte">
 <!ENTITY importAddressbook.accesskey "A">
 <!ENTITY importSettings.label     "Setări">
 <!ENTITY importSettings.accesskey "S">
-<!ENTITY importFilters.label      "Filtrează după:">
+<!ENTITY importFilters.label      "Filtre">
 <!ENTITY importFilters.accesskey  "F">
 
 <!ENTITY  window.width            "40em">
@@ -91,3 +90,4 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 <!ENTITY title.label              "Titlu">
 <!ENTITY processing.label         "Import…">
+

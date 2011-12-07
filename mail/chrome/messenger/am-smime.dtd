@@ -1,5 +1,5 @@
 <!--
-# Translator(s):
+# Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
 #
@@ -32,3 +32,4 @@
 <!ENTITY manageCerts.accesskey "V">
 <!ENTITY manageDevices.label "Dispozitive de securitate">
 <!ENTITY manageDevices.accesskey "D">
+
