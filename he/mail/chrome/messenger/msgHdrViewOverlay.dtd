@@ -41,43 +41,43 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField2.label "אל ">
-<!ENTITY fromField2.label "מאת ">
-<!ENTITY senderField2.label "שולח ">
-<!ENTITY organizationField2.label "ארגון ">
-<!ENTITY replyToField2.label "תגובות אל ">
+<!ENTITY toField3.label "אל ">
+<!ENTITY fromField3.label "מאת ">
+<!ENTITY senderField3.label "שולח ">
+<!ENTITY organizationField3.label "ארגון ">
+<!ENTITY replyToField3.label "תגובות אל ">
 
-<!ENTITY subjectField2.label "נושא ">
+<!ENTITY subjectField3.label "נושא ">
 <!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
-<!ENTITY ccField2.label "עותק ">
-<!ENTITY bccField2.label "עותק סמוי ">
-<!ENTITY newsgroupsField2.label "קבוצת דיון ">
-<!ENTITY followupToField2.label "המשך של ">
-<!ENTITY tagsHdr2.label "תגיות ">
-<!ENTITY dateField2.label "תאריך ">
-<!ENTITY userAgentField2.label "סוכן משתמש ">
-<!ENTITY referencesField2.label "סימוכין ">
-<!ENTITY messageIdField2.label "מזהה הודעה ">
-<!ENTITY inReplyToField2.label "תגובה של ">
-<!ENTITY originalWebsite2.label "אתר ">
+<!ENTITY ccField3.label "עותק ">
+<!ENTITY bccField3.label "עותק סמוי ">
+<!ENTITY newsgroupsField3.label "קבוצת דיון ">
+<!ENTITY followupToField3.label "המשך של ">
+<!ENTITY tagsHdr3.label "תגיות ">
+<!ENTITY dateField3.label "תאריך ">
+<!ENTITY userAgentField3.label "סוכן משתמש ">
+<!ENTITY referencesField3.label "סימוכין ">
+<!ENTITY messageIdField3.label "מזהה הודעה ">
+<!ENTITY inReplyToField3.label "תגובה של ">
+<!ENTITY originalWebsite3.label "אתר ">
 
 <!ENTITY editMessageDescription.label "זוהי הודעת טיוטה">
 <!ENTITY editMessageButton.label "עריכה…">
-<!ENTITY hdrArchiveButton.label "העבר לארכיון">
-<!ENTITY hdrArchiveButton.tooltip "העברת הודעה זו לארכיון">
-<!ENTITY hdrSmartReplyButton.label "תגובה חכמה">
-<!ENTITY hdrReplyButton.label "הגב">
-<!ENTITY hdrReplyButton.tooltip "שליחת תגובה להודעה זו">
-<!ENTITY hdrReplyAllButton.label "הגב לכולם">
-<!ENTITY hdrReplyAllButton.tooltip "שליחת תגובה לשולח ולכל הנמענים">
-<!ENTITY hdrReplyListButton.label "הגב לרשימה">
-<!ENTITY hdrReplyListButton.tooltip "שליחת תגובה לרשימת התפוצה">
-<!ENTITY hdrForwardButton.label "העבר">
-<!ENTITY hdrForwardButton.tooltip "העברת הודעה זו לנמענים">
-<!ENTITY hdrJunkButton.label "זבל">
-<!ENTITY hdrJunkButton.tooltip "סימון הודעה זו כזבל">
-<!ENTITY hdrTrashButton.label "מחיקה">
-<!ENTITY hdrTrashButton.tooltip "מחיקת הודעה זו">
+<!ENTITY hdrArchiveButton1.label "העבר לארכיון">
+<!ENTITY hdrArchiveButton1.tooltip "העברת הודעה זו לארכיון">
+<!ENTITY hdrSmartReplyButton1.label "תגובה חכמה">
+<!ENTITY hdrReplyButton1.label "הגב">
+<!ENTITY hdrReplyButton1.tooltip "שליחת תגובה להודעה זו">
+<!ENTITY hdrReplyAllButton1.label "הגב לכולם">
+<!ENTITY hdrReplyAllButton1.tooltip "שליחת תגובה לשולח ולכל הנמענים">
+<!ENTITY hdrReplyListButton1.label "הגב לרשימה">
+<!ENTITY hdrReplyListButton1.tooltip "שליחת תגובה לרשימת התפוצה">
+<!ENTITY hdrForwardButton1.label "העבר">
+<!ENTITY hdrForwardButton1.tooltip "העברת הודעה זו לנמענים">
+<!ENTITY hdrJunkButton1.label "זבל">
+<!ENTITY hdrJunkButton1.tooltip "סימון הודעה זו כזבל">
+<!ENTITY hdrTrashButton1.label "מחיקה">
+<!ENTITY hdrTrashButton1.tooltip "מחיקת הודעה זו">
 
 <!ENTITY hdrViewToolbarShowFull.label "הצג צלמיות וטקסט">
 <!ENTITY hdrViewToolbarShowFull.accesskey "ו">
@@ -88,23 +88,23 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "הצג תמיד כפתור תגובה לשולח">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "ש">
 
-<!ENTITY otherActionsButton.label "פעולות אחרות">
-<!ENTITY otherActionsOpenConversation.label "פתח בדיון">
-<!ENTITY otherActionsOpenConversation.accesskey "ד">
-<!ENTITY otherActionsOpenInNewWindow.label "פתח בחלון חדש">
-<!ENTITY otherActionsOpenInNewWindow.accesskey "ח">
-<!ENTITY otherActionsOpenInNewTab.label "פתח בלשונית חדשה">
-<!ENTITY otherActionsOpenInNewTab.accesskey "ל">
-<!ENTITY markAsReadMenuItem.label "סמן כנקרא">
-<!ENTITY markAsReadMenuItem.accesskey "נ">
-<!ENTITY markAsUnreadMenuItem.label "סמן כלא נקרא">
-<!ENTITY markAsUnreadMenuItem.accesskey "ל">
-<!ENTITY saveAsMenuItem.label "שמור בשם…">
-<!ENTITY saveAsMenuItem.accesskey "ש">
-<!ENTITY viewSourceMenuItem.label "הצג מקור…">
-<!ENTITY viewSourceMenuItem.accesskey "מ">
-<!ENTITY otherActionsPrint.label "הדפסה…">
-<!ENTITY otherActionsPrint.accesskey "ה">
+<!ENTITY otherActionsButton1.label "פעולות אחרות">
+<!ENTITY otherActionsOpenConversation1.label "פתח בדיון">
+<!ENTITY otherActionsOpenConversation1.accesskey "ד">
+<!ENTITY otherActionsOpenInNewWindow1.label "פתח בחלון חדש">
+<!ENTITY otherActionsOpenInNewWindow1.accesskey "ח">
+<!ENTITY otherActionsOpenInNewTab1.label "פתח בלשונית חדשה">
+<!ENTITY otherActionsOpenInNewTab1.accesskey "ל">
+<!ENTITY markAsReadMenuItem1.label "סמן כנקרא">
+<!ENTITY markAsReadMenuItem1.accesskey "נ">
+<!ENTITY markAsUnreadMenuItem1.label "סמן כלא נקרא">
+<!ENTITY markAsUnreadMenuItem1.accesskey "ל">
+<!ENTITY saveAsMenuItem1.label "שמור בשם…">
+<!ENTITY saveAsMenuItem1.accesskey "ש">
+<!ENTITY viewSourceMenuItem1.label "הצג מקור…">
+<!ENTITY viewSourceMenuItem1.accesskey "מ">
+<!ENTITY otherActionsPrint1.label "הדפסה…">
+<!ENTITY otherActionsPrint1.accesskey "ה">
 
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "פתח">
@@ -125,26 +125,10 @@
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "ח">
 
 <!-- Attachment toolbar items -->
-<!ENTITY saveAttachmentButton.label       "שמירה">
-<!ENTITY saveAttachmentButton.tooltip     "שמירת הקובץ המצורף">
-<!ENTITY saveAllAttachmentsButton.label   "שמירת הכול">
-<!ENTITY saveAllAttachmentsButton.tooltip "שמירת כל הקבצים המצורפים">
-<!ENTITY openAttachmentMenuItem.label     "פתיחה">
-<!ENTITY openAttachmentMenuItem.accesskey    "פ">
-<!ENTITY saveAsAttachmentMenuItem.label    "שמירה בשם…">
-<!ENTITY saveAsAttachmentMenuItem.accesskey    "ש">
-<!ENTITY detachAttachmentMenuItem.label    "ניתוק…">
-<!ENTITY detachAttachmentMenuItem.accesskey    "נ">
-<!ENTITY deleteAttachmentMenuItem.label    "מחיקה">
-<!ENTITY deleteAttachmentMenuItem.accesskey    "מ">
-<!ENTITY openAllAttachmentsMenuItem.label    "פתיחת הכול…">
-<!ENTITY openAllAttachmentsMenuItem.accesskey    "ת">
-<!ENTITY saveAllAttachmentsMenuItem.label    "שמירת הכול…">
-<!ENTITY saveAllAttachmentsMenuItem.accesskey    "ר">
-<!ENTITY detachAllAttachmentsMenuItem.label    "ניתוק הכול…">
-<!ENTITY detachAllAttachmentsMenuItem.accesskey    "י">
-<!ENTITY deleteAllAttachmentsMenuItem.label    "מחיקת הכול…">
-<!ENTITY deleteAllAttachmentsMenuItem.accesskey    "ח">
+<!ENTITY saveAttachmentButton1.label       "שמירה">
+<!ENTITY saveAttachmentButton1.tooltip     "שמירת הקובץ המצורף">
+<!ENTITY saveAllAttachmentsButton1.label   "שמירת הכול">
+<!ENTITY saveAllAttachmentsButton1.tooltip "שמירת כל הקבצים המצורפים">
 
 <!ENTITY copyLinkCmd.label        "העתק מיקום קישור">
 <!ENTITY copyLinkCmd.accesskey    "ק">
