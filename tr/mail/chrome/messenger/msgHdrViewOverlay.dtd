@@ -39,22 +39,22 @@
 <!ENTITY fromField3.label "Kimden ">
 <!ENTITY senderField3.label "Gönderen ">
 <!ENTITY organizationField3.label "Kurum ">
-<!ENTITY replyToField3.label "Reply to ">
+<!ENTITY replyToField3.label "Yanıt adresi ">
 
 <!ENTITY subjectField3.label "Konu ">
 <!ENTITY ccField3.label "Cc ">
 <!ENTITY bccField3.label "Bcc ">
 <!ENTITY newsgroupsField3.label "Haber grupları ">
-<!ENTITY followupToField3.label "Followup to ">
+<!ENTITY followupToField3.label "Takip adresi ">
 <!ENTITY tagsHdr3.label "Etiketler ">
 <!ENTITY dateField3.label "Tarih ">
-<!ENTITY userAgentField3.label "User agent ">
+<!ENTITY userAgentField3.label "Kullanıcı istemcisi ">
 <!ENTITY referencesField3.label "Referanslar ">
 <!ENTITY messageIdField3.label "İleti kimliği ">
-<!ENTITY inReplyToField3.label "In reply to ">
+<!ENTITY inReplyToField3.label "Yanıt verilen ">
 <!ENTITY originalWebsite3.label "Web sitesi ">
 
-<!ENTITY editMessageDescription.label "Taslak ileti">
+<!ENTITY editMessageDescription.label "Bu ileti bir taslaktır">
 <!ENTITY editMessageButton.label "Düzenle…">
 <!ENTITY hdrArchiveButton1.label "Arşivle">
 <!ENTITY hdrArchiveButton1.tooltip "Bu iletiyi arşivle">
@@ -112,8 +112,8 @@
 <!ENTITY openAllAttachmentsCmd.accesskey    "n">
 <!ENTITY saveAllAttachmentsCmd.label    "Tümünü kaydet…">
 <!ENTITY saveAllAttachmentsCmd.accesskey    "e">
-<!ENTITY detachAllAttachmentsCmd.label    "Tümünü çıkart…">
-<!ENTITY detachAllAttachmentsCmd.accesskey    "T">
+<!ENTITY detachAllAttachmentsCmd.label    "Tümünü ayır…">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "r">
 <!ENTITY deleteAllAttachmentsCmd.label    "Tümünü sil…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "m">
 
