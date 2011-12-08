@@ -37,11 +37,11 @@
 
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Thuộc tính Danh sách">
+<!ENTITY windowTitle.label "List Properties">
 
 <!ENTITY ListType.label "Kiểu Danh Sách">
 <!ENTITY bulletStyle.label "Kiểu Bullet:">
-<!ENTITY startingNumber.label "Bắt đầu tại:">
+<!ENTITY startingNumber.label "Bắt đầu từ:">
 <!ENTITY startingNumber.accessKey "B">
 <!ENTITY none.value "Không có">
 <!ENTITY bulletList.value "Danh sách Bullet (Không đánh số)">
@@ -51,3 +51,4 @@
 <!ENTITY changeEntireListRadio.accessKey "T">
 <!ENTITY changeSelectedRadio.label "Chỉ thay đổi các mục được chọn">
 <!ENTITY changeSelectedRadio.accessKey "C">
+

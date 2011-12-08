@@ -35,7 +35,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY tableWindow.title                "Thuộc tính Bảng">
+<!ENTITY tableWindow.title                "Table Properties">
 <!ENTITY applyButton.label                "Áp dụng">
 <!ENTITY applyButton.accesskey            "d">
 <!ENTITY closeButton.label                "Đóng">
@@ -52,10 +52,10 @@
 <!ENTITY tableBorderSpacing.label         "Viền và Khoảng trống">
 <!ENTITY tableBorderWidth.label           "Viền:">
 <!ENTITY tableBorderWidth.accessKey       "V">
-<!ENTITY tableSpacing.label               "Khoảng trống:">
-<!ENTITY tableSpacing.accessKey           "K">
+<!ENTITY tableSpacing.label               "Khoảng Giữa:">
+<!ENTITY tableSpacing.accessKey           "G">
 <!ENTITY tablePadding.label               "Khoảng đệm:">
-<!ENTITY tablePadding.accessKey           "o">
+<!ENTITY tablePadding.accessKey           "m">
 <!ENTITY tablePxBetwCells.label           "điểm ảnh giữa các ô">
 <!ENTITY tablePxBetwBrdrCellContent.label "điểm ảnh giữa viền ô và nội dung">
 <!ENTITY tableAlignment.label             "Canh chỉnh Bảng:">
@@ -73,21 +73,21 @@
 <!ENTITY cellSelectCell.label             "Các Ô">
 <!ENTITY cellSelectRow.label              "Hàng">
 <!ENTITY cellSelectColumn.label           "Cột">
-<!ENTITY cellSelectNext.label             "Tiếp">
+<!ENTITY cellSelectNext.label             "Sau">
 <!ENTITY cellSelectNext.accessKey         "i">
-<!ENTITY cellSelectPrevious.label         "Trước">
+<!ENTITY cellSelectPrevious.label         "Previous">
 <!ENTITY cellSelectPrevious.accessKey     "r">
 <!ENTITY applyBeforeChange.label          "Thay đổi hiện tại sẽ được áp dụng sau khi thay đổi phần được chọn.">
 <!ENTITY cellContentAlignment.label       "Canh chỉnh Nội dung">
-<!ENTITY cellHorizontal.label             "Ngang:">
+<!ENTITY cellHorizontal.label             "Horizontal:">
 <!ENTITY cellHorizontal.accessKey         "B">
-<!ENTITY cellVertical.label               "Dọc:">
+<!ENTITY cellVertical.label               "Vertical:">
 <!ENTITY cellVertical.accessKey           "D">
-<!ENTITY cellStyle.label                  "Kiểu Ô:">
+<!ENTITY cellStyle.label                  "Cell Style:">
 <!ENTITY cellStyle.accessKey              "K">
 <!ENTITY cellNormal.label                 "Bình thường">
 <!ENTITY cellHeader.label                 "Đầu đề">
-<!ENTITY cellTextWrap.label               "Bao Chữ:">
+<!ENTITY cellTextWrap.label               "Text Wrap:">
 <!ENTITY cellTextWrap.accessKey           "T">
 <!ENTITY cellWrap.label                   "Bẻ dòng">
 <!ENTITY cellNoWrap.label                 "Không bẻ">
@@ -101,8 +101,9 @@
 <!-- Used in both Table and Cell panels  -->
 <!ENTITY size.label                       "Kích thước">
 <!ENTITY pixels.label                     "điểm ảnh">
-<!ENTITY backgroundColor.label            "Màu Nền:">
+<!ENTITY backgroundColor.label            "Background Color:">
 <!ENTITY backgroundColor.accessKey        "M">
 <!ENTITY AlignLeft.label                  "Trái">
 <!ENTITY AlignCenter.label                "Giữa">
 <!ENTITY AlignRight.label                 "Phải">
+

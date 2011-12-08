@@ -1,7 +1,7 @@
 <!-- extracted from am-advanced.xul -->
 
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpServer.label "Thiết lập Máy chủ Gửi thư (SMTP)">
+<!ENTITY smtpServer.label "Outgoing Server (SMTP) Settings">
 
 <!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpDesc.label "Mặc dù bạn có thể xác định nhiều máy chủ gửi thư (SMTP), nhưng điều này khuyến cáo chỉ dành cho người dùng cấp cao. Thiết lập dùng nhiều máy chủ gửi thư có thể gây ra lỗi khi gửi thư.">
@@ -21,3 +21,4 @@
 <!ENTITY userName.label   "Tên đăng nhập: ">
 <!ENTITY connectionSecurity.label "Bảo mật Kết nối: ">
 <!ENTITY authMethod.label   "Phương thức xác thực: ">
+

@@ -1,7 +1,8 @@
 <!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
 
-<!ENTITY mailViewSetupTitle.label "Thiết lập Hiển thị Thư">
+<!ENTITY mailViewSetupTitle.label "Message View Setup">
 <!ENTITY mailViewHeading.label "Tên cách hiển thị thư:">
 <!ENTITY mailViewHeading.accesskey "h">
 <!ENTITY searchTermCaption.label "Khi cách hiển thị này được chọn, chỉ hiển thị các thư:">
+
 

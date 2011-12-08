@@ -35,7 +35,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY Window.title        "Mục Lục">
+<!ENTITY Window.title        "Table of Contents">
 <!ENTITY buildToc.label      "Tạo mục lục từ:">
 <!ENTITY tag.label           "Thẻ:">
 <!ENTITY class.label         "Lớp:">
@@ -47,3 +47,4 @@
 <!ENTITY header6.label       "Cấp 6">
 <!ENTITY makeReadOnly.label  "Tạo mục lục chỉ-đọc">
 <!ENTITY orderedList.label   "Đánh số tất cả các mục trong mục lục">
+

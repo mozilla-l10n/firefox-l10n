@@ -36,7 +36,7 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- LOCALIZATION NOTE (window.title) : do not translate "LDAP" in below line -->
-<!ENTITY pref.ldap.window.title    "Máy chủ Thư mục LDAP">
+<!ENTITY pref.ldap.window.title    "LDAP Directory Servers">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "Máy chủ Thư mục LDAP:">
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
@@ -48,3 +48,4 @@
 <!ENTITY editDirectory.accesskey   "C">
 <!ENTITY deleteDirectory.label     "Xóa">
 <!ENTITY deleteDirectory.accesskey "X">
+

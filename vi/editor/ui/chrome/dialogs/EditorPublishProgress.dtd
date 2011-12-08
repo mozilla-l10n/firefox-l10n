@@ -37,7 +37,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Window title -->
-<!ENTITY siteUrl.label         "URL Site:">
+<!ENTITY siteUrl.label         "Site URL:">
 <!ENTITY docSubdir.label       "Thư mục con của trang:">
 <!ENTITY otherSubdir.label     "Thư mục con của hình:">
 
@@ -48,3 +48,4 @@
 
 <!ENTITY keepOpen              "Giữ cửa sổ mở sau khi việc xuất bản hoàn tất.">
 <!ENTITY closeButton.label     "Đóng">
+

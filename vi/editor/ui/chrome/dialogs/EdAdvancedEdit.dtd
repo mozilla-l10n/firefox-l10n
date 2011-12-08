@@ -36,7 +36,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY WindowTitle.label              "Trình chỉnh sửa Thuộc tính Nâng cao">
+<!ENTITY WindowTitle.label              "Advanced Property Editor">
 <!ENTITY AttName.label                  "Thuộc tính: ">
 <!ENTITY AttValue.label                 "Giá trị: ">
 <!ENTITY PropertyName.label             "Thuộc tính (Property): ">
@@ -50,3 +50,4 @@
 
 <!ENTITY editAttribute.label    "Nhấn lên một mục ở trên để chỉnh sửa giá trị của nó">
 <!ENTITY removeAttribute.label  "Xóa">
+

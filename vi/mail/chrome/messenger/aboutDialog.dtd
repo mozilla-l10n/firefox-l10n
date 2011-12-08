@@ -59,25 +59,8 @@
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
-<!ENTITY channel.description.start  "Bạn hiện đang sử dụng ">
-<!ENTITY channel.description.end    " kênh cập nhật. ">
-
-<!ENTITY channel.change             "Thay đổi">
-
-<!ENTITY channel.release.description       "Tận hưởng bản phát hành cuối cùng đang được sử dụng bởi hàng triệu người trên thế giới. Kiểm soát trải nghiệm trực tuyến của bạn với siêu tốc độ, tùy biến dễ dàng và công nghệ Web mới nhất.">
-<!ENTITY channel.beta.description          "Trải nghiệm các tính năng đỉnh cao với sự ổn định cao hơn. Cung cấp phản hồi để giúp tinh chỉnh cho những thứ sẽ hiện diện trong bản phát hành cuối cùng.">
-<!ENTITY channel.aurora.description        "Trải nghiệm các sáng tạo mới nhất trong một môi trường không ổn định vốn không dành cho những con tim yếu ớt. Cung cấp phản hồi về tính năng và hiệu năng để giúp xác định những thứ làm nên bản phát hành cuối cùng.">
-
-<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
-     channel.selector.end create one sentence, with a channel selection menulist instered in between.
-     This is all in one line, so try to make the localized text short.
-     example: Switch to the [Stable] update channel. -->
-<!ENTITY channel.selector.start          "Chuyển sang">
-<!ENTITY channel.selector.end            "kênh cập nhật.">
-
-<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
-     to a new update channel and starts the application update process. -->
-<!ENTITY channel.selector.applyButton    "Áp dụng và Cập nhật">
-<!ENTITY channel.selector.cancelButton   "Hủy bỏ">
+<!ENTITY channel.description.start  "Bạn hiện đang sử dụng kênh cập nhật ">
+<!ENTITY channel.description.end    ". ">
 
 <!ENTITY cmdCloseMac.commandKey "w">
+

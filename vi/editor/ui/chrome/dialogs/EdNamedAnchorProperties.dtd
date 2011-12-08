@@ -35,9 +35,10 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowTitle.label "Thuộc tính Thẻ neo Anchor">
+<!ENTITY windowTitle.label "Named Anchor Properties">
 <!ENTITY anchorNameEditField.label "Tên Anchor:">
 <!ENTITY anchorNameEditField.accessKey "A">
 <!ENTITY nameInput.tooltip "Nhập một tên cho thẻ neo anchor (đích) này">
+
 
 

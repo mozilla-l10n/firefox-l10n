@@ -1,6 +1,6 @@
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
 
-<!ENTITY MsgSynchronize.label "Tải và Đồng bộ Thư">
+<!ENTITY MsgSynchronize.label "Download and Sync Messages">
 <!ENTITY MsgSelect.label "Các mục để Sử dụng Ngoại tuyến">
 <!ENTITY MsgSyncDesc.label "Nếu bạn đã chọn thư mục hoặc nhóm tin để dùng ngoại tuyến, bạn có thể tải/đồng bộ chúng ngay bây giờ. Nếu chưa, hãy sử dụng nút &quot;Chọn&quot; để chọn thư mục thư và nhóm tin để dùng ngoại tuyến.">
 <!ENTITY MsgSyncDirections.label "Tải và/hoặc đồng bộ những mục sau:">

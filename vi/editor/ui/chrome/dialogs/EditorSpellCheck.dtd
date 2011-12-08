@@ -36,13 +36,13 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Kiểm tra Chính tả">
+<!ENTITY windowTitle.label "Check Spelling">
 
 <!ENTITY misspelledWord.label "Từ sai chính tả:">
 <!ENTITY wordEditField.label "Thay thế bằng:">
 <!ENTITY wordEditField.accessKey "T">
-<!ENTITY checkwordButton.label "Kiểm tra từ">
-<!ENTITY checkwordButton.accessKey "k">
+<!ENTITY checkwordButton.label "Kiểm Tra Từ">
+<!ENTITY checkwordButton.accessKey "K">
 <!ENTITY suggestions.label "Đề xuất:">
 <!ENTITY suggestions.accessKey "x">
 <!ENTITY ignoreButton.label "Bỏ qua">
@@ -57,7 +57,7 @@
 <!ENTITY stopButton.accessKey "D">
 <!ENTITY userDictionary.label "Từ điển Cá nhân:">
 <!ENTITY moreDictionaries.label "Tải thêm từ điển…">
-<!ENTITY addToUserDictionaryButton.label "Thêm từ">
+<!ENTITY addToUserDictionaryButton.label "Thêm Từ">
 <!ENTITY addToUserDictionaryButton.accessKey "m">
 <!ENTITY editUserDictionaryButton.label "Chỉnh sửa…">
 <!ENTITY editUserDictionaryButton.accessKey "C">
@@ -69,3 +69,4 @@
 <!ENTITY sendButton.accessKey "G">
 <!ENTITY languagePopup.label "Ngôn ngữ:">
 <!ENTITY languagePopup.accessKey "N">
+

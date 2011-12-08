@@ -40,8 +40,8 @@
 <!ENTITY PrimaryEmail.accesskey                "E">
 <!ENTITY Company.label                         "Tổ chức">
 <!ENTITY Company.accesskey                     "h">
-<!ENTITY _PhoneticName.label                   "Tên Kí Âm">
-<!ENTITY _PhoneticName.accesskey               "K">
+<!ENTITY _PhoneticName.label                   "Phonetic Name">
+<!ENTITY _PhoneticName.accesskey               "o">
 <!ENTITY NickName.label                        "Tên hiệu">
 <!ENTITY NickName.accesskey                    "i">
 <!ENTITY SecondEmail.label                     "Email Phụ">
@@ -66,3 +66,4 @@
 <!ENTITY sortAscending.accesskey               "u">
 <!ENTITY sortDescending.label                  "Ngược chiều">
 <!ENTITY sortDescending.accesskey              "g">
+

@@ -37,7 +37,8 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label     "Kiểm tra Địa chỉ Liên kết và Hình ảnh">
+<!ENTITY windowTitle.label     "Check Image and Link Locations">
 <!ENTITY succeeded.label       "Thành công">
 <!ENTITY failed.label          "Thất bại">
 <!ENTITY closeButton.label     "Đóng">
+

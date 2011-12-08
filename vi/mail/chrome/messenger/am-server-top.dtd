@@ -1,6 +1,6 @@
 <!-- extracted from am-server-top.xul -->
 
-<!ENTITY securitySettings.label "Thiết lập Bảo mật">
+<!ENTITY securitySettings.label "Security Settings">
 <!ENTITY serverSettings.label "Thiết lập Máy chủ">
 <!ENTITY serverType.label "Kiểu Máy Chủ:">
 <!ENTITY serverName.label "Tên Máy Chủ:">
@@ -76,3 +76,4 @@
 <!ENTITY newsrcPicker.label "Chọn Tập Tin newsrc">
 <!ENTITY browseNewsrc.label "Duyệt…">
 <!ENTITY browseNewsrc.accesskey "D">
+

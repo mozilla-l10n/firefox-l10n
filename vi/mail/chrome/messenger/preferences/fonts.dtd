@@ -16,7 +16,7 @@
 <!ENTITY  serif.label                             "Serif:">
 <!ENTITY  serif.accesskey                         "S">
 <!ENTITY  sans-serif.label                        "Sans-serif:">
-<!ENTITY  sans-serif.accesskey                    "a">
+<!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Giãn Cách Đơn:">
 <!ENTITY  monospace.accesskey                     "G">
 
@@ -74,3 +74,4 @@
 <!ENTITY viewDefaultCharsetList.accesskey  "N">
 <!ENTITY replyInDefaultCharset2.label     "Nếu được, dùng bảng mã mặc định trong thư trả lời">
 <!ENTITY replyInDefaultCharset2.accesskey "o">
+

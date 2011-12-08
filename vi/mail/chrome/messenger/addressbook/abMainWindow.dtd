@@ -69,7 +69,7 @@
 <!ENTITY swapFirstNameLastNameCmd.accesskey             "y">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
-<!ENTITY hideSwapFnLnUI "false">
+<!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesCmd.label                            "Thuộc tính…">
 <!ENTITY propertiesCmd.accesskey                        "u">
 <!ENTITY propertiesCmd.key                              "i">
@@ -79,18 +79,26 @@
 <!ENTITY viewMenu.accesskey                             "H">
 <!ENTITY viewToolbarsMenu.label                         "Thanh Công Cụ">
 <!ENTITY viewToolbarsMenu.accesskey                     "C"> 
+<!ENTITY menubarCmd.label                               "Menu Bar">
+<!ENTITY menubarCmd.accesskey                           "M">
 <!ENTITY showAbToolbarCmd.label                         "Thanh Sổ Địa Chỉ">
 <!ENTITY showAbToolbarCmd.accesskey                     "S">
 <!ENTITY showTaskbarCmd.label                           "Thanh Trạng Thái">
 <!ENTITY showTaskbarCmd.accesskey                       "a">
 <!ENTITY customizeToolbar.label                         "Tùy biến…">
 <!ENTITY customizeToolbar.accesskey                     "b">
-<!ENTITY showContactPane.label                          "Bảng tóm tắt Danh bạ">
-<!ENTITY showContactPane.accesskey                      "B">
+<!ENTITY layoutMenu.label                               "Layout">
+<!ENTITY layoutMenu.accesskey                           "L">
+<!ENTITY showDirectoryPane.label                        "Directory Pane">
+<!ENTITY showDirectoryPane.accesskey                    "D">
+<!ENTITY showContactPane2.label                         "Contact Pane">
+<!ENTITY showContactPane2.accesskey                     "C">
 <!ENTITY menu_ShowNameAs.label                          "Hiện Tên theo dạng">
 <!ENTITY menu_ShowNameAs.accesskey                      "T"> 
-<!ENTITY firstLastCmd.label                             "Tên, Họ">
-<!ENTITY firstLastCmd.accesskey                         "T"> 
+<!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
+because displayed names don't have the comma in between. -->
+<!ENTITY firstLastCmd2.label                            "First Last">
+<!ENTITY firstLastCmd2.accesskey                        "f"> 
 <!ENTITY lastFirstCmd.label                             "Họ, Tên">
 <!ENTITY lastFirstCmd.accesskey                         "H">
 <!ENTITY displayNameCmd.label                           "Tên Hiển Thị">
@@ -178,8 +186,8 @@
 <!ENTITY sortAscending.accesskey                        "i">
 <!ENTITY sortDescending.label                           "Ngược chiều">
 <!ENTITY sortDescending.accesskey                       "g">
-<!ENTITY _PhoneticName.label                            "Tên Kí Âm">
-<!ENTITY _PhoneticName.accesskey                        "K">
+<!ENTITY _PhoneticName.label                            "Phonetic Name">
+<!ENTITY _PhoneticName.accesskey                        "o">
 
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
@@ -204,3 +212,4 @@
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Đưa Tất Cả ra Tiền Cảnh">
 <!ENTITY zoomWindow.label "Thu phóng">
+

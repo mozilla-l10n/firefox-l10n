@@ -1,6 +1,6 @@
 <!-- extracted from AccountManager.xul -->
 
-<!ENTITY accountManagerTitle.label "Thiết lập Tài khoản">
+<!ENTITY accountManagerTitle.label "Account Settings">
 
 <!ENTITY accountActionsButton.label "Thao tác trên Tài khoản">
 <!ENTITY accountActionsButton.accesskey "a">
@@ -24,3 +24,4 @@
      this window for en-US. -->
 <!ENTITY accountManager.size "width: 105ch; height: 55em;">
 <!ENTITY accountTree.width "width: 31ch;">
+

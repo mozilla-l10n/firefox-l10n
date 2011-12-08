@@ -40,11 +40,12 @@
 <!-- This button is for the progressive disclosure of additional editing functionality -->
 
 <!-- These strings are for use specifically in the editor's link dialog. -->
-<!ENTITY windowTitle.label "Lưu và Thay đổi Bảng mã">
+<!ENTITY windowTitle.label "Save And Change Character Encoding">
 <!ENTITY documentTitleTitle.label "Tiêu đề Trang">
 <!ENTITY documentCharsetTitle.label "Bảng mã">
 <!ENTITY documentCharsetDesc.label "Chọn bảng mã mà bạn muốn dùng để lưu tài liệu:">
 <!ENTITY documentExportToText.label "Xuất thành Văn bản">
+
 
 
 

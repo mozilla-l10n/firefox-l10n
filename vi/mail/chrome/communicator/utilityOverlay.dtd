@@ -2,7 +2,7 @@
 
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
-<!ENTITY fileMenu.label          "Tập tin">
+<!ENTITY fileMenu.label          "File">
 <!ENTITY fileMenu.accesskey        "T">
 <!ENTITY newMenu.label            "Mới">
 <!ENTITY newMenu.accesskey          "M">
@@ -57,3 +57,4 @@
 
 <!ENTITY quitApplicationCmdMac.label  "Thoát &brandShortName;">
 <!ENTITY quitApplicationCmdMac.accesskey  "o">
+

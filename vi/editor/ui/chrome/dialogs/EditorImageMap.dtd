@@ -40,7 +40,7 @@
 <!-- These strings are for use specifically in the editor's image map dialog. -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Chỉnh sửa Bản đồ Hình ảnh">
+<!ENTITY windowTitle.label "Image Map Editor">
 
 <!-- Menu Items -->
 <!-- File menu -->
@@ -92,3 +92,4 @@
 <!ENTITY paste.key "v">
 <!ENTITY props.key "p">
 <!ENTITY tbar.key "t">
+

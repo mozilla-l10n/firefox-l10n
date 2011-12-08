@@ -1,6 +1,6 @@
 <!-- extracted from am-copies.xul -->
 
-<!ENTITY copyAndFolderTitle.label "Bản sao &amp; Thư mục">
+<!ENTITY copyAndFolderTitle.label "Copies &amp; Folders">
 <!ENTITY sendingPrefix.label "Khi gửi thư, tự động: ">
 <!ENTITY fccMailFolder.label "Đặt một bản sao trong:">
 <!ENTITY fccMailFolder.accesskey "s">
@@ -44,3 +44,4 @@
 <!ENTITY templatesFolderOn.accesskey "m">
 <!ENTITY templateInOtherFolder.label "Khác:">
 <!ENTITY templateInOtherFolder.accesskey "c">
+

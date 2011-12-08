@@ -35,7 +35,7 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY newDirectoryTitle.label           "Thuộc tính Máy chủ Thư mục">
+<!ENTITY newDirectoryTitle.label           "Directory Server Properties">
 <!ENTITY directoryName.label               "Tên: ">
 <!ENTITY directoryName.accesskey           "T">
 <!ENTITY directoryHostname.label           "Tên máy chủ: ">
@@ -77,3 +77,4 @@
      to vary somewhat with the language.
 -->
 <!ENTITY newDirectoryWidth                 "36em">
+
