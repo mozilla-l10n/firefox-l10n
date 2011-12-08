@@ -1,14 +1,14 @@
 <!--
 # Translator(s):
 #
-# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+# Tomer Cohen <tomer.mozilla@tomercohen.com>
 # amire80 <amir.aharoni@mail.huji.ac.il>
 #
 -->
 <!--
 # Reviewer(s):
 #
-# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+# Tomer Cohen <tomer.mozilla@tomercohen.com>
 #
 -->
 <!ENTITY  fontsAndEncodingsDialog.title           "גופנים וקידודים">
@@ -87,5 +87,4 @@
 <!ENTITY viewDefaultCharsetList.accesskey  "נ">
 <!ENTITY replyInDefaultCharset2.label     "במידת האפשר, עשה שימוש בקידוד ברירת המחדל בתשובות">
 <!ENTITY replyInDefaultCharset2.accesskey "ש">
-
 

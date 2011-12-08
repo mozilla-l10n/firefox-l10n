@@ -1,3 +1,9 @@
+<!--
+# Reviewer(s):
+#
+# Tomer Cohen <tomer.mozilla@tomercohen.com>
+#
+-->
 <!-- extracted from am-addressing.xul -->
 
 <!ENTITY addressing.label          "חיבור ומיעון הודעה">
@@ -35,5 +41,4 @@
 <!ENTITY includeSigOnReply.accesskey          "ת">
 <!ENTITY includeSigOnForward.label            "כלול חתימה בהעברות">
 <!ENTITY includeSigOnForward.accesskey        "ע">
-
 

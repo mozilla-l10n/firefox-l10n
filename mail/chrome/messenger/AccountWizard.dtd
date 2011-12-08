@@ -3,6 +3,8 @@
 #
 # http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
 # Yaron <sh.yaron@gmail.com>
+# ace <isabag@walla.com>
+# hatul <amiadb@gmail.com>
 #
 -->
 <!--
@@ -18,9 +20,9 @@
 
 <!-- Entities for Account Type page -->
 
-<!ENTITY accountSetupInfo.label "כדי לקבל הודעות, עליך תחילה להגדיר חשבון דואר או קבוצות דיון.">
+<!ENTITY accountSetupInfo2.label "בכדי לקבל הודעות, עליך להגדיר חשבון תחילה.">
 <!ENTITY accountTypeTitle.label "התקנת חשבון חדש">
-<!ENTITY accountTypeDesc.label "אשף זה יאסוף את המידע הנחוץ כדי ליצור חשבון דואר או חשבון קבוצות דיון. אם אינך יודע את המידע הנדרש, אנא צור קשר עם מנהל המערכת או ספק האינטרנט שלך.">
+<!ENTITY accountTypeDesc2.label "אשף זה יאסוף את המידע הנחוץ להגדרת חשבון. אם אינך יודע את המידע המבוקש, נא פנה למנהל המערכת או לספק האינטרנט שלך.">
 <!ENTITY accountTypeDirections.label "בחר בסוג החשבון שברצונך להגדיר:">
 <!ENTITY accountTypeMail.label "חשבון דוא״ל">
 <!ENTITY accountTypeMail.accesskey "ד">
@@ -125,5 +127,4 @@
 <!ENTITY deferStorage.accesskey "כ">
 <!ENTITY clickFinish.label "לחץ על סיום כדי לשמור הגדרות אלה ולצאת מאשף החשבונות.">
 <!ENTITY clickFinish.labelMac "לחץ על סיום כדי לשמור את ההגדרות הללו ולצאת מאשף החשבונות.">
-
 

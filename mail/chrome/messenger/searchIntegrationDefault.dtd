@@ -1,5 +1,16 @@
+<!--
+# Translator(s):
+#
+# Tomer Cohen <tomer.mozilla@tomercohen.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Tomer Cohen <tomer.mozilla@tomercohen.com>
+#
+-->
 <!-- LOCALIZATION NOTE: This is the search engine name for platforms that don't
      support it, and should be left blank -->
-<!ENTITY searchIntegration.engineName "">
-
+<!ENTITY searchIntegration.engineName " ">
 

@@ -1,3 +1,9 @@
+<!--
+# Reviewer(s):
+#
+# hatul <amiadb@gmail.com>
+#
+-->
 <!-- extracted from am-advanced.xul -->
 
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
@@ -21,5 +27,4 @@
 <!ENTITY userName.label   "שם משתמש: ">
 <!ENTITY connectionSecurity.label "קישור מאובטח: ">
 <!ENTITY authMethod.label   "צורת אימות: ">
-
 

@@ -7,7 +7,7 @@
 <!--
 # Reviewer(s):
 #
-# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+# Tomer Cohen <tomer.mozilla@tomercohen.com>
 #
 -->
 <!ENTITY itemGeneral.label                   "כללי">
@@ -67,5 +67,4 @@
 <!ENTITY attachmentReminder.accesskey          "ח">
 <!ENTITY attachmentReminderOptions.label       "מילות מפתח…">
 <!ENTITY attachmentReminderOptions.accesskey   "מ">
-
 

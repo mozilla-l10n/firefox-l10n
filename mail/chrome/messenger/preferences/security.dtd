@@ -11,7 +11,7 @@
 <!ENTITY itemCookies.label       "תוכן רשת">
 
 <!-- Junk Mail Controls -->
-<!ENTITY junkMail.intro "קבע את הגדרות ברירת המחדל שלך לדואר זבל. הגדרות דואר זבל ייחודיות לכל חשבון ניתנות להגדרה בהגדרות החשבון.">
+<!ENTITY junkMail.intro "קבע את הגדרות ברירת המחדל שלך לדואר זבל. הגדרות דואר זבל יחודיות לכל חשבון ניתנות להגדרה בהגדרות החשבון.">
 <!ENTITY manualMark.label "כאשר אני מסמן הודעות כזבל:">
 <!ENTITY manualMark.accesskey "ז">
 <!ENTITY manualMarkModeMove.label "העבר לתיקיית &quot;דואר זבל&quot; של החשבון">
@@ -62,6 +62,5 @@
 <!ENTITY cookieExceptions.accesskey     "ח">
 <!ENTITY showCookies.label              "הצג עוגיות…">
 <!ENTITY showCookies.accesskey          "צ">
-
 
 
