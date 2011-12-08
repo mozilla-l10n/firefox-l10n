@@ -1,4 +1,4 @@
-<!ENTITY aboutHome.header                       "<span>&brandShortName; </span><span id='header-suffix'>Başlat</span>">
+<!ENTITY aboutHome.header                       "<span>&brandShortName; </span><span id='header-suffix'>Başlangıç</span>">
 <!ENTITY aboutHome.recentTabs                   "Son oturumunuzdaki sekmeler">
 <!ENTITY aboutHome.remoteTabs                   "Diğer bilgisayarlarınızdaki sekmeler">
 <!ENTITY aboutHome.recommendedAddons2           "&brandShortName; için ekletiler">

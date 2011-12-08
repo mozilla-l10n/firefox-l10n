@@ -5,7 +5,7 @@
 <!ENTITY sync.details               "Ayrıntılar">
 <!ENTITY sync.deviceName            "Bu cihaz">
 <!ENTITY sync.disconnect            "Bağlantıyı kes">
-<!ENTITY sync.syncNow               "Şimdi Eşitle">
+<!ENTITY sync.syncNow               "Şimdi eşitle">
 
 <!ENTITY sync.setup.title           "Eşitleme sunucusuna bağlan">
 <!ENTITY sync.setup.pair            "Etkinleştirmek için, diğer aygıtınızdan &#x0022;Aygıt eşleştir&#x0022;i seçin.">
