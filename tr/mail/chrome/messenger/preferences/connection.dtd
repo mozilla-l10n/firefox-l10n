@@ -32,7 +32,12 @@
 <!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "Vekil sunucu kullanma">
 <!ENTITY  noproxy.accesskey             "n">
+<<<<<<< local
+<!ENTITY  noproxyExplain.label          "Örnek: .mozilla.org, .net.tr, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Bu vekil sunucuyu bütün protokollerde kullan">
+=======
 <!ENTITY  noproxyExplain.label          "Örnek: .linux-sevenler.org">
 <!ENTITY  shareproxy.label              "Vekil sunucuyu bütün protokollerde kullan">
+>>>>>>> other
 <!ENTITY  shareproxy.accesskey          "V">
 

@@ -3,7 +3,11 @@
 <!ENTITY enableStartPage.accesskey        "g">
 <!ENTITY location.label                   "Konum:">
 <!ENTITY location1.accesskey               "o">
+<<<<<<< local
+<!ENTITY useDefault.label                 "Varsayılanı yükle">
+=======
 <!ENTITY useDefault.label                 "Öntanımlıyı yükle">
+>>>>>>> other
 <!ENTITY useDefault.accesskey             "g">
 
 <!ENTITY bounceSystemDockIcon.label       "Küçük simgeyi oynat">

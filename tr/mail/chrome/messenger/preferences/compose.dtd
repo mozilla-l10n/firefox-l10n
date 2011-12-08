@@ -21,15 +21,27 @@
 <!ENTITY restoreHTMLDefaults.label            "Öntanımlıları geri yükle">
 <!ENTITY restoreHTMLDefaults.accesskey        "g">
 
+<<<<<<< local
+<!ENTITY spellCheck.label                     "Göndermeden önce imla denetimi yap">
+=======
 <!ENTITY spellCheck.label                     "Yazım hatalarını göndermeden önce kontrol et">
+>>>>>>> other
 <!ENTITY spellCheck.accesskey                 "a">
+<<<<<<< local
+<!ENTITY spellCheckInline.label               "Yazma sırasında imla denetimini etkinleştir">
+=======
 <!ENTITY spellCheckInline.label               "Yazı esnasında imla denetimini etkinleştir">
+>>>>>>> other
 <!ENTITY spellCheckInline1.accesskey          "k">
 <!ENTITY languagePopup.label                  "Diller:">
 <!ENTITY languagePopup.accessKey              "D">
 <!ENTITY downloadDictionaries.label           "Diğer sözlükleri indir">
 
+<<<<<<< local
+<!ENTITY warnOnSendAccelKey.label             "İleti göndermek için klavye kısayolu kullanıldığında onay iste">
+=======
 <!ENTITY warnOnSendAccelKey.label             "Kısayol tuşları ileti göndermek için kullanılırsa onayla">
+>>>>>>> other
 <!ENTITY warnOnSendAccelKey.accesskey         "K">
 <!ENTITY autoSave.label                       "Her ">
 <!ENTITY autoSave.accesskey                   "e">
