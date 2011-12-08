@@ -87,12 +87,16 @@
 <!ENTITY showTaskbarCmd.accesskey "S">
 <!ENTITY customizeToolbar.label "Tilpas…">
 <!ENTITY customizeToolbar.accesskey "T">
-<!ENTITY showContactPane.label         "Indholdsrude">
-<!ENTITY showContactPane.accesskey "I">
+<!ENTITY layoutMenu.label "Layout">
+<!ENTITY layoutMenu.accesskey "L">
+<!ENTITY showDirectoryPane.label "Mapperude">
+<!ENTITY showDirectoryPane.accesskey "D">
+<!ENTITY showContactPane2.label         "Indholdsrude">
+<!ENTITY showContactPane2.accesskey "I">
 <!ENTITY menu_ShowNameAs.label "Vis navn som">
 <!ENTITY menu_ShowNameAs.accesskey "n">
-<!ENTITY firstLastCmd.label "Fornavn efternavn">
-<!ENTITY firstLastCmd.accesskey "F">
+<!ENTITY firstLastCmd2.label "Fornavn efternavn">
+<!ENTITY firstLastCmd2.accesskey "F">
 <!ENTITY lastFirstCmd.label "Efternavn fornavn">
 <!ENTITY lastFirstCmd.accesskey "E">
 <!ENTITY displayNameCmd.label "Vis navn">

@@ -118,6 +118,8 @@
 <!ENTITY deleteAllAttachmentsCmd.label    "Slet alle…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "t">
 
+<!ENTITY openAttachment.tooltip "Åbn den vedhæftede fil">
+
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Gem">
 <!ENTITY saveAttachmentButton1.tooltip     "Gem den vedhæftede fil">

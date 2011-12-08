@@ -26,8 +26,10 @@
 <!ENTITY newVirtualFolderCmd.accesskey "t">
 <!ENTITY newOtherAccountsCmd.label "Andre konti…">
 <!ENTITY newOtherAccountsCmd.accesskey "i">
-<!ENTITY newEmailAccountCmd.label "Mailkonto…">
-<!ENTITY newEmailAccountCmd.accesskey "o">
+<!ENTITY newCreateEmailAccountCmd.label "Ny mailkonto…">
+<!ENTITY newCreateEmailAccountCmd.accesskey "N">
+<!ENTITY newExistingEmailAccountCmd.label "Eksisterende mailkonto…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "E">
 <!ENTITY openMessageFileCmd.label "Åbn gemt meddelelse…">
 <!ENTITY openMessageFileCmd.accesskey "g">
 <!ENTITY openAttachmentCmd.label "Åbn…">
@@ -137,6 +139,8 @@
 <!ENTITY messagePaneWide.accesskey "B">
 <!ENTITY messagePaneVertical.label "Lodret udseende">
 <!ENTITY messagePaneVertical.accesskey "L">
+<!ENTITY showFolderPaneCmd.label "Mapperude">
+<!ENTITY showFolderPaneCmd.accesskey "a">
 <!ENTITY showMessageCmd.label "Meddelelsesrude">
 <!ENTITY showMessageCmd.accesskey "M">
 
