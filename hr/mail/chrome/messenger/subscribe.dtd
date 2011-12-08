@@ -35,21 +35,21 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY subscribeDialog.title        "Subscribe">
-<!ENTITY subscribeButton.label        "Subscribe">
-<!ENTITY subscribeButton.accesskey    "S">
-<!ENTITY unsubscribeButton.label      "Unsubscribe">
-<!ENTITY unsubscribeButton.accesskey  "U">
-<!ENTITY newGroupsTab.label           "New Groups">
-<!ENTITY newGroupsTab.accesskey       "N">
-<!ENTITY refreshButton.label          "Refresh">
-<!ENTITY refreshButton.accesskey      "R">
-<!ENTITY stopButton.label             "Stop">
-<!ENTITY stopButton.accesskey         "T">
-<!ENTITY server.label                 "Account:">
-<!ENTITY server.accesskey             "A">
-<!ENTITY subscribedHeader.label       "Subscribe">
+<!ENTITY subscribeDialog.title        "Pretplati se">
+<!ENTITY subscribeButton.label        "Pretplati se">
+<!ENTITY subscribeButton.accesskey    "P">
+<!ENTITY unsubscribeButton.label      "Otkaži pretplatu">
+<!ENTITY unsubscribeButton.accesskey  "O">
+<!ENTITY newGroupsTab.label           "Interesne grupe">
+<!ENTITY newGroupsTab.accesskey       "n">
+<!ENTITY refreshButton.label          "Osvježi">
+<!ENTITY refreshButton.accesskey      "s">
+<!ENTITY stopButton.label             "Zaustavi">
+<!ENTITY stopButton.accesskey         "t">
+<!ENTITY server.label                 "Račun:">
+<!ENTITY server.accesskey             "a">
+<!ENTITY subscribedHeader.label       "Pretplati se">
 <!-- commenting out until bug 38906 is fixed 
-<!ENTITY messagesHeader.label         "Messages"> -->
-<!ENTITY namefield.label              "Show items that contain:">
-<!ENTITY namefield.accesskey          "O">
+<!ENTITY messagesHeader.label         "Poruke"> -->
+<!ENTITY namefield.label              "Prikaži stavke koje sadrže:">
+<!ENTITY namefield.accesskey          "r">
