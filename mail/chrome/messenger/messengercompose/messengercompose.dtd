@@ -10,7 +10,11 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "P">
+<<<<<<< local
+<!ENTITY newContact.label "Adres defteri kişisi…">
+=======
 <!ENTITY newContact.label "Adres defteri adresi.…">
+>>>>>>> other
 <!ENTITY newContact.accesskey "A">
 <!ENTITY attachMenu.label "Ek">
 <!ENTITY attachMenu.accesskey "E">
@@ -34,7 +38,11 @@
 <!ENTITY saveAsFileCmd.accesskey "o">
 <!ENTITY saveAsDraftCmd.label "Taslak">
 <!ENTITY saveAsDraftCmd.accesskey "T">
+<<<<<<< local
+<!ENTITY saveAsTemplateCmd.label "Şablon">
+=======
 <!ENTITY saveAsTemplateCmd.label "Geçici">
+>>>>>>> other
 <!ENTITY saveAsTemplateCmd.accesskey "c">
 <!ENTITY sendNowCmd.label "Şimdi gönder">
 <!ENTITY sendCmd.keycode "VK_RETURN">
@@ -139,9 +147,17 @@
 <!ENTITY plainTextFormatCmd.accesskey "c">
 <!ENTITY htmlFormatCmd.label "Sadece zengin metin olarak (HTML)">
 <!ENTITY htmlFormatCmd.accesskey "z">
+<<<<<<< local
+<!ENTITY bothFormatCmd.label "Düz ve zengin (HTML) metin">
+=======
 <!ENTITY bothFormatCmd.label "Düzgün ve Zengin (HTML) Metin">
+>>>>>>> other
 <!ENTITY bothFormatCmd.accesskey "Z">
+<<<<<<< local
+<!ENTITY priorityMenu.label "Öncelik">
+=======
 <!ENTITY priorityMenu.label "Önemlilik">
+>>>>>>> other
 <!ENTITY priorityMenu.accesskey "Ö">
 <!ENTITY priorityButton.label "Önemlilik:">
 <!ENTITY lowestPriorityCmd.label "En düşük">

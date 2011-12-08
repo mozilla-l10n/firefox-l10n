@@ -112,7 +112,11 @@
 <!ENTITY openAllAttachmentsCmd.accesskey    "n">
 <!ENTITY saveAllAttachmentsCmd.label    "Tümünü kaydet…">
 <!ENTITY saveAllAttachmentsCmd.accesskey    "e">
+<<<<<<< local
+<!ENTITY detachAllAttachmentsCmd.label    "Tümünü ayır…">
+=======
 <!ENTITY detachAllAttachmentsCmd.label    "Tümünü çıkart…">
+>>>>>>> other
 <!ENTITY detachAllAttachmentsCmd.accesskey    "T">
 <!ENTITY deleteAllAttachmentsCmd.label    "Tümünü sil…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "m">

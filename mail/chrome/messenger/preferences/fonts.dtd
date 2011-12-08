@@ -61,7 +61,11 @@
 <!ENTITY  fontControl.label                       "Yazı tipi denetimi">
 <!ENTITY  useFixedWidthForPlainText.label         "Düz metin iletilerde sabit genişlikli yazı tipi kullan">
 <!ENTITY  fixedWidth.accesskey                    "l">
+<<<<<<< local
+<!ENTITY  useDocumentFonts.label                  "İletilerin diğer yazı tiplerini kullanmasına izin ver">
+=======
 <!ENTITY  useDocumentFonts.label                  "Mesajların diğer yazıtiplerini kullanmasına izin ver">
+>>>>>>> other
 <!ENTITY  useDocumentFonts.accesskey              "a">
 
 <!-- Language settings -->

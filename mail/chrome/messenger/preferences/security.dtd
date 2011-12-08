@@ -18,7 +18,11 @@
 <!ENTITY enableJunkLogging.accesskey "e">
 <!ENTITY openJunkLog.label "Günlüğü göster">
 <!ENTITY openJunkLog.accesskey "G">
+<<<<<<< local
+<!ENTITY resetTrainingData.label "Eğitim verilerini sıfırla">
+=======
 <!ENTITY resetTrainingData.label "Ögrenilmiş verileri sil">
+>>>>>>> other
 <!ENTITY resetTrainingData.accesskey "r">
 
 <!-- Phishing Detector -->

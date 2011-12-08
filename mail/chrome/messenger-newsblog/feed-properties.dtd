@@ -4,7 +4,11 @@
 <!ENTITY feedFolder.label         "Kayıtlı canlı yer imleri: ">
 <!ENTITY feedFolder.accesskey     "y">
 
+<<<<<<< local
+<!ENTITY feedLocation.label       "Besleme adresi: ">
+=======
 <!ENTITY feedLocation.label       "Canlı yer imi adresi: ">
+>>>>>>> other
 <!ENTITY feedLocation.accesskey   "C">
 
 <!ENTITY choosethisfolder.label   "bu dizini seç">

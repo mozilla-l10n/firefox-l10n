@@ -1,8 +1,16 @@
 <!ENTITY matchAll.label     "Bunların hepsine uysun.">
 <!ENTITY matchAll.accesskey "n">
+<<<<<<< local
+<!ENTITY matchAny.label     "Aşağıdakilerin herhangi biriyle eşleştir">
+=======
 <!ENTITY matchAny.label     "Bunlardan birisine uysun.">
+>>>>>>> other
 <!ENTITY matchAny.accesskey "u">
+<<<<<<< local
+<!ENTITY matchAllMsgs.label     "Tüm iletilerle eşleştir">
+=======
 <!ENTITY matchAllMsgs.label     "Bütün iletiler uysun">
+>>>>>>> other
 <!ENTITY matchAllMsgs.accesskey "B">
 
 <!-- LOCALIZATION NOTE  

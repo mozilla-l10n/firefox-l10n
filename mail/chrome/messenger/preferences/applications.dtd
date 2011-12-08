@@ -11,7 +11,11 @@
 
 <!ENTITY saveTo.label                 "Dosyaları kaydetme konumu">
 <!ENTITY saveTo.accesskey             "k">
+<<<<<<< local
+<!ENTITY alwaysAsk.label              "Dosyaların nereye kaydedileceğini her zaman sor">
+=======
 <!ENTITY alwaysAsk.label              "Kaydetme konumu için bana sor">
+>>>>>>> other
 <!ENTITY alwaysAsk.accesskey          "K">
 <!ENTITY chooseFolderWin.label        "Gözat…">
 <!ENTITY chooseFolderWin.accesskey    "G">
