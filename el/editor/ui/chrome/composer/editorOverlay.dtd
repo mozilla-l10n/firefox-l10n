@@ -42,6 +42,9 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
+<!-- File menu items -->
+<!ENTITY saveCmd.key "S">
+
 <!ENTITY pasteNoFormatting.label "Επικόλληση χωρίς μορφοποίηση">
 <!ENTITY pasteNoFormatting.accesskey "κ">
 <!ENTITY pasteNoFormatting.key "V">
@@ -164,7 +167,6 @@
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Απομάκρυνση αγκυρών με όνομα">
 <!ENTITY formatRemoveNamedAnchors.accesskey "ρ">
-<!ENTITY formatRemoveNamedAnchors.key "A">
 <!ENTITY paragraphMenu.label "Παράγραφος">
 <!ENTITY paragraphMenu.accesskey "γ">
 <!ENTITY paragraphParagraphCmd.label "Παράγραφος">
