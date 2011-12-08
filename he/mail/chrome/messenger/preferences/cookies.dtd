@@ -1,13 +1,13 @@
 <!--
 # Translator(s):
 #
-# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+# Tomer Cohen <tomer.mozilla@tomercohen.com>
 #
 -->
 <!--
 # Reviewer(s):
 #
-# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+# Tomer Cohen <tomer.mozilla@tomercohen.com>
 #
 -->
 <!ENTITY window.width                      "36em">
@@ -37,6 +37,5 @@
 
 <!ENTITY button.close.label                "סגירה">
 <!ENTITY button.close.accesskey            "ס">
-
 
 

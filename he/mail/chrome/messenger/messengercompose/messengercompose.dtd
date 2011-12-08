@@ -1,14 +1,14 @@
 <!--
 # Translator(s):
 #
-# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+# Tomer Cohen <tomer.mozilla@tomercohen.com>
 # Yaron <sh.yaron@gmail.com>
 #
 -->
 <!--
 # Reviewer(s):
 #
-# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+# Tomer Cohen <tomer.mozilla@tomercohen.com>
 #
 -->
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
@@ -29,6 +29,7 @@
 <!ENTITY attachMenu.accesskey "ר">
 <!ENTITY attachFileCmd.label "קובץ (קבצים)…">
 <!ENTITY attachFileCmd.accesskey "ק">
+<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachPageCmd.label "דף אינטרנט…">
 <!ENTITY attachPageCmd.accesskey "א">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -105,6 +106,8 @@
 <!ENTITY viewMenu.accesskey "ת">
 <!ENTITY viewToolbarsMenuNew.label "סרגלי כלים"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "כ"> 
+<!ENTITY menubarCmd.label "סרגל תפריטים">
+<!ENTITY menubarCmd.accesskey "ת">
 <!ENTITY showCompositionToolbarCmd.label "סרגל כלים כתיבה">
 <!ENTITY showCompositionToolbarCmd.accesskey "כ">
 <!ENTITY showFormattingBarCmd.label "סרגל עיצוב">
@@ -228,7 +231,7 @@
 <!ENTITY subject.accesskey "נ">
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
      to the strings in attachmentCount in composeMsgs.properties -->
-<!ENTITY attachments.accesskey "c">
+<!ENTITY attachments.accesskey "מ">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "הכנס פרצוף מחייך">
@@ -287,6 +290,5 @@
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "אנשי קשר">
-
 
 

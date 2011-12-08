@@ -1,13 +1,13 @@
 <!--
 # Translator(s):
 #
-# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+# Tomer Cohen <tomer.mozilla@tomercohen.com>
 #
 -->
 <!--
 # Reviewer(s):
 #
-# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+# Tomer Cohen <tomer.mozilla@tomercohen.com>
 #
 -->
 <!-- ***** BEGIN LICENSE BLOCK *****
@@ -89,3 +89,4 @@
      to vary somewhat with the language.
 -->
 <!ENTITY newDirectoryWidth                 "36em">
+

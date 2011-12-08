@@ -1,6 +1,6 @@
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
-<!ENTITY menu_securityEncryptRequire.label "הצפן הודעה זו">
+<!ENTITY menu_securityEncryptRequire.label "הצפנת הודעה זו">
 <!ENTITY menu_securityEncryptRequire.accesskey "צ">
 
 <!ENTITY menu_securitySign.label "חתום הודעה זו חתימה דיגיטלית">
@@ -14,5 +14,4 @@
 
 <!ENTITY menu_viewSecurityStatus.label "מידע על אבטחת הודעה">
 <!ENTITY menu_viewSecurityStatus.accesskey "מ">
-
 

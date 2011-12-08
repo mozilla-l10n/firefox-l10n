@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# Tomer Cohen <tomer.mozilla@tomercohen.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Tomer Cohen <tomer.mozilla@tomercohen.com>
+# hatul <amiadb@gmail.com>
+#
+-->
 <!-- extracted from am-main.xul -->
 
 <!ENTITY accountTitle.label "הגדרות חשבון">
@@ -11,6 +24,7 @@
 <!ENTITY email.accesskey "ד">
 <!ENTITY replyTo.label "כתובת לתשובה:">
 <!ENTITY replyTo.accesskey "ת">
+<!ENTITY replyTo.placeholder "ממוענים יגיבו לכתובת חלופית זו">
 <!ENTITY organization.label "ארגון:">
 <!ENTITY organization.accesskey "א">
 <!ENTITY signatureText.label "טקסט לחתימה:">
@@ -35,5 +49,4 @@
 <!ENTITY smtpName.label "שרת דואר יוצא (SMTP):">
 <!ENTITY smtpName.accesskey "S">
 <!ENTITY smtpDefaultServer.label "השתמש בשרת ברירת המחדל">
-
 

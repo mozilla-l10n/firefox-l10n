@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# Yaron <sh.yaron@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# hatul <amiadb@gmail.com>
+#
+-->
 <!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
 
 <!ENTITY viewPicker.label "הצג:">
@@ -16,5 +28,4 @@
 <!ENTITY viewVirtualFolder.accesskey "ש">
 <!ENTITY viewCustomizeView.label "התאמה אישית…">
 <!ENTITY viewCustomizeView.accesskey "ה">
-
 

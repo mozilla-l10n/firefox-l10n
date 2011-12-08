@@ -37,8 +37,10 @@
 <!ENTITY newVirtualFolderCmd.accesskey "פ">
 <!ENTITY newOtherAccountsCmd.label "חשבונות אחרים…">
 <!ENTITY newOtherAccountsCmd.accesskey "א">
-<!ENTITY newEmailAccountCmd.label "חשבון דואר…">
-<!ENTITY newEmailAccountCmd.accesskey "ד">
+<!ENTITY newCreateEmailAccountCmd.label "קבלת חשבון דואר חדש…">
+<!ENTITY newCreateEmailAccountCmd.accesskey "ח">
+<!ENTITY newExistingEmailAccountCmd.label "חשבון דואר קיים…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "ק">
 <!ENTITY openMessageFileCmd.label "פתח הודעה שמורה…">
 <!ENTITY openMessageFileCmd.accesskey "ת">
 <!ENTITY openAttachmentCmd.label "קבצים מצורפים">
@@ -133,6 +135,8 @@
 <!ENTITY redoDefaultCmd.accesskey "צ">
 
 <!-- View Menu -->
+<!ENTITY menubarCmd.label "שורת תפריט">
+<!ENTITY menubarCmd.accesskey "ש">
 <!ENTITY showMessengerToolbarCmd.label "סרגל כלים דואר">
 <!ENTITY showMessengerToolbarCmd.accesskey "ס">
 <!ENTITY customizeToolbar.label "התאמה אישית…">
@@ -146,6 +150,8 @@
 <!ENTITY messagePaneWide.accesskey "ח">
 <!ENTITY messagePaneVertical.label "תצוגה אנכית">
 <!ENTITY messagePaneVertical.accesskey "א">
+<!ENTITY showFolderPaneCmd.label "לוח תיקיות">
+<!ENTITY showFolderPaneCmd.accesskey "ת">
 <!ENTITY showMessageCmd.label "חלונית הודעה">
 <!ENTITY showMessageCmd.accesskey "ה">
 
@@ -238,8 +244,8 @@
 <!ENTITY bodySanitized.accesskey "פ">
 <!ENTITY bodyAsPlaintext.label "כטקסט פשוט">
 <!ENTITY bodyAsPlaintext.accesskey "ט">
-  <!ENTITY bodyAllParts.label "כל חלקי הגוף">
-  <!ENTITY bodyAllParts.accesskey "ג">
+<!ENTITY bodyAllParts.label "כל חלקי הגוף">
+<!ENTITY bodyAllParts.accesskey "ג">
 
 <!ENTITY bodyMenuFeed.label "גוף הודעות הזנה בתור">
 <!ENTITY bodyMenuFeed.accesskey "ז">
@@ -262,7 +268,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.label       "התקרבות">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "ה">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!-- + is above this key on many keyboards --><!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "התרחקות">
@@ -283,6 +289,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageSourceCmd.label "קוד מקור ההודעה">
 <!ENTITY pageSourceCmd.accesskey "מ">
 <!ENTITY pageSourceCmd.key "u">
+<!ENTITY getNewMessagesCmd.key "y">
+<!ENTITY getAllNewMessagesCmd.key "Y">
 
 <!-- Search Menu -->
 <!ENTITY findMenu.label "מצא">
@@ -512,12 +520,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY previousButton.label "קודם">
 <!ENTITY backButton1.label "אחורה">
 <!ENTITY goForwardButton1.label "קדימה">
+<!ENTITY deleteItem.title "מחיקה">
 <!ENTITY deleteButton.label "מחק">
 <!ENTITY undeleteButton.label "בטל מחיקה">
 <!ENTITY markButton.label "סמן">
 <!ENTITY printButton.label "הדפסה">
 <!ENTITY stopButton.label "עצור">
 <!ENTITY throbberItem.title "מחוון פעילות">
+<!ENTITY junkItem.title "זבל">
 <!ENTITY junkButton.label "דואר זבל">
 <!ENTITY notJunkButton.label "לא זבל">
 <!ENTITY addressBookButton.label "ספר כתובות">
@@ -876,5 +886,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY hideOtherAppsCmdMac.commandkey "א">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "הצג הכול">
-
 

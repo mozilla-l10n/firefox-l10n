@@ -1,13 +1,13 @@
 <!--
 # Translator(s):
 #
-# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+# Tomer Cohen <tomer.mozilla@tomercohen.com>
 #
 -->
 <!--
 # Reviewer(s):
 #
-# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+# Tomer Cohen <tomer.mozilla@tomercohen.com>
 #
 -->
 <!ENTITY itemGeneral.label       "כללי">
@@ -18,6 +18,9 @@
 
 <!-- General Settings -->
 
+<!ENTITY submitTelemetry.label         "שליחת נתוני ביצועים">
+<!ENTITY submitTelemetry.accesskey     "ב">
+<!ENTITY telemetryInfoLink.label       "מידע נוסף על Telemetry">
 <!ENTITY enableGlodaSearch.label       "אפשר חיפוש גלובלי ואינדוקס">
 <!ENTITY enableGlodaSearch.accesskey   "ח">
 <!ENTITY systemIntegration.label       "השתלבות במערכת">
@@ -118,5 +121,4 @@
 <!ENTITY validation.accesskey           "א">
 <!ENTITY viewSecurityDevices.label      "התקני אבטחה">
 <!ENTITY viewSecurityDevices.accesskey  "ה">
-
 

@@ -8,7 +8,7 @@
 <!--
 # Reviewer(s):
 #
-# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+# Tomer Cohen <tomer.mozilla@tomercohen.com>
 #
 -->
 <!-- ***** BEGIN LICENSE BLOCK *****
@@ -184,3 +184,4 @@
 <!ENTITY PhotoURL.placeholder           "הקלד או הדבק כתובת לתמונה ברשת">
 <!ENTITY UpdatePhoto.label              "עדכון">
 <!ENTITY UpdatePhoto.accesskey          "ע">
+

@@ -2,6 +2,15 @@
 # Translator(s):
 #
 # Yaron <sh.yaron@gmail.com>
+# Tomer Cohen <tomer.mozilla@tomercohen.com>
+# hatul <amiadb@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Tomer Cohen <tomer.mozilla@tomercohen.com>
+# hatul <amiadb@gmail.com>
 #
 -->
 <!ENTITY addressbookWindow.title                        "ספר כתובות">
@@ -85,18 +94,26 @@
 <!ENTITY viewMenu.accesskey                             "v">
 <!ENTITY viewToolbarsMenu.label                         "סרגלי כלים">
 <!ENTITY viewToolbarsMenu.accesskey                     "T"> 
+<!ENTITY menubarCmd.label                               "שורת תפריט">
+<!ENTITY menubarCmd.accesskey                           "ש">
 <!ENTITY showAbToolbarCmd.label                         "סרגל כלים פנקס כתובות">
 <!ENTITY showAbToolbarCmd.accesskey                     "o">
 <!ENTITY showTaskbarCmd.label                           "שורת מצב">
 <!ENTITY showTaskbarCmd.accesskey                       "S">
 <!ENTITY customizeToolbar.label                         "התאמה אישית…">
 <!ENTITY customizeToolbar.accesskey                     "א">
-<!ENTITY showContactPane.label                          "פאנל תקציר פרטי איש קשר">
-<!ENTITY showContactPane.accesskey                      "ק">
+<!ENTITY layoutMenu.label                               "פריסה">
+<!ENTITY layoutMenu.accesskey                           "פ">
+<!ENTITY showDirectoryPane.label                        "לוח מדריך">
+<!ENTITY showDirectoryPane.accesskey                    "מ">
+<!ENTITY showContactPane2.label                         "לוח אנשי קשר">
+<!ENTITY showContactPane2.accesskey                     "א">
 <!ENTITY menu_ShowNameAs.label                          "הצג שם בצורה">
 <!ENTITY menu_ShowNameAs.accesskey                      "צ"> 
-<!ENTITY firstLastCmd.label                             "שם פרטי, שם משפחה">
-<!ENTITY firstLastCmd.accesskey                         "ר"> 
+<!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
+because displayed names don't have the comma in between. -->
+<!ENTITY firstLastCmd2.label                            "פרטי משפחה">
+<!ENTITY firstLastCmd2.accesskey                        "פ"> 
 <!ENTITY lastFirstCmd.label                             "שם משפחה,  שם פרטי">
 <!ENTITY lastFirstCmd.accesskey                         "מ">
 <!ENTITY displayNameCmd.label                           "שם תצוגה">
@@ -210,3 +227,4 @@
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "הבא הכול לקידמה">
 <!ENTITY zoomWindow.label "הגדל חלון">
+
