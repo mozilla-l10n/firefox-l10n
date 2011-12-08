@@ -59,6 +59,7 @@
 <!ENTITY saveAsChangeEncodingCmd.accesskey "λ">
 <!ENTITY publishCmd.label "Δημοσίευση">
 <!ENTITY publishCmd.accesskey "μ">
+<!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "Δημοσίευση ως…">
 <!ENTITY publishAsCmd.accesskey "ς">
 <!ENTITY fileRevert.label "Επαναφορά">
