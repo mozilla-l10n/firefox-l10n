@@ -41,39 +41,12 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY fileMenu.label "Αρχείο">
-<!ENTITY fileMenu.accesskey "χ">
-<!ENTITY openFileCmd.label "Άνοιγμα αρχείου…">
-<!ENTITY openFileCmd.accesskey "ο">
-<!ENTITY openFileCmd.key "O">
-<!ENTITY openRemoteCmd.label "Άνοιγμα τοποθεσίας ιστού…">
-<!ENTITY openRemoteCmd.accesskey "θ">
-<!ENTITY openRemoteCmd.key "L">
-<!ENTITY fileRecentMenu.label "Πρόσφατες σελίδες">
-<!ENTITY fileRecentMenu.accesskey "φ">
-<!ENTITY fileRevert.label "Επαναφορά">
-<!ENTITY fileRevert.accesskey "ν">
-<!ENTITY saveCmd.label "Αποθήκευση">
-<!ENTITY saveCmd.accesskey "σ">
-<!ENTITY saveCmd.key "S">
-<!ENTITY saveAsCmd.label "Αποθήκευση ως…">
-<!ENTITY saveAsCmd.accesskey "ω">
-<!ENTITY publishCmd.label "Δημοσίευση">
-<!ENTITY publishCmd.accesskey "μ">
-<!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "Δημοσίευση ως…">
-<!ENTITY publishAsCmd.accesskey "μ">
-<!ENTITY saveAsChangeEncodingCmd.label "Αποθήκευση και αλλαγή κωδικοποίησης χαρακτήρων">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "λ">
-<!ENTITY editMenu.label "Επεξεργασία">
-<!ENTITY editMenu.accesskey "ξ">
+
 <!ENTITY pasteNoFormatting.label "Επικόλληση χωρίς μορφοποίηση">
 <!ENTITY pasteNoFormatting.accesskey "κ">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Επικόλληση ως">
 <!ENTITY pasteAs.accesskey "ω">
-<!ENTITY publishSettings.label "Ρυθμίσεις δημοσίευσης σελίδας…">
-<!ENTITY publishSettings.accesskey "θ">
 <!ENTITY pasteAsQuotationCmd.label "Επικόλληση ως παράθεση">
 <!ENTITY pasteAsQuotationCmd.accesskey "ρ">
 <!ENTITY pasteAsQuotationCmd.key "o">
@@ -231,6 +204,7 @@
 <!ENTITY bodyTextCmd.accesskey "μ">
 <!ENTITY advancedPropertiesCmd.label "Προχωρημένες ιδιότητες">
 <!ENTITY advancedPropertiesCmd.accesskey "χ">
+<!ENTITY formatRemoveNamedAnchors2.key "R">
 <!ENTITY alignMenu.label "Στοίχιση">
 <!ENTITY alignMenu.accesskey "Σ">
 <!ENTITY alignLeft.label "Αριστερά">
