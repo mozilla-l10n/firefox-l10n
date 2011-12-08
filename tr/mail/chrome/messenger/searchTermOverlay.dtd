@@ -1,16 +1,8 @@
-<!ENTITY matchAll.label     "Bunların hepsine uysun.">
+<!ENTITY matchAll.label     "Aşağıdakilerin tümüyle eşleştir">
 <!ENTITY matchAll.accesskey "n">
-<<<<<<< local
 <!ENTITY matchAny.label     "Aşağıdakilerin herhangi biriyle eşleştir">
-=======
-<!ENTITY matchAny.label     "Bunlardan birisine uysun.">
->>>>>>> other
 <!ENTITY matchAny.accesskey "u">
-<<<<<<< local
 <!ENTITY matchAllMsgs.label     "Tüm iletilerle eşleştir">
-=======
-<!ENTITY matchAllMsgs.label     "Bütün iletiler uysun">
->>>>>>> other
 <!ENTITY matchAllMsgs.accesskey "B">
 
 <!-- LOCALIZATION NOTE  
@@ -18,8 +10,8 @@
   Change the values only when the localized strings in the popup menus
   are truncated in the widgets.
  -->
-<!ENTITY searchTermListAttributesFlexValue "4">
-<!ENTITY searchTermListOperatorsFlexValue "4">
-<!ENTITY searchTermListValueFlexValue "4">
+<!ENTITY searchTermListAttributesFlexValue "5">
+<!ENTITY searchTermListOperatorsFlexValue "5">
+<!ENTITY searchTermListValueFlexValue "5">
 <!ENTITY searchTermListButtonsFlexValue "2">
 

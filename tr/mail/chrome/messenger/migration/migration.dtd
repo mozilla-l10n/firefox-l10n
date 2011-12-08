@@ -1,7 +1,7 @@
 
 <!ENTITY migrationWizard.title          "İçe aktarma sihirbazı">
 
-<!ENTITY importFromWin.label            "Tercihleri, yer imlerini, geçmiş bilgisini, parolaları ve diğer verileri buradan içe aktar:">
+<!ENTITY importFromWin.label            "Seçenekleri, hesap ayarlarını, adres defterini, süzgeçleri ve diğer verileri buradan içe aktar:">
 <!ENTITY importFromNonWin.label         "Tercihleri, hesap ayarlarını, adres defterini, süzgeçleri ve diğer verileri buradan içe aktar:">
 
 <!ENTITY importFromNothing.label        "İçe bir şey aktarma">
@@ -15,16 +15,16 @@
 <!ENTITY importFromEudora.label         "Eudora">
 <!ENTITY importFromEudora.accesskey     "E">
 
-<!ENTITY importSource.title             "Ayarları ve verileri içe aktarma">
-<!ENTITY importItems.title              "İçe aktarılacak öğeler">
-<!ENTITY importItems.label              "İçe aktarılacak öğeyi seçin:">
+<!ENTITY importSource.title             "Ayarları ve posta klasörlerini içe akta">
+<!ENTITY importItems.title              "İçe aktarılacak ögeler">
+<!ENTITY importItems.label              "İçe aktarılacak ögeleri seçin:">
 
 <!ENTITY migrating.title                "İçe aktarılıyor…">
-<!ENTITY migrating.label                "Aşağıdaki öğeler başarılı bir şekilde içe aktarıldı…">
+<!ENTITY migrating.label                "Aşağıdaki ögeler şu anda içe aktarılıyor…">
 
 <!ENTITY selectProfile.title            "Kimlik seç">
 <!ENTITY selectProfile.label            "Aşağıdaki kimlikler buradan içe aktarılabilir:">
 
 <!ENTITY done.title                     "İçe aktarma tamamlandı">
-<!ENTITY done.label                     "Aşağıdaki öğeler başarılı şekilde içe aktarıldı:">
+<!ENTITY done.label                     "Aşağıdaki ögeler başarılı şekilde içe aktarıldı:">
 

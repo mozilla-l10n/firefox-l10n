@@ -1,15 +1,15 @@
 <!ENTITY dialog.title                 "Gönderme seçenekleri">
 <!ENTITY sendMail.title               "Metin biçimi">
-<!ENTITY sendMaildesc.label           "İletiyi HTML biçiminde gönderirken ve alıcılardan biri ya da daha fazlası HTML iletilerini alamıyorken:">
+<!ENTITY sendMaildesc.label           "İletiyi HTML biçiminde gönderirken ve alıcılardan biri veya daha fazlası HTML ileti alamıyorken:">
 <!ENTITY askMe.label                  "Ne yapılacağını bana sor">
 <!ENTITY askMe.accesskey              "N">
 <!ENTITY convertPlain.label           "İletiyi düz metne çevir">
 <!ENTITY convertPlain.accesskey       "d">
 <!ENTITY sendHTML.label               "Yine de HTML olarak gönder">
 <!ENTITY sendHTML.accesskey           "d">
-<!ENTITY sendBoth.label               "İletiyi hem düz metin, hem de HTML olarak gönder">
+<!ENTITY sendBoth.label               "İletiyi hem düz metin hem de HTML olarak gönder">
 <!ENTITY sendBoth.accesskey           "e">
-<!ENTITY override.label               "Not: Alıcılara özel gönderim biçimini ayarlamak için adres defterini kullanın.">
+<!ENTITY override.label               "Not: Alıcılara özel metin biçimlerini ayarlamak için adres defterini kullanın.">
 
 <!ENTITY domaindesc.label             "İçinde aşağıdaki alan adlarından biri geçen bir adrese ileti gönderdiğinizde, &brandShortName; bunu otomatik olarak doğru biçimde gönderir. ">
 <!ENTITY HTMLTab.label                "HTML alan adları">

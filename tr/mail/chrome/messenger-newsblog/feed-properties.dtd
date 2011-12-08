@@ -1,19 +1,15 @@
 <!-- Feed Properties Dialog -->
-<!ENTITY window.title             "Canlı yer imi özellikleri">
+<!ENTITY window.title             "Besleme özellikleri">
 
-<!ENTITY feedFolder.label         "Kayıtlı canlı yer imleri: ">
+<!ENTITY feedFolder.label         "Haberlerin kaydedileceği yer: ">
 <!ENTITY feedFolder.accesskey     "y">
 
-<<<<<<< local
 <!ENTITY feedLocation.label       "Besleme adresi: ">
-=======
-<!ENTITY feedLocation.label       "Canlı yer imi adresi: ">
->>>>>>> other
 <!ENTITY feedLocation.accesskey   "C">
 
 <!ENTITY choosethisfolder.label   "bu dizini seç">
 
-<!ENTITY quickMode.label          "Web sayfasını yüklemek yerine sayfaların bir özetini göster">
+<!ENTITY quickMode.label          "Web sayfasını yüklemek yerine haber özetini göster">
 <!ENTITY quickMode.accesskey      "s">
 
 <!ENTITY copyLinkCmd.label        "Bağlantı konumunu kopyala">
