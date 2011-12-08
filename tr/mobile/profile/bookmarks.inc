@@ -13,11 +13,11 @@
 
 # LOCALIZATION NOTE (bookmarks_aboutBrowser):
 # link title for about:fennec
-#define bookmarks_aboutBrowser Firefox: tarayıcınız hakkında
+#define bookmarks_aboutBrowser Firefox: Tarayıcınız hakkında
 
 # LOCALIZATION NOTE (bookmarks_addons):
 # link title for https://addons.mozilla.org/en-US/mobile
-#define bookmarks_addons Firefox: eklentilerle zenginleştirin
+#define bookmarks_addons Firefox: Eklentilerle özelleştirin
 
 # LOCALIZATION NOTE (bookmarks_support):
 # link title for https://support.mozilla.com/mobile

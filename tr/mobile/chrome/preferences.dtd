@@ -14,12 +14,12 @@
 <!ENTITY rememberPasswords.title                   "Parolaları hatırla">
 <!ENTITY language.title                            "Dil">
 <!ENTITY language.auto                             "Otomatik algıla">
-<!ENTITY defaultBrowser.title                      "Varsayılan Tarayıcı">
-<!ENTITY defaultBrowser.description                "&brandShortName; tarayıcısını varsayılan yapın">
+<!ENTITY defaultBrowser.title                      "Varsayılan tarayıcı">
+<!ENTITY defaultBrowser.description                "&brandShortName; tarayıcısını varsayılan yap">
 <!ENTITY homepage.title                            "Başlangıç sayfası">
-<!ENTITY homepage.none                             "Boş Sayfa">
+<!ENTITY homepage.none                             "Boş sayfa">
 <!ENTITY homepage.default                          "&brandShortName; Başlangıç">
-<!ENTITY homepage.currentpage                      "Güncel sayfayı kullan">
+<!ENTITY homepage.currentpage                      "Geçerli sayfayı kullan">
 <!ENTITY showCharsetEncoding.title                 "Karakter kodlamasını göster">
 <!ENTITY actionbar.default                         "&brandShortName; ayarları">
 

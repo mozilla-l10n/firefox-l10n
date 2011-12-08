@@ -2,7 +2,7 @@
 %brandDTD;
 
 <!ENTITY loadError.label "Sayfa yüklenirken hata oluştu">
-<!ENTITY retry.label "Yeniden Dene">
+<!ENTITY retry.label "Yeniden dene">
 
 <!-- Specific error messages -->
 
