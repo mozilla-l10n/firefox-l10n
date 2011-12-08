@@ -90,6 +90,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "S">
 <!ENTITY fullScreenExit.label "Keluar dari Mode Layar Penuh">
 <!ENTITY fullScreenExit.accesskey "P">
+<!ENTITY domFullScreenWarning.label "Tekan ESC untuk keluar dari mode layar penuh">
 
 <!ENTITY closeWindow.label "Tutup Jendela">
 <!ENTITY closeWindow.accesskey "d">
@@ -194,6 +195,9 @@ can reach it easily. -->
 <!ENTITY inspectMenu.accesskey        "I">
 <!ENTITY inspectMenu.commandkey       "I">
 
+<!ENTITY inspectContextMenu.label     "Inspeksi Elemen">
+<!ENTITY inspectContextMenu.accesskey "Q">
+
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -212,6 +216,16 @@ can reach it easily. -->
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "Inspeksi">
 <!ENTITY inspectButton.accesskey      "I">
+<!ENTITY inspectCloseButton.tooltiptext "Tutup Inspektur">
+<!ENTITY inspectStyleButton.label     "Gaya">
+<!ENTITY inspectStyleButton.accesskey "G">
+
+<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
+  -  in the Tools menu. -->
+<!ENTITY styleeditor.label            "Editor Gaya">
+<!ENTITY styleeditor.accesskey        "y">
+<!ENTITY styleeditor.keycode          "VK_F7">
+<!ENTITY styleeditor.keytext          "F7">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Dapatkan Alat Lainnya">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "n">
@@ -430,6 +444,12 @@ can reach it easily. -->
 <!ENTITY mediaHideControls.accesskey "S">
 <!ENTITY videoFullScreen.label       "Layar Penuh">
 <!ENTITY videoFullScreen.accesskey   "P">
+<!ENTITY videoSaveImage.label        "Simpan Cuplikan dengan Nama…">
+<!ENTITY videoSaveImage.accesskey    "S">
+<!ENTITY videoShowStats.label        "Tampilkan Statistik">
+<!ENTITY videoShowStats.accesskey    "t">
+<!ENTITY videoHideStats.label        "Sembunyikan Statistik">
+<!ENTITY videoHideStats.accesskey    "t">
 
 
 <!-- LOCALIZATION NOTE :
