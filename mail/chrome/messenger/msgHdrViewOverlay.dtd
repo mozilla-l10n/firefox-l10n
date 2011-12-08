@@ -30,7 +30,7 @@
 <!ENTITY hdrForwardButton1.label "Reunviar">
 <!ENTITY hdrForwardButton1.tooltip "Reunviar esti mensaxe">
 <!ENTITY hdrJunkButton1.label "Non deseáu">
-<!ENTITY hdrJunkButton1.tooltip "Conseñar esti mensaxe como corréu non deseáu">
+<!ENTITY hdrJunkButton1.tooltip "Conseñar esti mensaxe como corréu puxarra">
 <!ENTITY hdrTrashButton1.label "Desaniciar">
 <!ENTITY hdrTrashButton1.tooltip "Desaniciar esti mensaxe">
 <!ENTITY hdrViewToolbarShowFull.label "Amosar iconos y testu">
