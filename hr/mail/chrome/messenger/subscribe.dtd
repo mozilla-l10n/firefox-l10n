@@ -44,7 +44,7 @@
 <!ENTITY newGroupsTab.accesskey       "n">
 <!ENTITY refreshButton.label          "Osvježi">
 <!ENTITY refreshButton.accesskey      "s">
-<!ENTITY stopButton.label             "Zaustavi">
+<!ENTITY stopButton.label             "Stani">
 <!ENTITY stopButton.accesskey         "t">
 <!ENTITY server.label                 "Račun:">
 <!ENTITY server.accesskey             "a">
