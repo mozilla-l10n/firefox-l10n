@@ -58,20 +58,29 @@
 
 <!ENTITY updateTab.label                 "Pemutakhiran">
 
-<!ENTITY autoCheck.label                 "Otomatis periksa versi baru untuk:">
-<!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate2.label       "Pengaya">
-<!ENTITY enableAddonsUpdate2.accesskey   "g">
+<!ENTITY updateApp.label                 "Pemutakhiran &brandShortName;:">
+<!ENTITY updateAuto.label                "Otomatis pasang pemutakhiran (disarankan: untuk keamanan lebih baik)">
+<!ENTITY updateAuto.accesskey            "O">
+<!ENTITY updateCheck.label               "Periksa pemutakhiran, biarkan saya memilih apakah akan dipasang atau tidak">
+<!ENTITY updateCheck.accesskey           "b">
+<!ENTITY updateManual.label              "Jangan pernah memeriksa pemutakhiran (tidak disarankan: berisiko keamanan)">
+<!ENTITY updateManual.accesskey          "J">
+
+<!ENTITY updateAutoAddonWarn.label       "Peringatkan saya jika pemutakhiran akan menonaktifkan satu atau beberapa pengaya">
+<!ENTITY updateAutoAddonWarn.accesskey   "P">
+
+<!ENTITY updateHistory.label             "Tampilkan Riwayat Pemutakhiran">
+<!ENTITY updateHistory.accesskey         "w">
+
+<!ENTITY useService.label                "Gunakan layanan latar belakang untuk memasang pemutakhiran">
+<!ENTITY useService.accesskey            "l">
+
+<!ENTITY updateOthers.label              "Otomatis perbarui:">
+
+<!ENTITY enableAddonsUpdate3.label       "Pengaya">
+<!ENTITY enableAddonsUpdate3.accesskey   "g">
 <!ENTITY enableSearchUpdate.label        "Mesin Pencari">
 <!ENTITY enableSearchUpdate.accesskey    "r">
-<!ENTITY whenUpdatesFound.label          "Bila versi baru &brandShortName; ditemukan:">
-<!ENTITY askMe.label                     "Tanyakan apa yang harus dilakukan">
-<!ENTITY askMe.accesskey                 "l">
-<!ENTITY modeAutomatic.label             "Otomatis diunduh dan dipasang">
-<!ENTITY modeAutomatic.accesskey         "p">
-<!ENTITY modeAutoAddonWarn.label         "Peringatkan jika Pengaya terpasang akan dimatikan">
-<!ENTITY modeAutoAddonWarn.accesskey     "t">
 <!ENTITY updateHistory.label             "Tampilkan Riwayat Pemutakhiran">
 <!ENTITY updateHistory.accesskey         "w">
 

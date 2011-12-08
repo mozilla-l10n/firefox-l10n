@@ -2,6 +2,30 @@
 <!ENTITY playButton.pauseLabel "Tunda">
 <!ENTITY muteButton.muteLabel "Senyap">
 <!ENTITY muteButton.unmuteLabel "Keraskan">
+<!ENTITY fullscreenButton.enterfullscreenlabel "Layar Penuh">
+<!ENTITY fullscreenButton.exitfullscreenlabel "Keluar dari Layar Penuh">
+
+<!ENTITY stats.media "Media">
+<!ENTITY stats.size "Ukuran">
+<!ENTITY stats.activity "Aktivitas">
+<!ENTITY stats.activityPaused "Ditunda">
+<!ENTITY stats.activityPlaying "Diputar">
+<!ENTITY stats.activityEnded "Selesai">
+<!ENTITY stats.activitySeeking "(mencari)">
+<!ENTITY stats.volume "Volume">
+<!ENTITY stats.channels "Kanal">
+<!ENTITY stats.sampleRate "Laju Sampel">
+<!ENTITY stats.framesParsed "Bingkai diparse">
+<!ENTITY stats.framesDecoded "Bingkai didekode">
+<!ENTITY stats.framesPresented "Bingkai ditampilkan">
+<!ENTITY stats.framesPainted "Bingkai digambar">
+
+<!ENTITY error.aborted "Pemuatan video terhenti.">
+<!ENTITY error.network "Pemutaran video dibatalkan karena adanya galat jaringan.">
+<!ENTITY error.decode "Video tidak dapat diputar karena berkasnya rusak.">
+<!ENTITY error.srcNotSupported "Format atau tipe MIME video tidak didukung.">
+<!ENTITY error.noSource "Video tidak ditemukan.">
+<!ENTITY error.generic "Pemutaran video dibatalkan karena galat tak dikenal.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at

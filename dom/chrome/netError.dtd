@@ -24,6 +24,9 @@
 <!ENTITY netInterrupt.title "Transfer Data Terganggu">
 <!ENTITY netInterrupt.longDesc "<p>Program peramban tersambung dengan sukses tetapi sambungan terganggu saat sedang mentransfer informasi. Silakan coba lagi.</p><ul><li>Apakah Anda tidak bisa menjelajah situs lain? Periksa sambungan jaringan komputer Anda.</li><li>Masih bermasalah? Tanyakan pada administrator jaringan Anda atau Penyedia Jasa Layanan Internet (Internet Service Provider).</li></ul>">
 
+<!ENTITY notCached.title "Dokumen Kedaluwarsa">
+<!ENTITY notCached.longDesc "<p>Dokumen yang diminta tidak tersedia pada tembolok peramban.</p><ul><li>Sebagai tindakan pencegahan, peramban tidak meminta ulang dokumen sensitif secara otomatis.</li><li>Klik Coba Lagi untuk meminta ulang dokumen dari situs web.</li></ul>">
+
 <!ENTITY netOffline.title "Mode Luring">
 <!ENTITY netOffline.longDesc2 "<p>Program peramban sedang berjalan dalam mode luring dan tidak dapat tersambung pada objek yang diminta.</p><ul><li>Apakah komputer tersambung pada jaringan yang berfungsi?</li><li>Tekan &quot;Coba Lagi&quot; untuk kembali ke mode daring dan memuat ulang lamannya.</li></ul>">
 
