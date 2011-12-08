@@ -36,7 +36,7 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Box Headings -->
-<!ENTITY contact.heading             "Danh bạ">
+<!ENTITY contact.heading             "Contact">
 <!ENTITY home.heading                "Nhà">
 <!ENTITY other.heading               "Khác">
 <!ENTITY phone.heading               "Điện thoại">
@@ -47,4 +47,5 @@
 <!-- For Map It! -->
 <!ENTITY mapItButton.label           "Lấy Bản Đồ">
 <!ENTITY mapIt.tooltip               "Hiển thị bản đồ của địa chỉ này trên Web">
+
 

@@ -36,8 +36,9 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Lựa chọn Thay đổi Chỉnh sửa">
+<!ENTITY windowTitle.label "Select Edit Changes">
 <!ENTITY conflictWarning.label "Trang này đã được sửa đổi bởi một chương trình khác, nhưng bạn cũng có những thay đổi chưa lưu trong Trình soạn thảo.">
 <!ENTITY conflictResolve.label "Chọn phiên bản muốn giữ:">
 <!ENTITY keepCurrentPageButton.label "Giữ các thay đổi hiện tại">
 <!ENTITY useOtherPageButton.label "Thay thế các thay đổi hiện tại bằng các thay đổi khác">
+

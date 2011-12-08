@@ -35,5 +35,6 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowTitle.label "Thuộc tính của Liên kết">
+<!ENTITY windowTitle.label "Link Properties">
 <!ENTITY LinkURLBox.label "Địa chỉ của Liên kết">
+

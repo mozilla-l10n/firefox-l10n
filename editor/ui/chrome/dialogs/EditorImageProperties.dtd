@@ -38,7 +38,7 @@
 <!-- These strings are for use specifically in the editor's image and form image dialogs. -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Thuộc tính Hình ảnh">
+<!ENTITY windowTitle.label "Image Properties">
 
 <!ENTITY pixelsPopup.value "điểm ảnh">
 
@@ -52,8 +52,8 @@
 <!ENTITY altText.label "Văn bản thay thế:">
 <!ENTITY altText.accessKey "V">
 <!ENTITY altTextEditField.tooltip "Gõ văn bản hiển thị thay cho hình ảnh">
-<!ENTITY noAltText.label "Không dùng văn bản phụ">
-<!ENTITY noAltText.accessKey "h">
+<!ENTITY noAltText.label "Không dùng văn bản thay thế">
+<!ENTITY noAltText.accessKey "K">
 
 <!ENTITY previewBox.label "Xem trước Hình ảnh">
 
@@ -61,10 +61,10 @@
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
 <!ENTITY actualSize.label "Kích thước Thật:">
 <!ENTITY actualSizeRadio.label "Kích thước Thật">
-<!ENTITY actualSizeRadio.accessKey "K">
+<!ENTITY actualSizeRadio.accessKey "T">
 <!ENTITY actualSizeRadio.tooltip "Chuyển ảnh về kích thước thật">
 <!ENTITY customSizeRadio.label "Kích thước Tùy biến">
-<!ENTITY customSizeRadio.accessKey "T">
+<!ENTITY customSizeRadio.accessKey "b">
 <!ENTITY customSizeRadio.tooltip "Thay đổi kích thước như đang hiển thị trên trang">
 <!ENTITY heightEditField.label "Cao:">
 <!ENTITY heightEditField.accessKey "C">
@@ -95,12 +95,15 @@
 <!ENTITY leftRightEditField.accessKey "T">
 <!ENTITY topBottomEditField.label "Trên và Dưới:">
 <!ENTITY topBottomEditField.accessKey "D">
-<!ENTITY borderEditField.label "Đường viền rắn:">
-<!ENTITY borderEditField.accessKey "V">
+<!ENTITY borderEditField.label "Đường viền Liên tục:">
+<!ENTITY borderEditField.accessKey "v">
 
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "Hiện viền xung quanh ảnh liên kết">
 <!ENTITY showImageLinkBorder.accessKey "H">
+<!ENTITY LinkAdvancedEditButton.label "Sửa đổi Liên kết Nâng cao…">
+<!ENTITY LinkAdvancedEditButton.accessKey "L">
+<!ENTITY LinkAdvancedEditButton.tooltip "Add or modify HTML attributes, style attributes, and JavaScript">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "Biểu mẫu">
@@ -108,3 +111,4 @@
 <!ENTITY imageDimensionsTab.label "Chiều">
 <!ENTITY imageAppearanceTab.label "Diện mạo">
 <!ENTITY imageLinkTab.label "Liên kết">
+

@@ -35,7 +35,7 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY Contact.tab                     "Danh bạ">
+<!ENTITY Contact.tab                     "Contact">
 <!ENTITY Contact.accesskey               "D">
 <!ENTITY Name.box                        "Tên">
 
@@ -90,7 +90,7 @@
 <!ENTITY HomePhone.label                "Nhà:">
 <!ENTITY HomePhone.accesskey            "N">
 <!ENTITY FaxNumber.label                "Fax:">
-<!ENTITY FaxNumber.accesskey            "F">
+<!ENTITY FaxNumber.accesskey            "x">
 <!ENTITY PagerNumber.label              "Máy nhắn tin:">
 <!ENTITY PagerNumber.accesskey          "M">
 <!ENTITY CellularNumber.label           "Di động:">
@@ -171,3 +171,4 @@
 <!ENTITY PhotoURL.placeholder           "Dán hoặc gõ địa chỉ web của ảnh">
 <!ENTITY UpdatePhoto.label              "Cập nhật">
 <!ENTITY UpdatePhoto.accesskey          "p">
+

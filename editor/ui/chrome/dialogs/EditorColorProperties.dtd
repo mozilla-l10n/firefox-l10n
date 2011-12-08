@@ -36,7 +36,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Nền và Màu Trang">
+<!ENTITY windowTitle.label "Page Colors and Background">
 <!ENTITY pageColors.label "Màu Trang">
 <!ENTITY defaultColorsRadio.label "Màu mặc định của người đọc (Không thiết lập màu trong trang)">
 <!ENTITY defaultColorsRadio.accessKey "M">
@@ -45,17 +45,18 @@
 <!ENTITY customColorsRadio.accessKey "D">
 <!ENTITY customColorsRadio.tooltip "Những thiết lập màu này sẽ hiển thị đè lên các thiết lập trình duyệt của người đọc">
 
-<!ENTITY normalText.label "Văn bản thường">
+<!ENTITY normalText.label "Chữ thường">
 <!ENTITY normalText.accessKey "B">
-<!ENTITY linkText.label "Văn bản liên kết">
-<!ENTITY linkText.accessKey "L">
-<!ENTITY activeLinkText.label "Văn bản liên kết đang chọn">
-<!ENTITY activeLinkText.accessKey "A">
-<!ENTITY visitedLinkText.label "Văn bản liên kết đã thăm">
-<!ENTITY visitedLinkText.accessKey "V">
+<!ENTITY linkText.label "Chữ liên kết">
+<!ENTITY linkText.accessKey "l">
+<!ENTITY activeLinkText.label "Chữ liên kết đang chọn">
+<!ENTITY activeLinkText.accessKey "C">
+<!ENTITY visitedLinkText.label "Chữ liên kết đã thăm">
+<!ENTITY visitedLinkText.accessKey "t">
 <!ENTITY background.label "Nền:">
 <!ENTITY background.accessKey "N">
 <!ENTITY colon.character ":">
 <!ENTITY backgroundImage.label "Hình nền:">
 <!ENTITY backgroundImage.accessKey "H">
 <!ENTITY backgroundImage.tooltip "Dùng một tập tin ảnh làm nền cho trang của bạn">
+

@@ -1,6 +1,6 @@
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
-<!ENTITY menu_securityEncryptRequire.label "Mã hóa Thư này">
+<!ENTITY menu_securityEncryptRequire.label "Encrypt This Message">
 <!ENTITY menu_securityEncryptRequire.accesskey "M">
 
 <!ENTITY menu_securitySign.label "Chữ kí Điện tử cho Thư này">
@@ -14,3 +14,4 @@
 
 <!ENTITY menu_viewSecurityStatus.label "Thông tin Bảo mật Thư">
 <!ENTITY menu_viewSecurityStatus.accesskey "o">
+

@@ -37,12 +37,13 @@
 
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Dính vào Đường kẻ ô">
+<!ENTITY windowTitle.label "Snap to Grid">
 
 <!ENTITY enableSnapToGrid.label "kích hoạt Dính vào Đường kẻ ô">
 <!ENTITY enableSnapToGrid.accessKey "k">
 
-<!ENTITY sizeEditField.label "Kích cỡ:">
+<!ENTITY sizeEditField.label "Kích thước:">
 <!ENTITY sizeEditField.accessKey "h">
 
 <!ENTITY pixelsLabel.value "điểm ảnh">
+

@@ -39,7 +39,7 @@
 
 <!-- Window title -->
 
-<!ENTITY windowTitle.label "Thuộc tính Hotspot">
+<!ENTITY windowTitle.label "Hotspot Properties">
 
 <!ENTITY link.label				"Liên kết Hotspot">
 <!ENTITY urlFieldset.label		"URL Hotspot:">
@@ -55,4 +55,5 @@
 <!ENTITY whole.value			"Toàn bộ Trang">
 <!ENTITY new.value				"Cửa sổ Mới">
 <!ENTITY parent.value			"Khung Cha">
+
 

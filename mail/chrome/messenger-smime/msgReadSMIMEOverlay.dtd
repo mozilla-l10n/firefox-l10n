@@ -1,4 +1,5 @@
 <!--LOCALIZATION NOTE msgReadSMIMEOverlay.dtd UI for s/mime hooks in message reading -->
 
-<!ENTITY menu_securityStatus.label "Thông tin Bảo mật Thư">
+<!ENTITY menu_securityStatus.label "Message Security Info">
 <!ENTITY menu_securityStatus.accesskey "o">
+

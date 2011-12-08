@@ -17,10 +17,11 @@
 <!ENTITY featureConfiguratorCmd.accesskey "D">
 <!ENTITY openHelp.label "Nội dung Trợ giúp">
 <!ENTITY openHelp.accesskey "T">
-<!ENTITY openHelp.commandkey "VK_F1">
+<!ENTITY openHelp.commandkey "V">
 <!ENTITY openHelpMac.label "Trợ giúp &brandShortName;">
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
 
 <!ENTITY aboutMenuCmd.label "Thông tin về &brandShortName;">
 <!ENTITY aboutMenuCmd.accesskey "v">
+

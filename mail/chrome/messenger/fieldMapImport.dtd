@@ -35,7 +35,7 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY fieldMapImport.title "Nhập Sổ Địa Chỉ">
+<!ENTITY fieldMapImport.title "Import Address Book">
 <!ENTITY fieldMapImport.size "width: 40em; height: 30em;">
 <!ENTITY fieldMapImport.recordNumber "Dữ liệu đã nhập cho Bản ghi: ">
 <!ENTITY fieldMapImport.next.label "Tiếp">
@@ -51,3 +51,4 @@
 <!ENTITY fieldMapImport.dataTitle "Dữ liệu bản ghi cần nhập">
 <!ENTITY fieldMapImport.skipFirstRecord.label "Bản ghi đầu tiên chứa các tên trường">
 <!ENTITY fieldMapImport.skipFirstRecord.accessKey "B">
+

@@ -23,8 +23,10 @@
 <!ENTITY newVirtualFolderCmd.accesskey "m">
 <!ENTITY newOtherAccountsCmd.label "Tài khoản Khác…">
 <!ENTITY newOtherAccountsCmd.accesskey "i">
-<!ENTITY newEmailAccountCmd.label "Tài khoản Thư…">
-<!ENTITY newEmailAccountCmd.accesskey "T">
+<!ENTITY newCreateEmailAccountCmd.label "Mở Tài Khoản Thư Mới…">
+<!ENTITY newCreateEmailAccountCmd.accesskey "M">
+<!ENTITY newExistingEmailAccountCmd.label "Tài khoản Thư Tồn tại…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "T">
 <!ENTITY openMessageFileCmd.label "Mở các Thư Đã Lưu…">
 <!ENTITY openMessageFileCmd.accesskey "h">
 <!ENTITY openAttachmentCmd.label "Phần đính kèm">
@@ -52,7 +54,7 @@
 <!ENTITY deleteFolder.accesskey "X">
 <!ENTITY renameFolder.label "Đổi tên Thư mục…">
 <!ENTITY renameFolder.accesskey "t">
-<!ENTITY renameFolder.key "VK_F2">
+<!ENTITY renameFolder.key "V">
 <!ENTITY compactFolders.label "Làm gọn Thư mục">
 <!ENTITY compactFolders.accesskey    "n">
 <!ENTITY emptyTrashCmd.label "Dọn sạch Thùng rác">
@@ -119,7 +121,9 @@
 <!ENTITY redoDefaultCmd.accesskey "L">
 
 <!-- View Menu -->
-<!ENTITY showMessengerToolbarCmd.label "Thanh Gửi Thư">
+<!ENTITY menubarCmd.label "Menu Bar">
+<!ENTITY menubarCmd.accesskey "M">
+<!ENTITY showMessengerToolbarCmd.label "Mail Toolbar">
 <!ENTITY showMessengerToolbarCmd.accesskey "T">
 <!ENTITY customizeToolbar.label "Tùy biến…">
 <!ENTITY customizeToolbar.accesskey "y">
@@ -132,6 +136,8 @@
 <!ENTITY messagePaneWide.accesskey "R">
 <!ENTITY messagePaneVertical.label "Hiển thị Dọc">
 <!ENTITY messagePaneVertical.accesskey "D">
+<!ENTITY showFolderPaneCmd.label "Folder Pane">
+<!ENTITY showFolderPaneCmd.accesskey "F">
 <!ENTITY showMessageCmd.label "Khung Đọc Thư">
 <!ENTITY showMessageCmd.accesskey "K">
 
@@ -224,6 +230,8 @@
 <!ENTITY bodySanitized.accesskey "L">
 <!ENTITY bodyAsPlaintext.label "Văn bản Thuần">
 <!ENTITY bodyAsPlaintext.accesskey "V">
+<!ENTITY bodyAllParts.label "All Body Parts">
+<!ENTITY bodyAllParts.accesskey "A">
 
 <!ENTITY bodyMenuFeed.label "Nội dung Tin bài dưới dạng">
 <!ENTITY bodyMenuFeed.accesskey "d">
@@ -267,6 +275,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageSourceCmd.label "Mã nguồn của Thư">
 <!ENTITY pageSourceCmd.accesskey "M">
 <!ENTITY pageSourceCmd.key "u">
+<!ENTITY getNewMessagesCmd.key "y">
+<!ENTITY getAllNewMessagesCmd.key "Y">
 
 <!-- Search Menu -->
 <!ENTITY findMenu.label "Tìm">
@@ -496,12 +506,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY previousButton.label "Trước">
 <!ENTITY backButton1.label "Lùi">
 <!ENTITY goForwardButton1.label "Tiến">
+<!ENTITY deleteItem.title "Delete">
 <!ENTITY deleteButton.label "Xóa">
 <!ENTITY undeleteButton.label "Không xóa">
 <!ENTITY markButton.label "Đánh dấu">
 <!ENTITY printButton.label "In">
 <!ENTITY stopButton.label "Dừng">
 <!ENTITY throbberItem.title "Chỉ báo Hoạt động">
+<!ENTITY junkItem.title "Junk">
 <!ENTITY junkButton.label "Thư rác">
 <!ENTITY notJunkButton.label "Không phải Thư rác">
 <!ENTITY addressBookButton.label "Sổ Địa Chỉ">
@@ -860,3 +872,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "Hiện Tất Cả">
+

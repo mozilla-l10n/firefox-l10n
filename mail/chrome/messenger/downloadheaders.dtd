@@ -35,7 +35,7 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY all.label          "Tải xuống tất cả đầu đề">
+<!ENTITY all.label          "Download all headers">
 <!ENTITY all.accesskey      "T">
 <!--LOCALIZATION NOTE (download.label):
     consider the download.label and headers.label as a single sentence
@@ -51,3 +51,4 @@
 <!ENTITY headers.accesskey  "u">
 <!ENTITY mark.label         "Đánh dấu các đầu đề còn lại là đã đọc">
 <!ENTITY mark.accesskey     "h">
+

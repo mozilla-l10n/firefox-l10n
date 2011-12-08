@@ -34,7 +34,8 @@
  the terms of any one of the MPL, the GPL or the LGPL.
 
  ***** END LICENSE BLOCK ***** -->
-<!ENTITY nameColumn.label   "Tên"> 
+<!ENTITY nameColumn.label   "Name"> 
 <!ENTITY unreadColumn.label "Chưa đọc"> 
 <!ENTITY totalColumn.label "Tổng"> 
 <!ENTITY folderSizeColumn.label "Kích thước"> 
+

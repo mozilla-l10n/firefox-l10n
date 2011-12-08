@@ -36,7 +36,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Chèn Bảng">
+<!ENTITY windowTitle.label "Insert Table">
 
 <!ENTITY size.label "Kích thước">
 <!ENTITY numRowsEditField.label "Hàng:">
@@ -49,3 +49,4 @@
 <!ENTITY borderEditField.accessKey "V">
 <!ENTITY borderEditField.tooltip "Gõ một số để tạo đường viền bảng, hoặc gõ số không (0) để không tạo viền">
 <!ENTITY pixels.label "điểm ảnh">
+

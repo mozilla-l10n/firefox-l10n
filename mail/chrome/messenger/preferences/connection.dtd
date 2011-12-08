@@ -21,9 +21,9 @@
 <!ENTITY  socks.label                   "Máy chủ SOCKS:">
 <!ENTITY  socks.accesskey               "O">
 <!ENTITY  socks4.label                  "SOCKS v4">
-<!ENTITY  socks4.accesskey              "4">
+<!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
-<!ENTITY  socks5.accesskey              "5">
+<!ENTITY  socks5.accesskey              "v">
 <!ENTITY  HTTPport.label                "Cổng:">
 <!ENTITY  HTTPport.accesskey            "C">
 <!ENTITY  SSLport.label                 "Cổng:">
@@ -35,3 +35,4 @@
 <!ENTITY  noproxyExplain.label          "Ví dụ: .vi.mozdev.org, .vnn.vn, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Dùng máy chủ proxy này cho mọi giao thức">
 <!ENTITY  shareproxy.accesskey          "x">
+

@@ -36,14 +36,14 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Từ điển Cá nhân">
+<!ENTITY windowTitle.label "Personal Dictionary">
 
 <!ENTITY wordEditField.label "Từ mới:">
 <!ENTITY wordEditField.accessKey "m">
 <!ENTITY AddButton.label "Thêm">
 <!ENTITY AddButton.accessKey "T">
-<!ENTITY DictionaryList.label "Các từ trong Từ điển:">
-<!ENTITY DictionaryList.accessKey "C">
+<!ENTITY DictionaryList.label "Các từ trong từ điển:">
+<!ENTITY DictionaryList.accessKey "t">
 <!ENTITY ReplaceButton.label "Thay thế">
 <!ENTITY ReplaceButton.accessKey "y">
 <!ENTITY RemoveButton.label "Xóa">
@@ -51,3 +51,4 @@
 
 <!ENTITY CloseButton.label "Đóng">
 <!ENTITY CloseButton.accessKey "g">
+

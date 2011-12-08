@@ -38,7 +38,7 @@
 
 <!-- extracted from EdReplace.xul -->
 
-<!ENTITY replaceDialog.title "Tìm và Thay thế">
+<!ENTITY replaceDialog.title "Find and Replace">
 <!ENTITY findField.label "Tìm văn bản:">
 <!ENTITY findField.accesskey "m">
 <!ENTITY replaceField.label "Thay thế bằng:">
@@ -58,3 +58,4 @@
 <!ENTITY replaceAllButton.label "Thay thế Toàn bộ">
 <!ENTITY replaceAllButton.accesskey "b">
 <!ENTITY closeButton.label "Đóng">
+

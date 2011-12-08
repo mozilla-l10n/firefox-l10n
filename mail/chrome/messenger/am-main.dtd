@@ -1,6 +1,6 @@
 <!-- extracted from am-main.xul -->
 
-<!ENTITY accountTitle.label "Thiết lập Tài khoản">
+<!ENTITY accountTitle.label "Account Settings">
 <!ENTITY accountName.label "Tên Tài Khoản:">
 <!ENTITY accountName.accesskey "n">
 <!ENTITY identityTitle.label "Định danh Mặc định">
@@ -11,6 +11,7 @@
 <!ENTITY email.accesskey "E">
 <!ENTITY replyTo.label "Địa chỉ Trả-lời-tới:">
 <!ENTITY replyTo.accesskey "a">
+<!ENTITY replyTo.placeholder "Recipients will reply to this other address">
 <!ENTITY organization.label "Tổ chức:">
 <!ENTITY organization.accesskey "h">
 <!ENTITY signatureText.label "Chữ kí:">
@@ -35,3 +36,4 @@
 <!ENTITY smtpName.label "Máy chủ Gửi thư (SMTP):">
 <!ENTITY smtpName.accesskey "M">
 <!ENTITY smtpDefaultServer.label "Sử dụng Máy chủ Mặc định">
+

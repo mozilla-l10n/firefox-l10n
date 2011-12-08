@@ -43,68 +43,21 @@
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
 <!-- File menu items -->
-<!ENTITY fileMenu.label "Tập tin">
-<!ENTITY fileMenu.accesskey "T">
-<!ENTITY openFileCmd.label "Mở Tập tin...">
-<!ENTITY openFileCmd.accesskey "M">
-<!ENTITY openFileCmd.key "O">
-<!ENTITY openRemoteCmd.label "Mở Địa Chỉ Web…">
-<!ENTITY openRemoteCmd.accesskey "a">
-<!ENTITY openRemoteCmd.key "L">
-<!ENTITY fileRecentMenu.label "Các Trang Gần đây">
-<!ENTITY fileRecentMenu.accesskey "r">
-<!ENTITY fileRevert.label "Hoàn nguyên">
-<!ENTITY fileRevert.accesskey "H">
-<!ENTITY saveCmd.label "Lưu">
-<!ENTITY saveCmd.accesskey "L">
 <!ENTITY saveCmd.key "S">
-<!ENTITY saveAsCmd.label "Lưu Thành…">
-<!ENTITY saveAsCmd.accesskey "T">
-
-<!ENTITY publishCmd.label "Xuất bản">
-<!ENTITY publishCmd.accesskey "X">
-<!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "Xuất bản Thành…">
-<!ENTITY publishAsCmd.accesskey "h">
-<!ENTITY saveAsChangeEncodingCmd.label "Lưu và Thay đổi Bảng mã">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "B">
-<!ENTITY printSetupCmd.label "Thiết lập Trang…">
-<!ENTITY printSetupCmd.accesskey "p">
-<!ENTITY printCmd.label "In…">
-<!ENTITY printCmd.accesskey "I">
-<!ENTITY printCmd.key "P">
-<!ENTITY closeCmd.label "Đóng">
-<!ENTITY closeCmd.accesskey "g">
-<!ENTITY closeCmd.key "W">
 
 <!-- Edit menu items -->
-<!ENTITY editMenu.label "Chỉnh sửa">
-<!ENTITY editMenu.accesskey "C">
-<!ENTITY pasteNoFormatting.label "Dán dưới dạng Văn bản thuần">
+<!ENTITY pasteNoFormatting.label "Paste Without Formatting">
 <!ENTITY pasteNoFormatting.accesskey "V">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Dán Thành">
 <!ENTITY pasteAs.accesskey "D">
-<!ENTITY publishSettings.label "Thiết lập Trang Xuất bản…">
-<!ENTITY publishSettings.accesskey "b">
 <!ENTITY pasteAsQuotationCmd.label "Dán dưới dạng Trích dẫn">
 <!ENTITY pasteAsQuotationCmd.accesskey "n">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Tìm và Thay…">
-<!ENTITY findCmd.accesskey "y">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.key2 "VK_F19">
-<!ENTITY findAgainCmd.label "Tìm Lại">
-<!ENTITY findAgainCmd.accesskey "L">
-<!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Tìm Trước">
-<!ENTITY findPrevCmd.accesskey "r">
-<!ENTITY findPrevCmd.key "G">
-<!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Kiểm tra Chính tả khi Gõ">
 <!ENTITY enableInlineSpellChecker.accesskey "K">
-<!ENTITY checkSpellingCmd2.label "Kiểm tra Chính tả">
+<!ENTITY checkSpellingCmd2.label "Check Spelling…">
 <!ENTITY checkSpellingCmd2.accesskey "a">
 <!ENTITY checkSpellingCmd2.key "p">
 
@@ -139,23 +92,6 @@
 <!ENTITY createLinkCmd.accesskey "K">
 <!ENTITY editLinkCmd.label "Sửa đổi Liên kết ở trang Soạn thảo Mới">
 <!ENTITY editLinkCmd.accesskey "i">
-<!-- (Toplevel Edit menu uses utilityOverlay) -->
-<!ENTITY undoCmd.label "Hoàn tác">
-<!ENTITY undoCmd.accesskey "H">
-<!ENTITY redoCmd.label "Làm lại">
-<!ENTITY redoCmd.accesskey "L">
-<!ENTITY cutCmd.label "Cắt">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "Chép">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "Dán">
-<!ENTITY pasteCmd.accesskey "D">
-<!ENTITY deleteCmd.label "Xóa">
-<!ENTITY deleteCmd.accesskey "X">
-<!ENTITY clearCmd.label "Xóa trắng">
-<!ENTITY clearCmd.accesskey "X">
-<!ENTITY selectAllCmd.label "Chọn Toàn Bộ">
-<!ENTITY selectAllCmd.accesskey "B">
 
 <!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip "Chọn phông">
@@ -246,7 +182,7 @@
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Xóa Thẻ Neo Anchor">
 <!ENTITY formatRemoveNamedAnchors.accesskey "r">
-<!ENTITY formatRemoveNamedAnchors.key "A">
+<!ENTITY formatRemoveNamedAnchors2.key "R">
 
 <!ENTITY paragraphMenu.label "Đoạn văn">
 <!ENTITY paragraphMenu.accesskey "v">
@@ -396,6 +332,9 @@
 <!ENTITY openToolbarCmd.tooltip "Mở một tập tin trong máy">
 <!ENTITY saveToolbarCmd.tooltip "Lưu tập tin vào thư mục trong máy">
 <!ENTITY publishToolbarCmd.tooltip "Tải tập tin lên một địa chỉ từ xa">
+<!ENTITY cutToolbarCmd.tooltip "Cắt">
+<!ENTITY copyToolbarCmd.tooltip "Chép">
+<!ENTITY pasteToolbarCmd.tooltip "Dán">
 <!ENTITY printToolbarCmd.label "In">
 <!ENTITY printToolbarCmd.tooltip "In trang này">
 <!ENTITY findToolbarCmd.label "Tìm">
@@ -451,3 +390,4 @@
 <!ENTITY removeTOC.accesskey      "X">
 <!ENTITY tocMenu.label            "Mục lục…">
 <!ENTITY tocMenu.accesskey        "M">
+
