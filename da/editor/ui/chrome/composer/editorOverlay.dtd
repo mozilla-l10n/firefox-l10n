@@ -43,42 +43,15 @@
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
 <!-- File menu items -->
-<!ENTITY fileMenu.label "Filer">
-<!ENTITY fileMenu.accesskey "F">
-<!ENTITY openFileCmd.label "Åbn fil…">
-<!ENTITY openFileCmd.accesskey "b">
-<!ENTITY openFileCmd.key "O">
-<!ENTITY openRemoteCmd.label "Åbn websted…">
-<!ENTITY openRemoteCmd.accesskey "w">
-<!ENTITY openRemoteCmd.key "L">
-<!ENTITY fileRecentMenu.label "Senest åbnede">
-<!ENTITY fileRecentMenu.accesskey "b">
-<!ENTITY fileRevert.label "Vend tilbage til det sidst gemte">
-<!ENTITY fileRevert.accesskey "d">
-<!ENTITY saveCmd.label "Gem">
-<!ENTITY saveCmd.accesskey "G">
 <!ENTITY saveCmd.key "S">
-<!ENTITY saveAsCmd.label "Gem som…">
-<!ENTITY saveAsCmd.accesskey "m">
 
-<!ENTITY publishCmd.label "Overfør">
-<!ENTITY publishCmd.accesskey "o">
-<!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "Overfør som…">
-<!ENTITY publishAsCmd.accesskey "v">
-<!ENTITY saveAsChangeEncodingCmd.label "Gem med tegnsættet">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "E">
 
 <!-- Edit menu items -->
-<!ENTITY editMenu.label "Rediger">
-<!ENTITY editMenu.accesskey "R">
 <!ENTITY pasteNoFormatting.label "Indsæt uden formatering">
 <!ENTITY pasteNoFormatting.accesskey "u">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Indsæt som">
 <!ENTITY pasteAs.accesskey "i">
-<!ENTITY publishSettings.label "Overførselsindstillinger…">
-<!ENTITY publishSettings.accesskey "o">
 <!ENTITY pasteAsQuotationCmd.label "Indsæt som citat">
 <!ENTITY pasteAsQuotationCmd.accesskey "C">
 <!ENTITY pasteAsQuotationCmd.key "o">
@@ -210,7 +183,7 @@
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Fjern navngivet linkmål">
 <!ENTITY formatRemoveNamedAnchors.accesskey "å">
-<!ENTITY formatRemoveNamedAnchors.key "a">
+<!ENTITY formatRemoveNamedAnchors2.key "a">
 
 <!ENTITY paragraphMenu.label "Afsnit">
 <!ENTITY paragraphMenu.accesskey "A">

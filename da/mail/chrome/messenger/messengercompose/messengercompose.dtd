@@ -16,6 +16,7 @@
 <!ENTITY attachMenu.accesskey "V">
 <!ENTITY attachFileCmd.label "Filer…">
 <!ENTITY attachFileCmd.accesskey "F">
+<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachPageCmd.label "Hjemmeside…">
 <!ENTITY attachPageCmd.accesskey "H">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
