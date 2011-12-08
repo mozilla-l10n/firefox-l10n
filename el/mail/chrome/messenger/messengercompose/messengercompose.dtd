@@ -11,6 +11,7 @@
 <!ENTITY newContact.accesskey "φ">
 <!ENTITY attachMenu.label "Επισύναψη">
 <!ENTITY attachMenu.accesskey "ψ">
+<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachFileCmd.label "Αρχείο(α)...">
 <!ENTITY attachFileCmd.accesskey "ρ">
 <!ENTITY attachPageCmd.label "Ιστοσελίδα...">

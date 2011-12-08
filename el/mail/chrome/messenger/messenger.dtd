@@ -10,14 +10,19 @@
 <!ENTITY recentlyClosedTabsCmd.label "Πρόσφατα κλεισμένες καρτέλες">
 <!ENTITY recentlyClosedTabsCmd.accesskey "φ">
 <!ENTITY undoCloseTabCmd.commandkey "T">
+<!ENTITY newCreateEmailAccountCmd.label "Δημιουργία νέου λογαριασμού αλληλογραφίας…">
+<!ENTITY newCreateEmailAccountCmd.accesskey "γ">
+<!ENTITY newExistingEmailAccountCmd.label "Υπάρχων λογαριασμός αλληλογραφίας…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "χ">
+<!ENTITY showFolderPaneCmd.label "Ταμπλό φακέλων">
+<!ENTITY showFolderPaneCmd.accesskey "φ">
+
 <!ENTITY moveToNewWindow.label "Μετακίνηση σε νέο παράθυρο">
 <!ENTITY moveToNewWindow.accesskey "θ">
 <!ENTITY newVirtualFolderCmd.label "Αποθηκευμένη αναζήτηση...">
 <!ENTITY newVirtualFolderCmd.accesskey "θ">
 <!ENTITY newOtherAccountsCmd.label "Άλλοι λογαριασμοί…">
 <!ENTITY newOtherAccountsCmd.accesskey "λ">
-<!ENTITY newEmailAccountCmd.label "Λογαριασμός αλληλογραφίας…">
-<!ENTITY newEmailAccountCmd.accesskey "φ">
 <!ENTITY openMessageFileCmd.label "Άνοιγμα αποθηκευμένου μηνύματος">
 <!ENTITY openMessageFileCmd.accesskey "ν">
 <!ENTITY openAttachmentCmd.label "Συνημμένα">
@@ -321,6 +326,7 @@
 <!ENTITY forwardMsgCmd.key "l">
 <!ENTITY forwardAsMenu.label "Προώθηση ως">
 <!ENTITY forwardAsMenu.accesskey "θ">
+
 <!ENTITY forwardAsInline.label "Ως αντικείμενο μέσα στο μήνυμα">
 <!ENTITY forwardAsInline.accesskey "τ">
 <!ENTITY forwardAsAttachmentCmd.label "Συνημμένο">

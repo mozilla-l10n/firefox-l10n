@@ -192,5 +192,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY corruptedContentError.title "Σφάλμα κατεστραμμένου περιεχομένου">
 <!ENTITY corruptedContentError.longDesc "<p>Δεν είναι δυνατή η εμφάνιση αυτής της σελίδας επειδή υπήρξε ένα σφάλμα στην μεταγωγή δεδομένων.</p><ul><li>Επικοινωνήστε με τους ιδιοκτήτες της ιστοσελίδας για να τους ενημερώσετε για το πρόβλημα.</li></ul>">
 
-
+<!ENTITY notCached.title "Το έγγραφο έληξε">
+<!ENTITY notCached.longDesc "<p>Το έγγραφο που ζητήσατε δεν είναι πια διαθέσιμο στην προσωρινή μνήμη.</p><ul><li>Ως μέτρο ασφαλείας ο  &brandShortName; δεν ζητά ξανά να ανασύρει ευαίσθητα έγγραφα.</li><li>Πατήστε Προσπάθεια ξανά για να γίνει αίτηση ξανά στη σελίδα.</li></ul>">
 

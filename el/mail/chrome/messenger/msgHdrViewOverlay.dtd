@@ -131,7 +131,7 @@
 <!ENTITY OpenMessageForMsgId.label "Άνοιγμα μηνύματος για ID">
 <!ENTITY OpenBrowserWithMsgId.label "Άνοιγμα περιηγητή με Message-ID">
 
-
+<!ENTITY openAttachment.tooltip "Άνοιγμα του συνημμένου αρχείου">
 
 
 
