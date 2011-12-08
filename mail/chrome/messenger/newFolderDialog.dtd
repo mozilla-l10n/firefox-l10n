@@ -40,12 +40,12 @@
 <!ENTITY newFolderDialog.title      "Yeni dizin">
 <!ENTITY name.label                 "Dizin ismi:">
 <!ENTITY name.accesskey             "D">
-<!ENTITY description.label          "Aşağıdaki dizinin içinde oluştur:">
+<!ENTITY description.label          "Aşağıdaki dizinin alt dizini olarak oluştur:">
 <!ENTITY description.accesskey      "k">
 <!ENTITY folderRestriction1.label   "Bu sunucu dizinleri iki özel türle sınırlandırıyor.">
 <!ENTITY folderRestriction2.label   "Yeni dizin aşağıdakileri içerebilir:">
 <!ENTITY foldersOnly.label          "Sadece dizinler">
-<!ENTITY messagesOnly.label         "Sadece postalar">
+<!ENTITY messagesOnly.label         "Sadece iletiler">
 <!ENTITY accept.label               "Dizin oluştur">
 <!ENTITY accept.accesskey           "o">
 

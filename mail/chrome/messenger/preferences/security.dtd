@@ -1,7 +1,7 @@
 <!ENTITY itemJunk.label          "Gereksiz">
-<!ENTITY itemPhishing.label      "E-posta sahtekârlığı">
+<!ENTITY itemPhishing.label      "E-posta sahtekârlıkları">
 <!ENTITY itemPasswords.label     "Parolalar">
-<!ENTITY itemAntiVirus.label     "Anti-virüs">
+<!ENTITY itemAntiVirus.label     "Antivirüs">
 <!ENTITY itemCookies.label       "Web içeriği">
 
 <!-- Junk Mail Controls -->
@@ -14,15 +14,11 @@
 <!ENTITY manualMarkModeDelete.accesskey "s">
 <!ENTITY markAsReadOnSpam.label "Gereksiz olarak değerlendirilen iletileri okunmuş say">
 <!ENTITY markAsReadOnSpam.accesskey "G">
-<!ENTITY enableJunkLogging.label "Gereksiz posta süzgeç günlüğü tut">
+<!ENTITY enableJunkLogging.label "Gereksiz posta süzgeç günlüğünü etkinleştir">
 <!ENTITY enableJunkLogging.accesskey "e">
 <!ENTITY openJunkLog.label "Günlüğü göster">
 <!ENTITY openJunkLog.accesskey "G">
-<<<<<<< local
 <!ENTITY resetTrainingData.label "Eğitim verilerini sıfırla">
-=======
-<!ENTITY resetTrainingData.label "Ögrenilmiş verileri sil">
->>>>>>> other
 <!ENTITY resetTrainingData.accesskey "r">
 
 <!-- Phishing Detector -->
@@ -36,15 +32,15 @@
 <!ENTITY savedPasswords.intro           "&brandShortName; bütün hesaplarınızın parolalarını hatırlayabilir.">
 <!ENTITY useMasterPassword.label        "Ana parola kullan">
 <!ENTITY useMasterPassword.accesskey    "A">
-<!ENTITY masterPassword.intro           "Ana parola bütün parolalarınızı koruyor, sadece her oturumda onu girmeniz gerekecektir.">
+<!ENTITY masterPassword.intro           "Ana parola bütün parolalarınızı kokur, ama her oturumda ana parolayı tekrar girmeniz gerekir.">
 <!ENTITY changeMasterPassword.label     "Ana parolayı değiştir…">
 <!ENTITY changeMasterPassword.accesskey "n">
-<!ENTITY savedPasswords.label           "Kayıtlı parolalar">
+<!ENTITY savedPasswords.label           "Kayıtlı parolalar…">
 <!ENTITY savedPasswords.accesskey       "K">
 
 <!-- Anti Virus -->
 <!ENTITY antiVirus.intro      "&brandShortName; antivirüs yazılımlarının gelen iletileri depolamadan önce virüslere karşı taramasını kolaylaştırabilir.">
-<!ENTITY antiVirus.label      "Anti-virüs yazılımının belirli iletilerin karantinaya gönderilmesine izin ver">
+<!ENTITY antiVirus.label      "Antivirüs yazılımının gelen iletilerin karantinaya gönderilmesine izin ver">
 <!ENTITY antiVirus.accesskey  "A">
 
 <!-- Cookies -->
@@ -56,7 +52,7 @@
 <!ENTITY expire.label                   "süresi dolana dek">
 <!ENTITY close.label                    "&brandShortName; kapatılana dek">
 <!ENTITY askEachTime.label              "her seferinde bana sor">
-<!ENTITY cookieExceptions.label         "Ayrıcalıklar">
+<!ENTITY cookieExceptions.label         "Ayrıcalıklar…">
 <!ENTITY cookieExceptions.accesskey     "A">
 <!ENTITY showCookies.label              "Çerezleri göster…">
 <!ENTITY showCookies.accesskey          "z">

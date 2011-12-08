@@ -1,13 +1,8 @@
-<!ENTITY notificationsDialog2.title       "Yeni ileti uyarısı ayarları">
-<!ENTITY window.width                     "36em">
+<!ENTITY notificationsDialog2.title       "Yeni ileti uyarısını özelleştir">
+<!ENTITY window.width                     "30em">
 
-<<<<<<< local
 <!ENTITY alertCustomization.intro         "Uyarı bildiriminde hangi alanların gösterileceğini seçin:">
 <!ENTITY previewText.label                "İleti ön izleme metni">
-=======
-<!ENTITY alertCustomization.intro         "Uyarılarda hangi alanların gösterileceğini seçin:">
-<!ENTITY previewText.label                "İleti önizleme metni">
->>>>>>> other
 <!ENTITY previewText.accesskey            "İ">
 <!ENTITY subject.label                    "Konu">
 <!ENTITY subject.accesskey                "K">

@@ -3,20 +3,16 @@
 <!ENTITY enableStartPage.accesskey        "g">
 <!ENTITY location.label                   "Konum:">
 <!ENTITY location1.accesskey               "o">
-<<<<<<< local
 <!ENTITY useDefault.label                 "Varsayılanı yükle">
-=======
-<!ENTITY useDefault.label                 "Öntanımlıyı yükle">
->>>>>>> other
 <!ENTITY useDefault.accesskey             "g">
 
-<!ENTITY bounceSystemDockIcon.label       "Küçük simgeyi oynat">
+<!ENTITY bounceSystemDockIcon.label       "Dock simgesini oynat">
 <!ENTITY bounceSystemDockIcon.accesskey   "o">
 
-<!ENTITY newMessagesArrive.label          "Yeni ileti geldiğinde">
+<!ENTITY newMessagesArrive.label          "Yeni ileti geldiğinde:">
 <!ENTITY playSound.label                  "Ses dosyası çal">
 <!ENTITY playSound1.accesskey              "d">
-<!ENTITY showAnimatedAlert.label          "Beni uyar">
+<!ENTITY showAnimatedAlert.label          "Uyarı göster">
 <!ENTITY showAnimatedAlert.accesskey      "y">
 <!ENTITY customizeMailAlert.label         "Özelleştir…">
 <!ENTITY customizeMailAlert.accesskey     "z">
@@ -24,7 +20,7 @@
 <!ENTITY play.label                       "Çal">
 <!ENTITY play.accesskey                   "l">
 <!ENTITY systemsound.label                "Yeni posta için öntanımlı sistem sesi">
-<!ENTITY systemsoundMac.label             "Sistem uyarı ses dosyaları">
+<!ENTITY systemsoundMac.label             "Sistem uyarı sesi">
 <!ENTITY systemsoundMac.accesskey         "y">
 <!ENTITY systemsound.accesskey            "Y">
 <!ENTITY customsound.label                "Aşağıdaki ses dosyasını kullan">
@@ -33,8 +29,8 @@
 <!ENTITY browse.accesskey                 "G">
 
 <!ENTITY addonsMgr.label                  "Eklentiler">
-<!ENTITY manageAddonsDescWin.label        "Eklenti ayarları">
-<!ENTITY manageAddonsDescUnix2.label      "Eklenti tercihleri">
-<!ENTITY manageAddons.label               "Eklenti yönetimi…">
+<!ENTITY manageAddonsDescWin.label        "Eklenti seçeneklerinizi değiştirin">
+<!ENTITY manageAddonsDescUnix2.label      "Eklenti tercihlerinizi değiştirin">
+<!ENTITY manageAddons.label               "Eklentileri yönet…">
 <!ENTITY manageAddons.accesskey           "E">
 

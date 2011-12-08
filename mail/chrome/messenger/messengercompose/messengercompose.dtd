@@ -1,30 +1,26 @@
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
-<!ENTITY msgComposeWindow.title "Yeni posta (başlıksız):">
+<!ENTITY msgComposeWindow.title "İleti yaz: (başlıksız)">
 
 <!-- File Menu -->
 <!ENTITY fileMenu.label "Dosya"> 
 <!ENTITY fileMenu.accesskey "D">
 <!ENTITY newMenu.label "Yeni">
 <!ENTITY newMenu.accesskey "n">
-<!ENTITY newMessage.label "Posta">
+<!ENTITY newMessage.label "İleti">
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "P">
-<<<<<<< local
 <!ENTITY newContact.label "Adres defteri kişisi…">
-=======
-<!ENTITY newContact.label "Adres defteri adresi.…">
->>>>>>> other
 <!ENTITY newContact.accesskey "A">
 <!ENTITY attachMenu.label "Ek">
 <!ENTITY attachMenu.accesskey "E">
-<!ENTITY attachFileCmd.label "Dosya…">
+<!ENTITY attachFileCmd.label "Dosya(lar)…">
 <!ENTITY attachFileCmd.accesskey "o">
 <!ENTITY attachFileCmd.key "A">
 <!ENTITY attachPageCmd.label "Web sayfası…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCardCmd.label "Kartvizit ekle (vCard)">
+<!ENTITY attachVCardCmd.label "Kişisel kart (vCard)">
 <!ENTITY attachVCardCmd.accesskey "K">
 <!ENTITY closeCmd.label "Kapat">
 <!ENTITY closeCmd.key "W">
@@ -38,11 +34,7 @@
 <!ENTITY saveAsFileCmd.accesskey "o">
 <!ENTITY saveAsDraftCmd.label "Taslak">
 <!ENTITY saveAsDraftCmd.accesskey "T">
-<<<<<<< local
 <!ENTITY saveAsTemplateCmd.label "Şablon">
-=======
-<!ENTITY saveAsTemplateCmd.label "Geçici">
->>>>>>> other
 <!ENTITY saveAsTemplateCmd.accesskey "c">
 <!ENTITY sendNowCmd.label "Şimdi gönder">
 <!ENTITY sendCmd.keycode "VK_RETURN">
@@ -91,7 +83,7 @@
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "b">
 <!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Öncekini ara">
+<!ENTITY findPrevCmd.label "Öncekini bul">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.accesskey "n"> 
@@ -105,7 +97,7 @@
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showCompositionToolbarCmd.label "Düzenleme araç çubuğu">
 <!ENTITY showCompositionToolbarCmd.accesskey "D">
-<!ENTITY showFormattingBarCmd.label "Biçimlendirme Araç Çubuğu">
+<!ENTITY showFormattingBarCmd.label "Biçimlendirme çubuğu">
 <!ENTITY showFormattingBarCmd.accesskey "B">
 <!ENTITY showTaskbarCmd.label "Durum Çubuğu">
 <!ENTITY showTaskbarCmd.accesskey "m">
@@ -122,44 +114,36 @@
 <!-- Options Menu -->
 <!ENTITY optionsMenu.label "Seçenekler">
 <!ENTITY optionsMenu.accesskey "S">
-<!ENTITY checkSpellingCmd2.label "İmla Denetimi…">
+<!ENTITY checkSpellingCmd2.label "İmla denetimi…">
 <!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY checkSpellingCmd2.key2 "VK_F7">
 <!ENTITY checkSpellingCmd2.accesskey "İ">
-<!ENTITY enableInlineSpellChecker.label "Yazarken denetle">
+<!ENTITY enableInlineSpellChecker.label "Yazarken imla denetimi yap">
 <!ENTITY enableInlineSpellChecker.accesskey "Y">
-<!ENTITY quoteCmd.label "Alıntı yap">
+<!ENTITY quoteCmd.label "İletiyi alıntıla">
 <!ENTITY quoteCmd.accesskey "y">
 
 <!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCard.label "Kartvizit ekle (vCard)">
+<!ENTITY attachVCard.label "Kişisel kart ekle (vCard)">
 <!ENTITY attachVCard.accesskey "v">
 
 <!ENTITY returnReceiptMenu.label "Alındı onayı">
 <!ENTITY returnReceiptMenu.accesskey "A">
-<!ENTITY dsnMenu.label "Teslimat durumu bildirisi">
+<!ENTITY dsnMenu.label "Teslimat durumu bildirimi">
 <!ENTITY dsnMenu.accesskey "d">
 <!ENTITY outputFormatMenu.label "Biçim">
 <!ENTITY outputFormatMenu.accesskey "B">
-<!ENTITY autoFormatCmd.label "Otomatik tanıma">
+<!ENTITY autoFormatCmd.label "Otomatik tanı">
 <!ENTITY autoFormatCmd.accesskey "t">
 <!ENTITY plainTextFormatCmd.label "Sadece düz metin">
 <!ENTITY plainTextFormatCmd.accesskey "c">
-<!ENTITY htmlFormatCmd.label "Sadece zengin metin olarak (HTML)">
+<!ENTITY htmlFormatCmd.label "Sadece zengin metin (HTML)">
 <!ENTITY htmlFormatCmd.accesskey "z">
-<<<<<<< local
 <!ENTITY bothFormatCmd.label "Düz ve zengin (HTML) metin">
-=======
-<!ENTITY bothFormatCmd.label "Düzgün ve Zengin (HTML) Metin">
->>>>>>> other
 <!ENTITY bothFormatCmd.accesskey "Z">
-<<<<<<< local
 <!ENTITY priorityMenu.label "Öncelik">
-=======
-<!ENTITY priorityMenu.label "Önemlilik">
->>>>>>> other
 <!ENTITY priorityMenu.accesskey "Ö">
-<!ENTITY priorityButton.label "Önemlilik:">
+<!ENTITY priorityButton.label "Öncelik:">
 <!ENTITY lowestPriorityCmd.label "En düşük">
 <!ENTITY lowestPriorityCmd.accesskey "d">
 <!ENTITY lowPriorityCmd.label "Düşük">
@@ -201,18 +185,18 @@
 <!-- Mail Toolbar -->
 <!ENTITY sendButton.label "Gönder">
 <!ENTITY quoteButton.label "Alıntı yap">
-<!ENTITY addressButton.label "Adres">
+<!ENTITY addressButton.label "Kişiler">
 <!ENTITY attachButton.label "Ek">
 <!ENTITY spellingButton.label "İmla denetimi">
 <!ENTITY saveButton.label "Kaydet">
 
 <!-- Mail Toolbar Tooltips -->
-<!ENTITY sendButton.tooltip "İletiyi şimdi gönder"> 
-<!ENTITY sendlaterButton.tooltip "İletiyi daha sonra gönder"> 
+<!ENTITY sendButton.tooltip "Bu iletiyi şimdi gönder"> 
+<!ENTITY sendlaterButton.tooltip "Bu iletiyi daha sonra gönder"> 
 <!ENTITY quoteButton.tooltip "Önceki iletiden alıntı yap"> 
-<!ENTITY addressButton.tooltip "Alıcıyı adres defterinden seç"> 
-<!ENTITY attachButton.tooltip "Bu iletiye dosya ekle"> 
-<!ENTITY spellingButton.tooltip "Tüm iletide ve ya seçili metinde yazım hatalarını denetler">
+<!ENTITY addressButton.tooltip "Adres defterinden alıcı seç"> 
+<!ENTITY attachButton.tooltip "Dosya ekle"> 
+<!ENTITY spellingButton.tooltip "Seçimin veya tüm iletinin imla denetimini yapar">
 <!ENTITY saveButton.tooltip "Bu iletiyi kaydet"> 
 <!ENTITY cutButton.tooltip              "Kes">
 <!ENTITY copyButton.tooltip             "Kopyala">
@@ -276,15 +260,15 @@
 <!ENTITY openAttachment.accesskey "A">
 <!ENTITY delete.label "Sil">
 <!ENTITY delete.accesskey "S">
-<!ENTITY removeAttachment.label "Ekleri sil">
+<!ENTITY removeAttachment.label "Eki sil">
 <!ENTITY removeAttachment.accesskey "k">
-<!ENTITY renameAttachment.label "Yeniden isimlendir…">
+<!ENTITY renameAttachment.label "Yeniden adlandır…">
 <!ENTITY renameAttachment.accesskey "r">
 <!ENTITY selectAll.label "Tümünü seç">
 <!ENTITY selectAll.accesskey "e">
-<!ENTITY attachFile.label "Dosyayı ek olarak  ekle…">
+<!ENTITY attachFile.label "Dosya ekle…">
 <!ENTITY attachFile.accesskey "D">
-<!ENTITY attachPage.label "Web sayfasını ek olarak ekle…">
+<!ENTITY attachPage.label "Web sayfası ekle…">
 <!ENTITY attachPage.accesskey "W">
 
 <!-- Spell checker context menu items -->
@@ -292,6 +276,6 @@
 <!ENTITY spellAddDictionaries.accesskey "S">
 
 <!-- Title for the address picker panel -->
-<!ENTITY addressesSidebarTitle.label "Adresler">
+<!ENTITY addressesSidebarTitle.label "Kişiler">
 
 

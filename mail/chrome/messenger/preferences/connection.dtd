@@ -1,24 +1,24 @@
 <!ENTITY  connectionsDialog.title       "Bağlantı ayarları">
-<!ENTITY  window.width                   "46em">
+<!ENTITY  window.width                   "37em">
 
-<!ENTITY  proxyTitle.label              "İnternet vekil sunucu ayarları">
+<!ENTITY  proxyTitle.label              "İnternete erişmek için vekil sunucuları yapılandırın">
 <!ENTITY  noProxyTypeRadio.label        "Vekil sunucu kullanma">
 <!ENTITY  noProxyTypeRadio.accesskey    "n">
-<!ENTITY  systemTypeRadio.label         "Sistem vekil sunucusu ayarlarını kullan">
+<!ENTITY  systemTypeRadio.label         "Sistemin vekil sunucu ayarlarını kullan">
 <!ENTITY  systemTypeRadio.accesskey     "n">
-<!ENTITY  WPADTypeRadio.label           "Vekil sunucu ayarlarını otomatik tanı">
+<!ENTITY  WPADTypeRadio.label           "Bu ağın vekil sunucu ayarlarını otomatik tespit et">
 <!ENTITY  WPADTypeRadio.accesskey       "s">
-<!ENTITY  manualTypeRadio.label         "Vekil sunucu kullan">
+<!ENTITY  manualTypeRadio.label         "Vekil sunucuyu elle yapılandır:">
 <!ENTITY  manualTypeRadio.accesskey     "i">
-<!ENTITY  autoTypeRadio.label           "Otomatik vekil sunucu ayarlama adresi:">
+<!ENTITY  autoTypeRadio.label           "Otomatik vekil sunucu yapılandırma adresi:">
 <!ENTITY  autoTypeRadio.accesskey       "a">
 <!ENTITY  reload.label                  "Tekrar yükle">
 <!ENTITY  reload.accesskey              "T">
-<!ENTITY  http.label                    "HTTP vekil sunucusu">
+<!ENTITY  http.label                    "HTTP vekil sunucusu:">
 <!ENTITY  http.accesskey                "H">
 <!ENTITY  ssl.label                     "SSL vekil sunucusu:">
 <!ENTITY  ssl.accesskey                 "S">
-<!ENTITY  socks.label                   "SOCKS makine:">
+<!ENTITY  socks.label                   "SOCKS sunucusu:">
 <!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
@@ -30,14 +30,9 @@
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  SOCKSport.label               "Port:">
 <!ENTITY  SOCKSport.accesskey           "t">
-<!ENTITY  noproxy.label                 "Vekil sunucu kullanma">
+<!ENTITY  noproxy.label                 "Vekil sunucu kullanma:">
 <!ENTITY  noproxy.accesskey             "n">
-<<<<<<< local
 <!ENTITY  noproxyExplain.label          "Örnek: .mozilla.org, .net.tr, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Bu vekil sunucuyu bütün protokollerde kullan">
-=======
-<!ENTITY  noproxyExplain.label          "Örnek: .linux-sevenler.org">
-<!ENTITY  shareproxy.label              "Vekil sunucuyu bütün protokollerde kullan">
->>>>>>> other
 <!ENTITY  shareproxy.accesskey          "V">
 
