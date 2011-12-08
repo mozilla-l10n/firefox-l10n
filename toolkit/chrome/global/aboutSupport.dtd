@@ -38,3 +38,5 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.updateHistoryTitle "Lược sử Cập nhật">
 
 <!ENTITY aboutSupport.copyToClipboard.label "Chép tất cả vào clipboard">
+<!ENTITY aboutSupport.appBasicsCrashIDs "Báo cáo Đổ vỡ">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Sử dụng Bộ nhớ">

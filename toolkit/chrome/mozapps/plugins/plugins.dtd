@@ -40,3 +40,4 @@
 <!ENTITY report.disabled                                     "Việc báo cáo lỗi bị vô hiệu hóa.">
 <!ENTITY report.failed                                       "Việc gửi lên thất bại.">
 <!ENTITY report.unavailable                                  "Hiện không có báo cáo nào.">
+<!ENTITY clickToPlayPlugin                                   "Chạm đây để kích hoạt phần bổ trợ.">
