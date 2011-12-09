@@ -20,6 +20,13 @@
 <!ENTITY stats.framesPresented "Fotogramas presentados">
 <!ENTITY stats.framesPainted "Fotogramas pintados">
 
+<!ENTITY error.aborted "Detívose a carga do vídeo.">
+<!ENTITY error.network "Interrompeuse a reprodución do vídeo debido a un erro da rede.">
+<!ENTITY error.decode "Non é posíbel reproducir o vídeo porque o ficheiro está danado.">
+<!ENTITY error.srcNotSupported "Non se admite o formato de vídeo ou o tipo MIME.">
+<!ENTITY error.noSource "Non se atopou o vídeo.">
+<!ENTITY error.generic "Interrompeuse a reprodución do vídeo debido a un erro descoñecido.">
+
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
