@@ -14,7 +14,7 @@
 <!ENTITY bccAddress.label "Bu e-posta adreslerini Bcc'ye ekle:">
 <!ENTITY bccAddress.accesskey "B">
 <!ENTITY bccAddressList.placeholder "Adresleri virgülle ayırın">
-<!ENTITY saveMessageDlg.label "Mesajlar kaydedildiğinde onay penceresini göster">
+<!ENTITY saveMessageDlg.label "İletiler kaydedildiğinde onay penceresini göster">
 <!ENTITY saveMessageDlg.accesskey "s">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY sentFolderOn.label "&quot;Giden&quot; dizini:">
@@ -22,7 +22,7 @@
 <!ENTITY sentInOtherFolder.label "Diğer:">
 <!ENTITY sentInOtherFolder.accesskey "D">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesTitle.label "İleti Arşivleri">
+<!ENTITY archivesTitle.label "İleti arşivleri">
 <!ENTITY keepArchives.label "İleti arşivleri tutma yeri:">
 <!ENTITY keepArchives.accesskey "r">
 <!ENTITY archiveHierarchyButton.label "Arşivleme seçenekleri...">
@@ -31,7 +31,7 @@
 <!ENTITY archivesFolderOn.accesskey "d">
 <!ENTITY archiveInOtherFolder.label "Diğer:">
 <!ENTITY archiveInOtherFolder.accesskey "D">
-<!ENTITY specialFolders.label "Taslaklar ve Şablonlar">
+<!ENTITY specialFolders.label "Taslaklar ve şablonlar">
 <!ENTITY keepDrafts.label "İleti taslaklarının tutulacağı yer:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "&quot;Taslak&quot; dizini:">

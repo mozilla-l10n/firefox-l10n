@@ -9,9 +9,9 @@
 <!ENTITY junkFolderOn.accesskey "i">
 <!ENTITY otherFolder.label "Diğer:">
 <!ENTITY otherFolder.accesskey "D">
-<!ENTITY purge1.label "Gereksiz postaların otomatik silinme süresi">
+<!ENTITY purge1.label "Gereksiz postaları">
 <!ENTITY purge1.accesskey "m">
-<!ENTITY purge2.label "gün">
+<!ENTITY purge2.label "gün sonra otomatik sil">
 
 <!ENTITY whitelist.label "Gönderen burada kayıtlı ise postayı gereksiz olarak işaretleme: ">
 <!ENTITY whitelist.accesskey "k">
