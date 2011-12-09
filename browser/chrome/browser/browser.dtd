@@ -319,7 +319,7 @@
 <!ENTITY mediaMute.label             "Utišaj">
 <!ENTITY mediaMute.accesskey         "U">
 <!ENTITY mediaUnmute.label           "Odtišaj">
-<!ENTITY mediaUnmute.accesskey       "m">
+<!ENTITY mediaUnmute.accesskey       "O">
 <!ENTITY mediaShowControls.label     "Prikaži kontrole">
 <!ENTITY mediaShowControls.accesskey "k">
 <!ENTITY mediaHideControls.label     "Sakrij kontrole">
