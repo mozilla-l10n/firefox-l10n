@@ -2,6 +2,8 @@
 <!ENTITY playButton.pauseLabel "Pauzeren">
 <!ENTITY muteButton.muteLabel "Dempen">
 <!ENTITY muteButton.unmuteLabel "Dempen uitschakelen">
+<!ENTITY fullscreenButton.enterfullscreenlabel "Volledig scherm">
+<!ENTITY fullscreenButton.exitfullscreenlabel "Volledigscherm verlaten">
 
 <!ENTITY stats.media "Media">
 <!ENTITY stats.size "Grootte">
