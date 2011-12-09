@@ -1,7 +1,7 @@
 <!ENTITY restorepage.tabtitle       "Povrati sesiju">
 <!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
                         you may translate "crash" instead (even though it's IT-speak) -->
-<!ENTITY restorepage.errorTitle     "Uh, ovo je sramotno.">
+<!ENTITY restorepage.errorTitle     "Ups, ovo je neugodno.">
 <!ENTITY restorepage.problemDesc    "&brandShortName; ima problema s vraćanjem vaših kartica i prozora. Ovo je često zbog nedavno otvorenih web stranica.">
 <!ENTITY restorepage.tryThis        "Možete pokušati:">
 <!ENTITY restorepage.restoreSome    "Ukloniti jednu ili više kartica za koje smatrate da bi mogle biti uzrok problema">
