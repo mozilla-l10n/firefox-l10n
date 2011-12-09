@@ -20,6 +20,13 @@
 <!ENTITY stats.framesPresented "Frames gepresenteerd">
 <!ENTITY stats.framesPainted "Frames painted">
 
+<!ENTITY error.aborted "Video laden gestopt.">
+<!ENTITY error.network "Video afspelen afgebroken vanwege een netwerkfout.">
+<!ENTITY error.decode "Video kan niet afgespeeld worden omdat het bestand corrupt is.">
+<!ENTITY error.srcNotSupported "Videoormaat of MIME-type is niet ondersteund.">
+<!ENTITY error.noSource "Video niet gevonden.">
+<!ENTITY error.generic "Video afspelen afgebroken vanwege een onbekende fout.">
+
 <!--
 Localization note: the #1 string is the current media position, and the #2
 string is the total duration. For example, when at the 5 minute mark in a 6
