@@ -106,7 +106,7 @@
 <!ENTITY allowHWAccel.accesskey          "h">
 
 <!ENTITY submitTelemetry.label           "Υποβολή δεδομένων επιδόσεων εφαρμογής">
-<!ENTITY submitTelemetry.accesskey       "P">
+<!ENTITY submitTelemetry.accesskey       "δ">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
