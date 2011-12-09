@@ -31,6 +31,10 @@
 <!ENTITY imapType.accesskey "M">
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
+<!ENTITY portNum.label "Porta:">
+<!ENTITY portNum.accesskey "o">
+<!ENTITY defaultPortLabel.label "Predefinita:">
+<!ENTITY defaultPortValue.label "">
 <!ENTITY leaveMsgsOnSrvr.label "Lascia i messaggi sul server">
 <!ENTITY leaveMsgsOnSrvr.accesskey "L">
 <!ENTITY haveSmtp1.prefix "L'attuale server di uscita (SMTP), &quot;">

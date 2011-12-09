@@ -23,8 +23,9 @@
 <!ENTITY copyMessage.label "Copia messaggio a">
 <!ENTITY forwardTo.label "Inoltra messaggio a:">
 <!ENTITY replyWithTemplate.label "Rispondi con modello">
-<!ENTITY markMessageRead.label "Segna come letto">
-<!ENTITY markMessageStarred.label "Segna come spuntato">
+<!ENTITY markMessageRead.label "Marca come letto">
+<!ENTITY markMessageUnread.label "Marca come non letto">
+<!ENTITY markMessageStarred.label "Marca come spuntato">
 <!ENTITY setPriority.label "Imposta priorità a">
 <!ENTITY addTag.label "Etichetta messaggio">
 <!ENTITY setJunkScore.label "Imposta stato Spam a">

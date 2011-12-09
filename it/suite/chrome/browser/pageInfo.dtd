@@ -36,7 +36,6 @@
 <!ENTITY formCValue "Valore corrente">
 <!ENTITY linksTab "Collegamenti">
 <!ENTITY linksTab.accesskey "l">
-<!ENTITY linkNo "N.">
 <!ENTITY linkName "Nome">
 <!ENTITY linkAddress "Indirizzo">
 <!ENTITY linkType "Tipo">
