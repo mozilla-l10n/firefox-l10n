@@ -422,14 +422,23 @@ can reach it easily. -->
 <!ENTITY thisFrameMenu.accesskey          "D">
 
 <!-- Media (video/audio) controls -->
+<!-- LOCALIZATION NOTE: The access keys for "Play" and
+"Pause" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaPlay.label             "Afspelen">
 <!ENTITY mediaPlay.accesskey         "A">
 <!ENTITY mediaPause.label            "Pauzeren">
 <!ENTITY mediaPause.accesskey        "P">
+<!-- LOCALIZATION NOTE: The access keys for "Mute" and
+"Unmute" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Dempen">
 <!ENTITY mediaMute.accesskey         "D">
 <!ENTITY mediaUnmute.label           "Dempen uitschakelen">
 <!ENTITY mediaUnmute.accesskey       "D">
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "Bedieningsknoppen tonen">
 <!ENTITY mediaShowControls.accesskey "B">
 <!ENTITY mediaHideControls.label     "Bedieningsknoppen verbergen">
@@ -438,7 +447,9 @@ can reach it easily. -->
 <!ENTITY videoFullScreen.accesskey   "V">
 <!ENTITY videoSaveImage.label        "Snapshot opslaan als…">
 <!ENTITY videoSaveImage.accesskey    "S">
-
+<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
+"Hide Statistics" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY videoShowStats.label        "Statistieken tonen">
 <!ENTITY videoShowStats.accesskey    "t">
 <!ENTITY videoHideStats.label        "Statistieken verbergen">
