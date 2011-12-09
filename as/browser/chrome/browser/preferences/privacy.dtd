@@ -42,7 +42,7 @@
 <!ENTITY  historyHeader.custom.label       "ইতিহাসৰ বাবে স্বনিৰ্বাচিত সংহতিসমূহ ব্যৱহাৰ কৰক">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; -এ আপোনাৰ ব্ৰাউছিং, ডাউনলোড, বিন্যাস আৰু সন্ধান ইতিহাস মনত ৰাখিব আৰু আপুনি চোৱা ছাইটসমূহৰ কুকি ৰাখিব।">
+<!ENTITY  rememberDescription.label      "&brandShortName; -এ আপোনাৰ ব্ৰাউছিং, ডাউনল'ড, বিন্যাস আৰু সন্ধান ইতিহাস মনত ৰাখিব আৰু আপুনি চোৱা ছাইটসমূহৰ কুকি ৰাখিব।">
 
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
@@ -61,13 +61,13 @@
 <!ENTITY  dontrememberActions.clearHistory.label "সকলো বৰ্তমান ইতিহাস সফা কৰক">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent.label "চিৰস্থায়ী ব্যক্তিগত ব্ৰাউছিং অৱস্থা">
-<!ENTITY  privateBrowsingPermanent.accesskey "P">
+<!ENTITY  privateBrowsingPermanent2.label "সদায় ব্যক্তিগত ব্ৰাউছিং অৱস্থা ব্যৱহাৰ কৰিব">
+<!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
 <!ENTITY  rememberHistory.label      "মোৰ ব্ৰাউছিং ইতিহাস মনত ৰাখিব">
 <!ENTITY  rememberHistory.accesskey  "b">
 
-<!ENTITY  rememberDownload.label         "ডাউনলোড ইতিহাস মনত ৰাখিব">
+<!ENTITY  rememberDownload.label         "ডাউনল'ড ইতিহাস মনত ৰাখিব">
 <!ENTITY  rememberDownload.accesskey     "d">
 
 <!ENTITY  rememberSearchForm.label       "সন্ধান আৰু বিন্যাস ইতিহাস মনত ৰাখিব">

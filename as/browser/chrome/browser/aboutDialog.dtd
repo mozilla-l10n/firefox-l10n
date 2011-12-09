@@ -24,13 +24,13 @@
 <!ENTITY bottomLinks.privacy        "গোপনীয়তা নীতি">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingForUpdates  "আপডেইটসমূহ নিৰিক্ষণ কৰা হৈ আছে…">
+<!ENTITY update.checkingForUpdates  "আপডেইটসমূহ নীৰিক্ষণ কৰা হৈ আছে…">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingAddonCompat "এড-অন সমূহৰ মিল খোৱা ক্ষমতা নিৰিক্ষন কৰা হৈ আছে…">
+<!ENTITY update.checkingAddonCompat "এড-অন সমূহৰ মিল খোৱা ক্ষমতা নীৰিক্ষণ কৰা হৈ আছে…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; বৰ্তমান তাৰিখলে কাৰ্য্যত">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "আপডেইটসমূহ আপোনাৰ চিস্টেম ব্যৱস্থাপকৰ দ।বাৰা অসামৰ্থবান কৰি থোৱা হৈছে">
+<!ENTITY update.adminDisabled       "আপডেইটসমূহ আপোনাৰ চিস্টেম ব্যৱস্থাপকৰ দ্বাৰা অসামৰ্থবান কৰি থোৱা হৈছে">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
@@ -38,7 +38,7 @@
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.failed.start        "আপডেইট ব্যৰ্থ। ">
-<!ENTITY update.failed.linkText     "সেহতীয়া সংস্কৰণ ডাউনলোড কৰক">
+<!ENTITY update.failed.linkText     "শেহতীয়া সংস্কৰণ ডাউনল'ড কৰক">
 <!ENTITY update.failed.end          "">
 
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
@@ -53,6 +53,11 @@
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
-<!ENTITY update.downloading.start   "আপডেইট ডাউনলোড কৰা হৈ আছে — ">
+<!ENTITY update.downloading.start   "আপডেইট ডাউনল'ড কৰা হৈ আছে — ">
 <!ENTITY update.downloading.end     "">
 
+<!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
+     channel.description.end create one sentence, with the current channel label inserted in between.
+     example: You are currently on the _Stable_ update channel. -->
+<!ENTITY channel.description.start  "আপুনি বৰ্তমানে ">
+<!ENTITY channel.description.end    " আপডেইট চেনেলত আছে। ">
