@@ -1,0 +1,6 @@
+<!ENTITY applyTheme.label "Téma alkalmazása">
+<!ENTITY applyTheme.accesskey "T">
+<!ENTITY getNewThemesCmd.label "Új témák letöltése">
+<!ENTITY getNewThemesCmd.accesskey "j">
+<!ENTITY getPersonasCmd.label "Új Personák letöltése">
+<!ENTITY getPersonasCmd.accesskey "P">
