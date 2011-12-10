@@ -18,6 +18,12 @@
 <!ENTITY stats.framesPainted "Imáxenes amosaes">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Pantalla completa">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Colar de pantalla completa">
+<!ENTITY error.aborted "Carga de videu detenida.">
+<!ENTITY error.network "Reproducción de videu albortada por fallu de rede.">
+<!ENTITY error.decode "El videu nun pue reproducise porque'l ficheru ta toyíu.">
+<!ENTITY error.srcNotSupported "Nun hai sofitu pal formatu de videu o la triba MIME.">
+<!ENTITY error.noSource "Videu non atopáu.">
+<!ENTITY error.generic "Reproducción de videu albortada por fallu desconocíu.">
 
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
