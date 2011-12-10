@@ -14,12 +14,6 @@
 <!ENTITY editPageCmd.accesskey "l">
 <!ENTITY editPageCmd.commandkey "e">
 
-<!ENTITY printPreviewCmd.label "Nyomtatási kép">
-<!ENTITY printPreviewCmd.accesskey "t">
-<!ENTITY printCmd.label "Nyomtatás...">
-<!ENTITY printCmd.accesskey "N">
-<!ENTITY printCmd.commandkey "p">
-
 <!ENTITY navbarCmd.label "Böngésző eszköztár">
 <!ENTITY navbarCmd.accesskey "B">
 <!ENTITY personalbarCmd.label "Személyes eszköztár">

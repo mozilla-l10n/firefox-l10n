@@ -62,8 +62,6 @@
 <!ENTITY printAddressBook.accesskey "C">
 <!ENTITY printPreviewAddressBook.label "Címjegyzék nyomtatási képe">
 <!ENTITY printPreviewAddressBook.accesskey "n">
-<!ENTITY printSetupCmd.label "Oldalbeállítás...">
-<!ENTITY printSetupCmd.accesskey "l">
 <!-- Edit Menu -->
 
 <!ENTITY deleteAbCmd.label "Címjegyzék törlése">

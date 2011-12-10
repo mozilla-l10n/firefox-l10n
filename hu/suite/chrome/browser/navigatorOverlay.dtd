@@ -50,12 +50,6 @@
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY historyCmd.label "Előzmények">
 <!ENTITY historyCmd.accesskey "l">
-<!ENTITY applyTheme.label "Téma alkalmazása">
-<!ENTITY applyTheme.accesskey "T">
-<!ENTITY getNewThemesCmd.label "Új témák letöltése">
-<!ENTITY getNewThemesCmd.accesskey "j">
-<!ENTITY getPersonasCmd.label "Új Personák letöltése">
-<!ENTITY getPersonasCmd.accesskey "P">
 
 <!-- Go Menu -->
 <!ENTITY goMenu.label "Ugrás">

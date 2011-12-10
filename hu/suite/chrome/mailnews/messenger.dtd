@@ -49,8 +49,8 @@
 <!ENTITY tabmailCloseButton.tooltip "Aktuális lap bezárása">
 <!ENTITY tabmailAllTabs.tooltip "Lapok listája">
 <!-- menu items:  the . means that the menu item isn't implemented yet -->
-<!-- File menu items -->
 
+<!-- File menu items -->
 
 <!ENTITY newMessage.label "Új üzenet">
 <!ENTITY newMessage.accesskey "z">
@@ -107,13 +107,7 @@
 <!ENTITY downloadSelectedCmd.accesskey "K">
 <!ENTITY downloadFlaggedCmd.label "Zászlócskával megjelölt üzenetek letöltése">
 <!ENTITY downloadFlaggedCmd.accesskey "Z">
-<!ENTITY printCmd.label "Nyomtatás…">
-<!ENTITY printCmd.accesskey "N">
-<!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Nyomtatási kép">
-<!ENTITY printPreviewCmd.accesskey "t">
-<!ENTITY printSetupCmd.label "Oldalbeállítás…">
-<!ENTITY printSetupCmd.accesskey "O">
+
 <!-- Edit Menu -->
 
 <!ENTITY deleteMsgCmd.label "Üzenet törlése">
