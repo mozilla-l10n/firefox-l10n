@@ -18,6 +18,13 @@
 <!ENTITY newNavigatorCmd.label "Böngészőablak">
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "a">
+<!ENTITY printSetupCmd.label "Oldalbeállítás…">
+<!ENTITY printSetupCmd.accesskey "O">
+<!ENTITY printPreviewCmd.label "Nyomtatási kép">
+<!ENTITY printPreviewCmd.accesskey "t">
+<!ENTITY printCmd.label "Nyomtatás...">
+<!ENTITY printCmd.accesskey "N">
+<!ENTITY printCmd.commandkey "p">
 
 <!ENTITY editMenu.label "Szerkesztés">
 <!ENTITY editMenu.accesskey "z">
