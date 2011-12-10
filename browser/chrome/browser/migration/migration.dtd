@@ -6,15 +6,15 @@
 <!ENTITY importFromBookmarks.label      "Importuoti adresyną iš:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
-<!ENTITY importFromIE.accesskey         "E">
+<!ENTITY importFromIE.accesskey         "M">
 <!ENTITY importFromNothing.label        "Neimportuoti">
-<!ENTITY importFromNothing.accesskey    "m">
-<!ENTITY importFromSeamonkey.label      "Netscape 6, 7 arba Mozilla 1.x">
-<!ENTITY importFromSeamonkey.accesskey  "N">
+<!ENTITY importFromNothing.accesskey    "N">
 <!ENTITY importFromOpera.label          "Opera">
 <!ENTITY importFromOpera.accesskey      "O">
 <!ENTITY importFromSafari.label         "Safari">
 <!ENTITY importFromSafari.accesskey     "S">
+<!ENTITY importFromChrome.label         "Chrome">
+<!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromHTMLFile.label       "HTML failo">
 <!ENTITY importFromHTMLFile.accesskey   "f">
 
