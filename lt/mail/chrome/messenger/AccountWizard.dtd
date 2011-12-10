@@ -57,7 +57,7 @@
 <!ENTITY leaveMsgsOnSrvr.label "Palikti laiškų kopijas serveryje">
 <!ENTITY leaveMsgsOnSrvr.accesskey "l">
 <!ENTITY portNum.label "Prievadas:">
-<!ENTITY portNum.accesskey "P">
+<!ENTITY portNum.accesskey "r">
 <!ENTITY defaultPortLabel.label "Numatytasis:">
 <!ENTITY defaultPortValue.label "">
 
