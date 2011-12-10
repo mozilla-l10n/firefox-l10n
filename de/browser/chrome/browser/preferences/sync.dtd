@@ -14,7 +14,7 @@
 <!ENTITY manageAccount.accesskey      "B">
 <!ENTITY viewQuota.label              "Quota anzeigen">
 <!ENTITY changePassword2.label        "Passwort ändern…">
-<!ENTITY mySyncKey.label              "Mein Sync-Schlüssel">
+<!ENTITY myRecoveryKey.label          "Mein Wiederherstellungs-Schlüssel">
 <!ENTITY resetSync2.label             "Sync zurücksetzen…">
 
 <!ENTITY addDevice.label              "Gerät hinzufügen">
