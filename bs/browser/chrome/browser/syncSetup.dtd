@@ -4,8 +4,7 @@
 
 <!ENTITY setup.pickSetupType.description "Dobrodošli, ako nikad ranije niste koristili &syncBrand.fullName.label; morat ćete kreirati novi račun.">
 <!ENTITY button.createNewAccount.label "Kreiraj novi račun">
-<!ENTITY setup.haveAccount.label "Već imam &syncBrand.fullName.label; račun.">
-<!ENTITY button.connect.label    "Konektuj">
+<!ENTITY button.haveAccount.label      "Imam račun">
 
 <!ENTITY setup.choicePage.title.label     "Da li ste ikada prije koristili &syncBrand.fullName.label;?">
 <!ENTITY setup.choicePage.new.label       "Nisam nikada prije koristio &syncBrand.shortName.label;">
@@ -53,15 +52,13 @@
 <!ENTITY button.syncKeyBackup.save.label      "Spasi…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
 
-<!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "Molimo potvrdite da niste robot">
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "Dodaj uređaj">
+<!ENTITY pairDevice.title.label             "Upari uređaj">
+<!ENTITY pairDevice.setup.description.label  "Za aktivaciju, izaberite &#x0022;Upari uređaj&#x0022; na drugim Vašim uređajima.">
+<!ENTITY pairDevice.dialog.description.label "Za aktivaciju Vašeg novog uređaja, izaberite &#x0022;Podesi Sync&#x0022; na uređaju.">
 <!ENTITY addDevice.showMeHow.label          "Pokaži mi kako.">
 <!ENTITY addDevice.dontHaveDevice.label     "Nemam uređaj kod sebe">
-<!ENTITY addDevice.setup.description.label  "Za aktivaciju, idite na &syncBrand.shortName.label; Opcije na ostalim vašim uređajima i izaberite &#x0022;Dodaj uređaj&#x0022;.">
 <!ENTITY addDevice.setup.enterCode.label    "Zatim, unesite ovaj kod:">
-<!ENTITY addDevice.dialog.description.label "Da aktivirate svoj novi uređaj, idite na &syncBrand.shortName.label; Opcije na uređaju i izaberite &#x0022;Konektuj.&#x0022;">
 <!ENTITY addDevice.dialog.enterCode.label   "Unesite kod koji vam uređaj ispiše:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Molimo pokušajte ponovo.">
 <!ENTITY addDevice.dialog.successful.label  "Vaš uređaj je uspješno dodat. Inicijalna sinhronizacija može potrajati nekoliko minuta i završit će se u pozadini.">

@@ -1,4 +1,4 @@
-<!ENTITY % brandDTD
+e<!ENTITY % brandDTD
     SYSTEM "chrome://branding/locale/brand.dtd">
   %brandDTD;
 
@@ -22,3 +22,6 @@
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "Firefox možete jednostavno prilagoditi prema vašim potrebama. <a>Hiljade add-ona vam stoje na raspolaganju</a>.">
+
+<!ENTITY abouthome.syncSetup.label   "Podesi Sync">
+<!ENTITY abouthome.pairDevice.label  "Upari uređaj">

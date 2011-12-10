@@ -90,6 +90,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "S">
 <!ENTITY fullScreenExit.label "Prekini prikaz preko cijelog ekrana">
 <!ENTITY fullScreenExit.accesskey "P">
+<!ENTITY domFullScreenWarning.label "Pritisnite ESC da prekinete prikaz preko cijelog ekrana">
 
 <!ENTITY closeWindow.label "Zatvori prozor">
 <!ENTITY closeWindow.accesskey "Z">
@@ -215,6 +216,9 @@ can reach it easily. -->
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "Pregled">
 <!ENTITY inspectButton.accesskey      "P">
+<!ENTITY inspectCloseButton.tooltiptext "Ugasi Inspector">
+<!ENTITY inspectStyleButton.label     "Stil">
+<!ENTITY inspectStyleButton.accesskey "S">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Dobavi više alata">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "M">
@@ -431,6 +435,12 @@ can reach it easily. -->
 <!ENTITY mediaHideControls.accesskey "S">
 <!ENTITY videoFullScreen.label       "Prikaz preko cijelog ekrana">
 <!ENTITY videoFullScreen.accesskey   "C">
+<!ENTITY videoSaveImage.label        "Spasi Snapshot kao…">
+<!ENTITY videoSaveImage.accesskey    "S">
+<!ENTITY videoShowStats.label        "Prikaži statistiku">
+<!ENTITY videoShowStats.accesskey    "t">
+<!ENTITY videoHideStats.label        "Sakrij statistiku">
+<!ENTITY videoHideStats.accesskey    "t">
 
 
 <!-- LOCALIZATION NOTE :

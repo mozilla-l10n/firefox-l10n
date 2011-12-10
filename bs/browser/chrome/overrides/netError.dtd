@@ -51,6 +51,9 @@
 <!ENTITY netInterrupt.title "Veza je prekinuta">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!ENTITY notCached.title "Dokument je nestao">
+<!ENTITY notCached.longDesc "<p>Traženi dokument nije dostupan u &brandShortName; kešu.</p><ul><li>Kao sigurnosna predostrožnost, &brandShortName; automatski ne traži ponovo osjetljive dokumente.</li><li>Kliknite Pokušaj ponovo da ponovo zatražite dokument od web stranice.</li></ul>">
+
 <!ENTITY netOffline.title "Offline režim">
 <!ENTITY netOffline.longDesc2 "
 <ul>

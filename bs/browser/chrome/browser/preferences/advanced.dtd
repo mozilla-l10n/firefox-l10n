@@ -58,22 +58,29 @@
 
 <!ENTITY updateTab.label                 "Update">
 
-<!ENTITY autoCheck.label                 "Automatski provjeravaj postoji li update za:">
-<!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "b">
-<!ENTITY enableAddonsUpdate2.label       "Add-one">
-<!ENTITY enableAddonsUpdate2.accesskey   "n">
 <!ENTITY enableSearchUpdate.label        "Pretraživače">
 <!ENTITY enableSearchUpdate.accesskey    "P">
-<!ENTITY whenUpdatesFound.label          "Kada je pronađen update za &brandShortName;:">
-<!ENTITY askMe.label                     "Pitaj me šta želim uraditi">
-<!ENTITY askMe.accesskey                 "P">
-<!ENTITY modeAutomatic.label             "Automatski preuzmi i instaliraj update">
-<!ENTITY modeAutomatic.accesskey         "d">
-<!ENTITY modeAutoAddonWarn.label         "Upozori me ukoliko će ovo da onemogući neki od mojih add-ona">
-<!ENTITY modeAutoAddonWarn.accesskey     "U">
+
+<!ENTITY updateApp.label                 "&brandShortName; update-i:">
+<!ENTITY updateAuto.label                "Automatski instaliraj update (preporučeno: unaprijeđena sigurnost)">
+<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateCheck.label               "Provjeri za update, ali pitaj mene da li ču ih instalirati">
+<!ENTITY updateCheck.accesskey           "C">
+<!ENTITY updateManual.label              "Nikada ne provjeravaj za update (nije preporučeno: sigurnosni rizik)">
+<!ENTITY updateManual.accesskey          "N">
+
+<!ENTITY updateAutoAddonWarn.label       "Upozori me ukoliko će ovo onemogućiti bilo koji od mojih add-ona">
+<!ENTITY updateAutoAddonWarn.accesskey   "W">
+
 <!ENTITY updateHistory.label             "Prikaži update historijat">
 <!ENTITY updateHistory.accesskey         "P">
+
+<!ENTITY useService.label                "Koristi pozadinski servis za instalaciju update-a">
+<!ENTITY useService.accesskey            "b">
+
+<!ENTITY updateOthers.label              "Automatski update-uj:">
+<!ENTITY enableAddonsUpdate3.label       "Add-oni">
+<!ENTITY enableAddonsUpdate3.accesskey   "o">
 
 <!ENTITY offlineNotify.label             "Obavijesti me kada web stranica zatraži dozvolu za pohranu podataka za offline upotrebu">
 <!ENTITY offlineNotify.accesskey         "t">

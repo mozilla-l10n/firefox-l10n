@@ -40,8 +40,8 @@
 
 <!ENTITY allowScripts.label             "Skriptama dozvoli:">
 
-<!ENTITY moveResizeWindows.label        "Pomjeranje ili promjenu veličine postojećih prozora">
-<!ENTITY moveResizeWindows.accesskey    "m">
+<!ENTITY moveResizePopupWindows.label     "Pomjeranje ili promjenu veličine iskačućih prozora">
+<!ENTITY moveResizePopupWindows.accesskey "M">
 <!ENTITY raiseLowerWindows.label        "Dizanje ili spuštanje prozora">
 <!ENTITY raiseLowerWindows.accesskey    "r">
 <!ENTITY disableContextMenus.label      "Onemogućavanje ili zamjenu kontekstnih menija">
