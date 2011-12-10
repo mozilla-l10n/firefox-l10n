@@ -43,7 +43,7 @@
 <!ENTITY generalInfo.label                       "Genel bilgiler">
 <!ENTITY folderCharsetTab.label                  "Varsayılan karakter kodlaması:">
 <!ENTITY folderCharsetTab.accesskey              "V">
-<!ENTITY folderCharsetOverride.label             "Dizindeki tüm iletileri varsayılanı uygula (ayrı ileti karakter kodlama ayarları ve otomatik tespit görmezden gelinecek)">
+<!ENTITY folderCharsetOverride.label             "Dizindeki tüm iletilere varsayılanı uygula (ayrı ileti karakter kodlama ayarları ve otomatik tespit görmezden gelinecek)">
 <!ENTITY folderCharsetOverride.accesskey         "a">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Özet dosyası indeksini yeniden oluştur">
 <!ENTITY folderRebuildSummaryFile2.label         "Dizini onar">
