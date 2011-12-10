@@ -34,11 +34,6 @@
 
 <!ENTITY printSetupCmd.label "Oldalbeállítás...">
 <!ENTITY printSetupCmd.accesskey "O">
-<!ENTITY printPreviewCmd.label "Nyomtatási kép">
-<!ENTITY printPreviewCmd.accesskey "t">
-<!ENTITY printCmd.label "Nyomtatás...">
-<!ENTITY printCmd.accesskey "N">
-<!ENTITY printCmd.commandkey "p">
 
 <!ENTITY toolbarsCmd.label "Megjelenítés/Elrejtés">
 <!ENTITY toolbarsCmd.accesskey "E">
