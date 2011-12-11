@@ -114,7 +114,7 @@
 <!ENTITY certmgr.add.label                    "Amestar">
 <!ENTITY certmgr.add.accesskey                "A">
 <!ENTITY certmgr.export.label                 "Esportar…">
-<!ENTITY certmgr.export.accesskey             "x">
+<!ENTITY certmgr.export.accesskey             "s">
 <!ENTITY certmgr.delete2.label                "Desaniciar…">
 <!ENTITY certmgr.delete2.accesskey            "e">
 <!ENTITY certmgr.delete_builtin.label         "Desaniciar o dexar de confiar…">
@@ -137,7 +137,7 @@
 <!ENTITY exceptionMgr.title                   "Amestar esceición de seguridá">
 <!ENTITY exceptionMgr.exceptionButton.label   "Confirmar esceición de seguridá">
 <!ENTITY exceptionMgr.exceptionButton.accesskey "C">
-<!ENTITY exceptionMgr.supplementalWarning     "Los bancos, tiendes y otros sitios públicos llexítimos nun-y van pedir facer esto.">
+<!ENTITY exceptionMgr.supplementalWarning     "Los bancos, tiendes y otros sitios públicos llexítimos nun-y van pidir facer esto.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Sirvidor">
 <!ENTITY exceptionMgr.certlocation.url        "Direición:">
 <!ENTITY exceptionMgr.certlocation.download   "Obtener certificáu">

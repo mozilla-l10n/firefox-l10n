@@ -2,7 +2,7 @@
 <!ENTITY accountName.label "Nome de la cuenta:">
 <!ENTITY accountName.accesskey "N">
 <!ENTITY identityTitle.label "Identidá">
-<!ENTITY identityDesc.label "Cada cuenta tien una identidá, que ye la información qu'otres personas van ver al lleer los tos mensaxes.">
+<!ENTITY identityDesc.label "Cada cuenta tien una identidá, que ye la información qu'otres persones van ver al lleer los tos mensaxes.">
 <!ENTITY name.label "Nome:">
 <!ENTITY name.accesskey "m">
 <!ENTITY email.label "Direición de corréu-e:">
@@ -14,7 +14,7 @@
 <!ENTITY organization.accesskey "O">
 <!ENTITY signatureText.label "Testu de la robla:">
 <!ENTITY signatureText.accesskey "T">
-<!ENTITY signatureHtml.label "Usar HTML (p.e., &lt;b&gt;negrina&lt;/b&gt;)">
+<!ENTITY signatureHtml.label "Usar HTML (p.ex., &lt;b&gt;negrina&lt;/b&gt;)">
 <!ENTITY signatureHtml.accesskey "L">
 <!ENTITY signatureFile.label "Axuntar la robla d'un ficheru (testu, HTML o imaxe):">
 <!ENTITY signatureFile.accesskey "H">
