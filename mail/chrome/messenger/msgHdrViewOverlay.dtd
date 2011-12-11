@@ -117,6 +117,8 @@
 <!ENTITY deleteAllAttachmentsCmd.label     "Poista kaikki…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey     "K">
 
+<!ENTITY openAttachment.tooltip "Avaa liitetty tiedosto">
+
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Tallenna">
 <!ENTITY saveAttachmentButton1.tooltip     "Tallenna liitetty tiedosto">

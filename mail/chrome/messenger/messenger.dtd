@@ -23,8 +23,10 @@
 <!ENTITY newVirtualFolderCmd.accesskey  "h">
 <!ENTITY newOtherAccountsCmd.label "Muut tilit…">
 <!ENTITY newOtherAccountsCmd.accesskey "M">
-<!ENTITY newEmailAccountCmd.label "Sähköpostitilit…">
-<!ENTITY newEmailAccountCmd.accesskey "S">
+<!ENTITY newCreateEmailAccountCmd.label "Hanki uusi sähköpostitili…">
+<!ENTITY newCreateEmailAccountCmd.accesskey "H">
+<!ENTITY newExistingEmailAccountCmd.label "Olemassa oleva sähköpostitili…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "O">
 <!ENTITY openMessageFileCmd.label  "Avaa tallennettu viesti…">
 <!ENTITY openMessageFileCmd.accesskey  "A">
 <!ENTITY openAttachmentCmd.label  "Liitetiedostot">
@@ -134,6 +136,8 @@
 <!ENTITY messagePaneWide.accesskey  "L">
 <!ENTITY messagePaneVertical.label  "Pystysuora">
 <!ENTITY messagePaneVertical.accesskey  "s">
+<!ENTITY showFolderPaneCmd.label "Kansiopaneeli">
+<!ENTITY showFolderPaneCmd.accesskey "K">
 <!ENTITY showMessageCmd.label  "Viestipaneeli">
 <!ENTITY showMessageCmd.accesskey  "V">
 

@@ -49,6 +49,8 @@
 <!ENTITY half-manual-test.accesskey      "T">
 <!ENTITY manual-edit.label               "Muokkaa asetuksia">
 <!ENTITY manual-edit.accesskey           "M">
+<!ENTITY switch-to-provisioner.label     "Hanki uusi tili">
+<!ENTITY switch-to-provisioner.accesskey "H">
 
 
 <!ENTITY warning.label                   "Varoitus!">
