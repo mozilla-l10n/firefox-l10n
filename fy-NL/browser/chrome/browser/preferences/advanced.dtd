@@ -58,22 +58,28 @@
 
 <!ENTITY updateTab.label                "Fernijing">
 
-<!ENTITY autoCheck.label       			"Automatysk kontrolearje op nije ferzjes fan:">
-<!ENTITY enableAppUpdate.label        	"&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "F">
-<!ENTITY enableAddonsUpdate2.label      "Tafoegings">
-<!ENTITY enableAddonsUpdate2.accesskey  "T">
-<!ENTITY enableSearchUpdate.label       "Sykmasines">
-<!ENTITY enableSearchUpdate.accesskey   "i">
-<!ENTITY whenUpdatesFound.label         "As der fernijings foar &brandShortName; fûn binne,">
-<!ENTITY askMe.label                    "My freegje wat ik dwaan wol">
-<!ENTITY askMe.accesskey                "r">
-<!ENTITY modeAutomatic.label            "Automatysk de fernijing ynlade en ynstallearje">
-<!ENTITY modeAutomatic.accesskey        "d">
-<!ENTITY modeAutoAddonWarn.label        "My warskôgje as dit útwreidings of tema’s útskeakelje sil">
-<!ENTITY modeAutoAddonWarn.accesskey    "w">
+<!ENTITY updateApp.label                 "&brandShortName;-fernijings:">
+<!ENTITY updateAuto.label                "Fernijings automatysk ynstallearje (oanrikkemandearre: ferbettere feilichheid)">
+<!ENTITY updateAuto.accesskey            "F">
+<!ENTITY updateCheck.label               "Kontrolearje op fernijings mar lit my kieze oft ik it ynstallearje wol">
+<!ENTITY updateCheck.accesskey           "K">
+<!ENTITY updateManual.label              "Noait kontrolearje op fernijings (net oanrikkemandearre: feilichheidsrisiko)">
+<!ENTITY updateManual.accesskey          "N">
+
+<!ENTITY updateAutoAddonWarn.label       "My warskôgje as dit ien fan myn tafoegings útskeakelje sil">
+<!ENTITY updateAutoAddonWarn.accesskey   "w">
+
 <!ENTITY updateHistory.label            "Fernijingsskiednis sjen litte">
 <!ENTITY updateHistory.accesskey        "s">
+
+<!ENTITY useService.label                "Gebrûk in achtergrûntsjinst om fernijings te ynstallearjen">
+<!ENTITY useService.accesskey            "a">
+
+<!ENTITY updateOthers.label              "Automatysk fernijing:">
+<!ENTITY enableAddonsUpdate3.label       "Tafoegings">
+<!ENTITY enableAddonsUpdate3.accesskey   "o">
+<!ENTITY enableSearchUpdate.label        "Sykmasines">
+<!ENTITY enableSearchUpdate.accesskey    "S">
 
 <!ENTITY offlineNotify.label             "My fertelle as in webstee freget om gegevens te bewarjen foar offline gebrûk">
 <!ENTITY offlineNotify.accesskey         "e">

@@ -4,8 +4,7 @@
 
 <!ENTITY setup.pickSetupType.description "Wolkom, as jo noait earder &syncBrand.fullName.label; brûkt hawwe, moatte jo in account oanmeitsje.">
 <!ENTITY button.createNewAccount.label "Meitsje in nij account oan">
-<!ENTITY setup.haveAccount.label      "Ik haw al in &syncBrand.fullName.label; account">
-<!ENTITY button.connect.label    "Ferbyn">
+<!ENTITY button.haveAccount.label      "Ik haw in account">
 
 <!ENTITY setup.choicePage.title.label     "Hawwe jo &syncBrand.fullName.label; al earder brûkt?">
 <!ENTITY setup.choicePage.new.label       "Ik haw &syncBrand.shortName.label; net earder brûkt">
@@ -53,15 +52,13 @@
 <!ENTITY button.syncKeyBackup.save.label      "Bewarje…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "B">
 
-<!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "Befestigje asjobleaft dat jo net in robot binne">
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "In apparaat tafoegje">
+<!ENTITY pairDevice.title.label              "In apparaat keppelje">
 <!ENTITY addDevice.showMeHow.label          "Toan my hoe.">
 <!ENTITY addDevice.dontHaveDevice.label     "Ik haw it apparaat net by my">
-<!ENTITY addDevice.setup.description.label  "Om te aktiveaerjen, gean nei &syncBrand.shortName.label; Opsjes op jo oare apparaat en selektearje &#x0022;In apparaat tafoegje&#x0022;.">
+<!ENTITY pairDevice.setup.description.label  "Om te aktivearjen, selektearje “In apparaat keppelje” op jo oare apparaat.">
 <!ENTITY addDevice.setup.enterCode.label    "Dêrnei, typ dizze koade:">
-<!ENTITY addDevice.dialog.description.label "Om jo nije apparaat te aktivearjen, gean nei &syncBrand.shortName.label; Opsjes op it apparaat en selektearje &#x0022;Ferbyn.&#x0022;">
+<!ENTITY pairDevice.dialog.description.label "Om jo nije apparaat te aktivearjen, selektearje “Sync ynstelle” op it apparaat.">
 <!ENTITY addDevice.dialog.enterCode.label   "Typ de koade dy't it apparaat jout:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Probearje op 'e nij.">
 <!ENTITY addDevice.dialog.successful.label  "It apparaat is suksesfol tafoege. De earste syngronisaasje kin inkele minuten duorje en sil op de achtergrûn slute.">
