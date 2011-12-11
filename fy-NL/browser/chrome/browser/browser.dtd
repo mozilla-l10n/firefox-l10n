@@ -90,6 +90,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "A">
 <!ENTITY fullScreenExit.label "Folslein skerm modus ôfslute">
 <!ENTITY fullScreenExit.accesskey "F">
+<!ENTITY domFullScreenWarning.label "Druk op ESC om folsleinskermmoadus te ferlitten">
 
 <!ENTITY closeWindow.label "Finster slute">
 <!ENTITY closeWindow.accesskey "s">
@@ -215,6 +216,9 @@ can reach it easily. -->
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "Ynspektearje">
 <!ENTITY inspectButton.accesskey      "Y">
+<!ENTITY inspectCloseButton.tooltiptext "Ynspektor slute">
+<!ENTITY inspectStyleButton.label     "Styl">
+<!ENTITY inspectStyleButton.accesskey "S">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Krij mear Ark">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "K">
@@ -313,6 +317,7 @@ can reach it easily. -->
   Mac:  Cmd+K (cross platform binding)
         Cmd+Opt+F (platform convention)
   Win:  Ctrl+K (cross platform binding)
+	Ctrl+E (IE compat)
 
   We support Ctrl+K on all platforms now and advertise it in the menu since it is
   our standard - it is a "safe" choice since it is near no harmful keys like "W" as
@@ -417,21 +422,38 @@ can reach it easily. -->
 <!ENTITY thisFrameMenu.accesskey          "D">
 
 <!-- Media (video/audio) controls -->
+<!-- LOCALIZATION NOTE: The access keys for "Play" and
+"Pause" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaPlay.label             "Spylje">
 <!ENTITY mediaPlay.accesskey         "S">
 <!ENTITY mediaPause.label            "Pauze">
 <!ENTITY mediaPause.accesskey        "P">
+<!-- LOCALIZATION NOTE: The access keys for "Mute" and
+"Unmute" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Lûd út">
 <!ENTITY mediaMute.accesskey         "L">
 <!ENTITY mediaUnmute.label           "Lûd oan">
 <!ENTITY mediaUnmute.accesskey       "o">
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "Toan knoppen">
 <!ENTITY mediaShowControls.accesskey "T">
 <!ENTITY mediaHideControls.label     "Ferstop knoppen">
 <!ENTITY mediaHideControls.accesskey "F">
 <!ENTITY videoFullScreen.label       "Folslein skerm">
 <!ENTITY videoFullScreen.accesskey   "s">
-
+<!ENTITY videoSaveImage.label        "Snapshot bewarje as…">
+<!ENTITY videoSaveImage.accesskey    "S">
+<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
+"Hide Statistics" are the same because the two context-menu
+items are mutually exclusive. -->
+<!ENTITY videoShowStats.label        "Statistiken toane">
+<!ENTITY videoShowStats.accesskey    "t">
+<!ENTITY videoHideStats.label        "Statistiken ferstoppe">
+<!ENTITY videoHideStats.accesskey    "t">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
