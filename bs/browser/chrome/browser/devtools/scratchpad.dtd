@@ -95,23 +95,16 @@
 <!ENTITY browserContext.label         "Browser">
 <!ENTITY browserContext.accesskey     "B">
 
-<!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
+<!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
-<!ENTITY resetContext.label           "Reset">
-<!ENTITY resetContext.accesskey       "R">
+<!ENTITY resetContext2.label          "Resetuj varijable">
+<!ENTITY resetContext2.accesskey      "T">
 
 <!ENTITY executeMenu.label            "Izvrši">
 <!ENTITY executeMenu.accesskey        "X">
 
-<!ENTITY toolsMenu.label              "Alati">
-<!ENTITY toolsMenu.accesskey          "T">
-
-<!ENTITY errorConsoleCmd.label        "Konzola za greške">
-<!ENTITY errorConsoleCmd.accesskey    "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY webConsoleCmd.label          "Web konzola">
-<!ENTITY webConsoleCmd.accesskey      "W">
 <!ENTITY webConsoleCmd.commandkey     "k">
 

@@ -25,7 +25,7 @@
 <!ENTITY netInterrupt.longDesc "<p>Browser se uspješno povezao sa stranicom, ali je veza prekinuta pri prijenosu informacija. Molimo vas da pokušate kasnije.</p><ul><li>Da li ste u nemogućnosti otvarati druge stranice? Provjerite mrežnu konekciju računara.</li><li>I dalje imate problem? Obratite se vašem administratoru mreže ili internet provajderu za pomoć.</li></ul>">
 
 <!ENTITY notCached.title "Dokument je nestao">
-<!ENTITY notCached.longDesc "<p>Traženi dokument nije dostupan u &brandShortName; kešu.</p><ul><li>Kao sigurnosna predostrožnost, &brandShortName; automatski ne traži ponovo osjetljive dokumente.</li><li>Kliknite Pokušaj ponovo da ponovo zatražite dokument od web stranice.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Traženi dokument nije dostupan u kešu browsera.</p><ul><li>Kao sigurnosna predostrožnost, browser automatski ne traži ponovo osjetljive dokumente.</li><li>Kliknite Pokušaj ponovo da ponovo zatražite dokument od web stranice.</li></ul>">
 
 <!ENTITY netOffline.title "Offline režim">
 <!ENTITY netOffline.longDesc2 "<p>Browser radi u offline režimu i ne može se povezati na traženo mjesto.</p><ul><li>Da li je računar povezan na aktivnu mrežu?</li><li>Pritisnite &quot;Pokušaj ponovo&quot; da prebacite browser u online režim i ponovo učitate stranicu.</li></ul>">
