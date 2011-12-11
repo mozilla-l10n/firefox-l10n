@@ -7,7 +7,7 @@
 <!ENTITY convertPlain.accesskey "C">
 <!ENTITY sendHTML.label "Unviar el mensaxe en HTML de toes formes">
 <!ENTITY sendHTML.accesskey "S">
-<!ENTITY sendBoth.label "Unviar el mensaxe en testu sin formatu y en HTML">
+<!ENTITY sendBoth.label "Unviar el mensaxe en testu ensin formatu y en HTML">
 <!ENTITY sendBoth.accesskey "e">
 <!ENTITY override.label "Nota: usa la llibreta de direiciones pa especificar los formatos preferíos de testu pa los destinatarios.">
 <!ENTITY domaindesc.label "Al unviar un mensaxe a una direición con ún de los nomes de dominiu llistaos debaxo, &brandShortName; automáticamente unvia'l mensaxe nel formatu correutu.">
