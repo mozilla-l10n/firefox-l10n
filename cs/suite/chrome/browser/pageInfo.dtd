@@ -38,7 +38,7 @@
 -->
 
 <!-- Note to localizers, don't localize the strings 'width' or 'height' -->
-<!ENTITY  pageInfoWindow.dimensions  "width: 100ch; height: 30em;">
+<!ENTITY  pageInfoWindow.dimensions  "width: 100ch; height: 38em;">
 
 <!ENTITY copy.key "C">
 <!ENTITY copy.label "Kopírovat">
@@ -79,7 +79,6 @@
 
 <!ENTITY linksTab "Odkazy">
 <!ENTITY linksTab.accesskey "d">
-<!ENTITY linkNo "Č.">
 <!ENTITY linkName "Název">
 <!ENTITY linkAddress "Adresa">
 <!ENTITY linkType "Typ">
