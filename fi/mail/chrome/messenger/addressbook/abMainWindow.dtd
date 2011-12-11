@@ -87,18 +87,24 @@
 <!ENTITY showTaskbarCmd.accesskey                        "T">
 <!ENTITY customizeToolbar.label                          "Muokkaa…">
 <!ENTITY customizeToolbar.accesskey                      "M">
-<!ENTITY showContactPane.label                          "Yhteystiedon yhteenvetopaneeli">
-<!ENTITY showContactPane.accesskey                      "Y">
-<!ENTITY menu_ShowNameAs.label                           "Näytä nimi muodossa">
-<!ENTITY menu_ShowNameAs.accesskey                       "N">
-<!ENTITY firstLastCmd.label                              "Etunimi, Sukunimi">
-<!ENTITY firstLastCmd.accesskey                          "E">
-<!ENTITY lastFirstCmd.label                              "Sukunimi, Etunimi">
-<!ENTITY lastFirstCmd.accesskey                          "S">
-<!ENTITY displayNameCmd.label                            "Näytettävä nimi">
-<!ENTITY displayNameCmd.accesskey                        "N">
-<!ENTITY sortMenu.label                                  "Järjestelyperuste">
-<!ENTITY sortMenu.accesskey                              "J">
+<!ENTITY layoutMenu.label                               "Asettelu">
+<!ENTITY layoutMenu.accesskey                           "A">
+<!ENTITY showDirectoryPane.label                        "Hakemistopaneeli">
+<!ENTITY showDirectoryPane.accesskey                    "H">
+<!ENTITY showContactPane2.label                         "Yhteystietopaneeli">
+<!ENTITY showContactPane2.accesskey                     "Y">
+<!ENTITY menu_ShowNameAs.label                          "Näytä nimi muodossa">
+<!ENTITY menu_ShowNameAs.accesskey                      "N">
+<!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
+because displayed names don't have the comma in between. -->
+<!ENTITY firstLastCmd2.label                            "Etunimi Sukunimi">
+<!ENTITY firstLastCmd2.accesskey                        "E"> 
+<!ENTITY lastFirstCmd.label                             "Sukunimi, Etunimi">
+<!ENTITY lastFirstCmd.accesskey                         "S">
+<!ENTITY displayNameCmd.label                           "Näytettävä nimi">
+<!ENTITY displayNameCmd.accesskey                       "N">
+<!ENTITY sortMenu.label                                 "Järjestelyperuste">
+<!ENTITY sortMenu.accesskey                             "J">
 
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label                                 "Työkalut">

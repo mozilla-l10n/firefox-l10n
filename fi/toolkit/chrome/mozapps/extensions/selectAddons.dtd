@@ -28,7 +28,7 @@
 <!ENTITY confirm.description         "Nopeuta &brandShortName;ia entisestään poistamalla käytöstä lisäosat, joita et enää käytä. Kolmansien osapuolten asentamat lisäosat poistetaan käytöstä automaattisesti, ellet valitse niitä alta.">
 
 <!ENTITY action.disable.heading      "Seuraavat lisäosat otetaan pois käytöstä:">
-<!ENTITY action.incompatible.heading "Seuraavat lisäosat on otettu pois käytöstä, mutta ne otetaan käyttöön kun lisäosat seuraavan kerran ovat yhteensopiva:">
+<!ENTITY action.incompatible.heading "Seuraavat lisäosat on otettu pois käytöstä, mutta ne otetaan käyttöön kun lisäosat seuraavan kerran ovat yhteensopivia:">
 <!ENTITY action.update.heading       "Seuraavat lisäosat päivitetään:">
 <!ENTITY action.enable.heading       "Seuraavat lisäosat otetaan käyttöön:">
 
