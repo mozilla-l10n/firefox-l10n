@@ -15,7 +15,7 @@
 <!ENTITY myRecoveryKey.label              "Myn werstelkaai">
 <!ENTITY resetSync2.label              "Sync werinisjalisearje…">
 
-<!ENTITY addDevice.label              "In apparaat tafoegje">
+<!ENTITY pairDevice.label             "Apparaat keppelje">
 
 <!ENTITY syncMy.label               "Sync myn">
 <!ENTITY engine.bookmarks.label     "Blêdwizers">

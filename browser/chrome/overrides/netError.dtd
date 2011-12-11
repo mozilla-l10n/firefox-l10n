@@ -52,6 +52,9 @@
 <!ENTITY netInterrupt.title "De ferbining waard ferbrutsen">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!ENTITY notCached.title "Dokumint ferrûn">
+<!ENTITY notCached.longDesc "<p>It fersochte dokumint is net beskikber yn &brandShortName;'s-buffer.</p><ul><li>Fanwege in feilichheidsfoarsoarchmaatregel sil &brandShortName; fertroulike dokuminten net automatysk opnij oanfreegje.</li><li>Klik om it dokumint opnij oan te freegjen fan it webstee.</li></ul>">
+
 <!ENTITY netOffline.title "Offline-moadus">
 <!ENTITY netOffline.longDesc2 "
 <ul>
