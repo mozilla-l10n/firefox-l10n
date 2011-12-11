@@ -226,13 +226,13 @@
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "o">
 <!ENTITY viewAttachmentsInlineCmd.label "Ver axuntos incorporaos">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "a">
-<!ENTITY fullZoomEnlargeCmd.label "Averar">
+<!ENTITY fullZoomEnlargeCmd.label "Agrandar">
 <!ENTITY fullZoomEnlargeCmd.accesskey "A">
 <!ENTITY fullZoomEnlargeCmd.commandkey "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-<!ENTITY fullZoomReduceCmd.label "Allonxar">
-<!ENTITY fullZoomReduceCmd.accesskey "x">
+<!ENTITY fullZoomReduceCmd.label "Amenorgar">
+<!ENTITY fullZoomReduceCmd.accesskey "m">
 <!ENTITY fullZoomReduceCmd.commandkey "-">
 <!ENTITY fullZoomReduceCmd.commandkey2 "">
 <!ENTITY fullZoomResetCmd.label "Restablecer">
