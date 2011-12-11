@@ -3,6 +3,21 @@
 <!ENTITY muteButton.muteLabel "Mud">
 <!ENTITY muteButton.unmuteLabel "Heglev">
 
+<!ENTITY stats.media "Media">
+<!ENTITY stats.size "Ment">
+<!ENTITY stats.activity "Oberiantiz">
+<!ENTITY stats.activityPaused "Ehanet">
+<!ENTITY stats.activityPlaying "O lenn">
+<!ENTITY stats.activityEnded "Echu">
+<!ENTITY stats.activitySeeking "(o klask)">
+<!ENTITY stats.volume "Tregern">
+<!ENTITY stats.channels "Sanelloù">
+<!ENTITY stats.sampleRate "Feur standilhon">
+<!ENTITY stats.framesParsed "Anneuennoù dezrannet">
+<!ENTITY stats.framesDecoded "Anneuennoù ezvoneget">
+<!ENTITY stats.framesPresented "Anneuennoù kinniget">
+<!ENTITY stats.framesPainted "Anneuennoù treset">
+
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be

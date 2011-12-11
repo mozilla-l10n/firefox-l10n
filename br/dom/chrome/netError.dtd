@@ -24,6 +24,9 @@
 <!ENTITY netInterrupt.title "Harzet eo bet treuzkas ar roadennoù">
 <!ENTITY netInterrupt.longDesc "<p>Kennasket mat e oa ar merdeer met troc'het eo bet ar c'hennask e-pad ma oa o treuzkas stlennoù. Klaskit en-dro, mar plij.</p><ul><li>N'oc'h ket evit merdeiñ war lec'hiennoù all ? Gwiriit kennask roueded hoc'h urzhiataer.</li><li>Trubuilhoù c'hoazh ? Goulennit digant ardoer ar rouedad pe ho pourchaser Internet evit kaout skoazell.</li></ul> ">
 
+<!ENTITY notCached.title "Diamzeret eo an teul">
+<!ENTITY notCached.longDesc "<p>N'eo ket hegerz an teul goulennet e-barzh krubuilh ar merdeer.</p><ul><li>Ar merdeer ne c'houlenn ket en-dro teulioù kizidik ent emgefreek evit ho tiogelroez.</li><li>Klikit war Klask en-dro a-benn goulenn an teul digant al lec'hienn en-dro.</li></ul>">
+
 <!ENTITY netOffline.title "Mod ezlinenn">
 <!ENTITY netOffline.longDesc2 "<p>Emañ ar merdeer o labourat gant e vod ezlinenn ha n'hall ket kennaskañ ouzh an ergorenn bet goulennet.</p><ul><li>Ha kennasket eo an urzhiataer ouzh ur rouedad oberiant ?</li><li>Pouezit war &quot;Klask en-dro&quot; evit trec'haoliñ etrezek ar mod enlinenn hag adkargañ ar bajennad.</li></ul>">
 

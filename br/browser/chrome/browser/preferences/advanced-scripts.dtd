@@ -40,8 +40,8 @@
 
 <!ENTITY allowScripts.label             "Aotren skriptoù evit :">
 
-<!ENTITY moveResizeWindows.label        "Dilec'hiañ pe gemmañ ment ar prenestri a zo anezho">
-<!ENTITY moveResizeWindows.accesskey    "m">
+<!ENTITY moveResizePopupWindows.label     "Dilec'hiañ pe gemmañ ment prenestri an diflugelloù">
+<!ENTITY moveResizePopupWindows.accesskey "i">
 <!ENTITY raiseLowerWindows.label        "Sevel pe ziskenn ar prenestroù">
 <!ENTITY raiseLowerWindows.accesskey    "r">
 <!ENTITY disableContextMenus.label      "Diweredekaat pe amsaviñ lañserioù kemperzhel">

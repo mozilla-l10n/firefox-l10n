@@ -17,7 +17,7 @@
 <!ENTITY myRecoveryKey.label          "Ma alc'hwez atoriñ">
 <!ENTITY resetSync2.label             "Adderaouekaat Sync…">
 
-<!ENTITY addDevice.label              "Ouzhpennañ un trevnad">
+<!ENTITY pairDevice.label             "Koublañ un trevnad">
 
 <!ENTITY syncMy.label               "Goubredañ ma">
 <!ENTITY engine.bookmarks.label     "Sinedoù">

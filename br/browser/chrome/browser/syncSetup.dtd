@@ -4,8 +4,7 @@
 
 <!ENTITY setup.pickSetupType.description "Degemer mat, ma n'hoc'h eus ket graet gant &syncBrand.fullName.label; a-raok e vo ret deoc'h krouiñ ur gont nevez.">
 <!ENTITY button.createNewAccount.label "Krouiñ ur gont nevez">
-<!ENTITY setup.haveAccount.label "Ur gont evit &syncBrand.fullName.label; hoc'h eus endeo.">
-<!ENTITY button.connect.label    "Kennaskañ">
+<!ENTITY button.haveAccount.label      "Ur gont am eus endeo">
 
 <!ENTITY setup.choicePage.title.label     "Arveret hoc'h eus &syncBrand.fullName.label; a-raok ?">
 <!ENTITY setup.choicePage.new.label       "Ne 'm eus ket arveret &syncBrand.shortName.label; a-raok">
@@ -40,7 +39,7 @@
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "a">
 
-<!-- New Account Page 2: Sync Key -->
+<!-- My Recovery Key dialog -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; a daol evezh ouzh ho puhez prevez">
 <!ENTITY setup.newRecoveryKeyPage.description.label "A-benn gwareziñ ho puhez prevez e vo enrineget ho roadennoù holl kent bezañ kaset. Ne vo ket kaset an alc'hwez atoriñ ret a-benn ezrinegañ.">
 <!ENTITY recoveryKeyEntry.label        "Hoc'h alc'hwez atoriñ">
@@ -53,15 +52,13 @@
 <!ENTITY button.syncKeyBackup.save.label      "Enrollañ…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "E">
 
-<!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "Mar plij, kadarnait n'oc'h ket ur robot">
-<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "Ouzhpennañ un trevnad">
+<!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
+<!ENTITY pairDevice.title.label             "Koublañ un trevnad">
 <!ENTITY addDevice.showMeHow.label          "Diskouez din penaos ober.">
 <!ENTITY addDevice.dontHaveDevice.label     "N'emañ ket an trevnad ganin">
-<!ENTITY addDevice.setup.description.label  "A-benn gweredekaat, kit betek Dibarzhioù &syncBrand.shortName.label; gant ho trevnad all ha diuzañ &#x0022;Ouzhpennañ un trevnad&#x0022;.">
+<!ENTITY pairDevice.setup.description.label  "A-benn gweredekaat, diuzit &#x0022;Koublañ un trevnad&#x0022; war ho trevnad all.">
 <!ENTITY addDevice.setup.enterCode.label    "Neuze, biziata ar rineg-mañ :">
-<!ENTITY addDevice.dialog.description.label "A-benn gweredekaat ho trevnad nevez, kit betek Dibarzhioù &syncBrand.shortName.label; gant an trevnad ha diuzit &#x0022;Kennaskañ.&#x0022;">
+<!ENTITY pairDevice.dialog.description.label "A-benn gweredekaat ho trevnad nevez, diuzit &#x0022;Kefluniañ Sync&#x0022; war an trevnad.">
 <!ENTITY addDevice.dialog.enterCode.label   "Biziata ar rineg pourchaset gant an trevnad :">
 <!ENTITY addDevice.dialog.tryAgain.label    "Mar plij, klaskit en-dro.">
 <!ENTITY addDevice.dialog.successful.label  "Ouzhpennet eo bet an trevnad gant berzh. Ar goubredañ kentañ a c'hell padout meur a vunutenn hag echuet e vo en drekleur.">

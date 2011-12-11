@@ -21,6 +21,7 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "Evit ma labour an enlugellad(où) eo ret adloc'hañ &brandShortName;.">
 
 <!ENTITY missingPlugin                                       "Un enlugellad zo ret evit skrammañ an endalc'had-mañ.">
+<!ENTITY clickToPlayPlugin                                   "Klikit amañ a-benn gweredekaat an enlugellad.">
 <!ENTITY disabledPlugin                                      "Diweredekaet eo an enlugellad-mañ.">
 <!ENTITY blockedPlugin.label                                 "Harzet eo bet an enlugellad-mañ evit ho tiogel.">
 
@@ -33,8 +34,8 @@
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "Adkargañ ar bajennad">
 <!ENTITY reloadPlugin.post                                   " evit klask en-dro.">
-<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.please                                       "Kas an danevell sac'hadenn">
+<!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.checkbox                                     "…ha kas an danevell sac'hadenn">
 <!ENTITY report.submitting                                   "O kas an danevell…">
 <!ENTITY report.submitted                                    "Danevell sac'hadenn kaset.">
 <!ENTITY report.disabled                                     "Danevelloù sac'hadenn diweredekaet.">

@@ -58,22 +58,28 @@
 
 <!ENTITY updateTab.label                 "Hizivaat">
 
-<!ENTITY autoCheck.label                 "Klask an hizivadurioù ent emgefreek evit :">
-<!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate2.label       "Askouezhioù">
-<!ENTITY enableAddonsUpdate2.accesskey   "A">
-<!ENTITY enableSearchUpdate.label        "Kefluskerioù klask">
-<!ENTITY enableSearchUpdate.accesskey    "k">
-<!ENTITY whenUpdatesFound.label          "Pa vez kavet hizivadurioù nevez evit &brandShortName; :">
-<!ENTITY askMe.label                     "Goulenn diganin petra ober">
-<!ENTITY askMe.accesskey                 "n">
-<!ENTITY modeAutomatic.label             "Pellgargañ ha staliañ ent emgefreek an hizivadur">
-<!ENTITY modeAutomatic.accesskey         "a">
-<!ENTITY modeAutoAddonWarn.label         "Kas keloù din mar bez dizaotreet un askouezh bennak">
-<!ENTITY modeAutoAddonWarn.accesskey     "k">
+<!ENTITY updateApp.label                 "Hizivadurioù evit &brandShortName; :">
+<!ENTITY updateAuto.label                "Staliañ an hizivadurioù ent emgefreek (erbedet : diogelroez gwellaet)">
+<!ENTITY updateAuto.accesskey            "S">
+<!ENTITY updateCheck.label               "Gwiriañ mard ez eus hizivadurioù met leuskel ac'hanon dibab mar bezint staliet">
+<!ENTITY updateCheck.accesskey           "G">
+<!ENTITY updateManual.label              "Na wiriañ biken mard ez eus hizivadurioù (ket erbedet : arvarus evit ho tiogelroez)">
+<!ENTITY updateManual.accesskey          "N">
+
+<!ENTITY updateAutoAddonWarn.label       "Kemenn din mar bez diweredekaet un askouezh din gant an dra-se">
+<!ENTITY updateAutoAddonWarn.accesskey   "e">
+
 <!ENTITY updateHistory.label             "Diskouez roll istor an hizivaat">
 <!ENTITY updateHistory.accesskey         "r">
+
+<!ENTITY useService.label                "Arverañ ur gwazerezh e drekleur evit staliañ an hizivadurioù">
+<!ENTITY useService.accesskey            "v">
+
+<!ENTITY updateOthers.label              "Hizivaat ent emgefreek :">
+<!ENTITY enableAddonsUpdate3.label       "Askouezhioù">
+<!ENTITY enableAddonsUpdate3.accesskey   "A">
+<!ENTITY enableSearchUpdate.label        "Kefluskerioù klask">
+<!ENTITY enableSearchUpdate.accesskey    "K">
 
 <!ENTITY offlineNotify.label             "Lavarout din pa vez goulennet gant ul lec'hienn mirout roadennoù evit un arver ezlinenn">
 <!ENTITY offlineNotify.accesskey         "a">

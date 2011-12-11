@@ -90,6 +90,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "h">
 <!ENTITY fullScreenExit.label "Kuitaat Mod ar Skrammañ a-bezh">
 <!ENTITY fullScreenExit.accesskey "k">
+<!ENTITY domFullScreenWarning.label "Pouezit war ESC a-benn kuitaat mod ar skrammañ a-bezh">
 
 <!ENTITY closeWindow.label "Serriñ ar prenestr">
 <!ENTITY closeWindow.accesskey "r">
@@ -212,9 +213,12 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectPanelTitle.label      "HTML">
-<!ENTITY inspectButton.label          "Imbourc'hiñ">
-<!ENTITY inspectButton.accesskey      "I">
+<!ENTITY inspectPanelTitle.label        "HTML">
+<!ENTITY inspectButton.label            "Imbourc'hiñ">
+<!ENTITY inspectButton.accesskey        "I">
+<!ENTITY inspectCloseButton.tooltiptext "Serriñ an imbourc'her">
+<!ENTITY inspectStyleButton.label     "Stil">
+<!ENTITY inspectStyleButton.accesskey "S">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Kaout muioc'h a vinvioù">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "m">
@@ -432,7 +436,12 @@ can reach it easily. -->
 <!ENTITY mediaHideControls.accesskey "u">
 <!ENTITY videoFullScreen.label       "Skramm a-bezh">
 <!ENTITY videoFullScreen.accesskey   "S">
-
+<!ENTITY videoSaveImage.label        "Enrollañ an dapadenn-skramm evel…">
+<!ENTITY videoSaveImage.accesskey    "n">
+<!ENTITY videoShowStats.label        "Diskouez ar stadegoù">
+<!ENTITY videoShowStats.accesskey    "i">
+<!ENTITY videoHideStats.label        "Kuzhat ar stadegoù">
+<!ENTITY videoHideStats.accesskey    "u">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
