@@ -20,6 +20,13 @@
 <!ENTITY stats.framesPresented "Prezentované rámy">
 <!ENTITY stats.framesPainted "Vykreslené rámy">
 
+<!ENTITY error.aborted "Nahrávání videa zastaveno.">
+<!ENTITY error.network "Přehrávání videa selhalo z důvodu chyby sítě.">
+<!ENTITY error.decode "Video nelze přehrát, protože soubor je pokažený.">
+<!ENTITY error.srcNotSupported "Formát nebo MIME videa není podporovaný.">
+<!ENTITY error.noSource "Video nenalezeno.">
+<!ENTITY error.generic "Přehrávání videa selhalo z důvodu neznámé chyby.">
+
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
