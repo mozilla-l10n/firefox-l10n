@@ -76,8 +76,6 @@
 <!ENTITY useService.accesskey            "f">
 
 <!ENTITY updateOthers.label              "Automatiškai atnaujinti:">
-<!ENTITY enableAddonsUpdate3.label       "programos priedus">
-<!ENTITY enableAddonsUpdate3.accesskey   "p">
 <!ENTITY enableSearchUpdate.label        "ieškykles">
 <!ENTITY enableSearchUpdate.accesskey    "e">
 
