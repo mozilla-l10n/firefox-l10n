@@ -118,7 +118,7 @@
      https://developer.mozilla.org/En/Localization_and_Plurals
      -->
 <!ENTITY quickFilterBar.resultsLabel.some.formatString
-         "#7 poruka;#7 poruke;#7 poruka">
+         "#1 poruka;#1 poruke;#1 poruka">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.none):
      The contents of the results box when there is a filter active but there
