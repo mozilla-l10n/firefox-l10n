@@ -4,38 +4,39 @@
 
 <!ENTITY accessibility.label             "অভিগম্যতা">
 
-<!ENTITY useCursorNavigation.label       "পৃষ্ঠাৰ মাজত চৰণ কৰিবলৈ সদায়ে কাৰ্ছৰ চাবি ব্যৱহাৰ কৰিব">
+<!ENTITY useCursorNavigation.label       "পৃষ্ঠাৰ মাজত ব্ৰাউছ কৰিবলৈ সদায়ে কাৰ্ছৰ চাবি ব্যৱহাৰ কৰিব">
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchStartTyping.label         "মই লিখাৰ সময়তে লিপি বিচাৰিব">
 <!ENTITY searchStartTyping.accesskey     "x">
 <!ENTITY blockAutoRefresh.label          "ৱেব ছাইটে পৃষ্ঠাক পুনঃ দিশ দিয়াৰ বা পুনঃ তোলাৰ চেষ্টা কৰিলে মোক সাৱধান কৰিব">
 <!ENTITY blockAutoRefresh.accesskey      "b">
 
-<!ENTITY browsing.label                  "চৰণ কৰা">
+<!ENTITY browsing.label                  "ব্ৰাউছ কৰক">
 
 <!ENTITY useAutoScroll.label             "অ'ট'স্ক্ৰলিং ব্যৱহাৰ কৰক">
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "মিহিকৈ স্ক্ৰ'ল কৰক">
 <!ENTITY useSmoothScrolling.accesskey    "m">
-<!ENTITY allowHWAccel.label              "যেতিয়া উপলব্ধ তেতিয়া হাৰ্ডওৱেৰ ত্বৰণ ব্যৱহাৰ কৰক">
+<!ENTITY allowHWAccel.label              "যেতিয়া উপলব্ধ তেতিয়া হাৰ্ডৱেৰ ত্বৰণ ব্যৱহাৰ কৰক">
 <!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "মই লিখাৰ সময়তে বানান পৰীক্ষা কৰক">
 <!ENTITY checkSpelling.accesskey         "t">
 
 <!ENTITY systemDefaults.label            "ব্যৱস্থাপ্ৰণালীৰ অবিকল্পিত">
-<!ENTITY alwaysCheckDefault.label        "আৰম্ভৰ সময়ত &brandShortName; অবিকল্পিত চৰক হয় নে নহয় পৰীক্ষা কৰিব"><!--XXX-->
+<!ENTITY alwaysCheckDefault.label        "আৰম্ভৰ সময়ত &brandShortName; অবিকল্পিত ব্ৰাউছাৰ হয় নে নহয় পৰীক্ষা কৰিব"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "w">
 <!ENTITY checkNow.label                  "এতিয়া পৰীক্ষা কৰক">
 <!ENTITY checkNow.accesskey              "N">
 <!ENTITY submitCrashes.label             "স্খলন সংবাদ জমা কৰক">
 <!ENTITY submitCrashes.accesskey         "S">
+<!ENTITY submitTelemetry.label           "পৰিৱেশন তথ্য জমা দিয়ক">
+<!ENTITY submitTelemetry.accesskey       "P">
 
-
-<!ENTITY networkTab.label                "নে'টৱৰ্ক">
+<!ENTITY networkTab.label                "নেটৱাৰ্ক">
 
 <!ENTITY connection.label                "সংযোগ">
 
-<!ENTITY connectionDesc.label            "&brandShortName; কেনেদৰে ইন্টাৰ্নেটলৈ সংযোগ কৰে বিন্যাস কৰক">
+<!ENTITY connectionDesc.label            "&brandShortName; কেনেদৰে ইন্টাৰনেটলৈ সংযোগ কৰে সংৰূপণ কৰক কৰক">
 <!ENTITY connectionSettings.label        "পছন্দসমূহ...">
 <!ENTITY connectionSettings.accesskey    "e">
 
@@ -55,7 +56,6 @@
 <!ENTITY overrideSmartCacheSize.label    "স্বচালিত ক্যাশ ব্যৱস্থাপনা অভাৰৰাইড কৰক">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
-
 <!ENTITY updateTab.label                 "উন্নয়ন">
 
 <!ENTITY autoCheck.label                 "ইয়াৰ উন্নয়ন স্বয়ং পৰীক্ষা কৰিব:">
@@ -68,7 +68,7 @@
 <!ENTITY whenUpdatesFound.label          "যেতিয়া &brandShortName; ৰ উন্নয়ন পোৱা যাব:">
 <!ENTITY askMe.label                     "মোক প্ৰশ্ন কৰিব মই কি কৰিব খোজো">
 <!ENTITY askMe.accesskey                 "k">
-<!ENTITY modeAutomatic.label             "উন্নয়ন নিজে ডাউন্‌লোড কৰি সংস্থাপন কৰিব">
+<!ENTITY modeAutomatic.label             "উন্নয়ন নিজে ডাউনল'ড কৰি সংস্থাপন কৰিব">
 <!ENTITY modeAutomatic.accesskey         "d">
 <!ENTITY modeAutoAddonWarn.label         "মোৰ যি কোনো অতিৰিক্ত কাৰ্য্যক্ৰম নিষ্ক্ৰীয় হ'ব নেকি সতৰ্ক কৰিব">
 <!ENTITY modeAutoAddonWarn.accesskey     "W">
@@ -86,18 +86,18 @@
 <!ENTITY offlineAppsListRemove.accesskey "R">
 <!ENTITY offlineAppRemove.confirm        "অফ-লাইন তথ্য আঁতৰাওঁক">
 
-<!ENTITY encryptionTab.label             "গুপুত কৰণ">
+<!ENTITY encryptionTab.label             "ইনক্ৰিপষণ">
 
-<!ENTITY protocols.label                 "আচাৰ বিধি">
+<!ENTITY protocols.label                 "প্ৰটোকলসমূহ">
 <!ENTITY useSSL3.label                   "SSL 3.0 ব্যৱহাৰ কৰক">
 <!ENTITY useSSL3.accesskey               "3">
 <!ENTITY useTLS1.label                   "TLS 1.0 ব্যৱহাৰ কৰক">
 <!ENTITY useTLS1.accesskey               "1">
 <!ENTITY certificates.label              "প্ৰমাণপত্ৰসমূহ">
-<!ENTITY certSelection.description       "যেতিয়া এটা সেৱকক মোৰ প্ৰমাণপত্ৰৰ প্ৰয়োজন হয়:">
-<!ENTITY certs.auto                      "এটা নিজেই নিৰ্ব্বাচন কৰিব">
+<!ENTITY certSelection.description       "যেতিয়া এটা চাৰ্ভাৰক মোৰ প্ৰমাণপত্ৰৰ প্ৰয়োজন হয়:">
+<!ENTITY certs.auto                      "এটা নিজেই নিৰ্বাচন কৰিব">
 <!ENTITY certs.auto.accesskey            "l">
-<!ENTITY certs.ask                       "মোক প্ৰত্যেক বাৰেই শুধিব">
+<!ENTITY certs.ask                       "মোক প্ৰত্যেক বাৰেই সোধিব">
 <!ENTITY certs.ask.accesskey             "i">
 <!ENTITY viewCerts.label                 "প্ৰমাণপত্ৰসমূহ দেখুৱাওক">
 <!ENTITY viewCerts.accesskey             "s">
@@ -105,5 +105,5 @@
 <!ENTITY viewCRLs.accesskey              "R">
 <!ENTITY verify2.label                    "প্ৰমাণীকৰণ">
 <!ENTITY verify2.accesskey                "V">
-<!ENTITY viewSecurityDevices.label       "সুৰক্ষাৰ যন্ত্ৰ">
+<!ENTITY viewSecurityDevices.label       "সুৰক্ষাৰ ডিভাইচ">
 <!ENTITY viewSecurityDevices.accesskey   "y">

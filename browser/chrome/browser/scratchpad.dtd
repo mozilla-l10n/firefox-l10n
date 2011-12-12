@@ -1,0 +1,116 @@
+<!-- LOCALIZATION NOTE : FILE This file contains the Scratchpad window strings -->
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
+
+<!-- LOCALIZATION NOTE (scratchpad.title):
+  -  The Scratchpad is intended to provide a simple text editor for creating
+  -  and evaluating bits of JavaScript code for the purposes of function
+  -  prototyping, experimentation and convenient scripting.
+  -
+  -  It's quite possible that you won't have a good analogue for the word
+  -  "Scratchpad" in your locale. You should feel free to find a close
+  -  approximation to it or choose a word (or words) that means
+  -  "simple discardable text editor". -->
+<!ENTITY window.title                 "Scratchpad">
+
+<!ENTITY fileMenu.label               "নথিপত্ৰ">
+<!ENTITY fileMenu.accesskey           "F">
+
+<!ENTITY newWindowCmd.label           "নতুন উইন্ডো">
+<!ENTITY newWindowCmd.accesskey       "N">
+<!ENTITY newWindowCmd.commandkey      "n">
+
+<!ENTITY openFileCmd.label            "নথিপত্ৰ খোলক…">
+<!ENTITY openFileCmd.accesskey        "O">
+<!ENTITY openFileCmd.commandkey       "o">
+
+<!ENTITY saveFileCmd.label            "সংৰক্ষণ কৰক">
+<!ENTITY saveFileCmd.accesskey        "S">
+<!ENTITY saveFileCmd.commandkey       "s">
+
+<!ENTITY saveFileAsCmd.label          "এই হিচাপে সংৰক্ষণ কৰক…">
+<!ENTITY saveFileAsCmd.accesskey      "A">
+
+<!ENTITY closeCmd.label               "বন্ধ কৰক">
+<!ENTITY closeCmd.key                 "W">
+<!ENTITY closeCmd.accesskey           "C">
+
+<!ENTITY editMenu.label               "সম্পাদন কৰক">
+<!ENTITY editMenu.accesskey           "E">
+
+<!ENTITY undoCmd.label                "বাতিল কৰক">
+<!ENTITY undoCmd.key                  "Z">
+<!ENTITY undoCmd.accesskey            "U">
+
+<!ENTITY redoCmd.label                "পুনৰ কৰক">
+<!ENTITY redoCmd.key                  "Y">
+<!ENTITY redoCmd.accesskey            "R">
+
+<!ENTITY cutCmd.label                 "কাট কৰক">
+<!ENTITY cutCmd.key                   "X">
+<!ENTITY cutCmd.accesskey             "t">
+
+<!ENTITY copyCmd.label                "কপি কৰক">
+<!ENTITY copyCmd.key                  "C">
+<!ENTITY copyCmd.accesskey            "C">
+
+<!ENTITY pasteCmd.label               "পেইস্ট কৰক">
+<!ENTITY pasteCmd.key                 "V">
+<!ENTITY pasteCmd.accesskey           "P">
+
+<!ENTITY selectAllCmd.label           "সকলো নিৰ্বাচন কৰক">
+<!ENTITY selectAllCmd.key             "A">
+<!ENTITY selectAllCmd.accesskey       "A">
+
+<!ENTITY run.label                    "চলাওক">
+<!ENTITY run.accesskey                "R">
+<!ENTITY run.key                      "r">
+
+<!ENTITY inspect.label                "নীৰিক্ষণ কৰক">
+<!ENTITY inspect.accesskey            "I">
+<!ENTITY inspect.key                  "i">
+
+<!ENTITY display.label                "প্ৰদৰ্শন কৰক">
+<!ENTITY display.accesskey            "D">
+<!ENTITY display.key                  "l">
+
+<!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
+  -  renamed from "Context" to avoid confusion with the right-click context
+  -  menu in the text area. It refers to the JavaScript Environment (or context)
+  -  the user is evaluating against. I.e., Content (current tab) or Chrome
+  -  (browser).
+  -->
+<!ENTITY environmentMenu.label        "পৰিৱেশ">
+<!ENTITY environmentMenu.accesskey    "N">
+
+
+<!ENTITY contentContext.label         "সমল">
+<!ENTITY contentContext.accesskey     "C">
+
+<!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
+  -  to select an execution environment for the browser window itself as opposed
+  -  to content. This is a feature for browser and addon developers and only
+  -  enabled via the devtools.chrome.enabled preference. Formerly, this label
+  -  was called "Chrome".
+  -->
+<!ENTITY browserContext.label         "ব্ৰাউছাৰ">
+<!ENTITY browserContext.accesskey     "B">
+
+<!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
+  -  to reset/clear the global object of the environment where the code executes.
+  -->
+<!ENTITY resetContext.label           "পুনৰ সংহতি কৰক">
+<!ENTITY resetContext.accesskey       "R">
+
+<!ENTITY executeMenu.label            "প্ৰেৰণ কৰক">
+<!ENTITY executeMenu.accesskey        "X">
+
+<!ENTITY toolsMenu.label              "সঁজুলিসমূহ">
+<!ENTITY toolsMenu.accesskey          "T">
+
+<!ENTITY errorConsoleCmd.label        "ত্ৰুটি কনচৌল">
+<!ENTITY errorConsoleCmd.accesskey    "C">
+<!ENTITY errorConsoleCmd.commandkey   "j">
+
+<!ENTITY webConsoleCmd.label          "ৱেব কনচৌল">
+<!ENTITY webConsoleCmd.accesskey      "W">
+<!ENTITY webConsoleCmd.commandkey     "k">
