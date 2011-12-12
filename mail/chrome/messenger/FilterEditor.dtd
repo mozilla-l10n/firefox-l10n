@@ -28,7 +28,7 @@
 <!ENTITY forwardTo.label "Proslijedi poruku">
 <!ENTITY replyWithTemplate.label "Odgovori sa predloškom">
 <!ENTITY markMessageRead.label "Označi kao pročitano">
-<!ENTITY markMessageStarred.label "Dodaj zvijezdu">
+<!ENTITY markMessageStarred.label "Dodaj zvijezdicu">
 <!ENTITY setPriority.label "Postavi prioritet na">
 <!ENTITY addTag.label "Označi poruku">
 <!ENTITY setJunkScore.label "Postavi status neželjene pošte na">
