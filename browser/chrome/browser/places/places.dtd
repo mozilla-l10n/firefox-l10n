@@ -22,7 +22,7 @@
 <!ENTITY view.sortAscending.accesskey   "A">
 <!ENTITY view.sortDescending.label      "Z > A క్రమపద్దతి">
 <!ENTITY view.sortDescending.accesskey  "Z">
-<!ENTITY cmd.findInBookmarks.label      "ఇష్టాంశములనందు కనుగొను…">
+<!ENTITY cmd.findInBookmarks.label      "ఇష్టాంశములయందు కనుగొను…">
 <!ENTITY cmd.findInBookmarks.accesskey  "F">
 <!ENTITY cmd.findCurrent.label          "ప్రస్తుత సంకలనం(కలక్షన్)నందు కనుగొను…">
 <!ENTITY cmd.findCurrent.accesskey      "i">
@@ -35,7 +35,7 @@
 <!ENTITY cmd.restore2.accesskey         "R">
 <!ENTITY cmd.restoreFromFile.label      "ఫైల్ ఎంచుకొనుము…">
 
-<!ENTITY cmd.bookmarkLink.label         "ఈ పేజీని ఇష్టాంశముగా చేయి…">
+<!ENTITY cmd.bookmarkLink.label         "ఈ పేజీని యిష్టాంశముగా చేయి…">
 <!ENTITY cmd.bookmarkLink.accesskey     "B">
 <!ENTITY cmd.delete.label               "ఈ పేజీని తొలగించు ">
 <!ENTITY cmd.delete.accesskey           "D">
@@ -54,14 +54,14 @@
 <!ENTITY cmd.sortby_name.label              "నామము ద్వారా క్రమపరచు">
 <!ENTITY cmd.sortby_name.accesskey          "S">
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
-<!ENTITY cmd.new_bookmark.label            "కొత్త ఇష్టాంశము…">
+<!ENTITY cmd.new_bookmark.label            "కొత్త యిష్టాంశము…">
 <!ENTITY cmd.new_bookmark.accesskey        "B">
 <!ENTITY cmd.new_folder.label              "కొత్త సంచయం…">
 <!ENTITY cmd.new_folder.accesskey          "o">
 <!ENTITY cmd.context_new_folder.accesskey  "F">
 <!ENTITY cmd.new_separator.label           "కొత్త సెపరేటర్">
 <!ENTITY cmd.new_separator.accesskey       "S">
-<!ENTITY cmd.reloadLivebookmark.label      "లైవ్ ఇష్టాంశమును తిరిగిలోడ్‌చేయి">
+<!ENTITY cmd.reloadLivebookmark.label      "లైవ్ యిష్టాంశమును తిరిగిలోడ్‌చేయి">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "R">
 
 
