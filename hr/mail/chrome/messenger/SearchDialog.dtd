@@ -48,7 +48,7 @@
 <!ENTITY totalColumn.label "Ukupno">
 <!ENTITY readColumn.label "Pročitano">
 <!ENTITY receivedColumn.label "Primljeno">
-<!ENTITY starredColumn.label "Označeno zvijezdom">
+<!ENTITY starredColumn.label "Označeno zvijezdicom">
 <!ENTITY locationColumn.label "Lokacija">
 <!ENTITY idColumn.label "Redoslijed primanja">
 

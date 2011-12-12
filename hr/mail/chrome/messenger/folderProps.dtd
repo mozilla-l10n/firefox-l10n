@@ -68,7 +68,7 @@
 <!ENTITY retentionKeepRecent.accesskey "i">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
 <!ENTITY retentionKeepUnreadHidden.label "Uvijek obriši pročitane poruke (nadjačaj starosne postavke)">
-<!ENTITY retentionApplyToFlagged.label "Uvijek zadrži poruke označene zvijezdom">
+<!ENTITY retentionApplyToFlagged.label "Uvijek zadrži poruke označene zvijezdicom">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
 <!ENTITY folderSynchronizationTab.label          "Sinkronizacija">

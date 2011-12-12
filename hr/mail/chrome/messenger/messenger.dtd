@@ -570,8 +570,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextEmptyJunk.accesskey "l">
 <!ENTITY folderContextSendUnsentMessages.label "Pošalji neposlane poruke">
 <!ENTITY folderContextSendUnsentMessages.accesskey "a">
-<!ENTITY folderContextUnsubscribe.label "Ukini pretplatu">
-<!ENTITY folderContextUnsubscribe.accesskey "U">
+<!ENTITY folderContextUnsubscribe.label "Otkaži pretplatu">
+<!ENTITY folderContextUnsubscribe.accesskey "u">
 <!ENTITY folderContextMarkNewsgroupRead.label "Označi interesnu grupu pročitanom">
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "z">
 <!ENTITY folderContextMarkMailFolderRead.label "Označi mapu pročitanom">
