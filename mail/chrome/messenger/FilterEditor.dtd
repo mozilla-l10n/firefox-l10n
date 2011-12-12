@@ -12,7 +12,7 @@
 <!ENTITY highPriorityCmd.label "Visok">
 <!ENTITY highestPriorityCmd.label "Najviši">
 
-<!ENTITY contextDesc.label "Primjeni filter prilikom:">
+<!ENTITY contextDesc.label "Primijeni filter prilikom:">
 <!ENTITY contextDesc.accesskey "r">
 <!ENTITY contextIncoming.label "Provjeravanja pošte">
 <!ENTITY contextManual.label "Ručnog pokretanja">

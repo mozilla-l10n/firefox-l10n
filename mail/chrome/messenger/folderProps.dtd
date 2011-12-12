@@ -43,7 +43,7 @@
 <!ENTITY generalInfo.label                       "Opće informacije">
 <!ENTITY folderCharsetTab.label                  "Zadana kodna stranica:">
 <!ENTITY folderCharsetTab.accesskey              "k">
-<!ENTITY folderCharsetOverride.label             "Primjeni zadano na sve poruke u mapi (postavke kodnih stranica pojedinih poruka i automatsko otkrivanje će biti zanemareno)">
+<!ENTITY folderCharsetOverride.label             "Primijeni zadano na sve poruke u mapi (postavke kodnih stranica pojedinih poruka i automatsko otkrivanje će biti zanemareno)">
 <!ENTITY folderCharsetOverride.accesskey         "a">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Ponovno izgradi skupnu indeks datoteku">
 <!ENTITY folderRebuildSummaryFile2.label         "Popravi mapu">
