@@ -3,8 +3,6 @@
 <!ENTITY importAllFrom.label             "Importer tous les éléments de :">
 <!ENTITY importBookmarksFrom.label       "Importer les marque-pages de :">
 
-<!ENTITY importFromSeamonkey.label       "SeaMonkey 1.x, Netscape 6/7 ou Mozilla 1.x">
-<!ENTITY importFromSeamonkey.accesskey   "S">
 <!ENTITY importFromThunderbird.label     "Thunderbird">
 <!ENTITY importFromThunderbird.accesskey "T">
 <!ENTITY importFromFile.label            "Fichier">
