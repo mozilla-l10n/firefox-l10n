@@ -74,8 +74,10 @@
 <!ENTITY lightning.toolbar.mail.label         "Paštas">
 <!ENTITY lightning.toolbar.mail.accesskey     "P">
 <!ENTITY lightning.toolbar.calendar.label     "Kalendorius">
+<!ENTITY lightning.toolbar.calendar.tooltip   "Atverti kalendoriaus kortelę">
 <!ENTITY lightning.toolbar.calendar.accesskey "K">
 <!ENTITY lightning.toolbar.task.label         "Darbai">
+<!ENTITY lightning.toolbar.task.tooltip       "Atverti darbų kortelę">
 <!ENTITY lightning.toolbar.task.accesskey     "D">
 
 <!-- Toolbar write button -->
