@@ -35,40 +35,40 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY newDirectoryTitle.label           "Directory Server Properties">
-<!ENTITY directoryName.label               "Name: ">
-<!ENTITY directoryName.accesskey           "n">
-<!ENTITY directoryHostname.label           "Hostname: ">
+<!ENTITY newDirectoryTitle.label           "Postavke poslužiteljskog imenika">
+<!ENTITY directoryName.label               "Naziv: ">
+<!ENTITY directoryName.accesskey           "N">
+<!ENTITY directoryHostname.label           "Poslužitelj: ">
 <!ENTITY directoryHostname.accesskey       "o">
-<!ENTITY directoryBaseDN.label             "Base DN: ">
-<!ENTITY directoryBaseDN.accesskey         "b">
-<!ENTITY findButton.label                  "Find">
-<!ENTITY findButton.accesskey              "f">
-<!ENTITY directorySecure.label             "Use secure connection (SSL)">
-<!ENTITY directorySecure.accesskey         "U">
-<!ENTITY directoryLogin.label              "Bind DN: ">
+<!ENTITY directoryBaseDN.label             "Bazni DN: ">
+<!ENTITY directoryBaseDN.accesskey         "B">
+<!ENTITY findButton.label                  "Traži">
+<!ENTITY findButton.accesskey              "T">
+<!ENTITY directorySecure.label             "Koristi sigurnu vezu (SSL)">
+<!ENTITY directorySecure.accesskey         "u">
+<!ENTITY directoryLogin.label              "Veži DN: ">
 <!ENTITY directoryLogin.accesskey          "i">
-<!ENTITY General.tab                       "General">
-<!ENTITY Offline.tab                       "Offline">
-<!ENTITY Advanced.tab                      "Advanced">
-<!ENTITY portNumber.label                  "Port number: ">
-<!ENTITY portNumber.accesskey              "p">
-<!ENTITY searchFilter.label                "Search filter: ">
-<!ENTITY searchFilter.accesskey            "f">
-<!ENTITY scope.label                       "Scope: ">
-<!ENTITY scope.accesskey                   "c">
-<!ENTITY scopeOneLevel.label               "One Level">
-<!ENTITY scopeOneLevel.accesskey           "L">
-<!ENTITY scopeSubtree.label                "Subtree">
-<!ENTITY scopeSubtree.accesskey            "S">
-<!ENTITY return.label                      "Don't return more than">
+<!ENTITY General.tab                       "Općenito">
+<!ENTITY Offline.tab                       "Izvanmrežno">
+<!ENTITY Advanced.tab                      "Napredno">
+<!ENTITY portNumber.label                  "Port broj: ">
+<!ENTITY portNumber.accesskey              "P">
+<!ENTITY searchFilter.label                "Filter za pretraživanje: ">
+<!ENTITY searchFilter.accesskey            "F">
+<!ENTITY scope.label                       "Obujam: ">
+<!ENTITY scope.accesskey                   "j">
+<!ENTITY scopeOneLevel.label               "Jedna razina">
+<!ENTITY scopeOneLevel.accesskey           "e">
+<!ENTITY scopeSubtree.label                "Podstablo">
+<!ENTITY scopeSubtree.accesskey            "s">
+<!ENTITY return.label                      "Ne vraćaj više od">
 <!ENTITY return.accesskey                  "r">
-<!ENTITY results.label                     "results">
-<!ENTITY offlineText.label                 "You can download a local copy of this directory so that it is available for use when you are working offline.">
-<!ENTITY saslMechanism.label               "Login method: ">
-<!ENTITY saslMechanism.accesskey           "m">
-<!ENTITY saslOff.label                     "Simple">
-<!ENTITY saslOff.accesskey                 "l">
+<!ENTITY results.label                     "rezultata">
+<!ENTITY offlineText.label                 "Možete preuzeti lokalnu kopiju ovog imenika tako da je dostupna za upotrebu kada radite izvanmrežno.">
+<!ENTITY saslMechanism.label               "Metoda prijave: ">
+<!ENTITY saslMechanism.accesskey           "M">
+<!ENTITY saslOff.label                     "Jednostavna">
+<!ENTITY saslOff.accesskey                 "d">
 <!ENTITY saslGSSAPI.label                  "Kerberos (GSSAPI)">
 <!ENTITY saslGSSAPI.accesskey              "K">
 

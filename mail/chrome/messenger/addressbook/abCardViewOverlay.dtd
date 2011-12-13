@@ -37,7 +37,7 @@
 
 <!-- Box Headings -->
 <!ENTITY contact.heading             "Kontakt">
-<!ENTITY home.heading                "Kućae">
+<!ENTITY home.heading                "Kuća">
 <!ENTITY other.heading               "Drugi">
 <!ENTITY phone.heading               "Telefon">
 <!ENTITY work.heading                "Posao">
@@ -45,6 +45,6 @@
 <!ENTITY description.heading         "Opis">
 <!ENTITY addresses.heading           "Adrese">
 <!-- For Map It! -->
-<!ENTITY mapItButton.label           "Dohvati kartu">
-<!ENTITY mapIt.tooltip               "Prikaži kartu ove adrese na internetu">
+<!ENTITY mapItButton.label           "Prikaži kartu">
+<!ENTITY mapIt.tooltip               "Prikaži ovu adresu na internet karti">
 
