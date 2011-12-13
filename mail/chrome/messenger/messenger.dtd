@@ -522,7 +522,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgButton.tooltip "Stvori novu poruku">
 <!ENTITY replyButton.tooltip "Odgovori na poruku">
 <!ENTITY replyAllButton.tooltip "Odgovori pošiljatelju i svim primateljima">
-<!ENTITY replyListButton.tooltip "Odgovori na mailing listu">
+<!ENTITY replyListButton.tooltip "Odgovori na popis primatelja">
 <!ENTITY forwardButton.tooltip "Proslijedi odabranu poruku">
 <!ENTITY fileButton.tooltip "Pohrani odabranu poruku">
 <!ENTITY archiveButton.tooltip "Arhiviraj odabrane poruke">
