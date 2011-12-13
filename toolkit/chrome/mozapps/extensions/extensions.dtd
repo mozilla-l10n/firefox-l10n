@@ -104,7 +104,7 @@
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 <!ENTITY discover.title                       "Kaj so dodatki?">
 <!ENTITY discover.description2                "Dodatki so programi, ki omogočajo prilagajanje brskalnika &brandShortName; vašim potrebam
-  z dodajanjem zmogljivosti in spreminjanjem izgleda. Poskusite stranske vrstice, prikaz vremena ali tematsko obarvan &brandShortName;.">
+  z dodajanjem zmogljivosti in spreminjanjem videza. Poskusite stranske vrstice, prikaz vremena ali tematsko obarvan &brandShortName;.">
   
 <!ENTITY discover.footer                      "Ko ste povezani na internet, vam ta odsek ponuja
   nekatere izbrane in najbolj priljubljene dodatke.">
