@@ -76,8 +76,6 @@
 <!ENTITY useService.accesskey            "b">
 
 <!ENTITY updateOthers.label              "Uppdatera automatiskt:">
-<!ENTITY enableAddonsUpdate3.label       "Tillägg">
-<!ENTITY enableAddonsUpdate3.accesskey   "T">
 <!ENTITY enableSearchUpdate.label        "Sökmotorer">
 <!ENTITY enableSearchUpdate.accesskey    "S">
 
