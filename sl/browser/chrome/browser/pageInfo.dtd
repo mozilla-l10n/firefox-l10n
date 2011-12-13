@@ -94,7 +94,7 @@
 <!ENTITY permBlock "Prepovej">
 <!ENTITY permissionsFor "Dovoljenja za:">
 <!ENTITY permImage "Naloži slike">
-<!ENTITY permPopup "Odpri pojavna okna">
+<!ENTITY permPopup "Odpri neželena okna">
 <!ENTITY permCookie "Nastavi piškote">
 <!ENTITY permInstall "Namesti razširitve in teme">
 <!ENTITY  permGeo               "Objavi položaj">
