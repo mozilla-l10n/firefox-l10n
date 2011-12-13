@@ -3,25 +3,24 @@
 <!ENTITY muteButton.muteLabel "Nemo">
 <!ENTITY muteButton.unmuteLabel "Glasno">
 
-
-<!ENTITY stats.media "Medij">
+<!ENTITY stats.media "Vsebina">
 <!ENTITY stats.size "Velikost">
-<!ENTITY stats.activity "Activnost">
+<!ENTITY stats.activity "Stanje">
 <!ENTITY stats.activityPaused "Ustavljeno">
-<!ENTITY stats.activityPlaying "Igra">
+<!ENTITY stats.activityPlaying "Predvajanje">
 <!ENTITY stats.activityEnded "Končano">
 <!ENTITY stats.activitySeeking "(iskanje)">
 <!ENTITY stats.volume "Glasnost">
 <!ENTITY stats.channels "Kanali">
-<!ENTITY stats.sampleRate "Hitrost vzorčenja">
-<!ENTITY stats.framesParsed "Razčlenjenih okvirjev">
-<!ENTITY stats.framesDecoded "Dekodiranih okvirjev">
-<!ENTITY stats.framesPresented "Predstavljenih okvirjev">
-<!ENTITY stats.framesPainted "Naslikanih okvirjev">
-
+<!ENTITY stats.sampleRate "Frekvenca vzorčenja">
+<!ENTITY stats.framesParsed "Razčlenjeni okvirji">
+<!ENTITY stats.framesDecoded "Dekodirani okvirji">
+<!ENTITY stats.framesPresented "Predstavljeni okvirji">
+<!ENTITY stats.framesPainted "Naslikani okvirji">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
-"6:00:00", result string would be "5:00 of 6:00:00 elapsed". -->
+"6:00:00", result string would be "5:00 of 6:00:00 elapsed". 
+-->
 <!ENTITY scrubberScale.nameFormat "Pretečeni čas: #1 od #2">
