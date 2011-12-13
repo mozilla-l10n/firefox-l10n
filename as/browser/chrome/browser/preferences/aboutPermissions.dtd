@@ -32,4 +32,4 @@
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
 <!ENTITY indexedDB.label                 "অফলাইন সংৰক্ষণ বজায় ৰাখক">
 
-<!ENTITY popup.label                     "পপ-আপ উইন্ডোসমূহ খোলক"
+<!ENTITY popup.label                     "পপ-আপ উইন্ডোসমূহ খোলক">
