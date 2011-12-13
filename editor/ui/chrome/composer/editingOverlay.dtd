@@ -43,28 +43,28 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- File menu items -->
-<!ENTITY openFileCmd.label "Odpri datoteko…">
+<!ENTITY openFileCmd.label "Odpri datoteko …">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.key "O">
-<!ENTITY openRemoteCmd.label "Odpri spletni naslov…">
+<!ENTITY openRemoteCmd.label "Odpri spletni naslov …">
 <!ENTITY openRemoteCmd.accesskey "L">
 <!ENTITY openRemoteCmd.key "L">
 <!ENTITY fileRecentMenu.label "Nedavne strani">
 <!ENTITY fileRecentMenu.accesskey "R">
 <!ENTITY saveCmd.label "Shrani">
 <!ENTITY saveCmd.accesskey "S">
-<!ENTITY saveAsCmd.label "Shrani kot…">
+<!ENTITY saveAsCmd.label "Shrani kot …">
 <!ENTITY saveAsCmd.accesskey "A">
 <!ENTITY saveAsChangeEncodingCmd.label "Shrani in spremeni nabor znakov">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "E">
 <!ENTITY publishCmd.label "Objavi">
 <!ENTITY publishCmd.accesskey "b">
 <!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "Objavi kot…">
-<!ENTITY publishAsCmd.accesskey "h">
+<!ENTITY publishAsCmd.label "Objavi kot …">
+<!ENTITY publishAsCmd.accesskey "k">
 <!ENTITY fileRevert.label "Povrni">
-<!ENTITY fileRevert.accesskey "t">
+<!ENTITY fileRevert.accesskey "P">
 
 <!-- Edit menu items -->
-<!ENTITY publishSettings.label "Nastavitve strani za objavo…">
+<!ENTITY publishSettings.label "Nastavitve strani za objavo …">
 <!ENTITY publishSettings.accesskey "b">
