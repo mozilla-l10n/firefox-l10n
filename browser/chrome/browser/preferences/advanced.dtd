@@ -32,7 +32,7 @@
 <!ENTITY submitTelemetry.label           "Pošlji podatke o zmogljivosti">
 <!ENTITY submitTelemetry.accesskey       "P">
 
-<!ENTITY networkTab.label "Mreža">
+<!ENTITY networkTab.label "Omrežje">
 
 <!ENTITY connection.label "Povezava">
 
@@ -56,24 +56,30 @@
 <!ENTITY overrideSmartCacheSize.label    "Prezri samodejno upravljanje predpomnilnika">
 <!ENTITY overrideSmartCacheSize.accesskey "o">
 
-<!ENTITY updateTab.label "Posodobitev">
+<!ENTITY updateTab.label "Posodobitve">
 
-<!ENTITY autoCheck.label "Samodejno preverjaj, če obstajajo posodobitve za:">
-<!ENTITY enableAppUpdate.label "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey "F">
-<!ENTITY enableAddonsUpdate2.label       "Dodatke">
-<!ENTITY enableAddonsUpdate2.accesskey   "D">
-<!ENTITY enableSearchUpdate.label "Iskalnike">
-<!ENTITY enableSearchUpdate.accesskey "I">
-<!ENTITY whenUpdatesFound.label "Če obstajajo posodobitve za &brandShortName;:">
-<!ENTITY askMe.label "me vprašaj, kaj storiti">
-<!ENTITY askMe.accesskey "k">
-<!ENTITY modeAutomatic.label "samodejno prenesi in namesti posodobitev">
-<!ENTITY modeAutomatic.accesskey "p">
-<!ENTITY modeAutoAddonWarn.label "opozori me, če bo to onemogočilo nameščene razširitve in teme">
-<!ENTITY modeAutoAddonWarn.accesskey "O">
-<!ENTITY updateHistory.label "Pokaži zgodovino posodobitev">
-<!ENTITY updateHistory.accesskey "z">
+<!ENTITY updateApp.label                 "Posodobitve &brandShortName;a:">
+<!ENTITY updateAuto.label                "Samodejno nameščaj posodobitve (priporočeno za večjo varnost)">
+<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateCheck.label               "Preverjaj posodobitve, vendar mi prepusti odločitev o nameščanju">
+<!ENTITY updateCheck.accesskey           "P">
+<!ENTITY updateManual.label              "Nikoli ne preverjaj posodobitev (ni priporočeno zaradi varnosti)">
+<!ENTITY updateManual.accesskey          "N">
+
+<!ENTITY updateAutoAddonWarn.label       "Obvesti me, ali bo to povzročilo nezdružljivost mojih dodatkov">
+<!ENTITY updateAutoAddonWarn.accesskey   "O">
+
+<!ENTITY updateHistory.label             "Zgodovina posodobitev">
+<!ENTITY updateHistory.accesskey         "Z">
+
+<!ENTITY useService.label                "Uporabi storitev za nameščanje posodobitev v ozadju">
+<!ENTITY useService.accesskey            "s">
+
+<!ENTITY updateOthers.label              "Samodejno posodabljaj:">
+<!ENTITY enableAddonsUpdate3.label       "Dodatke">
+<!ENTITY enableAddonsUpdate3.accesskey   "D">
+<!ENTITY enableSearchUpdate.label        "Iskalnike">
+<!ENTITY enableSearchUpdate.accesskey    "I">
 
 <!ENTITY offlineNotify.label "Opozori me, ko želi spletna stran shraniti podatke za delo brez povezave">
 <!ENTITY offlineNotify.accesskey "T">

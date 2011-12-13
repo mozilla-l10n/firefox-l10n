@@ -17,7 +17,7 @@
 <!ENTITY myRecoveryKey.label          "Moj obnovitveni ključ">
 <!ENTITY resetSync2.label             "Ponastavi usklajevanje …">
 
-<!ENTITY addDevice.label              "Dodaj napravo">
+<!ENTITY pairDevice.label              "Dodaj napravo">
 
 <!ENTITY syncMy.label               "Uskladi">
 <!ENTITY engine.bookmarks.label     "Zaznamke">
