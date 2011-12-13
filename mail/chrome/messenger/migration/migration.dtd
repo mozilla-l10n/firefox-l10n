@@ -6,8 +6,8 @@
 
 <!ENTITY importFromNothing.label        "Não importar nada">
 <!ENTITY importFromNothing.accesskey    "N">
-<!ENTITY importFromSeamonkey2.label     "Netscape 6, 7, Mozilla 1.x ou SeaMonkey">
-<!ENTITY importFromSeamonkey2.accesskey "s">
+<!ENTITY importFromSeamonkey3.label     "Netscape 6, 7, Mozilla 1.x ou SeaMonkey">
+<!ENTITY importFromSeamonkey3.accesskey "s">
 <!ENTITY importFromOExpress.label       "Outlook Express">
 <!ENTITY importFromOExpress.accesskey   "u">
 <!ENTITY importFromOutlook.label        "Outlook">
@@ -17,12 +17,12 @@
 
 <!ENTITY importSource.title             "Importar Configurações e Pastas de Correio a partir de">
 <!ENTITY importItems.title              "Items a Importar">
-<!ENTITY importItems.label              "Seleccione quais os itens a importar:">
+<!ENTITY importItems.label              "Selecione quais os itens a importar:">
 
 <!ENTITY migrating.title                "A importar...">
 <!ENTITY migrating.label                "Os seguintes itens estão a ser importados...">
 
-<!ENTITY selectProfile.title            "Seleccione o perfil">
+<!ENTITY selectProfile.title            "Selecione o perfil">
 <!ENTITY selectProfile.label            "Os seguintes perfis estão disponíveis para importar a partir de:">
 
 <!ENTITY done.title                     "Importação Terminada">
