@@ -22,7 +22,7 @@ was trying to connect. -->
 <!ENTITY certerror.whatShouldIDo.content "Ако се обично повезујете \n
 са овим сајтом без проблема, ова грешка може да значи да неко покушава \n
 да се представи као овај сајт, тако да не треба да настављате с повезивањем.">
-<!ENTITY certerror.getMeOutOfHere.label "Желим да напустим сајт!">
+<!ENTITY certerror.getMeOutOfHere.label "Води ме одавде!">
 
 <!ENTITY certerror.expert.heading "Прихватам ризик">
 <!ENTITY certerror.expert.content "Ако Вам је јасно шта се догађа, \n
@@ -35,3 +35,4 @@ was trying to connect. -->
 <!ENTITY certerror.addException.label "Додај изузетак…">
 
 <!ENTITY certerror.technical.heading "Технички детаљи">
+

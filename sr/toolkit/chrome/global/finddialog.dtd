@@ -9,10 +9,11 @@
 <!ENTITY wrapCheckbox.accesskey "П">
 <!ENTITY findButton.label "Нађи следеће">
 <!ENTITY findButton.accesskey "Н">
-<!ENTITY cancelButton.label "Одустани">
+<!ENTITY cancelButton.label "Откажи">
 <!ENTITY closeButton.label "Затвори">
 <!ENTITY up.label "Нагоре">
 <!ENTITY up.accesskey "Н">
 <!ENTITY down.label "Надоле">
 <!ENTITY down.accesskey "Н">
 <!ENTITY direction.label "Смер">
+

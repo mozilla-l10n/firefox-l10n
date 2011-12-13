@@ -42,16 +42,16 @@
 <!ENTITY  validation.crlnextupdate.label          "Следеће унапређење">
 <!ENTITY  validation.crlautoupdateenabled.label   "Самоунапређење">
 <!ENTITY  validation.crlautoupdatestatus.label    "Статус самоунапређења">
-<!ENTITY  validation.deletecrl.label              "Уклони ставку">
-<!ENTITY  validation.deletecrl.accesskey          "У">
-<!ENTITY  validation.updatecrl.label              "Обнављања">
-<!ENTITY  validation.updatecrl.accesskey          "О">
+<!ENTITY  validation.deletecrl.label              "Уклони">
+<!ENTITY  validation.deletecrl.accesskey          "к">
+<!ENTITY  validation.updatecrl.label              "Освежи">
+<!ENTITY  validation.updatecrl.accesskey          "в">
 <!ENTITY  validation.advanced.label               "Подешавања">
-<!ENTITY  validation.advanced.accesskey           "П">
+<!ENTITY  validation.advanced.accesskey           "д">
 
 <!ENTITY  validation.crl.autoupdate.title         "Подешавање самоунапређења ЛПС-а">
 <!ENTITY  validation.crl.autoupdate.enable.label  "Укључи аутоматску доградњу за ове ЛПС">
-<!ENTITY  validation.crl.autoupdate.time.label1   "Обнављања">
+<!ENTITY  validation.crl.autoupdate.time.label1   "Освежи">
 <!ENTITY  validation.crl.autoupdate.time.label2   "Дан(а) до следећег унапређења">
 <!ENTITY  validation.crl.autoupdate.freq.label1   "Обнављај сваких">
 <!ENTITY  validation.crl.autoupdate.freq.label2   "дан">
@@ -65,3 +65,4 @@
 <!ENTITY  crl.autoupdate.fail.cnt.label           "Грешке приликом претходног унапређењеа:">
 <!ENTITY  crl.autoupdate.fail.reason.label        "Детаљи о последњој грешци:">
 <!ENTITY  edit.button                             "Подешавања">
+

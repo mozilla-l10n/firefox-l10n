@@ -52,7 +52,7 @@
 <!ENTITY certmgr.cas                          "Имате сертификате који идентификују ове ауторитете:">
 <!ENTITY certmgr.orphans                      "Имате сертификате који се не уклапају ни у једну другу категорију:">
 
-<!ENTITY certmgr.detail.general_tab.title     "Основне поставке">
+<!ENTITY certmgr.detail.general_tab.title     "Опште">
 <!ENTITY certmgr.detail.general_tab.accesskey "О">
 <!ENTITY certmgr.detail.prettyprint_tab.title "Детаљи">
 <!ENTITY certmgr.detail.prettyprint_tab.accesskey "Д">
@@ -72,7 +72,7 @@
 
 <!ENTITY certmgr.editcert.title               "Измени поставке безбедносних сертификата:">
 <!ENTITY certmgr.editcacert.title             "Мења подешавање поверења ПС">
-<!ENTITY certmgr.editsslcert.title            "Уређивање поставки о поверењу сертификату за веб сајт">
+<!ENTITY certmgr.editsslcert.title            "Уређивање подешавања сертификата о поверењу">
 <!ENTITY certmgr.editcert.edittrust           "Измени поставке поверења:">
 <!ENTITY certmgr.editcert.trustssl            "Овај сертификат може да идентификује веб сајтове.">
 <!ENTITY certmgr.editcert.trustemail          "Овај сертификат може да идентификује кориснике ел. поште.">
@@ -102,39 +102,39 @@
 <!ENTITY certmgr.serial                       "Серијски број">
 
 <!ENTITY certmgr.close.label                  "Затвори">
-<!ENTITY certmgr.close.accesskey              "C">
+<!ENTITY certmgr.close.accesskey              "З">
 <!ENTITY certmgr.view2.label                  "Преглед…">
 <!ENTITY certmgr.view2.accesskey              "П">
 <!ENTITY certmgr.edit3.label                  "Уреди поверење…">
 <!ENTITY certmgr.edit3.accesskey              "У">
-<!ENTITY certmgr.editca.label                 "Уреди поверење">
-<!ENTITY certmgr.editca.accesskey             "У">
+<!ENTITY certmgr.editca.label                 "Уреди поверење ауторитету за сертификате">
+<!ENTITY certmgr.editca.accesskey             "р">
 <!ENTITY certmgr.add.label                    "Додај">
-<!ENTITY certmgr.add.accesskey                "Д">
-<!ENTITY certmgr.export.label                 "Извоз календара…">
+<!ENTITY certmgr.add.accesskey                "д">
+<!ENTITY certmgr.export.label                 "Извоз…">
 <!ENTITY certmgr.export.accesskey             "И">
 <!ENTITY certmgr.delete2.label                "Уклони…">
 <!ENTITY certmgr.delete2.accesskey            "У">
-<!ENTITY certmgr.delete_builtin.label         "Избриши или укини поверење…">
-<!ENTITY certmgr.delete_builtin.accesskey     "И">
+<!ENTITY certmgr.delete_builtin.label         "Уклони или укини поверење…">
+<!ENTITY certmgr.delete_builtin.accesskey     "к">
 <!ENTITY certmgr.backup2.label                "Архивирај…">
-<!ENTITY certmgr.backup2.accesskey            "А">
+<!ENTITY certmgr.backup2.accesskey            "х">
 <!ENTITY certmgr.backupall2.label             "Архивирај све…">
-<!ENTITY certmgr.backupall2.accesskey         "А">
+<!ENTITY certmgr.backupall2.accesskey         "с">
 <!ENTITY certmgr.restore2.label               "Увоз…">
-<!ENTITY certmgr.restore2.accesskey           "У">
+<!ENTITY certmgr.restore2.accesskey           "в">
 <!ENTITY certmgr.details.label                "Поља сертификата">
-<!ENTITY certmgr.details.accesskey            "П">
+<!ENTITY certmgr.details.accesskey            "љ">
 <!ENTITY certmgr.fields.label                 "Вредност поља">
-<!ENTITY certmgr.fields.accesskey             "В">
+<!ENTITY certmgr.fields.accesskey             "п">
 <!ENTITY certmgr.hierarchy.label              "Хијерархија сертификата">
-<!ENTITY certmgr.hierarchy.accesskey          "Х">
+<!ENTITY certmgr.hierarchy.accesskey          "х">
 <!ENTITY certmgr.addException.label           "Додај изузетак…">
-<!ENTITY certmgr.addException.accesskey       "Д">
+<!ENTITY certmgr.addException.accesskey       "з">
 
 <!ENTITY exceptionMgr.title                   "Додавање безбедносног изузетка">
 <!ENTITY exceptionMgr.exceptionButton.label   "Потврда безбедносног изузетка">
-<!ENTITY exceptionMgr.exceptionButton.accesskey "П">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "т">
 <!ENTITY exceptionMgr.supplementalWarning     "Легитимне банке, продавнице и други јавни сајтови вас неће питати да ово радите.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Сервер">
 <!ENTITY exceptionMgr.certlocation.url        "Адреса:">
@@ -145,3 +145,4 @@
 <!ENTITY exceptionMgr.certstatus.accesskey    "Н">
 <!ENTITY exceptionMgr.permanent.label         "Трајно сачувај овај изузетак">
 <!ENTITY exceptionMgr.permanent.accesskey     "Т">
+

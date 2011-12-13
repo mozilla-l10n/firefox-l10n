@@ -19,7 +19,7 @@
 <!ENTITY shrinkToFit.label   "Уклопи на страну">
 <!ENTITY shrinkToFit.accesskey "У">
 
-<!ENTITY optionsGroup.label  "Могућности">
+<!ENTITY optionsGroup.label  "Опције">
 
 <!ENTITY printBG.label       "Штампа позадине (боје и слика)">
 <!ENTITY printBG.accesskey   "Ш">
@@ -60,3 +60,4 @@
 
 <!ENTITY customPrompt.title  "Прилагоди…">
 <!ENTITY customPrompt.prompt "Унесите сопствени текст за заглавље или фусноту">
+

@@ -11,3 +11,4 @@
 <!ENTITY signingCA.accesskey          "О">
 <!ENTITY requireOCSP.label            "Када веза са сервером за ОЦСП не успе, сматрај да је сертификат неважећи">
 <!ENTITY requireOCSP.accesskey        "К">
+

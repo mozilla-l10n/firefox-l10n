@@ -1,6 +1,7 @@
 <!ENTITY junkLog.title "Дневник нежељене поште">
-<!ENTITY clearLog.accesskey "О">
 <!ENTITY junkLogInfo.label "Дневник активности за нежељену пошту">
 <!ENTITY clearLog.label "Очисти дневник">
-<!ENTITY closeLog.accesskey "З">
+<!ENTITY clearLog.accesskey "О">
 <!ENTITY closeLog.label "Затвори">
+<!ENTITY closeLog.accesskey "З">
+

@@ -8,7 +8,7 @@
 <!ENTITY  locationBar.label             "Трака са местом">
 
 <!ENTITY  locbar.pre.label              "При употреби адресне линије, предложи:">
-<!ENTITY  locbar.pre.accessKey          "п">
+<!ENTITY  locbar.pre.accessKey          "П">
 <!ENTITY  locbar.post.label             "">
 <!ENTITY  locbar.both.label             "Историјат и забелешке">
 <!ENTITY  locbar.history.label          "Историјат">
@@ -42,7 +42,7 @@
 <!ENTITY  historyHeader.custom.label       "Користи посебна подешавања за историјат">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "Програм &brandShortName; ће бележити шта сте прегледали, примили, попунили и тражили, и чуваће колачиће са веб сајтова које посећујете.">
+<!ENTITY  rememberDescription.label      "&brandShortName; ће запамтити историјат читања, пријема, формулара и претраге, и чуваће колачиће са веб сајтова које посећујете.">
 
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
@@ -78,3 +78,4 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Подешавања…">
 <!ENTITY  clearOnCloseSettings.accesskey "П">
+

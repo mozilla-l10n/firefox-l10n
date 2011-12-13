@@ -11,9 +11,10 @@
 <!ENTITY restorepage.tryagainButton "Обнови">
 <!ENTITY restorepage.restore.access "Р">
 <!ENTITY restorepage.cancelButton   "Покрени нову сесију">
-<!ENTITY restorepage.cancel.access  "И">
+<!ENTITY restorepage.cancel.access  "н">
 
 <!ENTITY restorepage.restoreHeader  "Обнови">
 <!ENTITY restorepage.listHeader     "Прозоре и језичке">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "Прозор &#37;S">
+

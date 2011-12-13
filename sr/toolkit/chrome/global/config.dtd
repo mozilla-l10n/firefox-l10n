@@ -58,7 +58,7 @@
 <!ENTITY columnChooser.tooltip "Притисните да изабeрете колоне које се приказују"> 
 
 <!-- Context Menu -->
-<!ENTITY copyPref.key "К">
+<!ENTITY copyPref.key "C">
 <!ENTITY copyPref.label "Умножи">
 <!ENTITY copyPref.accesskey "У">
 <!ENTITY copyName.label "Умножи име">
@@ -79,3 +79,4 @@
 <!ENTITY integer.accesskey "Ц">
 <!ENTITY boolean.label "Булово (boolean)">
 <!ENTITY boolean.accesskey "Б">
+

@@ -1,4 +1,4 @@
-<!ENTITY minimizeWindow.key       "у">
+<!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "Умањи">
 <!ENTITY bringAllToFront.label    "Стави све у први план">
 <!ENTITY zoomWindow.label         "Увећај">
@@ -30,9 +30,10 @@
 <!ENTITY servicesMenuMac.label          "Услуге">
 
 <!ENTITY hideThisAppCmdMac.label        "Сакриј &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey   "П">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Сакриј остале">
-<!ENTITY hideOtherAppsCmdMac.commandkey "П">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Прикажи све">
+
