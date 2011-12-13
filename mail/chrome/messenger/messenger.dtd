@@ -67,7 +67,7 @@
 <!ENTITY settingsOfflineCmd.accesskey "e">
 <!ENTITY downloadSelectedCmd.label "Dohvati odabrane poruke">
 <!ENTITY downloadSelectedCmd.accesskey "v">
-<!ENTITY downloadStarredCmd.label "Dohvati poruke sa zvijezdicom">
+<!ENTITY downloadStarredCmd.label "Dohvati poruke sa zvjezdicom">
 <!ENTITY downloadStarredCmd.accesskey "a">
 <!ENTITY printCmd.label "Ispiši…">
 <!ENTITY printCmd.accesskey "p">
@@ -97,7 +97,7 @@
 <!ENTITY selectThreadCmd.label "Tema">
 <!ENTITY selectThreadCmd.accesskey "T">
 <!ENTITY selectThreadCmd.key "a">
-<!ENTITY selectFlaggedCmd.label "Poruke sa zvijezdicom">
+<!ENTITY selectFlaggedCmd.label "Poruke sa zvjezdicom">
 <!ENTITY selectFlaggedCmd.accesskey "s">
 <!ENTITY menuFavoriteFolder.label "Omiljena mapa">
 <!ENTITY menuFavoriteFolder.accesskey "m">
@@ -155,7 +155,7 @@
 <!ENTITY sortByDateCmd.accesskey "m">
 <!ENTITY sortByReceivedCmd.label "Primljeno">
 <!ENTITY sortByReceivedCmd.accesskey "r">
-<!ENTITY sortByStarCmd.label "Zvijezdica">
+<!ENTITY sortByStarCmd.label "Zvjezdica">
 <!ENTITY sortByStarCmd.accesskey "d">
 <!ENTITY sortByAttachmentsCmd.label "Privitci">
 <!ENTITY sortByAttachmentsCmd.accesskey "v">
@@ -299,7 +299,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY nextUnreadMsgCmd.label "Nepročitana poruka">
 <!ENTITY nextUnreadMsgCmd.accesskey "u">
 <!ENTITY nextUnreadMsgCmd.key "n">
-<!ENTITY nextStarredMsgCmd.label "Poruka sa zvijezdicom">
+<!ENTITY nextStarredMsgCmd.label "Poruka sa zvjezdicom">
 <!ENTITY nextStarredMsgCmd.accesskey "s">
 <!ENTITY nextUnreadThread.label "Nepročitana tema">
 <!ENTITY nextUnreadThread.accesskey "t">
@@ -318,7 +318,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.label "Nazad">
 <!ENTITY goBackCmd.accesskey "N">
 <!ENTITY goBackCmd.commandKey "[">
-<!ENTITY prevStarredMsgCmd.label "Poruka sa zvijezdicom">
+<!ENTITY prevStarredMsgCmd.label "Poruka sa zvjezdicom">
 <!ENTITY prevStarredMsgCmd.accesskey "s">
 <!ENTITY folderMenu.label "Mapa">
 <!ENTITY folderMenu.accesskey "M">
@@ -419,7 +419,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markAllReadCmd.label "Sve pročitano">
 <!ENTITY markAllReadCmd.accesskey "a">
 <!ENTITY markAllReadCmd.key "c">
-<!ENTITY markStarredCmd.label "Dodaj zvijezdicu">
+<!ENTITY markStarredCmd.label "Dodaj zvjezdicu">
 <!ENTITY markStarredCmd.accesskey "D">
 <!ENTITY markStarredCmd.key "S">
 <!ENTITY markAsJunkCmd.label "Kao neželjenu poštu">
@@ -619,7 +619,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY totalColumn.label "Ukupno">
 <!ENTITY readColumn.label "Pročitano">
 <!ENTITY receivedColumn.label "Primljeno">
-<!ENTITY starredColumn.label "Zvijezdica">
+<!ENTITY starredColumn.label "Zvjezdica">
 <!ENTITY locationColumn.label "Lokacija">
 <!ENTITY idColumn.label "Redoslijed primanja">
 <!ENTITY attachmentColumn.label "Privitci">
@@ -641,7 +641,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY totalColumn.tooltip "Ukupan broj poruka u temi">
 <!ENTITY readColumn.tooltip "Kliknite za sortiranje po pročitanom">
 <!ENTITY receivedColumn.tooltip "Kliknite za sortiranje po datumu primitka">
-<!ENTITY starredColumn.tooltip "Kliknite za sortiranje po zvijezdici">
+<!ENTITY starredColumn.tooltip "Kliknite za sortiranje po zvjezdici">
 <!ENTITY locationColumn.tooltip "Kliknite za sortiranje po lokaciji">
 <!ENTITY idColumn.tooltip "Kliknite za sortiranje po redoslijedu primanja">
 <!ENTITY attachmentColumn.tooltip "Kliknite za sortiranje po privitcima">
