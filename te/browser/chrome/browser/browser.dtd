@@ -127,7 +127,7 @@
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
-<!ENTITY addons.label                 "యాడ్-ఆన్స్">
+<!ENTITY addons.label                 "పొడిగింతలు">
 
 <!ENTITY addons.accesskey             "A">
 
@@ -446,7 +446,7 @@
 <!ENTITY appMenuFind.label "కనుగొను…">
 <!ENTITY appMenuGettingStarted.label "ప్రారంభమునకు సిద్దమౌతోంది">
 <!ENTITY appMenuSafeMode.accesskey "R">
-<!ENTITY appMenuSafeMode.label "యాడ్-ఆన్స్ అచేతనపరచి పునఃప్రారంభించుము…">
+<!ENTITY appMenuSafeMode.label "పొడిగింతలు అచేతనపరచి పునఃప్రారంభించుము…">
 <!ENTITY appMenuSidebars.label "పక్కపట్టీలు">
 <!ENTITY appMenuToolbarLayout.label "సాధనపట్టీ నమూనా…">
 <!ENTITY appMenuUnsorted.label "క్రమపరచని యిష్టాంశములు">
