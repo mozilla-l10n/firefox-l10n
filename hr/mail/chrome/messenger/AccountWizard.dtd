@@ -5,10 +5,10 @@
 
 <!-- Entities for Account Type page -->
 
-<!ENTITY accountSetupInfo.label "Kako bi primali poruke, prvo morate postaviti račun e-pošte ili interesnih grupa.">
+<!ENTITY accountSetupInfo.label "Da biste primali poruke, prvo morate postaviti račun e-pošte ili interesnih grupa.">
 <!ENTITY accountTypeTitle.label "Postavljanje novog računa">
-<!ENTITY accountTypeDesc.label "Ovaj čarobnjak će prikupiti informacije potrebne za postavljanje računa e-pošte ili interesnih grupa. Ukoliko ne znate tražene informacije, kontaktirajte svoj sistem administratora ili pružatelja usluge.">
-<!ENTITY accountTypeDirections.label "Odaberite vrstu računa koji želite postaviti:">
+<!ENTITY accountTypeDesc.label "Ovaj čarobnjak će prikupiti informacije potrebne za postavljanje računa e-pošte ili interesnih grupa. Ukoliko ne znate tražene informacije, kontaktirajte svojeg sistem administratora ili pružatelja usluge.">
+<!ENTITY accountTypeDirections.label "Odaberite vrstu računa kojeg želite postaviti:">
 <!ENTITY accountTypeMail.label "Račun e-pošte">
 <!ENTITY accountTypeMail.accesskey "e">
 <!ENTITY accountTypeNews.label "Račun interesnih grupa">
@@ -17,10 +17,10 @@
 <!-- Entities for Identity page -->
 
 <!ENTITY identityTitle.label "Identitet">
-<!ENTITY identityDesc.label "Svaki račun ima svoj identitet, koji je informacija po kojoj će vas drugi prepoznati kada prime vaše poruke.">
+<!ENTITY identityDesc.label "Svaki račun ima svoj identitet, koji predstavlja informaciju prema kojoj će vas drugi prepoznati kada prime vaše poruke.">
 
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY fullnameDesc.label "Unesite ime koje želite da se pojavi u polju &quot;Šalje&quot; vaših odlaznih poruka">
+<!ENTITY fullnameDesc.label "Upišite ime koje želite da se pojavi u polju &quot;Šalje&quot; vaših odlaznih poruka">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
   1, do not translate two of "&quot;"
   2, Use localized full name instead of "John Smith"
@@ -37,13 +37,13 @@
 <!ENTITY serverTitle.label "Informacije o poslužitelju">
 <!ENTITY incomingServerTypeDesc.label "Odabrite koju vrstu dolaznog poslužitelja koristite.">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServerNameDesc.label "Unesite ime dolaznog poslužitlja (na primjer, &quot;mail.example.net&quot;).">
+<!ENTITY incomingServerNameDesc.label "Upišite ime dolaznog poslužitlja (na primjer, &quot;mail.example.net&quot;).">
 <!ENTITY incomingServerLabel.label "Dolazni poslužitelj:">
 <!ENTITY incomingServerLabel.accesskey "s">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Unesite ime poslužitelja interesnih grupa (NNTP) (na primjer, &quot;news.example.net&quot;).">
+<!ENTITY newsServerNameDesc.label "Upišite ime poslužitelja interesnih grupa (NNTP) (na primjer, &quot;news.example.net&quot;).">
 <!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY smtpServerDesc.label "Unesite ime odlaznog poslužitelja (SMTP) (na primjer, &quot;smtp.example.net&quot;).">
+<!ENTITY smtpServerDesc.label "Upišite ime odlaznog poslužitelja (SMTP) (na primjer, &quot;smtp.example.net&quot;).">
 <!ENTITY smtpServerLabel.label "Odlazni poslužitelj:">
 <!ENTITY smtpServerLabel.accesskey "O">
 <!ENTITY newsServerLabel.label "Poslužitelj interesnih grupa:">
@@ -62,25 +62,25 @@
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
 -->
-<!ENTITY haveSmtp1.prefix "Biti će korišten vaš postojeći odlazni (SMTP) poslužitelj, &quot;">
+<!ENTITY haveSmtp1.prefix "Bit će korišten vaš postojeći odlazni (SMTP) poslužitelj, &quot;">
 <!ENTITY haveSmtp1.suffix2 "&quot;. Odlazne poslužitelje možete promijeniti u postavkama računa.">
 
 <!-- Entities for Login page -->
 
 <!ENTITY loginTitle.label "Korisnička imena">
-<!ENTITY usernameDesc.label "Unesite korisničko ime za primanje pošte koje vam je dao vaš pružatelj usluge e-pošte ">
+<!ENTITY usernameDesc.label "Upišite korisničko ime za primanje pošte koje vam je dao vaš pružatelj usluge ">
 <!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
 <!ENTITY usernameExample.label "(na primjer, &quot;jsmith&quot;).">
 <!ENTITY usernameLabel.label "Dolazno korisničko ime:">
 <!ENTITY usernameLabel.accesskey "i">
-<!ENTITY usernameSmtpDesc.label "Unesite korisničko ime za slanje pošte koje vam je dao vaš pružatelj usluge e-pošte (ono je obično isto kao i dolazno korisničko ime).">
+<!ENTITY usernameSmtpDesc.label "Upišite korisničko ime za slanje pošte koje vam je dao vaš pružatelj usluge (ono je obično isto kao i dolazno korisničko ime).">
 <!ENTITY usernameSmtpLabel.label "Odlazno korisničko ime:">
 <!ENTITY usernameSmtpLabel.accesskey "O">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
 -->
-<!ENTITY haveSmtp2.prefix "Biti će korišteno vaše postojeće odlazno (SMTP) korisničko ime, &quot;">
+<!ENTITY haveSmtp2.prefix "Bit će korišteno vaše postojeće odlazno (SMTP) korisničko ime, &quot;">
 <!ENTITY haveSmtp2.suffix2 "&quot;. Odlazne poslužitelje možete promijeniti u postavkama računa.">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
@@ -91,24 +91,25 @@
 
 <!-- Entities for Account name page -->
 
-<!ENTITY accnameTitle.label "Account Name">
+<!ENTITY accnameTitle.label "Naziv računa">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
-<!ENTITY accnameDesc.label "Unesite ime koje će se odnositi na ovaj račun (na primjer, &quot;Poslovni račun&quot;, &quot;Kućni račun&quot; ili &quot;Račun interesnih grupa&quot;).">
+<!ENTITY accnameDesc.label "Upišite ime koje će se odnositi na ovaj račun (na primjer, &quot;Poslovni račun&quot;, &quot;Kućni račun&quot; ili &quot;Račun interesnih grupa&quot;).">
 <!ENTITY accnameLabel.label "Ime računa:">
 <!ENTITY accnameLabel.accesskey "a">
 
 <!-- Entities for Done (Congratulations) page -->
 
 <!ENTITY completionTitle.label "Čestitamo!">
-<!ENTITY completionText.label "Provjerite da li su niže navedene informacije točne.">
+<!ENTITY completionText.label "Provjerite jesu li niže navedene informacije točne.">
 <!ENTITY serverTypePrefix.label "Vrsta dolaznog poslužitelja:">
 <!ENTITY serverNamePrefix.label "Ime dolaznog poslužitelja:">
 <!ENTITY smtpServerNamePrefix.label "Ime odlaznog (SMTP) poslužitelja:">
 <!ENTITY newsServerNamePrefix.label "Ime poslužitelja interesnih grupa (NNTP):">
-<!ENTITY downloadOnLogin.label "Preuzmi poruke">
+<!ENTITY downloadOnLogin.label "Preuzmi poruke sada">
 <!ENTITY downloadOnLogin.accesskey "P">
-<!ENTITY deferStorageDesc.label "Isključite ovo polje kako bi spremali poštu za ovaj račun u posebnu mapu. Ovo će prikazati taj račun kao račun najviše razine. Inače će biti dio globalne primljene pošte lokalnih direktorija.">
+<!ENTITY deferStorageDesc.label "Uklonite kvačicu ako želite spremati poštu za ovaj račun u posebnu mapu. Ovo će prikazati taj račun kao račun najviše razine, u suprotnome će biti dijelom globalne mape primljene pošte.">
 <!ENTITY deferStorage.label "Koristi globalnu primljenu poštu (spremaj poštu u lokalne mape)">
 <!ENTITY deferStorage.accesskey "g">
-<!ENTITY clickFinish.label "Kliknite Završi kako bi spremili ove postavke i izašli iz čarobnjaka.">
-<!ENTITY clickFinish.labelMac "Kliknite Završi kako bi spremili ove postavke i izašli iz čarobnjaka.">
+<!ENTITY clickFinish.label "Kliknite na Završi da biste spremili ove postavke i izašli iz čarobnjaka.">
+<!ENTITY clickFinish.labelMac "Kliknite na Završi da biste spremili ove postavke i izašli iz čarobnjaka.">
+
