@@ -16,4 +16,4 @@
 <!ENTITY editContactPanelDone.label "Gotovo">
 <!ENTITY editContactPanelDone.accesskey "G">
 
-<!ENTITY contactMoveDisabledWarning.description "Ne možete promijeniti adresar, kontakt se nalazi u mailing listi.">
+<!ENTITY contactMoveDisabledWarning.description "Ne možete promijeniti adresar, kontakt se nalazi u popisu primatelja.">

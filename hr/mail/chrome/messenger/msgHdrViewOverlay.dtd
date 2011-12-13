@@ -65,7 +65,7 @@
 <!ENTITY hdrReplyAllButton.label "odgovori svima">
 <!ENTITY hdrReplyAllButton.tooltip "odgovori pošiljatelju i svim primateljima">
 <!ENTITY hdrReplyListButton.label "odgovori na listu">
-<!ENTITY hdrReplyListButton.tooltip "odgovori na mailing listu">
+<!ENTITY hdrReplyListButton.tooltip "odgovori na popis primatelja">
 <!ENTITY hdrForwardButton.label "proslijedi">
 <!ENTITY hdrForwardButton.tooltip "proslijedi ovu poruku">
 <!ENTITY hdrJunkButton.label "neželjena pošta">
