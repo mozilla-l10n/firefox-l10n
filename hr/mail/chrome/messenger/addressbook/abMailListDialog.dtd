@@ -37,7 +37,7 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Title -->
-<!ENTITY mailListWindow.title           "Mailing Lista">
+<!ENTITY mailListWindow.title           "Popis primatelja">
 <!-- Labels -->
 <!ENTITY addToAddressBook.label         "Dodaj u: ">
 
@@ -45,7 +45,7 @@
 <!ENTITY ListNickName.label             "Nadimak liste: ">
 <!ENTITY ListDescription.label          "Opis: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label             "Unesite adrese e-pošte kako bi ih dodali u mailing listu:">
+<!ENTITY AddressTitle.label             "Unesite adrese e-pošte kako bi ih dodali u popis primatelja:">
 <!ENTITY UpButton.label                 "Pomjeri gore">
 <!ENTITY DownButton.label               "Pomjeri dolje">
 
