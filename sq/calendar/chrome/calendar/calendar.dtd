@@ -304,7 +304,7 @@
 <!ENTITY calendarproperties.name.label                     "Emër:">
 <!ENTITY calendarproperties.readonly.label                 "Vetëm Lexim">
 <!ENTITY calendarproperties.firealarms.label               "Shfaq Alarme">
-<!ENTITY calendarproperties.cache.label                    "Fshehtinë (EKSPERIMENTALE, lyp rinisje)">
+<!ENTITY calendarproperties.cache2.label                    "Fshehtinë">
 <!ENTITY calendarproperties.enabled.label                  "Vëre këtë kalendar në punë">
 <!ENTITY calendarproperties.forceDisabled.label            "Ofruesi i këtij kalendari nuk u gjet dot. Shpesh, kjo ndodh nëse keni çaktivizuar apo çinstaluar disa shtesa.">
 <!ENTITY calendarproperties.unsubscribe.label              "Çpajtomë">
