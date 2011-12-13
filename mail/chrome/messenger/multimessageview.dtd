@@ -1,4 +1,4 @@
-<!ENTITY window.title "İleti özeti">
-<!ENTITY selectedmessages.label "Seçili iletiler">
-<!ENTITY archiveButton.label "Archive">
-<!ENTITY deleteButton.label "Delete">
+<!ENTITY window.title             "İleti özeti">
+<!ENTITY selectedmessages.label   "Seçili iletiler">
+<!ENTITY archiveButton.label      "Arşivle">
+<!ENTITY deleteButton.label       "Sil">
