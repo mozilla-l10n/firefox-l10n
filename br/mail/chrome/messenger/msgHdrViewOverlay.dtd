@@ -117,6 +117,8 @@
 <!ENTITY deleteAllAttachmentsCmd.label    "Dilemel pep tra…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "m">
 
+<!ENTITY openAttachment.tooltip "Digeriñ ar restr stag">
+
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Enrollañ">
 <!ENTITY saveAttachmentButton1.tooltip     "Enrollañ ar restr stag">

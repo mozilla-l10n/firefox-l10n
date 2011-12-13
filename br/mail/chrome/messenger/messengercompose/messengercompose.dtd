@@ -17,6 +17,7 @@
 <!ENTITY attachFileCmd.label "Restr(où)…">
 <!ENTITY attachFileCmd.accesskey "r">
 <!ENTITY attachPageCmd.label "Pajenn Internet …">
+<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachPageCmd.accesskey "n">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Fichenn bersonel (vCard)">

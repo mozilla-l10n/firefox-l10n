@@ -87,14 +87,20 @@
 <!ENTITY showTaskbarCmd.accesskey                       "B">
 <!ENTITY customizeToolbar.label                         "Personelaat…">
 <!ENTITY customizeToolbar.accesskey                     "P">
-<!ENTITY showContactPane.label                          "Penel krennadur an darempred">
-<!ENTITY showContactPane.accesskey                      "P">
+<!ENTITY layoutMenu.label                               "Aozadur">
+<!ENTITY layoutMenu.accesskey                           "A">
+<!ENTITY showDirectoryPane.label                        "Penel ar c'havlec'hioù">
+<!ENTITY showDirectoryPane.accesskey                    "k">
+<!ENTITY showContactPane2.label                         "Penel an darempred">
+<!ENTITY showContactPane2.accesskey                     "d">
 <!ENTITY menu_ShowNameAs.label                          "Diskouez an anv evel">
 <!ENTITY menu_ShowNameAs.accesskey                      "n"> 
-<!ENTITY firstLastCmd.label                             "Kentañ, Diwezhañ">
-<!ENTITY firstLastCmd.accesskey                         "K"> 
-<!ENTITY lastFirstCmd.label                             "Diwezhañ, Kentañ">
-<!ENTITY lastFirstCmd.accesskey                         "D">
+<!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
+because displayed names don't have the comma in between. -->
+<!ENTITY firstLastCmd2.label                            "Anv-bihan Anv">
+<!ENTITY firstLastCmd2.accesskey                        "b">
+<!ENTITY lastFirstCmd.label                             "Anv, Anv-bihan">
+<!ENTITY lastFirstCmd.accesskey                         "A">
 <!ENTITY displayNameCmd.label                           "Anv da skrammañ">
 <!ENTITY displayNameCmd.accesskey                       "d">
 <!ENTITY sortMenu.label                                 "Rummañ dre">

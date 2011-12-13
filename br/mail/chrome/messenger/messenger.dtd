@@ -23,8 +23,10 @@
 <!ENTITY newVirtualFolderCmd.accesskey "s">
 <!ENTITY newOtherAccountsCmd.label "Kontoù all…">
 <!ENTITY newOtherAccountsCmd.accesskey "o">
-<!ENTITY newEmailAccountCmd.label "Kont postel…">
-<!ENTITY newEmailAccountCmd.accesskey "K">
+<!ENTITY newCreateEmailAccountCmd.label "Kaout ur gont postel nevez…">
+<!ENTITY newCreateEmailAccountCmd.accesskey "K">
+<!ENTITY newExistingEmailAccountCmd.label "Ar gont postel zo anezhi endeo…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "A">
 <!ENTITY openMessageFileCmd.label "Digeriñ ar gemennadenn enrollet …">
 <!ENTITY openMessageFileCmd.accesskey "o">
 <!ENTITY openAttachmentCmd.label "Teulioù kenstag">
@@ -134,6 +136,8 @@
 <!ENTITY messagePaneWide.accesskey "l">
 <!ENTITY messagePaneVertical.label "Gwel a-serzh">
 <!ENTITY messagePaneVertical.accesskey "s">
+<!ENTITY showFolderPaneCmd.label "Penel an teuliadoù">
+<!ENTITY showFolderPaneCmd.accesskey "t">
 <!ENTITY showMessageCmd.label "Penel ar c'hemennadennoù">
 <!ENTITY showMessageCmd.accesskey "m">
 

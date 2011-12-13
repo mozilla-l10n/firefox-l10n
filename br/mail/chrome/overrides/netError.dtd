@@ -52,6 +52,9 @@
 <!ENTITY proxyConnectFailure.title "Dafariad ar proksi zo o nac'hañ ar c'hennaskañ">
 <!ENTITY proxyConnectFailure.longDesc " <p>Kefluniet eo ar merdeer evit ober gant un dafariad proksi, met nac'het eo bet ar c'hennaskañ gant ar proksi.</p><ul><li>Ha kefluniet mat eo proksi ar merdeer ? Gwiriit an arventennoù ha klaskit en-dro.</li><li>Ha gwazerezh ar proksi a aotre kennaskadurioù diouzh ar rouedad-mañ ?</li><li>Trubuilhoù c'hoazh ? Kit e darempred gant ardoer ar rouedad pe ho pourchaser internet a-benn kaout skoazell.</li></ul>">
 
+<!ENTITY notCached.title "Diamzeret eo an teul">
+<!ENTITY notCached.longDesc "<p>N'eo ket hegerz an teul goulennet e-barzh ar grubuilh.</p><ul><li>&brandShortName; ne c'houlenn ket en-dro teulioù kizidik ent emgefreek evit ho tiogelroez.</li><li>Klikit war Klask en-dro a-benn goulenn an teul digant al lec'hienn en-dro.</li></ul>">
+
 <!ENTITY proxyResolveFailure.title "N'eo ket bet kavet an dafariad proksi">
 <!ENTITY proxyResolveFailure.longDesc "<p>Kefluniet eo ar merdeer evit arverañ un dafariad proksi, met n'eus ket tu da gavout ar proksi.</p><ul><li>Ha kefluniet mat eo proksi ar merdeer ? Gwiriit an arventennoù ha klaskit en-dro.</li><li>Ha kennasket eo an urzhiataer ouzh ur rouedad oberiant ?</li><li>Trubuilhoù c'hoazh ? Goulennit digant ardoer ar rouedad pe ho pourchaser Internet evit kaout skoazell.</li></ul> ">
 

@@ -43,49 +43,21 @@
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
 <!-- File menu items -->
-<!ENTITY fileMenu.label "Restr">
-<!ENTITY fileMenu.accesskey "r">
-<!ENTITY openFileCmd.label "Digeriñ ar restr…">
-<!ENTITY openFileCmd.accesskey "i">
-<!ENTITY openFileCmd.key "O">
-<!ENTITY openRemoteCmd.label "Digeriñ ul lec'hiadur Internet…">
-<!ENTITY openRemoteCmd.accesskey "g">
-<!ENTITY openRemoteCmd.key "L">
-<!ENTITY fileRecentMenu.label "Pajennoù nevesañ">
-<!ENTITY fileRecentMenu.accesskey "v">
-<!ENTITY fileRevert.label "Tuginañ">
-<!ENTITY fileRevert.accesskey "u">
-<!ENTITY saveCmd.label "Enrollañ">
-<!ENTITY saveCmd.accesskey "E">
 <!ENTITY saveCmd.key "S">
-<!ENTITY saveAsCmd.label "Enrollañ evel…">
-<!ENTITY saveAsCmd.accesskey "e">
-
-<!ENTITY publishCmd.label "Brudañ">
-<!ENTITY publishCmd.accesskey "B">
-<!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "Brudañ evel…">
-<!ENTITY publishAsCmd.accesskey "B">
-<!ENTITY saveAsChangeEncodingCmd.label "Enrollañ ha kemmañ bonegañ an arouezioù">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "E">
 
 <!-- Edit menu items -->
-<!ENTITY editMenu.label "Embann">
-<!ENTITY editMenu.accesskey "E">
 <!ENTITY pasteNoFormatting.label "Pegañ hep furmaozañ">
 <!ENTITY pasteNoFormatting.accesskey "h">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Pegañ evel">
 <!ENTITY pasteAs.accesskey "P">
-<!ENTITY publishSettings.label "Perzhioù al lec'hiennoù brudañ…">
-<!ENTITY publishSettings.accesskey "b">
 <!ENTITY pasteAsQuotationCmd.label "Pegañ evel ur meneg">
 <!ENTITY pasteAsQuotationCmd.accesskey "m">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Kavout hag amsaviñ…">
 <!ENTITY enableInlineSpellChecker.label "Reizhskrivañ en ur vizskrivañ">
 <!ENTITY enableInlineSpellChecker.accesskey "s">
-<!ENTITY checkSpellingCmd2.label "Gwiriañ ar reizhskrivañ">
+<!ENTITY checkSpellingCmd2.label "Gwiriañ ar reizhskrivañ…">
 <!ENTITY checkSpellingCmd2.accesskey "h">
 <!ENTITY checkSpellingCmd2.key "p">
 
@@ -210,7 +182,7 @@
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Dilemel an eorioù anvet">
 <!ENTITY formatRemoveNamedAnchors.accesskey "r">
-<!ENTITY formatRemoveNamedAnchors.key "A">
+<!ENTITY formatRemoveNamedAnchors2.key "R">
 
 <!ENTITY paragraphMenu.label "Rannbennad">
 <!ENTITY paragraphMenu.accesskey "R">
