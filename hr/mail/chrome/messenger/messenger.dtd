@@ -27,7 +27,7 @@
 <!ENTITY newEmailAccountCmd.accesskey "a">
 <!ENTITY openMessageFileCmd.label "Otvori spremljenu poruku…">
 <!ENTITY openMessageFileCmd.accesskey "O">
-<!ENTITY openAttachmentCmd.label "Privitci">
+<!ENTITY openAttachmentCmd.label "Privici">
 <!ENTITY openAttachmentCmd.accesskey "i">
 <!ENTITY saveAsMenu.label "Spremi kao">
 <!ENTITY saveAsMenu.accesskey "S">
@@ -157,7 +157,7 @@
 <!ENTITY sortByReceivedCmd.accesskey "r">
 <!ENTITY sortByStarCmd.label "Zvjezdica">
 <!ENTITY sortByStarCmd.accesskey "d">
-<!ENTITY sortByAttachmentsCmd.label "Privitci">
+<!ENTITY sortByAttachmentsCmd.label "Privici">
 <!ENTITY sortByAttachmentsCmd.accesskey "v">
 <!ENTITY sortByPriorityCmd.label "Prioritet">
 <!ENTITY sortByPriorityCmd.accesskey "P">
@@ -622,7 +622,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY starredColumn.label "Zvjezdica">
 <!ENTITY locationColumn.label "Lokacija">
 <!ENTITY idColumn.label "Redoslijed primanja">
-<!ENTITY attachmentColumn.label "Privitci">
+<!ENTITY attachmentColumn.label "Privici">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser.tooltip "Kliknite kako bi odabrali stupce za prikaz">
@@ -644,7 +644,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY starredColumn.tooltip "Kliknite za sortiranje po zvjezdici">
 <!ENTITY locationColumn.tooltip "Kliknite za sortiranje po lokaciji">
 <!ENTITY idColumn.tooltip "Kliknite za sortiranje po redoslijedu primanja">
-<!ENTITY attachmentColumn.tooltip "Kliknite za sortiranje po privitcima">
+<!ENTITY attachmentColumn.tooltip "Kliknite za sortiranje po privicima">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Otvori poruku u novi prozor">
