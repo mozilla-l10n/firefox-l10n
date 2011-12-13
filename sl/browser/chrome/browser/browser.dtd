@@ -33,7 +33,6 @@ can reach it easily. -->
 <!ENTITY  moveToNewGroup.label               "Nova skupina">
 <!ENTITY  moveToNewWindow.label              "Premakni v novo okno">
 <!ENTITY  moveToNewWindow.accesskey          "k">
-
 <!ENTITY  bookmarkAllTabs.label              "Dodaj vse zavihke med zaznamke …">
 <!ENTITY  bookmarkAllTabs.accesskey          "v">
 <!ENTITY  undoCloseTab.label                 "Prekliči zapiranje zavihka">
@@ -91,6 +90,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "S">
 <!ENTITY fullScreenExit.label "Izhod iz celozaslonskega načina">
 <!ENTITY fullScreenExit.accesskey "C">
+<!ENTITY domFullScreenWarning.label "Pritisnite ESC za izhod iz celozaslonskega načina">
 
 <!ENTITY closeWindow.label "Zapri okno">
 <!ENTITY closeWindow.accesskey "o">
@@ -216,6 +216,9 @@ can reach it easily. -->
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "Preglej">
 <!ENTITY inspectButton.accesskey      "P">
+<!ENTITY inspectCloseButton.tooltiptext "Zapri pregledovalnik">
+<!ENTITY inspectStyleButton.label     "Slog">
+<!ENTITY inspectStyleButton.accesskey "S">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Prenesi več orodij">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "r">
@@ -433,7 +436,12 @@ can reach it easily. -->
 <!ENTITY mediaHideControls.accesskey "g">
 <!ENTITY videoFullScreen.label       "Celozaslonski način">
 <!ENTITY videoFullScreen.accesskey   "C">
-
+<!ENTITY videoSaveImage.label        "Shrani posnetek kot …">
+<!ENTITY videoSaveImage.accesskey    "S">
+<!ENTITY videoShowStats.label        "Prikaži statistiko">
+<!ENTITY videoShowStats.accesskey    "t">
+<!ENTITY videoHideStats.label        "Skrij statistiko">
+<!ENTITY videoHideStats.accesskey    "t">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
