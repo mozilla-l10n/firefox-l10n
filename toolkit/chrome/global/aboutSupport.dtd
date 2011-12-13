@@ -2,7 +2,7 @@
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "
-  এই পৃষ্ঠাত কাৰিকৰী তথ্য আছে যোনটো লাভদায়ক হব পাৰে যদি আপুনি এটা সমস্যা সমাধান কৰিব বিচাৰিছে। যদি আপুনি  &brandShortName; -ৰ সাধাৰন প্ৰশ্ন কিছুমানৰ উত্তৰ বিচাৰিছে, আমাৰ  সমৰ্থন ৱেবছাইট<a id='supportLink'>  </a> চাওক।">
+  এই পৃষ্ঠাত কাৰিকৰী তথ্য আছে যোনটো লাভদায়ক হব পাৰে যদি আপুনি এটা সমস্যা সমাধান কৰিব বিচাৰিছে। যদি আপুনি  &brandShortName; -ৰ সাধাৰণ প্ৰশ্ন কিছুমানৰ উত্তৰ বিচাৰিছে, আমাৰ  সমৰ্থন ৱেবছাইট <a id='supportLink'>  </a> চাওক।">
 
 <!ENTITY aboutSupport.extensionsTitle "প্ৰসাৰনসমূহ">
 <!ENTITY aboutSupport.extensionName "নাম">
@@ -10,13 +10,15 @@
 <!ENTITY aboutSupport.extensionVersion "সংস্কৰণ">
 <!ENTITY aboutSupport.extensionId "ID">
 
-<!ENTITY aboutSupport.appBasicsTitle "অনুপ্ৰয়োগ সাধাৰনসমূহ">
+<!ENTITY aboutSupport.appBasicsTitle "অনুপ্ৰয়োগ সাধাৰণসমূহ">
 <!ENTITY aboutSupport.appBasicsName "নাম">
 <!ENTITY aboutSupport.appBasicsVersion "সংস্কৰণ">
 <!ENTITY aboutSupport.appBasicsProfileDir "আলেখ্যন ডাইৰেকটৰি">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "সামৰ্থবান কৰি থোৱা প্লাগিনসমূহ">
 <!ENTITY aboutSupport.appBasicsBuildConfig "সংৰূপ বনাওক">
 <!ENTITY aboutSupport.appBasicsUserAgent "ব্যৱহাৰকাৰী সহায়ক">
+<!ENTITY aboutSupport.appBasicsCrashIDs "স্খলন সংবাদসমূহ">
+<!ENTITY aboutSupport.appBasicsMemoryUse "মেমৰিৰ ব্যৱহাৰ">
 
 <!ENTITY aboutSupport.show.label "অন্তৰ্ভুক্ত ফোল্ডাৰ খোলক">
 
