@@ -36,15 +36,15 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Box Headings -->
-<!ENTITY contact.heading             "Contact">
-<!ENTITY home.heading                "Home">
-<!ENTITY other.heading               "Other">
-<!ENTITY phone.heading               "Phone">
-<!ENTITY work.heading                "Work">
+<!ENTITY contact.heading             "Kontakt">
+<!ENTITY home.heading                "Kućae">
+<!ENTITY other.heading               "Drugi">
+<!ENTITY phone.heading               "Telefon">
+<!ENTITY work.heading                "Posao">
 <!-- Special Box Headings, for mailing lists -->
-<!ENTITY description.heading         "Description">
-<!ENTITY addresses.heading           "Addresses">
+<!ENTITY description.heading         "Opis">
+<!ENTITY addresses.heading           "Adrese">
 <!-- For Map It! -->
-<!ENTITY mapItButton.label           "Get Map">
-<!ENTITY mapIt.tooltip               "Display a map of this address from the Web">
+<!ENTITY mapItButton.label           "Dohvati kartu">
+<!ENTITY mapIt.tooltip               "Prikaži kartu ove adrese na internetu">
 
