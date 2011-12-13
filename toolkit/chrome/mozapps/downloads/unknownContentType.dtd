@@ -39,7 +39,7 @@
 
 <!ENTITY  intro.label                 "మీరు  తెరుచుటకు  ఎంపికచేసికొనినారు">
 <!ENTITY  from.label                  "నుండి:">
-<!ENTITY  actionQuestion.label        "&brandShortName; ఈ  ఫైల్ తో  ఏమి చేయాలి?">
+<!ENTITY  actionQuestion.label        "&brandShortName; ఈ  ఫైలుని ఏమి చేయాలి?">
 
 <!ENTITY  openWith.label              "దీనితో  తెరువుము">
 <!ENTITY  openWith.accesskey          "o">
@@ -47,7 +47,7 @@
 <!ENTITY  rememberChoice.label        "ఇక నుండి  ఇలాంటి  ఫైళ్ళకు దీనిని  స్వయంచాలకంగా   చేయుము.">
 <!ENTITY  rememberChoice.accesskey    "a">
 
-<!ENTITY  whichIsA.label              "ఏది ఒక:">
+<!ENTITY  whichIsA.label              "ఇది వొక:">
 
 <!ENTITY  chooseHandlerMac.label      "ఎంచుకో...">
 <!ENTITY  chooseHandlerMac.accesskey  "C">

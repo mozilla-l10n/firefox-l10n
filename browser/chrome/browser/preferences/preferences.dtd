@@ -11,7 +11,7 @@
 <!ENTITY  paneGeneral.title       "సాధారణ">
 <!ENTITY  paneTabs.title          "టాబులు">
 <!ENTITY  paneContent.title       "విషయసంగ్రహం">
-<!ENTITY  panePrivacy.title       "ప్రైవసి">
+<!ENTITY  panePrivacy.title       "గోప్యత">
 <!ENTITY  paneSecurity.title      "రక్షణ">
 <!ENTITY  paneAdvanced.title      "అధునాతన">
 <!ENTITY  paneApplications.title  "అనువర్తనాలు">
