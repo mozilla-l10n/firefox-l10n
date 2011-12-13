@@ -25,7 +25,7 @@
 <!ENTITY netInterrupt.longDesc "<p>Brskalnik se je uspešno povezal, vendar je bila povezava prekinjena med prenosom podatkov. Prosim, poskusite znova.</p><ul><li>Če ne morete uporabljati nobene strani, preverite povezavo svojega računalnika do interneta.</li><li>Če težava ne izgine, se posvetujte s svojim skrbnikom sistema ali s ponudnikom internetnih storitev.</li></ul>">
 
 <!ENTITY notCached.title "Dokument je potekel">
-<!ENTITY notCached.longDesc "<p>Zahtevani dokument v medpomnilniku brskalnika ni več na razpolago.</p><ul><li>Iz varnostnih razlogov brskalnik občutljivih dokumentov ne zahteva ponovno.</li><li>Kliknite na poskusi znova, da sdokument ponovno zahteva s spletne strani.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Zahtevan dokument ni več na voljo v predpomnilniku brskalnika.</p><ul><li>Brskalnik občutljivih dokumentov iz varnostnih razlogov samodejno ne nalaga ponovno.</li><li>Kliknite poskusi znova za ponovno nalaganje dokumenta s spletne strani.</li></ul>">
 
 <!ENTITY netOffline.title "Brez povezave">
 <!ENTITY netOffline.longDesc2 "<p>Brskalnik trenutno deluje v načinu brez povezave in se zato ne more povezati na zahtevano stran.</p><ul><li>Je računalnik povezan v delujoče omrežje?</li><li>Spremenite način brskalnika v delo s povezavo in poskusite ponovno.</li></ul>">
