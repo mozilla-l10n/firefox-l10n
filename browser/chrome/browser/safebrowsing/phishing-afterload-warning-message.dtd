@@ -8,7 +8,7 @@
 <!ENTITY safeb.palm.message.p2.linkText "како Вас програм &brandShortName; штити">
 <!ENTITY safeb.palm.message.p2.end " од фишинг напада.">
 
-<!ENTITY safeb.palm.accept.label "Желим да напустим сајт!">
+<!ENTITY safeb.palm.accept.label "Води ме одавде!">
 <!ENTITY safeb.palm.accept.statustext "Врати се на моју почетну страну">
 <!ENTITY safeb.palm.decline.label "Занемари ово упозорење">
 <!ENTITY safeb.palm.decline.statustext "Затвори упозорење" >
@@ -24,3 +24,4 @@
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc "Веб страница на <span id='phishing_sitename'/> је пријављена као фалсификат, па је блокирана, на основу Ваших безбедносних подешавања.">
 <!ENTITY safeb.blocked.phishingPage.longDesc "<p>Мрежни фалсификати су направљени како би Вас навели да откријете личне или финансијске податке тако што опонашају сајтове којима верујете.</p><p>Остављање података на овој страни може да као последицу има крађу идентитета или неку другу превару.</p>">
+

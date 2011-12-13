@@ -58,7 +58,7 @@
 
 <!ENTITY copyCmd.label       "Умножи">  
 <!ENTITY copyCmd.accesskey   "У"> 
-<!ENTITY copyCmd.commandkey  "К"> 
+<!ENTITY copyCmd.commandkey  "C"> 
 <!ENTITY sortFirst.label     "Уреди по растућем редоследу">
 <!ENTITY sortFirst.accesskey "У">
 <!ENTITY sortLast.label      "Уреди по опадајућем редоследу">
@@ -66,3 +66,4 @@
 <!ENTITY closeCmd.commandkey "с">  
 <!ENTITY focus1.commandkey   "l">  
 <!ENTITY focus2.commandkey   "в">  
+

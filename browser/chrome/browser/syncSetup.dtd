@@ -4,8 +4,7 @@
 
 <!ENTITY setup.pickSetupType.description "Добро дошли. Ако никада раније нисте користили &syncBrand.fullName.label;, требате да направите нови налог.">
 <!ENTITY button.createNewAccount.label "Направи нови налог">
-<!ENTITY setup.haveAccount.label "Већ имам налог на &syncBrand.fullName.label;у.">
-<!ENTITY button.connect.label    "Повежи">
+<!ENTITY button.haveAccount.label      "Имам налог">
 
 <!ENTITY setup.choicePage.title.label     "Да ли сте раније користили &syncBrand.fullName.label;?">
 <!ENTITY setup.choicePage.new.label       "Никада раније нисам користио/ла &syncBrand.shortName.label;">
@@ -19,8 +18,8 @@
 <!ENTITY signIn.account2.accesskey  "Н">
 <!ENTITY signIn.password.label      "Лозинка">
 <!ENTITY signIn.password.accesskey  "Л">
-<!ENTITY signIn.syncKey.label       "Кључ за усклађивање">
-<!ENTITY signIn.syncKey.accesskey   "К">
+<!ENTITY signIn.recoveryKey.label       "Тастер за опоравака">
+<!ENTITY signIn.recoveryKey.accesskey   "Т">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Детаљи о налогу">
@@ -38,39 +37,37 @@
 <!ENTITY setup.tosAgree2.label      "и">
 <!ENTITY setup.ppLink.label         "Политика приватности">
 <!ENTITY setup.tosAgree3.label      "">
-<!ENTITY setup.tosAgree2.accesskey  "и">
+<!ENTITY setup.tosAgree2.accesskey  "">
 
-<!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; брине о вашој приватности">
-<!ENTITY setup.newSyncKeyPage.description.label "Да би потпуна приватност била обезбеђена, сви подаци се шифрују пре слања. Кључ за усклађивање, који је неопходан за дешифровање ваших података, није отпремљен.">
-<!ENTITY syncKeyEntry.label        "Ваш кључ за усклађивање">
-<!ENTITY syncKeyEntry.accesskey    "В">
+<!-- My Recovery Key dialog -->
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; брине о вашој приватности">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Да би се обезбедила потпуна приватност, сви подаци су шифровани пре слања. Потребан је кључ за опоравак за дешифровање Ваших података, и овај кључ се НЕ шаље.">
+<!ENTITY recoveryKeyEntry.label        "Ваш кључ за опоравак">
+<!ENTITY recoveryKeyEntry.accesskey    "к">
 <!ENTITY syncGenerateNewKey.label  "Генериши нови кључ">
-<!ENTITY syncKeyBackup.description "Потребан вам је кључ за усклађивање да бисте могли приступити &syncBrand.fullName.label;-у на другим уређајима. Направите резервну копију, јер не можемо да вам повратимо кључ ако га изгубите.">
+<!ENTITY recoveryKeyBackup.description "Потребан је кључ за опоравак за синхрнизацију програма &syncBrand.fullName.label; на другим уређајима. Молимо да направите резервну копију кључа.  Ми Вам не можемо помоћи да га вратите ако се изгуби.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Штампа…">
 <!ENTITY button.syncKeyBackup.print.accesskey "Ш">
 <!ENTITY button.syncKeyBackup.save.label      "Сачувај…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "С">
 
-<!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "Потврдите да нисте робот">
-<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "Додај уређај">
+<!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
+<!ENTITY pairDevice.title.label             "Упари уређај">
 <!ENTITY addDevice.showMeHow.label          "Покажи ми како.">
 <!ENTITY addDevice.dontHaveDevice.label     "Немам уређај са собом.">
-<!ENTITY addDevice.setup.description.label  "Да бисте активирали, отворите опције &syncBrand.shortName.label;а на вашем другом уређају и изаберите &#x0022;Додај уређај&#x0022;.">
+<!ENTITY pairDevice.setup.description.label  "За активацију, изаберите „Упари уређај“ на другом уређају.">
 <!ENTITY addDevice.setup.enterCode.label    "Затим унесите овај кôд:">
-<!ENTITY addDevice.dialog.description.label "Да бисте активирали свој нови уређај, отворите опције &syncBrand.shortName.label; на уређају и изаберите &#x0022;Повежи.&#x0022;">
+<!ENTITY pairDevice.dialog.description.label "За активацију новом уређаја изаберите „Подешавања синхронизације“ на уређају.">
 <!ENTITY addDevice.dialog.enterCode.label   "Унесите овај кôд који уређај додељује:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Покушајте поново.">
 <!ENTITY addDevice.dialog.successful.label  "Уређај је успешно додат. Почетно усклађивање може да потраје неколико минута и биће завршено у позадини.">
-<!ENTITY addDevice.dialog.syncKey.label     "Да бисте активирали овај уређај, потребан Вам је кључ за усклађивање. Најбоље је да га одштампате или сачувате и држите са собом.">
+<!ENTITY addDevice.dialog.recoveryKey.label     "Да бисте активирали уређај, неопходно је да унесете кључ за опоравак.  Молимо да овај кључ негде запишете и добро чувате.">
 <!ENTITY addDevice.dialog.connected.label   "Уређај је повезан">
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Пријављивање">
-<!ENTITY existingSyncKey.description "Копију свог кључа за усклађивање можете да добијете кад отворите опције &syncBrand.shortName.label;а на свој уређају и изаберете &#x0022;Мој кључ за усклађивање&#x0022; под &#x0022;Управљање налогом&#x0022;.">
+<!ENTITY existingRecoveryKey.description "Можете да добијете копију кључа за опоравак одласком на &syncBrand.shortName.label; Опције на другом уређај и бирањем  &#x0022;Мој кључ за опоравак&#x0022; код &#x0022;Управљања налозима&#x0022;.">
 <!ENTITY verifying.label              "Потврђивање…">
 <!ENTITY resetPassword.label          "Обнављање шифре">
 <!ENTITY resetSyncKey.label           "Други уређај је изгубљен.">
@@ -90,7 +87,7 @@
 <!ENTITY engine.passwords.label     "Лозинке">
 <!ENTITY engine.passwords.accesskey "Л">
 <!ENTITY engine.prefs.label         "Поставке">
-<!ENTITY engine.prefs.accesskey     "П">
+<!ENTITY engine.prefs.accesskey     "с">
 
 <!ENTITY choice2.merge.main.label      "Обједини податке из овог рачунара са мојим подацима из &syncBrand.shortName.label;-а">
 <!ENTITY choice2.merge.recommended.label "Препоручљиво:">
@@ -108,3 +105,4 @@
 <!ENTITY setup.successPage.title "Подешавање параметара је завршено">
 <!ENTITY changeOptions.label "Ову поставку можете да измените тако што ћете изабрати „Опције усклађивања” испод.">
 <!ENTITY continueUsing.label "Сада можете да почнете користити &brandShortName;.">
+

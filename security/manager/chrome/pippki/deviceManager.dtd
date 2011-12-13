@@ -44,26 +44,27 @@
 <!ENTITY devmgr.version.label                   "Издање">
 
 <!ENTITY devmgr.button.changeslotname.label     "Промена имена прореза">
-<!ENTITY devmgr.button.changeslotname.accesskey "П">
+<!ENTITY devmgr.button.changeslotname.accesskey "н">
 <!ENTITY devmgr.button.login.label              "Пријава">
-<!ENTITY devmgr.button.login.accesskey          "П">
+<!ENTITY devmgr.button.login.accesskey          "ј">
 <!ENTITY devmgr.button.logout.label             "Одјава">
-<!ENTITY devmgr.button.logout.accesskey         "О">
+<!ENTITY devmgr.button.logout.accesskey         "д">
 <!ENTITY devmgr.button.changepw.label           "Промена лозинке">
-<!ENTITY devmgr.button.changepw.accesskey       "П">
+<!ENTITY devmgr.button.changepw.accesskey       "л">
 <!ENTITY devmgr.button.load.label               "Учитај">
-<!ENTITY devmgr.button.load.accesskey           "У">
+<!ENTITY devmgr.button.load.accesskey           "т">
 <!ENTITY devmgr.button.unload.label             "Уклони">
-<!ENTITY devmgr.button.unload.accesskey         "У">
+<!ENTITY devmgr.button.unload.accesskey         "н">
 <!ENTITY devmgr.button.fips.accesskey           "З">
 
 <!ENTITY loaddevice.info                        "Унесите податке о модулу који желите да додате.">
 <!ENTITY loaddevice.modname                     "Име модула:">
-<!ENTITY loaddevice.modname.accesskey           "M">
+<!ENTITY loaddevice.modname.accesskey           "м">
 <!ENTITY loaddevice.modname.default             "Нови модул PKCS#11">
-<!ENTITY loaddevice.filename                    "Назив датотеке:">
-<!ENTITY loaddevice.filename.accesskey          "Н">
-<!ENTITY loaddevice.browse                      "Потражи…">
+<!ENTITY loaddevice.filename                    "Датотека модула:">
+<!ENTITY loaddevice.filename.accesskey          "к">
+<!ENTITY loaddevice.browse                      "Преглед…">
 <!ENTITY loaddevice.browse.accesskey            "П">
 
 <!ENTITY loaddevice.title                       "Учитај PKCS#11 уређај">
+

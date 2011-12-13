@@ -1,8 +1,9 @@
-<!ENTITY clearLog.accesskey "О">
+<!ENTITY viewLog.title "Белешке о филтрима">
 <!ENTITY viewLogInfo.text "У белешке о филтрима записују се филтри који су покретани за овај налог.  Користите доле дату кућицу да укључите бележење.">
 <!ENTITY clearLog.label "Одбаци белешке">
-<!ENTITY enableLog.accesskey "У">
+<!ENTITY clearLog.accesskey "О">
 <!ENTITY enableLog.label "Укључи бележење">
-<!ENTITY closeLog.accesskey "З">
-<!ENTITY viewLog.title "Белешке о филтрима">
+<!ENTITY enableLog.accesskey "У">
 <!ENTITY closeLog.label "Затвори">
+<!ENTITY closeLog.accesskey "З">
+

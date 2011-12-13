@@ -40,10 +40,10 @@
 <!ENTITY  pageInfoWindow.width  "600">
 <!ENTITY  pageInfoWindow.height "500">
 
-<!ENTITY  copy.key              "К">
+<!ENTITY  copy.key              "C">
 <!ENTITY  copy.label            "Умножи">
 <!ENTITY  copy.accesskey        "У">
-<!ENTITY  selectall.key         "П">
+<!ENTITY  selectall.key         "A">
 <!ENTITY  selectall.label       "Изабери све">
 <!ENTITY  selectall.accesskey   "И">
 <!ENTITY  closeWindow.key       "с">
@@ -111,18 +111,19 @@
 <!ENTITY  securityView.unknown   "Непознато">
 
 
-<!ENTITY  securityView.identity.header   "Идентитет сајта">
+<!ENTITY  securityView.identity.header   "Идентитет веб сајта">
 <!ENTITY  securityView.identity.owner    "Власник:">
 <!ENTITY  securityView.identity.domain   "Веб сајт:">
 <!ENTITY  securityView.identity.verifier "Проверио:">
 
 <!ENTITY  securityView.privacy.header                   "Приватност и историјат">
-<!ENTITY  securityView.privacy.history                  "Да ли сам овај сајт посетио раније?">
-<!ENTITY  securityView.privacy.cookies                  "Да лиовај сајт чува податке (колачиће) на мом рачунару?">
+<!ENTITY  securityView.privacy.history                  "Да ли сте раније посетили овај сајт?">
+<!ENTITY  securityView.privacy.cookies                  "Да ли овај веб сајт чува податке („колачиће“) на мом рачунару?">
 <!ENTITY  securityView.privacy.viewCookies              "Преглед колачића">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "П">
-<!ENTITY  securityView.privacy.passwords                "Да ли чувам иједну лозинку за овај сајт?">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "к">
+<!ENTITY  securityView.privacy.passwords                "Да ли чувате неку лозинку за овај веб сајт?">
 <!ENTITY  securityView.privacy.viewPasswords            "Преглед сачуваних лозинки">
-<!ENTITY  securityView.privacy.viewPasswords.accessKey  "с">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "л">
 
 <!ENTITY  securityView.technical.header                 "Технички детаљи">
+

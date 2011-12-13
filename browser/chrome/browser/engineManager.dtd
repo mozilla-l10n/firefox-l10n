@@ -10,8 +10,8 @@
 <!ENTITY  up.accesskey              "Н">
 <!ENTITY  dn.label                  "На доле">
 <!ENTITY  dn.accesskey              "Н">
-<!ENTITY  remove.label              "Избриши">
-<!ENTITY  remove.accesskey          "И">
+<!ENTITY  remove.label              "Уклони">
+<!ENTITY  remove.accesskey          "У">
 <!ENTITY  edit.label                "Уреди кључну реч…">
 <!ENTITY  edit.accesskey            "У">
 
@@ -23,3 +23,4 @@
 
 <!ENTITY  restoreDefaults.label     "Врати изворно">
 <!ENTITY  restoreDefaults.accesskey "В">
+

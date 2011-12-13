@@ -1,2 +1,4 @@
-<!ENTITY chooseAddressBook.label "Додај у:">
-<!ENTITY chooseAddressBook.accesskey "Д">
+<!-- Labels -->
+<!ENTITY chooseAddressBook.label         "Додај у:">
+<!ENTITY chooseAddressBook.accesskey     "Д">
+

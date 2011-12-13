@@ -18,3 +18,7 @@
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "Веома лако можете да фајерфокс прилагодите својим потребама. <a>Изаберите неке од хиљада додатака</a>.">
+
+<!ENTITY abouthome.syncSetup.label   "Подеси синхронизацију">
+<!ENTITY abouthome.pairDevice.label  "Упари уређај">
+
