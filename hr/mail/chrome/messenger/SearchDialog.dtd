@@ -48,7 +48,7 @@
 <!ENTITY totalColumn.label "Ukupno">
 <!ENTITY readColumn.label "Pročitano">
 <!ENTITY receivedColumn.label "Primljeno">
-<!ENTITY starredColumn.label "Označeno zvijezdicom">
+<!ENTITY starredColumn.label "Označeno zvjezdicom">
 <!ENTITY locationColumn.label "Lokacija">
 <!ENTITY idColumn.label "Redoslijed primanja">
 
@@ -69,6 +69,6 @@
 <!ENTITY totalColumn.tooltip "Ukupan broj poruka u temi">
 <!ENTITY readColumn.tooltip "Kliknite za sortiranje po pročitanom">
 <!ENTITY receivedColumn.tooltip "Kliknite za sortiranje po datumu primitka">
-<!ENTITY starredColumn.tooltip "Kliknite za sortiranje po zvijezdici">
+<!ENTITY starredColumn.tooltip "Kliknite za sortiranje po zvjezdici">
 <!ENTITY locationColumn.tooltip "Kliknite za sortiranje po lokaciji">
 <!ENTITY idColumn.tooltip "Kliknite za sortiranje po redoslijedu primanja">
