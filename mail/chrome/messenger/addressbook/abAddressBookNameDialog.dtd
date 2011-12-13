@@ -36,5 +36,5 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Labels -->
-<!ENTITY name.label      "Address Book Name:">
-<!ENTITY name.accesskey  "A">
+<!ENTITY name.label      "Naziv adresara:">
+<!ENTITY name.accesskey  "a">
