@@ -52,8 +52,6 @@
 <!ENTITY useService.label "Использовать фоновую службу для установки обновлений">
 <!ENTITY useService.accesskey "ф">
 <!ENTITY updateOthers.label "Автоматически обновлять:">
-<!ENTITY enableAddonsUpdate3.label "Дополнения">
-<!ENTITY enableAddonsUpdate3.accesskey "о">
 <!ENTITY enableSearchUpdate.label "Плагины для поисковых систем">
 <!ENTITY enableSearchUpdate.accesskey "л">
 <!ENTITY offlineNotify.label "Информировать, когда веб-сайт просит разрешения сохранить данные для использования в автономном режиме">
