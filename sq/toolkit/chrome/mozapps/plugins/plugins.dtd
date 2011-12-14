@@ -29,6 +29,7 @@
 <!ENTITY report.unavailable                                  "Nuk njoftim.">
 
 <!ENTITY missingPlugin                                       "Që të shfaqet kjo lëndë, lypset një shtojcë.">
+<!ENTITY clickToPlayPlugin                                   "Prekeni këtu që të aktivizohet shtojca.">
 <!ENTITY disabledPlugin                                      "Kjo shtojcë është e çaktivizuar.">
 <!ENTITY installPlugin                                       "Instaloni shtojca…">
 <!ENTITY managePlugins                                       "Administroni shtojca…">

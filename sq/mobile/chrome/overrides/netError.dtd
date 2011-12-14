@@ -55,25 +55,15 @@
 </ul>
 ">
 
-<!ENTITY netOffline.title "Offline mode">
+<!ENTITY netOffline.title "Mënyrë offline">
 <!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Try again. &brandShortName; will attempt to open a connection and reload the page.</li>
+  <li>Riprovojeni. &brandShortName;-i do të përpiqet të hapë një lidhje dhe të ringarkojë faqen.</li>
 </ul>
 ">
 
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY notCached.title "Dokumenti Skadoi">
+<!ENTITY notCached.longDesc "<p>Dokumenti i kërkuar nuk gjendet më te fshehtina e &brandShortName;-it.</p><ul><li>Si një masë parandaluese, &brandShortName;-i nuk rikërkon vetvetiu dokumente me spec.</li><li>Klikoni Riprovoni që ta rikërkoni dokumentin prej site-et web.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Gabim Kodimi Përmbajtjeje">
 <!ENTITY contentEncodingError.longDesc "

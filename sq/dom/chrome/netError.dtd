@@ -97,3 +97,7 @@
 
 <!ENTITY corruptedContentError.title "Gabim nga Lëndë e Dëmtuar">
 <!ENTITY corruptedContentError.longDesc "<p>Faqja që po përpiqeni të shihni nuk mund të shfaqet, ngaqë u kap një gabim në transmetimin e të dhënave.</p><ul><li>Ju lutem, lidhuni me të zotët e &quot;site&quot;-it web që t'i njoftoni për këtë problem.</li></ul>">
+
+<!ENTITY notCached.title "Dokumenti Skadoi">
+<!ENTITY notCached.longDesc "<p>Dokumenti i kërkuar nuk është më i passhëm prej fshehtinës së shfletuesit.</p><ul><li>Si masë parandaluese sigurie, shfletuesi nuk rikërkon vetvetiu dokumente me spec.</li><li>Click Riprovoni ta rikërkoni dokumentin prej site-it web.</li></ul>">
+
