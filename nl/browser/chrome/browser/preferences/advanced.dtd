@@ -76,8 +76,6 @@
 <!ENTITY useService.accesskey            "a">
 
 <!ENTITY updateOthers.label              "Automatisch update:">
-<!ENTITY enableAddonsUpdate3.label       "Add-ons">
-<!ENTITY enableAddonsUpdate3.accesskey   "o">
 <!ENTITY enableSearchUpdate.label        "Zoekmachines">
 <!ENTITY enableSearchUpdate.accesskey    "Z">
 
