@@ -164,7 +164,7 @@
 <!ENTITY inspectStyleButton.label "Stile">
 <!ENTITY inspectStyleButton.accesskey "S">
 <!ENTITY styleeditor.label "Editor stili">
-<!ENTITY styleeditor.accesskey "y">
+<!ENTITY styleeditor.accesskey "E">
 <!ENTITY styleeditor.keycode "VK_F7">
 <!ENTITY styleeditor.keytext "F7">
 <!ENTITY getMoreDevtoolsCmd.label "Altri strumenti di sviluppo">
