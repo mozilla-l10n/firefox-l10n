@@ -1,0 +1,39 @@
+<!ENTITY upgrade.style               "width: 93ch; height: 448px;">
+<!ENTITY checking.heading            "Таны нэмэгдлүүдийг шалгаж байна">
+<!ENTITY checking.progress.label     "&brandShortName; -н энэ хувилбартай нийцүүлхийн тулд таны нэмэгдлүүдийг шалгаж байна.">
+<!ENTITY select.heading              "Нэмэгдлүүдээ сонгоно уу">
+<!-- LOCALIZATION NOTE (select.description): The term used for "third parties"
+     here should match the string source.other in selectAddons.properties. -->
+<!ENTITY select.description          "&brandShortName; -г илүү хурдтай болгохын тулд ашиглахаа больсон нэмэгдлүүдийг идэвхигүй болгоно уу. Доорхоос сонгохгүй бол гуравдагч биеийн дагуу суулгагдсан байгаа нэмэгдлүүд нь автоматаар идэвхигүй болох болно.">
+<!ENTITY select.keep                 "Хадгалах">
+<!-- LOCALIZATION NOTE (select.keep.style): Should be a width wide enough for
+     the string in select.keep above. -->
+<!ENTITY select.keep.style           "width: 6ch;">
+<!ENTITY select.action               "Үйлдэл">
+<!-- LOCALIZATION NOTE (select.action.style): Should be a width wide enough for
+     the action strings in selectAddons.properties or brandShortName. -->
+<!ENTITY select.action.style         "width: 35ch;">
+<!ENTITY select.source               "Нэрийн дагуу">
+<!ENTITY select.name                 "суулгагдсан : ">
+<!-- LOCALIZATION NOTE (select.name.style): Should be a width small enough so
+     the source column still has enough room for the source strings in
+     selectAddons.properties. -->
+<!ENTITY select.name.style           "width: 33ch;">
+<!ENTITY confirm.heading             "Нэмэгдлүүдээ сонгоно уу">
+<!-- LOCALIZATION NOTE (confirm.description): The term used for "third parties"
+     here should match the string source.other in selectAddons.properties. -->
+<!ENTITY confirm.description         "&brandShortName; -г илүү хурдтай болгохын тулд ашиглахаа больсон нэмэгдлүүдийг идэвхигүй болгоно уу. Доорхоос сонгохгүй бол гуравдагч биеийн дагуу суулгагдсан байгаа нэмэгдлүүд нь автоматаар идэвхигүй болох болно.">
+<!ENTITY action.disable.heading      "Дараах нэмэгдлүүд нь идэвхигүй болно:">
+<!ENTITY action.incompatible.heading "Дараах нэмэгдлүүд нь идэвхигүй болсон боловч таарамжтай үед эргэн идэвхижих болно:">
+<!ENTITY action.update.heading       "Дараах нэмэгдлүүд нь шинэчлэгдэх болно:">
+<!ENTITY action.enable.heading       "Дараах нэмэгдлүүд нь идэвхижих болно:">
+<!ENTITY update.heading              "Таны нэмэгдлүүдийг шинэчлэж байна.">
+<!ENTITY update.progress.label       "Таны сонгосон нэмэгдлүүдэд шинэчлэлийг татан суулгаж байна.">
+<!ENTITY errors.heading              "&brandShortName; нь таны зарим нэг нэмэгдлүүдийг шинэчлэж чадсангүй.">
+<!ENTITY errors.description          "Таны зарим нэг нэмэгдлүүдэд шинэчлэлийг суулгах үед алдаа гарав. &brandShortName; нь автоматаар дараа дахин шинэчлэх оролдлого хийх болно.">
+<!ENTITY footer.label                "Та үргэлж Нэмэгдлийн Зохицуулагч дээрээс нэмэгдлүүдээ өөрчилж болно.">
+
+<!ENTITY cancel.label                "Цуцлах">
+<!ENTITY back.label                  "Буцах">
+<!ENTITY next.label                  "Дараах">
+<!ENTITY done.label                  "Дуусгах">
