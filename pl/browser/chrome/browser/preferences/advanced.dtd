@@ -81,8 +81,6 @@
 <!ENTITY useService.accesskey            "g">
 
 <!ENTITY updateOthers.label              "Aktualizuj automatycznie:">
-<!ENTITY enableAddonsUpdate3.label       "dodatki">
-<!ENTITY enableAddonsUpdate3.accesskey   "d">
 <!ENTITY enableSearchUpdate.label        "wyszukiwarki">
 <!ENTITY enableSearchUpdate.accesskey    "s">
 
