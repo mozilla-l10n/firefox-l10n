@@ -43,42 +43,14 @@
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
 <!-- File menu items -->
-<!ENTITY fileMenu.label "Bestân">
-<!ENTITY fileMenu.accesskey "B">
-<!ENTITY openFileCmd.label "Bestân iepenje…">
-<!ENTITY openFileCmd.accesskey "i">
-<!ENTITY openFileCmd.key "O">
-<!ENTITY openRemoteCmd.label "Ynternetlokaasje iepenje">
-<!ENTITY openRemoteCmd.accesskey "l">
-<!ENTITY openRemoteCmd.key "l">
-<!ENTITY fileRecentMenu.label "Resinte siden">
-<!ENTITY fileRecentMenu.accesskey "R">
-<!ENTITY fileRevert.label "Tebek gean">
-<!ENTITY fileRevert.accesskey "T">
-<!ENTITY saveCmd.label "Bewarje">
-<!ENTITY saveCmd.accesskey "w">
 <!ENTITY saveCmd.key "s">
-<!ENTITY saveAsCmd.label "Bewarje as…">
-<!ENTITY saveAsCmd.accesskey "s">
-
-<!ENTITY publishCmd.label "Publisearje">
-<!ENTITY publishCmd.accesskey "b">
-<!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "Publisearje as…">
-<!ENTITY publishAsCmd.accesskey "a">
-<!ENTITY saveAsChangeEncodingCmd.label "Bewarje en tekenset wizigje">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "w">
 
 <!-- Edit menu items -->
-<!ENTITY editMenu.label "Bewurkje">
-<!ENTITY editMenu.accesskey "w">
 <!ENTITY pasteNoFormatting.label "Plakke sûnder opmaak">
 <!ENTITY pasteNoFormatting.accesskey "m">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Plakke as">
 <!ENTITY pasteAs.accesskey "P">
-<!ENTITY publishSettings.label "Publikaasjewebstee-ynstellings…">
-<!ENTITY publishSettings.accesskey "b">
 <!ENTITY pasteAsQuotationCmd.label "Plakke as sitaat">
 <!ENTITY pasteAsQuotationCmd.accesskey "s">
 <!ENTITY pasteAsQuotationCmd.key "o">
@@ -210,7 +182,7 @@
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Ankerferwizing fuortsmite">
 <!ENTITY formatRemoveNamedAnchors.accesskey "f">
-<!ENTITY formatRemoveNamedAnchors.key "a">
+<!ENTITY formatRemoveNamedAnchors2.key "R">
 
 <!ENTITY paragraphMenu.label "Alinea">
 <!ENTITY paragraphMenu.accesskey "A">
