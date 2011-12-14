@@ -8,8 +8,6 @@
 <!ENTITY useCurrentPage.label      "Одоогийн хуудсыг хэрэглэ">
 <!ENTITY useCurrentPage.accesskey  "д">
 <!ENTITY useMultiple.label         "Одоогийн хуудаснуудыг хэрэглэ">
-<!ENTITY useBookmark.label         "Хаягнаас хэрэглэ">
-<!ENTITY useBookmark.accesskey     "г">
 <!ENTITY restoreDefault.label      "Анхны горимд сэргээ">
 <!ENTITY restoreDefault.accesskey  "с">
 
@@ -35,3 +33,9 @@
 
 <!ENTITY homepage.label            "Нүүр хуудас:">
 <!ENTITY homepage.accesskey        "P">
+
+<!ENTITY restoreOnDemand.label     "Сонгохоос нааш тэйбийг ачааллуулахгүй байх">
+<!ENTITY restoreOnDemand.accesskey "l">
+
+<!ENTITY chooseBookmark.label "Вэб хуудасын тэмдэглэл ашиглах…">
+<!ENTITY chooseBookmark.accesskey "B">
