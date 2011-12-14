@@ -20,14 +20,16 @@
      Menu option to cause the current tab to be migrated to a new Thunderbird
      window.
      -->
-<!ENTITY moveToNewWindow.label "Ferpleatse nei nij finster">
+<!ENTITY moveToNewWindow.label "Ferpleats nei nij finster">
 <!ENTITY moveToNewWindow.accesskey "F">
 <!ENTITY newVirtualFolderCmd.label "Bewarre sykopdracht…">
 <!ENTITY newVirtualFolderCmd.accesskey "s">
 <!ENTITY newOtherAccountsCmd.label "Oare accounts…">
 <!ENTITY newOtherAccountsCmd.accesskey "O">
-<!ENTITY newEmailAccountCmd.label "E-mailaccount…">
-<!ENTITY newEmailAccountCmd.accesskey "E">
+<!ENTITY newCreateEmailAccountCmd.label "Krij in nij e-mailaccount…">
+<!ENTITY newCreateEmailAccountCmd.accesskey "K">
+<!ENTITY newExistingEmailAccountCmd.label "Besteand e-mailaccount…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "B">
 <!ENTITY openMessageFileCmd.label "Bewarre berjocht iepenje…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Bylagen">
@@ -137,6 +139,8 @@
 <!ENTITY messagePaneWide.accesskey "B">
 <!ENTITY messagePaneVertical.label "Fertikaal byld">
 <!ENTITY messagePaneVertical.accesskey "F">
+<!ENTITY showFolderPaneCmd.label "Mappaniel">
+<!ENTITY showFolderPaneCmd.accesskey "M">
 <!ENTITY showMessageCmd.label "Berjochtefinster">
 <!ENTITY showMessageCmd.accesskey "e">
 

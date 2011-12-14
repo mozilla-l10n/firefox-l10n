@@ -49,6 +49,8 @@
 <!ENTITY half-manual-test.accesskey      "t">
 <!ENTITY manual-edit.label               "Hânmjittich ynstelle">
 <!ENTITY manual-edit.accesskey           "H">
+<!ENTITY switch-to-provisioner.label     "Krij in nij account">
+<!ENTITY switch-to-provisioner.accesskey "K">
 
 
 <!ENTITY warning.label                   "Warskôging!">

@@ -16,6 +16,7 @@
 <!ENTITY attachMenu.accesskey "y">
 <!ENTITY attachFileCmd.label "Bestân(nen)…">
 <!ENTITY attachFileCmd.accesskey "B">
+<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachPageCmd.label "Webstee…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
