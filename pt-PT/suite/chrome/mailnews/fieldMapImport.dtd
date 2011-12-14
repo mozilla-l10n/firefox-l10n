@@ -36,7 +36,7 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY fieldMapImport.title "Importar Livro de Endereços">
-<!ENTITY fieldMapImport.size "width: 58em; heigth: 35em;">
+<!ENTITY fieldMapImport.size "width: 58em; height: 35em;">
 <!ENTITY fieldMapImport.recordNumber "Dados importados para o registo: ">
 <!ENTITY fieldMapImport.next.label "Próxima">
 <!ENTITY fieldMapImport.next.accesskey "x">
