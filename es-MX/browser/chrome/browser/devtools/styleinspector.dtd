@@ -1,0 +1,9 @@
+<!ENTITY userStylesLabel "Only user styles">
+<!ENTITY userStylesSearch "Search">
+<!ENTITY selectedElementLabel "Selected element:">
+<!ENTITY noPropertiesFound "No CSS properties found.">
+<!ENTITY unmatchedSelectors "Unmatched selectors">
+<!ENTITY bestMatch "Best Match">
+<!ENTITY matched "Matched">
+<!ENTITY parentMatch "Parent Match">
+<!ENTITY unmatched "Unmatched">
