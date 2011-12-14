@@ -78,8 +78,10 @@
 <!ENTITY lightning.toolbar.mail.label         "Почта">
 <!ENTITY lightning.toolbar.mail.accesskey     "П">
 <!ENTITY lightning.toolbar.calendar.label     "Календарь">
+<!ENTITY lightning.toolbar.calendar.tooltip   "Переключиться на вкладку календаря">
 <!ENTITY lightning.toolbar.calendar.accesskey "К">
 <!ENTITY lightning.toolbar.task.label         "Задачи">
+<!ENTITY lightning.toolbar.task.tooltip       "Переключиться на вкладку задач">
 <!ENTITY lightning.toolbar.task.accesskey     "З">
 
 <!-- Toolbar write button -->
