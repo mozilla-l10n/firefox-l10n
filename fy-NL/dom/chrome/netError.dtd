@@ -24,6 +24,9 @@
 <!ENTITY netInterrupt.title "Dataoerdracht ûnderbrutsen">
 <!ENTITY netInterrupt.longDesc "<p>De browser hat mei súkses ferbining makke, mar dizze wurde ûnderbrutsen tiidens it oerbringen fan ynformaasje. Probearje it op 'e nij.</p><ul><li>Kin jo gjin oare websteeën besykje? Kontrolearje de netwurkferbining fan de kompjûter.</li><li>Ha jo nog hieltyd problemen? Freegje jo netwurkbehearder of ynternetprovider foar assistinsje.</li></ul>">
 
+<!ENTITY notCached.title "Dokumint ferrûn">
+<!ENTITY notCached.longDesc "<p>It fersochte dokumint is net beskikber yn de browserbuffer.</p><ul><li>Fanwege in feilichheidsfoarsoarchmaatregel sil de browser fertroulike dokuminten net automatysk opnij oanfreegje.</li><li>Klik om it dokumint opnij oan te freegjen fan de webside.</li></ul>">
+
 <!ENTITY netOffline.title "Netwurk sûnder ferbining">
 <!ENTITY netOffline.longDesc2 "<p>De browser wurket op dit stuit sûnder ferbining en kin net ferbine mei it frege ûnderdiel.</p><ul><li>Is de kompjûter ferbûn mei in aktyf netwurk?</li><li>Klik &quot;Probearje opnij&quot; om nij online moadus te gean en laad de side opnij.</li></ul>">
 
@@ -41,7 +44,7 @@
 <!ENTITY netReset.longDesc "<p>De netwurkkeppeling wurd ûnderbrutsen tiidens it ûnderhannelen oer de ferbining. Probearje it op 'e nij.</p>">
 
 <!ENTITY netTimeout.title "Netwurk-tiid is ferstrutsen">
-<!ENTITY netTimeout.longDesc "<p>De opfrege webstee antwurdde net op in ferbiningsfersyk en de browser is stoppe mei wachten op in antwurd.</p><ul><li>Wellicht ûnderfint de tsjinner in hege fraag of in tiidlike stroomûnderbrekking? Probearje it letter op'e nj.</li><li>Kin jo gjin oare websteeën besykje? Kontrolearje de netwurkferbining fan de kompjûter.</li><li>Wurdt jo kompjûter of netwurk beskerme troch in firewall of proxy? Ferkearde ynstellings kinne in goede wurking tiidens it webbrowsen tsjin gean.</li><li>Ha jo nog steeds problemen? Freegje jo netwurkbehearder of ynternetprovider foar assistinsje.</li></ul>">
+<!ENTITY netTimeout.longDesc "<p>De opfrege webstee antwurdde net op in ferbiningsfersyk en de browser is stoppe mei wachten op in antwurd.</p><ul><li>Wellicht ûnderfint de tsjinner in hege fraag of in tiidlike stroomûnderbrekking? Probearje it letter op 'e nij.</li><li>Kin jo gjin oare websteeën besykje? Kontrolearje de netwurkferbining fan de kompjûter.</li><li>Wurdt jo kompjûter of netwurk beskerme troch in firewall of proxy? Ferkearde ynstellings kinne in goede wurking tiidens it webbrowsen tsjin gean.</li><li>Ha jo nog steeds problemen? Freegje jo netwurkbehearder of ynternetprovider foar assistinsje.</li></ul>">
 
 <!ENTITY protocolNotFound.title "Protokol net bekend">
 <!ENTITY protocolNotFound.longDesc "<p>It adres spesifisearret in protokol (bv. <q>wxyz://</q>) dat de browser net herkent, wertroch de browser net op in goeie manier ferbine kin mei it webstee.</p><ul><li>Probearje jo tagong te krijen ta multimedia- of oare net-tekstservices? Kontrolearje it webstee op ekstra benedigdheden.</li><li>Sommige protokollen kinne programmatuer of ynstekkers fan tredden fereaske foardat de browser se herkennen kin.</li></ul>">
