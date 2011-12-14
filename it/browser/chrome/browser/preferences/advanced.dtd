@@ -52,8 +52,6 @@
 <!ENTITY useService.label "Utilizza un servizio di sistema per installare gli aggiornamenti">
 <!ENTITY useService.accesskey "U">
 <!ENTITY updateOthers.label "Aggiorna automaticamente:">
-<!ENTITY enableAddonsUpdate3.label "Componenti aggiuntivi">
-<!ENTITY enableAddonsUpdate3.accesskey "C">
 <!ENTITY enableSearchUpdate.label "Motori di ricerca">
 <!ENTITY enableSearchUpdate.accesskey "M">
 <!ENTITY offlineNotify.label "Avvisa quando un sito web richiede di salvare dati per l'utilizzo non in linea">
