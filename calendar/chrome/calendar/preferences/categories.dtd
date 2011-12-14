@@ -53,5 +53,5 @@
 <!ENTITY pref.categories.usecolor.label "Përdor Ngjyrë">
 <!ENTITY pref.categories.none.label "(asnjë)">
 <!ENTITY pref.categories.overwrite "Ka një kategori me atë emër. \n Doni të mbishkruhet?">
-<!ENTITY pref.categories.overwrite.title "Kujdes: Emër i përdorur">
+<!ENTITY pref.categories.overwrite.title "Kujdes: Emër i përsëdytur">
 <!ENTITY pref.categories.noBlankCategories "Duhet të jepni emër kategorie.">
