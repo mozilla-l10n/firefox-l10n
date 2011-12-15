@@ -6,7 +6,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "F">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "ছাইটৰ স্থান:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "S">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "জীৱন্ত শিৰোনামা">
 <!ENTITY editBookmarkOverlay.folder.label                    "ফোল্ডাৰ:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "সকলো পত্ৰচিহ্নৰ ফোল্ডাৰ দেখুৱাওক">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "লুকাওক">
@@ -20,12 +19,6 @@
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "সকলো টেগ দেখুৱাওক">
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "কাষৰ স্তম্ভত এই পত্ৰচিহ্ন তুলি লওক">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "h">
-<!ENTITY editBookmarkOverlay.choose.label                    "নিৰ্ব্বাচন কৰক…">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
+<!ENTITY editBookmarkOverlay.choose.label                    "নিৰ্বাচন কৰক…">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "o">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "নতুন ফোল্ডাৰ">

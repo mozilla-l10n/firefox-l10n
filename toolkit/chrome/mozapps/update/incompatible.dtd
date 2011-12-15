@@ -1,9 +1,0 @@
-
-<!ENTITY  incompatible.title        "অসঙ্গত বস্তু">
-<!ENTITY  incompatible.intro        "নিম্নলিখিত বস্তু &brandShortName; ৰ এই উন্নয়নৰ সেতে অমিল আৰু সংস্থাপন কৰোঁতে নিষ্ক্ৰিয় কৰা হ'ব:">
-<!ENTITY  incompatible.update       "&brandShortName; এ সিহঁতৰ উন্নয়ন সময়ে সময়ে পৰীক্ষা কৰিব যদি কোনো মিল থকা সংস্কৰণ পোৱা যায় ।">
-<!ENTITY  incompatible.suffix       "&brandShortName; ত গুৰুত্বপূৰ্ণ সুৰক্ষাৰ উন্নয়ন আছে । আপোনাৰ সুৰক্ষাৰ কাৰণে, &brandShortName; ক উন্নত কৰিবলৈ উপদেশ দিয়া হয় যদিও আপোনাৰ কিছুমান সম্প্ৰসাৰণ আৰু থিম অসঙ্গত হয় ।">
-                                     
-<!ENTITY  closebutton.label         "বন্ধ কৰক">
-                                     
-                                     
