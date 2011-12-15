@@ -1,6 +1,6 @@
-<!ENTITY doNotDownloadPop3Movemail.label "Kako bi sačuvali diskovni prostor, ne preuzimaj:">
-<!ENTITY doNotDownloadNntp.label "Kako bi sačuvali diskovni prostor, ne preuzimaj za izvanmrežno korištenje:">
-<!ENTITY doNotDownloadImap.label "Kako bi sačuvali diskovni prostor, preuzimanje poruka sa poslužitelja i čuvanje lokalnih kopija za izvanmrežno korištenje može biti ograničeno po starosti ili veličini.">
+<!ENTITY doNotDownloadPop3Movemail.label "Kako bi se uštedio diskovni prostor, ne preuzimaj:">
+<!ENTITY doNotDownloadNntp.label "Kako bi se uštedio diskovni prostor, ne preuzimaj za izvanmrežno korištenje:">
+<!ENTITY doNotDownloadImap.label "Kako bi se uštedio diskovni prostor, preuzimanje poruka s poslužitelja i čuvanje lokalnih kopija za izvanmrežno korištenje može biti ograničeno po starosti ili veličini.">
 <!ENTITY allFoldersOffline.label "Zadrži poruke ovog računa na ovom računalu">
 <!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY offlineNotDownload.label "Poruke veće od">
@@ -12,11 +12,11 @@
 <!ENTITY message.label "najnovijih poruka">
 <!ENTITY nntpNotDownloadRead.label "Pročitane poruke">
 <!ENTITY nntpNotDownloadRead.accesskey "r">
-<!ENTITY nntpDownloadMsg.label "Messages more than">
+<!ENTITY nntpDownloadMsg.label "Poruke starije od">
 <!ENTITY nntpDownloadMsg.accesskey "e">
-<!ENTITY retentionCleanup.label "Kako bi povratili diskovni prostor, stare poruke se mogu trajno obrisati.">
-<!ENTITY retentionCleanupImap.label "Kako bi povratili diskovni prostor, stare poruke se mogu trajno obrisati, uključujući lokalne kopije i izvorne poruke na poslužitelju.">
-<!ENTITY retentionCleanupPop.label "Kako bi povratili diskovni prostor, stare poruke se mogu trajno obrisati, uključujući i izvorne poruke na poslužitelju.">
+<!ENTITY retentionCleanup.label "Kako bi oslobodili diskovni prostor, stare poruke se mogu trajno obrisati.">
+<!ENTITY retentionCleanupImap.label "Kako bi oslobodili diskovni prostor, stare poruke se mogu trajno obrisati, uključujući lokalne kopije i izvorne poruke na poslužitelju.">
+<!ENTITY retentionCleanupPop.label "Kako bi oslobodili diskovni prostor, stare poruke se mogu trajno obrisati, uključujući i izvorne poruke na poslužitelju.">
 <!ENTITY retentionKeepMsg.label "Obriši poruke starije od">
 <!ENTITY retentionKeepMsg.accesskey "t">
 <!ENTITY retentionKeepAll.label "Ne briši poruke">
@@ -24,10 +24,10 @@
 <!ENTITY retentionKeepRecent.label "Obriši sve osim">
 <!ENTITY retentionKeepRecent.accesskey "b">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Uvijek obriši pročitane poruke (nadjačava starosne postavke)">
+<!ENTITY retentionKeepUnreadHidden.label "Uvijek obriši pročitane poruke (nadjačava postavke starosti)">
 <!ENTITY retentionApplyToFlagged.label "Uvijek zadrži poruke sa zvjezdicom">
 <!ENTITY retentionApplyToFlagged.accesskey "k">
-<!ENTITY nntpRemoveMsgBody.label "Ukloni tijela poruka više od">
+<!ENTITY nntpRemoveMsgBody.label "Ukloni tijela poruka starija od">
 <!ENTITY nntpRemoveMsgBody.accesskey "l">
 <!ENTITY offlineSelectNntp.label "Odaberite interesne grupe za izvanmrežno korištenje…">
 <!ENTITY offlineSelectNntp.accesskey "s">
