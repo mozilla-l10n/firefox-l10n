@@ -42,28 +42,28 @@
 <!ENTITY stopButton.label             "Зупинити">
 <!ENTITY stopButton.tooltip           "Зупинити завантаження цієї сторінки">
 <!ENTITY searchButton.label           "Пошук">
-<!ENTITY searchButton.tooltip         "Введіть слово у поле зліва і натисніть Пошук">
-<!ENTITY goButton.label               "Відправитись">
-<!ENTITY goButton.tooltip             "Введіть адресу в поле зліва і натисніть Відправитись">
-<!ENTITY printButton.label            "Роздрукувати">
-<!ENTITY printButton.tooltip          "Роздрукувати цю сторінку">
+<!ENTITY searchButton.tooltip         "Введіть слово у поле зліва і натисніть «Пошук»">
+<!ENTITY goButton.label               "Перейти">
+<!ENTITY goButton.tooltip             "Введіть адресу в поле зліва і натисніть «Перейти»">
+<!ENTITY printButton.label            "Надрукувати">
+<!ENTITY printButton.tooltip          "Надрукувати цю сторінку">
 
-<!ENTITY throbber.tooltip             "Відправитись до домашньої сторінки &vendorShortName;">
+<!ENTITY throbber.tooltip             "Перейти до домашньої сторінки &vendorShortName;">
 
 <!ENTITY locationBar.tooltip          "Введіть слово, фразу для пошуку, або адресу для переходу">
 <!ENTITY locationBar.accesskey        "В">
 <!ENTITY locationBar.title            "Адреса">
 <!ENTITY proxyIcon.tooltip            "Перетягнути і відпустити цю піктограму, щоб створити посилання на цю сторінку">
 
-<!ENTITY searchItem.title             "Search">
+<!ENTITY searchItem.title             "Пошук">
 
 <!ENTITY bookmarksButton.label        "Закладки">
 <!ENTITY bookmarksButton.tooltip      "Список закладок">
 <!ENTITY homeButton.label             "Домівка">
 <!ENTITY bookmarksToolbarItem.label   "Пункти панелі закладок">
-<!ENTITY bookmarksToolbarChevron.tooltip "Show more bookmarks">
+<!ENTITY bookmarksToolbarChevron.tooltip "Показати ще закладки">
 
 <!-- Statusbar -->
 <!ENTITY  statusText.label            "Завершено">
 
-<!ENTITY popupIcon.tooltiptext      "Unblock this website's popups">
+<!ENTITY popupIcon.tooltiptext      "Розблокувати виринання з цього сайту">

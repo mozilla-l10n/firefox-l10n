@@ -41,10 +41,10 @@
 <!ENTITY  pageInfoWindow.dimensions  "width: 100ch; height: 38em;">
 
 <!ENTITY  copy.key              "C">
-<!ENTITY  copy.label            "Копіювати">
+<!ENTITY  copy.label            "Скопіювати">
 <!ENTITY  copy.accesskey        "о">
-<!ENTITY  selectall.key         "A">
-<!ENTITY  selectall.label       "Виділити все">
+<!ENTITY  selectall.key         "В">
+<!ENTITY  selectall.label       "Вибрати все">
 <!ENTITY  selectall.accesskey   "и">
 <!ENTITY  openHelpMac.key       "?">
 <!ENTITY  closeWindow.key       "w">
@@ -53,9 +53,9 @@
 <!ENTITY  generalTab.accesskey  "З">
 <!ENTITY  generalURL            "Адреса:">
 <!ENTITY  generalType           "Тип:">
-<!ENTITY  generalMode           "Режим відображення:">
+<!ENTITY  generalMode           "Режим показу:">
 <!ENTITY  generalSize           "Розмір:">
-<!ENTITY  generalReferrer       "URL, що посилається:">
+<!ENTITY  generalReferrer       "Посилач:">
 <!ENTITY  generalSource         "Джерело кешування:">
 <!ENTITY  generalModified       "Остання зміна:">
 <!ENTITY  generalEncoding       "Кодування:">
@@ -105,8 +105,8 @@
 <!ENTITY  mediaSaveAs2.accesskey "з">
 <!ENTITY  mediaPreview          "Попередній перегляд мультимедіа:">
 
-<!ENTITY  feedTab               "Стрічки">
-<!ENTITY  feedTab.accesskey     "С">
+<!ENTITY  feedTab               "Подача">
+<!ENTITY  feedTab.accesskey     "ч">
 <!ENTITY  feedSubscribe         "Підписатись">
 <!ENTITY  feedSubscribe.accesskey "П">
 
@@ -119,10 +119,10 @@
 <!ENTITY  permBlock             "Заблокувати">
 <!ENTITY  permissionsFor        "Дозволи для:">
 <!ENTITY  permImage             "Завантажувати зображення">
-<!ENTITY  permPopup             "Відкрити виринаючі вікна">
+<!ENTITY  permPopup             "Відкривати контекстні вікна">
 <!ENTITY  permCookie            "Встановлювати куки">
 <!ENTITY  permInstall           "Встановлювати розширення та теми">
-<!ENTITY  permGeo               "Дізнаватись місцезнаходження">
+<!ENTITY  permGeo               "Дізнаватись перебування">
 
 <!ENTITY  securityTab           "Безпека">
 <!ENTITY  securityTab.accesskey "з">
@@ -132,17 +132,17 @@
 <!ENTITY  securityView.unknown   "Невідомий">
 
 
-<!ENTITY  securityView.identity.header   "Website Identity">
+<!ENTITY  securityView.identity.header   "Тотожність сайту">
 <!ENTITY  securityView.identity.owner    "Власник: ">
-<!ENTITY  securityView.identity.domain   "Website:">
+<!ENTITY  securityView.identity.domain   "Сайт:">
 <!ENTITY  securityView.identity.verifier "Засвідчено: ">
 
 <!ENTITY  securityView.privacy.header                   "Конфіденційність та історія">
 <!ENTITY  securityView.privacy.history                  "Відвідував я цей сайт раніше ніж сьогодні?">
-<!ENTITY  securityView.privacy.cookies                  "Is this website storing information (cookies) on my computer?">
-<!ENTITY  securityView.privacy.viewCookies              "Переглянути куки">
+<!ENTITY  securityView.privacy.cookies                  "Цей сайт  зберігає інформацію (кук) на моєму комп'ютері?">
+<!ENTITY  securityView.privacy.viewCookies              "Переглянути кук">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "к">
-<!ENTITY  securityView.privacy.passwords                "Have I saved any passwords for this website?">
+<!ENTITY  securityView.privacy.passwords                "Зберігав я пароль від цього сайту?">
 <!ENTITY  securityView.privacy.viewPasswords            "Переглянути збережені паролі">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "п">
 
