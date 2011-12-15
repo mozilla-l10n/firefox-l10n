@@ -5,22 +5,22 @@
 <!ENTITY newContactCmd.label             "Контакт…">
 <!ENTITY newContactCmd.accesskey         "К">
 
-<!ENTITY sendPage.label                  "Відіслати сторінку…">
+<!ENTITY sendPage.label                  "Надіслати сторінку…">
 <!ENTITY sendPage.accesskey              "В">
 
-<!ENTITY contextSendThisPage.label       "Відіслати цю сторінку…">
+<!ENTITY contextSendThisPage.label       "Надіслати цю сторінку…">
 <!ENTITY contextSendThisPage.accesskey   "с">
-<!ENTITY contextSendThisLink.label       "Відіслати це посилання…">
+<!ENTITY contextSendThisLink.label       "Надіслати це посилання…">
 <!ENTITY contextSendThisLink.accesskey   "ц">
-<!ENTITY contextSendImage.label          "Відіслати зображення…">
+<!ENTITY contextSendImage.label          "Надіслати зображення…">
 <!ENTITY contextSendImage.accesskey      "з">
-<!ENTITY contextSendVideo.label          "Відіслати відео…">
+<!ENTITY contextSendVideo.label          "Надіслати відео…">
 <!ENTITY contextSendVideo.accesskey      "і">
-<!ENTITY contextSendAudio.label          "Відіслати аудіо…">
+<!ENTITY contextSendAudio.label          "Надіслати аудіо…">
 <!ENTITY contextSendAudio.accesskey      "а">
-<!ENTITY contextSendFrame.label          "Відіслати рамку…">
+<!ENTITY contextSendFrame.label          "Надіслати рамку…">
 <!ENTITY contextSendFrame.accesskey      "р">
 
-<!ENTITY sendLinkCmd.label               "Відіслати посилання…"> 
+<!ENTITY sendLinkCmd.label               "Надіслати посилання…"> 
 <!ENTITY sendLinkCmd.accesskey           "я">
 

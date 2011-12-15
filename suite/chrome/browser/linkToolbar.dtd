@@ -37,8 +37,8 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Link Toolbar Title -->
-<!ENTITY linkToolbar.label "Website Navigation Bar">
-<!ENTITY linkToolbar.accesskey "С">
+<!ENTITY linkToolbar.label "Панель навігації сайтом">
+<!ENTITY linkToolbar.accesskey "П">
 
 <!-- Link Toolbar visibility options -->
 <!ENTITY linkToolbarAlways.label "Завжди показувати">
@@ -78,4 +78,4 @@
 
 <!ENTITY alternateButton.label "Інші версії">
 
-<!ENTITY feedButton.label "Підписка">
+<!ENTITY feedButton.label "Подача">
