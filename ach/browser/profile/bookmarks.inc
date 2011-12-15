@@ -1,0 +1,71 @@
+#filter emptyLines
+# LOCALIZATION NOTE: The 'en-US' strings in the URLs will be replaced with
+# your locale code, and link to your translated pages as soon as they're 
+# live.
+
+#define bookmarks_title Alama
+
+
+#define bookmarks_heading keto alama me pot karatac_wie madongo
+
+
+#define bookmarks_toolbarfolder Ket alama me Boc pi bar me Gitic
+
+
+#define bookmarks_toolbarfolder_description Med alama me pot karatac i boc wek i nen ni guyaro i bar me Gitic pi Alama me pot karatac
+
+
+# LOCALIZATION NOTE (getting_started):
+
+# link title for http://en-US.www.mozilla.com/en-US/firefox/central/
+
+#define getting_started Tye kacake
+
+
+# LOCALIZATION NOTE (latest_headlines):
+
+# link title for the live bookmarks sample, a redirect on
+
+# http://en-US.fxfeeds.mozilla.com/en-US/firefox/headlines.xml
+
+# Changing the redirect is subject to approval of l10n-drivers.
+
+#define latest_headlines Wiye madito macok coki
+
+
+# LOCALIZATION NOTE (firefox_heading):
+
+# Firefox links folder name
+
+#define firefox_heading Mozilla Firefox
+
+
+# LOCALIZATION NOTE (firefox_help):
+
+# link title for http://en-US.www.mozilla.com/en-US/firefox/help/
+
+#define firefox_help Kony ki Tic cing
+
+
+# LOCALIZATION NOTE (firefox_customize):
+
+# link title for http://en-US.www.mozilla.com/en-US/firefox/customize/
+
+#define firefox_customize Yar Firefox
+
+
+# LOCALIZATION NOTE (firefox_community):
+
+# link title for http://en-US.www.mozilla.com/en-US/firefox/community/
+
+#define firefox_community Bed Iye
+
+
+# LOCALIZATION NOTE (firefox_about):
+
+# link title for http://en-US.www.mozilla.com/en-US/about/
+
+#define firefox_about Makwako Wa
+
+
+#unfilter emptyLines

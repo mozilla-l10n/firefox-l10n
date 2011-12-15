@@ -1,0 +1,110 @@
+<!-- Note: each tab panel must contain unique accesskeys -->
+
+<!ENTITY generalTab.label                "Kacel">
+
+<!ENTITY accessibility.label             "Kite me nongo">
+
+<!ENTITY useCursorNavigation.label       "Tii ki jami me nyiko pi beyo iyi pot karatac">
+<!ENTITY useCursorNavigation.accesskey   "n">
+<!ENTITY searchStartTyping.label         "Yeny pi coc ka acako coyo coc">
+<!ENTITY searchStartTyping.accesskey     "c">
+<!ENTITY blockAutoRefresh.label          "Kwenyoro ka kakube tye katemo me nyutu onyo pango pot karatac">
+<!ENTITY blockAutoRefresh.accesskey      "k">
+
+<!ENTITY browsing.label                  "Yenyo">
+
+<!ENTITY useAutoScroll.label             "Tii ki nyiko makene">
+<!ENTITY useAutoScroll.accesskey         "n">
+<!ENTITY useSmoothScrolling.label        "Tii ki nyiko mayot">
+<!ENTITY useSmoothScrolling.accesskey    "a">
+<!ENTITY allowHWAccel.label              "Tii ki cipid ma nyonyo medo ka tye">
+<!ENTITY allowHWAccel.accesskey          "o">
+<!ENTITY checkSpelling.label             "Rot nukta mamega calo A co">
+<!ENTITY checkSpelling.accesskey         "c">
+
+<!ENTITY systemDefaults.label            "Kite ne">
+<!--XXX-->
+<!ENTITY alwaysCheckDefault.label        "Jwii nen pi &brandShortName; bedo i kite ne iyi acaki">
+<!ENTITY alwaysCheckDefault.accesskey    "w">
+<!ENTITY checkNow.label                  "Nen kombedi">
+<!ENTITY checkNow.accesskey              "e">
+<!ENTITY submitCrashes.label             "Cwal ripot">
+<!ENTITY submitCrashes.accesskey         "C">
+<!ENTITY submitTelemetry.label           "Cwal tic me jami">
+<!ENTITY submitTelemetry.accesskey       "t">
+
+<!ENTITY networkTab.label                "Kakube me wiyamo">
+
+<!ENTITY connection.label                "Kite me kube">
+
+<!ENTITY connectionDesc.label            "Yik kite ma &brandShortName; kube kede">
+<!ENTITY connectionSettings.label        "Kite ne…">
+<!ENTITY connectionSettings.accesskey    "t">
+
+<!ENTITY offlineStorage.label            "Kan ka ma pe iyi kakube">
+<!-- LOCALIZATION NOTE:
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
+  line in preferences as follows:
+
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
+-->
+
+<!ENTITY limitCacheSizeBefore.label      "Mi kakano obed manok">
+<!ENTITY limitCacheSizeBefore.accesskey  "M">
+<!ENTITY limitCacheSizeAfter.label       "rwom me MB">
+<!ENTITY clearCacheNow.label             "Kwany kombedi">
+<!ENTITY clearCacheNow.accesskey         "K">
+<!ENTITY overrideSmartCacheSize.label    "Lee kit ne ma kene ki kite me yiko gwoko">
+<!ENTITY overrideSmartCacheSize.accesskey "L">
+
+<!ENTITY updateTab.label                 "Ngec">
+
+<!ENTITY autoCheck.label                 "Yeny pi lamed ikit ma kene iyi:">
+<!ENTITY enableAppUpdate.label           "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey       "F">
+<!ENTITY enableAddonsUpdate2.label       "Lamed-iwiye">
+<!ENTITY enableAddonsUpdate2.accesskey   "w">
+<!ENTITY enableSearchUpdate.label        "Ka Yenyo">
+<!ENTITY enableSearchUpdate.accesskey    "Y">
+<!ENTITY whenUpdatesFound.label          "Ka lamed pi &brandShortName; ginongo:">
+<!ENTITY askMe.label                     "Penya ka inoti timo">
+<!ENTITY askMe.accesskey                 "n">
+<!ENTITY modeAutomatic.label             "Kwany kene te keto lamed">
+<!ENTITY modeAutomatic.accesskey         "K">
+<!ENTITY modeAutoAddonWarn.label         "Kwenyoro an ka gin amn obi miyo lamed pe tiyo">
+<!ENTITY modeAutoAddonWarn.accesskey     "K">
+<!ENTITY updateHistory.label             "Nyut Lamed macon">
+<!ENTITY updateHistory.accesskey         "m">
+
+<!ENTITY offlineNotify.label             "Mi an ange ka kakube mito ni ikan jami pi tic labongo kakube">
+<!ENTITY offlineNotify.accesskey         "M">
+<!ENTITY offlineNotifyExceptions.label   "Mukene…">
+<!ENTITY offlineNotifyExceptions.accesskey "u">
+
+<!ENTITY offlineAppsList.label           "Kakube man gutye ki jami me tic labongo kakube:">
+<!ENTITY offlineAppsList.height          "7em">
+<!ENTITY offlineAppsListRemove.label     "Kwany…">
+<!ENTITY offlineAppsListRemove.accesskey "K">
+<!ENTITY offlineAppRemove.confirm        "Kwany jami ma pe iyi gikube">
+
+<!ENTITY encryptionTab.label             "Kano">
+
+<!ENTITY protocols.label                 "Cik">
+<!ENTITY useSSL3.label                   "Tii ki SSL 3.0">
+<!ENTITY useSSL3.accesskey               "3">
+<!ENTITY useTLS1.label                   "Tii ki TLS 1.0">
+<!ENTITY useTLS1.accesskey               "1">
+<!ENTITY certificates.label              "Karatac me ngec">
+<!ENTITY certSelection.description       "Ka toto okwayo pi karatac me ngec mera:">
+<!ENTITY certs.auto                      "Yer acel kene">
+<!ENTITY certs.auto.accesskey            "I">
+<!ENTITY certs.ask                       "Penya caa weng">
+<!ENTITY certs.ask.accesskey             "i">
+<!ENTITY viewCerts.label                 "Nen karatac me ngec">
+<!ENTITY viewCerts.accesskey             "t">
+<!ENTITY viewCRLs.label                  "Karatac me yiko">
+<!ENTITY viewCRLs.accesskey              "K">
+<!ENTITY verify2.label                   "Neno">
+<!ENTITY verify2.accesskey               "N">
+<!ENTITY viewSecurityDevices.label       "Nyonyo me gwoko kuc">
+<!ENTITY viewSecurityDevices.accesskey   "o">

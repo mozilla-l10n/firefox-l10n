@@ -1,0 +1,4 @@
+<!ENTITY appManager.title     "Lok mukene ikom puruguram">
+<!ENTITY appManager.style     "width: 40em; min-height: 30em;">
+<!ENTITY remove.label         "Kwany">
+<!ENTITY remove.accesskey     "K">

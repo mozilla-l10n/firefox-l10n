@@ -1,0 +1,45 @@
+<!ENTITY upgrade.style               "Lace: 93ch; bor ne: 448px;">
+
+<!ENTITY checking.heading            "Roto Lamed ikome mamegi">
+<!ENTITY checking.progress.label     "Roto lamed ikome mamegi pi rwate gi kwede ki cik ma eni ni ki &brandShortName;.">
+
+<!ENTITY select.heading              "Yer Lamed ikome Mamegi">
+<!-- LOCALIZATION NOTE (select.description): The term used for "third parties"
+     here should match the string source.other in selectAddons.properties. -->
+<!ENTITY select.description          "Mi &brandShortName; me tic oyoto kun kwanyo woko lamed ikome en pa pe itiyo kwede. Lamed ikome matye ma kiketo ki ngat mo me adek bino kwanye pire kene nikwanyo ka i yero kit matye itere piny kan.">
+<!ENTITY select.keep                 "Gwoki">
+<!-- LOCALIZATION NOTE (select.keep.style): Should be a width wide enough for
+     the string in select.keep above. -->
+<!ENTITY select.keep.style           "Lace: 6ch;">
+<!ENTITY select.action               "Keto itic">
+<!-- LOCALIZATION NOTE (select.action.style): Should be a width wide enough for
+     the action strings in selectAddons.properties or brandShortName. -->
+<!ENTITY select.action.style         "Lace: 35ch;">
+<!ENTITY select.source               "Ki keto Ki">
+<!ENTITY select.name                 "Nying">
+<!-- LOCALIZATION NOTE (select.name.style): Should be a width small enough so
+     the source column still has enough room for the source strings in
+     selectAddons.properties. -->
+<!ENTITY select.name.style           "Lace: 33ch;">
+
+<!ENTITY confirm.heading             "Yer Lamed ikome Mamegi">
+<!-- LOCALIZATION NOTE (confirm.description): The term used for "third parties"
+     here should match the string source.other in selectAddons.properties. -->
+<!ENTITY confirm.description         "Mi &brandShortName; me tic oyoto kun kwanyo woko lamed ikome en pa pe itiyo kwede. Lamed ikome matye ma kiketo ki ngat mo me adek bino kwanye pire kene nikwanyo ka i yero kit matye itere piny kan.">
+
+<!ENTITY action.disable.heading      "Lamed ikome matye ni ki bikwanyo woko:">
+<!ENTITY action.incompatible.heading "Lamed ikome matye ni kityeko kwanyo woko, ento ki bimiyo tio nio ka gurwate:">
+<!ENTITY action.update.heading       "Lamed ikome matye ni bino kete en manyen:">
+<!ENTITY action.enable.heading       "Lamed ikome matye ni ki bimiyo tio:">
+
+<!ENTITY update.heading              "Lamed ikome mamegi tye kamino engec manyen">
+<!ENTITY update.progress.label       "Tye ka golo kede keto en manyen pi lamed ikome mamegi ma iyero.">
+
+<!ENTITY errors.heading              "&brandShortName; pe otwero keto en manyen ikom lamed ikome mamegi.">
+<!ENTITY errors.description          "Keto en manyen pi lamed ikome mamegi pe olare. &brandShortName; bino temo keto en manyen mukene i caa mo.">
+
+<!ENTITY footer.label                "Itwero loko lamed ikome karekare i caa mo keken kun iwoto i lalo lamed ikome.">
+<!ENTITY cancel.label                "Juki">
+<!ENTITY back.label                  "Dok cen">
+<!ENTITY next.label                  "En mukene">
+<!ENTITY done.label                  "Otyeko">

@@ -1,0 +1,67 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is mozilla.org code.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   David P. Drinan (ddrinan@netscape.com)
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY  validation.crlmanager.label             "Loo CRLs">
+<!ENTITY  validation.crlmanager.description       "Nying Waraga magi maleng (CRL( kigwoko i gang tic me Waraga:">
+<!ENTITY  validation.crlname.label                "Nying">
+<!ENTITY  validation.crllastupdate.label          "Ngec manyen ma ogiko">
+<!ENTITY  validation.crlnextupdate.label          "Nngec manyen malubo kore">
+<!ENTITY  validation.crlautoupdateenabled.label   "Mii Ngec pire kene">
+<!ENTITY  validation.crlautoupdatestatus.label    "Kit me mino ngec pire kene">
+<!ENTITY  validation.deletecrl.label              "Jwa">
+<!ENTITY  validation.deletecrl.accesskey          "J">
+<!ENTITY  validation.updatecrl.label              "Mii ngec manyen">
+<!ENTITY  validation.updatecrl.accesskey          "M">
+<!ENTITY  validation.advanced.label               "Tero">
+<!ENTITY  validation.advanced.accesskey           "T">
+
+<!ENTITY  validation.crl.autoupdate.title         "CRL Matime kene pi ngec manyen ma imito">
+<!ENTITY  validation.crl.autoupdate.enable.label  "Yeyi Mino ngec manyen kene pi CRL man">
+<!ENTITY  validation.crl.autoupdate.time.label1   "Mii ngec">
+<!ENTITY  validation.crl.autoupdate.time.label2   "Nino/Nine mapwod nino dwe me mino ngec malubo kore">
+<!ENTITY  validation.crl.autoupdate.freq.label1   "Mii ngec kare ki">
+<!ENTITY  validation.crl.autoupdate.freq.label2   "Nino">
+<!ENTITY  validation.crl.autoupdate.url.label     "CRL ki bi kelo ki woko ki:">
+<!ENTITY  crl.import.status.title                 "CRL Kel kite">
+<!ENTITY  crl.import.success.message              "Nying Balo me kwan mupore (CRL) kityeko kwelo ki woko.">
+<!ENTITY  crl.issuer.label                        "CRL Ngat ma onino obedo:">
+<!ENTITY  crl.issuer.org.label                    "Yuba/Kampuni: ">
+<!ENTITY  crl.issuer.orgunit.label                "Yunit: ">
+<!ENTITY  crl.import.nextupdate.label             "Mino manyen Malubo kore I: ">
+<!ENTITY  crl.autoupdate.fail.cnt.label           "Kwero Keto ngec manyen jwijwi mukato angec: ">
+<!ENTITY  crl.autoupdate.fail.reason.label        "Lok yore kiyore pi Kwero Mino ngec manyen macok coki: ">
+<!ENTITY  edit.button                             "Tera">

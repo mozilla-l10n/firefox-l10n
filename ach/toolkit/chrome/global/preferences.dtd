@@ -1,0 +1,5 @@
+<!ENTITY  windowClose.key                         "w">
+<!ENTITY  preferencesDefaultTitleMac.title        "Nong ngec kibot">
+<!ENTITY  preferencesDefaultTitleWin.title        "Me ayera">
+<!ENTITY  preferencesCloseButton.label            "Ceg">
+<!ENTITY  preferencesCloseButton.accesskey        "C">

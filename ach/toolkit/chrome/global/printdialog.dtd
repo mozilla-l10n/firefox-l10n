@@ -1,0 +1,40 @@
+<!-- extracted from printdialog.xul -->
+
+<!ENTITY printButton.label "Goo coc">
+
+<!ENTITY printDialog.title "Goo">
+
+<!ENTITY fpDialog.title "Gwok Fail">
+
+<!ENTITY fileCheck.label "Goo I dwok Fail">
+<!ENTITY fileCheck.accesskey "F">
+<!ENTITY propertiesButton.label "Jami…">
+<!ENTITY propertiesButton.accesskey "m">
+<!ENTITY descText.label "Tito lok i lago coc:">
+<!ENTITY printer.label "Lagoo coc">
+<!ENTITY printerInput.label "Lagoo Nying:">
+<!ENTITY printerInput.accesskey "N">
+
+<!ENTITY printrangeGroup.label "Cano Gono coc">
+<!ENTITY allpagesRadio.label "Pot karatac Weng">
+<!ENTITY allpagesRadio.accesskey "P">
+<!ENTITY rangeRadio.label  "Pot karatac">
+<!ENTITY rangeRadio.accesskey  "P">
+<!ENTITY frompageInput.label  "ki">
+<!ENTITY frompageInput.accesskey  "i">
+<!ENTITY topageInput.label  "bot">
+<!ENTITY topageInput.accesskey  "b">
+<!ENTITY selectionRadio.label "Yera">
+<!ENTITY selectionRadio.accesskey "Y">
+
+<!ENTITY copies.label "Mukene">
+<!ENTITY numCopies.label "Nammba me tic mukene:">
+<!ENTITY numCopies.accesskey "m">
+
+<!ENTITY printframeGroup.label "Goo Purem">
+<!ENTITY aslaidoutRadio.label "Macalo kiketo woko inyim kio me kompiuta">
+<!ENTITY aslaidoutRadio.accesskey "k">
+<!ENTITY selectedframeRadio.label  "Pureem ma kiyero">
+<!ENTITY selectedframeRadio.accesskey  "e">
+<!ENTITY eachframesepRadio.label  "Purem Acel acel patpat">
+<!ENTITY eachframesepRadio.accesskey  "P">

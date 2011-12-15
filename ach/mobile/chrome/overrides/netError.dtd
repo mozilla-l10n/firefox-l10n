@@ -1,0 +1,144 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+<!ENTITY loadError.label "Bal tye i pango pot karatac man">
+<!ENTITY retry.label "Try Again">
+<!-- Specific error messages -->
+
+
+<!ENTITY connectionFailure.title "Pe romo kubo">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+
+<!ENTITY deniedPortAccess.title "Kanonge man kigengo woko">
+<!ENTITY deniedPortAccess.longDesc "">
+
+<!ENTITY dnsNotFound.title "Pe kinongo lapok tic">
+<!ENTITY dnsNotFound.longDesc2 "
+<ul>
+  <li>Check the address for typing errors such as
+    <strong>ww</strong>.example.com instead of
+    <strong>www</strong>.example.com</li>
+  <li>If you are unable to load any pages, check your device's data or Wi-Fi connection.</li>
+</ul>
+">
+
+<!ENTITY fileNotFound.title "Fail pe ononge">
+<!ENTITY fileNotFound.longDesc "<ul> 
+<li>Rot nying fail pi nukta madongo onyo bal mogo me coyo.</li> 
+<li>Rok me neno ka kikwanyo fail, mii nyinge nitit onyo kijwayo woko.</li> 
+</ul>">
+
+
+<!ENTITY generic.title "Oops.">
+<!ENTITY generic.longDesc "<p>&brandShortName; ppe romo pango pot karatac man pi lok mogo manok.</p>">
+
+<!ENTITY malformedURI.title "Kanonge pe tye katic">
+<!ENTITY malformedURI.longDesc "<ul> 
+<li>Kanonge me Web pol kare kicono bala 
+<strong>http://www.example.com/</strong></li> 
+<li>Myero inen ni itye katic ki lapok me anyim (i.e. 
+<strong>/</strong>) .</li> 
+</ul>">
+
+<!ENTITY netInterrupt.title "Onongo kibalo kube woko">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+
+<!ENTITY netOffline.title "Kit mape i wiyamo">
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>Try again. &brandShortName; will attempt to open a connection and reload the page.</li>
+</ul>
+">
+
+<!ENTITY contentEncodingError.title "Gin matye iye Tye kajogo Bal">
+<!ENTITY contentEncodingError.longDesc "<ul> 
+<li>tim ber ikube ki wegi di bar me Web wek i mii gi ngec pi peko man.</li> 
+</ul>">
+
+<!ENTITY unsafeContentType.title "Kit Fail Mape ogwoke maber">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>Please contact the website owners to inform them of this problem.</li>
+</ul>
+">
+
+<!ENTITY netReset.title "Onongo kitero kube woko nitit">
+<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+
+<!ENTITY netTimeout.title "Cawa me kube otum woko">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+
+<!ENTITY protocolNotFound.title "Adres man pe kiniang te">
+<!ENTITY protocolNotFound.longDesc "<ul> 
+<li>Myero i ket purugram mukene wek pi yabo adres man.</li> 
+</ul>">
+
+<!ENTITY proxyConnectFailure.title "Proxi me lapok tic tye kakwero kube woko">
+<!ENTITY proxyConnectFailure.longDesc "<ul> 
+<li>Rot tero proxi wek inen ni tye atira.</li> 
+<li>Kube ki lalo kube me intanet wek inen ni lapok tic me proxi tye 
+katic maber.</li> 
+</ul>">
+
+<!ENTITY proxyResolveFailure.title "Pe romo nongo lapok tic me proxi">
+<!ENTITY proxyResolveFailure.longDesc2 "
+<ul>
+  <li>Check the proxy settings to make sure that they are correct.</li>
+  <li>Check to make sure your device has a working data or Wi-Fi connection.</li>
+</ul>
+">
+
+<!ENTITY redirectLoop.title "Pot karatac pe tye kanyutu kakare">
+<!ENTITY redirectLoop.longDesc "<ul> 
+<li>Peko man gin makelo obedo ki juko onyo kwero yee kube.</li> 
+</ul>">
+
+<!ENTITY unknownSocketType.title "Lagam mape okuro ki lapok tic">
+<!ENTITY unknownSocketType.longDesc "<ul> 
+<li>Rot me inen ni kit tic mamegi tye ki Lalo gwoko kuc pa dano kiketo
+ woko.</li> 
+<li>Men twero bedo pi can mogo mape mwaonya ikom lapok tic.</li> 
+</ul>">
+
+<!ENTITY nssFailure2.title "Gwoko kubo pe olare">
+<!ENTITY nssFailure2.longDesc "<ul> 
+<li>Pot karatac ma itye katemo neno ne pe romo nyutu pien twero me tic ma kigamo pe onongo kitwero moko.</li> <li>tim ber ikube ki wegi di bar me Web wek imi gi ngec pi peko man. ka pe, tii ki cik manonge icako pi kony pi mino ngec pi di bar man ma otur.</li> </ul>">
+
+<!ENTITY nssBadCert.title "Gwoko Kubo Pe olare">
+<!ENTITY nssBadCert.longDesc2 "<ul> 
+<li>Man pe onongo twero bedo peko me cano lapok tic, onyo romo bedo 
+ngat mo matye katuku ki lapok tic.</li> 
+<li>Ka ce onongo ikube ki lapok tic man ikare mukato angec maber,bal romo 
+bedo pi tutunu, ki iromo temo doki lacen.</li> 
+</ul>">
+
+<!ENTITY sharedLongDesc2 "
+<ul>
+  <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>
+  <li>If you are unable to load any pages, check your mobile device's data or Wi-Fi connection.</li>
+</ul>
+">
+
+<!ENTITY cspFrameAncestorBlocked.title "Kigengo ne ki Cik me Gwoko kuc pa jami matye iye">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; Otyeko gengo pot karatac man ki pango iyore man pien pot karatac tye ki cik me jami mmatye iye mape yee en.</p>">
+
+<!ENTITY corruptedContentError.title "Bal me Jami Matye Iye">
+<!ENTITY corruptedContentError.longDesc "<p>Pot karatac ma i tye katemo neno ne pe romo nyutu pien bal me cwalo tic onyutu.</p><ul><li>Tim ber i kube wegi di bar me Web me mino gi ngec pi peko man.</li></ul>">
+
+<!ENTITY securityOverride.linkText "Onyo itwero medo ma nikwanyo…">
+<!ENTITY securityOverride.getMeOutOfHereButton "Kwanya woko ki kany!">
+<!ENTITY securityOverride.exceptionButtonLabel "Med ma Nikwanyo…">
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <xul:button> tags.  The only language content is the label= field,
+which uses strings already defined above. The button is included here (instead of
+netError.xhtml) because it exposes functionality specific to firefox. -->
+
+
+<!ENTITY securityOverride.warningContent "<p>Pe myero imede ki yee ka itye katic ki kube me intanet mape i geno kadi acel onyo ka pwod pe i maro neno cik pi lapok tic man.</p> 
+ 
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+
+<!ENTITY remoteXUL.title "XUL  Mape ki waya">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Tim ber i kube ki wegi di bar me Web ci i mi gi ngec pi peko man.</li></ul></p>">
+

@@ -1,0 +1,19 @@
+<!ENTITY restorepage.tabtitle       "Dwogo kare me tic">
+<!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
+     and regret that we are unable to restore the session for the user -->
+
+<!ENTITY restorepage.errorTitle     "Kakare, man obedo me lewic.">
+<!ENTITY restorepage.problemDesc    "&brandShortName; tye ki ayela i kwedo dirija ki lanyik mamegi. Man pol kare pot karatac me Web en aye kelo.">
+<!ENTITY restorepage.tryThis        "I romo temo ne:">
+<!ENTITY restorepage.restoreSome    "Kwanyo acel onyo lanyik mapol ma itamo ni twero kelo peko">
+<!ENTITY restorepage.startNew       "Cako kare manyen me yabo weng">
+
+<!ENTITY restorepage.tryagainButton "Dwogo">
+<!ENTITY restorepage.restore.access "R">
+<!ENTITY restorepage.cancelButton   "Cak kare manyen">
+<!ENTITY restorepage.cancel.access  "S">
+
+<!ENTITY restorepage.restoreHeader  "Dwogo">
+<!ENTITY restorepage.listHeader     "Dirija ki Lanyik">
+<!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
+<!ENTITY restorepage.windowLabel    "Dirija &#37;S">

@@ -1,0 +1,10 @@
+<!-- extracted from content/openLocation.xul -->
+
+<!ENTITY enter.label "Ket kabedo me Web (URL), onyo pok yo fail ma gang ma imito yabo:">  
+<!ENTITY chooseFile.label "Yer Fail…">
+<!ENTITY newTab.label "Tab Manyen">
+<!ENTITY newWindow.label "Dirija Manyen">
+<!ENTITY topTab.label "Tab matye">
+<!ENTITY caption.label "Yab Kabedo me Web">
+<!ENTITY openWhere.label "Yab iyi:">
+<!ENTITY openBtn.label "Yab">

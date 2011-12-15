@@ -1,0 +1,41 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printJobOptions.title "Jami me lagoo coc">
+
+<!ENTITY paperInput.label "Dit pa waraga:">
+<!ENTITY paperInput.accesskey "D">
+
+<!ENTITY plexInput.label "Yot Kit:">
+<!ENTITY plexInput.accesskey "K">
+
+<!ENTITY resolutionInput.label "Cobo/Mamwonya:">
+<!ENTITY resolutionInput.accesskey "b">
+
+<!ENTITY cmdInput.label "Goo Cik:">
+<!ENTITY cmdInput.accesskey "k">
+
+<!ENTITY jobTitleInput.label "Nying Tic:">
+<!ENTITY jobTitleInput.accesskey "N">
+
+<!ENTITY colorGroup.label "Rangi:">
+<!ENTITY grayRadio.label "Gipimo ma laburuburu">
+<!ENTITY grayRadio.accesskey "G">
+<!ENTITY colorRadio.label "Rangi">
+<!ENTITY colorRadio.accesskey "R">
+
+<!ENTITY colorspaceInput.label "Rangispace:">
+<!ENTITY colorspaceInput.accesskey "s">
+
+<!ENTITY fontsGroup.label "Dite:">
+<!ENTITY downloadFonts.label "Gol dite bot nyonyo me gono coc">
+<!ENTITY downloadFonts.accesskey "G">
+
+<!ENTITY edgeMarginInput.label "Kan matwolo ki ilak waraga dwoko I tenge">
+<!ENTITY topInput.label "Wie:">
+<!ENTITY topInput.accesskey "W">
+<!ENTITY bottomInput.label "Te:">
+<!ENTITY bottomInput.accesskey "T">
+<!ENTITY leftInput.label "Tung acam:">
+<!ENTITY leftInput.accesskey "T">
+<!ENTITY rightInput.label "Tung acuc:">
+<!ENTITY rightInput.accesskey "T">

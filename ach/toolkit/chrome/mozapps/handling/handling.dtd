@@ -1,0 +1,5 @@
+<!ENTITY window.emWidth "26em">
+<!ENTITY window.emHeight "26em">
+<!ENTITY ChooseApp.description "Yer tic">
+<!ENTITY ChooseApp.label "Yer…">
+<!ENTITY ChooseApp.accessKey "Y">

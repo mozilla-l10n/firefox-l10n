@@ -1,0 +1,17 @@
+<!ENTITY newWindowsAsTabs.label       "Yab Dirija i tab manyen">
+<!ENTITY newWindowsAsTabs.accesskey   "t">
+
+<!ENTITY warnCloseMultipleTabs.label  "Kwenyoro an ka itye ka cego tab mapol">
+<!ENTITY warnCloseMultipleTabs.accesskey  "a">
+
+<!ENTITY warnOpenManyTabs.label       "Kwenyoro an ka yabo tab mapol twero dwoko cipid pa &brandShortName; cen">
+<!ENTITY warnOpenManyTabs.accesskey   "a">
+
+<!ENTITY showTabBar.label             "Nyut bar me tab kare ki kare">
+<!ENTITY showTabBar.accesskey         "e">
+
+<!ENTITY switchToNewTabs.label        "Ka ayabo lakub iyi tab manyen, dok wa iye oyoto">
+<!ENTITY switchToNewTabs.accesskey    "d">
+
+<!ENTITY showTabsInTaskbar.label          "Nyut tab mukato angec i Dirija me bar metic">
+<!ENTITY showTabsInTaskbar.accesskey      "t">

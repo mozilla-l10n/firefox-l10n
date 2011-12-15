@@ -1,0 +1,7 @@
+<!-- Error messages that are likely to be overridden by applications go in this
+     file, all messages that likely don't need to tie into app-specific UI
+     should go into netError.dtd -->
+
+<!ENTITY securityOverride.linkText "Onyo iromo medo kan mukene…">
+<!ENTITY securityOverride.warningContent "<p>Pe myero imed kan mukene ka itye katic ki kube me intanet mape i geno matwal onyo ka pe ina neno cik pi lapok tic man.</p> 
+<p>Ka ce pwod imito medo kan mukene pi kakube man, iromo timo ne i ter mamegi ma lamal me yungo.</p>">

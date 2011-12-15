@@ -1,0 +1,21 @@
+<!ENTITY newprofile.title             "Cwe Ladiro Gwoko ngec">
+<!ENTITY window.size                  "lace: 45em; bor ne: 32em;">
+<!-- First wizard page -->
+
+<!ENTITY profileCreationExplanation_1.text  "&brandShortName; gwoko ngec makwako gi tero ni ki gin ma imaro i yi kagwoko gin makwaki.">
+<!ENTITY profileCreationExplanation_2.text  "Ka in itye ka leyo kopi me &brandShortName; kwede latic mukene, in itwero tic ki gin makwako pi gwoko ngec pa lutic kwede ma opoke. Pi timo eni ni, latic kwede acel acel myero cwe gin mere makwake.">
+<!ENTITY profileCreationExplanation_3.text  "Ka in keken itye ka tic kwede kopy me &brandShortName;, in myero ibed kwede gin makwaki acel. Ka imaro, in itwero cweyo gin makwako mapol ma piri pi kano tera ki gin ma imaro. Aporere, in itwero mito bedo kwede gin makwaki pi bijinec ki gitic mamegi.">
+<!ENTITY profileCreationExplanation_4.text  "Pi cako cweyo gin makwaki, dii mukene.">
+<!ENTITY profileCreationExplanation_4Mac.text  "Pi cako cweyo gin makwaki, dii Mede anyim.">
+<!ENTITY profileCreationExplanation_4Gnome.text  "Pi cako cweyo gin makwaki, dii Mukene.">
+<!-- Second wizard page -->
+
+<!ENTITY profileCreationIntro.text      "Ka in icweyo gin makwako mapol itwero poko akina gi ki nying gin akwako. Itwero tic ki nying ma ki mii kany onyo acel iya akina megi.">
+<!ENTITY profilePrompt.label            "Goo nying pi gin makwako manyen:">
+<!ENTITY profilePrompt.accesskey        "G">
+<!ENTITY profileDirectoryExplanation.text   "Tera ni, gin ma imaro ki coc mukene ma cacal bino gwoke iyie:">
+<!ENTITY profileDefaultName             "Latic kwede Matye">
+<!ENTITY button.choosefolder.label      "Yer Boc…">
+<!ENTITY button.choosefolder.accesskey  "Y">
+<!ENTITY button.usedefault.label        "Tii ki Boc Matye">
+<!ENTITY button.usedefault.accesskey    "T">

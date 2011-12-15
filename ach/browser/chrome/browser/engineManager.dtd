@@ -1,0 +1,25 @@
+<!ENTITY  engineManager.title       "Lo Nying Keno me Yenyo">
+<!ENTITY  engineManager.style       "min-width: 35em;">
+<!ENTITY  engineManager.intro       "Itye ki keno me yeny ma kiketo:">
+
+<!ENTITY  columnLabel.name          "Nying">
+<!ENTITY  columnLabel.keyword       "Lok mapire tek">
+<!-- Buttons -->
+
+<!ENTITY  up.label                  "Wot Malu">
+<!ENTITY  up.accesskey              "M">
+<!ENTITY  dn.label                  "Wot Piny">
+<!ENTITY  dn.accesskey              "P">
+<!ENTITY  remove.label              "Kwany woko">
+<!ENTITY  remove.accesskey          "K">
+<!ENTITY  edit.label                "Yub Lok mapire tek…">
+<!ENTITY  edit.accesskey            "b">
+
+<!ENTITY  addEngine.label           "Nong keno me yeny mapol…">
+<!ENTITY  addEngine.accesskey       "n">
+
+<!ENTITY  enableSuggest.label       "Nyut yeny tam amia">
+<!ENTITY  enableSuggest.accesskey   "N">
+
+<!ENTITY  restoreDefaults.label     "Dwogo ka ma oaa iye">
+<!ENTITY  restoreDefaults.accesskey "w">

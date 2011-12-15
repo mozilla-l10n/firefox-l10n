@@ -1,0 +1,40 @@
+<!ENTITY startup.label             "Kacako">
+
+<!ENTITY startupPage.label         "Ka &brandShortName; Ocake:">
+<!ENTITY startupPage.accesskey     "O">
+<!ENTITY startupHomePage.label     "Nyut pot karatac me acaki mera">
+<!ENTITY startupBlankPage.label    "Nyut pot pot karatac ma tye nono">
+<!ENTITY startupLastSession.label  "Nyut dirija mera ki tab cako iyi mukato">
+<!ENTITY restoreOnDemand.label     "Pe iket tab wa ka iyero">
+<!ENTITY restoreOnDemand.accesskey "i">
+
+<!ENTITY homepage.label            "Pot karatac magang:">
+<!ENTITY homepage.accesskey        "m">
+<!ENTITY useCurrentPage.label      "Tii ki pot karatc ma kombedi">
+<!ENTITY useCurrentPage.accesskey  "p">
+<!ENTITY useMultiple.label         "Tii ki pot karatac ma kombedi">
+<!ENTITY chooseBookmark.label      "Tii ki Lagwokk…">
+<!ENTITY chooseBookmark.accesskey  "L">
+<!ENTITY restoreDefault.label      "Dwok wa ikit macon">
+<!ENTITY restoreDefault.accesskey  "D">
+
+<!ENTITY downloads.label     "Kwanyo">
+
+<!ENTITY showWhenDownloading.label     "Nyut pot karatac me kwanyo ka itye kakwanyo karatac">
+<!ENTITY showWhenDownloading.accesskey "m">
+<!ENTITY closeWhenDone.label "Ceg ka lakwany weng gutum">
+<!ENTITY closeWhenDone.accesskey "k">
+<!ENTITY saveTo.label "Gwok karatac iyi">
+<!ENTITY saveTo.accesskey "w">
+<!ENTITY chooseFolderWin.label        "Yeny…">
+<!ENTITY chooseFolderWin.accesskey    "e">
+<!ENTITY chooseFolderMac.label        "Yer…">
+<!ENTITY chooseFolderMac.accesskey    "r">
+<!ENTITY alwaysAsk.label "Jwii penya ka gwoko karatac">
+<!ENTITY alwaysAsk.accesskey "J">
+
+<!ENTITY addonsMgr.label               "Lamed">
+<!ENTITY manageAddonsDescWin.label     "Lok kite pa lamed meri">
+<!ENTITY manageAddonsDescUnix2.label   "Lok kite pa lamed meri">
+<!ENTITY manageAddons.label            "Yik lamed…">
+<!ENTITY manageAddons.accesskey        "Y">

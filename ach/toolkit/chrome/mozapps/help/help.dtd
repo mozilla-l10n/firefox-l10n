@@ -1,0 +1,53 @@
+<!ENTITY printCmd.commandkey            "P">
+
+<!ENTITY findOnCmd.commandkey           "F">
+<!ENTITY findAgainCmd.commandkey        "G">
+<!ENTITY findAgainCmd.commandkey2       "VK_F3">
+
+<!ENTITY backButton.label               "Cen">
+<!ENTITY backButton.accesskey           "C">
+<!ENTITY backButton.tooltip             "Dok cen pot karatac acel">
+<!ENTITY forwardButton.label            "Anyim">
+<!ENTITY forwardButton.accesskey        "A">
+<!ENTITY forwardButton.tooltip          "Wot anyim pot karatac acel">
+<!ENTITY copyCmd.label                  "Lok">
+<!ENTITY copyCmd.accesskey              "L">
+<!ENTITY selectAllCmd.label             "Yer Weng">
+<!ENTITY selectAllCmd.accesskey         "W">
+<!ENTITY goBackCmd.commandkey           "[">
+<!ENTITY goForwardCmd.commandkey        "]">
+<!ENTITY homeButton.label               "Gang">
+<!ENTITY homeButton.tooltip             "Wot i Kony Cako Pot karatac">
+<!ENTITY printButton.label              "Goo">
+<!ENTITY printButton.tooltip            "Goo Pot karatac man">
+<!ENTITY closeWindow.commandkey         "W">
+
+<!ENTITY search.emptytext               "Yeny">
+<!ENTITY searchHeader.label             "Yeny adwogi">
+<!ENTITY toctab.label                   "Gin manonge iye">
+<!ENTITY toctab.accesskey               "G">
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
+
+<!ENTITY helpSearch.commandkey          "k">
+
+<!ENTITY zLevel.label                   "Jwijwi i Wiye">
+<!ENTITY zLevel.accesskey               "W">
+
+<!ENTITY fullZoomReduceBtn.label        "Dwok Woko">
+<!ENTITY fullZoomReduceBtn.accesskey    "W">
+<!ENTITY fullZoomEnlargeBtn.label       "Dwok Iyie">
+<!ENTITY fullZoomEnlargeBtn.accesskey   "I">

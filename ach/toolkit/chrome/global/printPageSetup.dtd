@@ -1,0 +1,62 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printSetup.title    "Tero pot karatac">
+
+<!ENTITY basic.tab           "Yub &amp; me ayera">
+
+<!ENTITY formatGroup.label   "Yore me waraga">
+
+<!ENTITY orientation.label   "Kagwoko coc acoya pi agoa:">
+<!ENTITY portrait.label      "Cal me wie">
+<!ENTITY portrait.accesskey  "C">
+<!ENTITY landscape.label     "Ma labuto">
+<!ENTITY landscape.accesskey "M">
+
+<!ENTITY scale.label         "Lapim:">
+<!ENTITY scale.accesskey     "L">
+<!ENTITY scalePercent        "&#037;">
+
+<!ENTITY shrinkToFit.label   "Juk wek odony i pot karatac Borne">
+<!ENTITY shrinkToFit.accesskey "B">
+
+<!ENTITY optionsGroup.label  "me ayera">
+
+<!ENTITY printBG.label       "Goo Yonge (rangi &amp; cal)">
+<!ENTITY printBG.accesskey   "Y">
+
+<!ENTITY advanced.tab        "Teng &amp; Lawie/Latere">
+
+<!ENTITY marginGroup.label   "Teng (#1)">
+<!ENTITY marginUnits.inches  "inches">
+<!ENTITY marginUnits.metric  "milimita">
+<!ENTITY marginTop.label     "Wie:">
+<!ENTITY marginTop.accesskey "W">
+<!ENTITY marginBottom.label  "Te:">
+<!ENTITY marginBottom.accesskey "T">
+<!ENTITY marginLeft.label    "Tung acam:">
+<!ENTITY marginLeft.accesskey "T">
+<!ENTITY marginRight.label   "Tung acuc:">
+<!ENTITY marginRight.accesskey "T">
+
+<!ENTITY headerFooter.label  "Lawie &amp; Lare">
+
+<!ENTITY hfLeft.label        "Tung acam:">
+<!ENTITY hfCenter.label      "Dyere:">
+<!ENTITY hfRight.label       "Acuc:">
+<!ENTITY headerLeft.tip      "lawie me tung acam">
+<!ENTITY headerCenter.tip    "lawie me dtere">
+<!ENTITY headerRight.tip     "lawie me tung acuc">
+<!ENTITY footerLeft.tip      "late me tung acam">
+<!ENTITY footerCenter.tip    "late me dyere">
+<!ENTITY footerRight.tip     "late me tung acuc">
+
+<!ENTITY hfTitle             "wie madito">
+<!ENTITY hfURL               "URL">
+<!ENTITY hfDateAndTime       "Nino dwe/Cawa">
+<!ENTITY hfPage              "pot karatac #">
+<!ENTITY hfPageAndTotal      "pot karatac # me #">
+<!ENTITY hfBlank             "--blank--">
+<!ENTITY hfCustom            "yiko…">
+
+<!ENTITY customPrompt.title  "yiko…">
+<!ENTITY customPrompt.prompt "Ket yik nyig coc mamegi me lawie/late">

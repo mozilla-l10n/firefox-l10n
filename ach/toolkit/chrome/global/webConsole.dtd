@@ -1,0 +1,16 @@
+<!ENTITY networkPanel.requestURL                  "Kwa URL">
+<!ENTITY networkPanel.requestMethod               "Kwa Yore">
+<!ENTITY networkPanel.statusCode                  "Kit Nyig coc">
+
+<!ENTITY networkPanel.requestHeaders              "Kwa Luwiye">
+<!ENTITY networkPanel.requestCookie               "Kakube ma kicwalo">
+<!ENTITY networkPanel.requestBody                 "Kwa Kome">
+<!ENTITY networkPanel.requestFormData             "Kicwalo Tic me Fom">
+
+<!ENTITY networkPanel.responseHeaders             "Kwa Lawiye">
+<!ENTITY networkPanel.responseBody                "Kom Lagam">
+<!ENTITY networkPanel.responseBodyCached          "Tic ma kigwoko">
+<!ENTITY networkPanel.responseBodyUnknownType     "Kit Jami matye iyie Mape ngene">
+<!ENTITY networkPanel.responseNoBody              "Kom Lagam peke">
+<!ENTITY networkPanel.responseImage               "Cal ma Kigamo">
+<!ENTITY networkPanel.responseImageCached         "Cal ma Kigwoko">

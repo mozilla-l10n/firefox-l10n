@@ -1,0 +1,12 @@
+<!ENTITY dialog.title             "Dwok bar me Gitic i miti ni">
+<!ENTITY dialog.style             "lace: 86em; bor ne: 36em;">
+<!ENTITY instructions.description "In itwero medo onyo kwanyo jami ki idir i onyo ni aa ikom bar me gitic.">
+<!ENTITY show.label               "Nyuti:">
+<!ENTITY iconsAndText.label       "Cal kwede Maki coo">
+<!ENTITY icons.label              "Cale">
+<!ENTITY text.label               "Maki coo">
+<!ENTITY useSmallIcons.label      "Tii ki Cale Matidi">
+<!ENTITY restoreDefaultSet.label  "Dwogo Tera Ka ma oaa iye">
+<!ENTITY addNewToolbar.label      "Med Bar me gitic Manyen">
+<!ENTITY saveChanges.label        "Otyeko">
+<!ENTITY undoChanges.label        "Dwok alokaloka cen">
