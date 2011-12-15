@@ -11,16 +11,16 @@
 <!ENTITY helpSafeMode.accesskey "r">
 <!ENTITY releaseCmd2.label "Bilješke o izdanju">
 <!ENTITY releaseCmd2.accesskey "B">
-<!ENTITY whatsNewCmd.label "Šta je novo">
+<!ENTITY whatsNewCmd.label "Što je novo">
 <!ENTITY whatsNewCmd.accesskey "t">
-<!ENTITY featureConfiguratorCmd.label "Pomoćnik za seobu">
+<!ENTITY featureConfiguratorCmd.label "Pomoćnik za migraciju">
 <!ENTITY featureConfiguratorCmd.accesskey "m">
-<!ENTITY openHelp.label "Thunderbird pomoć">
-<!ENTITY openHelp.accesskey "o">
+<!ENTITY openHelp.label "Sadržaj pomoći">
+<!ENTITY openHelp.accesskey "d">
 <!ENTITY openHelp.commandkey "VK_F1">
 <!ENTITY openHelpMac.label "&brandShortName; pomoć">
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
 
 <!ENTITY aboutMenuCmd.label "O &brandShortName;u">
-<!ENTITY aboutMenuCmd.accesskey "u">
+<!ENTITY aboutMenuCmd.accesskey "O">
