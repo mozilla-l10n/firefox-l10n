@@ -49,55 +49,64 @@
 <!ENTITY lightning.taskLabel "Lightning">
 <!-- New menu popup in File menu -->
 
-<!ENTITY lightning.menupopup.new.event.label "Gertaera...">
-<!ENTITY lightning.menupopup.new.task.label "Zeregina...">
-<!ENTITY lightning.menupopup.new.calendar.label "Egutegia...">
+<!ENTITY lightning.menupopup.new.event.label    "Gertaera…">
+<!ENTITY lightning.menupopup.new.event.accesskey "G">
+<!ENTITY lightning.menupopup.new.task.label     "Zeregina…">
+<!ENTITY lightning.menupopup.new.task.accesskey "Z">
+<!ENTITY lightning.menupopup.new.calendar.label "Egutegia…">
+<!ENTITY lightning.menupopup.new.calendar.accesskey "E">
 <!-- Open menu popup in File menu -->
 
-<!ENTITY lightning.menupopup.open.label "Ireki">
-<!ENTITY lightning.menupopup.open.accesskey "I">
-<!ENTITY lightning.menupopup.open.message.label "Gordetako Mezua…">
-<!ENTITY lightning.menupopup.open.message.accesskey "M">
-<!ENTITY lightning.menupopup.open.calendar.label "Calendar fitxategia…">
-<!ENTITY lightning.menupopup.open.calendar.accesskey "C">
-<!-- Messenger Sidebar -->
+<!ENTITY lightning.menupopup.open.label               "Ireki">
+<!ENTITY lightning.menupopup.open.accesskey           "I">
+<!ENTITY lightning.menupopup.open.message.label       "Gordetako mezua…">
+<!ENTITY lightning.menupopup.open.message.accesskey   "m">
+<!ENTITY lightning.menupopup.open.calendar.label      "Calendar fitxategia…">
+<!ENTITY lightning.menupopup.open.calendar.accesskey  "C">
+<!-- View Menu -->
 
-<!ENTITY lightning.calendar.label "Egutegia">
-<!ENTITY lightning.calendar.accesskey "E">
-<!ENTITY lightning.tasks.label "Zereginak">
-<!ENTITY lightning.tasks.accesskey "Z">
+<!ENTITY lightning.menu.view.calendar.label            "Calendar">
+<!ENTITY lightning.menu.view.calendar.accesskey        "n">
+<!ENTITY lightning.menu.view.tasks.label               "Zereginak">
+<!ENTITY lightning.menu.view.tasks.accesskey           "Z">
+<!-- Events and Tasks menu -->
+
+<!ENTITY lightning.menu.eventtask.label                "Gertaerak eta zereginak">
+<!ENTITY lightning.menu.eventtask.accesskey            "r">
 <!-- Mode Toolbar -->
 
-<!ENTITY lightning.toolbar.mail.label "Posta">
-<!ENTITY lightning.toolbar.mail.accesskey "P">
-<!ENTITY lightning.toolbar.calendar.label "Egutegia">
+<!ENTITY lightning.toolbar.mail.label         "Posta">
+<!ENTITY lightning.toolbar.mail.accesskey     "P">
+<!ENTITY lightning.toolbar.calendar.label     "Egutegia">
 <!ENTITY lightning.toolbar.calendar.accesskey "E">
-<!ENTITY lightning.toolbar.task.label "Zeregina">
-<!ENTITY lightning.toolbar.task.accesskey "Z">
+<!ENTITY lightning.toolbar.task.label         "Zeregina">
+<!ENTITY lightning.toolbar.task.accesskey     "Z">
 <!-- Toolbar write button -->
 
-<!ENTITY lightning.toolbar.newevent.label "Gertaera">
-<!ENTITY lightning.toolbar.newtask.label "Zeregina">
+<!ENTITY lightning.toolbar.newevent.label     "Gertaera">
+<!ENTITY lightning.toolbar.newtask.label      "Zeregina">
 <!-- Messenger Toolbar -->
 
-<!ENTITY lightning.toolbar.day.label "Egun">
-<!ENTITY lightning.toolbar.day.accesskey "E">
-<!ENTITY lightning.toolbar.week.label "Aste">
-<!ENTITY lightning.toolbar.week.accesskey "A">
-<!ENTITY lightning.toolbar.multiweek.label "Aste anitz">
-<!ENTITY lightning.toolbar.multiweek.accesskey "s">
-<!ENTITY lightning.toolbar.month.label "Hilabete">
-<!ENTITY lightning.toolbar.month.accesskey "H">
+<!ENTITY lightning.toolbar.day.label                 "Egun">
+<!ENTITY lightning.toolbar.day.accesskey             "E">
+<!ENTITY lightning.toolbar.week.label                "Aste">
+<!ENTITY lightning.toolbar.week.accesskey            "A">
+<!ENTITY lightning.toolbar.multiweek.label           "Aste anitz">
+<!ENTITY lightning.toolbar.multiweek.accesskey       "s">
+<!ENTITY lightning.toolbar.month.label               "Hilabete">
+<!ENTITY lightning.toolbar.month.accesskey           "H">
 <!-- properties dialog, calendar creation wizard -->
 
 <!ENTITY lightning.calendarproperties.showevents.inagenda.label "Ikusi zereginak gaur panelean">
-<!ENTITY lightning.calendarproperties.showtasks.label "Ikusi zereginak gaur panelean eta ataza moduan">
-<!ENTITY lightning.calendarproperties.email.label "Eposta:">
+<!ENTITY lightning.calendarproperties.showtasks.label           "Ikusi zereginak gaur panelean eta ataza moduan">
+<!ENTITY lightning.calendarproperties.email.label               "E-posta:">
 <!-- iMIP Bar (meeting support) -->
 
 <!ENTITY lightning.imipbar.description "Mezu honek gertaera bati gonbidapena du.">
 <!-- Lightning specific keybindings -->
 
+<!ENTITY lightning.keys.event.showCalendar.key "C">
+<!ENTITY lightning.keys.event.showTasks.key "D">
 <!ENTITY lightning.keys.event.new "I">
 <!ENTITY lightning.keys.todo.new "D">
 <!-- Account Central page -->
@@ -106,11 +115,11 @@
 <!-- today-pane-specific -->
 
 <!ENTITY todaypane.showMinimonth.label "Ikusi mini-hilabetea">
-<!ENTITY todaypane.showMinimonth.accesskey "M">
+<!ENTITY todaypane.showMinimonth.accesskey "m">
 <!ENTITY todaypane.showMiniday.label "Ikusi mini-eguna">
-<!ENTITY todaypane.showMiniday.accesskey "e">
+<!ENTITY todaypane.showMiniday.accesskey  "e">
 <!ENTITY todaypane.showNone.label "Ikusi batez">
-<!ENTITY todaypane.showNone.accesskey "B">
+<!ENTITY todaypane.showNone.accesskey "b">
 <!ENTITY todaypane.showTodayPane.label "Ikusi gaurko panela">
 <!ENTITY todaypane.showTodayPane.accesskey "u">
 <!ENTITY todaypane.statusButton.label "Gaurko panela">
