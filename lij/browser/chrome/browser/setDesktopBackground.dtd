@@ -1,0 +1,10 @@
+<!ENTITY position.label             "Poxiçión:">
+<!ENTITY tile.label                 "Tìtolo">
+<!ENTITY center.label               "Centro">
+<!ENTITY stretch.label              "Desténdi">
+<!ENTITY preview.label              "Anteprìmma">
+<!ENTITY color.label                "Cô:">
+<!ENTITY setDesktopBackground.title "Inpòsta cómme Sfondo do Desktop">
+<!ENTITY openDesktopPrefs.label     "Arvi preferençe do Desktop">
+<!ENTITY closeWindow.key            "w">
+

@@ -1,0 +1,40 @@
+<!ENTITY aboutSupport.pageTitle "Informaçioìn in sciâ soluçión di problêmi">
+
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+<!ENTITY aboutSupport.pageSubtitle "  Sta pagina contegne informaçioìn tecniche che peuan êse ùtili quando ti preuvi a risòlve un     problêma. Se tì ti stæ çercando risposte a domande comûni in sciô &brandShortName;, controlla o    nòstro <a id='supportLink'>scîto de agiùtto</a>.
+">
+
+<!ENTITY aboutSupport.extensionsTitle "Estenscióin">
+<!ENTITY aboutSupport.extensionName "Nómme">
+<!ENTITY aboutSupport.extensionEnabled "Abilitòu">
+<!ENTITY aboutSupport.extensionVersion "Versción">
+<!ENTITY aboutSupport.extensionId "ID">
+
+<!ENTITY aboutSupport.appBasicsTitle "Aplicaçión de Bâse">
+<!ENTITY aboutSupport.appBasicsName "Nómme">
+<!ENTITY aboutSupport.appBasicsVersion "Versción">
+<!ENTITY aboutSupport.appBasicsProfileDir "Profî de cartélle">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Plugin abilitæ">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Crea preferensa">
+<!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
+<!ENTITY aboutSupport.appBasicsCrashIDs "Ripòrto di ciànti">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Ûzo da memöia">
+
+<!ENTITY aboutSupport.show.label "Arvi cartélla ">
+
+<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
+variant of aboutSupport.show.label.  This allows us to use the preferred
+"Finder" terminology on Mac. -->
+<!ENTITY aboutSupport.showMac.label "Fanni védde into Finder">
+
+<!ENTITY aboutSupport.modifiedPrefsTitle "Preferençe Modificæ">
+<!ENTITY aboutSupport.modifiedPrefsName "Nómme">
+<!ENTITY aboutSupport.modifiedPrefsValue "Valô">
+
+<!ENTITY aboutSupport.graphicsTitle "Grafica">
+
+<!ENTITY aboutSupport.installationHistoryTitle "Stöia da instalaçión">
+<!ENTITY aboutSupport.updateHistoryTitle "Stöia di agiórnamenti">
+
+<!ENTITY aboutSupport.copyToClipboard.label "Còpia tùtto in scî apónti">
+
