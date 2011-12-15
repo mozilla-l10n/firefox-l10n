@@ -25,7 +25,7 @@
   1, do not translate two of "&quot;"
   2, Use localized full name instead of "John Smith"
 -->
-<!ENTITY fullnameExample.label "(na primjer, &quot;Đelo Hadžiselimović&quot;).">
+<!ENTITY fullnameExample.label "(na primjer, &quot;Ivan Horvat&quot;).">
 <!ENTITY fullnameLabel.label "Vaše ime:">
 <!ENTITY fullnameLabel.accesskey "i">
 
