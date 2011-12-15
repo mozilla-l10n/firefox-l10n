@@ -43,7 +43,7 @@
 <!ENTITY certmgr.tab.ca                       "কৰ্ত্তৃপক্ষ">
 <!ENTITY certmgr.tab.orphan2                  "অন্য">
 
-<!ENTITY certmgr.ca.builtins                  "Built-in CAs">
+<!ENTITY certmgr.ca.builtins                  "বিল্ট-ইন CAসমূহ">
 <!ENTITY certmgr.ca.mycas                     "আপুনি পৰিচালনা কৰা CA">
 
 <!ENTITY certmgr.mine                         "আপোনাৰ চিনি পোৱা এই সংগঠনৰ পৰা প্ৰমাণপত্ৰ আছে:">
@@ -57,6 +57,7 @@
 <!ENTITY certmgr.detail.prettyprint_tab.title "বিৱৰণ">
 <!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
 
+<!ENTITY certmgr.pending.label                "বৰ্তমানে প্ৰমাণপত্ৰ সতা সত্য নিৰূপণ কৰা হৈ আছে…">
 <!ENTITY certmgr.subjectinfo.label            "-লৈ প্ৰদান কৰা হৈছে">
 <!ENTITY certmgr.issuerinfo.label             "-এ প্ৰদান কৰিছে">
 <!ENTITY certmgr.validity.label               "বৈধতা" >
@@ -74,8 +75,8 @@
 <!ENTITY certmgr.editsslcert.title            "ৱেব ছাইট প্ৰমাণপত্ৰ বিশ্বাসৰ পছন্দ সম্পাদন কৰক">
 <!ENTITY certmgr.editcert.edittrust           "বিশ্বাসৰ পছন্দ সম্পাদন কৰক:">
 <!ENTITY certmgr.editcert.trustssl            "এই প্ৰমাণপত্ৰই ৱেব ছাইট চিনিব পাৰে ।">
-<!ENTITY certmgr.editcert.trustemail          "এই প্ৰমাণপত্ৰই মেইল ব্যৱহাৰকৰ্তা চিনিব পাৰে ।">
-<!ENTITY certmgr.editcert.trustobjsign        "এই প্ৰমাণপত্ৰই চালনাজ্ঞান বিকাশকক চিনিব পাৰে ।">
+<!ENTITY certmgr.editcert.trustemail          "এই প্ৰমাণপত্ৰই মেইল ব্যৱহাৰকাৰী চিনিব পাৰে ।">
+<!ENTITY certmgr.editcert.trustobjsign        "এই প্ৰমাণপত্ৰই চফ্টৱেৰ বিকাশকক চিনিব পাৰে ।">
 <!ENTITY certmgr.editsslcert.edittrust        "প্ৰমাণপত্ৰ বিশ্বাসৰ পছন্দ সম্পাদন কৰক:">
 <!ENTITY certmgr.editsslcert.dotrust          "এই প্ৰমাণপত্ৰ সত্যতা বিশ্বাস কৰক ।">
 <!ENTITY certmgr.editsslcert.donttrust        "এই প্ৰমাণপত্ৰ সত্যতা বিশ্বাস নকৰিব ।">
@@ -97,7 +98,7 @@
 <!ENTITY certmgr.tokenname                    "সুৰক্ষাৰ যন্ত্ৰ">
 <!ENTITY certmgr.issued                       "-ত প্ৰদান কৰা হৈছে">
 <!ENTITY certmgr.expires                      "শেষ হয়">
-<!ENTITY certmgr.email                        "ঈ-মেইল ঠিকনা">
+<!ENTITY certmgr.email                        "ই-মেইল ঠিকনা">
 <!ENTITY certmgr.serial                       "ক্ৰম সংখ্যা">
 
 <!ENTITY certmgr.close.label                  "বন্ধ কৰক">

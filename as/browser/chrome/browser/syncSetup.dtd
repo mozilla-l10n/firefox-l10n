@@ -17,15 +17,17 @@
 <!ENTITY serverType.custom2.label   "এটা স্বনিৰ্বাচিত চাৰ্ভাৰ ব্যৱহাৰ কৰক…">
 <!ENTITY signIn.account2.label      "একাওন্ট">
 <!ENTITY signIn.account2.accesskey  "A">
-<!ENTITY signIn.password.label      "পাছওৱাৰ্ড">
+<!ENTITY signIn.password.label      "পাছৱাৰ্ড">
 <!ENTITY signIn.password.accesskey  "P">
-<!ENTITY signIn.syncKey.label       "সংমিহলী চাবি">
-<!ENTITY signIn.syncKey.accesskey   "K">
+<!ENTITY signIn.recoveryKey.label       "উদ্ধাৰ চাবি">
+<!ENTITY signIn.recoveryKey.accesskey   "K">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "একাওন্ট বিৱৰণসমূহ">
-<!ENTITY setup.confirmPassword.label  "পাছওৱাৰ্ড সুনিশ্চিত কৰক">
+<!ENTITY setup.confirmPassword.label  "পাছৱাৰ্ড সুনিশ্চিত কৰক">
 <!ENTITY setup.confirmPassword.accesskey  "m">
+<!ENTITY setup.choosePassword.label      "এটা পাছৱাৰ্ড নিৰ্বাচন কৰক">
+<!ENTITY setup.choosePassword.accesskey  "P">
 <!ENTITY setup.emailAddress.label     "ই-মেইল ঠিকনা">
 <!ENTITY setup.emailAddress.accesskey "E">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
@@ -39,12 +41,12 @@
 <!ENTITY setup.tosAgree2.accesskey  "">
 
 <!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; -এ আপোনাৰ গোপনীয়তাৰ কথা চিন্তা কৰে">
-<!ENTITY setup.newSyncKeyPage.description.label "আপোনাৰ সমপূৰ্ণ গোপনীয়তা সুনিশ্চিত কৰিবলে, আপোনাৰ সকলো তথ্য আপলোড কৰাৰ আগত ইনক্ৰিপ্ট কৰা হৈছে। আপোনাৰ তথ্য ডিক্ৰিপ্ট কৰিবলে প্ৰয়োজনীয় সংমিহলী চাবি আপলোড কৰা হোৱা নাই।">
-<!ENTITY syncKeyEntry.label        "আপোনাৰ সংমিহলী চাবি">
-<!ENTITY syncKeyEntry.accesskey    "K">
-<!ENTITY syncKeyGenerate.label     "সৃজন কৰক">
-<!ENTITY syncKeyBackup.description "&syncBrand.fullName.label; -ক অন্য মেচিনত ব্যৱহাৰ কৰিবলে  আপোনাৰ সংমিহলী চাবিৰ প্ৰয়োজন। অনুগ্ৰহ কৰি এটা বেকআপ কপি সৃষ্টি কৰক।  আমি আপোনাৰ সংমিহলী চাবি উদ্ধাৰ কৰিবলে সহায় কৰিব নোৱাৰো।">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; -এ আপোনাৰ গোপনীয়তাৰ বিষয়ে চিন্তা কৰে">
+<!ENTITY setup.newRecoveryKeyPage.description.label "আপোনাৰ সম্পূৰ্ণ গোপনীয়তা সুনিশ্চিত কৰিবলে, আপোনাৰ সকলো তথ্য আপল'ড কৰাৰ আগত ইনক্ৰিপ্ট কৰা হয়। আপোনাৰ তথ্য ডিক্ৰিপ্ট কৰিবলে প্ৰয়োজনীয় উদ্ধাৰ চাবি আপল'ড কৰা নহয়।">
+<!ENTITY recoveryKeyEntry.label        "আপোনাৰ উদ্ধাৰ চাবি">
+<!ENTITY recoveryKeyEntry.accesskey    "K">
+<!ENTITY syncGenerateNewKey.label  "এটা নতুন চাবি সৃজন কৰক">
+<!ENTITY recoveryKeyBackup.description "অন্য মেচিনবোৰত &syncBrand.fullName.label; অভিগম কৰিবলে আপোনাৰ উদ্ধাৰ চাবিৰ প্ৰয়োজন। অনুগ্ৰহ কৰি এটা বেকআপ কপি সৃষ্টি কৰক। আমি আপোনাৰ উদ্ধাৰ চাবি উদ্ধাৰ কৰাত সহায় কৰিব নোৱাৰো।">
 
 <!ENTITY button.syncKeyBackup.print.label     "প্ৰিন্ট কৰক…">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
@@ -63,14 +65,14 @@
 <!ENTITY addDevice.dialog.enterCode.label   "ডিভাইচে যোগান দিয়া কোড সোমাওক:">
 <!ENTITY addDevice.dialog.tryAgain.label    "অনুগ্ৰহ কৰি পুনৰ চেষ্টা কৰক।">
 <!ENTITY addDevice.dialog.successful.label  "ডিভাইচটো সফলভাৱে যোগ কৰা হল। আৰম্ভনীৰ সংমিহলী বহু সময় লব পাৰে পটভূমিত সমাপ্ত হব।">
-<!ENTITY addDevice.dialog.syncKey.label     "আপোনাৰ ডিভাইচটো সক্ৰিয় কৰিবলে আপুনি আপোনাৰ সংমিহলূ চাবি ভৰাআ লাগিব।  অনুগ্ৰহ কৰি এই চাবিক প্ৰিনট্ বা সঞ্চয় কৰক আৰু আপোনাৰ লগত লই যাওক।">
+<!ENTITY addDevice.dialog.recoveryKey.label     "আপোনাৰ ডিভাইচ সক্ৰিয় কৰিবলে আপুনি আপোনাৰ উদ্ধাৰ চাবি সোমাব লাগিব। অনুগ্ৰহ কৰি এই চাবিক প্ৰিন্ট কৰক বা সংৰক্ষণ কৰক আৰু আপোনাৰ লগত ৰাখক।">
 <!ENTITY addDevice.dialog.connected.label   "ডিভাইচ সংযোগিত">
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "চাইন ইন কৰক">
-<!ENTITY existingSyncKey.description "আপুনি আপোনাৰ সংমিহলী চাবিৰ এটা কপি পাব পাৰে  অন্য ডিভাইচত থকা &syncBrand.shortName.label; বিকল্পসমূহলে গই আৰু &#x0022;Manage একাওন্ট&#x0022; -ৰ অধিনত থকা  &#x0022;My Sync Key&#x0022; বাচি লই।">
+<!ENTITY existingRecoveryKey.description "আপুনি আপোনাৰ উদ্ধাৰ চাবিৰ এটা কপি আপোনাৰ অন্য ডিভাইচত &syncBrand.shortName.label; বিকল্পসমূহত গৈ, আৰু &#x0022;Manage একাওন্ট&#x0022;  -ৰ অন্তৰ্গত &#x0022;My উদ্ধাৰ চাবি&#x0022; নিৰ্বাচন কৰি পাব পাৰে।">
 <!ENTITY verifying.label              "সতা সত্য নিৰূপণ কৰা হৈ আছে…">
-<!ENTITY resetPassword.label          "পাছওৱাৰ্ড পুনৰ সংহতি কৰক">
+<!ENTITY resetPassword.label          "পাছৱাৰ্ড পুনৰ সংহতি কৰক">
 <!ENTITY resetSyncKey.label           "মই মোৰ অন্য ডিভাইচ হেৰাই পেলাইছো">
 
 <!-- Sync Options -->
@@ -85,7 +87,7 @@
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "ইতিহাস">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "পাছওৱাৰ্ডসমূহ">
+<!ENTITY engine.passwords.label     "পাছৱাৰ্ডসমূহ">
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "পছন্দসমূহ">
 <!ENTITY engine.prefs.accesskey     "S">
