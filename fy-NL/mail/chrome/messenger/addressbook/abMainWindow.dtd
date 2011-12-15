@@ -92,13 +92,13 @@
 <!ENTITY showDirectoryPane.label                        "Mappaniel">
 <!ENTITY showDirectoryPane.accesskey                    "p">
 <!ENTITY showContactPane2.label                          "Kontaktpaniel">
-<!ENTITY showContactPane.accesskey                      "K">
+<!ENTITY showContactPane2.accesskey                      "K">
 <!ENTITY menu_ShowNameAs.label                          "Nammen werjaan as">
 <!ENTITY menu_ShowNameAs.accesskey                      "N">
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
-<!ENTITY firstLastCmd.label                             "Foarnamme efternamme">
-<!ENTITY firstLastCmd.accesskey                         "F">
+<!ENTITY firstLastCmd2.label                             "Foarnamme efternamme">
+<!ENTITY firstLastCmd2.accesskey                         "F">
 <!ENTITY lastFirstCmd.label                             "Efternamme, foarnamme">
 <!ENTITY lastFirstCmd.accesskey                         "A">
 <!ENTITY displayNameCmd.label                           "Werjeftenamme">
