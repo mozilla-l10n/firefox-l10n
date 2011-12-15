@@ -38,14 +38,14 @@
 <!ENTITY fieldMapImport.title "Uvezi adresar">
 <!ENTITY fieldMapImport.size "width: 40em; height: 30em;">
 <!ENTITY fieldMapImport.recordNumber "Uvezeni podaci za zapis: ">
-<!ENTITY fieldMapImport.next.label "Slijedeći">
+<!ENTITY fieldMapImport.next.label "Sljedeći">
 <!ENTITY fieldMapImport.next.accesskey "S">
 <!ENTITY fieldMapImport.previous.label "Prethodni">
 <!ENTITY fieldMapImport.previous.accesskey "P">
-<!ENTITY fieldMapImport.text "Koristite pomjeranje gore i dolje kako biste uskladili polja adresara na lijevoj strani sa ispravnim podacima za uvoz na desnoj. Odznačite stavke koje ne želite uvesti.">
-<!ENTITY fieldMapImport.up.label "Pomjeri gore">
+<!ENTITY fieldMapImport.text "Koristite pomjeranje gore i dolje kako biste uskladili polja adresara na lijevoj strani s ispravnim podacima za uvoz na desnoj. Uklonite oznaku sa stavaka koje ne želite uvesti.">
+<!ENTITY fieldMapImport.up.label "Pomakni gore">
 <!ENTITY fieldMapImport.up.accesskey "g">
-<!ENTITY fieldMapImport.down.label "Pomjeri dolje">
+<!ENTITY fieldMapImport.down.label "Pomakni dolje">
 <!ENTITY fieldMapImport.down.accesskey "d">
 <!ENTITY fieldMapImport.fieldListTitle "Polja adresara">
 <!ENTITY fieldMapImport.dataTitle "Zapis podataka za uvoz">
