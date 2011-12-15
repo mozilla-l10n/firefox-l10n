@@ -64,7 +64,7 @@
 <li>Seguruenik beste programa bat instalatu behar duzu helbide hau irekitzeko.</li> 
 </ul>">
 
--!ENTITY proxyConnectFailure.title "Proxy-zerbitzaria konexioak ukatzen ari da">
+<!ENTITY proxyConnectFailure.title "Proxy-zerbitzaria konexioak ukatzen ari da">
 <!ENTITY proxyConnectFailure.longDesc "<ul> 
 <li>Egiaztatu proxyaren konexioaren ezarpenak.</li> 
 <li>Sare kudeatzailearekin harremanetan jarri ziurtatzeko proxy-zerbitzaria martxan dagoela.</li> 
