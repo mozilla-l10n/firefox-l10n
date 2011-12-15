@@ -82,7 +82,8 @@
 <!ENTITY copyMessage.label "Bericht kopiëren naar">
 <!ENTITY forwardTo.label "Bericht doorsturen naar">
 <!ENTITY replyWithTemplate.label "Met sjabloon antwoorden">
-<!ENTITY markMessageRead.label "Bericht als gelezen markeren">
+<!ENTITY markMessageRead.label "Als gelezen markeren">
+<!ENTITY markMessageUnread.label "Als ongelezen markeren">
 <!ENTITY markMessageStarred.label "Ster toevoegen">
 <!ENTITY setPriority.label "Prioriteit wijzigen in">
 <!ENTITY addTag.label "Bericht labelen">
