@@ -2,10 +2,26 @@
 <!ENTITY playButton.pauseLabel "ផ្អាក">
 <!ENTITY muteButton.muteLabel "ស្ងាត់">
 <!ENTITY muteButton.unmuteLabel "ឮ">
+
+<!ENTITY stats.media "មេឌៀ">
+<!ENTITY stats.size "ទំហំ">
+<!ENTITY stats.activity "សកម្មភាព">
+<!ENTITY stats.activityPaused "បាន​ផ្អាក">
+<!ENTITY stats.activityPlaying "កំពុង​ចាក់">
+<!ENTITY stats.activityEnded "បាន​ចប់">
+<!ENTITY stats.activitySeeking "(កំពុង​ស្វែងរក)">
+<!ENTITY stats.volume "កម្រិត​សំឡេង">
+<!ENTITY stats.channels "ឆានែល">
+<!ENTITY stats.sampleRate "អត្រា​គំរូ">
+<!ENTITY stats.framesParsed "ស៊ុម​ត្រូវ​បាន​ញែក">
+<!ENTITY stats.framesDecoded "ស៊ុម​ត្រូវ​បាន​ឌិកូដ">
+<!ENTITY stats.framesPresented "ស៊ុម​ត្រូវ​បាន​បង្ហាញ">
+<!ENTITY stats.framesPainted "ស៊ុម​ត្រូវ​បាន​គូរ">
+
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
 "6:00:00", result string would be "5:00 of 6:00:00 elapsed".
 -->
-
 <!ENTITY scrubberScale.nameFormat "បាន​កន្លង​ផុតទៅ #1 នៃ #2">
+

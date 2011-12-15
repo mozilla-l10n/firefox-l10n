@@ -1,0 +1,80 @@
+<!ENTITY tracking.label                 "Tracking">
+
+<!ENTITY doNotTrack.label               "Tell web sites I do not want to be tracked">
+<!ENTITY doNotTrack.accesskey           "d">
+
+<!ENTITY  history.label                 "ប្រវត្តិ">
+
+<!ENTITY  locationBar.label             "របារ​ទីតាំង">
+
+<!ENTITY  locbar.pre.label              "When using the location bar, suggest:">
+<!ENTITY  locbar.pre.accessKey          "u">
+<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.both.label             "ប្រវត្តិ និង​ចំណាំ">
+<!ENTITY  locbar.history.label          "ប្រវត្តិ">
+<!ENTITY  locbar.bookmarks.label        "ចំណាំ">
+<!ENTITY  locbar.nothing.label          "គ្មាន​អ្វី">
+
+
+<!ENTITY  acceptCookies.label           "Accept cookies from sites">
+<!ENTITY  acceptCookies.accesskey       "A">
+
+<!ENTITY  acceptThirdParty.label        "Accept third-party cookies">
+<!ENTITY  acceptThirdParty.accesskey    "c">
+
+<!ENTITY  keepUntil.label               "Keep until:">
+<!ENTITY  keepUntil.accesskey           "K">
+
+<!ENTITY  expire.label                  "ពួកវា​ផុត​កំណត់">
+<!ENTITY  close.label                   "ខ្ញុំ​បិទ &brandShortName;">
+<!ENTITY  askEachTime.label             "សួរ​ខ្ញុំ​រាល់ពេល">
+
+<!ENTITY  cookieExceptions.label        "Exceptions…">
+<!ENTITY  cookieExceptions.accesskey    "E">
+
+<!ENTITY  showCookies.label             "Show Cookies…">
+<!ENTITY  showCookies.accesskey         "S">
+
+<!ENTITY  historyHeader.pre.label          "&brandShortName; will:">
+<!ENTITY  historyHeader.pre.accesskey      "w">
+<!ENTITY  historyHeader.remember.label     "ចងចាំ​ប្រវត្តិ">
+<!ENTITY  historyHeader.dontremember.label "កុំ​ចងចាំ​ប្រវត្តិ">
+<!ENTITY  historyHeader.custom.label       "ប្រើ​ការ​កំណត់​ផ្ទាល់ខ្លួន​សម្រាប់​ប្រវត្តិ">
+<!ENTITY  historyHeader.post.label         "">
+
+<!ENTITY  rememberDescription.label      "&brandShortName; នឹង​ចងចាំ​ការ​រកមើល ទាញយក សំណុំ​បែបបទ និង​ប្រវត្តិ​ស្វែងរក​របស់​អ្នក និង​រក្សា​ទុក​ខូគី​ពី​តំបន់​បណ្ដាញ​ដែល​អ្នក​ទស្សនា ។">
+
+<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+<!ENTITY  rememberActions.pre.label           "You may want to ">
+<!ENTITY  rememberActions.clearHistory.label  "ជម្រះ​ប្រវត្តិ​ថ្មីៗ">
+<!ENTITY  rememberActions.middle.label        " ឬ">
+<!ENTITY  rememberActions.removeCookies.label "យក​ខូគី​នីមួយៗ​ចេញ">
+<!ENTITY  rememberActions.post.label          ".">
+
+<!ENTITY  dontrememberDescription.label  "&brandShortName; នឹង​ប្រើ​ការ​កំណត់​ដូច​គ្នា​ជាមួយ​ការ​រក​មើល​ឯកជន និង​មិន​ចងចាំ​ប្រវត្តិ​ណាមួយ ពេល​អ្នក​រក​មើល​តំបន់​បណ្ដាញ ។">
+
+<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+<!ENTITY  dontrememberActions.pre.label          "You may also want to ">
+<!ENTITY  dontrememberActions.clearHistory.label "ជម្រះ​ប្រវត្តិ​ថ្មីៗ">
+<!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  privateBrowsingPermanent2.label "Always use private browsing mode">
+<!ENTITY  privateBrowsingPermanent2.accesskey "p">
+
+<!ENTITY  rememberHistory.label      "Remember my browsing history">
+<!ENTITY  rememberHistory.accesskey  "b">
+
+<!ENTITY  rememberDownload.label         "Remember download history">
+<!ENTITY  rememberDownload.accesskey     "d">
+
+<!ENTITY  rememberSearchForm.label       "Remember search and form history">
+<!ENTITY  rememberSearchForm.accesskey   "f">
+
+<!ENTITY  clearOnClose.label             "Clear history when &brandShortName; closes">
+<!ENTITY  clearOnClose.accesskey         "r">
+
+<!ENTITY  clearOnCloseSettings.label     "Settings…">
+<!ENTITY  clearOnCloseSettings.accesskey "t">

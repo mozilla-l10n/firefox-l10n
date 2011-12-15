@@ -35,38 +35,39 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY print.label "បោះពុម្ព…">
-<!ENTITY print.accesskey "P">
-<!ENTITY pageSetup.label "ការ​រៀបចំ​ទំព័រ...">
-<!ENTITY pageSetup.accesskey "u">
-<!ENTITY page.label "ទំព័រ ៖">
-<!ENTITY page.accesskey "a">
-<!ENTITY of.label "នៃ">
-<!ENTITY scale.label "មាត្រដ្ឋាន ៖">
-<!ENTITY scale.accesskey "S">
-<!ENTITY portrait.label "បញ្ឈរ">
-<!ENTITY portrait.accesskey "o">
-<!ENTITY landscape.label "ផ្ដេក">
-<!ENTITY landscape.accesskey "L">
-<!ENTITY close.label "បិទ">
-<!ENTITY close.accesskey "C">
-<!ENTITY p30.label "៣០&#037;">
-<!ENTITY p40.label "៤០&#037;">
-<!ENTITY p50.label "៥០&#037;">
-<!ENTITY p60.label "៦០&#037;">
-<!ENTITY p70.label "៧០&#037;">
-<!ENTITY p80.label "៨០&#037;">
-<!ENTITY p90.label "៩០&#037;">
-<!ENTITY p100.label "១០០&#037;">
-<!ENTITY p125.label "១២៥&#037;">
-<!ENTITY p150.label "១៥០&#037;">
-<!ENTITY p175.label "១៧៥&#037;">
-<!ENTITY p200.label "២០០&#037;">
-<!ENTITY Custom.label "ផ្ទាល់ខ្លួន...">
-<!ENTITY ShrinkToFit.label "បង្រួមឲ្យសម">
-<!ENTITY customPrompt.title "មាត្រដ្ឋាន​ផ្ទាល់ខ្លួន...">
+<!ENTITY print.label          "បោះពុម្ព…">
+<!ENTITY print.accesskey      "ប">
+<!ENTITY pageSetup.label      "ការ​រៀបចំ​ទំព័រ…">
+<!ENTITY pageSetup.accesskey  "ក">
+<!ENTITY page.label           "ទំព័រ ៖">
+<!ENTITY page.accesskey       "ទ">
+<!ENTITY of.label             "នៃ">
+<!ENTITY scale.label          "មាត្រដ្ឋាន ៖">
+<!ENTITY scale.accesskey      "ម">
+<!ENTITY portrait.label       "បញ្ឈរ">
+<!ENTITY portrait.accesskey   "ប">
+<!ENTITY landscape.label      "ផ្ដេក">
+<!ENTITY landscape.accesskey  "ផ">
+<!ENTITY close.label          "បិទ">
+<!ENTITY close.accesskey      "ប">
+<!ENTITY p30.label            "30&#037;">
+<!ENTITY p40.label            "40&#037;">
+<!ENTITY p50.label            "50&#037;">
+<!ENTITY p60.label            "60&#037;">
+<!ENTITY p70.label            "70&#037;">
+<!ENTITY p80.label            "80&#037;">
+<!ENTITY p90.label            "90&#037;">
+<!ENTITY p100.label           "100&#037;">
+<!ENTITY p125.label           "125&#037;">
+<!ENTITY p150.label           "150&#037;">
+<!ENTITY p175.label           "175&#037;">
+<!ENTITY p200.label           "200&#037;">
+<!ENTITY Custom.label         "Custom…">
+<!ENTITY ShrinkToFit.label    "Shrink To Fit">
+<!ENTITY customPrompt.title   "មាត្រដ្ឋាន​ផ្ទាល់ខ្លួន...">
 
-<!ENTITY homearrow.tooltip "ទំព័រ​ដំបូង">
-<!ENTITY endarrow.tooltip "ទំព័រ​ចុង​ក្រោយ">
-<!ENTITY rightarrow.tooltip "ទំព័រ​បណ្ដាញ">
-<!ENTITY leftarrow.tooltip "ទំព័រ​មុន">
+<!ENTITY homearrow.tooltip    "ទំព័រ​ដំបូង">
+<!ENTITY endarrow.tooltip     "ទំព័រ​ចុង​ក្រោយ">
+<!ENTITY nextarrow.tooltip    "ទំព័រ​បន្ទាប់">
+<!ENTITY previousarrow.tooltip "ទំព័រ​មុន">
+

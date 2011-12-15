@@ -1,0 +1,78 @@
+<!ENTITY  updateWizard.title              "ការ​ធ្វើ​ឲ្យ​ទាន់​សម័យ​កម្មវិធី">
+
+<!ENTITY  checking.title                  "កំពុង​ពិនិត្យ​ឯកសារ​ទាន់​សម័យ">
+<!ENTITY  updateCheck.label               "កំពុង​រក​មើល​កំណែ​ថ្មី​ជាង​របស់ &brandShortName;…">
+
+<!ENTITY  pluginupdatesfound.title        "បាន​រកឃើញ​ភាពទាន់សម័យ​សម្រាប់​កម្មវិធី​ជំនួយ">
+<!ENTITY  pluginupdatesfound.label        "បាន​រកឃើញ​កំណែ​ថ្មី​នៃ​កម្មវិធី​ជំនួយ​របស់​អ្នក ។">
+<!ENTITY  pluginupdateslink.label         "មើល​អំពី​របៀប​ធ្វើ​ឲ្យ​កម្មវិធី​ជំនួយ​របស់​អ្នក​ទាន់សម័យ ។">
+
+<!ENTITY  noupdatesfound.title            "រក​មិន​ឃើញ​ភាព​ទាន់សម័យ">
+<!ENTITY  noupdatesautoenabled.intro      "មិនមាន​ភាព​ទាន់​សម័យ​ទេ ។ &brandShortName; នឹង​ពិនិត្យ​មើល                                           ភាព​ទាន់​សម័យ​យ៉ាង​ទៀងទាត់ ។">
+<!ENTITY  noupdatesautodisabled.intro     "មិន​មាន​ភាព​ទាន់​សម័យ​ទេ ។ សូម​ពិនិត្យ​មើល​ម្ដង​ទៀត ឬ​បើក​ការ​ពិនិត្យ                                           មើល​ភាព​ទាន់​សម័យ​ស្វ័យ​ប្រវត្តិ​របស់ &brandShortName; ។">
+
+<!ENTITY  manualUpdate.title              "មិន​អាច​ធ្វើ​ឲ្យ​ទាន់​សម័យ">
+<!ENTITY  manualUpdate.desc               "មាន​ភាព​ទាន់​សម័យ​សុវត្ថិភាព និង​ស្ថិរភាព​ដែល​បាន​ផ្ដល់​អនុសាសន៍, ប៉ុន្តែ​អ្នក​មិន​មាន                                           សិទ្ធិ​ប្រព័ន្ធ​ដែល​ទាមទារ​ដើម្បី​ដំឡើង​វា​ទេ ។ សូម​ទាក់ទង                                           អ្នក​គ្រប់គ្រង​ប្រព័ន្ធ​របស់​អ្នក ឬ​ព្យាយាម​ម្ដង​ទៀត​ពី​គណនី​ដែល​                                           មាន​សិទ្ធិ​ដើម្បី​ដំឡើង​កម្មវិធី​លើ​កុំព្យូទ័រ​នេះ ។">
+<!ENTITY  manualUpdate.space.desc         "A recommended security and stability update is available, but you do
+                                           not have enough space to install it.">
+<!ENTITY  manualUpdateGetMsg.label        "អ្នក​អាច​យក​កំណែ​ចុង​ក្រោយ​បំផុត​របស់ &brandShortName; នៅ ៖">
+
+<!ENTITY  incompatibleCheck.title         "ពិនិត្យ​មើល​ភាព​ឆប​គ្នា​កម្មវិធី​បន្ថែម">
+<!ENTITY  incompatibleCheck.label         "កំពុង​រក​មើល​កំណែ​ថ្មី​ជាង​របស់​កម្មវិធី​បន្ថែម​របស់​អ្នក…">
+
+<!ENTITY  clickHere.label                 "មើល​ព័ត៌មាន​បន្ថែម​អំពី​ភាព​ទាន់សម័យ​នេះ">
+
+<!ENTITY  evangelism.desc                 "វា​ត្រូវ​បាន​ផ្ដល់​អនុសាសន៍​ថា អ្នក​អនុវត្តិ​ភាព​ទាន់​សម័យ​នេះ                                            ចំពោះ &brandShortName; កាន់​តែ​ឆាប់​ដែល​អាច​ទៅ​រួច ។">
+
+<!ENTITY  license.instructions            "ប្រសិន​បើ​អ្នក​យល់ព្រម​និង​លក្ខណ្ឌ​នៃ​កិច្ច​ព្រមព្រៀង​នេះ ចុច​ខ្ញុំ​យល់ព្រម                                            ខាងក្រោម​ដើម្បី​បន្ត​ដំឡើង​ភាព​ទាន់​សម័យ​នេះ ។">
+
+<!ENTITY  license.titleText               "កិច្ច​ព្រមព្រៀង​អជ្ញា​បណ្ណ​កម្មវិធី">
+<!ENTITY  license.introText               "ការ​កំណត់ និង​លក្ខខណ្ឌ​សម្រាប់​ប្រើប្រាស់​កម្មវិធី​នេះ ។">
+<!ENTITY  license.instructionText         "សូម​អាន​កិច្ច​ព្រមព្រៀង​អជ្ញាបណ្ណ​ខាងក្រោម ។ ប្រើ​របារ​រំកិល​ដើម្បី​មើល​កិច្ច​ព្រមព្រៀង​នេះ​ទាំងអស់ ។">
+<!ENTITY  license.accept                  "I accept the terms of the License Agreement">
+<!ENTITY  license.accept.accesskey        "c">
+<!ENTITY  license.decline                 "I do NOT accept the terms of the License Agreement">
+<!ENTITY  license.decline.accesskey       "T">
+
+<!ENTITY  incompatibleList.title          "រក​ឃើញ​កម្មវិធី​បន្ថែម​មិន​ឆប​គ្នា">
+
+<!ENTITY  downloadPage.title              "Downloading &brandShortName;">
+<!ENTITY  downloading.intro               "កំពុង​ទាញយក​ភាព​ទាន់​សម័យ…">
+<!ENTITY  connecting.label                "កំពុង​តភ្ជាប់​ទៅ​ម៉ាស៊ីន​បម្រើ​ភាព​ទាន់​សម័យ…">
+<!ENTITY  verificationFailedText.label    "brandShortName មិន​អាច​បញ្ជាក់​ការ​បញ្ចូល​គ្នា​នៃ                                            ភាព​ទាន់​សម័យ​ដែល​កើន​ដែល​វា​បាន​ទាញយក​ទេ ដូចនេះ​វា​ឥឡូវ​កំពុង​ទាញយក                                           កញ្ចប់​ភាព​ទាន់​សម័យ​ពេញលេញ ។">
+
+<!ENTITY  viewDetails.tooltip             "មើល​លម្អិត​សម្រាប់​ភាព​ទាន់​សម័យ​នេះ">
+
+<!ENTITY  details.link                    "លម្អិត">
+
+<!ENTITY  error.title                     "Update Failed">
+
+<!ENTITY  error.label                     "មាន​បញ្ហា​ក្នុង​ការ​ពិនិត្យ​រក ទាញយក ឬ​ដំឡើង                                            ភាព​ទាន់​សម័យ​នេះ ។ &brandShortName; មិន​អាច​ធ្វើ​ឲ្យ​ទាន់​សម័យ​ពីព្រោះ ៖">
+                                           
+<!ENTITY  errorManual.label               "អ្នក​អាច​ធ្វើ brandShortName ឲ្យ​ទាន់​សម័យ​ដោយ​ដៃ​ដោយ​ទស្សនា​តំណ​នេះ                                           និង​ទាញយក​កំណែ​ចុង​ក្រោយ​បំផុត ៖ ">
+                                           
+<!ENTITY  errorpatching.intro             "មិន​អាច​អនុវត្តន៍​ភាព​ទាន់​សម័យ​តែ​ម្ខាង​បាន​ទេ ។                                            brandShortName នឹង​ព្យាយាម​ម្ដង​ទៀត​ដោយ​ទាញយក​ភាព​ទាន់​សម័យ​ពេញលេញ ។">
+
+<!ENTITY  genericBackgroundError.label    "&brandShortName; is unable to determine if there is an update available. Please
+                                           make sure that you have the latest version of &brandShortName; from:">
+<!ENTITY  errorCertAttrNoUpdate2.label    "Something is preventing &brandShortName; from updating securely.
+                                           Please make sure that you have the latest version of &brandShortName; from:">
+<!ENTITY  errorCertAttrHasUpdate.label    "Something is trying to trick &brandShortName; into accepting an
+                                           insecure update. Please contact your network provider and seek help.">
+
+<!ENTITY  finishedPage.title              "ការ​ធ្វើ​ឲ្យ​ទាន់សម័យ​រៀបចំ​ដើម្បី​ដំឡើង">
+<!ENTITY  finishedPage.text               "ភាព​ទាន់​សម័យ​នេះ​នឹង​ត្រូវ​បាន​ដំឡើង​នៅ​ពេល &brandShortName; ចាប់​ផ្ដើម ។ អ្នក                                            អាច​ចាប់ផ្ដើម &brandShortName; ឥឡូវ​នេះ ឬ​បន្ត​ធ្វើការ និង​ចាប់ផ្ដើម​ឡើង​វិញ​នៅ​ពេល​ក្រោយ ។">
+
+<!ENTITY  finishedBackgroundPage.text     "ភាព​ទាន់​សម័យ​សុវត្ថិភាព និង​ស្ថិរភាព​សម្រាប់ &brandShortName; ត្រូវ​បាន                                           ទាញ​យក និង​រួចរាល់​ដើម្បី​ដំឡើង ។">
+<!ENTITY  finishedBackground.name         "ធ្វើ​ឲ្យ​ទាន់​សម័យ">
+<!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
+<!ENTITY  finishedBackground.more         "The update will be installed the next time &brandShortName; starts. You
+                                           can restart &brandShortName; now, or continue working and restart later.">
+
+<!ENTITY  installed.title                 "ការ​ធ្វើ​ឲ្យ​ទាន់សម័យ​បាន​ដំឡើង">
+<!ENTITY  installed.intro                 "ឯកសារ​ទាន់​សម័យ​ត្រូវ​បាន​ដំឡើង​ជោគជ័យ ។">
+<!ENTITY  whatsnew.label                  "អាន​បន្ថែម​អំពី​អ្វី​ដែល​ថ្មី…">
+
+<!ENTITY  update.details.label            "លម្អិត">
+<!ENTITY  update.installedOn.label        "បាន​ដំឡើង​លើ ៖">
+<!ENTITY  update.status.label             "ស្ថាន​ភាព ៖">

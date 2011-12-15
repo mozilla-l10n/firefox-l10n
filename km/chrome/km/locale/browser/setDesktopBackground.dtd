@@ -1,0 +1,9 @@
+<!ENTITY position.label             "ទីតាំង ៖">
+<!ENTITY tile.label                 "ក្រឡា​ក្បឿង">
+<!ENTITY center.label               "កណ្ដាល">
+<!ENTITY stretch.label              "ទាញ​ឲ្យវែង">
+<!ENTITY preview.label              "មើល​ជា​មុន">
+<!ENTITY color.label                "ពណ៌ ៖">
+<!ENTITY setDesktopBackground.title "កំណត់​ផ្ទៃ​ខាង​ក្រោយ​ផ្ទៃតុ">
+<!ENTITY openDesktopPrefs.label     "បើក​ចំណង់​ចំណូល​ចិត្ត​ផ្ទៃតុ">
+<!ENTITY closeWindow.key            "w">

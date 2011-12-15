@@ -1,5 +1,6 @@
-<!ENTITY windowClose.key "w">
-<!ENTITY preferencesDefaultTitleMac.title "ចំណង់​ចំណូល​ចិត្ត">
-<!ENTITY preferencesDefaultTitleWin.title "ជម្រើស">
-<!ENTITY preferencesCloseButton.label "បិទ">
-<!ENTITY preferencesCloseButton.accesskey "C">
+<!ENTITY  windowClose.key                         "w">
+<!ENTITY  preferencesDefaultTitleMac.title        "ចំណូលចិត្ត">
+<!ENTITY  preferencesDefaultTitleWin.title        "ជម្រើស">
+<!ENTITY  preferencesCloseButton.label            "បិទ">
+<!ENTITY  preferencesCloseButton.accesskey        "ប">
+

@@ -2,17 +2,18 @@
 
 <!ENTITY findDialog.title "រក​ក្នុង​ទំព័រ​នេះ">
 <!ENTITY findField.label "រក​អ្វី ៖">
-<!ENTITY findField.accesskey "n">
-<!ENTITY caseSensitiveCheckbox.label "ផ្គូផ្គង​លក្ខណៈ​អក្សរ">
-<!ENTITY caseSensitiveCheckbox.accesskey "អ">
+<!ENTITY findField.accesskey "រ">
+<!ENTITY caseSensitiveCheckbox.label "ករណី​ដំណូច">
+<!ENTITY caseSensitiveCheckbox.accesskey "ក">
 <!ENTITY wrapCheckbox.label "រុំ">
-<!ENTITY wrapCheckbox.accesskey "W">
+<!ENTITY wrapCheckbox.accesskey "រ">
 <!ENTITY findButton.label "រក​បន្ទាប់">
-<!ENTITY findButton.accesskey "F">
+<!ENTITY findButton.accesskey "រ">
 <!ENTITY cancelButton.label "បោះបង់">
 <!ENTITY closeButton.label "បិទ">
 <!ENTITY up.label "ឡើង​លើ">
-<!ENTITY up.accesskey "U">
+<!ENTITY up.accesskey "ឡ">
 <!ENTITY down.label "ចុះ​ក្រោម">
-<!ENTITY down.accesskey "D">
+<!ENTITY down.accesskey "ច">
 <!ENTITY direction.label "ទិស">
+

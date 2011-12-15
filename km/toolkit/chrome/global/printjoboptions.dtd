@@ -1,41 +1,42 @@
 <!-- extracted from printjoboptions.xul -->
 
-<!ENTITY printJobOptions.title "លក្ខណៈ​សម្បត្តិ​​ម៉ាស៊ីន​បោះ​ពុម្ព">
+<!ENTITY printJobOptions.title "លក្ខណសម្បត្តិ​ម៉ាស៊ីន​បោះពុម្ព">
 
 <!ENTITY paperInput.label "ទំហំ​ក្រដាស ៖">
-<!ENTITY paperInput.accesskey "P">
+<!ENTITY paperInput.accesskey "ទ">
 
 <!ENTITY plexInput.label "របៀប Plex ៖">
-<!ENTITY plexInput.accesskey "m">
+<!ENTITY plexInput.accesskey "រ">
 
 <!ENTITY resolutionInput.label "គុណភាព​បង្ហាញ/គុណភាព ៖">
-<!ENTITY resolutionInput.accesskey "e">
+<!ENTITY resolutionInput.accesskey "គ">
 
 <!ENTITY cmdInput.label "ពាក្យ​បញ្ជា​បោះពុម្ព ៖">
-<!ENTITY cmdInput.accesskey "o">
+<!ENTITY cmdInput.accesskey "ព">
 
-<!ENTITY jobTitleInput.label "ចំណង​ជើង​ការងារ ៖">
-<!ENTITY jobTitleInput.accesskey "J">
+<!ENTITY jobTitleInput.label "តួនាទី ៖">
+<!ENTITY jobTitleInput.accesskey "ត">
 
 <!ENTITY colorGroup.label "ពណ៌ ៖">
 <!ENTITY grayRadio.label "មាត្រដ្ឋាន​ប្រផេះ">
-<!ENTITY grayRadio.accesskey "G">
+<!ENTITY grayRadio.accesskey "ម">
 <!ENTITY colorRadio.label "ពណ៌">
-<!ENTITY colorRadio.accesskey "C">
+<!ENTITY colorRadio.accesskey "ព">
 
 <!ENTITY colorspaceInput.label "គំរូ​ពណ៌ ៖">
-<!ENTITY colorspaceInput.accesskey "s">
+<!ENTITY colorspaceInput.accesskey "គ">
 
 <!ENTITY fontsGroup.label "ពុម្ព​អក្សរ ៖">
 <!ENTITY downloadFonts.label "ទាញយក​ពុម្ព​អក្សរ​ទៅ​ម៉ាស៊ីន​បោះពុម្ព">
-<!ENTITY downloadFonts.accesskey "D">
+<!ENTITY downloadFonts.accesskey "ទ">
 
-<!ENTITY edgeMarginInput.label "ចន្លោះ​ពី​ចុង​នៃ​ក្រដាស​ទៅ​រឹម">
+<!ENTITY edgeMarginInput.label "ចន្លោះ​ពី​ចុង​ក្រដាស​ទៅ​រឹម">
 <!ENTITY topInput.label "កំពូល ៖">
-<!ENTITY topInput.accesskey "T">
+<!ENTITY topInput.accesskey "ក">
 <!ENTITY bottomInput.label "បាត ៖">
-<!ENTITY bottomInput.accesskey "B">
+<!ENTITY bottomInput.accesskey "ប">
 <!ENTITY leftInput.label "ឆ្វេង ៖">
-<!ENTITY leftInput.accesskey "L">
+<!ENTITY leftInput.accesskey "ឆ">
 <!ENTITY rightInput.label "ស្ដាំ ៖">
-<!ENTITY rightInput.accesskey "R">
+<!ENTITY rightInput.accesskey "ស">
+

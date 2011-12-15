@@ -1,0 +1,17 @@
+<!ENTITY lookInMenuList.label   "Look in:">
+<!ENTITY lookInMenuList.accesskey   "L">
+<!ENTITY textInput.label        "File name:">
+<!ENTITY textInput.accesskey        "n">
+<!ENTITY filterMenuList.label   "Files of type:">
+<!ENTITY filterMenuList.accesskey   "t">
+<!ENTITY name.label             "ឈ្មោះ">
+<!ENTITY size.label             "ទំហំ">
+<!ENTITY lastModified.label     "កែប្រែ​លើក​ចុង​ក្រោយ">
+<!ENTITY showHiddenFiles.label  "Show hidden files and directories">
+<!ENTITY showHiddenFiles.accesskey  "S">
+
+<!ENTITY noPermissionError.label "អ្នក​មិន​មាន​សិទ្ធិ​ដែល​ចាំបាច់​ ​ដើម្បី​មើល​ថត​នេះ ។">
+
+<!ENTITY folderUp.tooltiptext   "ឡើង​លើ​មួយ​កម្រិត">
+<!ENTITY folderHome.tooltiptext "ទៅ​កាន់​ទំព័រ​ដើម">
+<!ENTITY folderNew.tooltiptext  "បង្កើត​ថត​ថ្មី">

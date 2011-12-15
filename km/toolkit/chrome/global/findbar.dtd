@@ -1,16 +1,17 @@
-<!-- LOCALIZATION NOTE : FILE This file contains the entities needed to --><!-- LOCALIZATION NOTE : FILE use the Find Bar. --><!-- entities split out from browser.dtd -->
- 
+<!-- LOCALIZATION NOTE : FILE This file contains the entities needed to -->
+<!-- LOCALIZATION NOTE : FILE use the Find Bar. --> 
 
-
+<!-- entities split out from browser.dtd -->
 <!ENTITY next.label "បន្ទាប់">
-<!ENTITY next.accesskey "N">
-<!ENTITY next.tooltip "រក​បន្ទាប់ ពាក្យ​ដែល​ជួប​ក្នុង​ឃ្លា">
+<!ENTITY next.accesskey "ប">
+<!ENTITY next.tooltip "រក​ពាក្យ ឬ​ឃ្លា​ដែល​បាន​ជួប​បន្ទាប់">
 <!ENTITY previous.label "មុន">
-<!ENTITY previous.accesskey "P">
-<!ENTITY previous.tooltip "រក​មុន ពាក្យ​ដែល​ជួប​ក្នុង​ឃ្លា">
+<!ENTITY previous.accesskey "ម">
+<!ENTITY previous.tooltip "រក​ពាក្យ ឬ​ឃ្លា​ដែល​បាន​ជួប​មុន">
 <!ENTITY findCloseButton.tooltip "បិទ​របារ​ស្វែងរក">
 <!ENTITY highlight.label "បន្លិច​ទាំងអស់">
-<!ENTITY highlight.accesskey "a">
-<!ENTITY highlight.tooltiptext "បន្លិច​ការ​ជួប​ប្រទះ​នៃ​ឃ្លា​ទាំងអស់">
-<!ENTITY caseSensitiveCheckbox.label "ផ្គូផ្គង​លក្ខណៈ​អក្សរ">
-<!ENTITY caseSensitiveCheckbox.accesskey "អ">
+<!ENTITY highlight.accesskey "ប">
+<!ENTITY highlight.tooltiptext "បន្លិច​ពាក្យ ឬ​ឃ្លា​ដែល​បាន​ជួប​ទាំងអស់">
+<!ENTITY caseSensitiveCheckbox.label "ករណី​ដំណូច">
+<!ENTITY caseSensitiveCheckbox.accesskey "ក">
+

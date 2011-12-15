@@ -1,26 +1,62 @@
 <!-- ***** BEGIN LICENSE BLOCK *****
+#if 0
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is mozilla.org Code.
+   -
+   - The Initial Developer of the Original Code is Mike Connor.
+   - Portions created by the Initial Developer are Copyright (C) 2005
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Mike Connor <mconnor@steelgryphon.com>
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+#endif
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY safeModeDialog.title "របៀប​សុវត្ថិភាព &brandShortName;">
-<!ENTITY window.width "37em">
+<!ENTITY safeModeDialog.title         "&brandShortName; Safe Mode">
+<!ENTITY window.width                 "37em">
 
-<!ENTITY safeModeDescription.label "ឥឡូវនេះ &brandShortName; កំពុង​តែ​រត់​ក្នុង​របៀប​សុវត្ថិភាព ដែល​ជា​បណ្ដោះអាសន្ន​មិន​អនុញ្ញាត ការ​កំណត់​ផ្ទាល់ខ្លួន ស្បែក និង​ផ្នែក​បន្ថែម​របស់​អ្នក ។">
-<!ENTITY safeModeDescription2.label "អ្នក​អាច​ធ្វើ​ឲ្យ​ការ​ផ្លាស់ប្ដូរ​ខ្លះ ឬ ទាំងអស់​អចិន្ត្រៃយ៍ ៖">
+<!ENTITY safeModeDescription.label    "&brandShortName; is now running in Safe Mode, which temporarily disables your custom settings, themes, and extensions.">
+<!ENTITY safeModeDescription2.label   "You can make some or all of these changes permanent:">
 
-<!ENTITY disableAddons.label "បិទ​កម្មវិធី​បន្ថែម​ទាំងអស់">
-<!ENTITY disableAddons.accesskey "D">
+<!ENTITY disableAddons.label          "Disable all add-ons">
+<!ENTITY disableAddons.accesskey      "D">
 
-<!ENTITY resetToolbars.label "កំណត់​របារ​ឧបករណ៍ និង​បញ្ជា​ឡើង​វិញ">
-<!ENTITY resetToolbars.accesskey "R">
+<!ENTITY resetToolbars.label          "Reset toolbars and controls">
+<!ENTITY resetToolbars.accesskey      "R">
 
-<!ENTITY deleteBookmarks.label "លុប​ចំណាំ​ទាំងអស់ ទុក​តែ​ចំណាំ​ដែល​សម្រាប់​បម្រុង​ទុក">
-<!ENTITY deleteBookmarks.accesskey "b">
+<!ENTITY deleteBookmarks.label        "Delete all bookmarks except for backups">
+<!ENTITY deleteBookmarks.accesskey    "b">
 
-<!ENTITY resetUserPrefs.label "កំណត់​ចំណង់ចំណូលចិត្ត​អ្នក​ប្រើ​ទាំងអស់​តាម​លំនាំដើម &brandShortName; ឡើង​វិញ">
-<!ENTITY resetUserPrefs.accesskey "p">
+<!ENTITY resetUserPrefs.label         "Reset all user preferences to &brandShortName; defaults">
+<!ENTITY resetUserPrefs.accesskey     "p">
 
-<!ENTITY restoreSearch.label "ស្ដារ​ម៉ាស៊ីន​ស្វែងរក​លំនាំ​ដើម">
-<!ENTITY restoreSearch.accesskey "s">
+<!ENTITY restoreSearch.label          "Restore default search engines">
+<!ENTITY restoreSearch.accesskey      "s">
 
-<!ENTITY changeAndRestartButton.label "ធ្វើ​ការ​ផ្លាស់ប្ដូរ និង​ចាប់​ផ្តើម​ឡើង​វិញ">
-<!ENTITY continueButton.label "បន្ត​ក្នុង​របៀប​សុវត្ថិភាព">
+<!ENTITY changeAndRestartButton.label "Make Changes and Restart">
+<!ENTITY continueButton.label         "Continue in Safe Mode">
+

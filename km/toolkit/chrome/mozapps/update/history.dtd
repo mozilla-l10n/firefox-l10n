@@ -1,12 +1,13 @@
 
-<!ENTITY history.title "ប្រវត្តិ​ធ្វើ​ឲ្យ​ទាន់សម័យ">
-<!ENTITY history.intro "ការ​ធ្វើ​ឲ្យ​ទាន់សម័យ​ខាង​ក្រោម​ត្រូវ​បាន​ដំឡើង ៖">
-<!ENTITY closebutton.label "បិទ">
+<!ENTITY  history.title             "ប្រវត្តិ​នៃ​ការ​ធ្វើ​បច្ចុប្បន្នភាព">
+<!ENTITY  history.intro             "បច្ចុប្បន្នភាព​ខាងក្រោម​ត្រូវ​បាន​ដំឡើង ៖">
+<!ENTITY  closebutton.label         "បិទ">
                                      
-<!ENTITY noupdates.label "គ្មាន​ភាព​ទាន់សម័យ​បាន​ដំឡើង​ទេ">
+<!ENTITY  noupdates.label           "គ្មាន​បច្ចុប្បន្នភាព​ត្រូវ​បាន​ដំឡើង​ទេ">
 
-<!ENTITY name.header "ឈ្មោះ​ធ្វើ​ឲ្យ​ទាន់សម័យ">
-<!ENTITY date.header "កាលបរិច្ឆេទ​ដំឡើង">
-<!ENTITY type.header "ប្រភេទ">
-<!ENTITY state.header "ស្ថានភាព">
+<!ENTITY  name.header               "ឈ្មោះ​បច្ចុប្បន្នភាព">
+<!ENTITY  date.header               "កាលបរិច្ឆេទ​ដំឡើង">
+<!ENTITY  type.header               "ប្រភេទ">
+<!ENTITY  state.header              "ស្ថានភាព">
+
 

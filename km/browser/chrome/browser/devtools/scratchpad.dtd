@@ -1,0 +1,118 @@
+<!-- LOCALIZATION NOTE : FILE This file contains the Scratchpad window strings -->
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
+
+<!-- LOCALIZATION NOTE (scratchpad.title):
+  -  The Scratchpad is intended to provide a simple text editor for creating
+  -  and evaluating bits of JavaScript code for the purposes of function
+  -  prototyping, experimentation and convenient scripting.
+  -
+  -  It's quite possible that you won't have a good analogue for the word
+  -  "Scratchpad" in your locale. You should feel free to find a close
+  -  approximation to it or choose a word (or words) that means
+  -  "simple discardable text editor". -->
+<!ENTITY window.title                 "Scratchpad">
+
+<!ENTITY fileMenu.label               "ឯកសារ">
+<!ENTITY fileMenu.accesskey           "ឯ">
+
+<!ENTITY newWindowCmd.label           "បង្អួច​​ថ្មី">
+<!ENTITY newWindowCmd.accesskey       "ប">
+<!ENTITY newWindowCmd.commandkey      "ប">
+
+<!ENTITY openFileCmd.label            "បើក​ឯកសារ…">
+<!ENTITY openFileCmd.accesskey        "ប">
+<!ENTITY openFileCmd.commandkey       "ប">
+
+<!ENTITY saveFileCmd.label            "រក្សា​ទុក">
+<!ENTITY saveFileCmd.accesskey        "រ">
+<!ENTITY saveFileCmd.commandkey       "រ">
+
+<!ENTITY saveFileAsCmd.label          "រក្សាទុក​ជា...">
+<!ENTITY saveFileAsCmd.accesskey      "រ">
+
+<!ENTITY closeCmd.label               "បិទ">
+<!ENTITY closeCmd.key                 "ប">
+<!ENTITY closeCmd.accesskey           "ប">
+
+<!ENTITY editMenu.label               "កែសម្រួល">
+<!ENTITY editMenu.accesskey           "ក">
+
+<!ENTITY undoCmd.label                "មិនធ្វើវិញ">
+<!ENTITY undoCmd.key                  "ម">
+<!ENTITY undoCmd.accesskey            "ម">
+
+<!ENTITY redoCmd.label                "ធ្វើ​វិញ">
+<!ENTITY redoCmd.key                  "ធ">
+<!ENTITY redoCmd.accesskey            "ធ">
+
+<!ENTITY cutCmd.label                 "កាត់">
+<!ENTITY cutCmd.key                   "ក">
+<!ENTITY cutCmd.accesskey             "ក">
+
+<!ENTITY copyCmd.label                "ចម្លង">
+<!ENTITY copyCmd.key                  "ច">
+<!ENTITY copyCmd.accesskey            "ច">
+
+<!ENTITY pasteCmd.label               "បិទភ្ជាប់">
+<!ENTITY pasteCmd.key                 "ប">
+<!ENTITY pasteCmd.accesskey           "ប">
+
+<!ENTITY selectAllCmd.label           "ជ្រើស​ទាំងអស់">
+<!ENTITY selectAllCmd.key             "ជ">
+<!ENTITY selectAllCmd.accesskey       "ជ">
+
+<!ENTITY run.label                    "រត់">
+<!ENTITY run.accesskey                "រ">
+<!ENTITY run.key                      "រ">
+
+<!ENTITY inspect.label                "ត្រួតពិនិត្យ">
+<!ENTITY inspect.accesskey            "ត">
+<!ENTITY inspect.key                  "ត">
+
+<!ENTITY display.label                "ទិដ្ឋភាព">
+<!ENTITY display.accesskey            "ទ">
+<!ENTITY display.key                  "ទ">
+
+<!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
+  -  renamed from "Context" to avoid confusion with the right-click context
+  -  menu in the text area. It refers to the JavaScript Environment (or context)
+  -  the user is evaluating against. I.e., Content (current tab) or Chrome
+  -  (browser).
+  -->
+<!ENTITY environmentMenu.label        "បរិស្ថាន">
+<!ENTITY environmentMenu.accesskey    "ប">
+
+
+<!ENTITY contentContext.label         "មាតិកា">
+<!ENTITY contentContext.accesskey     "ម">
+
+<!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
+  -  to select an execution environment for the browser window itself as opposed
+  -  to content. This is a feature for browser and addon developers and only
+  -  enabled via the devtools.chrome.enabled preference. Formerly, this label
+  -  was called "Chrome".
+  -->
+<!ENTITY browserContext.label         "កម្មវិធី​រុករក">
+<!ENTITY browserContext.accesskey     "ក">
+
+<!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
+  -  to reset/clear the global object of the environment where the code executes.
+  -->
+<!ENTITY resetContext2.label          "កំណត់​អថេរ​ឡើងវិញ">
+<!ENTITY resetContext2.accesskey      "ក">
+
+<!ENTITY executeMenu.label            "ប្រតិបត្តិ">
+<!ENTITY executeMenu.accesskey        "ប">
+
+<!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
+  -  the browser Error Console, the key should be identical to the property of
+  -  the same name in browser.dtd.
+  -->
+<!ENTITY errorConsoleCmd.commandkey   "j">
+
+<!-- LOCALIZATION NOTE (webConsoleCmd.commandkey): This command key launches
+  -  the browser WebConsole, the key should be identical to the property of
+  -  the same name in browser.dtd.
+  -->
+<!ENTITY webConsoleCmd.commandkey     "k">
+

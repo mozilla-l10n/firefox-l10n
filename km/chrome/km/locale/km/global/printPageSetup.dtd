@@ -1,0 +1,62 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printSetup.title    "ការ​រៀបចំ​ទំព័រ">
+
+<!ENTITY basic.tab           "ទ្រង់ទ្រាយ &amp; ជម្រើស">
+
+<!ENTITY formatGroup.label   "ទ្រង់ទ្រាយ">
+
+<!ENTITY orientation.label   "ទិស ៖">
+<!ENTITY portrait.label      "Portrait">
+<!ENTITY portrait.accesskey  "P">
+<!ENTITY landscape.label     "Landscape">
+<!ENTITY landscape.accesskey "L">
+
+<!ENTITY scale.label         "Scale:">
+<!ENTITY scale.accesskey     "S">
+<!ENTITY scalePercent        "&#037;">
+
+<!ENTITY shrinkToFit.label   "Shrink to fit Page Width">
+<!ENTITY shrinkToFit.accesskey "W">
+
+<!ENTITY optionsGroup.label  "ជម្រើស">
+
+<!ENTITY printBG.label       "Print Background (colors &amp; images)">
+<!ENTITY printBG.accesskey   "B">
+
+<!ENTITY advanced.tab        "រឹម​ទំព័រ &amp; បឋមកថា​/បាត​កថា">
+
+<!ENTITY marginGroup.label   "រឹមទំព័រ (#1)">
+<!ENTITY marginUnits.inches  "អ៊ិន្ឈ៍">
+<!ENTITY marginUnits.metric  "មិល្លិម៉ែត្រ">
+<!ENTITY marginTop.label     "Top:">
+<!ENTITY marginTop.accesskey "T">
+<!ENTITY marginBottom.label  "Bottom:">
+<!ENTITY marginBottom.accesskey "B">
+<!ENTITY marginLeft.label    "Left:">
+<!ENTITY marginLeft.accesskey "L">
+<!ENTITY marginRight.label   "Right:">
+<!ENTITY marginRight.accesskey "R">
+
+<!ENTITY headerFooter.label  "បឋមកថា &amp; បាតកថា">
+
+<!ENTITY hfLeft.label        "ឆ្វេង ៖">
+<!ENTITY hfCenter.label      "កណ្តាល ៖">
+<!ENTITY hfRight.label       "ស្តាំ ៖">
+<!ENTITY headerLeft.tip      "បឋមកថា​ឆ្វេង">
+<!ENTITY headerCenter.tip    "បឋមកថា​កណ្ដាល">
+<!ENTITY headerRight.tip     "បឋមកថា​ស្ដាំ">
+<!ENTITY footerLeft.tip      "បាតកថា​ឆ្វេង">
+<!ENTITY footerCenter.tip    "បាតកថា​កណ្ដាល">
+<!ENTITY footerRight.tip     "បាតកថា​ស្ដាំ">
+
+<!ENTITY hfTitle             "ចំណង​ជើង">
+<!ENTITY hfURL               "URL">
+<!ENTITY hfDateAndTime       "កាលបរិច្ឆេទ/ពេលវេលា">
+<!ENTITY hfPage              "ទំព័រ #">
+<!ENTITY hfPageAndTotal      "ទំព័រ # នៃ #">
+<!ENTITY hfBlank             "--ទទេ--">
+<!ENTITY hfCustom            "ផ្ទាល់ខ្លួន...">
+
+<!ENTITY customPrompt.title  "ផ្ទាល់ខ្លួន...">
+<!ENTITY customPrompt.prompt "បញ្ចូល​អត្ថបទ​បឋមកថា/បាត​កថា​ ផ្ទាល់​ខ្លួន​របស់​អ្នក">

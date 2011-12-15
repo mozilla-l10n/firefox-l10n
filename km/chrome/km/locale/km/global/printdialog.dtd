@@ -1,0 +1,40 @@
+<!-- extracted from printdialog.xul -->
+
+<!ENTITY printButton.label "បោះពុម្ព">
+
+<!ENTITY printDialog.title "បោះពុម្ព">
+
+<!ENTITY fpDialog.title "រក្សា​ទុក​ឯកសារ">
+
+<!ENTITY fileCheck.label "Print to File">
+<!ENTITY fileCheck.accesskey "F">
+<!ENTITY propertiesButton.label "Properties…">
+<!ENTITY propertiesButton.accesskey "o">
+<!ENTITY descText.label "សេចក្ដី​ពណ៌នា​ម៉ាស៊ីន​បោះពុម្ព ៖">
+<!ENTITY printer.label "ម៉ាស៊ីន​បោះពុម្ព">
+<!ENTITY printerInput.label "Printer Name:">
+<!ENTITY printerInput.accesskey "N">
+
+<!ENTITY printrangeGroup.label "ជួរ​បោះពុម្ព">
+<!ENTITY allpagesRadio.label "All Pages">
+<!ENTITY allpagesRadio.accesskey "A">
+<!ENTITY rangeRadio.label  "Pages">
+<!ENTITY rangeRadio.accesskey  "P">
+<!ENTITY frompageInput.label  "from">
+<!ENTITY frompageInput.accesskey  "r">
+<!ENTITY topageInput.label  "to">
+<!ENTITY topageInput.accesskey  "t">
+<!ENTITY selectionRadio.label "Selection">
+<!ENTITY selectionRadio.accesskey "S">
+
+<!ENTITY copies.label "ច្បាប់​ចម្លង">
+<!ENTITY numCopies.label "Number of copies:">
+<!ENTITY numCopies.accesskey "c">
+
+<!ENTITY printframeGroup.label "បោះពុម្ព​ស៊ុម">
+<!ENTITY aslaidoutRadio.label "As laid out on the screen">
+<!ENTITY aslaidoutRadio.accesskey "u">
+<!ENTITY selectedframeRadio.label  "The selected frame">
+<!ENTITY selectedframeRadio.accesskey  "m">
+<!ENTITY eachframesepRadio.label  "Each frame separately">
+<!ENTITY eachframesepRadio.accesskey  "E">

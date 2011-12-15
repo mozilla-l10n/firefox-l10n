@@ -1,10 +1,11 @@
-<!ENTITY typeColumn.label "ប្រភេទ​មាតិកា ">
-<!ENTITY typeColumn.accesskey "T">
+<!ENTITY  typeColumn.label        "ប្រភេទ​មាតិកា ">
+<!ENTITY  typeColumn.accesskey    "ប">
 
-<!ENTITY actionColumn2.label "អំពើ">
-<!ENTITY actionColumn2.accesskey "A">
+<!ENTITY  actionColumn2.label     "អំពើ">
+<!ENTITY  actionColumn2.accesskey "អ">
 
-<!ENTITY focusSearch1.key "f">
-<!ENTITY focusSearch2.key "k">
+<!ENTITY  focusSearch1.key        "f">
+<!ENTITY  focusSearch2.key        "k">
 
-<!ENTITY filter.emptytext "ស្វែងរក">
+<!ENTITY  filter.emptytext        "ស្វែងរក">
+

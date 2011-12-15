@@ -1,0 +1,24 @@
+<!ENTITY % brandDTD
+    SYSTEM "chrome://branding/locale/brand.dtd">
+  %brandDTD;
+
+<!-- These strings are used in the about:home page -->
+
+<!ENTITY abouthome.pageTitle "ទំព័រ​ចាប់ផ្ដើម​របស់ &brandFullName;">
+
+<!ENTITY abouthome.searchEngineButton.label "ស្វែងរក">
+
+<!ENTITY abouthome.aboutMozilla "អំពី Mozilla">
+
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
+     text in <a/> will be linked to the Firefox features page on mozilla.com
+-->
+<!ENTITY abouthome.defaultSnippet1.v1 "សូម​អរគុណ​ចំពោះ​ការ​ជ្រើសរើស Firefox! ដើម្បី​ទទួល​បាន​កម្មវិធី​រុករក​ដ៏អស្ចារ្យ សិក្សា​បន្ថែម​អំពី <a>លក្ខណៈពិសេស​ចុងក្រោយ</a> ។">
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
+     text in <a/> will be linked to the featured add-ons on addons.mozilla.org
+-->
+<!ENTITY abouthome.defaultSnippet2.v1 "វា​ងាយស្រួល​ប្ដូរ​ Firefox របស់​អ្នក​តាម​បំណង​តាមវិធី​ដែល​អ្នក​ចង់​បាន ។ <a>ជ្រើស​រើស​ពី​ផ្នែក​បន្ថែម​រាប់ពាន់</a> ។">
+
+<!ENTITY abouthome.syncSetup.label   "រៀបចំ​សមកាលកម្ម">
+<!ENTITY abouthome.pairDevice.label  "ផ្គូ​ឧបករណ៍">
+

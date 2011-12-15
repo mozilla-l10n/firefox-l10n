@@ -1,51 +1,36 @@
 
-<!ENTITY migrationWizard.title "អ្នក​ជំនួយ​ការ​នាំចូល">
+<!ENTITY migrationWizard.title          "អ្នក​ជំនួយ​ការ​នាំចូល">
 
-<!ENTITY importFrom.label "នាំចូល​ជម្រើស​ ចំណាំ​ ប្រវត្តិ ពាក្យសម្ងាត់ និង ទិន្នន័យ​ផ្សេងៗ​ពី ៖">
-<!ENTITY importFromUnix.label "នាំចូល​ចំណង់​ចំណូល​ចិត្ត ចំណាំ​ ប្រវត្តិ ពាក្យ​សម្ងាត់ និង ទិន្នន័យ​ផ្សេងៗ​ពី ៖">
-<!ENTITY importFromBookmarks.label "នាំចូល​ចំណាំ​ពី ៖">
+<!ENTITY importFrom.label               "នាំចូល​ជម្រើស​ ចំណាំ​ ប្រវត្តិ ពាក្យសម្ងាត់ និង ទិន្នន័យ​ផ្សេងៗ​ពី ៖">
+<!ENTITY importFromUnix.label           "នាំចូល​ចំណង់​ចំណូល​ចិត្ត ចំណាំ​ ប្រវត្តិ ពាក្យ​សម្ងាត់ និង ទិន្នន័យ​ផ្សេងៗ​ពី ៖">
+<!ENTITY importFromBookmarks.label      "នាំចូល​ចំណាំ​ពី ៖">
 
-<!ENTITY importFromIE.label "Microsoft Internet Explorer ">
-<!ENTITY importFromIE.accesskey "M">
-<!ENTITY importFromPhoenix.label "Firefox 0.8, Firebird ឬ Phoenix">
-<!ENTITY importFromPhoenix.accesskey "P">
-<!ENTITY importFromNothing.label "កុំ​នាំចូល​អ្វីៗ​ទាំងអស់">
-<!ENTITY importFromNothing.accesskey "ល">
-<!ENTITY importFromSeamonkey.label "Netscape 6, 7 ឬ Mozilla 1.x">
-<!ENTITY importFromSeamonkey.accesskey "N">
-<!ENTITY importFromNetscape4.label "Netscape 4.x">
-<!ENTITY importFromNetscape4.accesskey "4">
-<!ENTITY importFromOpera.label "Opera">
-<!ENTITY importFromOpera.accesskey "O">
-<!ENTITY importFromCamino.label "Camino">
-<!ENTITY importFromCamino.accesskey "C">
-<!ENTITY importFromSafari.label "Safari">
-<!ENTITY importFromSafari.accesskey "S">
-<!ENTITY importFromOmniWeb.label "OmniWeb">
-<!ENTITY importFromOmniWeb.accesskey "W">
-<!ENTITY importFromICab.label "iCab">
-<!ENTITY importFromICab.accesskey "i">
-<!ENTITY importFromKonqueror.label "Konqueror">
-<!ENTITY importFromKonqueror.accesskey "K">
-<!ENTITY importFromEpiphany.label "Epiphany">
-<!ENTITY importFromEpiphany.accesskey "E">
-<!ENTITY importFromGaleon.label "Galeon">
-<!ENTITY importFromGaleon.accesskey "G">
-<!ENTITY importFromHTMLFile.label "ពី​ឯកសារ HTML">
-<!ENTITY importFromHTMLFile.accesskey "F">
+<!ENTITY importFromIE.label             "Microsoft Internet Explorer ">
+<!ENTITY importFromIE.accesskey         "M">
+<!ENTITY importFromNothing.label        "កុំ​នាំចូល​អ្វីៗ​ទាំងអស់">
+<!ENTITY importFromNothing.accesskey    "ក">
+<!ENTITY importFromSeamonkey.label      "Netscape 6, 7 ឬ Mozilla 1.x">
+<!ENTITY importFromSeamonkey.accesskey  "N">
+<!ENTITY importFromOpera.label          "Opera">
+<!ENTITY importFromOpera.accesskey      "O">
+<!ENTITY importFromSafari.label         "Safari">
+<!ENTITY importFromSafari.accesskey     "S">
+<!ENTITY importFromHTMLFile.label       "ពី​ឯកសារ HTML">
+<!ENTITY importFromHTMLFile.accesskey   "ព">
 
-<!ENTITY noMigrationSources.label "រក​មិន​ឃើញ​កម្មវិធី​ដែល​មាន ចំណាំ ប្រវត្តិ ឬ​ទិន្នន័យ​ពាក្យ​សម្ងាត់​ទេ ។">
+<!ENTITY noMigrationSources.label       "រក​មិន​ឃើញ​កម្មវិធី​ដែល​មាន ចំណាំ ប្រវត្តិ ឬ​ទិន្នន័យ​ពាក្យ​សម្ងាត់​ទេ ។">
 
-<!ENTITY importSource.title "នាំចូល​ការ​កំណត់ និង​ទិន្នន័យ">
-<!ENTITY importItems.title "វត្ថុ​ដែល​ត្រូវ​នាំចូល">
-<!ENTITY importItems.label "ជ្រើស​វត្ថុ​ណាមួយ​ ដែល​ត្រូវ​នាំចូល ៖">
+<!ENTITY importSource.title             "នាំចូល​ការ​កំណត់ និង​ទិន្នន័យ">
+<!ENTITY importItems.title              "ធាតុ​ដែល​ត្រូវ​នាំចូល">
+<!ENTITY importItems.label              "ជ្រើស​វត្ថុ​ណាមួយ​ ដែល​ត្រូវ​នាំចូល ៖">
 
-<!ENTITY migrating.title "កំពុង​នាំចូល...">
-<!ENTITY migrating.label "ធាតុ​ដូច​ខាង​ក្រោយ​បច្ចុប្បន្ន​កំពុង​ត្រូវ​បាននាំចូល...">
+<!ENTITY migrating.title                "កំពុង​នាំចូល...">
+<!ENTITY migrating.label                "ធាតុ​ដូច​ខាង​ក្រោយ​បច្ចុប្បន្ន​កំពុង​ត្រូវ​បាននាំចូល...">
 
-<!ENTITY selectProfile.title "ជ្រើស​ទម្រង់">
-<!ENTITY selectProfile.label "ទម្រង់​ខាងក្រោម​ អាច​នាំចូល​បាន​ពី ៖">
+<!ENTITY selectProfile.title            "ជ្រើស​ទម្រង់">
+<!ENTITY selectProfile.label            "ទម្រង់​ខាងក្រោម​ អាច​នាំចូល​បាន​ពី ៖">
 
-<!ENTITY done.title "ការ​នាំ​ចូល​បញ្ចប់​ទាំងស្រុង">
-<!ENTITY done.label "វត្ថុ​ខាងក្រោម​ ត្រូវ​បាន​នាំចូល​ដោយ​ជោគជ័យ ៖​">
+<!ENTITY done.title                     "ការ​នាំ​ចូល​បញ្ចប់​ទាំងស្រុង">
+<!ENTITY done.label                     "ធាតុ​ខាងក្រោម ត្រូវ​បាន​នាំចូល​ដោយ​ជោគជ័យ ៖">
+
 

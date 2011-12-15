@@ -1,4 +1,5 @@
-<!-- -*- Mode: SGML; indent-tabs-mode: nil; -*- --><!--
+<!-- -*- Mode: SGML; indent-tabs-mode: nil; -*- -->
+<!--
 
  ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
@@ -37,28 +38,28 @@
 
  ***** END LICENSE BLOCK ***** -->
 
+<!ENTITY            windowtitle.label      "&brandShortName; - ជ្រើស​ទម្រង់​អ្នក​ប្រើ">
 
-<!ENTITY windowtitle.label "&brandShortName; - ជ្រើស​ទម្រង់​អ្នក​ប្រើ">
+<!ENTITY            profilename.label      "ឈ្មោះ​ទម្រង់ ៖">
 
-<!ENTITY profilename.label "ឈ្មោះ​ទម្រង់ ៖">
+<!ENTITY            start.label            "ចាប់ផ្តើម &brandShortName;">
+<!ENTITY            exit.label             "ចេញ">
 
-<!ENTITY start.label "ចាប់ផ្តើម &brandShortName;">
-<!ENTITY exit.label "ចេញ">
+<!ENTITY            availprofiles.label    "ទម្រង់​ដែល​មាន">
 
-<!ENTITY availprofiles.label "ទម្រង់​ដែល​មាន">
+<!ENTITY            newButton.label        "បង្កើត​ទម្រង់…">
+<!ENTITY            newButton.accesskey    "ប">
+<!ENTITY            renameButton.label     "ប្ដូរ​ឈ្មោះ​ទម្រង់...">
+<!ENTITY            renameButton.accesskey "ប">
+<!ENTITY            deleteButton.label     "លុប​ទម្រង់…">
+<!ENTITY            deleteButton.accesskey "ល">
 
-<!ENTITY newButton.label "បង្កើត​ទម្រង់…">
-<!ENTITY newButton.accesskey "C">
-<!ENTITY renameButton.label "ប្ដូរ​ឈ្មោះ​ទម្រង់...">
-<!ENTITY renameButton.accesskey "R">
-<!ENTITY deleteButton.label "លុប​ទម្រង់…">
-<!ENTITY deleteButton.accesskey "D">
 <!-- manager entities -->
+<!ENTITY            pmDescription.label    "&brandShortName; រក្សាទុក​ព័ត៌មាន​អំពី​ការ​កំណត់ ចំណូលចិត្ត និង​ធាតុ​របស់​អ្នកប្រើ​ផ្សេងទៀត​នៅ​ក្នុង​ទម្រង់​អ្នកប្រើ​របស់​អ្នក ។">
 
-<!ENTITY pmDescription.label "&brandShortName; រក្សាទុកព័ត៌មានអំពីការកំណត់របស់អ្នក ចំណង់​ចំណូល​ចិត្ត និង​ធាតុ​របស់​អ្នក​ប្រើ​ផ្សេងៗ ក្នុង​ទម្រង់​អ្នក​ប្រើ​របស់អ្នក ។">
+<!ENTITY            offlineState.label    "ធ្វើ​ការ​ក្រៅ​បណ្ដាញ">
+<!ENTITY            offlineState.accesskey "ធ">
 
-<!ENTITY offlineState.label "ធ្វើ​ការ​ក្រៅ​បណ្តាញ">
-<!ENTITY offlineState.accesskey "o">
+<!ENTITY            autoSelect.label       "កុំ​សួរ​នៅ​ពេល​ចាប់ផ្តើម">
+<!ENTITY            autoSelect.accesskey   "ក">
 
-<!ENTITY autoSelect.label "កុំ​សួរ​នៅ​ពេល​ចាប់ផ្តើម">
-<!ENTITY autoSelect.accesskey "s">

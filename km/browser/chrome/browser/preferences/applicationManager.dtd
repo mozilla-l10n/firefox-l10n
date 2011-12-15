@@ -1,4 +1,5 @@
-<!ENTITY appManager.title "លម្អិតApplication details">
-<!ENTITY appManager.style "width: 30em; min-height: 20em;">
-<!ENTITY remove.label "យក​ចេញ​">
-<!ENTITY remove.accesskey "R">
+<!ENTITY appManager.title     "សេចក្ដី​លម្អិត​អំពី​កម្មវិធី">
+<!ENTITY appManager.style     "width: 30em; min-height: 20em;">
+<!ENTITY remove.label         "យកចេញ">
+<!ENTITY remove.accesskey     "យ">
+

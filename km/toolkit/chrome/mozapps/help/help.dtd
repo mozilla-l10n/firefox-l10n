@@ -1,0 +1,53 @@
+<!ENTITY printCmd.commandkey            "p">
+
+<!ENTITY findOnCmd.commandkey           "F">
+<!ENTITY findAgainCmd.commandkey        "G">
+<!ENTITY findAgainCmd.commandkey2       "VK_F3">
+
+<!ENTITY backButton.label               "ថយ​ក្រោយ">
+<!ENTITY backButton.accesskey           "ថ">
+<!ENTITY backButton.tooltip             "ថយក្រោយ​មួយ​ទំព័រ">
+<!ENTITY forwardButton.label            "ទៅ​មុខ">
+<!ENTITY forwardButton.accesskey        "ទ">
+<!ENTITY forwardButton.tooltip          "ទៅមុខ​មួយ​ទំព័រ">
+<!ENTITY copyCmd.label                  "ចម្លង">
+<!ENTITY copyCmd.accesskey              "ច">
+<!ENTITY selectAllCmd.label             "ជ្រើស​ទាំងអស់">
+<!ENTITY selectAllCmd.accesskey         "ជ">
+<!ENTITY goBackCmd.commandkey           "[">
+<!ENTITY goForwardCmd.commandkey        "]">
+<!ENTITY homeButton.label               "ដើម (Home)">
+<!ENTITY homeButton.tooltip             "ទៅ​កាន់​ទំព័រ​ចាប់ផ្ដើម​ជំនួយ">
+<!ENTITY printButton.label              "បោះពុម្ព">
+<!ENTITY printButton.tooltip            "បោះ​ពុម្ព​ទំព័រ​នេះ">
+<!ENTITY closeWindow.commandkey         "W">
+
+<!ENTITY search.emptytext               "ស្វែងរក">
+<!ENTITY searchHeader.label             "លទ្ធផល​ស្វែងរក">
+<!ENTITY toctab.label                   "មាតិកា">
+<!ENTITY toctab.accesskey               "ម">
+
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
+
+<!ENTITY helpSearch.commandkey          "k">
+
+<!ENTITY zLevel.label                   "នៅ​ខាងលើ​ជានិច្ច">
+<!ENTITY zLevel.accesskey               "ន">
+
+<!ENTITY fullZoomReduceBtn.label        "​បង្រួម">
+<!ENTITY fullZoomReduceBtn.accesskey    "​">
+<!ENTITY fullZoomEnlargeBtn.label       "​ពង្រីក">
+<!ENTITY fullZoomEnlargeBtn.accesskey   "​">
+

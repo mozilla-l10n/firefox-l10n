@@ -34,48 +34,49 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY window.title "អំពី ៖ កំណត់​រចនា​សម្ព័ន្ធ">
-<!-- about:config warning page --><!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
+<!ENTITY window.title "អំពី ៖ កំណត់​រចនាសម្ព័ន្ធ">
 
-
-<!ENTITY aboutWarningTitle.label "នេះ​អាច​ធ្វើ​ឲ្យ​ទទេ​ការ​ធានា​របស់​អ្នក!">
-<!ENTITY aboutWarningText.label "ផ្លាស់ប្ដូរ​ការ​កំណត់​កម្រិត​ខ្ពស់​ទាំងនេះ​អាច​បង្ក​អន្តរាយ​ដល់​ស្ថេរភាព សុវត្ថិភាព និង​ដំណើរ​ការ​នៃ​កម្មវិធី​នេះ ។ អ្នក​គួរ​តែ​បន្ត បើ​អ្នក​ប្រាកដ​ថា​អ្នក​កំពុង​ធ្វើ​អ្វី ។">
+<!-- about:config warning page -->
+<!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
+<!ENTITY aboutWarningTitle.label "នេះ​អាច​បណ្ដាល​ឲ្យ​ការ​ធានា​របស់​អ្នក​ក្លាយ​ជា​មោឃៈ !">
+<!ENTITY aboutWarningText.label "ការ​ផ្លាស់ប្ដូរ​ការ​កំណត់​កម្រិត​ខ្ពស់​ទាំងនេះ អាច​បណ្ដាល​ឲ្យ​អន្តរាយ​ដល់​ស្ថិរភាព សុវត្ថិភាព និង​ប្រតិបត្តិការ​របស់​កម្មវិធី ។ អ្នក​គួរតែ​បន្ត​ក្នុង​ករណី​ដែល​អ្នក​ប្រាកដ​ពី​អ្វី​ដែល​អ្នក​កំពុង​ធ្វើ​តែប៉ុណ្ណោះ ។">
 <!ENTITY aboutWarningButton.label "ខ្ញុំ​នឹង​ប្រុងប្រយ័ត្ន ខ្ញុំ​សន្យា!">
-<!ENTITY aboutWarningCheckbox.label "បង្ហាញ​អត្ថបទ​ព្រមាន​នេះ​ពេល​បន្ទាប់">
+<!ENTITY aboutWarningCheckbox.label "បង្ហាញ​ការ​ព្រមាន​នេះ នៅ​ពេល​ក្រោយ​ទៀត">
 
 <!ENTITY filterPrefs.label "តម្រង ៖">
-<!ENTITY filterPrefs.accesskey "F">
+<!ENTITY filterPrefs.accesskey "ត">
 <!ENTITY focusFilter.key "f">
-<!-- Columns -->
 
+<!-- Columns -->
 <!ENTITY prefColumn.label "ឈ្មោះ​ចំណូល​ចិត្ត">
 <!ENTITY lockColumn.label "ស្ថានភាព">
 <!ENTITY typeColumn.label "ប្រភេទ">
 <!ENTITY valueColumn.label "តម្លៃ">
+
 <!-- Tooltips -->
+<!ENTITY prefColumnHeader.tooltip "ចុច ​ដើម្បី​តម្រៀប"> 
+<!ENTITY columnChooser.tooltip "ចុ​ច ដើម្បីជ្រើស​ជួរ​ឈរ​ដែល​ត្រូវ​បង្ហាញ"> 
 
-<!ENTITY prefColumnHeader.tooltip "ចុច ​ដើម្បី​តម្រៀប">
-<!ENTITY columnChooser.tooltip "ចុ​ច ដើម្បីជ្រើស​ជួរ​ឈរ​ដែល​ត្រូវ​បង្ហាញ">
 <!-- Context Menu -->
-
-<!ENTITY copyPref.key "C">
+<!ENTITY copyPref.key "ច">
 <!ENTITY copyPref.label "ចម្លង">
-<!ENTITY copyPref.accesskey "C">
+<!ENTITY copyPref.accesskey "ច">
 <!ENTITY copyName.label "ចម្លង​ឈ្មោះ">
-<!ENTITY copyName.accesskey "N">
+<!ENTITY copyName.accesskey "ច">
 <!ENTITY copyValue.label "ចម្លង​តម្លៃ">
-<!ENTITY copyValue.accesskey "V">
+<!ENTITY copyValue.accesskey "ច">
 <!ENTITY modify.label "កែប្រែ">
-<!ENTITY modify.accesskey "M">
-<!ENTITY toggle.label "ខ្ទាស់">
-<!ENTITY toggle.accesskey "T">
+<!ENTITY modify.accesskey "ក">
+<!ENTITY toggle.label "បិទបើក">
+<!ENTITY toggle.accesskey "ប">
 <!ENTITY reset.label "កំណត់​ឡើង​វិញ">
-<!ENTITY reset.accesskey "R">
+<!ENTITY reset.accesskey "ក">
 <!ENTITY new.label "ថ្មី">
-<!ENTITY new.accesskey "w">
+<!ENTITY new.accesskey "ថ">
 <!ENTITY string.label "ខ្សែ​អក្សរ">
-<!ENTITY string.accesskey "S">
+<!ENTITY string.accesskey "ខ">
 <!ENTITY integer.label "ចំនួន​គត់">
-<!ENTITY integer.accesskey "I">
+<!ENTITY integer.accesskey "ច">
 <!ENTITY boolean.label "ប៊ូលីន">
-<!ENTITY boolean.accesskey "B">
+<!ENTITY boolean.accesskey "ប">
+

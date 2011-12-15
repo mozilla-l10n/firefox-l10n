@@ -1,4 +1,5 @@
-<!-- -*- Mode: HTML -*- --><!-- ***** BEGIN LICENSE BLOCK *****
+<!-- -*- Mode: HTML -*- -->
+<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -36,15 +37,15 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
+<!ENTITY title.label        "ប្ដូរ​ការ​អ៊ិនកូដ​តួ​អក្សរ​តាម​បំណង">
+<!ENTITY current.label      "ការ​អ៊ិនកូដ​តួអក្សរ​សកម្ម ៖">
+<!ENTITY remove.label       "យកចេញ">
+<!ENTITY remove.accessKey   "យ">
+<!ENTITY additional.label   "ការ​អ៊ិនកូដ​តួអក្សរ​ដែល​អាច​ប្រើ​បាន ៖">
+<!ENTITY add.label          "បន្ថែម">
+<!ENTITY add.accessKey      "ប">
+<!ENTITY moveUp.label       "​ផ្លាស់ទី​ឡើង​លើ">
+<!ENTITY moveUp.accessKey   "ផ">
+<!ENTITY moveDown.label     "ផ្លាស់ទី​ចុះក្រោម">
+<!ENTITY moveDown.accessKey "ផ">
 
-<!ENTITY title.label "ប្តូរ​សំណុំ​តួអក្សរ​តាមបំណង">
-<!ENTITY current.label "សំណុំ​តួ​អក្សរ​សកម្ម ៖">
-<!ENTITY remove.label "យក​ចេញ​">
-<!ENTITY remove.accessKey "R">
-<!ENTITY additional.label "សំណុំ​តួអក្សរ​ដែល​មាន ៖">
-<!ENTITY add.label "បន្ថែម">
-<!ENTITY add.accessKey "A">
-<!ENTITY moveUp.label "​ផ្លាស់ទី​ឡើង​លើ">
-<!ENTITY moveUp.accessKey "U">
-<!ENTITY moveDown.label "ផ្លាស់ទី​ចុះ​ក្រោម">
-<!ENTITY moveDown.accessKey "D">

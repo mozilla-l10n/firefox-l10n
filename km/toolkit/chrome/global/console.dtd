@@ -37,32 +37,33 @@
 
 <!ENTITY errorConsole.title "កុងសូល​កំហុស">
 
-<!ENTITY errFile.label "ឯកសារ​ប្រភព ៖">
-<!ENTITY errLine.label "បន្ទាត់ ៖">
+<!ENTITY errFile.label   "ឯកសារ​ប្រភព ៖">
+<!ENTITY errLine.label   "បន្ទាត់ ៖">
 <!ENTITY errColumn.label "ជួរឈរ ៖">
 
-<!ENTITY all.label "ទាំងអស់">
-<!ENTITY all.accesskey "A">
-<!ENTITY errors.label "កំហុស">
-<!ENTITY errors.accesskey "E">
-<!ENTITY warnings.label "ការ​ព្រមាន">
-<!ENTITY warnings.accesskey "W">
-<!ENTITY messages.label "សារ">
-<!ENTITY messages.accesskey "M">
-<!ENTITY clear.label "ជម្រះ">
-<!ENTITY clear.accesskey "C">
-<!ENTITY codeEval.label "កូដ ៖">
-<!ENTITY codeEval.accesskey "o">
-<!ENTITY evaluate.label "វាយ​តម្លៃ">
-<!ENTITY evaluate.accesskey "v">
+<!ENTITY all.label          "ទាំងអស់">
+<!ENTITY all.accesskey      "ទ">
+<!ENTITY errors.label       "កំហុស">
+<!ENTITY errors.accesskey   "ក">
+<!ENTITY warnings.label     "ការ​ព្រមាន">
+<!ENTITY warnings.accesskey "ក">
+<!ENTITY messages.label     "សារ">
+<!ENTITY messages.accesskey "ស">
+<!ENTITY clear.label        "សម្អាត">
+<!ENTITY clear.accesskey    "ស">
+<!ENTITY codeEval.label     "កូដ ៖">
+<!ENTITY codeEval.accesskey "ក">
+<!ENTITY evaluate.label     "វាយ​តម្លៃ">
+<!ENTITY evaluate.accesskey "វ">
 
-<!ENTITY copyCmd.label "ចម្លង">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY copyCmd.commandkey "C">
-<!ENTITY sortFirst.label "លំដាប់​តម្រៀប ដំបូង > ​ចុង​ក្រោយ">
-<!ENTITY sortFirst.accesskey "f">
-<!ENTITY sortLast.label "លំដាប់​តម្រៀប ចុងក្រោយ > ​ដំបូង">
-<!ENTITY sortLast.accesskey "l">
-<!ENTITY closeCmd.commandkey "w">
-<!ENTITY focus1.commandkey "l">
-<!ENTITY focus2.commandkey "d">
+<!ENTITY copyCmd.label       "ចម្លង">  
+<!ENTITY copyCmd.accesskey   "ច"> 
+<!ENTITY copyCmd.commandkey  "ច"> 
+<!ENTITY sortFirst.label     "លំដាប់​តម្រៀប ដំបូង > ​ចុង​ក្រោយ">
+<!ENTITY sortFirst.accesskey "ល">
+<!ENTITY sortLast.label      "លំដាប់​តម្រៀប ចុងក្រោយ > ​ដំបូង">
+<!ENTITY sortLast.accesskey  "ល">
+<!ENTITY closeCmd.commandkey "w">  
+<!ENTITY focus1.commandkey   "l">  
+<!ENTITY focus2.commandkey   "d">  
+

@@ -1,37 +1,41 @@
-<!ENTITY startup.label "ចាប់ផ្ដើម">
+<!ENTITY startup.label             "ចាប់ផ្ដើម">
 
-<!ENTITY startupPage.label "ពេល &brandShortName; ចាប់ផ្ដើម ៖">
-<!ENTITY startupPage.accesskey "s">
-<!ENTITY startupHomePage.label "បង្ហាញ​គេហ​ទំព័រ​របស់​ខ្ញុំ">
-<!ENTITY startupBlankPage.label "បង្ហាញ​ទំព័រ​ទទេ">
-<!ENTITY startupLastSession.label "បង្ហាញ​បង្អួច និង​ផ្ទាំង​របស់​ខ្ញុំ​កាល​ពី​មុន">
-<!ENTITY location.label "គេហ​ទំព័រ ៖">
-<!ENTITY location.accesskey "H">
-<!ENTITY useCurrentPage.label "​ប្រើ​ទំព័រ​បច្ចុប្បន្ន">
-<!ENTITY useCurrentPage.accesskey "C">
-<!ENTITY useMultiple.label "ប្រើ​ទំព័រ​បច្ចុប្បន្ន">
-<!ENTITY useBookmark.label "ប្រើ​ចំណាំ">
-<!ENTITY useBookmark.accesskey "B">
-<!ENTITY restoreDefault.label "ស្ដារ​ទៅ​លំនាំ​ដើម">
-<!ENTITY restoreDefault.accesskey "R">
+<!ENTITY startupPage.label         "ពេល &brandShortName; ចាប់ផ្ដើម ៖">
+<!ENTITY startupPage.accesskey     "S">
+<!ENTITY startupHomePage.label     "បង្ហាញ​គេហ​ទំព័រ​របស់​ខ្ញុំ">
+<!ENTITY startupBlankPage.label    "បង្ហាញ​ទំព័រ​ទទេ">
+<!ENTITY startupLastSession.label  "បង្ហាញ​បង្អួច និង​ផ្ទាំង​របស់​ខ្ញុំ​កាល​ពី​មុន">
+<!ENTITY restoreOnDemand.label     "កុំ​ផ្ទុក​ផ្ទាំង​ទាំងអស់ លុះត្រាតែ​បាន​ជ្រើស">
+<!ENTITY restoreOnDemand.accesskey "ក">
 
-<!ENTITY downloads.label "ទាញយក">
+<!ENTITY homepage.label            "គេហ​ទំព័រ ៖">
+<!ENTITY homepage.accesskey        "គ">
+<!ENTITY useCurrentPage.label      "​ប្រើ​ទំព័រ​បច្ចុប្បន្ន">
+<!ENTITY useCurrentPage.accesskey  "​">
+<!ENTITY useMultiple.label         "ប្រើ​ទំព័រ​បច្ចុប្បន្ន">
+<!ENTITY chooseBookmark.label      "ប្រើ​ចំណាំ…">
+<!ENTITY chooseBookmark.accesskey  "ប">
+<!ENTITY restoreDefault.label      "ស្ដារ​ទៅ​លំនាំ​ដើម">
+<!ENTITY restoreDefault.accesskey  "ស">
 
-<!ENTITY showWhenDownloading.label "បង្ហាញ​បង្អួច​ទាញយក ពេល​កំពុង​ទាញយក​ឯកសារ">
-<!ENTITY showWhenDownloading.accesskey "D">
+<!ENTITY downloads.label     "ទាញ​យក">
+
+<!ENTITY showWhenDownloading.label     "បង្ហាញ​បង្អួច​ទាញ​យក ពេល​កំពុង​ទាញ​យក​ឯកសារ">
+<!ENTITY showWhenDownloading.accesskey "ប">
 <!ENTITY closeWhenDone.label "បិទ​វា​ពេល​ការ​ទាញយក​ទាំងអស់​ត្រូវ​បាន​បញ្ចប់">
-<!ENTITY closeWhenDone.accesskey "w">
+<!ENTITY closeWhenDone.accesskey "ប">
 <!ENTITY saveTo.label "រក្សា​ទុក​ឯកសារ​ទៅ">
-<!ENTITY saveTo.accesskey "v">
-<!ENTITY chooseFolderWin.label "រក​មើល...">
-<!ENTITY chooseFolderWin.accesskey "o">
-<!ENTITY chooseFolderMac.label "ជ្រើស…">
-<!ENTITY chooseFolderMac.accesskey "e">
-<!ENTITY alwaysAsk.label "តែងតែ​សួរ​ខ្ញុំ​អំពី​កន្លែង​ដែល​ត្រូវ​រក្សាទុក​ឯកសារ ">
-<!ENTITY alwaysAsk.accesskey "A">
+<!ENTITY saveTo.accesskey "រ">
+<!ENTITY chooseFolderWin.label        "រក​មើល…">
+<!ENTITY chooseFolderWin.accesskey    "រ">
+<!ENTITY chooseFolderMac.label        "ជ្រើស…">
+<!ENTITY chooseFolderMac.accesskey    "ជ">
+<!ENTITY alwaysAsk.label "សួរ​ខ្ញុំ​ជានិច្ច​​អំពី​កន្លែង​ដែល​ត្រូវ​រក្សាទុក​ឯកសារ ">
+<!ENTITY alwaysAsk.accesskey "ស">
 
-<!ENTITY addonsMgr.label "កម្មវិធី​បន្ថែម">
-<!ENTITY manageAddonsDescWin.label "ផ្លាស់ប្ដូរ​ជម្រើស​សម្រាប់​ផ្នែក​បន្ថែម​របស់​អ្នក">
-<!ENTITY manageAddonsDescUnix2.label "ផ្លាស់ប្ដូរ​ចំណូល​ចិត្ត​សម្រាប់​ផ្នែកបន្ថែម​របស់អ្នក">
-<!ENTITY manageAddons.label "គ្រប់គ្រង​ផ្នែកបន្ថែម...">
-<!ENTITY manageAddons.accesskey "M">
+<!ENTITY addonsMgr.label               "កម្មវិធី​បន្ថែម">
+<!ENTITY manageAddonsDescWin.label     "ផ្លាស់ប្ដូរ​ជម្រើស​សម្រាប់​កម្មវិធី​​បន្ថែម​របស់​អ្នក">
+<!ENTITY manageAddonsDescUnix2.label   "ផ្លាស់ប្ដូរ​ចំណូល​ចិត្ត​សម្រាប់​កម្មវិធី​បន្ថែម​របស់​អ្នក">
+<!ENTITY manageAddons.label            "គ្រប់គ្រង​កម្មវិធី​បន្ថែម...">
+<!ENTITY manageAddons.accesskey        "គ">
+
