@@ -1,0 +1,28 @@
+<!ENTITY window.width                       "36em">
+
+<!ENTITY     cookiesonsystem.label          "Cookies yii ñi ngi sa biir ordinatëër :">
+<!ENTITY     cookiename.label               "Turu cookie bi">
+<!ENTITY     cookiedomain.label             "Dal"> 
+<!ENTITY     button.removecookies.label     "Màbbal cookie yi">
+<!ENTITY     button.removecookie.label      "Màbbal cookie">
+<!ENTITY     button.removecookie.accesskey  "M">
+<!ENTITY     button.removeallcookies.label  "Màbbal cookies yépp">
+<!ENTITY     button.removeallcookies.accesskey "y">
+
+<!ENTITY     props.name.label               "Tur :">
+<!ENTITY     props.value.label              "Ëmb gi :">
+<!ENTITY     props.domain.label             "Gan :">
+<!ENTITY     props.path.label               "Yoon:">
+<!ENTITY     props.secure.label             "Yonnee ngir :">
+<!ENTITY     props.expires.label            "Jeex :">
+
+<!ENTITY     window.title                   "Cookies">
+<!ENTITY     windowClose.key                "w">
+<!ENTITY     focusSearch1.key               "f">
+<!ENTITY     focusSearch2.key               "k">
+
+<!ENTITY     filter.label                   "Wut :">
+<!ENTITY     filter.accesskey               "W">
+
+<!ENTITY     button.close.label             "Tëj">
+<!ENTITY     button.close.accesskey         "T">

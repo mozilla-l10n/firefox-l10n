@@ -1,0 +1,80 @@
+<!ENTITY tracking.label                 "Topp tànk">
+
+<!ENTITY doNotTrack.label               "Wax dalub web yi ñu bañ ma topp">
+<!ENTITY doNotTrack.accesskey           "d">
+
+<!ENTITY  history.label                 "Jaar jaar">
+
+<!ENTITY  locationBar.label             "Banqaasu màkkaan">
+
+<!ENTITY  locbar.pre.label              "Boo dee jëfandikoo banqaasu màkkaan, nga xelal :">
+<!ENTITY  locbar.pre.accessKey          "j">
+<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.both.label             "Jaar jaar ak mandarga xët yi">
+<!ENTITY  locbar.history.label          "Jaar jaar">
+<!ENTITY  locbar.bookmarks.label        "Mandarga xët yi">
+<!ENTITY  locbar.nothing.label          "Dara">
+
+
+<!ENTITY  acceptCookies.label           "Nangu cookies yi">
+<!ENTITY  acceptCookies.accesskey       "a">
+
+<!ENTITY  acceptThirdParty.label        "Nangu yeneen cookies yi">
+<!ENTITY  acceptThirdParty.accesskey    "N">
+
+<!ENTITY  keepUntil.label               "Denc leen ba :">
+<!ENTITY  keepUntil.accesskey           "l">
+
+<!ENTITY  expire.label                  "seen jeexital">
+<!ENTITY  close.label                   "tëjum &brandShortName;">
+<!ENTITY  askEachTime.label             "nga laaj ma saa su nekk">
+
+<!ENTITY  cookieExceptions.label        "Seppi yi…">
+<!ENTITY  cookieExceptions.accesskey    "S">
+
+<!ENTITY  showCookies.label             "Wane cookies yi…">
+<!ENTITY  showCookies.accesskey         "c">
+
+<!ENTITY  historyHeader.pre.label          "Yooni denc :">
+<!ENTITY  historyHeader.pre.accesskey      "d">
+<!ENTITY  historyHeader.remember.label     "Denc jaar jaar bi">
+<!ENTITY  historyHeader.dontremember.label "Bul denc mukk jaar jaar bi">
+<!ENTITY  historyHeader.custom.label       "Jëfandikoo parameetar yi ñu solal">
+<!ENTITY  historyHeader.post.label         "">
+
+<!ENTITY  rememberDescription.label      "&brandShortName; dina denc xibaari joow mi, yeb yi, formileer yi ak jaar jaaru wut, ak cookies dal yi yu gane ji.">
+<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+
+<!ENTITY  rememberActions.pre.label           "Xëyna da nga bëgg ">
+<!ENTITY  rememberActions.clearHistory.label  "far sa jaar jaar yi mujj">
+<!ENTITY  rememberActions.middle.label        ", walla ">
+<!ENTITY  rememberActions.removeCookies.label "far cookies yi beru">
+<!ENTITY  rememberActions.post.label          ".">
+
+<!ENTITY  dontrememberDescription.label  "&brandShortName; dina jëfandikoo parameetar yii ci joowum biir, te du denc benn jaar jaaru joow mi.">
+<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+
+<!ENTITY  dontrememberActions.pre.label          "Da nga bëgg xëyna ">
+<!ENTITY  dontrememberActions.clearHistory.label "far jaar jaar bi yépp">
+<!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  privateBrowsingPermanent2.label "Saa su nekk jëfandikoo anamu joowum biir">
+<!ENTITY  privateBrowsingPermanent2.accesskey "j">
+
+<!ENTITY  rememberHistory.label      "Denc jaar jaaru njoow mi">
+<!ENTITY  rememberHistory.accesskey  "c">
+
+<!ENTITY  rememberDownload.label         "Denc jaar jaaru yeb yi">
+<!ENTITY  rememberDownload.accesskey     "y">
+
+<!ENTITY  rememberSearchForm.label       "Denc jaar jaaru wut yi ak formileer yi">
+<!ENTITY  rememberSearchForm.accesskey   "f">
+
+<!ENTITY  clearOnClose.label             "Dindi jaar jaar yi boo dee tëj &brandShortName;">
+<!ENTITY  clearOnClose.accesskey         "D">
+
+<!ENTITY  clearOnCloseSettings.label     "Parameetar…">
+<!ENTITY  clearOnCloseSettings.accesskey "P">

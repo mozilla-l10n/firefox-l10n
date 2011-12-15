@@ -1,0 +1,136 @@
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+<!ENTITY places.library.title  "Kaggu">
+<!ENTITY places.library.width  "700">
+<!ENTITY places.library.height "500">
+<!ENTITY organize.label        "Doxal">
+<!ENTITY organize.accesskey    "D">
+<!ENTITY organize.tooltip      "Toppatoo mandarga xët yi">
+
+<!ENTITY file.close.label               "Tëj">
+<!ENTITY file.close.accesskey           "T">
+<!ENTITY cmd.close.key                  "w">
+<!ENTITY views.label                    "Wone yi">
+<!ENTITY views.accesskey                "W">
+<!ENTITY views.tooltip                  "Soppali wone gi">
+<!ENTITY view.columns.label             "Wone xàll yi">
+<!ENTITY view.columns.accesskey         "x">
+<!ENTITY view.sort.label                "Tànn">
+<!ENTITY view.sort.accesskey            "T">
+<!ENTITY view.unsorted.label            "Bu àndul tànn">
+<!ENTITY view.unsorted.accesskey        "B">
+<!ENTITY view.sortAscending.label       "Toftale yéeg (A > Z)">
+<!ENTITY view.sortAscending.accesskey   "A">
+<!ENTITY view.sortDescending.label      "Toftale wacc (Z > A)">
+<!ENTITY view.sortDescending.accesskey  "Z">
+
+<!ENTITY cmd.findInBookmarks.label      "Wut ci biir mandarga xët yi…">
+<!ENTITY cmd.findInBookmarks.accesskey  "W">
+<!ENTITY cmd.findCurrent.label          "Wut ci biir pal mi teew…">
+<!ENTITY cmd.findCurrent.accesskey      "u">
+
+<!ENTITY importBookmarksFromHTML.label     "Fat ay mandarga xët ci daytalu HTML…">
+<!ENTITY importBookmarksFromHTML.accesskey "F">
+<!ENTITY exportBookmarksToHTML.label       "Jàllale mandarga xët yi ci daytalu HTML…">
+<!ENTITY exportBookmarksToHTML.accesskey   "J">
+<!ENTITY importOtherBrowser.label          "Fat ay rootaan dale ko ci Another Browser…">
+<!ENTITY importOtherBrowser.accesskey      "A">
+
+<!ENTITY cmd.backup.label               "Aar…">
+<!ENTITY cmd.backup.accesskey           "A">
+<!ENTITY cmd.restore2.label             "Delloo na oon">
+<!ENTITY cmd.restore2.accesskey         "D">
+<!ENTITY cmd.restoreFromFile.label      "Tànn benn dencukaay…">
+<!ENTITY cmd.restoreFromFile.accesskey  "T">
+
+<!ENTITY cmd.bookmarkLink.label         "Mandargaal xët bile…">
+<!ENTITY cmd.bookmarkLink.accesskey     "M">
+<!ENTITY cmd.delete.label               "Màbb xët bile">
+<!ENTITY cmd.delete.accesskey           "M">
+<!ENTITY cmd.deleteDomainData.label     "Fatte dal bile">
+<!ENTITY cmd.deleteDomainData.accesskey "F">
+
+<!ENTITY cmd.open.label                  "Ubbi">
+<!ENTITY cmd.open.accesskey              "U">
+<!ENTITY cmd.open_window.label           "Ubbi palanteer bu bees">
+<!ENTITY cmd.open_window.accesskey       "p">
+<!ENTITY cmd.open_tab.label              "Ubbi koñ bu bees">
+<!ENTITY cmd.open_tab.accesskey          "k">
+<!ENTITY cmd.open_all_in_tabs.label      "Ubbi lépp ci ay koñ">
+<!ENTITY cmd.open_all_in_tabs.accesskey  "l">
+
+<!ENTITY cmd.properties.label      "Jikko yi">
+<!ENTITY cmd.properties.accesskey  "J">
+
+<!ENTITY cmd.sortby_name.label              "Toftale ci ay tur">
+<!ENTITY cmd.sortby_name.accesskey          "T">
+<!ENTITY cmd.context_sortby_name.accesskey  "r">
+
+<!ENTITY cmd.new_bookmark.label            "Mandarga xët bu bees…">
+<!ENTITY cmd.new_bookmark.accesskey        "M">
+<!ENTITY cmd.new_folder.label              "Wayndare bu bees…">
+<!ENTITY cmd.new_folder.accesskey          "W">
+<!ENTITY cmd.context_new_folder.accesskey  "F">
+<!ENTITY cmd.new_separator.label           "Teqalekat bu bees">
+<!ENTITY cmd.new_separator.accesskey       "T">
+
+<!ENTITY cmd.reloadLivebookmark.label      "Yeesal dugal yi">
+<!ENTITY cmd.reloadLivebookmark.accesskey  "Y">
+
+<!ENTITY cmd.moveBookmarks.label                  "Toxal…">
+<!ENTITY cmd.moveBookmarks.accesskey              "T">
+
+<!ENTITY col.name.label          "Tur">
+<!ENTITY col.tags.label          "Etiket yi">
+<!ENTITY col.url.label           "Màkkaan">
+<!ENTITY col.lastvisit.label     "Besu gane">
+<!ENTITY col.visitcount.label    "Waññu gane yi">
+<!ENTITY col.keyword.label       "Caabi baat">
+<!ENTITY col.description.label   "Nettali bi">
+<!ENTITY col.dateadded.label     "Besu yokk">
+<!ENTITY col.lastmodified.label  "Besu soppali mi">
+
+<!ENTITY search.label                              "Wut:">
+<!ENTITY search.accesskey                          "W">
+
+<!ENTITY search.in.label                           "Wut ci biir:">
+<!ENTITY search.scopeFolder.label                  "Wayndare bi falu">
+<!ENTITY search.scopeFolder.accesskey              "f">
+<!ENTITY search.scopeBookmarks.label               "Mandarga xët">
+<!ENTITY search.scopeBookmarks.accesskey           "M">
+<!ENTITY search.scopeDownloads.label               "Yeb yi">
+<!ENTITY search.scopeDownloads.accesskey           "Y">
+<!ENTITY search.scopeHistory.label                 "Jaar jaar">
+<!ENTITY search.scopeHistory.accesskey             "J">
+<!ENTITY saveSearch.label                          "Aar">
+<!ENTITY saveSearch.accesskey                      "A">
+
+<!ENTITY cmd.find.key  "f">
+
+<!ENTITY maintenance.label      "Fat te aar">
+<!ENTITY maintenance.accesskey  "F">
+<!ENTITY maintenance.tooltip    "Fat te aar mandarga xët yi">
+
+<!ENTITY backButton.tooltip  "Dellu ginnaaw">
+
+<!ENTITY forwardButton.tooltip  "Dem kanam">
+
+<!ENTITY detailsPane.more.label "Gën bari">
+<!ENTITY detailsPane.more.accesskey "b">
+<!ENTITY detailsPane.less.label "Tuuti">
+<!ENTITY detailsPane.less.accesskey "T">
+<!ENTITY detailsPane.selectAnItemText.description "Fal benn mbir ngir wone ak soppali jikko yi">
+
+<!ENTITY find.label               "Wut:">
+<!ENTITY find.accesskey           "W">
+<!ENTITY view.label               "Tànn">
+<!ENTITY view.accesskey           "T">
+<!ENTITY byDate.label             "Beso bes">
+<!ENTITY byDate.accesskey         "B">
+<!ENTITY bySite.label             "Daloo dal">
+<!ENTITY bySite.accesskey         "o">
+<!ENTITY byMostVisited.label      "Ci limu ganesi yi">
+<!ENTITY byMostVisited.accesskey  "C">
+<!ENTITY byLastVisited.label      "Ci besu ganesi bi mujj">
+<!ENTITY byLastVisited.accesskey  "g">
+<!ENTITY byDayAndSite.label       "Ci bes ak ci dal">
+<!ENTITY byDayAndSite.accesskey   "b">

@@ -1,0 +1,17 @@
+<!ENTITY newWindowsAsTabs.label       "Ubbi koñ bu bees">
+<!ENTITY newWindowsAsTabs.accesskey   "U">
+
+<!ENTITY warnCloseMultipleTabs.label  "Yëgle su koñ yu bari dee tëj">
+<!ENTITY warnCloseMultipleTabs.accesskey  "k">
+
+<!ENTITY warnOpenManyTabs.label       "Yëgle yéexaayu &brandShortName; su koñ yu bari dee ubbeekunoo">
+<!ENTITY warnOpenManyTabs.accesskey   "Y">
+
+<!ENTITY showTabBar.label             "Wane saa su ne banqaasu koñ yi">
+<!ENTITY showTabBar.accesskey         "W">
+
+<!ENTITY switchToNewTabs.label        "Su buum di ubbeeku ci biir koñ, waŋarñil mu jëm ci koñ bi">
+<!ENTITY switchToNewTabs.accesskey    "b">
+
+<!ENTITY showTabsInTaskbar.label          "Wone seenub koñ yi ci banqaasu sas bu windows">
+<!ENTITY showTabsInTaskbar.accesskey      "n">

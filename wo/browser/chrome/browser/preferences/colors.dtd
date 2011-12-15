@@ -1,0 +1,22 @@
+<!ENTITY  colorsDialog.title              "Melo yi">
+<!ENTITY  window.width                    "54em">
+<!ENTITY  window.macWidth                 "54em">
+
+<!ENTITY  allowPagesToUse.label           "May xët yi ñu tànn seen melo bopp yu wuute ak yi ñu tànn fii ci kaw">
+<!ENTITY  allowPagesToUse.accesskey       "M">
+
+<!ENTITY  color                           "Mbind ak laltu">
+<!ENTITY  textColor.label                 "Mbind :">
+<!ENTITY  textColor.accesskey             "M">
+<!ENTITY  backgroundColor.label           "Laltu :">
+<!ENTITY  backgroundColor.accesskey       "L">
+<!ENTITY  useSystemColors.label           "Jëfandikoo melo doxalin bi">
+<!ENTITY  useSystemColors.accesskey       "J">
+
+<!ENTITY  underlineLinks.label            "Rëdd buum yi">
+<!ENTITY  underlineLinks.accesskey        "u">
+<!ENTITY  links                           "Melo buum yi">
+<!ENTITY  linkColor.label                 "Buum yi ñu ganejiwul :">
+<!ENTITY  linkColor.accesskey             "B">
+<!ENTITY  visitedLinkColor.label          "Buum yi ñu ganeji :">
+<!ENTITY  visitedLinkColor.accesskey      "g">

@@ -1,0 +1,145 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+<!ENTITY loadError.label "Jumte ci yebum xët wi">
+<!ENTITY retry.label "Jéemaatal">
+<!-- Specific error messages -->
+
+
+<!ENTITY connectionFailure.title "Jokkoo bi lajj na">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+
+<!ENTITY deniedPortAccess.title "Màkkaan bi dañu ko tere">
+<!ENTITY deniedPortAccess.longDesc "">
+
+<!ENTITY dnsNotFound.title "Servëër kenn gisuko">
+<!ENTITY dnsNotFound.longDesc "<ul> 
+<li>Settantal mbindum makkaan bi 
+<strong>ww</strong>.example.com instead of 
+<strong>www</strong>.example.com</li> 
+<li>Su fekke mënuloo joow ci benn dal, seetal sa jokkoo 
+connection.</li> 
+<li>Su fekkee ni sa ordinatëër walla sa lëkkale gi aar nanu leen ak paarfë walla proxy, nemmeekul ni 
+ &brandShortName; am na ndigal ag ci web bi.</li> 
+</ul>">
+
+<!ENTITY fileNotFound.title "Dencukaay bu kenn gisul">
+<!ENTITY fileNotFound.longDesc "<ul> 
+<li>Settantal mbindu turu dencukaay bi .</li> 
+<li>Seetal ndax kenn randalul dencukaay bi, walla ñu jox ko beneen tur mbaa ñu mabb ko.</li> 
+</ul>">
+
+
+<!ENTITY generic.title "Laaj bi mënul sotti.">
+<!ENTITY generic.longDesc "<p>Xamu ñu lu tax, &brandShortName; mënula yeb xët wi</p>">
+
+<!ENTITY malformedURI.title "Makkan bi jagul">
+<!ENTITY malformedURI.longDesc "<ul> 
+<li>Makkaani web nii lay faral di bindoo 
+<strong>http://www.example.com/</strong></li> 
+<li>Na la wóór ni yaa ngiy jëfandikoo rëdd yu wengalu (i.e. 
+<strong>/</strong>).</li> 
+</ul>">
+
+<!ENTITY netInterrupt.title "Jokkoo bi taxaw na">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+
+<!ENTITY netOffline.title "Anamu jokkoodiku">
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>Bësal &quot;Jéemaatal&quot; dem ci anamu jokkoo te nga fataat xët wi.</li> 
+</ul>">
+
+<!ENTITY contentEncodingError.title "Jumte ci suulaale ëmb gi">
+<!ENTITY contentEncodingError.longDesc "<ul> 
+<li>Jéemal wax ak boroom dalub web bi ngir biral ko jafe jafe bi.</li> 
+</ul>">
+
+<!ENTITY unsafeContentType.title "Giri dencukaay yi wóoru ñu">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Jéemal wax ak boroom dalub web bi ngir biral ko jafe jafe bi.</li> 
+</ul>">
+
+<!ENTITY netReset.title "Yeesalaat nanu jokkoo bi">
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
+
+<!ENTITY netTimeout.title "Diiru jokkoo bi jeex na">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+
+<!ENTITY protocolNotFound.title "Makkaan bi kenn xamuko">
+<!ENTITY protocolNotFound.longDesc "<ul> 
+<li>Da nga war samp beneen jëfekaay ngir mëna ubbi giiru makkaan bile.</li> 
+</ul>">
+
+<!ENTITY proxyConnectFailure.title "Servëër proxy bi nanguwul jokkoo bi">
+<!ENTITY proxyConnectFailure.longDesc "<ul> 
+<li>Seetal ndax paraameetaru proxy bi jaar nanu yoon.</li> 
+<li>Jokkool ak sa saytukatu lëkkale ngir xam ndax serwëër proxy baa ngiy dox .</li> 
+</ul>">
+
+<!ENTITY proxyResolveFailure.title "Kenn mënula gis serwëër proxy bi">
+<!ENTITY proxyResolveFailure.longDesc "<ul> 
+<li>Seetal ndax paraameetaru proxy bi jaar nanu yoon..</li> 
+<li>Seetal ndax sa jokkoo lëkkale bu sa ordinatëër mi ngiy dox.</li> 
+<li>Su fekkee sa ordi walla sa lëkkale paarfë walla proxy dañu leen aar , seetal ndax
+ &brandShortName; am ndigal aggg ci Web bi.</li> 
+</ul>">
+
+<!ENTITY redirectLoop.title "Xët wi kenn jubaluko bu baax">
+<!ENTITY redirectLoop.longDesc "<ul> 
+<li>Li indi jafe jafe bii mën na nekk suuxal mba bañ 
+cookies.</li> 
+</ul>">
+
+<!ENTITY unknownSocketType.title "Tontu bu kenn xalaatulwoon ci serwëër bi">
+<!ENTITY unknownSocketType.longDesc "<ul> 
+<li>Seetal ndax sa saytukatu kaarange bopp
+sampu na ci sa doxalin.</li> 
+<li>Mën na doon tabbinu serwëër bi la.</li> 
+</ul>">
+
+<!ENTITY nssFailure2.title "Lajju jokkoo bi ànd ak kaarange">
+<!ENTITY nssFailure2.longDesc "<ul> 
+<li>Xët wi nga bëgg seet kenn mënukoo wone ndax rootaan kenn mëneesuleena xam ndax dëggu nañu walla déeet.</li> 
+<li>Jokkool ak boroomi dalub web ngir yëgle jafe jafe bi. Mën nga itam jëfandikoo santaane bi nekk ci njëlu ndimbal ngir wone dal bu doxul</li> 
+</ul>">
+
+<!ENTITY nssBadCert.title "Lajjum jokkoo bi and ak kaarange">
+<!ENTITY nssBadCert.longDesc2 "<ul> 
+<li>Lii më na nekk ni ñu tabbe serwëër bi walla mu nekk nit kuy jeema nangu dantite serwëër bi 
+.</li> 
+<li>Su fekkee mës nga jokko ak serwëër bile, mën na am njumte bi du yagg
+mën nga jéemaat ci kanam.</li> 
+</ul>">
+
+<!ENTITY sharedLongDesc "<ul><li>Dal bi mën na nekk kenn mënu cee jot walla mu bari liggéey jeemaaatal ci kanam</li><li>Su fekkee mënuloo joow ci benn dal, seetal sa jokkoo ordinatëër ak lëkkale gi.</li><li>Su fekkee sa ordinatëër walla sa lëkkale danu leen aar ak paarfë walla benn proxy seetal ndax &brandShortName; am ndigal agg ci Web bi.</li></ul>">
+
+<!ENTITY malwareBlocked.title "Ñaaw njort ci dal bu bon !">
+<!ENTITY malwareBlocked.longDesc "<p>Ay dal yu bon ñi ngiy jéema samp ay porogaraam yuy sacc say xibaari bopp,di jëfandikoo sa ordinatëër ngir song yeneen walla yaq sa doxalin.</p> 
+<p>Boroom dal yi fook ni da ñu leen tuumaal <a href='http://www.stopbadware.org/home/reviewinfo'>ab nafar</a>.</p>">
+
+<!ENTITY phishingBlocked.title "Dal bi royaal la !">
+<!ENTITY phishingBlocked.longDesc "<p>Dugal say xibaari bopp ci xët bile mën na tax ñu sacc sa dantite walla beneen foród.</p> 
+<p>Giiri dali royaal yu ni mel dañu leen di jëfandikoo ci ay e mail foród ngir di song songu dolinka, da ñuy toppandoo ay cosaan yoo wóolu .</p>">
+
+<!ENTITY cspFrameAncestorBlocked.title "Boloke ak benn taxawayu kaaraange këmb">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; dafa tere yebum xët wi ci noonu ndax xët wi dafa am taxawaayu kaaraange këmb bu ko nanguwul.</p>">
+
+<!ENTITY corruptedContentError.title "Njumte ci këmb bu sankar">
+<!ENTITY corruptedContentError.longDesc "<p>Xët wi nga bëgg xool mënul wone wu ndax dafay jëfandikoo xeetu naj bu jagul walla kenn tëggaalewuko.</p><ul><li> Jokkool ak webmaster bu dal bi ngir yëgal ko jafe jafe bi.</li></ul>">
+
+
+<!ENTITY securityOverride.linkText "Walla mën nga yokk lu kenn tëggaalewul…">
+<!ENTITY securityOverride.getMeOutOfHereButton "Génnal xët wi !">
+<!ENTITY securityOverride.exceptionButtonLabel "Yokk lu kenn tëggaalewul…">
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <button> tags. It uses strings already defined above. The
+button is included here (instead of netError.xhtml) because it exposes
+functionality specific to firefox. -->
+
+
+<!ENTITY securityOverride.warningContent "<p>Waruloo yokk lu kenn tëggaalewul boo dee jëfandikoo jokkoo internet boo wóoluwul walla boo tammul di jot ay artu ci serwëër bi .</p> 
+ 
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+
+<!ENTITY remoteXUL.title "XUL bu sori">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Jokkool ak boroomi dalul web bi ngir wax leen jafe jafe bi.</li></ul></p>">

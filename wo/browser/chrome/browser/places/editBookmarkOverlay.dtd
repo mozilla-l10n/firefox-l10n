@@ -1,0 +1,24 @@
+<!ENTITY editBookmarkOverlay.name.label                      "Tur:">
+<!ENTITY editBookmarkOverlay.name.accesskey                  "T">
+<!ENTITY editBookmarkOverlay.location.label                  "Màkkaan :">
+<!ENTITY editBookmarkOverlay.location.accesskey              "M">
+<!ENTITY editBookmarkOverlay.feedLocation.label              "Màkkaanu baawaan:">
+<!ENTITY editBookmarkOverlay.feedLocation.accesskey          "w">
+<!ENTITY editBookmarkOverlay.siteLocation.label              "Màkkaanu dal:">
+<!ENTITY editBookmarkOverlay.siteLocation.accesskey          "d">
+<!ENTITY editBookmarkOverlay.folder.label                    "Wayndare">
+<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Wone wayndare mandarga xët yi">
+<!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Nëbb">
+<!ENTITY editBookmarkOverlay.tags.label                      "Etiket yi:">
+<!ENTITY editBookmarkOverlay.tags.accesskey                  "E">
+<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Etiket yu ñu teqale ak ay xos">
+<!ENTITY editBookmarkOverlay.description.label               "Nettali gi:">
+<!ENTITY editBookmarkOverlay.description.accesskey           "N">
+<!ENTITY editBookmarkOverlay.keyword.label                   "Caabi baat:">
+<!ENTITY editBookmarkOverlay.keyword.accesskey               "C">
+<!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Wone etiket yépp">
+<!ENTITY editBookmarkOverlay.loadInSidebar.label             "Yebal mandarga xët bile ci benn pano wet">
+<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "Y">
+<!ENTITY editBookmarkOverlay.choose.label                    "Tànn…">
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "Wayndare bu bees">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "W">

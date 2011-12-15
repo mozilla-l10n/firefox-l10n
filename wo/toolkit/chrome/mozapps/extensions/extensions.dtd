@@ -1,0 +1,203 @@
+<!ENTITY addons.windowTitle                   "Saytukatu modili mottali yi">
+<!ENTITY search.placeholder                   "Wut ci biir modili yokk yépp">
+<!ENTITY loading.label                        "Yeb mi…">
+<!ENTITY listEmpty.installed.label            "Amuloo benn modil bu mel nii te sampu">
+<!ENTITY listEmpty.availableUpdates.label     "Amul benn yeesal">
+<!ENTITY listEmpty.recentUpdates.label        "Toog nga lu yàgg yeesaloo say modili mottali">
+<!ENTITY listEmpty.findUpdates.label          "Wut ay yeesal">
+<!ENTITY listEmpty.search.label               "Amul benn modil bu mengoo">
+<!ENTITY listEmpty.button.label               "Gënati jàngaat ci modili mottali yi">
+<!ENTITY installAddonFromFile.label           "Samp modil dale ko ci…">
+<!ENTITY installAddonFromFile.accesskey       "S">
+<!ENTITY toolsMenu.tooltip                    "Jumtukaayi modil yépp">
+
+<!ENTITY cmd.back.tooltip                     "Dellu ginnaaw benn xët">
+<!ENTITY cmd.forward.tooltip                  "Jëm kanam benn xët">
+<!-- global warnings -->
+
+<!ENTITY warning.safemode.label                    "Anamu ñakk lajj suuxal na modili yokk yépp.">
+<!ENTITY warning.checkcompatibility.label          "Wóorliku andu modili mottali yi dafa suux. Xëyna dafa am ay modil yu mënula and.">
+<!ENTITY warning.checkcompatibility.enable.label   "Suqali">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Suqali seetlu yi ànd">
+<!ENTITY warning.updatesecurity.label              "Wóoralu yeesali kaarange modili mottali yi dafa suux. Xëyna da nga am ay modili mottali yu wóorul.">
+<!ENTITY warning.updatesecurity.enable.label       "Suqali">
+<!ENTITY warning.updatesecurity.enable.tooltip     "Suqali wóoralu yeesali kaaraange yu modili mottali yi">
+<!-- global informations -->
+
+<!ENTITY info.plugincheck.label                 "Seetal ndax plugins yi yees nañu">
+<!ENTITY info.plugincheck.tooltip               "Seetal ndax plugins yi yees nañu">
+<!-- categories / views -->
+
+<!ENTITY view.search.label                    "Wut">
+<!ENTITY view.discover.label                  "Katalog">
+<!ENTITY view.recentUpdates.label             "Yeesal">
+<!ENTITY view.availableUpdates.label          "Yeesal yi féex">
+<!-- addon updates -->
+
+<!ENTITY updates.checkForUpdates.label        "Wut ay yeesal">
+<!ENTITY updates.checkForUpdates.accesskey    "W">
+<!ENTITY updates.viewUpdates.label            "Wone yeesal yi bees">
+<!ENTITY updates.viewUpdates.accesskey        "W">
+<!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
+     is a checkbox that toggles the default global behavior for add-on update
+     checking. -->
+<!ENTITY updates.updateAddonsAutomatically.label     "Yeesal boppam modil yi">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "Y">
+<!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
+     Specific addons can have custom update checking behaviors ("Manually",
+     "Automatically", "Use default global behavior"). These menu items reset the
+     update checking behavior for all add-ons to the default global behavior
+     (which itself is either "Automatically" or "Manually", controlled by the
+     updates.updateAddonsAutomatically.label menu item). -->
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Suqali yeesalu boppam bu bépp modil">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "S">
+<!ENTITY updates.resetUpdatesToManual.label          "Suuxal yeesalu boppam bu bépp modil">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "S">
+<!ENTITY updates.updating.label               "Yeesal modil yi">
+<!ENTITY updates.installed.label              "Say modil yees nañu.">
+<!ENTITY updates.downloaded.label             "Say yeesali modil yebu nañu.">
+<!ENTITY updates.restart.label                "Tambaliwaatal ngir sottal samp wi.">
+<!ENTITY updates.noneFound.label              "Amul benn yeesal bu féex">
+<!ENTITY updates.manualUpdatesFound.label     "Wone yeesal yi féex">
+<!ENTITY updates.updateSelected.label         "Samp yeesal yi">
+<!ENTITY updates.updateSelected.tooltip       "Samp yeesal yi féex ci lim bii">
+<!-- addon actions -->
+
+<!ENTITY cmd.showDetails.label                "Wone xibaar yi">
+<!ENTITY cmd.showDetails.accesskey            "W">
+<!ENTITY cmd.findUpdates.label                "Wut yeesal yi">
+<!ENTITY cmd.findUpdates.accesskey            "y">
+<!ENTITY cmd.preferencesWin.label             "Tannéef yi">
+<!ENTITY cmd.preferencesWin.accesskey         "T">
+<!ENTITY cmd.preferencesUnix.label            "Taamu yi">
+<!ENTITY cmd.preferencesUnix.accesskey        "T">
+<!ENTITY cmd.about.label                      "Ci mbiri">
+<!ENTITY cmd.about.accesskey                  "C">
+
+<!ENTITY cmd.enableAddon.label                "Suqali">
+<!ENTITY cmd.enableAddon.accesskey            "S">
+<!ENTITY cmd.disableAddon.label               "Suuxal">
+<!ENTITY cmd.disableAddon.accesskey           "u">
+<!ENTITY cmd.enableTheme.label                "Def tem bi">
+<!ENTITY cmd.enableTheme.accesskey            "D">
+<!ENTITY cmd.disableTheme.label               "Dindi tem bi">
+<!ENTITY cmd.disableTheme.accesskey           "D">
+<!ENTITY cmd.installAddon.label               "Samp">
+<!ENTITY cmd.installAddon.accesskey           "S">
+<!ENTITY cmd.uninstallAddon.label             "Neenal">
+<!ENTITY cmd.uninstallAddon.accesskey         "N">
+<!ENTITY cmd.showPreferencesWin.label         "Tànnéef yi">
+<!ENTITY cmd.showPreferencesWin.tooltip       "Soppali tànnéefi modili mottali yi">
+<!ENTITY cmd.showPreferencesUnix.label        "Taamu yi">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Soppi taamu yu modilu mottali bi">
+<!ENTITY cmd.contribute.label                 "Wàll si">
+<!ENTITY cmd.contribute.accesskey             "W">
+<!ENTITY cmd.contribute.tooltip               "Wàll si ci yokkute modilu mottali bi">
+
+<!ENTITY cmd.showReleaseNotes.label           "Wone karmati sumb">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Wone karmati sumb bu yeesal bii">
+<!ENTITY cmd.hideReleaseNotes.label           "Nëbb karmati sumb ">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "Nëbb karmati sumbu yeesal bii">
+<!-- discovery view -->
+<!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
+     Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
+
+<!ENTITY discover.title                       "Yan ñooy modili mottali yi">
+<!ENTITY discover.description2                "Modili mottali yi ay jëfekaay lañu yu lay may nga solal &brandShortName; 
+ak gëddë walla melin yi yokku. Gañeel diir ak benn pano wet,seet metewo walla nga soppi melokaanu &brandShortName; 
+numu la neexe.">
+<!ENTITY discover.footer                      "Bu sa jokkoo internet suqallikoo, pano bi dina la may nga gis
+yenn ci modili mottali yi gën te gëna siiw.">
+<!-- detail view -->
+
+<!ENTITY detail.version.label                 "Sumb">
+<!ENTITY detail.lastupdated.label             "Yeesal bi mujj">
+<!ENTITY detail.creator.label                 "Tallalkat">
+<!ENTITY detail.homepage.label                "Xëtu dalal">
+<!ENTITY detail.numberOfDownloads.label       "Yeb yi">
+
+<!ENTITY detail.contributions.description     "Tàllalkatu modil  day ñaan nga dimbali ko as tuut ngir mu mottali liggéey bi">
+
+<!ENTITY detail.updateType                    "Yeesali boppam">
+<!ENTITY detail.updateDefault.label           "Ñakk ndigal">
+<!ENTITY detail.updateDefault.tooltip         "Yeesal yi dina ñu sampul seen bopp su fekkeeni regalaasu ñakk ndigal la">
+<!ENTITY detail.updateAutomatic.label         "Suqali">
+<!ENTITY detail.updateAutomatic.tooltip       "Sampal boppam yeesal yi">
+<!ENTITY detail.updateManual.label            "Suux">
+<!ENTITY detail.updateManual.tooltip          "Du sampal boppam yeesal yi">
+<!ENTITY detail.home                          "Xëtu dalal">
+<!ENTITY detail.repository                    "Jëmmalinu modil bi">
+<!ENTITY detail.size                          "Dayo">
+
+<!ENTITY detail.checkForUpdates.label         "Wut ay yeesal yu féex">
+<!ENTITY detail.checkForUpdates.accesskey     "W">
+<!ENTITY detail.checkForUpdates.tooltip       "Wut ay yeesal yu féex pur modil bi">
+<!ENTITY detail.showPreferencesWin.label      "Tannéef yi">
+<!ENTITY detail.showPreferencesWin.accesskey  "T">
+<!ENTITY detail.showPreferencesWin.tooltip    "Soppali tànnéefi modil yi">
+<!ENTITY detail.showPreferencesUnix.label     "Taamu yi">
+<!ENTITY detail.showPreferencesUnix.accesskey "T">
+<!ENTITY detail.showPreferencesUnix.tooltip   "Soppi taamu modil bi">
+<!-- ratings -->
+
+
+<!ENTITY rating2.label                        "Yëgg">
+<!-- download/install progress -->
+
+<!ENTITY progress.pause.tooltip               "Tekkeeral">
+<!ENTITY progress.cancel.tooltip              "Neenal">
+<!-- list sorting -->
+
+
+<!ENTITY sort.name.label                      "Tur">
+<!ENTITY sort.name.tooltip                    "Tànn turoo tur">
+<!ENTITY sort.dateUpdated.label               "Yeesal bi mujj">
+<!ENTITY sort.dateUpdated.tooltip             "Tànn yeesal bi mujj besoo bes">
+<!ENTITY sort.relevance.label                 "Jaadu">
+<!ENTITY sort.relevance.tooltip               "Tànn yi jaadu">
+<!ENTITY sort.price.label                     "Njëg">
+<!ENTITY sort.price.tooltip                   "Tànn njëgoo njëg">
+
+<!ENTITY search.filter2.label                 "Wut:">
+<!ENTITY search.filter2.installed.label       "Samay modili mottali">
+<!ENTITY search.filter2.installed.tooltip     "Wone modili mottali yi sampu">
+<!ENTITY search.filter2.available.label       "Modili mottali yi féex">
+<!ENTITY search.filter2.available.tooltip     "Wone modili mottali yi féex ngir sampu">
+
+<!ENTITY addon.homepage                       "Xëtu dalal">
+<!ENTITY addon.details.label                  "Gën bari">
+<!ENTITY addon.details.tooltip                "Wone benn bennal yu gën bari ci modilu mottali bii">
+<!ENTITY addon.unknownDate                    "Xameesuko">
+<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
+     to signify that an add-on is disabled, in the form
+     "<Addon name> <1.0> (disabled)" -->
+<!ENTITY addon.disabled.postfix               "(suux)">
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
+     updates list to signify that an item is an update, in the form
+     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
+     necessary -->
+<!ENTITY addon.update.postfix                 "(Yeesal )">
+<!ENTITY addon.undoAction.label               "Neenal">
+<!ENTITY addon.undoAction.tooltip             "Neenal jëf jile">
+<!ENTITY addon.undoRemove.label               "Neenal">
+<!ENTITY addon.undoRemove.tooltip             "Denc modili mottali bii">
+<!ENTITY addon.restartNow.label               "Tambaliwaatal léegi">
+<!ENTITY addon.install.label                  "Samp">
+<!ENTITY addon.install.tooltip                "Samp modilu mottali bii">
+<!ENTITY addon.updateNow.label                "Yeesal léegi">
+<!ENTITY addon.updateNow.tooltip              "Samp benn yeesal pur modil bi">
+<!ENTITY addon.includeUpdate.label            "Boole ci benn yeesal">
+<!ENTITY addon.updateAvailable.label          "Benn yeesal féex na">
+<!ENTITY addon.checkingForUpdates.label       "Wóoral ay yeesal…">
+<!ENTITY addon.releaseNotes.label             "Karmati sumb:">
+<!ENTITY addon.loadingReleaseNotes.label      "Fat wi…">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Njumte am na bi ñuy yeb karmati sumb bi">
+
+<!ENTITY addon.createdBy.label                "Ci">
+
+<!ENTITY eula.title                           "Deggoo yaatal jëfandikookat">
+<!ENTITY eula.width                           "560px">
+<!ENTITY eula.height                          "400px">
+<!ENTITY eula.accept                          "Nangu te samp…">
+
+<!ENTITY settings.path.button.label           "Toppaatu…">

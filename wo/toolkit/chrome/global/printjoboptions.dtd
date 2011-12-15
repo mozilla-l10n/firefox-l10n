@@ -1,0 +1,41 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printJobOptions.title "Jikkoy móolukaay bi">
+
+<!ENTITY paperInput.label "Dayo kayit bi:">
+<!ENTITY paperInput.accesskey "D">
+
+<!ENTITY plexInput.label "Anamu seddale:">
+<!ENTITY plexInput.accesskey "A">
+
+<!ENTITY resolutionInput.label "Fattaay/Baaxaay :">
+<!ENTITY resolutionInput.accesskey "F">
+
+<!ENTITY cmdInput.label "Santaane móol:">
+<!ENTITY cmdInput.accesskey "S">
+
+<!ENTITY jobTitleInput.label "Boppu jukki bi:">
+<!ENTITY jobTitleInput.accesskey "B">
+
+<!ENTITY colorGroup.label "Melo:">
+<!ENTITY grayRadio.label "Taraayu doomutaal">
+<!ENTITY grayRadio.accesskey "T">
+<!ENTITY colorRadio.label "Melo">
+<!ENTITY colorRadio.accesskey "M">
+
+<!ENTITY colorspaceInput.label "Déndu melo">
+<!ENTITY colorspaceInput.accesskey "D">
+
+<!ENTITY fontsGroup.label "Njabootu araf:">
+<!ENTITY downloadFonts.label "Yeb njabootu araf yi ci móolukaay bi">
+<!ENTITY downloadFonts.accesskey "Y">
+
+<!ENTITY edgeMarginInput.label "Diggante ci cattu kayit bi ak ñag yi">
+<!ENTITY topInput.label "Kaw :">
+<!ENTITY topInput.accesskey "K">
+<!ENTITY bottomInput.label "Suuf:">
+<!ENTITY bottomInput.accesskey "S">
+<!ENTITY leftInput.label "Cammooñ:">
+<!ENTITY leftInput.accesskey "C">
+<!ENTITY rightInput.label "Ndeyjoor:">
+<!ENTITY rightInput.accesskey "N">

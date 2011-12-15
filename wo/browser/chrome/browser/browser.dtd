@@ -1,0 +1,564 @@
+<!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
+
+<!ENTITY mainWindow.title "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifier "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
+                                                                inside the private browsing mode -->
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Njoowum biir)">
+<!-- Tab context menu -->
+
+<!ENTITY  reloadTab.label                    "Yeesal koñ bi">
+<!ENTITY  reloadTab.accesskey                "o">
+<!ENTITY  reloadAllTabs.label                "Yeesal yeneen koñ yi">
+<!ENTITY  reloadAllTabs.accesskey            "a">
+<!ENTITY  closeOtherTabs.label               "Tëj yeneen koñ yi">
+<!ENTITY  closeOtherTabs.accesskey           "y">
+<!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
+used as a metaphor for expressing the fact that these tabs are "pinned" to the
+left edge of the tabstrip. Really we just want the string to express the idea
+that this is a lightweight and reversible action that keeps your tab where you
+can reach it easily. -->
+
+<!ENTITY  pinAppTab.label                    "Tapp koñ bi">
+<!ENTITY  pinAppTab.accesskey                "p">
+<!ENTITY  unpinAppTab.label                  "Bayyiwaat koñ bi">
+<!ENTITY  unpinAppTab.accesskey              "B">
+<!ENTITY  moveToGroup.label                  "Randal mu jëm ci juug bi">
+<!ENTITY  moveToGroup.accesskey              "R">
+<!ENTITY  moveToNewGroup.label               "Juug bu bees">
+<!ENTITY  moveToNewWindow.label              "Randal mu jëm ci palanteer bu bees">
+<!ENTITY  moveToNewWindow.accesskey          "p">
+<!ENTITY  bookmarkAllTabs.label              "Mandargaal xët yépp…">
+<!ENTITY  bookmarkAllTabs.accesskey          "a">
+<!ENTITY  undoCloseTab.label                 "Neenal tëjum koñ bi">
+<!ENTITY  undoCloseTab.accesskey             "N">
+<!ENTITY  closeTab.label                     "Tëj koñ bi">
+<!ENTITY  closeTab.accesskey                 "T">
+
+<!ENTITY  listAllTabs.label      "Lim koñ yépp">
+
+<!ENTITY tabCmd.label "Koñ bu bees">
+<!ENTITY tabCmd.accesskey "K">
+<!ENTITY tabCmd.commandkey "t">
+<!ENTITY openLocationCmd.label "Ubbi benn màkkaan…">
+<!ENTITY openLocationCmd.accesskey "a">
+<!ENTITY openFileCmd.label "Ubbi benn dencukaay…">
+<!ENTITY openFileCmd.accesskey "U">
+<!ENTITY openFileCmd.commandkey "o">
+<!ENTITY printSetupCmd.label "Lalinu xët…">
+<!ENTITY printSetupCmd.accesskey "L">
+<!ENTITY printPreviewCmd.label "Gisaane laata móol">
+<!ENTITY printPreviewCmd.accesskey "G">
+<!ENTITY printCmd.label "Móol…">
+<!ENTITY printCmd.accesskey "M">
+<!ENTITY printCmd.commandkey "p">
+
+<!ENTITY goOfflineCmd.label "Liggéey bul andul jokkoo">
+<!ENTITY goOfflineCmd.accesskey "i">
+
+<!ENTITY menubarCmd.label "Banqaasu njël yi">
+<!ENTITY menubarCmd.accesskey "B">
+<!ENTITY navbarCmd.label "Banqaasu joow">
+<!ENTITY navbarCmd.accesskey "n">
+<!ENTITY personalbarCmd.label "Sa banqaasu bopp">
+<!ENTITY personalbarCmd.accesskey "b">
+<!ENTITY bookmarksToolbarItem.label "Mbiri banqaasu bopp">
+<!ENTITY addonBarCmd.label "Banqaasu modil yi">
+<!ENTITY addonBarCmd.accesskey "m">
+
+<!ENTITY pageSourceCmd.label "Suulaale cosaan bu xët wi">
+<!ENTITY pageSourceCmd.accesskey "o">
+<!ENTITY pageSourceCmd.commandkey "u">
+<!ENTITY pageInfoCmd.label "Bataaxal ci xët wi">
+<!ENTITY pageInfoCmd.accesskey "i">
+<!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY fullScreenCmd.label "Seetukaay bu yambalaŋ">
+<!ENTITY fullScreenCmd.accesskey "S">
+<!ENTITY fullScreenCmd.macCommandKey "f">
+<!ENTITY showAllTabsCmd.label "Wone koñ yépp">
+<!ENTITY showAllTabsCmd.accesskey "W">
+
+<!ENTITY fullScreenMinimize.tooltip "Wàññi">
+<!ENTITY fullScreenRestore.tooltip "Delloo na woon">
+<!ENTITY fullScreenClose.tooltip "Tëj">
+<!ENTITY fullScreenAutohide.label "Nëbb banqaasi jumtukaay yi">
+<!ENTITY fullScreenAutohide.accesskey "N">
+<!ENTITY fullScreenExit.label "Génn anamu yambalaŋ">
+<!ENTITY fullScreenExit.accesskey "G">
+
+<!ENTITY closeWindow.label "Tëj palanteer bi">
+<!ENTITY closeWindow.accesskey "T">
+
+<!ENTITY bookmarksMenu.label "Mandarga xët yi">
+<!ENTITY bookmarksMenu.accesskey "M">
+<!ENTITY bookmarkThisPageCmd.label "Mandargaal xët wi">
+<!ENTITY bookmarkThisPageCmd.commandkey "d">
+<!ENTITY subscribeToPageMenupopup.label "Takkoo ak xët wile">
+<!ENTITY subscribeToPageMenuitem.label "Takkoo ak xët wile…">
+<!ENTITY addCurPagesCmd.label "Mandargaal koñ yépp…">
+<!ENTITY showAllBookmarks2.label "Wone mandarga xët yépp">
+<!ENTITY unsortedBookmarksCmd.label "Mandarga xët yu ñu ràññetlewul">
+<!ENTITY bookmarksToolbarChevron.tooltip "Wone mandarga xët yu gën bari">
+
+<!ENTITY backCmd.label                "Xët bi jiitu">
+<!ENTITY backCmd.accesskey            "X">
+<!ENTITY backButton.tooltip           "Dellu ginnaaw ci benn xët">
+<!ENTITY forwardCmd.label             "Bi ci topp">
+<!ENTITY forwardCmd.accesskey         "t">
+<!ENTITY forwardButton.tooltip        "Dem ci kanam ci benn xët">
+<!ENTITY backForwardButtonMenu.tooltip "Cuq ndeyjoor ngir gis jaar jaar bi">
+<!ENTITY backForwardButtonMenuMac.tooltip "Wacce ngir gis jaar jaar bi">
+<!ENTITY reloadCmd.label              "Yeesal">
+<!ENTITY reloadCmd.accesskey          "Y">
+<!ENTITY reloadButton.tooltip         "Yeesal xët bii">
+<!ENTITY stopCmd.label                "Taxaw">
+<!ENTITY stopCmd.accesskey            "a">
+<!ENTITY stopCmd.macCommandKey        ".">
+<!ENTITY stopButton.tooltip           "Taxawal fatum xët wi">
+<!ENTITY goEndCap.tooltip             "Dem ci xët wi ñu joxoñ ci banqaasu makkaan">
+<!ENTITY printButton.label            "Móol">
+<!ENTITY printButton.tooltip          "Móol xët bii">
+
+<!ENTITY backForwardItem.title        "Xët bi jiitu/bi ci topp">
+<!ENTITY locationItem.title           "Màkkaan">
+<!ENTITY searchItem.title             "Wut">
+<!ENTITY throbberItem.title           "Wanekatu yëngu yëngu">
+<!ENTITY bookmarksItem.title          "Mandarga xët yi">
+<!-- Toolbar items --> 
+
+<!ENTITY appMenuButton.label          "Njël">
+<!ENTITY appMenuButton.tooltip        "Ubbi njëlu &brandShortName;">
+<!ENTITY homeButton.label             "Dal bi">
+
+<!ENTITY tabGroupsButton.label        "Juugi koñ">
+<!ENTITY tabGroupsButton.tooltip      "Defaral say koñ aki juug">
+
+<!ENTITY feedButton.label             "Takkoo">
+<!ENTITY feedButton.tooltip           "Takkoo ak xët wile…">
+
+<!ENTITY bookmarksButton.label          "Mandarga xët yi">
+<!ENTITY bookmarksButton.tooltip        "Wone say mandarga xët">
+<!ENTITY bookmarksButton.accesskey  "M">
+<!ENTITY bookmarksCmd.commandkey "b">
+
+<!ENTITY bookmarksMenuButton.label          "Mandarga xët yi">
+<!ENTITY bookmarksMenuButton.tooltip        "Wone say mandarga xët">
+<!ENTITY bookmarksMenuButton.unsorted.label "Mandarga xët yu ñu ràññatlaatewul">
+<!ENTITY viewBookmarksSidebar.label         "Wone pano mandarga xët yi">
+<!ENTITY viewBookmarksToolbar.label         "Sa banqaasu bopp">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
+
+<!ENTITY historyButton.label            "Jaar jaar">
+<!ENTITY historyButton.tooltip          "Wone xët yi ñu seet bu yaggul">
+<!ENTITY historySidebarCmd.accesskey    "s">
+<!ENTITY historySidebarCmd.commandKey   "h">
+
+<!ENTITY toolsMenu.label              "Jumtukaay yi">
+<!ENTITY toolsMenu.accesskey          "t"> 
+
+<!ENTITY keywordfield.label           "Yokk benn caabi baat ci wut bii…">
+<!ENTITY keywordfield.accesskey       "Y">
+<!ENTITY search.label                 "Wut ci web bi">
+<!ENTITY search.accesskey             "W">
+<!ENTITY downloads.label              "Yeb yi">
+<!ENTITY downloads.tooltip            "Wone doxub yeb yi">
+<!ENTITY downloads.accesskey          "Y">
+<!ENTITY downloads.commandkey         "j">
+<!ENTITY downloadsUnix.commandkey     "y">
+<!ENTITY addons.label                 "Modilu mottali">
+<!ENTITY addons.accesskey             "M">
+<!ENTITY addons.commandkey            "A">
+
+<!ENTITY webDeveloperMenu.label       "Tàllalkatu web">
+<!ENTITY webDeveloperMenu.accesskey   "w">
+
+<!ENTITY errorConsoleCmd.label        "Konsol njumte yi">
+<!ENTITY errorConsoleCmd.accesskey    "s">
+<!ENTITY errorConsoleCmd.commandkey   "j">
+
+<!ENTITY webConsoleCmd.label          "Konsolu Web">
+<!ENTITY webConsoleCmd.accesskey      "W">
+<!ENTITY webConsoleCmd.commandkey     "k">
+
+<!ENTITY inspectMenu.label            "Seet">
+<!ENTITY inspectMenu.accesskey        "S">
+<!ENTITY inspectMenu.commandkey       "I">
+<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
+  -  in the Tools menu. See bug 653093.
+  -  The Scratchpad is intended to provide a simple text editor for creating
+  -  and evaluating bits of JavaScript code for the purposes of function
+  -  prototyping, experimentation and convenient scripting.
+  -
+  -  It's quite possible that you won't have a good analogue for the word
+  -  "Scratchpad" in your locale. You should feel free to find a close
+  -  approximation to it or choose a word (or words) that means
+  -  "simple discardable text editor". -->
+
+<!ENTITY scratchpad.label             "Alluwa JavaScript">
+<!ENTITY scratchpad.accesskey         "A">
+<!ENTITY scratchpad.keycode           "VK_F4">
+<!ENTITY scratchpad.keytext           "F4">
+
+<!ENTITY inspectPanelTitle.label      "HTML">
+<!ENTITY inspectButton.label          "Seet">
+<!ENTITY inspectButton.accesskey      "S">
+
+<!ENTITY getMoreDevtoolsCmd.label        "Am yeneeni jumtukaay">
+<!ENTITY getMoreDevtoolsCmd.accesskey    "A">
+
+<!ENTITY fileMenu.label         "Dencukaay"> 
+<!ENTITY fileMenu.accesskey       "D">
+<!ENTITY newNavigatorCmd.label        "Palanteer bu bees">
+<!ENTITY newNavigatorCmd.key        "N">
+<!ENTITY newNavigatorCmd.accesskey      "n">
+
+<!ENTITY editMenu.label         "Jagal"> 
+<!ENTITY editMenu.accesskey       "J"> 
+<!ENTITY undoCmd.label            "Neenal">  
+<!ENTITY undoCmd.key            "Z">  
+<!ENTITY undoCmd.accesskey          "N"> 
+<!ENTITY redoCmd.label            "Defaat">  
+<!ENTITY redoCmd.key            "Y">  
+<!ENTITY redoCmd.accesskey          "D"> 
+<!ENTITY cutCmd.label           "Dog">  
+<!ENTITY cutCmd.key             "X">  
+<!ENTITY cutCmd.accesskey         "g"> 
+<!ENTITY copyCmd.label            "Duppi">  
+<!ENTITY copyCmd.key            "C">  
+<!ENTITY copyCmd.accesskey          "p"> 
+<!ENTITY pasteCmd.label           "Taf">  
+<!ENTITY pasteCmd.key           "V">  
+<!ENTITY pasteCmd.accesskey         "T"> 
+<!ENTITY deleteCmd.label          "Màbb">  
+<!ENTITY deleteCmd.key            "D">  
+<!ENTITY deleteCmd.accesskey        "M"> 
+<!ENTITY selectAllCmd.label         "Fal lépp">  
+<!ENTITY selectAllCmd.key         "A">  
+<!ENTITY selectAllCmd.accesskey       "a"> 
+<!ENTITY preferencesCmd2.label       "Tànnéef yi">
+<!ENTITY preferencesCmd2.accesskey     "T">
+<!ENTITY preferencesCmdUnix.label       "Taamu yi">
+<!ENTITY preferencesCmdUnix.accesskey     "u"> 
+
+<!ENTITY clearRecentHistory.label               "Mabb jaar jaar bi yaggul…">
+<!ENTITY clearRecentHistory.accesskey           "j">
+<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+
+<!ENTITY privateBrowsingCmd.start.label         "Tambali njoowum biir">
+<!ENTITY privateBrowsingCmd.start.accesskey     "n">
+<!ENTITY privateBrowsingCmd.stop.label          "Taxawal njoowum biir">
+<!ENTITY privateBrowsingCmd.stop.accesskey      "j">
+<!ENTITY privateBrowsingCmd.commandkey          "P">
+
+<!ENTITY viewMenu.label         "Wone bi"> 
+<!ENTITY viewMenu.accesskey       "W"> 
+<!ENTITY viewTabGroups.label            "Juugi koñ">
+<!ENTITY viewTabGroups.accesskey        "J">
+<!ENTITY viewToolbarsMenu.label       "Banqaasu jumtukaay yi"> 
+<!ENTITY viewToolbarsMenu.accesskey     "t"> 
+<!ENTITY viewSidebarMenu.label "Pano wet">
+<!ENTITY viewSidebarMenu.accesskey "e">
+<!ENTITY viewCustomizeToolbar.label       "Solal…"> 
+<!ENTITY viewCustomizeToolbar.accesskey     "S">
+<!ENTITY viewTabsOnTop.label            "Banqaasu koñ yi ci kaw">
+<!ENTITY viewTabsOnTop.accesskey        "k">
+
+<!ENTITY historyMenu.label "Jaar jaar">
+<!ENTITY historyMenu.accesskey "J">
+<!ENTITY historyUndoMenu.label "Koñ yi tëju leegi">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "Palanteer yi ñu tëj léegi">
+<!ENTITY historyRestoreLastSession.label "Delloosi sesiyoŋ bi jiitu">
+
+<!ENTITY historyHomeCmd.label "Dal">
+<!ENTITY showAllHistoryCmd2.label "Wone jaar jaar bi">
+<!ENTITY showAllHistoryCmd.commandkey "h">
+
+<!ENTITY appMenuEdit.label "Jagal">
+<!ENTITY appMenuCustomize.label "Solal">
+<!ENTITY appMenuToolbarLayout.label "Solal banqaasi jumtukaay yi…">
+<!ENTITY appMenuSidebars.label "Pano wet">
+<!ENTITY appMenuFind.label "Wut…">
+<!ENTITY appMenuUnsorted.label "Mandarga xët yu ñu ràññatlewul">
+<!ENTITY appMenuWebDeveloper.label "Tàllalkatu web">
+<!ENTITY appMenuGettingStarted.label "Ci yoonu tambali">
+<!ENTITY appMenuSafeMode.label "Tambaliwaat modil yi suux…">
+<!ENTITY appMenuSafeMode.accesskey "T">
+
+<!ENTITY openCmd.commandkey           "l">
+<!ENTITY urlbar.placeholder           "Dem ci benn dalub web">
+<!ENTITY urlbar.accesskey             "d">
+<!ENTITY urlbar.switchToTab.label     "Dem ci koñ :">
+<!-- 
+  Comment duplicated from browser-sets.inc:
+
+  Search Command Key Logic works like this:
+
+  Unix: Ctrl+J (0.8, 0.9 support)
+        Ctrl+K (cross platform binding)
+  Mac:  Cmd+K (cross platform binding)
+        Cmd+Opt+F (platform convention)
+  Win:  Ctrl+K (cross platform binding)
+        Ctrl+E (IE compat)
+
+  We support Ctrl+K on all platforms now and advertise it in the menu since it is
+  our standard - it is a "safe" choice since it is near no harmful keys like "W" as
+  "E" is. People mourning the loss of Ctrl+K for emacs compat can switch their GTK
+  system setting to use emacs emulation, and we should respect it. Focus-Search-Box
+  is a fundamental keybinding and we are maintaining a XP binding so that it is easy
+  for people to switch to Linux.
+
+ -->
+
+<!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey2      "e">
+<!ENTITY searchFocusUnix.commandkey   "j">
+
+<!ENTITY tabView.commandkey           "e">
+
+<!ENTITY openLinkCmdInTab.label       "Ubbi buum bi ci koñ bu bees">
+<!ENTITY openLinkCmdInTab.accesskey   "k">
+<!ENTITY openLinkCmd.label            "Ubbi buum bi ci palanteer bu bees">
+<!ENTITY openLinkCmd.accesskey        "b">
+<!ENTITY openLinkCmdInCurrent.label     "Ubbi buum bi">
+<!ENTITY openLinkCmdInCurrent.accesskey "U">
+<!ENTITY openFrameCmdInTab.label      "Ubbi kaadar bi ci koñ bu bees">
+<!ENTITY openFrameCmdInTab.accesskey  "k">
+<!ENTITY openFrameCmd.label           "Ubbi kaadar bi ci palanteer bu bees">
+<!ENTITY openFrameCmd.accesskey       "p">
+<!ENTITY showOnlyThisFrameCmd.label     "Wone kaadar bii rekk">
+<!ENTITY showOnlyThisFrameCmd.accesskey "b">
+<!ENTITY reloadCmd.commandkey         "r">
+<!ENTITY reloadFrameCmd.label         "Yeesal kaadar bi">
+<!ENTITY reloadFrameCmd.accesskey     "r">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Suulaale cosaan bu xët wi">
+<!ENTITY viewPartialSourceForMathMLCmd.label    "Suulaale MathML bu xët wi">
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
+<!ENTITY viewPartialSourceCmd.accesskey "e">
+<!ENTITY viewPageSourceCmd.label      "Suulaale cosaan bu xët wi">
+<!ENTITY viewPageSourceCmd.accesskey  "o">
+<!ENTITY viewFrameSourceCmd.label     "Suulaale cosaan bu kaadar bi">
+<!ENTITY viewFrameSourceCmd.accesskey "S">
+<!ENTITY viewPageInfoCmd.label        "Bataaxal ci xët bi">
+<!ENTITY viewPageInfoCmd.accesskey    "i">
+<!ENTITY viewFrameInfoCmd.label       "Bataaxal ci Kaadar bi">
+<!ENTITY viewFrameInfoCmd.accesskey   "i">
+<!ENTITY reloadImageCmd.label         "Yeesalaat nataal bi">
+<!ENTITY reloadImageCmd.accesskey     "Y">
+<!ENTITY viewImageCmd.label           "Wone nataal bi">
+<!ENTITY viewImageCmd.accesskey       "n">
+<!ENTITY viewImageInfoCmd.label       "Bataaxal ci xët bi">
+<!ENTITY viewImageInfoCmd.accesskey   "i">
+<!ENTITY viewVideoCmd.label           "Wone videyoo bi">
+<!ENTITY viewVideoCmd.accesskey       "v">
+<!ENTITY viewBGImageCmd.label         "Wone nataal bi lalu">
+<!ENTITY viewBGImageCmd.accesskey     "l">
+<!ENTITY setDesktopBackgroundCmd.label      "Tànn nataal bi niki laltu seetukaay…">
+<!ENTITY setDesktopBackgroundCmd.accesskey  "T">
+<!ENTITY bookmarkPageCmd2.label       "Mandargaal xët wi">
+<!ENTITY bookmarkPageCmd2.accesskey   "M">
+<!ENTITY bookmarkThisLinkCmd.label      "Mandarga xët ci buum bi">
+<!ENTITY bookmarkThisLinkCmd.accesskey  "b">
+<!ENTITY bookmarkThisFrameCmd.label      "Mandarga xët ci kaadar bi">
+<!ENTITY bookmarkThisFrameCmd.accesskey  "k">
+<!ENTITY sendPageCmd.label            "Yonnee benn buum ci xët…">
+<!ENTITY sendPageCmd.accesskey        "Y">
+<!ENTITY savePageCmd.label            "Aar ci…">
+<!ENTITY savePageCmd.accesskey        "A">
+<!-- alternate for content area context menu -->
+<!ENTITY savePageCmd.accesskey2       "E">
+<!ENTITY savePageCmd.commandkey       "s">
+<!ENTITY saveFrameCmd.label           "Aar kaadar bi ci…">
+<!ENTITY saveFrameCmd.accesskey       "c">
+<!ENTITY printFrameCmd.label          "Móol kaadar bi…">
+<!ENTITY printFrameCmd.accesskey      "M">
+<!ENTITY saveLinkCmd.label            "Aar jëmu buum gi ci…">
+<!ENTITY saveLinkCmd.accesskey        "j">
+<!ENTITY sendLinkCmd.label            "Yónnee buum…"> 
+<!ENTITY sendLinkCmd.accesskey        "Y">
+<!ENTITY saveImageCmd.label           "Aar nataal bi ci…">
+<!ENTITY saveImageCmd.accesskey       "i">
+<!ENTITY saveVideoCmd.label           "Aar wideyoo bi niki…">
+<!ENTITY saveVideoCmd.accesskey       "w">
+<!ENTITY saveAudioCmd.label           "Aar jibin wi niki…">
+<!ENTITY saveAudioCmd.accesskey       "r">
+<!ENTITY sendImageCmd.label           "Yónnee nataal bi…">
+<!ENTITY sendImageCmd.accesskey       "Y">
+<!ENTITY sendVideoCmd.label           "Yonnee wideyoo bi…">
+<!ENTITY sendVideoCmd.accesskey       "Y">
+<!ENTITY sendAudioCmd.label           "Yonnee jibin…">
+<!ENTITY sendAudioCmd.accesskey       "Y">
+<!ENTITY copyLinkCmd.label            "Duppi màkkaanu buum bi">
+<!ENTITY copyLinkCmd.accesskey        "m">
+<!ENTITY copyImageCmd.label           "Duppi màkkaanu nataal bi">
+<!ENTITY copyImageCmd.accesskey       "n">
+<!ENTITY copyImageContentsCmd.label   "Duppi nataal bi">
+<!ENTITY copyImageContentsCmd.accesskey  "D"> 
+<!ENTITY copyVideoURLCmd.label        "Duppi URL bu wideyoo bi">
+<!ENTITY copyVideoURLCmd.accesskey    "w">
+<!ENTITY copyAudioURLCmd.label        "Duppi URL bu jibin wi">
+<!ENTITY copyAudioURLCmd.accesskey    "j">
+<!ENTITY copyEmailCmd.label           "Duppi màkkaanu i meel">
+<!ENTITY copyEmailCmd.accesskey       "m">
+<!ENTITY thisFrameMenu.label              "Kaadar bii">
+<!ENTITY thisFrameMenu.accesskey          "d">
+<!-- Media (video/audio) controls -->
+
+<!ENTITY mediaPlay.label             "Tambali">
+<!ENTITY mediaPlay.accesskey         "T">
+<!ENTITY mediaPause.label            "Taxaw">
+<!ENTITY mediaPause.accesskey        "T">
+<!ENTITY mediaMute.label             "Muuma">
+<!ENTITY mediaMute.accesskey         "u">
+<!ENTITY mediaUnmute.label           "Dektu">
+<!ENTITY mediaUnmute.accesskey       "e">
+<!ENTITY mediaShowControls.label     "Wone kontorol yi">
+<!ENTITY mediaShowControls.accesskey "W">
+<!ENTITY mediaHideControls.label     "Nëbb kontorol yi">
+<!ENTITY mediaHideControls.accesskey "N">
+<!ENTITY videoFullScreen.label       "Seetukaay bu fees">
+<!ENTITY videoFullScreen.accesskey   "S">
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+
+
+<!ENTITY fullZoomEnlargeCmd.label       "Yaatal">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "Y">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+
+<!ENTITY fullZoomReduceCmd.label        "Wàññi">
+<!ENTITY fullZoomReduceCmd.accesskey    "W">
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+
+<!ENTITY fullZoomResetCmd.label         "Yeesalaat">
+<!ENTITY fullZoomResetCmd.accesskey     "Y">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
+
+<!ENTITY fullZoomToggleCmd.label        "Yambalaŋ mbind mi rekk">
+<!ENTITY fullZoomToggleCmd.accesskey    "l">
+<!ENTITY fullZoom.label                 "Yambalaŋ">
+<!ENTITY fullZoom.accesskey             "a">
+
+<!ENTITY newTabButton.tooltip           "Koñ bu bees">
+<!ENTITY newWindowButton.tooltip        "Palanteer bu bees">
+<!ENTITY sidebarCloseButton.tooltip     "Tëj pano wet gi">
+
+<!ENTITY cutButton.tooltip              "Dog">
+<!ENTITY copyButton.tooltip             "Duppi">
+<!ENTITY pasteButton.tooltip            "Taf">
+
+<!ENTITY fullScreenButton.tooltip       "Wone palanteer yambalaŋ">
+
+<!ENTITY zoomOutButton.tooltip          "Wàññi">
+<!ENTITY zoomInButton.tooltip           "Yaatal">
+<!ENTITY zoomControls.label             "Tollu tollu yambalaŋ">
+
+<!ENTITY quitApplicationCmdWin.label       "Génn"> 
+<!ENTITY quitApplicationCmdWin.accesskey   "G">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY quitApplicationCmd.label       "Génn"> 
+<!ENTITY quitApplicationCmd.accesskey   "G">
+<!ENTITY quitApplicationCmdMac.label    "Génn &brandShortName;">
+<!ENTITY quitApplicationCmdMac.key      "Q">
+
+<!ENTITY closeCmd.label                 "Tëj">  
+<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.accesskey             "T">
+
+<!ENTITY pageStyleMenu.label "Melinu xët wi">
+<!ENTITY pageStyleMenu.accesskey "M">
+<!ENTITY pageStyleNoStyle.label "Ñakk melin">
+<!ENTITY pageStyleNoStyle.accesskey "n">
+<!ENTITY pageStylePersistentOnly.label "Melinu laltu bu biró bi">
+<!ENTITY pageStylePersistentOnly.accesskey "b">
+
+<!ENTITY pageReportIcon.tooltip            "Soppi politigu popups dalub web bii">
+
+<!ENTITY allowPopups.accesskey "p">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, which is used in the "popup blocked" info bar . -->
+<!ENTITY editPopupSettingsUnix.label "Jagal tannéefi tëye popups yi…">
+<!ENTITY editPopupSettings.label "Jagal taamu tëye popups yi…">
+<!ENTITY editPopupSettings.accesskey "J">
+<!ENTITY dontShowMessage.accesskey "D">
+
+<!ENTITY bidiSwitchPageDirectionItem.label        "Soppi jublu xët wi">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "x">
+<!ENTITY bidiSwitchTextDirectionItem.label        "Soppi jublu mbind mi">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "m">
+<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
+
+<!ENTITY findOnCmd.label     "Wut ci biir xët wi…">
+<!ENTITY findOnCmd.accesskey "c">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label  "Wut bi ci topp">
+<!ENTITY findAgainCmd.accesskey "W">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+<!ENTITY spellAddDictionaries.label "Yokk ay diksiyoneer…">
+<!ENTITY spellAddDictionaries.accesskey "a">
+
+<!ENTITY editBookmark.done.label                     "Jeexal">
+<!ENTITY editBookmark.cancel.label                   "Neenal">
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
+
+<!ENTITY identity.unverifiedsite2 "Dalub web bi joxewul benn xibaar ci dantiteem.">
+<!ENTITY identity.connectedTo "Yaa ngi ci">
+<!-- Localization note (identity.runBy) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy "te boroom di">
+
+<!ENTITY identity.moreInfoLinkText "Yeneen xibaar…">
+
+<!ENTITY downloadMonitor2.tooltip "Cuqal ngir ubbi palanteeru yeb yi">
+
+<!ENTITY allTabs.filter.emptyText "Wut ci biir koñ yi">
+<!-- Name for the tabs toolbar as spoken by screen readers.
+     The word "toolbar" is appended automatically and should not be contained below! -->
+<!ENTITY tabsToolbar.label "Koñi jowwkat bi">
+<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
+
+<!ENTITY syncTabsMenu.label     "Koñi yeneen ordinatëër">
+
+<!ENTITY syncBrand.shortName.label    "Jàppante">
+
+<!ENTITY syncSetup.label              "Tabb &syncBrand.shortName.label;…">
+<!ENTITY syncSetup.accesskey          "Y">
+<!ENTITY syncSyncNowItem.label        "Jàppanteel léegi">
+<!ENTITY syncSyncNowItem.accesskey    "J">
+<!ENTITY syncToolbarButton.label      "Jàppante">
+
+<!ENTITY addonBarCloseButton.tooltip  "Tëj banqaasu modil yi">
+<!ENTITY toggleAddonBarCmd.key        "/">

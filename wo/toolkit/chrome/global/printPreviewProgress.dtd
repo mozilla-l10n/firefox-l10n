@@ -1,0 +1,5 @@
+<!--LOCALIZATION NOTE printPreviewProgress.dtd Main UI for Print Preview Progress Dialog -->
+<!ENTITY printWindow.title "Séen laata móol"> 
+<!ENTITY title   "Bopp:"> 
+<!ENTITY preparing "Waajal bi…">
+<!ENTITY progress "Yokkute bi:">

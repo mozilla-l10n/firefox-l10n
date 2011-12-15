@@ -1,0 +1,37 @@
+<!ENTITY  blockPopups.label           "Tëye panlanteeru popup">
+<!ENTITY  blockPopups.accesskey       "T">
+<!ENTITY  popupExceptions.label       "Lu kenn tëggaalewul…">
+<!ENTITY  popupExceptions.accesskey   "L">
+
+<!ENTITY  loadImages.label            "Fat boppam nataal yi">
+<!ENTITY  loadImages.accesskey        "n">
+<!ENTITY  exceptions.label            "Lu kenn tëggaalewul…">
+<!ENTITY  exceptions.accesskey        "k">
+
+<!ENTITY  enableJavaScript.label      "Suqali JavaScript">
+<!ENTITY  enableJavaScript.accesskey  "S">
+<!ENTITY  advancedJS.label            "Sore…">
+<!ENTITY  advancedJS.accesskey        "S">
+
+<!ENTITY  enableJava.label            "Dekkali Java">
+<!ENTITY  enableJava.accesskey        "J">
+
+
+<!ENTITY  fontsAndColors.label        "Njabootu araf yi ak melo yi">
+
+<!ENTITY  defaultFont.label           "Njabootu araf yi ñakk ndigal :">
+<!ENTITY  defaultFont.accesskey       "N">
+<!ENTITY  defaultSize.label           "Dayo :">
+<!ENTITY  defaultSize.accesskey       "D">
+
+<!ENTITY  advancedFonts.label         "Sore…">
+<!ENTITY  advancedFonts.accesskey     "S">
+
+<!ENTITY  colors.label                "Melo yi…">
+<!ENTITY  colors.accesskey            "M">
+
+
+<!ENTITY languages.label              "Lammiñ yi">
+<!ENTITY chooseLanguage.label         "Tànn lammiñ ngir wone xët yi">
+<!ENTITY chooseButton.label           "Tànn…">
+<!ENTITY chooseButton.accesskey       "T">

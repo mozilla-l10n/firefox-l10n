@@ -1,0 +1,62 @@
+<!ENTITY sanitizePrefs2.title          "Paraameetaru far jaar jaar">
+<!ENTITY sanitizeDialog2.title         "Màbbal jaar jaar yi mujj">
+
+<!ENTITY sanitizeItems.label          "Màbbal léegi mbir yile :">
+<!ENTITY clearDataSettings2.label     "Bu ma dee génn &brandShortName; màbbalal mbir yii topp :">
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+<!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
+     See UI mockup at bug 480169 -->
+
+<!ENTITY clearTimeDuration.label          "Diggante bu ñu wara far : ">
+<!ENTITY clearTimeDuration.accesskey      "D">
+<!ENTITY clearTimeDuration.lastHour       "Waxtu wi mujj">
+<!ENTITY clearTimeDuration.last2Hours     "Ñaari waxtu yii mujj">
+<!ENTITY clearTimeDuration.last4Hours     "Ñeenti waxtu yi mujj">
+<!ENTITY clearTimeDuration.today          "Tey">
+<!ENTITY clearTimeDuration.everything     "Lépp">
+<!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
+that require it.  -->
+<!ENTITY clearTimeDuration.suffix         "">
+<!ENTITY clearTimeDuration.dateColumn     "Besu gane">
+<!ENTITY clearTimeDuration.nameColumn     "Tur">
+<!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
+     of the "Details" progressive disclosure button.  See UI mockup at bug
+     480169 -->
+
+<!ENTITY detailsProgressiveDisclosure.label     "Benn bennal yi">
+<!ENTITY detailsProgressiveDisclosure.accesskey "e">
+
+<!ENTITY historySection.label         "Jaar jaar">
+<!ENTITY dataSection.label            "Rootaan yi">
+<!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
+     itemBrowsingHistory.* will never be used at the same time, so they can
+     have the same accesskey. -->
+
+<!ENTITY itemHistoryAndDownloads.label     "Jaar jaaru joow ak yeb yi">
+<!ENTITY itemHistoryAndDownloads.accesskey "y">
+<!ENTITY itemBrowsingHistory.label         "Jaar jaaru njoow mi">
+<!ENTITY itemBrowsingHistory.accesskey     "J">
+<!ENTITY itemFormSearchHistory.label       "Jaar jaaru formileer yi ak wut yi">
+<!ENTITY itemFormSearchHistory.accesskey   "f">
+<!ENTITY itemPasswords.label               "Baatu jàll yi ñu aar">
+<!ENTITY itemPasswords.accesskey           "B">
+<!ENTITY itemCookies.label                 "Cookies">
+<!ENTITY itemCookies.accesskey             "C">
+<!ENTITY itemCache.label                   "Ndenc">
+<!ENTITY itemCache.accesskey               "d">
+<!ENTITY itemOfflineApps.label             "Rotaani dalub web yu jokkoowul">
+<!ENTITY itemOfflineApps.accesskey         "R">
+<!ENTITY itemDownloadHistory.label         "Jaar jaaru yeb mi">
+<!ENTITY itemDownloadHistory.accesskey     "J">
+<!ENTITY itemActiveLogins.label            "Jokkoo yiy dox">
+<!ENTITY itemActiveLogins.accesskey        "o">
+<!ENTITY itemSitePreferences.label         "Taamu dalub web">
+<!ENTITY itemSitePreferences.accesskey     "T">
+<!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
+     that appears when "Time range to clear" is set to "Everything".  See UI
+     mockup at bug 480169 -->
+
+<!ENTITY sanitizeEverythingUndoWarning     "Jëf jii mënul dellu ginnaaw.">
+
+<!ENTITY dialog.width                 "35em">
+<!ENTITY column.width                 "10em">

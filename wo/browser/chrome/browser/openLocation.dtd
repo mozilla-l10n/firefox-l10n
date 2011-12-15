@@ -1,0 +1,10 @@
+<!-- extracted from content/openLocation.xul -->
+
+<!ENTITY enter.label "Dugalal benn màkkaanu Web (URL) walla nga wax benn dencukaay boo bëgg ubbi :">  
+<!ENTITY chooseFile.label "Tànnal benn dencukaay…">
+<!ENTITY newTab.label "Koñ bu bees">
+<!ENTITY newWindow.label "Palanteer bu bees">
+<!ENTITY topTab.label "Koñ bi taxaw">
+<!ENTITY caption.label "Ubbi benn màkkaanu web">
+<!ENTITY openWhere.label "Ubbi ci :">
+<!ENTITY openBtn.label "Ubbil">

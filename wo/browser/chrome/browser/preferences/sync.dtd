@@ -1,0 +1,41 @@
+<!-- The page shown when not logged in... -->
+<!ENTITY setupButton.label          "Tabb &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "T">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; dafa lay may nga agg ci sa jaar jaar, say mandarga xët, say baatu jàll ak say koñ yu ubbeeku ci ay ordinatëër yu wuute.">
+<!-- The page shown when logged in... -->
+<!-- Login error feedback -->
+
+
+<!ENTITY updatePass.label             "Mottalil">
+<!ENTITY resetPass.label              "Sàjj">
+<!-- Manage Account -->
+
+<!ENTITY manageAccount.label          "Saytu koont">
+<!ENTITY manageAccount.accesskey      "k">
+<!ENTITY viewQuota.label              "Wone Quota bi">
+<!ENTITY changePassword2.label         "Soppi baatu jàll…">
+<!ENTITY mySyncKey.label              "Caabi jàppante">
+<!ENTITY resetSync2.label              "Sàjj jàppante…">
+
+<!ENTITY addDevice.label              "Yokk benn aparey">
+
+<!ENTITY syncMy.label               "Jàppante">
+<!ENTITY engine.bookmarks.label     "Mandarga xët yi">
+<!ENTITY engine.bookmarks.accesskey "g">
+<!ENTITY engine.tabs.label          "Koñ yi">
+<!ENTITY engine.tabs.accesskey      "K">
+<!ENTITY engine.history.label       "Jaar jaar">
+<!ENTITY engine.history.accesskey   "r">
+<!ENTITY engine.passwords.label     "Baatu jàll">
+<!ENTITY engine.passwords.accesskey "t">
+<!ENTITY engine.prefs.label         "Taamu yi">
+<!ENTITY engine.prefs.accesskey     "T">
+<!-- Device Settings -->
+
+<!ENTITY syncComputerName.label       "Turu ordinatëër bi:">
+<!ENTITY syncComputerName.accesskey   "T">
+<!ENTITY unlinkDevice.label           "Bul jokkoo apaarey bii">
+<!-- Footer stuff -->
+
+<!ENTITY prefs.tosLink.label        "Sart yi ñu koy jëfandikoo">
+<!ENTITY prefs.ppLink.label         "Politigu déeyandoo">

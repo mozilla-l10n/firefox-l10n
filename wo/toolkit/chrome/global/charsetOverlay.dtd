@@ -1,0 +1,21 @@
+<!-- extracted from charsetOverlay.xul -->
+<!ENTITY charsetMenu.label             "Suulaale araf yi">
+<!ENTITY charsetMenu.accesskey         "S">
+<!ENTITY charsetMenuAutodet.label      "Gis boppam">
+<!ENTITY charsetMenuAutodet.accesskey  "G">
+<!ENTITY charsetMenuMore.label         "Yeneen suulaale">
+<!ENTITY charsetMenuMore.accesskey     "Y">
+<!ENTITY charsetMenuMore1.label        "wa Ërobu sawwu jànt">
+<!ENTITY charsetMenuMore1.accesskey    "o">
+<!ENTITY charsetMenuMore2.label        "wa Ërobu penku">
+<!ENTITY charsetMenuMore2.accesskey    "e">
+<!ENTITY charsetMenuMore3.label        "wa Asi sawwu jànt">
+<!ENTITY charsetMenuMore3.accesskey    "A">
+<!ENTITY charsetMenuMore4.label        "SE &amp; SW Asian">
+<!ENTITY charsetMenuMore4.accesskey    "S">
+<!ENTITY charsetMenuMore5.label        "Middle Eastern">
+<!ENTITY charsetMenuMore5.accesskey    "M">
+<!ENTITY charsetMenuUnicode.label      "Unicode">
+<!ENTITY charsetMenuUnicode.accesskey  "U">
+<!ENTITY charsetCustomize.label        "Solal lim gi…">
+<!ENTITY charsetCustomize.accesskey    "S">

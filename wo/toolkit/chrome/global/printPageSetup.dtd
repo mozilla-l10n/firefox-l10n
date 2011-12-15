@@ -1,0 +1,62 @@
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printSetup.title    "Lalinu xët">
+
+<!ENTITY basic.tab           "Daytal ak tànneef">
+
+<!ENTITY formatGroup.label   "Daytal">
+
+<!ENTITY orientation.label   "Jubluwaay :">
+<!ENTITY portrait.label      "Tawaw">
+<!ENTITY portrait.accesskey  "T">
+<!ENTITY landscape.label     "Tëdd">
+<!ENTITY landscape.accesskey "T">
+
+<!ENTITY scale.label         "Esel :">
+<!ENTITY scale.accesskey     "E">
+<!ENTITY scalePercent        "&#037;">
+
+<!ENTITY shrinkToFit.label   "Dëppale ak dayo xët wi">
+<!ENTITY shrinkToFit.accesskey "x">
+
+<!ENTITY optionsGroup.label  "Tànneef yi">
+
+<!ENTITY printBG.label       "Móol laltu xët wi (melo yi ak nataal yi)">
+<!ENTITY printBG.accesskey   "M">
+
+<!ENTITY advanced.tab        "Ñag yi, kow ak suuf xët">
+
+<!ENTITY marginGroup.label   "Ñag yi (#1)">
+<!ENTITY marginUnits.inches  "pouces">
+<!ENTITY marginUnits.metric  "millimeetar">
+<!ENTITY marginTop.label     "Kaw:">
+<!ENTITY marginTop.accesskey "K">
+<!ENTITY marginBottom.label  "Suuf:">
+<!ENTITY marginBottom.accesskey "S">
+<!ENTITY marginLeft.label    "Cammooñ:">
+<!ENTITY marginLeft.accesskey "C">
+<!ENTITY marginRight.label   "Ndeyjoor:">
+<!ENTITY marginRight.accesskey "N">
+
+<!ENTITY headerFooter.label  "Kow xët ak suuf xët yi">
+
+<!ENTITY hfLeft.label        "Cammooñ:">
+<!ENTITY hfCenter.label      "Digg :">
+<!ENTITY hfRight.label       "Ndeyjoor:">
+<!ENTITY headerLeft.tip      "Kow xët cammooñ">
+<!ENTITY headerCenter.tip    "Kow xët du digge">
+<!ENTITY headerRight.tip     "Kow xët ndeyjoor">
+<!ENTITY footerLeft.tip      "Suuf xët cammooñ">
+<!ENTITY footerCenter.tip    "Suuf xët bu digge">
+<!ENTITY footerRight.tip     "Suuf xët ndeyjoor">
+
+<!ENTITY hfTitle             "Bopp">
+<!ENTITY hfURL               "URL">
+<!ENTITY hfDateAndTime       "Bes/Waxtu">
+<!ENTITY hfPage              "Xët #">
+<!ENTITY hfPageAndTotal      "Xët # ci #">
+<!ENTITY hfBlank             "--weyëŋ--">
+<!ENTITY hfCustom            "Solal…">
+
+<!ENTITY customPrompt.title  "Solal…">
+<!ENTITY customPrompt.prompt "Dugal mbind kow xët walla suuf xët">

@@ -1,0 +1,5 @@
+<!ENTITY  windowClose.key                         "w">
+<!ENTITY  preferencesDefaultTitleMac.title        "Taamu yi">
+<!ENTITY  preferencesDefaultTitleWin.title        "Tànneef">
+<!ENTITY  preferencesCloseButton.label            "Tëj">
+<!ENTITY  preferencesCloseButton.accesskey        "T">

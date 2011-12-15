@@ -1,0 +1,25 @@
+<!ENTITY  engineManager.title       "Saytu motëëru wut yi">
+<!ENTITY  engineManager.style       "min-width: 35em;">
+<!ENTITY  engineManager.intro       "Motëëru wut yi sampu nañu:">
+
+<!ENTITY  columnLabel.name          "Tur">
+<!ENTITY  columnLabel.keyword       "Caabi baat">
+<!-- Buttons -->
+
+<!ENTITY  up.label                  "Yéeg">
+<!ENTITY  up.accesskey              "Y">
+<!ENTITY  dn.label                  "Wacc">
+<!ENTITY  dn.accesskey              "W">
+<!ENTITY  remove.label              "Neenal">
+<!ENTITY  remove.accesskey          "N">
+<!ENTITY  edit.label                "Soppali caabi baat…">
+<!ENTITY  edit.accesskey            "c">
+
+<!ENTITY  addEngine.label           "Am yeneen motëëru wut…">
+<!ENTITY  addEngine.accesskey       "o">
+
+<!ENTITY  enableSuggest.label       "Wane tektali wut">
+<!ENTITY  enableSuggest.accesskey   "a">
+
+<!ENTITY  restoreDefaults.label     "Yeesal parameetar ñakk ndigal yi">
+<!ENTITY  restoreDefaults.accesskey "e">

@@ -1,0 +1,110 @@
+<!-- Note: each tab panel must contain unique accesskeys -->
+
+<!ENTITY generalTab.label                "Ëmb lépp">
+
+<!ENTITY accessibility.label             "Yomb jot">
+
+<!ENTITY useCursorNavigation.label       "Jëfandikoo saa su nekk butoŋu joow mi ngir doxantu ci biir xët yi">
+<!ENTITY useCursorNavigation.accesskey   "t">
+<!ENTITY searchStartTyping.label         "Dekkil wut gi boo dee dugal bind">
+<!ENTITY searchStartTyping.accesskey     "k">
+<!ENTITY blockAutoRefresh.label          "Yëgle su ay dal di jéem fataat xët wi">
+<!ENTITY blockAutoRefresh.accesskey      "Y">
+
+<!ENTITY browsing.label                  "Joow mi">
+
+<!ENTITY useAutoScroll.label             "Jëfandikoo lemmi boppam gi">
+<!ENTITY useAutoScroll.accesskey         "l">
+<!ENTITY useSmoothScrolling.label        "Jëfandikoo lemmi gu nooy">
+<!ENTITY useSmoothScrolling.accesskey    "m">
+<!ENTITY allowHWAccel.label              "Jëfandikoo xiiralu masin bi su feexee">
+<!ENTITY allowHWAccel.accesskey          "n">
+<!ENTITY checkSpelling.label             "Seetantal mbind mi boo dee dugal">
+<!ENTITY checkSpelling.accesskey         "d">
+
+<!ENTITY systemDefaults.label            "Doxalin">
+<!--XXX-->
+<!ENTITY alwaysCheckDefault.label        "Saa su ne boo dee tambali xoolal ndax &brandShortName; mooy joowkat ñakk ndigal">
+<!ENTITY alwaysCheckDefault.accesskey    "a">
+<!ENTITY checkNow.label                  "Settantal leegi">
+<!ENTITY checkNow.accesskey              "l">
+<!ENTITY submitCrashes.label             "Joxe rapooru ngiroo">
+<!ENTITY submitCrashes.accesskey         "J">
+<!ENTITY submitTelemetry.label           "Joxe ngoora rootaan yi">
+<!ENTITY submitTelemetry.accesskey       "r">
+
+<!ENTITY networkTab.label                "Lëkkële gi">
+
+<!ENTITY connection.label                "Jokkoo">
+
+<!ENTITY connectionDesc.label            "Tabb nan la &brandShortName; di jokkoo ak Internet">
+<!ENTITY connectionSettings.label        "Parameetar…">
+<!ENTITY connectionSettings.accesskey    "P">
+
+<!ENTITY offlineStorage.label            "Ndenc bu andul ak jokkoo">
+<!-- LOCALIZATION NOTE:
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
+  line in preferences as follows:
+
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
+-->
+
+<!ENTITY limitCacheSizeBefore.label      "Yemale denc mi ci">
+<!ENTITY limitCacheSizeBefore.accesskey  "Y">
+<!ENTITY limitCacheSizeAfter.label       "Mo ci dendu disk bi">
+<!ENTITY clearCacheNow.label             "Tuur ndenc mi leegi">
+<!ENTITY clearCacheNow.accesskey         "T">
+<!ENTITY overrideSmartCacheSize.label    "Soppali saytu boppamu denc mi">
+<!ENTITY overrideSmartCacheSize.accesskey "o">
+
+<!ENTITY updateTab.label                 "Mottali yi">
+
+<!ENTITY autoCheck.label                 "Wutal boppam ay mottali ngir :">
+<!ENTITY enableAppUpdate.label           "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey       "F">
+<!ENTITY enableAddonsUpdate2.label       "Modil yi">
+<!ENTITY enableAddonsUpdate2.accesskey   "M">
+<!ENTITY enableSearchUpdate.label        "Motëëri wut">
+<!ENTITY enableSearchUpdate.accesskey    "o">
+<!ENTITY whenUpdatesFound.label          "Saa su mottaliy &brandShortName; sampoo :">
+<!ENTITY askMe.label                     "Laaj li ñu war def">
+<!ENTITY askMe.accesskey                 "d">
+<!ENTITY modeAutomatic.label             "Yeb ak samp boppam mottali yi">
+<!ENTITY modeAutomatic.accesskey         "b">
+<!ENTITY modeAutoAddonWarn.label         "Yëgle su fekkeeni dafay suuxal modil yi">
+<!ENTITY modeAutoAddonWarn.accesskey     "Y">
+<!ENTITY updateHistory.label             "Wone jaar jaaru mottali yi">
+<!ENTITY updateHistory.accesskey         "a">
+
+<!ENTITY offlineNotify.label             "Yëgle su fekkee dafa am ab dal buy laaj denc ay mbir ci jokkoodiku">
+<!ENTITY offlineNotify.accesskey         "Y">
+<!ENTITY offlineNotifyExceptions.label   "Seppi yi…">
+<!ENTITY offlineNotifyExceptions.accesskey "S">
+
+<!ENTITY offlineAppsList.label           "Dal yii am nañu ay rootaan yu ñu aar ngir jëfandikoo leen ci jokkoodiku :">
+<!ENTITY offlineAppsList.height          "7em">
+<!ENTITY offlineAppsListRemove.label     "Far…">
+<!ENTITY offlineAppsListRemove.accesskey "F">
+<!ENTITY offlineAppRemove.confirm        "Mabb rootaan yi ne ci jokkoodiku">
+
+<!ENTITY encryptionTab.label             "Woññi wi">
+
+<!ENTITY protocols.label                 "Ndefin yi">
+<!ENTITY useSSL3.label                   "Jëfandikoo SSL 3.0">
+<!ENTITY useSSL3.accesskey               "3">
+<!ENTITY useTLS1.label                   "Jëfandikoo TLS 1.0">
+<!ENTITY useTLS1.accesskey               "1">
+<!ENTITY certificates.label              "Sarsifikaa">
+<!ENTITY certSelection.description       "Su ab servëër dima laaj sama sarsifikaa bopp :">
+<!ENTITY certs.auto                      "Fal boppam benn">
+<!ENTITY certs.auto.accesskey            "l">
+<!ENTITY certs.ask                       "Laaj ma saa su ne">
+<!ENTITY certs.ask.accesskey             "i">
+<!ENTITY viewCerts.label                 "Wone sarsifikaa">
+<!ENTITY viewCerts.accesskey             "a">
+<!ENTITY viewCRLs.label                  "Limi bañ">
+<!ENTITY viewCRLs.accesskey              "L">
+<!ENTITY verify2.label                   "Wóóral gi">
+<!ENTITY verify2.accesskey               "W">
+<!ENTITY viewSecurityDevices.label       "Wër ndombo kaarange">
+<!ENTITY viewSecurityDevices.accesskey   "a">
