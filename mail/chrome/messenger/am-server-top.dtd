@@ -1,6 +1,6 @@
 <!-- extracted from am-server-top.xul -->
 
-<!ENTITY securitySettings.label "Sigurnosne postavke">
+<!ENTITY securitySettings.label "Postavke sigurnosti">
 <!ENTITY serverSettings.label "Postavke poslužitelja">
 <!ENTITY serverType.label "Vrsta poslužitelja:">
 <!ENTITY serverName.label "Naziv poslužitelja:">
@@ -15,7 +15,7 @@
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
 -->
-<!ENTITY biffStart.label "Provjeri za nove poruke svakih ">
+<!ENTITY biffStart.label "Provjeri dostupnost novih poruka svakih ">
 <!ENTITY biffStart.accesskey "v">
 <!ENTITY biffEnd.label "minuta">
 <!ENTITY connectionSecurity.label "Sigurnost veze:">
@@ -50,7 +50,7 @@
 <!ENTITY expungeOnExit.accesskey "e">
 <!ENTITY emptyTrashOnExit.label "Isprazni Smeće prilikom izlaza">
 <!ENTITY emptyTrashOnExit.accesskey "z">
-<!ENTITY loginAtStartup.label "Provjeri za nove poruke prilikom pokretanja">
+<!ENTITY loginAtStartup.label "Provjeri dostupnost novih poruka pri pokretanju">
 <!ENTITY loginAtStartup.accesskey "j">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
@@ -60,7 +60,7 @@
 <!ENTITY maxMessagesStart.accesskey "m">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "poruka">
-<!ENTITY alwaysAuthenticate.label "Uvijek zahtjevaj autentifikaciju prilikom povezivanja na ovaj poslužitelj">
+<!ENTITY alwaysAuthenticate.label "Uvijek zahtijevaj autentifikaciju prilikom povezivanja na ovaj poslužitelj">
 <!ENTITY alwaysAuthenticate.accesskey "v">
 <!ENTITY newsrcFilePath.label "newsrc datoteka:">
 <!ENTITY localPath.label "Lokalna mapa:">
