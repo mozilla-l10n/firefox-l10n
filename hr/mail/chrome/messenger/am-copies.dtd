@@ -7,11 +7,11 @@
 <!ENTITY fccReplyFollowsParent.label "Stavi odgovore u mapu poruke na koju se odgovara">
 <!ENTITY fccReplyFollowsParent.accesskey "t">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
-<!ENTITY ccAddress.label "Cc ove adrese e-pošte:">
+<!ENTITY ccAddress.label "Stavi ove adrese e-pošte u CC:">
 <!ENTITY ccAddress.accesskey "C">
 <!ENTITY ccAddressList.placeholder "Odvojite adrese zarezom">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
-<!ENTITY bccAddress.label "Bcc ove adrese e-pošte:">
+<!ENTITY bccAddress.label "Stavi ove adrese e-pošte u BCC:">
 <!ENTITY bccAddress.accesskey "B">
 <!ENTITY bccAddressList.placeholder "Odvojite adrese zarezom">
 <!ENTITY saveMessageDlg.label "Prikaži upit za potvrdu prilikom spremanja poruke">
@@ -19,7 +19,7 @@
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY sentFolderOn.label "Mapu &quot;Poslana pošta&quot; u:">
 <!ENTITY sentFolderOn.accesskey "s">
-<!ENTITY sentInOtherFolder.label "Drugi:">
+<!ENTITY sentInOtherFolder.label "Drugo:">
 <!ENTITY sentInOtherFolder.accesskey "g">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY archivesTitle.label "Arhiva poruka">
@@ -29,18 +29,18 @@
 <!ENTITY archiveHierarchyButton.accesskey "a">
 <!ENTITY archivesFolderOn.label "Mapi &quot;Arhiva&quot; u:">
 <!ENTITY archivesFolderOn.accesskey "u">
-<!ENTITY archiveInOtherFolder.label "Drugi:">
+<!ENTITY archiveInOtherFolder.label "Drugo:">
 <!ENTITY archiveInOtherFolder.accesskey "D">
 <!ENTITY specialFolders.label "Skice i predlošci">
 <!ENTITY keepDrafts.label "Drži skice poruka u:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "Mapi &quot;Skice&quot; u:">
 <!ENTITY draftsFolderOn.accesskey "k">
-<!ENTITY draftInOtherFolder.label "Drugi:">
+<!ENTITY draftInOtherFolder.label "Drugo:">
 <!ENTITY draftInOtherFolder.accesskey "r">
 <!ENTITY keepTemplates.label "Drži predloške poruka u:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "Mapi &quot;Predlošci&quot; u:">
 <!ENTITY templatesFolderOn.accesskey "M">
-<!ENTITY templateInOtherFolder.label "Drugi:">
+<!ENTITY templateInOtherFolder.label "Drugo:">
 <!ENTITY templateInOtherFolder.accesskey "i">
