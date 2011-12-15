@@ -1,0 +1,41 @@
+<!-- The page shown when not logged in... -->
+<!ENTITY setupButton.label          "Teelto &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "T">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; ena wallu-maa heɓde aslol, maantore, finndeeji maa tee uddita tabbe hakkunde kaɓirɗi maa kala.">
+<!-- The page shown when logged in... -->
+<!-- Login error feedback -->
+
+
+<!ENTITY updatePass.label             "Hesɗitin">
+<!ENTITY resetPass.label              "Artir">
+<!-- Manage Account -->
+
+<!ENTITY manageAccount.label          "Toppito Konte">
+<!ENTITY manageAccount.accesskey      "K">
+<!ENTITY viewQuota.label              "Hollu Kotaa">
+<!ENTITY changePassword2.label         "Waylu Finnde...">
+<!ENTITY mySyncKey.label              "Kelal Sync Am">
+<!ENTITY resetSync2.label              "Artir Sync...">
+
+<!ENTITY addDevice.label              "Ɓeydu Kaɓirgol">
+
+<!ENTITY syncMy.label               "Sanngoɗin">
+<!ENTITY engine.bookmarks.label     "Maantore am">
+<!ENTITY engine.bookmarks.accesskey "t">
+<!ENTITY engine.tabs.label          "Tabbe">
+<!ENTITY engine.tabs.accesskey      "T">
+<!ENTITY engine.history.label       "Aslol">
+<!ENTITY engine.history.accesskey   "o">
+<!ENTITY engine.passwords.label     "Finndeeji">
+<!ENTITY engine.passwords.accesskey "F">
+<!ENTITY engine.prefs.label         "Cuɓoraaɗe">
+<!ENTITY engine.prefs.accesskey     "e">
+<!-- Device Settings -->
+
+<!ENTITY syncComputerName.label       "Innde Ordinateer:">
+<!ENTITY syncComputerName.accesskey   "I">
+<!ENTITY unlinkDevice.label           "Seŋtu ngol kaɓirgol">
+<!-- Footer stuff -->
+
+<!ENTITY prefs.tosLink.label        "Laabi Carwol">
+<!ENTITY prefs.ppLink.label         "Dawirgol Suturo">

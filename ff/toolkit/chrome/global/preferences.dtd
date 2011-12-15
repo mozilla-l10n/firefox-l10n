@@ -1,0 +1,5 @@
+<!ENTITY  windowClose.key                         "w">
+<!ENTITY  preferencesDefaultTitleMac.title        "Cuɓoraaɗe">
+<!ENTITY  preferencesDefaultTitleWin.title        "Cuɓe">
+<!ENTITY  preferencesCloseButton.label            "Uddu">
+<!ENTITY  preferencesCloseButton.accesskey        "U">

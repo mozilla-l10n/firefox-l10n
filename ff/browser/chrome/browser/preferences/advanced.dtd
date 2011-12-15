@@ -1,0 +1,110 @@
+<!-- Note: each tab panel must contain unique accesskeys -->
+
+<!ENTITY generalTab.label                "Kuuɓal">
+
+<!ENTITY accessibility.label             "Weeɓitaare">
+
+<!ENTITY useCursorNavigation.label       "Huutoro ŋiiƴe jamngel ngel ngam feeraade e nder kelle">
+<!ENTITY useCursorNavigation.accesskey   "j">
+<!ENTITY searchStartTyping.label         "Yiylo binndol so mi fuɗɗiima tappude">
+<!ENTITY searchStartTyping.accesskey     "d">
+<!ENTITY blockAutoRefresh.label          "Reentin-am so lowe geese etiima yiiltude walla hesɗitinde hello ngoo">
+<!ENTITY blockAutoRefresh.accesskey      "w">
+
+<!ENTITY browsing.label                  "Ena feeroo">
+
+<!ENTITY useAutoScroll.label             "Huutoro ŋaylogol jaajol">
+<!ENTITY useAutoScroll.accesskey         "j">
+<!ENTITY useSmoothScrolling.label        "Huutoro ŋaylogol teeyngol">
+<!ENTITY useSmoothScrolling.accesskey    "t">
+<!ENTITY allowHWAccel.label              "Huutoro moylinol njamndeeri so ena woodi">
+<!ENTITY allowHWAccel.accesskey          "m">
+<!ENTITY checkSpelling.label             "Ƴeewto mbinndiin am so miɗo tappa">
+<!ENTITY checkSpelling.accesskey         "t">
+
+<!ENTITY systemDefaults.label            "Goowaaɗi Yuɓɓo">
+<!--XXX-->
+<!ENTITY alwaysCheckDefault.label        "Ƴeewto sahaa kala ngam yiyde so &brandShortName; ko wanngorde maa woowaande tuma nde hurmiti">
+<!ENTITY alwaysCheckDefault.accesskey    "w">
+<!ENTITY checkNow.label                  "Ƴeewto Jooni">
+<!ENTITY checkNow.accesskey              "J">
+<!ENTITY submitCrashes.label             "Neldu jaŋte kooke">
+<!ENTITY submitCrashes.accesskey         "N">
+<!ENTITY submitTelemetry.label           "Naatnoy keɓe moƴƴugol">
+<!ENTITY submitTelemetry.accesskey       "k">
+
+<!ENTITY networkTab.label                "Laylaytol">
+
+<!ENTITY connection.label                "Seŋorde">
+
+<!ENTITY connectionDesc.label            "Teelto no &brandShortName; seŋortoo e Enternet">
+<!ENTITY connectionSettings.label        "Teelte…">
+<!ENTITY connectionSettings.accesskey    "e">
+
+<!ENTITY offlineStorage.label            "Mooftugol Ceŋtol">
+<!-- LOCALIZATION NOTE:
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
+  line in preferences as follows:
+
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
+-->
+
+<!ENTITY limitCacheSizeBefore.label      "Haaɗnu kaasol e">
+<!ENTITY limitCacheSizeBefore.accesskey  "H">
+<!ENTITY limitCacheSizeAfter.label       "MB boowal mbeɗu">
+<!ENTITY clearCacheNow.label             "Momtu Jooni">
+<!ENTITY clearCacheNow.accesskey         "M">
+<!ENTITY overrideSmartCacheSize.label    "Fawtoro toppitagol kaasol jaajol">
+<!ENTITY overrideSmartCacheSize.accesskey "F">
+
+<!ENTITY updateTab.label                 "Hesɗitin">
+
+<!ENTITY autoCheck.label                 "Yiylo kesɗitine e jaajol to:">
+<!ENTITY enableAppUpdate.label           "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey       "F">
+<!ENTITY enableAddonsUpdate2.label       "Ɓeyditte">
+<!ENTITY enableAddonsUpdate2.accesskey   "t">
+<!ENTITY enableSearchUpdate.label        "Jiilorɗe">
+<!ENTITY enableSearchUpdate.accesskey    "o">
+<!ENTITY whenUpdatesFound.label          "So kesɗitine &brandShortName; njiytaama:">
+<!ENTITY askMe.label                     "Naamno-mi ko njiɗ-mi waɗde">
+<!ENTITY askMe.accesskey                 "m">
+<!ENTITY modeAutomatic.label             "Awwto tee loowaa kesɗitinal ngal e jaajol">
+<!ENTITY modeAutomatic.accesskey         "l">
+<!ENTITY modeAutoAddonWarn.label         "Reentin-am so ɗum maa daaƴ gooral e ɓeyditte am">
+<!ENTITY modeAutoAddonWarn.accesskey     "R">
+<!ENTITY updateHistory.label             "Hollu Aslol Kesɗitine">
+<!ENTITY updateHistory.accesskey         "A">
+
+<!ENTITY offlineNotify.label             "Haalan am so lowre geese naamniima mooftude keɓe ngam huutoreede e ceŋtol">
+<!ENTITY offlineNotify.accesskey         "l">
+<!ENTITY offlineNotifyExceptions.label   "Paltooje…">
+<!ENTITY offlineNotifyExceptions.accesskey "l">
+
+<!ENTITY offlineAppsList.label           "Ɗee-ɗoo lowe mooftii keɓe ngam huutoreede e ceŋtol:">
+<!ENTITY offlineAppsList.height          "7em">
+<!ENTITY offlineAppsListRemove.label     "Ittu…">
+<!ENTITY offlineAppsListRemove.accesskey "I">
+<!ENTITY offlineAppRemove.confirm        "Momtu keɓe ceŋtol ɗee">
+
+<!ENTITY encryptionTab.label             "Gannugol">
+
+<!ENTITY protocols.label                 "Jaɓɓitore">
+<!ENTITY useSSL3.label                   "Huutoro SSL 3.0">
+<!ENTITY useSSL3.accesskey               "3">
+<!ENTITY useTLS1.label                   "Huutoro TLS 1.0">
+<!ENTITY useTLS1.accesskey               "1">
+<!ENTITY certificates.label              "Seedamfaaji">
+<!ENTITY certSelection.description       "So sarworde ɗaɓɓitii seedamfaagu am heeriingu:">
+<!ENTITY certs.auto                      "Labo gootal e jaajol">
+<!ENTITY certs.auto.accesskey            "l">
+<!ENTITY certs.ask                       "Naamno-mi e sahaa kala">
+<!ENTITY certs.ask.accesskey             "i">
+<!ENTITY viewCerts.label                 "Hollu Seedamfaaji">
+<!ENTITY viewCerts.accesskey             "S">
+<!ENTITY viewCRLs.label                  "Doggi Diiwtaaɗe">
+<!ENTITY viewCRLs.accesskey              "D">
+<!ENTITY verify2.label                   "Moƴƴitinol">
+<!ENTITY verify2.accesskey               "M">
+<!ENTITY viewSecurityDevices.label       "Kaɓirɗi Kisal">
+<!ENTITY viewSecurityDevices.accesskey   "i">

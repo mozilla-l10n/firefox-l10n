@@ -1,0 +1,69 @@
+<!ENTITY  fontsDialog.title                       "Ponte">
+<!ENTITY  window.width                            "39em">
+<!ENTITY  window.macWidth                         "43em">
+<!ENTITY  window.unixWidth                        "41em">
+
+<!ENTITY  language.label                          "Ponte:">
+<!ENTITY  language.accesskey                      "P">
+
+<!ENTITY  size.label                              "Ɓetol:">
+<!ENTITY  sizeProportional.accesskey              "z">
+<!ENTITY  sizeMonospace.accesskey                 "e">
+
+<!ENTITY  proportional.label                      "Podditiiɗe:">
+<!ENTITY  proportional.accesskey                  "P">
+
+<!ENTITY  serif.label                             "Serif:">
+<!ENTITY  serif.accesskey                         "S">
+<!ENTITY  sans-serif.label                        "Saa-serif:">
+<!ENTITY  sans-serif.accesskey                    "a">
+<!ENTITY  monospace.label                         "Monospace:">
+<!ENTITY  monospace.accesskey                     "M">
+
+<!ENTITY  font.langGroup.latin1                   "Western">
+<!ENTITY  font.langGroup.latin2                   "Central European">
+<!ENTITY  font.langGroup.japanese                 "Japanese">
+<!ENTITY  font.langGroup.trad-chinese             "Traditional Chinese (Taiwan)">
+<!ENTITY  font.langGroup.simpl-chinese            "Simplified Chinese">
+<!ENTITY  font.langGroup.trad-chinese-hk          "Traditional Chinese (Hong Kong)">
+<!ENTITY  font.langGroup.korean                   "Korean">
+<!ENTITY  font.langGroup.cyrillic                 "Cyrillic">
+<!ENTITY  font.langGroup.baltic                   "Baltic">
+<!ENTITY  font.langGroup.el                       "Greek">
+<!ENTITY  font.langGroup.turkish                  "Turkish">
+<!ENTITY  font.langGroup.unicode                  "Ɗemɗe Goɗɗe">
+<!ENTITY  font.langGroup.user-def                 "Kuutoro Suɓii">
+<!ENTITY  font.langGroup.thai                     "Thai">
+<!ENTITY  font.langGroup.hebrew                   "Hebrew">
+<!ENTITY  font.langGroup.arabic                   "Aarabeere">
+<!ENTITY  font.langGroup.devanagari               "Devanagari">
+<!ENTITY  font.langGroup.tamil                    "Tamil">
+<!ENTITY  font.langGroup.armenian                 "Armeniire">
+<!ENTITY  font.langGroup.bengali                  "Benngali">
+<!ENTITY  font.langGroup.canadian                 "Unified Canadian Syllabary">
+<!ENTITY  font.langGroup.ethiopic                 "Ethiopic">
+<!ENTITY  font.langGroup.georgian                 "Georgian">
+<!ENTITY  font.langGroup.gujarati                 "Gujarati">
+<!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
+<!ENTITY  font.langGroup.khmer                    "Khmer">
+<!ENTITY  font.langGroup.malayalam                "Malayalam">
+<!ENTITY  font.langGroup.oriya                    "Oriya">
+<!ENTITY  font.langGroup.telugu                   "Telugu">
+<!ENTITY  font.langGroup.kannada                  "Kannada">
+<!ENTITY  font.langGroup.sinhala                  "Sinhala">
+<!ENTITY  font.langGroup.tibetan                  "Tibetan">
+<!-- Minimum font size -->
+<!ENTITY minSize.label                            "Ɓetol fontere lesol:">
+<!ENTITY minSize.accesskey                        "o">
+<!ENTITY minSize.none                             "Hay baɗte">
+<!-- default font type -->
+
+<!ENTITY  useDefaultFontSerif.label               "Serif">
+<!ENTITY  useDefaultFontSansSerif.label           "San Serif">
+
+<!ENTITY  allowPagesToUse.label                   "Yamir kelle yoo kuutoro ponte mum'en keeriiɗe waasa wonde ɗe am dow ɗoo">
+<!ENTITY  allowPagesToUse.accesskey               "Y">
+
+<!ENTITY languages.customize.Charset.grouplabel         "Dokkitagol Alkule">
+<!ENTITY languages.customize.DefaultCharset.label       "Dokkitagol Alkule Goowangol:">
+<!ENTITY languages.customize.DefaultCharset.accesskey   "A">

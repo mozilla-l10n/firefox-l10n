@@ -1,0 +1,37 @@
+<!ENTITY  blockPopups.label           "Falo kenorɗe cuppitte">
+<!ENTITY  blockPopups.accesskey       "F">
+<!ENTITY  popupExceptions.label       "Paltooje…">
+<!ENTITY  popupExceptions.accesskey   "P">
+
+<!ENTITY  loadImages.label            "Loow nate ɗee e jaajol">
+<!ENTITY  loadImages.accesskey        "a">
+<!ENTITY  exceptions.label            "Paltooje…">
+<!ENTITY  exceptions.accesskey        "a">
+
+<!ENTITY  enableJavaScript.label      "Daaƴtu JavaScript">
+<!ENTITY  enableJavaScript.accesskey  "J">
+<!ENTITY  advancedJS.label            "Ceeɓtore…">
+<!ENTITY  advancedJS.accesskey        "e">
+
+<!ENTITY  enableJava.label            "Daaƴtu Java">
+<!ENTITY  enableJava.accesskey        "a">
+
+
+<!ENTITY  fontsAndColors.label        "Ponte &amp; Noorɗe">
+
+<!ENTITY  defaultFont.label           "Fontere woowaande:">
+<!ENTITY  defaultFont.accesskey       "F">
+<!ENTITY  defaultSize.label           "Ɓetol:">
+<!ENTITY  defaultSize.accesskey       "Ɓ">
+
+<!ENTITY  advancedFonts.label         "Ceeɓtore…">
+<!ENTITY  advancedFonts.accesskey     "C">
+
+<!ENTITY  colors.label                "Noorɗe…">
+<!ENTITY  colors.accesskey            "N">
+
+
+<!ENTITY languages.label              "Ɗemɗe">
+<!ENTITY chooseLanguage.label         "Suɓo ɗemngal njiɗ-ɗaa ngam jaytinde kelle">
+<!ENTITY chooseButton.label           "Suɓo…">
+<!ENTITY chooseButton.accesskey       "u">

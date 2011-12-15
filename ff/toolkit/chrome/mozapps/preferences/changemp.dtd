@@ -1,0 +1,9 @@
+<!ENTITY setPassword.title                 "Waylu Fiinde Baabaare">
+<!ENTITY setPassword.tokenName.label       "Security Device">
+<!ENTITY setPassword.oldPassword.label     "Finnde woodnde:">
+<!ENTITY setPassword.newPassword.label     "Enter new password:">
+<!ENTITY setPassword.reenterPassword.label "Re-enter password:">
+<!ENTITY setPassword.meter.label           "Ɓetirɗe moƴƴugol finnde">
+<!ENTITY setPassword.meter.loading         "Ena loowa">
+<!ENTITY masterPasswordDescription.label   "A Master Password is used to protect sensitive information like site passwords.  If you create a Master Password you will be asked to enter it once per session when &brandShortName; retrieves saved information protected by the password.">
+<!ENTITY masterPasswordWarning.label       "Please make sure you remember the Master Password you have set.  If you forget your Master Password, you will be unable to access any of the information protected by it.">

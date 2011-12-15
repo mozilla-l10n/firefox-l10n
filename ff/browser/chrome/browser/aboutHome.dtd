@@ -1,0 +1,19 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+  %brandDTD;
+<!-- These strings are used in the about:home page -->
+
+
+<!ENTITY abouthome.pageTitle "&brandFullName; Hello Naatirngo">
+
+<!ENTITY abouthome.searchEngineButton.label "Yiylo">
+
+<!ENTITY abouthome.aboutMozilla "Baɗte Mozilla">
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
+     text in <a/> will be linked to the Firefox features page on mozilla.com
+-->
+
+<!ENTITY abouthome.defaultSnippet1.v1 "A jaaraama e cuɓagol Firefox! Ngam naftoraade tigi ndee wanngorde, ɓeydu humpito maa e <a>fannuuji cakkitiiɗi</a>.">
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
+     text in <a/> will be linked to the featured add-ons on addons.mozilla.org
+-->
+<!ENTITY abouthome.defaultSnippet2.v1 "Feŋtaade Firefox haa nannda e no njiɗiɗɗaa ena weeɓi sanne. <a>Suɓo ɓeyditte e nder ujunnaaji</a>.">

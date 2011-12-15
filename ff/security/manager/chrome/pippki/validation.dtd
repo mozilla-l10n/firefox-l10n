@@ -1,0 +1,67 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is mozilla.org code.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corp.
+   - Portions created by the Initial Developer are Copyright (C) 2001
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   David P. Drinan (ddrinan@netscape.com)
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY  validation.crlmanager.label             "Toppito CRLs">
+<!ENTITY  validation.crlmanager.description       "Ɗii Doggi Diiwtugol Seedamfaaje, (CRL) mooftaa ko e ruttorde keɓe seedamfaaje maa:">
+<!ENTITY  validation.crlname.label                "Innde">
+<!ENTITY  validation.crllastupdate.label          "Kesɗitinal Cakkitiingal">
+<!ENTITY  validation.crlnextupdate.label          "Kesɗitinal Garowal">
+<!ENTITY  validation.crlautoupdateenabled.label   "Kesɗinal Jaajal">
+<!ENTITY  validation.crlautoupdatestatus.label    "Ngonka kesɗitinal Jaajal">
+<!ENTITY  validation.deletecrl.label              "Momtu">
+<!ENTITY  validation.deletecrl.accesskey          "M">
+<!ENTITY  validation.updatecrl.label              "Hesɗitin">
+<!ENTITY  validation.updatecrl.accesskey          "H">
+<!ENTITY  validation.advanced.label               "Teelte">
+<!ENTITY  validation.advanced.accesskey           "T">
+
+<!ENTITY  validation.crl.autoupdate.title         "Cuɓoraaɗe Kesɗitinal Jaajal CRL">
+<!ENTITY  validation.crl.autoupdate.enable.label  "Hurmin Kesɗitinal Jaajal ngol CRL">
+<!ENTITY  validation.crl.autoupdate.time.label1   "Hesɗitin">
+<!ENTITY  validation.crl.autoupdate.time.label2   "Balɗe hade ñalngu Kesɗitinal Garowal">
+<!ENTITY  validation.crl.autoupdate.freq.label1   "Hesɗitin kala">
+<!ENTITY  validation.crl.autoupdate.freq.label2   "Balɗe">
+<!ENTITY  validation.crl.autoupdate.url.label     "CRL fotata jiggeede Ko e:">
+<!ENTITY  crl.import.status.title                 "Ngonka Jiggagol CRL">
+<!ENTITY  crl.import.success.message              "Doggol Diiwtugol Seedamfaaje ngol (CRL) jigaama no haanirta.">
+<!ENTITY  crl.issuer.label                        "Bayyinɗo CRL Ko:">
+<!ENTITY  crl.issuer.org.label                    "Fedde: ">
+<!ENTITY  crl.issuer.orgunit.label                "Taƴre: ">
+<!ENTITY  crl.import.nextupdate.label             "Kesɗitinal Garowal Ñalnde: ">
+<!ENTITY  crl.autoupdate.fail.cnt.label           "Kesɗitine Deggondirɗe Ɓennuɗe Goorɗe: ">
+<!ENTITY  crl.autoupdate.fail.reason.label        "Cariiɗe Goorgol Kesɗitinal Cakkitiingal: ">
+<!ENTITY  edit.button                             "Teelte">

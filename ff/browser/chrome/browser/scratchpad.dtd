@@ -1,0 +1,116 @@
+<!-- LOCALIZATION NOTE : FILE This file contains the Scratchpad window strings -->
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
+<!-- LOCALIZATION NOTE (scratchpad.title):
+  -  The Scratchpad is intended to provide a simple text editor for creating
+  -  and evaluating bits of JavaScript code for the purposes of function
+  -  prototyping, experimentation and convenient scripting.
+  -
+  -  It's quite possible that you won't have a good analogue for the word
+  -  "Scratchpad" in your locale. You should feel free to find a close
+  -  approximation to it or choose a word (or words) that means
+  -  "simple discardable text editor". -->
+
+<!ENTITY window.title                 "Ɗakkitorde">
+
+<!ENTITY fileMenu.label               "Fiilde">
+<!ENTITY fileMenu.accesskey           "F">
+
+<!ENTITY newWindowCmd.label           "Henorde Hesere">
+<!ENTITY newWindowCmd.accesskey       "H">
+<!ENTITY newWindowCmd.commandkey      "n">
+
+<!ENTITY openFileCmd.label            "Uddit Fiilde…">
+<!ENTITY openFileCmd.accesskey        "U">
+<!ENTITY openFileCmd.commandkey       "o">
+
+<!ENTITY saveFileCmd.label            "Danndu">
+<!ENTITY saveFileCmd.accesskey        "D">
+<!ENTITY saveFileCmd.commandkey       "s">
+
+<!ENTITY saveFileAsCmd.label          "Danndu e Innde…">
+<!ENTITY saveFileAsCmd.accesskey      "I">
+
+<!ENTITY closeCmd.label               "Uddu">
+<!ENTITY closeCmd.key                 "W">
+<!ENTITY closeCmd.accesskey           "U">
+
+<!ENTITY editMenu.label               "Taƴto">
+<!ENTITY editMenu.accesskey           "T">
+
+<!ENTITY undoCmd.label                "Firtu">
+<!ENTITY undoCmd.key                  "Z">
+<!ENTITY undoCmd.accesskey            "F">
+
+<!ENTITY redoCmd.label                "Waɗtu">
+<!ENTITY redoCmd.key                  "Y">
+<!ENTITY redoCmd.accesskey            "W">
+
+<!ENTITY cutCmd.label                 "Dottu">
+<!ENTITY cutCmd.key                   "X">
+<!ENTITY cutCmd.accesskey             "t">
+
+<!ENTITY copyCmd.label                "Natto">
+<!ENTITY copyCmd.key                  "C">
+<!ENTITY copyCmd.accesskey            "N">
+
+<!ENTITY pasteCmd.label               "Ɗakku">
+<!ENTITY pasteCmd.key                 "V">
+<!ENTITY pasteCmd.accesskey           "Ɗ">
+
+<!ENTITY selectAllCmd.label           "Labo Fof">
+<!ENTITY selectAllCmd.key             "A">
+<!ENTITY selectAllCmd.accesskey       "F">
+
+<!ENTITY run.label                    "Hurmito">
+<!ENTITY run.accesskey                "H">
+<!ENTITY run.key                      "r">
+
+<!ENTITY inspect.label                "Yuurnito">
+<!ENTITY inspect.accesskey            "Y">
+<!ENTITY inspect.key                  "i">
+
+<!ENTITY display.label                "Jaytin">
+<!ENTITY display.accesskey            "J">
+<!ENTITY display.key                  "l">
+<!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
+  -  renamed from "Context" to avoid confusion with the right-click context
+  -  menu in the text area. It refers to the JavaScript Environment (or context)
+  -  the user is evaluating against. I.e., Content (current tab) or Chrome
+  -  (browser).
+  -->
+
+<!ENTITY environmentMenu.label        "Sato">
+<!ENTITY environmentMenu.accesskey    "t">
+
+
+<!ENTITY contentContext.label         "Loowdi">
+<!ENTITY contentContext.accesskey     "L">
+<!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
+  -  to select an execution environment for the browser window itself as opposed
+  -  to content. This is a feature for browser and addon developers and only
+  -  enabled via the devtools.chrome.enabled preference. Formerly, this label
+  -  was called "Chrome".
+  -->
+
+<!ENTITY browserContext.label         "Wanngorde">
+<!ENTITY browserContext.accesskey     "W">
+<!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
+  -  to reset/clear the global object of the environment where the code executes.
+  -->
+
+<!ENTITY resetContext.label           "Firlit">
+<!ENTITY resetContext.accesskey       "F">
+
+<!ENTITY executeMenu.label            "Hurmito">
+<!ENTITY executeMenu.accesskey        "r">
+
+<!ENTITY toolsMenu.label              "Kuutorɗe">
+<!ENTITY toolsMenu.accesskey          "K">
+
+<!ENTITY errorConsoleCmd.label        "Ginorde Juume">
+<!ENTITY errorConsoleCmd.accesskey    "J">
+<!ENTITY errorConsoleCmd.commandkey   "j">
+
+<!ENTITY webConsoleCmd.label          "Ginorde Geese">
+<!ENTITY webConsoleCmd.accesskey      "G">
+<!ENTITY webConsoleCmd.commandkey     "k">

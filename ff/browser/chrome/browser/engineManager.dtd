@@ -1,0 +1,25 @@
+<!ENTITY  engineManager.title       "Toppito Doggol Jiylorɗe…">
+<!ENTITY  engineManager.style       "min-width: 35em;">
+<!ENTITY  engineManager.intro       "Aɗa jogii ɗee-ɗoo jiilorɗe ena loowaa:">
+
+<!ENTITY  columnLabel.name          "Innde">
+<!ENTITY  columnLabel.keyword       "Helmelde">
+<!-- Buttons -->
+
+<!ENTITY  up.label                  "Dirtin Dow">
+<!ENTITY  up.accesskey              "D">
+<!ENTITY  dn.label                  "Dirtin Les">
+<!ENTITY  dn.accesskey              "L">
+<!ENTITY  remove.label              "Ittu">
+<!ENTITY  remove.accesskey          "I">
+<!ENTITY  edit.label                "Taƴto Helmede…">
+<!ENTITY  edit.accesskey            "t">
+
+<!ENTITY  addEngine.label           "Heɓ jiilorɗe goɗɗe…">
+<!ENTITY  addEngine.accesskey       "l">
+
+<!ENTITY  enableSuggest.label       "Hollu wasiyaaji jiirlorɗe">
+<!ENTITY  enableSuggest.accesskey   "H">
+
+<!ENTITY  restoreDefaults.label     "Artir Goowaaɗe">
+<!ENTITY  restoreDefaults.accesskey "r">

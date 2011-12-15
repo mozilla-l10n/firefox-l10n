@@ -1,0 +1,5 @@
+<!ENTITY window.title              "Suɓo Runngere">
+<!ENTITY window.style              "width: 36em; height: 18em;">
+<!ENTITY moveTo.label              "Dirto to:">
+<!ENTITY newFolderButton.label     "Runngere Hesere">
+<!ENTITY newFolderButton.accesskey "R">

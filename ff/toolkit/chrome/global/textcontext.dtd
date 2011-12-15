@@ -1,0 +1,20 @@
+<!ENTITY cutCmd.label "Dottu">
+<!ENTITY cutCmd.accesskey "t">
+<!ENTITY copyCmd.label "Natto">
+<!ENTITY copyCmd.accesskey "N">
+<!ENTITY pasteCmd.label "Ɗakku">
+<!ENTITY pasteCmd.accesskey "Ɗ">
+<!ENTITY undoCmd.label "Firtu">
+<!ENTITY undoCmd.accesskey "F">
+<!ENTITY selectAllCmd.label "Labo Fof">
+<!ENTITY selectAllCmd.accesskey "F">
+<!ENTITY deleteCmd.label "Momtu">
+<!ENTITY deleteCmd.accesskey "M">
+
+<!ENTITY spellAddToDictionary.label "Ɓeydu to e Saggitorde">
+<!ENTITY spellAddToDictionary.accesskey "o">
+<!ENTITY spellCheckEnable.label "Ƴeewto Mbinndiin">
+<!ENTITY spellCheckEnable.accesskey "M">
+<!ENTITY spellNoSuggestions.label "(Alaa Miijtanɗe Mbinndiin)">
+<!ENTITY spellDictionaries.label "Ɗemɗe">
+<!ENTITY spellDictionaries.accesskey "Ɗ">

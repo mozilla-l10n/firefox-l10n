@@ -1,0 +1,10 @@
+<!ENTITY  typeColumn.label        "Fannu Loowdi">
+<!ENTITY  typeColumn.accesskey    "L">
+
+<!ENTITY  actionColumn2.label     "Baɗal">
+<!ENTITY  actionColumn2.accesskey "B">
+
+<!ENTITY  focusSearch1.key        "f">
+<!ENTITY  focusSearch2.key        "k">
+
+<!ENTITY  filter.emptytext        "Yiylo">
