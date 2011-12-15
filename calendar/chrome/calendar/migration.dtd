@@ -34,8 +34,8 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY migration.title "&brandFullName;: Datuak Inportatu">
-<!ENTITY migration.welcome "Ongi Etorri">
+<!ENTITY migration.title "&brandFullName;: Datuak inportatu">
+<!ENTITY migration.welcome "Ongi etorri">
 <!ENTITY migration.importing "Inportatzen">
 <!ENTITY migration.list.description "&brandShortName;(e)k egutegien datuak hainbat programa desberdinetatik inportatu ditzake. Ondorengo programetan datuak aurkitu dira. Aukera ezazu zein programetatik inportatu nahi dituzun datuak.">
 <!ENTITY migration.progress.description "Aukeratutako datuak inportatzen">

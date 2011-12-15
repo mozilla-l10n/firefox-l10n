@@ -11,19 +11,14 @@
    - for the specific language governing rights and limitations under the
    - License.
    -
-   - The Original Code is OEone Calendar Code, released October 31st, 2001.
+   - The Original Code is Sun Microsystems code.
    -
    - The Initial Developer of the Original Code is
-   - OEone Corporation.
-   - Portions created by the Initial Developer are Copyright (C) 2001
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   - Portions created by the Initial Developer are Copyright (C) 2008-2009
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   Mike Potter <mikep@oeone.com>
-   -   ArentJan Banck <ajbanck@planet.nl>
-   -   Eric Belhaire <belhaire@ief.u-psud.fr>
-   -   Matthew Willis <mattwillis@gmail.com>
-   -   Philipp Kewisch <mozilla@kewis.ch>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -39,15 +34,21 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY  prefWindow.titleWin     "Aukerak">
-<!ENTITY  prefWindow.titleGNOME   "&brandShortName; Hobespenak">
-<!ENTITY  prefWindow.styleWin     "width: 47em; height: 37em;">
-<!ENTITY  prefWindow.styleMac     "width: 47em;">
-<!ENTITY  prefWindow.styleGNOME   "width: 47em; height: 34.5em;">
+<!ENTITY reminderdialog.title                              "Ezarri gogorarazleak">
+<!ENTITY reminder.add.label                                "Gehitu">
+<!ENTITY reminder.add.accesskey                            "G">
+<!ENTITY reminder.remove.label                             "Kendu">
+<!ENTITY reminder.remove.accesskey                         "K">
 
-<!ENTITY  paneGeneral.title       "Orokorra">
-<!ENTITY  paneAlarms.title        "Reminders">
-<!ENTITY  paneCategories.title    "Kategoriak">
-<!ENTITY  paneViews.title         "Ikuspegiak">
-<!ENTITY  paneTimezones.title     "Ordu zonaldeak">
-<!ENTITY  paneAdvanced.title      "Aurreratua">
+<!ENTITY reminder.reminderDetails.label                    "Gogorarazleen zehaztapenak">
+<!ENTITY reminder.action.label                             "Aukeratu gogoratze ekintza">
+
+<!ENTITY reminder.relation.before.label                    "aurretik" >
+<!ENTITY reminder.relation.after.label                     "ondoren" >
+
+<!ENTITY reminder.action.alert.label                       "Abisua ikusi">
+<!ENTITY reminder.action.email.label                       "Bidali ePosta">
+
+<!ENTITY alarm.units.minutes                               "minutu" >
+<!ENTITY alarm.units.hours                                 "ordu" >
+<!ENTITY alarm.units.days                                  "egun" >
