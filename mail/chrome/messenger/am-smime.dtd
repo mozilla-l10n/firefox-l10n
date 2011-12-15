@@ -1,6 +1,6 @@
 <!ENTITY securityTitle.label "Sigurnost">
 <!ENTITY securityTab.label "Sigurnost">
-<!ENTITY securityHeading.label "Kako bi slali i primali potpisane ili kriptirane poruke, trebate odrediti certifikat za digitalni potpis i certifikat za kriptiranje.">
+<!ENTITY securityHeading.label "Da biste slali i primali potpisane ili kriptirane poruke, trebate odrediti certifikat za digitalni potpis i certifikat za kriptiranje.">
 <!ENTITY encryptionGroupTitle.label "Kriptiranje">
 <!ENTITY encryptionChoiceLabel.label "Zadane postavke kriptiranja prilikom slanja poruka:">
 <!ENTITY neverEncrypt.label "Nikada (ne koristi kriptiranje)">
