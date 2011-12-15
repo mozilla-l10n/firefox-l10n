@@ -70,16 +70,16 @@
 <!ENTITY updateAutoAddonWarn.accesskey   "v">
 
 <!ENTITY updateHistory.label             "Montri la historion de ĝisdatigoj">
-<!ENTITY updateHistory.accesskey         "h">
+<!ENTITY updateHistory.accesskey         "M">
 
 <!ENTITY useService.label                "Uzi fonan servon por instali ĝisdatigojn">
 <!ENTITY useService.accesskey            "f">
 
 <!ENTITY updateOthers.label              "Aŭtomate ĝisdatigi:">
 <!ENTITY enableAddonsUpdate3.label       "Aldonaĵoj">
-<!ENTITY enableAddonsUpdate3.accesskey   "o">
+<!ENTITY enableAddonsUpdate3.accesskey   "A">
 <!ENTITY enableSearchUpdate.label        "Serĉiloj">
-<!ENTITY enableSearchUpdate.accesskey    "i">
+<!ENTITY enableSearchUpdate.accesskey    "S">
 
 <!ENTITY offlineNotify.label             "Diri al mi kiam retejo petas la konservado de datumojn por uzi malkonektite">
 <!ENTITY offlineNotify.accesskey         "D">
