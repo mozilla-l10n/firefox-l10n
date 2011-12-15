@@ -7,7 +7,7 @@
 <!ENTITY move.accesskey "m">
 <!ENTITY junkFolderOn.label "Mapu &quot;Neželjena pošta&quot; u:">
 <!ENTITY junkFolderOn.accesskey "N">
-<!ENTITY otherFolder.label "Drugi:">
+<!ENTITY otherFolder.label "Drugo:">
 <!ENTITY otherFolder.accesskey "r">
 <!ENTITY purge1.label "Automatski obriši neželjenu poštu stariju od">
 <!ENTITY purge1.accesskey "u">
