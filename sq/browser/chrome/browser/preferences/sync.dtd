@@ -15,7 +15,7 @@
 <!ENTITY myRecoveryKey.label          "Kyçi Im për Riparimin">
 <!ENTITY resetSync2.label             "Rirregulloni Sync-un…">
 
-<!ENTITY pairDevice.label             "Çiftoni një Pajisje">
+<!ENTITY pairDevice.label             "Përshoqëroni një Pajisje">
 
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label       "Emri i Kompjuterit:">

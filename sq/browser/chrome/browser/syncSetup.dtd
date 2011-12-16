@@ -4,10 +4,7 @@
 
 <!ENTITY setup.pickSetupType.description "Mirë se vini! Nëse nuk e keni përdorur kurrë më parë &syncBrand.fullName.label;-un, lypset të krijoni një llogari të re.">
 <!ENTITY button.createNewAccount.label "Krijoni një Llogari të Re">
-<!ENTITY setup.haveAccount.label "Kam tashmë një Llogari &syncBrand.fullName.label;-u.">
-<!ENTITY button.connect.label    "Lidhuni">
-
-
+<!ENTITY button.haveAccount.label      "E kam një Llogari">
 
 <!ENTITY setup.choicePage.title.label     "E keni përdorur &syncBrand.fullName.label; më parë?">
 <!ENTITY setup.choicePage.new.label       "Nuk e kam përdorur kurrë më parë &syncBrand.shortName.label;">
@@ -56,15 +53,13 @@
 <!ENTITY button.syncKeyBackup.save.label      "Ruajeni…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "R">
 
-<!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "Ju lutemi, Ripohoni Që Nuk Jeni Robot">
-<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "Shtoni një Pajisje">
+<!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
+<!ENTITY pairDevice.title.label             "Përshoqëroni një Pajisje">
 <!ENTITY addDevice.showMeHow.label          "Tregomë se si.">
-<!ENTITY addDevice.dontHaveDevice.label     "Nuk e kam me vete pajisjem">
-<!ENTITY addDevice.setup.description.label  "Për ta aktivizuar, shkoni teMundësi &syncBrand.shortName.label;-u te pajisja juaj tjetër dhe përzgjidhni &#x0022;Shtoni Pajisje&#x0022;.">
+<!ENTITY addDevice.dontHaveDevice.label     "Nuk e kam me vete pajisjen">
+<!ENTITY pairDevice.setup.description.label  "Për ta aktivizuar, përzgjidhni te pajisja juaj tjetër &#x0022;Përshoqëroni një Pajisje&#x0022;.">
 <!ENTITY addDevice.setup.enterCode.label    "Mandej, jepni këtë kod:">
-<!ENTITY addDevice.dialog.description.label "Për të aktivizuar pajisjen e re, shkoni te Mundësi &syncBrand.shortName.label;-u te pajisja dhe përzgjidhni &#x0022;Lidhu.&#x0022;">
+<!ENTITY pairDevice.dialog.description.label "Që të aktivizoni pajisjen tuaj të re, te pajisja juaj përzgjidhni &#x0022;Rregulloni Sync-un&#x0022;.">
 <!ENTITY addDevice.dialog.enterCode.label   "Jepni kodin që tregon pajisja:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Ju lutem, riprovoni.">
 <!ENTITY addDevice.dialog.successful.label  "Pajisja u shtua me sukses. Njëkohësimi fillestar mund të hajë disa minuta dhe do të plotësohet në prapaskenë.">
