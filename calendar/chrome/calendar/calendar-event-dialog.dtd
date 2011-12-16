@@ -45,8 +45,8 @@
 
 <!ENTITY event.title.label                  "Editatu elementua" >
 
-<!ENTITY event.dialog.keepDurationButton.tooltip   "Keep the duration when changing the end date">
-<!ENTITY event.dialog.keepDurationButton.accesskey "K">
+<!ENTITY event.dialog.keepDurationButton.tooltip   "Mantendu iraupena amaiera-data aldatzean">
+<!ENTITY event.dialog.keepDurationButton.accesskey "M">
 
 <!ENTITY newevent.from.label                "Nondik" >
 <!ENTITY newevent.to.label                  "Nora" >
@@ -378,10 +378,10 @@
 
 <!ENTITY read.only.general.label         "Orokorra">
 <!ENTITY read.only.title.label           "Izenburua:">
-<!ENTITY read.only.event.start.label     "Start Date:">
-<!ENTITY read.only.task.start.label      "Start Date:">
-<!ENTITY read.only.event.end.label       "End Date:">
-<!ENTITY read.only.task.due.label        "Due Date:">
+<!ENTITY read.only.event.start.label     "Hasiera-data:">
+<!ENTITY read.only.task.start.label      "Hasiera-data:">
+<!ENTITY read.only.event.end.label       "Amaiera-data:">
+<!ENTITY read.only.task.due.label        "Muga-data:">
 <!ENTITY read.only.repeat.label          "Errepikatu:">
 <!ENTITY read.only.location.label        "Kokalekua:">
 <!ENTITY read.only.category.label        "Kategoria:">
