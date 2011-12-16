@@ -24,7 +24,7 @@
 <!ENTITY error.network "Odtwarzanie wideo przerwane z powodu błędu sieci.">
 <!ENTITY error.decode "Nie można odtworzyć wideo, ponieważ plik jest uszkodzony.">
 <!ENTITY error.srcNotSupported "Nieobsługiwany format wideo lub typ MIME.">
-<!ENTITY error.noSource "Nie znaleziono wideo.">
+<!ENTITY error.noSource2 "Nie odnaleziono wideo w obsługiwanym formacie i typie MIME.">
 <!ENTITY error.generic "Odtwarzanie wideo przerwane z powodu nieznanego błędu.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
