@@ -50,6 +50,7 @@
 <!ENTITY fullScreenMinimize.tooltip "Minimizoje">
 <!ENTITY fullScreenRestore.tooltip "Rikthe">
 <!ENTITY fullScreenClose.tooltip "Mbylle">
+<!ENTITY domFullScreenWarning.label "Shtypni tastin ESC që të dilni nga mënyra krejt-ekrani">
 <!ENTITY closeWindow.label "Mbylle Dritaren">
 <!ENTITY bookmarksMenu.label "Faqerojtësa">
 <!ENTITY bookmarksMenu.accesskey "F">
@@ -386,6 +387,14 @@
 <!ENTITY mediaShowControls.accesskey "K">
 <!ENTITY mediaHideControls.label     "Fshihi Kontrollet">
 <!ENTITY mediaHideControls.accesskey "K">
+<!ENTITY videoFullScreen.label       "Krejt Ekrani">
+<!ENTITY videoFullScreen.accesskey   "E">
+<!ENTITY videoSaveImage.label        "Ruajeni Foton Si…">
+<!ENTITY videoSaveImage.accesskey    "R">
+<!ENTITY videoShowStats.label        "Shfaq Statistikat">
+<!ENTITY videoShowStats.accesskey    "q">
+<!ENTITY videoHideStats.label        "Fshihi Statistikat">
+<!ENTITY videoHideStats.accesskey    "h">
 
 <!ENTITY reloadImageCmd.label         "Ringarkoje Figurën">
 <!ENTITY reloadImageCmd.accesskey     "R">
@@ -449,10 +458,13 @@
 <!ENTITY inspectMenu.label            "Shqyrtoje">
 <!ENTITY inspectMenu.accesskey        "S">
 <!ENTITY inspectMenu.commandkey       "I">
-
+<!ENTITY inspectCloseButton.tooltiptext "Mbylle Mbikëqyrësin">
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "Shqyrtoje">
 <!ENTITY inspectButton.accesskey      "q">
+<!ENTITY inspectStyleButton.label     "Stil">
+<!ENTITY inspectStyleButton.accesskey "t">
+
 <!ENTITY  listAllTabs.label      "Paraqit krejt skedat">
 <!ENTITY  reloadTab.label                    "Ringarkoje Skedën">
 <!ENTITY  reloadTab.accesskey                "R">
