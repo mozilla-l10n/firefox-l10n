@@ -10,7 +10,7 @@
   -  "Scratchpad" in your locale. You should feel free to find a close
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
-<!ENTITY window.title                 "Zhgarravina">
+<!ENTITY window.title                 "Fletë e Papastër">
 
 <!ENTITY fileMenu.label               "Kartelë">
 <!ENTITY fileMenu.accesskey           "K">
@@ -20,7 +20,7 @@
 <!ENTITY newWindowCmd.commandkey      "n">
 
 <!ENTITY openFileCmd.label            "Hapni Kartelë…">
-<!ENTITY openFileCmd.accesskey        "H">
+<!ENTITY openFileCmd.accesskey        "K">
 <!ENTITY openFileCmd.commandkey       "o">
 
 <!ENTITY saveFileCmd.label            "Ruaje">
@@ -34,7 +34,7 @@
 <!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "M">
 
-<!ENTITY editMenu.label               "Përpunoje">
+<!ENTITY editMenu.label               "Përpunoni">
 <!ENTITY editMenu.accesskey           "P">
 
 <!ENTITY undoCmd.label                "Zhbëje">
@@ -55,23 +55,23 @@
 
 <!ENTITY pasteCmd.label               "Ngjite">
 <!ENTITY pasteCmd.key                 "V">
-<!ENTITY pasteCmd.accesskey           "n">
+<!ENTITY pasteCmd.accesskey           "t">
 
 <!ENTITY selectAllCmd.label           "Përzgjidhe Krejt">
 <!ENTITY selectAllCmd.key             "A">
-<!ENTITY selectAllCmd.accesskey       "e">
+<!ENTITY selectAllCmd.accesskey       "g">
 
 <!ENTITY run.label                    "Xhiroje">
-<!ENTITY run.accesskey                "R">
-<!ENTITY run.key                      "j">
+<!ENTITY run.accesskey                "X">
+<!ENTITY run.key                      "r">
 
 <!ENTITY inspect.label                "Kontrolloje">
-<!ENTITY inspect.accesskey            "I">
-<!ENTITY inspect.key                  "t">
+<!ENTITY inspect.accesskey            "M">
+<!ENTITY inspect.key                  "i">
 
-<!ENTITY display.label                "Shfaqe">
-<!ENTITY display.accesskey            "D">
-<!ENTITY display.key                  "q">
+<!ENTITY display.label                "Shfaq">
+<!ENTITY display.accesskey            "q">
+<!ENTITY display.key                  "l">
 
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
@@ -95,22 +95,23 @@
 <!ENTITY browserContext.label         "Shfletues">
 <!ENTITY browserContext.accesskey     "S">
 
-<!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
+<!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
-<!ENTITY resetContext.label           "Riktheji">
-<!ENTITY resetContext.accesskey       "R">
+<!ENTITY resetContext2.label          "Ricaktoni Ndryshoret">
+<!ENTITY resetContext2.accesskey      "R">
 
 <!ENTITY executeMenu.label            "Ekzekutoje">
 <!ENTITY executeMenu.accesskey        "E">
 
-<!ENTITY toolsMenu.label              "Mjete">
-<!ENTITY toolsMenu.accesskey          "M">
-
-<!ENTITY errorConsoleCmd.label        "Konsol Gabimesh">
-<!ENTITY errorConsoleCmd.accesskey    "G">
+<!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
+  -  the browser Error Console, the key should be identical to the property of
+  -  the same name in browser.dtd.
+  -->
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY webConsoleCmd.label          "Konsol Web">
-<!ENTITY webConsoleCmd.accesskey      "W">
+<!-- LOCALIZATION NOTE (webConsoleCmd.commandkey): This command key launches
+  -  the browser WebConsole, the key should be identical to the property of
+  -  the same name in browser.dtd.
+  -->
 <!ENTITY webConsoleCmd.commandkey     "k">

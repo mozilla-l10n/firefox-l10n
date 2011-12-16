@@ -59,22 +59,29 @@
 
 <!ENTITY updateTab.label                 "Përditësim">
 
-<!ENTITY autoCheck.label                 "Kontrollo vetvetiu për përditësime për:">
-<!ENTITY enableAppUpdate.label           "&brandShortName;-in">
-<!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate2.label       "Shtojca">
-<!ENTITY enableAddonsUpdate2.accesskey   "S">
+<!ENTITY updateApp.label                 "Përditësime &brandShortName;-i:">
+<!ENTITY updateAuto.label                "Instaloji vetvetiu përditësimet (e këshillueshme: përmirësohet siguria)">
+<!ENTITY updateAuto.accesskey            "I">
+<!ENTITY updateCheck.label               "Kontrollo për përditësime, por më lejo të zgjedh t&apos;i instaloj a jo ato">
+<!ENTITY updateCheck.accesskey           "K">
+<!ENTITY updateManual.label              "Mos kontrollo kurrë për përditësime (e pakëshillueshme: rrezik sigurie)">
+<!ENTITY updateManual.accesskey          "M">
+
+<!ENTITY updateAutoAddonWarn.label       "Sinjalizomë nëse kjo do të çaktivizojë ndonjë shtesë">
+<!ENTITY updateAutoAddonWarn.accesskey   "S">
+
+<!ENTITY updateHistory.label             "Shfaq Historik Përditësimesh">
+<!ENTITY updateHistory.accesskey         "q">
+
+<!ENTITY useService.label                "Përdor shërbim në prapaskenë për të instaluar përditësimet">
+<!ENTITY useService.accesskey            "P">
+
+<!ENTITY updateOthers.label              "Përditëso vetvetiu:">
+
+<!ENTITY enableAddonsUpdate3.label       "Shtesa">
+<!ENTITY enableAddonsUpdate3.accesskey   "S">
 <!ENTITY enableSearchUpdate.label        "Motorë Kërkimi">
 <!ENTITY enableSearchUpdate.accesskey    "M">
-<!ENTITY whenUpdatesFound.label          "Kur gjenden përditësime të &brandShortName;-it:">
-<!ENTITY askMe.label                     "Pyetmë se çfarë dua të bëj">
-<!ENTITY askMe.accesskey                 "P">
-<!ENTITY modeAutomatic.label             "Shkarko dhe instalo përditësimet vetvetiu">
-<!ENTITY modeAutomatic.accesskey         "k">
-<!ENTITY modeAutoAddonWarn.label         "Sinjalizomë nëse kështu do të çaktivizohej ndonjë nga shtesat e mia">
-<!ENTITY modeAutoAddonWarn.accesskey     "Z">
-<!ENTITY updateHistory.label             "Shfaq Historik Përditësimesh">
-<!ENTITY updateHistory.accesskey         "H">
 
 <!ENTITY offlineNotify.label             "Bëma të ditur kur një &quot;site&quot; web kërkon të depozitojë të dhëna për përdorim &quot;offline&quot;">
 <!ENTITY offlineNotify.accesskey         "B">
