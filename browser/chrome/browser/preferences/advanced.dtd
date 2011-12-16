@@ -65,7 +65,7 @@
 <!ENTITY updateManual.label              "Mai tschertgar actualisaziuns (betg recumandà, privel da segirezza)">
 <!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateAutoAddonWarn.label       "M'avisar sche quei deactivescha intgins da mes supplements">
+<!ENTITY updateAutoAddonWarn.label       "M'avisar sche quai deactivescha intgins da mes supplements">
 <!ENTITY updateAutoAddonWarn.accesskey   "a">
 
 <!ENTITY updateHistory.label             "Mussar la cronologia da las actualisaziuns">

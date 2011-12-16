@@ -1,8 +1,8 @@
 <!ENTITY window.title "Bainvegni a &brandShortName;">
 <!ENTITY header.label "Vuls ti ina nova adressa dad e-mail per &brandShortName;?">
-<!ENTITY other.languages "Nus mussain be providers che offereschan adressas en tia regiun. Clicca qua per mussar tut ils providers.">
+<!ENTITY other.languages "Nus mussain be providers che offreschan adressas en tia regiun. Clicca qua per mussar tut ils providers.">
 <!ENTITY error.line1 "Perstgisa, nus na pudevan betg chattar ina adressa d'e-mail proponida.">
-<!ENTITY error.line2 "Ti pos empruvar da tschertgar surnums u mintga auter term per chattar dapli adressas pusseivlas">
+<!ENTITY error.line2 "Ti pos empruvar da tschertgar surnums u mintga auter term per chattar dapli adressas pussaivlas">
 
 <!-- LOCALIZATION NOTE(error.suggest.before, error.suggest.middle, error.suggest.after):
      error.suggest.before, error.suggest.middle, and error.suggest.after all go into
