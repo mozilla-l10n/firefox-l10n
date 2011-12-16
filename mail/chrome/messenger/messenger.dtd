@@ -592,8 +592,8 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY folderContextMarkMailFolderRead.accesskey "d">
 <!ENTITY folderContextSubscribe.label "S'abonner…">
 <!ENTITY folderContextSubscribe.accesskey "b">
-<!ENTITY folderContextSearchMessages.label "Rechercher…">
-<!ENTITY folderContextSearchMessages.accesskey "c">
+<!ENTITY folderContextSearchForMessages.label "Rechercher dans les messages…">
+<!ENTITY folderContextSearchForMessages.accesskey "c">
 <!ENTITY folderContextProperties.label "Propriétés…">
 <!ENTITY folderContextProperties.accesskey "t">
 <!ENTITY folderContextFavoriteFolder.label "Dossier préféré">
