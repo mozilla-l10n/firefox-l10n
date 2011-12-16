@@ -189,7 +189,7 @@
 <!ENTITY calendar.context.modifyorviewtask.accesskey  "O">
 <!ENTITY calendar.context.newevent.label              "Cita nova…">
 <!ENTITY calendar.context.newevent.accesskey          "C">
-<!ENTITY calendar.context.newtodo.label               "Nova tasca…">
+<!ENTITY calendar.context.newtodo.label               "Tasca nova…">
 <!ENTITY calendar.context.newtodo.accesskey           "o">
 <!ENTITY calendar.context.deletetask.label            "Suprimeix la tasca">
 <!ENTITY calendar.context.deletetask.accesskey        "S">
