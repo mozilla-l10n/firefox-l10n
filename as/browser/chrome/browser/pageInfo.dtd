@@ -19,6 +19,8 @@
 # the Initial Developer. All Rights Reserved.
 #
 # Contributor(s): Daniel Brooks <db48x@yahoo.com>
+#                 Florian QUEZE <f.qu@queze.net>
+#                 Ehsan Akhgari <ehsan.akhgari@gmail.com>
 #
 # Alternatively, the contents of this file may be used under the terms of
 # either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -35,15 +37,14 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-
-<!ENTITY  pageInfoWindow.width  "৪২৫">
-<!ENTITY  pageInfoWindow.height "৪৭০">
+<!ENTITY  pageInfoWindow.width  "600">
+<!ENTITY  pageInfoWindow.height "500">
 
 <!ENTITY  copy.key              "C">
-<!ENTITY  copy.label            "নকল কৰক">
+<!ENTITY  copy.label            "কপি কৰক">
 <!ENTITY  copy.accesskey        "C">
 <!ENTITY  selectall.key         "A">
-<!ENTITY  selectall.label       "সকলো নিৰ্ব্বাচন কৰক">
+<!ENTITY  selectall.label       "সকলো নিৰ্বাচন কৰক">
 <!ENTITY  selectall.accesskey   "A">
 <!ENTITY  closeWindow.key       "w">
 
@@ -54,15 +55,15 @@
 <!ENTITY  generalType           "ধৰণ:">
 <!ENTITY  generalSize           "আকাৰ:">
 <!ENTITY  generalReferrer       "উল্লেখ কৰা URL:">
-<!ENTITY  generalSource         "কেছেৰ উৎস:">
+<!ENTITY  generalSource         "ক্যাশৰ উৎস:">
 <!ENTITY  generalModified       "সলনি কৰা হ'ল:">
-<!ENTITY  generalEncoding       "ইনকোডিং:">
+<!ENTITY  generalEncoding       "এনক'ডিং:">
 <!ENTITY  generalMetaName       "নাম">
 <!ENTITY  generalMetaContent    "বিষয়বস্তু">
 <!ENTITY  generalSecurityDetails   "বিৱৰণসমূহ">
 <!ENTITY  generalSecurityDetails.accesskey "D">
 
-<!ENTITY  mediaTab              "মিডিয়া">
+<!ENTITY  mediaTab              "মাধ্যম">
 <!ENTITY  mediaTab.accesskey    "M">
 <!ENTITY  mediaLocation         "স্থান:">
 <!ENTITY  mediaText             "সম্বন্ধিত লিপি:">
@@ -74,10 +75,10 @@
 <!ENTITY  mediaDimension        "আয়তন:">
 <!ENTITY  mediaLongdesc         "দীঘল বিৱৰণ:">
 <!ENTITY  mediaBlockImage.accesskey "B">
-<!ENTITY  mediaSaveAs           "- হিচাপে ৰক্ষা কৰক...">
+<!ENTITY  mediaSaveAs           "- এই ধৰণে সংৰক্ষণ কৰক...">
 <!ENTITY  mediaSaveAs.accesskey "A">
 <!ENTITY  mediaSaveAs2.accesskey "e">
-<!ENTITY  mediaPreview          "মিডিয়াৰ পূৰ্ব প্ৰদৰ্শন:">
+<!ENTITY  mediaPreview          "মাধ্যমৰ পূৰ্ব প্ৰদৰ্শন:">
 
 <!ENTITY  feedTab               "ফীড">
 <!ENTITY  feedTab.accesskey     "F">
@@ -87,24 +88,24 @@
 <!ENTITY  permTab               "অনুমতিসমূহ">
 <!ENTITY  permTab.accesskey     "P">
 <!ENTITY  permUseDefault        "অবিকল্পিত ব্যৱহাৰ কৰক">
-<!ENTITY  permAskAlways         "সদায়ে শুধিব">
+<!ENTITY  permAskAlways         "সদায়ে সোধিব">
 <!ENTITY  permAllow             "অনুমতি দিয়ক">
 <!ENTITY  permAllowSession      "অধিবেশনৰ কাৰণে অনুমতি দিয়ক">
 <!ENTITY  permBlock             "ৰোধ কৰক">
 <!ENTITY  permissionsFor        "-ৰ বাবে অনুমতি:">
-<!ENTITY  permImage             "প্ৰতিমূৰ্ত্তি তোলক">
-<!ENTITY  permPopup             "প'প-আপ সংযোগক্ষেত্ৰ খোলক">
+<!ENTITY  permImage             "ছবি ল'ড কৰক">
+<!ENTITY  permPopup             "প'প-আপ উইন্ডো খোলক">
 <!ENTITY  permCookie            "কুকি প্ৰতিষ্ঠা কৰক">
-<!ENTITY  permInstall           "থিম বা সম্প্ৰসাৰণ সংস্থাপন কৰক">
+<!ENTITY  permInstall           "থিম বা সম্প্ৰসাৰণ ইনস্টল কৰক">
 <!ENTITY  permGeo               "স্থান অংশীদাৰ কৰক">
 
 <!ENTITY  permIndexedDB              "অফলাইন সংৰক্ষণ অব্যাহত ৰাখক">
-<!ENTITY  permClearStorage           "সংৰক্ষণ সফা কৰক">
+<!ENTITY  permClearStorage           "সংৰক্ষণ পৰিষ্কাৰ কৰক">
 <!ENTITY  permClearStorage.accesskey "C">
 
-<!ENTITY  securityTab           "সুৰক্ষা">
+<!ENTITY  securityTab           "সুসংৰক্ষণ">
 <!ENTITY  securityTab.accesskey "S">
-<!ENTITY  securityHeader        "এই পৃষ্ঠাৰ বাবে সুৰক্ষাৰ তথ্য">
+<!ENTITY  securityHeader        "এই পৃষ্ঠাৰ বাবে সুসংৰক্ষণৰ তথ্য">
 <!ENTITY  securityView.certView "প্ৰমাণপত্ৰ চাওক">
 <!ENTITY  securityView.accesskey "V">
 <!ENTITY  securityView.unknown   "অজ্ঞাত">
@@ -117,11 +118,11 @@
 
 <!ENTITY  securityView.privacy.header                   "গোপনীয়তা &amp; ইতিহাস">
 <!ENTITY  securityView.privacy.history                  "আজিৰ পূৰ্বে মই এই ৱেব ছাইট চাইছোঁ নেকি ?">
-<!ENTITY  securityView.privacy.cookies                  "মোৰ কম্পিউটাৰত এই ৱেব ছাইটে তথ্য (কুকি) ৰক্ষা কৰিছে নেকি ?">
+<!ENTITY  securityView.privacy.cookies                  "মোৰ কমপিউটাৰত এই ৱেব ছাইটে তথ্য (কুকি) সংৰক্ষণ কৰিছে নেকি ?">
 <!ENTITY  securityView.privacy.viewCookies              "কুকি চাওক">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
-<!ENTITY  securityView.privacy.passwords                "এই ৱেব ছাইটৰ কাৰণে মই কোনো গুপ্তশব্দ ৰক্ষা কৰিছোঁ নেকি ?">
-<!ENTITY  securityView.privacy.viewPasswords            "সংৰক্ষিত গুপ্তশব্দ চাওক">
+<!ENTITY  securityView.privacy.passwords                "এই ৱেব ছাইটৰ কাৰণে মই কোনো পাছৱাৰ্ড সংৰক্ষণ কৰিছোঁ নেকি ?">
+<!ENTITY  securityView.privacy.viewPasswords            "সংৰক্ষিত পাছৱাৰ্ড চাওক">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
 <!ENTITY  securityView.technical.header                 "প্ৰযুক্তিবিদ্যাৰ বিৱৰণ">
