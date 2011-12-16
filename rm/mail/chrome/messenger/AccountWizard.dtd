@@ -7,7 +7,7 @@
 
 <!ENTITY accountSetupInfo2.label "Per retschaiver messadis stos ti l'emprim crear in conto.">
 <!ENTITY accountTypeTitle.label "Installaziun dal nov conto">
-<!ENTITY accountTypeDesc2.label "Quest assistent ta gida da ramassar las infurmaziuns necessarias per installar in conto. Sche ti na conuschas betg las infurmaziuns dumandadas, contactescha per palschair tes administratur dal sistem u tes provider da survetschs d'internet.">
+<!ENTITY accountTypeDesc2.label "Quest assistent ta gida da ramassar las infurmaziuns necessarias per installar in conto. Sche ti na conuschas betg las infurmaziuns dumandadas, contactescha per palschair tes administratur dal sistem u tes provider da servetschs d'internet.">
 <!ENTITY accountTypeDirections.label "Tscherna tge tip da conto che ti vul installar:">
 <!ENTITY accountTypeMail.label "Conto d'e-mail">
 <!ENTITY accountTypeMail.accesskey "m">
