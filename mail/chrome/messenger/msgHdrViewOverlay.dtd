@@ -116,6 +116,8 @@
 <!ENTITY detachAllAttachmentsCmd.accesskey    "S">
 <!ENTITY deleteAllAttachmentsCmd.label    "Suprimeix-ho tot…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "u">
+
+<!ENTITY openAttachment.tooltip "Obre el fitxer adjunt">
 <!-- Attachment toolbar items -->
 
 <!ENTITY saveAttachmentButton1.label       "Desa">

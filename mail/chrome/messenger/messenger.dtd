@@ -23,8 +23,10 @@
 <!ENTITY newVirtualFolderCmd.accesskey "d">
 <!ENTITY newOtherAccountsCmd.label "Altres comptes…">
 <!ENTITY newOtherAccountsCmd.accesskey "A">
-<!ENTITY newEmailAccountCmd.label "Compte de correu…">
-<!ENTITY newEmailAccountCmd.accesskey "C">
+<!ENTITY newCreateEmailAccountCmd.label "Obtén un compte nou de correu...">
+<!ENTITY newCreateEmailAccountCmd.accesskey "O">
+<!ENTITY newExistingEmailAccountCmd.label "Compte de correu existent...">
+<!ENTITY newExistingEmailAccountCmd.accesskey "e">
 <!ENTITY openMessageFileCmd.label "Obre un missatge desat…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Adjuncions">
@@ -134,6 +136,8 @@
 <!ENTITY messagePaneWide.accesskey "h">
 <!ENTITY messagePaneVertical.label "Aspecte vertical">
 <!ENTITY messagePaneVertical.accesskey "v">
+<!ENTITY showFolderPaneCmd.label "Carpetes">
+<!ENTITY showFolderPaneCmd.accesskey "C">
 <!ENTITY showMessageCmd.label "Subfinestra de missatge">
 <!ENTITY showMessageCmd.accesskey "e">
 

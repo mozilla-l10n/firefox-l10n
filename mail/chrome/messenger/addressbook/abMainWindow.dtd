@@ -87,13 +87,19 @@
 <!ENTITY showTaskbarCmd.accesskey                       "s">
 <!ENTITY customizeToolbar.label                         "Personalitza…">
 <!ENTITY customizeToolbar.accesskey                     "P">
-<!ENTITY showContactPane.label                          "Subfinestra resum del contacte">
-<!ENTITY showContactPane.accesskey                      "b">
+<!ENTITY layoutMenu.label                               "Disposició">
+<!ENTITY layoutMenu.accesskey                           "D">
+<!ENTITY showDirectoryPane.label                        "Directori">
+<!ENTITY showDirectoryPane.accesskey                    "D">
+<!ENTITY showContactPane2.label                         "Contactes">
+<!ENTITY showContactPane2.accesskey                     "C">
 <!ENTITY menu_ShowNameAs.label                          "Mostra el nom com a">
 <!ENTITY menu_ShowNameAs.accesskey                      "n"> 
-<!ENTITY firstLastCmd.label                             "Nom Cognom">
-<!ENTITY firstLastCmd.accesskey                         "N"> 
-<!ENTITY lastFirstCmd.label                             "Cognom, Nom">
+<!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
+because displayed names don't have the comma in between. -->
+<!ENTITY firstLastCmd2.label                            "Nom i cognoms">
+<!ENTITY firstLastCmd2.accesskey                        "N"> 
+<!ENTITY lastFirstCmd.label                             "Cognoms, Nom">
 <!ENTITY lastFirstCmd.accesskey                         "C">
 <!ENTITY displayNameCmd.label                           "Nom a mostrar">
 <!ENTITY displayNameCmd.accesskey                       "m">

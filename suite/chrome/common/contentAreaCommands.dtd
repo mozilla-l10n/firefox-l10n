@@ -104,7 +104,13 @@
 <!ENTITY mediaHideControls.accesskey  "A">
 <!ENTITY videoFullScreen.label        "Pantalla completa">
 <!ENTITY videoFullScreen.accesskey    "P">
-<!ENTITY search.accesskey             "r">
+<!ENTITY videoSaveImage.label         "Anomena i desa una instantània...">
+<!ENTITY videoSaveImage.accesskey     "A">
+<!ENTITY videoShowStats.label         "Mostra les estadístiques">
+<!ENTITY videoShowStats.accesskey     "t">
+<!ENTITY videoHideStats.label         "Oculta les estadístiques">
+<!ENTITY videoHideStats.accesskey     "t">
+<!ENTITY search.accesskey             "W">
 <!ENTITY bidiSwitchPageDirectionItem.label        "Commuta la direcció de la pàgina">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Commuta la direcció del text">

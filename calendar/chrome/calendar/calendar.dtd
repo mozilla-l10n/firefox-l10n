@@ -50,8 +50,8 @@
 <!ENTITY calendar.calendar.label     "Calendari">
 <!ENTITY calendar.calendar.accesskey "C">
 
-<!ENTITY calendar.newevent.button.tooltip         "Crea una nova cita" >
-<!ENTITY calendar.newtask.button.tooltip          "Crea una nova tasca" >
+<!ENTITY calendar.newevent.button.tooltip         "Crea una cita nova" >
+<!ENTITY calendar.newtask.button.tooltip          "Crea una tasca nova" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Tasques" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Mostra les tasques finalitzades">
@@ -112,8 +112,8 @@
 <!ENTITY calendar.navigation.nextmonth.tooltip  "Un mes després" >
 <!ENTITY calendar.navigation.prevmonth.tooltip  "Un mes abans" >
 
-<!ENTITY calendar.newevent.button.label         "Nova cita" >
-<!ENTITY calendar.newtask.button.label          "Nova tasca" >
+<!ENTITY calendar.newevent.button.label         "Cita nova" >
+<!ENTITY calendar.newtask.button.label          "Tasca nova" >
 <!ENTITY calendar.print.button.label            "Imprimeix" >
 
 <!ENTITY calendar.export.calendar                "Exporta el calendari…" >
@@ -187,8 +187,8 @@
 <!ENTITY calendar.context.modifyorviewitem.accesskey  "O">
 <!ENTITY calendar.context.modifyorviewtask.label      "Obre la tasca…">
 <!ENTITY calendar.context.modifyorviewtask.accesskey  "O">
-<!ENTITY calendar.context.newevent.label              "Nova cita…">
-<!ENTITY calendar.context.newevent.accesskey          "N">
+<!ENTITY calendar.context.newevent.label              "Cita nova…">
+<!ENTITY calendar.context.newevent.accesskey          "C">
 <!ENTITY calendar.context.newtodo.label               "Nova tasca…">
 <!ENTITY calendar.context.newtodo.accesskey           "o">
 <!ENTITY calendar.context.deletetask.label            "Suprimeix la tasca">
@@ -323,7 +323,7 @@
 <!ENTITY calendarproperties.name.label                     "Nom:">
 <!ENTITY calendarproperties.readonly.label                 "Només de lectura">
 <!ENTITY calendarproperties.firealarms.label               "Mostra les alertes">
-<!ENTITY calendarproperties.cache.label                    "Memòria cau (EXPERIMENTAL, cal reiniciar)">
+<!ENTITY calendarproperties.cache2.label                   "Memòria cau">
 <!ENTITY calendarproperties.enabled.label                  "Mostra aquest calendari">
 <!ENTITY calendarproperties.forceDisabled.label            "No s'ha pogut trobar el proveïdor d'aquest calendari. Això sol passar quan s'han inhabilitat o s'han desinstal·lat complements.">
 <!ENTITY calendarproperties.unsubscribe.label              "Cancel·la la subscripció">

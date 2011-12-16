@@ -9,3 +9,7 @@
 <!ENTITY prefCheckDefault.caption   "Integració al sistema">
 <!ENTITY prefCheckDefaultClient.label "Comproveu els paràmetres d'aplicació per defecte a l'inici">
 <!ENTITY prefCheckDefaultClient.accesskey "C">
+
+<!ENTITY crashReports.caption       "Informe de fallades">
+<!ENTITY submitCrashes.label        "Envia un informe de fallades">
+<!ENTITY submitCrashes.accesskey    "E">
