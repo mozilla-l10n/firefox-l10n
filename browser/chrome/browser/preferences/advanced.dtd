@@ -52,8 +52,6 @@
 <!ENTITY useService.label "Usar un servicio de fondo para instalar actualizaciones">
 <!ENTITY useService.accesskey "z">
 <!ENTITY updateOthers.label "Actualización automática:">
-<!ENTITY enableAddonsUpdate3.label "Complementos">
-<!ENTITY enableAddonsUpdate3.accesskey "C">
 <!ENTITY enableSearchUpdate.label "Buscadores">
 <!ENTITY enableSearchUpdate.accesskey "b">
 <!ENTITY offlineNotify.label "Avisarme si un sitio solicita guardar datos para uso sin conexión">
