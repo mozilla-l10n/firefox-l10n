@@ -76,8 +76,6 @@
 <!ENTITY useService.accesskey            "U">
 
 <!ENTITY updateOthers.label              "Actualizar automáticamente:">
-<!ENTITY enableAddonsUpdate3.label       "Complementos">
-<!ENTITY enableAddonsUpdate3.accesskey   "o">
 <!ENTITY enableSearchUpdate.label        "Motores de búsqueda">
 <!ENTITY enableSearchUpdate.accesskey    "M">
 <!ENTITY updateHistory.label             "Mostar el historial de actualizaciones">
