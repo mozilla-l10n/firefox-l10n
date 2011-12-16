@@ -78,8 +78,10 @@
 <!ENTITY lightning.toolbar.mail.label         "Correo">
 <!ENTITY lightning.toolbar.mail.accesskey     "o">
 <!ENTITY lightning.toolbar.calendar.label     "Calendario">
+<!ENTITY lightning.toolbar.calendar.tooltip   "Cambiar a la pestaña calendario">
 <!ENTITY lightning.toolbar.calendar.accesskey "C">
-<!ENTITY lightning.toolbar.task.label         "Tarea">
+<!ENTITY lightning.toolbar.task.label         "Tareas">
+<!ENTITY lightning.toolbar.task.tooltip       "Cambiar a la pestaña tareas">
 <!ENTITY lightning.toolbar.task.accesskey     "T">
 
 <!-- Toolbar write button -->
