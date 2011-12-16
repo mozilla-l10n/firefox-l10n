@@ -16,6 +16,7 @@
 <!ENTITY attachMenu.accesskey "t">
 <!ENTITY attachFileCmd.label "Adjunta un fitxer…">
 <!ENTITY attachFileCmd.accesskey "j">
+<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachPageCmd.label "Adjunta una pàgina web…">
 <!ENTITY attachPageCmd.accesskey "w">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->

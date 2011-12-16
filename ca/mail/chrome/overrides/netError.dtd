@@ -44,6 +44,9 @@ el &brandShortName; té permís per accedir al web.</li>
 <!ENTITY netInterrupt.title "La connexió s'ha tallat">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!ENTITY notCached.title "El document ha caducat">
+<!ENTITY notCached.longDesc "<p>El document que s'ha sol·licitat no està disponible a la memòria cau.</p><ul><li>Com a mesura de precaució el &brandShortName; no tornarà a sol·licitar automàticament els documents sensibles.</li><li>Cliqueu Torna-ho a provar per tornar a sol·licitar el document al web.</li></ul>">
+
 <!ENTITY netOffline.title "Mode fora de línia">
 <!ENTITY netOffline.longDesc2 "<ul> 
 <li>Premeu «Torna-ho a provar» per canviar a mode en línia i recarregar la pàgina.</li> 

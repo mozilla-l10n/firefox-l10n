@@ -44,8 +44,7 @@
 <!ENTITY setup.newRecoveryKeyPage.description.label "Per garantir la vostra privacitat, totes les vostres dades s'encriptaran abans no es pugin. Però la clau de recuperació que es necessita per desencriptar les dades no es pujarà mai.">
 <!ENTITY recoveryKeyEntry.label        "La vostra clau de recuperació">
 <!ENTITY recoveryKeyEntry.accesskey    "c">
-<!ENTITY recoveryKeyGenerate.label     "Genera">
-<!ENTITY recoveryKeyGenerate.accesskey "G">
+<!ENTITY recoveryGenerateNewKey.label  "Genera una clau nova">
 <!ENTITY recoveryKeyBackup.description "La vostra clau de recuperació us farà falta per accedir al &syncBrand.fullName.label; des d'altres màquines. Cal que feu una còpia de seguretat. Ja que no us podrem ajudar a recuperar la clau de seguretat. ">
 
 <!ENTITY button.syncKeyBackup.print.label     "Imprimeix…">

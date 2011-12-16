@@ -41,7 +41,6 @@
 <!ENTITY editRewrapCmd.label "Torna a ajustar">
 <!ENTITY editRewrapCmd.key "r">
 <!ENTITY editRewrapCmd.accesskey  "j">
-<!ENTITY findCmd.label "Cerca i reemplaça...">
 <!ENTITY accountManagerCmd.label "Paràmetres dels comptes">
 <!ENTITY accountManagerCmd.accesskey "P">
 <!-- View menu items -->
@@ -64,11 +63,6 @@
 <!ENTITY selectAddressCmd.label "Selecciona les adreces...">
 <!ENTITY selectAddressCmd.key "">
 <!ENTITY selectAddressCmd.accesskey "a">
-
-<!ENTITY checkSpellingCmd2.label "Comprova l'ortografia">
-<!ENTITY checkSpellingCmd2.accesskey "g">
-<!ENTITY enableInlineSpellChecker.label "Comprova l'ortografia a mesura que escric">
-<!ENTITY enableInlineSpellChecker.accesskey "v">
 
 <!ENTITY priorityMenu.label "Prioritat">
 <!ENTITY priorityMenu.accesskey "P">
