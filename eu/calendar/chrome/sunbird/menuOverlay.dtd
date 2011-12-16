@@ -164,7 +164,7 @@
 <!ENTITY updateCmd.label                                   "Arakatu eguneraketen bila…">
 <!ENTITY updateCmd.accesskey                               "u">
 
-<!ENTITY sunbird.export.calendar.label                     "Export Calendar…">
+<!ENTITY sunbird.export.calendar.label                     "Esportatu egutegia…">
 <!ENTITY sunbird.export.calendar.accesskey                 "E">
 <!-- Mac OS X "Window" menu items -->
 

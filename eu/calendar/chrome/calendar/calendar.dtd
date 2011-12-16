@@ -75,7 +75,7 @@
 <!ENTITY calendar.unifinder.tree.percentcomplete.label "&#37; osatua">
 <!ENTITY calendar.unifinder.tree.startdate.label     "Hasiera">
 <!ENTITY calendar.unifinder.tree.enddate.label       "Amaiera">
-<!ENTITY calendar.unifinder.tree.duedate.label       "Arte">
+<!ENTITY calendar.unifinder.tree.duedate.label       "Muga">
 <!ENTITY calendar.unifinder.tree.completeddate.label "Osatua">
 <!ENTITY calendar.unifinder.tree.categories.label    "Kategoria">
 <!ENTITY calendar.unifinder.tree.location.label      "Kokapena">
@@ -157,10 +157,10 @@
      separate entry will be shown for each of the occurrences that happen on or
      before today (or the selected date, whichever is later). -->
 
-<!ENTITY calendar.task.filter.current.label         "Current Tasks">
-<!ENTITY calendar.task.filter.current.accesskey     "u">
-<!ENTITY calendar.task.filter.repeating.label       "Repeating Tasks">
-<!ENTITY calendar.task.filter.repeating.accesskey   "R">
+<!ENTITY calendar.task.filter.current.label         "Uneko zereginak">
+<!ENTITY calendar.task.filter.current.accesskey     "U">
+<!ENTITY calendar.task.filter.repeating.label       "Errepikatzen diren zereginak">
+<!ENTITY calendar.task.filter.repeating.accesskey   "r">
 
 <!ENTITY calendar.task-details.title.label           "titulua">
 <!ENTITY calendar.task-details.organizer.label       "nondik">
@@ -172,8 +172,8 @@
 <!ENTITY calendar.task-details.category.label        "kategoria">
 <!ENTITY calendar.task-details.repeat.label          "errepikatu">
 <!ENTITY calendar.task-details.attachments.label     "eranskinak">
-<!ENTITY calendar.task-details.start.label           "start date">
-<!ENTITY calendar.task-details.due.label             "due date">
+<!ENTITY calendar.task-details.start.label           "hasiera-data">
+<!ENTITY calendar.task-details.due.label             "muga-data">
 
 <!ENTITY calendar.task.category.button.tooltip  "Kategorizatu zereginak">
 <!ENTITY calendar.task.complete.button.tooltip  "Markatu hautatutako zereginak amaituta bezala">
@@ -203,10 +203,10 @@
 <!ENTITY calendar.context.pasteevent.accesskey        "s">
 <!ENTITY calendar.context.button.label                "Gaurko panela" >
 <!ENTITY calendar.context.button.accesskey            "G" >
-<!ENTITY calendar.context.attendance.menu.label       "Attendance" >
-<!ENTITY calendar.context.attendance.menu.accesskey   "d" >
-<!ENTITY calendar.context.attendance.occurrence.label "This Occurrence" >
-<!ENTITY calendar.context.attendance.all.label        "All Occurrences" >
+<!ENTITY calendar.context.attendance.menu.label       "Partaidetza" >
+<!ENTITY calendar.context.attendance.menu.accesskey   "P" >
+<!ENTITY calendar.context.attendance.occurrence.label "Agerpen hau" >
+<!ENTITY calendar.context.attendance.all.label        "Agerpen guztiak" >
 <!-- Task Context Menu -->
 
 <!ENTITY calendar.context.progress.label              "Aurrerapena">
@@ -288,7 +288,7 @@
 
 <!ENTITY calendar.alarm.snoozefor.label             "Atzeratu" >
 <!ENTITY calendar.alarm.snoozeallfor.label          "Atzeratu" >
-<!ENTITY calendar.alarm.title.label                 "Calendar Reminders" >
+<!ENTITY calendar.alarm.title.label                 "Egutegien gogorarazleak" >
 <!ENTITY calendar.alarm.dismiss.label               "Utzi" >
 <!ENTITY calendar.alarm.dismissall.label            "Utzi denak" >
 
@@ -305,7 +305,7 @@
      user focuses the "Cancel" button in the "Snooze for..." popup of the alarm
      dialog. -->
 
-<!ENTITY calendar.alarm.snooze.cancel               "Cancel Snooze">
+<!ENTITY calendar.alarm.snooze.cancel               "Utzi atzeratzea">
 <!-- Calendar Server Dialog -->
 
 <!ENTITY calendar.server.dialog.title.edit          "Editatu egutegia">
@@ -318,12 +318,12 @@
 <!ENTITY calendarproperties.wcap.label                     "Sun Java System Egutegi Zerbitzaria (WCAP)">
 <!ENTITY calendarproperties.format.label                   "Formatua:">
 <!ENTITY calendarproperties.location.label                 "Kokapena:">
-<!ENTITY calendarproperties.refreshInterval.label          "Refresh Calendar:">
-<!ENTITY calendarproperties.refreshInterval.manual.label   "Manually">
+<!ENTITY calendarproperties.refreshInterval.label          "Berritu egutegia:">
+<!ENTITY calendarproperties.refreshInterval.manual.label   "Eskuz">
 <!ENTITY calendarproperties.name.label                     "Izena:">
 <!ENTITY calendarproperties.readonly.label                 "Irakurketa soilekoa">
-<!ENTITY calendarproperties.firealarms.label               "Show Reminders">
-<!ENTITY calendarproperties.cache.label                    "Cache">
+<!ENTITY calendarproperties.firealarms.label               "Erakutsi gogorarazleak">
+<!ENTITY calendarproperties.cache.label                    "Cache-a">
 <!ENTITY calendarproperties.enabled.label                  "Aldatu egutegi hau:">
 <!ENTITY calendarproperties.forceDisabled.label            "Egutegi honen hornitzailea ezin da aurkitu. Gehigarri jakin batzuk ezgaitu edo desintalatu dituzulako izan daiteke.">
 <!ENTITY calendarproperties.unsubscribe.label              "Eten harpidetza">
