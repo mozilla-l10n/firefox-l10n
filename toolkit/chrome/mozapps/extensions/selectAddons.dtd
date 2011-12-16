@@ -1,4 +1,4 @@
-<!ENTITY upgrade.style               "প্ৰস্থ: 93ch; উচ্চতা: 448px;">
+<!ENTITY upgrade.style               "width: 93ch; height: 448px;">
 
 <!ENTITY checking.heading            "আপোনাৰ এড-অনসমূহ নীৰিক্ষণ কৰা হৈ আছে">
 <!ENTITY checking.progress.label     "&brandShortName; -ৰ এই সংস্কৰণৰ লগত সংগতিৰ বাবে আপোনাৰ এড-অনসমূহ নীৰিক্ষণ কৰা হৈ আছে">
@@ -10,17 +10,17 @@
 <!ENTITY select.keep                 "ৰাখক">
 <!-- LOCALIZATION NOTE (select.keep.style): Should be a width wide enough for
      the string in select.keep above. -->
-<!ENTITY select.keep.style           "প্ৰস্থ: 6ch;">
+<!ENTITY select.keep.style           "width: 6ch;">
 <!ENTITY select.action               "কাৰ্য্য">
 <!-- LOCALIZATION NOTE (select.action.style): Should be a width wide enough for
      the action strings in selectAddons.properties or brandShortName. -->
-<!ENTITY select.action.style         "প্ৰস্থ: 35ch;">
+<!ENTITY select.action.style         "width: 35ch;">
 <!ENTITY select.source               "দ্বাৰা ইনস্টল কৰা">
 <!ENTITY select.name                 "নাম">
 <!-- LOCALIZATION NOTE (select.name.style): Should be a width small enough so
      the source column still has enough room for the source strings in
      selectAddons.properties. -->
-<!ENTITY select.name.style           "প্ৰস্থ: 33ch;">
+<!ENTITY select.name.style           "width: 33ch;">
 
 <!ENTITY confirm.heading             "আপোনাৰ এড-অনসমূহ নিৰ্বাচন কৰক">
 <!-- LOCALIZATION NOTE (confirm.description): The term used for "third parties"
