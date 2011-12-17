@@ -576,8 +576,8 @@
 <!ENTITY folderContextMarkMailFolderRead.accesskey "k">
 <!ENTITY folderContextSubscribe.label           "Menedżer subskrypcji…">
 <!ENTITY folderContextSubscribe.accesskey       "b">
-<!ENTITY folderContextSearchMessages.label      "Wyszukaj…">
-<!ENTITY folderContextSearchMessages.accesskey  "j">
+<!ENTITY folderContextSearchForMessages.label "Wyszukaj wiadomości…">
+<!ENTITY folderContextSearchForMessages.accesskey "W">
 <!ENTITY folderContextProperties.label          "Właściwości…">
 <!ENTITY folderContextProperties.accesskey      "i">
 <!ENTITY folderContextFavoriteFolder.label      "Ulubiony folder">
