@@ -75,8 +75,6 @@
 
 <!ENTITY updateOthers.label              "Automātiski atjaunināt:">
 
-<!ENTITY enableAddonsUpdate3.label "Papildinājumus">
-<!ENTITY enableAddonsUpdate3.accesskey "p">
 <!ENTITY enableSearchUpdate.label "Meklētājus">
 <!ENTITY enableSearchUpdate.accesskey "l">
 <!ENTITY updateHistory.label "Parādīt atjauninājumu vēsturi">
