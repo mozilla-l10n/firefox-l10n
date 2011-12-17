@@ -9,7 +9,7 @@
 <!ENTITY email.accesskey         "A">
 <!ENTITY replyTo.label           "Zwrotny adres e-mail:">
 <!ENTITY replyTo.accesskey       "s">
-<!ENTITY replyTo.placeholder     "inny adres e-mail, na który odbiorcy wiadomości powinni wysyłać odpowiedzi">
+<!ENTITY replyTo.placeholder     "inny adres, na który odbiorcy wiadomości powinni wysyłać odpowiedzi">
 <!ENTITY organization.label      "Firma/Organizacja:">
 <!ENTITY organization.accesskey  "F">
 <!ENTITY signatureText.label     "Sygnaturka:">
