@@ -40,6 +40,8 @@
 <!ENTITY half-manual-test.accesskey "е">
 <!ENTITY manual-edit.label "Ручная наладка">
 <!ENTITY manual-edit.accesskey "Р">
+<!ENTITY switch-to-provisioner.label "Стварыць новы рахунак">
+<!ENTITY switch-to-provisioner.accesskey "н">
 <!ENTITY warning.label "Увага!">
 <!ENTITY incomingSettings.label "Уваходныя наладжванні:">
 <!ENTITY outgoingSettings.label "Выходныя наладжванні:">

@@ -13,3 +13,5 @@
 <!ENTITY aboutHome.tryAurora "Паспрабаваць Firefox Aurora і дапамагчы фармаванню будучага Firefox.">
 <!ENTITY aboutHome.downloadAurora "Сцягванне Aurora">
 <!ENTITY aboutHome.forAndroid "для Android">
+<!ENTITY aboutHome.setupSync "Уладкаваць Sync">
+<!ENTITY aboutHome.syncPairDevice "Спараваць збудову">

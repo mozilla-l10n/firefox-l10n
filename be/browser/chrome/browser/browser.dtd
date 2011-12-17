@@ -68,6 +68,7 @@
 <!ENTITY fullScreenAutohide.accesskey "х">
 <!ENTITY fullScreenExit.label "Выйсці з паўнаэкраннага рэжыму">
 <!ENTITY fullScreenExit.accesskey "В">
+<!ENTITY domFullScreenWarning.label "Націснуце ESC, каб пакінуць поўнаэкранны рэжым">
 <!ENTITY closeWindow.label "Зачыніць акно">
 <!ENTITY closeWindow.accesskey "ч">
 <!ENTITY bookmarksMenu.label "Закладкі">
@@ -159,6 +160,9 @@
 <!ENTITY inspectPanelTitle.label "HTML">
 <!ENTITY inspectButton.label "Даследаваць">
 <!ENTITY inspectButton.accesskey "Д">
+<!ENTITY inspectCloseButton.tooltiptext "Закрыць Назіральнік">
+<!ENTITY inspectStyleButton.label "Стыль">
+<!ENTITY inspectStyleButton.accesskey "С">
 <!ENTITY getMoreDevtoolsCmd.label "Атрымаць больш прыладаў">
 <!ENTITY getMoreDevtoolsCmd.accesskey "б">
 <!ENTITY fileMenu.label "Файл">
@@ -336,6 +340,12 @@
 <!ENTITY mediaHideControls.accesskey "к">
 <!ENTITY videoFullScreen.label "Увесь экран">
 <!ENTITY videoFullScreen.accesskey "У">
+<!ENTITY videoSaveImage.label "Захаваць здымак як…">
+<!ENTITY videoSaveImage.accesskey "З">
+<!ENTITY videoShowStats.label "Паказаць статыстыку">
+<!ENTITY videoShowStats.accesskey "т">
+<!ENTITY videoHideStats.label "Схаваць статыстыку">
+<!ENTITY videoHideStats.accesskey "т">
 <!ENTITY fullZoomEnlargeCmd.label "Павялічыць">
 <!ENTITY fullZoomEnlargeCmd.accesskey "в">
 <!ENTITY fullZoomEnlargeCmd.commandkey "+">

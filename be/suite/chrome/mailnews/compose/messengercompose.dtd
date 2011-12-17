@@ -32,7 +32,6 @@
 <!ENTITY editRewrapCmd.label "Перазагінаць">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "г">
-<!ENTITY findCmd.label "Знайсці і замяніць…">
 <!ENTITY accountManagerCmd.label "Наладжванні рахунку Пошты і Навінакупаў…">
 <!ENTITY accountManagerCmd.accesskey "П">
 <!ENTITY showComposeToolbarCmd.label "Паліца прылад пошты">
@@ -48,10 +47,6 @@
 <!ENTITY selectAddressCmd.label "Адрасаты…">
 <!ENTITY selectAddressCmd.key "">
 <!ENTITY selectAddressCmd.accesskey "А">
-<!ENTITY checkSpellingCmd2.label "Праверыць правапіс…">
-<!ENTITY checkSpellingCmd2.accesskey "р">
-<!ENTITY enableInlineSpellChecker.label "Праверка правапісу падчас набору">
-<!ENTITY enableInlineSpellChecker.accesskey "П">
 <!ENTITY priorityMenu.label "Прыярытэт">
 <!ENTITY priorityMenu.accesskey "П">
 <!ENTITY lowestPriorityCmd.label "Найніжэйшы">

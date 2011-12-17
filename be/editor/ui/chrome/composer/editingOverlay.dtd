@@ -16,10 +16,17 @@
    -
    - The Initial Developer of the Original Code is
    - Netscape Communications Corporation.
-   - Portions created by the Initial Developer are Copyright (C) 1998-1999
+   - Portions created by the Initial Developer are Copyright (C) 1999-2000
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
+   -   Sammy Ford
+   -   Blake Ross
+   -   Ryan Cassin (rcassin@supernova.org)
+   -   Daniel Glazman (glazman@netscape.com)
+   -   Stephen Donner (technutz@netscape.net)
+   -   Charles Manske (cmanske@netscape.com)
+   -   Ian Neal (iann_bugzilla@blueyonder.co.uk)
    -   
    -
    - Alternatively, the contents of this file may be used under the terms of
@@ -35,8 +42,26 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY windowTitle.label "Захаваць і змяніць сукупнасць знакаў">
-<!ENTITY documentTitleTitle.label "Загаловак старонкі">
-<!ENTITY documentCharsetTitle.label "Сукупнасць знакаў">
-<!ENTITY documentCharsetDesc.label "Вылучыце сукупнасць знакаў для захавання дакумента:">
-<!ENTITY documentExportToText.label "Экспартаваць як тэкст">
+<!ENTITY openFileCmd.label "Адчыніць файл…">
+<!ENTITY openFileCmd.accesskey "А">
+<!ENTITY openFileCmd.key "O">
+<!ENTITY openRemoteCmd.label "Адчыніць месца ў Сеціве…">
+<!ENTITY openRemoteCmd.accesskey "м">
+<!ENTITY openRemoteCmd.key "L">
+<!ENTITY fileRecentMenu.label "Нядаўнія старонкі">
+<!ENTITY fileRecentMenu.accesskey "Н">
+<!ENTITY saveCmd.label "Захаваць">
+<!ENTITY saveCmd.accesskey "З">
+<!ENTITY saveAsCmd.label "Захаваць як…">
+<!ENTITY saveAsCmd.accesskey "я">
+<!ENTITY saveAsChangeEncodingCmd.label "Захаваць і змяніць сукупнасць знакаў">
+<!ENTITY saveAsChangeEncodingCmd.accesskey "с">
+<!ENTITY publishCmd.label "Публікаваць">
+<!ENTITY publishCmd.accesskey "П">
+<!ENTITY publishCmd.key "S">
+<!ENTITY publishAsCmd.label "Публікаваць як…">
+<!ENTITY publishAsCmd.accesskey "к">
+<!ENTITY fileRevert.label "Вярнуць">
+<!ENTITY fileRevert.accesskey "В">
+<!ENTITY publishSettings.label "Наладжванні пляцоўкі публікавання…">
+<!ENTITY publishSettings.accesskey "л">

@@ -1,5 +1,4 @@
 <!-- ***** BEGIN LICENSE BLOCK *****
-#if 0
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -12,13 +11,15 @@
    - for the specific language governing rights and limitations under the
    - License.
    -
-   - The Original Code is the Firefox Preferences System.
+   - The Original Code is SeaMonkey MailNews.
    -
-   - The Initial Developer of the Original Code is Mike Connor.
-   - Portions created by the Initial Developer are Copyright (C) 2005
+   - The Initial Developer of the Original Code is
+   - the Mozilla Foundation.
+   - Portions created by the Initial Developer are Copyright (C) 2011
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
+   -   Jens Hatlak <jh@junetz.de>
    -   
    -
    - Alternatively, the contents of this file may be used under the terms of
@@ -29,18 +30,27 @@
    - under the terms of either the GPL or the LGPL, and not to allow others to
    - use your version of this file under the terms of the MPL, indicate your
    - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - and other provisions required by the GPL or the LGPL. If you do not delete
    - the provisions above, a recipient may use your version of this file under
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
-#endif
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY advancedJSDialog.title "Пашыраныя наладжванні JavaScript">
-<!ENTITY window.width "40em">
-<!ENTITY allowScripts.label "Дазволіць сцэнарам:">
-<!ENTITY moveResizePopupWindows.label "Рухаць або змяняць памеры вокнаў-вынырцаў">
-<!ENTITY moveResizePopupWindows.accesskey "Р">
-<!ENTITY raiseLowerWindows.label "Уздымаць ці зніжаць вокны">
-<!ENTITY raiseLowerWindows.accesskey "У">
-<!ENTITY disableContextMenus.label "Забараняць ці змяняць кантэкстнае меню">
-<!ENTITY disableContextMenus.accesskey "З">
+<!ENTITY markAsReadCmd.label "Прачытанымі">
+<!ENTITY markAsReadCmd.accesskey "ч">
+<!ENTITY markAsReadCmd.key "m">
+<!ENTITY markFlaggedCmd.label "Сцяжок">
+<!ENTITY markFlaggedCmd.accesskey "С">
+<!ENTITY markFlaggedCmd.key "i">
+<!ENTITY openMessageWindowCmd.label "Адчыніць ліст">
+<!ENTITY openMessageWindowCmd.accesskey "А">
+<!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY tagCmd0.key "0">
+<!ENTITY tagCmd1.key "1">
+<!ENTITY tagCmd2.key "2">
+<!ENTITY tagCmd3.key "3">
+<!ENTITY tagCmd4.key "4">
+<!ENTITY tagCmd5.key "5">
+<!ENTITY tagCmd6.key "6">
+<!ENTITY tagCmd7.key "7">
+<!ENTITY tagCmd8.key "8">
+<!ENTITY tagCmd9.key "9">

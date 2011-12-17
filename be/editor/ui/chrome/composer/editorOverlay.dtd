@@ -40,46 +40,19 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY fileMenu.label "Файл">
-<!ENTITY fileMenu.accesskey "Ф">
-<!ENTITY openFileCmd.label "Адчыніць файл…">
-<!ENTITY openFileCmd.accesskey "А">
-<!ENTITY openFileCmd.key "O">
-<!ENTITY openRemoteCmd.label "Адрыць месца ў Сеціве…">
-<!ENTITY openRemoteCmd.accesskey "м">
-<!ENTITY openRemoteCmd.key "L">
-<!ENTITY fileRecentMenu.label "Нядаўнія старонкі">
-<!ENTITY fileRecentMenu.accesskey "Н">
-<!ENTITY fileRevert.label "Вярнуць ">
-<!ENTITY fileRevert.accesskey "В">
-<!ENTITY saveCmd.label "Захаваць">
-<!ENTITY saveCmd.accesskey "З">
 <!ENTITY saveCmd.key "S">
-<!ENTITY saveAsCmd.label "Захаваць як…">
-<!ENTITY saveAsCmd.accesskey "я">
-<!ENTITY publishCmd.label "Публікаваць">
-<!ENTITY publishCmd.accesskey "П">
-<!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "Публікаваць як…">
-<!ENTITY publishAsCmd.accesskey "к">
-<!ENTITY saveAsChangeEncodingCmd.label "Захаваць і змяніць кадоўку знакаў">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "к">
-<!ENTITY editMenu.label "Праўка">
-<!ENTITY editMenu.accesskey "П">
 <!ENTITY pasteNoFormatting.label "Уставіць без фарматавання">
 <!ENTITY pasteNoFormatting.accesskey "б">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Уставіць як">
 <!ENTITY pasteAs.accesskey "Я">
-<!ENTITY publishSettings.label "Наладжванні пляцоўкі публікавання…">
-<!ENTITY publishSettings.accesskey "б">
 <!ENTITY pasteAsQuotationCmd.label "Уставіць як вытрымку">
 <!ENTITY pasteAsQuotationCmd.accesskey "в">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Знайсці і замяніць…">
 <!ENTITY enableInlineSpellChecker.label "Праверка правапісу падчас набору">
 <!ENTITY enableInlineSpellChecker.accesskey "П">
-<!ENTITY checkSpellingCmd2.label "Праверыць правапіс">
+<!ENTITY checkSpellingCmd2.label "Праверыць правапіс…">
 <!ENTITY checkSpellingCmd2.accesskey "р">
 <!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY insertMenu.label "Уставіць">
@@ -191,7 +164,7 @@
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Выдаліць іменаваныя якары">
 <!ENTITY formatRemoveNamedAnchors.accesskey "д">
-<!ENTITY formatRemoveNamedAnchors.key "A">
+<!ENTITY formatRemoveNamedAnchors2.key "R">
 <!ENTITY paragraphMenu.label "Параграф">
 <!ENTITY paragraphMenu.accesskey "П">
 <!ENTITY paragraphParagraphCmd.label "Параграф">

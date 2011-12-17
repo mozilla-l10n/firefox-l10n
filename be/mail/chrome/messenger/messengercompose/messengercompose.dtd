@@ -13,6 +13,7 @@
 <!ENTITY attachMenu.accesskey "л">
 <!ENTITY attachFileCmd.label "Файл(ы)…">
 <!ENTITY attachFileCmd.accesskey "Ф">
+<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachPageCmd.label "Старонку Сеціва…">
 <!ENTITY attachPageCmd.accesskey "С">
 <!ENTITY attachVCardCmd.label "Асабістую картку (vCard)">

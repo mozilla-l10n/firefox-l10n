@@ -50,15 +50,9 @@
 <!ENTITY contentContext.accesskey "З">
 <!ENTITY browserContext.label "Азіральнік">
 <!ENTITY browserContext.accesskey "А">
-<!ENTITY resetContext.label "Узнавіць">
-<!ENTITY resetContext.accesskey "У">
+<!ENTITY resetContext2.label "Узнавіць зменныя">
+<!ENTITY resetContext2.accesskey "У">
 <!ENTITY executeMenu.label "Выканаць">
 <!ENTITY executeMenu.accesskey "В">
-<!ENTITY toolsMenu.label "Прылады">
-<!ENTITY toolsMenu.accesskey "П">
-<!ENTITY errorConsoleCmd.label "Кансоль памылак">
-<!ENTITY errorConsoleCmd.accesskey "К">
 <!ENTITY errorConsoleCmd.commandkey "j">
-<!ENTITY webConsoleCmd.label "Кансоль Сеціва">
-<!ENTITY webConsoleCmd.accesskey "С">
 <!ENTITY webConsoleCmd.commandkey "k">
