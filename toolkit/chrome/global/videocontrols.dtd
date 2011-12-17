@@ -22,6 +22,6 @@
 <!ENTITY error.network "La riproduzione del video è stata annullata a causa di un errore di rete.">
 <!ENTITY error.decode "Il video non può essere riprodotto in quanto il file è danneggiato.">
 <!ENTITY error.srcNotSupported "Formato video o MIME type non supportato.">
-<!ENTITY error.noSource "Video non trovato.">
+<!ENTITY error.noSource2 "Non è stato trovato alcun video con formato o MIME type supportati.">
 <!ENTITY error.generic "La riproduzione del video è stata annullata a causa di un errore sconosciuto.">
 <!ENTITY scrubberScale.nameFormat "Trascorso: #1 di #2">
