@@ -8,7 +8,7 @@
 <!ENTITY sync.syncNow               "Süngi kohe">
 
 <!ENTITY sync.setup.title           "Ühendumine Synciga">
-<!ENTITY sync.setup.jpake           "Ava Synciga ühendatud Firefoxiga arvutis Synci sätted ning vali &#x0022;Lisa seade&#x0022;">
+<!ENTITY sync.setup.pair            "Aktiveerimiseks vali &#x0022;Lisa seade&#x0022; oma teisel seadmel.">
 <!ENTITY sync.fallback              "Ma pole oma arvuti lähedal…">
 <!ENTITY sync.setup.manual          "Sisesta oma Synci konto info">
 <!ENTITY sync.account               "Konto nimi">
@@ -19,3 +19,9 @@
 <!ENTITY sync.setup.connect         "Ühenda">
 <!ENTITY sync.setup.cancel          "Loobu">
 <!ENTITY sync.setup.tutorial        "Abiteave">
+<!ENTITY sync.setup.waiting2        "Teise seadme järel ootamine…">
+
+<!ENTITY sync.pair.title            "Lisa seade">
+<!ENTITY sync.pair.description      "Uue seadme aktiveerimiseks vali antud seadmel &#x0022;Seadista sünkroniseerimine&#x0022;.">
+<!ENTITY sync.setup.close           "Sulge">
+<!ENTITY sync.setup.waitingdownload "Sinu andmeid laaditakse nüüd taustal alla. Võid selle akna igal ajal sulgeda.">
