@@ -20,7 +20,7 @@
 <!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
 <!ENTITY osxAddressBook.label                           "Uporabi Mac OS X Adresar">
 <!ENTITY osxAddressBook.accesskey                       "O">
-<!ENTITY closeCmd.label                                 "Zapri">
+<!ENTITY closeCmd.label                                 "Izhod">
 <!ENTITY closeCmd.key                                   "X">
 <!ENTITY closeCmd.accesskey                             "H">
 <!ENTITY printSetupCmd.label                            "Nastavitve strani…">

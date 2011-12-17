@@ -44,9 +44,9 @@
 <!ENTITY proxy.label                                    "Nastavitve posrednega strežnika …">
 <!ENTITY proxy.accesskey                                "z">
 
-<!ENTITY closeCmd.label      "Zapri">
-<!ENTITY closeCmd.key      "Z">
-<!ENTITY closeCmd.accesskey    "Z">
+<!ENTITY closeCmd.label                                 "Izhod">
+<!ENTITY closeCmd.key                                   "X">
+<!ENTITY closeCmd.accesskey                             "H">
 
 <!ENTITY quitApplicationCmd.label  "Izhod">
 <!ENTITY quitApplicationCmd.key    "Q">
