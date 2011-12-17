@@ -76,8 +76,9 @@
 <!ENTITY showDirectoryPane.accesskey                    "D">
 <!ENTITY layoutMenu.label                               "Skemë">
 <!ENTITY layoutMenu.accesskey                           "Ë">
-<!ENTITY showContactPane.label                          "Kuadrat Kontakti">
-<!ENTITY showContactPane.accesskey                      "u">
+<!ENTITY showContactPane2.label                          "Kuadrat Kontakti">
+<!ENTITY showContactPane2.accesskey                      "u">
+
 <!ENTITY showTaskbarCmd.label                           "Shtyllë Gjendjeje">
 <!ENTITY showTaskbarCmd.accesskey                       "G">
 <!ENTITY customizeToolbar.label                         "Përshtatni…">
