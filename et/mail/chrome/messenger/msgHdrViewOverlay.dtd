@@ -117,6 +117,8 @@
 <!ENTITY deleteAllAttachmentsCmd.label             "Kustuta kõik...">
 <!ENTITY deleteAllAttachmentsCmd.accesskey         "U">
 
+<!ENTITY openAttachment.tooltip                    "Ava kaasatud fail">
+
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label               "Salvesta">
 <!ENTITY saveAttachmentButton1.tooltip             "Salvesta lisatud fail">

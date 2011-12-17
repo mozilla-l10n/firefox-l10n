@@ -49,6 +49,8 @@
 <!ENTITY half-manual-test.accesskey       "K">
 <!ENTITY manual-edit.label                "Seadista käsitsi">
 <!ENTITY manual-edit.accesskey            "S">
+<!ENTITY switch-to-provisioner.label      "Hangi uus konto">
+<!ENTITY switch-to-provisioner.accesskey  "H">
 
 
 <!ENTITY warning.label                    "Hoiatus!">

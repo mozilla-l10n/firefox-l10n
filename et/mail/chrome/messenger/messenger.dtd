@@ -23,8 +23,10 @@
 <!ENTITY newVirtualFolderCmd.accesskey                 "S">
 <!ENTITY newOtherAccountsCmd.label                     "Muud kontod…">
 <!ENTITY newOtherAccountsCmd.accesskey                 "o">
-<!ENTITY newEmailAccountCmd.label                      "E-posti konto…">
-<!ENTITY newEmailAccountCmd.accesskey                  "E">
+<!ENTITY newCreateEmailAccountCmd.label                "Hangi uus e-posti konto…">
+<!ENTITY newCreateEmailAccountCmd.accesskey            "H">
+<!ENTITY newExistingEmailAccountCmd.label              "Olemasolev e-posti konto…">
+<!ENTITY newExistingEmailAccountCmd.accesskey          "E">
 <!ENTITY openMessageFileCmd.label                      "Ava salvestatud kiri...">
 <!ENTITY openMessageFileCmd.accesskey                  "i">
 <!ENTITY openAttachmentCmd.label                       "Manused">
@@ -134,6 +136,8 @@
 <!ENTITY messagePaneWide.accesskey                     "L">
 <!ENTITY messagePaneVertical.label                     "Vertikaalne vaade">
 <!ENTITY messagePaneVertical.accesskey                 "V">
+<!ENTITY showFolderPaneCmd.label                       "Kaustade paneel">
+<!ENTITY showFolderPaneCmd.accesskey                   "a">
 <!ENTITY showMessageCmd.label                          "Kirja teksti paneel">
 <!ENTITY showMessageCmd.accesskey                      "i">
 
