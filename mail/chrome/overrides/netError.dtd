@@ -51,6 +51,9 @@
 <!ENTITY netInterrupt.title "Lidhja u ndërpre">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!ENTITY notCached.title "Dokumenti Skadoi">
+<!ENTITY notCached.longDesc "<p>Dokumenti i kërkuar nuk mund të kihet në prej fshehtinës.</p><ul><li>Si masë parandaluese, &brandShortName;-i nuk rikërkon vetvetiu dokumenta me spec.</li><li>Klikoni mbi Riprovoni qëtë rikërkohet dokumenti prej site-it web.</li></ul>">
+
 <!ENTITY netOffline.title "Mënyra &quot;offline&quot;">
 <!ENTITY netOffline.longDesc2 "
 <ul>

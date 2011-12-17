@@ -49,7 +49,8 @@
 <!ENTITY half-manual-test.accesskey      "R">
 <!ENTITY manual-edit.label               "Formësim dorazi">
 <!ENTITY manual-edit.accesskey           "m">
-
+<!ENTITY switch-to-provisioner.label     "Hapni një llogari të re">
+<!ENTITY switch-to-provisioner.accesskey "H">
 
 <!ENTITY warning.label                   "Kujdes!">
 <!ENTITY incomingSettings.label          "Rregullime për shërbyesin marrës:">

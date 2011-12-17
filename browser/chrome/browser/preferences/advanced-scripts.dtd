@@ -3,8 +3,8 @@
 
 <!ENTITY allowScripts.label             "Lejo programthe të:">
 
-<!ENTITY moveResizeWindows.label        "Lëvizin ose ripërmasojnë dritare flluska">
-<!ENTITY moveResizeWindows.accesskey    "L">
+<!ENTITY moveResizePopupWindows.label        "Lëvizin ose ripërmasojnë dritare flluska">
+<!ENTITY moveResizePopupWindows.accesskey    "L">
 <!ENTITY raiseLowerWindows.label        "Ulin ose ngrejnë dritare">
 <!ENTITY raiseLowerWindows.accesskey    "U">
 <!ENTITY disableContextMenus.label      "Çaktivizojnë ose zëvendësojnë menu konteksti">
