@@ -248,6 +248,8 @@ can reach it easily. -->
 <!ENTITY inspectButton.label           "Inspektera">
 <!ENTITY inspectButton.accesskey       "I">
 <!ENTITY inspectCloseButton.tooltiptext "Stäng inspektör">
+<!ENTITY inspect3DButton.label        "3D">
+<!ENTITY inspect3DButton.accesskey    "3">
 <!ENTITY inspectStyleButton.label     "Stil">
 <!ENTITY inspectStyleButton.accesskey "S">
 
