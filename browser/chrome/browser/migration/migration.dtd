@@ -6,8 +6,6 @@
 <!ENTITY importFromIE.accesskey "M">
 <!ENTITY importFromNothing.label "No importar nada">
 <!ENTITY importFromNothing.accesskey "p">
-<!ENTITY importFromOpera.label "Opera">
-<!ENTITY importFromOpera.accesskey "O">
 <!ENTITY importFromSafari.label "Safari">
 <!ENTITY importFromSafari.accesskey "S">
 <!ENTITY importFromChrome.label "Chrome">
