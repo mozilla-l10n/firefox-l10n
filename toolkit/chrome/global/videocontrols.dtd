@@ -24,7 +24,7 @@
 <!ENTITY error.network "Avspelning av videon avbröts på grund av nätverksfel.">
 <!ENTITY error.decode "Videon kan inte spelas upp eftersom filen är skadad.">
 <!ENTITY error.srcNotSupported "Videoformat eller MIME-typ stöds inte.">
-<!ENTITY error.noSource "Videon hittades inte.">
+<!ENTITY error.noSource2 "Hittade ingen video med ett format eller en MIME-typ som stöds.">
 <!ENTITY error.generic "Avspelning av videon avbröts på grund av ett okänt fel.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
