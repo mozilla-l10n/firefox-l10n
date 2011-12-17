@@ -1,7 +1,7 @@
 <!ENTITY addressbookPicker.label "Libreta de direcciones:">
 <!ENTITY addressbookPicker.accesskey "d">
 <!ENTITY searchInput.label "Buscar:">
-<!ENTITY searchInput.accesskey "o">
+<!ENTITY searchInput.accesskey "B">
 <!ENTITY SearchNameOrEmail.label "Nombre o Correo electrónico">
 
 <!ENTITY deleteAddrBookCard.label "Borrar">
