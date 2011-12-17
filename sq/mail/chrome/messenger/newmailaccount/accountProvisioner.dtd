@@ -35,5 +35,5 @@
 <!ENTITY input.namePlaceholder "Emri juaj, ose nofka">
 <!ENTITY input.search "Kërkoni">
 <!ENTITY search_engine.title "Personalizoni motorin tuaj të kërkimeve">
-<!ENTITY search_engine.message "Mundësuesi i email-it tuaj mund t&apo;ju ofrojë edhe aftësi kërkimesh.">
+<!ENTITY search_engine.message "Mundësuesi i email-it tuaj mund t&apos;ju ofrojë edhe aftësi kërkimesh.">
 <!ENTITY search_engine.button "Përfundoje">
