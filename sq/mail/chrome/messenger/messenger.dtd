@@ -24,8 +24,10 @@
 <!ENTITY newVirtualFolderCmd.accesskey "K">
 <!ENTITY newOtherAccountsCmd.label "Tjetër Llogari…">
 <!ENTITY newOtherAccountsCmd.accesskey "T">
-<!ENTITY newEmailAccountCmd.label "Llogari Poste…">
-<!ENTITY newEmailAccountCmd.accesskey "L">
+<!ENTITY newCreateEmailAccountCmd.label "Hapni një Llogari të Re Poste…">
+<!ENTITY newCreateEmailAccountCmd.accesskey "R">
+<!ENTITY newExistingEmailAccountCmd.label "Llogari Poste Ekzistuese…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "u">
 <!ENTITY openMessageFileCmd.label "Hapni Mesazh të Ruajtur…">
 <!ENTITY openMessageFileCmd.accesskey "H">
 <!ENTITY openAttachmentCmd.label "Bashkangjitje">
@@ -140,6 +142,8 @@
 <!ENTITY messagePaneWide.accesskey "G">
 <!ENTITY messagePaneVertical.label "Shfaqje Vertikale">
 <!ENTITY messagePaneVertical.accesskey "V">
+<!ENTITY showFolderPaneCmd.label "Kuadrat Dosjesh">
+<!ENTITY showFolderPaneCmd.accesskey "F">
 <!ENTITY showMessageCmd.label "Kuti Mesazhesh">
 <!ENTITY showMessageCmd.accesskey "M">
 
