@@ -529,7 +529,7 @@
 <!ENTITY folderContextEmptyJunk.accesskey "v">
 <!ENTITY folderContextSendUnsentMessages.label "Invia messaggi ancora da inviare">
 <!ENTITY folderContextSendUnsentMessages.accesskey "S">
-<!ENTITY folderContextUnsubscribe.label "Annulla Sottoscrizione">
+<!ENTITY folderContextUnsubscribe.label "Annulla sottoscrizione">
 <!ENTITY folderContextUnsubscribe.accesskey "A">
 <!ENTITY folderContextMarkNewsgroupRead.label "Segna il gruppo di discussione come già letto">
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "c">
