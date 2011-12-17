@@ -95,22 +95,23 @@
 <!ENTITY browserContext.label         "Brauser">
 <!ENTITY browserContext.accesskey     "B">
 
-<!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
+<!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
-<!ENTITY resetContext.label           "Lähtesta">
-<!ENTITY resetContext.accesskey       "L">
+<!ENTITY resetContext2.label          "Lähtesta muutujad">
+<!ENTITY resetContext2.accesskey      "L">
 
 <!ENTITY executeMenu.label            "Käivitamine">
 <!ENTITY executeMenu.accesskey        "K">
 
-<!ENTITY toolsMenu.label              "Tööriistad">
-<!ENTITY toolsMenu.accesskey          "T">
-
-<!ENTITY errorConsoleCmd.label        "Vigade konsool">
-<!ENTITY errorConsoleCmd.accesskey    "i">
+<!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
+  -  the browser Error Console, the key should be identical to the property of
+  -  the same name in browser.dtd.
+  -->
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY webConsoleCmd.label          "Veebiarendajate konsool">
-<!ENTITY webConsoleCmd.accesskey      "b">
+<!-- LOCALIZATION NOTE (webConsoleCmd.commandkey): This command key launches
+  -  the browser WebConsole, the key should be identical to the property of
+  -  the same name in browser.dtd.
+  -->
 <!ENTITY webConsoleCmd.commandkey     "k">

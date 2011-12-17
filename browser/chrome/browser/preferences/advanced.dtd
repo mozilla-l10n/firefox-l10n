@@ -57,22 +57,28 @@
 
 <!ENTITY updateTab.label                   "Uuendamine">
 
-<!ENTITY autoCheck.label                   "Järgmisi uuendusi kontrollitakse automaatselt:">
-<!ENTITY enableAppUpdate.label             "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey         "F">
-<!ENTITY enableAddonsUpdate2.label         "Lisad">
-<!ENTITY enableAddonsUpdate2.accesskey     "L">
-<!ENTITY enableSearchUpdate.label          "Otsingumootorid">
-<!ENTITY enableSearchUpdate.accesskey      "O">
-<!ENTITY whenUpdatesFound.label            "Kui &brandShortName;ile leitakse uuendusi:">
-<!ENTITY askMe.label                       "Küsitakse, mida teha">
-<!ENTITY askMe.accesskey                   "K">
-<!ENTITY modeAutomatic.label               "Uuendus laaditakse automaatselt alla ning paigaldatakse">
-<!ENTITY modeAutomatic.accesskey           "U">
-<!ENTITY modeAutoAddonWarn.label           "Hoiatatakse, kui see keelab mõne lisa">
-<!ENTITY modeAutoAddonWarn.accesskey       "H">
+<!ENTITY updateApp.label                   "&brandShortName;i uuendused:">
+<!ENTITY updateAuto.label                  "Uuendused paigaldatakse automaatselt (soovitatud: parem turvalisus)">
+<!ENTITY updateAuto.accesskey              "e">
+<!ENTITY updateCheck.label                 "Kontrollitakse uuenduste olemasolu, aga küsitakse, kas need paigaldada">
+<!ENTITY updateCheck.accesskey             "K">
+<!ENTITY updateManual.label                "Uuenduste olemasolu ei kontrollita (pole soovitatud: turvalisuse risk)">
+<!ENTITY updateManual.accesskey            "U">
+
+<!ENTITY updateAutoAddonWarn.label         "Hoiatatakse, kui see keelab mõne lisa">
+<!ENTITY updateAutoAddonWarn.accesskey     "H">
+
 <!ENTITY updateHistory.label               "Näita uuenduste ajalugu">
 <!ENTITY updateHistory.accesskey           "j">
+
+<!ENTITY useService.label                  "Uuenduste paigaldamiseks kasutatakse taustateenust">
+<!ENTITY useService.accesskey              "b">
+
+<!ENTITY updateOthers.label                "Automaatne uuendamine:">
+<!ENTITY enableAddonsUpdate3.label         "Lisad">
+<!ENTITY enableAddonsUpdate3.accesskey     "L">
+<!ENTITY enableSearchUpdate.label          "Otsingumootorid">
+<!ENTITY enableSearchUpdate.accesskey      "O">
 
 <!ENTITY offlineNotify.label               "Hoiatatakse, kui veebileht soovib salvestada andmeid võrguta režiimis kasutamiseks">
 <!ENTITY offlineNotify.accesskey           "H">

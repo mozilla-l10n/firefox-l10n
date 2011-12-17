@@ -4,8 +4,7 @@
 
 <!ENTITY setup.pickSetupType.description    "Tere tulemast! Kui sa pole varem &syncBrand.fullName.label;i kasutanud, siis pead looma uue konto.">
 <!ENTITY button.createNewAccount.label      "Loo uus konto">
-<!ENTITY setup.haveAccount.label            "Mul on juba &syncBrand.fullName.label;i konto olemas.">
-<!ENTITY button.connect.label               "Ühenda">
+<!ENTITY button.haveAccount.label           "Mul on juba konto olemas">
 
 <!ENTITY setup.choicePage.title.label       "Kas sa oled varem kasutanud &syncBrand.fullName.label;i?">
 <!ENTITY setup.choicePage.new.label         "Ma pole varem &syncBrand.shortName.label;i kasutanud">
@@ -40,7 +39,7 @@
 <!ENTITY setup.tosAgree3.label              "">
 <!ENTITY setup.tosAgree2.accesskey          "">
 
-<!-- New Account Page 2: Sync Key -->
+<!-- My Recovery Key dialog -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; peab lugu sinu privaatsusest">
 <!ENTITY setup.newRecoveryKeyPage.description.label "Privaatsuse tagamiseks krüptitakse kõik andmed enne üleslaadimist. Võtit, mis on vajalik andmete dekrüptimiseks, üles ei laadita.">
 <!ENTITY recoveryKeyEntry.label             "Taastamise võti">
@@ -53,15 +52,13 @@
 <!ENTITY button.syncKeyBackup.save.label    "Salvesta…">
 <!ENTITY button.syncKeyBackup.save.accesskey "S">
 
-<!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "Palun tõesta, et sa pole robot">
-<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "Lisa uus seade">
+<!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
+<!ENTITY pairDevice.title.label             "Lisa seade">
 <!ENTITY addDevice.showMeHow.label          "Näita juhiseid.">
 <!ENTITY addDevice.dontHaveDevice.label     "Mul pole seadet kaasas">
-<!ENTITY addDevice.setup.description.label  "Aktiveerimiseks ava &syncBrand.shortName.label;i seaded oma teisel seadmel ning vali &#x0022;Lisa seade&#x0022;.">
+<!ENTITY pairDevice.setup.description.label "Aktiveerimiseks vali &#x0022;Lisa seade&#x0022; oma teisel seadmel.">
 <!ENTITY addDevice.setup.enterCode.label    "Seejärel sisesta see kood:">
-<!ENTITY addDevice.dialog.description.label "Uue seadme aktiveerimiseks ava &syncBrand.shortName.label;i seaded teisel seadmel ja vali &#x0022;Ühenda&#x0022;.">
+<!ENTITY pairDevice.dialog.description.label "Uue seadme aktiveerimiseks vali antud seadmel &#x0022;Seadista sünkroniseerimine&#x0022;.">
 <!ENTITY addDevice.dialog.enterCode.label   "Sisesta kood, mida seade kuvab:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Palun proovi uuesti.">
 <!ENTITY addDevice.dialog.successful.label  "Seade on edukalt lisatud. Esialgne sünkroniseerimine võib võtta mitu minutit ning see lõpetatakse taustal.">
