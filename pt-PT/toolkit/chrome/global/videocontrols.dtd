@@ -24,7 +24,7 @@
 <!ENTITY error.network "Reprodução de vídeo abortada devido a um erro de rede.">
 <!ENTITY error.decode "o vídeo não pode ser reproduzido porque o ficheiro está corrompido.">
 <!ENTITY error.srcNotSupported "Formato de vídeo ou tipo MIME não suportado.">
-<!ENTITY error.noSource "Vídeo não encontrado.">
+<!ENTITY error.noSource2 "Nenhum vídeo encontrado com o formato e tipo de MIME suportado.">
 <!ENTITY error.generic "Reprodução de vídeo abortada devido a um erro desconhecido.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
