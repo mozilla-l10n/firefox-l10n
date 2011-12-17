@@ -29,12 +29,15 @@
 <!ENTITY connectionDesc.label "Настройка параметров соединения &brandShortName; с Интернетом">
 <!ENTITY connectionSettings.label "Настроить…">
 <!ENTITY connectionSettings.accesskey "с">
-<!ENTITY offlineStorage.label "Автономное хранилище">
+<!ENTITY httpCache.label "Кэшированное веб-содержимое">
+<!ENTITY offlineStorage2.label "Автономное веб-содержимое и данные пользователя">
 <!ENTITY limitCacheSizeBefore.label "Использовать под кэш не более">
 <!ENTITY limitCacheSizeBefore.accesskey "о">
 <!ENTITY limitCacheSizeAfter.label "МБ на диске">
 <!ENTITY clearCacheNow.label "Очистить сейчас">
 <!ENTITY clearCacheNow.accesskey "ч">
+<!ENTITY clearOfflineAppCacheNow.label "Очистить сейчас">
+<!ENTITY clearOfflineAppCacheNow.accesskey "й">
 <!ENTITY overrideSmartCacheSize.label "Отключить автоматическое управление кэшем">
 <!ENTITY overrideSmartCacheSize.accesskey "л">
 <!ENTITY updateTab.label "Обновления">
@@ -58,7 +61,7 @@
 <!ENTITY offlineNotify.accesskey "ф">
 <!ENTITY offlineNotifyExceptions.label "Исключения…">
 <!ENTITY offlineNotifyExceptions.accesskey "к">
-<!ENTITY offlineAppsList.label "Следующие веб-сайты сохранили данные для работы в автономном режиме:">
+<!ENTITY offlineAppsList2.label "Следующим веб-сайтам разрешено хранить данные для работы в автономном режиме:">
 <!ENTITY offlineAppsList.height "10em">
 <!ENTITY offlineAppsListRemove.label "Удалить…">
 <!ENTITY offlineAppsListRemove.accesskey "д">
