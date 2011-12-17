@@ -44,8 +44,8 @@
 <!ENTITY antiVirus.accesskey  "N">
 
 <!-- Cookies -->
-<!ENTITY cookies.intro                  "&brandShortName; vam omogoča, da navedete, katerim blogom, novičarskim virom, in ostalim spletnim stranem bo dovoljeno ustvarjati piškotke.">
-<!ENTITY acceptCookies.label            "Dovoli stranem, da shranjujejo piškotke.">
+<!ENTITY cookies.intro                  "&brandShortName; vam omogoča, da navedete, katerim blogom, novičarskim virom, in ostalim spletnim stranem bo dovoljeno ustvarjati piškote.">
+<!ENTITY acceptCookies.label            "Dovoli stranem, da shranjujejo piškote.">
 <!ENTITY acceptCookies.accesskey        "D">
 <!ENTITY keepUntil.label                "Obdrži jih:">
 <!ENTITY keepUntil.accesskey            "O">
@@ -54,6 +54,6 @@
 <!ENTITY askEachTime.label              "Vsakokrat me vprašaj">
 <!ENTITY cookieExceptions.label         "Izjeme…">
 <!ENTITY cookieExceptions.accesskey     "I">
-<!ENTITY showCookies.label              "Pokaži piškotke …">
+<!ENTITY showCookies.label              "Pokaži piškote …">
 <!ENTITY showCookies.accesskey          "K">
 

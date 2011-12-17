@@ -18,5 +18,5 @@
 <!ENTITY windowClose.key              "w">
 
 <!ENTITY button.close.label           "Zapri">
-<!ENTITY button.close.accesskey       "z">
+<!ENTITY button.close.accesskey       "Z">
 
