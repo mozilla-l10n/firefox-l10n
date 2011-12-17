@@ -103,6 +103,12 @@
 <!ENTITY mediaHideControls.accesskey "а">
 <!ENTITY videoFullScreen.label "Увесь экран">
 <!ENTITY videoFullScreen.accesskey "У">
+<!ENTITY videoSaveImage.label "Захаваць здымак як…">
+<!ENTITY videoSaveImage.accesskey "З">
+<!ENTITY videoShowStats.label "Паказаць статыстыку">
+<!ENTITY videoShowStats.accesskey "с">
+<!ENTITY videoHideStats.label "Схаваць статыстыку">
+<!ENTITY videoHideStats.accesskey "с">
 <!ENTITY search.accesskey "ш">
 <!ENTITY bidiSwitchPageDirectionItem.label "Пераключыць кірунак старонкі">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey "р">

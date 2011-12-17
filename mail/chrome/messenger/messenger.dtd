@@ -16,8 +16,10 @@
 <!ENTITY newVirtualFolderCmd.accesskey "п">
 <!ENTITY newOtherAccountsCmd.label "Іншыя рахункі…">
 <!ENTITY newOtherAccountsCmd.accesskey "І">
-<!ENTITY newEmailAccountCmd.label "Рахунак пошты…">
-<!ENTITY newEmailAccountCmd.accesskey "п">
+<!ENTITY newCreateEmailAccountCmd.label "Стварыць новы рахунак пошты…">
+<!ENTITY newCreateEmailAccountCmd.accesskey "н">
+<!ENTITY newExistingEmailAccountCmd.label "Існы рахунак пошты…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "І">
 <!ENTITY openMessageFileCmd.label "Адкрыць захаваны ліст…">
 <!ENTITY openMessageFileCmd.accesskey "А">
 <!ENTITY openAttachmentCmd.label "Далучэнні">
@@ -122,6 +124,8 @@
 <!ENTITY messagePaneWide.accesskey "Ш">
 <!ENTITY messagePaneVertical.label "Вертыкальны від">
 <!ENTITY messagePaneVertical.accesskey "В">
+<!ENTITY showFolderPaneCmd.label "Шыба папак">
+<!ENTITY showFolderPaneCmd.accesskey "п">
 <!ENTITY showMessageCmd.label "Шыба лістоў">
 <!ENTITY showMessageCmd.accesskey "ш">
 <!ENTITY folderView.label "Папкі">

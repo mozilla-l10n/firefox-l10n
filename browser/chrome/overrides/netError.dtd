@@ -38,6 +38,8 @@
 ">
 <!ENTITY netInterrupt.title "Злучэнне перарвана">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+<!ENTITY notCached.title "Дакумент састарэў">
+<!ENTITY notCached.longDesc '<p>Запатрабаваны дакумент не даступны ў запасніку &brandShortName;.</p><ul><li>Дзеля бяспекі &brandShortName; не перазапытвае значныя дакументы самастойна.</li><li>Пстрыкніце "Паспрабаваць зноў", каб запытаць дакумент з пляцоўкі сеціва ізноў.</li></ul>'>
 <!ENTITY netOffline.title "Пазасеткавы рэжым">
 <!ENTITY netOffline.longDesc2 "
 <ul>

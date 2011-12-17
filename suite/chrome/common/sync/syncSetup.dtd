@@ -32,8 +32,7 @@
 <!ENTITY setup.newRecoveryKeyPage.description.label "Каб захаваць вашу бяспеку, усе вашы здаткі шыфруюцца перад зацягваннем. Адноўны ключ, неабходны для расшыфравання вашых здаткаў, не зацягваецца.">
 <!ENTITY recoveryKeyEntry.label "Ваш адноўны ключ">
 <!ENTITY recoveryKeyEntry.accesskey "к">
-<!ENTITY recoveryKeyGenerate.label "Вырабіць">
-<!ENTITY recoveryKeyGenerate.accesskey "В">
+<!ENTITY recoveryGenerateNewKey.label "Вырабіць новы ключ">
 <!ENTITY recoveryKeyBackup.description "Ваш адноўны ключ патрэбны для дасягання &syncBrand.fullName.label; на іншых машынах. Стварыце, калі ласка, яго адноўную копію. Мы не зможам дапамагчы вам аднавіць адноўны ключ.">
 <!ENTITY button.syncKeyBackup.print.label "Друкаваць…">
 <!ENTITY button.syncKeyBackup.print.accesskey "Д">

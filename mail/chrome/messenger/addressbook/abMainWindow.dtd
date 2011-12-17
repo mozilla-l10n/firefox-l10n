@@ -78,12 +78,16 @@
 <!ENTITY showTaskbarCmd.accesskey "с">
 <!ENTITY customizeToolbar.label "Наладзіць…">
 <!ENTITY customizeToolbar.accesskey "Н">
-<!ENTITY showContactPane.label "Зводкавая шыба сувязі">
-<!ENTITY showContactPane.accesskey "с">
+<!ENTITY layoutMenu.label "Раскладка">
+<!ENTITY layoutMenu.accesskey "Р">
+<!ENTITY showDirectoryPane.label "Шыба дырэкторыяў">
+<!ENTITY showDirectoryPane.accesskey "д">
+<!ENTITY showContactPane2.label "Шыба сувязяў">
+<!ENTITY showContactPane2.accesskey "с">
 <!ENTITY menu_ShowNameAs.label "Паказваць імёны як">
 <!ENTITY menu_ShowNameAs.accesskey "І">
-<!ENTITY firstLastCmd.label "Імя Прозвішча">
-<!ENTITY firstLastCmd.accesskey "І">
+<!ENTITY firstLastCmd2.label "Імя Прозвішча">
+<!ENTITY firstLastCmd2.accesskey "і">
 <!ENTITY lastFirstCmd.label "Прозвішча Імя">
 <!ENTITY lastFirstCmd.accesskey "П">
 <!ENTITY displayNameCmd.label "Адлюстроўнае імя">

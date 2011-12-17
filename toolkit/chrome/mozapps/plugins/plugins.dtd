@@ -14,6 +14,7 @@
 <!ENTITY pluginWizard.finalPage.moreInfo.label "Знайсці больш звестак пра ўбудовы або знайсці адсутныя ўбудовы ўручную.">
 <!ENTITY pluginWizard.finalPage.restart.label "Трэба перазапусціць &brandShortName;, каб убудова(ы) пачала(і) працаваць.">
 <!ENTITY missingPlugin "Для адлюстравання гэтага змесціва патрэбна ўбудова.">
+<!ENTITY clickToPlayPlugin "Ляпніце тут, каб задзейнічаць убудову.">
 <!ENTITY disabledPlugin "Гэтая ўбудова забароненая.">
 <!ENTITY blockedPlugin.label "Гэтая ўбудова заблакавана для вашай абароны.">
 <!ENTITY installPlugin "Усталяваць убудову…">
@@ -21,7 +22,7 @@
 <!ENTITY reloadPlugin.pre "">
 <!ENTITY reloadPlugin.middle "Абнавіць старонку">
 <!ENTITY reloadPlugin.post " , каб паспрабаваць зноў.">
-<!ENTITY report.please "Даслаць справаздачу пра крах">
+<!ENTITY report.checkbox "…і даслаць справаздачу пра крах">
 <!ENTITY report.submitting "Дасыланне справаздачы…">
 <!ENTITY report.submitted "Справаздача пра крах дасланая.">
 <!ENTITY report.disabled "Падача справаздачаў пра крах забаронена.">

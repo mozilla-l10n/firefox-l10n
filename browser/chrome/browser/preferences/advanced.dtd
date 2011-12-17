@@ -38,22 +38,24 @@
 <!ENTITY overrideSmartCacheSize.label "Перахапіць кіраванне запаснікам">
 <!ENTITY overrideSmartCacheSize.accesskey "З">
 <!ENTITY updateTab.label "Абнаўленне">
-<!ENTITY autoCheck.label "Самастойна правяраць, ці існуюць абнаўленні да:">
-<!ENTITY enableAppUpdate.label "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey "F">
-<!ENTITY enableAddonsUpdate2.label "Дадаткі">
-<!ENTITY enableAddonsUpdate2.accesskey "Д">
-<!ENTITY enableSearchUpdate.label "Машыны пошуку">
-<!ENTITY enableSearchUpdate.accesskey "ш">
-<!ENTITY whenUpdatesFound.label "Калі знойдзены абнаўленні &brandShortName;:">
-<!ENTITY askMe.label "Пытацца мяне, што я буду рабіць">
-<!ENTITY askMe.accesskey "т">
-<!ENTITY modeAutomatic.label "Самастойна загружаць і ўсталёўваць абнаўленне">
-<!ENTITY modeAutomatic.accesskey "ў">
-<!ENTITY modeAutoAddonWarn.label "Папярэджваць мяне, калі ў выніку забараняцца мае дадаткі">
-<!ENTITY modeAutoAddonWarn.accesskey "П">
+<!ENTITY updateApp.label "Абнаўленні &brandShortName;:">
+<!ENTITY updateAuto.label "Самастойна ўсталёўваць абнаўленні (раіцца: паляпшае бяспеку)">
+<!ENTITY updateAuto.accesskey "С">
+<!ENTITY updateCheck.label "Правяраць, ці існуюць абнаўленні, але я сам буду вырашаць, ці ўсталёўваць іх">
+<!ENTITY updateCheck.accesskey "П">
+<!ENTITY updateManual.label "Ніколі не правяраць, ці існуюць абнаўленні (не раіцца: рызыка для бяспекі)">
+<!ENTITY updateManual.accesskey "Н">
+<!ENTITY updateAutoAddonWarn.label "Папярэджваць мяне, калі ў выніку забараняцца мае дадаткі">
+<!ENTITY updateAutoAddonWarn.accesskey "я">
 <!ENTITY updateHistory.label "Паказаць гісторыю абнаўленняў">
 <!ENTITY updateHistory.accesskey "а">
+<!ENTITY useService.label "Ужываць фонаваю службу для ўсталявання абналенняў">
+<!ENTITY useService.accesskey "ф">
+<!ENTITY updateOthers.label "Самастойна абнаўляць:">
+<!ENTITY enableAddonsUpdate3.label "Дадаткі">
+<!ENTITY enableAddonsUpdate3.accesskey "Д">
+<!ENTITY enableSearchUpdate.label "Машыны пошуку">
+<!ENTITY enableSearchUpdate.accesskey "ш">
 <!ENTITY offlineNotify.label "Паведамляць мне, калі пляцоўка сеціва просіць захаваць здаткі для пазасеткавага ўжывання">
 <!ENTITY offlineNotify.accesskey "в">
 <!ENTITY offlineNotifyExceptions.label "Выключэнні…">
