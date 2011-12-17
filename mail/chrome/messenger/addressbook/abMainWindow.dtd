@@ -87,12 +87,18 @@
 <!ENTITY showTaskbarCmd.accesskey           "l">
 <!ENTITY customizeToolbar.label             "Kohanda...">
 <!ENTITY customizeToolbar.accesskey         "K">
-<!ENTITY showContactPane.label              "Kontakti kokkuvõtte paneel">
-<!ENTITY showContactPane.accesskey          "K">
+<!ENTITY layoutMenu.label                   "Paigutus">
+<!ENTITY layoutMenu.accesskey               "i">
+<!ENTITY showDirectoryPane.label            "Kataloogide paneel">
+<!ENTITY showDirectoryPane.accesskey        "o">
+<!ENTITY showContactPane2.label             "Kontakti paneel">
+<!ENTITY showContactPane2.accesskey         "K">
 <!ENTITY menu_ShowNameAs.label              "Nime kuju">
 <!ENTITY menu_ShowNameAs.accesskey          "N">
-<!ENTITY firstLastCmd.label                 "Eesnimi, perekonnanimi">
-<!ENTITY firstLastCmd.accesskey             "E">
+<!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
+because displayed names don't have the comma in between. -->
+<!ENTITY firstLastCmd2.label                "Eesnimi perekonnanimi">
+<!ENTITY firstLastCmd2.accesskey            "E">
 <!ENTITY lastFirstCmd.label                 "Perekonnanimi, eesnimi">
 <!ENTITY lastFirstCmd.accesskey             "P">
 <!ENTITY displayNameCmd.label               "Kuvatav nimi">
