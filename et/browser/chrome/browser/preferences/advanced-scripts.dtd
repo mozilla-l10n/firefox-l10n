@@ -40,8 +40,8 @@
 
 <!ENTITY allowScripts.label            "Skriptidel on lubatud:">
 
-<!ENTITY moveResizeWindows.label       "liigutada või muuta olemasoleva akna suurust">
-<!ENTITY moveResizeWindows.accesskey   "l">
+<!ENTITY moveResizePopupWindows.label     "liigutada või muuta hüpikakna suurust">
+<!ENTITY moveResizePopupWindows.accesskey "l">
 <!ENTITY raiseLowerWindows.label       "aknaid esile tuua või varjata">
 <!ENTITY raiseLowerWindows.accesskey   "k">
 <!ENTITY disableContextMenus.label     "keelata või asendada kontekstimenüüsid">

@@ -89,6 +89,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey            "P">
 <!ENTITY fullScreenExit.label                    "Välju täisekraanirežiimist">
 <!ENTITY fullScreenExit.accesskey                "V">
+<!ENTITY domFullScreenWarning.label              "Täisekraanirežiimist väljumiseks vajuta klahvi ESC">
 
 <!ENTITY closeWindow.label                       "Sulge aken">
 <!ENTITY closeWindow.accesskey                   "S">
@@ -214,6 +215,9 @@ can reach it easily. -->
 <!ENTITY inspectPanelTitle.label                 "HTML">
 <!ENTITY inspectButton.label                     "Inspekteeri">
 <!ENTITY inspectButton.accesskey                 "I">
+<!ENTITY inspectCloseButton.tooltiptext          "Sulge inspekteerija">
+<!ENTITY inspectStyleButton.label                "Stiilid">
+<!ENTITY inspectStyleButton.accesskey            "S">
 
 <!ENTITY getMoreDevtoolsCmd.label                "Hangi rohkem tööriistu">
 <!ENTITY getMoreDevtoolsCmd.accesskey            "H">
@@ -433,6 +437,12 @@ can reach it easily. -->
 <!ENTITY mediaHideControls.accesskey             "e">
 <!ENTITY videoFullScreen.label                   "Täisekraanirežiim">
 <!ENTITY videoFullScreen.accesskey               "T">
+<!ENTITY videoSaveImage.label                    "Salvesta hetkvõte kui…">
+<!ENTITY videoSaveImage.accesskey                "a">
+<!ENTITY videoShowStats.label                    "Näita statistikat">
+<!ENTITY videoShowStats.accesskey                "i">
+<!ENTITY videoHideStats.label                    "Peida statistika">
+<!ENTITY videoHideStats.accesskey                "d">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and

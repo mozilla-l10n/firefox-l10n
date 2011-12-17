@@ -14,12 +14,6 @@
 # link title for http://et.www.mozilla.com/et/firefox/central/
 #define getting_started Alustamisjuhend
 
-# LOCALIZATION NOTE (latest_headlines):
-# link title for the live bookmarks sample, a redirect on
-# http://et.fxfeeds.mozilla.com/et/firefox/headlines.xml
-# Changing the redirect is subject to approval of l10n-drivers.
-#define latest_headlines Viimased uudised
-
 # LOCALIZATION NOTE (firefox_heading):
 # Firefox links folder name
 #define firefox_heading Mozilla Firefox

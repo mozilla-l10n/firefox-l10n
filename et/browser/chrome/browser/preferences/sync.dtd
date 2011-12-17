@@ -17,7 +17,7 @@
 <!ENTITY myRecoveryKey.label             "Taastamise võti">
 <!ENTITY resetSync2.label                "Lähtesta Sync…">
 
-<!ENTITY addDevice.label                 "Lisa seade">
+<!ENTITY pairDevice.label                "Lisa seade">
 
 <!ENTITY syncMy.label                    "Sünkroniseeritakse">
 <!ENTITY engine.bookmarks.label          "järjehoidjad">
