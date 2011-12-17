@@ -1,18 +1,23 @@
-<!ENTITY addressbookPicker.label "Libreta de direcciones:">
-<!ENTITY addressbookPicker.accesskey "d">
-<!ENTITY searchInput.label "Buscar:">
-<!ENTITY searchInput.accesskey "o">
-<!ENTITY SearchNameOrEmail.label "Nombre o Correo electrónico">
+<!ENTITY addressbookPicker.label            "Libreta de direcciones:">
+<!ENTITY addressbookPicker.accesskey        "d">
+<!ENTITY searchInput.label                  "Buscar:">
+<!ENTITY searchInput.accesskey              "B">
+<!ENTITY SearchNameOrEmail.label            "Nombre o Correo electrónico">
 
-<!ENTITY deleteAddrBookCard.label "Borrar">
-<!ENTITY addrBookCardProperties.label "Propiedades">
-<!ENTITY addtoToFieldMenu.label "Añadir a campo Para">
-<!ENTITY addtoCcFieldMenu.label "Añadir a campo CC">
-<!ENTITY addtoBccFieldMenu.label "Añadir a campo CCO">
+<!ENTITY deleteAddrBookCard.label           "Borrar">
+<!ENTITY deleteAddrBookCard.accesskey       "B">
+<!ENTITY addrBookCardProperties.label       "Propiedades">
+<!ENTITY addrBookCardProperties.accesskey   "P">
+<!ENTITY addtoToFieldMenu.label             "Agregar a campo Para">
+<!ENTITY addtoToFieldMenu.accesskey         "A">
+<!ENTITY addtoCcFieldMenu.label             "Agregar a campo CC">
+<!ENTITY addtoCcFieldMenu.accesskey         "C">
+<!ENTITY addtoBccFieldMenu.label            "Agregar a campo CCO">
+<!ENTITY addtoBccFieldMenu.accesskey        "O">
 
-<!ENTITY toButton.label "Añadir a Para:">
-<!ENTITY toButton.accesskey "A">
-<!ENTITY ccButton.label "Añadir a CC:">
-<!ENTITY ccButton.accesskey "d">
-<!ENTITY bccButton.label "Añadir a CCO:">
-<!ENTITY bccButton.accesskey "C">
+<!ENTITY toButton.label                     "Agregar a Para:">
+<!ENTITY toButton.accesskey                 "A">
+<!ENTITY ccButton.label                     "Agregar a CC:">
+<!ENTITY ccButton.accesskey                 "C">
+<!ENTITY bccButton.label                    "Agregar a CCO:">
+<!ENTITY bccButton.accesskey                "O">
