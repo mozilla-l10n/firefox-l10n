@@ -5,14 +5,19 @@
 <!ENTITY SearchNameOrEmail.label     "Imię, nazwisko lub e-mail">
 
 <!ENTITY deleteAddrBookCard.label     "Usuń">
+<!ENTITY deleteAddrBookCard.accesskey "U">
 <!ENTITY addrBookCardProperties.label "Właściwości">
+<!ENTITY addrBookCardProperties.accesskey "W">
 <!ENTITY addtoToFieldMenu.label       "Dodaj do pola „Do”">
+<!ENTITY addtoToFieldMenu.accesskey   "o">
 <!ENTITY addtoCcFieldMenu.label       "Dodaj do pola „Kopia”">
+<!ENTITY addtoCcFieldMenu.accesskey   "a">
 <!ENTITY addtoBccFieldMenu.label      "Dodaj do pola „Ukryta kopia”">
+<!ENTITY addtoBccFieldMenu.accesskey  "r">
 
 <!ENTITY toButton.label      "„Do:”">
 <!ENTITY toButton.accesskey  "D">
 <!ENTITY ccButton.label      "„Kopia:”">
-<!ENTITY ccButton.accesskey  "K">
+<!ENTITY ccButton.accesskey  "i">
 <!ENTITY bccButton.label     "„Ukryta kopia:”">
 <!ENTITY bccButton.accesskey "U">
