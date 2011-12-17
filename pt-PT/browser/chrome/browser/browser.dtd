@@ -217,6 +217,8 @@ shortcut keys on Linux. -->
 <!ENTITY inspectButton.label            "Inspeccionar">
 <!ENTITY inspectButton.accesskey        "I">
 <!ENTITY inspectCloseButton.tooltiptext "Fechar Inspector">
+<!ENTITY inspect3DButton.label        "3D">
+<!ENTITY inspect3DButton.accesskey    "M">
 <!ENTITY inspectStyleButton.label     "Estilo">
 <!ENTITY inspectStyleButton.accesskey "s">
 
