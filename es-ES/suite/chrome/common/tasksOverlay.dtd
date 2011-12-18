@@ -24,7 +24,7 @@
 <!ENTITY passwordExpireCmd.label "Cerrar sesión">
 <!ENTITY passwordExpireCmd.accesskey "C">
 <!ENTITY downloadManagerCmd.label "Administrador de descargas">
-<!ENTITY downloadManagerCmd.accesskey "D">
+<!ENTITY downloadManagerCmd.accesskey "n">
 <!ENTITY downloadManagerCmd.commandkey "j">
 <!ENTITY addOnsManagerCmd.label "Administrador de complementos">
 <!ENTITY addOnsManagerCmd.accesskey "c">
