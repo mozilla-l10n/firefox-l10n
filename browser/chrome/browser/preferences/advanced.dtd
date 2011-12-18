@@ -57,8 +57,8 @@
 <!ENTITY updateOthers.label "Автоматически обновлять:">
 <!ENTITY enableSearchUpdate.label "Плагины для поисковых систем">
 <!ENTITY enableSearchUpdate.accesskey "л">
-<!ENTITY offlineNotify.label "Информировать, когда веб-сайт просит разрешения сохранить данные для использования в автономном режиме">
-<!ENTITY offlineNotify.accesskey "ф">
+<!ENTITY offlineNotify.label "Сообщать, когда веб-сайт просит сохранить данные для автономной работы">
+<!ENTITY offlineNotify.accesskey "б">
 <!ENTITY offlineNotifyExceptions.label "Исключения…">
 <!ENTITY offlineNotifyExceptions.accesskey "к">
 <!ENTITY offlineAppsList2.label "Следующим веб-сайтам разрешено хранить данные для работы в автономном режиме:">
