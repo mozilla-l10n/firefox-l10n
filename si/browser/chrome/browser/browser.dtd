@@ -85,6 +85,7 @@
 <!ENTITY fullScreenMinimize.tooltip "හකුළන්න">
 <!ENTITY fullScreenRestore.tooltip "ප්‍රතිස්ථාපනය">
 <!ENTITY fullScreenClose.tooltip "වසන්න">
+<!ENTITY domFullScreenWarning.label "පූර්ණ තිරයෙන් ඉවත්වීමට ESC යතුර ඔබන්න">
 
 <!ENTITY closeWindow.label "කවුළුව වසන්න">
 
@@ -428,6 +429,10 @@ Entities below were automatically added by compare-locales,
 <!ENTITY syncSetup.label "&syncBrand.shortName.label; සකසන්න…">
 <!ENTITY appMenuSafeMode.accesskey "R">
 <!ENTITY inspectButton.label "පරීක්ෂා කරන්න">
+<!ENTITY inspectCloseButton.tooltiptext "පරීක්ෂක වසන්න">
+<!ENTITY inspectStyleButton.label     "මෝස්තරය">
+<!ENTITY inspectStyleButton.accesskey "S">
+
 <!ENTITY backForwardItem.title "පසුපසට/ඉදිරියට">
 <!ENTITY historyRestoreLastSession.label "පෙර සැසිය ප්‍රතිස්ථාපනය කරන්න">
 <!ENTITY webConsoleCmd.accesskey "W">
@@ -443,6 +448,14 @@ Entities below were automatically added by compare-locales,
 <!ENTITY webConsoleCmd.commandkey "k">
 <!ENTITY bookmarksMenuButton.unsorted.label "පිළිවෙළ නොකළ පිටුලකුණු">
 <!ENTITY videoFullScreen.label "සමුපූර්ණ තිරය">
+<!ENTITY videoSaveImage.label        "Save Snapshot As…">
+<!ENTITY videoSaveImage.accesskey    "S">
+<!ENTITY videoShowStats.label        "සංඛ්‍යාන දත්ත පෙන්වන්න">
+<!ENTITY videoShowStats.accesskey    "t">
+<!ENTITY videoHideStats.label        "සංඛ්‍යාන දත්ත සඟවන්න">
+<!ENTITY videoHideStats.accesskey    "t">
+
+
 <!ENTITY pinAppTab.accesskey "P">
 <!ENTITY moveToNewWindow.label "නව කවුළුවකට යන්න">
 <!ENTITY appMenuEdit.label "සැකසුම්">
