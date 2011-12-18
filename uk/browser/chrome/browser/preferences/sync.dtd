@@ -17,7 +17,7 @@
 <!ENTITY myRecoveryKey.label          "Мій ключ відновлення">
 <!ENTITY resetSync2.label             "Скинути синхронізацію…">
 
-<!ENTITY addDevice.label              "Додати пристрій">
+<!ENTITY pairDevice.label             "Під’єднати пристрій">
 
 <!ENTITY syncMy.label               "Синхронізувати мої">
 <!ENTITY engine.bookmarks.label     "Закладки">
