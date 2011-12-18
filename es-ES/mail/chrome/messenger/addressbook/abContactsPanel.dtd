@@ -4,13 +4,18 @@
 <!ENTITY searchInput.accesskey "u">
 <!ENTITY SearchNameOrEmail.label "Nombre o dirección de correo">
 <!ENTITY deleteAddrBookCard.label "Eliminar">
+<!ENTITY deleteAddrBookCard.accesskey "E">
 <!ENTITY addrBookCardProperties.label "Propiedades">
+<!ENTITY addrBookCardProperties.accesskey "P">
 <!ENTITY addtoToFieldMenu.label "Añadir a campo Para">
+<!ENTITY addtoToFieldMenu.accesskey "P">
 <!ENTITY addtoCcFieldMenu.label "Añadir a campo Cc">
+<!ENTITY addtoCcFieldMenu.accesskey "C">
 <!ENTITY addtoBccFieldMenu.label "Añadir a campo Bcc">
+<!ENTITY addtoBccFieldMenu.accesskey "A">
 <!ENTITY toButton.label "Añadir a Para:">
 <!ENTITY toButton.accesskey "A">
 <!ENTITY ccButton.label "Añadir a Cc:">
-<!ENTITY ccButton.accesskey "d">
+<!ENTITY ccButton.accesskey "C">
 <!ENTITY bccButton.label "Añadir a Bcc:">
 <!ENTITY bccButton.accesskey "B">
