@@ -13,7 +13,6 @@
 <!ENTITY manageAccount.label "Уреди ја сметката">
 <!ENTITY manageAccount.accesskey "а">
 <!ENTITY viewQuota.label "Види ограничување">
-<!ENTITY mySyncKey.label "Мојот клуч за Sync">
 <!-- Sync Settings -->
 
 <!ENTITY syncComputerName.label "Име на компјутерот:">
