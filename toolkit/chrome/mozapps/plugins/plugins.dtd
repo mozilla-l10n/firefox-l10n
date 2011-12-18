@@ -21,6 +21,7 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "Cal que es reiniciï el &brandShortName; per a que els connectors funcionin.">
 
 <!ENTITY missingPlugin                                       "Cal un connector per mostrar aquest contingut.">
+<!ENTITY clickToPlayPlugin                                   "Fes un toc aquí per activar el connector.">
 <!ENTITY disabledPlugin                                      "S'ha inhabilitat el connector.">
 <!ENTITY blockedPlugin.label                                 "S'ha blocat aquest connector per la vostra protecció.">
 
@@ -33,8 +34,8 @@
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "Torneu a carregar la pàgina">
 <!ENTITY reloadPlugin.post                                   " per tornar-ho a provar.">
-<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.please                                       "Envia un informe de fallada">
+<!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.checkbox                                     "... i envia un informe de la fallada">
 <!ENTITY report.submitting                                   "S'està enviant un informe…">
 <!ENTITY report.submitted                                    "S'ha enviat l'informe de fallada.">
 <!ENTITY report.disabled                                     "S'han inhabilitat els informes d'error.">

@@ -24,6 +24,9 @@
 <!ENTITY netInterrupt.title "S'ha interromput la transferència de dades">
 <!ENTITY netInterrupt.longDesc "<p>El navegador s'ha connectat amb èxit, però la connexió s'ha interromput mentre es transferia informació. Torneu-ho a provar.</p><ul><li>Podeu navegar per altres llocs web? Comproveu la connexió de l'ordinador a la xarxa.</li><li>Encara teniu problemes? Demaneu ajuda al vostre administrador de xarxa o al vostre proveïdor d'Internet.</li></ul>">
 
+<!ENTITY notCached.title "El document ha caducat">
+<!ENTITY notCached.longDesc "<p>No s'ha trobat el document sol·licitat a la memòria cau del navegador.</p><ul><li>Per precaució el navegador no tornarà a sol·licitar el document al servidor automàticament.</li><li>Feu clic a Prova una altra vegada per tornar a sol·licitar el document al lloc web.</li></ul>">
+
 <!ENTITY netOffline.title "Mode fora de línia">
 <!ENTITY netOffline.longDesc2 "<p>El navegador està treballant fora de línia i no es pot connectar a l'element sol·licitat.</p><ul><li>Està l'ordinador connectat a una xarxa activa?</li><li>Premeu &quot;Torneu a provar&quot; per canviar al mode en línia i tornar a carregar la pàgina.</li></ul>">
 

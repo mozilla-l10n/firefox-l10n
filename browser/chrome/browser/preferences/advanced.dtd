@@ -59,22 +59,28 @@
 
 <!ENTITY updateTab.label                 "Actualització">
 
-<!ENTITY autoCheck.label                 "Comprova automàticament si hi ha actualitzacions del:">
-<!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate2.label       "Complements">
-<!ENTITY enableAddonsUpdate2.accesskey   "n">
-<!ENTITY enableSearchUpdate.label        "Motors de cerca">
-<!ENTITY enableSearchUpdate.accesskey    "r">
-<!ENTITY whenUpdatesFound.label          "Quan es trobin actualitzacions del &brandShortName;:">
-<!ENTITY askMe.label                     "Demana'm què vull fer">
-<!ENTITY askMe.accesskey                 "D">
-<!ENTITY modeAutomatic.label             "Baixa-les automàticament i instal·la-les">
-<!ENTITY modeAutomatic.accesskey         "B">
-<!ENTITY modeAutoAddonWarn.label         "Avisa'm si s'inhabilitaran alguns dels meus complements">
-<!ENTITY modeAutoAddonWarn.accesskey     "v">
+<!ENTITY updateApp.label                 "Actualitzacions del &brandShortName;:">
+<!ENTITY updateAuto.label                "Instal·la les actualitzacions automàticament (és l'opció recomanada per seguretat)">
+<!ENTITY updateAuto.accesskey            "a">
+<!ENTITY updateCheck.label               "Comprova les actualitzacions, però pregunta'm si vull instal·lar-les">
+<!ENTITY updateCheck.accesskey           "C">
+<!ENTITY updateManual.label              "No comprovis mai si hi ha actualitzacions (poc recomanable pel risc de seguretat que comporta)">
+<!ENTITY updateManual.accesskey          "N">
+
+<!ENTITY updateAutoAddonWarn.label       "Avisa'm quan això inhabilitarà un dels meus complements">
+<!ENTITY updateAutoAddonWarn.accesskey   "A">
+
 <!ENTITY updateHistory.label             "Mostra l'historial d'actualització">
 <!ENTITY updateHistory.accesskey         "h">
+
+<!ENTITY useService.label                "Instal·la les actualitzacions en un segon pla">
+<!ENTITY useService.accesskey            "p">
+
+<!ENTITY updateOthers.label              "Actualitza automàticament:">
+<!ENTITY enableAddonsUpdate3.label       "Complements">
+<!ENTITY enableAddonsUpdate3.accesskey   "o">
+<!ENTITY enableSearchUpdate.label        "Motors de cerca">
+<!ENTITY enableSearchUpdate.accesskey    "r">
 
 <!ENTITY offlineNotify.label             "Avisa'm quan un lloc web demani emmagatzemar dades per a un ús fora de línia">
 <!ENTITY offlineNotify.accesskey         "v">

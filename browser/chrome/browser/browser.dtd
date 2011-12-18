@@ -90,6 +90,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "g">
 <!ENTITY fullScreenExit.label "Surt del mode en pantalla completa">
 <!ENTITY fullScreenExit.accesskey "p">
+<!ENTITY domFullScreenWarning.label "Premeu ESC per deixar el mode de pantalla completa">
 
 <!ENTITY closeWindow.label "Tanca la finestra">
 <!ENTITY closeWindow.accesskey "f">
@@ -212,9 +213,12 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectPanelTitle.label      "HTML">
-<!ENTITY inspectButton.label          "Inspecciona">
-<!ENTITY inspectButton.accesskey      "I">
+<!ENTITY inspectPanelTitle.label        "HTML">
+<!ENTITY inspectButton.label            "Inspecciona">
+<!ENTITY inspectButton.accesskey        "I">
+<!ENTITY inspectCloseButton.tooltiptext "Tanca l'Inspector">
+<!ENTITY inspectStyleButton.label     "Estil">
+<!ENTITY inspectStyleButton.accesskey "s">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Aconsegueix més eines">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "m">
@@ -432,12 +436,17 @@ can reach it easily. -->
 <!ENTITY mediaHideControls.accesskey "c">
 <!ENTITY videoFullScreen.label       "Pantalla completa">
 <!ENTITY videoFullScreen.accesskey   "P">
+<!ENTITY videoSaveImage.label        "Anomena i desa una instantània...">
+<!ENTITY videoSaveImage.accesskey    "s">
+<!ENTITY videoShowStats.label        "Mostra les estadístiques">
+<!ENTITY videoShowStats.accesskey    "t">
+<!ENTITY videoHideStats.label        "Oculta les estadístiques">
+<!ENTITY videoHideStats.accesskey    "t">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
-
 
 
 <!ENTITY fullZoomEnlargeCmd.label       "Augmenta">

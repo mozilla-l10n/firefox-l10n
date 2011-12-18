@@ -40,8 +40,8 @@
 
 <!ENTITY allowScripts.label             "Permet als scripts:">
 
-<!ENTITY moveResizeWindows.label        "Moure o canviar la mida de finestres ja existents">
-<!ENTITY moveResizeWindows.accesskey    "M">
+<!ENTITY moveResizePopupWindows.label     "Mou o canvia la mida de la finestra emergent">
+<!ENTITY moveResizePopupWindows.accesskey "M">
 <!ENTITY raiseLowerWindows.label        "Posar en primer o segon pla finestres">
 <!ENTITY raiseLowerWindows.accesskey    "r">
 <!ENTITY disableContextMenus.label      "Inhabilitar o reemplaçar menús contextuals">
