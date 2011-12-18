@@ -43,42 +43,14 @@
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
 <!-- File menu items -->
-<!ENTITY fileMenu.label "Файл">
-<!ENTITY fileMenu.accesskey "Ф">
-<!ENTITY openFileCmd.label "Відкрити файл…">
-<!ENTITY openFileCmd.accesskey "ф">
-<!ENTITY openFileCmd.key "O">
-<!ENTITY openRemoteCmd.label "відкрити адресу в інтернеті…">
-<!ENTITY openRemoteCmd.accesskey "і">
-<!ENTITY openRemoteCmd.key "L">
-<!ENTITY fileRecentMenu.label "Останні відкриті сторінки">
-<!ENTITY fileRecentMenu.accesskey "и">
-<!ENTITY fileRevert.label "Повернутися до останнього збереження">
-<!ENTITY fileRevert.accesskey "я">
-<!ENTITY saveCmd.label "Зберегти">
-<!ENTITY saveCmd.accesskey "З">
 <!ENTITY saveCmd.key "S">
-<!ENTITY saveAsCmd.label "Зберегти як…">
-<!ENTITY saveAsCmd.accesskey "к">
-
-<!ENTITY publishCmd.label "Опублікувати">
-<!ENTITY publishCmd.accesskey "б">
-<!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "Опублікувати як…">
-<!ENTITY publishAsCmd.accesskey "я">
-<!ENTITY saveAsChangeEncodingCmd.label "Змінити і зберегти кодування">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "к">
 
 <!-- Edit menu items -->
-<!ENTITY editMenu.label "Правка">
-<!ENTITY editMenu.accesskey "П">
 <!ENTITY pasteNoFormatting.label "Вставити без форматування">
 <!ENTITY pasteNoFormatting.accesskey "б">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Вставити як">
 <!ENTITY pasteAs.accesskey "к">
-<!ENTITY publishSettings.label "Параметри публікації сайту…">
-<!ENTITY publishSettings.accesskey "б">
 <!ENTITY pasteAsQuotationCmd.label "Вставити як цитату">
 <!ENTITY pasteAsQuotationCmd.accesskey "ц">
 <!ENTITY pasteAsQuotationCmd.key "o">
@@ -210,7 +182,7 @@
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Вилучити іменовані якіри">
 <!ENTITY formatRemoveNamedAnchors.accesskey "я">
-<!ENTITY formatRemoveNamedAnchors.key "A">
+<!ENTITY formatRemoveNamedAnchors2.key "R">
 
 <!ENTITY paragraphMenu.label "Абзац">
 <!ENTITY paragraphMenu.accesskey "з">
