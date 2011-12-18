@@ -1,5 +1,3 @@
-<!ENTITY  splash_screen_loading "Indlæser">
-<!ENTITY  splash_screen_installing_libs "Installerer biblioteker\u2026">
 <!ENTITY  splash_firstrun "Konfigurerer &brandShortName;\u2026">
 
 <!ENTITY  no_space_to_start_error "Der er ikke nok tilgængelig plads til at &brandShortName; kan starte.">
