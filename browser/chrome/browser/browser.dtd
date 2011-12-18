@@ -564,3 +564,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY backForwardButtonMenu.tooltip "Десен клик или повлечи надоле да ја видиш историјата">
 <!ENTITY backForwardButtonMenuMac.tooltip "Повлечи надоле да ја видиш историјата">
 <!ENTITY searchFocus.commandkey2      "e">
+
+<!ENTITY inspectContextMenu.accesskey "р">
+
+<!ENTITY inspectContextMenu.label     "Провери го елементот">
