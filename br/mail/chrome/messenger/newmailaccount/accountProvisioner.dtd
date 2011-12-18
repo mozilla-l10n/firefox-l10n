@@ -9,7 +9,7 @@
      one line with error.suggest.middle that links to a site which provides download
      of free account alternatives. -->
 <!ENTITY error.suggest.before "Gallout a rit ivez esaeañ unan eus ">
-<!ENTITY error.suggest.middle "ar bourchaserien posteloù digoust">
+<!ENTITY error.suggest.middle "ar bourchaserien bosteloù digoust">
 <!ENTITY error.suggest.after ".">
 
 <!-- LOCALIZATION NOTE(success.title.before, success.title.after):
@@ -21,7 +21,7 @@
 <!ENTITY partnership.description "&brandShortName; a c'hell kinnig deoc'h ur gont postel nevez e kevelerezh gant meur a bourchaser. Roit hoc'h anv-bihan hag hoc'h anv pe ne vern peseurt ger all e-barzh ar maeziennoù a-us a-benn deraouiñ.">
 <!ENTITY existing.header "Ur chomlec'h hoc'h eus endeo ha fellout a ra deoc'h arverañ anezhañ ?">
 <!ENTITY tinyheader.title "Ur chomlec'h hoc'h eus endeo ?">
-<!ENTITY tinyheader.existing "Lammat an dra-mañ hag arverañ ma fostel a zo anezhañ">
+<!ENTITY tinyheader.existing "Leuskel an dra-mañ hag arverañ ma fostel a zo anezhañ">
 <!ENTITY content.close "Kefluniañ a rin ma c'hont diwezhatoc'h.">
 <!ENTITY successful.title "Gourc'hemennoù !">
 <!ENTITY successful.successMessage "Kefluniet hoc'h eus ho kont gant berzh.">
