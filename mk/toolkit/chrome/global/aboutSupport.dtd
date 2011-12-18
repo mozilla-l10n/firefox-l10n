@@ -38,3 +38,5 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.copyToClipboard.label "Ископирај сѐ во таблата со исечоци (clipboard)">
 
 <!ENTITY aboutSupport.appBasicsCrashIDs "Извештаи за уривања">
+
+<!ENTITY aboutSupport.appBasicsMemoryUse "Искористеност на меморија">

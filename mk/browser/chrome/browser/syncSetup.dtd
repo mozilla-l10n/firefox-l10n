@@ -115,3 +115,15 @@
 <!ENTITY signIn.syncKey.label       "Клуч за Sync">
 
 <!ENTITY syncGenerateNewKey.label  "Генерирај нов клуч">
+
+<!ENTITY addDevice.dialog.recoveryKey.label     "За да го активирате Вашиот уред треба да го внесете резервниот клуч Испечатете го или снимете го овој клуч и носете го со Вас.">
+<!ENTITY existingRecoveryKey.description "Вашиот резервен клуч ќе го најдете во &syncBrand.shortName.label; Опции на другиот уред и потоа  &#x0022;Мојот резервен клуч&#x0022; во &#x0022;Уредување на сметката&#x0022;.">
+<!ENTITY recoveryKeyBackup.description "Вашиот резервен клуч е потребен за да пристапите на &syncBrand.fullName.label; други уреди. Направете резервна копија. Не можеме да Ви помогнеме да го спасите резервниот клуч.">
+<!ENTITY recoveryKeyEntry.accesskey    "к">
+<!ENTITY recoveryKeyEntry.label        "Вашиот резервен клуч">
+<!ENTITY setup.newRecoveryKeyPage.description.label "За Ваша целосна приватност сите Ваши податоци се енкриптирани пред да бидат товарени на интернет. Резервниот клуч потребен за нивно декриптирање не се товара.">
+
+<!-- New Account Page 2: Sync Key -->
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; се грижи за Вашата приватност">
+<!ENTITY signIn.recoveryKey.accesskey   "к">
+<!ENTITY signIn.recoveryKey.label       "Резервен клуч">

@@ -40,4 +40,6 @@
 
 <!ENTITY changePassword2.label         "Промени лозинка…">
 <!ENTITY resetSync2.label              "Ресетирај го Sync…">
-<!ENTITY unlinkDevice.label           "Исклучи го овој уредо">
+<!ENTITY unlinkDevice.label           "Исклучи го овој уред">
+
+<!ENTITY myRecoveryKey.label          "Мој резервен клуч">
