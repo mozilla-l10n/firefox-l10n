@@ -95,22 +95,23 @@
 <!ENTITY browserContext.label         "Браузер">
 <!ENTITY browserContext.accesskey     "Б">
 
-<!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
+<!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
-<!ENTITY resetContext.label           "Скинути">
-<!ENTITY resetContext.accesskey       "С">
+<!ENTITY resetContext2.label          "Скинути змінні">
+<!ENTITY resetContext2.accesskey      "С">
 
 <!ENTITY executeMenu.label            "Виконати">
 <!ENTITY executeMenu.accesskey        "В">
 
-<!ENTITY toolsMenu.label              "Інструменти">
-<!ENTITY toolsMenu.accesskey          "І">
-
-<!ENTITY errorConsoleCmd.label        "Консоль помилок">
-<!ENTITY errorConsoleCmd.accesskey    "п">
+<!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
+  -  the browser Error Console, the key should be identical to the property of
+  -  the same name in browser.dtd.
+  -->
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY webConsoleCmd.label          "Веб-консоль">
-<!ENTITY webConsoleCmd.accesskey      "В">
+<!-- LOCALIZATION NOTE (webConsoleCmd.commandkey): This command key launches
+  -  the browser WebConsole, the key should be identical to the property of
+  -  the same name in browser.dtd.
+  -->
 <!ENTITY webConsoleCmd.commandkey     "k">
