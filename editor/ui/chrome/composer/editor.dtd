@@ -66,7 +66,6 @@
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Формат">
 <!ENTITY formatMenu.accesskey "о">
-<!-- FIXME -->
 <!ENTITY grid.label "Positioning grid">
 <!ENTITY grid.accesskey "t">
 <!ENTITY pageProperties.label "Page Title and Properties…">
