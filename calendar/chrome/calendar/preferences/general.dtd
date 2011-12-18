@@ -49,3 +49,7 @@
 <!ENTITY pref.defaultlength.accesskey "D">
 <!ENTITY pref.defaultsnoozelength.label "Durée par défaut du report d'alarme :" >
 <!ENTITY pref.defaultsnoozelength.accesskey "u">
+
+<!ENTITY pref.accessibility.label "Accessibilité" >
+<!ENTITY pref.systemcolors.label "Optimiser les couleurs pour l'accessibilité" >
+<!ENTITY pref.systemcolors.accesskey "O">
