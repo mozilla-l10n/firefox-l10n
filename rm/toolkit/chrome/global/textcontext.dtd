@@ -7,7 +7,7 @@
 <!ENTITY undoCmd.label "Revocar">
 <!ENTITY undoCmd.accesskey "R">
 <!ENTITY selectAllCmd.label "Selecziunar tut">
-<!ENTITY selectAllCmd.accesskey "M">
+<!ENTITY selectAllCmd.accesskey "t">
 <!ENTITY deleteCmd.label "Stizzar">
 <!ENTITY deleteCmd.accesskey "S">
 
