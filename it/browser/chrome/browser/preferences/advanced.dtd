@@ -29,12 +29,15 @@
 <!ENTITY connectionDesc.label "Determina come &brandShortName; si collega a Internet">
 <!ENTITY connectionSettings.label "Impostazioni…">
 <!ENTITY connectionSettings.accesskey "z">
-<!ENTITY offlineStorage.label "Archiviazione dati non in linea">
+<!ENTITY httpCache.label "Contenuti web in cache">
+<!ENTITY offlineStorage2.label "Dati non in linea e informazioni utente">
 <!ENTITY limitCacheSizeBefore.label "Limita la cache a">
 <!ENTITY limitCacheSizeBefore.accesskey "L">
 <!ENTITY limitCacheSizeAfter.label "MB di spazio">
 <!ENTITY clearCacheNow.label "Cancella adesso">
 <!ENTITY clearCacheNow.accesskey "C">
+<!ENTITY clearOfflineAppCacheNow.label "Cancella adesso">
+<!ENTITY clearOfflineAppCacheNow.accesskey "C">
 <!ENTITY overrideSmartCacheSize.label "Non utilizzare la gestione automatica della cache">
 <!ENTITY overrideSmartCacheSize.accesskey "N">
 <!ENTITY updateTab.label "Aggiornamenti">
@@ -58,7 +61,7 @@
 <!ENTITY offlineNotify.accesskey "A">
 <!ENTITY offlineNotifyExceptions.label "Eccezioni…">
 <!ENTITY offlineNotifyExceptions.accesskey "E">
-<!ENTITY offlineAppsList.label "I seguenti siti web hanno salvato dati per l'utilizzo non in linea:">
+<!ENTITY offlineAppsList2.label "I seguenti siti web hanno il permesso di salvare dati per l'utilizzo non in linea:">
 <!ENTITY offlineAppsList.height "7em">
 <!ENTITY offlineAppsListRemove.label "Rimuovi…">
 <!ENTITY offlineAppsListRemove.accesskey "R">
