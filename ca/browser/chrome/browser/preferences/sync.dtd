@@ -17,7 +17,7 @@
 <!ENTITY myRecoveryKey.label          "La meva clau de recuperació">
 <!ENTITY resetSync2.label             "Reinicia el compte Sync...">
 
-<!ENTITY addDevice.label              "Afegeix un dispositiu">
+<!ENTITY pairDevice.label             "Vincula un dispositiu">
 
 <!ENTITY syncMy.label               "Sincronitza:">
 <!ENTITY engine.bookmarks.label     "Adreces d'interès">

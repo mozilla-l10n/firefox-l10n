@@ -8,7 +8,7 @@
 <!ENTITY sync.syncNow               "Sincronitza ara">
 
 <!ENTITY sync.setup.title           "Connecta al Sync">
-<!ENTITY sync.setup.jpake           "Des d'un ordinador amb el Sync al Firefox, aneu a les opcions del Sync i seleccioneu «Afegeix un dispositiu»">
+<!ENTITY sync.setup.pair            "Per activar-lo, seleccioneu &#x0022;Vincula un dispositiu&#x0022; a l'altre dispositiu.">
 <!ENTITY sync.fallback              "No estic prop del meu ordinador…">
 <!ENTITY sync.setup.manual          "Introduïu la informació del compte del Sync">
 <!ENTITY sync.account               "Nom del compte">
@@ -19,3 +19,9 @@
 <!ENTITY sync.setup.connect         "Connecta">
 <!ENTITY sync.setup.cancel          "Cancel·la">
 <!ENTITY sync.setup.tutorial        "Mostra'm com">
+<!ENTITY sync.setup.waiting2        "S'està esperant l'altre dispositiu...">
+
+<!ENTITY sync.pair.title            "Vincula un dispositiu">
+<!ENTITY sync.pair.description      "Per activar el vostre dispositiu nou, seleccioneu &#x0022;Vincula un dispositiu&#x0022; al dispositiu.">
+<!ENTITY sync.setup.close           "Tanca">
+<!ENTITY sync.setup.waitingdownload "Les vostres dades s'estan baixant en un segon pla. Quan vulgueu podeu tancar aquesta finestra.">

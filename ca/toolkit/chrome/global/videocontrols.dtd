@@ -2,6 +2,21 @@
 <!ENTITY playButton.pauseLabel "Pausa">
 <!ENTITY muteButton.muteLabel "Sense so">
 <!ENTITY muteButton.unmuteLabel "Amb so">
+
+<!ENTITY stats.media "Suports">
+<!ENTITY stats.size "Mida">
+<!ENTITY stats.activity "Activitat">
+<!ENTITY stats.activityPaused "En pausa">
+<!ENTITY stats.activityPlaying "En reproducció">
+<!ENTITY stats.activityEnded "Finalitzat">
+<!ENTITY stats.activitySeeking "(s'està posicionant)">
+<!ENTITY stats.volume "Volum">
+<!ENTITY stats.channels "Canals">
+<!ENTITY stats.sampleRate "Freqüència de mostreig">
+<!ENTITY stats.framesParsed "Fotogrames analitzats">
+<!ENTITY stats.framesDecoded "Fotogrames decodificats">
+<!ENTITY stats.framesPresented "Fotogrames presentats">
+<!ENTITY stats.framesPainted "Fotogrames pintats">
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
