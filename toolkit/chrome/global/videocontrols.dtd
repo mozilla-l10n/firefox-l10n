@@ -22,6 +22,6 @@
 <!ENTITY error.network "La reproducción del vídeo se ha interrumpido por un error de red.">
 <!ENTITY error.decode "No se puede reproducir el vídeo porque el archivo está corrupto.">
 <!ENTITY error.srcNotSupported "El formato o tipo MIME del vídeo no se admite.">
-<!ENTITY error.noSource "Vídeo no encontrado.">
+<!ENTITY error.noSource2 "No se ha encontrado ningún vídeo que tenga un formato y tipo MIME compatibles.">
 <!ENTITY error.generic "La reproducción del vídeo se ha interrumpido por un error desconocido.">
 <!ENTITY scrubberScale.nameFormat "Transcurridos #1 de #2">
