@@ -93,10 +93,12 @@
 <!ENTITY consoleErrColumn.label    "Kolonne:">
 
 <!ENTITY contextOpenInNewTab.label "Åbn link i nyt faneblad">
-<!ENTITY contextSaveLink.label        "Gem henvisning">
 <!ENTITY contextSaveImage.label       "Gem billede">
-<!ENTITY contextCopyLink.label        "Kopier henvisning">
-<!ENTITY contextShareLink.label       "Del henvisning">
+<!ENTITY contextCopyLink.label        "Kopier linkadresse">
+<!ENTITY contextCopyEmail.label       "Kopier mailadresse">
+<!ENTITY contextCopyPhone.label       "Kopier telefonnummer">
+<!ENTITY contextCopyImageLocation.label       "Kopier billedadresse">
+<!ENTITY contextShareLink.label       "Del linkadresse">
 <!ENTITY contextShareImage.label      "Del billede">
 <!ENTITY contextBookmarkLink.label    "Bogmærk link">
 <!ENTITY contextSaveVideo.label       "Gem video">
@@ -116,6 +118,5 @@
 <!ENTITY pageactions.findInPage      "Find på siden">
 <!ENTITY pageactions.search.addNew   "Tilføj søgetjeneste">
 <!ENTITY pageactions.charEncoding    "Tegnkodning">
-<!ENTITY pageactions.webapps.install "Installer som app">
 
 <!ENTITY appMenu.siteOptions         "Webstedsindstillinger">

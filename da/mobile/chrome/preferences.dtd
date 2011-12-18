@@ -21,3 +21,4 @@
 <!ENTITY homepage.default                          "&brandShortName; Start">
 <!ENTITY homepage.currentpage                      "Brug nuværende side">
 <!ENTITY showCharsetEncoding.title                 "Vis tegnkodning">
+<!ENTITY actionbar.default                         "Indstillinger for &brandShortName;">

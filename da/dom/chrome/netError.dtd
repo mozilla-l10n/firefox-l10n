@@ -24,6 +24,9 @@
 <!ENTITY netInterrupt.title "Dataoverførsel afbrudt">
 <!ENTITY netInterrupt.longDesc "<p>Browseren oprettede forbindelsen korrekt, men blev afbrudt under overførsel af informationen. Forsøg venligst igen.</p><ul><li> Er du ikke i stand til at browse andre sider? Undersøg computerens netværksforbindelse.</li><li>Har du stadig problemer? Konsulter din netværksadministrator eller internetudbyder for assistance.</li></ul>">
 
+<!ENTITY notCached.title "Siden er udløbet">
+<!ENTITY notCached.longDesc "<p>Den forespurgte side er ikke tilgængelig i browserens cache.</p><ul><li>Af sikkerhedshensyn henter browseren ikke automatisk følsomme sider igen.</li><li>Klik for at prøve at hente siden igen fra webstedet.</li></ul>">
+
 <!ENTITY netOffline.title "Browseren er offline">
 <!ENTITY netOffline.longDesc2 "<p>Browseren er sat i Offline-tilstand og kan ikke forbinde til nettet.</p><ul><li>Er computeren forbundet til et aktivt netværk?</li><li>Vælg &quot;Prøv igen&quot; for at skifte til online-tilstand og genindlæse siden.</li></ul>">
 
