@@ -19,11 +19,8 @@
      1em = The height of the font.
      XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
      this window for en-US. 
-	 Dette er de gamle danske værdier, hvis der er problemer med de nye:
-	 <!ENTITY accountManager.size "width: 64em; height: 50em;">
-	 <!ENTITY accountTree.width "width: 19em;">
 	 -->
-<!ENTITY accountManager.size "width: 105ch; height: 55em;">
-<!ENTITY accountTree.width "width: 31ch;">
+<!ENTITY accountManager.size "width: 115ch; height: 55em;">
+<!ENTITY accountTree.width "width: 35ch;">
 
 
