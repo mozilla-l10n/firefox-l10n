@@ -21,6 +21,7 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "Для роботи плагіна(ів) потрібно перезапустити &brandShortName;. ">
 
 <!ENTITY missingPlugin                                       "Для відображення цього вмісту потрібен плагін.">
+<!ENTITY clickToPlayPlugin                                   "Тицьніть сюди щоб активувати плагін.">
 <!ENTITY disabledPlugin                                      "Цей плагін вимкнено.">
 <!ENTITY blockedPlugin.label                                 "Цей плагін був блокований задля вашого захисту.">
 
@@ -33,8 +34,8 @@
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "Перезавантажити сторінку">
 <!ENTITY reloadPlugin.post                                   " щоб спробувати ще раз.">
-<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.please                                       "Надіслати звіт">
+<!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.checkbox                                     "…і послати звіт">
 <!ENTITY report.submitting                                   "Шлю звіт…">
 <!ENTITY report.submitted                                    "Звіт відіслано.">
 <!ENTITY report.disabled                                     "Звітування вимкнене.">
