@@ -63,6 +63,9 @@
 <!ENTITY netInterrupt.title "החיבור הופסק">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!ENTITY notCached.title "תוקף המסמך פג">
+<!ENTITY notCached.longDesc "<p>המסמך המבוקש לא זמין במטמון של &brandShortName;.</p><ul><li>כאמצעי זהירות, &brandShortName; לא יבקש שוב אוטומטית מסמכים רגישים.</li><li>לחץ נסה שוב כדי לבקש מחדש את המסמך מאתר האינטרנט.</li></ul>">
+
 <!ENTITY netOffline.title "מצב לא־מקוון">
 <!ENTITY netOffline.longDesc2 "
 <ul>
@@ -184,5 +187,4 @@ functionality specific to firefox. -->
 
 <!ENTITY remoteXUL.title "XUL מרוחק">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>פנה אל בעלי האתר כדי ליידע אותם על הבעיה.</li></ul></p>">
-
 

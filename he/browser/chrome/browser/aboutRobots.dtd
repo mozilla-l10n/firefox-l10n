@@ -18,7 +18,7 @@
      but well-known robots in movies and books. Be creative with translations! -->
 
 <!-- Nonsense line from the movie "The Day The Earth Stood Still". No translation needed. -->
-<!ENTITY robots.pagetitle  "Gort! Klaatu barada nikto!‎">
+<!ENTITY robots.pagetitle  "גורט! קלאטו באראדה ניקטו!">
 <!-- Movie: Logan's Run... Box (cybog): "Welcome Humans! I am ready for you." -->
 <!ENTITY robots.errorTitleText "ברוכים הבאים בני אנוש!">
 <!-- Movie: The Day The Earth Stood Still. Spoken by Klaatu. -->
@@ -38,5 +38,4 @@
 <!ENTITY robots.imgtitle "Frakkin' Toasters">
 <!-- Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him. -->
 <!ENTITY robots.dontpress "אנא אל תלחץ על כפתור זה שוב.">
-
 

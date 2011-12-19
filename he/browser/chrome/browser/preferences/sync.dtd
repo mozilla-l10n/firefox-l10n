@@ -26,7 +26,7 @@
 <!ENTITY myRecoveryKey.label          "מפתח השחזור שלי">
 <!ENTITY resetSync2.label             "איפוס Sync…">
 
-<!ENTITY addDevice.label              "הוספת התקן">
+<!ENTITY pairDevice.label             "שייך התקן">
 
 <!ENTITY syncMy.label               "סנכרן">
 <!ENTITY engine.bookmarks.label     "סימניות">
@@ -48,5 +48,4 @@
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "לתנאי השירות">
 <!ENTITY prefs.ppLink.label         "מדיניות פרטיות">
-
 
