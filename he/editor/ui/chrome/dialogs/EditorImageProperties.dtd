@@ -101,6 +101,9 @@
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "הראה גבול סביב תמונה מקושרת">
 <!ENTITY showImageLinkBorder.accessKey "ג">
+<!ENTITY LinkAdvancedEditButton.label "עריכת קישור מתקדמת…">
+<!ENTITY LinkAdvancedEditButton.accessKey "ק">
+<!ENTITY LinkAdvancedEditButton.tooltip "שינוי או הוספה של תכונות HTML עיצוב ו־JavaScript">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "טופס">
@@ -108,5 +111,4 @@
 <!ENTITY imageDimensionsTab.label "ממדים">
 <!ENTITY imageAppearanceTab.label "הופעה">
 <!ENTITY imageLinkTab.label "קישור">
-
 
