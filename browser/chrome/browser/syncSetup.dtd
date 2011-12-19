@@ -57,8 +57,8 @@
 <!ENTITY signIn.account2.accesskey  "Հ">
 <!ENTITY signIn.password.label      "Գաղտնաբառը">
 <!ENTITY signIn.password.accesskey  "Գ">
-<!ENTITY signIn.recoveryKey.label       "Recovery Key">
-<!ENTITY signIn.recoveryKey.accesskey   "K">
+<!ENTITY signIn.recoveryKey.label       "Վերականգնել բանալին">
+<!ENTITY signIn.recoveryKey.accesskey   "Վ">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Հաշվեհամարի Մանրամասներ">
@@ -92,12 +92,12 @@
 <!ENTITY button.syncKeyBackup.save.accesskey  "Պ">
 
 <!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
-<!ENTITY pairDevice.title.label             "Pair a Device">
+<!ENTITY pairDevice.title.label             "Սարքի զույգը">
 <!ENTITY addDevice.showMeHow.label          "Ցույց տվեք, թե ինչպես:">
 <!ENTITY addDevice.dontHaveDevice.label     "Սարքը ինձ հետ չի">
-<!ENTITY pairDevice.setup.description.label  "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
+<!ENTITY pairDevice.setup.description.label  "Ակտիվացնելու համար ընտրեք &#x0022;Կր. սարքը&#x0022; Ձեր սարքում։">
 <!ENTITY addDevice.setup.enterCode.label    "Այնուհետև մուտքագրեք հետևյալ ծածկագիրը">
-<!ENTITY pairDevice.dialog.description.label "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
+<!ENTITY pairDevice.dialog.description.label "Ակտիվացնելու համար նոր սարքը, ընտրեք &#x0022;Կարգ. Սինքը&#x0022; Ձեր սարքում։">
 <!ENTITY addDevice.dialog.enterCode.label   "Մուտքագրեք գաղտնաբառը, որը սարքը տրամադրում է">
 <!ENTITY addDevice.dialog.tryAgain.label    "Խնդրում ենք, կրկին փորձեք:">
 <!ENTITY addDevice.dialog.successful.label  "Սարքը բարեհաջող ավելացվել է: Սկզբնական համաժամանակացումը մի քանի րոպե կպահանջի և կավարտվի ետին հատվածում:">

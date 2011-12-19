@@ -43,9 +43,9 @@
 <!ENTITY muteButton.unmuteLabel "Ձայն">
 
 <!ENTITY stats.media "Media">
-<!ENTITY stats.size "Size">
+<!ENTITY stats.size "Չափը">
 <!ENTITY stats.activity "Activity">
-<!ENTITY stats.activityPaused "Paused">
+<!ENTITY stats.activityPaused "Դադար">
 <!ENTITY stats.activityPlaying "Playing">
 <!ENTITY stats.activityEnded "Ended">
 <!ENTITY stats.activitySeeking "(seeking)">
