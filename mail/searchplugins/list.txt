@@ -1,8 +1,7 @@
 amazondotcom
-aol-web-search
 bing
 eBay
 google
-twitter
-wikipedia
+leit-is
+wikipedia-is
 yahoo
