@@ -1,0 +1,122 @@
+<!ENTITY urlbar.emptytext      "Enter Search or Address">
+
+<!ENTITY back.label            "Xët bi jiitu">
+<!ENTITY forward.label         "Bi ci topp">
+<!ENTITY reload.label          "Yeesal">
+<!ENTITY stop.label            "Taxaw">
+<!ENTITY go.label              "Go">
+<!ENTITY star.label            "Star">
+
+<!ENTITY showTabs.label        "Show Tabs">
+<!ENTITY newtab.label          "Koñ bu bees">
+<!ENTITY closetab.label        "Tëj koñ bi">
+
+<!ENTITY cut.label             "Dog">
+<!ENTITY copy.label            "Duppi">
+<!ENTITY copyAll.label         "Copy All">
+<!ENTITY copylink.label        "Duppi màkkaanu buum bi">
+<!ENTITY paste.label           "Taf">
+<!ENTITY pasteAndGo.label      "Paste &amp; Go">
+<!ENTITY delete.label          "Màbb">
+<!ENTITY selectAll.label       "Fal lépp">
+<!ENTITY noSuggestions.label   "(No suggestions)">
+<!ENTITY addToDictionary.label "Yokk ci téere baat bi">
+<!ENTITY inputMethod.label     "Select Input Method">
+
+<!ENTITY allPagesHeader.label      "Xêt yépp">
+<!ENTITY bookmarksHeader.label     "Bookmarks">
+<!ENTITY historyHeader.label       "Jaar jaar">
+<!ENTITY desktopHeader.label       "Desktop">
+
+<!ENTITY editBookmarkDialog.title  "Edit Bookmark">
+<!ENTITY editBookmarkDone.label    "Done">
+<!ENTITY editBookmarkTags.label    "Add tags here">
+
+<!ENTITY selectHelper.done         "Done">
+
+<!ENTITY addonsHeader.label        "Modilu mottali">
+<!ENTITY addonsLocal.label         "Your Add-ons">
+<!ENTITY addonsUpdate.label        "Yeesal">
+<!ENTITY addonsRepo.label          "Katalog">
+<!ENTITY addonsRecommended.label   "Recommended">
+<!ENTITY addonsSearch.label        "Wut">
+<!ENTITY addonsSearch2.emptytext   "Search Catalog">
+<!ENTITY addonsSearch.recommended  "Recommended">
+
+<!ENTITY addonOptions.label        "Tànnéef yi">
+<!ENTITY addonEnable.label         "Suqali">
+<!ENTITY addonDisable.label        "Suuxal">
+<!ENTITY addonInstall2.label       "Add to &brandShortName;">
+<!ENTITY addonUninstall.label      "Simpi">
+<!ENTITY addonCancel.label         "Cancel">
+<!ENTITY addonShowPage.label       "Go to Page">
+
+<!ENTITY downloadsHeader.label     "Yeb yi">
+<!ENTITY downloadShowPage.label    "Go to Page">
+<!ENTITY downloadShow2.label       "Wut">
+<!ENTITY downloadOpen2.label       "Ubbi">
+<!ENTITY downloadCancel.label      "Cancel">
+<!ENTITY downloadPause.label       "Taxaw">
+<!ENTITY downloadResume.label      "Dooraat">
+<!ENTITY downloadRetry.label       "Jéemaat">
+<!ENTITY downloadRemove.label      "Remove">
+<!ENTITY downloadDelete.label      "Màbb">
+<!ENTITY downloadFailed.label      "Lajj na">
+
+<!ENTITY noResults.label           "No results">
+<!ENTITY allBookmarks.label        "See all bookmarks">
+
+<!ENTITY bookmarkPopup.label       "Xët bu ñu mandarga">
+<!ENTITY bookmarkRemove.label      "Remove">
+<!ENTITY bookmarkEdit.label        "Edit">
+<!ENTITY bookmarkShortcut.label    "Add to Home Screen">
+
+<!ENTITY identity.unverifiedsite2 "This website does not supply identity information.">
+<!ENTITY identity.connectedTo2 "Connected to">
+<!-- Localization note (identity.runBy2)
+ The layout of the identity dialog prevents combining this into a single string with
+ substitution variables.  If it is difficult to translate the sense of the string
+ with that structure, consider a translation which ignores the preceding domain and
+ just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy2 "run by">
+
+<!ENTITY consoleHeader.label       "Konsol njumte yi">
+<!ENTITY consoleAll.label          "All">
+<!ENTITY consoleErrors.label       "Njumte yi">
+<!ENTITY consoleWarnings.label     "Artu yi">
+<!ENTITY consoleMessages.label     "Messages">
+<!ENTITY consoleCodeEval.label     "Suulaale:">
+<!ENTITY consoleClear.label        "Tuur konsol bi">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "Source File:">
+<!ENTITY consoleErrLine.label      "Line:">
+<!ENTITY consoleErrColumn.label    "Column:">
+
+<!ENTITY contextOpenInNewTab.label    "Ubbi buum bi ci koñ bu bees">
+<!ENTITY contextSaveImage.label       "Aar nataal bi">
+<!ENTITY contextCopyLink.label        "Copy Link">
+<!ENTITY contextCopyEmail.label       "Copy Email Address">
+<!ENTITY contextCopyPhone.label       "Copy Phone Number">
+<!ENTITY contextCopyImageLocation.label       "Duppi màkkaanu nataal bi">
+<!ENTITY contextShareLink.label       "Share Link">
+<!ENTITY contextShareImage.label      "Share Image">
+<!ENTITY contextBookmarkLink.label    "Bookmark Link">
+<!ENTITY contextSaveVideo.label       "Aar wideyoo bi">
+<!ENTITY contextShareVideo.label      "Share Video">
+<!ENTITY contextPlayMedia.label       "Tambali">
+<!ENTITY contextPauseMedia.label      "Taxaw">
+<!ENTITY contextFullScreen.label      "Full Screen">
+<!ENTITY contextEditBookmark.label    "Edit">
+<!ENTITY contextRemoveBookmark.label  "Remove">
+<!ENTITY contextShortcutBookmark.label "Add to Home Screen">
+
+<!ENTITY pageactions.saveas.pdf      "Save As PDF">
+<!ENTITY pageactions.share.page      "Share Page">
+<!ENTITY pageactions.password.forget "Forget Password">
+<!ENTITY pageactions.quit            "Génn">
+<!ENTITY pageactions.reset           "Clear Site Preferences">
+<!ENTITY pageactions.findInPage      "Find In Page">
+<!ENTITY pageactions.search.addNew   "Yokk benn motëru wut">
+<!ENTITY pageactions.charEncoding    "Suulale araf yi">
+
+<!ENTITY appMenu.siteOptions         "Site Options">

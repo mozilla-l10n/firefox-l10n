@@ -1,0 +1,18 @@
+<!ENTITY aboutPage.title                        "Ci mbiru &brandShortName;">
+<!ENTITY aboutPage.faq.label                    "FAQ">
+<!ENTITY aboutPage.support.label                "Support">
+<!ENTITY aboutPage.privacyPolicy.label          "Poltigu dundu biir">
+<!ENTITY aboutPage.rights.label                 "Ci sa mbiri sañ sañ">
+<!ENTITY aboutPage.relNotes.label               "Release Notes">
+<!ENTITY aboutPage.credits.label                "Ñi wall si">
+<!ENTITY aboutPage.checkForUpdates.button       "Wut ay yeesal">
+<!ENTITY aboutPage.checkForUpdates.checking     "Wut ay yeesal...">
+<!ENTITY aboutPage.checkForUpdates.none         "Benn yeesal féexul">
+<!ENTITY aboutPage.checkForUpdates.found        "Yeesal bu féex">
+<!-- LOCALIZATION NOTE:
+     These strings are concatenated in order. Unneeded strings may be left blank.
+-->
+
+
+<!ENTITY aboutPage.licenseLink                  "xibaar yi ci yaatal sañ sañ yi">
+<!ENTITY aboutPage.licenseLinkSuffix            ".">
