@@ -45,7 +45,7 @@ wonde &brandShortName; ena yamiraa jolde e Geese.</li>
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Fiilannde Hiiɗtii">
-<!ENTITY notCached.longDesc "<p>Fiilannde ɗaɓɓitaande ndee woodaani e kaasol &brandShortName;.</p><ul><li>Ngam reentino kisal, &brandShortName; naamnittaako piilanɗe doondiiɗe caɗeele e jaajol.</li><li>Dobo ngam fuɗɗitaade naamnito-ɗaa fiilannde ndee e lowre ndee</li>">
+<!ENTITY notCached.longDesc "<p>Fiilannde ɗaɓɓitaande ndee woodaani e kaasol &brandShortName;.</p><ul><li>Ngam reentino kisal, &brandShortName; naamnittaako piilanɗe doondiiɗe caɗeele e jaajol.</li><li>Dobo ngam fuɗɗitaade naamnito-ɗaa fiilannde ndee e lowre ndee</li></ul>">
 
 <!ENTITY netOffline.title "Mbaydi ceŋtol">
 <!ENTITY netOffline.longDesc2 "<ul> 
