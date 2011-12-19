@@ -4,8 +4,7 @@
 
 <!ENTITY setup.pickSetupType.description "Siyakwamukela, uma ungakaze usebenzise i-&syncBrand.fullName.label; ngaphambilini, uzodinga ukudala i-akhawunti entsha.">
 <!ENTITY button.createNewAccount.label "Vula i-akhawunti entsha">
-<!ENTITY setup.haveAccount.label "Usunayo i-akhawunti ye-&syncBrand.fullName.label;.">
-<!ENTITY button.connect.label    "Xhumanisa">
+<!ENTITY button.haveAccount.label      "I Have an Account">
 
 <!ENTITY setup.choicePage.title.label     "Uke wasebenzisa i-&syncBrand.fullName.label; ngaphambilini?">
 <!ENTITY setup.choicePage.new.label       "Akaze ngasebenzisa i-&syncBrand.shortName.label; ngaphambilini">
@@ -39,7 +38,7 @@
 <!ENTITY setup.ppLink.label         "Inqubo Yemfihlo">
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
-<!-- New Account Page 2: Sync Key -->
+<!-- My Recovery Key dialog -->
 
 <!ENTITY setup.newRecoveryKeyPage.title.label "I-&brandShortName; ikhathelela okuyimfihlo kwakho">
 <!ENTITY setup.newRecoveryKeyPage.description.label "Ukuqinisekisa okuyimfihlo okuphelele, idatha yakho yonke izobhalwa ngokwemfihlo ngaphambi kokuba ilayishwe. Ukhiye wokushadisa odingekayo ukuze kuvulwe idatha yakho akalayishiwe.">
@@ -52,16 +51,14 @@
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
 <!ENTITY button.syncKeyBackup.save.label      "Gcina">
 <!ENTITY button.syncKeyBackup.save.accesskey  "G">
-<!-- New Account Page 3: Captcha -->
+<!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
 
-<!ENTITY setup.captchaPage2.title.label     "Sicela uqinisekise ukuthi uwusiyo i-robot">
-<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "Yengeza isisetshenziswa">
+<!ENTITY pairDevice.title.label             "Bhanqa idivayisi">
 <!ENTITY addDevice.showMeHow.label          "Ngikhombe ukuthi ngenze njani.">
 <!ENTITY addDevice.dontHaveDevice.label     "Angisi phathanga isisetshenziswa">
-<!ENTITY addDevice.setup.description.label  "Ukuze wenze kusebenze, iya kwizinketho ze-&syncBrand.shortName.label; kwisisetshenziswa sakho esinye bese ukhetha i-&#x0022;Add a Device&#x0022;.">
+<!ENTITY pairDevice.setup.description.label  "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
 <!ENTITY addDevice.setup.enterCode.label    "Bese, ufaka le khodi:">
-<!ENTITY addDevice.dialog.description.label "Ukwenza isisetshenziswa sakho ukuze sisebenze, yiya kwizinketho ze-&syncBrand.shortName.label; kwisisetshenziswa sakho bese ukhetha &#x0022;Connect.&#x0022;">
+<!ENTITY pairDevice.dialog.description.label "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
 <!ENTITY addDevice.dialog.enterCode.label   "Faka ikhodi leyo enikwa isisetshenziswa:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Sicela uzame futhi.">
 <!ENTITY addDevice.dialog.successful.label  "Isisetshenziswa sakho singezwe ngempumelelo. Ukufaka kokuqala kungathatha imizuzu embalwa futhi izoqeda endaweni yasemuva.">

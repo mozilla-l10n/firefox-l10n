@@ -17,7 +17,7 @@
 <!ENTITY myRecoveryKey.label          "Ukhiye wami Wokubuyisela">
 <!ENTITY resetSync2.label             "Misa kabusha i-Sync…">
 
-<!ENTITY addDevice.label              "Yengeza isisetshenziswa">
+<!ENTITY pairDevice.label             "Bhanqa idivayisi">
 
 <!ENTITY syncMy.label               "Faka ku-sync">
 <!ENTITY engine.bookmarks.label     "Izimpawu zokubekisa">
