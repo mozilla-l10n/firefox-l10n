@@ -2,7 +2,7 @@
 <!ENTITY header.label "Een nieuw e-mailadres voor &brandShortName;?">
 <!ENTITY other.languages "We tonen alleen providers met adressen uit uw regio.  Klik hier om alle providers te tonen.">
 <!ENTITY error.line1 "Sorry, we kunnen geen voorgestelde e-mailadressen vinden.">
-<!ENTITY error.line2 "U kunt zoeken op nicknames of ander termen om e-mails te vinden">
+<!ENTITY error.line2 "U kunt op bijnamen of andere termen om meer e-mailadressen te vinden">
 
 <!-- LOCALIZATION NOTE(error.suggest.before, error.suggest.middle, error.suggest.after):
      error.suggest.before, error.suggest.middle, and error.suggest.after all go into
@@ -18,7 +18,7 @@
 <!ENTITY success.title.before "Hallo ">
 <!ENTITY success.title.after ", de volgende e-mailadressen zijn beschikbaar voor u:">
 <!ENTITY success.tip "(U kunt ook zoeken op bijnamen of andere termen om meer e-mailadressen te vinden)">
-<!ENTITY partnership.description "In samenwerking met een aantal kan &brandShortName; u een nieuw e-mailaccount aanbieden. Vul in de bovenstaande velden uw voor- en achternaam of andere woorden die u bevallen in, om te te starten.">
+<!ENTITY partnership.description "In samenwerking met een aantal providers kan &brandShortName; u een nieuw e-mailaccount aanbieden. Vul in de bovenstaande velden uw voor- en achternaam of andere woorden die u bevallen in, om te starten.">
 <!ENTITY existing.header "U heeft al een adres die u wilt gebruiken?">
 <!ENTITY tinyheader.title "Bezit al een adres?">
 <!ENTITY tinyheader.existing "Sla dit over en gebruik mijn bestaande e-mailadres">
