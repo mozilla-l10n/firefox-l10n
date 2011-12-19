@@ -90,6 +90,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "F">
 <!ENTITY fullScreenExit.label "Phuma kundlela yeskrini esigcwele">
 <!ENTITY fullScreenExit.accesskey "e">
+<!ENTITY domFullScreenWarning.label "Cindezela u-ESC ukuphuma kumodi yesikrini esigcwele">
 
 <!ENTITY closeWindow.label "Vala iwindi">
 <!ENTITY closeWindow.accesskey "d">
@@ -212,9 +213,12 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectPanelTitle.label      "i-HTML">
-<!ENTITY inspectButton.label          "Hlola">
-<!ENTITY inspectButton.accesskey      "H">
+<!ENTITY inspectPanelTitle.label        "i-HTML">
+<!ENTITY inspectButton.label            "Hlola">
+<!ENTITY inspectButton.accesskey        "H">
+<!ENTITY inspectCloseButton.tooltiptext "Vala isihloli">
+<!ENTITY inspectStyleButton.label     "Isitayela">
+<!ENTITY inspectStyleButton.accesskey "I">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Thola amathuluzi amaningi">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "m">
@@ -432,12 +436,17 @@ can reach it easily. -->
 <!ENTITY mediaHideControls.accesskey "u">
 <!ENTITY videoFullScreen.label       "Iskrini esigcwele">
 <!ENTITY videoFullScreen.accesskey   "I">
+<!ENTITY videoSaveImage.label        "Gcina isithombe njenge...">
+<!ENTITY videoSaveImage.accesskey    "G">
+<!ENTITY videoShowStats.label        "Bonisa izibalo">
+<!ENTITY videoShowStats.accesskey    "b">
+<!ENTITY videoHideStats.label        "Fihla izibalo">
+<!ENTITY videoHideStats.accesskey    "a">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
-
 
 
 <!ENTITY fullZoomEnlargeCmd.label       "Sondela eduze">

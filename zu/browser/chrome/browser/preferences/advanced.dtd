@@ -8,7 +8,7 @@
 <!ENTITY useCursorNavigation.accesskey   "z">
 <!ENTITY searchStartTyping.label         "Sesha imibhalo uma ngiqala ukuthayipha">
 <!ENTITY searchStartTyping.accesskey     "b">
-<!ENTITY blockAutoRefresh.label          "Warn me when websites try to redirect or reload the page">
+<!ENTITY blockAutoRefresh.label          "Mangixwayiswe uma amawebhusayithi azama akuqondisa kabusha noma ukulayisha futhi ikhasi">
 <!ENTITY blockAutoRefresh.accesskey      "b">
 
 <!ENTITY browsing.label                  "Ukudlulisa amehlo">
@@ -17,8 +17,8 @@
 <!ENTITY useAutoScroll.accesskey         "o">
 <!ENTITY useSmoothScrolling.label        "Sebenzisa ukwehla wenyuka okushelelayo">
 <!ENTITY useSmoothScrolling.accesskey    "k">
-<!ENTITY allowHWAccel.label              "Use hardware acceleration when available">
-<!ENTITY allowHWAccel.accesskey          "r">
+<!ENTITY allowHWAccel.label              "Sebenzisa ukusheshisa kwehadiwe uma kukhona">
+<!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "Hlola ukupeleta kwami uma ngithayipha">
 <!ENTITY checkSpelling.accesskey         "t">
 
@@ -59,22 +59,28 @@
 
 <!ENTITY updateTab.label                 "Vuselela">
 
-<!ENTITY autoCheck.label                 "Makuhlolwe ngokuzenzakalela ukuvuselwa lapha:">
-<!ENTITY enableAppUpdate.label           "i-&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate2.label       "Okungangezwa">
-<!ENTITY enableAddonsUpdate2.accesskey   "u">
-<!ENTITY enableSearchUpdate.label        "Search Engines">
-<!ENTITY enableSearchUpdate.accesskey    "E">
-<!ENTITY whenUpdatesFound.label          "Uma kutholakala ukulungiswa ku-&brandShortName;:">
-<!ENTITY askMe.label                     "Ngibuze ukuthi ngifuna ukwenzani">
-<!ENTITY askMe.accesskey                 "N">
-<!ENTITY modeAutomatic.label             "Makulayishwe ngokuzenzakalela futhi kufakwe ukuvuselelwa">
-<!ENTITY modeAutomatic.accesskey         "M">
-<!ENTITY modeAutoAddonWarn.label         "Mangixwayise uma lokhu kungakhubaza noma yikuphi okwami okungangezwa">
-<!ENTITY modeAutoAddonWarn.accesskey     "M">
+<!ENTITY updateApp.label                 "&brandShortName; updates:">
+<!ENTITY updateAuto.label                "Automatically install updates (recommended: improved security)">
+<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateCheck.label               "Check for updates, but let me choose whether to install them">
+<!ENTITY updateCheck.accesskey           "C">
+<!ENTITY updateManual.label              "Never check for updates (not recommended: security risk)">
+<!ENTITY updateManual.accesskey          "N">
+
+<!ENTITY updateAutoAddonWarn.label       "Mangixwayise uma lokhu kungakhubaza noma yikuphi okwami okungangezwa">
+<!ENTITY updateAutoAddonWarn.accesskey   "M">
+
 <!ENTITY updateHistory.label             "Bonisa umlando wokuvuselela">
 <!ENTITY updateHistory.accesskey         "w">
+
+<!ENTITY useService.label                "Use a background service to install updates">
+<!ENTITY useService.accesskey            "b">
+
+<!ENTITY updateOthers.label              "Automatically update:">
+<!ENTITY enableAddonsUpdate3.label       "Add-ons">
+<!ENTITY enableAddonsUpdate3.accesskey   "o">
+<!ENTITY enableSearchUpdate.label        "Izinjini zokusesha">
+<!ENTITY enableSearchUpdate.accesskey    "i">
 
 <!ENTITY offlineNotify.label             "Mangitshelwe uma iwebhusayithi icela ukulondoloza idatha yokusetshenziswa okungaxhunyiwe">
 <!ENTITY offlineNotify.accesskey         "M">
