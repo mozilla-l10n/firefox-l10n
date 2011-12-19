@@ -21,8 +21,8 @@ kati ya vifaa hivi vya nyongeza vinavyopatikana.">
 <!ENTITY  found.top.label                 "Chagua vifaa vya nyongeza ungependa kusakinisha:">
 <!ENTITY  found.disabledXPinstall.label   "Visasaisho hivi haviwezi kusakinishwa kwa sababu usakinishaji wa programu kwa sasa 
 umelemazwa. Unaweza kubadilisha mpangiliio huu hapa chini.">
-<!ENTITY  found.enableXPInstall.label     "Ruhusu tovuti kusakinisha programu">
-<!ENTITY  found.enableXPInstall.accesskey "R">
+<!ENTITY  found.enableXPInstall.label     "Allow websites to install software">
+<!ENTITY  found.enableXPInstall.accesskey "A">
 
 <!ENTITY  installing.wizard.title         "Kusakinisha Vifaa vya nyongeza Tangamanifu">
 <!ENTITY  installing.top.label            "Kupakua na kusakinisha visasaisho vya vifaa vyako vya nyongeza…">

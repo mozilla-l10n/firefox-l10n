@@ -5,13 +5,16 @@
 <!ENTITY startupHomePage.label     "Onyesha ukurasa wangu wa nyumbani">
 <!ENTITY startupBlankPage.label    "Onyesha ukurasa wazi">
 <!ENTITY startupLastSession.label  "Onyesha dirisha yangu na vichupo kutoka wakari uliopita">
+<!ENTITY restoreOnDemand.label     "Don’t load tabs until selected">
+<!ENTITY restoreOnDemand.accesskey "l">
+
 <!ENTITY homepage.label            "Ukurasa Nyumbani:">
 <!ENTITY homepage.accesskey        "N">
 <!ENTITY useCurrentPage.label      "Tumia Ukurasa wa Sasa">
 <!ENTITY useCurrentPage.accesskey  "U">
 <!ENTITY useMultiple.label         "Tumia Kurasa za Sasa">
-<!ENTITY useBookmark.label         "Tumia Alamisho">
-<!ENTITY useBookmark.accesskey     "A">
+<!ENTITY chooseBookmark.label      "Use Bookmark…">
+<!ENTITY chooseBookmark.accesskey  "B">
 <!ENTITY restoreDefault.label      "Rudisha kwa Chaguo Msingi">
 <!ENTITY restoreDefault.accesskey  "R">
 

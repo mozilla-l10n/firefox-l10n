@@ -94,30 +94,24 @@
 
 <!ENTITY browserContext.label         "Kivinjari">
 <!ENTITY browserContext.accesskey     "K">
-<!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
+<!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
 
-<!ENTITY resetContext.label           "Seti upya">
-<!ENTITY resetContext.accesskey       "S">
+<!ENTITY resetContext2.label          "Reset Variables">
+<!ENTITY resetContext2.accesskey      "T">
 
 <!ENTITY executeMenu.label            "Tekeleza">
 <!ENTITY executeMenu.accesskey        "k">
-
-<!ENTITY toolsMenu.label              "Zana">
-<!ENTITY toolsMenu.accesskey          "Z">
-
-<!ENTITY errorConsoleCmd.label        "Kosa Konsoli">
-<!ENTITY errorConsoleCmd.accesskey    "K">
-<!ENTITY errorConsoleCmd.commandkey   "j">
-
-<!ENTITY webConsoleCmd.label          "Konsoli ya Wavuti">
-<!ENTITY webConsoleCmd.accesskey      "K">
-<!ENTITY webConsoleCmd.commandkey     "k">
-<!-- LOCALIZATION NOTE (textbox.placeholder1): This is some placeholder text
-  -  that appears when the Scratchpad's text area is empty and unfocused.
-  -  It should be a one-line JavaScript comment, i.e., preceded by '//'
+<!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
+  -  the browser Error Console, the key should be identical to the property of
+  -  the same name in browser.dtd.
   -->
 
-<!ENTITY textbox.placeholder1         "// Ingiza baadhi ya Hati ya Java, iteue, bofya kulia na teua Endesha, Kagua au Onyesha.">
+<!ENTITY errorConsoleCmd.commandkey   "j">
+<!-- LOCALIZATION NOTE (webConsoleCmd.commandkey): This command key launches
+  -  the browser WebConsole, the key should be identical to the property of
+  -  the same name in browser.dtd.
+  -->
 
+<!ENTITY webConsoleCmd.commandkey     "k">

@@ -1,9 +1,11 @@
 <!ENTITY aboutSupport.pageTitle "Maelezo ya Usuluhishaji">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "Ukurasa huu una maelezo ya kiufundi ambayo yanaweza kutumiwa wakati unajaribu 
-kutatua tatizo. Kama unatafuta majibu kwa maswali ya kawaidia 
-kuhusu &brandShortName;, angalia kiungo chetu <a id='supportLink'>wavuti wa kuauni</a>.">
+<!ENTITY aboutSupport.pageSubtitle "
+  This page contains technical information that might be useful when you're
+  trying to solve a problem. If you are looking for answers to common questions
+  about &brandShortName;, check out our <a id='supportLink'>support website</a>.
+">
 
 <!ENTITY aboutSupport.extensionsTitle "Viendelezi">
 <!ENTITY aboutSupport.extensionName "Jina">
@@ -18,6 +20,8 @@ kuhusu &brandShortName;, angalia kiungo chetu <a id='supportLink'>wavuti wa kuau
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Wezesha Programu-jalizi">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Jenga Usanidi">
 <!ENTITY aboutSupport.appBasicsUserAgent "Mtumaiji Wakala">
+<!ENTITY aboutSupport.appBasicsCrashIDs "Crash Reports">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Memory Use">
 
 <!ENTITY aboutSupport.show.label "Fungua Kabarasha Iliyo na">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific

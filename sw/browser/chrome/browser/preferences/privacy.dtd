@@ -1,7 +1,7 @@
 <!ENTITY tracking.label                 "Ufuatiliaji">
 
-<!ENTITY doNotTrack.label               "Ambia toviti sitaki kufuatiliwa">
-<!ENTITY doNotTrack.accesskey           "s">
+<!ENTITY doNotTrack.label               "Tell websites I do not want to be tracked">
+<!ENTITY doNotTrack.accesskey           "d">
 
 <!ENTITY  history.label                 "Historia">
 
@@ -42,7 +42,7 @@
 <!ENTITY  historyHeader.custom.label       "Tumia mipangilio maalum kwa historia">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName;itakumbuka kuvinjari kwako, kupakua, historia ya fomu na tafutiza, na kuweka vidukizo kutoka kwenye Tovuti unazotembelea.">
+<!ENTITY  rememberDescription.label      "&brandShortName; will remember your browsing, download, form and search history, and keep cookies from websites you visit.">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
