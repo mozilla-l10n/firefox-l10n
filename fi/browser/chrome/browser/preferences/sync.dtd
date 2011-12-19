@@ -17,7 +17,7 @@
 <!ENTITY myRecoveryKey.label          "Palautusavaimeni">
 <!ENTITY resetSync2.label              "Aloita synkronointi alusta…">
 
-<!ENTITY addDevice.label              "Liitä laite">
+<!ENTITY pairDevice.label             "Liitä laite">
 
 <!ENTITY syncMy.label               "Synkronoi">
 <!ENTITY engine.bookmarks.label     "Kirjanmerkit">
@@ -34,7 +34,7 @@
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label       "Laitteen nimi:">
 <!ENTITY syncComputerName.accesskey   "L">
-<!ENTITY unlinkDevice.label           "Irrota laite palvelusta">
+<!ENTITY unlinkDevice.label           "Irrota laite">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Käyttöehdot">

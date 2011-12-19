@@ -40,8 +40,8 @@
 
 <!ENTITY allowScripts.label             "Komentosarjat voivat:">
 
-<!ENTITY moveResizeWindows.label        "Siirtää ikkunoita tai muuttaa niiden kokoa">
-<!ENTITY moveResizeWindows.accesskey    "S">
+<!ENTITY moveResizePopupWindows.label     "Siirtää tai muuttaa ponnahdusikkunoiden kokoa">
+<!ENTITY moveResizePopupWindows.accesskey "S">
 <!ENTITY raiseLowerWindows.label        "Nostaa tai laskea ikkunoita">
 <!ENTITY raiseLowerWindows.accesskey    "N">
 <!ENTITY disableContextMenus.label      "Poistaa tai muuttaa ponnahdusvalikkoja">

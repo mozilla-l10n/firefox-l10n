@@ -90,6 +90,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "P">
 <!ENTITY fullScreenExit.label "Poistu kokoruututilasta">
 <!ENTITY fullScreenExit.accesskey "o">
+<!ENTITY domFullScreenWarning.label "Poista kokoruututilasta painamalla ESC-näppäintä">
 
 <!ENTITY closeWindow.label  "Sulje ikkuna">
 <!ENTITY closeWindow.accesskey "i">
@@ -215,6 +216,9 @@ can reach it easily. -->
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "Sivun tutkija">
 <!ENTITY inspectButton.accesskey      "T">
+<!ENTITY inspectCloseButton.tooltiptext "Sulje tutkija">
+<!ENTITY inspectStyleButton.label     "Tyyli">
+<!ENTITY inspectStyleButton.accesskey "T">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Hae lisää työkaluja">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "t">
@@ -432,7 +436,12 @@ can reach it easily. -->
 <!ENTITY mediaHideControls.accesskey "P">
 <!ENTITY videoFullScreen.label       "Kokoruutu">
 <!ENTITY videoFullScreen.accesskey   "K">
-
+<!ENTITY videoSaveImage.label        "Tallenna ruutukaappaus nimellä…">
+<!ENTITY videoSaveImage.accesskey    "T">
+<!ENTITY videoShowStats.label        "Näytä tilastot">
+<!ENTITY videoShowStats.accesskey    "N">
+<!ENTITY videoHideStats.label        "Piilota tilastot">
+<!ENTITY videoHideStats.accesskey    "i">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and

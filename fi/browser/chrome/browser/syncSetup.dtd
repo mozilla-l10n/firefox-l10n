@@ -4,8 +4,7 @@
 
 <!ENTITY setup.pickSetupType.description "Tervetuloa! Jos et ole aikaisemmin käyttänyt &syncBrand.fullName.label; -palvelua, sinun tarvitsee luoda uusi tili.">
 <!ENTITY button.createNewAccount.label "Luo uusi tili">
-<!ENTITY setup.haveAccount.label "Minulla on jo &syncBrand.fullName.label; -tili.">
-<!ENTITY button.connect.label    "Yhdistä">
+<!ENTITY button.haveAccount.label      "Minulla on tili">
 
 <!ENTITY setup.choicePage.title.label     "Oletko aiemmin käyttänyt &syncBrand.fullName.label; -palvelua?">
 <!ENTITY setup.choicePage.new.label       "En ole aiemmin käyttänyt &syncBrand.shortName.label;-palvelua">
@@ -40,7 +39,7 @@
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 
-<!-- New Account Page 2: Sync Key -->
+<!-- My Recovery Key dialog -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; pitää huolta yksityisyydensuojastasi">
 <!ENTITY setup.newRecoveryKeyPage.description.label "Varmistaaksemme täydellisen yksityisyydensuojan, kaikki tiedot salataan ennen kuin ne lähetetään eteenpäin. Palautusavaimesi on välttämätön tietojen purkamiseen, mutta sitä ei lähetetä eteenpäin.">
 <!ENTITY recoveryKeyEntry.label        "Palautusavaimesi">
@@ -53,15 +52,13 @@
 <!ENTITY button.syncKeyBackup.save.label      "Tallenna…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "a">
 
-<!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "Todista, että et ole robotti">
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "Liitä laite">
+<!ENTITY pairDevice.title.label             "Liitä laite">
 <!ENTITY addDevice.showMeHow.label          "Näytä ohje.">
 <!ENTITY addDevice.dontHaveDevice.label     "Laite ei ole mukanani">
-<!ENTITY addDevice.setup.description.label  "Aktivoi tämän laitteen synkronointi avaamalla jo synkronoitavassa laitteessa &syncBrand.shortName.label;-palvelun asetukset ja valitsemalla &#x0022;Liitä laite&#x0022;.">
+<!ENTITY pairDevice.setup.description.label  "Aktivoi synkronointi valitsemalla &#x0022;Liitä laite&#x0022; toisessa laitteessa.">
 <!ENTITY addDevice.setup.enterCode.label    "Kirjoita sen jälkeen seuraava koodi tuolle laitteelle:">
-<!ENTITY addDevice.dialog.description.label "Aktivoi uuden laitteesi synkronointi avaamalla siinä &syncBrand.shortName.label;-palvelun asetusten määritys ja valitsemalla &#x0022;Yhdistä.&#x0022;">
+<!ENTITY pairDevice.dialog.description.label "Aktivoi uusi laite valitsemalla laitteessa &#x0022;Määritä Sync-palvelun asetukset&#x0022;.">
 <!ENTITY addDevice.dialog.enterCode.label   "Kirjoita alle uuden laitteen antama koodi:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Yritä uudestaan.">
 <!ENTITY addDevice.dialog.successful.label  "Laitteen liittäminen onnistui. Ensimmäinen synkronointi voi kestää useita minuutteja ja se suoritetaan taustalla.">

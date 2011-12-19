@@ -58,22 +58,28 @@
 
 <!ENTITY updateTab.label                 "Päivitys">
 
-<!ENTITY autoCheck.label                 "Hae päivityksiä väliajoin:">
-<!ENTITY enableAppUpdate.label           "&brandShortName;iin">
-<!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate2.label       "Lisäosat">
-<!ENTITY enableAddonsUpdate2.accesskey   "L">
-<!ENTITY enableSearchUpdate.label        "Hakukoneisiin">
-<!ENTITY enableSearchUpdate.accesskey    "H">
-<!ENTITY whenUpdatesFound.label          "Kun päivitys &brandShortName;iin löytyy:">
-<!ENTITY askMe.label                     "Kysy, mitä tehdään">
-<!ENTITY askMe.accesskey                 "K">
-<!ENTITY modeAutomatic.label             "Lataa ja asenna päivitys automaattisesti">
-<!ENTITY modeAutomatic.accesskey         "L">
-<!ENTITY modeAutoAddonWarn.label         "Varoita, jos päivitys poistaa käytöstä lisäosia">
-<!ENTITY modeAutoAddonWarn.accesskey     "V">
+<!ENTITY updateApp.label                 "&brandShortName;in päivitykset:">
+<!ENTITY updateAuto.label                "Asenna automaattisesti (suositeltu: turvallisin)">
+<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateCheck.label               "Hae päivityksiä, mutta minä päätän asennetaanko ne">
+<!ENTITY updateCheck.accesskey           "H">
+<!ENTITY updateManual.label              "Älä hae päivityksiä (ei suositeltu: turvallisuusriski)">
+<!ENTITY updateManual.accesskey          "Ä">
+
+<!ENTITY updateAutoAddonWarn.label       "Varoita, jos päivitys poistaa käytöstä lisäosia">
+<!ENTITY updateAutoAddonWarn.accesskey   "V">
+
 <!ENTITY updateHistory.label             "Näytä päivityshistoria">
 <!ENTITY updateHistory.accesskey         "N">
+
+<!ENTITY useService.label                "Asenna päivitykset taustalla toimivalla palvelulla">
+<!ENTITY useService.accesskey            "u">
+
+<!ENTITY updateOthers.label              "Päivitä automaattisesti:">
+<!ENTITY enableAddonsUpdate3.label       "Lisäosat">
+<!ENTITY enableAddonsUpdate3.accesskey   "L">
+<!ENTITY enableSearchUpdate.label        "Hakukoneet">
+<!ENTITY enableSearchUpdate.accesskey    "H">
 
 <!ENTITY offlineNotify.label             "Näytä ilmoitus, kun sivusto pyytää lupaa tallentaa tietoa yhteydetöntä tilaa varten">
 <!ENTITY offlineNotify.accesskey         "N">
