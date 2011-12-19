@@ -1,4 +1,4 @@
-e<!ENTITY sync.title                "Sync-palvelu">
+<!ENTITY sync.title                 "Sync-palvelu">
 <!ENTITY sync.notconnected          "Ei yhteyttä">
 <!ENTITY sync.connect               "Yhdistä">
 <!ENTITY sync.connected             "Yhdistetty">
