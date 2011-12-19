@@ -3,6 +3,21 @@
 <!ENTITY muteButton.muteLabel "Slå lyd fra">
 <!ENTITY muteButton.unmuteLabel "Slå lyd til">
 
+<!ENTITY stats.media "Medie">
+<!ENTITY stats.size "Størrelse">
+<!ENTITY stats.activity "Aktivitet">
+<!ENTITY stats.activityPaused "Pauset">
+<!ENTITY stats.activityPlaying "Afspiller">
+<!ENTITY stats.activityEnded "Afsluttet">
+<!ENTITY stats.activitySeeking "(søger)">
+<!ENTITY stats.volume "Volumen">
+<!ENTITY stats.channels "Kanaler">
+<!ENTITY stats.sampleRate "Sample rate">
+<!ENTITY stats.framesParsed "Parsede frames">
+<!ENTITY stats.framesDecoded "Dekodede frames">
+<!ENTITY stats.framesPresented "Præsenterede frames">
+<!ENTITY stats.framesPainted "Viste frames">
+
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be

@@ -21,6 +21,7 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; skal genstartes for at de nye plugins kan blive aktiveret.">
 
 <!ENTITY missingPlugin                                       "Et plugin er nødvendigt for at vise dette indhold.">
+<!ENTITY clickToPlayPlugin                                   "Tryk her for at aktivere plugin.">
 <!ENTITY disabledPlugin                                      "Dette plugin er deaktiveret.">
 <!ENTITY blockedPlugin.label                                 "Plugin'et er blevet blokeret for din sikkerhed.">
 
@@ -34,7 +35,7 @@
 <!ENTITY reloadPlugin.middle                                 "Genindlæs siden">
 <!ENTITY reloadPlugin.post                                   " for at forsøge igen.">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.please                                       "Send fejlrapport">
+<!ENTITY report.checkbox                                     "…og send fejlrapport">
 <!ENTITY report.submitting                                   "Sender fejlrapport…">
 <!ENTITY report.submitted                                    "Fejlrapport blev sendt.">
 <!ENTITY report.disabled                                     "Fejlrapportering deaktiveret.">
