@@ -27,7 +27,7 @@
   -  match, a match, a parent match, or a rule did not match the element the
   -  user has highlighted. -->
 
-<!ENTITY bestMatch             "An seise as fhearr">
-<!ENTITY matched               "Le seise">
-<!ENTITY parentMatch           "Seise a' phàraint">
-<!ENTITY unmatched             "Gun seise">
+<!ENTITY bestMatch             "A' mhaids as fhearr">
+<!ENTITY matched               "Le maids">
+<!ENTITY parentMatch           "Maids a' phàraint">
+<!ENTITY unmatched             "Gun mhaids">
