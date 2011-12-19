@@ -1,4 +1,4 @@
 <!ENTITY appManager.title     "Aplekehyɛn ho nsɛm">
-<!ENTITY appManager.style     "tɛtrɛtɛ: 30em; soro-tenten: 20em;">
+<!ENTITY appManager.style     "width: 30em; min-height: 20em;">
 <!ENTITY remove.label         "Yi">
 <!ENTITY remove.accesskey     "Y">

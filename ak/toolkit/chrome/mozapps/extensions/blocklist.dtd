@@ -1,5 +1,5 @@
 <!ENTITY blocklist.title             "Etumi yɛ sɛ nkaho bi rema ɔhaw">
-<!ENTITY blocklist.style             "tɛtrɛtɛ:45em; soro-tenten:30em">
+<!ENTITY blocklist.style             "width: 45em; height: 30em">
 <!ENTITY blocklist.summary           "&brandShortName; ehu sɛ nkaho yi nom ma banbɔ anaa gyinaɛ-den ɔhaw:">
 <!ENTITY blocklist.softblocked       "Sɛ wobɛbɔ wo ho ban enti no, yɛkanfo ma wo sɛ wobɛsan asɔw a nkaho no edum.">
 <!ENTITY blocklist.hardblocked       "Saa nkaho yi wɔ tumi sɛ wɔbɛma banbɔ ana gyinaeɛ-den ɔhaw na yesi wɔn kwan nso ehia sɛ wobɛsan asɔw sɛnea wɔn ano bɛhyew koraa.">

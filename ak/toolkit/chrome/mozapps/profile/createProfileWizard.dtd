@@ -1,5 +1,5 @@
 <!ENTITY newprofile.title             "Bɔ profael boafo">
-<!ENTITY window.size                  "tɛtrɛtɛ:45m; soro-tenten: 32em;">
+<!ENTITY window.size                  "width: 45em; height: 32em;">
 <!-- First wizard page -->
 
 <!ENTITY profileCreationExplanation_1.text  "&brandShortName; esie wo nhyehyɛe ne pɛyeɛ ho infɔmehyen wɔ wo adwumadini profael mu.">
