@@ -38,27 +38,27 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowtitle.label "&brandShortName; - اختر ملفّ المستخدم الشّخصي">
+<!ENTITY            windowtitle.label      "&brandShortName; - اختر ملفّ المستخدم الشّخصي">
 
-<!ENTITY profilename.label "اسم الملفّ الشّخصي:">
+<!ENTITY            profilename.label      "اسم الملفّ الشّخصي:">
 
-<!ENTITY start.label "ابدأ &brandShortName;">
-<!ENTITY exit.label "اخرج">
+<!ENTITY            start.label            "ابدأ &brandShortName;">
+<!ENTITY            exit.label             "اخرج">
 
-<!ENTITY availprofiles.label "الملفّات الشّخصيّة المتوفّرة">
+<!ENTITY            availprofiles.label    "الملفّات الشّخصيّة المتوفّرة">
 
-<!ENTITY newButton.label "أنشئ ملفا شخصيا…">
-<!ENTITY newButton.accesskey "ش">
-<!ENTITY renameButton.label "غيّر اسم الملف الشخصي…">
-<!ENTITY renameButton.accesskey "غ">
-<!ENTITY deleteButton.label "احذف الملف الشخصي…">
-<!ENTITY deleteButton.accesskey "ح">
+<!ENTITY            newButton.label        "أنشئ ملفا شخصيا…">
+<!ENTITY            newButton.accesskey    "ش">
+<!ENTITY            renameButton.label     "غيّر اسم الملف الشخصي…">
+<!ENTITY            renameButton.accesskey "غ">
+<!ENTITY            deleteButton.label     "احذف الملف الشخصي…">
+<!ENTITY            deleteButton.accesskey "ح">
 <!-- manager entities -->
 
-<!ENTITY pmDescription.label "يخزّن &brandShortName; معلومات عن إعداداتك، وتفضيلاتك، وعناصر أخرى في ملفّك الشّخصي.">
+<!ENTITY            pmDescription.label    "يخزّن &brandShortName; معلومات عن إعداداتك، وتفضيلاتك، وعناصر أخرى في ملفّك الشّخصي.">
 
-<!ENTITY offlineState.label "اعمل دون اتّصال">
-<!ENTITY offlineState.accesskey "ع">
+<!ENTITY            offlineState.label    "اعمل دون اتّصال">
+<!ENTITY            offlineState.accesskey "ع">
 
-<!ENTITY autoSelect.label "لا تسأل عند بداية التشغيل">
-<!ENTITY autoSelect.accesskey "س">
+<!ENTITY            autoSelect.label       "لا تسأل عند بداية التشغيل">
+<!ENTITY            autoSelect.accesskey   "س">

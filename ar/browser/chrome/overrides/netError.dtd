@@ -28,6 +28,9 @@
 <!ENTITY netInterrupt.title "قُوطِع الاتصال">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!ENTITY notCached.title "انتهت صلاحية المستند">
+<!ENTITY notCached.longDesc "<p>المستند المطلوب لم يعد متوفرًا في ذاكرة &brandShortName; الخبيئة.</p><ul><li>كإجراء وقائي، &brandShortName; لا يعيد طلب المستندات الحساسة بشكل آلي.</li><li>اضغط على 'حاول مجددًا' لإعادة طلب المستند من الموقع.</li></ul>">
+
 <!ENTITY netOffline.title "وضع اللا اتصال">
 <!ENTITY netOffline.longDesc2 "<ul> 
 <li>اضغط على &quot;جرّب مجددًا&quot; للتبديل إلى وضع الاتصال وإعادة تحميل الصفحة.</li> 

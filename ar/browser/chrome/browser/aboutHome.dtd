@@ -17,3 +17,6 @@
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "من السهل أن تخصص فَيَرفُكس على النحو الذي تريده. <a>اختر ما يناسبك من بين آلاف الإضافات</a>.">
+
+<!ENTITY abouthome.syncSetup.label   "إعداد تزامُن">
+<!ENTITY abouthome.pairDevice.label  "اربط جهازًا">

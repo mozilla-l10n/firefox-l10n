@@ -1,11 +1,11 @@
 <!--LOCALIZATION NOTE printProgress.dtd Main UI for Print Progress Dialog -->
-<!ENTITY printWindow.title "يطبع">
-<!ENTITY title "العنوان:">
+<!ENTITY printWindow.title "يطبع"> 
+<!ENTITY title    "العنوان:"> 
 <!ENTITY progress "التّقدّم:">
 <!ENTITY preparing "يُجهّز…">
 <!ENTITY printComplete "اكتملت الطّباعة.">
 
-<!ENTITY dialogCancel.label "ألغِ">
+<!ENTITY dialogCancel.label "ألغِ"> 
 <!ENTITY dialogClose.label "أغلق">
 <!-- LOCALIZATION NOTE (percentPrint):
 

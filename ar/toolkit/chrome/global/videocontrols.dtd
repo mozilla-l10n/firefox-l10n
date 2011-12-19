@@ -2,6 +2,21 @@
 <!ENTITY playButton.pauseLabel "ألبِث">
 <!ENTITY muteButton.muteLabel "اكتم الصوت">
 <!ENTITY muteButton.unmuteLabel "أطلِق الصوت">
+
+<!ENTITY stats.media "الوسيطة">
+<!ENTITY stats.size "الحجم">
+<!ENTITY stats.activity "النشاط">
+<!ENTITY stats.activityPaused "مُلبثة">
+<!ENTITY stats.activityPlaying "مُشغَّلة">
+<!ENTITY stats.activityEnded "منتهية">
+<!ENTITY stats.activitySeeking "(تبحث)">
+<!ENTITY stats.volume "الصوت">
+<!ENTITY stats.channels "القنوات">
+<!ENTITY stats.sampleRate "معدّل الاعتيان">
+<!ENTITY stats.framesParsed "اللقطات المحللة">
+<!ENTITY stats.framesDecoded "اللقطات التي فُكّ ترميزها">
+<!ENTITY stats.framesPresented "اللقطات المعروضة">
+<!ENTITY stats.framesPainted "اللقطات المرسومة">
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
