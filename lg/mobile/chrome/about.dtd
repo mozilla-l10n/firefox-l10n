@@ -1,0 +1,18 @@
+<!ENTITY aboutPage.title                        "Ebikwata ku &brandShortName;">
+<!ENTITY aboutPage.faq.label                    "FAQ">
+<!ENTITY aboutPage.support.label                "Yamba">
+<!ENTITY aboutPage.privacyPolicy.label          "Enkola eyekyama egobelerwa">
+<!ENTITY aboutPage.rights.label                 "Manya Ebisanyizo Bbyo">
+<!ENTITY aboutPage.relNotes.label               "Ebiwandiko Byenfulumya">
+<!ENTITY aboutPage.credits.label                "Abantu abakoze bino">
+<!ENTITY aboutPage.checkForUpdates.button       "Kebera Ebituusaganya">
+<!ENTITY aboutPage.checkForUpdates.checking     "Noonya etuukaganya…">
+<!ENTITY aboutPage.checkForUpdates.none         "Tewali Kituusa Kiriwo">
+<!ENTITY aboutPage.checkForUpdates.found        "Ekituusa Wekiri">
+<!-- LOCALIZATION NOTE:
+     These strings are concatenated in order. Unneeded strings may be left blank.
+-->
+
+
+<!ENTITY aboutPage.licenseLink                  "Obubaka obukwata ku lisinsi">
+<!ENTITY aboutPage.licenseLinkSuffix            ".">
