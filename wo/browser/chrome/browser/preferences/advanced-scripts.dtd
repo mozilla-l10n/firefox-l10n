@@ -40,8 +40,8 @@
 
 <!ENTITY allowScripts.label             "May scripts yi ñu :">
 
-<!ENTITY moveResizeWindows.label        "Randal walla nattaat palanteer yi am">
-<!ENTITY moveResizeWindows.accesskey    "R">
+<!ENTITY moveResizePopupWindows.label     "Move or resize popup windows">
+<!ENTITY moveResizePopupWindows.accesskey "M">
 <!ENTITY raiseLowerWindows.label        "Yobbu palanteer yi ci kanam walla ci ginnaaw">
 <!ENTITY raiseLowerWindows.accesskey    "Y">
 <!ENTITY disableContextMenus.label      "Suuxal walla wuutal njël yu mengoo yi">

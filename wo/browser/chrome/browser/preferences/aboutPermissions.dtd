@@ -21,10 +21,10 @@
 <!ENTITY password.label                  "Aar baati jàll yi">
 <!ENTITY password.manage                 "Saytu baati jàll yi…">
 
-<!ENTITY cookie.label                    "Joxoñ ay cookies">
-<!ENTITY cookie.remove                   "Mbàbbal cookie bi">
-<!ENTITY cookie.manage                   "Saytu ay cookies…">
-<!ENTITY cookie.removeAll                "Màbbal cookies Yépp">
+<!ENTITY cookie.label                    "Joxoñ ay kuki">
+<!ENTITY cookie.remove                   "Mbàbbal kuki yi">
+<!ENTITY cookie.manage                   "Saytu ay kuki…">
+<!ENTITY cookie.removeAll                "Màbbal kuki Yépp">
 
 <!ENTITY geo.label                       "Seddoo bérab bi ma ne">
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage

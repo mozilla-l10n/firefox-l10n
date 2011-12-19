@@ -7,13 +7,13 @@
 <!ENTITY backButton.label               "Back">
 <!ENTITY backButton.accesskey           "B">
 <!ENTITY backButton.tooltip             "Go back one page">
-<!ENTITY forwardButton.label            "Forward">
-<!ENTITY forwardButton.accesskey        "F">
+<!ENTITY forwardButton.label            "Li topp">
+<!ENTITY forwardButton.accesskey        "L">
 <!ENTITY forwardButton.tooltip          "Go forward one page">
-<!ENTITY copyCmd.label                  "Copy">
-<!ENTITY copyCmd.accesskey              "C">
-<!ENTITY selectAllCmd.label             "Select All">
-<!ENTITY selectAllCmd.accesskey         "A">
+<!ENTITY copyCmd.label                  "Duppi">
+<!ENTITY copyCmd.accesskey              "D">
+<!ENTITY selectAllCmd.label             "Fal lépp">
+<!ENTITY selectAllCmd.accesskey         "F">
 <!ENTITY goBackCmd.commandkey           "[">
 <!ENTITY goForwardCmd.commandkey        "]">
 <!ENTITY homeButton.label               "Dal bi">

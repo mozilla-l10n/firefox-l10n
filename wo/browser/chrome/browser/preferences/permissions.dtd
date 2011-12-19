@@ -9,7 +9,7 @@
 <!ENTITY removeallpermissions.accesskey "p">
 <!ENTITY address.label                "Màkkaanu dalu web bi :">
 <!ENTITY address.accesskey            "M">
-<!ENTITY block.label                  "Block">
+<!ENTITY block.label                  "Boloke">
 <!ENTITY block.accesskey              "B">
 <!ENTITY session.label                "Maye ngir sesiyoŋ bi">
 <!ENTITY session.accesskey            "s">

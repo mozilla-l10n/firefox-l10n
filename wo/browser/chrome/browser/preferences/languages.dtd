@@ -1,14 +1,14 @@
-<!ENTITY window.width                                   "34em">
+<!ENTITY window.width                                   "37em">
 
 <!ENTITY languages.customize.Header                     "Lammiñ yi">
 <!ENTITY languages.customize.prefLangDescript           "Yenn xëtu web yi joxe nañuleen ci lammiñ yu bari. Tànnal lammiñ bi xët yi di wone wu ci ni nga ko taamoo.">
-<!ENTITY languages.customize.active.label               "Toppante lammiñ yi ci taamu  :">
+<!ENTITY languages.customize.active.label               "Toppante lammiñ yi ci taamu :">
 <!ENTITY languages.customize.moveUp.label               "Yéeg">
 <!ENTITY languages.customize.moveUp.accesskey           "Y">
 <!ENTITY languages.customize.moveDown.label             "Wacc">
 <!ENTITY languages.customize.moveDown.accesskey         "W">
-<!ENTITY languages.customize.deleteButton.label         "Remove">
-<!ENTITY languages.customize.deleteButton.accesskey     "R">
+<!ENTITY languages.customize.deleteButton.label         "Màbb">
+<!ENTITY languages.customize.deleteButton.accesskey     "M">
 <!ENTITY languages.customize.selectLanguage.label       "Tànnal lammiñ booy yokk…">
 <!ENTITY languages.customize.addButton.label            "Yokk">
 <!ENTITY languages.customize.addButton.accesskey        "Y">

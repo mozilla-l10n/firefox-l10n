@@ -26,7 +26,7 @@
 <!-- Firefox 4 beta version UI -->
 
 <!ENTITY testpilot.enable.label                        "Suqali njàngatum jëfandikoo">
-<!ENTITY testpilot.feedbackbutton.label                "Feedback">
+<!ENTITY testpilot.feedbackbutton.label                "Tontu">
 <!ENTITY testpilot.happy.label        "Dama bëgg Firefox ndax…">
 <!ENTITY testpilot.sad.label          "Bëgguma Firefox ndax…">
 <!ENTITY testpilot.broken.label      "Yëggleel ni dal bii doxul…">

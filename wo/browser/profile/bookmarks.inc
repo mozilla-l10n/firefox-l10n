@@ -3,16 +3,16 @@
 # your locale code, and link to your translated pages as soon as they're 
 # live.
 
-#define bookmarks_title Bookmarks
+#define bookmarks_title Takku
 
 
-#define bookmarks_heading Bookmarks
+#define bookmarks_heading Takku
 
 
-#define bookmarks_toolbarfolder Bookmarks Toolbar Folder
+#define bookmarks_toolbarfolder Banqaasu bopp
 
 
-#define bookmarks_toolbarfolder_description Add bookmarks to this folder to see them displayed on the Bookmarks Toolbar
+#define bookmarks_toolbarfolder_description Yokk ay takku ci wayndare bi boo leen bëggee gis ci banqaasu bopp
 
 
 # LOCALIZATION NOTE (getting_started):
@@ -22,43 +22,32 @@
 #define getting_started Ci yoonu tambali
 
 
-# LOCALIZATION NOTE (latest_headlines):
-
-# link title for the live bookmarks sample, a redirect on
-
-# http://en-US.fxfeeds.mozilla.com/en-US/firefox/headlines.xml
-
-# Changing the redirect is subject to approval of l10n-drivers.
-
-#define latest_headlines Latest Headlines
-
-
 # LOCALIZATION NOTE (firefox_heading):
 
 # Firefox links folder name
 
-#define firefox_heading Mozilla Firefox
+#define firefox_heading Mosiyaa faayafoks
 
 
 # LOCALIZATION NOTE (firefox_help):
 
 # link title for http://en-US.www.mozilla.com/en-US/firefox/help/
 
-#define firefox_help Help and Tutorials
+#define firefox_help Ndimbal ak gindeekukaay
 
 
 # LOCALIZATION NOTE (firefox_customize):
 
 # link title for http://en-US.www.mozilla.com/en-US/firefox/customize/
 
-#define firefox_customize Customize Firefox
+#define firefox_customize Solal Faayafoks
 
 
 # LOCALIZATION NOTE (firefox_community):
 
 # link title for http://en-US.www.mozilla.com/en-US/firefox/community/
 
-#define firefox_community Get Involved
+#define firefox_community Jàpp leen ci !
 
 
 # LOCALIZATION NOTE (firefox_about):

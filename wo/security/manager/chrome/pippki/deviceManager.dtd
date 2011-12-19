@@ -39,8 +39,8 @@
 
 <!ENTITY devmgr.devlist.label                   "Security Modules and Devices">
 <!ENTITY devmgr.details.title                   "Benn bennal yi">
-<!ENTITY devmgr.details.title2                  "Value">
-<!ENTITY devmgr.status.label                    "Status">
+<!ENTITY devmgr.details.title2                  "Solo">
+<!ENTITY devmgr.status.label                    "Nekkin">
 <!ENTITY devmgr.version.label                   "Sumb">
 
 <!ENTITY devmgr.button.changeslotname.label     "Change Slot Name">
@@ -63,7 +63,7 @@
 <!ENTITY loaddevice.modname.default             "New PKCS#11 Module">
 <!ENTITY loaddevice.filename                    "Module filename:">
 <!ENTITY loaddevice.filename.accesskey          "f">
-<!ENTITY loaddevice.browse                      "Browse…">
+<!ENTITY loaddevice.browse                      "Seet…">
 <!ENTITY loaddevice.browse.accesskey            "B">
 
 <!ENTITY loaddevice.title                       "Load PKCS#11 Device">

@@ -10,7 +10,7 @@
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
 
-<!ENTITY window.title                 "Scratchpad">
+<!ENTITY window.title                 "Alluwa JavaScrip">
 
 <!ENTITY fileMenu.label               "Dencukaay">
 <!ENTITY fileMenu.accesskey           "D">
@@ -94,23 +94,24 @@
 
 <!ENTITY browserContext.label         "Joowkat">
 <!ENTITY browserContext.accesskey     "J">
-<!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
+<!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
 
-<!ENTITY resetContext.label           "Suqaliwaat">
-<!ENTITY resetContext.accesskey       "S">
+<!ENTITY resetContext2.label          "Reset Variables">
+<!ENTITY resetContext2.accesskey      "T">
 
 <!ENTITY executeMenu.label            "Def">
 <!ENTITY executeMenu.accesskey        "D">
+<!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
+  -  the browser Error Console, the key should be identical to the property of
+  -  the same name in browser.dtd.
+  -->
 
-<!ENTITY toolsMenu.label              "Jumtukaay yi">
-<!ENTITY toolsMenu.accesskey          "J">
-
-<!ENTITY errorConsoleCmd.label        "Njumtey konsol">
-<!ENTITY errorConsoleCmd.accesskey    "m">
 <!ENTITY errorConsoleCmd.commandkey   "j">
+<!-- LOCALIZATION NOTE (webConsoleCmd.commandkey): This command key launches
+  -  the browser WebConsole, the key should be identical to the property of
+  -  the same name in browser.dtd.
+  -->
 
-<!ENTITY webConsoleCmd.label          "Web Console">
-<!ENTITY webConsoleCmd.accesskey      "W">
 <!ENTITY webConsoleCmd.commandkey     "k">

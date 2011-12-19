@@ -1,16 +1,16 @@
-<!ENTITY networkPanel.requestURL                  "Request URL">
-<!ENTITY networkPanel.requestMethod               "Request Method">
+<!ENTITY networkPanel.requestURL                  "URL laaj bi">
+<!ENTITY networkPanel.requestMethod               "Yoonu laaj bi">
 <!ENTITY networkPanel.statusCode                  "Status Code">
 
-<!ENTITY networkPanel.requestHeaders              "Request Headers">
-<!ENTITY networkPanel.requestCookie               "Sent Cookie">
-<!ENTITY networkPanel.requestBody                 "Request Body">
-<!ENTITY networkPanel.requestFormData             "Sent Form Data">
+<!ENTITY networkPanel.requestHeaders              "Boppi laaj bi">
+<!ENTITY networkPanel.requestCookie               "Kuki bu ñu yonnee">
+<!ENTITY networkPanel.requestBody                 "Ëmbu laaj bi">
+<!ENTITY networkPanel.requestFormData             "Rootaani formileer yi ñu yonnee">
 
-<!ENTITY networkPanel.responseHeaders             "Response Headers">
-<!ENTITY networkPanel.responseBody                "Response Body">
+<!ENTITY networkPanel.responseHeaders             "Boppi tontu li">
+<!ENTITY networkPanel.responseBody                "Ëmbu tontu bi">
 <!ENTITY networkPanel.responseBodyCached          "Cached Data">
-<!ENTITY networkPanel.responseBodyUnknownType     "Unknown Content Type">
-<!ENTITY networkPanel.responseNoBody              "No Response Body">
-<!ENTITY networkPanel.responseImage               "Received Image">
-<!ENTITY networkPanel.responseImageCached         "Cached Image">
+<!ENTITY networkPanel.responseBodyUnknownType     "Ëmb bu ni mel xameesuko">
+<!ENTITY networkPanel.responseNoBody              "Amul benn ëmb ci tontu bi">
+<!ENTITY networkPanel.responseImage               "Nataal bi jot nañu ko">
+<!ENTITY networkPanel.responseImageCached         "Nataal bu nëbbu">

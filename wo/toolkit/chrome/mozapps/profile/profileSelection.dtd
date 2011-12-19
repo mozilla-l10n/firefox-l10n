@@ -45,7 +45,7 @@
 <!ENTITY            start.label            "Tàmbali &brandShortName;">
 <!ENTITY            exit.label             "Génn">
 
-<!ENTITY            availprofiles.label    "jëmmalin yi teew">
+<!ENTITY            availprofiles.label    "Jëmmalin yi teew">
 
 <!ENTITY            newButton.label        "Sos benn jëmmalin…">
 <!ENTITY            newButton.accesskey    "S">

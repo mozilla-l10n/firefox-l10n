@@ -13,11 +13,11 @@
 <!ENTITY manageAccount.label          "Saytu koont">
 <!ENTITY manageAccount.accesskey      "k">
 <!ENTITY viewQuota.label              "Wone Quota bi">
-<!ENTITY changePassword2.label         "Soppi baatu jàll…">
-<!ENTITY mySyncKey.label              "Caabi jàppante">
-<!ENTITY resetSync2.label              "Sàjj jàppante…">
+<!ENTITY changePassword2.label        "Soppi baatu jàll…">
+<!ENTITY myRecoveryKey.label          "My Recovery Key">
+<!ENTITY resetSync2.label             "Sàjj jàppante…">
 
-<!ENTITY addDevice.label              "Yokk benn aparey">
+<!ENTITY pairDevice.label             "Boole ak benn aparey">
 
 <!ENTITY syncMy.label               "Jàppante">
 <!ENTITY engine.bookmarks.label     "Mandarga xët yi">

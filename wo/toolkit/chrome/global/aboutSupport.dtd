@@ -1,9 +1,11 @@
 <!ENTITY aboutSupport.pageTitle "Xibaari depaane">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "  Xët wii dafa ëmb ay xibaar yu xarala tu am solo 
-boo bëggee saafara benn jafe jafe. Soo bëggee ay tontu ci laaj yi gëna bari 
-ci &brandShortName;, mën nga laaj sunu <a id='supportLink'>dalu ndimbal</a>.">
+<!ENTITY aboutSupport.pageSubtitle "
+  This page contains technical information that might be useful when you're
+  trying to solve a problem. If you are looking for answers to common questions
+  about &brandShortName;, check out our <a id='supportLink'>support website</a>.
+">
 
 <!ENTITY aboutSupport.extensionsTitle "Yokk yi">
 <!ENTITY aboutSupport.extensionName "Tur">
@@ -12,13 +14,14 @@ ci &brandShortName;, mën nga laaj sunu <a id='supportLink'>dalu ndimbal</a>.">
 <!ENTITY aboutSupport.extensionId "ID">
 
 <!ENTITY aboutSupport.appBasicsTitle "Paraameetar yi jëkk yu tërëlin bi">
-<!ENTITY aboutSupport.appBasicsName "tur">
+<!ENTITY aboutSupport.appBasicsName "Tur">
 <!ENTITY aboutSupport.appBasicsVersion "Sumb">
 <!ENTITY aboutSupport.appBasicsProfileDir "Wayndare jëmmalin">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Plugins yi ñu suqali">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Tabbinu dajale">
 <!ENTITY aboutSupport.appBasicsUserAgent "Jëfandikookat">
 <!ENTITY aboutSupport.appBasicsCrashIDs "Raapoori Crash">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Memory Use">
 
 <!ENTITY aboutSupport.show.label "Ubbi wayndare bi mengoo">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific

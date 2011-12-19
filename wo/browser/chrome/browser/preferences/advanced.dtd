@@ -8,8 +8,8 @@
 <!ENTITY useCursorNavigation.accesskey   "t">
 <!ENTITY searchStartTyping.label         "Dekkil wut gi boo dee dugal bind">
 <!ENTITY searchStartTyping.accesskey     "k">
-<!ENTITY blockAutoRefresh.label          "Yëgle su ay dal di jéem fataat xët wi">
-<!ENTITY blockAutoRefresh.accesskey      "Y">
+<!ENTITY blockAutoRefresh.label          "Warn me when websites try to redirect or reload the page">
+<!ENTITY blockAutoRefresh.accesskey      "b">
 
 <!ENTITY browsing.label                  "Joow mi">
 
@@ -59,22 +59,28 @@
 
 <!ENTITY updateTab.label                 "Mottali yi">
 
-<!ENTITY autoCheck.label                 "Wutal boppam ay mottali ngir :">
-<!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate2.label       "Modil yi">
-<!ENTITY enableAddonsUpdate2.accesskey   "M">
-<!ENTITY enableSearchUpdate.label        "Motëëri wut">
-<!ENTITY enableSearchUpdate.accesskey    "o">
-<!ENTITY whenUpdatesFound.label          "Saa su mottaliy &brandShortName; sampoo :">
-<!ENTITY askMe.label                     "Laaj li ñu war def">
-<!ENTITY askMe.accesskey                 "d">
-<!ENTITY modeAutomatic.label             "Yeb ak samp boppam mottali yi">
-<!ENTITY modeAutomatic.accesskey         "b">
-<!ENTITY modeAutoAddonWarn.label         "Yëgle su fekkeeni dafay suuxal modil yi">
-<!ENTITY modeAutoAddonWarn.accesskey     "Y">
+<!ENTITY updateApp.label                 "Yeesali brandShortName:">
+<!ENTITY updateAuto.label                "Automatically install updates (recommended: improved security)">
+<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateCheck.label               "Check for updates, but let me choose whether to install them">
+<!ENTITY updateCheck.accesskey           "C">
+<!ENTITY updateManual.label              "Never check for updates (not recommended: security risk)">
+<!ENTITY updateManual.accesskey          "N">
+
+<!ENTITY updateAutoAddonWarn.label       "Yëgle su fekkeeni dafay suuxal modil yi">
+<!ENTITY updateAutoAddonWarn.accesskey   "Y">
+
 <!ENTITY updateHistory.label             "Wone jaar jaaru mottali yi">
 <!ENTITY updateHistory.accesskey         "a">
+
+<!ENTITY useService.label                "Use a background service to install updates">
+<!ENTITY useService.accesskey            "b">
+
+<!ENTITY updateOthers.label              "Automatically update:">
+<!ENTITY enableAddonsUpdate3.label       "Add-ons">
+<!ENTITY enableAddonsUpdate3.accesskey   "o">
+<!ENTITY enableSearchUpdate.label        "Motëëri wut">
+<!ENTITY enableSearchUpdate.accesskey    "o">
 
 <!ENTITY offlineNotify.label             "Yëgle su fekkee dafa am ab dal buy laaj denc ay mbir ci jokkoodiku">
 <!ENTITY offlineNotify.accesskey         "Y">

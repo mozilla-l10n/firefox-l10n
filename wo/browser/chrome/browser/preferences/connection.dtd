@@ -1,7 +1,7 @@
 
 <!ENTITY  connectionsDialog.title       "Paraameetari jokkoo">
-<!ENTITY  window.width                  "46em">
-<!ENTITY  window.macWidth               "48em">
+<!ENTITY  window.width                  "37em">
+<!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "Tabbinu serwëër ngir agg ci Internet">
 <!ENTITY  noProxyTypeRadio.label        "Amul proxy">

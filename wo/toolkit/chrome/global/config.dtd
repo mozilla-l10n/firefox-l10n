@@ -34,7 +34,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY window.title "about:config">
+<!ENTITY window.title "ci mbiri:config">
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
 
@@ -43,15 +43,15 @@
 <!ENTITY aboutWarningButton.label "I'll be careful, I promise!">
 <!ENTITY aboutWarningCheckbox.label "Show this warning next time">
 
-<!ENTITY filterPrefs.label "Filter:">
-<!ENTITY filterPrefs.accesskey "i">
+<!ENTITY filterPrefs.label "Segukaay:">
+<!ENTITY filterPrefs.accesskey "S">
 <!ENTITY focusFilter.key "f">
 <!-- Columns -->
 
 <!ENTITY prefColumn.label "Preference Name">
-<!ENTITY lockColumn.label "Status">
+<!ENTITY lockColumn.label "Nekkin">
 <!ENTITY typeColumn.label "Type">
-<!ENTITY valueColumn.label "Value">
+<!ENTITY valueColumn.label "Solo">
 <!-- Tooltips -->
 
 <!ENTITY prefColumnHeader.tooltip "Click to sort"> 
@@ -62,7 +62,7 @@
 <!ENTITY copyPref.label "Duppi">
 <!ENTITY copyPref.accesskey "D">
 <!ENTITY copyName.label "Copy Name">
-<!ENTITY copyName.accesskey "C">
+<!ENTITY copyName.accesskey "N">
 <!ENTITY copyValue.label "Copy Value">
 <!ENTITY copyValue.accesskey "V">
 <!ENTITY modify.label "Modify">

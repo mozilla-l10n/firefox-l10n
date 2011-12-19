@@ -40,8 +40,8 @@ that require it.  -->
 <!ENTITY itemFormSearchHistory.accesskey   "f">
 <!ENTITY itemPasswords.label               "Baatu jàll yi ñu aar">
 <!ENTITY itemPasswords.accesskey           "B">
-<!ENTITY itemCookies.label                 "Cookies">
-<!ENTITY itemCookies.accesskey             "C">
+<!ENTITY itemCookies.label                 "Kuki yi">
+<!ENTITY itemCookies.accesskey             "K">
 <!ENTITY itemCache.label                   "Ndenc">
 <!ENTITY itemCache.accesskey               "d">
 <!ENTITY itemOfflineApps.label             "Rotaani dalub web yu jokkoowul">
@@ -58,5 +58,5 @@ that require it.  -->
 
 <!ENTITY sanitizeEverythingUndoWarning     "Jëf jii mënul dellu ginnaaw.">
 
-<!ENTITY dialog.width                 "35em">
-<!ENTITY column.width                 "10em">
+<!ENTITY dialog.width                 "28em">
+<!ENTITY column.width                 "14em">

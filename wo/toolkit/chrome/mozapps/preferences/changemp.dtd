@@ -1,8 +1,8 @@
-<!ENTITY setPassword.title                 "Change Master Password">
+<!ENTITY setPassword.title                 "Soppi baatu jàll bi gëna am solo">
 <!ENTITY setPassword.tokenName.label       "Security Device">
 <!ENTITY setPassword.oldPassword.label     "Current password:">
-<!ENTITY setPassword.newPassword.label     "Enter new password:">
-<!ENTITY setPassword.reenterPassword.label "Re-enter password:">
+<!ENTITY setPassword.newPassword.label     "Dugalal caabi baat bu bees:">
+<!ENTITY setPassword.reenterPassword.label "Dugalaat ko:">
 <!ENTITY setPassword.meter.label           "Password quality meter">
 <!ENTITY setPassword.meter.loading         "Loading">
 <!ENTITY masterPasswordDescription.label   "A Master Password is used to protect sensitive information like site passwords.  If you create a Master Password you will be asked to enter it once per session when &brandShortName; retrieves saved information protected by the password.">

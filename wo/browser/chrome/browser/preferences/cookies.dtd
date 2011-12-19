@@ -16,7 +16,7 @@
 <!ENTITY     props.secure.label             "Yonnee ngir :">
 <!ENTITY     props.expires.label            "Jeex :">
 
-<!ENTITY     window.title                   "Cookies">
+<!ENTITY     window.title                   "Kuki yi">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">

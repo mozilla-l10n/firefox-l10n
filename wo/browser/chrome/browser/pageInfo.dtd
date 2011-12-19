@@ -37,8 +37,8 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY  pageInfoWindow.width  "425">
-<!ENTITY  pageInfoWindow.height "470">
+<!ENTITY  pageInfoWindow.width  "650">
+<!ENTITY  pageInfoWindow.height "500">
 
 <!ENTITY  copy.key              "C">
 <!ENTITY  copy.label            "Duppi">
@@ -55,7 +55,7 @@
 <!ENTITY  generalMode           "Anamu dippi :">
 <!ENTITY  generalSize           "Dayo :">
 <!ENTITY  generalReferrer       "URL bi mu ñëwe :">
-<!ENTITY  generalSource         "Cache Source:">
+<!ENTITY  generalSource         "Cosaanu nëbb gi :">
 <!ENTITY  generalModified       "Soppi ci :">
 <!ENTITY  generalEncoding       "Suulaalee :">
 <!ENTITY  generalMetaName       "Tur">
@@ -87,7 +87,7 @@
 
 <!ENTITY  permTab               "Ndigal yi">
 <!ENTITY  permTab.accesskey     "P">
-<!ENTITY  permUseDefault        "Use Default">
+<!ENTITY  permUseDefault        "Maye ñakk ndigal">
 <!ENTITY  permAskAlways         "Laaj saa su ne">
 <!ENTITY  permAllow             "May">
 <!ENTITY  permAllowSession      "May ngir sesiyoŋ bi">
@@ -113,15 +113,15 @@
 
 <!ENTITY  securityView.identity.header   "Dantite dalub web bi">
 <!ENTITY  securityView.identity.owner    "Boroom :">
-<!ENTITY  securityView.identity.domain   "Dalub web : ">
+<!ENTITY  securityView.identity.domain   "Dalub web: ">
 <!ENTITY  securityView.identity.verifier "Ki ko settantal">
 
 <!ENTITY  securityView.privacy.header                   "Dundu biir ak jaar jaar">
 <!ENTITY  securityView.privacy.history                  "Ndax mës na gane dalub web bile?">
-<!ENTITY  securityView.privacy.cookies                  "Ndax dalub web bile dafay dajale ay xibaar (cookies) ci sama ordinatëër?">
-<!ENTITY  securityView.privacy.viewCookies              "Xool cookies yi">
+<!ENTITY  securityView.privacy.cookies                  "Ndax dalub web bile dafay dajale ay xibaar (kuki) ci sama ordinatëër?">
+<!ENTITY  securityView.privacy.viewCookies              "Xool kuki yi">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
-<!ENTITY  securityView.privacy.passwords                "Ndax am naa caabi baat bu aaru ngir dal bi?">
+<!ENTITY  securityView.privacy.passwords                "Ndax am naa caabi baat bu aaru ci dal bi?">
 <!ENTITY  securityView.privacy.viewPasswords            "Seet caabi baat yi ñu aar">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 

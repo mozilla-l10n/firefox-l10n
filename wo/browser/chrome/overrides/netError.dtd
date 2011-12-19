@@ -44,6 +44,9 @@ connection.</li>
 <!ENTITY netInterrupt.title "Jokkoo bi taxaw na">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!ENTITY notCached.title "Document Expired">
+<!ENTITY notCached.longDesc "<p>The requested document is not available in &brandShortName;'s cache.</p><ul><li>As a security precaution, &brandShortName; does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
+
 <!ENTITY netOffline.title "Anamu jokkoodiku">
 <!ENTITY netOffline.longDesc2 "<ul> 
 <li>Bësal &quot;Jéemaatal&quot; dem ci anamu jokkoo te nga fataat xët wi.</li> 
@@ -98,7 +101,7 @@ sampu na ci sa doxalin.</li>
 
 <!ENTITY nssFailure2.title "Lajju jokkoo bi ànd ak kaarange">
 <!ENTITY nssFailure2.longDesc "<ul> 
-<li>Xët wi nga bëgg seet kenn mënukoo wone ndax rootaan kenn mëneesuleena xam ndax dëggu nañu walla déeet.</li> 
+<li>Xët wi nga bëgg seet kenn mënukoo wone ndax rootaan yi kenn mëneesula xam ndax dëggu nañu walla déet.</li> 
 <li>Jokkool ak boroomi dalub web ngir yëgle jafe jafe bi. Mën nga itam jëfandikoo santaane bi nekk ci njëlu ndimbal ngir wone dal bu doxul</li> 
 </ul>">
 
@@ -113,8 +116,10 @@ mën nga jéemaat ci kanam.</li>
 <!ENTITY sharedLongDesc "<ul><li>Dal bi mën na nekk kenn mënu cee jot walla mu bari liggéey jeemaaatal ci kanam</li><li>Su fekkee mënuloo joow ci benn dal, seetal sa jokkoo ordinatëër ak lëkkale gi.</li><li>Su fekkee sa ordinatëër walla sa lëkkale danu leen aar ak paarfë walla benn proxy seetal ndax &brandShortName; am ndigal agg ci Web bi.</li></ul>">
 
 <!ENTITY malwareBlocked.title "Ñaaw njort ci dal bu bon !">
-<!ENTITY malwareBlocked.longDesc "<p>Ay dal yu bon ñi ngiy jéema samp ay porogaraam yuy sacc say xibaari bopp,di jëfandikoo sa ordinatëër ngir song yeneen walla yaq sa doxalin.</p> 
-<p>Boroom dal yi fook ni da ñu leen tuumaal <a href='http://www.stopbadware.org/home/reviewinfo'>ab nafar</a>.</p>">
+<!ENTITY malwareBlocked.longDesc "
+<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p>
+<p>Website owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo' >request a review</a>.</p>
+">
 
 <!ENTITY phishingBlocked.title "Dal bi royaal la !">
 <!ENTITY phishingBlocked.longDesc "<p>Dugal say xibaari bopp ci xët bile mën na tax ñu sacc sa dantite walla beneen foród.</p> 

@@ -90,6 +90,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "N">
 <!ENTITY fullScreenExit.label "Génn anamu yambalaŋ">
 <!ENTITY fullScreenExit.accesskey "G">
+<!ENTITY domFullScreenWarning.label "Press ESC to leave full-screen mode">
 
 <!ENTITY closeWindow.label "Tëj palanteer bi">
 <!ENTITY closeWindow.accesskey "T">
@@ -193,6 +194,9 @@ can reach it easily. -->
 <!ENTITY inspectMenu.label            "Seet">
 <!ENTITY inspectMenu.accesskey        "S">
 <!ENTITY inspectMenu.commandkey       "I">
+
+<!ENTITY inspectContextMenu.label     "Inspect Element">
+<!ENTITY inspectContextMenu.accesskey "Q">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -209,9 +213,12 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectPanelTitle.label      "HTML">
-<!ENTITY inspectButton.label          "Seet">
-<!ENTITY inspectButton.accesskey      "S">
+<!ENTITY inspectPanelTitle.label        "HTML">
+<!ENTITY inspectButton.label            "Seet">
+<!ENTITY inspectButton.accesskey        "S">
+<!ENTITY inspectCloseButton.tooltiptext "Close Inspector">
+<!ENTITY inspectStyleButton.label     "Style">
+<!ENTITY inspectStyleButton.accesskey "S">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Am yeneeni jumtukaay">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "A">
@@ -296,7 +303,7 @@ can reach it easily. -->
 <!ENTITY appMenuSafeMode.accesskey "T">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder           "Dem ci benn dalub web">
+<!ENTITY urlbar.placeholder           "Go to a Website">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Dem ci koñ :">
 <!-- 
@@ -429,12 +436,17 @@ can reach it easily. -->
 <!ENTITY mediaHideControls.accesskey "N">
 <!ENTITY videoFullScreen.label       "Seetukaay bu fees">
 <!ENTITY videoFullScreen.accesskey   "S">
+<!ENTITY videoSaveImage.label        "Save Snapshot As…">
+<!ENTITY videoSaveImage.accesskey    "S">
+<!ENTITY videoShowStats.label        "Show Statistics">
+<!ENTITY videoShowStats.accesskey    "t">
+<!ENTITY videoHideStats.label        "Hide Statistics">
+<!ENTITY videoHideStats.accesskey    "t">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
-
 
 
 <!ENTITY fullZoomEnlargeCmd.label       "Yaatal">
@@ -493,7 +505,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Melinu laltu bu biró bi">
 <!ENTITY pageStylePersistentOnly.accesskey "b">
 
-<!ENTITY pageReportIcon.tooltip            "Soppi politigu popups dalub web bii">
+<!ENTITY pageReportIcon.tooltip            "Change pop-up blocking settings for this website">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -525,7 +537,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "Neenal">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
-<!ENTITY identity.unverifiedsite2 "Dalub web bi joxewul benn xibaar ci dantiteem.">
+<!ENTITY identity.unverifiedsite2 "This website does not supply identity information.">
 <!ENTITY identity.connectedTo "Yaa ngi ci">
 <!-- Localization note (identity.runBy) : This string appears between a
 domain name (above) and an organization name (below). E.g.

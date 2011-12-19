@@ -8,8 +8,8 @@
 
 <!ENTITY     button.allow.label             "Joxe ndigal">
 <!ENTITY     button.allow.accesskey         "J">
-<!ENTITY     button.session.label           "Allow for Session">
-<!ENTITY     button.session.accesskey       "S">
+<!ENTITY     button.session.label           "Maye ngir sesiyoŋ bi">
+<!ENTITY     button.session.accesskey       "s">
 <!ENTITY     button.deny.label              "Tere">
 <!ENTITY     button.deny.accesskey          "T">
 

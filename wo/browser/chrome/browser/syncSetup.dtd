@@ -4,8 +4,7 @@
 
 <!ENTITY setup.pickSetupType.description "Dalal jamm, su fekkee mësuloo jëfandikoo &syncBrand.fullName.label; laata, da nga wara sos koont bu bees.">
 <!ENTITY button.createNewAccount.label "Sos koont bu bees">
-<!ENTITY setup.haveAccount.label "Am naa ba pare koont &syncBrand.fullName.label;.">
-<!ENTITY button.connect.label    "Jokkoo">
+<!ENTITY button.haveAccount.label      "I Have an Account">
 
 <!ENTITY setup.choicePage.title.label     "Ndax mës nga jëfandikoo &syncBrand.fullName.label; ?">
 <!ENTITY setup.choicePage.new.label       "Mësumoo jëfandikoo &syncBrand.shortName.label;">
@@ -19,8 +18,8 @@
 <!ENTITY signIn.account2.accesskey  "K">
 <!ENTITY signIn.password.label      "Baatu jàll">
 <!ENTITY signIn.password.accesskey  "B">
-<!ENTITY signIn.syncKey.label       "Caabi jàppante">
-<!ENTITY signIn.syncKey.accesskey   "j">
+<!ENTITY signIn.recoveryKey.label       "Recovery Key">
+<!ENTITY signIn.recoveryKey.accesskey   "K">
 <!-- New Account Page 1: Basic Account Info -->
 
 <!ENTITY setup.newAccountDetailsPage.title.label "Benn bennali koont bi">
@@ -39,38 +38,36 @@
 <!ENTITY setup.ppLink.label         "Politigu biir">
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
-<!-- New Account Page 2: Sync Key -->
+<!-- My Recovery Key dialog -->
 
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; wormal na sa dundu biir">
-<!ENTITY setup.newSyncKeyPage.description.label "Ngir weg sa dundu biir yépp, say rootaan suul ci lim laata ñu yonnee leen. Caabi biy sulli say rootaan kenn du ko joxe.">
-<!ENTITY syncKeyEntry.label        "Sa caabi jàppante">
-<!ENTITY syncKeyEntry.accesskey    "c">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; wormal na sa dundu biir">
+<!ENTITY setup.newRecoveryKeyPage.description.label "To ensure your total privacy, all of your data is encrypted prior to being uploaded. The Recovery Key which is necessary to decrypt your data is not uploaded.">
+<!ENTITY recoveryKeyEntry.label        "Your Recovery Key">
+<!ENTITY recoveryKeyEntry.accesskey    "K">
 <!ENTITY syncGenerateNewKey.label  "Sos beneen caabi">
-<!ENTITY syncKeyBackup.description "Faww nga am sa caabi jàppante ngir nga agg ci &syncBrand.fullName.label; ci yeneen masin. Defaral benn duppi aar. Mëneesula dimmali ngir jotaat ci.">
+<!ENTITY recoveryKeyBackup.description "Your Recovery Key is required to access &syncBrand.fullName.label; on other machines. Please create a backup copy. We cannot help you recover your Recovery Key.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Móol…">
 <!ENTITY button.syncKeyBackup.print.accesskey "M">
 <!ENTITY button.syncKeyBackup.save.label      "Aar…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "A">
-<!-- New Account Page 3: Captcha -->
+<!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
 
-<!ENTITY setup.captchaPage2.title.label     "Waneel ni doo robo">
-<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "Yokkal benn aparey">
+<!ENTITY pairDevice.title.label             "Boole ak benn aparey">
 <!ENTITY addDevice.showMeHow.label          "Nan la?">
 <!ENTITY addDevice.dontHaveDevice.label     "Amewuma aparey ak man">
-<!ENTITY addDevice.setup.description.label  "Boo bëggee suqali, demal ci tannéefi &syncBrand.shortName.label; ci sa aparey te nga fal  « yokk aparey ».">
+<!ENTITY pairDevice.setup.description.label  "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
 <!ENTITY addDevice.setup.enterCode.label    "Dugalal léegi kod bii:">
-<!ENTITY addDevice.dialog.description.label "Boo bëggee suqali sa aparey bu bees demal ci tannéefi &syncBrand.shortName.label; nga fal « jokkoo ».">
+<!ENTITY pairDevice.dialog.description.label "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
 <!ENTITY addDevice.dialog.enterCode.label   "Dugalal kod bi aparey bi waccee:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Jéemaatal.">
 <!ENTITY addDevice.dialog.successful.label  "Aparey yokku na. Jàppante bi jëkk mën na jël simili yu bari te nara jeex ci ginnaw.">
-<!ENTITY addDevice.dialog.syncKey.label     "Boo bëggee suqali aparey bi, war nga dugal sa caabi jàppante. Aar ko walla nga móol ko ngir mu bañ la sori.">
+<!ENTITY addDevice.dialog.recoveryKey.label     "To activate your device you will need to enter your Recovery Key. Please print or save this key and take it with you.">
 <!ENTITY addDevice.dialog.connected.label   "Aparey bu jokkoo">
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "Jokkoo">
-<!ENTITY existingSyncKey.description "Mën nga am ab duppi ci sa caabi soo demee ci tannéefi &syncBrand.shortName.label; ci sa aparey walla nga fal  « Sama caabi  jàppante» ci « Caytu koont ».">
+<!ENTITY existingRecoveryKey.description "You can get a copy of your Recovery Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Recovery Key&#x0022; under &#x0022;Manage Account&#x0022;.">
 <!ENTITY verifying.label              "Wóorliku…">
 <!ENTITY resetPassword.label          "Suqali baatu jàll">
 <!ENTITY resetSyncKey.label           "Mënatuma agg ci sama beneen aparey">

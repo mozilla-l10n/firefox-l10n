@@ -1,7 +1,7 @@
 <!ENTITY  fontsDialog.title                       "Njabootu araf">
-<!ENTITY  window.width                            "53em">
-<!ENTITY  window.macWidth                         "49em">
-<!ENTITY  window.unixWidth                        "49em">
+<!ENTITY  window.width                            "39em">
+<!ENTITY  window.macWidth                         "43em">
+<!ENTITY  window.unixWidth                        "41em">
 
 <!ENTITY  language.label                          "Njabootu araf ngir :">
 <!ENTITY  language.accesskey                      "o">
@@ -33,11 +33,11 @@
 <!ENTITY  font.langGroup.turkish                  "Turc">
 <!ENTITY  font.langGroup.unicode                  "Yeneen lammiñ">
 <!ENTITY  font.langGroup.user-def                 "Jëfandikookat bee koy taxawal">
-<!ENTITY  font.langGroup.thai                     "Thai">
+<!ENTITY  font.langGroup.thai                     "Tay">
 <!ENTITY  font.langGroup.hebrew                   "Hébreu">
 <!ENTITY  font.langGroup.arabic                   "Arabe">
 <!ENTITY  font.langGroup.devanagari               "Devanagari">
-<!ENTITY  font.langGroup.tamil                    "Tamil">
+<!ENTITY  font.langGroup.tamil                    "Tamuul">
 <!ENTITY  font.langGroup.armenian                 "Arménien">
 <!ENTITY  font.langGroup.bengali                  "Bengali">
 <!ENTITY  font.langGroup.canadian                 "Téere araf bu Kanadaa bu ñu boole">
@@ -45,13 +45,13 @@
 <!ENTITY  font.langGroup.georgian                 "Géorgien">
 <!ENTITY  font.langGroup.gujarati                 "Gujarati">
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
-<!ENTITY  font.langGroup.khmer                    "Khmer">
+<!ENTITY  font.langGroup.khmer                    "Cambodian">
 <!ENTITY  font.langGroup.malayalam                "Malayalam">
 <!ENTITY  font.langGroup.oriya                    "Oriya">
 <!ENTITY  font.langGroup.telugu                   "Telugu">
 <!ENTITY  font.langGroup.kannada                  "Kanadaa">
 <!ENTITY  font.langGroup.sinhala                  "Sinhala">
-<!ENTITY  font.langGroup.tibetan                  "Tibetan">
+<!ENTITY  font.langGroup.tibetan                  "Tibeten">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Dayo araf bi gëna tuuti :">
 <!ENTITY minSize.accesskey                        "t">
@@ -59,7 +59,7 @@
 <!-- default font type -->
 
 <!ENTITY  useDefaultFontSerif.label               "Serif">
-<!ENTITY  useDefaultFontSansSerif.label           "Sans serif">
+<!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
 <!ENTITY  allowPagesToUse.label                   "Nangu xët yi tànn seen njabooti arafi bopp">
 <!ENTITY  allowPagesToUse.accesskey               "N">
