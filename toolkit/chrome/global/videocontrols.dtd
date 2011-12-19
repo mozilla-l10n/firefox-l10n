@@ -1,7 +1,36 @@
+<!--
+# Translator(s):
+#
+# hatul <amiadb@gmail.com>
+# Yaron <sh.yaron@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# hatul <amiadb@gmail.com>
+# alexxed <alexxed@gmail.com>
+#
+-->
 <!ENTITY playButton.playLabel "נגן">
 <!ENTITY playButton.pauseLabel "השהה">
 <!ENTITY muteButton.muteLabel "השתק">
 <!ENTITY muteButton.unmuteLabel "בטל השתקה">
+
+<!ENTITY stats.media "מדיה">
+<!ENTITY stats.size "גודל ">
+<!ENTITY stats.activity "פעילות">
+<!ENTITY stats.activityPaused "מושהה">
+<!ENTITY stats.activityPlaying "מנגן">
+<!ENTITY stats.activityEnded "הסתיים">
+<!ENTITY stats.activitySeeking "(מחפש)">
+<!ENTITY stats.volume "עוצמת קול">
+<!ENTITY stats.channels "ערוצים">
+<!ENTITY stats.sampleRate "קצב דגימה">
+<!ENTITY stats.framesParsed "שקופיות שנותחו">
+<!ENTITY stats.framesDecoded "שקופיות שפוענחו">
+<!ENTITY stats.framesPresented "שקופיות שהוצגו">
+<!ENTITY stats.framesPainted "שקופיות שצוירו">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
@@ -9,5 +38,4 @@ the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
 "6:00:00", result string would be "5:00 of 6:00:00 elapsed".
 -->
 <!ENTITY scrubberScale.nameFormat "#1 מתוך #2">
-
 
