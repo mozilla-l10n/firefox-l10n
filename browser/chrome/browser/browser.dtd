@@ -107,6 +107,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "ה">
 <!ENTITY fullScreenExit.label "צא ממצב מסך מלא">
 <!ENTITY fullScreenExit.accesskey "צ">
+<!ENTITY domFullScreenWarning.label "לחץ על ESC כדי לעזוב את מצב מסך מלא">
 
 <!ENTITY closeWindow.label "סגור חלון">
 <!ENTITY closeWindow.accesskey "ס">
@@ -229,9 +230,12 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectPanelTitle.label      "HTML">
-<!ENTITY inspectButton.label          "חקור">
-<!ENTITY inspectButton.accesskey      "ח">
+<!ENTITY inspectPanelTitle.label        "HTML">
+<!ENTITY inspectButton.label            "חקור">
+<!ENTITY inspectButton.accesskey        "ח">
+<!ENTITY inspectCloseButton.tooltiptext "סגור את החוקר">
+<!ENTITY inspectStyleButton.label     "סגנון">
+<!ENTITY inspectStyleButton.accesskey "ס">
 
 <!ENTITY getMoreDevtoolsCmd.label        "קבלת כלים נוספים">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "ק">
@@ -449,7 +453,12 @@ can reach it easily. -->
 <!ENTITY mediaHideControls.accesskey "פ">
 <!ENTITY videoFullScreen.label       "מסך מלא">
 <!ENTITY videoFullScreen.accesskey   "מ">
-
+<!ENTITY videoSaveImage.label        "שמור צילום בשם…">
+<!ENTITY videoSaveImage.accesskey    "צ">
+<!ENTITY videoShowStats.label        "הצג סטטיסטיקות">
+<!ENTITY videoShowStats.accesskey    "צ">
+<!ENTITY videoHideStats.label        "הסתר סטטיסטיקות">
+<!ENTITY videoHideStats.accesskey    "ס">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -460,7 +469,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.label       "התקרבות">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "ק">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!-- + is above this key on many keyboards --><!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "התרחקות">
@@ -581,5 +590,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY addonBarCloseButton.tooltip  "סגירת שורת התוספות">
 <!ENTITY toggleAddonBarCmd.key        "/">
-
 

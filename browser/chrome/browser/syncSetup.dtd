@@ -20,8 +20,7 @@
 
 <!ENTITY setup.pickSetupType.description "ברוך הבא, אם מעולם לא השתמשת ב־&syncBrand.fullName.label; בעבר, יהיה עליך ליצור חשבון חדש.">
 <!ENTITY button.createNewAccount.label "צור חשבון חדש">
-<!ENTITY setup.haveAccount.label "יש לי חשבון &syncBrand.fullName.label;.">
-<!ENTITY button.connect.label    "התחברות">
+<!ENTITY button.haveAccount.label      "יש לי חשבון">
 
 <!ENTITY setup.choicePage.title.label     "האם השתמשת ב־&syncBrand.fullName.label; בעבר?">
 <!ENTITY setup.choicePage.new.label       "מעולם לא השתמשתי ב־&syncBrand.shortName.label; בעבר">
@@ -54,9 +53,9 @@
 <!ENTITY setup.tosAgree2.label      "וגם ל־">
 <!ENTITY setup.ppLink.label         "מדיניות הפרטיות">
 <!ENTITY setup.tosAgree3.label      "">
-<!ENTITY setup.tosAgree2.accesskey  "ו">
+<!ENTITY setup.tosAgree2.accesskey  "">
 
-<!-- New Account Page 2: Sync Key -->
+<!-- My Recovery Key dialog -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "ל־&brandShortName; אכפת בנוגע לפרטיות שלך">
 <!ENTITY setup.newRecoveryKeyPage.description.label "כדי לדאוג שפרטיותך לא תיפגע, כל הנתונים שלך מוצפנים בטרם ההעלאה. מפתח השחזור הנחוץ לפענוח הנתונים שלך לא יועלה.">
 <!ENTITY recoveryKeyEntry.label        "מפתח השחזור שלך">
@@ -69,15 +68,13 @@
 <!ENTITY button.syncKeyBackup.save.label      "שמירה…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "ש">
 
-<!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "נא אשר שאינך רובוט">
-<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "הוסף התקן">
+<!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
+<!ENTITY pairDevice.title.label             "שייך התקן">
 <!ENTITY addDevice.showMeHow.label          "הראה לי כיצד.">
 <!ENTITY addDevice.dontHaveDevice.label     "אין לי את ההתקן איתי">
-<!ENTITY addDevice.setup.description.label  "להפעלה, עבור אל האפשרויות של &syncBrand.shortName.label; בהתקן האחר ובחר &#x0022;הוספת התקן&#x0022;.">
+<!ENTITY pairDevice.setup.description.label  "כדי להפעיל, בחר &#x0022;שייך התקן&#x0022; בהתקן האחר שלך.">
 <!ENTITY addDevice.setup.enterCode.label    "לאחר מכן, הקלד את הקוד הבא:">
-<!ENTITY addDevice.dialog.description.label "להפעלת ההתקן החדש שלך, עבור למסך האפשרויות של &syncBrand.shortName.label; בהתקן ובחר &#x0022;התחברות&#x0022;.">
+<!ENTITY pairDevice.dialog.description.label "כדי להפעיל את ההתקן החדש שלך עליך לבחור ב־&#x0022;הגדרת Sync&#x0022; בהתקן.">
 <!ENTITY addDevice.dialog.enterCode.label   "הקלד את הקוד שההתקן מספק:">
 <!ENTITY addDevice.dialog.tryAgain.label    "נא לנסות שנית.">
 <!ENTITY addDevice.dialog.successful.label  "ההתקן התווסף בהצלחה. השלמת הסנכרון הראשוני יכולה לקחת מספר דקות ותסתיים ברקע.">
@@ -124,5 +121,4 @@
 <!ENTITY setup.successPage.title "ההתקנה הושלמה">
 <!ENTITY changeOptions.label "ניתן לשנות העדפה זו על ידי בחירה באפשרויות הסנכרון להלן.">
 <!ENTITY continueUsing.label "כעת תוכל להמשיך להשתמש ב־&brandShortName;.">
-
 

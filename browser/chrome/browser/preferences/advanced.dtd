@@ -38,7 +38,7 @@
 <!ENTITY checkSpelling.accesskey         "א">
 
 <!ENTITY systemDefaults.label            "ברירות מחדל">
-<!--XXX--><!ENTITY alwaysCheckDefault.label        "בדוק בכל הפעלה אם &brandShortName; הוא דפדפן ברירת המחדל">
+<!ENTITY alwaysCheckDefault.label        "בדוק בכל הפעלה אם &brandShortName; הוא דפדפן ברירת המחדל"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "ת">
 <!ENTITY checkNow.label                  "בדוק כעת">
 <!ENTITY checkNow.accesskey              "כ">
@@ -87,7 +87,6 @@
 <!ENTITY updateHistory.label             "הצג היסטורית עדכונים">
 <!ENTITY updateHistory.accesskey         "צ">
 
-
 <!ENTITY useService.label                "שימוש בשירות רקע לשם התקנת עדכונים">
 <!ENTITY useService.accesskey            "b">
 
@@ -129,5 +128,4 @@
 <!ENTITY verify2.accesskey               "א">
 <!ENTITY viewSecurityDevices.label       "התקני אבטחה">
 <!ENTITY viewSecurityDevices.accesskey   "ה">
-
 
