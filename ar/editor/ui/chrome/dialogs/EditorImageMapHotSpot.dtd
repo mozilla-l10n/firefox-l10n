@@ -41,18 +41,18 @@
 
 <!ENTITY windowTitle.label "Hotspot Properties">
 
-<!ENTITY link.label "رابط بقعة ساخنة">
-<!ENTITY urlFieldset.label "محدد موقع بقعة ساخنة:">
-<!ENTITY altFieldset.label "نصّ بديل لرقعة ساخنة:">
-<!ENTITY browseButton.label "استعرض…">
+<!ENTITY link.label    "رابط بقعة ساخنة">
+<!ENTITY urlFieldset.label  "محدد موقع بقعة ساخنة:">
+<!ENTITY altFieldset.label  "نصّ بديل لرقعة ساخنة:">
+<!ENTITY browseButton.label  "استعرض…">
 <!ENTITY targetFieldset.label "إعدادات الهدف">
-<!ENTITY target.label "هدف البقعة الساخنة">
+<!ENTITY target.label   "هدف البقعة الساخنة">
 <!-- Targets -->
 
 <!ENTITY commonFieldset.label "الأهداف الشائعة:">
-<!ENTITY none.value "(لا شيء)">
-<!ENTITY same.value "نفس الإطار">
-<!ENTITY whole.value "الصفحة كلها">
-<!ENTITY new.value "نافذة جديدة">
-<!ENTITY parent.value "الإطار الأب">
+<!ENTITY none.value    "(لا شيء)">
+<!ENTITY same.value    "نفس الإطار">
+<!ENTITY whole.value   "الصفحة كلها">
+<!ENTITY new.value    "نافذة جديدة">
+<!ENTITY parent.value   "الإطار الأب">
 

@@ -36,5 +36,5 @@
  ***** END LICENSE BLOCK ***** -->
 <!-- Labels -->
 
-<!ENTITY newfolderchoosethis.label "اختر هذا للأب">
-<!ENTITY filemessageschoosethis.label "اختر هذا المجلد">
+<!ENTITY newfolderchoosethis.label      "اختر هذا للأب">
+<!ENTITY filemessageschoosethis.label   "اختر هذا المجلد">

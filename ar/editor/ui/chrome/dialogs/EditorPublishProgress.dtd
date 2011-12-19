@@ -37,14 +37,14 @@
    - ***** END LICENSE BLOCK ***** -->
 <!-- Window title -->
 
-<!ENTITY siteUrl.label "عنوان الموقع:">
-<!ENTITY docSubdir.label "مجلد الصفحات الفرعي:">
-<!ENTITY otherSubdir.label "مجلد الصور الفرعي:">
+<!ENTITY siteUrl.label         "عنوان الموقع:">
+<!ENTITY docSubdir.label       "مجلد الصفحات الفرعي:">
+<!ENTITY otherSubdir.label     "مجلد الصور الفرعي:">
 
-<!ENTITY status.label "يجري النشر…">
-<!ENTITY fileList.label "حالة النشر">
-<!ENTITY succeeded.label "نجح">
-<!ENTITY failed.label "فشل">
+<!ENTITY status.label          "يجري النشر…">
+<!ENTITY fileList.label        "حالة النشر">
+<!ENTITY succeeded.label       "نجح">
+<!ENTITY failed.label          "فشل">
 
-<!ENTITY keepOpen "أبقِ هذه النافذة مفتوحة بعد اكتمال النشر.">
-<!ENTITY closeButton.label "أغلِق">
+<!ENTITY keepOpen              "أبقِ هذه النافذة مفتوحة بعد اكتمال النشر.">
+<!ENTITY closeButton.label     "أغلِق">

@@ -1,8 +1,8 @@
-<!ENTITY itemJunk.label "سُخام">
-<!ENTITY itemPhishing.label "بريد الاحتيال">
-<!ENTITY itemPasswords.label "كلمات السر">
-<!ENTITY itemAntiVirus.label "مضاد الفيروسات">
-<!ENTITY itemCookies.label "محتوى الوب">
+<!ENTITY itemJunk.label          "سُخام">
+<!ENTITY itemPhishing.label      "بريد الاحتيال">
+<!ENTITY itemPasswords.label     "كلمات السر">
+<!ENTITY itemAntiVirus.label     "مضاد الفيروسات">
+<!ENTITY itemCookies.label       "محتوى الوب">
 <!-- Junk Mail Controls -->
 
 <!ENTITY junkMail.intro "اضبط إعدادات السخام الافتراضيَّة. يمكن ضبط إعدادات السخام الخاصة بالحساب في إعدادات الحساب.">
@@ -22,38 +22,38 @@
 <!ENTITY resetTrainingData.accesskey "ب">
 <!-- Phishing Detector -->
 
-<!ENTITY phishingDetector1.intro "يستطيع &brandShortName; تحليل الرسائل واكتشاف بريد الاحتيال المحتمل بالبحث عن وسائل الاحتيال الشهيرة.">
-<!ENTITY enablePhishingDetector1.label "أخبرني إذا كانت الرسالة التي أقرأ بريد احتيال محتمل">
-<!ENTITY enablePhishingDetector1.accesskey "خ">
+<!ENTITY phishingDetector1.intro  "يستطيع &brandShortName; تحليل الرسائل واكتشاف بريد الاحتيال المحتمل بالبحث عن وسائل الاحتيال الشهيرة.">
+<!ENTITY enablePhishingDetector1.label    "أخبرني إذا كانت الرسالة التي أقرأ بريد احتيال محتمل">
+<!ENTITY enablePhishingDetector1.accesskey  "خ">
 <!ENTITY useDownloadedList.label "استخدم قائمة منزّلة ببريد الاحتيال المحتمل">
 <!ENTITY useDownloadedList.accesskey "ت">
 <!-- Passwords -->
 
-<!ENTITY savedPasswords.intro "يستطيع &brandShortName; تذكر معلومات كلمة السر لكل حساباتك لذا لن تحتاج إلى إعادة إدخال بيانات الولوج.">
-<!ENTITY useMasterPassword.label "استخدم كلمة سر رئيسيّة">
-<!ENTITY useMasterPassword.accesskey "م">
-<!ENTITY masterPassword.intro "عند تحديدها، ستحمي كلمة السر الرئيسيّة كل كلمات السر لكن يجب إدخالها مرة لكل جلسة.">
-<!ENTITY changeMasterPassword.label "غيّر كلمة السر الرئيسيّة…">
+<!ENTITY savedPasswords.intro           "يستطيع &brandShortName; تذكر معلومات كلمة السر لكل حساباتك لذا لن تحتاج إلى إعادة إدخال بيانات الولوج.">
+<!ENTITY useMasterPassword.label        "استخدم كلمة سر رئيسيّة">
+<!ENTITY useMasterPassword.accesskey    "م">
+<!ENTITY masterPassword.intro           "عند تحديدها، ستحمي كلمة السر الرئيسيّة كل كلمات السر لكن يجب إدخالها مرة لكل جلسة.">
+<!ENTITY changeMasterPassword.label     "غيّر كلمة السر الرئيسيّة…">
 <!ENTITY changeMasterPassword.accesskey "غ">
-<!ENTITY savedPasswords.label "كلمات السر المحفوظة…">
-<!ENTITY savedPasswords.accesskey "س">
+<!ENTITY savedPasswords.label           "كلمات السر المحفوظة…">
+<!ENTITY savedPasswords.accesskey       "س">
 <!-- Anti Virus -->
 
-<!ENTITY antiVirus.intro "يستطيع &brandShortName; تسهيل مهمة مضاد الفيروسات في تحليل رسائل البريد الواردة بحثا عن فيروسات قبل حفظها محليّا.">
-<!ENTITY antiVirus.label "اسمح لمضادات الفيروسات بحجر الرسائل الواردة عن بعض">
-<!ENTITY antiVirus.accesskey "س">
+<!ENTITY antiVirus.intro      "يستطيع &brandShortName; تسهيل مهمة مضاد الفيروسات في تحليل رسائل البريد الواردة بحثا عن فيروسات قبل حفظها محليّا.">
+<!ENTITY antiVirus.label      "اسمح لمضادات الفيروسات بحجر الرسائل الواردة عن بعض">
+<!ENTITY antiVirus.accesskey  "س">
 <!-- Cookies -->
 
-<!ENTITY cookies.intro "يترك لك &brandShortName; أمر تحديد ما هي التدوينات وتلقيمات الأخبار ومواقع الوب الأخرى التي يُسمح لها بإعداد كعكات.">
-<!ENTITY acceptCookies.label "اقبل الكعكات من المواقع">
-<!ENTITY acceptCookies.accesskey "ك">
-<!ENTITY keepUntil.label "احتفظ بها حتى:">
-<!ENTITY keepUntil.accesskey "ف">
-<!ENTITY expire.label "تنتهي صلاحيتها">
-<!ENTITY close.label "أُغلق &brandShortName;">
-<!ENTITY askEachTime.label "اسألني كل مرة">
-<!ENTITY cookieExceptions.label "استثناءات…">
-<!ENTITY cookieExceptions.accesskey "ث">
-<!ENTITY showCookies.label "أظهِر الكعكات…">
-<!ENTITY showCookies.accesskey "ظ">
+<!ENTITY cookies.intro                  "يترك لك &brandShortName; أمر تحديد ما هي التدوينات وتلقيمات الأخبار ومواقع الوب الأخرى التي يُسمح لها بإعداد كعكات.">
+<!ENTITY acceptCookies.label            "اقبل الكعكات من المواقع">
+<!ENTITY acceptCookies.accesskey        "ك">
+<!ENTITY keepUntil.label                "احتفظ بها حتى:">
+<!ENTITY keepUntil.accesskey            "ف">
+<!ENTITY expire.label                   "تنتهي صلاحيتها">
+<!ENTITY close.label                    "أُغلق &brandShortName;">
+<!ENTITY askEachTime.label              "اسألني كل مرة">
+<!ENTITY cookieExceptions.label         "استثناءات…">
+<!ENTITY cookieExceptions.accesskey     "ث">
+<!ENTITY showCookies.label              "أظهِر الكعكات…">
+<!ENTITY showCookies.accesskey          "ظ">
 

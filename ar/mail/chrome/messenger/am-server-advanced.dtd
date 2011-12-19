@@ -20,7 +20,7 @@
 <!ENTITY otherUsersNamespace.accesskey "ن">
 <!ENTITY overrideNamespaces.label "اسمح للخادوم بتعديل فضاء التسمية هذا">
 <!ENTITY overrideNamespaces.accesskey "س">
-<!ENTITY pop3Desc.label "عند تنزيل بريد pop من هذا الخادوم، استخدم المجلد التالي للبريد الجديد:">
+<!ENTITY pop3Desc.label "عند تنزيل بريد pop من هذا الخادوم، استخدم المجلد التالي للبريد الجديد:" >
 <!ENTITY globalInbox.label "صندوق الوارد العام (حساب المجلدات المحليّة)">
 <!ENTITY globalInbox.accesskey "ص">
 <!ENTITY accountDirectory.label "صندوق الوارد لحساب الخادوم هذا">

@@ -4,13 +4,13 @@
 <!ENTITY biffStart.accesskey "ت">
 <!ENTITY biffEnd.label "دقائق">
 
-<!ENTITY loginAtStartup.label "التمس المقالات الجديدة عند البدء">
+<!ENTITY loginAtStartup.label "التمس المقالات الجديدة عند البدء"> 
 <!ENTITY loginAtStartup.accesskey "ء">
 
-<!ENTITY useQuickMode.label "مبدئيا، اعرض ملخص المقالة عوضا عن تحميل صفحة الوِب">
+<!ENTITY useQuickMode.label "مبدئيا، اعرض ملخص المقالة عوضا عن تحميل صفحة الوِب"> 
 <!ENTITY useQuickMode.accesskey "م">
 
-<!ENTITY manageSubscriptions.label "أدر الاشتراكات…">
+<!ENTITY manageSubscriptions.label "أدر الاشتراكات…"> 
 <!ENTITY manageSubscriptions.accesskey "د">
 <!-- entities from rss.rdf -->
 

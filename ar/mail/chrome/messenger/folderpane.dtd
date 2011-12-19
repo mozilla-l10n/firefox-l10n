@@ -34,7 +34,7 @@
  the terms of any one of the MPL, the GPL or the LGPL.
 
  ***** END LICENSE BLOCK ***** -->
-<!ENTITY nameColumn.label "الاسم">
-<!ENTITY unreadColumn.label "غير المقروء">
-<!ENTITY totalColumn.label "المجموع">
-<!ENTITY folderSizeColumn.label "الحجم">
+<!ENTITY nameColumn.label   "الاسم"> 
+<!ENTITY unreadColumn.label "غير المقروء"> 
+<!ENTITY totalColumn.label "المجموع"> 
+<!ENTITY folderSizeColumn.label "الحجم"> 

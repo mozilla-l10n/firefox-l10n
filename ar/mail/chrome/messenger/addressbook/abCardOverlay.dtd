@@ -35,9 +35,9 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY Contact.tab "المتراسل">
-<!ENTITY Contact.accesskey "س">
-<!ENTITY Name.box "الاسم">
+<!ENTITY Contact.tab                     "المتراسل">
+<!ENTITY Contact.accesskey               "س">
+<!ENTITY Name.box                        "الاسم">
 <!-- LOCALIZATION NOTE:
  NameField1, NameField2, PhoneticField1, PhoneticField2
  those fields are either LN or FN depends on the target country.
@@ -48,126 +48,126 @@
 <!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
 
 
-<!ENTITY NameField1.id "FirstName">
+<!ENTITY NameField1.id                  "FirstName">
 <!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
-<!ENTITY NameField2.id "LastName">
+<!ENTITY NameField2.id                  "LastName">
 <!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField1.id "PhoneticFirstName">
+<!ENTITY PhoneticField1.id              "PhoneticFirstName">
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
-<!ENTITY PhoneticField2.id "PhoneticLastName">
+<!ENTITY PhoneticField2.id              "PhoneticLastName">
 
-<!ENTITY NameField1.label "الأوّل:">
-<!ENTITY NameField1.accesskey "و">
-<!ENTITY NameField2.label "الأخير:">
-<!ENTITY NameField2.accesskey "خ">
-<!ENTITY PhoneticField1.label "صوتي:">
-<!ENTITY PhoneticField2.label "صوتي:">
-<!ENTITY DisplayName.label "العرض:">
-<!ENTITY DisplayName.accesskey "ع">
-<!ENTITY preferDisplayName.label "فضِّل دائمًا الاسم المعروض على ترويسة الرسالة">
-<!ENTITY preferDisplayName.accesskey "ئ">
-<!ENTITY NickName.label "الكنية:">
-<!ENTITY NickName.accesskey "ك">
+<!ENTITY NameField1.label               "الأوّل:">
+<!ENTITY NameField1.accesskey           "و">
+<!ENTITY NameField2.label               "الأخير:">
+<!ENTITY NameField2.accesskey           "خ">
+<!ENTITY PhoneticField1.label           "صوتي:">
+<!ENTITY PhoneticField2.label           "صوتي:">
+<!ENTITY DisplayName.label              "العرض:">
+<!ENTITY DisplayName.accesskey          "ع">
+<!ENTITY preferDisplayName.label        "فضِّل دائمًا الاسم المعروض على ترويسة الرسالة">
+<!ENTITY preferDisplayName.accesskey    "ئ">
+<!ENTITY NickName.label                 "الكنية:">
+<!ENTITY NickName.accesskey             "ك">
 
-<!ENTITY PrimaryEmail.label "البريد:">
-<!ENTITY PrimaryEmail.accesskey "ب">
-<!ENTITY SecondEmail.label "البريد الإضافي:">
-<!ENTITY SecondEmail.accesskey "ض">
-<!ENTITY PreferMailFormat.label "يفضل استقبال الرسائل المنسقة ك‍:">
-<!ENTITY PreferMailFormat.accesskey "ف">
-<!ENTITY PlainText.label "نص صرف">
-<!ENTITY HTML.label "HTML">
-<!ENTITY Unknown.label "مجهول">
-<!ENTITY ScreenName.label "اسم الشاشة:">
-<!ENTITY ScreenName.accesskey "س">
+<!ENTITY PrimaryEmail.label             "البريد:">
+<!ENTITY PrimaryEmail.accesskey         "ب">
+<!ENTITY SecondEmail.label              "البريد الإضافي:">
+<!ENTITY SecondEmail.accesskey          "ض">
+<!ENTITY PreferMailFormat.label         "يفضل استقبال الرسائل المنسقة ك‍:">
+<!ENTITY PreferMailFormat.accesskey     "ف">
+<!ENTITY PlainText.label                "نص صرف">
+<!ENTITY HTML.label                     "HTML">
+<!ENTITY Unknown.label                  "مجهول">
+<!ENTITY ScreenName.label               "اسم الشاشة:">
+<!ENTITY ScreenName.accesskey           "س">
 
-<!ENTITY allowRemoteContent1.label "اسمح بالمحتوى البعيد.">
-<!ENTITY allowRemoteContent1.accesskey "ع">
-<!ENTITY allowRemoteContent1.tooltip "من الممكن تضمين محتوى من مصادر بعيدة في رسائل HTML. سيؤدي فتح هذه الرسائل إلى إنشاء اتصال مع المصدر الخارجي. قد يسمح ذلك باقتفاء أثر الرسالة التي تُقرأ. إذا أشّرتَ على هذا الصندوق، فستسمح بعرض المحتوى المضمّن البعيد في رسائل HTML القادمة من هذا المتراسل.">
+<!ENTITY allowRemoteContent1.label      "اسمح بالمحتوى البعيد.">
+<!ENTITY allowRemoteContent1.accesskey  "ع">
+<!ENTITY allowRemoteContent1.tooltip    "من الممكن تضمين محتوى من مصادر بعيدة في رسائل HTML. سيؤدي فتح هذه الرسائل إلى إنشاء اتصال مع المصدر الخارجي. قد يسمح ذلك باقتفاء أثر الرسالة التي تُقرأ. إذا أشّرتَ على هذا الصندوق، فستسمح بعرض المحتوى المضمّن البعيد في رسائل HTML القادمة من هذا المتراسل.">
 
-<!ENTITY WorkPhone.label "العمل:">
-<!ENTITY WorkPhone.accesskey "ع">
-<!ENTITY HomePhone.label "المنزل">
-<!ENTITY HomePhone.accesskey "م">
-<!ENTITY FaxNumber.label "الفاكس:">
-<!ENTITY FaxNumber.accesskey "ف">
-<!ENTITY PagerNumber.label "جهاز الاستدعاء">
-<!ENTITY PagerNumber.accesskey "ج">
-<!ENTITY CellularNumber.label "المحمول:">
-<!ENTITY CellularNumber.accesskey "م">
+<!ENTITY WorkPhone.label                "العمل:">
+<!ENTITY WorkPhone.accesskey            "ع">
+<!ENTITY HomePhone.label                "المنزل">
+<!ENTITY HomePhone.accesskey            "م">
+<!ENTITY FaxNumber.label                "الفاكس:">
+<!ENTITY FaxNumber.accesskey            "ف">
+<!ENTITY PagerNumber.label              "جهاز الاستدعاء">
+<!ENTITY PagerNumber.accesskey          "ج">
+<!ENTITY CellularNumber.label           "المحمول:">
+<!ENTITY CellularNumber.accesskey       "م">
 
-<!ENTITY Home.tab "خاص">
-<!ENTITY Home.accesskey "خ">
-<!ENTITY HomeAddress.label "العنوان:">
-<!ENTITY HomeAddress.accesskey "ن">
-<!ENTITY HomeAddress2.label "">
-<!ENTITY HomeAddress2.accesskey "">
-<!ENTITY HomeCity.label "المدينة:">
-<!ENTITY HomeCity.accesskey "ة">
-<!ENTITY HomeState.label "الولاية/المحافظة:">
-<!ENTITY HomeState.accesskey "و">
-<!ENTITY HomeZipCode.label "الرمز البريدي:">
-<!ENTITY HomeZipCode.accesskey "ي">
-<!ENTITY HomeCountry.label "الدولة:">
-<!ENTITY HomeCountry.accesskey "ل">
-<!ENTITY HomeWebPage.label "صفحة الوِب:">
-<!ENTITY HomeWebPage.accesskey "ب">
-<!ENTITY Birthday.label "تاريخ الميلاد:">
-<!ENTITY Birthday.accesskey "خ">
-<!ENTITY In.label "">
-<!ENTITY Year.placeholder "السنة">
-<!ENTITY Or.value "أو">
-<!ENTITY Age.placeholder "العمر">
-<!ENTITY YearsOld.label "">
+<!ENTITY Home.tab                       "خاص">
+<!ENTITY Home.accesskey                 "خ">
+<!ENTITY HomeAddress.label              "العنوان:">
+<!ENTITY HomeAddress.accesskey          "ن">
+<!ENTITY HomeAddress2.label             "">
+<!ENTITY HomeAddress2.accesskey         "">
+<!ENTITY HomeCity.label                 "المدينة:">
+<!ENTITY HomeCity.accesskey             "ة">
+<!ENTITY HomeState.label                "الولاية/المحافظة:">
+<!ENTITY HomeState.accesskey            "و">
+<!ENTITY HomeZipCode.label              "الرمز البريدي:">
+<!ENTITY HomeZipCode.accesskey          "ي">
+<!ENTITY HomeCountry.label              "الدولة:">
+<!ENTITY HomeCountry.accesskey          "ل">
+<!ENTITY HomeWebPage.label              "صفحة الوِب:">
+<!ENTITY HomeWebPage.accesskey          "ب">
+<!ENTITY Birthday.label                 "تاريخ الميلاد:">
+<!ENTITY Birthday.accesskey             "خ">
+<!ENTITY In.label                       "">
+<!ENTITY Year.placeholder               "السنة">
+<!ENTITY Or.value                       "أو">
+<!ENTITY Age.placeholder                "العمر">
+<!ENTITY YearsOld.label                 "">
 
-<!ENTITY Work.tab "العمل">
-<!ENTITY Work.accesskey "ع">
-<!ENTITY JobTitle.label "العنوان:">
-<!ENTITY JobTitle.accesskey "ا">
-<!ENTITY Department.label "القِسْم:">
-<!ENTITY Department.accesskey "س">
-<!ENTITY Company.label "المنظّمة:">
-<!ENTITY Company.accesskey "ظ">
-<!ENTITY WorkAddress.label "العنوان:">
-<!ENTITY WorkAddress.accesskey "ل">
-<!ENTITY WorkAddress2.label "">
-<!ENTITY WorkAddress2.accesskey "">
-<!ENTITY WorkCity.label "المدينة:">
-<!ENTITY WorkCity.accesskey "د">
-<!ENTITY WorkState.label "الولاية/المحافظة:">
-<!ENTITY WorkState.accesskey "ح">
-<!ENTITY WorkZipCode.label "الرمز البريدي:">
-<!ENTITY WorkZipCode.accesskey "ز">
-<!ENTITY WorkCountry.label "الدولة:">
-<!ENTITY WorkCountry.accesskey "ة">
-<!ENTITY WorkWebPage.label "صفحة الوِب:">
-<!ENTITY WorkWebPage.accesskey "ص">
+<!ENTITY Work.tab                       "العمل">
+<!ENTITY Work.accesskey                 "ع">
+<!ENTITY JobTitle.label                 "العنوان:">
+<!ENTITY JobTitle.accesskey             "ا">
+<!ENTITY Department.label               "القِسْم:">
+<!ENTITY Department.accesskey           "س">
+<!ENTITY Company.label                  "المنظّمة:">
+<!ENTITY Company.accesskey              "ظ">
+<!ENTITY WorkAddress.label              "العنوان:">
+<!ENTITY WorkAddress.accesskey          "ل">
+<!ENTITY WorkAddress2.label             "">
+<!ENTITY WorkAddress2.accesskey         "">
+<!ENTITY WorkCity.label                 "المدينة:">
+<!ENTITY WorkCity.accesskey             "د">
+<!ENTITY WorkState.label                "الولاية/المحافظة:">
+<!ENTITY WorkState.accesskey            "ح">
+<!ENTITY WorkZipCode.label              "الرمز البريدي:">
+<!ENTITY WorkZipCode.accesskey          "ز">
+<!ENTITY WorkCountry.label              "الدولة:">
+<!ENTITY WorkCountry.accesskey          "ة">
+<!ENTITY WorkWebPage.label              "صفحة الوِب:">
+<!ENTITY WorkWebPage.accesskey          "ص">
 
-<!ENTITY Other.tab "أُخرى">
-<!ENTITY Other.accesskey "ى">
-<!ENTITY Custom1.label "مخصّص 1:">
-<!ENTITY Custom1.accesskey "1">
-<!ENTITY Custom2.label "مخصّص 2:">
-<!ENTITY Custom2.accesskey "2">
-<!ENTITY Custom3.label "مخصّص 3:">
-<!ENTITY Custom3.accesskey "3">
-<!ENTITY Custom4.label "مخصّص 4:">
-<!ENTITY Custom4.accesskey "4">
-<!ENTITY Notes.label "المذكّرات:">
-<!ENTITY Notes.accesskey "م">
+<!ENTITY Other.tab                      "أُخرى">
+<!ENTITY Other.accesskey                "ى">
+<!ENTITY Custom1.label                  "مخصّص 1:">
+<!ENTITY Custom1.accesskey              "1">
+<!ENTITY Custom2.label                  "مخصّص 2:">
+<!ENTITY Custom2.accesskey              "2">
+<!ENTITY Custom3.label                  "مخصّص 3:">
+<!ENTITY Custom3.accesskey              "3">
+<!ENTITY Custom4.label                  "مخصّص 4:">
+<!ENTITY Custom4.accesskey              "4">
+<!ENTITY Notes.label                    "المذكّرات:">
+<!ENTITY Notes.accesskey                "م">
 
-<!ENTITY Photo.tab "صورة">
-<!ENTITY Photo.accesskey "ة">
-<!ENTITY PhotoDesc.label "اختر واحدة من الآتي:">
-<!ENTITY GenericPhoto.label "صورة عمومية">
-<!ENTITY GenericPhoto.accesskey "ع">
-<!ENTITY DefaultPhoto.label "مبدئية">
-<!ENTITY PhotoFile.label "في هذا الحاسوب">
-<!ENTITY PhotoFile.accesskey "ف">
-<!ENTITY BrowsePhoto.label "استعرض">
-<!ENTITY BrowsePhoto.accesskey "ر">
-<!ENTITY PhotoURL.label "في الوب">
-<!ENTITY PhotoURL.accesskey "و">
-<!ENTITY PhotoURL.placeholder "ألصِق أو اكتب وصلة الصورة">
-<!ENTITY UpdatePhoto.label "حدّث">
-<!ENTITY UpdatePhoto.accesskey "ث">
+<!ENTITY Photo.tab                      "صورة">
+<!ENTITY Photo.accesskey                "ة">
+<!ENTITY PhotoDesc.label                "اختر واحدة من الآتي:">
+<!ENTITY GenericPhoto.label             "صورة عمومية">
+<!ENTITY GenericPhoto.accesskey         "ع">
+<!ENTITY DefaultPhoto.label             "مبدئية">
+<!ENTITY PhotoFile.label                "في هذا الحاسوب">
+<!ENTITY PhotoFile.accesskey            "ف">
+<!ENTITY BrowsePhoto.label              "استعرض">
+<!ENTITY BrowsePhoto.accesskey          "ر">
+<!ENTITY PhotoURL.label                 "في الوب">
+<!ENTITY PhotoURL.accesskey             "و">
+<!ENTITY PhotoURL.placeholder           "ألصِق أو اكتب وصلة الصورة">
+<!ENTITY UpdatePhoto.label              "حدّث">
+<!ENTITY UpdatePhoto.accesskey          "ث">
