@@ -49,7 +49,7 @@ that &brandShortName; is permitted to access the Web.</li>
 
 <!ENTITY netOffline.title "Kit ma pe i wiyamo">
 <!ENTITY netOffline.longDesc2 "<ul> 
-<li>Dii &coc;Tem doki&coc; me kobo i kit matye iwi yamo ki nwo pango pot karatac.</li> 
+<li>Dii &quot;Tem doki&quot; me kobo i kit matye iwi yamo ki nwo pango pot karatac.</li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "Gin matye iye Tye kajogo Bal">
