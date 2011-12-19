@@ -1,15 +1,16 @@
 <!--
 # Translator(s):
 #
+# Tomer Cohen <tomer.mozilla@tomercohen.com>
 # amire80 <amir.aharoni@mail.huji.ac.il>
-# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
-# elad <el.il@doom.co.il>
+# Yaron <sh.yaron@gmail.com>
 #
 -->
 <!--
 # Reviewer(s):
 #
-# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+# Tomer Cohen <tomer.mozilla@tomercohen.com>
+# hatul <amiadb@gmail.com>
 #
 -->
 <!-- LOCALIZATION NOTE : FILE This file contains the Scratchpad window strings -->
@@ -24,7 +25,7 @@
   -  "Scratchpad" in your locale. You should feel free to find a close
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
-<!ENTITY window.title                 "דף טיוטה">
+<!ENTITY window.title                 "Scratchpad">
 
 <!ENTITY fileMenu.label               "קובץ">
 <!ENTITY fileMenu.accesskey           "ק">
@@ -35,53 +36,53 @@
 
 <!ENTITY openFileCmd.label            "פתיחת קובץ…">
 <!ENTITY openFileCmd.accesskey        "פ">
-<!ENTITY openFileCmd.commandkey       "o">
+<!ENTITY openFileCmd.commandkey       "פ">
 
 <!ENTITY saveFileCmd.label            "שמירה">
 <!ENTITY saveFileCmd.accesskey        "ש">
-<!ENTITY saveFileCmd.commandkey       "s">
+<!ENTITY saveFileCmd.commandkey       "ש">
 
 <!ENTITY saveFileAsCmd.label          "שמירה בשם…">
 <!ENTITY saveFileAsCmd.accesskey      "ש">
 
 <!ENTITY closeCmd.label               "סגירה">
-<!ENTITY closeCmd.key                 "W">
+<!ENTITY closeCmd.key                 "ס">
 <!ENTITY closeCmd.accesskey           "ס">
 
 <!ENTITY editMenu.label               "עריכה">
 <!ENTITY editMenu.accesskey           "ע">
 
-<!ENTITY undoCmd.label                "ביטול">
-<!ENTITY undoCmd.key                  "Z">
+<!ENTITY undoCmd.label                "ביטול פעולה אחרונה">
+<!ENTITY undoCmd.key                  "ב">
 <!ENTITY undoCmd.accesskey            "ב">
 
 <!ENTITY redoCmd.label                "ביצוע חוזר">
-<!ENTITY redoCmd.key                  "Y">
+<!ENTITY redoCmd.key                  "ב">
 <!ENTITY redoCmd.accesskey            "ב">
 
 <!ENTITY cutCmd.label                 "גזירה">
-<!ENTITY cutCmd.key                   "X">
+<!ENTITY cutCmd.key                   "ג">
 <!ENTITY cutCmd.accesskey             "ג">
 
 <!ENTITY copyCmd.label                "העתקה">
-<!ENTITY copyCmd.key                  "C">
+<!ENTITY copyCmd.key                  "ה">
 <!ENTITY copyCmd.accesskey            "ה">
 
 <!ENTITY pasteCmd.label               "הדבקה">
-<!ENTITY pasteCmd.key                 "V">
+<!ENTITY pasteCmd.key                 "ה">
 <!ENTITY pasteCmd.accesskey           "ה">
 
 <!ENTITY selectAllCmd.label           "בחר הכול">
-<!ENTITY selectAllCmd.key             "A">
+<!ENTITY selectAllCmd.key             "ב">
 <!ENTITY selectAllCmd.accesskey       "ב">
 
 <!ENTITY run.label                    "הרצה">
-<!ENTITY run.accesskey                "ה">
-<!ENTITY run.key                      "r">
+<!ENTITY run.accesskey                "ר">
+<!ENTITY run.key                      "R">
 
 <!ENTITY inspect.label                "חקירה">
 <!ENTITY inspect.accesskey            "ח">
-<!ENTITY inspect.key                  "i">
+<!ENTITY inspect.key                  "ח">
 
 <!ENTITY display.label                "תצוגה">
 <!ENTITY display.accesskey            "ת">
@@ -109,24 +110,24 @@
 <!ENTITY browserContext.label         "דפדפן">
 <!ENTITY browserContext.accesskey     "ד">
 
-<!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
+<!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
-<!ENTITY resetContext.label           "איפוס">
-<!ENTITY resetContext.accesskey       "א">
+<!ENTITY resetContext2.label          "איפוס משתנים">
+<!ENTITY resetContext2.accesskey      "א">
 
 <!ENTITY executeMenu.label            "ביצוע">
 <!ENTITY executeMenu.accesskey        "ב">
 
-<!ENTITY toolsMenu.label              "כלים">
-<!ENTITY toolsMenu.accesskey          "כ">
-
-<!ENTITY errorConsoleCmd.label        "מסוף שגיאות">
-<!ENTITY errorConsoleCmd.accesskey    "מ">
+<!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
+  -  the browser Error Console, the key should be identical to the property of
+  -  the same name in browser.dtd.
+  -->
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY webConsoleCmd.label          "מסוף רשת">
-<!ENTITY webConsoleCmd.accesskey      "מ">
+<!-- LOCALIZATION NOTE (webConsoleCmd.commandkey): This command key launches
+  -  the browser WebConsole, the key should be identical to the property of
+  -  the same name in browser.dtd.
+  -->
 <!ENTITY webConsoleCmd.commandkey     "k">
-
 
