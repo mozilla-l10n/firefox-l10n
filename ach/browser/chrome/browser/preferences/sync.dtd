@@ -17,7 +17,7 @@
 <!ENTITY myRecoveryKey.label          "Lagony mega me Nongo">
 <!ENTITY resetSync2.label             "Dwok cen Sync…">
 
-<!ENTITY addDevice.label              "Med Nyony tic">
+<!ENTITY pairDevice.label             "Ket Nyonyo aryo aryo">
 
 <!ENTITY syncMy.label               "Sync Para">
 <!ENTITY engine.bookmarks.label     "Bukalama">

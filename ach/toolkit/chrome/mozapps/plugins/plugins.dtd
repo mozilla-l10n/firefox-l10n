@@ -21,6 +21,7 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; mito nitit pi gi rwako me tic.">
 
 <!ENTITY missingPlugin                                       "Gi rwako mite me yaro gin manonge iye kamaleng.">
+<!ENTITY clickToPlayPlugin                                   "Gwet kany me mino keto iyie.">
 <!ENTITY disabledPlugin                                      "Gi rwako ma eni ni kikwanyo woko.">
 <!ENTITY blockedPlugin.label                                 "Gi rwako ma eni ni ki gengo woko pi konyi gwoko.">
 
@@ -33,8 +34,8 @@
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "Cak doki pot karatac">
 <!ENTITY reloadPlugin.post                                   " me temo doki.">
-<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.please                                       "Cwal ngec ikom bal">
+<!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.checkbox                                     "…ki cwal ngec pi poto atura">
 <!ENTITY report.submitting                                   "Tye ka cwalo ngec…">
 <!ENTITY report.submitted                                    "Ngec me bal kicwalo.">
 <!ENTITY report.disabled                                     "Ngec me bal kikwanyo woko.">

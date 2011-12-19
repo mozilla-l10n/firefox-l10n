@@ -1,1 +1,1 @@
-#define MOZ_LANG_TITLE Leb munu
+#define MOZ_LANG_TITLE Acholi (UG)

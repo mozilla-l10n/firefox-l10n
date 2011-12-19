@@ -40,8 +40,8 @@
 
 <!ENTITY allowScripts.label             "Yee ki coc me:">
 
-<!ENTITY moveResizeWindows.label        "Nyik nyo lok caji pa dirija ma kombedi">
-<!ENTITY moveResizeWindows.accesskey    "N">
+<!ENTITY moveResizePopupWindows.label     "Nyik onyo lok dit pa dirija ma pye atura">
+<!ENTITY moveResizePopupWindows.accesskey "N">
 <!ENTITY raiseLowerWindows.label        "Nyik malu nyo dwok ping dirija">
 <!ENTITY raiseLowerWindows.accesskey    "N">
 <!ENTITY disableContextMenus.label      "Mi ka nongo pe tii onyo lok">

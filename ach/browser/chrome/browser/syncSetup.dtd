@@ -1,13 +1,12 @@
-<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; tero">
+<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; tera">
 <!-- First page of the wizard -->
 
 
 <!ENTITY setup.pickSetupType.description "Ojoli, ka pwod pe itiyo ki &syncBrand.fullName.label; mapwod, myero icwe akaunti manyen.">
 <!ENTITY button.createNewAccount.label "Cwe Akaunti Manyen">
-<!ENTITY setup.haveAccount.label "An dong atye ki &syncBrand.fullName.label; akaunti.">
-<!ENTITY button.connect.label    "Kub">
+<!ENTITY button.haveAccount.label      "Atye ki Akaunti">
 
-<!ENTITY setup.choicePage.title.label     "Itiyo kony ki &syncBrand.fullName.label; mapwod?">
+<!ENTITY setup.choicePage.title.label     "I tiyo ki &syncBrand.fullName.label; mapwod?">
 <!ENTITY setup.choicePage.new.label       "Pwod pe atiyo &syncBrand.shortName.label; kwede">
 <!ENTITY setup.choicePage.existing.label  "An bene atye katic ki &syncBrand.shortName.label; i kompiuta mapat">
 <!-- New Account AND Existing Account -->
@@ -39,7 +38,7 @@
 <!ENTITY setup.ppLink.label         "Cik pa dano">
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
-<!-- New Account Page 2: Sync Key -->
+<!-- My Recovery Key dialog -->
 
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; Gwoko imung mamegi">
 <!ENTITY setup.newRecoveryKeyPage.description.label "Pi mino imung mamegi odoco, tic mamegi weng kiyungo tye kaketo. Lagony me Sync mapore pi jungo tic mamegi pe kiketo.">
@@ -52,19 +51,17 @@
 <!ENTITY button.syncKeyBackup.print.accesskey "G">
 <!ENTITY button.syncKeyBackup.save.label      "Gwok…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "G">
-<!-- New Account Page 3: Captcha -->
+<!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
 
-<!ENTITY setup.captchaPage2.title.label     "Tim ber imok ni yin pe ibedo Robot">
-<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "Med Nyonyo">
+<!ENTITY pairDevice.title.label             "Ket Nyonyo aryo aryo">
 <!ENTITY addDevice.showMeHow.label          "Nyuta yore mene.">
 <!ENTITY addDevice.dontHaveDevice.label     "Ape ki nyonyo bota">
-<!ENTITY addDevice.setup.description.label  "Me mino tic, wot i &syncBrand.shortName.label; Me ayera ikom nyonyo mamegi mukene ki yer &#x0022;Add a Device&#x0022;.">
+<!ENTITY pairDevice.setup.description.label  "Pi mino tic, yer &#x0022; ket Nyonyo aryo aryo&#x0022; ikom nyonyo mukene.">
 <!ENTITY addDevice.setup.enterCode.label    "Eka, ket nyig coc man:">
-<!ENTITY addDevice.dialog.description.label "Pi mino nyonyo mamegi manyen tic, wot i &syncBrand.shortName.label; Me ayera ikom nyonyo ki yer &#x0022;Connect.&#x0022;">
+<!ENTITY pairDevice.dialog.description.label "Pi mino nyonyo pari mmanyen tic, yer &#x0022;S Ter Sync&#x0022; ikom nyonyo.">
 <!ENTITY addDevice.dialog.enterCode.label   "Ket nyig coc ma nyonyo gabo:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Tim ber item doki.">
-<!ENTITY addDevice.dialog.successful.label  "Kityeko medo nyonyo maber. Ket matye romo tero dakika mapol ki bityeko  yonge.">
+<!ENTITY addDevice.dialog.successful.label  "Kityeko medo nyonyo maber. Ket matye romo tero dakika mapol ki bityeko yonge.">
 <!ENTITY addDevice.dialog.recoveryKey.label     "Pi mino nyonyo mamegi tic myero iket lagony me Sync. Tim ber igoo onyo igwok lagony man ki iwot kwede.">
 <!ENTITY addDevice.dialog.connected.label   "Kikubo nyonyo">
 <!-- Existing Account Page 2: Manual Login -->

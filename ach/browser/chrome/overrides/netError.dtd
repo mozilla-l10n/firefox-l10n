@@ -44,9 +44,12 @@ that &brandShortName; is permitted to access the Web.</li>
 <!ENTITY netInterrupt.title "Onongo kibalo kube woko">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY netOffline.title "Kit mape i wiyamo">
+<!ENTITY notCached.title "Kare me Coc acoya okato woko">
+<!ENTITY notCached.longDesc "<p>Coc acoya ma kikwayo pire pe nonge i &brandShortName;'s cache.</p><ul><li>Macalo bal, &brandShortName; pe romo dok mede kwayo coc acoya ma poo pire kene.</li><li>Dii tem doki wek i kwa coc acoya ki kakube me Web nitit.</li></ul>">
+
+<!ENTITY netOffline.title "Kit ma pe i wiyamo">
 <!ENTITY netOffline.longDesc2 "<ul> 
-<li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li> 
+<li>Dii &coc;Tem doki&coc; me kobo i kit matye iwi yamo ki nwo pango pot karatac.</li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "Gin matye iye Tye kajogo Bal">
@@ -126,7 +129,7 @@ ni &brandShortName; kimino twero me donyo i Web.</li>
 <p>kit buyu Web magi kitiyo kwede i kwo ma ngene calo cobo, ma pot karatac ata ki email kitiyo kwede me ka ma in igeno.</p>">
 
 <!ENTITY cspFrameAncestorBlocked.title "Kigengo ne ki Cik me Gwoko kuc pa jami matye iye">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; Otyeko gengo pot karatac man ki pango iyore man pien pot karatac tye ki cik me jami mmatye iye mape yee en.</p>">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; Otyeko gengo pot karatac man ki pango iyore man pien pot karatac tye ki cik me jami matye iye mape yee en.</p>">
 
 <!ENTITY corruptedContentError.title "Bal me Jami Matye Iye">
 <!ENTITY corruptedContentError.longDesc "<p>Pot karatac ma i tye katemo neno ne pe romo nyutu pien bal me cwalo tic onyutu.</p><ul><li>Tim ber i kube wegi di bar me Web me mino gi ngec pi peko man.</li></ul>">
@@ -146,5 +149,5 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-<!ENTITY remoteXUL.title "XUL  Mape ki waya">
+<!ENTITY remoteXUL.title "XUL Mape ki waya">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Tim ber i kube ki wegi di bar me Web ci i mi gi ngec pi peko man.</li></ul></p>">

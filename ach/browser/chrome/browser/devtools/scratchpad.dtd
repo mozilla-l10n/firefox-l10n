@@ -94,23 +94,24 @@
 
 <!ENTITY browserContext.label         "Layeny">
 <!ENTITY browserContext.accesskey     "L">
-<!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
+<!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
 
-<!ENTITY resetContext.label           "Ter nitit">
-<!ENTITY resetContext.accesskey       "T">
+<!ENTITY resetContext2.label          "Ter nitit Alama">
+<!ENTITY resetContext2.accesskey      "r">
 
 <!ENTITY executeMenu.label            "Tii">
 <!ENTITY executeMenu.accesskey        "i">
+<!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
+  -  the browser Error Console, the key should be identical to the property of
+  -  the same name in browser.dtd.
+  -->
 
-<!ENTITY toolsMenu.label              "Gitic">
-<!ENTITY toolsMenu.accesskey          "G">
-
-<!ENTITY errorConsoleCmd.label        "Bal Coc">
-<!ENTITY errorConsoleCmd.accesskey    "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
+<!-- LOCALIZATION NOTE (webConsoleCmd.commandkey): This command key launches
+  -  the browser WebConsole, the key should be identical to the property of
+  -  the same name in browser.dtd.
+  -->
 
-<!ENTITY webConsoleCmd.label          "Coc me Web">
-<!ENTITY webConsoleCmd.accesskey      "C">
 <!ENTITY webConsoleCmd.commandkey     "k">

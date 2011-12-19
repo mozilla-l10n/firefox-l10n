@@ -90,6 +90,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "K">
 <!ENTITY fullScreenExit.label "Pye Kit kio me Wang kompiuta Lung">
 <!ENTITY fullScreenExit.accesskey "K">
+<!ENTITY domFullScreenWarning.label "Dii ESC me weko kit kio me kompiuta lung">
 
 <!ENTITY closeWindow.label "Ceg Dirija">
 <!ENTITY closeWindow.accesskey "j">
@@ -212,9 +213,12 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectPanelTitle.label      "HTML">
-<!ENTITY inspectButton.label          "Kwedi">
-<!ENTITY inspectButton.accesskey      "K">
+<!ENTITY inspectPanelTitle.label        "HTML">
+<!ENTITY inspectButton.label            "Kwedi">
+<!ENTITY inspectButton.accesskey        "K">
+<!ENTITY inspectCloseButton.tooltiptext "Ceg Lakwed te">
+<!ENTITY inspectStyleButton.label     "Kite">
+<!ENTITY inspectStyleButton.accesskey "K">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Nong Gitic mapol">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "G">
@@ -432,6 +436,12 @@ can reach it easily. -->
 <!ENTITY mediaHideControls.accesskey "G">
 <!ENTITY videoFullScreen.label       "Wang kio me kompiuta lung">
 <!ENTITY videoFullScreen.accesskey   "W">
+<!ENTITY videoSaveImage.label        "Gwok cal Calo...">
+<!ENTITY videoSaveImage.accesskey    "G">
+<!ENTITY videoShowStats.label        "Nyut Cura ne">
+<!ENTITY videoShowStats.accesskey    "u">
+<!ENTITY videoHideStats.label        "Kan Cura ne">
+<!ENTITY videoHideStats.accesskey    "u">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
@@ -439,8 +449,7 @@ If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
 
-
-<!ENTITY fullZoomEnlargeCmd.label       "Dwok Iyie">
+<!ENTITY fullZoomEnlargeCmd.label       "Dwok I ie">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "I">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
@@ -452,8 +461,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
-<!ENTITY fullZoomResetCmd.label         "Nwo Tero">
-<!ENTITY fullZoomResetCmd.accesskey     "N">
+<!ENTITY fullZoomResetCmd.label         "Ter mitit">
+<!ENTITY fullZoomResetCmd.accesskey     "T">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
@@ -462,7 +471,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Dwoki">
 <!ENTITY fullZoom.accesskey             "D">
 
-<!ENTITY newTabButton.tooltip           "Yab lanyik manyen">
+<!ENTITY newTabButton.tooltip           "Yab tab manyen">
 <!ENTITY newWindowButton.tooltip        "Yab Dirija manyen">
 <!ENTITY sidebarCloseButton.tooltip     "Ceg bar me kabedo">
 
@@ -547,10 +556,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY downloadMonitor2.tooltip "Dii wek oyab Golo Dirija">
 
-<!ENTITY allTabs.filter.emptyText "Yeny Lanyik">
+<!ENTITY allTabs.filter.emptyText "Yeny Tab">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
-<!ENTITY tabsToolbar.label "Yeny lanyik">
+<!ENTITY tabsToolbar.label "Yeny tab">
 <!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
 
 <!ENTITY syncTabsMenu.label     "Nyik Ki Kompiuta mapat">

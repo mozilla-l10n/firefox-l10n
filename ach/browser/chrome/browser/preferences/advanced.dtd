@@ -54,38 +54,44 @@
 <!ENTITY limitCacheSizeAfter.label       "rwom me MB">
 <!ENTITY clearCacheNow.label             "Kwany kombedi">
 <!ENTITY clearCacheNow.accesskey         "K">
-<!ENTITY overrideSmartCacheSize.label    "Lee kit ne ma kene ki kite me yiko gwoko">
+<!ENTITY overrideSmartCacheSize.label    "Le kit ne ma kene ki kite me yiko gwoko">
 <!ENTITY overrideSmartCacheSize.accesskey "L">
 
 <!ENTITY updateTab.label                 "Ngec">
 
-<!ENTITY autoCheck.label                 "Yeny pi lamed ikit ma kene iyi:">
-<!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate2.label       "Lamed-iwiye">
-<!ENTITY enableAddonsUpdate2.accesskey   "w">
+<!ENTITY updateApp.label                 "&brandShortName; Ngec:">
+<!ENTITY updateAuto.label                "Ket ngec pire kene (kimoko woko: gwoko kuc ma ki yubo)">
+<!ENTITY updateAuto.accesskey            "K">
+<!ENTITY updateCheck.label               "Rot pi ngec, ento wek ayer ka aromo keto gi">
+<!ENTITY updateCheck.accesskey           "R">
+<!ENTITY updateManual.label              "Pe i rot pi ngec (pe kimoko: twero me gwoko kuc)">
+<!ENTITY updateManual.accesskey          "P">
+
+<!ENTITY updateAutoAddonWarn.label       "Kwenyoro an ka ma eni ni obi mino lamed pe tiyo kakare">
+<!ENTITY updateAutoAddonWarn.accesskey   "K">
+
+<!ENTITY updateHistory.label             "Nyut Ngec Mukato">
+<!ENTITY updateHistory.accesskey         "g">
+
+<!ENTITY useService.label                "Tii ki tic me gin ma nen pi keto ngec">
+<!ENTITY useService.accesskey            "t">
+
+<!ENTITY updateOthers.label              "Ket ngec pire kene:">
+<!ENTITY enableAddonsUpdate3.label       "Lamed-iwiye">
+<!ENTITY enableAddonsUpdate3.accesskey   "w">
 <!ENTITY enableSearchUpdate.label        "Ka Yenyo">
 <!ENTITY enableSearchUpdate.accesskey    "Y">
-<!ENTITY whenUpdatesFound.label          "Ka lamed pi &brandShortName; ginongo:">
-<!ENTITY askMe.label                     "Penya ka inoti timo">
-<!ENTITY askMe.accesskey                 "n">
-<!ENTITY modeAutomatic.label             "Kwany kene te keto lamed">
-<!ENTITY modeAutomatic.accesskey         "K">
-<!ENTITY modeAutoAddonWarn.label         "Kwenyoro an ka gin amn obi miyo lamed pe tiyo">
-<!ENTITY modeAutoAddonWarn.accesskey     "K">
-<!ENTITY updateHistory.label             "Nyut Lamed macon">
-<!ENTITY updateHistory.accesskey         "m">
 
-<!ENTITY offlineNotify.label             "Mi an ange ka kakube mito ni ikan jami pi tic labongo kakube">
+<!ENTITY offlineNotify.label             "Mi an ange ka kakube mito ni ikan jami pi tic labongo kube iwi yamo">
 <!ENTITY offlineNotify.accesskey         "M">
 <!ENTITY offlineNotifyExceptions.label   "Mukene…">
 <!ENTITY offlineNotifyExceptions.accesskey "u">
 
-<!ENTITY offlineAppsList.label           "Kakube man gutye ki jami me tic labongo kakube:">
+<!ENTITY offlineAppsList.label           "Kakube man gutye ki jami me tic labongo kube iwi yamo:">
 <!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Kwany…">
+<!ENTITY offlineAppsListRemove.label     "Kwany woko…">
 <!ENTITY offlineAppsListRemove.accesskey "K">
-<!ENTITY offlineAppRemove.confirm        "Kwany jami ma pe iyi gikube">
+<!ENTITY offlineAppRemove.confirm        "Kwany woko jami ma pe iwi yamo">
 
 <!ENTITY encryptionTab.label             "Kano">
 
@@ -94,9 +100,9 @@
 <!ENTITY useSSL3.accesskey               "3">
 <!ENTITY useTLS1.label                   "Tii ki TLS 1.0">
 <!ENTITY useTLS1.accesskey               "1">
-<!ENTITY certificates.label              "Karatac me ngec">
-<!ENTITY certSelection.description       "Ka toto okwayo pi karatac me ngec mera:">
-<!ENTITY certs.auto                      "Yer acel kene">
+<!ENTITY certificates.label              "Karatac">
+<!ENTITY certSelection.description       "Ka lapok tic kwayo pi karatac para:">
+<!ENTITY certs.auto                      "Yer acel pire kene">
 <!ENTITY certs.auto.accesskey            "I">
 <!ENTITY certs.ask                       "Penya caa weng">
 <!ENTITY certs.ask.accesskey             "i">

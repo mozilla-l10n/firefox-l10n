@@ -2,6 +2,21 @@
 <!ENTITY playButton.pauseLabel "Cung manok">
 <!ENTITY muteButton.muteLabel "Juk">
 <!ENTITY muteButton.unmuteLabel "Pe ijuk">
+
+<!ENTITY stats.media "Gikube me wiyamo">
+<!ENTITY stats.size "Dite">
+<!ENTITY stats.activity "Tic">
+<!ENTITY stats.activityPaused "Cung manok">
+<!ENTITY stats.activityPlaying "Tuku">
+<!ENTITY stats.activityEnded "Ogik woko">
+<!ENTITY stats.activitySeeking "(Yenyo)">
+<!ENTITY stats.volume "Dwone">
+<!ENTITY stats.channels "Yore">
+<!ENTITY stats.sampleRate "Dit me poro">
+<!ENTITY stats.framesParsed "Kituro Purem">
+<!ENTITY stats.framesDecoded "Kicono Purem">
+<!ENTITY stats.framesPresented "Kinyutu Purem">
+<!ENTITY stats.framesPainted "Kilingo woko Purem">
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
