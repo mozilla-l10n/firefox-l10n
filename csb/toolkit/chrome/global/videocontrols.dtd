@@ -2,6 +2,20 @@
 <!ENTITY playButton.pauseLabel "Paùza">
 <!ENTITY muteButton.muteLabel "Wëcyszë">
 <!ENTITY muteButton.unmuteLabel "Zgłosni">
+<!ENTITY stats.media "Media">
+<!ENTITY stats.size "Miara">
+<!ENTITY stats.activity "Terôczasny stón">
+<!ENTITY stats.activityPaused "Scygnienié">
+<!ENTITY stats.activityPlaying "Òdgriwanié">
+<!ENTITY stats.activityEnded "Zakùńczono">
+<!ENTITY stats.activitySeeking "(przewijanié)">
+<!ENTITY stats.volume "Głosnota">
+<!ENTITY stats.channels "Kanałë">
+<!ENTITY stats.sampleRate "Czãstotlëwòsc próbkòwaniô">
+<!ENTITY stats.framesParsed "Wielota przetwòrzonëch klôtków">
+<!ENTITY stats.framesDecoded "Wielota òdkòdowónëch klôtków">
+<!ENTITY stats.framesPresented "Wielota wëskrzëniwónëch klôtków">
+<!ENTITY stats.framesPainted "Wielota nacéchòwónëch klôtków">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
@@ -9,3 +23,9 @@ the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
 "6:00:00", result string would be "5:00 of 6:00:00 elapsed".
 -->
 <!ENTITY scrubberScale.nameFormat "Minãło #1 z #2">
+
+
+
+
+
+

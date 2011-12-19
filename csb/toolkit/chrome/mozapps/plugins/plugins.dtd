@@ -27,6 +27,7 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "Abë wtëkôcz bëł zrëszony, nót je zrëszenié program &brandShortName; znowa.">
 
 <!ENTITY missingPlugin                                       "Felëje wtëkôcza do wëskrzënieniô zamkłoscë.">
+<!ENTITY clickToPlayPlugin                                   "Klëkni tuwò, bë zrëszëc wtëkôcza.">
 <!ENTITY disabledPlugin                                      "Wtëkôcz je wëłączony.">
 <!ENTITY blockedPlugin.label                                 "Wtëkôcz zablowkòwóny dlô twòjegò bezpiekù.">
 
@@ -40,9 +41,9 @@
 <!ENTITY reloadPlugin.middle                                 "Zladëjë starnã znowa">
 <!ENTITY reloadPlugin.post                                   "spróbùjë znowa.">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.please                                       "Sélajë repòrt ò awarji">
+<!ENTITY report.checkbox                                     "…ë sélôj rapòrt ò awari">
 <!ENTITY report.submitting                                   "Sélanié repòrtu…">
-<!ENTITY report.submitted                                    "Tapòrt ò awarji òstôł wësłóny.">
-<!ENTITY report.disabled                                     "Sélanié rapòrtów ò awarjach je wëłączoné.">
+<!ENTITY report.submitted                                    "Rapòrt ò awari òstôł wësłóny.">
+<!ENTITY report.disabled                                     "Sélanié rapòrtów ò awariach je wëłączoné.">
 <!ENTITY report.failed                                       "Felënk pòddaniô.">
 <!ENTITY report.unavailable                                  "Felënk przistãpnëch repòrtów.">

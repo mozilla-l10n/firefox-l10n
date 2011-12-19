@@ -23,7 +23,7 @@
 <!ENTITY changePassword2.label        "Resetëjë parolã…">
 <!ENTITY myRecoveryKey.label          "Mój klucz òdzyskù">
 <!ENTITY resetSync2.label             "Resetëjë synchronizacjô…">
-<!ENTITY addDevice.label              "Dodôj ùrządzenié">
+<!ENTITY pairDevice.label             "Spôrëjë ùrządzenie">
 
 <!ENTITY syncMy.label               "Synchronizëjë mòjé">
 <!ENTITY engine.bookmarks.label     "Załóżczi">

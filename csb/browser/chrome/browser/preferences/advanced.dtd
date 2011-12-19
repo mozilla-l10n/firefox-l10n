@@ -18,7 +18,7 @@
 
 <!ENTITY accessibility.label             "Przëstãpnosc">
 
-<!ENTITY useCursorNavigation.label       "Zezwòlë brëkòwac klawiszów kùrsora do nawigacëji pò starnach">
+<!ENTITY useCursorNavigation.label       "Zezwòlë brëkòwac klawiszów kùrsora do nawigacji pò starnach">
 <!ENTITY useCursorNavigation.accesskey   "k">
 <!ENTITY searchStartTyping.label         "Naczni szëkbã przë wpisëwaniu tekstu">
 <!ENTITY searchStartTyping.accesskey     "k">
@@ -72,22 +72,29 @@
 
 <!ENTITY updateTab.label                 "Aktualizacjô">
 
-<!ENTITY autoCheck.label                 "Sprôwdzôj automatno przistãpnotã aktualizacji dlô:">
-<!ENTITY enableAppUpdate.label           "programù &brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "p">
-<!ENTITY enableAddonsUpdate2.label       "Dodôwczi">
-<!ENTITY enableAddonsUpdate2.accesskey   "P">
+<!ENTITY updateApp.label                 "Aktualizacje programù &brandShortName;:">
+<!ENTITY updateAuto.label                "Automatno jinstalëjë aktualizacje(bédowóné: zwikszóny bezpiék)">
+<!ENTITY updateAuto.accesskey            "n">
+
+<!ENTITY updateOthers.label              "Aktualizëjë automatno:">
+<!ENTITY enableAddonsUpdate3.label       "Dodôwczi">
+<!ENTITY enableAddonsUpdate3.accesskey   "d">
+
+<!ENTITY updateCheck.label               "Sprôwdzôj przistãp aktualizacji, ale wëmôgôj pocwierdzenia jich jinstalacji">
+<!ENTITY updateCheck.accesskey           "S">
+
+<!ENTITY updateAutoAddonWarn.label       "Òstrzégôj, jeżle aktualizacjô doprowôdzy do wëłączeniô dodôwków">
+<!ENTITY updateAutoAddonWarn.accesskey   "Ò">
+<!ENTITY updateManual.label              "Nie sprôwdzôj przistãpù aktualizacji (niebédowóné: zagrôżnota bezpiékù)">
+<!ENTITY updateManual.accesskey          "N">
+
 <!ENTITY enableSearchUpdate.label        "Szëkôsze">
 <!ENTITY enableSearchUpdate.accesskey    "k">
-<!ENTITY whenUpdatesFound.label          "Jeżlë bãdą nalazłé aktualizacje dlô programù &brandShortName;:">
-<!ENTITY askMe.label                     "pëtôj mie co móm robic">
-<!ENTITY askMe.accesskey                 "p">
-<!ENTITY modeAutomatic.label             "automatno zladëjë ë wjinstalëjë aktualizacje">
-<!ENTITY modeAutomatic.accesskey         "a">
-<!ENTITY modeAutoAddonWarn.label         "Òstrzégôj, jeżle aktualizacjô doprowôdzy do wëłączeniô przëdôwków">
-<!ENTITY modeAutoAddonWarn.accesskey     "w">
 <!ENTITY updateHistory.label             "Wëskrzëni histroriã aktualizacji">
 <!ENTITY updateHistory.accesskey         "h">
+
+<!ENTITY useService.label                "Ùżëjë spòdlowi ùsłëżnotë dlô jinstalowóniégò aktualizacji">
+<!ENTITY useService.accesskey            "Ù">
 
 <!ENTITY offlineNotify.label             "Dôwôj wiedzã jeżlë internetowô starna pëtô ò mòżnotã trzëmaniô pòdôwków w tribie offline">
 <!ENTITY offlineNotify.accesskey         "D">

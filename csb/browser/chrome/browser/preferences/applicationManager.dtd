@@ -1,4 +1,4 @@
 <!ENTITY appManager.title     "Detale aplikacji">
-<!ENTITY appManager.style     "szérzô: 30em; min-wiżô: 20em;">
+<!ENTITY appManager.style     "width: 30em; min-height: 20em;">
 <!ENTITY remove.label         "Rëmôj">
 <!ENTITY remove.accesskey     "R">

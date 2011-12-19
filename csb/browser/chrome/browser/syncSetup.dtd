@@ -17,8 +17,7 @@
 
 <!ENTITY setup.pickSetupType.description "Witôj! Jeżlë jesz ni môsz brëkòwóné &syncBrand.fullName.label;, nót je ùsôdzëc nowé kònto.">
 <!ENTITY button.createNewAccount.label "Ùsôdzë nowé kònto">
-<!ENTITY setup.haveAccount.label "Móm ju kònto &syncBrand.fullName.label;.">
-<!ENTITY button.connect.label    "Pòłączenié">
+<!ENTITY button.haveAccount.label      "Móm ju kònto">
 
 <!ENTITY setup.choicePage.title.label     "Czë môsz ju przódë brëkòwóné &syncBrand.fullName.label;?">
 <!ENTITY setup.choicePage.new.label       "Ni móm jesz brëkòwóné &syncBrand.shortName.label;">
@@ -27,7 +26,7 @@
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Serwer">
 <!ENTITY serverType.main.label      "Serwera &syncBrand.fullName.label;">
-<!ENTITY serverType.custom2.label   "Brëkùjë swòji serwerë…">
+<!ENTITY serverType.custom2.label   "Brëkùjë swòjégò serwera…">
 <!ENTITY signIn.account2.label      "Kònto">
 <!ENTITY signIn.account2.accesskey  "K">
 <!ENTITY signIn.password.label      "Parola">
@@ -39,10 +38,16 @@
 <!ENTITY setup.newAccountDetailsPage.title.label "Detale kònta">
 <!ENTITY setup.emailAddress.label     "Adresa e-mail">
 <!ENTITY setup.emailAddress.accesskey "e">
-<!ENTITY setup.choosePassword.label      "Choose a Password">
+<!ENTITY setup.choosePassword.label      "Wëbierzë parolã">
 <!ENTITY setup.choosePassword.accesskey  "P">
 <!ENTITY setup.confirmPassword.label     "Pòcwierdzë parolã">
 <!ENTITY setup.confirmPassword.accesskey "P">
+
+<!ENTITY pairDevice.setup.description.label "Abë zaktiwòwac na jinym ùrządzeniu, wëbierzë &#x0022;Spôrëjé ùrządzenié&#x0022;.">
+<!ENTITY pairDevice.title.label             "Spôrëjë ùrządzenié">
+<!ENTITY pairDevice.dialog.description.label "Abë zaktiwòwac nowé ùrządzenié, wëbierzë òptacjã &#x0022;Skònfigùrëjë synchronizacjã&#x0022;.">
+
+
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
 <!ENTITY setup.tosAgree1.label      "Zgòdzóm sã na">
@@ -66,14 +71,10 @@
 <!ENTITY button.syncKeyBackup.save.accesskey  "s">
 
 <!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "Proszã pòcwierdzëc, że nie jes robòtã">
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "Dodôj ùrzãdzenié">
 <!ENTITY addDevice.showMeHow.label          "Pòkażë mie jak.">
 <!ENTITY addDevice.dontHaveDevice.label     "Ni móm tegò ùrzãdzeniô ze mną">
-<!ENTITY addDevice.setup.description.label  "Abë zaktiwowac, biéj do òptacji programù &syncBrand.shortName.label; na jinym swòjim ùrządzeniu ë wëbiérzë &#x0022;Dodôj ùrzãdzenié&#x0022;.">
 <!ENTITY addDevice.setup.enterCode.label    "Zôs, wpiszë nen kòd:">
-<!ENTITY addDevice.dialog.description.label "Abë aktiwowac nowé ùrzãdzenié, biéj do òptacjów programù &syncBrand.shortName.label; na ùrzãdzeniu ë wëbiérzë &#x0022;Pòłączë&#x0022;.">
 <!ENTITY addDevice.dialog.enterCode.label   "Wpiszë kòd dlô ùrzãdzeniô:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Proszã spróbòwac znowa.">
 <!ENTITY addDevice.dialog.successful.label  "Ùrzãdzenie òstało dodóné. Pierszô synchronizacjô mòże dérowac czile minutów ë zakùńczë sã w spòdlim.">

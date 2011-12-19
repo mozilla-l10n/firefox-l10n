@@ -102,8 +102,9 @@ can reach it easily. -->
 <!ENTITY fullScreenClose.tooltip "Zamkni">
 <!ENTITY fullScreenAutohide.label "Zatacë lëstew nôrzãdzów">
 <!ENTITY fullScreenAutohide.accesskey "Z">
-<!ENTITY fullScreenExit.label "Wińdzénié z fùlekranowégò tribù">
+<!ENTITY fullScreenExit.label "Wińdzenié z fùlekranowégò tribù">
 <!ENTITY fullScreenExit.accesskey "ń">
+<!ENTITY domFullScreenWarning.label "Wcësni ESC, bë wińsc z fùlekranowégò tribù">
 
 <!ENTITY closeWindow.label "Zamkni òkno">
 <!ENTITY closeWindow.accesskey "m">
@@ -226,6 +227,9 @@ can reach it easily. -->
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "Sprôwdzë">
 <!ENTITY inspectButton.accesskey      "ô">
+<!ENTITY inspectCloseButton.tooltiptext "Zamkni Jinspektora">
+<!ENTITY inspectStyleButton.label     "Sztél">
+<!ENTITY inspectStyleButton.accesskey "S">
 
 <!ENTITY inspectContextMenu.label     "Sprôwdzë Element">
 <!ENTITY inspectContextMenu.accesskey "E">
@@ -444,6 +448,12 @@ can reach it easily. -->
 <!ENTITY mediaHideControls.accesskey "k">
 <!ENTITY videoFullScreen.label       "Fùlekranowi trib">
 <!ENTITY videoFullScreen.accesskey   "F">
+<!ENTITY videoSaveImage.label        "Zapiszë òbrôzk jakno…">
+<!ENTITY videoSaveImage.accesskey    "k">
+<!ENTITY videoShowStats.label        "Wëskrzëni statisticzi">
+<!ENTITY videoShowStats.accesskey    "t">
+<!ENTITY videoHideStats.label        "Zatacë statisticzi">
+<!ENTITY videoHideStats.accesskey    "t">
 
 
 <!-- LOCALIZATION NOTE :

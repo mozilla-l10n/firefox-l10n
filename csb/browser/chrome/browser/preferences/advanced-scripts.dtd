@@ -37,24 +37,18 @@
 <!--
 # Translator(s):
 #
-# warszk <michol@linuxcsb.org>
-#
--->
-<!--
-# Reviewer(s):
-#
 # jurk <jurk@linuxcsb.org>
 #
 -->
 
 <!ENTITY advancedJSDialog.title         "Awansowóny nastôw JavaScript">
-<!ENTITY window.width                   "37em">
+<!ENTITY window.width                   "45em">
 
 <!ENTITY allowScripts.label             "Zezwòlë skriptom na:">
 
-<!ENTITY moveResizeWindows.label        "przesëwanié abò zmiana miarë egzystëjących òknów">
-<!ENTITY moveResizeWindows.accesskey    "p">
-<!ENTITY raiseLowerWindows.label        "zmiana miarë abò przenoszenié òknów na wiérzk/spódk">
-<!ENTITY raiseLowerWindows.accesskey    "z">
-<!ENTITY disableContextMenus.label      "wéłączanié abò zmiana kòntekstowégò menu">
+<!ENTITY moveResizePopupWindows.label     "przesëwanié abò zmiana miarë egzystëjącëch òknów">
+<!ENTITY moveResizePopupWindows.accesskey "p">
+<!ENTITY raiseLowerWindows.label        "przenoszenié òknów na wiérzk/spódk">
+<!ENTITY raiseLowerWindows.accesskey    "ò">
+<!ENTITY disableContextMenus.label      "blokòwanié abò zmiana kòntekstowégò menu">
 <!ENTITY disableContextMenus.accesskey  "m">

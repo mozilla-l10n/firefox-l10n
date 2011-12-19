@@ -1,5 +1,5 @@
 <!ENTITY newprofile.title             "Kreator nowegò profilu">
-<!ENTITY window.size                  "szérzô: 45em; wiżô: 32em;">
+<!ENTITY window.size                  "width: 54em; height: 38em;">
 
 <!-- First wizard page -->
 <!ENTITY profileCreationExplanation_1.text  "&brandShortName; trzëmô wëdowiédzã ò twòjich nastôwach ë preferencjach w twòjim priwatnëch profilu.">

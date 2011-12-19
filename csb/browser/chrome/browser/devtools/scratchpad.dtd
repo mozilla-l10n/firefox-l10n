@@ -1,19 +1,5 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the Scratchpad window strings -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
-<!--
-# Translator(s):
-#
-# jurk <jurk@linuxcsb.org>
-# https://launchpad.net/~kaszeba <mark@linuxcsb.org>
-# warszk <michol@linuxcsb.org>
-#
--->
-<!--
-# Reviewer(s):
-#
-# jurk <jurk@linuxcsb.org>
-#
--->
 
 <!-- LOCALIZATION NOTE (scratchpad.title):
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -30,15 +16,15 @@
 <!ENTITY fileMenu.accesskey           "L">
 
 <!ENTITY newWindowCmd.label           "Nowé òkno">
-<!ENTITY newWindowCmd.accesskey       "w">
-<!ENTITY newWindowCmd.commandkey      "w">
+<!ENTITY newWindowCmd.accesskey       "N">
+<!ENTITY newWindowCmd.commandkey      "n">
 
-<!ENTITY openFileCmd.label            "Òtemkni lopk...">
-<!ENTITY openFileCmd.accesskey        "l">
-<!ENTITY openFileCmd.commandkey       "l">
+<!ENTITY openFileCmd.label            "Òtmëkôj lopk…">
+<!ENTITY openFileCmd.accesskey        "Ò">
+<!ENTITY openFileCmd.commandkey       "ò">
 
 <!ENTITY saveFileCmd.label            "Zapiszë">
-<!ENTITY saveFileCmd.accesskey        "s">
+<!ENTITY saveFileCmd.accesskey        "Z">
 <!ENTITY saveFileCmd.commandkey       "s">
 
 <!ENTITY saveFileAsCmd.label          "Zapiszë jakno…">
@@ -46,7 +32,7 @@
 
 <!ENTITY closeCmd.label               "Zamkni">
 <!ENTITY closeCmd.key                 "W">
-<!ENTITY closeCmd.accesskey           "Z">
+<!ENTITY closeCmd.accesskey           "k">
 
 <!ENTITY editMenu.label               "Edicjô">
 <!ENTITY editMenu.accesskey           "E">
@@ -55,37 +41,37 @@
 <!ENTITY undoCmd.key                  "Z">
 <!ENTITY undoCmd.accesskey            "C">
 
-<!ENTITY redoCmd.label                "Przëwrócë">
-<!ENTITY redoCmd.key                  "Y">
-<!ENTITY redoCmd.accesskey            "r">
+<!ENTITY redoCmd.label                "Doprowôdzë nazôd">
+<!ENTITY redoCmd.key                  "D">
+<!ENTITY redoCmd.accesskey            "p">
 
-<!ENTITY cutCmd.label                 "Wëtni">
+<!ENTITY cutCmd.label                 "Wytni">
 <!ENTITY cutCmd.key                   "X">
 <!ENTITY cutCmd.accesskey             "W">
 
-<!ENTITY copyCmd.label                "Kòpérëjë">
+<!ENTITY copyCmd.label                "Wëtni">
 <!ENTITY copyCmd.key                  "C">
 <!ENTITY copyCmd.accesskey            "K">
 
 <!ENTITY pasteCmd.label               "Wlepi">
 <!ENTITY pasteCmd.key                 "V">
-<!ENTITY pasteCmd.accesskey           "W">
+<!ENTITY pasteCmd.accesskey           "e">
 
 <!ENTITY selectAllCmd.label           "Wëbierzë wszëtkò">
 <!ENTITY selectAllCmd.key             "A">
-<!ENTITY selectAllCmd.accesskey       "b">
+<!ENTITY selectAllCmd.accesskey       "Z">
 
-<!ENTITY run.label                    "Zrëszë">
-<!ENTITY run.accesskey                "r">
+<!ENTITY run.label                    "Zreszë">
+<!ENTITY run.accesskey                "s">
 <!ENTITY run.key                      "r">
 
-<!ENTITY inspect.label                "Sprôwdzë">
-<!ENTITY inspect.accesskey            "S">
-<!ENTITY inspect.key                  "i">
+<!ENTITY inspect.label                "Sprôwdzôj">
+<!ENTITY inspect.accesskey            "ô">
+<!ENTITY inspect.key                  "j">
 
 <!ENTITY display.label                "Wëskrzëni">
-<!ENTITY display.accesskey            "W">
-<!ENTITY display.key                  "l">
+<!ENTITY display.accesskey            "ë">
+<!ENTITY display.key                  "ë">
 
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
@@ -94,11 +80,11 @@
   -  (browser).
   -->
 <!ENTITY environmentMenu.label        "Òkrãżé">
-<!ENTITY environmentMenu.accesskey    "Ò">
+<!ENTITY environmentMenu.accesskey    "é">
 
 
 <!ENTITY contentContext.label         "Zamkłosc">
-<!ENTITY contentContext.accesskey     "Z">
+<!ENTITY contentContext.accesskey     "ł">
 
 <!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
   -  to select an execution environment for the browser window itself as opposed
@@ -109,22 +95,23 @@
 <!ENTITY browserContext.label         "Przezérnik">
 <!ENTITY browserContext.accesskey     "P">
 
-<!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
-  -  to reset/clear the global object of the environment where the code executes.
+<!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
+  -  to reset/clear the global object of the context where the code executes.
   -->
-<!ENTITY resetContext.label           "Resetëjë">
-<!ENTITY resetContext.accesskey       "R">
+<!ENTITY resetContext2.label           "Zrecetëjë zmienné">
+<!ENTITY resetContext2.accesskey       "Z">
 
-<!ENTITY executeMenu.label            "Zrëszë">
-<!ENTITY executeMenu.accesskey        "Z">
+<!ENTITY executeMenu.label            "Zjiscy">
+<!ENTITY executeMenu.accesskey        "c">
 
-<!ENTITY toolsMenu.label              "Nôrzãdza">
-<!ENTITY toolsMenu.accesskey          "N">
-
-<!ENTITY errorConsoleCmd.label        "Kònsola felów">
-<!ENTITY errorConsoleCmd.accesskey    "K">
+<!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
+  -  the browser Error Console, the key should be identical to the property of
+  -  the same name in browser.dtd.
+  -->
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY webConsoleCmd.label          "Kònsola WWW">
-<!ENTITY webConsoleCmd.accesskey      "W">
+<!-- LOCALIZATION NOTE (webConsoleCmd.commandkey): This command key launches
+  -  the browser WebConsole, the key should be identical to the property of
+  -  the same name in browser.dtd.
+  -->
 <!ENTITY webConsoleCmd.commandkey     "k">
