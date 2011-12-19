@@ -44,7 +44,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
 <!ENTITY notCached.title "Document Expired">
-<!ENTITY notCached.longDesc "<p>Umbhalo oceliwe awutholakali esilondolozini se-&brandShortName;</p></p><ul><li>Njesiqaphelisi sokuphepha, i-&brandShortName; ayiceli kabusha ngokuzenzakalela imibhalo ezwela  kakhulu.</li><li>Qhofoza u-Zama Futhi ukuze ucele kabusha umbhalo kusuka kuwebhusayithi.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Umbhalo oceliwe awutholakali esilondolozini se-&brandShortName;</p><ul><li>Njesiqaphelisi sokuphepha, i-&brandShortName; ayiceli kabusha ngokuzenzakalela imibhalo ezwela  kakhulu.</li><li>Qhofoza u-Zama Futhi ukuze ucele kabusha umbhalo kusuka kuwebhusayithi.</li></ul>">
 
 <!ENTITY netOffline.title "Ayikho ku-inthanethi">
 <!ENTITY netOffline.longDesc2 "

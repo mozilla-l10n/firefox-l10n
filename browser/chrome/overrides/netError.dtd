@@ -45,7 +45,7 @@ ukuthi i-&brandShortName; ivunyelwe ukungena kuwebhu.</li>
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Umbalo uphelelwe isikhathi">
-<!ENTITY notCached.longDesc "<p>Umbhalo oceliwe awutholakali esilondolozini se-&brandShortName;</p></p><ul><li>Njesiqaphelisi sokuphepha, i-&brandShortName; ayiceli kabusha ngokuzenzakalela imibhalo ezwela  kakhulu.</li><li>Qhofoza u-Zama Futhi ukuze ucele kabusha umbhalo kusuka kuwebhusayithi.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Umbhalo oceliwe awutholakali esilondolozini se-&brandShortName;</p><ul><li>Njesiqaphelisi sokuphepha, i-&brandShortName; ayiceli kabusha ngokuzenzakalela imibhalo ezwela  kakhulu.</li><li>Qhofoza u-Zama Futhi ukuze ucele kabusha umbhalo kusuka kuwebhusayithi.</li></ul>">
 
 <!ENTITY netOffline.title "Ayikho ku-inthanethi">
 <!ENTITY netOffline.longDesc2 "<ul> 
