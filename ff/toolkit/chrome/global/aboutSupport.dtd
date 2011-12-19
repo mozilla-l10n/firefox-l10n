@@ -19,6 +19,7 @@ etoo safrude caɗeele. So aɗa yiyloo jaabawuuji naamne ganndaaɗe
 <!ENTITY aboutSupport.appBasicsBuildConfig "Taf Teeltannde">
 <!ENTITY aboutSupport.appBasicsUserAgent "Ajajo Kuutoro">
 <!ENTITY aboutSupport.appBasicsCrashIDs "Jaŋtooje Kooke">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Kutorogol Tesko">
 
 <!ENTITY aboutSupport.show.label "Uddit Runngere Mooftirde">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific

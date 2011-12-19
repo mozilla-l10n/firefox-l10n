@@ -43,8 +43,8 @@
 <!ENTITY aboutWarningButton.label "I'll be careful, I promise!">
 <!ENTITY aboutWarningCheckbox.label "Show this warning next time">
 
-<!ENTITY filterPrefs.label "Filter:">
-<!ENTITY filterPrefs.accesskey "F">
+<!ENTITY filterPrefs.label "Ceɗol.">
+<!ENTITY filterPrefs.accesskey "C">
 <!ENTITY focusFilter.key "f">
 <!-- Columns -->
 

@@ -13,11 +13,11 @@
 <!ENTITY manageAccount.label          "Toppito Konte">
 <!ENTITY manageAccount.accesskey      "K">
 <!ENTITY viewQuota.label              "Hollu Kotaa">
-<!ENTITY changePassword2.label         "Waylu Finnde...">
-<!ENTITY mySyncKey.label              "Kelal Sync Am">
-<!ENTITY resetSync2.label              "Artir Sync...">
+<!ENTITY changePassword2.label        "Waylu Finnde…">
+<!ENTITY myRecoveryKey.label          "Kelal jiytirgal Am">
+<!ENTITY resetSync2.label             "Artir Sync…">
 
-<!ENTITY addDevice.label              "Ɓeydu Kaɓirgol">
+<!ENTITY pairDevice.label             "Jokkondir Kaɓirɗi">
 
 <!ENTITY syncMy.label               "Sanngoɗin">
 <!ENTITY engine.bookmarks.label     "Maantore am">

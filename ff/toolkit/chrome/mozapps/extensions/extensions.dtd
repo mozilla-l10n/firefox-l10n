@@ -1,6 +1,6 @@
 <!ENTITY addons.windowTitle                   "Topitorde Ɓeyditte">
 <!ENTITY search.placeholder                   "Yiylo ɓeyditte fof">
-<!ENTITY loading.label                        "Ena loowa…">
+<!ENTITY loading.label                        "Nana loowa…">
 <!ENTITY listEmpty.installed.label            "A alaa hay ɓeydital gootal loowwaangal e oo fannu">
 <!ENTITY listEmpty.availableUpdates.label     "Alaa kesɗitine njiytaa">
 <!ENTITY listEmpty.recentUpdates.label        "A hesɗitinaani hay beyditere wootere sakket">
@@ -53,7 +53,7 @@
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "W">
 <!ENTITY updates.resetUpdatesToManual.label          "Waklit Ɓeyditte Fof yoo Kesɗitino e Junngol">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "W">
-<!ENTITY updates.updating.label               "Ena hesɗitina ɓeyditte">
+<!ENTITY updates.updating.label               "Nana hesɗitina ɓeyditte">
 <!ENTITY updates.installed.label              "Ɓeyditte maa kesɗitinaama.">
 <!ENTITY updates.downloaded.label             "Kesɗitine ɓeyditte maa ngaawtaama.">
 <!ENTITY updates.restart.label                "Hurmitin jooni ngam jokkitde loowgol">
@@ -165,7 +165,7 @@ nanndude e yiɗde maa.">
 <!ENTITY search.filter2.available.tooltip     "Hollu ɓeyditte goodaaɗe ngam loowde">
 
 <!ENTITY addon.homepage                       "Hello jaɓɓorgo">
-<!ENTITY addon.details.label                  "Goɗɗi">
+<!ENTITY addon.details.label                  "Teelte goɗɗe">
 <!ENTITY addon.details.tooltip                "Hollu teelɗe goɗɗe baɗte ngal ɓeydital">
 <!ENTITY addon.unknownDate                    "Anndaaka">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
@@ -188,9 +188,9 @@ nanndude e yiɗde maa.">
 <!ENTITY addon.updateNow.tooltip              "Loow kesɗitinal ngal ɓeydital">
 <!ENTITY addon.includeUpdate.label            "Waɗor e kesɗitinal">
 <!ENTITY addon.updateAvailable.label          "Kesɗitinal ena woodi">
-<!ENTITY addon.checkingForUpdates.label       "Ena yiyloo kesɗitine…">
+<!ENTITY addon.checkingForUpdates.label       "Nana yiyloo kesɗitine…">
 <!ENTITY addon.releaseNotes.label             "Konngol Bayyinol:">
-<!ENTITY addon.loadingReleaseNotes.label      "Ena loowa…">
+<!ENTITY addon.loadingReleaseNotes.label      "Nana loowa…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Ɗaccu hakke, kono waɗii juumre e loowgol konngol bayyinol.">
 
 <!ENTITY addon.createdBy.label                "Waɗi ko ">

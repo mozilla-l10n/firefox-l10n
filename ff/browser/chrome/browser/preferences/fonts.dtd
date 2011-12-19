@@ -24,8 +24,8 @@
 <!ENTITY  font.langGroup.latin2                   "Central European">
 <!ENTITY  font.langGroup.japanese                 "Japanese">
 <!ENTITY  font.langGroup.trad-chinese             "Traditional Chinese (Taiwan)">
-<!ENTITY  font.langGroup.simpl-chinese            "Simplified Chinese">
-<!ENTITY  font.langGroup.trad-chinese-hk          "Traditional Chinese (Hong Kong)">
+<!ENTITY  font.langGroup.simpl-chinese            "Cayniire weeɓtunde">
+<!ENTITY  font.langGroup.trad-chinese-hk          "Cayniire Ganni (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Korean">
 <!ENTITY  font.langGroup.cyrillic                 "Cyrillic">
 <!ENTITY  font.langGroup.baltic                   "Baltic">
@@ -64,6 +64,6 @@
 <!ENTITY  allowPagesToUse.label                   "Yamir kelle yoo kuutoro ponte mum'en keeriiɗe waasa wonde ɗe am dow ɗoo">
 <!ENTITY  allowPagesToUse.accesskey               "Y">
 
-<!ENTITY languages.customize.Charset.grouplabel         "Dokkitagol Alkule">
-<!ENTITY languages.customize.DefaultCharset.label       "Dokkitagol Alkule Goowangol:">
+<!ENTITY languages.customize.Charset.grouplabel         "Dokkitannde Alkule">
+<!ENTITY languages.customize.DefaultCharset.label       "Dokkitannde Alkule Waawaande:">
 <!ENTITY languages.customize.DefaultCharset.accesskey   "A">

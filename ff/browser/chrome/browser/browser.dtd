@@ -90,6 +90,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "S">
 <!ENTITY fullScreenExit.label "Yaltu Mbaydi Njaajeendi Yaynirde">
 <!ENTITY fullScreenExit.accesskey "N">
+<!ENTITY domFullScreenWarning.label "Dobo ESC ngam yaltude e njaajeendi yaynirde">
 
 <!ENTITY closeWindow.label "Uddu Henorde">
 <!ENTITY closeWindow.accesskey "d">
@@ -193,6 +194,9 @@ can reach it easily. -->
 <!ENTITY inspectMenu.label            "Yuurnito">
 <!ENTITY inspectMenu.accesskey        "t">
 <!ENTITY inspectMenu.commandkey       "I">
+
+<!ENTITY inspectContextMenu.label     "Ƴeewto Geɗel">
+<!ENTITY inspectContextMenu.accesskey "Q">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -209,9 +213,12 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectPanelTitle.label      "HTML">
-<!ENTITY inspectButton.label          "Yuurnito">
-<!ENTITY inspectButton.accesskey      "Y">
+<!ENTITY inspectPanelTitle.label        "HTML">
+<!ENTITY inspectButton.label            "Yuurnito">
+<!ENTITY inspectButton.accesskey        "Y">
+<!ENTITY inspectCloseButton.tooltiptext "Uddu Ƴeewtorde">
+<!ENTITY inspectStyleButton.label     "Pannol">
+<!ENTITY inspectStyleButton.accesskey "P">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Heɓ Kuutorɗe Goɗɗe">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "K">
@@ -429,12 +436,17 @@ can reach it easily. -->
 <!ENTITY mediaHideControls.accesskey "Ɗ">
 <!ENTITY videoFullScreen.label       "Njaajeendi Yaynirde">
 <!ENTITY videoFullScreen.accesskey   "N">
+<!ENTITY videoSaveImage.label        "Danndu Tummbitol e Innde…">
+<!ENTITY videoSaveImage.accesskey    "D">
+<!ENTITY videoShowStats.label        "Hollu limlimtooje">
+<!ENTITY videoShowStats.accesskey    "t">
+<!ENTITY videoHideStats.label        "Suuɗ limlimtooje">
+<!ENTITY videoHideStats.accesskey    "u">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
-
 
 
 <!ENTITY fullZoomEnlargeCmd.label       "Lonngo Ara">
@@ -499,7 +511,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "Taƴto Cuɓoraaɗe Falorde  Cuppitte…">
+<!ENTITY editPopupSettingsUnix.label "Taƴto Cuɓoraaɗe Falorde Cuppitte…">
 <!ENTITY editPopupSettings.label "Taƴto Cuɓe Falorde Cuppitte…">
 <!ENTITY editPopupSettings.accesskey "T">
 <!ENTITY dontShowMessage.accesskey "D">
@@ -554,7 +566,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY syncBrand.shortName.label    "Sanngoɗin">
 
-<!ENTITY syncSetup.label              "Darnu &syncBrand.shortName.label;…">
+<!ENTITY syncSetup.label              "Teelto &syncBrand.shortName.label;…">
 <!ENTITY syncSetup.accesskey          "Y">
 <!ENTITY syncSyncNowItem.label        "Sanngoɗin Jooni">
 <!ENTITY syncSyncNowItem.accesskey    "S">

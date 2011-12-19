@@ -40,8 +40,8 @@
 
 <!ENTITY allowScripts.label             "Yamir ciifte yoo:">
 
-<!ENTITY moveResizeWindows.label        "Dirtin walla waylu ɓetol kenora goodɗe">
-<!ENTITY moveResizeWindows.accesskey    "D">
+<!ENTITY moveResizePopupWindows.label     "Dirtin walla waylu ɓetol kenorɗe cuppitte">
+<!ENTITY moveResizePopupWindows.accesskey "D">
 <!ENTITY raiseLowerWindows.label        "Toownu walla lesɗin kenorɗe">
 <!ENTITY raiseLowerWindows.accesskey    "T">
 <!ENTITY disableContextMenus.label      "Daaƴ walla lomtin dosi loowdi">

@@ -24,10 +24,13 @@
 <!ENTITY netInterrupt.title "Baanjitagol Keɓe Dartiima">
 <!ENTITY netInterrupt.longDesc "<p>Wanngorde ndee seŋiima moƴƴol, kono seŋol ngol dartinaama tuma nde humpito waanjittee.  Tiiɗno fuɗɗito.</p><ul><li>A horiima naatde e lowe goɗɗe? Ƴeewto ceŋol laylaytol ordinateer oo.</li><li>Haa jonni ena waɗi caɗeele? Jokkondir e jiiloowo laylaytol maa walla jeeyoowo ceŋol maa ngam ɗaɓɓude ballal.</li></ul>">
 
+<!ENTITY notCached.title "Fiilannde Hiiɗtii">
+<!ENTITY notCached.longDesc "<p>Fiilannde ɗaɓɓitaande ndee woodaani e kaasol wanngorde ndee.</p><ul><li>Ngam reentino kisal, wanngorde ndee naamnittaako piilanɗe doondiiɗe caɗeele e jaajol.</li><li>Dobo ngam fuɗɗitaade naamnito-ɗaa fiilannde ndee e lowre ndee</li>">
+
 <!ENTITY netOffline.title "Mbaydi Ceŋtol">
 <!ENTITY netOffline.longDesc2 "<p>Wanngorde ndee woni ko e mbaydi ceŋtol etee waawaa seŋaade e temre ɗaɓɓitaande ndee.</p><ul><li>Mbar ordianteer maa ena seŋii e laylaytol caasngol?</li>Ñoƴƴu &quot;Fuɗɗito&quot; ngam artirde a mbayka ceŋol, kesɗitinaa hello ngoo.<li></li></ul>">
 
-<!ENTITY contentEncodingError.title "Juumre Dokkitagol Loowdi">
+<!ENTITY contentEncodingError.title "Juumre Dokkitannde Loowdi">
 <!ENTITY contentEncodingError.longDesc "<p>Hello ngo etot-ɗaa naatnde ngoo waawaa hollireede sabu ngo huutortoo ko tiɗɗinol ndi mbadi mum anndaaka walla moƴƴaani.</p><ul><li>Tiiɗno jokkondir e jeyɓe lowre geese ndee ngam humpitde-ɓe caɗeele ɗee.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Ndee Fiilde Hoolnaaki">

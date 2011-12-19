@@ -1,7 +1,7 @@
 <!ENTITY upgrade.style               "width: 93ch; height: 448px;">
 
 <!ENTITY checking.heading            "Ƴeewto Ɓeyditte maa">
-<!ENTITY checking.progress.label     "Ena ƴeewtoo ɓeyditte maa so ena jaaɓdi e ndee yamre &brandShortName;.">
+<!ENTITY checking.progress.label     "Nana ƴeewtoo ɓeyditte maa so ena jaaɓdi e ndee yamre &brandShortName;.">
 
 <!ENTITY select.heading              "Labo Ɓeyditte maa">
 <!-- LOCALIZATION NOTE (select.description): The term used for "third parties"
@@ -32,8 +32,8 @@
 <!ENTITY action.update.heading       "Ɗee-ɗoo ɓeyditte maa kesɗitine:">
 <!ENTITY action.enable.heading       "Ɗee-ɗoo ɓeyditte maa ndaaƴte:">
 
-<!ENTITY update.heading              "Ena hesɗitina Ɓeyditte maa">
-<!ENTITY update.progress.label       "Ena aawtoo kadi loowa kesɗitine ɓeyditte maa ɗe labi-ɗaa.">
+<!ENTITY update.heading              "Nana hesɗitina Ɓeyditte maa">
+<!ENTITY update.progress.label       "Nana aawtoo kadi loowa kesɗitine ɓeyditte maa ɗe labi-ɗaa.">
 
 <!ENTITY errors.heading              "&brandShortName; horiima hesɗitinde yoga e ɓeyditte maa.">
 <!ENTITY errors.description          "Loowgol kesɗitine e yoga e ɓeyditte woorii. Maa &brandShortName; eto hesɗitinde-ɗe ɗ jaajol ɗoo e yeeso.">

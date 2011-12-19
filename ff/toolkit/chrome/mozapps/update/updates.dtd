@@ -1,7 +1,7 @@
 <!ENTITY  updateWizard.title              "Kisɗitainal Topirde">
 
-<!ENTITY  checking.title                  "Ena yiyloo kesɗitine">
-<!ENTITY  updateCheck.label               "Ena yiyloo jame &brandShortName; ɓurɗe hesɗude…">
+<!ENTITY  checking.title                  "Nana yiyloo kesɗitine">
+<!ENTITY  updateCheck.label               "Nana yiyloo jame &brandShortName; ɓurɗe hesɗude…">
 
 <!ENTITY  pluginupdatesfound.title        "Yiytii Kesɗitine ɗee Ceŋe">
 <!ENTITY  pluginupdatesfound.label        "Jame ɓurɗe hesɗude ceŋol walla ceŋe maa njiytaama.">
@@ -22,8 +22,8 @@ loowde topirɗe e ndee ordinateer.">
 boowal jonngal e mbeɗu maa ngam loowde ngal.">
 <!ENTITY  manualUpdateGetMsg.label        "Aɗa waawi heɓde yamre sakkitiinde &brandShortName; sahaa kala to:">
 
-<!ENTITY  incompatibleCheck.title         "Ena Ƴeewtoo Jaaɓondiral Ɓeyditte">
-<!ENTITY  incompatibleCheck.label         "Ena yiyloo jame ɓeyditte maa ɓurɗe hesɗude…">
+<!ENTITY  incompatibleCheck.title         "Nana Ƴeewtoo Jaaɓondiral Ɓeyditte">
+<!ENTITY  incompatibleCheck.label         "Nana yiyloo jame ɓeyditte maa ɓurɗe hesɗude…">
 
 <!ENTITY  clickHere.label                 "Ɓeydu humpito baɗte ngal kesɗitinal">
 
@@ -43,9 +43,9 @@ les ɗoo ngam jokkude loowgol ngal kesɗitinal.">
 
 <!ENTITY  incompatibleList.title          "Ɓeyditte ɗe Njaaɓdaani Njiytaama">
 
-<!ENTITY  downloadPage.title              "Ena aawtoo &brandShortName;">
-<!ENTITY  downloading.intro               "Ena aawtoo kesɗitinal ngal…">
-<!ENTITY  connecting.label                "Ena seŋoo e sarworde kesɗitine…">
+<!ENTITY  downloadPage.title              "Nana aawtoo &brandShortName;">
+<!ENTITY  downloading.intro               "Nana aawtoo kesɗitinal ngal…">
+<!ENTITY  connecting.label                "Nana seŋoo e sarworde kesɗitine…">
 <!ENTITY  verificationFailedText.label    "&brandShortName; horiima ƴeewtaade timmugol 
 kesɗitinal ŋayligol ngal o aawtii ngal, wadde o woni ko e aawtaade 
 pakkannde kesɗitinal ndee e kuuɓal.">

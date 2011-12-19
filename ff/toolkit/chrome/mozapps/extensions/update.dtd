@@ -13,9 +13,9 @@ yamre.">
 <!ENTITY  mismatch.bottom.label           "&brandShortName; ena waawi ƴeewtaade so jame jaaɓduɗe 
 e ɗee ɓeyditte ena ngoodi.">
 
-<!ENTITY  checking.wizard.title           "Ena ƴeewtoo Ɓeyditte Jaaɓduɗe">
-<!ENTITY  checking.top.label              "Ena ƴeewtoo ɓeyditte maa ɗe jaaɓdaani ngam kesɗitine…">
-<!ENTITY  checking.status                 "Ɗum ena waawi ɓamde hoƴomaaji seeɗa…">
+<!ENTITY  checking.wizard.title           "Nana ƴeewtoo Ɓeyditte Jaaɓduɗe">
+<!ENTITY  checking.top.label              "Nana ƴeewtoo ɓeyditte maa ɗe jaaɓdaani ngam kesɗitine…">
+<!ENTITY  checking.status                 "Ɗum ena waawi ɓamde hojomaaji seeɗa…">
 
 <!ENTITY  found.wizard.title               "Ɓeyditte Jaaɓduɗe Njiytaama">
 <!ENTITY  found.top.label                 "Labo ɓeydital njiɗ-ɗaa loowde:">
@@ -24,8 +24,8 @@ sahaa. Aɗa waawi waylude ngal teeltal les ɗoo.">
 <!ENTITY  found.enableXPInstall.label     "Yamir lowe geese yoo loow topirɗe">
 <!ENTITY  found.enableXPInstall.accesskey "Y">
 
-<!ENTITY  installing.wizard.title         "Ena loowa ɓeyditte jaaɓduɗe">
-<!ENTITY  installing.top.label            "Ena aawtoo kadi loowa kesɗitine ɓeyditte maa…">
+<!ENTITY  installing.wizard.title         "Nana loowa ɓeyditte jaaɓduɗe">
+<!ENTITY  installing.top.label            "Nana aawtoo kadi loowa kesɗitine ɓeyditte maa…">
 
 <!ENTITY  noupdates.wizard.title          "Alaa Ɓeyditte Jaaɓduɗe Njiytaa">
 <!ENTITY  noupdates.intro.desc            "&brandShortName; horiima yiytude kesɗitine 
@@ -46,10 +46,10 @@ so kesɗitine ɓeyditte njiytaa.">
 sabu loowgol topirɗe &brandShortName; koko daaƴaa. 
 Tiiɗno jokkondir e Jiiloowo yuɓɓi maa ngam ballal.">
 
-<!ENTITY  versioninfo.wizard.title        "Ena ƴeewtoo Jaaɓdugol Ɓeyditte">
-<!ENTITY  versioninfo.top.label           "Ena ƴeewtoo ɓeyditte maa so ena jaaɓdi e ndee 
+<!ENTITY  versioninfo.wizard.title        "Nana ƴeewtoo Jaaɓdugol Ɓeyditte">
+<!ENTITY  versioninfo.top.label           "Nana ƴeewtoo ɓeyditte maa so ena jaaɓdi e ndee 
 yamre &brandShortName;.">
-<!ENTITY  versioninfo.waiting             "Ɗum ena waawi ɓamde hoƴomaaji seeɗa…">
+<!ENTITY  versioninfo.waiting             "Ɗum ena waawi ɓamde hojomaaji seeɗa…">
 
 <!ENTITY  installerrors.wizard.title      "Caɗeele Loowgol Kesɗitine">
 <!ENTITY  installerrors.intro.label       "&brandShortName; hawrii e caɗeele tuma nde hesɗitinta 

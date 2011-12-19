@@ -1,21 +1,21 @@
-<!ENTITY  colorsDialog.title              "Noorɗe">
+<!ENTITY  colorsDialog.title              "Nooneeji">
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "Yamir kelle yoo kuutoro noori mum'en keeriiɗe waasa wonde ɗe am dow ɗoo">
+<!ENTITY  allowPagesToUse.label           "Yamir kelle yoo kuutoro nonoeeji mum'en keeriiɗe waasa wonde ɗe am dow ɗoo">
 <!ENTITY  allowPagesToUse.accesskey       "Y">
 
 <!ENTITY  color                           "Binndol e Cakkital">
-<!ENTITY  textColor.label                 "Binndol">
+<!ENTITY  textColor.label                 "Binndol:">
 <!ENTITY  textColor.accesskey             "B">
 <!ENTITY  backgroundColor.label           "Cakkital:">
 <!ENTITY  backgroundColor.accesskey       "C">
-<!ENTITY  useSystemColors.label           "Huutoro noori yuɓɓo">
+<!ENTITY  useSystemColors.label           "Huutoro nooneeji yuɓɓo">
 <!ENTITY  useSystemColors.accesskey       "H">
 
 <!ENTITY  underlineLinks.label            "Waɗ diidlesol e jokkorɗe">
 <!ENTITY  underlineLinks.accesskey        "W">
-<!ENTITY  links                           "Noori Jokkol">
+<!ENTITY  links                           "Nooneeji Jokkol">
 <!ENTITY  linkColor.label                 "Jokkorɗe ɗe Njillaaka:">
 <!ENTITY  linkColor.accesskey             "N">
 <!ENTITY  visitedLinkColor.label          "Jokkorɗe ɗe Jillaaɗe:">

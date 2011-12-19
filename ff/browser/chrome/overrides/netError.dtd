@@ -15,7 +15,7 @@
 <!ENTITY dnsNotFound.title "Sarworde yiytaaka">
 <!ENTITY dnsNotFound.longDesc "<ul> 
 <li>Ƴeewto so ñiiɓirde ndee alaa pergitte tappugol wano 
-<strong>ww</strong>.yeru.com waasa wonde 
+<strong>ww</strong>.yeru.com foti wonde ko 
 <strong>www</strong>.yeru.com</li> 
 <li>So a horiima loowde kelle fof, ƴeewto ceŋorde laylaytol ordinateer 
  maa</li> 
@@ -25,7 +25,7 @@ wonde &brandShortName; ena yamiraa jolde e Geese.</li>
 
 <!ENTITY fileNotFound.title "Fiilde yiytaaka">
 <!ENTITY fileNotFound.longDesc "<ul> 
-<li>Ƴeewto alkule puɗɗorɗe ɗee e innde fiinde ndee walla juume tappugol goɗɗe.</li> 
+<li>Ƴeewto alkule puɗɗorɗe ɗee e innde fiilde ndee walla juume tappugol goɗɗe.</li> 
 <li>Ƴeewto ngam so fiilde ndee dirtinaaka, innitaaka walla momtaaka.</li> 
 </ul>">
 
@@ -44,12 +44,15 @@ wonde &brandShortName; ena yamiraa jolde e Geese.</li>
 <!ENTITY netInterrupt.title "Ceŋagol ngol taƴii">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!ENTITY notCached.title "Fiilannde Hiiɗtii">
+<!ENTITY notCached.longDesc "<p>Fiilannde ɗaɓɓitaande ndee woodaani e kaasol &brandShortName;.</p><ul><li>Ngam reentino kisal, &brandShortName; naamnittaako piilanɗe doondiiɗe caɗeele e jaajol.</li><li>Dobo ngam fuɗɗitaade naamnito-ɗaa fiilannde ndee e lowre ndee</li>">
+
 <!ENTITY netOffline.title "Mbaydi ceŋtol">
 <!ENTITY netOffline.longDesc2 "<ul> 
 <li>Ñoƴƴy &quot;Fuɗɗito&quot; ngam faytude e mbayka ceŋol, kesɗitinaa hello ngoo.</li> 
 </ul>">
 
-<!ENTITY contentEncodingError.title "Juumre Dokkitagol Loowdi">
+<!ENTITY contentEncodingError.title "Juumre Dokkitannde Loowdi">
 <!ENTITY contentEncodingError.longDesc "<ul> 
 <li>Tiiɗno jokkondir e jeyɓe lowre ndee ngam humpitde-ɓe ɗee caɗeele.</li> 
 </ul>">
@@ -100,7 +103,7 @@ Manager.</li>
 
 <!ENTITY nssFailure2.title "Ceŋagol Kisnangol Woorii">
 <!ENTITY nssFailure2.longDesc "<ul> 
-<li>Hello ngo etoto-ɗaa yiyde ngoo waawaa hollireede sabu goongɗugol keɓe kaɓaaɗe ɗee koriima ƴeewteede.</li> 
+<li>Hello ngo etoto-ɗaa yiyde ngoo waawaa hollireede sabu goongɗugol keɓe keɓaaɗe ɗee koriima ƴeewteede.</li> 
 <li>Tiiɗno jokkondir e jeyɓe lowre geese ndee ngam humpitde-ɓe caɗeele ɗee. Kadi aɗa waawi huutoraade ginol gonngol e dosol ballal ngol ngal jaŋtaade caɗe ndee lowre.</li> 
 </ul>">
 

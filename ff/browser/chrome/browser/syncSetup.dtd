@@ -1,11 +1,10 @@
-<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; Setup">
+<!ENTITY accountSetupTitle.label    "Teeltagol &syncBrand.fullName.label;">
 <!-- First page of the wizard -->
 
 
 <!ENTITY setup.pickSetupType.description "A jaɓɓaama, so a meeɗaa huutoraade &syncBrand.fullName.label;, aɗa sokli sosde konte kese.">
 <!ENTITY button.createNewAccount.label "Sos Konte Kese">
-<!ENTITY setup.haveAccount.label "Miɗo jogii konte &syncBrand.fullName.label; kisa.">
-<!ENTITY button.connect.label    "Jokko">
+<!ENTITY button.haveAccount.label      "Miɗo jogii konte">
 
 <!ENTITY setup.choicePage.title.label     "A meeɗii huutoraade &syncBrand.fullName.label;?">
 <!ENTITY setup.choicePage.new.label       "Mi meeɗaa huutoraade &syncBrand.shortName.label;">
@@ -19,8 +18,8 @@
 <!ENTITY signIn.account2.accesskey  "K">
 <!ENTITY signIn.password.label      "Finnde">
 <!ENTITY signIn.password.accesskey  "F">
-<!ENTITY signIn.syncKey.label       "Kelal Sync">
-<!ENTITY signIn.syncKey.accesskey   "K">
+<!ENTITY signIn.recoveryKey.label       "Kelal Yiytorde">
+<!ENTITY signIn.recoveryKey.accesskey   "Y">
 <!-- New Account Page 1: Basic Account Info -->
 
 <!ENTITY setup.newAccountDetailsPage.title.label "Humpito Konte">
@@ -39,39 +38,37 @@
 <!ENTITY setup.ppLink.label         "Dawirgol Suturo">
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
-<!-- New Account Page 2: Sync Key -->
+<!-- My Recovery Key dialog -->
 
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; Ena tiiɗaa Dawirgol Maa">
-<!ENTITY setup.newSyncKeyPage.description.label "Ngam hisnude suturo maa kuuɓɗo, keɓe maa fof ko gannaaɗi hade amjje naatnoyeede. Kelal Sync baawngal ittude gannagol keɓe maa ngol naatnoytaake.">
-<!ENTITY syncKeyEntry.label        "Kelal Maa Sync">
-<!ENTITY syncKeyEntry.accesskey    "K">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; Ena tiiɗaa Suturo Maa">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Ngam hisnude suturo maa kuuɓɗo, keɓe maa fof ko gannaaɗi hade amjje naatnoyeede. Kelal Yiytorde baawngal ittude gannagol keɓe maa ngol naatnoytaake.">
+<!ENTITY recoveryKeyEntry.label        "Kelal Yiytorde Maa">
+<!ENTITY recoveryKeyEntry.accesskey    "M">
 <!ENTITY syncGenerateNewKey.label  "Sosto kelal kesal">
-<!ENTITY syncKeyBackup.description "Kelal Sync maa ena waɗɗii ngam naatde e &syncBrand.fullName.label; e masiŋaaji goɗɗi. Tiiɗno sos tummbitere dannditol. Min mbaawaa wallude-ma heɓtude Kelal maa Sync.">
+<!ENTITY recoveryKeyBackup.description "Kelal Yiytorde maa ena waɗɗii ngam naatde e &syncBrand.fullName.label; e masiŋaaji goɗɗi. Tiiɗno sos tummbitere dannditol. Min mbaawaa wallude-ma heɓtude Kelal maa Yiytorde.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Winndito…">
 <!ENTITY button.syncKeyBackup.print.accesskey "W">
 <!ENTITY button.syncKeyBackup.save.label      "Danndu…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "D">
-<!-- New Account Page 3: Captcha -->
+<!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
 
-<!ENTITY setup.captchaPage2.title.label     "Tiiɗno Teeŋtin ɗ Wonaa Roboo">
-<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "Ɓeydu Kaɓirgol">
+<!ENTITY pairDevice.title.label             "Jokkondir Kaɓirɗi">
 <!ENTITY addDevice.showMeHow.label          "Hollu no waɗirtee.">
 <!ENTITY addDevice.dontHaveDevice.label     "Mi jogaaki kaɓirgol ngol jooni">
-<!ENTITY addDevice.setup.description.label  "Ngam daaƴtude, yah to Cuɓe &syncBrand.shortName.label; e kaɓirgol maa, cuɓo-ɗaa &#x0022;Ɓeydu Kaɓirgol&#x0022;.">
+<!ENTITY pairDevice.setup.description.label  "Ngam daaƴtude, labo &#x0022;Jokkondir Kaɓirgol&#x0022; e kaɓirgol maa ngola.">
 <!ENTITY addDevice.setup.enterCode.label    "Caggal ɗum, naatnu ngol dokkol:">
-<!ENTITY addDevice.dialog.description.label "Ngam daaƴtude kaɓirgol maa kesol ngol, yah to Cuɓe &syncBrand.shortName.label; e kaɓirgol ngol, cuɓo-ɗaa &#x0022;Seŋ&#x0022;.">
+<!ENTITY pairDevice.dialog.description.label "Ngam daaƴtude kaɓirgol maa kesol, labo &#x0022;Teelto Sync&#x0022; e kaɓirgol ngol.">
 <!ENTITY addDevice.dialog.enterCode.label   "Naatnu dokkol ngol kaɓirgol ngol hokkiri:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Tiiɗno fuɗɗito.">
-<!ENTITY addDevice.dialog.successful.label  "Kaɓirgol ngol ɓeydiraama no moƴƴi. Sanngoɗinal gadanal ngal maa won hoƴomaaji keewɗi etee maa gas e cakkitol.">
-<!ENTITY addDevice.dialog.syncKey.label     "Ngam daaƴtude kaɓirgol maa, maa soklu naatndude Kelal maa Sync. Tiiɗno winndito walla ndanndaa ngal kelal, njahdaa e maggal.">
+<!ENTITY addDevice.dialog.successful.label  "Kaɓirgol ngol ɓeydiraama no moƴƴi. Sanngoɗinal gadanal ngal maa won hojomaaji keewɗi etee maa gas e cakkitol.">
+<!ENTITY addDevice.dialog.recoveryKey.label     "Ngam daaƴtude kaɓirgol maa, maa soklu naatndude Kelal maa Yiytorde. Tiiɗno winndito walla ndanndaa ngal kelal, njahdaa e maggal.">
 <!ENTITY addDevice.dialog.connected.label   "Kaɓirgol Seŋiima">
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "Winndito">
-<!ENTITY existingSyncKey.description "Aɗa waawi heɓde tummbitare Kelal maa Sync so a hahii to Cuɓe &syncBrand.shortName.label; e kaɓirgol maa, labo-ɗaa &#x0022;Kelal Sync  Am&#x0022; les &#x0022;Toppito Konte&#x0022;.">
-<!ENTITY verifying.label              "Ena weewtoo…">
+<!ENTITY existingRecoveryKey.description "Aɗa waawi heɓde tummbitare Kelal maa Yiytorde so a hahii to Cuɓe &syncBrand.shortName.label; e kaɓirgol maa, labo-ɗaa &#x0022;Kelal Yiytorde  Am&#x0022; les &#x0022;Toppito Konte&#x0022;.">
+<!ENTITY verifying.label              "Nana ƴeewtoo…">
 <!ENTITY resetPassword.label          "Waklit Finnde">
 <!ENTITY resetSyncKey.label           "Mi majjiraama kaɓirgol am ngola.">
 <!-- Sync Options -->
@@ -95,7 +92,7 @@
 <!ENTITY choice2.merge.main.label      "Naattondir keɓe oo ordinateer e keɓe &syncBrand.shortName.label; am">
 <!ENTITY choice2.merge.recommended.label "Wasiyaaɗo:">
 <!ENTITY choice2.client.main.label     "Lomtin keɓe gonɗe e oo ordinateer fof keɓe &syncBrand.shortName.label; am">
-<!ENTITY choice2.server.main.label     "Lomtin kaɓirɗe  goɗɗe fof keɓe oo ordinateer">
+<!ENTITY choice2.server.main.label     "Lomtin kaɓirɗe goɗɗe fof keɓe oo ordinateer">
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "Teeŋtin">

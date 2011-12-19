@@ -36,13 +36,13 @@
    - ***** END LICENSE BLOCK ***** -->
 <!-- Values for changepassword.xul -->
 
-<!ENTITY setPassword.title  "Waylu Fiinde Baabaare">
+<!ENTITY setPassword.title  "Waylu Finnde Baabaare">
 <!ENTITY setPassword.tokenName.label "Kaɓirɗi Kisal">
 <!ENTITY setPassword.oldPassword.label "Finnde woodnde:">
 <!ENTITY setPassword.newPassword.label "Finnde hesere:">
 <!ENTITY setPassword.reenterPassword.label "Finnde hesere (goɗngol):">
 <!ENTITY setPassword.meter.label "Ɓetirɗe moƴƴugol finnde">
-<!ENTITY setPassword.meter.loading "Ena loowa">
+<!ENTITY setPassword.meter.loading "Nana loowa">
 <!-- Values for resetpassword.xul -->
 
 <!ENTITY resetPasswordButtonLabel "Firlit">
@@ -50,7 +50,7 @@
 <!ENTITY resetPassword.text  "So a waklitii finnde maa baabaare, finndeeji maa geese e iimeel, porme keɓe, seedamfaaje keeriiɗe, e kele suturo maa njejjite. Aɗa yenanaa yiɗde waklitde finnde baabaare maa?">
 <!-- Values for getpassword.xul -->
 
-<!ENTITY getPassword.title  "Naatnu Fiinde Baabaare">
+<!ENTITY getPassword.title  "Naatnu Finnde Baabaare">
 <!ENTITY getPassword.tokenName2.label "Kaɓirɗi Kisal:">
 <!ENTITY getPassword.password.label "Finnde:">
 <!-- These should be common -->
@@ -70,7 +70,7 @@
 
 <!ENTITY downloadCert.title "Aawto Seedamfaagu">
 <!ENTITY downloadCert.message1 "A naamnaama yo a hoolo Kohowo Seedamfaagu keso (CA).">
-<!ENTITY downloadCert.trustSSL "Hoolo oo CA e keftingol lowe geese.">
+<!ENTITY downloadCert.trustSSL "Trust this CA to identify websites.">
 <!ENTITY downloadCert.trustEmail "Hoolo oo CA e keftingol huutorɓe iimeel.">
 <!ENTITY downloadCert.trustObjSign "Hoolo oo CA e keftingol topotooɓe topirɗe.">
 <!ENTITY downloadCert.message3 "Before trusting this CA for any purpose, you should examine its certificate and its policy and procedures (if available).">
@@ -110,8 +110,8 @@
 <!ENTITY escrowWarn.message1 "Important: This certificate authority has asked to make a backup of your encryption private key.">
 <!ENTITY escrowWarn.benefit1 "The benefit is that if you lose access to your encryption private key, you can request a copy from this certificate authority.">
 <!ENTITY escrowWarn.message2 "However, your encryption private key will be stored by the certificate authority, and could be used to read your encrypted email or documents without your permission.">
-<!ENTITY examineCert.label "View Certificate">
-<!ENTITY examineCert.accesskey "V">
+<!ENTITY examineCert.label "Hollu Seedamfaagu">
+<!ENTITY examineCert.accesskey "H">
 
 <!ENTITY serverCrlNextupdate.message "Please ask your system administrator for assistance">
 <!-- Strings for the CreateCertInfo dialog  -->

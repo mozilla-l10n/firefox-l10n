@@ -63,7 +63,7 @@
 <!ENTITY  generalSecurityDetails   "Cariiɗe">
 <!ENTITY  generalSecurityDetails.accesskey "D">
 
-<!ENTITY  mediaTab              "Majaare">
+<!ENTITY  mediaTab              "Mejaaje">
 <!ENTITY  mediaTab.accesskey    "M">
 <!ENTITY  mediaLocation         "Nokkuure:">
 <!ENTITY  mediaText             "Binndo Jahdingol:">
@@ -78,7 +78,7 @@
 <!ENTITY  mediaSaveAs           "Danndu e Innde…">
 <!ENTITY  mediaSaveAs.accesskey "A">
 <!ENTITY  mediaSaveAs2.accesskey "e">
-<!ENTITY  mediaPreview          "Jiytindagol Majaare:">
+<!ENTITY  mediaPreview          "Jiytindagol Mejaare:">
 
 <!ENTITY  feedTab               "Bale">
 <!ENTITY  feedTab.accesskey     "F">

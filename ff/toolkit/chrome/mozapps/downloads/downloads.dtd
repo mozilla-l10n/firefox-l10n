@@ -4,8 +4,8 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY window.width2                    "485">
 <!ENTITY window.height                    "300"> 
 
-<!ENTITY starting.label                   "Ena fuɗɗoo…">
-<!ENTITY scanning.label                   "Ena niiwtoo mboroseeje…">
+<!ENTITY starting.label                   "Nana fuɗɗoo…">
+<!ENTITY scanning.label                   "Nana niiwtoo mborocce…">
 
 <!ENTITY downloads.title                  "Gawte">
 

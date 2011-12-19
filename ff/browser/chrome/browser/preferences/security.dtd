@@ -27,7 +27,7 @@
 
 <!ENTITY  useMasterPassword.label        "Huutoro finnde baabaare">
 <!ENTITY  useMasterPassword.accesskey    "H">
-<!ENTITY  changeMasterPassword.label     "Waylu Fiinde Baabaare…">
+<!ENTITY  changeMasterPassword.label     "Waylu Finnde Baabaare…">
 <!ENTITY  changeMasterPassword.accesskey "B">
 
 <!ENTITY  savedPasswords.label            "Danndu Finndeeji…">

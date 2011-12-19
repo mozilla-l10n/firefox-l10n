@@ -2,10 +2,25 @@
 <!ENTITY playButton.pauseLabel "Sabbo">
 <!ENTITY muteButton.muteLabel "Muumɗin">
 <!ENTITY muteButton.unmuteLabel "Ittu muumɗinal">
+
+<!ENTITY stats.media "Mejaaje">
+<!ENTITY stats.size "Ɓetol:">
+<!ENTITY stats.activity "Dille">
+<!ENTITY stats.activityPaused "Ena sabbii">
+<!ENTITY stats.activityPlaying "Ena tara">
+<!ENTITY stats.activityEnded "Gasii">
+<!ENTITY stats.activitySeeking "(ena yiyloo)">
+<!ENTITY stats.volume "Daande">
+<!ENTITY stats.channels "Cali">
+<!ENTITY stats.sampleRate "Jikkande Cookol">
+<!ENTITY stats.framesParsed "Kaareeje parsitaaɗe">
+<!ENTITY stats.framesDecoded "Kareeje dokkitaaɗe">
+<!ENTITY stats.framesPresented "Kaareeje kolliraaɗe">
+<!ENTITY stats.framesPainted "Kaareeje nataaɗe">
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
 "6:00:00", result string would be "5:00 of 6:00:00 elapsed".
 -->
 
-<!ENTITY scrubberScale.nameFormat "#1 of #2 ɓennii">
+<!ENTITY scrubberScale.nameFormat "#1 e nder #2 ɓennii">

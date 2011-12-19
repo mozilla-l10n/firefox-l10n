@@ -12,7 +12,7 @@
 <!ENTITY pluginWizard.licensePage.accept.label               "Mi jaɓii.">
 <!ENTITY pluginWizard.licensePage.deny.label                 "Mi jaɓaani (ceŋol maa haaytu looweede).">
 
-<!ENTITY pluginWizard.installPluginsPage.title               "Ena Loowa Ceŋe">
+<!ENTITY pluginWizard.installPluginsPage.title               "Nana Loowa Ceŋe">
 <!ENTITY pluginWizard.installPluginsPage.description.label   "&brandShortName; woni ko e loowde ceŋe…">
 
 <!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; gaynii loowde ceŋe ŋakkuɗe ɗee:">
@@ -21,6 +21,7 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; ena sokli hurmitineede ngam ceŋe(ol) mbaawa dogde.">
 
 <!ENTITY missingPlugin                                       "Ceŋol ena soklaa ngam jaytinde ndii loowdi.">
+<!ENTITY clickToPlayPlugin                                   "Tappu ɗoo ngam daaƴtude ceŋol.">
 <!ENTITY disabledPlugin                                      "Ngol ceŋol ko daaƴangol.">
 <!ENTITY blockedPlugin.label                                 "Ngol ceŋol daaƴaama ngam reende kisal maa.">
 
@@ -33,9 +34,9 @@
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "Loowtu hello ngoo">
 <!ENTITY reloadPlugin.post                                   " ngam fuɗɗitaade.">
-<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.please                                       "Neldu jaŋtol hookre">
-<!ENTITY report.submitting                                   "Ena nelda jaŋtol…">
+<!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.checkbox                                     "…tee neldaa jaŋtol hookre">
+<!ENTITY report.submitting                                   "Nana nelda jaŋtol…">
 <!ENTITY report.submitted                                    "Jaŋtol hookre neldaama.">
 <!ENTITY report.disabled                                     "Jaŋtagol kooke koko daaƴaa.">
 <!ENTITY report.failed                                       "Naatnoygol woorii.">

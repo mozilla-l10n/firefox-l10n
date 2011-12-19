@@ -11,12 +11,12 @@
 <!ENTITY testpilot.about.label                      "Baɗte Pilot Ƴeewndo">
 <!-- all studies window -->
 
-<!ENTITY testpilot.studiesWindow.title                  "Juurnitte Maa Pilot Ƴeewndo ">
+<!ENTITY testpilot.studiesWindow.title                  "Juurnitte Maa Pilot Ƴeewndo">
 <!ENTITY testpilot.studiesWindow.currentStudies.label   "Juurnitte Gonaaɗe">
 <!ENTITY testpilot.studiesWindow.finishedStudies.label  "Juurnitte Gasnaaɗe">
 <!ENTITY testpilot.studiesWindow.studyFindings.label    "Jiytanɗe Juurnitol">
 <!ENTITY testpilot.studiesWindow.settings.label         "Teelte">
-<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Ena loowop, tiiɗno sabbo…">
+<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Nana loowop, tiiɗno sabbo…">
 <!-- raw data dialog -->
 
 <!ENTITY testpilot.rawDataWindow.title                  "Pilot Ƴeewndo: Ɓeɓe Kecce">

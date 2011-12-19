@@ -94,23 +94,24 @@
 
 <!ENTITY browserContext.label         "Wanngorde">
 <!ENTITY browserContext.accesskey     "W">
-<!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
+<!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
 
-<!ENTITY resetContext.label           "Firlit">
-<!ENTITY resetContext.accesskey       "F">
+<!ENTITY resetContext2.label          "Reset Variables">
+<!ENTITY resetContext2.accesskey      "T">
 
 <!ENTITY executeMenu.label            "Hurmito">
 <!ENTITY executeMenu.accesskey        "r">
+<!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
+  -  the browser Error Console, the key should be identical to the property of
+  -  the same name in browser.dtd.
+  -->
 
-<!ENTITY toolsMenu.label              "Kuutorɗe">
-<!ENTITY toolsMenu.accesskey          "K">
-
-<!ENTITY errorConsoleCmd.label        "Ginorde Juume">
-<!ENTITY errorConsoleCmd.accesskey    "J">
 <!ENTITY errorConsoleCmd.commandkey   "j">
+<!-- LOCALIZATION NOTE (webConsoleCmd.commandkey): This command key launches
+  -  the browser WebConsole, the key should be identical to the property of
+  -  the same name in browser.dtd.
+  -->
 
-<!ENTITY webConsoleCmd.label          "Ginorde Geese">
-<!ENTITY webConsoleCmd.accesskey      "G">
 <!ENTITY webConsoleCmd.commandkey     "k">

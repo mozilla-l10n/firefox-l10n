@@ -13,8 +13,8 @@
 <!ENTITY useCurrentPage.label      "Huutoro Hello Wonaango">
 <!ENTITY useCurrentPage.accesskey  "W">
 <!ENTITY useMultiple.label         "Huutoro Kelle Gonaaɗe Ɗee">
-<!ENTITY useBookmark.label         "Huutoro Maantorol">
-<!ENTITY useBookmark.accesskey     "M">
+<!ENTITY chooseBookmark.label      "Huutoro Maantorol…">
+<!ENTITY chooseBookmark.accesskey  "M">
 <!ENTITY restoreDefault.label      "Artir e Goowaaɗo">
 <!ENTITY restoreDefault.accesskey  "A">
 

@@ -11,7 +11,7 @@
 <!ENTITY blockAutoRefresh.label          "Reentin-am so lowe geese etiima yiiltude walla hesɗitinde hello ngoo">
 <!ENTITY blockAutoRefresh.accesskey      "w">
 
-<!ENTITY browsing.label                  "Ena feeroo">
+<!ENTITY browsing.label                  "Nana feeroo">
 
 <!ENTITY useAutoScroll.label             "Huutoro ŋaylogol jaajol">
 <!ENTITY useAutoScroll.accesskey         "j">
@@ -59,22 +59,28 @@
 
 <!ENTITY updateTab.label                 "Hesɗitin">
 
-<!ENTITY autoCheck.label                 "Yiylo kesɗitine e jaajol to:">
-<!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate2.label       "Ɓeyditte">
-<!ENTITY enableAddonsUpdate2.accesskey   "t">
-<!ENTITY enableSearchUpdate.label        "Jiilorɗe">
-<!ENTITY enableSearchUpdate.accesskey    "o">
-<!ENTITY whenUpdatesFound.label          "So kesɗitine &brandShortName; njiytaama:">
-<!ENTITY askMe.label                     "Naamno-mi ko njiɗ-mi waɗde">
-<!ENTITY askMe.accesskey                 "m">
-<!ENTITY modeAutomatic.label             "Awwto tee loowaa kesɗitinal ngal e jaajol">
-<!ENTITY modeAutomatic.accesskey         "l">
-<!ENTITY modeAutoAddonWarn.label         "Reentin-am so ɗum maa daaƴ gooral e ɓeyditte am">
-<!ENTITY modeAutoAddonWarn.accesskey     "R">
+<!ENTITY updateApp.label                 "Kesɗitine &brandShortName;:">
+<!ENTITY updateAuto.label                "Loow kesɗitine e jaajol (ena wasiyaa: kisal ƴellitaama)">
+<!ENTITY updateAuto.accesskey            "L">
+<!ENTITY updateCheck.label               "Yuurnito kesɗitine, kono woppu am mi suɓoo loowgol">
+<!ENTITY updateCheck.accesskey           "Y">
+<!ENTITY updateManual.label              "Hoto yuurnito kesɗitine (wasiyaaka: ena ŋakki hisde)">
+<!ENTITY updateManual.accesskey          "H">
+
+<!ENTITY updateAutoAddonWarn.label       "Reentin-am so ɗum maa daaƴ gooral e ɓeyditte am">
+<!ENTITY updateAutoAddonWarn.accesskey   "R">
+
 <!ENTITY updateHistory.label             "Hollu Aslol Kesɗitine">
 <!ENTITY updateHistory.accesskey         "A">
+
+<!ENTITY useService.label                "Huutoro carwol cakkitol ngam loowde kesɗitine">
+<!ENTITY useService.accesskey            "c">
+
+<!ENTITY updateOthers.label              "Yesɗitin e jaajol:">
+<!ENTITY enableAddonsUpdate3.label       "Ɓeyditte">
+<!ENTITY enableAddonsUpdate3.accesskey   "t">
+<!ENTITY enableSearchUpdate.label        "Jiilorɗe">
+<!ENTITY enableSearchUpdate.accesskey    "o">
 
 <!ENTITY offlineNotify.label             "Haalan am so lowre geese naamniima mooftude keɓe ngam huutoreede e ceŋtol">
 <!ENTITY offlineNotify.accesskey         "l">
