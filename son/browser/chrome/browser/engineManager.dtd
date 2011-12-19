@@ -1,5 +1,5 @@
 <!ENTITY  engineManager.title       "Ceecijinay maašeede juwal">
-<!ENTITY  engineManager.style       "gam-hayri: 35em;">
+<!ENTITY  engineManager.style       "min-width: 35em;">
 <!ENTITY  engineManager.intro       "War na ceecijinawey wey sinji:">
 
 <!ENTITY  columnLabel.name          "Maa">
