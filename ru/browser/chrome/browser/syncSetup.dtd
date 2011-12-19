@@ -1,5 +1,5 @@
 <!ENTITY accountSetupTitle.label "Настройка &syncBrand.fullName.label;">
-<!ENTITY setup.pickSetupType.description "Добро пожаловать. Если вы никогда раньше не использовали &syncBrand.fullName.label;, вам нужно создать новую учётную запись.">
+<!ENTITY setup.pickSetupType.description2 "Добро пожаловать! Если вы никогда раньше не использовали &syncBrand.fullName.label;, вам нужно создать новую учётную запись.">
 <!ENTITY button.createNewAccount.label "Создать учётную запись">
 <!ENTITY button.haveAccount.label "У меня есть учётная запись">
 <!ENTITY setup.choicePage.title.label "Вы использовали раньше &syncBrand.fullName.label;?">
@@ -68,6 +68,8 @@
 <!ENTITY engine.passwords.accesskey "р">
 <!ENTITY engine.prefs.label "Настройки">
 <!ENTITY engine.prefs.accesskey "с">
+<!ENTITY engine.addons.label "Дополнения">
+<!ENTITY engine.addons.accesskey "п">
 <!ENTITY choice2.merge.main.label "Объединить данные этого компьютера с данными моего &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Рекомендуется:">
 <!ENTITY choice2.client.main.label "Заменить все данные на этом компьютере данными моего &syncBrand.shortName.label;">
