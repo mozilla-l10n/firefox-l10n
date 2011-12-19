@@ -256,8 +256,8 @@ can reach it easily. -->
 <!ENTITY inspectButton.label            "Հսկել">
 <!ENTITY inspectButton.accesskey        "Հ">
 <!ENTITY inspectCloseButton.tooltiptext "Close Inspector">
-<!ENTITY inspectStyleButton.label     "Style">
-<!ENTITY inspectStyleButton.accesskey "S">
+<!ENTITY inspectStyleButton.label     "Ոճը">
+<!ENTITY inspectStyleButton.accesskey "Ո">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Get More Tools">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "M">

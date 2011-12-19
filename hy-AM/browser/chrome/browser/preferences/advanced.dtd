@@ -105,8 +105,8 @@
 <!ENTITY updateManual.label              "Never check for updates (not recommended: security risk)">
 <!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateAutoAddonWarn.label       "Warn me if this will disable any of my add-ons">
-<!ENTITY updateAutoAddonWarn.accesskey   "W">
+<!ENTITY updateAutoAddonWarn.label       "Զգուշացրու ինձ եթե այն պիտի պասիվացնի որևէ հավելում">
+<!ENTITY updateAutoAddonWarn.accesskey   "Զ">
 
 <!ENTITY updateHistory.label             "Ցուցադրել Թարմացումների Պատմությունը">
 <!ENTITY updateHistory.accesskey         "Ց">
@@ -115,8 +115,8 @@
 <!ENTITY useService.accesskey            "b">
 
 <!ENTITY updateOthers.label              "Automatically update:">
-<!ENTITY enableAddonsUpdate3.label       "Add-ons">
-<!ENTITY enableAddonsUpdate3.accesskey   "o">
+<!ENTITY enableAddonsUpdate3.label       "Օժանդակիչներ">
+<!ENTITY enableAddonsUpdate3.accesskey   "Օ">
 <!ENTITY enableSearchUpdate.label        "Փնտրամեքենաներ">
 <!ENTITY enableSearchUpdate.accesskey    "h">
 
