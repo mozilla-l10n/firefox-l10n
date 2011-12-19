@@ -23,8 +23,8 @@
 <!ENTITY error.aborted "Video laden gestopt.">
 <!ENTITY error.network "Video afspelen afgebroken vanwege een netwerkfout.">
 <!ENTITY error.decode "Video kan niet afgespeeld worden omdat het bestand corrupt is.">
-<!ENTITY error.srcNotSupported "Videoormaat of MIME-type is niet ondersteund.">
-<!ENTITY error.noSource "Video niet gevonden.">
+<!ENTITY error.srcNotSupported "Videoformaat of MIME-type is niet ondersteund.">
+<!ENTITY error.noSource2 "Geen ondersteunde videoformat an MIME-type gevonden.">
 <!ENTITY error.generic "Video afspelen afgebroken vanwege een onbekende fout.">
 
 <!--
