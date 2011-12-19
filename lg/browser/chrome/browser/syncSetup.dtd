@@ -4,8 +4,7 @@
 
 <!ENTITY setup.pickSetupType.description "Tukusanyukidde, bwobanga tokozesangako &syncBrand.fullName.label;, ojjakwetaga okutondawo akaunta empya.">
 <!ENTITY button.createNewAccount.label "Tondawo Akaunta Empya">
-<!ENTITY setup.haveAccount.label "Nina akaunta ya &syncBrand.fullName.label;.">
-<!ENTITY button.connect.label    "Yunga">
+<!ENTITY button.haveAccount.label      "Nnina Akaunti">
 
 <!ENTITY setup.choicePage.title.label     "Walyo kozesezako &syncBrand.fullName.label;?">
 <!ENTITY setup.choicePage.new.label       "Sikozesangako &syncBrand.shortName.label;">
@@ -39,7 +38,7 @@
 <!ENTITY setup.ppLink.label         "Enkola Eyekyama Egobererwa">
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
-<!-- New Account Page 2: Sync Key -->
+<!-- My Recovery Key dialog -->
 
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; Efayo Ku Byekyama Byo">
 <!ENTITY setup.newRecoveryKeyPage.description.label "Okukakasa nti ebyekyamabyo bikumiddwa, bwiino wo yena atafutiddwa nga tanaba kutikibwa. Akasumuluzo akanunula aketagisa okujjamu olufutifuti teka tikiddwa.">
@@ -52,16 +51,14 @@
 <!ENTITY button.syncKeyBackup.print.accesskey "u">
 <!ENTITY button.syncKeyBackup.save.label      "Tereka…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "T">
-<!-- New Account Page 3: Captcha -->
+<!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
 
-<!ENTITY setup.captchaPage2.title.label     "Kakasa Nti Toli Kyuma Kikalimagezi">
-<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "Gatako Ekikozesebwa">
+<!ENTITY pairDevice.title.label             "Yunga Ebyuma">
 <!ENTITY addDevice.showMeHow.label          "Ndaga nga.">
 <!ENTITY addDevice.dontHaveDevice.label     "Sirina kikozesebwa nange">
-<!ENTITY addDevice.setup.description.label  "Okukitandika, genda kubilondebwako bya &syncBrand.shortName.label;  ku kyumakyo ekilala era olondeko &#x0022;Gatako Ekyuma &#x0022;.">
+<!ENTITY pairDevice.setup.description.label  "Okutandika, londa &#x0022;Yunga ekyuma&#x0022; kukyuma ekirala.">
 <!ENTITY addDevice.setup.enterCode.label    "Oluvanyuma, otekemu kodi eno:">
-<!ENTITY addDevice.dialog.description.label "Okukitandika, genda kubilondebwako bya &syncBrand.shortName.label; ku kyumakyo ekilala era olondeko &#x0022; Yunga &#x0022;.">
+<!ENTITY pairDevice.dialog.description.label "Okutandika ekyuma ekyirala, londa &#x0022;Tegeka Akatuusa&#x0022; ku kyuma ekyo.">
 <!ENTITY addDevice.dialog.enterCode.label   "Tekamu kodi ekuwereddwa ekyuma:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Bambi gezako nate.">
 <!ENTITY addDevice.dialog.successful.label  "Ekyuma kigattidwako bulungi. Okutusaganya okusooka kusoobola okutwala edakika nyinji ko era ejakumaliriza mukasirise.">

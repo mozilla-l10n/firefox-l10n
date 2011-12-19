@@ -24,6 +24,9 @@
 <!ENTITY netInterrupt.title "Okusenvula ebiwandiko Kutaataaganyiziddwamu">
 <!ENTITY netInterrupt.longDesc "<p>Akanoonya kayungiddwa bulungi, naye ennyunga yatataganye mukuwereza obubaka.  Bambi ddamu ogezeko nate.</p><ul><li>Olemeledwa okunoonya kumikutu emmilara? Kebelako ku nnyunga y'empuliziganya ya kompyuuta.</li><li>Wakyaliwo obuzibu? Webuzeeko eli addukanya empuliziganya oba agabilira kompyuuta yo eby'omukutu ogw'ensi yonna akuyambe.</li></ul>">
 
+<!ENTITY notCached.title "Ekiseera kyekyiwandiko Kiwedeko">
+<!ENTITY notCached.longDesc "<p>Ekiwandiko ekyisabiddwa tekiriwo muterekero lye'enonyeso.</p><ul><li>Nga ekyokwerinda, enonyeso tewereza yoka ebiwandiko ebyekika ekyo.</li><li>Koona, Ddamu Nate  okusaba nate ekiwandiko okuva ku kyapa wekiri.</li></ul>">
+
 <!ENTITY netOffline.title "Toli ku nkola y'Ekintu">
 <!ENTITY netOffline.longDesc2 "<p>Akanoonya kakolera ku lutimbe naye teluliiko n`olw`ekyo tekayinza kuyunga ku kintu ekisabiddwa.</p><ul><li>Kompyuta yo eyungiddwa ku mpuliriziganya ekola?</li><li>Nyiiga &quot; Gezako Nate&quot; okuyungibwa nate odemu otike omuko.</li></ul>">
 

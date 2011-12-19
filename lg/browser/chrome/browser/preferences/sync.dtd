@@ -17,7 +17,7 @@
 <!ENTITY myRecoveryKey.label          "Akasumuluzo Kange Akazaobujja">
 <!ENTITY resetSync2.label             "Ddamu Okwanaganye…">
 
-<!ENTITY addDevice.label              "Gatta ko Ekikozesebwa">
+<!ENTITY pairDevice.label             "Yunga Ebyuma Bibiri">
 
 <!ENTITY syncMy.label               "Kwanaganya">
 <!ENTITY engine.bookmarks.label     "Obulambe">

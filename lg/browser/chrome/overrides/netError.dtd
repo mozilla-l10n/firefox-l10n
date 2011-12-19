@@ -44,6 +44,9 @@ nti &brandShortName; bukkiriziddwa okuyingira ku Omukuttu.</li>
 <!ENTITY netInterrupt.title "Okuyungibwa kwataataaganyizibbwa">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!ENTITY notCached.title "Ekiseera kyekiwandiko Kiwedeko">
+<!ENTITY notCached.longDesc "<p>Ekiwandiko ekisabbidwa tekiriwo mu terekero lya &brandShortName;.</p><ul><li>Okuwabulwa mu byokwerinda, &brandShortName; tedamu kusaba nate ebiwandiko ebirimu bwino akumibwa.</li><li>Koona ku Gezako Nate okusaba ekiwandiko okuva ku kyapa kweva.</li></ul>">
+
 <!ENTITY netOffline.title "Toli ku lutimbe">
 <!ENTITY netOffline.longDesc2 "<ul> 
 <li>Nyiiga &quot;Gezako Natte&quot; okudda yungibwa nate odemu otike omuko.</li> 

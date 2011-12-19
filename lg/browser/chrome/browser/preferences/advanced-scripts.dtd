@@ -40,8 +40,8 @@
 
 <!ENTITY allowScripts.label             "Kkiriza scripts ku:">
 
-<!ENTITY moveResizeWindows.label        "Sseetula oba funza amaddirisa agaliwo">
-<!ENTITY moveResizeWindows.accesskey    "S">
+<!ENTITY moveResizePopupWindows.label     "Sseetula oba funza amaddirisa agefulumya">
+<!ENTITY moveResizePopupWindows.accesskey "S">
 <!ENTITY raiseLowerWindows.label        "Leeta kungulu oba ssa ewasi amaddirisa">
 <!ENTITY raiseLowerWindows.accesskey    "L">
 <!ENTITY disableContextMenus.label      "Jjamu oba leetamu kusizira ku biriwo">
