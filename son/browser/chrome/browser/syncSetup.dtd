@@ -4,8 +4,7 @@
 
 <!ENTITY setup.pickSetupType.description "Kubayni, ba war mana bay ka goy nda &syncBrand.fullName.label; jina, war ga hima ka kontu taaga tee.">
 <!ENTITY button.createNewAccount.label "Kontu taaga tee">
-<!ENTITY setup.haveAccount.label "Ay goo nda &syncBrand.fullName.label; kontu ka ben.">
-<!ENTITY button.connect.label    "Ciya">
+<!ENTITY button.haveAccount.label      "I Have an Account">
 
 <!ENTITY setup.choicePage.title.label     "War bay ka goy nda &syncBrand.fullName.label; han foo?">
 <!ENTITY setup.choicePage.new.label       "Ya na bay ka goy nda &syncBrand.shortName.label;">
@@ -39,7 +38,7 @@
 <!ENTITY setup.ppLink.label         "Sutura laadaa">
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
-<!-- New Account Page 2: Sync Key -->
+<!-- My Recovery Key dialog -->
 
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; ga joote nda war suturaa">
 <!ENTITY setup.newRecoveryKeyPage.description.label "Ka war suturaa tabatandi, war bayhayey kul n'ka tugandi jina kaŋ i ga zijandi. Yeetiyan kufaloo kaŋ ga waažibi ka war bayhayey kufal-kaa mana zijandi.">
@@ -52,16 +51,14 @@
 <!ENTITY button.syncKeyBackup.print.accesskey "r">
 <!ENTITY button.syncKeyBackup.save.label      "Gaabu…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "G">
-<!-- New Account Page 3: Captcha -->
+<!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
 
-<!ENTITY setup.captchaPage2.title.label     "Taare tabatandi kaŋ war manti goy-maršin">
-<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "Jinay foo tonton">
+<!ENTITY pairDevice.title.label             "Pair a Device">
 <!ENTITY addDevice.showMeHow.label          "Takaa cebe yane.">
 <!ENTITY addDevice.dontHaveDevice.label     "Goyjinaa ši ay kone sohõda">
-<!ENTITY addDevice.setup.description.label  "K'a tunandi, koy &syncBrand.shortName.label; suubarey do war jinay faa ga nda wa Jinay foo tonton suuba.">
+<!ENTITY pairDevice.setup.description.label  "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
 <!ENTITY addDevice.setup.enterCode.label    "Ašariyaa woo dam waati din:">
-<!ENTITY addDevice.dialog.description.label "Ka war jinay taagaa tunandi, koy &syncBrand.shortName.label; Suubarey do jinaa ga nda &#x0022;Connect.&#x0022; suuba">
+<!ENTITY pairDevice.dialog.description.label "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
 <!ENTITY addDevice.dialog.enterCode.label   "Ašariya kaŋ jinaa n'a noo dam:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Taare ceeci koyne.">
 <!ENTITY addDevice.dialog.successful.label  "Jinaa tontonandi ka boori. Šintin hangandiyanoo ga hin too miniti booboyaŋ nd'a mma ben bandafaaroo ra.">

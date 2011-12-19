@@ -25,7 +25,7 @@
 
 <!ENTITY update.checkingForUpdates  "Taagandirey ceeci…">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingAddonCompat "Tontoni cerekanbeyan ceeci…">
+<!ENTITY update.checkingAddonCompat "Ga tontoni cerekanbeyan koroši…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; n' ka taagandi">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->

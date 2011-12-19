@@ -24,6 +24,9 @@
 <!ENTITY netInterrupt.title "Bayhayey berandiri kay">
 <!ENTITY netInterrupt.longDesc "<p>Ceecikaa ciya boryo, amma ciyaroo kay waatoo kaŋ alhabarey goo ma berandi.  Taare wa ceeci koyne.</p><ul><li>War n'ka ši hin ka tataaru nungu tanayaŋ naaru? War ordinateroo ciyaroo koroši koyne.</li><li>Šenday goo hala sohõ? Wa war sankaa juwalkaa wala Interneti nookaa cee faaba se.</li></ul>">
 
+<!ENTITY notCached.title "Document Expired">
+<!ENTITY notCached.longDesc "<p>The requested document is not available in the browser's cache.</p><ul><li>As a security precaution, the browser does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
+
 <!ENTITY netOffline.title "Bila nda ciyari alhaali">
 <!ENTITY netOffline.longDesc2 "<p>Ceecikaa ga goy bila nda ciyari nda a ši hin ka hayiize wirantaa cee.</p><ul><li>War ordinateroo ga dobu sankay goyante ga?</li><li>War ceecikaa dam ciyari alhaali ra, de wa &quot;Ceeci koyne&quot; naagu ka moɲoo zumandi taaga.</li></ul>">
 

@@ -59,22 +59,28 @@
 
 <!ENTITY updateTab.label                 "Taagandiri">
 
-<!ENTITY autoCheck.label                 "Taagandirey ceeci ngi boŋše hala:">
-<!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate2.label       "Tontoney">
-<!ENTITY enableAddonsUpdate2.accesskey   "T">
-<!ENTITY enableSearchUpdate.label        "Ceeci maršiney">
-<!ENTITY enableSearchUpdate.accesskey    "e">
-<!ENTITY whenUpdatesFound.label          "Waati kaŋ taagandi ga duwandi &brandShortName; še:">
-<!ENTITY askMe.label                     "Ay hãa woo kaŋ ay ga baa ka tee">
-<!ENTITY askMe.accesskey                 "h">
-<!ENTITY modeAutomatic.label             "Bonše zumandi nda taagandiroo sinjandi">
-<!ENTITY modeAutomatic.accesskey         "B">
-<!ENTITY modeAutoAddonWarn.label         "Ay yaamar nda woo ga tontoney jerey kayandi">
-<!ENTITY modeAutoAddonWarn.accesskey     "A">
+<!ENTITY updateApp.label                 "&brandShortName; updates:">
+<!ENTITY updateAuto.label                "Automatically install updates (recommended: improved security)">
+<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateCheck.label               "Check for updates, but let me choose whether to install them">
+<!ENTITY updateCheck.accesskey           "C">
+<!ENTITY updateManual.label              "Never check for updates (not recommended: security risk)">
+<!ENTITY updateManual.accesskey          "N">
+
+<!ENTITY updateAutoAddonWarn.label       "Ay yaamar nda woo ga tontoney jerey kayandi">
+<!ENTITY updateAutoAddonWarn.accesskey   "A">
+
 <!ENTITY updateHistory.label             "Taagandiri taariku cebe">
 <!ENTITY updateHistory.accesskey         "a">
+
+<!ENTITY useService.label                "Use a background service to install updates">
+<!ENTITY useService.accesskey            "b">
+
+<!ENTITY updateOthers.label              "Automatically update:">
+<!ENTITY enableAddonsUpdate3.label       "Add-ons">
+<!ENTITY enableAddonsUpdate3.accesskey   "o">
+<!ENTITY enableSearchUpdate.label        "Ceeci maršiney">
+<!ENTITY enableSearchUpdate.accesskey    "e">
 
 <!ENTITY offlineNotify.label             "Har yane waati kaŋ tataataru nungu hãa ka bayhayey jiši bila-nda-ciyari goyyan še">
 <!ENTITY offlineNotify.accesskey         "H">

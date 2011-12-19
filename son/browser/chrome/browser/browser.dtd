@@ -90,6 +90,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "t">
 <!ENTITY fullScreenExit.label "Dijikul alhaali naŋ">
 <!ENTITY fullScreenExit.accesskey "D">
+<!ENTITY domFullScreenWarning.label "Press ESC to leave full-screen mode">
 
 <!ENTITY closeWindow.label "Zanfunoo daabu">
 <!ENTITY closeWindow.accesskey "d">
@@ -212,9 +213,12 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectPanelTitle.label      "HTML">
-<!ENTITY inspectButton.label          "Hawgay">
-<!ENTITY inspectButton.accesskey      "g">
+<!ENTITY inspectPanelTitle.label        "HTML">
+<!ENTITY inspectButton.label            "Hawgay">
+<!ENTITY inspectButton.accesskey        "g">
+<!ENTITY inspectCloseButton.tooltiptext "Close Inspector">
+<!ENTITY inspectStyleButton.label     "Fasal">
+<!ENTITY inspectStyleButton.accesskey "F">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Duu goyjinay tontoniyaŋ">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "n">
@@ -432,12 +436,17 @@ can reach it easily. -->
 <!ENTITY mediaHideControls.accesskey "D">
 <!ENTITY videoFullScreen.label       "Dijikul">
 <!ENTITY videoFullScreen.accesskey   "D">
+<!ENTITY videoSaveImage.label        "Save Snapshot As…">
+<!ENTITY videoSaveImage.accesskey    "S">
+<!ENTITY videoShowStats.label        "Show Statistics">
+<!ENTITY videoShowStats.accesskey    "t">
+<!ENTITY videoHideStats.label        "Hide Statistics">
+<!ENTITY videoHideStats.accesskey    "t">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
-
 
 
 <!ENTITY fullZoomEnlargeCmd.label       "Bebbeerandi">

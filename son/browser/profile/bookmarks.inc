@@ -22,17 +22,6 @@
 #define getting_started Go ma tun nda Firefox
 
 
-# LOCALIZATION NOTE (latest_headlines):
-
-# link title for the live bookmarks sample, a redirect on
-
-# http://en-US.fxfeeds.mozilla.com/en-US/firefox/headlines.xml
-
-# Changing the redirect is subject to approval of l10n-drivers.
-
-#define latest_headlines Albahar kokorantey
-
-
 # LOCALIZATION NOTE (firefox_heading):
 
 # Firefox links folder name
