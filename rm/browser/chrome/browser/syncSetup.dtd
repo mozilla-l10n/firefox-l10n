@@ -56,7 +56,7 @@
 <!ENTITY pairDevice.title.label             "Associar in apparat">
 <!ENTITY addDevice.showMeHow.label          "Mussar co far.">
 <!ENTITY addDevice.dontHaveDevice.label     "Jau n'hai betg qua l'apparat">
-<!ENTITY pairDevice.setup.description.label "Tscherna &#x0022;Associar in apparat&#x0022; sin tes auter apparat per activar.">
+<!ENTITY pairDevice.setup.description.label "Per activar, tscherna &#x0022;Associar in apparat&#x0022; sin tes auter apparat.">
 <!ENTITY addDevice.setup.enterCode.label    "Endatescha lura quest code:">
 <!ENTITY pairDevice.dialog.description.label "Per activar tes nov apparat, tscherna &#x0022;Configurar Sync&#x0022; sin l'apparat.">
 <!ENTITY addDevice.dialog.enterCode.label   "Endatescha il code che quest apparat ta mussa:">
