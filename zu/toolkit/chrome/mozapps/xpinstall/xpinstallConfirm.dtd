@@ -1,7 +1,7 @@
 <!-- extracted from institems.xul -->
 
 <!ENTITY dialog.title            "Ukufakelwa Kohlaka Olusetsenziswayo">
-<!ENTITY dialog.style            "Ububanzi: 47em;">
+<!ENTITY dialog.style            "width: 45em">
 <!ENTITY warningPrimary.label    "Faka okwengeziwe kuphela kusuka ebabhalini obethembayo.">
 <!ENTITY warningSecondary.label  "Uhlaka olusetshenziswayo olulimazayo lungayibulala ikhompyutha yakho noma lwenze ungabi namfihlo.">
 

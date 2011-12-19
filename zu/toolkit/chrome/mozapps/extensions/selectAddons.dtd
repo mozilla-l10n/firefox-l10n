@@ -1,4 +1,4 @@
-<!ENTITY upgrade.style               "ububanzi: 93ch; ukuphakama: 448px;">
+<!ENTITY upgrade.style               "width: 93ch; height: 448px;">
 
 <!ENTITY checking.heading            "Kuhlolwa izenezelo zakho">
 <!ENTITY checking.progress.label     "Ukuhlolwa kokungeziwe kwakho ukusebenzisa nale nguquko ye-&brandShortName;.">
@@ -10,17 +10,17 @@
 <!ENTITY select.keep                 "Gcina">
 <!-- LOCALIZATION NOTE (select.keep.style): Should be a width wide enough for
      the string in select.keep above. -->
-<!ENTITY select.keep.style           "ububanzi: 6ch;">
+<!ENTITY select.keep.style           "width: 6ch;">
 <!ENTITY select.action               "Isenzo">
 <!-- LOCALIZATION NOTE (select.action.style): Should be a width wide enough for
      the action strings in selectAddons.properties or brandShortName. -->
-<!ENTITY select.action.style         "ukunwebeka: 35ch;">
+<!ENTITY select.action.style         "width: 35ch;">
 <!ENTITY select.source               "Kufakelwe mhlaka">
 <!ENTITY select.name                 "Igama">
 <!-- LOCALIZATION NOTE (select.name.style): Should be a width small enough so
      the source column still has enough room for the source strings in
      selectAddons.properties. -->
-<!ENTITY select.name.style           "ukunwebeka: 33ch;">
+<!ENTITY select.name.style           "width: 33ch;">
 
 <!ENTITY confirm.heading             "Khetha izenezelo zakho">
 <!-- LOCALIZATION NOTE (confirm.description): The term used for "third parties"
