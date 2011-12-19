@@ -1,122 +1,122 @@
-<!ENTITY urlbar.emptytext      "Enter Search or Address">
+<!ENTITY urlbar.emptytext      "Ket Yeny onyo Kanonge">
 
-<!ENTITY back.label            "Back">
-<!ENTITY forward.label         "Forward">
-<!ENTITY reload.label          "Reload">
-<!ENTITY stop.label            "Stop">
-<!ENTITY go.label              "Go">
-<!ENTITY star.label            "Star">
+<!ENTITY back.label            "Cen">
+<!ENTITY forward.label         "Cwal">
+<!ENTITY reload.label          "Nwo pango">
+<!ENTITY stop.label            "Juk">
+<!ENTITY go.label              "Ceti">
+<!ENTITY star.label            "Lacer">
 
-<!ENTITY showTabs.label        "Show Tabs">
-<!ENTITY newtab.label          "New Tab">
-<!ENTITY closetab.label        "Close Tab">
+<!ENTITY showTabs.label        "Nyut Tab">
+<!ENTITY newtab.label          "Tab manyen">
+<!ENTITY closetab.label        "Ceg Tab">
 
 <!ENTITY cut.label             "Ngol">
 <!ENTITY copy.label            "Lok">
-<!ENTITY copyAll.label         "Copy All">
-<!ENTITY copylink.label        "Copy Link Location">
+<!ENTITY copyAll.label         "Lok Weng">
+<!ENTITY copylink.label        "Lok Kabedo me kube">
 <!ENTITY paste.label           "Daci">
-<!ENTITY pasteAndGo.label      "Paste &amp; Go">
-<!ENTITY delete.label          "Delete">
-<!ENTITY selectAll.label       "Select All">
-<!ENTITY noSuggestions.label   "(No suggestions)">
-<!ENTITY addToDictionary.label "Add to Dictionary">
-<!ENTITY inputMethod.label     "Select Input Method">
+<!ENTITY pasteAndGo.label      "Dac &amp; Ceti">
+<!ENTITY delete.label          "Jwa woko">
+<!ENTITY selectAll.label       "Yer Weng">
+<!ENTITY noSuggestions.label   "(Tam amia peke)">
+<!ENTITY addToDictionary.label "Med i Buk me gonyo nukuta">
+<!ENTITY inputMethod.label     "Yer Yore me Tic">
 
-<!ENTITY allPagesHeader.label      "All Pages">
-<!ENTITY bookmarksHeader.label     "Bookmarks">
+<!ENTITY allPagesHeader.label      "Pot karatac Weng">
+<!ENTITY bookmarksHeader.label     "Alama buk">
 <!ENTITY historyHeader.label       "Mukato">
-<!ENTITY desktopHeader.label       "Desktop">
+<!ENTITY desktopHeader.label       "Cal ma inyim kompiuta">
 
-<!ENTITY editBookmarkDialog.title  "Edit Bookmark">
-<!ENTITY editBookmarkDone.label    "Done">
-<!ENTITY editBookmarkTags.label    "Add tags here">
+<!ENTITY editBookmarkDialog.title  "Yub Alama buk">
+<!ENTITY editBookmarkDone.label    "Otum">
+<!ENTITY editBookmarkTags.label    "Med tag kany">
 
-<!ENTITY selectHelper.done         "Done">
+<!ENTITY selectHelper.done         "Otum">
 
-<!ENTITY addonsHeader.label        "Add-ons">
-<!ENTITY addonsLocal.label         "Your Add-ons">
-<!ENTITY addonsUpdate.label        "Update">
-<!ENTITY addonsRepo.label          "Nwong lamed ikome">
-<!ENTITY addonsRecommended.label   "Recommended">
+<!ENTITY addonsHeader.label        "Lamed-ikome">
+<!ENTITY addonsLocal.label         "Lamed-ikome mamegi">
+<!ENTITY addonsUpdate.label        "Ngec">
+<!ENTITY addonsRepo.label          "Nwong Lamed- ikome">
+<!ENTITY addonsRecommended.label   "Kimoko woko">
 <!ENTITY addonsSearch.label        "Yeny">
-<!ENTITY addonsSearch2.emptytext   "Search Catalog">
-<!ENTITY addonsSearch.recommended  "Recommended">
+<!ENTITY addonsSearch2.emptytext   "Yeny Canduk">
+<!ENTITY addonsSearch.recommended  "Kimoko woko">
 
-<!ENTITY addonOptions.label        "Options">
-<!ENTITY addonEnable.label         "mii tii">
+<!ENTITY addonOptions.label        "Me ayera">
+<!ENTITY addonEnable.label         "Mi tii">
 <!ENTITY addonDisable.label        "Kijuko woko">
-<!ENTITY addonInstall2.label       "Add to &brandShortName;">
-<!ENTITY addonUninstall.label      "Uninstall">
-<!ENTITY addonCancel.label         "Cancel">
-<!ENTITY addonShowPage.label       "Go to Page">
+<!ENTITY addonInstall2.label       "Med i &brandShortName;">
+<!ENTITY addonUninstall.label      "Pe I ket">
+<!ENTITY addonCancel.label         "Juki">
+<!ENTITY addonShowPage.label       "Cet i pot karatac">
 
-<!ENTITY downloadsHeader.label     "Downloads">
-<!ENTITY downloadShowPage.label    "Go to Page">
-<!ENTITY downloadShow2.label       "Find">
+<!ENTITY downloadsHeader.label     "En ma kigolo">
+<!ENTITY downloadShowPage.label    "Cet I pot karatac">
+<!ENTITY downloadShow2.label       "Nwong">
 <!ENTITY downloadOpen2.label       "Yab">
-<!ENTITY downloadCancel.label      "Cancel">
-<!ENTITY downloadPause.label       "Pause">
+<!ENTITY downloadCancel.label      "Juki">
+<!ENTITY downloadPause.label       "Cung manok">
 <!ENTITY downloadResume.label      "Dwogo">
-<!ENTITY downloadRetry.label       "Retry">
-<!ENTITY downloadRemove.label      "Remove">
-<!ENTITY downloadDelete.label      "Delete">
+<!ENTITY downloadRetry.label       "Tem nitit">
+<!ENTITY downloadRemove.label      "Kwany">
+<!ENTITY downloadDelete.label      "Jwa">
 <!ENTITY downloadFailed.label      "Pe olare">
 
-<!ENTITY noResults.label           "No results">
-<!ENTITY allBookmarks.label        "See all bookmarks">
+<!ENTITY noResults.label           "Adwogi pe">
+<!ENTITY allBookmarks.label        "Nen alama buk weng">
 
-<!ENTITY bookmarkPopup.label       "Yab Pot karatac ma kiketo">
-<!ENTITY bookmarkRemove.label      "Remove">
-<!ENTITY bookmarkEdit.label        "Edit">
-<!ENTITY bookmarkShortcut.label    "Add to Home Screen">
+<!ENTITY bookmarkPopup.label       "Pot karatac ma kiketo alama ne">
+<!ENTITY bookmarkRemove.label      "Kwany">
+<!ENTITY bookmarkEdit.label        "Yub">
+<!ENTITY bookmarkShortcut.label    "Med I gang kio ma neno">
 
 <!ENTITY identity.unverifiedsite2 "Kabedo me Web man pe poko ngec me tikitiki.">
-<!ENTITY identity.connectedTo2 "Connected to">
+<!ENTITY identity.connectedTo2 "Okube bot">
 <!-- Localization note (identity.runBy2)
  The layout of the identity dialog prevents combining this into a single string with
  substitution variables.  If it is difficult to translate the sense of the string
  with that structure, consider a translation which ignores the preceding domain and
  just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy2 "run by">
+<!ENTITY identity.runBy2 "Tiyo ki">
 
-<!ENTITY consoleHeader.label       "Error Console">
-<!ENTITY consoleAll.label          "All">
+<!ENTITY consoleHeader.label       "Bal me Coc">
+<!ENTITY consoleAll.label          "Weng">
 <!ENTITY consoleErrors.label       "Bal">
 <!ENTITY consoleWarnings.label     "Cik">
-<!ENTITY consoleMessages.label     "Messages">
-<!ENTITY consoleCodeEval.label     "Code:">
-<!ENTITY consoleClear.label        "Jwa">
+<!ENTITY consoleMessages.label     "Kwena">
+<!ENTITY consoleCodeEval.label     "Coc:">
+<!ENTITY consoleClear.label        "Ywe">
 <!ENTITY consoleEvaluate.label     "…">
-<!ENTITY consoleErrFile.label      "Ka ma Fail oaa iye:">
+<!ENTITY consoleErrFile.label      "Ka ma Fail oaa ie:">
 <!ENTITY consoleErrLine.label      "Rek:">
 <!ENTITY consoleErrColumn.label    "Rek atir:">
 
-<!ENTITY contextOpenInNewTab.label    "Open Link in New Tab">
+<!ENTITY contextOpenInNewTab.label    "Yab kakube i Lanyik manyen">
 <!ENTITY contextSaveImage.label       "Gwok Cal">
-<!ENTITY contextCopyLink.label        "Copy Link">
-<!ENTITY contextCopyEmail.label       "Copy Email Address">
-<!ENTITY contextCopyPhone.label       "Copy Phone Number">
-<!ENTITY contextCopyImageLocation.label       "Copy Image Location">
-<!ENTITY contextShareLink.label       "Share Link">
-<!ENTITY contextShareImage.label      "Share Image">
-<!ENTITY contextBookmarkLink.label    "Bookmark Link">
+<!ENTITY contextCopyLink.label        "Lok Kakube">
+<!ENTITY contextCopyEmail.label       "Lok Kanonge me Email">
+<!ENTITY contextCopyPhone.label       "Lok Namba me Cim">
+<!ENTITY contextCopyImageLocation.label       "Lok Kabedo me Cal">
+<!ENTITY contextShareLink.label       "Nywak Kakube">
+<!ENTITY contextShareImage.label      "Nywak Cal">
+<!ENTITY contextBookmarkLink.label    "Ket alama me Kakube">
 <!ENTITY contextSaveVideo.label       "Gwok Video">
-<!ENTITY contextShareVideo.label      "Share Video">
-<!ENTITY contextPlayMedia.label       "Play">
-<!ENTITY contextPauseMedia.label      "Pause">
-<!ENTITY contextFullScreen.label      "Full Screen">
-<!ENTITY contextEditBookmark.label    "Edit">
-<!ENTITY contextRemoveBookmark.label  "Remove">
-<!ENTITY contextShortcutBookmark.label "Add to Home Screen">
+<!ENTITY contextShareVideo.label      "Nywlak Video">
+<!ENTITY contextPlayMedia.label       "Tuki">
+<!ENTITY contextPauseMedia.label      "Cung manok">
+<!ENTITY contextFullScreen.label      "Kio me kompiuta Lung">
+<!ENTITY contextEditBookmark.label    "Yub">
+<!ENTITY contextRemoveBookmark.label  "Kwany">
+<!ENTITY contextShortcutBookmark.label "Med i Gang me Kio me kompiuta">
 
-<!ENTITY pageactions.saveas.pdf      "Save As PDF">
-<!ENTITY pageactions.share.page      "Share Page">
-<!ENTITY pageactions.password.forget "Forget Password">
-<!ENTITY pageactions.quit            "Quit">
-<!ENTITY pageactions.reset           "Clear Site Preferences">
-<!ENTITY pageactions.findInPage      "Find In Page">
+<!ENTITY pageactions.saveas.pdf      "Gwok Calo PDF">
+<!ENTITY pageactions.share.page      "Nywak Pot karatac">
+<!ENTITY pageactions.password.forget "Mi wi wil woko ki I cwil me donyo">
+<!ENTITY pageactions.quit            "Wek woko">
+<!ENTITY pageactions.reset           "Ywe koba me di bar">
+<!ENTITY pageactions.findInPage      "Nwong I Pot karatac">
 <!ENTITY pageactions.search.addNew   "Med Keno me Yeny">
-<!ENTITY pageactions.charEncoding    "Kite me gonyo ngec">
+<!ENTITY pageactions.charEncoding    "Kite me Gonyo ngec">
 
-<!ENTITY appMenu.siteOptions         "Site Options">
+<!ENTITY appMenu.siteOptions         "Me ayera pi di bar">

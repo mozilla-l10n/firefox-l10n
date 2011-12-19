@@ -1,24 +1,24 @@
 <!ENTITY prefsHeader.label                         "Nong ngec kibot">
-<!ENTITY about.title                               "About &brandShortName;">
-<!ENTITY about.button                              "Go to Page">
+<!ENTITY about.title                               "Makwako &brandShortName;">
+<!ENTITY about.button                              "Cet i Pot karatac">
 <!ENTITY content.title                             "Jami ma iyie">
-<!ENTITY reflowZoom.title                          "Reformat text on zoom">
-<!ENTITY showImages.title                          "Show images">
-<!ENTITY enableJavaScript.title                    "Enable JavaScript">
-<!ENTITY privacy.title                             "Privacy &amp; Security">
-<!ENTITY allowCookies.title                        "Allow cookies">
-<!ENTITY doNotTrack.title                          "Tell sites not to track me">
-<!ENTITY masterPassword.title                      "Use master password">
-<!ENTITY clearPrivateData2.title                   "Clear private data">
+<!ENTITY reflowZoom.title                          "Yub coc nitit ikom Dwogo">
+<!ENTITY showImages.title                          "Nyut Cal">
+<!ENTITY enableJavaScript.title                    "Mi JavaScript tii">
+<!ENTITY privacy.title                             "I mung pa dano &amp; Gwoko kuc">
+<!ENTITY allowCookies.title                        "Wek layeny">
+<!ENTITY doNotTrack.title                          "Waci di bar pe maka">
+<!ENTITY masterPassword.title                      "Tii ki lapung ma dit">
+<!ENTITY clearPrivateData2.title                   "Ywe tic pa dano">
 <!ENTITY clearPrivateData.button                   "Jwa">
-<!ENTITY rememberPasswords.title                   "Remember passwords">
-<!ENTITY language.title                            "Language">
-<!ENTITY language.auto                             "Auto-detect">
+<!ENTITY rememberPasswords.title                   "Poyo I cwil me dony">
+<!ENTITY language.title                            "Leb">
+<!ENTITY language.auto                             "Matime-Pire kene">
 <!ENTITY defaultBrowser.title                      "Gang me Layeny">
-<!ENTITY defaultBrowser.description                "Make &brandShortName; your default browser">
-<!ENTITY homepage.title                            "Start page">
-<!ENTITY homepage.none                             "Blank Page">
-<!ENTITY homepage.default                          "&brandShortName; Start">
-<!ENTITY homepage.currentpage                      "Use Current Page">
-<!ENTITY showCharsetEncoding.title                 "Show character encoding">
-<!ENTITY actionbar.default                         "&brandShortName; Settings">
+<!ENTITY defaultBrowser.description                "Mi &brandShortName; layeny gang megi">
+<!ENTITY homepage.title                            "Cak pot karatac">
+<!ENTITY homepage.none                             "Pot karatac ma nono">
+<!ENTITY homepage.default                          "&brandShortName; Cak">
+<!ENTITY homepage.currentpage                      "Tii ki pot karatc ma kombedi">
+<!ENTITY showCharsetEncoding.title                 "Nyut kit me cono">
+<!ENTITY actionbar.default                         "&brandShortName;Tero">

@@ -1,21 +1,21 @@
 
-<!ENTITY  splash_firstrun "Setting up &brandShortName;\u2026">
+<!ENTITY  splash_firstrun "Tero &brandShortName;\u2026">
 
-<!ENTITY  no_space_to_start_error "There is not enough space available for &brandShortName; to start.">
-<!ENTITY  error_loading_file "An error occurred when trying to load files required to run &brandShortName;">
+<!ENTITY  no_space_to_start_error "Kabedo tye manok pi &brandShortName; pi cako.">
+<!ENTITY  error_loading_file "Bal otime ikare me temo pango fail mamite pi tic i &brandShortName;">
 
-<!ENTITY  crash_reporter_title "&brandShortName; Crash Reporter">
-<!ENTITY  crash_message "&brandShortName; has crashed. Your tabs should be listed on the &brandShortName; Start page when you restart.">
-<!ENTITY  crash_help_message "Please help us fix this problem!">
-<!ENTITY  crash_send_report_message "Send Mozilla a crash report">
-<!ENTITY  crash_include_url "Include page address">
-<!ENTITY  crash_close_label "Close">
+<!ENTITY  crash_reporter_title "&brandShortName; Lami ngec me Bal ma time atura">
+<!ENTITY  crash_message "brandShortName opoto woko. Myero ki mi lanyik megi ikom brandShortName Cak pot karatac ka ce i nwoyo cako.">
+<!ENTITY  crash_help_message "Tim ber i kony wa cobo peko ma eni ni!">
+<!ENTITY  crash_send_report_message "Cwal ngec me poto atura pa Mozilla">
+<!ENTITY  crash_include_url "Med ie kanonge me pot karatac">
+<!ENTITY  crash_close_label "Ceg">
 <!ENTITY  crash_restart_label "Cak nitit &brandShortName;">
-<!ENTITY  sending_crash_report "Sending crash report\u2026">
+<!ENTITY  sending_crash_report "Cwalo ngec ma opoto aturat\u2026">
 <!ENTITY  exit_label "Dony woko">
 <!ENTITY  continue_label "Mede anyim">
 
-<!ENTITY  launcher_shortcuts_title "&brandShortName; Web Apps">
-<!ENTITY  launcher_shortcuts_empty "No web apps were found">
+<!ENTITY  launcher_shortcuts_title "&brandShortName; Tic me Web">
+<!ENTITY  launcher_shortcuts_empty "Tic me Web pe ononge">
 
 <!ENTITY choose_file "Yer Fail">

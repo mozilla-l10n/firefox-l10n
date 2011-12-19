@@ -1,12 +1,12 @@
-<!ENTITY empty.label            "Search">
-<!ENTITY newpref.label          "Add a New Preference">
+<!ENTITY empty.label            "Yeny">
+<!ENTITY newpref.label          "Med kob manyen">
 <!ENTITY addpref.name           "Nying">
 <!ENTITY addpref.value          "wel">
 
 <!ENTITY cancel.label           "Juk">
-<!ENTITY reset.label            "Reset">
-<!ENTITY done.label             "Done">
+<!ENTITY reset.label            "Ter nitit">
+<!ENTITY done.label             "Otum">
 
-<!ENTITY integer.label          "Integer">
-<!ENTITY string.label           "String">
-<!ENTITY boolean.label          "Boolean">
+<!ENTITY integer.label          "Namba ne">
+<!ENTITY string.label           "Tol">
+<!ENTITY boolean.label          "gin matye kwede acel ki not">

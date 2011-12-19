@@ -1,18 +1,18 @@
-<!ENTITY aboutPage.title                        "About &brandShortName;">
+<!ENTITY aboutPage.title                        "Makwako &brandShortName;">
 <!ENTITY aboutPage.faq.label                    "FAQ">
-<!ENTITY aboutPage.support.label                "Support">
-<!ENTITY aboutPage.privacyPolicy.label          "Privacy Policy">
-<!ENTITY aboutPage.rights.label                 "Know Your Rights">
-<!ENTITY aboutPage.relNotes.label               "Release Notes">
-<!ENTITY aboutPage.credits.label                "Credits">
-<!ENTITY aboutPage.checkForUpdates.button       "Rot pi ngec manyen">
-<!ENTITY aboutPage.checkForUpdates.checking     "Looking for updates…">
-<!ENTITY aboutPage.checkForUpdates.none         "No updates available">
-<!ENTITY aboutPage.checkForUpdates.found        "Update available">
+<!ENTITY aboutPage.support.label                "Cwak te">
+<!ENTITY aboutPage.privacyPolicy.label          "Cik pa Dano">
+<!ENTITY aboutPage.rights.label                 "Nge Twero ni">
+<!ENTITY aboutPage.relNotes.label               "Gony Coc">
+<!ENTITY aboutPage.credits.label                "Den">
+<!ENTITY aboutPage.checkForUpdates.button       "Rot pi Ngec">
+<!ENTITY aboutPage.checkForUpdates.checking     "Tye ka yenyo pi ngec…">
+<!ENTITY aboutPage.checkForUpdates.none         "Ngec pe nonge">
+<!ENTITY aboutPage.checkForUpdates.found        "Ngec nonge">
 <!-- LOCALIZATION NOTE:
      These strings are concatenated in order. Unneeded strings may be left blank.
 -->
 
 
-<!ENTITY aboutPage.licenseLink                  "Licensing information">
+<!ENTITY aboutPage.licenseLink                  "Ngec me lanycec">
 <!ENTITY aboutPage.licenseLinkSuffix            ".">
