@@ -1,8 +1,8 @@
 <!ENTITY window.title "Bainvegni a &brandShortName;">
 <!ENTITY header.label "Vuls ti ina nova adressa dad e-mail per &brandShortName;?">
-<!ENTITY other.languages "Nus mussain be providers che offreschan adressas en tia regiun. Clicca qua per mussar tut ils providers.">
-<!ENTITY error.line1 "Perstgisa, nus na pudevan betg chattar ina adressa d'e-mail proponida.">
-<!ENTITY error.line2 "Ti pos empruvar da tschertgar surnums u mintga auter term per chattar dapli adressas pussaivlas">
+<!ENTITY other.languages "Nus mussain be purschiders che offreschan adressas en tia regiun. Clicca qua per mussar tut ils purschiders.">
+<!ENTITY error.line1 "Perstgisa, nus n'avain chattà naginas propostas per adressas d'e-mail.">
+<!ENTITY error.line2 "Ti pos empruvar da tschertgar surnums u mintga auter term per chattar dapli adressas">
 
 <!-- LOCALIZATION NOTE(error.suggest.before, error.suggest.middle, error.suggest.after):
      error.suggest.before, error.suggest.middle, and error.suggest.after all go into
@@ -18,22 +18,22 @@
 <!ENTITY success.title.before "Olla ">
 <!ENTITY success.title.after ", suandantas adressas dad e-mail èn disponiblas:">
 <!ENTITY success.tip "(Ti pos era tschertgar surnums u mintga auter term per chattar dapli adressas)">
-<!ENTITY partnership.description "En collavuraziun cun differents providers po &brandShortName; ta porscher in nov conto dad e-mails. Endatescha be tes prenum e num u mintga auter pled che ti vuls en il champ survart per cumenzar.">
-<!ENTITY existing.header "Has gia ina adressa che ti vuls utilisar?">
+<!ENTITY partnership.description "En collavuraziun cun differents providers po &brandShortName; ta porscher in nov conto dad e-mails. Endatescha be tes prenum e num u mintga auter pled en il champ survart per cumenzar.">
+<!ENTITY existing.header "Has ti gia ina adressa che ti vuls utilisar?">
 <!ENTITY tinyheader.title "Gia ina adressa?">
 <!ENTITY tinyheader.existing "Interrumper ed utilisar mia adressa existenta">
 <!ENTITY content.close "Jau vi configurar pli tard mes conto.">
 <!ENTITY successful.title "Gratulaziun!">
 <!ENTITY successful.successMessage "Ti has configurà cun success tes conto.">
 <!ENTITY successful.write "Scriver in pèr e-mails">
-<!ENTITY successful.write.desc "Infurmescha tes amis e tia famiglia che ti has ina nova adressa.<br/> Quai è il motiv che ti has ina nova adressa, u betg?">
+<!ENTITY successful.write.desc "Fa savair tes amis e tia famiglia che ti has ina nova adressa.<br/> Perquai has ti ina nova adressa, u betg?">
 <!ENTITY successful.customize "Persunalisescha &brandShortName; cun cools supplements">
-<!ENTITY successful.customize.desc "I existan millis da supplements che ta laschan persunalisar &brandShortName; per ch'el correspunda a tes basegns specifics.">
+<!ENTITY successful.customize.desc "I dat millis da supplements che ta laschan persunalisar &brandShortName; per ch'el correspunda a tes agens basegns.">
 <!ENTITY successful.attach "Agiuntar ina signatura persunala a mes e-mails">
 <!ENTITY successful.attach.desc "Ti pos agiuntar automaticamain in citat u insatge davart tai a la fin da mintga messadi che ti tramettas.">
 <!ENTITY successful.close "Serrar questa fanestra.">
 <!ENTITY input.namePlaceholder "Tes num u surnum">
 <!ENTITY input.search "Tschertgar">
 <!ENTITY search_engine.title "Persunalisescha tia maschina da tschertgar">
-<!ENTITY search_engine.message "Tes provider dad e-mails ta po era porscher servetschs da tschertgar en la rait.">
+<!ENTITY search_engine.message "Tes purschider dad e-mails ta po era porscher servetschs da tschertgar en la rait.">
 <!ENTITY search_engine.button "Terminar">

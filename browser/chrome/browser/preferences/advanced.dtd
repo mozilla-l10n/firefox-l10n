@@ -58,20 +58,20 @@
 
 <!ENTITY updateTab.label                 "Actualisaziun">
 <!ENTITY updateApp.label                 "Actualisaziuns da &brandShortName;:">
-<!ENTITY updateAuto.label                "Installar automaticamain las actualisaziuns (recumandà, procura per dapli segirezza)">
+<!ENTITY updateAuto.label                "Installar automaticamain las actualisaziuns (recumandà, dapli segirezza)">
 <!ENTITY updateAuto.accesskey            "a">
-<!ENTITY updateCheck.label               "Tschertgar actualisaziuns, dentant dumandar sch'ella duai vegnir installada">
+<!ENTITY updateCheck.label               "Tschertgar actualisaziuns, dentant dumandar sch'ellas duain vegnir installadas">
 <!ENTITY updateCheck.accesskey           "T">
 <!ENTITY updateManual.label              "Mai tschertgar actualisaziuns (betg recumandà, privel da segirezza)">
 <!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateAutoAddonWarn.label       "M'avisar sche quai deactivescha intgins da mes supplements">
+<!ENTITY updateAutoAddonWarn.label       "M'avisar sche supplements vegnissan deactivads quatras">
 <!ENTITY updateAutoAddonWarn.accesskey   "a">
 
 <!ENTITY updateHistory.label             "Mussar la cronologia da las actualisaziuns">
 <!ENTITY updateHistory.accesskey         "c">
 
-<!ENTITY useService.label                "Utilisar in servetsch per installar actualisaziuns senza disturbi">
+<!ENTITY useService.label                "Utilisar in servetsch per installar actualisaziuns senza interrupziun">
 <!ENTITY useService.accesskey            "b">
 
 <!ENTITY updateOthers.label              "Actualisar automaticamain:">

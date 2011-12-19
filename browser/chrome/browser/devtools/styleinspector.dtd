@@ -28,7 +28,7 @@
   -  For every rule, the rule status is also displayed: a rule can be the best
   -  match, a match, a parent match, or a rule did not match the element the
   -  user has highlighted. -->
-<!ENTITY bestMatch             "Meglra correspundenza">
+<!ENTITY bestMatch             "La meglra correspundenza">
 <!ENTITY matched               "Correspundenza">
 <!ENTITY parentMatch           "Correspundenza da geniturs">
 <!ENTITY unmatched             "Nagina correspundenza">

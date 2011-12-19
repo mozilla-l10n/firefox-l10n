@@ -27,7 +27,7 @@
 <!ENTITY newVirtualFolderCmd.accesskey "S">
 <!ENTITY newOtherAccountsCmd.label "Auters contos…">
 <!ENTITY newOtherAccountsCmd.accesskey "O">
-<!ENTITY newCreateEmailAccountCmd.label "Reschaiver in nov conto…">
+<!ENTITY newCreateEmailAccountCmd.label "Ir per in nov conto…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "R">
 <!ENTITY newExistingEmailAccountCmd.label "In conto d'e-mail existent…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "E">

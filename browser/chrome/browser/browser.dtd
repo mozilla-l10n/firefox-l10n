@@ -435,7 +435,7 @@ can reach it easily. -->
 <!ENTITY mediaHideControls.accesskey "c">
 <!ENTITY videoFullScreen.label       "Maletg entir">
 <!ENTITY videoFullScreen.accesskey   "M">
-<!ENTITY videoSaveImage.label        "Memorisar maletg sco…">
+<!ENTITY videoSaveImage.label        "Memorisar il maletg sco…">
 <!ENTITY videoSaveImage.accesskey    "s">
 <!ENTITY videoShowStats.label        "Mussar la statistica">
 <!ENTITY videoShowStats.accesskey    "t">
