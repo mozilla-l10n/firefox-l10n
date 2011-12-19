@@ -34,6 +34,7 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "יש להפעיל מחדש את &brandShortName; כדי שהתוספים החיצוניים יתפקדו.">
 
 <!ENTITY missingPlugin                                       "נחוץ תוסף חיצוני כדי להציג תוכן זה.">
+<!ENTITY clickToPlayPlugin                                   "הקש כאן להפעלת התוסף.">
 <!ENTITY disabledPlugin                                      "תוסף חיצוני זה אינו פעיל.">
 <!ENTITY blockedPlugin.label                                 "תוסף זה נחסם כדי להגן עליך.">
 
@@ -46,12 +47,11 @@
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "טען מחדש את הדף">
 <!ENTITY reloadPlugin.post                                   ".">
-<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.please                                       "שלח דיווח קריסה">
+<!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.checkbox                                     "…ושלח דיווח קריסה">
 <!ENTITY report.submitting                                   "שולח דיווח…">
 <!ENTITY report.submitted                                    "דיווח קריסה נשלח.">
 <!ENTITY report.disabled                                     "דיווח קריסות מנוטרל.">
 <!ENTITY report.failed                                       "השליחה נכשלה.">
 <!ENTITY report.unavailable                                  "אין דיווח זמין.">
-
 
