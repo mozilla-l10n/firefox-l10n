@@ -32,7 +32,7 @@
 <!ENTITY report.disabled "බිඳවැටුම් වාර්තා කිරිම අබල (disable) කර ඇත.">
 <!ENTITY report.failed "යැවීම අසාර්ථක විය.">
 <!ENTITY reloadPlugin.pre "">
-<!ENTITY report.unavailable "වාරතාවක් නැත.">
+<!ENTITY report.unavailable "වාර්තාවක් නැත.">
 <!ENTITY reloadPlugin.post " නැවත උත්සාහ කිරීමට.">
 <!ENTITY report.submitting "වාර්තාව යවයි…">
 <!ENTITY report.submitted "බිඳවැටුම් වාර්තාව යවන ලදී.">

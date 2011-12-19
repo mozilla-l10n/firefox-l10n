@@ -69,7 +69,7 @@
 <!ENTITY confirm.client2.label "අවවාදයයි: මෙම පරිගණකයේ ඇති &brandShortName; පහත දත්ත මකනු ඇත:">
 
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY pairDevice.title.label             "Pair a Device">
+<!ENTITY pairDevice.title.label             "උපාංගයක් යුගල කරන්න">
 <!ENTITY addDevice.showMeHow.label          "කරන අයුරු පෙන්වන්න.">
 <!ENTITY addDevice.dontHaveDevice.label     "උපාංගය මා සතුව නැත">
 <!ENTITY addDevice.setup.enterCode.label    "පසුව, මෙම කේතය ඇතුළත් කරන්න:">
@@ -82,7 +82,7 @@
 
 <!ENTITY addDevice.dialog.connected.label   "සම්බන්ධිත උපාංග">
 
-<!ENTITY setup.signInPage.title.label "Sign In">
+<!ENTITY setup.signInPage.title.label "ඇතුළු වන්න (Sign In)">
 <!ENTITY existingRecoveryKey.description "You can get a copy of your Recovery Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Recovery Key&#x0022; under &#x0022;Manage Account&#x0022;.">
 <!ENTITY signIn.recoveryKey.label       "ප්‍රතිසාධන යතුර (Recovery Key)">
 <!ENTITY signIn.recoveryKey.accesskey   "K">

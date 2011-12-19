@@ -384,11 +384,6 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(පෞද්ගලික ගවේෂණය)">
 
 
-<!--
-Entities below were automatically added by compare-locales,
- based on en-US entities.
--->
-
 <!ENTITY appMenuCustomize.label "රිසිකරණය">
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY fullScreenButton.tooltip "කවුළුව තිරය පුරා විහිඳුවන්න">
@@ -513,7 +508,7 @@ Entities below were automatically added by compare-locales,
   -  "Scratchpad" in your locale. You should feel free to find a close
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
-<!ENTITY scratchpad.label             "Scratchpad">
+<!ENTITY scratchpad.label             "ස්ක්‍රැච්පෑඩ් (Scratchpad)">
 <!ENTITY scratchpad.accesskey         "s">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
@@ -522,7 +517,7 @@ Entities below were automatically added by compare-locales,
 
 <!ENTITY webDeveloperMenu.label       "වෙබ් සංවර්ධකයා">
 <!ENTITY webDeveloperMenu.accesskey   "W">
-<!ENTITY backForwardButtonMenu.tooltip "Right-click or pull down to show history">
-<!ENTITY backForwardButtonMenuMac.tooltip "Pull down to show history">
-<!ENTITY inspectContextMenu.label     "Inspect Element">
+<!ENTITY backForwardButtonMenu.tooltip "පෙරදෑ පෙන්වීමට පහළට අදින්න හෝ දකුණත් ක්ලික් කරන්න">
+<!ENTITY backForwardButtonMenuMac.tooltip "පෙරදෑ පෙන්වීමට පහළට අදින්න">
+<!ENTITY inspectContextMenu.label     "මෙම අංගය පරීක්ෂා කරන්න">
 <!ENTITY inspectContextMenu.accesskey "Q">
