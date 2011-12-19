@@ -1,5 +1,5 @@
 <!ENTITY newprofile.title             "Cwe Ladiro Gwoko ngec">
-<!ENTITY window.size                  "lace: 45em; bor ne: 32em;">
+<!ENTITY window.size                  "width: 45em; height: 32em;">
 <!-- First wizard page -->
 
 <!ENTITY profileCreationExplanation_1.text  "&brandShortName; gwoko ngec makwako gi tero ni ki gin ma imaro i yi kagwoko gin makwaki.">

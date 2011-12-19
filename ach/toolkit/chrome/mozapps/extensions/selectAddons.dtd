@@ -1,4 +1,4 @@
-<!ENTITY upgrade.style               "Lace: 93ch; bor ne: 448px;">
+<!ENTITY upgrade.style               "width: 93ch; height: 448px;">
 
 <!ENTITY checking.heading            "Roto Lamed ikome mamegi">
 <!ENTITY checking.progress.label     "Roto lamed ikome mamegi pi rwate gi kwede ki cik ma eni ni ki &brandShortName;.">
@@ -10,17 +10,17 @@
 <!ENTITY select.keep                 "Gwoki">
 <!-- LOCALIZATION NOTE (select.keep.style): Should be a width wide enough for
      the string in select.keep above. -->
-<!ENTITY select.keep.style           "Lace: 6ch;">
+<!ENTITY select.keep.style           "width: 6ch;">
 <!ENTITY select.action               "Keto itic">
 <!-- LOCALIZATION NOTE (select.action.style): Should be a width wide enough for
      the action strings in selectAddons.properties or brandShortName. -->
-<!ENTITY select.action.style         "Lace: 35ch;">
+<!ENTITY select.action.style         "width: 35ch;">
 <!ENTITY select.source               "Ki keto Ki">
 <!ENTITY select.name                 "Nying">
 <!-- LOCALIZATION NOTE (select.name.style): Should be a width small enough so
      the source column still has enough room for the source strings in
      selectAddons.properties. -->
-<!ENTITY select.name.style           "Lace: 33ch;">
+<!ENTITY select.name.style           "width: 33ch;">
 
 <!ENTITY confirm.heading             "Yer Lamed ikome Mamegi">
 <!-- LOCALIZATION NOTE (confirm.description): The term used for "third parties"
