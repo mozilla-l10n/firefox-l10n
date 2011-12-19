@@ -43,42 +43,14 @@
 <!-- File menu items -->
 
 
-<!ENTITY fileMenu.label "ملف">
-<!ENTITY fileMenu.accesskey "م">
-<!ENTITY openFileCmd.label "افتح ملفًا…">
-<!ENTITY openFileCmd.accesskey "ف">
-<!ENTITY openFileCmd.key "O">
-<!ENTITY openRemoteCmd.label "افتح موقع وب…">
-<!ENTITY openRemoteCmd.accesskey "و">
-<!ENTITY openRemoteCmd.key "L">
-<!ENTITY fileRecentMenu.label "الصفحات الحديثة">
-<!ENTITY fileRecentMenu.accesskey "د">
-<!ENTITY fileRevert.label "استرجع">
-<!ENTITY fileRevert.accesskey "ع">
-<!ENTITY saveCmd.label "احفظ">
-<!ENTITY saveCmd.accesskey "ظ">
 <!ENTITY saveCmd.key "S">
-<!ENTITY saveAsCmd.label "احفظ ك‍…">
-<!ENTITY saveAsCmd.accesskey "ك">
-
-<!ENTITY publishCmd.label "انشر">
-<!ENTITY publishCmd.accesskey "ن">
-<!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "انشر ك‍…">
-<!ENTITY publishAsCmd.accesskey "ش">
-<!ENTITY saveAsChangeEncodingCmd.label "احفظ وغيّر ترميز المحارف">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "ز">
 <!-- Edit menu items -->
 
-<!ENTITY editMenu.label "تحرير">
-<!ENTITY editMenu.accesskey "ت">
 <!ENTITY pasteNoFormatting.label "الصق بلا تنسيق">
 <!ENTITY pasteNoFormatting.accesskey "ب">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "الصق على صيغة…">
 <!ENTITY pasteAs.accesskey "ص">
-<!ENTITY publishSettings.label "إعدادات موقع النشر…">
-<!ENTITY publishSettings.accesskey "ع">
 <!ENTITY pasteAsQuotationCmd.label "الصق كاقتباس">
 <!ENTITY pasteAsQuotationCmd.accesskey "ت">
 <!ENTITY pasteAsQuotationCmd.key "o">
@@ -146,7 +118,7 @@
 <!ENTITY increaseFontSize.accesskey "ك">
 <!ENTITY increaseFontSize.key "+">
 <!-- + is above this key on many keyboards -->
-<!ENTITY increaseFontSize.key2 "=">
+<!ENTITY increaseFontSize.key2 "="> 
 
 <!ENTITY fontSizeMenu.label "الحجم">
 <!ENTITY fontSizeMenu.accesskey "ج">
@@ -211,11 +183,11 @@
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "أزل المرابط المسماة">
 <!ENTITY formatRemoveNamedAnchors.accesskey "ز">
-<!ENTITY formatRemoveNamedAnchors.key "A">
+<!ENTITY formatRemoveNamedAnchors2.key "R">
 
 <!ENTITY paragraphMenu.label "فقرة">
 <!ENTITY paragraphMenu.accesskey "ة">
-<!ENTITY paragraphParagraphCmd.label "فقرة">
+<!ENTITY paragraphParagraphCmd.label "فقرة">  
 <!ENTITY paragraphParagraphCmd.accesskey "ف">
 <!ENTITY heading1Cmd.label "رأس 1">
 <!ENTITY heading1Cmd.accesskey "1">
@@ -403,19 +375,19 @@
 <!ENTITY alignJustifyButton.tooltip "حاذِ النص مراعيًا الهامشين الأيمن والأيسر">
 <!-- Structure Toolbar Context Menu items -->
 
-<!ENTITY structSelect.label "اختر">
-<!ENTITY structSelect.accesskey "خ">
-<!ENTITY structRemoveTag.label "أزل الوسم">
-<!ENTITY structRemoveTag.accesskey "ز">
-<!ENTITY structChangeTag.label "غيّر الوسم">
-<!ENTITY structChangeTag.accesskey "غ">
+<!ENTITY structSelect.label         "اختر">
+<!ENTITY structSelect.accesskey     "خ">
+<!ENTITY structRemoveTag.label      "أزل الوسم">
+<!ENTITY structRemoveTag.accesskey  "ز">
+<!ENTITY structChangeTag.label      "غيّر الوسم">
+<!ENTITY structChangeTag.accesskey  "غ">
 <!-- TOC manipulation -->
 
-<!ENTITY insertTOC.label "أدرج">
-<!ENTITY insertTOC.accesskey "د">
-<!ENTITY updateTOC.label "حدّث">
-<!ENTITY updateTOC.accesskey "ح">
-<!ENTITY removeTOC.label "أزل">
-<!ENTITY removeTOC.accesskey "ز">
-<!ENTITY tocMenu.label "جدول المحتويات…">
-<!ENTITY tocMenu.accesskey "ج">
+<!ENTITY insertTOC.label          "أدرج">
+<!ENTITY insertTOC.accesskey      "د">
+<!ENTITY updateTOC.label          "حدّث">
+<!ENTITY updateTOC.accesskey      "ح">
+<!ENTITY removeTOC.label          "أزل">
+<!ENTITY removeTOC.accesskey      "ز">
+<!ENTITY tocMenu.label            "جدول المحتويات…">
+<!ENTITY tocMenu.accesskey        "ج">

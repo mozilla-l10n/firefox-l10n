@@ -100,31 +100,33 @@
 <!ENTITY otherActionsPrint1.accesskey "ط">
 <!-- Attachment context menu items -->
 
-<!ENTITY openAttachmentCmd.label "افتح">
-<!ENTITY openAttachmentCmd.accesskey "ف">
-<!ENTITY saveAsAttachmentCmd.label "احفظ ك‍…">
-<!ENTITY saveAsAttachmentCmd.accesskey "ك">
-<!ENTITY detachAttachmentCmd.label "ألغِ إرفاق…">
-<!ENTITY detachAttachmentCmd.accesskey "ق">
-<!ENTITY deleteAttachmentCmd.label "احذف">
-<!ENTITY deleteAttachmentCmd.accesskey "ذ">
-<!ENTITY openAllAttachmentsCmd.label "افتح الكل…">
-<!ENTITY openAllAttachmentsCmd.accesskey "ك">
-<!ENTITY saveAllAttachmentsCmd.label "احفظ الكل…">
-<!ENTITY saveAllAttachmentsCmd.accesskey "ح">
-<!ENTITY detachAllAttachmentsCmd.label "ألغ إرفاق الكل…">
-<!ENTITY detachAllAttachmentsCmd.accesskey "غ">
-<!ENTITY deleteAllAttachmentsCmd.label "احذف الكل…">
-<!ENTITY deleteAllAttachmentsCmd.accesskey "ف">
+<!ENTITY openAttachmentCmd.label    "افتح">
+<!ENTITY openAttachmentCmd.accesskey    "ف">
+<!ENTITY saveAsAttachmentCmd.label    "احفظ ك‍…">
+<!ENTITY saveAsAttachmentCmd.accesskey    "ك">
+<!ENTITY detachAttachmentCmd.label    "ألغِ إرفاق…">
+<!ENTITY detachAttachmentCmd.accesskey    "ق">
+<!ENTITY deleteAttachmentCmd.label    "احذف">
+<!ENTITY deleteAttachmentCmd.accesskey    "ذ">
+<!ENTITY openAllAttachmentsCmd.label    "افتح الكل…">
+<!ENTITY openAllAttachmentsCmd.accesskey    "ك">
+<!ENTITY saveAllAttachmentsCmd.label    "احفظ الكل…">
+<!ENTITY saveAllAttachmentsCmd.accesskey    "ح">
+<!ENTITY detachAllAttachmentsCmd.label    "ألغ إرفاق الكل…">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "غ">
+<!ENTITY deleteAllAttachmentsCmd.label    "احذف الكل…">
+<!ENTITY deleteAllAttachmentsCmd.accesskey    "ف">
+
+<!ENTITY openAttachment.tooltip "افتح الملف المرفق">
 <!-- Attachment toolbar items -->
 
-<!ENTITY saveAttachmentButton1.label "احفظ">
-<!ENTITY saveAttachmentButton1.tooltip "احفظ الملف المرفق">
-<!ENTITY saveAllAttachmentsButton1.label "احفظ الكل">
+<!ENTITY saveAttachmentButton1.label       "احفظ">
+<!ENTITY saveAttachmentButton1.tooltip     "احفظ الملف المرفق">
+<!ENTITY saveAllAttachmentsButton1.label   "احفظ الكل">
 <!ENTITY saveAllAttachmentsButton1.tooltip "احفظ جميع الملفات المرفقة">
 
-<!ENTITY copyLinkCmd.label "انسخ موقع الرابط">
-<!ENTITY copyLinkCmd.accesskey "خ">
+<!ENTITY copyLinkCmd.label        "انسخ موقع الرابط">
+<!ENTITY copyLinkCmd.accesskey    "خ">
 
 <!ENTITY CopyMessageId.label "انسخ معرّف الرسالة">
 <!ENTITY OpenMessageForMsgId.label "افتح الرسالة من أجل المعرّف">

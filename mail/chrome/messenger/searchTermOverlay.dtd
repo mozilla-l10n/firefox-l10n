@@ -1,8 +1,8 @@
-<!ENTITY matchAll.label "طابق كلّ التالي">
+<!ENTITY matchAll.label     "طابق كلّ التالي">
 <!ENTITY matchAll.accesskey "ط">
-<!ENTITY matchAny.label "طابق أيًّا من التالي">
+<!ENTITY matchAny.label     "طابق أيًّا من التالي">
 <!ENTITY matchAny.accesskey "ب">
-<!ENTITY matchAllMsgs.label "طابق كل الرسائل">
+<!ENTITY matchAllMsgs.label     "طابق كل الرسائل">
 <!ENTITY matchAllMsgs.accesskey "ق">
 <!-- LOCALIZATION NOTE  
   The values below are used to control the widths of the search widgets.

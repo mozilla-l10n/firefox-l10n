@@ -1,5 +1,5 @@
 <!ENTITY messengerWindow.title "البريد ومجموعات الأخبار">
-<!ENTITY titledefault.label "&brandFullName;">
+<!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 <!-- File Menu -->
 
@@ -23,8 +23,10 @@
 <!ENTITY newVirtualFolderCmd.accesskey "ح">
 <!ENTITY newOtherAccountsCmd.label "حسابات أخرى…">
 <!ENTITY newOtherAccountsCmd.accesskey "خ">
-<!ENTITY newEmailAccountCmd.label "حساب بريد…">
-<!ENTITY newEmailAccountCmd.accesskey "س">
+<!ENTITY newCreateEmailAccountCmd.label "احصل على حساب بريد جديد…">
+<!ENTITY newCreateEmailAccountCmd.accesskey "G">
+<!ENTITY newExistingEmailAccountCmd.label "حساب بريد موجود…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "و">
 <!ENTITY openMessageFileCmd.label "افتح رسالة محفوظة…">
 <!ENTITY openMessageFileCmd.accesskey "ف">
 <!ENTITY openAttachmentCmd.label "مرفقات">
@@ -54,9 +56,9 @@
 <!ENTITY renameFolder.accesskey "غ">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "اضغط المجلدات">
-<!ENTITY compactFolders.accesskey "د">
+<!ENTITY compactFolders.accesskey    "د">
 <!ENTITY emptyTrashCmd.label "أفرغ سلة المهملات">
-<!ENTITY emptyTrashCmd.accesskey "ف">
+<!ENTITY emptyTrashCmd.accesskey    "ف">
 <!ENTITY offlineMenu.label "غير متصل">
 <!ENTITY offlineMenu.accesskey "م">
 <!ENTITY offlineGoOfflineCmd.label "اعمل بلا اتصال">
@@ -134,6 +136,8 @@
 <!ENTITY messagePaneWide.accesskey "ع">
 <!ENTITY messagePaneVertical.label "منظور رأسي">
 <!ENTITY messagePaneVertical.accesskey "ر">
+<!ENTITY showFolderPaneCmd.label "لوحة المجلدات">
+<!ENTITY showFolderPaneCmd.accesskey "F">
 <!ENTITY showMessageCmd.label "لوح الرسائل">
 <!ENTITY showMessageCmd.accesskey "ح">
 
@@ -247,27 +251,27 @@ If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
 
-<!ENTITY fullZoomEnlargeCmd.label "كبّر">
-<!ENTITY fullZoomEnlargeCmd.accesskey "ر">
-<!ENTITY fullZoomEnlargeCmd.commandkey "+">
+<!ENTITY fullZoomEnlargeCmd.label       "كبّر">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "ر">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
-<!ENTITY fullZoomReduceCmd.label "صغّر">
-<!ENTITY fullZoomReduceCmd.accesskey "ص">
-<!ENTITY fullZoomReduceCmd.commandkey "-">
-<!ENTITY fullZoomReduceCmd.commandkey2 "">
+<!ENTITY fullZoomReduceCmd.label        "صغّر">
+<!ENTITY fullZoomReduceCmd.accesskey    "ص">
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
 
-<!ENTITY fullZoomResetCmd.label "أعِد ضبط">
-<!ENTITY fullZoomResetCmd.accesskey "ط">
-<!ENTITY fullZoomResetCmd.commandkey "0">
-<!ENTITY fullZoomResetCmd.commandkey2 "">
+<!ENTITY fullZoomResetCmd.label         "أعِد ضبط">
+<!ENTITY fullZoomResetCmd.accesskey     "ط">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY fullZoomToggleCmd.label "كبّر النص فقط">
-<!ENTITY fullZoomToggleCmd.accesskey "ص">
-<!ENTITY fullZoom.label "كبّر">
-<!ENTITY fullZoom.accesskey "ك">
+<!ENTITY fullZoomToggleCmd.label        "كبّر النص فقط">
+<!ENTITY fullZoomToggleCmd.accesskey    "ص">
+<!ENTITY fullZoom.label                 "كبّر">
+<!ENTITY fullZoom.accesskey             "ك">
 
 <!ENTITY pageSourceCmd.label "مصدر الرسالة">
 <!ENTITY pageSourceCmd.accesskey "ص">
@@ -342,25 +346,25 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newNewMsgCmd.accesskey "ر">
 <!ENTITY archiveMsgCmd.label "أرشيف">
 <!ENTITY archiveMsgCmd.accesskey "ف">
-<!ENTITY archiveMsgCmd.key "a">
+<!ENTITY archiveMsgCmd.key  "a">
 <!ENTITY cancelNewsMsgCmd.label "ألغِ الرسالة">
 <!ENTITY cancelNewsMsgCmd.accesskey "ر">
 <!ENTITY replyMsgCmd.label "رُدّ">
 <!ENTITY replyMsgCmd.accesskey "ر">
-<!ENTITY replyMsgCmd.key "r">
+<!ENTITY replyMsgCmd.key  "r">
 <!ENTITY replySenderCmd.label "رُد إلى المُرسِل فقط">
 <!ENTITY replySenderCmd.accesskey "م">
 <!ENTITY replyNewsgroupCmd.label "رُد على مجموعة الأخبار">
-<!ENTITY replyNewsgroupCmd.accesskey "د">
+<!ENTITY replyNewsgroupCmd.accesskey  "د">
 <!ENTITY replyToAllMsgCmd.label "ردّ على الجميع">
-<!ENTITY replyToAllMsgCmd.accesskey "ج">
-<!ENTITY replyToAllMsgCmd.key "r">
+<!ENTITY replyToAllMsgCmd.accesskey  "ج">
+<!ENTITY replyToAllMsgCmd.key  "r">
 <!ENTITY replyToListMsgCmd.label "رُدّ على القائمة">
-<!ENTITY replyToListMsgCmd.accesskey "ق">
-<!ENTITY replyToListMsgCmd.key "l">
+<!ENTITY replyToListMsgCmd.accesskey  "ق">
+<!ENTITY replyToListMsgCmd.key  "l">
 <!ENTITY forwardMsgCmd.label "مرّر">
 <!ENTITY forwardMsgCmd.accesskey "م">
-<!ENTITY forwardMsgCmd.key "l">
+<!ENTITY forwardMsgCmd.key  "l">
 <!ENTITY forwardAsMenu.label "مرّر ك‍">
 <!ENTITY forwardAsMenu.accesskey "ك">
 <!ENTITY forwardAsInline.label "ضمن السّياق">
@@ -858,14 +862,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY zoomWindow.label "قرّب">
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
 
-<!ENTITY preferencesCmdMac.label "تفضيلات…">
-<!ENTITY preferencesCmdMac.commandkey "،">
-<!ENTITY preferencesCmdMac.modifiers "accel">
-<!ENTITY servicesMenuMac.label "خدمات">
-<!ENTITY hideThisAppCmdMac.label "أخفِ &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey "H">
-<!ENTITY hideThisAppCmdMac.modifiers "accel">
-<!ENTITY hideOtherAppsCmdMac.label "أخفٍ البقية">
+<!ENTITY preferencesCmdMac.label        "تفضيلات…">
+<!ENTITY preferencesCmdMac.commandkey   "،">
+<!ENTITY preferencesCmdMac.modifiers    "accel">
+<!ENTITY servicesMenuMac.label          "خدمات">
+<!ENTITY hideThisAppCmdMac.label        "أخفِ &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
+<!ENTITY hideThisAppCmdMac.modifiers    "accel">
+<!ENTITY hideOtherAppsCmdMac.label      "أخفٍ البقية">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
-<!ENTITY showAllAppsCmdMac.label "أظهِر الكل">
+<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
+<!ENTITY showAllAppsCmdMac.label        "أظهِر الكل">

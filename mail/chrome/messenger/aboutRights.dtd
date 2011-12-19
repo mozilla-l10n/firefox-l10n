@@ -1,7 +1,7 @@
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "rtl">
-<!ENTITY rights.title "بخصوص حقوقك">
-<!ENTITY rights.intro-header "بخصوص حقوقك">
+<!ENTITY rights.title            "بخصوص حقوقك">
+<!ENTITY rights.intro-header     "بخصوص حقوقك">
 <!ENTITY rights.intro "&brandFullName; هو برنامج حرّ مفتوح المصدر، اشترك في بنائه الآلاف من أنحاء العالم. هناك بضعة أمور ينبغي أن تعلمها:">
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is

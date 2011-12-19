@@ -16,11 +16,17 @@
    -
    - The Initial Developer of the Original Code is
    - Netscape Communications Corporation.
-   - Portions created by the Initial Developer are Copyright (C) 1998-1999
+   - Portions created by the Initial Developer are Copyright (C) 1999-2000
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
+   -   Sammy Ford
+   -   Blake Ross
+   -   Ryan Cassin (rcassin@supernova.org)
+   -   Daniel Glazman (glazman@netscape.com)
+   -   Stephen Donner (technutz@netscape.net)
    -   Charles Manske (cmanske@netscape.com)
+   -   Ian Neal (iann_bugzilla@blueyonder.co.uk)
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -35,9 +41,30 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!-- Window title -->
 
-<!ENTITY windowTitle.label     "تحقق من مواقع الصور والروابط">
-<!ENTITY succeeded.label       "نجح">
-<!ENTITY failed.label          "فشل">
-<!ENTITY closeButton.label     "أغلِق">
+<!-- File menu items -->
+<!ENTITY openFileCmd.label "افتح ملفًا…">
+<!ENTITY openFileCmd.accesskey "ف">
+<!ENTITY openFileCmd.key "O">
+<!ENTITY openRemoteCmd.label "افتح موقع وب…">
+<!ENTITY openRemoteCmd.accesskey "و">
+<!ENTITY openRemoteCmd.key "L">
+<!ENTITY fileRecentMenu.label "الصفحات الأخيرة">
+<!ENTITY fileRecentMenu.accesskey "ر">
+<!ENTITY saveCmd.label "احفظ">
+<!ENTITY saveCmd.accesskey "ظ">
+<!ENTITY saveAsCmd.label "احفظ ك‍…">
+<!ENTITY saveAsCmd.accesskey "ك">
+<!ENTITY saveAsChangeEncodingCmd.label "احفظ وغيّر ترميز المحارف">
+<!ENTITY saveAsChangeEncodingCmd.accesskey "ت">
+<!ENTITY publishCmd.label "انشر">
+<!ENTITY publishCmd.accesskey "ش">
+<!ENTITY publishCmd.key "S">
+<!ENTITY publishAsCmd.label "انشر ك‍…">
+<!ENTITY publishAsCmd.accesskey "ن">
+<!ENTITY fileRevert.label "اعكس">
+<!ENTITY fileRevert.accesskey "س">
+
+<!-- Edit menu items -->
+<!ENTITY publishSettings.label "إعدادات موقع النشر…">
+<!ENTITY publishSettings.accesskey "ع">

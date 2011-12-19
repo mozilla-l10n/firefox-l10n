@@ -6,8 +6,8 @@
 
 <!ENTITY smtpDesc.label "مع أنّه بإمكانك تحديد أكثر من خادوم صادر (SMTP) ، إلا أنّ ذلك يفضّل فقط للمستخدمين الخبراء. يمكن أن يسبب إعداد أكثر من خادوم SMTP أخطاء عند إرسال الرّسائل.">
 
-<!ENTITY smtpListAdd.label "أضِف…">
-<!ENTITY smtpListAdd.accesskey "ض">
+<!ENTITY smtpListAdd.label  "أضِف…">
+<!ENTITY smtpListAdd.accesskey  "ض">
 <!ENTITY smtpListEdit.label "حرِّر…">
 <!ENTITY smtpListEdit.accesskey "ح">
 <!ENTITY smtpListDelete.label "أزِل">
@@ -18,6 +18,6 @@
 <!ENTITY serverDescription.label "الوصف:">
 <!ENTITY serverName.label "اسم الخادوم:">
 <!ENTITY serverPort.label "المَنفذ:">
-<!ENTITY userName.label "اسم المستخدم:">
+<!ENTITY userName.label   "اسم المستخدم:">
 <!ENTITY connectionSecurity.label "أمن الاتصال:">
-<!ENTITY authMethod.label "طريقة الاستيثاق: ">
+<!ENTITY authMethod.label   "طريقة الاستيثاق: ">

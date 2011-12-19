@@ -2,6 +2,6 @@
 <!ENTITY identityTitle.label "إعدادات الهويّة">
 <!ENTITY identityListDesc.label "اضبط إعدادات هذه الهويّة:">
 
-<!ENTITY settingsTab.label "الإعدادات">
+<!ENTITY settingsTab.label       "الإعدادات">
 <!ENTITY copiesFoldersTab.label "النُسخ والمجلدات">
-<!ENTITY addressingTab.label "التحرير والعنْوَنة">
+<!ENTITY addressingTab.label    "التحرير والعنْوَنة">
