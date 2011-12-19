@@ -153,7 +153,7 @@ nuair a bhios tu co-cheangailte ris an lìon gun urrainn dhut feuchainn riutha."
 <!ENTITY sort.name.tooltip                    "Seòrsaich a-rèir ainm">
 <!ENTITY sort.dateUpdated.label               "Ùrachadh mu dheireadh">
 <!ENTITY sort.dateUpdated.tooltip             "Seòrsaich a-rèir ceann-là an ùrachaidh">
-<!ENTITY sort.relevance.label                 "An seise as fhearr">
+<!ENTITY sort.relevance.label                 "A' mhaids as fhearr">
 <!ENTITY sort.relevance.tooltip               "Seòrsaich a-rèir buinteanais">
 <!ENTITY sort.price.label                     "Prìs">
 <!ENTITY sort.price.tooltip                   "Seòrsaich a-rèir na prìse">
