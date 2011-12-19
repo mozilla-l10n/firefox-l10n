@@ -41,22 +41,25 @@
 -->
 
 <!ENTITY updateTab.label                 "යාවත්කාලීන">
+<!ENTITY updateApp.label                 "&brandShortName; යාවත්කාලීන:">
+<!ENTITY updateAuto.label                "යාවත්කාලීන යාවත්කාලීන ස්වයංක්‍රීයව ස්ථාපනය කරන්න (ආරක්ෂීතබව වැඩිකරයි)">
+<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateCheck.label               "යාවත්කාලීන සඳහා පරීක්ෂා කරන්න, නමුත් ස්ථාපනය සඳහා මට කේරීමට ඉඩහරින්න">
+<!ENTITY updateCheck.accesskey           "C">
+<!ENTITY updateManual.label              "යාවත්කාලීන සඳහා ස්වයංක්‍රීයව පරීක්ෂා නොකරන්න (අනතුරුදායනවබ බව වැඩිකරයන නිසා නිර්දේශ නොකරයි)">
+<!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY autoCheck.label                 "යාවත්කාලීන සඳහා ස්වයංක්‍රීයව පරික්‍ෂා කරන්න:">
-<!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "F">
+<!ENTITY updateAutoAddonWarn.label       "මෙය මගේ ඇඩෝන කිසිවක් හෝ අබල කරයි නම් මට අනතුරු අඟවන්න">
+<!ENTITY updateAutoAddonWarn.accesskey   "W">
+
 <!ENTITY enableSearchUpdate.label        "සෙවුම් යන්ත්‍ර">
 <!ENTITY enableSearchUpdate.accesskey    "h">
-<!ENTITY whenUpdatesFound.label          "&brandShortName; වෙතට යාවත්කරන හමුවු විට දන්වන්න:">
-<!ENTITY askMe.label                     "මට අවශ්‍යදේ විමසන්න">
-<!ENTITY askMe.accesskey                 "k">
-<!ENTITY modeAutomatic.label             "යාවත්කාලීන ස්වයංක්‍රීයව බාගැනීම සහ ස්ථාපනය">
-<!ENTITY modeAutomatic.accesskey         "d">
-<!ENTITY modeAutoAddonWarn.label         "මෙය මාගේ ඇඩෝන අක්‍රීය කරයි නම් මට අවවාද කරන්න">
-<!ENTITY modeAutoAddonWarn.accesskey     "W">
 <!ENTITY updateHistory.label             "යාවත්කාලීන අතීතය පෙන්වන්න">
 <!ENTITY updateHistory.accesskey         "p">
+<!ENTITY useService.label                "යාවත්කාලීන ස්ථාපනය සඳහා පසුබ්ම් සේවාව (background service) භාවිතා කරන්න">
+<!ENTITY useService.accesskey            "b">
 
+<!ENTITY updateOthers.label              "ස්වයංක්‍රීයව යාවත්කාලීන කරන්න:">
 
 <!ENTITY encryptionTab.label             "සංකේතාංකනය">
 
@@ -104,9 +107,9 @@ Entities below were automatically added by compare-locales,
 
 <!ENTITY allowHWAccel.accesskey "h">
 <!ENTITY limitCacheSizeAfter.label "MB ක හිස් ඉඩක්">
-<!ENTITY enableAddonsUpdate2.label "ඇඩෝන">
+<!ENTITY enableAddonsUpdate3.label "ඇඩෝන">
 <!ENTITY limitCacheSizeBefore.accesskey "L">
-<!ENTITY enableAddonsUpdate2.accesskey "n">
+<!ENTITY enableAddonsUpdate3.accesskey "n">
 <!ENTITY overrideSmartCacheSize.label "ස්වයංක්‍රීය cache කළමණාකරණයන් ඉක්මවා යන්න">
 <!ENTITY submitCrashes.label "බිඳවැටුම් වාර්තා යවන්න">
 <!ENTITY allowHWAccel.label "ඇත්නම් දෘඩාංග වේග-උපාංග (acceleration) භාවිතා කරන්න">

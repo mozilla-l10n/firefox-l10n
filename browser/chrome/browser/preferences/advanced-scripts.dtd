@@ -10,5 +10,5 @@
 <!ENTITY raiseLowerWindows.accesskey    "R">
 <!ENTITY disableContextMenus.label      "ප්‍රකරණ මෙනුව අක්‍රීය හෝ ආදේශ කිරීම">
 <!ENTITY disableContextMenus.accesskey  "D">
-<!ENTITY moveResizeWindows.label        "දැනට ඇති කවුළුව ගෙන යන්න හෝ ප්‍රමාණය යළි සකසන්න">
-<!ENTITY moveResizeWindows.accesskey    "M">
+<!ENTITY moveResizePopupWindows.label     "දැනට ඇති පැනනඟින කවුළුව ගෙන යන්න හෝ ප්‍රමාණය යළි සකසන්න">
+<!ENTITY moveResizePopupWindows.accesskey "M">
