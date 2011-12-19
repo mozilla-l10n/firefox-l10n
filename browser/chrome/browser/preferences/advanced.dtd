@@ -22,7 +22,7 @@
 <!ENTITY checkSpelling.label             "মই লিখাৰ সময়তে বানান পৰীক্ষা কৰক">
 <!ENTITY checkSpelling.accesskey         "t">
 
-<!ENTITY systemDefaults.label            "ব্যৱস্থাপ্ৰণালীৰ অবিকল্পিত">
+<!ENTITY systemDefaults.label            "চিস্টেমৰ অবিকল্পিত">
 <!ENTITY alwaysCheckDefault.label        "আৰম্ভৰ সময়ত &brandShortName; অবিকল্পিত ব্ৰাউছাৰ হয় নে নহয় পৰীক্ষা কৰিব"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "w">
 <!ENTITY checkNow.label                  "এতিয়া পৰীক্ষা কৰক">
@@ -36,7 +36,7 @@
 
 <!ENTITY connection.label                "সংযোগ">
 
-<!ENTITY connectionDesc.label            "&brandShortName; কেনেদৰে ইন্টাৰনেটলৈ সংযোগ কৰে সংৰূপণ কৰক কৰক">
+<!ENTITY connectionDesc.label            "&brandShortName; কেনেদৰে ইন্টাৰনেটলৈ সংযোগ কৰে সংৰূপণ কৰক">
 <!ENTITY connectionSettings.label        "পছন্দসমূহ...">
 <!ENTITY connectionSettings.accesskey    "e">
 
@@ -105,5 +105,5 @@
 <!ENTITY viewCRLs.accesskey              "R">
 <!ENTITY verify2.label                    "প্ৰমাণীকৰণ">
 <!ENTITY verify2.accesskey                "V">
-<!ENTITY viewSecurityDevices.label       "সুৰক্ষাৰ ডিভাইচ">
+<!ENTITY viewSecurityDevices.label       "সুৰক্ষাৰ ডিভাইচসমূহ">
 <!ENTITY viewSecurityDevices.accesskey   "y">
