@@ -52,7 +52,7 @@ can reach it easily. -->
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "পৃষ্টা সংস্থাপন…">
 <!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printPreviewCmd.label "প্ৰিন্ট পুৰ্বপ্ৰদৰ্শন">
+<!ENTITY printPreviewCmd.label "প্ৰিন্ট পুৰ্বদৰ্শন">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "প্ৰিন্ট কৰক…">
 <!ENTITY printCmd.accesskey "P">
@@ -84,12 +84,13 @@ can reach it easily. -->
 <!ENTITY showAllTabsCmd.accesskey "A">
 
 <!ENTITY fullScreenMinimize.tooltip "সৰু কৰক">
-<!ENTITY fullScreenRestore.tooltip "পুনৰ সঞ্চয় কৰক">
+<!ENTITY fullScreenRestore.tooltip "পুনৰ সংৰক্ষণ কৰক">
 <!ENTITY fullScreenClose.tooltip "বন্ধ কৰক">
 <!ENTITY fullScreenAutohide.label "টুলবাৰসমূহ লুকাওক">
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "পুৰ্ণ পৰ্দা অৱস্থা প্ৰস্থান কৰক">
 <!ENTITY fullScreenExit.accesskey "F">
+<!ENTITY domFullScreenWarning.label "পূৰ্ণ-পৰ্দা অৱস্থা এৰিবলে ESC টিপক">
 
 <!ENTITY closeWindow.label "উইন্ডো বন্ধ কৰক">
 <!ENTITY closeWindow.accesskey "d">
@@ -105,9 +106,9 @@ can reach it easily. -->
 <!ENTITY unsortedBookmarksCmd.label "অসজোৱা পত্ৰচিহ্নসমূহ">
 <!ENTITY bookmarksToolbarChevron.tooltip "অধিক পত্ৰচিহ্ন দেখুৱাওক">
 
-<!ENTITY backCmd.label                "পাছলৈ">
+<!ENTITY backCmd.label                "পিছলৈ">
 <!ENTITY backCmd.accesskey            "B">
-<!ENTITY backButton.tooltip           "এটা পৃষ্ঠা পাছলৈ যাওক">
+<!ENTITY backButton.tooltip           "এটা পৃষ্ঠা পিছলৈ যাওক">
 <!ENTITY forwardCmd.label             "আগলৈ">
 <!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "এটা পৃষ্ঠা আগলৈ যাওক">
@@ -124,7 +125,7 @@ can reach it easily. -->
 <!ENTITY printButton.label            "প্ৰিন্ট কৰক">
 <!ENTITY printButton.tooltip          "এই পৃষ্ঠা প্ৰিন্ট কৰক">
 
-<!ENTITY backForwardItem.title        "পাছলৈ/আগলৈ">
+<!ENTITY backForwardItem.title        "পিছলৈ/আগলৈ">
 <!ENTITY locationItem.title           "অৱস্থান">
 <!ENTITY searchItem.title             "সন্ধান কৰক">
 <!ENTITY throbberItem.title           "কাৰ্য্য নিৰ্দেশক">
@@ -163,7 +164,7 @@ can reach it easily. -->
 <!ENTITY historySidebarCmd.accesskey    "s">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
-<!ENTITY toolsMenu.label              "সজুলিসমূহ">
+<!ENTITY toolsMenu.label              "সঁজুলিসমূহ">
 <!ENTITY toolsMenu.accesskey          "T"> 
 
 <!ENTITY keywordfield.label           "এই সন্ধানৰ বাবে এটা কিওৱাৰ্ড যোগ কৰক…">
@@ -182,11 +183,11 @@ can reach it easily. -->
 <!ENTITY webDeveloperMenu.label       "ৱেব উন্নয়নকাৰী">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
-<!ENTITY errorConsoleCmd.label        "ত্ৰুটি কনসল">
+<!ENTITY errorConsoleCmd.label        "ত্ৰুটি কনচৌল">
 <!ENTITY errorConsoleCmd.accesskey    "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY webConsoleCmd.label          "ৱেব কনসল">
+<!ENTITY webConsoleCmd.label          "ৱেব কনচৌল">
 <!ENTITY webConsoleCmd.accesskey      "W">
 <!ENTITY webConsoleCmd.commandkey     "k">
 
@@ -215,6 +216,9 @@ can reach it easily. -->
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "নীৰিক্ষণ কৰক">
 <!ENTITY inspectButton.accesskey      "I">
+<!ENTITY inspectCloseButton.tooltiptext "বন্ধ নীৰিক্ষক">
+<!ENTITY inspectStyleButton.label     "শৈলী">
+<!ENTITY inspectStyleButton.accesskey "S">
 
 <!ENTITY getMoreDevtoolsCmd.label        "অধিক সঁজুলিসমূহ প্ৰাপ্ত কৰক">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "M">
@@ -281,7 +285,7 @@ can reach it easily. -->
 <!ENTITY historyUndoMenu.label "শেহতীয়াভাৱে বন্ধ কৰা টেবসমূহ">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "শেহতীয়াভাৱে বন্ধ কৰা উইন্ডোসমূহ">
-<!ENTITY historyRestoreLastSession.label "পুৰ্বৱৰ্তী অভিবৰ্তন পুনৰ সঞ্চয় কৰক">
+<!ENTITY historyRestoreLastSession.label "পুৰ্বৱৰ্তী অভিবৰ্তন পুনৰ সংৰক্ষণ কৰক">
 
 <!ENTITY historyHomeCmd.label "ঘৰ">
 <!ENTITY showAllHistoryCmd2.label "সকলো ইতিহাস দেখুৱাওক">
@@ -377,24 +381,24 @@ can reach it easily. -->
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY sendPageCmd.label            "লিংক পঠাওক…">
 <!ENTITY sendPageCmd.accesskey        "e">
-<!ENTITY savePageCmd.label            "নতুন ৰূপে পৃষ্ঠা সঞ্চয় কৰক…">
+<!ENTITY savePageCmd.label            "নতুন ৰূপে পৃষ্ঠা সংৰক্ষণ কৰক…">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameCmd.label           "নতুন ৰূপে ফ্ৰেইম সঞ্চয় কৰক…">
+<!ENTITY saveFrameCmd.label           "নতুন ৰূপে ফ্ৰেইম সংৰক্ষণ কৰক…">
 <!ENTITY saveFrameCmd.accesskey       "F">
 <!ENTITY printFrameCmd.label          "ফ্ৰেইম প্ৰিন্ট কৰক…">
 <!ENTITY printFrameCmd.accesskey      "P">
-<!ENTITY saveLinkCmd.label            "নতুন ৰূপে লিংক সঞ্চয় কৰক…">
+<!ENTITY saveLinkCmd.label            "নতুন ৰূপে লিংক সংৰক্ষণ কৰক…">
 <!ENTITY saveLinkCmd.accesskey        "k">
 <!ENTITY sendLinkCmd.label            "লিংক পঠাওক…"> 
 <!ENTITY sendLinkCmd.accesskey        "d">
-<!ENTITY saveImageCmd.label           "নতুন ৰূপে ছবি সঞ্চয় কৰক…">
+<!ENTITY saveImageCmd.label           "নতুন ৰূপে ছবি সংৰক্ষণ কৰক…">
 <!ENTITY saveImageCmd.accesskey       "v">
-<!ENTITY saveVideoCmd.label           "নতুন ৰূপে ভিডিঅ' সঞ্চয় কৰক…">
+<!ENTITY saveVideoCmd.label           "নতুন ৰূপে ভিডিঅ' সংৰক্ষণ কৰক…">
 <!ENTITY saveVideoCmd.accesskey       "v">
-<!ENTITY saveAudioCmd.label           "নতুন ৰূপে অডিঅ' সঞ্চয় কৰক…">
+<!ENTITY saveAudioCmd.label           "নতুন ৰূপে অডিঅ' সংৰক্ষণ কৰক…">
 <!ENTITY saveAudioCmd.accesskey       "v">
 <!ENTITY sendImageCmd.label           "ছবি পঠাওক…">
 <!ENTITY sendImageCmd.accesskey       "n">
@@ -432,7 +436,12 @@ can reach it easily. -->
 <!ENTITY mediaHideControls.accesskey "C">
 <!ENTITY videoFullScreen.label       "পুৰ্ণ পৰ্দা">
 <!ENTITY videoFullScreen.accesskey   "F">
-
+<!ENTITY videoSaveImage.label        "স্নেপশ্বটক এই ধৰণে সংৰক্ষণ কৰক…">
+<!ENTITY videoSaveImage.accesskey    "S">
+<!ENTITY videoShowStats.label        "পৰিসংখ্যা দেখুৱাওক">
+<!ENTITY videoShowStats.accesskey    "t">
+<!ENTITY videoHideStats.label        "পৰিসংখ্যা লুকাওক">
+<!ENTITY videoHideStats.accesskey    "t">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
