@@ -1,0 +1,12 @@
+<!ENTITY empty.label            "Yiylo">
+<!ENTITY newpref.label          "Add a New Preference">
+<!ENTITY addpref.name           "Innde">
+<!ENTITY addpref.value          "Kiisol">
+
+<!ENTITY cancel.label           "Haaytu">
+<!ENTITY reset.label            "Firlit">
+<!ENTITY done.label             "Gasii">
+
+<!ENTITY integer.label          "Integer">
+<!ENTITY string.label           "String">
+<!ENTITY boolean.label          "Boolean">
