@@ -54,8 +54,8 @@
 <!ENTITY valueColumn.label "القيمة">
 <!-- Tooltips -->
 
-<!ENTITY prefColumnHeader.tooltip "انقر للتّرتيب">
-<!ENTITY columnChooser.tooltip "انقر لاختيار الأعمدة التي ستعرض">
+<!ENTITY prefColumnHeader.tooltip "انقر للتّرتيب"> 
+<!ENTITY columnChooser.tooltip "انقر لاختيار الأعمدة التي ستعرض"> 
 <!-- Context Menu -->
 
 <!ENTITY copyPref.key "C">

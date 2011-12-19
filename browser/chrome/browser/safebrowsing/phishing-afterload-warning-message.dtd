@@ -11,7 +11,7 @@
 <!ENTITY safeb.palm.accept.label "أخرجني من هنا!">
 <!ENTITY safeb.palm.accept.statustext "اذهب إلى الصفحة الرئيسية">
 <!ENTITY safeb.palm.decline.label "تجاهل هذا التحذير">
-<!ENTITY safeb.palm.decline.statustext "أغلق التحذير">
+<!ENTITY safeb.palm.decline.statustext "أغلق التحذير" >
 <!ENTITY safeb.palm.notforgery.label2 "هذا ليس تزوير وِب…">
 <!ENTITY safeb.palm.reportPage.label "لماذا مُنع هذا الموقع؟">
 
