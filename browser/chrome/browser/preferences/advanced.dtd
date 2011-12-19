@@ -40,7 +40,7 @@
 <!ENTITY connectionSettings.label        "Configuración…">
 <!ENTITY connectionSettings.accesskey    "o">
 
-<!ENTITY offlineStorage.label            "Archiváu de mou ensin conexón">
+<!ENTITY offlineStorage2.label            "Conteníu web y datos d'usuariu en mou ensin conexón">
 <!ENTITY limitCacheSizeBefore.label "Llimitar el caché a">
 <!ENTITY limitCacheSizeBefore.accesskey "m">
 <!ENTITY limitCacheSizeAfter.label "MB d'espaciu">
@@ -77,14 +77,14 @@
 
 <!ENTITY updateHistory.label             "Amosar historial d'anovamientos">
 <!ENTITY updateHistory.accesskey         "m">
-<!ENTITY enableAddonsUpdate3.label       "Complementos">
-<!ENTITY enableAddonsUpdate3.accesskey   "C">
+
 <!ENTITY offlineNotify.label             "Avisame cuando s'entrugue pa guardar datos en mou desconexón">
 <!ENTITY offlineNotify.accesskey         "t">
 <!ENTITY offlineNotifyExceptions.label   "Esceiciones...">
 <!ENTITY offlineNotifyExceptions.accesskey "s">
-
-<!ENTITY offlineAppsList.label           "Sitios web que tienen datos guardaos pal mou ensin conexón:">
+<!ENTITY clearOfflineAppCacheNow.label   "Llimpiar agora">
+<!ENTITY clearOfflineAppCacheNow.accesskey "r">
+<!ENTITY offlineAppsList2.label           "Los siguientes sitios tienen permisu pa guardar datos pal mou ensin conexón:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Desaniciar...">
 <!ENTITY offlineAppsListRemove.accesskey "i">
