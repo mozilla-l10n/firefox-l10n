@@ -58,22 +58,28 @@
 
 <!ENTITY updateTab.label                 "Atualizações">
 
-<!ENTITY autoCheck.label                 "Verificar automaticamente se há atualizações para:">
-<!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate2.label       "Extensões e temas">
-<!ENTITY enableAddonsUpdate2.accesskey   "E">
-<!ENTITY enableSearchUpdate.label        "Mecanismos de pesquisa">
-<!ENTITY enableSearchUpdate.accesskey    "M">
-<!ENTITY whenUpdatesFound.label          "Ao encontrar atualizações do &brandShortName;:">
-<!ENTITY askMe.label                     "Perguntar o que fazer">
-<!ENTITY askMe.accesskey                 "P">
-<!ENTITY modeAutomatic.label             "Receber e instalar a atualização automaticamente">
-<!ENTITY modeAutomatic.accesskey         "R">
-<!ENTITY modeAutoAddonWarn.label         "Alertar caso desative alguma extensão ou tema">
-<!ENTITY modeAutoAddonWarn.accesskey     "A">
+<!ENTITY updateApp.label                 "Atualizações do &brandShortName;">
+<!ENTITY updateAuto.label                "Instalar automaticamente (recomendado: maior segurança)">
+<!ENTITY updateAuto.accesskey            "I">
+<!ENTITY updateCheck.label               "Verificar, mas perguntar se desejo instalar">
+<!ENTITY updateCheck.accesskey           "V">
+<!ENTITY updateManual.label              "Nunca verificar (não recomendado: risco de segurança)">
+<!ENTITY updateManual.accesskey          "N">
+
+<!ENTITY updateAutoAddonWarn.label       "Alertar caso desative alguma extensão ou tema">
+<!ENTITY updateAutoAddonWarn.accesskey   "A">
+
 <!ENTITY updateHistory.label             "Histórico de atualizações">
 <!ENTITY updateHistory.accesskey         "H">
+
+<!ENTITY useService.label                "Usar um serviço para instalar atualizações em segundo plano">
+<!ENTITY useService.accesskey            "U">
+
+<!ENTITY updateOthers.label              "Atualizar automaticamente">
+<!ENTITY enableAddonsUpdate3.label       "Extensões e temas">
+<!ENTITY enableAddonsUpdate3.accesskey   "E">
+<!ENTITY enableSearchUpdate.label        "Mecanismos de pesquisa">
+<!ENTITY enableSearchUpdate.accesskey    "M">
 
 <!ENTITY offlineNotify.label             "Alertar quando um site solicitar armazenamento de dados para uso offline">
 <!ENTITY offlineNotify.accesskey         "A">

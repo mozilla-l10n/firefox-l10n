@@ -90,6 +90,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "O">
 <!ENTITY fullScreenExit.label "Sair do modo tela inteira">
 <!ENTITY fullScreenExit.accesskey "S">
+<!ENTITY domFullScreenWarning.label "Pressione ESC para sair do modo tela inteira">
 
 <!ENTITY closeWindow.label "Fechar janela">
 <!ENTITY closeWindow.accesskey "h">
@@ -212,9 +213,12 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectPanelTitle.label      "HTML">
-<!ENTITY inspectButton.label          "Inspecionar">
-<!ENTITY inspectButton.accesskey      "I">
+<!ENTITY inspectPanelTitle.label        "HTML">
+<!ENTITY inspectButton.label            "Inspecionar">
+<!ENTITY inspectButton.accesskey        "I">
+<!ENTITY inspectCloseButton.tooltiptext "Ocultar inspeção">
+<!ENTITY inspectStyleButton.label     "Estilos">
+<!ENTITY inspectStyleButton.accesskey "s">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Adicionar mais ferramentas">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "A">
@@ -393,15 +397,15 @@ can reach it easily. -->
 <!ENTITY saveImageCmd.label           "Salvar imagem como…">
 <!ENTITY saveImageCmd.accesskey       "i">
 <!ENTITY saveVideoCmd.label           "Salvar vídeo como…">
-<!ENTITY saveVideoCmd.accesskey       "S">
+<!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "Salvar áudio como…">
 <!ENTITY saveAudioCmd.accesskey       "S">
 <!ENTITY sendImageCmd.label           "Enviar imagem">
 <!ENTITY sendImageCmd.accesskey       "v">
 <!ENTITY sendVideoCmd.label           "Enviar vídeo…">
-<!ENTITY sendVideoCmd.accesskey       "n">
+<!ENTITY sendVideoCmd.accesskey       "r">
 <!ENTITY sendAudioCmd.label           "Enviar áudio…">
-<!ENTITY sendAudioCmd.accesskey       "n">
+<!ENTITY sendAudioCmd.accesskey       "r">
 <!ENTITY copyLinkCmd.label            "Copiar link">
 <!ENTITY copyLinkCmd.accesskey        "o">
 <!ENTITY copyImageCmd.label           "Copiar endereço da imagem">
@@ -419,20 +423,25 @@ can reach it easily. -->
 
 <!-- Media (video/audio) controls -->
 <!ENTITY mediaPlay.label             "Executar">
-<!ENTITY mediaPlay.accesskey         "E">
+<!ENTITY mediaPlay.accesskey         "u">
 <!ENTITY mediaPause.label            "Pausa">
-<!ENTITY mediaPause.accesskey        "P">
+<!ENTITY mediaPause.accesskey        "u">
 <!ENTITY mediaMute.label             "Desativar som">
 <!ENTITY mediaMute.accesskey         "a">
 <!ENTITY mediaUnmute.label           "Ativar som">
 <!ENTITY mediaUnmute.accesskey       "A">
 <!ENTITY mediaShowControls.label     "Exibir controles">
-<!ENTITY mediaShowControls.accesskey "c">
+<!ENTITY mediaShowControls.accesskey "n">
 <!ENTITY mediaHideControls.label     "Ocultar controles">
-<!ENTITY mediaHideControls.accesskey "c">
+<!ENTITY mediaHideControls.accesskey "n">
 <!ENTITY videoFullScreen.label       "Tela inteira">
 <!ENTITY videoFullScreen.accesskey   "T">
-
+<!ENTITY videoSaveImage.label        "Salvar quadro atual como…">
+<!ENTITY videoSaveImage.accesskey    "S">
+<!ENTITY videoShowStats.label        "Exibir estatísticas">
+<!ENTITY videoShowStats.accesskey    "e">
+<!ENTITY videoHideStats.label        "Ocultar estatísticas">
+<!ENTITY videoHideStats.accesskey    "e">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and

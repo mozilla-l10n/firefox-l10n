@@ -13,4 +13,4 @@
 <!ENTITY networkPanel.responseBodyUnknownType     "Tipo de conteúdo desconhecido">
 <!ENTITY networkPanel.responseNoBody              "Resposta sem conteúdo">
 <!ENTITY networkPanel.responseImage               "Imagem recebida">
-<!ENTITY networkPanel.responseImageCached         "Imagem do cache">
+<!ENTITY networkPanel.responseImageCached         "Imagem em cache">

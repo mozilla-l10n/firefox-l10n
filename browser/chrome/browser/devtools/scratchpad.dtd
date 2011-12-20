@@ -92,25 +92,26 @@
   -  enabled via the devtools.chrome.enabled preference. Formerly, this label
   -  was called "Chrome".
   -->
-<!ENTITY browserContext.label         "Navegador">
-<!ENTITY browserContext.accesskey     "N">
+<!ENTITY browserContext.label         "Janela do aplicativo">
+<!ENTITY browserContext.accesskey     "J">
 
-<!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
+<!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
-<!ENTITY resetContext.label           "Restaurar">
-<!ENTITY resetContext.accesskey       "R">
+<!ENTITY resetContext2.label          "Restaurar variáveis">
+<!ENTITY resetContext2.accesskey      "R">
 
 <!ENTITY executeMenu.label            "Execução">
 <!ENTITY executeMenu.accesskey        "x">
 
-<!ENTITY toolsMenu.label              "Ferramentas">
-<!ENTITY toolsMenu.accesskey          "F">
-
-<!ENTITY errorConsoleCmd.label        "Console de erros">
-<!ENTITY errorConsoleCmd.accesskey    "C">
+<!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
+  -  the browser Error Console, the key should be identical to the property of
+  -  the same name in browser.dtd.
+  -->
 <!ENTITY errorConsoleCmd.commandkey   "J">
 
-<!ENTITY webConsoleCmd.label          "Console da web">
-<!ENTITY webConsoleCmd.accesskey      "w">
+<!-- LOCALIZATION NOTE (webConsoleCmd.commandkey): This command key launches
+  -  the browser WebConsole, the key should be identical to the property of
+  -  the same name in browser.dtd.
+  -->
 <!ENTITY webConsoleCmd.commandkey     "K">
