@@ -43,43 +43,15 @@
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
 <!-- File menu items -->
-<!ENTITY fileMenu.label "ගොනු">
-<!ENTITY fileMenu.accesskey "F">
-<!ENTITY openFileCmd.label "ගොනුවක් විවෘත කරන්න...">
-<!ENTITY openFileCmd.accesskey "O">
-<!ENTITY openFileCmd.key "O">
-<!ENTITY openRemoteCmd.label "වෙබ් පිටුවක් විවෘත කරන්න...">
-<!ENTITY openRemoteCmd.accesskey "L">
-<!ENTITY openRemoteCmd.key "L">
-<!ENTITY fileRecentMenu.label "මෑතකාලීන පිටු">
-<!ENTITY fileRecentMenu.accesskey "R">
-<!ENTITY fileRevert.label "ප්‍රතිවර්තනය කරන්න">
-<!ENTITY fileRevert.accesskey "v">
-<!ENTITY saveCmd.label "සුරකින්න">
-<!ENTITY saveCmd.accesskey "S">
+
 <!ENTITY saveCmd.key "S">
-<!ENTITY saveAsCmd.label "සුරකින අයුර...">
-<!ENTITY saveAsCmd.accesskey "A">
-
-<!ENTITY publishCmd.label "ප්‍රකාශනය කරන්න">
-<!ENTITY publishCmd.accesskey "b">
-<!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "මෙලෙස ප්‍රකාශනය කරන්න...">
-<!ENTITY publishAsCmd.accesskey "h">
-<!ENTITY saveAsChangeEncodingCmd.label "අක්ෂර කේතනය වෙනස් කර සුරකින්න">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "E">
-
 
 <!-- Edit menu items -->
-<!ENTITY editMenu.label "සැකසුම්">
-<!ENTITY editMenu.accesskey "E">
 <!ENTITY pasteNoFormatting.label "හැඩගැසුම් නොමැතිව අලවන්න">
 <!ENTITY pasteNoFormatting.accesskey "o">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "අලවන අයුර">
 <!ENTITY pasteAs.accesskey "A">
-<!ENTITY publishSettings.label "අඩවි සැකසුම් ප්‍රකාශනය කරමින් තිබේ...">
-<!ENTITY publishSettings.accesskey "b">
 
 <!-- LOCALIZATION NOTE: Text for menu item is in editor.properties
      Set to: "Table" or "Nested Table" depending on context 
@@ -215,7 +187,7 @@
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "නම්කළ නැංගූරම් ඉවත්කිරීම">
 <!ENTITY formatRemoveNamedAnchors.accesskey "R">
-<!ENTITY formatRemoveNamedAnchors.key "A">
+<!ENTITY formatRemoveNamedAnchors2.key "A">
 
 <!ENTITY paragraphMenu.label "ඡේදය">
 <!ENTITY paragraphMenu.accesskey "P">
