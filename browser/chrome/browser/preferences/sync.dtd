@@ -17,7 +17,7 @@
 <!ENTITY myRecoveryKey.label          "Min gendannelsesnøgle">
 <!ENTITY resetSync2.label             "Nulstil Sync…">
 
-<!ENTITY addDevice.label              "Tilføj enhed">
+<!ENTITY pairDevice.label              "Tilføj enhed">
 
 <!ENTITY syncMy.label               "Synkroniser mine">
 <!ENTITY engine.bookmarks.label     "Bogmærker">
