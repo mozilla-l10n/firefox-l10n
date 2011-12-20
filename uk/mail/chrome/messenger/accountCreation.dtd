@@ -49,6 +49,8 @@
 <!ENTITY half-manual-test.accesskey      "т">
 <!ENTITY manual-edit.label               "Вручну">
 <!ENTITY manual-edit.accesskey           "В">
+<!ENTITY switch-to-provisioner.label     "Завести новий обліковий запис">
+<!ENTITY switch-to-provisioner.accesskey "З">
 
 
 <!ENTITY warning.label                   "Увага!">

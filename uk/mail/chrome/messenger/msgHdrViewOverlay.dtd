@@ -117,6 +117,8 @@
 <!ENTITY deleteAllAttachmentsCmd.label    "Видалити всі…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "д">
 
+<!ENTITY openAttachment.tooltip "Відкрити вкладений файл">
+
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Зберегти">
 <!ENTITY saveAttachmentButton1.tooltip     "Зберегти вкладений файл">
