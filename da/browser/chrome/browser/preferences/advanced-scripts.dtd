@@ -40,8 +40,8 @@
 
 <!ENTITY allowScripts.label             "Tillad scripts at:">
 
-<!ENTITY moveResizeWindows.label        "Flytte eller ændre størrelse på eksisterende vinduer">
-<!ENTITY moveResizeWindows.accesskey    "F">
+<!ENTITY moveResizePopupWindows.label        "Flytte eller ændre størrelse på pop op-vinduer">
+<!ENTITY moveResizePopupWindows.accesskey    "F">
 <!ENTITY raiseLowerWindows.label        "Maksimere eller minimere vinduer">
 <!ENTITY raiseLowerWindows.accesskey    "M">
 <!ENTITY disableContextMenus.label      "Deaktivere eller erstatte kontekstmenuer">

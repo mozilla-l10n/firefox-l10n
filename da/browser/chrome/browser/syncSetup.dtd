@@ -4,8 +4,7 @@
 
 <!ENTITY setup.pickSetupType.description "Velkommen. Hvis du aldrig har brugt &syncBrand.fullName.label; før så skal du oprette en ny konto.">
 <!ENTITY button.createNewAccount.label "Opret en ny konto">
-<!ENTITY setup.haveAccount.label "Jeg har allerede en &syncBrand.fullName.label;-konto">
-<!ENTITY button.connect.label    "Tilslut">
+<!ENTITY button.haveAccount.label "Jeg har allerede en konto">
 
 <!ENTITY setup.choicePage.title.label     "Har du brugt &syncBrand.fullName.label; før?">
 <!ENTITY setup.choicePage.new.label       "Jeg har aldrig brugt &syncBrand.shortName.label; før">
@@ -53,15 +52,13 @@
 <!ENTITY button.syncKeyBackup.save.label      "Gem…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "G">
 
-<!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "Bekræft venligst at du ikke er en robot">
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "Tilføj enhed">
+<!ENTITY pairDevice.title.label              "Tilføj enhed">
 <!ENTITY addDevice.showMeHow.label          "Vis mig hvordan.">
 <!ENTITY addDevice.dontHaveDevice.label     "Jeg har ikke enheden med mig">
-<!ENTITY addDevice.setup.description.label  "For at aktivere, gå til Indstillinger for &syncBrand.shortName.label; på din anden enhed og vælg &#x0022;Tilføj enhed&#x0022;.">
+<!ENTITY pairDevice.setup.description.label  "For at aktivere, vælg &#x0022;Tilføj enhed&#x0022; på din anden enhed.">
 <!ENTITY addDevice.setup.enterCode.label    "og derefter indtaste denne kode:">
-<!ENTITY addDevice.dialog.description.label "For at aktivere din nye enhed, gå til Indstillinger for &syncBrand.shortName.label; på enheden og vælg &#x0022;Tilslut.&#x0022;">
+<!ENTITY pairDevice.dialog.description.label "For at aktivere din nye enhed, vælg &#x0022;Opsæt Sync&#x0022; på enheden">
 <!ENTITY addDevice.dialog.enterCode.label   "Indtast koden som enheden leverer:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Prøv venligst igen.">
 <!ENTITY addDevice.dialog.successful.label  "Enheden er blevet tilføjet. Den indledende synkronisering kan tage op til flere minutter og vil færdiggøres i baggrunden.">
