@@ -10,7 +10,7 @@
 <!ENTITY select.keep                 "Manter">
 <!-- LOCALIZATION NOTE (select.keep.style): Should be a width wide enough for
      the string in select.keep above. -->
-<!ENTITY select.keep.style           "width:6ch;">
+<!ENTITY select.keep.style           "width:8ch;">
 <!ENTITY select.action               "Ação">
 <!-- LOCALIZATION NOTE (select.action.style): Should be a width wide enough for
      the action strings in selectAddons.properties or brandShortName. -->
