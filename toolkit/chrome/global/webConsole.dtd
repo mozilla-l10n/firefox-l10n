@@ -1,0 +1,16 @@
+<!ENTITY networkPanel.requestURL                  "URL de sol·licitud">
+<!ENTITY networkPanel.requestMethod               "Mètode de sol·licitud">
+<!ENTITY networkPanel.statusCode                  "Codi d'estat">
+
+<!ENTITY networkPanel.requestHeaders              "Capçaleres de la sol·licitud">
+<!ENTITY networkPanel.requestCookie               "Galeta enviada">
+<!ENTITY networkPanel.requestBody                 "Cos de la sol·licitud">
+<!ENTITY networkPanel.requestFormData             "Dades del formulari enviat">
+
+<!ENTITY networkPanel.responseHeaders             "Capçaleres de la resposta">
+<!ENTITY networkPanel.responseBody                "Cos de la resposta">
+<!ENTITY networkPanel.responseBodyCached          "Dades en la cau">
+<!ENTITY networkPanel.responseBodyUnknownType     "Tipus de contingut desconegut">
+<!ENTITY networkPanel.responseNoBody              "No hi ha cap cos de la resposta">
+<!ENTITY networkPanel.responseImage               "Imatge rebuda">
+<!ENTITY networkPanel.responseImageCached         "Imatge en la cau">
