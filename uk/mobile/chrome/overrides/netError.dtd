@@ -42,7 +42,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
 <!ENTITY notCached.title "Документ застарів">
-<!ENTITY notCached.longDesc "<p>Вказаний документ більше не є доступним у кеші &brandShortName;.</p><ul><li>З безпекової перестороги, &brandShortName; не перезавантажує чутливі документи автоматично.</li><li>Клацніть «Спробувати ще раз» щоб перезавантажити документ з сайта.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Вказаний документ більше не є доступним у кеші &brandShortName;.</p><ul><li>З безпекової перестороги, &brandShortName; не перезавантажує чутливі документи автоматично.</li><li>Клацніть «Спробувати знову» щоб перезавантажити документ з сайта.</li></ul>">
 
 <!ENTITY netOffline.title "Автономний режим">
 <!ENTITY netOffline.longDesc2 "
