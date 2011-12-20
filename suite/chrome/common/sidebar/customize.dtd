@@ -38,11 +38,11 @@
 <!-- extracted from ./customize.xul -->
 
 <!-- LOCALIZATION NOTE  sidebar.customize.title.label: Do NOT localize the term "&sidebarName;"  -->
-<!ENTITY sidebar.customize.title.label          "Налагодити &sidebarName;">
+<!ENTITY sidebar.customize.title.label          "Налаштувати &sidebarName;">
 <!-- LOCALIZATION NOTE  sidebar.customize.current.label: Do NOT localize the term "&sidebarName;"  -->
-<!ENTITY sidebar.customize.current.label        "Вкладки в in &sidebarName;:">
+<!ENTITY sidebar.customize.current.label        "Вкладки в &sidebarName;:">
 <!ENTITY sidebar.customize.current.accesskey    "В">
-<!ENTITY sidebar.customize.customize.label      "Налагодити вкладку…">
+<!ENTITY sidebar.customize.customize.label      "Налаштувати вкладку…">
 <!ENTITY sidebar.customize.customize.accesskey  "Н">
 <!ENTITY sidebar.customize.remove.label         "Вилучити">
 <!ENTITY sidebar.customize.remove.accesskey     "В">
@@ -50,7 +50,7 @@
 <!ENTITY sidebar.customize.additional.accesskey "Д">
 <!ENTITY sidebar.customize.add.label            "Додати">
 <!ENTITY sidebar.customize.add.accesskey        "Д">
-<!ENTITY sidebar.customize.preview.label        "Попередній перегляд…">
+<!ENTITY sidebar.customize.preview.label        "Перегляд…">
 <!ENTITY sidebar.customize.preview.accesskey    "П">
 <!ENTITY sidebar.customize.up.label             "Вгору">
 <!ENTITY sidebar.customize.up.accesskey         "В">

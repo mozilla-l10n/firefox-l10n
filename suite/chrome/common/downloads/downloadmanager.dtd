@@ -3,30 +3,30 @@
 <!ENTITY menuBar.tooltip                 "Меню">
 <!ENTITY searchBar.tooltip               "Пошук">
 
-<!ENTITY search.placeholder              "Search Downloads">
-<!ENTITY search.label                    "Пошук завантажень">
+<!ENTITY search.placeholder              "Пошук звантажень">
+<!ENTITY search.label                    "Пошук звантажень">
 <!ENTITY search.accesskey                "П">
 <!ENTITY search.key                      "f">
 
 <!ENTITY cmd.clearList.label             "Очистити">
-<!ENTITY cmd.clearList.tooltip           "Прибирає завершені, скасовані та невдалі завантаження зі списку">
+<!ENTITY cmd.clearList.tooltip           "Забирає завершені, скасовані та невдалі звантаження зі списку">
 <!ENTITY cmd.clearList.accesskey         "О">
 
-<!ENTITY col.name.label                  "Ім’я">
-<!ENTITY col.name.accesskey              "І">
-<!ENTITY col.name.tooltip                "Назва файлу">
+<!ENTITY col.name.label                  "Назва">
+<!ENTITY col.name.accesskey              "Н">
+<!ENTITY col.name.tooltip                "Назва файла">
 <!ENTITY col.status.label                "Стан">
 <!ENTITY col.status.accesskey            "С">
 <!ENTITY col.status.tooltip              "Стан">
-<!ENTITY col.actionPlay.label            "Пауза/Відновити/Повторити">
+<!ENTITY col.actionPlay.label            "Зупинити/відновити/повторити">
 <!ENTITY col.actionPlay.accesskey        "п">
-<!ENTITY col.actionPlay.tooltip          "Пауза/Відновити/Повторити">
-<!ENTITY col.actionStop.label            "Скасувати/Видалити">
+<!ENTITY col.actionPlay.tooltip          "Зупинити/відновити/повторити">
+<!ENTITY col.actionStop.label            "Скасувати/вилучити">
 <!ENTITY col.actionStop.accesskey        "С">
-<!ENTITY col.actionStop.tooltip          "Скасувати/Видалити">
-<!ENTITY col.progress.label              "Перебіг">
+<!ENTITY col.actionStop.tooltip          "Скасувати/вилучити">
+<!ENTITY col.progress.label              "Поступ">
 <!ENTITY col.progress.accesskey          "р">
-<!ENTITY col.progress.tooltip            "Перебіг">
+<!ENTITY col.progress.tooltip            "Поступ">
 <!ENTITY col.timeremaining.label         "Залишилось">
 <!ENTITY col.timeremaining.accesskey     "З">
 <!ENTITY col.timeremaining.tooltip       "Залишилось">
@@ -47,25 +47,25 @@
 <!ENTITY col.endtime.tooltip             "Закінчено">
 <!ENTITY col.progresstext.label          "&#037;">
 <!ENTITY col.progresstext.accesskey      "&#037;">
-<!ENTITY col.progresstext.tooltip        "Перебіг (&#037;)">
-<!ENTITY col.source.label                "Початковий код">
-<!ENTITY col.source.accesskey            "П">
-<!ENTITY col.source.tooltip              "Початковий код">
+<!ENTITY col.progresstext.tooltip        "Поступ (&#037;)">
+<!ENTITY col.source.label                "Код">
+<!ENTITY col.source.accesskey            "К">
+<!ENTITY col.source.tooltip              "Код">
 
-<!ENTITY view.columns.label              "Показати колонки">
+<!ENTITY view.columns.label              "Показати стовпці">
 <!ENTITY view.columns.accesskey          "П">
-<!ENTITY view.sortBy.label               "Сортування">
-<!ENTITY view.sortBy.accesskey           "С">
+<!ENTITY view.sortBy.label               "Упорядувати">
+<!ENTITY view.sortBy.accesskey           "У">
 
-<!ENTITY view.unsorted.label             "Несортоване">
+<!ENTITY view.unsorted.label             "Невпорядковано">
 <!ENTITY view.unsorted.accesskey         "Н">
 <!ENTITY view.sortAscending.label        "Висхідний порядок">
 <!ENTITY view.sortAscending.accesskey    "В">
 <!ENTITY view.sortDescending.label       "Низхідний порядок">
 <!ENTITY view.sortDescending.accesskey   "Н">
 
-<!ENTITY cmd.pause.label                 "Пауза">
-<!ENTITY cmd.pause.accesskey             "П">
+<!ENTITY cmd.pause.label                 "Зупинити">
+<!ENTITY cmd.pause.accesskey             "З">
 <!ENTITY cmd.resume.label                "Продовжити">
 <!ENTITY cmd.resume.accesskey            "П">
 <!ENTITY cmd.retry.label                 "Спробувати знову">
@@ -78,9 +78,9 @@
 <!ENTITY cmd.open.accesskey              "В">
 <!ENTITY cmd.show.label                  "Відкрити відповідну теку">
 <!ENTITY cmd.show.accesskey              "В">
-<!ENTITY cmd.goToDownloadPage.label      "Перейти на сторінку завантаження">
+<!ENTITY cmd.goToDownloadPage.label      "Перейти до сторінки звантаження">
 <!ENTITY cmd.goToDownloadPage.accesskey  "П">
-<!ENTITY cmd.copyDownloadLink.label      "Копіювати посилання на завантаження">
-<!ENTITY cmd.copyDownloadLink.accesskey  "К">
+<!ENTITY cmd.copyDownloadLink.label      "Скопіювати посилання на звантаження">
+<!ENTITY cmd.copyDownloadLink.accesskey  "С">
 <!ENTITY cmd.properties.label            "Властивості…">
 <!ENTITY cmd.properties.accesskey        "В">

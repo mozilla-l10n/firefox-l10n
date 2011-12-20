@@ -37,12 +37,12 @@
 
 <!ENTITY menuBar.tooltip       "Меню">
 <!ENTITY modeToolbar.tooltip   "Режим панелі інструментів">
-<!ENTITY entryToolbar.tooltip  "Панель інструментів вводу Javascript">
-<!ENTITY toolbarsCmd.label     "Показати/Сховати">
+<!ENTITY entryToolbar.tooltip  "Панель інструментів введення Javascript">
+<!ENTITY toolbarsCmd.label     "Показати/сховати">
 <!ENTITY toolbarsCmd.accesskey "П">
 <!ENTITY toolbarMode.label     "Режим">
 <!ENTITY toolbarMode.accesskey "Р">
-<!ENTITY toolbarEval.label     "Ввід JavaScript">
+<!ENTITY toolbarEval.label     "Введення JavaScript">
 <!ENTITY toolbarEval.accesskey "В">
 
 <!ENTITY all.accesskey         "A">

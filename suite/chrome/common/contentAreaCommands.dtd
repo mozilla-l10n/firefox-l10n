@@ -1,8 +1,8 @@
 <!-- Context Menu -->
-<!ENTITY popupWindowRejectCmd.label     "Reject popup windows from this website">
-<!ENTITY popupWindowRejectCmd.accesskey "o">
-<!ENTITY popupWindowAllowCmd.label      "Allow popup windows from this website">
-<!ENTITY popupWindowAllowCmd.accesskey  "o">
+<!ENTITY popupWindowRejectCmd.label     "Відкинути контекстні вікна з цього сайту">
+<!ENTITY popupWindowRejectCmd.accesskey "В">
+<!ENTITY popupWindowAllowCmd.label      "Дозволити контекстні вікна з цього сайту">
+<!ENTITY popupWindowAllowCmd.accesskey  "Д">
 <!ENTITY openLinkCmd.label            "Відкрити посилання в новому вікні">
 <!ENTITY openLinkCmd.accesskey        "В">
 <!ENTITY openLinkCmdInTab.label       "Відкрити посилання в новій вкладці">
@@ -13,24 +13,24 @@
 <!ENTITY openFrameCmd.accesskey       "В">
 <!ENTITY openFrameCmdInTab.label      "Відкрити рамку в новій вкладці">
 <!ENTITY openFrameCmdInTab.accesskey  "В">
-<!ENTITY keywordfield.label           "Add a Keyword for this Search…">
+<!ENTITY keywordfield.label           "Додати ключове слово для цього пошуку…">
 <!ENTITY keywordfield.accesskey       "K">
 <!ENTITY showOnlyThisFrameCmd.label     "Показати тільки цю рамку ">
 <!ENTITY showOnlyThisFrameCmd.accesskey "П">
 <!ENTITY goBackCmd.label              "Назад">
 <!ENTITY goBackCmd.accesskey          "Н">
-<!ENTITY goForwardCmd.label           "Переслати">
-<!ENTITY goForwardCmd.accesskey       "П">
+<!ENTITY goForwardCmd.label           "Далі">
+<!ENTITY goForwardCmd.accesskey       "Д">
 <!ENTITY goUpCmd.label                "Вгору">
 <!ENTITY goUpCmd.accesskey            "В">
 <!ENTITY reloadCmd.label              "Оновити">
 <!ENTITY reloadCmd.accesskey          "О">
 <!ENTITY reloadCmd.commandkey         "r">
-<!ENTITY stopCmd.label                "Стоп">
-<!ENTITY stopCmd.accesskey            "С">
+<!ENTITY stopCmd.label                "Зупинити">
+<!ENTITY stopCmd.accesskey            "З">
 <!ENTITY reloadFrameCmd.label         "Оновити рамку">
 <!ENTITY reloadFrameCmd.accesskey     "О">
-<!ENTITY viewPartialSourceForSelectionCmd.label "Перегляд коду виділеного фрагмента сторінки">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Перегляд коду вибраної частини сторінки">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Перегляд коду MathML">
 <!ENTITY viewPartialSourceCmd.accesskey "u">
 <!ENTITY viewPageSourceCmd.label      "Перегляд коду сторінки">
@@ -47,7 +47,7 @@
 <!ENTITY reloadImageCmd.accesskey     "R">
 <!ENTITY viewImageCmd.label           "Переглянути зображення">
 <!ENTITY viewImageCmd.accesskey       "П">
-<!ENTITY viewVideoCmd.label           "Переглянути відео">
+<!ENTITY viewVideoCmd.label           "Переглянути відеозапис">
 <!ENTITY viewVideoCmd.accesskey       "П">
 <!ENTITY viewBGImageCmd.label         "Переглянути зображення тла">
 <!ENTITY viewBGImageCmd.accesskey     "П">
@@ -68,54 +68,54 @@
 <!ENTITY saveFrameCmd.accesskey       "a">
 <!ENTITY saveLinkAsCmd.label          "Зберегти адресат посилання як…">
 <!ENTITY saveLinkCmd.label            "Зберегти адресат посалання">
-<!ENTITY saveLinkCmd.accesskey        "S">
+<!ENTITY saveLinkCmd.accesskey        "З">
 <!ENTITY saveImageAsCmd.label         "Зберегти зображення як…">
 <!ENTITY saveImageCmd.label           "Зберегти зображення">
 <!ENTITY saveImageCmd.accesskey       "З">
-<!ENTITY saveVideoCmd.label           "Зберегти відео як…">
+<!ENTITY saveVideoCmd.label           "Зберегти відеозапис як…">
 <!ENTITY saveVideoCmd.accesskey       "З">
-<!ENTITY saveAudioCmd.label           "Зберегти аудіо як…">
+<!ENTITY saveAudioCmd.label           "Зберегти аудіозапис як…">
 <!ENTITY saveAudioCmd.accesskey       "З">
-<!ENTITY copyLinkCmd.label            "Копіювати посилання">
-<!ENTITY copyLinkCmd.accesskey        "L">
-<!ENTITY copyImageCmd.label           "Копіювати зображення">
-<!ENTITY copyImageCmd.accesskey       "y">
-<!ENTITY copyVideoURLCmd.label        "Копіювати адресу відео">
+<!ENTITY copyLinkCmd.label            "Скопіювати посилання">
+<!ENTITY copyLinkCmd.accesskey        "С">
+<!ENTITY copyImageCmd.label           "Скопіювати зображення">
+<!ENTITY copyImageCmd.accesskey       "С">
+<!ENTITY copyVideoURLCmd.label        "Скопіювати адресу відеозапису">
 <!ENTITY copyVideoURLCmd.accesskey    "L">
-<!ENTITY copyAudioURLCmd.label        "Копіювати адресу аудіо">
-<!ENTITY copyAudioURLCmd.accesskey    "L">
+<!ENTITY copyAudioURLCmd.label        "Скопіювати адресу аудіозапису">
+<!ENTITY copyAudioURLCmd.accesskey    "С">
 <!ENTITY metadataCmd.label            "Властивості">
 <!ENTITY metadataCmd.accesskey        "В">
-<!ENTITY copyEmailCmd.label           "Копіювати адресу електронної пошти">
-<!ENTITY copyEmailCmd.accesskey       "s">
+<!ENTITY copyEmailCmd.label           "Скопіювати адресу електронної пошти">
+<!ENTITY copyEmailCmd.accesskey       "С">
 <!ENTITY thisFrameMenu.label          "У цій рамці">
 <!ENTITY thisFrameMenu.accesskey      "У">
-<!ENTITY mediaPlay.label              "Грати">
+<!ENTITY mediaPlay.label              "Програти">
 <!ENTITY mediaPlay.accesskey          "Г">
-<!ENTITY mediaPause.label             "Пауза">
+<!ENTITY mediaPause.label             "Призупинити">
 <!ENTITY mediaPause.accesskey         "П">
 <!ENTITY mediaMute.label              "Вимкнути звук">
 <!ENTITY mediaMute.accesskey          "В">
 <!ENTITY mediaUnmute.label            "Увімкнути звук">
 <!ENTITY mediaUnmute.accesskey        "У">
-<!ENTITY mediaShowControls.label      "Показати керування медіа">
+<!ENTITY mediaShowControls.label      "Показати керування матеріалом">
 <!ENTITY mediaShowControls.accesskey  "П">
-<!ENTITY mediaHideControls.label      "Сховати керування медіа">
+<!ENTITY mediaHideControls.label      "Сховати керування матеріалом">
 <!ENTITY mediaHideControls.accesskey  "С">
-<!ENTITY videoFullScreen.label        "Full Screen">
-<!ENTITY videoFullScreen.accesskey    "F">
-<!ENTITY videoSaveImage.label         "Save Snapshot As…">
-<!ENTITY videoSaveImage.accesskey     "S">
-<!ENTITY videoShowStats.label         "Show Statistics">
-<!ENTITY videoShowStats.accesskey     "t">
-<!ENTITY videoHideStats.label         "Hide Statistics">
-<!ENTITY videoHideStats.accesskey     "t">
+<!ENTITY videoFullScreen.label        "На повний екран">
+<!ENTITY videoFullScreen.accesskey    "е">
+<!ENTITY videoSaveImage.label         "Зберегти зріз як…">
+<!ENTITY videoSaveImage.accesskey     "З">
+<!ENTITY videoShowStats.label         "Показати статистику">
+<!ENTITY videoShowStats.accesskey     "П">
+<!ENTITY videoHideStats.label         "Сховати статистику">
+<!ENTITY videoHideStats.accesskey     "С">
 <!ENTITY search.accesskey             "W">
 <!ENTITY bidiSwitchPageDirectionItem.label        "Перемкнути напрям тексту на сторінці">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "П">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Перемкнути напрям тексту на сторінці">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "x">
-<!ENTITY spellAddToDictionary.label     "Додати в словник">
+<!ENTITY spellAddToDictionary.label     "Додати до словника">
 <!ENTITY spellAddToDictionary.accesskey "n">
 <!ENTITY spellIgnoreWord.label          "Пропустити слово">
 <!ENTITY spellIgnoreWord.accesskey      "П">

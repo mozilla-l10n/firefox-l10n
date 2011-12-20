@@ -1,11 +1,11 @@
 <!-- LOCALIZATION NOTE: do not use digits "0"-"9" as accesskeys -->
-<!ENTITY zoomEnlargeCmd.label       "Більший">
+<!ENTITY zoomEnlargeCmd.label       "Ближче">
 <!ENTITY zoomEnlargeCmd.accesskey   "Б">
 <!ENTITY zoomEnlargeCmd.commandkey  "+">
 <!ENTITY zoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 
-<!ENTITY zoomReduceCmd.label        "Менший">
-<!ENTITY zoomReduceCmd.accesskey    "М">
+<!ENTITY zoomReduceCmd.label        "Дальше">
+<!ENTITY zoomReduceCmd.accesskey    "Д">
 <!ENTITY zoomReduceCmd.commandkey   "-">
 
 <!ENTITY zoomResetCmd.commandkey    "0">

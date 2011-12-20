@@ -1,14 +1,14 @@
 <!--LOCALIZATION NOTE : FILE The Advanced Proxy Preferences dialog -->
-<!ENTITY  pref.proxies.advanced.title "Розширені налаштуванння проксі">
+<!ENTITY  pref.proxies.advanced.title "Додаткові налаштуванння проксі">
 <!ENTITY  protocols.caption           "Проксі по протоколах">
-<!ENTITY  protocols.description       "Зазвичай, один проксі може обробляти всі зазначені нижче протоколи.">
-<!ENTITY  http.label                  "HTTP-проксі:">
+<!ENTITY  protocols.description       "Зазвичай один проксі може обробляти всі зазначені нижче протоколи.">
+<!ENTITY  http.label                  "Проксі по HTTP:">
 <!ENTITY  http.accesskey              "H">
-<!ENTITY  ssl.label                   "SSL-проксі:">
+<!ENTITY  ssl.label                   "проксі по SSL:">
 <!ENTITY  ssl.accesskey               "S">
-<!ENTITY  ftp.label                   "FTP-проксі:">
+<!ENTITY  ftp.label                   "Проксі по FTP:">
 <!ENTITY  ftp.accesskey               "F">
-<!ENTITY  reuseProxy.label            "Використовувати налаштуванння HTTP-проксі для всіх протоколів">
+<!ENTITY  reuseProxy.label            "Використовувати налаштуванння проксі HTTP для всіх протоколів">
 <!ENTITY  reuseProxy.accesskey        "В">
 <!ENTITY  port.label                  "Порт:">
 <!ENTITY  HTTPPort.accesskey          "P">
@@ -16,8 +16,8 @@
 <!ENTITY  FTPPort.accesskey           "r">
 
 <!ENTITY  socks.caption               "Груповий проксі">
-<!ENTITY  socks.description           "SOCKS-проксі — груповий проксі, іноді виростовують у корпоративному або подібному оточенні.">
-<!ENTITY  socks.label                 "SOCKS-проксі:">
+<!ENTITY  socks.description           "Проксі SOCKS — груповий проксі, іноді виростовують у корпоративному або подібному оточенні.">
+<!ENTITY  socks.label                 "Проксі SOCKS:">
 <!ENTITY  socks.accesskey             "П">
 <!ENTITY  socks4.label                "SOCKS 4">
 <!ENTITY  socks4.accesskey            "4">

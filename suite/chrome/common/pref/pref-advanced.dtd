@@ -1,15 +1,15 @@
 <!--LOCALIZATION NOTE : FILE 'Advanced' prefs settings -->
-<!ENTITY pref.advanced.title        "Розширені">
+<!ENTITY pref.advanced.title        "Додатково">
 
-<!ENTITY systemPref.caption         "Системні налаштування">
+<!ENTITY systemPref.caption         "Системні параметри">
 <!ENTITY systemPrefCheck.label      "Використовувати налаштування, котрі надаються системою">
 <!ENTITY systemPrefCheck.accesskey  "В">
-<!ENTITY systemPref.desc            "З цим варіантом, &brandShortName; успадковує налаштування від системи. Системні налаштування замінять налаштування &brandShortName;.">
+<!ENTITY systemPref.desc            "З цим варіантом, &brandShortName; успадковує налаштування від системи. Системні параметри замінять налаштування &brandShortName;.">
 
 <!ENTITY prefCheckDefault.caption   "Інтеграція системи">
-<!ENTITY prefCheckDefaultClient.label "Перевірити типові налаштування програми при запуску">
+<!ENTITY prefCheckDefaultClient.label "Перевіряти типові налаштування програми під час запуску">
 <!ENTITY prefCheckDefaultClient.accesskey "П">
 
-<!ENTITY crashReports.caption       "Crash Reporter">
-<!ENTITY submitCrashes.label        "Submit crash reports">
-<!ENTITY submitCrashes.accesskey    "S">
+<!ENTITY crashReports.caption       "Доповідач про збої">
+<!ENTITY submitCrashes.label        "Надіслати звіт про збої">
+<!ENTITY submitCrashes.accesskey    "Н">

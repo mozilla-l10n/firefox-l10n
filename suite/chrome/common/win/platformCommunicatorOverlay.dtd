@@ -25,8 +25,8 @@
 <!ENTITY helpForIEUsers.accesskey       "Д">
 <!-- LOCALIZATION NOTE some localizations need to change the
                        "Help" menu label on Windows -->
-<!ENTITY helpMenu.label                 "Help"> 
-<!ENTITY helpMenu.accesskey             "H">
+<!ENTITY helpMenu.label                 "Довідка"> 
+<!ENTITY helpMenu.accesskey             "Д">
 
 <!-- Key labels, for mousewheel prefs -->
 <!ENTITY ctrlKey.label                  "Ctrl">

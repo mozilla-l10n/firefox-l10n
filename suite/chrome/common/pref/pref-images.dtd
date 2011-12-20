@@ -8,15 +8,15 @@
 -->
 <!ENTITY imageDetails                   "Описати як, &brandShortName; обробляє зображення.">
 
-<!ENTITY loadAllImagesRadio.label       "Load all images">
-<!ENTITY loadAllImagesRadio.accesskey   "L">
-<!ENTITY loadOrgImagesRadio.label       "Only load images that come from the originating server">
-<!ENTITY loadOrgImagesRadio.accesskey   "n">
-<!ENTITY loadNoImagesRadio.label        "Do not load any images">
-<!ENTITY loadNoImagesRadio.accesskey    "D">
-<!ENTITY viewPermissions.label          "Manage Permissions">
+<!ENTITY loadAllImagesRadio.label       "Завантажувати всі зображення">
+<!ENTITY loadAllImagesRadio.accesskey   "З">
+<!ENTITY loadOrgImagesRadio.label       "Завантажувати лише зображення з початкового сервера">
+<!ENTITY loadOrgImagesRadio.accesskey   "л">
+<!ENTITY loadNoImagesRadio.label        "Не завантажувати жодне зображення">
+<!ENTITY loadNoImagesRadio.accesskey    "Н">
+<!ENTITY viewPermissions.label          "Організувати права">
 <!ENTITY viewPermissions.accesskey      "P">
-<!ENTITY animLoopingTitle.label         "Анімаційне зображення слід повторювати">
+<!ENTITY animLoopingTitle.label         "Рухоме зображення слід повторювати">
 <!ENTITY animLoopAsSpecified.label      "Стільки разів, скільки передбачено зображенням">
 <!ENTITY animLoopAsSpecified.accesskey  "С">
 <!ENTITY animLoopOnce.label             "Один раз">

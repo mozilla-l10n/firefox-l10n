@@ -8,7 +8,7 @@
 <!ENTITY  prefWindow.size             "width: 58em; height: 41em;">
 
 <!-- pref-tabs.xul -->
-<!ENTITY urlbar.label                 "⌘+Return in the Location bar">
-<!ENTITY urlbar.accesskey             "L">
-<!ENTITY middleClick.label            "Middle-click, ⌘+click or ⌘+Return on links in a Web page">
-<!ENTITY middleClick.accesskey        "M">
+<!ENTITY urlbar.label                 "⌘+Return у панелі адреси">
+<!ENTITY urlbar.accesskey             "у">
+<!ENTITY middleClick.label            "Середня кнопка миші, ⌘+клацання або ⌘+Return по посиланню на сторінці">
+<!ENTITY middleClick.accesskey        "С">

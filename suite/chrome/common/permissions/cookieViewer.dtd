@@ -1,29 +1,29 @@
 <!ENTITY     tab.cookiesonsystem.label      "Збережені куки">
-<!ENTITY     tab.bannedservers.label        "Cookie Websites">
-<!ENTITY     div.bannedservers.label        "Manage websites that can and cannot store cookies on your computer.">
-<!ENTITY     div.cookiesonsystem.label      "Переглянути та вилучити куки, котрі збережені на вашому комп'ютері.">
+<!ENTITY     tab.bannedservers.label        "Куки сайтів">
+<!ENTITY     div.bannedservers.label        "Скерувати які сайти можуть зберігати кук на комп'ютері, а які ні.">
+<!ENTITY     div.cookiesonsystem.label      "Переглянути та вилучити куки, котрі збережені на комп'ютері.">
 <!ENTITY     treehead.cookiename.label      "Назва куки">
-<!ENTITY     treehead.cookiedomain.label    "Website">
+<!ENTITY     treehead.cookiedomain.label    "Сайт">
 <!ENTITY     treehead.cookieexpires.label   "Застарілі">
 <!ENTITY     treehead.infoselected.label    "Інформація про вибрану куку">
 <!ENTITY     button.removecookie.label      "Вилучити куку">
 <!ENTITY     button.removecookie.accesskey  "В">
-<!ENTITY     button.removeallcookies.label  "Вилучити всі куки">
+<!ENTITY     button.removeallcookies.label  "Вилучити всіх кук">
 <!ENTITY     button.removeallcookies.accesskey "В">
 
-<!ENTITY     search.placeholder             "Search Cookies">
+<!ENTITY     search.placeholder             "Пошук кук">
 <!ENTITY     focusSearch.key                "f">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     selectAll.key                  "a">
 
 <!ENTITY     props.name.label               "Назва:">
 <!ENTITY     props.value.label              "Вміст:">
-<!ENTITY     props.domain.label             "Хост:">
+<!ENTITY     props.domain.label             "Вузл:">
 <!ENTITY     props.path.label               "Шлях:">
-<!ENTITY     props.secure.label             "Викликати:">
-<!ENTITY     props.expires.label            "Застарілі:">
+<!ENTITY     props.secure.label             "Виклик:">
+<!ENTITY     props.expires.label            "Строк:">
 
-<!ENTITY     treehead.sitename.label        "Website">
+<!ENTITY     treehead.sitename.label        "Сайт">
 <!ENTITY     treehead.status.label          "Стан">
 <!ENTITY     windowtitle.label              "Налаштування кук">
 <!ENTITY     buttonaccept.label             "Закрити">
@@ -35,9 +35,9 @@
 <!ENTITY     allowSite.accesskey            "Д">
 <!ENTITY     allowSiteSession.label         "Сеанс">
 <!ENTITY     allowSiteSession.accesskey     "С">
-<!ENTITY     removepermission.label         "Remove Website">
+<!ENTITY     removepermission.label         "Вилучити сайт">
 <!ENTITY     removepermission.accesskey     "В">
-<!ENTITY     removeallpermissions.label     "Remove All Websites">
+<!ENTITY     removeallpermissions.label     "Вилучити всі сйати">
 <!ENTITY     removeallpermissions.accesskey "В">
 
 <!ENTITY     futureCookies.label            "Don't allow websites that set removed cookies to set future cookies">

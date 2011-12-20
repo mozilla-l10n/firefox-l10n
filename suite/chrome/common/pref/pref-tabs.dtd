@@ -4,13 +4,13 @@
 <!ENTITY autoHide.accesskey "Х">
 <!ENTITY background.label "Перемикатись до нових вкладок, які відкриваються з посилань">
 <!ENTITY background.accesskey "П">
-<!ENTITY warnOnClose.label "Warn me when closing a window with multiple tabs">
-<!ENTITY warnOnClose.accesskey "W">
-<!ENTITY relatedAfterCurrent.label "Open related tabs after current tab">
-<!ENTITY relatedAfterCurrent.accesskey "O">
+<!ENTITY warnOnClose.label "Повідомляти мене, коли закривається вікно з декількома вкладками">
+<!ENTITY warnOnClose.accesskey "П">
+<!ENTITY relatedAfterCurrent.label "Відкривати пов'язані вкладки після поточної вкладки">
+<!ENTITY relatedAfterCurrent.accesskey "В">
 <!ENTITY loadGroup.label "Коли відкривається група закладок">
 <!ENTITY loadGroupAppend.label "Додавати вкладки">
 <!ENTITY loadGroupAppend.accesskey "Д">
-<!ENTITY loadGroupReplace.label "Заступити існуючі вкладки">
+<!ENTITY loadGroupReplace.label "Заступити наявній вкладці">
 <!ENTITY loadGroupReplace.accesskey "З">
-<!ENTITY openTabs.label "Відкривати вкладки замість вікон для">
+<!ENTITY openTabs.label "Відкривати вкладки замість вікон">

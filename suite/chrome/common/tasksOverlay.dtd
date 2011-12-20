@@ -14,7 +14,7 @@
 <!ENTITY taskNavigator.tooltip  "Навігатор">
 <!ENTITY taskComposer.tooltip  "Редактор">
 
-<!ENTITY webDevelopment.label "Розробка сайтів">
+<!ENTITY webDevelopment.label "Розробництво сайтів">
 <!ENTITY webDevelopment.accesskey "Р">
 
 <!ENTITY windowMenu.label "Вікно">
@@ -23,14 +23,14 @@
 <!ENTITY tasksMenu.label "Інструменти">
 <!ENTITY tasksMenu.accesskey "І"> 
 
-<!ENTITY datamanCmd.label "Data Manager">
-<!ENTITY datamanCmd.accesskey "M">
+<!ENTITY datamanCmd.label "Менеджер даних">
+<!ENTITY datamanCmd.accesskey "М">
 
-<!ENTITY passwordManagerCmd.label "Керування паролями">
-<!ENTITY passwordManagerCmd.accesskey "К">
+<!ENTITY passwordManagerCmd.label "Менеджер паролів">
+<!ENTITY passwordManagerCmd.accesskey "п">
 
-<!ENTITY passwordDisplayCmd.label "Керувати збереженими паролями">
-<!ENTITY passwordDisplayCmd.accesskey "К">
+<!ENTITY passwordDisplayCmd.label "Організувати збережені паролі">
+<!ENTITY passwordDisplayCmd.accesskey "О">
 
 <!ENTITY passwordExpireCmd.label "Закінчити сеанс">
 <!ENTITY passwordExpireCmd.accesskey "З">
@@ -39,18 +39,18 @@
 <!ENTITY downloadManagerCmd.accesskey "М">
 <!ENTITY downloadManagerCmd.commandkey "j">
 
-<!ENTITY addOnsManagerCmd.label "Add-ons Manager">
-<!ENTITY addOnsManagerCmd.accesskey "A">
+<!ENTITY addOnsManagerCmd.label "Менеджер додатків">
+<!ENTITY addOnsManagerCmd.accesskey "о">
 <!ENTITY addOnsManagerCmd.commandkey "a">
 
-<!ENTITY switchProfileCmd.label "Перемкнути профіль…">
-<!ENTITY switchProfileCmd.accesskey "П">
+<!ENTITY switchProfileCmd.label "Змінити профіль…">
+<!ENTITY switchProfileCmd.accesskey "З">
 
 <!ENTITY syncBrand.shortName.label "Sync">
 <!-- LOCALIZATION NOTE (syncSetup.accesskey, syncSyncNowItem.accesskey):
      Only one of these will show at a time (based on setup state),
      so reusing accesskey is ok. -->
-<!ENTITY syncSetup.label           "Set Up Sync…">
-<!ENTITY syncSetup.accesskey       "S">
-<!ENTITY syncSyncNowItem.label     "Sync Now">
-<!ENTITY syncSyncNowItem.accesskey "S">
+<!ENTITY syncSetup.label           "Запустити Sync…">
+<!ENTITY syncSetup.accesskey       "З">
+<!ENTITY syncSyncNowItem.label     "Синхронізувати зараз">
+<!ENTITY syncSyncNowItem.accesskey "С">

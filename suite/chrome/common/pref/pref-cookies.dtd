@@ -2,15 +2,15 @@
 
 <!-- cookies -->
 
-<!ENTITY cookiePolicy.label             "Умови прийому куки">
+<!ENTITY cookiePolicy.label             "Умови кук">
 
-<!ENTITY accAllCookiesRadio.label       "Дозволити всі куки">
+<!ENTITY accAllCookiesRadio.label       "Дозволяти всіх кук">
 <!ENTITY accAllCookiesRadio.accesskey   "Д">
 
-<!ENTITY accOrgCookiesRadio.label       "Дозволити куки лише з сторінки сайта">
+<!ENTITY accOrgCookiesRadio.label       "Дозволляти кук лише зі сторінки сайту">
 <!ENTITY accOrgCookiesRadio.accesskey   "Д">
 
-<!ENTITY disableCookies.label           "Заборонити куки">
+<!ENTITY disableCookies.label           "Заборонити кук">
 <!ENTITY disableCookies.accesskey       "З">
 
 <!ENTITY cookieRetentionPolicy.label    "Умови зберігання кук">
@@ -18,7 +18,7 @@
 <!ENTITY acceptNormally.label           "Звичайний дозвіл">
 <!ENTITY acceptNormally.accesskey       "З">
 
-<!ENTITY acceptForSession.label         "Дозволити лише протягом сеансу">
+<!ENTITY acceptForSession.label         "Дозволяти лише протягом сеансу">
 <!ENTITY acceptForSession.accesskey     "Д">
 
 <!ENTITY acceptforNDays.label           "Дозволити протягом">
@@ -27,11 +27,11 @@
 
 <!ENTITY warnAboutCookies.label         "Запитувати мене про кожну окремо">
 <!ENTITY warnAboutCookies.accesskey     "З">
-<!ENTITY forCurrentSession.label        "Виключно протягом сеансу">
-<!ENTITY forCurrentSession.accesskey    "В">
+<!ENTITY forCurrentSession.label        "Тільки протягом сеансу">
+<!ENTITY forCurrentSession.accesskey    "Т">
 
-<!ENTITY manageCookies.label            "Налаштувати куки і сайти">
-<!ENTITY manageCookiesDescription.label "Allows you to view and manage stored cookies and per-website settings for accepting and rejecting cookies. Per-website settings will override the settings above.">
+<!ENTITY manageCookies.label            "Налаштувати кук і сайти">
+<!ENTITY manageCookiesDescription.label "Дозволяти переглядати і організовувати збережених кук і посайтові налаштуання для схвалення і відкидання кук. Посайтові налаштування оминатимуть налаштування вище.">
 
 <!ENTITY viewCookies.label              "Налаштування кук">
 <!ENTITY viewCookies.accesskey          "Н">

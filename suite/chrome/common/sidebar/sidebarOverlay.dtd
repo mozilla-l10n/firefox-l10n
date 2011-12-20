@@ -41,7 +41,7 @@
 <!ENTITY sidebar.reload.label           "Оновити">
 <!ENTITY sidebar.reload.accesskey       "О">
 <!ENTITY sidebar.picker.label           "Вкладки">
-<!ENTITY sidebar.customize.label        "Налагодити бічну панель…">
+<!ENTITY sidebar.customize.label        "Налаштувати бічну панель…">
 <!ENTITY sidebar.customize.accesskey    "Н">
 <!ENTITY sidebar.hide.label             "Сховати вкладку">
 <!ENTITY sidebar.hide.accesskey         "С">
@@ -50,20 +50,20 @@
 <!ENTITY sidebarCmd.label               "Бічна панель">
 <!ENTITY sidebarCmd.accesskey           "Б">
 <!ENTITY sidebar.loading.label          "Завантаження…">
-<!ENTITY sidebar.loadstopped.label      "Завантаження зупинене">
+<!ENTITY sidebar.loadstopped.label      "Завантаження зупинено">
 <!ENTITY sidebar.loading.stop.label     "Зупинити">
 <!ENTITY sidebar.loading.stop.accesskey "З">
 
-<!ENTITY sidebar.no-panels.state     "Бічна панель поточно порожня.">
-<!ENTITY sidebar.no-panels.add       'Ви можете додати вкладки натискаючи на кнопку "Вкладки", що знаходиться зверху.'>
-<!ENTITY sidebar.no-panels.hide      'Якщо ви бажаєте повністю сховати панель закладок, натисніть на меню "Перегляд", що знаходиться вище, та виберіть "Бічна панель" з підменю "Показати/Сховати".'>
+<!ENTITY sidebar.no-panels.state     "Бічна панель наразі порожня.">
+<!ENTITY sidebar.no-panels.add       'Ви можете додати вкладки натискаючи на кнопку «Вкладки», що перебуває зверху.'>
+<!ENTITY sidebar.no-panels.hide      'Якщо ви бажаєте повністю сховати панель закладок, натисніть на меню «Перегляд», що перебуває вище, та виберіть «Бічна панель» з підменю «Показати/сховати».'>
 <!ENTITY sidebar.sbDirectory.label   "Тека бічної панелі…">
 
-<!ENTITY sidebar.pagenotfound.label  "Ця закладка недоступна зараз.">
+<!ENTITY sidebar.pagenotfound.label  "Ця закладка недоступна наразі.">
 <!ENTITY sidebar.close.tooltip       "Закрити бічну панель">
 <!ENTITY sidebar.open.tooltip        "Відкрити бічну панель">
 
-<!ENTITY sidebar.search.label         "Search">
-<!ENTITY sidebar.client-bookmarks.label     "Bookmarks">
-<!ENTITY sidebar.client-history.label       "History">
-<!ENTITY sidebar.client-addressbook.label   "Address Book">
+<!ENTITY sidebar.search.label         "Пошук">
+<!ENTITY sidebar.client-bookmarks.label     "Закладки">
+<!ENTITY sidebar.client-history.label       "Історія">
+<!ENTITY sidebar.client-addressbook.label   "Адресна книга">

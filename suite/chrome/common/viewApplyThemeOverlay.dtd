@@ -1,6 +1,6 @@
-<!ENTITY applyTheme.label          "Apply Theme">
-<!ENTITY applyTheme.accesskey      "A">
-<!ENTITY getNewThemesCmd.label     "Get New Themes">
-<!ENTITY getNewThemesCmd.accesskey "G">
-<!ENTITY getPersonasCmd.label      "Get Personas">
-<!ENTITY getPersonasCmd.accesskey  "P">
+<!ENTITY applyTheme.label          "Застосувати тему">
+<!ENTITY applyTheme.accesskey      "З">
+<!ENTITY getNewThemesCmd.label     "Узяти нову тему">
+<!ENTITY getNewThemesCmd.accesskey "У">
+<!ENTITY getPersonasCmd.label      "Дістати персони">
+<!ENTITY getPersonasCmd.accesskey  "Д">

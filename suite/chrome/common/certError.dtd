@@ -8,16 +8,16 @@ by NSS/PSM via netError.xhtml. -->
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara1 "Ви наказали &brandShortName; встановити безпечний зв'язок з <b>#1</b>, проте ми не можемо підтвердити, що цей зв'язок дійсно безпечний.">
-<!ENTITY certerror.introPara2 "Normally, when you try to connect securely, websites will present trusted identification to prove that you are going to the right place. However, this website's identity can't be verified.">
+<!ENTITY certerror.introPara1 "Ви наказали &brandShortName; встановити безпечний зв'язок з <b>#1</b>, проте ми не можемо підтвердити, що цей зв'язок справді безпечний.">
+<!ENTITY certerror.introPara2 "Зазвичай, коли ви намагаєтесь з'єднатись безпечно, сайти надають довірний ідентифікатор, щоб довести, що ви потрапили в правильне місце. Однак, ці ідентифікатори сайтів не можуть бути перевіреними.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Що робити?">
-<!ENTITY certerror.whatShouldIDo.content "If you usually connect to this website without problems, this error could mean that someone is trying to impersonate the website, and you shouldn't continue.">
+<!ENTITY certerror.whatShouldIDo.content "Якщо ви зазвичай з'єднуєтесь до цього сайту без проблем, ця помилка може означати, що хтось намагається видати себе за інший сайт, тому вам не слід продовжувати з ним роботу.">
 <!ENTITY certerror.getMeOutOfHere.label "Це звучить обурливо, краще заберіть мене додому">
 
 <!ENTITY certerror.expert.heading "Я знаю, на що йду">
-<!ENTITY certerror.expert.content "If you understand what's going on, you can tell &brandShortName; to start trusting this website's identification. <b>Even if you trust the website, this error could mean that someone is tampering with your connection.</b>">
-<!ENTITY certerror.expert.contentPara2 "Don't add an exception unless you know there's a good reason why this website doesn't use trusted identification.">
+<!ENTITY certerror.expert.content "Якщо ви розумієте ситуацію, можете наказати &brandShortName; почати довіряти цим ідентифікаторам сайту. <b>Навіть якщо ви довіряєте сайтові, ця помилка може означати, що хтось таємно впливає на ваше з'єднання.</b>">
+<!ENTITY certerror.expert.contentPara2 "Не додавайте винятки, поки не знайдете хорошої причини чому сайт не викоритсовує довірний ідентифікатор.">
 <!ENTITY certerror.addException.label "Додати виняток…">
 
 <!ENTITY certerror.technical.heading "Технічні подробиці">

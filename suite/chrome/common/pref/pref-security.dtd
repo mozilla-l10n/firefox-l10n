@@ -36,15 +36,15 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!--LOCALIZATION NOTE : FILE 'Privacy and Security' prefs settings -->
-<!ENTITY pref.security.title              "Особистий &amp; захист">
+<!ENTITY pref.security.title              "Конфіденційність та безпека">
 
-<!ENTITY tracking.label                   "User Tracking">
-<!ENTITY doNotTrack.label                 "Tell web sites I do not want to be tracked">
-<!ENTITY doNotTrack.accesskey             "T">
+<!ENTITY tracking.label                   "Слідування за користувачем">
+<!ENTITY doNotTrack.label                 "Наказати сайтам, щоб вони не слідкували за мною">
+<!ENTITY doNotTrack.accesskey             "Н">
 
 <!ENTITY privateData.label                "Особисті дані">
 
-<!ENTITY alwaysClear.label                "При закритті &brandShortName; стирати мої особисті дані">
+<!ENTITY alwaysClear.label                "Закриваючи &brandShortName; стирати мої особисті дані">
 <!ENTITY alwaysClear.accesskey            "П">
 
 <!ENTITY askBeforeClear.label             "Попереджувати мене перед очищенням особистих даних">

@@ -3,7 +3,7 @@
 <!ENTITY languages.customize.prefLangDescript           "Деколи сайти доступні кількома мовами. Вибрати мови для показу сторінок, в порядку пріоритету.">
 <!ENTITY languages.customize.title                      "Мови">
 <!ENTITY langtitle.label                                "Мови для сторінок">
-<!ENTITY languages.customize.prefAddLangDescript        "Вибрати мову(и), яку ви бажаєте додати.">
+<!ENTITY languages.customize.prefAddLangDescript        "Вибрати мову(и), яку бажаєте додати.">
 <!ENTITY languages.customize.addButton.label            "Додати…">
 <!ENTITY languages.customize.addButton.accesskey        "Д">
 <!ENTITY languages.customize.deleteButton.label         "Вилучити">

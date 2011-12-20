@@ -35,7 +35,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY search.button.label      "Шукати">
-<!ENTITY search.placeholder       "Enter search text">
+<!ENTITY search.button.label      "Пошук">
+<!ENTITY search.placeholder       "Введіть текст пошуку">
 
-<!ENTITY search.engineManager.label "Manage Search Engines…">
+<!ENTITY search.engineManager.label "Організувати пошукові рушії…">

@@ -22,5 +22,5 @@
 <!--LOCALIZATION NOTE (restartOnLangChange.label): Don't translate "&brandShortName;".
     Place &brandShortName; in the phrase where the name of the application should appear
 -->
-<!ENTITY restartOnLangChange.label              "Зміна мови вступить в дію після перезапуску &brandShortName;.">
+<!ENTITY restartOnLangChange.label              "Зміна мови набере чинності після перезапуску &brandShortName;.">
 
