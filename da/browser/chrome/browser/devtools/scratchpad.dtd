@@ -62,7 +62,7 @@
 <!ENTITY selectAllCmd.accesskey       "A">
 
 <!ENTITY run.label                    "Kør">
-<!ENTITY run.accesskey                "ø">
+<!ENTITY run.accesskey                "K">
 <!ENTITY run.key                      "r">
 
 <!ENTITY inspect.label                "Inspicer">
@@ -98,19 +98,20 @@
 <!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
-<!ENTITY resetContext.label           "Nulstil">
-<!ENTITY resetContext.accesskey       "N">
+<!ENTITY resetContext2.label           "Nulstil variabler">
+<!ENTITY resetContext2.accesskey       "N">
 
 <!ENTITY executeMenu.label            "Udfør">
 <!ENTITY executeMenu.accesskey        "U">
 
-<!ENTITY toolsMenu.label              "Funktioner">
-<!ENTITY toolsMenu.accesskey          "u">
-
-<!ENTITY errorConsoleCmd.label        "Fejlkonsol">
-<!ENTITY errorConsoleCmd.accesskey    "F">
+<!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
+  -  the browser Error Console, the key should be identical to the property of
+  -  the same name in browser.dtd.
+  -->
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY webConsoleCmd.label          "Web-konsol">
-<!ENTITY webConsoleCmd.accesskey      "W">
+<!-- LOCALIZATION NOTE (webConsoleCmd.commandkey): This command key launches
+  -  the browser WebConsole, the key should be identical to the property of
+  -  the same name in browser.dtd.
+  -->
 <!ENTITY webConsoleCmd.commandkey     "k">
