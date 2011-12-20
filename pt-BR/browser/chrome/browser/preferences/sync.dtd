@@ -17,7 +17,7 @@
 <!ENTITY myRecoveryKey.label          "Minha chave de recuperação">
 <!ENTITY resetSync2.label             "Reconfigurar Sync…">
 
-<!ENTITY addDevice.label              "Adicionar um dispositivo">
+<!ENTITY pairDevice.label             "Parear dispositivo">
 
 <!ENTITY syncMy.label               "Sincronizar:">
 <!ENTITY engine.bookmarks.label     "Favoritos">

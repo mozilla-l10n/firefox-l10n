@@ -41,8 +41,8 @@
 
 <!ENTITY allowScripts.label             "Scripts podem:">
 
-<!ENTITY moveResizeWindows.label        "Mover ou redimensionar janelas existentes">
-<!ENTITY moveResizeWindows.accesskey    "M">
+<!ENTITY moveResizePopupWindows.label     "Mover ou redimensionar janelas popup">
+<!ENTITY moveResizePopupWindows.accesskey "M">
 <!ENTITY raiseLowerWindows.label        "Alterar a disposição entre as janelas">
 <!ENTITY raiseLowerWindows.accesskey    "A">
 <!ENTITY disableContextMenus.label      "Desativar ou substituir menus de contexto">
