@@ -587,8 +587,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextMarkMailFolderRead.accesskey "m">
 <!ENTITY folderContextSubscribe.label "Abonneren…">
 <!ENTITY folderContextSubscribe.accesskey "A">
-<!ENTITY folderContextSearchMessages.label "Zoeken…">
-<!ENTITY folderContextSearchMessages.accesskey "Z">
+<!ENTITY folderContextSearchForMessages.label "Berichten zoeken…">
+<!ENTITY folderContextSearchForMessages.accesskey "z">
 <!ENTITY folderContextProperties.label "Eigenschappen…">
 <!ENTITY folderContextProperties.accesskey "E">
 <!ENTITY folderContextFavoriteFolder.label "Favoriete map">
