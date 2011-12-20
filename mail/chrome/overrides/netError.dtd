@@ -46,7 +46,8 @@
 <!ENTITY netInterrupt.title "සම්බන්ධය බාධා සහිත විය">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY netOffline.title "අසම්බන්ධිත ආකාරය">
+<<!ENTITY notCached.title "ලේඛනය කල් ඉකුත්වී ඇත">
+<!ENTITY notCached.longDesc "<p>ඉල්ලූ ලේඛනය &brandShortName;හි කෑෂ් තුළ නැත.</p><ul><li> ආරක්ෂක ක්‍රමවේදයක් ලෙස, &brandShortName; ස්වයංක්‍රීයව සංවේදී දත්ත සහිත ලේඛන යළි ලබා ගන්නේ නැත.</li><li>වෙබ් අඩවියෙන් ලේඛන යළි ලබා ගැනීමට නැවත උත්සාහ කරන්න මත ක්ලික් කරන්න.</li></ul>">
 
 <!ENTITY contentEncodingError.title "අන්තර්ගත සංකේතාංකන දෝෂය">
 <!ENTITY contentEncodingError.longDesc "
