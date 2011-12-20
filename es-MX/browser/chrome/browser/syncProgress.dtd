@@ -1,7 +1,7 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
-<!ENTITY syncProgress.pageTitle "Your First Sync">
-<!ENTITY syncProgress.textBlurb "Your data is now being encrypted and uploaded in the background. You can close this tab and continue using &brandShortName;.">
-<!ENTITY syncProgress.closeButton "Close">
+<!ENTITY syncProgress.pageTitle "Tu primera sincronisacion">
+<!ENTITY syncProgress.textBlurb "Tus Datos estan siendo encriptados y subidos en el fondo. Puedes cerrar esta pestaña y continuar usanndo &brandShortName;.">
+<!ENTITY syncProgress.closeButton "cerrar">
 <!ENTITY syncProgress.logoAltText "&brandShortName; logo">
-<!ENTITY syncProgress.diffText "&brandShortName; will now automatically sync in the background.  You can close this tab and continue using &brandShortName;.">
+<!ENTITY syncProgress.diffText "&brandShortName; Ahora de sincronisara automaticamente en el fondo. Puedes cerrar esta pestaña y continuar usando &brandShortName;.">

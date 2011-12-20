@@ -1,7 +1,7 @@
-<!ENTITY userStylesLabel "Only user styles">
-<!ENTITY userStylesSearch "Search">
-<!ENTITY selectedElementLabel "Selected element:">
-<!ENTITY noPropertiesFound "No CSS properties found.">
+<!ENTITY userStylesLabel "Estilos de solo usuario">
+<!ENTITY userStylesSearch "buscar">
+<!ENTITY selectedElementLabel "Elemento seleccionado:">
+<!ENTITY noPropertiesFound "No se encontraron propiedades CSS">
 <!ENTITY unmatchedSelectors "Unmatched selectors">
 <!ENTITY bestMatch "Best Match">
 <!ENTITY matched "Matched">
