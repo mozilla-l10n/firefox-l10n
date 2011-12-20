@@ -1,10 +1,12 @@
-<!ENTITY notificationsDialog2.title       "Customize New Mail Alert">
+<!ENTITY notificationsDialog2.title       "Կարգավորել նոր նամակի ստացումը">
 <!ENTITY window.width                     "30em">
 
-<!ENTITY alertCustomization.intro         "Choose which fields to show in the alert notification:">
-<!ENTITY previewText.label                "Message Preview Text">
+<!ENTITY alertCustomization.intro         "Ընտրել ցուցադրվելիք դաշտերը նոր նամակի դեպքում.">
+<!ENTITY previewText.label                "Նախն. դիտման տեքստը">
 <!ENTITY previewText.accesskey            "M">
-<!ENTITY subject.label                    "Subject">
+<!ENTITY subject.label                    "Վերնագիրը">
 <!ENTITY subject.accesskey                "S">
-<!ENTITY sender.label                     "Sender">
+<!ENTITY sender.label                     "Ուղարկողը">
 <!ENTITY sender.accesskey                 "e">
+
+

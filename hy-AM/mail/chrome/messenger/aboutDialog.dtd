@@ -62,3 +62,5 @@
 <!ENTITY channel.description.start  "Դուք այժմ գտնվում եք՝ ">
 <!ENTITY channel.description.end    " թարմացնել աղբյուրը.  ">
 
+<!ENTITY cmdCloseMac.commandKey "w">
+

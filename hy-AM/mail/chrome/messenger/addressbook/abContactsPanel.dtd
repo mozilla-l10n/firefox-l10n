@@ -1,17 +1,19 @@
-<!ENTITY addressbookPicker.label            "Address Book:">
+<!ENTITY addressbookPicker.label            "Հասցեագիրքը.">
 <!ENTITY addressbookPicker.accesskey        "k">
-<!ENTITY searchInput.label                  "Search For:">
+<!ENTITY searchInput.label                  "Փնտրել՝">
 <!ENTITY searchInput.accesskey              "o">
-<!ENTITY SearchNameOrEmail.label            "Name or Email">
+<!ENTITY SearchNameOrEmail.label            "Անունը կամ էլ. հասցեն">
 
-<!ENTITY deleteAddrBookCard.label           "Delete">
-<!ENTITY addrBookCardProperties.label       "Properties">
-<!ENTITY addtoToFieldMenu.label             "Add to To field">
-<!ENTITY addtoCcFieldMenu.label             "Add to Cc field">
-<!ENTITY addtoBccFieldMenu.label            "Add to Bcc field">
+<!ENTITY deleteAddrBookCard.label           "Ջնջել">
+<!ENTITY addrBookCardProperties.label       "Հատկություններ">
+<!ENTITY addtoToFieldMenu.label             "Ավելացնել Ում դաշտում">
+<!ENTITY addtoCcFieldMenu.label             "Ավելացնել CC դաշտում">
+<!ENTITY addtoBccFieldMenu.label            "Ավելացնել Bcc դաշտում">
 
-<!ENTITY toButton.label                     "Add to To:">
+<!ENTITY toButton.label                     "Ավելացնել Ում.">
 <!ENTITY toButton.accesskey                 "A">
-<!ENTITY ccButton.label                     "Add to Cc:">
+<!ENTITY ccButton.label                     "Ավելացնել Cc.">
 <!ENTITY ccButton.accesskey                 "d">
-<!ENTITY bccButton.label                    "Add to Bcc:">
+<!ENTITY bccButton.label                    "Ավելացնել Bcc.">
+<!ENTITY bccButton.accesskey                "B">
+

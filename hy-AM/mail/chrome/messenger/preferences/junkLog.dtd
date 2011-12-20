@@ -1,5 +1,7 @@
-<!ENTITY junkLog.title "Junk Mail Log">
-<!ENTITY junkLogInfo.label "Log of junk mail control activity.">
-<!ENTITY clearLog.label "Clear Log">
+<!ENTITY junkLog.title "Խլամ նամակի մատյանը">
+<!ENTITY junkLogInfo.label "Խլամ նամակի ղեկավարման մատյանը։">
+<!ENTITY clearLog.label "Մաքրել մատյանը">
 <!ENTITY clearLog.accesskey "C">
-<!ENTITY closeLog.label "Close">
+<!ENTITY closeLog.label "Փակել">
+<!ENTITY closeLog.accesskey "o">
+

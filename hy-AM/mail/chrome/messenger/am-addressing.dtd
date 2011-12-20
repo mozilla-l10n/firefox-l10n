@@ -1,6 +1,6 @@
 <!-- extracted from am-addressing.xul -->
 
-<!ENTITY addressing.label          "&amp; հասցեն">
+<!ENTITY addressing.label          "Հասցեների &amp; կազմում">
 <!ENTITY addressingGroupTitle.label "Հասցեն">
 <!ENTITY addressingText.label      "Հասցեները նայելիս.">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
@@ -34,3 +34,5 @@
 <!ENTITY includeSigOnReply.label              "Պատասխանելիս ներառել ստորագրությունը">
 <!ENTITY includeSigOnReply.accesskey          "I">
 <!ENTITY includeSigOnForward.label            "Ներառել ստորագրությունը փոխանցելիս">
+<!ENTITY includeSigOnForward.accesskey        "w">
+

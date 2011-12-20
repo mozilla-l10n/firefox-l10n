@@ -8,3 +8,5 @@
 <!ENTITY localPath.label "Լոկալ թղթապանակը.">
 <!ENTITY localFolderPicker.label "Ընտրեք լոկալ թղթապանակը">
 <!ENTITY browseFolder.label "Ընտրել…">
+<!ENTITY browseFolder.accesskey "B">
+

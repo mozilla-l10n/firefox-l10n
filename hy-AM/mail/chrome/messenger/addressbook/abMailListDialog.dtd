@@ -37,20 +37,22 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Title -->
-<!ENTITY mailListWindow.title           "Mailing List">
+<!ENTITY mailListWindow.title           "Նամակների ցանկը">
 <!-- Labels -->
-<!ENTITY addToAddressBook.label         "Add to: ">
+<!ENTITY addToAddressBook.label         "Ավելացնել՝">
 
-<!ENTITY ListName.label                 "List Name: ">
-<!ENTITY ListNickName.label             "List Nickname: ">
-<!ENTITY ListDescription.label          "Description: ">
+<!ENTITY ListName.label                 "Ցանկի անունը.">
+<!ENTITY ListNickName.label             "Ցանկի կեղծանունը.">
+<!ENTITY ListDescription.label          "Նկարագրությունը.">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label             "Type email addresses to add them to the mailing list:">
-<!ENTITY UpButton.label                 "Move Up">
-<!ENTITY DownButton.label               "Move Down">
+<!ENTITY AddressTitle.label             "Նշեք էլ. հասցեներ՝ դրանք ավելացնելու համար նամակների ցանկին։">
+<!ENTITY UpButton.label                 "Վեր">
+<!ENTITY DownButton.label               "Վար">
 
 <!-- Access Keys -->
 <!ENTITY addToAddressBook.accesskey     "A">
 <!ENTITY ListName.accesskey             "L">
 <!ENTITY ListNickName.accesskey         "N">
 <!ENTITY ListDescription.accesskey      "e">
+
+

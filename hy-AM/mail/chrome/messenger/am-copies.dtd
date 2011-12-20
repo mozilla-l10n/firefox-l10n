@@ -43,3 +43,5 @@
 <!ENTITY templatesFolderOn.label "&quot;Templates&quot; թղթապանակում.">
 <!ENTITY templatesFolderOn.accesskey "m">
 <!ENTITY templateInOtherFolder.label "Այլ.">
+<!ENTITY templateInOtherFolder.accesskey "e">
+

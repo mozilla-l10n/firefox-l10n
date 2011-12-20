@@ -26,3 +26,5 @@
 <!ENTITY choosethisnewsserver.label "ընտրել նորությունների այս սպասարկիչը">
 <!ENTITY helpButton.label "Օգնություն">
 <!ENTITY helpButton.accesskey "H">
+<!ENTITY closeCmd.key "W"> 
+

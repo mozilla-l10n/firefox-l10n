@@ -3,7 +3,7 @@
      whether the quick filter bar is visible.
      -->
 <!ENTITY quickFilterBar.toggleBarVisibility.menu.label
-         "Quick Filter Bar">
+         "Արագ ֆիլտրման վահանակ">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.menu.accesskey):
      The access key for the "View... Toolbars..." menu item label that controls
@@ -17,7 +17,7 @@
      toggles the visibility of the quick filter bar.
      -->
 <!ENTITY quickFilterBar.toggleBarVisibility.button.tooltip
-         "Toggle the quick filter bar">
+         "Փոփոխել արագ ֆիլտրման վահանակը">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.sticky.tooltip):
      The tooltip to display when the user hovers over the sticky button
@@ -27,28 +27,28 @@
      filters are propagated between folder changes and when opening new tabs.)
      -->
 <!ENTITY quickFilterBar.sticky.tooltip
-         "Keep filters applied when switching folders">
+         "Պահել ֆիլտրերը՝ թղթապանակներին անցնելիս">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.barLabel.label):
      The text to display on the quick filter bar, labeling it.  This should
      ideally be as short as possible.
      -->
 <!ENTITY quickFilterBar.barLabel.label
-         "Quick Filter:">
+         "Արագ ֆիլտր.">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.unread.label):
      The label for the filter button that causes us to filter results to only
      include unread messages.
      -->
 <!ENTITY quickFilterBar.unread.label
-         "Unread">
+         "Չկարդացած">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.unread.tooltip):
      The tooltip for the filter button that causes us to filter results to only
      include unread messages.
      -->
 <!ENTITY quickFilterBar.unread.tooltip
-         "Show only unread messages">
+         "Ցուցադրել միայն չկարդացած նամակները">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.starred.label):
      The label for the filter button that causes us to filter results to only
@@ -62,7 +62,7 @@
      include messages that have been starred/flagged.
      -->
 <!ENTITY quickFilterBar.starred.tooltip
-         "Show only starred messages">
+         "Ցուցադրել միայն աստղիկով նամակները">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.inaddrbook.label):
      The label for the filter button that causes us to filter results to only
@@ -70,7 +70,7 @@
      books.
      -->
 <!ENTITY quickFilterBar.inaddrbook.label
-         "Contact">
+         "Հասցե">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.inaddrbook.tooltip):
      The tooltip for the filter button that causes us to filter results to only
@@ -78,35 +78,35 @@
      books.
      -->
 <!ENTITY quickFilterBar.inaddrbook.tooltip
-         "Show only messages from people in your address book">
+         "Ցուցադրել միայն Հասացեագրքի մարդկանց">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.tags.label):
      The label for the filter button that causes us to filter results to only
      include messages with at least one tag on them.
      -->
 <!ENTITY quickFilterBar.tags.label
-         "Tags">
+         "Պիտակներ">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.tags.tooltip):
      The tooltip for the filter button that causes us to filter results to only
      include messages with at least one tag on them.
      -->
 <!ENTITY quickFilterBar.tags.tooltip
-         "Show only messages with tags on them">
+         "Ցուցադրել միայն պիտակով նամակները">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.attachment.label):
      The label for the filter button that causes us to filter results to only
      include messages with attachments.
      -->
 <!ENTITY quickFilterBar.attachment.label
-         "Attachment">
+         "Կցորդ">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.attachment.tooltip):
      The tooltip for the filter button that causes us to filter results to only
      include messages with attachments.
      -->
 <!ENTITY quickFilterBar.attachment.tooltip
-         "Show only messages with attachments">
+         "Ցւցադրել միայն կցորդներով նամակները">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.some.formatString):
      This is used to populate the results box; it either displays the
@@ -118,14 +118,14 @@
      https://developer.mozilla.org/En/Localization_and_Plurals
      -->
 <!ENTITY quickFilterBar.resultsLabel.some.formatString
-         "#1 message;#1 messages">
+         "#1 նամակ;#1 նամակներ">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.none):
      The contents of the results box when there is a filter active but there
      are no messages matching the filter.
      -->
 <!ENTITY quickFilterBar.resultsLabel.none
-         "No results">
+         "Արդյունք չկա">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.minWidth):
      The minimum width, in pixels, of the results label.  Please size this
@@ -148,7 +148,7 @@
      box faster.
      -->
 <!ENTITY quickFilterBar.textbox.emptyText.base
-         "Filter these messages... #1">
+         "Ֆիլտրել այս նամակները...#1">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
      This is the key used to show the quick filter bar. -->
@@ -195,45 +195,47 @@
      arrow scroll box.)
      -->
 <!ENTITY quickFilterBar.textFilter.explanation.label
-         "Filter messages by:">
+         "Ֆիլտրել նամակները ըստ՝">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.sender.label):
      The button label that toggles whether the text filter searches the message
      sender for the string.
      -->
 <!ENTITY quickFilterBar.textFilter.sender.label
-         "Sender">
+         "Ուղարկողը">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.recipients.label):
      The button label that toggles whether the text filter searches the message
      recipients (to, cc) for the string.
      -->
 <!ENTITY quickFilterBar.textFilter.recipients.label
-         "Recipients">
+         "Ստացողները">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.subject.label):
      The button label that toggles whether the text filter searches the message
      subject for the string.
      -->
 <!ENTITY quickFilterBar.textFilter.subject.label
-         "Subject">
+         "Վերնագիրը">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.body.label):
      The button label that toggles whether the text filter searches the message
      body for the string.
      -->
 <!ENTITY quickFilterBar.textFilter.body.label
-         "Body">
+         "Տեքստը">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.glodaUpsell.continueSearch):
      The first line of the panel popup that tells the user we found no matches
      but we can convert to a global search for them.
      -->
 <!ENTITY quickFilterBar.glodaUpsell.continueSearch
-         "Continue this search across all folders">
+         "Շարունակել որոնումը բոլոր թղթապանակներում">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.glodaUpsell.pressEnterAndCurrent):
      The second line of the panel popup that tells the user we found no matches.
      This line will have #1 replaced with what the user has typed so far.
      -->
 <!ENTITY quickFilterBar.glodaUpsell.pressEnterAndCurrent
+         "Սեղմեք 'Enter'՝ շարունակելու համար որոնումը #1-ում">
+

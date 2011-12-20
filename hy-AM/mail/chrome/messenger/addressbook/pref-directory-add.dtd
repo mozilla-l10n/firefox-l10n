@@ -35,39 +35,39 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY newDirectoryTitle.label           "Directory Server Properties">
-<!ENTITY directoryName.label               "Name: ">
+<!ENTITY newDirectoryTitle.label           "Թղթ. սպասարկիչի հատկությունները">
+<!ENTITY directoryName.label               "Անուն.">
 <!ENTITY directoryName.accesskey           "N">
-<!ENTITY directoryHostname.label           "Hostname: ">
+<!ENTITY directoryHostname.label           "Հոսթի անունը.">
 <!ENTITY directoryHostname.accesskey       "o">
-<!ENTITY directoryBaseDN.label             "Base DN: ">
+<!ENTITY directoryBaseDN.label             "Բազայի DN-ն.">
 <!ENTITY directoryBaseDN.accesskey         "B">
-<!ENTITY findButton.label                  "Find">
+<!ENTITY findButton.label                  "Փնտրել">
 <!ENTITY findButton.accesskey              "F">
-<!ENTITY directorySecure.label             "Use secure connection (SSL)">
+<!ENTITY directorySecure.label             "Օգտ. անվտանգ միացում (SSL)">
 <!ENTITY directorySecure.accesskey         "U">
 <!ENTITY directoryLogin.label              "Bind DN: ">
 <!ENTITY directoryLogin.accesskey          "i">
-<!ENTITY General.tab                       "General">
-<!ENTITY Offline.tab                       "Offline">
-<!ENTITY Advanced.tab                      "Advanced">
-<!ENTITY portNumber.label                  "Port number: ">
+<!ENTITY General.tab                       "Գլխավորը">
+<!ENTITY Offline.tab                       "Անցանց">
+<!ENTITY Advanced.tab                      "Ընդլայնված">
+<!ENTITY portNumber.label                  "Պորտի համարը.">
 <!ENTITY portNumber.accesskey              "P">
-<!ENTITY searchFilter.label                "Search filter: ">
+<!ENTITY searchFilter.label                "Փնտրելու ֆիլտրը.">
 <!ENTITY searchFilter.accesskey            "f">
-<!ENTITY scope.label                       "Scope: ">
+<!ENTITY scope.label                       "Շրջանը.">
 <!ENTITY scope.accesskey                   "c">
-<!ENTITY scopeOneLevel.label               "One Level">
+<!ENTITY scopeOneLevel.label               "Մեկ մակարդակ">
 <!ENTITY scopeOneLevel.accesskey           "L">
-<!ENTITY scopeSubtree.label                "Subtree">
+<!ENTITY scopeSubtree.label                "Ենթածառը.">
 <!ENTITY scopeSubtree.accesskey            "S">
-<!ENTITY return.label                      "Don't return more than">
+<!ENTITY return.label                      "Չվերադարձնել ավելի քան՝">
 <!ENTITY return.accesskey                  "r">
-<!ENTITY results.label                     "results">
-<!ENTITY offlineText.label                 "You can download a local copy of this directory so that it is available for use when you are working offline.">
-<!ENTITY saslMechanism.label               "Login method: ">
+<!ENTITY results.label                     "արդյունքներ">
+<!ENTITY offlineText.label                 "Կարող եք բեռնել այս թղթապանակի լոկալ օրինակը, որպեսզի այն հասանելի լինի անցանց աշխատելիս։">
+<!ENTITY saslMechanism.label               "Մուտքի եղանակը.">
 <!ENTITY saslMechanism.accesskey           "m">
-<!ENTITY saslOff.label                     "Simple">
+<!ENTITY saslOff.label                     "Պարզ.">
 <!ENTITY saslOff.accesskey                 "l">
 <!ENTITY saslGSSAPI.label                  "Kerberos (GSSAPI)">
 <!ENTITY saslGSSAPI.accesskey              "K">
@@ -76,3 +76,5 @@
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.
 -->
+<!ENTITY newDirectoryWidth                 "36em">
+

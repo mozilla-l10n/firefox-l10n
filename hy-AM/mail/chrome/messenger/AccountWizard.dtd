@@ -5,9 +5,9 @@
 
 <!-- Entities for Account Type page -->
 
-<!ENTITY accountSetupInfo.label "Նախ կարգավորեք Էլ. փոստի կամ Նորությունների փոստարկղը։">
+<!ENTITY accountSetupInfo2.label "Նամակներ ստանալու համար պետք է կարգավորել փոստարկղ։">
 <!ENTITY accountTypeTitle.label "Նոր փոստարկղի կարգավորում">
-<!ENTITY accountTypeDesc.label "Այս Վարպետը կհավաքի անհրաժեշտ տեղեկատվություն՝ կարգավորելու համար Էլ. կամ Նորությունների փոստարկղը։">
+<!ENTITY accountTypeDesc2.label "Վարպետը կհավաքի անհրաժեշտ տեղեկատվությունը՝ կարգավորելու համար փոստարկղը։ Եթե չգիտեք, թե ինչ տեղեկություն է պահանջվում, կապնվեք Ադմինի կամ Ինտերնետի մատակարարի հետ։">
 <!ENTITY accountTypeDirections.label "Ընտրեք փոստարկղի տեսակը.">
 <!ENTITY accountTypeMail.label "Փոստարկղ">
 <!ENTITY accountTypeMail.accesskey "m">
@@ -111,3 +111,5 @@
 <!ENTITY deferStorage.label "Օգտ. Հիմնական Մուտքայինները (պահել նամակները Լոկալ թղթապանակում)։">
 <!ENTITY deferStorage.accesskey "G">
 <!ENTITY clickFinish.label "Սեղմեք Ավարտել՝ պահպանելու համար կարգավորումները և փակելու համար Փոստարկղի Վարպետը։">
+<!ENTITY clickFinish.labelMac "Սեղմեք Պատրաստ է՝ պահպանելու համար կարգավորումները և փակելու համար Փոստարկղի Վարպետը։">
+

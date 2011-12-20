@@ -14,7 +14,7 @@
 <!ENTITY nntpNotDownloadRead.accesskey "d">
 <!ENTITY nntpDownloadMsg.label "Նամակներ ավելի քան՝">
 <!ENTITY nntpDownloadMsg.accesskey "e">
-<!ENTITY retentionCleanup.label "Ազատ տեղը վերականգնելու համար, ջնջեք հին նամակները։">
+<!ENTITY retentionCleanup.label "Ազատ տեղ բացելու համար, ջնջեք հին նամակները։">
 <!ENTITY retentionCleanupImap.label "Ազատ տեղը վերականգնելու համար, հին նամակները կարող եք ջնջել, և՛ լոկալ պատճեները և օրիգինալները հեռադիր սպասարկիչում։">
 <!ENTITY retentionCleanupPop.label "Ազատ տեղը վերականգնելու համար, հին նամակները կարող եք ջնջվել՝ ներառյալ օրիգինալները հեռադիր սպասարկիչում։">
 <!ENTITY retentionKeepMsg.label "Ջնջել նամակները ավելի քան՝">
@@ -51,3 +51,5 @@
 <!ENTITY weekAgeInterval.label           "Շաբաթ">
 <!ENTITY monthAgeInterval.label          "Ամիս">
 <!ENTITY yearAgeInterval.label           "Տարի">
+<!ENTITY ageAutosyncAfter.label          "">
+

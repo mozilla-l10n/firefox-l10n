@@ -40,3 +40,5 @@
 <!ENTITY rename.label                      "Նշեք թղթապանակի նոր անունը.">
 <!ENTITY rename.accesskey                  "E">
 <!ENTITY accept.label                      "Անվանափոխել">
+<!ENTITY accept.accesskey                  "R">
+

@@ -37,7 +37,7 @@
 
 <!ENTITY fieldMapImport.title "Ներմուծել Հասցեագիրքը">
 <!ENTITY fieldMapImport.size "լայն-ը. 40em; բարձր-ը. 30em;">
-<!ENTITY fieldMapImport.recordNumber "Imported data for Record: ">
+<!ENTITY fieldMapImport.recordNumber "Գրառման համար ներմուծված տվյալ.">
 <!ENTITY fieldMapImport.next.label "Հաջորդը">
 <!ENTITY fieldMapImport.next.accesskey "N">
 <!ENTITY fieldMapImport.previous.label "Նախորդը">
@@ -49,4 +49,6 @@
 <!ENTITY fieldMapImport.down.accesskey "D">
 <!ENTITY fieldMapImport.fieldListTitle "Հասցեագրքի դաշտերը">
 <!ENTITY fieldMapImport.dataTitle "Ներմուծվող գրառման տվյալը">
-<!ENTITY fieldMapImport.skipFirstRecord.label "First record contains field names">
+<!ENTITY fieldMapImport.skipFirstRecord.label "Առաջին գրառումը պարունակում է դատարկ անուններ">
+<!ENTITY fieldMapImport.skipFirstRecord.accessKey "Ա">
+

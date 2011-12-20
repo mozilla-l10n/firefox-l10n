@@ -39,3 +39,5 @@
 <!ENTITY markByDateLower.label "Նշել նամակները կարդացած՝">
 <!ENTITY markByDateLower.accesskey "f">
 <!ENTITY markByDateUpper.label "Ում.">
+<!ENTITY markByDateUpper.accesskey "T">
+

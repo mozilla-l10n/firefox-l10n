@@ -36,4 +36,6 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Labels -->
-<!ENTITY newfolderchoosethis.label      "choose this for the parent">
+<!ENTITY newfolderchoosethis.label      "ընտրել սա հիմնականի համար">
+<!ENTITY filemessageschoosethis.label   "ընտրել այս թղթապանակը">
+

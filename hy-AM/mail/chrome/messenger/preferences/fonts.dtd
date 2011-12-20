@@ -1,75 +1,77 @@
-<!ENTITY  fontsAndEncodingsDialog.title           "Fonts &amp; Encodings">
+<!ENTITY  fontsAndEncodingsDialog.title           "Տառի &amp; կոդավորումը">
 <!ENTITY  window.width                            "39em">
 <!ENTITY  window.macWidth                         "43em">
 <!ENTITY  window.unixWidth                        "41em">
 
-<!ENTITY  language.label                          "Fonts for:">
+<!ENTITY  language.label                          "Տառատեսակներ՝">
 <!ENTITY  language.accesskey                      "t">
 
-<!ENTITY  size.label                              "Size:">
+<!ENTITY  size.label                              "Չափը.">
 <!ENTITY  proportionalSize.accesskey              "e">
 <!ENTITY  sizeMono.accesskey                      "i">
 
-<!ENTITY  proportional.label                      "Proportional:">
+<!ENTITY  proportional.label                      "Բաշխված.">
 <!ENTITY  proportional.accesskey                  "P">
 
-<!ENTITY  serif.label                             "Serif:">
+<!ENTITY  serif.label                             "Գծիկավոր.">
 <!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "Sans-serif:">
+<!ENTITY  sans-serif.label                        "Հստակ-գծիկավոր.">
 <!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "Monospace:">
+<!ENTITY  monospace.label                         "Համաչափ.">
 <!ENTITY  monospace.accesskey                     "M">
 
-<!ENTITY  font.langGroup.latin1                   "Western">
-<!ENTITY  font.langGroup.latin2                   "Central European">
-<!ENTITY  font.langGroup.japanese                 "Japanese">
-<!ENTITY  font.langGroup.trad-chinese             "Traditional Chinese (Taiwan)">
-<!ENTITY  font.langGroup.simpl-chinese            "Simplified Chinese">
-<!ENTITY  font.langGroup.trad-chinese-hk          "Traditional Chinese (Hong Kong)">
-<!ENTITY  font.langGroup.korean                   "Korean">
-<!ENTITY  font.langGroup.cyrillic                 "Cyrillic">
-<!ENTITY  font.langGroup.baltic                   "Baltic">
-<!ENTITY  font.langGroup.el                       "Greek">
-<!ENTITY  font.langGroup.turkish                  "Turkish">
-<!ENTITY  font.langGroup.unicode                  "Other Languages">
-<!ENTITY  font.langGroup.user-def                 "User Defined">
-<!ENTITY  font.langGroup.thai                     "Thai">
-<!ENTITY  font.langGroup.hebrew                   "Hebrew">
-<!ENTITY  font.langGroup.arabic                   "Arabic">
-<!ENTITY  font.langGroup.devanagari               "Devanagari">
-<!ENTITY  font.langGroup.tamil                    "Tamil">
-<!ENTITY  font.langGroup.armenian                 "Armenian">
-<!ENTITY  font.langGroup.bengali                  "Bengali">
-<!ENTITY  font.langGroup.canadian                 "Unified Canadian Syllabary">
-<!ENTITY  font.langGroup.ethiopic                 "Ethiopic">
-<!ENTITY  font.langGroup.georgian                 "Georgian">
-<!ENTITY  font.langGroup.gujarati                 "Gujarati">
-<!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
-<!ENTITY  font.langGroup.khmer                    "Khmer">
-<!ENTITY  font.langGroup.malayalam                "Malayalam">
+<!ENTITY  font.langGroup.latin1                   "Արևմտյան">
+<!ENTITY  font.langGroup.latin2                   "Միջին Եվրոպական">
+<!ENTITY  font.langGroup.japanese                 "Ճապոներեն">
+<!ENTITY  font.langGroup.trad-chinese             "Ավանդական Չիներեն (Թայվան)">
+<!ENTITY  font.langGroup.simpl-chinese            "Պարզեցված Չիներեն">
+<!ENTITY  font.langGroup.trad-chinese-hk          "Ավանդական Չիներեն (Հոնգ­Կոնգ)">
+<!ENTITY  font.langGroup.korean                   "Կորեական">
+<!ENTITY  font.langGroup.cyrillic                 "Կիրիլյան">
+<!ENTITY  font.langGroup.baltic                   "Բալթյան">
+<!ENTITY  font.langGroup.el                       "Հունարեն">
+<!ENTITY  font.langGroup.turkish                  "Թրքերեն">
+<!ENTITY  font.langGroup.unicode                  "Այլ լեզուներ">
+<!ENTITY  font.langGroup.user-def                 "Ձեր ընտրվածը">
+<!ENTITY  font.langGroup.thai                     "Թաի">
+<!ENTITY  font.langGroup.hebrew                   "Եբրայերեն">
+<!ENTITY  font.langGroup.arabic                   "Արաբերեն">
+<!ENTITY  font.langGroup.devanagari               "Դեվանագարի">
+<!ENTITY  font.langGroup.tamil                    "Թամիլերեն">
+<!ENTITY  font.langGroup.armenian                 "Հայերեն">
+<!ENTITY  font.langGroup.bengali                  "Բենգալի">
+<!ENTITY  font.langGroup.canadian                 "Միացյալ Կանադական Սիլաբարի">
+<!ENTITY  font.langGroup.ethiopic                 "Եթովպերեն">
+<!ENTITY  font.langGroup.georgian                 "Վրացերեն">
+<!ENTITY  font.langGroup.gujarati                 "Գույարաթի">
+<!ENTITY  font.langGroup.gurmukhi                 "Գուրմուխի">
+<!ENTITY  font.langGroup.khmer                    "Խմեր">
+<!ENTITY  font.langGroup.malayalam                "Մալայալամ">
 
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Minimum font size:">
+<!ENTITY minSize.label                            "Առնվազն տառաչափը.">
 <!ENTITY minSize.accesskey                        "z">
-<!ENTITY minSize.none                             "None">
+<!ENTITY minSize.none                             "Ոչ մեկը">
 
 <!-- default font type -->
-<!ENTITY  useDefaultFontSerif.label               "Serif">
-<!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
+<!ENTITY  useDefaultFontSerif.label               "Հստակ">
+<!ENTITY  useDefaultFontSansSerif.label           "Գծիկավոր">
 
 <!-- fonts in message -->
-<!ENTITY  fontControl.label                       "Font Control">
-<!ENTITY  useFixedWidthForPlainText.label         "Use fixed width font for plain text messages">
+<!ENTITY  fontControl.label                       "Կառավարում">
+<!ENTITY  useFixedWidthForPlainText.label         "Օգտ. տառի ֆիկսված չափ տեքս. նամակների համար">
 <!ENTITY  fixedWidth.accesskey                    "x">
-<!ENTITY  useDocumentFonts.label                  "Allow messages to use other fonts">
+<!ENTITY  useDocumentFonts.label                  "Օգտագործել նաև այլ տառատեսակներ">
 <!ENTITY  useDocumentFonts.accesskey              "o">
 
 <!-- Language settings -->
-<!ENTITY sendDefaultCharset.label         "Outgoing Mail:">
+<!ENTITY sendDefaultCharset.label         "Ելքային նամակ.">
 <!ENTITY sendDefaultCharset.accesskey     "u">
-<!ENTITY languagesTitle1.label            "Character Encodings">
-<!ENTITY composingDescription.label       "Set the default character encodings for sending and receiving mail">
+<!ENTITY languagesTitle1.label            "Գրանշանների կոդավորումը">
+<!ENTITY composingDescription.label       "Օգտ. գրանշանների ծրագրային կոդավորումը՝ ուղարկվելիք կամ ստանալիք նամակի համար">
 
-<!ENTITY viewDefaultCharsetList.label     "Incoming Mail:">
+<!ENTITY viewDefaultCharsetList.label     "Մուտքային նամակ.">
 <!ENTITY viewDefaultCharsetList.accesskey  "I">
-<!ENTITY replyInDefaultCharset2.label     "When possible, use the default character encoding in replies">
+<!ENTITY replyInDefaultCharset2.label     "Հնարավորության դեպքում պատասխանելիս օգտ. ծրագրային կոդավորումը.">
+<!ENTITY replyInDefaultCharset2.accesskey "h">
+

@@ -1,7 +1,7 @@
-<!ENTITY  connectionsDialog.title       "Connection Settings">
+<!ENTITY  connectionsDialog.title       "Կապի կարգավորումներ">
 <!ENTITY  window.width                   "37em">
 
-<!ENTITY  proxyTitle.label              "Configure Proxies to Access the Internet">
+<!ENTITY  proxyTitle.label              "Կարգավորել պրոքսին">
 <!ENTITY  noProxyTypeRadio.label        "Առանց պրոքսի">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "Համակարգի պրոքսի կարգավորումները">
@@ -18,7 +18,7 @@
 <!ENTITY  http.accesskey                "H">
 <!ENTITY  ssl.label                     "SSL պրոսքի.">
 <!ENTITY  ssl.accesskey                 "S">
-<!ENTITY  socks.label                   "SOCKS Host:">
+<!ENTITY  socks.label                   "SOCKS հոսթը.">
 <!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
@@ -32,5 +32,7 @@
 <!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "Չկա պրոքսի՝">
 <!ENTITY  noproxy.accesskey             "N">
-<!ENTITY  noproxyExplain.label          "Example: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  noproxyExplain.label          "Օրինակ՝ .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Օգտագործել այս պրոքսին բոլորի համար">
+<!ENTITY  shareproxy.accesskey          "x">
+

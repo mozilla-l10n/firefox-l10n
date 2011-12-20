@@ -17,3 +17,5 @@
 <!ENTITY whitelist.accesskey "D">
 
 <!ENTITY ispHeaders.label "Վստահել խլամ նամակի վերնագրին՝">
+<!ENTITY ispHeaders.accesskey "T">
+

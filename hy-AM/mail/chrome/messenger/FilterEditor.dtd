@@ -1,21 +1,21 @@
 <!ENTITY window.title "Ֆիլտրի կանոնները">
-<!ENTITY filterEditorDialog.dimensions "width: 100ch;">
+<!ENTITY filterEditorDialog.dimensions "լայն-ը. 100ch;">
 <!ENTITY filterName.label "Ֆիլտրի անունը.">
 <!ENTITY filterName.accesskey "i">
 
 <!ENTITY junk.label "Թափոն">
 <!ENTITY notJunk.label "Թափոն չէ">
 
-<!ENTITY lowestPriorityCmd.label "Lowest">
-<!ENTITY lowPriorityCmd.label "Low">
-<!ENTITY normalPriorityCmd.label "Normal">
-<!ENTITY highPriorityCmd.label "High">
-<!ENTITY highestPriorityCmd.label "Highest">
+<!ENTITY lowestPriorityCmd.label "Ամենացածր">
+<!ENTITY lowPriorityCmd.label "Ցածր">
+<!ENTITY normalPriorityCmd.label "Նորմալ">
+<!ENTITY highPriorityCmd.label "Բարձր">
+<!ENTITY highestPriorityCmd.label "Ամենաբարձր">
 
 <!ENTITY contextDesc.label "Կիրառել ֆիլտրը, երբ՝">
 <!ENTITY contextDesc.accesskey "w">
-<!ENTITY contextIncoming.label "Checking Mail">
-<!ENTITY contextManual.label "Manually Run">
+<!ENTITY contextIncoming.label "Փոստի ստուգում">
+<!ENTITY contextManual.label "Ձեռադիր բացում">
 <!ENTITY contextBoth.label "Ստուգել նամակները կամ Բացել ձեռադիր">
 <!ENTITY contextPostPlugin.label "Նամակների ստուգում (դասակարգումից հետո)">
 <!ENTITY contextPostPluginBoth.label "Նամակների ստուգում (դասակարգումից հետո) կամ Ձեռադիր բացում">
@@ -27,14 +27,16 @@
 <!ENTITY copyMessage.label "Պատճենել՝">
 <!ENTITY forwardTo.label "Փոխանցել՝">
 <!ENTITY replyWithTemplate.label "Պատասխանել Նմուշով">
-<!ENTITY markMessageRead.label "Mark As Read">
-<!ENTITY markMessageStarred.label "Add Star">
-<!ENTITY setPriority.label "Set Priority to">
-<!ENTITY addTag.label "Tag Message">
-<!ENTITY setJunkScore.label "Set Junk Status to">
-<!ENTITY deleteMessage.label "Delete Message">
+<!ENTITY markMessageRead.label "Նշել որպես կարդացած">
+<!ENTITY markMessageStarred.label "Ավելացնել աստղ">
+<!ENTITY setPriority.label "Առաջնայնությունը՝">
+<!ENTITY addTag.label "Պիտակված նամակ">
+<!ENTITY setJunkScore.label "Տալ խլամի վիճակ՝">
+<!ENTITY deleteMessage.label "Ջնջել նամակը">
 <!ENTITY deleteFromPOP.label "Ջնջել POP սպասարկիչից">
 <!ENTITY fetchFromPOP.label "Ընտրել POP սպասարկիչից">
-<!ENTITY ignoreThread.label "Ignore Thread">
-<!ENTITY ignoreSubthread.label "Ignore Subthread">
-<!ENTITY watchThread.label "Watch Thread">
+<!ENTITY ignoreThread.label "Անտեսել թեմատիկան">
+<!ENTITY ignoreSubthread.label "Անտեսել ենթաթեման">
+<!ENTITY watchThread.label "Նայել թեմատիկան">
+<!ENTITY stopExecution.label "Կանգնեցնել ֆիլտրը">
+

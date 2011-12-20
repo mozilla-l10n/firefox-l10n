@@ -1,10 +1,10 @@
 
-<!ENTITY migrationWizard.title          "Import Wizard">
+<!ENTITY migrationWizard.title          "Ներմուծման Վարպետ">
 
-<!ENTITY importFromWin.label            "Import Options, Account Settings, Address Book, Filters and other data from:">
-<!ENTITY importFromNonWin.label         "Import Preferences, Account Settings, Address Book, Filters, and other data from:">
+<!ENTITY importFromWin.label            "Ներմուծել Ընտրանքները, Փոստարկղի կարգավորումները, Հասցեագիրքը, Ֆիլտրերը և այլ տվյալներ.">
+<!ENTITY importFromNonWin.label         "Ներմուծել Կարգավորումները, Փոստարկղի կարգավորումները, Հասցեագիրքը, Ֆիլտրերը և այլ տվյալներ.">
 
-<!ENTITY importFromNothing.label        "Don't import anything">
+<!ENTITY importFromNothing.label        "Չներմուծել ոչինչ">
 <!ENTITY importFromNothing.accesskey    "D">
 <!ENTITY importFromSeamonkey2.label     "Netscape 6, 7, Mozilla 1.x or SeaMonkey">
 <!ENTITY importFromSeamonkey2.accesskey "s">
@@ -15,14 +15,16 @@
 <!ENTITY importFromEudora.label         "Eudora">
 <!ENTITY importFromEudora.accesskey     "E">
 
-<!ENTITY importSource.title             "Import Settings and Mail Folders">
-<!ENTITY importItems.title              "Items to Import">
-<!ENTITY importItems.label              "Select which items to import:">
+<!ENTITY importSource.title             "Ներմուծել կարգավորումները և նամակի թղթապանակները">
+<!ENTITY importItems.title              "Ներմուծել՝">
+<!ENTITY importItems.label              "Ընտրեք թե ինչ պիտի ներմուծվի">
 
-<!ENTITY migrating.title                "Importing…">
-<!ENTITY migrating.label                "The following items are currently being imported…">
+<!ENTITY migrating.title                "Ներմուծվում է...">
+<!ENTITY migrating.label                "Հետևյալները ներմուծվում են…">
 
-<!ENTITY selectProfile.title            "Select Profile">
-<!ENTITY selectProfile.label            "The following profiles are available to import from:">
+<!ENTITY selectProfile.title            "Ընտրեք պրոֆիլը">
+<!ENTITY selectProfile.label            "Հետևյալ պրոֆիլները հասանելի են ներմուծելու՝">
 
-<!ENTITY done.title                     "Import Complete">
+<!ENTITY done.title                     "Ներմուծումն ավարտվեց">
+<!ENTITY done.label                     "Հետևյալները հաջողությամբ ներմուծվել են.">
+

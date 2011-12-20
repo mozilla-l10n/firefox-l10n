@@ -20,3 +20,5 @@
 <!ENTITY serverPort.label "Պորտը.">
 <!ENTITY userName.label   "Օգտվողի անունը.">
 <!ENTITY connectionSecurity.label "Միացման անվտանգությունը.">
+<!ENTITY authMethod.label   "Վավերացման եղանակը.">
+

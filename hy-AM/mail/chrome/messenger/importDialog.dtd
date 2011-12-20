@@ -59,20 +59,22 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY  window.width            "40em">
 <!ENTITY  window.macWidth         "45em">
 
-<!ENTITY importTitle.label        "&brandShortName; Import Wizard">
-<!ENTITY importShortDesc.label    "Import Mail, Address Books, Settings, and Filters from other programs">
+<!ENTITY importTitle.label        "&brandShortName;-ի Ներմուծման վարպետ">
+<!ENTITY importShortDesc.label    "Ներմուծել նամակ, Հասցեագիրք, Կարգավորումներ և ֆիլտրեր այլ ծրագրերից">
 
-<!ENTITY importDescription1.label "This wizard will import mail messages, address book entries, preferences, and/or filters from other mail programs and common address book formats into &brandShortName;.">
-<!ENTITY importDescription2.label "Once they have been imported, you will be able to access them from within &brandShortName;.">
+<!ENTITY importDescription1.label "Այս վարպետը կներմուծի նամակներ, հասցեներ, կարգավորումներ և/կամ ֆիլտրեր այլ փոստային ծրագրից և ընտրված հասցեներ &brandShortName;։">
+<!ENTITY importDescription2.label "Երբ ներմուծվեն, Դուք կկարողանաք մուտք գործել &brandShortName;-ի միջոցով։">
 
 <!ENTITY selectDescription.label  "Ընտրեք, թե ի՞նչ եք ցանկանում ներմուծել.">
 <!ENTITY selectDescription.accesskey "P">
 
-<!ENTITY back.label               "&lt; Back">
-<!ENTITY forward.label            "Next &gt;">
-<!ENTITY finish.label             "Finish">
-<!ENTITY cancel.label             "Cancel">
+<!ENTITY back.label               "&lt; Հետ">
+<!ENTITY forward.label            "Առաջ &gt;">
+<!ENTITY finish.label             "Ավարտել">
+<!ENTITY cancel.label             "Չեղարկել">
 
-<!ENTITY select.label             "or select the type of material to import:">
+<!ENTITY select.label             "կամ ընտրեք, թե ինչը ներմուծել.">
 
-<!ENTITY title.label              "Title">
+<!ENTITY title.label              "Վերնագիրը">
+<!ENTITY processing.label         "Ներմուծվում է...">
+

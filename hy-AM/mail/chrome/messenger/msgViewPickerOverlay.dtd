@@ -15,3 +15,5 @@
 <!ENTITY viewVirtualFolder.label "Պահպանել տեսքը...">
 <!ENTITY viewVirtualFolder.accesskey "S">
 <!ENTITY viewCustomizeView.label "Կարգավորել…">
+<!ENTITY viewCustomizeView.accesskey "C">
+
