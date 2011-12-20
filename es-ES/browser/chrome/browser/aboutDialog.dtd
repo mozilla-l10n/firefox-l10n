@@ -1,9 +1,16 @@
 <!ENTITY aboutDialog.title "Acerca de &brandFullName;">
+<!ENTITY warningDesc.version "&brandShortName; es experimental y puede ser inestable.">
+<!ENTITY warningDesc.telemetry "Automáticamente envía información de test a &vendorShortName; para hacer &brandShortName; mejor.">
+<!ENTITY community.exp.start "">
+<!ENTITY community.exp.mozillaLink "&vendorShortName;">
+<!ENTITY community.exp.middle " es una ">
+<!ENTITY community.exp.creditsLink "comunidad global">
+<!ENTITY community.exp.end " trabajando junta para mantener la web abierta, pública y accesible para todos.">
 <!ENTITY community.start2 "&brandShortName; está diseñado por ">
 <!ENTITY community.mozillaLink "&vendorShortName;">
 <!ENTITY community.middle2 ", una ">
 <!ENTITY community.creditsLink "comunidad global">
-<!ENTITY community.end2 " trabajando unida para hacer un internet mejor. Creemos que internet debería ser abierto, público y accesible para todos sin ninguna restricción.">
+<!ENTITY community.end3 " trabajando junta para mantener la web abierta, pública y accesible para todos.">
 <!ENTITY contribute.start "¿Suena interesante? ">
 <!ENTITY contribute.getInvolvedLink "¡Involúcrese!">
 <!ENTITY contribute.end "">
