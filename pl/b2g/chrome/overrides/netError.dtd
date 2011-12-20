@@ -1,0 +1,169 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+<!ENTITY loadError.label "Błąd wczytywania strony" >
+<!ENTITY retry.label "Spróbuj ponownie" >
+
+<!-- Specific error messages -->
+
+<!ENTITY connectionFailure.title "Nie udało się nawiązać połączenia">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+
+<!ENTITY deniedPortAccess.title "Port zastrzeżony z przyczyn bezpieczeństwa">
+<!ENTITY deniedPortAccess.longDesc "">
+
+<!ENTITY dnsNotFound.title "Nie odnaleziono adresu">
+<!ENTITY dnsNotFound.longDesc2 "
+<ul>
+  <li>Upewnij się, że wprowadzony adres nie zawiera takich literówek, jak 
+    <strong>ww</strong>.mozilla.org zamiast
+    <strong>www</strong>.mozilla.org</li>
+  <li>Jeśli nie możesz otworzyć żadnej strony, sprawdź połączenie sieciowe.</li>
+</ul>
+">
+
+<!ENTITY fileNotFound.title "Nie odnaleziono pliku">
+<!ENTITY fileNotFound.longDesc "
+<ul>
+  <li>Sprawdź, czy nazwa pliku nie zawiera dużych liter lub nie ma innych literówek.</li>
+  <li>Sprawdź, czy plik nie został przeniesiony, usunięty lub jego nazwa nie została zmieniona.</li>
+</ul>
+">
+
+
+<!ENTITY generic.title "Ups.">
+<!ENTITY generic.longDesc "
+<p>Z jakiegoś powodu &brandShortName; nie może pobrać strony.</p>
+">
+
+<!ENTITY malformedURI.title "Nieprawidłowy adres">
+<!ENTITY malformedURI.longDesc "
+<ul>
+  <li>Adresy stron zazwyczaj wyglądają mniej więcej tak  
+    <strong>http://www.mozilla.org/</strong></li>
+  <li>Upewnij się, że używasz poprawnych ukośników (np. 
+    <strong>/</strong>).</li>
+</ul>
+">
+
+<!ENTITY netInterrupt.title "Przerwano przesyłanie danych">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+
+<!ENTITY notCached.title "Dokument wygasł">
+<!ENTITY notCached.longDesc "<p>Żądany dokument nie jest dostępny w pamięci podręcznej programu &brandShortName;.</p><ul><li>Ze względów bezpieczeństwa &brandShortName; nie pobiera ponownie wrażliwych dokumentów automatycznie.</li><li>Kliknij przycisk Spróbuj ponownie, aby jeszcze raz pobrać dokument z witryny.</li></ul>">
+
+<!ENTITY netOffline.title "Tryb offline">
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>Spróbuj ponownie. &brandShortName; powtórzy próbę otwarcia połączenia i przeładuje stronę.</li>
+</ul>
+">
+
+<!ENTITY contentEncodingError.title "Błąd kodowania zawartości">
+<!ENTITY contentEncodingError.longDesc "
+<ul>
+  <li>Please contact the website owners to inform them of this problem.</li>
+</ul>
+">
+
+<!ENTITY unsafeContentType.title "Unsafe File Type">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>Prosimy poinformować właścicieli witryny o tym problemie.</li>
+</ul>
+">
+
+<!ENTITY netReset.title "Przerwane połączenie">
+<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+
+<!ENTITY netTimeout.title "Przekroczono limit czasu połączenia">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+
+<!ENTITY protocolNotFound.title "Nieznany protokół">
+<!ENTITY protocolNotFound.longDesc "
+<ul>
+  <li>Możliwe, że aby otworzyć ten adres, konieczna jest instalacja dodatkowego oprogramowania.</li>
+</ul>
+">
+
+<!ENTITY proxyConnectFailure.title "Serwer proxy odrzucił połączenie">
+<!ENTITY proxyConnectFailure.longDesc "
+<ul>
+  <li>Upewnij się, że ustawienia serwera proxy są poprawne.</li>
+  <li>Skontaktuj się ze swoim administratorem sieci, aby upewnić się, że serwer proxy
+    działa poprawnie.</li>
+</ul>
+">
+
+<!ENTITY proxyResolveFailure.title "Unable to find the proxy server">
+<!ENTITY proxyResolveFailure.longDesc2 "
+<ul>
+  <li>Upewnij się, że ustawienia serwera proxy są poprawne.</li>
+  <li>Upewnij się, że połączenie sieciowe działa poprawnie.</li>
+</ul>
+">
+
+<!ENTITY redirectLoop.title "Ta strona nie przekierowuje poprawnie">
+<!ENTITY redirectLoop.longDesc "
+<ul>
+  <li>Ten problem może być czasem powodowany przez wyłączenie lub odmowę przyjęcia
+    ciasteczek.</li>
+</ul>
+">
+
+<!ENTITY unknownSocketType.title "Nieoczekiwana odpowiedź serwera">
+<!ENTITY unknownSocketType.longDesc "
+<ul>
+  <li>Upewnij się, że Personal Security Manager jest zainstalowany na twoim systemie.</li>
+  <li>Ten problem może być powodowany przez niestandardowe ustawienia serwera.</li>
+</ul>
+">
+
+<!ENTITY nssFailure2.title "Nie udało się nawiązać bezpiecznego połączenia">
+<!ENTITY nssFailure2.longDesc "
+<ul>
+  <li>Strona, którą próbujesz otworzyć, nie może zostać wyświetlona, ponieważ nie udało się zweryfikować autentyczności danych.</li>
+  <li>Skontaktuj się z administratorem strony, aby poinformować go o tym problemie, lub skorzystaj z opcji w menu pomocy, aby zgłosić niedziałającą stronę.</li>
+</ul>
+">
+
+<!ENTITY nssBadCert.title "Nie udało się nawiązać bezpiecznego połączenia">
+<!ENTITY nssBadCert.longDesc2 "
+<ul>
+  <li>Powodem tego może być nieprawidłowa konfiguracja serwera albo próba podania się za ten serwer przez podmiot nieuprawniony.</li>
+  <li>Jeśli użytkownik łączył się wcześniej z tym serwerem, błąd może być tymczasowy – w tej sytuacji należy spróbować ponownie później.</li>
+</ul>
+">
+
+<!ENTITY sharedLongDesc2 "
+<ul>
+  <li>Strona może być tymczasowo niedostępna lub przeciążona. Spróbuj ponownie za pewien czas.</li>
+  <li>Jeśli nie udaje się otworzyć żadnej strony, sprawdź połączenie sieciowe.</li>
+</ul>
+">
+
+<!ENTITY cspFrameAncestorBlocked.title "Zablokowane przez politykę bezpieczeństwa treści">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Przeglądarka uniemożliwiła tej stronie wczytanie treści w ten sposób, ponieważ strona posiada politykę bezpieczeństwa treści, która na to nie pozwala.</p>">
+
+<!ENTITY corruptedContentError.title "Błąd: treść uszkodzona">
+<!ENTITY corruptedContentError.longDesc "<p>Strona, którą próbujesz obejrzeć, nie może być wyświetlona, ponieważ wykryto błąd w transmisji danych.</p><ul><li>Prosimy poinformować właścicieli witryny o tym problemie.</li></ul>">
+
+
+<!ENTITY securityOverride.linkText "Lub dodaj wyjątek…">
+<!ENTITY securityOverride.getMeOutOfHereButton "Zabierz mnie stąd!">
+<!ENTITY securityOverride.exceptionButtonLabel "Dodaj wyjątek…">
+
+<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
+contents of the <xul:button> tags.  The only language content is the label= field,
+which uses strings already defined above. The button is included here (instead of
+netError.xhtml) because it exposes functionality specific to firefox. -->
+
+<!ENTITY securityOverride.warningContent "
+<p>Nie powinno się dodawać wyjątku, jeśli używasz połączenia internetowego, któremu nie możesz w pełni zaufać, lub jeśli zazwyczaj nie pokazuje się to ostrzeżenie na tym serwerze.</p>
+
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
+">
+
+<!ENTITY remoteXUL.title "Zdalna treść XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Prosimy poinformować właścicieli witryny o tym problemie.</li></ul></p>">
