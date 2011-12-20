@@ -87,12 +87,16 @@
 <!ENTITY showTaskbarCmd.accesskey                       "S">
 <!ENTITY customizeToolbar.label                         "රිසිකරණය...">
 <!ENTITY customizeToolbar.accesskey                     "C">
-<!ENTITY showContactPane.label                          "සබඳතා සාරාංශ කවුළුව">
-<!ENTITY showContactPane.accesskey                      "C">
+<!ENTITY layoutMenu.label                               "සැලසුම">
+<!ENTITY layoutMenu.accesskey                           "L">
+<!ENTITY showDirectoryPane.label                        "බහාලුම් සාරාංශ කවුළුව">
+<!ENTITY showDirectoryPane.accesskey                    "D">
+<!ENTITY showContactPane2.label                          "සබඳතා සාරාංශ කවුළුව">
+<!ENTITY showContactPane2.accesskey                      "C">
 <!ENTITY menu_ShowNameAs.label                          "නම මෙසේ පෙන්වන්න">
 <!ENTITY menu_ShowNameAs.accesskey                      "n"> 
-<!ENTITY firstLastCmd.label                             "මුල, අග">
-<!ENTITY firstLastCmd.accesskey                         "f"> 
+<!ENTITY firstLastCmd2.label                             "මුල, අග">
+<!ENTITY firstLastCmd2.accesskey                         "f"> 
 <!ENTITY lastFirstCmd.label                             "අග, මුල">
 <!ENTITY lastFirstCmd.accesskey                         "l">
 <!ENTITY displayNameCmd.label                           "නම පෙන්වීම">

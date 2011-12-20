@@ -75,7 +75,7 @@ Entities below were automatically added by compare-locales,
 <!ENTITY port.label "වාවරය (Port)">
 <!ENTITY half-manual-test.accesskey "t">
 <!ENTITY advancedSetup.label "වැඩිමනත් මානකිරීම්">
-<!ENTITY imapLong.label "IMAP (remote folders)">
+<!ENTITY imapLong.label "IMAP (දුරස්ථ බහාලුම්)">
 <!ENTITY auth.label "සත්‍යාපනය">
 <!ENTITY hostname.label "සේවාදායක ධාරක නම">
 <!ENTITY advancedSetup.accesskey "A">
@@ -85,3 +85,5 @@ Entities below were automatically added by compare-locales,
 <!ENTITY password.placeholder "රහස්පදය">
 <!ENTITY pop3.label "POP3">
 <!ENTITY manual-edit.accesskey "M">
+<!ENTITY switch-to-provisioner.label     "නව ගිණුමක් ලබාගන්න">
+<!ENTITY switch-to-provisioner.accesskey "G">

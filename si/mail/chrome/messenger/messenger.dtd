@@ -10,8 +10,10 @@
 <!ENTITY newVirtualFolderCmd.accesskey "S">
 <!ENTITY newOtherAccountsCmd.label "වෙනත් ගිණුම්…">
 <!ENTITY newOtherAccountsCmd.accesskey "O">
-<!ENTITY newEmailAccountCmd.label "තැපැල් ගිණුමක්...">
-<!ENTITY newEmailAccountCmd.accesskey "A">
+<!ENTITY newCreateEmailAccountCmd.label "නව තැපැල් ගිණුමක් ලබාගන්න…">
+<!ENTITY newCreateEmailAccountCmd.accesskey "G">
+<!ENTITY newExistingEmailAccountCmd.label "පවතින තැපැල් ගිණුමක්…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "E">
 <!ENTITY openMessageFileCmd.label "සුරැකූ ලිපියක් අරින්න...">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "ඇමුණන්න">
@@ -129,6 +131,8 @@
 <!ENTITY messagePaneVertical.accesskey "V">
 <!ENTITY showMessageCmd.label "ලිපි කවුළුව">
 <!ENTITY showMessageCmd.accesskey "M">
+<!ENTITY showFolderPaneCmd.label "හාලුම් සාරාංශ කවුළුව">
+<!ENTITY showFolderPaneCmd.accesskey "F">
 
 <!ENTITY folderView.label "ෆෝල්ඩර">
 <!ENTITY folderView.accesskey "F">
