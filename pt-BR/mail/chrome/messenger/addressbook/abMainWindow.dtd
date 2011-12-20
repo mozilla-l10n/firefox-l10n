@@ -87,12 +87,18 @@
 <!ENTITY showTaskbarCmd.accesskey                       "s">
 <!ENTITY customizeToolbar.label                         "Personalizar…">
 <!ENTITY customizeToolbar.accesskey                     "P">
-<!ENTITY showContactPane.label                          "Painel de resumo do contato">
-<!ENTITY showContactPane.accesskey                      "P">
+<!ENTITY layoutMenu.label                               "Layout">
+<!ENTITY layoutMenu.accesskey                           "L">
+<!ENTITY showDirectoryPane.label                        "Painel de diretórios">
+<!ENTITY showDirectoryPane.accesskey                    "P">
+<!ENTITY showContactPane2.label                         "Painel do contato">
+<!ENTITY showContactPane2.accesskey                     "a">
 <!ENTITY menu_ShowNameAs.label                          "Exibir nome como">
 <!ENTITY menu_ShowNameAs.accesskey                      "N"> 
-<!ENTITY firstLastCmd.label                             "Primeiro, Último">
-<!ENTITY firstLastCmd.accesskey                         "P"> 
+<!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
+because displayed names don't have the comma in between. -->
+<!ENTITY firstLastCmd2.label                            "Primeiro Último">
+<!ENTITY firstLastCmd2.accesskey                        "P"> 
 <!ENTITY lastFirstCmd.label                             "Último, Primeiro">
 <!ENTITY lastFirstCmd.accesskey                         "r">
 <!ENTITY displayNameCmd.label                           "Apresentar como">
