@@ -1,12 +1,26 @@
 <!ENTITY aboutDialog.title          "À propos de &brandFullName;">
 
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+<!ENTITY warningDesc.version        "&brandShortName; est expérimental et peut être instable.">
+<!-- LOCALIZATION NOTE (warningDesc.telemetry): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetry      "Il envoie automatiquement des informations de test à &vendorShortName; pour aider à améliorer &brandShortName;.">
+
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+<!ENTITY community.exp.start        "">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+<!ENTITY community.exp.middle       " est une ">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "communauté mondiale">
+<!ENTITY community.exp.end          " de contributeurs qui travaillent ensemble pour garder Internet ouvert, public et accessible à tous.">
+
 <!ENTITY community.start2           "&brandShortName; est conçu par ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", une communauté mondiale de ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "contributeurs">
-<!ENTITY community.end2             " qui travaillent ensemble pour rendre Internet meilleur. Nous croyons qu'Internet doit être ouvert, public et accessible à tous sans aucune restriction.">
+<!ENTITY community.end3             " qui travaillent ensemble pour garder Internet ouvert, public et accessible à tous.">
 
 <!ENTITY contribute.start           "Ça vous intéresse ? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
