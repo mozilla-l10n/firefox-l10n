@@ -44,49 +44,21 @@
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
 <!-- File menu items -->
-<!ENTITY fileMenu.label "Arquivo">
-<!ENTITY fileMenu.accesskey "A">
-<!ENTITY openFileCmd.label "Abrir arquivo…">
-<!ENTITY openFileCmd.accesskey "O">
-<!ENTITY openFileCmd.key "o">
-<!ENTITY openRemoteCmd.label "Abrir página web…">
-<!ENTITY openRemoteCmd.accesskey "w">
-<!ENTITY openRemoteCmd.key "l">
-<!ENTITY fileRecentMenu.label "Páginas recentes">
-<!ENTITY fileRecentMenu.accesskey "t">
-<!ENTITY fileRevert.label "Reverter">
-<!ENTITY fileRevert.accesskey "R">
-<!ENTITY saveCmd.label "Salvar">
-<!ENTITY saveCmd.accesskey "v">
 <!ENTITY saveCmd.key "s">
-<!ENTITY saveAsCmd.label "Salvar como…">
-<!ENTITY saveAsCmd.accesskey "l">
-
-<!ENTITY publishCmd.label "Publicar">
-<!ENTITY publishCmd.accesskey "P">
-<!ENTITY publishCmd.key "s">
-<!ENTITY publishAsCmd.label "Publicar como…">
-<!ENTITY publishAsCmd.accesskey "u">
-<!ENTITY saveAsChangeEncodingCmd.label "Salvar e mudar codificação">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "m">
 
 <!-- Edit menu items -->
-<!ENTITY editMenu.label "Editar">
-<!ENTITY editMenu.accesskey "E">
 <!ENTITY pasteNoFormatting.label "Colar sem formatação">
 <!ENTITY pasteNoFormatting.accesskey "f">
 <!ENTITY pasteNoFormatting.key "v">
 <!ENTITY pasteAs.label "Colar como">
 <!ENTITY pasteAs.accesskey "a">
-<!ENTITY publishSettings.label "Configurações de publicação do site…">
-<!ENTITY publishSettings.accesskey "n">
 <!ENTITY pasteAsQuotationCmd.label "Colar como citação">
 <!ENTITY pasteAsQuotationCmd.accesskey "i">
 <!ENTITY pasteAsQuotationCmd.key "O">
 <!ENTITY findCmd.label "Localizar e substituir…">
 <!ENTITY enableInlineSpellChecker.label "Verificar ortografia ao digitar">
 <!ENTITY enableInlineSpellChecker.accesskey "e">
-<!ENTITY checkSpellingCmd2.label "Verificar ortografia">
+<!ENTITY checkSpellingCmd2.label "Verificar ortografia…">
 <!ENTITY checkSpellingCmd2.accesskey "V">
 <!ENTITY checkSpellingCmd2.key "p">
 
@@ -211,7 +183,7 @@
 <!ENTITY formatRemoveLinks.key "k">
 <!ENTITY formatRemoveNamedAnchors.label "Excluir âncoras nomeadas">
 <!ENTITY formatRemoveNamedAnchors.accesskey "n">
-<!ENTITY formatRemoveNamedAnchors.key "a">
+<!ENTITY formatRemoveNamedAnchors2.key "R">
 
 <!ENTITY paragraphMenu.label "Parágrafo">
 <!ENTITY paragraphMenu.accesskey "r">
