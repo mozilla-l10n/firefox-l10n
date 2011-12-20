@@ -15,7 +15,7 @@
 <!-- LOCALIZATION NOTE (select.action.style): Should be a width wide enough for
      the action strings in selectAddons.properties or brandShortName. -->
 <!ENTITY select.action.style         "width: 35ch;">
-<!ENTITY select.source               "Installed By">
+<!ENTITY select.source               "Installeret af">
 <!ENTITY select.name                 "Navn">
 <!-- LOCALIZATION NOTE (select.name.style): Should be a width small enough so
      the source column still has enough room for the source strings in
@@ -28,7 +28,7 @@
 <!ENTITY confirm.description         "Gør &brandShortName; endnu hurtigere ved at deaktivere tilføjelser, du ikke længere bruger. Tilføjelser installeret af tredjepart vil blive deaktiveret automatisk med mindre du vælger dem nedenfor.">
 
 <!ENTITY action.disable.heading      "Følgende tilføjelser vil blive deaktiveret:">
-<!ENTITY action.incompatible.heading "Følgende tilføjelser er deaktiveret men vil blive aktiveret når de igen er kompatible:">
+<!ENTITY action.incompatible.heading "Følgende tilføjelser er deaktiveret, men vil blive aktiveret når de igen er kompatible:">
 <!ENTITY action.update.heading       "Følgende tilføjelser vil blive opdateret:">
 <!ENTITY action.enable.heading       "Følgende tilføjelser vil blive aktiveret:">
 

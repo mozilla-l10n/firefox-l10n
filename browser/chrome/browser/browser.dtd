@@ -184,7 +184,7 @@ can reach it easily. -->
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
 <!ENTITY errorConsoleCmd.label        "Fejlkonsol">
-<!ENTITY errorConsoleCmd.accesskey    "k">
+<!ENTITY errorConsoleCmd.accesskey    "j">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
 <!ENTITY webConsoleCmd.label          "Web-konsol">
@@ -209,7 +209,7 @@ can reach it easily. -->
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
 <!ENTITY scratchpad.label             "Kladdeblok">
-<!ENTITY scratchpad.accesskey         "K">
+<!ENTITY scratchpad.accesskey         "b">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
@@ -293,7 +293,7 @@ can reach it easily. -->
 
 <!ENTITY appMenuEdit.label "Rediger">
 <!ENTITY appMenuCustomize.label "Tilpas">
-<!ENTITY appMenuToolbarLayout.label "Værktøjslinje-layout…">
+<!ENTITY appMenuToolbarLayout.label "Tilpas værktøjslinjer…">
 <!ENTITY appMenuSidebars.label "Sidebjælker">
 <!ENTITY appMenuFind.label "Find…">
 <!ENTITY appMenuUnsorted.label "Usorterede bogmærker">

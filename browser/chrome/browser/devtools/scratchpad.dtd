@@ -62,7 +62,7 @@
 <!ENTITY selectAllCmd.accesskey       "A">
 
 <!ENTITY run.label                    "Kør">
-<!ENTITY run.accesskey                "K">
+<!ENTITY run.accesskey                "ø">
 <!ENTITY run.key                      "r">
 
 <!ENTITY inspect.label                "Inspicer">
