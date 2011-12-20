@@ -1,58 +1,58 @@
 <!ENTITY window.title "Scratchpad">
-<!ENTITY fileMenu.label "File">
+<!ENTITY fileMenu.label "Archivo">
 <!ENTITY fileMenu.accesskey "F">
-<!ENTITY newWindowCmd.label "New Window">
+<!ENTITY newWindowCmd.label "nueva pagina">
 <!ENTITY newWindowCmd.accesskey "N">
 <!ENTITY newWindowCmd.commandkey "n">
-<!ENTITY openFileCmd.label "Open File…">
+<!ENTITY openFileCmd.label "Abrir Archivo...">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
-<!ENTITY saveFileCmd.label "Save">
+<!ENTITY saveFileCmd.label "Guardar">
 <!ENTITY saveFileCmd.accesskey "S">
 <!ENTITY saveFileCmd.commandkey "s">
-<!ENTITY saveFileAsCmd.label "Save As…">
+<!ENTITY saveFileAsCmd.label "Guardar Como...">
 <!ENTITY saveFileAsCmd.accesskey "A">
-<!ENTITY closeCmd.label "Close">
+<!ENTITY closeCmd.label "Cerrar">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "C">
-<!ENTITY editMenu.label "Edit">
+<!ENTITY editMenu.label "Editar">
 <!ENTITY editMenu.accesskey "E">
-<!ENTITY undoCmd.label "Undo">
+<!ENTITY undoCmd.label "DesHacer">
 <!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.accesskey "U">
-<!ENTITY redoCmd.label "Redo">
+<!ENTITY redoCmd.label "ReHacer">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "R">
-<!ENTITY cutCmd.label "Cut">
+<!ENTITY cutCmd.label "Cortar">
 <!ENTITY cutCmd.key "X">
 <!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "Copy">
+<!ENTITY copyCmd.label "Copiar">
 <!ENTITY copyCmd.key "C">
 <!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "Paste">
+<!ENTITY pasteCmd.label "Pegar">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "P">
-<!ENTITY selectAllCmd.label "Select All">
+<!ENTITY selectAllCmd.label "Seleccionar todo">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "A">
-<!ENTITY run.label "Run">
+<!ENTITY run.label "Correr">
 <!ENTITY run.accesskey "R">
 <!ENTITY run.key "r">
-<!ENTITY inspect.label "Inspect">
+<!ENTITY inspect.label "inspeccionar">
 <!ENTITY inspect.accesskey "I">
 <!ENTITY inspect.key "i">
-<!ENTITY display.label "Display">
+<!ENTITY display.label "Mostrar">
 <!ENTITY display.accesskey "D">
 <!ENTITY display.key "l">
-<!ENTITY environmentMenu.label "Environment">
+<!ENTITY environmentMenu.label "Entorno">
 <!ENTITY environmentMenu.accesskey "N">
-<!ENTITY contentContext.label "Content">
+<!ENTITY contentContext.label "Contenido">
 <!ENTITY contentContext.accesskey "C">
-<!ENTITY browserContext.label "Browser">
+<!ENTITY browserContext.label "Navegador">
 <!ENTITY browserContext.accesskey "B">
-<!ENTITY resetContext2.label "Reset Variables">
+<!ENTITY resetContext2.label "Resetear Variables">
 <!ENTITY resetContext2.accesskey "T">
-<!ENTITY executeMenu.label "Execute">
+<!ENTITY executeMenu.label "Ejecutar">
 <!ENTITY executeMenu.accesskey "X">
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY webConsoleCmd.commandkey "k">
