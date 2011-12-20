@@ -1,10 +1,10 @@
-<!ENTITY title           "Insta?la el complement">
+<!ENTITY title           "Instal·la el complement">
 <!ENTITY intro           "Un altre programa del vostre ordinador vol modificar el 
 &brandShortName; amb el següent complement:">
-<!ENTITY warning         "Només insta?leu complements dels autors que confieu.">
-<!ENTITY allow           "Permet aquesta insta?lació">
+<!ENTITY warning         "Només instal·leu complements dels autors que confieu.">
+<!ENTITY allow           "Permet aquesta instal·lació">
 <!ENTITY later           "Sempre podeu canviar d'idea i anar al Gestor de complements.">
 <!ENTITY continue        "Continua">
-<!ENTITY restartMessage  "Per finalitzar la insta?lació del complement heu de reiniciar el &brandShortName;.">
+<!ENTITY restartMessage  "Per finalitzar la instal·lació del complement heu de reiniciar el &brandShortName;.">
 <!ENTITY restartButton   "Reinicia el &brandShortName;">
-<!ENTITY cancelButton    "Cance?la">
+<!ENTITY cancelButton    "Cancel·la">
