@@ -1,12 +1,26 @@
 <!ENTITY aboutDialog.title          "關於 &brandFullName;">
 
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+<!ENTITY warningDesc.version        "&brandShortName; 是一個實驗用的測試版本，可能不夠穩定。">
+<!-- LOCALIZATION NOTE (warningDesc.telemetry): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetry      "同時也將會自動回傳測試用資訊到 &vendorShortName; 以幫助 &brandShortName; 變得更好。">
+
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+<!ENTITY community.exp.start        "">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+<!ENTITY community.exp.middle       " 是一個 ">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "全球性社群">
+<!ENTITY community.exp.end          "。我們一起努力讓網路保持開放，任誰都可隨意使用。">
+
 <!ENTITY community.start2           "&brandShortName; 是由 ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          " 所開發的產品。Mozilla 是個 ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "全球性社群">
-<!ENTITY community.end2             "，我們努力讓網際網路變得更好，且相信網路應該開放、任誰都可隨意使用。">
+<!ENTITY community.end3             "。我們一起努力讓網路保持開放，任誰都可隨意使用。">
 
 <!ENTITY contribute.start           "有興趣嗎？ ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
