@@ -7,11 +7,11 @@
 <!ENTITY enter.accesskey "В">
 <!ENTITY chooseFile.label "Вибрати файл…">
 <!ENTITY chooseFile.accesskey "В">
-<!ENTITY newWindow.label "Нове вікно навігатора">
-<!ENTITY newTab.label "Нова вкладка навігатора">
-<!ENTITY currentTab.label "Current browser tab">
+<!ENTITY newWindow.label "Нове вікно переглядача">
+<!ENTITY newTab.label "Нова вкладка переглядача">
+<!ENTITY currentTab.label "Поточна вкладка переглядача">
 <!ENTITY editNewWindow.label "Нове вікно редактора">
 <!ENTITY open.label "Відкрити">
-<!ENTITY caption.label "Відкрити веб-адреси">
+<!ENTITY caption.label "Відкрити адресу">
 <!ENTITY openWhere.label "Відкрити в:">
 <!ENTITY openWhere.accesskey "В">

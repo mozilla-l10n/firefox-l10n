@@ -6,11 +6,11 @@
 <!ENTITY tabNavigationForms.accesskey "К">
 <!ENTITY tabNavigationTextboxes.label "Майте при увазі: текстові блоки та ділянки з прокруткою — постійна частина порядку вкладування.">
 <!ENTITY tabNavigationDesc.label "Коли натиснені Tab або Shift+Tab, пересуватись між:">
-<!ENTITY accessibilityBrowseWithCaret.label "Browse With Caret">
-<!ENTITY browseWithCaretDesc.label "Caret browsing enables you to navigate and select within pages using the cursor keys to move a visible caret.">
-<!ENTITY browseWithCaretUse.label "Use caret browsing">
-<!ENTITY browseWithCaretUse.accesskey "U">
-<!ENTITY browseWithCaretShortCut.label "Use the F7 shortcut to toggle caret browsing">
-<!ENTITY browseWithCaretShortCut.accesskey "F">
-<!ENTITY browseWithCaretWarn.label "Warn me before turning on caret browsing">
-<!ENTITY browseWithCaretWarn.accesskey "W">
+<!ENTITY accessibilityBrowseWithCaret.label "Перегляд з клавіатурою">
+<!ENTITY browseWithCaretDesc.label "Клавіатурне переглядання дозволяє навігувати і вибирати всередині сторінок, використовуючи клавіші курсора для пересування видимих клавіш.">
+<!ENTITY browseWithCaretUse.label "Використовувати клавіатурне переглядання">
+<!ENTITY browseWithCaretUse.accesskey "В">
+<!ENTITY browseWithCaretShortCut.label "Використовувати скорочення F7 для перемикання на клавіатурне переглядання">
+<!ENTITY browseWithCaretShortCut.accesskey "и">
+<!ENTITY browseWithCaretWarn.label "Повідомляти мене перш ніж увімкнути клавіатурне переглядання">
+<!ENTITY browseWithCaretWarn.accesskey "П">

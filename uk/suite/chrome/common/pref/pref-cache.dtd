@@ -2,25 +2,25 @@
 
 <!--LOCALIZATION NOTE : FILE Cache prefs dialog -->
 <!ENTITY pref.cache.title                "Кеш">
-<!ENTITY pref.cache.caption              "Налаштувати варіанти кеша">
-<!ENTITY cachePara                       "Кеш — це надшвидка пам'ять, котра зберігає сторінки, які ви нещодавно відвідували, на ваш жорсткий диск. (Клацнувши Оновити, ви завжди побачите найновішу версію сторінки.)">
-<!ENTITY cacheCheck.label                "Let &brandShortName; manage the size of my cache">
-<!ENTITY cacheCheck.accesskey            "L">
-<!ENTITY diskCacheUpTo.label             "Use up to">
-<!ENTITY diskCacheUpTo.accesskey         "U">
-<!ENTITY spaceMbytes                     "MB of disk space for the cache">
+<!ENTITY pref.cache.caption              "Налаштувати паораметри кеша">
+<!ENTITY cachePara                       "Кеш — це надшвидка пам'ять, котра зберігає сторінки, які ви нещодавно відвідували, на ваш жорсткий диск. (Клацнувши «Оновити», ви завжди побачите найновішу версію сторінки.)">
+<!ENTITY cacheCheck.label                "Надати право &brandShortName; керувати розміром мого кеша">
+<!ENTITY cacheCheck.accesskey            "Н">
+<!ENTITY diskCacheUpTo.label             "Установити до">
+<!ENTITY diskCacheUpTo.accesskey         "У">
+<!ENTITY spaceMbytes                     "МБ дискового простору для кеша">
 <!ENTITY diskCacheFolder.label           "Тека для кеша:">
 <!ENTITY clearDiskCache.label            "Очистити кеш">
 <!ENTITY clearDiskCache.accesskey        "О">
 <!ENTITY chooseDiskCacheFolder.label     "Вибрати теку">
 <!ENTITY chooseDiskCacheFolder.accesskey "В">
-<!ENTITY diskCacheFolderExplanation      "Файли кеша будуть зберігатись в підтеці з назвою &quot;Cache&quot; у теці, котру ви вказали. Перезапустіть &brandShortName;, щоб зміни вступили в дію.">
-<!ENTITY docCache.label                  "Compare the page in the cache to the page on the network:">
-<!ENTITY docCache.accesskey              "m">
-<!ENTITY checkOncePerSession.label       "Once per session">
-<!ENTITY checkEveryTime.label            "Every time I view the page">
-<!ENTITY checkNever.label                "Never">
-<!ENTITY checkAutomatically.label        "When the page is out of date">
+<!ENTITY diskCacheFolderExplanation      "Файли кеша будуть зберігатись в підтеці з назвою &quot;Cache&quot; у теці, котру ви вказали. Перезапустіть &brandShortName;, щоб зміни набрали чинності.">
+<!ENTITY docCache.label                  "Порівнювати сторінку в кеші зі сторінкою в мережі:">
+<!ENTITY docCache.accesskey              "П">
+<!ENTITY checkOncePerSession.label       "Раз за сеанс">
+<!ENTITY checkEveryTime.label            "Кожногл разу, коли я переглядаю сторінку">
+<!ENTITY checkNever.label                "Ніколи">
+<!ENTITY checkAutomatically.label        "Коли сторінка застаріла">
 
 <!ENTITY prefetchTitle.label             "Попереднє звантаження">
 <!ENTITY enablePrefetch.label            "Звантажувати сторінки в фоновому режимі, коли є вільний трафік, щоб вони хуткіше звантажувались">

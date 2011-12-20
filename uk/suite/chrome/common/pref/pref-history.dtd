@@ -1,19 +1,19 @@
-<!ENTITY  pref.history.title                "Журнал">
+<!ENTITY  pref.history.title                "Історія">
 
 <!ENTITY  pref.history.caption              "Історія навігації">
-<!ENTITY  historyPages.label                "Журнал — список сторінок, які ви відвідали раніше.">
-<!ENTITY  enableHistory.label               "Remember visited pages">
-<!ENTITY  enableHistory.accesskey           "R">
-<!ENTITY  clearHistory.label                "Очистити журнал">
+<!ENTITY  historyPages.label                "Історія — список сторінок, які ви відвідали раніше.">
+<!ENTITY  enableHistory.label               "Запам'ятовувати відвідані сторінки">
+<!ENTITY  enableHistory.accesskey           "З">
+<!ENTITY  clearHistory.label                "Очистити історію">
 <!ENTITY  clearHistory.accesskey            "О">
 
-<!ENTITY  locationBarHistory.caption        "Журнал панелі адрес">
-<!ENTITY  clearLocationBar.label            "Clear the list of websites stored in the location bar menu.">
+<!ENTITY  locationBarHistory.caption        "Історія панелі адрес">
+<!ENTITY  clearLocationBar.label            "Очистити список сайтів, збережених в меню панелі адрес.">
 <!ENTITY  clearLocationBarButton.label      "Очистити панель адрес">
 <!ENTITY  clearLocationBarButton.accesskey  "О">
 <!ENTITY  formfillHistory.caption           "Історія форм та пошуку">
-<!ENTITY  enableFormfill.label              "Включити історію форм та пошуку">
-<!ENTITY  enableFormfill.accesskey          "n">
-<!ENTITY  formfillExpire.label              "Пам'ятати історію форм та пошуку до">
-<!ENTITY  formfillExpire.accesskey          "f">
+<!ENTITY  enableFormfill.label              "Увімкнути історію форм та пошуку">
+<!ENTITY  enableFormfill.accesskey          "У">
+<!ENTITY  formfillExpire.label              "Запам'ятовувати історію форм та пошуку до">
+<!ENTITY  formfillExpire.accesskey          "З">
 <!ENTITY  formfillDays.label                "днів">

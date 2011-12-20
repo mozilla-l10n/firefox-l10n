@@ -10,5 +10,5 @@
 <!-- pref-tabs.xul -->
 <!ENTITY urlbar.label                 "Ctrl+Enter у рядку адреси">
 <!ENTITY urlbar.accesskey             "а">
-<!ENTITY middleClick.label            "Клацання середньою кнопкою, Ctrl+клацнути або Ctrl+Enter на посиланні на сторінці">
+<!ENTITY middleClick.label            "Клацання середньою кнопкою, Ctrl+клацнути або Ctrl+Enter по посиланню на сторінці">
 <!ENTITY middleClick.accesskey        "К">

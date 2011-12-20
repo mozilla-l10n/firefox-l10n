@@ -1,5 +1,5 @@
 <!-- LOCALIZATION NOTE (tabs.otherComputers.label): Keep this in sync with syncTabsMenu.label from navigator.dtd -->
-<!ENTITY tabs.otherComputers.label               "Вкладки з інших комп’ютерів">
+<!ENTITY tabs.otherComputers.label               "Вкладки з інших комп'ютерів">
 
 <!ENTITY tabs.searchText.label                   "Пошук вкладок…">
 

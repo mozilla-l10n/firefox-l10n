@@ -11,11 +11,11 @@
 <!ENTITY enableAutomaticImageResizing.accesskey "З">
 <!ENTITY useSmoothScroll.label                  "Використати плавне прокручування">
 <!ENTITY useSmoothScroll.accesskey              "В">
-<!ENTITY allowHWAccel.label                     "Use hardware acceleration when available">
-<!ENTITY allowHWAccel.accesskey                 "e">
+<!ENTITY allowHWAccel.label                     "Використовувати апаратне прискорення за такої можливості">
+<!ENTITY allowHWAccel.accesskey                 "В">
 <!ENTITY textZoomOnly.label                     "Масштабувати лише текст замість цілих сторінок">
 <!ENTITY textZoomOnly.accesskey                 "М">
-<!ENTITY blockAutoRefresh.label                 "Warn me when web sites try to redirect or reload the page">
-<!ENTITY blockAutoRefresh.accesskey             "W">
-<!ENTITY siteSpecific.label                     "Remember zoom levels on per-site basis">
-<!ENTITY siteSpecific.accesskey                 "m">
+<!ENTITY blockAutoRefresh.label                 "Попереджувати мене, якщо сайти намагаються перейти або перезавантажити сторінку">
+<!ENTITY blockAutoRefresh.accesskey             "П">
+<!ENTITY siteSpecific.label                     "Запам'ятовувати рівень масштабу на посайтовій основі">
+<!ENTITY siteSpecific.accesskey                 "З">

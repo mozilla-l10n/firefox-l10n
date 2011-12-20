@@ -37,29 +37,29 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY  SSLProtocolVersions.caption       "Версії протоколу SSL">
-<!ENTITY  SSLWarnings.caption               "SSL Попередження">
+<!ENTITY  SSLWarnings.caption               "Попередження SSL">
 <!ENTITY  SSLClientAuthMethod.caption       "Вибір сертифікатів клієнта">
 
 <!ENTITY pref.ssl.title                     "Рівень надійності сокетів (SSL)">
-<!ENTITY enable.ssl3                        "Ввімкнути SSL 3">
-<!ENTITY enable.ssl3.accesskey              "3">
+<!ENTITY enable.ssl3                        "Увімкнути SSL 3">
+<!ENTITY enable.ssl3.accesskey              "У">
 <!ENTITY enable.tls                         "Ввімкнути TLS">
 <!ENTITY enable.tls.accesskey               "В">
 
-<!ENTITY warn.description                   "&brandShortName; може повідомити вас про стан захисту сторінки, котру ви переглядаєте. Налаштуйте &brandShortName; так, щоб він показував попередження і питав дозвіл перед:">
+<!ENTITY warn.description                   "&brandShortName; може повідомити вас про стан захисту сторінки, котру ви переглядаєте. Налаштувати &brandShortName; так, щоб він показував попередження і питав дозвіл перед:">
 <!ENTITY warn.enteringsecure                "Завантаженням сторінки, що підтримує шифрування">
 <!ENTITY warn.enteringsecure.accesskey      "З">
 <!ENTITY warn.enteringweak                  "Завантаженням сторінки, що використовує низькоякісне шифрування">
 <!ENTITY warn.enteringweak.accesskey        "З">
-<!ENTITY warn.insecurepost                  "Відсиланням форми даних од незашифрованої сторінки до зашифрованої сторінки">
+<!ENTITY warn.insecurepost                  "Відсиланням форми даних від незашифрованої сторінки до зашифрованої сторінки">
 <!ENTITY warn.insecurepost.accesskey        "В">
-<!ENTITY warn.leavingsecure                 "Покиданням сторінки, що не підтримує шифрування">
+<!ENTITY warn.leavingsecure                 "Покиненням сторінки, що не підтримує шифрування">
 <!ENTITY warn.leavingsecure.accesskey       "a">
 <!ENTITY warn.viewmixed                     "Перегляданням сторінок зі змішаним шифруванням">
 <!ENTITY warn.viewmixed.accesskey           "П">
 
-<!ENTITY certselect.description             "Decide how &brandShortName; selects a security certificate to present to websites that require one:">
-<!ENTITY certselect.auto                    "Автоматично вибрати">
+<!ENTITY certselect.description             "Як пристрій &brandShortName; вибирає сертифікат безпеки, щоб представити сайтам, що вони потребують:">
+<!ENTITY certselect.auto                    "Автоматичний вибір">
 <!ENTITY certselect.auto.accesskey          "A">
-<!ENTITY certselect.ask                     "Перепитувати кожного разу">
+<!ENTITY certselect.ask                     "Перепитування кожного разу">
 <!ENTITY certselect.ask.accesskey           "П">

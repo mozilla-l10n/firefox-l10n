@@ -34,26 +34,26 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY safeModeDialog.title         "&brandShortName; Safe Mode">
+<!ENTITY safeModeDialog.title         "Безпечний режим &brandShortName;">
 <!ENTITY window.width                 "37em">
 
-<!ENTITY safeModeDescription.label    "&brandShortName; is now running in Safe Mode, which temporarily disables your custom settings, themes, and extensions.">
-<!ENTITY safeModeDescription2.label   "You can make some or all of these changes permanent:">
+<!ENTITY safeModeDescription.label    "&brandShortName; запущено в безпечному режимі, у якому тимчасово вимкнено ваші власні налаштуванням, теми і розширення.">
+<!ENTITY safeModeDescription2.label   "Можете зробити деякі або всі зміни постійними:">
 
-<!ENTITY disableAddons.label          "Disable all add-ons">
-<!ENTITY disableAddons.accesskey      "D">
+<!ENTITY disableAddons.label          "Вимкнути всі додатки">
+<!ENTITY disableAddons.accesskey      "д">
 
-<!ENTITY resetToolbars.label          "Reset toolbars and window sizes">
-<!ENTITY resetToolbars.accesskey      "R">
+<!ENTITY resetToolbars.label          "Скинути розміри панелі й вікна">
+<!ENTITY resetToolbars.accesskey      "С">
 
-<!ENTITY deleteBookmarks.label        "Delete all bookmarks except for backups">
-<!ENTITY deleteBookmarks.accesskey    "b">
+<!ENTITY deleteBookmarks.label        "Вилучити всі закладки, крім резервних копій">
+<!ENTITY deleteBookmarks.accesskey    "В">
 
-<!ENTITY resetUserPrefs.label         "Reset all user preferences to &brandShortName; defaults">
-<!ENTITY resetUserPrefs.accesskey     "p">
+<!ENTITY resetUserPrefs.label         "Установити всі параметри &brandShortName; типовими">
+<!ENTITY resetUserPrefs.accesskey     "У">
 
-<!ENTITY restoreSearch.label          "Restore default search engines">
-<!ENTITY restoreSearch.accesskey      "s">
+<!ENTITY restoreSearch.label          "Повернути типові пошукові рушії">
+<!ENTITY restoreSearch.accesskey      "П">
 
-<!ENTITY changeAndRestartButton.label "Make Changes and Restart">
-<!ENTITY continueButton.label         "Continue in Safe Mode">
+<!ENTITY changeAndRestartButton.label "Здійснити зміни і перезапустити">
+<!ENTITY continueButton.label         "Продовжити у безпченому режимі">

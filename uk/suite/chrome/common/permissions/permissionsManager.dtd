@@ -1,15 +1,15 @@
 <!ENTITY windowtitle.label              "Винятки">
-<!ENTITY treehead.sitename.label        "Website">
+<!ENTITY treehead.sitename.label        "Сайт">
 <!ENTITY treehead.status.label          "Стан">
-<!ENTITY remove.label                   "Remove Website">
+<!ENTITY remove.label                   "Вилучити сайт">
 <!ENTITY remove.accesskey               "В">
-<!ENTITY removeall.label                "Remove All Websites">
-<!ENTITY removeall.accesskey            "В">
-<!ENTITY address.label                  "Address of website:">
+<!ENTITY removeall.label                "Вилучити всі сайти">
+<!ENTITY removeall.accesskey            "с">
+<!ENTITY address.label                  "Адреса сайту:">
 <!ENTITY address.accesskey              "А">
-<!ENTITY block.label                    "Заборонити">
+<!ENTITY block.label                    "Заблокувати">
 <!ENTITY block.accesskey                "З">
 <!ENTITY session.label                  "Дозволити протягом сеансу">
-<!ENTITY session.accesskey              "Д">
+<!ENTITY session.accesskey              "с">
 <!ENTITY allow.label                    "Дозволити">
 <!ENTITY allow.accesskey                "Д">

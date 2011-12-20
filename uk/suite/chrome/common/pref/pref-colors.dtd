@@ -25,5 +25,5 @@
 <!ENTITY alwaysUseDocumentColors.label     "Завжди використовувати кольори і тло, котрі вказуються сторінкою">
 <!ENTITY alwaysUseDocumentColors.accesskey "З">
 <!-- LOCALIZATION NOTE (ignoreDocColors.label): This is option two, and it appends to 'someProvColors' above.  -->
-<!ENTITY useMyColors.label                 "Використовувати кольори, ігнорування кольорів та малюнок на тлі, котрі вибрані мною.">
+<!ENTITY useMyColors.label                 "Використовувати кольори, нехтування кольорів та малюнок на тлі, котрі вибрані мною.">
 <!ENTITY useMyColors.accesskey             "В">

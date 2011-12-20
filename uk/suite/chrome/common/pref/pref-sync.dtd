@@ -1,50 +1,50 @@
 <!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "Set Up &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; lets you access your history, bookmarks, passwords and open tabs across all your devices.">
+<!ENTITY setupButton.label          "Запустити &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "З">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; надає доступ до вашої історії, закладок, паролів і відкриває вкладки на всіх пристроях.">
 
 <!-- The page shown when logged in... -->
-<!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; Account">
-<!ENTITY accountName.label            "Account Name:">
+<!ENTITY accountGroupboxCaption.label "Обліковий запис &syncBrand.fullName.label;">
+<!ENTITY accountName.label            "Назва облікового запису:">
 
 <!-- Login error feedback -->
-<!ENTITY updatePass.label             "Update">
-<!ENTITY updatePass.accesskey         "U">
-<!ENTITY resetPass.label              "Reset">
-<!ENTITY resetPass.accesskey          "s">
+<!ENTITY updatePass.label             "Оновити">
+<!ENTITY updatePass.accesskey         "О">
+<!ENTITY resetPass.label              "Скинути">
+<!ENTITY resetPass.accesskey          "С">
 
 <!-- Manage Account -->
-<!ENTITY manageAccount.label          "Manage Account">
-<!ENTITY manageAccount.accesskey      "A">
-<!ENTITY viewQuota.label              "View Quota">
-<!ENTITY viewQuota.accesskey          "V">
-<!ENTITY changePassword.label         "Change Password">
-<!ENTITY changePassword.accesskey     "C">
-<!ENTITY myRecoveryKey.label          "My Recovery Key">
-<!ENTITY myRecoveryKey.accesskey      "M">
-<!ENTITY resetSync.label              "Reset Sync">
-<!ENTITY resetSync.accesskey          "e">
-<!ENTITY deactivateDevice.label       "Deactivate This Device">
-<!ENTITY deactivateDevice.accesskey   "D">
-<!ENTITY addDevice.label              "Add a Device">
-<!ENTITY addDevice.accesskey          "A">
+<!ENTITY manageAccount.label          "Організувати обліковий запис">
+<!ENTITY manageAccount.accesskey      "О">
+<!ENTITY viewQuota.label              "Переглянути квоту">
+<!ENTITY viewQuota.accesskey          "П">
+<!ENTITY changePassword.label         "Змінити пароль">
+<!ENTITY changePassword.accesskey     "З">
+<!ENTITY myRecoveryKey.label          "Мій відновувальний ключ">
+<!ENTITY myRecoveryKey.accesskey      "М">
+<!ENTITY resetSync.label              "Скинути синхронізацію">
+<!ENTITY resetSync.accesskey          "С">
+<!ENTITY deactivateDevice.label       "Відкинути цей пристрій">
+<!ENTITY deactivateDevice.accesskey   "В">
+<!ENTITY addDevice.label              "Додати пристрій">
+<!ENTITY addDevice.accesskey          "Д">
 
 <!-- Sync Settings -->
-<!ENTITY syncComputerName.label       "Computer Name:">
-<!ENTITY syncComputerName.accesskey   "N">
+<!ENTITY syncComputerName.label       "Назва комп'ютера:">
+<!ENTITY syncComputerName.accesskey   "Н">
 
-<!ENTITY syncMy2.label              "Sync My:">
-<!ENTITY engine.bookmarks.label     "Bookmarks">
-<!ENTITY engine.bookmarks.accesskey "B">
-<!ENTITY engine.tabs.label          "Tabs">
-<!ENTITY engine.tabs.accesskey      "T">
-<!ENTITY engine.history.label       "History">
-<!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "Passwords">
-<!ENTITY engine.passwords.accesskey "w">
-<!ENTITY engine.prefs.label         "Preferences">
-<!ENTITY engine.prefs.accesskey     "P">
+<!ENTITY syncMy2.label              "Синхронізувати мої:">
+<!ENTITY engine.bookmarks.label     "Закладки">
+<!ENTITY engine.bookmarks.accesskey "З">
+<!ENTITY engine.tabs.label          "Вкладки">
+<!ENTITY engine.tabs.accesskey      "В">
+<!ENTITY engine.history.label       "Історію">
+<!ENTITY engine.history.accesskey   "І">
+<!ENTITY engine.passwords.label     "Паролі">
+<!ENTITY engine.passwords.accesskey "П">
+<!ENTITY engine.prefs.label         "Параметри">
+<!ENTITY engine.prefs.accesskey     "р">
 
 <!-- Footer stuff -->
-<!ENTITY prefs.tosLink.label        "Terms of Service">
-<!ENTITY prefs.ppLink.label         "Privacy Policy">
+<!ENTITY prefs.tosLink.label        "Умови служби">
+<!ENTITY prefs.ppLink.label         "Умови конфіденційності">

@@ -7,14 +7,14 @@
 <!ENTITY  language.accesskey                      "Ш">
 
 <!ENTITY  typefaces.label                         "Шрифт">
-<!ENTITY  sizes.label                             "Розмір (піксели)">
+<!ENTITY  sizes.label                             "Розмір (пікселі)">
 
 <!ENTITY  proportional.label                      "Пропорційний">
 <!ENTITY  proportional.accesskey                  "П">
 
-<!ENTITY  serif.label                             "Із зарубками:">
+<!ENTITY  serif.label                             "Із засічками:">
 <!ENTITY  serif.accesskey                         "І">
-<!ENTITY  sans-serif.label                        "Без зарубок:">
+<!ENTITY  sans-serif.label                        "Без засічок:">
 <!ENTITY  sans-serif.accesskey                    "Б">
 <!ENTITY  monospace.label                         "Моноширинний:">
 <!ENTITY  monospace.accesskey                     "М">
@@ -27,16 +27,16 @@
 <!ENTITY  font.langGroup.latin1                   "Західноєвропейські">
 <!ENTITY  font.langGroup.latin2                   "Центральноєвропейські">
 <!ENTITY  font.langGroup.japanese                 "Японські">
-<!ENTITY  font.langGroup.trad-chinese             "Традиційні китайські(Тайвань)">
+<!ENTITY  font.langGroup.trad-chinese             "Традиційні китайські (Тайвань)">
 <!ENTITY  font.langGroup.simpl-chinese            "Спрощені китайські">
-<!ENTITY  font.langGroup.trad-chinese-hk          "Традиційні китайські(Гонконг)">
+<!ENTITY  font.langGroup.trad-chinese-hk          "Традиційні китайські (Гонконг)">
 <!ENTITY  font.langGroup.korean                   "Корейські">
 <!ENTITY  font.langGroup.cyrillic                 "Кирилиці">
 <!ENTITY  font.langGroup.baltic                   "Прибалтійські">
 <!ENTITY  font.langGroup.el                       "Грецькі">
 <!ENTITY  font.langGroup.turkish                  "Турецькі">
 <!ENTITY  font.langGroup.unicode                  "Інша мова">
-<!ENTITY  font.langGroup.user-def                 "Визначено користувачем">
+<!ENTITY  font.langGroup.user-def                 "Нетипові">
 <!ENTITY  font.langGroup.thai                     "Тайські">
 <!ENTITY  font.langGroup.hebrew                   "Іврит">
 <!ENTITY  font.langGroup.arabic                   "Арабські">
@@ -54,11 +54,11 @@
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Найменший розмір шрифту:">
 <!ENTITY minSize.accesskey                        "Н">
-<!ENTITY minSize.none                             "Нічого">
+<!ENTITY minSize.none                             "Немає">
 
 <!-- default font type -->
-<!ENTITY  useDefaultFontSerif.label               "Із зарубками">
-<!ENTITY  useDefaultFontSansSerif.label           "Без зарубок">
+<!ENTITY  useDefaultFontSerif.label               "Із засічками">
+<!ENTITY  useDefaultFontSansSerif.label           "Без засічок">
 
 <!ENTITY  useDocumentFonts.label                  "Дозволити документам використовувати інші шрифти">
 <!ENTITY  useDocumentFonts.accesskey              "Д">
@@ -66,5 +66,5 @@
 <!-- leaving this stuff in for now -->
 
 <!ENTITY  header2                                 "Коли сайт вибирає власні шрифти">
-<!ENTITY  useDefaultFont.label                    "Використовувати мої типові шрифти, ігноруючи шрифти, які встановлені сторінкою">
+<!ENTITY  useDefaultFont.label                    "Використовувати мої типові шрифти, нехтуючи шрифтами, які вказано сторінкою">
 <!ENTITY  useDefaultFont.accesskey                "В">

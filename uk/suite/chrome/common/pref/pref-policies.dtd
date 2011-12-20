@@ -1,16 +1,16 @@
 
 <!ENTITY  pref.policies.title "Умови захисту">
 
-<!ENTITY  zoneIntro.label     "&brandShortName; дозволяє створювати умови, що визначають доступ певних сайтів, яким необхідні різні функції, включаючи аспекти скритування та Java.">
+<!ENTITY  zoneIntro.label     "&brandShortName; дозволяє створювати умови, що визначають доступ певних сайтів, яким потрібно різні функції, зокрема аспекти скритування та Java.">
 
 <!ENTITY  policies.label      "Умови:">
 <!ENTITY  default.label       "Типова умова">
 <!ENTITY  allWebsites.label   "Усі сайти">
-<!ENTITY  trusted.label       "Trusted Websites">
+<!ENTITY  trusted.label       "Довірені сайти">
 <!ENTITY  annoyances.label    "Досадний">
-<!ENTITY  restricted.label    "Restricted Websites">
+<!ENTITY  restricted.label    "Окремі сайти">
 
-<!ENTITY  addSite.label       "Add Website…">
+<!ENTITY  addSite.label       "Додати сайт…">
 <!ENTITY  addSite.accesskey   "Д">
 <!ENTITY  settings.label      "Налаштування для ">
 <!ENTITY  settings.accesskey  "s">

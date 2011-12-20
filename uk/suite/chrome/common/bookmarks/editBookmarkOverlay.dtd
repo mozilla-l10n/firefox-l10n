@@ -1,13 +1,13 @@
-<!ENTITY editBookmarkOverlay.name.label                      "Ім’я:">
-<!ENTITY editBookmarkOverlay.name.accesskey                  "І">
+<!ENTITY editBookmarkOverlay.name.label                      "Назва:">
+<!ENTITY editBookmarkOverlay.name.accesskey                  "Н">
 <!ENTITY editBookmarkOverlay.location.label                  "Адреса:">
 <!ENTITY editBookmarkOverlay.location.accesskey              "А">
-<!ENTITY editBookmarkOverlay.feedLocation.label              "Адреса стрічки RSS:">
+<!ENTITY editBookmarkOverlay.feedLocation.label              "Адреса подачі RSS:">
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "ч">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Адреса сайту:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "с">
 <!ENTITY editBookmarkOverlay.folder.label                    "Тека:">
-<!ENTITY editBookmarkOverlay.folder.accesskey                "F">
+<!ENTITY editBookmarkOverlay.folder.accesskey                "Т">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Показувати всі теки закладок">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Приховати">
 <!ENTITY editBookmarkOverlay.tags.label                      "Мітки:">
@@ -17,10 +17,10 @@
 <!ENTITY editBookmarkOverlay.description.accesskey           "О">
 <!ENTITY editBookmarkOverlay.keyword.label                   "Скорочення:">
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "к">
-<!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Показати всі позначки">
+<!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Показати всі мітки">
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "Відкривати цю закладку у бічній панелі">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "б">
-<!ENTITY editBookmarkOverlay.choose.label                    "Виберіть…">
-<!ENTITY editBookmarkOverlay.newFolderButton.label           "Нова тека">
+<!ENTITY editBookmarkOverlay.choose.label                    "Виберати…">
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "Створити теку">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "т">
-<!ENTITY editBookmarkOverlay.newFolderButton.tooltip         "Create new folder">
+<!ENTITY editBookmarkOverlay.newFolderButton.tooltip         "Створити нову теку">

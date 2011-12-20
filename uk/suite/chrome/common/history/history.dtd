@@ -1,10 +1,10 @@
 <!-- history.xul, history-panel.xul, placesOverlay.xul -->
 
-<!ENTITY historyWindowTitle.label       "Журнал">
+<!ENTITY historyWindowTitle.label       "Історія">
 <!ENTITY menuBar.tooltip                "Меню">
 <!ENTITY searchBar.tooltip              "Пошук">
 
-<!ENTITY search.placeholder             "Search History">
+<!ENTITY search.placeholder             "Пошук історії">
 <!ENTITY search.key                     "f">
 <!ENTITY view.label                     "Перегляд">
 
@@ -15,7 +15,7 @@
 <!ENTITY view.groupBy.label             "Згрупувати за">
 <!ENTITY view.groupBy.accesskey         "З">
 
-<!ENTITY view.unsorted.label            "Невпорядковане">
+<!ENTITY view.unsorted.label            "Невпорядковано">
 <!ENTITY view.unsorted.accesskey        "Н">
 <!ENTITY view.sortAscending.label       "Порядок впорядкування від А до Я">
 <!ENTITY view.sortAscending.accesskey   "П">
@@ -26,10 +26,10 @@
 <!ENTITY view.groupNone.accesskey       "Н">
 <!ENTITY view.groupDay.label            "День">
 <!ENTITY view.groupDay.accesskey        "Д">
-<!ENTITY view.groupSite.label           "Website">
-<!ENTITY view.groupSite.accesskey       "W">
-<!ENTITY view.groupDayAndSite.label     "Day and Website">
-<!ENTITY view.groupDayAndSite.accesskey "Д">
+<!ENTITY view.groupSite.label           "Сайт">
+<!ENTITY view.groupSite.accesskey       "С">
+<!ENTITY view.groupDayAndSite.label     "День і сайт">
+<!ENTITY view.groupDayAndSite.accesskey "і">
 
 <!ENTITY cmd.open.label                 "Відкрити">
 <!ENTITY cmd.open.accesskey             "В">
@@ -43,11 +43,11 @@
 <!ENTITY bookmarkLinksCmd.label         "Закласти ці посилання">
 <!ENTITY bookmarkLinksCmd.accesskey     "З">
 
-<!ENTITY col.title.label                "Заголовок">
-<!ENTITY col.title.accesskey            "З">
+<!ENTITY col.title.label                "Назва">
+<!ENTITY col.title.accesskey            "Н">
 <!ENTITY col.url.label                  "Адреса">
 <!ENTITY col.url.accesskey              "А">
-<!ENTITY col.lastvisit.label            "Відвідування">
+<!ENTITY col.lastvisit.label            "Відвідуваність">
 <!ENTITY col.lastvisit.accesskey        "В">
 <!ENTITY col.visitcount.label           "Кількість відвідувань">
 <!ENTITY col.visitcount.accesskey       "К">

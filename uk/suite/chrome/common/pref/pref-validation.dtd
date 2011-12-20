@@ -35,23 +35,23 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY  pref.validation.title                   "Перевірка">
+<!ENTITY  pref.validation.title                   "Затвердження">
 
 <!ENTITY  validation.crl.caption                  "CRL">
-<!ENTITY  validation.crl.description              "Використовувати керуванння CRL для управлінням списками відкликаних сертифікатів (CRL), котрі зберігаються у вашій базі даних сертифікатів.">
+<!ENTITY  validation.crl.description              "Використовувати CRL для керування списками відкликаних сертифікатів (CRL), котрі зберігаються у вашій базі даних сертифікатів.">
 <!ENTITY  validation.managecrls.button            "Керування CRL…">
 <!ENTITY  validation.managecrls.accesskey         "К">
 
 <!ENTITY validation.ocsp.caption                  "OCSP">
 <!ENTITY enableOCSP.label                         "Використовувати протокол перегляду стану сертифікатів (OCSP) для підтвердження чинності сертифікатів">
 <!ENTITY enableOCSP.accesskey                     "В">
-<!ENTITY certOCSP2.label                          "Перевіряти сертифікат якщо він вказує сервер OCSP">
+<!ENTITY certOCSP2.label                          "Перевіряти сертифікат, якщо він вказує сервер OCSP">
 <!ENTITY certOCSP2.accesskey                      "П">
-<!ENTITY proxyOCSP2.label                         "Перевіряти всі сертифікати з допомогою наступного серверу OCSP:">
+<!ENTITY proxyOCSP2.label                         "Перевіряти всі сертифікати за допомогою такого серверу OCSP:">
 <!ENTITY proxyOCSP2.accesskey                     "П">
-<!ENTITY serviceURL.label                         "URL служби:">
-<!ENTITY serviceURL.accesskey                     "U">
+<!ENTITY serviceURL.label                         "Служби URL:">
+<!ENTITY serviceURL.accesskey                     "С">
 <!ENTITY signingCA.label                          "Відповідь підписано:">
 <!ENTITY signingCA.accesskey                      "В">
-<!ENTITY validation.requireOCSP.description       "Коли зв'язок з сервером OCSP встановити не вдається вважати сертифікат недійсним.">
-<!ENTITY validation.requireOCSP.accesskey         "W">
+<!ENTITY validation.requireOCSP.description       "Коли зв'язок з сервером OCSP встановити не вдалось, вважати сертифікат недійсним.">
+<!ENTITY validation.requireOCSP.accesskey         "К">

@@ -35,8 +35,8 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY print.label          "Друк…">
-<!ENTITY print.accesskey      "Д">
+<!ENTITY print.label          "Надрукувати…">
+<!ENTITY print.accesskey      "Н">
 <!ENTITY pageSetup.label      "Макет сторінки…">
 <!ENTITY pageSetup.accesskey  "М">
 <!ENTITY page.label           "Сторінка:">

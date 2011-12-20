@@ -1,14 +1,14 @@
 <!-- LOCALIZATION NOTE : FILE Mouse-wheel management prefs, for those lucky OSes that support mouse wheels -->
 
 <!ENTITY pref.mouseWheel.title           "Коліщатко мишки">
-<!ENTITY mouseWheelPanel.label           "Вказати поведінку коліщатка мишки при використанні модифікатора клавіш: ">
+<!ENTITY mouseWheelPanel.label           "Вказати поведінку коліщатка мишки у використанні модифікатора клавіш: ">
 <!ENTITY usingJustTheWheel.label         "Без модифікатора клавіш">
 <!ENTITY usingWheelAndAlt.label          "&altKey.label;">
 <!ENTITY usingWheelAndCtrl.label         "&ctrlKey.label;">
 <!ENTITY usingWheelAndShft.label         "&shiftKey.label;">
-<!ENTITY mousewheelGroup.label           "Вертикальна прокрутка">
-<!ENTITY mousewheelHorizGroup.label      "Горизонтальна прокрутка">
-<!ENTITY scroll.label                    "Прокрутити документ за ">
+<!ENTITY mousewheelGroup.label           "Вертикальна прокручування">
+<!ENTITY mousewheelHorizGroup.label      "Горизонтальна прокручування">
+<!ENTITY scroll.label                    "Прокручувати документ за ">
 <!ENTITY scroll.accesskey                "П">
 <!ENTITY scrollHoriz.accesskey           "Г">
 <!ENTITY scrollLines.label               "рядками">
@@ -20,7 +20,7 @@
 <!ENTITY scrollPgUpPgDn.accesskey        "П">
 <!ENTITY scrollPgLtPgRt.label            "Прокручувати сторінку вліво або вправо">
 <!ENTITY scrollPgLtPgRt.accesskey        "П">
-<!ENTITY history.label                   "Повернутись і перейти в журнал навігації">
+<!ENTITY history.label                   "Повернутись і перейти до історії навігації">
 <!ENTITY history.accesskey               "П">
 <!ENTITY historyHoriz.accesskey          "Г">
 <!ENTITY zoom.label                      "Масштабувати сторінку ближче або дальше">

@@ -1,4 +1,4 @@
-<!ENTITY pref.navigator.title           "Переглядач">
+<!ENTITY pref.navigator.title           "Навігатор">
 
 <!ENTITY navRadio.label                 "Показувати">
 <!ENTITY navRadio.accesskey             "П">
@@ -16,19 +16,19 @@
 <!ENTITY restoreSessionRadio.accesskey  "В">
 
 <!ENTITY header2.label                  "Домівка">
-<!ENTITY homePageIntro.label            "Натиснення кнопки Домівка перенесе вас до цієї групи сторінок:">
+<!ENTITY homePageIntro.label            "Натиснення кнопки «Домівка» перенесе вас до цієї групи сторінок:">
 <!ENTITY useCurrent.label               "Використовувати поточну сторінку">
 <!ENTITY useCurrent.accesskey           "В">
 <!ENTITY useCurrentGroup.label          "Використовувати поточну групу">
 <!ENTITY useCurrentGroup.accesskey      "В">
 <!ENTITY browseFile.label               "Вибрати файл…">
 <!ENTITY browseFile.accesskey           "В">
-<!ENTITY useDefault.label               "Відновити типове">
+<!ENTITY useDefault.label               "Використовувати типову">
 <!ENTITY useDefault.accesskey           "В">
 
 <!ENTITY defaultBrowserGroup.label      "Типовий переглядач">
 <!ENTITY defaultBrowserButton.label     "Встановити типовим переглядачем">
 <!ENTITY defaultBrowserButton.accesskey "В">
 <!ENTITY alreadyDefaultText             "&brandShortName; вже є типовим переглядачем.">
-<!ENTITY defaultPendingText             "&brandShortName; буде встановленим як типовий переглядач, коли ви натисните Гаразд.">
+<!ENTITY defaultPendingText             "&brandShortName; буде встановленим як типовий переглядач, коли ви натисните «Гаразд».">
 <!ENTITY makeDefaultText                "Встановити &brandShortName; як типовий переглядач.">

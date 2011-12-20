@@ -1,24 +1,24 @@
 <!-- extracted from content/pref-scripts.xul -->
 
 <!--LOCALIZATION NOTE : FILE The 'Scripts & Plugins' preferences dialog -->
-<!ENTITY pref.scripts.title              "Скриптові &amp; модулі">
+<!ENTITY pref.scripts.title              "Скрипти та додатки">
 
-<!ENTITY navigator.label                 "Переглядач">
-<!ENTITY navigator.accesskey             "П">
+<!ENTITY navigator.label                 "Навігатор">
+<!ENTITY navigator.accesskey             "Н">
 
 <!--LOCALIZATION NOTE (enableJavaScript.label): 'JavaScript' should never be translated -->
 <!ENTITY enableJavaScript.label          "Ввімкнути JavaScript для">
-<!ENTITY allowScripts.label              "Дозволити JavaScript скриптам:">
+<!ENTITY allowScripts.label              "Дозволити скриптам JavaScript:">
 <!ENTITY allowScripts.accesskey          "Д">
 <!ENTITY allowWindowMoveResize.label     "Змінювати розмір чи рухати вікна">
-<!ENTITY allowWindowFlip.label           "Піднімати або опускати вікна">
+<!ENTITY allowWindowFlip.label           "Розгортати або згортати вікна">
 <!ENTITY allowWindowStatusChange.label   "Змінювати текст в рядку стану">
 <!ENTITY allowWindowImageSrcChange.label "Змінювати зображення">
 <!ENTITY allowContextmenuDisable.label   "Вимикати або замінювати контекстні меню">
 <!ENTITY allowHideStatusBar.label        "Приховувати рядок стану">
 
-<!ENTITY enablePlugin.label              "Ввімкнути модулі для">
+<!ENTITY enablePlugin.label              "Ввімкнути додатки для">
 
-<!ENTITY whenPluginsRequired.label       "Коли додатковий модуль потрібний">
+<!ENTITY whenPluginsRequired.label       "Коли потрібно ще додаток">
 <!ENTITY displayNotification.label       "Показувати панель сповіщення зверху контекстної ділянки">
 <!ENTITY displayNotification.accesskey   "П">

@@ -1,17 +1,17 @@
-<!ENTITY pref.findAsYouType.title "Find As You Type">
-<!ENTITY findAsYouTypeBehavior.label "Find As You Type">
-<!ENTITY findAsYouTypeTip.label "Tip: To manually start Find As You Type, type / to find text or ' to find links, followed by the text you want to find.">
-<!ENTITY findAsYouTypeTimeout.label "Clear the current search after a few seconds of inactivity">
-<!ENTITY findAsYouTypeTimeout.accesskey "C">
-<!ENTITY findAsYouTypeSound.label "Play a sound when typed text isn't found">
-<!ENTITY findAsYouTypeSound.accesskey "P">
-<!ENTITY findAsYouTypeEnableAuto.label "Find automatically when typing within a web page:">
-<!ENTITY findAsYouTypeEnableAuto.accesskey "F">
-<!ENTITY findAsYouTypeAutoText.label "Any text in the page">
-<!ENTITY findAsYouTypeAutoText.accesskey "A">
-<!ENTITY findAsYouTypeAutoLinks.label "Links only">
-<!ENTITY findAsYouTypeAutoLinks.accesskey "L">
+<!ENTITY pref.findAsYouType.title "Знаходити протягом набирання">
+<!ENTITY findAsYouTypeBehavior.label "Знаходити протягом набирання тексту">
+<!ENTITY findAsYouTypeTip.label "Підказка: для автоматичного запуску пошуку протягом набирання, введіть / для знаходження тексту або ' для знаходження посилань, у міру пошуку тексту.">
+<!ENTITY findAsYouTypeTimeout.label "Очистити поточний пошук після декількох секунд бездіяльності">
+<!ENTITY findAsYouTypeTimeout.accesskey "О">
+<!ENTITY findAsYouTypeSound.label "Програвати звук, коли текст не знайдено">
+<!ENTITY findAsYouTypeSound.accesskey "П">
+<!ENTITY findAsYouTypeEnableAuto.label "Автоматично знаходити, коли набирання відбувається всередині сторінки:">
+<!ENTITY findAsYouTypeEnableAuto.accesskey "А">
+<!ENTITY findAsYouTypeAutoText.label "Будь-який текст на сторінці">
+<!ENTITY findAsYouTypeAutoText.accesskey "Б">
+<!ENTITY findAsYouTypeAutoLinks.label "Лише посилання">
+<!ENTITY findAsYouTypeAutoLinks.accesskey "Л">
 
-<!ENTITY findAsYouTypeFindbarEnable.label "Show the find toolbar during find as you type">
-<!ENTITY findAsYouTypeFindbarEnable.accesskey "S">
-<!ENTITY findAsYouTypeFindbarEnableTip.label "Note: Find as you type without showing the findbar does not allow international text entry.">
+<!ENTITY findAsYouTypeFindbarEnable.label "Показувати панель інструментів пошуку під час знаходження протягом набирання">
+<!ENTITY findAsYouTypeFindbarEnable.accesskey "і">
+<!ENTITY findAsYouTypeFindbarEnableTip.label "Зауважте: знаходження протягом набирання без показу панелі пошуку не дозволить вводити міжнародні записи тексту.">

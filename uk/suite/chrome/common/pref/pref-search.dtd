@@ -7,13 +7,13 @@
 <!ENTITY defaultSearchEngine.label        "Шукати використовуючи:">
 <!ENTITY defaultSearchEngine.accesskey    "Ш">
 
-<!ENTITY engineManager.label              "Manage Search Engines…">
+<!ENTITY engineManager.label              "Організувати рушії пошуку…">
 
 <!ENTITY searchResults.label              "Результати пошуку">
 
-<!ENTITY openInTab.label                  "Open new tabs for sidebar search results">
-<!ENTITY openInTab.accesskey              "n">
-<!ENTITY openContextSearchTab.label       "Open a tab instead of a window for a context menu web search">
-<!ENTITY openContextSearchTab.accesskey   "t">
-<!ENTITY openSidebarSearchPanel.label     "Open the Search tab in the sidebar when a search is invoked">
-<!ENTITY openSidebarSearchPanel.accesskey "В">
+<!ENTITY openInTab.label                  "Відкрити нові вкладки для результатів пошуку бічною панеллю">
+<!ENTITY openInTab.accesskey              "н">
+<!ENTITY openContextSearchTab.label       "Відкривати вкладку замість вікна для пошуку контекстним меню">
+<!ENTITY openContextSearchTab.accesskey   "з">
+<!ENTITY openSidebarSearchPanel.label     "Відкривати вкладку «Пошук» у бічній панелі, коли викликано пошук">
+<!ENTITY openSidebarSearchPanel.accesskey "П">

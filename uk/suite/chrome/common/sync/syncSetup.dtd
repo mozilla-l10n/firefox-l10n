@@ -4,8 +4,8 @@
 
 <!ENTITY setup.pickSetupType.description "Ласкаво просимо. Якщо ви раніше не використовували &syncBrand.fullName.label;, вам треба буде створити новий обліковий запис.">
 <!ENTITY button.createNewAccount.label "Створити новий обліковий запис">
-<!ENTITY setup.haveAccount.label "I already have a &syncBrand.fullName.label; account.">
-<!ENTITY button.connect.label "Connect">
+<!ENTITY setup.haveAccount.label "Я вже маю обліковий запис &syncBrand.fullName.label;.">
+<!ENTITY button.connect.label "З'єднатись">
 
 <!ENTITY setup.choicePage.title.label     "Чи використовували ви &syncBrand.fullName.label; дотепер?">
 <!ENTITY setup.choicePage.new.label       "Ніколи">
@@ -13,72 +13,72 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Сервер">
-<!ENTITY server.accesskey           "S">
+<!ENTITY server.accesskey           "С">
 <!ENTITY serverType.main.label      "Сервер &syncBrand.fullName.label;">
-<!ENTITY serverType.custom2.label   "Use a custom server…">
-<!ENTITY signIn.account2.label      "Account">
-<!ENTITY signIn.account2.accesskey  "A">
+<!ENTITY serverType.custom2.label   "Скористатись власним сервером…">
+<!ENTITY signIn.account2.label      "Обліковий запис">
+<!ENTITY signIn.account2.accesskey  "О">
 <!ENTITY signIn.password.label      "Пароль">
 <!ENTITY signIn.password.accesskey  "П">
-<!ENTITY signIn.recoveryKey.label     "Recovery Key">
-<!ENTITY signIn.recoveryKey.accesskey "K">
+<!ENTITY signIn.recoveryKey.label     "Відновлювальний ключ">
+<!ENTITY signIn.recoveryKey.accesskey "В">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Подробиці облікового запису">
-<!ENTITY setup.confirmPassword.label             "Підтвердження пароля">
-<!ENTITY setup.confirmPassword.accesskey         "C">
+<!ENTITY setup.confirmPassword.label             "Підтвердження паролю">
+<!ENTITY setup.confirmPassword.accesskey         "П">
 <!ENTITY setup.emailAddress.label                "Адреса електронної пошти">
-<!ENTITY setup.emailAddress.accesskey            "е">
+<!ENTITY setup.emailAddress.accesskey            "А">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
 <!ENTITY setup.tosAgree1.label      "Я погоджуюсь з">
 <!ENTITY setup.tosAgree1.accesskey  "Я">
 <!ENTITY setup.tosLink.label        "умовами використання служби">
 <!ENTITY setup.tosAgree2.label      "та">
-<!ENTITY setup.ppLink.label         "політикою конфіденційності">
+<!ENTITY setup.ppLink.label         "умовами конфіденційності">
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 
 <!-- New Account Page 2: Recovery Key -->
-<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; Cares About Your Privacy">
-<!ENTITY setup.newRecoveryKeyPage.description.label "To ensure your total privacy, all of your data is encrypted prior to being uploaded. The Recovery Key which is necessary to decrypt your data is not uploaded.">
-<!ENTITY recoveryKeyEntry.label        "Your Recovery Key">
-<!ENTITY recoveryKeyEntry.accesskey    "K">
-<!ENTITY recoveryGenerateNewKey.label  "Generate a new key">
-<!ENTITY recoveryKeyBackup.description "Your Recovery Key is required to access &syncBrand.fullName.label; on other machines. Please create a backup copy. We cannot help you recover your Recovery Key.">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; турбується про вашу конфіндеційність">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Щоб переконатись у загальній кофіденційності, всі даані зашифровано перед вивантаженням. Відновувальний ключ, що потрібний для розшифрування даних не вивантажується.">
+<!ENTITY recoveryKeyEntry.label        "Ваш відновувальний ключ">
+<!ENTITY recoveryKeyEntry.accesskey    "В">
+<!ENTITY recoveryGenerateNewKey.label  "Породити новий ключ">
+<!ENTITY recoveryKeyBackup.description "Ваш відновувальний ключ потрібен для доступу до &syncBrand.fullName.label; на інших машинах. Будь ласка, створіть резервну копію. Ми не зможемо вам відновити ваш ключ.">
 
-<!ENTITY button.syncKeyBackup.print.label     "Друк…">
-<!ENTITY button.syncKeyBackup.print.accesskey "Д">
+<!ENTITY button.syncKeyBackup.print.label     "Надруквати…">
+<!ENTITY button.syncKeyBackup.print.accesskey "Н">
 <!ENTITY button.syncKeyBackup.save.label      "Зберегти…">
-<!ENTITY button.syncKeyBackup.save.accesskey  "б">
+<!ENTITY button.syncKeyBackup.save.accesskey  "З">
 
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "Будь ласка, доведіть що ви не робот">
 
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "Add a Device">
-<!ENTITY addDevice.showMeHow.label          "Show me how.">
-<!ENTITY addDevice.dontHaveDevice.label     "I don't have the device with me">
-<!ENTITY addDevice.setup.description.label  "To activate, go to &syncBrand.shortName.label; Preferences/Options on your other device and select &#x0022;Add a Device&#x0022;.">
-<!ENTITY addDevice.setup.enterCode.label    "Then, enter this code:">
-<!ENTITY addDevice.dialog.description.label "To activate your new device, go to &syncBrand.shortName.label; Preferences/Options on the device and select &#x0022;Connect.&#x0022;">
-<!ENTITY addDevice.dialog.enterCode.label   "Enter the code that the device provides:">
-<!ENTITY addDevice.dialog.tryAgain.label    "Please try again.">
-<!ENTITY addDevice.dialog.successful.label  "The device has been successfully added. The initial synchronization can take several minutes and will finish in the background.">
-<!ENTITY addDevice.dialog.recoveryKey.label "To activate your device you will need to enter your Recovery Key. Please print or save this key and take it with you.">
-<!ENTITY addDevice.dialog.connected.label   "Device Connected">
+<!ENTITY addDevice.title.label              "Додати пристрій">
+<!ENTITY addDevice.showMeHow.label          "Показати мені як.">
+<!ENTITY addDevice.dontHaveDevice.label     "Я не маю пристрою з собою">
+<!ENTITY addDevice.setup.description.label  "Щоб увімкнути, перейдіть до параметрів &syncBrand.shortName.label; на вашому пристрої і виберіть &#x0022;Додати пристрій&#x0022;.">
+<!ENTITY addDevice.setup.enterCode.label    "Потім, уведіть цей код:">
+<!ENTITY addDevice.dialog.description.label "Щоб увімкнути новий пристрій, перейдіть до параметрів &syncBrand.shortName.label; на пристрої і виберіть &#x0022;З'єднатись.&#x0022;">
+<!ENTITY addDevice.dialog.enterCode.label   "Уведіть код, який забезпечує пристрій:">
+<!ENTITY addDevice.dialog.tryAgain.label    "Будь ласка, спробуйте ще раз.">
+<!ENTITY addDevice.dialog.successful.label  "Пристрій успішно додано. Початкове синхронізування може тривати кілька хвилин і фоново завершиться.">
+<!ENTITY addDevice.dialog.recoveryKey.label "Щоб увімкнути пристрій, потрібно ввести відновувальний ключ. Будь ласка, надрукуйте або збережіть цей ключ і тримайте його при собі.">
+<!ENTITY addDevice.dialog.connected.label   "Пристрій під'єднано">
 
 <!-- Existing Account Page 2: Manual Login -->
-<!ENTITY setup.signInPage.title.label "Sign In">
-<!ENTITY existingRecoveryKey.description "You can get a copy of your Recovery Key by going to &syncBrand.shortName.label; Preferences/Options on your other device, and selecting &#x0022;My Recovery Key&#x0022; under &#x0022;Manage Account&#x0022;.">
-<!ENTITY verifying.label              "Перевірка…">
+<!ENTITY setup.signInPage.title.label "Увійти">
+<!ENTITY existingRecoveryKey.description "Можете взяти копію відновувального ключа в параметрах &syncBrand.shortName.label; на вашому пристрої, вибравши &#x0022;Мій відновувальний ключ&#x0022; під &#x0022;Організувати обліковий запис&#x0022;.">
+<!ENTITY verifying.label              "Перевіряння…">
 <!ENTITY resetPassword.label          "Стерти пароль">
-<!ENTITY resetSyncKey.label           "I have lost my other device.">
+<!ENTITY resetSyncKey.label           "Я загубив інший пристрій.">
 
 <!-- Sync Options -->
-<!ENTITY setup.optionsPage.title      "Варіанти синхронізації">
-<!ENTITY syncComputerName.label       "Назва комп’ютера:">
-<!ENTITY syncComputerName.accesskey   "C">
+<!ENTITY setup.optionsPage.title      "Варіанти синхронізування">
+<!ENTITY syncComputerName.label       "Назва комп'ютера:">
+<!ENTITY syncComputerName.accesskey   "Н">
 
 <!ENTITY syncMy.label               "Синхронізувати мої">
 <!ENTITY engine.bookmarks.label     "Закладки">
@@ -89,22 +89,22 @@
 <!ENTITY engine.history.accesskey   "І">
 <!ENTITY engine.passwords.label     "Паролі">
 <!ENTITY engine.passwords.accesskey "П">
-<!ENTITY engine.prefs.label         "Налаштування">
-<!ENTITY engine.prefs.accesskey     "e">
+<!ENTITY engine.prefs.label         "Параметри">
+<!ENTITY engine.prefs.accesskey     "р">
 
-<!ENTITY choice2.merge.main.label      "Об’єднати дані на цьому комп’ютері з моїми даними &syncBrand.shortName.label;">
-<!ENTITY choice2.merge.recommended.label "(recommended)">
-<!ENTITY choice2.client.main.label     "Замінити дані на цьому комп’ютері моїми даними &syncBrand.shortName.label;">
-<!ENTITY choice2.server.main.label     "Замінити дані на інших пристроях даними з цього комп’ютера">
+<!ENTITY choice2.merge.main.label      "Об'єднати дані на цьому комп'ютері з моїми даними &syncBrand.shortName.label;">
+<!ENTITY choice2.merge.recommended.label "(рекомендовано)">
+<!ENTITY choice2.client.main.label     "Замінити дані на цьому комп'ютері моїми даними &syncBrand.shortName.label;">
+<!ENTITY choice2.server.main.label     "Замінити дані на інших пристроях даними з цього комп'ютера">
 
 <!-- Confirm Merge Options -->
-<!ENTITY setup.optionsConfirmPage.title "Підтвердіть">
-<!ENTITY confirm.merge.label    "Ви обрали об’єднання даних на цьому комп’ютері з даними на інших пристроях, що використовують синхронізацію &syncBrand.fullName.label;.">
-<!ENTITY confirm.client2.label         "Увага: Наступні дані &brandShortName; на цьому комп’ютері будуть видалені:">
-<!ENTITY confirm.client.moreinfo.label "&brandShortName; скопіює дані &syncBrand.fullName.label; на цей комп’ютер.">
-<!ENTITY confirm.server2.label         "Увага: На наступних пристроях всі дані будуть замінені на ваші локальні:">
+<!ENTITY setup.optionsConfirmPage.title "Підтвердьте">
+<!ENTITY confirm.merge.label    "Вибрано об'єднання даних на цьому комп'ютері з даними на інших пристроях, що використовують синхронізування &syncBrand.fullName.label;.">
+<!ENTITY confirm.client2.label         "Увага: ці дані &brandShortName; на цьому комп'ютері буде вилучено:">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName; скопіює дані &syncBrand.fullName.label; на цей комп'ютер.">
+<!ENTITY confirm.server2.label         "Увага: на цих пристроях всі дані буде замінено на ваші локальні:">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Налаштування завершено">
-<!ENTITY changeOptions.label "Ви можете змінити цей вибір вибравши Варіанти синхронізації нижче.">
+<!ENTITY changeOptions.label "Ви можете змінити цей вибір вибравши «Варіанти синхронізування» нижче.">
 <!ENTITY continueUsing.label "Ви можете продовжити використання &brandShortName;.">

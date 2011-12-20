@@ -36,19 +36,19 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY progress.title                  "Завантаження триває…">
+<!ENTITY progress.title                  "Звантаження триває…">
 <!ENTITY closeWindow.key                 "w">
-<!ENTITY cmd.pause.tooltip               "Пауза">
+<!ENTITY cmd.pause.tooltip               "Зупинити">
 <!ENTITY cmd.resume.tooltip              "Продовжити">
 <!ENTITY cmd.retry.tooltip               "Спробувати знову">
 <!ENTITY cmd.cancel.tooltip              "Скасувати">
 <!ENTITY cmd.open.label                  "Відкрити">
-<!ENTITY cmd.open.accesskey              "В">
+<!ENTITY cmd.open.accesskey              "д">
 <!ENTITY cmd.show.label                  "Відкрити відповідну теку">
-<!ENTITY cmd.show.accesskey              "В">
-<!ENTITY cmd.goToDownloadPage.label      "Перейти на сторінку завантаження">
+<!ENTITY cmd.show.accesskey              "к">
+<!ENTITY cmd.goToDownloadPage.label      "Перейти до сторінки звантаження">
 <!ENTITY cmd.goToDownloadPage.accesskey  "П">
-<!ENTITY cmd.copyDownloadLink.label      "Копіювати посилання на завантаження">
-<!ENTITY cmd.copyDownloadLink.accesskey  "К">
-<!ENTITY closeWhenDone.label             "Закрити це вікно після закінчення завантаження.">
+<!ENTITY cmd.copyDownloadLink.label      "Скопіювати посилання на звантаження">
+<!ENTITY cmd.copyDownloadLink.accesskey  "С">
+<!ENTITY closeWhenDone.label             "Закрити це вікно після закінчення звантаження.">
 <!ENTITY closeWhenDone.accesskey         "З">

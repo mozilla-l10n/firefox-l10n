@@ -1,4 +1,4 @@
-<!ENTITY bookmarksManager.title         "Bookmarks Manager">
+<!ENTITY bookmarksManager.title         "Менеджер закладок">
 <!ENTITY bookmarksManager.width         "700">
 <!ENTITY bookmarksManager.height        "500">
 
@@ -9,9 +9,9 @@
 
 <!ENTITY view.columns.label             "Показати колонки">
 <!ENTITY view.columns.accesskey         "к">
-<!ENTITY view.sort.label                "Сортувати">
+<!ENTITY view.sort.label                "Впорядковане">
 <!ENTITY view.sort.accesskey            "С">
-<!ENTITY view.unsorted.label            "Несортоване">
+<!ENTITY view.unsorted.label            "Невпорядковане">
 <!ENTITY view.unsorted.accesskey        "Н">
 <!ENTITY view.sortAscending.label       "Висхідний порядок">
 <!ENTITY view.sortAscending.accesskey   "п">
@@ -37,7 +37,7 @@
 
 <!ENTITY cmd.bookmarkLink.label         "Закласти цю сторінку…">
 <!ENTITY cmd.bookmarkLink.accesskey     "З">
-<!ENTITY cmd.delete.label               "Усунути цю сторінку">
+<!ENTITY cmd.delete.label               "Вилучити цю сторінку">
 <!ENTITY cmd.delete.accesskey           "У">
 <!ENTITY cmd.deleteDomainData.label     "Забути про цей сайт">
 <!ENTITY cmd.deleteDomainData.accesskey "З">
@@ -48,14 +48,14 @@
 <!ENTITY cmd.open_window.accesskey       "н">
 <!ENTITY cmd.open_tab.label              "Відкрити у новій вкладці">
 <!ENTITY cmd.open_tab.accesskey          "ц">
-<!ENTITY cmd.open_all_in_tabs.label      "Відкрити у вкладках всі">
+<!ENTITY cmd.open_all_in_tabs.label      "Відкрити у вкладках все">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "і">
 
 <!ENTITY cmd.properties.label      "Властивості">
-<!ENTITY cmd.properties.accesskey  "і">
+<!ENTITY cmd.properties.accesskey  "л">
 
-<!ENTITY cmd.sortby_name.label              "Сортувати за ім’ям">
-<!ENTITY cmd.sortby_name.accesskey          "r">
+<!ENTITY cmd.sortby_name.label              "Впорядкувати за назвою">
+<!ENTITY cmd.sortby_name.accesskey          "н">
 
 <!ENTITY cmd.new_bookmark.label            "Нова закладка…">
 <!ENTITY cmd.new_bookmark.accesskey        "з">
@@ -63,7 +63,7 @@
 <!ENTITY cmd.new_folder.accesskey          "т">
 <!ENTITY cmd.context_new_folder.accesskey  "т">
 <!ENTITY cmd.new_separator.label           "Створити розділювач">
-<!ENTITY cmd.new_separator.accesskey       "д">
+<!ENTITY cmd.new_separator.accesskey       "р">
 
 <!ENTITY cmd.reloadLivebookmark.label      "Оновити живу закладку">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "О">
@@ -71,7 +71,7 @@
 <!ENTITY cmd.moveBookmarks.label                  "Перенести…">
 <!ENTITY cmd.moveBookmarks.accesskey              "П">
 
-<!ENTITY col.title.label         "Name">
+<!ENTITY col.title.label         "Назва">
 <!ENTITY col.tags.label          "Мітки">
 <!ENTITY col.url.label           "Адреса">
 <!ENTITY col.lastvisit.label     "Дата відвідування">
@@ -82,7 +82,7 @@
 <!ENTITY col.lastmodified.label  "Остання зміна">
 
 <!ENTITY search.label                              "Пошук:">
-<!ENTITY search.placeholder                        "Search Bookmarks">
+<!ENTITY search.placeholder                        "Пошук закладок">
 
 <!ENTITY search.in.label                           "Шукати у:">
 <!ENTITY search.scopeFolder.label                  "вибраній теці">
@@ -95,14 +95,14 @@
 <!ENTITY cmd.find.key  "f">
 
 <!ENTITY backButton.tooltip  "Повернутись назад">
-<!ENTITY forwardButton.tooltip  "Перейти вперед">
+<!ENTITY forwardButton.tooltip  "Перейти далі">
 
 <!ENTITY detailsPane.more.label "Більше">
 <!ENTITY detailsPane.more.accesskey "Б">
-<!ENTITY detailsPane.fewer.label "Fewer">
-<!ENTITY detailsPane.fewer.accesskey "r">
+<!ENTITY detailsPane.fewer.label "Менше">
+<!ENTITY detailsPane.fewer.accesskey "М">
 <!ENTITY detailsPane.selectAnItemText.description "Додати елемент до перегляду та редагувати його властивості">
 
-<!ENTITY editBookmark.done.label "Done">
-<!ENTITY editBookmark.cancel.label "Cancel">
-<!ENTITY editBookmark.removeBookmark.accessKey "R">
+<!ENTITY editBookmark.done.label "Завершено">
+<!ENTITY editBookmark.cancel.label "Скасувати">
+<!ENTITY editBookmark.removeBookmark.accessKey "В">
