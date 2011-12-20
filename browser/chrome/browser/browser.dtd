@@ -90,6 +90,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "S">
 <!ENTITY fullScreenExit.label "Afslut fuldskærmstilstand">
 <!ENTITY fullScreenExit.accesskey "A">
+<!ENTITY domFullScreenWarning.label "Tast ESC for at afslutte visning i fuld skærm">
 
 <!ENTITY closeWindow.label "Luk vindue">
 <!ENTITY closeWindow.accesskey "k"> 
@@ -215,6 +216,9 @@ can reach it easily. -->
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "Inspicér">
 <!ENTITY inspectButton.accesskey      "I">
+<!ENTITY inspectCloseButton.tooltiptext "Luk inspektør">
+<!ENTITY inspectStyleButton.label     "CSS">
+<!ENTITY inspectStyleButton.accesskey "S">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Hent flere værktøjer">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "H">
@@ -431,6 +435,12 @@ can reach it easily. -->
 <!ENTITY mediaHideControls.accesskey "n">
 <!ENTITY videoFullScreen.label       "Fuldskærm">
 <!ENTITY videoFullScreen.accesskey   "F">
+<!ENTITY videoSaveImage.label        "Gem snapshot som…">
+<!ENTITY videoSaveImage.accesskey    "S">
+<!ENTITY videoShowStats.label        "Vis statistikker">
+<!ENTITY videoShowStats.accesskey    "t">
+<!ENTITY videoHideStats.label        "Skjul statistikker">
+<!ENTITY videoHideStats.accesskey    "t">
 
 
 <!-- LOCALIZATION NOTE :
