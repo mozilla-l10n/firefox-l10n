@@ -5,14 +5,19 @@
 <!ENTITY SearchNameOrEmail.label            "Naam of e-mail">
 
 <!ENTITY deleteAddrBookCard.label           "Verwijderen">
+<!ENTITY deleteAddrBookCard.accesskey       "V">
 <!ENTITY addrBookCardProperties.label       "Eigenschappen">
+<!ENTITY addrBookCardProperties.accesskey   "E">
 <!ENTITY addtoToFieldMenu.label             "Toevoegen aan Aan-veld">
+<!ENTITY addtoToFieldMenu.accesskey         "T">
 <!ENTITY addtoCcFieldMenu.label             "Toevoegen aan CC-veld">
+<!ENTITY addtoCcFieldMenu.accesskey         "C">
 <!ENTITY addtoBccFieldMenu.label            "Toevoegen aan Bcc-veld">
+<!ENTITY addtoBccFieldMenu.accesskey        "B">
 
 <!ENTITY toButton.label                     "Aan:">
-<!ENTITY toButton.accesskey                 "">
+<!ENTITY toButton.accesskey                 "A">
 <!ENTITY ccButton.label                     "Cc:">
-<!ENTITY ccButton.accesskey                 "">
+<!ENTITY ccButton.accesskey                 "C">
 <!ENTITY bccButton.label                    "Bcc:">
-<!ENTITY bccButton.accesskey                "">
+<!ENTITY bccButton.accesskey                "B">
