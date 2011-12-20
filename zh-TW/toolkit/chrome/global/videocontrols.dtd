@@ -24,7 +24,7 @@
 <!ENTITY error.network "因為網路錯誤，已中止視訊播放。">
 <!ENTITY error.decode "因為檔案毀損，無法播放視訊。">
 <!ENTITY error.srcNotSupported "不支援的視訊格式或 MIME 類型。">
-<!ENTITY error.noSource "找不到視訊。">
+<!ENTITY error.noSource2 "沒有找到支援格式與 MIME 類型的影片。">
 <!ENTITY error.generic "因為未知錯誤，已中止視訊播放。">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
