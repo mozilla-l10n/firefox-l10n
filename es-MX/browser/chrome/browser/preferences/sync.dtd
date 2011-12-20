@@ -9,7 +9,7 @@
 <!ENTITY changePassword2.label "Cambiar contraseña…">
 <!ENTITY myRecoveryKey.label "Mi clave de recuperación">
 <!ENTITY resetSync2.label "Reestablecer Sync…">
-<!ENTITY pairDevice.label "Emparejar un Dispositivo">
+<!ENTITY pairDevice.label "Sincronizar un dispositivo">
 <!ENTITY syncMy.label "Sincronizar">
 <!ENTITY engine.bookmarks.label "Marcadores">
 <!ENTITY engine.bookmarks.accesskey "m">

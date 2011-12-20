@@ -1,26 +1,26 @@
 <!ENTITY window.title "Scratchpad">
 <!ENTITY fileMenu.label "Archivo">
 <!ENTITY fileMenu.accesskey "F">
-<!ENTITY newWindowCmd.label "nueva pagina">
+<!ENTITY newWindowCmd.label "Ventana nueva">
 <!ENTITY newWindowCmd.accesskey "N">
 <!ENTITY newWindowCmd.commandkey "n">
-<!ENTITY openFileCmd.label "Abrir Archivo...">
+<!ENTITY openFileCmd.label "Abrir archivo…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY saveFileCmd.label "Guardar">
 <!ENTITY saveFileCmd.accesskey "S">
 <!ENTITY saveFileCmd.commandkey "s">
-<!ENTITY saveFileAsCmd.label "Guardar Como...">
+<!ENTITY saveFileAsCmd.label "Guardar como…">
 <!ENTITY saveFileAsCmd.accesskey "A">
 <!ENTITY closeCmd.label "Cerrar">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "C">
 <!ENTITY editMenu.label "Editar">
 <!ENTITY editMenu.accesskey "E">
-<!ENTITY undoCmd.label "DesHacer">
+<!ENTITY undoCmd.label "Deshacer">
 <!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.accesskey "U">
-<!ENTITY redoCmd.label "ReHacer">
+<!ENTITY redoCmd.label "Rehacer">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "R">
 <!ENTITY cutCmd.label "Cortar">
@@ -38,7 +38,7 @@
 <!ENTITY run.label "Correr">
 <!ENTITY run.accesskey "R">
 <!ENTITY run.key "r">
-<!ENTITY inspect.label "inspeccionar">
+<!ENTITY inspect.label "Inspector">
 <!ENTITY inspect.accesskey "I">
 <!ENTITY inspect.key "i">
 <!ENTITY display.label "Mostrar">
@@ -50,7 +50,7 @@
 <!ENTITY contentContext.accesskey "C">
 <!ENTITY browserContext.label "Navegador">
 <!ENTITY browserContext.accesskey "B">
-<!ENTITY resetContext2.label "Resetear Variables">
+<!ENTITY resetContext2.label "Resetear variables">
 <!ENTITY resetContext2.accesskey "T">
 <!ENTITY executeMenu.label "Ejecutar">
 <!ENTITY executeMenu.accesskey "X">

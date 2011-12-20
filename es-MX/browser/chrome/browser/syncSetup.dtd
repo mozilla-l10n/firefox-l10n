@@ -1,7 +1,7 @@
 <!ENTITY accountSetupTitle.label "&syncBrand.fullName.label; Instalación">
 <!ENTITY setup.pickSetupType.description "Bienvenido, si nunca has usado &syncBrand.fullName.label; tendrás que crear una nueva cuenta.">
 <!ENTITY button.createNewAccount.label "Crear una cuenta nueva">
-<!ENTITY button.haveAccount.label "Tengo una Cuenta">
+<!ENTITY button.haveAccount.label "Tengo una cuenta">
 <!ENTITY setup.choicePage.title.label "¿Haz utilizado &syncBrand.fullName.label; antes?">
 <!ENTITY setup.choicePage.new.label "Núnca antes he usado &syncBrand.shortName.label; ">
 <!ENTITY setup.choicePage.existing.label "Ya estoy usando &syncBrand.shortName.label; en otra computadora">
@@ -38,10 +38,10 @@
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
 <!ENTITY button.syncKeyBackup.save.label "Guardar…">
 <!ENTITY button.syncKeyBackup.save.accesskey "G">
-<!ENTITY pairDevice.title.label "Emparejar un Dispositivo">
+<!ENTITY pairDevice.title.label "Sincronizar un dispositivo">
 <!ENTITY addDevice.showMeHow.label "Muéstrame cómo.">
 <!ENTITY addDevice.dontHaveDevice.label "No tengo el dispositivo conmigo">
-<!ENTITY pairDevice.setup.description.label 'Para activar, seleccione "Emparejar un Dispositivo" en tu otro dispositivo'>
+<!ENTITY pairDevice.setup.description.label 'Para activar, selecciona "Sincroniar un dispositivo" en tu otro dispositivo.'>
 <!ENTITY addDevice.setup.enterCode.label "A continuación, introduce el código:">
 <!ENTITY pairDevice.dialog.description.label 'Para activar tu nuevo dispositivo, selecciona "Configurar Sync" en él.'>
 <!ENTITY addDevice.dialog.enterCode.label "Ingresa el código que el dispositivo proporciona:">
