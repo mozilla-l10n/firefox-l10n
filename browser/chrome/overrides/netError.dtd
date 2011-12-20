@@ -39,7 +39,7 @@
 <!ENTITY netInterrupt.title "La conexión se interrumpió">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 <!ENTITY notCached.title "Documento expirado">
-<!ENTITY notCached.longDesc "El documento pedido no esta disponible en la caché de &brandShortName;.</p><ul><li>Como medida de seguridad, &brandShortName; no solicita automáticamente documentos sensibles.</li><li>Haz clic en Tratar de nuevo para volver a pedir el documento del sitio.</li></ul>">
+<!ENTITY notCached.longDesc "<p>El documento solicitado no está disponible en la caché de &brandShortName;.</p><ul><li>Como precaución de seguridad, &brandShortName; no solicita automáticamente documentos sensibles.</li><li>Haz clic en Intentar de nuevo para volver a solicitar el documento del sitio web.</li></ul>">
 <!ENTITY netOffline.title "Modo sin conexión">
 <!ENTITY netOffline.longDesc2 "
 <ul>
