@@ -2,7 +2,7 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "Välkommen. Har du aldrig använt &syncBrand.fullName.label; förut kommer du att behöva skapa ett nytt konto.">
+<!ENTITY setup.pickSetupType.description2 "Välkommen! Har du aldrig använt &syncBrand.fullName.label; förut kommer du att behöva skapa ett nytt konto.">
 <!ENTITY button.createNewAccount.label "Skapa ett nytt konto">
 <!ENTITY button.haveAccount.label      "Jag har ett konto">
 
