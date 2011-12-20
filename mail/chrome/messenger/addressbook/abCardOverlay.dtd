@@ -35,9 +35,9 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY Contact.tab                     "Contact">
+<!ENTITY Contact.tab                     "Միանալ">
 <!ENTITY Contact.accesskey               "C">
-<!ENTITY Name.box                        "Name">
+<!ENTITY Name.box                        "Անուն">
 
 <!-- LOCALIZATION NOTE:
  NameField1, NameField2, PhoneticField1, PhoneticField2
@@ -56,121 +56,119 @@
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
 <!ENTITY PhoneticField2.id              "PhoneticLastName">
 
-<!ENTITY NameField1.label               "First:">
+<!ENTITY NameField1.label               "Առաջին.">
 <!ENTITY NameField1.accesskey           "F">
-<!ENTITY NameField2.label               "Last:">
+<!ENTITY NameField2.label               "Վերջին.">
 <!ENTITY NameField2.accesskey           "L">
-<!ENTITY PhoneticField1.label           "Phonetic:">
-<!ENTITY PhoneticField2.label           "Phonetic:">
-<!ENTITY DisplayName.label              "Display:">
+<!ENTITY PhoneticField1.label           "Հնչյունային.">
+<!ENTITY PhoneticField2.label           "Հնչյունային.">
+<!ENTITY DisplayName.label              "Ցուցադրել՝">
 <!ENTITY DisplayName.accesskey          "D">
-<!ENTITY preferDisplayName.label        "Always prefer display name over message header">
+<!ENTITY preferDisplayName.label        "Միշտ ցուցադրել անունը նամակի գլխագրից վեր">
 <!ENTITY preferDisplayName.accesskey    "y">
-<!ENTITY NickName.label                 "Nickname:">
+<!ENTITY NickName.label                 "Մականուն.">
 <!ENTITY NickName.accesskey             "N">
 
-<!ENTITY PrimaryEmail.label             "Email:">
+<!ENTITY PrimaryEmail.label             "Էլ. նամակը.">
 <!ENTITY PrimaryEmail.accesskey         "E">
-<!ENTITY SecondEmail.label              "Additional Email:">
+<!ENTITY SecondEmail.label              "Լրացուցիչ հասցե.">
 <!ENTITY SecondEmail.accesskey          "i">
-<!ENTITY PreferMailFormat.label         "Prefers to receive messages formatted as:">
+<!ENTITY PreferMailFormat.label         "Ստանալ նամակները տեսակավորված ըստ՝">
 <!ENTITY PreferMailFormat.accesskey     "v">
-<!ENTITY PlainText.label                "Plain Text">
+<!ENTITY PlainText.label                "Սովորական տեքստ">
 <!ENTITY HTML.label                     "HTML">
-<!ENTITY Unknown.label                  "Unknown">
-<!ENTITY ScreenName.label               "Screen Name:">
+<!ENTITY Unknown.label                  "Անհայտ">
+<!ENTITY ScreenName.label               "Էկրանի անունը.">
 <!ENTITY ScreenName.accesskey           "S">
 
-<!ENTITY allowRemoteContent1.label      "Allow remote content.">
+<!ENTITY allowRemoteContent1.label      "Թույլատրել հեռադիր բով.">
 <!ENTITY allowRemoteContent1.accesskey  "r">
-<!ENTITY allowRemoteContent1.tooltip    "In HTML messages it is possible to
-embed content from remote sources. Opening such a message will open a
-connection to this external source. This may allow tracking of the
-message being read. Checking this box will allow such external embedded
-content in HTML messages from this contact.">
+<!ENTITY allowRemoteContent1.tooltip    "HTML նամակներում հնարավոր է ներդնել բովանդակություն հեռադիր աղբյուրից։ Այսպիսի նամակ բացելիս կսկսվի միացումը արտաքին աղբյուրին։ Եթե ընտրեք սա, ապա արտաքին բովանդակոթւյունը կբացվի HTML նամակներում այս հասցեի համար։">
 
-<!ENTITY WorkPhone.label                "Work:">
+<!ENTITY WorkPhone.label                "Աշխ.">
 <!ENTITY WorkPhone.accesskey            "k">
-<!ENTITY HomePhone.label                "Home:">
+<!ENTITY HomePhone.label                "Տն.">
 <!ENTITY HomePhone.accesskey            "m">
-<!ENTITY FaxNumber.label                "Fax:">
+<!ENTITY FaxNumber.label                "Ֆաքս.">
 <!ENTITY FaxNumber.accesskey            "x">
-<!ENTITY PagerNumber.label              "Pager:">
+<!ENTITY PagerNumber.label              "Փեյջեր.">
 <!ENTITY PagerNumber.accesskey          "g">
-<!ENTITY CellularNumber.label           "Mobile:">
+<!ENTITY CellularNumber.label           "Բջջային.">
 <!ENTITY CellularNumber.accesskey       "b">
 
-<!ENTITY Home.tab                       "Private">
+<!ENTITY Home.tab                       "Անձնական">
 <!ENTITY Home.accesskey                 "P">
-<!ENTITY HomeAddress.label              "Address:">
+<!ENTITY HomeAddress.label              "Հասցեն.">
 <!ENTITY HomeAddress.accesskey          "A">
 <!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey         "">
-<!ENTITY HomeCity.label                 "City:">
+<!ENTITY HomeCity.label                 "Քաղաքը.">
 <!ENTITY HomeCity.accesskey             "y">
-<!ENTITY HomeState.label                "State/Province:">
+<!ENTITY HomeState.label                "Նահանգ/Շրջանը">
 <!ENTITY HomeState.accesskey            "S">
-<!ENTITY HomeZipCode.label              "ZIP/Postal Code:">
+<!ENTITY HomeZipCode.label              "Փոստային կոդը.">
 <!ENTITY HomeZipCode.accesskey          "Z">
-<!ENTITY HomeCountry.label              "Country:">
+<!ENTITY HomeCountry.label              "Երկիրը.">
 <!ENTITY HomeCountry.accesskey          "u">
-<!ENTITY HomeWebPage.label              "Web Page:">
+<!ENTITY HomeWebPage.label              "Վեբ էջը.">
 <!ENTITY HomeWebPage.accesskey          "e">
-<!ENTITY Birthday.label                 "Birthday:">
+<!ENTITY Birthday.label                 "Ծննդյան օր.">
 <!ENTITY Birthday.accesskey             "B">
 <!ENTITY In.label                       "">
-<!ENTITY Year.placeholder               "Year">
-<!ENTITY Or.value                       "or">
-<!ENTITY Age.placeholder                "Age">
+<!ENTITY Year.placeholder               "Տարին">
+<!ENTITY Or.value                       "կամ">
+<!ENTITY Age.placeholder                "Տարեկան">
 <!ENTITY YearsOld.label                 "">
 
-<!ENTITY Work.tab                       "Work">
+<!ENTITY Work.tab                       "Աշխատանքային">
 <!ENTITY Work.accesskey                 "W">
-<!ENTITY JobTitle.label                 "Title:">
+<!ENTITY JobTitle.label                 "Վերնագիրը.">
 <!ENTITY JobTitle.accesskey             "i">
-<!ENTITY Department.label               "Department:">
+<!ENTITY Department.label               "Բաժինը.">
 <!ENTITY Department.accesskey           "m">
-<!ENTITY Company.label                  "Organization:">
+<!ENTITY Company.label                  "Կազմակերպությունը.">
 <!ENTITY Company.accesskey              "n">
-<!ENTITY WorkAddress.label              "Address:">
+<!ENTITY WorkAddress.label              "Հասցեն.">
 <!ENTITY WorkAddress.accesskey          "A">
 <!ENTITY WorkAddress2.label             "">
 <!ENTITY WorkAddress2.accesskey         "">
-<!ENTITY WorkCity.label                 "City:">
+<!ENTITY WorkCity.label                 "Քաղաքը.">
 <!ENTITY WorkCity.accesskey             "y">
-<!ENTITY WorkState.label                "State/Province:">
+<!ENTITY WorkState.label                "Նահանգ/Շրջանը.">
 <!ENTITY WorkState.accesskey            "S">
-<!ENTITY WorkZipCode.label              "ZIP/Postal Code:">
+<!ENTITY WorkZipCode.label              "Փոստային կոդը.">
 <!ENTITY WorkZipCode.accesskey          "Z">
-<!ENTITY WorkCountry.label              "Country:">
+<!ENTITY WorkCountry.label              "Երկիրը.">
 <!ENTITY WorkCountry.accesskey          "u">
-<!ENTITY WorkWebPage.label              "Web Page:">
+<!ENTITY WorkWebPage.label              "Վեբ էջը.">
 <!ENTITY WorkWebPage.accesskey          "e">
 
-<!ENTITY Other.tab                      "Other">
+<!ENTITY Other.tab                      "Այլ">
 <!ENTITY Other.accesskey                "h">
-<!ENTITY Custom1.label                  "Custom 1:">
+<!ENTITY Custom1.label                  "Լրացուցիչ 1.">
 <!ENTITY Custom1.accesskey              "1">
-<!ENTITY Custom2.label                  "Custom 2:">
+<!ENTITY Custom2.label                  "Լրացուցիչ 2.">
 <!ENTITY Custom2.accesskey              "2">
-<!ENTITY Custom3.label                  "Custom 3:">
+<!ENTITY Custom3.label                  "Լրացուցիչ 3.">
 <!ENTITY Custom3.accesskey              "3">
-<!ENTITY Custom4.label                  "Custom 4:">
+<!ENTITY Custom4.label                  "Լրացուցիչ 4.">
 <!ENTITY Custom4.accesskey              "4">
-<!ENTITY Notes.label                    "Notes:">
+<!ENTITY Notes.label                    "Նշումներ.">
 <!ENTITY Notes.accesskey                "N">
 
-<!ENTITY Photo.tab                      "Photo">
+<!ENTITY Photo.tab                      "Լուսանկար">
 <!ENTITY Photo.accesskey                "o">
-<!ENTITY PhotoDesc.label                "Pick one of the following:">
-<!ENTITY GenericPhoto.label             "Generic Photo">
+<!ENTITY PhotoDesc.label                "Ընտրեք հետևյալներից մեկը.">
+<!ENTITY GenericPhoto.label             "Ընդհանուր նկարը">
 <!ENTITY GenericPhoto.accesskey         "G">
-<!ENTITY DefaultPhoto.label             "Default">
-<!ENTITY PhotoFile.label                "On this Computer">
+<!ENTITY DefaultPhoto.label             "Ծրագրային">
+<!ENTITY PhotoFile.label                "Այս համակարգչում">
 <!ENTITY PhotoFile.accesskey            "n">
-<!ENTITY BrowsePhoto.label              "Browse">
+<!ENTITY BrowsePhoto.label              "Ընտրել">
 <!ENTITY BrowsePhoto.accesskey          "r">
-<!ENTITY PhotoURL.label                 "On the Web">
+<!ENTITY PhotoURL.label                 "Վեբում">
 <!ENTITY PhotoURL.accesskey             "b">
-<!ENTITY PhotoURL.placeholder           "Paste or type the web address of a photo">
-<!ENTITY UpdatePhoto.label              "Update">
+<!ENTITY PhotoURL.placeholder           "Տեղադրել կամ նշեք լուսանկարի վեբ հասցեն">
+<!ENTITY UpdatePhoto.label              "Թարմացնել">
+<!ENTITY UpdatePhoto.accesskey          "U">
+

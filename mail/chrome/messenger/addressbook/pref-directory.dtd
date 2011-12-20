@@ -36,14 +36,16 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- LOCALIZATION NOTE (window.title) : do not translate "LDAP" in below line -->
-<!ENTITY pref.ldap.window.title    "LDAP Directory Servers">
+<!ENTITY pref.ldap.window.title    "LDAP սպասարկիչներ">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
-<!ENTITY directories.label         "LDAP Directory Server:">
+<!ENTITY directories.label         "LDAP սպասարկիչներ.">
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
-<!ENTITY directoriesText.label     "Select an LDAP Directory Server:">
+<!ENTITY directoriesText.label     "Ընրեք LDAP սպասարկիչներ.">
 <!ENTITY directoriesText.accesskey "S">
-<!ENTITY addDirectory.label        "Add">
+<!ENTITY addDirectory.label        "Ավելացնել">
 <!ENTITY addDirectory.accesskey    "A">
-<!ENTITY editDirectory.label       "Edit">
+<!ENTITY editDirectory.label       "Խմբագրել">
 <!ENTITY editDirectory.accesskey   "E">
-<!ENTITY deleteDirectory.label     "Delete">
+<!ENTITY deleteDirectory.label     "Ջնջել">
+<!ENTITY deleteDirectory.accesskey "D">
+

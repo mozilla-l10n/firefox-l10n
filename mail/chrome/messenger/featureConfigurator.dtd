@@ -12,13 +12,13 @@
 
 <!ENTITY featureConfigurator.toolbar.heading "Նոր նամակի գործիքները">
 <!ENTITY featureConfigurator.toolbar.new "Նամակի կոճակների գործիքները">
-<!ENTITY featureConfigurator.toolbar.new.status.explanation "A clean toolbar with all your messaging buttons at your fingertips.">
+<!ENTITY featureConfigurator.toolbar.new.status.explanation "Մաքրելու գործիքը՝ բոլոր նամակների կոճակներով, Ձեր ձեռքի տակ։">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.toolbar.original): The word 'original' is chosen deliberately to be neutral, vs. 'old' which in English at least had a negative connotation.-->
 <!ENTITY featureConfigurator.toolbar.original "Պահել սկզբնական Գործիքների կոճակները">
-<!ENTITY featureConfigurator.toolbar.original.status.explanation "Keep any custom toolbar buttons in addition to the new Message Buttons.">
+<!ENTITY featureConfigurator.toolbar.original.status.explanation "Պահել ցանկ. ընտրված գործիի կոճակ՝ ավելացնելով նոր Նամակի կոճակներին։">
 
-<!ENTITY featureConfigurator.toolbarBenefits.para "Message actions such as reply and forward have moved from the toolbar and onto the message header itself. This ties the action buttons directly to the message, which leaves more room in the toolbar for the richer search textbox, as well as add-ons.">
+<!ENTITY featureConfigurator.toolbarBenefits.para "Գործողությունները նամակի հետ, ինչպես օրինակ պատասխանել կամ փոխանցել, տեղափոխվել են գործիքաշերտից և նաև նամակի գլխագրից։ Դրանք կապում են տվյալ կոճակի գործողությունը անմիջապես նամակի հետ։">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.addOn.downloading): The text to display while downloading the addon. -->
 <!ENTITY featureConfigurator.addOn.downloading "Ներբեռնվում է…">
@@ -67,15 +67,17 @@
 
 <!-- LOCALIZATION NOTE (featureConfigurator.autoSync.on): The label for the radio button for synchronizing all the accounts. -->
 <!ENTITY featureConfigurator.autoSync.on "Համաժամեցնել">
-<!ENTITY featureConfigurator.autoSync.on.explanation "You'll see faster message loading and better search results.">
+<!ENTITY featureConfigurator.autoSync.on.explanation "Տեսանելի կլինի նամակների ավելի արագ բեռնմամբ և էլ ավելի արագ որոնմամբ։">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.autoSync.off): The label for the radio button that will synchronize none of the accounts. -->
 <!ENTITY featureConfigurator.autoSync.off "Չհամաժամեցնել">
-<!ENTITY featureConfigurator.autoSync.off.explanation "This will mean slower message loading and incomplete search results.">
+<!ENTITY featureConfigurator.autoSync.off.explanation "Սա կնշանակի նամակների դանդաղ բեռնում և որոնման ոչ ամբողջական արդյունք։
+
+">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.autoSync.some): The label for the radio button that will let you customize the synchronize for each account. -->
 <!ENTITY featureConfigurator.autoSync.some "Ըստ փոստարկղերի համաժամեցում">
-<!ENTITY featureConfigurator.autoSync.some.explanation "Customize your synchronization needs per account and folder.">
+<!ENTITY featureConfigurator.autoSync.some.explanation "Կարգավորեք համաժամեցումը ըստ փոստարկղերի։">
 
 <!-- LOCALIZATION NOTE (featureConfigurator.diskSpace.currentSize): The label for the current amount of disk space your accounts are consuming. -->
 <!ENTITY featureConfigurator.diskSpace.currentSize "Նամակների օգտագործվող ծավալը.">
@@ -90,5 +92,7 @@
 <!ENTITY featureConfigurator.diskSpace.warning "You're running low on space!">
 
 
-<!ENTITY featureConfigurator.previousButton "Previous">
-<!ENTITY featureConfigurator.nextButton "Next">
+<!ENTITY featureConfigurator.previousButton "Նախորդը">
+<!ENTITY featureConfigurator.nextButton "Հաջորդը">
+<!ENTITY featureConfigurator.closeButton "Փակել">
+

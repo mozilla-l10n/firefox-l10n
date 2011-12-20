@@ -49,6 +49,8 @@
 <!ENTITY half-manual-test.accesskey      "t">
 <!ENTITY manual-edit.label               "Ձեռադիր կարգ.">
 <!ENTITY manual-edit.accesskey           "M">
+<!ENTITY switch-to-provisioner.label     "Նոր Փոստարկղ">
+<!ENTITY switch-to-provisioner.accesskey "Ն">
 
 
 <!ENTITY warning.label                   "Զգուշացում!">
@@ -79,3 +81,5 @@
 
 <!ENTITY insecureUnencrypted.description "Ձեր նամակը և վավերացումը ուղարկվել են չկոդավորված, ուստի Ձեր գաղտնաբառը (նաև նամակը) կարող են հասանելի լինել այլ մարդկանց։ &brandShortName;-ը հնարավորություն կտա ստանալ նամակներ, բայց անվտագ միացման կարգավորումների համար պետք է դիմեք էլ. փոստի Ձեր մատակարարին։">
 <!ENTITY insecureSelfSigned.description  "Սպասարկիչը օգտագործում է անվստահելի հավաստագիր և մենք չենք կարող երաշխավորել տվյալների փոխանցման անվտանգությունը &brandShortName;-ի և Ձեր սպասարկիչի միջև։ &brandShortName;-ը հնարավորություն կտա ստանալ նամակներ, բայց անվտագ միացման կարգավորումների համար պետք է դիմեք էլ. փոստի Ձեր մատակարարին։">
+<!ENTITY secureServer.description        "Շնորհավորում ենք! Սա անվտանգ սպասարկիչ է։">
+

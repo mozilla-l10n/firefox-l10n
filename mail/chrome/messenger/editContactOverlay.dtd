@@ -16,3 +16,5 @@
 <!ENTITY editContactPanelDone.label "Պատրաստ է">
 <!ENTITY editContactPanelDone.accesskey "D">
 
+<!ENTITY contactMoveDisabledWarning.description "Չեք կարող փոփոխել Հասցեագիրքը, որովհետև հասցեն նամաների ցանկում է։">
+

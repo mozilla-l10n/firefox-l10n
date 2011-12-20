@@ -38,28 +38,28 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY folderProps.windowtitle.label           "Properties">
+<!ENTITY folderProps.windowtitle.label           "Հատկություններ">
 
-<!ENTITY generalInfo.label                       "General Information">
+<!ENTITY generalInfo.label                       "Գլխավոր տեղեկությունը">
 <!ENTITY folderCharsetTab.label                  "Գրանշանների ծրագրային կոդավորումը.">
 <!ENTITY folderCharsetTab.accesskey              "E">
 <!ENTITY folderCharsetOverride.label             "Կիրառել թղթապանակի բոլոր նամակների համար (գրանշանների անհատական կոդավորման կարգավորումները և ինքնորոշումը կանտեսվեն)">
 <!ENTITY folderCharsetOverride.accesskey         "A">
-<!ENTITY folderRebuildSummaryFileTip2.label      "Rebuild Summary File Index">
+<!ENTITY folderRebuildSummaryFileTip2.label      "Վերակառուցել ֆայլի ինդեքսի արդյունքը">
 <!ENTITY folderRebuildSummaryFile2.label         "Վերականգնել">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
-<!ENTITY folderRebuildSummaryFile.explanation    "Sometimes the folder index (.msf) file becomes damaged and messages may appear missing or deleted messages continue showing; repairing the folder may fix these issues.">
+<!ENTITY folderRebuildSummaryFile.explanation    "Երբեմն թղթապանակի ինդեքսի ֆայլը (.msf) վնասվում է և նամակները կարող են երևալ բացակայող կամ ջնջված, թղթապանակի ուղղումը կարող է ուղղել այս սխալը։">
 <!ENTITY folderIncludeInGlobalSearch.label       "Ներառել նամակները Գլոբալ փնտրման արդյունքում">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "G">
      
-<!ENTITY retention.label "Retention Policy">
+<!ENTITY retention.label "Անդամակցության Քաղաքականությունը">
 <!ENTITY retentionUseAccount.label  "Օգտ. իմ փոստարկղի կարգավորումները">
 <!ENTITY retentionUseAccount.accesskey "U">
-<!ENTITY daysOld.label "days old">
-<!ENTITY message.label "messages">
-<!ENTITY retentionCleanup.label "To recover disk space, old messages can be permanently deleted.">
-<!ENTITY retentionCleanupImap.label "To recover disk space, old messages can be permanently deleted, both local copies and originals on the remote server.">
-<!ENTITY retentionCleanupPop.label "To recover disk space, old messages can be permanently deleted, including originals on the remote server.">
+<!ENTITY daysOld.label "օրվա է">
+<!ENTITY message.label "նամակներ">
+<!ENTITY retentionCleanup.label "Ազատ տեղ բացելու համար, ջնջեք հին նամակները։">
+<!ENTITY retentionCleanupImap.label "Ազատ տեղ բացելու համար, ջնջեք հին նամակները, և՛ լոկալ պատճեները և օրիգինալները հեռադիր սպասարկիչում։">
+<!ENTITY retentionCleanupPop.label "Ազատ տեղ բացելու համար, ջնջեք հին նամակները, և՛ լոկալ պատճեները և օրիգինալները հեռադիր սպասարկիչում։">
 <!ENTITY retentionDeleteMsg.label "Ջնջել նամակները ավելի քան՝">
 <!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Չջնջել որևէ նամակ">
@@ -71,7 +71,7 @@
 <!ENTITY retentionApplyToFlagged.label "Միշտ պահել աստղանիշով նամակները">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
-<!ENTITY folderSynchronizationTab.label          "Synchronization">
+<!ENTITY folderSynchronizationTab.label          "Համաժամեցում">
 <!ENTITY folderCheckForNewMessages2.label         "Այս փոստարկղի նոր նամակները ստանալիս միշտ ստուգել այս թղթապանակը">
 <!ENTITY folderCheckForNewMessages2.accesskey     "c">
 
@@ -90,12 +90,14 @@
 <!ENTITY folderProps.location.label              "Տեղը.">
 <!ENTITY folderProps.location.accesskey          "L">
 
-<!ENTITY folderSharingTab.label                  "Sharing">
+<!ENTITY folderSharingTab.label                  "Տարածում">
 <!ENTITY privileges.button.label                 "Արտոնությունները…">
 <!ENTITY privileges.button.accesskey             "P">
-<!ENTITY permissionsDesc.label                   "You have the following permissions:">
-<!ENTITY folderType.label                        "Folder Type:">
+<!ENTITY permissionsDesc.label                   "Ձեր լիազորումը.">
+<!ENTITY folderType.label                        "Թղթապ. տեսակը.">
 
-<!ENTITY folderQuotaTab.label                    "Quota">
-<!ENTITY folderQuotaRoot.label                   "Quota Root:">
-<!ENTITY folderQuotaUsage.label                  "Usage:">
+<!ENTITY folderQuotaTab.label                    "Մեջբերում">
+<!ENTITY folderQuotaRoot.label                   "Մեջբերման հիմքը.">
+<!ENTITY folderQuotaUsage.label                  "Օգտագործումը.">
+<!ENTITY folderQuotaStatus.label                 "Վիճակը.">
+

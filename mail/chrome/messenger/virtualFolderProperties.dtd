@@ -15,3 +15,5 @@
 <!ENTITY newFolderButton.label       "Ստեղծել">
 <!ENTITY newFolderButton.accesskey   "r">
 <!ENTITY editFolderButton.label      "Թարմացնել">
+<!ENTITY editFolderButton.accesskey  "U">
+

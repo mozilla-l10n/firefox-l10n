@@ -23,3 +23,5 @@
 <!ENTITY openHelpMac2.modifiers    "accel">
 
 <!ENTITY aboutMenuCmd.label "&brandShortName;-ի մասին">
+<!ENTITY aboutMenuCmd.accesskey "A">
+

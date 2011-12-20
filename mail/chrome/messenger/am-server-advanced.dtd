@@ -28,3 +28,5 @@
 <!ENTITY deferToServer.label "Այլ փոստարկղի Մուտքայինը">
 <!ENTITY deferToServer.accesskey "d">
 <!ENTITY deferGetNewMail.label "Ներառել այս սպասարկիչը՝ նոր նամակ ստանալիս">
+<!ENTITY deferGetNewMail.accesskey "I">
+

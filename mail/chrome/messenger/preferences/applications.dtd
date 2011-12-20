@@ -7,7 +7,7 @@
 <!ENTITY  focusSearch1.key            "f">
 <!ENTITY  focusSearch2.key            "k">
 
-<!ENTITY  filter.placeholder          "Search">
+<!ENTITY  filter.placeholder          "Փնտրել">
 
 <!ENTITY saveTo.label                 "Պահել ֆայլերը՝">
 <!ENTITY saveTo.accesskey             "S">
@@ -16,3 +16,5 @@
 <!ENTITY chooseFolderWin.label        "Ընտրել…">
 <!ENTITY chooseFolderWin.accesskey    "B">
 <!ENTITY chooseFolderMac.label        "Ընտրել…">
+<!ENTITY chooseFolderMac.accesskey    "C">
+

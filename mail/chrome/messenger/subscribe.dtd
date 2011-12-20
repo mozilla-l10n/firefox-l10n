@@ -50,5 +50,7 @@
 <!ENTITY server.accesskey             "A">
 <!ENTITY subscribedHeader.label       "Բաժանորդագրվել">
 <!-- commenting out until bug 38906 is fixed 
---><!ENTITY messagesHeader.label         "Նամակներ"> 
+<!ENTITY messagesHeader.label         "Նամակներ"> -->
 <!ENTITY namefield.label              "Ցուցադրել նրանք, որոնք պարունակում են՝">
+<!ENTITY namefield.accesskey          "o">
+

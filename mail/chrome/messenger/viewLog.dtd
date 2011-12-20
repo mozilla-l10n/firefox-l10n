@@ -5,3 +5,5 @@
 <!ENTITY enableLog.label "Միացնել Ֆիլտրի մատյանը">
 <!ENTITY enableLog.accesskey "E">
 <!ENTITY closeLog.label "Փակել">
+<!ENTITY closeLog.accesskey "o">
+

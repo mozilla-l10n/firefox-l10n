@@ -1,21 +1,21 @@
 <!ENTITY window.width                      "36em">
 
-<!ENTITY cookiesonsystem.label             "The following cookies are stored on your computer:">
-<!ENTITY cookiename.label                  "Cookie Name">
-<!ENTITY cookiedomain.label                "Site">
+<!ENTITY cookiesonsystem.label             "Ձեր համակարգչում պահպանվել են հետևյալ cookie-ները.">
+<!ENTITY cookiename.label                  "Cookie-ի անունը">
+<!ENTITY cookiedomain.label                "Կայքը">
 <!ENTITY button.removecookie.label         "Ջնջել Cookie-ին">
 <!ENTITY button.removecookie.accesskey     "R">
-<!ENTITY button.removeallcookies.label     "Remove All Cookies">
+<!ENTITY button.removeallcookies.label     "Ջնջել բոլոր Cookie-ները">
 <!ENTITY button.removeallcookies.accesskey "A">
 
-<!ENTITY props.name.label                  "Name:">
-<!ENTITY props.value.label                 "Content:">
-<!ENTITY props.domain.label                "Host:">
-<!ENTITY props.path.label                  "Path:">
-<!ENTITY props.secure.label                "Send For:">
-<!ENTITY props.expires.label               "Expires:">
+<!ENTITY props.name.label                  "Անունը.">
+<!ENTITY props.value.label                 "Պարունակությունը.">
+<!ENTITY props.domain.label                "Հոսթը.">
+<!ENTITY props.path.label                  "Ճ-ը.">
+<!ENTITY props.secure.label                "Կուղարկվի.">
+<!ENTITY props.expires.label               "Ավարտվում է՝">
 
-<!ENTITY window.title                      "Cookies">
+<!ENTITY window.title                      "Cookie-ներ">
 <!ENTITY windowClose.key                   "w">
 <!ENTITY focusSearch1.key                  "f">
 <!ENTITY focusSearch2.key                  "k">
@@ -25,3 +25,5 @@
 
 <!ENTITY button.close.label                "Փակել">
 <!ENTITY button.close.accesskey            "C">
+
+

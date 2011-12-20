@@ -25,3 +25,5 @@
 <!ENTITY manageCerts.label "Նայել հավաստագրերը">
 <!ENTITY manageCerts.accesskey "V">
 <!ENTITY manageDevices.label "Անվտանգության սարքեր">
+<!ENTITY manageDevices.accesskey "y">
+

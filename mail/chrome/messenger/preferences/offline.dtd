@@ -1,23 +1,25 @@
-<!ENTITY offlineDialog.title "Offline Settings">
+<!ENTITY offlineDialog.title "Անցանց կարգավորումներ">
 
-<!ENTITY textStartUp "When starting up:">
-<!ENTITY radioRememberPrevState.label "Remember previous online state">
+<!ENTITY textStartUp "Ծրագիրը բացելիս՝">
+<!ENTITY radioRememberPrevState.label "Հիշել նախորդ առցանց վիճակը">
 <!ENTITY radioRememberPrevState.accesskey "R">
-<!ENTITY radioAskMe.label "Ask me for online state at startup">
+<!ENTITY radioAskMe.label "Բացելիս հարցնել առցանց վիճակի մասին">
 <!ENTITY radioAskMe.accesskey "u">
-<!ENTITY radioAlwaysOnline.label "Always start up online">
+<!ENTITY radioAlwaysOnline.label "Միշտ սկսել առցանց">
 <!ENTITY radioAlwaysOnline.accesskey "l">
 
-<!ENTITY textGoingOnline "Send unsent messages when going online?">
-<!ENTITY radioAutoSend.label "Yes">
+<!ENTITY textGoingOnline "Ուղարկե՞լ չուղարկված նամակները առցանց անցնելիս։">
+<!ENTITY radioAutoSend.label "Այո">
 <!ENTITY radioAutoSend.accesskey "Y">
-<!ENTITY radioNotSend.label "No">
+<!ENTITY radioNotSend.label "Ոչ">
 <!ENTITY radioNotSend.accesskey "N">
-<!ENTITY radioAskUnsent.label "Ask me">
+<!ENTITY radioAskUnsent.label "Հարցնել">
 <!ENTITY radioAskUnsent.accesskey "s">
-<!ENTITY textGoingOffline "Download messages for offline use when going offline?">
-<!ENTITY radioAutoDownload.label "Yes">
+<!ENTITY textGoingOffline "Բեռնե՞լ նամակները անցանց անցնելիս։">
+<!ENTITY radioAutoDownload.label "Այո">
 <!ENTITY radioAutoDownload.accesskey "e">
-<!ENTITY radioNotDownload.label "No">
+<!ENTITY radioNotDownload.label "Ոչ">
 <!ENTITY radioNotDownload.accesskey "o">
-<!ENTITY radioAskDownload.label "Ask me">
+<!ENTITY radioAskDownload.label "Հարցնել">
+<!ENTITY radioAskDownload.accesskey "A">
+

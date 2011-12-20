@@ -37,3 +37,5 @@
 <!ENTITY nameColumn.label   "Անուն"> 
 <!ENTITY unreadColumn.label "Չկարդացած"> 
 <!ENTITY totalColumn.label "Ընդամենը"> 
+<!ENTITY folderSizeColumn.label "Չափը"> 
+

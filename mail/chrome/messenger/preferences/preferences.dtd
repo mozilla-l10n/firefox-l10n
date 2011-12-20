@@ -1,11 +1,13 @@
-<!ENTITY  prefWindow.titleWin     "Options">
-<!ENTITY  prefWindow.titleGNOME   "&brandShortName; Preferences">
-<!ENTITY  prefWindow.styleWindows "width: 48em; min-height: 38.5em;">
-<!ENTITY  prefWindow.styleMac     "width: 47em;">
-<!ENTITY  prefWindow.styleGNOME   "width: 47em; min-height: 38em;">
+<!ENTITY  prefWindow.titleWin     "Ընտրանքներ">
+<!ENTITY  prefWindow.titleGNOME   "&brandShortName;-ի կարգավորումները">
+<!ENTITY  prefWindow.styleWindows "լայն-ը. 48em; նվ. բարձր-ը. 38.5em;">
+<!ENTITY  prefWindow.styleMac     "լայն-ը. 47em;">
+<!ENTITY  prefWindow.styleGNOME   "լայն-ը. 47em; նվ. բարձր-ը. 38em;">
 
-<!ENTITY paneGeneral.title        "General">
-<!ENTITY paneDisplay.title        "Display">
-<!ENTITY paneComposition.title    "Composition">
-<!ENTITY paneAttachments.title    "Attachments">
-<!ENTITY paneSecurity.title       "Security">
+<!ENTITY paneGeneral.title        "Գլխավորը">
+<!ENTITY paneDisplay.title        "Տեսքը">
+<!ENTITY paneComposition.title    "Նամակը">
+<!ENTITY paneAttachments.title    "Կցորդներ">
+<!ENTITY paneSecurity.title       "Անվտանգությունը">
+<!ENTITY paneAdvanced.title       "Ընդլայնված">
+

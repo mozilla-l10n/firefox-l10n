@@ -35,43 +35,42 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField2.label "to ">
-<!ENTITY fromField2.label "from ">
-<!ENTITY senderField2.label "sender ">
-<!ENTITY organizationField2.label "organization ">
-<!ENTITY replyToField2.label "reply-to ">
+<!ENTITY toField3.label "Ում">
+<!ENTITY fromField3.label "Ումից">
+<!ENTITY senderField3.label "Ուղարկողը">
+<!ENTITY organizationField3.label "Կազմակերպությունը">
+<!ENTITY replyToField3.label "Պատասխանել՝">
 
-<!ENTITY subjectField2.label "subject ">
-<!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
-<!ENTITY ccField2.label "cc ">
-<!ENTITY bccField2.label "bcc ">
-<!ENTITY newsgroupsField2.label "newsgroups ">
-<!ENTITY followupToField2.label "followup-to ">
-<!ENTITY tagsHdr2.label "tags ">
-<!ENTITY dateField2.label "date ">
-<!ENTITY userAgentField2.label "user-agent ">
-<!ENTITY referencesField2.label "references ">
-<!ENTITY messageIdField2.label "message-id ">
-<!ENTITY inReplyToField2.label "in-reply-to ">
-<!ENTITY originalWebsite2.label "website ">
+<!ENTITY subjectField3.label "Վերնագիրը">
+<!ENTITY ccField3.label "Cc">
+<!ENTITY bccField3.label "Bcc">
+<!ENTITY newsgroupsField3.label "Նորություններ">
+<!ENTITY followupToField3.label "Հետևել՝">
+<!ENTITY tagsHdr3.label "Պիտակներ">
+<!ENTITY dateField3.label "Ամսաթիվը">
+<!ENTITY userAgentField3.label "Ծրագիրը">
+<!ENTITY referencesField3.label "Հղումները">
+<!ENTITY messageIdField3.label "Նամակի ID-ին">
+<!ENTITY inReplyToField3.label "Պատասխանը՝">
+<!ENTITY originalWebsite3.label "Վեբ կայքը">
 
-<!ENTITY editMessageDescription.label "This is a draft message">
-<!ENTITY editMessageButton.label "Edit…">
-<!ENTITY hdrArchiveButton.label "archive">
-<!ENTITY hdrArchiveButton.tooltip "archive this message">
-<!ENTITY hdrSmartReplyButton.label "smart reply">
-<!ENTITY hdrReplyButton.label "reply">
-<!ENTITY hdrReplyButton.tooltip "reply to this message">
-<!ENTITY hdrReplyAllButton.label "reply all">
-<!ENTITY hdrReplyAllButton.tooltip "reply to sender and all recipients">
-<!ENTITY hdrReplyListButton.label "reply list">
-<!ENTITY hdrReplyListButton.tooltip "reply to mailing list">
-<!ENTITY hdrForwardButton.label "forward">
-<!ENTITY hdrForwardButton.tooltip "forward this message">
-<!ENTITY hdrJunkButton.label "junk">
-<!ENTITY hdrJunkButton.tooltip "mark this message as junk">
-<!ENTITY hdrTrashButton.label "delete">
-<!ENTITY hdrTrashButton.tooltip "delete this message">
+<!ENTITY editMessageDescription.label "Սա սևագիր նամակ է">
+<!ENTITY editMessageButton.label "Խմբագրել...">
+<!ENTITY hdrArchiveButton1.label "Արխիվ">
+<!ENTITY hdrArchiveButton1.tooltip "Արխիվացնել նամակը">
+<!ENTITY hdrSmartReplyButton1.label "Խելացի պատ.">
+<!ENTITY hdrReplyButton1.label "Պատասխանել">
+<!ENTITY hdrReplyButton1.tooltip "Պատասխանել">
+<!ENTITY hdrReplyAllButton1.label "Պատասխանել բոլորին">
+<!ENTITY hdrReplyAllButton1.tooltip "Պատ. ուղարկողին և մյուսներին">
+<!ENTITY hdrReplyListButton1.label "Պատաս-ի ցանկը">
+<!ENTITY hdrReplyListButton1.tooltip "Պատաս. ցանկին">
+<!ENTITY hdrForwardButton1.label "Փոխանցել">
+<!ENTITY hdrForwardButton1.tooltip "Փոխանցել նամակը">
+<!ENTITY hdrJunkButton1.label "Խլամ">
+<!ENTITY hdrJunkButton1.tooltip "Նշել նամակը որպես խլամ">
+<!ENTITY hdrTrashButton1.label "Ջնջել">
+<!ENTITY hdrTrashButton1.tooltip "Ջնջել այս նամակը">
 
 <!ENTITY hdrViewToolbarShowFull.label "Ցուցադրել պատկերները և տեքստը">
 <!ENTITY hdrViewToolbarShowFull.accesskey "a">
@@ -82,23 +81,23 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Միշտ ցուցադրել պատասխանը ուղարկողին">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "R">
 
-<!ENTITY otherActionsButton.label "other actions">
-<!ENTITY otherActionsOpenConversation.label "բացել պատուհանում">
-<!ENTITY otherActionsOpenConversation.accesskey "c">
-<!ENTITY otherActionsOpenInNewWindow.label "բացել նոր պատուհանում">
-<!ENTITY otherActionsOpenInNewWindow.accesskey "w">
-<!ENTITY otherActionsOpenInNewTab.label "բացել նոր էջում">
-<!ENTITY otherActionsOpenInNewTab.accesskey "t">
-<!ENTITY markAsReadMenuItem.label "նշել որպես կարդացած">
-<!ENTITY markAsReadMenuItem.accesskey "r">
-<!ENTITY markAsUnreadMenuItem.label "նշել որպես չկարդացած">
-<!ENTITY markAsUnreadMenuItem.accesskey "r">
-<!ENTITY saveAsMenuItem.label "պահպանել որպես...">
-<!ENTITY saveAsMenuItem.accesskey "s">
-<!ENTITY viewSourceMenuItem.label "նայել աղբյուրը">
-<!ENTITY viewSourceMenuItem.accesskey "v">
-<!ENTITY otherActionsPrint.label "print…">
-<!ENTITY otherActionsPrint.accesskey "p">
+<!ENTITY otherActionsButton1.label "Այլք">
+<!ENTITY otherActionsOpenConversation1.label "Բացել պատուհանում">
+<!ENTITY otherActionsOpenConversation1.accesskey "Բ">
+<!ENTITY otherActionsOpenInNewWindow1.label "Բացել նոր պատուհանում">
+<!ENTITY otherActionsOpenInNewWindow1.accesskey "Բ">
+<!ENTITY otherActionsOpenInNewTab1.label "Բացել նոր էջում">
+<!ENTITY otherActionsOpenInNewTab1.accesskey "Բ">
+<!ENTITY markAsReadMenuItem1.label "Նշել որպես կարդացած">
+<!ENTITY markAsReadMenuItem1.accesskey "Ն">
+<!ENTITY markAsUnreadMenuItem1.label "Նշել որպես չկարդացած">
+<!ENTITY markAsUnreadMenuItem1.accesskey "Ն">
+<!ENTITY saveAsMenuItem1.label "Պահպանել որպես...">
+<!ENTITY saveAsMenuItem1.accesskey "Պ">
+<!ENTITY viewSourceMenuItem1.label "Նայել աղբյուրը">
+<!ENTITY viewSourceMenuItem1.accesskey "Ն">
+<!ENTITY otherActionsPrint1.label "Տպել…">
+<!ENTITY otherActionsPrint1.accesskey "Տ">
 
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Բացել">
@@ -118,30 +117,18 @@
 <!ENTITY deleteAllAttachmentsCmd.label    "Ջնջել բոլորը...">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
 
+<!ENTITY openAttachment.tooltip "Բացել կցված ֆայլը">
+
 <!-- Attachment toolbar items -->
-<!ENTITY saveAttachmentButton.label       "պահպանել">
-<!ENTITY saveAttachmentButton.tooltip     "save the attached file">
-<!ENTITY saveAllAttachmentsButton.label   "save all">
-<!ENTITY saveAllAttachmentsButton.tooltip "save all the attached files">
-<!ENTITY openAttachmentMenuItem.label     "բացել">
-<!ENTITY openAttachmentMenuItem.accesskey    "o">
-<!ENTITY saveAsAttachmentMenuItem.label    "պահպանել որպես...">
-<!ENTITY saveAsAttachmentMenuItem.accesskey    "s">
-<!ENTITY detachAttachmentMenuItem.label    "բաժանել...">
-<!ENTITY detachAttachmentMenuItem.accesskey    "d">
-<!ENTITY deleteAttachmentMenuItem.label    "ջնջել">
-<!ENTITY deleteAttachmentMenuItem.accesskey    "e">
-<!ENTITY openAllAttachmentsMenuItem.label    "բացել բոլորը...">
-<!ENTITY openAllAttachmentsMenuItem.accesskey    "o">
-<!ENTITY saveAllAttachmentsMenuItem.label    "պահպանել բոլորը...">
-<!ENTITY saveAllAttachmentsMenuItem.accesskey    "s">
-<!ENTITY detachAllAttachmentsMenuItem.label    "բաժանել բոլորը...">
-<!ENTITY detachAllAttachmentsMenuItem.accesskey    "d">
-<!ENTITY deleteAllAttachmentsMenuItem.label    "delete all…">
-<!ENTITY deleteAllAttachmentsMenuItem.accesskey    "e">
+<!ENTITY saveAttachmentButton1.label       "Պահպանել">
+<!ENTITY saveAttachmentButton1.tooltip     "Պահպանել կցված ֆայլը">
+<!ENTITY saveAllAttachmentsButton1.label   "Պահպանել բոլորը">
+<!ENTITY saveAllAttachmentsButton1.tooltip "Պահպանել բոլոր կցված ֆայլերը">
 
 <!ENTITY copyLinkCmd.label        "Պատճենել հղման հասցեն">
 <!ENTITY copyLinkCmd.accesskey    "C">
 
-<!ENTITY CopyMessageId.label "Copy Message-ID">
-<!ENTITY OpenMessageForMsgId.label "Open Message For ID">
+<!ENTITY CopyMessageId.label "Պատճենել նամակի ID-ին">
+<!ENTITY OpenMessageForMsgId.label "Բացել նամակը ID-ի համար">
+<!ENTITY OpenBrowserWithMsgId.label "Բացել դիտարկիչը՝ նամակի ID-ով">
+

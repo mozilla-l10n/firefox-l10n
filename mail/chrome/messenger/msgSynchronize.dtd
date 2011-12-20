@@ -1,9 +1,9 @@
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
 
-<!ENTITY MsgSynchronize.label "Download and Sync Messages">
-<!ENTITY MsgSelect.label "Items for Offline Use">
-<!ENTITY MsgSyncDesc.label "If you have already selected mail folders or newsgroups for offline use, you can download and/or sync them now. Otherwise, use the &quot;Select&quot; button to choose mail folders and newsgroups for offline use.">
-<!ENTITY MsgSyncDirections.label "Download and/or sync the following:">
+<!ENTITY MsgSynchronize.label "Բեռնել և Համժ. նամակները">
+<!ENTITY MsgSelect.label "Անցանց օգտագործ. համար">
+<!ENTITY MsgSyncDesc.label "Եթե արդեն կան ընտրված փոստային թղթապանակներ կամ նորություններ անցանց օգտագործման համար, ապա կարող եք բեռնել կամ/և համաժամեցնել դրանք հիմա։ Օգտագործեք &quot;Select&quot; կոճակը՝ ընտրելու համար փոստային թղթապանակները և նորությունները՝ անցանց օգտագործման համար։">
+<!ENTITY MsgSyncDirections.label "Բեռնել և/կամ համաժամեցնել հետևյալը.">
 <!ENTITY syncTypeMail.label "Նամակներ">
 <!ENTITY syncTypeMail.accesskey "M">
 <!ENTITY syncTypeNews.label "Նորություններ">
@@ -14,5 +14,6 @@
 <!ENTITY workOffline.accesskey "W">
 <!ENTITY selectButton.label "Ընտրել...">
 <!ENTITY selectButton.accesskey "e">
-<!ENTITY MsgSelectDesc.label "Choose mail folders and newsgroups for offline use.">
-<!ENTITY MsgSelectInd.label "Download">
+<!ENTITY MsgSelectDesc.label "Ընտրեք փոստային թղթապ. և նորությունները՝ անցանց օգտ. համար։">
+<!ENTITY MsgSelectInd.label "Բեռնել">
+<!ENTITY MsgSelectItems.label "Թղթապ. և Նորություններ">

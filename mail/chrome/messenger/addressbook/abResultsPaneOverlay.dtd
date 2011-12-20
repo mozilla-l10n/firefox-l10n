@@ -34,34 +34,36 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY GeneratedName.label                   "Name">
+<!ENTITY GeneratedName.label                   "Անունը">
 <!ENTITY GeneratedName.accesskey               "N">
-<!ENTITY PrimaryEmail.label                    "Email">
+<!ENTITY PrimaryEmail.label                    "Էլ-Փոստ">
 <!ENTITY PrimaryEmail.accesskey                "E">
-<!ENTITY Company.label                         "Organization">
+<!ENTITY Company.label                         "Կազմակերպությունը">
 <!ENTITY Company.accesskey                     "z">
 <!ENTITY _PhoneticName.label                   "Phonetic Name">
 <!ENTITY _PhoneticName.accesskey               "o">
-<!ENTITY NickName.label                        "Nickname">
+<!ENTITY NickName.label                        "Մականունը">
 <!ENTITY NickName.accesskey                    "i">
-<!ENTITY SecondEmail.label                     "Additional Email">
+<!ENTITY SecondEmail.label                     "Լրացուցիչ էլ. հասցե">
 <!ENTITY SecondEmail.accesskey                 "l">
-<!ENTITY Department.label                      "Department">
+<!ENTITY Department.label                      "Բաժինը">
 <!ENTITY Department.accesskey                  "r">
-<!ENTITY JobTitle.label                        "Title">
+<!ENTITY JobTitle.label                        "Վերնագիրը">
 <!ENTITY JobTitle.accesskey                    "T">
-<!ENTITY CellularNumber.label                  "Mobile">
+<!ENTITY CellularNumber.label                  "Բջջային">
 <!ENTITY CellularNumber.accesskey              "M">
-<!ENTITY PagerNumber.label                     "Pager">
+<!ENTITY PagerNumber.label                     "Փեյջեր">
 <!ENTITY PagerNumber.accesskey                 "P">
-<!ENTITY FaxNumber.label                       "Fax">
+<!ENTITY FaxNumber.label                       "Ֆաքս">
 <!ENTITY FaxNumber.accesskey                   "F">
-<!ENTITY HomePhone.label                       "Home Phone">
+<!ENTITY HomePhone.label                       "Տնային հեռախոս">
 <!ENTITY HomePhone.accesskey                   "H">
-<!ENTITY WorkPhone.label                       "Work Phone">
+<!ENTITY WorkPhone.label                       "Աշխ. հեռախոս">
 <!ENTITY WorkPhone.accesskey                   "W">
-<!ENTITY ScreenName.label                      "Screen Name">
+<!ENTITY ScreenName.label                      "Էկրանի անունը">
 <!ENTITY ScreenName.accesskey                  "S">
-<!ENTITY sortAscending.label                   "Ascending">
+<!ENTITY sortAscending.label                   "Աճմամբ">
 <!ENTITY sortAscending.accesskey               "A">
-<!ENTITY sortDescending.label                  "Descending">
+<!ENTITY sortDescending.label                  "Նվազմամբ">
+<!ENTITY sortDescending.accesskey              "D">
+

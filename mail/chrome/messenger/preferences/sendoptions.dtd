@@ -1,30 +1,32 @@
-<!ENTITY dialog.title                 "Send Options">
-<!ENTITY sendMail.title               "Text Format">
-<!ENTITY sendMaildesc.label           "When sending messages in HTML format and one or more recipients are not listed as being able to receive HTML:">
-<!ENTITY askMe.label                  "Ask me what to do">
+<!ENTITY dialog.title                 "Ուղարկելու ընտրանքներ">
+<!ENTITY sendMail.title               "Տեքստային">
+<!ENTITY sendMaildesc.label           "Եթե նամակը ուղարկում եք HTML-ով և այն ստացողներից մեկը չկա HTML նամակ ստացողների ցանկում.">
+<!ENTITY askMe.label                  "Հարցնել, թե ինչ անել">
 <!ENTITY askMe.accesskey              "k">
-<!ENTITY convertPlain.label           "Convert the message to plain text">
+<!ENTITY convertPlain.label           "Փոխարկել նամակը սովորական տեքստի">
 <!ENTITY convertPlain.accesskey       "C">
-<!ENTITY sendHTML.label               "Send the message in HTML anyway">
+<!ENTITY sendHTML.label               "Այնուհանդերձ նամակը ուղարկել HTML-ով">
 <!ENTITY sendHTML.accesskey           "S">
-<!ENTITY sendBoth.label               "Send the message in both plain text and HTML">
+<!ENTITY sendBoth.label               "Նամակը ուղարկել և՛ սովորական տեքստով, և՛ HTML-ով">
 <!ENTITY sendBoth.accesskey           "e">
-<!ENTITY override.label               "Note: Use the Address Book to specify preferred text formats for recipients.">
+<!ENTITY override.label               "Հուշում. Օգտագործեք Հասցեագիրքը՝ ստացողին ուղարկվող նամակի տեսակի համար։">
 
-<!ENTITY domaindesc.label             "When you send a message to an address with one of the domain names listed below, &brandShortName; automatically sends the message in the correct format.">
-<!ENTITY HTMLTab.label                "HTML Domains">
+<!ENTITY domaindesc.label             "Եթե նամակ եք ուղարկում տիրույթների հետևյալ ցանկից որևէ մեկին, ապա &brandShortName;-ը այն կուղարկի պահանջվող ձևով։">
+<!ENTITY HTMLTab.label                "HTML տիրույթներ">
 <!ENTITY HTMLTab.accesskey            "H">
-<!ENTITY PlainTextTab.label           "Plain Text Domains">
+<!ENTITY PlainTextTab.label           "Սովորական տեքստի տիրույթներ">
 <!ENTITY PlainTextTab.accesskey       "P">
-<!ENTITY AddHtmlDomain.label          "Add…">
+<!ENTITY AddHtmlDomain.label          "Ավելացնել...">
 <!ENTITY AddHtmlDomain.accesskey      "A">
-<!ENTITY AddPlainText.label           "Add…">
+<!ENTITY AddPlainText.label           "Ավելացնել...">
 <!ENTITY AddPlainText.accesskey       "A">
-<!ENTITY DeleteHtmlDomain.label       "Delete">
+<!ENTITY DeleteHtmlDomain.label       "Ջնջել">
 <!ENTITY DeleteHtmlDomain.accesskey   "D">
-<!ENTITY DeletePlainText.label        "Delete">
+<!ENTITY DeletePlainText.label        "Ջնջել">
 <!ENTITY DeletePlainText.accesskey    "D">
 
-<!ENTITY add.htmltitle                "Add HTML Domain Name">
-<!ENTITY add.htmldomain               "HTML Domain Name:">
-<!ENTITY add.plaintexttitle           "Add Plain Text Domain Name">
+<!ENTITY add.htmltitle                "Ավելացնել HTML տիրույթի անունը">
+<!ENTITY add.htmldomain               "HTML տիրույթի անունը.">
+<!ENTITY add.plaintexttitle           "Ավելացնել Սովորական տեքստի տիրույթի անունը">
+<!ENTITY add.plaintextdomain          "Սովորական տեքստի տիրույթի անունը.">
+

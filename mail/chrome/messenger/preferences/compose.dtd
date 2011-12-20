@@ -1,56 +1,58 @@
-<!ENTITY itemGeneral.label                   "General">
-<!ENTITY itemAutoComplete.label              "Addressing">
-<!ENTITY itemSpellCheck.label                "Spelling">
+<!ENTITY itemGeneral.label                   "Գլխավորը">
+<!ENTITY itemAutoComplete.label              "Հասցեն">
+<!ENTITY itemSpellCheck.label                "Ուղղագրությունը">
 
-<!ENTITY forwardMsg.label                     "Forward messages:">
+<!ENTITY forwardMsg.label                     "Փոխանցել նամակները՝">
 <!ENTITY forwardMsg.accesskey                 "F">
-<!ENTITY inline.label                         "Inline">
-<!ENTITY asAttachment.label                   "As Attachment">
-<!ENTITY addExtension.label                   "add extension to file name">
+<!ENTITY inline.label                         "Ներսում">
+<!ENTITY asAttachment.label                   "Որպես կցորդ">
+<!ENTITY addExtension.label                   "ավելացնել բացառություն ֆայլի անվանը">
 <!ENTITY addExtension.accesskey               "e">
 
 <!ENTITY htmlComposeHeader.label              "HTML">
-<!ENTITY font.label                           "Font:">
+<!ENTITY font.label                           "Տառը.">
 <!ENTITY font.accesskey                       "n">
-<!ENTITY size.label                           "Size:">
+<!ENTITY size.label                           "Չափը.">
 <!ENTITY size.accesskey                       "z">
-<!ENTITY fontColor.label                      "Text Color:">
+<!ENTITY fontColor.label                      "Տեքստի գույնը.">
 <!ENTITY fontColor.accesskey                  "T">
-<!ENTITY bgColor.label                        "Background Color:">
+<!ENTITY bgColor.label                        "Խորապատկերի գույնը.">
 <!ENTITY bgColor.accesskey                    "B">
-<!ENTITY restoreHTMLDefaults.label            "Restore Defaults">
+<!ENTITY restoreHTMLDefaults.label            "Ըստ ծրագրայինի">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
 
-<!ENTITY spellCheck.label                     "Check spelling before sending">
+<!ENTITY spellCheck.label                     "Ուղարկելուց առաջ ստուգել ուղղագրությունը">
 <!ENTITY spellCheck.accesskey                 "C">
-<!ENTITY spellCheckInline.label               "Enable spell check as you type">
+<!ENTITY spellCheckInline.label               "Միացնել ուղղագրության ստուգումը">
 <!ENTITY spellCheckInline1.accesskey          "E">
-<!ENTITY languagePopup.label                  "Language:">
-<!ENTITY languagePopup.accessKey              "L">
-<!ENTITY downloadDictionaries.label           "Download More Dictionaries">
+<!ENTITY languagePopup.label                  "Լեզուն.">
+<!ENTITY languagePopup.accessKey              "Լ">
+<!ENTITY downloadDictionaries.label           "Բեռնել բառարաններ">
 
-<!ENTITY warnOnSendAccelKey.label             "Confirm when using keyboard shortcut to send message">
+<!ENTITY warnOnSendAccelKey.label             "Հաստատել՝ նամակը ուղարկելիս հիմնաբառի պիտակը օգտ.">
 <!ENTITY warnOnSendAccelKey.accesskey         "C">
-<!ENTITY autoSave.label                       "Auto Save every">
+<!ENTITY autoSave.label                       "Պահպանել ամեն՝">
 <!ENTITY autoSave.accesskey                   "A">
 <!ENTITY autoSaveEnd.label                    "րոպե">
 
-<!ENTITY emailCollectionPicker.label           "Automatically add outgoing e-mail addresses to my:">
+<!ENTITY emailCollectionPicker.label           "Միանգամից ավելացնել ելքային հասցեները իմ՝">
 <!ENTITY emailCollectionPicker.accesskey       "A">
-<!ENTITY addressingTitle.label                 "Address Autocompletion">
-<!ENTITY autocompleteText.label                "When addressing messages, look for matching entries in:">
-<!ENTITY addressingEnable.label                "Local Address Books">
+<!ENTITY addressingTitle.label                 "Հասցեի ինքնալրացում">
+<!ENTITY autocompleteText.label                "Նամակները հասցեավորելիս, նայել համապատասխանեցումը.">
+<!ENTITY addressingEnable.label                "Հասցեագրքում">
 <!ENTITY addressingEnable.accesskey            "L">
-<!ENTITY directories.label                     "Directory Server:">
+<!ENTITY directories.label                     "Սպասարկիչում.">
 <!ENTITY directories.accesskey                 "D">
-<!ENTITY directoriesNone.label                 "None">
-<!ENTITY editDirectories.label                 "Edit Directories…">
+<!ENTITY directoriesNone.label                 "Ոչինչ">
+<!ENTITY editDirectories.label                 "Խմբագրել թղթապանակները...">
 <!ENTITY editDirectories.accesskey             "E">
 
-<!ENTITY sendOptionsDescription.label          "Configure text format behavior">
-<!ENTITY sendOptions.label                     "Send Options…">
+<!ENTITY sendOptionsDescription.label          "Կարգավորել տեքստայինի վարքը">
+<!ENTITY sendOptions.label                     "Ուղարկելու ընտրանքներ...">
 <!ENTITY sendOptions.accesskey                 "S">
 
-<!ENTITY attachmentReminder.label              "Check for missing attachments">
+<!ENTITY attachmentReminder.label              "Ստուգել բացակայող կցորդները">
 <!ENTITY attachmentReminder.accesskey          "m">
-<!ENTITY attachmentReminderOptions.label       "Keywords…">
+<!ENTITY attachmentReminderOptions.label       "Հիմնաբառեր...">
+<!ENTITY attachmentReminderOptions.accesskey   "K">
+

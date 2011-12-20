@@ -4,3 +4,5 @@
 <!ENTITY removeButton.label "Հեռացնել">
 <!ENTITY removeButton.accesskey "R">
 <!ENTITY newMsgHeader.label "Նոր նամակի գլխագիրը.">
+<!ENTITY newMsgHeader.accesskey "N">
+

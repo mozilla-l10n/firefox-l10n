@@ -69,9 +69,11 @@
 <!ENTITY abbreviateOff.label "Կրճատ անունները (օրինակ՝  'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Ընդլայնված...">
 <!ENTITY advancedButton.accesskey "v">
-<!ENTITY serverDefaultCharset.label "Default Character Encoding:">
+<!ENTITY serverDefaultCharset.label "Գրանշանների ծրագրային կոդավորումը.">
 <!ENTITY localFolderPicker.label "Ընտրեք լոկալ թղթապանակը">
 <!ENTITY browseFolder.label "Browse…">
 <!ENTITY browseFolder.accesskey "B">
 <!ENTITY newsrcPicker.label "Ընտրեք newsrc ֆայլը">
 <!ENTITY browseNewsrc.label "Ընտրել…">
+<!ENTITY browseNewsrc.accesskey "e">
+
