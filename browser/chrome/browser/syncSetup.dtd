@@ -4,8 +4,7 @@
 
 <!ENTITY setup.pickSetupType.description "স্বাগতম, যদি আপুনি  আগতে &syncBrand.fullName.label; ব্যৱহাৰ কৰা নাই , আপুনি এটা নতুন একাওন্ট সৃষ্টি কৰিব লাগিব।">
 <!ENTITY button.createNewAccount.label "এটা নতুন একাওন্ট সৃষ্টি কৰক">
-<!ENTITY setup.haveAccount.label "মোৰ ইতিমধ্যে এটা &syncBrand.fullName.label; একাওন্ট আছে।">
-<!ENTITY button.connect.label    "সংযোগ কৰক">
+<!ENTITY button.haveAccount.label      "মোৰ এটা একাওন্ট আছে">
 
 <!ENTITY setup.choicePage.title.label     "আপুনি আগতে &syncBrand.fullName.label; ব্যৱহাৰ কৰিছে নে?">
 <!ENTITY setup.choicePage.new.label       "মই আগতে কেতিয়াও &syncBrand.shortName.label; ব্যৱহাৰ কৰা নাই">
@@ -24,12 +23,12 @@
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "একাওন্ট বিৱৰণসমূহ">
-<!ENTITY setup.confirmPassword.label  "পাছৱাৰ্ড সুনিশ্চিত কৰক">
-<!ENTITY setup.confirmPassword.accesskey  "m">
-<!ENTITY setup.choosePassword.label      "এটা পাছৱাৰ্ড নিৰ্বাচন কৰক">
-<!ENTITY setup.choosePassword.accesskey  "P">
 <!ENTITY setup.emailAddress.label     "ই-মেইল ঠিকনা">
 <!ENTITY setup.emailAddress.accesskey "E">
+<!ENTITY setup.choosePassword.label      "এটা পাছৱাৰ্ড নিৰ্বাচন কৰক">
+<!ENTITY setup.choosePassword.accesskey  "P">
+<!ENTITY setup.confirmPassword.label  "পাছৱাৰ্ড সুনিশ্চিত কৰক">
+<!ENTITY setup.confirmPassword.accesskey  "m">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
 <!ENTITY setup.tosAgree1.label      "মই  সেৱাৰ চুক্তিসমূহ">
@@ -40,7 +39,7 @@
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 
-<!-- New Account Page 2: Sync Key -->
+<!-- My Recovery Key dialog -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; -এ আপোনাৰ গোপনীয়তাৰ বিষয়ে চিন্তা কৰে">
 <!ENTITY setup.newRecoveryKeyPage.description.label "আপোনাৰ সম্পূৰ্ণ গোপনীয়তা সুনিশ্চিত কৰিবলে, আপোনাৰ সকলো তথ্য আপল'ড কৰাৰ আগত ইনক্ৰিপ্ট কৰা হয়। আপোনাৰ তথ্য ডিক্ৰিপ্ট কৰিবলে প্ৰয়োজনীয় উদ্ধাৰ চাবি আপল'ড কৰা নহয়।">
 <!ENTITY recoveryKeyEntry.label        "আপোনাৰ উদ্ধাৰ চাবি">
@@ -53,18 +52,16 @@
 <!ENTITY button.syncKeyBackup.save.label      "সঞ্চয় কৰক…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
 
-<!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "আপুনি সুনিশ্চিত কৰক যে আপুনি এটা ৰবট নহয়">
-<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "এটা ডিভাইচ যোগ কৰক">
+<!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
+<!ENTITY pairDevice.title.label             "এটা ডিভাইচ সংযুক্ত কৰক">
 <!ENTITY addDevice.showMeHow.label          "মোক দেখুৱাওক কেনেকে।">
 <!ENTITY addDevice.dontHaveDevice.label     "মোৰ উচৰত ডিভাইচটো নাই">
-<!ENTITY addDevice.setup.description.label  "সক্ৰিয় কৰিবলে,  আপোনাৰ অন্য ডিভাইচত থকা &syncBrand.shortName.label;   &#x0022;Add এটা ডিভাইচ&#x0022;.">
-<!ENTITY addDevice.setup.enterCode.label    "তাৰ পিচত, এই কোডটো সোমাওক:">
-<!ENTITY addDevice.dialog.description.label "আপোনাৰ নতুন ডিভাইচ সক্ৰিয় কৰিবলে,  ডিভাইচটোত থকা &syncBrand.shortName.label; বিকল্পসমূহলে যাওক আৰু বাচক &#x0022;Connect.&#x0022;">
-<!ENTITY addDevice.dialog.enterCode.label   "ডিভাইচে যোগান দিয়া কোড সোমাওক:">
+<!ENTITY pairDevice.setup.description.label  "সক্ৰিয় কৰিবলে, আপোনাৰ অন্য ডিভাইচত  &#x0022;Pair  এটা ডিভাইচ&#x0022; নিৰ্বাচন কৰক।">
+<!ENTITY addDevice.setup.enterCode.label    "তাৰ পিচত, এই ক'ডটো সোমাওক:">
+<!ENTITY pairDevice.dialog.description.label "আপোনাৰ নতুন ডিভাইচ সক্ৰিয় কৰিবলে, ডিভাইচত  &#x0022;Set আপ সংমিহলি&#x0022; নিৰ্বাচন কৰক।">
+<!ENTITY addDevice.dialog.enterCode.label   "ডিভাইচে যোগান দিয়া ক'ড সোমাওক:">
 <!ENTITY addDevice.dialog.tryAgain.label    "অনুগ্ৰহ কৰি পুনৰ চেষ্টা কৰক।">
-<!ENTITY addDevice.dialog.successful.label  "ডিভাইচটো সফলভাৱে যোগ কৰা হল। আৰম্ভনীৰ সংমিহলী বহু সময় লব পাৰে পটভূমিত সমাপ্ত হব।">
+<!ENTITY addDevice.dialog.successful.label  "ডিভাইচটো সফলভাৱে যোগ কৰা হল। আৰম্ভণিৰ সংমিহলি বহু সময় লব পাৰে পটভূমিত সমাপ্ত হব।">
 <!ENTITY addDevice.dialog.recoveryKey.label     "আপোনাৰ ডিভাইচ সক্ৰিয় কৰিবলে আপুনি আপোনাৰ উদ্ধাৰ চাবি সোমাব লাগিব। অনুগ্ৰহ কৰি এই চাবিক প্ৰিন্ট কৰক বা সংৰক্ষণ কৰক আৰু আপোনাৰ লগত ৰাখক।">
 <!ENTITY addDevice.dialog.connected.label   "ডিভাইচ সংযোগিত">
 
@@ -76,11 +73,11 @@
 <!ENTITY resetSyncKey.label           "মই মোৰ অন্য ডিভাইচ হেৰাই পেলাইছো">
 
 <!-- Sync Options -->
-<!ENTITY setup.optionsPage.title      "সংমিহলী বিকল্পসমূহ">
+<!ENTITY setup.optionsPage.title      "সংমিহলি বিকল্পসমূহ">
 <!ENTITY syncComputerName.label       "কমপিউটাৰ নাম:">
 <!ENTITY syncComputerName.accesskey   "c">
 
-<!ENTITY syncMy.label               "সংমিহলী কৰক মোৰ">
+<!ENTITY syncMy.label               "সংমিহলি কৰক মোৰ">
 <!ENTITY engine.bookmarks.label     "পত্ৰচিহ্নসমূহ">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label          "টেবসমূহ">
@@ -99,12 +96,12 @@
 
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "সুনিশ্চিত কৰক">
-<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; -এ এতিয়া এই কমপিউটাৰৰ সকলো ব্ৰাউছাৰ তথ্য আপোনাৰ সংমিহলী একাওন্টৰ লগত একত্ৰিকৰণ কৰিব।">
+<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; -এ এতিয়া এই কমপিউটাৰৰ সকলো ব্ৰাউছাৰ তথ্য আপোনাৰ সংমিহলি একাওন্টৰ লগত একত্ৰিকৰণ কৰিব।">
 <!ENTITY confirm.client2.label         "সতৰ্কবাৰ্তা: এই কমপিউটাৰত থকা নিম্নলিখিত &brandShortName;তথ্য মচি দিয়া হব:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; -এ আপোনাৰ &syncBrand.fullName.label; তথ্য এই কমপিউটাৰত কপি কৰিব।">
 <!ENTITY confirm.server2.label         "সতৰ্কবাৰ্তা: নিম্নলিখিত ডিভাইচসমূহ আপোনাৰ স্থানীয় তথ্যৰে পুনৰ লিখিত হব:">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "সংস্থাপন সমপূৰ্ণ">
-<!ENTITY changeOptions.label "আপুনি এই পছন্দ তলত থকা সংমিহলী বিকল্পসমূহ বাচি সলনি কৰিব পাৰিব।">
+<!ENTITY changeOptions.label "আপুনি এই পছন্দ তলত থকা সংমিহলি বিকল্পসমূহ বাচি সলনি কৰিব পাৰিব।">
 <!ENTITY continueUsing.label "আপুনি এতিয়া  &brandShortName; ব্যৱহাৰ কৰি আগবাঢ়িব পাৰিব।">
