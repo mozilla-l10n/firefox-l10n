@@ -29,6 +29,8 @@
 <!ENTITY engine.passwords.accesskey "p">
 <!ENTITY engine.prefs.label         "les préférences">
 <!ENTITY engine.prefs.accesskey     "s">
+<!ENTITY engine.addons.label        "les modules complémentaires">
+<!ENTITY engine.addons.accesskey    "u">
 
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label       "Nom de l'ordinateur :">
