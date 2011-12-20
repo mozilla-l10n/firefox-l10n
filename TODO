@@ -28,3 +28,18 @@ M toolkit/chrome/global/headsUpDisplay.properties
 ? dom/chrome/layout/htmlparser.properties
 ? editor/ui/chrome/composer/editingOverlay.dtd
 
+
+M mail/chrome/messenger-region/region.properties
+M mail/chrome/messenger/accountCreation.dtd
+M mail/chrome/messenger/addressbook/abMainWindow.dtd
+M mail/chrome/messenger/glodaComplete.properties
+M mail/chrome/messenger/messenger.dtd
+M mail/chrome/messenger/messenger.properties
+M mail/chrome/messenger/messengercompose/messengercompose.dtd
+M mail/chrome/messenger/msgHdrViewOverlay.dtd
+M mail/chrome/messenger/prefs.properties
+M mail/chrome/messenger/templateUtils.properties
+M mail/chrome/overrides/netError.dtd
+? mail/chrome/messenger/newmailaccount/accountProvisioner.dtd
+? mail/chrome/messenger/newmailaccount/accountProvisioner.properties
+
