@@ -39,7 +39,7 @@
 <!ENTITY connectionDesc.label            "Configurar cómo se coneuta &brandShortName; a Internet">
 <!ENTITY connectionSettings.label        "Configuración…">
 <!ENTITY connectionSettings.accesskey    "o">
-
+<!ENTITY httpCache.label                 "Conteníu web na caché">
 <!ENTITY offlineStorage2.label            "Conteníu web y datos d'usuariu en mou ensin conexón">
 <!ENTITY limitCacheSizeBefore.label "Llimitar el caché a">
 <!ENTITY limitCacheSizeBefore.accesskey "m">

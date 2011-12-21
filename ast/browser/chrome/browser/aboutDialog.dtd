@@ -3,10 +3,17 @@
 <!ENTITY community.mozillaLink "&vendorShortName;">
 <!ENTITY community.middle2 ", una ">
 <!ENTITY community.creditsLink "comunidá global">
-<!ENTITY community.end2 " que trabaya xunida pa facer un internet meyor. Creemos qu'Internet tendría de ser abierta, pública y accesible pa toos ensin denguna restricción.">
+<!ENTITY community.end3 " que trabaya xunida pa caltener la Web abierta, pública y accesible pa toos.">
 <!ENTITY contribute.start "¿Suénate interesante? ">
 <!ENTITY contribute.getInvolvedLink "¡Xúnite a nós!">
 <!ENTITY contribute.end "">
+<!ENTITY community.exp.start "">
+<!ENTITY community.exp.mozillaLink "&vendorShortName;">
+<!ENTITY community.exp.middle " ye una ">
+<!ENTITY community.exp.creditsLink "comunidá global">
+<!ENTITY community.exp.end " que trabaya xunida pa caltener la Web abierta, pública y accesible pa toos.">
+<!ENTITY warningDesc.version "&brandShortName; ye esperimental y pue ser inestable.">
+<!ENTITY warningDesc.telemetry "Automáticamente unvia información de test a &vendorShortName; pa facer &brandShortName; meyor.">
 <!ENTITY bottomLinks.license "Información de llicencia">
 <!ENTITY bottomLinks.rights "Derechos del usuariu final">
 <!ENTITY bottomLinks.privacy "Política de privacidá">
