@@ -161,8 +161,14 @@
 <!ENTITY inspectButton.label "Исследовать">
 <!ENTITY inspectButton.accesskey "с">
 <!ENTITY inspectCloseButton.tooltiptext "Закрыть Инспектор">
+<!ENTITY inspect3DButton.label "3D">
+<!ENTITY inspect3DButton.accesskey "M">
 <!ENTITY inspectStyleButton.label "Стиль">
 <!ENTITY inspectStyleButton.accesskey "и">
+<!ENTITY styleeditor.label "Редактор стилей">
+<!ENTITY styleeditor.accesskey "д">
+<!ENTITY styleeditor.keycode "VK_F7">
+<!ENTITY styleeditor.keytext "F7">
 <!ENTITY getMoreDevtoolsCmd.label "Другие инструменты">
 <!ENTITY getMoreDevtoolsCmd.accesskey "у">
 <!ENTITY fileMenu.label "Файл">
@@ -331,13 +337,13 @@
 <!ENTITY mediaPause.label "Приостановить">
 <!ENTITY mediaPause.accesskey "с">
 <!ENTITY mediaMute.label "Убрать звук">
-<!ENTITY mediaMute.accesskey "б">
+<!ENTITY mediaMute.accesskey "т">
 <!ENTITY mediaUnmute.label "Восстановить звук">
 <!ENTITY mediaUnmute.accesskey "т">
 <!ENTITY mediaShowControls.label "Показать пульт управления">
-<!ENTITY mediaShowControls.accesskey "а">
+<!ENTITY mediaShowControls.accesskey "п">
 <!ENTITY mediaHideControls.label "Скрыть пульт управления">
-<!ENTITY mediaHideControls.accesskey "к">
+<!ENTITY mediaHideControls.accesskey "п">
 <!ENTITY videoFullScreen.label "Полный экран">
 <!ENTITY videoFullScreen.accesskey "л">
 <!ENTITY videoSaveImage.label "Сохранить кадр как…">

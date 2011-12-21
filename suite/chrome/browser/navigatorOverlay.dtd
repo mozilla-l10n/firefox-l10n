@@ -1,5 +1,5 @@
 <!ENTITY tabCmd.label "Новая вкладка">
-<!ENTITY tabCmd.accesskey "в">
+<!ENTITY tabCmd.accesskey "а">
 <!ENTITY tabCmd.commandkey "t">
 <!ENTITY openCmd.label "Открыть адрес в Интернете…">
 <!ENTITY openCmd.accesskey "ы">
@@ -8,7 +8,7 @@
 <!ENTITY openFileCmd.accesskey "к">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY closeOtherTabs.label "Закрыть другие вкладки">
-<!ENTITY closeOtherTabs.accesskey "ы">
+<!ENTITY closeOtherTabs.accesskey "а">
 <!ENTITY uploadFile.label "Выгрузить файл…">
 <!ENTITY uploadFile.accesskey "ф">
 <!ENTITY printSetupCmd.label "Параметры страницы…">
@@ -17,11 +17,11 @@
 <!ENTITY toolbarsCmd.label "Показать/скрыть">
 <!ENTITY toolbarsCmd.accesskey "о">
 <!ENTITY tabbarCmd.label "Панель вкладок">
-<!ENTITY tabbarCmd.accesskey "в">
+<!ENTITY tabbarCmd.accesskey "а">
 <!ENTITY taskbarCmd.label "Строка состояния">
 <!ENTITY taskbarCmd.accesskey "т">
 <!ENTITY componentbarCmd.label "Панель компонентов">
-<!ENTITY componentbarCmd.accesskey "е">
+<!ENTITY componentbarCmd.accesskey "н">
 <!ENTITY fullScreenCmd.label "Полный экран">
 <!ENTITY fullScreenCmd.accesskey "э">
 <!ENTITY useStyleSheetMenu.label "Использовать стиль">
@@ -29,9 +29,9 @@
 <!ENTITY useStyleSheetNone.label "Нет">
 <!ENTITY useStyleSheetNone.accesskey "е">
 <!ENTITY useStyleSheetPersistentOnly.label "Основной стиль">
-<!ENTITY useStyleSheetPersistentOnly.accesskey "н">
+<!ENTITY useStyleSheetPersistentOnly.accesskey "с">
 <!ENTITY bidiSwitchPageDirectionItem.label "Переключить направление текста">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey "н">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey "ю">
 <!ENTITY pageSourceCmd.label "Исходный код страницы">
 <!ENTITY pageSourceCmd.accesskey "х">
 <!ENTITY pageSourceCmd.commandkey "u">
@@ -46,7 +46,7 @@
 <!ENTITY historyCmd.accesskey "у">
 <!ENTITY history.commandKey "h">
 <!ENTITY recentTabs.label "Недавно закрытые вкладки">
-<!ENTITY recentTabs.accesskey "е">
+<!ENTITY recentTabs.accesskey "а">
 <!ENTITY recentTabs.commandkey "t">
 <!ENTITY recentWindows.label "Недавно закрытые окна">
 <!ENTITY recentWindows.accesskey "д">
@@ -54,11 +54,11 @@
 <!ENTITY historyRestoreLastSession.label "Восстановить предыдущую сессию">
 <!ENTITY historyRestoreLastSession.accesskey "с">
 <!ENTITY syncTabsMenu.label "Вкладки с других компьютеров">
-<!ENTITY syncTabsMenu.accesskey "O">
+<!ENTITY syncTabsMenu.accesskey "л">
 <!ENTITY bookmarksMenu.label "Закладки">
 <!ENTITY bookmarksMenu.accesskey "к">
 <!ENTITY addCurPageCmd.label "Добавить страницу в закладки">
-<!ENTITY addCurPageCmd.accesskey "а">
+<!ENTITY addCurPageCmd.accesskey "к">
 <!ENTITY addCurPageAsCmd.label "Создать закладку…">
 <!ENTITY addCurPageAsCmd.accesskey "д">
 <!ENTITY addCurPageAsCmd.commandkey "d">
@@ -74,40 +74,40 @@
 <!ENTITY translateMenu.accesskey "р">
 <!ENTITY cookieMessageTitle.label "Изменились права на сохранение кук">
 <!ENTITY cookieDisplayCookiesCmd.label "Управление сохранёнными куками">
-<!ENTITY cookieDisplayCookiesCmd.accesskey "У">
+<!ENTITY cookieDisplayCookiesCmd.accesskey "п">
 <!ENTITY cookieAllowCookiesCmd.label "Разблокировать куки с этого веб-сайта">
-<!ENTITY cookieAllowCookiesCmd.accesskey "Р">
+<!ENTITY cookieAllowCookiesCmd.accesskey "б">
 <!ENTITY cookieAllowCookiesMsg.label "Куки этого веб-сайта больше не будут блокироваться.">
 <!ENTITY cookieAllowSessionCookiesCmd.label "Разрешить куки с этого веб-сайта на один сеанс">
-<!ENTITY cookieAllowSessionCookiesCmd.accesskey "е">
+<!ENTITY cookieAllowSessionCookiesCmd.accesskey "ш">
 <!ENTITY cookieAllowSessionCookiesMsg.label "Веб-сайт сможет сохранять куки только на один сеанс.">
 <!ENTITY cookieCookiesDefaultCmd.label "Права по умолчанию">
-<!ENTITY cookieCookiesDefaultCmd.accesskey "П">
+<!ENTITY cookieCookiesDefaultCmd.accesskey "в">
 <!ENTITY cookieCookiesDefaultMsg.label "Куки с этого веб-сайта будут сохраняться на основе настроек по умолчанию.">
 <!ENTITY cookieBlockCookiesCmd.label "Блокировать куки с этого веб-сайта">
-<!ENTITY cookieBlockCookiesCmd.accesskey "Б">
+<!ENTITY cookieBlockCookiesCmd.accesskey "л">
 <!ENTITY cookieBlockCookiesMsg.label "Куки этого веб-сайта всегда будут отклоняться.">
 <!ENTITY cookieImageMessageTitle.label "Изменились права на загрузку изображений">
 <!ENTITY cookieDisplayImagesCmd.label "Управление правами на загрузку изображений">
-<!ENTITY cookieDisplayImagesCmd.accesskey "У">
+<!ENTITY cookieDisplayImagesCmd.accesskey "п">
 <!ENTITY cookieAllowImagesCmd.label "Разблокировать изображения с этого веб-сайта">
-<!ENTITY cookieAllowImagesCmd.accesskey "Р">
+<!ENTITY cookieAllowImagesCmd.accesskey "б">
 <!ENTITY cookieAllowImagesMsg.label "Изображения этого веб-сайта всегда будут загружаться.">
 <!ENTITY cookieImagesDefaultCmd.label "Права по умолчанию">
-<!ENTITY cookieImagesDefaultCmd.accesskey "П">
+<!ENTITY cookieImagesDefaultCmd.accesskey "в">
 <!ENTITY cookieImagesDefaultMsg.label "Изображения с этого веб-сайта будут загружаться на основе настроек по умолчанию.">
 <!ENTITY cookieBlockImagesCmd.label "Блокировать изображения с этого веб-сайта">
-<!ENTITY cookieBlockImagesCmd.accesskey "Б">
+<!ENTITY cookieBlockImagesCmd.accesskey "л">
 <!ENTITY cookieBlockImagesMsg.label "Изображения этого веб-сайта никогда не будут загружаться.">
 <!ENTITY cookieAllowPopupsCmd.label "Разрешить всплывающие окна с этого веб-сайта">
-<!ENTITY cookieAllowPopupsCmd.accesskey "Р">
+<!ENTITY cookieAllowPopupsCmd.accesskey "з">
 <!ENTITY cookieManagePopups.label "Управление веб-сайтами со всплывающими окнами">
-<!ENTITY cookieManagePopups.accesskey "У">
+<!ENTITY cookieManagePopups.accesskey "п">
 <!ENTITY cookieCookieManager.label "Управление куками">
-<!ENTITY cookieCookieManager.accesskey "е">
+<!ENTITY cookieCookieManager.accesskey "н">
 <!ENTITY cookieImageManager.label "Управление изображениями">
 <!ENTITY cookieImageManager.accesskey "и">
 <!ENTITY cookiePopupManager.label "Управление всплывающими окнами">
-<!ENTITY cookiePopupManager.accesskey "н">
+<!ENTITY cookiePopupManager.accesskey "а">
 <!ENTITY clearPrivateDataCmd.label "Стереть личные данные…">
-<!ENTITY clearPrivateDataCmd.accesskey "т">
+<!ENTITY clearPrivateDataCmd.accesskey "е">
