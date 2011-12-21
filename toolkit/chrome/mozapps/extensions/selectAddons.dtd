@@ -3,7 +3,7 @@
 <!ENTITY checking.heading            "Po kontrollohen Shtesat Tuaja">
 <!ENTITY checking.progress.label     "Shtesat tuaja po kontrollohen për përputhshmëri me këtë version të &brandShortName;-it.">
 
-<!ENTITY select.heading              "Përzgjidhni ShtesaSelect">
+<!ENTITY select.heading              "Përzgjidhni Shtesa">
 <!-- LOCALIZATION NOTE (select.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
 <!ENTITY select.description          "Bëjeni &brandShortName;-in edhe më të shpejtë, duke çaktivizuar shtesat që nuk  i përdorni më. Shtesat e instaluara tashmë nga palë të treta do të çaktivizohen vetvetiu, po qe se nuk i përzgjidhni më poshtë.">
