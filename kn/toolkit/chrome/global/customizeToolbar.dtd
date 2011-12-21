@@ -1,5 +1,5 @@
 <!ENTITY dialog.title "ಉಪಕರಣಪಟ್ಟಿಯನ್ನು ನನ್ನಿಚ್ಛೆಗೆ ತಕ್ಕಂತೆ ಹೊಂದಿಸು">
-<!ENTITY dialog.style "width: 635px; height: 400px;">
+<!ENTITY dialog.style "width: 86ch; height: 36em;">
 <!ENTITY instructions.description "ಉಪಕರಣ ಪಟ್ಟಿಗಳಿಂದ ಸೆಳೆಯುವುದು ಅಥವ  ಹಾಕುವುದರ ಮೂಲಕ ಅದಕ್ಕೆ ಸೇರ್ಪಡಿಸಬಹುದು ಅಥವ  ಅದರಿಂದ ತೆಗೆದು ಹಾಕಬಹುದು.">
 <!ENTITY show.label               "ತೋರಿಸು:">
 <!ENTITY iconsAndText.label       "ಲಾಂಛನಗಳು ಹಾಗು ಪಠ್ಯ">

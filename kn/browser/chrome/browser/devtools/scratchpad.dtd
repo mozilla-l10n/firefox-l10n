@@ -98,26 +98,16 @@
 <!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
-<!ENTITY resetContext.label           "ಮರುಹೊಂದಿಸು">
-<!ENTITY resetContext.accesskey       "R">
-
 <!ENTITY executeMenu.label            "ಕಾರ್ಯಗತಗೊಳಿಸು">
 <!ENTITY executeMenu.accesskey        "X">
 
-<!ENTITY toolsMenu.label              "ಉಪಕರಣಗಳು">
-<!ENTITY toolsMenu.accesskey          "T">
-
-<!ENTITY errorConsoleCmd.label        "ದೋಷ ಕನ್ಸೋಲ್">
-<!ENTITY errorConsoleCmd.accesskey    "C">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY webConsoleCmd.label          "ಜಾಲ ಕನ್ಸೋಲ್">
-<!ENTITY webConsoleCmd.accesskey      "W">
 <!ENTITY webConsoleCmd.commandkey     "k">
 
 <!-- LOCALIZATION NOTE (textbox.placeholder1): This is some placeholder text
   -  that appears when the Scratchpad's text area is empty and unfocused.
   -  It should be a one-line JavaScript comment, i.e., preceded by '//'
   -->
-<!ENTITY textbox.placeholder1         "// ಒಂದು ಜಾವಾಸ್ಕ್ರಿಪ್ಟನ್ನು ನಮೂದಿಸಿ, ಅದನ್ನು ಆರಿಸಿ, ಮೌಸ್‌ನ ಬಲಗುಂಡಿಯನ್ನು ಒತ್ತಿ ಹಾಗು ಚಲಾಯಿಸು, ಪರಿಶೀಲಿಸು ಅಥವ ಪ್ರದರ್ಶಿಸು ಅನ್ನು ಆರಿಸಿ.">
+<!--ENTITY textbox.placeholder1         "// ಒಂದು ಜಾವಾಸ್ಕ್ರಿಪ್ಟನ್ನು ನಮೂದಿಸಿ, ಅದನ್ನು ಆರಿಸಿ, ಮೌಸ್‌ನ ಬಲಗುಂಡಿಯನ್ನು ಒತ್ತಿ ಹಾಗು ಚಲಾಯಿಸು, ಪರಿಶೀಲಿಸು ಅಥವ ಪ್ರದರ್ಶಿಸು ಅನ್ನು ಆರಿಸಿ."-->
 
