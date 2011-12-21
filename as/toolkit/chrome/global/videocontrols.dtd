@@ -1,10 +1,26 @@
-<!ENTITY playButton.playLabel "বজাওক">
+<!ENTITY playButton.playLabel "চলাওক">
 <!ENTITY playButton.pauseLabel "ৰখক">
-<!ENTITY muteButton.muteLabel "মিউট">
-<!ENTITY muteButton.unmuteLabel "আন-মিউট">
+<!ENTITY muteButton.muteLabel "মৌন কৰক">
+<!ENTITY muteButton.unmuteLabel "অমৌন কৰক">
+
+<!ENTITY stats.media "মাধ্যম">
+<!ENTITY stats.size "আকাৰ">
+<!ENTITY stats.activity "কাৰ্য্য">
+<!ENTITY stats.activityPaused "ৰখোৱা হল">
+<!ENTITY stats.activityPlaying "চলোৱা হৈ আছে">
+<!ENTITY stats.activityEnded "সমাপ্ত কৰা হল">
+<!ENTITY stats.activitySeeking "(বিচৰা হৈছে)">
+<!ENTITY stats.volume "ভলিউম">
+<!ENTITY stats.channels "চেনেলসমূহ">
+<!ENTITY stats.sampleRate "নমুনাৰ হাৰ">
+<!ENTITY stats.framesParsed "বিশ্লেষিত ফ্ৰেইমসমূহ">
+<!ENTITY stats.framesDecoded "ডিক'ড কৰা ফ্ৰেইমসমূহ">
+<!ENTITY stats.framesPresented "প্ৰদৰ্শন কৰা ফ্ৰেইমসমূহ">
+<!ENTITY stats.framesPainted "ৰঙ কৰা ফ্ৰেইমসমূহ">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
-"6:00:00", result string would be "5:00 of 6:00:00 elapsed". -->
-<!ENTITY scrubberScale.nameFormat "#1, #2 ৰ  হৈ গ'ল">
+"6:00:00", result string would be "5:00 of 6:00:00 elapsed". 
+-->
+<!ENTITY scrubberScale.nameFormat "#1, #2  -ৰ  হৈ গ'ল">
