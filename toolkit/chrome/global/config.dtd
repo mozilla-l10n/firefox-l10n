@@ -43,9 +43,9 @@
 <!ENTITY aboutWarningButton.label "Tendré curiáu, ¡prométolo!">
 <!ENTITY aboutWarningCheckbox.label "Amosar esti avisu la próxima vegada">
 
-<!ENTITY filterPrefs.label "Fieltru:">
-<!ENTITY filterPrefs.accesskey "F">
-<!ENTITY focusFilter.key "f">
+<!ENTITY searchPrefs.label "Guetar:">
+<!ENTITY searchPrefs.accesskey "r">
+<!ENTITY focusSearch.key "r">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "Nome de la preferencia">

@@ -1,5 +1,6 @@
 <!ENTITY addons.windowTitle "Alministrador de complementos">
 <!ENTITY search.placeholder "Guetar complementos">
+<!ENTITY search.commandkey "f">
 <!ENTITY loading.label "Cargando…">
 <!ENTITY listEmpty.installed.label "Nun tienes instaláu dengún complementu d'esta triba">
 <!ENTITY listEmpty.availableUpdates.label "Nun s'alcontraron anovamientos">
