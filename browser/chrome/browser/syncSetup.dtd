@@ -2,7 +2,7 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "歡迎，如果您從未使用過 &syncBrand.fullName.label;，您需要先建立一個帳號。">
+<!ENTITY setup.pickSetupType.description2 "歡迎！若您還沒使用過 &syncBrand.fullName.label;，您將需要建立一個新帳號。">
 <!ENTITY button.createNewAccount.label "建立新帳號">
 <!ENTITY button.haveAccount.label      "我已經有帳號了">
 
@@ -88,6 +88,8 @@
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "偏好設定">
 <!ENTITY engine.prefs.accesskey     "s">
+<!ENTITY engine.addons.label        "附加元件">
+<!ENTITY engine.addons.accesskey    "A">
 
 <!ENTITY choice2.merge.main.label      "將此電腦的資料與我的 &syncBrand.shortName.label; 資料合併">
 <!ENTITY choice2.merge.recommended.label "建議的:">

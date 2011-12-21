@@ -12,7 +12,7 @@
 
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
-<!ENTITY rights.intro-point1a "&brandShortName; 是基於">
+<!ENTITY rights.intro-point1a "&brandShortName; 是基於 ">
 <!ENTITY rights.intro-point1b "Mozilla 公眾授權條款">
 <!ENTITY rights.intro-point1c "中的條件提供給您的。這表示您有權使用、複製、散布 &brandShortName;。我們也歡迎您自行修改 &brandShortName; 的原始碼以滿足您的需求；Mozilla 公眾授權條款也同時賦予您散布修改版本的權利。">
 
@@ -21,10 +21,10 @@
 <!ENTITY rights.intro-point2-c "找到更多關於商標的使用條款。">
 
 <!-- point 2.5 text for official branded builds -->
-<!ENTITY rights.intro-point2.5 "&brandShortName; 當中的一些功能，像是錯誤回報員，將會提供您送出 &vendorShortName; 使用者送出回饋的功能。在送出使用者回饋時，您必須同意授權 &vendorShortName; 使用您所送出的回饋內容以改善其產品、發布回饋內容於其網站、以及散佈使用者回饋。">
+<!ENTITY rights.intro-point2.5 "&brandShortName; 當中的一些功能，像是錯誤回報員，將會讓您可以選擇是否要送出使用者回饋到 &vendorShortName;。在送出回饋時，您必須同意授權 &vendorShortName; 使用您所送出的回饋內容以改善其產品、發布回饋內容於其網站、以及散佈這些使用者回饋。">
 
 <!-- point 3 text for official branded builds -->
-<!ENTITY rights2.intro-point3a "關於我們所使用您透過 &brandShortName; 送出給 &vendorShortName; 的個人資訊的方法位於 ">
+<!ENTITY rights2.intro-point3a "關於我們如何使用您透過 &brandShortName; 送出給 &vendorShortName; 的個人資訊的方法位於 ">
 <!ENTITY rights2.intro-point3b "&brandShortName; 隱私權保護政策">
 <!ENTITY rights.intro-point3c "。">
 
@@ -34,7 +34,7 @@
 <!-- point 4 text for official branded builds -->
 <!ENTITY rights2.intro-point4a "一些 &brandShortName; 的功能將會用到以網頁為基礎的資訊服務，然而，我們無法保證這些資料完全正確或是沒有錯誤。關於更多詳情，包含如何停用會使用到這些服務的功能，可以在 ">
 <!ENTITY rights.intro-point4b "服務聲明條款">
-<!ENTITY rights.intro-point4c "找到更多資訊，包括如何停用這些服務的說明。">
+<!ENTITY rights.intro-point4c " 找到更多資訊，包括如何停用這些服務的說明。">
 
 <!-- point 4 text for unbranded builds -->
 <!ENTITY rights.intro-point4a-unbranded "若此產品包含任何網站資訊服務，適用的服務條款應寫在">

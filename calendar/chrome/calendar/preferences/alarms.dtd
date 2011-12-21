@@ -41,7 +41,7 @@
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
-<!ENTITY pref.alarmgoesoff.label "鬧鈴停止時:">
+<!ENTITY pref.alarmgoesoff.label "鬧鈴時間到時:">
 <!ENTITY pref.playasound "播放音效">
 <!ENTITY pref.calendar.alarms.playsound.accessKey "s">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "使用預設音效">

@@ -120,7 +120,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY exportCmd.accesskey                            "E">
 <!ENTITY preferencesCmd.label                           "選項…">
 <!ENTITY preferencesCmd.accesskey                       "O">
-<!ENTITY preferencesCmdUnix.label                       "個人偏好設定">
+<!ENTITY preferencesCmdUnix.label                       "偏好設定">
 <!ENTITY preferencesCmdUnix.accesskey                   "n">
 
 <!-- Address Book Toolbar and Context Menus -->  
