@@ -58,7 +58,7 @@
 
 <!ENTITY updateTab.label                 "Actualisaziun">
 <!ENTITY updateApp.label                 "Actualisaziuns da &brandShortName;:">
-<!ENTITY updateAuto.label                "Installar automaticamain las actualisaziuns (recumandà, dapli segirezza)">
+<!ENTITY updateAuto.label                "Installar automaticamain las actualisaziuns (recumandà, pli segir)">
 <!ENTITY updateAuto.accesskey            "a">
 <!ENTITY updateCheck.label               "Tschertgar actualisaziuns, dentant dumandar sch'ellas duain vegnir installadas">
 <!ENTITY updateCheck.accesskey           "T">
