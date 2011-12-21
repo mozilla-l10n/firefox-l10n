@@ -1,5 +1,5 @@
 <!ENTITY next.label "Successivo">
-<!ENTITY next.accesskey "S">
+<!ENTITY next.accesskey "u">
 <!ENTITY next.tooltip "Trova l'occorrenza successiva del testo da cercare">
 <!ENTITY previous.label "Precedente">
 <!ENTITY previous.accesskey "P">
