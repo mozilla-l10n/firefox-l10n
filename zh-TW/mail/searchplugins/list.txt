@@ -1,0 +1,8 @@
+google
+yahoo-zh-TW
+yahoo-bid-zh-TW
+wikipedia-zh-TW
+chunghwapost-zh-TW
+google-maps-zh-TW
+ipeen-zh-TW
+findbook-zh-TW
