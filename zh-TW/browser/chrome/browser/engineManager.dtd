@@ -6,9 +6,9 @@
 <!ENTITY  columnLabel.keyword       "關鍵字">
 
 <!-- Buttons -->
-<!ENTITY  up.label                  "向上移">
+<!ENTITY  up.label                  "上移">
 <!ENTITY  up.accesskey              "U">
-<!ENTITY  dn.label                  "向下移">
+<!ENTITY  dn.label                  "下移">
 <!ENTITY  dn.accesskey              "D">
 <!ENTITY  remove.label              "移除">
 <!ENTITY  remove.accesskey          "R">

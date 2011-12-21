@@ -15,5 +15,5 @@
 <!ENTITY alwaysAsk.accesskey          "A">
 <!ENTITY chooseFolderWin.label        "瀏覽…">
 <!ENTITY chooseFolderWin.accesskey    "B">
-<!ENTITY chooseFolderMac.label        "選取…">
+<!ENTITY chooseFolderMac.label        "選擇…">
 <!ENTITY chooseFolderMac.accesskey    "C">

@@ -12,7 +12,7 @@
 <!ENTITY editBookmarkOverlay.tags.label                      "標籤:">
 <!ENTITY editBookmarkOverlay.tags.accesskey                  "T">
 <!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "以逗號分隔每個標籤">
-<!ENTITY editBookmarkOverlay.description.label               "敘述:">
+<!ENTITY editBookmarkOverlay.description.label               "說明:">
 <!ENTITY editBookmarkOverlay.description.accesskey           "D">
 <!ENTITY editBookmarkOverlay.keyword.label                   "關鍵字:">
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "K">

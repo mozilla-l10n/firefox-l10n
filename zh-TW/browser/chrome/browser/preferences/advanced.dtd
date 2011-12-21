@@ -40,7 +40,9 @@
 <!ENTITY connectionSettings.label        "設定…">
 <!ENTITY connectionSettings.accesskey    "e">
 
-<!ENTITY offlineStorage.label            "離線資料儲存">
+<!ENTITY httpCache.label                 "已快取的網頁內容">
+
+<!ENTITY offlineStorage2.label           "離線網頁內容與使用者資料">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -53,6 +55,8 @@
 <!ENTITY limitCacheSizeAfter.label       "MB 的空間">
 <!ENTITY clearCacheNow.label             "立刻清除">
 <!ENTITY clearCacheNow.accesskey         "C">
+<!ENTITY clearOfflineAppCacheNow.label   "立刻清除">
+<!ENTITY clearOfflineAppCacheNow.accesskey "N">
 <!ENTITY overrideSmartCacheSize.label    "停用自動快取管理">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
@@ -76,8 +80,6 @@
 <!ENTITY useService.accesskey            "b">
 
 <!ENTITY updateOthers.label              "自動更新:">
-<!ENTITY enableAddonsUpdate3.label       "附加元件">
-<!ENTITY enableAddonsUpdate3.accesskey   "o">
 <!ENTITY enableSearchUpdate.label        "搜尋引擎">
 <!ENTITY enableSearchUpdate.accesskey    "e">
 
@@ -86,7 +88,7 @@
 <!ENTITY offlineNotifyExceptions.label   "例外網站…">
 <!ENTITY offlineNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList.label           "下列網站已儲存資料以供離線使用:">
+<!ENTITY offlineAppsList2.label          "下列網站已被允許在本機儲存資料供離線使用:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "移除…">
 <!ENTITY offlineAppsListRemove.accesskey "R">

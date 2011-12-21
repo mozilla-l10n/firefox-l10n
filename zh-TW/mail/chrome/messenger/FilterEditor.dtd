@@ -28,6 +28,7 @@
 <!ENTITY forwardTo.label "轉寄給">
 <!ENTITY replyWithTemplate.label "使用範本回信">
 <!ENTITY markMessageRead.label "標為已讀">
+<!ENTITY markMessageUnread.label "標示為未讀取">
 <!ENTITY markMessageStarred.label "加上星號">
 <!ENTITY setPriority.label "設定優先順序為">
 <!ENTITY addTag.label "加上標籤">

@@ -7,7 +7,7 @@
 <!ENTITY searchTermCaption.label "設定此即時搜尋資料夾的搜尋方式:">
 
 <!ENTITY folderSelectionCaption.label "選取要搜尋的資料夾:">
-<!ENTITY chooseFoldersButton.label "選取…">
+<!ENTITY chooseFoldersButton.label "選擇…">
 <!ENTITY chooseFoldersButton.accesskey "h">
 
 <!ENTITY searchOnline.label "線上即時搜尋（可取得 IMAP 與新聞群組中最新的內容，不過開啟資料夾時會比較慢）">

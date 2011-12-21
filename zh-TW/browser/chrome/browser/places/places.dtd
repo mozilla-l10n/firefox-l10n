@@ -87,7 +87,7 @@
 <!ENTITY col.keyword.label       "關鍵字">
 <!ENTITY col.description.label   "敘述">
 <!ENTITY col.dateadded.label     "加入日期">
-<!ENTITY col.lastmodified.label  "最後更改日期">
+<!ENTITY col.lastmodified.label  "最後修改日期">
 
 <!ENTITY search.label                              "搜尋:">
 <!ENTITY search.accesskey                          "S">

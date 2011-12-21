@@ -53,7 +53,7 @@
 
 <!ENTITY  whichIsA.label              "是:">
 
-<!ENTITY  chooseHandlerMac.label      "選取…">
+<!ENTITY  chooseHandlerMac.label      "選擇…">
 <!ENTITY  chooseHandlerMac.accesskey  "C">
 <!ENTITY  chooseHandler.label         "瀏覽…">
 <!ENTITY  chooseHandler.accesskey     "B">

@@ -326,12 +326,6 @@
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "選單列">
 <!ENTITY formatToolbar.tooltip "格式化工具列">
-<!ENTITY newToolbarCmd.label "新增">
-<!ENTITY newToolbarCmd.tooltip "建立新編輯視窗">
-<!ENTITY openToolbarCmd.label "開啟">
-<!ENTITY openToolbarCmd.tooltip "開啟本機檔案">
-<!ENTITY saveToolbarCmd.tooltip "儲存到本機位置">
-<!ENTITY publishToolbarCmd.tooltip "上傳檔案到遠端位址">
 <!ENTITY cutToolbarCmd.tooltip "剪下">
 <!ENTITY copyToolbarCmd.tooltip "複製">
 <!ENTITY pasteToolbarCmd.tooltip "貼上">

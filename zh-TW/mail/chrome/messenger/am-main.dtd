@@ -21,7 +21,7 @@
 <!ENTITY signatureFile.label "從檔案附加簽名(文字檔、HTML或影像)">
 <!ENTITY signatureFile.accesskey "T">
 <!ENTITY edit.label "編輯…">
-<!ENTITY choose.label "選取…">
+<!ENTITY choose.label "選擇…">
 <!ENTITY choose.accesskey "C">
 <!ENTITY editVCard.label "編輯電子名片…">
 <!ENTITY editVCard.accesskey "d">

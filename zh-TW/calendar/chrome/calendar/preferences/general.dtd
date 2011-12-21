@@ -49,3 +49,7 @@
 <!ENTITY pref.defaultlength.accesskey "E">
 <!ENTITY pref.defaultsnoozelength.label "預設稍後提醒長度:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "S">
+
+<!ENTITY pref.accessibility.label "其他輔助功能" >
+<!ENTITY pref.systemcolors.label "使用較具親和力的色彩" >
+<!ENTITY pref.systemcolors.accesskey "c">
