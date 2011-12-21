@@ -161,8 +161,14 @@
 <!ENTITY inspectButton.label "Inspeccionar">
 <!ENTITY inspectButton.accesskey "I">
 <!ENTITY inspectCloseButton.tooltiptext "Cerrar el Inspector">
+<!ENTITY inspect3DButton.label "3D">
+<!ENTITY inspect3DButton.accesskey "M">
 <!ENTITY inspectStyleButton.label "Estilo">
 <!ENTITY inspectStyleButton.accesskey "S">
+<!ENTITY styleeditor.label "Editor de estilos">
+<!ENTITY styleeditor.accesskey "y">
+<!ENTITY styleeditor.keycode "VK_F7">
+<!ENTITY styleeditor.keytext "F7">
 <!ENTITY getMoreDevtoolsCmd.label "Conseguir más herramientas">
 <!ENTITY getMoreDevtoolsCmd.accesskey "M">
 <!ENTITY fileMenu.label "Archivo">
