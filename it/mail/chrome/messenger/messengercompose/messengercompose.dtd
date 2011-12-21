@@ -13,6 +13,7 @@
 <!ENTITY attachMenu.accesskey "A">
 <!ENTITY attachFileCmd.label "File…">
 <!ENTITY attachFileCmd.accesskey "f">
+<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachPageCmd.label "Pagina web…">
 <!ENTITY attachPageCmd.accesskey "w">
 <!ENTITY attachVCardCmd.label "Biglietto da visita elettronico (vCard)">

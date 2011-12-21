@@ -16,8 +16,10 @@
 <!ENTITY newVirtualFolderCmd.accesskey "S">
 <!ENTITY newOtherAccountsCmd.label "Altri account…">
 <!ENTITY newOtherAccountsCmd.accesskey "t">
-<!ENTITY newEmailAccountCmd.label "Account di posta…">
-<!ENTITY newEmailAccountCmd.accesskey "A">
+<!ENTITY newCreateEmailAccountCmd.label "Crea un nuovo account e-mail">
+<!ENTITY newCreateEmailAccountCmd.accesskey "C">
+<!ENTITY newExistingEmailAccountCmd.label "Account di email già esistente…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "A">
 <!ENTITY openMessageFileCmd.label "Apri messaggio salvato…">
 <!ENTITY openMessageFileCmd.accesskey "A">
 <!ENTITY openAttachmentCmd.label "Allegati">
@@ -122,6 +124,8 @@
 <!ENTITY messagePaneWide.accesskey "e">
 <!ENTITY messagePaneVertical.label "Visualizzazione verticale">
 <!ENTITY messagePaneVertical.accesskey "V">
+<!ENTITY showFolderPaneCmd.label "Riquadro cartelle">
+<!ENTITY showFolderPaneCmd.accesskey "a">
 <!ENTITY showMessageCmd.label "Anteprima messaggio">
 <!ENTITY showMessageCmd.accesskey "A">
 <!ENTITY folderView.label "Cartelle">
@@ -525,7 +529,7 @@
 <!ENTITY folderContextEmptyJunk.accesskey "v">
 <!ENTITY folderContextSendUnsentMessages.label "Invia messaggi ancora da inviare">
 <!ENTITY folderContextSendUnsentMessages.accesskey "S">
-<!ENTITY folderContextUnsubscribe.label "Annulla Sottoscrizione">
+<!ENTITY folderContextUnsubscribe.label "Annulla sottoscrizione">
 <!ENTITY folderContextUnsubscribe.accesskey "A">
 <!ENTITY folderContextMarkNewsgroupRead.label "Segna il gruppo di discussione come già letto">
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "c">
