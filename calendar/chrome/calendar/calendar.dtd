@@ -322,7 +322,7 @@
 <!ENTITY calendarproperties.name.label                     "Назив:">
 <!ENTITY calendarproperties.readonly.label                 "Само за читање">
 <!ENTITY calendarproperties.firealarms.label               "Прикажи обавештења">
-<!ENTITY calendarproperties.cache.label                    "Кеширано (ОГЛЕДНО, захтева изнова покретање)">
+<!ENTITY calendarproperties.cache2.label                    "Кеширано">
 <!ENTITY calendarproperties.enabled.label                  "Укључите овај календар">
 <!ENTITY calendarproperties.forceDisabled.label            "Добављач за овај календар није нађен. Ово се често дешава након што онемогућите или уклоните одређене додатке.">
 <!ENTITY calendarproperties.unsubscribe.label              "Одјави се">
