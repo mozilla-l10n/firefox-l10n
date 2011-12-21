@@ -21,6 +21,8 @@
 <!ENTITY engine.passwords.accesskey "w">
 <!ENTITY engine.prefs.label "Preferenze">
 <!ENTITY engine.prefs.accesskey "z">
+<!ENTITY engine.addons.label "Componenti aggiuntivi">
+<!ENTITY engine.addons.accesskey "o">
 <!ENTITY syncComputerName.label "Nome del computer:">
 <!ENTITY syncComputerName.accesskey "u">
 <!ENTITY unlinkDevice.label "Scollega questo dispositivo">
