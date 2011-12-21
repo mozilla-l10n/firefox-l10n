@@ -16,7 +16,7 @@
 <!ENTITY detailsProgressiveDisclosure.accesskey "e">
 <!ENTITY historySection.label "Historial">
 <!ENTITY dataSection.label "Datos">
-<!ENTITY itemHistoryAndDownloads.label "Navegando y descargando el historial">
+<!ENTITY itemHistoryAndDownloads.label "Historial de navegación y descargas">
 <!ENTITY itemHistoryAndDownloads.accesskey "N">
 <!ENTITY itemBrowsingHistory.label "Historial de navegación">
 <!ENTITY itemBrowsingHistory.accesskey "H">
