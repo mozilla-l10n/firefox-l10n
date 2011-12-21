@@ -39,6 +39,9 @@
 <!ENTITY netInterrupt.title "З’єднання перервано">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!ENTITY notCached.title "Документ застарів">
+<!ENTITY notCached.longDesc "<p>Вказаний документ більше не є доступним у кеші.</p><ul><li>З безпекової перестороги, &brandShortName; не перезавантажує чутливі документи автоматично.</li><li>Клацніть «Спробувати знову» щоб перезавантажити документ з сайта.</li></ul>">
+
 <!ENTITY netOffline.title "Автономний режим">
 <!ENTITY netOffline.longDesc2 "
 <ul>

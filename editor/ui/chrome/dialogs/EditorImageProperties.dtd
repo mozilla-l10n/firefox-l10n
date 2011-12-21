@@ -101,7 +101,6 @@
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "Показувати межу навколо зображення, що містить посилання">
 <!ENTITY showImageLinkBorder.accessKey "м">
-<!-- FIXME -->
 <!ENTITY LinkAdvancedEditButton.label "Link Advanced Edit…">
 <!ENTITY LinkAdvancedEditButton.accessKey "L">
 <!ENTITY LinkAdvancedEditButton.tooltip "Add or modify HTML attributes, style attributes, and JavaScript">

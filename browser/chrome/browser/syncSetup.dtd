@@ -4,8 +4,7 @@
 
 <!ENTITY setup.pickSetupType.description "Ласкаво просимо. Якщо ви раніше не використовували &syncBrand.fullName.label;, вам треба буде створити новий обліковий запис.">
 <!ENTITY button.createNewAccount.label "Створити новий обліковий запис">
-<!ENTITY setup.haveAccount.label "Я вже маю обліковий запис &syncBrand.fullName.label;.">
-<!ENTITY button.connect.label    "З’єднатись">
+<!ENTITY button.haveAccount.label      "Я маю обліковий запис">
 
 <!ENTITY setup.choicePage.title.label     "Чи використовували ви &syncBrand.fullName.label; дотепер?">
 <!ENTITY setup.choicePage.new.label       "Ніколи">
@@ -40,7 +39,7 @@
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 
-<!-- New Account Page 2: Sync Key -->
+<!-- My Recovery Key dialog -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; піклується про вашу приватність">
 <!ENTITY setup.newRecoveryKeyPage.description.label "Щоб забезпечити вашу повну приватність, всі ваші дані шифруються перед надсиланням. Ключ відновлення, необхідний для дешифровки, не надсилається.">
 <!ENTITY recoveryKeyEntry.label        "Ваш ключ відновлення">
@@ -53,15 +52,13 @@
 <!ENTITY button.syncKeyBackup.save.label      "Зберегти…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "б">
 
-<!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "Будь ласка, доведіть що ви не робот">
-<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "Додати пристрій">
+<!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
+<!ENTITY pairDevice.title.label             "Під’єднати пристрій">
 <!ENTITY addDevice.showMeHow.label          "Покажіть мені як.">
 <!ENTITY addDevice.dontHaveDevice.label     "Я не маю пристрою з собою">
-<!ENTITY addDevice.setup.description.label  "Щоб активувати, перейдіть до налаштувань &syncBrand.shortName.label; на вашому іншому пристрою та виберіть «Додати пристрій»">
+<!ENTITY pairDevice.setup.description.label  "Щоб активувати, виберіть &#x0022;Під’єднати пристрій&#x0022; на вашому іншому пристрою.">
 <!ENTITY addDevice.setup.enterCode.label    "Тоді, уведіть цей код:">
-<!ENTITY addDevice.dialog.description.label "Щоб активувати ваш новий пристрій, перейдіть до налаштувань &syncBrand.shortName.label; на ньому та виберіть «З’єднатись»">
+<!ENTITY pairDevice.dialog.description.label "Щоб активувати ваш новий пристрій, виберіть &#x0022;Налаштувати Синхронізацію&#x0022; на ньому.">
 <!ENTITY addDevice.dialog.enterCode.label   "Уведіть код, що надає пристрій:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Спробуйте ще раз.">
 <!ENTITY addDevice.dialog.successful.label  "Пристрій успішно додано. Початкова синхронізація триватиме кілька хвилин і завершиться на тлі.">

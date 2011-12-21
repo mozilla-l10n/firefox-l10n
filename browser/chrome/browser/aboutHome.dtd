@@ -18,3 +18,6 @@
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "Легко налаштувати Firefox саме під ваші потреби. <a>Вибирайте з тисяч додатків</a>.">
+
+<!ENTITY abouthome.syncSetup.label   "Налаштувати синхронізацію">
+<!ENTITY abouthome.pairDevice.label  "Під’єднати пристрій">
