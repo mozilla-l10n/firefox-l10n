@@ -1,11 +1,12 @@
 <!ENTITY accountSetupTitle.label "Configuración de &syncBrand.fullName.label;">
-<!ENTITY setup.pickSetupType.description "Bienllegáu. Si nunca usasti &syncBrand.fullName.label; enantes, necesites crear agora una cuenta nueva.">
+<!ENTITY setup.pickSetupType.description2 "¡Bienllegáu! Si nunca usasti &syncBrand.fullName.label; enantes, necesites crear una cuenta.">
 <!ENTITY button.createNewAccount.label "Crear una cuenta nueva">
 <!ENTITY button.haveAccount.label "Tengo una cuenta">
 <!ENTITY pairDevice.title.label "Emparexar un preséu">
 <!ENTITY pairDevice.dialog.description.label "P'activar el nuevu preséu, seleiciona 'Configurar Sync' nel preséu.">
 <!ENTITY pairDevice.setup.description.label "P'activalu, seleiciona 'Emparexar un preséu' nel otru preséu.">
-
+<!ENTITY engine.addons.label "Complementos">
+<!ENTITY engine.addons.accesskey "C">
 <!ENTITY setup.choicePage.title.label "¿Tienes usao &syncBrand.fullName.label; enantes?">
 <!ENTITY setup.choicePage.new.label "Non, entá nunca usé &syncBrand.shortName.label; ">
 <!ENTITY setup.choicePage.existing.label "Yá toi usando &syncBrand.shortName.label; n'otru equipu">
