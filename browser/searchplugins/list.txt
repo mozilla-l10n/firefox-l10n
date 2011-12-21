@@ -1,7 +1,7 @@
-amazondotcom
-bing
-eBay
 google
-twitter
-wikipedia
-yahoo
+bing
+pogodakyu
+eBay-en-GB
+amazon-en-GB
+vokabular
+wikipedia-sr
