@@ -58,22 +58,28 @@
 
 <!ENTITY updateTab.label                 "Оновлення">
 
-<!ENTITY autoCheck.label                 "Автоматично перевіряти наявність оновлень для:">
-<!ENTITY enableAppUpdate.label           "Браузера &brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "Б">
-<!ENTITY enableAddonsUpdate2.label       "Додатків">
-<!ENTITY enableAddonsUpdate2.accesskey   "Д">
-<!ENTITY enableSearchUpdate.label        "Засобів пошуку">
-<!ENTITY enableSearchUpdate.accesskey    "о">
-<!ENTITY whenUpdatesFound.label          "При виявленні оновлень для &brandShortName;:">
-<!ENTITY askMe.label                     "Запитати користувача">
-<!ENTITY askMe.accesskey                 "в">
-<!ENTITY modeAutomatic.label             "Автоматично завантажувати і встановлювати оновлення">
-<!ENTITY modeAutomatic.accesskey         "А">
-<!ENTITY modeAutoAddonWarn.label         "Попереджати, якщо при виконанні цієї дії буде вимкнено додатки">
-<!ENTITY modeAutoAddonWarn.accesskey     "о">
+<!ENTITY updateApp.label                 "&brandShortName; updates:">
+<!ENTITY updateAuto.label                "Automatically install updates (recommended: improved security)">
+<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateCheck.label               "Check for updates, but let me choose whether to install them">
+<!ENTITY updateCheck.accesskey           "C">
+<!ENTITY updateManual.label              "Never check for updates (not recommended: security risk)">
+<!ENTITY updateManual.accesskey          "N">
+
+<!ENTITY updateAutoAddonWarn.label       "Warn me if this will disable any of my add-ons">
+<!ENTITY updateAutoAddonWarn.accesskey   "W">
+
 <!ENTITY updateHistory.label             "Показати журнал оновлень">
 <!ENTITY updateHistory.accesskey         "о">
+
+<!ENTITY useService.label                "Use a background service to install updates">
+<!ENTITY useService.accesskey            "b">
+
+<!ENTITY updateOthers.label              "Automatically update:">
+<!ENTITY enableAddonsUpdate3.label       "Add-ons">
+<!ENTITY enableAddonsUpdate3.accesskey   "o">
+<!ENTITY enableSearchUpdate.label        "Засобів пошуку">
+<!ENTITY enableSearchUpdate.accesskey    "о">
 
 <!ENTITY offlineNotify.label             "Повідомляти мені, коли сайт просить дозволу зберегти дані для позамережного використання.">
 <!ENTITY offlineNotify.accesskey         "П">

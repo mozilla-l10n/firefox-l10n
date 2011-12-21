@@ -23,8 +23,10 @@
 <!ENTITY newVirtualFolderCmd.accesskey "В">
 <!ENTITY newOtherAccountsCmd.label "Інші облікові записи…">
 <!ENTITY newOtherAccountsCmd.accesskey "І">
-<!ENTITY newEmailAccountCmd.label "Поштовий обліковий запис…">
-<!ENTITY newEmailAccountCmd.accesskey "П">
+<!ENTITY newCreateEmailAccountCmd.label "Завести нову поштову скриньку…">
+<!ENTITY newCreateEmailAccountCmd.accesskey "З">
+<!ENTITY newExistingEmailAccountCmd.label "Існуюча скринька…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "І">
 <!ENTITY openMessageFileCmd.label "Відкрити збережений лист…">
 <!ENTITY openMessageFileCmd.accesskey "з">
 <!ENTITY openAttachmentCmd.label "Вкладення">
@@ -134,6 +136,8 @@
 <!ENTITY messagePaneWide.accesskey "Ш">
 <!ENTITY messagePaneVertical.label "Вертикальне">
 <!ENTITY messagePaneVertical.accesskey "В">
+<!ENTITY showFolderPaneCmd.label "Folder Pane">
+<!ENTITY showFolderPaneCmd.accesskey "F">
 <!ENTITY showMessageCmd.label "Область перегляду листів">
 <!ENTITY showMessageCmd.accesskey "О">
 

@@ -90,6 +90,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "П">
 <!ENTITY fullScreenExit.label "Вийти з повноекранного режиму">
 <!ENTITY fullScreenExit.accesskey "В">
+<!ENTITY domFullScreenWarning.label "Натисніть ESC щоб вийти з повноекранного режиму">
 
 <!ENTITY closeWindow.label "Закрити вікно">
 <!ENTITY closeWindow.accesskey "а">
@@ -212,9 +213,12 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectPanelTitle.label      "HTML">
-<!ENTITY inspectButton.label          "Дослідити">
-<!ENTITY inspectButton.accesskey      "Д">
+<!ENTITY inspectPanelTitle.label        "HTML">
+<!ENTITY inspectButton.label            "Дослідити">
+<!ENTITY inspectButton.accesskey        "Д">
+<!ENTITY inspectCloseButton.tooltiptext "Закрити Дослідника">
+<!ENTITY inspectStyleButton.label     "Стиль">
+<!ENTITY inspectStyleButton.accesskey "С">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Інші інструменти">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "І">
@@ -432,7 +436,12 @@ can reach it easily. -->
 <!ENTITY mediaHideControls.accesskey "х">
 <!ENTITY videoFullScreen.label       "Повний екран">
 <!ENTITY videoFullScreen.accesskey   "е">
-
+<!ENTITY videoSaveImage.label        "Save Snapshot As…">
+<!ENTITY videoSaveImage.accesskey    "S">
+<!ENTITY videoShowStats.label        "Show Statistics">
+<!ENTITY videoShowStats.accesskey    "t">
+<!ENTITY videoHideStats.label        "Hide Statistics">
+<!ENTITY videoHideStats.accesskey    "t">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
