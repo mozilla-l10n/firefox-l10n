@@ -13,24 +13,28 @@
 <!ENTITY fullnameDesc.label "Введите имя, которое будет появляться в поле «От» при отправке сообщений">
 <!ENTITY fullnameExample.label "(например, «Иван Иванов»).">
 <!ENTITY fullnameLabel.label "Выводимое имя:">
-<!ENTITY fullnameLabel.accesskey "В">
+<!ENTITY fullnameLabel.accesskey "ы">
 <!ENTITY emailLabel.label "Адрес электронной почты:">
-<!ENTITY emailLabel.accesskey "А">
+<!ENTITY emailLabel.accesskey "д">
 <!ENTITY serverTitle.label "Информация о сервере">
 <!ENTITY incomingServerTypeDesc.label "Выберите тип используемого вами сервера входящей почты.">
 <!ENTITY incomingServerNameDesc.label "Введите имя используемого вами сервера входящей почты (например, «mail.example.ru»).">
 <!ENTITY incomingServerLabel.label "Имя сервера:">
-<!ENTITY incomingServerLabel.accesskey "И">
+<!ENTITY incomingServerLabel.accesskey "м">
 <!ENTITY newsServerNameDesc.label "Введите имя используемого вами сервера новостей (NNTP) (например, «news.example.ru»).">
 <!ENTITY smtpServerDesc.label "Введите имя используемого вами сервера исходящей почты (SMTP) (например, «smtp.example.ru»).">
 <!ENTITY smtpServerLabel.label "Имя сервера:">
-<!ENTITY smtpServerLabel.accesskey "с">
+<!ENTITY smtpServerLabel.accesskey "я">
 <!ENTITY newsServerLabel.label "Имя сервера новостей:">
 <!ENTITY newsServerLabel.accesskey "н">
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "I">
 <!ENTITY popType.label "POP3">
 <!ENTITY popType.accesskey "P">
+<!ENTITY portNum.label "Порт:">
+<!ENTITY portNum.accesskey "о">
+<!ENTITY defaultPortLabel.label "По умолчанию:">
+<!ENTITY defaultPortValue.label "">
 <!ENTITY leaveMsgsOnSrvr.label "Оставлять копии сообщений на сервере">
 <!ENTITY leaveMsgsOnSrvr.accesskey "л">
 <!ENTITY haveSmtp1.prefix "Будет использоваться уже существующий сервер исходящей почты (SMTP) — «">
@@ -61,6 +65,6 @@
 <!ENTITY downloadOnLogin.accesskey "г">
 <!ENTITY deferStorageDesc.label "Если флажок снят, то почта для данной учётной записи будет хранится в её собственных папках. При этом данная учётная запись появится на самом верху списка учётных записей. Если флажок установлен, то данная учётная запись будет частью общей папки «Входящие», находящейся в «Локальных папках».">
 <!ENTITY deferStorage.label "Использовать общую папку «Входящие» (хранить почту в «Локальных Папках»)">
-<!ENTITY deferStorage.accesskey "о">
+<!ENTITY deferStorage.accesskey "з">
 <!ENTITY clickFinish.label "Нажмите «Готово», чтобы сохранить текущие параметры и завершить работу «Мастера учётных записей».">
 <!ENTITY clickFinish.labelMac "Нажмите «Готово», чтобы сохранить текущие параметры и завершить работу «Мастера учётных записей».">

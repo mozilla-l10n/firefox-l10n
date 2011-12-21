@@ -2,27 +2,27 @@
 <!ENTITY navigatorCmd.accesskey "р">
 <!ENTITY navigatorCmd.commandkey "1">
 <!ENTITY editorCmd.label "Компоновщик">
-<!ENTITY editorCmd.accesskey "п">
+<!ENTITY editorCmd.accesskey "о">
 <!ENTITY editorCmd.commandkey "4">
 <!ENTITY errorConsoleCmd.label "Консоль ошибок">
-<!ENTITY errorConsoleCmd.accesskey "К">
+<!ENTITY errorConsoleCmd.accesskey "о">
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY taskNavigator.tooltip "Браузер">
 <!ENTITY taskComposer.tooltip "Компоновщик">
 <!ENTITY webDevelopment.label "Веб-разработка">
-<!ENTITY webDevelopment.accesskey "В">
+<!ENTITY webDevelopment.accesskey "е">
 <!ENTITY windowMenu.label "Окно">
-<!ENTITY windowMenu.accesskey "О">
+<!ENTITY windowMenu.accesskey "к">
 <!ENTITY tasksMenu.label "Инструменты">
-<!ENTITY tasksMenu.accesskey "И">
+<!ENTITY tasksMenu.accesskey "н">
 <!ENTITY datamanCmd.label "Управление данными">
-<!ENTITY datamanCmd.accesskey "п">
+<!ENTITY datamanCmd.accesskey "в">
 <!ENTITY passwordManagerCmd.label "Управление паролями">
-<!ENTITY passwordManagerCmd.accesskey "р">
+<!ENTITY passwordManagerCmd.accesskey "л">
 <!ENTITY passwordDisplayCmd.label "Управление сохранёнными паролями">
 <!ENTITY passwordDisplayCmd.accesskey "п">
 <!ENTITY passwordExpireCmd.label "Закончить сеанс">
-<!ENTITY passwordExpireCmd.accesskey "к">
+<!ENTITY passwordExpireCmd.accesskey "ч">
 <!ENTITY downloadManagerCmd.label "Управление загрузками">
 <!ENTITY downloadManagerCmd.accesskey "з">
 <!ENTITY downloadManagerCmd.commandkey "j">

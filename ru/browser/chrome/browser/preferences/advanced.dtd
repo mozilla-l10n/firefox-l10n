@@ -29,12 +29,15 @@
 <!ENTITY connectionDesc.label "Настройка параметров соединения &brandShortName; с Интернетом">
 <!ENTITY connectionSettings.label "Настроить…">
 <!ENTITY connectionSettings.accesskey "с">
-<!ENTITY offlineStorage.label "Автономное хранилище">
+<!ENTITY httpCache.label "Кэшированное веб-содержимое">
+<!ENTITY offlineStorage2.label "Автономное веб-содержимое и данные пользователя">
 <!ENTITY limitCacheSizeBefore.label "Использовать под кэш не более">
 <!ENTITY limitCacheSizeBefore.accesskey "о">
 <!ENTITY limitCacheSizeAfter.label "МБ на диске">
 <!ENTITY clearCacheNow.label "Очистить сейчас">
 <!ENTITY clearCacheNow.accesskey "ч">
+<!ENTITY clearOfflineAppCacheNow.label "Очистить сейчас">
+<!ENTITY clearOfflineAppCacheNow.accesskey "й">
 <!ENTITY overrideSmartCacheSize.label "Отключить автоматическое управление кэшем">
 <!ENTITY overrideSmartCacheSize.accesskey "л">
 <!ENTITY updateTab.label "Обновления">
@@ -52,15 +55,13 @@
 <!ENTITY useService.label "Использовать фоновую службу для установки обновлений">
 <!ENTITY useService.accesskey "ф">
 <!ENTITY updateOthers.label "Автоматически обновлять:">
-<!ENTITY enableAddonsUpdate3.label "Дополнения">
-<!ENTITY enableAddonsUpdate3.accesskey "о">
 <!ENTITY enableSearchUpdate.label "Плагины для поисковых систем">
 <!ENTITY enableSearchUpdate.accesskey "л">
-<!ENTITY offlineNotify.label "Информировать, когда веб-сайт просит разрешения сохранить данные для использования в автономном режиме">
-<!ENTITY offlineNotify.accesskey "ф">
+<!ENTITY offlineNotify.label "Сообщать, когда веб-сайт просит сохранить данные для автономной работы">
+<!ENTITY offlineNotify.accesskey "б">
 <!ENTITY offlineNotifyExceptions.label "Исключения…">
 <!ENTITY offlineNotifyExceptions.accesskey "к">
-<!ENTITY offlineAppsList.label "Следующие веб-сайты сохранили данные для работы в автономном режиме:">
+<!ENTITY offlineAppsList2.label "Следующим веб-сайтам разрешено хранить данные для работы в автономном режиме:">
 <!ENTITY offlineAppsList.height "10em">
 <!ENTITY offlineAppsListRemove.label "Удалить…">
 <!ENTITY offlineAppsListRemove.accesskey "д">

@@ -21,6 +21,8 @@
 <!ENTITY engine.passwords.accesskey "р">
 <!ENTITY engine.prefs.label "Настройки">
 <!ENTITY engine.prefs.accesskey "о">
+<!ENTITY engine.addons.label "Дополнения">
+<!ENTITY engine.addons.accesskey "п">
 <!ENTITY syncComputerName.label "Имя компьютера:">
 <!ENTITY syncComputerName.accesskey "м">
 <!ENTITY unlinkDevice.label "Отсоединить это устройство">

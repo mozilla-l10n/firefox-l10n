@@ -25,6 +25,8 @@
    -   Ryan Cassin (rcassin@supernova.org)
    -   Daniel Glazman (glazman@netscape.com)
    -   Stephen Donner (technutz@netscape.net)
+   -   Charles Manske (cmanske@netscape.com)
+   -   Ian Neal (iann_bugzilla@blueyonder.co.uk)
    -   Alexander L. Slovesnik <unghost@mozilla-russia.org> (Russian translation)
    -
    - Alternatively, the contents of this file may be used under the terms of
@@ -63,3 +65,9 @@
 <!ENTITY fileRevert.accesskey "н">
 <!ENTITY publishSettings.label "Параметры сайта публикации…">
 <!ENTITY publishSettings.accesskey "б">
+<!ENTITY newToolbarCmd.label "Создать">
+<!ENTITY newToolbarCmd.tooltip "Создать новую страницу Компоновщика">
+<!ENTITY openToolbarCmd.label "Открыть">
+<!ENTITY openToolbarCmd.tooltip "Открыть локальный файл">
+<!ENTITY saveToolbarCmd.tooltip "Сохранить файл локально">
+<!ENTITY publishToolbarCmd.tooltip "Выгрузить файл на удалённый сервер">
