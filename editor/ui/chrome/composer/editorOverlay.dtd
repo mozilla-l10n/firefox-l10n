@@ -46,7 +46,7 @@
 <!ENTITY saveCmd.key "S">
 
 
-
+<!ENTITY pasteNoFormatting.label "Apegar ensin formatu">
 <!ENTITY pasteNoFormatting.accesskey "s">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Apegar como">
