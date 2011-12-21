@@ -1,5 +1,5 @@
 <!ENTITY accountSetupTitle.label "Configurazione di &syncBrand.fullName.label;">
-<!ENTITY setup.pickSetupType.description "Benvenuto, se si tratta del primo utilizzo di &syncBrand.fullName.label; è necessario creare un nuovo account.">
+<!ENTITY setup.pickSetupType.description2 "Benvenuto. Se si tratta del primo utilizzo di &syncBrand.fullName.label; è necessario creare un nuovo account.">
 <!ENTITY button.createNewAccount.label "Crea un nuovo account">
 <!ENTITY button.haveAccount.label "Utilizza un account esistente">
 <!ENTITY setup.choicePage.title.label "Si tratta del primo utilizzo di &syncBrand.fullName.label;?">
@@ -68,6 +68,8 @@
 <!ENTITY engine.passwords.accesskey "w">
 <!ENTITY engine.prefs.label "Preferenze">
 <!ENTITY engine.prefs.accesskey "z">
+<!ENTITY engine.addons.label "Componenti aggiuntivi">
+<!ENTITY engine.addons.accesskey "o">
 <!ENTITY choice2.merge.main.label "unisci i dati di questo computer con quelli di &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Consigliato:">
 <!ENTITY choice2.client.main.label "Sostituisci tutti i dati presenti su questo computer con quelli di &syncBrand.shortName.label;">
