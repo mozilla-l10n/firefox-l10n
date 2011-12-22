@@ -24,6 +24,7 @@
 <!ENTITY engine.passwords.accesskey "ñ">
 <!ENTITY engine.prefs.label "Preferencies">
 <!ENTITY engine.prefs.accesskey "S">
-
+<!ENTITY engine.addons.label "Complementos">
+<!ENTITY engine.addons.accesskey "C">
 <!ENTITY prefs.tosLink.label "Términos del Serviciu">
 <!ENTITY prefs.ppLink.label "Política de privacidá">
