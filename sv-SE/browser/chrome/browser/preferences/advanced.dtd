@@ -40,7 +40,9 @@
 <!ENTITY connectionSettings.label        "Inställningar…">
 <!ENTITY connectionSettings.accesskey    "n">
 
-<!ENTITY offlineStorage.label            "Nedkopplad lagring">
+<!ENTITY httpCache.label                 "Cachat webbinnehåll">
+
+<!ENTITY offlineStorage2.label           "Nedkopplad lagring av webbinnehåll och användardata">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -53,6 +55,8 @@
 <!ENTITY limitCacheSizeAfter.label       "MB">
 <!ENTITY clearCacheNow.label             "Rensa nu">
 <!ENTITY clearCacheNow.accesskey         "R">
+<!ENTITY clearOfflineAppCacheNow.label   "Rensa nu">
+<!ENTITY clearOfflineAppCacheNow.accesskey "e">
 <!ENTITY overrideSmartCacheSize.label    "Åsidosätt automatisk cachehantering">
 <!ENTITY overrideSmartCacheSize.accesskey "Å">
 
@@ -76,8 +80,6 @@
 <!ENTITY useService.accesskey            "b">
 
 <!ENTITY updateOthers.label              "Uppdatera automatiskt:">
-<!ENTITY enableAddonsUpdate3.label       "Tillägg">
-<!ENTITY enableAddonsUpdate3.accesskey   "T">
 <!ENTITY enableSearchUpdate.label        "Sökmotorer">
 <!ENTITY enableSearchUpdate.accesskey    "S">
 
@@ -86,7 +88,7 @@
 <!ENTITY offlineNotifyExceptions.label   "Undantag…">
 <!ENTITY offlineNotifyExceptions.accesskey "U">
 
-<!ENTITY offlineAppsList.label           "Följande webbplatser har data lagrad för nedkopplad användning:">
+<!ENTITY offlineAppsList2.label          "Följande webbplatser tillåts lagra data för nedkopplad användning:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Ta bort…">
 <!ENTITY offlineAppsListRemove.accesskey "T">

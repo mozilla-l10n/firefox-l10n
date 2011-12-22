@@ -2,7 +2,7 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "Välkommen. Har du aldrig använt &syncBrand.fullName.label; förut kommer du att behöva skapa ett nytt konto.">
+<!ENTITY setup.pickSetupType.description2 "Välkommen! Har du aldrig använt &syncBrand.fullName.label; förut kommer du att behöva skapa ett nytt konto.">
 <!ENTITY button.createNewAccount.label "Skapa ett nytt konto">
 <!ENTITY button.haveAccount.label      "Jag har ett konto">
 
@@ -88,6 +88,8 @@
 <!ENTITY engine.passwords.accesskey "L">
 <!ENTITY engine.prefs.label         "Inställningar">
 <!ENTITY engine.prefs.accesskey     "n">
+<!ENTITY engine.addons.label        "Tillägg">
+<!ENTITY engine.addons.accesskey    "T">
 
 <!ENTITY choice2.merge.main.label      "Samordna datorns data med min &syncBrand.shortName.label;-data">
 <!ENTITY choice2.merge.recommended.label "Rekommenderas:">
