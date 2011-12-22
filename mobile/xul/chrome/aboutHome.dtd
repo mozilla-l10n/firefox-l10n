@@ -1,0 +1,31 @@
+<!ENTITY aboutHome.header "<span id='header-suffix'>Tosach </span><span>&brandShortName;</span>">
+<!ENTITY aboutHome.recentTabs "Do chuid cluaisíní ón uair roimhe seo">
+<!ENTITY aboutHome.remoteTabs "Cluaisíní ó do ríomhairí eile">
+<!ENTITY aboutHome.recommendedAddons2 "Breiseáin le haghaidh &brandShortName;">
+<!ENTITY aboutHome.giveFeedback "Seol Aiseolas">
+<!ENTITY aboutHome.getHelp "Cabhair">
+<!ENTITY aboutHome.footerWidth "12em">
+<!ENTITY aboutHome.openAllTabs "Oscail gach rud i gcluaisíní">
+<!ENTITY aboutHome.noTabs "Níl aon chluaisíní ann ón uair roimhe seo">
+<!ENTITY aboutHome.noAddons "Gan breiseáin mholta">
+<!ENTITY aboutHome.getLocale "Athraigh an Teanga">
+<!ENTITY aboutHome.getInBeforeBeta "Bí linn roimh Bhéite.">
+<!ENTITY aboutHome.tryAurora "Bain triail as Firefox Aurora agus téigh i bhfeidhm ar thodhchaí Firefox.">
+<!-- LOCALIZATION NOTE:
+     (aboutHome.downloadAurora): First line of a multi-line button. Treat as a title.
+-->
+<!ENTITY aboutHome.downloadAurora "Íosluchtaigh Aurora">
+<!-- LOCALIZATION NOTE:
+     (aboutHome.forAndroid): Second line of a multi-line button. Treat as a subtitle.
+-->
+<!ENTITY aboutHome.forAndroid "le haghaidh Android">
+<!-- LOCALIZATION NOTE:
+     (aboutHome.setupSync): This string should match the desktop
+     equivalent, in particular concerning syncBrand.fullName.label.
+-->
+<!ENTITY aboutHome.setupSync "Socraigh Sync">
+<!-- LOCALIZATION NOTE:
+     (aboutHome.syncPairDevice): This string should match the desktop
+     equivalent, in particular concerning syncBrand.fullName.label.
+-->
+<!ENTITY aboutHome.syncPairDevice "Ceangail Gléas">

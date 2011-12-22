@@ -1,0 +1,27 @@
+<!ENTITY sync.title "Sync">
+<!ENTITY sync.notconnected "Gan cheangal">
+<!ENTITY sync.connect "Ceangail">
+<!ENTITY sync.connected "Ceangailte">
+<!ENTITY sync.details "Mionsonraí">
+<!ENTITY sync.deviceName "An gléas seo">
+<!ENTITY sync.disconnect "Dícheangail">
+<!ENTITY sync.syncNow "Sioncrónaigh Anois">
+
+<!ENTITY sync.setup.title "Ceangail le Sync">
+<!ENTITY sync.setup.pair "Chun é a chur i ngníomh, roghnaigh &#x0022;Ceangail Gléas&#x0022; ar do ghléas eile.">
+<!ENTITY sync.fallback "Nílim in aice le mo ríomhaire…">
+<!ENTITY sync.setup.manual "Cuir faisnéis do chuntais Sync isteach">
+<!ENTITY sync.account "Ainm an Chuntais">
+<!ENTITY sync.password "Focal Faire">
+<!ENTITY sync.recoveryKey "Eochair Athshlánaithe">
+<!ENTITY sync.customServer "Úsáid freastalaí saincheaptha">
+<!ENTITY sync.serverURL "URL an fhreastalaí">
+<!ENTITY sync.setup.connect "Ceangail">
+<!ENTITY sync.setup.cancel "Cealaigh">
+<!ENTITY sync.setup.tutorial "Taispeáin dom é">
+<!ENTITY sync.setup.waiting2 "Ag fanacht leis an ngléas eile…">
+
+<!ENTITY sync.pair.title "Ceangail Gléas">
+<!ENTITY sync.pair.description "Chun do ghléas nua a chur i ngníomh, roghnaigh &#x0022;Socraigh Sync&#x0022; ar an ngléas.">
+<!ENTITY sync.setup.close "Dún">
+<!ENTITY sync.setup.waitingdownload "Tá do chuid sonraí á n-íosluchtú sa chúlra faoi láthair. Tá cead agat an fhuinneog seo a dhúnadh aon uair is maith leat.">
