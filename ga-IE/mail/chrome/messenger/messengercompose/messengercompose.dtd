@@ -167,8 +167,8 @@
 <!ENTITY addressBookCmd.label "Leabhar Seoltaí">
 <!ENTITY addressBookCmd.accesskey "a">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "Socruithe Cuntais…">
-<!ENTITY accountManagerCmd.accesskey "c">
+<!ENTITY accountManagerCmd.label "Socruithe an Chuntais…">
+<!ENTITY accountManagerCmd.accesskey "S">
 <!ENTITY accountManagerCmdUnix.accesskey "S">
 <!ENTITY preferencesCmd.label "Roghanna…">
 <!ENTITY preferencesCmd.accesskey "R">
@@ -218,7 +218,7 @@
 <!ENTITY subject.accesskey "b">
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
      to the strings in attachmentCount in composeMsgs.properties -->
-<!ENTITY attachments.accesskey "c">
+<!ENTITY attachments.accesskey "m">
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 
 <!ENTITY SmileButton.tooltip "Ionsáigh miongháire">

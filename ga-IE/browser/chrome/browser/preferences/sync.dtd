@@ -30,6 +30,8 @@
 <!ENTITY engine.passwords.accesskey "F">
 <!ENTITY engine.prefs.label "Sainroghanna">
 <!ENTITY engine.prefs.accesskey "S">
+<!ENTITY engine.addons.label "Breiseáin">
+<!ENTITY engine.addons.accesskey "B">
 <!-- Device Settings -->
 
 <!ENTITY syncComputerName.label "Ainm an Ríomhaire:">

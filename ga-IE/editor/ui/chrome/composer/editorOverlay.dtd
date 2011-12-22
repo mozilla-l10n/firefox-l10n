@@ -327,12 +327,6 @@
 
 <!ENTITY menuBar.tooltip "Barra Roghchláir">
 <!ENTITY formatToolbar.tooltip "Barra Uirlisí Formáidithe">
-<!ENTITY newToolbarCmd.label "Nua">
-<!ENTITY newToolbarCmd.tooltip "Cruthaigh leathanach nua Cumadóra">
-<!ENTITY openToolbarCmd.label "Oscail">
-<!ENTITY openToolbarCmd.tooltip "Oscail comhad logánta">
-<!ENTITY saveToolbarCmd.tooltip "Sábháil comhad i suíomh logánta">
-<!ENTITY publishToolbarCmd.tooltip "Uasluchtaigh comhad go suíomh cianda">
 <!ENTITY cutToolbarCmd.tooltip "Gearr">
 <!ENTITY copyToolbarCmd.tooltip "Cóipeáil">
 <!ENTITY pasteToolbarCmd.tooltip "Greamaigh">

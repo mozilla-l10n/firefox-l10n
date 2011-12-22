@@ -27,7 +27,8 @@
 <!ENTITY copyMessage.label "Cóipeáil an teachtaireacht go">
 <!ENTITY forwardTo.label "Cuir an teachtaireacht ar aghaidh chuig">
 <!ENTITY replyWithTemplate.label "Freagair le teimpléad">
-<!ENTITY markMessageRead.label "Marcáil mar léite">
+<!ENTITY markMessageRead.label 'Marcáil "Léite"'>
+<!ENTITY markMessageUnread.label 'Marcáil "Neamhléite"'>
 <!ENTITY markMessageStarred.label "Cuir réiltín leis">
 <!ENTITY setPriority.label "Socraigh tosaíocht mar">
 <!ENTITY addTag.label "Clibeáil an teachtaireacht">

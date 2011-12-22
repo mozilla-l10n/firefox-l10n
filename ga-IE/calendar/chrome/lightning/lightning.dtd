@@ -78,8 +78,10 @@
 <!ENTITY lightning.toolbar.mail.label "Ríomhphost">
 <!ENTITY lightning.toolbar.mail.accesskey "m">
 <!ENTITY lightning.toolbar.calendar.label "Féilire">
+<!ENTITY lightning.toolbar.calendar.tooltip "Féach ar chluaisín an fhéilire">
 <!ENTITY lightning.toolbar.calendar.accesskey "F">
 <!ENTITY lightning.toolbar.task.label "Tascanna">
+<!ENTITY lightning.toolbar.task.tooltip "Féach ar chluaisín na dtascanna">
 <!ENTITY lightning.toolbar.task.accesskey "T">
 <!-- Toolbar write button -->
 

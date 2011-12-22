@@ -1,12 +1,3 @@
-<!ENTITY empty.label "Cuardaigh">
+<!ENTITY search.placeholder "Sainroghanna Cuardaigh">
+<!ENTITY clear.altText "Bánaigh">
 <!ENTITY newpref.label "Cuir Sainrogha Nua Leis">
-<!ENTITY addpref.name "Ainm">
-<!ENTITY addpref.value "Luach">
-
-<!ENTITY cancel.label "Cealaigh">
-<!ENTITY reset.label "Bánaigh">
-<!ENTITY done.label "Déanta">
-
-<!ENTITY integer.label "Slánuimhir">
-<!ENTITY string.label "Teaghrán">
-<!ENTITY boolean.label "Boole">

@@ -68,3 +68,11 @@
 
 <!ENTITY publishSettings.label "Socruithe an tSuímh Fhoilsithe…">
 <!ENTITY publishSettings.accesskey "F">
+<!-- Toolbar buttons/items -->
+
+<!ENTITY newToolbarCmd.label "Nua">
+<!ENTITY newToolbarCmd.tooltip "Cruthaigh leathanach nua Cumadóra">
+<!ENTITY openToolbarCmd.label "Oscail">
+<!ENTITY openToolbarCmd.tooltip "Oscail comhad logánta">
+<!ENTITY saveToolbarCmd.tooltip "Sábháil comhad i suíomh logánta">
+<!ENTITY publishToolbarCmd.tooltip "Uasluchtaigh comhad go suíomh cianda">
