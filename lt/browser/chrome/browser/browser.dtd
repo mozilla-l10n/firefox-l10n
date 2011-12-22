@@ -217,6 +217,8 @@ can reach it easily. -->
 <!ENTITY inspectButton.label               "Tirti">
 <!ENTITY inspectButton.accesskey           "T">
 <!ENTITY inspectCloseButton.tooltiptext    "Užverti tyriklį">
+<!ENTITY inspect3DButton.label             "3D">
+<!ENTITY inspect3DButton.accesskey         "M">
 <!ENTITY inspectStyleButton.label          "Stilius">
 <!ENTITY inspectStyleButton.accesskey      "S">
 

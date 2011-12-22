@@ -24,7 +24,7 @@
 <!ENTITY error.network "Vaizdo atkūrimas nutrauktas dėl tinklo klaidos.">
 <!ENTITY error.decode "Vaizdo leisti neįmanoma, nes failas sugadintas.">
 <!ENTITY error.srcNotSupported "Vaizdo formatas arba MIME tipas nepalaikomas.">
-<!ENTITY error.noSource "Vaizdas nerastas.">
+<!ENTITY error.noSource2 "Nerastas palaikomo formato ir MIME tipo vaizdas.">
 <!ENTITY error.generic "Vaizdo atkūrimas nutrauktas dėl nežinomos klaidos.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
