@@ -49,3 +49,7 @@
 <!ENTITY pref.defaultlength.accesskey "D">
 <!ENTITY pref.defaultsnoozelength.label "Duração Pré-definida do Snooze:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "S">
+
+<!ENTITY pref.accessibility.label "Acessibilidade" >
+<!ENTITY pref.systemcolors.label "Optimizar cores para acessibilidade" >
+<!ENTITY pref.systemcolors.accesskey "c">
