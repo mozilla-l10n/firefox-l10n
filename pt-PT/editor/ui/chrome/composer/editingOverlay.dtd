@@ -68,3 +68,11 @@
 <!-- Edit menu items -->
 <!ENTITY publishSettings.label "Configurações do sítio de publicação...">
 <!ENTITY publishSettings.accesskey "b">
+
+<!-- Toolbar buttons/items -->
+<!ENTITY newToolbarCmd.label "Novo">
+<!ENTITY newToolbarCmd.tooltip "Criar nova página de Composição">
+<!ENTITY openToolbarCmd.label "Abrir">
+<!ENTITY openToolbarCmd.tooltip "Abrir um ficheiro Local">
+<!ENTITY saveToolbarCmd.tooltip "Guardar ficheiro para uma localização remota">
+<!ENTITY publishToolbarCmd.tooltip "Carregar ficheiro para uma localização remota">
