@@ -583,8 +583,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextMarkMailFolderRead.accesskey "k">
 <!ENTITY folderContextSubscribe.label "Prenumeruoti…">
 <!ENTITY folderContextSubscribe.accesskey "p">
-<!ENTITY folderContextSearchMessages.label "Ieškoti laiškų…">
-<!ENTITY folderContextSearchMessages.accesskey "I">
+<!ENTITY folderContextSearchForMessages.label "Ieškoti laiškų…">
+<!ENTITY folderContextSearchForMessages.accesskey "I">
 <!ENTITY folderContextProperties.label "Savybės…">
 <!ENTITY folderContextProperties.accesskey "S">
 <!ENTITY folderContextFavoriteFolder.label "Parankinis aplankas">
