@@ -1,0 +1,8 @@
+<!ENTITY aboutAddons.title                      "Hantera tillägg">
+<!ENTITY aboutAddons.header                     "Tillägg">
+<!ENTITY aboutAddons.options                    "Inställningar">
+
+<!ENTITY addonAction.enable                     "Aktivera">
+<!ENTITY addonAction.disable                    "Inaktivera">
+<!ENTITY addonAction.uninstall                  "Avinstallera">
+<!ENTITY addonAction.cancel                     "Avbryt">
