@@ -1,9 +1,0 @@
-<!ENTITY dialog.style            "width: 52em">
-
-<!ENTITY warningSecondary.label  "Επιβλαβές λογισμικό μπορεί να προξενήσει ζημιές στον υπολογιστή σας και να παραβιάσει το προσωπικό σας απόρρητο.">
-
-<!ENTITY warningPrimary.label    "Θα πρέπει να αποδέχεστε πρόσθετα μόνο από δημιουργούς που εμπιστεύεστε.">
-
-<!ENTITY dialog.title "Εγκατάσταση λογισμικού">
-<!ENTITY from.label "από:">
-
