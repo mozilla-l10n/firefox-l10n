@@ -24,4 +24,11 @@ the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
 "6:00:00", result string would be "5:00 of 6:00:00 elapsed".
 -->
 <!ENTITY scrubberScale.nameFormat "#1 από #2 πέρασαν">
-
+<!ENTITY error.aborted "Η φόρτωση του βίντεο διακόπηκε.">
+<!ENTITY error.decode "Αδυναμία αναπαραγωγής βίντεο επειδή το αρχείο είναι κατεστραμμένο.">
+<!ENTITY error.generic "Η αναπαραγωγή του βίντεο εγκαταλείφθηκε λόγω άγνωστου σφάλματος.">
+<!ENTITY error.network "Η αναπαραγωγή του βίντεο εγκαταλείφθηκε λόγω σφάλματος δικτύου.">
+<!ENTITY error.noSource2 "Δεν βρέθηκε βίντεο με υποστηριζόμενη μορφή και τύπο MIME.">
+<!ENTITY error.srcNotSupported "Η μορφή του βίντεο ή ο τύπος MIME δεν υποστηρίζονται.">
+<!ENTITY fullscreenButton.enterfullscreenlabel "Πλήρης οθόνη">
+<!ENTITY fullscreenButton.exitfullscreenlabel "Έξοδο από την πλήρη οθόνη">

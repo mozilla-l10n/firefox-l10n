@@ -52,8 +52,7 @@
 <!ENTITY copyName.label "Αντιγραφή ονόματος">
 <!ENTITY copyValue.accesskey "τ">
 <!ENTITY copyValue.label "Αντιγραφή τιμής">
-<!ENTITY filterPrefs.accesskey "φ">
-<!ENTITY filterPrefs.label "Φίλτρο:">
+
 <!ENTITY integer.accesskey "">
 <!ENTITY integer.label "Integer">
 <!ENTITY lockColumn.label "Κατάσταση">
@@ -78,9 +77,8 @@
 <!ENTITY copyPref.label "Αντιγραφή">
 <!ENTITY copyPref.accesskey "γ">
 
-
-
-<!ENTITY focusFilter.key "f">
-
+<!ENTITY searchPrefs.label "Αναζήτηση:">
+<!ENTITY searchPrefs.accesskey "ζ">
+<!ENTITY focusSearch.key "r">
 
 
