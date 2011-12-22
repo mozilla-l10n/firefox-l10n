@@ -17,7 +17,7 @@
 <!ENTITY myRecoveryKey.label          "মোৰ উদ্ধাৰ চাবি">
 <!ENTITY resetSync2.label             "সংমিহলি পুনৰ সংহতি কৰক…">
 
-<!ENTITY addDevice.label              "এটা ডিভাইচ যোগ কৰক">
+<!ENTITY pairDevice.label             "এটা ডিভাইচ সংযুক্ত কৰক">
 
 <!ENTITY syncMy.label               "সংমিহলি কৰক মোৰ">
 <!ENTITY engine.bookmarks.label     "পত্ৰচিহ্নসমূহ">

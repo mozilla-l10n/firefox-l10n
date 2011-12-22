@@ -4,7 +4,7 @@
 
 <!ENTITY accessibility.label             "অভিগম্যতা">
 
-<!ENTITY useCursorNavigation.label       "পৃষ্ঠাৰ মাজত ব্ৰাউছ কৰিবলৈ সদায়ে কাৰ্ছৰ চাবি ব্যৱহাৰ কৰিব">
+<!ENTITY useCursorNavigation.label       "পৃষ্ঠাৰ মাজত ব্ৰাউছ কৰিবলৈ সদায়ে কাৰ্চাৰ চাবি ব্যৱহাৰ কৰিব">
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchStartTyping.label         "মই লিখাৰ সময়তে লিপি বিচাৰিব">
 <!ENTITY searchStartTyping.accesskey     "x">
@@ -58,22 +58,28 @@
 
 <!ENTITY updateTab.label                 "উন্নয়ন">
 
-<!ENTITY autoCheck.label                 "ইয়াৰ উন্নয়ন স্বয়ং পৰীক্ষা কৰিব:">
-<!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate2.label       "এড-অন সমূহ">
-<!ENTITY enableAddonsUpdate2.accesskey   "n">
-<!ENTITY enableSearchUpdate.label        "বিচৰাৰ কলঘৰ">
-<!ENTITY enableSearchUpdate.accesskey    "h">
-<!ENTITY whenUpdatesFound.label          "যেতিয়া &brandShortName; ৰ উন্নয়ন পোৱা যাব:">
-<!ENTITY askMe.label                     "মোক প্ৰশ্ন কৰিব মই কি কৰিব খোজো">
-<!ENTITY askMe.accesskey                 "k">
-<!ENTITY modeAutomatic.label             "উন্নয়ন নিজে ডাউনল'ড কৰি সংস্থাপন কৰিব">
-<!ENTITY modeAutomatic.accesskey         "d">
-<!ENTITY modeAutoAddonWarn.label         "মোৰ যি কোনো অতিৰিক্ত কাৰ্য্যক্ৰম নিষ্ক্ৰীয় হ'ব নেকি সতৰ্ক কৰিব">
-<!ENTITY modeAutoAddonWarn.accesskey     "W">
+<!ENTITY updateApp.label                 "&brandShortName; আপডেইটসমূহ:">
+<!ENTITY updateAuto.label                "আপডেইটসমূহ স্বচালিতভাৱে ইনস্টল কৰক (উপদেশিত: উন্নত সুৰক্ষা)">
+<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateCheck.label               "আপডেইটসমূহ নীৰিক্ষণ কৰক, কিন্তু সিহতক ইনস্টল কৰা হব নে মোক বাছিব দিব">
+<!ENTITY updateCheck.accesskey           "C">
+<!ENTITY updateManual.label              "আপডেইটসমূহৰ বাবে কেতিয়াও নীৰিক্ষণ নকৰিব (উপদেশিত নহয়: সুৰক্ষা ভয়)">
+<!ENTITY updateManual.accesskey          "N">
+
+<!ENTITY updateAutoAddonWarn.label       "যদি ই মোৰ কোনো এড-অন অসামৰ্থবান কৰে মোক সতৰ্ক কৰিব">
+<!ENTITY updateAutoAddonWarn.accesskey   "W">
+
 <!ENTITY updateHistory.label             "উন্নয়নৰ ইতিহাস দেখুৱাওক">
 <!ENTITY updateHistory.accesskey         "p">
+
+<!ENTITY useService.label                "আপডেইটসমূহ ইনস্টল কৰিবলে এটা পটভূমী সেৱা ব্যৱহাৰ কৰক">
+<!ENTITY useService.accesskey            "b">
+
+<!ENTITY updateOthers.label              "স্বচালিতভাৱে আপডেইট কৰক:">
+<!ENTITY enableAddonsUpdate3.label       "এড-অনসমূহ">
+<!ENTITY enableAddonsUpdate3.accesskey   "o">
+<!ENTITY enableSearchUpdate.label        "বিচৰাৰ কলঘৰ">
+<!ENTITY enableSearchUpdate.accesskey    "h">
 
 <!ENTITY offlineNotify.label             "অফ-লাইন ব্যৱহাৰৰ বাবে ৱেব-ছাইটে তথ্য সংৰক্ষণ কৰিব বিচাৰিলে মোক ক'ব">
 <!ENTITY offlineNotify.accesskey         "T">
