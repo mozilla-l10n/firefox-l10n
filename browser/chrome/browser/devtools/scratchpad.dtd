@@ -27,7 +27,7 @@
 <!ENTITY saveFileCmd.accesskey        "S">
 <!ENTITY saveFileCmd.commandkey       "s">
 
-<!ENTITY saveFileAsCmd.label          "এই হিচাপে সংৰক্ষণ কৰক…">
+<!ENTITY saveFileAsCmd.label          "এই ধৰণে সংৰক্ষণ কৰক…">
 <!ENTITY saveFileAsCmd.accesskey      "A">
 
 <!ENTITY closeCmd.label               "বন্ধ কৰক">
@@ -95,22 +95,23 @@
 <!ENTITY browserContext.label         "ব্ৰাউছাৰ">
 <!ENTITY browserContext.accesskey     "B">
 
-<!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
+<!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
-<!ENTITY resetContext.label           "পুনৰ সংহতি কৰক">
-<!ENTITY resetContext.accesskey       "R">
+<!ENTITY resetContext2.label          "চলকসমূহ পুনৰ সংহতি ৰকক">
+<!ENTITY resetContext2.accesskey      "T">
 
 <!ENTITY executeMenu.label            "প্ৰেৰণ কৰক">
 <!ENTITY executeMenu.accesskey        "X">
 
-<!ENTITY toolsMenu.label              "সঁজুলিসমূহ">
-<!ENTITY toolsMenu.accesskey          "T">
-
-<!ENTITY errorConsoleCmd.label        "ত্ৰুটি কনচৌল">
-<!ENTITY errorConsoleCmd.accesskey    "C">
+<!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
+  -  the browser Error Console, the key should be identical to the property of
+  -  the same name in browser.dtd.
+  -->
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY webConsoleCmd.label          "ৱেব কনচৌল">
-<!ENTITY webConsoleCmd.accesskey      "W">
+<!-- LOCALIZATION NOTE (webConsoleCmd.commandkey): This command key launches
+  -  the browser WebConsole, the key should be identical to the property of
+  -  the same name in browser.dtd.
+  -->
 <!ENTITY webConsoleCmd.commandkey     "k">
