@@ -5,51 +5,51 @@
 
 <!-- Main titles. -->
 <!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
-<!ENTITY sync.title.connect.label 'Connect to &syncBrand.shortName.label;'>
-<!ENTITY sync.title.pair.label 'Pair a Device'>
+<!ENTITY sync.title.connect.label 'Anslut till &syncBrand.shortName.label;'>
+<!ENTITY sync.title.pair.label 'Para ihop enheter'>
 
 <!-- J-PAKE Key Screen -->
-<!ENTITY sync.subtitle.connect.label 'To activate your new device, select “Set up &syncBrand.shortName.label;” on the device.'>
-<!ENTITY sync.subtitle.pair.label 'To activate, select “Pair a device” on your other device.'>
+<!ENTITY sync.subtitle.connect.label 'Aktivera den nya enheten genom att välja ”Ställ in &syncBrand.shortName.label;” på enheten.'>
+<!ENTITY sync.subtitle.pair.label 'Aktivera genom att välja ”Para ihop enheter” på din andra enhet.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
-<!ENTITY sync.link.show.label '<a href="https://support.mozilla.com/kb/add-a-device-to-firefox-sync">Show me how</a>'>
-<!ENTITY sync.link.nodevice.label '<a href="#">I don\&apos;t have the device with me…</a>'>
+<!ENTITY sync.link.show.label '<a href="https://support.mozilla.com/kb/add-a-device-to-firefox-sync">Visa hur</a>'>
+<!ENTITY sync.link.nodevice.label '<a href="#">Jag har inte tillgång till enheten just nu…</a>'>
 
 <!-- J-PAKE Waiting Screen -->
-<!ENTITY sync.jpake.subtitle.waiting.label 'Waiting for other device…'>
+<!ENTITY sync.jpake.subtitle.waiting.label 'Väntar på den andra enheten…'>
 
 <!-- Account Login Screen -->
-<!ENTITY sync.subtitle.account.label 'Enter your &syncBrand.fullName.label; account information'>
-<!ENTITY sync.input.username.label 'Account Name'>
-<!ENTITY sync.input.password.label 'Password'>
-<!ENTITY sync.input.key.label 'Recovery Key'>
-<!ENTITY sync.checkbox.server.label 'Use custom server'>
-<!ENTITY sync.input.server.label 'Server URL'>
+<!ENTITY sync.subtitle.account.label 'Ange dina kontouppgifter för &syncBrand.fullName.label;'>
+<!ENTITY sync.input.username.label 'Kontonamn'>
+<!ENTITY sync.input.password.label 'Lösenord'>
+<!ENTITY sync.input.key.label 'Återställningsnyckel'>
+<!ENTITY sync.checkbox.server.label 'Använd egen server'>
+<!ENTITY sync.input.server.label 'Server-URL'>
   
 <!-- Setup Fail -->
-<!ENTITY sync.title.fail.label 'Cannot Set Up &syncBrand.shortName.label;'>
-<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; could not connect to the server. Would you like to try again?'>
-<!ENTITY sync.button.tryagain.label 'Try again'>
-<!ENTITY sync.button.manual.label 'Manual Setup'>
+<!ENTITY sync.title.fail.label 'Kan inte ställa in &syncBrand.shortName.label;'>
+<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; kunde inte ansluta till servern. Vill du försöka igen?'>
+<!ENTITY sync.button.tryagain.label 'Försök igen'>
+<!ENTITY sync.button.manual.label 'Manuell inställning'>
   
 <!-- Setup Success -->
-<!ENTITY sync.title.success.label 'Setup Complete'>
-<!ENTITY sync.subtitle.success.label 'Your data is now being downloaded in the background. You can go to Settings to manage your account.'>
-<!ENTITY sync.settings.label 'Settings'>
-<!ENTITY sync.subtitle.manage.label 'Your &syncBrand.fullName.label; account is already set up. Go to Settings to manage your account.'>
+<!ENTITY sync.title.success.label 'Inställningen är klar'>
+<!ENTITY sync.subtitle.success.label 'Din data hämtas nu. Du kan gå till Inställningar för att hantera ditt konto.'>
+<!ENTITY sync.settings.label 'Inställningar'>
+<!ENTITY sync.subtitle.manage.label 'Ditt &syncBrand.fullName.label;-konto är redan klart. Gå till Inställningar för att hantera ditt konto.'>
   
 <!-- Common text -->
-<!ENTITY sync.button.cancel.label 'Cancel'>
-<!ENTITY sync.button.connect.label 'Connect'>
+<!ENTITY sync.button.cancel.label 'Avbryt'>
+<!ENTITY sync.button.connect.label 'Anslut'>
   
 <!-- Account strings -->
 <!ENTITY sync.account.label.label '&syncBrand.fullName.label;'>
   
 <!-- Bookmark folder strings -->
-<!ENTITY bookmarks.folder.menu.label 'Bookmarks Menu'>
+<!ENTITY bookmarks.folder.menu.label 'Bokmärken-menyn'>
 <!ENTITY bookmarks.folder.places.label ''>
-<!ENTITY bookmarks.folder.tags.label 'Tags'>
-<!ENTITY bookmarks.folder.toolbar.label 'Bookmarks Toolbar'>
-<!ENTITY bookmarks.folder.unfiled.label 'Unsorted Bookmarks'>
-<!ENTITY bookmarks.folder.desktop.label 'Desktop Bookmarks'>
-<!ENTITY bookmarks.folder.mobile.label 'Mobile Bookmarks'>
+<!ENTITY bookmarks.folder.tags.label 'Etiketter'>
+<!ENTITY bookmarks.folder.toolbar.label 'Bokmärkesfältet'>
+<!ENTITY bookmarks.folder.unfiled.label 'Osorterade bokmärken'>
+<!ENTITY bookmarks.folder.desktop.label 'Datorns bokmärken'>
+<!ENTITY bookmarks.folder.mobile.label 'Mobila bokmärken'>
