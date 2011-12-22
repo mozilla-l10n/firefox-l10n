@@ -347,6 +347,12 @@
 <!ENTITY videoShowStats.accesskey    "t">
 <!ENTITY videoHideStats.label        "Anubrir estadístiques">
 <!ENTITY videoHideStats.accesskey    "n">
+<!ENTITY inspect3DButton.label        "3D">
+<!ENTITY inspect3DButton.accesskey    "D">
+<!ENTITY styleeditor.label            "Editor d'estilu">
+<!ENTITY styleeditor.accesskey        "i">
+<!ENTITY styleeditor.keycode          "VK_F7">
+<!ENTITY styleeditor.keytext          "F7">
 
 <!ENTITY fullZoomEnlargeCmd.label "Aumentar">
 <!ENTITY fullZoomEnlargeCmd.accesskey "A">
