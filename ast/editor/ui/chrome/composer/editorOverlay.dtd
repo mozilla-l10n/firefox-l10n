@@ -285,12 +285,6 @@
 <!ENTITY tableProperties.accesskey "o">
 <!ENTITY menuBar.tooltip "Barra de menú">
 <!ENTITY formatToolbar.tooltip "Barra de ferramientes de formatu">
-<!ENTITY newToolbarCmd.label "Nuevu">
-<!ENTITY newToolbarCmd.tooltip "Crear una nueva páxina de Composer">
-<!ENTITY openToolbarCmd.label "Abrir">
-<!ENTITY openToolbarCmd.tooltip "Abrir un ficheru llocal">
-<!ENTITY saveToolbarCmd.tooltip "Guardar ficheru llocalmente">
-<!ENTITY publishToolbarCmd.tooltip "Xubir ficheru a allugamientu remotu">
 <!ENTITY cutToolbarCmd.tooltip "Cortar">
 <!ENTITY copyToolbarCmd.tooltip "Copiar">
 <!ENTITY pasteToolbarCmd.tooltip "Apegar">
