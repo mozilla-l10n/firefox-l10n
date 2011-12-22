@@ -1,0 +1,11 @@
+<!ENTITY feedbackHeader2.label "Uirlisí Aiseolais">
+
+<!ENTITY feedback.communicate.title "Déan Teagmháil Linn!">
+<!ENTITY feedback.feedback.title "Seol aiseolas">
+<!ENTITY feedback.feedback.good "Go Maith">
+<!ENTITY feedback.feedback.bad "Go Dona">
+
+<!ENTITY feedback.tools.title "Uirlisí">
+<!ENTITY feedback.allowTelemetry.title "Seol sonraí feidhmíochta">
+<!ENTITY feedback.forceCompat.title "Bíodh comhoiriúnacht na mbreiseán riachtanach">
+<!ENTITY feedback.errorConsole.title "Cumasaigh an Consól Earráide">

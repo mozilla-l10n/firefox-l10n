@@ -1,0 +1,24 @@
+<!ENTITY prefsHeader.label "Sainroghanna">
+<!ENTITY about.title "Maidir le &brandShortName;">
+<!ENTITY about.button "Téigh go Leathanach">
+<!ENTITY content.title "Ábhar">
+<!ENTITY reflowZoom.title "Athfhormáidigh an téacs tar éis súmála">
+<!ENTITY showImages.title "Taispeáin íomhánna">
+<!ENTITY enableJavaScript.title "Cumasaigh JavaScript">
+<!ENTITY privacy.title "Príobháideacht agus Slándáil">
+<!ENTITY allowCookies.title "Ceadaigh fianáin">
+<!ENTITY doNotTrack.title "Inis do shuímh gan a bheith do mo lorg">
+<!ENTITY masterPassword.title "Úsáid príomhfhocal faire">
+<!ENTITY clearPrivateData2.title "Bánaigh sonraí príobháideacha">
+<!ENTITY clearPrivateData.button "Bánaigh">
+<!ENTITY rememberPasswords.title "Meabhraigh focail fhaire">
+<!ENTITY language.title "Teanga">
+<!ENTITY language.auto "Braith go huathoibríoch">
+<!ENTITY defaultBrowser.title "Brabhsálaí Réamhshocraithe">
+<!ENTITY defaultBrowser.description "Úsáid &brandShortName; mar mo rogha brabhsálaí">
+<!ENTITY homepage.title "Leathanach tosaigh">
+<!ENTITY homepage.none "Leathanach Bán">
+<!ENTITY homepage.default "Tosach &brandShortName;">
+<!ENTITY homepage.currentpage "Úsáid an Leathanach Reatha">
+<!ENTITY showCharsetEncoding.title "Taispeáin an t-ionchódú carachtar">
+<!ENTITY actionbar.default "Socruithe &brandShortName;">

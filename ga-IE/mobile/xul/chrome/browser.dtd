@@ -1,0 +1,122 @@
+<!ENTITY urlbar.emptytext "Cuir Ábhar Cuardaigh nó Seoladh isteach">
+
+<!ENTITY back.label "Siar">
+<!ENTITY forward.label "Ar Aghaidh">
+<!ENTITY reload.label "Athluchtaigh">
+<!ENTITY stop.label "Stad">
+<!ENTITY go.label "Ar Aghaidh">
+<!ENTITY star.label "Réiltín">
+
+<!ENTITY showTabs.label "Taispeáin Cluaisíní">
+<!ENTITY newtab.label "Cluaisín Nua">
+<!ENTITY closetab.label "Dún Cluaisín">
+
+<!ENTITY cut.label "Gearr">
+<!ENTITY copy.label "Cóipeáil">
+<!ENTITY copyAll.label "Cóipeáil Uile">
+<!ENTITY copylink.label "Cóipeáil Suíomh an Naisc">
+<!ENTITY paste.label "Greamaigh">
+<!ENTITY pasteAndGo.label "Greamaigh agus Téigh">
+<!ENTITY delete.label "Scrios">
+<!ENTITY selectAll.label "Roghnaigh Uile">
+<!ENTITY noSuggestions.label "(Gan moltaí)">
+<!ENTITY addToDictionary.label "Cuir leis an bhfoclóir é">
+<!ENTITY inputMethod.label "Roghnaigh Modh Iontrála">
+
+<!ENTITY allPagesHeader.label "Gach Leathanach">
+<!ENTITY bookmarksHeader.label "Leabharmharcanna">
+<!ENTITY historyHeader.label "Stair">
+<!ENTITY desktopHeader.label "Deasc">
+
+<!ENTITY editBookmarkDialog.title "Cuir Leabharmharc in Eagar">
+<!ENTITY editBookmarkDone.label "Críochnaithe">
+<!ENTITY editBookmarkTags.label "Cuir clibeanna anseo">
+
+<!ENTITY selectHelper.done "Críochnaithe">
+
+<!ENTITY addonsHeader.label "Breiseáin">
+<!ENTITY addonsLocal.label "Do chuid Breiseán">
+<!ENTITY addonsUpdate.label "Nuashonrú">
+<!ENTITY addonsRepo.label "Faigh Breiseáin">
+<!ENTITY addonsRecommended.label "Molta">
+<!ENTITY addonsSearch.label "Cuardaigh">
+<!ENTITY addonsSearch2.emptytext "Cuardaigh an Chatalóg">
+<!ENTITY addonsSearch.recommended "Molta">
+
+<!ENTITY addonOptions.label "Roghanna">
+<!ENTITY addonEnable.label "Cumasaigh">
+<!ENTITY addonDisable.label "Díchumasaigh">
+<!ENTITY addonInstall2.label "Cuir le &brandShortName; é">
+<!ENTITY addonUninstall.label "Díshuiteáil">
+<!ENTITY addonCancel.label "Cealaigh">
+<!ENTITY addonShowPage.label "Téigh go Leathanach">
+
+<!ENTITY downloadsHeader.label "Íosluchtú">
+<!ENTITY downloadShowPage.label "Téigh go Leathanach">
+<!ENTITY downloadShow2.label "Aimsigh">
+<!ENTITY downloadOpen2.label "Oscail">
+<!ENTITY downloadCancel.label "Cealaigh">
+<!ENTITY downloadPause.label "Sos">
+<!ENTITY downloadResume.label "Lean">
+<!ENTITY downloadRetry.label "Atriail">
+<!ENTITY downloadRemove.label "Bain">
+<!ENTITY downloadDelete.label "Scrios">
+<!ENTITY downloadFailed.label "Teipthe">
+
+<!ENTITY noResults.label "Gan torthaí">
+<!ENTITY allBookmarks.label "Féach ar gach leabharmharc">
+
+<!ENTITY bookmarkPopup.label "Cruthaíodh Leabharmharc">
+<!ENTITY bookmarkRemove.label "Bain">
+<!ENTITY bookmarkEdit.label "Eagar">
+<!ENTITY bookmarkShortcut.label "Cuir leis an Scáileán Baile">
+
+<!ENTITY identity.unverifiedsite2 "Ní sholáthraíonn an suíomh seo faisnéis maidir lena aitheantas.">
+<!ENTITY identity.connectedTo2 "Ceangailte le">
+<!-- Localization note (identity.runBy2)
+ The layout of the identity dialog prevents combining this into a single string with
+ substitution variables.  If it is difficult to translate the sense of the string
+ with that structure, consider a translation which ignores the preceding domain and
+ just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy2 "á reáchtáil ag">
+
+<!ENTITY consoleHeader.label "Consól Earráide">
+<!ENTITY consoleAll.label "Uile">
+<!ENTITY consoleErrors.label "Earráidí">
+<!ENTITY consoleWarnings.label "Rabhaidh">
+<!ENTITY consoleMessages.label "Teachtaireachtaí">
+<!ENTITY consoleCodeEval.label "Cód:">
+<!ENTITY consoleClear.label "Bánaigh">
+<!ENTITY consoleEvaluate.label "…">
+<!ENTITY consoleErrFile.label "Comhad Foinse:">
+<!ENTITY consoleErrLine.label "Líne:">
+<!ENTITY consoleErrColumn.label "Colún:">
+
+<!ENTITY contextOpenInNewTab.label "Oscail an Nasc i gCluaisín Nua">
+<!ENTITY contextSaveImage.label "Sábháil an Íomhá">
+<!ENTITY contextCopyLink.label "Cóipeáil an Nasc">
+<!ENTITY contextCopyEmail.label "Cóipeáil an Seoladh Ríomhphoist">
+<!ENTITY contextCopyPhone.label "Cóipeáil an Uimhir Theileafóin">
+<!ENTITY contextCopyImageLocation.label "Cóipeáil Suíomh na hÍomhá">
+<!ENTITY contextShareLink.label "Comhroinn an Nasc">
+<!ENTITY contextShareImage.label "Comhroinn an Íomhá">
+<!ENTITY contextBookmarkLink.label "Cruthaigh Leabharmharc le Nasc">
+<!ENTITY contextSaveVideo.label "Sábháil an Físeán">
+<!ENTITY contextShareVideo.label "Comhroinn an Físeán">
+<!ENTITY contextPlayMedia.label "Seinn">
+<!ENTITY contextPauseMedia.label "Sos">
+<!ENTITY contextFullScreen.label "Lánscáileán">
+<!ENTITY contextEditBookmark.label "Eagar">
+<!ENTITY contextRemoveBookmark.label "Bain">
+<!ENTITY contextShortcutBookmark.label "Cuir leis an Scáileán Baile">
+
+<!ENTITY pageactions.saveas.pdf "Sábháil mar PDF">
+<!ENTITY pageactions.share.page "Comhroinn an Leathanach">
+<!ENTITY pageactions.password.forget "Déan Dearmad ar Fhocal Faire">
+<!ENTITY pageactions.quit "Scoir">
+<!ENTITY pageactions.reset "Glan Sainroghanna an tSuímh">
+<!ENTITY pageactions.findInPage "Aimsigh sa Leathanach">
+<!ENTITY pageactions.search.addNew "Inneall Cuardaigh Nua">
+<!ENTITY pageactions.charEncoding "Ionchódú Carachtar">
+
+<!ENTITY appMenu.siteOptions "Roghanna an tSuímh">
