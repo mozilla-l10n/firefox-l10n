@@ -217,8 +217,17 @@ can reach it easily. -->
 <!ENTITY inspectButton.label "Scrúdaigh">
 <!ENTITY inspectButton.accesskey "S">
 <!ENTITY inspectCloseButton.tooltiptext "Dún an Scrúdaitheoir">
+<!ENTITY inspect3DButton.label "3T">
+<!ENTITY inspect3DButton.accesskey "B">
 <!ENTITY inspectStyleButton.label "Stíl">
 <!ENTITY inspectStyleButton.accesskey "S">
+<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
+  -  in the Tools menu. -->
+
+<!ENTITY styleeditor.label "Eagarthóir Stíle">
+<!ENTITY styleeditor.accesskey "S">
+<!ENTITY styleeditor.keycode "VK_F7">
+<!ENTITY styleeditor.keytext "F7">
 
 <!ENTITY getMoreDevtoolsCmd.label "Faigh Tuilleadh Uirlisí">
 <!ENTITY getMoreDevtoolsCmd.accesskey "T">
@@ -421,15 +430,24 @@ can reach it easily. -->
 <!ENTITY thisFrameMenu.label "An Fráma Seo">
 <!ENTITY thisFrameMenu.accesskey "r">
 <!-- Media (video/audio) controls -->
+<!-- LOCALIZATION NOTE: The access keys for "Play" and
+"Pause" are the same because the two context-menu
+items are mutually exclusive. -->
 
 <!ENTITY mediaPlay.label "Seinn">
 <!ENTITY mediaPlay.accesskey "S">
 <!ENTITY mediaPause.label "Cuir ar Shos">
 <!ENTITY mediaPause.accesskey "S">
+<!-- LOCALIZATION NOTE: The access keys for "Mute" and
+"Unmute" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaMute.label "Gan Fuaim">
 <!ENTITY mediaMute.accesskey "m">
 <!ENTITY mediaUnmute.label "Le Fuaim">
 <!ENTITY mediaUnmute.accesskey "m">
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label "Taispeáin Rialtáin">
 <!ENTITY mediaShowControls.accesskey "R">
 <!ENTITY mediaHideControls.label "Folaigh Rialtáin">
@@ -438,6 +456,9 @@ can reach it easily. -->
 <!ENTITY videoFullScreen.accesskey "i">
 <!ENTITY videoSaveImage.label "Sábháil Grianghraf Mar…">
 <!ENTITY videoSaveImage.accesskey "S">
+<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
+"Hide Statistics" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY videoShowStats.label "Taispeáin Staitisticí">
 <!ENTITY videoShowStats.accesskey "t">
 <!ENTITY videoHideStats.label "Folaigh Staitisticí">

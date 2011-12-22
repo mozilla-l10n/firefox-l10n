@@ -2,7 +2,7 @@
 <!-- First page of the wizard -->
 
 
-<!ENTITY setup.pickSetupType.description "Fáilte romhat, murar bhain tú úsáid as &syncBrand.fullName.label; riamh, ní mór duit cuntas nua a chruthú.">
+<!ENTITY setup.pickSetupType.description2 "Fáilte romhat! Murar bhain tú úsáid as &syncBrand.fullName.label; riamh, ní mór duit cuntas nua a chruthú.">
 <!ENTITY button.createNewAccount.label "Cruthaigh Cuntas Nua">
 <!ENTITY button.haveAccount.label "Tá Cuntas Agam">
 
@@ -88,6 +88,8 @@
 <!ENTITY engine.passwords.accesskey "F">
 <!ENTITY engine.prefs.label "Sainroghanna">
 <!ENTITY engine.prefs.accesskey "S">
+<!ENTITY engine.addons.label "Breiseáin">
+<!ENTITY engine.addons.accesskey "B">
 
 <!ENTITY choice2.merge.main.label "Cumaisc na sonraí ar an ríomhaire seo le mo chuid sonraí &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Molta:">

@@ -1,4 +1,18 @@
 <!ENTITY aboutDialog.title "Maidir le &brandFullName;">
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+
+<!ENTITY warningDesc.version "Is táirge turgnamhach é &brandShortName; agus seans nach mbeidh sé cobhsaí.">
+<!-- LOCALIZATION NOTE (warningDesc.telemetry): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetry "Seolann sé faisnéis chuig &vendorShortName; go huathoibríoch, chun cabhrú linn feabhas a chur ar &brandShortName;.">
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+
+<!ENTITY community.exp.start "Seo é ">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink "&vendorShortName;">
+<!ENTITY community.exp.middle " - ">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink "comhphobal domhanda">
+<!ENTITY community.exp.end " atá ag obair ar son Gréasáin atá oscailte, poiblí, agus ar fáil do chách.">
 
 <!ENTITY community.start2 "Bhí &brandShortName; cruthaithe ag ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -6,7 +20,7 @@
 <!ENTITY community.middle2 ", ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink "comhphobal domhanda">
-<!ENTITY community.end2 " atá ag cur le chéile chun feabhas a chur ar an Idirlíon.  Creidimid gur chóir don Idirlíon a bheith oscailte, poiblí, agus ar fáil do chách gan srian ar bith.">
+<!ENTITY community.end3 " atá ag obair ar son Gréasáin atá oscailte, poiblí, agus ar fáil do chách.">
 
 <!ENTITY contribute.start "Suimiúil? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->

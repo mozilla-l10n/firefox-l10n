@@ -5,14 +5,19 @@
 <!ENTITY SearchNameOrEmail.label "Ainm nó Seoladh Ríomhphoist">
 
 <!ENTITY deleteAddrBookCard.label "Scrios">
+<!ENTITY deleteAddrBookCard.accesskey "S">
 <!ENTITY addrBookCardProperties.label "Airíonna">
-<!ENTITY addtoToFieldMenu.label 'Cuir leis an réimse "Chuig"'>
-<!ENTITY addtoCcFieldMenu.label 'Cuir leis an réimse "Cc"'>
-<!ENTITY addtoBccFieldMenu.label 'Cuir leis an réimse "Bcc"'>
+<!ENTITY addrBookCardProperties.accesskey "A">
+<!ENTITY addtoToFieldMenu.label "Cuir leis an réimse Chuig">
+<!ENTITY addtoToFieldMenu.accesskey "C">
+<!ENTITY addtoCcFieldMenu.label "Cuir leis an réimse Cc">
+<!ENTITY addtoCcFieldMenu.accesskey "l">
+<!ENTITY addtoBccFieldMenu.label "Cuir leis an réimse Bcc">
+<!ENTITY addtoBccFieldMenu.accesskey "B">
 
 <!ENTITY toButton.label "Cuir le Chuig:">
 <!ENTITY toButton.accesskey "C">
 <!ENTITY ccButton.label "Cuir le Cc:">
-<!ENTITY ccButton.accesskey "u">
+<!ENTITY ccButton.accesskey "l">
 <!ENTITY bccButton.label "Cuir le Bcc:">
 <!ENTITY bccButton.accesskey "B">

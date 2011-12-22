@@ -49,3 +49,7 @@
 <!ENTITY pref.defaultlength.accesskey "e">
 <!ENTITY pref.defaultsnoozelength.label "Achar codlata réamhshocraithe:">
 <!ENTITY pref.defaultsnoozelength.accesskey "s">
+
+<!ENTITY pref.accessibility.label "Inrochtaineacht">
+<!ENTITY pref.systemcolors.label "Roghnaigh na dathanna is fearr ó thaobh inrochtaineachta">
+<!ENTITY pref.systemcolors.accesskey "d">

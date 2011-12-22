@@ -43,9 +43,9 @@
 <!ENTITY aboutWarningButton.label "Geallaim go mbeidh mé cúramach!">
 <!ENTITY aboutWarningCheckbox.label "Taispeáin an rabhadh seo an chéad uair eile">
 
-<!ENTITY filterPrefs.label "Scagaire:">
-<!ENTITY filterPrefs.accesskey "S">
-<!ENTITY focusFilter.key "f">
+<!ENTITY searchPrefs.label "Cuardaigh:">
+<!ENTITY searchPrefs.accesskey "r">
+<!ENTITY focusSearch.key "r">
 <!-- Columns -->
 
 <!ENTITY prefColumn.label "Ainm na Sainrogha">
