@@ -90,7 +90,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey	"H">
 <!ENTITY fullScreenExit.label		"フルスクリーンモードを終了">
 <!ENTITY fullScreenExit.accesskey	"F">
-<!ENTITY domFullScreenWarning.label	"フルスクリーンモードを終了するには、ESC キーを押してください。">
+<!ENTITY domFullScreenWarning.label	"フルスクリーンモードを終了するには、ESC キーを押してください">
 
 <!ENTITY closeWindow.label		"ウインドウを閉じる">
 <!ENTITY closeWindow.accesskey 		"d">
