@@ -227,7 +227,7 @@
 <!ENTITY updates.resetUpdatesToManual.label          "Ρύθμιση όλων των προσθέτων σε χειροκίνητη ενημέρωση">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "χ">
 
-
+<!ENTITY search.commandkey                    "f">
 
 
 <!-- discovery view -->

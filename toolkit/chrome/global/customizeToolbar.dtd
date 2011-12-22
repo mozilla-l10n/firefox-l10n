@@ -9,4 +9,4 @@
 <!ENTITY text.label "Κείμενο">
 <!ENTITY undoChanges.label "Αναίρεση αλλαγών">
 <!ENTITY useSmallIcons.label "Χρήση μικρών εικονιδίων">
-<!ENTITY dialog.style "width: 735px; height: 500px;">
+<!ENTITY dialog.style             "width: 90ch; height: 38em;">
