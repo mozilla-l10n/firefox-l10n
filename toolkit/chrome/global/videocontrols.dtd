@@ -2,6 +2,8 @@
 <!ENTITY playButton.pauseLabel "Pausar">
 <!ENTITY muteButton.muteLabel "Sem som">
 <!ENTITY muteButton.unmuteLabel "Som">
+<!ENTITY fullscreenButton.enterfullscreenlabel "Ecrã inteiro">
+<!ENTITY fullscreenButton.exitfullscreenlabel "Sair do ecrã inteiro">
 
 <!ENTITY stats.media "Media">
 <!ENTITY stats.size "Tamanho">
@@ -17,6 +19,13 @@
 <!ENTITY stats.framesDecoded "Frames descodificados">
 <!ENTITY stats.framesPresented "Frames apresentadas">
 <!ENTITY stats.framesPainted "Frames pintadas">
+
+<!ENTITY error.aborted "O carregamento do vídeo parou.">
+<!ENTITY error.network "Reprodução de vídeo abortada devido a um erro de rede.">
+<!ENTITY error.decode "o vídeo não pode ser reproduzido porque o ficheiro está corrompido.">
+<!ENTITY error.srcNotSupported "Formato de vídeo ou tipo MIME não suportado.">
+<!ENTITY error.noSource2 "Nenhum vídeo encontrado com o formato e tipo de MIME suportado.">
+<!ENTITY error.generic "Reprodução de vídeo abortada devido a um erro desconhecido.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
