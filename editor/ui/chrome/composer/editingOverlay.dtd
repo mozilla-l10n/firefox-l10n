@@ -22,4 +22,10 @@
 
 <!ENTITY publishSettings.label "Axustes d'espublización…">
 <!ENTITY publishSettings.accesskey "b">
+<!ENTITY newToolbarCmd.label "Nuevu">
+<!ENTITY newToolbarCmd.tooltip "Crear una nueva páxina de Composer">
+<!ENTITY openToolbarCmd.label "Abrir">
+<!ENTITY openToolbarCmd.tooltip "Abrir un ficheru llocal">
+<!ENTITY saveToolbarCmd.tooltip "Guardar ficheru llocalmente">
+<!ENTITY publishToolbarCmd.tooltip "Xubir ficheru a allugamientu remotu">
 
