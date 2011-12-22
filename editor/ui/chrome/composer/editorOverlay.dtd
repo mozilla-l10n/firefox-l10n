@@ -328,12 +328,6 @@
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Menyrad">
 <!ENTITY formatToolbar.tooltip "Formateringsverktyg">
-<!ENTITY newToolbarCmd.label "Ny">
-<!ENTITY newToolbarCmd.tooltip "Skapa en ny sida i Composer">
-<!ENTITY openToolbarCmd.label "Öppna">
-<!ENTITY openToolbarCmd.tooltip "Öppna en lokal fil">
-<!ENTITY saveToolbarCmd.tooltip "Spara filen lokalt">
-<!ENTITY publishToolbarCmd.tooltip "Publicera fil">
 <!ENTITY cutToolbarCmd.tooltip "Klipp ut">
 <!ENTITY copyToolbarCmd.tooltip "Kopiera">
 <!ENTITY pasteToolbarCmd.tooltip "Klistra in">

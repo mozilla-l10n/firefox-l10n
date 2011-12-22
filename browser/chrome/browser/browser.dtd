@@ -248,8 +248,17 @@ can reach it easily. -->
 <!ENTITY inspectButton.label           "Inspektera">
 <!ENTITY inspectButton.accesskey       "I">
 <!ENTITY inspectCloseButton.tooltiptext "Stäng inspektör">
+<!ENTITY inspect3DButton.label        "3D">
+<!ENTITY inspect3DButton.accesskey    "3">
 <!ENTITY inspectStyleButton.label     "Stil">
 <!ENTITY inspectStyleButton.accesskey "S">
+
+<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
+  -  in the Tools menu. -->
+<!ENTITY styleeditor.label            "Stileditor">
+<!ENTITY styleeditor.accesskey        "e">
+<!ENTITY styleeditor.keycode          "VK_F7">
+<!ENTITY styleeditor.keytext          "F7">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Hämta fler verktyg">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "H">
@@ -453,14 +462,23 @@ can reach it easily. -->
 <!ENTITY thisFrameMenu.accesskey      "r">
 
 <!-- Media (video/audio) controls -->
+<!-- LOCALIZATION NOTE: The access keys for "Play" and
+"Pause" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaPlay.label             "Spela upp">
 <!ENTITY mediaPlay.accesskey         "S">
 <!ENTITY mediaPause.label            "Pausa">
 <!ENTITY mediaPause.accesskey        "s">
+<!-- LOCALIZATION NOTE: The access keys for "Mute" and
+"Unmute" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Ljud av">
 <!ENTITY mediaMute.accesskey         "L">
 <!ENTITY mediaUnmute.label           "Ljud på">
 <!ENTITY mediaUnmute.accesskey       "L">
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "Visa kontroller">
 <!ENTITY mediaShowControls.accesskey "k">
 <!ENTITY mediaHideControls.label     "Dölj kontroller">
@@ -469,6 +487,9 @@ can reach it easily. -->
 <!ENTITY videoFullScreen.accesskey   "H">
 <!ENTITY videoSaveImage.label        "Spara ögonblicksbild som…">
 <!ENTITY videoSaveImage.accesskey    "ö">
+<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
+"Hide Statistics" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY videoShowStats.label        "Visa statistik">
 <!ENTITY videoShowStats.accesskey    "a">
 <!ENTITY videoHideStats.label        "Dölj statistik">
