@@ -1,34 +1,18 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - Contributor(s):
-   -   Rimas Kudelis <rq@akl.lt>
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either the GNU General Public License Version 2 or later (the "GPL"), or
-   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the LGPL or the GPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-   - ***** END LICENSE BLOCK ***** -->
-
 <!ENTITY aboutDialog.title          "Apie „&brandFullName;“">
+
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+<!ENTITY warningDesc.version        "„&brandShortName;“ yra eksperimentinė programa ir gali būti nestabili.">
+<!-- LOCALIZATION NOTE (warningDesc.telemetry): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetry      "Ji automatiškai siunčia testinius duomenis „&vendorShortName;i“ programos tobulinimo tikslais.">
+
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+<!ENTITY community.exp.start        "">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "„&vendorShortName;“">
+<!ENTITY community.exp.middle       " – tai ">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "pasaulinė bendruomenė">
+<!ENTITY community.exp.end          ", siekianti, kad saitynas būtų atviras, viešas ir prieinamas kiekvienam.">
 
 <!ENTITY community.start2           "„&brandShortName;“ kuria ir tobulina ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -36,7 +20,7 @@
 <!ENTITY community.middle2          " – ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "pasaulinė bendruomenė">
-<!ENTITY community.end2             ", siekianti gerinti internetą ir skatinti jo vystymąsi. Mes tikime ir siekiame, kad internetas būtų atviras, viešas ir be apribojimų prieinamas kiekvienam.">
+<!ENTITY community.end3             ", siekianti, kad saitynas būtų atviras, viešas ir prieinamas kiekvienam.">
 
 <!ENTITY contribute.start           "Sudominome? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
