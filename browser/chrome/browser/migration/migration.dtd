@@ -9,12 +9,10 @@
 <!ENTITY importFromIE.accesskey         "M">
 <!ENTITY importFromNothing.label        "একো ইমপোৰ্ট নকৰিব">
 <!ENTITY importFromNothing.accesskey    "D">
-<!ENTITY importFromSeamonkey.label      "Netscape 6, 7 বা Mozilla 1.x">
-<!ENTITY importFromSeamonkey.accesskey  "N">
-<!ENTITY importFromOpera.label          "Opera">
-<!ENTITY importFromOpera.accesskey      "O">
 <!ENTITY importFromSafari.label         "Safari">
 <!ENTITY importFromSafari.accesskey     "S">
+<!ENTITY importFromChrome.label         "Chrome">
+<!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromHTMLFile.label       "এখন HTML নথিপত্ৰৰ পৰা">
 <!ENTITY importFromHTMLFile.accesskey   "F">
 
@@ -22,13 +20,13 @@
 
 <!ENTITY importSource.title             "পছন্দ আৰু তথ্য ইমপোৰ্ট কৰক">
 <!ENTITY importItems.title              "ইমপোৰ্ট কৰিব লগা বস্তু">
-<!ENTITY importItems.label              "ইমপোৰ্ট কৰিব লগা বস্তু নিৰ্ব্বাচন কৰক:">
+<!ENTITY importItems.label              "ইমপোৰ্ট কৰিব লগা বস্তু নিৰ্বাচন কৰক:">
 
 <!ENTITY migrating.title                "ইমপোৰ্ট কৰা হৈছে...">
 <!ENTITY migrating.label                "নিম্নলিখিত বস্তু বৰ্ত্তমানে ইমপোৰ্ট কৰা হৈছে...">
 
-<!ENTITY selectProfile.title            "পাৰ্শ্বৰূপ নিৰ্ব্বাচন কৰক">
-<!ENTITY selectProfile.label            "-ৰ পৰা নিম্নলিখিত পাৰ্শ্বৰূপ ইমপোৰ্ট কৰিবলৈ পোৱা যায়:">
+<!ENTITY selectProfile.title            "আলেখ্য নিৰ্বাচন কৰক">
+<!ENTITY selectProfile.label            "-ৰ পৰা নিম্নলিখিত আলেখ্য ইমপোৰ্ট কৰিবলৈ পোৱা যায়:">
 
 <!ENTITY done.title                     "ইমপোৰ্ট সম্পূৰ্ণ হ'ল">
 <!ENTITY done.label                     "নিম্নলিখিত বস্তু সফলভাবে ইমপোৰ্ট কৰা হ'ল:">

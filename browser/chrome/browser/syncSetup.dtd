@@ -2,7 +2,7 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "স্বাগতম, যদি আপুনি  আগতে &syncBrand.fullName.label; ব্যৱহাৰ কৰা নাই , আপুনি এটা নতুন একাওন্ট সৃষ্টি কৰিব লাগিব।">
+<!ENTITY setup.pickSetupType.description2 "স্বাগতম, যদি আপুনি  আগতে &syncBrand.fullName.label; ব্যৱহাৰ কৰা নাই , আপুনি এটা নতুন একাওন্ট সৃষ্টি কৰিব লাগিব।">
 <!ENTITY button.createNewAccount.label "এটা নতুন একাওন্ট সৃষ্টি কৰক">
 <!ENTITY button.haveAccount.label      "মোৰ এটা একাওন্ট আছে">
 
@@ -88,6 +88,8 @@
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "পছন্দসমূহ">
 <!ENTITY engine.prefs.accesskey     "S">
+<!ENTITY engine.addons.label        "এড-অনসমূহ">
+<!ENTITY engine.addons.accesskey    "A">
 
 <!ENTITY choice2.merge.main.label      "এই কমপিউটাৰৰ তথ্য মোৰ &syncBrand.shortName.label; তথ্যৰ লগত একত্ৰিকৰণ কৰক ">
 <!ENTITY choice2.merge.recommended.label "উপদেশীত:">

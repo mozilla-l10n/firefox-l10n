@@ -1,13 +1,26 @@
 <!ENTITY aboutDialog.title          " &brandFullName; -ৰ বিষয়ে">
 
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+<!ENTITY warningDesc.version        "&brandShortName; পৰিক্ষামূলক আৰু অস্থিৰ হব পাৰে।">
+<!-- LOCALIZATION NOTE (warningDesc.telemetry): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetry      "ই  &brandShortName; -ক উন্নত কৰিবলে স্বচালিতভাৱে পৰিক্ষণ তথ্য &vendorShortName; -লে পঠায়।">
+
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+<!ENTITY community.exp.start        "">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+<!ENTITY community.exp.middle       " is a ">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "বিশ্বব্যাপী সম্প্ৰদায়">
+<!ENTITY community.exp.end          " ৱেবক মুক্ত, ৰাজহুৱা আৰু সকলোৱে অভিগম কৰিব পৰা ৰাখিবলে একেলগে কাম কৰা হৈছে।">
+
 <!ENTITY community.start2           "&brandShortName; দ্বাৰা ৰূপাংকিত ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", a ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "বিশ্বব্যাপী সম্প্ৰদায়">
-<!ENTITY community.end2             " ইন্টাৰনেট উন্নত কৰিবলে সংযুক্তভাৱে কাম কৰা হৈ আছে।  আমি ভাবো যে ইন্টাৰনেট  মুক্ত, ৰাজহুৱা আৰু কোনো ধৰনৰ বাধা নোহোৱাকে
-সকলোৰ বাবে প্ৰবেশাধিকাৰ হব লাগে। ">
+<!ENTITY community.end3             " ৱেবক মুক্ত, ৰাজহুৱা আৰু সকলোৱে অভিগম কৰিব পৰা ৰাখিবলে একেলগে কাম কৰা হৈছে।">
 
 <!ENTITY contribute.start           "উৎসাহী যেন লাগিছে? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->

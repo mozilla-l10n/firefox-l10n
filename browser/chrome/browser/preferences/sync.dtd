@@ -30,6 +30,8 @@
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "পছন্দসমূহ">
 <!ENTITY engine.prefs.accesskey     "S">
+<!ENTITY engine.addons.label        "এড-অনসমূহ">
+<!ENTITY engine.addons.accesskey    "A">
 
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label       "কমপিউটাৰৰ নাম:">

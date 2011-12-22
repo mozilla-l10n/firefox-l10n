@@ -1,5 +1,10 @@
 <!ENTITY addons.windowTitle                   "এড-অনসমূহৰ ব্যৱস্থাপক">
+
 <!ENTITY search.placeholder                   "সকলো এড-অন সন্ধান কৰক">
+<!-- LOCALIZATION NOTE (search.commandKey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
+
 <!ENTITY loading.label                        "ল'ড কৰা হৈ আছে…">
 <!ENTITY listEmpty.installed.label            "ইনস্টল হোৱা এই ধৰণৰ বাবে আপোনাৰ কোনো এড-অন নাই">
 <!ENTITY listEmpty.availableUpdates.label     "কোনো আপডেইট পোৱা নগল">
