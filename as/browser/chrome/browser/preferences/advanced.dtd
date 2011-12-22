@@ -40,7 +40,9 @@
 <!ENTITY connectionSettings.label        "পছন্দসমূহ...">
 <!ENTITY connectionSettings.accesskey    "e">
 
-<!ENTITY offlineStorage.label            "অফ-লাইন সংৰক্ষণ">
+<!ENTITY httpCache.label                 "ক্যাশ কৰা ৱেব সমল">
+
+<!ENTITY offlineStorage2.label           "অফলাইন ৱেব সমল আৰু ব্যৱহাৰকাৰী তথ্য">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
@@ -53,6 +55,8 @@
 <!ENTITY limitCacheSizeAfter.label       "MB স্থান">
 <!ENTITY clearCacheNow.label             "এতিয়া পৰিষ্কাৰ কৰক">
 <!ENTITY clearCacheNow.accesskey         "C">
+<!ENTITY clearOfflineAppCacheNow.label   "এতিয়া পৰিষ্কাৰ কৰক">
+<!ENTITY clearOfflineAppCacheNow.accesskey "N">
 <!ENTITY overrideSmartCacheSize.label    "স্বচালিত ক্যাশ ব্যৱস্থাপনা অভাৰৰাইড কৰক">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
@@ -76,8 +80,6 @@
 <!ENTITY useService.accesskey            "b">
 
 <!ENTITY updateOthers.label              "স্বচালিতভাৱে আপডেইট কৰক:">
-<!ENTITY enableAddonsUpdate3.label       "এড-অনসমূহ">
-<!ENTITY enableAddonsUpdate3.accesskey   "o">
 <!ENTITY enableSearchUpdate.label        "বিচৰাৰ কলঘৰ">
 <!ENTITY enableSearchUpdate.accesskey    "h">
 
@@ -86,7 +88,7 @@
 <!ENTITY offlineNotifyExceptions.label   "বিজুতিসমূহ…">
 <!ENTITY offlineNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList.label           "নিম্নলিখিত ৱেব ছাইটে অফ-লাইন ব্যৱহাৰৰ কাৰণে তথ্য সংৰক্ষণ কৰিছে:">
+<!ENTITY offlineAppsList2.label          "নিম্মলিখিত ৱেবছাইটসমূহক অফলাইন ব্যৱহাৰৰ বাবে তথ্য সংৰক্ষণ কৰাৰ অনুমতি আছে:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "আঁতৰাওঁক…">
 <!ENTITY offlineAppsListRemove.accesskey "R">

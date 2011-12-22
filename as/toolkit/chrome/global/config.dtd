@@ -36,8 +36,16 @@
 
 <!ENTITY window.title "about:config">
 
-<!ENTITY filterPrefs.label "ফিল্টাৰ:">
-<!ENTITY filterPrefs.accesskey "F">
+<!-- about:config warning page -->
+<!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
+<!ENTITY aboutWarningTitle.label "এইটোৱে আপোনাৰ ৱেৰেন্টি নোহোৱা কৰিব পাৰে!">
+<!ENTITY aboutWarningText.label "এই উন্নত পছন্দ সলনি কৰাটো স্থিৰতা,সুৰক্ষা আৰু এই অনুপ্ৰয়োগৰ কাৰ্য্যক্ষমতাৰ কাৰণে ক্ষতিকৰ হ'ব পাৰে। আপুনি যি কৰিছে তাৰ বিষয়ে সুনিশ্চিত হ'লেহে আপুনি আগবাঢ়িব লাগে।">
+<!ENTITY aboutWarningButton.label "মই সাৱধান হ'ম, মই কথা দিছোঁ!">
+<!ENTITY aboutWarningCheckbox.label "পিছৰ বাৰ এই সকিয়নি দেখুৱাব">
+
+<!ENTITY searchPrefs.label "সন্ধান কৰক:">
+<!ENTITY searchPrefs.accesskey "r">
+<!ENTITY focusSearch.key "r">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "পছন্দৰ নাম">
@@ -47,9 +55,12 @@
 
 <!-- Tooltips -->
 <!ENTITY prefColumnHeader.tooltip "বাছিবলৈ টিপক"> 
-<!ENTITY columnChooser.tooltip "প্ৰদৰ্শনৰ বাবে স্তম্ভ নিৰ্ব্বাচন কৰিবলৈ টিপক"> 
+<!ENTITY columnChooser.tooltip "প্ৰদৰ্শনৰ বাবে স্তম্ভ নিৰ্বাচন কৰিবলৈ টিপক"> 
 
 <!-- Context Menu -->
+<!ENTITY copyPref.key "C">
+<!ENTITY copyPref.label "নকল কৰক">
+<!ENTITY copyPref.accesskey "C">
 <!ENTITY copyName.label "নাম নকল কৰক">
 <!ENTITY copyName.accesskey "N">
 <!ENTITY copyValue.label "মান নকল কৰক">
@@ -68,18 +79,3 @@
 <!ENTITY integer.accesskey "I">
 <!ENTITY boolean.label "বুলিয়েন">
 <!ENTITY boolean.accesskey "B">
-
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
-<!ENTITY aboutWarningButton.label "মই সাৱধান হ'ম, মই কথা দিছোঁ !">
-<!ENTITY copyPref.label "নকল কৰক">
-<!ENTITY aboutWarningCheckbox.label "পিছৰ বাৰ এই সকিয়নি দেখুৱাব">
-<!ENTITY aboutWarningText.label "এই উন্নত পছন্দ সলনিন কৰা স্থিৰতা,সুৰক্ষা আৰু এই অনুপ্ৰয়োগৰ কাৰ্য্যক্ষমতাৰ কাৰণে ক্ষতিকৰ হ'ব পাৰে । আপুনি যি কিৰছে তাৰ বিষয়ে সুনিশ্চিত হ'লেহে আপুনি আগবাঢ়িব লাগে ।">
-<!ENTITY copyPref.key "C">
-<!ENTITY focusFilter.key "f">
-<!ENTITY copyPref.accesskey "C">
-<!ENTITY aboutWarningTitle.label "এইটোৱে আপোনাৰ ৱেৰেন্টি নোহোৱা কৰিব পাৰে!">
