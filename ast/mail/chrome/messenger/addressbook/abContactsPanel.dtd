@@ -4,10 +4,15 @@
 <!ENTITY searchInput.accesskey "u">
 <!ENTITY SearchNameOrEmail.label "Nome o direición de corréu">
 <!ENTITY deleteAddrBookCard.label "Desaniciar">
+<!ENTITY deleteAddrBookCard.accesskey "D">
 <!ENTITY addrBookCardProperties.label "Propiedaes">
+<!ENTITY addrBookCardProperties.accesskey "P">
 <!ENTITY addtoToFieldMenu.label "Amestar a campu Pa">
+<!ENTITY addtoToFieldMenu.accesskey "P">
 <!ENTITY addtoCcFieldMenu.label "Amestar a campu Cc">
+<!ENTITY addtoCcFieldMenu.accesskey "C">
 <!ENTITY addtoBccFieldMenu.label "Amestar a campu CCt">
+<!ENTITY addtoBccFieldMenu.accesskey "t">
 <!ENTITY toButton.label "Amestar a Pa:">
 <!ENTITY toButton.accesskey "A">
 <!ENTITY ccButton.label "Amestar a Cc:">
