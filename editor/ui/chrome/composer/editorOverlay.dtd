@@ -326,12 +326,6 @@
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Barra de menú">
 <!ENTITY formatToolbar.tooltip "Barra de herramientas de formato">
-<!ENTITY newToolbarCmd.label "Nueva">
-<!ENTITY newToolbarCmd.tooltip "Crear una nueva página de Composer">
-<!ENTITY openToolbarCmd.label "Abrir">
-<!ENTITY openToolbarCmd.tooltip "Abrir un archivo local">
-<!ENTITY saveToolbarCmd.tooltip "Guardar archivo localmente">
-<!ENTITY publishToolbarCmd.tooltip "Subir archivo a ubicación remota">
 <!ENTITY cutToolbarCmd.tooltip "Cortar">
 <!ENTITY copyToolbarCmd.tooltip "Copiar">
 <!ENTITY pasteToolbarCmd.tooltip "Pegar">
@@ -390,4 +384,3 @@
 <!ENTITY removeTOC.accesskey "r">
 <!ENTITY tocMenu.label "Tabla de contenidos…">
 <!ENTITY tocMenu.accesskey "b">
-<!ENTITY newToolbarCmd.label "Nueva">

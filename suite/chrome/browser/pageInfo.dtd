@@ -79,7 +79,6 @@
 
 <!ENTITY  linksTab              "Enlaces">
 <!ENTITY  linksTab.accesskey    "l">
-<!ENTITY  linkNo                "No.">
 <!ENTITY  linkName              "Nombre">
 <!ENTITY  linkAddress           "Dirección">
 <!ENTITY  linkType              "Tipo">
@@ -120,7 +119,7 @@
 <!ENTITY  permissionsFor        "Permisos para:">
 <!ENTITY  permImage             "Cargar imágenes">
 <!ENTITY  permPopup             "Abrir ventanas emergentes">
-<!ENTITY  permCookie            "Establecer Cookies">
+<!ENTITY  permCookie            "Establecer cookies">
 <!ENTITY  permInstall           "Instalar extensiones o temas">
 <!ENTITY  permGeo               "Compartir ubicación">
 

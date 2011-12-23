@@ -69,3 +69,11 @@
 <!ENTITY publishSettings.label "Configuración de sitio de publicación…">
 <!ENTITY publishSettings.accesskey "b">
 
+<!-- Toolbar buttons/items -->
+<!ENTITY newToolbarCmd.label "Nueva">
+<!ENTITY newToolbarCmd.tooltip "Crear una nueva página de Composer">
+<!ENTITY openToolbarCmd.label "Abrir">
+<!ENTITY openToolbarCmd.tooltip "Abrir un archivo local">
+<!ENTITY saveToolbarCmd.tooltip "Guardar archivo localmente">
+<!ENTITY publishToolbarCmd.tooltip "Subir archivo a ubicación remota">
+
