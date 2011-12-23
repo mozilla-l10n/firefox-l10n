@@ -9,6 +9,8 @@
 <!ENTITY CreateFilterFrom.accesskey "з">
 <!ENTITY copyLinkCmd.label "Копировать ссылку">
 <!ENTITY copyLinkCmd.accesskey "п">
+<!ENTITY bookmarkLinkCmd.label "Добавить ссылку в закладки…">
+<!ENTITY bookmarkLinkCmd.accesskey "б">
 <!ENTITY CopyMessageId.label "Копировать идентификатор">
 <!ENTITY CopyMessageId.accesskey "п">
 <!ENTITY OpenMessageForMsgId.label "Открыть сообщение по идентификатору">
