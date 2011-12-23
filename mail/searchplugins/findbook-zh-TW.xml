@@ -6,8 +6,6 @@
 <Url type="application/x-suggestions+json" method="GET" template="http://findbook.tw/search/suggest?q={searchTerms}&amp;utm_source=ff-bundled&amp;utm_medium=mozsearch&amp;utm_campaign=search" />
 <Url type="text/html" method="GET" template="http://findbook.tw/search">
 	<Param name="q" value="{searchTerms}"/>
-	<Param name="utm_source" value="ff-bundled"/>
-	<Param name="utm_medium" value="mozsearch"/>
 	<Param name="utm_campaign" value="search"/>
 </Url>
 <SearchForm>http://findbook.tw/search</SearchForm>
