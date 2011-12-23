@@ -46,6 +46,8 @@
 <!ENTITY CreateFilterFrom.accesskey        "f">
 <!ENTITY copyLinkCmd.label                 "Copiar dirección del enlace">
 <!ENTITY copyLinkCmd.accesskey             "C">
+<!ENTITY bookmarkLinkCmd.label             "Marcar este enlace…">
+<!ENTITY bookmarkLinkCmd.accesskey         "M">
 <!ENTITY CopyMessageId.label               "Copiar ID del mensaje">
 <!ENTITY CopyMessageId.accesskey           "C">
 <!ENTITY OpenMessageForMsgId.label         "Abrir mensaje para ID">
