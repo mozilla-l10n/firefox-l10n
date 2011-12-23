@@ -54,6 +54,10 @@
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
+<!ENTITY portNum.label "Porta:">
+<!ENTITY portNum.accesskey "o">
+<!ENTITY defaultPortLabel.label "Pré-definido:">
+<!ENTITY defaultPortValue.label "">
 <!ENTITY leaveMsgsOnSrvr.label "Deixar mensagens no servidor">
 <!ENTITY leaveMsgsOnSrvr.accesskey "x">
 
@@ -61,7 +65,7 @@
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
 -->
-<!ENTITY haveSmtp1.prefix "O servidor SMTP actual, &quot;">
+<!ENTITY haveSmtp1.prefix "O servidor SMTP atual, &quot;">
 <!ENTITY haveSmtp1.suffix2 "&quot;, será usado para enviar mensagens. Modifique indo ao menu Ferramentas -> Configurar contas.">
 
 <!-- Entities for Login page -->
