@@ -8,7 +8,6 @@
 <Url type="text/html" method="GET" template="http://tw.rd.yahoo.com/referurl/ff3/srchbox/web/*http://tw.search.yahoo.com/search">
   <Param name="p" value="{searchTerms}"/>
   <Param name="ei" value="UTF-8"/>
-  <MozParam name="fr" condition="pref" pref="ffds1" />
 </Url>
 <SearchForm>http://tw.search.yahoo.com</SearchForm>
 </SearchPlugin>
