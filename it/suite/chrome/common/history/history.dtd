@@ -30,7 +30,7 @@
 <!ENTITY cmd.open_window.accesskey "f">
 <!ENTITY cmd.open_tab.label "Apri collegamento in nuova scheda">
 <!ENTITY cmd.open_tab.accesskey "s">
-<!ENTITY bookmarkLinkCmd.label "Aggiungi link come segnalibro…">
+<!ENTITY bookmarkLinkCmd.label "Aggiungi link nei segnalibri…">
 <!ENTITY bookmarkLinkCmd.accesskey "b">
 <!ENTITY bookmarkLinksCmd.label "Aggiungi link come segnalibri">
 <!ENTITY bookmarkLinksCmd.accesskey "b">

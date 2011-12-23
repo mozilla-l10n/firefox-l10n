@@ -54,7 +54,7 @@
 <!ENTITY setWallpaperCmd.accesskey "f">
 <!ENTITY bookmarkPageCmd.label "Aggiungi pagina nei segnalibri">
 <!ENTITY bookmarkPageCmd.accesskey "b">
-<!ENTITY bookmarkLinkCmd.label "Aggiungi collegamento nei segnalibri…">
+<!ENTITY bookmarkLinkCmd.label "Aggiungi link nei segnalibri">
 <!ENTITY bookmarkLinkCmd.accesskey "o">
 <!ENTITY bookmarkFrameCmd.label "Aggiungi questo riquadro nei segnalibri">
 <!ENTITY bookmarkFrameCmd.accesskey "b">
