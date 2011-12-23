@@ -343,7 +343,7 @@
 <!ENTITY searchMailCmd.accesskey "m">
 <!ENTITY searchMailCmd.key "s">
 <!ENTITY searchAddressesCmd.label "Buscar direcciones…">
-<!ENTITY searchAddressesCmd.accesskey "S">
+<!ENTITY searchAddressesCmd.accesskey "c">
 <!ENTITY filtersCmd.label "Filtros de mensajes…">
 <!ENTITY filtersCmd.accesskey "f">
 <!ENTITY filtersApply.label "Ejecutar filtros en la carpeta">
