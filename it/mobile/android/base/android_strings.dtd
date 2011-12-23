@@ -1,0 +1,19 @@
+<!ENTITY  splash_firstrun "Configurazione di &brandShortName;\u2026">
+<!ENTITY  no_space_to_start_error "Spazio libero insufficiente per avviare &brandShortName;.">
+<!ENTITY  error_loading_file "Si è verificato un errore durante il caricamento di un file necessario per l’esecuzione di &brandShortName;">
+
+<!ENTITY  crash_reporter_title "Crash Reporter &brandShortName;">
+<!ENTITY  crash_message "Si è verificato un arresto anomalo di &brandShortName;. Un elenco delle schede aperte dovrebbe essere disponibile nella pagina iniziale di &brandShortName; dopo il riavvio.">
+<!ENTITY  crash_help_message "Aiutaci a risolvere il problema!">
+<!ENTITY  crash_send_report_message "Invia una segnalazione dell’arresto anomalo a Mozilla">
+<!ENTITY  crash_include_url "Includi l’indirizzo della pagina">
+<!ENTITY  crash_close_label "Chiudi">
+<!ENTITY  crash_restart_label "Riavvia &brandShortName;">
+<!ENTITY  sending_crash_report "Invio segnalazione\u2026">
+<!ENTITY  exit_label "Esci">
+<!ENTITY  continue_label "Continua">
+
+<!ENTITY  launcher_shortcuts_title "&brandShortName; web app">
+<!ENTITY  launcher_shortcuts_empty "Nessuna web app trovata">
+
+<!ENTITY choose_file "Scelta file">
