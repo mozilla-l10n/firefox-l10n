@@ -76,8 +76,6 @@
 <!ENTITY useService.accesskey "s">
 
 <!ENTITY updateOthers.label "Automaticky aktualizovat:">
-<!ENTITY enableAddonsUpdate3.label "Doplňky">
-<!ENTITY enableAddonsUpdate3.accesskey "D">
 <!ENTITY enableSearchUpdate.label "Vyhledávací moduly">
 <!ENTITY enableSearchUpdate.accesskey "h">
 
