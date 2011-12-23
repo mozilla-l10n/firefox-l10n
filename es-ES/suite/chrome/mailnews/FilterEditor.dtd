@@ -24,6 +24,7 @@
 <!ENTITY forwardTo.label "Reenviar mensaje a:">
 <!ENTITY replyWithTemplate.label "Responder con plantilla">
 <!ENTITY markMessageRead.label "Marcar como leído">
+<!ENTITY markMessageUnread.label "Marcar como no leído">
 <!ENTITY markMessageStarred.label "Marcar como señalado">
 <!ENTITY setPriority.label "Establecer prioridad en">
 <!ENTITY addTag.label "Etiquetar mensaje">
