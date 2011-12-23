@@ -1,3 +1,4 @@
+<!ENTITY quickFilterBar.qfbShowFilterBar.label "Filtráu rápidu">
 <!ENTITY quickFilterBar.toggleBarVisibility.menu.label "Barra de filtráu rápidu">
 <!ENTITY quickFilterBar.toggleBarVisibility.menu.accesskey "B">
 <!ENTITY quickFilterBar.toggleBarVisibility.button.tooltip "Amosar/anubrir la barra de filtráu rápidu">

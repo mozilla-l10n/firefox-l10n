@@ -64,3 +64,7 @@
 <!ENTITY deferStorage.accesskey "G">
 <!ENTITY clickFinish.label "Calca'l botón Finar pa guardar estes configuraciones y colar del Encontu de cuentes.">
 <!ENTITY clickFinish.labelMac "Calca Fináu pa guardar estos valores y colar del Encontu de cuentes.">
+<!ENTITY portNum.label "Puertu:">
+<!ENTITY portNum.accesskey "u">
+<!ENTITY defaultPortLabel.label "Predetermináu:">
+<!ENTITY defaultPortValue.label "">

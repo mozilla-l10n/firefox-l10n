@@ -23,6 +23,7 @@
 <!ENTITY forwardTo.label "Reunviar mensaxe a">
 <!ENTITY replyWithTemplate.label "Retrucar con plantía">
 <!ENTITY markMessageRead.label "Conseñar como lleíu">
+<!ENTITY markMessageUnread.label "Conseñar como non lleíu">
 <!ENTITY markMessageStarred.label "Amestar estrella">
 <!ENTITY setPriority.label "Fixar prioridá a">
 <!ENTITY addTag.label "Etiquetar mensaxe">
