@@ -9,7 +9,6 @@
 </Url>
 <Url type="text/html" method="GET" template="http://zh.wikipedia.org/wiki/Special:Search">
   <Param name="search" value="{searchTerms}"/>
-  <Param name="sourceid" value="Mozilla-search"/>
   <Param name="variant" value="zh-tw"/>
 </Url>
 <SearchForm>http://zh.wikipedia.org/wiki/Special:Search</SearchForm>
