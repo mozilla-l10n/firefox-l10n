@@ -9,11 +9,11 @@
 <!ENTITY sync.title.pair.label "Associer un appareil">
 
 <!-- J-PAKE Key Screen -->
-<!ENTITY sync.subtitle.connect.label "Pour activer votre nouvel appareil, Sélectionner « Configurer la synchronisation » sur celui-ci.">
+<!ENTITY sync.subtitle.connect.label "Pour activer votre nouvel appareil, sélectionner « Configurer la synchronisation » sur celui-ci.">
 <!ENTITY sync.subtitle.pair.label "Pour activer, sélectionnez « Associer un appareil » sur votre appareil.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
-<!ENTITY sync.link.show.label "<a href="https://support.mozilla.com/fr/kb/comment-puis-je-ajouter-un-appareil-firefox-sync">Me montrer comment</a>">
-<!ENTITY sync.link.nodevice.label "<a href="#">Je n'ai pas l'appareil avec moi…</a>">
+<!ENTITY sync.link.show.label '<a href="https://support.mozilla.com/fr/kb/comment-puis-je-ajouter-un-appareil-firefox-sync">Me montrer comment</a>'>
+<!ENTITY sync.link.nodevice.label '<a href="#">Je n'ai pas l\&apos;appareil avec moi…</a>'>
 
 <!-- J-PAKE Waiting Screen -->
 <!ENTITY sync.jpake.subtitle.waiting.label "En attente de l'autre appareil…">
