@@ -24,3 +24,4 @@
 <!ENTITY site_settings_cancel "Zrušit">
 <!ENTITY site_settings_clear "Vymazat">
 <!ENTITY site_settings_no_settings "Žádné nastavení neexistuje.">
+<!ENTITY pref_use_master_password "Použít hlavní heslo">
