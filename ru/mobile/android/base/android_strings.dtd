@@ -20,7 +20,7 @@
 <!ENTITY choose_file "Выбор файла">
 <!ENTITY awesomebar_default_text "Введите поиск или адрес">
 <!ENTITY bookmarks_title "Закладки">
-<!ENTITY bookmark_add "Заложить">
+<!ENTITY bookmark_add "В закладки">
 <!ENTITY bookmark_remove "Удалить">
 <!ENTITY bookmark_added "Закладка добавлена">
 <!ENTITY bookmark_removed "Закладка удалена">
