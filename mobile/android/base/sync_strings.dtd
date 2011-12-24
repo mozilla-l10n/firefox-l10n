@@ -16,7 +16,7 @@
 <!ENTITY sync.checkbox.server.label "Utilizza server personalizzato">
 <!ENTITY sync.input.server.label "Indirizzo del server">
 <!ENTITY sync.title.fail.label "Impossibile configurare &syncBrand.shortName.label;">
-<!ENTITY sync.subtitle.fail.label "Errore nella connessione di &syncBrand.shortName.label; con il server. Riprovare?">
+<!ENTITY sync.subtitle.fail.label "Errore nella connessione di &syncBrand.fullName.label; con il server. Riprovare?">
 <!ENTITY sync.button.tryagain.label "Riprova">
 <!ENTITY sync.button.manual.label "Configurazione manuale">
 <!ENTITY sync.title.success.label "Configurazione completata">
