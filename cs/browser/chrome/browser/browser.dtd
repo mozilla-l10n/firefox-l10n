@@ -217,6 +217,8 @@ can reach it easily. -->
 <!ENTITY inspectButton.label "Prozkoumat">
 <!ENTITY inspectButton.accesskey "P">
 <!ENTITY inspectCloseButton.tooltiptext "Zavře průzkumníka">
+<!ENTITY inspect3DButton.label "3D">
+<!ENTITY inspect3DButton.accesskey "3">
 <!ENTITY inspectStyleButton.label "Styl">
 <!ENTITY inspectStyleButton.accesskey "S">
 
