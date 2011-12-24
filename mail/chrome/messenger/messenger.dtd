@@ -587,8 +587,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextMarkMailFolderRead.accesskey "z">
 <!ENTITY folderContextSubscribe.label "Správce odebírání…">
 <!ENTITY folderContextSubscribe.accesskey "S">
-<!ENTITY folderContextSearchMessages.label "Hledat ve zprávách…">
-<!ENTITY folderContextSearchMessages.accesskey "H">
+<!ENTITY folderContextSearchForMessages.label "Hledat ve zprávách…">
+<!ENTITY folderContextSearchForMessages.accesskey "H">
 <!ENTITY folderContextProperties.label "Vlastnosti…">
 <!ENTITY folderContextProperties.accesskey "V">
 <!ENTITY folderContextFavoriteFolder.label "Oblíbená složka">
