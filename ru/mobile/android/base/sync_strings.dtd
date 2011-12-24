@@ -1,0 +1,35 @@
+<!ENTITY syncBrand.fullName.label "Firefox Sync">
+<!ENTITY syncBrand.shortName.label "Sync">
+<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
+<!ENTITY sync.title.connect.label "Соединение с &syncBrand.shortName.label;">
+<!ENTITY sync.title.pair.label "Соединение с устройством">
+<!ENTITY sync.subtitle.connect.label "Для активации вашего нового устройства выберите на устройстве «Настроить &syncBrand.shortName.label;».">
+<!ENTITY sync.subtitle.pair.label "Для активации выберите «Соединиться с устройством» на другом вашем устройстве.">
+<!ENTITY sync.pin.default.label "...\n...\n...\n">
+<!ENTITY sync.link.show.label '<a href="https://support.mozilla.com/kb/add-a-device-to-firefox-sync">Показать мне как</a>'>
+<!ENTITY sync.link.nodevice.label '<a href="#">У меня нет с собой устройства…</a>'>
+<!ENTITY sync.jpake.subtitle.waiting.label "Ожидание другого устройства…">
+<!ENTITY sync.subtitle.account.label "Введите данные вашей учётной записи &syncBrand.fullName.label;">
+<!ENTITY sync.input.username.label "Имя учётной записи">
+<!ENTITY sync.input.password.label "Пароль">
+<!ENTITY sync.input.key.label "Ключ восстановления">
+<!ENTITY sync.checkbox.server.label "Использовать свой сервер">
+<!ENTITY sync.input.server.label "URL сервера">
+<!ENTITY sync.title.fail.label "Не удалось настроить &syncBrand.shortName.label;">
+<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; не удалось соединиться с сервером. Вы хотите попробовать снова?">
+<!ENTITY sync.button.tryagain.label "Попробовать снова">
+<!ENTITY sync.button.manual.label "Настройка вручную">
+<!ENTITY sync.title.success.label "Настройка завершена">
+<!ENTITY sync.subtitle.success.label "Ваши данные сейчас загружаются в фоновом режиме. Вы можете перейти в Параметры для управления вашей учётной записью.">
+<!ENTITY sync.settings.label "Параметры">
+<!ENTITY sync.subtitle.manage.label "Ваша учётная запись &syncBrand.fullName.label; уже настроена. Вы можете перейти в Параметры для управления вашей учётной записью.">
+<!ENTITY sync.button.cancel.label "Отмена">
+<!ENTITY sync.button.connect.label "Соединиться">
+<!ENTITY sync.account.label.label "&syncBrand.fullName.label;">
+<!ENTITY bookmarks.folder.menu.label "Меню закладок">
+<!ENTITY bookmarks.folder.places.label "">
+<!ENTITY bookmarks.folder.tags.label "Метки">
+<!ENTITY bookmarks.folder.toolbar.label "Панель закладок">
+<!ENTITY bookmarks.folder.unfiled.label "Неподшитые закладки">
+<!ENTITY bookmarks.folder.desktop.label "Закладки десктопа">
+<!ENTITY bookmarks.folder.mobile.label "Мобильные закладки">
