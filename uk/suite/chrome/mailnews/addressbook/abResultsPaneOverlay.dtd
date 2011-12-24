@@ -34,17 +34,17 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY GeneratedName.label                   "Ім’я">
-<!ENTITY GeneratedName.accesskey               "І">
-<!ENTITY PrimaryEmail.label                    "Електронна пошта">
-<!ENTITY PrimaryEmail.accesskey                "Е">
+<!ENTITY GeneratedName.label                   "Назва">
+<!ENTITY GeneratedName.accesskey               "Н">
+<!ENTITY PrimaryEmail.label                    "Пошта">
+<!ENTITY PrimaryEmail.accesskey                "П">
 <!ENTITY Company.label                         "Організація">
 <!ENTITY Company.accesskey                     "О">
 <!ENTITY _PhoneticName.label                   "Вимова">
 <!ENTITY _PhoneticName.accesskey               "В">
 <!ENTITY NickName.label                        "Псевдонім">
 <!ENTITY NickName.accesskey                    "с">
-<!ENTITY SecondEmail.label                     "Дод. адреса електронної пошти">
+<!ENTITY SecondEmail.label                     "Дод. адреса пошти">
 <!ENTITY SecondEmail.accesskey                 "о">
 <!ENTITY Department.label                      "Відділ">
 <!ENTITY Department.accesskey                  "В">
@@ -65,10 +65,10 @@
 <!ENTITY sortAscending.label                   "За зростанням">
 <!ENTITY sortAscending.accesskey               "з">
 <!ENTITY sortDescending.label                  "За спаданням">
-<!ENTITY sortDescending.accesskey              "м">
+<!ENTITY sortDescending.accesskey              "с">
 
 <!-- context menu -->
-<!ENTITY composeEmail.label                    "Скласти електрону пошту до">
+<!ENTITY composeEmail.label                    "Скласти листа">
 <!ENTITY composeEmail.accesskey                "С">
 <!ENTITY copyAddress.label                     "Копіювати адресу електронної пошти">
 <!ENTITY copyAddress.accesskey                 "К">
@@ -76,7 +76,7 @@
 <!ENTITY deleteAddrBookCard.accesskey          "В">
 <!ENTITY newAddrBookCard.label                 "Нова картка…">
 <!ENTITY newAddrBookCard.accesskey             "Н">
-<!ENTITY newAddrBookMailingList.label          "Новий список переписки…">
+<!ENTITY newAddrBookMailingList.label          "Новий список листування…">
 <!ENTITY newAddrBookMailingList.accesskey      "Н">
 <!ENTITY addrBookCardProperties.label          "Властивості">
 <!ENTITY addrBookCardProperties.accesskey      "В">
