@@ -87,7 +87,9 @@
 <!ENTITY engine.passwords.label "Hesla">
 <!ENTITY engine.passwords.accesskey "e">
 <!ENTITY engine.prefs.label "Předvolby">
-<!ENTITY engine.prefs.accesskey "d">
+<!ENTITY engine.prefs.accesskey "e">
+<!ENTITY engine.addons.label "Doplňky">
+<!ENTITY engine.addons.accesskey "D">
 
 <!ENTITY choice2.merge.main.label "Sloučit data na tomto počítači s daty &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Doporučováno:">

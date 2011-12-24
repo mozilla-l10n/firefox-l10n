@@ -30,6 +30,8 @@
 <!ENTITY engine.passwords.accesskey "e">
 <!ENTITY engine.prefs.label "Předvolby">
 <!ENTITY engine.prefs.accesskey "v">
+<!ENTITY engine.addons.label "Doplňky">
+<!ENTITY engine.addons.accesskey "D">
 
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label "Název počítače:">
