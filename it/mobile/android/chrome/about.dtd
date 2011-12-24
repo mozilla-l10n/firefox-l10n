@@ -5,7 +5,7 @@
 <!ENTITY aboutPage.rights.label "I tuoi diritti">
 <!ENTITY aboutPage.relNotes.label "Note di versione">
 <!ENTITY aboutPage.credits.label "Riconoscimenti">
-<!ENTITY aboutPage.checkForUpdates.button "Cerca aggiornamenti">
+<!ENTITY aboutPage.checkForUpdates.link "Controlla aggiornamenti »">
 <!ENTITY aboutPage.checkForUpdates.checking "Ricerca aggiornamenti…">
 <!ENTITY aboutPage.checkForUpdates.none "Nessun agg. disponibile">
 <!ENTITY aboutPage.checkForUpdates.found "Aggiornamento disponibile">
