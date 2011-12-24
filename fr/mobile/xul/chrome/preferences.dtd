@@ -1,7 +1,6 @@
 <!ENTITY prefsHeader.label                         "Préférences">
 <!ENTITY about.title                               "À propos de &brandShortName;">
 <!ENTITY about.button                              "Aller à la page">
-<!ENTITY about.button                              "Site Web">
 <!ENTITY content.title                             "Contenu">
 <!ENTITY reflowZoom.title                          "Zoom textuel reformaté">
 <!ENTITY showImages.title                          "Afficher les images">
@@ -13,7 +12,6 @@
 <!ENTITY clearPrivateData2.title                   "Données privées">
 <!ENTITY clearPrivateData.button                   "Effacer">
 <!ENTITY rememberPasswords.title                   "Enreg. les mots de passe">
-
 <!ENTITY language.title                            "Langue">
 <!ENTITY language.auto                             "Détection automatique">
 <!ENTITY defaultBrowser.title                      "Navigateur par défaut">

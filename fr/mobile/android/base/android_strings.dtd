@@ -1,0 +1,99 @@
+<!ENTITY  splash_firstrun "Configuration de &brandShortName;\u2026">
+
+<!ENTITY  no_space_to_start_error "Il n\u0027y a pas assez d\u0027espace disponible pour permettre à &brandShortName; de démarrer.">
+<!ENTITY  error_loading_file "Une erreur est survenue en essayant de charger des fichiers nécessaires pour lancer &brandShortName;">
+
+<!ENTITY  awesomebar_all_pages_title "Sites favoris">
+<!ENTITY  awesomebar_bookmarks_title "Marque-pages">
+<!ENTITY  awesomebar_history_title "Historique">
+<!ENTITY  awesomebar_search_engine "Rechercher « &#037;s »">
+
+<!ENTITY  crash_reporter_title "Rapport de plantage de &brandShortName;">
+<!ENTITY  crash_message "&brandShortName; a planté. Vos onglets devraient apparaître sur la page de démarrage de &brandShortName; à son prochain démarrage.">
+<!ENTITY  crash_help_message "Aidez-nous à corriger ce problème !">
+<!ENTITY  crash_send_report_message "Envoyer un rapport de plantage à Mozilla">
+<!ENTITY  crash_include_url "Inclure l\u0027adresse de la page">
+<!ENTITY  crash_close_label "Fermer">
+<!ENTITY  crash_restart_label "Redémarrer &brandShortName;">
+<!ENTITY  sending_crash_report "Envoi du rapport de plantage\u2026">
+<!ENTITY  exit_label "Quitter">
+<!ENTITY  continue_label "Continuer">
+
+<!ENTITY  launcher_shortcuts_title "Applications Web pour &brandShortName;">
+<!ENTITY  launcher_shortcuts_empty "Aucune application Web trouvée">
+
+<!ENTITY choose_file "Choisir un fichier">
+
+<!ENTITY awesomebar_default_text "Recherche ou adresse">
+
+<!ENTITY bookmarks_title "Marque-pages">
+<!ENTITY bookmark_add "Marque-page">
+<!ENTITY bookmark_remove "Supprimer">
+<!ENTITY bookmark_added "Marque-page ajouté">
+<!ENTITY bookmark_removed "Marque-page supprimé">
+
+<!ENTITY history_today_section "Aujourd'hui">
+<!ENTITY history_yesterday_section "Hier">
+<!ENTITY history_week_section "Il y a 7 jours">
+<!ENTITY history_older_section "Il y a plus de 7 jours">
+
+<!ENTITY reload "Recharger">
+<!ENTITY forward "Page suivante">
+
+<!ENTITY new_tab "Nouvel onglet">
+
+<!ENTITY settings "Paramètres">
+<!ENTITY settings_title "Paramètres">
+<!ENTITY pref_category_general "Général">
+<!ENTITY pref_category_privacy "Vie privée et sécurité">
+<!ENTITY pref_category_content "Contenu">
+<!ENTITY pref_about_firefox "À propos de &brandShortName;">
+<!ENTITY pref_do_not_track "Dire de ne pas me pister">
+<!ENTITY pref_telemetry "Envoyer les données de perf.">
+<!ENTITY pref_homepage "Accueil">
+<!ENTITY pref_homepage_start "Accueil de Firefox">
+<!ENTITY pref_homepage_blank "Page vide">
+<!ENTITY pref_homepage_current "Page courante">
+<!ENTITY pref_remember_signons "Enreg. les mots de passe">
+<!ENTITY pref_cookies "Autoriser les cookies">
+<!ENTITY pref_char_encoding "Afficher l'encodage">
+<!ENTITY pref_clear_history "Supprimer l'historique">
+<!ENTITY pref_clear_history_confirm "L'historique de navigation sera supprimé">
+<!ENTITY pref_clear_private_data "Supprimer les données personnelles">
+<!ENTITY pref_clear_private_data_confirm "Les paramètres de navigation y compris les mots de passe et les cookies seront supprimés">
+<!ENTITY pref_enable_plugins "Activer les plugins">
+<!ENTITY pref_enable_plugins_yes "Oui">
+<!ENTITY pref_enable_plugins_tap_to_play "Toucher pour lancer la lecture">
+<!ENTITY pref_enable_plugins_no "Non">
+<!ENTITY pref_font_size "Taille de police">
+<!ENTITY pref_font_size_small "Petite">
+<!ENTITY pref_font_size_medium "Moyenne">
+<!ENTITY pref_font_size_large "Grande">
+<!ENTITY pref_font_size_xlarge "Très grande">
+<!ENTITY pref_use_master_password "Utiliser un mot de passe principal">
+
+<!ENTITY quit "Quitter">
+
+<!ENTITY addons "Modules complémentaires">
+
+<!ENTITY share "Partager">
+<!ENTITY save_as_pdf "Enregistrer en PDF">
+<!ENTITY agent_request_desktop "Demander site pour PC">
+<!ENTITY agent_request_mobile "Demander site pour mobile">
+
+<!ENTITY contextmenu_open_new_tab "Ouvrir dans un nouvel onglet">
+<!ENTITY contextmenu_add_to_launcher "Ajouter à l'écran d'accueil">
+<!ENTITY contextmenu_share "Partager">
+
+<!ENTITY site_settings_title        "Effacer les paramètres de site">
+<!ENTITY site_settings_cancel       "Annuler">
+<!ENTITY site_settings_clear        "Effacer">
+<!ENTITY site_settings_no_settings  "Il n'y a pas de paramètre à effacer.">
+
+<!ENTITY masterpassword_create_title "Créer un mot de passe pricnipal">
+<!ENTITY masterpassword_remove_title "Effacer le mot de passe principal">
+<!ENTITY masterpassword_password "Mot de passe">
+<!ENTITY masterpassword_confirm "Confirmer le mot de passe">
+
+<!ENTITY button_ok "OK">
+<!ENTITY button_cancel "Annuler">
