@@ -40,7 +40,9 @@
 <!ENTITY connectionSettings.label "Nastavení připojení…">
 <!ENTITY connectionSettings.accesskey "p">
 
-<!ENTITY offlineStorage.label "Úložiště režimu offline">
+<!ENTITY httpCache.label "Mezipaměť webových stránek">
+
+<!ENTITY offlineStorage2.label "Offline obsah a uživatelská data">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -53,6 +55,8 @@
 <!ENTITY limitCacheSizeAfter.label "MB místa na disku">
 <!ENTITY clearCacheNow.label "Vymazat">
 <!ENTITY clearCacheNow.accesskey "m">
+<!ENTITY clearOfflineAppCacheNow.label "Vymazat">
+<!ENTITY clearOfflineAppCacheNow.accesskey "y">
 <!ENTITY overrideSmartCacheSize.label "Nepoužít automatickou správu mezipaměti">
 <!ENTITY overrideSmartCacheSize.accesskey "N">
 
@@ -84,7 +88,7 @@
 <!ENTITY offlineNotifyExceptions.label "Výjimky…">
 <!ENTITY offlineNotifyExceptions.accesskey "k">
 
-<!ENTITY offlineAppsList.label "Následující servery mají uložená data pro použití v režimu offline:">
+<!ENTITY offlineAppsList2.label "Následující servery mají povoleno ukládat offline obsah:">
 <!ENTITY offlineAppsList.height "7em">
 <!ENTITY offlineAppsListRemove.label "Odebrat…">
 <!ENTITY offlineAppsListRemove.accesskey "d">
