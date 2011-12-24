@@ -46,5 +46,5 @@
 <!ENTITY addresses.heading           "Адреси">
 <!-- For Map It! -->
 <!ENTITY mapItButton.label           "Показати на карті">
-<!ENTITY mapIt.tooltip               "Показати адресу на карті в Інтернеті">
+<!ENTITY mapIt.tooltip               "Показати адресу на карті в інтернеті">
 

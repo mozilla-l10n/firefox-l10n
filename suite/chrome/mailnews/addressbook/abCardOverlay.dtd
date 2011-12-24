@@ -37,7 +37,7 @@
 
 <!ENTITY Contact.tab                     "Контакт">
 <!ENTITY Contact.accesskey               "К">
-<!ENTITY Name.box                        "Ім’я">
+<!ENTITY Name.box                        "Ім'я">
 
 <!-- LOCALIZATION NOTE:
  NameField1, NameField2, PhoneticField1, PhoneticField2
@@ -56,32 +56,32 @@
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
 <!ENTITY PhoneticField2.id              "Вимова прізвища">
 
-<!ENTITY NameField1.label               "Ім’я:">
+<!ENTITY NameField1.label               "Ім'я:">
 <!ENTITY NameField1.accesskey           "І">
 <!ENTITY NameField2.label               "Прізвище:">
 <!ENTITY NameField2.accesskey           "П">
 <!ENTITY PhoneticField1.label           "Вимова:">
 <!ENTITY PhoneticField2.label           "Вимова:">
-<!ENTITY DisplayName.label              "Відображати як:">
-<!ENTITY DisplayName.accesskey          "В">
+<!ENTITY DisplayName.label              "Показувати як:">
+<!ENTITY DisplayName.accesskey          "П">
 <!ENTITY NickName.label                 "Псевдонім:">
-<!ENTITY NickName.accesskey             "д">
+<!ENTITY NickName.accesskey             "с">
 
 <!ENTITY PrimaryEmail.label             "Електронна пошта:">
 <!ENTITY PrimaryEmail.accesskey         "Е">
-<!ENTITY SecondEmail.label              "Дод. адреса електронної пошти:">
+<!ENTITY SecondEmail.label              "Додаткова адреса електронної пошти:">
 <!ENTITY SecondEmail.accesskey          "о">
-<!ENTITY PreferMailFormat.label         "Вважає за краще отримувати пошту у форматі:">
-<!ENTITY PreferMailFormat.accesskey     "в">
-<!ENTITY PlainText.label                "Звичайний текст">
+<!ENTITY PreferMailFormat.label         "Вважає за краще одержувати пошту в форматі:">
+<!ENTITY PreferMailFormat.accesskey     "В">
+<!ENTITY PlainText.label                "Звичайного тексту">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Невідомо">
-<!ENTITY ScreenName.label               "Інтернет-пейджер:">
+<!ENTITY ScreenName.label               "Інтернет-пейджера:">
 <!ENTITY ScreenName.accesskey           "п">
 
-<!ENTITY allowRemoteContent1.label      "Дозволити віддалений зміст.">
+<!ENTITY allowRemoteContent1.label      "Дозволити віддалений вміст.">
 <!ENTITY allowRemoteContent1.accesskey  "в">
-<!ENTITY allowRemoteContent1.tooltip    "В HTML-лист можливо вбудувати зміст з віддаленого джерела. При відкриванні такого листа, буде встановлено зв’язок з цим віддаленим джерелом. Це дає можливість відстежити факт читання листа. Встановивши цю пташку ви дозволите такий зовнішній вбудований зміст в HTML листах від цього контакта.">
+<!ENTITY allowRemoteContent1.tooltip    "У листі HTML можливо вбудувати вміст з віддаленого джерела. під час відкривання такого листа буде встановлено зв'язок з цим віддаленим джерелом. Це дає можливість простежити за фактом прочитання листа. Вказавши це, ви дозволите такий зовнішній вбудований вміст в листах HTML від цього контакта.">
 
 <!ENTITY WorkPhone.label                "Робочий:">
 <!ENTITY WorkPhone.accesskey            "б">
@@ -108,14 +108,14 @@
 <!ENTITY HomeZipCode.accesskey          "ш">
 <!ENTITY HomeCountry.label              "Країна:">
 <!ENTITY HomeCountry.accesskey          "ї">
-<!ENTITY HomeWebPage.label              "Веб-сторінка:">
-<!ENTITY HomeWebPage.accesskey          "т">
+<!ENTITY HomeWebPage.label              "Сторінка:">
+<!ENTITY HomeWebPage.accesskey          "С">
 <!ENTITY Birthday.label                 "День народження:">
 <!ENTITY Birthday.accesskey             "н">
 <!ENTITY In.label                       "">
-<!ENTITY Year.placeholder               "Year">
-<!ENTITY Or.value                       "чи">
-<!ENTITY Age.placeholder                "Age">
+<!ENTITY Year.placeholder               "Рік">
+<!ENTITY Or.value                       "або">
+<!ENTITY Age.placeholder                "Вік">
 <!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Робота">
@@ -138,8 +138,8 @@
 <!ENTITY WorkZipCode.accesskey          "ш">
 <!ENTITY WorkCountry.label              "Країна:">
 <!ENTITY WorkCountry.accesskey          "ї">
-<!ENTITY WorkWebPage.label              "Веб-сторінка:">
-<!ENTITY WorkWebPage.accesskey          "т">
+<!ENTITY WorkWebPage.label              "Сторінка:">
+<!ENTITY WorkWebPage.accesskey          "С">
 
 <!ENTITY Other.tab                      "Інше">
 <!ENTITY Other.accesskey                "І">
@@ -156,16 +156,16 @@
 
 <!ENTITY Photo.tab                      "Світлина">
 <!ENTITY Photo.accesskey                "С">
-<!ENTITY PhotoDesc.label                "Оберіть одне з наступного:">
-<!ENTITY GenericPhoto.label             "Просто світлина">
+<!ENTITY PhotoDesc.label                "Виберіть одне з цього:">
+<!ENTITY GenericPhoto.label             "Проста світлина">
 <!ENTITY GenericPhoto.accesskey         "П">
-<!ENTITY DefaultPhoto.label             "Типове">
+<!ENTITY DefaultPhoto.label             "Типова">
 <!ENTITY PhotoFile.label                "На цьому комп’ютері">
 <!ENTITY PhotoFile.accesskey            "ц">
 <!ENTITY BrowsePhoto.label              "Вибрати">
 <!ENTITY BrowsePhoto.accesskey          "В">
 <!ENTITY PhotoURL.label                 "В мережі">
 <!ENTITY PhotoURL.accesskey             "м">
-<!ENTITY PhotoURL.placeholder           "Paste or type the web address of a photo">
+<!ENTITY PhotoURL.placeholder           "Вставте або введіть адресу до світлини">
 <!ENTITY UpdatePhoto.label              "Оновити">
 <!ENTITY UpdatePhoto.accesskey          "о">

@@ -37,15 +37,15 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Title -->
-<!ENTITY mailListWindow.title           "Список розсилки">
+<!ENTITY mailListWindow.title           "Список листування">
 <!-- Labels -->
-<!ENTITY addToAddressBook.label         "Додати в:">
+<!ENTITY addToAddressBook.label         "Додати:">
 
 <!ENTITY ListName.label                 "Назва списку:">
 <!ENTITY ListNickName.label             "Псевдонім списку:">
 <!ENTITY ListDescription.label          "Опис:">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label             "Введіть імена або перетягніть адреси в список розсилки внизу:">
+<!ENTITY AddressTitle.label             "Введіть імена або перетягніть адреси у список листування внизу:">
 
 <!-- Access Keys -->
 <!ENTITY addToAddressBook.accesskey     "Д">
