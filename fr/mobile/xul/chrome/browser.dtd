@@ -52,7 +52,6 @@
 <!ENTITY addonShowPage.label "Aller à la page">
 
 <!ENTITY downloadsHeader.label "Téléchargements">
-
 <!ENTITY downloadShowPage.label "Site Web">
 <!ENTITY downloadShow2.label "Rechercher">
 <!ENTITY downloadOpen2.label "Ouvrir">
@@ -106,10 +105,10 @@
 <!ENTITY contextShareVideo.label      "Partager la vidéo">
 <!ENTITY contextPlayMedia.label       "Lecture">
 <!ENTITY contextPauseMedia.label      "Pause">
-<!ENTITY contextShortcutBookmark.label "Ajout raccourci Accueil">
 <!ENTITY contextFullScreen.label      "Plein écran">
 <!ENTITY contextEditBookmark.label    "Modifier">
 <!ENTITY contextRemoveBookmark.label  "Supprimer">
+<!ENTITY contextShortcutBookmark.label "Ajout raccourci Accueil">
 
 <!ENTITY pageactions.saveas.pdf      "Enregistrer au format PDF">
 <!ENTITY pageactions.share.page      "Partager">

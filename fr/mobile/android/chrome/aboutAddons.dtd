@@ -1,0 +1,8 @@
+<!ENTITY aboutAddons.title                      "Gestionnaire de modules complémentaires">
+<!ENTITY aboutAddons.header                     "Modules complémentaires">
+<!ENTITY aboutAddons.options                    "Options">
+
+<!ENTITY addonAction.enable                     "Activer">
+<!ENTITY addonAction.disable                    "Désactiver">
+<!ENTITY addonAction.uninstall                  "Désinstaller">
+<!ENTITY addonAction.cancel                     "Annuler">
