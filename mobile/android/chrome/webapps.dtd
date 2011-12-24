@@ -1,0 +1,7 @@
+<!ENTITY webapps.title.placeholder "Введите заголовок">
+<!ENTITY webapps.permissions "Разрешить доступ к:">
+<!ENTITY webapps.perm.geolocation "Определению местоположения">
+<!ENTITY webapps.perm.offline "Хранилищу автономных данных">
+<!ENTITY webapps.perm.notifications "Уведомлениям на десктопе">
+<!ENTITY webapps.perm.requestedHint "(запрошено)">
+<!ENTITY webapps.add-homescreen "Добавить на домашний экран">
