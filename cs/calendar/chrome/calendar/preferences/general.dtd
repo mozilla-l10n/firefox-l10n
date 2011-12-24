@@ -49,3 +49,7 @@
 <!ENTITY pref.defaultlength.accesskey "V">
 <!ENTITY pref.defaultsnoozelength.label "Opakovat upozornění každých">
 <!ENTITY pref.defaultsnoozelength.accesskey "O">
+
+<!ENTITY pref.accessibility.label "Přístupnot">
+<!ENTITY pref.systemcolors.label "Optimalizovat barvy kvůli přístupnosti">
+<!ENTITY pref.systemcolors.accesskey "O">
