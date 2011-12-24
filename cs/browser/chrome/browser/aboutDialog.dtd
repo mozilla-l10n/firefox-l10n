@@ -1,12 +1,26 @@
 <!ENTITY aboutDialog.title "O aplikaci &brandFullName;">
 
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+<!ENTITY warningDesc.version "&brandShortName; je experimentální verze a může být nestabilní.">
+<!-- LOCALIZATION NOTE (warningDesc.telemetry): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetry "&brandShortName; automaticky odesílá testovací data, která slouží vývojářům z organizace &vendorShortName; k vylepšování aplikace.">
+
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+<!ENTITY community.exp.start "">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink "&vendorShortName;">
+<!ENTITY community.exp.middle " je ">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "celosvětová komunita">
+<!ENTITY community.exp.end " snažící se o zachování veřejně dostupného, otevřeného a všem přístupného webu.">
+
 <!ENTITY community.start2 "Aplikace &brandShortName; byla vytvořena organizací ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink "&vendorShortName;">
 <!ENTITY community.middle2 ". Jsme">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink "globální komunita">
-<!ENTITY community.end2 ", která se společně snaží zlepšit Internet. Věříme, že by Internet měl být veřejně dostupný, otevřený a přístupný pro všechny bez jakýchkoliv omezení.">
+<!ENTITY community.creditsLink "celosvětová komunita">
+<!ENTITY community.end3 " snažící se o zachování veřejně dostupného, otevřeného a všem přístupného webu.">
 
 <!ENTITY contribute.start "Zní to zajímavě? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
