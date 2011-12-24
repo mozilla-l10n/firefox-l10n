@@ -90,7 +90,7 @@
 <!ENTITY site_settings_clear        "Effacer">
 <!ENTITY site_settings_no_settings  "Il n'y a pas de paramètre à effacer.">
 
-<!ENTITY masterpassword_create_title "Créer un mot de passe pricnipal">
+<!ENTITY masterpassword_create_title "Créer un mot de passe principal">
 <!ENTITY masterpassword_remove_title "Effacer le mot de passe principal">
 <!ENTITY masterpassword_password "Mot de passe">
 <!ENTITY masterpassword_confirm "Confirmer le mot de passe">

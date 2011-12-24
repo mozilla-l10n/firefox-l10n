@@ -5,7 +5,7 @@
 <!ENTITY aboutPage.rights.label                 "À propos de vos droits">
 <!ENTITY aboutPage.relNotes.label               "Notes de version">
 <!ENTITY aboutPage.credits.label                "Les contributeurs">
-<!ENTITY aboutPage.checkForUpdates.button       "Vérifier les mises à jour">
+<!ENTITY aboutPage.checkForUpdates.link         "Vérifier les mises à jour »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Recherche de mises à jour…">
 <!ENTITY aboutPage.checkForUpdates.none         "Aucune mise à jour disponible">
 <!ENTITY aboutPage.checkForUpdates.found        "Mise à jour disponible">
