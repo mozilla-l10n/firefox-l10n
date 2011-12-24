@@ -2,7 +2,7 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "Vítejte! Jestliže jste nikdy &syncBrand.fullName.label; nepoužili, budete si muset vytvořit nový účet.">
+<!ENTITY setup.pickSetupType.description2 "Vítejte! Jestliže jste nikdy &syncBrand.fullName.label; nepoužili, budete si muset vytvořit nový účet.">
 <!ENTITY button.createNewAccount.label "Vytvořit nový účet">
 <!ENTITY button.haveAccount.label "Již mám účet">
 
