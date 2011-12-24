@@ -11,18 +11,6 @@
 <!ENTITY newtab.label "Nový panel">
 <!ENTITY closetab.label "Zavřít panel">
 
-<!ENTITY cut.label "Vyjmout">
-<!ENTITY copy.label "Kopírovat">
-<!ENTITY copyAll.label "Kopírovat vše">
-<!ENTITY copylink.label "Kopírovat adresu odkazu">
-<!ENTITY paste.label "Vložit">
-<!ENTITY pasteAndGo.label "Vložit a přejít">
-<!ENTITY delete.label "Smazat">
-<!ENTITY selectAll.label "Vybrat vše">
-<!ENTITY noSuggestions.label "(žádné návrhy)">
-<!ENTITY addToDictionary.label "Přidat do slovníku">
-<!ENTITY inputMethod.label "Zvolte vstupní metodu">
-
 <!ENTITY allPagesHeader.label "Všechny stránky">
 <!ENTITY bookmarksHeader.label "Záložky">
 <!ENTITY historyHeader.label "Historie">
