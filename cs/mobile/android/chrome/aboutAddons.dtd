@@ -1,0 +1,8 @@
+<!ENTITY aboutAddons.title "Správce doplňků">
+<!ENTITY aboutAddons.header "Doplňky">
+<!ENTITY aboutAddons.options "Možnosti">
+
+<!ENTITY addonAction.enable "Povolit">
+<!ENTITY addonAction.disable "Zakázat">
+<!ENTITY addonAction.uninstall "Odinstalovat">
+<!ENTITY addonAction.cancel "Zrušit">
