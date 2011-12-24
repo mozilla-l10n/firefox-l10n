@@ -3,8 +3,6 @@
 <!ENTITY importAllFrom.label "Importovat všechny položky z:">
 <!ENTITY importBookmarksFrom.label "Importovat záložky z:">
 
-<!ENTITY importFromSeamonkey.label "SeaMonkey 1.0/1.1, Netscape 6/7 nebo Mozilla 1.x">
-<!ENTITY importFromSeamonkey.accesskey "M">
 <!ENTITY importFromThunderbird.label "Thunderbird">
 <!ENTITY importFromThunderbird.accesskey "T">
 <!ENTITY importFromFile.label "Soubor">
