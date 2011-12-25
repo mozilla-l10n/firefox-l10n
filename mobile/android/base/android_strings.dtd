@@ -68,7 +68,10 @@
 <!ENTITY pref_clear_history_confirm "Historie prohlížení bude smazána">
 <!ENTITY pref_clear_private_data "Vymazat důvěrná data">
 <!ENTITY pref_clear_private_data_confirm "Data z prohlížení včetně hesel a cookies budou smazána">
-
+<!ENTITY pref_enable_plugins "Povolit zásuvné moduly">
+<!ENTITY pref_enable_plugins_yes "Ano">
+<!ENTITY pref_enable_plugins_tap_to_play "Klepněte pro přehrání">
+<!ENTITY pref_enable_plugins_no "Ne">
 <!ENTITY agent_request_desktop "Požadovat plnohodnotné stránky">
 <!ENTITY agent_request_mobile "Požadovat mobilní stránky">
 
