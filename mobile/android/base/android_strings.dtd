@@ -20,6 +20,8 @@
 
 <!ENTITY choose_file "Volba souboru">
 
+<!ENTITY share "Sdílet">
+
 <!ENTITY agent_request_desktop "Požadovat plnohodnotné stránky">
 <!ENTITY agent_request_mobile "Požadovat mobilní stránky">
 
