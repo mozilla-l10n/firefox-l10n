@@ -96,6 +96,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "h">
 <!ENTITY fullScreenExit.label "Salir del modo de Pantalla Completa">
 <!ENTITY fullScreenExit.accesskey "S">
+<!ENTITY domFullScreenWarning.label "Pulse ESC para salir de pantalla completa">
 
 <!ENTITY closeWindow.label "Cerrar ventana">
 <!ENTITY closeWindow.accesskey "C">
@@ -117,6 +118,8 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "Adelante">
 <!ENTITY forwardCmd.accesskey         "A">
 <!ENTITY forwardButton.tooltip        "Avanza una página">
+<!ENTITY backForwardButtonMenu.tooltip "Botón derecho o descolgar para mostrar historial">
+<!ENTITY backForwardButtonMenuMac.tooltip "Descolgar para mostrar historial">
 
 <!ENTITY reloadCmd.label              "Recargar">
 <!ENTITY reloadCmd.accesskey          "R">
@@ -218,7 +221,18 @@ can reach it easily. -->
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "Inspeccionar">
 <!ENTITY inspectButton.accesskey      "I">
+<!ENTITY inspectCloseButton.tooltiptext "Cerrar Inspector">
+<!ENTITY inspect3DButton.label        "3D">
+<!ENTITY inspect3DButton.accesskey    "M">
+<!ENTITY inspectStyleButton.label     "Estilo">
+<!ENTITY inspectStyleButton.accesskey "s">
 
+<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
+  -  in the Tools menu. -->
+<!ENTITY styleeditor.label            "Editor de estilo">
+<!ENTITY styleeditor.accesskey        "i">
+<!ENTITY styleeditor.keycode          "VK_F7">
+<!ENTITY styleeditor.keytext          "F7">
 
 
 <!ENTITY getMoreDevtoolsCmd.label        "Obtener más herramientas">
@@ -332,6 +346,7 @@ can reach it easily. -->
   
  -->
 <!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
 <!ENTITY tabView.commandkey           "e">
@@ -442,6 +457,12 @@ can reach it easily. -->
 <!ENTITY mediaHideControls.accesskey "c">
 <!ENTITY videoFullScreen.label "Pantalla completa">
 <!ENTITY videoFullScreen.accesskey "c">
+<!ENTITY videoSaveImage.label        "Guardar captura como…">
+<!ENTITY videoSaveImage.accesskey    "G">
+<!ENTITY videoShowStats.label        "Mostrar estadísticas">
+<!ENTITY videoShowStats.accesskey    "t">
+<!ENTITY videoHideStats.label        "Ocultar estadisticas">
+<!ENTITY videoHideStats.accesskey    "t">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
