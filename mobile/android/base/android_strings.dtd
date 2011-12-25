@@ -34,6 +34,11 @@
 
 <!ENTITY new_tab "Nový panel">
 
+<!ENTITY preferences "Nastavení">
+<!ENTITY preferences_title "Nastavení">
+<!ENTITY pref_category_privacy "Soukromí a bezpečnost">
+<!ENTITY pref_do_not_track "Říct serverům, že nechci být sledován">
+
 <!ENTITY share "Sdílet">
 <!ENTITY saveaspdf "Uložit jako PDF">
 <!ENTITY agent_request_desktop "Požadovat plnohodnotné stránky">
