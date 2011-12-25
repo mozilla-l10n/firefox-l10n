@@ -54,7 +54,7 @@
 <!ENTITY pref_remember_signons "Pamatovat si hesla">
 <!ENTITY pref_locale "Jazyk">
 <!ENTITY pref_cookies "Povolit cookies">
-<!ENTITY pref_zoom_reflow "Měnit text při změně velikosti">
+<!ENTITY pref_zoom_reflow "Při změně velikosti měnit text">
 <!ENTITY pref_show_images "Zobrazit obrázky">
 <!ENTITY pref_enable_js "Povolit JavaScript">
 <!ENTITY pref_char_encoding "Zobrazit znakovou sadu">
@@ -66,6 +66,8 @@
 <!ENTITY pref_category_history "Historie">
 <!ENTITY pref_clear_history "Smazat historii">
 <!ENTITY pref_clear_history_confirm "Historie prohlížení bude smazána">
+<!ENTITY pref_clear_private_data "Vymazat důvěrná data">
+<!ENTITY pref_clear_private_data_confirm "Data z prohlížení včetně hesel a cookies budou smazána">
 
 <!ENTITY agent_request_desktop "Požadovat plnohodnotné stránky">
 <!ENTITY agent_request_mobile "Požadovat mobilní stránky">
