@@ -47,9 +47,9 @@
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Tërë Ekranin">
 <!ENTITY fullScreenCmd.accesskey "T">
-<!ENTITY fullScreenMinimize.tooltip "Minimizoje">
-<!ENTITY fullScreenRestore.tooltip "Rikthe">
-<!ENTITY fullScreenClose.tooltip "Mbylle">
+<!ENTITY fullScreenMinimize.tooltip "Minimizojeni">
+<!ENTITY fullScreenRestore.tooltip "Rikthejeni">
+<!ENTITY fullScreenClose.tooltip "Mbylleni">
 <!ENTITY domFullScreenWarning.label "Shtypni tastin ESC që të dilni nga mënyra krejt-ekrani">
 <!ENTITY closeWindow.label "Mbylle Dritaren">
 <!ENTITY bookmarksMenu.label "Faqerojtësa">
@@ -62,23 +62,23 @@
 
 <!ENTITY backCmd.label                "Mbrapsht">
 <!ENTITY backCmd.accesskey            "M">
-<!ENTITY backButton.tooltip           "Shko mbrapsht një faqe">
+<!ENTITY backButton.tooltip           "Shkoni mbrapsht një faqe">
 <!ENTITY forwardCmd.label             "Para">
 <!ENTITY forwardCmd.accesskey         "P">
-<!ENTITY forwardButton.tooltip        "Shko para një faqe">
+<!ENTITY forwardButton.tooltip        "Shkoni para një faqe">
 <!ENTITY backForwardButtonMenu.tooltip "Djathtasklikojeni ose tërhiqeni poshtë që të shfaqet historiku">
 <!ENTITY backForwardButtonMenuMac.tooltip "Tërhiqeni poshtë që të shfaqet historiku">
 <!ENTITY reloadCmd.label              "Ringarkoje">
 <!ENTITY reloadCmd.accesskey          "R">
-<!ENTITY reloadButton.tooltip         "Ringarko faqen e tanishme">
+<!ENTITY reloadButton.tooltip         "Ringarkoni faqen e tanishme">
 <!ENTITY stopCmd.label                "Ndal">
 <!ENTITY stopCmd.accesskey            "N">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Ndaloni ngarkimin e kësaj faqeje">
+<!ENTITY stopButton.tooltip           "Ndalni ngarkimin e kësaj faqeje">
 
-<!ENTITY goEndCap.tooltip             "Shko te vendndodhja e dhënë te Shtylla e Vendeve">
-<!ENTITY printButton.label            "Shtyp">
-<!ENTITY printButton.tooltip          "Shtyp këtë faqe">
+<!ENTITY goEndCap.tooltip             "Shkoni te vendndodhja e dhënë te Shtylla e Vendeve">
+<!ENTITY printButton.label            "Shtype">
+<!ENTITY printButton.tooltip          "Shtypni këtë faqe">
 
 <!ENTITY backForwardItem.title        "Mbrapsht/Përpara">
 <!ENTITY locationItem.title           "Vendndodhje">
@@ -88,7 +88,7 @@
                               
 <!-- Toolbar items --> 
 <!ENTITY appMenuButton.label          "Menu">
-<!ENTITY appMenuButton.tooltip        "Hap menunë e &brandShortName;-it">
+<!ENTITY appMenuButton.tooltip        "Hapni menunë e &brandShortName;-it">
 <!ENTITY  homeButton.label            "Hyrje">
 
 <!ENTITY tabGroupsButton.label        "Grupe Skedash">
@@ -123,7 +123,7 @@
 <!ENTITY search.label                 "Kërkim në Web">
 <!ENTITY search.accesskey             "K">
 <!ENTITY downloads.label              "Shkarkime">
-<!ENTITY downloads.tooltip            "Shfaq ecurinë e shkarkimeve që po kryhen">
+<!ENTITY downloads.tooltip            "Shfaqni ecurinë e shkarkimeve që po kryhen">
 <!ENTITY downloads.accesskey          "S">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -188,7 +188,7 @@
 <!ENTITY historyHomeCmd.label "Hyrje">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder           "Shko te një Site Web">
+<!ENTITY urlbar.placeholder           "Shkoni te një Site Web">
 <!ENTITY urlbar.accesskey             "S">
 <!ENTITY urlbar.switchToTab.label     "Kalo te skeda:">
 
@@ -277,11 +277,11 @@
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "Këtë Kornizë">
 <!ENTITY thisFrameMenu.accesskey          "z">
-<!ENTITY newWindowButton.tooltip        "Hap dritare të re">
-<!ENTITY sidebarCloseButton.tooltip     "Mbylle anështyllën">
-<!ENTITY cutButton.tooltip              "Prije">
-<!ENTITY copyButton.tooltip             "Kopjoje">
-<!ENTITY pasteButton.tooltip            "Ngjite">
+<!ENTITY newWindowButton.tooltip        "Hapni dritare të re">
+<!ENTITY sidebarCloseButton.tooltip     "Mbylleni anështyllën">
+<!ENTITY cutButton.tooltip              "Prijeni">
+<!ENTITY copyButton.tooltip             "Kopjojeni">
+<!ENTITY pasteButton.tooltip            "Ngjiteni">
 <!ENTITY quitApplicationCmdWin.label       "Dil"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "x">
 <!ENTITY goBackCmd.commandKey "[">
@@ -368,7 +368,7 @@
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
-<!ENTITY bookmarksToolbarChevron.tooltip "Shfaq më tepër faqerojtësa">
+<!ENTITY bookmarksToolbarChevron.tooltip "Shfaqni më tepër faqerojtësa">
 <!ENTITY copyVideoURLCmd.label        "Kopjo Vendndodhje Videoje">
 <!ENTITY copyVideoURLCmd.accesskey    "k">
 <!ENTITY copyAudioURLCmd.label        "Kopjo Vendndodhje Audioje">
@@ -432,9 +432,9 @@
 <!ENTITY feedButton.tooltip           "Pajtohuni te kjo faqe…">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Dritare të mbyllura Së Fundmi">
-<!ENTITY newTabButton.tooltip           "Hap skedë të re">
+<!ENTITY newTabButton.tooltip           "Hapni skedë të re">
 
-<!ENTITY fullScreenButton.tooltip       "Shfaqe dritaren sa tërë ekrani">
+<!ENTITY fullScreenButton.tooltip       "Shfaqeni dritaren sa tërë ekrani">
 <!ENTITY fullScreenCmd.macCommandKey "d">
 
 <!ENTITY viewImageInfoCmd.label       "Shfaq të Dhëna Figure">
@@ -458,7 +458,7 @@
 <!ENTITY inspectMenu.label            "Shqyrtoje">
 <!ENTITY inspectMenu.accesskey        "S">
 <!ENTITY inspectMenu.commandkey       "I">
-<!ENTITY inspectCloseButton.tooltiptext "Mbylle Mbikëqyrësin">
+<!ENTITY inspectCloseButton.tooltiptext "Mbylleni Mbikëqyrësin">
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "Shqyrtoje">
 <!ENTITY inspectButton.accesskey      "q">
@@ -536,7 +536,7 @@ can reach it easily. -->
 
 <!ENTITY syncToolbarButton.label      "Njëkohëso">
 
-<!ENTITY addonBarCloseButton.tooltip  "Mbylle Shtyllën e Shtesave">
+<!ENTITY addonBarCloseButton.tooltip  "Mbylleni Shtyllën e Shtesave">
 <!ENTITY toggleAddonBarCmd.key        "/">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Merrni Më Tepër Mjete">

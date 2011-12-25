@@ -1,12 +1,12 @@
 <!ENTITY window.width2                    "485">
 <!ENTITY window.height                    "300"> 
 <!ENTITY closeWhenDone.label "Mbylle kur përfundojnë shkarkimet">
-<!ENTITY closeWhenDone.tooltip "Mbyll dritaren e Shkarkimeve kur të ketë përfunduar shkarkimi për tërë kartelat">
+<!ENTITY closeWhenDone.tooltip "Mbylleni dritaren e Shkarkimeve kur të ketë përfunduar shkarkimi për tërë kartelat">
 <!ENTITY cmd.cancel.accesskey "A">
 <!ENTITY cmd.cancel.label "Anuloje">
 <!ENTITY cmd.clearList.accesskey "p">
 <!ENTITY cmd.clearList.label "Pastro">
-<!ENTITY cmd.clearList.tooltip "Heq prej listës shkarkime të plotësuar, anuluar ose të dështuar">
+<!ENTITY cmd.clearList.tooltip "Hiqni prej listës shkarkime të plotësuar, anuluar ose të dështuar">
 <!ENTITY cmd.close.commandKey "w">
 <!ENTITY cmd.close2.commandKey "j">
 <!ENTITY cmd.close2Unix.commandKey "y">

@@ -53,13 +53,13 @@
 <!ENTITY serverCrlNextupdate.message "Ju lutem, kërkoni ndihmë nga përgjegjësi i sistemit tuaj">
 <!ENTITY setPassword.meter.label "Matës cilësie fjalëkalimesh">
 <!ENTITY setPassword.meter.loading "Po ngarkohet">
-<!ENTITY setPassword.newPassword.label "Fjalëkalim i ri:">
+<!ENTITY setPassword.newPassword.label "Fjalëkalimi i ri:">
 <!ENTITY setPassword.oldPassword.label "Fjalëkalimi i tanishëm:">
-<!ENTITY setPassword.reenterPassword.label "Fjalëkalim i ri (sërish):">
+<!ENTITY setPassword.reenterPassword.label "Fjalëkalimi i ri (sërish):">
 <!ENTITY setPassword.title "Ndërroni Fjalëkalimin e Përgjithshëm">
 <!ENTITY setPassword.tokenName.label "Pajisje Sigurie">
 <!ENTITY examineCert.accesskey "S">
-<!ENTITY resetPasswordButtonLabel "Ricakto">
+<!ENTITY resetPasswordButtonLabel "Ricaktoje">
 <!ENTITY protectedAuth.title "Mirëfilltësim me &quot;Token&quot; i Mbrojtur">
 <!ENTITY protectedAuth.msg "Ju lutem, kryeni mirëfilltësimin karshi &quot;token&quot;-it. Metoda e mirëfilltësimit varet nga lloji i &quot;token&quot;-it tuaj.">
 <!ENTITY protectedAuth.tokenName.label "&quot;Token&quot;:">

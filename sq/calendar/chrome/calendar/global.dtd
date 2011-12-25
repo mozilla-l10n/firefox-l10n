@@ -86,7 +86,7 @@
 
 <!ENTITY onemonthbackward.tooltip "Një Muaj Mbrapsht" >
 <!ENTITY onemonthforward.tooltip "Një Muaj Para" >
-<!ENTITY showToday.tooltip "Shko te Sot">
+<!ENTITY showToday.tooltip "Shkoni te Sot">
 <!ENTITY onedayforward.tooltip "Një Ditë Para">
 <!ENTITY onedaybackward.tooltip "Një Ditë Mbrapsht">
-<!ENTITY showselectedday.tooltip "Shfaq ngjarje për ditën e përzgjedhur">
+<!ENTITY showselectedday.tooltip "Shfaqni ngjarje për ditën e përzgjedhur">

@@ -23,7 +23,7 @@
 <!ENTITY testpilot.rawDataWindow.title                  "Test Pilot: Të dhëna të Papërpunuara">
 
 <!-- notification -->
-<!ENTITY testpilot.notification.close.tooltip            "Mbylle">
+<!ENTITY testpilot.notification.close.tooltip            "Mbylleni">
 
 <!-- Firefox 4 beta version UI -->
 <!ENTITY testpilot.enable.label                        "Aktivizo Vëzhgime Përdoruesi">

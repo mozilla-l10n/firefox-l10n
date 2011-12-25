@@ -37,9 +37,9 @@
 
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Hidhe te Rrjeta">
+<!ENTITY windowTitle.label "Hedhje te Rrjeta">
 
-<!ENTITY enableSnapToGrid.label "aktivizo Hidhe te Rrjeta">
+<!ENTITY enableSnapToGrid.label "Aktivizo Hedhjee te Rrjeta">
 <!ENTITY enableSnapToGrid.accessKey "a">
 
 <!ENTITY sizeEditField.label "Madhësi:">

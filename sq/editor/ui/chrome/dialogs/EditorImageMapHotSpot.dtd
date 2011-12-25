@@ -39,7 +39,7 @@
 
 <!-- Window title -->
 
-<!ENTITY windowTitle.label "Hotspot Properties">
+<!ENTITY windowTitle.label "Veti Pikash të Nxehta">
 
 <!ENTITY link.label			"Lidhje Pikeje të Nxehtë">
 <!ENTITY urlFieldset.label		"URL Pikeje të Nxehtë:">
@@ -55,4 +55,3 @@
 <!ENTITY whole.value			"Tërë Faqja">
 <!ENTITY new.value			"Dritare e Re">
 <!ENTITY parent.value			"Korniza Mëmë">
-

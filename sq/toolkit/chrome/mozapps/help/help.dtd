@@ -3,14 +3,14 @@
 <!ENTITY findAgainCmd.commandkey        "G">
 <!ENTITY backButton.label               "Mbrapsht">
 <!ENTITY backButton.accesskey           "M">
-<!ENTITY backButton.tooltip             "Shko mbrapsht një faqe">
+<!ENTITY backButton.tooltip             "Shkoni mbrapsht një faqe">
 <!ENTITY forwardButton.label            "Përpara">
 <!ENTITY forwardButton.accesskey        "P">
-<!ENTITY forwardButton.tooltip          "Shko përpara një faqe">
+<!ENTITY forwardButton.tooltip          "Shkoni përpara një faqe">
 <!ENTITY homeButton.label               "Hyrje">
-<!ENTITY homeButton.tooltip             "Shko te Faqja e Fillimit për Ndihmën">
-<!ENTITY printButton.label              "Shtyp">
-<!ENTITY printButton.tooltip            "Shtyp këtë faqe">
+<!ENTITY homeButton.tooltip             "Shkoni te Faqja e Fillimit për Ndihmën">
+<!ENTITY printButton.label              "Shtype">
+<!ENTITY printButton.tooltip            "Shtypeni këtë faqe">
 <!ENTITY fullZoomReduceBtn.label 	"Zvogëlo Madhësi Teksti">
 <!ENTITY fullZoomReduceBtn.accesskey    "D">
 <!ENTITY fullZoomEnlargeBtn.label 	"Rrit Madhësi Teksti">

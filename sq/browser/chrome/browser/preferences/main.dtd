@@ -5,8 +5,8 @@
 <!ENTITY startupHomePage.label     "Shfaq faqen time hyrëse">
 <!ENTITY startupBlankPage.label    "Shfaq një faqe bosh">
 <!ENTITY startupLastSession.label  "Shfaq dritaren dhe skedat e mia të herës së fundit">
-<!ENTITY restoreOnDemand.label     "Mos ngarko skeda pa u zgjedhur një">
-<!ENTITY restoreOnDemand.accesskey "l">
+<!ENTITY restoreOnDemand.label     "Mos ngarko skeda, pa u zgjedhur një e tillë">
+<!ENTITY restoreOnDemand.accesskey "o">
 
 <!ENTITY homepage.label            "Faqe Hyrëse:">
 <!ENTITY homepage.accesskey        "H">
@@ -20,8 +20,8 @@
 
 <!ENTITY downloads.label     "Shkarkime">
 
-<!ENTITY showWhenDownloading.label     "Shfaq dritaren e Shkarkimeve kur shkarkohet një kartelë">
-<!ENTITY showWhenDownloading.accesskey "D">
+<!ENTITY showWhenDownloading.label     "Shfaqe dritaren e Shkarkimeve, kur shkarkohet një kartelë">
+<!ENTITY showWhenDownloading.accesskey "d">
 <!ENTITY closeWhenDone.label "Mbylle kur përfundohen tërë shkarkimet">
 <!ENTITY closeWhenDone.accesskey "M">
 <!ENTITY saveTo.label "Ruaji kartelat te">

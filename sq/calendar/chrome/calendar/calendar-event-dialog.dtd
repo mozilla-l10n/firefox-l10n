@@ -44,7 +44,7 @@
 
 <!ENTITY event.title.label                  "Përpunoni Objektin" >
 
-<!ENTITY event.dialog.keepDurationButton.tooltip   "Mbaje zgjatjen kur ndërrohet data e përfundimit">
+<!ENTITY event.dialog.keepDurationButton.tooltip   "Mbajeni zgjatjen kur ndërrohet data e përfundimit">
 <!ENTITY event.dialog.keepDurationButton.accesskey "M">
 
 <!ENTITY newevent.from.label                "Nga" >

@@ -17,7 +17,7 @@
      toggles the visibility of the quick filter bar.
      -->
 <!ENTITY quickFilterBar.toggleBarVisibility.button.tooltip
-         "Fshih ose shfaq shtyllën e filtrit të shpejtë">
+         "Fshihni ose shfaqni shtyllën e filtrit të shpejtë">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.sticky.tooltip):
      The tooltip to display when the user hovers over the sticky button
@@ -27,7 +27,7 @@
      filters are propagated between folder changes and when opening new tabs.)
      -->
 <!ENTITY quickFilterBar.sticky.tooltip
-         "Mbaji në punë filtrat kur këmbehen dosje">
+         "Mbajini në punë filtrat kur këmbehen dosje">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.barLabel.label):
      The text to display on the quick filter bar, labeling it.  This should

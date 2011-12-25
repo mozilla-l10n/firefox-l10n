@@ -37,7 +37,7 @@
 
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Futni Shkronjë">
+<!ENTITY windowTitle.label "Futje Shkronjash">
 <!ENTITY category.label "Kategori">
 <!ENTITY letter.label "Shkronjë:">
 <!ENTITY letter.accessKey "S">
@@ -48,5 +48,5 @@
 <!ENTITY otherUpper.label "Të tjera të Mëdhaja">
 <!ENTITY otherLower.label "Të tjera të Vogla">
 <!ENTITY commonSymbols.label "Simbole të Rëndomtë">
-<!ENTITY insertButton.label "Fut">
+<!ENTITY insertButton.label "Fute">
 <!ENTITY closeButton.label "Mbylle">

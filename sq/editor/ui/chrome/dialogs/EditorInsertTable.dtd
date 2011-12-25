@@ -36,7 +36,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Fut Tabelë">
+<!ENTITY windowTitle.label "Futje Tabele">
 
 <!ENTITY size.label "Madhësi">
 <!ENTITY numRowsEditField.label "Rreshta:">

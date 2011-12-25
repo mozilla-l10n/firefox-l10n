@@ -35,14 +35,14 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY sunbird.choosedate.button.tooltip                 "Zgjidhni një datë ku të shkohet" >
-<!ENTITY sunbird.cut.button.tooltip                        "Prije" >
-<!ENTITY sunbird.copy.button.tooltip                       "Kopjoje" >
-<!ENTITY sunbird.paste.button.tooltip                      "Ngjite" >
-<!ENTITY sunbird.print.button.tooltip                      "Shtyp kalendarin" >
-<!ENTITY sunbird.delete.button.tooltip                     "Fshi ngjarjen e përzgjedhur" >
-<!ENTITY sunbird.remotereload.button.tooltip               "Ringarko tërë kalendarët e largët" >
-<!ENTITY sunbird.import.button.tooltip                     "Importp ngjarje nga një kartelë vendore" >
-<!ENTITY sunbird.export.button.tooltip                     "Eksporto ngjarje te një kartelë vendore" >
+<!ENTITY sunbird.cut.button.tooltip                        "Prijeni" >
+<!ENTITY sunbird.copy.button.tooltip                       "Kopjojeni" >
+<!ENTITY sunbird.paste.button.tooltip                      "Ngjiteni" >
+<!ENTITY sunbird.print.button.tooltip                      "Shtypni kalendarin" >
+<!ENTITY sunbird.delete.button.tooltip                     "Fshini ngjarjen e përzgjedhur" >
+<!ENTITY sunbird.remotereload.button.tooltip               "Ringarkoni tërë kalendarët e largët" >
+<!ENTITY sunbird.import.button.tooltip                     "Importoni ngjarje nga një kartelë vendore" >
+<!ENTITY sunbird.export.button.tooltip                     "Eksportoni ngjarje te një kartelë vendore" >
 <!ENTITY sunbird.subscribe.button.tooltip                  "Pajtohuni te një kartelë kalendar te një makinë e largët" >
 <!ENTITY sunbird.publish.button.tooltip                    "Publikoni ngjarje te një makinë e largët" >
 <!ENTITY sunbird.unifinder.button.tooltip                  "Gjeni dhe sillni listë ngjarjesh" >

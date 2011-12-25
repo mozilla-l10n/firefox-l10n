@@ -117,7 +117,7 @@
 <!ENTITY deleteAllAttachmentsCmd.label    "Fshijini Krejt…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "F">
 
-<!ENTITY openAttachment.tooltip "Hape kartelën e bashkangjitur">
+<!ENTITY openAttachment.tooltip "Hapni kartelën e bashkangjitur">
 
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Ruaje">

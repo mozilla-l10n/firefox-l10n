@@ -22,17 +22,17 @@
 <!ENTITY actualSize.label "Madhësia e Vërtetë:">
 <!ENTITY actualSizeRadio.label "Madhësia e Vërtetë">
 <!ENTITY actualSizeRadio.accessKey "M">
-<!ENTITY actualSizeRadio.tooltip "Rikthehu tek madhësia e vërtetë e figurës">
+<!ENTITY actualSizeRadio.tooltip "Rikthehuni tek madhësia e vërtetë e figurës">
 <!ENTITY customSizeRadio.label "Madhësi Vetjake">
 <!ENTITY customSizeRadio.accessKey "V">
-<!ENTITY customSizeRadio.tooltip "Ndrysho përmasa figure siç shfaqet tek faqja">
+<!ENTITY customSizeRadio.tooltip "Ndryshoni përmasa figure siç shfaqet tek faqja">
 <!ENTITY heightEditField.label "Lartësi:">
 <!ENTITY heightEditField.accessKey "L">
 <!ENTITY widthEditField.label "Gjerësi:">
 <!ENTITY widthEditField.accessKey "G">
 <!ENTITY constrainCheckbox.label "Detyro">
 <!ENTITY constrainCheckbox.accessKey "D">
-<!ENTITY constrainCheckbox.tooltip "Mbaji përpjestimet e figurës">
+<!ENTITY constrainCheckbox.tooltip "Mbajini përpjestimet e figurës">
 
 <!-- These controls are in the Image Map box of the expanded area -->
 <!ENTITY imagemapBox.label "Hartë Figure">

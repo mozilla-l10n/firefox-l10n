@@ -84,8 +84,8 @@
 <!ENTITY saveSearch.accesskey                      "R">
 <!ENTITY cmd.find.key  "f">
 <!ENTITY maintenance.label   "Importim dhe Kopjeruajtje">
-<!ENTITY backButton.tooltip  "Kthehu mbrapsht">
-<!ENTITY forwardButton.tooltip  "Vazhdo përpara">
+<!ENTITY backButton.tooltip  "Kthehuni mbrapsht">
+<!ENTITY forwardButton.tooltip  "Vazhdoni përpara">
 <!ENTITY detailsPane.more.label "Më tepër">
 <!ENTITY detailsPane.less.label "Më pak">
 <!ENTITY detailsPane.selectAnItemText.description "Përzgjidhni një objekt për ta parë dhe për t&quot;i përpunuar vetitë">
