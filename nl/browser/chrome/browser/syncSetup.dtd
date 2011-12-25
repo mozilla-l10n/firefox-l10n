@@ -88,6 +88,8 @@
 <!ENTITY engine.passwords.accesskey "W">
 <!ENTITY engine.prefs.label         "Voorkeuren">
 <!ENTITY engine.prefs.accesskey     "V">
+<!ENTITY engine.addons.label        "Add-ons">
+<!ENTITY engine.addons.accesskey    "A">
  
 <!ENTITY choice2.merge.main.label      "De gegevens van deze computer met uw &syncBrand.shortName.label;-gegevens laten samengaan">
 <!ENTITY choice2.merge.recommended.label "Aanbevolen:">
