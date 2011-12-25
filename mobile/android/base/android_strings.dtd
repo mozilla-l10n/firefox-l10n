@@ -37,7 +37,19 @@
 <!ENTITY preferences "Nastavení">
 <!ENTITY preferences_title "Nastavení">
 <!ENTITY pref_category_privacy "Soukromí a bezpečnost">
+<!ENTITY pref_category_content "Obsah">
 <!ENTITY pref_do_not_track "Říct serverům, že nechci být sledován">
+<!ENTITY pref_homepage "Domovská stránka">
+<!ENTITY pref_homepage_start "Firefox start">
+<!ENTITY pref_homepage_blank "Prázdná stránka">
+<!ENTITY pref_homepage_current "Aktuální stránka">
+<!ENTITY pref_remember_signons "Pamatovat si hesla">
+<!ENTITY pref_locale "Jazyk">
+<!ENTITY pref_cookies "Povolit cookies">
+<!ENTITY pref_zoom_reflow "Měnit text při změně velikosti">
+<!ENTITY pref_show_images "Zobrazit obrázky">
+<!ENTITY pref_enable_js "Povolit JavaScript">
+<!ENTITY pref_char_encoding "Zobrazit znakovou sadu">
 
 <!ENTITY share "Sdílet">
 <!ENTITY saveaspdf "Uložit jako PDF">
