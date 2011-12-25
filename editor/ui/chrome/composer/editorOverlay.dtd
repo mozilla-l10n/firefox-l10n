@@ -193,21 +193,21 @@
 <!ENTITY alignMenu.accesskey "V">
 <!ENTITY alignLeft.label "Majtas">
 <!ENTITY alignLeft.accesskey "M">
-<!ENTITY alignLeft.tooltip "Vendose Majtas">
+<!ENTITY alignLeft.tooltip "Vendoseni Majtas">
 <!ENTITY alignCenter.label "Qendër">
 <!ENTITY alignCenter.accesskey "Q">
-<!ENTITY alignCenter.tooltip "Vendose në Qendër">
+<!ENTITY alignCenter.tooltip "Vendoseni në Qendër">
 <!ENTITY alignRight.label "Djathtas">
 <!ENTITY alignRight.accesskey "D">
-<!ENTITY alignRight.tooltip "Vendose Djathtas">
+<!ENTITY alignRight.tooltip "Vendoseni Djathtas">
 <!ENTITY alignJustify.label "Përligj">
 <!ENTITY alignJustify.accesskey "P">
 <!ENTITY alignJustify.tooltip "Drejtim i Përligjur">
 
 <!-- Layer toolbar items -->
 <!ENTITY layer.tooltip "Shtresë">
-<!ENTITY layerSendToBack.tooltip "Shpjere Prapa">
-<!ENTITY layerBringToFront.tooltip "Bjere Përpara">
+<!ENTITY layerSendToBack.tooltip "Shpjereni Prapa">
+<!ENTITY layerBringToFront.tooltip "Bjereni Përpara">
 
 <!ENTITY increaseIndent.label "Rrit Hapësirë Kryeradhe">
 <!ENTITY increaseIndent.accesskey "R">
@@ -286,20 +286,20 @@
 <!ENTITY menuBar.tooltip "Shtyllë Menuje">
 <!ENTITY formatToolbar.tooltip "Panel Formatimesh">
 <!ENTITY newToolbarCmd.label "E re">
-<!ENTITY newToolbarCmd.tooltip "Krijo një faqe të re Hartuesi">
+<!ENTITY newToolbarCmd.tooltip "Krijoni një faqe të re Hartuesi">
 <!ENTITY openToolbarCmd.label "Hap">
-<!ENTITY openToolbarCmd.tooltip "Hap një kartelë vendore">
-<!ENTITY saveToolbarCmd.tooltip "Ruaje kartelën te një vendndodhje vendore">
-<!ENTITY publishToolbarCmd.tooltip "Ngarko kartelë te një vendndodhje e largët">
-<!ENTITY cutToolbarCmd.tooltip "Prije">
-<!ENTITY copyToolbarCmd.tooltip "Kopjoje">
-<!ENTITY pasteToolbarCmd.tooltip "Ngjite">
+<!ENTITY openToolbarCmd.tooltip "Hapni një kartelë vendore">
+<!ENTITY saveToolbarCmd.tooltip "Ruajeni kartelën te një vendndodhje vendore">
+<!ENTITY publishToolbarCmd.tooltip "Ngarkoni kartelë te një vendndodhje e largët">
+<!ENTITY cutToolbarCmd.tooltip "Prijeni">
+<!ENTITY copyToolbarCmd.tooltip "Kopjojeni">
+<!ENTITY pasteToolbarCmd.tooltip "Ngjiteni">
 <!ENTITY printToolbarCmd.label "Shtype">
-<!ENTITY printToolbarCmd.tooltip "Shtype këtë faqe">
+<!ENTITY printToolbarCmd.tooltip "Shtypeni këtë faqe">
 <!ENTITY findToolbarCmd.label "Gjej">
-<!ENTITY findToolbarCmd.tooltip "Gjej tekst në faqe">
+<!ENTITY findToolbarCmd.tooltip "Gjeni tekst në faqe">
 <!ENTITY spellToolbarCmd.label "Drejtshkrim">
-<!ENTITY spellToolbarCmd.tooltip "Kontroll drejtshkrimi për përzgjedhjen ose tërë faqen">
+<!ENTITY spellToolbarCmd.tooltip "Kontrolloni drejtshkrimin për përzgjedhjen ose tërë faqen">
 <!ENTITY imageToolbarCmd.label "Figurë">
 <!ENTITY imageToolbarCmd.tooltip "Futni figurë të re ose përpunoni vetitë e figurës së përzgjedhur">
 <!ENTITY hruleToolbarCmd.label "Rresht H.">
@@ -309,7 +309,7 @@
 <!ENTITY linkToolbarCmd.label "Lidhje">
 <!ENTITY linkToolbarCmd.tooltip "Futni lidhje të re ose përpunoni vetitë e lidhjes së përzgjedhur">
 <!ENTITY anchorToolbarCmd.label "Spirancë">
-<!ENTITY anchorToolbarCmd.tooltip "Fusni spirancë të re të emërtuar ose përpunoni vetitë e spirancës së përzgjedhur">
+<!ENTITY anchorToolbarCmd.tooltip "Futni spirancë të re të emërtuar ose përpunoni vetitë e spirancës së përzgjedhur">
 <!ENTITY TextColorButton.tooltip "Zgjidhni ngjyrë për tekstin">
 <!ENTITY BackgroundColorButton.tooltip "Zgjidhni ngjyrë për sfondin">
 <!ENTITY throbber.tooltip "Shko tek faqja hyrëse e &vendorShortName;-it">
@@ -321,16 +321,16 @@
 <!ENTITY boldToolbarCmd.tooltip "të Trasha">
 <!ENTITY italicToolbarCmd.tooltip "të Pjerrëta">
 <!ENTITY underlineToolbarCmd.tooltip "të Nënvizuara">
-<!ENTITY bulletListToolbarCmd.tooltip "Vendos ose hiq listë me shenjë">
-<!ENTITY numberListToolbarCmd.tooltip "Vendos ose hiq listë me numra">
+<!ENTITY bulletListToolbarCmd.tooltip "Vendosni ose hiqni listë me shenjë">
+<!ENTITY numberListToolbarCmd.tooltip "Vendosni ose hiqni listë me numra">
 <!ENTITY outdentToolbarCmd.tooltip "Tekst jashtazi (zhvendose majtas)">
 <!ENTITY indentToolbarCmd.tooltip "Tekst brendazi (zhvendose djathtas)">
 <!ENTITY AlignPopupButton.tooltip "Zgjidhni drejtim teksti">
 <!ENTITY InsertPopupButton.tooltip "Futni një Lidhje, Spirancë, Figurë, Vijë Horizontale, ose Tabelë">
-<!ENTITY alignLeftButton.tooltip "Vendose tekstin përgjatë mënjanash majtas">
-<!ENTITY alignCenterButton.tooltip "Vendose tekstin në qendër">
-<!ENTITY alignRightButton.tooltip "Vendose tekstin përgjatë mënjanash djathtas">
-<!ENTITY alignJustifyButton.tooltip "Vendose tekstin përgjatë mënjanash majtas dhe djathtas">
+<!ENTITY alignLeftButton.tooltip "Vendoseni tekstin përgjatë mënjanash majtas">
+<!ENTITY alignCenterButton.tooltip "Vendoseni tekstin në qendër">
+<!ENTITY alignRightButton.tooltip "Vendoseni tekstin përgjatë mënjanash djathtas">
+<!ENTITY alignJustifyButton.tooltip "Vendoseni tekstin përgjatë mënjanash majtas dhe djathtas">
 
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "Përzgjidhni">

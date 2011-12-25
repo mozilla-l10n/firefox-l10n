@@ -36,7 +36,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label         "Boto Faqe">
+<!ENTITY windowTitle.label         "Botim Faqeje">
 <!ENTITY windowTitleSettings.label "Rregullime Botimi">
 <!ENTITY publishTab.label         "Botim">
 <!ENTITY settingsTab.label        "Rregullime">
@@ -53,13 +53,13 @@
 <!ENTITY docDirList.tooltip           "Zgjidhni ose jepni emrin e nëndrejtorisë së largët për këtë faqe">
 <!ENTITY publishImgCheckbox.label "Përfshi figura dhe kartela të tjera">
 <!ENTITY publishImgCheckbox.accesskey "P">
-<!ENTITY publishImgCheckbox.tooltip "Boto figura dhe kartela të tjera të cilave u referohet kjo faqe">
+<!ENTITY publishImgCheckbox.tooltip "Botoni figura dhe kartela të tjera të cilave u referohet kjo faqe">
 <!ENTITY sameLocationRadio.label  "Përdor të njëjtën vendndodhje si faqja">
 <!ENTITY sameLocationRadio.accesskey  "f">
-<!ENTITY sameLocationRadio.tooltip "Kartelat botoji te e njëjta vendndodhje si faqja">
+<!ENTITY sameLocationRadio.tooltip "Kartelat botojini te e njëjta vendndodhje si faqja">
 <!ENTITY useSubdirRadio.label     "Përdor këtë nëndrejtori &quot;site&quot;-i:">
 <!ENTITY useSubdirRadio.accesskey     "d">
-<!ENTITY useSubdirRadio.tooltip       "Botoji kartelat te drejtoria e largët e përzgjedhur">
+<!ENTITY useSubdirRadio.tooltip       "Botojini kartelat te drejtoria e largët e përzgjedhur">
 <!ENTITY otherDirList.tooltip         "Zgjidhni ose jepni emrin e nëndrejtorisë së largët ku të botohen kartelat">
 <!ENTITY pageTitle.label          "Titull Faqeje:">
 <!ENTITY pageTitle.accesskey          "T">

@@ -40,7 +40,7 @@
 <!ENTITY pageColors.label "Ngjyra Faqeje">
 <!ENTITY defaultColorsRadio.label "Ngjyrat parazgjedhje të lexuesit (Mos vendos ngjyra në faqe)">
 <!ENTITY defaultColorsRadio.accessKey "y">
-<!ENTITY defaultColorsRadio.tooltip "Përdor rregullime ngjyrash vetëm prej shfletuesit të lexuesit">
+<!ENTITY defaultColorsRadio.tooltip "Përdorni rregullime ngjyrash vetëm prej shfletuesit të lexuesit">
 <!ENTITY customColorsRadio.label "Përdor ngjyra vetjake:">
 <!ENTITY customColorsRadio.accessKey "P">
 <!ENTITY customColorsRadio.tooltip "Këto ngjyra veprojnë tej rregullimeve të lexuesit për shfletuesin">

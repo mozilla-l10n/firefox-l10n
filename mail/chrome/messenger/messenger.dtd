@@ -344,7 +344,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Message Menu -->
 <!ENTITY msgMenu.label "Mesazh">
-<!ENTITY msgMenu.accesskey "M">
+<!ENTITY msgMenu.accesskey "e">
 <!ENTITY newMsgCmd.label "Mesazh i Ri">
 <!ENTITY newMsgCmd.accesskey "R">
 <!ENTITY newNewMsgCmd.label "Mesazh">
@@ -504,7 +504,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getMsgButton.label "Merr Postën">
 <!ENTITY newMsgButton.label "Shkruani">
 <!ENTITY replyButton.label "Përgjigju">
-<!ENTITY replyAllButton.label "Përgjigju të Tërëve">
+<!ENTITY replyAllButton.label "Përgjigjiu të Tërëve">
 <!ENTITY replyListButton.label "Përgjigjuni te Lista">
 <!ENTITY forwardButton.label "Përcille">
 <!ENTITY fileButton.label "Kartelë">
@@ -537,26 +537,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getAllNewMsgCmd.label "Merri Tërë Mesazhet">
 <!ENTITY getAllNewMsgCmd.accesskey "M">
 <!ENTITY newMsgButton.tooltip "Krijoni mesazh të ri">
-<!ENTITY replyButton.tooltip "Përgjigjuni mesazhit">
-<!ENTITY replyAllButton.tooltip "Përgjigjuni dërguesit dhe tërë marrësve">
+<!ENTITY replyButton.tooltip "Përgjigjiuni mesazhit">
+<!ENTITY replyAllButton.tooltip "Përgjigjiuni dërguesit dhe tërë marrësve">
 <!ENTITY replyListButton.tooltip "Përgjigjuni te lista e postimeve">
-<!ENTITY forwardButton.tooltip "Përcill mesazhet e përzgjedhur">
-<!ENTITY fileButton.tooltip "Skedoje mesazhin e përzgjedhur">
+<!ENTITY forwardButton.tooltip "Përcillni mesazhet e përzgjedhur">
+<!ENTITY fileButton.tooltip "Skedojeni mesazhin e përzgjedhur">
 <!ENTITY archiveButton.tooltip "Mesazhe të përzgjedhur në arkivë">
-<!ENTITY nextButton.tooltip "Kalo te mesazhi i palexuar pasues">
-<!ENTITY previousButton.tooltip "Kalo te mesazhi i mëparshëm i palexuar">
-<!ENTITY goForwardButton.tooltip "Kalo një mesazh para">
-<!ENTITY goBackButton.tooltip "Kalo një mesazh prapa">
-<!ENTITY deleteButton.tooltip "Fshi mesazhe ose dosje të përzgjedhur">
-<!ENTITY undeleteButton.tooltip "Çfshi mesazhin e përzgjedhur">
-<!ENTITY markButton.tooltip "Shënoji mesazhet">
-<!ENTITY printButton.tooltip "Shtyp këtë mesazh">
-<!ENTITY stopButton.tooltip "Ndale shpërnguljen e tanishme">
-<!ENTITY junkButton.tooltip "Mesazhet e përzgjedhur shënoji si të pavlera">
-<!ENTITY notJunkButton.tooltip "Mesazhet e përzgjedhur shënoji si jo të pavlera">
+<!ENTITY nextButton.tooltip "Kaloni te mesazhi i palexuar pasues">
+<!ENTITY previousButton.tooltip "Kaloni te mesazhi i mëparshëm i palexuar">
+<!ENTITY goForwardButton.tooltip "Kaloni një mesazh para">
+<!ENTITY goBackButton.tooltip "Kaloni një mesazh prapa">
+<!ENTITY deleteButton.tooltip "Fshini mesazhet ose dosjet e përzgjedhur">
+<!ENTITY undeleteButton.tooltip "Çfshijeni mesazhin e përzgjedhur">
+<!ENTITY markButton.tooltip "Shënojini mesazhet">
+<!ENTITY printButton.tooltip "Shtypeni këtë mesazh">
+<!ENTITY stopButton.tooltip "Ndalni shpërnguljen e tanishme">
+<!ENTITY junkButton.tooltip "Mesazhet e përzgjedhur shënojini si të pavlera">
+<!ENTITY notJunkButton.tooltip "Mesazhet e përzgjedhur shënojini si jo të pavlera">
 <!ENTITY addressBookButton.tooltip "Shkoni te libri i adresave">
 <!ENTITY tagButton.tooltip "Etiketoni mesazhe">
-<!ENTITY compactButton.tooltip "Hiqi mesazhet e fshirë prej dosjes së përzgjedhur">
+<!ENTITY compactButton.tooltip "Hiqini mesazhet e fshirë prej dosjes së përzgjedhur">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Etiketë e Re…">
@@ -674,11 +674,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextEditAsNew.accesskey "P">
 <!ENTITY contextArchive.label "Arkivë">
 <!ENTITY contextArchive.accesskey "A">
-<!ENTITY contextReplySender.label "Përgjigju Vetëm Dërguesit">
+<!ENTITY contextReplySender.label "Përgjigjiu Vetëm Dërguesit">
 <!ENTITY contextReplySender.accesskey "G">
 <!ENTITY contextReplyNewsgroup.label "Përgjigju te Grupi i Lajmeve">
 <!ENTITY contextReplyNewsgroup.accesskey "L">
-<!ENTITY contextReplyAll.label "Përgjigju të Tërëve">
+<!ENTITY contextReplyAll.label "Përgjigjiu të Tërëve">
 <!ENTITY contextReplyAll.accesskey "T">
 <!ENTITY contextReplyList.label "Përgjigjuni te Lista">
 <!ENTITY contextReplyList.accesskey "L">

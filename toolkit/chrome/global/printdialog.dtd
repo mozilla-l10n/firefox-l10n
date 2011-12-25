@@ -10,7 +10,7 @@
 <!ENTITY frompageInput.accesskey  "p">
 <!ENTITY numCopies.label "Numër kopjesh:">
 <!ENTITY numCopies.accesskey "n">
-<!ENTITY printButton.label "Shtyp">
+<!ENTITY printButton.label "Shtype">
 <!ENTITY printDialog.title "Shtyp">
 <!ENTITY printer.label "Shtypës">
 <!ENTITY printerInput.label "Shtypës:">

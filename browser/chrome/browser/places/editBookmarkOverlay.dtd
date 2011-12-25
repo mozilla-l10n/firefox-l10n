@@ -7,15 +7,15 @@
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Vendndodhje &quot;Site&quot;-i:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "S">
 <!ENTITY editBookmarkOverlay.folder.label                    "Dosje:">
-<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Shfaq tërë dosjet e faqerojtësave">
-<!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Fshihe">
+<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Shfaqni tërë dosjet e faqerojtësave">
+<!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Fshihini">
 <!ENTITY editBookmarkOverlay.tags.label                      "Etiketa:">
 <!ENTITY editBookmarkOverlay.tags.accesskey                  "t">
 <!ENTITY editBookmarkOverlay.description.label               "Përshkrim:">
 <!ENTITY editBookmarkOverlay.description.accesskey           "P">
 <!ENTITY editBookmarkOverlay.keyword.label                   "Fjalëkyç:">
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "F">
-<!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Shfaq tërë etiketat">
+<!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Shfaqni tërë etiketat">
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "Ngarkoje këtë faqerojtës te anështylla">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "N">
 <!ENTITY editBookmarkOverlay.choose.label                    "Zgjidhni…">

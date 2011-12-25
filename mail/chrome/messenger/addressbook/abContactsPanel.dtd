@@ -6,15 +6,15 @@
 
 <!ENTITY deleteAddrBookCard.label           "Fshije">
 <!ENTITY addrBookCardProperties.label       "Veti">
-<!ENTITY addtoToFieldMenu.label             "Shto te fusha Për">
-<!ENTITY addtoCcFieldMenu.label             "Shto te fusha Cc">
-<!ENTITY addtoBccFieldMenu.label            "Shto te fusha Bcc">
+<!ENTITY addtoToFieldMenu.label             "Shtojeni te fusha Për">
+<!ENTITY addtoCcFieldMenu.label             "Shtojeni te fusha Cc">
+<!ENTITY addtoBccFieldMenu.label            "Shtojeni te fusha Bcc">
 
-<!ENTITY toButton.label                     "Shto te Për:">
+<!ENTITY toButton.label                     "Shtoje te Për:">
 <!ENTITY toButton.accesskey                 "P">
-<!ENTITY ccButton.label                     "Shto te Cc:">
+<!ENTITY ccButton.label                     "Shtoje te Cc:">
 <!ENTITY ccButton.accesskey                 "c">
-<!ENTITY bccButton.label                    "Shto te Bcc:">
+<!ENTITY bccButton.label                    "Shtoje te Bcc:">
 <!ENTITY bccButton.accesskey                "B">
 
 

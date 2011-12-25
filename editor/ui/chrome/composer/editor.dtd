@@ -45,7 +45,7 @@
 <!-- Toolbar-only items -->
 <!ENTITY compositionToolbar.tooltip "Panel Hartimi">
 <!ENTITY previewToolbarCmd.label "Shfletoni">
-<!ENTITY previewToolbarCmd.tooltip "Ngarkoje këtë faqe në shfletues">
+<!ENTITY previewToolbarCmd.tooltip "Ngarkojeni këtë faqe në shfletues">
 
 <!-- File menu items -->
 <!ENTITY exportToTextCmd.label "Eksportoje si Tekst…">
@@ -79,11 +79,11 @@
 <!ENTITY NormalModeTab.label "Normal">
 <!ENTITY NormalMode.label "Mënyra e Përpunimit Normal">
 <!ENTITY NormalMode.accesskey "N">
-<!ENTITY NormalMode.tooltip "Shfaq anë tabele dhe spiranca të emërtuara">
+<!ENTITY NormalMode.tooltip "Shfaqni anë tabele dhe spiranca të emërtuara">
 <!ENTITY AllTagsModeTab.label "Etiketa HTML">
 <!ENTITY AllTagsMode.label "Etiketa HTML">
 <!ENTITY AllTagsMode.accesskey "a">
-<!ENTITY AllTagsMode.tooltip "Shfaq ikona për krejt etiketat HTML">
+<!ENTITY AllTagsMode.tooltip "Shfaqni ikona për krejt etiketat HTML">
 <!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
      Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if
      you want the <html> image to left of the 'HTMLSourceModeTab.label' text,
@@ -97,4 +97,4 @@
 <!ENTITY PreviewModeTab.label "Paraparje">
 <!ENTITY PreviewMode.label "Paraparje">
 <!ENTITY PreviewMode.accesskey "P">
-<!ENTITY PreviewMode.tooltip "Shfaqe si WYSIWYG (si në shfletues)">
+<!ENTITY PreviewMode.tooltip "Shfaqeni si WYSIWYG (si në shfletues)">

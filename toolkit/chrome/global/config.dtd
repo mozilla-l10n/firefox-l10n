@@ -16,7 +16,7 @@
 <!ENTITY new.accesskey "E">
 <!ENTITY new.label "E re">
 <!ENTITY prefColumn.label "Emër Parapëlqim">
-<!ENTITY prefColumnHeader.tooltip "Kliko për të renditur">
+<!ENTITY prefColumnHeader.tooltip "Klikoni për t&apos;i renditur">
 <!ENTITY reset.accesskey "R">
 <!ENTITY reset.label "Riktheji">
 <!ENTITY string.accesskey "V">

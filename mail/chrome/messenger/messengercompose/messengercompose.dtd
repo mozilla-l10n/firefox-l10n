@@ -112,7 +112,7 @@
 
 <!-- Options Menu -->
 <!ENTITY optionsMenu.label "Mundësi">
-<!ENTITY optionsMenu.accesskey "M">
+<!ENTITY optionsMenu.accesskey "u">
 <!ENTITY checkSpellingCmd2.label "Kontrolloni Drejtshkrimin…">
 <!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY checkSpellingCmd2.key2 "VK_F7">

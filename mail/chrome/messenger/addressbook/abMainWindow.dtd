@@ -128,7 +128,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newlistButton.tooltip                          "Krijoni një listë të re">
 <!ENTITY newmsgButton.tooltip                           "Dërgojini një mesazh poste">
 <!ENTITY newIM.tooltip                                  "Dërgojini një mesazh të atypëratyshëm ose fjalosuni me të">
-<!ENTITY deleteButton2.tooltip                          "Fshije objektin e përzgjedhur">
+<!ENTITY deleteButton2.tooltip                          "Fshijeni objektin e përzgjedhur">
 
 <!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label                            "Libra Adresash">

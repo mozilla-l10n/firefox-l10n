@@ -25,7 +25,7 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.close2.commandkey            "j">
 <!ENTITY cmd.close2Unix.commandkey        "y">
 <!ENTITY cmd.clearList.label              "Pastroje Listën">
-<!ENTITY cmd.clearList.tooltip            "Heq prej liste objekte të plotësuar, anuluar ose të dështuar">
+<!ENTITY cmd.clearList.tooltip            "Hiqni prej liste objekte të plotësuar, anuluar ose të dështuar">
 <!ENTITY cmd.clearList.accesskey          "S">
 <!ENTITY cmd.find.commandkey              "f">
 <!ENTITY cmd.search.commandkey            "k">

@@ -1,5 +1,5 @@
 <!-- Window title -->
-<!ENTITY windowTitle.label     "Kontrollo Vendndodhje Figurash dhe Lidhjesh">
+<!ENTITY windowTitle.label     "Kontroll Vendndodhjeje Figurash dhe Lidhjesh">
 <!ENTITY succeeded.label       "Me sukses">
 <!ENTITY failed.label          "Dështoi">
 <!ENTITY closeButton.label     "Mbylle">

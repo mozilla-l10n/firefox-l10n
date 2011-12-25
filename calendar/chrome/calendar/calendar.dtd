@@ -78,15 +78,15 @@
 <!ENTITY calendar.unifinder.tree.status.label        "Gjendje">
 <!ENTITY calendar.unifinder.tree.calendarname.label  "Emër Kalendari">
 <!ENTITY calendar.unifinder.tree.duration.label      "Mbaron më">
-<!ENTITY calendar.unifinder.close.tooltip            "Mbyll kërkim ngjarjesh dhe listë ngjarjesh">
+<!ENTITY calendar.unifinder.close.tooltip            "Mbyllni kërkim ngjarjesh dhe listë ngjarjesh">
 
-<!ENTITY calendar.today.button.tooltip            "Shko te e sotmja" >
-<!ENTITY calendar.todaypane.button.tooltip        "Shfaq kutinë për të Sotmen" >
+<!ENTITY calendar.today.button.tooltip            "Shkoni te e sotmja" >
+<!ENTITY calendar.todaypane.button.tooltip        "Shfaqni kutinë për të Sotmen" >
 
-<!ENTITY calendar.day.button.tooltip            "Kalo te pamje e ditës" >
-<!ENTITY calendar.week.button.tooltip           "Kalo te pamje e javës" >
-<!ENTITY calendar.month.button.tooltip          "Kalo te pamje e muajit" >
-<!ENTITY calendar.multiweek.button.tooltip      "Kalo te pamje shumëjavëshe" >
+<!ENTITY calendar.day.button.tooltip            "Kaloni te pamje e ditës" >
+<!ENTITY calendar.week.button.tooltip           "Kaloni te pamje e javës" >
+<!ENTITY calendar.month.button.tooltip          "Kaloni te pamje e muajit" >
+<!ENTITY calendar.multiweek.button.tooltip      "Kaloni te pamje shumëjavëshe" >
 
 <!ENTITY calendar.nextday.label                 "Dita Pasuese" >
 <!ENTITY calendar.prevday.label                 "Dita e Mëparshme" >
@@ -171,7 +171,7 @@
 
 
 <!ENTITY calendar.task.category.button.tooltip  "Kategorizoni punët">
-<!ENTITY calendar.task.complete.button.tooltip  "Shënoji punët e përzgjedhura si të plotësuara">
+<!ENTITY calendar.task.complete.button.tooltip  "Shënojini punët e përzgjedhura si të plotësuara">
 <!ENTITY calendar.task.priority.button.tooltip  "Ndryshojini përparësinë">
 
 <!-- Statusbar -->

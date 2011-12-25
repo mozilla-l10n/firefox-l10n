@@ -37,7 +37,7 @@
 
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Shndërro Në Tabelë">
+<!ENTITY windowTitle.label "Shndërrim Në Tabelë">
 <!ENTITY instructions1.label   "Hartuesi krijon një rresht të ri tabele për çdo paragraf në përzgjedhjen.">
 <!ENTITY instructions2.label   "Zgjidhni shenjën e përdorur për të ndarë zgjedhjen në shtylla:">
 <!ENTITY commaRadio.label      "Presje">
@@ -45,5 +45,5 @@
 <!ENTITY otherRadio.label      "Shenjë Tjetër:">
 <!ENTITY deleteCharCheck.label "Fshi shenjën ndarëse">
 <!ENTITY collapseSpaces.label  "Shpërfill hapësira ekstra">
-<!ENTITY collapseSpaces.tooltip "Shndërro në një ndarës hapësirat ngjitur">
+<!ENTITY collapseSpaces.tooltip "Shndërrojini hapësirat ngjitur në ndarës">
 

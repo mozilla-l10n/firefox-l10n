@@ -43,7 +43,7 @@
 <!ENTITY  update.installedOn.label        "Instaluar në:">
 <!ENTITY  update.status.label             "Gjendje:">
 
-<!ENTITY  viewDetails.tooltip             "Shihni hollësi për këtë përditësim">
+<!ENTITY  viewDetails.tooltip             "Shihni hollësitë për këtë përditësim">
 <!ENTITY  updateCheck.label               "Po shihet për versione më të rinj të &brandShortName;-it…">
 
 <!ENTITY  incompatibleList.title          "U gjetën Shtesa të Papërputhshme">

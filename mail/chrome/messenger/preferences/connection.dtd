@@ -1,7 +1,7 @@
 <!ENTITY  connectionsDialog.title       "Rregullime Lidhjeje">
 <!ENTITY  window.width                   "37em">
 
-<!ENTITY  proxyTitle.label              "Formësoni Ndërmjetësa për Hyrje në Internet">
+<!ENTITY  proxyTitle.label              "Formësim Ndërmjetësash për Hyrje në Internet">
 <!ENTITY  WPADTypeRadio.label           "Vetëzbulo rregullime ndërmjetësi për këtë rrjet">
 <!ENTITY  WPADTypeRadio.accesskey       "v">
 <!ENTITY  manualTypeRadio.label         "Formësim ndërmjetë dorazi:">

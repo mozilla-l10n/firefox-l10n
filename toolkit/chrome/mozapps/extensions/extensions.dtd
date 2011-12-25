@@ -11,8 +11,8 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Mjete për krejt shtesat">
 
-<!ENTITY cmd.back.tooltip                     "Shko mbrapsht një faqe">
-<!ENTITY cmd.forward.tooltip                  "Shko përpara një faqe">
+<!ENTITY cmd.back.tooltip                     "Shkoni mbrapsht një faqe">
+<!ENTITY cmd.forward.tooltip                  "Shkoni përpara një faqe">
 
 <!-- global warnings -->
 <!ENTITY warning.safemode.label                    "Mënyra e sigurt ka çaktivizuar krejt shtesat.">
@@ -51,7 +51,7 @@
 <!ENTITY updates.noneFound.label              "Nuk u gjetën përditësime">
 <!ENTITY updates.manualUpdatesFound.label     "Shihni Përditësimet e Gatshme">
 <!ENTITY updates.updateSelected.label         "Nuk u gjetën përditësime">
-<!ENTITY updates.updateSelected.tooltip       "Instalo përditësimet e mundshme prej kësaj liste">
+<!ENTITY updates.updateSelected.tooltip       "Instaloni përditësimet e mundshme prej kësaj liste">
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Shfaq Më Tepër të Dhëna">
@@ -107,11 +107,11 @@
 
 <!ENTITY detail.updateType                    "Përditësime të Vetvetishme">
 <!ENTITY detail.updateDefault.label           "Parazgjedhje">
-<!ENTITY detail.updateDefault.tooltip         "Instaloji përditësimet vetvetiu vetëm nëse kjo është parazgjedhja">
+<!ENTITY detail.updateDefault.tooltip         "Instalojini përditësimet vetvetiu vetëm nëse kjo është parazgjedhja">
 <!ENTITY detail.updateAutomatic.label         "On">
-<!ENTITY detail.updateAutomatic.tooltip       "Instalo përditësimet vetvetiu">
+<!ENTITY detail.updateAutomatic.tooltip       "Instaloni përditësimet vetvetiu">
 <!ENTITY detail.updateManual.label            "Off">
-<!ENTITY detail.updateManual.tooltip          "Mos i instalo vetvetiu përditësimet">
+<!ENTITY detail.updateManual.tooltip          "Mos i instaloni vetvetiu përditësimet">
 <!ENTITY detail.home                          "Faqja Hyrëse">
 <!ENTITY detail.repository                    "Profil Shtese">
 <!ENTITY detail.size                          "Madhësi">
@@ -135,23 +135,23 @@
 
 <!-- list sorting -->
 <!ENTITY sort.name.label                      "Emër">
-<!ENTITY sort.name.tooltip                    "Renditi sipas emrave">
+<!ENTITY sort.name.tooltip                    "Renditini sipas emrave">
 <!ENTITY sort.dateUpdated.label               "Përditësuar Së Fundmi">
-<!ENTITY sort.dateUpdated.tooltip             "Renditi sipas datës së përditësimit">
+<!ENTITY sort.dateUpdated.tooltip             "Renditini sipas datës së përditësimit">
 <!ENTITY sort.relevance.label                 "Më e afërta">
-<!ENTITY sort.relevance.tooltip               "Renditi sipas rëndësisë">
+<!ENTITY sort.relevance.tooltip               "Renditini sipas rëndësisë">
 <!ENTITY sort.price.label                     "Çmim">
-<!ENTITY sort.price.tooltip                   "Renditi sipas çmimit">
+<!ENTITY sort.price.tooltip                   "Renditini sipas çmimit">
 
 <!ENTITY search.filter2.label                 "Kërkim:">
 <!ENTITY search.filter2.installed.label       "Shtesat e Mia">
-<!ENTITY search.filter2.installed.tooltip     "Shfaq shtesat e instaluara">
+<!ENTITY search.filter2.installed.tooltip     "Shfaqni shtesat e instaluara">
 <!ENTITY search.filter2.available.label       "Shtesa të Mundshme">
-<!ENTITY search.filter2.available.tooltip     "Shfaq shtesa të mundshme për instalim">
+<!ENTITY search.filter2.available.tooltip     "Shfaqni shtesa të mundshme për instalim">
 
 <!ENTITY addon.homepage                       "Faqe hyrëse">
 <!ENTITY addon.details.label                  "Më Tepër">
-<!ENTITY addon.details.tooltip                "Shfaq më tepër hollësi mbi këtë shtesë">
+<!ENTITY addon.details.tooltip                "Shfaqni më tepër hollësi mbi këtë shtesë">
 <!ENTITY addon.unknownDate                    "E panjohur">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
@@ -163,9 +163,9 @@
      necessary -->
 <!ENTITY addon.update.postfix                 "Përditësim">
 <!ENTITY addon.undoAction.label               "Zhbëje">
-<!ENTITY addon.undoAction.tooltip             "Zhbëje këtë veprim">
+<!ENTITY addon.undoAction.tooltip             "Zhbëjeni këtë veprim">
 <!ENTITY addon.undoRemove.label               "Zhbëje">
-<!ENTITY addon.undoRemove.tooltip             "Mbaje të instaluar këtë shtesë">
+<!ENTITY addon.undoRemove.tooltip             "Mbajeni të instaluar këtë shtesë">
 <!ENTITY addon.restartNow.label               "Rinise tani">
 <!ENTITY addon.install.label                  "Instaloje">
 <!ENTITY addon.install.tooltip                "Instalojeni këtë shtesë">

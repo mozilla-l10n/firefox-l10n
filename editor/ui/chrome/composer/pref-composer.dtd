@@ -11,7 +11,7 @@
 <!ENTITY  savingFiles.title             "Kur Ruhen apo Botohen Faqe">
 <!ENTITY  preserveExisting.label        "Ruaj formatimin origjinal të burimit">
 <!ENTITY  preserveExisting.accesskey    "f">
-<!ENTITY  preserveExisting.tooltip      "Ruaj ndërprerje rreshtash formatim origjinal të faqes">
+<!ENTITY  preserveExisting.tooltip      "Ruani ndërprerje rreshtash të formatimit origjinal të faqes">
 <!ENTITY  saveAssociatedFiles.label     "Ruaj figura dhe kartela të tjera të përshoqëruara, kur ruhen faqe">
 <!ENTITY  saveAssociatedFiles.accesskey "s">
 <!ENTITY  showPublishDialog.label       "Trego përherë dialog Botimi kur botohen faqe">
@@ -19,7 +19,7 @@
 
 <!ENTITY  composerEditing.label         "Përpunim">
 <!ENTITY  maintainStructure.label       "Ruaj skemë tabele kur futen apo hiqen kuti">
-<!ENTITY  maintainStructure.tooltip     "Ruaj formë katërkëndore për tabelën duke futur apo hequr kuti vetvetiu">
+<!ENTITY  maintainStructure.tooltip     "Ruani formën katërkëndore për tabelën duke futur apo hequr kuti vetvetiu">
 <!ENTITY  maintainStructure.accesskey   "R">
 <!ENTITY  useCSS.label                  "Përdor stile CSS në vend të elementesh dhe atributesh HTML">
 <!ENTITY  useCSS.accesskey              "P">
