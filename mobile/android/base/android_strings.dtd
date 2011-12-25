@@ -25,6 +25,14 @@
 
 <!ENTITY choose_file "Volba souboru">
 
+
+
+<!ENTITY bookmarks_title "Záložky">
+<!ENTITY bookmark_add "Záložky">
+<!ENTITY bookmark_remove "Odebrat">
+<!ENTITY bookmark_added "Záložka přidána">
+<!ENTITY bookmark_removed "Záložka odebrána">
+
 <!ENTITY history_today_section "Dnes">
 <!ENTITY history_yesterday_section "Včera">
 <!ENTITY history_week_section "Posledních 7 dnů">
