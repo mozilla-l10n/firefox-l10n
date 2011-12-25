@@ -58,7 +58,6 @@
 <!ENTITY pref_remember_signons "Pamatovat si hesla">
 <!ENTITY pref_cookies "Povolit cookies">
 <!ENTITY pref_char_encoding "Zobrazit znakovou sadu">
-
 <!ENTITY pref_clear_history "Smazat historii">
 <!ENTITY pref_clear_history_confirm "Historie prohlížení bude smazána">
 <!ENTITY pref_clear_private_data "Vymazat důvěrná data">
@@ -72,8 +71,12 @@
 <!ENTITY pref_font_size_medium "Střední">
 <!ENTITY pref_font_size_large "Velké">
 <!ENTITY pref_font_size_xlarge "Extra velké">
+<!ENTITY pref_use_master_password "Použít hlavní heslo">
+
 <!ENTITY quit "Ukončit">
+
 <!ENTITY addons "Doplňky">
+
 <!ENTITY share "Sdílet">
 <!ENTITY save_as_pdf "Uložit jako PDF">
 <!ENTITY agent_request_desktop "Požadovat plnohodnotné stránky">
@@ -87,3 +90,11 @@
 <!ENTITY site_settings_cancel "Zrušit">
 <!ENTITY site_settings_clear "Vymazat">
 <!ENTITY site_settings_no_settings "Žádné nastavení neexistuje.">
+
+<!ENTITY masterpassword_create_title "Vytvořit hlavní heslo">
+<!ENTITY masterpassword_remove_title "Odebrat hlavní heslo">
+<!ENTITY masterpassword_password "Heslo">
+<!ENTITY masterpassword_confirm "Potvrzení hesla">
+
+<!ENTITY button_ok "OK">
+<!ENTITY button_cancel "Zrušit">
