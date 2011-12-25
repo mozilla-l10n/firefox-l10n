@@ -25,12 +25,17 @@
 
 <!ENTITY choose_file "Volba souboru">
 
+<!ENTITY history_today_section "Dnes">
+<!ENTITY history_yesterday_section "Včera">
+<!ENTITY history_week_section "Posledních 7 dnů">
+<!ENTITY history_older_section "Starší než 7 dnů">
+
 <!ENTITY reload "Obnovit">
 
 <!ENTITY new_tab "Nový panel">
 
 <!ENTITY share "Sdílet">
-
+<!ENTITY saveaspdf "Uložit jako PDF">
 <!ENTITY agent_request_desktop "Požadovat plnohodnotné stránky">
 <!ENTITY agent_request_mobile "Požadovat mobilní stránky">
 
