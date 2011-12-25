@@ -1,0 +1,19 @@
+<!ENTITY  splash_firstrun "Įdiegiama programa „&brandShortName;“…">
+<!ENTITY  no_space_to_start_error "Neužtenka laisvos vietos programai „&brandShortName;“ paleisti.">
+<!ENTITY  error_loading_file "Bandant įkelti „&brandShortName;“ darbui būtinus failus, įvyko klaida">
+
+<!ENTITY  crash_reporter_title "„&brandShortName;“ strigčių pranešiklis">
+<!ENTITY  crash_message "Programa „&brandShortName;“ užstrigo. Strigties metu atvertos kortelės turėtų būti išvardintos „&brandShortName;“ pradžios tinklalapyje, paleidus programą iš naujo.">
+<!ENTITY  crash_help_message "Padėkite mums pašalinti šią problemą!">
+<!ENTITY  crash_send_report_message "Praneškite „Mozillai“ apie šią strigtį">
+<!ENTITY  crash_include_url "Įtraukti į pranešimą tinklalapio adresą">
+<!ENTITY  crash_close_label "Užverti">
+<!ENTITY  crash_restart_label "Paleisti „&brandShortName;“ iš naujo">
+<!ENTITY  sending_crash_report "Išsiunčiamas strigties pranešimas…">
+<!ENTITY  exit_label "Baigti darbą">
+<!ENTITY  continue_label "Tęsti">
+
+<!ENTITY  launcher_shortcuts_title "„&brandShortName;“ saityno programėlės">
+<!ENTITY  launcher_shortcuts_empty "Saityno programėlių nerasta">
+
+<!ENTITY choose_file "Parinkite failą">
