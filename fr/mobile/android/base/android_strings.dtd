@@ -32,7 +32,7 @@
 <!ENTITY bookmark_added "Marque-page ajouté">
 <!ENTITY bookmark_removed "Marque-page supprimé">
 
-<!ENTITY history_today_section "Aujourd'hui">
+<!ENTITY history_today_section "Aujourd\u0027hui">
 <!ENTITY history_yesterday_section "Hier">
 <!ENTITY history_week_section "Il y a 7 jours">
 <!ENTITY history_older_section "Il y a plus de 7 jours">
@@ -56,9 +56,9 @@
 <!ENTITY pref_homepage_current "Page courante">
 <!ENTITY pref_remember_signons "Enreg. les mots de passe">
 <!ENTITY pref_cookies "Autoriser les cookies">
-<!ENTITY pref_char_encoding "Afficher l'encodage">
-<!ENTITY pref_clear_history "Supprimer l'historique">
-<!ENTITY pref_clear_history_confirm "L'historique de navigation sera supprimé">
+<!ENTITY pref_char_encoding "Afficher l\u0027encodage">
+<!ENTITY pref_clear_history "Supprimer l\u0027historique">
+<!ENTITY pref_clear_history_confirm "L\u0027historique de navigation sera supprimé">
 <!ENTITY pref_clear_private_data "Supprimer les données personnelles">
 <!ENTITY pref_clear_private_data_confirm "Les paramètres de navigation y compris les mots de passe et les cookies seront supprimés">
 <!ENTITY pref_enable_plugins "Activer les plugins">
@@ -82,13 +82,13 @@
 <!ENTITY agent_request_mobile "Demander site pour mobile">
 
 <!ENTITY contextmenu_open_new_tab "Ouvrir dans un nouvel onglet">
-<!ENTITY contextmenu_add_to_launcher "Ajouter à l'écran d'accueil">
+<!ENTITY contextmenu_add_to_launcher "Ajouter à l\u0027écran d\u0027accueil">
 <!ENTITY contextmenu_share "Partager">
 
 <!ENTITY site_settings_title        "Effacer les paramètres de site">
 <!ENTITY site_settings_cancel       "Annuler">
 <!ENTITY site_settings_clear        "Effacer">
-<!ENTITY site_settings_no_settings  "Il n'y a pas de paramètre à effacer.">
+<!ENTITY site_settings_no_settings  "Il n\u0027y a pas de paramètre à effacer.">
 
 <!ENTITY masterpassword_create_title "Créer un mot de passe principal">
 <!ENTITY masterpassword_remove_title "Effacer le mot de passe principal">
