@@ -48,6 +48,7 @@
 <!ENTITY pref_category_privacy "Soukromí a bezpečnost">
 <!ENTITY pref_category_content "Obsah">
 <!ENTITY pref_do_not_track "Říct serverům, že nechci být sledován">
+<!ENTITY pref_telemetry "Odesílat data o výkonu">
 <!ENTITY pref_homepage "Domovská stránka">
 <!ENTITY pref_homepage_start "Firefox start">
 <!ENTITY pref_homepage_blank "Prázdná stránka">
