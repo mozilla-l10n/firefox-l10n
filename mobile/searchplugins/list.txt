@@ -1,2 +1,4 @@
+amazondotcom
 google
-wikipedia-zh-TW
+wikipedia
+yahoo
