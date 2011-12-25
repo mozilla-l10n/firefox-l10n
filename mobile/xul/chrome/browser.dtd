@@ -1,0 +1,122 @@
+<!ENTITY urlbar.emptytext      "Introducir busca ou enderezo">
+
+<!ENTITY back.label            "Atrás">
+<!ENTITY forward.label         "Adiante">
+<!ENTITY reload.label          "Recargar">
+<!ENTITY stop.label            "Deter">
+<!ENTITY go.label              "Ir">
+<!ENTITY star.label            "Estrela">
+
+<!ENTITY showTabs.label        "Mostrar lapelas">
+<!ENTITY newtab.label          "Nova lapela">
+<!ENTITY closetab.label        "Pechar lapela">
+
+<!ENTITY cut.label             "Cortar">
+<!ENTITY copy.label            "Copiar">
+<!ENTITY copyAll.label         "Copiar todo">
+<!ENTITY copylink.label        "Copiar a localización da ligazón">
+<!ENTITY paste.label           "Pegar">
+<!ENTITY pasteAndGo.label      "Pegar e Ir">
+<!ENTITY delete.label          "Borrar">
+<!ENTITY selectAll.label       "Seleccionar todo">
+<!ENTITY noSuggestions.label   "(Sen suxestións)">
+<!ENTITY addToDictionary.label "Engadir ao dicionario">
+<!ENTITY inputMethod.label     "Seleccionar método de entrada">
+
+<!ENTITY allPagesHeader.label      "Todas as páxinas">
+<!ENTITY bookmarksHeader.label     "Marcadores">
+<!ENTITY historyHeader.label       "Historial">
+<!ENTITY desktopHeader.label       "Escritorio">
+
+<!ENTITY editBookmarkDialog.title  "Editar marcador">
+<!ENTITY editBookmarkDone.label    "Feito">
+<!ENTITY editBookmarkTags.label    "Engada etiquetas aquí">
+
+<!ENTITY selectHelper.done         "Feito">
+
+<!ENTITY addonsHeader.label        "Complementos">
+<!ENTITY addonsLocal.label         "Os seus complementos">
+<!ENTITY addonsUpdate.label        "Actualizar">
+<!ENTITY addonsRepo.label          "Obter complementos">
+<!ENTITY addonsRecommended.label   "Recomendado">
+<!ENTITY addonsSearch.label        "Buscar">
+<!ENTITY addonsSearch2.emptytext   "Buscar no catálogo">
+<!ENTITY addonsSearch.recommended  "Recomendado">
+
+<!ENTITY addonOptions.label        "Opcións">
+<!ENTITY addonEnable.label         "Activar">
+<!ENTITY addonDisable.label        "Desactivar">
+<!ENTITY addonInstall2.label       "Engadir a &brandShortName;">
+<!ENTITY addonUninstall.label      "Desinstalar">
+<!ENTITY addonCancel.label         "Cancelar">
+<!ENTITY addonShowPage.label       "Ir á páxina">
+
+<!ENTITY downloadsHeader.label     "Descargas">
+<!ENTITY downloadShowPage.label    "Ir á páxina">
+<!ENTITY downloadShow2.label       "Encontrar">
+<!ENTITY downloadOpen2.label       "Abrir">
+<!ENTITY downloadCancel.label      "Cancelar">
+<!ENTITY downloadPause.label       "Pausa">
+<!ENTITY downloadResume.label      "Retomar">
+<!ENTITY downloadRetry.label       "Tentar de novo">
+<!ENTITY downloadRemove.label      "Eliminar">
+<!ENTITY downloadDelete.label      "Borrar">
+<!ENTITY downloadFailed.label      "Fallou">
+
+<!ENTITY noResults.label           "Sen resultados">
+<!ENTITY allBookmarks.label        "Ver todos os marcadores">
+
+<!ENTITY bookmarkPopup.label       "Páxina marcada">
+<!ENTITY bookmarkRemove.label      "Eliminar">
+<!ENTITY bookmarkEdit.label        "Editar">
+<!ENTITY bookmarkShortcut.label    "Engadir á pantalla de inicio">
+
+<!ENTITY identity.unverifiedsite2 "Este sitio web non fornece información de identidade.">
+<!ENTITY identity.connectedTo2 "Conectado a">
+<!-- Localization note (identity.runBy2)
+ The layout of the identity dialog prevents combining this into a single string with
+ substitution variables.  If it is difficult to translate the sense of the string
+ with that structure, consider a translation which ignores the preceding domain and
+ just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy2 "que pertence a">
+
+<!ENTITY consoleHeader.label       "Consola de erros">
+<!ENTITY consoleAll.label          "Todo">
+<!ENTITY consoleErrors.label       "Erros">
+<!ENTITY consoleWarnings.label     "Avisos">
+<!ENTITY consoleMessages.label     "Mensaxes">
+<!ENTITY consoleCodeEval.label     "Código:">
+<!ENTITY consoleClear.label        "Limpar">
+<!ENTITY consoleEvaluate.label     "\u2026">
+<!ENTITY consoleErrFile.label      "Ficheiro de orixe:">
+<!ENTITY consoleErrLine.label      "Liña:">
+<!ENTITY consoleErrColumn.label    "Columna:">
+
+<!ENTITY contextOpenInNewTab.label    "Abrir a ligazón nunha nova lapela">
+<!ENTITY contextSaveImage.label       "Gardar imaxe">
+<!ENTITY contextCopyLink.label        "Copiar ligazón">
+<!ENTITY contextCopyEmail.label       "Copiar correo electrónico">
+<!ENTITY contextCopyPhone.label       "Copiar número de teléfono">
+<!ENTITY contextCopyImageLocation.label       "Copiar a localización da imaxe">
+<!ENTITY contextShareLink.label       "Compartir ligazón">
+<!ENTITY contextShareImage.label      "Compartir imaxe">
+<!ENTITY contextBookmarkLink.label    "Marcar ligazón">
+<!ENTITY contextSaveVideo.label       "Gardar vídeo">
+<!ENTITY contextShareVideo.label      "Compartir vídeo">
+<!ENTITY contextPlayMedia.label       "Reproducir">
+<!ENTITY contextPauseMedia.label      "Pausa">
+<!ENTITY contextFullScreen.label      "Pantalla completa">
+<!ENTITY contextEditBookmark.label    "Editar">
+<!ENTITY contextRemoveBookmark.label  "Eliminar">
+<!ENTITY contextShortcutBookmark.label "Engadir á pantalla de inicio">
+
+<!ENTITY pageactions.saveas.pdf      "Gardar como PDF">
+<!ENTITY pageactions.share.page      "Compartir páxina">
+<!ENTITY pageactions.password.forget "Esquecer o contrasinal">
+<!ENTITY pageactions.quit            "Saír">
+<!ENTITY pageactions.reset           "Limpar as preferencias do sitio">
+<!ENTITY pageactions.findInPage      "Localizar na páxina">
+<!ENTITY pageactions.search.addNew   "Engadir buscador">
+<!ENTITY pageactions.charEncoding    "Codificación de caracteres">
+
+<!ENTITY appMenu.siteOptions         "Opcións do sitio">
