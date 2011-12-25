@@ -4,6 +4,11 @@
 <!ENTITY no_space_to_start_error "&brandShortName; nemá dostatek místa pro své spuštění.">
 <!ENTITY error_loading_file "Při načítání souborů vyžadovaných aplikací &brandShortName; nastala chyba.">
 
+<!ENTITY awesomebar_all_pages_title "Top stránky">
+<!ENTITY awesomebar_bookmarks_title "Záložky">
+<!ENTITY awesomebar_history_title "Historie">
+
+
 <!ENTITY crash_reporter_title "Oznamovatel pádu">
 <!ENTITY crash_message "Aplikace &brandShortName; spadla. Po restartu aplikace &brandShortName; budou otevřené panely uvedeny na startovní stránce.">
 <!ENTITY crash_help_message "Pomozte nám prosím opravit tento problém.">
