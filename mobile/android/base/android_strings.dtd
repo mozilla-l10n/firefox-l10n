@@ -64,7 +64,7 @@
 <!ENTITY addons "Doplňky">
 
 <!ENTITY share "Sdílet">
-<!ENTITY saveaspdf "Uložit jako PDF">
+<!ENTITY save_as_pdf "Uložit jako PDF">
 <!ENTITY pref_category_history "Historie">
 <!ENTITY pref_clear_history "Smazat historii">
 <!ENTITY pref_clear_history_confirm "Historie prohlížení bude smazána">
