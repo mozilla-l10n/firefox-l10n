@@ -72,6 +72,11 @@
 <!ENTITY pref_enable_plugins_yes "Ano">
 <!ENTITY pref_enable_plugins_tap_to_play "Klepněte pro přehrání">
 <!ENTITY pref_enable_plugins_no "Ne">
+<!ENTITY pref_font_size "Velikost písma">
+<!ENTITY pref_font_size_small "Malé">
+<!ENTITY pref_font_size_medium "Střední">
+<!ENTITY pref_font_size_large "Velké">
+<!ENTITY pref_font_size_xlarge "Extra velké">
 <!ENTITY agent_request_desktop "Požadovat plnohodnotné stránky">
 <!ENTITY agent_request_mobile "Požadovat mobilní stránky">
 
