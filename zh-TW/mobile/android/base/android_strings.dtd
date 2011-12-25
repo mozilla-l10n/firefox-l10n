@@ -1,0 +1,21 @@
+
+<!ENTITY  splash_firstrun "正在設定 &brandShortName;\u2026">
+
+<!ENTITY  no_space_to_start_error "空間不足，無法啟動 &brandShortName;。">
+<!ENTITY  error_loading_file "嘗試讀取 &brandShortName; 執行所必需的檔案時發生錯誤。">
+
+<!ENTITY  crash_reporter_title "&brandShortName; 錯誤回報員">
+<!ENTITY  crash_message "&brandShortName; 意外碰上問題而自行關閉。您的分頁將會在重新啟動後被列在 &brandShortName; 的首頁。">
+<!ENTITY  crash_help_message "請幫助我們修正這個問題！">
+<!ENTITY  crash_send_report_message "傳送錯誤回報給 Mozilla">
+<!ENTITY  crash_include_url "包含頁面網址">
+<!ENTITY  crash_close_label "關閉">
+<!ENTITY  crash_restart_label "重開 &brandShortName;">
+<!ENTITY  sending_crash_report "正在傳送錯誤報告\u2026">
+<!ENTITY  exit_label "結束">
+<!ENTITY  continue_label "繼續">
+
+<!ENTITY  launcher_shortcuts_title "&brandShortName; 行動網頁應用程式">
+<!ENTITY  launcher_shortcuts_empty "找不到任何行動網頁應用程式">
+
+<!ENTITY choose_file "選擇檔案">
