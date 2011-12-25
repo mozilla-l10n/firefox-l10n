@@ -80,6 +80,10 @@
 <!ENTITY agent_request_desktop "Požadovat plnohodnotné stránky">
 <!ENTITY agent_request_mobile "Požadovat mobilní stránky">
 
+<!ENTITY contextmenu_open_new_tab "Otevřít v novém panelu">
+<!ENTITY contextmenu_add_to_launcher "Přidat na úvodní obrazovku">
+<!ENTITY contextmenu_share "Sdílet">
+
 <!ENTITY site_settings_title "Vymazat nastavení serveru">
 <!ENTITY site_settings_cancel "Zrušit">
 <!ENTITY site_settings_clear "Vymazat">
