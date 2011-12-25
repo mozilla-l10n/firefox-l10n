@@ -43,8 +43,8 @@
 
 <!ENTITY new_tab "Nový panel">
 
-<!ENTITY preferences "Nastavení">
-<!ENTITY preferences_title "Nastavení">
+<!ENTITY settings "Nastavení">
+<!ENTITY settings_title "Nastavení">
 <!ENTITY pref_category_general "Obecné">
 <!ENTITY pref_category_privacy "Soukromí a bezpečnost">
 <!ENTITY pref_category_content "Obsah">
