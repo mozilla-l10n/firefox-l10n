@@ -21,7 +21,7 @@
 <!ENTITY awesomebar_default_text "Inserire indirizzo o testo da cercare">
 <!ENTITY bookmarks_title "Segnalibri">
 <!ENTITY bookmark_add "Segnalibro">
-<!ENTITY bookmark_remove "Elimina">
+<!ENTITY bookmark_remove "Rimuovi">
 <!ENTITY bookmark_added "Aggiunto segnalibro">
 <!ENTITY bookmark_removed "Segnalibro eliminato">
 <!ENTITY history_today_section "Oggi">
@@ -64,12 +64,12 @@
 <!ENTITY addons "Componenti aggiuntivi">
 <!ENTITY share "Condividi">
 <!ENTITY save_as_pdf "Salva come PDF">
-<!ENTITY agent_request_desktop "Richiedi versione desktop del sito">
-<!ENTITY agent_request_mobile "Richiedi versione mobile del sito">
+<!ENTITY agent_request_desktop "Richiedi versione desktop">
+<!ENTITY agent_request_mobile "Richiedi versione mobile">
 <!ENTITY contextmenu_open_new_tab "Apri in nuova scheda">
 <!ENTITY contextmenu_add_to_launcher "Aggiungi a schermata Home">
 <!ENTITY contextmenu_share "Condividi">
-<!ENTITY site_settings_title "ELimina impostazioni sito">
+<!ENTITY site_settings_title "Elimina impostazioni sito">
 <!ENTITY site_settings_cancel "Annulla">
 <!ENTITY site_settings_clear "Elimina">
 <!ENTITY site_settings_no_settings "Non ci sono impostazioni da eliminare.">
