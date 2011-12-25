@@ -20,5 +20,5 @@
 <!ENTITY homepage.none "Pagina vuota">
 <!ENTITY homepage.default "&brandShortName; Start">
 <!ENTITY homepage.currentpage "Usa la pagina corrente">
-<!ENTITY showCharsetEncoding.title "Visualizza codifica caratteri">
+<!ENTITY showCharsetEncoding.title "Mostra codifica caratteri">
 <!ENTITY actionbar.default "Impostazioni di &brandShortName;">
