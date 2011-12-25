@@ -1,0 +1,55 @@
+<!-- Don't localize these. They're here until they have
+     a better place to live. -->
+<!ENTITY syncBrand.fullName.label "Firefox Sync">
+<!ENTITY syncBrand.shortName.label "Sync">
+
+<!-- Main titles. -->
+<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
+<!ENTITY sync.title.connect.label "Připojit k &syncBrand.shortName.label;'>
+<!ENTITY sync.title.pair.label "Připojit zařízení">
+
+<!-- J-PAKE Key Screen -->
+<!ENTITY sync.subtitle.connect.label "Pro aktivaci nového zařízení na něm zvolte „Nastavit &syncBrand.shortName.label;“.">
+<!ENTITY sync.subtitle.pair.label "Pro aktivaci na druhém zařízení zvolte „Připojit nové zařízení“.">
+<!ENTITY sync.pin.default.label "...\n...\n...\n">
+<!ENTITY sync.link.show.label "<a href=\"https://support.mozilla.com/kb/add-a-device-to-firefox-sync\">Zobrazit návod</a>">
+<!ENTITY sync.link.nodevice.label "<a href=\"#\">Nemám zařízení sebou…</a>">
+
+<!-- J-PAKE Waiting Screen -->
+<!ENTITY sync.jpake.subtitle.waiting.label "Čekání na druhé zařízení…">
+
+<!-- Account Login Screen -->
+<!ENTITY sync.subtitle.account.label "Vložit nastavení účtu &syncBrand.fullName.label;">
+<!ENTITY sync.input.username.label "Název účtu">
+<!ENTITY sync.input.password.label "Heslo">
+<!ENTITY sync.input.key.label "Obnovovací klíč">
+<!ENTITY sync.checkbox.server.label "Použít vlastní server">
+<!ENTITY sync.input.server.label "Adresa serveru">
+  
+<!-- Setup Fail -->
+<!ENTITY sync.title.fail.label "Nepodařilo se nastavit &syncBrand.shortName.label;">
+<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; se nemohl připojit k serveru. Chcete to zkusit znovu?">
+<!ENTITY sync.button.tryagain.label "Zkusit znovu">
+<!ENTITY sync.button.manual.label "Ruční nastavení">
+  
+<!-- Setup Success -->
+<!ENTITY sync.title.success.label "Nastavení dokončeno">
+<!ENTITY sync.subtitle.success.label "Vaše data jsou nyní stahována na pozadí. Nyní můžete přejít zpět do Nastavení.">
+<!ENTITY sync.settings.label "Nastavení">
+<!ENTITY sync.subtitle.manage.label "Účet &syncBrand.fullName.label; je nyní nastaven. Pro správu účtu přejděte do Nastavení.">
+  
+<!-- Common text -->
+<!ENTITY sync.button.cancel.label "Zrušit">
+<!ENTITY sync.button.connect.label "Připojit">
+  
+<!-- Account strings -->
+<!ENTITY sync.account.label.label "&syncBrand.fullName.label;">
+  
+<!-- Bookmark folder strings -->
+<!ENTITY bookmarks.folder.menu.label "Nabídka záložek">
+<!ENTITY bookmarks.folder.places.label "">
+<!ENTITY bookmarks.folder.tags.label "Štítky">
+<!ENTITY bookmarks.folder.toolbar.label "Lišta záložek">
+<!ENTITY bookmarks.folder.unfiled.label "Netříděné záložky">
+<!ENTITY bookmarks.folder.desktop.label "Záložky z desktopu">
+<!ENTITY bookmarks.folder.mobile.label "Záložky z mobilu">
