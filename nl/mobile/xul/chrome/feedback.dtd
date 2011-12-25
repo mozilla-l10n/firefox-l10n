@@ -1,0 +1,11 @@
+<!ENTITY feedbackHeader2.label          "Hulpmiddelen voor feedback">
+
+<!ENTITY feedback.communicate.title     "Communiceer met ons!">
+<!ENTITY feedback.feedback.title        "Feedback geven">
+<!ENTITY feedback.feedback.good         "Goed">
+<!ENTITY feedback.feedback.bad          "Slecht">
+
+<!ENTITY feedback.tools.title           "Hulpmiddelen">
+<!ENTITY feedback.allowTelemetry.title  "Prestatiegegevens verzenden">
+<!ENTITY feedback.forceCompat.title     "Add-oncompatibiliteit forceren">
+<!ENTITY feedback.errorConsole.title    "De foutconsole inschakelen">
