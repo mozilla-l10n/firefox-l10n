@@ -59,11 +59,6 @@
 <!ENTITY pref_cookies "Povolit cookies">
 <!ENTITY pref_char_encoding "Zobrazit znakovou sadu">
 
-<!ENTITY addons "Doplňky">
-
-<!ENTITY share "Sdílet">
-<!ENTITY save_as_pdf "Uložit jako PDF">
-<!ENTITY pref_category_history "Historie">
 <!ENTITY pref_clear_history "Smazat historii">
 <!ENTITY pref_clear_history_confirm "Historie prohlížení bude smazána">
 <!ENTITY pref_clear_private_data "Vymazat důvěrná data">
@@ -78,6 +73,9 @@
 <!ENTITY pref_font_size_large "Velké">
 <!ENTITY pref_font_size_xlarge "Extra velké">
 <!ENTITY quit "Ukončit">
+<!ENTITY addons "Doplňky">
+<!ENTITY share "Sdílet">
+<!ENTITY save_as_pdf "Uložit jako PDF">
 <!ENTITY agent_request_desktop "Požadovat plnohodnotné stránky">
 <!ENTITY agent_request_mobile "Požadovat mobilní stránky">
 
