@@ -45,8 +45,10 @@
 
 <!ENTITY preferences "Nastavení">
 <!ENTITY preferences_title "Nastavení">
+<!ENTITY pref_category_general "Obecné">
 <!ENTITY pref_category_privacy "Soukromí a bezpečnost">
 <!ENTITY pref_category_content "Obsah">
+<!ENTITY pref_about_firefox "About &brandShortName;">
 <!ENTITY pref_do_not_track "Říct serverům, že nechci být sledován">
 <!ENTITY pref_telemetry "Odesílat data o výkonu">
 <!ENTITY pref_homepage "Domovská stránka">
@@ -56,9 +58,6 @@
 <!ENTITY pref_remember_signons "Pamatovat si hesla">
 <!ENTITY pref_locale "Jazyk">
 <!ENTITY pref_cookies "Povolit cookies">
-<!ENTITY pref_zoom_reflow "Při změně velikosti měnit text">
-<!ENTITY pref_show_images "Zobrazit obrázky">
-<!ENTITY pref_enable_js "Povolit JavaScript">
 <!ENTITY pref_char_encoding "Zobrazit znakovou sadu">
 
 <!ENTITY addons "Doplňky">
