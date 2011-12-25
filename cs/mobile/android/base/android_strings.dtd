@@ -56,7 +56,6 @@
 <!ENTITY pref_homepage_blank "Prázdná stránka">
 <!ENTITY pref_homepage_current "Aktuální stránka">
 <!ENTITY pref_remember_signons "Pamatovat si hesla">
-<!ENTITY pref_locale "Jazyk">
 <!ENTITY pref_cookies "Povolit cookies">
 <!ENTITY pref_char_encoding "Zobrazit znakovou sadu">
 
