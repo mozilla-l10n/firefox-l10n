@@ -51,6 +51,8 @@
 <!ENTITY pref_enable_js "Povolit JavaScript">
 <!ENTITY pref_char_encoding "Zobrazit znakovou sadu">
 
+<!ENTITY addons "Doplňky">
+
 <!ENTITY share "Sdílet">
 <!ENTITY saveaspdf "Uložit jako PDF">
 <!ENTITY pref_category_history "Historie">
