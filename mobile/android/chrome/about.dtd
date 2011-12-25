@@ -5,7 +5,7 @@
 <!ENTITY aboutPage.rights.label "Poznejte svá práva">
 <!ENTITY aboutPage.relNotes.label "Poznámky k vydání">
 <!ENTITY aboutPage.credits.label "Autoři">
-<!ENTITY aboutPage.checkForUpdates.button "Kontrola aktualizací">
+<!ENTITY aboutPage.checkForUpdates.link "Zkontrolovat aktualizace »">
 <!ENTITY aboutPage.checkForUpdates.checking "Vyhledávání aktualizací…">
 <!ENTITY aboutPage.checkForUpdates.none "Aktualizace nejsou dostupné">
 <!ENTITY aboutPage.checkForUpdates.found "Aktualizace jsou dostupné">
