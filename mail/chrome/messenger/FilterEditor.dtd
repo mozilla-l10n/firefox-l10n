@@ -26,15 +26,15 @@
 <!ENTITY moveMessage.label "Premjesti poruku u">
 <!ENTITY copyMessage.label "Kopiraj poruku u">
 <!ENTITY forwardTo.label "Proslijedi poruku">
-<!ENTITY replyWithTemplate.label "Odgovori sa predloškom">
+<!ENTITY replyWithTemplate.label "Odgovori s predloškom">
 <!ENTITY markMessageRead.label "Označi kao pročitano">
 <!ENTITY markMessageStarred.label "Dodaj zvjezdicu">
 <!ENTITY setPriority.label "Postavi prioritet na">
 <!ENTITY addTag.label "Označi poruku">
 <!ENTITY setJunkScore.label "Postavi status neželjene pošte na">
 <!ENTITY deleteMessage.label "Obriši poruku">
-<!ENTITY deleteFromPOP.label "Obriši sa POP poslužitelja">
-<!ENTITY fetchFromPOP.label "Dohvati sa POP poslužitelja">
+<!ENTITY deleteFromPOP.label "Obriši s POP poslužitelja">
+<!ENTITY fetchFromPOP.label "Dohvati s POP poslužitelja">
 <!ENTITY ignoreThread.label "Ignoriraj temu">
 <!ENTITY ignoreSubthread.label "Ignoriraj podtemu">
 <!ENTITY watchThread.label "Prati temu">
