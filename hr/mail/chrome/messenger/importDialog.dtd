@@ -69,11 +69,11 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY selectDescription.accesskey "O">
 
 <!ENTITY back.label               "&lt; Prethodna">
-<!ENTITY forward.label            "Slijedeća &gt;">
+<!ENTITY forward.label            "Sljedeća &gt;">
 <!ENTITY finish.label             "Završi">
 <!ENTITY cancel.label             "Odustani">
 
-<!ENTITY select.label             "ili odaberite tip podataka za uvoz:">
+<!ENTITY select.label             "ili odaberite vrstu podataka za uvoz:">
 
 <!ENTITY title.label              "Naslov">
 <!ENTITY processing.label         "Uvoz…">
