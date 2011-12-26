@@ -7,14 +7,14 @@
 <!ENTITY editButton.accesskey "e">
 <!ENTITY deleteButton.label "Obriši">
 <!ENTITY deleteButton.accesskey "O">
-<!ENTITY reorderUpButton.label "Pomjeri gore">
+<!ENTITY reorderUpButton.label "Pomakni gore">
 <!ENTITY reorderUpButton.accesskey "g">
-<!ENTITY reorderDownButton.label "Pomjeri dolje">
+<!ENTITY reorderDownButton.label "Pomakni dolje">
 <!ENTITY reorderDownButton.accesskey "d">
-<!ENTITY filterHeader.label "Omogućeni filteri se izvršavaju automatski redoslijedom prikazanim niže.">
+<!ENTITY filterHeader.label "Omogućeni filteri se izvršavaju automatski prema niže prikazanim redoslijedom.">
 <!ENTITY filtersForPrefix.label "Filteri za:">
 <!ENTITY filtersForPrefix.accesskey "F">
-<!ENTITY viewLogButton.label "Filter zapisnik">
+<!ENTITY viewLogButton.label "Zapisnik filtera">
 <!ENTITY viewLogButton.accesskey "l">
 <!ENTITY runFilters.label "Pokreni">
 <!ENTITY runFilters.accesskey "r">
