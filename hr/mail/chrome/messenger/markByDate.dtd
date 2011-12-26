@@ -36,7 +36,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY messageMarkByDate.label "Označi poruke kao pročitane na datum">
-<!ENTITY markByDateLower.label "Označi poruke kao pročitan od:">
+<!ENTITY markByDateLower.label "Označi poruke kao pročitane od:">
 <!ENTITY markByDateLower.accesskey "O">
 <!ENTITY markByDateUpper.label "Do:">
 <!ENTITY markByDateUpper.accesskey "D">
