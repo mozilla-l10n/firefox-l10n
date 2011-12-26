@@ -2,7 +2,7 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "Welkom. Als u &syncBrand.fullName.label; nog nooit eerder hebt gebruikt, dient u een nieuwe account aan te maken.">
+<!ENTITY setup.pickSetupType.description2 "Welkom! Als u &syncBrand.fullName.label; nog nooit eerder hebt gebruikt, dient u een nieuwe account aan te maken.">
 <!ENTITY button.createNewAccount.label "Een nieuwe account aanmaken">
 <!ENTITY button.haveAccount.label      "Ik heb een account">
 
