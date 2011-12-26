@@ -10,9 +10,9 @@
 <!ENTITY viewNotDeleted.accesskey "o">
 <!ENTITY viewTags.label "Oznake">
 <!ENTITY viewTags.accesskey "z">
-<!ENTITY viewCustomViews.label "Prilagođeni pogledi">
+<!ENTITY viewCustomViews.label "Prilagođeni prikazi">
 <!ENTITY viewCustomViews.accesskey "P">
-<!ENTITY viewVirtualFolder.label "Spremi pogled kao mapu…">
+<!ENTITY viewVirtualFolder.label "Spremi prikaz kao mapu…">
 <!ENTITY viewVirtualFolder.accesskey "S">
 <!ENTITY viewCustomizeView.label "Prilagodi…">
 <!ENTITY viewCustomizeView.accesskey "r">
