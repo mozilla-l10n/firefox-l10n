@@ -2,8 +2,8 @@
 
 <!ENTITY MsgSynchronize.label "Preuzmi i sinkroniziraj poruke">
 <!ENTITY MsgSelect.label "Stavke za izvanmrežno korištenje">
-<!ENTITY MsgSyncDesc.label "Ako ste već odabrali mape e-pošte ili interesne grupe za izvanmrežno korištenje, možete ih sada preuzeti i/ili sinkronizirati. Inače, koristite gumb &quot;Odaberi&quot; kako bi odabrali mape pošte i interesne grupe za izvanmrežno korištenje.">
-<!ENTITY MsgSyncDirections.label "Preuzmi i/ili sinkroniziraj slijedeće:">
+<!ENTITY MsgSyncDesc.label "Ako ste već odabrali mape e-pošte ili interesne grupe za izvanmrežno korištenje, možete ih sada preuzeti i/ili sinkronizirati. Inače, koristite gumb &quot;Odaberi&quot; da biste odabrali mape pošte i interesne grupe za izvanmrežno korištenje.">
+<!ENTITY MsgSyncDirections.label "Preuzmi i/ili sinkroniziraj sljedeće:">
 <!ENTITY syncTypeMail.label "Poruke e-pošte">
 <!ENTITY syncTypeMail.accesskey "P">
 <!ENTITY syncTypeNews.label "Poruke sa interesnih grupa">
