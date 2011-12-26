@@ -48,7 +48,7 @@
 <!ENTITY folderRebuildSummaryFileTip2.label      "Ponovno izgradi skupnu indeks datoteku">
 <!ENTITY folderRebuildSummaryFile2.label         "Popravi mapu">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "r">
-<!ENTITY folderRebuildSummaryFile.explanation    "Ponekad se (.msf) datoteka koja je indeks mape ošteti i poruke izgledaju nedostupne ili se izbrisane poruke i dalje pojavljuju; popravak mape možda popravi ove probleme.">
+<!ENTITY folderRebuildSummaryFile.explanation    "Ponekad se (.msf) datoteka koja je indeks mape ošteti i poruke izgledaju nedostupne ili se izbrisane poruke i dalje pojavljuju; popravak mape može riješiti ove probleme.">
 <!ENTITY folderIncludeInGlobalSearch.label       "Uvrsti poruke iz ove mape u globalne rezultate pretraživanja">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "g">
      
@@ -58,8 +58,8 @@
 <!ENTITY daysOld.label "dana">
 <!ENTITY message.label "najnovijih poruka">
 <!ENTITY retentionCleanup.label "Kako bi povratili diskovni prostor stare poruke mogu biti trajno izbrisane.">
-<!ENTITY retentionCleanupImap.label "Kako bi povratili diskovni prostor stare poruke mogu biti trajno izbrisane, lokalne kopije i izvorne na udaljenom poslužitelju.">
-<!ENTITY retentionCleanupPop.label "Kako bi povratili diskovni prostor stare poruke mogu biti trajno izbrisane, uključujući i izvorne poruke na udaljenom poslužitelju.">
+<!ENTITY retentionCleanupImap.label "Kako biste oslobodili diskovni prostor, stare poruke mogu biti trajno izbrisane (lokalne kopije i izvorne poruke na poslužitelju).">
+<!ENTITY retentionCleanupPop.label "Kako biste oslobodili diskovni prostor, stare poruke mogu biti trajno izbrisane, uključujući i izvorne poruke na udaljenom poslužitelju.">
 <!ENTITY retentionDeleteMsg.label "Obriši poruke starije od">
 <!ENTITY retentionDeleteMsg.accesskey "b">
 <!ENTITY retentionKeepAll.label "Ne briši nikakve poruke">
@@ -67,7 +67,7 @@
 <!ENTITY retentionKeepRecent.label "Obriši sve osim">
 <!ENTITY retentionKeepRecent.accesskey "i">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Uvijek obriši pročitane poruke (nadjačaj starosne postavke)">
+<!ENTITY retentionKeepUnreadHidden.label "Uvijek obriši pročitane poruke (ima prednost u nad postavkama starosti)">
 <!ENTITY retentionApplyToFlagged.label "Uvijek zadrži poruke označene zvjezdicom">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
@@ -93,7 +93,7 @@
 <!ENTITY folderSharingTab.label                  "Dijeljenje">
 <!ENTITY privileges.button.label                 "Povlastice…">
 <!ENTITY privileges.button.accesskey             "P">
-<!ENTITY permissionsDesc.label                   "Imate slijedeće dozvole:">
+<!ENTITY permissionsDesc.label                   "Imate sljedeće dozvole:">
 <!ENTITY folderType.label                        "Vrsta mape:">
 
 <!ENTITY folderQuotaTab.label                    "Kvota">
