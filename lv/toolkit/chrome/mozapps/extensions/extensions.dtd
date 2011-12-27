@@ -19,6 +19,7 @@
 <!ENTITY toolsMenu.tooltip                    "Visu papildinājumu rīki">
 <!ENTITY updates.checkForUpdates.label        "Meklēt atjauninājumus">
 <!ENTITY updates.checkForUpdates.accesskey    "M">
+<!ENTITY search.commandkey                    "f">
 
 <!-- global informations -->
 <!ENTITY info.plugincheck.label                 "Pārbaudiet, lai pārliecinātos, vai jūsu spraudņiem nav atjauninājumu">
