@@ -5,8 +5,8 @@
 <!ENTITY fromAddr.accesskey "д">
 <!ENTITY subject.label  "Тема:">
 <!ENTITY subject.accesskey "Т">
-<!ENTITY attachments.label "Вкладення:">
-<!ENTITY attachments.accesskey "В">
+<!ENTITY attachments.label "Долучення:">
+<!ENTITY attachments.accesskey "Д">
 
 <!-- menu items:  the . means that the menu item isn't implemented yet -->
 
@@ -21,19 +21,19 @@
 <!ENTITY saveAsDraftCmd.accesskey "Ч">
 <!ENTITY saveAsTemplateCmd.label "Шаблон">
 <!ENTITY saveAsTemplateCmd.accesskey "Ш">
-<!ENTITY attachMenu.label "Вкласти">
-<!ENTITY attachMenu.accesskey "к">
+<!ENTITY attachMenu.label "Долучити">
+<!ENTITY attachMenu.accesskey "Д">
 <!ENTITY attachFileCmd.label "Файл(и)…">
 <!ENTITY attachFileCmd.accesskey "л">
-<!ENTITY attachPageCmd.label "Веб-сторінку…">
-<!ENTITY attachPageCmd.accesskey "е">
+<!ENTITY attachPageCmd.label "Сторінку…">
+<!ENTITY attachPageCmd.accesskey "С">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Візитну картку (vCard)">
 <!ENTITY attachVCardCmd.accesskey "з">
-<!ENTITY sendNowCmd.label "Відіслати">
+<!ENTITY sendNowCmd.label "Надіслати">
 <!ENTITY sendCmd.keycode "VK_RETURN">
-<!ENTITY sendNowCmd.accesskey "д">
-<!ENTITY sendLaterCmd.label "Відіслати пізніше">
+<!ENTITY sendNowCmd.accesskey "Н">
+<!ENTITY sendLaterCmd.label "Надіслати згодом">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "з">
 
@@ -41,8 +41,8 @@
 <!ENTITY editRewrapCmd.label "Переформатувати">
 <!ENTITY editRewrapCmd.key "О">
 <!ENTITY editRewrapCmd.accesskey  "ф">
-<!ENTITY accountManagerCmd.label "Налаштування пошти &amp; обліковго запису груп новин…">
-<!ENTITY accountManagerCmd.accesskey "Н">
+<!ENTITY accountManagerCmd.label "Параметри пошти та облікового запису новин…">
+<!ENTITY accountManagerCmd.accesskey "П">
 
 <!-- View menu items -->
 <!ENTITY showComposeToolbarCmd.label "Панель інструментів пошти">
@@ -55,8 +55,8 @@
 <!ENTITY formatMenu.accesskey "Ф">
 
 <!-- Options menu items -->
-<!ENTITY optionsMenu.label "Налаштування">
-<!ENTITY optionsMenu.accesskey "Н">
+<!ENTITY optionsMenu.label "Параметри">
+<!ENTITY optionsMenu.accesskey "П">
 
 <!ENTITY quoteCmd.label "Цитувати лист">
 <!ENTITY quoteCmd.accesskey "Ц">
@@ -64,7 +64,7 @@
 <!ENTITY selectAddressCmd.key "">
 <!ENTITY selectAddressCmd.accesskey "A">
 
-<!ENTITY priorityMenu.label "Важливість">
+<!ENTITY priorityMenu.label "Вагомість">
 <!ENTITY priorityMenu.accesskey "ж">
 <!ENTITY lowestPriorityCmd.label "Найнижча">
 <!ENTITY lowestPriorityCmd.accesskey "й">
@@ -77,11 +77,11 @@
 <!ENTITY highestPriorityCmd.label "Найвища">
 <!ENTITY highestPriorityCmd.accesskey "а">
 
-<!ENTITY returnReceiptMenu.label "Сповіщення про доставку">
+<!ENTITY returnReceiptMenu.label "Сповіщення про доставлення">
 <!ENTITY returnReceiptMenu.accesskey "С">
 <!ENTITY outputFormatMenu.label "Формат">
 <!ENTITY outputFormatMenu.accesskey  "Ф">
-<!ENTITY autoFormatCmd.label "Автовизначення">
+<!ENTITY autoFormatCmd.label "Автоматичне визначення">
 <!ENTITY autoFormatCmd.accesskey "А">
 <!ENTITY plainTextFormatCmd.label "Звичайний текст">
 <!ENTITY plainTextFormatCmd.accesskey "т">
@@ -90,15 +90,15 @@
 <!ENTITY bothFormatCmd.label "Звичайний текст і HTML">
 <!ENTITY bothFormatCmd.accesskey "і">
 
-<!ENTITY fileCarbonCopyCmd.label "Відіслати копію">
+<!ENTITY fileCarbonCopyCmd.label "Надіслати копію">
 <!ENTITY fileCarbonCopyCmd.accesskey "к">
 <!ENTITY fileHereMenu.label "Помістити сюди">
 
 <!--LOCALIZATION NOTE Toolbar items Don't change any "chrome://" URLs -->
 <!-- Toolbar items -->
-<!ENTITY sendButton.label "Відіслати">
+<!ENTITY sendButton.label "Надіслати">
 <!ENTITY addressButton.label "Адреса">
-<!ENTITY attachButton.label "Вкладення">
+<!ENTITY attachButton.label "Долучення">
 <!ENTITY spellingButton.label "Орфографія">
 <!ENTITY saveButton.label "Зберегти">
 <!ENTITY stopButton.label "Зупинити">
@@ -107,19 +107,19 @@
 <!-- We already inherit &menuBar.tooltip and &mailToolbar.tooltip from messenger.dtd -->
 <!ENTITY addressBar.tooltip "Панель адреси">
 <!ENTITY formatToolbar.tooltip "Панель інструментів форматування">
-<!ENTITY sendButton.tooltip "Відіслати цього листа зараз"> 
-<!ENTITY sendlaterButton.tooltip "Відіслати цей лист пізніше"> 
-<!ENTITY addressButton.tooltip "Вибрати адресата з адресної книги"> 
-<!ENTITY attachButton.tooltip "Вкласти файл в цей лист"> 
+<!ENTITY sendButton.tooltip "Надіслати цей лист зараз"> 
+<!ENTITY sendlaterButton.tooltip "Надіслати цей лист згодом"> 
+<!ENTITY addressButton.tooltip "Вибрати одержувача з адресної книги"> 
+<!ENTITY attachButton.tooltip "Долучити файл в цей лист"> 
 <!ENTITY saveButton.tooltip "Зберегти цей лист"> 
-<!ENTITY stopButton.tooltip "Зупинити поточну передачу даних"> 
+<!ENTITY stopButton.tooltip "Зупинити поточне передавання даних"> 
 
 <!-- context menu items -->
 <!ENTITY spellCheckNoSuggestions.label "(Порад не знайдено)">
 <!ENTITY spellCheckIgnoreWord.label "Пропустити слово">
 <!ENTITY spellCheckIgnoreWord.accesskey "П">
 <!ENTITY spellCheckAddToDictionary.label "Додати в словник">
-<!ENTITY spellCheckAddToDictionary.accesskey "с">
+<!ENTITY spellCheckAddToDictionary.accesskey "Д">
 
 <!ENTITY openAttachment.label "Відкрити">
 <!ENTITY openAttachment.accesskey "В">
@@ -127,7 +127,7 @@
 <!ENTITY renameAttachment.accesskey "й">
 <!ENTITY deleteAttachment.accesskey "D">
 <!ENTITY selectAllAttachments.accesskey "A">
-<!ENTITY attachFile.label "Вкласти файл(и)…">
+<!ENTITY attachFile.label "Долучити файл(и)…">
 <!ENTITY attachFile.accesskey "ф">
-<!ENTITY attachPage.label "Вкласти веб-сторінку…">
-<!ENTITY attachPage.accesskey "е">
+<!ENTITY attachPage.label "Долучити сторінку…">
+<!ENTITY attachPage.accesskey "с">
