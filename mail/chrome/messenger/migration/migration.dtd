@@ -5,8 +5,8 @@
 
 <!ENTITY importFromNothing.label        "Nichts importieren">
 <!ENTITY importFromNothing.accesskey    "i">
-<!ENTITY importFromSeamonkey2.label     "Netscape 6, 7, Mozilla 1.x oder Seamonkey">
-<!ENTITY importFromSeamonkey2.accesskey "N">
+<!ENTITY importFromSeamonkey3.label     "Seamonkey 2 oder neuer">
+<!ENTITY importFromSeamonkey3.accesskey "S">
 <!ENTITY importFromOExpress.label       "Outlook Express">
 <!ENTITY importFromOExpress.accesskey   "u">
 <!ENTITY importFromOutlook.label        "Outlook">
