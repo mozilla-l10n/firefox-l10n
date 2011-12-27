@@ -2,6 +2,8 @@
 <!ENTITY playButton.pauseLabel "Apturēt">
 <!ENTITY muteButton.muteLabel "Apklusināt">
 <!ENTITY muteButton.unmuteLabel "Atapklusināt">
+<!ENTITY fullscreenButton.enterfullscreenlabel "Pa visu ekrānu">
+<!ENTITY fullscreenButton.exitfullscreenlabel "Aizvērt pilnekrāna režīmu">
 
 <!ENTITY stats.media "Vide">
 <!ENTITY stats.size "Izmērs">
@@ -17,6 +19,13 @@
 <!ENTITY stats.framesDecoded "Dekodēti kadri">
 <!ENTITY stats.framesPresented "Prezentētie kadri">
 <!ENTITY stats.framesPainted "Uzzīmētie kadri">
+
+<!ENTITY error.aborted "Video ielāde apturēta.">
+<!ENTITY error.network "Video atskaņošana apturēta tīkla kļūmes dēļ.">
+<!ENTITY error.decode "Video nevar atskaņot, jo tā fails ir bojāts.">
+<!ENTITY error.srcNotSupported "Video formāts vai MIME tips nav atbalstīs.">
+<!ENTITY error.noSource2 "Netika atrasts atbalstīta formāta vai MIME tipa video.">
+<!ENTITY error.generic "Video atskaņošana apturēta nezināmas kļūmes dēļ.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at

@@ -28,7 +28,6 @@
 <!ENTITY submitTelemetry.accesskey       "V">
 <!ENTITY useService.label                "Instalēt atjauninājumus fonā">
 <!ENTITY useService.accesskey            "f">
-
 <!ENTITY systemDefaults.label "Noklusētie iestatījumi">
 <!--XXX-->
 <!ENTITY alwaysCheckDefault.label "Vienmēr, palaižot &brandShortName;, pārbaudīt, vai tas ir noklusētais tīmekļa pārlūks">
@@ -76,8 +75,6 @@
 
 <!ENTITY updateOthers.label              "Automātiski atjaunināt:">
 
-<!ENTITY enableAddonsUpdate3.label "Papildinājumus">
-<!ENTITY enableAddonsUpdate3.accesskey "p">
 <!ENTITY enableSearchUpdate.label "Meklētājus">
 <!ENTITY enableSearchUpdate.accesskey "l">
 <!ENTITY updateHistory.label "Parādīt atjauninājumu vēsturi">

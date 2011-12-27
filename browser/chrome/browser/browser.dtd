@@ -39,13 +39,20 @@
   -  "Scratchpad" in your locale. You should feel free to find a close
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
-<!ENTITY scratchpad.label             "Teksta redaktors">
+<!ENTITY scratchpad.label             "Javascript smilškaste">
 <!ENTITY scratchpad.accesskey         "e">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
 <!ENTITY webDeveloperMenu.label       "Tīmekļa izstrādātājs">
 <!ENTITY webDeveloperMenu.accesskey   "T">
+
+<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
+  -  in the Tools menu. -->
+<!ENTITY styleeditor.label            "Stila redaktors">
+<!ENTITY styleeditor.accesskey        "l">
+<!ENTITY styleeditor.keycode          "VK_F7">
+<!ENTITY styleeditor.keytext          "F7">
 
 <!ENTITY bookmarksMenuButton.unsorted.label "Nešķirotās grāmatzīmes">
 <!ENTITY bookmarkAllTabs.label "Saglabāt visas cilnes grāmatzīmēs...">
@@ -212,6 +219,8 @@
 <!ENTITY newNavigatorCmd.label "Jauns logs">
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "N">
+<!ENTITY inspect3DButton.label        "3D">
+<!ENTITY inspect3DButton.accesskey    "M">
 
 <!ENTITY editMenu.label "Rediģēt">
 <!ENTITY editMenu.accesskey "E">
