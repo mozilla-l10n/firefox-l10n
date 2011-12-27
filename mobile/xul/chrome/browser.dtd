@@ -1,0 +1,101 @@
+<!ENTITY urlbar.emptytext "Введите поиск или адрес">
+<!ENTITY back.label "Назад">
+<!ENTITY forward.label "Вперёд">
+<!ENTITY reload.label "Обновить">
+<!ENTITY stop.label "Остановить">
+<!ENTITY go.label "Перейти">
+<!ENTITY star.label "Звёздочка">
+<!ENTITY showTabs.label "Показать вкладки">
+<!ENTITY newtab.label "Новая вкладка">
+<!ENTITY closetab.label "Закрыть вкладку">
+<!ENTITY cut.label "Вырезать">
+<!ENTITY copy.label "Копировать">
+<!ENTITY copyAll.label "Копировать всё">
+<!ENTITY copylink.label "Копировать адрес ссылки">
+<!ENTITY paste.label "Вставить">
+<!ENTITY pasteAndGo.label "Вставить и перейти">
+<!ENTITY delete.label "Удалить">
+<!ENTITY selectAll.label "Выделить всё">
+<!ENTITY noSuggestions.label "(нет предложений)">
+<!ENTITY addToDictionary.label "Добавить в словарь">
+<!ENTITY inputMethod.label "Выбрать метод ввода">
+<!ENTITY allPagesHeader.label "Все страницы">
+<!ENTITY bookmarksHeader.label "Закладки">
+<!ENTITY historyHeader.label "Журнал">
+<!ENTITY desktopHeader.label "Десктоп">
+<!ENTITY editBookmarkDialog.title "Изменение закладки">
+<!ENTITY editBookmarkDone.label "Готово">
+<!ENTITY editBookmarkTags.label "Добавьте сюда метки">
+<!ENTITY selectHelper.done "Готово">
+<!ENTITY addonsHeader.label "Дополнения">
+<!ENTITY addonsLocal.label "Мои дополнения">
+<!ENTITY addonsUpdate.label "Обновить">
+<!ENTITY addonsRepo.label "Получить дополнения">
+<!ENTITY addonsRecommended.label "Рекомендуемое">
+<!ENTITY addonsSearch.label "Поиск">
+<!ENTITY addonsSearch2.emptytext "Поисковый каталог">
+<!ENTITY addonsSearch.recommended "Рекомендуемое">
+<!ENTITY addonOptions.label "Настройки">
+<!ENTITY addonEnable.label "Включить">
+<!ENTITY addonDisable.label "Отключить">
+<!ENTITY addonInstall2.label "Добавить в &brandShortName;">
+<!ENTITY addonUninstall.label "Удалить">
+<!ENTITY addonCancel.label "Отмена">
+<!ENTITY addonShowPage.label "На сайт">
+<!ENTITY downloadsHeader.label "Загрузки">
+<!ENTITY downloadShowPage.label "На страницу">
+<!ENTITY downloadShow2.label "Найти">
+<!ENTITY downloadOpen2.label "Открыть">
+<!ENTITY downloadCancel.label "Отмена">
+<!ENTITY downloadPause.label "Приостановить">
+<!ENTITY downloadResume.label "Возобновить">
+<!ENTITY downloadRetry.label "Повторить">
+<!ENTITY downloadRemove.label "Удалить">
+<!ENTITY downloadDelete.label "Удалить">
+<!ENTITY downloadFailed.label "Неудача">
+<!ENTITY noResults.label "Нет результатов">
+<!ENTITY allBookmarks.label "Показать все закладки">
+<!ENTITY bookmarkPopup.label "Добавлена в закладки">
+<!ENTITY bookmarkRemove.label "Удалить">
+<!ENTITY bookmarkEdit.label "Изменить">
+<!ENTITY bookmarkShortcut.label "Добавить на домашний экран">
+<!ENTITY identity.unverifiedsite2 "Информация о подлинности этого веб-сайта отсутствует.">
+<!ENTITY identity.connectedTo2 "Соединён с">
+<!ENTITY identity.runBy2 "управляется">
+<!ENTITY consoleHeader.label "Консоль ошибок">
+<!ENTITY consoleAll.label "Все">
+<!ENTITY consoleErrors.label "Ошибки">
+<!ENTITY consoleWarnings.label "Предупреждения">
+<!ENTITY consoleMessages.label "Сообщения">
+<!ENTITY consoleCodeEval.label "Код:">
+<!ENTITY consoleClear.label "Очистить">
+<!ENTITY consoleEvaluate.label "…">
+<!ENTITY consoleErrFile.label "Источник:">
+<!ENTITY consoleErrLine.label "Строка:">
+<!ENTITY consoleErrColumn.label "Символ:">
+<!ENTITY contextOpenInNewTab.label "Открыть ссылку в новой вкладке">
+<!ENTITY contextSaveImage.label "Сохранить изображение">
+<!ENTITY contextCopyLink.label "Копировать ссылку">
+<!ENTITY contextCopyEmail.label "Копировать адрес электронной почты">
+<!ENTITY contextCopyPhone.label "Копировать телефонный номер">
+<!ENTITY contextCopyImageLocation.label "Копировать ссылку на изображение">
+<!ENTITY contextShareLink.label "Поделиться ссылкой">
+<!ENTITY contextShareImage.label "Поделиться изображением">
+<!ENTITY contextBookmarkLink.label "Заложить ссылку">
+<!ENTITY contextSaveVideo.label "Сохранить видео">
+<!ENTITY contextShareVideo.label "Поделиться видео">
+<!ENTITY contextPlayMedia.label "Воспроизвести">
+<!ENTITY contextPauseMedia.label "Приостановить">
+<!ENTITY contextFullScreen.label "Полный экран">
+<!ENTITY contextEditBookmark.label "Изменить">
+<!ENTITY contextRemoveBookmark.label "Удалить">
+<!ENTITY contextShortcutBookmark.label "Добавить на домашний экран">
+<!ENTITY pageactions.saveas.pdf "Сохранить как PDF">
+<!ENTITY pageactions.share.page "Поделиться">
+<!ENTITY pageactions.password.forget "Забыть пароль">
+<!ENTITY pageactions.quit "Выход">
+<!ENTITY pageactions.reset "Сбросить настройки сайта">
+<!ENTITY pageactions.findInPage "Найти">
+<!ENTITY pageactions.search.addNew "Добавить поисковую систему">
+<!ENTITY pageactions.charEncoding "Кодировка текста">
+<!ENTITY appMenu.siteOptions "Меню сайта">

@@ -1,0 +1,24 @@
+<!ENTITY prefsHeader.label "Настройки">
+<!ENTITY about.title "О &brandShortName;">
+<!ENTITY about.button "Перейти на страницу">
+<!ENTITY content.title "Содержимое">
+<!ENTITY reflowZoom.title "Текст по ширине экрана">
+<!ENTITY showImages.title "Показывать изображения">
+<!ENTITY enableJavaScript.title "Использовать JavaScript">
+<!ENTITY privacy.title "Приватность и защита">
+<!ENTITY allowCookies.title "Принимать куки">
+<!ENTITY doNotTrack.title "Просить сайты не следить">
+<!ENTITY masterPassword.title "Использовать мастер-пароль">
+<!ENTITY clearPrivateData2.title "Очистка личных данных">
+<!ENTITY clearPrivateData.button "Очистить">
+<!ENTITY rememberPasswords.title "Запоминать пароли">
+<!ENTITY language.title "Язык">
+<!ENTITY language.auto "Автоопределение">
+<!ENTITY defaultBrowser.title "Браузер по умолчанию">
+<!ENTITY defaultBrowser.description "Установить &brandShortName; как ваш браузер по умолчанию">
+<!ENTITY homepage.title "Начать с">
+<!ENTITY homepage.none "Пустой страницы">
+<!ENTITY homepage.default "Страницы &brandShortName;">
+<!ENTITY homepage.currentpage "Текущей страницы">
+<!ENTITY showCharsetEncoding.title "Показывать выбор кодировки">
+<!ENTITY actionbar.default "Параметры &brandShortName;">
