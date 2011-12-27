@@ -91,7 +91,7 @@
 <!ENTITY HomePhone.accesskey            "u">
 <!ENTITY FaxNumber.label                "Faks:">
 <!ENTITY FaxNumber.accesskey            "F">
-<!ENTITY PagerNumber.label              "Pejdžer:">
+<!ENTITY PagerNumber.label              "Pager:">
 <!ENTITY PagerNumber.accesskey          "j">
 <!ENTITY CellularNumber.label           "Mobitel:">
 <!ENTITY CellularNumber.accesskey       "b">
