@@ -1,0 +1,122 @@
+<!ENTITY back.label            "Mbrapsht">
+<!ENTITY forward.label         "Para">
+<!ENTITY reload.label          "Ringarkoje">
+<!ENTITY stop.label            "Ndale">
+<!ENTITY go.label              "Shko">
+
+<!ENTITY star.label            "Yll">
+
+<!ENTITY showTabs.label        "Shfaqi Skedat">
+<!ENTITY newtab.label          "Skedë e Re">
+<!ENTITY closetab.label        "Mbylle Skedën">
+
+<!ENTITY cut.label             "Prije">
+<!ENTITY copy.label            "Kopjoje">
+<!ENTITY copylink.label        "Kopjo Vend Lidhjeje">
+<!ENTITY paste.label           "Ngjite">
+<!ENTITY pasteAndGo.label      "Ngjite &amp; Shko">
+<!ENTITY delete.label          "Fshije">
+<!ENTITY selectAll.label       "Përzgjidhe Krejt">
+<!ENTITY noSuggestions.label   "(pa këshilla)">
+<!ENTITY addToDictionary.label "Shtoje në Fjalor">
+
+<!ENTITY bookmarksHeader.label     "Faqerojtësa">
+
+<!ENTITY editBookmarkDialog.title  "Përpunojeni Faqerojtësin">
+<!ENTITY editBookmarkDone.label    "U bë">
+<!ENTITY editBookmarkTags.label    "Shtoni etiketa këtu">
+
+<!ENTITY addonsHeader.label        "Shtesa">
+<!ENTITY addonsLocal.label         "Shtesat Tuaja">
+<!ENTITY addonsUpdate.label        "Përditësim">
+<!ENTITY addonsRepo.label          "Merrni Shtesa">
+<!ENTITY addonsRecommended.label   "E këshilluar">
+<!ENTITY addonsSearch.label        "Kërko">
+<!ENTITY addonsSearch2.emptytext   "Kërko në Katalog">
+<!ENTITY addonsSearch.recommended  "E këshilluar">
+
+<!ENTITY addonOptions.label        "Mundësi">
+<!ENTITY addonEnable.label         "Aktivizoje">
+<!ENTITY addonDisable.label        "Çaktivizoje">
+<!ENTITY addonInstall2.label       "Shtohe te &brandShortName;-i">
+<!ENTITY addonUninstall.label      "Çinstaloje">
+<!ENTITY addonCancel.label         "Anuloje">
+<!ENTITY addonShowPage.label       "Shko te Faqja">
+
+<!ENTITY downloadsHeader.label     "Shkarkime">
+
+<!ENTITY downloadShowPage.label    "Shko te Faqja">
+<!ENTITY downloadShow2.label       "Gjej">
+<!ENTITY downloadOpen2.label       "Hape">
+<!ENTITY downloadCancel.label      "Anuloje">
+<!ENTITY downloadPause.label       "Pushoje">
+<!ENTITY downloadResume.label      "Rimerre">
+<!ENTITY downloadRetry.label       "Riprovo">
+<!ENTITY downloadRemove.label      "Hiqe">
+<!ENTITY downloadFailed.label      "Dështoi">
+
+<!ENTITY noResults.label           "Pa përfundime">
+<!ENTITY allBookmarks.label        "Shihini tërë faqerojtësit">
+
+<!ENTITY bookmarkPopup.label       "Faqja u Faqeruajt">
+<!ENTITY bookmarkRemove.label      "Hiqe">
+<!ENTITY bookmarkEdit.label        "Përpunojeni">
+<!ENTITY bookmarkShortcut.label    "Shtoje te Skena e Hyrjes">
+
+<!ENTITY identity.unverifiedsite2 "Ky &quot;site&quot; web nuk furnizon të dhëna identiti.">
+<!ENTITY identity.connectedTo2 "I lidhur te">
+<!-- Localization note (identity.runBy2)
+ The layout of the identity dialog prevents combining this into a single string with
+ substitution variables.  If it is difficult to translate the sense of the string
+ with that structure, consider a translation which ignores the preceding domain and
+ just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy2 "xhiruar nga">
+
+<!ENTITY consoleHeader.label       "Konsol Gabimesh">
+<!ENTITY consoleAll.label          "Krejt">
+<!ENTITY consoleErrors.label       "Gabime">
+<!ENTITY consoleWarnings.label     "Sinjalizime">
+<!ENTITY consoleMessages.label     "Mesazhe">
+<!ENTITY consoleCodeEval.label     "Kod:">
+<!ENTITY consoleClear.label        "Pastroje">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "Kartela Burim:">
+<!ENTITY consoleErrLine.label      "Rresht:">
+<!ENTITY consoleErrColumn.label    "Shtyllë:">
+
+<!ENTITY contextOpenInNewTab.label    "Hape Lidhjen në Skedë të Re">
+<!ENTITY contextSaveImage.label       "Ruajeni Figurën">
+<!ENTITY contextCopyLink.label        "Kopjojeni Lidhjen">
+<!ENTITY contextCopyEmail.label       "Kopjoni Adresën Email">
+<!ENTITY contextCopyPhone.label       "Kopjoni Numrin e Telefonit">
+<!ENTITY contextCopyImageLocation.label       "Kopjoni Vendndodhje Figure">
+<!ENTITY contextShareLink.label       "Ndajeni Lidhjen">
+<!ENTITY contextShareImage.label      "Ndajeni Figurën">
+<!ENTITY contextBookmarkLink.label    "Faqeruajeni Lidhjen">
+<!ENTITY contextSaveVideo.label       "Ruajeni Videon">
+<!ENTITY contextShareVideo.label      "Ndajeni Videon">
+<!ENTITY contextPlayMedia.label       "Luajeni">
+<!ENTITY contextPauseMedia.label      "Pushojeni">
+<!ENTITY contextFullScreen.label      "Krejt Ekrani">
+<!ENTITY contextEditBookmark.label    "Përpunojeni">
+<!ENTITY contextRemoveBookmark.label  "Hiqeni">
+<!ENTITY contextShortcutBookmark.label "Shtojeni te Skena e Hyrjes">
+
+<!ENTITY pageactions.saveas.pdf      "Ruaje Si PDF">
+<!ENTITY pageactions.share.page      "Ndajeni Faqen">
+<!ENTITY pageactions.password.forget "Harroje Fjalëkalimin">
+<!ENTITY pageactions.reset           "Pastro Parapëlqimet për Site-in">
+<!ENTITY pageactions.quit            "Dil">
+<!ENTITY pageactions.findInPage      "Gjeni Tek Faqja">
+<!ENTITY pageactions.search.addNew   "Shtoni Motor Kërkimi">
+<!ENTITY pageactions.charEncoding    "Kodim Shkronjash">
+
+<!ENTITY allPagesHeader.label      "Krejt Faqet">
+<!ENTITY appMenu.siteOptions         "Mundësi &quot;Site&quot;-i">
+<!ENTITY copyAll.label         "Kopjoje Krejt">
+<!ENTITY desktopHeader.label       "Desktop">
+<!ENTITY downloadDelete.label      "Fshije">
+<!ENTITY historyHeader.label       "Historik">
+<!ENTITY inputMethod.label     "Përzgjidhni Metodë Futjesh">
+<!ENTITY selectHelper.done         "U bë">
+<!ENTITY urlbar.emptytext      "Jepni Kërkim ose Vendndodhje">

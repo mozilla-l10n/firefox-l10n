@@ -1,0 +1,25 @@
+<!ENTITY safeb.palm.warning.title "E dyshuar për Sajesë Web">
+
+<!ENTITY safeb.palm.message.p1 "Kjo faqe është raportuar si sajesë web e hartuar për t'i tërhequr përdoruesit rrejshëm në dhënie të dhënash personale ose financiare. Dhënia e çfarëdo të dhëne personale në këtë faqe mund të sjellë vjedhje identiti ose të tjera mashtrime. &#160;">
+<!ENTITY safeb.palm.message.p1.linkText "Lexoni më tepër &#187;">
+<!ENTITY safeb.palm.p1.linkStatusText "Lexoni më tepër &#133;">
+
+<!ENTITY safeb.palm.message.p2.start "Këto lloj sajesash web përdoren në mashtrime të njohura si sulme karremëzimi, gjatë të cilave faqe web dhe email-e të rrejshëm përdoren për të imituar burime që ju i besoni. Mund të mësoni më tepër rreth ">
+<!ENTITY safeb.palm.message.p2.linkText "se si ju mbron &brandShortName;-u">
+<!ENTITY safeb.palm.message.p2.end " nga sulmet karremëzimi.">
+
+<!ENTITY safeb.palm.accept.label "Hiqmë prej këtej!">
+<!ENTITY safeb.palm.accept.statustext "Shpjemë te faqja hyrëse">
+<!ENTITY safeb.palm.decline.label "Shpërfille këtë sinjalizim">
+<!ENTITY safeb.palm.decline.statustext "Mbylle sinjalizimin" >
+<!ENTITY safeb.palm.notforgery.label2 "Kjo nuk është sajesë web…">
+<!ENTITY safeb.palm.reportPage.label "Pse është bllokuar kjo faqe?">
+
+<!ENTITY safeb.blocked.malwarePage.title "Faqe e Raportuar për Sulme!">
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.malwarePage.shortDesc "Kjo faqe web te <span id='malware_sitename'/> është raportuar si një faqe sulmesh dhe është bllokuar mbi bazën e parapëlqimeve tuaja për sigurinë.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Faqet e sulmeve përpiqen të instalojnë programe që vjedhin të dhëna vetjake, që përdorin kompjuterin tuaj për të sulmuar të tjerët, ose që dëmtojnë sistemin tuaj.</p><p>Disa faqe sulmesh shpërndajnë qëllimisht &quot;software&quot; të dëmshëm, por mjaft prej tyre janë komprometuar pa dijeninë ose lejen e të zotëve.</p>">
+
+<!ENTITY safeb.blocked.phishingPage.title2 "E dyshyar Si Sajesë Web!">
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Dhënia e çfarëdo të dhëne në këtë faqe mund të sjellë vjedhje identiti ose të tjera mashtrime.">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Këto lloje sajesash web përdoren në mashtrime të njohura si sulme karremëzimi, gjatë të cilëve faqe web dhe email-e përdoren për të imituar burime që mund t&apos;'u besoni.</p>">

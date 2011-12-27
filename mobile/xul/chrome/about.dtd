@@ -1,0 +1,18 @@
+<!ENTITY aboutPage.title                        "Rreth &brandShortName;-ut">
+<!ENTITY aboutPage.faq.label                    "FAQ">
+<!ENTITY aboutPage.support.label                "Asistencë">
+<!ENTITY aboutPage.privacyPolicy.label          "Rregulla Vetësie">
+<!ENTITY aboutPage.rights.label                 "Njihni Të Drejtat Tuaja">
+<!ENTITY aboutPage.relNotes.label               "Shënime Versioni">
+<!ENTITY aboutPage.credits.label                "Falënderime">
+<!ENTITY aboutPage.checkForUpdates.button       "Kontrollo për Përditësime">
+<!ENTITY aboutPage.checkForUpdates.checking     "Po shihet për përditësime…">
+<!ENTITY aboutPage.checkForUpdates.none         "Nuk ka përditësime të passhme">
+<!ENTITY aboutPage.checkForUpdates.found        "Ka përditësim">
+
+
+<!-- LOCALIZATION NOTE:
+     These strings are concatenated in order. Unneeded strings may be left blank.
+-->
+<!ENTITY aboutPage.licenseLink                  "Të dhëna lejimi">
+<!ENTITY aboutPage.licenseLinkSuffix            ".">
