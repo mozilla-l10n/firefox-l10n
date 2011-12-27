@@ -1,0 +1,38 @@
+<!ENTITY pref.cookies.title             "Cookie">
+
+<!-- cookies -->
+
+<!ENTITY cookiePolicy.label             "Cookie 接受原則">
+
+<!ENTITY accAllCookiesRadio.label       "所有網站都可使用 Cookie">
+<!ENTITY accAllCookiesRadio.accesskey   "C">
+
+<!ENTITY accOrgCookiesRadio.label       "只接受把資料送回原網站的 Cookie">
+<!ENTITY accOrgCookiesRadio.accesskey   "o">
+
+<!ENTITY disableCookies.label           "拒絕 Cookie">
+<!ENTITY disableCookies.accesskey       "B">
+
+<!ENTITY cookieRetentionPolicy.label    "Cookie 保留策略">
+
+<!ENTITY acceptNormally.label           "接受 cookie">
+<!ENTITY acceptNormally.accesskey       "n">
+
+<!ENTITY acceptForSession.label         "只接受此次連線">
+<!ENTITY acceptForSession.accesskey     "s">
+
+<!ENTITY acceptforNDays.label           "接受 cookie 於">
+<!ENTITY acceptforNDays.accesskey       "f">
+<!ENTITY days.label                     "天">
+
+<!ENTITY warnAboutCookies.label         "每個 Cookie 都詢問我">
+<!ENTITY warnAboutCookies.accesskey     "A">
+<!ENTITY forCurrentSession.label        "除了 session cookie">
+<!ENTITY forCurrentSession.accesskey    "e">
+
+<!ENTITY manageCookies.label            "管理 Cookie 與網站">
+<!ENTITY manageCookiesDescription.label "允許您檢視與管理已存的 cookie 和設定各網站是否能存取 cookie。">
+
+<!ENTITY viewCookies.label              "Cookie 管理員">
+<!ENTITY viewCookies.accesskey          "M">
+

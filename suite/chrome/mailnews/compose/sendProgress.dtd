@@ -1,0 +1,4 @@
+<!--LOCALIZATION NOTE sendprogress.dtd Main UI for Send Message Progress Dialog -->
+<!ENTITY sendWindow.title "寄送郵件中"> 
+<!ENTITY status.label "狀態:">
+<!ENTITY progress.label "進度:">

@@ -1,0 +1,171 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-1999
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+
+ Alternatively, the contents of this file may be used under the terms of
+ either the GNU General Public License Version 2 or later (the "GPL"), or
+ the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY Contact.tab                     "聯絡">
+<!ENTITY Contact.accesskey               "C">
+<!ENTITY Name.box                        "姓名">
+
+<!-- LOCALIZATION NOTE:
+ NameField1, NameField2, PhoneticField1, PhoneticField2
+ those fields are either LN or FN depends on the target country.
+ "FirstName" and "LastName" can be swapped for id to change the order
+ but they should not be translated (same applied to phonetic id).
+ Make sure the translation of label corresponds to the order of id.
+-->
+
+<!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
+<!ENTITY NameField1.id                  "FirstName">
+<!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
+<!ENTITY NameField2.id                  "LastName">
+<!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField1.id              "PhoneticFirstName">
+<!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField2.id              "PhoneticLastName">
+
+<!ENTITY NameField1.label               "名字:">
+<!ENTITY NameField1.accesskey           "F">
+<!ENTITY NameField2.label               "姓氏:">
+<!ENTITY NameField2.accesskey           "L">
+<!ENTITY PhoneticField1.label           "注音:">
+<!ENTITY PhoneticField2.label           "注音:">
+<!ENTITY DisplayName.label              "顯示名稱:">
+<!ENTITY DisplayName.accesskey          "D">
+<!ENTITY NickName.label                 "暱稱:">
+<!ENTITY NickName.accesskey             "N">
+
+<!ENTITY PrimaryEmail.label             "電子郵件:">
+<!ENTITY PrimaryEmail.accesskey         "E">
+<!ENTITY SecondEmail.label              "其它 Email:">
+<!ENTITY SecondEmail.accesskey          "i">
+<!ENTITY PreferMailFormat.label         "收信格式:">
+<!ENTITY PreferMailFormat.accesskey     "v">
+<!ENTITY PlainText.label                "純文字">
+<!ENTITY HTML.label                     "HTML">
+<!ENTITY Unknown.label                  "未知的">
+<!ENTITY ScreenName.label               "網路代號:">
+<!ENTITY ScreenName.accesskey           "S">
+
+<!ENTITY allowRemoteContent1.label      "允許遠端內容。">
+<!ENTITY allowRemoteContent1.accesskey  "r">
+<!ENTITY allowRemoteContent1.tooltip    "HTML 格式的郵件可能嵌入遠端內容到郵件中。打開這類郵件時將會同時開啟億個遠端連線讀取嵌入的遠端內容來源。此動作有可能被利用來偵測該郵件已被讀取。勾選此選項將會允許在 HTML 郵件中載入遠端內容。">
+
+<!ENTITY WorkPhone.label                "公司電話:">
+<!ENTITY WorkPhone.accesskey            "k">
+<!ENTITY HomePhone.label                "住家電話:">
+<!ENTITY HomePhone.accesskey            "m">
+<!ENTITY FaxNumber.label                "傳真:">
+<!ENTITY FaxNumber.accesskey            "x">
+<!ENTITY PagerNumber.label              "呼叫器:">
+<!ENTITY PagerNumber.accesskey          "g">
+<!ENTITY CellularNumber.label           "行動電話:">
+<!ENTITY CellularNumber.accesskey       "b">
+
+<!ENTITY Home.tab                       "私人">
+<!ENTITY Home.accesskey                 "P">
+<!ENTITY HomeAddress.label              "住址:">
+<!ENTITY HomeAddress.accesskey          "A">
+<!ENTITY HomeAddress2.label             "">
+<!ENTITY HomeAddress2.accesskey         "">
+<!ENTITY HomeCity.label                 "縣市:">
+<!ENTITY HomeCity.accesskey             "y">
+<!ENTITY HomeState.label                "省市:">
+<!ENTITY HomeState.accesskey            "S">
+<!ENTITY HomeZipCode.label              "郵遞區號:">
+<!ENTITY HomeZipCode.accesskey          "Z">
+<!ENTITY HomeCountry.label              "國家:">
+<!ENTITY HomeCountry.accesskey          "u">
+<!ENTITY HomeWebPage.label              "網站:">
+<!ENTITY HomeWebPage.accesskey          "e">
+<!ENTITY Birthday.label                 "生日:">
+<!ENTITY Birthday.accesskey             "B">
+<!ENTITY In.label                       "">
+<!ENTITY Year.placeholder               "年">
+<!ENTITY Or.value                       "或">
+<!ENTITY Age.placeholder                "年齡">
+<!ENTITY YearsOld.label                 "">
+
+<!ENTITY Work.tab                       "公司">
+<!ENTITY Work.accesskey                 "W">
+<!ENTITY JobTitle.label                 "職稱:">
+<!ENTITY JobTitle.accesskey             "i">
+<!ENTITY Department.label               "部門:">
+<!ENTITY Department.accesskey           "m">
+<!ENTITY Company.label                  "服務單位:">
+<!ENTITY Company.accesskey              "n">
+<!ENTITY WorkAddress.label              "地址:">
+<!ENTITY WorkAddress.accesskey          "A">
+<!ENTITY WorkAddress2.label             "">
+<!ENTITY WorkAddress2.accesskey         "">
+<!ENTITY WorkCity.label                 "縣市:">
+<!ENTITY WorkCity.accesskey             "y">
+<!ENTITY WorkState.label                "省市:">
+<!ENTITY WorkState.accesskey            "S">
+<!ENTITY WorkZipCode.label              "郵遞區號:">
+<!ENTITY WorkZipCode.accesskey          "Z">
+<!ENTITY WorkCountry.label              "國家:">
+<!ENTITY WorkCountry.accesskey          "u">
+<!ENTITY WorkWebPage.label              "網站:">
+<!ENTITY WorkWebPage.accesskey          "e">
+
+<!ENTITY Other.tab                      "其他">
+<!ENTITY Other.accesskey                "h">
+<!ENTITY Custom1.label                  "自訂 1:">
+<!ENTITY Custom1.accesskey              "1">
+<!ENTITY Custom2.label                  "自訂 2:">
+<!ENTITY Custom2.accesskey              "2">
+<!ENTITY Custom3.label                  "自訂 3:">
+<!ENTITY Custom3.accesskey              "3">
+<!ENTITY Custom4.label                  "自訂 4:">
+<!ENTITY Custom4.accesskey              "4">
+<!ENTITY Notes.label                    "註記:">
+<!ENTITY Notes.accesskey                "N">
+
+<!ENTITY Photo.tab                      "相片">
+<!ENTITY Photo.accesskey                "相片">
+<!ENTITY PhotoDesc.label                "從下列選一個:">
+<!ENTITY GenericPhoto.label             "一般相片">
+<!ENTITY GenericPhoto.accesskey         "G">
+<!ENTITY DefaultPhoto.label             "預設">
+<!ENTITY PhotoFile.label                "從這台電腦裡">
+<!ENTITY PhotoFile.accesskey            "n">
+<!ENTITY BrowsePhoto.label              "瀏覽">
+<!ENTITY BrowsePhoto.accesskey          "r">
+<!ENTITY PhotoURL.label                 "從網路上">
+<!ENTITY PhotoURL.accesskey             "b">
+<!ENTITY PhotoURL.placeholder           "貼上或輸入相片的網址">
+<!ENTITY UpdatePhoto.label              "更新">
+<!ENTITY UpdatePhoto.accesskey          "U">

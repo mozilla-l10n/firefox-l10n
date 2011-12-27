@@ -1,0 +1,8 @@
+
+<!ENTITY  newMessageCmd.key               "M">
+<!ENTITY  newMessageCmd.label             "郵件">
+<!ENTITY  newMessageCmd.accesskey         "M">
+ 
+<!ENTITY  newContactCmd.label             "聯絡人…">
+<!ENTITY  newContactCmd.accesskey         "C">
+ 

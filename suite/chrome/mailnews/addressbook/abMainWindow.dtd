@@ -1,0 +1,137 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-1999
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+
+ Alternatively, the contents of this file may be used under the terms of
+ either of the GNU General Public License Version 2 or later (the "GPL"),
+ or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!-- Title -->
+<!ENTITY addressbookWindow.title                        "通訊錄">
+
+<!-- Menus:  the . means that the menu item isn't implemented yet -->
+
+<!-- File Menu -->
+<!ENTITY newContact.label                               "聯絡人…">
+<!-- LOCALIZATION NOTE (newContact.accesskey) : DONT_TRANSLATE -->
+<!ENTITY newContact.accesskey                           "C">
+<!ENTITY newListCmd.label                               "群組名單…">
+<!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->  
+<!ENTITY newListCmd.accesskey                           "l">  
+<!ENTITY newAddressBookCmd.label                        "通訊錄…"> 
+<!ENTITY newAddressBookCmd.accesskey                    "o">  
+<!ENTITY newLDAPDirectoryCmd.label                      "LDAP 目錄…">
+<!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
+<!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
+<!ENTITY newIM.label                                    "IM">
+<!ENTITY printContactViewCmd.label                      "列印連絡人…">
+<!ENTITY printContactViewCmd.accesskey                  "P">
+<!ENTITY printPreviewContactViewCmd.label               "預覽列印連絡人">
+<!ENTITY printPreviewContactViewCmd.accesskey           "v">
+<!ENTITY printContactViewCmd.key                        "P">
+<!ENTITY printAddressBook.label                         "列印通訊錄…"> 
+<!ENTITY printAddressBook.accesskey                     "A"> 
+<!ENTITY printPreviewAddressBook.label                  "預覽列印通訊錄"> 
+<!ENTITY printPreviewAddressBook.accesskey              "B">
+
+<!-- Edit Menu -->
+<!ENTITY deleteAbCmd.label                              "刪除通訊錄">  
+<!ENTITY deleteContactCmd.label                         "刪除連絡人">
+<!ENTITY deleteContactsCmd.label                        "刪除所選擇的聯絡人">
+<!ENTITY deleteListCmd.label                            "刪除清單">
+<!ENTITY deleteListsCmd.label                           "刪除所選擇的清單">
+<!ENTITY deleteItemsCmd.label                           "刪除所選擇的項目">
+<!ENTITY swapFirstNameLastNameCmd.label                 "交換姓／名的顯示位置">
+<!ENTITY swapFirstNameLastNameCmd.accesskey             "w">  
+<!ENTITY propertiesCmd.label                            "屬性…">
+<!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->  
+<!ENTITY propertiesCmd.accesskey                        "i">  
+<!ENTITY propertiesCmd.key                              "i">  
+
+<!-- View Menu -->
+<!ENTITY showAbToolbarCmd.label                         "通訊錄工具列"> 
+<!ENTITY showAbToolbarCmd.accesskey                     "o">  
+
+<!ENTITY showCardPane.label                             "名片面板">
+<!ENTITY showCardPane.accesskey                         "C">
+  
+<!ENTITY menu_ShowNameAs.label                          "姓名顯示方式"> 
+<!ENTITY menu_ShowNameAs.accesskey                      "N"> 
+<!ENTITY firstLastCmd.label                             "[名] [姓] (英式)">  
+<!ENTITY firstLastCmd.accesskey                         "F"> 
+<!ENTITY lastFirstCmd.label                             "[姓][名] (中式)">  
+<!ENTITY lastFirstCmd.accesskey                         "L"> 
+<!ENTITY displayNameCmd.label                           "顯示名稱">  
+<!ENTITY displayNameCmd.accesskey                       "D"> 
+
+<!-- Tasks Menu -->
+<!ENTITY importCmd.label                                "匯入…">
+<!ENTITY importCmd.accesskey                            "I">
+<!ENTITY exportCmd.label                                "匯出…">
+<!ENTITY exportCmd.accesskey                            "E">
+
+<!-- Toolbar and Popup items -->  
+<!ENTITY newContactButton.label                         "新連絡人">
+<!ENTITY newContactButton.accesskey                     "C">
+<!ENTITY newlistButton.label                            "新增群組名單">  
+<!ENTITY newlistButton.accesskey                        "L">  
+<!ENTITY editItemButton.label                           "屬性">
+<!ENTITY editItemButton.accesskey                       "P">
+<!ENTITY newmsgButton.label                             "發新信件">  
+<!ENTITY newmsgButton.accesskey                         "C">  
+<!ENTITY deleteItemButton.label                         "刪除">
+<!ENTITY deleteItemButton.accesskey                     "D">
+<!ENTITY newimButton.label                              "即時簡訊">  
+<!ENTITY newimButton.accesskey                          "I">  
+<!ENTITY searchNameAndEmail.placeholder                 "搜尋名稱與電子郵件">
+<!ENTITY searchBox.title                                "搜尋">
+
+<!-- Tooltips -->
+<!ENTITY addressbookToolbar.tooltip                     "通訊錄工具列">
+<!ENTITY newContactButton.tooltip                       "建立新的通訊錄連絡人">
+<!ENTITY newlistButton.tooltip                          "新增群組寄信名單"> 
+<!ENTITY editItemButton.tooltip                         "編輯選取的項目">
+<!ENTITY newmsgButton.tooltip                           "寄送新郵件"> 
+<!ENTITY newIM.tooltip                                  "傳送簡訊或聊天"> 
+<!ENTITY deleteItemButton.tooltip                       "刪除選取的項目">
+<!ENTITY throbber.tooltip                               "&vendorShortName; 的首頁">
+<!ENTITY advancedButton.tooltip                         "進階位址搜尋">
+
+<!-- Dir Tree header -->
+<!ENTITY dirTreeHeader.label                            "通訊錄">
+
+<!-- Status Bar -->  
+<!ENTITY statusText.label                               "">
+
+<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
+<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
+<!ENTITY  hideSwapFnLnUI                                "true">

@@ -1,0 +1,18 @@
+<!ENTITY virtualFolderProperties.title "新增即時搜尋資料夾">
+<!ENTITY name.label                    "名字:">
+<!ENTITY name.accesskey                "N">
+<!ENTITY description.label             "建立子資料夾:">
+<!ENTITY description.accesskey         "C">
+
+<!ENTITY searchTermCaption.label       "設定此即時搜尋資料夾的搜尋方式:">
+
+<!ENTITY folderSelectionCaption.label  "選取要搜尋的資料夾:">
+<!ENTITY chooseFoldersButton.label     "選擇…">
+<!ENTITY chooseFoldersButton.accesskey "h">
+
+<!ENTITY searchOnline.label            "線上即時搜尋（可取得 IMAP 與新聞群組中最新的內容，不過開啟資料夾時會比較慢）">
+<!ENTITY searchOnline.accesskey        "S">
+<!ENTITY newFolderButton.label         "建立">
+<!ENTITY newFolderButton.accesskey     "r">
+<!ENTITY editFolderButton.label        "更新">
+<!ENTITY editFolderButton.accesskey    "U">
