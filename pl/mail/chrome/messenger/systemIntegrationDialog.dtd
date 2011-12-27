@@ -5,7 +5,7 @@
 <!ENTITY newsgroups.label "grup dyskusyjnych">
 <!ENTITY feeds.label      "źródeł aktualności">
 
-<!ENTITY checkOnStartup.label     "Sprawdzaj to zawsze przy uruchamianiu programu &brandShortName;">
+<!ENTITY checkOnStartup.label     "Sprawdzaj te ustawienia zawsze podczas uruchamiania programu &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "S">
 
 <!ENTITY searchIntegration.label     "Zezwalaj programowi &searchIntegration.engineName; na wyszukiwanie wiadomości">
