@@ -66,9 +66,9 @@
 <!ENTITY pref_enable_plugins_yes "Ja">
 <!ENTITY pref_enable_plugins_tap_to_play "Tryck för att visa">
 <!ENTITY pref_enable_plugins_no "Nej">
-<!ENTITY pref_font_size "Typsnittstorlek">
+<!ENTITY pref_font_size "Textstorlek">
 <!ENTITY pref_font_size_small "Liten">
-<!ENTITY pref_font_size_medium "Mellan">
+<!ENTITY pref_font_size_medium "Normal">
 <!ENTITY pref_font_size_large "Stor">
 <!ENTITY pref_font_size_xlarge "Extra stor">
 <!ENTITY pref_use_master_password "Använd huvudlösenord">
