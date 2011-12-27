@@ -1,0 +1,24 @@
+<!-- extracted from content/pref-scripts.xul -->
+
+<!--LOCALIZATION NOTE : FILE The 'Scripts & Plugins' preferences dialog -->
+<!ENTITY pref.scripts.title              "Scripts 與 Plug-ins">
+
+<!ENTITY navigator.label                 "網頁瀏覽器">
+<!ENTITY navigator.accesskey             "B">
+
+<!--LOCALIZATION NOTE (enableJavaScript.label): 'JavaScript' should never be translated -->
+<!ENTITY enableJavaScript.label          "下列情形可使用 JavasScript:">
+<!ENTITY allowScripts.label              "允許網頁 Script 可以:">
+<!ENTITY allowScripts.accesskey          "S">
+<!ENTITY allowWindowMoveResize.label     "移動或改變視窗大小">
+<!ENTITY allowWindowFlip.label           "顯示視窗於最上層或移至下層">
+<!ENTITY allowWindowStatusChange.label   "改變狀態列文字">
+<!ENTITY allowWindowImageSrcChange.label "改變圖片">
+<!ENTITY allowContextmenuDisable.label   "暫停或取代右鍵選單">
+<!ENTITY allowHideStatusBar.label        "隱藏狀態列">
+
+<!ENTITY enablePlugin.label              "啟用下列的 Plug-ins:">
+
+<!ENTITY whenPluginsRequired.label       "需要更多外掛程式時">
+<!ENTITY displayNotification.label       "在內容區域的最上面顯示通知列">
+<!ENTITY displayNotification.accesskey   "n">

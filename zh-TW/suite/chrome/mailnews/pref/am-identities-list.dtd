@@ -1,0 +1,7 @@
+<!ENTITY identitiesListDesc.label "多重身份支援">
+<!ENTITY identitiesListAdd.label  "新增…">
+<!ENTITY identitiesListAdd.accesskey  "A">
+<!ENTITY identitiesListEdit.label "編輯…">
+<!ENTITY identitiesListEdit.accesskey "E">
+<!ENTITY identitiesListDelete.label "刪除">
+<!ENTITY identitiesListDelete.accesskey "D">

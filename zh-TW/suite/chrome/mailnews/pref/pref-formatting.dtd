@@ -1,0 +1,73 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-1999
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+   Ian Neal <iann_bugzilla@blueyonder.co.uk>
+
+ Alternatively, the contents of this file may be used under the terms of
+ either of the GNU General Public License Version 2 or later (the "GPL"),
+ or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY pref.formatting.title        "寄件格式">
+<!ENTITY sendMaildesc.label           "寄出格式化（HTML）訊息時，或超過一個收件者未被列為可以接收 HTML 郵件時:">
+<!ENTITY askMe.label                  "詢問我如何處理（Mail 將會請您選擇格式）">
+<!ENTITY askMe.accesskey              "k">
+<!ENTITY convertPlain.label           "將訊息轉換成純文字（可能會遺失一些格式設定）">
+<!ENTITY convertPlain.accesskey       "C">
+<!ENTITY sendHTML.label               "仍然使用格式化文字（HTML）將訊息寄出（某些郵件程式可能無法顯示）">
+<!ENTITY sendHTML.accesskey           "S">
+<!ENTITY sendBoth.label               "同時使用純文字與 HTML 格式傳送訊息（訊息大小較大）">
+<!ENTITY sendBoth.accesskey           "n">
+<!ENTITY override.label               "針對個別訊息，您可以在編輯時使用「選項」選單，改變這些設定。">
+
+<!-- Html and Plain Text Domains  -->
+<!ENTITY domain.title                 "HTML 與純文字網域">
+<!ENTITY domaindesc.label             "當您寄信到下列網域時，將會自動送出相對應的格式（格式化文字或純文字）。">
+<!ENTITY HTMLdomaintitle.label        "HTML 格式網域">
+<!ENTITY HTMLdomaintitle.accesskey    "M">
+<!ENTITY PlainTexttitle.label         "純文字網域">
+<!ENTITY PlainTexttitle.accesskey     "P">
+<!ENTITY AddButton.label              "新增…">
+<!ENTITY AddHtmlDomain.accesskey      "A">
+<!ENTITY AddPlainText.accesskey       "d">
+<!ENTITY DeleteButton.label           "刪除">
+<!ENTITY DeleteHtmlDomain.accesskey   "e">
+<!ENTITY DeletePlainText.accesskey    "t">
+
+<!-- Add Domain Name -->
+<!ENTITY add.htmltitle                "增加 HTML 網域名稱">
+<!ENTITY add.htmldomain               "HTML 網域名稱:">
+<!ENTITY add.plaintexttitle           "增加純文字網域名稱">
+<!ENTITY add.plaintextdomain          "純文字網域名稱:">
+
+<!ENTITY domainnameError.title        "網域名稱錯誤">
+<!-- LOCALIZATION NOTE: do not translate @string@ -->
+<!ENTITY invalidEntryError.label      "網域名稱 @string@ 無效，將會被忽略。有效的網域名稱必須包含至少一個點，且兩側都要有字母。">

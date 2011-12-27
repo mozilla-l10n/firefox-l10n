@@ -1,0 +1,10 @@
+<!--LOCALIZATION NOTE : FILE The Applications prefs dialog -->
+<!ENTITY pref.applications.title "應用程式">
+
+<!ENTITY typeColumn.label        "內容類型">
+<!ENTITY typeColumn.accesskey    "t">
+
+<!ENTITY actionColumn2.label     "動作">
+<!ENTITY actionColumn2.accesskey "A">
+
+<!ENTITY search.placeholder      "搜尋類型與行為">

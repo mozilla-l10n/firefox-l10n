@@ -1,0 +1,34 @@
+<!ENTITY pref.navigator.title           "網頁瀏覽器">
+
+<!ENTITY navRadio.label                 "顯示於">
+<!ENTITY navRadio.accesskey             "n">
+<!ENTITY navStartPageMenu.label         "瀏覽器啟動">
+<!ENTITY newWinPageMenu.label           "新視窗">
+<!ENTITY newTabPageMenu.label           "開新分頁">
+
+<!ENTITY blankPageRadio.label           "空白頁">
+<!ENTITY blankPageRadio.accesskey       "B">
+<!ENTITY homePageRadio.label            "首頁">
+<!ENTITY homePageRadio.accesskey        "m">
+<!ENTITY lastPageRadio.label            "最後一次開啟的網頁">
+<!ENTITY lastPageRadio.accesskey        "L">
+<!ENTITY restoreSessionRadio.label      "還原先前的瀏覽紀錄">
+<!ENTITY restoreSessionRadio.accesskey  "P">
+
+<!ENTITY header2.label                  "首頁">
+<!ENTITY homePageIntro.label            "當按下「首頁」按鈕時會自動瀏覽此(組)網址">
+<!ENTITY useCurrent.label               "使用目前的網頁">
+<!ENTITY useCurrent.accesskey           "U">
+<!ENTITY useCurrentGroup.label          "使用目前分頁組">
+<!ENTITY useCurrentGroup.accesskey      "G">
+<!ENTITY browseFile.label               "選擇檔案…">
+<!ENTITY browseFile.accesskey           "C">
+<!ENTITY useDefault.label               "回復預設值">
+<!ENTITY useDefault.accesskey           "R">
+
+<!ENTITY defaultBrowserGroup.label      "預設瀏覽器">
+<!ENTITY defaultBrowserButton.label     "設為預設瀏覽器">
+<!ENTITY defaultBrowserButton.accesskey "D">
+<!ENTITY alreadyDefaultText             "&brandShortName; 已經是你的預設瀏覽器了。">
+<!ENTITY defaultPendingText             "按下確定後 &brandShortName; 會被設定為你的預設瀏覽器。">
+<!ENTITY makeDefaultText                "設定 &brandShortName; 為你的預設瀏覽器。">

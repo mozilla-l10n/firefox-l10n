@@ -1,0 +1,19 @@
+<!ENTITY  pref.history.title                "瀏覽記錄">
+
+<!ENTITY  pref.history.caption              "瀏覽記錄">
+<!ENTITY  historyPages.label                "「瀏覽記錄」會記下你所有去過的網址方便日後查詢。">
+<!ENTITY  enableHistory.label               "記住瀏覽過的網頁">
+<!ENTITY  enableHistory.accesskey           "R">
+<!ENTITY  clearHistory.label                "清除瀏覽記錄">
+<!ENTITY  clearHistory.accesskey            "s">
+
+<!ENTITY  locationBarHistory.caption        "網址列記錄">
+<!ENTITY  clearLocationBar.label            "清除網址列裡記錄的網站位址。">
+<!ENTITY  clearLocationBarButton.label      "清除網址列記錄">
+<!ENTITY  clearLocationBarButton.accesskey  "l">
+<!ENTITY  formfillHistory.caption           "網頁表單及搜尋紀錄">
+<!ENTITY  enableFormfill.label              "啟用表單及搜尋紀錄">
+<!ENTITY  enableFormfill.accesskey          "n">
+<!ENTITY  formfillExpire.label              "記得表單及搜尋紀錄至少">
+<!ENTITY  formfillExpire.accesskey          "f">
+<!ENTITY  formfillDays.label                "天">
