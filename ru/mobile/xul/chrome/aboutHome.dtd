@@ -1,0 +1,17 @@
+<!ENTITY aboutHome.header "<span id='header-suffix'>Запуск </span><span>&brandShortName;</span>">
+<!ENTITY aboutHome.recentTabs "Вкладки открытые в прошлый раз">
+<!ENTITY aboutHome.remoteTabs "Вкладки с других компьютеров">
+<!ENTITY aboutHome.recommendedAddons2 "Дополнения для вашего &brandShortName;">
+<!ENTITY aboutHome.giveFeedback "Отправить отзыв">
+<!ENTITY aboutHome.getHelp "Получить помощь">
+<!ENTITY aboutHome.footerWidth "10em">
+<!ENTITY aboutHome.openAllTabs "Открыть всё во вкладках">
+<!ENTITY aboutHome.noTabs "Нет вкладок с прошлого раза">
+<!ENTITY aboutHome.noAddons "Нет рекомендуемых дополнений">
+<!ENTITY aboutHome.getLocale "Сменить язык">
+<!ENTITY aboutHome.getInBeforeBeta "Не ждите Бета.">
+<!ENTITY aboutHome.tryAurora "Попробуйте Firefox Aurora и помогите сформировать будущее Firefox.">
+<!ENTITY aboutHome.downloadAurora "Загрузить Aurora">
+<!ENTITY aboutHome.forAndroid "для Android">
+<!ENTITY aboutHome.setupSync "Настроить синхронизацию">
+<!ENTITY aboutHome.syncPairDevice "Соединиться с устройством">

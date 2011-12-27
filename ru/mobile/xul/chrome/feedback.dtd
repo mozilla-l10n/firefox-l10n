@@ -1,0 +1,9 @@
+<!ENTITY feedbackHeader2.label "Обратная связь">
+<!ENTITY feedback.communicate.title "Свяжитесь с нами!">
+<!ENTITY feedback.feedback.title "Отправьте отзыв">
+<!ENTITY feedback.feedback.good "Хороший">
+<!ENTITY feedback.feedback.bad "Плохой">
+<!ENTITY feedback.tools.title "Инструменты">
+<!ENTITY feedback.allowTelemetry.title "Сообщать данные о скорости">
+<!ENTITY feedback.forceCompat.title "Не проверять совместимость">
+<!ENTITY feedback.errorConsole.title "Включить консоль ошибок">
