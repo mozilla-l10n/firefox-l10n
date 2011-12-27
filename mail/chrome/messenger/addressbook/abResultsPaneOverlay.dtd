@@ -52,7 +52,7 @@
 <!ENTITY JobTitle.accesskey                    "T">
 <!ENTITY CellularNumber.label                  "Mobitel">
 <!ENTITY CellularNumber.accesskey              "M">
-<!ENTITY PagerNumber.label                     "Pejdžer">
+<!ENTITY PagerNumber.label                     "Pager">
 <!ENTITY PagerNumber.accesskey                 "P">
 <!ENTITY FaxNumber.label                       "Faks">
 <!ENTITY FaxNumber.accesskey                   "F">
