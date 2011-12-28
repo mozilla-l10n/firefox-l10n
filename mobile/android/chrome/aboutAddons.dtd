@@ -1,0 +1,8 @@
+<!ENTITY aboutAddons.title                      "附加元件管理員">
+<!ENTITY aboutAddons.header                     "附加元件">
+<!ENTITY aboutAddons.options                    "選項">
+
+<!ENTITY addonAction.enable                     "啟用">
+<!ENTITY addonAction.disable                    "停用">
+<!ENTITY addonAction.uninstall                  "移除">
+<!ENTITY addonAction.cancel                     "取消">
