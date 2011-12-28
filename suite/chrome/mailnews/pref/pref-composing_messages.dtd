@@ -45,8 +45,8 @@
 <!ENTITY asAttachment.accesskey               "Я">
 
 <!ENTITY replyQuoteInline.label               "Цитувати долучення, показуючи у відповідях">
-<!ENTITY replyQuoteInline.accesskey           "Q">
-<!ENTITY warnOnSendAccelKey.label             "Запитувати підтвердження при використанні клавіатурних скорочень для надсилання листів">
+<!ENTITY replyQuoteInline.accesskey           "Ц">
+<!ENTITY warnOnSendAccelKey.label             "Запитувати підтвердження за використання клавіатурних скорочень для надсилання листів">
 <!ENTITY warnOnSendAccelKey.accesskey         "З">
 <!-- LOCALIZATION NOTE (autoSave.label): This will concatenate with
      "xxx minutes", using a number and (autoSaveEnd.label). -->
@@ -59,9 +59,9 @@
 <!ENTITY char.label                           "символів">
 
 <!ENTITY spellingHeader.label                 "Орфографія">
-<!ENTITY spellCheck.label                     "Перевіряти орфографію перед відсиланням листа">
+<!ENTITY spellCheck.label                     "Перевіряти орфографію перед надсиланням листа">
 <!ENTITY spellCheck.accesskey                 "П">
-<!ENTITY spellCheckInline.label               "Первіряти орфографію при вводі">
+<!ENTITY spellCheckInline.label               "Первіряти орфографію протягом набирання тексту">
 <!ENTITY spellCheckInline.accesskey           "e">
 <!ENTITY languagePopup.label                  "Мова:">
 <!ENTITY languagePopup.accessKey              "М">

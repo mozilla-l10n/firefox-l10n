@@ -35,21 +35,21 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.addressing.title                 "Адресація">
+<!ENTITY pref.addressing.title                 "Адресування">
 <!ENTITY emailCollectiontitle.label            "Збірка електронних адрес">
 <!ENTITY emailCollectionPicker.label           "Додати електронну адресу до:">
 <!ENTITY emailCollectionPicker.accesskey       "Д">
-<!ENTITY emailCollectiontext.label             "Поштова адреса з вихідних листів може автоматично додаватись долокальної адресної книги.">
+<!ENTITY emailCollectiontext.label             "Поштова адреса з виходових листів може автоматично додаватись до локальної адресної книги.">
 
 <!-- Autocompletion -->
-<!ENTITY addressingTitle.label                 "Автодоповнення адрес">
-<!ENTITY highlightNonMatches.label             "Підкреслювати адреси, які неможливо автоматично докінчити">
+<!ENTITY addressingTitle.label                 "Автоматичне доповнення адрес">
+<!ENTITY highlightNonMatches.label             "Підкреслювати адреси, які неможливо автоматично довершити">
 <!ENTITY highlightNonMatches.accesskey         "a">
 <!ENTITY addressingEnable.label                "Локальних адресних книгах">
 <!ENTITY addressingEnable.accesskey            "Л">
-<!ENTITY autocompleteText.label                "При введенні адреси шукати відповідні поштові адреси у:">
+<!ENTITY autocompleteText.label                "Під час введення адреси шукати відповідні поштові адреси у:">
 <!ENTITY directories.label                     "Сервери тек:">
 <!ENTITY directories.accesskey                 "С">
-<!ENTITY directoriesNone.label                 "Нічого">
-<!ENTITY editDirectories.label                 "Змінити теки…">
-<!ENTITY editDirectories.accesskey             "З">
+<!ENTITY directoriesNone.label                 "Немає">
+<!ENTITY editDirectories.label                 "Редагувати теки…">
+<!ENTITY editDirectories.accesskey             "Р">
