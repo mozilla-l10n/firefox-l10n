@@ -1,13 +1,12 @@
 <!ENTITY aboutPage.title "Informazioni su &brandShortName;">
+<!ENTITY aboutPage.checkForUpdates.link "Controlla aggiornamenti »">
+<!ENTITY aboutPage.checkForUpdates.checking "Ricerca aggiornamenti…">
+<!ENTITY aboutPage.checkForUpdates.none "Nessun agg. disponibile">
+<!ENTITY aboutPage.checkForUpdates.found "Aggiornamento disponibile">
 <!ENTITY aboutPage.faq.label "FAQ">
 <!ENTITY aboutPage.support.label "Supporto">
 <!ENTITY aboutPage.privacyPolicy.label "Informativa sulla privacy">
 <!ENTITY aboutPage.rights.label "I tuoi diritti">
 <!ENTITY aboutPage.relNotes.label "Note di versione">
 <!ENTITY aboutPage.credits.label "Riconoscimenti">
-<!ENTITY aboutPage.checkForUpdates.link "Controlla aggiornamenti »">
-<!ENTITY aboutPage.checkForUpdates.checking "Ricerca aggiornamenti…">
-<!ENTITY aboutPage.checkForUpdates.none "Nessun agg. disponibile">
-<!ENTITY aboutPage.checkForUpdates.found "Aggiornamento disponibile">
-<!ENTITY aboutPage.licenseLink "Informazioni sulla licenza">
-<!ENTITY aboutPage.licenseLinkSuffix ".">
+<!ENTITY aboutPage.license.label "Informazioni sulla licenza">
