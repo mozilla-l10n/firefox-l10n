@@ -1,10 +1,10 @@
 <!-- extracted from AccountManager.xul -->
 
-<!ENTITY accountManagerTitle.label "Налаштування облікового запису пошти та груп новин">
+<!ENTITY accountManagerTitle.label "Параметри облікового запису пошти та новин">
 
 <!ENTITY addAccountButton.label "Додати користувача…">
 <!ENTITY addAccountButton.accesskey "Д">
-<!ENTITY setDefaultButton.label "За умовчанням">
+<!ENTITY setDefaultButton.label "Типово">
 <!ENTITY setDefaultButton.accesskey "Т">
 <!ENTITY removeButton.label "Вилучити обліковий запис">
 <!ENTITY removeButton.accesskey "В">

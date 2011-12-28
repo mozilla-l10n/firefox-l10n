@@ -36,7 +36,7 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.viewing.messages.title      "Екран листа">
+<!ENTITY pref.viewing.messages.title      "Перегляд листа">
 <!ENTITY style.label                      "Стиль:">
 <!ENTITY style.accesskey                  "С">
 <!ENTITY regular.label                    "Звичайний">
@@ -53,15 +53,15 @@
 <!ENTITY fontPlainText.label              "Шрифт:">
 <!ENTITY fontPlainText.accesskey          "Ш">
 <!ENTITY displayQuoted.label              "Налаштування для цитованих листів:">
-<!ENTITY wrapInMsg.label                  "Вирівняти текст до ширина вікна">
+<!ENTITY wrapInMsg.label                  "Вирівняти текст до ширини вікна">
 <!ENTITY wrapInMsg.accesskey              "В">
 <!-- LOCALIZATION NOTE : (convertEmoticons.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
-<!ENTITY convertEmoticons.label           "Відображати смайлики як графіку">
+<!ENTITY convertEmoticons.label           "Показайти емоційку як графіку">
 <!ENTITY convertEmoticons.accesskey       "В">
 <!ENTITY generalMessageDisplay.caption    "Основне">
-<!ENTITY autoMarkAsRead.label             "Автоматично позначати листи як прочитані">
+<!ENTITY autoMarkAsRead.label             "Автоматично призначати листи як прочитані">
 <!ENTITY autoMarkAsRead.accesskey         "А">
-<!ENTITY markAsReadNoDelay.label          "Зразу після відораження">
+<!ENTITY markAsReadNoDelay.label          "Зразу після показу">
 <!ENTITY markAsReadNoDelay.accesskey      "З">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
@@ -73,11 +73,11 @@
 <!ENTITY openingMessages.label            "Коли відкривається листи, показувати їх у:">
 <!ENTITY newWindowRadio.label             "новому вікні">
 <!ENTITY newWindowRadio.accesskey         "н">
-<!ENTITY existingWindowRadio.label        "вже існуючому вікні">
+<!ENTITY existingWindowRadio.label        "вже наявному вікні">
 <!ENTITY existingWindowRadio.accesskey    "в">
-<!ENTITY disableContent.label             "Заборонити зображення та інший контекст з віддалених джерел">
+<!ENTITY disableContent.label             "Заборонити зображення та інший вміст з віддалених джерел">
 <!ENTITY disableContent.accesskey         "З">
-<!ENTITY showCondensedAddresses.label     "Показувати тільки імена людей, що знаходяться в моїй адресній книзі">
+<!ENTITY showCondensedAddresses.label     "Показувати тільки імена людей, що є в моїй адресній книзі">
 <!ENTITY showCondensedAddresses.accesskey "П">
-<!ENTITY closeMsgWindowOnDelete.label     "Close message window when deleting the message">
-<!ENTITY closeMsgWindowOnDelete.accesskey "l">
+<!ENTITY closeMsgWindowOnDelete.label     "Закривати вікно листа, коли лист вилучається">
+<!ENTITY closeMsgWindowOnDelete.accesskey "З">

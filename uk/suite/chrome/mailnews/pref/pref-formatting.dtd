@@ -36,30 +36,30 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.formatting.title        "Формат відправки">
-<!ENTITY sendMaildesc.label           "Коли відправляється лист, відформатований під HTML, і одному або більше одержувачам, які відмовились від HTML:">
-<!ENTITY askMe.label                  "Запитати мене, що робити (поштарь підкаже вам, який вибрати формат)">
+<!ENTITY pref.formatting.title        "Формат надсилання">
+<!ENTITY sendMaildesc.label           "Коли надсилається лист, відформатований під HTML, і одному або більше одержувачам, які відмовились від HTML:">
+<!ENTITY askMe.label                  "Запитувати мене що робити (програма підкаже вам, який вибрати формат)">
 <!ENTITY askMe.accesskey              "З">
 <!ENTITY convertPlain.label           "Перетворити текст листа у звичайний (деяке форматування може бути втраченим)">
 <!ENTITY convertPlain.accesskey       "П">
-<!ENTITY sendHTML.label               "Однаково, відправити лист як відформатований текст (HTML) (деякі поштові програми можуть не показати листа)">
+<!ENTITY sendHTML.label               "Однаково, надіслати лист як відформатований текст (HTML) (деякі поштові програми можуть не показати листа)">
 <!ENTITY sendHTML.accesskey           "О">
 <!ENTITY sendBoth.label               "Відправити лист і в форматі звичайного тексту, і в HTML (лист займатиме більший розмір)">
 <!ENTITY sendBoth.accesskey           "В">
-<!ENTITY override.label               "Ви можете обійти ці налаштування для окремих листів, використовуючи меню «Варіанти», протягом складання листа.">
+<!ENTITY override.label               "Ви можете обійти ці налаштування для окремих листів, використовуючи меню «Параметри», протягом складання листа.">
 
 <!-- Html and Plain Text Domains  -->
 <!ENTITY domain.title                 "Домени звичайного тексту та HTML">
-<!ENTITY domaindesc.label             "Коли ви відправляєте лист до адреси доменів, що перечислено нижче, поштарь автоматично відправить лист у форматі, який вибрано (форматований або звичайний текст).">
+<!ENTITY domaindesc.label             "Коли ви надсилаєте лист до адреси доменів, що перелічено нижче, поштова програма автоматично надішле лист у форматі, який вибрано (форматований або звичайний текст).">
 <!ENTITY HTMLdomaintitle.label        "Домени, що підтримують HTML">
 <!ENTITY HTMLdomaintitle.accesskey    "Д">
 <!ENTITY PlainTexttitle.label         "Домени, що підтримують тільки текст">
 <!ENTITY PlainTexttitle.accesskey     "Д">
 <!ENTITY AddButton.label              "Додати…">
-<!ENTITY AddHtmlDomain.accesskey      "A">
+<!ENTITY AddHtmlDomain.accesskey      "Д">
 <!ENTITY AddPlainText.accesskey       "d">
 <!ENTITY DeleteButton.label           "Вилучити">
-<!ENTITY DeleteHtmlDomain.accesskey   "e">
+<!ENTITY DeleteHtmlDomain.accesskey   "В">
 <!ENTITY DeletePlainText.accesskey    "t">
 
 <!-- Add Domain Name -->
@@ -70,4 +70,4 @@
 
 <!ENTITY domainnameError.title        "Помилка в назві домена">
 <!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY invalidEntryError.label      "Назва домена @string@ — неправильна і буде нехтувавитись. Правильні назви домена повинні мати щонайменше одну '.' і символи по обидві сторони нього.">
+<!ENTITY invalidEntryError.label      "Назва домена @string@ — неправильна і буде нехтувавитись. Правильні назви домена повинні мати щонайменше одну «.» і символи по обидва боки від нього.">

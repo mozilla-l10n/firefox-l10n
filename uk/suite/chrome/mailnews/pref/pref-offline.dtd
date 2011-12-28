@@ -1,16 +1,16 @@
 <!-- extracted from content/pref-offline.xul -->
 
 <!--LOCALIZATION NOTE : FILE The 'Offline' preferences dialog -->
-<!ENTITY pref.network.title               "Network &amp; Storage">
+<!ENTITY pref.network.title               "Мережа та сховище">
 <!ENTITY pref.offline.caption             "Автономно">
-<!ENTITY textStartUp                      "При запуску:">
+<!ENTITY textStartUp                      "Під час запуску:">
 <!ENTITY textStartUp.accesskey            "П">
 <!ENTITY menuitemRememberPrevState        "Пам'ятати про автономний режим">
-<!ENTITY menuitemAskMe                    "Питати мене щодо режиму при запуску">
+<!ENTITY menuitemAskMe                    "Питати мене щодо режиму під час запуску">
 <!ENTITY menuitemAlwaysOnline             "Завжди запускатися в нормальному режимі">
 <!ENTITY menuitemAlwaysOffline            "Завжди запускатися в автономному режимі">
 <!ENTITY menuitemAutomatic                "Відкривати автоматично (якщо можливо)">
-<!ENTITY textGoingOnline                  "Відсилати невідіслані листи перед виходом в автономний режим?">
+<!ENTITY textGoingOnline                  "Надсилати ненадіслані листи перед виходом в автономний режим?">
 <!ENTITY radioAutoSend                    "Так">
 <!ENTITY radioAutoSend.accesskey          "Т">
 <!ENTITY radioNotSend                     "Ні">
@@ -24,11 +24,11 @@
 <!ENTITY radioNotDownload.accesskey       "Н">
 <!ENTITY radioAskDownload                 "Питати мене">
 <!ENTITY radioAskDownload.accesskey       "П">
-<!ENTITY mailConnections.caption          "Mail Connections">
-<!ENTITY mailnewsTimeout.label            "Connection timeout:">
-<!ENTITY mailnewsTimeout.accesskey        "m">
+<!ENTITY mailConnections.caption          "Поштові з'єднання">
+<!ENTITY mailnewsTimeout.label            "Вичерпання зв'язку:">
+<!ENTITY mailnewsTimeout.accesskey        "В">
 <!ENTITY mailnewsTimeoutSeconds.label     "секунд">
 <!ENTITY Diskspace                        "Дисковий простір">
-<!ENTITY offlineCompact.label             "Стискати теки, якщо при цьому вивільнятиметься більше">
+<!ENTITY offlineCompact.label             "Стискати теки, якщо за допомогою цього вивільнятиметься більше за">
 <!ENTITY offlineCompact.accesskey         "С">
-<!ENTITY mb.label                         "MB">
+<!ENTITY mb.label                         "МБ">
