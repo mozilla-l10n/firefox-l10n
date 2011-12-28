@@ -1,18 +1,12 @@
 <!ENTITY aboutPage.title "Maidir le &brandShortName;">
+<!ENTITY aboutPage.checkForUpdates.link "Lorg Nuashonruithe »">
+<!ENTITY aboutPage.checkForUpdates.checking "Nuashonruithe á lorg…">
+<!ENTITY aboutPage.checkForUpdates.none "Níl aon nuashonruithe ar fáil">
+<!ENTITY aboutPage.checkForUpdates.found "Nuashonrú le fáil">
 <!ENTITY aboutPage.faq.label "Ceisteanna Coitianta">
 <!ENTITY aboutPage.support.label "Tacaíocht">
 <!ENTITY aboutPage.privacyPolicy.label "Polasaí Príobháideachta">
 <!ENTITY aboutPage.rights.label "Do Chearta">
 <!ENTITY aboutPage.relNotes.label "Nótaí Eisiúna">
 <!ENTITY aboutPage.credits.label "Admhálacha">
-<!ENTITY aboutPage.checkForUpdates.link "Lorg Nuashonruithe »">
-<!ENTITY aboutPage.checkForUpdates.checking "Nuashonruithe á lorg…">
-<!ENTITY aboutPage.checkForUpdates.none "Níl aon nuashonruithe ar fáil">
-<!ENTITY aboutPage.checkForUpdates.found "Nuashonrú le fáil">
-<!-- LOCALIZATION NOTE:
-     These strings are concatenated in order. Unneeded strings may be left blank.
--->
-
-
-<!ENTITY aboutPage.licenseLink "Maidir leis an gceadúnas">
-<!ENTITY aboutPage.licenseLinkSuffix ".">
+<!ENTITY aboutPage.license.label "Maidir leis an gCeadúnas">
