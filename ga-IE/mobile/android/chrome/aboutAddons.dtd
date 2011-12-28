@@ -1,0 +1,8 @@
+<!ENTITY aboutAddons.title "Bainisteoir na mBreiseán">
+<!ENTITY aboutAddons.header "Breiseáin">
+<!ENTITY aboutAddons.options "Roghanna">
+
+<!ENTITY addonAction.enable "Cumasaigh">
+<!ENTITY addonAction.disable "Díchumasaigh">
+<!ENTITY addonAction.uninstall "Díshuiteáil">
+<!ENTITY addonAction.cancel "Cealaigh">
