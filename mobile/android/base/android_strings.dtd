@@ -4,6 +4,11 @@
 <!ENTITY  no_space_to_start_error "空間不足，無法啟動 &brandShortName;。">
 <!ENTITY  error_loading_file "嘗試讀取 &brandShortName; 執行所必需的檔案時發生錯誤。">
 
+<!ENTITY  awesomebar_all_pages_title "最常被瀏覽的網站">
+<!ENTITY  awesomebar_bookmarks_title "書籤">
+<!ENTITY  awesomebar_history_title "歷史記錄">
+<!ENTITY  awesomebar_search_engine "搜尋「%s」">
+
 <!ENTITY  crash_reporter_title "&brandShortName; 錯誤回報員">
 <!ENTITY  crash_message "&brandShortName; 意外碰上問題而自行關閉。您的分頁將會在重新啟動後被列在 &brandShortName; 的首頁。">
 <!ENTITY  crash_help_message "請幫助我們修正這個問題！">
@@ -19,3 +24,77 @@
 <!ENTITY  launcher_shortcuts_empty "找不到任何行動網頁應用程式">
 
 <!ENTITY choose_file "選擇檔案">
+
+<!ENTITY awesomebar_default_text "輸入要搜尋的資料或是網址">
+
+<!ENTITY bookmarks_title "書籤">
+<!ENTITY bookmark_add "Bookmark">
+<!ENTITY bookmark_remove "移除">
+<!ENTITY bookmark_added "已新增書籤">
+<!ENTITY bookmark_removed "已移除書籤">
+
+<!ENTITY history_today_section "今天">
+<!ENTITY history_yesterday_section "昨天">
+<!ENTITY history_week_section "7 天前">
+<!ENTITY history_older_section "早於 7 天前">
+
+<!ENTITY reload "重新載入">
+<!ENTITY forward "下一頁">
+
+<!ENTITY new_tab "開新分頁">
+
+<!ENTITY settings "設定">
+<!ENTITY settings_title "設定">
+<!ENTITY pref_category_general "一般">
+<!ENTITY pref_category_privacy "個人隱私與安全">
+<!ENTITY pref_category_content "內容">
+<!ENTITY pref_about_firefox "關於 &brandShortName;">
+<!ENTITY pref_do_not_track "告訴網站我不想被追蹤">
+<!ENTITY pref_telemetry "傳送效能資料">
+<!ENTITY pref_homepage "首頁">
+<!ENTITY pref_homepage_start "Firefox 首頁">
+<!ENTITY pref_homepage_blank "空白頁">
+<!ENTITY pref_homepage_current "目前頁面">
+<!ENTITY pref_remember_signons "記住密碼">
+<!ENTITY pref_cookies "啟用 Cookie">
+<!ENTITY pref_char_encoding "顯示字元編碼">
+<!ENTITY pref_clear_history "清除歷史紀錄">
+<!ENTITY pref_clear_history_confirm "將會刪除瀏覽紀錄">
+<!ENTITY pref_clear_private_data "清除隱私資訊">
+<!ENTITY pref_clear_private_data_confirm "將會刪除包含已存的密碼與 Cookie 等瀏覽設定">
+<!ENTITY pref_enable_plugins "啟用外掛程式">
+<!ENTITY pref_enable_plugins_yes "開">
+<!ENTITY pref_enable_plugins_tap_to_play "點一下播放">
+<!ENTITY pref_enable_plugins_no "關">
+<!ENTITY pref_font_size "文字大小">
+<!ENTITY pref_font_size_small "小">
+<!ENTITY pref_font_size_medium "中">
+<!ENTITY pref_font_size_large "大">
+<!ENTITY pref_font_size_xlarge "特大">
+<!ENTITY pref_use_master_password "使用主控密碼">
+
+<!ENTITY quit "結束">
+
+<!ENTITY addons "附加元件">
+
+<!ENTITY share "透露">
+<!ENTITY save_as_pdf "儲存為 PDF">
+<!ENTITY agent_request_desktop "要求桌面版網站">
+<!ENTITY agent_request_mobile "要求行動版網站">
+
+<!ENTITY contextmenu_open_new_tab "以新分頁開啟">
+<!ENTITY contextmenu_add_to_launcher "新增至裝置主畫面">
+<!ENTITY contextmenu_share "透露">
+
+<!ENTITY site_settings_title        "清除網站設定值">
+<!ENTITY site_settings_cancel       "取消">
+<!ENTITY site_settings_clear        "清除">
+<!ENTITY site_settings_no_settings  "沒有可清除的設定。">
+
+<!ENTITY masterpassword_create_title "建立主控密碼">
+<!ENTITY masterpassword_remove_title "移除主控密碼">
+<!ENTITY masterpassword_password "密碼">
+<!ENTITY masterpassword_confirm "請再次輸入密碼">
+
+<!ENTITY button_ok "確定">
+<!ENTITY button_cancel "取消">
