@@ -41,7 +41,7 @@
 <!ENTITY prefWindow.titleWin "Opciones">
 <!ENTITY prefWindow.titleGNOME "Preferencias de &brandShortName;">
 <!ENTITY prefWindow.styleWin "width: 57em; height: 37em;">
-<!ENTITY prefWindow.styleMac "width: 57em; height: 39em;">
+<!ENTITY prefWindow.styleMac "width: 57em;">
 <!ENTITY prefWindow.styleGNOME "width: 57em; height: 34.5em;">
 <!ENTITY paneGeneral.title "General">
 <!ENTITY paneAlarms.title "Alarmas">
@@ -49,3 +49,4 @@
 <!ENTITY paneViews.title "Vistas">
 <!ENTITY paneTimezones.title "Huso horario">
 <!ENTITY paneAdvanced.title "Avanzadas">
+
