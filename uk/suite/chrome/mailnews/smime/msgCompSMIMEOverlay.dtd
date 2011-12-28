@@ -6,8 +6,8 @@
 <!ENTITY menu_securitySign.label "Цифровий підпис">
 <!ENTITY menu_securitySign.accesskey "Ц">
 
-<!ENTITY menu_securityStatus.label "Захист повідомлення">
-<!ENTITY menu_securityStatus.accesskey "х">
+<!ENTITY menu_securityStatus.label "Захист листа">
+<!ENTITY menu_securityStatus.accesskey "З">
 
 <!ENTITY securityButton.label "Захист">
 <!ENTITY securityButton.tooltip "Перегляд або зміна параметрів захисту">
