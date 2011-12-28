@@ -59,6 +59,7 @@
 <!ENTITY pref_font_size_medium "Средний">
 <!ENTITY pref_font_size_large "Большой">
 <!ENTITY pref_font_size_xlarge "Очень большой">
+<!ENTITY pref_use_master_password "Задать мастер-пароль">
 <!ENTITY quit "Выйти">
 <!ENTITY addons "Дополнения">
 <!ENTITY share "Поделиться">
@@ -72,3 +73,9 @@
 <!ENTITY site_settings_cancel "Отмена">
 <!ENTITY site_settings_clear "Очистить">
 <!ENTITY site_settings_no_settings "Нет настроек для очистки">
+<!ENTITY masterpassword_create_title "Создать мастер-пароль">
+<!ENTITY masterpassword_remove_title "Удалить мастер-пароль">
+<!ENTITY masterpassword_password "Пароль">
+<!ENTITY masterpassword_confirm "Подтвердите пароль">
+<!ENTITY button_ok "OK">
+<!ENTITY button_cancel "Отмена">
