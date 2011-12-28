@@ -30,7 +30,7 @@
 ">
 
 
-<!ENTITY generic.title "喔喔！！">
+<!ENTITY generic.title "噢！">
 <!ENTITY generic.longDesc "
 <p>&brandShortName; 因為某些原因無法載入此網頁。</p>
 ">
@@ -48,19 +48,36 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
 <!ENTITY notCached.title "文件已過期">
-<!ENTITY notCached.longDesc "<p>您所請求的文件已不存在於 &brandShortName; 的快取當中。</p><ul><li>為了您的安全，&brandShortName; 將不會自動重新請求敏感文件。</li><li>請點下重試以重新向網站請求取得文件。</li></ul>">
+<!ENTITY notCached.longDesc "<ul>
+   <li>網址通常長的像
+      <strong>http://www.example.com/</strong>。</li>
+   <li>請確定您用的是斜線 (例:
+      <strong>/</strong>)。</li>
+</ul>
+                ">
 
 <!ENTITY netOffline.title "離線模式">
 <!ENTITY netOffline.longDesc2 "<ul>
-  <li>再試一次。&brandShortName; 會試圖建立連線且重新載入頁面。</li>
+   <li>網址通常長的像
+      <strong>http://www.example.com/</strong>。</li>
+   <li>請確定您用的是斜線 (例:
+      <strong>/</strong>)。</li>
+</ul>
+                ">
+
+<!ENTITY contentEncodingError.title "內容編碼錯誤">
+<!ENTITY contentEncodingError.longDesc "
+<ul>
+  <li>請向網站擁有者回報此問題。</li>
 </ul>
 ">
 
-<!ENTITY contentEncodingError.title "內容編碼錯誤">
-<!ENTITY contentEncodingError.longDesc "<ul> <li>請向網站擁有者回報此問題。</li> </ul>">
-
 <!ENTITY unsafeContentType.title "不安全的檔案格式">
-<!ENTITY unsafeContentType.longDesc "<ul> <li>請向網站擁有者回報此問題。</li> </ul>">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>請向網站擁有者回報此問題。</li>
+</ul>
+">
 
 <!ENTITY netReset.title "連線被重設">
 <!ENTITY netReset.longDesc "&sharedLongDesc2;">
@@ -68,7 +85,7 @@
 <!ENTITY netTimeout.title "連線已逾時">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
-<!ENTITY protocolNotFound.title "看不懂網址">
+<!ENTITY protocolNotFound.title "無法理解的網址">
 <!ENTITY protocolNotFound.longDesc "
 <ul>
   <li>您需要安裝其他軟體才能開啟此網址。</li>
@@ -90,7 +107,7 @@
 </ul>
 ">
 
-<!ENTITY redirectLoop.title "頁面重新轉向不正確">
+<!ENTITY redirectLoop.title "頁面重新導向不正確">
 <!ENTITY redirectLoop.longDesc "
 <ul>
   <li>有時候停用或拒絕接受 Cookie 會造成此問題。</li>
