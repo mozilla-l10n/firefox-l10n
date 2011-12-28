@@ -5,7 +5,7 @@
 <!ENTITY aboutPage.rights.label "Do Chearta">
 <!ENTITY aboutPage.relNotes.label "Nótaí Eisiúna">
 <!ENTITY aboutPage.credits.label "Admhálacha">
-<!ENTITY aboutPage.checkForUpdates.button "Lorg Nuashonruithe">
+<!ENTITY aboutPage.checkForUpdates.link "Lorg Nuashonruithe »">
 <!ENTITY aboutPage.checkForUpdates.checking "Nuashonruithe á lorg…">
 <!ENTITY aboutPage.checkForUpdates.none "Níl aon nuashonruithe ar fáil">
 <!ENTITY aboutPage.checkForUpdates.found "Nuashonrú le fáil">
