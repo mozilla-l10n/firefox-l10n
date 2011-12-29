@@ -62,8 +62,6 @@
 <!ENTITY printAddressBook.accesskey "C">
 <!ENTITY printPreviewAddressBook.label "Címjegyzék nyomtatási képe">
 <!ENTITY printPreviewAddressBook.accesskey "n">
-<!ENTITY printSetupCmd.label "Oldalbeállítás...">
-<!ENTITY printSetupCmd.accesskey "l">
 <!-- Edit Menu -->
 
 <!ENTITY deleteAbCmd.label "Címjegyzék törlése">
@@ -127,6 +125,9 @@
 <!ENTITY deleteItemButton.tooltip "Delete selected item">
 <!ENTITY throbber.tooltip "Ugrás a &vendorShortName; honlapjára">
 <!ENTITY advancedButton.tooltip "Keresés az üzenetekben...">
+
+<!ENTITY dirTreeHeader.label                            "Címjegyzékek">
+
 <!-- Status Bar -->  
 
 <!ENTITY statusText.label "">
