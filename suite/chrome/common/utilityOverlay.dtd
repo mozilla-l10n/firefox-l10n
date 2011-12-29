@@ -24,7 +24,7 @@
 <!ENTITY printPreviewCmd.accesskey "t">
 <!ENTITY printCmd.label "Nyomtatás...">
 <!ENTITY printCmd.accesskey "N">
-<!ENTITY printCmd.commandkey "p">
+<!ENTITY printCmd.key "p">
 
 <!ENTITY editMenu.label "Szerkesztés">
 <!ENTITY editMenu.accesskey "z">
