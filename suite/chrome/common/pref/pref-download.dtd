@@ -1,8 +1,8 @@
 <!ENTITY pref.download.title "Letöltések">
 
 <!ENTITY downloadBehavior.label "A letöltés kezdetekor">
-<!ENTITY focusWhenStarting.label "Flash the download manager if it is already open, otherwise:">
-<!ENTITY focusWhenStarting.accesskey "F">
+<!ENTITY focusWhenStarting.label "A letöltéskezelő vilogással jelzi, ha már meg van nyitva, minden más esetben:">
+<!ENTITY focusWhenStarting.accesskey "v">
 <!ENTITY openDM.label "Letöltéskezelő megnyitása">
 <!ENTITY openDM.accesskey "L">
 <!ENTITY openProgressDialog.label "Folyamatkijelző ablak megnyitása">
@@ -11,19 +11,19 @@
 <!ENTITY doNothing.accesskey "N">
 
 <!ENTITY downloadLocation.label "Fájl mentésekor">
-<!ENTITY saveTo.label "Save files to">
-<!ENTITY saveTo.accesskey "v">
+<!ENTITY saveTo.label "Fájlok mentése:">
+<!ENTITY saveTo.accesskey "m">
 <!ENTITY chooseDownloadFolder.label "Mappa választása...">
 <!ENTITY chooseDownloadFolder.accesskey "M">
-<!ENTITY alwaysAsk.label "Always ask me where to save files">
-<!ENTITY alwaysAsk.accesskey "A">
+<!ENTITY alwaysAsk.label "Rákérdezés a fájlok letöltési helyére">
+<!ENTITY alwaysAsk.accesskey "R">
 
-<!ENTITY downloadHistory.label "Download history">
-<!ENTITY removeEntries.label "Remove download entries">
-<!ENTITY removeEntries.accesskey "R">
-<!ENTITY whenCompleted.label "When they have completed">
-<!ENTITY whenQuittingApp.label "When quitting &brandShortName;">
-<!ENTITY neverRemove.label "Never">
+<!ENTITY downloadHistory.label "Letöltési előzmények">
+<!ENTITY removeEntries.label "Letöltött elemek eltávolítása">
+<!ENTITY removeEntries.accesskey "L">
+<!ENTITY whenCompleted.label "Letöltés befejezésekor">
+<!ENTITY whenQuittingApp.label "Kilépéskor">
+<!ENTITY neverRemove.label "Soha">
 
 <!ENTITY finishedBehavior.label "A letöltés befejeztekor">
 <!ENTITY playSound.label "Hangjelzés">
@@ -32,5 +32,5 @@
 <!ENTITY showAlert.accesskey "i">
 <!ENTITY browse.label "Tallózás...">
 <!ENTITY browse.accesskey "T">
-<!ENTITY preview.label "Előnézet">
-<!ENTITY preview.accesskey "E">
+<!ENTITY playButton.label "Lejátszás">
+<!ENTITY playButton.accesskey "L">

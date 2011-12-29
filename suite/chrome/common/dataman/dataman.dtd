@@ -1,0 +1,169 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is KaiRo's data manager.
+   -
+   - The Initial Developer of the Original Code is
+   - Robert Kaiser <kairo@kairo.at>.
+   - Portions created by the Initial Developer are Copyright (C) 2010
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Robert Kaiser <kairo@kairo.at> (original author)
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the LGPL or the GPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY dataman.windowTitle "Adatkezelő">
+
+<!ENTITY selectAll.key "a">
+
+<!ENTITY select.all.label "Minden adattípus">
+<!ENTITY select.cookies.label "Sütik">
+<!ENTITY select.permissions.label "Engedélyek">
+<!ENTITY select.preferences.label "Beállítások">
+<!ENTITY select.passwords.label "Jelszavak">
+
+<!ENTITY domain.search.placeholder "Tartományok keresése">
+<!ENTITY domain.search.key "f">
+
+<!ENTITY domain.tree.domain.label "Tartomány">
+
+<!ENTITY domain.ctx.forgetdomain.label "Tartomány elfelejtése">
+<!ENTITY domain.ctx.forgetdomain.accesskey "f">
+<!ENTITY domain.ctx.forgetglobal.label "Összes adat elfelejtése">
+<!ENTITY domain.ctx.forgetglobal.accesskey "e">
+
+<!ENTITY data.search.key "k">
+
+<!ENTITY tab.cookies.label "Sütik">
+<!ENTITY tab.permissions.label "Engedélyek">
+<!ENTITY tab.preferences.label "Beállítások">
+<!ENTITY tab.passwords.label "Jelszavak">
+<!ENTITY tab.formdata.label "Űrlapadatok">
+<!ENTITY tab.forget.label "Elfelejtés">
+<!-- cookies -->
+
+<!ENTITY cookies.description "Ez a tartomány a következő sütiket tárolja a számítógépen:">
+
+<!ENTITY cookies.tree.host.label "Webhely ">
+<!ENTITY cookies.tree.name.label "Süti név">
+<!ENTITY cookies.tree.expires.label "Lejár">
+
+<!ENTITY cookies.infobox.label "Információk a kiválasztott sütiről">
+
+<!ENTITY cookies.info.name.label "Név:">
+<!ENTITY cookies.info.value.label "Tartalom:">
+<!ENTITY cookies.info.host.label "Kiszolgáló:">
+<!ENTITY cookies.info.domain.label "Tartomány:">
+<!ENTITY cookies.info.path.label "Útvonal:">
+<!ENTITY cookies.info.sendtype.label "Küldés oka:">
+<!ENTITY cookies.info.expires.label "Lejárat:">
+
+<!ENTITY cookies.ctx.remove.label "Eltávolítás">
+<!ENTITY cookies.ctx.remove.accesskey "E">
+<!ENTITY cookies.ctx.selectAll.label "Minden kijelölése">
+<!ENTITY cookies.ctx.selectAll.accesskey "d">
+
+<!ENTITY cookies.button.remove.label "Eltávolítás">
+<!ENTITY cookies.button.remove.accesskey "E">
+
+<!ENTITY cookies.blockOnRemove.label "Eltávolítás után a felsorolt webhelyek nem helyezhetnek el sütiket">
+<!ENTITY cookies.blockOnRemove.accesskey "u">
+<!-- permissions -->
+
+<!ENTITY perm.UseDefault "Alapértelmezés használata">
+<!ENTITY perm.AskAlways "Rákérdezés mindig">
+<!ENTITY perm.NeverSave "Soha ne mentse">
+<!ENTITY perm.Allow "Engedélyezés">
+<!ENTITY perm.AllowSession "Engedélyezés a munkamenetben">
+<!ENTITY perm.Block "Tiltás">
+
+<!ENTITY perm.host.placeholder "Adja meg a kiszolgálót">
+<!ENTITY perm.button.add.label "Hozzáadás">
+<!ENTITY perm.button.add.accesskey "H">
+<!-- preferences -->
+
+<!ENTITY prefs.description "A tartalmi beállítások segítségével a &brandShortName; minden egyes webhelyhez elmentheti a beállításokat, például: a nagyítás mértékét.">
+
+<!ENTITY prefs.tree.host.label "Webhely ">
+<!ENTITY prefs.tree.name.label "Beállítás neve">
+<!ENTITY prefs.tree.value.label "Érték">
+
+<!ENTITY prefs.ctx.remove.label "Eltávolítás">
+<!ENTITY prefs.ctx.remove.accesskey "E">
+<!ENTITY prefs.ctx.selectAll.label "Minden kijelölése">
+<!ENTITY prefs.ctx.selectAll.accesskey "d">
+
+<!ENTITY prefs.button.remove.label "Eltávolítás">
+<!ENTITY prefs.button.remove.accesskey "E">
+<!-- passwords -->
+
+<!ENTITY pwd.description "Ehhez a tartományhoz következő jelszavak kerültek eltárolásra:">
+
+<!ENTITY pwd.tree.host.label "Webhely ">
+<!ENTITY pwd.tree.username.label "Felhasználónév">
+<!ENTITY pwd.tree.password.label "Jelszó">
+
+<!ENTITY pwd.ctx.remove.label "Eltávolítás">
+<!ENTITY pwd.ctx.remove.accesskey "E">
+<!ENTITY pwd.ctx.copyPasswordCmd.label "Jelszó másolása">
+<!ENTITY pwd.ctx.copyPasswordCmd.accesskey "J">
+<!ENTITY pwd.ctx.selectAll.label "Minden kijelölése">
+<!ENTITY pwd.ctx.selectAll.accesskey "d">
+
+<!ENTITY pwd.button.remove.label "Eltávolítás">
+<!ENTITY pwd.button.remove.accesskey "E">
+<!-- form data -->
+
+<!ENTITY fdata.search.placeholder "Űrlapadatok keresése">
+
+<!ENTITY fdata.tree.fieldname.label "Mezőnév">
+<!ENTITY fdata.tree.value.label "Érték">
+<!ENTITY fdata.tree.usecount.label "Használva">
+<!ENTITY fdata.tree.firstused.label "Első használat">
+<!ENTITY fdata.tree.lastused.label "Utolsó használat">
+
+<!ENTITY fdata.ctx.remove.label "Eltávolítás">
+<!ENTITY fdata.ctx.remove.accesskey "E">
+<!ENTITY fdata.ctx.selectAll.label "Minden kijelölése">
+<!ENTITY fdata.ctx.selectAll.accesskey "d">
+
+<!ENTITY fdata.button.remove.label "Eltávolítás">
+<!ENTITY fdata.button.remove.accesskey "E">
+<!-- forget -->
+
+<!ENTITY forget.cookies.label "Sütik">
+<!ENTITY forget.cookies.accesskey "S">
+<!ENTITY forget.permissions.label "Engedélyek">
+<!ENTITY forget.permissions.accesskey "E">
+<!ENTITY forget.preferences.label "Tartalmi beállítások">
+<!ENTITY forget.preferences.accesskey "T">
+<!ENTITY forget.passwords.label "Jelszavak">
+<!ENTITY forget.passwords.accesskey "J">
+<!ENTITY forget.formdata.label "Űrlapadatok">
+<!ENTITY forget.formdata.accesskey "d">
+
+<!ENTITY forget.button.label "Adat elfelejtése">
+<!ENTITY forget.button.accesskey "f">

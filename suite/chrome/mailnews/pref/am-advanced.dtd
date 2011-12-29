@@ -16,5 +16,5 @@
 <!ENTITY serverName.label "Kiszolgáló: ">
 <!ENTITY serverPort.label "Port: ">
 <!ENTITY userName.label "Felhasználói név: ">
-<!ENTITY connectionSecurity.label "Connection Security: ">
-<!ENTITY authMethod.label "Authentication method: ">
+<!ENTITY connectionSecurity.label "Kapcsolat biztonsága: ">
+<!ENTITY authMethod.label "Hitelesítési módszer: ">

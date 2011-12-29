@@ -43,14 +43,14 @@
 <!ENTITY titleSeparator.label " - ">
 <!-- tabmail -->
 
-<!ENTITY tabmailClose.label "Close Tab">
-<!ENTITY tabmailClose.tooltip "Close tab">
-<!ENTITY tabmailNewButton.tooltip "Duplicate current tab">
-<!ENTITY tabmailCloseButton.tooltip "Close current tab">
-<!ENTITY tabmailAllTabs.tooltip "List all tabs">
+<!ENTITY tabmailClose.label "Lap bezárása">
+<!ENTITY tabmailClose.tooltip "Lap bezárása">
+<!ENTITY tabmailNewButton.tooltip "Aktuális lap duplikálása">
+<!ENTITY tabmailCloseButton.tooltip "Aktuális lap bezárása">
+<!ENTITY tabmailAllTabs.tooltip "Lapok listája">
 <!-- menu items:  the . means that the menu item isn't implemented yet -->
-<!-- File menu items -->
 
+<!-- File menu items -->
 
 <!ENTITY newMessage.label "Új üzenet">
 <!ENTITY newMessage.accesskey "z">
@@ -58,10 +58,10 @@
 <!ENTITY newFolderCmd.accesskey "M">
 <!ENTITY newVirtualFolderCmd.label "Mentett keresés…">
 <!ENTITY newVirtualFolderCmd.accesskey "k">
-<!ENTITY newTabCmd.label "Duplicate Tab">
+<!ENTITY newTabCmd.label "Lap duplikálása">
 <!ENTITY newTabCmd.accesskey "T">
 <!ENTITY newTabCmd.key "t">
-<!ENTITY closeTabCmd.label "Close Tab">
+<!ENTITY closeTabCmd.label "Lap bezárása">
 <!ENTITY closeTabCmd.accesskey "e">
 <!ENTITY newAccountCmd.label "Postafiók…">
 <!ENTITY newAccountCmd.accesskey "P">
@@ -107,13 +107,7 @@
 <!ENTITY downloadSelectedCmd.accesskey "K">
 <!ENTITY downloadFlaggedCmd.label "Zászlócskával megjelölt üzenetek letöltése">
 <!ENTITY downloadFlaggedCmd.accesskey "Z">
-<!ENTITY printCmd.label "Nyomtatás…">
-<!ENTITY printCmd.accesskey "N">
-<!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Nyomtatási kép">
-<!ENTITY printPreviewCmd.accesskey "t">
-<!ENTITY printSetupCmd.label "Oldalbeállítás…">
-<!ENTITY printSetupCmd.accesskey "O">
+
 <!-- Edit Menu -->
 
 <!ENTITY deleteMsgCmd.label "Üzenet törlése">
@@ -126,8 +120,6 @@
 <!ENTITY deleteMsgsCmd.accesskey "i">
 <!ENTITY undeleteMsgsCmd.label "Kijelölt üzenetek visszaállítása">
 <!ENTITY undeleteMsgsCmd.accesskey "l">
-<!ENTITY cancelNewsMsgsCmd.label "Kijelölt üzenetek érvénytelenítése">
-<!ENTITY cancelNewsMsgsCmd.accesskey "t">
 <!ENTITY deleteFolderCmd.label "Mappa törlése">
 <!ENTITY deleteFolderCmd.accesskey "l">
 <!ENTITY unsubscribeNewsgroupCmd.label "Leiratkozás">
@@ -144,7 +136,7 @@
 <!ENTITY folderPropsNewsgroupCmd.label "Hírcsoport tulajdonságai…">
 <!ENTITY folderPropsCmd.accesskey "T">
 <!ENTITY accountManagerCmd.label "Postafiókok beállításai…">
-<!ENTITY accountManagerCmd.accesskey "M">
+<!ENTITY accountManagerCmd.accesskey "P">
 <!ENTITY undoDeleteMsgCmd.label "Üzenettörlés visszavonása">
 <!ENTITY redoDeleteMsgCmd.label "Üzenettörlés visszaállítása">
 <!ENTITY undoMoveMsgCmd.label "Üzenetáthelyezés visszavonása">
@@ -172,7 +164,7 @@
 <!ENTITY messagePaneVertical.accesskey "F">
 <!ENTITY showMessagePaneCmd.label "Üzenetablak">
 <!ENTITY showMessagePaneCmd.accesskey "z">
-<!ENTITY showThreadPaneCmd.label "Thread Pane">
+<!ENTITY showThreadPaneCmd.label "Témacsoport-ablak">
 <!ENTITY showThreadPaneCmd.accesskey "T">
 <!ENTITY showFolderPaneCmd.label "Mappa ablaktábla">
 <!ENTITY showFolderPaneCmd.accesskey "M">
@@ -254,15 +246,17 @@
 <!ENTITY bodySanitized.accesskey "E">
 <!ENTITY bodyAsPlaintext.label "Normál szöveg">
 <!ENTITY bodyAsPlaintext.accesskey "s">
+<!ENTITY bodyAllParts.label "Minden elem a levéltörzsből">
+<!ENTITY bodyAllParts.accesskey "M">
 
-<!ENTITY bodyMenuFeed.label "Feed Message Body As">
-<!ENTITY bodyMenuFeed.accesskey "B">
-<!ENTITY viewFeedWebPage.label "Web Page">
+<!ENTITY bodyMenuFeed.label "Hír üzenettörzse, mint">
+<!ENTITY bodyMenuFeed.accesskey "H">
+<!ENTITY viewFeedWebPage.label "Weboldal">
 <!ENTITY viewFeedWebPage.accesskey "W">
-<!ENTITY viewFeedSummary.label "Summary">
-<!ENTITY viewFeedSummary.accesskey "m">
-<!ENTITY viewFeedSummaryFeedPropsPref.label "Default Format">
-<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "D">
+<!ENTITY viewFeedSummary.label "Összefoglaló">
+<!ENTITY viewFeedSummary.accesskey "s">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "Alapértelmezett formátum">
+<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "A">
 
 <!ENTITY viewAttachmentsInlineCmd.label "Melléklet megtekintése belül">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "M">
@@ -275,16 +269,7 @@
 <!ENTITY pageSourceCmd.key "u">
 
 <!ENTITY findCmd.label "Keresés ebben az üzenetben…">
-<!ENTITY findCmd.accesskey "K">
-<!ENTITY findCmd.key "f">
-<!ENTITY findAgainCmd.label "Következő keresése">
-<!ENTITY findAgainCmd.accesskey "K">
-<!ENTITY findAgainCmd.key "K">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Előző keresése">
-<!ENTITY findPrevCmd.accesskey "E">
-<!ENTITY findPrevCmd.key "E">
-<!ENTITY findPrevCmd.key2 "VK_F3">
+
 <!-- Go Menu -->
 
 
@@ -312,13 +297,13 @@
 <!ENTITY prevUnreadMsgCmd.accesskey "O">
 <!ENTITY prevUnreadMsgCmd.key "l">
 <!ENTITY goBackCmd.label "Vissza">
-<!ENTITY goBackCmd.accesskey "B">
+<!ENTITY goBackCmd.accesskey "V">
 <!ENTITY goBackCmd.commandKey "V">
 <!ENTITY goForwardCmd.label "Előre">
-<!ENTITY goForwardCmd.accesskey "F">
+<!ENTITY goForwardCmd.accesskey "E">
 <!ENTITY goForwardCmd.commandKey "E">
 <!ENTITY prevFlaggedMsgCmd.label "Zászlócskával megjelölt üzenet">
-<!ENTITY prevFlaggedMsgCmd.accesskey "F">
+<!ENTITY prevFlaggedMsgCmd.accesskey "Z">
 <!ENTITY startPageCmd.label "Levelező kezdőoldala">
 <!ENTITY startPageCmd.accesskey "k">
 <!-- Message Menu -->
@@ -385,21 +370,8 @@
 <!ENTITY tagMenu.accesskey "C">
 <!ENTITY tagCustomize.label "Testreszabás…">
 <!ENTITY tagCustomize.accesskey "T">
-<!ENTITY tagCmd0.key "0">
-<!ENTITY tagCmd1.key "1">
-<!ENTITY tagCmd2.key "2">
-<!ENTITY tagCmd3.key "3">
-<!ENTITY tagCmd4.key "4">
-<!ENTITY tagCmd5.key "5">
-<!ENTITY tagCmd6.key "6">
-<!ENTITY tagCmd7.key "7">
-<!ENTITY tagCmd8.key "8">
-<!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Megjelölés">
 <!ENTITY markMenu.accesskey "M">
-<!ENTITY markAsReadCmd.label "Olvasottként">
-<!ENTITY markAsReadCmd.accesskey "O">
-<!ENTITY markAsReadCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "Olvasott témacsoportként">
 <!ENTITY markThreadAsReadCmd.accesskey "t">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -409,33 +381,27 @@
 <!ENTITY markAllReadCmd.label "Mindet olvasottként">
 <!ENTITY markAllReadCmd.accesskey "M">
 <!ENTITY markAllReadCmd.key "c">
-<!ENTITY markFlaggedCmd.label "Zászlócska">
-<!ENTITY markFlaggedCmd.accesskey "Z">
-<!ENTITY markFlaggedCmd.key "i">
 <!ENTITY markAsJunkCmd.label "Szemétként">
 <!ENTITY markAsJunkCmd.accesskey "S">
 <!ENTITY markAsJunkCmd.key "j">
 <!ENTITY markAsNotJunkCmd.label "Nem szemétként">
 <!ENTITY markAsNotJunkCmd.accesskey "N">
 <!ENTITY markAsNotJunkCmd.key "j">
-<!ENTITY recalculateJunkScoreCmd.label "Távoli tartalom megjelenítése">
-<!ENTITY recalculateJunkScoreCmd.accesskey "T">
+<!ENTITY recalculateJunkScoreCmd.label "Levélszemétgyűjtő futtatása">
+<!ENTITY recalculateJunkScoreCmd.accesskey "L">
 <!ENTITY markAsShowRemoteCmd.label "Távoli tartalom megjelenítése">
 <!ENTITY markAsShowRemoteCmd.accesskey "T">
 <!ENTITY markAsShowRemoteCmd.key "r">
 <!ENTITY markAsNotPhishCmd.label "Nem becsapás">
 <!ENTITY markAsNotPhishCmd.accesskey "b">
 <!ENTITY markAsNotPhishCmd.key "p">
-<!ENTITY openMessageWindowCmd.label "Üzenet megnyitása">
-<!ENTITY openMessageWindowCmd.accesskey "m">
-<!ENTITY openMessageWindowCmd.key "o">
-<!ENTITY openFeedMessage.label "Open Feed Message">
-<!ENTITY openFeedMessage.accesskey "O">
-<!ENTITY openFeedWebPageInWindow.label "Web Page in New Window">
+<!ENTITY openFeedMessage.label "Hír megnyitása">
+<!ENTITY openFeedMessage.accesskey "H">
+<!ENTITY openFeedWebPageInWindow.label "Weboldal új ablakban">
 <!ENTITY openFeedWebPageInWindow.accesskey "W">
-<!ENTITY openFeedSummaryInWindow.label "Summary in New Window">
+<!ENTITY openFeedSummaryInWindow.label "Összefoglaló új ablakban">
 <!ENTITY openFeedSummaryInWindow.accesskey "S">
-<!ENTITY openFeedWebPageInMP.label "Toggle Web Page and Summary in Message Pane">
+<!ENTITY openFeedWebPageInMP.label "Weboldal és összefoglaló közötti váltás az üzenet ablaktábláján">
 <!ENTITY openFeedWebPageInMP.accesskey "T">
 <!-- Tools Menu -->
 
@@ -467,10 +433,10 @@
 
 <!ENTITY getMsgButton.label "Letöltés">
 <!ENTITY newMsgButton.label "Új üzenet">
-<!ENTITY newHTMLMessageCmd.label "Compose in HTML">
+<!ENTITY newHTMLMessageCmd.label "Új HTML szöveg üzenet">
 <!ENTITY newHTMLMessageCmd.accesskey "H">
-<!ENTITY newPlainTextMessageCmd.label "Compose in Plain Text">
-<!ENTITY newPlainTextMessageCmd.accesskey "P">
+<!ENTITY newPlainTextMessageCmd.label "Új normál szöveg üzenet">
+<!ENTITY newPlainTextMessageCmd.accesskey "n">
 <!ENTITY replyButton.label "Válasz">
 <!ENTITY replyAllButton.label "Válasz mindenkinek">
 <!ENTITY forwardButton.label "Továbbítás">
@@ -485,12 +451,12 @@
 <!ENTITY stopButton.label "Leállítás">
 <!ENTITY junkButton.label "Szemét">
 <!ENTITY notJunkButton.label "Nem szemét">
-<!ENTITY searchButton.title "Advanced Search">
+<!ENTITY searchButton.title "Keresés">
 <!-- Tooltips -->
 
 <!ENTITY menuBar.tooltip "Menüsor">
 <!ENTITY mailToolbar.tooltip "Hely eszköztár">
-<!ENTITY searchToolbar.tooltip "Search Bar">
+<!ENTITY searchToolbar.tooltip "Keresősáv">
 <!ENTITY advancedButton.tooltip "Keresés az üzenetekben…">
 <!ENTITY getMsgButton.tooltip "Új üzenetek letöltése">
 <!ENTITY newMsgButton.tooltip "Új üzenet létrehozása">
@@ -503,7 +469,7 @@
 <!ENTITY goBackButton.tooltip "Ugrás egy üzenettel hátra">
 <!ENTITY goForwardButton.tooltip "Ugrás egy üzenettel előre">
 <!ENTITY deleteButton.tooltip "A kijelölt üzenet vagy mappa törlése">
-<!ENTITY undeleteButton.tooltip "Undelete selected message">
+<!ENTITY undeleteButton.tooltip "Visszaállítás">
 <!ENTITY markButton.tooltip "Az üzenet megjelölése">
 <!ENTITY printButton.tooltip "Az üzenet kinyomtatása">
 <!ENTITY stopButton.tooltip "Átvitel megszakítása">
@@ -517,7 +483,7 @@
 
 <!ENTITY contextOpenNewWindow.label "Üzenet megnyitása új ablakban">
 <!ENTITY contextOpenNewWindow.accesskey "a">
-<!ENTITY contextOpenNewTab.label "Open Message in New Tab">
+<!ENTITY contextOpenNewTab.label "Üzenet megnyitása új lapon">
 <!ENTITY contextOpenNewTab.accesskey "T">
 <!ENTITY contextEditAsNew.label "Szerkesztés újként…">
 <!ENTITY contextEditAsNew.accesskey "z">
@@ -553,7 +519,7 @@
 <!ENTITY folderContextGetMessages.accesskey "z">
 <!ENTITY folderContextOpenNewWindow.label "Megnyitása új levelezőablakban">
 <!ENTITY folderContextOpenNewWindow.accesskey "l">
-<!ENTITY folderContextOpenNewTab.label "Open in New Tab">
+<!ENTITY folderContextOpenNewTab.label "Megnyitás új lapon">
 <!ENTITY folderContextOpenNewTab.accesskey "T">
 <!ENTITY folderContextRename.label "Átnevezés">
 <!ENTITY folderContextRename.accesskey "n">
@@ -588,8 +554,8 @@
 <!ENTITY focusSearchInput.key "k">
 <!ENTITY advancedButton.label "Haladó…">
 <!ENTITY advancedButton.accesskey "H">
-<!ENTITY searchButton.label "Search Messages…">
-<!ENTITY searchButton.accesskey "S">
+<!ENTITY searchButton.label "Keresés…">
+<!ENTITY searchButton.accesskey "K">
 
 <!ENTITY all.label "Mind">
 <!ENTITY all.accesskey "M">
@@ -608,6 +574,6 @@
 <!ENTITY removePhishingBarButton.label "Nem az">
 <!-- MDN Bar -->
 
-<!ENTITY mdnBarMessage.label "The sender of this message has asked to be notified when you read this message. Do you wish to notify the sender?">
-<!ENTITY mdnBarIgnoreButton.label "Ignore Request">
-<!ENTITY mdnBarSendButton.label "Send Receipt">
+<!ENTITY mdnBarMessage.label "Az üzenet küldője értesítést kér, hogy Ön átvette-e az üzenetét. Értesíti a küldőt üzenetének átvételéről?">
+<!ENTITY mdnBarIgnoreButton.label "Nincs értesítés">
+<!ENTITY mdnBarSendButton.label "Értesítés küldése">

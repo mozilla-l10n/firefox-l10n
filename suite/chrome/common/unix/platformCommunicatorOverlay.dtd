@@ -9,12 +9,12 @@
 <!ENTITY quitApplicationCmd.key "Q">
 <!ENTITY quitApplicationCmd.accesskey "K">
 
-<!ENTITY redoCmd.label "Újra">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "r">
 
+<!ENTITY findCmd.key2 "VK_F19">
 <!ENTITY findTypeTextCmd.key "/">
 <!ENTITY findTypeLinksCmd.key "'">
+<!ENTITY findCmd.key2 "VK_F19">
 
 <!ENTITY accel.emacs_conflict "accel,shift">
 <!-- Help viewer -->

@@ -6,19 +6,11 @@
 <!ENTITY tabNavigationForms.accesskey "G">
 <!ENTITY tabNavigationTextboxes.label "Megjegyzés: a szövegmezők és a gördíthető régiók mindig részei a bejárási sorrendnek.">
 <!ENTITY tabNavigationDesc.label "A Tab vagy a Shift+Tab lenyomására mozogjon a következők között:">
-<!ENTITY findAsYouTypeBehavior.label "Gépelőkeresés">
-<!ENTITY findAsYouTypeTip.label "Ötlet: A gépelőkeresés kézi indításához gépeljen be egy / jelet a szöveg, illetve egy ' jelet a hivatkozások kereséséhez, majd írja be a keresendő szöveget.">
-<!ENTITY findAsYouTypeTimeout.label "Az aktuális keresés törlése néhány másodperc tétlenség után">
-<!ENTITY findAsYouTypeTimeout.accesskey "t">
-<!ENTITY findAsYouTypeSound.label "Hangjelzés, ha a szöveg nem található">
-<!ENTITY findAsYouTypeSound.accesskey "H">
-<!ENTITY findAsYouTypeEnableAuto.label "Automatikus keresés egy weboldalon gépeléskor:">
-<!ENTITY findAsYouTypeEnableAuto.accesskey "A">
-<!ENTITY findAsYouTypeAutoText.label "Az oldal teljes szövegében">
-<!ENTITY findAsYouTypeAutoText.accesskey "A">
-<!ENTITY findAsYouTypeAutoLinks.label "Csak a hivatkozásokban">
-<!ENTITY findAsYouTypeAutoLinks.accesskey "C">
-
-<!ENTITY findAsYouTypeFindbarEnable.label "Show the find toolbar during find as you type">
-<!ENTITY findAsYouTypeFindbarEnable.accesskey "S">
-<!ENTITY findAsYouTypeFindbarEnableTip.label "Note: Find as you type without showing the findbar does not allow international text entry.">
+<!ENTITY accessibilityBrowseWithCaret.label "Kurzoros böngészés">
+<!ENTITY browseWithCaretDesc.label "Ebben az üzemmódban egy mozgatható kurzor jelenik meg a weboldalakon, lehetővé téve a szöveg kijelölését a billentyűzettel.">
+<!ENTITY browseWithCaretUse.label "Kurzoros böngészés használata">
+<!ENTITY browseWithCaretUse.accesskey "u">
+<!ENTITY browseWithCaretShortCut.label "Az F7 gomb kapcsolja be, illetve ki a kurzoros böngészést.">
+<!ENTITY browseWithCaretShortCut.accesskey "k">
+<!ENTITY browseWithCaretWarn.label "Figyelmeztetés, a kurzoros böngészés bekapcsolásakor">
+<!ENTITY browseWithCaretWarn.accesskey "F">
