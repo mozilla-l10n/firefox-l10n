@@ -41,7 +41,6 @@
 <!ENTITY editRewrapCmd.label "Újratördelés">
 <!ENTITY editRewrapCmd.key "j">
 <!ENTITY editRewrapCmd.accesskey "r">
-<!ENTITY findCmd.label "Keresés és csere...">
 <!ENTITY accountManagerCmd.label "Postafiókok beállításai...">
 <!ENTITY accountManagerCmd.accesskey "P">
 <!-- View menu items -->
@@ -64,11 +63,6 @@
 <!ENTITY selectAddressCmd.label "Címek kiválasztása...">
 <!ENTITY selectAddressCmd.key "">
 <!ENTITY selectAddressCmd.accesskey "C">
-
-<!ENTITY checkSpellingCmd2.label "Helyesírás-ellenőrzés…">
-<!ENTITY checkSpellingCmd2.accesskey "h">
-<!ENTITY enableInlineSpellChecker.label "Helyesírás-ellenőrzés írás közben">
-<!ENTITY enableInlineSpellChecker.accesskey "e">
 
 <!ENTITY priorityMenu.label "Sürgősség">
 <!ENTITY priorityMenu.accesskey "S">
