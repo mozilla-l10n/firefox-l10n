@@ -20,8 +20,6 @@
 <!ENTITY selectSound.accesskey "k">
 <!ENTITY playSoundButton.label "Lejátszás">
 <!ENTITY playSoundButton.accesskey "L">
-<!ENTITY selectSound.title "Felugró ablak blokkolásának hangja">
-<!ENTITY selectSound.filter "Hangok">
 
 <!ENTITY displayIcon.label "Ikon megjelenítése a böngészőablak állapotsorában">
 <!ENTITY displayIcon.accesskey "I">

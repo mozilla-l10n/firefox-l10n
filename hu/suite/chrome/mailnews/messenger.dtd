@@ -49,8 +49,8 @@
 <!ENTITY tabmailCloseButton.tooltip "Aktuális lap bezárása">
 <!ENTITY tabmailAllTabs.tooltip "Lapok listája">
 <!-- menu items:  the . means that the menu item isn't implemented yet -->
-<!-- File menu items -->
 
+<!-- File menu items -->
 
 <!ENTITY newMessage.label "Új üzenet">
 <!ENTITY newMessage.accesskey "z">
@@ -107,13 +107,7 @@
 <!ENTITY downloadSelectedCmd.accesskey "K">
 <!ENTITY downloadFlaggedCmd.label "Zászlócskával megjelölt üzenetek letöltése">
 <!ENTITY downloadFlaggedCmd.accesskey "Z">
-<!ENTITY printCmd.label "Nyomtatás…">
-<!ENTITY printCmd.accesskey "N">
-<!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "Nyomtatási kép">
-<!ENTITY printPreviewCmd.accesskey "t">
-<!ENTITY printSetupCmd.label "Oldalbeállítás…">
-<!ENTITY printSetupCmd.accesskey "O">
+
 <!-- Edit Menu -->
 
 <!ENTITY deleteMsgCmd.label "Üzenet törlése">
@@ -252,6 +246,8 @@
 <!ENTITY bodySanitized.accesskey "E">
 <!ENTITY bodyAsPlaintext.label "Normál szöveg">
 <!ENTITY bodyAsPlaintext.accesskey "s">
+<!ENTITY bodyAllParts.label "Minden elem a levéltörzsből">
+<!ENTITY bodyAllParts.accesskey "M">
 
 <!ENTITY bodyMenuFeed.label "Hír üzenettörzse, mint">
 <!ENTITY bodyMenuFeed.accesskey "H">
@@ -273,16 +269,7 @@
 <!ENTITY pageSourceCmd.key "u">
 
 <!ENTITY findCmd.label "Keresés ebben az üzenetben…">
-<!ENTITY findCmd.accesskey "K">
-<!ENTITY findCmd.key "f">
-<!ENTITY findAgainCmd.label "Következő keresése">
-<!ENTITY findAgainCmd.accesskey "K">
-<!ENTITY findAgainCmd.key "K">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Előző keresése">
-<!ENTITY findPrevCmd.accesskey "E">
-<!ENTITY findPrevCmd.key "E">
-<!ENTITY findPrevCmd.key2 "VK_F3">
+
 <!-- Go Menu -->
 
 
@@ -383,21 +370,8 @@
 <!ENTITY tagMenu.accesskey "C">
 <!ENTITY tagCustomize.label "Testreszabás…">
 <!ENTITY tagCustomize.accesskey "T">
-<!ENTITY tagCmd0.key "0">
-<!ENTITY tagCmd1.key "1">
-<!ENTITY tagCmd2.key "2">
-<!ENTITY tagCmd3.key "3">
-<!ENTITY tagCmd4.key "4">
-<!ENTITY tagCmd5.key "5">
-<!ENTITY tagCmd6.key "6">
-<!ENTITY tagCmd7.key "7">
-<!ENTITY tagCmd8.key "8">
-<!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Megjelölés">
 <!ENTITY markMenu.accesskey "M">
-<!ENTITY markAsReadCmd.label "Olvasottként">
-<!ENTITY markAsReadCmd.accesskey "O">
-<!ENTITY markAsReadCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "Olvasott témacsoportként">
 <!ENTITY markThreadAsReadCmd.accesskey "t">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -407,9 +381,6 @@
 <!ENTITY markAllReadCmd.label "Mindet olvasottként">
 <!ENTITY markAllReadCmd.accesskey "M">
 <!ENTITY markAllReadCmd.key "c">
-<!ENTITY markFlaggedCmd.label "Zászlócska">
-<!ENTITY markFlaggedCmd.accesskey "Z">
-<!ENTITY markFlaggedCmd.key "i">
 <!ENTITY markAsJunkCmd.label "Szemétként">
 <!ENTITY markAsJunkCmd.accesskey "S">
 <!ENTITY markAsJunkCmd.key "j">
@@ -424,9 +395,6 @@
 <!ENTITY markAsNotPhishCmd.label "Nem becsapás">
 <!ENTITY markAsNotPhishCmd.accesskey "b">
 <!ENTITY markAsNotPhishCmd.key "p">
-<!ENTITY openMessageWindowCmd.label "Üzenet megnyitása">
-<!ENTITY openMessageWindowCmd.accesskey "m">
-<!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY openFeedMessage.label "Hír megnyitása">
 <!ENTITY openFeedMessage.accesskey "H">
 <!ENTITY openFeedWebPageInWindow.label "Weboldal új ablakban">

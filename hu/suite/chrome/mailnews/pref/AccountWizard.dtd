@@ -5,9 +5,10 @@
 <!-- Entities for Account Type page -->
 
 
-<!ENTITY accountSetupInfo.label "Mielőtt üzeneteket kaphatna, először be kell állítani egy levelező postafiókot vagy hírcsoportfiókot.">
+<!ENTITY accountSetupInfo2.label "Mielőtt üzeneteket kaphatna, először be kell állítania egy postafiókot.">
 <!ENTITY accountTypeTitle.label "Új postafiók beállítása">
-<!ENTITY accountTypeDesc.label "Ez a varázsló a levelező postafiókok és hírcsoportfiókok beállításához szükséges információkat gyűjti össze. Ha nem tud válaszolni a feltett kérdésekre, lépjen kapcsolatba a rendszergazdával vagy az internetszolgáltatójával.">
+<!ENTITY accountTypeDesc2.label "Ez a varázsló a postafiókok beállításához szükséges információkat gyűjti össze. Ha nem tud válaszolni a feltett kérdésekre, lépjen kapcsolatba a
+ rendszergazdával vagy az internetszolgáltatójával.">
 <!ENTITY accountTypeDirections.label "Válassza ki a beállítandó postafiók típusát:">
 <!ENTITY accountTypeMail.label "Levelező postafiók">
 <!ENTITY accountTypeMail.accesskey "L">
@@ -54,6 +55,9 @@
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
+<!ENTITY leaveMsgsOnSrvr.label "Üzenetek megtartása a kiszolgálón">
+<!ENTITY leaveMsgsOnSrvr.accesskey "m">
+
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
