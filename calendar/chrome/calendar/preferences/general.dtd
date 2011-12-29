@@ -49,3 +49,7 @@
 <!ENTITY pref.defaultlength.accesskey "l">
 <!ENTITY pref.defaultsnoozelength.label "Standardlängd för avvisning:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "S">
+
+<!ENTITY pref.accessibility.label "Tillgänglighet" >
+<!ENTITY pref.systemcolors.label "Optimera färger för tillgänglighet" >
+<!ENTITY pref.systemcolors.accesskey "O">

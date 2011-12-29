@@ -78,8 +78,10 @@
 <!ENTITY lightning.toolbar.mail.label         "E-post">
 <!ENTITY lightning.toolbar.mail.accesskey     "E">
 <!ENTITY lightning.toolbar.calendar.label     "Kalender">
+<!ENTITY lightning.toolbar.calendar.tooltip   "Växla till fliken kalender">
 <!ENTITY lightning.toolbar.calendar.accesskey "K">
 <!ENTITY lightning.toolbar.task.label         "Uppgifter">
+<!ENTITY lightning.toolbar.task.tooltip       "Växla till fliken uppgifter">
 <!ENTITY lightning.toolbar.task.accesskey     "U">
 
 <!-- Toolbar write button -->
