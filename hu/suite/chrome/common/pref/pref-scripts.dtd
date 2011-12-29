@@ -19,6 +19,6 @@
 
 <!ENTITY enablePlugin.label "Bővítmények engedélyezése">
 
-<!ENTITY whenPluginsRequired.label "When additional plugins are required">
+<!ENTITY whenPluginsRequired.label "Amennyiben további Bővítmény telepítése szükséges">
 <!ENTITY displayNotification.label "Értesítés megjelenítése az ablak tetején">
 <!ENTITY displayNotification.accesskey "m">

@@ -33,7 +33,7 @@
 <!ENTITY place.accesskey "h">
 <!ENTITY belowText.label "az idézet alá (javasolt)">
 <!ENTITY aboveText.label "a válasz alá (az idézet fölé)">
-<!ENTITY includeSigOnReply.label "Include signature for replies">
-<!ENTITY includeSigOnReply.accesskey "s">
-<!ENTITY includeSigOnForward.label "Include signature for forwards">
-<!ENTITY includeSigOnForward.accesskey "w">
+<!ENTITY includeSigOnReply.label "Aláírás a válaszoknál">
+<!ENTITY includeSigOnReply.accesskey "v">
+<!ENTITY includeSigOnForward.label "Aláírás a továbbításoknál">
+<!ENTITY includeSigOnForward.accesskey "t">

@@ -2,8 +2,8 @@
 
 <!ENTITY pref.history.caption "A böngészés előzményei">
 <!ENTITY historyPages.label "Az előzmények mappája a felkeresett lapokra mutató hivatkozásokat tartalmazza.">
-<!ENTITY enableHistory.label "Remember visited pages">
-<!ENTITY enableHistory.accesskey "R">
+<!ENTITY enableHistory.label "Látogatott weboldalak megjegyzése">
+<!ENTITY enableHistory.accesskey "L">
 <!ENTITY clearHistory.label "Előzmények törlése">
 <!ENTITY clearHistory.accesskey "E">
 
@@ -11,9 +11,9 @@
 <!ENTITY clearLocationBar.label "A címmezőben tárolt oldalak listájának ürítése.">
 <!ENTITY clearLocationBarButton.label "Előzmények törlése">
 <!ENTITY clearLocationBarButton.accesskey "k">
-<!ENTITY formfillHistory.caption "Form and Search History">
-<!ENTITY enableFormfill.label "Enable form and search history">
+<!ENTITY formfillHistory.caption "Mentett űrlapadatok és keresési előzmények">
+<!ENTITY enableFormfill.label "Űrlapadatok és keresési előzmények">
 <!ENTITY enableFormfill.accesskey "n">
-<!ENTITY formfillExpire.label "Remember form and search history for up to">
-<!ENTITY formfillExpire.accesskey "f">
-<!ENTITY formfillDays.label "days">
+<!ENTITY formfillExpire.label "Űrlapadatok és keresési előzmények megőrzése">
+<!ENTITY formfillExpire.accesskey "r">
+<!ENTITY formfillDays.label "napig">

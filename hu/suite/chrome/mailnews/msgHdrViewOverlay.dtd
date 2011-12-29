@@ -57,10 +57,10 @@
 <!ENTITY originalWebsite.label "Webhely: ">
 
 <!ENTITY editMessage.label "Piszkozat szerkesztése...">
-<!ENTITY editMessage.accesskey "D">
+<!ENTITY editMessage.accesskey "P">
 
 <!ENTITY attachmentsTree.label "Mellékletek:">
-<!ENTITY attachmentsTree.accesskey "c">
+<!ENTITY attachmentsTree.accesskey "M">
 <!ENTITY openAttachmentCmd.label "Megnyitás">
 <!ENTITY openAttachmentCmd.accesskey "M">
 <!ENTITY viewAttachmentCmd.label "Forrás megtekintése">

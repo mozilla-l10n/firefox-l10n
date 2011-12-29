@@ -31,4 +31,4 @@
 <!ENTITY Diskspace "Lemezterület">
 <!ENTITY offlineCompact.label "Mappák tömörítése, ha a megtakarított hely több lenne, mint">
 <!ENTITY offlineCompact.accesskey "t">
-<!ENTITY kb.label "KB">
+<!ENTITY mb.label "MB">

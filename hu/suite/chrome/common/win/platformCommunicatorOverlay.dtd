@@ -10,9 +10,7 @@
 <!ENTITY quitApplicationCmd.key "Q">
 <!ENTITY quitApplicationCmd.accesskey "K">
 
-<!ENTITY redoCmd.label "Újra">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "r">
 
 <!ENTITY findTypeTextCmd.key "/">
 <!ENTITY findTypeLinksCmd.key "'">
@@ -27,8 +25,8 @@
 <!ENTITY helpForIEUsers.accesskey "I">
 <!-- LOCALIZATION NOTE some localizations need to change the
                        "Help" menu label on Windows -->
-<!ENTITY helpMenu.label "Help">
-<!ENTITY helpMenu.accesskey "H">
+<!ENTITY helpMenu.label "Súgó">
+<!ENTITY helpMenu.accesskey "S">
 <!-- Key labels, for mousewheel prefs -->
 
 <!ENTITY ctrlKey.label "Ctrl">

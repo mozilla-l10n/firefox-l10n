@@ -1,32 +1,29 @@
 <!--LOCALIZATION NOTE : FILE UI for Software Updates prefs -->
 <!ENTITY pref.smartUpdate.title "Szoftvertelepítés">
-<!ENTITY smartTitle.label "Szoftvertelepítések és frissítések kezelése">
-<!ENTITY enableSU.label "Szoftvertelepítés engedélyezése. (Minden frissítés előtt figyelmeztető ablak jenik meg.)">
-<!ENTITY enableSU.accesskey "S">
-<!ENTITY allowedSites.label "Engedélyezett webhelyek">
-<!ENTITY allowedSites.accesskey "w">
-
-<!ENTITY verifyUpdates.caption "Frissítések">
-<!ENTITY autoUpdates.label "Frissítések automatikus keresése:">
-<!ENTITY appUpdates.label "&brandShortName;">
-<!ENTITY appUpdates.accesskey "S">
+<!ENTITY addOnsTitle.label "Kiegészítők">
+<!ENTITY addOnsAllow.label "Kiegészítők telepítésének és frissítésének engedélyezése a webhely számára">
+<!ENTITY addOnsAllow.accesskey "e">
+<!ENTITY allowedSitesLink.label "Engedélyezett webhelyek">
+<!ENTITY autoAddOnsUpdates.label "Frissítések automatikus keresése">
+<!ENTITY autoAddOnsUpdates.accesskey "F">
 <!ENTITY daily.label "naponta">
-<!ENTITY appDaily.accesskey "n">
+<!ENTITY addOnsDaily.accesskey "n">
 <!ENTITY weekly.label "hetente">
-<!ENTITY appWeekly.accesskey "h">
-<!ENTITY extensionsUpdates.label "Telepített kiegészítők">
-<!ENTITY extensionsUpdates.accesskey "T">
-<!ENTITY extensionsDaily.accesskey "n">
-<!ENTITY extensionsWeekly.accesskey "h">
-<!ENTITY addonManagerButton.label "Kiegészítő telepítése">
-<!ENTITY addonManagerButton.accesskey "t">
+<!ENTITY addOnsWeekly.accesskey "h">
+<!ENTITY addOnsModeAutomatic.label "Frissítések automatikus letöltése és telepítése">
+<!ENTITY addOnsModeAutomatic.accesskey "a">
+<!ENTITY enablePersonalized.label "Kiegészítők ajánlásának személyessé tétele">
+<!ENTITY enablePersonalized.accesskey "K">
+<!ENTITY addonManagerLink.label "Kiegészítők kezelése">
 
-<!ENTITY whenUpdatesFound.label "When updates to &brandShortName; are found">
-<!ENTITY askMe.label "Ask me what I want to do">
-<!ENTITY askMe.accesskey "n">
-<!ENTITY modeAutomatic.label "Automatically download and install the update">
-<!ENTITY modeAutomatic.accesskey "c">
-<!ENTITY modeAutoAddonWarn.label "Warn me if this will disable any of my add-ons">
-<!ENTITY modeAutoAddonWarn.accesskey "b">
-<!ENTITY updateHistory.label "Show Update History">
-<!ENTITY updateHistory.accesskey "u">
+<!ENTITY appUpdates.caption "&brandShortName;">
+<!ENTITY autoAppUpdates.label "Frissítések automatikus keresése">
+<!ENTITY autoAppUpdates.accesskey "k">
+<!ENTITY appDaily.accesskey "n">
+<!ENTITY appWeekly.accesskey "h">
+<!ENTITY appModeAutomatic.label "Frissítések automatikus letöltése és telepítése">
+<!ENTITY appModeAutomatic.accesskey "l">
+<!ENTITY appModeAutoAddonWarn.label "Figyelmeztetés, ha a kiegészítők elérhetetlenek lesznek emiatt">
+<!ENTITY appModeAutoAddonWarn.accesskey "F">
+<!ENTITY updateHistoryButton.label "Frissítési előzmények megjelenítése…">
+<!ENTITY updateHistoryButton.accesskey "F">

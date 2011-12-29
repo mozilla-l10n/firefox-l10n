@@ -36,14 +36,14 @@
    - ***** END LICENSE BLOCK ***** -->
 <!-- Labels -->
 
-<!ENTITY newFolderDialog.title "Új mappa">
-<!ENTITY name.label "Név:">
-<!ENTITY name.accesskey "N">
-<!ENTITY description.label "Almappa létrehozása a következőben:">
-<!ENTITY description.accesskey "A">
-<!ENTITY folderRestriction1.label "Ez a kiszolgáló a mappákat két csoportra osztja.">
-<!ENTITY folderRestriction2.label "Az új mappa tartalmazhat:">
-<!ENTITY foldersOnly.label "Csak mappákat">
-<!ENTITY messagesOnly.label "Csak üzeneteket">
-<!ENTITY accept.label "Create Folder">
-<!ENTITY accept.accesskey "r">
+<!ENTITY newFolderDialog.title      "Új mappa">
+<!ENTITY name.label                 "Név:">
+<!ENTITY name.accesskey             "n">
+<!ENTITY description.label          "Almappa létrehozása a következőben:">
+<!ENTITY description.accesskey      "A">
+<!ENTITY folderRestriction1.label   "Ez a kiszolgáló a mappákat két csoportra osztja.">
+<!ENTITY folderRestriction2.label   "Az új mappa tartalmazhat:">
+<!ENTITY foldersOnly.label          "Csak mappákat">
+<!ENTITY messagesOnly.label         "Csak üzeneteket">
+<!ENTITY accept.label               "Mappa létrehozása">
+<!ENTITY accept.accesskey           "a">

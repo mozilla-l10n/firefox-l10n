@@ -5,8 +5,8 @@
 <!ENTITY popupBlock.label "Kéretlen felugró ablakok tiltása">
 <!ENTITY popupBlock.accesskey "b">
 
-<!ENTITY popupExceptions.label "Engedélyezett webhelyek...">
-<!ENTITY popupExceptions.accesskey "k">
+<!ENTITY viewPermissions.label "Engedélyek kezelése">
+<!ENTITY viewPermissions.accesskey "k">
 
 <!ENTITY whenBlock.description "Felugró ablak blokkolásakor:">
 <!ENTITY playSound.label "Hangjelzés:">
@@ -18,10 +18,8 @@
 
 <!ENTITY selectSound.label "Kiválasztás...">
 <!ENTITY selectSound.accesskey "k">
-<!ENTITY previewSound.label "Előnézet">
-<!ENTITY previewSound.accesskey "E">
-<!ENTITY selectSound.title "Felugró ablak blokkolásának hangja">
-<!ENTITY selectSound.filter "Hangok">
+<!ENTITY playSoundButton.label "Lejátszás">
+<!ENTITY playSoundButton.accesskey "L">
 
 <!ENTITY displayIcon.label "Ikon megjelenítése a böngészőablak állapotsorában">
 <!ENTITY displayIcon.accesskey "I">

@@ -1,6 +1,6 @@
 <!--LOCALIZATION NOTE (.label): Preferences categories that appear on the left of the preferences dialog -->
-<!ENTITY prefWindow.title "Preferences">
-<!ENTITY categoryHeader "Category">
+<!ENTITY prefWindow.title "Beállítások">
+<!ENTITY categoryHeader "Kategória">
 <!ENTITY appear.label "Megjelenés">
 <!ENTITY content.label "Tartalom">
 <!ENTITY fonts.label "Betűk">
@@ -18,10 +18,11 @@
 <!ENTITY images.label "Képek">
 <!ENTITY popups.label "Felugró ablakok">
 <!ENTITY passwords.label "Passwords">
-<!ENTITY masterpass.label "Master Passwords">
+<!ENTITY masterpass.label "Mesterjelszó">
 <!ENTITY ssl.label "SSL">
-<!ENTITY certs.label "Certificates">
-<!ENTITY validation.label "Validation">
+<!ENTITY certs.label "Tanúsítványok">
+<!ENTITY validation.label "Érvényesítés">
+<!ENTITY sync.label "Szinkronizálás">
 <!ENTITY advance.label "Haladó">
 <!ENTITY down.label "Letöltés">
 <!ENTITY cache.label "Gyorsítótár">
@@ -30,6 +31,7 @@
 <!ENTITY smart.label "Szoftvertelepítés">
 <!ENTITY download.label "Letöltések">
 <!ENTITY keynav.label "Navigálás a billentyűzettel">
+<!ENTITY findAsYouType.label "Gépelőkeresés">
 <!ENTITY search.label "Internetes keresés">
 <!ENTITY policies.label "Biztonsági házirend">
 <!ENTITY mousewheel.label "Egérgörgő">
