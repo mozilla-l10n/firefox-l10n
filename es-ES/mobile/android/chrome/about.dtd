@@ -1,0 +1,12 @@
+<!ENTITY aboutPage.title "Acerca de &brandShortName;">
+<!ENTITY aboutPage.checkForUpdates.link "Buscar actualizaciones »">
+<!ENTITY aboutPage.checkForUpdates.checking "Buscando actualizaciones…">
+<!ENTITY aboutPage.checkForUpdates.none "No hay actualizaciones">
+<!ENTITY aboutPage.checkForUpdates.found "Actualización disponible">
+<!ENTITY aboutPage.faq.label "PUF">
+<!ENTITY aboutPage.support.label "Asistencia">
+<!ENTITY aboutPage.privacyPolicy.label "Política de privacidad">
+<!ENTITY aboutPage.rights.label "Conozca sus derechos">
+<!ENTITY aboutPage.relNotes.label "Notas de publicación">
+<!ENTITY aboutPage.credits.label "Créditos">
+<!ENTITY aboutPage.license.label "Información de licencia">
