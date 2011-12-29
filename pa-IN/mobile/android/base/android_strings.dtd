@@ -1,0 +1,21 @@
+<!ENTITY  splash_firstrun "&brandShortName; ਸੈਟ ਅੱਪ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ\u2026">
+<!ENTITY  no_space_to_start_error "&brandShortName; ਨੂੰ ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਘੱਟੋ-ਘੱਟ ਥਾਂ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ।">
+<!ENTITY  error_loading_file "&brandShortName; ਨੂੰ ਚਲਾਉਣ ਲਈ ਲੋੜੀਦੀਆਂ ਫਾਇਲਾਂ ਲੋਡ ਕਰਨ ਦੇ ਦੌਰਾਨ ਗਲਤੀ ਆਈ ਹੈ।">
+
+<!ENTITY  crash_reporter_title "&brandShortName; ਕਰੈਸ਼ ਰਿਪੋਰਟਰ">
+<!ENTITY  crash_message "&brandShortName; ਕਰੈਸ਼ ਹੋ ਚੁੱਕਾ ਹੈ।  ਜਦੋਂ ਤੁਸੀਂ ਮੁੜ-ਚਾਲੂ ਕਰੋਗੇ ਤਾਂ ਤੁਹਾਡੀਆਂ ਟੈਬਾਂ ਨੂੰ &brandShortName; ਸ਼ੁਰੂ ਸਫ਼ੇ ਉੱਤੇ ਵੇਖਾਇਆ ਜਾਣਾ ਚਾਹੀਦਾ ਹੈ।">
+<!ENTITY  crash_help_message "ਸਾਨੂੰ ਇਹ ਸਮੱਸਿਆ ਠੀਕ ਕਰਨ ਲਈ ਮੱਦਦ ਕਰੋ ਜੀ!">
+<!ENTITY  crash_send_report_message "ਮੋਜ਼ੀਲਾ ਨੂੰ ਕਰੈਸ਼ ਰਿਪੋਰਟ ਭੇਜੋ">
+<!ENTITY  crash_include_url "ਸਫ਼ਾ ਐਡਰੈੱਸ ਸਮੇਤ">
+<!ENTITY  crash_close_label "ਬੰਦ ਕਰੋ">
+<!ENTITY  crash_restart_label "&brandShortName; ਮੁੜ-ਚਾਲੂ ਕਰੋ">
+<!ENTITY  sending_crash_report "ਕਰੈਸ਼ ਰਿਪੋਰਟ ਭੇਜੀ ਜਾ ਰਹੀ ਹੈ\u2026">
+<!ENTITY  exit_label "ਬੰਦ ਕਰੋ">
+<!ENTITY  continue_label "ਜਾਰੀ ਰੱਖੋ">
+
+
+<!ENTITY  launcher_shortcuts_title "&brandShortName; ਵੈੱਬ ਐਪਸ">
+<!ENTITY  launcher_shortcuts_empty "ਕੋਈ ਵੈੱਬ ਐਪਸ ਨਹੀਂ ਲੱਭੀ">
+
+<!ENTITY choose_file "Choose File">
+
