@@ -1,0 +1,81 @@
+<!ENTITY splash_firstrun "Configurando &brandShortName;\u2026">
+<!ENTITY no_space_to_start_error "No hay suficiente espacio para que &brandShortName; pueda iniciarse.">
+<!ENTITY error_loading_file "Ha ocurrido un error mientras se intentaba cargar los archivos para usar &brandShortName;">
+<!ENTITY awesomebar_all_pages_title "Sitios más visitados">
+<!ENTITY awesomebar_bookmarks_title "Marcadores">
+<!ENTITY awesomebar_history_title "Historial">
+<!ENTITY awesomebar_search_engine "Buscar por \&quot;&#037;s\&quot;">
+<!ENTITY crash_reporter_title "Agente de informe de fallos de &brandShortName;">
+<!ENTITY crash_message "&brandShortName; ha fallado. Sus pestañas deberían ser listadas en la página de inicio de &brandShortName; cuando reinicie.">
+<!ENTITY crash_help_message "Por favor, ¡ayúdenos a corregir este problema!">
+<!ENTITY crash_send_report_message "Enviar a Mozilla un reporte de fallo">
+<!ENTITY crash_include_url "Incluir la dirección de la página">
+<!ENTITY crash_close_label "Cerrar">
+<!ENTITY crash_restart_label "Reiniciar &brandShortName;">
+<!ENTITY sending_crash_report "Enviando reporte de fallo\u2026">
+<!ENTITY exit_label "Salir">
+<!ENTITY continue_label "Continuar">
+<!ENTITY launcher_shortcuts_title "Aplicaciones web de &brandShortName;">
+<!ENTITY launcher_shortcuts_empty "No se encontraron aplicaciones web">
+<!ENTITY choose_file "Elegir archivo">
+<!ENTITY awesomebar_default_text "Búsqueda o dirección">
+<!ENTITY bookmarks_title "Marcadores">
+<!ENTITY bookmark_add "Marcador">
+<!ENTITY bookmark_remove "Eliminar">
+<!ENTITY bookmark_added "Marcador añadido">
+<!ENTITY bookmark_removed "Marcador eliminado">
+<!ENTITY history_today_section "Hoy">
+<!ENTITY history_yesterday_section "Ayer">
+<!ENTITY history_week_section "Hace 7 días">
+<!ENTITY history_older_section "Más antiguo de 7 días">
+<!ENTITY reload "Recargar">
+<!ENTITY forward "Siguiente">
+<!ENTITY new_tab "Pestaña nueva">
+<!ENTITY settings "Configuración">
+<!ENTITY settings_title "Configuración">
+<!ENTITY pref_category_general "General">
+<!ENTITY pref_category_privacy "Privacidad y seguridad">
+<!ENTITY pref_category_content "Contenido">
+<!ENTITY pref_about_firefox "Acerca de &brandShortName;">
+<!ENTITY pref_do_not_track "No quiero ser rastreado">
+<!ENTITY pref_telemetry "Enviar información de rendimiento">
+<!ENTITY pref_homepage "Página de inicio">
+<!ENTITY pref_homepage_start "Inicio de Firefox">
+<!ENTITY pref_homepage_blank "Página en blanco">
+<!ENTITY pref_homepage_current "Página actual">
+<!ENTITY pref_remember_signons "Recordar contraseñas">
+<!ENTITY pref_cookies "Activar cookies">
+<!ENTITY pref_char_encoding "Mostrar codificación de caracteres">
+<!ENTITY pref_clear_history "Limpiar historial">
+<!ENTITY pref_clear_history_confirm "El historial de navegación será eliminado">
+<!ENTITY pref_clear_private_data "Limpiar datos privados">
+<!ENTITY pref_clear_private_data_confirm "La configuración de navegación, incluyendo contraseñas y cookies, serán eliminadas">
+<!ENTITY pref_enable_plugins "Activar plugins">
+<!ENTITY pref_enable_plugins_yes "Sí">
+<!ENTITY pref_enable_plugins_tap_to_play "Pulsar para reproducir">
+<!ENTITY pref_enable_plugins_no "No">
+<!ENTITY pref_font_size "Tamaño de fuente">
+<!ENTITY pref_font_size_small "Pequeña">
+<!ENTITY pref_font_size_medium "Mediana">
+<!ENTITY pref_font_size_large "Grande">
+<!ENTITY pref_font_size_xlarge "Extra grande">
+<!ENTITY pref_use_master_password "Usar contraseña maestra">
+<!ENTITY quit "Salir">
+<!ENTITY addons "Complementos">
+<!ENTITY share "Compartir">
+<!ENTITY save_as_pdf "Guardar como PDF">
+<!ENTITY agent_request_desktop "Pedir sitio para escritorio">
+<!ENTITY agent_request_mobile "Pedir sitio para móviles">
+<!ENTITY contextmenu_open_new_tab "Abrir en una pestaña nueva">
+<!ENTITY contextmenu_add_to_launcher "Añadir a la pantalla de inicio">
+<!ENTITY contextmenu_share "Compartir">
+<!ENTITY site_settings_title "Limpiar configuración del sitio">
+<!ENTITY site_settings_cancel "Cancelar">
+<!ENTITY site_settings_clear "Limpiar">
+<!ENTITY site_settings_no_settings "No hay configuraciones para limpiar.">
+<!ENTITY masterpassword_create_title "Crear contraseña maestra">
+<!ENTITY masterpassword_remove_title "Eliminar contraseña maestra">
+<!ENTITY masterpassword_password "Contraseña">
+<!ENTITY masterpassword_confirm "Confirmar contraseña">
+<!ENTITY button_ok "Aceptar">
+<!ENTITY button_cancel "Cancelar">
