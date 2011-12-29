@@ -307,17 +307,17 @@
 <!ENTITY calendar.server.dialog.name.label          "Kalendernamn">
 
 <!-- Calendar Properties -->
-<!ENTITY calendarproperties.color.label    					"Färg:">
-<!ENTITY calendarproperties.webdav.label   					"iCalendar (ICS)">
-<!ENTITY calendarproperties.caldav.label   					"CalDAV">
-<!ENTITY calendarproperties.wcap.label     					"Sun Java System Calendar Server (WCAP)">
-<!ENTITY calendarproperties.format.label   					"Format:">
-<!ENTITY calendarproperties.location.label 					"Plats:">
-<!ENTITY calendarproperties.name.label     					"Namn:">
-<!ENTITY calendarproperties.readonly.label 					"Skrivskyddad">
+<!ENTITY calendarproperties.color.label    				"Färg:">
+<!ENTITY calendarproperties.webdav.label   				"iCalendar (ICS)">
+<!ENTITY calendarproperties.caldav.label   				"CalDAV">
+<!ENTITY calendarproperties.wcap.label     				"Sun Java System Calendar Server (WCAP)">
+<!ENTITY calendarproperties.format.label   				"Format:">
+<!ENTITY calendarproperties.location.label 				"Plats:">
+<!ENTITY calendarproperties.name.label     				"Namn:">
+<!ENTITY calendarproperties.readonly.label 				"Skrivskyddad">
 <!ENTITY calendarproperties.firealarms.label				"Visa påminnelse">
-<!ENTITY calendarproperties.cache.label   					"Buffert (EXPERIMENTELL, kräver omstart)">
-<!ENTITY calendarproperties.enabled.label 					"Slå på denna kalender">
+<!ENTITY calendarproperties.cache2.label   				"Buffert">
+<!ENTITY calendarproperties.enabled.label 				"Slå på denna kalender">
 <!ENTITY calendarproperties.forceDisabled.label   			"Leverantören för den här kalendern kunde inte hittas. Detta händer ofta om du har inaktiverat eller avinstallerat vissa addons.">
 <!ENTITY calendarproperties.refreshInterval.label   		"Uppdatera kalender:">
 <!ENTITY calendarproperties.refreshInterval.manual.label   	"Manuellt">
