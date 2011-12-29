@@ -92,7 +92,7 @@
 <!ENTITY saveSearch.label "Mentés">
 <!ENTITY saveSearch.accesskey "M">
 
-<!ENTITY cmd.find.key "k">
+<!ENTITY cmd.find.key "F">
 
 <!ENTITY backButton.tooltip "Ugrás vissza">
 <!ENTITY forwardButton.tooltip "Ugrás előre">
