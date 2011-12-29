@@ -11,10 +11,7 @@
 <!-- File menu items -->
 
 
-<!ENTITY newMessage.label "Üzenet">
-<!ENTITY newMessage.accesskey "z">
 <!ENTITY saveCmd.label "Mentés">
-<!ENTITY saveCmd.key "S">
 <!ENTITY saveCmd.accesskey "M">
 <!ENTITY saveAsCmd.label "Mentés másként">
 <!ENTITY saveAsCmd.accesskey "e">
@@ -39,27 +36,11 @@
 <!ENTITY sendLaterCmd.label "Küldés később">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "l">
-<!ENTITY printSetupCmd.label "Oldalbeállítás...">
-<!ENTITY printSetupCmd.accesskey "O">
-<!ENTITY printCmd.label "Nyomtatás...">
-<!ENTITY printCmd.key "P">
-<!ENTITY printCmd.accesskey "N">
 <!-- Edit menu items -->
 
 <!ENTITY editRewrapCmd.label "Újratördelés">
 <!ENTITY editRewrapCmd.key "j">
 <!ENTITY editRewrapCmd.accesskey "r">
-<!ENTITY findCmd.label "Keresés és csere...">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "K">
-<!ENTITY findAgainCmd.label "Következő keresése">
-<!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.accesskey "z">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Előző keresése">
-<!ENTITY findPrevCmd.key "G">
-<!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "E">
 <!ENTITY accountManagerCmd.label "Postafiókok beállításai...">
 <!ENTITY accountManagerCmd.accesskey "P">
 <!-- View menu items -->
@@ -82,12 +63,6 @@
 <!ENTITY selectAddressCmd.label "Címek kiválasztása...">
 <!ENTITY selectAddressCmd.key "">
 <!ENTITY selectAddressCmd.accesskey "C">
-
-<!ENTITY checkSpellingCmd2.label "Check Spelling…">
-<!ENTITY checkSpellingCmd2.key "p">
-<!ENTITY checkSpellingCmd2.accesskey "h">
-<!ENTITY enableInlineSpellChecker.label "Helyesírás-ellenőrzés írás közben">
-<!ENTITY enableInlineSpellChecker.accesskey "e">
 
 <!ENTITY priorityMenu.label "Sürgősség">
 <!ENTITY priorityMenu.accesskey "S">
@@ -145,8 +120,6 @@
 <!ENTITY spellCheckIgnoreWord.accesskey "k">
 <!ENTITY spellCheckAddToDictionary.label "Hozzáadás a szótárhoz">
 <!ENTITY spellCheckAddToDictionary.accesskey "H">
-<!ENTITY pasteQuote.label "Beillesztés idézetként">
-<!ENTITY pasteQuote.accesskey "i">
 
 <!ENTITY openAttachment.label "Megnyitás">
 <!ENTITY openAttachment.accesskey "M">

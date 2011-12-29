@@ -6,8 +6,8 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey "r">
 <!ENTITY editBookmarkOverlay.siteLocation.label "Webhely helye:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey "W">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label "Élő címek">
 <!ENTITY editBookmarkOverlay.folder.label "Mappa:">
+<!ENTITY editBookmarkOverlay.folder.accesskey "M">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip "Minden könyvjelzőmappa megjelenítése">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip "Elrejtés">
 <!ENTITY editBookmarkOverlay.tags.label "Címkék:">
