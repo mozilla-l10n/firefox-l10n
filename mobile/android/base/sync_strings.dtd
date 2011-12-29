@@ -1,0 +1,35 @@
+<!ENTITY syncBrand.fullName.label "Firefox Sync">
+<!ENTITY syncBrand.shortName.label "Sync">
+<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
+<!ENTITY sync.title.connect.label "Connect to &syncBrand.shortName.label;">
+<!ENTITY sync.title.pair.label "Emparejar un dispositivo">
+<!ENTITY sync.subtitle.connect.label "To activate your new device, select “Set up &syncBrand.shortName.label;” on the device.">
+<!ENTITY sync.subtitle.pair.label "To activate, select “Pair a device” on your other device.">
+<!ENTITY sync.pin.default.label "...\n...\n...\n">
+<!ENTITY sync.link.show.label '<a href="https://support.mozilla.com/kb/add-a-device-to-firefox-sync">Muéstrame cómo</a>'>
+<!ENTITY sync.link.nodevice.label '<a href="#">No tengo el dispositivo conmigo…</a>'>
+<!ENTITY sync.jpake.subtitle.waiting.label "Esperando al otro dispositivo…">
+<!ENTITY sync.subtitle.account.label "Escriba la información de su cuenta de &syncBrand.fullName.label;">
+<!ENTITY sync.input.username.label "Nombre de cuenta">
+<!ENTITY sync.input.password.label "Contraseña">
+<!ENTITY sync.input.key.label "Clave de recuperación">
+<!ENTITY sync.checkbox.server.label "Usar un servidor personalizado">
+<!ENTITY sync.input.server.label "URL del servidor">
+<!ENTITY sync.title.fail.label "Cannot Set Up &syncBrand.shortName.label;">
+<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; could not connect to the server. Would you like to try again?">
+<!ENTITY sync.button.tryagain.label "Reintentar">
+<!ENTITY sync.button.manual.label "Configuración manual">
+<!ENTITY sync.title.success.label "Instalación completada">
+<!ENTITY sync.subtitle.success.label "Your data is now being downloaded in the background. You can go to Settings to manage your account.">
+<!ENTITY sync.settings.label "Configuración">
+<!ENTITY sync.subtitle.manage.label "Your &syncBrand.fullName.label; account is already set up. Go to Settings to manage your account.">
+<!ENTITY sync.button.cancel.label "Cancelar">
+<!ENTITY sync.button.connect.label "Conectar">
+<!ENTITY sync.account.label.label "&syncBrand.fullName.label;">
+<!ENTITY bookmarks.folder.menu.label "Menú de marcadores">
+<!ENTITY bookmarks.folder.places.label "">
+<!ENTITY bookmarks.folder.tags.label "Etiquetas">
+<!ENTITY bookmarks.folder.toolbar.label "Barra de herramientas de marcadores">
+<!ENTITY bookmarks.folder.unfiled.label "Marcadores sin ordenar">
+<!ENTITY bookmarks.folder.desktop.label "Marcadores de escritorio">
+<!ENTITY bookmarks.folder.mobile.label "Marcadores del móvil">
