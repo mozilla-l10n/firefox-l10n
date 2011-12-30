@@ -8,7 +8,7 @@
 <!ENTITY sync.syncNow               "Sync no">
 
 <!ENTITY sync.setup.title           "Kople til Sync">
-<!ENTITY sync.setup.jpake           "Frå ei datamaskin med Firefox Sync, gå til Sync-innstillingar og vel &#x0022;Legg til ei eining&#x0022;">
+<!ENTITY sync.setup.pair            "For å aktivere, vel &#x0022;Knyt til ei eining&#x0022; på den andre eininga.">
 <!ENTITY sync.fallback              "Eg er ikkje nær datamaskina mi …">
 <!ENTITY sync.setup.manual          "Skriv inn Sync-kontodetaljar">
 <!ENTITY sync.account               "Kontonamn">
@@ -19,3 +19,9 @@
 <!ENTITY sync.setup.connect         "Kople til">
 <!ENTITY sync.setup.cancel          "Avbryt">
 <!ENTITY sync.setup.tutorial        "Vis meg korleis">
+<!ENTITY sync.setup.waiting2        "Ventar på anna eining …">
+
+<!ENTITY sync.pair.title            "Knyt til ei eining">
+<!ENTITY sync.pair.description      "For å aktivere den andre eininga, vel &#x0022;Set opp Sync&#x0022; på eininga.">
+<!ENTITY sync.setup.close           "Lat att">
+<!ENTITY sync.setup.waitingdownload "Dine data vert no lasta ned i bakgrunnen. Du kan late att dette vindauget når som helst.">

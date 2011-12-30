@@ -45,6 +45,9 @@
 <!ENTITY netInterrupt.title "Tilkoplinga vart avbroten">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
+<!ENTITY notCached.title "Dokumentet er utgått på dato">
+<!ENTITY notCached.longDesc "<p>Det førespurde dokumentet er ikkje tilgjengeleg i &brandShortName; sitt snøgglager.</p><ul><li>Av tryggingsomsyn hentar ikkje &brandShortName; automatisk inn sensitive dokument på nytt.</li><li>Trykk Prøv igjen for å hente inn dokumentet frå nettsida på nytt.</li></ul>">
+
 <!ENTITY netOffline.title "Fråkopla-modus">
 <!ENTITY netOffline.longDesc2 "<ul>
   <li>Prøv igjen. &brandShortName; vil prøve å opne eitilkopling og laste sida inn på nytt.</li>

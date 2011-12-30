@@ -90,6 +90,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "S">
 <!ENTITY fullScreenExit.label "Avslutt fullskjermmodus">
 <!ENTITY fullScreenExit.accesskey "v">
+<!ENTITY domFullScreenWarning.label "Trykk ESC for å gå ut av fullskjermmodus">
 
 <!ENTITY closeWindow.label "Lat att vindauge">
 <!ENTITY closeWindow.accesskey "d">
@@ -212,9 +213,12 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectPanelTitle.label      "HTML">
-<!ENTITY inspectButton.label          "Inspiser">
-<!ENTITY inspectButton.accesskey      "I">
+<!ENTITY inspectPanelTitle.label        "HTML">
+<!ENTITY inspectButton.label            "Inspiser">
+<!ENTITY inspectButton.accesskey        "I">
+<!ENTITY inspectCloseButton.tooltiptext "Lat att Inspector">
+<!ENTITY inspectStyleButton.label     "Stil">
+<!ENTITY inspectStyleButton.accesskey "S">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Hent fleire verkty">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "H">
@@ -432,7 +436,12 @@ can reach it easily. -->
 <!ENTITY mediaHideControls.accesskey "k">
 <!ENTITY videoFullScreen.label       "Fullskjerm">
 <!ENTITY videoFullScreen.accesskey   "F">
-
+<!ENTITY videoSaveImage.label        "Lagre (augeblinks)bilete som …">
+<!ENTITY videoSaveImage.accesskey    "L">
+<!ENTITY videoShowStats.label        "Vis statistikk">
+<!ENTITY videoShowStats.accesskey    "t">
+<!ENTITY videoHideStats.label        "Skjul statistikk">
+<!ENTITY videoHideStats.accesskey    "t">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
