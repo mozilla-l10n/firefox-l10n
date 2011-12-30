@@ -117,6 +117,8 @@
 <!ENTITY deleteAllAttachmentsCmd.label    "Slett alle …">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
 
+<!ENTITY openAttachment.tooltip "Opne vedlagde fil">
+
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Lagre">
 <!ENTITY saveAttachmentButton1.tooltip     "Lagre vedlagde fil">

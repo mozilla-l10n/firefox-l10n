@@ -16,6 +16,7 @@
 <!ENTITY attachMenu.accesskey "v">
 <!ENTITY attachFileCmd.label "Filer …">
 <!ENTITY attachFileCmd.accesskey "F">
+<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachPageCmd.label "Nettside …">
 <!ENTITY attachPageCmd.accesskey "N">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -113,17 +114,17 @@
 <!-- Options Menu -->
 <!ENTITY optionsMenu.label "Innstillingar">
 <!ENTITY optionsMenu.accesskey "n">
-<!ENTITY checkSpellingCmd2.label "Kontroller staving …">
+<!ENTITY checkSpellingCmd2.label "Stavekontrollar …">
 <!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY checkSpellingCmd2.key2 "VK_F7">
-<!ENTITY checkSpellingCmd2.accesskey "K">
-<!ENTITY enableInlineSpellChecker.label "Stavekontroll medan du skriv">
-<!ENTITY enableInlineSpellChecker.accesskey "t">
+<!ENTITY checkSpellingCmd2.accesskey "k">
+<!ENTITY enableInlineSpellChecker.label "Kontroller staving medan du skriv">
+<!ENTITY enableInlineSpellChecker.accesskey "o">
 <!ENTITY quoteCmd.label "Siter melding">
 <!ENTITY quoteCmd.accesskey "m">
 
 <!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCard.label "Legg ved personleg kort (vCard)">
+<!ENTITY attachVCard.label "Legg ved personleg adressekort (vCard)">
 <!ENTITY attachVCard.accesskey "L">
 
 <!ENTITY returnReceiptMenu.label "Kvittering tilbake">
@@ -222,7 +223,7 @@
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Set inn smilefjes">
 <!ENTITY smiley1Cmd.label "Smil">
-<!ENTITY smiley2Cmd.label "Rynker panna">
+<!ENTITY smiley2Cmd.label "Rynkar panna">
 <!ENTITY smiley3Cmd.label "Blink">
 <!ENTITY smiley4Cmd.label "Tunga-ut">
 <!ENTITY smiley5Cmd.label "Ler">
@@ -261,7 +262,7 @@
 <!ENTITY delete.accesskey "S">
 <!ENTITY removeAttachment.label "Fjern vedlegg">
 <!ENTITY removeAttachment.accesskey "v">
-<!ENTITY renameAttachment.label "Endre navn …">
+<!ENTITY renameAttachment.label "Endre namn …">
 <!ENTITY renameAttachment.accesskey "E">
 <!ENTITY selectAll.label "Merk alt">
 <!ENTITY selectAll.accesskey "M">

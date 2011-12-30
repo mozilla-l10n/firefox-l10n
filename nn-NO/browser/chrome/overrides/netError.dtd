@@ -47,14 +47,11 @@
 <!ENTITY netInterrupt.title "Tilkoplinga vart broten">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!ENTITY notCached.title "Dokumentet er utgått på dato">
+<!ENTITY notCached.longDesc "<p>Det førespurde dokumentet er ikkje tilgjengeleg i &brandShortName; sitt snøgglager.</p><ul><li>Av tryggingsomsyn tillét ikkje &brandShortName; å automatisk hente sensitive dokument på nytt.</li><li>Trykk Prøv igjen for å hente dokumentet på nytt frå nettstaden.</li></ul>">
+
 <!ENTITY netOffline.title "Fråkopla modus">
-<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
-     indicate that "Work Offline" is a menu item without being too specific,
-     since it could be in either the normal menu (Mac/Linux) or the Firefox button
-     menu (Windows).
--->
-<!ENTITY netOffline.longDesc2 "
-<ul>
+<!ENTITY netOffline.longDesc2 "<ul>
   <li>Trykk «Prøv igjen» for å byte til tilkopla modus og laste sida på nytt.</li>
 </ul>
 ">
