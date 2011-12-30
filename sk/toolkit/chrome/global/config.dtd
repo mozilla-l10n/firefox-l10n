@@ -43,9 +43,9 @@
 <!ENTITY aboutWarningButton.label "Budem opatrný, sľubujem!">
 <!ENTITY aboutWarningCheckbox.label "Toto upozornenie zobraziť aj nabudúce">
 
-<!ENTITY filterPrefs.label "Filter:">
-<!ENTITY filterPrefs.accesskey "F">
-<!ENTITY focusFilter.key "f">
+<!ENTITY searchPrefs.label "Hľadať:">
+<!ENTITY searchPrefs.accesskey "H">
+<!ENTITY focusSearch.key "r">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "Názov predvoľby">

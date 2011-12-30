@@ -6,8 +6,8 @@
 
 <!ENTITY importFromNothing.label        "Nič neimportovať">
 <!ENTITY importFromNothing.accesskey    "r">
-<!ENTITY importFromSeamonkey2.label     "Netscape 6, 7, Mozilla 1.x alebo SeaMonkey">
-<!ENTITY importFromSeamonkey2.accesskey "M">
+<!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 alebo novšia verzia">
+<!ENTITY importFromSeamonkey3.accesskey "S">
 <!ENTITY importFromOExpress.label       "Outlook Express">
 <!ENTITY importFromOExpress.accesskey   "u">
 <!ENTITY importFromOutlook.label        "Outlook">

@@ -19,7 +19,7 @@
     <strong>ww</strong>.priklad.com namiesto
     <strong>www</strong>.priklad.com</li>
   <li>Ak sa nedá načítať žiadna stránka, skontrolujte pripojenie počítača k sieti.</li>
-  <li>Ak sú počítač alebo sieť chránené bránou firewall alebo serverom proxy, uistite sa, či má &brandShortName; povolený prístup k webu.</li>
+  <li>Ak sú počítač alebo sieť chránené bránou firewall alebo serverom proxy, uistite sa, že &brandShortName; má povolený prístup k webu.</li>
 </ul>
 ">
 

@@ -11,15 +11,14 @@
 # for the specific language governing rights and limitations under the
 # License.
 #
-# The Original Code is mozilla.org code.
+# The Original Code is the Firefox browser.
 #
 # The Initial Developer of the Original Code is
-# Netscape Communications Corporation.
-# Portions created by the Initial Developer are Copyright (C) 2002
+# Benjamin Smedberg <bsmedberg@covad.net>
+# Portions created by the Initial Developer are Copyright (C) 2004
 # the Initial Developer. All Rights Reserved.
 #
 # Contributor(s):
-#   Srilatha Moturi <srilatha@netscape.com>
 #
 # Alternatively, the contents of this file may be used under the terms of
 # either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -35,29 +34,6 @@
 #
 # ***** END LICENSE BLOCK *****
 
-# LOCALIZATION NOTE (comm4xImportName) : "Communicator 4.x" below is the used for previous versions of Netscape Communicator. Please translate using the brandname in respective languages for Netscape Communicator 4 releases.
-comm4xImportName=Communicator 4.x
+#filter substitution
 
-# Description of import module
-# LOCALIZATION NOTE : "Communicator 4.x" below is the used for previous versions of Netscape Communicator
-# Please translate using the brandname in respective languages for Netscape Communicator 4 releases.
-## @name COMM4XMAILIMPORT_DESCRIPTION
-## @loc None
-2001=Importovať lokálne správy z Communicator 4.x
-
-# Success Message
-# LOCALIZATION NOTE : Do not translate the word "%S" below.
-## @name COMM4XMAILIMPORT_MAILBOX_SUCCESS
-## @loc None
-2002=Lokálne správy boli úspešne naimportované z %S
-
-# Error Message
-## @name COMM4XMAILIMPORT_MAILBOX_BADPARAM
-## @loc None
-2003=Došlo k vnútornej chybe. Import zlyhal. Skúste to znovu.
-
-# Error message
-# LOCALIZATION NOTE : Do not translate the word "%S" below.
-## @name COMM4XMAILIMPORT_MAILBOX_CONVERTERROR
-## @loc None
-2004=Došlo k chybe počas importu správ z %S. Správy neboli naimportované. Uvoľnite viac miesta na disku a skúste to znovu.
+pref("general.useragent.locale", "@AB_CD@");
