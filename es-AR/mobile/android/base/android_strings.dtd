@@ -1,7 +1,13 @@
 
 <!ENTITY  splash_firstrun "Configurando &brandShortName;\u2026">
+
 <!ENTITY  no_space_to_start_error "No hay suficiente espacio para que &brandShortName; pueda iniciarse.">
 <!ENTITY  error_loading_file "Ha ocurrido un error mientras se trataban de cargar los archivos necesarios para ejecutar &brandShortName;">
+
+<!ENTITY  awesomebar_all_pages_title "Top Sites">
+<!ENTITY  awesomebar_bookmarks_title "Marcadores">
+<!ENTITY  awesomebar_history_title "Historial">
+<!ENTITY  awesomebar_search_engine "Buscar \&quot;&#037;s\&quot;">
 
 <!ENTITY  crash_reporter_title "Informe de fallos de &brandShortName;">
 <!ENTITY  crash_message "&brandShortName; ha fallado. Tus pestañas deberían aparecer en la página de inicio de &brandShortName; al reiniciar.">
@@ -18,4 +24,78 @@
 <!ENTITY  launcher_shortcuts_empty "No se encontraron aplicaciones web">
 
 <!ENTITY choose_file "Elegir archivo">
+
+<!ENTITY awesomebar_default_text "Enter Search or Address">
+
+<!ENTITY bookmarks_title "Marcadores">
+<!ENTITY bookmark_add "Marcar">
+<!ENTITY bookmark_remove "Eliminar">
+<!ENTITY bookmark_added "Marcador agregado">
+<!ENTITY bookmark_removed "Marcador eliminado">
+
+<!ENTITY history_today_section "Hoy">
+<!ENTITY history_yesterday_section "Ayer">
+<!ENTITY history_week_section "Hace 7 días">
+<!ENTITY history_older_section "Hace más de 7 días">
+
+<!ENTITY reload "Recargar">
+<!ENTITY forward "Adelante">
+
+<!ENTITY new_tab "Nueva pestaña">
+
+<!ENTITY settings "Configuración">
+<!ENTITY settings_title "Configuración">
+<!ENTITY pref_category_general "General">
+<!ENTITY pref_category_privacy "Privacidad y seguridad">
+<!ENTITY pref_category_content "Contenido">
+<!ENTITY pref_about_firefox "Acerca de &brandShortName;">
+<!ENTITY pref_do_not_track "Decirle a los sitios que no me rastreen">
+<!ENTITY pref_telemetry "Enviar datos de rendimiento">
+<!ENTITY pref_homepage "Página de inicio">
+<!ENTITY pref_homepage_start "Inicio de Firefox">
+<!ENTITY pref_homepage_blank "Página en blanco">
+<!ENTITY pref_homepage_current "Página actual">
+<!ENTITY pref_remember_signons "Recordar contraseñas">
+<!ENTITY pref_cookies "Habilitar cookies">
+<!ENTITY pref_char_encoding "Mostrar codificación de caracteres">
+<!ENTITY pref_clear_history "Limpiar historial">
+<!ENTITY pref_clear_history_confirm "El historial de navegación será borrado">
+<!ENTITY pref_clear_private_data "Borrar datos privados">
+<!ENTITY pref_clear_private_data_confirm "Las opciones de navegación, incluyendo contraseñas y cookies serán borradas">
+<!ENTITY pref_enable_plugins "Habilitar plugins">
+<!ENTITY pref_enable_plugins_yes "Sí">
+<!ENTITY pref_enable_plugins_tap_to_play "Pulsar para ejecutar">
+<!ENTITY pref_enable_plugins_no "No">
+<!ENTITY pref_font_size "Tamaño de letra">
+<!ENTITY pref_font_size_small "Chico">
+<!ENTITY pref_font_size_medium "Mediano">
+<!ENTITY pref_font_size_large "Grande">
+<!ENTITY pref_font_size_xlarge "Extra grande">
+<!ENTITY pref_use_master_password "Usar contraseña maestra">
+
+<!ENTITY quit "Salir">
+
+<!ENTITY addons "Complementos">
+
+<!ENTITY share "Compartir">
+<!ENTITY save_as_pdf "Guardar como PDF">
+<!ENTITY agent_request_desktop "Solicitar sitio de escritorio">
+<!ENTITY agent_request_mobile "Solicitar sitio móvil">
+
+<!ENTITY contextmenu_open_new_tab "Abrir en pestaña nueva">
+<!ENTITY contextmenu_add_to_launcher "Agregar a pantalla de inicio">
+<!ENTITY contextmenu_share "Compartir">
+
+<!ENTITY site_settings_title        "Borrar configuración del sitio">
+<!ENTITY site_settings_cancel       "Cancelar">
+<!ENTITY site_settings_clear        "Borrar">
+<!ENTITY site_settings_no_settings  "No hay configuración que borrar.">
+
+<!ENTITY masterpassword_create_title "Crear contraseña maestra">
+<!ENTITY masterpassword_remove_title "Eliminar contraseña maestra">
+<!ENTITY masterpassword_password "Contraseña">
+<!ENTITY masterpassword_confirm "Confirmar contraseña">
+
+<!ENTITY button_ok "Aceptar">
+<!ENTITY button_cancel "Cancelar">
 
