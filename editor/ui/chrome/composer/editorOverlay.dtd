@@ -43,42 +43,14 @@
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
 <!-- File menu items -->
-<!ENTITY fileMenu.label "Fil">
-<!ENTITY fileMenu.accesskey "F">
-<!ENTITY openFileCmd.label "Opne fil …">
-<!ENTITY openFileCmd.accesskey "O">
-<!ENTITY openFileCmd.key "O">
-<!ENTITY openRemoteCmd.label "Opne nettadresse …">
-<!ENTITY openRemoteCmd.accesskey "n">
-<!ENTITY openRemoteCmd.key "L">
-<!ENTITY fileRecentMenu.label "Siste opna sider">
-<!ENTITY fileRecentMenu.accesskey "o">
-<!ENTITY fileRevert.label "Gå tilbake til førre versjon">
-<!ENTITY fileRevert.accesskey "v">
-<!ENTITY saveCmd.label "Lagre">
-<!ENTITY saveCmd.accesskey "L">
 <!ENTITY saveCmd.key "S">
-<!ENTITY saveAsCmd.label "Lagre som …">
-<!ENTITY saveAsCmd.accesskey "s">
-
-<!ENTITY publishCmd.label "Publiser">
-<!ENTITY publishCmd.accesskey "P">
-<!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "Publiser som …">
-<!ENTITY publishAsCmd.accesskey "o">
-<!ENTITY saveAsChangeEncodingCmd.label "Lagre og endre teiknkoding">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "e">
 
 <!-- Edit menu items -->
-<!ENTITY editMenu.label "Rediger">
-<!ENTITY editMenu.accesskey "R">
 <!ENTITY pasteNoFormatting.label "Lim inn utan formatering">
 <!ENTITY pasteNoFormatting.accesskey "o">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Lim inn som">
 <!ENTITY pasteAs.accesskey "L">
-<!ENTITY publishSettings.label "Innstillingar for publiseringsstad …">
-<!ENTITY publishSettings.accesskey "p">
 <!ENTITY pasteAsQuotationCmd.label "Lim inn som sitat">
 <!ENTITY pasteAsQuotationCmd.accesskey "s">
 <!ENTITY pasteAsQuotationCmd.key "o">
@@ -210,7 +182,7 @@
 <!ENTITY formatRemoveLinks.key "k">
 <!ENTITY formatRemoveNamedAnchors.label "Fjern namngjevne anker">
 <!ENTITY formatRemoveNamedAnchors.accesskey "n">
-<!ENTITY formatRemoveNamedAnchors.key "A">
+<!ENTITY formatRemoveNamedAnchors2.key "r">
 
 <!ENTITY paragraphMenu.label "Avsnitt">
 <!ENTITY paragraphMenu.accesskey "A">

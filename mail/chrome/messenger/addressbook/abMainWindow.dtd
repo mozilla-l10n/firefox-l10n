@@ -87,12 +87,18 @@
 <!ENTITY showTaskbarCmd.accesskey                       "t">
 <!ENTITY customizeToolbar.label                         "Tilpass …">
 <!ENTITY customizeToolbar.accesskey                     "T">
-<!ENTITY showContactPane.label                          "Oppsummeringsvindauge for adressekort">
-<!ENTITY showContactPane.accesskey                      "O">
+<!ENTITY layoutMenu.label                               "Utforming">
+<!ENTITY layoutMenu.accesskey                           "U">
+<!ENTITY showDirectoryPane.label                        "Katalogpanel">
+<!ENTITY showDirectoryPane.accesskey                    "K">
+<!ENTITY showContactPane2.label                         "Kontaktpanel">
+<!ENTITY showContactPane2.accesskey                     "o">
 <!ENTITY menu_ShowNameAs.label                          "Vis namn som">
 <!ENTITY menu_ShowNameAs.accesskey                      "n"> 
-<!ENTITY firstLastCmd.label                             "Fornamn, Etternamn">
-<!ENTITY firstLastCmd.accesskey                         "F"> 
+<!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
+because displayed names don't have the comma in between. -->
+<!ENTITY firstLastCmd2.label                            "Fornamn Etternamn">
+<!ENTITY firstLastCmd2.accesskey                        "F"> 
 <!ENTITY lastFirstCmd.label                             "Etternamn, Fornamn">
 <!ENTITY lastFirstCmd.accesskey                         "E">
 <!ENTITY displayNameCmd.label                           "Vis namn">

@@ -21,6 +21,7 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; må startast på nytt for at programtillegget/a skal fungere.">
 
 <!ENTITY missingPlugin                                       "Eit programtillegg trengs for å vise dette innhaldet.">
+<!ENTITY clickToPlayPlugin                                   "Trykk her for å aktivere programtillegget.">
 <!ENTITY disabledPlugin                                      "Dette programtillegget er avslått.">
 <!ENTITY blockedPlugin.label                                 "Dette programtillegget er blokkert for å verne deg.">
 
@@ -33,8 +34,8 @@
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "Last sida på nytt">
 <!ENTITY reloadPlugin.post                                   " for å prøve igjen.">
-<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.please                                       "Send krasjrapport">
+<!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.checkbox                                     "… og send krasjrapport">
 <!ENTITY report.submitting                                   "Sender krasjrapport …">
 <!ENTITY report.submitted                                    "Krasjrapporten er sendt.">
 <!ENTITY report.disabled                                     "Krasjrapportering er slått av.">
