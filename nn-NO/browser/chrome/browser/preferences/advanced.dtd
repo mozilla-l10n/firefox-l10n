@@ -58,22 +58,28 @@
 
 <!ENTITY updateTab.label                 "Oppdatering">
 
-<!ENTITY autoCheck.label                 "Sjå automatisk etter oppdateringar for:">
-<!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate2.label       "Utvidingar">
-<!ENTITY enableAddonsUpdate2.accesskey   "U">
-<!ENTITY enableSearchUpdate.label        "Søkjemotorar">
-<!ENTITY enableSearchUpdate.accesskey    "m">
-<!ENTITY whenUpdatesFound.label          "Når oppdateringar for &brandShortName; vert funne:">
-<!ENTITY askMe.label                     "Spør meg kva eg vil gjere">
-<!ENTITY askMe.accesskey                 "S">
-<!ENTITY modeAutomatic.label             "Last ned og installer oppdateringa automatisk">
-<!ENTITY modeAutomatic.accesskey         "L">
-<!ENTITY modeAutoAddonWarn.label         "Åtvar meg om dette vil slå av utvidingar">
-<!ENTITY modeAutoAddonWarn.accesskey     "Å">
+<!ENTITY updateApp.label                 "&brandShortName; oppdateringar:">
+<!ENTITY updateAuto.label                "Automatisk installer oppdateringar (tilrådd: tryggare)">
+<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateCheck.label               "Sjå etter oppdateringar, men la meg velje når eg vil installere dei">
+<!ENTITY updateCheck.accesskey           "S">
+<!ENTITY updateManual.label              "Aldri sjå etter oppdateringar (ikkje tilrådd: tryggingsrisiko)">
+<!ENTITY updateManual.accesskey          "A">
+
+<!ENTITY updateAutoAddonWarn.label       "Åtvar meg dersom dette vil slå av utvidingar">
+<!ENTITY updateAutoAddonWarn.accesskey   "Å">
+
 <!ENTITY updateHistory.label             "Vis oppdateringshistorikk">
 <!ENTITY updateHistory.accesskey         "V">
+
+<!ENTITY useService.label                "Bruk ei bakgrunnsteneste for å installere oppdateringar">
+<!ENTITY useService.accesskey            "B">
+
+<!ENTITY updateOthers.label              "Oppdater automatisk:">
+<!ENTITY enableAddonsUpdate3.label       "Utvidingar">
+<!ENTITY enableAddonsUpdate3.accesskey   "U">
+<!ENTITY enableSearchUpdate.label        "Søkjemotorar">
+<!ENTITY enableSearchUpdate.accesskey    "m">
 
 <!ENTITY offlineNotify.label             "Fortel meg når ein nettstad ber om å lagre data for fråkopla bruk">
 <!ENTITY offlineNotify.accesskey         "F">

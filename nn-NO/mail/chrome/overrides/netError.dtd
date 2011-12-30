@@ -12,7 +12,7 @@
 <!ENTITY deniedPortAccess.title "Tilgjenget til denne adressa er avgrensa">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Fann ikkje tenaren">
+<!ENTITY dnsNotFound.title "Tenar ikkje funnen">
 <!ENTITY dnsNotFound.longDesc "<ul>  <li>Kontroller om det er skrivefeil i adressa, til dømes <strong>ww</strong>.døme.no istadenfor <strong>www</strong>.døme.no</li>  <li>Dersom du ikkje klarer å laste nokre nettsider, kontroller at nettverksambandet til datamaskina er i orden.</li>  <li>Dersom datamaskina di eller nettverket er verna av ein brannmur eller mellomtenar, kontroller at &brandShortName; har løyve til å bruke Internett.</li> </ul> ">
 
 <!ENTITY fileNotFound.title "Fann ikkje fila">
@@ -37,9 +37,11 @@
 <!ENTITY netInterrupt.title "Tilkoplinga vart broten">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!ENTITY notCached.title "Dokumentet er utgått på dato">
+<!ENTITY notCached.longDesc "<p>Det førespurde dokumentet er ikkje tilgjengeleg i snøgglageret.</p><ul><li>Av tryggingsomsyn vil ikkje &brandShortName; automatisk laste ned sensitive dokument på nytt.</li><li>Trykk Prøv igjen for å laste ned dokumentet frå tenaren på nytt.</li></ul>">
+
 <!ENTITY netOffline.title "Fråkopla modus">
-<!ENTITY netOffline.longDesc2 "
-<ul>
+<!ENTITY netOffline.longDesc2 "<ul>
   <li>Trykk «Prøv igjen» for å byte til tilkopla modus og laste sida på nytt.</li> 
 </ul>
 ">

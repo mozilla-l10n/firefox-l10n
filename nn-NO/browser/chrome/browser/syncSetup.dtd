@@ -4,8 +4,7 @@
 
 <!ENTITY setup.pickSetupType.description "Velkomen, om du ikkje har brukt &syncBrand.fullName.label; før, må du lage ein ny konto.">
 <!ENTITY button.createNewAccount.label "Lag ein ny konto">
-<!ENTITY setup.haveAccount.label "Eg har allereie ein &syncBrand.fullName.label;-konto">
-<!ENTITY button.connect.label    "Kople til">
+<!ENTITY button.haveAccount.label      "Eg har ein konto">
 
 <!ENTITY setup.choicePage.title.label     "Har du brukt &syncBrand.fullName.label; før?">
 <!ENTITY setup.choicePage.new.label       "Eg har aldri brukt &syncBrand.shortName.label; før">
@@ -40,7 +39,7 @@
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 
-<!-- New Account Page 2: Sync Key -->
+<!-- My Recovery Key dialog -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; bryr seg om personvernet ditt">
 <!ENTITY setup.newRecoveryKeyPage.description.label "For å sikre fullstendig personvern er alle dataa dine krypterte før dei blir lasta opp. Oppattbyggjingsnøkkelen som er nødvendig for å dekryptere data blir ikkje lasta opp.">
 <!ENTITY recoveryKeyEntry.label        "Oppattbyggjingsnøkkel">
@@ -53,15 +52,13 @@
 <!ENTITY button.syncKeyBackup.save.label      "Lagre …">
 <!ENTITY button.syncKeyBackup.save.accesskey  "L">
 
-<!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "Stadfest at du ikkje er ein robot">
-<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "Legg til ei eining">
+<!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
+<!ENTITY pairDevice.title.label             "Knyt til ei eining">
 <!ENTITY addDevice.showMeHow.label          "Vis meg korleis.">
 <!ENTITY addDevice.dontHaveDevice.label     "Eg har ikkje eininga med meg">
-<!ENTITY addDevice.setup.description.label  "For å aktivere, gå til &syncBrand.shortName.label; Innstillingar på den andre eininga, og vel &#x0022;Legg til eining&#x0022;.">
+<!ENTITY pairDevice.setup.description.label  "For å aktivere, vel &#x0022;Knyt til ei eining&#x0022; på den andre eininga.">
 <!ENTITY addDevice.setup.enterCode.label    "Skriv deretter inn denne koden:">
-<!ENTITY addDevice.dialog.description.label "For å aktivere den nye eininga, gå til &syncBrand.shortName.label; Innstillingar på eininga og vel &#x0022;Kople til.&#x0022;">
+<!ENTITY pairDevice.dialog.description.label "For å aktivere den nye eininga, vel &#x0022;Set opp Sync&#x0022; på eininga.">
 <!ENTITY addDevice.dialog.enterCode.label   "Skriv inn koden som eininga gjev opp:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Prøv igjen.">
 <!ENTITY addDevice.dialog.successful.label  "Eininga vart lagt til. Den første synkroniseringa kan ta fleire minutt, og vil fullføre i bakgrunnen.">

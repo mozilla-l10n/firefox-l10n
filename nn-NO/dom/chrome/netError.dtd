@@ -24,7 +24,10 @@
 <!ENTITY netInterrupt.title "Dataoverføring avbroten">
 <!ENTITY netInterrupt.longDesc "<p>Nettlesaren klarte å kople til tenaren, men tilkoplinga vart avbroten ved overføring av informasjon. Prøv igjen.</p><ul><li>Klarer du ikkje å lese andre nettsider? Kontroller nettverkstilkoplinga åt datamaskina.</li><li>Har du framleis problem? Vend deg til nettverksansvarleg eller Internettleverandøren din for meir hjelp.</li></ul>">
 
-<!ENTITY netOffline.title "Feil i fråkopla tilstand">
+<!ENTITY notCached.title "Dokumentet er utgått på dato">
+<!ENTITY notCached.longDesc "<p>Det førespurde dokumentet er ikkje tilgjengeleg i nettlesarens snøgglager.</p><ul><li>Av tryggingshomsyn sender ikkje nettlesaren automatisk førespurnader etter sensitive dokument på nytt.</li><li>Trykk Prøv igjen for å laste inn dokumentet frå nettstaden på nytt.</li></ul>">
+
+<!ENTITY netOffline.title "Fråkopla tilstand">
 <!ENTITY netOffline.longDesc2 "<p>Nettlesaren er i fråkopla modus, og kan ikkje kople til tenaren.</p><ul><li>Er datamaskina kopla til eit aktivt nettverk?</li><li>Sett nettlesaren i tilkopla modus og prøv igjen.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Feil med tegnkoding">
@@ -36,7 +39,7 @@
 <!ENTITY netReset.title "Brot i sambandet">
 <!ENTITY netReset.longDesc "<p>Tilkoplinga til nettstaden vart avbroten under dataoverføring. Prøv igjen.</p>">
 
-<!ENTITY netTimeout.title "Tidsavbrot i nettverket">
+<!ENTITY netTimeout.title "Tidsavbrot">
 <!ENTITY netTimeout.longDesc "<p>Nettlesaren brukte for lang tid på å kople til den oppgjevne adressa.</p><ul><li>Kan tenaren ha høg førespurnad eller eit mellombels utfall? Prøv igjen seinare.</li><li>Klarer du ikkje å lese andre nettsider? Kontroller nettverkstilkoplinga åt datamaskina.</li><li>Er datamaskina di bak ein brannmur eller mellomtenar? Feil i innstillingar kan verke inn på nettlesinga.</li><li>Har du framleis problem? Vend deg til nettverksansvarleg eller Internettleverandøren din for meir hjelp.</li></ul>">
 
 <!ENTITY protocolNotFound.title "Ukjend protokoll">
@@ -60,7 +63,7 @@
 <!ENTITY nssBadCert.title "Trygt samband feila">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Dette kan vere eit problem med tenaroppsettet,  eller det kan vere nokon som prøver å gje seg ut for å vere tenaren.</li> <li>Om du har kopla til denne tenaren tidlegare, kan feilen vere mellombels og du kan prøve igjen seinare.</li> </ul> ">
 
-<!ENTITY malwareBlocked.title "Mistenkt åtakside!">
+<!ENTITY malwareBlocked.title "Mistenkt farleg nettstad!">
 <!ENTITY malwareBlocked.longDesc "<p>Åtaksider prøver å installere program som stel privat informasjon, brukar datamaskina di til å angripe andre eller skade systemet ditt.</p> <p>Nettsideeigarar som meiner at deira side har vorte rapportert som ei åttaksside på feil grunnlag, kan <a href='http://www.stopbadware.org/home/reviewinfo' >krevje ein gjennomgaang</a>.</p> 
 ">
 
