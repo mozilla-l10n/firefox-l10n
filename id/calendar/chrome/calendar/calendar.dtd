@@ -318,7 +318,7 @@
 <!ENTITY calendarproperties.name.label                     "Nama:">
 <!ENTITY calendarproperties.readonly.label                 "Baca Saja">
 <!ENTITY calendarproperties.firealarms.label               "Tampilkan Alarm">
-<!ENTITY calendarproperties.cache.label                    "Tembolok (EKSPERIMENTAL, mulai ulang dibutuhkan)">
+<!ENTITY calendarproperties.cache2.label                   "Tembolok">
 <!ENTITY calendarproperties.enabled.label                  "Aktifkan kalender ini">
 <!ENTITY calendarproperties.forceDisabled.label            "Provider kalender ini tidak ditemukan. Ini sering terjadi karena Anda telah menonaktifkan atau menghapus pemasangan pengaya tertentu.">
 <!ENTITY calendarproperties.unsubscribe.label              "Berhenti Langganan">
