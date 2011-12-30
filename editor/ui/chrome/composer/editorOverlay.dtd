@@ -307,12 +307,6 @@
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Valmynd">
 <!ENTITY formatToolbar.tooltip "Sniðslá">
-<!ENTITY newToolbarCmd.label "Nýtt">
-<!ENTITY newToolbarCmd.tooltip "Búa til nýja síðu í ritli">
-<!ENTITY openToolbarCmd.label "Opna">
-<!ENTITY openToolbarCmd.tooltip "Opna staðbundna skrá">
-<!ENTITY saveToolbarCmd.tooltip "Vista skrá á staðbundna staðsetningu">
-<!ENTITY publishToolbarCmd.tooltip "Uphala skrá á fjartengda staðsetningu">
 <!ENTITY cutToolbarCmd.tooltip "Klippa">
 <!ENTITY copyToolbarCmd.tooltip "Afrita">
 <!ENTITY pasteToolbarCmd.tooltip "Líma">

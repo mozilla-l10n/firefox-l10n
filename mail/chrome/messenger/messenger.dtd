@@ -1,4 +1,3 @@
-<!ENTITY messengerWindow.title "Póstur og fréttahópar">
 <!ENTITY titledefault.label "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 <!-- File Menu -->
@@ -564,8 +563,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextMarkMailFolderRead.accesskey "k">
 <!ENTITY folderContextSubscribe.label "Gerast áskrifandi…">
 <!ENTITY folderContextSubscribe.accesskey "e">
-<!ENTITY folderContextSearchMessages.label "Leita…">
-<!ENTITY folderContextSearchMessages.accesskey "L">
+<!ENTITY folderContextSearchForMessages.label "Leita í pósti…">
+<!ENTITY folderContextSearchForMessages.accesskey "s">
 <!ENTITY folderContextProperties.label "Eiginleikar…">
 <!ENTITY folderContextProperties.accesskey "g">
 <!ENTITY folderContextFavoriteFolder.label "Eftirlætismappa">

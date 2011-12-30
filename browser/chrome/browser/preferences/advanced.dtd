@@ -32,7 +32,8 @@
 <!ENTITY connectionDesc.label "Stilla hvernig &brandShortName; tengist við Internetið">
 <!ENTITY connectionSettings.label "Stillingar…">
 <!ENTITY connectionSettings.accesskey "t">
-<!ENTITY offlineStorage.label "Ónettengd geymsla">
+<!ENTITY httpCache.label "Vefgögn í flýtiminni">
+<!ENTITY offlineStorage2.label "Ótengd vefgögn og notandagögn">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -44,6 +45,8 @@
 <!ENTITY limitCacheSizeAfter.label "MB af plássi">
 <!ENTITY clearCacheNow.label "Hreinsa núna">
 <!ENTITY clearCacheNow.accesskey "H">
+<!ENTITY clearOfflineAppCacheNow.label "Hreinsa núna">
+<!ENTITY clearOfflineAppCacheNow.accesskey "n">
 <!ENTITY overrideSmartCacheSize.label "Hunsa sjálfvirka umsýslu skyndiminnis">
 <!ENTITY overrideSmartCacheSize.accesskey "H">
 <!ENTITY updateTab.label "Uppfærslur">
@@ -61,15 +64,13 @@
 <!ENTITY useService.label "Nota bakgrunnsþjónustu til að setja inn uppfærslur">
 <!ENTITY useService.accesskey "b">
 <!ENTITY updateOthers.label "Uppfæra sjálfvirkt:">
-<!ENTITY enableAddonsUpdate3.label "Viðbætur">
-<!ENTITY enableAddonsUpdate3.accesskey "V">
 <!ENTITY enableSearchUpdate.label "Leitarvélar">
 <!ENTITY enableSearchUpdate.accesskey "L">
 <!ENTITY offlineNotify.label "Láta vita þegar vefsvæði biður um að geyma gögn fyrir ónettengda notkun">
 <!ENTITY offlineNotify.accesskey "t">
 <!ENTITY offlineNotifyExceptions.label "Undanþágur…">
 <!ENTITY offlineNotifyExceptions.accesskey "U">
-<!ENTITY offlineAppsList.label "Eftirfarandi vefsvæði eru með geymd gögn fyrir ónettengda notkun:">
+<!ENTITY offlineAppsList2.label "Eftirfarandi vefsvæði hafa leyfi til að geyma gögn fyrir notkun án nettengingar:">
 <!ENTITY offlineAppsList.height "7em">
 <!ENTITY offlineAppsListRemove.label "Fjarlægja…">
 <!ENTITY offlineAppsListRemove.accesskey "r">

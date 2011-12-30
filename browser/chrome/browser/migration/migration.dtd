@@ -7,12 +7,10 @@
 <!ENTITY importFromIE.accesskey "M">
 <!ENTITY importFromNothing.label "Flytja ekkert inn">
 <!ENTITY importFromNothing.accesskey "e">
-<!ENTITY importFromSeamonkey.label "Netscape 6, 7 eða Mozilla 1.x">
-<!ENTITY importFromSeamonkey.accesskey "N">
-<!ENTITY importFromOpera.label "Opera">
-<!ENTITY importFromOpera.accesskey "O">
 <!ENTITY importFromSafari.label "Safari">
 <!ENTITY importFromSafari.accesskey "S">
+<!ENTITY importFromChrome.label "Chrome">
+<!ENTITY importFromChrome.accesskey "C">
 <!ENTITY importFromHTMLFile.label "Frá HTML skrá">
 <!ENTITY importFromHTMLFile.accesskey "F">
 <!ENTITY noMigrationSources.label "Engin forrit fundust sem gætu innihaldið bókamerki, ferill eða lykilorð.">

@@ -51,6 +51,10 @@
 <!ENTITY popType.accesskey "P">
 <!ENTITY leaveMsgsOnSrvr.label "Skilja póst eftir á netþjóni">
 <!ENTITY leaveMsgsOnSrvr.accesskey "l">
+<!ENTITY portNum.label "Gátt:">
+<!ENTITY portNum.accesskey "G">
+<!ENTITY defaultPortLabel.label "Sjálfgefið:">
+<!ENTITY defaultPortValue.label "">
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
