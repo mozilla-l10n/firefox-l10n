@@ -15,7 +15,7 @@
 
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Xestionar conta">
-<!ENTITY manageAccount.accesskey      "a">
+<!ENTITY manageAccount.accesskey      "X">
 <!ENTITY viewQuota.label              "Ver cota">
 <!ENTITY viewQuota.accesskey          "V">
 <!ENTITY changePassword.label         "Cambiar o contrasinal">
@@ -34,6 +34,8 @@
 <!ENTITY syncComputerName.accesskey   "N">
 
 <!ENTITY syncMy2.label              "Sincronizar o meu:">
+<!ENTITY engine.addons.label        "Complementos">
+<!ENTITY engine.addons.accesskey    "o">
 <!ENTITY engine.bookmarks.label     "Marcadores">
 <!ENTITY engine.bookmarks.accesskey "M">
 <!ENTITY engine.tabs.label          "Lapelas">
