@@ -36,6 +36,8 @@
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "Preferencje">
 <!ENTITY engine.prefs.accesskey     "P">
+<!ENTITY engine.addons.label        "Dodôwczi">
+<!ENTITY engine.addons.accesskey    "D">
 
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label       "Miono kòmpùtra:">

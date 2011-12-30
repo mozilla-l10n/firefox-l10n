@@ -8,6 +8,7 @@
 -->
 <!ENTITY addons.windowTitle                   "Menadżer dodôwków">
 <!ENTITY search.placeholder                   "Szëkba we wszëtczich dodôwkach">
+<!ENTITY search.commandkey "f">
 <!ENTITY loading.label                        "Ladowanié…">
 <!ENTITY listEmpty.installed.label            "Ni môsz zajinstalowóné taczich dodôwków">
 <!ENTITY listEmpty.availableUpdates.label     "Nie nalôzł niżódnëch aktualizacji">
@@ -22,8 +23,8 @@
 <!ENTITY cmd.back.tooltip                     "Biéj jedną starnã nazôd">
 <!ENTITY cmd.forward.tooltip                  "Biéj jedna starnã do przódkù">
 
-<!-- global warnings -->
-<!ENTITY warning.safemode.label                    "Wszëtczé dodôwczi òstałé wëłączoné przez awarjowi trib.">
+
+<!ENTITY warning.safemode.label                    "Wszëtczé dodôwczi òstałé wëłączoné przez awariowi trib.">
 <!ENTITY warning.checkcompatibility.label          "Sprôwdzanié kòmpatibilnotë dodôwków je wëłączoné. Gwësné dodôwczi mògą bëc niekòmpatibilne.">
 <!ENTITY warning.checkcompatibility.enable.label   "Włączë">
 <!ENTITY warning.checkcompatibility.enable.tooltip "Włączë sprôwdzanié kòmpatibilnotë dodôwków">
@@ -210,3 +211,4 @@
 <!ENTITY eula.accept                          "Akceptëjã, wjinstalëjë…">
 
 <!ENTITY settings.path.button.label           "Przezérôj…">
+

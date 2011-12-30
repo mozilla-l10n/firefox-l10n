@@ -51,7 +51,7 @@
 <!ENTITY safeModeDialog.title         "&brandShortName; -awariowi trib">
 <!ENTITY window.width                 "37em">
 
-<!ENTITY safeModeDescription.label    "&brandShortName; robi terô w awarjowim tribie; nastôwë, mòtiwë ë rozszérzenia brëkòwnika są terôczasno wëłączoné.">
+<!ENTITY safeModeDescription.label    "&brandShortName; robi terô w awariowim tribie; nastôwë, mòtiwë ë rozszérzenia brëkòwnika są terôczasno wëłączoné.">
 <!ENTITY safeModeDescription2.label   "Wszëtczé abò niejedné z ùniższich zmianów mòże wprowôdzëc na wiedno:">
 
 <!ENTITY disableAddons.label          "Wëłączë wszëtczé przëdôwczi">
@@ -70,4 +70,4 @@
 <!ENTITY restoreSearch.accesskey      "d">
 
 <!ENTITY changeAndRestartButton.label "Zrobi zmianë ë zrëszë znowa">
-<!ENTITY continueButton.label         "Robi dali w awarjowim tribie">
+<!ENTITY continueButton.label         "Robi dali w awariowim tribie">

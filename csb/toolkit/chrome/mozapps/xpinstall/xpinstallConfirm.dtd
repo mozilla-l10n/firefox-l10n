@@ -1,8 +1,0 @@
-<!-- extracted from institems.xul -->
-
-<!ENTITY dialog.title            "Jinstalacjô softwôrë">
-<!ENTITY dialog.style            "width: 45em">
-<!ENTITY warningPrimary.label    "Nót je jinstalowac dodôwczi ze zdrojów jaczim mòże wierzëc.">
-<!ENTITY warningSecondary.label  "Niebezpiecznô softwôra mòże zepsëc pòdôwczi w kòmpùtrze abò narëszëc priwatnotã brëkòwnikã.">
-
-<!ENTITY from.label "z:">

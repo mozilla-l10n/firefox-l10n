@@ -228,9 +228,19 @@ can reach it easily. -->
 <!ENTITY inspectButton.label          "Sprôwdzë">
 <!ENTITY inspectButton.accesskey      "ô">
 <!ENTITY inspectCloseButton.tooltiptext "Zamkni Jinspektora">
+
+<!ENTITY inspect3DButton.label        "3D">
+<!ENTITY inspect3DButton.accesskey    "M">
 <!ENTITY inspectStyleButton.label     "Sztél">
 <!ENTITY inspectStyleButton.accesskey "S">
 
+
+<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
+  -  in the Tools menu. -->
+<!ENTITY styleeditor.label            "Editora Sztélu">
+<!ENTITY styleeditor.accesskey        "S">
+<!ENTITY styleeditor.keycode          "VK_F7">
+<!ENTITY styleeditor.keytext          "F7">
 <!ENTITY inspectContextMenu.label     "Sprôwdzë Element">
 <!ENTITY inspectContextMenu.accesskey "E">
 

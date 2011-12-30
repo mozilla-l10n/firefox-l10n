@@ -1,15 +1,10 @@
 <!-- Note: each tab panel must contain unique accesskeys -->
 <!--
 # Translator(s):
-#
 # warszk <michol@linuxcsb.org>
 # https://launchpad.net/~kaszeba <mark@linuxcsb.org>
 # jurk <jurk@linuxcsb.org>
-#
--->
-<!--
 # Reviewer(s):
-#
 # jurk <jurk@linuxcsb.org>
 #
 -->
@@ -41,7 +36,7 @@
 <!ENTITY alwaysCheckDefault.accesskey    "p">
 <!ENTITY checkNow.label                  "Sprôwdzë terô">
 <!ENTITY checkNow.accesskey              "S">
-<!ENTITY submitCrashes.label             "Sélanié rapòrtów ò awarjach">
+<!ENTITY submitCrashes.label             "Sélanié rapòrtów ò awariach">
 <!ENTITY submitCrashes.accesskey         "S">
 <!ENTITY submitTelemetry.label           "Wëslë pòdôwczi ò wëdajnoscë">
 <!ENTITY submitTelemetry.accesskey       "p">
@@ -53,8 +48,7 @@
 <!ENTITY connectionDesc.label            "Kònfigùrëjë na jaczi ôrt &brandShortName; mô sã parłãczëc z internetã">
 <!ENTITY connectionSettings.label        "Nastôwë…">
 <!ENTITY connectionSettings.accesskey    "N">
-
-<!ENTITY offlineStorage.label            "Pamiãc tribù offline">
+<!ENTITY offlineStorage2.label           "Pamiãc tribù offline ë pòdôwków brëkòwnika">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -69,6 +63,9 @@
 <!ENTITY clearCacheNow.accesskey         "c">
 <!ENTITY overrideSmartCacheSize.label    "Nôdpiszë automaticzné sprôwianié pòdrãczną pamiãcą">
 <!ENTITY overrideSmartCacheSize.accesskey "o">
+<!ENTITY clearOfflineAppCacheNow.accesskey "N">
+<!ENTITY clearOfflineAppCacheNow.label   "Wëczëszczë terô">
+<!ENTITY httpCache.label                 "Kaszed zamkłosc WWW">
 
 <!ENTITY updateTab.label                 "Aktualizacjô">
 
@@ -77,8 +74,6 @@
 <!ENTITY updateAuto.accesskey            "n">
 
 <!ENTITY updateOthers.label              "Aktualizëjë automatno:">
-<!ENTITY enableAddonsUpdate3.label       "Dodôwczi">
-<!ENTITY enableAddonsUpdate3.accesskey   "d">
 
 <!ENTITY updateCheck.label               "Sprôwdzôj przistãp aktualizacji, ale wëmôgôj pocwierdzenia jich jinstalacji">
 <!ENTITY updateCheck.accesskey           "S">
@@ -87,7 +82,6 @@
 <!ENTITY updateAutoAddonWarn.accesskey   "Ò">
 <!ENTITY updateManual.label              "Nie sprôwdzôj przistãpù aktualizacji (niebédowóné: zagrôżnota bezpiékù)">
 <!ENTITY updateManual.accesskey          "N">
-
 <!ENTITY enableSearchUpdate.label        "Szëkôsze">
 <!ENTITY enableSearchUpdate.accesskey    "k">
 <!ENTITY updateHistory.label             "Wëskrzëni histroriã aktualizacji">
@@ -101,15 +95,14 @@
 <!ENTITY offlineNotifyExceptions.label   "Wëjimczi…">
 <!ENTITY offlineNotifyExceptions.accesskey "W">
 
-<!ENTITY offlineAppsList.label           "Nôslédné internetowé starnë trzëmają na diskù pòdôwczi w tribie offline:">
+<!ENTITY offlineAppsList2.label          "Nôslédné internetowé starnë trzëmają na diskù pòdôwczi w tribie offline:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Rëmôj…">
 <!ENTITY offlineAppsListRemove.accesskey "R">
 <!ENTITY offlineAppRemove.confirm        "Rëmôj pòdôwczi tribù offline">
 
 <!ENTITY encryptionTab.label             "Szifrowanié">
-
-<!ENTITY protocols.label                 "Protokòłë">
+<!ENTITY protocols.label                 "Protokulë">
 <!ENTITY useSSL3.label                   "Brëkùjë SSL 3.0">
 <!ENTITY useSSL3.accesskey               "3">
 <!ENTITY useTLS1.label                   "Brëkùjë TLS 1.0">

@@ -55,9 +55,9 @@
 <!ENTITY aboutWarningButton.label "Bãdã òstróżny, òbiecywóm!">
 <!ENTITY aboutWarningCheckbox.label "Wëskrzëni tã òstrzégã nôslédnym razã">
 
-<!ENTITY filterPrefs.label "Filter:">
-<!ENTITY filterPrefs.accesskey "F">
-<!ENTITY focusFilter.key "f">
+<!ENTITY searchPrefs.label "Szëkba:">
+<!ENTITY searchPrefs.accesskey "z">
+<!ENTITY focusSearch.key "S">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "Miono">
