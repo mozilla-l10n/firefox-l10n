@@ -1,4 +1,3 @@
-<!ENTITY messengerWindow.title "Pošta a diskusie">
 <!ENTITY titledefault.label "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
@@ -592,8 +591,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextMarkMailFolderRead.accesskey "z">
 <!ENTITY folderContextSubscribe.label "Prihlásiť k odberu…">
 <!ENTITY folderContextSubscribe.accesskey "P">
-<!ENTITY folderContextSearchMessages.label "Hľadať v správach…">
-<!ENTITY folderContextSearchMessages.accesskey "H">
+<!ENTITY folderContextSearchForMessages.label "Hľadať v správach…">
+<!ENTITY folderContextSearchForMessages.accesskey "H">
 <!ENTITY folderContextProperties.label "Vlastnosti…">
 <!ENTITY folderContextProperties.accesskey "l">
 <!ENTITY folderContextFavoriteFolder.label "Priečinok Obľúbené">

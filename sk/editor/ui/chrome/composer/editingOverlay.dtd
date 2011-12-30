@@ -68,3 +68,11 @@
 <!-- Edit menu items -->
 <!ENTITY publishSettings.label "Nastavenie servera na publikovanie…">
 <!ENTITY publishSettings.accesskey "b">
+
+<!-- Toolbar buttons/items -->
+<!ENTITY newToolbarCmd.label "Nový">
+<!ENTITY newToolbarCmd.tooltip "Nová prázdna stránka">
+<!ENTITY openToolbarCmd.label "Otvoriť">
+<!ENTITY openToolbarCmd.tooltip "Otvoriť lokálnu stránku">
+<!ENTITY saveToolbarCmd.tooltip "Uložiť stránku lokálne">
+<!ENTITY publishToolbarCmd.tooltip "Odoslať súbor na vzdialený server">

@@ -326,12 +326,6 @@
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Panel Ponuka">
 <!ENTITY formatToolbar.tooltip "Panel Formátovanie">
-<!ENTITY newToolbarCmd.label "Nový">
-<!ENTITY newToolbarCmd.tooltip "Nová prázdna stránka">
-<!ENTITY openToolbarCmd.label "Otvoriť">
-<!ENTITY openToolbarCmd.tooltip "Otvoriť lokálnu stránku">
-<!ENTITY saveToolbarCmd.tooltip "Uložiť stránku lokálne">
-<!ENTITY publishToolbarCmd.tooltip "Odoslať súbor na vzdialený server">
 <!ENTITY cutToolbarCmd.tooltip "Vystrihnúť">
 <!ENTITY copyToolbarCmd.tooltip "Kopírovať">
 <!ENTITY pasteToolbarCmd.tooltip "Prilepiť">
