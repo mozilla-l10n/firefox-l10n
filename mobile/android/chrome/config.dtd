@@ -1,12 +1,4 @@
-<!ENTITY empty.label            "Buscar">
+<!ENTITY search.placeholder     "Preferencias de búsqueda">
+<!ENTITY clear.altText          "Limpiar">
 <!ENTITY newpref.label          "Agregar una nueva preferencia">
-<!ENTITY addpref.name           "Nombre">
-<!ENTITY addpref.value          "Valor">
 
-<!ENTITY cancel.label           "Cancelar">
-<!ENTITY reset.label            "Reset">
-<!ENTITY done.label             "Hecho">
-
-<!ENTITY integer.label          "Entero">
-<!ENTITY string.label           "Texto">
-<!ENTITY boolean.label          "Lógico">

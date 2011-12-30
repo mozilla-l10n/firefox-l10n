@@ -1,0 +1,8 @@
+<!ENTITY aboutAddons.title                      "Administrador de complementos">
+<!ENTITY aboutAddons.header                     "Complementos">
+<!ENTITY aboutAddons.options                    "Opciones">
+
+<!ENTITY addonAction.enable                     "Habilitar">
+<!ENTITY addonAction.disable                    "Deshabilitar">
+<!ENTITY addonAction.uninstall                  "Desinstalar">
+<!ENTITY addonAction.cancel                     "Cancelar">
