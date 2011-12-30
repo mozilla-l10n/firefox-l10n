@@ -26,6 +26,8 @@
 <!ENTITY engine.passwords.accesskey "L">
 <!ENTITY engine.prefs.label "Valkostir">
 <!ENTITY engine.prefs.accesskey "s">
+<!ENTITY engine.addons.label "Viðbætur">
+<!ENTITY engine.addons.accesskey "æ">
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label "Tölvuheiti:">
 <!ENTITY syncComputerName.accesskey "T">

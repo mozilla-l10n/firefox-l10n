@@ -24,6 +24,7 @@
 <!ENTITY forwardTo.label "Áframsenda póst á">
 <!ENTITY replyWithTemplate.label "Svara með sniðmáti">
 <!ENTITY markMessageRead.label "Merkja sem lesið">
+<!ENTITY markMessageUnread.label "Merkja sem ólesið">
 <!ENTITY markMessageStarred.label "Stjörnumerkja">
 <!ENTITY setPriority.label "Setja mikilvægi sem">
 <!ENTITY addTag.label "Flokka póst">

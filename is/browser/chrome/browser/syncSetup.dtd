@@ -1,7 +1,7 @@
 <!ENTITY accountSetupTitle.label "&syncBrand.fullName.label; uppsetning">
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "Velkominn, ef þú hefur aldrei notað &syncBrand.fullName.label; áður, verðurðu að stofna nýjan aðgang.">
+<!ENTITY setup.pickSetupType.description2 "Velkomin! Ef þú hefur aldrei notað &syncBrand.fullName.label; áður, verðurðu að stofna nýjan aðgang.">
 <!ENTITY button.createNewAccount.label "Stofna nýjan aðgang">
 <!ENTITY button.haveAccount.label "Ég er með reikning">
 <!ENTITY setup.choicePage.title.label "Hefurðu notað &syncBrand.fullName.label; áður?">
@@ -78,6 +78,8 @@
 <!ENTITY engine.passwords.accesskey "L">
 <!ENTITY engine.prefs.label "Valkostir">
 <!ENTITY engine.prefs.accesskey "s">
+<!ENTITY engine.addons.label "Viðbætur">
+<!ENTITY engine.addons.accesskey "æ">
 <!ENTITY choice2.merge.main.label "Sameina gögn á þessari tölvu við &syncBrand.shortName.label; gögn">
 <!ENTITY choice2.merge.recommended.label "Mælt með:">
 <!ENTITY choice2.client.main.label "Skipta út gögnum á þessari tölvu með &syncBrand.shortName.label; gögnum">
