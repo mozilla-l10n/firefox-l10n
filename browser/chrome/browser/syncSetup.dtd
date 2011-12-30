@@ -2,7 +2,7 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "Vitajte. Ak ste predtým nikdy nepoužili službu &syncBrand.fullName.label;, musíte si vytvoriť nový účet.">
+<!ENTITY setup.pickSetupType.description2 "Vitajte. Ak ste predtým nikdy nepoužili službu &syncBrand.fullName.label;, musíte si vytvoriť nový účet.">
 <!ENTITY button.createNewAccount.label "Vytvoriť nový účet">
 <!ENTITY button.haveAccount.label      "Už mám účet">
 
@@ -89,6 +89,8 @@
 <!ENTITY engine.passwords.accesskey "e">
 <!ENTITY engine.prefs.label         "Nastavenia">
 <!ENTITY engine.prefs.accesskey     "N">
+<!ENTITY engine.addons.label        "Doplnky">
+<!ENTITY engine.addons.accesskey    "D">
 
 <!ENTITY choice2.merge.main.label      "Spojiť údaje v tomto počítači s údajmi na účte &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Odporúčané:">

@@ -55,6 +55,10 @@
 <!ENTITY popType.accesskey "P">
 <!ENTITY leaveMsgsOnSrvr.label "Nechávať správy na serveri">
 <!ENTITY leaveMsgsOnSrvr.accesskey "c">
+<!ENTITY portNum.label "Port:">
+<!ENTITY portNum.accesskey "r">
+<!ENTITY defaultPortLabel.label "Predvolený:">
+<!ENTITY defaultPortValue.label "">
 
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
