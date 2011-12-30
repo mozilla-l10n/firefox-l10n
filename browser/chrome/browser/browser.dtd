@@ -217,8 +217,17 @@ can reach it easily. -->
 <!ENTITY inspectButton.label            "Preskúmať">
 <!ENTITY inspectButton.accesskey        "P">
 <!ENTITY inspectCloseButton.tooltiptext "Zavrieť okno prieskumníka">
+<!ENTITY inspect3DButton.label        "3D">
+<!ENTITY inspect3DButton.accesskey    "D">
 <!ENTITY inspectStyleButton.label     "Štýl">
 <!ENTITY inspectStyleButton.accesskey "t">
+
+<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
+  -  in the Tools menu. -->
+<!ENTITY styleeditor.label            "Editor štýlov">
+<!ENTITY styleeditor.accesskey        "o">
+<!ENTITY styleeditor.keycode          "VK_F7">
+<!ENTITY styleeditor.keytext          "F7">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Získať ďalšie nástroje">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "Z">
@@ -421,14 +430,23 @@ can reach it easily. -->
 <!ENTITY thisFrameMenu.accesskey      "T">
 
 <!-- Media (video/audio) controls -->
+<!-- LOCALIZATION NOTE: The access keys for "Play" and
+"Pause" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaPlay.label             "Prehrať">
 <!ENTITY mediaPlay.accesskey         "P">
 <!ENTITY mediaPause.label            "Pozastaviť">
 <!ENTITY mediaPause.accesskey        "P">
+<!-- LOCALIZATION NOTE: The access keys for "Mute" and
+"Unmute" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Stlmiť">
 <!ENTITY mediaMute.accesskey         "m">
 <!ENTITY mediaUnmute.label           "Zrušiť stlmenie">
 <!ENTITY mediaUnmute.accesskey       "m">
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "Zobraziť ovládače">
 <!ENTITY mediaShowControls.accesskey "d">
 <!ENTITY mediaHideControls.label     "Skryť ovládače">
@@ -437,7 +455,9 @@ can reach it easily. -->
 <!ENTITY videoFullScreen.accesskey   "c">
 <!ENTITY videoSaveImage.label        "Uložiť snímku ako…">
 <!ENTITY videoSaveImage.accesskey    "s">
-
+<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
+"Hide Statistics" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY videoShowStats.label        "Zobraziť štatistiky">
 <!ENTITY videoShowStats.accesskey    "a">
 <!ENTITY videoHideStats.label        "Skryť štatistiky">

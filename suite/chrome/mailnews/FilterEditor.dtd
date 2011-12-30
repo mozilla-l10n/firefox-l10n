@@ -83,6 +83,7 @@
 <!ENTITY forwardTo.label "Odoslať ďalej komu">
 <!ENTITY replyWithTemplate.label "Odpovedať pomocou šablóny">
 <!ENTITY markMessageRead.label "Označiť ako prečítané">
+<!ENTITY markMessageUnread.label "Označiť ako neprečítané">
 <!ENTITY markMessageStarred.label "Pridať vlajku">
 <!ENTITY setPriority.label "Zmeniť prioritu na">
 <!ENTITY addTag.label "Priradiť správe popis">

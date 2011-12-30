@@ -77,8 +77,10 @@
 <!ENTITY lightning.toolbar.mail.label         "Pošta">
 <!ENTITY lightning.toolbar.mail.accesskey     "o">
 <!ENTITY lightning.toolbar.calendar.label     "Kalendár">
+<!ENTITY lightning.toolbar.calendar.tooltip   "Prepnúť na kartu Kalendár">
 <!ENTITY lightning.toolbar.calendar.accesskey "K">
 <!ENTITY lightning.toolbar.task.label         "Úlohy">
+<!ENTITY lightning.toolbar.task.tooltip       "Prepnúť na kartu Úlohy">
 <!ENTITY lightning.toolbar.task.accesskey     "h">
 
 <!-- Toolbar write button -->

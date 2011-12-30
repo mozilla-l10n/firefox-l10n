@@ -49,3 +49,7 @@
 <!ENTITY pref.defaultlength.accesskey "P">
 <!ENTITY pref.defaultsnoozelength.label "Predvolený čas oneskoreného upozornenia po udalosti:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "e">
+
+<!ENTITY pref.accessibility.label "Zjednodušenie ovládania" >
+<!ENTITY pref.systemcolors.label "Optimalizovať farby pre zjednodušenie ovládania" >
+<!ENTITY pref.systemcolors.accesskey "O">

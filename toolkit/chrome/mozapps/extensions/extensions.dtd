@@ -1,5 +1,10 @@
 <!ENTITY addons.windowTitle                   "Správca doplnkov">
+
 <!ENTITY search.placeholder                   "Hľadať v doplnkoch">
+<!-- LOCALIZATION NOTE (search.commandKey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
+
 <!ENTITY loading.label                        "Načítava sa…">
 <!ENTITY listEmpty.installed.label            "Nemáte nainštalované žiadne doplnky tohto typu">
 <!ENTITY listEmpty.availableUpdates.label     "Neboli nájdené žiadne aktualizácie">
@@ -168,8 +173,14 @@
 <!ENTITY addon.details.label                  "Viac">
 <!ENTITY addon.details.tooltip                "Zobraziť ďalšie informácie o tomto doplnku">
 <!ENTITY addon.unknownDate                    "neznámy">
+<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
+     to signify that an add-on is disabled, in the form
+     "<Addon name> <1.0> (disabled)" -->
 <!ENTITY addon.disabled.postfix               "(zakázané)">
-<!-- LOCALIZATION NOTE (addon.update.postfix): This is used to signify that an item is an update, in the form "Addon v1.0 Update" -->
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
+     updates list to signify that an item is an update, in the form
+     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
+     necessary -->
 <!ENTITY addon.update.postfix                 "(aktualizácia)">
 <!ENTITY addon.undoAction.label               "Späť">
 <!ENTITY addon.undoAction.tooltip             "Vrátiť späť vykonanú akciu">
