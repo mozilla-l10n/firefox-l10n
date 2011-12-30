@@ -40,7 +40,9 @@
 <!ENTITY connectionSettings.label        "Configuración…">
 <!ENTITY connectionSettings.accesskey    "C">
 
-<!ENTITY offlineStorage.label            "Almacenamento sen conexión">
+<!ENTITY httpCache.label                 "Contido web en caché">
+
+<!ENTITY offlineStorage2.label           "Datos do usuario e contido web sen conexión">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -52,7 +54,9 @@
 <!ENTITY limitCacheSizeBefore.accesskey  "L">
 <!ENTITY limitCacheSizeAfter.label       "MB de espazo">
 <!ENTITY clearCacheNow.label             "Limpar agora">
-<!ENTITY clearCacheNow.accesskey         "L">
+<!ENTITY clearCacheNow.accesskey         "m">
+<!ENTITY clearOfflineAppCacheNow.label   "Limpar agora">
+<!ENTITY clearOfflineAppCacheNow.accesskey "g">
 <!ENTITY overrideSmartCacheSize.label    "Sobrescribir a xestión automática da caché">
 <!ENTITY overrideSmartCacheSize.accesskey "o">
 
@@ -76,8 +80,6 @@
 <!ENTITY useService.accesskey            "g">
 
 <!ENTITY updateOthers.label              "Actualizar automaticamente:">
-<!ENTITY enableAddonsUpdate3.label       "Complementos">
-<!ENTITY enableAddonsUpdate3.accesskey   "o">
 <!ENTITY enableSearchUpdate.label        "Buscadores">
 <!ENTITY enableSearchUpdate.accesskey    "B">
 
@@ -86,7 +88,7 @@
 <!ENTITY offlineNotifyExceptions.label   "Excepcións…">
 <!ENTITY offlineNotifyExceptions.accesskey "c">
 
-<!ENTITY offlineAppsList.label           "Os seguintes sitios web almacenaron datos para a utilización sen conexión:">
+<!ENTITY offlineAppsList2.label          "Os seguintes sitios web poden almacenar datos para a utilización sen conexión:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Eliminar…">
 <!ENTITY offlineAppsListRemove.accesskey "E">
