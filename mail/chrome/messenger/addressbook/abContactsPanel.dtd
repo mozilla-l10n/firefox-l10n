@@ -5,14 +5,19 @@
 <!ENTITY SearchNameOrEmail.label            "Nome ou correo electrónico">
 
 <!ENTITY deleteAddrBookCard.label           "Borrar">
+<!ENTITY deleteAddrBookCard.accesskey       "B">
 <!ENTITY addrBookCardProperties.label       "Propiedades">
+<!ENTITY addrBookCardProperties.accesskey   "P">
 <!ENTITY addtoToFieldMenu.label             "Engadir no campo Para">
+<!ENTITY addtoToFieldMenu.accesskey         "a">
 <!ENTITY addtoCcFieldMenu.label             "Engadir no campo CC">
+<!ENTITY addtoCcFieldMenu.accesskey         "C">
 <!ENTITY addtoBccFieldMenu.label            "Engadir no campo CCO">
+<!ENTITY addtoBccFieldMenu.accesskey        "O">
 
 <!ENTITY toButton.label                     "Engadir en Para:">
-<!ENTITY toButton.accesskey                 "e">
+<!ENTITY toButton.accesskey                 "a">
 <!ENTITY ccButton.label                     "Engadir en CC:">
-<!ENTITY ccButton.accesskey                 "n">
+<!ENTITY ccButton.accesskey                 "C">
 <!ENTITY bccButton.label                    "Engadir en CCO:">
-<!ENTITY bccButton.accesskey                "r">
+<!ENTITY bccButton.accesskey                "O">
