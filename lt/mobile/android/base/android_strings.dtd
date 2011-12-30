@@ -1,19 +1,99 @@
-<!ENTITY  splash_firstrun "Įdiegiama programa „&brandShortName;“…">
-<!ENTITY  no_space_to_start_error "Neužtenka laisvos vietos programai „&brandShortName;“ paleisti.">
-<!ENTITY  error_loading_file "Bandant įkelti „&brandShortName;“ darbui būtinus failus, įvyko klaida">
+<!ENTITY splash_firstrun "Užbaigiamas programos „&brandShortName;“ diegimas…">
 
-<!ENTITY  crash_reporter_title "„&brandShortName;“ strigčių pranešiklis">
-<!ENTITY  crash_message "Programa „&brandShortName;“ užstrigo. Strigties metu atvertos kortelės turėtų būti išvardintos „&brandShortName;“ pradžios tinklalapyje, paleidus programą iš naujo.">
-<!ENTITY  crash_help_message "Padėkite mums pašalinti šią problemą!">
-<!ENTITY  crash_send_report_message "Praneškite „Mozillai“ apie šią strigtį">
-<!ENTITY  crash_include_url "Įtraukti į pranešimą tinklalapio adresą">
-<!ENTITY  crash_close_label "Užverti">
-<!ENTITY  crash_restart_label "Paleisti „&brandShortName;“ iš naujo">
-<!ENTITY  sending_crash_report "Išsiunčiamas strigties pranešimas…">
-<!ENTITY  exit_label "Baigti darbą">
-<!ENTITY  continue_label "Tęsti">
+<!ENTITY no_space_to_start_error "Neužtenka laisvos vietos programai „&brandShortName;“ paleisti.">
+<!ENTITY error_loading_file "Bandant įkelti „&brandShortName;“ darbui būtinus failus, įvyko klaida">
 
-<!ENTITY  launcher_shortcuts_title "„&brandShortName;“ saityno programėlės">
-<!ENTITY  launcher_shortcuts_empty "Saityno programėlių nerasta">
+<!ENTITY awesomebar_all_pages_title "Dažniausios svetainės">
+<!ENTITY awesomebar_bookmarks_title "Adresynas">
+<!ENTITY awesomebar_history_title "Žurnalas">
+<!ENTITY awesomebar_search_engine "Ieškoti „&#037;s“">
+
+<!ENTITY crash_reporter_title "„&brandShortName;“ strigčių pranešiklis">
+<!ENTITY crash_message "Programa „&brandShortName;“ užstrigo. Strigties metu atvertos kortelės turėtų būti išvardintos „&brandShortName;“ pradžios tinklalapyje, paleidus programą iš naujo.">
+<!ENTITY crash_help_message "Padėkite mums pašalinti šią problemą!">
+<!ENTITY crash_send_report_message "Praneškite „Mozillai“ apie šią strigtį">
+<!ENTITY crash_include_url "Įtraukti į pranešimą tinklalapio adresą">
+<!ENTITY crash_close_label "Užverti">
+<!ENTITY crash_restart_label "Paleisti „&brandShortName;“ iš naujo">
+<!ENTITY sending_crash_report "Išsiunčiamas strigties pranešimas…">
+<!ENTITY exit_label "Baigti darbą">
+<!ENTITY continue_label "Tęsti">
+
+<!ENTITY launcher_shortcuts_title "„&brandShortName;“ saityno programėlės">
+<!ENTITY launcher_shortcuts_empty "Saityno programėlių nerasta">
 
 <!ENTITY choose_file "Parinkite failą">
+
+<!ENTITY awesomebar_default_text "Įveskite ieškomą frazę arba adresą">
+
+<!ENTITY bookmarks_title "Adresynas">
+<!ENTITY bookmark_add "Įtraukti">
+<!ENTITY bookmark_remove "Pašalinti">
+<!ENTITY bookmark_added "Tinklalapis įtrauktas į adresyną">
+<!ENTITY bookmark_removed "Tinklalapis pašalintas iš adresyno">
+
+<!ENTITY history_today_section "Šiandien">
+<!ENTITY history_yesterday_section "Vakar">
+<!ENTITY history_week_section "Prieš 7 dienas">
+<!ENTITY history_older_section "Seniau nei prieš 7 dienas">
+
+<!ENTITY reload "Naujinti">
+<!ENTITY forward "Pirmyn">
+
+<!ENTITY new_tab "Nauja kortelė">
+
+<!ENTITY settings "Nuostatos">
+<!ENTITY settings_title "Nuostatos">
+<!ENTITY pref_category_general "Bendrosios">
+<!ENTITY pref_category_privacy "Privatumas ir saugumas">
+<!ENTITY pref_category_content "Turinys">
+<!ENTITY pref_about_firefox "Apie „&brandShortName;“">
+<!ENTITY pref_do_not_track "Nurodyti svetainėms, kad jos Jūsų nesektų">
+<!ENTITY pref_telemetry "Siųsti našumo ataskaitas">
+<!ENTITY pref_homepage "Pradžios tinklalapis">
+<!ENTITY pref_homepage_start "„Firefox“ numatytasis">
+<!ENTITY pref_homepage_blank "Tuščias tinklalapis">
+<!ENTITY pref_homepage_current "Šiuo metu atvertas tinklalapis">
+<!ENTITY pref_remember_signons "Įsiminti slaptažodžius">
+<!ENTITY pref_cookies "Leisti įrašyti slapukus">
+<!ENTITY pref_char_encoding "Rodyti naudojamą koduotę">
+<!ENTITY pref_clear_history "Valyti žurnalą">
+<!ENTITY pref_clear_history_confirm "Bus išvalytas naršymo žurnalas">
+<!ENTITY pref_clear_private_data "Valyti privačius duomenis">
+<!ENTITY pref_clear_private_data_confirm "Bus išvalytos naršymo nuostatos, tarp kurių – įrašyti slaptažodžiai ir slapukai">
+<!ENTITY pref_enable_plugins "Leisti papildinius">
+<!ENTITY pref_enable_plugins_yes "Taip">
+<!ENTITY pref_enable_plugins_tap_to_play "Bakstelėkite, kad būtų paleistas papildinys">
+<!ENTITY pref_enable_plugins_no "Ne">
+<!ENTITY pref_font_size "Šriftų dydžiai">
+<!ENTITY pref_font_size_small "Maži">
+<!ENTITY pref_font_size_medium "Vidutiniai">
+<!ENTITY pref_font_size_large "Dideli">
+<!ENTITY pref_font_size_xlarge "Ypač dideli">
+<!ENTITY pref_use_master_password "Naudoti pagrindinį slaptažodį">
+
+<!ENTITY quit "Baigti darbą">
+
+<!ENTITY addons "Priedai">
+
+<!ENTITY share "Dalintis tinklalapiu">
+<!ENTITY save_as_pdf "Įrašyti PDF formatu">
+<!ENTITY agent_request_desktop "Prašyti svetainės staliniam kompiuteriui">
+<!ENTITY agent_request_mobile "Prašyti svetainės mobiliajam įrenginiui">
+
+<!ENTITY contextmenu_open_new_tab "Atverti naujoje kortelėje">
+<!ENTITY contextmenu_add_to_launcher "Įtraukti į pradžios ekraną">
+<!ENTITY contextmenu_share "Dalintis">
+
+<!ENTITY site_settings_title        "Išalyti svetainės nuostatas">
+<!ENTITY site_settings_cancel       "Atsisakyti">
+<!ENTITY site_settings_clear        "Išvalyti">
+<!ENTITY site_settings_no_settings  "Valytinų nuostatų nėra.">
+
+<!ENTITY masterpassword_create_title "Sukurti pagrindinį slaptažodį">
+<!ENTITY masterpassword_remove_title "Pašalinti pagrindinį slaptažodį">
+<!ENTITY masterpassword_password "Slaptažodis">
+<!ENTITY masterpassword_confirm "Pakartokite slaptažodį">
+
+<!ENTITY button_ok "Gerai">
+<!ENTITY button_cancel "Atsisakyti">

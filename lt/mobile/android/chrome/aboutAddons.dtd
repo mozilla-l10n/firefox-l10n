@@ -1,0 +1,8 @@
+<!ENTITY aboutAddons.title                      "Priedų tvarkytuvė">
+<!ENTITY aboutAddons.header                     "Priedai">
+<!ENTITY aboutAddons.options                    "Nuostatos">
+
+<!ENTITY addonAction.enable                     "Įjungti">
+<!ENTITY addonAction.disable                    "Išjungti">
+<!ENTITY addonAction.uninstall                  "Pašalinti">
+<!ENTITY addonAction.cancel                     "Atsisakyti">
