@@ -48,7 +48,7 @@
 <!ENTITY followupToField3.label "Seguimento a ">
 <!ENTITY tagsHdr3.label "Etiquetas ">
 <!ENTITY dateField3.label "Data ">
-<!ENTITY userAgentField3.label "User gent ">
+<!ENTITY userAgentField3.label "User agent ">
 <!ENTITY referencesField3.label "Referencias ">
 <!ENTITY messageIdField3.label "ID da mensaxe ">
 <!ENTITY inReplyToField3.label "En resposta a ">
@@ -129,5 +129,8 @@
 <!ENTITY copyLinkCmd.accesskey    "C">
 
 <!ENTITY CopyMessageId.label "Copiar o ID da mensaxe">
+<!ENTITY CopyMessageId.accesskey "C">
 <!ENTITY OpenMessageForMsgId.label "Abrir mensaxe por ID">
+<!ENTITY OpenMessageForMsgId.accesskey "o">
 <!ENTITY OpenBrowserWithMsgId.label "Abrir navegador co ID da mensaxe">
+<!ENTITY OpenBrowserWithMsgId.accesskey "e">
