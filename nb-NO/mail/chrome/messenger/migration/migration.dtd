@@ -6,8 +6,8 @@
 
 <!ENTITY importFromNothing.label        "Ikke importer noe">
 <!ENTITY importFromNothing.accesskey    "I">
-<!ENTITY importFromSeamonkey2.label     "Netscape 6, 7, Mozilla 1.x eller SeaMonkey">
-<!ENTITY importFromSeamonkey2.accesskey "N">
+<!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 eller nyere">
+<!ENTITY importFromSeamonkey3.accesskey "S">
 <!ENTITY importFromOExpress.label       "Outlook Express">
 <!ENTITY importFromOExpress.accesskey   "u">
 <!ENTITY importFromOutlook.label        "Outlook">
