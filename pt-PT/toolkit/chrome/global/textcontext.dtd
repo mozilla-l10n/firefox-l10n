@@ -13,6 +13,8 @@
 
 <!ENTITY spellAddToDictionary.label "Adicionar ao dicionário">
 <!ENTITY spellAddToDictionary.accesskey "d">
+<!ENTITY spellUndoAddToDictionary.label "Anular adicionar ao dicionário">
+<!ENTITY spellUndoAddToDictionary.accesskey "n">
 <!ENTITY spellCheckEnable.label "Verificar a ortografia neste campo">
 <!ENTITY spellCheckEnable.accesskey "V">
 <!ENTITY spellNoSuggestions.label "(Sem sugestões ortográficas)">
