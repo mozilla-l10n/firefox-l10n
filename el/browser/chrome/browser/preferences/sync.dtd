@@ -43,7 +43,8 @@
 
 <!ENTITY engine.tabs.label          "Καρτέλες">
 <!ENTITY engine.tabs.accesskey      "τ">
-
+<!ENTITY engine.addons.label        "Πρόσθετα">
+<!ENTITY engine.addons.accesskey    "θ">
 
 <!ENTITY syncMy.label               "Συγχρονισμός σε">
 
