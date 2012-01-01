@@ -39,10 +39,6 @@
 <!ENTITY pref_about_firefox "Informazioni su &brandShortName;">
 <!ENTITY pref_do_not_track "Attiva anti-tracciamento">
 <!ENTITY pref_telemetry "Invia dati prestazioni">
-<!ENTITY pref_homepage "Pagina iniziale">
-<!ENTITY pref_homepage_start "Firefox Start">
-<!ENTITY pref_homepage_blank "Pagina vuota">
-<!ENTITY pref_homepage_current "Pagina corrente">
 <!ENTITY pref_remember_signons "Ricorda password">
 <!ENTITY pref_cookies "Attiva cookie">
 <!ENTITY pref_char_encoding "Mostra codifica caratteri">
