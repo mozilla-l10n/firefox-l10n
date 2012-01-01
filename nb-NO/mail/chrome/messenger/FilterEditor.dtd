@@ -28,6 +28,7 @@
 <!ENTITY forwardTo.label "Videresend melding til">
 <!ENTITY replyWithTemplate.label "Svar med mal">
 <!ENTITY markMessageRead.label "Marker som lest">
+<!ENTITY markMessageUnread.label "Marker som ulest">
 <!ENTITY markMessageStarred.label "Merk med stjerne">
 <!ENTITY setPriority.label "Sett prioritet til">
 <!ENTITY addTag.label "Tilordne etikett">
