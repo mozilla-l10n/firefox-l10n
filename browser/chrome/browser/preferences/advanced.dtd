@@ -40,7 +40,9 @@
 <!ENTITY connectionSettings.label        "Definições...">
 <!ENTITY connectionSettings.accesskey    "e">
 
-<!ENTITY offlineStorage.label            "Armazenamento em modo Desligado">
+<!ENTITY httpCache.label                 "Conteúdo web na cache">
+
+<!ENTITY offlineStorage2.label           "Conteúdo web no modo desligado e dados do utilizador">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -53,6 +55,8 @@
 <!ENTITY limitCacheSizeAfter.label       "MB de espaço">
 <!ENTITY clearCacheNow.label             "Limpar Agora">
 <!ENTITY clearCacheNow.accesskey         "g">
+<!ENTITY clearOfflineAppCacheNow.label   "Limpar Agora">
+<!ENTITY clearOfflineAppCacheNow.accesskey "m">
 <!ENTITY overrideSmartCacheSize.label    "Sobrepor a gestão automática da cache">
 <!ENTITY overrideSmartCacheSize.accesskey "o">
 
@@ -76,8 +80,6 @@
 <!ENTITY useService.accesskey            "b">
 
 <!ENTITY updateOthers.label              "Atualizar automaticamente:">
-<!ENTITY enableAddonsUpdate3.label       "Extras">
-<!ENTITY enableAddonsUpdate3.accesskey   "a">
 <!ENTITY enableSearchUpdate.label        "Motores de pesquisa">
 <!ENTITY enableSearchUpdate.accesskey    "e">
 
