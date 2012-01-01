@@ -43,9 +43,9 @@
 <!ENTITY aboutWarningButton.label "Jeg skal være forsiktig, jeg lover!">
 <!ENTITY aboutWarningCheckbox.label "Vis denne advarselen neste gang også">
 
-<!ENTITY searchPrefs.label "Søk:">
-<!ENTITY searchPrefs.accesskey "S">
-<!ENTITY focusSearch.key "r">
+<!ENTITY filterPrefs.label "Filter:">
+<!ENTITY filterPrefs.accesskey "l">
+<!ENTITY focusFilter.key "f">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "Innstilling">
@@ -54,8 +54,8 @@
 <!ENTITY valueColumn.label "Verdi">
 
 <!-- Tooltips -->
-<!ENTITY prefColumnHeader.tooltip "Trykk her for å sortere"> 
-<!ENTITY columnChooser.tooltip "Trykk her for å velge kolonner som skal vises"> 
+<!ENTITY prefColumnHeader.tooltip "Trykk her for å sortere">
+<!ENTITY columnChooser.tooltip "Trykk her for å velge kolonner som skal vises">
 
 <!-- Context Menu -->
 <!ENTITY copyPref.key "C">

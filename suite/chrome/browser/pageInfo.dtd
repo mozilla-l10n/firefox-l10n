@@ -79,6 +79,7 @@
 
 <!ENTITY  linksTab              "Lenker">
 <!ENTITY  linksTab.accesskey    "L">
+<!ENTITY  linkNo                "Nr.">
 <!ENTITY  linkName              "Navn">
 <!ENTITY  linkAddress           "Adresse">
 <!ENTITY  linkType              "Type">
