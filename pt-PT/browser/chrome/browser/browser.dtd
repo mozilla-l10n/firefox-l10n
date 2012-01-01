@@ -12,12 +12,12 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navegação Privada)">
 
 <!-- Tab context menu -->
-<!ENTITY  reloadTab.label        "Recarregar separador">
-<!ENTITY  reloadTab.accesskey         "R">
-<!ENTITY  reloadAllTabs.label    "Recarregar todos os separadores">
-<!ENTITY  reloadAllTabs.accesskey         "t">
-<!ENTITY  closeOtherTabs.label   "Fechar outros separadores">
-<!ENTITY  closeOtherTabs.accesskey  "o">
+<!ENTITY  reloadTab.label                    "Recarregar separador">
+<!ENTITY  reloadTab.accesskey                "R">
+<!ENTITY  reloadAllTabs.label                "Recarregar todos os separadores">
+<!ENTITY  reloadAllTabs.accesskey            "t">
+<!ENTITY  closeOtherTabs.label               "Fechar outros separadores">
+<!ENTITY  closeOtherTabs.accesskey           "o">
 
 <!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -33,12 +33,12 @@ can reach it easily. -->
 <!ENTITY  moveToNewGroup.label               "Novo grupo">
 <!ENTITY  moveToNewWindow.label              "Mover para nova janela">
 <!ENTITY  moveToNewWindow.accesskey          "j">
-<!ENTITY  bookmarkAllTabs.label       "Guardar separadores como marcadores...">
-<!ENTITY  bookmarkAllTabs.accesskey   "S">
-<!ENTITY  undoCloseTab.label          "Reabrir separador fechado">
-<!ENTITY  undoCloseTab.accesskey      "a">
-<!ENTITY  closeTab.label         "Fechar separador">
-<!ENTITY  closeTab.accesskey         "F">
+<!ENTITY  bookmarkAllTabs.label              "Guardar separadores como marcadores...">
+<!ENTITY  bookmarkAllTabs.accesskey          "S">
+<!ENTITY  undoCloseTab.label                 "Reabrir separador fechado">
+<!ENTITY  undoCloseTab.accesskey             "a">
+<!ENTITY  closeTab.label                     "Fechar separador">
+<!ENTITY  closeTab.accesskey                 "F">
 
 <!ENTITY  listAllTabs.label      "Listar todos os separadores">
 
@@ -144,7 +144,7 @@ can reach it easily. -->
 
 <!ENTITY bookmarksButton.label        "Marcadores">
 <!ENTITY bookmarksButton.tooltip      "Mostrar os seus marcadores">
-<!ENTITY bookmarksButton.accesskey    "m">
+<!ENTITY bookmarksButton.accesskey  "m">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Marcadores">
@@ -213,12 +213,21 @@ shortcut keys on Linux. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectPanelTitle.label      "HTML">
-<!ENTITY inspectButton.label          "Inspeccionar">
-<!ENTITY inspectButton.accesskey      "I">
+<!ENTITY inspectPanelTitle.label        "HTML">
+<!ENTITY inspectButton.label            "Inspeccionar">
+<!ENTITY inspectButton.accesskey        "I">
 <!ENTITY inspectCloseButton.tooltiptext "Fechar Inspector">
+<!ENTITY inspect3DButton.label        "3D">
+<!ENTITY inspect3DButton.accesskey    "M">
 <!ENTITY inspectStyleButton.label     "Estilo">
 <!ENTITY inspectStyleButton.accesskey "s">
+
+<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
+  -  in the Tools menu. -->
+<!ENTITY styleeditor.label            "Editor de estilos">
+<!ENTITY styleeditor.accesskey        "y">
+<!ENTITY styleeditor.keycode          "VK_F7">
+<!ENTITY styleeditor.keytext          "F7">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Obter mais ferramentas">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "m">
@@ -422,14 +431,23 @@ shortcut keys on Linux. -->
 <!ENTITY thisFrameMenu.accesskey "f">
 
 <!-- Media (video/audio) controls -->
+<!-- LOCALIZATION NOTE: The access keys for "Play" and
+"Pause" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaPlay.label             "Reproduzir">
 <!ENTITY mediaPlay.accesskey         "P">
 <!ENTITY mediaPause.label            "Pausar">
 <!ENTITY mediaPause.accesskey        "P">
+<!-- LOCALIZATION NOTE: The access keys for "Mute" and
+"Unmute" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Sem som">
 <!ENTITY mediaMute.accesskey         "s">
 <!ENTITY mediaUnmute.label           "Som">
 <!ENTITY mediaUnmute.accesskey       "m">
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "Mostrar Controlos">
 <!ENTITY mediaShowControls.accesskey "C">
 <!ENTITY mediaHideControls.label     "Ocultar Controlos">
@@ -438,6 +456,9 @@ shortcut keys on Linux. -->
 <!ENTITY videoFullScreen.accesskey   "c">
 <!ENTITY videoSaveImage.label        "Guardar instantâneo como…">
 <!ENTITY videoSaveImage.accesskey    "s">
+<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
+"Hide Statistics" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY videoShowStats.label        "Mostrar estatísticas">
 <!ENTITY videoShowStats.accesskey    "t">
 <!ENTITY videoHideStats.label        "Ocultar estatísticas">
