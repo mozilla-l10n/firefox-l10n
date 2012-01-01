@@ -1,0 +1,11 @@
+<!ENTITY feedbackHeader2.label          "Ferramentas de feedback">
+
+<!ENTITY feedback.communicate.title     "Comunique-nos!">
+<!ENTITY feedback.feedback.title        "Dê feedback">
+<!ENTITY feedback.feedback.good         "Bom">
+<!ENTITY feedback.feedback.bad          "Mau">
+
+<!ENTITY feedback.tools.title           "Ferramentas">
+<!ENTITY feedback.allowTelemetry.title  "Enviar dados do desempenho">
+<!ENTITY feedback.forceCompat.title     "Forçar compatibilidade dos extras">
+<!ENTITY feedback.errorConsole.title    "Activar consola de erro">
