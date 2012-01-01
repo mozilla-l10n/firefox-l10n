@@ -1,0 +1,8 @@
+<!ENTITY aboutAddons.title                      "Gestor de extras">
+<!ENTITY aboutAddons.header                     "Extras">
+<!ENTITY aboutAddons.options                    "Opções">
+
+<!ENTITY addonAction.enable                     "Ativar">
+<!ENTITY addonAction.disable                    "Desativar">
+<!ENTITY addonAction.uninstall                  "Desinstalar">
+<!ENTITY addonAction.cancel                     "Cancelar">
