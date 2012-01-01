@@ -129,5 +129,8 @@
 <!ENTITY copyLinkCmd.accesskey "P">
 
 <!ENTITY CopyMessageId.label "Copiar ID da mensagem">
+<!ENTITY CopyMessageId.accesskey "C">
 <!ENTITY OpenMessageForMsgId.label "Abrir mensagem para ID">
+<!ENTITY OpenMessageForMsgId.accesskey "b">
 <!ENTITY OpenBrowserWithMsgId.label "Abrir navegador com ID da mensagem">
+<!ENTITY OpenBrowserWithMsgId.accesskey "g">
