@@ -37,7 +37,7 @@
 <!ENTITY pref_category_privacy "Приватность и защита">
 <!ENTITY pref_category_content "Содержимое">
 <!ENTITY pref_about_firefox "О &brandShortName;">
-<!ENTITY pref_do_not_track "Отказать в отслеживании">
+<!ENTITY pref_do_not_track "Просить сайты не следить">
 <!ENTITY pref_telemetry "Включить телеметрию">
 <!ENTITY pref_homepage "Домашняя страница">
 <!ENTITY pref_homepage_start "Запуск Firefox">
