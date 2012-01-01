@@ -8,12 +8,10 @@
 <!ENTITY importFromIE.label "Microsoft Internet Explorer">
 <!ENTITY importFromNothing.accesskey "J">
 <!ENTITY importFromNothing.label "Mos importo gjë">
-<!ENTITY importFromOpera.accesskey "O">
-<!ENTITY importFromOpera.label "Opera">
 <!ENTITY importFromSafari.accesskey "S">
 <!ENTITY importFromSafari.label "Safari">
-<!ENTITY importFromSeamonkey.accesskey "N">
-<!ENTITY importFromSeamonkey.label "Netscape 6, 7 ose Mozilla 1.x">
+<!ENTITY importFromChrome.label         "Chrome">
+<!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromUnix.label "Importo Parapëlqime, Faqerojtësa, Historik, Fjalëkalime dhe të dhëna të tjera prej:">
 <!ENTITY importItems.label "Përzgjidhni cilët objekte të importohen:">
 <!ENTITY importItems.title "Objekte për Importim">

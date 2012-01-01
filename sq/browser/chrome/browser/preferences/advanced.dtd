@@ -41,7 +41,7 @@
 <!ENTITY connectionSettings.label        "Rregullime…">
 <!ENTITY connectionSettings.accesskey    "R">
 
-<!ENTITY offlineStorage.label            "Depozitim &quot;Offline&quot;">
+<!ENTITY offlineAppsList2.label          "&quot;Site&quot;-eve web vijues u është lejuar të depozitojnë të dhëna për përdorim të palidhur:">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -53,7 +53,9 @@
 <!ENTITY limitCacheSizeBefore.accesskey  "K">
 <!ENTITY limitCacheSizeAfter.label       "MB hapësirë">
 <!ENTITY clearCacheNow.label             "Pastroje Tani">
-<!ENTITY clearCacheNow.accesskey         "T">        
+<!ENTITY clearCacheNow.accesskey         "T">
+<!ENTITY clearOfflineAppCacheNow.label   "Pastroje Tani">
+<!ENTITY clearOfflineAppCacheNow.accesskey "n">        
 <!ENTITY overrideSmartCacheSize.label    "Anashkalo administrimin e vetvetishëm të fshehtinës">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
@@ -78,8 +80,6 @@
 
 <!ENTITY updateOthers.label              "Përditëso vetvetiu:">
 
-<!ENTITY enableAddonsUpdate3.label       "Shtesa">
-<!ENTITY enableAddonsUpdate3.accesskey   "S">
 <!ENTITY enableSearchUpdate.label        "Motorë Kërkimi">
 <!ENTITY enableSearchUpdate.accesskey    "M">
 
@@ -88,7 +88,7 @@
 <!ENTITY offlineNotifyExceptions.label   "Përjashtime…">
 <!ENTITY offlineNotifyExceptions.accesskey "P">
 
-<!ENTITY offlineAppsList.label           "&quot;Site&quot;-et web vijues kanë të dhëna të depozituara për përdorim &quot;offline&quot;:">
+<!ENTITY offlineAppsList2.label           "&quot;Site&quot;-et web vijues kanë të dhëna të depozituara për përdorim &quot;offline&quot;:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Hiqeni…">
 <!ENTITY offlineAppsListRemove.accesskey "H">
@@ -114,3 +114,5 @@
 <!ENTITY verify2.accesskey               "V">
 <!ENTITY viewSecurityDevices.label       "Pajisje Sigurie">
 <!ENTITY viewSecurityDevices.accesskey   "P">
+
+<!ENTITY httpCache.label                 "Lëndë Web Në Fshehtinë">

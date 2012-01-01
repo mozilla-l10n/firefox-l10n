@@ -1,8 +1,9 @@
 <!ENTITY accountSetupTitle.label    "Rregullim i &syncBrand.fullName.label;">
 
 <!-- First page of the wizard -->
+setup.pickSetupType.description<!ENTITY accountSetupTitle.label    "Rregullim i &syncBrand.fullName.label;-ut">
 
-<!ENTITY setup.pickSetupType.description "Mirë se vini! Nëse nuk e keni përdorur kurrë më parë &syncBrand.fullName.label;-un, lypset të krijoni një llogari të re.">
+<!ENTITY setup.pickSetupType.description2 "Mirë se vini! Nëse nuk e keni përdorur kurrë më parë &syncBrand.fullName.label;-un, lypset të krijoni një llogari të re.">
 <!ENTITY button.createNewAccount.label "Krijoni një Llogari të Re">
 <!ENTITY button.haveAccount.label      "E kam një Llogari">
 
@@ -91,6 +92,9 @@
 <!ENTITY engine.passwords.accesskey "k">
 <!ENTITY engine.prefs.label         "Parapëlqimet e Mia">
 <!ENTITY engine.prefs.accesskey     "P">
+<!ENTITY engine.addons.label        "Shtesat e Mia">
+<!ENTITY engine.addons.accesskey    "t">
+
 
 <!ENTITY choice2.merge.main.label      "Përzieni të dhënat e këtij kompjuteri me të dhënat e mia nga &syncBrand.shortName.label;-u">
 <!ENTITY choice2.merge.recommended.label "E këshilluar:">

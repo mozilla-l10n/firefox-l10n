@@ -1,12 +1,26 @@
 <!ENTITY aboutDialog.title          "Rreth &brandFullName;-it">
+
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+<!ENTITY warningDesc.version        "&brandShortName; është eksperimentale dhe mund të jetë e paqendrueshme.">
+<!-- LOCALIZATION NOTE (warningDesc.telemetry): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetry      "I dërgon vetvetiu të dhënat e provës te &vendorShortName; për të ndihmuar në përmirësimin e &brandShortName;-s.">
+
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+<!ENTITY community.exp.start        "">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+<!ENTITY community.exp.middle       " është një ">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "bashkësi mbarëbotërore">
+<!ENTITY community.exp.end          " që punon tok për ta mbajtur Web-in të hapur, publik dhe të përdorshëm nga të gjithë.">
+
 <!ENTITY community.start2           "&brandShortName;-i është krijuar nga ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", një ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "bashkësi mbarëbotërore">
-<!ENTITY community.end2             " që punon tok për ta bërë Internetin më të mirë. Ne besojmë se Interneti duhet të jetë i hapur, publik, dhe i shfrytëzueshëm nga kushdo, pa kufizime.">
-
+<!ENTITY community.end3             " që punon tok për ta mbajtur Web-in të hapur, publik, dhe të shfrytëzueshëm nga kushdo.">
 <!ENTITY contribute.start           "Ju duket me interes? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY contribute.getInvolvedLink "Përfshihuni!">

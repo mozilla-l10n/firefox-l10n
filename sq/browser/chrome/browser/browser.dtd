@@ -458,12 +458,27 @@
 <!ENTITY inspectMenu.label            "Shqyrtoje">
 <!ENTITY inspectMenu.accesskey        "S">
 <!ENTITY inspectMenu.commandkey       "I">
-<!ENTITY inspectCloseButton.tooltiptext "Mbylleni Mbikëqyrësin">
+
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "Shqyrtoje">
 <!ENTITY inspectButton.accesskey      "q">
+<!ENTITY inspectCloseButton.tooltiptext "Mbylleni Mbikëqyrësin">
+<!ENTITY inspect3DButton.label        "3D">
+<!ENTITY inspect3DButton.accesskey    "M">
 <!ENTITY inspectStyleButton.label     "Stil">
 <!ENTITY inspectStyleButton.accesskey "t">
+
+<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
+  -  in the Tools menu. -->
+<!ENTITY styleeditor.label            "Përpunues Stilesh">
+<!ENTITY styleeditor.accesskey        "P">
+<!ENTITY styleeditor.keycode          "VK_F7">
+<!ENTITY styleeditor.keytext          "F7">
+
+
+
+
+
 
 <!ENTITY  listAllTabs.label      "Paraqit krejt skedat">
 <!ENTITY  reloadTab.label                    "Ringarkoje Skedën">

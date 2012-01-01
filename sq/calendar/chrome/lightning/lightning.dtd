@@ -68,8 +68,10 @@
 <!ENTITY lightning.toolbar.mail.label         "Postë">
 <!ENTITY lightning.toolbar.mail.accesskey     "P">
 <!ENTITY lightning.toolbar.calendar.label     "Kalendar">
+<!ENTITY lightning.toolbar.calendar.tooltip   "Kaloni te skeda e kalendarit">
 <!ENTITY lightning.toolbar.calendar.accesskey "K">
 <!ENTITY lightning.toolbar.task.label         "Punë">
+<!ENTITY lightning.toolbar.task.tooltip       "Kaloni te skeda e punëve">
 <!ENTITY lightning.toolbar.task.accesskey     "P">
 
 <!-- Toolbar write button -->

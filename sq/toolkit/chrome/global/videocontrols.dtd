@@ -2,6 +2,8 @@
 <!ENTITY playButton.pauseLabel "Pushim">
 <!ENTITY muteButton.muteLabel "Pa Zë">
 <!ENTITY muteButton.unmuteLabel "Me Zë">
+<!ENTITY fullscreenButton.enterfullscreenlabel "Krejt Ekrani">
+<!ENTITY fullscreenButton.exitfullscreenlabel "Dil nga mënyra Krejt Ekrani">
 
 <!ENTITY stats.media "Media">
 <!ENTITY stats.size "Madhësi">
@@ -18,6 +20,13 @@
 <!ENTITY stats.framesDecoded "Kuadro të çkoduara">
 <!ENTITY stats.framesPresented "Kuadro të shfaqura">
 <!ENTITY stats.framesPainted "Kuadro të vizatuara">
+
+<!ENTITY error.aborted "U ndal ngarkimi i videos.">
+<!ENTITY error.network "Luajtja e videos u ndërpre për shkak të një gabimi rrjeti.">
+<!ENTITY error.decode "Videoja nuk mund të luhet, ngaqë kartela është e dëmtuar.">
+<!ENTITY error.srcNotSupported "Formati ose lloji MIME për video nuk mbulohet.">
+<!ENTITY error.noSource2 "Nuk u gjet video me format dhe lloj MIME të mbuluar.">
+<!ENTITY error.generic "Luajtja e videos u ndërpre për shkak të një gabimi të panjohur.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
