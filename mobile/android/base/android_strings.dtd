@@ -39,10 +39,6 @@
 <!ENTITY pref_about_firefox "Acerca de &brandShortName;">
 <!ENTITY pref_do_not_track "No quiero ser rastreado">
 <!ENTITY pref_telemetry "Enviar información de rendimiento">
-<!ENTITY pref_homepage "Página de inicio">
-<!ENTITY pref_homepage_start "Inicio de Firefox">
-<!ENTITY pref_homepage_blank "Página en blanco">
-<!ENTITY pref_homepage_current "Página actual">
 <!ENTITY pref_remember_signons "Recordar contraseñas">
 <!ENTITY pref_cookies "Activar cookies">
 <!ENTITY pref_char_encoding "Mostrar codificación de caracteres">
