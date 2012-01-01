@@ -124,7 +124,6 @@
 <!ENTITY httpCache.label                 "Περιεχόμενο προσωρινής μνήμης">
 
 <!ENTITY offlineStorage2.label           "Περιεχόμενο εργασίας χωρίς σύνδεση και δεδομένα χρήστη">
-ε
 <!ENTITY updateApp.label                 "Ενημερώσεις &brandShortName;:">
 <!ENTITY updateAuto.label                "Αυτόματη εγκατάσταση ενημερώσεων (συνιστώμενο: βελτιωμένη ασφάλεια)">
 <!ENTITY updateAuto.accesskey            "Α">
