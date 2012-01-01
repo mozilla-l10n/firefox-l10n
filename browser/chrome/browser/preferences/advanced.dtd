@@ -75,8 +75,6 @@
 <!ENTITY enableSearchUpdate.accesskey   "χ">
 <!ENTITY certSelection.description       "Όταν ένας εξυπηρετητής απαιτεί ένα πιστοποιητικό:">
 
-<!ENTITY enableAddonsUpdate3.label       "Πρόσθετα">
-<!ENTITY enableAddonsUpdate3.accesskey   "θ">
 
 <!ENTITY offlineAppsListRemove.label     "Απομάκρυνση…">
 <!ENTITY offlineAppsListRemove.accesskey "ρ">
@@ -87,8 +85,8 @@
 
 
 
-<!ENTITY offlineStorage.label            "Αποθήκευση για εργασία χωρίς σύνδεση">
-<!ENTITY offlineAppsList.label           "Οι παρακάτω ιστοσελίδες έχουν εγκαταστήσει δεδομένα για εργασία χωρίς σύνδεση:">
+
+
 <!ENTITY offlineAppsList.height          "10em">
 <!ENTITY offlineAppRemove.confirm        "Απομάκρυνση δεδομένων για εργασία χωρίς σύνδεση">
 
@@ -120,7 +118,13 @@
 <!ENTITY clearCacheNow.accesskey         "θ">
 <!ENTITY overrideSmartCacheSize.label    "Παράκαμψη αυτόματης διαχείρισης cache">
 <!ENTITY overrideSmartCacheSize.accesskey "ψ">
+<!ENTITY clearOfflineAppCacheNow.label   "Εκκαθάριση τώρα">
+<!ENTITY clearOfflineAppCacheNow.accesskey "τ">
+<!ENTITY offlineAppsList2.label          "Στις παρακάτω ιστοσελίδες επιτρέπεται να εγκαταστήσουν δεδομένα για εργασία χωρίς σύνδεση:">
+<!ENTITY httpCache.label                 "Περιεχόμενο προσωρινής μνήμης">
 
+<!ENTITY offlineStorage2.label           "Περιεχόμενο εργασίας χωρίς σύνδεση και δεδομένα χρήστη">
+ε
 <!ENTITY updateApp.label                 "Ενημερώσεις &brandShortName;:">
 <!ENTITY updateAuto.label                "Αυτόματη εγκατάσταση ενημερώσεων (συνιστώμενο: βελτιωμένη ασφάλεια)">
 <!ENTITY updateAuto.accesskey            "Α">

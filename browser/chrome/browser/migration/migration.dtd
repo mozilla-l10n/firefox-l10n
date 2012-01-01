@@ -7,13 +7,13 @@
 
 <!ENTITY importFromNothing.accesskey "τ">
 <!ENTITY importFromNothing.label "Να μην εισαχθεί τίποτα">
-<!ENTITY importFromOpera.accesskey "O">
-<!ENTITY importFromOpera.label "Opera">
+
 <!ENTITY importFromSafari.accesskey     "S">
 <!ENTITY importFromSafari.label "Safari">
 
-<!ENTITY importFromSeamonkey.label      "Netscape 6, 7 ή Mozilla 1.x">
-<!ENTITY importFromSeamonkey.accesskey  "N">
+<!ENTITY importFromChrome.label         "Chrome">
+<!ENTITY importFromChrome.accesskey     "C">
+
 
 <!ENTITY importFromUnix.label "Εισαγωγή προτιμήσεων,σελιδοδεικτών, ιστορικού, κωδικών και άλλων δεδομένων από:">
 <!ENTITY importItems.label "Επιλέξτε ποια αντικείμενα θα εισαχθούν:">

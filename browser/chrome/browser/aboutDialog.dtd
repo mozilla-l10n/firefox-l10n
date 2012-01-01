@@ -1,13 +1,29 @@
 
 <!ENTITY aboutDialog.title          "Πληροφορίες για τον &brandFullName;">
 
+
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+<!ENTITY warningDesc.version        "Αυτή η έκδοση του &brandShortName; είναι σε πειραματικό στάδιο και μπορεί να είναι ασταθής.">
+<!-- LOCALIZATION NOTE (warningDesc.telemetry): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetry      "Στέλνει αυτόματα πληροφορίες δοκιμών πίσω στο &vendorShortName; για να βοηθήσετε να κάνετε τον &brandShortName; καλύτερο.">
+
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+<!ENTITY community.exp.start        "">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "Ο &vendorShortName;">
+<!ENTITY community.exp.middle       " είναι μια  ">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "παγκόσμια κοινότητα">
+<!ENTITY community.exp.end          " που συνεργάζεται για να κάνει το διαδίκτυο ανοικτό, ελεύθερο και προσβάσιμο από όλους χωρίς κανένα περιορισμό.">
+
 <!ENTITY community.start2           "Ο &brandShortName; δημιουργήθηκε από το ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", μια ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "παγκόσμια κοινότητα">
-<!ENTITY community.end2             " που συνεργάζεται για να κάνει το διαδίκτυο ένα καλύτερο κόσμο. Βασική μας αρχή είναι ότι το διαδίκτυο θα πρέπει να είναι ανοικτό, ελεύθερο και προσβάσιμο από όλους χωρίς κανένα περιορισμό.">
+
+<!ENTITY community.end3             " που συνεργάζεται για να κάνει το διαδίκτυο ανοικτό, ελεύθερο και προσβάσιμο από όλους χωρίς κανένα περιορισμό.">
 
 <!ENTITY contribute.start           "Ακούγεται ενδιαφέρον; ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
