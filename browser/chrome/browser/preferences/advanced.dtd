@@ -40,7 +40,9 @@
 <!ENTITY connectionSettings.label        "Innstillinger …">
 <!ENTITY connectionSettings.accesskey    "I">
 
-<!ENTITY offlineStorage.label            "Frakoblet lager">
+<!ENTITY httpCache.label                 "Hurtiglagret nettinnhold">
+
+<!ENTITY offlineStorage2.label           "Frakoblet nettinnhold og brukerdata">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -53,6 +55,8 @@
 <!ENTITY limitCacheSizeAfter.label       " MB diskplass">
 <!ENTITY clearCacheNow.label             "Tøm nå">
 <!ENTITY clearCacheNow.accesskey         "T">
+<!ENTITY clearOfflineAppCacheNow.label   "Tøm nå">
+<!ENTITY clearOfflineAppCacheNow.accesskey "T">
 <!ENTITY overrideSmartCacheSize.label    "Overstyr automatisk styring av hurtiglager">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
@@ -76,8 +80,6 @@
 <!ENTITY useService.accesskey            "B">
 
 <!ENTITY updateOthers.label              "Oppdater automatisk:">
-<!ENTITY enableAddonsUpdate3.label       "Utvidelser">
-<!ENTITY enableAddonsUpdate3.accesskey   "U">
 <!ENTITY enableSearchUpdate.label        "Søkemotorer">
 <!ENTITY enableSearchUpdate.accesskey    "m">
 
@@ -86,7 +88,7 @@
 <!ENTITY offlineNotifyExceptions.label   "Unntak …">
 <!ENTITY offlineNotifyExceptions.accesskey "U">
 
-<!ENTITY offlineAppsList.label           "Følgende nettsider har installert data for frakoblet bruk:">
+<!ENTITY offlineAppsList2.label          "Følgende nettsted har tillatelse til å lagre data for frakoblet bruk:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Slett …">
 <!ENTITY offlineAppsListRemove.accesskey "S">
