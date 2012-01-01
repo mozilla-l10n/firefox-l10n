@@ -208,7 +208,7 @@ can reach it easily. -->
   -  "Scratchpad" in your locale. You should feel free to find a close
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
-<!ENTITY scratchpad.label             "Kladdeblokk">
+<!ENTITY scratchpad.label             "Kladdebok">
 <!ENTITY scratchpad.accesskey         "a">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
@@ -217,17 +217,8 @@ can reach it easily. -->
 <!ENTITY inspectButton.label            "Inspiser">
 <!ENTITY inspectButton.accesskey        "I">
 <!ENTITY inspectCloseButton.tooltiptext "Lukk Inspector">
-<!ENTITY inspect3DButton.label        "3D">
-<!ENTITY inspect3DButton.accesskey    "D">
 <!ENTITY inspectStyleButton.label     "Stil">
 <!ENTITY inspectStyleButton.accesskey "S">
-
-<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
-  -  in the Tools menu. -->
-<!ENTITY styleeditor.label            "Stilredigering">
-<!ENTITY styleeditor.accesskey        "r">
-<!ENTITY styleeditor.keycode          "VK_F7">
-<!ENTITY styleeditor.keytext          "F7">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Hent flere verktøy">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "H">
@@ -431,23 +422,14 @@ can reach it easily. -->
 <!ENTITY thisFrameMenu.accesskey          "D">
 
 <!-- Media (video/audio) controls -->
-<!-- LOCALIZATION NOTE: The access keys for "Play" and
-"Pause" are the same because the two context-menu
-items are mutually exclusive. -->
 <!ENTITY mediaPlay.label             "Spill av">
 <!ENTITY mediaPlay.accesskey         "a">
 <!ENTITY mediaPause.label            "Pause">
 <!ENTITY mediaPause.accesskey        "P">
-<!-- LOCALIZATION NOTE: The access keys for "Mute" and
-"Unmute" are the same because the two context-menu
-items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Slå av lyd">
 <!ENTITY mediaMute.accesskey         "S">
 <!ENTITY mediaUnmute.label           "Slå på lyd">
 <!ENTITY mediaUnmute.accesskey       "S">
-<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
-"Hide Controls" are the same because the two context-menu
-items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "Vis kontroller">
 <!ENTITY mediaShowControls.accesskey "V">
 <!ENTITY mediaHideControls.label     "Skjul kontroller">
@@ -456,9 +438,6 @@ items are mutually exclusive. -->
 <!ENTITY videoFullScreen.accesskey   "F">
 <!ENTITY videoSaveImage.label        "Lagre øyeblikksbilde som …">
 <!ENTITY videoSaveImage.accesskey    "L">
-<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
-"Hide Statistics" are the same because the two context-menu
-items are mutually exclusive. -->
 <!ENTITY videoShowStats.label        "Vis statistikk">
 <!ENTITY videoShowStats.accesskey    "t">
 <!ENTITY videoHideStats.label        "Skjul statistikk">

@@ -1,10 +1,5 @@
 <!ENTITY addons.windowTitle                   "Utvidelser">
-
 <!ENTITY search.placeholder                   "Søk i alle utvidelser">
-<!-- LOCALIZATION NOTE (search.commandKey):
-     The search command key should match findOnCmd.commandkey from browser.dtd -->
-<!ENTITY search.commandkey                    "f">
-
 <!ENTITY loading.label                        "Laster …">
 <!ENTITY listEmpty.installed.label            "Du har ikke installert noen utvidelser av denne typen">
 <!ENTITY listEmpty.availableUpdates.label     "Ingen oppdateringer funnet">

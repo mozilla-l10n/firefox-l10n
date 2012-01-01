@@ -68,11 +68,3 @@
 <!-- Edit menu items -->
 <!ENTITY publishSettings.label "Publiseringsinnstillinger …">
 <!ENTITY publishSettings.accesskey "b">
-
-<!-- Toolbar buttons/items -->
-<!ENTITY newToolbarCmd.label "Ny">
-<!ENTITY newToolbarCmd.tooltip "Lag en ny nettsideutvikler-side">
-<!ENTITY openToolbarCmd.label "Åpne">
-<!ENTITY openToolbarCmd.tooltip "Åpne en lokal fil">
-<!ENTITY saveToolbarCmd.tooltip "Lagre fil lokalt">
-<!ENTITY publishToolbarCmd.tooltip "Last opp fil til eksternt område">

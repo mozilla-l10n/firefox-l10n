@@ -1,3 +1,4 @@
+<!ENTITY messengerWindow.title "E-post og nyhetsgrupper">
 <!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
@@ -587,8 +588,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextMarkMailFolderRead.accesskey "M">
 <!ENTITY folderContextSubscribe.label "Meld inn …">
 <!ENTITY folderContextSubscribe.accesskey "M">
-<!ENTITY folderContextSearchForMessages.label "Søk i meldinger …">
-<!ENTITY folderContextSearchForMessages.accesskey "S">
+<!ENTITY folderContextSearchMessages.label "Søk i meldinger …">
+<!ENTITY folderContextSearchMessages.accesskey "S">
 <!ENTITY folderContextProperties.label "Innstillinger …">
 <!ENTITY folderContextProperties.accesskey "I">
 <!ENTITY folderContextFavoriteFolder.label "Favorittmappe">
