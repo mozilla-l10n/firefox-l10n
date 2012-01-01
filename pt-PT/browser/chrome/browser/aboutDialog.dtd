@@ -20,7 +20,7 @@
 <!ENTITY community.middle2          ", uma ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "comunidade global">
-<!ENTITY community.end2             " que trabalha em conjunto para tornar a internet aberta, pública e acessível a todos.">
+<!ENTITY community.end3             " que trabalha em conjunto para tornar a internet aberta, pública e acessível a todos.">
 
 <!ENTITY contribute.start           "Parece-lhe interessante? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
