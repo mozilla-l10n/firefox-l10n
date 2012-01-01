@@ -49,3 +49,7 @@
 <!ENTITY pref.defaultlength.accesskey "N">
 <!ENTITY pref.defaultsnoozelength.label "Zgjatje Parazgjedhje e Dremitjes:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "D">
+
+<!ENTITY pref.accessibility.label "Përdorshmëri" >
+<!ENTITY pref.systemcolors.label "Optimizo ngjyrat për përdorshmëri" >
+<!ENTITY pref.systemcolors.accesskey "O">

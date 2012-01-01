@@ -33,6 +33,8 @@
 <!ENTITY engine.passwords.accesskey "k">
 <!ENTITY engine.prefs.label         "Parapëlqimet e Mia">
 <!ENTITY engine.prefs.accesskey     "P">
+<!ENTITY engine.addons.label        "Skeda">
+<!ENTITY engine.addons.accesskey    "A">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Kushtet e Shërbimit">

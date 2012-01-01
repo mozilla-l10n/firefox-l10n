@@ -6,8 +6,11 @@
 <!ENTITY copyName.label "Kopjoji Emrin ">
 <!ENTITY copyValue.accesskey "V">
 <!ENTITY copyValue.label "Kopjoji Vlerën">
-<!ENTITY filterPrefs.accesskey "F">
-<!ENTITY filterPrefs.label "Filtër:">
+
+<!ENTITY searchPrefs.label "Kërkoni:">
+<!ENTITY searchPrefs.accesskey "K">
+<!ENTITY focusSearch.key "r">
+
 <!ENTITY integer.accesskey "I">
 <!ENTITY integer.label "I plotë">
 <!ENTITY lockColumn.label "Gjendje">
@@ -34,4 +37,3 @@
 <!ENTITY aboutWarningText.label "Ndryshimi i vlerave për këto rregullime të mëtejshme mund të jetë me rrezik për qëndrueshmërinë, sigurinë, dhe punimin e këtij zbatimi. Do të ishte mirë të vazhdonit vetëm nëse e dini se ç&apos;jeni duke bërë.">
 <!ENTITY aboutWarningButton.label "Do të jem i kujdesshëm, jap fjalën!">
 <!ENTITY aboutWarningCheckbox.label "Shfaqe këtë sinjalizim herës tjetër">
-<!ENTITY focusFilter.key "f">
