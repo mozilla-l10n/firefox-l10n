@@ -59,6 +59,8 @@
 <!ENTITY syncComputerName.label "Nome del computer:">
 <!ENTITY syncComputerName.accesskey "N">
 <!ENTITY syncMy.label "Sincronizza">
+<!ENTITY engine.addons.label "Componenti aggiuntivi">
+<!ENTITY engine.addons.accesskey "C">
 <!ENTITY engine.bookmarks.label "Segnalibri">
 <!ENTITY engine.bookmarks.accesskey "e">
 <!ENTITY engine.tabs.label "Schede">

@@ -321,8 +321,6 @@
 <!ENTITY event.freebusy.next.slot "Posizione successiva">
 <!ENTITY event.freebusy.previous.slot "Posizione precedente">
 <!ENTITY event.freebusy.zoom "Zoom:">
-<!ENTITY event.freebusy.plus "Ora successiva">
-<!ENTITY event.freebusy.minus "Ora precedente">
 <!ENTITY event.freebusy.legend.free "Libero">
 <!ENTITY event.freebusy.legend.busy "Occupato">
 <!ENTITY event.freebusy.legend.busy_tentative "Da confermare">
