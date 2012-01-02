@@ -1,7 +1,7 @@
 <!ENTITY accountSetupTitle.label    "Rregullim i &syncBrand.fullName.label;">
 
 <!-- First page of the wizard -->
-setup.pickSetupType.description<!ENTITY accountSetupTitle.label    "Rregullim i &syncBrand.fullName.label;-ut">
+<!ENTITY accountSetupTitle.label    "Rregullim i &syncBrand.fullName.label;-ut">
 
 <!ENTITY setup.pickSetupType.description2 "Mirë se vini! Nëse nuk e keni përdorur kurrë më parë &syncBrand.fullName.label;-un, lypset të krijoni një llogari të re.">
 <!ENTITY button.createNewAccount.label "Krijoni një Llogari të Re">
@@ -74,7 +74,6 @@ setup.pickSetupType.description<!ENTITY accountSetupTitle.label    "Rregullim i 
 <!ENTITY verifying.label              "Po verifikohet…">
 <!ENTITY resetPassword.label          "Ricaktoni Fjalëkalimin">
 <!ENTITY resetSyncKey.label           "E kam humbur pajisjen time tjetër.">
-
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Mundësi Sync-u">

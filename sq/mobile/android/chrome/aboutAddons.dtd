@@ -1,0 +1,8 @@
+<!ENTITY aboutAddons.title                      "Përgjegjës Shtesash">
+<!ENTITY aboutAddons.header                     "Shtesa">
+<!ENTITY aboutAddons.options                    "Mundësi">
+
+<!ENTITY addonAction.enable                     "Aktivizoje">
+<!ENTITY addonAction.disable                    "Çaktivizoje">
+<!ENTITY addonAction.uninstall                  "Çinstaloje">
+<!ENTITY addonAction.cancel                     "Anuloje">
