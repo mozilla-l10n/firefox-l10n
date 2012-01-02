@@ -426,10 +426,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey "M">
 
 <!ENTITY inspectButton.label          "Izmeklēt">
-<!ENTITY inspectButton.accesskey      "I">
+<!ENTITY inspectButton.accesskey      "e">
 
 <!ENTITY inspectContextMenu.label     "Izmeklēt">
-<!ENTITY inspectContextMenu.accesskey "Q">
+<!ENTITY inspectContextMenu.accesskey "e">
 
 <!ENTITY newTabButton.tooltip "Atvērt jaunu cilni">
 <!ENTITY newWindowButton.tooltip "Atvērt jaunu logu">
