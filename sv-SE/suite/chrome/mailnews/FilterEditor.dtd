@@ -86,6 +86,7 @@
 <!ENTITY forwardTo.label "Vidarebefordra meddelande till">
 <!ENTITY replyWithTemplate.label "Besvara i enlighet med mall">
 <!ENTITY markMessageRead.label "Märk som läst">
+<!ENTITY markMessageUnread.label "Märk som oläst">
 <!ENTITY markMessageStarred.label "Märk som flaggat">
 <!ENTITY setPriority.label "Sätt prioritet till">
 <!ENTITY addTag.label "Förse med etikett">
