@@ -51,10 +51,6 @@
 <!ENTITY pref_about_firefox "Om &brandShortName;">
 <!ENTITY pref_do_not_track "Be platser att inte spåra mig">
 <!ENTITY pref_telemetry "Skicka prestandadata">
-<!ENTITY pref_homepage "Startsida">
-<!ENTITY pref_homepage_start "Firefox Start">
-<!ENTITY pref_homepage_blank "Tom sida">
-<!ENTITY pref_homepage_current "Aktuell sida">
 <!ENTITY pref_remember_signons "Spara lösenord">
 <!ENTITY pref_cookies "Aktivera kakor">
 <!ENTITY pref_char_encoding "Visa teckenkodning">
