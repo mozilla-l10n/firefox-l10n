@@ -47,6 +47,12 @@
 <!ENTITY haveSmtp3.suffix2 "Ο &quot;, είναι όμοιος με το διακομιστή εισερχομένων σας, το όνομα χρήστη εισερχομένων θα χρησιμοποιηθεί για την πρόσβαση σε αυτόν. Μπορείτε να τροποποιήσετε τις ρυθμίσεις του διακομιστή εξερχομένων από τις ρυθμίσεις λογαριασμού.">
 <!ENTITY accnameTitle.label "Όνομα Λογαριασμού">
 <!ENTITY accnameDesc.label "Εισάγετε το όνομα με το οποίο θα αναγνωρίζετε αυτόν το λογαριασμό (Για παράδειγμα, &quot;Λογαριασμός Εργασίας &quot;, &quot; Οικίας&quot; ή&quot;Ομάδων Συζήτησης">
+<!ENTITY portNum.label "Θύρα:">
+<!ENTITY portNum.accesskey "Θ">
+<!ENTITY defaultPortLabel.label "Προεπιλογή:">
+<!ENTITY defaultPortValue.label "">
+
+
 <!ENTITY accnameLabel.label "Όνομα λογαριασμού:">
 <!ENTITY accnameLabel.accesskey "μ">
 <!ENTITY completionTitle.label "Συγχαρητήρια!">

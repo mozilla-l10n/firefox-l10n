@@ -34,3 +34,4 @@
 <!ENTITY ignoreSubthread.label "Αγνόηση υποαλληλουχίας">
 <!ENTITY watchThread.label "Παρακολούθηση αλληλουχίας">
 <!ENTITY stopExecution.label "Διακοπή εκτέλεσης φίλτρου">
+<!ENTITY markMessageUnread.label "Σημείωση ως μη αναγνωσμένο">
