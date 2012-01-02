@@ -49,3 +49,7 @@
 <!ENTITY pref.defaultlength.accesskey "T">
 <!ENTITY pref.defaultsnoozelength.label "Standard-Zeit bis Erinnerung:">
 <!ENTITY pref.defaultsnoozelength.accesskey "E">
+
+<!ENTITY pref.accessibility.label "Barrierefreiheit" >
+<!ENTITY pref.systemcolors.label "Farben für eine barrierefreie Darstellung optimieren" >
+<!ENTITY pref.systemcolors.accesskey "F">
