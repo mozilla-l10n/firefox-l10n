@@ -2,13 +2,27 @@
 <!ENTITY community.start2            "&brandShortName; veido ">
 <!ENTITY community.mozillaLink      "&vendorShortName; organizācija">
 <!ENTITY community.middle2          ", kuras">
-<!ENTITY community.end2              " kopīgi strādā pie tā, lai padarītu Internetu labāku. Mēs ticam, ka internetam ir jābūt atvērtam, publiskam un brīvi pieejamam ikvienam bez jebkādiem ierobežojumiem.">
+<!ENTITY community.end3             ", kas strādā, lai internets būtu atvērts, publisks un visiem pieejams.">
+
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+<!ENTITY warningDesc.version        "&brandShortName; atrodas izstrādes procesā un var būt ar nepilnībām.">
+<!-- LOCALIZATION NOTE (warningDesc.telemetry): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetry      "Šī versija automātiski nosūta izstrādātājiem aktuālu informāciju &vendorShortName;, lai palīdzētu uzlabot &brandShortName;.">
 
 <!ENTITY contribute.start           "Izklausās interesanti? ">
 <!ENTITY contribute.getInvolvedLink "Iesaisties!">
 <!ENTITY contribute.end             "">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "globālā kopiena">
+
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+<!ENTITY community.exp.start        "">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+<!ENTITY community.exp.middle       " ir ">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "globāla kopiena">
+<!ENTITY community.exp.end          ", kas strādā, lai internets būtu atvērts, publisks un visiem pieejams.">
 
 <!-- LOCALIZAION NOTE(bottomLinks.license): This is a link title that links to about:license. -->
 <!ENTITY bottomLinks.license        "Licencēšanas informācija">
