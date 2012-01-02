@@ -283,12 +283,6 @@
 <!ENTITY tableProperties.accesskey "δ">
 <!ENTITY menuBar.tooltip "Εργαλειοθήκη μενού">
 <!ENTITY formatToolbar.tooltip "Εργαλειοθήκη μορφοποίησης">
-<!ENTITY newToolbarCmd.label "New">
-<!ENTITY newToolbarCmd.tooltip "Δημιουργία νέας σελίδας Composer">
-<!ENTITY openToolbarCmd.label "Άνοιγμα">
-<!ENTITY openToolbarCmd.tooltip "Άνοιγμα τοπικού αρχείου">
-<!ENTITY saveToolbarCmd.tooltip "Αποθήκευση αρχείου τοπικά">
-<!ENTITY publishToolbarCmd.tooltip "Αποστολή αρχείου σε απομακρυσμένη τοποθεσία">
 <!ENTITY printToolbarCmd.label "Εκτύπωση">
 <!ENTITY printToolbarCmd.tooltip "Εκτύπωση αυτής της σελίδας">
 <!ENTITY findToolbarCmd.label "Εύρεση">

@@ -1,4 +1,3 @@
-<!ENTITY messengerWindow.title "Αλληλογραφία">
 <!ENTITY titledefault.label "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 <!ENTITY newFolderCmd.label "Φάκελος...">
@@ -531,8 +530,6 @@
 <!ENTITY folderContextMarkMailFolderRead.accesskey "κ">
 <!ENTITY folderContextSubscribe.label "Εγγραφή συνδρομητή...">
 <!ENTITY folderContextSubscribe.accesskey "γ">
-<!ENTITY folderContextSearchMessages.label "Αναζήτηση μηνυμάτων...">
-<!ENTITY folderContextSearchMessages.accesskey "ζ">
 <!ENTITY folderContextProperties.label "Ιδιότητες...">
 <!ENTITY folderContextProperties.accesskey "δ">
 <!ENTITY folderContextFavoriteFolder.label "Αγαπημένος φάκελος">
@@ -719,3 +716,7 @@
 <!ENTITY junkItem.title "Ανεπιθύμητα">
 <!ENTITY menubarCmd.label "Εργαλειοθήκη μενού">
 <!ENTITY menubarCmd.accesskey "μ">
+
+
+<!ENTITY folderContextSearchForMessages.label "Αναζήτηση μηνυμάτων…">
+<!ENTITY folderContextSearchForMessages.accesskey "ζ">

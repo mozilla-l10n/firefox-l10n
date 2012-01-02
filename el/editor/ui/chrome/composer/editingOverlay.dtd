@@ -68,3 +68,13 @@
 <!-- Edit menu items -->
 <!ENTITY publishSettings.label "Ρυθμίσεις σελίδας δημοσίευσης…">
 <!ENTITY publishSettings.accesskey "θ">
+
+
+
+<!-- Toolbar buttons/items -->
+<!ENTITY newToolbarCmd.label "Νέα">
+<!ENTITY newToolbarCmd.tooltip "Δημιουργία μιας νέας σελίδας Composer">
+<!ENTITY openToolbarCmd.label "Άνοιγμα">
+<!ENTITY openToolbarCmd.tooltip "Άνοιγμα ενός τοπικού αρχείου">
+<!ENTITY saveToolbarCmd.tooltip "Αποθήκευση του αρχείου τοπικά">
+<!ENTITY publishToolbarCmd.tooltip "Ανέβασμα του αρχείου σε απομακρυσμένη τοποθεσία">
