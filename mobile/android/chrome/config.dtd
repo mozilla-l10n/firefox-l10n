@@ -1,12 +1,3 @@
-<!ENTITY empty.label            "Kërkim">
+<!ENTITY search.placeholder     "Parapëlqime Kërkimi">
+<!ENTITY clear.altText          "Pastroje/">
 <!ENTITY newpref.label          "Shtoni Parapëlqim të Ri">
-<!ENTITY addpref.name           "Emër">
-<!ENTITY addpref.value          "Vlerë">
-
-<!ENTITY cancel.label           "Anuloje">
-<!ENTITY reset.label            "Riktheje">
-<!ENTITY done.label             "U bë">
-
-<!ENTITY integer.label          "Numër i plotë">
-<!ENTITY string.label           "Varg">
-<!ENTITY boolean.label          "Buleane">

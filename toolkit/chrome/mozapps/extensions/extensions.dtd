@@ -187,3 +187,8 @@
 <!ENTITY eula.accept                          "Pranoje dhe Instaloje…">
 
 <!ENTITY settings.path.button.label           "Shfletoni…">
+
+<!-- LOCALIZATION NOTE (search.commandKey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
+
