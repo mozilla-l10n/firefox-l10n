@@ -89,6 +89,8 @@
 <!ENTITY engine.passwords.accesskey     "a">
 <!ENTITY engine.prefs.label             "ustawienia">
 <!ENTITY engine.prefs.accesskey         "u">
+<!ENTITY engine.addons.label            "dodatki">
+<!ENTITY engine.addons.accesskey        "d">
 
 <!ENTITY choice2.merge.main.label      "Scal dane tego urządzenia z moimi danymi konta &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Zalecane:">
