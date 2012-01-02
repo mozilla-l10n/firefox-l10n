@@ -359,8 +359,6 @@
 <!ENTITY event.freebusy.next.slot "Créneau horaire suivant" >
 <!ENTITY event.freebusy.previous.slot "Créneau horaire précédent" >
 <!ENTITY event.freebusy.zoom "Zoom :">
-<!ENTITY event.freebusy.plus "Heure suivante " >
-<!ENTITY event.freebusy.minus " Heure précédente" >
 <!ENTITY event.freebusy.legend.free "Disponible" >
 <!ENTITY event.freebusy.legend.busy "Occupé" >
 <!ENTITY event.freebusy.legend.busy_tentative "Provisoire" >
