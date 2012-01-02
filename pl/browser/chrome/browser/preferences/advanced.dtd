@@ -45,8 +45,9 @@
 <!ENTITY connectionSettings.label        "Ustawienia…">
 <!ENTITY connectionSettings.accesskey    "U">
 
-<!ENTITY offlineStorage.label            "Pamięć trybu offline">
-
+<!ENTITY httpCache.label                 "Treści w pamięci podręcznej">
+<!ENTITY offlineStorage2.label           "Treści dla trybu offline i dane użytkownika">
+    
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -58,6 +59,8 @@
 <!ENTITY limitCacheSizeAfter.label       "MB">
 <!ENTITY clearCacheNow.label             "Wyczyść teraz">
 <!ENTITY clearCacheNow.accesskey         "c">
+<!ENTITY clearOfflineAppCacheNow.label   "Wyczyść teraz">
+<!ENTITY clearOfflineAppCacheNow.accesskey "t">
 <!ENTITY overrideSmartCacheSize.label    "Używaj ręcznego zarządzania pamięcią podręczną">
 <!ENTITY overrideSmartCacheSize.accesskey "m">
 
@@ -90,7 +93,7 @@
 <!ENTITY offlineNotifyExceptions.label   "Wyjątki…">
 <!ENTITY offlineNotifyExceptions.accesskey "W">
 
-<!ENTITY offlineAppsList.label           "Następujące witryny przechowują na dysku dane dla trybu offline:">
+<!ENTITY offlineAppsList2.label          "Następujące witryny mogą przechowywać dane dla trybu offline:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Usuń…">
 <!ENTITY offlineAppsListRemove.accesskey "s">
