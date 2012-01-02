@@ -18,3 +18,5 @@
 <!ENTITY spellNoSuggestions.label "(Nav pareizrakstības ieteikumu)">
 <!ENTITY spellDictionaries.label "Valodas">
 <!ENTITY spellDictionaries.accesskey "L">
+<!ENTITY spellUndoAddToDictionary.label "Atcelt vārdnīcas pievienošanu">
+<!ENTITY spellUndoAddToDictionary.accesskey "n">
