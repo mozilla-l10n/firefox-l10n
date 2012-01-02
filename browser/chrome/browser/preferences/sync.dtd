@@ -32,7 +32,9 @@
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "Iestatījumus">
 <!ENTITY engine.prefs.accesskey     "S">
-<!ENTITY myRecoveryKey.label            "Mana atgūšanas atslēga">
+<!ENTITY engine.addons.label        "Papildinājumus">
+<!ENTITY engine.addons.accesskey    "A">
+<!ENTITY mySyncKey.label              "Mana sinhronizācijas atslēga">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Lietošanas noteikumi">
