@@ -83,7 +83,6 @@
 
 <!ENTITY  linksTab              "Länkar">
 <!ENTITY  linksTab.accesskey        "L">
-<!ENTITY  linkNo                "Nr">
 <!ENTITY  linkName              "Namn">
 <!ENTITY  linkAddress           "Adress">
 <!ENTITY  linkType              "Typ">
