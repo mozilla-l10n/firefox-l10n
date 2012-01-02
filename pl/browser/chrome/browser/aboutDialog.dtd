@@ -1,12 +1,26 @@
 <!ENTITY aboutDialog.title          "O programie &brandFullName;">
 
-<!ENTITY community.start2           "">
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+<!ENTITY warningDesc.version        "&brandShortName; to program eksperymentalny i potencjalnie niestabilny.">
+<!-- LOCALIZATION NOTE (warningDesc.telemetry): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetry      "Dane testowe są automatycznie przesyłane do organizacji &vendorShortName; w celu ulepszenia programu &brandShortName;.">
+
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+<!ENTITY community.exp.start        "">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+<!ENTITY community.exp.middle       " jest ">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "globalną społecznością">
+<!ENTITY community.exp.end          ", starającą się zapewnić, by Internet pozostał otwarty, publiczny i dostępny dla wszystkich.">
+
+<!ENTITY community.start2           "Program &brandShortName; został opracowany przez ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
-<!ENTITY community.mozillaLink      "&vendorShortName;">
-<!ENTITY community.middle2          ", ">
+<!ENTITY community.mozillaLink      "organizację &vendorShortName;">
+<!ENTITY community.middle2          ", która jest">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "globalna społeczność">
-<!ENTITY community.end2             ", chcąca uczynić Internet lepszym, stworzyła program &brandShortName;. Wierzymy, że Internet powinien być otwarty, publiczny i dostępny dla wszystkich bez żadnych ograniczeń.">
+<!ENTITY community.creditsLink      "globalną społecznością">
+<!ENTITY community.end3             ", starającą się zapewnić, by Internet pozostał otwarty, publiczny i dostępny dla wszystkich.">
 
 <!ENTITY contribute.start           "Brzmi ciekawie? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
