@@ -1,8 +1,7 @@
 <!ENTITY accountSetupTitle.label    "Konfiguracja usługi &syncBrand.fullName.label;">
 
 <!-- First page of the wizard -->
-
-<!ENTITY setup.pickSetupType.description "Witamy! Jeśli nie masz jeszcze konta &syncBrand.fullName.label;, konieczne będzie utworzenie nowego.">
+<!ENTITY setup.pickSetupType.description2 "Witamy! Jeśli nie masz jeszcze konta &syncBrand.fullName.label;, konieczne będzie utworzenie nowego.">
 <!ENTITY button.createNewAccount.label "Utwórz nowe konto">
 <!ENTITY button.haveAccount.label      "Mam już konto">
 
