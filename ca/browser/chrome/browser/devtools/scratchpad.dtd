@@ -104,7 +104,7 @@
   -  to reset/clear the global object of the environment where the code executes.
   -->
 
-<!ENTITY resetContext2.label          "Restaure les variables">
+<!ENTITY resetContext2.label          "Restaura les variables">
 <!ENTITY resetContext2.accesskey      "t">
 
 <!ENTITY executeMenu.label            "Executa">
