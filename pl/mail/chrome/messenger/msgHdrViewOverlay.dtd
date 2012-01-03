@@ -134,5 +134,8 @@
 <!ENTITY copyLinkCmd.accesskey "K">
 
 <!ENTITY CopyMessageId.label        "Kopiuj identyfikator wiadomości">
+<!ENTITY CopyMessageId.accesskey "u">
 <!ENTITY OpenMessageForMsgId.label  "Wyświetl wiadomość">
+<!ENTITY OpenMessageForMsgId.accesskey "W">
 <!ENTITY OpenBrowserWithMsgId.label "Otwórz wiadomość w przeglądarce">
+<!ENTITY OpenBrowserWithMsgId.accesskey "t">
