@@ -1,4 +1,3 @@
-<!ENTITY messengerWindow.title "Missatgeria">
 <!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 <!-- File Menu -->
@@ -48,7 +47,7 @@
 <!ENTITY getNextNMsgCmd.accesskey "t">
 <!ENTITY sendUnsentCmd.label "Envia els missatges per enviar">
 <!ENTITY sendUnsentCmd.accesskey "l">
-<!ENTITY subscribeCmd.label "Subscriu a un grup de discussió…">
+<!ENTITY subscribeCmd.label "Gestiona les subscripcions…">
 <!ENTITY subscribeCmd.accesskey "b">
 <!ENTITY deleteFolder.label "Suprimeix la carpeta">
 <!ENTITY deleteFolder.accesskey "e">
@@ -344,7 +343,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newMsgCmd.accesskey "e">
 <!ENTITY newNewMsgCmd.label "Missatge">
 <!ENTITY newNewMsgCmd.accesskey "M">
-<!ENTITY archiveMsgCmd.label "Arxiu">
+<!ENTITY archiveMsgCmd.label "Arxiva">
 <!ENTITY archiveMsgCmd.accesskey "A">
 <!ENTITY archiveMsgCmd.key  "a">
 <!ENTITY cancelNewsMsgCmd.label "Cancel·la el missatge">
@@ -587,10 +586,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "l">
 <!ENTITY folderContextMarkMailFolderRead.label "Marca la carpeta com a llegida">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "l">
-<!ENTITY folderContextSubscribe.label "Subscriu a un grup de discussió…">
+<!ENTITY folderContextSubscribe.label "Gestiona les subscripcions…">
 <!ENTITY folderContextSubscribe.accesskey "b">
-<!ENTITY folderContextSearchMessages.label "Cerca…">
-<!ENTITY folderContextSearchMessages.accesskey "e">
+<!ENTITY folderContextSearchForMessages.label "Cerca missatges...">
+<!ENTITY folderContextSearchForMessages.accesskey "C">
 <!ENTITY folderContextProperties.label "Propietats…">
 <!ENTITY folderContextProperties.accesskey "P">
 <!ENTITY folderContextFavoriteFolder.label "Carpeta preferida">
@@ -813,15 +812,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY EditContact.accesskey "E">
 <!ENTITY ViewContact.label "Visualitza el contacte">
 <!ENTITY ViewContact.accesskey "V">
-<!ENTITY SubscribeToNewsgroup.label "Subscriu-me al grup de notícies">
-<!ENTITY SubscribeToNewsgroup.accesskey "n">
+<!ENTITY SubscribeToNewsgroup.label "Subscriu-me al grup de discussió">
+<!ENTITY SubscribeToNewsgroup.accesskey "d">
 <!ENTITY SendMessageTo.label "Redacta un missatge a">
 <!ENTITY SendMessageTo.accesskey "R">
 <!ENTITY CopyEmailAddress.label "Copia l'adreça electrònica">
 <!ENTITY CopyEmailAddress.accesskey "C">
-<!ENTITY CopyNewsgroupName.label "Copia el nom del grup de notícies">
-<!ENTITY CopyNewsgroupName.accesskey "n">
-<!ENTITY CopyNewsgroupURL.label "Copia l'URL del grup de notícies">
+<!ENTITY CopyNewsgroupName.label "Copia el nom del grup de discussió">
+<!ENTITY CopyNewsgroupName.accesskey "C">
+<!ENTITY CopyNewsgroupURL.label "Copia l'URL del grup de discussió">
 <!ENTITY CopyNewsgroupURL.accesskey "U">
 <!ENTITY CreateFilterFrom.label "Crea un filtre de…">
 <!ENTITY CreateFilterFrom.accesskey "f">

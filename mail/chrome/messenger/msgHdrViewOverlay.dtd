@@ -56,7 +56,7 @@
 
 <!ENTITY editMessageDescription.label "Esteu en un esborrany">
 <!ENTITY editMessageButton.label "Edita…">
-<!ENTITY hdrArchiveButton1.label "Arxiu">
+<!ENTITY hdrArchiveButton1.label "Arxiva">
 <!ENTITY hdrArchiveButton1.tooltip "Arxiva aquest missatge">
 <!ENTITY hdrSmartReplyButton1.label "Resposta intel·ligent">
 <!ENTITY hdrReplyButton1.label "Respon">

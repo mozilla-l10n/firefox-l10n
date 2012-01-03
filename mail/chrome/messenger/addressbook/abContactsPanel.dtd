@@ -5,10 +5,15 @@
 <!ENTITY SearchNameOrEmail.label            "El nom o l'adreça electrònica">
 
 <!ENTITY deleteAddrBookCard.label           "Suprimeix">
+<!ENTITY deleteAddrBookCard.accesskey       "S">
 <!ENTITY addrBookCardProperties.label       "Propietats">
+<!ENTITY addrBookCardProperties.accesskey   "P">
 <!ENTITY addtoToFieldMenu.label             "Afegeix al camp A">
+<!ENTITY addtoToFieldMenu.accesskey         "A">
 <!ENTITY addtoCcFieldMenu.label             "Afegeix al camp Cc">
+<!ENTITY addtoCcFieldMenu.accesskey         "C">
 <!ENTITY addtoBccFieldMenu.label            "Afegeix al camp Cco">
+<!ENTITY addtoBccFieldMenu.accesskey        "o">
 
 <!ENTITY toButton.label                     "Afegeix a A:">
 <!ENTITY toButton.accesskey                 "A">

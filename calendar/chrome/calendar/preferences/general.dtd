@@ -49,3 +49,7 @@
 <!ENTITY pref.defaultlength.accesskey "e">
 <!ENTITY pref.defaultsnoozelength.label "Durada per defecte dels silencis:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "s">
+
+<!ENTITY pref.accessibility.label "Accessibilitat" >
+<!ENTITY pref.systemcolors.label "Optimitza els colors per l'accessibilitat" >
+<!ENTITY pref.systemcolors.accesskey "c">

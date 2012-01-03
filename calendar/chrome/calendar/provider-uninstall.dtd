@@ -35,10 +35,10 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY providerUninstall.title                           "Baixa d'un proveïdor">
-<!ENTITY providerUninstall.accept.label                    "Dóna de baixa la subscripció seleccionada">
+<!ENTITY providerUninstall.accept.label                    "Cancel·la la subscripció seleccionada">
 <!ENTITY providerUninstall.accept.accesskey                "b">
 <!ENTITY providerUninstall.cancel.label                    "Conserva el complement">
 <!ENTITY providerUninstall.cancel.accesskey                "C">
 <!ENTITY providerUninstall.preName.label                   "Heu sol·licitat desinstal·lar o inhabilitar:">
 <!ENTITY providerUninstall.postName.label                  "Això farà que s'inhabilitin els calendaris següents.">
-<!ENTITY providerUninstall.reinstallNote.label             "Si no teniu intenció de reinstal·lar aquest proveïdor, podeu donar de baixa la subscripció als calendaris d'aquest proveïdor.">
+<!ENTITY providerUninstall.reinstallNote.label             "Si no teniu intenció de reinstal·lar aquest proveïdor, podeu cancel·lar la subscripció als calendaris d'aquest proveïdor.">

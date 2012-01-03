@@ -3,8 +3,6 @@
 <!ENTITY importAllFrom.label             "Importa-ho tot de:">
 <!ENTITY importBookmarksFrom.label       "Importa les adreces d'interès de:">
 
-<!ENTITY importFromSeamonkey.label       "SeaMonkey 1.x, Navegador/Netscape 6/7 o Mozilla 1.x">
-<!ENTITY importFromSeamonkey.accesskey   "S">
 <!ENTITY importFromThunderbird.label     "Thunderbird">
 <!ENTITY importFromThunderbird.accesskey "T">
 <!ENTITY importFromFile.label            "Fitxer">

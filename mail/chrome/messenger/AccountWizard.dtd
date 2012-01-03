@@ -46,7 +46,7 @@
 <!ENTITY smtpServerDesc.label "Introduïu el nom del vostre servidor de sortida (SMTP) (per exemple, &quot;smtp.exemple.net&quot;).">
 <!ENTITY smtpServerLabel.label "Servidor de sortida:">
 <!ENTITY smtpServerLabel.accesskey "o">
-<!ENTITY newsServerLabel.label "Servidor de grup de missatges:">
+<!ENTITY newsServerLabel.label "Servidor de grups de discussió:">
 <!ENTITY newsServerLabel.accesskey "S">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
@@ -56,6 +56,10 @@
 <!ENTITY popType.accesskey "P">
 <!ENTITY leaveMsgsOnSrvr.label "Deixa els missatges al servidor">
 <!ENTITY leaveMsgsOnSrvr.accesskey "l">
+<!ENTITY portNum.label "Port:">
+<!ENTITY portNum.accesskey "o">
+<!ENTITY defaultPortLabel.label "Predeterminat:">
+<!ENTITY defaultPortValue.label "">
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.

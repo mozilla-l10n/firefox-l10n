@@ -1,5 +1,10 @@
 <!ENTITY addons.windowTitle                   "Gestor de complements">
+
 <!ENTITY search.placeholder                   "Cerca tots els complements">
+<!-- LOCALIZATION NOTE (search.commandKey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
+
 <!ENTITY loading.label                        "S'està carregant…">
 <!ENTITY listEmpty.installed.label            "No teniu instal·lat cap complement d'aquest tipus">
 <!ENTITY listEmpty.availableUpdates.label     "No s'ha trobat cap actualització">

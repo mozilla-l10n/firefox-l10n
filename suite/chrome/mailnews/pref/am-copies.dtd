@@ -22,12 +22,12 @@
 <!ENTITY sentInOtherFolder.label "Altres:">
 <!ENTITY sentInOtherFolder.accesskey "A">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesTitle.label "Arxius de missatges">
-<!ENTITY keepArchives.label "Conserva els arxius a:">
-<!ENTITY keepArchives.accesskey "x">
-<!ENTITY archiveHierarchyButton.label "Opcions d'arxivament…">
+<!ENTITY archivesTitle.label "Arxiu de missatges">
+<!ENTITY keepArchives.label "Conserva l'arxiu de missatges a:">
+<!ENTITY keepArchives.accesskey "C">
+<!ENTITY archiveHierarchyButton.label "Opcions de l'arxiu…">
 <!ENTITY archiveHierarchyButton.accesskey "n">
-<!ENTITY archivesFolderOn.label "Carpeta &quot;Arxius&quot;:">
+<!ENTITY archivesFolderOn.label "Carpeta &quot;Arxiu&quot;:">
 <!ENTITY archivesFolderOn.accesskey "A">
 <!ENTITY archiveInOtherFolder.label "Altres:">
 <!ENTITY archiveInOtherFolder.accesskey "r">
