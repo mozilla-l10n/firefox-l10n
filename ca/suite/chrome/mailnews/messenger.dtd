@@ -89,7 +89,7 @@
 <!ENTITY getNextNMsgCmd.accesskey "t">
 <!ENTITY sendUnsentCmd.label "Envia els missatges per enviar">
 <!ENTITY sendUnsentCmd.accesskey "l">
-<!ENTITY subscribeCmd.label "Subscriu-me a un grup de discussió…">
+<!ENTITY subscribeCmd.label "Gestiona les subscripcions…">
 <!ENTITY subscribeCmd.accesskey "b">
 <!ENTITY renameFolder.label "Reanomena la carpeta…">
 <!ENTITY renameFolder.accesskey "R">
@@ -340,7 +340,7 @@
 <!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Crea un filtre…">
 <!ENTITY createFilter.accesskey "a">
-<!ENTITY archiveMsgCmd.label "Arxiu">
+<!ENTITY archiveMsgCmd.label "Arxiva">
 <!ENTITY archiveMsgCmd.accesskey "A">
 <!ENTITY archiveMsgCmd.key "a">
 <!ENTITY moveMsgToMenu.label "Mou">
@@ -497,7 +497,7 @@
 <!ENTITY contextForward.accesskey "v">
 <!ENTITY contextForwardAsAttachment.label "Reenvia com a adjuncions">
 <!ENTITY contextForwardAsAttachment.accesskey "e">
-<!ENTITY contextArchive.label "Arxiu">
+<!ENTITY contextArchive.label "Arxiva">
 <!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextMoveMsgMenu.label "Mou a">
 <!ENTITY contextMoveMsgMenu.accesskey "o">
@@ -539,7 +539,7 @@
 <!ENTITY folderContextMarkMailFolderRead.accesskey "l">
 <!ENTITY folderContextNew.label "Crea una subcarpeta…">
 <!ENTITY folderContextNew.accesskey "n">
-<!ENTITY folderContextSubscribe.label "Subscriu-me a un grup de discussió…">
+<!ENTITY folderContextSubscribe.label "Gestiona les subscripcions…">
 <!ENTITY folderContextSubscribe.accesskey "b">
 <!ENTITY folderContextSearchMessages.label "Cerca…">
 <!ENTITY folderContextSearchMessages.accesskey "e">

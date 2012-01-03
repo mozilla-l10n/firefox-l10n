@@ -43,9 +43,9 @@
 <!ENTITY aboutWarningButton.label "Aniré amb compte, ho prometo!">
 <!ENTITY aboutWarningCheckbox.label "Mostra'm aquest avís la propera vegada">
 
-<!ENTITY filterPrefs.label "Filtre:">
-<!ENTITY filterPrefs.accesskey "i">
-<!ENTITY focusFilter.key "f">
+<!ENTITY searchPrefs.label "Cerca:">
+<!ENTITY searchPrefs.accesskey "r">
+<!ENTITY focusSearch.key "r">
 <!-- Columns -->
 
 <!ENTITY prefColumn.label "Nom de la preferència">

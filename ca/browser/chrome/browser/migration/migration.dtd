@@ -9,12 +9,10 @@
 <!ENTITY importFromIE.accesskey         "M">
 <!ENTITY importFromNothing.label        "No importis res">
 <!ENTITY importFromNothing.accesskey    "r">
-<!ENTITY importFromSeamonkey.label      "Navegador/Netscape 6, 7 o Mozilla 1.x">
-<!ENTITY importFromSeamonkey.accesskey  "N">
-<!ENTITY importFromOpera.label          "Opera">
-<!ENTITY importFromOpera.accesskey      "O">
 <!ENTITY importFromSafari.label         "Safari">
 <!ENTITY importFromSafari.accesskey     "S">
+<!ENTITY importFromChrome.label         "Chrome">
+<!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromHTMLFile.label       "Des d'un fitxer HTML">
 <!ENTITY importFromHTMLFile.accesskey   "f">
 

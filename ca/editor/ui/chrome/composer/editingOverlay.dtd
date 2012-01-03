@@ -68,3 +68,11 @@
 
 <!ENTITY publishSettings.label "Opcions de la publicació del web...">
 <!ENTITY publishSettings.accesskey "b">
+<!-- Toolbar buttons/items -->
+
+<!ENTITY newToolbarCmd.label "Nova">
+<!ENTITY newToolbarCmd.tooltip "Crea una pàgina nova amb el Composer">
+<!ENTITY openToolbarCmd.label "Obre">
+<!ENTITY openToolbarCmd.tooltip "Obre un fitxer local">
+<!ENTITY saveToolbarCmd.tooltip "Desa el fitxer en una ubicació local">
+<!ENTITY publishToolbarCmd.tooltip "Puja el fitxer a una ubicació remota">

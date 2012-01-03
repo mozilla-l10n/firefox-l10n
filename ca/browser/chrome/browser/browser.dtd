@@ -217,8 +217,17 @@ can reach it easily. -->
 <!ENTITY inspectButton.label            "Inspecciona">
 <!ENTITY inspectButton.accesskey        "I">
 <!ENTITY inspectCloseButton.tooltiptext "Tanca l'Inspector">
+<!ENTITY inspect3DButton.label        "3D">
+<!ENTITY inspect3DButton.accesskey    "M">
 <!ENTITY inspectStyleButton.label     "Estil">
 <!ENTITY inspectStyleButton.accesskey "s">
+<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
+  -  in the Tools menu. -->
+
+<!ENTITY styleeditor.label            "Editor d'estil">
+<!ENTITY styleeditor.accesskey        "i">
+<!ENTITY styleeditor.keycode          "VK_F7">
+<!ENTITY styleeditor.keytext          "F7">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Aconsegueix més eines">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "m">
@@ -421,15 +430,24 @@ can reach it easily. -->
 <!ENTITY thisFrameMenu.label              "Aquest marc">
 <!ENTITY thisFrameMenu.accesskey          "t">
 <!-- Media (video/audio) controls -->
+<!-- LOCALIZATION NOTE: The access keys for "Play" and
+"Pause" are the same because the two context-menu
+items are mutually exclusive. -->
 
 <!ENTITY mediaPlay.label             "Reprodueix">
 <!ENTITY mediaPlay.accesskey         "R">
 <!ENTITY mediaPause.label            "Atura">
 <!ENTITY mediaPause.accesskey        "r">
+<!-- LOCALIZATION NOTE: The access keys for "Mute" and
+"Unmute" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Sense so">
 <!ENTITY mediaMute.accesskey         "e">
 <!ENTITY mediaUnmute.label           "Amb so">
 <!ENTITY mediaUnmute.accesskey       "m">
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "Mostra els controls">
 <!ENTITY mediaShowControls.accesskey "c">
 <!ENTITY mediaHideControls.label     "Amaga els controls">
@@ -438,6 +456,9 @@ can reach it easily. -->
 <!ENTITY videoFullScreen.accesskey   "P">
 <!ENTITY videoSaveImage.label        "Anomena i desa una instantània...">
 <!ENTITY videoSaveImage.accesskey    "s">
+<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
+"Hide Statistics" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY videoShowStats.label        "Mostra les estadístiques">
 <!ENTITY videoShowStats.accesskey    "t">
 <!ENTITY videoHideStats.label        "Oculta les estadístiques">
