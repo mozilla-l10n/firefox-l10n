@@ -10,7 +10,7 @@
 <!ENTITY deniedPortAccess.longDesc "<p>A pòrta domandâ (ez. <q>mozilla.org:80</q> pa-a pòrta 80 in sciô mozilla.org) l'é uzâ pe <em>âtri</em> fìn che no seggian a navegaçión. O browser l'à scancelòu a domanda pe a teu proteçión e seguéssa.</p>">
 
 <!ENTITY dnsNotFound.title "Indirìsso no trovòu">
-<!ENTITY dnsNotFound.longDesc "<p>O browser no treuva o server pe l'indirìsso che t'æ scrîto.</p><ul><li>T'æ miga fæto 'n erô a scrîve? (ez. <q><strong>ww</strong>.mozilla.org</q> pe contro de <q><strong>www</strong>.mozilla.org</q>)</li><li>T'ê segûo che l'indirìsso exista?  Fòscia l'indirìsso l'æ scæito.</li><li>No ti riêsci a navegâ inti âtri scîti?  Contròlla a teu conesción e o teu DNS.</li><li>O teu computer l'é miga protetto da 'n firewall ò proxy?  Se ti gh'æ unn-a inpostaçión sbaliâ ti no peu navegâ.</li></ul>">
+<!ENTITY dnsNotFound.longDesc "<p>O browser no treuva o server pe l'indirìsso che t'æ scrîto.</p><ul><li>T'æ miga fæto 'n erô a scrîve? (ez. <q><strong>ww</strong>.mozilla.org</q> pe contro de <q><strong>www</strong>.mozilla.org</q>)</li><li>T'ê segûo che l'indirìsso l'exìsta?  Fòscia l'indirìsso o l'é scæito.</li><li>No ti riêsci a navegâ inti âtri scîti?  Contròlla a teu conesción e o teu DNS.</li><li>O teu computer l'é miga protetto da 'n firewall ò proxy?  Se ti gh'æ 'na inpostaçión sbaliâ ti no peu navegâ.</li></ul>">
 
 <!ENTITY fileNotFound.title "File no trovòu">
 <!ENTITY fileNotFound.longDesc "<ul><li>Peu êse che l'ògétto l'é stæto rinominòu, eliminòu ò mesciòu?</li><li>Gh'é quàrche erô into l'indirìsso?</li><li>Ti gh'é i pérmissi pe acêde a l'ògétto?</li></ul>">
@@ -25,7 +25,7 @@
 <!ENTITY netInterrupt.longDesc "<p>O browser o s'é conesso ma a conesción a l'é stæta fermâ fintanto che o trasferiva e informaçioìn.  Pe favô prêuva ancón.</p><ul><li>No ti riêsci a navegâ in sci âtri scîti? Contròlla a conesción do teu computer.</li><li>Ti gh'é ancón di problêmi? Ciàmma o teu aministratô da ræ ò fornitô de serviççi internet.</li></ul>">
 
 <!ENTITY notCached.title "Docùmento scæito">
-<!ENTITY notCached.longDesc "<p>The requested document is not available in the browser's cache.</p><ul><li>As a security precaution, the browser does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
+<!ENTITY notCached.longDesc "<p>O docùmento domandòu o no gh'é inta cache do navegatô.</p><ul><li>Pe seguéssa o navegatô no domanda in aotomàtico docùmenti senscìbili.</li><li>Sciàcca Prêuva ancón pe domandâ tórna o docùmento ao scîto .</li></ul>">
 
 <!ENTITY netOffline.title "Mòddo fêua linia">
 <!ENTITY netOffline.longDesc2 "<p>O browser o l'é atîvo in mòddo fêua linia e o no peu colegase a-o ponto çernuo.</p><ul><li>O computer o l'é conésso a unn-a ræ atîva?</li><li>Sciacca &quot;Preuva torna&quot; pe pasâ a-o mòddo in linia e caregâ torna a pagina.</li></ul>">
@@ -83,7 +83,7 @@
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>O browser evita che sta pàgina chi a vegne caregâ a sto mòddo perché gh'à unn-a politica de seguéssa che n'ou permétte.</p>">
 
 <!ENTITY corruptedContentError.title "Erô de contegnuo corotto">
-<!ENTITY corruptedContentError.longDesc "<p>A pàgina che ti çerchi de védde a no peu mostrase perché s'é atrovòu un erô inta trasmiscion di dæti.</p><ul><li>Pe piaxei, contatta i padroìn do scito pe faghe savéi de questo problêma.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>A pagina che ti çerchi de védde a no peu mostrase perché s'é atrovòu un erô inta trasmiscion di dæti.</p><ul><li>Pe piaxei, contatta i padroìn do scito pe faghe savéi de questo problêma.</li></ul>">
 
 <!ENTITY remoteXUL.title "XUL Remòto">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Pe favô ciàmma o propiêtâio do scîto pe informâlo do problêma.</li></ul></p>">

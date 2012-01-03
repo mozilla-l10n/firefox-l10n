@@ -80,8 +80,8 @@
 <!ENTITY downloadCert.viewPolicy.text "Ezaminâ o certificâto, politica e procedûe do CA">
 
 <!-- Certificate Exists in database -->
-<!ENTITY caCertExists.title "O certificâto existe.">
-<!ENTITY caCertExists.message "O certificâto existe za.">
+<!ENTITY caCertExists.title "O certificâto exìste">
+<!ENTITY caCertExists.message "O certificâto l'exìste za.">
 
 <!-- Strings for the SSL client auth ask dialog -->
 <!ENTITY clientAuthAsk.title "L'é domandâ a identitæ do utilizatô">

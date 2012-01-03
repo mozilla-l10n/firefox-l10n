@@ -7,13 +7,21 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "No riêscio a conétte">
-<!ENTITY connectionFailure.longDesc "<p>Scibén che o scîto o pâ vàlido, o browser o no l'é riêscîo a stabilî 'na conesción.</p><ul><li>O scîto o poriéiva êse tenporaneaménte no disponìbile? Prêuva tórna dòppo.</li><li>No ti riêsci a navegâ in sce di âtri scîti? Contròlla a conesción do teu computer.</li><li>O teu computer ò a teu conesción én protètti da 'n firewall ò proxy? Inpostaçioìn no corètte pêuan interferî cón a navegaçión in sciâ Ræ.</li></ul>">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "L'aceizo a-a pòrta dizabilitòu pe raxìon de segùessa">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Indirìsso no trovòu">
-<!ENTITY dnsNotFound.longDesc "<p>O browser no treuva o server pe l'indirìsso che t'æ scrîto.</p><ul><li>T'æ miga fæto 'n erô a scrîve? (ez. <q><strong>ww</strong>.mozilla.org</q> pe contro de <q><strong>www</strong>.mozilla.org</q>)</li><li>T'ê segûo che l'indirìsso exista?  Fòscia l'indirìsso l'é scæito.</li><li>No ti riêsci a navegâ inti âtri scîti?  Contròlla a teu conesción e o teu DNS.</li><li>O teu computer l'é miga protetto da 'n firewall ò proxy?  Se ti gh'æ unn-a inpostaçión sbaliâ ti no peu navegâ.</li></ul>">
+<!ENTITY dnsNotFound.longDesc "<ul>
+  <li>Contròlla che l'indirìsso o no agge di eroî cómme
+    <strong>ww</strong>.ezénpio.com pe contro de
+    <strong>www</strong>.ezénpio.com</li>
+  <li>Se ti no peu caregâ nisciùnn-a pagina contròlla a conesción da ræ.</li>
+  <li>Se o teu computer ò ræ son protetti da un firewall ò proxy verifica se
+     &brandShortName; peu acêde a ræ.</li>
+</ul>
+">
 
 <!ENTITY fileNotFound.title "File no trovòu">
 <!ENTITY fileNotFound.longDesc "<ul><li>Peu êse che l'ògétto l'é stæto rinominòu, eliminòu ò mesciòu?</li><li>Gh'é quàrche erô into l'indirìsso?</li><li>Ti gh'é i pérmissi pe acêde a l'ògétto?</li></ul>">
@@ -26,10 +34,10 @@
 <!ENTITY malformedURI.longDesc "<p>L'indìrisso che ti me dæto o no va bén. Pe favô contròlla che no ghe seggian di eroî inta bara di indirìssi e prêuva ancón.</p>">
 
 <!ENTITY netInterrupt.title "Trasferimento di dæti scancellòu">
-<!ENTITY netInterrupt.longDesc "<p>Scibén che o scîto o pâ vàlido, o browser o no l'é riêscîo a stabilî 'na conesción.</p><ul><li>O scîto o poriéiva êse tenporaneaménte no disponìbile? Prêuva tórna dòppo.</li><li>No ti riêsci a navegâ in sce di âtri scîti? Contròlla a conesción do teu computer.</li><li>O teu computer ò a teu conesción én protètti da 'n firewall ò proxy? Inpostaçioìn no corètte pêuan interferî cón a navegaçión in sciâ Ræ.</li></ul>">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Docùmento scæito">
-<!ENTITY notCached.longDesc "<p>The requested document is not available in &brandShortName;'s cache.</p><ul><li>As a security precaution, &brandShortName; does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
+<!ENTITY notCached.longDesc "<p>O docùmento domandòu o no l'é disponibile inta cache de &brandShortName;.</p><ul><li>Cómme mezûa de seguéssa, o &brandShortName; no te domanda tórna docùmenti sensibili in aotomàtico.</li><li>Sciàcca prêuva ancón pe domandâ tórna o docùmento ao scîto.</li></ul>">
 
 <!ENTITY netOffline.title "Mòddo fêua linia">
 <!ENTITY netOffline.longDesc2 "<p>O browser o l'é into mòddo fêua linia e o no peu colegase a-o ponto çernuo.</p><ul><li>O computer o l'é conésso a unn-a ræ atîva?</li><li>Sciacca &quot;Preuva tórna&quot; pe pasâ a-o mòddo in linia e caregâ a pàgina.</li></ul>">
@@ -41,19 +49,24 @@
 <!ENTITY unsafeContentType.longDesc "<p>A pàgina che t'eu védde a no se peu vizoalizâ perché a gh'à unn-a compresción che a no l'é soportâ.</p><ul><li>Pe favô ciàmma o propiêtâio do scîto pe informâlo do problêma.</li></ul>">
 
 <!ENTITY netReset.title "Conesción Scancelâ">
-<!ENTITY netReset.longDesc "<p>Scibén che o scîto o pâ vàlido, o browser o no l'é riêscîo a stabilî 'na conesción.</p><ul><li>O scîto o poriéiva êse tenporaneaménte no disponìbile? Prêuva tórna dòppo.</li><li>No ti riêsci a navegâ in sce di âtri scîti? Contròlla a conesción do teu computer.</li><li>O teu computer ò a teu conesción én protètti da 'n firewall ò proxy? Inpostaçioìn no corètte pêuan interferî cón a navegaçión in sciâ Ræ.</li></ul>">
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
 
 <!ENTITY netTimeout.title "A ræ a no respónde">
-<!ENTITY netTimeout.longDesc "<p>Scibén che o scîto o pâ vàlido, o browser o no l'é riêscîo a stabilî 'na conesción.</p><ul><li>O scîto o poriéiva êse tenporaneaménte no disponìbile? Prêuva tórna dòppo.</li><li>No ti riêsci a navegâ in sce di âtri scîti? Contròlla a conesción do teu computer.</li><li>O teu computer ò a teu conesción én protètti da 'n firewall ò proxy? Inpostaçioìn no corètte pêuan interferî cón a navegaçión in sciâ Ræ.</li></ul>">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY protocolNotFound.title "Protocòllo no conosciûo">
 <!ENTITY protocolNotFound.longDesc "<p>O indirìsso o l'à un protocòllo (ez. <q>wxyz://</q>) che mi n'ou conoscio coscì no riêscio a conétime a-o scîto.</p><ul><li>Ti prêuvi miga a lêze di contegnûi moltimediali? Contròlla se a-o scîto ghe serve quàrche âtro angæzo.</li><li>Quàrche protocòllo peu domandâ de aplicaçión o plugin de terçe parti.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "O proxy o refûa a conesción">
-<!ENTITY proxyConnectFailure.longDesc "<p>O browser o l'é inpostòu pe uzâ un server proxy ma o proxy o refûa e conescioìn.</p><ul><li>E inpostaçioìn proxy do browser son giùste? Contròlla e preuva ancón.</li><li>O proxy permétte e conescioìn da sta ræ?</li><li>Ti gh'æ ancón di problêmi? Ciàmma o teu aministratô da ræ ò fornitô de serviççi internet pe ascisténsa.</li></ul>">
+<!ENTITY proxyConnectFailure.longDesc "<p>O navegatô o l'é inpostòu pe uzâ un server proxy ma o proxy o refûa e conescioìn.</p><ul><li>E inpostaçioìn proxy do navegatô son giùste? Contròlla e preuva ancón.</li><li>O proxy permétte e conescioìn da sta ræ?</li><li>Ti gh'æ ancón di problêmi? Ciàmma o teu aministratô da ræ ò fornitô de serviççi internet pe ascisténsa.</li></ul>">
 
 <!ENTITY proxyResolveFailure.title "No tròvo o proxy">
-<!ENTITY proxyResolveFailure.longDesc "<p>O browser o l'é inpostòu pe uzâ un server proxy ma o proxy o refûa e conescioìn.</p><ul><li>E inpostaçioìn proxy do browser son giùste? Contròlla e preuva ancón.</li><li>O proxy permétte e conescioìn da sta ræ?</li><li>Ti gh'æ ancón di problêmi? Ciàmma o teu aministratô da ræ ò fornitô de serviççi internet pe ascisténsa.</li></ul>">
+<!ENTITY proxyResolveFailure.longDesc "<ul>
+  <li>Contròlla se e inpostaçióin do proxy son giùste.</li>
+  <li>Contròlla se o teu computer o l'à unn-a conesción che fonçiónn-a.</li>
+  <li>Se o teu computer ò ræ son protetti da un firewall ò proxy verifica se &brandShortName; peu acêde a ræ</li>
+</ul>
+           ">
 
 <!ENTITY redirectLoop.title "A pagina no redireçiónn-a bén">
 <!ENTITY redirectLoop.longDesc "<p>O browser s'é fermòu de preuvâ a riçéive l'ògétto domandòu. O scîto o fa de redireçioìn che no finiscian mâi.</p><ul><li>T'æ dizabilitòu ò blocòu i cookie domandæ da sto scîto?</li><li><em>NÒTTA</em>: Se ti acetti i cookie do scîto e no ti risòlvi o problêma porieivan êse e inpostaçioìn do server e no do teu computer.</li></ul>">
@@ -94,7 +107,7 @@
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>O browser evita che sta pàgina chi a vegne caregâ a sto mòddo perché gh'à unn-a politica de seguéssa che n'ou permétte.</p>">
 
 <!ENTITY corruptedContentError.title "Erô de contegnuo corotto">
-<!ENTITY corruptedContentError.longDesc "<p>A pàgina che ti çerchi de védde a no peu mostrase perché s'é atrovòu un erô inta trasmiscion di dæti.</p><ul><li>Pe piaxei, contatta i padroìn do scito pe faghe savéi de questo problêma.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>A pagina che ti çerchi de védde a no peu mostrase perché s'é atrovòu un erô inta trasmiscion di dæti.</p><ul><li>Pe piaxei, contatta i padroìn do scito pe faghe savéi de questo problêma.</li></ul>">
 
 
 <!ENTITY securityOverride.linkText "ò ti peu azónze 'na eceçión…">

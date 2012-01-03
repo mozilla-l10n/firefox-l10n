@@ -55,7 +55,7 @@
 <!ENTITY devmgr.button.load.accesskey           "C">
 <!ENTITY devmgr.button.unload.label             "Descarego">
 <!ENTITY devmgr.button.unload.accesskey         "D">
-<!ENTITY devmgr.button.fips.accesskey           "S">
+<!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "Inserisci e informaçioìn do modolo che ti veu azónze.">
 <!ENTITY loaddevice.modname                     "Nómme do mòdolo:">

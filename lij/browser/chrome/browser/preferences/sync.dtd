@@ -1,12 +1,12 @@
 <!-- The page shown when not logged in... -->
 <!ENTITY setupButton.label          "Inpòsta &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "s">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; te faiâ acéde a teu stöia, segnalìbbri, paròlle segrétte e féuggi averti in tùtti i teu aparâti che uzi pe conétite.">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; o te faiâ acéde a teu stöia, segnalìbbri, paròlle segrétte e féuggi avérti in tùtti i teu aparâti che t'ûzi pe conétite.">
 
 <!-- The page shown when logged in... -->
 
 <!-- Login error feedback -->
-<!ENTITY updatePass.label             "Agiorna">
+<!ENTITY updatePass.label             "Agiórna">
 <!ENTITY resetPass.label              "Reinpòsta">
 
 <!-- Manage Account -->
@@ -17,7 +17,7 @@
 <!ENTITY myRecoveryKey.label          "A mæ ciâve de repìggio">
 <!ENTITY resetSync2.label             "Reinpòsta Sync…">
 
-<!ENTITY pairDevice.label             "Pair a Device">
+<!ENTITY pairDevice.label             "Acóbia 'n aparâto">
 
 <!ENTITY syncMy.label               "Sync My">
 <!ENTITY engine.bookmarks.label     "Segnalìbbri">

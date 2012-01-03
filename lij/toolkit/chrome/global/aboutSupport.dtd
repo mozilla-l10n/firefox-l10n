@@ -1,10 +1,10 @@
 <!ENTITY aboutSupport.pageTitle "Informaçioìn in sciâ soluçión di problêmi">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
-<!ENTITY aboutSupport.pageSubtitle "  Sta pagina contegne informaçioìn tecniche che peuan êse ùtili quando ti preuvi a risòlve un     problêma. Se tì ti stæ çercando risposte a domande comûni in sciô &brandShortName;, controlla o    nòstro <a id='supportLink'>scîto de agiùtto</a>.
+<!ENTITY aboutSupport.pageSubtitle "  Sta pàgina a contegne informaçioìn tecniche che peuan êse ùtili quando ti preuvi a rizòlve un     problêma. Se tì ti stæ çercando rispòste a domande comûni in sciô &brandShortName;, contròlla o    nòstro <a id='supportLink'>scîto de agiùtto</a>.
 ">
 
-<!ENTITY aboutSupport.extensionsTitle "Estenscióin">
+<!ENTITY aboutSupport.extensionsTitle "Estenscioìn">
 <!ENTITY aboutSupport.extensionName "Nómme">
 <!ENTITY aboutSupport.extensionEnabled "Abilitòu">
 <!ENTITY aboutSupport.extensionVersion "Versción">

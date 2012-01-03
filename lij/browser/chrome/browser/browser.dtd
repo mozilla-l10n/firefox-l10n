@@ -12,9 +12,9 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navegaçión privâ)">
 
 <!-- Tab context menu -->
-<!ENTITY  reloadTab.label                    "Recarega féuggio">
+<!ENTITY  reloadTab.label                    "Recàrega féuggio">
 <!ENTITY  reloadTab.accesskey                "R">
-<!ENTITY  reloadAllTabs.label                "Recarega tùtti i féuggi">
+<!ENTITY  reloadAllTabs.label                "Recàrega tùtti i féuggi">
 <!ENTITY  reloadAllTabs.accesskey            "a">
 <!ENTITY  closeOtherTabs.label               "Særa âtri féuggi">
 <!ENTITY  closeOtherTabs.accesskey           "S">
@@ -28,10 +28,10 @@ can reach it easily. -->
 <!ENTITY  pinAppTab.accesskey                "p">
 <!ENTITY  unpinAppTab.label                  "Smarca féuggio">
 <!ENTITY  unpinAppTab.accesskey              "S">
-<!ENTITY  moveToGroup.label                  "Mescia into Muggio">
+<!ENTITY  moveToGroup.label                  "Méscia into Mùggio">
 <!ENTITY  moveToGroup.accesskey              "M">
-<!ENTITY  moveToNewGroup.label               "Nêuvo muggio">
-<!ENTITY  moveToNewWindow.label              "Mescia inte 'n neuvo barcón">
+<!ENTITY  moveToNewGroup.label               "Nêuvo grùppo">
+<!ENTITY  moveToNewWindow.label              "Méscia inte 'n neuvo barcón">
 <!ENTITY  moveToNewWindow.accesskey          "M">
 <!ENTITY  bookmarkAllTabs.label              "Azónzi tùtti i féuggi a-i segnalìbbri…">
 <!ENTITY  bookmarkAllTabs.accesskey          "t">
@@ -84,13 +84,13 @@ can reach it easily. -->
 <!ENTITY showAllTabsCmd.accesskey "a">
 
 <!ENTITY fullScreenMinimize.tooltip "Ridùci">
-<!ENTITY fullScreenRestore.tooltip "Repiggia">
+<!ENTITY fullScreenRestore.tooltip "Repìggia">
 <!ENTITY fullScreenClose.tooltip "Særa">
 <!ENTITY fullScreenAutohide.label "Ascóndi e bâre">
 <!ENTITY fullScreenAutohide.accesskey "A">
 <!ENTITY fullScreenExit.label "Sciòrti da-o mòddo a tùtto schermo">
 <!ENTITY fullScreenExit.accesskey "S">
-<!ENTITY domFullScreenWarning.label "Press ESC to leave full-screen mode">
+<!ENTITY domFullScreenWarning.label "Sciàcca ESC pe sciortî dò-u mòddo a tùtto schermo">
 
 <!ENTITY closeWindow.label "Særa o barcón">
 <!ENTITY closeWindow.accesskey "S">
@@ -99,8 +99,8 @@ can reach it easily. -->
 <!ENTITY bookmarksMenu.accesskey "b">
 <!ENTITY bookmarkThisPageCmd.label "Azónzi questa pagina a-i segnalìbbri">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY subscribeToPageMenupopup.label "Abonate a sta pagina">
-<!ENTITY subscribeToPageMenuitem.label "Abonate a questa pagina…">
+<!ENTITY subscribeToPageMenupopup.label "Abònate a sta pàgina">
+<!ENTITY subscribeToPageMenuitem.label "Abònate a questa pàgina…">
 <!ENTITY addCurPagesCmd.label "Azónzi tùtti i féuggi a-i segnalìbbri…">
 <!ENTITY showAllBookmarks2.label "Fanni védde tùtti i segnalìbbri">
 <!ENTITY unsortedBookmarksCmd.label "Âtri segnalìbbri">
@@ -108,16 +108,16 @@ can reach it easily. -->
 
 <!ENTITY backCmd.label                "Inderê">
 <!ENTITY backCmd.accesskey            "I">
-<!ENTITY backButton.tooltip           "Vanni inderê de unn-a pàgina">
+<!ENTITY backButton.tooltip           "Vànni inderê de 'na pàgina">
 <!ENTITY forwardCmd.label             "Avànti">
 <!ENTITY forwardCmd.accesskey         "A">
-<!ENTITY forwardButton.tooltip        "Vanni avànti de unn-a pàgina">
+<!ENTITY forwardButton.tooltip        "Vànni avànti de 'na pàgina">
 <!ENTITY backForwardButtonMenu.tooltip "Prémmi co-o tasto déstro do ràtto ò tegni premûo pe védde a stöia">
 <!ENTITY backForwardButtonMenuMac.tooltip "Vànni in zu pe védde a stöia">
-<!ENTITY reloadCmd.label              "Recarega">
+<!ENTITY reloadCmd.label              "Recàrega">
 <!ENTITY reloadCmd.accesskey          "R">
-<!ENTITY reloadButton.tooltip         "Recarega a pagina corénte">
-<!ENTITY stopCmd.label                "Ferma">
+<!ENTITY reloadButton.tooltip         "Recàrega a pagina corénte">
+<!ENTITY stopCmd.label                "Férma">
 <!ENTITY stopCmd.accesskey            "F">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Fermite de caregâ sta pagina">
@@ -136,8 +136,8 @@ can reach it easily. -->
 <!ENTITY appMenuButton.tooltip        "Arvi o menù de &brandShortName;">
 <!ENTITY homeButton.label             "Pàgina iniçiâ">
 
-<!ENTITY tabGroupsButton.label        "Muggio de féuggi">
-<!ENTITY tabGroupsButton.tooltip      "Amuggia i teu féuggi">
+<!ENTITY tabGroupsButton.label        "Grùppo de féuggi">
+<!ENTITY tabGroupsButton.tooltip      "Ragrùppa i teu féuggi">
 
 <!ENTITY feedButton.label             "Abónate">
 <!ENTITY feedButton.tooltip           "Abonate a sta pagina…">
@@ -180,7 +180,7 @@ can reach it easily. -->
 <!ENTITY addons.accesskey             "a">
 <!ENTITY addons.commandkey            "A">
 
-<!ENTITY webDeveloperMenu.label       "Web Developer">
+<!ENTITY webDeveloperMenu.label       "Svilopatô Web">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
 <!ENTITY errorConsoleCmd.label        "Console di Eroî">
@@ -216,7 +216,7 @@ can reach it easily. -->
 <!ENTITY inspectPanelTitle.label        "HTML">
 <!ENTITY inspectButton.label            "Ispeçionn-a">
 <!ENTITY inspectButton.accesskey        "I">
-<!ENTITY inspectCloseButton.tooltiptext "Close Inspector">
+<!ENTITY inspectCloseButton.tooltiptext "Særa l'ispetô">
 <!ENTITY inspectStyleButton.label     "Stile">
 <!ENTITY inspectStyleButton.accesskey "S">
 
@@ -289,7 +289,7 @@ can reach it easily. -->
 
 <!ENTITY historyHomeCmd.label "Pàgina iniçiâ">
 <!ENTITY showAllHistoryCmd2.label "Fanni védde tùtta a stöia">
-<!ENTITY showAllHistoryCmd.commandkey "A">
+<!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuEdit.label "Càngia">
 <!ENTITY appMenuCustomize.label "Personalizza">
@@ -297,7 +297,7 @@ can reach it easily. -->
 <!ENTITY appMenuSidebars.label "Bâre de sciànco">
 <!ENTITY appMenuFind.label "Trêuva…">
 <!ENTITY appMenuUnsorted.label "Âtri segnalìbbri">
-<!ENTITY appMenuWebDeveloper.label "Web Developer">
+<!ENTITY appMenuWebDeveloper.label "Svilopatô Web">
 <!ENTITY appMenuGettingStarted.label "Pe Iniçiâ">
 <!ENTITY appMenuSafeMode.label "Reavia con i conponénti azónti dizabilitæ">
 <!ENTITY appMenuSafeMode.accesskey "R">
@@ -331,7 +331,7 @@ can reach it easily. -->
 <!ENTITY searchFocus.commandkey2      "s">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
-<!ENTITY tabView.commandkey           "s">
+<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label       "Arvi in nêuvo féuggio">
 <!ENTITY openLinkCmdInTab.accesskey   "A">
@@ -436,11 +436,11 @@ can reach it easily. -->
 <!ENTITY mediaHideControls.accesskey "c">
 <!ENTITY videoFullScreen.label       "A tùtto schermo">
 <!ENTITY videoFullScreen.accesskey   "A">
-<!ENTITY videoSaveImage.label        "Save Snapshot As…">
+<!ENTITY videoSaveImage.label        "Sarva l'inmàgine cómme…">
 <!ENTITY videoSaveImage.accesskey    "S">
-<!ENTITY videoShowStats.label        "Show Statistics">
+<!ENTITY videoShowStats.label        "Fanni védde e statistiche">
 <!ENTITY videoShowStats.accesskey    "t">
-<!ENTITY videoHideStats.label        "Hide Statistics">
+<!ENTITY videoHideStats.label        "Ascondi e statistiche">
 <!ENTITY videoHideStats.accesskey    "t">
 
 <!-- LOCALIZATION NOTE :
@@ -499,9 +499,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageStyleMenu.label "Stîle da pàgina">
 <!ENTITY pageStyleMenu.accesskey "S">
-<!ENTITY pageStyleNoStyle.label "No stile">
+<!ENTITY pageStyleNoStyle.label "No stîle">
 <!ENTITY pageStyleNoStyle.accesskey "N">
-<!ENTITY pageStylePersistentOnly.label "Stile de bâze da pagina">
+<!ENTITY pageStylePersistentOnly.label "Stile de bâze da pàgina">
 <!ENTITY pageStylePersistentOnly.accesskey "b">
 
 <!ENTITY pageReportIcon.tooltip            "Càngia o blòcco di pop-up pe sto scîto">
@@ -534,7 +534,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Fæto">
 <!ENTITY editBookmark.cancel.label                   "Anùlla">
-<!ENTITY editBookmark.removeBookmark.accessKey       "r">
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.unverifiedsite2 "Sto scîto o no l'à informaçioìn d'indentitæ.">
 <!ENTITY identity.connectedTo "Tì t'ê conesso a">

@@ -1,6 +1,6 @@
-<!ENTITY networkPanel.requestURL                  "URL domandòu">
+<!ENTITY networkPanel.requestURL                  "URL domand">
 <!ENTITY networkPanel.requestMethod               "Metodo domandòu">
-<!ENTITY networkPanel.statusCode                  "Còdice do stato">
+<!ENTITY networkPanel.statusCode                  "Còdice do stæto">
 
 <!ENTITY networkPanel.requestHeaders              "Testæ domandæ">
 <!ENTITY networkPanel.requestCookie               "Cookie spediô">

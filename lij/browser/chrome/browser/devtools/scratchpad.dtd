@@ -27,19 +27,19 @@
 <!ENTITY saveFileCmd.accesskey        "S">
 <!ENTITY saveFileCmd.commandkey       "s">
 
-<!ENTITY saveFileAsCmd.label          "Sarva co-o nómme…">
+<!ENTITY saveFileAsCmd.label          "Sarva cómme…">
 <!ENTITY saveFileAsCmd.accesskey      "A">
 
 <!ENTITY closeCmd.label               "Særa">
 <!ENTITY closeCmd.key                 "W">
-<!ENTITY closeCmd.accesskey           "C">
+<!ENTITY closeCmd.accesskey           "S">
 
 <!ENTITY editMenu.label               "Càngia">
-<!ENTITY editMenu.accesskey           "E">
+<!ENTITY editMenu.accesskey           "C">
 
 <!ENTITY undoCmd.label                "Anùlla">
 <!ENTITY undoCmd.key                  "Z">
-<!ENTITY undoCmd.accesskey            "U">
+<!ENTITY undoCmd.accesskey            "A">
 
 <!ENTITY redoCmd.label                "Ripêti">
 <!ENTITY redoCmd.key                  "Y">
@@ -47,7 +47,7 @@
 
 <!ENTITY cutCmd.label                 "Tàggia">
 <!ENTITY cutCmd.key                   "X">
-<!ENTITY cutCmd.accesskey             "t">
+<!ENTITY cutCmd.accesskey             "T">
 
 <!ENTITY copyCmd.label                "Còpia">
 <!ENTITY copyCmd.key                  "C">
@@ -55,17 +55,17 @@
 
 <!ENTITY pasteCmd.label               "Incòlla">
 <!ENTITY pasteCmd.key                 "V">
-<!ENTITY pasteCmd.accesskey           "P">
+<!ENTITY pasteCmd.accesskey           "I">
 
 <!ENTITY selectAllCmd.label           "Seleçionn-a tùtto">
 <!ENTITY selectAllCmd.key             "A">
-<!ENTITY selectAllCmd.accesskey       "A">
+<!ENTITY selectAllCmd.accesskey       "t">
 
 <!ENTITY run.label                    "Vanni">
 <!ENTITY run.accesskey                "V">
 <!ENTITY run.key                      "V">
 
-<!ENTITY inspect.label                "Ispeçionn-a">
+<!ENTITY inspect.label                "Inspeçionn-a">
 <!ENTITY inspect.accesskey            "I">
 <!ENTITY inspect.key                  "i">
 
@@ -98,8 +98,8 @@
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
-<!ENTITY resetContext2.label          "Reset Variables">
-<!ENTITY resetContext2.accesskey      "T">
+<!ENTITY resetContext2.label          "Scancella variabili">
+<!ENTITY resetContext2.accesskey      "r">
 
 <!ENTITY executeMenu.label            "Ezegoi">
 <!ENTITY executeMenu.accesskey        "X">

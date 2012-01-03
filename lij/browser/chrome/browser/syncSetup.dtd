@@ -4,9 +4,9 @@
 
 <!ENTITY setup.pickSetupType.description "Benvegûo, se no t'æ mâi uzòu o &syncBrand.fullName.label; alôa ti devi creâ prìmma 'n nêuvo account.">
 <!ENTITY button.createNewAccount.label "Crea 'n nêuvo account">
-<!ENTITY button.haveAccount.label      "I Have an Account">
+<!ENTITY button.haveAccount.label      "Gh'ò za 'n Account">
 
-<!ENTITY setup.choicePage.title.label     "T'æ za ûzòu &syncBrand.fullName.label;?">
+<!ENTITY setup.choicePage.title.label     "T'æ za ûzòu &syncBrand.fullName.label; prìmma d'ancheu?">
 <!ENTITY setup.choicePage.new.label       "Mi no l'ò mâi uzòu o &syncBrand.shortName.label;">
 <!ENTITY setup.choicePage.existing.label  "Mi l'ûzo za o &syncBrand.shortName.label; ma in sciô 'n'âtro computer">
 
@@ -53,17 +53,17 @@
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
 
 <!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
-<!ENTITY pairDevice.title.label             "Pair a Device">
+<!ENTITY pairDevice.title.label             "Acóbia 'n aparâto">
 <!ENTITY addDevice.showMeHow.label          "Famme védde cómme.">
 <!ENTITY addDevice.dontHaveDevice.label     "L'aparâto o no ghe l'ò òua">
-<!ENTITY pairDevice.setup.description.label  "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
+<!ENTITY pairDevice.setup.description.label  "Pe ativâ seleçionn-a &#x0022;Acóbia 'n aparâto&#x0022; in sciô teu âtro aparâto.">
 <!ENTITY addDevice.setup.enterCode.label    "Alôa, inserisci sto còdice:">
-<!ENTITY pairDevice.dialog.description.label "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
+<!ENTITY pairDevice.dialog.description.label "Pe ativâ o teu nêuvo aparâto seleçionn-a &#x0022;Inpòsta Sync&#x0022; in sciô aparâto.">
 <!ENTITY addDevice.dialog.enterCode.label   "Inserisci o còdice che o te dixe l'aparâto:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Pe favô preuva ancón.">
-<!ENTITY addDevice.dialog.successful.label  "L'aparâto o l'é stæto azónto. A prìmma iniçializaçión peu pigiâ quàrche menùto e a finiâ tanto chi ti fæ dell'âtro.">
+<!ENTITY addDevice.dialog.successful.label  "L'aparâto o l'é stæto azónto. A prìmma iniçializaçión peu pigiâ quàrche menûto e a finiâ tanto chi ti fæ de l'âtro.">
 <!ENTITY addDevice.dialog.recoveryKey.label     "Pe ativâ o teu aparâto t'æ bezéugno de inserî a teu Ciâve de repìggio. Pe favô fanni 'na stànpa ò sarva sta ciâve e pöi pòrtila con ti.">
-<!ENTITY addDevice.dialog.connected.label   "Aparâto Conesso">
+<!ENTITY addDevice.dialog.connected.label   "Aparâto Conésso">
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Intra">

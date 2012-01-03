@@ -66,7 +66,7 @@
 <!ENTITY certmgr.certdetail.cn                "Nómme Comùne (CN)">
 <!ENTITY certmgr.certdetail.o                 "Organizaçión (O)">
 <!ENTITY certmgr.certdetail.ou                "Unitæ de Organizaçion (OU)">
-<!ENTITY certmgr.certdetail.serialnumber      "Serial Number">
+<!ENTITY certmgr.certdetail.serialnumber      "Nùmero de série">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "Inprónte de dîe SHA1">
 <!ENTITY certmgr.certdetail.md5fingerprint    "Inprónte de dîe MD5">
 
@@ -98,8 +98,8 @@
 <!ENTITY certmgr.tokenname                    "Aparâto de seguéssa">
 <!ENTITY certmgr.issued                       "Publicòu o">
 <!ENTITY certmgr.expires                      "Scàzze o">
-<!ENTITY certmgr.email                        "E-Mail Address">
-<!ENTITY certmgr.serial                       "Serial Number">
+<!ENTITY certmgr.email                        "Indirìsso e-mail">
+<!ENTITY certmgr.serial                       "Nùmero de série">
 
 <!ENTITY certmgr.close.label                  "Særa">
 <!ENTITY certmgr.close.accesskey              "S">
@@ -139,10 +139,10 @@
 <!ENTITY exceptionMgr.certlocation.caption2   "Server">
 <!ENTITY exceptionMgr.certlocation.url        "Indirìsso">
 <!ENTITY exceptionMgr.certlocation.download   "Danni o certificâto">
-<!ENTITY exceptionMgr.certlocation.accesskey  "D">
+<!ENTITY exceptionMgr.certlocation.accesskey  "G">
 <!ENTITY exceptionMgr.certstatus.caption      "Stato do certificâto">
 <!ENTITY exceptionMgr.certstatus.viewCert     "Fanni védde…">
-<!ENTITY exceptionMgr.certstatus.accesskey    "v">
+<!ENTITY exceptionMgr.certstatus.accesskey    "V">
 <!ENTITY exceptionMgr.permanent.label         "Tegni sarvâ sta eceçión de lóngo">
 <!ENTITY exceptionMgr.permanent.accesskey     "T">
 

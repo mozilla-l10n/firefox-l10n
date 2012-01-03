@@ -44,14 +44,14 @@
 <!ENTITY  validation.crlautoupdatestatus.label    "Agiórnamento aotomàtico do stato">
 <!ENTITY  validation.deletecrl.label              "Scancella">
 <!ENTITY  validation.deletecrl.accesskey          "S">
-<!ENTITY  validation.updatecrl.label              "Agiorna">
+<!ENTITY  validation.updatecrl.label              "Agiórna">
 <!ENTITY  validation.updatecrl.accesskey          "A">
 <!ENTITY  validation.advanced.label               "Inpostaçioìn">
 <!ENTITY  validation.advanced.accesskey           "s">
 
 <!ENTITY  validation.crl.autoupdate.title         "Agiórnamento aotomàtico de preferençe do CRL">
 <!ENTITY  validation.crl.autoupdate.enable.label  "Abilita o agiórnamento aotomàtico pe sto CRL">
-<!ENTITY  validation.crl.autoupdate.time.label1   "Agiorna">
+<!ENTITY  validation.crl.autoupdate.time.label1   "Agiórna">
 <!ENTITY  validation.crl.autoupdate.time.label2   "Giórni prìmma da proscìma dæta de agiórnamento">
 <!ENTITY  validation.crl.autoupdate.freq.label1   "Agiórna ògni">
 <!ENTITY  validation.crl.autoupdate.freq.label2   "Giórni">

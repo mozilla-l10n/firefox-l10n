@@ -5,10 +5,10 @@
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", unn-a ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "comunitæ glöbale">
+<!ENTITY community.creditsLink      "comunitæ globâle">
 <!ENTITY community.end2             " che travaggia asémme pe megioâ Internet. Niâtri credemmo che o Internet dovieva êse avèrto, lìbero e acesibile a tùtti sénsa nisciùnn-a restriçión.">
 
-<!ENTITY contribute.start           "Te interèssa?">
+<!ENTITY contribute.start           "O t'interèssa? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY contribute.getInvolvedLink "Parteçipa!">
 <!ENTITY contribute.end             "">

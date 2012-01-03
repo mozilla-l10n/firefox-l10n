@@ -12,8 +12,8 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Angæsi pe tùtti i conponénti azónti">
 
-<!ENTITY cmd.back.tooltip                     "Vanni inderê de unn-a pàgina">
-<!ENTITY cmd.forward.tooltip                  "Vanni avànti de unn-a pàgina">
+<!ENTITY cmd.back.tooltip                     "Vànni inderê de 'na pàgina">
+<!ENTITY cmd.forward.tooltip                  "Vànni avànti de 'na pàgina">
 
 <!-- global warnings -->
 <!ENTITY warning.safemode.label                    "Tùtti i cònponenti azónti son stæti dizabilitæ da o móddo segûo.">
@@ -57,7 +57,7 @@
 <!ENTITY updates.updating.label               "Agiorno i conponénti azónti">
 <!ENTITY updates.installed.label              "I teu cònponenti azónti son stæti agiornæ.">
 <!ENTITY updates.downloaded.label             "I teu cònponenti azónti son stæti descaregæ.">
-<!ENTITY updates.restart.label                "Reavia pe finî a instalaçión">
+<!ENTITY updates.restart.label                "Reavia pe finî l'instalaçión">
 <!ENTITY updates.noneFound.label              "Nisciùn agiórnamento trovòu">
 <!ENTITY updates.manualUpdatesFound.label     "Fanni védde i agiornamenti disponibili">
 <!ENTITY updates.updateSelected.label         "Installa Agiórnamento">
@@ -104,8 +104,8 @@
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 <!ENTITY discover.title                       "E cöse son sti Conponénti azónti?">
-<!ENTITY discover.description2                "I conponénti azónti son aplicaçioìn che te peuan agiùdâ a personalizâ o &brandShortName; gràçie
-  a âtre funçionaliæ ò stîli. Prêuvâ 'na bâra pe risparmiâ do ténpo , 'n notiçiario do ténpo ò 'n têma pe fâ o 
+<!ENTITY discover.description2                "I conponénti azónti son aplicaçioìn che te peuan agiùtâ a personalizâ o &brandShortName; gràçie
+  a âtre funçionaliæ ò stîli. Prêuvâ 'na bâra pe risparmiâ do ténpo, in notiçiario do ténpo ò 'n têma pe fâ davéi o 
   teu &brandShortName;.">
 <!ENTITY discover.footer                      "Quande t'ê conésso a internet, sto panello
   o te faiâ védde quàrchedùn di ciù pòpolari conponénti azónti da prêuvâ.">
@@ -154,7 +154,7 @@
 <!ENTITY sort.name.tooltip                    "Órdina pe nómme">
 <!ENTITY sort.dateUpdated.label               "Agiornòu">
 <!ENTITY sort.dateUpdated.tooltip             "Órdina pe dæta de agiórnamento">
-<!ENTITY sort.relevance.label                 "A mêgio cóbia">
+<!ENTITY sort.relevance.label                 "A mêgio corispondensa">
 <!ENTITY sort.relevance.tooltip               "Óridina pe inportansa">
 <!ENTITY sort.price.label                     "Prêxo">
 <!ENTITY sort.price.tooltip                   "Órdina pe prêxo">
@@ -177,7 +177,7 @@
      updates list to signify that an item is an update, in the form
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
      necessary -->
-<!ENTITY addon.update.postfix                 "Agiorna">
+<!ENTITY addon.update.postfix                 "Agiórna">
 <!ENTITY addon.undoAction.label               "Anùlla">
 <!ENTITY addon.undoAction.tooltip             "Anùlla sta açión">
 <!ENTITY addon.undoRemove.label               "Anùlla">

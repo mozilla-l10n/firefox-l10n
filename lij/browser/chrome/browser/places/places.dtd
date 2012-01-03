@@ -58,7 +58,7 @@
 <!ENTITY cmd.open_all_in_tabs.label      "Arvi tùtto inti féuggi">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "o">
 
-<!ENTITY cmd.properties.label      "Propiêtæ">
+<!ENTITY cmd.properties.label      "Propietæ">
 <!ENTITY cmd.properties.accesskey  "i">
 
 <!ENTITY cmd.sortby_name.label              "Órdina pe nómme">
@@ -69,7 +69,7 @@
 <!ENTITY cmd.new_bookmark.accesskey        "b">
 <!ENTITY cmd.new_folder.label              "Nêuva cartélla…">
 <!ENTITY cmd.new_folder.accesskey          "N">
-<!ENTITY cmd.context_new_folder.accesskey  "S">
+<!ENTITY cmd.context_new_folder.accesskey  "F">
 <!ENTITY cmd.new_separator.label           "Nêuvo separatô">
 <!ENTITY cmd.new_separator.accesskey       "s">
 
@@ -110,9 +110,9 @@
 <!ENTITY maintenance.accesskey  "I">
 <!ENTITY maintenance.tooltip    "Inpòrta e fanni a còpia de seguéssa di teu segnalìbbri">
 
-<!ENTITY backButton.tooltip  "Torna inderê">
+<!ENTITY backButton.tooltip  "Vànni inderê">
 
-<!ENTITY forwardButton.tooltip  "Vanni avànti">
+<!ENTITY forwardButton.tooltip  "Vànni avànti">
 
 <!ENTITY detailsPane.more.label "Ciù">
 <!ENTITY detailsPane.more.accesskey "C">

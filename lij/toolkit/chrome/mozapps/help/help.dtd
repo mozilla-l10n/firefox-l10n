@@ -1,15 +1,15 @@
 <!ENTITY printCmd.commandkey            "p">
 
-<!ENTITY findOnCmd.commandkey           "S">
-<!ENTITY findAgainCmd.commandkey        "D">
+<!ENTITY findOnCmd.commandkey           "F">
+<!ENTITY findAgainCmd.commandkey        "G">
 <!ENTITY findAgainCmd.commandkey2       "VK_F3">
 
 <!ENTITY backButton.label               "Inderê">
 <!ENTITY backButton.accesskey           "I">
-<!ENTITY backButton.tooltip             "Vanni inderê de unn-a pàgina">
+<!ENTITY backButton.tooltip             "Vànni inderê de 'na pàgina">
 <!ENTITY forwardButton.label            "Avànti">
 <!ENTITY forwardButton.accesskey        "A">
-<!ENTITY forwardButton.tooltip          "Vanni avànti de unn-a pàgina">
+<!ENTITY forwardButton.tooltip          "Vànni avànti de 'na pàgina">
 <!ENTITY copyCmd.label                  "Còpia">
 <!ENTITY copyCmd.accesskey              "C">
 <!ENTITY selectAllCmd.label             "Seleçionn-a tùtto">

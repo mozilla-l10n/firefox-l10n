@@ -2,14 +2,14 @@
 
 <!ENTITY languages.customize.Header                     "Léngoe">
 <!ENTITY languages.customize.prefLangDescript           "Spésse vòtte e pàgine web an ciù de unn-a léngoa. Scegli e léngoe in órdine de preferensa.">
-<!ENTITY languages.customize.active.label               "léngoe in órdine de preferensa">
+<!ENTITY languages.customize.active.label               "léngoe in órdine de preferénsa:">
 <!ENTITY languages.customize.moveUp.label               "Mescia in sciù">
 <!ENTITY languages.customize.moveUp.accesskey           "M">
 <!ENTITY languages.customize.moveDown.label             "Mescia in zu">
 <!ENTITY languages.customize.moveDown.accesskey         "M">
 <!ENTITY languages.customize.deleteButton.label         "Elimina">
 <!ENTITY languages.customize.deleteButton.accesskey     "E">
-<!ENTITY languages.customize.selectLanguage.label       "Seleçionn-a unn-a léngoa pe azónzila…">
+<!ENTITY languages.customize.selectLanguage.label       "Seleçionn-a 'na léngoa pe azónzila…">
 <!ENTITY languages.customize.addButton.label            "Azónzi">
 <!ENTITY languages.customize.addButton.accesskey        "A">
 

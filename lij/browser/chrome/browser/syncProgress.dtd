@@ -3,10 +3,10 @@
     %brandDTD;
 
 <!-- These strings are used in the sync progress upload page -->
-<!ENTITY syncProgress.pageTitle    "Your First Sync">
-<!ENTITY syncProgress.textBlurb    "Your data is now being encrypted and uploaded in the background. You can close this tab and continue using &brandShortName;.">
+<!ENTITY syncProgress.pageTitle    "O teu prìmmo Sync">
+<!ENTITY syncProgress.textBlurb    "I teu dæti saiàn criptæ e agiornæ in background. Ti peu serâ sto féuggio e continoâ a dêuviâ &brandShortName;.">
 <!ENTITY syncProgress.closeButton  "Særa">
-<!ENTITY syncProgress.logoAltText  "&brandShortName; logo">
-<!ENTITY syncProgress.diffText     "&brandShortName; will now automatically sync in the background.  You can close this tab and continue using &brandShortName;.">
+<!ENTITY syncProgress.logoAltText  "Logo de &brandShortName;">
+<!ENTITY syncProgress.diffText     "O &brandShortName; òua faiâ a sincronizaçión aotomàtica in background.  Ti peu serâ sto féuggio e continoâ a dêuviâ &brandShortName;.">
 
 

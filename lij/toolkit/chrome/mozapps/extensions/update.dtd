@@ -18,7 +18,7 @@
 
 <!ENTITY  found.wizard.title               "Trovæ conponénti azónti conpatibili">
 <!ENTITY  found.top.label                 "Seleçionn-a i cònponenti azónti che ti veu instalâ:">
-<!ENTITY  found.disabledXPinstall.label   "Sti agiórnamenti no peuan êse instalæ perché t'æ dizabilitòu a instalaçión de
+<!ENTITY  found.disabledXPinstall.label   "Sti agiórnamenti no peuan êse instalæ perché t'æ dizabilitòu l'instalaçión de
                                            aplicaçioìn. Ti peu cangiâ ste inpostaçioìn chi sótta.">
 <!ENTITY  found.enableXPInstall.label     "Pérmetti a-i scîti de instalâ programmi">
 <!ENTITY  found.enableXPInstall.accesskey "a">

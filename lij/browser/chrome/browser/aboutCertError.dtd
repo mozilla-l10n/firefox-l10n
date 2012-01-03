@@ -12,17 +12,17 @@ by NSS/PSM via netError.xhtml. -->
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara1 "Tì ti veu che o &brandShortName; se conétta in manêa segùa a <b>#1</b>, ma niâtri no poemmo confermâ che a teu conesción a segge segûa.">
-<!ENTITY certerror.introPara2 "Spésse vòtte, quande ti prêuvi a conétite in mòddo segûo, o scîto o te domànda unn'identificaçión pe confermâ che ti væ into scîto giùsto. Ma l'identitæ do scîto a no se peu verificâ.">
+<!ENTITY certerror.introPara1 "Ti ti veu che o &brandShortName; o se conétta in manêa segùa a <b>#1</b>, ma niâtri mîga poémmo confermâ che a teu conesción a segge segûa.">
+<!ENTITY certerror.introPara2 "Spésse vòtte, quande ti prêuvi a conétite in mòddo segûo, o scîto o te domànda 'na identificaçión pe confermâ che ti væ into scîto giùsto. Ma l'identitæ do scîto a no se peu verificâ.">
 
-<!ENTITY certerror.whatShouldIDo.heading "Cösa gh’ò da fâ?">
+<!ENTITY certerror.whatShouldIDo.heading "Cöse gh’ò da fâ?">
 <!ENTITY certerror.whatShouldIDo.content "Se spèsse vòtte ti te conétti a questo scîto sénsa dificoltæ alôa veu dî che o gh'é quarchedùn che o prêuva a fâ fìnta de êse o scîto, e ti no ti dovesci continoâ.">
 <!ENTITY certerror.getMeOutOfHere.label "Pòrtime fêua de chi!">
 
 <!ENTITY certerror.expert.heading "Capìscio i rìschi">
-<!ENTITY certerror.expert.content "Se tì ti conpréndi cösa sucêde, ti t'ò peu domandâ a &brandShortName; de comensâ 'na identificaçión segûa do scîto.<b>Âtriménti se ti te crèddi che o scîto o segge segûo, alôa questo erô pue voèi dî che gh'é quarchedùn che o l'é aprêuvo à falsificâ a teu conesción.</b>">
-<!ENTITY certerror.expert.contentPara2 "No azónze 'na eceçión fintànto che ti sæ che a gh'é 'na bónn-a raxón do perché questo scîto no dêuvia 'na identificaçión segûa.">
+<!ENTITY certerror.expert.content "Se ti ti conpréndi cöse sucêde, ti peu domandâ a &brandShortName; de comensâ 'na identificaçión do scîto.<b>Âtriménti se ti crèddi ch'o scîto o segge segûo, alôa sto erô pue voèi dî che gh'é quarchedùn ch'o l'é aprêuvo à falsificâ a teu conesción.</b>">
+<!ENTITY certerror.expert.contentPara2 "No azónze 'na eceçión se ti no sæ che gh'é 'na bónn-a raxón do perché questo scîto o no dêuvia 'na identificaçión segûa.">
 <!ENTITY certerror.addException.label "Azónzi 'na eceçión…">
 
-<!ENTITY certerror.technical.heading "Detàli Tecnici">
+<!ENTITY certerror.technical.heading "Detàlli Tecnici">
 

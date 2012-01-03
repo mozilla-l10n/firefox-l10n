@@ -57,14 +57,14 @@
 <!ENTITY overrideSmartCacheSize.label    "Ignòra a gestión aotomàtica da cache">
 <!ENTITY overrideSmartCacheSize.accesskey "o">
 
-<!ENTITY updateTab.label                 "Agiorna">
+<!ENTITY updateTab.label                 "Agiórna">
 
-<!ENTITY updateApp.label                 "&brandShortName; updates:">
-<!ENTITY updateAuto.label                "Automatically install updates (recommended: improved security)">
-<!ENTITY updateAuto.accesskey            "A">
-<!ENTITY updateCheck.label               "Check for updates, but let me choose whether to install them">
+<!ENTITY updateApp.label                 "Agiornaménti de &brandShortName;:">
+<!ENTITY updateAuto.label                "Installa i agiornaménti in aotomàtico (racomandòu: ciù seguéssa)">
+<!ENTITY updateAuto.accesskey            "a">
+<!ENTITY updateCheck.label               "Contròlla se ghe son agiornaménti, ma fanni decidde a mi se instalâli">
 <!ENTITY updateCheck.accesskey           "C">
-<!ENTITY updateManual.label              "Never check for updates (not recommended: security risk)">
+<!ENTITY updateManual.label              "No çercâ mâi i agiornaménti (no racomandòu: rezego de seguéssa)">
 <!ENTITY updateManual.accesskey          "N">
 
 <!ENTITY updateAutoAddonWarn.label       "Avertime se questo dizabilita quarchedùn di mæ conponénti azónti">
@@ -73,10 +73,10 @@
 <!ENTITY updateHistory.label             "Fanni védde a stöia di agiórnamenti">
 <!ENTITY updateHistory.accesskey         "F">
 
-<!ENTITY useService.label                "Use a background service to install updates">
-<!ENTITY useService.accesskey            "b">
+<!ENTITY useService.label                "Uzâ 'n serviçio ascozo pe instalâ i agiornaménti">
+<!ENTITY useService.accesskey            "a">
 
-<!ENTITY updateOthers.label              "Automatically update:">
+<!ENTITY updateOthers.label              "Agiornaménti aotomàtici:">
 <!ENTITY enableAddonsUpdate3.label       "Conponénti azónti">
 <!ENTITY enableAddonsUpdate3.accesskey   "o">
 <!ENTITY enableSearchUpdate.label        "Motô de riçerca">

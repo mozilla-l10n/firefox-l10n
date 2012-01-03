@@ -21,7 +21,7 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; o deve êse reaviòu pe fa louâ i plugin.">
 
 <!ENTITY missingPlugin                                       "Pe védde sto contegnûo t'æ bezéugno de 'n plugin.">
-<!ENTITY clickToPlayPlugin                                   "Tap here to activate plugin.">
+<!ENTITY clickToPlayPlugin                                   "Sciàcca chi pe ativâ o plugin.">
 <!ENTITY disabledPlugin                                      "O plugin o l'é dizabilitòu.">
 <!ENTITY blockedPlugin.label                                 "O plugin o l'é stæto blocòu pe-a teu proteçión.">
 
@@ -35,7 +35,7 @@
 <!ENTITY reloadPlugin.middle                                 "Recarega pagina">
 <!ENTITY reloadPlugin.post                                   " pe provâ ancón.">
 <!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.checkbox                                     "…and send crash report">
+<!ENTITY report.checkbox                                     "…e mànda o report do ciànto">
 <!ENTITY report.submitting                                   "Spedisco o report…">
 <!ENTITY report.submitted                                    "Report do problêma spediô.">
 <!ENTITY report.disabled                                     "Registro di problêmi dizabilitòu.">

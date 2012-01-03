@@ -74,10 +74,10 @@
 <!ENTITY  mediaCount            "Nùmero">
 <!ENTITY  mediaDimension        "Dimensción:">
 <!ENTITY  mediaLongdesc         "Descriçión longa:">
-<!ENTITY  mediaBlockImage.accesskey "I">
+<!ENTITY  mediaBlockImage.accesskey "B">
 <!ENTITY  mediaSaveAs           "Sarva co-o nómme…">
 <!ENTITY  mediaSaveAs.accesskey "a">
-<!ENTITY  mediaSaveAs2.accesskey "s">
+<!ENTITY  mediaSaveAs2.accesskey "e">
 <!ENTITY  mediaPreview          "Anteprìmma do media">
 
 <!ENTITY  feedTab               "Feed">
@@ -107,7 +107,7 @@
 <!ENTITY  securityTab.accesskey "S">
 <!ENTITY  securityHeader        "Informaçioìn de seguéssa pe sta pagina">
 <!ENTITY  securityView.certView "Fanni védde o certificâto">
-<!ENTITY  securityView.accesskey "v">
+<!ENTITY  securityView.accesskey "V">
 <!ENTITY  securityView.unknown   "no conosciûo">
 
 

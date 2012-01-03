@@ -4,7 +4,7 @@
 <!ENTITY privatebrowsingpage.issueDesc                 "O &brandShortName; o no se aregòrdià a stöia de questa seçión.">
 <!ENTITY privatebrowsingpage.issueDesc.normal          "O &brandShortName; òua o no l'é in navegaçión privâ.">
 
-<!ENTITY privatebrowsingpage.description               "Inte 'na seçión de navegaçión privâ, &brandShortName; o no mantegniâ a stöia do browser, a stöia de riçerche, a stöia di descarigamenti, a stöia di mòduli web e di file ténporanei de internet. Ma i file che tì ti descareghi e i segnalìbbri che ti fæ vegnan sarvæ.">
+<!ENTITY privatebrowsingpage.description               "Inte 'na seçión de navegaçión privâ, &brandShortName; o no mantegniâ a stöia do browser, a stöia de riçerche, a stöia di descarigamenti, a stöia di mòduli web e di file ténporanei de internet. Ma i file che ti ti descareghi e i segnalìbbri che ti fæ vegnan sarvæ.">
 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
