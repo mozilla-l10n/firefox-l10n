@@ -79,7 +79,6 @@
 
 <!ENTITY  linksTab              "Linkit">
 <!ENTITY  linksTab.accesskey    "i">
-<!ENTITY  linkNo                "Ei.">
 <!ENTITY  linkName              "Nimi">
 <!ENTITY  linkAddress           "Osoite">
 <!ENTITY  linkType              "Tyyppi">
