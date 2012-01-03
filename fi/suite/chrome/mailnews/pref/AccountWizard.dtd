@@ -54,6 +54,10 @@
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
+<!ENTITY portNum.label "Portti:">
+<!ENTITY portNum.accesskey "o">
+<!ENTITY defaultPortLabel.label "Oletus:">
+<!ENTITY defaultPortValue.label "">
 <!ENTITY leaveMsgsOnSrvr.label "Jätä viestit palvelimelle">
 <!ENTITY leaveMsgsOnSrvr.accesskey "ä">
 
