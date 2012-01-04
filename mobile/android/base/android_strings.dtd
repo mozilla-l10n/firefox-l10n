@@ -50,10 +50,6 @@
 <!ENTITY pref_about_firefox "À propos de &brandShortName;">
 <!ENTITY pref_do_not_track "Dire de ne pas me pister">
 <!ENTITY pref_telemetry "Envoyer les données de perf.">
-<!ENTITY pref_homepage "Accueil">
-<!ENTITY pref_homepage_start "Accueil de Firefox">
-<!ENTITY pref_homepage_blank "Page vide">
-<!ENTITY pref_homepage_current "Page courante">
 <!ENTITY pref_remember_signons "Enreg. les mots de passe">
 <!ENTITY pref_cookies "Autoriser les cookies">
 <!ENTITY pref_char_encoding "Afficher l\u0027encodage">
