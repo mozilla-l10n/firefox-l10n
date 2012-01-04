@@ -83,7 +83,7 @@
 
 <!ENTITY allowRemoteContent1.label      "Dozvoli vanjski sadržaj.">
 <!ENTITY allowRemoteContent1.accesskey  "v">
-<!ENTITY allowRemoteContent1.tooltip    "U HTML poruke moguće je ugraditi sadržaj sa vanjskih izvora. Otvaranje takvih poruka će otvoriti vezu na taj vanjski izvor. Ovo može omogućiti praćenje čitanja poruke. Označavanje ove kućice će omogućiti ugrađeni vanjski sadržaj u HTML porukama ovog kontakta.">
+<!ENTITY allowRemoteContent1.tooltip    "U HTML poruke moguće je ugraditi sadržaj s vanjskih izvora. Otvaranje takvih poruka će otvoriti vezu na taj vanjski izvor. Ovo može omogućiti praćenje čitanja poruke. Označavanje ove kućice će omogućiti ugrađeni vanjski sadržaj u HTML porukama ovog kontakta.">
 
 <!ENTITY WorkPhone.label                "Telefon (posao):">
 <!ENTITY WorkPhone.accesskey            "l">
@@ -158,7 +158,7 @@
 
 <!ENTITY Photo.tab                      "Slika">
 <!ENTITY Photo.accesskey                "S">
-<!ENTITY PhotoDesc.label                "Odaberi jedan od slijedećih:">
+<!ENTITY PhotoDesc.label                "Odaberi jedan od sljedećih:">
 <!ENTITY GenericPhoto.label             "Općenita slika">
 <!ENTITY GenericPhoto.accesskey         "e">
 <!ENTITY DefaultPhoto.label             "Zadano">
