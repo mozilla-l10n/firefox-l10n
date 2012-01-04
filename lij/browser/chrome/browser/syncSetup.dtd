@@ -22,7 +22,7 @@
 <!ENTITY signIn.recoveryKey.accesskey   "C">
 
 <!-- New Account Page 1: Basic Account Info -->
-<!ENTITY setup.newAccountDetailsPage.title.label "Detàli do Account">
+<!ENTITY setup.newAccountDetailsPage.title.label "Detàlli do Account">
 <!ENTITY setup.emailAddress.label     "Indirìsso de pòsta">
 <!ENTITY setup.emailAddress.accesskey "e">
 <!ENTITY setup.choosePassword.label      "Çerni unn-a paròlla segrétta">

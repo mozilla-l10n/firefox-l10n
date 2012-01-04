@@ -27,7 +27,7 @@
 
 <!ENTITY  clickHere.label                 "Fanni védde ciù informaçióin in sciô agiornaménto">
 
-<!ENTITY  evangelism.desc                 "L'é racomandòu che ti ativi sti 
+<!ENTITY  evangelism.desc                 "L'é racomandòu che ti atîvi sti 
                                            agiornaménti pe &brandShortName; ciù fîto che ti peu.">
 
 <!ENTITY  license.instructions            "Se t'ê d'acòrdio co-i termini de sto contràtto, premmi Son d'acòrdio 
@@ -50,25 +50,25 @@
 
 <!ENTITY  viewDetails.tooltip             "Fanni védde i detàli pe sto agiornaménto">
 
-<!ENTITY  details.link                    "Detàli">
+<!ENTITY  details.link                    "Detàlli">
 
 <!ENTITY  error.title                     "Agiornaménto no rioscîo">
 
-<!ENTITY  error.label                     "Gh'é stæto un problêma contròlando pe descaregâ ò instalâ sto 
+<!ENTITY  error.label                     "Gh'é stæto un problêma a descaregâ ò instalâ sto 
                                            agiornaménto. &brandShortName; no peu êse agiornòu perché:">
                                            
-<!ENTITY  errorManual.label               "Ti ti peu agiórnâ &brandShortName; a màn vixitando sto colegamento
+<!ENTITY  errorManual.label               "Ti ti peu agiornâ &brandShortName; a màn vixitando sto colegamento
                                            e descaregando l'ùrtima versción:">
                                            
-<!ENTITY  errorpatching.intro             "O agiórnamento parçiale o no va bén. 
-                                           O &brandShortName; o proviâ ancón a descaregâ l'agiórnamento conplêto.">
+<!ENTITY  errorpatching.intro             "O agiornaménto parçiale o no va bén. 
+                                           O &brandShortName; o proviâ ancón a descaregâ l'agiornaménto conplêto.">
 
 <!ENTITY  genericBackgroundError.label    "O &brandShortName; o no l'ariesce a capî se gh'é di agiornaménti. Pe favô
-                                           te peu miga amiâ se ti gh'é l'ùrtima versción de &brandShortName; da:">
+                                           te peu miga amiâ se ti gh'æ l'ùrtima versción de &brandShortName; da:">
 <!ENTITY  errorCertAttrNoUpdate2.label    "Quarcösa inpedisce a &brandShortName; de agiórnase in seguéssa.
                                            Contròlla se ti gh'æ l'ùrtima versción de &brandShortName; da:">
 <!ENTITY  errorCertAttrHasUpdate.label    "Quarcösa a prêuva a inbrogiâ o &brandShortName; pe fâ
-                                           acetâ in agiórnamento no segûo. Pe favô ciamma o gestô da teu ræ pe avéi agiùtto.">
+                                           acetâ in agiornaménto no segûo. Pe favô ciàmma o gestô da teu ræ pe avéi agiùtto.">
 
 <!ENTITY  finishedPage.title              "Agiornaménto pronto da Instalâ">
 <!ENTITY  finishedPage.text               "L'agiornaménto saiâ instalòu a-o pròscimo reavio de &brandShortName;. Ti ti 
@@ -85,7 +85,7 @@
 <!ENTITY  installed.intro                 "O Agiornaménto o l'é stæto instalòu bén.">
 <!ENTITY  whatsnew.label                  "Lêzi de ciù in scê novitæ…">
 
-<!ENTITY  update.details.label            "Detàli">
+<!ENTITY  update.details.label            "Detàlli">
 <!ENTITY  update.installedOn.label        "Instalòu o:">
 <!ENTITY  update.status.label             "Stato:">
 

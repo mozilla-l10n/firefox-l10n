@@ -60,7 +60,7 @@
 <!ENTITY  generalEncoding       "Còdifica:">
 <!ENTITY  generalMetaName       "Nómme">
 <!ENTITY  generalMetaContent    "Contegnûo">
-<!ENTITY  generalSecurityDetails   "Detàli">
+<!ENTITY  generalSecurityDetails   "Detàlli">
 <!ENTITY  generalSecurityDetails.accesskey "D">
 
 <!ENTITY  mediaTab              "Media">
@@ -125,5 +125,5 @@
 <!ENTITY  securityView.privacy.viewPasswords            "Fanni védde e paròlle segrétte sarvæ">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "v">
 
-<!ENTITY  securityView.technical.header                 "Detàli Tecnici">
+<!ENTITY  securityView.technical.header                 "Detàlli Tecnici">
 

@@ -63,6 +63,6 @@
 <!ENTITY  crl.issuer.orgunit.label                "Unitæ: ">
 <!ENTITY  crl.import.nextupdate.label             "Pròscimo Agiórnamento O: ">
 <!ENTITY  crl.autoupdate.fail.cnt.label           "Agiornaménti precedénti che son falî un derê a l'âtro: ">
-<!ENTITY  crl.autoupdate.fail.reason.label        "Detàli de l'ùrtimo Agiornaménto falîo: ">
+<!ENTITY  crl.autoupdate.fail.reason.label        "Detàlli de l'ùrtimo Agiornaménto falîo: ">
 <!ENTITY  edit.button                             "Inpostaçioìn">
 

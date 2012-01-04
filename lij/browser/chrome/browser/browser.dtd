@@ -116,7 +116,7 @@ can reach it easily. -->
 <!ENTITY backForwardButtonMenuMac.tooltip "Vànni in zu pe védde a stöia">
 <!ENTITY reloadCmd.label              "Recàrega">
 <!ENTITY reloadCmd.accesskey          "R">
-<!ENTITY reloadButton.tooltip         "Recàrega a pagina corénte">
+<!ENTITY reloadButton.tooltip         "Recàrega a pàgina corénte">
 <!ENTITY stopCmd.label                "Férma">
 <!ENTITY stopCmd.accesskey            "F">
 <!ENTITY stopCmd.macCommandKey        ".">
@@ -208,7 +208,7 @@ can reach it easily. -->
   -  "Scratchpad" in your locale. You should feel free to find a close
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
-<!ENTITY scratchpad.label             "Blòcchetin">
+<!ENTITY scratchpad.label             "Blòchetìn">
 <!ENTITY scratchpad.accesskey         "B">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
