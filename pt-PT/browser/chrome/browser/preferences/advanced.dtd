@@ -88,7 +88,7 @@
 <!ENTITY offlineNotifyExceptions.label   "Excepções...">
 <!ENTITY offlineNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList.label           "Os seguintes sítios web têm dados instalados para usar no modo desligado:">
+<!ENTITY offlineAppsList.label           "Os seguintes sítios web estão autorizados a guardar dados para usar no modo desligado:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Remover...">
 <!ENTITY offlineAppsListRemove.accesskey "R">
