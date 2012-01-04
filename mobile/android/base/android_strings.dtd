@@ -51,10 +51,6 @@
 <!ENTITY pref_about_firefox "關於 &brandShortName;">
 <!ENTITY pref_do_not_track "告訴網站我不想被追蹤">
 <!ENTITY pref_telemetry "傳送效能資料">
-<!ENTITY pref_homepage "首頁">
-<!ENTITY pref_homepage_start "Firefox 首頁">
-<!ENTITY pref_homepage_blank "空白頁">
-<!ENTITY pref_homepage_current "目前頁面">
 <!ENTITY pref_remember_signons "記住密碼">
 <!ENTITY pref_cookies "啟用 Cookie">
 <!ENTITY pref_char_encoding "顯示字元編碼">
