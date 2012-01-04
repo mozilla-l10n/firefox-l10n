@@ -1,4 +1,4 @@
-<!ENTITY virtualFolderProperties.title "Novo sačuvane mape za pretraživanje">
+<!ENTITY virtualFolderProperties.title "Novo spremljene mape za pretraživanje">
 <!ENTITY name.label                 "Naziv:">
 <!ENTITY name.accesskey             "N">
 <!ENTITY description.label          "Stvori kao podmapu od:">
@@ -10,7 +10,7 @@
 <!ENTITY chooseFoldersButton.label "Odaberi…">
 <!ENTITY chooseFoldersButton.accesskey "O">
 
-<!ENTITY searchOnline.label "Pretraži na mreži (Daje najnovije rezultate za IMAP i mape interesnih grupa, ali povećava vrijeme potrebno za otvaranje mape)">
+<!ENTITY searchOnline.label "Pretraži na mreži (daje najnovije rezultate za IMAP i mape interesnih grupa, ali povećava vrijeme potrebno za otvaranje mape)">
 <!ENTITY searchOnline.accesskey "P">
 <!ENTITY newFolderButton.label       "Stvori">
 <!ENTITY newFolderButton.accesskey   "r">
