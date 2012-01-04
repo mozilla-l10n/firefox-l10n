@@ -40,15 +40,15 @@
 <!ENTITY window.width                     "37em">
 
 <!ENTITY safeModeDescription.label        "&brandShortName; je pokrenut u sigurnom načinu rada, koji privremeno onemogućava vaše prilagođene postavke, teme i dodatke.">
-<!ENTITY safeModeDescription2.label       "Možete neke od ovih promjena učiniti trajnima:">
+<!ENTITY safeModeDescription2.label       "Neke od ovih promjena možete učiniti trajnima:">
 
 <!ENTITY disableAddons.label              "Onemogući sve dodatke">
 <!ENTITY disableAddons.accesskey          "d">
 
-<!ENTITY resetToolbars.label              "Vrati alatne trake i kontrole na početne postavke">
+<!ENTITY resetToolbars.label              "Vrati alatne trake i tipke na početne postavke">
 <!ENTITY resetToolbars.accesskey          "r">
 
-<!ENTITY changeAndRestartButton.label     "Sačuvaj promjene i ponovno pokreni">
+<!ENTITY changeAndRestartButton.label     "Spremi promjene i ponovno pokreni">
 <!ENTITY changeAndRestartButton.accesskey "m">
 
 <!ENTITY continueButton.label             "Nastavi u sigurnom načinu rada">
