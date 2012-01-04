@@ -315,7 +315,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goForwardCmd.label "Proslijedi">
 <!ENTITY goForwardCmd.accesskey "r">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY goBackCmd.label "Nazad">
+<!ENTITY goBackCmd.label "Natrag">
 <!ENTITY goBackCmd.accesskey "N">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY prevStarredMsgCmd.label "Poruka sa zvjezdicom">
@@ -496,7 +496,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY archiveButton.label "Arhiviraj">
 <!ENTITY nextButton.label "Slijedeći">
 <!ENTITY previousButton.label "Prethodni">
-<!ENTITY backButton1.label "Nazad">
+<!ENTITY backButton1.label "Natrag">
 <!ENTITY goForwardButton1.label "Naprijed">
 <!ENTITY deleteButton.label "Obriši">
 <!ENTITY undeleteButton.label "Vrati obrisano">
@@ -529,7 +529,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY nextButton.tooltip "Idi na slijedeću nepročitanu poruku">
 <!ENTITY previousButton.tooltip "Idi na prethodnu nepročitanu poruku">
 <!ENTITY goForwardButton.tooltip "Idi naprijed jednu poruku">
-<!ENTITY goBackButton.tooltip "Idi nazad jednu poruku">
+<!ENTITY goBackButton.tooltip "Idi natrag jednu poruku">
 <!ENTITY deleteButton.tooltip "Obriši odabranu poruku ili mapu">
 <!ENTITY undeleteButton.tooltip "Vrati odabranu obrisanu poruku">
 <!ENTITY markButton.tooltip "Označi poruke">
