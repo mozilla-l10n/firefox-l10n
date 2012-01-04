@@ -322,7 +322,7 @@
 <!ENTITY calendarproperties.name.label                     "ਨਾਂ:">
 <!ENTITY calendarproperties.readonly.label                 "ਕੇਵਲ ਪੜ੍ਹਨ ਲਈ">
 <!ENTITY calendarproperties.firealarms.label               "ਅਲਾਰਮ ਵੇਖਆਓ">
-<!ENTITY calendarproperties.cache.label                    "ਕੈਸ਼ (ਤਜਰਬੇ ਅਧੀਨ)">
+<!ENTITY calendarproperties.cache2.label                    "ਕੈਸ਼">
 <!ENTITY calendarproperties.enabled.label                  "Switch this calendar on">
 <!ENTITY calendarproperties.forceDisabled.label            "The provider for this calendar could not be found. This often happens if you have disabled or uninstalled certain addons.">
 <!ENTITY calendarproperties.unsubscribe.label              "ਮੈਂਬਰ ਹਟਾਓ">
