@@ -35,7 +35,7 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY newDirectoryTitle.label           "Postavke poslužiteljskog imenika">
+<!ENTITY newDirectoryTitle.label           "Postavke poslužitelja imenika">
 <!ENTITY directoryName.label               "Naziv: ">
 <!ENTITY directoryName.accesskey           "N">
 <!ENTITY directoryHostname.label           "Poslužitelj: ">
@@ -46,7 +46,7 @@
 <!ENTITY findButton.accesskey              "T">
 <!ENTITY directorySecure.label             "Koristi sigurnu vezu (SSL)">
 <!ENTITY directorySecure.accesskey         "u">
-<!ENTITY directoryLogin.label              "Veži DN: ">
+<!ENTITY directoryLogin.label              "Vezni DN: ">
 <!ENTITY directoryLogin.accesskey          "i">
 <!ENTITY General.tab                       "Općenito">
 <!ENTITY Offline.tab                       "Izvanmrežno">
@@ -55,7 +55,7 @@
 <!ENTITY portNumber.accesskey              "P">
 <!ENTITY searchFilter.label                "Filter za pretraživanje: ">
 <!ENTITY searchFilter.accesskey            "F">
-<!ENTITY scope.label                       "Obujam: ">
+<!ENTITY scope.label                       "Opseg: ">
 <!ENTITY scope.accesskey                   "j">
 <!ENTITY scopeOneLevel.label               "Jedna razina">
 <!ENTITY scopeOneLevel.accesskey           "e">
