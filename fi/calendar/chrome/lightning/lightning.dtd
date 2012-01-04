@@ -78,8 +78,10 @@
 <!ENTITY lightning.toolbar.mail.label         "Sähköposti">
 <!ENTITY lightning.toolbar.mail.accesskey     "S">
 <!ENTITY lightning.toolbar.calendar.label     "Kalenteri">
+<!ENTITY lightning.toolbar.calendar.tooltip   "Siirry Kalenteri-välilehteen">
 <!ENTITY lightning.toolbar.calendar.accesskey "K">
 <!ENTITY lightning.toolbar.task.label         "Tehtävät">
+<!ENTITY lightning.toolbar.task.tooltip       "Siirry Tehtävät-välilehteen">
 <!ENTITY lightning.toolbar.task.accesskey     "T">
 
 <!-- Toolbar write button -->
