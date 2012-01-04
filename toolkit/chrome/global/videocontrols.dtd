@@ -2,6 +2,8 @@
 <!ENTITY playButton.pauseLabel "Ustavi">
 <!ENTITY muteButton.muteLabel "Nemo">
 <!ENTITY muteButton.unmuteLabel "Glasno">
+<!ENTITY fullscreenButton.enterfullscreenlabel "Celoten zaslon">
+<!ENTITY fullscreenButton.exitfullscreenlabel "Končaj celoten zaslon">
 
 <!ENTITY stats.media "Vsebina">
 <!ENTITY stats.size "Velikost">
@@ -17,6 +19,13 @@
 <!ENTITY stats.framesDecoded "Dekodirani okvirji">
 <!ENTITY stats.framesPresented "Predstavljeni okvirji">
 <!ENTITY stats.framesPainted "Naslikani okvirji">
+
+<!ENTITY error.aborted "Nalaganje videa ustavljeno.">
+<!ENTITY error.network "Predvajanje videa prekinjeno zaradi napake omrežja.">
+<!ENTITY error.decode "Videa ni mogoče predvajati, ker je datoteka pokvarjena.">
+<!ENTITY error.srcNotSupported "Zapis ali vrsta MIME videa nista podprta.">
+<!ENTITY error.noSource2 "Ni bilo mogoče najti videa s podprtim zapisom ali vrsto MIME.">
+<!ENTITY error.generic "Predvajanje videa prekinjeno zaradi neznane napake.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at

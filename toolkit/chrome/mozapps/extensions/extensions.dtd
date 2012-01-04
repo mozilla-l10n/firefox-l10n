@@ -1,5 +1,10 @@
 <!ENTITY addons.windowTitle                   "Upravitelj dodatkov">
+
 <!ENTITY search.placeholder                   "Išči po vseh dodatkih">
+<!-- LOCALIZATION NOTE (search.commandKey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
+
 <!ENTITY loading.label                        "Nalaganje …">
 <!ENTITY listEmpty.installed.label            "Nimate nameščenega nobenega dodatka te vrste.">
 <!ENTITY listEmpty.availableUpdates.label     "Posodobitve niso na voljo">
