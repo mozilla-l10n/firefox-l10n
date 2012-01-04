@@ -21,8 +21,8 @@
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "Folosește setările proxy ale sistemului">
 <!ENTITY  systemTypeRadio.accesskey     "p">
-<!ENTITY  WPADTypeRadio.label           "Auto-detect proxy settings for this network">
-<!ENTITY  WPADTypeRadio.accesskey       "w">
+<!ENTITY  WPADTypeRadio.label           "Detectează automat parametrii proxy-ului pentru această rețea">
+<!ENTITY  WPADTypeRadio.accesskey       "u">
 <!ENTITY  manualTypeRadio.label         "Configurare manuală proxy:">
 <!ENTITY  manualTypeRadio.accesskey     "m">
 <!ENTITY  autoTypeRadio.label           "URL pentru configurare automată proxy:">
