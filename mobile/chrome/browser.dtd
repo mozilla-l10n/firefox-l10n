@@ -103,7 +103,7 @@
 <!ENTITY contextShareVideo.label      "Daj video na razpolago">
 <!ENTITY contextPlayMedia.label       "A">
 <!ENTITY contextPauseMedia.label      "Premor">
-<!ENTITY contextFullScreen.label      "Celozaslonski način">
+<!ENTITY contextFullScreen.label      "Celoten zaslon">
 <!ENTITY contextEditBookmark.label    "Uredi">
 <!ENTITY contextRemoveBookmark.label  "Odstrani">
 <!ENTITY contextShortcutBookmark.label "Dodaj na domač zaslon">

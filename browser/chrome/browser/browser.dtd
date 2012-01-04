@@ -77,7 +77,7 @@ can reach it easily. -->
 <!ENTITY pageInfoCmd.label "Podatki o strani">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY fullScreenCmd.label "Celozaslonski način">
+<!ENTITY fullScreenCmd.label "Celoten zaslon">
 <!ENTITY fullScreenCmd.accesskey "C">
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Prikaži vse zavihke">
@@ -88,9 +88,9 @@ can reach it easily. -->
 <!ENTITY fullScreenClose.tooltip "Zapri">
 <!ENTITY fullScreenAutohide.label "Skrij orodne vrstice">
 <!ENTITY fullScreenAutohide.accesskey "S">
-<!ENTITY fullScreenExit.label "Izhod iz celozaslonskega načina">
+<!ENTITY fullScreenExit.label "Končaj celoten zaslon">
 <!ENTITY fullScreenExit.accesskey "C">
-<!ENTITY domFullScreenWarning.label "Pritisnite ESC za izhod iz celozaslonskega načina">
+<!ENTITY domFullScreenWarning.label "Pritisnite ESC za izhod iz celotnega zaslona">
 
 <!ENTITY closeWindow.label "Zapri okno">
 <!ENTITY closeWindow.accesskey "o">
@@ -434,7 +434,7 @@ can reach it easily. -->
 <!ENTITY mediaShowControls.accesskey "g">
 <!ENTITY mediaHideControls.label     "Skrij gradnike">
 <!ENTITY mediaHideControls.accesskey "g">
-<!ENTITY videoFullScreen.label       "Celozaslonski način">
+<!ENTITY videoFullScreen.label       "Celoten zaslon">
 <!ENTITY videoFullScreen.accesskey   "C">
 <!ENTITY videoSaveImage.label        "Shrani posnetek kot …">
 <!ENTITY videoSaveImage.accesskey    "S">
@@ -478,7 +478,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyButton.tooltip "Kopiraj">
 <!ENTITY pasteButton.tooltip "Prilepi">
 
-<!ENTITY fullScreenButton.tooltip       "Prikaži okno v celozaslonskem načinu">
+<!ENTITY fullScreenButton.tooltip       "Prikaži okno na celotnem zaslonu">
 
 <!ENTITY zoomOutButton.tooltip          "Pomanjšaj">
 <!ENTITY zoomInButton.tooltip           "Povečaj">
