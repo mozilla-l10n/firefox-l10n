@@ -45,9 +45,9 @@
 <!ENTITY ListNickName.label             "Nadimak liste: ">
 <!ENTITY ListDescription.label          "Opis: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label             "Unesite adrese e-pošte kako bi ih dodali u popis primatelja:">
-<!ENTITY UpButton.label                 "Pomjeri gore">
-<!ENTITY DownButton.label               "Pomjeri dolje">
+<!ENTITY AddressTitle.label             "Upišite adrese e-pošte da biste ih dodali na popis primatelja:">
+<!ENTITY UpButton.label                 "Pomakni gore">
+<!ENTITY DownButton.label               "Pomakni dolje">
 
 <!-- Access Keys -->
 <!ENTITY addToAddressBook.accesskey     "D">
