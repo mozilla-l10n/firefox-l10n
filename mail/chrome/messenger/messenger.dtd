@@ -42,7 +42,7 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "S">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Trenutni račun">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "e">
-<!ENTITY getNextNMsgCmd.label "Dohvati slijedećih 500 poruka interesnih grupa">
+<!ENTITY getNextNMsgCmd.label "Dohvati sljedećih 500 poruka interesnih grupa">
 <!ENTITY getNextNMsgCmd.accesskey "t">
 <!ENTITY sendUnsentCmd.label "Pošalji neposlane poruke">
 <!ENTITY sendUnsentCmd.accesskey "i">
@@ -203,9 +203,9 @@
 <!ENTITY collapseAllThreadsCmd.key "\">
 <!ENTITY unreadMsgsCmd.label "Nepročitano">
 <!ENTITY unreadMsgsCmd.accesskey "N">
-<!ENTITY threadsWithUnreadCmd.label "Teme sa nepročitanim">
+<!ENTITY threadsWithUnreadCmd.label "Teme s nepročitanim">
 <!ENTITY threadsWithUnreadCmd.accesskey "T">
-<!ENTITY watchedThreadsWithUnreadCmd.label "Promatrane teme sa nepročitanim">
+<!ENTITY watchedThreadsWithUnreadCmd.label "Promatrane teme s nepročitanim">
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "r">
 <!ENTITY ignoredThreadsCmd.label "Ignorirane teme">
 <!ENTITY ignoredThreadsCmd.accesskey "I">
@@ -291,7 +291,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Go Menu -->
 <!ENTITY goMenu.label "Idi">
 <!ENTITY goMenu.accesskey "I">
-<!ENTITY nextMenu.label "Slijedeća">
+<!ENTITY nextMenu.label "Sljedeća">
 <!ENTITY nextMenu.accesskey "S">
 <!ENTITY nextMsgCmd.label "Poruka">
 <!ENTITY nextMsgCmd.accesskey "P">
@@ -477,7 +477,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY deleteJunk.accesskey "O">
 <!ENTITY importCmd.label "Uvoz…">
 <!ENTITY importCmd.accesskey "U">
-<!ENTITY errorConsoleCmd.label "Kontrolna ploča za greške">
+<!ENTITY errorConsoleCmd.label "Konzola grešaka">
 <!ENTITY errorConsoleCmd.accesskey "e">
 <!ENTITY accountManagerCmd.label "Postavke računa…">
 <!ENTITY accountManagerCmd.accesskey "s">
@@ -494,7 +494,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY forwardButton.label "Proslijedi">
 <!ENTITY fileButton.label "Pohrani">
 <!ENTITY archiveButton.label "Arhiviraj">
-<!ENTITY nextButton.label "Slijedeći">
+<!ENTITY nextButton.label "Sljedeći">
 <!ENTITY previousButton.label "Prethodni">
 <!ENTITY backButton1.label "Natrag">
 <!ENTITY goForwardButton1.label "Naprijed">
@@ -509,7 +509,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addressBookButton.label "Adresar">
 <!ENTITY glodaSearch.title "Globalno pretraživanje">
 <!ENTITY searchItem.title "Brzo pretraživanje">
-<!ENTITY mailViewsToolbarItem.title "Pogledi na poštu">
+<!ENTITY mailViewsToolbarItem.title "Prikazi pošte">
 <!ENTITY folderLocationToolbarItem.title "Lokacija mape">
 <!ENTITY tagButton.label "Oznaka">
 <!ENTITY compactButton.label "Sažmi">
@@ -526,7 +526,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY forwardButton.tooltip "Proslijedi odabranu poruku">
 <!ENTITY fileButton.tooltip "Pohrani odabranu poruku">
 <!ENTITY archiveButton.tooltip "Arhiviraj odabrane poruke">
-<!ENTITY nextButton.tooltip "Idi na slijedeću nepročitanu poruku">
+<!ENTITY nextButton.tooltip "Idi na sljedeću nepročitanu poruku">
 <!ENTITY previousButton.tooltip "Idi na prethodnu nepročitanu poruku">
 <!ENTITY goForwardButton.tooltip "Idi naprijed jednu poruku">
 <!ENTITY goBackButton.tooltip "Idi natrag jednu poruku">
@@ -625,35 +625,35 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY attachmentColumn.label "Privici">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "Kliknite kako bi odabrali stupce za prikaz">
+<!ENTITY columnChooser.tooltip "Kliknite da biste odabrali stupce za prikaz">
 <!ENTITY threadColumn.tooltip "Kliknite za prikaz tema poruka">
-<!ENTITY fromColumn.tooltip "Kliknite za sortiranje po pošiljatelju">
-<!ENTITY recipientColumn.tooltip "Kliknite za sortiranje po primatelju">
-<!ENTITY subjectColumn.tooltip "Kliknite za sortiranje po naslovu">
-<!ENTITY dateColumn.tooltip "Kliknite za sortiranje po datumu">
-<!ENTITY priorityColumn.tooltip "Kliknite za sortiranje po prioritetu">
-<!ENTITY tagsColumn.tooltip "Kliknite za sortiranje po oznaci">
-<!ENTITY accountColumn.tooltip "Kliknite za sortiranje po računu">
-<!ENTITY statusColumn.tooltip "Kliknite za sortiranje po statusu">
-<!ENTITY sizeColumn.tooltip "Kliknite za sortiranje po veličini">
-<!ENTITY junkStatusColumn.tooltip "Kliknite za sortiranje po statusu neželjene pošte">
+<!ENTITY fromColumn.tooltip "Kliknite za sortiranje prema pošiljatelju">
+<!ENTITY recipientColumn.tooltip "Kliknite za sortiranje prema primatelju">
+<!ENTITY subjectColumn.tooltip "Kliknite za sortiranje prema naslovu">
+<!ENTITY dateColumn.tooltip "Kliknite za sortiranje prema datumu">
+<!ENTITY priorityColumn.tooltip "Kliknite za sortiranje prema prioritetu">
+<!ENTITY tagsColumn.tooltip "Kliknite za sortiranje prema oznaci">
+<!ENTITY accountColumn.tooltip "Kliknite za sortiranje prema računu">
+<!ENTITY statusColumn.tooltip "Kliknite za sortiranje prema statusu">
+<!ENTITY sizeColumn.tooltip "Kliknite za sortiranje prema veličini">
+<!ENTITY junkStatusColumn.tooltip "Kliknite za sortiranje prema statusu neželjene pošte">
 <!ENTITY unreadColumn.tooltip "Broj nepročitanih poruka u temi">
 <!ENTITY totalColumn.tooltip "Ukupan broj poruka u temi">
-<!ENTITY readColumn.tooltip "Kliknite za sortiranje po pročitanom">
-<!ENTITY receivedColumn.tooltip "Kliknite za sortiranje po datumu primitka">
-<!ENTITY starredColumn.tooltip "Kliknite za sortiranje po zvjezdici">
-<!ENTITY locationColumn.tooltip "Kliknite za sortiranje po lokaciji">
-<!ENTITY idColumn.tooltip "Kliknite za sortiranje po redoslijedu primanja">
-<!ENTITY attachmentColumn.tooltip "Kliknite za sortiranje po privicima">
+<!ENTITY readColumn.tooltip "Kliknite za sortiranje prema pročitanom">
+<!ENTITY receivedColumn.tooltip "Kliknite za sortiranje prema datumu primitka">
+<!ENTITY starredColumn.tooltip "Kliknite za sortiranje prema zvjezdici">
+<!ENTITY locationColumn.tooltip "Kliknite za sortiranje prema lokaciji">
+<!ENTITY idColumn.tooltip "Kliknite za sortiranje prema redoslijedu primanja">
+<!ENTITY attachmentColumn.tooltip "Kliknite za sortiranje prema privicima">
 
 <!-- Thread Pane Context Menu -->
-<!ENTITY contextOpenNewWindow.label "Otvori poruku u novi prozor">
+<!ENTITY contextOpenNewWindow.label "Otvori poruku u novom prozoru">
 <!ENTITY contextOpenNewWindow.accesskey "v">
 <!-- The key potentially conflicts with cutCmd.accessKey which is defined in
      textcontext.dtd from toolkit. Right now, both menu items can't be visible
      at the same time, but should someone enable copy/paste of message, this key
      would probably need to be changed. -->
-<!ENTITY contextOpenNewTab.label "Otvori poruku u novu karticu">
+<!ENTITY contextOpenNewTab.label "Otvori poruku u novoj kartici">
 <!ENTITY contextOpenNewTab.accesskey "t">
 <!ENTITY contextOpenConversation.label "Otvori poruku kao razgovor">
 <!ENTITY contextOpenConversation.accesskey "r">
@@ -740,7 +740,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextPause.accesskey "z">
 <!ENTITY contextMute.label "Utišaj">
 <!ENTITY contextMute.accesskey "U">
-<!ENTITY contextUnmute.label "Odtišaj">
+<!ENTITY contextUnmute.label "Uključi zvuk">
 <!ENTITY contextUnmute.accesskey "O">
 
 <!-- Junk Bar -->
