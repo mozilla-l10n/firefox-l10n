@@ -39,10 +39,6 @@
 <!ENTITY pref_about_firefox "О &brandShortName;">
 <!ENTITY pref_do_not_track "Просить сайты не следить">
 <!ENTITY pref_telemetry "Включить телеметрию">
-<!ENTITY pref_homepage "Домашняя страница">
-<!ENTITY pref_homepage_start "Запуск Firefox">
-<!ENTITY pref_homepage_blank "Пустая страница">
-<!ENTITY pref_homepage_current "Текущая страница">
 <!ENTITY pref_remember_signons "Запоминать пароли">
 <!ENTITY pref_cookies "Включить куки">
 <!ENTITY pref_char_encoding "Показывать кодировку">
