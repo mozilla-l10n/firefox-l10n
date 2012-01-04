@@ -3,12 +3,12 @@
 <!ENTITY loading.label                        "Caregando...">
 <!ENTITY listEmpty.installed.label            "Ti no gh'æ di conponénti azónti de sto tîpo instalæ
 ">
-<!ENTITY listEmpty.availableUpdates.label     "Nisciùn agiórnamento trovòu">
+<!ENTITY listEmpty.availableUpdates.label     "Nisciùn agiornaménto trovòu">
 <!ENTITY listEmpty.recentUpdates.label        "Ùrtimamente ti no t'æ agiornòu quàrche cònponente azónto">
-<!ENTITY listEmpty.findUpdates.label          "Çerca agiórnamenti">
+<!ENTITY listEmpty.findUpdates.label          "Çerca agiornaménti">
 <!ENTITY listEmpty.search.label               "No pòsso trovâ conponénti azónti">
 <!ENTITY listEmpty.button.label               "Ciù informaçioìn in sci conponénti azónti">
-<!ENTITY installAddonFromFile.label           "Installa i conponénti azónti da 'n file…">
+<!ENTITY installAddonFromFile.label           "Instàlla i conponénti azónti da 'n file…">
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Angæsi pe tùtti i conponénti azónti">
 
@@ -20,9 +20,9 @@
 <!ENTITY warning.checkcompatibility.label          "O contròllo de conpatibilitæ di conponénti azónti l'é dizabilitâ. Ti peu avéi di conponénti azónti no compatibili.">
 <!ENTITY warning.checkcompatibility.enable.label   "Abilita">
 <!ENTITY warning.checkcompatibility.enable.tooltip "Abilita o contròllo a compatibilitæ di conponénti azónti">
-<!ENTITY warning.updatesecurity.label              "O contròllo de seguéssa in sci agiornamenti di conponénti azónti o l'é dizabilitòu. Te peu capitâ de êse aroinòu da i agiornamenti.">
+<!ENTITY warning.updatesecurity.label              "O contròllo de seguéssa in sci agiornaménti di conponénti azónti o l'é dizabilitòu. Te peu capitâ de êse aroinòu da i agiornaménti.">
 <!ENTITY warning.updatesecurity.enable.label       "Abilita">
-<!ENTITY warning.updatesecurity.enable.tooltip     "Abilita o contròllo de seguéssa in sci agiórnamenti di conponénti azónti">
+<!ENTITY warning.updatesecurity.enable.tooltip     "Abilita o contròllo de seguéssa in sci agiornaménti di conponénti azónti">
 
 <!-- global informations -->
 <!ENTITY info.plugincheck.label                 "Contròlla se ti gh'æ da agiornâ di plugin">
@@ -31,13 +31,13 @@
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Riçerca">
 <!ENTITY view.discover.label                  "Danni i Conponénti azónti">
-<!ENTITY view.recentUpdates.label             "Ùrtimi agiornamenti">
-<!ENTITY view.availableUpdates.label          "Agiornamenti disponibili">
+<!ENTITY view.recentUpdates.label             "Ùrtimi agiornaménti">
+<!ENTITY view.availableUpdates.label          "Agiornaménti disponibili">
 
 <!-- addon updates -->
-<!ENTITY updates.checkForUpdates.label        "Çerca agiórnamenti">
+<!ENTITY updates.checkForUpdates.label        "Çerca agiornaménti">
 <!ENTITY updates.checkForUpdates.accesskey    "c">
-<!ENTITY updates.viewUpdates.label            "Fanni védde i ùrtimi agiórnamenti">
+<!ENTITY updates.viewUpdates.label            "Fanni védde i ùrtimi agiornaménti">
 <!ENTITY updates.viewUpdates.accesskey        "v">
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
@@ -50,7 +50,7 @@
      update checking behavior for all add-ons to the default global behavior
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
-<!ENTITY updates.resetUpdatesToAutomatic.label       "Reinpòsta tùtti i conponénti azónti pe agiórnali in aotomàtico">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Reinpòsta tùtti i conponénti azónti pe agiornâli in aotomàtico">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
 <!ENTITY updates.resetUpdatesToManual.label          "Reinpòsta tùtti i conponénti azónti pe agiórnali a màn">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "R">
@@ -60,13 +60,13 @@
 <!ENTITY updates.restart.label                "Reavia pe finî l'instalaçión">
 <!ENTITY updates.noneFound.label              "Nisciùn agiórnamento trovòu">
 <!ENTITY updates.manualUpdatesFound.label     "Fanni védde i agiornamenti disponibili">
-<!ENTITY updates.updateSelected.label         "Installa Agiórnamento">
-<!ENTITY updates.updateSelected.tooltip       "Installa i Agiórnamenti da lìsta">
+<!ENTITY updates.updateSelected.label         "Instàlla Agiornaménto">
+<!ENTITY updates.updateSelected.tooltip       "Instàlla i Agiornaménti da lìsta">
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Fanni védde ciù informaçioìn">
 <!ENTITY cmd.showDetails.accesskey            "F">
-<!ENTITY cmd.findUpdates.label                "Trêuva agiórnamento">
+<!ENTITY cmd.findUpdates.label                "Trêuva agiornaménto">
 <!ENTITY cmd.findUpdates.accesskey            "T">
 <!ENTITY cmd.preferencesWin.label             "Inpostaçioìn">
 <!ENTITY cmd.preferencesWin.accesskey         "o">
@@ -83,7 +83,7 @@
 <!ENTITY cmd.enableTheme.accesskey            "M">
 <!ENTITY cmd.disableTheme.label               "Leva o Têma">
 <!ENTITY cmd.disableTheme.accesskey           "L">
-<!ENTITY cmd.installAddon.label               "Installa">
+<!ENTITY cmd.installAddon.label               "Instàlla">
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Elimina">
 <!ENTITY cmd.uninstallAddon.accesskey         "E">
@@ -96,9 +96,9 @@
 <!ENTITY cmd.contribute.tooltip               "Agiùtta a svilùpâ sto conponénte azónto">
 
 <!ENTITY cmd.showReleaseNotes.label           "Fanni védde e anotaçioìn da distribuçión">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Fanni védde e anotaçioìn da distribuçión de sto agiórnamento">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Fanni védde e anotaçioìn da distribuçión de sto agiornaménto">
 <!ENTITY cmd.hideReleaseNotes.label           "Ascondi e anotaçioìn da distribuçión">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "Ascondi e anotaçioìn da distribuçión de sto agiórnamento">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "Ascondi e anotaçioìn da distribuçión de sto agiornaménto">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
@@ -119,20 +119,20 @@
 
 <!ENTITY detail.contributions.description     "O svilopatô de sto conponénte azónto te domanda se ti veu contriboî con quàrche palanca.">
 
-<!ENTITY detail.updateType                    "Agiórnamenti aotomàtici">
+<!ENTITY detail.updateType                    "Agiornaménti aotomàtici">
 <!ENTITY detail.updateDefault.label           "Predefinîo">
-<!ENTITY detail.updateDefault.tooltip         "Installa i agiornamenti in aotomàtico sôlo se o l'é predefinîo coscî">
+<!ENTITY detail.updateDefault.tooltip         "Instàlla i agiornaménti in aotomàtico sôlo se o l'é predefinîo coscî">
 <!ENTITY detail.updateAutomatic.label         "Açéndi">
-<!ENTITY detail.updateAutomatic.tooltip       "Installa i agiórnamenti in aotomàtico">
+<!ENTITY detail.updateAutomatic.tooltip       "Instàlla i agiornaménti in aotomàtico">
 <!ENTITY detail.updateManual.label            "Asmòrtòu">
-<!ENTITY detail.updateManual.tooltip          "No instalâ agiórnamenti in aotomàtico">
+<!ENTITY detail.updateManual.tooltip          "No instalâ agiornaménti in aotomàtico">
 <!ENTITY detail.home                          "Pagina Iniçiâ">
 <!ENTITY detail.repository                    "Profî do conponénte azónto">
 <!ENTITY detail.size                          "Dimensción">
 
-<!ENTITY detail.checkForUpdates.label         "Çerca agiórnamenti">
-<!ENTITY detail.checkForUpdates.accesskey     "Ç">
-<!ENTITY detail.checkForUpdates.tooltip       "Çerca agiórnamenti pe sto conponénte azónto">
+<!ENTITY detail.checkForUpdates.label         "Çerca agiornaménti">
+<!ENTITY detail.checkForUpdates.accesskey     "a">
+<!ENTITY detail.checkForUpdates.tooltip       "Çerca agiornaménti pe sto conponénte azónto">
 <!ENTITY detail.showPreferencesWin.label      "Inpostaçioìn">
 <!ENTITY detail.showPreferencesWin.accesskey  "o">
 <!ENTITY detail.showPreferencesWin.tooltip    "Cangia e preferençe de sto conponénte azónto">
@@ -153,7 +153,7 @@
 <!ENTITY sort.name.label                      "Nómme">
 <!ENTITY sort.name.tooltip                    "Órdina pe nómme">
 <!ENTITY sort.dateUpdated.label               "Agiornòu">
-<!ENTITY sort.dateUpdated.tooltip             "Órdina pe dæta de agiórnamento">
+<!ENTITY sort.dateUpdated.tooltip             "Órdina pe dæta de agiornaménto">
 <!ENTITY sort.relevance.label                 "A mêgio corispondensa">
 <!ENTITY sort.relevance.tooltip               "Óridina pe inportansa">
 <!ENTITY sort.price.label                     "Prêxo">
@@ -183,13 +183,13 @@
 <!ENTITY addon.undoRemove.label               "Anùlla">
 <!ENTITY addon.undoRemove.tooltip             "Mantegni sto conponénte azónto instalòu">
 <!ENTITY addon.restartNow.label               "Reavia òua">
-<!ENTITY addon.install.label                  "Installa">
-<!ENTITY addon.install.tooltip                "Installa sto conponénte azónto">
+<!ENTITY addon.install.label                  "Instàlla">
+<!ENTITY addon.install.tooltip                "Instàlla sto conponénte azónto">
 <!ENTITY addon.updateNow.label                "Agiórna Òua">
-<!ENTITY addon.updateNow.tooltip              "Installa l'agiórnamento pe sto conponénte azónto">
-<!ENTITY addon.includeUpdate.label            "Mettighelo inte l'agiornamento">
-<!ENTITY addon.updateAvailable.label          "Gh'é un agiórnamento">
-<!ENTITY addon.checkingForUpdates.label       "Çèrco i agiórnamenti…">
+<!ENTITY addon.updateNow.tooltip              "Instàlla l'agiornaménto pe sto conponénte azónto">
+<!ENTITY addon.includeUpdate.label            "Metighelo inte l'agiornaménto">
+<!ENTITY addon.updateAvailable.label          "Gh'é un agiornaménto">
+<!ENTITY addon.checkingForUpdates.label       "Çèrco i agiornaménti…">
 <!ENTITY addon.releaseNotes.label             "Anotaçioìn da distribuçión:">
 <!ENTITY addon.loadingReleaseNotes.label      "Caregando...">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Me despiâxe, gh'é stæto 'n erô a caregâ e anotaçioìn da distribuçión.">
@@ -199,7 +199,7 @@
 <!ENTITY eula.title                           "Licénsa do utilizatô">
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
-<!ENTITY eula.accept                          "Acètta e installa…">
+<!ENTITY eula.accept                          "Acètta e instàlla…">
 
 <!ENTITY settings.path.button.label           "Çerca…">
 

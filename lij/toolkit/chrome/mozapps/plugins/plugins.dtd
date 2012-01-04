@@ -3,9 +3,9 @@
 
 <!ENTITY pluginWizard.checkingForPlugins.description.label   "O &brandShortName; o contròlla se ghe son de plugin…">
 
-<!ENTITY pluginWizard.availablePluginsPage.title             "Descarigamenti di Plugin">
+<!ENTITY pluginWizard.availablePluginsPage.title             "Descarigaménti di Plugin">
 <!ENTITY pluginWizard.availablePluginsPage.description.label "Ghe son sti plugin:">
-<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Premmi Pròscimo pe instalâ sti plugin.">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Prémmi Pròscimo pe instalâ sti plugin.">
 <!ENTITY pluginWizard.availablePluginsPage.installerUI       "A quàrche plugin peu servî de informaçioìn in ciù inta instalaçión.">
 
 <!ENTITY pluginWizard.licensePage.title                      "Licensa do Plugin">
@@ -25,7 +25,7 @@
 <!ENTITY disabledPlugin                                      "O plugin o l'é dizabilitòu.">
 <!ENTITY blockedPlugin.label                                 "O plugin o l'é stæto blocòu pe-a teu proteçión.">
 
-<!ENTITY installPlugin                                       "Installa o plugin…">
+<!ENTITY installPlugin                                       "Instàllo o plugin…">
 <!ENTITY managePlugins                                       "Gestisci i plugin…">
 
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->

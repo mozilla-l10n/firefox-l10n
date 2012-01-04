@@ -1,12 +1,12 @@
 
-<!ENTITY  history.title             "Stöia di agiórnamenti">
-<!ENTITY  history.intro             "Sti agiórnamenti son stæti instalæ:">
+<!ENTITY  history.title             "Stöia di agiornaménti">
+<!ENTITY  history.intro             "Sti agiornaménti son stæti instalæ:">
 <!ENTITY  closebutton.label         "Særa">
                                      
-<!ENTITY  noupdates.label           "I agiórnamenti no son ancón stæti instalæ">
+<!ENTITY  noupdates.label           "I agiornaménti no son ancón stæti instalæ">
 
 <!ENTITY  name.header               "Agiórna Nómme">
-<!ENTITY  date.header               "Installa Dæta">
+<!ENTITY  date.header               "Instàlla Dæti">
 <!ENTITY  type.header               "Tîpo">
 <!ENTITY  state.header              "Stæto">
 

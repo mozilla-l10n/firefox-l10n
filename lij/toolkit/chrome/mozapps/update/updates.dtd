@@ -1,37 +1,37 @@
-<!ENTITY  updateWizard.title              "Agiórnamento da aplicaçión">
+<!ENTITY  updateWizard.title              "Agiornaménto da aplicaçión">
 
-<!ENTITY  checking.title                  "Contròllo i agiórnamenti">
+<!ENTITY  checking.title                  "Contròllo i agiornaménti">
 <!ENTITY  updateCheck.label               "Çerco nêuve versción de &brandShortName;…">
 
-<!ENTITY  pluginupdatesfound.title        "Ò trovòu agiórnamenti pe-i plugin">
+<!ENTITY  pluginupdatesfound.title        "Ò trovòu agiornaménti pe-i plugin">
 <!ENTITY  pluginupdatesfound.label        "Ò trovòu de versción ciù nêuve di un o ciù di teu plugin.">
 <!ENTITY  pluginupdateslink.label         "Fanni védde cómme se agiórnan i teu plugin.">
 
-<!ENTITY  noupdatesfound.title            "No ò trovòu i agiórnamenti">
-<!ENTITY  noupdatesautoenabled.intro      "No ghe son di agiórnamenti. &brandShortName; contròlîa
-                                           periodicamente pe-i agiórnamenti.">
-<!ENTITY  noupdatesautodisabled.intro     "No ghe son di agiórnamenti. Pe favô contròlla ancón dòppo ò abilita
-                                           o contròllo  aotomàtico di agiórnamenti de &brandShortName;.">
+<!ENTITY  noupdatesfound.title            "No ò trovòu i agiornaménti">
+<!ENTITY  noupdatesautoenabled.intro      "No gh'é di agiornaménti. &brandShortName; contròlîa
+                                           periodicamente pe-i agiornaménti.">
+<!ENTITY  noupdatesautodisabled.intro     "No gh'é di agiornaménti. Pe favô contròlla ancón dòppo ò abilita
+                                           o contròllo aotomàtico di agiornaménti de &brandShortName;.">
 
-<!ENTITY  manualUpdate.title              "No riêscio a agiórnâ">
-<!ENTITY  manualUpdate.desc               "Gh'é un agiórnamento racomandòu de seguéssa e stabilitæ, ma ti no ti gh'æ
+<!ENTITY  manualUpdate.title              "No riêscio a agiornâ">
+<!ENTITY  manualUpdate.desc               "Gh'é un agiornaménto racomandòu de seguéssa e stabilitæ, ma ti no ti gh'æ
                                            i permìssi de scistêma pe instalâ. Pe favô ciàmma
                                            o teu aministratô de scistêma ò preuva ancón from con un âtro account che gh'à o permìsso de
                                            instalâ aplicaçioìn in sto computer.">
-<!ENTITY  manualUpdate.space.desc         "Gh'é un agiórnamento racomandòu de seguéssa e stabilitæ,
+<!ENTITY  manualUpdate.space.desc         "Gh'é un agiornaménto racomandòu de seguéssa e stabilitæ,
                                            ma ti no ti gh'æ de spàçio pe instalâlo.">
 <!ENTITY  manualUpdateGetMsg.label        "ti peu de lóngo pigiâ l'ùrtima versción de &brandShortName; in:">
 
 <!ENTITY  incompatibleCheck.title         "Contròllo a compatibilitæ di conponénti azónti">
 <!ENTITY  incompatibleCheck.label         "Çerco nêuve versción pe-i teu conponénti azónti…">
 
-<!ENTITY  clickHere.label                 "Fanni védde ciù informaçióin in sciô agiórnamento">
+<!ENTITY  clickHere.label                 "Fanni védde ciù informaçióin in sciô agiornaménto">
 
 <!ENTITY  evangelism.desc                 "L'é racomandòu che ti ativi sti 
-                                           agiórnamenti pe &brandShortName; ciù fîto che ti peu.">
+                                           agiornaménti pe &brandShortName; ciù fîto che ti peu.">
 
 <!ENTITY  license.instructions            "Se t'ê d'acòrdio co-i termini de sto contràtto, premmi Son d'acòrdio 
-                                           pe continoâ a instalâ sto agiórnamento.">
+                                           pe continoâ a instalâ sto agiornaménto.">
 
 <!ENTITY  license.titleText               "Licénsa da aplicaçión">
 <!ENTITY  license.introText               "Termini e condiçioìn pe uzâ sta aplicaçión.">
@@ -45,17 +45,17 @@
 
 <!ENTITY  downloadPage.title              "Descarego &brandShortName;">
 <!ENTITY  downloading.intro               "Descarega o agiórnamento…">
-<!ENTITY  connecting.label                "Me conétto a-o server di agiórnamenti…">
+<!ENTITY  connecting.label                "Me conétto a-o server di agiornaménti…">
 <!ENTITY  verificationFailedText.label    "&brandShortName; no l'é riêscio a verificâ o agiórnamento che vegne aomentòu ciàn cianìn, coscì òua descarega quello conplêto.">
 
-<!ENTITY  viewDetails.tooltip             "Fanni védde i detàli pe sto agiórnamento">
+<!ENTITY  viewDetails.tooltip             "Fanni védde i detàli pe sto agiornaménto">
 
 <!ENTITY  details.link                    "Detàli">
 
-<!ENTITY  error.title                     "Agiórnamento no rioscîo">
+<!ENTITY  error.title                     "Agiornaménto no rioscîo">
 
 <!ENTITY  error.label                     "Gh'é stæto un problêma contròlando pe descaregâ ò instalâ sto 
-                                           agiórnamento. &brandShortName; no peu êse agiornòu perché:">
+                                           agiornaménto. &brandShortName; no peu êse agiornòu perché:">
                                            
 <!ENTITY  errorManual.label               "Ti ti peu agiórnâ &brandShortName; a màn vixitando sto colegamento
                                            e descaregando l'ùrtima versción:">
@@ -63,26 +63,26 @@
 <!ENTITY  errorpatching.intro             "O agiórnamento parçiale o no va bén. 
                                            O &brandShortName; o proviâ ancón a descaregâ l'agiórnamento conplêto.">
 
-<!ENTITY  genericBackgroundError.label    "O &brandShortName; o no l'ariesce a capî se ghe son di agiórnamenti. Pe favô
+<!ENTITY  genericBackgroundError.label    "O &brandShortName; o no l'ariesce a capî se gh'é di agiornaménti. Pe favô
                                            te peu miga amiâ se ti gh'é l'ùrtima versción de &brandShortName; da:">
 <!ENTITY  errorCertAttrNoUpdate2.label    "Quarcösa inpedisce a &brandShortName; de agiórnase in seguéssa.
                                            Contròlla se ti gh'æ l'ùrtima versción de &brandShortName; da:">
 <!ENTITY  errorCertAttrHasUpdate.label    "Quarcösa a prêuva a inbrogiâ o &brandShortName; pe fâ
                                            acetâ in agiórnamento no segûo. Pe favô ciamma o gestô da teu ræ pe avéi agiùtto.">
 
-<!ENTITY  finishedPage.title              "Agiórnamento pronto da Instalâ">
-<!ENTITY  finishedPage.text               "L'agiórnamento saiâ instalòu a-o pròscimo reavio de &brandShortName;. Ti ti 
+<!ENTITY  finishedPage.title              "Agiornaménto pronto da Instalâ">
+<!ENTITY  finishedPage.text               "L'agiornaménto saiâ instalòu a-o pròscimo reavio de &brandShortName;. Ti ti 
                                            peu reaviâ &brandShortName; òua ò ti peu continoâ a louâ e reaviâ dòppo.">
 
-<!ENTITY  finishedBackgroundPage.text     "Un agiórnamento de seguéssa e stabilitæ pe &brandShortName; l'é stæto
+<!ENTITY  finishedBackgroundPage.text     "Un agiornaménto de seguéssa e stabilitæ pe &brandShortName; o l'é stæto
                                            descaregòu e l'é pronto pe l'instalaçión.">
-<!ENTITY  finishedBackground.name         "Agiórnamenti:">
+<!ENTITY  finishedBackground.name         "Agiornaménti:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
-<!ENTITY  finishedBackground.more         "L'agiórnamento o saiâ instalòu a pròscima vòtta che ti lànsi o
+<!ENTITY  finishedBackground.more         "L'agiornaménto o saiâ instalòu a pròscima vòtta che ti lànsi o
                                            &brandShortName;. Ti peu reaviâ &brandShortName; òua ò continoâ a lòuâ e reaviâ dòppo.">
 
-<!ENTITY  installed.title                 "Agiórnamento instalòu">
-<!ENTITY  installed.intro                 "O Agiórnamento o l'é stæto instalòu bén.">
+<!ENTITY  installed.title                 "Agiornaménto instalòu">
+<!ENTITY  installed.intro                 "O Agiornaménto o l'é stæto instalòu bén.">
 <!ENTITY  whatsnew.label                  "Lêzi de ciù in scê novitæ…">
 
 <!ENTITY  update.details.label            "Detàli">

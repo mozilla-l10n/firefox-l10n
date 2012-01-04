@@ -32,7 +32,7 @@ that require it.  -->
 <!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
      itemBrowsingHistory.* will never be used at the same time, so they can
      have the same accesskey. -->
-<!ENTITY itemHistoryAndDownloads.label     "Stöia di descaregamenti &amp; Navegaçión">
+<!ENTITY itemHistoryAndDownloads.label     "Stöia di descaregaménti &amp; Navegaçión">
 <!ENTITY itemHistoryAndDownloads.accesskey "S">
 <!ENTITY itemBrowsingHistory.label         "Stöia da navegaçión">
 <!ENTITY itemBrowsingHistory.accesskey     "S">
@@ -46,7 +46,7 @@ that require it.  -->
 <!ENTITY itemCache.accesskey               "a">
 <!ENTITY itemOfflineApps.label             "Dæti fêua linia do scîto">
 <!ENTITY itemOfflineApps.accesskey         "o">
-<!ENTITY itemDownloadHistory.label         "Stöia di descaregamenti">
+<!ENTITY itemDownloadHistory.label         "Stöia di descaregaménti">
 <!ENTITY itemDownloadHistory.accesskey     "d">
 <!ENTITY itemActiveLogins.label            "Login atîvi">
 <!ENTITY itemActiveLogins.accesskey        "L">

@@ -1,7 +1,7 @@
-<!ENTITY  updateWizard.title              "Agiórnamento de &brandShortName;">
+<!ENTITY  updateWizard.title              "Agiornaménto de &brandShortName;">
 
 <!ENTITY  offline.title                   "O &brandShortName; o l'é fêua linia">
-<!ENTITY  offline.description             "&brandShortName; gh'à beséugno de anâ in linia pe védde se ghe son di agiornamenti
+<!ENTITY  offline.description             "&brandShortName; gh'à beséugno de anâ in linia pe védde se gh'é di agiornaménti
                                            pe-i teu conponénti azónti in mòddo de fâli deventâ conpatibili con sta versción.">
 <!ENTITY  offline.toggleOffline.label     "Vanni in linia òua.">
 <!ENTITY  offline.toggleOffline.accesskey "V">
@@ -13,35 +13,35 @@
                                            di sti conponénti azónti.">
 
 <!ENTITY  checking.wizard.title           "Contròllo a conpatibilitæ di conponénti azónti">
-<!ENTITY  checking.top.label              "Contròllo se ghe son di agiórnamenti pe i teu conponénti azónti che no son conpatibili">
+<!ENTITY  checking.top.label              "Contròllo se gh'é di agiornaménti pe i teu conponénti azónti che no son conpatibili">
 <!ENTITY  checking.status                 "Questo peu pigiâ quàrche menûto…">
 
 <!ENTITY  found.wizard.title               "Trovæ conponénti azónti conpatibili">
 <!ENTITY  found.top.label                 "Seleçionn-a i cònponenti azónti che ti veu instalâ:">
-<!ENTITY  found.disabledXPinstall.label   "Sti agiórnamenti no peuan êse instalæ perché t'æ dizabilitòu l'instalaçión de
+<!ENTITY  found.disabledXPinstall.label   "Sti agiornaménti no peuan êse instalæ perché t'æ dizabilitòu l'instalaçión de
                                            aplicaçioìn. Ti peu cangiâ ste inpostaçioìn chi sótta.">
 <!ENTITY  found.enableXPInstall.label     "Pérmetti a-i scîti de instalâ programmi">
 <!ENTITY  found.enableXPInstall.accesskey "a">
 
 <!ENTITY  installing.wizard.title         "Installo i conponénti azónti conpatibili">
-<!ENTITY  installing.top.label            "Descarego e installo i agiornamenti pe-i teu conponénti azónti…">
+<!ENTITY  installing.top.label            "Descarego e installo i agiornaménti pe-i teu conponénti azónti…">
 
 <!ENTITY  noupdates.wizard.title          "Trovæ conponénti azónti no conpatibili">
-<!ENTITY  noupdates.intro.desc            "&brandShortName; o no riêsce a trovâ agiórnamenti pe-i teu
+<!ENTITY  noupdates.intro.desc            "&brandShortName; o no riêsce a trovâ agiornaménti pe-i teu
                                            conponénti azónti che no son conpatibili.">
-<!ENTITY  noupdates.error.desc            "Ghe son stæti problêmi intanto che çercavo i agiórnamenti.">
+<!ENTITY  noupdates.error.desc            "Ghe son stæti problêmi intanto che çercavo i agiornaménti.">
 <!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; o contròliâ periodicamente e ti informiâ se
-                                           ghe son di agiórnamenti compatibili pe sti conponénti azónti.">
+                                           gh'é di agiórnamenti compatibili pe sti conponénti azónti.">
 
 <!ENTITY  finished.wizard.title           "Conponénti azónti conpatibili instalæ">
-<!ENTITY  finished.top.label              "&brandShortName; o l'à instalòu i agiórnamenti pe-i teu conponénti azónti.">
+<!ENTITY  finished.top.label              "&brandShortName; o l'à instalòu i agiornaménti pe-i teu conponénti azónti.">
 <!ENTITY  finished.checkDisabled.desc     "&brandShortName; o peu contròlâ periodicamente e dîte se
-                                           ghe son agiórnamenti pe-i conponénti azónti.">
+                                           gh'é di agiornaménti pe-i conponénti azónti.">
 <!ENTITY  finished.checkEnabled.desc      "&brandShortName; o contròliâ periodicamente e informiâ se
-                                           ghe son agiórnamenti pe conponénti azónti.">
+                                           gh'é di agiornaménti pe conponénti azónti.">
 
-<!ENTITY  adminDisabled.wizard.title      "No riêscîo a çercâ i agiórnamenti">
-<!ENTITY  adminDisabled.warning.label     "No l'é poscìbile trova agiórnamenti pe-i teu conponénti azónti che no son conpatibili
+<!ENTITY  adminDisabled.wizard.title      "No riêscîo a çercâ i agiornaménti">
+<!ENTITY  adminDisabled.warning.label     "No l'é poscìbile trova agiornaménti pe-i teu conponénti azónti che no son conpatibili
                                            perchè l'instalaçión de aplicaçioìn pe &brandShortName; l'é dizabilitâ.
                                            Pe favô ciàmma o teu Aministratô do Scistêma pe ascisténsa.">
 
@@ -50,12 +50,12 @@
                                            versción de &brandShortName;.">
 <!ENTITY  versioninfo.waiting             "Questo peu pigiâ quàrche menûto…">
 
-<!ENTITY  installerrors.wizard.title      "Problêmi a instalâ i agiórnamenti">
+<!ENTITY  installerrors.wizard.title      "Problêmi a instalâ i agiornaménti">
 <!ENTITY  installerrors.intro.label       "&brandShortName; o l'à avûo di problêmi a agiornâ
                                            quàrchedun di teu conponénti azónti.">
 
 <!-- general strings used by several of the finish pages -->
 <!ENTITY  clickFinish.label               "Prémmi Finisci pe continoâ e aviâ &brandShortName;.">
 <!ENTITY  clickFinish.labelMac            "Prémmi fæto pe pe continoâ e aviâ &brandShortName;.">
-<!ENTITY  enableChecking.label            "Permétti a &brandShortName; de çerca i agiórnamenti.">
+<!ENTITY  enableChecking.label            "Permétti a &brandShortName; de çerca i agiornaménti.">
 

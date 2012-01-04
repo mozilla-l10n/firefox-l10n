@@ -99,8 +99,8 @@ can reach it easily. -->
 <!ENTITY bookmarksMenu.accesskey "b">
 <!ENTITY bookmarkThisPageCmd.label "Azónzi questa pagina a-i segnalìbbri">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY subscribeToPageMenupopup.label "Abònate a sta pàgina">
-<!ENTITY subscribeToPageMenuitem.label "Abònate a questa pàgina…">
+<!ENTITY subscribeToPageMenupopup.label "Abón-ite a sta pàgina">
+<!ENTITY subscribeToPageMenuitem.label "Abón-ite a questa pàgina…">
 <!ENTITY addCurPagesCmd.label "Azónzi tùtti i féuggi a-i segnalìbbri…">
 <!ENTITY showAllBookmarks2.label "Fanni védde tùtti i segnalìbbri">
 <!ENTITY unsortedBookmarksCmd.label "Âtri segnalìbbri">
@@ -139,8 +139,8 @@ can reach it easily. -->
 <!ENTITY tabGroupsButton.label        "Grùppo de féuggi">
 <!ENTITY tabGroupsButton.tooltip      "Ragrùppa i teu féuggi">
 
-<!ENTITY feedButton.label             "Abónate">
-<!ENTITY feedButton.tooltip           "Abonate a sta pagina…">
+<!ENTITY feedButton.label             "Abón-ite">
+<!ENTITY feedButton.tooltip           "Abón-ite a sta pagina…">
 
 <!ENTITY bookmarksButton.label          "Segnalìbbri">
 <!ENTITY bookmarksButton.tooltip        "Vèddi i teu segnalìbbri">
@@ -171,8 +171,8 @@ can reach it easily. -->
 <!ENTITY keywordfield.accesskey       "A">
 <!ENTITY search.label                 "Riçerca in sciô web">
 <!ENTITY search.accesskey             "s">
-<!ENTITY downloads.label              "Descaregamenti">
-<!ENTITY downloads.tooltip            "Fanni védde l'avansaménto di descaregamenti">
+<!ENTITY downloads.label              "Descaregaménti">
+<!ENTITY downloads.tooltip            "Fanni védde l'avansaménto di descaregaménti">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -558,7 +558,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY allTabs.filter.emptyText "Bâra de ">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
-<!ENTITY tabsToolbar.label "Féuggio do Browser">
+<!ENTITY tabsToolbar.label "Féuggio do navegatô">
 
 <!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
 <!ENTITY syncTabsMenu.label     "Féuggi che vegnan da n'âtro computer">

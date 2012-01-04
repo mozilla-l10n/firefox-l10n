@@ -29,14 +29,14 @@
 
 <!ENTITY action.disable.heading      "Sti conponénti azónti son dizabilitæ:">
 <!ENTITY action.incompatible.heading "Sti conponénti azónti son dizabilitæ, ma saiân abilitæ quande son conpatibili:">
-<!ENTITY action.update.heading       "Sti conponénti azónti saiân agiórnæ:">
+<!ENTITY action.update.heading       "Sti conponénti azónti saiân agiornæ:">
 <!ENTITY action.enable.heading       "Sti conponénti azónti saiân abilitæ:">
 
 <!ENTITY update.heading              "Agiórno i teu conponénti azónti">
-<!ENTITY update.progress.label       "Descarego e installo i agiórnamenti di conponénti azónti seleçionæ">
+<!ENTITY update.progress.label       "Descarego e installo i agiornaménti di conponénti azónti seleçionæ.">
 
 <!ENTITY errors.heading              "&brandShortName; o no peu instalâ quàrchedun di teu conponénti azónti.">
-<!ENTITY errors.description          "L'instalaçión di quàrche agiórnamento pe i teu conponénti azónti a l'é faliâ. O &brandShortName; o proviâ a agiórnâ in aotomàtico dòppo.">
+<!ENTITY errors.description          "L'instalaçión di quàrche agiornaménto pe i teu conponénti azónti a l'é faliâ. O &brandShortName; o proviâ a agiórnâ in aotomàtico dòppo.">
 
 <!ENTITY footer.label                "Ti ti peu de lóngo cangiâ i conponénti azónti se ti væ into Gestô di Conponénti Azónti.">
 <!ENTITY cancel.label                "Anùlla">

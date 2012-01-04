@@ -4,7 +4,7 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "No riêscio a conétte">
-<!ENTITY connectionFailure.longDesc "<p>Scibén che o scîto o pâ vàlido, o browser o no l'é riêscîo a stabilî 'na conesción.</p><ul><li>O scîto o poriéiva êse tenporaneaménte no disponìbile? Prêuva tórna dòppo.</li><li>No ti riêsci a navegâ in sce di âtri scîti? Contròlla a conesción do teu computer.</li><li>O teu computer ò a teu conesción én protètti da 'n firewall ò proxy? Inpostaçioìn no corètte pêuan interferî cón a navegaçión in sciâ Ræ.</li></ul>">
+<!ENTITY connectionFailure.longDesc "<p>Scibén che o scîto o pâ vàlido, o navegatô o no l'é riêscîo a stabilî 'na conesción.</p><ul><li>O scîto o poriéiva êse tenporaneaménte no disponìbile? Prêuva tórna dòppo.</li><li>No ti riêsci a navegâ in sce di âtri scîti? Contròlla a conesción do teu computer.</li><li>O teu computer ò a teu conesción én protètti da 'n firewall ò proxy? Inpostaçioìn no corètte pêuan interferî cón a navegaçión in sciâ Ræ.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "L'aceizo a-a pòrta dizabilitòu pe raxìon de segùessa">
 <!ENTITY deniedPortAccess.longDesc "<p>A pòrta domandâ (ez. <q>mozilla.org:80</q> pa-a pòrta 80 in sciô mozilla.org) l'é uzâ pe <em>âtri</em> fìn che no seggian a navegaçión. O browser l'à scancelòu a domanda pe a teu proteçión e seguéssa.</p>">
@@ -28,7 +28,7 @@
 <!ENTITY notCached.longDesc "<p>O docùmento domandòu o no gh'é inta cache do navegatô.</p><ul><li>Pe seguéssa o navegatô no domanda in aotomàtico docùmenti senscìbili.</li><li>Sciàcca Prêuva ancón pe domandâ tórna o docùmento ao scîto .</li></ul>">
 
 <!ENTITY netOffline.title "Mòddo fêua linia">
-<!ENTITY netOffline.longDesc2 "<p>O browser o l'é atîvo in mòddo fêua linia e o no peu colegase a-o ponto çernuo.</p><ul><li>O computer o l'é conésso a unn-a ræ atîva?</li><li>Sciacca &quot;Preuva torna&quot; pe pasâ a-o mòddo in linia e caregâ torna a pagina.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>O navegatô o l'é atîvo in mòddo fêua linia e o no peu colegase a-o ponto çernuo.</p><ul><li>O computer o l'é conésso a unn-a ræ atîva?</li><li>Sciacca &quot;Preuva torna&quot; pe pasâ a-o mòddo in linia e caregâ torna a pagina.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Erô de còdifica do contegnûo">
 <!ENTITY contentEncodingError.longDesc "<p>A pàgina che t'eu védde a no se peu vizoalizâ perché a gh'à unn-a compresción che a no l'é soportâ.</p><ul><li>Pe favô ciàmma o propiêtâio do scîto pe informâlo do problêma.</li></ul>">
@@ -46,10 +46,10 @@
 <!ENTITY protocolNotFound.longDesc "<p>O indirìsso o l'à un protocòllo (ez. <q>wxyz://</q>) che mi n'ou conoscio coscì no riêscio a conétime a-o scîto.</p><ul><li>Ti prêuvi miga a lêze di contegnûi moltimediali? Contròlla se a-o scîto ghe serve quàrche âtro angæzo.</li><li>Quàrche protocòllo peu domandâ de aplicaçión o plugin de terçe parti.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "O proxy o refûa a conesción">
-<!ENTITY proxyConnectFailure.longDesc "<p>O browser o l'é inpostòu pe uzâ un server proxy ma o proxy o refûa e conescioìn.</p><ul><li>E inpostaçioìn proxy do browser son giùste? Contròlla e preuva ancón.</li><li>O proxy permétte e conescioìn da sta ræ?</li><li>Ti gh'æ ancón di problêmi? Ciàmma o teu aministratô da ræ ò fornitô de serviççi internet pe ascisténsa.</li></ul>">
+<!ENTITY proxyConnectFailure.longDesc "<p>O browser o l'é inpostòu pe uzâ un server proxy ma o proxy o refûa e conescioìn.</p><ul><li>E inpostaçioìn proxy do navegatô son giùste? Contròlla e preuva ancón.</li><li>O proxy permétte e conescioìn da sta ræ?</li><li>Ti gh'æ ancón di problêmi? Ciàmma o teu aministratô da ræ ò fornitô de serviççi internet pe ascisténsa.</li></ul>">
 
 <!ENTITY proxyResolveFailure.title "No tròvo o proxy">
-<!ENTITY proxyResolveFailure.longDesc "<p>O browser o l'é inpostòu pe uzâ un server proxy ma o proxy o refûa e conescioìn.</p><ul><li>E inpostaçioìn proxy do browser son giùste? Contròlla e preuva ancón.</li><li>O proxy permétte e conescioìn da sta ræ?</li><li>Ti gh'æ ancón di problêmi? Ciàmma o teu aministratô da ræ ò fornitô de serviççi internet pe ascisténsa.</li></ul>">
+<!ENTITY proxyResolveFailure.longDesc "<p>O browser o l'é inpostòu pe uzâ un server proxy ma o proxy o refûa e conescioìn.</p><ul><li>E inpostaçioìn proxy do navegatô son giùste? Contròlla e preuva ancón.</li><li>O proxy permétte e conescioìn da sta ræ?</li><li>Ti gh'æ ancón di problêmi? Ciàmma o teu aministratô da ræ ò fornitô de serviççi internet pe ascisténsa.</li></ul>">
 
 <!ENTITY redirectLoop.title "Redireçionn-a o Loop">
 <!ENTITY redirectLoop.longDesc "<p>O browser s'é fermòu de preuvâ a riçéive l'ògétto domandòu. O scîto o fa de redireçioìn che no finiscian mâi.</p><ul><li>T'æ dizabilitòu ò blocòu i cookie domandæ da sto scîto?</li><li><em>NÒTTA</em>: Se ti acetti i cookie do scîto e no ti risòlvi o problêma porieivan êse e inpostaçioìn do server e no do teu computer.</li></ul>">
@@ -71,8 +71,8 @@
 ">
 
 <!ENTITY malwareBlocked.title "Sospetto scîto de atàcco!">
-<!ENTITY malwareBlocked.longDesc "<p>I scîti de atàcco prêuvan a instalâ de aplicaçioìn che aröban e informaçioìn privæ, ûzan o teu computer pe atacâ i âtri ò aroinan o teu computer.</p>
-<p>I propiêtâi di scîti che créddan che i seu scîti son stæti segnalæ pe erô peuan <a href='http://www.stopbadware.org/home/reviewinfo' >domandâ unn-a revixión.</a>.</p> 
+<!ENTITY malwareBlocked.longDesc "<p>I scîti de atàcco prêuvan a instalâ de aplicaçioìn che aröban e informaçioìn privæ, adêuvia o teu computer pe atacâ i âtri ò aroinan o teu computer.</p>
+<p>I propietâi di scîti che créddan che i seu scîti son stæti segnalæ pe erô peuan <a href='http://www.stopbadware.org/home/reviewinfo' >domandâ 'na revixión.</a>.</p> 
 ">
 
 <!ENTITY phishingBlocked.title "Sospetta falsificaçión web!">
@@ -80,7 +80,7 @@
  ">
 
 <!ENTITY cspFrameAncestorBlocked.title "Blocòu da teu Politica de Seguéssa do Contegnûo">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>O browser evita che sta pàgina chi a vegne caregâ a sto mòddo perché gh'à unn-a politica de seguéssa che n'ou permétte.</p>">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>O navegatô evita che sta pàgina chi a vegne caregâ a sto mòddo perché gh'à unn-a politica de seguéssa che n'ou permétte.</p>">
 
 <!ENTITY corruptedContentError.title "Erô de contegnuo corotto">
 <!ENTITY corruptedContentError.longDesc "<p>A pagina che ti çerchi de védde a no peu mostrase perché s'é atrovòu un erô inta trasmiscion di dæti.</p><ul><li>Pe piaxei, contatta i padroìn do scito pe faghe savéi de questo problêma.</li></ul>">

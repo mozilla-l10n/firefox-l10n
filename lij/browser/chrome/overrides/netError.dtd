@@ -55,7 +55,10 @@
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY protocolNotFound.title "Protocòllo no conosciûo">
-<!ENTITY protocolNotFound.longDesc "<p>O indirìsso o l'à un protocòllo (ez. <q>wxyz://</q>) che mi n'ou conoscio coscì no riêscio a conétime a-o scîto.</p><ul><li>Ti prêuvi miga a lêze di contegnûi moltimediali? Contròlla se a-o scîto ghe serve quàrche âtro angæzo.</li><li>Quàrche protocòllo peu domandâ de aplicaçión o plugin de terçe parti.</li></ul>">
+<!ENTITY protocolNotFound.longDesc "<ul>
+  <li>Tì ti porriesci dovéi instalâ de âtre aplicaçión pe arvî sto indirìsso.</li>
+</ul>
+">
 
 <!ENTITY proxyConnectFailure.title "O proxy o refûa a conesción">
 <!ENTITY proxyConnectFailure.longDesc "<p>O navegatô o l'é inpostòu pe uzâ un server proxy ma o proxy o refûa e conescioìn.</p><ul><li>E inpostaçioìn proxy do navegatô son giùste? Contròlla e preuva ancón.</li><li>O proxy permétte e conescioìn da sta ræ?</li><li>Ti gh'æ ancón di problêmi? Ciàmma o teu aministratô da ræ ò fornitô de serviççi internet pe ascisténsa.</li></ul>">
@@ -95,8 +98,8 @@
                    ">
 
 <!ENTITY malwareBlocked.title "Sospetto scîto de atàcco!">
-<!ENTITY malwareBlocked.longDesc "<p>I scîti de atàcco prêuvan a instalâ de aplicaçioìn che aröban e informaçioìn privæ, ûzan o teu computer pe atacâ i âtri ò aroinan o teu computer.</p>
-<p>I propiêtâi di scîti che créddan che i seu scîti son stæti segnalæ pe erô peuan <a href='http://www.stopbadware.org/home/reviewinfo' >domandâ unn-a revixión.</a>.</p> 
+<!ENTITY malwareBlocked.longDesc "<p>I scîti de atàcco prêuvan a instalâ de aplicaçioìn che aröban e informaçioìn privæ, adêuvia o teu computer pe atacâ i âtri ò aroinan o teu computer.</p>
+<p>I propietâi di scîti che créddan che i seu scîti son stæti segnalæ pe erô peuan <a href='http://www.stopbadware.org/home/reviewinfo' >domandâ 'na revixión.</a>.</p> 
 ">
 
 <!ENTITY phishingBlocked.title "Sospetta falsificaçión web!">

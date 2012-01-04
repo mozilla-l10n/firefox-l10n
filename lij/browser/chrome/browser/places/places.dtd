@@ -32,7 +32,7 @@
 <!ENTITY importBookmarksFromHTML.accesskey "I">
 <!ENTITY exportBookmarksToHTML.label       "Espòrta Segnalibbri a HTML…">
 <!ENTITY exportBookmarksToHTML.accesskey   "E">
-<!ENTITY importOtherBrowser.label          "Inportâ dæti da un âtro browser…">
+<!ENTITY importOtherBrowser.label          "Inportâ dæti da un âtro navegatô…">
 <!ENTITY importOtherBrowser.accesskey      "a">
 
 <!ENTITY cmd.backup.label               "Còpia de seguéssa…">
@@ -97,7 +97,7 @@
 <!ENTITY search.scopeFolder.accesskey              "r">
 <!ENTITY search.scopeBookmarks.label               "Segnalìbbri">
 <!ENTITY search.scopeBookmarks.accesskey           "S">
-<!ENTITY search.scopeDownloads.label               "Descaregamenti">
+<!ENTITY search.scopeDownloads.label               "Descaregaménti">
 <!ENTITY search.scopeDownloads.accesskey           "D">
 <!ENTITY search.scopeHistory.label                 "Stöia">
 <!ENTITY search.scopeHistory.accesskey             "S">

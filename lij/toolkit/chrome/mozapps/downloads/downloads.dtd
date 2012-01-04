@@ -7,7 +7,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY starting.label                   "Iniçio…">
 <!ENTITY scanning.label                   "Riçerco viros...">
 
-<!ENTITY downloads.title                  "Descaregamenti">
+<!ENTITY downloads.title                  "Descaregaménti">
 
 <!ENTITY cmd.pause.label                  "Pösa">
 <!ENTITY cmd.pause.accesskey              "P">
@@ -25,10 +25,10 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.openWith.accesskey           "A">
 <!ENTITY cmd.retry.label                  "Repiggia">
 <!ENTITY cmd.retry.accesskey              "R">
-<!ENTITY cmd.goToDownloadPage.label       "Vanni a-a pagina de descaregamento">
+<!ENTITY cmd.goToDownloadPage.label       "Vanni a-a pagina de descaregaménto">
 <!ENTITY cmd.goToDownloadPage.accesskey   "g">
-<!ENTITY cmd.copyDownloadLink.label       "Còpia o colegamento do descaregamento">
-<!ENTITY cmd.copyDownloadLink.accesskey   "l">
+<!ENTITY cmd.copyDownloadLink.label       "Còpia o colegamento do descaregaménto">
+<!ENTITY cmd.copyDownloadLink.accesskey   "c">
 <!ENTITY cmd.removeFromList.label         "Leva da Lìsta">
 <!ENTITY cmd.removeFromList.accesskey     "e">
 
@@ -36,13 +36,13 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.close2.commandKey            "j">
 <!ENTITY cmd.close2Unix.commandKey        "y">
 <!ENTITY cmd.clearList.label              "Scancella Lìsta">
-<!ENTITY cmd.clearList.tooltip            "Leva da mêzo tùtti i descaregamenti da lìsta ">
+<!ENTITY cmd.clearList.tooltip            "Leva da mêzo tùtti i descaregaménti da-a lìsta">
 <!ENTITY cmd.clearList.accesskey          "c">
 <!ENTITY cmd.find.commandKey              "f">
 <!ENTITY cmd.search.commandKey            "k">
 
-<!ENTITY closeWhenDone.label              "Særa quande i descaregamenti son conpletæ">
-<!ENTITY closeWhenDone.tooltip            "Særa o barcón di descaregamenti quande son tùtti conpletæ">
+<!ENTITY closeWhenDone.label              "Særa quande i descaregaménti son conpletæ">
+<!ENTITY closeWhenDone.tooltip            "Særa o barcón di descaregaménti quande son tùtti conpletæ">
 
 <!ENTITY showFolder.label                 "Fanni védde sta cartélla">
 <!ENTITY searchBox.label                  "Çerca…">

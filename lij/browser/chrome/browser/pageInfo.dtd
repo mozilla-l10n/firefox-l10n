@@ -82,7 +82,7 @@
 
 <!ENTITY  feedTab               "Feed">
 <!ENTITY  feedTab.accesskey     "F">
-<!ENTITY  feedSubscribe         "Abónate">
+<!ENTITY  feedSubscribe         "Abón-ite">
 <!ENTITY  feedSubscribe.accesskey "A">
 
 <!ENTITY  permTab               "Permìssi">
@@ -96,7 +96,7 @@
 <!ENTITY  permImage             "Carega inmàgini">
 <!ENTITY  permPopup             "Arvi barcón de pop-up">
 <!ENTITY  permCookie            "Inpòsta cookie">
-<!ENTITY  permInstall           "Installa estenscioìn ò têmi">
+<!ENTITY  permInstall           "Instàlla estenscioìn ò têmi">
 <!ENTITY  permGeo               "Condivìddi Indirìsso">
 
 <!ENTITY  permIndexedDB              "Tegni o sarvataggio fêua linia">
