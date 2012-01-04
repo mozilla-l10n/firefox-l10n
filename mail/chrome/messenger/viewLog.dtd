@@ -1,8 +1,8 @@
-<!ENTITY viewLog.title "Filter zapisnik">
-<!ENTITY viewLogInfo.text "Filter zapisnik bilježi pokretanje filtera za ovaj raèun. Koristite kuæicu ispod kako bi omoguæili bilježenje.">
-<!ENTITY clearLog.label "Oèisti zapisnik">
+<!ENTITY viewLog.title "Zapisnik filtera">
+<!ENTITY viewLogInfo.text "Zapisnik filtera biljeÅ¾i pokretanje filtera za ovaj raÄun. Koristite kuÄ‡icu ispod kako biste omoguÄ‡ili biljeÅ¾enje.">
+<!ENTITY clearLog.label "OÄisti zapisnik">
 <!ENTITY clearLog.accesskey "O">
-<!ENTITY enableLog.label "Omoguæi bilježenje u zapisnik">
+<!ENTITY enableLog.label "OmoguÄ‡i biljeÅ¾enje u zapisnik">
 <!ENTITY enableLog.accesskey "m">
 <!ENTITY closeLog.label "Zatvori">
 <!ENTITY closeLog.accesskey "Z">
