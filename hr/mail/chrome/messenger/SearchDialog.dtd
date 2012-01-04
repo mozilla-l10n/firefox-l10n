@@ -53,22 +53,22 @@
 <!ENTITY idColumn.label "Redoslijed primanja">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "Kliknite kako bi odabrali stupce za prikaz">
+<!ENTITY columnChooser.tooltip "Kliknite da biste odabrali stupce za prikaz">
 <!ENTITY threadColumn.tooltip "Kliknite za prikaz tema poruka"> 
-<!ENTITY fromColumn.tooltip "Kliknite za sortiranje po pošiljatelju">
-<!ENTITY recipientColumn.tooltip "Kliknite za sortiranje po primatelju">
-<!ENTITY subjectColumn.tooltip "Kliknite za sortiranje po naslovu">
-<!ENTITY dateColumn.tooltip "Kliknite za sortiranje po datumu">
-<!ENTITY priorityColumn.tooltip "Kliknite za sortiranje po prioritetu">
-<!ENTITY tagsColumn.tooltip "Kliknite za sortiranje po oznaci">
-<!ENTITY accountColumn.tooltip "Kliknite za sortiranje po računu">
-<!ENTITY statusColumn.tooltip "Kliknite za sortiranje po statusu">
-<!ENTITY sizeColumn.tooltip "Kliknite za sortiranje po veličini">
-<!ENTITY junkStatusColumn.tooltip "Kliknite za sortiranje po statusu neželjene pošte">
+<!ENTITY fromColumn.tooltip "Kliknite za sortiranje prema pošiljatelju">
+<!ENTITY recipientColumn.tooltip "Kliknite za sortiranje prema primatelju">
+<!ENTITY subjectColumn.tooltip "Kliknite za sortiranje prema naslovu">
+<!ENTITY dateColumn.tooltip "Kliknite za sortiranje prema datumu">
+<!ENTITY priorityColumn.tooltip "Kliknite za sortiranje prema prioritetu">
+<!ENTITY tagsColumn.tooltip "Kliknite za sortiranje prema oznaci">
+<!ENTITY accountColumn.tooltip "Kliknite za sortiranje prema računu">
+<!ENTITY statusColumn.tooltip "Kliknite za sortiranje prema statusu">
+<!ENTITY sizeColumn.tooltip "Kliknite za sortiranje prema veličini">
+<!ENTITY junkStatusColumn.tooltip "Kliknite za sortiranje prema statusu neželjene pošte">
 <!ENTITY unreadColumn.tooltip "Broj nepročitanih poruka u temi">
 <!ENTITY totalColumn.tooltip "Ukupan broj poruka u temi">
-<!ENTITY readColumn.tooltip "Kliknite za sortiranje po pročitanom">
-<!ENTITY receivedColumn.tooltip "Kliknite za sortiranje po datumu primitka">
-<!ENTITY starredColumn.tooltip "Kliknite za sortiranje po zvjezdici">
-<!ENTITY locationColumn.tooltip "Kliknite za sortiranje po lokaciji">
-<!ENTITY idColumn.tooltip "Kliknite za sortiranje po redoslijedu primanja">
+<!ENTITY readColumn.tooltip "Kliknite za sortiranje prema pročitanom">
+<!ENTITY receivedColumn.tooltip "Kliknite za sortiranje prema datumu primitka">
+<!ENTITY starredColumn.tooltip "Kliknite za sortiranje prema zvjezdici">
+<!ENTITY locationColumn.tooltip "Kliknite za sortiranje prema lokaciji">
+<!ENTITY idColumn.tooltip "Kliknite za sortiranje prema redoslijedu primanja">
