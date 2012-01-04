@@ -17,7 +17,12 @@
 #
 -->
 <!ENTITY addons.windowTitle                   "Gestionar de suplimente">
+
 <!ENTITY search.placeholder                   "Caută în toate suplimentele">
+<!-- LOCALIZATION NOTE (search.commandKey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
+
 <!ENTITY loading.label                        "Încărcare...">
 <!ENTITY listEmpty.installed.label            "Nu aveți vreun supliment de acest tip instalat">
 <!ENTITY listEmpty.availableUpdates.label     "Nicio actualizare găsită">
