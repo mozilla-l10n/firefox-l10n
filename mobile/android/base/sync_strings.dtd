@@ -1,0 +1,55 @@
+<!-- Don't localize these. They're here until they have
+     a better place to live. -->
+<!ENTITY syncBrand.fullName.label "Firefox Sync">
+<!ENTITY syncBrand.shortName.label "Sync">
+
+<!-- Main titles. -->
+<!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
+<!ENTITY sync.title.connect.label 'Connect to &syncBrand.shortName.label;'>
+<!ENTITY sync.title.pair.label 'Pair a Device'>
+
+<!-- J-PAKE Key Screen -->
+<!ENTITY sync.subtitle.connect.label 'To activate your new device, select “Set up &syncBrand.shortName.label;” on the device.'>
+<!ENTITY sync.subtitle.pair.label 'To activate, select “Pair a device” on your other device.'>
+<!ENTITY sync.pin.default.label '...\n...\n...\n'>
+<!ENTITY sync.link.show.label '<a href="https://support.mozilla.com/kb/add-a-device-to-firefox-sync">Mostrar-me como</a>'>
+<!ENTITY sync.link.nodevice.label '<a href="#">Não tenho o dispositivo comigo…</a>'>
+
+<!-- J-PAKE Waiting Screen -->
+<!ENTITY sync.jpake.subtitle.waiting.label 'A aguardar outro dispositivo…'>
+
+<!-- Account Login Screen -->
+<!ENTITY sync.subtitle.account.label 'Escreva a informação da sua conta do &syncBrand.fullName.label;'>
+<!ENTITY sync.input.username.label 'Nome da conta'>
+<!ENTITY sync.input.password.label 'Senha'>
+<!ENTITY sync.input.key.label 'Chave de recuperação'>
+<!ENTITY sync.checkbox.server.label 'Usar servidor personalizado'>
+<!ENTITY sync.input.server.label 'URL do servidor'>
+  
+<!-- Setup Fail -->
+<!ENTITY sync.title.fail.label 'Não foi possível configurar &syncBrand.shortName.label;'>
+<!ENTITY sync.subtitle.fail.label 'O &syncBrand.fullName.label; não conseguiu ligar-se ao servidor. Deseja tentar de novo?'>
+<!ENTITY sync.button.tryagain.label 'Tentar de novo'>
+<!ENTITY sync.button.manual.label 'Configuração manual'>
+  
+<!-- Setup Success -->
+<!ENTITY sync.title.success.label 'Configuração terminada'>
+<!ENTITY sync.subtitle.success.label 'Os seus dados estão agora a ser transferidos em segundo plano. Pode ir a definições para gerir a sua conta.'>
+<!ENTITY sync.settings.label 'Definições'>
+<!ENTITY sync.subtitle.manage.label 'A sua conta do &syncBrand.fullName.label; está configurada. Vá a definições para gerir a sua conta.'>
+  
+<!-- Common text -->
+<!ENTITY sync.button.cancel.label 'Cancelar'>
+<!ENTITY sync.button.connect.label 'Ligar'>
+  
+<!-- Account strings -->
+<!ENTITY sync.account.label.label '&syncBrand.fullName.label;'>
+  
+<!-- Bookmark folder strings -->
+<!ENTITY bookmarks.folder.menu.label 'menu de marcadores'>
+<!ENTITY bookmarks.folder.places.label ''>
+<!ENTITY bookmarks.folder.tags.label 'Etiquetas'>
+<!ENTITY bookmarks.folder.toolbar.label 'Barra de ferramentas dos marcadores'>
+<!ENTITY bookmarks.folder.unfiled.label 'Marcadores desorganizados'>
+<!ENTITY bookmarks.folder.desktop.label 'Marcadores do computador'>
+<!ENTITY bookmarks.folder.mobile.label 'Marcadores do Mobile'>
