@@ -1,6 +1,6 @@
-<!ENTITY matchAll.label     "Podudara sa svime od slijedećeg">
+<!ENTITY matchAll.label     "Podudara sa svime od sljedećeg">
 <!ENTITY matchAll.accesskey "a">
-<!ENTITY matchAny.label     "Podudara sa bilo čime od slijedećeg">
+<!ENTITY matchAny.label     "Podudara s bilo čime od sljedećeg">
 <!ENTITY matchAny.accesskey "o">
 <!ENTITY matchAllMsgs.label     "Za sve poruke">
 <!ENTITY matchAllMsgs.accesskey "Z">
