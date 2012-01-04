@@ -112,7 +112,7 @@
 <!ENTITY showTaskBoxCmd.label                              "Seznam opravkov">
 <!ENTITY showTaskBoxCmd.accesskey                          "p">
 
-<!ENTITY calendar.fullscreen.label                         "Celozaslonski način">
+<!ENTITY calendar.fullscreen.label                         "Celoten zaslon">
 <!ENTITY calendar.fullscreen.accesskey                     "C">
 
 <!ENTITY calendar.addons.label                             "Dodatki">
