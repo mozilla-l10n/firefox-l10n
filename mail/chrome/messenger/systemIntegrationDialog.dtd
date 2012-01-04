@@ -3,7 +3,7 @@
 
 <!ENTITY email.label "E-poštu">
 <!ENTITY newsgroups.label "Interesne grupe">
-<!ENTITY feeds.label "Kanali">
+<!ENTITY feeds.label "Kanale">
 
 <!ENTITY checkOnStartup.label "Uvijek napravi ovu provjeru prilikom pokretanja &brandShortName;a">
 <!ENTITY checkOnStartup.accesskey "a">
