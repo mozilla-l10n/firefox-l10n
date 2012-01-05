@@ -51,10 +51,6 @@
 <!ENTITY pref_about_firefox "O prehliadači &brandShortName;">
 <!ENTITY pref_do_not_track "Požiadať stránky, aby nesledovali moju aktivitu">
 <!ENTITY pref_telemetry "Odosielať údaje o výkonnosti">
-<!ENTITY pref_homepage "Domovská stránka">
-<!ENTITY pref_homepage_start "Úvodná stránka Firefoxu">
-<!ENTITY pref_homepage_blank "Prázdna stránka">
-<!ENTITY pref_homepage_current "Aktuálna stránka">
 <!ENTITY pref_remember_signons "Pamätať si heslá">
 <!ENTITY pref_cookies "Povoliť cookies">
 <!ENTITY pref_char_encoding "Zobraziť kódovanie znakov">
