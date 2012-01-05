@@ -1,0 +1,11 @@
+<!ENTITY feedbackHeader2.label          "Palautetyökalut">
+
+<!ENTITY feedback.communicate.title     "Kommunikoi kanssamme!">
+<!ENTITY feedback.feedback.title        "Anna palautetta">
+<!ENTITY feedback.feedback.good         "Hyvää">
+<!ENTITY feedback.feedback.bad          "Huonoa">
+
+<!ENTITY feedback.tools.title           "Työkalut">
+<!ENTITY feedback.allowTelemetry.title  "Lähetä suorityskykytietoja">
+<!ENTITY feedback.forceCompat.title     "Pakota lisäosat yhteensopiviksi">
+<!ENTITY feedback.errorConsole.title    "Ota virhekonsoli käyttöön">
