@@ -219,7 +219,7 @@ can reach it easily. -->
 <!ENTITY inspectCloseButton.tooltiptext "Særa l'ispetô">
 <!ENTITY inspect3DButton.label        "3D">
 <!ENTITY inspect3DButton.accesskey    "M">
-<!ENTITY inspectStyleButton.label     "Stile">
+<!ENTITY inspectStyleButton.label     "Stîle">
 <!ENTITY inspectStyleButton.accesskey "S">
 
 <!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
@@ -499,7 +499,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyButton.tooltip             "Còpia">
 <!ENTITY pasteButton.tooltip            "Incòlla">
 
-<!ENTITY fullScreenButton.tooltip       "Fæ védde a tùtto schermo">
+<!ENTITY fullScreenButton.tooltip       "Fànni védde a tùtto schermo">
 
 <!ENTITY zoomOutButton.tooltip          "Diminoisci zoom">
 <!ENTITY zoomInButton.tooltip           "Aoménta zoom">
@@ -522,7 +522,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStyleMenu.accesskey "S">
 <!ENTITY pageStyleNoStyle.label "No stîle">
 <!ENTITY pageStyleNoStyle.accesskey "N">
-<!ENTITY pageStylePersistentOnly.label "Stile de bâze da pàgina">
+<!ENTITY pageStylePersistentOnly.label "Stîle de bâze da pàgina">
 <!ENTITY pageStylePersistentOnly.accesskey "b">
 
 <!ENTITY pageReportIcon.tooltip            "Càngia o blòcco di pop-up pe sto scîto">
