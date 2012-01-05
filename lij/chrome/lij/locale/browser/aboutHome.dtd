@@ -1,0 +1,35 @@
+<!ENTITY % brandDTD
+    SYSTEM "chrome://branding/locale/brand.dtd">
+  %brandDTD;
+<!--
+# Translator(s):
+#
+# gastaz <alessio.gastaldi@libero.it>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# gastaz <alessio.gastaldi@libero.it>
+#
+-->
+
+<!-- These strings are used in the about:home page -->
+
+<!ENTITY abouthome.pageTitle "Pàgina iniçiâ de &brandFullName;">
+
+<!ENTITY abouthome.searchEngineButton.label "Riçerca">
+
+<!ENTITY abouthome.aboutMozilla "Informaçioìn rigoàrdo Mozilla">
+
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
+     text in <a/> will be linked to the Firefox features page on mozilla.com
+-->
+<!ENTITY abouthome.defaultSnippet1.v1 "Gràçie de avéi scelto o Firefox! Pe pigiâ o màscimo dò-u teu browser informite in sce <a>l'urtime novitæ</a>.">
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
+     text in <a/> will be linked to the featured add-ons on addons.mozilla.org
+-->
+<!ENTITY abouthome.defaultSnippet2.v1 "L'é façile personalizâ Firefox pròpio cómme t'eu. <a>Scegli fra migiæa de conponénti azónti</a>.">
+
+<!ENTITY abouthome.syncSetup.label   "Inpòsta Sync">
+<!ENTITY abouthome.pairDevice.label  "Fanni 'na cóbbia de 'n'aparâto">

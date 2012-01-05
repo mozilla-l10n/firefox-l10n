@@ -1,0 +1,20 @@
+<!-- extracted from institems.xul -->
+<!--
+# Translator(s):
+#
+# gastaz <alessio.gastaldi@libero.it>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# gastaz <alessio.gastaldi@libero.it>
+#
+-->
+
+<!ENTITY dialog.title            "Instalaçión do software">
+<!ENTITY dialog.style            "width: 45em">
+<!ENTITY warningPrimary.label    "Installa i conponénti azónti sôlo se son fæti da aotô che ti gh'æ fidùccia.">
+<!ENTITY warningSecondary.label  "E aplicaçioìn maliçiôse peuan aroinâ o teu computer ò violâ a teu privacy.">
+
+<!ENTITY from.label "da:">

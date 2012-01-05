@@ -1,0 +1,17 @@
+<!--
+# Translator(s):
+#
+# gastaz <alessio.gastaldi@libero.it>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# gastaz <alessio.gastaldi@libero.it>
+#
+-->
+<!ENTITY window.title              "Scegli Cartélla">
+<!ENTITY window.style              "width: 36em; height: 18em;">
+<!ENTITY moveTo.label              "Mescia into:">
+<!ENTITY newFolderButton.label     "Nêuva cartélla">
+<!ENTITY newFolderButton.accesskey "N">

@@ -1,0 +1,37 @@
+<!--
+# Translator(s):
+#
+# gastaz <alessio.gastaldi@libero.it>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# gastaz <alessio.gastaldi@libero.it>
+#
+-->
+<!ENTITY  engineManager.title       "Gestisci a lìsta do motô de riçèrca">
+<!ENTITY  engineManager.style       "min-width: 35em;">
+<!ENTITY  engineManager.intro       "T'æ instalæ sti motô de riçèrca:">
+
+<!ENTITY  columnLabel.name          "Nómme">
+<!ENTITY  columnLabel.keyword       "Paròlla ciâve">
+
+<!-- Buttons -->
+<!ENTITY  up.label                  "Mescia in sciù">
+<!ENTITY  up.accesskey              "M">
+<!ENTITY  dn.label                  "Mescia in zu">
+<!ENTITY  dn.accesskey              "M">
+<!ENTITY  remove.label              "Elimina">
+<!ENTITY  remove.accesskey          "E">
+<!ENTITY  edit.label                "Càngia tastêa…">
+<!ENTITY  edit.accesskey            "t">
+
+<!ENTITY  addEngine.label           "Danni ciù motô de riçèrca…">
+<!ENTITY  addEngine.accesskey       "a">
+
+<!ENTITY  enableSuggest.label       "Fanni védde conséggi de riçèrca">
+<!ENTITY  enableSuggest.accesskey   "s">
+
+<!ENTITY  restoreDefaults.label     "Remétti predefinîo">
+<!ENTITY  restoreDefaults.accesskey "e">

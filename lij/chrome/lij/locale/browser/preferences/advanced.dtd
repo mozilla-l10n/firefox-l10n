@@ -1,0 +1,150 @@
+<!-- Note: each tab panel must contain unique accesskeys -->
+<!--
+# Translator(s):
+#
+# gastaz <alessio.gastaldi@libero.it>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# gastaz <alessio.gastaldi@libero.it>
+#
+-->
+
+<!ENTITY generalTab.label                "Generâle">
+
+<!ENTITY accessibility.label             "Açéçibilitæ">
+
+<!ENTITY useCursorNavigation.label       "Ûza sémpre i pomélli de direçión pe navegâ in scie pàgine">
+<!ENTITY useCursorNavigation.accesskey   "c">
+<!ENTITY searchStartTyping.label         "Çerca o testo quando iniçio a scrîve">
+<!ENTITY searchStartTyping.accesskey     "Ç">
+<!ENTITY blockAutoRefresh.label          "Avertime quando i scîti web prêuvan a reindirissâ ò a recaregâ a pàgina">
+<!ENTITY blockAutoRefresh.accesskey      "b">
+
+<!ENTITY browsing.label                  "Çerca">
+
+<!ENTITY useAutoScroll.label             "Ûza scorrimento aotomàtico">
+<!ENTITY useAutoScroll.accesskey         "a">
+<!ENTITY useSmoothScrolling.label        "Ûza scorrimento regolâ">
+<!ENTITY useSmoothScrolling.accesskey    "m">
+<!ENTITY allowHWAccel.label              "Ûza l'aceleraçión hardware se gh'é">
+<!ENTITY allowHWAccel.accesskey          "h">
+<!ENTITY checkSpelling.label             "Contròlla o mæ testo intanto che scrîvo">
+<!ENTITY checkSpelling.accesskey         "t">
+
+<!ENTITY systemDefaults.label            "Predefinîo do scistêma
+">
+<!--XXX--><!ENTITY alwaysCheckDefault.label        "Inte l'avîo contròlla de lóngo se o &brandShortName; o l'é o navegatô predefinîo">
+<!ENTITY alwaysCheckDefault.accesskey    "w">
+<!ENTITY checkNow.label                  "Contròlla òua">
+<!ENTITY checkNow.accesskey              "n">
+<!ENTITY submitCrashes.label             "Segnala un problêma">
+<!ENTITY submitCrashes.accesskey         "S">
+<!ENTITY submitTelemetry.label           "Manda informaçion in sciô fonçionamento">
+<!ENTITY submitTelemetry.accesskey       "M">
+
+<!ENTITY networkTab.label                "Ræ de lòu">
+
+<!ENTITY connection.label                "Conesción">
+
+<!ENTITY connectionDesc.label            "Definìsci cómme &brandShortName; o se conétte a Internet">
+<!ENTITY connectionSettings.label        "Inpostaçioìn…">
+<!ENTITY connectionSettings.accesskey    "I">
+
+<!ENTITY offlineStorage.label            "Sarvataggio fêua linia">
+
+<!-- LOCALIZATION NOTE:
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
+  line in preferences as follows:
+
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
+-->
+<!ENTITY limitCacheSizeBefore.label      "Lìmita a cache a">
+<!ENTITY limitCacheSizeBefore.accesskey  "L">
+<!ENTITY limitCacheSizeAfter.label       "MB de spàçio">
+<!ENTITY clearCacheNow.label             "Scancelâ Òua">
+<!ENTITY clearCacheNow.accesskey         "c">
+<!ENTITY overrideSmartCacheSize.label    "Ignòra a gestión aotomàtica da cache">
+<!ENTITY overrideSmartCacheSize.accesskey "o">
+
+<!ENTITY updateTab.label                 "Agiórna">
+
+<!ENTITY updateApp.label                 "Agiornaménti de &brandShortName;:">
+<!ENTITY updateAuto.label                "Installa agiornaménti in aotomàtico (racomandòu: ciù seguéssa)">
+<!ENTITY updateAuto.accesskey            "I">
+<!ENTITY updateCheck.label               "Contròlla pe-i agiornaménti, ma tò-u diggo mi se instalâli">
+<!ENTITY updateCheck.accesskey           "C">
+<!ENTITY updateManual.label              "No contròlâ mâi se ghe son di agiornaménti (no racomandòu: rezego pe-a seguéssa)">
+<!ENTITY updateManual.accesskey          "N">
+
+
+<!ENTITY updateAutoAddonWarn.label       "Avertime se questo dizabilita quarchedùn di mæ conponénti azónti">
+<!ENTITY updateAutoAddonWarn.accesskey   "v">
+
+
+<!ENTITY updateOthers.label              "Agiprnaménti aotomàtici:">
+<!ENTITY enableAddonsUpdate3.label       "Conponénti Azónti">
+<!ENTITY enableAddonsUpdate3.accesskey   "a">
+<!ENTITY enableSearchUpdate.label        "Motô de reçerca">
+<!ENTITY enableSearchUpdate.accesskey    "M">
+
+
+
+
+
+
+
+
+
+
+<!ENTITY autoCheck.label                 "Contròlla in aotomàtico se ghe son agiornamenti pe:">
+<!ENTITY enableAppUpdate.label           "&brandShortName;">
+<!ENTITY enableAppUpdate.accesskey       "F">
+<!ENTITY enableAddonsUpdate2.label       "Conponénti azónti">
+<!ENTITY enableAddonsUpdate2.accesskey   "n">
+<!ENTITY enableSearchUpdate.label        "Motô de riçerca">
+<!ENTITY enableSearchUpdate.accesskey    "M">
+<!ENTITY whenUpdatesFound.label          "Quando treuvo i agiornamenti pe &brandShortName;:">
+<!ENTITY askMe.label                     "Domandame cöse veuggio fâ">
+<!ENTITY askMe.accesskey                 "D">
+<!ENTITY modeAutomatic.label             "Descarega e installa i agiornamenti in aotomàtico">
+<!ENTITY modeAutomatic.accesskey         "D">
+<!ENTITY modeAutoAddonWarn.label         "Avertime se questo dizabilita quarchedùn di mæ conponénti azónti">
+<!ENTITY modeAutoAddonWarn.accesskey     "A">
+<!ENTITY updateHistory.label             "Fanni védde a stöia di agiornamenti">
+<!ENTITY updateHistory.accesskey         "F">
+
+<!ENTITY offlineNotify.label             "Dimme quando un scîto o domanda de sarvâ dæti pe êse uzæ fêua linia">
+<!ENTITY offlineNotify.accesskey         "t">
+<!ENTITY offlineNotifyExceptions.label   "Eceçioìn…">
+<!ENTITY offlineNotifyExceptions.accesskey "E">
+
+<!ENTITY offlineAppsList.label           "Sti scîti web an sarvòu dæti pe êse uzæ fêua linia:">
+<!ENTITY offlineAppsList.height          "7em">
+<!ENTITY offlineAppsListRemove.label     "Leva da mêzo…">
+<!ENTITY offlineAppsListRemove.accesskey "L">
+<!ENTITY offlineAppRemove.confirm        "Leva da mêzo i dæti fêua linia">
+
+<!ENTITY encryptionTab.label             "Criptaçión">
+
+<!ENTITY protocols.label                 "Pròtocòlli">
+<!ENTITY useSSL3.label                   "Ûza SSL 3.0">
+<!ENTITY useSSL3.accesskey               "3">
+<!ENTITY useTLS1.label                   "Ûza TLS 1.0">
+<!ENTITY useTLS1.accesskey               "1">
+<!ENTITY certificates.label              "Certificâti">
+<!ENTITY certSelection.description       "Quando un server o domanda i mæ certificâti:">
+<!ENTITY certs.auto                      "Seleçionn-a un in aotomàtico">
+<!ENTITY certs.auto.accesskey            "l">
+<!ENTITY certs.ask                       "Domandamelo tùtte e vòtte">
+<!ENTITY certs.ask.accesskey             "D">
+<!ENTITY viewCerts.label                 "Fanni védde certificâti">
+<!ENTITY viewCerts.accesskey             "F">
+<!ENTITY viewCRLs.label                  "Lista de aboliçión">
+<!ENTITY viewCRLs.accesskey              "L">
+<!ENTITY verify2.label                   "Validaçión">
+<!ENTITY verify2.accesskey               "V">
+<!ENTITY viewSecurityDevices.label       "Aparâti">
+<!ENTITY viewSecurityDevices.accesskey   "A">

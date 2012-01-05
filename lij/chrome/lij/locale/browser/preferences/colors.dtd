@@ -1,0 +1,34 @@
+<!--
+# Translator(s):
+#
+# gastaz <alessio.gastaldi@libero.it>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# gastaz <alessio.gastaldi@libero.it>
+#
+-->
+<!ENTITY  colorsDialog.title              "Coî">
+<!ENTITY  window.width                    "38em">
+<!ENTITY  window.macWidth                 "41em">
+
+<!ENTITY  allowPagesToUse.label           "Permétti a-e pàgine de scélie i coî">
+<!ENTITY  allowPagesToUse.accesskey       "a">
+
+<!ENTITY  color                           "Testo e sfondo">
+<!ENTITY  textColor.label                 "Testo:">
+<!ENTITY  textColor.accesskey             "T">
+<!ENTITY  backgroundColor.label           "Sfondo">
+<!ENTITY  backgroundColor.accesskey       "S">
+<!ENTITY  useSystemColors.label           "Ûza i coî de scistêma">
+<!ENTITY  useSystemColors.accesskey       "s">
+
+<!ENTITY  underlineLinks.label            "Sotolinia colegamenti">
+<!ENTITY  underlineLinks.accesskey        "S">
+<!ENTITY  links                           "Coî di colegamenti">
+<!ENTITY  linkColor.label                 "Colegamenti no vìxitæ:">
+<!ENTITY  linkColor.accesskey             "l">
+<!ENTITY  visitedLinkColor.label          "Colegamenti vìxitæ:">
+<!ENTITY  visitedLinkColor.accesskey      "v">

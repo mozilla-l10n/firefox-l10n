@@ -1,0 +1,209 @@
+<!ENTITY accountSetupTitle.label "Configoraçión de &syncBrand.fullName.label;">
+<!ENTITY setup.pickSetupType.description "Benvegûo, se no t'æ mâi uzòu o &syncBrand.fullName.label; alôa ti devi creâ prìmma 'n nêuvo account.">
+<!ENTITY button.createNewAccount.label "Crea 'n nêuvo account">
+<!ENTITY setup.haveAccount.label "Gh'ò za in account &syncBrand.fullName.label;">
+<!ENTITY button.haveAccount.label      "Gh'ò za in account">
+<!ENTITY button.connect.label "Connétti">
+<!ENTITY setup.choicePage.title.label "T'æ za ûzòu &syncBrand.fullName.label;?">
+<!ENTITY setup.choicePage.new.label "Mi no l'ò mâi uzòu o &syncBrand.shortName.label;">
+<!ENTITY setup.choicePage.existing.label "Mi l'ûzo za o &syncBrand.shortName.label; ma in sciô 'n'âtro computer">
+<!ENTITY server.label "Server">
+<!ENTITY serverType.main.label "Server de &syncBrand.fullName.label;">
+<!ENTITY serverType.custom2.label "Ûza in server personalizòu…">
+<!ENTITY signIn.account2.label "Account">
+<!ENTITY signIn.account2.accesskey "A">
+<!ENTITY signIn.password.label "paròlla segrétta">
+<!ENTITY signIn.password.accesskey "P">
+<!ENTITY signIn.syncKey.label "Ciâve Sync">
+<!ENTITY signIn.syncKey.accesskey "y">
+<!ENTITY setup.newAccountDetailsPage.title.label "Detàli do Account">
+<!ENTITY setup.emailAddress.label "Indirìsso de pòsta">
+<!ENTITY setup.emailAddress.accesskey "e">
+<!ENTITY setup.choosePassword.label "Çerni 'na paròlla segrétta">
+<!ENTITY setup.choosePassword.accesskey "w">
+<!ENTITY setup.confirmPassword.label "Confèrma Paròlla Segrétta">
+<!ENTITY setup.confirmPassword.accesskey "C">
+<!ENTITY setup.tosAgree1.label "Son d'acòrdio con i">
+<!ENTITY setup.tosAgree1.accesskey "A">
+<!ENTITY setup.tosLink.label "Termini do servìçio">
+<!ENTITY setup.tosAgree2.label "e a">
+<!ENTITY setup.ppLink.label "Polìtica da Privacy">
+<!ENTITY setup.tosAgree3.label "">
+<!ENTITY setup.tosAgree2.accesskey "">
+<!ENTITY setup.newSyncKeyPage.title.label "O &brandShortName; o gh'à a cheu a teu privacy">
+<!ENTITY setup.newSyncKeyPage.description.label "Pe garantî a teu privacy, tùtti i teu dæti son criptê prìmma de vegnî caregæ. A ciâve Sync serve a descriptâ i dæti a no vegne caregâ.">
+<!ENTITY syncKeyEntry.label "Ciâve Sync">
+<!ENTITY syncKeyEntry.accesskey "C">
+<!ENTITY syncGenerateNewKey.label "Genera 'na nêuva ciâve">
+<!ENTITY syncKeyBackup.description "A teu ciâve Sync a l'é domandâ pe acéde a &syncBrand.fullName.label; da e âtre machine. Pe favô fannitene 'na còpia. Niâtri no te póemmo agiùdâ a repigiâ a teu ciâve Sync.">
+<!ENTITY button.syncKeyBackup.print.label "Stànpa…">
+<!ENTITY button.syncKeyBackup.print.accesskey "n">
+<!ENTITY button.syncKeyBackup.save.label "Sarva…">
+<!ENTITY button.syncKeyBackup.save.accesskey "S">
+<!ENTITY setup.captchaPage2.title.label "Òua veuggio in pö védde se t'ê in robot">
+<!ENTITY addDevice.title.label "Azónzi un aparâto">
+<!ENTITY addDevice.showMeHow.label "Famme védde cómme.">
+<!ENTITY addDevice.dontHaveDevice.label "L'aparâto o no ghe l'ò òua">
+<!ENTITY addDevice.setup.description.label 'Pe ativâ vanni inte preferençe de &syncBrand.shortName.label; in sci âtri aparâti e seleçionn-a "Azónzi ʼn Aparâto".'>
+<!ENTITY addDevice.setup.enterCode.label "Inserire il seguente codice:">
+<!ENTITY addDevice.dialog.description.label 'Pe ativâ o teu nêuvo aparâto vanni inte preferençe de &syncBrand.shortName.label; in sciô teu aparâto e seleçionn-a "Conétti".'>
+<!ENTITY addDevice.dialog.enterCode.label "Inserisci o còdice che o te dixe l'aparâto:">
+<!ENTITY addDevice.dialog.tryAgain.label "Preuva ancón">
+<!ENTITY addDevice.dialog.successful.label "L'aparâto o l'é stæto azónto. A prìmma iniçializaçión peu pigiâ quàrche menùto e a finiâ tanto chi ti fæ dell'âtro.">
+<!ENTITY addDevice.dialog.syncKey.label "Pe ativâ o teu aparâto ti devi inserî a teu ciâve Sync. Pe favo sarvâ ò stànpa sta ciâve e pòrtila con ti.">
+<!ENTITY addDevice.dialog.connected.label  "Aparâto Conesso">
+<!ENTITY setup.signInPage.title.label "Intra">
+<!ENTITY existingSyncKey.description 'Ti peu pigiâ ʼna còpia da teu ciâve Sync se ti væ inte preferençe do &syncBrand.shortName.label; inti âtri aparâti e ti seleçionn-i "Ciâve Sync" inta "Gestión do Account".'>
+
+<!ENTITY pairDevice.title.label             "Fanni 'na cobbia de 'n aparâto">
+<!ENTITY pairDevice.dialog.description.label "Pe ativâ o teu nêuvo aparâto seleçionn-a &#x0022;Inpòsta Sync&#x0022; in sciô teu âtro aparâto.">
+<!ENTITY pairDevice.setup.description.label  "Pe ativâ, seleçionn-a &#x0022;Fanni 'na cobbia de 'n aparâto&#x0022; in sciô teu âtro aparâto.">
+
+<!ENTITY verifying.label "Verifico…">
+<!ENTITY resetPassword.label "Reinpòsta a paròlla segrétta">
+<!ENTITY resetSyncKey.label "Ò perso o mæ âtro aparâto.">
+<!ENTITY setup.optionsPage.title "Inpostaçioìn de sincronizaçión">
+<!ENTITY syncComputerName.label "Nómme do computer:">
+<!ENTITY syncComputerName.accesskey "u">
+<!ENTITY syncMy.label "Sincronizza">
+<!ENTITY engine.bookmarks.label "Segnalìbbri">
+<!ENTITY engine.bookmarks.accesskey "e">
+<!ENTITY engine.tabs.label "Féuggi">
+<!ENTITY engine.tabs.accesskey "h">
+<!ENTITY engine.history.label "Stöia">
+<!ENTITY engine.history.accesskey "i">
+<!ENTITY engine.passwords.label "paròlle segrétte">
+<!ENTITY engine.passwords.accesskey "t">
+<!ENTITY engine.prefs.label "Preferençe">
+<!ENTITY engine.prefs.accesskey "n">
+<!ENTITY choice2.merge.main.label "Unisci i dæti de sto computer con i mæ dæti de &syncBrand.shortName.label;">
+<!ENTITY choice2.merge.recommended.label "Racomandòu:">
+<!ENTITY choice2.client.main.label "Rinpiassa tùtti i dæti de sto computer con i mæ dæti de &syncBrand.shortName.label;">
+<!ENTITY choice2.server.main.label "Rimpiassa tùtte i âtri device co sti dæti">
+<!ENTITY setup.optionsConfirmPage.title "Confèrma">
+<!ENTITY confirm.merge.label "O &syncBrand.fullName.label; uniâ i dæti de sto computer con quelli do teu account Sync.">
+<!ENTITY confirm.client2.label "Atençión: Sti dæti de &brandShortName; in sto computer saiân scancelæ:">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName; o copiâ i dæti de &syncBrand.fullName.label; in sto computer.">
+<!ENTITY confirm.server2.label "Atençión: Sti aparâti saiân sóvrascritti co-i teu dæti locali:">
+<!ENTITY setup.successPage.title "Instalaçión finîa">
+<!ENTITY changeOptions.label "Ti peu cangiâ ste inpostaçioìn chi sótta inte preferençe de Sincronizaçión.">
+<!ENTITY continueUsing.label "Òua ti peu continoâ co-o &brandShortName;.">
+
+<!ENTITY setup.newRecoveryKeyPage.title.label "O &brandShortName; o gh'à a cheu a teu privacy">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Pe garantî a teu privacy, tùtti i teu dæti son criptê prìmma de vegnî caregæ. A ciâve de ripristino a serve a descriptâ i dæti a no vegne caregâ.">
+<!ENTITY recoveryKeyBackup.description "A teu ciâve de ripristino a l'é domandâ pe acéde a &syncBrand.fullName.label; da e âtre machine. Pe favô fannitene 'na còpia. Niâtri no te póemmo agiùdâ a repigiâ a teu ciâve Sync.">
+<!ENTITY recoveryKeyEntry.label "A teu Ciâve de ripristino">
+<!ENTITY recoveryKeyEntry.accesskey "A">
+<!ENTITY addDevice.dialog.recoveryKey.label  "Pe ativâ o teu aparâto ti devi inserî a teu ciâve di ripristino. Pe favo sarvâ ò stànpa sta ciâve e pòrtila con ti.">
+<!ENTITY existingRecoveryKey.description "Ti peu pigiâ ʼna còpia da teu ciâve de ripristino se ti væ inte preferençe do &syncBrand.shortName.label; inti âtri aparâti e ti seleçionn-i &#x0022;Ciâve de ripristino&#x0022; inta &#x0022;Gestión do Account&#x0022;.">
+<!ENTITY signIn.recoveryKey.label       "Ciâve de Ripristino">
+<!ENTITY signIn.recoveryKey.accesskey   "C">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

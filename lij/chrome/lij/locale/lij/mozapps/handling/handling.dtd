@@ -1,0 +1,17 @@
+<!--
+# Translator(s):
+#
+# gastaz <alessio.gastaldi@libero.it>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# gastaz <alessio.gastaldi@libero.it>
+#
+-->
+<!ENTITY window.emWidth "26em">
+<!ENTITY window.emHeight "26em">
+<!ENTITY ChooseApp.description "Scegli 'na Aplicaçión">
+<!ENTITY ChooseApp.label "Scegli…">
+<!ENTITY ChooseApp.accessKey "C">

@@ -1,0 +1,21 @@
+override chrome://global/locale/netError.dtd chrome://browser/locale/netError.dtd
+locale pipnss lij chrome/lij/locale/lij/pipnss/
+locale global-platform lij chrome/lij/locale/lij/global-platform/
+override chrome://mozapps/locale/downloads/settingsChange.dtd chrome://browser/locale/downloads/settingsChange.dtd
+locale browser-region lij chrome/lij/locale/browser-region/
+override chrome://global/locale/appstrings.properties chrome://browser/locale/appstrings.properties
+locale browser lij chrome/lij/locale/browser/
+locale pippki lij chrome/lij/locale/lij/pippki/
+locale global lij chrome/lij/locale/lij/global/
+locale branding lij chrome/lij/locale/branding/
+locale places lij chrome/lij/locale/lij/places/
+locale weave lij chrome/lij/locale/lij/
+locale testpilot lij chrome/lij/locale/feedback/
+manifest chrome/lij.manifest
+locale autoconfig lij chrome/lij/locale/lij/autoconfig/
+locale necko lij chrome/lij/locale/lij/necko/
+locale global-region lij chrome/lij/locale/lij/global-region/
+locale mozapps lij chrome/lij/locale/lij/mozapps/
+locale alerts lij chrome/lij/locale/lij/alerts/
+locale passwordmgr lij chrome/lij/locale/lij/passwordmgr/
+locale cookie lij chrome/lij/locale/lij/cookie/

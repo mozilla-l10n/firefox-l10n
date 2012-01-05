@@ -1,0 +1,24 @@
+<!--
+# Translator(s):
+#
+# gastaz <alessio.gastaldi@libero.it>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# gastaz <alessio.gastaldi@libero.it>
+#
+-->
+<!ENTITY dialog.title             "Personalizza Bâra">
+<!ENTITY dialog.style             "width: 86ch; height: 36em;">
+<!ENTITY instructions.description "Ti peu azónze ò eliminâ i ògétti rebelandoli inte ò fêua de bâre.">
+<!ENTITY show.label               "Fanni védde:">
+<!ENTITY iconsAndText.label       "Icone e Testo">
+<!ENTITY icons.label              "Icone">
+<!ENTITY text.label               "Testo">
+<!ENTITY useSmallIcons.label      "Ûza icone piccìnn-e">
+<!ENTITY restoreDefaultSet.label  "Remétti predefinîo">
+<!ENTITY addNewToolbar.label      "Azónzi Nêuva Bâra">
+<!ENTITY saveChanges.label        "Fæto">
+<!ENTITY undoChanges.label        "Anùlla i cangi">

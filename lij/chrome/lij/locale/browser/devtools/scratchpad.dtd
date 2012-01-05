@@ -1,0 +1,58 @@
+<!ENTITY window.title "Blòcco pe-i apónti">
+<!ENTITY fileMenu.label "File">
+<!ENTITY fileMenu.accesskey "F">
+<!ENTITY newWindowCmd.label "Nêuvo barcón">
+<!ENTITY newWindowCmd.accesskey "N">
+<!ENTITY newWindowCmd.commandkey "n">
+<!ENTITY openFileCmd.label "Arvi file…">
+<!ENTITY openFileCmd.accesskey "A">
+<!ENTITY openFileCmd.commandkey "o">
+<!ENTITY saveFileCmd.label "Sarva">
+<!ENTITY saveFileCmd.accesskey "S">
+<!ENTITY saveFileCmd.commandkey "s">
+<!ENTITY saveFileAsCmd.label "Sarva co-o nómme…">
+<!ENTITY saveFileAsCmd.accesskey "v">
+<!ENTITY closeCmd.label "Særa">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "C">
+<!ENTITY editMenu.label "Càngia">
+<!ENTITY editMenu.accesskey "M">
+<!ENTITY undoCmd.label "Anùlla">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "A">
+<!ENTITY redoCmd.label "Ripeti">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "R">
+<!ENTITY cutCmd.label "Taggia">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "T">
+<!ENTITY copyCmd.label "Càpia">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "C">
+<!ENTITY pasteCmd.label "Incòlla">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "I">
+<!ENTITY selectAllCmd.label "Seleçionn-a tùtto">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "u">
+<!ENTITY run.label "Ezegoi">
+<!ENTITY run.accesskey "s">
+<!ENTITY run.key "r">
+<!ENTITY inspect.label "Ispeçionn-a">
+<!ENTITY inspect.accesskey "z">
+<!ENTITY inspect.key "i">
+<!ENTITY display.label "Fanni védde">
+<!ENTITY display.accesskey "F">
+<!ENTITY display.key "v">
+<!ENTITY environmentMenu.label "Anbiênte">
+<!ENTITY environmentMenu.accesskey "A">
+<!ENTITY contentContext.label "Contegnûo">
+<!ENTITY contentContext.accesskey "C">
+<!ENTITY browserContext.label "Navegatô">
+<!ENTITY browserContext.accesskey "N">
+<!ENTITY resetContext2.label "Reinpòsta variabili">
+<!ENTITY resetContext2.accesskey "m">
+<!ENTITY executeMenu.label "Ezecoçión">
+<!ENTITY executeMenu.accesskey "E">
+<!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY webConsoleCmd.commandkey "k">
