@@ -41,7 +41,9 @@
 <!ENTITY connectionSettings.label        "Inpostaçioìn…">
 <!ENTITY connectionSettings.accesskey    "I">
 
-<!ENTITY offlineStorage.label            "Sarvataggio fêua linia">
+<!ENTITY httpCache.label                 "Cached Web Content">
+
+<!ENTITY offlineStorage2.label           "Offline Web Content and User Data">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -54,6 +56,8 @@
 <!ENTITY limitCacheSizeAfter.label       "MB de spàçio">
 <!ENTITY clearCacheNow.label             "Scancelâ Òua">
 <!ENTITY clearCacheNow.accesskey         "c">
+<!ENTITY clearOfflineAppCacheNow.label   "Clear Now">
+<!ENTITY clearOfflineAppCacheNow.accesskey "N">
 <!ENTITY overrideSmartCacheSize.label    "Ignòra a gestión aotomàtica da cache">
 <!ENTITY overrideSmartCacheSize.accesskey "o">
 
@@ -77,8 +81,6 @@
 <!ENTITY useService.accesskey            "a">
 
 <!ENTITY updateOthers.label              "Agiornaménti aotomàtici:">
-<!ENTITY enableAddonsUpdate3.label       "Conponénti azónti">
-<!ENTITY enableAddonsUpdate3.accesskey   "o">
 <!ENTITY enableSearchUpdate.label        "Motô de riçerca">
 <!ENTITY enableSearchUpdate.accesskey    "M">
 
@@ -87,7 +89,7 @@
 <!ENTITY offlineNotifyExceptions.label   "Eceçioìn…">
 <!ENTITY offlineNotifyExceptions.accesskey "E">
 
-<!ENTITY offlineAppsList.label           "Sti scîti web an sarvòu dæti pe êse uzæ fêua linia:">
+<!ENTITY offlineAppsList2.label          "The following websites are allowed to store data for offline use:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Leva da mêzo…">
 <!ENTITY offlineAppsListRemove.accesskey "L">

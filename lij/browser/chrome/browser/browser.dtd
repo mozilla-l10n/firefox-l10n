@@ -217,8 +217,17 @@ can reach it easily. -->
 <!ENTITY inspectButton.label            "Ispeçionn-a">
 <!ENTITY inspectButton.accesskey        "I">
 <!ENTITY inspectCloseButton.tooltiptext "Særa l'ispetô">
+<!ENTITY inspect3DButton.label        "3D">
+<!ENTITY inspect3DButton.accesskey    "M">
 <!ENTITY inspectStyleButton.label     "Stile">
 <!ENTITY inspectStyleButton.accesskey "S">
+
+<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
+  -  in the Tools menu. -->
+<!ENTITY styleeditor.label            "Style Editor">
+<!ENTITY styleeditor.accesskey        "y">
+<!ENTITY styleeditor.keycode          "VK_F7">
+<!ENTITY styleeditor.keytext          "F7">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Piggia ciù struménti">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "m">
@@ -422,23 +431,35 @@ can reach it easily. -->
 <!ENTITY thisFrameMenu.accesskey          "S">
 
 <!-- Media (video/audio) controls -->
-<!ENTITY mediaPlay.label             "Riproduçión">
-<!ENTITY mediaPlay.accesskey         "p">
+<!-- LOCALIZATION NOTE: The access keys for "Play" and
+"Pause" are the same because the two context-menu
+items are mutually exclusive. -->
+<!ENTITY mediaPlay.label             "Play">
+<!ENTITY mediaPlay.accesskey         "P">
 <!ENTITY mediaPause.label            "Pösa">
 <!ENTITY mediaPause.accesskey        "P">
-<!ENTITY mediaMute.label             "Mùtto">
+<!-- LOCALIZATION NOTE: The access keys for "Mute" and
+"Unmute" are the same because the two context-menu
+items are mutually exclusive. -->
+<!ENTITY mediaMute.label             "Mute">
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "Fanni sentî">
 <!ENTITY mediaUnmute.accesskey       "F">
-<!ENTITY mediaShowControls.label     "Fanni védde i contròlli">
-<!ENTITY mediaShowControls.accesskey "c">
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
+<!ENTITY mediaShowControls.label     "Show Controls">
+<!ENTITY mediaShowControls.accesskey "C">
 <!ENTITY mediaHideControls.label     "Ascóndi i contròlli">
 <!ENTITY mediaHideControls.accesskey "c">
 <!ENTITY videoFullScreen.label       "A tùtto schermo">
 <!ENTITY videoFullScreen.accesskey   "A">
 <!ENTITY videoSaveImage.label        "Sarva l'inmàgine cómme…">
 <!ENTITY videoSaveImage.accesskey    "S">
-<!ENTITY videoShowStats.label        "Fanni védde e statistiche">
+<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
+"Hide Statistics" are the same because the two context-menu
+items are mutually exclusive. -->
+<!ENTITY videoShowStats.label        "Show Statistics">
 <!ENTITY videoShowStats.accesskey    "t">
 <!ENTITY videoHideStats.label        "Ascondi e statistiche">
 <!ENTITY videoHideStats.accesskey    "t">

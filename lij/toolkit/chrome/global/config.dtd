@@ -43,9 +43,9 @@
 <!ENTITY aboutWarningButton.label "Saiö aténto, prométto!">
 <!ENTITY aboutWarningCheckbox.label "Fanni védde sto alàrme a pròscima vòtta">
 
-<!ENTITY filterPrefs.label "Filtro:">
-<!ENTITY filterPrefs.accesskey "F">
-<!ENTITY focusFilter.key "f">
+<!ENTITY searchPrefs.label "Search:">
+<!ENTITY searchPrefs.accesskey "r">
+<!ENTITY focusSearch.key "r">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "Nómme da preferensa">

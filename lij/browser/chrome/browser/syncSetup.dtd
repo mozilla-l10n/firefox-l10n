@@ -2,7 +2,7 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "Benvegûo, se no t'æ mâi uzòu o &syncBrand.fullName.label; alôa ti devi creâ prìmma 'n nêuvo account.">
+<!ENTITY setup.pickSetupType.description2 "Welcome! If you've never used &syncBrand.fullName.label; before, you will need to create a new account.">
 <!ENTITY button.createNewAccount.label "Crea 'n nêuvo account">
 <!ENTITY button.haveAccount.label      "Gh'ò za 'n Account">
 
@@ -88,6 +88,8 @@
 <!ENTITY engine.passwords.accesskey "p">
 <!ENTITY engine.prefs.label         "Preferençe">
 <!ENTITY engine.prefs.accesskey     "P">
+<!ENTITY engine.addons.label        "Add-ons">
+<!ENTITY engine.addons.accesskey    "A">
 
 <!ENTITY choice2.merge.main.label      "Unisci i dæti de sto computer con i mæ dæti de &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Racomandòu:">

@@ -3,7 +3,7 @@
 
 <!-- entities split out from browser.dtd -->
 <!ENTITY next.label "Pròscimo">
-<!ENTITY next.accesskey "P">
+<!ENTITY next.accesskey "r">
 <!ENTITY next.tooltip "Trêuva a pròscima ripetiçión do testo da çercâ">
 <!ENTITY previous.label "Precedénte">
 <!ENTITY previous.accesskey "P">
