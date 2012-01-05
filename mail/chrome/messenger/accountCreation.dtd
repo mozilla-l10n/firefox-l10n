@@ -49,6 +49,8 @@
 <!ENTITY half-manual-test.accesskey      "T">
 <!ENTITY manual-edit.label               "Manuelle innstillingar">
 <!ENTITY manual-edit.accesskey           "M">
+<!ENTITY switch-to-provisioner.label     "Få ein ny konto">
+<!ENTITY switch-to-provisioner.accesskey "F">
 
 
 <!ENTITY warning.label                   "Åtvaring!">
