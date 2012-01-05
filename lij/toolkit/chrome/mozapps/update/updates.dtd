@@ -60,14 +60,14 @@
 <!ENTITY  errorManual.label               "Ti ti peu agiornâ &brandShortName; a màn vixitando sto colegamento
                                            e descaregando l'ùrtima versción:">
                                            
-<!ENTITY  errorpatching.intro             "O agiornaménto parçiale o no va bén. 
+<!ENTITY  errorpatching.intro             "L'agiornaménto parçiale o no va bén. 
                                            O &brandShortName; o proviâ ancón a descaregâ l'agiornaménto conplêto.">
 
 <!ENTITY  genericBackgroundError.label    "O &brandShortName; o no l'ariesce a capî se gh'é di agiornaménti. Pe favô
                                            te peu miga amiâ se ti gh'æ l'ùrtima versción de &brandShortName; da:">
 <!ENTITY  errorCertAttrNoUpdate2.label    "Quarcösa inpedisce a &brandShortName; de agiórnase in seguéssa.
                                            Contròlla se ti gh'æ l'ùrtima versción de &brandShortName; da:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Quarcösa a prêuva a inbrogiâ o &brandShortName; pe fâ
+<!ENTITY  errorCertAttrHasUpdate.label    "Quarcösa prêuva a inbrogiâ o &brandShortName; pe fâ
                                            acetâ in agiornaménto no segûo. Pe favô ciàmma o gestô da teu ræ pe avéi agiùtto.">
 
 <!ENTITY  finishedPage.title              "Agiornaménto pronto da Instalâ">

@@ -10,7 +10,7 @@
 <!ENTITY deniedPortAccess.longDesc "<p>A pòrta domandâ (ez. <q>mozilla.org:80</q> pa-a pòrta 80 in sciô mozilla.org) l'é uzâ pe <em>âtri</em> fìn che no seggian a navegaçión. O browser l'à scancelòu a domanda pe a teu proteçión e seguéssa.</p>">
 
 <!ENTITY dnsNotFound.title "Indirìsso no trovòu">
-<!ENTITY dnsNotFound.longDesc "<p>O browser no treuva o server pe l'indirìsso che t'æ scrîto.</p><ul><li>T'æ miga fæto 'n erô a scrîve? (ez. <q><strong>ww</strong>.mozilla.org</q> pe contro de <q><strong>www</strong>.mozilla.org</q>)</li><li>T'ê segûo che l'indirìsso l'exìsta?  Fòscia l'indirìsso o l'é scæito.</li><li>No ti riêsci a navegâ inti âtri scîti?  Contròlla a teu conesción e o teu DNS.</li><li>O teu computer l'é miga protetto da 'n firewall ò proxy?  Se ti gh'æ 'na inpostaçión sbaliâ ti no peu navegâ.</li></ul>">
+<!ENTITY dnsNotFound.longDesc "<p>O browser no treuva o server pe l'indirìsso che t'æ scrîto.</p><ul><li>T'æ miga fæto 'n erô a scrîve? (ez. <q><strong>ww</strong>.mozilla.org</q> pe contro de <q><strong>www</strong>.mozilla.org</q>)</li><li>T'ê segûo che l'indirìsso l'exìsta?  Fòscia l'indirìsso o l'é scæito.</li><li>Ti no riêsci a navegâ inti âtri scîti?  Contròlla a teu conesción e o teu DNS.</li><li>O teu computer o l'é miga protetto da 'n firewall ò proxy?  Se ti gh'æ 'na inpostaçión sbaliâ ti no peu navegâ.</li></ul>">
 
 <!ENTITY fileNotFound.title "File no trovòu">
 <!ENTITY fileNotFound.longDesc "<ul><li>Peu êse che l'ògétto l'é stæto rinominòu, eliminòu ò mesciòu?</li><li>Gh'é quàrche erô into l'indirìsso?</li><li>Ti gh'é i pérmissi pe acêde a l'ògétto?</li></ul>">
@@ -40,7 +40,7 @@
 <!ENTITY netReset.longDesc "<p>O colegamento o l'é stæto fermòu inta negoçiaçión da conesción. Pe favô prêuva ancón.</p>">
 
 <!ENTITY netTimeout.title "A ræ a no respónde">
-<!ENTITY netTimeout.longDesc "<p>O scîto che t'æ domandòu no respónde e o browser o s'é fermòu de aspetâ a resposta.</p><ul><li>Fòscia o server gh'à 'n'âta domanda ò un problêma tenporaneo?  Preuva ancón dòppo.</li><li>No ti riêsci a navegâ inti âtri scîti? Controlla a conesción do teu computer.</li><li>O teu computer ò a teu conesción en protetti da 'n firewall ò proxy?  Se e teu inpostaçioìn son sbaliæ peuan interferî co-a navegaçión.</li><li>Ti gh'æ ancón di problêmi?  Ciàmma o teu aministratô da ræ ò fornitô de serviççi internet pe ascisténsa.</li></ul>">
+<!ENTITY netTimeout.longDesc "<p>O scîto che t'æ domandòu no respónde e o browser o s'é fermòu de aspetâ a risposta.</p><ul><li>Fòscia o server gh'à 'n'âta domanda ò un problêma tenporaneo?  Preuva ancón dòppo.</li><li>No ti riêsci a navegâ inti âtri scîti? Controlla a conesción do teu computer.</li><li>O teu computer ò a teu conesción en protetti da 'n firewall ò proxy?  Se e teu inpostaçioìn son sbaliæ peuan interferî co-a navegaçión.</li><li>Ti gh'æ ancón di problêmi?  Ciàmma o teu aministratô da ræ ò fornitô de serviççi internet pe ascisténsa.</li></ul>">
 
 <!ENTITY protocolNotFound.title "Protocòllo no conosciûo">
 <!ENTITY protocolNotFound.longDesc "<p>O indirìsso o l'à un protocòllo (ez. <q>wxyz://</q>) che mi n'ou conoscio coscì no riêscio a conétime a-o scîto.</p><ul><li>Ti prêuvi miga a lêze di contegnûi moltimediali? Contròlla se a-o scîto ghe serve quàrche âtro angæzo.</li><li>Quàrche protocòllo peu domandâ de aplicaçión o plugin de terçe parti.</li></ul>">
@@ -49,7 +49,7 @@
 <!ENTITY proxyConnectFailure.longDesc "<p>O browser o l'é inpostòu pe uzâ un server proxy ma o proxy o refûa e conescioìn.</p><ul><li>E inpostaçioìn proxy do navegatô son giùste? Contròlla e preuva ancón.</li><li>O proxy permétte e conescioìn da sta ræ?</li><li>Ti gh'æ ancón di problêmi? Ciàmma o teu aministratô da ræ ò fornitô de serviççi internet pe ascisténsa.</li></ul>">
 
 <!ENTITY proxyResolveFailure.title "No tròvo o proxy">
-<!ENTITY proxyResolveFailure.longDesc "<p>O browser o l'é inpostòu pe uzâ un server proxy ma o proxy o refûa e conescioìn.</p><ul><li>E inpostaçioìn proxy do navegatô son giùste? Contròlla e preuva ancón.</li><li>O proxy permétte e conescioìn da sta ræ?</li><li>Ti gh'æ ancón di problêmi? Ciàmma o teu aministratô da ræ ò fornitô de serviççi internet pe ascisténsa.</li></ul>">
+<!ENTITY proxyResolveFailure.longDesc "<p>O navegatô o l'é inpostòu pe uzâ un server proxy ma o proxy o refûa e conescioìn.</p><ul><li>E inpostaçioìn proxy do navegatô son giùste? Contròlla e prêuva ancón.</li><li>O proxy permétte e conescioìn da sta ræ?</li><li>Ti gh'æ ancón di problêmi? Ciàmma o teu aministratô da ræ ò fornitô de serviççi internet pe ascisténsa.</li></ul>">
 
 <!ENTITY redirectLoop.title "Redireçionn-a o Loop">
 <!ENTITY redirectLoop.longDesc "<p>O browser s'é fermòu de preuvâ a riçéive l'ògétto domandòu. O scîto o fa de redireçioìn che no finiscian mâi.</p><ul><li>T'æ dizabilitòu ò blocòu i cookie domandæ da sto scîto?</li><li><em>NÒTTA</em>: Se ti acetti i cookie do scîto e no ti risòlvi o problêma porieivan êse e inpostaçioìn do server e no do teu computer.</li></ul>">

@@ -58,7 +58,7 @@ can reach it easily. -->
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY goOfflineCmd.label "Loua fêua linia">
+<!ENTITY goOfflineCmd.label "Lòua fêua linia">
 <!ENTITY goOfflineCmd.accesskey "L">
 
 <!ENTITY menubarCmd.label "Bâra do Menu">

@@ -11,7 +11,7 @@
 <!ENTITY cmd.close.key                  "w">
 <!ENTITY views.label                    "Vìste">
 <!ENTITY views.accesskey                "V">
-<!ENTITY views.tooltip                  "Cangia a teu vista">
+<!ENTITY views.tooltip                  "Càngia a teu vìsta">
 <!ENTITY view.columns.label             "Fanni védde e colònne">
 <!ENTITY view.columns.accesskey         "c">
 <!ENTITY view.sort.label                "Órdina">
@@ -87,7 +87,7 @@
 <!ENTITY col.keyword.label       "Paròlla ciâve">
 <!ENTITY col.description.label   "Descriçión">
 <!ENTITY col.dateadded.label     "Azónto">
-<!ENTITY col.lastmodified.label  "Ùrtimo modificòu">
+<!ENTITY col.lastmodified.label  "Cangiòu o">
 
 <!ENTITY search.label                              "Riçerca:">
 <!ENTITY search.accesskey                          "R">

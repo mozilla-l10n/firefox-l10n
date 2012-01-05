@@ -15,7 +15,7 @@
 <!ENTITY dnsNotFound.title "Indirìsso no trovòu">
 <!ENTITY dnsNotFound.longDesc "<ul>
   <li>Contròlla che l'indirìsso o no agge di eroî cómme
-    <strong>ww</strong>.ezénpio.com pe contro de
+    <strong>ww</strong>.ezénpio.com invêce de
     <strong>www</strong>.ezénpio.com</li>
   <li>Se ti no peu caregâ nisciùnn-a pagina contròlla a conesción da ræ.</li>
   <li>Se o teu computer ò ræ son protetti da un firewall ò proxy verifica se
@@ -40,7 +40,10 @@
 <!ENTITY notCached.longDesc "<p>O docùmento domandòu o no l'é disponibile inta cache de &brandShortName;.</p><ul><li>Cómme mezûa de seguéssa, o &brandShortName; no te domanda tórna docùmenti sensibili in aotomàtico.</li><li>Sciàcca prêuva ancón pe domandâ tórna o docùmento ao scîto.</li></ul>">
 
 <!ENTITY netOffline.title "Mòddo fêua linia">
-<!ENTITY netOffline.longDesc2 "<p>O browser o l'é into mòddo fêua linia e o no peu colegase a-o ponto çernuo.</p><ul><li>O computer o l'é conésso a unn-a ræ atîva?</li><li>Sciacca &quot;Preuva tórna&quot; pe pasâ a-o mòddo in linia e caregâ a pàgina.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<ul>
+ <li>Sciàcca &quot;Prêuva ancón&quot; pe pasâ a-o mòddo in linea e caregâ tórna a pàgina.</li>
+</ul>  
+">
 
 <!ENTITY contentEncodingError.title "Erô de còdifica do contegnûo">
 <!ENTITY contentEncodingError.longDesc "<p>A pàgina che t'eu védde a no se peu vizoalizâ perché a gh'à unn-a compresción che a no l'é soportâ.</p><ul><li>Pe favô ciàmma o propiêtâio do scîto pe informâlo do problêma.</li></ul>">
