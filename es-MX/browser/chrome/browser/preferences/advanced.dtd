@@ -29,12 +29,15 @@
 <!ENTITY connectionDesc.label "Configurar cómo se conecta &brandShortName; a internet">
 <!ENTITY connectionSettings.label "Configurar…">
 <!ENTITY connectionSettings.accesskey "C">
-<!ENTITY offlineStorage.label "Capacidad de almacenamiento del modo sin conexión">
+<!ENTITY httpCache.label "Cached Web Content">
+<!ENTITY offlineStorage2.label "Offline Web Content and User Data">
 <!ENTITY limitCacheSizeBefore.label "Caché limitado a">
 <!ENTITY limitCacheSizeBefore.accesskey "L">
 <!ENTITY limitCacheSizeAfter.label "MB de espacio">
 <!ENTITY clearCacheNow.label "Limpiar ahora">
 <!ENTITY clearCacheNow.accesskey "L">
+<!ENTITY clearOfflineAppCacheNow.label "Limpiar ahora">
+<!ENTITY clearOfflineAppCacheNow.accesskey "N">
 <!ENTITY overrideSmartCacheSize.label "Anulación de administración de caché automático">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 <!ENTITY updateTab.label "Actualizar">
@@ -52,15 +55,13 @@
 <!ENTITY useService.label "Utilizar un servicio en segundo plano para instalar las actualizaciones">
 <!ENTITY useService.accesskey "b">
 <!ENTITY updateOthers.label "Actualizar automáticamente:">
-<!ENTITY enableAddonsUpdate3.label "Complementos">
-<!ENTITY enableAddonsUpdate3.accesskey "o">
 <!ENTITY enableSearchUpdate.label "Motores de búsqueda">
 <!ENTITY enableSearchUpdate.accesskey "E">
 <!ENTITY offlineNotify.label "Avisarme si un sitio desea guardar datos para usarlos sin conexión">
 <!ENTITY offlineNotify.accesskey "t">
 <!ENTITY offlineNotifyExceptions.label "Excepciones…">
 <!ENTITY offlineNotifyExceptions.accesskey "x">
-<!ENTITY offlineAppsList.label "Los siguientes sitios han guardado datos para su uso en modo sin conexión:">
+<!ENTITY offlineAppsList2.label "The following websites are allowed to store data for offline use:">
 <!ENTITY offlineAppsList.height "7em">
 <!ENTITY offlineAppsListRemove.label "Eliminar…">
 <!ENTITY offlineAppsListRemove.accesskey "E">
