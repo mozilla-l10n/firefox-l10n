@@ -1,0 +1,18 @@
+<!ENTITY aboutPage.title                        "Tietoja &brandShortName;ista">
+<!ENTITY aboutPage.faq.label                    "UKK">
+<!ENTITY aboutPage.support.label                "Tuki">
+<!ENTITY aboutPage.privacyPolicy.label          "Tietosuojakäytäntö">
+<!ENTITY aboutPage.rights.label                 "Tietoa oikeuksistasi">
+<!ENTITY aboutPage.relNotes.label               "Julkaisutiedot">
+<!ENTITY aboutPage.credits.label                "Tekijät">
+<!ENTITY aboutPage.checkForUpdates.button       "Hae päivityksiä">
+<!ENTITY aboutPage.checkForUpdates.checking     "Haetaan päivityksiä…">
+<!ENTITY aboutPage.checkForUpdates.none         "Ei päivityksiä">
+<!ENTITY aboutPage.checkForUpdates.found        "Päivitys löytyi">
+
+
+<!-- LOCALIZATION NOTE:
+     These strings are concatenated in order. Unneeded strings may be left blank.
+-->
+<!ENTITY aboutPage.licenseLink                  "Lisenssitiedot">
+<!ENTITY aboutPage.licenseLinkSuffix            ".">
