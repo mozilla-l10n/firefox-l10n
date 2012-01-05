@@ -2,9 +2,9 @@
 
 <!ENTITY startupPage.label         "Quando &brandShortName; iniçia:">
 <!ENTITY startupPage.accesskey     "Q">
-<!ENTITY startupHomePage.label     "Fanni védde a mæ pàgina iniçiâ">
-<!ENTITY startupBlankPage.label    "Fanni védde 'na pàgina giànca">
-<!ENTITY startupLastSession.label  "Fanni védde i mæ barcoìn e féuggi avèrti l'ùrtima vòtta">
+<!ENTITY startupHomePage.label     "Fànni védde a mæ pàgina iniçiâ">
+<!ENTITY startupBlankPage.label    "Fànni védde 'na pàgina giànca">
+<!ENTITY startupLastSession.label  "Fànni védde i mæ barcoìn e féuggi avèrti l'ùrtima vòtta">
 <!ENTITY restoreOnDemand.label     "No caregâ e pàgine finché son seleçionæ">
 <!ENTITY restoreOnDemand.accesskey "l">
 
@@ -20,7 +20,7 @@
 
 <!ENTITY downloads.label     "Descaregaménti">
 
-<!ENTITY showWhenDownloading.label     "Fanni védde o barcón di descaregaménti quande descarego un file">
+<!ENTITY showWhenDownloading.label     "Fànni védde o barcón di descaregaménti quande descarego un file">
 <!ENTITY showWhenDownloading.accesskey "d">
 <!ENTITY closeWhenDone.label "Særa quande o descaregaménto o l'é finîo">
 <!ENTITY closeWhenDone.accesskey "S">

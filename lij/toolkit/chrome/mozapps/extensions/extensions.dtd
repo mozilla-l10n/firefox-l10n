@@ -69,7 +69,7 @@
 <!ENTITY updates.updateSelected.tooltip       "Instàlla i Agiornaménti da lìsta">
 
 <!-- addon actions -->
-<!ENTITY cmd.showDetails.label                "Fanni védde ciù informaçioìn">
+<!ENTITY cmd.showDetails.label                "Fànni védde ciù informaçioìn">
 <!ENTITY cmd.showDetails.accesskey            "F">
 <!ENTITY cmd.findUpdates.label                "Trêuva agiornaménto">
 <!ENTITY cmd.findUpdates.accesskey            "T">
@@ -100,8 +100,8 @@
 <!ENTITY cmd.contribute.accesskey             "A">
 <!ENTITY cmd.contribute.tooltip               "Agiùtta a svilùpâ sto conponénte azónto">
 
-<!ENTITY cmd.showReleaseNotes.label           "Fanni védde e anotaçioìn da distribuçión">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Fanni védde e anotaçioìn da distribuçión de sto agiornaménto">
+<!ENTITY cmd.showReleaseNotes.label           "Fànni védde e anotaçioìn da distribuçión">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Fànni védde e anotaçioìn da distribuçión de sto agiornaménto">
 <!ENTITY cmd.hideReleaseNotes.label           "Ascondi e anotaçioìn da distribuçión">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Ascondi e anotaçioìn da distribuçión de sto agiornaménto">
 
@@ -166,13 +166,13 @@
 
 <!ENTITY search.filter2.label                 "Riçerca:">
 <!ENTITY search.filter2.installed.label       "i mæ conponénti azónti">
-<!ENTITY search.filter2.installed.tooltip     "Fanni védde i conponénti azónti instalæ">
+<!ENTITY search.filter2.installed.tooltip     "Fànni védde i conponénti azónti instalæ">
 <!ENTITY search.filter2.available.label       "Conponénti azónti dispónibili">
-<!ENTITY search.filter2.available.tooltip     "Fanni védde i conponénti azónti che se peuan instalâ">
+<!ENTITY search.filter2.available.tooltip     "Fànni védde i conponénti azónti che se peuan instalâ">
 
 <!ENTITY addon.homepage                       "Pagina Iniçiâ">
 <!ENTITY addon.details.label                  "Ciù">
-<!ENTITY addon.details.tooltip                "Fanni védde ciù informaçioìn rigoardo sto conponénte azónto">
+<!ENTITY addon.details.tooltip                "Fànni védde ciù informaçioìn rigoardo sto conponénte azónto">
 <!ENTITY addon.unknownDate                    "no conosciûo">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form

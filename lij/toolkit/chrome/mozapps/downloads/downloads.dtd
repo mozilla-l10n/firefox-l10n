@@ -17,7 +17,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.cancel.accesskey             "A">
 <!ENTITY cmd.show.label                   "Arvi cartélla ">
 <!ENTITY cmd.show.accesskey               "A">
-<!ENTITY cmd.showMac.label                "Fanni védde into Finder">
+<!ENTITY cmd.showMac.label                "Fànni védde into Finder">
 <!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.open.label                   "Arvi">
 <!ENTITY cmd.open.accesskey               "A">
@@ -44,6 +44,6 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY closeWhenDone.label              "Særa quande i descaregaménti son conpletæ">
 <!ENTITY closeWhenDone.tooltip            "Særa o barcón di descaregaménti quande son tùtti conpletæ">
 
-<!ENTITY showFolder.label                 "Fanni védde sta cartélla">
+<!ENTITY showFolder.label                 "Fànni védde sta cartélla">
 <!ENTITY searchBox.label                  "Çerca…">
 

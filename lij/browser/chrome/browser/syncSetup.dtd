@@ -54,7 +54,7 @@
 
 <!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
 <!ENTITY pairDevice.title.label             "Acóbia 'n aparâto">
-<!ENTITY addDevice.showMeHow.label          "Famme védde cómme.">
+<!ENTITY addDevice.showMeHow.label          "Fàmme védde cómme.">
 <!ENTITY addDevice.dontHaveDevice.label     "L'aparâto o no ghe l'ò òua">
 <!ENTITY pairDevice.setup.description.label  "Pe ativâ seleçionn-a &#x0022;Acóbia 'n aparâto&#x0022; in sciô teu âtro aparâto.">
 <!ENTITY addDevice.setup.enterCode.label    "Alôa, inserisci sto còdice:">

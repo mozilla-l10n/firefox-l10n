@@ -80,7 +80,7 @@ can reach it easily. -->
 <!ENTITY fullScreenCmd.label "A tùtto schermo">
 <!ENTITY fullScreenCmd.accesskey "A">
 <!ENTITY fullScreenCmd.macCommandKey "f">
-<!ENTITY showAllTabsCmd.label "Fanni védde tùtte e schede">
+<!ENTITY showAllTabsCmd.label "Fànni védde tùtte e schede">
 <!ENTITY showAllTabsCmd.accesskey "a">
 
 <!ENTITY fullScreenMinimize.tooltip "Ridùci">
@@ -102,9 +102,9 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenupopup.label "Abón-ite a sta pàgina">
 <!ENTITY subscribeToPageMenuitem.label "Abón-ite a questa pàgina…">
 <!ENTITY addCurPagesCmd.label "Azónzi tùtti i féuggi a-i segnalìbbri…">
-<!ENTITY showAllBookmarks2.label "Fanni védde tùtti i segnalìbbri">
+<!ENTITY showAllBookmarks2.label "Fànni védde tùtti i segnalìbbri">
 <!ENTITY unsortedBookmarksCmd.label "Âtri segnalìbbri">
-<!ENTITY bookmarksToolbarChevron.tooltip "Fanni védde ciù segnalìbbri">
+<!ENTITY bookmarksToolbarChevron.tooltip "Fànni védde ciù segnalìbbri">
 
 <!ENTITY backCmd.label                "Inderê">
 <!ENTITY backCmd.accesskey            "I">
@@ -150,7 +150,7 @@ can reach it easily. -->
 <!ENTITY bookmarksMenuButton.label          "Segnalìbbri">
 <!ENTITY bookmarksMenuButton.tooltip        "Vèddi i teu segnalìbbri">
 <!ENTITY bookmarksMenuButton.unsorted.label "Âtri segnalìbbri">
-<!ENTITY viewBookmarksSidebar.label         "Fanni védde inta bâra de sciànco">
+<!ENTITY viewBookmarksSidebar.label         "Fànni védde inta bâra de sciànco">
 <!ENTITY viewBookmarksToolbar.label         "Fanni védde a bâra di Segnalìbbri">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -297,7 +297,7 @@ can reach it easily. -->
 <!ENTITY historyRestoreLastSession.label "Repìggia a vêgia seçión">
 
 <!ENTITY historyHomeCmd.label "Pàgina iniçiâ">
-<!ENTITY showAllHistoryCmd2.label "Fanni védde tùtta a stöia">
+<!ENTITY showAllHistoryCmd2.label "Fànni védde tùtta a stöia">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuEdit.label "Càngia">
@@ -352,7 +352,7 @@ can reach it easily. -->
 <!ENTITY openFrameCmdInTab.accesskey  "A">
 <!ENTITY openFrameCmd.label           "Arvi riquàddro in nêuvo barcón">
 <!ENTITY openFrameCmd.accesskey       "A">
-<!ENTITY showOnlyThisFrameCmd.label     "Fanni védde sôlo sto riquàddro">
+<!ENTITY showOnlyThisFrameCmd.label     "Fànni védde sôlo sto riquàddro">
 <!ENTITY showOnlyThisFrameCmd.accesskey "s">
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Recarega o riquàddro">

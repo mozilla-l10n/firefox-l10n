@@ -113,7 +113,7 @@
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>O browser evita che sta pàgina chi a vegne caregâ a sto mòddo perché gh'à unn-a politica de seguéssa che n'ou permétte.</p>">
 
 <!ENTITY corruptedContentError.title "Erô de contegnuo corotto">
-<!ENTITY corruptedContentError.longDesc "<p>A pagina che ti çerchi de védde a no peu mostrase perché s'é atrovòu un erô inta trasmiscion di dæti.</p><ul><li>Pe piaxei, contatta i padroìn do scito pe faghe savéi de questo problêma.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>A pàgina che ti çerchi de védde a no peu mostrâse perché s'é atrovòu un erô inta trasmisción di dæti.</p><ul><li>Pe piaxei, contatta i padroìn do scîto pe faghe savéi de questo problêma.</li></ul>">
 
 
 <!ENTITY securityOverride.linkText "ò ti peu azónze 'na eceçión…">

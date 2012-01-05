@@ -12,7 +12,7 @@
 <!ENTITY views.label                    "Vìste">
 <!ENTITY views.accesskey                "V">
 <!ENTITY views.tooltip                  "Càngia a teu vìsta">
-<!ENTITY view.columns.label             "Fanni védde e colònne">
+<!ENTITY view.columns.label             "Fànni védde e colònne">
 <!ENTITY view.columns.accesskey         "c">
 <!ENTITY view.sort.label                "Órdina">
 <!ENTITY view.sort.accesskey            "Ó">

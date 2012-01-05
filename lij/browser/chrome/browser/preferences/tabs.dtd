@@ -7,12 +7,12 @@
 <!ENTITY warnOpenManyTabs.label       "Avertime quando l'arvetûa de ciù féuggi peu fâ anâ ciù lento &brandShortName;">
 <!ENTITY warnOpenManyTabs.accesskey   "o">
 
-<!ENTITY showTabBar.label             "Fanni védde sénpre a bâra di féuggi">
+<!ENTITY showTabBar.label             "Fànni védde sénpre a bâra di féuggi">
 <!ENTITY showTabBar.accesskey         "b">
 
 <!ENTITY switchToNewTabs.label        "Quando arvo un colegamento inte un nêuvo féuggio ti devi pasâ sùbito a st'ùrtimo">
 <!ENTITY switchToNewTabs.accesskey    "s">
 
-<!ENTITY showTabsInTaskbar.label          "Fanni védde l'anteprìmma inta bâra di task do Windows">
+<!ENTITY showTabsInTaskbar.label          "Fànni védde l'anteprìmma inta bâra di task do Windows">
 <!ENTITY showTabsInTaskbar.accesskey      "k">
 

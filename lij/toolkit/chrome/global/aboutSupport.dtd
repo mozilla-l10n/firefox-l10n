@@ -25,7 +25,7 @@
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.show.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
-<!ENTITY aboutSupport.showMac.label "Fanni védde into Finder">
+<!ENTITY aboutSupport.showMac.label "Fànni védde into Finder">
 
 <!ENTITY aboutSupport.modifiedPrefsTitle "Preferençe Modificæ">
 <!ENTITY aboutSupport.modifiedPrefsName "Nómme">

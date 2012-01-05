@@ -31,7 +31,7 @@
 <!ENTITY netOffline.longDesc2 "<p>O navegatô o l'é atîvo in mòddo fêua linia e o no peu colegase a-o ponto çernuo.</p><ul><li>O computer o l'é conésso a unn-a ræ atîva?</li><li>Sciacca &quot;Preuva torna&quot; pe pasâ a-o mòddo in linia e caregâ torna a pagina.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Erô de còdifica do contegnûo">
-<!ENTITY contentEncodingError.longDesc "<p>A pàgina che t'eu védde a no se peu vizoalizâ perché a gh'à unn-a compresción che a no l'é soportâ.</p><ul><li>Pe favô ciàmma o propiêtâio do scîto pe informâlo do problêma.</li></ul>">
+<!ENTITY contentEncodingError.longDesc "<p>A pàgina che t'eu védde a no se peu vizoalizâ perché a gh'à 'na compresción ch'a no l'é soportâ.</p><ul><li>Pe favô ciàmma o propiêtâio do scîto pe informâlo do problêma.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Tîpo de file no segûo">
 <!ENTITY unsafeContentType.longDesc "<p>A pàgina che t'eu védde a no se peu vizoalizâ perché a gh'à unn-a compresción che a no l'é soportâ.</p><ul><li>Pe favô ciàmma o propiêtâio do scîto pe informâlo do problêma.</li></ul>">
@@ -83,7 +83,7 @@
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>O navegatô evita che sta pàgina chi a vegne caregâ a sto mòddo perché gh'à unn-a politica de seguéssa che n'ou permétte.</p>">
 
 <!ENTITY corruptedContentError.title "Erô de contegnuo corotto">
-<!ENTITY corruptedContentError.longDesc "<p>A pagina che ti çerchi de védde a no peu mostrase perché s'é atrovòu un erô inta trasmiscion di dæti.</p><ul><li>Pe piaxei, contatta i padroìn do scito pe faghe savéi de questo problêma.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>A pàgina che ti çerchi de védde a no peu mostrâse perché s'é atrovòu un erô inta trasmisción di dæti.</p><ul><li>Pe piaxei, contatta i padroìn do scîto pe faghe savéi de questo problêma.</li></ul>">
 
 <!ENTITY remoteXUL.title "XUL Remòto">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Pe favô ciàmma o propiêtâio do scîto pe informâlo do problêma.</li></ul></p>">

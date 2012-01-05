@@ -7,7 +7,7 @@
 <!ENTITY name.label             "Nómme">
 <!ENTITY size.label             "Dimensción">
 <!ENTITY lastModified.label     "Cangiòu o">
-<!ENTITY showHiddenFiles.label  "Fanni védde e cartelle e-i file ascósi">
+<!ENTITY showHiddenFiles.label  "Fànni védde e cartelle e-i file ascósi">
 <!ENTITY showHiddenFiles.accesskey  "s">
 
 <!ENTITY noPermissionError.label "No ti gh'æ o permìsso pe védde sta cartélla.">

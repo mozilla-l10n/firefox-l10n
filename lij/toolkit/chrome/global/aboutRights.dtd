@@ -2,7 +2,7 @@
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.pagetitle       "about:rights">
 <!ENTITY rights.intro-header    "In scî teu dirîti">
-<!ENTITY rights.intro "&brandFullName; l'é 'n'aplicaçión lìbera e gh'á o sorgénte averto e o l'é fæto da 'na comunitæ de migiæe de persónn-e da tùtto o móndo. Gh'é son de cöse che ti doviêsci savéi:">
+<!ENTITY rights.intro "&brandFullName; a l'é 'n'aplicaçión lìbera e l'á o sorgénte avérto e in ciù a l'é fæta da 'na comunitæ de migiæe de persónn-e da tùtto o móndo. Gh'é son de cöse che ti doviêsci savéi:">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
@@ -14,7 +14,7 @@
      deliberate for formatting around the embedded links. -->
 <!ENTITY rights.intro-point1a "&brandShortName; te vegne dæto sótta a-i termini da ">
 <!ENTITY rights.intro-point1b "Licénsa Pùblica de Mozilla">
-<!ENTITY rights.intro-point1c ". Questo veu dî che ti ti peu uzâ, copiâ e distriboî o &brandShortName; a-i âtri. Tì t'ê benvegnûo ascì a modificâ i sorgénti de &brandShortName; pe-i teu bezéugni. A Licénsa Pùblica de Mozilla te dâ ascì o drîto de distriboî e teu verscioìn modificæ.">
+<!ENTITY rights.intro-point1c ". Questo veu dî che ti ti peu uzâ, copiâ e distriboî o &brandShortName; a-i âtri. Ti t'ê benvegnûo ascì a cangiâ i sorgénti de &brandShortName; pe-i teu bezéugni. A Licénsa Pùblica de Mozilla te dâ ànche o dirîto de distriboî e teu verscioìn modificæ.">
 
 <!ENTITY rights.intro-point2-a "Mozilla no te dâ di dirîti in sci màrchi e loghi de Mozilla e Firefox. Âtre informaçioìn in sci màrchi e loghi se peuan atrovâ ">
 <!ENTITY rights.intro-point2-b "chi">
@@ -37,9 +37,9 @@
 <!ENTITY rights.intro-point4c ".">
 
 <!-- point 4 text for unbranded builds -->
-<!ENTITY rights.intro-point4a-unbranded "Sto prodûto l'à di serviççi web. I termini di serviççi se peaun trovâ chi ">
+<!ENTITY rights.intro-point4a-unbranded "Sto prodûto o l'à di serviççi web. I termini di serviççi se peaun trovâ chi ">
 <!ENTITY rights.intro-point4b-unbranded "Serviççi do scîto">
-<!ENTITY rights.intro-point4c-unbranded "Seçión.">
+<!ENTITY rights.intro-point4c-unbranded ".">
 
 <!ENTITY rights2.webservices-header "Serviççi de &brandFullName; basê in sciâ ræ">
 

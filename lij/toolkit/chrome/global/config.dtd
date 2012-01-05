@@ -41,7 +41,7 @@
 <!ENTITY aboutWarningTitle.label "Questo o peu anùlâ a teu garançia!">
 <!ENTITY aboutWarningText.label "Cangiâ ste inpostaçioìn avansæ peu êse péigoso pe-a stabilitæ, seguéssa e prestaçioìn de sta aplicaçión. Ti dovesci continoâ sôlo se ti sæ bén quello che ti fæ.">
 <!ENTITY aboutWarningButton.label "Saiö aténto, prométto!">
-<!ENTITY aboutWarningCheckbox.label "Fanni védde sto alàrme a pròscima vòtta">
+<!ENTITY aboutWarningCheckbox.label "Fànni védde sto alàrme a pròscima vòtta">
 
 <!ENTITY searchPrefs.label "Search:">
 <!ENTITY searchPrefs.accesskey "r">
