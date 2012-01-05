@@ -121,7 +121,7 @@ can reach it easily. -->
 <!ENTITY stopCmd.accesskey            "F">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Fermite de caregâ sta pagina">
-<!ENTITY goEndCap.tooltip             "Vanni a-o indirìsso in sciâ bâra di indirìssi">
+<!ENTITY goEndCap.tooltip             "Vanni a l'indirìsso in sciâ bâra di indirìssi">
 <!ENTITY printButton.label            "Stànpa">
 <!ENTITY printButton.tooltip          "Stànpa questa pàgina">
 
