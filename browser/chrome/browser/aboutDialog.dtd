@@ -1,12 +1,26 @@
 <!ENTITY aboutDialog.title      	"Oer &brandFullName;">
 
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+<!ENTITY warningDesc.version        "&brandShortName; is eksperimenteel en kin net stabyl wêze.">
+<!-- LOCALIZATION NOTE (warningDesc.telemetry): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetry      "It stjoerd automatysk testynformaasje werom nei &vendorShortName; om &brandShortName; te helpen better te wurden.">
+
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+<!ENTITY community.exp.start        "">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+<!ENTITY community.exp.middle       " is in ">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "wrâldwide mienskip">
+<!ENTITY community.exp.end          " dy't gearwurket om it ynternet iepen, iepenbier en tagonklik te hâlden foar elkenien.">
+
 <!ENTITY community.start2           "&brandShortName; is makke troch ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", in ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "wrâldwide mienskip">
-<!ENTITY community.end2             " dy't gearwurket om it Ynternet better te meitsjen. Wy leawe dat it Ynternet iepen wêze moat, publyklik en tagonklik foar elkenien sûnder beheining.">
+<!ENTITY community.end3             " dy't gearwurket om it ynternet iepen, iepenbier en tagonklik te hâlden foar elkenien.">
 
 <!ENTITY contribute.start           "Klinkt goed? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
