@@ -4,6 +4,11 @@
 <!ENTITY  no_space_to_start_error "Não existe espaço suficiente disponível para iniciar o &brandShortName;.">
 <!ENTITY  error_loading_file "Ocorreu um erro ao tentar carregar ficheiros necessários para executar o &brandShortName;">
 
+<!ENTITY  awesomebar_all_pages_title "Top de sítios">
+<!ENTITY  awesomebar_bookmarks_title "Marcadores">
+<!ENTITY  awesomebar_history_title "Histórico">
+<!ENTITY  awesomebar_search_engine "Pesquisar por \&quot;&#037;s\&quot;">
+
 <!ENTITY  crash_reporter_title "Relator de erros do &brandShortName;">
 <!ENTITY  crash_message "O &brandShortName; teve um erro. Os seus separadores devem estar listados na página inicial do &brandShortName; quando reiniciar.">
 <!ENTITY  crash_help_message "Ajude-nos a resolver este problema!">
@@ -15,7 +20,77 @@
 <!ENTITY  exit_label "Sair">
 <!ENTITY  continue_label "Continuar">
 
-<!ENTITY  launcher_shortcuts_title "&brandShortName; Web Apps">
+<!ENTITY  launcher_shortcuts_title "Web Apps do &brandShortName;">
 <!ENTITY  launcher_shortcuts_empty "Nenhumas web apps encontradas">
 
 <!ENTITY choose_file "Escolher ficheiro">
+
+<!ENTITY awesomebar_default_text "Enter Search or Address">
+
+<!ENTITY bookmarks_title "Marcadores">
+<!ENTITY bookmark_add "Marcador">
+<!ENTITY bookmark_remove "Remover">
+<!ENTITY bookmark_added "Marcador adicionado">
+<!ENTITY bookmark_removed "Marcador  removido">
+
+<!ENTITY history_today_section "Hoje">
+<!ENTITY history_yesterday_section "Ontem">
+<!ENTITY history_week_section "7 dias atrás">
+<!ENTITY history_older_section "Com mais de 7 dias">
+
+<!ENTITY reload "Recarregar">
+<!ENTITY forward "Avançar">
+
+<!ENTITY new_tab "Novo separador">
+
+<!ENTITY settings "Definições">
+<!ENTITY settings_title "Definições">
+<!ENTITY pref_category_general "Geral">
+<!ENTITY pref_category_privacy "Privacidade &amp; Segurança">
+<!ENTITY pref_category_content "Conteúdo">
+<!ENTITY pref_about_firefox "Sobre o &brandShortName;">
+<!ENTITY pref_do_not_track "Dizer aos sítios para não me seguir">
+<!ENTITY pref_telemetry "Enviar dados do desempenho">
+<!ENTITY pref_remember_signons "Lembrar senhas">
+<!ENTITY pref_cookies "Ativar cookies">
+<!ENTITY pref_char_encoding "Mostrar codificação de caracteres">
+<!ENTITY pref_clear_history "Limpar histórico">
+<!ENTITY pref_clear_history_confirm "O histórico de navegação será eliminado">
+<!ENTITY pref_clear_private_data "Limpar dados privados">
+<!ENTITY pref_clear_private_data_confirm "Serão eliminadas definições de navegação, incluindo senhas e cookies">
+<!ENTITY pref_enable_plugins "Ativar plugins">
+<!ENTITY pref_enable_plugins_yes "Sim">
+<!ENTITY pref_enable_plugins_tap_to_play "Toque para reproduzir">
+<!ENTITY pref_enable_plugins_no "Não">
+<!ENTITY pref_font_size "Tamanho da letra">
+<!ENTITY pref_font_size_small "Pequena">
+<!ENTITY pref_font_size_medium "Média">
+<!ENTITY pref_font_size_large "Grande">
+<!ENTITY pref_font_size_xlarge "Muito grande">
+<!ENTITY pref_use_master_password "Usar senha mestra">
+
+<!ENTITY quit "Desistir">
+
+<!ENTITY addons "Extras">
+
+<!ENTITY share "Partilhar">
+<!ENTITY save_as_pdf "Guardar como PDF">
+<!ENTITY agent_request_desktop "Pedir sítio do Desktop">
+<!ENTITY agent_request_mobile "Pedir sítio do Mobile">
+
+<!ENTITY contextmenu_open_new_tab "Abrir num novo separador">
+<!ENTITY contextmenu_add_to_launcher "Adicionar ecrã inicial">
+<!ENTITY contextmenu_share "Partilhar">
+
+<!ENTITY site_settings_title        "Limpar definições do sítio">
+<!ENTITY site_settings_cancel       "Cancelar">
+<!ENTITY site_settings_clear        "limpar">
+<!ENTITY site_settings_no_settings  "Não existem definições para limpar.">
+
+<!ENTITY masterpassword_create_title "Criar senha mestra">
+<!ENTITY masterpassword_remove_title "Removee senha mestra">
+<!ENTITY masterpassword_password "Senha">
+<!ENTITY masterpassword_confirm "Confirmar ">
+
+<!ENTITY button_ok "OK">
+<!ENTITY button_cancel "Cancelar">
