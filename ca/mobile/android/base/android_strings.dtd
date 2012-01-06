@@ -5,7 +5,7 @@
 <!ENTITY  error_loading_file "S\'ha produït un error quan es provava de carregar fitxers necessaris per executar el &brandShortName;">
 
 <!ENTITY  awesomebar_all_pages_title "Llocs destacats">
-<!ENTITY  awesomebar_bookmarks_title "Adreces d'interès">
+<!ENTITY  awesomebar_bookmarks_title "Adreces d\'interès">
 <!ENTITY  awesomebar_history_title "Historial">
 <!ENTITY  awesomebar_search_engine "Cerca \&quot;&#037;s\&quot;">
 
@@ -27,11 +27,11 @@
 
 <!ENTITY awesomebar_default_text "Escriviu una cerca o una adreça">
 
-<!ENTITY bookmarks_title "Adreces d'interès">
-<!ENTITY bookmark_add "Adreça d'interès">
+<!ENTITY bookmarks_title "Adreces d\'interès">
+<!ENTITY bookmark_add "Adreça d\'interès">
 <!ENTITY bookmark_remove "Suprimeix">
-<!ENTITY bookmark_added "S'ha afegit l'adreça d'interès">
-<!ENTITY bookmark_removed "S'ha suprimit l'adreça d'interès">
+<!ENTITY bookmark_added "S\'ha afegit l\'adreça d\'interès">
+<!ENTITY bookmark_removed "S\'ha suprimit l\'adreça d\'interès">
 
 <!ENTITY history_today_section "Avui">
 <!ENTITY history_yesterday_section "Ahir">
@@ -54,8 +54,8 @@
 <!ENTITY pref_remember_signons "Recorda les contrasenyes">
 <!ENTITY pref_cookies "Habilita les galetes">
 <!ENTITY pref_char_encoding "Mostra la codificació dels caràcters">
-<!ENTITY pref_clear_history "Neteja l'historial">
-<!ENTITY pref_clear_history_confirm "Es suprimirà l'historial de navegació">
+<!ENTITY pref_clear_history "Neteja l\'historial">
+<!ENTITY pref_clear_history_confirm "Es suprimirà l\'historial de navegació">
 <!ENTITY pref_clear_private_data "Suprimeix la informació privada">
 <!ENTITY pref_clear_private_data_confirm "Es suprimiran les opcions de navegació incloses les contrasenyes i les galetes.">
 <!ENTITY pref_enable_plugins "Habilita els connectors">
@@ -92,5 +92,5 @@
 <!ENTITY masterpassword_password "Contrasenya">
 <!ENTITY masterpassword_confirm "Confirmeu la contrasenya">
 
-<!ENTITY button_ok "D'acord">
+<!ENTITY button_ok "D\'acord">
 <!ENTITY button_cancel "Cancel·la">
