@@ -29,7 +29,7 @@
 <!ENTITY productHelp.accesskey    "ע">
 <!ENTITY helpMac.commandkey       "?">
 <!ENTITY helpSafeMode.label       "הפעלה מחדש עם תוספות מנוטרלות…">
-<!ENTITY helpSafeMode.accesskey   "א">
+<!ENTITY helpSafeMode.accesskey   "מ">
 
 <!ENTITY helpTroubleshootingInfo.label      "מידע לפתרון בעיות">
 <!ENTITY helpTroubleshootingInfo.accesskey  "מ">
