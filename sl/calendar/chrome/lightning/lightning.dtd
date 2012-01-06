@@ -78,8 +78,10 @@
 <!ENTITY lightning.toolbar.mail.label         "Pošta">
 <!ENTITY lightning.toolbar.mail.accesskey     "P">
 <!ENTITY lightning.toolbar.calendar.label     "Koledar">
+<!ENTITY lightning.toolbar.calendar.tooltip   "Preklopi na zavihek koledar">
 <!ENTITY lightning.toolbar.calendar.accesskey "K">
 <!ENTITY lightning.toolbar.task.label         "Opravki">
+<!ENTITY lightning.toolbar.task.tooltip       "Preklopi na zavihek opravki">
 <!ENTITY lightning.toolbar.task.accesskey     "O">
 
 <!-- Toolbar write button -->
