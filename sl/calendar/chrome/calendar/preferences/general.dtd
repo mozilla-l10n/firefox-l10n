@@ -49,3 +49,6 @@
 <!ENTITY pref.defaultlength.accesskey "E">
 <!ENTITY pref.defaultsnoozelength.label "Privzeti čas trajanja dremeža:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "S">
+<!ENTITY pref.accessibility.label "Dostopnost" >
+<!ENTITY pref.systemcolors.label "Optimiziraj barve za dostopnost" >
+<!ENTITY pref.systemcolors.accesskey "c">
