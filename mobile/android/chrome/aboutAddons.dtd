@@ -1,0 +1,8 @@
+<!ENTITY aboutAddons.title                      "Gestor de complements">
+<!ENTITY aboutAddons.header                     "Complements">
+<!ENTITY aboutAddons.options                    "Opcions">
+
+<!ENTITY addonAction.enable                     "Habilita">
+<!ENTITY addonAction.disable                    "Inhabilita">
+<!ENTITY addonAction.uninstall                  "Desinstal·la">
+<!ENTITY addonAction.cancel                     "Cancel·la">
