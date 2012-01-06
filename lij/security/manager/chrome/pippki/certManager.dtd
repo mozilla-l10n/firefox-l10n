@@ -103,7 +103,7 @@
 
 <!ENTITY certmgr.close.label                  "Særa">
 <!ENTITY certmgr.close.accesskey              "S">
-<!ENTITY certmgr.view2.label                  "Fanni védde…">
+<!ENTITY certmgr.view2.label                  "Fànni védde…">
 <!ENTITY certmgr.view2.accesskey              "v">
 <!ENTITY certmgr.edit3.label                  "Càngia fidùccia…">
 <!ENTITY certmgr.edit3.accesskey              "M">
@@ -141,7 +141,7 @@
 <!ENTITY exceptionMgr.certlocation.download   "Danni o certificâto">
 <!ENTITY exceptionMgr.certlocation.accesskey  "G">
 <!ENTITY exceptionMgr.certstatus.caption      "Stato do certificâto">
-<!ENTITY exceptionMgr.certstatus.viewCert     "Fanni védde…">
+<!ENTITY exceptionMgr.certstatus.viewCert     "Fànni védde…">
 <!ENTITY exceptionMgr.certstatus.accesskey    "V">
 <!ENTITY exceptionMgr.permanent.label         "Tegni sarvâ sta eceçión de lóngo">
 <!ENTITY exceptionMgr.permanent.accesskey     "T">

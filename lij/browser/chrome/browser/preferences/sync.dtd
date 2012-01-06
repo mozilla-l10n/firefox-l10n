@@ -12,7 +12,7 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Gestión do Account">
 <!ENTITY manageAccount.accesskey      "A">
-<!ENTITY viewQuota.label              "Fanni védde a quöta">
+<!ENTITY viewQuota.label              "Fànni védde a quöta">
 <!ENTITY changePassword2.label        "Càngia paròlla segrétta…">
 <!ENTITY myRecoveryKey.label          "A mæ ciâve de repìggio">
 <!ENTITY resetSync2.label             "Reinpòsta Sync…">

@@ -108,7 +108,7 @@
 <!ENTITY certs.auto.accesskey            "l">
 <!ENTITY certs.ask                       "Domandamelo tùtte e vòtte">
 <!ENTITY certs.ask.accesskey             "D">
-<!ENTITY viewCerts.label                 "Fanni védde certificâti">
+<!ENTITY viewCerts.label                 "Fànni védde certificâti">
 <!ENTITY viewCerts.accesskey             "F">
 <!ENTITY viewCRLs.label                  "Lista de aboliçión">
 <!ENTITY viewCRLs.accesskey              "L">

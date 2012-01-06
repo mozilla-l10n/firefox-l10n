@@ -74,7 +74,7 @@
 <!ENTITY downloadCert.trustEmail "Fiate de sta CA pe identificâ e email.">
 <!ENTITY downloadCert.trustObjSign "Danni a fidùccia a sta CA a identificâ i svilupatô de aplicaçioìn.">
 <!ENTITY downloadCert.message3 "Prìmma de dâ a fidùccia a sta CA ti dovesci ezaminâ o seu certificâto, a seu politica e procedûe (se ghe son).">
-<!ENTITY downloadCert.viewCert.label "Fanni védde">
+<!ENTITY downloadCert.viewCert.label "Fànni védde">
 <!ENTITY downloadCert.viewPolicy.label "Politica">
 <!ENTITY downloadCert.viewCert.text "Ezamina o certificâto CA">
 <!ENTITY downloadCert.viewPolicy.text "Ezaminâ o certificâto, politica e procedûe do CA">
@@ -110,7 +110,7 @@
 <!ENTITY escrowWarn.message1 "Inportante: Sta Aotoritæ di Certicâti a l'à domandòu de fâ unn-a còpia de seguéssa da teu ciâve privâ de criptaçión.">
 <!ENTITY escrowWarn.benefit1 "O benefìçio o l'é che se ti ti perdi l'açéizo ti peu domandalo a sta Aotoritæ di Certicâti.">
 <!ENTITY escrowWarn.message2 "A teu ciâve privâ de criptaçión a saiâ sarvâ da l'Aotoritæ di Certificâti ma a peu êse uzâ pe lêze a teu email criptâ ò docùmenti sensa o teu permìsso.">
-<!ENTITY examineCert.label "Fanni védde o certificâto">
+<!ENTITY examineCert.label "Fànni védde o certificâto">
 <!ENTITY examineCert.accesskey "v">
 
 <!ENTITY serverCrlNextupdate.message "Pe favô domanda a-o teu aministratô de scistêma pe ascisténsa">

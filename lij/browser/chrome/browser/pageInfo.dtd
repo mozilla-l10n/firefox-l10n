@@ -106,7 +106,7 @@
 <!ENTITY  securityTab           "Siguéssa">
 <!ENTITY  securityTab.accesskey "S">
 <!ENTITY  securityHeader        "Informaçioìn de seguéssa pe sta pagina">
-<!ENTITY  securityView.certView "Fanni védde o certificâto">
+<!ENTITY  securityView.certView "Fànni védde o certificâto">
 <!ENTITY  securityView.accesskey "V">
 <!ENTITY  securityView.unknown   "no conosciûo">
 
@@ -119,10 +119,10 @@
 <!ENTITY  securityView.privacy.header                   "Privacy &amp; stöia">
 <!ENTITY  securityView.privacy.history                  "Ò za vixitòu sto scîto prìmma de ancheu?">
 <!ENTITY  securityView.privacy.cookies                  "Sto scîto web o sarva informaçioìn (cookie) in sciô mæ computer?">
-<!ENTITY  securityView.privacy.viewCookies              "Fanni védde i cookie">
+<!ENTITY  securityView.privacy.viewCookies              "Fànni védde i cookie">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
 <!ENTITY  securityView.privacy.passwords                "Gh'ò de paròlle segrétte sarvæ pe sto scîto?">
-<!ENTITY  securityView.privacy.viewPasswords            "Fanni védde e paròlle segrétte sarvæ">
+<!ENTITY  securityView.privacy.viewPasswords            "Fànni védde e paròlle segrétte sarvæ">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "v">
 
 <!ENTITY  securityView.technical.header                 "Detàlli Tecnici">

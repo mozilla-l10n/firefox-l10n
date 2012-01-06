@@ -42,7 +42,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goToLineCmd.accesskey "V">
 <!ENTITY goToLineCmd.commandkey "l">
 
-<!ENTITY viewMenu.label           "Fanni védde">
+<!ENTITY viewMenu.label           "Fànni védde">
 <!ENTITY viewMenu.accesskey       "v">
 <!ENTITY reloadCmd.label "Recarega">
 <!ENTITY reloadCmd.accesskey "R">

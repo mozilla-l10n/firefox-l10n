@@ -42,7 +42,7 @@
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Çerca agiornaménti">
 <!ENTITY updates.checkForUpdates.accesskey    "c">
-<!ENTITY updates.viewUpdates.label            "Fanni védde i ùrtimi agiornaménti">
+<!ENTITY updates.viewUpdates.label            "Fànni védde i ùrtimi agiornaménti">
 <!ENTITY updates.viewUpdates.accesskey        "v">
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
@@ -64,7 +64,7 @@
 <!ENTITY updates.downloaded.label             "I teu cònponenti azónti son stæti descaregæ.">
 <!ENTITY updates.restart.label                "Reavia pe finî l'instalaçión">
 <!ENTITY updates.noneFound.label              "Nisciùn agiórnamento trovòu">
-<!ENTITY updates.manualUpdatesFound.label     "Fanni védde i agiornamenti disponibili">
+<!ENTITY updates.manualUpdatesFound.label     "Fànni védde i agiornamenti disponibili">
 <!ENTITY updates.updateSelected.label         "Instàlla Agiornaménto">
 <!ENTITY updates.updateSelected.tooltip       "Instàlla i Agiornaménti da lìsta">
 

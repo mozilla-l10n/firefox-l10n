@@ -151,7 +151,7 @@ can reach it easily. -->
 <!ENTITY bookmarksMenuButton.tooltip        "Vèddi i teu segnalìbbri">
 <!ENTITY bookmarksMenuButton.unsorted.label "Âtri segnalìbbri">
 <!ENTITY viewBookmarksSidebar.label         "Fànni védde inta bâra de sciànco">
-<!ENTITY viewBookmarksToolbar.label         "Fanni védde a bâra di Segnalìbbri">
+<!ENTITY viewBookmarksToolbar.label         "Fànni védde a bâra di Segnalìbbri">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -160,7 +160,7 @@ can reach it easily. -->
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Stöia">
-<!ENTITY historyButton.tooltip          "Fanni védde e pagine che ti t'æ visto urtimaménte">
+<!ENTITY historyButton.tooltip          "Fànni védde e pagine che ti t'æ visto urtimaménte">
 <!ENTITY historySidebarCmd.accesskey    "s">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
@@ -276,7 +276,7 @@ can reach it easily. -->
 <!ENTITY privateBrowsingCmd.stop.accesskey      "p">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "Fanni védde"> 
+<!ENTITY viewMenu.label         "Fànni védde"> 
 <!ENTITY viewMenu.accesskey       "v"> 
 <!ENTITY viewTabGroups.label            "Muggio de féuggi">
 <!ENTITY viewTabGroups.accesskey        "g">
@@ -357,28 +357,28 @@ can reach it easily. -->
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Recarega o riquàddro">
 <!ENTITY reloadFrameCmd.accesskey     "R">
-<!ENTITY viewPartialSourceForSelectionCmd.label "Fanni védde a sorgénte da parte seleçionâ">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "Fanni védde a sorgénte do MathML">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Fànni védde a sorgénte da parte seleçionâ">
+<!ENTITY viewPartialSourceForMathMLCmd.label    "Fànni védde a sorgénte do MathML">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "s">
-<!ENTITY viewPageSourceCmd.label      "Fanni védde a sorgénte da pagina">
+<!ENTITY viewPageSourceCmd.label      "Fànni védde a sorgénte da pagina">
 <!ENTITY viewPageSourceCmd.accesskey  "v">
-<!ENTITY viewFrameSourceCmd.label     "Fanni védde a sorgénte do riquàddro">
+<!ENTITY viewFrameSourceCmd.label     "Fànni védde a sorgénte do riquàddro">
 <!ENTITY viewFrameSourceCmd.accesskey "v">
-<!ENTITY viewPageInfoCmd.label        "Fanni védde e informaçioìn da pagina">
+<!ENTITY viewPageInfoCmd.label        "Fànni védde e informaçioìn da pagina">
 <!ENTITY viewPageInfoCmd.accesskey    "i">
-<!ENTITY viewFrameInfoCmd.label       "Fanni védde e informaçioìn do riquàddro">
+<!ENTITY viewFrameInfoCmd.label       "Fànni védde e informaçioìn do riquàddro">
 <!ENTITY viewFrameInfoCmd.accesskey   "i">
 <!ENTITY reloadImageCmd.label         "Recarega inmàgine">
 <!ENTITY reloadImageCmd.accesskey     "R">
-<!ENTITY viewImageCmd.label           "Fanni védde inmàgine">
+<!ENTITY viewImageCmd.label           "Fànni védde inmàgine">
 <!ENTITY viewImageCmd.accesskey       "i">
-<!ENTITY viewImageInfoCmd.label       "Fanni védde e informaçioìn da inmàgine">
+<!ENTITY viewImageInfoCmd.label       "Fànni védde e informaçioìn da inmàgine">
 <!ENTITY viewImageInfoCmd.accesskey   "F">
-<!ENTITY viewVideoCmd.label           "Fanni védde videò">
+<!ENTITY viewVideoCmd.label           "Fànni védde videò">
 <!ENTITY viewVideoCmd.accesskey       "i">
-<!ENTITY viewBGImageCmd.label         "Fanni védde inmàgine de sfondo">
+<!ENTITY viewBGImageCmd.label         "Fànni védde inmàgine de sfondo">
 <!ENTITY viewBGImageCmd.accesskey     "F">
 <!ENTITY setDesktopBackgroundCmd.label      "Inpòsta cómme sfondo do desktop…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "s">
