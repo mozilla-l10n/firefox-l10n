@@ -1,0 +1,18 @@
+<!ENTITY aboutPage.title                        "Quant al &brandShortName;">
+<!ENTITY aboutPage.faq.label                    "PMF">
+<!ENTITY aboutPage.support.label                "Assistència">
+<!ENTITY aboutPage.privacyPolicy.label          "Política de privadesa">
+<!ENTITY aboutPage.rights.label                 "Conegueu els vostres drets">
+<!ENTITY aboutPage.relNotes.label               "Notes de la versió">
+<!ENTITY aboutPage.credits.label                "Crèdits">
+<!ENTITY aboutPage.checkForUpdates.button       "Comprova si hi ha actualitzacions">
+<!ENTITY aboutPage.checkForUpdates.checking     "Comprovació d'actualitzacions…">
+<!ENTITY aboutPage.checkForUpdates.none         "No hi ha cap actualització">
+<!ENTITY aboutPage.checkForUpdates.found        "Hi ha una actualització">
+<!-- LOCALIZATION NOTE:
+     These strings are concatenated in order. Unneeded strings may be left blank.
+-->
+
+
+<!ENTITY aboutPage.licenseLink                  "Informació de llicència">
+<!ENTITY aboutPage.licenseLinkSuffix            ".">

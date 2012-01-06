@@ -1,0 +1,12 @@
+<!ENTITY empty.label            "Cerca">
+<!ENTITY newpref.label          "Afegeix una preferència nova">
+<!ENTITY addpref.name           "Nom">
+<!ENTITY addpref.value          "Valor">
+
+<!ENTITY cancel.label           "Cancel·la">
+<!ENTITY reset.label            "Reinicia">
+<!ENTITY done.label             "Fet">
+
+<!ENTITY integer.label          "Enter">
+<!ENTITY string.label           "Cadena">
+<!ENTITY boolean.label          "Booleà">

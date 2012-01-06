@@ -1,0 +1,11 @@
+<!ENTITY feedbackHeader2.label          "Eines d'opinió">
+
+<!ENTITY feedback.communicate.title     "Contacteu amb nosaltres!">
+<!ENTITY feedback.feedback.title        "Doneu la vostra opinió">
+<!ENTITY feedback.feedback.good         "Bona">
+<!ENTITY feedback.feedback.bad          "Dolenta">
+
+<!ENTITY feedback.tools.title           "Eines">
+<!ENTITY feedback.allowTelemetry.title  "Envia les dades de rendiment">
+<!ENTITY feedback.forceCompat.title     "Força la compatibilitat de complements">
+<!ENTITY feedback.errorConsole.title    "Habilita la consola d'errors">
