@@ -263,7 +263,7 @@ can reach it easily. -->
 <!ENTITY selectAllCmd.accesskey       "a"> 
 <!ENTITY preferencesCmd2.label       "Inpostaçioìn">
 <!ENTITY preferencesCmd2.accesskey     "o">
-<!ENTITY preferencesCmdUnix.label       "Preferençe">
+<!ENTITY preferencesCmdUnix.label       "Preferense">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
 <!ENTITY clearRecentHistory.label               "Scancella a stöia ciù nêuva…">
@@ -531,7 +531,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "Cangia e preferençe de blocco di pop-up…">
+<!ENTITY editPopupSettingsUnix.label "Cangia e preferense de blocco di pop-up…">
 <!ENTITY editPopupSettings.label "Cangia e inpostaçioìn de blocco di pop-up">
 <!ENTITY editPopupSettings.accesskey "e">
 <!ENTITY dontShowMessage.accesskey "N">

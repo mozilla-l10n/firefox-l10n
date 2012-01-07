@@ -75,7 +75,7 @@
 <!ENTITY cmd.findUpdates.accesskey            "T">
 <!ENTITY cmd.preferencesWin.label             "Inpostaçioìn">
 <!ENTITY cmd.preferencesWin.accesskey         "o">
-<!ENTITY cmd.preferencesUnix.label            "Preferençe">
+<!ENTITY cmd.preferencesUnix.label            "Preferense">
 <!ENTITY cmd.preferencesUnix.accesskey        "P">
 <!ENTITY cmd.about.label                      "Informaçioìn">
 <!ENTITY cmd.about.accesskey                  "a">
@@ -94,8 +94,8 @@
 <!ENTITY cmd.uninstallAddon.accesskey         "E">
 <!ENTITY cmd.showPreferencesWin.label         "Inpostaçioìn">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Cangia e preferençe de sto conponénte azónto">
-<!ENTITY cmd.showPreferencesUnix.label        "Preferençe">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Cangia e preferençe de sto conponénte azónto">
+<!ENTITY cmd.showPreferencesUnix.label        "Preferense">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Cangia e preferense de sto conponénte azónto">
 <!ENTITY cmd.contribute.label                 "Agiùtta">
 <!ENTITY cmd.contribute.accesskey             "A">
 <!ENTITY cmd.contribute.tooltip               "Agiùtta a svilùpâ sto conponénte azónto">
@@ -141,9 +141,9 @@
 <!ENTITY detail.showPreferencesWin.label      "Inpostaçioìn">
 <!ENTITY detail.showPreferencesWin.accesskey  "o">
 <!ENTITY detail.showPreferencesWin.tooltip    "Cangia e preferençe de sto conponénte azónto">
-<!ENTITY detail.showPreferencesUnix.label     "Preferençe">
+<!ENTITY detail.showPreferencesUnix.label     "Preferense">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
-<!ENTITY detail.showPreferencesUnix.tooltip   "Cangia e preferençe de sto conponénte azónto">
+<!ENTITY detail.showPreferencesUnix.tooltip   "Cangia e preferense de sto conponénte azónto">
 
 
 <!-- ratings -->

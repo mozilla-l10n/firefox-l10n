@@ -17,11 +17,11 @@
 
 <!ENTITY safeb.blocked.malwarePage.title "Pagina de atàcco segnalâ!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "A pagina web<span id='malware_sitename'/> a l'é stæta segnalâ cómme 'na pagine de atàcco e a l'é stæta bloccâ da-e teu preferençe de seguéssa.">
+<!ENTITY safeb.blocked.malwarePage.shortDesc "A pagina web<span id='malware_sitename'/> a l'é stæta segnalâ cómme 'na pagine de atàcco e a l'é stæta bloccâ da-e teu preferense de seguéssa.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>E pàgine de atàcco prêuvan a instalâ de aplicaçioìn che aröban e informaçioìn privæ, adêuviàn o teu computer pe atacâ i âtri ò aroinan o teu computer</p><p>Quàrche pagina de atàcco peu métte in gîo aplicaçioìn péigoze ma tànte no fonçionan sénsa a conoscénsa ò o permìsso di propiêtâi.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title "L'é stæta segnalâ 'na falsificaçión web!">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc "A pagina web<span id='phishing_sitename'/> a l'é stæta segnalâ cómme 'na falsificaçión web e a l'é stæta bloccâ da-e teu preferençe de seguéssa.">
+<!ENTITY safeb.blocked.phishingPage.shortDesc "A pagina web<span id='phishing_sitename'/> a l'é stæta segnalâ cómme 'na falsificaçión web e a l'é stæta bloccâ da-e teu preferense de seguéssa.">
 <!ENTITY safeb.blocked.phishingPage.longDesc "<p>E falsificaçión web son fæte pe bidonâ a génte e fâ cóndividde e informaçioìn privê ò finansiarie.</p><p>Se ti ti inserisci di dæti in sta pagina peu sucêde che te aröban a identitæ o che te fan 'n'âtro inbréuggio.</p>">
 

@@ -2,7 +2,7 @@
 <!ENTITY migrationWizard.title          "Proçedûa goidâ de inportaçión">
 
 <!ENTITY importFrom.label               "Inportaçión de preferençe, segnalìbbri, stöia, paròlle segrétte e âtri dæti da:">
-<!ENTITY importFromUnix.label           "Preferençe de inportaçión, segnalìbbri, stöia, paròlle segrétte e âtri dæti da:">
+<!ENTITY importFromUnix.label           "Inpòrta preferense, segnalìbbri, stöia, paròlle segrétte e âtri dæti da:">
 <!ENTITY importFromBookmarks.label      "Inpòrta segnalìbbri da:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">

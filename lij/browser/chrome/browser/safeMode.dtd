@@ -51,7 +51,7 @@
 <!ENTITY deleteBookmarks.label        "Scancella tùtti i segnalìbbri ma esclùddi quelli che stan inte còpie di seguéssa">
 <!ENTITY deleteBookmarks.accesskey    "b">
 
-<!ENTITY resetUserPrefs.label         "Reinpòsta tùtte e preferençe a-o predefinîo de &brandShortName;">
+<!ENTITY resetUserPrefs.label         "Reinpòsta tùtte e preferense a-o predefinîo de &brandShortName;">
 <!ENTITY resetUserPrefs.accesskey     "p">
 
 <!ENTITY restoreSearch.label          "Remétti i motô de riçerca predefinî">

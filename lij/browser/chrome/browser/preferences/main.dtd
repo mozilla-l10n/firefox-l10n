@@ -35,7 +35,7 @@
 
 <!ENTITY addonsMgr.label               "Conponénti azónti">
 <!ENTITY manageAddonsDescWin.label     "Cangia e preferençe pe i teu conponénti azónti">
-<!ENTITY manageAddonsDescUnix2.label   "Cangia e preferençe pe-i teu conponénti azónti">
+<!ENTITY manageAddonsDescUnix2.label   "Cangia e preferense pe-i teu conponénti azónti">
 <!ENTITY manageAddons.label            "Gestìsci conponénti azónti…">
 <!ENTITY manageAddons.accesskey        "G">
 

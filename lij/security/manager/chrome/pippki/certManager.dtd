@@ -117,9 +117,9 @@
 <!ENTITY certmgr.delete2.accesskey            "S">
 <!ENTITY certmgr.delete_builtin.label         "Scancella ò leva a fidùccia…">
 <!ENTITY certmgr.delete_builtin.accesskey     "d">
-<!ENTITY certmgr.backup2.label                "Còpia de seguéssa…">
-<!ENTITY certmgr.backup2.accesskey            "C">
-<!ENTITY certmgr.backupall2.label             "Fanni unn-a còpia de seguéssa de tùtto…">
+<!ENTITY certmgr.backup2.label                "Fànni 'na còpia de seguéssa…">
+<!ENTITY certmgr.backup2.accesskey            "c">
+<!ENTITY certmgr.backupall2.label             "Fànni 'na còpia de seguéssa de tùtto…">
 <!ENTITY certmgr.backupall2.accesskey         "F">
 <!ENTITY certmgr.restore2.label               "Inpòrta…">
 <!ENTITY certmgr.restore2.accesskey           "I">

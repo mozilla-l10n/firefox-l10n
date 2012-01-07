@@ -27,7 +27,7 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
 <!ENTITY aboutSupport.showMac.label "Fànni védde into Finder">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "Preferençe Modificæ">
+<!ENTITY aboutSupport.modifiedPrefsTitle "Preferense Modificæ">
 <!ENTITY aboutSupport.modifiedPrefsName "Nómme">
 <!ENTITY aboutSupport.modifiedPrefsValue "Valô">
 

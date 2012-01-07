@@ -86,7 +86,7 @@
 <!ENTITY engine.history.accesskey   "S">
 <!ENTITY engine.passwords.label     "Paròlle segrétte">
 <!ENTITY engine.passwords.accesskey "p">
-<!ENTITY engine.prefs.label         "Preferençe">
+<!ENTITY engine.prefs.label         "Preferense">
 <!ENTITY engine.prefs.accesskey     "P">
 <!ENTITY engine.addons.label        "Add-ons">
 <!ENTITY engine.addons.accesskey    "A">
@@ -105,6 +105,6 @@
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Instalaçión finîa">
-<!ENTITY changeOptions.label "Ti peu cangiâ ste inpostaçioìn chi sótta inte preferençe de Sync.">
+<!ENTITY changeOptions.label "Ti peu cangiâ ste inpostaçioìn chi sótta inte preferense de Sync.">
 <!ENTITY continueUsing.label "Fòscia ti peu continoâ co-o &brandShortName;.">
 

@@ -35,8 +35,8 @@
 <!ENTITY importOtherBrowser.label          "Inportâ dæti da un âtro navegatô…">
 <!ENTITY importOtherBrowser.accesskey      "a">
 
-<!ENTITY cmd.backup.label               "Còpia de seguéssa…">
-<!ENTITY cmd.backup.accesskey           "C">
+<!ENTITY cmd.backup.label               "Fànni 'na còpia de seguéssa…">
+<!ENTITY cmd.backup.accesskey           "c">
 <!ENTITY cmd.restore2.label             "Repiggia">
 <!ENTITY cmd.restore2.accesskey         "R">
 <!ENTITY cmd.restoreFromFile.label      "Scegli file…">
@@ -106,7 +106,7 @@
 
 <!ENTITY cmd.find.key  "f">
 
-<!ENTITY maintenance.label      "Inpòrta e còpia de seguéssa">
+<!ENTITY maintenance.label      "Inportâ e fâ de còpie de seguéssa">
 <!ENTITY maintenance.accesskey  "I">
 <!ENTITY maintenance.tooltip    "Inpòrta e fanni a còpia de seguéssa di teu segnalìbbri">
 
