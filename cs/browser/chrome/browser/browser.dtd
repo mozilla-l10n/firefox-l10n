@@ -196,7 +196,7 @@ can reach it easily. -->
 <!ENTITY inspectMenu.commandkey "I">
 
 <!ENTITY inspectContextMenu.label "Prozkoumat prvek">
-<!ENTITY inspectContextMenu.accesskey "k">
+<!ENTITY inspectContextMenu.accesskey "P">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
@@ -383,13 +383,13 @@ can reach it easily. -->
 <!ENTITY setDesktopBackgroundCmd.label "Nastavit pozadí plochy…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "t">
 <!ENTITY bookmarkPageCmd2.label "Přidat stránku do záložek">
-<!ENTITY bookmarkPageCmd2.accesskey "P">
+<!ENTITY bookmarkPageCmd2.accesskey "d">
 <!ENTITY bookmarkThisLinkCmd.label "Přidat odkaz do záložek">
-<!ENTITY bookmarkThisLinkCmd.accesskey "P">
+<!ENTITY bookmarkThisLinkCmd.accesskey "d">
 <!ENTITY bookmarkThisFrameCmd.label "Přidat rám do záložek">
 <!ENTITY bookmarkThisFrameCmd.accesskey "d">
 <!ENTITY sendPageCmd.label "Odeslat stránku…">
-<!ENTITY sendPageCmd.accesskey "d">
+<!ENTITY sendPageCmd.accesskey "e">
 <!ENTITY savePageCmd.label "Uložit stránku jako…">
 <!ENTITY savePageCmd.accesskey "U">
 <!-- alternate for content area context menu -->

@@ -63,7 +63,7 @@
 <!ENTITY updateTab.label "Aktualizace">
 
 <!ENTITY updateApp.label "Aktualizace aplikace &brandShortName;:">
-<!ENTITY updateAuto.label "Instalovat aktualizace automaticky (doporučováno z důvodu vyšší bezpečnosti">
+<!ENTITY updateAuto.label "Instalovat aktualizace automaticky (doporučováno z důvodu vyšší bezpečnosti)">
 <!ENTITY updateAuto.accesskey "I">
 <!ENTITY updateCheck.label "Vyhledávat aktualizace, ale dotázat se, zda mají být nainstalovány">
 <!ENTITY updateCheck.accesskey "V">
