@@ -360,8 +360,6 @@
 <!ENTITY event.freebusy.next.slot "Následující místo">
 <!ENTITY event.freebusy.previous.slot "Předchozí místo">
 <!ENTITY event.freebusy.zoom "Změna velikosti:">
-<!ENTITY event.freebusy.plus "Následující hodina">
-<!ENTITY event.freebusy.minus "Předchozí hodina">
 <!ENTITY event.freebusy.legend.free "Volno">
 <!ENTITY event.freebusy.legend.busy "Není volno">
 <!ENTITY event.freebusy.legend.busy_tentative "Nezávazně" >
