@@ -1,18 +1,13 @@
 <!ENTITY aboutPage.title "O aplikaci &brandShortName;">
+<!ENTITY aboutPage.checkForUpdates.link "Zkontrolovat aktualizace »">
+<!ENTITY aboutPage.checkForUpdates.checking "Vyhledávání aktualizací…">
+<!ENTITY aboutPage.checkForUpdates.none "Aktualizace nejsou dostupné">
+<!ENTITY aboutPage.checkForUpdates.found "Aktualizace jsou dostupné">
 <!ENTITY aboutPage.faq.label "Časté otázky">
 <!ENTITY aboutPage.support.label "Podpora">
 <!ENTITY aboutPage.privacyPolicy.label "Zásady ochrany soukromí">
 <!ENTITY aboutPage.rights.label "Poznejte svá práva">
 <!ENTITY aboutPage.relNotes.label "Poznámky k vydání">
 <!ENTITY aboutPage.credits.label "Autoři">
-<!ENTITY aboutPage.checkForUpdates.link "Zkontrolovat aktualizace »">
-<!ENTITY aboutPage.checkForUpdates.checking "Vyhledávání aktualizací…">
-<!ENTITY aboutPage.checkForUpdates.none "Aktualizace nejsou dostupné">
-<!ENTITY aboutPage.checkForUpdates.found "Aktualizace jsou dostupné">
+<!ENTITY aboutPage.license.label "Informace o licenci">
 
-
-<!-- LOCALIZATION NOTE:
- These strings are concatenated in order. Unneeded strings may be left blank.
- -->
-<!ENTITY aboutPage.licenseLink "Licenční informace">
-<!ENTITY aboutPage.licenseLinkSuffix ".">
