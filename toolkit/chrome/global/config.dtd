@@ -43,9 +43,9 @@
 <!ENTITY aboutWarningButton.label "Lupaan olla varovainen">
 <!ENTITY aboutWarningCheckbox.label "Näytä varoitus myös ensi kerralla">
 
-<!ENTITY filterPrefs.label  "Suodata:">
-<!ENTITY filterPrefs.accesskey  "S">
-<!ENTITY focusFilter.key "f">
+<!ENTITY searchPrefs.label "Etsi:">
+<!ENTITY searchPrefs.accesskey "E">
+<!ENTITY focusSearch.key "r">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label  "Asetuksen nimi">

@@ -2,6 +2,8 @@
 <!ENTITY playButton.pauseLabel "Pysäytä">
 <!ENTITY muteButton.muteLabel "Mykistä ääni">
 <!ENTITY muteButton.unmuteLabel "Palauta ääni">
+<!ENTITY fullscreenButton.enterfullscreenlabel "Kokoruututila">
+<!ENTITY fullscreenButton.exitfullscreenlabel "Poistu kokoruututilasta">
 
 <!ENTITY stats.media "Media">
 <!ENTITY stats.size "Koko">
@@ -17,6 +19,13 @@
 <!ENTITY stats.framesDecoded "Ruutua purettu">
 <!ENTITY stats.framesPresented "Ruutua näytetty">
 <!ENTITY stats.framesPainted "Ruutua piirretty">
+
+<!ENTITY error.aborted "Videon lataaminen pysähtynyt.">
+<!ENTITY error.network "Videon toisto keskeytynyt verkkovirheen vuoksi.">
+<!ENTITY error.decode "Videota ei voida toistaa, koska tiedosto on vioittunut.">
+<!ENTITY error.srcNotSupported "Videon tiedostomuoto tai MIME-tyyppi ei ole tuettu.">
+<!ENTITY error.noSource2 "Ei löytynyt videota tuetussa tiedostomuodossa ja MIME-tyypissä.">
+<!ENTITY error.generic "Videon toisto keskeytynyt tuntemattoman virheen vuoksi.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
