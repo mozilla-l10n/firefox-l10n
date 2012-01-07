@@ -326,12 +326,6 @@
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Valikkopalkki">
 <!ENTITY formatToolbar.tooltip "Muotoilupalkki">
-<!ENTITY newToolbarCmd.label "Uusi">
-<!ENTITY newToolbarCmd.tooltip "Luo uusi Composer-sivu">
-<!ENTITY openToolbarCmd.label "Avaa">
-<!ENTITY openToolbarCmd.tooltip "Avaa paikallinen tiedosto">
-<!ENTITY saveToolbarCmd.tooltip "Tallenna tiedosto paikalliselle levylle">
-<!ENTITY publishToolbarCmd.tooltip "Siirrä tiedosto palvelimelle">
 <!ENTITY cutToolbarCmd.tooltip "Leikkaa">
 <!ENTITY copyToolbarCmd.tooltip "Kopioi">
 <!ENTITY pasteToolbarCmd.tooltip "Liitä">
