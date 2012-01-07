@@ -2,7 +2,7 @@
 # Translator(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
-# secarica <orice@secarica.ro>
+# https://www.google.com/accounts/o8/id?id=AItOawlnUhqAust-7hqM7HhylXGcKyQHz7bLFkw <https://www.google.com/accounts/o8/id?id=AItOawlnUhqAust-7hqM7HhylXGcKyQHz7bLFkw>
 #
 -->
 <!--
@@ -56,27 +56,27 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- File menu items -->
-<!ENTITY openFileCmd.label "Deschide un fișier…">
+<!ENTITY openFileCmd.label "Open File…">
 <!ENTITY openFileCmd.accesskey "D">
 <!ENTITY openFileCmd.key "D">
 <!ENTITY openRemoteCmd.label "Deschide o adresă web…">
-<!ENTITY openRemoteCmd.accesskey "w">
-<!ENTITY openRemoteCmd.key "w">
+<!ENTITY openRemoteCmd.accesskey "D">
+<!ENTITY openRemoteCmd.key "D">
 <!ENTITY fileRecentMenu.label "Pagini recente">
 <!ENTITY fileRecentMenu.accesskey "r">
 <!ENTITY saveCmd.label "Salvează">
 <!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveAsCmd.label "Salvează ca…">
 <!ENTITY saveAsCmd.accesskey "a">
-<!ENTITY saveAsChangeEncodingCmd.label "Salvează cu schimbarea codării de caractere">
+<!ENTITY saveAsChangeEncodingCmd.label "Salvează și schimbă codarea de caractere">
 <!ENTITY saveAsChangeEncodingCmd.accesskey "e">
 <!ENTITY publishCmd.label "Publică">
 <!ENTITY publishCmd.accesskey "b">
-<!ENTITY publishCmd.key "b">
+<!ENTITY publishCmd.key "P">
 <!ENTITY publishAsCmd.label "Publică ca…">
-<!ENTITY publishAsCmd.accesskey "u">
-<!ENTITY fileRevert.label "Refacere">
-<!ENTITY fileRevert.accesskey "f">
+<!ENTITY publishAsCmd.accesskey "P">
+<!ENTITY fileRevert.label "Revenire">
+<!ENTITY fileRevert.accesskey "R">
 
 <!-- Edit menu items -->
 <!ENTITY publishSettings.label "Opțiuni pentru publicarea pe sait…">

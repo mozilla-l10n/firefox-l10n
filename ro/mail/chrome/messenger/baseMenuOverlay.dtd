@@ -5,7 +5,6 @@
 # raulmalea <raul.malea@gmail.com>
 # strainu <narro@strainu.ro>
 # Nicu <kneekoo@yahoo.com>
-# janimo <jani@ubuntu.com>
 #
 -->
 <!--
@@ -25,7 +24,7 @@
 <!ENTITY helpTroubleshootingInfo.accesskey "I">
 <!ENTITY helpSafeMode.label     "Repornește cu suplimentele dezactivate…">
 <!ENTITY helpSafeMode.accesskey "R">
-<!ENTITY releaseCmd2.label "Note de lansare">
+<!ENTITY releaseCmd2.label "Note asupra ediției">
 <!ENTITY releaseCmd2.accesskey "N">
 <!ENTITY whatsNewCmd.label "Ce e nou">
 <!ENTITY whatsNewCmd.accesskey "C">

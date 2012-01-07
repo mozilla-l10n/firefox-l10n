@@ -3,7 +3,6 @@
 #
 # Alexandru Szasz <alexxed@gmail.com>
 # turcan <nicturcan@gmail.com>
-# secarica <orice@secarica.ro>
 #
 -->
 <!--
@@ -68,12 +67,12 @@
 <!-- Edit menu -->
 <!ENTITY mapeditMenu.label "Editare">
 <!ENTITY mapeditMenu.accesskey "E">
-<!ENTITY cutCmd.label "Decupează">
-<!ENTITY cutCmd.accesskey "p">
+<!ENTITY cutCmd.label "Taie">
+<!ENTITY cutCmd.accesskey "T">
 <!ENTITY copyCmd.label "Copiază">
 <!ENTITY copyCmd.accesskey "C">
-<!ENTITY pasteCmd.label "Inserează">
-<!ENTITY pasteCmd.accesskey "z">
+<!ENTITY pasteCmd.label "Lipește">
+<!ENTITY pasteCmd.accesskey "L">
 <!ENTITY selectallCmd.label "Selectează tot">
 <!ENTITY selectallCmd.accesskey "S">
 <!ENTITY propsCmd.label "Proprietăți zonă sensibilă">

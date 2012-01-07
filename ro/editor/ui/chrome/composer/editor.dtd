@@ -1,8 +1,8 @@
 <!--
 # Translator(s):
 #
-# rsandu <razvan.sandu@zando.ro>
 # Alexandru Szasz <alexxed@gmail.com>
+# rsandu <razvan.sandu@zando.ro>
 #
 -->
 <!--
@@ -62,9 +62,9 @@
 
 <!-- File menu items -->
 <!ENTITY exportToTextCmd.label "Exportă ca text…">
-<!ENTITY exportToTextCmd.accesskey "t">
-<!ENTITY previewCmd.label "Răsfoiește pagina">
-<!ENTITY previewCmd.accesskey "R">
+<!ENTITY exportToTextCmd.accesskey "x">
+<!ENTITY previewCmd.label "Browse Page">
+<!ENTITY previewCmd.accesskey "w">
 <!ENTITY sendPageCmd.label "Trimite pagina…">
 <!ENTITY sendPageCmd.accesskey "T">
 
@@ -89,14 +89,14 @@
 <!ENTITY validateCmd.accesskey "V">
 
 <!-- Display Mode toolbar and View menu items -->
-<!ENTITY NormalModeTab.label "Normală">
+<!ENTITY NormalModeTab.label "Normal">
 <!ENTITY NormalMode.label "Mod de editare normal">
 <!ENTITY NormalMode.accesskey "n">
 <!ENTITY NormalMode.tooltip "Afișează bordurile tabelelor și ancorele cu nume">
-<!ENTITY AllTagsModeTab.label "Tag-uri HTML">
-<!ENTITY AllTagsMode.label "Taguri HTML">
-<!ENTITY AllTagsMode.accesskey "a">
-<!ENTITY AllTagsMode.tooltip "Afișează iconuri pentru toate tag-urile HTML">
+<!ENTITY AllTagsModeTab.label "Etichete HTML">
+<!ENTITY AllTagsMode.label "Etichete HTML">
+<!ENTITY AllTagsMode.accesskey "E">
+<!ENTITY AllTagsMode.tooltip "Afișează iconițe pentru toate etichetele HTML">
 <!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
      Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if
      you want the <html> image to left of the 'HTMLSourceModeTab.label' text,
@@ -104,11 +104,11 @@
      not need to include HTML in the label 'HTMLSourceModeTab.label' -->
 <!ENTITY HTMLSourceModeTab.dir "ltr">
 <!ENTITY HTMLSourceModeTab.label "Sursă">
-<!ENTITY HTMLSourceMode.label "Sursa HTML">
+<!ENTITY HTMLSourceMode.label "Sursă HTML">
 <!ENTITY HTMLSourceMode.accesskey "H">
 <!ENTITY HTMLSourceMode.tooltip "Editează sursa HTML">
 <!ENTITY PreviewModeTab.label "Previzualizează">
-<!ENTITY PreviewMode.label "Previzualizare">
+<!ENTITY PreviewMode.label "Previzualizează">
 <!ENTITY PreviewMode.accesskey "P">
-<!ENTITY PreviewMode.tooltip "Afișează ca în navigator">
+<!ENTITY PreviewMode.tooltip "Afișează vizual (WYSIWYG, ca în Navigator)">
 

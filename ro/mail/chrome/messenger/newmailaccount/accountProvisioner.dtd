@@ -45,8 +45,8 @@
 <!ENTITY successful.attach.desc "Puteți adăuga automat un citat sau informații despre dumneavoastră la sfârșitul fiecărui mesaj pe care-l trimiteți.">
 <!ENTITY successful.close "Închideți fereastra.">
 <!ENTITY input.namePlaceholder "Numele dumneavoastră, sau pseudonimul">
-<!ENTITY input.search "Caută">
+<!ENTITY input.search "Căutare">
 <!ENTITY search_engine.title "Alegeți motorul de căutare">
 <!ENTITY search_engine.message "Furnizorul dumneavoastră de email poate oferi și căutare pe web.">
-<!ENTITY search_engine.button "Finalizează">
+<!ENTITY search_engine.button "Încheiere">
 

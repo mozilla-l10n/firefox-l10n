@@ -9,7 +9,6 @@
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!-- ***** BEGIN LICENSE BLOCK *****
@@ -60,7 +59,7 @@
 <!ENTITY folderCharsetOverride.label             "Aplică această codare implicit tuturor mesajelor din dosar (se vor ignora setările din mesaje precum și detecția automată)">
 <!ENTITY folderCharsetOverride.accesskey         "A">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Reconstruiește indecșii fișierului de sumar">
-<!ENTITY folderRebuildSummaryFile2.label         "Repară dosar">
+<!ENTITY folderRebuildSummaryFile2.label         "Repară dosarul">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
 <!ENTITY folderRebuildSummaryFile.explanation    "Uneori fișierul index de dosar (.msf) se deteriorează și aparent lipsesc mesaje sau apar mesaje care au fost șterse; aceste probleme pot fi rezolvate prin repararea dosarului.">
 <!ENTITY folderIncludeInGlobalSearch.label       "Include mesajele din acest dosar în rezultatele căutării globale">
@@ -86,7 +85,7 @@
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
 <!ENTITY folderSynchronizationTab.label          "Sincronizare">
-<!ENTITY folderCheckForNewMessages2.label         "La descărcarea mesajelor pentru acest cont, verificați întotdeauna acest dosar">
+<!ENTITY folderCheckForNewMessages2.label         "La descărcarea mesajelor pentru acest cont, verifică întotdeauna dosarul acesta">
 <!ENTITY folderCheckForNewMessages2.accesskey     "c">
 
 <!ENTITY offlineFolder.check.label               "Selectează acest dosar pentru utilizare în mod deconectat">

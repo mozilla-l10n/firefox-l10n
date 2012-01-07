@@ -5,7 +5,6 @@
 # Alexandru Szasz <alexxed@gmail.com>
 # janimo <jani@ubuntu.com>
 # Laudatti <Laudatti@gmail.com>
-# rz <rz@r2dev.ro>
 #
 -->
 <!--
@@ -40,7 +39,7 @@
 <!ENTITY connectionSecurityType-1.label "STARTTLS, dacă e disponibil">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY authMethod.label "Metoda de autentificare:">
+<!ENTITY authMethod.label "Authentication method:">
 <!ENTITY authMethod.accesskey "i">
 <!ENTITY leaveOnServer.label "Păstrează mesajele pe server">
 <!ENTITY leaveOnServer.accesskey "z">

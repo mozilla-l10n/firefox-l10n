@@ -14,7 +14,6 @@
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
@@ -76,15 +75,15 @@
 <!ENTITY redoCmd.label "Restaurează">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "R"> 
-<!ENTITY cutCmd.label "Decupează">
+<!ENTITY cutCmd.label "Taie">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "p"> 
+<!ENTITY cutCmd.accesskey "T"> 
 <!ENTITY copyCmd.label "Copiază">
 <!ENTITY copyCmd.key "C">
 <!ENTITY copyCmd.accesskey "C"> 
 <!ENTITY pasteCmd.label "Inserează">
 <!ENTITY pasteCmd.key "v">
-<!ENTITY pasteCmd.accesskey "z">
+<!ENTITY pasteCmd.accesskey "I">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.label "Înfășoară rândurile">
@@ -112,7 +111,7 @@
 <!ENTITY viewMenu.accesskey "V">
 <!ENTITY viewToolbarsMenuNew.label "Bare de unelte"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "t"> 
-<!ENTITY menubarCmd.label "Bara cu meniul">
+<!ENTITY menubarCmd.label "Bara meniului">
 <!ENTITY menubarCmd.accesskey "m">
 <!ENTITY showCompositionToolbarCmd.label "Bară de redactare">
 <!ENTITY showCompositionToolbarCmd.accesskey "B">
@@ -217,14 +216,14 @@
 <!ENTITY attachButton.tooltip "Anexează un fișier la acest mesaj"> 
 <!ENTITY spellingButton.tooltip "Verifică ortografia pentru zona selectată sau pentru întregul mesaj">
 <!ENTITY saveButton.tooltip "Salvează acest mesaj"> 
-<!ENTITY cutButton.tooltip              "Decupează">
+<!ENTITY cutButton.tooltip              "Taie">
 <!ENTITY copyButton.tooltip             "Copiază">
 <!ENTITY pasteButton.tooltip            "Inserează">
 
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
-<!ENTITY headersSpace.style "lățime: 9em;">
+<!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "De la:">
 <!ENTITY fromAddr.accesskey "D">
 <!ENTITY toAddr.label "Către:"> 
@@ -266,14 +265,14 @@
 <!ENTITY spellCheckAddToDictionary.accesskey "n">
 <!ENTITY undo.label "Desfă">
 <!ENTITY undo.accesskey "D">
-<!ENTITY cut.label "Decupează">
-<!ENTITY cut.accesskey "p">
+<!ENTITY cut.label "Taie">
+<!ENTITY cut.accesskey "T">
 <!ENTITY copy.label "Copiază">
 <!ENTITY copy.accesskey "C">
 <!ENTITY paste.label "Inserează">
-<!ENTITY paste.accesskey "z">
-<!ENTITY pasteQuote.label "Inserează ca citat">
-<!ENTITY pasteQuote.accesskey "r">
+<!ENTITY paste.accesskey "I">
+<!ENTITY pasteQuote.label "Lipește ca citat">
+<!ENTITY pasteQuote.accesskey "p">
 
 <!ENTITY openAttachment.label "Deschide">
 <!ENTITY openAttachment.accesskey "D">

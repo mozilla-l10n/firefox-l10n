@@ -6,6 +6,12 @@
 # nicubunu <nicubunu@gmail.com>
 #
 -->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY addressbookPicker.label            "Agendă de contacte:">
 <!ENTITY addressbookPicker.accesskey        "A">
 <!ENTITY searchInput.label                  "Căutare după:">

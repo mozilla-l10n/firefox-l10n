@@ -1,20 +1,18 @@
 <!--
 # Translator(s):
 #
-# nicubunu <nicubunu@gmail.com>
-# Alexandru Szasz <alexxed@gmail.com>
-# janimo <jani@ubuntu.com>
-# iulianv <iulianv@email.com>
-# manuelciosici <manuelrciosici@gmail.com>
-# turcan <nicturcan@gmail.com>
 # rsandu <razvan.sandu@zando.ro>
+# janimo <jani@ubuntu.com>
+# Alexandru Szasz <alexxed@gmail.com>
+# iulianv <iulianv@email.com>
+# nicubunu <nicubunu@gmail.com>
+# turcan <nicturcan@gmail.com>
 #
 -->
 <!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!-- ***** BEGIN LICENSE BLOCK *****
@@ -134,7 +132,7 @@
 <!ENTITY Birthday.label                 "Zi de naștere:">
 <!ENTITY Birthday.accesskey             "Z">
 <!ENTITY In.label                       "">
-<!ENTITY Year.placeholder               "Anul">
+<!ENTITY Year.placeholder               "An">
 <!ENTITY Or.value                       "sau">
 <!ENTITY Age.placeholder                "Vârsta">
 <!ENTITY YearsOld.label                 "">

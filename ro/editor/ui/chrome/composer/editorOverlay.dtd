@@ -1,12 +1,10 @@
 <!--
 # Translator(s):
 #
+# turcan <nicturcan@gmail.com>
 # Alexandru Szasz <alexxed@gmail.com>
 # nicubunu <nicubunu@gmail.com>
-# turcan <nicturcan@gmail.com>
 # secarica <orice@secarica.ro>
-# stas <stas@nerd.ro>
-# janimo <jani@ubuntu.com>
 #
 -->
 <!--
@@ -63,13 +61,13 @@
 <!ENTITY saveCmd.key "S">
 
 <!-- Edit menu items -->
-<!ENTITY pasteNoFormatting.label "Inserează fără formatare">
+<!ENTITY pasteNoFormatting.label "Lipește fără formatare">
 <!ENTITY pasteNoFormatting.accesskey "i">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Inserează ca">
+<!ENTITY pasteAs.label "Lipește ca">
 <!ENTITY pasteAs.accesskey "a">
-<!ENTITY pasteAsQuotationCmd.label "Inserează ca citat">
-<!ENTITY pasteAsQuotationCmd.accesskey "z">
+<!ENTITY pasteAsQuotationCmd.label "Lipește ca citat">
+<!ENTITY pasteAsQuotationCmd.accesskey "L">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Caută și înlocuiește…">
 <!ENTITY enableInlineSpellChecker.label "Corectare ortografică în timpul tastării">
@@ -79,8 +77,8 @@
 <!ENTITY checkSpellingCmd2.key "o">
 
 <!-- Insert menu items -->
-<!ENTITY insertMenu.label "Inserează">
-<!ENTITY insertMenu.accesskey "z">
+<!ENTITY insertMenu.label "Inserare">
+<!ENTITY insertMenu.accesskey "I">
 <!ENTITY insertLinkCmd.label "Legătură…">
 <!ENTITY insertLinkCmd.accesskey "L">
 <!ENTITY insertLinkCmd.key "L">
@@ -122,9 +120,9 @@
 <!ENTITY fontHelvetica.label "Helvetica, Arial">
 <!ENTITY fontHelvetica.accesskey "l">
 <!ENTITY fontTimes.label "Times">
-<!ENTITY fontTimes.accesskey "T">
+<!ENTITY fontTimes.accesskey "t">
 <!ENTITY fontCourier.label "Courier">
-<!ENTITY fontCourier.accesskey "C">
+<!ENTITY fontCourier.accesskey "c">
 
 <!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip "Alegeți mărimea fontului">
@@ -199,7 +197,7 @@
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Elimină ancorele cu nume">
 <!ENTITY formatRemoveNamedAnchors.accesskey "l">
-<!ENTITY formatRemoveNamedAnchors2.key "E">
+<!ENTITY formatRemoveNamedAnchors2.key "R">
 
 <!ENTITY paragraphMenu.label "Paragraf">
 <!ENTITY paragraphMenu.accesskey "P">
@@ -288,13 +286,13 @@
 <!ENTITY tableSelectMenu2.label "Selectează în tabel">
 <!ENTITY tableSelectMenu2.accesskey "S">
 <!ENTITY tableInsertMenu2.label "Inserează în tabel">
-<!ENTITY tableInsertMenu2.accesskey "z">
+<!ENTITY tableInsertMenu2.accesskey "I">
 <!ENTITY tableDeleteMenu2.label "Șterge din tabel">
 <!ENTITY tableDeleteMenu2.accesskey "t">
 
 <!-- Insert SubMenu -->
-<!ENTITY tableInsertMenu.label "Inserează">
-<!ENTITY tableInsertMenu.accesskey "z">
+<!ENTITY tableInsertMenu.label "Inserare">
+<!ENTITY tableInsertMenu.accesskey "I">
 <!ENTITY tableTable.label "Tabel">
 <!ENTITY tableTable.accesskey "T">
 <!ENTITY tableRow.label "Rând">
@@ -331,8 +329,8 @@
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly
 -->
-<!ENTITY tableJoinCells.label "r">
-<!ENTITY tableJoinCells.accesskey "r">
+<!ENTITY tableJoinCells.label "j">
+<!ENTITY tableJoinCells.accesskey "j">
 <!ENTITY tableSplitCell.label "Separă celula">
 <!ENTITY tableSplitCell.accesskey "S">
 <!ENTITY convertToTable.label "Creează tabel din selecție">
@@ -352,8 +350,8 @@
 <!ENTITY cutToolbarCmd.tooltip "Decupează">
 <!ENTITY copyToolbarCmd.tooltip "Copiază">
 <!ENTITY pasteToolbarCmd.tooltip "Inserează">
-<!ENTITY printToolbarCmd.label "Tipărește">
-<!ENTITY printToolbarCmd.tooltip "Tipărește această pagină">
+<!ENTITY printToolbarCmd.label "Imprimă">
+<!ENTITY printToolbarCmd.tooltip "Imprimă această pagină">
 <!ENTITY findToolbarCmd.label "Caută">
 <!ENTITY findToolbarCmd.tooltip "Caută text în pagină">
 <!ENTITY spellToolbarCmd.label "Ortografie">
@@ -400,7 +398,7 @@
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Inserează">
-<!ENTITY insertTOC.accesskey      "z">
+<!ENTITY insertTOC.accesskey      "I">
 <!ENTITY updateTOC.label          "Actualizează">
 <!ENTITY updateTOC.accesskey      "A">
 <!ENTITY removeTOC.label          "Elimină">

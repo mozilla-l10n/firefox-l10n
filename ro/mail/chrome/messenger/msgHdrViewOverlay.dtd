@@ -1,11 +1,9 @@
 <!--
 # Translator(s):
 #
+# https://www.google.com/accounts/o8/id?id=AItOawlnUhqAust-7hqM7HhylXGcKyQHz7bLFkw <https://www.google.com/accounts/o8/id?id=AItOawlnUhqAust-7hqM7HhylXGcKyQHz7bLFkw>
 # Alexandru Szasz <alexxed@gmail.com>
 # Laudatti <Laudatti@gmail.com>
-# rz <rz@r2dev.ro>
-# rsandu <razvan.sandu@zando.ro>
-# https://www.google.com/accounts/o8/id?id=AItOawlnUhqAust-7hqM7HhylXGcKyQHz7bLFkw <https://www.google.com/accounts/o8/id?id=AItOawlnUhqAust-7hqM7HhylXGcKyQHz7bLFkw>
 # secarica <orice@secarica.ro>
 #
 -->
@@ -13,7 +11,6 @@
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!-- ***** BEGIN LICENSE BLOCK *****
@@ -53,7 +50,7 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField3.label "Către">
+<!ENTITY toField3.label "To ">
 <!ENTITY fromField3.label "De la">
 <!ENTITY senderField3.label "Expeditor">
 <!ENTITY organizationField3.label "Organizație">
@@ -62,7 +59,7 @@
 <!ENTITY subjectField3.label "Subiect">
 <!ENTITY ccField3.label "Copie">
 <!ENTITY bccField3.label "Copie ascunsă">
-<!ENTITY newsgroupsField3.label "Grupuri news">
+<!ENTITY newsgroupsField3.label "Grupuri de discuții ">
 <!ENTITY followupToField3.label "Urmare la">
 <!ENTITY tagsHdr3.label "Etichete">
 <!ENTITY dateField3.label "Data">
@@ -84,7 +81,7 @@
 <!ENTITY hdrReplyListButton1.label "Răspunde listei">
 <!ENTITY hdrReplyListButton1.tooltip "Răspunde listei de discuții">
 <!ENTITY hdrForwardButton1.label "Înaintează">
-<!ENTITY hdrForwardButton1.tooltip "Redirecționează acest mesaj">
+<!ENTITY hdrForwardButton1.tooltip "Înaintează acest mesaj">
 <!ENTITY hdrJunkButton1.label "Nesolicitat">
 <!ENTITY hdrJunkButton1.tooltip "Marchează mesajul ca nesolicitat">
 <!ENTITY hdrTrashButton1.label "Șterge">
@@ -103,17 +100,17 @@
 <!ENTITY otherActionsOpenConversation1.label "Deschide în conversație">
 <!ENTITY otherActionsOpenConversation1.accesskey "c">
 <!ENTITY otherActionsOpenInNewWindow1.label "Deschide în fereastră nouă">
-<!ENTITY otherActionsOpenInNewWindow1.accesskey "n">
+<!ENTITY otherActionsOpenInNewWindow1.accesskey "D">
 <!ENTITY otherActionsOpenInNewTab1.label "Deschide în filă nouă">
-<!ENTITY otherActionsOpenInNewTab1.accesskey "f">
+<!ENTITY otherActionsOpenInNewTab1.accesskey "D">
 <!ENTITY markAsReadMenuItem1.label "Marchează ca citit">
 <!ENTITY markAsReadMenuItem1.accesskey "r">
 <!ENTITY markAsUnreadMenuItem1.label "Marchează ca necitit">
-<!ENTITY markAsUnreadMenuItem1.accesskey "n">
+<!ENTITY markAsUnreadMenuItem1.accesskey "r">
 <!ENTITY saveAsMenuItem1.label "Salvează ca…">
-<!ENTITY saveAsMenuItem1.accesskey "s">
+<!ENTITY saveAsMenuItem1.accesskey "S">
 <!ENTITY viewSourceMenuItem1.label "Vizualizează sursa">
-<!ENTITY viewSourceMenuItem1.accesskey "u">
+<!ENTITY viewSourceMenuItem1.accesskey "V">
 <!ENTITY otherActionsPrint1.label "Tipărește…">
 <!ENTITY otherActionsPrint1.accesskey "p">
 
@@ -123,10 +120,10 @@
 <!ENTITY saveAsAttachmentCmd.label    "Salvează ca…">
 <!ENTITY saveAsAttachmentCmd.accesskey    "a">
 <!ENTITY detachAttachmentCmd.label    "Elimină anexa…">
-<!ENTITY detachAttachmentCmd.accesskey    "E">
+<!ENTITY detachAttachmentCmd.accesskey    "D">
 <!ENTITY deleteAttachmentCmd.label    "Șterge">
-<!ENTITY deleteAttachmentCmd.accesskey    "t">
-<!ENTITY openAllAttachmentsCmd.label    "Deschide toate...">
+<!ENTITY deleteAttachmentCmd.accesskey    "e">
+<!ENTITY openAllAttachmentsCmd.label    "Deschide toate…">
 <!ENTITY openAllAttachmentsCmd.accesskey    "o">
 <!ENTITY saveAllAttachmentsCmd.label    "Salvează toate…">
 <!ENTITY saveAllAttachmentsCmd.accesskey    "S">
@@ -140,7 +137,7 @@
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Salvează">
 <!ENTITY saveAttachmentButton1.tooltip     "Salvează fișierul anexat">
-<!ENTITY saveAllAttachmentsButton1.label   "Salvează toate">
+<!ENTITY saveAllAttachmentsButton1.label   "Salvează tot">
 <!ENTITY saveAllAttachmentsButton1.tooltip "Salvează toate fișierele anexate">
 
 <!ENTITY copyLinkCmd.label        "Copiază adresa legăturii">

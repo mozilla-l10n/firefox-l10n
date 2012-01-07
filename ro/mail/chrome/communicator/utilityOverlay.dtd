@@ -3,7 +3,6 @@
 #
 # Alexandru Szasz <alexxed@gmail.com>
 # janimo <jani@ubuntu.com>
-# secarica <orice@secarica.ro>
 #
 -->
 <!--
@@ -29,15 +28,15 @@
 <!ENTITY redoCmd.label            "Refă">
 <!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "R">
-<!ENTITY cutCmd.label            "Decupează">
+<!ENTITY cutCmd.label            "Taie">
 <!ENTITY cutCmd.key              "X">
-<!ENTITY cutCmd.accesskey          "p">
+<!ENTITY cutCmd.accesskey          "T">
 <!ENTITY copyCmd.label            "Copiază">
 <!ENTITY copyCmd.key            "C">
 <!ENTITY copyCmd.accesskey          "C">
-<!ENTITY pasteCmd.label            "Inserează">
+<!ENTITY pasteCmd.label            "Lipește">
 <!ENTITY pasteCmd.key            "v">
-<!ENTITY pasteCmd.accesskey          "z">
+<!ENTITY pasteCmd.accesskey          "L">
 <!ENTITY deleteCmd.label          "Șterge">
 <!ENTITY deleteCmd.accesskey        "g">
 <!ENTITY selectAllCmd.label          "Selectează tot">

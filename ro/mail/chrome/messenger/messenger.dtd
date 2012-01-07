@@ -4,14 +4,13 @@
 # Alexandru Szasz <alexxed@gmail.com>
 # Nicu <kneekoo@yahoo.com>
 # purica <haliciu@gmail.com>
-# nicubunu <nicubunu@gmail.com>
 # Laudatti <Laudatti@gmail.com>
 # strainu <narro@strainu.ro>
+# nicubunu <nicubunu@gmail.com>
 # stas <stas@nerd.ro>
 # janimo <jani@ubuntu.com>
 # turcan <nicturcan@gmail.com>
 # rsandu <razvan.sandu@zando.ro>
-# secarica <orice@secarica.ro>
 #
 -->
 <!--
@@ -27,7 +26,7 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Dosar…">
 <!ENTITY newFolderCmd.accesskey "D">
-<!ENTITY closeTabCmd2.label "Închide tabul">
+<!ENTITY closeTabCmd2.label "Închide fila">
 <!ENTITY closeTabCmd2.accesskey "c">
 <!ENTITY closeOtherTabsCmd2.label "Închide celelalte file">
 <!ENTITY closeOtherTabsCmd2.accesskey "Î">
@@ -46,7 +45,7 @@
 <!ENTITY newOtherAccountsCmd.label "Alte conturi…">
 <!ENTITY newOtherAccountsCmd.accesskey "o">
 <!ENTITY newCreateEmailAccountCmd.label "Obține un cont nou de email…">
-<!ENTITY newCreateEmailAccountCmd.accesskey "n">
+<!ENTITY newCreateEmailAccountCmd.accesskey "O">
 <!ENTITY newExistingEmailAccountCmd.label "Cont existent de email…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "e">
 <!ENTITY openMessageFileCmd.label "Deschide un mesaj salvat…">
@@ -81,8 +80,8 @@
 <!ENTITY compactFolders.accesskey    "C">
 <!ENTITY emptyTrashCmd.label "Golește coșul de gunoi">
 <!ENTITY emptyTrashCmd.accesskey    "G">
-<!ENTITY offlineMenu.label "Deconectați">
-<!ENTITY offlineMenu.accesskey "D">
+<!ENTITY offlineMenu.label "Offline">
+<!ENTITY offlineMenu.accesskey "l">
 <!ENTITY offlineGoOfflineCmd.label "Lucrează offline">
 <!ENTITY offlineGoOfflineCmd.accesskey "L">
 <!ENTITY synchronizeOfflineCmd.label "Descarcă și sincronizează…">
@@ -143,7 +142,7 @@
 <!ENTITY redoDefaultCmd.accesskey "R">
 
 <!-- View Menu -->
-<!ENTITY menubarCmd.label "Bara meniului">
+<!ENTITY menubarCmd.label "Bara cu meniul">
 <!ENTITY menubarCmd.accesskey "m">
 <!ENTITY showMessengerToolbarCmd.label "Bară de unelte pentru corespondență">
 <!ENTITY showMessengerToolbarCmd.accesskey "o">
@@ -159,7 +158,7 @@
 <!ENTITY messagePaneVertical.label "Vedere verticală">
 <!ENTITY messagePaneVertical.accesskey "V">
 <!ENTITY showFolderPaneCmd.label "Panoul cu dosare">
-<!ENTITY showFolderPaneCmd.accesskey "d">
+<!ENTITY showFolderPaneCmd.accesskey "P">
 <!ENTITY showMessageCmd.label "Panoul de mesaj">
 <!ENTITY showMessageCmd.accesskey "m">
 
@@ -439,7 +438,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY markAsReadCmd.label "Ca citit">
 <!ENTITY markAsReadCmd.accesskey "C">
 <!ENTITY markAsUnreadCmd.label "Ca necitit">
-<!ENTITY markAsUnreadCmd.accesskey "C">
+<!ENTITY markAsUnreadCmd.accesskey "n">
 <!ENTITY markThreadAsReadCmd.label "Conversația ca citită">
 <!ENTITY markThreadAsReadCmd.accesskey "t">
 <!ENTITY markThreadAsReadCmd.key "R">
@@ -787,11 +786,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Phishing Bar -->
 <!ENTITY phishingBarMessage2.label "Mesajul acesta poate fi o înșelătorie.">
 <!ENTITY removePhishingBarButton1.label "Ignoră avertismentul">
-<!ENTITY disablePhishingWarning1.label "Dezactivează detecția de mesaje falsificate global">
+<!ENTITY disablePhishingWarning1.label "Dezactivează detecția de mesaje false pentru toate mesajele">
 <!ENTITY reportPhishingError1.label "Acest mesaj nu pare a fi o înșelătorie.">
 
 <!-- MDN Bar -->
-<!ENTITY mdnBarIgnoreButton2.label "Ignorare">
+<!ENTITY mdnBarIgnoreButton2.label "Ignoră">
 <!ENTITY mdnBarIgnoreButton2.accesskey "I">
 <!ENTITY mdnBarSendButton2.label "Trimite confirmare de primire">
 <!ENTITY mdnBarSendButton2.accesskey "T">

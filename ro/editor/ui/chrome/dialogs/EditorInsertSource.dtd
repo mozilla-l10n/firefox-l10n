@@ -58,5 +58,5 @@
 <!ENTITY exampleCloseTag.label "&lt;/i&gt;">
 <!ENTITY exampleText.label "Salutare lume!">
 <!ENTITY insertButton.label "Inserează">
-<!ENTITY insertButton.accesskey "z">
+<!ENTITY insertButton.accesskey "I">
 

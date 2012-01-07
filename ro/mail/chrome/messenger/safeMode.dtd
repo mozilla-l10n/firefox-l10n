@@ -2,14 +2,12 @@
 # Translator(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
-# Laudatti <Laudatti@gmail.com>
 #
 -->
 <!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!-- ***** BEGIN LICENSE BLOCK *****
@@ -51,7 +49,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY safeModeDialog.title             "&brandShortName; - Modul sigur">
-<!ENTITY window.width                     "37em">
+<!ENTITY window.width                     "40em">
 
 <!ENTITY safeModeDescription.label        "&brandShortName; rulează acum în modul sigur, ceea ce înseamnă că sunt dezactivate temporar temele și extensiile dumneavoastră, precum și parametrii personalizați.">
 <!ENTITY safeModeDescription2.label       "Puteți face permanente una sau mai multe din aceste schimbări:">
