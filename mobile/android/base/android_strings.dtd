@@ -19,9 +19,7 @@
 <!ENTITY launcher_shortcuts_empty "Веб-приложения не найдены">
 <!ENTITY choose_file "Выбор файла">
 <!ENTITY awesomebar_default_text "Введите поиск или адрес">
-<!ENTITY bookmarks_title "Закладки">
-<!ENTITY bookmark_add "Закладка">
-<!ENTITY bookmark_remove "Удалить">
+<!ENTITY bookmark "Закладка">
 <!ENTITY bookmark_added "Закладка добавлена">
 <!ENTITY bookmark_removed "Закладка удалена">
 <!ENTITY history_today_section "Сегодня">
@@ -58,6 +56,7 @@
 <!ENTITY pref_use_master_password "Задать мастер-пароль">
 <!ENTITY quit "Выйти">
 <!ENTITY addons "Дополнения">
+<!ENTITY downloads "Загрузки">
 <!ENTITY share "Поделиться">
 <!ENTITY save_as_pdf "Сохранить как PDF">
 <!ENTITY agent_request_desktop "Запросить полный сайт">
