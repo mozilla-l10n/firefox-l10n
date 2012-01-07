@@ -1,10 +1,4 @@
 <!--
-# Translator(s):
-#
-# secarica <orice@secarica.ro>
-#
--->
-<!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
@@ -48,7 +42,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Inserează un tabel">
+<!ENTITY windowTitle.label "Inserare tabel">
 
 <!ENTITY size.label "Mărime">
 <!ENTITY numRowsEditField.label "Rânduri:">

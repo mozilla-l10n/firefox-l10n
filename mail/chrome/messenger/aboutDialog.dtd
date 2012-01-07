@@ -3,15 +3,14 @@
 #
 # raulmalea <raul.malea@gmail.com>
 # Alexandru Szasz <alexxed@gmail.com>
+# secarica <orice@secarica.ro>
 # rsandu <razvan.sandu@zando.ro>
-# Irina Sandu <irina.sandu@mozilla.ro>
 #
 -->
 <!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!ENTITY aboutDialog.title          "Despre &brandFullName;">
@@ -22,9 +21,9 @@
 <!ENTITY community.middle2          ", o ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "comunitate globală">
-<!ENTITY community.end2             " care lucrează împreună pentru a face internetul mai bun. Noi credem că internetul ar trebui să fie deschis, public și accesibil tuturor fără nici o restricție.">
+<!ENTITY community.end2             " care lucrează împreună pentru a face internetul mai bun. Noi credem că internetul ar trebui să fie deschis, public și accesibil tuturor, fără nici o restricție.">
 
-<!ENTITY contribute.start           "Sună interesant? ">
+<!ENTITY contribute.start           "Sună interesant?">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY contribute.getInvolvedLink "Implicați-vă!">
 <!ENTITY contribute.end             "">
@@ -60,7 +59,7 @@
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.manual.start        "Descarcă">
+<!ENTITY update.manual.start        "Download the ">
 <!ENTITY update.manual.linkText     "ultima versiune">
 <!ENTITY update.manual.end          "">
 
@@ -75,7 +74,7 @@
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
-<!ENTITY channel.description.start  "Sunteți în prezent pe ">
+<!ENTITY channel.description.start  "Folosiți în prezent ">
 <!ENTITY channel.description.end    " ca sursă de actualizare. ">
 
 <!ENTITY cmdCloseMac.commandKey "w">

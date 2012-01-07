@@ -3,12 +3,11 @@
 #
 # Alexandru Szasz <alexxed@gmail.com>
 # janimo <jani@ubuntu.com>
+# https://www.google.com/accounts/o8/id?id=AItOawlnUhqAust-7hqM7HhylXGcKyQHz7bLFkw <https://www.google.com/accounts/o8/id?id=AItOawlnUhqAust-7hqM7HhylXGcKyQHz7bLFkw>
 # nicubunu <nicubunu@gmail.com>
 # purica <haliciu@gmail.com>
 # Laudatti <Laudatti@gmail.com>
 # strainu <narro@strainu.ro>
-# rsandu <razvan.sandu@zando.ro>
-# https://www.google.com/accounts/o8/id?id=AItOawlnUhqAust-7hqM7HhylXGcKyQHz7bLFkw <https://www.google.com/accounts/o8/id?id=AItOawlnUhqAust-7hqM7HhylXGcKyQHz7bLFkw>
 #
 -->
 <!--
@@ -67,7 +66,7 @@
 <!ENTITY reuseExpRadio0.accesskey      "O">
 <!ENTITY reuseExpRadio1.label          "O fereastră de mesaj existentă">
 <!ENTITY reuseExpRadio1.accesskey      "x">
-<!ENTITY closeMsgOnMoveOrDelete.label  "Închide fereastra sau tab-ul mesajului la mutare sau ștergere">
+<!ENTITY closeMsgOnMoveOrDelete.label  "Închide fereastra sau fila cu mesajul la mutare sau ștergere">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "c">
 
 <!-- Update -->

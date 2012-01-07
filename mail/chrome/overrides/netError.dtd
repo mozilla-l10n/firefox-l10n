@@ -4,15 +4,14 @@
 # janimo <jani@ubuntu.com>
 # Alexandru Szasz <alexxed@gmail.com>
 # Cristian Silaghi <stelistcristi@yahoo.com>
-# raulmalea <raul.malea@gmail.com>
 # Vestitorul <vestitorul@yahoo.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
-# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
@@ -137,6 +136,6 @@ functionality specific to thunderbird. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
 
-<!ENTITY remoteXUL.title "Remote XUL">
+<!ENTITY remoteXUL.title "XUL la distanță">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Vă rugăm să contactați proprietarii websaitului pentru a-i informa despre această problemă.</li></ul></p>">
 

@@ -63,13 +63,13 @@
 <!ENTITY redoCmd.accesskey                              "R">
 <!ENTITY cutCmd.label                                   "Decupează">
 <!ENTITY cutCmd.key                                     "X">
-<!ENTITY cutCmd.accesskey                               "p">
+<!ENTITY cutCmd.accesskey                               "D">
 <!ENTITY copyCmd.label                                  "Copiază">
 <!ENTITY copyCmd.key                                    "C">
 <!ENTITY copyCmd.accesskey                              "C">
 <!ENTITY pasteCmd.label                                 "Inserează">
 <!ENTITY pasteCmd.key                                   "v">
-<!ENTITY pasteCmd.accesskey                             "z">
+<!ENTITY pasteCmd.accesskey                             "I">
 <!ENTITY deleteCmd.label                                "Șterge">
 <!ENTITY deleteCmd.accesskey                            "t">
 <!ENTITY deleteAbCmd.label                              "Șterge agenda de contacte">
@@ -96,7 +96,7 @@
 <!ENTITY viewMenu.accesskey                             "V">
 <!ENTITY viewToolbarsMenu.label                         "Bare de unelte">
 <!ENTITY viewToolbarsMenu.accesskey                     "t"> 
-<!ENTITY menubarCmd.label                               "Bara cu meniul">
+<!ENTITY menubarCmd.label                               "Bara meniului">
 <!ENTITY menubarCmd.accesskey                           "m">
 <!ENTITY showAbToolbarCmd.label                         "Bara cu contacte">
 <!ENTITY showAbToolbarCmd.accesskey                     "o">
@@ -104,10 +104,10 @@
 <!ENTITY showTaskbarCmd.accesskey                       "s">
 <!ENTITY customizeToolbar.label                         "Personalizează…">
 <!ENTITY customizeToolbar.accesskey                     "P">
-<!ENTITY layoutMenu.label                               "Aranjare">
-<!ENTITY layoutMenu.accesskey                           "r">
-<!ENTITY showDirectoryPane.label                        "Panoul cu agenda">
-<!ENTITY showDirectoryPane.accesskey                    "g">
+<!ENTITY layoutMenu.label                               "Aspect">
+<!ENTITY layoutMenu.accesskey                           "A">
+<!ENTITY showDirectoryPane.label                        "Panoul cu directoare">
+<!ENTITY showDirectoryPane.accesskey                    "d">
 <!ENTITY showContactPane2.label                         "Panoul cu contacte">
 <!ENTITY showContactPane2.accesskey                     "c">
 <!ENTITY menu_ShowNameAs.label                          "Afișează numele în forma">

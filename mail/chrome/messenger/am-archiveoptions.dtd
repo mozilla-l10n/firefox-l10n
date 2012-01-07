@@ -15,13 +15,13 @@
 
 <!ENTITY dialogTitle.label "Opțiuni de arhivare">
 <!ENTITY archiveGranularityPrefix.label "Când se arhivează mesaje, plasează-le în:">
-<!ENTITY archiveFlat.label "Un singur folder">
+<!ENTITY archiveFlat.label "Un singur dosar">
 <!ENTITY archiveFlat.accesskey "s">
-<!ENTITY archiveYearly.label "Foldere de arhivă anuale">
-<!ENTITY archiveYearly.accesskey "F">
-<!ENTITY archiveMonthly.label "Foldere de arhivă lunare">
-<!ENTITY archiveMonthly.accesskey "F">
-<!ENTITY keepFolderStructure.label "Păstrează structura de foldere existentă în mesajele arhivate">
+<!ENTITY archiveYearly.label "Dosare cu arhive pe ani">
+<!ENTITY archiveYearly.accesskey "D">
+<!ENTITY archiveMonthly.label "Dosare cu arhive pe luni">
+<!ENTITY archiveMonthly.accesskey "D">
+<!ENTITY keepFolderStructure.label "Păstrează structura actuală a dosarelor cu mesaje arhivate">
 <!ENTITY keepFolderStructure.accesskey "P">
 <!ENTITY archiveExample.label "Exemplu">
 <!-- LOCALIZATION NOTE (archiveFolderName.label): this should match the default
