@@ -68,3 +68,11 @@
 <!-- Edit menu items -->
 <!ENTITY publishSettings.label "Sivun julkaisun asetukset…">
 <!ENTITY publishSettings.accesskey "j">
+
+<!-- Toolbar buttons/items -->
+<!ENTITY newToolbarCmd.label "Uusi">
+<!ENTITY newToolbarCmd.tooltip "Luo uusi Composer-sivu">
+<!ENTITY openToolbarCmd.label "Avaa">
+<!ENTITY openToolbarCmd.tooltip "Avaa paikallinen tiedosto">
+<!ENTITY saveToolbarCmd.tooltip "Tallenna tiedosto paikalliselle levylle">
+<!ENTITY publishToolbarCmd.tooltip "Siirrä tiedosto palvelimelle">
