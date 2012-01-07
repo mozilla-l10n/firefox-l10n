@@ -5,7 +5,7 @@
 <!ENTITY aboutPage.rights.label                 "Ken uw rechten">
 <!ENTITY aboutPage.relNotes.label               "Uitgaveopmerkingen">
 <!ENTITY aboutPage.credits.label                "Credits">
-<!ENTITY aboutPage.checkForUpdates.button       "Controleren op updates">
+<!ENTITY aboutPage.checkForUpdates.link         "Controleren op updates »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Updates zoeken…">
 <!ENTITY aboutPage.checkForUpdates.none         "Geen updates beschikbaar">
 <!ENTITY aboutPage.checkForUpdates.found        "Update beschikbaar">
