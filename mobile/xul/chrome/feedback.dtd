@@ -1,0 +1,11 @@
+<!ENTITY feedbackHeader2.label          "反馈工具">
+
+<!ENTITY feedback.communicate.title     "传给我们！">
+<!ENTITY feedback.feedback.title        "提供反馈">
+<!ENTITY feedback.feedback.good         "好">
+<!ENTITY feedback.feedback.bad          "坏">
+
+<!ENTITY feedback.tools.title           "工具">
+<!ENTITY feedback.allowTelemetry.title  "发送性能数据">
+<!ENTITY feedback.forceCompat.title     "强制兼容附加组件">
+<!ENTITY feedback.errorConsole.title    "启用错误控制台">
