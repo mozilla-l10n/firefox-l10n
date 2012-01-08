@@ -3,8 +3,6 @@
 <!ENTITY importAllFrom.label             "导入全部项目:">
 <!ENTITY importBookmarksFrom.label       "从此处导入书签:">
 
-<!ENTITY importFromSeamonkey.label       "SeaMonkey 1.x, Netscape 6/7 或 Mozilla 1.x">
-<!ENTITY importFromSeamonkey.accesskey   "S">
 <!ENTITY importFromThunderbird.label     "雷鸟">
 <!ENTITY importFromThunderbird.accesskey "T">
 <!ENTITY importFromFile.label            "文件">

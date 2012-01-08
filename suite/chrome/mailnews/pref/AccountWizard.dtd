@@ -1,7 +1,7 @@
 <!-- Entities for AccountWizard -->
 
 <!ENTITY windowTitle.label "帐户向导">
-<!ENTITY accountWizard.size "宽: 40em; 高: 38em;">
+<!ENTITY accountWizard.size "width: 40em; height: 38em;">
 
 <!-- Entities for Account Type page -->
 
@@ -54,6 +54,10 @@
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
+<!ENTITY portNum.label "端口：">
+<!ENTITY portNum.accesskey "o">
+<!ENTITY defaultPortLabel.label "默认：">
+<!ENTITY defaultPortValue.label "">
 <!ENTITY leaveMsgsOnSrvr.label "把消息留在服务器上">
 <!ENTITY leaveMsgsOnSrvr.accesskey "L">
 
