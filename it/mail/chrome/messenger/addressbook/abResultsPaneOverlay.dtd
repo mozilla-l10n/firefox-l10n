@@ -38,7 +38,7 @@
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY GeneratedName.label "Nome">
 <!ENTITY GeneratedName.accesskey "N">
-<!ENTITY PrimaryEmail.label "E-mail">
+<!ENTITY PrimaryEmail.label "Email">
 <!ENTITY PrimaryEmail.accesskey "E">
 <!ENTITY Company.label "Organizzazione">
 <!ENTITY Company.accesskey "z">
@@ -46,7 +46,7 @@
 <!ENTITY _PhoneticName.accesskey "f">
 <!ENTITY NickName.label "Soprannome">
 <!ENTITY NickName.accesskey "S">
-<!ENTITY SecondEmail.label "E-mail aggiuntiva">
+<!ENTITY SecondEmail.label "Email aggiuntiva">
 <!ENTITY SecondEmail.accesskey "l">
 <!ENTITY Department.label "Reparto">
 <!ENTITY Department.accesskey "r">

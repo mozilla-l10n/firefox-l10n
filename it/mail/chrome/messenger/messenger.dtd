@@ -15,7 +15,7 @@
 <!ENTITY newVirtualFolderCmd.accesskey "S">
 <!ENTITY newOtherAccountsCmd.label "Altri account…">
 <!ENTITY newOtherAccountsCmd.accesskey "t">
-<!ENTITY newCreateEmailAccountCmd.label "Crea un nuovo account e-mail">
+<!ENTITY newCreateEmailAccountCmd.label "Crea un nuovo account email">
 <!ENTITY newCreateEmailAccountCmd.accesskey "C">
 <!ENTITY newExistingEmailAccountCmd.label "Account di email già esistente…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "A">
@@ -544,7 +544,7 @@
 <!ENTITY folderContextFavoriteFolder.accesskey "f">
 <!ENTITY folderContextSettings.label "Impostazioni…">
 <!ENTITY folderContextSettings.accesskey "I">
-<!ENTITY SearchNameOrEmail.label "Nome o E-mail contengono:">
+<!ENTITY SearchNameOrEmail.label "Nome o Email contengono:">
 <!ENTITY SearchNameOrEmail.accesskey "c">
 <!ENTITY glodaSearchBar.placeholder "Ricerca messaggi…">
 <!ENTITY searchSubjectMenu.label "Oggetto">
@@ -669,7 +669,7 @@
 <!ENTITY SubscribeToNewsgroup.accesskey "u">
 <!ENTITY SendMessageTo.label "Scrivi messaggio a">
 <!ENTITY SendMessageTo.accesskey "S">
-<!ENTITY CopyEmailAddress.label "Copia indirizzo e-mail">
+<!ENTITY CopyEmailAddress.label "Copia indirizzo email">
 <!ENTITY CopyEmailAddress.accesskey "C">
 <!ENTITY CopyNewsgroupName.label "Copia nome del gruppo di discussione">
 <!ENTITY CopyNewsgroupName.accesskey "C">
@@ -689,7 +689,7 @@
 <!ENTITY copyLinkCmd.accesskey "C">
 <!ENTITY copyImageAllCmd.label "Copia immagine">
 <!ENTITY copyImageAllCmd.accesskey "I">
-<!ENTITY copyEmailCmd.label "Copia indirizzo e-mail">
+<!ENTITY copyEmailCmd.label "Copia indirizzo email">
 <!ENTITY copyEmailCmd.accesskey "i">
 <!ENTITY stopCmd.label "Interrompi">
 <!ENTITY stopCmd.accesskey "e">

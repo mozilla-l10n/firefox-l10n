@@ -5,7 +5,7 @@
 <!ENTITY identityDesc.label "Ogni account ha la propria identità cioè le informazioni che le altre persone vedono quando leggono i messaggi.">
 <!ENTITY name.label "Nome:">
 <!ENTITY name.accesskey "N">
-<!ENTITY email.label "Indirizzo e-mail:">
+<!ENTITY email.label "Indirizzo email:">
 <!ENTITY email.accesskey "I">
 <!ENTITY replyTo.label "Indirizzo per risposte:">
 <!ENTITY replyTo.accesskey "z">

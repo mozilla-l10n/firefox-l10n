@@ -128,14 +128,14 @@
 <!ENTITY newIM.tooltip "Invia un messaggio istantaneo o avvia la chat">
 <!ENTITY deleteButton2.tooltip "Elimina gli oggetti selezionati">
 <!ENTITY dirTreeHeader.label "Rubriche">
-<!ENTITY SearchNameOrEmail.label "Nome o e-mail">
+<!ENTITY SearchNameOrEmail.label "Nome o email">
 <!ENTITY SearchNameOrEmail.accesskey "N">
 <!ENTITY advancedButton.tooltip "Ricerca avanzata">
 <!ENTITY quickSearchCmd.key "k">
 <!ENTITY searchItem.title "Ricerca veloce">
 <!ENTITY GeneratedName.label "Nome">
 <!ENTITY GeneratedName.accesskey "N">
-<!ENTITY PrimaryEmail.label "E-mail">
+<!ENTITY PrimaryEmail.label "Email">
 <!ENTITY PrimaryEmail.accesskey "m">
 <!ENTITY ScreenName.label "Nome Instant Messenger">
 <!ENTITY ScreenName.accesskey "g">
@@ -143,7 +143,7 @@
 <!ENTITY Company.accesskey "O">
 <!ENTITY NickName.label "Soprannome">
 <!ENTITY NickName.accesskey "S">
-<!ENTITY SecondEmail.label "E-mail aggiuntiva">
+<!ENTITY SecondEmail.label "Email aggiuntiva">
 <!ENTITY SecondEmail.accesskey "I">
 <!ENTITY Department.label "Reparto">
 <!ENTITY Department.accesskey "r">
