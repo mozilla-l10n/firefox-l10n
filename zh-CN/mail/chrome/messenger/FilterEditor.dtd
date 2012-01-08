@@ -28,6 +28,7 @@
 <!ENTITY forwardTo.label "转发消息至">
 <!ENTITY replyWithTemplate.label "使用模板回复">
 <!ENTITY markMessageRead.label "标记为已读">
+<!ENTITY markMessageUnread.label "标记为未读">
 <!ENTITY markMessageStarred.label "添加星标">
 <!ENTITY setPriority.label "设置优先级为">
 <!ENTITY addTag.label "为消息添加标签">

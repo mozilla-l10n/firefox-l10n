@@ -68,3 +68,11 @@
 <!-- Edit menu items -->
 <!ENTITY publishSettings.label "发布站点设置…">
 <!ENTITY publishSettings.accesskey "b">
+
+<!-- Toolbar buttons/items -->
+<!ENTITY newToolbarCmd.label "新建">
+<!ENTITY newToolbarCmd.tooltip "创建一个新编写窗口">
+<!ENTITY openToolbarCmd.label "打开">
+<!ENTITY openToolbarCmd.tooltip "打开本地文件">
+<!ENTITY saveToolbarCmd.tooltip "将文件保存在本地">
+<!ENTITY publishToolbarCmd.tooltip "上载文件到远端地址">

@@ -5,14 +5,19 @@
 <!ENTITY SearchNameOrEmail.label            "名称或者电子邮件">
 
 <!ENTITY deleteAddrBookCard.label           "删除">
+<!ENTITY deleteAddrBookCard.accesskey       "D">
 <!ENTITY addrBookCardProperties.label       "属性">
+<!ENTITY addrBookCardProperties.accesskey   "P">
 <!ENTITY addtoToFieldMenu.label             "添加至收件人栏">
+<!ENTITY addtoToFieldMenu.accesskey         "A">
 <!ENTITY addtoCcFieldMenu.label             "添加至抄送栏">
+<!ENTITY addtoCcFieldMenu.accesskey         "C">
 <!ENTITY addtoBccFieldMenu.label            "添加至密件抄送栏">
+<!ENTITY addtoBccFieldMenu.accesskey        "B">
 
 <!ENTITY toButton.label                     "添加至收件人：">
 <!ENTITY toButton.accesskey                 "A">
 <!ENTITY ccButton.label                     "添加至抄送：">
-<!ENTITY ccButton.accesskey                 "d">
+<!ENTITY ccButton.accesskey                 "C">
 <!ENTITY bccButton.label                    "添加至密件抄送:">
 <!ENTITY bccButton.accesskey                "B">
