@@ -407,7 +407,7 @@
 <!ENTITY searchMailCmd.accesskey "M">
 <!ENTITY searchMailCmd.key "s">
 <!ENTITY searchAddressesCmd.label "搜索地址…">
-<!ENTITY searchAddressesCmd.accesskey "S">
+<!ENTITY searchAddressesCmd.accesskey "c">
 <!ENTITY filtersCmd.label "消息过滤器…">
 <!ENTITY filtersCmd.accesskey "F">
 <!ENTITY filtersApply.label "对文件夹执行过滤器">

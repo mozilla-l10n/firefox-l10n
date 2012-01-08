@@ -84,7 +84,7 @@
 
 <!-- Tools Menu -->
 <!ENTITY searchInternetCmd.label "搜索互联网 (S)">
-<!ENTITY searchInternetCmd.accesskey "S">
+<!ENTITY searchInternetCmd.accesskey "b">
 <!ENTITY searchInternet.commandKey "s">
 <!ENTITY translateMenu.label "翻译页面">
 <!ENTITY translateMenu.accesskey "T">
