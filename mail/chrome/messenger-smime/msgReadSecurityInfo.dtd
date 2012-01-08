@@ -3,5 +3,5 @@
 <!ENTITY encryptionCert.label "Mostra certificato di cifratura">
 <!ENTITY signer.name "Firmato da:">
 <!ENTITY recipient.name "Cifrato per:">
-<!ENTITY email.address "Indirizzo e-mail:">
+<!ENTITY email.address "Indirizzo email:">
 <!ENTITY issuer.name "Certificato rilasciato da:">

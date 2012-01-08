@@ -18,9 +18,9 @@
 <!ENTITY preferDisplayName.accesskey "P">
 <!ENTITY NickName.label "Soprannome:">
 <!ENTITY NickName.accesskey "S">
-<!ENTITY PrimaryEmail.label "E-mail:">
+<!ENTITY PrimaryEmail.label "Email:">
 <!ENTITY PrimaryEmail.accesskey "-">
-<!ENTITY SecondEmail.label "E-mail aggiuntiva:">
+<!ENTITY SecondEmail.label "Email aggiuntiva:">
 <!ENTITY SecondEmail.accesskey "a">
 <!ENTITY PreferMailFormat.label "Formato preferito per i messaggi di posta:">
 <!ENTITY PreferMailFormat.accesskey "o">

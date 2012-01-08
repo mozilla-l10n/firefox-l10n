@@ -14,7 +14,7 @@
 <!ENTITY fullnameExample.label "(ad esempio, &quot;Mario Rossi&quot;).">
 <!ENTITY fullnameLabel.label "Nome:">
 <!ENTITY fullnameLabel.accesskey "N">
-<!ENTITY emailLabel.label "Indirizzo e-mail:">
+<!ENTITY emailLabel.label "Indirizzo email:">
 <!ENTITY emailLabel.accesskey "I">
 <!ENTITY serverTitle.label "Informazioni sul server">
 <!ENTITY incomingServerTypeDesc.label "Selezionare il tipo di server in ingresso utilizzato.">
