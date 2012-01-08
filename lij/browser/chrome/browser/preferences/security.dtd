@@ -8,7 +8,7 @@
   useDownloadedList.label convey the meaning "reported" (and not something like
   "known").
 -->
-<!ENTITY  blockAttackSites.label     "Blòcco pe-i atàcchi di scîti">
+<!ENTITY  blockAttackSites.label     "Blòcco pe-i scîti d'atàcco">
 <!ENTITY  blockAttackSites.accesskey "B">
 
 <!ENTITY  blockWebForgeries.label     "Blòcco pe-e falsificaçión web">
