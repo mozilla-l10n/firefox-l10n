@@ -40,7 +40,9 @@
 <!ENTITY connectionSettings.label        "设置…">
 <!ENTITY connectionSettings.accesskey    "e">
 
-<!ENTITY offlineStorage.label            "脱机存储">
+<!ENTITY httpCache.label                 "网络内容缓存">
+
+<!ENTITY offlineStorage2.label           "离线 Web 内容和用户数据">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -53,6 +55,8 @@
 <!ENTITY limitCacheSizeAfter.label       "MB 磁盘空间">
 <!ENTITY clearCacheNow.label             "立即清除">
 <!ENTITY clearCacheNow.accesskey         "C">
+<!ENTITY clearOfflineAppCacheNow.label   "立即清除">
+<!ENTITY clearOfflineAppCacheNow.accesskey "N">
 <!ENTITY overrideSmartCacheSize.label    "无视自动缓存管理">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
@@ -76,8 +80,6 @@
 <!ENTITY useService.accesskey            "b">
 
 <!ENTITY updateOthers.label              "自动更新：">
-<!ENTITY enableAddonsUpdate3.label       "附加组件">
-<!ENTITY enableAddonsUpdate3.accesskey   "o">
 <!ENTITY enableSearchUpdate.label        "搜索引擎">
 <!ENTITY enableSearchUpdate.accesskey    "E">
 
@@ -86,7 +88,7 @@
 <!ENTITY offlineNotifyExceptions.label   "例外…">
 <!ENTITY offlineNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList.label           "下列网站已保存了供脱机使用的数据：">
+<!ENTITY offlineAppsList2.label          "以下网站被允许存储供离线使用的数据：">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "移除…">
 <!ENTITY offlineAppsListRemove.accesskey "R">

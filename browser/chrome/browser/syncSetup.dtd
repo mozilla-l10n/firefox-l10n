@@ -1,10 +1,10 @@
-<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; 安装">
+<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; 初始设置">
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "欢迎，如果您以前从未使用过 &syncBrand.fullName.label;，您将需要创建一个新帐户。">
+<!ENTITY setup.pickSetupType.description2 "欢迎！如果您以前从未使用过 &syncBrand.fullName.label;，您将需要创建一个新帐户。">
 <!ENTITY button.createNewAccount.label "创建一个新帐户">
-<!ENTITY button.haveAccount.label      "已有帐号">
+<!ENTITY button.haveAccount.label      "已有帐户">
 
 <!ENTITY setup.choicePage.title.label     "您以前是否使用过 &syncBrand.fullName.label;？">
 <!ENTITY setup.choicePage.new.label       "我以前从未使用过 &syncBrand.shortName.label;">
@@ -54,9 +54,9 @@
 
 <!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
 <!ENTITY pairDevice.title.label             "设备配对">
-<!ENTITY addDevice.showMeHow.label          "告诉我怎么办。">
+<!ENTITY addDevice.showMeHow.label          "告诉我该怎么做。">
 <!ENTITY addDevice.dontHaveDevice.label     "该设备不在我身边">
-<!ENTITY pairDevice.setup.description.label  "请在您的其他设备上选择 &#x0022;设备配对&#x0022; 来激活。">
+<!ENTITY pairDevice.setup.description.label  "请在您的其他设备上选择“设备配对”来激活。">
 <!ENTITY addDevice.setup.enterCode.label    "然后，输入此代码：">
 <!ENTITY pairDevice.dialog.description.label "请在设备上选择 &#x0022;设置同步&#x0022; 来激活您的新设备。">
 <!ENTITY addDevice.dialog.enterCode.label   "请输入该设备提供的代码：">
@@ -67,7 +67,7 @@
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "登录">
-<!ENTITY existingRecoveryKey.description "您可以到您其他设备的 &syncBrand.shortName.label; 选项页面然后选择 &#x0022;管理帐户&#x0022; 下的 &#x0022;我的恢复密钥 &#x0022; 来获取一个拷贝。">
+<!ENTITY existingRecoveryKey.description "您可以到您其他设备上的 &syncBrand.shortName.label; 选项界面，选择“管理帐户”下方的“我的恢复密钥”来获得一份拷贝。">
 <!ENTITY verifying.label              "正在校验…">
 <!ENTITY resetPassword.label          "重置密码">
 <!ENTITY resetSyncKey.label           "我丢失了其它设备。">
@@ -88,6 +88,8 @@
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "首选项">
 <!ENTITY engine.prefs.accesskey     "S">
+<!ENTITY engine.addons.label        "附加组件">
+<!ENTITY engine.addons.accesskey    "A">
 
 <!ENTITY choice2.merge.main.label      "用我的 &syncBrand.shortName.label; 数据合并这台电脑的数据">
 <!ENTITY choice2.merge.recommended.label "推荐：">
