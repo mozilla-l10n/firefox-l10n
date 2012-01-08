@@ -42,7 +42,7 @@
 <!ENTITY page.label           "第">
 <!ENTITY page.accesskey       "a">
 <!ENTITY of.label             "页 共">
-<!ENTITY scale.label          "尺寸：">
+<!ENTITY scale.label          "比例：">
 <!ENTITY scale.accesskey      "S">
 <!ENTITY portrait.label       "纵向">
 <!ENTITY portrait.accesskey   "o">
@@ -64,7 +64,7 @@
 <!ENTITY p200.label           "200&#037;">
 <!ENTITY Custom.label         "定制…">
 <!ENTITY ShrinkToFit.label    "调整到适合">
-<!ENTITY customPrompt.title   "定制尺寸…">
+<!ENTITY customPrompt.title   "自定义比例…">
 
 <!ENTITY homearrow.tooltip    "第一页">
 <!ENTITY endarrow.tooltip     "末页">

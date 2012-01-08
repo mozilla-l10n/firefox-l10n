@@ -217,8 +217,17 @@ can reach it easily. -->
 <!ENTITY inspectButton.label            "查看">
 <!ENTITY inspectButton.accesskey        "I">
 <!ENTITY inspectCloseButton.tooltiptext "关闭查看器">
+<!ENTITY inspect3DButton.label        "3D">
+<!ENTITY inspect3DButton.accesskey    "M">
 <!ENTITY inspectStyleButton.label     "样式">
 <!ENTITY inspectStyleButton.accesskey "S">
+
+<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
+  -  in the Tools menu. -->
+<!ENTITY styleeditor.label            "样式编辑器">
+<!ENTITY styleeditor.accesskey        "y">
+<!ENTITY styleeditor.keycode          "VK_F7">
+<!ENTITY styleeditor.keytext          "F7">
 
 <!ENTITY getMoreDevtoolsCmd.label        "获取更多工具">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "M">
@@ -297,9 +306,9 @@ can reach it easily. -->
 <!ENTITY appMenuSidebars.label "侧边栏">
 <!ENTITY appMenuFind.label "查找…">
 <!ENTITY appMenuUnsorted.label "未分类书签">
-<!ENTITY appMenuWebDeveloper.label "Web 开发人员">
+<!ENTITY appMenuWebDeveloper.label "Web 开发者">
 <!ENTITY appMenuGettingStarted.label "新手上路">
-<!ENTITY appMenuSafeMode.label "重新启动并禁用附加组件…">
+<!ENTITY appMenuSafeMode.label "以安全模式重新启动…">
 <!ENTITY appMenuSafeMode.accesskey "R">
 
 <!ENTITY openCmd.commandkey           "l">
@@ -422,14 +431,23 @@ can reach it easily. -->
 <!ENTITY thisFrameMenu.accesskey          "h">
 
 <!-- Media (video/audio) controls -->
+<!-- LOCALIZATION NOTE: The access keys for "Play" and
+"Pause" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaPlay.label             "播放">
 <!ENTITY mediaPlay.accesskey         "P">
 <!ENTITY mediaPause.label            "暂停">
 <!ENTITY mediaPause.accesskey        "P">
+<!-- LOCALIZATION NOTE: The access keys for "Mute" and
+"Unmute" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "静音">
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "恢复声音">
 <!ENTITY mediaUnmute.accesskey       "m">
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "显示控制界面">
 <!ENTITY mediaShowControls.accesskey "C">
 <!ENTITY mediaHideControls.label     "隐藏控制界面">
@@ -438,6 +456,9 @@ can reach it easily. -->
 <!ENTITY videoFullScreen.accesskey   "F">
 <!ENTITY videoSaveImage.label        "快照另存为…">
 <!ENTITY videoSaveImage.accesskey    "S">
+<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
+"Hide Statistics" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY videoShowStats.label        "显示统计信息">
 <!ENTITY videoShowStats.accesskey    "t">
 <!ENTITY videoHideStats.label        "隐藏统计信息">

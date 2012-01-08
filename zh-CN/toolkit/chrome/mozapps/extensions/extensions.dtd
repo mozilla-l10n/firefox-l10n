@@ -1,5 +1,10 @@
 <!ENTITY addons.windowTitle                   "附加组件管理器">
-<!ENTITY search.placeholder                   "搜索全部附加组件">
+
+<!ENTITY search.placeholder                   "搜索所有附加组件">
+<!-- LOCALIZATION NOTE (search.commandKey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
+
 <!ENTITY loading.label                        "载入中…">
 <!ENTITY listEmpty.installed.label            "您还没有安装此类型的任何附加组件">
 <!ENTITY listEmpty.availableUpdates.label     "没有找到更新">
@@ -15,7 +20,7 @@
 <!ENTITY cmd.forward.tooltip                  "转到下一页">
 
 <!-- global warnings -->
-<!ENTITY warning.safemode.label                    "安全模式下，全部附加组件都被禁用。">
+<!ENTITY warning.safemode.label                    "安全模式下，所有附加组件都已被禁用。">
 <!ENTITY warning.checkcompatibility.label          "附加组件兼容性检查已禁用。您可能有不兼容的附加组件。">
 <!ENTITY warning.checkcompatibility.enable.label   "启用">
 <!ENTITY warning.checkcompatibility.enable.tooltip "启用附加组件兼容性检查">
@@ -190,7 +195,7 @@
 <!ENTITY addon.loadingReleaseNotes.label      "载入中…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "抱歉，载入该发行说明时发生了一个错误。">
 
-<!ENTITY addon.createdBy.label                "由 ">
+<!ENTITY addon.createdBy.label                "创建者 ">
 
 <!ENTITY eula.title                           "用户协议">
 <!ENTITY eula.width                           "560px">
