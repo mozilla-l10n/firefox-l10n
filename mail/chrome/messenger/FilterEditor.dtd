@@ -23,6 +23,7 @@
 <!ENTITY forwardTo.label "Inoltra il messaggio a">
 <!ENTITY replyWithTemplate.label "Rispondi con un modello">
 <!ENTITY markMessageRead.label "Segna il messaggio come già letto">
+<!ENTITY markMessageUnread.label "Segna come non letto">
 <!ENTITY markMessageStarred.label "Aggiungi a Speciali">
 <!ENTITY setPriority.label "Imposta priorità a">
 <!ENTITY addTag.label "Etichetta il messaggio">
