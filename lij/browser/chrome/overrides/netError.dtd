@@ -110,7 +110,7 @@
  ">
 
 <!ENTITY cspFrameAncestorBlocked.title "Blocòu da teu Politica de Seguéssa do Contegnûo">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>O browser evita che sta pàgina chi a vegne caregâ a sto mòddo perché gh'à unn-a politica de seguéssa che n'ou permétte.</p>">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>O &brandShortName; evita che sta pàgina chi a vegne caregâ a sto mòddo perché a gh'à 'na politica de seguéssa che nò-u permétte.</p>">
 
 <!ENTITY corruptedContentError.title "Erô de contegnuo corotto">
 <!ENTITY corruptedContentError.longDesc "<p>A pàgina che ti çerchi de védde a no peu mostrâse perché s'é atrovòu un erô inta trasmisción di dæti.</p><ul><li>Pe piaxei, contatta i padroìn do scîto pe faghe savéi de questo problêma.</li></ul>">

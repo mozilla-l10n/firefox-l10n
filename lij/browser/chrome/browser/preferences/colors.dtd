@@ -2,7 +2,7 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "Permétti a-e pagine de scélie i coî">
+<!ENTITY  allowPagesToUse.label           "Permétti a-e pàgine de scélie i coî">
 <!ENTITY  allowPagesToUse.accesskey       "a">
 
 <!ENTITY  color                           "Testo e sfondo">
