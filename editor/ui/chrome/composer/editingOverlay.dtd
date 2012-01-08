@@ -68,3 +68,11 @@
 <!-- Edit menu items -->
 <!ENTITY publishSettings.label "Nastavitve strani za objavo …">
 <!ENTITY publishSettings.accesskey "b">
+
+<!-- Toolbar buttons/items -->
+<!ENTITY newToolbarCmd.label "Novo">
+<!ENTITY newToolbarCmd.tooltip "Ustvari novo stran v Composerju">
+<!ENTITY openToolbarCmd.label "Odpri">
+<!ENTITY openToolbarCmd.tooltip "Odpri krajevno datoteko">
+<!ENTITY saveToolbarCmd.tooltip "Shrani datoteko na krajevno mesto">
+<!ENTITY publishToolbarCmd.tooltip "Prenesi datoteko na oddaljeno mesto">

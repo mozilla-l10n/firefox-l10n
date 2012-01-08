@@ -28,6 +28,7 @@
 <!ENTITY forwardTo.label "Posreduj sporočilo v">
 <!ENTITY replyWithTemplate.label "Odgovori s predlogo">
 <!ENTITY markMessageRead.label "Označi kot prebrano">
+<!ENTITY markMessageUnread.label "Označi kot neprebrano">
 <!ENTITY markMessageStarred.label "Dodaj zvezdico">
 <!ENTITY setPriority.label "Nastavi prioriteto na">
 <!ENTITY addTag.label "Označi sporočilo">
