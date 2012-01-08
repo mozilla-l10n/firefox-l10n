@@ -49,3 +49,7 @@
 <!ENTITY pref.defaultlength.accesskey "E">
 <!ENTITY pref.defaultsnoozelength.label "默认暂缓时间：" >
 <!ENTITY pref.defaultsnoozelength.accesskey "S">
+
+<!ENTITY pref.accessibility.label "可用性" >
+<!ENTITY pref.systemcolors.label "为无障碍使用优化颜色" >
+<!ENTITY pref.systemcolors.accesskey "c">

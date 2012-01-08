@@ -78,8 +78,10 @@
 <!ENTITY lightning.toolbar.mail.label         "邮件">
 <!ENTITY lightning.toolbar.mail.accesskey     "M">
 <!ENTITY lightning.toolbar.calendar.label     "日历">
+<!ENTITY lightning.toolbar.calendar.tooltip   "切换到日历标签页">
 <!ENTITY lightning.toolbar.calendar.accesskey "C">
 <!ENTITY lightning.toolbar.task.label         "任务">
+<!ENTITY lightning.toolbar.task.tooltip       "切换到任务标签页">
 <!ENTITY lightning.toolbar.task.accesskey     "T">
 
 <!-- Toolbar write button -->
