@@ -326,12 +326,6 @@
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Vrstica z menijem">
 <!ENTITY formatToolbar.tooltip "Orodna vrstica za oblikovanje">
-<!ENTITY newToolbarCmd.label "Novo">
-<!ENTITY newToolbarCmd.tooltip "Ustvari novo stran v Composerju">
-<!ENTITY openToolbarCmd.label "Odpri">
-<!ENTITY openToolbarCmd.tooltip "Odpri krajevno datoteko">
-<!ENTITY saveToolbarCmd.tooltip "Shrani datoteko na krajevno mesto">
-<!ENTITY publishToolbarCmd.tooltip "Prenesi datoteko na oddaljeno mesto">
 <!ENTITY cutToolbarCmd.tooltip "Izreži">
 <!ENTITY copyToolbarCmd.tooltip "Kopiraj">
 <!ENTITY pasteToolbarCmd.tooltip "Prilepi">
