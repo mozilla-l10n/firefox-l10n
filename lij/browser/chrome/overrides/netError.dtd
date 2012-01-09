@@ -113,7 +113,7 @@
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>O &brandShortName; evita che sta pàgina chi a vegne caregâ a sto mòddo perché a gh'à 'na politica de seguéssa che nò-u permétte.</p>">
 
 <!ENTITY corruptedContentError.title "Erô de contegnuo corotto">
-<!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>A pàgina che ti çerchi de védde a no peu mostrâse perché s'é atrovòu un erô inta trasmisción di dæti.</p><ul><li>Pe piaxei, contatta i padroìn do scîto pe faghe savéi de questo problêma.</li></ul>">
 
 
 <!ENTITY securityOverride.linkText "ò ti peu azónze 'na eceçión…">

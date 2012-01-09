@@ -28,7 +28,7 @@
 <!ENTITY notCached.longDesc "<p>O docùmento domandòu o no gh'é inta cache do navegatô.</p><ul><li>Pe seguéssa o navegatô no domanda in aotomàtico docùmenti senscìbili.</li><li>Sciàcca Prêuva ancón pe domandâ tórna o docùmento ao scîto .</li></ul>">
 
 <!ENTITY netOffline.title "Mòddo fêua linia">
-<!ENTITY netOffline.longDesc2 "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>O navegatô o l'é atîvo in mòddo fêua linia e o no peu colegase a l'ògétto çernûo.</p><ul><li>O computer o l'é conésso a 'na ræ atîva?</li><li>Sciàcca &quot;Prêuva Ancón&quot; pe pasâ a-o mòddo in linia e caregâ tórna a pàgina.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Erô de còdifica do contegnûo">
 <!ENTITY contentEncodingError.longDesc "<p>A pàgina che t'eu védde a no se peu vizoalizâ perché a gh'à 'na compresción ch'a no l'é soportâ.</p><ul><li>Pe favô ciàmma o propiêtâio do scîto pe informâlo do problêma.</li></ul>">
@@ -65,8 +65,8 @@
 
 <!ENTITY nssBadCert.title "Conesción segûa no rioscîa">
 <!ENTITY nssBadCert.longDesc2 "<ul>
-<li>This could be a problem with the server's configuration, or it could be someone trying to impersonate the server.</li>
-<li>If you have connected to this server successfully in the past, the error may be temporary, and you can try again later.</li>
+<li>Sto chi peu êse un problêma co-e inpostaçión do server ò peu ascì êse quarchedùn che o prêuva a fâ finta de êse o server.</li>
+<li>Se ti te conésso sénsa problêmi a sto server into passòu, alôa o erô peu esê ténporaneo e ti peu provâ ancón dòppo.</li>
 </ul>
 ">
 
@@ -83,7 +83,7 @@
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>O navegatô evita che sta pàgina chi a vegne caregâ a sto mòddo perché gh'à 'na politica de seguéssa che nò-u permétte.</p>">
 
 <!ENTITY corruptedContentError.title "Erô de contegnuo corotto">
-<!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>A pàgina che ti çerchi de védde a no peu mostrâse perché s'é atrovòu un erô inta trasmisción di dæti.</p><ul><li>Pe piaxei, contatta i padroìn do scîto pe faghe savéi de questo problêma.</li></ul>">
 
 <!ENTITY remoteXUL.title "XUL Remòto">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Pe favô ciàmma o propiêtâio do scîto pe informâlo do problêma.</li></ul></p>">
