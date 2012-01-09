@@ -4,6 +4,11 @@
 <!ENTITY  no_space_to_start_error "无足够的空间以启动 &brandShortName;。">
 <!ENTITY  error_loading_file "载入运行 &brandShortName; 所需的文件时发生错误">
 
+<!ENTITY  awesomebar_all_pages_title "最常用站点">
+<!ENTITY  awesomebar_bookmarks_title "书签">
+<!ENTITY  awesomebar_history_title "历史">
+<!ENTITY  awesomebar_search_engine "搜索 \&quot;&#037;s\&quot;">
+
 <!ENTITY  crash_reporter_title "&brandShortName; 崩溃报告器">
 <!ENTITY  crash_message "&brandShortName; 已崩溃。您的标签页将在重启 &brandShortName; 时列在开始页面。">
 <!ENTITY  crash_help_message "请帮助我们修正此问题！">
@@ -19,3 +24,73 @@
 <!ENTITY  launcher_shortcuts_empty "没有发现任何网页应用程序">
 
 <!ENTITY choose_file "选择文件">
+
+<!ENTITY awesomebar_default_text "输入搜索或地址">
+
+<!ENTITY bookmarks_title "书签">
+<!ENTITY bookmark_add "书签">
+<!ENTITY bookmark_remove "移除">
+<!ENTITY bookmark_added "书签已添加">
+<!ENTITY bookmark_removed "书签已移除">
+
+<!ENTITY history_today_section "今天">
+<!ENTITY history_yesterday_section "昨天">
+<!ENTITY history_week_section "七天前">
+<!ENTITY history_older_section "早于七天">
+
+<!ENTITY reload "重新加载">
+<!ENTITY forward "前进">
+
+<!ENTITY new_tab "新建标签页">
+
+<!ENTITY settings "设置">
+<!ENTITY settings_title "设置">
+<!ENTITY pref_category_general "常规">
+<!ENTITY pref_category_privacy "隐私和安全">
+<!ENTITY pref_category_content "内容">
+<!ENTITY pref_about_firefox "关于 &brandShortName;">
+<!ENTITY pref_do_not_track "告诉网站不要追踪我">
+<!ENTITY pref_telemetry "发送性能数据">
+<!ENTITY pref_remember_signons "记住密码">
+<!ENTITY pref_cookies "启用 cookie">
+<!ENTITY pref_char_encoding "显示字符编码">
+<!ENTITY pref_clear_history "清空历史记录">
+<!ENTITY pref_clear_history_confirm "浏览历史记录将被删除">
+<!ENTITY pref_clear_private_data "清除隐私数据">
+<!ENTITY pref_clear_private_data_confirm "浏览设置，包括密码和 cookie，都将被删除">
+<!ENTITY pref_enable_plugins "启用插件">
+<!ENTITY pref_enable_plugins_yes "是">
+<!ENTITY pref_enable_plugins_tap_to_play "轻击即可播放">
+<!ENTITY pref_enable_plugins_no "否">
+<!ENTITY pref_font_size "字体大小">
+<!ENTITY pref_font_size_small "小">
+<!ENTITY pref_font_size_medium "中">
+<!ENTITY pref_font_size_large "大">
+<!ENTITY pref_font_size_xlarge "超大">
+<!ENTITY pref_use_master_password "使用主密码">
+
+<!ENTITY quit "退出">
+
+<!ENTITY addons "附加组件">
+
+<!ENTITY share "共享">
+<!ENTITY save_as_pdf "另存为 PDF">
+<!ENTITY agent_request_desktop "请求桌面版网站">
+<!ENTITY agent_request_mobile "请求移动版网站">
+
+<!ENTITY contextmenu_open_new_tab "在新标签页中打开">
+<!ENTITY contextmenu_add_to_launcher "添加到主屏幕">
+<!ENTITY contextmenu_share "共享">
+
+<!ENTITY site_settings_title        "清空站点设置">
+<!ENTITY site_settings_cancel       "取消">
+<!ENTITY site_settings_clear        "清除">
+<!ENTITY site_settings_no_settings  "无需要清空的设置。">
+
+<!ENTITY masterpassword_create_title "创建主密码">
+<!ENTITY masterpassword_remove_title "移除主密码">
+<!ENTITY masterpassword_password "密码">
+<!ENTITY masterpassword_confirm "确认密码">
+
+<!ENTITY button_ok "确定">
+<!ENTITY button_cancel "取消">
