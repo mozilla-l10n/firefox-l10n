@@ -337,6 +337,7 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY thisFolder.label "Ce dossier">
 <!ENTITY thisFolder.accesskey "C">
 <!ENTITY goRecentlyClosedTabs.label "Onglets récemment fermés">
+<!ENTITY goRecentlyClosedTabs.accesskey "r">
 <!ENTITY startPageCmd.label "Page de démarrage">
 <!ENTITY startPageCmd.accesskey "g">
 
