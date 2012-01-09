@@ -41,9 +41,9 @@
 <!ENTITY connectionSettings.label        "Inpostaçioìn…">
 <!ENTITY connectionSettings.accesskey    "I">
 
-<!ENTITY httpCache.label                 "Cached Web Content">
+<!ENTITY httpCache.label                 "Contegnûo Web inta cache">
 
-<!ENTITY offlineStorage2.label           "Offline Web Content and User Data">
+<!ENTITY offlineStorage2.label           "Contegnûo Web e dæti ùtente fêua linia">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -89,7 +89,7 @@
 <!ENTITY offlineNotifyExceptions.label   "Eceçioìn…">
 <!ENTITY offlineNotifyExceptions.accesskey "E">
 
-<!ENTITY offlineAppsList2.label          "The following websites are allowed to store data for offline use:">
+<!ENTITY offlineAppsList2.label          "Sti scîti chi pêuan sarvâ dæti pe l'ûzo fêua linia:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Leva da mêzo…">
 <!ENTITY offlineAppsListRemove.accesskey "L">

@@ -3,7 +3,7 @@
 <!ENTITY muteButton.muteLabel "Mùtto">
 <!ENTITY muteButton.unmuteLabel "Fanni sentî">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Full Screen">
-<!ENTITY fullscreenButton.exitfullscreenlabel "Exit Full Screen">
+<!ENTITY fullscreenButton.exitfullscreenlabel "Sciòrti dò-u mòddo a tùtto schèrmo">
 
 <!ENTITY stats.media "Media">
 <!ENTITY stats.size "Dimensción">
@@ -20,9 +20,9 @@
 <!ENTITY stats.framesPresented "Frame presentæ">
 <!ENTITY stats.framesPainted "Frame disegnæ">
 
-<!ENTITY error.aborted "Video loading stopped.">
-<!ENTITY error.network "Video playback aborted due to a network error.">
-<!ENTITY error.decode "Video can't be played because the file is corrupt.">
+<!ENTITY error.aborted "Caregaménto do video fermòu.">
+<!ENTITY error.network "Riproduçión video fermâ a caoza de 'n'erô da ræ.">
+<!ENTITY error.decode "Riproduçión video inposcìblie a caoza de 'n file aroinòu.">
 <!ENTITY error.srcNotSupported "Video format or MIME type is not supported.">
 <!ENTITY error.noSource2 "No video with supported format and MIME type found.">
 <!ENTITY error.generic "Video playback aborted due to an unknown error.">

@@ -45,7 +45,7 @@
      when the stylesheet uses the scoped attribute on the <style> element. -->
 <!ENTITY scoped.label               "Scoped.">
 
-<!ENTITY editorTextbox.placeholder  "Type CSS here.">
+<!ENTITY editorTextbox.placeholder  "Scrîvi o CSS chi.">
 
 <!-- LOCALICATION NOTE  (noStyleSheet.label): This is shown when a page has no
      stylesheet. -->
