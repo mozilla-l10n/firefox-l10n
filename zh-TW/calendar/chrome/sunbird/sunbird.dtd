@@ -81,12 +81,12 @@
 
 <!ENTITY sunbird.menu.numberofweeks.label                  "週數" >
 <!ENTITY sunbird.menu.numberofweeks.accesskey              "N" >
-<!ENTITY sunbird.menu.numberofweeks.1                      "一週" >
-<!ENTITY sunbird.menu.numberofweeks.2                      "二週" >
-<!ENTITY sunbird.menu.numberofweeks.3                      "三週" >
-<!ENTITY sunbird.menu.numberofweeks.4                      "四週" >
-<!ENTITY sunbird.menu.numberofweeks.5                      "五週" >
-<!ENTITY sunbird.menu.numberofweeks.6                      "六週" >
+<!ENTITY sunbird.menu.numberofweeks.1                      "1 週" >
+<!ENTITY sunbird.menu.numberofweeks.2                      "2 週" >
+<!ENTITY sunbird.menu.numberofweeks.3                      "3 週" >
+<!ENTITY sunbird.menu.numberofweeks.4                      "4 週" >
+<!ENTITY sunbird.menu.numberofweeks.5                      "5 週" >
+<!ENTITY sunbird.menu.numberofweeks.6                      "6 週" >
 
 <!-- customizable toolbars -->
 <!ENTITY sunbird.context.customize.label                   "自訂…">
