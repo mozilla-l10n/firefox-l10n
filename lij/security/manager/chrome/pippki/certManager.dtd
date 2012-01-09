@@ -46,10 +46,10 @@
 <!ENTITY certmgr.ca.builtins                  "Built-in CA">
 <!ENTITY certmgr.ca.mycas                     "CA gestîi da ti">
 
-<!ENTITY certmgr.mine                         "Ti gh'é sti certificâti da ste organizaçión che te identifican:">
-<!ENTITY certmgr.others                       "Ti gh'é sti certificâti da ste organizaçión che identifican ste personn-e:">
-<!ENTITY certmgr.websites2                    "Ti gh'é sti certificâti da ste organizaçión che identifican sti server:">
-<!ENTITY certmgr.cas                          "Ti gh'é sti certificâti da ste organizaçión che identifican ste Aotoritæ:">
+<!ENTITY certmgr.mine                         "Ti gh'é sti certificâti da ste organizaçioìn che te identifican:">
+<!ENTITY certmgr.others                       "Ti gh'é sti certificâti da ste organizaçioìn che identifican ste personn-e:">
+<!ENTITY certmgr.websites2                    "Ti gh'é sti certificâti da ste organizaçioìn che identifican sti server:">
+<!ENTITY certmgr.cas                          "Ti gh'é sti certificâti da ste organizaçioìn che identifican ste Aotoritæ:">
 <!ENTITY certmgr.orphans                      "Ti gh'é sti certificâti in sti file che no son in nisciùnn-a categorîa:">
 
 <!ENTITY certmgr.detail.general_tab.title     "Generâle">

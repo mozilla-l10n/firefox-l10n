@@ -225,7 +225,7 @@ can reach it easily. -->
 <!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
   -  in the Tools menu. -->
 <!ENTITY styleeditor.label            "Editô do stîle">
-<!ENTITY styleeditor.accesskey        "y">
+<!ENTITY styleeditor.accesskey        "i">
 <!ENTITY styleeditor.keycode          "VK_F7">
 <!ENTITY styleeditor.keytext          "F7">
 
