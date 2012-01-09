@@ -2,7 +2,7 @@
 <!ENTITY playButton.pauseLabel "Pösa">
 <!ENTITY muteButton.muteLabel "Mùtto">
 <!ENTITY muteButton.unmuteLabel "Fanni sentî">
-<!ENTITY fullscreenButton.enterfullscreenlabel "Full Screen">
+<!ENTITY fullscreenButton.enterfullscreenlabel "A tùtto schermo">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Sciòrti dò-u mòddo a tùtto schèrmo">
 
 <!ENTITY stats.media "Media">

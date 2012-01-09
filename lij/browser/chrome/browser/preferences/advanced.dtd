@@ -56,8 +56,8 @@
 <!ENTITY limitCacheSizeAfter.label       "MB de spàçio">
 <!ENTITY clearCacheNow.label             "Scancelâ Òua">
 <!ENTITY clearCacheNow.accesskey         "c">
-<!ENTITY clearOfflineAppCacheNow.label   "Clear Now">
-<!ENTITY clearOfflineAppCacheNow.accesskey "N">
+<!ENTITY clearOfflineAppCacheNow.label   "Scancelâ Òua">
+<!ENTITY clearOfflineAppCacheNow.accesskey "n">
 <!ENTITY overrideSmartCacheSize.label    "Ignòra a gestión aotomàtica da cache">
 <!ENTITY overrideSmartCacheSize.accesskey "o">
 

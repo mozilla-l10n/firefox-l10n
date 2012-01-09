@@ -434,22 +434,22 @@ can reach it easily. -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY mediaPlay.label             "Play">
-<!ENTITY mediaPlay.accesskey         "P">
+<!ENTITY mediaPlay.label             "Riproduçión">
+<!ENTITY mediaPlay.accesskey         "p">
 <!ENTITY mediaPause.label            "Pösa">
 <!ENTITY mediaPause.accesskey        "P">
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
 "Unmute" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY mediaMute.label             "Mute">
+<!ENTITY mediaMute.label             "Mùtto">
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "Fanni sentî">
 <!ENTITY mediaUnmute.accesskey       "F">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY mediaShowControls.label     "Show Controls">
-<!ENTITY mediaShowControls.accesskey "C">
+<!ENTITY mediaShowControls.label     "Fanni védde i contròlli">
+<!ENTITY mediaShowControls.accesskey "c">
 <!ENTITY mediaHideControls.label     "Ascóndi i contròlli">
 <!ENTITY mediaHideControls.accesskey "c">
 <!ENTITY videoFullScreen.label       "A tùtto schermo">
@@ -459,7 +459,7 @@ items are mutually exclusive. -->
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY videoShowStats.label        "Show Statistics">
+<!ENTITY videoShowStats.label        "Fanni védde e statistiche">
 <!ENTITY videoShowStats.accesskey    "t">
 <!ENTITY videoHideStats.label        "Ascondi e statistiche">
 <!ENTITY videoHideStats.accesskey    "t">

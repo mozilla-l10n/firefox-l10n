@@ -11,7 +11,7 @@
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       "a l'é 'na">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
-<!ENTITY community.exp.creditsLink  "global community">
+<!ENTITY community.exp.creditsLink  "comunitæ globâle">
 <!ENTITY community.exp.end          " che travaggia asémme pe mantegnî a Ræ avèrta, pùblica e acesibile a tùtti.">
 
 <!ENTITY community.start2           "&brandShortName; o l'é fæto da ">

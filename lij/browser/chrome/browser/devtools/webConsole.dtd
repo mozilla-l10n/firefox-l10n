@@ -4,7 +4,7 @@
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
 
-<!ENTITY networkPanel.requestURL                  "Request URL">
+<!ENTITY networkPanel.requestURL                  "URL domandòu">
 <!ENTITY networkPanel.requestMethod               "Metodo domandòu">
 <!ENTITY networkPanel.statusCode                  "Còdice do stæto">
 

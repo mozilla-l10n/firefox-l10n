@@ -43,8 +43,8 @@
 <!ENTITY aboutWarningButton.label "Saiö aténto, prométto!">
 <!ENTITY aboutWarningCheckbox.label "Fànni védde sto alàrme a pròscima vòtta">
 
-<!ENTITY searchPrefs.label "Search:">
-<!ENTITY searchPrefs.accesskey "r">
+<!ENTITY searchPrefs.label "Riçerca:">
+<!ENTITY searchPrefs.accesskey "R">
 <!ENTITY focusSearch.key "r">
 
 <!-- Columns -->
