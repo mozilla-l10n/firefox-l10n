@@ -27,7 +27,7 @@
 <!ENTITY awesomebar_default_text "Recherche ou adresse">
 
 <!ENTITY bookmarks_title "Marque-pages">
-<!ENTITY bookmark_add "Marque-page">
+<!ENTITY bookmark_add "Marquer cette page">
 <!ENTITY bookmark_remove "Supprimer">
 <!ENTITY bookmark_added "Marque-page ajouté">
 <!ENTITY bookmark_removed "Marque-page supprimé">
