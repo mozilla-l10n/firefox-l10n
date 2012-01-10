@@ -58,6 +58,7 @@
 <!ENTITY pref_use_master_password "Задать мастер-пароль">
 <!ENTITY quit "Выйти">
 <!ENTITY addons "Дополнения">
+<!ENTITY downloads "Загрузки">
 <!ENTITY share "Поделиться">
 <!ENTITY save_as_pdf "Сохранить как PDF">
 <!ENTITY agent_request_desktop "Запросить полный сайт">
