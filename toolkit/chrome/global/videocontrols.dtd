@@ -11,13 +11,14 @@
 #
 # Alexandru Szasz <alexxed@gmail.com>
 # Cristian Silaghi <stelistcristi@yahoo.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!ENTITY playButton.playLabel "Redare">
 <!ENTITY playButton.pauseLabel "Pauză">
 <!ENTITY muteButton.muteLabel "Oprește sonorul">
 <!ENTITY muteButton.unmuteLabel "Activează sonorul">
-<!ENTITY fullscreenButton.enterfullscreenlabel "Full Screen">
+<!ENTITY fullscreenButton.enterfullscreenlabel "Pe tot ecranul">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Exit Full Screen">
 
 <!ENTITY stats.media "Media">

@@ -16,6 +16,7 @@
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
@@ -74,7 +75,7 @@ can reach it easily. -->
 <!ENTITY printSetupCmd.accesskey "g">
 <!ENTITY printPreviewCmd.label "Previzualizare tipărire">
 <!ENTITY printPreviewCmd.accesskey "t">
-<!ENTITY printCmd.label "Tipărește...">
+<!ENTITY printCmd.label "Tipărește…">
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.commandkey "p">
 
@@ -244,8 +245,8 @@ can reach it easily. -->
 
 <!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
   -  in the Tools menu. -->
-<!ENTITY styleeditor.label            "Style Editor">
-<!ENTITY styleeditor.accesskey        "y">
+<!ENTITY styleeditor.label            "Editor de stil">
+<!ENTITY styleeditor.accesskey        "s">
 <!ENTITY styleeditor.keycode          "VK_F7">
 <!ENTITY styleeditor.keytext          "F7">
 
