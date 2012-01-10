@@ -35,16 +35,16 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY markAsReadCmd.label     "As Read">
-<!ENTITY markAsReadCmd.accesskey "R">
+<!ENTITY markAsReadCmd.label     "Як прочитаний">
+<!ENTITY markAsReadCmd.accesskey "п">
 <!ENTITY markAsReadCmd.key       "m">
 
-<!ENTITY markFlaggedCmd.label     "Flag">
-<!ENTITY markFlaggedCmd.accesskey "F">
+<!ENTITY markFlaggedCmd.label     "Прапорець">
+<!ENTITY markFlaggedCmd.accesskey "П">
 <!ENTITY markFlaggedCmd.key       "i">
 
-<!ENTITY openMessageWindowCmd.label     "Open Message">
-<!ENTITY openMessageWindowCmd.accesskey "O">
+<!ENTITY openMessageWindowCmd.label     "Відкрити листа">
+<!ENTITY openMessageWindowCmd.accesskey "В">
 <!ENTITY openMessageWindowCmd.key       "o">
 
 <!ENTITY tagCmd0.key "0">

@@ -1,9 +1,9 @@
-<!ENTITY matchAll.label     "За всіма наступними умовами">
-<!ENTITY matchAll.accesskey "M">
-<!ENTITY matchAny.label     "За будь-якою з наступних умов">
-<!ENTITY matchAny.accesskey "a">
+<!ENTITY matchAll.label     "За всіма цими умовами">
+<!ENTITY matchAll.accesskey "в">
+<!ENTITY matchAny.label     "За будь-якою з цих умов">
+<!ENTITY matchAny.accesskey "б">
 <!ENTITY matchAllMsgs.label     "Всі листи">
-<!ENTITY matchAllMsgs.accesskey "t">
+<!ENTITY matchAllMsgs.accesskey "В">
 <!-- LOCALIZATION NOTE  
   The values below are used to control the widths of the search widgets.
   Change the values only when the localized strings in the popup menus

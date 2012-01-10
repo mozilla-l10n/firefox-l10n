@@ -39,7 +39,7 @@
 <!ENTITY newFolderDialog.title      "Створити теку">
 <!ENTITY name.label                 "Назва:">
 <!ENTITY name.accesskey             "Н">
-<!ENTITY description.label          "Створити як вкладену теку:">
+<!ENTITY description.label          "Створити як підтеку:">
 <!ENTITY description.accesskey      "С">
 <!ENTITY folderRestriction1.label   "Цей сервер розділяє теки на два типи.">
 <!ENTITY folderRestriction2.label   "Дозволити новій теці містити:">

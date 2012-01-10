@@ -1,25 +1,25 @@
 <!ENTITY filterListDialog.title "Фільтри листів">
 <!ENTITY nameColumn.label "Назва фільтру">
-<!ENTITY activeColumn.label "Включений">
+<!ENTITY activeColumn.label "Увімкнутий">
 <!ENTITY newButton.label "Створити…">
 <!ENTITY newButton.accesskey "С">
-<!ENTITY editButton.label "Змінити…">
-<!ENTITY editButton.accesskey "м">
+<!ENTITY editButton.label "Редагувати…">
+<!ENTITY editButton.accesskey "Р">
 <!ENTITY deleteButton.label "Вилучити">
 <!ENTITY deleteButton.accesskey "и">
 <!ENTITY reorderUpButton.label "Вгору">
 <!ENTITY reorderUpButton.accesskey "г">
 <!ENTITY reorderDownButton.label "Вниз">
 <!ENTITY reorderDownButton.accesskey "н">
-<!ENTITY filterHeader.label "Включені фільтри запускаються автоматично у вказаному нижче порядку.">
+<!ENTITY filterHeader.label "Увімкнені фільтри запускаються автоматично у вказаному нижче порядку.">
 <!ENTITY filtersForPrefix.label "Фільтри для:">
 <!ENTITY filtersForPrefix.accesskey "і">
 <!ENTITY viewLogButton.label "Журнал фільтрів">
 <!ENTITY viewLogButton.accesskey "Ж">
 <!ENTITY runFilters.label "Запустити">
 <!ENTITY runFilters.accesskey "З">
-<!ENTITY stopFilters.label "Стоп">
-<!ENTITY stopFilters.accesskey "С">
+<!ENTITY stopFilters.label "Зупинити">
+<!ENTITY stopFilters.accesskey "у">
 <!ENTITY folderPickerPrefix.label "Запустити вибрані фільтр(и) в теці:">
 <!ENTITY folderPickerPrefix.accesskey "а">
 <!ENTITY choosethis.label "вибрати цю теку">
