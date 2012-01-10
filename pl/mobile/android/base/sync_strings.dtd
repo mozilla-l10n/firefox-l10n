@@ -34,9 +34,9 @@
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Konfiguracja zakończona'>
-<!ENTITY sync.subtitle.success.label 'Twoje dane zostana pobrane w tle. Przejdź do ustawień, aby zarządzać swoim kontem.'>
+<!ENTITY sync.subtitle.success.label 'Twoje dane zostaną pobrane w tle. Przejdź do ustawień, aby zarządzać swoim kontem.'>
 <!ENTITY sync.settings.label 'Ustawienia'>
-<!ENTITY sync.subtitle.success.label 'Twoje konto &syncBrand.fullName.label; zostało już skonfigurowane. Przejdź do ustawień, aby nim zarządzać.'>
+<!ENTITY sync.subtitle.manage.label 'Twoje konto &syncBrand.fullName.label; zostało już skonfigurowane. Przejdź do ustawień, aby nim zarządzać.'>
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label 'Spróbuj ponownie.'>
