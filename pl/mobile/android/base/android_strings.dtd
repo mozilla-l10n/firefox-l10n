@@ -27,9 +27,7 @@
 
 <!ENTITY awesomebar_default_text "Wpisz zapytanie lub adres">
 
-<!ENTITY bookmarks_title "Zakładki">
-<!ENTITY bookmark_add "Dodaj zakładkę">
-<!ENTITY bookmark_remove "Usuń zakładkę">
+<!ENTITY bookmark "Dodaj zakładkę">
 <!ENTITY bookmark_added "Zakładka dodana">
 <!ENTITY bookmark_removed "Zakładka usunięta">
 
@@ -72,6 +70,7 @@
 <!ENTITY quit "Zakończ">
 
 <!ENTITY addons "Dodatki">
+<!ENTITY downloads "Pobrane pliki">
 
 <!ENTITY share "Udostępnij">
 <!ENTITY save_as_pdf "Zapisz jako PDF">
