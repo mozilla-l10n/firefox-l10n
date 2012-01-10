@@ -49,18 +49,8 @@
 <!ENTITY update.downloading.start   "ଅଦ୍ୟତନକୁ ଆହରଣ କରୁଅଛି — ">
 <!ENTITY update.downloading.end     "">
 
-<!ENTITY channel.change             "ପରିବର୍ତ୍ତନ କରନ୍ତୁ">
 
-<!ENTITY channel.release.description       "ସାରା ବିଶ୍ୱରେ ଲକ୍ଷ ଲକ୍ଷ ଚାଳକ ଦ୍ୱାରା ବ୍ୟବହୃତ  ପରୀକ୍ଷା କରା ସରିଥିବା ଅନ୍ତିମ ପ୍ରକାଶନକୁ ବ୍ୟବହାର କରନ୍ତୁ।  ତୀବ୍ର ଗତି, ସହଜମୟ ଇଚ୍ଛାରୂପଣ ଏବଂ ନୂତନତମ ଏବଂ ଆଧୁନିକ ପ୍ରଯୁକ୍ତିଜ୍ଞାନ ସହିତ ଆପଣଙ୍କର ଅନଲାଇନ ଅଭିଜ୍ଞତାକୁ ନିୟନ୍ତ୍ରଣରେ ରଖନ୍ତୁ।">
-<!ENTITY channel.beta.description          "ଅଧିକ ସ୍ଥାୟୀତ୍ତ୍ୱ ସହିତ ଆଧୁନିକ ବିଶେଷତାକୁ ବ୍ୟବହାର କରନ୍ତୁ।  ଆମର ଅନ୍ତିମ ପ୍ରକାଶନକୁ ଉତ୍ତମ ମାନର କରିବା ପାଇଁ ମତାମତ ପ୍ରଦାନ କରନ୍ତୁ।">
-<!ENTITY channel.aurora.description        "ଗୋଟିଏ ଅସ୍ଥାୟୀ ପରିବେଶରେ ନୂତନତମ ଆବିଷ୍କାରକୁ ବ୍ୟବହାର କରନ୍ତୁ। ଅନ୍ତିମ ପ୍ରକାଶନକୁ ନିର୍ଦ୍ଧାରଣ କରିବାରେ ସହାୟତା କରିବା ପାଇଁ  ବିଶେଷତା ଏବଂ କାର୍ଯ୍ୟଦକ୍ଷତା ଉପରେ ମତାମତ ପ୍ରଦାନ କରନ୍ତୁ।">
 
 <!ENTITY channel.description.start  "ଆପଣ ବର୍ତ୍ତମାନ  ଏଠାରେ ଅଛନ୍ତି">
 <!ENTITY channel.description.end    " ଚ୍ୟାନେଲକୁ ଅଦ୍ୟତନ କରନ୍ତୁ। ">
-<!ENTITY channel.selector.start          "ଅଦ୍ୟତିତ ଚ୍ୟାନେଲକୁ ">
-<!ENTITY channel.selector.end            "ସ୍ଥାନାନ୍ତରିତ କରନ୍ତୁ">
 
-<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
-     to a new update channel and starts the application update process. -->
-<!ENTITY channel.selector.applyButton    "ପ୍ରୟୋଗ ଏବଂ ଅଦ୍ୟତନ କରନ୍ତୁ">
-<!ENTITY channel.selector.cancelButton   "ବାତିଲ କରନ୍ତୁ">
