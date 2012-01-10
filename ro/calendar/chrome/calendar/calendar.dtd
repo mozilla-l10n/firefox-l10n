@@ -230,7 +230,7 @@
 <!ENTITY calendar.context.priority.label              "Prioritate">
 <!ENTITY calendar.context.priority.accesskey          "r">
 
-<!--=percent sign--><!ENTITY percnt "&#38;#37;" >
+<!ENTITY percnt "&#38;#37;" ><!--=percent sign-->
 
 <!ENTITY calendar.context.markcompleted.label     "Marchează ca fiind îndeplinită">
 <!ENTITY calendar.context.markcompleted.accesskey "f">
@@ -338,7 +338,7 @@
 <!ENTITY calendarproperties.name.label                     "Nume:">
 <!ENTITY calendarproperties.readonly.label                 "Numai pentru citit">
 <!ENTITY calendarproperties.firealarms.label               "Arată alarmele">
-<!ENTITY calendarproperties.cache.label                    "Cache (EXPERIMENTAL, necesită repornirea)">
+<!ENTITY calendarproperties.cache2.label                   "Cache">
 <!ENTITY calendarproperties.enabled.label                  "Activează acest calendar">
 <!ENTITY calendarproperties.forceDisabled.label            "Furnizorul pentru acest calendar nu poate fi găsit. Acest lucru se întâmplă adesea dacă ați dezactivat sau dezinstalat unele suplimente.">
 <!ENTITY calendarproperties.unsubscribe.label              "Dezabonare">
@@ -378,3 +378,4 @@
 <!ENTITY calendar.error.code "Cod de eroare:">
 <!ENTITY calendar.error.description "Descriere:">
 <!ENTITY calendar.error.title "A apărut o eroare">
+

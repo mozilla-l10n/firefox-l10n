@@ -90,3 +90,4 @@
 <!ENTITY  noproxyExplain.label          "Exemplu: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Folosește acest proxy pentru toate protocoalele">
 <!ENTITY  shareproxy.accesskey          "x">
+

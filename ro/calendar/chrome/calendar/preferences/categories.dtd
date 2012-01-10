@@ -68,3 +68,4 @@
 <!ENTITY pref.categories.overwrite "Există deja o categorie cu numele acesta.\n Doriți să o suprascrieți?">
 <!ENTITY pref.categories.overwrite.title "Avertisment: nume duplicat">
 <!ENTITY pref.categories.noBlankCategories "Trebuie să introduceți numele categoriei">
+
