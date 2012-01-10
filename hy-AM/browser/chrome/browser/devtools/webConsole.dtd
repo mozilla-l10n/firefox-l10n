@@ -37,7 +37,13 @@
     the terms of any one of the MPL, the GPL or the LGPL.
 
 ******* END LICENSE BLOCK ********** -->
-<!ENTITY networkPanel.requestURL                  "Պահանջվող URL">
+<!-- LOCALIZATION NOTE : FILE The correct localization of this file might be to
+  - keep it in English, or another language commonly spoken among web developers.
+  - You want to make that choice consistent across the developer tools.
+  - A good criteria is the language in which you'd find the best
+  - documentation on web development on the web. -->
+
+<!ENTITY networkPanel.requestURL                  "Request URL">
 <!ENTITY networkPanel.requestMethod               "Հարցուման մեթոդ">
 <!ENTITY networkPanel.statusCode                  "Կարգավիճակի Կոդ">
 

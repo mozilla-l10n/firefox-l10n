@@ -256,8 +256,17 @@ can reach it easily. -->
 <!ENTITY inspectButton.label            "Հսկել">
 <!ENTITY inspectButton.accesskey        "Հ">
 <!ENTITY inspectCloseButton.tooltiptext "Close Inspector">
+<!ENTITY inspect3DButton.label        "3D">
+<!ENTITY inspect3DButton.accesskey    "M">
 <!ENTITY inspectStyleButton.label     "Ոճը">
 <!ENTITY inspectStyleButton.accesskey "Ո">
+
+<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
+  -  in the Tools menu. -->
+<!ENTITY styleeditor.label            "Style Editor">
+<!ENTITY styleeditor.accesskey        "y">
+<!ENTITY styleeditor.keycode          "VK_F7">
+<!ENTITY styleeditor.keytext          "F7">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Get More Tools">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "M">
@@ -461,15 +470,24 @@ can reach it easily. -->
 <!ENTITY thisFrameMenu.accesskey          "Ա">
 
 <!-- Media (video/audio) controls -->
-<!ENTITY mediaPlay.label             "Միացնել">
+<!-- LOCALIZATION NOTE: The access keys for "Play" and
+"Pause" are the same because the two context-menu
+items are mutually exclusive. -->
+<!ENTITY mediaPlay.label             "Play">
 <!ENTITY mediaPlay.accesskey         "p">
 <!ENTITY mediaPause.label            "Ընդմիջել">
 <!ENTITY mediaPause.accesskey        "p">
-<!ENTITY mediaMute.label             "Սսկել">
+<!-- LOCALIZATION NOTE: The access keys for "Mute" and
+"Unmute" are the same because the two context-menu
+items are mutually exclusive. -->
+<!ENTITY mediaMute.label             "Mute">
 <!ENTITY mediaMute.accesskey         "m">
 <!ENTITY mediaUnmute.label           "Ձայն">
 <!ENTITY mediaUnmute.accesskey       "m">
-<!ENTITY mediaShowControls.label     "Ցուցադրել ղեկավարիչներին">
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
+<!ENTITY mediaShowControls.label     "Show Controls">
 <!ENTITY mediaShowControls.accesskey "Ց">
 <!ENTITY mediaHideControls.label     "Թաքցնել ղեկավարիչները">
 <!ENTITY mediaHideControls.accesskey "Թ">
@@ -477,6 +495,9 @@ can reach it easily. -->
 <!ENTITY videoFullScreen.accesskey   "Լ">
 <!ENTITY videoSaveImage.label        "Save Snapshot As…">
 <!ENTITY videoSaveImage.accesskey    "S">
+<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
+"Hide Statistics" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY videoShowStats.label        "Show Statistics">
 <!ENTITY videoShowStats.accesskey    "t">
 <!ENTITY videoHideStats.label        "Hide Statistics">

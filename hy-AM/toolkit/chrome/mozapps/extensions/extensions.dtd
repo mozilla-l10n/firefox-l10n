@@ -38,7 +38,12 @@
 
 ******* END LICENSE BLOCK ********** -->
 <!ENTITY addons.windowTitle                   "Հավելումների մենեջեր">
+
 <!ENTITY search.placeholder                   "Փնտրել բոլոր հավելումներում">
+<!-- LOCALIZATION NOTE (search.commandKey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
+
 <!ENTITY loading.label                        "Բեռնում...">
 <!ENTITY listEmpty.installed.label            "Դուք չունեք տեղակայված այս տիպի հավելումներ">
 <!ENTITY listEmpty.availableUpdates.label     "Թարմացում չի գտնվել">
