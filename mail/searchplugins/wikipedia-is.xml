@@ -9,7 +9,6 @@
 </Url>
 <Url type="text/html" method="GET" template="http://is.wikipedia.org/wiki/Kerfissíða:Leit">
   <Param name="search" value="{searchTerms}"/>
-  <Param name="sourceid" value="Mozilla-search"/>
 </Url>
 <SearchForm>http://is.wikipedia.org/wiki/Kerfissíða:Leit</SearchForm>
 </SearchPlugin>
