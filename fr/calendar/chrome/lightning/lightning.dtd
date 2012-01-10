@@ -74,16 +74,6 @@
 <!ENTITY lightning.menu.eventtask.label                "Événements et tâches">
 <!ENTITY lightning.menu.eventtask.accesskey            "v">
 
-<!-- Messenger Toolbar -->
-<!ENTITY lightning.toolbar.day.label "Journée">
-<!ENTITY lightning.toolbar.day.accesskey "J">
-<!ENTITY lightning.toolbar.week.label "Semaine">
-<!ENTITY lightning.toolbar.week.accesskey "S">
-<!ENTITY lightning.toolbar.multiweek.label "Multisemaine">
-<!ENTITY lightning.toolbar.multiweek.accesskey "a">
-<!ENTITY lightning.toolbar.month.label "Mois">
-<!ENTITY lightning.toolbar.month.accesskey "M">
-
 <!-- properties dialog, calendar creation wizard -->
 <!ENTITY lightning.calendarproperties.showevents.inagenda.label "Afficher les événements dans le panneau « Aujourd'hui »">
 <!ENTITY lightning.calendarproperties.showtasks.label           "Afficher les tâches dans le panneau « Aujourd'hui » et dans le mode « Tâche »">
