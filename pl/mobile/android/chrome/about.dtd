@@ -1,0 +1,12 @@
+<!ENTITY aboutPage.title                        "O programie &brandShortName;">
+<!ENTITY aboutPage.faq.label                    "FAQ">
+<!ENTITY aboutPage.support.label                "Pomoc">
+<!ENTITY aboutPage.privacyPolicy.label          "Polityka prywatności">
+<!ENTITY aboutPage.rights.label                 "Poznaj swoje prawa">
+<!ENTITY aboutPage.relNotes.label               "Informacje o wydaniu">
+<!ENTITY aboutPage.credits.label                "Podziękowania">
+<!ENTITY aboutPage.checkForUpdates.link         "Aktualizacja">
+<!ENTITY aboutPage.checkForUpdates.checking     "Poszukiwanie aktualizacji">
+<!ENTITY aboutPage.checkForUpdates.none         "Brak aktualizacji">
+<!ENTITY aboutPage.checkForUpdates.found        "Znaleziono aktualizację">
+<!ENTITY aboutPage.license.label                "Informacje o licencji">
