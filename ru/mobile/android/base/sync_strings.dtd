@@ -23,6 +23,7 @@
 <!ENTITY sync.subtitle.success.label "Ваши данные сейчас загружаются в фоновом режиме. Вы можете перейти в Параметры для управления вашей учётной записью.">
 <!ENTITY sync.settings.label "Параметры">
 <!ENTITY sync.subtitle.manage.label "Ваша учётная запись &syncBrand.fullName.label; уже настроена. Вы можете перейти в Параметры для управления вашей учётной записью.">
+<!ENTITY sync.pair.tryagain.label "Пожалуйста, попробуйте снова.">
 <!ENTITY sync.button.cancel.label "Отмена">
 <!ENTITY sync.button.connect.label "Соединиться">
 <!ENTITY sync.account.label.label "&syncBrand.fullName.label;">
