@@ -19,7 +19,7 @@
 <!ENTITY runFilters.label "Exequir ussa">
 <!ENTITY runFilters.accesskey "R">
 <!ENTITY stopFilters.label "Fermar">
-<!ENTITY stopFilters.accesskey "S">
+<!ENTITY stopFilters.accesskey "F">
 <!ENTITY folderPickerPrefix.label "Exequir ils filters tschernids en:">
 <!ENTITY folderPickerPrefix.accesskey "c">
 <!ENTITY choosethis.label "tscherner quest ordinatur">
