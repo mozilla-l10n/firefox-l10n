@@ -17,7 +17,7 @@
 <!ENTITY newOtherAccountsCmd.accesskey "t">
 <!ENTITY newCreateEmailAccountCmd.label "Crea un nuovo account email">
 <!ENTITY newCreateEmailAccountCmd.accesskey "C">
-<!ENTITY newExistingEmailAccountCmd.label "Account di email già esistente…">
+<!ENTITY newExistingEmailAccountCmd.label "Account email già esistente…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "A">
 <!ENTITY openMessageFileCmd.label "Apri messaggio salvato…">
 <!ENTITY openMessageFileCmd.accesskey "A">
