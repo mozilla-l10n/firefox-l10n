@@ -37,7 +37,10 @@
 <!ENTITY sync.subtitle.success.label 'Din data hämtas nu. Du kan gå till Inställningar för att hantera ditt konto.'>
 <!ENTITY sync.settings.label 'Inställningar'>
 <!ENTITY sync.subtitle.manage.label 'Ditt &syncBrand.fullName.label;-konto är redan klart. Gå till Inställningar för att hantera ditt konto.'>
-  
+
+<!-- Pair Device -->
+<!ENTITY sync.pair.tryagain.label 'Försök igen.'>
+
 <!-- Common text -->
 <!ENTITY sync.button.cancel.label 'Avbryt'>
 <!ENTITY sync.button.connect.label 'Anslut'>
