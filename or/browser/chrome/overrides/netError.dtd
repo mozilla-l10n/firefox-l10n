@@ -165,11 +165,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; ଏହି ପୃଷ୍ଠାକୁ ଏହି ଉପାୟରେ ଧାରଣ କରିବାରୁ ବାରଣ କରିଥାଏ କାରଣ ସେହି ପୃଷ୍ଠାରେ ବିଷୟବସ୍ତୁ ସୁରକ୍ଷା ନିତୀ ଅଛି ଯାହାକି ଏହାକୁ ଅନୁମତି ଦେଇନଥାଏ।</p>">
 
 <!ENTITY cspFrameAncestorBlocked.title "ବିଷୟବସ୍ତୁ ସୁରକ୍ଷା ନିତୀ ଦ୍ୱାରା ଅଟକ ରଖାଯାଇଛି">
- <!ENTITY netOffline.overrideLongDesc "
-<ul>
-  <li>&quot;ଅଫଲାଇନରେ କାର୍ଯ୍ୟକରନ୍ତୁ&quot; ତାଲିକା ବସ୍ତୁକୁ ଅବଛା କରନ୍ତୁ, ତାପରେ ପୁଣିଥରେ ଚେଷ୍ଟାକରନ୍ତୁ।</li>
-</ul>
-">
 
 <!ENTITY securityOverride.warningContent "
 <p>ଆପଣଙ୍କୁ ବ୍ୟତୀକ୍ରମ ଯୋଗ କରିବା ଉଚିତ ନୁହୁଁ ଯଦି ଆପଣ ଇଣ୍ଟର୍ନେଟ ସଂଯୋଗ ବ୍ୟବହାର କରୁଛନ୍ତି ଯାହା ଉପରେ ଆପଣ ସମ୍ପୂର୍ଣ୍ଣ ଭାବରେ ବିଶ୍ୱାସ କରୁନାହାନ୍ତି କିମ୍ବା ଯଦି ଆପଣ ଏହି ସର୍ଭର ପାଇଁ  ଚେତାବନୀ ଦେଖୁନଥିବେ।</p>
@@ -179,3 +174,13 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 ">
 <!ENTITY remoteXUL.title "ସୁଦୂର XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>ଏହି ସମସ୍ୟା ବିଷୟରେ ଅବଗତ କରାଇବା ପାଇଁ ଦୟାକରି ୱେବସାଇଟ ମାଲିକଙ୍କ ସହିତ ଯୋଗାଯୋଗ କରନ୍ତୁ।</li></ul></p>">
+
+<!ENTITY corruptedContentError.title "ତ୍ରୁଟିଯୁକ୍ତ ବିଷୟବସ୍ତୁ ତ୍ରୁଟି">
+<!ENTITY corruptedContentError.longDesc "<p>ଆପଣ ଦେଖିବାକୁ ଇଚ୍ଛାକରୁଥିବା ପୃଷ୍ଠାକୁ ଦର୍ଶାଯାଇପାରିବ ନାହିଁ କାରଣ ତଥ୍ୟ ପରିବହନରେ ଗୋଟିଏ ତ୍ରୁଟି ଦେଖାଦେଇଛି।</p><ul><li>ଏହି ସମସ୍ୟା ବିଷୟରେ ଅଗଚର କରାଇବା ପାଇଁ ଦୟାକରି ୱେବସାଇଟ ମାଲିକଙ୍କ ସହିତ ଯୋଗାଯୋଗ କରନ୍ତୁ।</li></ul>">
+
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>&quot; କୁ ଦବାଇ ଅନଲାଇନ ଧାରାକୁ ପରିବର୍ତ୍ତନ କରିବା ପାଇଁ ଏବଂ ପୃଷ୍ଠାକୁ ପୁନର୍ଦ୍ଧାରଣ କରିବା ପାଇଁ &quot; କୁ ପୁଣିଥରେ ଚେଷ୍ଟା କରନ୍ତୁ।</li>
+</ul>
+">
+

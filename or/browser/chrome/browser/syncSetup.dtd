@@ -37,12 +37,6 @@
 <!ENTITY setup.tosAgree2.accesskey  "">
 
 <!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "&brandShortName;ଆପଣଙ୍କର ଗୋପନୀୟତାର ଯତ୍ନ ନେଇଥାଏ">
-<!ENTITY setup.newSyncKeyPage.description.label "ଆପଣଙ୍କର ସମସ୍ତ ଗୋପନୀୟତାକୁ ନିଶ୍ଚିତ କରିବା ପାଇଁ, ଆପଣଙ୍କର ସମସ୍ତ ତଥ୍ଯ ଧାରଣ ହେବା ପୂର୍ବରୁ ସଂଗୁପ୍ତ ହୋଇଥାଏ। Sync କି ଯାହାକି ଆପଣଙ୍କର ସଂଗୁପ୍ତ ତଥ୍ୟକୁ ଖୋଲିବା ପାଇଁ ଆବଶ୍ୟକ ତାହା ଧାରଣ ହୋଇନଥାଏ।">
-<!ENTITY syncKeyEntry.label        "ଆପଣ  Sync କି">
-<!ENTITY syncKeyEntry.accesskey    "K">
-<!ENTITY syncKeyGenerate.label     "ସୃଷ୍ଟି କରନ୍ତୁ">
-<!ENTITY syncKeyBackup.description "ଆପଣଙ୍କର Sync କି &syncBrand.fullName.label; କୁ ଅନ୍ୟ ଯନ୍ତ୍ରରେ  ଅଭିଗମ୍ୟ କରିବା ପାଇଁ ଆବଶ୍ୟକ ହୋଇଥାଏ। ଦୟାକରି ଗୋଟିଏ ନକଲ ସଂରକ୍ଷଣ ପ୍ରସ୍ତୁତ କରନ୍ତୁ। ଆମେ ଆପଣଙ୍କର Sync କି କୁ ପୁନରୁଦ୍ଧାର କରିବାରେ ସହାୟତା କରିପାରିବୁ ନାହିଁ।">
 
 <!ENTITY button.syncKeyBackup.print.label     "ମୁଦ୍ରଣ କରନ୍ତୁ…">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
@@ -102,7 +96,6 @@
 <!ENTITY addDevice.dialog.enterCode.label   "ଉପକରଣଟି ପ୍ରଦାନ କରିଥିବା ସଂକେତକୁ ଭରଣ କରନ୍ତୁ:">
 <!ENTITY addDevice.dialog.tryAgain.label    "ଦୟାକରି ପୁଣିଥରେ ଚେଷ୍ଟାକରନ୍ତୁ।">
 <!ENTITY addDevice.dialog.successful.label  "ଏହି ଉପକରଣଟିକୁ ସଫଳତାର ସହିତ ଯୋଗକରାଯାଇଛି। ପ୍ରାରମ୍ଭିକ ସନ୍ତୁଳନ ପାଇଁ ଅନେକ ସମୟ ଲାଗିପାରେ ଏବଂ ପୃଷ୍ଠଭୂମିରେ ସମାପ୍ତ ହୋଇଥାଏ।">
-<!ENTITY addDevice.dialog.syncKey.label     "ସକ୍ରିୟ କରିବା ପାଇଁ ଆପଣଙ୍କୁ  ନିଜର Sync କି ଭରଣ କରିବା ଆବଶ୍ୟକ। ଦୟାକରି ଏହି କି କୁ ମୁଦ୍ରଣ କରନ୍ତୁ ଅଥବା ସଂରକ୍ଷଣ କରନ୍ତୁ ଏବଂ ନିଅନ୍ତୁ।">
 <!ENTITY addDevice.dialog.connected.label   "ଉପକରଣଟି ସଂଯୁକ୍ତ ହୋଇଛି">
 <!ENTITY addDevice.dontHaveDevice.label     "ମୋ ପାଖରେ ସେହି ଉପକରଣଟି ନାହିଁ">
 <!ENTITY addDevice.setup.description.label  "ସକ୍ରିୟ କରିବା ପାଇଁ, ଆପଣଙ୍କ ଅନ୍ୟ ଉପକରଣରେ ଥିବା &syncBrand.shortName.label; ବିକଳ୍ପଗୁଡ଼ିକୁ ଯାଆନ୍ତୁ ଏବଂ  &#x0022; କୁ ବାଛିକରି ଗୋଟିଏ &#x0022;ଉପକରଣକୁ ଯୋଡନ୍ତୁ।">
@@ -110,11 +103,27 @@
 <!ENTITY addDevice.showMeHow.label          "ଏହା କିପରି ହେଉଛି ମୋତେ ଦେଖନ୍ତୁ।">
 <!ENTITY addDevice.title.label              "ଗୋଟିଏ ଉପକରଣ ଯୋଡନ୍ତୁ">
 <!ENTITY button.connect.label    "ସଂଯୋଗ କରନ୍ତୁ">
-<!ENTITY existingSyncKey.description "ଆପଣଙ୍କ ଅନ୍ୟ ଉପକରଣରେ&syncBrand.shortName.label; ବିକଳ୍ପକୁ ଯାଇ,  ଏବଂ &#x0022;Manage Account&#x0022; ଅନ୍ତର୍ଗତରେ ଥିବା &#x0022;My Sync Key&#x0022; କୁ ବାଛିକରି ପାଇପାରିବେ।">
+
 <!ENTITY serverType.custom2.label   "ଗୋଟିଏ ଇଚ୍ଛାରୂପଣ ସର୍ଭର ବ୍ୟବହାର କରନ୍ତୁ…">
 <!ENTITY setup.haveAccount.label "ମୋ ପାଖରେ ପୂର୍ବରୁ ଗୋଟିଏ &syncBrand.fullName.label; ଖାତା ଅଛି।">
 <!ENTITY setup.signInPage.title.label "ସାଇନ ଇନ">
 <!ENTITY signIn.account2.accesskey  "A">
 <!ENTITY signIn.account2.label      "ଖାତା">
-<!ENTITY signIn.syncKey.accesskey   "K">
-<!ENTITY signIn.syncKey.label       "Sync କି">
+
+
+<!ENTITY syncGenerateNewKey.label  "ନୂତନ କି ସୃଷ୍ଠି କରନ୍ତୁ">
+
+<!ENTITY addDevice.dialog.successful.label  "ଏହି ଉପକରଣକୁ ସଫଳତାର ସହିତ ଯୋଗକରାଯାଇଛି। ପ୍ରାରମ୍ଭିକ ସନ୍ତୁଳନକୁ ଅନେକ ସମୟ ନେଇଥାଏ ଏବଂ ପୃଷ୍ଠଭୂମିରେ ସମାପ୍ତ କରିଥାଏ।">
+<!ENTITY existingRecoveryKey.description "ଆପଣଙ୍କ ଅନ୍ୟ ଉପକରଣରେ&syncBrand.shortName.label; ବିକଳ୍ପକୁ ଯାଇ,  ଏବଂ &#x0022;Manage Account&#x0022; ଅନ୍ତର୍ଗତରେ ଥିବା &#x0022;My Sync Key&#x0022; କୁ ବାଛିକରି ଆପଣଙ୍କର ପୁନରୁଦ୍ଧାର କି ପାଇପାରିବେ।">
+<!ENTITY recoveryKeyBackup.description "ଆପଣଙ୍କର ପୁନରୁଦ୍ଧାର କି &syncBrand.fullName.label; କୁ ଅନ୍ୟ ଯନ୍ତ୍ରରେ  ଅଭିଗମ୍ୟ କରିବା ପାଇଁ ଆବଶ୍ୟକ ହୋଇଥାଏ। ଦୟାକରି ଗୋଟିଏ ନକଲ ସଂରକ୍ଷଣ ପ୍ରସ୍ତୁତ କରନ୍ତୁ। ଆମେ ଆପଣଙ୍କର ପୁନରୁଦ୍ଧାର କି କୁ ପୁନରୁଦ୍ଧାର କରିବାରେ ସହାୟତା କରିପାରିବୁ ନାହିଁ।">
+
+
+<!ENTITY recoveryKeyEntry.label        "ଆପଣଙ୍କର ପୁନରୁଦ୍ଧାର କି">
+<!ENTITY recoveryKeyEntry.accesskey    "K">
+<!ENTITY setup.choosePassword.label      "ଗୋଟିଏ ପ୍ରବେଶ ସଂକେତ ବାଛନ୍ତୁ">
+<!ENTITY setup.choosePassword.accesskey  "P">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; ଆପଣଙ୍କର ଗୋପନୀୟତାର ଯତ୍ନ ନେଇଥାଏ">
+<!ENTITY setup.newRecoveryKeyPage.description.label "ଆପଣଙ୍କର ସମସ୍ତ ଗୋପନୀୟତାକୁ ନିଶ୍ଚିତ କରିବା ପାଇଁ, ଆପଣଙ୍କର ସମସ୍ତ ତଥ୍ଯ ଧାରଣ ହେବା ପୂର୍ବରୁ ସଂଗୁପ୍ତ ହୋଇଥାଏ। ପୁନରୁଦ୍ଧାର କି ଯାହାକି ଆପଣଙ୍କର ସଂଗୁପ୍ତ ତଥ୍ୟକୁ ଖୋଲିବା ପାଇଁ ଆବଶ୍ୟକ ତାହା ଧାରଣ ହୋଇନଥାଏ।">
+<!ENTITY signIn.recoveryKey.label       "ପୁନରୁଦ୍ଧାର କି">
+<!ENTITY signIn.recoveryKey.accesskey   "K">
+<!ENTITY addDevice.dialog.recoveryKey.label     "ଆପଣଙ୍କର ଉପକରଣକୁ ସକ୍ରିୟ କରିବା ପାଇଁ ଆପଣଙ୍କୁ ନିଜର ପୁନରୁଦ୍ଧାର କି ଭରଣ କରିବାକୁ ହେବ। ଦୟାକରି ଏହି କି କୁ ମୁଦ୍ରଣ କରନ୍ତୁ କିମ୍ବା ସଂରକ୍ଷଣ କରନ୍ତୁ  ଏବଂ ତାହାକୁ ଆପଣଙ୍କ ପାଖରେ ରଖନ୍ତୁ।">

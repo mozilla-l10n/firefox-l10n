@@ -1,5 +1,5 @@
 <!ENTITY newprofile.title             "ସଂକ୍ଷିପ୍ତ ଚିତ୍ର ୱିଜାର୍ଡ଼ ନିର୍ମାଣ କରନ୍ତୁ">
-<!ENTITY window.size                  "ଓସାର: 45em; ଉଚ୍ଚତା: 32em;">
+<!ENTITY window.size                  "width: 45em; height: 32em;">
 
 <!-- First wizard page -->
 <!ENTITY profileCreationExplanation_1.text  "&brandShortName; ଆପଣଙ୍କ ବ୍ୟକ୍ତିଗତ ସଂକ୍ଷିପ୍ତ ଚିତ୍ରରେ ସଂରଚନା ଏବଂ ପସନ୍ଦ ବିଷୟରେ ସୂଚନା ସଂରକ୍ଷଣ କରିଥାଏ।">

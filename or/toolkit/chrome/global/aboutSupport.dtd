@@ -38,3 +38,6 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.updateHistoryTitle " ଅଦ୍ୟତନ ପୁରୁଣାତଥ୍ୟ">
 
 <!ENTITY aboutSupport.copyToClipboard.label "ସମସ୍ତ କ୍ଲିପବୋର୍ଡକୁ ନକଲ କରନ୍ତୁ">
+
+<!ENTITY aboutSupport.appBasicsCrashIDs "ନଷ୍ଟ ବିବରଣୀ">
+<!ENTITY aboutSupport.appBasicsMemoryUse "ସ୍ମୃତିସ୍ଥାନ ବ୍ୟବହାର">

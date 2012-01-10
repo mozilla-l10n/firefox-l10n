@@ -27,8 +27,7 @@
 <!ENTITY printCmd.label "ମୁଦ୍ରଣ କରନ୍ତୁ…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "ଆମଦାନୀ କରନ୍ତୁ…">
-<!ENTITY import.accesskey "I">
+
 
 <!ENTITY goOfflineCmd.label "ଅଫଲାଇନରେ କାମ କରନ୍ତୁ">
 <!ENTITY goOfflineCmd.accesskey "w">
@@ -68,7 +67,7 @@
 <!ENTITY subscribeToPageMenuitem.label "ଏହି ପୃଷ୍ଠାକୁ କିଣନ୍ତୁ…">
 <!ENTITY addCurPagesCmd.label "ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼ିକୁ ଚିହ୍ନିତ କରନ୍ତୁ…">
 
-<!ENTITY bookmarkAllCmd.label "ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼ିକୁ ଚିହ୍ନିତ କରନ୍ତୁ…">
+
 <!ENTITY bookmarksToolbarChevron.tooltip "ଅଧିକ ଚିହ୍ନିତ ସ୍ଥାନ ଦର୍ଶାନ୍ତୁ">
 
 <!ENTITY backCmd.label                "ପଛକୁ">
@@ -475,15 +474,6 @@ just addresses the organization to follow, e.g. "ଏହି ସାଇଟଟି �
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "ଯାଞ୍ଚ କରନ୍ତୁ">
 <!ENTITY inspectButton.accesskey      "I">
-<!ENTITY inspectNextButton.label      "ପରବର୍ତ୍ତି">
-<!ENTITY inspectNextButton.accesskey  "N">
-<!ENTITY inspectPreviousButton.label  "ପୂର୍ବବର୍ତ୍ତୀ">
-<!ENTITY inspectPreviousButton.accesskey "P">
-<!ENTITY inspectStyleButton.label     "ଶୈଳୀ">
-<!ENTITY inspectStyleButton.accesskey "S">
-<!ENTITY inspectStylePanelTitle.label  "ଶୈଳୀ">
-<!ENTITY inspectObjectButton.label       "ବସ୍ତୁ">
-<!ENTITY inspectObjectButton.accesskey   "O">
 <!ENTITY  listAllTabs.label      "ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼ିକୁ ତାଲିକାଭୁକ୍ତ କରନ୍ତୁ">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY menubarCmd.label "ତାଲିକା ପଟି">
@@ -542,3 +532,19 @@ just addresses the organization to follow, e.g. "ଏହି ସାଇଟଟି �
 <!ENTITY zoomControls.label             "ଜୁମ ନିୟନ୍ତ୍ରଣଗୁଡ଼ିକ">
 <!ENTITY urlbar.switchToTab.label     "ଟ୍ୟାବକୁ ସ୍ଥାନାନ୍ତରିତ କରନ୍ତୁ:">
 <!ENTITY addonBarCloseButton.tooltip  "ଏଡ-ଅନ ପଟିକୁ ବନ୍ଦ କରନ୍ତୁ">
+
+<!ENTITY getMoreDevtoolsCmd.label        "ଅଧିକ ଉପକରଣ ଆଣନ୍ତୁ">
+<!ENTITY getMoreDevtoolsCmd.accesskey    "M">
+<!ENTITY scratchpad.label             "ସ୍କ୍ରାଚପ୍ୟାଡ">
+<!ENTITY scratchpad.accesskey         "s">
+<!ENTITY scratchpad.keycode           "VK_F4">
+<!ENTITY scratchpad.keytext           "F4">
+<!ENTITY unsortedBookmarksCmd.label "ଅସଜଡ଼ା ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକ">
+<!ENTITY webDeveloperMenu.label       "ୱେବ ବିକାଶକ">
+<!ENTITY webDeveloperMenu.accesskey   "W">
+
+<!ENTITY backForwardButtonMenu.tooltip "ପୁରୁଣା ତଥ୍ୟକୁ ଦର୍ଶାଇବା ପାଇଁ ଡ଼ାହାଣ ପାଖ କ୍ଲିକ କରନ୍ତୁ ଅଥବା ତଳକୁ ଟାଣନ୍ତୁ">
+<!ENTITY backForwardButtonMenuMac.tooltip "ପୁରୁଣା ତଥ୍ୟକୁ ଦର୍ଶାଇବା ପାଇଁ ତଳକୁ ଟାଣନ୍ତୁ">
+<!ENTITY inspectContextMenu.label     "ଉପାଦାନକୁ ନିରୀକ୍ଷଣ କରନ୍ତୁ">
+<!ENTITY inspectContextMenu.accesskey "Q">
+<!ENTITY searchFocus.commandkey2      "e">

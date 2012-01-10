@@ -9,8 +9,7 @@
 <!ENTITY useCurrentPage.label      "ପ୍ରଚଳିତ ପୃଷ୍ଠା ବ୍ୟବହାର କରନ୍ତୁ">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "ପ୍ରଚଳିତ ପୃଷ୍ଠାଗୁଡ଼ିକୁ ବ୍ୟବହାର କରନ୍ତୁ">
-<!ENTITY useBookmark.label         "ଚିହ୍ନିତ ସ୍ଥାନ ବ୍ୟବହାର କରନ୍ତୁ">
-<!ENTITY useBookmark.accesskey     "B">
+
 <!ENTITY restoreDefault.label      "ପୂର୍ବନିର୍ଦ୍ଧାରିତରେ ପୁନଃ ସ୍ଥାପନ କରନ୍ତୁ">
 <!ENTITY restoreDefault.accesskey  "R">
 
@@ -36,4 +35,7 @@
 <!ENTITY manageAddons.accesskey        "M">
 <!ENTITY homepage.accesskey        "P">
 <!ENTITY homepage.label            "ମୂଳ ପୃଷ୍ଠା:">
-
+<!ENTITY chooseBookmark.label      "ଚିହ୍ନିତ ସ୍ଥାନ ବ୍ୟବହାର କରନ୍ତୁ…">
+<!ENTITY chooseBookmark.accesskey  "B">
+<!ENTITY restoreOnDemand.label     "ବଛା ନହେବା ପର୍ଯ୍ୟନ୍ତ ଧାରଣ କରନ୍ତୁ ନାହିଁ">
+<!ENTITY restoreOnDemand.accesskey "l">
