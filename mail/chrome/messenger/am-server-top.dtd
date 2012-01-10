@@ -36,9 +36,9 @@
 <!ENTITY modelMoveToTrash.accesskey "q">
 <!ENTITY modelMarkDeleted.label "Segnalo eliminato">
 <!ENTITY modelMarkDeleted.accesskey "e">
-<!ENTITY modelDeleteImmediately.label "Rimuovilo subito">
+<!ENTITY modelDeleteImmediately.label "Eliminalo subito">
 <!ENTITY modelDeleteImmediately.accesskey "b">
-<!ENTITY expungeOnExit.label "All'uscita pulisci la Posta in arrivo (&quot;Expunge&quot;)">
+<!ENTITY expungeOnExit.label "All'uscita pulisci la Posta in arrivo">
 <!ENTITY expungeOnExit.accesskey "x">
 <!ENTITY emptyTrashOnExit.label "Svuota cestino all'uscita">
 <!ENTITY emptyTrashOnExit.accesskey "c">
