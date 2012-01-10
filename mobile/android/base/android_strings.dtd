@@ -61,7 +61,7 @@
 <!ENTITY pref_cookies "Cookies inschakelen">
 <!ENTITY pref_char_encoding "Tekenset tonen">
 <!ENTITY pref_clear_history "Geschiedenis wissen">
-">
+
 <!ENTITY pref_clear_history_confirm "Navigatiegeschiedenis wordt verwijderd">
 <!ENTITY pref_clear_private_data "Privégegevens wissen">
 <!ENTITY pref_clear_private_data_confirm "Navigatie-instellingen, inclusief wachtwoorden en cookies, worden verwijderd">
