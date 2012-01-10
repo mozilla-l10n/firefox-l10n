@@ -13,31 +13,31 @@
 <!ENTITY window.title               "Editô do stîle">
 
 <!ENTITY newButton.label            "Nêuvo">
-<!ENTITY newButton.tooltip          "Create and append a new style sheet to the document">
+<!ENTITY newButton.tooltip          "Crea e azónzi 'n nêuvo féuggio de stîle a-o documénto">
 <!ENTITY newButton.accesskey        "N">
 <!ENTITY newButton.commandkey       "N">
 
 <!ENTITY importButton.label         "Inpòrta…">
-<!ENTITY importButton.tooltip       "Import and append an existing style sheet to the document">
+<!ENTITY importButton.tooltip       "Inpòrta e azónzi 'n nêuvo féuggio de stîle a-o documénto">
 <!ENTITY importButton.accesskey     "I">
 <!ENTITY importButton.commandkey    "I">
 
-<!ENTITY searchInput.tooltip        "Filter style sheets by name">
-<!ENTITY searchInput.placeholder    "Find style sheet">
+<!ENTITY searchInput.tooltip        "Fìltra i féuggi de stîle pe nómme">
+<!ENTITY searchInput.placeholder    "Trêuva féuggio de stîle">
 
 <!-- LOCALIZATION NOTE  (searchNoResults): This is shown when searching a term
      that is not found in any stylesheet or stylesheet name. -->
-<!ENTITY searchNoResults.label      "No matching style sheet has been found.">
+<!ENTITY searchNoResults.label      "Nisciùn féuggio de stîle trovòu.">
 
 <!-- LOCALIZATION NOTE  (searchClearButton): This button clears the search input
      box and is visible only when a search term has been typed. -->
 <!ENTITY searchClearButton.label    "Polisci">
 
-<!ENTITY visibilityToggle.tooltip   "Toggle style sheet visibility">
+<!ENTITY visibilityToggle.tooltip   "Invèrti a vizibilitæ do féuggio de stîle">
 <!ENTITY visibilityToggle.accesskey "V">
 
 <!ENTITY saveButton.label           "Sarva">
-<!ENTITY saveButton.tooltip         "Save this style sheet to a file">
+<!ENTITY saveButton.tooltip         "Sarva sto féuggio de stîle inte 'n file">
 <!ENTITY saveButton.accesskey       "S">
 <!ENTITY saveButton.commandkey      "S">
 
@@ -57,7 +57,7 @@
 <!ENTITY noStyleSheet-tip-start.label  "Fòscia ti ti veu ">
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-action.label): This is text for the
      link that triggers creation of a new stylesheet. -->
-<!ENTITY noStyleSheet-tip-action.label "append a new style sheet">
+<!ENTITY noStyleSheet-tip-action.label "azónzi 'n nêuvo féuggio de stîle">
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-end.label): End of the tip sentence -->
 <!ENTITY noStyleSheet-tip-end.label    "?">
 
