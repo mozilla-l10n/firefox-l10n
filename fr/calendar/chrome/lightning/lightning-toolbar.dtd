@@ -58,3 +58,13 @@
 <!-- Toolbar write button -->
 <!ENTITY lightning.toolbar.newevent.label     "Événement">
 <!ENTITY lightning.toolbar.newtask.label      "Tâches">
+
+<!-- Calendar and Task Mode Toolbar -->
+<!ENTITY lightning.toolbar.day.label "Journée">
+<!ENTITY lightning.toolbar.day.accesskey "J">
+<!ENTITY lightning.toolbar.week.label "Semaine">
+<!ENTITY lightning.toolbar.week.accesskey "S">
+<!ENTITY lightning.toolbar.multiweek.label "Multisemaine">
+<!ENTITY lightning.toolbar.multiweek.accesskey "a">
+<!ENTITY lightning.toolbar.month.label "Mois">
+<!ENTITY lightning.toolbar.month.accesskey "M">
