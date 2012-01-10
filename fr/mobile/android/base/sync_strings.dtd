@@ -37,7 +37,10 @@
 <!ENTITY sync.subtitle.success.label "Vos données sont à présent synchronisées en arrière-plan. Vous pouvez vous rendre dans le menu Paramètres pour gérer votre compte.">
 <!ENTITY sync.settings.label "Paramètres">
 <!ENTITY sync.subtitle.manage.label "Votre compte &syncBrand.fullName.label; est déjà configuré. Rendez-vous dans le menu Paramètres pour gérer votre compte.">
-  
+
+<!-- Pair Device -->
+<!ENTITY sync.pair.tryagain.label "Veuillez essayer à nouveau.">
+
 <!-- Common text -->
 <!ENTITY sync.button.cancel.label "Annuler">
 <!ENTITY sync.button.connect.label "Se connecter">
