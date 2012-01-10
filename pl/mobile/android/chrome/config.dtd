@@ -1,12 +1,3 @@
-<!ENTITY empty.label            "Szukaj">
+<!ENTITY search.placeholder     "Wyszukaj w ustawieniach">
+<!ENTITY clear.altText          "Wyczyść">
 <!ENTITY newpref.label          "Dodaj nowe ustawienie">
-<!ENTITY addpref.name           "Nazwa">
-<!ENTITY addpref.value          "Wartość">
-
-<!ENTITY cancel.label           "Anuluj">
-<!ENTITY reset.label            "Resetuj">
-<!ENTITY done.label             "Gotowe">
-
-<!ENTITY integer.label          "Liczba">
-<!ENTITY string.label           "Ciąg">
-<!ENTITY boolean.label          "Wartość logiczna">
