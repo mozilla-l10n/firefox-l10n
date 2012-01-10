@@ -1,9 +1,20 @@
 
+<!ENTITY  launcher_shortcuts_title "&brandShortName; web-apps">
+<!ENTITY  launcher_shortcuts_empty "Geen web-apps gevonden">
+
+<!ENTITY choose_file "Bestand kiezen">
+
 <!ENTITY  splash_firstrun "&brandShortName; instellen\u2026">
 
 <!ENTITY  no_space_to_start_error "Er is niet genoeg ruimte beschikbaar om &brandShortName; te starten.">
 <!ENTITY  error_loading_file "Er is een fout opgetreden bij het laden van de benodigde bestanden voor &brandShortName;.">
 
+<!ENTITY  awesomebar_all_pages_title "Top sites">
+<!ENTITY  awesomebar_bookmarks_title "Bladwijzers">
+<!ENTITY  awesomebar_history_title "Geschiedenis">
+<!ENTITY  awesomebar_search_engine "Zoeken naar \&quot;&#037;s\&quot;">
+
+<!ENTITY  crash_restart_label "&brandShortName; herstarten">
 <!ENTITY  crash_reporter_title "&brandShortName;-crashreporter">
 <!ENTITY  crash_message "&brandShortName; is gecrasht. Uw tabbladen worden op de &brandShortName;-startpagina getoond wanneer u herstart.">
 <!ENTITY  crash_help_message "Help ons dit probleem op te lossen!">
@@ -19,3 +30,75 @@
 <!ENTITY  launcher_shortcuts_empty "Geen web-apps gevonden">
 
 <!ENTITY choose_file "Bestand kiezen">
+
+<!ENTITY awesomebar_default_text "Voer een zoekterm of adres in">
+
+<!ENTITY bookmarks_title "Bladwijzers">
+<!ENTITY bookmark_add "Bladwijzer">
+<!ENTITY bookmark_remove "Verwijderen">
+<!ENTITY bookmark_added "Bladwijzer toegevoegd">
+<!ENTITY bookmark_removed "Bladwijzer verwijderd">
+
+<!ENTITY history_today_section "Vandaag">
+<!ENTITY history_yesterday_section "Gisteren">
+<!ENTITY history_week_section "7 dagen geleden">
+<!ENTITY history_older_section "Ouder dan 7 dagen">
+
+<!ENTITY reload "Vernieuwen">
+<!ENTITY forward "Vooruit">
+
+<!ENTITY new_tab "Nieuw tabblad">
+
+<!ENTITY settings "Instellingen">
+<!ENTITY settings_title "Instellingen">
+<!ENTITY pref_category_general "Algemeen">
+<!ENTITY pref_category_privacy "Privacy &amp; beveiliging">
+<!ENTITY pref_category_content "Inhoud">
+<!ENTITY pref_about_firefox "Over &brandShortName;">
+<!ENTITY pref_do_not_track "Websites vertellen mij niet te volgen">
+<!ENTITY pref_telemetry "Prestatiegegevens verzenden">
+<!ENTITY pref_remember_signons "Wachtwoorden onthouden">
+<!ENTITY pref_cookies "Cookies inschakelen">
+<!ENTITY pref_char_encoding "Tekenset tonen">
+<!ENTITY pref_clear_history "Geschiedenis wissen">
+">
+<!ENTITY pref_clear_history_confirm "Navigatiegeschiedenis wordt verwijderd">
+<!ENTITY pref_clear_private_data "Privégegevens wissen">
+<!ENTITY pref_clear_private_data_confirm "Navigatie-instellingen, inclusief wachtwoorden en cookies, worden verwijderd">
+<!ENTITY pref_enable_plugins "Plug-ins inschakelen">
+<!ENTITY pref_enable_plugins_yes "Ja">
+<!ENTITY pref_enable_plugins_tap_to_play "Tap om af te spelen">
+<!ENTITY pref_enable_plugins_no "Nee">
+<!ENTITY pref_font_size "Lettergrootte">
+<!ENTITY pref_font_size_small "Klein">
+<!ENTITY pref_font_size_medium "Gemiddeld">
+<!ENTITY pref_font_size_large "Groot">
+<!ENTITY pref_font_size_xlarge "Extra groot">
+<!ENTITY pref_use_master_password "Hoofdwachtwoord gebruiken">
+
+<!ENTITY quit "Afsluiten">
+
+<!ENTITY addons "Add-ons">
+
+<!ENTITY share "Delen">
+<!ENTITY save_as_pdf "Opslaan als PDF">
+<!ENTITY agent_request_desktop "Desktopversie aanvragen">
+<!ENTITY agent_request_mobile "Mobielversie aanvragen">
+
+<!ENTITY contextmenu_open_new_tab "Openen in nieuw tabblad">
+<!ENTITY contextmenu_add_to_launcher "Toevoegen aan thuisscherm">
+<!ENTITY contextmenu_share "Delen">
+
+<!ENTITY site_settings_title        "Site-instellingen wissen">
+<!ENTITY site_settings_cancel       "Annuleren">
+<!ENTITY site_settings_clear        "Wissen">
+<!ENTITY site_settings_no_settings  "Er zijn geen instellingen om te wissen.">
+
+<!ENTITY masterpassword_create_title "Hoofdwachtwoord aanmaken">
+<!ENTITY masterpassword_remove_title "Hoofdwachtwoord verwijderen">
+<!ENTITY masterpassword_password "Wachtwoord">
+<!ENTITY masterpassword_confirm "Wachtwoord bevestigen">
+
+<!ENTITY button_ok "OK">
+<!ENTITY button_cancel "Annuleren">
+
