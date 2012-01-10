@@ -1,7 +1,7 @@
 <!-- for SearchDialog.xul -->
-<!ENTITY searchHeading.label         "Шукати в повідомленнях у:">
+<!ENTITY searchHeading.label         "Шукати в листах у:">
 <!ENTITY searchHeading.accesskey     "e">
-<!ENTITY searchSubfolders.label      "Шукати у вкладених теках">
+<!ENTITY searchSubfolders.label      "Шукати у долученнях теках">
 <!ENTITY searchSubfolders.accesskey  "u">
 <!ENTITY searchLocalSystem.label     "Шукати в локальній системі">
 <!ENTITY searchLocalSystem.accesskey "y">
@@ -14,19 +14,19 @@
 <!ENTITY searchDialogTitle.label     "Пошук листів…">
 <!ENTITY results.label               "Результати">
 <!ENTITY fileHereMenu.label          "Помістити сюди">
-<!ENTITY fileHereMenu.accesskey      "r">
+<!ENTITY fileHereMenu.accesskey      "с">
 <!ENTITY fileButton.label            "Помістити">
-<!ENTITY fileButton.accesskey        "F">
+<!ENTITY fileButton.accesskey        "т">
 <!ENTITY goToFolderButton.label      "Відкрити теку листів">
-<!ENTITY goToFolderButton.accesskey  "n">
+<!ENTITY goToFolderButton.accesskey  "і">
 <!ENTITY saveAsVFButton.label      "Зберегти як віртуальну теку">
 <!ENTITY saveAsVFButton.accesskey  "б">
 
 <!-- for ABSearchDialog.xul -->
 <!ENTITY abSearchHeading.label       "Шукати в:">
-<!ENTITY abSearchHeading.accesskey   "e">
+<!ENTITY abSearchHeading.accesskey   "Ш">
 <!ENTITY propertiesButton.label      "Властивості">
-<!ENTITY propertiesButton.accesskey  "л">
+<!ENTITY propertiesButton.accesskey  "В">
 <!ENTITY composeButton.label         "Скласти">
-<!ENTITY composeButton.accesskey     "o">
+<!ENTITY composeButton.accesskey     "С">
 <!ENTITY abSearchDialogTitle.label   "Розширений режим пошуку в адресній книзі">

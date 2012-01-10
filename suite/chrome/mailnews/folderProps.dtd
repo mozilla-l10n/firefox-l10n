@@ -41,59 +41,59 @@
 <!ENTITY folderProps.windowtitle.label           "Властивості">
 
 <!ENTITY generalInfo.label                       "Основна інформація">
-<!ENTITY folderCharsetTab.label                  "Кодування за умовчанням:">
+<!ENTITY folderCharsetTab.label                  "Типове кодування:">
 <!ENTITY folderCharsetTab.accesskey              "К">
-<!ENTITY folderCharsetOverride.label             "Використовувати як кодування за умовчанням для всіх повідомлень в теці (ігнорувати кодування, визначені для окремих повідомлень, і автовизначення).">
-<!ENTITY folderCharsetOverride.accesskey         "м">
-<!ENTITY folderRebuildSummaryFileTip2.label      "Rebuild Summary File Index">
-<!ENTITY folderRebuildSummaryFile2.label         "Repair Folder">
-<!ENTITY folderRebuildSummaryFile2.accesskey     "R">
-<!ENTITY folderRebuildSummaryFile.explanation    "Sometimes the folder index (.msf) file becomes damaged and messages may appear missing or deleted messages continue showing; repairing the folder may fix these issues.">
-<!ENTITY folderIncludeInGlobalSearch.label       "Include messages in this folder in Global Search results">
-<!ENTITY folderIncludeInGlobalSearch.accesskey   "G">
+<!ENTITY folderCharsetOverride.label             "Використовувати типове кодування для всіх листів у теці (ігнорувати кодування, визначені для окремих листів і автоматичне визначення).">
+<!ENTITY folderCharsetOverride.accesskey         "В">
+<!ENTITY folderRebuildSummaryFileTip2.label      "Перебудувати файл індексу підсумків">
+<!ENTITY folderRebuildSummaryFile2.label         "Відновити теку">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "і">
+<!ENTITY folderRebuildSummaryFile.explanation    "Інколи файл індексу тек (.msf) стає пошкодженим і листи можуть зникати або вилучати листи продовжуючи показувати; відновлення теки може усунути таку проблему.">
+<!ENTITY folderIncludeInGlobalSearch.label       "Ураховувати листи в цій теці для результатів загального пошуку">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "У">
 
-<!ENTITY retention.label "Налаштування збереження повідомлень">
+<!ENTITY retention.label "Параметри збереження листів">
 <!ENTITY retentionUseAccount.label "Використовувати налаштування мого облікового запису">
 <!ENTITY retentionUseAccount.accesskey "м">
 <!ENTITY daysOld.label "днів">
-<!ENTITY message.label "повідомлень">
-<!ENTITY retentionCleanup.label "Утримувати листи:">
-<!ENTITY retentionCleanupImap.label "Утримувати листи як на комп'ютері, так і на сервері:">
-<!ENTITY retentionCleanupPop.label "Утримувати листи і на сервері:">
-<!ENTITY retentionDeleteMsg.label "Видаляти листи більші ніж">
-<!ENTITY retentionDeleteMsg.accesskey "л">
+<!ENTITY message.label "листів">
+<!ENTITY retentionCleanup.label "Зберігати листи:">
+<!ENTITY retentionCleanupImap.label "Зберігати листи як на комп'ютері, так і на сервері:">
+<!ENTITY retentionCleanupPop.label "Зберігати листи і на сервері:">
+<!ENTITY retentionDeleteMsg.label "Вилучати листи більші за">
+<!ENTITY retentionDeleteMsg.accesskey "В">
 <!ENTITY retentionKeepAll.label "Усі листи">
 <!ENTITY retentionKeepAll.accesskey "Н">
-<!ENTITY retentionKeepRecent.label "The newest">
-<!ENTITY retentionKeepRecent.accesskey "n">
+<!ENTITY retentionKeepRecent.label "Найновіші">
+<!ENTITY retentionKeepRecent.accesskey "Н">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Завжди вилучати прочитані повідомлення (перекриває настройку давньості)">
-<!ENTITY retentionApplyToFlagged.label "Завжди утримувати відмічені листи">
-<!ENTITY retentionApplyToFlagged.accesskey "з">
+<!ENTITY retentionKeepUnreadHidden.label "Завжди вилучати прочитані листи (перекриває налаштування щодо давньості)">
+<!ENTITY retentionApplyToFlagged.label "Завжди зберігати позначені листи">
+<!ENTITY retentionApplyToFlagged.accesskey "З">
 
-<!ENTITY folderSynchronizationTab.label          "Синхронізація">
-<!ENTITY folderCheckForNewMessages2.label        "When getting new messages for this account, always check this folder">
+<!ENTITY folderSynchronizationTab.label          "Синхронізування">
+<!ENTITY folderCheckForNewMessages2.label        "Протягом одержання нових листів для цього облікового запису, завжди перевіряйте теку">
 <!ENTITY folderCheckForNewMessages2.accesskey    "c">
 
 <!ENTITY offlineFolder.check.label               "Вибрати цю теку для автономної роботи">
 <!ENTITY offlineFolder.check.accesskey           "В">
-<!ENTITY offlineFolder.button.label              "Завантажити">
+<!ENTITY offlineFolder.button.label              "Звантажити">
 <!ENTITY offlineFolder.button.accesskey          "З">
 
 <!ENTITY selectofflineNewsgroup.check.label      "Вибрати цю групу новин для автономної роботи">
-<!ENTITY selectofflineNewsgroup.check.accesskey  "а">
-<!ENTITY offlineNewsgroup.button.label           "Завантажити">
+<!ENTITY selectofflineNewsgroup.check.accesskey  "В">
+<!ENTITY offlineNewsgroup.button.label           "Звантажити">
 <!ENTITY offlineNewsgroup.button.accesskey       "З">
 
 <!ENTITY folderProps.name.label                  "Назва:">
-<!ENTITY folderProps.name.accesskey              "а">
-<!ENTITY folderProps.location.label              "Розташування:">
-<!ENTITY folderProps.location.accesskey          "о">
+<!ENTITY folderProps.name.accesskey              "Н">
+<!ENTITY folderProps.location.label              "Адреса:">
+<!ENTITY folderProps.location.accesskey          "А">
 
-<!ENTITY folderSharingTab.label                  "Сумісне використання">
+<!ENTITY folderSharingTab.label                  "Оприлюднення">
 <!ENTITY privileges.button.label                 "Привілеї…">
 <!ENTITY privileges.button.accesskey             "П">
-<!ENTITY permissionsDesc.label                   "У вас є наступні права:">
+<!ENTITY permissionsDesc.label                   "У вас є такі права:">
 <!ENTITY folderType.label                        "Тип теки:">
 
 <!ENTITY folderQuotaTab.label                    "Квота">

@@ -35,7 +35,7 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY subscribeDialog.title        "Підписка">
+<!ENTITY subscribeDialog.title        "Підписування">
 <!ENTITY subscribeButton.label        "Підписатися">
 <!ENTITY subscribeButton.accesskey    "П">
 <!ENTITY unsubscribeButton.label      "Відписатися">
@@ -44,12 +44,12 @@
 <!ENTITY newGroupsTab.accesskey       "Н">
 <!ENTITY refreshButton.label          "Оновити">
 <!ENTITY refreshButton.accesskey      "в">
-<!ENTITY stopButton.label             "Стоп">
-<!ENTITY stopButton.accesskey         "С">
+<!ENTITY stopButton.label             "Зупинити">
+<!ENTITY stopButton.accesskey         "З">
 <!ENTITY server.label                 "Обліковий запис:">
 <!ENTITY server.accesskey             "О">
-<!ENTITY subscribedHeader.label       "Підписка">
+<!ENTITY subscribedHeader.label       "Підписування">
 <!-- commenting out until bug 38906 is fixed 
 <!ENTITY messagesHeader.label         "Messages"> -->
-<!ENTITY namefield.label              "Показати елементи, що містять:">
-<!ENTITY namefield.accesskey          "е">
+<!ENTITY namefield.label              "Показати об'єкти, що містять:">
+<!ENTITY namefield.accesskey          "о">
