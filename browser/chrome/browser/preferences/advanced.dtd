@@ -79,7 +79,9 @@
 <!ENTITY connectionSettings.label        "Կարգավորել...">
 <!ENTITY connectionSettings.accesskey    "Կ">
 
-<!ENTITY offlineStorage.label            "Օֆլայն պահոց">
+<!ENTITY httpCache.label                 "Cached Web Content">
+
+<!ENTITY offlineStorage2.label           "Offline Web Content and User Data">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -92,6 +94,8 @@
 <!ENTITY limitCacheSizeAfter.label       "Մբ տարածք">
 <!ENTITY clearCacheNow.label             "Մաքրել հիմա">
 <!ENTITY clearCacheNow.accesskey         "Մ">
+<!ENTITY clearOfflineAppCacheNow.label   "Clear Now">
+<!ENTITY clearOfflineAppCacheNow.accesskey "N">
 <!ENTITY overrideSmartCacheSize.label    "Override automatic cache management">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
@@ -115,8 +119,6 @@
 <!ENTITY useService.accesskey            "b">
 
 <!ENTITY updateOthers.label              "Automatically update:">
-<!ENTITY enableAddonsUpdate3.label       "Օժանդակիչներ">
-<!ENTITY enableAddonsUpdate3.accesskey   "Օ">
 <!ENTITY enableSearchUpdate.label        "Փնտրամեքենաներ">
 <!ENTITY enableSearchUpdate.accesskey    "h">
 
@@ -125,7 +127,7 @@
 <!ENTITY offlineNotifyExceptions.label   "Բացառություններ…">
 <!ENTITY offlineNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList.label           "Հետևյալ վեբ կայքերը խահպանել են ինֆորմացիա offline ռեժիմում օգտագործելու համար`">
+<!ENTITY offlineAppsList2.label          "The following websites are allowed to store data for offline use:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Ջնջել…">
 <!ENTITY offlineAppsListRemove.accesskey "Ջ">

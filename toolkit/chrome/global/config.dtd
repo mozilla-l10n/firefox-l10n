@@ -82,9 +82,9 @@
 <!ENTITY aboutWarningButton.label "Խոստանում եմ, կլինեմ զգույշ!">
 <!ENTITY aboutWarningCheckbox.label "Ցույց տալ այս զգուշացումը հաջորդ անգամ">
 
-<!ENTITY filterPrefs.label "Զտիչ.">
-<!ENTITY filterPrefs.accesskey "F">
-<!ENTITY focusFilter.key "f">
+<!ENTITY searchPrefs.label "Search:">
+<!ENTITY searchPrefs.accesskey "r">
+<!ENTITY focusSearch.key "r">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "Նախընտրանքի անունը">

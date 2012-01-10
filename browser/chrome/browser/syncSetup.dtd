@@ -41,7 +41,7 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "Եթե դուք նախկինում չեք օգտագործել &syncBrand.fullName.label; ապա դուք պետք է ստեղծեք նոր հաշիվ:">
+<!ENTITY setup.pickSetupType.description2 "Welcome! If you've never used &syncBrand.fullName.label; before, you will need to create a new account.">
 <!ENTITY button.createNewAccount.label "Ստեղծել նոր հաշիվ">
 <!ENTITY button.haveAccount.label      "I Have an Account">
 
@@ -127,6 +127,8 @@
 <!ENTITY engine.passwords.accesskey "Գ">
 <!ENTITY engine.prefs.label         "Նախընտրանքներ">
 <!ENTITY engine.prefs.accesskey     "Ն">
+<!ENTITY engine.addons.label        "Add-ons">
+<!ENTITY engine.addons.accesskey    "A">
 
 <!ENTITY choice2.merge.main.label      "Միացնել այս համակարգչի տվյալները &syncBrand.shortName.label;-ի տվյալներին">
 <!ENTITY choice2.merge.recommended.label "Խորհուրդ է տրվում՝">
