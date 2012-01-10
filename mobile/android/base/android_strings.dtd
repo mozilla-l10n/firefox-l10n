@@ -1,0 +1,21 @@
+
+<!ENTITY  splash_firstrun "Configurando o &brandShortName;\u2026">
+
+<!ENTITY  no_space_to_start_error "Não há espaço disponível suficiente para iniciar o &brandShortName;.">
+<!ENTITY  error_loading_file "Ocorreu um erro ao tentar carregar os arquivos necessários para executar o &brandShortName;">
+
+<!ENTITY  crash_reporter_title "&brandShortName; Crash Reporter">
+<!ENTITY  crash_message "O &brandShortName; travou. Suas abas serão listadas na página &brandShortName; Start quando você reiniciar.">
+<!ENTITY  crash_help_message "Por favor, nos ajude a corrigir este problema!">
+<!ENTITY  crash_send_report_message "Enviar um relatório de travamento à Mozilla">
+<!ENTITY  crash_include_url "Incluir endereço da página">
+<!ENTITY  crash_close_label "Fechar">
+<!ENTITY  crash_restart_label "Reiniciar o &brandShortName;">
+<!ENTITY  sending_crash_report "Enviando relatório do travamento\u2026">
+<!ENTITY  exit_label "Sair">
+<!ENTITY  continue_label "Continuar">
+
+<!ENTITY  launcher_shortcuts_title "Aplicativos web do &brandShortName;">
+<!ENTITY  launcher_shortcuts_empty "Nenhum aplicativo web encontrado">
+
+<!ENTITY choose_file "Selecionar arquivo">
