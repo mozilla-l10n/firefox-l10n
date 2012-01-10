@@ -58,14 +58,10 @@
 
 <!ENTITY brandMotto       "era și timpul">
 <!ENTITY credit.thanks    "Mulțumiri speciale">
-
-<!-- localization credits look like this: -->
-<!--
-<!ENTITY credit.translation
-  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
 -->
 <!ENTITY credit.translation "<h3>Traducători</h3><ul><li>Alexandru Szasz</li><li>Comunitatea de pe tradu.softwareliber.ro</li></ul>">
 
 <!ENTITY credit.powered     "Bazat pe">
 <!ENTITY license.and        "și">
 <!ENTITY cmdClose.macKey  "W">
+

@@ -2,8 +2,8 @@
 # Translator(s):
 #
 # Laudatti <Laudatti@gmail.com>
-# strainu <crangasi2001@yahoo.com>
 # Alexandru Szasz <alexxed@gmail.com>
+# strainu <narro@strainu.ro>
 # Nicu <kneekoo@yahoo.com>
 #
 -->
@@ -176,7 +176,7 @@
 <!ENTITY aboutCmd.label                                    "Despre &brandFullName;">
 <!ENTITY aboutCmd.accesskey                                "D">
 
-<!ENTITY updateCmd.label                                   "Caută actualizări...">
+<!ENTITY updateCmd.label                                   "Caută actualizări…">
 <!ENTITY updateCmd.accesskey                               "C">
 
 <!ENTITY sunbird.export.calendar.label                     "Exportă calendarul…">
@@ -198,3 +198,4 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey                    "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers                     "accel,alt">
 <!ENTITY showAllAppsCmdMac.label                           "Arată-le pe toate">
+

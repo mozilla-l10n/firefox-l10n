@@ -38,7 +38,7 @@
 
 # the default day to start the week on
 #0=Sunday 1=Monday 2=Tuesday 3=Wednesday 4=Thursday 5=Friday 6=Saturday
-pref("calendar.week.start", 1);
+pref("calendar.week.start", 0);
 
 # default days off (not in work week)
 pref("calendar.week.d0sundaysoff", true);
@@ -52,4 +52,4 @@ pref("calendar.week.d6saturdaysoff", true);
 pref("general.useragent.locale", "@AB_CD@");
 
 # categories
-pref("calendar.categories.names", "Aniversare,Zi de naștere,Afaceri,Telefoane,Clienți,Competiții,Favorite,Cadouri,Vacanțe,Idei,Probleme,Diverse,Personal,Proiecte,Sărbători legale,Furnizori,Călătorii");
+pref("calendar.categories.names", "Anniversary,Birthday,Business,Calls,Clients,Competition,Customer,Favorites,Follow up,Gifts,Holidays,Ideas,Issues,Meeting,Miscellaneous,Personal,Projects,Public Holiday,Status,Suppliers,Travel,Vacation");

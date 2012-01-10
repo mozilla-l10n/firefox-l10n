@@ -62,3 +62,8 @@
 <!ENTITY pref.defaultlength.accesskey "e">
 <!ENTITY pref.defaultsnoozelength.label "Durata implicită a amânării alarmei:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "D">
+
+<!ENTITY pref.accessibility.label "Accessibility" >
+<!ENTITY pref.systemcolors.label "Optimize colors for accessibility" >
+<!ENTITY pref.systemcolors.accesskey "c">
+
