@@ -9,12 +9,13 @@
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!ENTITY aboutDialog.title          "Despre &brandFullName;">
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
-<!ENTITY warningDesc.version        "&brandShortName; is experimental and may be unstable.">
+<!ENTITY warningDesc.version        "&brandShortName; e experimental și poate deveni instabil.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetry): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
 <!ENTITY warningDesc.telemetry      "It automatically sends test information back to &vendorShortName; to help make &brandShortName; better.">
 
@@ -22,10 +23,10 @@
 <!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
-<!ENTITY community.exp.middle       " is a ">
+<!ENTITY community.exp.middle       "este o ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
-<!ENTITY community.exp.creditsLink  "global community">
-<!ENTITY community.exp.end          " working together to keep the Web open, public and accessible to all.">
+<!ENTITY community.exp.creditsLink  "comunitate globală">
+<!ENTITY community.exp.end          "care lucrează împreună pentru a păstra internetul deschis, public și accesibil tuturor.">
 
 <!ENTITY community.start2           "&brandShortName; este proiectat de ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -33,7 +34,7 @@
 <!ENTITY community.middle2          ", o ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "comunitate globală">
-<!ENTITY community.end3             " working together to keep the Web open, public and accessible to all.">
+<!ENTITY community.end3             "care lucrează împreună pentru a păstra internetul deschis, public și accesibil tuturor.">
 
 <!ENTITY contribute.start           "Sună interesant? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->

@@ -7,6 +7,7 @@
 <!--
 # Reviewer(s):
 #
+# raulmalea <raul.malea@gmail.com>
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
@@ -47,7 +48,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY print.label          "Tipărește...">
+<!ENTITY print.label          "Tipărește…">
 <!ENTITY print.accesskey      "p">
 <!ENTITY pageSetup.label      "Aranjare în pagină...">
 <!ENTITY pageSetup.accesskey  "A">

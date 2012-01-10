@@ -8,6 +8,7 @@
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!-- ***** BEGIN LICENSE BLOCK *****
@@ -55,9 +56,9 @@
 <!ENTITY aboutWarningButton.label "Voi avea grijă, promit!">
 <!ENTITY aboutWarningCheckbox.label "Arată această avertizare data viitoare">
 
-<!ENTITY filterPrefs.label "Filtru:">
-<!ENTITY filterPrefs.accesskey "i">
-<!ENTITY focusFilter.key "f">
+<!ENTITY searchPrefs.label "Search:">
+<!ENTITY searchPrefs.accesskey "r">
+<!ENTITY focusSearch.key "r">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "Nume preferință">

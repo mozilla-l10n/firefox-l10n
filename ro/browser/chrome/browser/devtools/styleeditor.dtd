@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# raulmalea <raul.malea@gmail.com>
+#
+-->
 <!-- LOCALIZATION NOTE : FILE This file contains the Style Editor window strings -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 <!-- LOCALIZATION NOTE : The correct localization of this file might be to keep
@@ -10,7 +22,7 @@
      main window. NB: the property chromeWindowTitle in styleeditor.properties
      is used to dynamically update the Style Editor window title with the title
      of the web page it is editing. -->
-<!ENTITY window.title               "Style Editor">
+<!ENTITY window.title               "Editor de stil">
 
 <!ENTITY newButton.label            "New">
 <!ENTITY newButton.tooltip          "Create and append a new style sheet to the document">

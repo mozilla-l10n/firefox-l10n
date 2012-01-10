@@ -31,7 +31,7 @@
 <!ENTITY pageSetupCmd.accesskey "j">
 <!ENTITY printPreviewCmd.label "Previzualizare tipărire">
 <!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printCmd.label "Tipărește...">
+<!ENTITY printCmd.label "Tipărește…">
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.commandkey "P">
 <!ENTITY closeCmd.label "Închide">
