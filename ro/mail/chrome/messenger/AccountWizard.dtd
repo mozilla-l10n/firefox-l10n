@@ -69,6 +69,10 @@
 <!ENTITY popType.accesskey "P">
 <!ENTITY leaveMsgsOnSrvr.label "Leave messages on server">
 <!ENTITY leaveMsgsOnSrvr.accesskey "L">
+<!ENTITY portNum.label "Port:">
+<!ENTITY portNum.accesskey "o">
+<!ENTITY defaultPortLabel.label "Default:">
+<!ENTITY defaultPortValue.label "">
 
 
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in

@@ -19,7 +19,6 @@
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
-<!ENTITY messengerWindow.title "Corespondență și grupuri de discuții">
 <!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
@@ -609,8 +608,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextMarkMailFolderRead.accesskey "z">
 <!ENTITY folderContextSubscribe.label "Abonare…">
 <!ENTITY folderContextSubscribe.accesskey "b">
-<!ENTITY folderContextSearchMessages.label "Caută…">
-<!ENTITY folderContextSearchMessages.accesskey "C">
+<!ENTITY folderContextSearchForMessages.label "Search Messages…">
+<!ENTITY folderContextSearchForMessages.accesskey "S">
 <!ENTITY folderContextProperties.label "Proprietăți…">
 <!ENTITY folderContextProperties.accesskey "P">
 <!ENTITY folderContextFavoriteFolder.label "Dosar favorite">
