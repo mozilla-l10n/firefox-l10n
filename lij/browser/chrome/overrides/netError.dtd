@@ -46,10 +46,10 @@
 ">
 
 <!ENTITY contentEncodingError.title "Erô de còdifica do contegnûo">
-<!ENTITY contentEncodingError.longDesc "<p>A pàgina che t'eu védde a no se peu vizoalizâ perché a gh'à unn-a compresción che a no l'é soportâ.</p><ul><li>Pe favô ciàmma o propiêtâio do scîto pe informâlo do problêma.</li></ul>">
+<!ENTITY contentEncodingError.longDesc "<p>A pàgina che t'eu védde a no se peu vizoalizâ perché a gh'à 'na compresción che a no l'é soportâ.</p><ul><li>Pe favô ciàmma o propiêtâio do scîto pe informâlo do problêma.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Tîpo de file no segûo">
-<!ENTITY unsafeContentType.longDesc "<p>A pàgina che t'eu védde a no se peu vizoalizâ perché a gh'à unn-a compresción che a no l'é soportâ.</p><ul><li>Pe favô ciàmma o propiêtâio do scîto pe informâlo do problêma.</li></ul>">
+<!ENTITY unsafeContentType.longDesc "<p>A pàgina che t'eu védde a no se peu vizoalizâ perché a gh'à 'na compresción che a no l'é soportâ.</p><ul><li>Pe favô ciàmma o propiêtâio do scîto pe informâlo do problêma.</li></ul>">
 
 <!ENTITY netReset.title "Conesción Scancelâ">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
@@ -69,7 +69,7 @@
 <!ENTITY proxyResolveFailure.title "No tròvo o proxy">
 <!ENTITY proxyResolveFailure.longDesc "<ul>
   <li>Contròlla se e inpostaçióin do proxy son giùste.</li>
-  <li>Contròlla se o teu computer o l'à unn-a conesción che fonçiónn-a.</li>
+  <li>Contròlla se o teu computer o l'à 'na conesción che fonçiónn-a.</li>
   <li>Se o teu computer ò ræ son protetti da un firewall ò proxy verifica se &brandShortName; peu acêde a ræ</li>
 </ul>
            ">
@@ -96,7 +96,7 @@
 <!ENTITY sharedLongDesc "<ul>
   <li>O scito o porieiva êse tenporaneamente inacesibile ò tròppo traficou. Preuva torna tra quàrche momento.</li>
   <li>Se no ti riesci a caregâ nisciunn-a pagina, preuva a controlâ a conesción do teu computer.</li>
-  <li>Se o teu computer ò a teu conesción en protetti da 'n firewall ò proxy, açertite che &brandShortName; o l'à o permisso de acede a-o Web.</li>
+  <li>Se o teu computer ò a teu conesción en protetti da 'n firewall ò proxy, açertite che &brandShortName; o l'à o permisso de acêde a-a Ræ.</li>
 </ul>
                    ">
 

@@ -34,7 +34,7 @@
 <!ENTITY contentEncodingError.longDesc "<p>A pàgina che t'eu védde a no se peu vizoalizâ perché a gh'à 'na compresción ch'a no l'é soportâ.</p><ul><li>Pe favô ciàmma o propiêtâio do scîto pe informâlo do problêma.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Tîpo de file no segûo">
-<!ENTITY unsafeContentType.longDesc "<p>A pàgina che t'eu védde a no se peu vizoalizâ perché a gh'à unn-a compresción che a no l'é soportâ.</p><ul><li>Pe favô ciàmma o propiêtâio do scîto pe informâlo do problêma.</li></ul>">
+<!ENTITY unsafeContentType.longDesc "<p>A pàgina che t'eu védde a no se peu vizoalizâ perché a gh'à 'na compresción che a no l'é soportâ.</p><ul><li>Pe favô ciàmma o propiêtâio do scîto pe informâlo do problêma.</li></ul>">
 
 <!ENTITY netReset.title "Conesción Scancelâ">
 <!ENTITY netReset.longDesc "<p>O colegamento o l'é stæto fermòu inta negoçiaçión da conesción. Pe favô prêuva ancón.</p>">

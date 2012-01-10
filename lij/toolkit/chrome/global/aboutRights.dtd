@@ -41,7 +41,7 @@
 <!ENTITY rights.intro-point4b-unbranded "Serviççi do scîto">
 <!ENTITY rights.intro-point4c-unbranded ".">
 
-<!ENTITY rights2.webservices-header "Serviççi de &brandFullName; basê in sciâ ræ">
+<!ENTITY rights2.webservices-header "Serviççi de &brandFullName; bazê in sciâ ræ">
 
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
