@@ -4,7 +4,7 @@
 <!ENTITY  no_space_to_start_error "Na dysku jest za mało wolnego miejsca aby uruchomić program &brandShortName;">
 <!ENTITY  error_loading_file "Podczas wczytywania plików wymaganych do uruchomienia programu &brandShortName; wystąpił błąd.">
 
-<!ENTITY  awesomebar_all_pages_title "Wszystkie strony">
+<!ENTITY  awesomebar_all_pages_title "Wszystko">
 <!ENTITY  awesomebar_bookmarks_title "Zakładki">
 <!ENTITY  awesomebar_history_title "Historia">
 <!ENTITY  awesomebar_search_engine "Wyszukaj \&quot;&#037;s\&quot;">
@@ -43,18 +43,14 @@
 
 <!ENTITY new_tab "Nowa karta">
 
-<!ENTITY preferences "Ustawienia">
-<!ENTITY preferences_title "Ustawienia">
+<!ENTITY settings "Ustawienia">
+<!ENTITY settings_title "Ustawienia">
 <!ENTITY pref_category_general "Ogólne">
 <!ENTITY pref_category_privacy "Prywatność i bezpieczeństwo">
 <!ENTITY pref_category_content "Treść">
 <!ENTITY pref_about_firefox "O programie &brandShortName;">
 <!ENTITY pref_do_not_track "Informuj witryny, że nie chcę być śledzony">
 <!ENTITY pref_telemetry "Przesyłaj informacje o wydajności">
-<!ENTITY pref_homepage "Strona startowa">
-<!ENTITY pref_homepage_start "Firefox Start">
-<!ENTITY pref_homepage_blank "Pusta strona">
-<!ENTITY pref_homepage_current "Bieżąca strona">
 <!ENTITY pref_remember_signons "Pamiętaj hasła">
 <!ENTITY pref_cookies "Akceptuj ciasteczka">
 <!ENTITY pref_char_encoding "Pokazuj kodowanie znaków">
@@ -62,6 +58,16 @@
 <!ENTITY pref_clear_history_confirm "Czy usunąć historię przeglądania?">
 <!ENTITY pref_clear_private_data "Wyczyść dane prywatne">
 <!ENTITY pref_clear_private_data_confirm "Czy usunąć historię przeglądania i ustawienia, w tym zapamiętane hasła i ciasteczka?">
+<!ENTITY pref_enable_plugins "Wtyczki">
+<!ENTITY pref_enable_plugins_yes "Włączone">
+<!ENTITY pref_enable_plugins_tap_to_play "Dotknij, aby odtworzyć">
+<!ENTITY pref_enable_plugins_no "Wyłączone">
+<!ENTITY pref_font_size "Rozmiar tekstu">
+<!ENTITY pref_font_size_small "Mały">
+<!ENTITY pref_font_size_medium "Średni">
+<!ENTITY pref_font_size_large "Duży">
+<!ENTITY pref_font_size_xlarge "Bardzo duży">
+<!ENTITY pref_use_master_password "Używaj hasła głównego">
 
 <!ENTITY quit "Zakończ">
 
@@ -71,3 +77,20 @@
 <!ENTITY save_as_pdf "Zapisz jako PDF">
 <!ENTITY agent_request_desktop "Wyłącz wersję mobilną strony">
 <!ENTITY agent_request_mobile "Włącz wersję mobilną strony">
+
+<!ENTITY contextmenu_open_new_tab "Otwórz w nowej karcie">
+<!ENTITY contextmenu_add_to_launcher "Dodaj do ekranu domowego">
+<!ENTITY contextmenu_share "Udostępnij">
+
+<!ENTITY site_settings_title        "Wyczyść ustawienia witryny">
+<!ENTITY site_settings_cancel       "Anuluj">
+<!ENTITY site_settings_clear        "Wyczyść">
+<!ENTITY site_settings_no_settings  "Brak ustawień">
+
+<!ENTITY masterpassword_create_title "Utwórz hasło główne">
+<!ENTITY masterpassword_remove_title "Usuń hasło główne">
+<!ENTITY masterpassword_password "Hasło">
+<!ENTITY masterpassword_confirm "Potwierdź hasło">
+
+<!ENTITY button_ok "OK">
+<!ENTITY button_cancel "Anuluj">

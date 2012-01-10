@@ -5,13 +5,8 @@
 <!ENTITY aboutPage.rights.label                 "Poznaj swoje prawa">
 <!ENTITY aboutPage.relNotes.label               "Informacje o wydaniu">
 <!ENTITY aboutPage.credits.label                "Podziękowania">
-<!ENTITY aboutPage.checkForUpdates.button       "Aktualizacja">
+<!ENTITY aboutPage.checkForUpdates.link         "Aktualizacja">
 <!ENTITY aboutPage.checkForUpdates.checking     "Poszukiwanie aktualizacji">
 <!ENTITY aboutPage.checkForUpdates.none         "Brak aktualizacji">
 <!ENTITY aboutPage.checkForUpdates.found        "Znaleziono aktualizację">
-
-<!-- LOCALIZATION NOTE:
-     These strings are concatenated in order. Unneeded strings may be left blank.
-  -->
-<!ENTITY aboutPage.licenseLink                  "Informacje o licencji">
-<!ENTITY aboutPage.licenseLinkSuffix            ".">
+<!ENTITY aboutPage.license.label                "Informacje o licencji">

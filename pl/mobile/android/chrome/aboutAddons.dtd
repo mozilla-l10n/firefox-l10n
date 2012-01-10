@@ -1,2 +1,8 @@
 <!ENTITY aboutAddons.title                      "Dodatki">
 <!ENTITY aboutAddons.header                     "Dodatki">
+<!ENTITY aboutAddons.options                    "Ustawienia">
+
+<!ENTITY addonAction.enable                     "Włącz">
+<!ENTITY addonAction.disable                    "Wyłącz">
+<!ENTITY addonAction.uninstall                  "Usuń">
+<!ENTITY addonAction.cancel                     "Anuluj">
