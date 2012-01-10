@@ -217,8 +217,17 @@ can reach it easily. -->
 <!ENTITY inspectButton.label          "Inspectar">
 <!ENTITY inspectButton.accesskey      "I">
 <!ENTITY inspectCloseButton.tooltiptext "Serrar l'inspectur">
+<!ENTITY inspect3DButton.label        "3D">
+<!ENTITY inspect3DButton.accesskey    "M">
 <!ENTITY inspectStyleButton.label     "Stil">
 <!ENTITY inspectStyleButton.accesskey "S">
+
+<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
+  -  in the Tools menu. -->
+<!ENTITY styleeditor.label            "Editur da stils">
+<!ENTITY styleeditor.accesskey        "y">
+<!ENTITY styleeditor.keycode          "VK_F7">
+<!ENTITY styleeditor.keytext          "F7">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Dapli utensils">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "D">
@@ -421,14 +430,23 @@ can reach it easily. -->
 <!ENTITY thisFrameMenu.accesskey          "F">
 
 <!-- Media (video/audio) controls -->
+<!-- LOCALIZATION NOTE: The access keys for "Play" and
+"Pause" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaPlay.label             "Fa ir">
 <!ENTITY mediaPlay.accesskey         "F">
 <!ENTITY mediaPause.label            "Pausa">
 <!ENTITY mediaPause.accesskey        "P">
+<!-- LOCALIZATION NOTE: The access keys for "Mute" and
+"Unmute" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Senza tun">
 <!ENTITY mediaMute.accesskey         "S">
 <!ENTITY mediaUnmute.label           "Cun tun">
 <!ENTITY mediaUnmute.accesskey       "C">
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "Mussar la controlla">
 <!ENTITY mediaShowControls.accesskey "c">
 <!ENTITY mediaHideControls.label     "Zuppentar la controlla">
@@ -437,6 +455,9 @@ can reach it easily. -->
 <!ENTITY videoFullScreen.accesskey   "M">
 <!ENTITY videoSaveImage.label        "Memorisar il maletg sco…">
 <!ENTITY videoSaveImage.accesskey    "s">
+<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
+"Hide Statistics" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY videoShowStats.label        "Mussar la statistica">
 <!ENTITY videoShowStats.accesskey    "t">
 <!ENTITY videoHideStats.label        "Zuppentar la statistica">

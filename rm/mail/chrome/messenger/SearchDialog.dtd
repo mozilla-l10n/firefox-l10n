@@ -8,7 +8,7 @@
 <!ENTITY resetButton.label           "Nova tschertga">
 <!ENTITY resetButton.accesskey       "N">
 <!ENTITY openButton.label            "Avrir">
-<!ENTITY openButton.accesskey        "n">
+<!ENTITY openButton.accesskey        "v">
 <!ENTITY deleteButton.label          "Stizzar">
 <!ENTITY deleteButton.accesskey      "z">
 <!ENTITY searchDialogTitle.label     "Tschertgar messadis">
