@@ -11,6 +11,7 @@
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!-- ***** BEGIN LICENSE BLOCK *****
@@ -341,12 +342,6 @@
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Bară meniu">
 <!ENTITY formatToolbar.tooltip "Bară formatare">
-<!ENTITY newToolbarCmd.label "Creează">
-<!ENTITY newToolbarCmd.tooltip "Creează o nouă pagină Composer">
-<!ENTITY openToolbarCmd.label "Deschide">
-<!ENTITY openToolbarCmd.tooltip "Deschide un fișier local">
-<!ENTITY saveToolbarCmd.tooltip "Salvează local fișierul">
-<!ENTITY publishToolbarCmd.tooltip "Încarcă fișierul într-o locație la distanță">
 <!ENTITY cutToolbarCmd.tooltip "Decupează">
 <!ENTITY copyToolbarCmd.tooltip "Copiază">
 <!ENTITY pasteToolbarCmd.tooltip "Inserează">

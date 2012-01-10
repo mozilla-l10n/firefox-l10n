@@ -11,6 +11,7 @@
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!ENTITY aboutDialog.title          "Despre &brandFullName;">
@@ -59,7 +60,7 @@
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.manual.start        "Download the ">
+<!ENTITY update.manual.start        "Descarcă">
 <!ENTITY update.manual.linkText     "ultima versiune">
 <!ENTITY update.manual.end          "">
 
