@@ -39,23 +39,23 @@
 <!ENTITY selectAddressWindow.title           "Вибрати адреси">
 
 <!-- Buttons -->
-<!ENTITY toButton.label                      "До->"> 
-<!ENTITY toButton.accesskey                  "T"> 
-<!ENTITY ccButton.label                      "Cc->"> 
-<!ENTITY ccButton.accesskey                  "C"> 
-<!ENTITY bccButton.label                     "Bcc->">  
-<!ENTITY bccButton.accesskey                 "B">  
+<!ENTITY toButton.label                      "Кому->"> 
+<!ENTITY toButton.accesskey                  "К"> 
+<!ENTITY ccButton.label                      "Копія->"> 
+<!ENTITY ccButton.accesskey                  "о"> 
+<!ENTITY bccButton.label                     "Потайлива копія->">  
+<!ENTITY bccButton.accesskey                 "П">  
 <!ENTITY newButton.label                     "Створити…"> 
 <!ENTITY newButton.accesskey                 "С"> 
 <!ENTITY editButton.label                    "Редагувати…"> 
 <!ENTITY editButton.accesskey                "Р">
 <!ENTITY removeButton.label                  "Вилучити"> 
 <!ENTITY removeButton.accesskey              "В"> 
-<!ENTITY lookIn.label                        "Дивитися в:"> 
+<!ENTITY lookIn.label                        "Дивитися:"> 
 <!ENTITY lookIn.accesskey                    "Д"> 
 <!ENTITY for.label                           ""> 
 <!ENTITY for.accesskey                       "f"> 
-<!ENTITY for.placeholder                     "Name or Email">
+<!ENTITY for.placeholder                     "Назва або пошта">
 <!ENTITY addressMessageTo.label              "Адресат листа:"> 
 
 <!-- Tooltips items -->  

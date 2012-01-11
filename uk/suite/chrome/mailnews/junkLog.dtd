@@ -37,7 +37,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY junkLog.title "Журнал анти-спам фільтрів">
+<!ENTITY junkLog.title "Журнал антиспам фільтрів">
 <!ENTITY junkLogInfo.label "Журнал діяльності фільтрів спаму.">
 <!ENTITY clearLog.label "Очистити журнал">
 <!ENTITY clearLog.accesskey "О">

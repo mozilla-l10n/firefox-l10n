@@ -1,5 +1,5 @@
 <!--LOCALIZATION NOTE shown while obtaining certificates from a directory -->
 
-<!ENTITY title.label "Завантаження сертифікатів">
-<!ENTITY info.message "Пошук сертифікатів адресатів в каталозі. Це може зайняти декілька хвилин.">
+<!ENTITY title.label "Звантаження сертифікатів">
+<!ENTITY info.message "Пошук сертифікатів одержувачів в каталозі. Це може зайняти декілька хвилин.">
 <!ENTITY stop.label "Зупинка пошуку">

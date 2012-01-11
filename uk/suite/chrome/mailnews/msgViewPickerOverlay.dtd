@@ -6,7 +6,7 @@
 <!ENTITY viewAll.accesskey "і">
 <!ENTITY viewUnread.label "Непрочитані">
 <!ENTITY viewUnread.accesskey "Н">
-<!ENTITY viewNotDeleted.label "Не вилучені">
+<!ENTITY viewNotDeleted.label "Невилучені">
 <!ENTITY viewNotDeleted.accesskey "в">
 <!ENTITY viewTags.label "Мітки">
 <!ENTITY viewTags.accesskey "М">
@@ -14,5 +14,5 @@
 <!ENTITY viewCustomViews.accesskey "К">
 <!ENTITY viewVirtualFolder.label "Зберегти представлення як теку…">
 <!ENTITY viewVirtualFolder.accesskey "З">
-<!ENTITY viewCustomizeView.label "Налагодити…">
+<!ENTITY viewCustomizeView.label "Налаштувати…">
 <!ENTITY viewCustomizeView.accesskey "Н">

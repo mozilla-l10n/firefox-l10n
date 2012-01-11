@@ -37,7 +37,7 @@
 
 <!ENTITY pref.notifications.title         "Сповіщення">
 <!ENTITY notifications.caption            "Сповіщення">
-<!ENTITY newMessagesArrive.label          "При появі нових листів:">
+<!ENTITY newMessagesArrive.label          "За появи нових листів:">
 <!ENTITY playSound.label                  "Подати звуковий сигнал">
 <!ENTITY playSound.accesskey              "П">
 <!ENTITY showAnimatedAlert.label          "Показувати сповіщення">
@@ -46,8 +46,8 @@
 <!ENTITY showTrayIcon.accesskey           "л">
 <!ENTITY bounceSystemDockIcon.label       "Анімувати піктограму">
 <!ENTITY bounceSystemDockIcon.accesskey   "А">
-<!ENTITY playButton.label                 "Play">
-<!ENTITY playButton.accesskey             "l">
+<!ENTITY playButton.label                 "Програти">
+<!ENTITY playButton.accesskey             "П">
 <!ENTITY systemsound.label                "Системний звук">
 <!ENTITY systemsound.accesskey            "С">
 <!ENTITY customsound.label                "Нетиповий аудіофайл">

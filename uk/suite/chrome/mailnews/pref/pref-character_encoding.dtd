@@ -43,9 +43,9 @@
 <!ENTITY viewDefaultCharset.accesskey    "Т">
 
 <!ENTITY composingMessages.caption       "Складання листів">
-<!ENTITY useMIME.label                   "Для листів, що містять 8-бітні символи, використайте 'quoted printable' MIME-кодування. Залиште вимкнутим, щоб відправляти листи такими, якими вони є.">
+<!ENTITY useMIME.label                   "Для листів, що містять 8-и бітні символи, використайте «quoted printable» коджування MIME. Залиште вимкнутим, щоб надсилати листи такими, якими вони є.">
 <!ENTITY useMIME.accesskey               "Д">
 <!ENTITY sendDefaultCharset.label        "Типове кодування:">
 <!ENTITY sendDefaultCharset.accesskey    "К">
-<!ENTITY replyInDefaultCharset2.label    "Якщо можливо, використовуйте це типове кодування в відповідях. (Якщо вимкнено, лише нові листи використовуватимуть це типово.)">
+<!ENTITY replyInDefaultCharset2.label    "Якщо можливо, використовуйте це типове кодування у відповідях. (Якщо це вимкнено, лише нові листи використовуватимуть це типово.)">
 <!ENTITY replyInDefaultCharset2.accesskey "Я">
