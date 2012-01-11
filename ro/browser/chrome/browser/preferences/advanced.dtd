@@ -21,11 +21,11 @@
 <!ENTITY accessibility.label             "Accesibilitate">
 
 <!ENTITY useCursorNavigation.label       "Folosește întotdeauna săgețile pentru a naviga în pagini">
-<!ENTITY useCursorNavigation.accesskey   "t">
+<!ENTITY useCursorNavigation.accesskey   "F">
 <!ENTITY searchStartTyping.label         "Caută textul în timp ce tastez">
 <!ENTITY searchStartTyping.accesskey     "x">
 <!ENTITY blockAutoRefresh.label          "Avertizează-mă când saiturile încearcă să redirecționeze sau să reîncarce pagina">
-<!ENTITY blockAutoRefresh.accesskey      "r">
+<!ENTITY blockAutoRefresh.accesskey      "z">
 
 <!ENTITY browsing.label                  "Navigare">
 
@@ -42,7 +42,7 @@
 <!ENTITY alwaysCheckDefault.label        "Verifică întotdeauna la pornire dacă &brandShortName; este navigatorul implicit"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "V">
 <!ENTITY checkNow.label                  "Verifică acum">
-<!ENTITY checkNow.accesskey              "a">
+<!ENTITY checkNow.accesskey              "m">
 <!ENTITY submitCrashes.label             "Raportează defecțiunile">
 <!ENTITY submitCrashes.accesskey         "R">
 <!ENTITY submitTelemetry.label           "Trimite datele despre performanță">
