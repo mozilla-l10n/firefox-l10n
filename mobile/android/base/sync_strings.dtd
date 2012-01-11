@@ -23,6 +23,7 @@
 <!ENTITY sync.subtitle.success.label "Il download dei dati è in corso. È possibile gestire il proprio account in Impostazioni.">
 <!ENTITY sync.settings.label "Impostazioni">
 <!ENTITY sync.subtitle.manage.label "L’account &syncBrand.fullName.label; è già configurato. Per gestire l’account andare in Impostazioni.">
+<!ENTITY sync.pair.tryagain.label "Riprovare">
 <!ENTITY sync.button.cancel.label "Annulla">
 <!ENTITY sync.button.connect.label "Connetti">
 <!ENTITY sync.account.label.label "&syncBrand.fullName.label;">
