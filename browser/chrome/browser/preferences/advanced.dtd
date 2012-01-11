@@ -40,7 +40,10 @@
 <!ENTITY connectionSettings.label        "Preferenzas…">
 <!ENTITY connectionSettings.accesskey    "P">
 
-<!ENTITY offlineStorage.label            "Memoria offline">
+<!ENTITY httpCache.label                 "Cuntegn dal web en il cache">
+
+<!ENTITY offlineStorage2.label           "Cuntegn dal web per l'utilisaziun offline e datas d'utilisader">
+
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -53,6 +56,8 @@
 <!ENTITY limitCacheSizeAfter.label       "MB da la memoria">
 <!ENTITY clearCacheNow.label             "Svidar ussa">
 <!ENTITY clearCacheNow.accesskey         "S">
+<!ENTITY clearOfflineAppCacheNow.label     "Svidar ussa">
+<!ENTITY clearOfflineAppCacheNow.accesskey "N">
 <!ENTITY overrideSmartCacheSize.label    "Surscriver l'administraziun automatica dal cache">
 <!ENTITY overrideSmartCacheSize.accesskey "c">
 
@@ -75,8 +80,6 @@
 <!ENTITY useService.accesskey            "b">
 
 <!ENTITY updateOthers.label              "Actualisar automaticamain:">
-<!ENTITY enableAddonsUpdate3.label       "Supplements">
-<!ENTITY enableAddonsUpdate3.accesskey   "p">
 <!ENTITY enableSearchUpdate.label        "Maschinas da tschertgar">
 <!ENTITY enableSearchUpdate.accesskey    "i">
 
@@ -85,7 +88,7 @@
 <!ENTITY offlineNotifyExceptions.label   "Excepziuns...">
 <!ENTITY offlineNotifyExceptions.accesskey "E">
 
-<!ENTITY offlineAppsList.label           "Las suandantas websites han memorisà datas per l'utilisaziun en il modus offline:">
+<!ENTITY offlineAppsList2.label          "Suandantas paginas d'internet dastgan memorisar datas per l'utilisaziun offline:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Allontanar...">
 <!ENTITY offlineAppsListRemove.accesskey "A">

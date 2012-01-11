@@ -29,7 +29,9 @@
 <!ENTITY engine.passwords.label     "ils pleds-clav">
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "las preferenzas">
-<!ENTITY engine.prefs.accesskey     "S">
+<!ENTITY engine.prefs.accesskey     "a">
+<!ENTITY engine.addons.label        "ils supplements">
+<!ENTITY engine.addons.accesskey    "S">
 
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label       "Num dal computer:">
