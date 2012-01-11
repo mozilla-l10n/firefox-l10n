@@ -2,7 +2,7 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "Bainvegni! Sche ti n'has anc mai utilisà &syncBrand.fullName.label; stos ti crear in nov conto.">
+<!ENTITY setup.pickSetupType.description2 "Bainvegni! Sche ti n'has anc mai utilisà &syncBrand.fullName.label; stos ti crear in nov conto.">
 <!ENTITY button.createNewAccount.label "Crear in nov conto">
 <!ENTITY button.haveAccount.label      "Jau hai in conto">
 
@@ -87,7 +87,9 @@
 <!ENTITY engine.passwords.label     "ils pleds-clav">
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "las preferenzass">
-<!ENTITY engine.prefs.accesskey     "S">
+<!ENTITY engine.prefs.accesskey     "a">
+<!ENTITY engine.addons.label        "ils supplements">
+<!ENTITY engine.addons.accesskey    "s">
 
 <!ENTITY choice2.merge.main.label      "Cumbinar las datas da quest computer cun quellas da &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Recumandà:">
