@@ -118,7 +118,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label                                "Արտահանել...">
 <!ENTITY exportCmd.accesskey                            "E">
-<!ENTITY preferencesCmd.label                           "Ընտրանքներ">
+<!ENTITY preferencesCmd.label                           "Ընտրանքներ...">
 <!ENTITY preferencesCmd.accesskey                       "O">
 <!ENTITY preferencesCmdUnix.label                       "Կարգավորումներ…">
 <!ENTITY preferencesCmdUnix.accesskey                   "n">

@@ -40,3 +40,5 @@
 <!ENTITY conflictWarning.label "Այս էջը փոփոխվել է այլ ծրագրի կողմից, բայց Դուք ունեք չպահպանված փոփոխություններ։">
 <!ENTITY conflictResolve.label "Ընտրեք, թե որ տարբերակը պահել.">
 <!ENTITY keepCurrentPageButton.label "Պահել ընթացիկ էջի փոփոխումը">
+<!ENTITY useOtherPageButton.label "Փոխարինել ընթացիկ էջը այլ փոփոխմամբ">
+

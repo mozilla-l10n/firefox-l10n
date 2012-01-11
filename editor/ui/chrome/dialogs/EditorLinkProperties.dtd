@@ -35,4 +35,6 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowTitle.label "Հղման հատկությունները">
+<!ENTITY windowTitle.label "Հղման Հատկանիշները.">
+<!ENTITY LinkURLBox.label "Հղման տեղը">
+

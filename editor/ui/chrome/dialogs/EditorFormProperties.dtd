@@ -50,3 +50,5 @@
 <!ENTITY FormTarget.accesskey "T">
 
 <!ENTITY RemoveForm.label "Հեռացնել բլանկը">
+<!ENTITY RemoveForm.accesskey "R">
+

@@ -37,7 +37,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Window title -->
-<!ENTITY siteUrl.label         "Կայքի հղումը.">
+<!ENTITY siteUrl.label         "Կայքի URL-ն.  ">
 <!ENTITY docSubdir.label       "Էջի ենթաթղթապանակը.">
 <!ENTITY otherSubdir.label     "Նկարի ենթաթղթապանակը.">
 
@@ -47,3 +47,5 @@
 <!ENTITY failed.label          "Ձախողվեց">
 
 <!ENTITY keepOpen              "Հրապարակումից հետո պատուհանը բաց պահել։">
+<!ENTITY closeButton.label     "Փակել">
+

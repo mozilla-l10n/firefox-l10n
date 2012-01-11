@@ -41,12 +41,14 @@
 
 <!ENTITY ListType.label "Ցանկի տեսակը">
 <!ENTITY bulletStyle.label "Կետային ոճով.">
-<!ENTITY startingNumber.label "Start at:">
-<!ENTITY startingNumber.accessKey "S">
+<!ENTITY startingNumber.label "Սկսած՝">
+<!ENTITY startingNumber.accessKey "Ս">
 <!ENTITY none.value "Չկա">
 <!ENTITY bulletList.value "Կետիկների (չհամարակալված) ցանկը">
 <!ENTITY numberList.value "Համարակալված ցանկ">
 <!ENTITY definitionList.value "Որոշակի ցանկը">
-<!ENTITY changeEntireListRadio.label "Change entire list">
-<!ENTITY changeEntireListRadio.accessKey "C">
-<!ENTITY changeSelectedRadio.label "Change just selected items">
+<!ENTITY changeEntireListRadio.label "Փոխել գր. ցանկը">
+<!ENTITY changeEntireListRadio.accessKey "Փ">
+<!ENTITY changeSelectedRadio.label "Փոխել միայն ընտրվածները">
+<!ENTITY changeSelectedRadio.accessKey "Փ">
+

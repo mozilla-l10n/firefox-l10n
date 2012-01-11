@@ -43,47 +43,14 @@
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
 <!-- File menu items -->
-<!ENTITY fileMenu.label "Ֆայլ">
-<!ENTITY fileMenu.accesskey "F">
-<!ENTITY openFileCmd.label "Բացել ֆայլ…">
-<!ENTITY openFileCmd.accesskey "O">
-<!ENTITY openFileCmd.key "O">
-<!ENTITY openRemoteCmd.label "Բացել վեբ տեղադրությունը...">
-<!ENTITY openRemoteCmd.accesskey "L">
-<!ENTITY openRemoteCmd.key "L">
-<!ENTITY fileRecentMenu.label "Վերջին էջերը">
-<!ENTITY fileRecentMenu.accesskey "R">
-<!ENTITY fileRevert.label "Ետարկել ">
-<!ENTITY fileRevert.accesskey "v">
-<!ENTITY saveCmd.label "Պահպանել">
-<!ENTITY saveCmd.accesskey "S">
-<!ENTITY saveCmd.key "S">
-<!ENTITY saveAsCmd.label "Պահպանել որպես…">
-<!ENTITY saveAsCmd.accesskey "A">
-
-<!ENTITY publishCmd.label "Հրապարակել">
-<!ENTITY publishCmd.accesskey "b">
-<!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "Հրապարակել որպես...">
-<!ENTITY publishAsCmd.accesskey "h">
-<!ENTITY saveAsChangeEncodingCmd.label "Պահպանել և փոխել գրանշանի կոդավորումը">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "E">
-<!ENTITY printSetupCmd.label "Էջի կարգավորումներ…">
-<!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printCmd.label "Տպել…">
-<!ENTITY printCmd.accesskey "P">
-<!ENTITY printCmd.key "P">
+<!ENTITY saveCmd.key "Տ">
 
 <!-- Edit menu items -->
-<!ENTITY editMenu.label "Խմբագրել">
-<!ENTITY editMenu.accesskey "E">
 <!ENTITY pasteNoFormatting.label "Տեղադրել առանց փոփոխման">
 <!ENTITY pasteNoFormatting.accesskey "n">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Տեղադրել որպես">
 <!ENTITY pasteAs.accesskey "a">
-<!ENTITY publishSettings.label "Հրապարակվող կայքի կարգավորումները...">
-<!ENTITY publishSettings.accesskey "b">
 <!ENTITY pasteAsQuotationCmd.label "Տեղադրել որպես մեջբերում">
 <!ENTITY pasteAsQuotationCmd.accesskey "Q">
 <!ENTITY pasteAsQuotationCmd.key "o">
@@ -150,7 +117,7 @@
 <!ENTITY increaseFontSize.label "Մեծ">
 <!ENTITY increaseFontSize.accesskey "g">
 <!ENTITY increaseFontSize.key "+">
-<!-- + is above this key on many keyboards --><!ENTITY increaseFontSize.key2 "="> 
+<!ENTITY increaseFontSize.key2 "="> <!-- + is above this key on many keyboards -->
 
 <!ENTITY fontSizeMenu.label "Չափը">
 <!ENTITY fontSizeMenu.accesskey "z">
@@ -215,7 +182,7 @@
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Հեռացնել խարսխի անունը">
 <!ENTITY formatRemoveNamedAnchors.accesskey "R">
-<!ENTITY formatRemoveNamedAnchors.key "A">
+<!ENTITY formatRemoveNamedAnchors2.key "R">
 
 <!ENTITY paragraphMenu.label "Պարագրաֆ">
 <!ENTITY paragraphMenu.accesskey "P">
@@ -359,12 +326,6 @@
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Ընտրացանկ վահանակը">
 <!ENTITY formatToolbar.tooltip "Գործիքաշերտի կարգ.">
-<!ENTITY newToolbarCmd.label "Նոր">
-<!ENTITY newToolbarCmd.tooltip "Ստեղծել նոր էջ">
-<!ENTITY openToolbarCmd.label "Բացել">
-<!ENTITY openToolbarCmd.tooltip "Բացել համակարգչային ֆայլ">
-<!ENTITY saveToolbarCmd.tooltip "Պահպանել ֆայլը համակարգչում">
-<!ENTITY publishToolbarCmd.tooltip "Վերբեռնել ֆայլը հեռադիրում">
 <!ENTITY cutToolbarCmd.tooltip "Կտրել">
 <!ENTITY copyToolbarCmd.tooltip "Պատճենել">
 <!ENTITY pasteToolbarCmd.tooltip "Տեղադրել">
@@ -422,3 +383,5 @@
 <!ENTITY removeTOC.label          "Հեռացնել">
 <!ENTITY removeTOC.accesskey      "R">
 <!ENTITY tocMenu.label            "Պարունակության աղյուսակը...">
+<!ENTITY tocMenu.accesskey        "b">
+

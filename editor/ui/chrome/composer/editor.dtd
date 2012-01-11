@@ -97,3 +97,5 @@
 <!ENTITY PreviewModeTab.label "Դիտել">
 <!ENTITY PreviewMode.label "Դիտել">
 <!ENTITY PreviewMode.accesskey "P">
+<!ENTITY PreviewMode.tooltip "Ցուցադրել որպես WYSIWYG (ինչպես որ դիտարկիչում)">
+

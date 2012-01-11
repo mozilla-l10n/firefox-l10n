@@ -39,32 +39,34 @@
 <!ENTITY windowTitle.label "Ստուգել ուղղագրությունը">
 
 <!ENTITY misspelledWord.label "Բացակայող բառ.">
-<!ENTITY wordEditField.label "Replace with:">
-<!ENTITY wordEditField.accessKey "w">
-<!ENTITY checkwordButton.label "Check Word">
-<!ENTITY checkwordButton.accessKey "k">
-<!ENTITY suggestions.label "Suggestions:">
-<!ENTITY suggestions.accessKey "u">
-<!ENTITY ignoreButton.label "Ignore">
-<!ENTITY ignoreButton.accessKey "I">
-<!ENTITY ignoreAllButton.label "Ignore All">
-<!ENTITY ignoreAllButton.accessKey "n">
-<!ENTITY replaceButton.label "Replace">
-<!ENTITY replaceButton.accessKey "R">
-<!ENTITY replaceAllButton.label "Replace All">
-<!ENTITY replaceAllButton.accessKey "A">
-<!ENTITY stopButton.label "Stop">
-<!ENTITY stopButton.accessKey "t">
+<!ENTITY wordEditField.label "Փոխարինել՝">
+<!ENTITY wordEditField.accessKey "Փ">
+<!ENTITY checkwordButton.label "Ստուգել բառը">
+<!ENTITY checkwordButton.accessKey "Ս">
+<!ENTITY suggestions.label "Առաջարկություններ.">
+<!ENTITY suggestions.accessKey "Ա">
+<!ENTITY ignoreButton.label "Անտեսել">
+<!ENTITY ignoreButton.accessKey "Ա">
+<!ENTITY ignoreAllButton.label "Անտեսել բոլորը">
+<!ENTITY ignoreAllButton.accessKey "Ա">
+<!ENTITY replaceButton.label "Փոխարինել">
+<!ENTITY replaceButton.accessKey "Փ">
+<!ENTITY replaceAllButton.label "Փոխարինել բոլորը">
+<!ENTITY replaceAllButton.accessKey "Փ">
+<!ENTITY stopButton.label "Կանգնեցնել">
+<!ENTITY stopButton.accessKey "Կ">
 <!ENTITY userDictionary.label "Անձնական բառարան">
 <!ENTITY moreDictionaries.label "Բեռնել բառարաններ...">
-<!ENTITY addToUserDictionaryButton.label "Add Word">
-<!ENTITY addToUserDictionaryButton.accessKey "d">
-<!ENTITY editUserDictionaryButton.label "Edit…">
-<!ENTITY editUserDictionaryButton.accessKey "E">
-<!ENTITY recheckButton.label "Recheck Page">
-<!ENTITY recheckButton.accessKey "P">
-<!ENTITY closeButton.label "Close">
-<!ENTITY closeButton.accessKey "C">
-<!ENTITY sendButton.label "Send">
-<!ENTITY sendButton.accessKey "S">
-<!ENTITY languagePopup.label "Language:">
+<!ENTITY addToUserDictionaryButton.label "Ավելացնել բառ">
+<!ENTITY addToUserDictionaryButton.accessKey "Ա">
+<!ENTITY editUserDictionaryButton.label "Խմբագրել...">
+<!ENTITY editUserDictionaryButton.accessKey "Խ">
+<!ENTITY recheckButton.label "Վերստուգել էջը">
+<!ENTITY recheckButton.accessKey "Վ">
+<!ENTITY closeButton.label "Փակել">
+<!ENTITY closeButton.accessKey "Փ">
+<!ENTITY sendButton.label "Ուղարկել">
+<!ENTITY sendButton.accessKey "Ո">
+<!ENTITY languagePopup.label "Լեզուն.">
+<!ENTITY languagePopup.accessKey "Լ">
+

@@ -49,3 +49,5 @@
 <!ENTITY tabJSE.label                   "JavaScript դեպքեր">
 
 <!ENTITY editAttribute.label    "Սեղմեք այստեղ՝ խմբագրելու համար">
+<!ENTITY removeAttribute.label  "Հեռացնել">
+

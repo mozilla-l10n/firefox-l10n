@@ -39,11 +39,13 @@
 <!ENTITY windowTitle.label "Էջի հատկություններ">
 <!ENTITY location.label "Տեղը.">
 <!ENTITY lastModified.label "Վերջին փոփոխումը.">
-<!ENTITY titleInput.label "Title:">
-<!ENTITY titleInput.accessKey "T">
-<!ENTITY authorInput.label "Author:">
-<!ENTITY authorInput.accessKey "A">
-<!ENTITY descriptionInput.label "Description:">
-<!ENTITY descriptionInput.accessKey "D">
+<!ENTITY titleInput.label "Վերնագիրը.">
+<!ENTITY titleInput.accessKey "Վ">
+<!ENTITY authorInput.label "Հեղինակը.">
+<!ENTITY authorInput.accessKey "Հ">
+<!ENTITY descriptionInput.label "Նկարագրությունը.">
+<!ENTITY descriptionInput.accessKey "Ն">
 <!ENTITY locationNewPage.label "[Նոր էջ, դեռ չի պահպանվել]">
 <!ENTITY EditHEADSource1.label "Մասնագետ օգտվողներ.">
+<!ENTITY EditHEADSource2.label "Խմբագրելու համար &lt;head&gt; մասը, օգտագործեք &quot;HTML Source&quot;՝ Տեսքը ընտրացանկում կամ Խմբագրման եղանակի գործիքաշերտում։">
+

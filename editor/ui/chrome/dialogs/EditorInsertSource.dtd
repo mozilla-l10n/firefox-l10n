@@ -36,7 +36,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Insert HTML">
+<!ENTITY windowTitle.label "Ներմուծել HTML">
 <!ENTITY sourceEditField.label "Նշեք HTML կցապիտակ և տեքստ.">
 <!ENTITY example.label "Օրինակ՝">
 <!-- LOCALIZATION NOTE (exampleOpenTag.label): DONT_TRANSLATE: they are text for HTML tagnames: "<i>" and "</i>" -->
@@ -45,3 +45,5 @@
 <!ENTITY exampleCloseTag.label "&lt;/i&gt;">
 <!ENTITY exampleText.label "Ողջույն Աշխարհ!">
 <!ENTITY insertButton.label "Ներմուծել">
+<!ENTITY insertButton.accesskey "I">
+
