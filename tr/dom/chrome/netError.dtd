@@ -27,8 +27,8 @@
 <!ENTITY notCached.title "Belge zaman aşımına uğradı">
 <!ENTITY notCached.longDesc "<p>Talep edilen belge tarayıcının önbelleğinde mevcut değil.</p><ul><li>Güvenlik önlemi olarak, tarayıcınız hassas belgeleri otomatik olarak yeniden talep etmez.</li><li>Belgeyi web sitesinden yeniden talep etmek için Yeniden dene düğmesine tıklayın.</li></ul>">
 
-<!ENTITY netOffline.title "Çevrim dışı bağlantı hatası">
-<!ENTITY netOffline.longDesc2 "<p>Tarayıcı şu an çevrim dışı kipte ve istenen öğeye bağlanamaz.</p><ul><li>Bilgisayarınız etkin bir ağ bağlantısına sahip mi?</li><li>Tarayıcıyı çevrim içi hâle getirdikten sonra sayfayı açmayı yeniden deneyin.</li></ul>">
+<!ENTITY netOffline.title "Çevrim dışı kip">
+<!ENTITY netOffline.longDesc2 "<p>Tarayıcı şu an çevrim dışı kipte ve istenen ögeye bağlanamaz.</p><ul><li>Bilgisayarınız etkin bir ağ bağlantısına sahip mi?</li><li>Çevrim içi kipe geçerek sayfayı yeniden yüklemek için &quot;Yeniden dene&quot; düğmesine tıklayın.</li></ul>">
 
 <!ENTITY contentEncodingError.title "İçerik kodlama hatası">
 <!ENTITY contentEncodingError.longDesc "<p>Bakmak istediğiniz sayfa gösterilemiyor, çünkü geçersiz ya da desteklenmeyen sıkıştırma biçimi kullanıyor.</p><ul><li>Site sahipleriyle iletişim kurup onları bu sorundan haberdar edin.</li></ul>">

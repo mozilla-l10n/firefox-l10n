@@ -8,7 +8,7 @@
 #define bookmarks_heading Yer İmleri
 
 #define bookmarks_toolbarfolder Yer İmi Araç Çubuğu Dizini
-#define bookmarks_toolbarfolder_description Bu dizine yer imi araç çubuğunda gösterilecek bağlantıları ekleyin
+#define bookmarks_toolbarfolder_description Bu dizine yer imi araç çubuğunda gösterilecek yer imlerini ekleyin
 
 # LOCALIZATION NOTE (getting_started):
 # link title for http://en-US.www.mozilla.com/en-US/firefox/central/

@@ -217,8 +217,17 @@ can reach it easily. -->
 <!ENTITY inspectButton.label            "İncele">
 <!ENTITY inspectButton.accesskey        "c">
 <!ENTITY inspectCloseButton.tooltiptext "Denetçiyi kapat">
+<!ENTITY inspect3DButton.label        "3B">
+<!ENTITY inspect3DButton.accesskey    "3">
 <!ENTITY inspectStyleButton.label     "Stil">
 <!ENTITY inspectStyleButton.accesskey "S">
+
+<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
+  -  in the Tools menu. -->
+<!ENTITY styleeditor.label            "Stil editörü">
+<!ENTITY styleeditor.accesskey        "d">
+<!ENTITY styleeditor.keycode          "VK_F7">
+<!ENTITY styleeditor.keytext          "F7">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Daha fazla araca ulaş">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "u">
@@ -422,14 +431,23 @@ can reach it easily. -->
 <!ENTITY thisFrameMenu.accesskey          "l">
 
 <!-- Media (video/audio) controls -->
+<!-- LOCALIZATION NOTE: The access keys for "Play" and
+"Pause" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaPlay.label             "Yürüt">
 <!ENTITY mediaPlay.accesskey         "t">
 <!ENTITY mediaPause.label            "Duraklat">
 <!ENTITY mediaPause.accesskey        "D">
+<!-- LOCALIZATION NOTE: The access keys for "Mute" and
+"Unmute" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Sesi kapat">
 <!ENTITY mediaMute.accesskey         "k">
 <!ENTITY mediaUnmute.label           "Sesi aç">
 <!ENTITY mediaUnmute.accesskey       "e">
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "Düğmeleri göster">
 <!ENTITY mediaShowControls.accesskey "s">
 <!ENTITY mediaHideControls.label     "Düğmeleri gizle">
@@ -438,8 +456,11 @@ can reach it easily. -->
 <!ENTITY videoFullScreen.accesskey   "T">
 <!ENTITY videoSaveImage.label        "Ekran görüntüsünü farklı kaydet…">
 <!ENTITY videoSaveImage.accesskey    "E">
-<!ENTITY videoShowStats.label        "Show Statistics">
-<!ENTITY videoShowStats.accesskey    "g">
+<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
+"Hide Statistics" are the same because the two context-menu
+items are mutually exclusive. -->
+<!ENTITY videoShowStats.label        "İstatistikleri göster">
+<!ENTITY videoShowStats.accesskey    "t">
 <!ENTITY videoHideStats.label        "Hide Statistics">
 <!ENTITY videoHideStats.accesskey    "z">
 
@@ -513,7 +534,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editPopupSettingsUnix.label "İstenmeyen pencere tercihlerini düzenle…">
 <!ENTITY editPopupSettings.label "İstenmeyen pencere seçeneklerini düzenle…">
 <!ENTITY editPopupSettings.accesskey "e">
-<!ENTITY dontShowMessage.accesskey "D">
+<!ENTITY dontShowMessage.accesskey "g">
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "Sayfanın yönünü değiştir">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "d">

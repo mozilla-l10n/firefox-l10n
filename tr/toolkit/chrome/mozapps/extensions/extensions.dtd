@@ -1,5 +1,10 @@
 <!ENTITY addons.windowTitle                   "Eklenti Yöneticisi">
+
 <!ENTITY search.placeholder                   "Tüm eklentilerde ara">
+<!-- LOCALIZATION NOTE (search.commandKey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
+
 <!ENTITY loading.label                        "Yükleniyor…">
 <!ENTITY listEmpty.installed.label            "Bu türden kurulmuş bir eklentiniz yok">
 <!ENTITY listEmpty.availableUpdates.label     "Güncelleme bulunamadı">
@@ -56,7 +61,7 @@
 <!ENTITY updates.updating.label               "Eklentiler güncelleniyor">
 <!ENTITY updates.installed.label              "Eklentileriniz güncellendi.">
 <!ENTITY updates.downloaded.label             "Eklenti güncellemeleriniz indirildi.">
-<!ENTITY updates.restart.label                "Kurulumu tamamlamak için şimdi baştan başlatın">
+<!ENTITY updates.restart.label                "Kurulumu tamamlamak için şimdi yeniden başlatın">
 <!ENTITY updates.noneFound.label              "Güncelleme bulunamadı">
 <!ENTITY updates.manualUpdatesFound.label     "Yapılabilecek güncellemelere bak">
 <!ENTITY updates.updateSelected.label         "Güncellemeleri kur">

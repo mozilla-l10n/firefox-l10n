@@ -1,12 +1,26 @@
 <!ENTITY aboutDialog.title          "&brandFullName; hakkında">
 
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+<!ENTITY warningDesc.version        "&brandShortName; deneyseldir ve kararsız olabilir.">
+<!-- LOCALIZATION NOTE (warningDesc.telemetry): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetry      "Daha iyi bir &brandShortName; için test verileri otomatik olarak &vendorShortName;'ya gönderilir.">
+
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+<!ENTITY community.exp.start        "">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "&vendorShortName; ">
+<!ENTITY community.exp.middle       " Web'i açık, kamusal ve herkesçe erişilebilir kılmak için birlikte çalışan ">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "küresel bir topluluktur">
+<!ENTITY community.exp.end          ".">
+
 <!ENTITY community.start2           "&brandShortName;, ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName; ">
 <!ENTITY community.middle2          " tarafından tasarlanmıştır. &vendorShortName;, interneti daha iyiye taşımak için birlikte çalışan ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "küresel bir topluluktur">
-<!ENTITY community.end2             ". Biz, internetin herkes tarafından hiçbir kısıtlama olmadan erişilebilen, açık ve kamusal olması gerektiğine inanıyoruz.">
+<!ENTITY community.end3             ".">
 
 <!ENTITY contribute.start           "İlginç, değil mi? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
@@ -14,7 +28,7 @@
 <!ENTITY contribute.end             "">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
-<!ENTITY bottomLinks.license        "İzin bilgisi">
+<!ENTITY bottomLinks.license        "Lisans bilgileri">
 
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
 <!ENTITY bottomLinks.rights         "Son kullanıcı hakları">
@@ -44,7 +58,7 @@
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.manual.start        "Güncellemeler şu adreste mevcuttur: ">
+<!ENTITY update.manual.start        "Güncelleme adresi: ">
 <!ENTITY update.manual.end          "">
 
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 

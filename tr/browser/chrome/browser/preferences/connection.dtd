@@ -28,10 +28,10 @@
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
-<!ENTITY  port.label                    "Port:">
+<!ENTITY  port.label                    "İletișim noktası:">
 <!ENTITY  HTTPport.accesskey            "p">
 <!ENTITY  SSLport.accesskey             "o">
-<!ENTITY  FTPport.accesskey             "r">
+<!ENTITY  FTPport.accesskey             "k">
 <!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "Vekil sunucu kullanma:">
 <!ENTITY  noproxy.accesskey             "n">

@@ -45,7 +45,7 @@ bulunduğundan emin olun. Bu işaret sola değil,
 <!ENTITY notCached.title "Belge zaman aşımına uğradı">
 <!ENTITY notCached.longDesc "<p>Talep edilen belge &brandShortName; önbelleğinde mevcut değil.</p><ul><li>Bir güvenli önlemli olarak, &brandShortName; hassas belgeleri otomatik olarak yeniden talep etmez.</li><li>Belgeyi siteden tekrar talep etmek için Yeniden dene'ye tıklayın.</li></ul>">
 
-<!ENTITY netOffline.title "Çevrim dışı tarama kipi">
+<!ENTITY netOffline.title "Çevrim dışı kip">
 <!ENTITY netOffline.longDesc2 "<ul> 
 <li>Çevrim içi moda geçip sayfayı tazelemek için &quot;Yeniden dene&quot;ye tıklayın.</li> 
 </ul>">
