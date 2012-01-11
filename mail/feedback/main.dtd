@@ -1,0 +1,37 @@
+<!ENTITY testpilot.brand.label                          "Փորձարար">
+<!-- browser window: menu and status bar -->
+<!ENTITY testpilot.settings.label                       "Կարգավորումներ">
+<!ENTITY testpilot.settings.dataSubmission.label        "Տվյալների ուղարկում">
+<!ENTITY testpilot.settings.notifications.label         "Տեղեկացումներ">
+<!ENTITY testpilot.settings.notifyWhen.label            "Տեղեկացնել ինձ երբ…">
+<!ENTITY testpilot.settings.readyToSubmit.label         "Ուսուցումը պատրաստ է ուղարկելու">
+<!ENTITY testpilot.settings.newStudy.label              "Կա նոր ուսուցում">
+<!ENTITY testpilot.settings.hasNewResults.label         "Ուսուցումը ունի նոր արդյունք">
+<!ENTITY testpilot.settings.alwaysSubmitData.shortLabel "Միշտ ուղարկել իմ տվյալները (չհարցնել)">
+<!ENTITY testpilot.allYourStudies.label                 "Ձեր բոլոր ուսուցումները...">
+<!ENTITY testpilot.about.label                          "Փորձարարի մասին">
+
+<!-- all studies window -->
+<!ENTITY testpilot.studiesWindow.title                  "Ձեր Փորձարարի ուսուցումը">
+<!ENTITY testpilot.studiesWindow.currentStudies.label   "Ընթացիկ ուսուցումը">
+<!ENTITY testpilot.studiesWindow.finishedStudies.label  "Ավատված ուսուցումը">
+<!ENTITY testpilot.studiesWindow.studyFindings.label    "Ուսուցման արդյունքները">
+<!ENTITY testpilot.studiesWindow.settings.label         "Կարգավորումներ">
+<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Բացվում է, սպասեք...">
+
+<!-- raw data dialog -->
+<!ENTITY testpilot.rawDataWindow.title                  "Փորձարար. չմշակվող տվյալներ">
+
+<!-- notification -->
+<!ENTITY testpilot.notification.close.tooltip           "Փակել">
+
+<!-- Firefox 4 beta version UI -->
+<!ENTITY testpilot.enable.label                         "Միացնել օգտվողի ուսուցումը">
+<!ENTITY testpilot.feedbackbutton.label                 "Հետադարձ կապ">
+<!ENTITY testpilot.happy.label                          "Firefox-ը ինձ ուրախացնում է, որովհետև...">
+<!ENTITY testpilot.sad.label                            "Firefox-ը ինձ տխրեցնում է, որովհետև...">
+<!ENTITY testpilot.happy.thunderbirdLabel               "Thunderbird-ը ինձ երջանիկ է դարձնում, որովհետև...">
+<!ENTITY testpilot.sad.thunderbirdLabel                 "Thunderbird-ը ինձ տխրեցնում է, որովհետև...">
+<!ENTITY testpilot.broken.label                         "Զեկուցեք, որ այս վեբ կայքը ջարդված է...">
+<!ENTITY testpilot.idea.label                           "Ձեր առաջարկությունը...">
+
