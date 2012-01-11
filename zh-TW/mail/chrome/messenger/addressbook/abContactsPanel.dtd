@@ -4,7 +4,7 @@
 <!ENTITY searchInput.accesskey              "o">
 <!ENTITY SearchNameOrEmail.label            "姓名 或 Email">
 
-<!ENTITY deleteAddrBookCard.label           "刪除項目">
+<!ENTITY deleteAddrBookCard.label           "刪除">
 <!ENTITY deleteAddrBookCard.accesskey       "D">
 <!ENTITY addrBookCardProperties.label       "屬性">
 <!ENTITY addrBookCardProperties.accesskey   "P">

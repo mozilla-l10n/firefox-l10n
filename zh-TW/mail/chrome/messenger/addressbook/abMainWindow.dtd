@@ -53,7 +53,7 @@
 <!ENTITY pasteCmd.label                                 "貼上">
 <!ENTITY pasteCmd.key                                   "V">
 <!ENTITY pasteCmd.accesskey                             "P">
-<!ENTITY deleteCmd.label                                "刪除項目">
+<!ENTITY deleteCmd.label                                "刪除">
 <!ENTITY deleteCmd.accesskey                            "D">
 <!ENTITY deleteAbCmd.label                              "刪除通訊錄">
 <!ENTITY deleteContactCmd.label                         "刪除連絡人">
@@ -134,7 +134,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.accesskey                         "W">
 <!ENTITY newIM.label                                    "即時訊息">
 <!ENTITY newIM.accesskey                                "I">
-<!ENTITY deleteButton2.label                            "刪除項目">
+<!ENTITY deleteButton2.label                            "刪除">
 <!ENTITY deleteButton2.accesskey                        "D">
 
 <!-- Address Book Toolbar Tooltips -->
