@@ -5,7 +5,7 @@
 <!ENTITY newButton.accesskey "N">
 <!ENTITY editButton.label "編輯…">
 <!ENTITY editButton.accesskey "E">
-<!ENTITY deleteButton.label "刪除項目">
+<!ENTITY deleteButton.label "刪除">
 <!ENTITY deleteButton.accesskey "t">
 <!ENTITY reorderUpButton.label "上移">
 <!ENTITY reorderUpButton.accesskey "U">

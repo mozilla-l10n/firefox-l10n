@@ -33,7 +33,7 @@
 <!ENTITY addTagButton.accesskey    "A">
 <!ENTITY editTagButton.label       "編輯">
 <!ENTITY editTagButton.accesskey   "E">
-<!ENTITY removeTagButton.label     "刪除項目">
+<!ENTITY removeTagButton.label     "刪除">
 <!ENTITY removeTagButton.accesskey "D">
 
 <!-- Fonts -->

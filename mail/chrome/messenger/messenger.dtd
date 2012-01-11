@@ -507,7 +507,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY backButton1.label "上一頁">
 <!ENTITY goForwardButton1.label "下一頁">
 <!ENTITY deleteItem.title "刪除">
-<!ENTITY deleteButton.label "刪除項目">
+<!ENTITY deleteButton.label "刪除">
 <!ENTITY undeleteButton.label "還原">
 <!ENTITY markButton.label "標示">
 <!ENTITY printButton.label "列印">
@@ -570,7 +570,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextNew.accesskey "N">
 <!ENTITY folderContextRename.label "重新命名">
 <!ENTITY folderContextRename.accesskey "R">
-<!ENTITY folderContextRemove.label "刪除項目">
+<!ENTITY folderContextRemove.label "刪除">
 <!ENTITY folderContextRemove.accesskey "D">
 <!ENTITY folderContextCompact.label "壓實重整">
 <!ENTITY folderContextCompact.accesskey "C">

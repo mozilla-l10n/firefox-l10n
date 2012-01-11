@@ -71,7 +71,7 @@
 <!ENTITY editRewrapCmd.label "重新斷行">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "w">
-<!ENTITY deleteCmd.label "刪除項目">
+<!ENTITY deleteCmd.label "刪除">
 <!ENTITY deleteCmd.accesskey "D">
 <!ENTITY selectAllCmd.label "全選">
 <!ENTITY selectAllCmd.key "A">
@@ -258,7 +258,7 @@
 
 <!ENTITY openAttachment.label "開啟">
 <!ENTITY openAttachment.accesskey "O">
-<!ENTITY delete.label "刪除項目">
+<!ENTITY delete.label "刪除">
 <!ENTITY delete.accesskey "D">
 <!ENTITY removeAttachment.label "移除附加檔案">
 <!ENTITY removeAttachment.accesskey "m">
