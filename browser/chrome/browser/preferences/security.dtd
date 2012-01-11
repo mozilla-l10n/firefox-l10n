@@ -21,7 +21,7 @@
   "known").
 -->
 <!ENTITY  blockAttackSites.label     "Blochează saiturile raportate ca fiind de atac">
-<!ENTITY  blockAttackSites.accesskey "B">
+<!ENTITY  blockAttackSites.accesskey "l">
 
 <!ENTITY  blockWebForgeries.label     "Blochează saiturile raportate ca fiind falsuri">
 <!ENTITY  blockWebForgeries.accesskey "B">

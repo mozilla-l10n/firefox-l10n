@@ -31,7 +31,7 @@
 <!ENTITY  sans-serif.label                        "Sans-serif:">
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Monospațiat:">
-<!ENTITY  monospace.accesskey                     "M">
+<!ENTITY  monospace.accesskey                     "i">
 
 <!ENTITY  font.langGroup.latin1                   "Occidental">
 <!ENTITY  font.langGroup.latin2                   "Central-european">

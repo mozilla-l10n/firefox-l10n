@@ -63,7 +63,7 @@
 <!ENTITY resetPassword.text  "Dacă resetați parola generală, toate parolele de la saiturile web și conturile de email pe care le-ați memorat, precum și datele de pe formulare, certificatele personale și cheile private, vor fi pierdute. Sigur doriți să resetați parola generală?">
 
 <!-- Values for getpassword.xul -->
-<!ENTITY getPassword.title  "Introduceți parola generală">
+<!ENTITY getPassword.title  "Parola generală">
 <!ENTITY getPassword.tokenName2.label "Dispozitiv de securitate:">
 <!ENTITY getPassword.password.label "Parolă:">
 
@@ -114,7 +114,7 @@
 <!ENTITY pkcs12.setpassword.reminder "Important: Dacă uitați parola de siguranță pentru certificate, nu veți putea reface această copie mai târziu.  Aveți grijă să o păstrați într-un loc sigur.">
 
 <!ENTITY pkcs12.getpassword.title  "Introducere parolă">
-<!ENTITY pkcs12.getpassword.message "Introduceți parola cu care s-a criptat această copie de siguranță a certificatelor.">
+<!ENTITY pkcs12.getpassword.message "Parola cu care s-a criptat această copie de siguranță a certificatelor.">
 
 <!ENTITY chooseToken.title  "Alegere token">
 <!ENTITY chooseToken.message1 "Vă rugăm alegeți token.">

@@ -36,7 +36,7 @@
 <!ENTITY  acceptCookies.accesskey       "A">
 
 <!ENTITY  acceptThirdParty.label        "Acceptă cookie-uri de la terți">
-<!ENTITY  acceptThirdParty.accesskey    "p">
+<!ENTITY  acceptThirdParty.accesskey    "t">
 
 <!ENTITY  keepUntil.label               "Păstrează-le până când:">
 <!ENTITY  keepUntil.accesskey           "P">
