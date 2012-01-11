@@ -2,7 +2,7 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "Hoş geldiniz. Daha önce hiç &syncBrand.fullName.label; kullanmadıysanız yeni bir hesap açmanız gerekecek.">
+<!ENTITY setup.pickSetupType.description2 "Hoş geldiniz! Daha önce hiç &syncBrand.fullName.label; kullanmadıysanız yeni bir hesap oluşturmanız gerekecektir.">
 <!ENTITY button.createNewAccount.label "Yeni hesap aç">
 <!ENTITY button.haveAccount.label      "Hesabım var">
 
@@ -61,7 +61,7 @@
 <!ENTITY pairDevice.dialog.description.label "Yeni aygtınızı etkinleştirmek için, diğer aygıttan &#x0022;Eşitlemeyi kur&#x0022;u seçin.">
 <!ENTITY addDevice.dialog.enterCode.label   "Aygıtın verdiği kodu girin:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Lütfen tekrar deneyin.">
-<!ENTITY addDevice.dialog.successful.label  "Aygıt başarıyla eklendi. Arkaplanda yapılacak ilk eşitleme birkaç dakika sürebilir.">
+<!ENTITY addDevice.dialog.successful.label  "Aygıt başarıyla eklendi. Arka planda yapılacak ilk eşitleme birkaç dakika sürebilir.">
 <!ENTITY addDevice.dialog.recoveryKey.label     "Aygıtınızı etkinleştirmek için kurtarma anahtarınızı girmeniz gerekecek. Lütfen bu anahtarı yazdırın veya kaydedin ve yanınızda taşıyın.">
 <!ENTITY addDevice.dialog.connected.label   "Aygıt bağlandı">
 
@@ -88,6 +88,8 @@
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "Tercihler">
 <!ENTITY engine.prefs.accesskey     "T">
+<!ENTITY engine.addons.label        "Eklentiler">
+<!ENTITY engine.addons.accesskey    "E">
 
 <!ENTITY choice2.merge.main.label      "Bu bilgisayarın verileriyle &syncBrand.shortName.label; verilerimi birleştir">
 <!ENTITY choice2.merge.recommended.label "Tavsiye edilen:">

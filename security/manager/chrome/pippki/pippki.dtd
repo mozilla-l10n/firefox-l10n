@@ -108,7 +108,7 @@
 
 <!ENTITY escrowWarn.title "Anahtar şifreleme kopyası">
 <!ENTITY escrowWarn.message1 "Önemli: onay belgesi yetkilisi, şifrelemede kullandığınız  özel anahtarlarınız için bir yedekleme yapmanızı rica etti.">
-<!ENTITY escrowWarn.benefit1 "Buradaki avantajınız, eğer Anahtar kaybı halinde onay belgesi yetkilisinden bir kopyasını talep edebilirsiniz.">
+<!ENTITY escrowWarn.benefit1 "Buradaki avantajınız, özel şifreleme anahtarınızı kaybetmeniz hâlinde bu onay belgesi yetkilisinden bir kopyasını talep edebilecek olmanızdır.">
 <!ENTITY escrowWarn.message2 "Her şeye rağmen onay belgesi yetkilisi tarafından şifrelenmiş özel anahtarınız kaydoldu ve şifrelenmiş e-posta veya belgelerinizi  sizin izniniz olmadan okumak amacı ile kullanılabilir.">
 <!ENTITY examineCert.label "Onay belgesini göster">
 <!ENTITY examineCert.accesskey "O">

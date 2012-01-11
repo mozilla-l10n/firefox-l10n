@@ -73,7 +73,7 @@
 <!ENTITY cmd.new_separator.label           "Yeni ayraç">
 <!ENTITY cmd.new_separator.accesskey       "Y">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Canlı yer iminini tazele">
+<!ENTITY cmd.reloadLivebookmark.label      "Canlı yer imini tazele">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "t">
 
 <!ENTITY cmd.moveBookmarks.label                  "Taşı…">

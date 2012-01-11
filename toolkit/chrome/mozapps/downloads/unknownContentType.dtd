@@ -38,7 +38,7 @@
 -->
 
 <!ENTITY  intro.label                 "İndirmek istediğiniz dosya:">
-<!ENTITY  from.label                  "Nereden:">
+<!ENTITY  from.label                  "nereden:">
 <!ENTITY  actionQuestion.label        "&brandShortName; bu dosya ile ne yapsın?">
 
 <!ENTITY  openWith.label              "Birlikte aç">
@@ -48,7 +48,7 @@
 <!ENTITY  saveFile.label              "Sabit diske kaydet">
 <!ENTITY  saveFile.accesskey          "d">
 
-<!ENTITY  rememberChoice.label        "Bu tür dosyalar indirilirken hep bu işlemi gerçekleştir">
+<!ENTITY  rememberChoice.label        "Bu tür dosyalar indirilirken hep bu işlemi gerçekleştir.">
 <!ENTITY  rememberChoice.accesskey    "B">
 
 <!ENTITY  whichIsA.label              "Türü:">

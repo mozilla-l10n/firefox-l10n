@@ -40,7 +40,9 @@
 <!ENTITY connectionSettings.label        "Ayarlar…">
 <!ENTITY connectionSettings.accesskey    "A">
 
-<!ENTITY offlineStorage.label            "Çevrim dışı depolama">
+<!ENTITY httpCache.label                 "Önbelleğe alınmış web içeriği">
+
+<!ENTITY offlineStorage2.label           "Çevrim dışı web içeriği ve kullanıcı verileri">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -53,10 +55,12 @@
 <!ENTITY limitCacheSizeAfter.label       "MB ile sınırla">
 <!ENTITY clearCacheNow.label             "Şimdi temizle">
 <!ENTITY clearCacheNow.accesskey         "z">
+<!ENTITY clearOfflineAppCacheNow.label   "Şimdi temizle">
+<!ENTITY clearOfflineAppCacheNow.accesskey "t">
 <!ENTITY overrideSmartCacheSize.label    "Otomatik önbellek yönetimini devre dışı bırak">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
-<!ENTITY updateTab.label                 "Güncelle">
+<!ENTITY updateTab.label                 "Güncelleme">
 
 <!ENTITY updateApp.label                 "&brandShortName; güncellemeleri:">
 <!ENTITY updateAuto.label                "Güncellemeleri otomatik olarak kur (önerilir: artırılmış güvenlik)">
@@ -76,8 +80,6 @@
 <!ENTITY useService.accesskey            "h">
 
 <!ENTITY updateOthers.label              "Otomatik güncelle:">
-<!ENTITY enableAddonsUpdate3.label       "Eklentiler">
-<!ENTITY enableAddonsUpdate3.accesskey   "E">
 <!ENTITY enableSearchUpdate.label        "Arama motorları">
 <!ENTITY enableSearchUpdate.accesskey    "m">
 
@@ -86,11 +88,11 @@
 <!ENTITY offlineNotifyExceptions.label   "Ayrıcalıklar…">
 <!ENTITY offlineNotifyExceptions.accesskey "A">
 
-<!ENTITY offlineAppsList.label           "Aşağıdaki siteler çevrim dışı kullanım için veri depoladılar:">
+<!ENTITY offlineAppsList2.label          "Aşağıdaki web sitelerinin çevrim dışı kullanım için veri depolamasına izin verilmiştir:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Kaldır…">
 <!ENTITY offlineAppsListRemove.accesskey "r">
-<!ENTITY offlineAppRemove.confirm        "Çevrim dışı veriyi sil">
+<!ENTITY offlineAppRemove.confirm        "Çevrim dışı verileri sil">
 
 <!ENTITY encryptionTab.label             "Şifreleme">
 

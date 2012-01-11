@@ -43,9 +43,9 @@
 <!ENTITY aboutWarningButton.label "Söz veriyorum, dikkatli olacağım!">
 <!ENTITY aboutWarningCheckbox.label "Bu uyarıyı bir sonraki kez göster">
 
-<!ENTITY filterPrefs.label "Süzgeç:">
-<!ENTITY filterPrefs.accesskey "S">
-<!ENTITY focusFilter.key "f">
+<!ENTITY searchPrefs.label "Arama:">
+<!ENTITY searchPrefs.accesskey "A">
+<!ENTITY focusSearch.key "r">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "Ayar ismi">

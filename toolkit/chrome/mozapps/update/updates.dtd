@@ -67,7 +67,7 @@ bir bağlantıyı kabul ettirmeye çalışıyor. Hizmet sağlayıcınızla gör�
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Güncelleme &brandShortName; yeniden başlatıldığında kurulacak. &brandShortName; uygulamasını şu an da yeniden başlatabilirsiniz, işinize devam edip daha sonra da yeniden başlatabilirsiniz.">
 
-<!ENTITY  installed.title                 "Güncelleme dosyaları kuruldu">
+<!ENTITY  installed.title                 "Güncelleme kuruldu">
 <!ENTITY  installed.intro                 "Güncelleme başarılı bir şekilde kuruldu.">
 <!ENTITY  whatsnew.label                  "Yenilikleri oku…">
 
