@@ -1,5 +1,5 @@
 <!ENTITY appManager.title     "Ծրագրի մանրամասները">
-<!ENTITY appManager.style     "լայն-ը. 30em; նվ. բարձր-ը. 20em;">
+<!ENTITY appManager.style     "width: 30em; min-height: 20em;">
 <!ENTITY remove.label         "Ջնջել">
 <!ENTITY remove.accesskey     "R">
 

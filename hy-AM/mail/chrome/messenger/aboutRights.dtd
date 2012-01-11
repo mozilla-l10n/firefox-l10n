@@ -45,7 +45,7 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName;-ը առաջարկում է լրացուցիչ ծառայություններ (&quot;Services&quot;), ինչպես օրինակ հավելումների թարմացման ծառայությունը, որը հասանելի է &brandShortName-ի այս հիմնական տարբերակում։ Եթե չեք ցանկանում օգտվել այս ծառայություններից կամ պայմանները անընդունելի են Ձեզ համար, ապա անջատեք հավելումների թարմացման ծառայությունը ընտրելով՝">
+<!ENTITY rights.webservices-a "&brandFullName;-ը առաջարկում է լրացուցիչ ծառայություններ (&quot;Services&quot;), ինչպես օրինակ հավելումների թարմացման ծառայությունը, որը հասանելի է &brandShortName;-ի այս հիմնական տարբերակում։ Եթե չեք ցանկանում օգտվել այս ծառայություններից կամ պայմանները անընդունելի են Ձեզ համար, ապա անջատեք հավելումների թարմացման ծառայությունը ընտրելով՝">
 <!ENTITY rights.webservices-b "Ընդլայնված">
 <!ENTITY rights.webservices-c "հատված՝ ըստ">
 <!ENTITY rights.webservices-d "Թարմացնել">

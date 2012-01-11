@@ -1,7 +1,7 @@
 <!-- Entities for AccountWizard -->
 
 <!ENTITY windowTitle.label "Փոստարկղի Վարպետ">
-<!ENTITY accountWizard.size "լայն-ը. 40em; բարձր-ը. 38em;">
+<!ENTITY accountWizard.size "width: 40em; height: 38em;">
 
 <!-- Entities for Account Type page -->
 
