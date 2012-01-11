@@ -1,5 +1,5 @@
 <!ENTITY dialog.title "Personalizar barra de herramientas">
-<!ENTITY dialog.style "width: 635px; height: 400px;">
+<!ENTITY dialog.style "width: 95ch; height: 36m;">
 <!ENTITY instructions.description "Arrastre un ítem a la barra de tareas para agregarlo.">
 <!ENTITY show.label "Mostrar:">
 <!ENTITY iconsAndText.label "Iconos y texto">
