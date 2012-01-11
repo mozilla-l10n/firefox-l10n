@@ -44,7 +44,7 @@
 <!ENTITY directoriesText.accesskey "В">
 <!ENTITY addDirectory.label        "Додати">
 <!ENTITY addDirectory.accesskey    "Д">
-<!ENTITY editDirectory.label       "Змінити">
-<!ENTITY editDirectory.accesskey   "З">
+<!ENTITY editDirectory.label       "Редагувати">
+<!ENTITY editDirectory.accesskey   "Р">
 <!ENTITY deleteDirectory.label     "Вилучити">
 <!ENTITY deleteDirectory.accesskey "В">

@@ -26,8 +26,8 @@
 <!ENTITY printCmd.accesskey "Н">
 <!ENTITY printCmd.key "P">
 
-<!ENTITY editMenu.label                   "Редагувати">
-<!ENTITY editMenu.accesskey               "Р">
+<!ENTITY editMenu.label                   "Зміни">
+<!ENTITY editMenu.accesskey               "м">
 <!ENTITY undoCmd.label                    "Скасувати">
 <!ENTITY undoCmd.key                      "Z">
 <!ENTITY undoCmd.accesskey                "П">
@@ -81,7 +81,7 @@
 <!ENTITY findTypeLinksCmd.accesskey "k">
 
 <!ENTITY viewMenu.label					"Перегляд"> 
-<!ENTITY viewMenu.accesskey               "в">
+<!ENTITY viewMenu.accesskey               "е">
 <!ENTITY viewToolbarsMenu.label				"Показати/сховати"> 
 <!ENTITY viewToolbarsMenu.accesskey			"П"> 
 <!ENTITY showTaskbarCmd.label					"Смужка стану">  

@@ -1,6 +1,6 @@
 <!ENTITY server.label "Обліковий запис: ">
-<!ENTITY server.accesskey "A">
+<!ENTITY server.accesskey "О">
 <!ENTITY virtualFolderListTitle.title        "Виберіть теку(и)">
-<!ENTITY virtualFolderDesc.label       "Виберіть теки, в яких буде проводиться пошук:">
+<!ENTITY virtualFolderDesc.label       "Виберіть теки, в яких буде здійснюватись пошук:">
 
 

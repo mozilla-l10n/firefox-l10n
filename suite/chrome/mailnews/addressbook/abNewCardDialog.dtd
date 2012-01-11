@@ -36,5 +36,5 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!-- Labels -->
-<!ENTITY chooseAddressBook.label                "Додати в:">
+<!ENTITY chooseAddressBook.label                "Додати:">
 <!ENTITY chooseAddressBook.accesskey            "Д">
