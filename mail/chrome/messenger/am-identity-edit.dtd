@@ -1,4 +1,4 @@
-<!ENTITY identityDialog.style "լայն-ը. 67ch;">
+<!ENTITY identityDialog.style "width: 67ch;">
 <!ENTITY identityTitle.label "Նույնական. կարգ.">
 <!ENTITY identityListDesc.label "Կազմաձևել նույնականացման կարգ-ը.">
 

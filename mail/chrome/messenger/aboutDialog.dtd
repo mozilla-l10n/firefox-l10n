@@ -1,4 +1,4 @@
-<!ENTITY aboutDialog.title          ""&brandFullName;"-ի մասին">
+<!ENTITY aboutDialog.title          "&brandFullName;-ի մասին">
 
 <!ENTITY community.start2           "&brandShortName;-ը ձևավորել է ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->

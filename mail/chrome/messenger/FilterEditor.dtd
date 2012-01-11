@@ -1,5 +1,5 @@
 <!ENTITY window.title "Ֆիլտրի կանոնները">
-<!ENTITY filterEditorDialog.dimensions "լայն-ը. 100ch;">
+<!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "Ֆիլտրի անունը.">
 <!ENTITY filterName.accesskey "i">
 
