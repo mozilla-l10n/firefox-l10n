@@ -9,7 +9,6 @@
 </Url>
 <Url type="text/html" method="GET" template="http://et.wikipedia.org/wiki/Eri:Search">
   <Param name="search" value="{searchTerms}"/>
-  <Param name="sourceid" value="Mozilla-search"/>
 </Url>
 <SearchForm>http://et.wikipedia.org/wiki/Eri:Search</SearchForm>
 </SearchPlugin>
