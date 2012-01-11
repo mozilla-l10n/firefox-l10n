@@ -28,6 +28,7 @@
 <!ENTITY forwardTo.label "Փոխանցել՝">
 <!ENTITY replyWithTemplate.label "Պատասխանել Նմուշով">
 <!ENTITY markMessageRead.label "Նշել որպես կարդացած">
+<!ENTITY markMessageUnread.label "Նշել որպես կարդացած">
 <!ENTITY markMessageStarred.label "Ավելացնել աստղ">
 <!ENTITY setPriority.label "Առաջնայնությունը՝">
 <!ENTITY addTag.label "Պիտակված նամակ">

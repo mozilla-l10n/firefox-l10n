@@ -40,3 +40,5 @@
 <!ENTITY windowTitle.label     "Ստուգեք նկարի և հղման իսկությունը">
 <!ENTITY succeeded.label       "Հաջող էր">
 <!ENTITY failed.label          "Ձախողվեց">
+<!ENTITY closeButton.label     "Փակել">
+

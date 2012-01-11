@@ -29,7 +29,7 @@
 <!ENTITY selectAllCmd.label          "Ընտրել բոլորը">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey        "A">
-<!ENTITY preferencesCmd.label        "Ընտրնքներ...">
+<!ENTITY preferencesCmd.label        "Ընտրանքներ...">
 <!ENTITY preferencesCmd.accesskey      "O">
 <!ENTITY preferencesCmdUnix.label       "Նախընտրանքներ">
 <!ENTITY preferencesCmdUnix.accesskey     "n">

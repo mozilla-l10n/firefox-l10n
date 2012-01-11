@@ -5,10 +5,15 @@
 <!ENTITY SearchNameOrEmail.label            "Անունը կամ էլ. հասցեն">
 
 <!ENTITY deleteAddrBookCard.label           "Ջնջել">
+<!ENTITY deleteAddrBookCard.accesskey       "Ջ">
 <!ENTITY addrBookCardProperties.label       "Հատկություններ">
+<!ENTITY addrBookCardProperties.accesskey   "Հ">
 <!ENTITY addtoToFieldMenu.label             "Ավելացնել Ում դաշտում">
+<!ENTITY addtoToFieldMenu.accesskey         "Ա">
 <!ENTITY addtoCcFieldMenu.label             "Ավելացնել CC դաշտում">
+<!ENTITY addtoCcFieldMenu.accesskey         "C">
 <!ENTITY addtoBccFieldMenu.label            "Ավելացնել Bcc դաշտում">
+<!ENTITY addtoBccFieldMenu.accesskey        "B">
 
 <!ENTITY toButton.label                     "Ավելացնել Ում.">
 <!ENTITY toButton.accesskey                 "A">

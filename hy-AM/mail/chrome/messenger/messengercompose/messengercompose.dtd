@@ -170,7 +170,7 @@
 <!ENTITY accountManagerCmd.label "Փոստարկղի կարգավորումներ...">
 <!ENTITY accountManagerCmd.accesskey "c">
 <!ENTITY accountManagerCmdUnix.accesskey "S">
-<!ENTITY preferencesCmd.label "Ընտրնքներ...">
+<!ENTITY preferencesCmd.label "Ընտրանքներ...">
 <!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label       "Կարգավորումներ…">
 <!ENTITY preferencesCmdUnix.accesskey   "n"> 
@@ -218,7 +218,7 @@
 <!ENTITY subject.accesskey "S">
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
      to the strings in attachmentCount in composeMsgs.properties -->
-<!ENTITY attachments.accesskey "c">
+<!ENTITY attachments.accesskey "m">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Ներմուծել ժպտացող երես">

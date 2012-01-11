@@ -39,9 +39,11 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label "Ցանցի ճեղքում">
 
-<!ENTITY enableSnapToGrid.label "enable Snap to Grid">
-<!ENTITY enableSnapToGrid.accessKey "e">
+<!ENTITY enableSnapToGrid.label "միացնել Ցանցի ճեղքումը">
+<!ENTITY enableSnapToGrid.accessKey "մ">
 
-<!ENTITY sizeEditField.label "Size:">
-<!ENTITY sizeEditField.accessKey "S">
+<!ENTITY sizeEditField.label "Չափը.">
+<!ENTITY sizeEditField.accessKey "Չ">
+
+<!ENTITY pixelsLabel.value "փիքսել">
 

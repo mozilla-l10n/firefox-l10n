@@ -36,7 +36,9 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY windowTitle.label "Խարսխի հատկությունները">
-<!ENTITY anchorNameEditField.label "Anchor Name:">
-<!ENTITY anchorNameEditField.accessKey "N">
+<!ENTITY anchorNameEditField.label "Խարսխի անունը.">
+<!ENTITY anchorNameEditField.accessKey "Խ">
 <!ENTITY nameInput.tooltip "Նշեք բացառիկ անուն խարսի համար">
+
+
 

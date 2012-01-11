@@ -57,3 +57,5 @@
 <!ENTITY replaceAndFindButton.accesskey "d">
 <!ENTITY replaceAllButton.label "Փոխարինել բոլորը">
 <!ENTITY replaceAllButton.accesskey "A">
+<!ENTITY closeButton.label "Փակել">
+

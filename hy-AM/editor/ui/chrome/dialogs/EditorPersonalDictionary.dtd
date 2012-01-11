@@ -38,15 +38,17 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label "Անձնական բառարան">
 
-<!ENTITY wordEditField.label "New word:">
-<!ENTITY wordEditField.accessKey "N">
-<!ENTITY AddButton.label "Add">
-<!ENTITY AddButton.accessKey "A">
-<!ENTITY DictionaryList.label "Words in dictionary:">
-<!ENTITY DictionaryList.accessKey "W">
-<!ENTITY ReplaceButton.label "Replace">
-<!ENTITY ReplaceButton.accessKey "R">
-<!ENTITY RemoveButton.label "Remove">
-<!ENTITY RemoveButton.accessKey "e">
+<!ENTITY wordEditField.label "Նոր բառ.">
+<!ENTITY wordEditField.accessKey "Ն">
+<!ENTITY AddButton.label "Ավելացնել">
+<!ENTITY AddButton.accessKey "Ա">
+<!ENTITY DictionaryList.label "Բառ բառարանում.">
+<!ENTITY DictionaryList.accessKey "Բ">
+<!ENTITY ReplaceButton.label "Փոխարինել">
+<!ENTITY ReplaceButton.accessKey "Փ">
+<!ENTITY RemoveButton.label "Ջնջել">
+<!ENTITY RemoveButton.accessKey "Ջ">
 
-<!ENTITY CloseButton.label "Close">
+<!ENTITY CloseButton.label "Փակել">
+<!ENTITY CloseButton.accessKey "Փ">
+

@@ -56,3 +56,5 @@
 <!ENTITY AccessKey.accesskey "K">
 
 <!ENTITY RemoveButton.label "Հեռացնել կոճակը">
+<!ENTITY RemoveButton.accesskey "R">
+

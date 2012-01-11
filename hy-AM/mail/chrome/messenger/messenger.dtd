@@ -1,4 +1,3 @@
-<!ENTITY messengerWindow.title "&amp; Նորություններ">
 <!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " -  ">
 
@@ -588,8 +587,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextMarkMailFolderRead.accesskey "k">
 <!ENTITY folderContextSubscribe.label "Բաժանորդագրվել...">
 <!ENTITY folderContextSubscribe.accesskey "b">
-<!ENTITY folderContextSearchMessages.label "Փնտրել...">
-<!ENTITY folderContextSearchMessages.accesskey "S">
+<!ENTITY folderContextSearchForMessages.label "Փնտրել նամակներ...">
+<!ENTITY folderContextSearchForMessages.accesskey "Փ">
 <!ENTITY folderContextProperties.label "Հատկություններ...">
 <!ENTITY folderContextProperties.accesskey "P">
 <!ENTITY folderContextFavoriteFolder.label "Ընտրյալ թղթապանակը">

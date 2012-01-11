@@ -38,23 +38,25 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label "Էջի գույները և Խորապատկերը">
 <!ENTITY pageColors.label "Էջի գույները">
-<!ENTITY defaultColorsRadio.label "Reader's default colors (Don't set colors in page)">
-<!ENTITY defaultColorsRadio.accessKey "D">
+<!ENTITY defaultColorsRadio.label "Հիմնական գույները (Չնշել գույները էջում)">
+<!ENTITY defaultColorsRadio.accessKey "Հ">
 <!ENTITY defaultColorsRadio.tooltip "Օգտագործել գույնային կարգավորումները միայն դիտարկիչում">
-<!ENTITY customColorsRadio.label "Use custom colors:">
-<!ENTITY customColorsRadio.accessKey "C">
+<!ENTITY customColorsRadio.label "Օգտ. ընտրված գույներ.">
+<!ENTITY customColorsRadio.accessKey "Օ">
 <!ENTITY customColorsRadio.tooltip "Գույնային այս կարգավորումները դիտարկիչի կարգավորումներում">
 
-<!ENTITY normalText.label "Normal text">
-<!ENTITY normalText.accessKey "N">
-<!ENTITY linkText.label "Link text">
-<!ENTITY linkText.accessKey "L">
-<!ENTITY activeLinkText.label "Active link text">
-<!ENTITY activeLinkText.accessKey "A">
-<!ENTITY visitedLinkText.label "Visited link text">
-<!ENTITY visitedLinkText.accessKey "V">
-<!ENTITY background.label "Background:">
-<!ENTITY background.accessKey "B">
+<!ENTITY normalText.label "Նորմալ տեքստ">
+<!ENTITY normalText.accessKey "Ն">
+<!ENTITY linkText.label "Հղման տեքստ">
+<!ENTITY linkText.accessKey "Հ">
+<!ENTITY activeLinkText.label "Ակտիվ հղման տեքստ">
+<!ENTITY activeLinkText.accessKey "Ա">
+<!ENTITY visitedLinkText.label "Այցելած հղման տեքստը">
+<!ENTITY visitedLinkText.accessKey "Ա">
+<!ENTITY background.label "Խորապատկերը.">
+<!ENTITY background.accessKey "Խ">
 <!ENTITY colon.character ":">
-<!ENTITY backgroundImage.label "Background Image:">
-<!ENTITY backgroundImage.accessKey "m">
+<!ENTITY backgroundImage.label "Խորապատկերի նկարը.">
+<!ENTITY backgroundImage.accessKey "Խ">
+<!ENTITY backgroundImage.tooltip "Օգտագործել նկարի ֆայլը խորապատկերի համար այս էջում">
+

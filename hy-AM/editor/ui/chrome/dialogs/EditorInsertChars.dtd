@@ -39,13 +39,15 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label "Ներմուծել նշան">
 <!ENTITY category.label "Բաժինը">
-<!ENTITY letter.label "Letter:">
-<!ENTITY letter.accessKey "L">
-<!ENTITY character.label "Character:">
-<!ENTITY character.accessKey "C">
+<!ENTITY letter.label "Նամակը.">
+<!ENTITY letter.accessKey "Ն">
+<!ENTITY character.label "Գրանշանը.">
+<!ENTITY character.accessKey "Գ">
 <!ENTITY accentUpper.label "Ընդունել մեծատառեր">
 <!ENTITY accentLower.label "Ընդունել փոքրատառեր">
 <!ENTITY otherUpper.label "Այլ մեծատառեր">
 <!ENTITY otherLower.label "Այլ փոքրատառեր">
 <!ENTITY commonSymbols.label "Ընդհանուր նշաններ">
 <!ENTITY insertButton.label "Ներմուծել">
+<!ENTITY closeButton.label "Փակել">
+

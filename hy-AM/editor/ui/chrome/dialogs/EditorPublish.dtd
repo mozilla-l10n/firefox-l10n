@@ -95,3 +95,5 @@
 <!ENTITY password.tooltip             "Օգտվողի Ձեր անվան հետ ասոցիացվող գաղտնաբառը">
 <!ENTITY savePassword.label           "Պահպանել գաղտնաբառը">
 <!ENTITY savePassword.accesskey       "S">
+<!ENTITY savePassword.tooltip         "Ընտրեք սա՝ պահպանելու համար գաղտնաբառը Գաղտնաբառերի կառավարիչում">
+
