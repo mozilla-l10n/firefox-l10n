@@ -19,9 +19,7 @@
 <!ENTITY launcher_shortcuts_empty "Nessuna web app trovata">
 <!ENTITY choose_file "Scelta file">
 <!ENTITY awesomebar_default_text "Inserire indirizzo o testo da cercare">
-<!ENTITY bookmarks_title "Segnalibri">
-<!ENTITY bookmark_add "Segnalibro">
-<!ENTITY bookmark_remove "Rimuovi">
+<!ENTITY bookmark "Segnalibro">
 <!ENTITY bookmark_added "Aggiunto segnalibro">
 <!ENTITY bookmark_removed "Segnalibro eliminato">
 <!ENTITY history_today_section "Oggi">
@@ -58,6 +56,7 @@
 <!ENTITY pref_use_master_password "Usa password principale">
 <!ENTITY quit "Esci">
 <!ENTITY addons "Componenti aggiuntivi">
+<!ENTITY downloads "Download">
 <!ENTITY share "Condividi">
 <!ENTITY save_as_pdf "Salva come PDF">
 <!ENTITY agent_request_desktop "Richiedi versione desktop">
