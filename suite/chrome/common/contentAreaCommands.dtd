@@ -53,11 +53,11 @@
 <!ENTITY viewBGImageCmd.accesskey "h">
 <!ENTITY setWallpaperCmd.label "Définir comme fond d'écran">
 <!ENTITY setWallpaperCmd.accesskey "f">
-<!ENTITY bookmarkPageCmd.label "Marquer cette page">
+<!ENTITY bookmarkPageCmd.label "Marquer cette page…">
 <!ENTITY bookmarkPageCmd.accesskey "p">
-<!ENTITY bookmarkLinkCmd.label "Marquer ce lien">
+<!ENTITY bookmarkLinkCmd.label "Marquer ce lien…">
 <!ENTITY bookmarkLinkCmd.accesskey "l">
-<!ENTITY bookmarkFrameCmd.label "Marquer ce cadre">
+<!ENTITY bookmarkFrameCmd.label "Marquer ce cadre…">
 <!ENTITY bookmarkFrameCmd.accesskey "M">
 <!ENTITY savePageAsCmd.label "Enregistrer sous…">
 <!ENTITY savePageCmd.label "Enregistrer">
