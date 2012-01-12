@@ -12,8 +12,8 @@
 <!ENTITY sync.subtitle.connect.label '若要啟用您的新裝置，請在您的裝置上選擇「設定 &syncBrand.shortName.label;」。'>
 <!ENTITY sync.subtitle.pair.label '若要啟用，請在您的另一台裝置選擇「與裝置配對」。'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
-<!ENTITY sync.link.show.label '<a href="https://support.mozilla.com/kb/add-a-device-to-firefox-sync">教我怎麼做</a>'>
-<!ENTITY sync.link.nodevice.label '<a href="#">裝置不在我手邊…</a>'>
+<!ENTITY sync.link.show.label '告訴我怎麼做。'>
+<!ENTITY sync.link.nodevice.label '裝置不在我手邊…'>
 
 <!-- J-PAKE Waiting Screen -->
 <!ENTITY sync.jpake.subtitle.waiting.label '正在等待另一台裝置…'>
@@ -31,6 +31,7 @@
 <!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; 無法連線到伺服器。您想重試嗎？'>
 <!ENTITY sync.button.tryagain.label '重試'>
 <!ENTITY sync.button.manual.label '手動設定'>
+<!ENTITY sync.subtitle.nointernet.label '無可用網路連線。'>
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label '完成設定'>
@@ -44,6 +45,7 @@
 <!-- Common text -->
 <!ENTITY sync.button.cancel.label '取消'>
 <!ENTITY sync.button.connect.label '連線'>
+<!ENTITY sync.button.ok.label '確定'>
   
 <!-- Account strings -->
 <!ENTITY sync.account.label.label '&syncBrand.fullName.label;'>
