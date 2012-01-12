@@ -15,8 +15,8 @@
 <!ENTITY newVirtualFolderCmd.accesskey "В">
 <!ENTITY newOtherAccountsCmd.label "Другие учётные записи…">
 <!ENTITY newOtherAccountsCmd.accesskey "г">
-<!ENTITY newCreateEmailAccountCmd.label "Получить новую учётную запись почты…">
-<!ENTITY newCreateEmailAccountCmd.accesskey "л">
+<!ENTITY newCreateEmailAccountCmd.label "Завести новую учётную запись почты…">
+<!ENTITY newCreateEmailAccountCmd.accesskey "с">
 <!ENTITY newExistingEmailAccountCmd.label "Существующая учётная запись почты…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "щ">
 <!ENTITY openMessageFileCmd.label "Открыть сохранённое сообщение…">
