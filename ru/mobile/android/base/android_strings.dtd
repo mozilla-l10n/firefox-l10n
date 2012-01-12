@@ -1,7 +1,7 @@
 <!ENTITY splash_firstrun "Настройка &brandShortName;\u2026">
 <!ENTITY no_space_to_start_error "Недостаточно свободного места для запуска &brandShortName;.">
 <!ENTITY error_loading_file "При попытке загрузки файлов, требуемых для запуска &brandShortName;, произошла ошибка.">
-<!ENTITY awesomebar_all_pages_title "Мои сайты">
+<!ENTITY awesomebar_all_pages_title "Часто посещаемые">
 <!ENTITY awesomebar_bookmarks_title "Закладки">
 <!ENTITY awesomebar_history_title "История">
 <!ENTITY awesomebar_search_engine "Поиск \&quot;&#037;s\&quot;">
@@ -19,9 +19,7 @@
 <!ENTITY launcher_shortcuts_empty "Веб-приложения не найдены">
 <!ENTITY choose_file "Выбор файла">
 <!ENTITY awesomebar_default_text "Введите поиск или адрес">
-<!ENTITY bookmarks_title "Закладки">
-<!ENTITY bookmark_add "Закладка">
-<!ENTITY bookmark_remove "Удалить">
+<!ENTITY bookmark "Закладка">
 <!ENTITY bookmark_added "Закладка добавлена">
 <!ENTITY bookmark_removed "Закладка удалена">
 <!ENTITY history_today_section "Сегодня">
