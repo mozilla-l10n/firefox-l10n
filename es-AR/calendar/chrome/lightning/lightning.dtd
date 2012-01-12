@@ -74,30 +74,6 @@
 <!ENTITY lightning.menu.eventtask.label                "Eventos y tareas">
 <!ENTITY lightning.menu.eventtask.accesskey            "n">
 
-<!-- Mode Toolbar -->
-<!ENTITY lightning.toolbar.mail.label         "Correo">
-<!ENTITY lightning.toolbar.mail.accesskey     "o">
-<!ENTITY lightning.toolbar.calendar.label     "Calendario">
-<!ENTITY lightning.toolbar.calendar.tooltip   "Cambiar a la pestaña calendario">
-<!ENTITY lightning.toolbar.calendar.accesskey "C">
-<!ENTITY lightning.toolbar.task.label         "Tareas">
-<!ENTITY lightning.toolbar.task.tooltip       "Cambiar a la pestaña tareas">
-<!ENTITY lightning.toolbar.task.accesskey     "T">
-
-<!-- Toolbar write button -->
-<!ENTITY lightning.toolbar.newevent.label     "Evento">
-<!ENTITY lightning.toolbar.newtask.label      "Tarea">
-
-<!-- Messenger Toolbar -->
-<!ENTITY lightning.toolbar.day.label                 "Día">
-<!ENTITY lightning.toolbar.day.accesskey             "D">
-<!ENTITY lightning.toolbar.week.label                "Semana">
-<!ENTITY lightning.toolbar.week.accesskey            "S">
-<!ENTITY lightning.toolbar.multiweek.label           "Multisemana">
-<!ENTITY lightning.toolbar.multiweek.accesskey       "u">
-<!ENTITY lightning.toolbar.month.label               "Mes">
-<!ENTITY lightning.toolbar.month.accesskey           "M">
-
 <!-- properties dialog, calendar creation wizard -->
 <!ENTITY lightning.calendarproperties.showevents.inagenda.label "Mostrar eventos en la vista de hoy">
 <!ENTITY lightning.calendarproperties.showtasks.label           "Mostrar tareas en la vista de hoy y modo tareas">
