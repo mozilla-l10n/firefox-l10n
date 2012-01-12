@@ -28,7 +28,7 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
 <!ENTITY aboutSupport.showMac.label "顯示於 Finder">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "修改的偏好設定">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "匯入已修改的偏好設定">
 <!ENTITY aboutSupport.modifiedPrefsName "名稱">
 <!ENTITY aboutSupport.modifiedPrefsValue "值">
 
