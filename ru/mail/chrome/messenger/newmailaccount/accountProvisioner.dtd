@@ -6,10 +6,10 @@
 <!ENTITY error.suggest.before "Также вы можете попробовать один из ">
 <!ENTITY error.suggest.middle "бесплатных альтернативных почтовых сервисов">
 <!ENTITY error.suggest.after ".">
-<!ENTITY success.title.before "Привет ">
-<!ENTITY success.title.after ", для вас доступны следующие адреса электронной почты:">
+<!ENTITY success.title.before "Привет, ">
+<!ENTITY success.title.after ". Для вас доступны следующие адреса электронной почты:">
 <!ENTITY success.tip "(Чтобы найти больше адресов, вы можете произвести поиск по прозвищам или любым другим терминам)">
-<!ENTITY partnership.description "В партнёрстве с несколькими провайдерами, &brandShortName; может помочь вам получить новый адрес электронной почты. Чтобы начать, просто введите в расположенные выше поля свою фамилию и имя или другие понравившиеся вам слова.">
+<!ENTITY partnership.description "В сотрудничестве с несколькими провайдерами, &brandShortName; может помочь вам получить новый адрес электронной почты. Для этого просто введите в расположенные выше поля свою фамилию и имя, или другие понравившиеся вам слова.">
 <!ENTITY existing.header "Уже имеете адрес, который хотите использовать?">
 <!ENTITY tinyheader.title "Уже есть адрес?">
 <!ENTITY tinyheader.existing "Пропустить это и использовать мою существующую почту">
@@ -18,9 +18,9 @@
 <!ENTITY successful.successMessage "Вы успешно настроили свою учётную запись.">
 <!ENTITY successful.write "Напишите письмо">
 <!ENTITY successful.write.desc "Сообщите о новом почтовом адресе вашим друзьям и семье.<br/> Вы ведь поэтому завели новый почтовый адрес, не так ли?">
-<!ENTITY successful.customize "Настроить &brandShortName; с помощью множества классных дополнений">
+<!ENTITY successful.customize "Настройте &brandShortName; с помощью множества классных дополнений">
 <!ENTITY successful.customize.desc "Есть тысячи дополнений, которые помогут вам настроить &brandShortName; по своему вкусу.">
-<!ENTITY successful.attach "Добавить для моей почты персональную подпись">
+<!ENTITY successful.attach "Добавьте для своей почты личную подпись">
 <!ENTITY successful.attach.desc "Вы можете автоматически прикреплять цитату или какую-либо информацию о себе в конец каждого отправляемого вами сообщения.">
 <!ENTITY successful.close "Закрыть это окно.">
 <!ENTITY input.namePlaceholder "Ваше имя или прозвище">
