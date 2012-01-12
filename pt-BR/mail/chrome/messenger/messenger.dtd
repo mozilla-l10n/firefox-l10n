@@ -1,4 +1,3 @@
-<!ENTITY messengerWindow.title "Mensagens">
 <!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
@@ -588,8 +587,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextMarkMailFolderRead.accesskey "l">
 <!ENTITY folderContextSubscribe.label "Inscrever…">
 <!ENTITY folderContextSubscribe.accesskey "v">
-<!ENTITY folderContextSearchMessages.label "Pesquisar…">
-<!ENTITY folderContextSearchMessages.accesskey "P">
+<!ENTITY folderContextSearchForMessages.label "Pesquisar mensagens…">
+<!ENTITY folderContextSearchForMessages.accesskey "e">
 <!ENTITY folderContextProperties.label "Propriedades">
 <!ENTITY folderContextProperties.accesskey "o">
 <!ENTITY folderContextFavoriteFolder.label "Pasta favorita">
@@ -728,7 +727,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
    of its descendents.  The user selects the folder using the same widget as the
    move to/copy to mechanism (via a series of popups).
   -->
-<!ENTITY columnPicker.applyToFolderAndChildren.label "Pasta e suas filhas">
+<!ENTITY columnPicker.applyToFolderAndChildren.label "Pasta e subpastas">
 <!-- LOCALIZATION NOTE (columnPicker.thisFolder.label):
    This is used in the folder selection widget for the
    "columnPicker.applyToFolder.label" and

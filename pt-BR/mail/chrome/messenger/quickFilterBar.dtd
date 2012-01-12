@@ -1,3 +1,10 @@
+<!-- LOCALIZATION NOTE (quickFilterBar.qfbShowFilterBar.label):
+     The label  for the button on the tab bar that toggles the visibility of
+     the quick filter bar.
+     -->
+<!ENTITY quickFilterBar.qfbShowFilterBar.label
+         "Filtrar">
+
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.menu.label):
      The label to display for the "View... Toolbars..." menu item that controls
      whether the quick filter bar is visible.
@@ -10,14 +17,14 @@
      whether the quick filter bar is visible.
      -->
 <!ENTITY quickFilterBar.toggleBarVisibility.menu.accesskey
-         "B">
+         "F">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.button.tooltip):
      The tooltip to display when hovering over the button on the tab bar that
      toggles the visibility of the quick filter bar.
      -->
 <!ENTITY quickFilterBar.toggleBarVisibility.button.tooltip
-         "Exibir/Ocultar a barra de filtragem">
+         "Exibir/Ocultar barra de filtragem">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.sticky.tooltip):
      The tooltip to display when the user hovers over the sticky button

@@ -56,6 +56,10 @@
 <!ENTITY popType.accesskey "P">
 <!ENTITY leaveMsgsOnSrvr.label "Manter mensagens no servidor">
 <!ENTITY leaveMsgsOnSrvr.accesskey "t">
+<!ENTITY portNum.label "Porta:">
+<!ENTITY portNum.accesskey "o">
+<!ENTITY defaultPortLabel.label "Padrão:">
+<!ENTITY defaultPortValue.label "">
 
 
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in

@@ -28,6 +28,7 @@
 <!ENTITY forwardTo.label "Encaminhar para">
 <!ENTITY replyWithTemplate.label "Responder com o modelo">
 <!ENTITY markMessageRead.label "Marcar como lida">
+<!ENTITY markMessageUnread.label "Marcar como não lida">
 <!ENTITY markMessageStarred.label "Marcar com estrela">
 <!ENTITY setPriority.label "Definir prioridade como">
 <!ENTITY addTag.label "Aplicar tag na mensagem">
