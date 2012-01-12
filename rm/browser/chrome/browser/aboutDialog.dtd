@@ -1,7 +1,7 @@
 <!ENTITY aboutDialog.title          "Davart &brandFullName;">
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
-<!ENTITY warningDesc.version        "&brandShortName; è experimental e pudess esser nunstabil.">
+<!ENTITY warningDesc.version        "&brandShortName; è experimental e pudess esser instabil.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetry): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
 <!ENTITY warningDesc.telemetry      "Il program trametta automaticamain infurmaziuns da test a &vendorShortName; per gidar da far meglier &brandShortName;.">
 
