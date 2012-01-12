@@ -1,12 +1,26 @@
 <!ENTITY aboutDialog.title          "Sobre o &brandFullName;">
 
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+<!ENTITY warningDesc.version        "O &brandShortName; é experimental e pode ser instável.">
+<!-- LOCALIZATION NOTE (warningDesc.telemetry): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetry      "Ele envia automaticamente informações de testes para a &vendorShortName; com o objetivo de tornar o &brandShortName; melhor.">
+
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+<!ENTITY community.exp.start        "A ">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+<!ENTITY community.exp.middle       " é uma ">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "comunidade global">
+<!ENTITY community.exp.end          " trabalhando em conjunto para manter uma web aberta, pública e acessível a todos.">
+
 <!ENTITY community.start2           "O &brandShortName; é desenvolvido pela ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", uma ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "comunidade global">
-<!ENTITY community.end2             " trabalhando em conjunto para tornar a internet melhor. Nós acreditamos que a internet deve ser aberta, pública e acessível a todos sem quaisquer restrições.">
+<!ENTITY community.end3             " trabalhando em conjunto para manter uma web aberta, pública e acessível a todos.">
 
 <!ENTITY contribute.start           "Interessou? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->

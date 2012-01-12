@@ -30,6 +30,8 @@
 <!ENTITY engine.passwords.accesskey "S">
 <!ENTITY engine.prefs.label         "Preferências">
 <!ENTITY engine.prefs.accesskey     "P">
+<!ENTITY engine.addons.label        "Complementos">
+<!ENTITY engine.addons.accesskey    "C">
 
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label       "Nome do computador:">

@@ -217,8 +217,17 @@ can reach it easily. -->
 <!ENTITY inspectButton.label            "Inspecionar">
 <!ENTITY inspectButton.accesskey        "I">
 <!ENTITY inspectCloseButton.tooltiptext "Ocultar inspeção">
+<!ENTITY inspect3DButton.label        "3D">
+<!ENTITY inspect3DButton.accesskey    "M">
 <!ENTITY inspectStyleButton.label     "Estilos">
 <!ENTITY inspectStyleButton.accesskey "s">
+
+<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
+  -  in the Tools menu. -->
+<!ENTITY styleeditor.label            "Editor de estilos">
+<!ENTITY styleeditor.accesskey        "E">
+<!ENTITY styleeditor.keycode          "VK_F7">
+<!ENTITY styleeditor.keytext          "F7">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Adicionar mais ferramentas">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "A">
@@ -422,14 +431,23 @@ can reach it easily. -->
 <!ENTITY thisFrameMenu.accesskey          "t">
 
 <!-- Media (video/audio) controls -->
+<!-- LOCALIZATION NOTE: The access keys for "Play" and
+"Pause" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaPlay.label             "Executar">
 <!ENTITY mediaPlay.accesskey         "u">
 <!ENTITY mediaPause.label            "Pausa">
 <!ENTITY mediaPause.accesskey        "u">
+<!-- LOCALIZATION NOTE: The access keys for "Mute" and
+"Unmute" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Desativar som">
 <!ENTITY mediaMute.accesskey         "a">
 <!ENTITY mediaUnmute.label           "Ativar som">
 <!ENTITY mediaUnmute.accesskey       "A">
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "Exibir controles">
 <!ENTITY mediaShowControls.accesskey "n">
 <!ENTITY mediaHideControls.label     "Ocultar controles">
@@ -438,6 +456,9 @@ can reach it easily. -->
 <!ENTITY videoFullScreen.accesskey   "T">
 <!ENTITY videoSaveImage.label        "Salvar quadro atual como…">
 <!ENTITY videoSaveImage.accesskey    "S">
+<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
+"Hide Statistics" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY videoShowStats.label        "Exibir estatísticas">
 <!ENTITY videoShowStats.accesskey    "e">
 <!ENTITY videoHideStats.label        "Ocultar estatísticas">
