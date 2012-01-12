@@ -1,5 +1,10 @@
 <!ENTITY addons.windowTitle                   "Administraziun dals supplements">
+
 <!ENTITY search.placeholder                   "Tschertgar en ils supplements">
+<!-- LOCALIZATION NOTE (search.commandKey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
+
 <!ENTITY loading.label                        "Chargiar…">
 <!ENTITY listEmpty.installed.label            "Ti n'has anc installà nagins supplements da quest tip">
 <!ENTITY listEmpty.availableUpdates.label     "Chattà naginas actualisaziuns">
