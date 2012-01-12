@@ -28,6 +28,7 @@
 <!ENTITY forwardTo.label "Transmetter il messadi a">
 <!ENTITY replyWithTemplate.label "Respunder cun il model">
 <!ENTITY markMessageRead.label "Marcar sco legì">
+<!ENTITY markMessageUnread.label "Marcar sco nunlegì">
 <!ENTITY markMessageStarred.label "Segnar">
 <!ENTITY setPriority.label "Midar prioritad tar">
 <!ENTITY addTag.label "Agiuntar ina etichetta">
