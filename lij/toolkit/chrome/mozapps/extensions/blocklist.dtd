@@ -2,8 +2,8 @@
 <!ENTITY blocklist.style             "width: 45em; height: 30em">
 <!ENTITY blocklist.summary           "O &brandShortName; l'à scoverto che sti conponénti azónti caozan problêmi de stabilitæ ò problêmi de seguéssa:">
 <!ENTITY blocklist.softblocked       "Pe-a teu proteçión l'é mêgio che ti reavîi con sti conponénti azónti dizabilitæ.">
-<!ENTITY blocklist.hardblocked       "Sti conponénti azónti gh'àn un'âto réizeigo de caozâ problêmi de stabilitæ ò de seguéssa e son stæti blocæ ma ti devi reaviâ pe dizabilitâli conpletamente.">
-<!ENTITY blocklist.softandhard       "I conponénti azónti che gh'àn un'âto réizeigo de caozâ problêmi de stabilitæ ò de seguéssa e son stæti blocæ. I âtri gha'àn bàsso réizeigo ma l'é mêgio che ti riavi con sti chi dizabilitæ.">
+<!ENTITY blocklist.hardblocked       "Sti conponénti azónti gh'àn un'èrto réizeigo de caozâ problêmi de stabilitæ ò de seguéssa e son stæti blocæ ma ti devi reaviâ pe dizabilitâli conpletamente.">
+<!ENTITY blocklist.softandhard       "I conponénti azónti che gh'àn un'èrto réizeigo de caozâ problêmi de stabilitæ ò de seguéssa e son stæti blocæ. I âtri gha'àn bàsso réizeigo ma l'é mêgio che ti riavi con sti chi dizabilitæ.">
 <!ENTITY blocklist.moreinfo          "Ciù informaçioìn">
 
 <!ENTITY blocklist.accept.label      "Reavia &brandShortName;">
