@@ -332,6 +332,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY thisFolder.label "Esta pasta">
 <!ENTITY thisFolder.accesskey "t">
 <!ENTITY goRecentlyClosedTabs.label "Separadores fechados recentemente">
+<!ENTITY goRecentlyClosedTabs.accesskey "r">
 <!ENTITY startPageCmd.label "Página inicial">
 <!ENTITY startPageCmd.accesskey "C">
 
