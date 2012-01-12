@@ -2,7 +2,7 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "Nunca usou o &syncBrand.fullName.label;? Então você precisará criar uma conta.">
+<!ENTITY setup.pickSetupType.description2 "Bem-vindo! Se você nunca usou o &syncBrand.fullName.label;, precisará criar uma conta.">
 <!ENTITY button.createNewAccount.label "Criar uma conta">
 <!ENTITY button.haveAccount.label      "Tenho uma conta">
 
@@ -88,6 +88,8 @@
 <!ENTITY engine.passwords.accesskey "S">
 <!ENTITY engine.prefs.label         "Preferências">
 <!ENTITY engine.prefs.accesskey     "P">
+<!ENTITY engine.addons.label        "Complementos">
+<!ENTITY engine.addons.accesskey    "C">
 
 <!ENTITY choice2.merge.main.label      "Mesclar os dados deste computador com os do &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Recomendado: ">
