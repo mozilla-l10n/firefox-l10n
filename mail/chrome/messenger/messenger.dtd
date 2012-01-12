@@ -8,9 +8,6 @@
 <!ENTITY closeTabCmd2.accesskey "e">
 <!ENTITY closeOtherTabsCmd2.label "Cerrar las otras pestañas">
 <!ENTITY closeOtherTabsCmd2.accesskey "l">
-<!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
-     Menu option to attempt to re-open a recently closed tab.
-     -->
 <!ENTITY recentlyClosedTabsCmd.label "Pestañas recientemente cerradas">
 <!ENTITY recentlyClosedTabsCmd.accesskey "R">
 
@@ -337,6 +334,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY thisFolder.label "Esta carpeta">
 <!ENTITY thisFolder.accesskey "E">
 <!ENTITY goRecentlyClosedTabs.label "Pestañas recientemente cerradas">
+<!ENTITY goRecentlyClosedTabs.accesskey "r">
 <!ENTITY startPageCmd.label "Página de inicio">
 <!ENTITY startPageCmd.accesskey "i">
 

@@ -31,16 +31,21 @@
 <!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; could not connect to the server. Would you like to try again?'>
 <!ENTITY sync.button.tryagain.label 'Intentar nuevamente'>
 <!ENTITY sync.button.manual.label 'Configuración manual'>
-  
+<!ENTITY sync.subtitle.nointernet.label 'No hay conexión a internet disponible.'>
+ 
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Configuración completa'>
 <!ENTITY sync.subtitle.success.label 'Tus datos ahora están siendo descargados en segundo plano. Podés ir a Opciones para administrar tu cuenta.'>
 <!ENTITY sync.settings.label 'Opciones'>
 <!ENTITY sync.subtitle.manage.label 'Tu cuenta de &syncBrand.fullName.label; ya está configurada. Andá a opciones para administrar tu cuenta.'>
-  
+ 
+<!-- Pair Device -->
+<!ENTITY sync.pair.tryagain.label 'Intentá de nuevo.'>
+ 
 <!-- Common text -->
 <!ENTITY sync.button.cancel.label 'Cancelar'>
 <!ENTITY sync.button.connect.label 'Conectar'>
+<!ENTITY sync.button.ok.label 'Aceptar'>
   
 <!-- Account strings -->
 <!ENTITY sync.account.label.label '&syncBrand.fullName.label;'>

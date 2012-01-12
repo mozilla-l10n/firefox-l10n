@@ -27,9 +27,7 @@
 
 <!ENTITY awesomebar_default_text "Enter Search or Address">
 
-<!ENTITY bookmarks_title "Marcadores">
-<!ENTITY bookmark_add "Marcar">
-<!ENTITY bookmark_remove "Eliminar">
+<!ENTITY bookmark "Marcador">
 <!ENTITY bookmark_added "Marcador agregado">
 <!ENTITY bookmark_removed "Marcador eliminado">
 
@@ -72,6 +70,7 @@
 <!ENTITY quit "Salir">
 
 <!ENTITY addons "Complementos">
+<!ENTITY downloads "Descargas">
 
 <!ENTITY share "Compartir">
 <!ENTITY save_as_pdf "Guardar como PDF">
