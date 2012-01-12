@@ -44,7 +44,7 @@
 <!ENTITY setup.newRecoveryKeyPage.description.label "Pe garantî a teu privacy, tùtti i teu dæti son criptê prìmma de vegnî caregæ. A ciâve Sync pe descriptâ i dæti a no vegne caregâ.">
 <!ENTITY recoveryKeyEntry.label        "A teu Ciâve de repìggio">
 <!ENTITY recoveryKeyEntry.accesskey    "C">
-<!ENTITY syncGenerateNewKey.label  "Generate a new key">
+<!ENTITY syncGenerateNewKey.label  "Genera 'na nêuva ciâve">
 <!ENTITY recoveryKeyBackup.description "A teu ciâve de repìggio a l'é domandâ pe acêde a &syncBrand.fullName.label; da-e âtre màchine. Pe favô fanne 'na còpia. Niâtri no ti póemmo agiutâte a aregordâla.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Stànpa…">

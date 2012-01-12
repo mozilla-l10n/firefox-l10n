@@ -197,7 +197,7 @@
 <!ENTITY addon.checkingForUpdates.label       "Çèrco i agiornaménti…">
 <!ENTITY addon.releaseNotes.label             "Anotaçioìn da distribuçión:">
 <!ENTITY addon.loadingReleaseNotes.label      "Caregando...">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Sorry, but there was an error loading the release notes.">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Me despiâxe, gh'é stæto 'n erô a caregâ e anotaçioìn da distribuçión.">
 
 <!ENTITY addon.createdBy.label                "Da ">
 
