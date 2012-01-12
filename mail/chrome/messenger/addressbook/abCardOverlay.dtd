@@ -15,15 +15,15 @@
 <!ENTITY DisplayName.label "Nome visualizzato:">
 <!ENTITY DisplayName.accesskey "z">
 <!ENTITY preferDisplayName.label "Preferire sempre il nome visualizzato all'intestazione del messaggio">
-<!ENTITY preferDisplayName.accesskey "P">
+<!ENTITY preferDisplayName.accesskey "d">
 <!ENTITY NickName.label "Soprannome:">
 <!ENTITY NickName.accesskey "S">
 <!ENTITY PrimaryEmail.label "Email:">
-<!ENTITY PrimaryEmail.accesskey "-">
+<!ENTITY PrimaryEmail.accesskey "E">
 <!ENTITY SecondEmail.label "Email aggiuntiva:">
 <!ENTITY SecondEmail.accesskey "a">
 <!ENTITY PreferMailFormat.label "Formato preferito per i messaggi di posta:">
-<!ENTITY PreferMailFormat.accesskey "o">
+<!ENTITY PreferMailFormat.accesskey "p">
 <!ENTITY PlainText.label "Testo semplice">
 <!ENTITY HTML.label "HTML">
 <!ENTITY Unknown.label "Sconosciuto">
@@ -39,7 +39,7 @@
 <!ENTITY FaxNumber.label "Fax:">
 <!ENTITY FaxNumber.accesskey "x">
 <!ENTITY PagerNumber.label "Cerca persone:">
-<!ENTITY PagerNumber.accesskey "e">
+<!ENTITY PagerNumber.accesskey "o">
 <!ENTITY CellularNumber.label "Cellulare:">
 <!ENTITY CellularNumber.accesskey "u">
 <!ENTITY Home.tab "Privato">
