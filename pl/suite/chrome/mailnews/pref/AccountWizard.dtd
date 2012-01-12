@@ -45,7 +45,7 @@
 <!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
 <!ENTITY smtpServerDesc.label "Wprowadź nazwę serwera poczty wychodzącej (na przykład: &quot;smtp.example.net&quot;):">
 <!ENTITY smtpServerLabel.label "Serwer poczty wychodzącej (SMTP):">
-<!ENTITY smtpServerLabel.accesskey "O">
+<!ENTITY smtpServerLabel.accesskey "o">
 <!ENTITY newsServerLabel.label "Serwer grup dyskusyjnych:">
 <!ENTITY newsServerLabel.accesskey "n">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
@@ -54,6 +54,10 @@
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "Serwer POP">
 <!ENTITY popType.accesskey "P">
+<!ENTITY portNum.label "Port:">
+<!ENTITY portNum.accesskey "t">
+<!ENTITY defaultPortLabel.label "Domyślny:">
+<!ENTITY defaultPortValue.label "">
 <!ENTITY leaveMsgsOnSrvr.label "Pozostaw wiadomości na serwerze">
 <!ENTITY leaveMsgsOnSrvr.accesskey "P">
 
