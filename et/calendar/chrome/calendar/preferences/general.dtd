@@ -49,3 +49,7 @@
 <!ENTITY pref.defaultlength.accesskey "e">
 <!ENTITY pref.defaultsnoozelength.label "Vaikimisi edasi lükkamise kestus:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "t">
+
+<!ENTITY pref.accessibility.label "Hõlbustus">
+<!ENTITY pref.systemcolors.label "Kasutamise hõlbustamiseks optimeeritakse värve">
+<!ENTITY pref.systemcolors.accesskey "v">
