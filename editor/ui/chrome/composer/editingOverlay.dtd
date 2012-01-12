@@ -68,3 +68,11 @@
 <!-- Edit menu items -->
 <!ENTITY publishSettings.label "Configuraziun da la pagina da publicaziun…">
 <!ENTITY publishSettings.accesskey "f">
+
+<!-- Toolbar buttons/items -->
+<!ENTITY newToolbarCmd.label "Nov">
+<!ENTITY newToolbarCmd.tooltip "Crear ina nova pagina da Composer">
+<!ENTITY openToolbarCmd.label "Avrir">
+<!ENTITY openToolbarCmd.tooltip "Avrir ina datoteca locala">
+<!ENTITY saveToolbarCmd.tooltip "Memorisar la datoteca en in'adressa locala">
+<!ENTITY publishToolbarCmd.tooltip "Chargiar la datoeca sin in'adressa externa">

@@ -6,8 +6,8 @@
 
 <!ENTITY importFromNothing.label        "Importar nagut">
 <!ENTITY importFromNothing.accesskey    "n">
-<!ENTITY importFromSeamonkey2.label     "Netscape 6, 7, Mozilla 1.x u SeaMonkey">
-<!ENTITY importFromSeamonkey2.accesskey "s">
+<!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 u pli nov">
+<!ENTITY importFromSeamonkey3.accesskey "S">
 <!ENTITY importFromOExpress.label       "Outlook Express">
 <!ENTITY importFromOExpress.accesskey   "x">
 <!ENTITY importFromOutlook.label        "Outlook">
