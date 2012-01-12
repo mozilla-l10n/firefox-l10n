@@ -327,12 +327,6 @@
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Menu (clique para exibir)">
 <!ENTITY formatToolbar.tooltip "Formatação">
-<!ENTITY newToolbarCmd.label "New">
-<!ENTITY newToolbarCmd.tooltip "Criar uma nova página do Composer">
-<!ENTITY openToolbarCmd.label "Abrir">
-<!ENTITY openToolbarCmd.tooltip "Abrir um arquivo do computador">
-<!ENTITY saveToolbarCmd.tooltip "Salvar a página localmente">
-<!ENTITY publishToolbarCmd.tooltip "Fazer o upload do arquivo">
 <!ENTITY cutToolbarCmd.tooltip "Recortar">
 <!ENTITY copyToolbarCmd.tooltip "Copiar">
 <!ENTITY pasteToolbarCmd.tooltip "Colar">
