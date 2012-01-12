@@ -27,9 +27,7 @@
 
 <!ENTITY awesomebar_default_text "輸入要搜尋的資料或是網址">
 
-<!ENTITY bookmarks_title "書籤">
-<!ENTITY bookmark_add "加入書籤">
-<!ENTITY bookmark_remove "移除">
+<!ENTITY bookmark "書籤">
 <!ENTITY bookmark_added "已新增書籤">
 <!ENTITY bookmark_removed "已移除書籤">
 
