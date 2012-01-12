@@ -43,9 +43,9 @@
 <!ENTITY aboutWarningButton.label "Jau fatsch attenziun, empermess!">
 <!ENTITY aboutWarningCheckbox.label "Mussar quest avis la proxima giada ">
 
-<!ENTITY filterPrefs.label "Filter:">
-<!ENTITY filterPrefs.accesskey "F">
-<!ENTITY focusFilter.key "f">
+<!ENTITY searchPrefs.label "Tschertgar:">
+<!ENTITY searchPrefs.accesskey "r">
+<!ENTITY focusSearch.key "r">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "Num da la preferenza">
