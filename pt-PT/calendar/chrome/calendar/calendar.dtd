@@ -217,6 +217,8 @@
 <!ENTITY calendar.context.progress.accesskey          "P">
 <!ENTITY calendar.context.priority.label              "Prioridade">
 <!ENTITY calendar.context.priority.accesskey          "r">
+<!ENTITY calendar.context.postpone.label              "Adiar tarefa">
+<!ENTITY calendar.context.postpone.accesskey          "f">
 
 <!ENTITY percnt "&#38;#37;" ><!--=percent sign-->
 
