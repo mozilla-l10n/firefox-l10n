@@ -78,8 +78,10 @@
 <!ENTITY lightning.toolbar.mail.label         "E-post">
 <!ENTITY lightning.toolbar.mail.accesskey     "p">
 <!ENTITY lightning.toolbar.calendar.label     "Kalender">
+<!ENTITY lightning.toolbar.calendar.tooltip   "Lülitu kalendri kaardile">
 <!ENTITY lightning.toolbar.calendar.accesskey "K">
 <!ENTITY lightning.toolbar.task.label         "Ülesanded">
+<!ENTITY lightning.toolbar.task.tooltip       "Lülitu ülesannete kaardile">
 <!ENTITY lightning.toolbar.task.accesskey     "Ü">
 
 <!-- Toolbar write button -->
