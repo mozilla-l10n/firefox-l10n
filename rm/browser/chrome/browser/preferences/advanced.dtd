@@ -40,9 +40,9 @@
 <!ENTITY connectionSettings.label        "Preferenzas…">
 <!ENTITY connectionSettings.accesskey    "P">
 
-<!ENTITY httpCache.label                 "Cuntegn dal web en il cache">
+<!ENTITY httpCache.label                 "Cuntegn da web en il cache">
 
-<!ENTITY offlineStorage2.label           "Cuntegn dal web per l'utilisaziun offline e datas d'utilisader">
+<!ENTITY offlineStorage2.label           "Cuntegn da web per l'utilisaziun offline e datas d'utilisader">
 
 
 <!-- LOCALIZATION NOTE:

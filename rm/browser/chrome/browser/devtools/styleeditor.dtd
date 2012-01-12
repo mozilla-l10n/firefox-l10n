@@ -13,12 +13,12 @@
 <!ENTITY window.title               "Editur da stils">
 
 <!ENTITY newButton.label            "Nov">
-<!ENTITY newButton.tooltip          "Crear ed agiuntar al document in nov stylesheet">
+<!ENTITY newButton.tooltip          "Crear ed agiuntar in nov stylesheet al document">
 <!ENTITY newButton.accesskey        "N">
 <!ENTITY newButton.commandkey       "n">
 
 <!ENTITY importButton.label         "Importar…">
-<!ENTITY importButton.tooltip       "Importar ed agiuntar al document in stylesheet existent">
+<!ENTITY importButton.tooltip       "Importar ed agiuntar in stylesheet existent al document">
 <!ENTITY importButton.accesskey     "I">
 <!ENTITY importButton.commandkey    "i">
 
@@ -27,13 +27,13 @@
 
 <!-- LOCALIZATION NOTE  (searchNoResults): This is shown when searching a term
      that is not found in any stylesheet or stylesheet name. -->
-<!ENTITY searchNoResults.label      "Nagin stylesheet correspundent è vegnì chattà.">
+<!ENTITY searchNoResults.label      "Betg chattà in stylesheet correspundent.">
 
 <!-- LOCALIZATION NOTE  (searchClearButton): This button clears the search input
      box and is visible only when a search term has been typed. -->
 <!ENTITY searchClearButton.label    "Stizzar">
 
-<!ENTITY visibilityToggle.tooltip   "Midar la visibilitad dal stylesheet">
+<!ENTITY visibilityToggle.tooltip   "Activar/deactivar la visibilitad dal stylesheet">
 <!ENTITY visibilityToggle.accesskey "V">
 
 <!ENTITY saveButton.label           "Memorisar">
@@ -45,7 +45,7 @@
      when the stylesheet uses the scoped attribute on the <style> element. -->
 <!ENTITY scoped.label               "Attribut 'scope'.">
 
-<!ENTITY editorTextbox.placeholder  "Tippar qua tes CSS.">
+<!ENTITY editorTextbox.placeholder  "Tippa qua tes CSS.">
 
 <!-- LOCALICATION NOTE  (noStyleSheet.label): This is shown when a page has no
      stylesheet. -->
@@ -54,7 +54,7 @@
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-start.label): This is the start of a
      tip sentence shown when there is no stylesheet. It suggests to create a new
      stylesheet and provides an action link to do so. -->
-<!ENTITY noStyleSheet-tip-start.label  "Forsa vuls ti gea ">
+<!ENTITY noStyleSheet-tip-start.label  "Forsa vuls ti ">
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-action.label): This is text for the
      link that triggers creation of a new stylesheet. -->
 <!ENTITY noStyleSheet-tip-action.label "agiuntar in nov stylesheet">
