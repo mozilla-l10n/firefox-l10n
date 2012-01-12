@@ -44,9 +44,9 @@
 <!ENTITY aboutWarningButton.label "Serei cuidadoso, prometo!">
 <!ENTITY aboutWarningCheckbox.label "Sempre exibir este alerta">
 
-<!ENTITY filterPrefs.label "Localizar:">
-<!ENTITY filterPrefs.accesskey "o">
-<!ENTITY focusFilter.key "F">
+<!ENTITY searchPrefs.label "Localizar:">
+<!ENTITY searchPrefs.accesskey "o">
+<!ENTITY focusSearch.key "R">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "Nome">

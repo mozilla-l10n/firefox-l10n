@@ -1,5 +1,10 @@
 <!ENTITY addons.windowTitle                   "Complementos">
+
 <!ENTITY search.placeholder                   "Pesquisar complementos">
+<!-- LOCALIZATION NOTE (search.commandKey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "F">
+
 <!ENTITY loading.label                        "Carregando…">
 <!ENTITY listEmpty.installed.label            "Não há nenhum complemento deste tipo instalado">
 <!ENTITY listEmpty.availableUpdates.label     "Nenhuma atualização encontrada.">
@@ -53,7 +58,7 @@
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "D">
 <!ENTITY updates.resetUpdatesToManual.label          "Definir atualização manual para todos">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "D">
-<!ENTITY updates.updating.label               "Atualizando complementos">
+<!ENTITY updates.updating.label               "Atualizando complementos…">
 <!ENTITY updates.installed.label              "Seus complementos foram atualizados.">
 <!ENTITY updates.downloaded.label             "As atualizações de seus complementos foram recebidas.">
 <!ENTITY updates.restart.label                "Reinicie agora para concluir a instalação">
