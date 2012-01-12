@@ -2,7 +2,7 @@
 <!ENTITY itemPhishing.label      "Antifraude">
 <!ENTITY itemPasswords.label     "Senhas">
 <!ENTITY itemAntiVirus.label     "Antivírus">
-<!ENTITY itemCookies.label       "Conteúdo da web">
+<!ENTITY itemCookies.label       "Conteúdo web">
 
 <!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro "Defina suas configurações padrão para spam. Opções específicas para cada conta podem ser definidas em “Configurar contas”.">

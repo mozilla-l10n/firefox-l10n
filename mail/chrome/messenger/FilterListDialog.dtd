@@ -14,7 +14,7 @@
 <!ENTITY filterHeader.label "Aplicar os filtros automaticamente na ordem abaixo:">
 <!ENTITY filtersForPrefix.label "Configurar filtros para:">
 <!ENTITY filtersForPrefix.accesskey "o">
-<!ENTITY viewLogButton.label "Exibir log">
+<!ENTITY viewLogButton.label "Exibir relatório">
 <!ENTITY viewLogButton.accesskey "l">
 <!ENTITY runFilters.label "Aplicar agora">
 <!ENTITY runFilters.accesskey "A">

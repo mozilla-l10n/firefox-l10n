@@ -47,7 +47,12 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Documento fora de validade">
-<!ENTITY notCached.longDesc "<p>The requested document is not available in the cache.</p><ul><li>As a security precaution, &brandShortName; does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
+<!ENTITY notCached.longDesc "<p>O documento solicitado não está mais no cache de navegação.</p>
+<ul>
+<li>Como precaução de segurança, o &brandShortName; não solicita automaticamente documentos contendo informações confidenciais.</li>
+<li>Clique em “Tentar de novo” para solicitar mais uma vez o documento do site.</li>
+</ul>
+">
 
 <!ENTITY netOffline.title "Modo offline">
 <!ENTITY netOffline.longDesc2 "

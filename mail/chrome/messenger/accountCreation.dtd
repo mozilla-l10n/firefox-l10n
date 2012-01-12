@@ -47,7 +47,7 @@
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Retestar">
 <!ENTITY half-manual-test.accesskey      "R">
-<!ENTITY manual-edit.label               "Config manual">
+<!ENTITY manual-edit.label               "Config. manual">
 <!ENTITY manual-edit.accesskey           "o">
 <!ENTITY switch-to-provisioner.label     "Criar conta de email">
 <!ENTITY switch-to-provisioner.accesskey "r">
