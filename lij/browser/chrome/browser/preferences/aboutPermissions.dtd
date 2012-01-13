@@ -11,7 +11,7 @@
 
 <!ENTITY header.defaults                 "Permissi normali pe tutti i scîti">
 
-<!ENTITY permissions.forgetSite          "Ascòrdite de questo scîto">
+<!ENTITY permissions.forgetSite          "Ascòrdite de sto scîto">
 
 <!ENTITY permission.alwaysAsk            "Domanda de lóngo">
 <!ENTITY permission.allow                "Permétti">

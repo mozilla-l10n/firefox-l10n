@@ -7,7 +7,7 @@ a replacement for the standard security certificate errors produced
 by NSS/PSM via netError.xhtml. -->
 
 <!ENTITY certerror.pagetitle  "Conesción no segûa">
-<!ENTITY certerror.longpagetitle "Questa conesción a no l'é segûa">
+<!ENTITY certerror.longpagetitle "Quésta conesción a no l'é segûa">
 
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
@@ -16,7 +16,7 @@ was trying to connect. -->
 <!ENTITY certerror.introPara2 "Spésse vòtte, quande ti prêuvi a conétite in mòddo segûo, o scîto o te domànda 'na identificaçión pe confermâ che ti væ into scîto giùsto. Ma l'identitæ do scîto a no se peu verificâ.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Cöse gh’ò da fâ?">
-<!ENTITY certerror.whatShouldIDo.content "Se spèsse vòtte ti te conétti a questo scîto sénsa dificoltæ alôa veu dî che o gh'é quarchedùn che o prêuva a fâ fìnta de êse o scîto, e ti no ti dovesci continoâ.">
+<!ENTITY certerror.whatShouldIDo.content "Se spèsse vòtte ti te conétti a quésto scîto sénsa dificoltæ alôa veu dî che o gh'é quarchedùn che o prêuva a fâ fìnta de êse o scîto, e ti no ti dovesci continoâ.">
 <!ENTITY certerror.getMeOutOfHere.label "Pòrtime fêua de chi!">
 
 <!ENTITY certerror.expert.heading "Capìscio i rìschi">

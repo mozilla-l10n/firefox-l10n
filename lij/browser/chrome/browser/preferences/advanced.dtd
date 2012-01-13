@@ -28,7 +28,7 @@
 <!ENTITY alwaysCheckDefault.accesskey    "i">
 <!ENTITY checkNow.label                  "Contròlla òua">
 <!ENTITY checkNow.accesskey              "n">
-<!ENTITY submitCrashes.label             "Segnala un problêma">
+<!ENTITY submitCrashes.label             "Segnâla un problêma">
 <!ENTITY submitCrashes.accesskey         "S">
 <!ENTITY submitTelemetry.label           "Manda informaçion in sciô fonçionamento">
 <!ENTITY submitTelemetry.accesskey       "M">
@@ -71,7 +71,7 @@
 <!ENTITY updateManual.label              "No çercâ mâi i agiornaménti (no racomandòu: rezego de seguéssa)">
 <!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateAutoAddonWarn.label       "Avertime se questo dizabilita quarchedùn di mæ conponénti azónti">
+<!ENTITY updateAutoAddonWarn.label       "Avertime se quésto dizabilita quarchedùn di mæ conponénti azónti">
 <!ENTITY updateAutoAddonWarn.accesskey   "A">
 
 <!ENTITY updateHistory.label             "Fànni védde a stöia di agiórnamenti">

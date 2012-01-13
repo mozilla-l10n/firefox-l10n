@@ -10,7 +10,7 @@
 
 <!ENTITY fileMenu.label "File">
 <!ENTITY fileMenu.accesskey "F">
-<!ENTITY savePageCmd.label "Sarva pàgina co-o nómme…">
+<!ENTITY savePageCmd.label "Sàrva pàgina co-o nómme…">
 <!ENTITY savePageCmd.accesskey "a">
 <!ENTITY savePageCmd.commandkey "S">
 <!ENTITY pageSetupCmd.label "Inpòsta pàgina…">

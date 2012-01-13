@@ -14,7 +14,7 @@
 
 <!ENTITY  checking.wizard.title           "Contròllo a conpatibilitæ di conponénti azónti">
 <!ENTITY  checking.top.label              "Contròllo se gh'é di agiornaménti pe i teu conponénti azónti che no son conpatibili">
-<!ENTITY  checking.status                 "Questo peu pigiâ quàrche menûto…">
+<!ENTITY  checking.status                 "Quésto o peu pigiâ quàrche menûto…">
 
 <!ENTITY  found.wizard.title               "Trovæ conponénti azónti conpatibili">
 <!ENTITY  found.top.label                 "Seleçionn-a i cònponenti azónti che ti veu instalâ:">
@@ -48,7 +48,7 @@
 <!ENTITY  versioninfo.wizard.title        "Contròllo a compatibilitæ di sti conponénti azónti">
 <!ENTITY  versioninfo.top.label           "Contròllo a compatibilitæ di conponénti azónti pe sta
                                            versción de &brandShortName;.">
-<!ENTITY  versioninfo.waiting             "Questo peu pigiâ quàrche menûto…">
+<!ENTITY  versioninfo.waiting             "Quésto o peu pigiâ quàrche menûto…">
 
 <!ENTITY  installerrors.wizard.title      "Problêmi a instalâ i agiornaménti">
 <!ENTITY  installerrors.intro.label       "&brandShortName; o l'à avûo di problêmi a agiornâ

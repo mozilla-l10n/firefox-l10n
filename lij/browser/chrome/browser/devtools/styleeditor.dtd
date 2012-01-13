@@ -36,8 +36,8 @@
 <!ENTITY visibilityToggle.tooltip   "Invèrti a vizibilitæ do féuggio de stîle">
 <!ENTITY visibilityToggle.accesskey "V">
 
-<!ENTITY saveButton.label           "Sarva">
-<!ENTITY saveButton.tooltip         "Sarva sto féuggio de stîle inte 'n file">
+<!ENTITY saveButton.label           "Sàrva">
+<!ENTITY saveButton.tooltip         "Sàrva sto féuggio de stîle inte 'n file">
 <!ENTITY saveButton.accesskey       "S">
 <!ENTITY saveButton.commandkey      "S">
 

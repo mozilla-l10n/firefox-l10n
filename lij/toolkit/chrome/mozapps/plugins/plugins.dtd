@@ -36,7 +36,7 @@
 <!ENTITY reloadPlugin.post                                   " pe provâ ancón.">
 <!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
 <!ENTITY report.checkbox                                     "…e mànda o report do ciànto">
-<!ENTITY report.submitting                                   "Spedisco o report…">
+<!ENTITY report.submitting                                   "Spediscio o report…">
 <!ENTITY report.submitted                                    "Report do problêma spediô.">
 <!ENTITY report.disabled                                     "Registro di problêmi dizabilitòu.">
 <!ENTITY report.failed                                       "Spediçión no arioscîa.">

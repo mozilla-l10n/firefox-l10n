@@ -109,11 +109,11 @@
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 <!ENTITY discover.title                       "E cöse son sti Conponénti azónti?">
-<!ENTITY discover.description2                "I conponénti azónti son aplicaçioìn che te peuan agiùtâ a personalizâ o &brandShortName; gràçie
+<!ENTITY discover.description2                "I conponénti azónti son aplicaçioìn che te peuan agiutâ a personalizâ o &brandShortName; gràçie
   a âtre funçionaliæ ò stîli. Prêuvâ 'na bâra pe risparmiâ do ténpo, in notiçiario do ténpo ò 'n têma pe fâ davéi o 
   teu &brandShortName;.">
-<!ENTITY discover.footer                      "Quande t'ê conésso a internet, sto panello
-  o te faiâ védde quàrchedùn di ciù pòpolari conponénti azónti da prêuvâ.">
+<!ENTITY discover.footer                      "Quande ti t'ê conésso a internet, sto panéllo
+  o te faiâ védde quarchedùn di ciù pòpolari conponénti azónti da provâ.">
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Versción">

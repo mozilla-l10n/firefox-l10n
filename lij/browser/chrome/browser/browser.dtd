@@ -97,10 +97,10 @@ can reach it easily. -->
 
 <!ENTITY bookmarksMenu.label "Segnalìbbri">
 <!ENTITY bookmarksMenu.accesskey "b">
-<!ENTITY bookmarkThisPageCmd.label "Azónzi questa pagina a-i segnalìbbri">
+<!ENTITY bookmarkThisPageCmd.label "Azónzi quésta pàgina a-i segnalìbbri">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY subscribeToPageMenupopup.label "Abón-ite a sta pàgina">
-<!ENTITY subscribeToPageMenuitem.label "Abón-ite a questa pàgina…">
+<!ENTITY subscribeToPageMenuitem.label "Abón-ite a quésta pàgina…">
 <!ENTITY addCurPagesCmd.label "Azónzi tùtti i féuggi a-i segnalìbbri…">
 <!ENTITY showAllBookmarks2.label "Fànni védde tùtti i segnalìbbri">
 <!ENTITY unsortedBookmarksCmd.label "Âtri segnalìbbri">
@@ -123,7 +123,7 @@ can reach it easily. -->
 <!ENTITY stopButton.tooltip           "Fermite de caregâ sta pagina">
 <!ENTITY goEndCap.tooltip             "Vanni a l'indirìsso in sciâ bâra di indirìssi">
 <!ENTITY printButton.label            "Stànpa">
-<!ENTITY printButton.tooltip          "Stànpa questa pàgina">
+<!ENTITY printButton.tooltip          "Stànpa quésta pàgina">
 
 <!ENTITY backForwardItem.title        "Inderê/Avànti">
 <!ENTITY locationItem.title           "Indirìsso">
@@ -140,7 +140,7 @@ can reach it easily. -->
 <!ENTITY tabGroupsButton.tooltip      "Ragrùppa i teu féuggi">
 
 <!ENTITY feedButton.label             "Abón-ite">
-<!ENTITY feedButton.tooltip           "Abón-ite a sta pagina…">
+<!ENTITY feedButton.tooltip           "Abón-ite a sta pàgina…">
 
 <!ENTITY bookmarksButton.label          "Segnalìbbri">
 <!ENTITY bookmarksButton.tooltip        "Vèddi i teu segnalìbbri">
@@ -167,7 +167,7 @@ can reach it easily. -->
 <!ENTITY toolsMenu.label              "Struménti">
 <!ENTITY toolsMenu.accesskey          "t"> 
 
-<!ENTITY keywordfield.label           "Azónzi 'na paròlla ciâve pe questa riçerca…">
+<!ENTITY keywordfield.label           "Azónzi 'na paròlla ciâve pe quésta riçerca…">
 <!ENTITY keywordfield.accesskey       "A">
 <!ENTITY search.label                 "Riçerca in sciô web">
 <!ENTITY search.accesskey             "s">
@@ -255,7 +255,7 @@ can reach it easily. -->
 <!ENTITY pasteCmd.label           "Incòlla">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "I"> 
-<!ENTITY deleteCmd.label          "Scancella">  
+<!ENTITY deleteCmd.label          "Scancélla">  
 <!ENTITY deleteCmd.key            "D">  
 <!ENTITY deleteCmd.accesskey        "S"> 
 <!ENTITY selectAllCmd.label         "Seleçionn-a tùtto">  
@@ -382,32 +382,32 @@ can reach it easily. -->
 <!ENTITY viewBGImageCmd.accesskey     "F">
 <!ENTITY setDesktopBackgroundCmd.label      "Inpòsta cómme sfondo do desktop…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "s">
-<!ENTITY bookmarkPageCmd2.label       "Azónzi questa pagina a-i segnalìbbri">
+<!ENTITY bookmarkPageCmd2.label       "Azónzi quésta pagina a-i segnalìbbri">
 <!ENTITY bookmarkPageCmd2.accesskey   "A">
-<!ENTITY bookmarkThisLinkCmd.label      "Azónzi questo colegamento a-i segnalìbbri">
+<!ENTITY bookmarkThisLinkCmd.label      "Azónzi quésto colegamento a-i segnalìbbri">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Azónzi sto riquàddro a-i segnalìbbri">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "A">
 <!ENTITY sendPageCmd.label            "Spedisci colegamento…">
 <!ENTITY sendPageCmd.accesskey        "e">
-<!ENTITY savePageCmd.label            "Sarva pàgina co-o nómme…">
+<!ENTITY savePageCmd.label            "Sàrva pàgina co-o nómme…">
 <!ENTITY savePageCmd.accesskey        "a">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameCmd.label           "Sarva riquàddro co-o nómme…">
+<!ENTITY saveFrameCmd.label           "Sàrva riquàddro co-o nómme…">
 <!ENTITY saveFrameCmd.accesskey       "S">
 <!ENTITY printFrameCmd.label          "Stànpa riquàddro…">
 <!ENTITY printFrameCmd.accesskey      "p">
-<!ENTITY saveLinkCmd.label            "Sarva destinaçión co-o nómme…">
+<!ENTITY saveLinkCmd.label            "Sàrva destinaçión co-o nómme…">
 <!ENTITY saveLinkCmd.accesskey        "S">
 <!ENTITY sendLinkCmd.label            "Spedisci colegamento…"> 
 <!ENTITY sendLinkCmd.accesskey        "d">
-<!ENTITY saveImageCmd.label           "Sarva inmàgine co-o nómme…">
+<!ENTITY saveImageCmd.label           "Sàrva inmàgine co-o nómme…">
 <!ENTITY saveImageCmd.accesskey       "v">
-<!ENTITY saveVideoCmd.label           "Sarva videò co-o nómme…">
+<!ENTITY saveVideoCmd.label           "Sàrva video co-o nómme…">
 <!ENTITY saveVideoCmd.accesskey       "v">
-<!ENTITY saveAudioCmd.label           "Sarva són co-o nómme…">
+<!ENTITY saveAudioCmd.label           "Sàrva són co-o nómme…">
 <!ENTITY saveAudioCmd.accesskey       "v">
 <!ENTITY sendImageCmd.label           "Spedisci inmàgine…">
 <!ENTITY sendImageCmd.accesskey       "n">
@@ -454,7 +454,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaHideControls.accesskey "c">
 <!ENTITY videoFullScreen.label       "A tùtto schermo">
 <!ENTITY videoFullScreen.accesskey   "A">
-<!ENTITY videoSaveImage.label        "Sarva l'inmàgine cómme…">
+<!ENTITY videoSaveImage.label        "Sàrva l'inmàgine cómme…">
 <!ENTITY videoSaveImage.accesskey    "S">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu

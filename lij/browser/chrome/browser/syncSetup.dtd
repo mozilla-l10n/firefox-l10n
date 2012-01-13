@@ -49,7 +49,7 @@
 
 <!ENTITY button.syncKeyBackup.print.label     "Stànpa…">
 <!ENTITY button.syncKeyBackup.print.accesskey "p">
-<!ENTITY button.syncKeyBackup.save.label      "Sarva…">
+<!ENTITY button.syncKeyBackup.save.label      "Sàrva…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
 
 <!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
@@ -62,7 +62,7 @@
 <!ENTITY addDevice.dialog.enterCode.label   "Inserisci o còdice che o te dixe l'aparâto:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Pe favô preuva ancón.">
 <!ENTITY addDevice.dialog.successful.label  "L'aparâto o l'é stæto azónto. A prìmma iniçializaçión peu pigiâ quàrche menûto e a finiâ tanto chi ti fæ de l'âtro.">
-<!ENTITY addDevice.dialog.recoveryKey.label     "Pe ativâ o teu aparâto t'æ bezéugno de inserî a teu Ciâve de repìggio. Pe favô fanni 'na stànpa ò sarva sta ciâve e pöi pòrtila con ti.">
+<!ENTITY addDevice.dialog.recoveryKey.label     "Pe ativâ o teu aparâto t'æ bezéugno de inserî a teu Ciâve de repìggio. Pe favô fanni 'na stànpa ò sàrva sta ciâve e pöi pòrtila con ti.">
 <!ENTITY addDevice.dialog.connected.label   "Aparâto Conésso">
 
 <!-- Existing Account Page 2: Manual Login -->

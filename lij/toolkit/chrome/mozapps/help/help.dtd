@@ -19,7 +19,7 @@
 <!ENTITY homeButton.label               "Pàgina iniçiâ">
 <!ENTITY homeButton.tooltip             "Vanni a-a pàgina iniçiâ do agiùtto">
 <!ENTITY printButton.label              "Stànpa">
-<!ENTITY printButton.tooltip            "Stànpa questa pàgina">
+<!ENTITY printButton.tooltip            "Stànpa quésta pàgina">
 <!ENTITY closeWindow.commandkey         "W">
 
 <!ENTITY search.emptytext               "Riçerca">

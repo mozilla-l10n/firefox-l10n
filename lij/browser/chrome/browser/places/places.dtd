@@ -44,9 +44,9 @@
 
 <!ENTITY cmd.bookmarkLink.label         "Azónzi sta pagina a-i segnalìbbri…">
 <!ENTITY cmd.bookmarkLink.accesskey     "b">
-<!ENTITY cmd.delete.label               "Leva da mêzo sta pagina">
+<!ENTITY cmd.delete.label               "Lêva da mêzo sta pàgina">
 <!ENTITY cmd.delete.accesskey           "d">
-<!ENTITY cmd.deleteDomainData.label     "Ascòrdite de questo scîto">
+<!ENTITY cmd.deleteDomainData.label     "Ascòrdite de quésto scîto">
 <!ENTITY cmd.deleteDomainData.accesskey "A">
 
 <!ENTITY cmd.open.label                  "Arvi">
@@ -101,7 +101,7 @@
 <!ENTITY search.scopeDownloads.accesskey           "D">
 <!ENTITY search.scopeHistory.label                 "Stöia">
 <!ENTITY search.scopeHistory.accesskey             "S">
-<!ENTITY saveSearch.label                          "Sarva">
+<!ENTITY saveSearch.label                          "Sàrva">
 <!ENTITY saveSearch.accesskey                      "S">
 
 <!ENTITY cmd.find.key  "f">

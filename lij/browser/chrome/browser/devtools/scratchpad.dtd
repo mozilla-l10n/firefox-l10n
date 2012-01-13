@@ -29,11 +29,11 @@
 <!ENTITY openFileCmd.accesskey        "O">
 <!ENTITY openFileCmd.commandkey       "o">
 
-<!ENTITY saveFileCmd.label            "Sarva">
+<!ENTITY saveFileCmd.label            "Sàrva">
 <!ENTITY saveFileCmd.accesskey        "S">
 <!ENTITY saveFileCmd.commandkey       "s">
 
-<!ENTITY saveFileAsCmd.label          "Sarva cómme…">
+<!ENTITY saveFileAsCmd.label          "Sàrva cómme…">
 <!ENTITY saveFileAsCmd.accesskey      "A">
 
 <!ENTITY closeCmd.label               "Særa">
