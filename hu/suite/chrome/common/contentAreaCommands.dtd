@@ -1,4 +1,3 @@
-<!-- Context Menu -->
 <!ENTITY popupWindowRejectCmd.label "Felugró ablakok visszautasítása erről a webhelyről">
 <!ENTITY popupWindowRejectCmd.accesskey "v">
 <!ENTITY popupWindowAllowCmd.label "Felugró ablakok engedélyezése erről a webhelyről">
@@ -104,6 +103,12 @@
 <!ENTITY mediaHideControls.accesskey "e">
 <!ENTITY videoFullScreen.label "Teljes képernyős üzemmód">
 <!ENTITY videoFullScreen.accesskey "T">
+<!ENTITY videoSaveImage.label         "Pillanatkép mentése…">
+<!ENTITY videoSaveImage.accesskey     "S">
+<!ENTITY videoShowStats.label         "Statisztika megjelenítése">
+<!ENTITY videoShowStats.accesskey     "t">
+<!ENTITY videoHideStats.label         "Statisztika elrejtése">
+<!ENTITY videoHideStats.accesskey     "t">
 <!ENTITY search.accesskey "W">
 <!ENTITY bidiSwitchPageDirectionItem.label "Oldal irányának átváltása">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey "l">
