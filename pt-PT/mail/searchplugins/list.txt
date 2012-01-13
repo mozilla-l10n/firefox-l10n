@@ -1,8 +1,6 @@
-amazondotcom
-aol-web-search
-bing
-eBay
 google
-twitter
-wikipedia
-yahoo
+sapo
+priberam
+wikipedia-ptpt
+amazon-en-GB
+
