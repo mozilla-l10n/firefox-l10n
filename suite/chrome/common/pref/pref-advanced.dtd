@@ -9,3 +9,7 @@
 <!ENTITY prefCheckDefault.caption "Rendszer alapbeállításai">
 <!ENTITY prefCheckDefaultClient.label "Alapértelmezett programok beállításának ellenőrzése inuláskor">
 <!ENTITY prefCheckDefaultClient.accesskey "A">
+
+<!ENTITY crashReports.caption       "Hibabejelentő">
+<!ENTITY submitCrashes.label        "Hibajelentés küldése">
+<!ENTITY submitCrashes.accesskey    "b">
