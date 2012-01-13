@@ -388,7 +388,7 @@ can reach it easily. -->
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Azónzi sto riquàddro a-i segnalìbbri">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "A">
-<!ENTITY sendPageCmd.label            "Spedisci colegamento…">
+<!ENTITY sendPageCmd.label            "Spedìsci colegaménto…">
 <!ENTITY sendPageCmd.accesskey        "e">
 <!ENTITY savePageCmd.label            "Sàrva pàgina co-o nómme…">
 <!ENTITY savePageCmd.accesskey        "a">
@@ -401,7 +401,7 @@ can reach it easily. -->
 <!ENTITY printFrameCmd.accesskey      "p">
 <!ENTITY saveLinkCmd.label            "Sàrva destinaçión co-o nómme…">
 <!ENTITY saveLinkCmd.accesskey        "S">
-<!ENTITY sendLinkCmd.label            "Spedisci colegamento…"> 
+<!ENTITY sendLinkCmd.label            "Spedìsci colegamento…"> 
 <!ENTITY sendLinkCmd.accesskey        "d">
 <!ENTITY saveImageCmd.label           "Sàrva inmàgine co-o nómme…">
 <!ENTITY saveImageCmd.accesskey       "v">
@@ -409,11 +409,11 @@ can reach it easily. -->
 <!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "Sàrva són co-o nómme…">
 <!ENTITY saveAudioCmd.accesskey       "v">
-<!ENTITY sendImageCmd.label           "Spedisci inmàgine…">
+<!ENTITY sendImageCmd.label           "Spedìsci inmàgine…">
 <!ENTITY sendImageCmd.accesskey       "n">
-<!ENTITY sendVideoCmd.label           "Spedisci videò…">
+<!ENTITY sendVideoCmd.label           "Spedìsci videò…">
 <!ENTITY sendVideoCmd.accesskey       "S">
-<!ENTITY sendAudioCmd.label           "Spedisci són…">
+<!ENTITY sendAudioCmd.label           "Spedìsci són…">
 <!ENTITY sendAudioCmd.accesskey       "n">
 <!ENTITY copyLinkCmd.label            "Còpia indirìsso">
 <!ENTITY copyLinkCmd.accesskey        "a">
