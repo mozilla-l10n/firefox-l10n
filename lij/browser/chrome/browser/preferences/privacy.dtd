@@ -1,4 +1,4 @@
-<!ENTITY tracking.label                 "Tracia">
+<!ENTITY tracking.label                 "Traciaménto">
 
 <!ENTITY doNotTrack.label               "Dinni a-i scîti che mi no véuggio êse traciòu">
 <!ENTITY doNotTrack.accesskey           "D">
@@ -7,7 +7,7 @@
 
 <!ENTITY  locationBar.label             "Bâra di indìrissi">
 
-<!ENTITY  locbar.pre.label              "Quande ûzo a bâra di indìrissi, dìnni:">
+<!ENTITY  locbar.pre.label              "Quànde ûzo a bâra di indìrissi, dìnni:">
 <!ENTITY  locbar.pre.accessKey          "d">
 <!ENTITY  locbar.post.label             "">
 <!ENTITY  locbar.both.label             "Stöia e Segnalìbbri">
@@ -73,7 +73,7 @@
 <!ENTITY  rememberSearchForm.label       "Aregòrda e riçerche e a stöia di mòduli">
 <!ENTITY  rememberSearchForm.accesskey   "A">
 
-<!ENTITY  clearOnClose.label             "Scancella a stöia quando o &brandShortName; se særa">
+<!ENTITY  clearOnClose.label             "Scancélla a stöia quàndo o &brandShortName; o se særa">
 <!ENTITY  clearOnClose.accesskey         "r">
 
 <!ENTITY  clearOnCloseSettings.label     "Inpostaçioìn…">

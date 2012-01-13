@@ -5,6 +5,6 @@
 <!ENTITY setPassword.reenterPassword.label "Reinserisci paròlla segrétta:">
 <!ENTITY setPassword.meter.label           "Qualitæ da paròlla segrétta">
 <!ENTITY setPassword.meter.loading         "Caregando">
-<!ENTITY masterPasswordDescription.label   "'Na paròlla segrétta prinçipâ a l'é uzâ pe protézze i dæti senscìbili cómme e paròlle segrétte di scîti. Se ti ti veu creâ 'na paròlla segrétta prinçipâ a te saiâ domandâ 'na vòtta pe ògni seçión quande o &brandShortName; deve uzâ e informaçioìn protette.">
+<!ENTITY masterPasswordDescription.label   "'Na paròlla segrétta prinçipâ a l'é uzâ pe protézze i dæti senscìbili cómme e paròlle segrétte di scîti. Se ti ti veu creâ 'na paròlla segrétta prinçipâ a te saiâ domandâ 'na vòtta pe ògni seçión quànde o &brandShortName; deve uzâ e informaçioìn protette.">
 <!ENTITY masterPasswordWarning.label       "Pe favô no ascordâte da teu paròlla segrétta prinçipâ. Se t'ascòrdi no ti saiê in gràddo de acêde a-e teu informaçioìn protette.">
 

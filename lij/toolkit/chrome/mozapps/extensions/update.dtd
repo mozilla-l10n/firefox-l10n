@@ -29,7 +29,7 @@
 <!ENTITY  noupdates.wizard.title          "Trovæ conponénti azónti no conpatibili">
 <!ENTITY  noupdates.intro.desc            "&brandShortName; o no riêsce a trovâ agiornaménti pe-i teu
                                            conponénti azónti che no son conpatibili.">
-<!ENTITY  noupdates.error.desc            "Ghe son stæti problêmi intanto che çercavo i agiornaménti.">
+<!ENTITY  noupdates.error.desc            "Ghe son stæti problêmi fintànto che çercâvo i agiornaménti.">
 <!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; o contròliâ periodicamente e ti informiâ se
                                            gh'é di agiórnamenti compatibili pe sti conponénti azónti.">
 

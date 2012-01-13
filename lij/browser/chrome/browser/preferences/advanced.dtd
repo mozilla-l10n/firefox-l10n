@@ -6,9 +6,9 @@
 
 <!ENTITY useCursorNavigation.label       "Ûza sémpre i pomélli de direçión pe navegâ in scie pagine">
 <!ENTITY useCursorNavigation.accesskey   "c">
-<!ENTITY searchStartTyping.label         "Çerca o testo quando iniçio a scrîve">
+<!ENTITY searchStartTyping.label         "Çerca o testo quàndo iniçio a scrîve">
 <!ENTITY searchStartTyping.accesskey     "Ç">
-<!ENTITY blockAutoRefresh.label          "Avertime quande i scîti preuvan a redireçionâ ò recaregâ a pàgina">
+<!ENTITY blockAutoRefresh.label          "Avertime quànde i scîti preuvan a redireçionâ ò recaregâ a pàgina">
 <!ENTITY blockAutoRefresh.accesskey      "p">
 
 <!ENTITY browsing.label                  "Çerca">
@@ -84,7 +84,7 @@
 <!ENTITY enableSearchUpdate.label        "Motô de riçerca">
 <!ENTITY enableSearchUpdate.accesskey    "M">
 
-<!ENTITY offlineNotify.label             "Dimme quando un scîto o domanda de sarvâ dæti pe êse uzæ fêua linia">
+<!ENTITY offlineNotify.label             "Dìmme quàndo un scîto o domanda de sarvâ dæti pe êse uzæ fêua linia">
 <!ENTITY offlineNotify.accesskey         "t">
 <!ENTITY offlineNotifyExceptions.label   "Eceçioìn…">
 <!ENTITY offlineNotifyExceptions.accesskey "E">
@@ -103,7 +103,7 @@
 <!ENTITY useTLS1.label                   "Ûza TLS 1.0">
 <!ENTITY useTLS1.accesskey               "1">
 <!ENTITY certificates.label              "Certificâti">
-<!ENTITY certSelection.description       "Quando un server o domanda i mæ certificâti:">
+<!ENTITY certSelection.description       "Quàndo un server o domanda i mæ certificâti:">
 <!ENTITY certs.auto                      "Seleçionn-a un in aotomàtico">
 <!ENTITY certs.auto.accesskey            "l">
 <!ENTITY certs.ask                       "Domandamelo tùtte e vòtte">

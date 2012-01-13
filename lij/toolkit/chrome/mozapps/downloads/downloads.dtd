@@ -41,8 +41,8 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.find.commandKey              "f">
 <!ENTITY cmd.search.commandKey            "k">
 
-<!ENTITY closeWhenDone.label              "Særa quande i descaregaménti son conpletæ">
-<!ENTITY closeWhenDone.tooltip            "Særa o barcón di descaregaménti quande son tùtti conpletæ">
+<!ENTITY closeWhenDone.label              "Særa quànde i descaregaménti son conpletæ">
+<!ENTITY closeWhenDone.tooltip            "Særa o barcón di descaregaménti quànde son tùtti conpletæ">
 
 <!ENTITY showFolder.label                 "Fànni védde sta cartélla">
 <!ENTITY searchBox.label                  "Çerca…">

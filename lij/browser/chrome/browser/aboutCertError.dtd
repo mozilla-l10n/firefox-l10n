@@ -13,7 +13,7 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara1 "Ti ti veu che o &brandShortName; o se conétta in manêa segùa a <b>#1</b>, ma niâtri mîga poémmo confermâ che a teu conesción a segge segûa.">
-<!ENTITY certerror.introPara2 "Spésse vòtte, quande ti prêuvi a conétite in mòddo segûo, o scîto o te domànda 'na identificaçión pe confermâ che ti væ into scîto giùsto. Ma l'identitæ do scîto a no se peu verificâ.">
+<!ENTITY certerror.introPara2 "Spésse vòtte, quànde ti prêuvi a conétite in mòddo segûo, o scîto o te domànda 'na identificaçión pe confermâ che ti væ into scîto giùsto. Ma l'identitæ do scîto a no se peu verificâ.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Cöse gh’ò da fâ?">
 <!ENTITY certerror.whatShouldIDo.content "Se spèsse vòtte ti te conétti a quésto scîto sénsa dificoltæ alôa veu dî che o gh'é quarchedùn che o prêuva a fâ fìnta de êse o scîto, e ti no ti dovesci continoâ.">

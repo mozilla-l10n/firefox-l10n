@@ -9,6 +9,6 @@
 <!ENTITY serviceURL.accesskey         "s">
 <!ENTITY signingCA.label              "Rispósta de chi firma:">
 <!ENTITY signingCA.accesskey          "R">
-<!ENTITY requireOCSP.label            "Quande 'na conesción a 'n server OCSP a cazze piggia o certificâto cómme no valido">
+<!ENTITY requireOCSP.label            "Quànde 'na conesción a 'n server OCSP a càzze pìggia o certificâto cómme no vàlido">
 <!ENTITY requireOCSP.accesskey        "Q">
 
