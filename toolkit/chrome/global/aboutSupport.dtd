@@ -16,7 +16,7 @@
 <!ENTITY aboutSupport.appBasicsMemoryUse "Utilizzo memoria">
 <!ENTITY aboutSupport.show.label "Apri cartella">
 <!ENTITY aboutSupport.showMac.label "Mostra nel Finder">
-<!ENTITY aboutSupport.modifiedPrefsTitle "Preferenze modificate">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Preferenze importanti modificate">
 <!ENTITY aboutSupport.modifiedPrefsName "Nome">
 <!ENTITY aboutSupport.modifiedPrefsValue "Valore">
 <!ENTITY aboutSupport.graphicsTitle "Grafica">
