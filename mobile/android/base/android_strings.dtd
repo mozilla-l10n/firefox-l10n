@@ -73,8 +73,6 @@
 
 <!ENTITY share "Partager">
 <!ENTITY save_as_pdf "Enregistrer en PDF">
-<!ENTITY agent_request_desktop "Demander site pour PC">
-<!ENTITY agent_request_mobile "Demander site pour mobile">
 
 <!ENTITY contextmenu_open_new_tab "Ouvrir dans un nouvel onglet">
 <!ENTITY contextmenu_add_to_launcher "Ajouter à l\u0027écran d\u0027accueil">
