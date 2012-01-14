@@ -74,8 +74,6 @@
 
 <!ENTITY share "Sdílet">
 <!ENTITY save_as_pdf "Uložit jako PDF">
-<!ENTITY agent_request_desktop "Požadovat plnohodnotné stránky">
-<!ENTITY agent_request_mobile "Požadovat mobilní stránky">
 
 <!ENTITY contextmenu_open_new_tab "Otevřít v novém panelu">
 <!ENTITY contextmenu_add_to_launcher "Přidat na úvodní obrazovku">
