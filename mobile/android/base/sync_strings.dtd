@@ -28,7 +28,7 @@
   
 <!-- Setup Fail -->
 <!ENTITY sync.title.fail.label 'Cannot Set Up &syncBrand.shortName.label;'>
-<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; could not connect to the server. Would you like to try again?'>
+<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; no se pudo conectar al servidor. ¿Querés probar de nuevo?'>
 <!ENTITY sync.button.tryagain.label 'Intentar nuevamente'>
 <!ENTITY sync.button.manual.label 'Configuración manual'>
 <!ENTITY sync.subtitle.nointernet.label 'No hay conexión a internet disponible.'>
@@ -42,6 +42,10 @@
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label 'Intentá de nuevo.'>
  
+<!-- Firefox SyncAdapter Settings Screen -->
+<!ENTITY sync.settings.options.label 'Opciones'>
+<!ENTITY sync.summary.pair.label 'Asociar otro dispositivo a tu cuenta de &syncBrand.shortName.label;'>
+
 <!-- Common text -->
 <!ENTITY sync.button.cancel.label 'Cancelar'>
 <!ENTITY sync.button.connect.label 'Conectar'>
@@ -58,3 +62,6 @@
 <!ENTITY bookmarks.folder.unfiled.label 'Marcadores desordenados'>
 <!ENTITY bookmarks.folder.desktop.label 'Marcadores de escritorio'>
 <!ENTITY bookmarks.folder.mobile.label 'Marcadores de celular'>
+
+<!-- Notification strings -->
+<!ENTITY sync.notification.oneaccount.label 'Solamente se soporta una cuenta de  &syncBrand.fullName.label;.'>

@@ -14,11 +14,10 @@
 <!ENTITY editPageCmd.accesskey "E">
 <!ENTITY editPageCmd.commandkey "e">
 
-
 <!ENTITY navbarCmd.label "Barra de navegación">
 <!ENTITY navbarCmd.accesskey "n">
-<!ENTITY personalbarCmd.label "Barra de herramientas personal">
-<!ENTITY personalbarCmd.accesskey "p">
+<!ENTITY bookmarksToolbarCmd.label     "Barra de marcadores">
+<!ENTITY bookmarksToolbarCmd.accesskey "m">
 
 <!ENTITY closeWindow.label "Cerrar ventana">
 <!ENTITY closeWindow.accesskey "C">
@@ -30,7 +29,7 @@
 <!ENTITY feedsMenu.accesskey "S">
 
 <!ENTITY menuBar.tooltip                  "Barra de menú">
-<!ENTITY personalToolbar.tooltip          "Barra de herramientas personal">
+<!ENTITY bookmarksToolbar.tooltip         "Barra de marcadores">
 <!ENTITY navigationToolbar.tooltip        "Barra de navegación">
 
 <!-- Toolbar items --> 
