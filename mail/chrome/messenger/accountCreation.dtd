@@ -49,6 +49,8 @@
 <!ENTITY half-manual-test.accesskey      "T">
 <!ENTITY manual-edit.label               "Manuelle innstillingar">
 <!ENTITY manual-edit.accesskey           "M">
+<!ENTITY switch-to-provisioner.label     "Få ein ny konto">
+<!ENTITY switch-to-provisioner.accesskey "F">
 
 
 <!ENTITY warning.label                   "Åtvaring!">
@@ -72,11 +74,11 @@
 <!ENTITY changeSettings.label            "Endre innstillingar">
 <!ENTITY changeSettings.accesskey        "E">
 
-<!ENTITY contactYourProvider.description "&brandShortName; kan la deg laste ned e-post med dei gitte konfigurasjonane. Men du bør kontakte systemansvarleg eller e-posttilbydaren om desse feilaktige tilkoplingane. Sjå Thunderbird FAQ for meir informasjon.">
+<!ENTITY contactYourProvider.description "&brandShortName; kan la deg laste ned e-post med dei gjevne konfigurasjonane. Men du bør kontakte systemansvarleg eller e-posttilbydaren om desse feilaktige tilkoplingane. Sjå Thunderbird FAQ for meir informasjon.">
 
 <!ENTITY insecureServer.tooltip.title    "Åtvaring! Dette er ein utrygg tenar.">
-<!ENTITY insecureServer.tooltip.details  "Click circle for more details.">
+<!ENTITY insecureServer.tooltip.details  "Trykk på sirkelen for meir informasjon.">
 
 <!ENTITY insecureUnencrypted.description "Autentisering av e-posten din er sendt utan kryptering, slik at passord (og meldingar) lett kan lesast av andre personar. &brandShortName; vil la deg hente e-posten din, men du burde kontakte e-posttilbydaren din om oppsett av tenaren for sikkert samband.">
-<!ENTITY insecureSelfSigned.description  "Tenaren brukar eit sertifikat som vi ikkje kan stole på, og vi kan derfor ikkje vere sikre på at nokon fangar opp trafikken mellom &brandShortName; og tenaren. &brandShortName; lèt deg bruke e-posten likevel, men du bør verkeleg få e-posttilbydaren til å konfigurere tenaren med eit tiltrudd sertifikat.">
+<!ENTITY insecureSelfSigned.description  "Tenaren brukar eit sertifikat som vi ikkje kan stole på, og vi kan difor ikkje vere sikre på at nokon fangar opp trafikken mellom &brandShortName; og tenaren. &brandShortName; lèt deg bruke e-posten likevel, men du bør verkeleg få e-posttilbydaren til å konfigurere tenaren med eit tiltrudd sertifikat.">
 <!ENTITY secureServer.description        "Gratulerer! Dette er ein trygg tenar.">
