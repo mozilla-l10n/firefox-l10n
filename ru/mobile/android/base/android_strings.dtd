@@ -1,7 +1,7 @@
 <!ENTITY splash_firstrun "Настройка &brandShortName;\u2026">
 <!ENTITY no_space_to_start_error "Недостаточно свободного места для запуска &brandShortName;.">
 <!ENTITY error_loading_file "При попытке загрузки файлов, требуемых для запуска &brandShortName;, произошла ошибка.">
-<!ENTITY awesomebar_all_pages_title "Часто посещаемые">
+<!ENTITY awesomebar_all_pages_title "Топ сайтов">
 <!ENTITY awesomebar_bookmarks_title "Закладки">
 <!ENTITY awesomebar_history_title "История">
 <!ENTITY awesomebar_search_engine "Поиск \&quot;&#037;s\&quot;">
@@ -44,10 +44,10 @@
 <!ENTITY pref_clear_history_confirm "Журнал веб-сёрфинга будет удалён">
 <!ENTITY pref_clear_private_data "Очистить мои данные">
 <!ENTITY pref_clear_private_data_confirm "Настройки веб-сёрфинга, включая пароли и куки, будут удалены">
-<!ENTITY pref_enable_plugins "Включить плагины">
-<!ENTITY pref_enable_plugins_yes "Да">
-<!ENTITY pref_enable_plugins_tap_to_play "По нажатию">
-<!ENTITY pref_enable_plugins_no "Нет">
+<!ENTITY pref_plugins "Плагины">
+<!ENTITY pref_plugins_enabled "Включены">
+<!ENTITY pref_plugins_tap_to_play "По нажатию">
+<!ENTITY pref_plugins_disabled "Отключены">
 <!ENTITY pref_font_size "Размер шрифта">
 <!ENTITY pref_font_size_small "Маленький">
 <!ENTITY pref_font_size_medium "Средний">
@@ -59,8 +59,6 @@
 <!ENTITY downloads "Загрузки">
 <!ENTITY share "Поделиться">
 <!ENTITY save_as_pdf "Сохранить как PDF">
-<!ENTITY agent_request_desktop "Запросить полный сайт">
-<!ENTITY agent_request_mobile "Запросить мобильный сайт">
 <!ENTITY contextmenu_open_new_tab "Открыть в новой вкладке">
 <!ENTITY contextmenu_add_to_launcher "Добавить на домашний экран">
 <!ENTITY contextmenu_share "Поделиться">
