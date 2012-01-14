@@ -74,8 +74,6 @@
 
 <!ENTITY share "透露">
 <!ENTITY save_as_pdf "儲存為 PDF">
-<!ENTITY agent_request_desktop "要求桌面版網站">
-<!ENTITY agent_request_mobile "要求行動版網站">
 
 <!ENTITY contextmenu_open_new_tab "以新分頁開啟">
 <!ENTITY contextmenu_add_to_launcher "新增至裝置主畫面">
