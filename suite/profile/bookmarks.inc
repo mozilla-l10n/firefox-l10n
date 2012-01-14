@@ -20,11 +20,11 @@
 
 # LOCALIZATION NOTE (mozilla_org):
 # link title for http://www.mozilla.org/ (in the personal toolbar)
-#define mozilla_org Mozilla Taiwan Community (MozTW)
+#define mozilla_org Mozilla 基金會
 
 # LOCALIZATION NOTE (mozilla_org_long):
 # link title for http://www.mozilla.org/ (in normal bookmarks)
-#define mozilla_org_long The Mozilla Organization
+#define mozilla_org_long Mozilla 基金會
 
 # LOCALIZATION NOTE (mozilla_projects):
 # link title for http://www.mozilla.org/projects/
@@ -77,11 +77,11 @@
 # LOCALIZATION NOTE (seamonkey_l10n):
 # insert full bookmark line for localized SeaMonkey page (personal toolbar)
 # e.g. #define seamonkey_l10n <DT><A HREF="http://www.seamonkey.tlh/">SeaMonkey tlhIngan</a>
-#define seamonkey_l10n  
+#define seamonkey_l10n Mozilla Taiwan Comminity (MozTW)
 
 # LOCALIZATION NOTE (seamonkey_l10n_long):
 # insert full bookmark line for localized SeaMonkey page (normal bookmark)
 # e.g. #define seamonkey_l10n_long <DT><A HREF="http://www.seamonkey.tld/">tlhIngan Hol SeaMonkey</a>
-#define seamonkey_l10n_long  
+#define seamonkey_l10n_long <DT><A HREF="http://moztw.org">Mozilla Taiwan Comminity (MozTW)</a> 
 
 #unfilter emptyLines
