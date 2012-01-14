@@ -30,7 +30,7 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
 <!ENTITY aboutSupport.showMac.label "Zobrazit ve Finderu">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "Změněné předvolby">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Důležité změněné předvolby">
 <!ENTITY aboutSupport.modifiedPrefsName "Název">
 <!ENTITY aboutSupport.modifiedPrefsValue "Hodnota">
 
