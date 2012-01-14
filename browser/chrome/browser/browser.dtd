@@ -72,7 +72,7 @@ can reach it easily. -->
 <!ENTITY addonBarCmd.accesskey "U">
 
 <!ENTITY pageSourceCmd.label "Kjeldekode">
-<!ENTITY pageSourceCmd.accesskey "K">
+<!ENTITY pageSourceCmd.accesskey "d">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Sideinformasjon">
 <!ENTITY pageInfoCmd.accesskey "d">
@@ -209,7 +209,7 @@ can reach it easily. -->
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
 <!ENTITY scratchpad.label             "Kladdebok">
-<!ENTITY scratchpad.accesskey         "K">
+<!ENTITY scratchpad.accesskey         "a">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
