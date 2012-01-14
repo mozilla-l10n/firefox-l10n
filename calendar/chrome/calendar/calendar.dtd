@@ -185,6 +185,8 @@
 <!ENTITY calendar.context.progress.accesskey "r">
 <!ENTITY calendar.context.priority.label "Priorità">
 <!ENTITY calendar.context.priority.accesskey "P">
+<!ENTITY calendar.context.postpone.label "Posponi attività">
+<!ENTITY calendar.context.postpone.accesskey "P">
 <!ENTITY percnt "&#037;">
 <!ENTITY calendar.context.markcompleted.label "Completata">
 <!ENTITY calendar.context.markcompleted.accesskey "o">
@@ -206,6 +208,12 @@
 <!ENTITY priority.level.normal.accesskey "N">
 <!ENTITY priority.level.high "Alta">
 <!ENTITY priority.level.high.accesskey "A">
+<!ENTITY calendar.context.postpone.1hour.label "1 ora">
+<!ENTITY calendar.context.postpone.1hour.accesskey "o">
+<!ENTITY calendar.context.postpone.1day.label "1 giorno">
+<!ENTITY calendar.context.postpone.1day.accesskey "n">
+<!ENTITY calendar.context.postpone.1week.label "1 settimana">
+<!ENTITY calendar.context.postpone.1week.accesskey "s">
 <!ENTITY calendar.taskview.delete.label "Elimina">
 <!ENTITY calendar.taskview.delete.accesskey "E">
 <!ENTITY calendar.context.newserver.label "Nuovo calendario…">

@@ -59,24 +59,6 @@
 <!ENTITY lightning.menu.view.tasks.accesskey "v">
 <!ENTITY lightning.menu.eventtask.label "Eventi e attività">
 <!ENTITY lightning.menu.eventtask.accesskey "E">
-<!ENTITY lightning.toolbar.mail.label "Posta">
-<!ENTITY lightning.toolbar.mail.accesskey "P">
-<!ENTITY lightning.toolbar.calendar.label "Calendario">
-<!ENTITY lightning.toolbar.calendar.tooltip "Passa alla scheda del calendario">
-<!ENTITY lightning.toolbar.calendar.accesskey "C">
-<!ENTITY lightning.toolbar.task.label "Attività">
-<!ENTITY lightning.toolbar.task.tooltip "Passa alla scheda delle attività">
-<!ENTITY lightning.toolbar.task.accesskey "A">
-<!ENTITY lightning.toolbar.newevent.label "Evento">
-<!ENTITY lightning.toolbar.newtask.label "Attività">
-<!ENTITY lightning.toolbar.day.label "Giorno">
-<!ENTITY lightning.toolbar.day.accesskey "G">
-<!ENTITY lightning.toolbar.week.label "Settimana">
-<!ENTITY lightning.toolbar.week.accesskey "S">
-<!ENTITY lightning.toolbar.multiweek.label "Multi-settimana">
-<!ENTITY lightning.toolbar.multiweek.accesskey "u">
-<!ENTITY lightning.toolbar.month.label "Mese">
-<!ENTITY lightning.toolbar.month.accesskey "M">
 <!ENTITY lightning.calendarproperties.showevents.inagenda.label "Mostra gli eventi nel pannello Oggi">
 <!ENTITY lightning.calendarproperties.showtasks.label "Mostra le attività nel pannello Oggi e nella modalità Attività">
 <!ENTITY lightning.calendarproperties.email.label "E-mail:">
