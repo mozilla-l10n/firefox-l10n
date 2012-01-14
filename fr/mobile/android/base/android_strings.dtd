@@ -47,13 +47,13 @@
 <!ENTITY pref_category_content "Contenu">
 <!ENTITY pref_about_firefox "À propos de &brandShortName;">
 <!ENTITY pref_do_not_track "Dire de ne pas me pister">
-<!ENTITY pref_telemetry "Envoyer les données de perf.">
+<!ENTITY pref_telemetry "Envoyer données de perf.">
 <!ENTITY pref_remember_signons "Enreg. les mots de passe">
 <!ENTITY pref_cookies "Autoriser les cookies">
 <!ENTITY pref_char_encoding "Afficher l\u0027encodage">
 <!ENTITY pref_clear_history "Supprimer l\u0027historique">
 <!ENTITY pref_clear_history_confirm "L\u0027historique de navigation sera supprimé">
-<!ENTITY pref_clear_private_data "Supprimer les données personnelles">
+<!ENTITY pref_clear_private_data "Supprimer données personnelles">
 <!ENTITY pref_clear_private_data_confirm "Les paramètres de navigation y compris les mots de passe et les cookies seront supprimés">
 <!ENTITY pref_enable_plugins "Activer les plugins">
 <!ENTITY pref_enable_plugins_yes "Oui">
@@ -64,7 +64,7 @@
 <!ENTITY pref_font_size_medium "Moyenne">
 <!ENTITY pref_font_size_large "Grande">
 <!ENTITY pref_font_size_xlarge "Très grande">
-<!ENTITY pref_use_master_password "Utiliser un mot de passe principal">
+<!ENTITY pref_use_master_password "Mot de passe principal">
 
 <!ENTITY quit "Quitter">
 
@@ -80,7 +80,7 @@
 <!ENTITY contextmenu_add_to_launcher "Ajouter à l\u0027écran d\u0027accueil">
 <!ENTITY contextmenu_share "Partager">
 
-<!ENTITY site_settings_title        "Effacer les paramètres de site">
+<!ENTITY site_settings_title        "Effacer paramètres de site">
 <!ENTITY site_settings_cancel       "Annuler">
 <!ENTITY site_settings_clear        "Effacer">
 <!ENTITY site_settings_no_settings  "Il n\u0027y a pas de paramètre à effacer.">
