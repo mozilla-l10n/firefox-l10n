@@ -4,6 +4,6 @@
 <!ENTITY feedback.feedback.good "Bien">
 <!ENTITY feedback.feedback.bad "Mal">
 <!ENTITY feedback.tools.title "Herramientas">
-<!ENTITY feedback.allowTelemetry.title "Enviar información de rendimiento">
+<!ENTITY feedback.allowTelemetry.title "Enviar info. de rend.">
 <!ENTITY feedback.forceCompat.title "Forzar la comp. de ext.">
 <!ENTITY feedback.errorConsole.title "Activar la Consola de errores">
