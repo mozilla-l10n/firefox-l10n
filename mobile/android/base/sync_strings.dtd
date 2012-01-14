@@ -38,6 +38,9 @@
 <!ENTITY sync.subtitle.success.label "Vaše data jsou nyní stahována na pozadí. Nyní můžete přejít zpět do Nastavení.">
 <!ENTITY sync.settings.label "Nastavení">
 <!ENTITY sync.subtitle.manage.label "Účet &syncBrand.fullName.label; je nyní nastaven. Pro správu účtu přejděte do Nastavení.">
+
+<!-- Pair Device -->
+<!ENTITY sync.pair.tryagain.label "Prosím opkaujte znovu.">
   
 <!-- Common text -->
 <!ENTITY sync.button.cancel.label "Zrušit">
