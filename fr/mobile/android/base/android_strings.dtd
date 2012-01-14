@@ -55,10 +55,10 @@
 <!ENTITY pref_clear_history_confirm "L\u0027historique de navigation sera supprimé">
 <!ENTITY pref_clear_private_data "Supprimer les données personnelles">
 <!ENTITY pref_clear_private_data_confirm "Les paramètres de navigation y compris les mots de passe et les cookies seront supprimés">
-<!ENTITY pref_enable_plugins "Activer les plugins">
-<!ENTITY pref_enable_plugins_yes "Oui">
-<!ENTITY pref_enable_plugins_tap_to_play "Toucher pour lancer la lecture">
-<!ENTITY pref_enable_plugins_no "Non">
+<!ENTITY pref_plugins "Plugins">
+<!ENTITY pref_plugins_enabled "Activé">
+<!ENTITY pref_plugins_tap_to_play "Toucher pour lancer la lecture">
+<!ENTITY pref_plugins_disabled "Désactivé">
 <!ENTITY pref_font_size "Taille de police">
 <!ENTITY pref_font_size_small "Petite">
 <!ENTITY pref_font_size_medium "Moyenne">
