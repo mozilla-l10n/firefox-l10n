@@ -4,7 +4,7 @@
 <!ENTITY props.path.label "Cesta:">
 <!ENTITY props.secure.label "Typ spojení:">
 <!ENTITY props.expires.label "Platnost do:">
-<!ENTITY props.policy.label "Zásady:">
+
 <!ENTITY button.allow.label "Povolit">
 <!ENTITY button.allow.accesskey "P">
 <!ENTITY button.session.label "Povolit pro relaci">
