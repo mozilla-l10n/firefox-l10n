@@ -12,11 +12,11 @@
 <!ENTITY sync.subtitle.connect.label "Pro aktivaci nového zařízení na něm zvolte „Nastavit &syncBrand.shortName.label;“.">
 <!ENTITY sync.subtitle.pair.label "Pro aktivaci na druhém zařízení zvolte „Připojit nové zařízení“.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
-<!ENTITY sync.link.show.label "<a href='https://support.mozilla.com/kb/add-a-device-to-firefox-sync'>Zobrazit návod</a>">
-<!ENTITY sync.link.nodevice.label "<a href='#'>Nemám zařízení sebou…</a>">
+<!ENTITY sync.link.show.label "Zobrazit návod">
+<!ENTITY sync.link.nodevice.label "Nemám zařízení sebou…">
 
 <!-- J-PAKE Waiting Screen -->
-<!ENTITY sync.jpake.subtitle.waiting.label "Čekání na druhé zařízení…">
+<!ENTITY sync.jpake.subtitle.waiting.label "Čeká se na druhé zařízení…">
 
 <!-- Account Login Screen -->
 <!ENTITY sync.subtitle.account.label "Vložit nastavení účtu &syncBrand.fullName.label;">
@@ -31,6 +31,7 @@
 <!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; se nemohl připojit k serveru. Chcete to zkusit znovu?">
 <!ENTITY sync.button.tryagain.label "Zkusit znovu">
 <!ENTITY sync.button.manual.label "Ruční nastavení">
+<!ENTITY sync.subtitle.nointernet.label "Připojení k Internetu není dostupné.">
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label "Nastavení dokončeno">
@@ -41,6 +42,7 @@
 <!-- Common text -->
 <!ENTITY sync.button.cancel.label "Zrušit">
 <!ENTITY sync.button.connect.label "Připojit">
+<!ENTITY sync.button.ok.label "OK">
   
 <!-- Account strings -->
 <!ENTITY sync.account.label.label "&syncBrand.fullName.label;">
