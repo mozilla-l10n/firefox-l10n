@@ -74,8 +74,6 @@
 
 <!ENTITY share "Dela">
 <!ENTITY save_as_pdf "Spara som PDF">
-<!ENTITY agent_request_desktop "Begär datoranpassad sida">
-<!ENTITY agent_request_mobile "Begär mobilanpassad sida">
 
 <!ENTITY contextmenu_open_new_tab "Öppna i ny flik">
 <!ENTITY contextmenu_add_to_launcher "Lägg till på startsidan">
