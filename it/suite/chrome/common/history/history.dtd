@@ -32,7 +32,7 @@
 <!ENTITY cmd.open_tab.accesskey "s">
 <!ENTITY bookmarkLinkCmd.label "Aggiungi link nei segnalibri…">
 <!ENTITY bookmarkLinkCmd.accesskey "b">
-<!ENTITY bookmarkLinksCmd.label "Aggiungi link come segnalibri">
+<!ENTITY bookmarkLinksCmd.label "Aggiungi tutti i link come segnalibri…">
 <!ENTITY bookmarkLinksCmd.accesskey "b">
 <!ENTITY col.title.label "Qualifica">
 <!ENTITY col.title.accesskey "Q">

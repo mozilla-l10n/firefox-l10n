@@ -6,8 +6,8 @@
 <!ENTITY editPageCmd.commandkey "e">
 <!ENTITY navbarCmd.label "Barra di navigazione">
 <!ENTITY navbarCmd.accesskey "n">
-<!ENTITY personalbarCmd.label "Barra personale">
-<!ENTITY personalbarCmd.accesskey "e">
+<!ENTITY bookmarksToolbarCmd.label "Barra strumenti dei segnalibri">
+<!ENTITY bookmarksToolbarCmd.accesskey "m">
 <!ENTITY closeWindow.label "Chiudi finestra">
 <!ENTITY closeWindow.accesskey "f">
 <!ENTITY minimizeButton.tooltip "Minimizza">
@@ -15,7 +15,7 @@
 <!ENTITY feedsMenu.label "Abbonati a questa pagina">
 <!ENTITY feedsMenu.accesskey "b">
 <!ENTITY menuBar.tooltip "Barra del menu">
-<!ENTITY personalToolbar.tooltip "Barra personale">
+<!ENTITY bookmarksToolbar.tooltip "Barra strumenti dei segnalibri">
 <!ENTITY navigationToolbar.tooltip "Barra di navigazione">
 <!ENTITY backButton.label "Indietro">
 <!ENTITY backButton.tooltip "Torna indietro una pagina">
