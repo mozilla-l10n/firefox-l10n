@@ -64,8 +64,6 @@
 <!ENTITY imagemapBox.label "Carte de l'image">
 <!ENTITY removeImageMapButton.label "Supprimer de la liste d'images">
 <!ENTITY removeImageMapButton.accessKey "S">
-<!ENTITY editImageMapButton.label "Modifier la liste des images…">
-<!ENTITY editImageMapButton.tooltip "Créer des zones cliquables pour cette image">
 
 <!-- These are the options for image alignment -->
 <!ENTITY alignment.label "Aligner le texte par rapport à l'image :">
