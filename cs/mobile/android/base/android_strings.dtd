@@ -56,10 +56,10 @@
 <!ENTITY pref_clear_history_confirm "Historie prohlížení bude smazána">
 <!ENTITY pref_clear_private_data "Vymazat důvěrná data">
 <!ENTITY pref_clear_private_data_confirm "Data z prohlížení včetně hesel a cookies budou smazána">
-<!ENTITY pref_enable_plugins "Povolit zásuvné moduly">
-<!ENTITY pref_enable_plugins_yes "Ano">
-<!ENTITY pref_enable_plugins_tap_to_play "Klepněte pro přehrání">
-<!ENTITY pref_enable_plugins_no "Ne">
+<!ENTITY pref_plugins "Zásuvné moduly">
+<!ENTITY pref_plugins_enabled "Povolit">
+<!ENTITY pref_plugins_tap_to_play "Přehrát po klepnutí">
+<!ENTITY pref_plugins_disabled "Zakázat">
 <!ENTITY pref_font_size "Velikost písma">
 <!ENTITY pref_font_size_small "Malé">
 <!ENTITY pref_font_size_medium "Střední">
