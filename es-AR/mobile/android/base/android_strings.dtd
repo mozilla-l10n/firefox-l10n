@@ -56,10 +56,10 @@
 <!ENTITY pref_clear_history_confirm "El historial de navegación será borrado">
 <!ENTITY pref_clear_private_data "Borrar datos privados">
 <!ENTITY pref_clear_private_data_confirm "Las opciones de navegación, incluyendo contraseñas y cookies serán borradas">
-<!ENTITY pref_enable_plugins "Habilitar plugins">
-<!ENTITY pref_enable_plugins_yes "Sí">
-<!ENTITY pref_enable_plugins_tap_to_play "Pulsar para ejecutar">
-<!ENTITY pref_enable_plugins_no "No">
+<!ENTITY pref_plugins "Plugins">
+<!ENTITY pref_plugins_enabled "Habilitado">
+<!ENTITY pref_plugins_tap_to_play "Pulsar para ejecutar">
+<!ENTITY pref_plugins_disabled "Deshabilitado">
 <!ENTITY pref_font_size "Tamaño de letra">
 <!ENTITY pref_font_size_small "Chico">
 <!ENTITY pref_font_size_medium "Mediano">
@@ -74,8 +74,6 @@
 
 <!ENTITY share "Compartir">
 <!ENTITY save_as_pdf "Guardar como PDF">
-<!ENTITY agent_request_desktop "Solicitar sitio de escritorio">
-<!ENTITY agent_request_mobile "Solicitar sitio móvil">
 
 <!ENTITY contextmenu_open_new_tab "Abrir en pestaña nueva">
 <!ENTITY contextmenu_add_to_launcher "Agregar a pantalla de inicio">
