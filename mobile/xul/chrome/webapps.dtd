@@ -1,0 +1,20 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!ENTITY webapps.title.placeholder "Introduceți un titlu">
+<!ENTITY webapps.permissions "Permiteți accesul:">
+<!ENTITY webapps.perm.geolocation "Navigare conștientă de geolocație">
+<!ENTITY webapps.perm.offline "Stocare date pentru uz offline">
+<!ENTITY webapps.perm.notifications "Notificări pe spațiul de lucru">
+<!ENTITY webapps.perm.requestedHint "(cerut)">
+<!ENTITY webapps.add-homescreen "Adaugă pe ecranul principal">
+

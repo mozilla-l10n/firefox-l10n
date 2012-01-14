@@ -1,0 +1,111 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
+# xdaiana <xdaiana@yahoo.com>
+# titus0818 <https://www.google.com/accounts/o8/id?id=AItOawnf9Zm3ejVfK7qHc-TpT2ZYnpjRtqHpxXw>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+
+<!ENTITY  splash_firstrun "Se setează &brandShortName;\u2026">
+
+<!ENTITY  no_space_to_start_error "Nu este spațiu disponibil suficient pentru ca &brandShortName; să poată porni.">
+<!ENTITY  error_loading_file "A intervenit o eroare în timpul încărcării fișierelor necesare pentru a rula &brandShortName;">
+
+<!ENTITY  awesomebar_all_pages_title "Saituri populare">
+<!ENTITY  awesomebar_bookmarks_title "Semne de carte">
+<!ENTITY  awesomebar_history_title "Istoric">
+<!ENTITY  awesomebar_search_engine "Caută după \&quot;&#037;s\&quot;">
+
+<!ENTITY  crash_reporter_title "Raportor de defecte în &brandShortName;">
+<!ENTITY  crash_message "&brandShortName; s-a terminat neașteptat. Filele dumneavoastră ar trebui să fie afișate în pagina de start a &brandShortName; după ce reporniți programul.">
+<!ENTITY  crash_help_message "Vă rugăm să ne ajutați să reparăm problema!">
+<!ENTITY  crash_send_report_message "Trimite raportul de eroare la Mozilla">
+<!ENTITY  crash_include_url "Include adresa paginii">
+<!ENTITY  crash_close_label "Închide">
+<!ENTITY  crash_restart_label "Repornește &brandShortName;">
+<!ENTITY  sending_crash_report "Se trimite raportul de defect\u2026">
+<!ENTITY  exit_label "Ieșire">
+<!ENTITY  continue_label "Continuă">
+
+<!ENTITY  launcher_shortcuts_title "Aplicații web &brandShortName;">
+<!ENTITY  launcher_shortcuts_empty "Nicio aplicație web găsită">
+
+<!ENTITY choose_file "Alegere fișier">
+
+<!ENTITY awesomebar_default_text "Adresă sau căutare">
+
+<!ENTITY bookmark "Semn de carte">
+<!ENTITY bookmark_added "S-a adăugat semnul de carte">
+<!ENTITY bookmark_removed "Semn de carte șters">
+
+<!ENTITY history_today_section "Azi">
+<!ENTITY history_yesterday_section "Ieri">
+<!ENTITY history_week_section "acum 7 zile">
+<!ENTITY history_older_section "Mai vechi de 7 zile">
+
+<!ENTITY reload "Reîncarcă">
+<!ENTITY forward "Înainte">
+
+<!ENTITY new_tab "Filă nouă">
+
+<!ENTITY settings "Setări">
+<!ENTITY settings_title "Setări">
+<!ENTITY pref_category_general "General">
+<!ENTITY pref_category_privacy "Confidențialitate și securitate">
+<!ENTITY pref_category_content "Conținut">
+<!ENTITY pref_about_firefox "Despre &brandShortName;">
+<!ENTITY pref_do_not_track "Refuză stocarea parcursului meu">
+<!ENTITY pref_telemetry "Trimiteți date despre performanță">
+<!ENTITY pref_remember_signons "Memorează parolele">
+<!ENTITY pref_cookies "Activează cookie-uri">
+<!ENTITY pref_char_encoding "Arată codarea caracterelor">
+<!ENTITY pref_clear_history "Curăță istoricul">
+<!ENTITY pref_clear_history_confirm "Istoricul navigării va fi șters">
+<!ENTITY pref_clear_private_data "Curăță datele private">
+<!ENTITY pref_clear_private_data_confirm "Setările programului, inclusiv parole și cookie-uri vor fi șterse">
+<!ENTITY pref_enable_plugins "Activează plugin-uri">
+<!ENTITY pref_enable_plugins_yes "Da">
+<!ENTITY pref_enable_plugins_tap_to_play "Apăsați pentru redare">
+<!ENTITY pref_enable_plugins_no "Nu">
+<!ENTITY pref_font_size "Mărime font">
+<!ENTITY pref_font_size_small "Mic">
+<!ENTITY pref_font_size_medium "Mediu">
+<!ENTITY pref_font_size_large "Mare">
+<!ENTITY pref_font_size_xlarge "Foarte mare">
+<!ENTITY pref_use_master_password "Folosește parola generală">
+
+<!ENTITY quit "Ieșire">
+
+<!ENTITY addons "Suplimente">
+<!ENTITY downloads "Descărcări">
+
+<!ENTITY share "Împărtășește">
+<!ENTITY save_as_pdf "Salvează ca PDF">
+<!ENTITY agent_request_desktop "Cere versiunea completă">
+<!ENTITY agent_request_mobile "Cere versiunea mobilă">
+
+<!ENTITY contextmenu_open_new_tab "Deschide în filă nouă">
+<!ENTITY contextmenu_add_to_launcher "Adaugă la ecranul principal">
+<!ENTITY contextmenu_share "Împărtășește">
+
+<!ENTITY site_settings_title        "Curăță setările saitului">
+<!ENTITY site_settings_cancel       "Renunță">
+<!ENTITY site_settings_clear        "Curăță">
+<!ENTITY site_settings_no_settings  "Nu sunt setări de curățat.">
+
+<!ENTITY masterpassword_create_title "Creează o parolă generală">
+<!ENTITY masterpassword_remove_title "Eliminare parolă generală">
+<!ENTITY masterpassword_password "Parolă">
+<!ENTITY masterpassword_confirm "Confirmare parolă">
+
+<!ENTITY button_ok "Bine">
+<!ENTITY button_cancel "Renunță">
+
