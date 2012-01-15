@@ -1,0 +1,31 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!ENTITY aboutPage.title                        "Despre &brandShortName;">
+<!ENTITY aboutPage.faq.label                    "Întrebări frecvente">
+<!ENTITY aboutPage.support.label                "Asistență">
+<!ENTITY aboutPage.privacyPolicy.label          "Politică de confidențialitate">
+<!ENTITY aboutPage.rights.label                 "Cunoaște-ți drepturile">
+<!ENTITY aboutPage.relNotes.label               "Note asupra ediției">
+<!ENTITY aboutPage.credits.label                "Merite">
+<!ENTITY aboutPage.checkForUpdates.button       "Caută actualizări">
+<!ENTITY aboutPage.checkForUpdates.checking     "Se caută actualizări…">
+<!ENTITY aboutPage.checkForUpdates.none         "Nicio actualizare disponibilă">
+<!ENTITY aboutPage.checkForUpdates.found        "Actualizare disponibilă">
+
+
+<!-- LOCALIZATION NOTE:
+     These strings are concatenated in order. Unneeded strings may be left blank.
+-->
+<!ENTITY aboutPage.licenseLink                  "Informații de licențiere">
+<!ENTITY aboutPage.licenseLinkSuffix            ".">
+

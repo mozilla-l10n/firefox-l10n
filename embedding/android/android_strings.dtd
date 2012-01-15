@@ -1,0 +1,35 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+
+<!ENTITY  splash_firstrun "Se setează &brandShortName;\u2026">
+
+<!ENTITY  no_space_to_start_error "Nu este spațiu disponibil suficient pentru ca &brandShortName; să poată porni.">
+<!ENTITY  error_loading_file "A intervenit o eroare în timpul încărcării fișierelor necesare pentru a rula &brandShortName;">
+
+<!ENTITY  crash_reporter_title "Raportor de defecte în &brandShortName;">
+<!ENTITY  crash_message "&brandShortName; s-a terminat neașteptat. Filele dumneavoastră ar trebui să fie afișate în pagina de start a &brandShortName; după ce reporniți programul.">
+<!ENTITY  crash_help_message "Vă rugăm să ne ajutați să reparăm problema!">
+<!ENTITY  crash_send_report_message "Trimite raportul de eroare la Mozilla">
+<!ENTITY  crash_include_url "Include adresa paginii">
+<!ENTITY  crash_close_label "Închide">
+<!ENTITY  crash_restart_label "Repornește &brandShortName;">
+<!ENTITY  sending_crash_report "Se trimite raportul de defect\u2026">
+<!ENTITY  exit_label "Ieșire">
+<!ENTITY  continue_label "Continuă">
+
+<!ENTITY  launcher_shortcuts_title "Aplicații web &brandShortName;">
+<!ENTITY  launcher_shortcuts_empty "Nicio aplicație web găsită">
+
+<!ENTITY choose_file "Alegere fișier">
+
