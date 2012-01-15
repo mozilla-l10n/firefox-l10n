@@ -2,23 +2,23 @@
 <!ENTITY fromAddr.label "От:">
 <!ENTITY fromAddr.accesskey "т">
 <!ENTITY subject.label "Тема:">
-<!ENTITY subject.accesskey "Т">
+<!ENTITY subject.accesskey "м">
 <!ENTITY attachments.label "Вложения:">
-<!ENTITY attachments.accesskey "В">
+<!ENTITY attachments.accesskey "л">
 <!ENTITY saveCmd.label "Сохранить">
-<!ENTITY saveCmd.accesskey "о">
+<!ENTITY saveCmd.accesskey "х">
 <!ENTITY saveAsCmd.label "Сохранить как">
 <!ENTITY saveAsCmd.accesskey "к">
 <!ENTITY saveAsFileCmd.label "Файл…">
-<!ENTITY saveAsFileCmd.accesskey "Ф">
+<!ENTITY saveAsFileCmd.accesskey "а">
 <!ENTITY saveAsDraftCmd.label "Черновик">
-<!ENTITY saveAsDraftCmd.accesskey "Ч">
+<!ENTITY saveAsDraftCmd.accesskey "н">
 <!ENTITY saveAsTemplateCmd.label "Шаблон">
-<!ENTITY saveAsTemplateCmd.accesskey "Ш">
+<!ENTITY saveAsTemplateCmd.accesskey "б">
 <!ENTITY attachMenu.label "Вложить">
 <!ENTITY attachMenu.accesskey "ж">
 <!ENTITY attachFileCmd.label "Файл(ы)…">
-<!ENTITY attachFileCmd.accesskey "л">
+<!ENTITY attachFileCmd.accesskey "а">
 <!ENTITY attachPageCmd.label "Веб-страницу…">
 <!ENTITY attachPageCmd.accesskey "е">
 <!ENTITY attachVCardCmd.label "Визитную карточку (vCard)">
@@ -28,22 +28,22 @@
 <!ENTITY sendNowCmd.accesskey "п">
 <!ENTITY sendLaterCmd.label "Отправить позже">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
-<!ENTITY sendLaterCmd.accesskey "з">
+<!ENTITY sendLaterCmd.accesskey "а">
 <!ENTITY editRewrapCmd.label "Переформатировать">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "е">
 <!ENTITY accountManagerCmd.label "Параметры учётной записи…">
 <!ENTITY accountManagerCmd.accesskey "м">
 <!ENTITY showComposeToolbarCmd.label "Панель инструментов почты">
-<!ENTITY showComposeToolbarCmd.accesskey "П">
+<!ENTITY showComposeToolbarCmd.accesskey "н">
 <!ENTITY showFormatToolbarCmd.label "Панель форматирования">
 <!ENTITY showFormatToolbarCmd.accesskey "ф">
 <!ENTITY formatMenu.label "Формат">
-<!ENTITY formatMenu.accesskey "Ф">
+<!ENTITY formatMenu.accesskey "м">
 <!ENTITY optionsMenu.label "Настройки">
-<!ENTITY optionsMenu.accesskey "й">
+<!ENTITY optionsMenu.accesskey "о">
 <!ENTITY quoteCmd.label "Цитировать сообщение">
-<!ENTITY quoteCmd.accesskey "Ц">
+<!ENTITY quoteCmd.accesskey "и">
 <!ENTITY selectAddressCmd.label "Выбрать адреса…">
 <!ENTITY selectAddressCmd.key "">
 <!ENTITY selectAddressCmd.accesskey "в">
@@ -54,19 +54,19 @@
 <!ENTITY lowPriorityCmd.label "Низкая">
 <!ENTITY lowPriorityCmd.accesskey "н">
 <!ENTITY normalPriorityCmd.label "Обычная">
-<!ENTITY normalPriorityCmd.accesskey "о">
+<!ENTITY normalPriorityCmd.accesskey "ч">
 <!ENTITY highPriorityCmd.label "Высокая">
-<!ENTITY highPriorityCmd.accesskey "в">
+<!ENTITY highPriorityCmd.accesskey "ы">
 <!ENTITY highestPriorityCmd.label "Самая высокая">
 <!ENTITY highestPriorityCmd.accesskey "а">
 <!ENTITY returnReceiptMenu.label "Уведомление о прочтении">
-<!ENTITY returnReceiptMenu.accesskey "У">
+<!ENTITY returnReceiptMenu.accesskey "е">
 <!ENTITY outputFormatMenu.label "Формат">
-<!ENTITY outputFormatMenu.accesskey "Ф">
+<!ENTITY outputFormatMenu.accesskey "м">
 <!ENTITY autoFormatCmd.label "Автоопределение">
-<!ENTITY autoFormatCmd.accesskey "А">
+<!ENTITY autoFormatCmd.accesskey "п">
 <!ENTITY plainTextFormatCmd.label "Только простой текст">
-<!ENTITY plainTextFormatCmd.accesskey "п">
+<!ENTITY plainTextFormatCmd.accesskey "л">
 <!ENTITY htmlFormatCmd.label "Форматированный текст (HTML)">
 <!ENTITY htmlFormatCmd.accesskey "т">
 <!ENTITY bothFormatCmd.label "Обычный текст и HTML">
@@ -90,7 +90,7 @@
 <!ENTITY stopButton.tooltip "Остановить текущую передачу данных">
 <!ENTITY spellCheckNoSuggestions.label "Вариантов не найдено">
 <!ENTITY spellCheckIgnoreWord.label "Пропустить слово">
-<!ENTITY spellCheckIgnoreWord.accesskey "П">
+<!ENTITY spellCheckIgnoreWord.accesskey "п">
 <!ENTITY spellCheckAddToDictionary.label "Добавить в словарь">
 <!ENTITY spellCheckAddToDictionary.accesskey "с">
 <!ENTITY openAttachment.label "Открыть">
