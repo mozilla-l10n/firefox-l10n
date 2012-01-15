@@ -68,11 +68,13 @@
 <!ENTITY pasteCmd.accesskey "l">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY editRewrapCmd.label "Zalomit">
-<!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "l">
 <!ENTITY deleteCmd.label "Smazat">
 <!ENTITY deleteCmd.accesskey "m">
+<!ENTITY editRewrapCmd.label "Zalomit">
+<!ENTITY editRewrapCmd.key "R">
+<!ENTITY renameAttachment.label "Přejmenovat přílohu…">
+<!ENTITY renameAttachment.accesskey "e">
 <!ENTITY selectAllCmd.label "Vybrat vše">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
