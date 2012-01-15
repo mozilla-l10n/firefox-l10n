@@ -50,8 +50,8 @@
 <!ENTITY pageInfoCmd.commandkey "i">
 
 <!-- Go Menu -->
-<!ENTITY goMenu.label "Перейти">
-<!ENTITY goMenu.accesskey "й">
+<!ENTITY goMenu.label "Перехід">
+<!ENTITY goMenu.accesskey "х">
 <!ENTITY goHomeCmd.label "Домівка">
 <!ENTITY goHomeCmd.accesskey "Д">
 <!ENTITY historyCmd.label "Історія">
