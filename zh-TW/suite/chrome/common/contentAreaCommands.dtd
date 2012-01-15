@@ -53,11 +53,11 @@
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setWallpaperCmd.label        "設成桌面">
 <!ENTITY setWallpaperCmd.accesskey    "A">
-<!ENTITY bookmarkPageCmd.label        "將本頁加入書籤">
+<!ENTITY bookmarkPageCmd.label        "將本頁加入書籤…">
 <!ENTITY bookmarkPageCmd.accesskey    "m">
-<!ENTITY bookmarkLinkCmd.label        "將此鏈結加入書籤">
+<!ENTITY bookmarkLinkCmd.label        "將此鏈結加入書籤…">
 <!ENTITY bookmarkLinkCmd.accesskey    "B">
-<!ENTITY bookmarkFrameCmd.label       "將本頁框加入書籤">
+<!ENTITY bookmarkFrameCmd.label       "將本頁框加入書籤…">
 <!ENTITY bookmarkFrameCmd.accesskey   "m">
 <!ENTITY savePageAsCmd.label          "另存新檔…">
 <!ENTITY savePageCmd.label            "儲存本頁">
