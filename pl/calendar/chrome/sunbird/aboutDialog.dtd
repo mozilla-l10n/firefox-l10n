@@ -41,7 +41,7 @@
 <!ENTITY aboutDialog.title      "O programie &brandFullName;">
 <!ENTITY copyright.label        "Twórcy">
 <!ENTITY copyright.accesskey    "T">
-<!ENTITY aboutLink.label        "&lt; O programie &brandShortName;">
+<!ENTITY aboutLink.label        "&lt; O programie &brandFullName;">
 <!ENTITY aboutLink.accesskey    "O">
 <!ENTITY aboutVersion           "wersja">
 <!ENTITY copyrightText          "&#169;1998-2010 Współtwórcy. Wszelkie prawa
