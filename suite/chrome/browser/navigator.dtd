@@ -15,9 +15,9 @@
 <!ENTITY editPageCmd.commandkey "e">
 
 <!ENTITY navbarCmd.label "Lišta navigace">
-<!ENTITY navbarCmd.accesskey "N">
-<!ENTITY personalbarCmd.label "Osobní lišta">
-<!ENTITY personalbarCmd.accesskey "o">
+<!ENTITY navbarCmd.accesskey "n">
+<!ENTITY bookmarksToolbarCmd.label "Lišta záložek">
+<!ENTITY bookmarksToolbarCmd.accesskey "z">
 
 <!ENTITY closeWindow.label "Zavřít okno">
 <!ENTITY closeWindow.accesskey "o">
@@ -29,7 +29,7 @@
 <!ENTITY feedsMenu.accesskey "O">
 
 <!ENTITY menuBar.tooltip "Hlavní nabídka">
-<!ENTITY personalToolbar.tooltip "Osobní lišta">
+<!ENTITY bookmarksToolbar.tooltip "Lišta záložek">
 <!ENTITY navigationToolbar.tooltip "Lišta navigace">
 
 <!-- Toolbar items -->
