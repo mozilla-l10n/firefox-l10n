@@ -7,7 +7,7 @@
 <!ENTITY  awesomebar_all_pages_title "最常被瀏覽的網站">
 <!ENTITY  awesomebar_bookmarks_title "書籤">
 <!ENTITY  awesomebar_history_title "歷史記錄">
-<!ENTITY  awesomebar_search_engine "搜尋「%s」">
+<!ENTITY  awesomebar_search_engine "搜尋「&#037;s」">
 
 <!ENTITY  crash_reporter_title "&brandShortName; 錯誤回報員">
 <!ENTITY  crash_message "&brandShortName; 意外碰上問題而自行關閉。您的分頁將會在重新啟動後被列在 &brandShortName; 的首頁。">
