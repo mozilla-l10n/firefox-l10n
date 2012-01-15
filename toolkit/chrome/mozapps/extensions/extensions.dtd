@@ -1,7 +1,7 @@
 <!--
 # Translator(s):
 #
-# Cristian Silaghi <stelistcristi@yahoo.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 # Alexandru Szasz <alexxed@gmail.com>
 # raulmalea <raul.malea@gmail.com>
 # Laudatti <Laudatti@gmail.com>
@@ -24,7 +24,7 @@
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
-<!ENTITY loading.label                        "Încărcare...">
+<!ENTITY loading.label                        "Încărcare…">
 <!ENTITY listEmpty.installed.label            "Nu aveți vreun supliment de acest tip instalat">
 <!ENTITY listEmpty.availableUpdates.label     "Nicio actualizare găsită">
 <!ENTITY listEmpty.recentUpdates.label        "Nu ați actualizat recent niciun supliment">
@@ -211,7 +211,7 @@
 <!ENTITY addon.updateAvailable.label          "Este disponibilă o actualizare">
 <!ENTITY addon.checkingForUpdates.label       "Se caută actualizări…">
 <!ENTITY addon.releaseNotes.label             "Note asupra ediției:">
-<!ENTITY addon.loadingReleaseNotes.label      "Încărcare...">
+<!ENTITY addon.loadingReleaseNotes.label      "Încărcare…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Ne pare rău, dar a intervenit o eroare la încărcarea notelor asupra ediției.">
 
 <!ENTITY addon.createdBy.label                "De către ">

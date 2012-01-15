@@ -5,11 +5,12 @@
 # Sergiu Bivol <sbivol87@gmail.com>
 # raulmalea <raul.malea@gmail.com>
 # x10 <x10@mail.com>
-# Cristian Silaghi <stelistcristi@yahoo.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 # turcan <nicturcan@gmail.com>
 # BuBBaX <mikebubbax@yahoo.com>
 # nicubunu <nicubunu@gmail.com>
 # mazilu59 <mazilu59@gmail.com>
+# vas_galati <vas_galati@yahoo.com>
 #
 -->
 <!--
@@ -239,7 +240,7 @@ can reach it easily. -->
 <!ENTITY inspectButton.accesskey        "I">
 <!ENTITY inspectCloseButton.tooltiptext "Închide inspectorul">
 <!ENTITY inspect3DButton.label        "3D">
-<!ENTITY inspect3DButton.accesskey    "M">
+<!ENTITY inspect3DButton.accesskey    "3">
 <!ENTITY inspectStyleButton.label     "Stil">
 <!ENTITY inspectStyleButton.accesskey "S">
 

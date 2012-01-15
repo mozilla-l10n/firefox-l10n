@@ -2,6 +2,7 @@
 # Translator(s):
 #
 # Octi <octavianiolu@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
 #
 -->
 <!--
@@ -56,7 +57,7 @@
 <!ENTITY aboutWarningButton.label "Voi avea grijă, promit!">
 <!ENTITY aboutWarningCheckbox.label "Arată această avertizare data viitoare">
 
-<!ENTITY searchPrefs.label "Search:">
+<!ENTITY searchPrefs.label "Căutare:">
 <!ENTITY searchPrefs.accesskey "r">
 <!ENTITY focusSearch.key "r">
 

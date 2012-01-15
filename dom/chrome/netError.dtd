@@ -3,14 +3,14 @@
 #
 # Alexandru Szasz <alexxed@gmail.com>
 # raulmalea <raul.malea@gmail.com>
-# Cristian Silaghi <stelistcristi@yahoo.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 #
 -->
 <!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
-# Cristian Silaghi <stelistcristi@yahoo.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 #
 -->
 <!ENTITY loadError.label "Eroare la încărcarea paginii">
@@ -40,7 +40,7 @@
 <!ENTITY netInterrupt.longDesc "<p>Navigatorul s-a conectat cu succes, dar conexiunea a fost întreruptă în timp ce se transferau informații.  Vă rugăm încercați din nou.</p><ul><li>Aveți probleme cu navigarea pe alte saituri? Verificați conexiunea la rețea a calculatorului.</li><li>Problemele persistă? Consultați administratorul sau furnizorul dumneavoastră de servicii internet.</li></ul>">
 
 <!ENTITY notCached.title "Document expirat">
-<!ENTITY notCached.longDesc "<p>The requested document is not available in the browser's cache.</p><ul><li>As a security precaution, the browser does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Documentul cerut nu mai este disponibil în cache-ul navigatorului.</p><ul><li>Ca o măsură de precauție, navigatorul nu cere automat documente ce pot fi confidențiale.</li><li>Apăsați Încearcă din nou pentru a cere din nou documentul de pe sait.</li></ul>">
 
 <!ENTITY netOffline.title "Mod offline">
 <!ENTITY netOffline.longDesc2 "<p>Navigatorul este în mod offline și nu se poate conecta la elementul cerut.</p><ul><li>Este calculatorul conectat la o rețea activă?</li><li>Apăsați „Încearcă din nou” pentru a comuta la modul online și a reîncărca pagina.</li></ul>">

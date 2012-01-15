@@ -11,7 +11,7 @@
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
-# Cristian Silaghi <stelistcristi@yahoo.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
 #
 -->
 <!-- Note: each tab panel must contain unique accesskeys -->
@@ -56,9 +56,9 @@
 <!ENTITY connectionSettings.label        "Setări…">
 <!ENTITY connectionSettings.accesskey    "e">
 
-<!ENTITY httpCache.label                 "Cached Web Content">
+<!ENTITY httpCache.label                 "Conținut web păstrat temporar">
 
-<!ENTITY offlineStorage2.label           "Offline Web Content and User Data">
+<!ENTITY offlineStorage2.label           "Conținut web și date stocate pentru uz offline">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -71,8 +71,8 @@
 <!ENTITY limitCacheSizeAfter.label       "MO din spațiu">
 <!ENTITY clearCacheNow.label             "Curăță acum">
 <!ENTITY clearCacheNow.accesskey         "C">
-<!ENTITY clearOfflineAppCacheNow.label   "Clear Now">
-<!ENTITY clearOfflineAppCacheNow.accesskey "N">
+<!ENTITY clearOfflineAppCacheNow.label   "Curăță acum">
+<!ENTITY clearOfflineAppCacheNow.accesskey "m">
 <!ENTITY overrideSmartCacheSize.label    "Ignoră administrarea automată a memoriei cache">
 <!ENTITY overrideSmartCacheSize.accesskey "o">
 
@@ -104,7 +104,7 @@
 <!ENTITY offlineNotifyExceptions.label   "Excepții...">
 <!ENTITY offlineNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList2.label          "The following websites are allowed to store data for offline use:">
+<!ENTITY offlineAppsList2.label          "Următoarelor saituri web le este permis să stocheze date pentru uz offline:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Șterge…">
 <!ENTITY offlineAppsListRemove.accesskey "r">
