@@ -28,6 +28,7 @@
 <!ENTITY forwardTo.label  "Välitä osoitteeseen">
 <!ENTITY replyWithTemplate.label  "Vastaa mallipohjalla">
 <!ENTITY markMessageRead.label  "Merkitse luetuksi">
+<!ENTITY markMessageUnread.label "Merkitse ei luetuksi">
 <!ENTITY markMessageStarred.label "Lisää tähti">
 <!ENTITY setPriority.label  "Aseta tärkeysasteeksi">
 <!ENTITY addTag.label "Lisää tunnus">
