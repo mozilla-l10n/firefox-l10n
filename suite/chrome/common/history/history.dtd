@@ -32,7 +32,7 @@
 <!ENTITY cmd.open_tab.accesskey "n">
 <!ENTITY bookmarkLinkCmd.label "Añadir este enlace a marcadores…">
 <!ENTITY bookmarkLinkCmd.accesskey "A">
-<!ENTITY bookmarkLinksCmd.label "Añadir estos enlaces a marcadores…">
+<!ENTITY bookmarkLinksCmd.label "Añadir estos enlaces a marcadores">
 <!ENTITY bookmarkLinksCmd.accesskey "A">
 <!ENTITY col.title.label "Título">
 <!ENTITY col.title.accesskey "T">
