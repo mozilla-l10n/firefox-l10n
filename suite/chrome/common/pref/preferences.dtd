@@ -35,6 +35,6 @@
 <!ENTITY search.label "網際網路搜尋">
 <!ENTITY policies.label "安全性原則">
 <!ENTITY mousewheel.label "滾輪滑鼠">
-<!ENTITY scriptsAndWindows.label "Scripts 與 Plug-ins">
+<!ENTITY scriptsAndWindows.label "指令碼與外掛程式">
 
 <!ENTITY focusSearch.key "f">
