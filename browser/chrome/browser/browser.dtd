@@ -51,7 +51,7 @@
 <!ENTITY addonBarCmd.label "Barra de complemento">
 <!ENTITY addonBarCmd.accesskey "A">
 <!ENTITY pageSourceCmd.label "Código fuente de esta página">
-<!ENTITY pageSourceCmd.accesskey "c">
+<!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Información sobre esta página">
 <!ENTITY pageInfoCmd.accesskey "I">
