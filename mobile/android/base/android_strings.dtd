@@ -56,10 +56,10 @@
 <!ENTITY pref_clear_history_confirm "Webbläsarhistoriken kommer att tas bort">
 <!ENTITY pref_clear_private_data "Rensa känslig data">
 <!ENTITY pref_clear_private_data_confirm "Webbläsarinställningar, inklusive lösenord och kakor kommer att tas bort">
-<!ENTITY pref_enable_plugins "Aktivera insticksmodul">
-<!ENTITY pref_enable_plugins_yes "Ja">
-<!ENTITY pref_enable_plugins_tap_to_play "Tryck för att visa">
-<!ENTITY pref_enable_plugins_no "Nej">
+<!ENTITY pref_plugins "Insticksmoduler">
+<!ENTITY pref_plugins_enabled "Aktiverade">
+<!ENTITY pref_plugins_tap_to_play "Tryck för att visa">
+<!ENTITY pref_plugins_disabled "Inaktiverade">
 <!ENTITY pref_font_size "Textstorlek">
 <!ENTITY pref_font_size_small "Liten">
 <!ENTITY pref_font_size_medium "Normal">
