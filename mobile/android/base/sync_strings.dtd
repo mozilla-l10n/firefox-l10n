@@ -42,6 +42,10 @@
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label '請再試一次。'>
 
+<!-- Firefox SyncAdapter Settings Screen -->
+<!ENTITY sync.settings.options.label '選項'>
+<!ENTITY sync.summary.pair.label '鏈結其他裝置至您的 &syncBrand.shortName.label; 帳號'>
+
 <!-- Common text -->
 <!ENTITY sync.button.cancel.label '取消'>
 <!ENTITY sync.button.connect.label '連線'>
@@ -58,3 +62,6 @@
 <!ENTITY bookmarks.folder.unfiled.label '未排序書籤'>
 <!ENTITY bookmarks.folder.desktop.label '來自電腦的書籤'>
 <!ENTITY bookmarks.folder.mobile.label '行動書籤'>
+
+<!-- Notification strings -->
+<!ENTITY sync.notification.oneaccount.label '僅支援一個 &syncBrand.fullName.label; 帳號。'>

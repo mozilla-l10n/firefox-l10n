@@ -57,7 +57,7 @@
 
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
 <!ENTITY addDevice.title.label              "新增裝置">
-<!ENTITY addDevice.showMeHow.label          "告訴我怎麼做">
+<!ENTITY addDevice.showMeHow.label          "告訴我怎麼做。">
 <!ENTITY addDevice.dontHaveDevice.label     "裝置不在我手邊">
 <!ENTITY addDevice.setup.description.label  "若要啟用，請在您的另一台裝置當中的 &syncBrand.shortName.label; 偏好設定選擇「新增裝置」。">
 <!ENTITY addDevice.setup.enterCode.label    "然後，輸入這組代碼:">

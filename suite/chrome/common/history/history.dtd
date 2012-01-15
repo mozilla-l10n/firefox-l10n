@@ -40,7 +40,7 @@
 
 <!ENTITY bookmarkLinkCmd.label          "將此鏈結加入書籤…">
 <!ENTITY bookmarkLinkCmd.accesskey      "B">
-<!ENTITY bookmarkLinksCmd.label         "將這些鏈結加入書籤">
+<!ENTITY bookmarkLinksCmd.label         "將這些鏈結加入書籤…">
 <!ENTITY bookmarkLinksCmd.accesskey     "B">
 
 <!ENTITY col.title.label                "標題">

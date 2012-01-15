@@ -16,8 +16,8 @@
 
 <!ENTITY navbarCmd.label "瀏覽工具列">
 <!ENTITY navbarCmd.accesskey "N">
-<!ENTITY personalbarCmd.label "書籤工具列">
-<!ENTITY personalbarCmd.accesskey "P">
+<!ENTITY bookmarksToolbarCmd.label     "書籤工具列">
+<!ENTITY bookmarksToolbarCmd.accesskey "m">
 
 <!ENTITY closeWindow.label "關閉視窗">
 <!ENTITY closeWindow.accesskey "W">
@@ -29,7 +29,7 @@
 <!ENTITY feedsMenu.accesskey "S">
 
 <!ENTITY menuBar.tooltip                  "選單列">
-<!ENTITY personalToolbar.tooltip          "書籤工具列">
+<!ENTITY bookmarksToolbar.tooltip         "書籤工具列">
 <!ENTITY navigationToolbar.tooltip        "瀏覽工具列">
 
 <!-- Toolbar items --> 

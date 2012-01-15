@@ -4,7 +4,6 @@
 <!ENTITY     props.path.label               "路徑:">
 <!ENTITY     props.secure.label             "送出:">
 <!ENTITY     props.expires.label            "有效期限:">
-<!ENTITY     props.policy.label             "政策:"> 
 
 <!ENTITY     button.allow.label             "允許">
 <!ENTITY     button.allow.accesskey         "A">

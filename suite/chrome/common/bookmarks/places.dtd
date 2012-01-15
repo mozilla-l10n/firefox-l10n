@@ -35,7 +35,7 @@
 <!ENTITY cmd.restoreFromFile.label      "選擇檔案…">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
-<!ENTITY cmd.bookmarkLink.label         "此頁加入書籤…">
+<!ENTITY cmd.bookmarkLink.label         "將本頁加入書籤…">
 <!ENTITY cmd.bookmarkLink.accesskey     "B">
 <!ENTITY cmd.delete.label               "刪除此頁面">
 <!ENTITY cmd.delete.accesskey           "D">
