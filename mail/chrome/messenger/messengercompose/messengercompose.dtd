@@ -68,11 +68,13 @@
 <!ENTITY pasteCmd.accesskey "i">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
+<!ENTITY deleteCmd.label "Löschen">
+<!ENTITY deleteCmd.accesskey "L">
 <!ENTITY editRewrapCmd.label "Neu umbrechen">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "b">
-<!ENTITY deleteCmd.label "Löschen">
-<!ENTITY deleteCmd.accesskey "L">
+<!ENTITY renameAttachment.label "Anhang umbenennen…">
+<!ENTITY renameAttachment.accesskey "n">
 <!ENTITY selectAllCmd.label "Alles auswählen">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "u">
