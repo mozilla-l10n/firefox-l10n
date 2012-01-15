@@ -44,7 +44,7 @@
 
 <!-- Firefox SyncAdapter Settings Screen -->
 <!ENTITY sync.settings.options.label "Options">
-<!ENTITY sync.summary.pair.label "Relier un autre appareil à votre compte &syncBrand.shortName.label;">
+<!ENTITY sync.summary.pair.label "Associer un autre appareil à votre compte &syncBrand.shortName.label;">
 
 <!-- Common text -->
 <!ENTITY sync.button.cancel.label "Annuler">
