@@ -70,7 +70,7 @@
 
 <!-- Bookmarks Menu -->
 <!ENTITY bookmarksMenu.label "Закладки">
-<!ENTITY bookmarksMenu.accesskey "З">
+<!ENTITY bookmarksMenu.accesskey "к">
 <!ENTITY addCurPageCmd.label "Закласти цю сторінку">
 <!ENTITY addCurPageCmd.accesskey "ц">
 <!ENTITY addCurPageAsCmd.label "Підшити закладку…">
