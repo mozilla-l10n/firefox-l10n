@@ -18,7 +18,7 @@
 
 <!ENTITY     props.name.label               "Назва:">
 <!ENTITY     props.value.label              "Вміст:">
-<!ENTITY     props.domain.label             "Вузл:">
+<!ENTITY     props.domain.label             "Вузол:">
 <!ENTITY     props.path.label               "Шлях:">
 <!ENTITY     props.secure.label             "Виклик:">
 <!ENTITY     props.expires.label            "Строк:">
@@ -37,7 +37,7 @@
 <!ENTITY     allowSiteSession.accesskey     "С">
 <!ENTITY     removepermission.label         "Вилучити сайт">
 <!ENTITY     removepermission.accesskey     "В">
-<!ENTITY     removeallpermissions.label     "Вилучити всі сйати">
+<!ENTITY     removeallpermissions.label     "Вилучити всі сайти">
 <!ENTITY     removeallpermissions.accesskey "В">
 
 <!ENTITY     futureCookies.label            "Don't allow websites that set removed cookies to set future cookies">

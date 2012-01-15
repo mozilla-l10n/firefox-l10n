@@ -56,7 +56,7 @@
 <!ENTITY wrapInMsg.label                  "Вирівняти текст до ширини вікна">
 <!ENTITY wrapInMsg.accesskey              "В">
 <!-- LOCALIZATION NOTE : (convertEmoticons.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
-<!ENTITY convertEmoticons.label           "Показайти емоційку як графіку">
+<!ENTITY convertEmoticons.label           "Показати емоційку як графіку">
 <!ENTITY convertEmoticons.accesskey       "В">
 <!ENTITY generalMessageDisplay.caption    "Основне">
 <!ENTITY autoMarkAsRead.label             "Автоматично призначати листи як прочитані">

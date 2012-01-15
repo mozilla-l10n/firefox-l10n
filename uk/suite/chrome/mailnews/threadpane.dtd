@@ -63,7 +63,7 @@
 <!ENTITY attachmentColumn.tooltip "Натисніть тут, щоб упорядкувати листи за наявністю долучень">
 <!ENTITY subjectColumn.tooltip "Натисніть тут, щоб упорядкувати листи за темою">
 <!ENTITY dateColumn.tooltip "Натисніть тут, щоб упорядкувати листи за датою">
-<!ENTITY priorityColumn.tooltip "Натисніть тут, щоб упорядкувати листи за важливостю">
+<!ENTITY priorityColumn.tooltip "Натисніть тут, щоб упорядкувати листи за важливістю">
 <!ENTITY tagsColumn.tooltip "Натисніть тут, щоб упорядкувати листи за мітками">
 <!ENTITY accountColumn.tooltip "Натисніть тут, щоб упорядкувати листи за обліковим записом">
 <!ENTITY statusColumn.tooltip "Натисніть тут, щоб упорядкувати листи за станом">

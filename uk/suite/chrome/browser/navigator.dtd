@@ -25,7 +25,7 @@
 <!ENTITY minimizeButton.tooltip       "Згорнути">
 <!ENTITY restoreButton.tooltip        "Розгорнути">
 
-<!ENTITY feedsMenu.label "Підисатися на цю сторінку">
+<!ENTITY feedsMenu.label "Підписатися на цю сторінку">
 <!ENTITY feedsMenu.accesskey "П">
 
 <!ENTITY menuBar.tooltip                  "Меню">

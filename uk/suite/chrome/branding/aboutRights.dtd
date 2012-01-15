@@ -27,7 +27,7 @@
 <!ENTITY rights.intro-point3c "">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName; надає такі додаткові послуги, як служба оновлення додатків; утім ми не можемо гарантувати, що вони 100&#37; правильні й без недоліків. Докладніше, зокрема інформацію про вимкненення служб, можна знайти в ">
+<!ENTITY rights.intro-point4a "&brandShortName; надає такі додаткові послуги, як служба оновлення додатків; утім ми не можемо гарантувати, що вони 100&#37; правильні й без недоліків. Докладніше, зокрема інформацію про вимкнення служб, можна знайти в ">
 <!ENTITY rights.intro-point4b "угоді надання послуг">
 <!ENTITY rights.intro-point4c "">
 
@@ -38,7 +38,7 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName; надає такі додаткові послуги (&quot;Послуги&quot;), як служба оновлення додатків, які наявні в цій двійковій версії &brandShortName;, як описано нижче. Якщо не хочете користуватися цієїю послугою чи вважаєте умови нижче неприйнятними, можете вимкнути службу оновлення додатків, відкривши налаштування програми, і в розділі">
+<!ENTITY rights.webservices-a "&brandFullName; надає такі додаткові послуги (&quot;Послуги&quot;), як служба оновлення додатків, які наявні в цій двійковій версії &brandShortName;, як описано нижче. Якщо не хочете користуватися цією послугою чи вважаєте умови нижче неприйнятними, можете вимкнути службу оновлення додатків, відкривши налаштування програми, і в розділі">
 <!ENTITY rights.webservices-b "Додатково">
 <!ENTITY rights.webservices-c " на вкладці ">
 <!ENTITY rights.webservices-d "Встановлення програм">

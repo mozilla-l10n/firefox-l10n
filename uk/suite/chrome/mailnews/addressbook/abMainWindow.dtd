@@ -112,7 +112,7 @@
 <!ENTITY deleteItemButton.accesskey                     "В">
 <!ENTITY newimButton.label                              "Миттєве повідомлення">  
 <!ENTITY newimButton.accesskey                          "М">  
-<!ENTITY searchNameAndEmail.placeholder                 "Пошук імен і пошт">
+<!ENTITY searchNameAndEmail.placeholder                 "Пошук імен і пошти">
 <!ENTITY searchBox.title                                "Пошук">
 
 <!-- Tooltips -->
