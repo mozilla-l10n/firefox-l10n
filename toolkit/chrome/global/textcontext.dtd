@@ -12,6 +12,8 @@
 <!ENTITY deleteCmd.accesskey "E">
 <!ENTITY spellAddToDictionary.label "Añadir al diccionario">
 <!ENTITY spellAddToDictionary.accesskey "o">
+<!ENTITY spellUndoAddToDictionary.label "Deshacer Añadir al diccionario">
+<!ENTITY spellUndoAddToDictionary.accesskey "h">
 <!ENTITY spellCheckEnable.label "Revisar ortografía">
 <!ENTITY spellCheckEnable.accesskey "S">
 <!ENTITY spellNoSuggestions.label "(No hay sugerencias de ortografía)">
