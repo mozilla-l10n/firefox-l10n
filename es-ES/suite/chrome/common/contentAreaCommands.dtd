@@ -52,11 +52,11 @@
 <!ENTITY viewBGImageCmd.accesskey "f">
 <!ENTITY setWallpaperCmd.label "Poner como fondo de escritorio">
 <!ENTITY setWallpaperCmd.accesskey "P">
-<!ENTITY bookmarkPageCmd.label "Añadir esta página a marcadores…">
+<!ENTITY bookmarkPageCmd.label "Añadir esta página a marcadores">
 <!ENTITY bookmarkPageCmd.accesskey "m">
-<!ENTITY bookmarkLinkCmd.label "Añadir enlace a marcadores…">
+<!ENTITY bookmarkLinkCmd.label "Añadir enlace a marcadores">
 <!ENTITY bookmarkLinkCmd.accesskey "A">
-<!ENTITY bookmarkFrameCmd.label "Añadir este marco a marcadores…">
+<!ENTITY bookmarkFrameCmd.label "Añadir este marco a marcadores">
 <!ENTITY bookmarkFrameCmd.accesskey "m">
 <!ENTITY savePageAsCmd.label "Guardar página como…">
 <!ENTITY savePageCmd.label "Guardar página">
