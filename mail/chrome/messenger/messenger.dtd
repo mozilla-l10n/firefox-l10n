@@ -299,6 +299,7 @@
 <!ENTITY thisFolder.label "Esta carpeta">
 <!ENTITY thisFolder.accesskey "E">
 <!ENTITY goRecentlyClosedTabs.label "Pestañas cerradas recientemente">
+<!ENTITY goRecentlyClosedTabs.accesskey "P">
 <!ENTITY startPageCmd.label "Página de inicio del correo">
 <!ENTITY startPageCmd.accesskey "P">
 <!ENTITY msgMenu.label "Mensaje">
