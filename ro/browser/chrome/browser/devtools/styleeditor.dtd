@@ -8,6 +8,7 @@
 # Reviewer(s):
 #
 # raulmalea <raul.malea@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
 #
 -->
 <!-- LOCALIZATION NOTE : FILE This file contains the Style Editor window strings -->
@@ -24,32 +25,32 @@
      of the web page it is editing. -->
 <!ENTITY window.title               "Editor de stil">
 
-<!ENTITY newButton.label            "New">
-<!ENTITY newButton.tooltip          "Create and append a new style sheet to the document">
+<!ENTITY newButton.label            "Nou">
+<!ENTITY newButton.tooltip          "Creează și adaugă o nouă foaie de stil documentului">
 <!ENTITY newButton.accesskey        "N">
 <!ENTITY newButton.commandkey       "n">
 
-<!ENTITY importButton.label         "Import…">
-<!ENTITY importButton.tooltip       "Import and append an existing style sheet to the document">
+<!ENTITY importButton.label         "Importă…">
+<!ENTITY importButton.tooltip       "Importă și adaugă o foaie de stil existentă documentului">
 <!ENTITY importButton.accesskey     "I">
-<!ENTITY importButton.commandkey    "i">
+<!ENTITY importButton.commandkey    "I">
 
-<!ENTITY searchInput.tooltip        "Filter style sheets by name">
-<!ENTITY searchInput.placeholder    "Find style sheet">
+<!ENTITY searchInput.tooltip        "Filtrează foile de stil după nume">
+<!ENTITY searchInput.placeholder    "Găsește foaia de stil">
 
 <!-- LOCALIZATION NOTE  (searchNoResults): This is shown when searching a term
      that is not found in any stylesheet or stylesheet name. -->
-<!ENTITY searchNoResults.label      "No matching style sheet has been found.">
+<!ENTITY searchNoResults.label      "Nu s-a găsit nicio foaie de stil.">
 
 <!-- LOCALIZATION NOTE  (searchClearButton): This button clears the search input
      box and is visible only when a search term has been typed. -->
-<!ENTITY searchClearButton.label    "Clear">
+<!ENTITY searchClearButton.label    "Curăță">
 
-<!ENTITY visibilityToggle.tooltip   "Toggle style sheet visibility">
+<!ENTITY visibilityToggle.tooltip   "Alternează vizibilitatea foii de stil">
 <!ENTITY visibilityToggle.accesskey "V">
 
-<!ENTITY saveButton.label           "Save">
-<!ENTITY saveButton.tooltip         "Save this style sheet to a file">
+<!ENTITY saveButton.label           "Salvează">
+<!ENTITY saveButton.tooltip         "Salvează această foaie de stil într-un fișier">
 <!ENTITY saveButton.accesskey       "S">
 <!ENTITY saveButton.commandkey      "s">
 
@@ -57,19 +58,19 @@
      when the stylesheet uses the scoped attribute on the <style> element. -->
 <!ENTITY scoped.label               "Scoped.">
 
-<!ENTITY editorTextbox.placeholder  "Type CSS here.">
+<!ENTITY editorTextbox.placeholder  "Tastați aici CSS.">
 
 <!-- LOCALICATION NOTE  (noStyleSheet.label): This is shown when a page has no
      stylesheet. -->
-<!ENTITY noStyleSheet.label         "This page has no style sheet.">
+<!ENTITY noStyleSheet.label         "Această pagină nu are nicio foaie de stil.">
 
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-start.label): This is the start of a
      tip sentence shown when there is no stylesheet. It suggests to create a new
      stylesheet and provides an action link to do so. -->
-<!ENTITY noStyleSheet-tip-start.label  "Perhaps you'd like to ">
+<!ENTITY noStyleSheet-tip-start.label  "Poate că ați vrea să ">
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-action.label): This is text for the
      link that triggers creation of a new stylesheet. -->
-<!ENTITY noStyleSheet-tip-action.label "append a new style sheet">
+<!ENTITY noStyleSheet-tip-action.label "adăugați o foaie de stil nouă">
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-end.label): End of the tip sentence -->
 <!ENTITY noStyleSheet-tip-end.label    "?">
 

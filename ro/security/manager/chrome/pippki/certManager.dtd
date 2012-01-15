@@ -133,7 +133,7 @@
 <!ENTITY certmgr.backup2.accesskey            "S">
 <!ENTITY certmgr.backupall2.label             "Salvează tot">
 <!ENTITY certmgr.backupall2.accesskey         "l">
-<!ENTITY certmgr.restore2.label               "Importă">
+<!ENTITY certmgr.restore2.label               "Importă…">
 <!ENTITY certmgr.restore2.accesskey           "m">
 <!ENTITY certmgr.details.label                "Câmpuri certificat">
 <!ENTITY certmgr.details.accesskey            "i">
