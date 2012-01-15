@@ -42,6 +42,10 @@
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label 'Försök igen.'>
 
+<!-- Firefox SyncAdapter Settings Screen -->
+<!ENTITY sync.settings.options.label 'Alternativ'>
+<!ENTITY sync.summary.pair.label 'Länka annan enhet till ditt &syncBrand.shortName.label;-konto'>
+
 <!-- Common text -->
 <!ENTITY sync.button.cancel.label 'Avbryt'>
 <!ENTITY sync.button.connect.label 'Anslut'>
@@ -58,3 +62,6 @@
 <!ENTITY bookmarks.folder.unfiled.label 'Osorterade bokmärken'>
 <!ENTITY bookmarks.folder.desktop.label 'Datorns bokmärken'>
 <!ENTITY bookmarks.folder.mobile.label 'Mobila bokmärken'>
+
+<!-- Notification strings -->
+<!ENTITY sync.notification.oneaccount.label 'Endast ett &syncBrand.fullName.label;-konto kan användas.'>
