@@ -1,3 +1,9 @@
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -67,3 +73,4 @@
 <!ENTITY loaddevice.browse.accesskey            "R">
 
 <!ENTITY loaddevice.title                       "Încarcă dispozitiv PKCS#11">
+

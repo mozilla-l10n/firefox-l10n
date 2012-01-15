@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# mazilu59 <mazilu59@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 
 <!ENTITY  prefWindow.titleWin     "Opțiuni">
 <!ENTITY  prefWindow.titleGNOME   "Preferințe &brandShortName;">
@@ -17,3 +30,4 @@
 
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync.title          "Sincronizare">
+

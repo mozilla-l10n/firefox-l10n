@@ -1,3 +1,17 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY loadError.label "Eroare la încărcarea paginii">
 <!ENTITY retry.label "Încearcă din nou">
 
@@ -24,9 +38,11 @@
 <!ENTITY netInterrupt.title "Transfer de date întrerupt">
 <!ENTITY netInterrupt.longDesc "<p>Navigatorul s-a conectat cu succes, dar conexiunea a fost întreruptă în timp ce se transferau informații.  Vă rugăm încercați din nou.</p><ul><li>Aveți probleme cu navigarea pe alte saituri? Verificați conexiunea la rețea a calculatorului.</li><li>Problemele persistă? Consultați administratorul sau furnizorul dumneavoastră de servicii internet.</li></ul>">
 
+<!ENTITY notCached.title "Document expirat">
+<!ENTITY notCached.longDesc "<p>Documentul cerut nu mai este disponibil în cache-ul navigatorului.</p><ul><li>Ca o măsură de precauție, navigatorul nu cere automat documente ce pot fi confidențiale.</li><li>Apăsați Încearcă din nou pentru a cere din nou documentul de pe sait.</li></ul>">
+
 <!ENTITY netOffline.title "Mod offline">
-<!ENTITY netOffline.longDesc "<p>Navigatorul operează în mod offline și nu poate deschide o conexiune către adresa cerută.</p><ul><li>Este calculatorul conectat la o rețea activă?</li><li>Puneți navigatorul în mod „Online” și încercați din nou.</li></ul>">
-<!ENTITY netOffline.overrideLongDesc "<p>Navigatorul operează în mod offline și nu poate deschide o conexiune către adresa cerută.</p><ul><li>Este calculatorul conectat la o rețea activă?</li><li>Puneți navigatorul în mod „Online” și încercați din nou.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>Navigatorul este în mod offline și nu se poate conecta la elementul cerut.</p><ul><li>Este calculatorul conectat la o rețea activă?</li><li>Apăsați „Încearcă din nou” pentru a comuta la modul online și a reîncărca pagina.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Eroare de codare a conținutului">
 <!ENTITY contentEncodingError.longDesc "<p>Pagina pe care încercați să o vizualizați nu poate fi afișată pentru că folosește o formă de compresie invalidă sau nesuportată.</p><ul><li>Vă rugăm să contactați proprietarii saitului pentru a-i informa despre această problemă.</li></ul>">
@@ -51,8 +67,8 @@
 <!ENTITY proxyResolveFailure.title "Serverul proxy nu a fost găsit">
 <!ENTITY proxyResolveFailure.longDesc "<p>Navigatorul este configurat să folosească un server proxy, însă proxy-ul nu poate fi găsit.</p><ul><li>Este navigatorul configurat corect pentru acel proxy? Verificați parametrii și încercați din nou.</li><li>Este calculatorul conectat la o rețea activă?</li><li>Problemele persistă? Consultați administratorul sau furnizorul dumneavoastră de servicii internet.</li></ul>">
 
-<!ENTITY redirectLoop.title "Buclă de redirijări">
-<!ENTITY redirectLoop.longDesc "<p>Navigatorul a încetat să încerce aducerea conținutului de la adresa cerută. Saitul redirijează cererea astfel încât aceasta nu se va termina niciodată.</p><ul><li>Ați dezactivat sau blocat cookie-urile pentru acest sait?</li><li><em>NOTĂ</em>: Dacă acceptați cookie-uri de la acest sait și totuși problema persistă, este cel mai probabil o problemă de configurație a serverului și nu a calculatorului dumneavoastră.</li></ul>">
+<!ENTITY redirectLoop.title "Buclă de redirecționări">
+<!ENTITY redirectLoop.longDesc "<p>Navigatorul a încetat să încerce aducerea conținutului de la adresa cerută. Saitul redirecționează cererea astfel încât aceasta nu se va termina niciodată.</p><ul><li>Ați dezactivat sau blocat cookie-urile pentru acest sait?</li><li><em>NOTĂ</em>: Dacă acceptați cookie-uri de la acest sait și totuși problema persistă, este cel mai probabil o problemă de configurație a serverului și nu a calculatorului dumneavoastră.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Răspuns incorect">
 <!ENTITY unknownSocketType.longDesc "<p>Saitul a răspuns cererii într-un mod neprevăzut și navigatorul nu mai poate continua.</p>">
@@ -77,8 +93,16 @@
 <!ENTITY cspFrameAncestorBlocked.title "Blocat de politica de securitate asupra conținutului">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Navigatorul a împiedicat această pagină să se încarce în acest mod deoarece pagina are o politică de securitate asupra conținutului ce nu permite asta.</p>">
 
+<!ENTITY corruptedContentError.title "Eroare cauzată de conținut corupt">
+<!ENTITY corruptedContentError.longDesc "<p>Pagina care încercați să o vedeți nu poate fi afișată deoarece a fost detectată o eroare legată de transmiterea datelor.</p><ul><li>Vă rugăm contactați deținătorii saitului pentru a-i informa de această problemă.</li></ul>">
+
+<!ENTITY remoteXUL.title "XUL la distanță">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Vă rugăm să contactați proprietarii websaitului pentru a-i informa despre această problemă.</li></ul></p>">
+
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
-     this inclusion needs to be intact for that approach to work correctly. -->
+     this inclusion needs to be intact for that approach to work correctly.
+     Please, try to keep this at the end of the file. -->
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;
+

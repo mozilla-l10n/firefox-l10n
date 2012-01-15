@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# Octi <octavianiolu@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -43,9 +56,9 @@
 <!ENTITY aboutWarningButton.label "Voi avea grijă, promit!">
 <!ENTITY aboutWarningCheckbox.label "Arată această avertizare data viitoare">
 
-<!ENTITY filterPrefs.label "Filtru:">
-<!ENTITY filterPrefs.accesskey "i">
-<!ENTITY focusFilter.key "f">
+<!ENTITY searchPrefs.label "Căutare:">
+<!ENTITY searchPrefs.accesskey "r">
+<!ENTITY focusSearch.key "r">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "Nume preferință">
@@ -79,3 +92,4 @@
 <!ENTITY integer.accesskey "N">
 <!ENTITY boolean.label "Adevărat/fals">
 <!ENTITY boolean.accesskey "f">
+

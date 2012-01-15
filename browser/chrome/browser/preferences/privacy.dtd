@@ -1,3 +1,23 @@
+<!--
+# Translator(s):
+#
+# raulmalea <raul.malea@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
+# strainu <narro@strainu.ro>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!ENTITY tracking.label                 "Urmărire">
+
+<!ENTITY doNotTrack.label               "Informează saiturile web că nu vreau să fiu urmărit">
+<!ENTITY doNotTrack.accesskey           "I">
+
 <!ENTITY  history.label                 "Istoric">
 
 <!ENTITY  locationBar.label             "Bara adresei">
@@ -15,7 +35,7 @@
 <!ENTITY  acceptCookies.accesskey       "A">
 
 <!ENTITY  acceptThirdParty.label        "Acceptă cookie-uri de la terți">
-<!ENTITY  acceptThirdParty.accesskey    "p">
+<!ENTITY  acceptThirdParty.accesskey    "t">
 
 <!ENTITY  keepUntil.label               "Păstrează-le până când:">
 <!ENTITY  keepUntil.accesskey           "P">
@@ -30,12 +50,11 @@
 <!ENTITY  showCookies.label             "Arată cookie-urile...">
 <!ENTITY  showCookies.accesskey         "c">
 
-
 <!ENTITY  historyHeader.pre.label          "&brandShortName; va:">
 <!ENTITY  historyHeader.pre.accesskey      "v">
 <!ENTITY  historyHeader.remember.label     "Memora istoricul">
 <!ENTITY  historyHeader.dontremember.label "Nu va memora istoricul niciodată">
-<!ENTITY  historyHeader.custom.label       "Folosește setări personalizate pentru istoric">
+<!ENTITY  historyHeader.custom.label       "Folosi setări personalizate pentru istoric">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; va memora istoricul navigării, al descărcărilor, al formularelor și al căutărilor precum și cookie-urile de la saiturile vizitate.">
@@ -43,8 +62,8 @@
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-<!ENTITY  rememberActions.pre.label           "Ați putea dori să ">
-<!ENTITY  rememberActions.clearHistory.label  "curăță istoricul recent">
+<!ENTITY  rememberActions.pre.label           "Ați putea dori ">
+<!ENTITY  rememberActions.clearHistory.label  "să curățați istoricul recent">
 <!ENTITY  rememberActions.middle.label        ", sau ">
 <!ENTITY  rememberActions.removeCookies.label "să ștergeți anumite cookie-uri">
 <!ENTITY  rememberActions.post.label          ".">
@@ -57,8 +76,8 @@
 <!ENTITY  dontrememberActions.clearHistory.label "curățați tot istoricul recent">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent.label "Navigare fără urme în mod permanent">
-<!ENTITY  privateBrowsingPermanent.accesskey "p">
+<!ENTITY  privateBrowsingPermanent2.label "Folosește mereu modul de navigare fără urme">
+<!ENTITY  privateBrowsingPermanent2.accesskey "F">
 
 <!ENTITY  rememberHistory.label      "Memorează istoricul navigării mele">
 <!ENTITY  rememberHistory.accesskey  "M">
@@ -74,3 +93,4 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Setări…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
+

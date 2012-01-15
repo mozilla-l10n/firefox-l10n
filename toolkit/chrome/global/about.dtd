@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY about.version                "versiunea">
 
 <!-- LOCALIZATION NOTE (about.credits.beforeLink): note that there is no space between this phrase and the linked about.credits.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
@@ -25,3 +38,4 @@
 <!ENTITY about.buildconfig.afterTheLink  " folosită pentru această versiune.">
 
 <!ENTITY about.buildIdentifier        "Identificator de contrucție (Build identifier):">
+

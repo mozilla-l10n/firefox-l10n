@@ -1,3 +1,21 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# Sergiu Bivol <sbivol87@gmail.com>
+# raulmalea <raul.malea@gmail.com>
+# x10 <x10@mail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
+# BuBBaX <mikebubbax@yahoo.com>
+# mazilu59 <mazilu59@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
 
@@ -54,11 +72,9 @@ can reach it easily. -->
 <!ENTITY printSetupCmd.accesskey "g">
 <!ENTITY printPreviewCmd.label "Previzualizare tipărire">
 <!ENTITY printPreviewCmd.accesskey "t">
-<!ENTITY printCmd.label "Tipărește...">
+<!ENTITY printCmd.label "Tipărește…">
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "Importă...">
-<!ENTITY import.accesskey "I">
 
 <!ENTITY goOfflineCmd.label "Lucrează offline">
 <!ENTITY goOfflineCmd.accesskey "z">
@@ -92,6 +108,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "A">
 <!ENTITY fullScreenExit.label "Revenire din modul „ecran complet”">
 <!ENTITY fullScreenExit.accesskey "R">
+<!ENTITY domFullScreenWarning.label "Apasă ESC pentru a ieși din vederea pe tot ecranul">
 
 <!ENTITY closeWindow.label "Închide fereastra">
 <!ENTITY closeWindow.accesskey "d">
@@ -104,7 +121,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenuitem.label "Abonare la această pagină...">
 <!ENTITY addCurPagesCmd.label "Pune semne de carte la toate filele...">
 <!ENTITY showAllBookmarks2.label "Arată toate semnele de carte">
-<!ENTITY bookmarkAllCmd.label "Semne de carte la toate filele...">
+<!ENTITY unsortedBookmarksCmd.label "Semne de carte nesortate">
 <!ENTITY bookmarksToolbarChevron.tooltip "Arată mai multe semne de carte">
 
 <!ENTITY backCmd.label                "Înapoi">
@@ -113,6 +130,8 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "Înainte">
 <!ENTITY forwardCmd.accesskey         "n">
 <!ENTITY forwardButton.tooltip        "Mergi cu o pagină înainte">
+<!ENTITY backForwardButtonMenu.tooltip "Clic dreapta sau trageți în jos pentru a vedea istoricul">
+<!ENTITY backForwardButtonMenuMac.tooltip "Trageți în jos pentru a vedea istoricul">
 <!ENTITY reloadCmd.label              "Reîncarcă">
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY reloadButton.tooltip         "Reîncarcă pagina curentă">
@@ -155,7 +174,7 @@ can reach it easily. -->
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
-<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksGtkCmd.commandkey "n">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Istoric">
@@ -179,6 +198,9 @@ can reach it easily. -->
 <!ENTITY addons.accesskey             "S">
 <!ENTITY addons.commandkey            "A">
 
+<!ENTITY webDeveloperMenu.label       "Dezvoltator web">
+<!ENTITY webDeveloperMenu.accesskey   "w">
+
 <!ENTITY errorConsoleCmd.label        "Consolă de erori">
 <!ENTITY errorConsoleCmd.accesskey    "e">
 <!ENTITY errorConsoleCmd.commandkey   "j">
@@ -191,22 +213,42 @@ can reach it easily. -->
 <!ENTITY inspectMenu.accesskey        "t">
 <!ENTITY inspectMenu.commandkey       "I">
 
-<!ENTITY inspectPanelTitle.label      "HTML">
-<!ENTITY inspectButton.label          "Inspectează">
-<!ENTITY inspectButton.accesskey      "I">
-<!ENTITY inspectNextButton.label      "Înainte">
-<!ENTITY inspectNextButton.accesskey  "n">
-<!ENTITY inspectPreviousButton.label  "Înapoi">
-<!ENTITY inspectPreviousButton.accesskey "p">
+<!ENTITY inspectContextMenu.label     "Inspectează elementul">
+<!ENTITY inspectContextMenu.accesskey "I">
+
+<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
+  -  in the Tools menu. See bug 653093.
+  -  The Scratchpad is intended to provide a simple text editor for creating
+  -  and evaluating bits of JavaScript code for the purposes of function
+  -  prototyping, experimentation and convenient scripting.
+  -
+  -  It's quite possible that you won't have a good analogue for the word
+  -  "Scratchpad" in your locale. You should feel free to find a close
+  -  approximation to it or choose a word (or words) that means
+  -  "simple discardable text editor". -->
+<!ENTITY scratchpad.label             "Editor JavaScript">
+<!ENTITY scratchpad.accesskey         "S">
+<!ENTITY scratchpad.keycode           "VK_F4">
+<!ENTITY scratchpad.keytext           "F4">
+
+<!ENTITY inspectPanelTitle.label        "HTML">
+<!ENTITY inspectButton.label            "Inspectează">
+<!ENTITY inspectButton.accesskey        "I">
+<!ENTITY inspectCloseButton.tooltiptext "Închide inspectorul">
+<!ENTITY inspect3DButton.label        "3D">
+<!ENTITY inspect3DButton.accesskey    "M">
 <!ENTITY inspectStyleButton.label     "Stil">
 <!ENTITY inspectStyleButton.accesskey "S">
-<!ENTITY inspectStylePanelTitle.label  "Stil">
-<!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
-  -  appears on the Inspector's toolbar. It is used to open and close the Object
-  -  panel. There is also a label in inspector.properties for the panel
-  -  titlebar: object.objectPanelTitle. -->
-<!ENTITY inspectObjectButton.label       "Obiect">
-<!ENTITY inspectObjectButton.accesskey   "O">
+
+<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
+  -  in the Tools menu. -->
+<!ENTITY styleeditor.label            "Editor de stil">
+<!ENTITY styleeditor.accesskey        "s">
+<!ENTITY styleeditor.keycode          "VK_F7">
+<!ENTITY styleeditor.keytext          "F7">
+
+<!ENTITY getMoreDevtoolsCmd.label        "Obțineți mai multe unelte">
+<!ENTITY getMoreDevtoolsCmd.accesskey    "m">
 
 <!ENTITY fileMenu.label         "Fișier"> 
 <!ENTITY fileMenu.accesskey       "F">
@@ -302,6 +344,7 @@ can reach it easily. -->
   Mac:  Cmd+K (cross platform binding)
         Cmd+Opt+F (platform convention)
   Win:  Ctrl+K (cross platform binding)
+        Ctrl+E (IE compat)
 
   We support Ctrl+K on all platforms now and advertise it in the menu since it is
   our standard - it is a "safe" choice since it is near no harmful keys like "W" as
@@ -312,6 +355,7 @@ can reach it easily. -->
 
  -->
 <!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
 <!ENTITY tabView.commandkey           "e">
@@ -405,21 +449,38 @@ can reach it easily. -->
 <!ENTITY thisFrameMenu.accesskey          "d">
 
 <!-- Media (video/audio) controls -->
+<!-- LOCALIZATION NOTE: The access keys for "Play" and
+"Pause" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaPlay.label             "Redare">
 <!ENTITY mediaPlay.accesskey         "R">
 <!ENTITY mediaPause.label            "Pauză">
 <!ENTITY mediaPause.accesskey        "P">
+<!-- LOCALIZATION NOTE: The access keys for "Mute" and
+"Unmute" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Mut">
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "Activează sonorul">
 <!ENTITY mediaUnmute.accesskey       "A">
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "Arată controalele">
 <!ENTITY mediaShowControls.accesskey "c">
 <!ENTITY mediaHideControls.label     "Ascunde controalele">
 <!ENTITY mediaHideControls.accesskey "c">
 <!ENTITY videoFullScreen.label       "Pe tot ecranul">
 <!ENTITY videoFullScreen.accesskey   "P">
-
+<!ENTITY videoSaveImage.label        "Salvează captura ca…">
+<!ENTITY videoSaveImage.accesskey    "S">
+<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
+"Hide Statistics" are the same because the two context-menu
+items are mutually exclusive. -->
+<!ENTITY videoShowStats.label        "Arată statisticile">
+<!ENTITY videoShowStats.accesskey    "t">
+<!ENTITY videoHideStats.label        "Ascunde statisticile">
+<!ENTITY videoHideStats.accesskey    "t">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -438,8 +499,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
-<!ENTITY fullZoomResetCmd.label         "Normal">
-<!ENTITY fullZoomResetCmd.accesskey     "N">
+<!ENTITY fullZoomResetCmd.label         "Reinițializare">
+<!ENTITY fullZoomResetCmd.accesskey     "n">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
@@ -551,3 +612,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY addonBarCloseButton.tooltip  "Închide bara de suplimente">
 <!ENTITY toggleAddonBarCmd.key        "/">
+

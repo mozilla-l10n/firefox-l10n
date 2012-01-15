@@ -1,3 +1,9 @@
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- -*- Mode: SGML; indent-tabs-mode: nil; -*- -->
 <!--
 
@@ -62,3 +68,4 @@
 
 <!ENTITY            autoSelect.label       "Nu întreba la pornire">
 <!ENTITY            autoSelect.accesskey   "p">
+

@@ -1,3 +1,9 @@
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY cutCmd.label "Taie">
 <!ENTITY cutCmd.accesskey "T">
 <!ENTITY copyCmd.label "Copiază">
@@ -13,8 +19,11 @@
 
 <!ENTITY spellAddToDictionary.label "Adaugă în dicționar">
 <!ENTITY spellAddToDictionary.accesskey "u">
+<!ENTITY spellUndoAddToDictionary.label "Undo Add To Dictionary">
+<!ENTITY spellUndoAddToDictionary.accesskey "n">
 <!ENTITY spellCheckEnable.label "Verifică ortografia">
 <!ENTITY spellCheckEnable.accesskey "o">
 <!ENTITY spellNoSuggestions.label "(nicio sugestie de ortografie)">
 <!ENTITY spellDictionaries.label "Limbi">
 <!ENTITY spellDictionaries.accesskey "L">
+

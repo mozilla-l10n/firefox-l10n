@@ -1,3 +1,9 @@
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY lookInMenuList.label   "Privește în:">
 <!ENTITY lookInMenuList.accesskey   "P">
 <!ENTITY textInput.label        "Nume fișier:">
@@ -15,3 +21,4 @@
 <!ENTITY folderUp.tooltiptext   "Mergi un nivel mai sus">
 <!ENTITY folderHome.tooltiptext "Mergi în directorul personal">
 <!ENTITY folderNew.tooltiptext  "Creează director nou">
+

@@ -1,3 +1,9 @@
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY  engineManager.title       "Gestionare listă motoare de căutare">
 <!ENTITY  engineManager.style       "min-width: 35em;">
 <!ENTITY  engineManager.intro       "Aveți instalate următoarele motoare de căutare:">
@@ -23,3 +29,4 @@
 
 <!ENTITY  restoreDefaults.label     "Restaurează setările implicite">
 <!ENTITY  restoreDefaults.accesskey "e">
+

@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- extracted from printjoboptions.xul -->
 
 <!ENTITY printJobOptions.title "Proprietăți imprimantă">
@@ -39,3 +51,4 @@
 <!ENTITY leftInput.accesskey "S">
 <!ENTITY rightInput.label "Dreapta:">
 <!ENTITY rightInput.accesskey "r">
+

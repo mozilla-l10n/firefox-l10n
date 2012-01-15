@@ -1,6 +1,28 @@
+<!--
+# Translator(s):
+#
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
+# Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
+# Laudatti <Laudatti@gmail.com>
+# AdiJapan <adi.japan@yahoo.com>
+# alexef <alex@eftimie.ro>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY addons.windowTitle                   "Gestionar de suplimente">
+
 <!ENTITY search.placeholder                   "Caută în toate suplimentele">
-<!ENTITY loading.label                        "Încărcare...">
+<!-- LOCALIZATION NOTE (search.commandKey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
+
+<!ENTITY loading.label                        "Încărcare…">
 <!ENTITY listEmpty.installed.label            "Nu aveți vreun supliment de acest tip instalat">
 <!ENTITY listEmpty.availableUpdates.label     "Nicio actualizare găsită">
 <!ENTITY listEmpty.recentUpdates.label        "Nu ați actualizat recent niciun supliment">
@@ -23,14 +45,13 @@
 <!ENTITY warning.updatesecurity.enable.label       "Activează">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Activează verificarea securității actualizărilor suplimentelor">
 
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Verificați pentru a vedea dacă modulele dumnevoastră sunt actualizate">
+<!ENTITY info.plugincheck.tooltip               "Verificați pentru a vedea dacă modulele dumnevoastră sunt actualizate">
+
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Căutare">
 <!ENTITY view.discover.label                  "Obțineți suplimente">
-<!ENTITY view.locales.label                   "Limbi">
-<!ENTITY view.searchengines.label             "Motoare de căutare">
-<!ENTITY view.features.label                  "Extensii">
-<!ENTITY view.appearance2.label               "Aspect">
-<!ENTITY view.plugins.label                   "Module">
 <!ENTITY view.recentUpdates.label             "Actualizări recente">
 <!ENTITY view.availableUpdates.label          "Actualizări disponibile">
 
@@ -188,7 +209,7 @@
 <!ENTITY addon.updateAvailable.label          "Este disponibilă o actualizare">
 <!ENTITY addon.checkingForUpdates.label       "Se caută actualizări…">
 <!ENTITY addon.releaseNotes.label             "Note asupra ediției:">
-<!ENTITY addon.loadingReleaseNotes.label      "Încărcare...">
+<!ENTITY addon.loadingReleaseNotes.label      "Încărcare…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Ne pare rău, dar a intervenit o eroare la încărcarea notelor asupra ediției.">
 
 <!ENTITY addon.createdBy.label                "De către ">
@@ -197,3 +218,6 @@
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
 <!ENTITY eula.accept                          "Accept, instalează...">
+
+<!ENTITY settings.path.button.label           "Răsfoiește...">
+

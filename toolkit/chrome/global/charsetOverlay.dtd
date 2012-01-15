@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- extracted from charsetOverlay.xul -->
 <!ENTITY charsetMenu.label             "Codare caractere">
 <!ENTITY charsetMenu.accesskey         "C">
@@ -19,3 +31,4 @@
 <!ENTITY charsetMenuUnicode.accesskey  "U">
 <!ENTITY charsetCustomize.label        "Personalizează lista...">
 <!ENTITY charsetCustomize.accesskey    "P">
+

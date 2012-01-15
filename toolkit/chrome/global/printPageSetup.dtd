@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- extracted from printjoboptions.xul -->
 
 <!ENTITY printSetup.title    "Aranjare în pagină">
@@ -60,3 +72,4 @@
 
 <!ENTITY customPrompt.title  "Personalizat…">
 <!ENTITY customPrompt.prompt "Introduceți textul personalizat pentru antet/subsol">
+

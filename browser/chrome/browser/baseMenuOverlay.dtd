@@ -1,3 +1,17 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
+# Laudatti <Laudatti@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "Minimizează">
 <!ENTITY bringAllToFront.label    "Adu toate în față">
@@ -5,11 +19,11 @@
 <!ENTITY windowMenu.label         "Fereastră">
 
 <!ENTITY helpMenu.label           "Ajutor"> 
-<!ENTITY helpMenu.accesskey       "A"> 
+<!ENTITY helpMenu.accesskey       "j"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Ajutor"> 
-<!ENTITY helpMenuWin.accesskey    "A">
+<!ENTITY helpMenuWin.accesskey    "j">
 <!ENTITY aboutProduct.label       "Despre &brandShortName;">
 <!ENTITY aboutProduct.accesskey   "D">
 <!ENTITY productHelp.label        "Manual &brandShortName;">
@@ -36,3 +50,4 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Arată toate">
+

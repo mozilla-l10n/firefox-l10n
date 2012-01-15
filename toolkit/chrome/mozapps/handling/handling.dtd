@@ -1,5 +1,12 @@
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY window.emWidth "26em">
 <!ENTITY window.emHeight "26em">
 <!ENTITY ChooseApp.description "Alege o aplicație">
 <!ENTITY ChooseApp.label "Alege...">
 <!ENTITY ChooseApp.accessKey "A">
+

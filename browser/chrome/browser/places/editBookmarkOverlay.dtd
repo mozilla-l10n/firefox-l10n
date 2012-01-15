@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY editBookmarkOverlay.name.label                      "Nume:">
 <!ENTITY editBookmarkOverlay.name.accesskey                  "N">
 <!ENTITY editBookmarkOverlay.location.label                  "Adresă:">
@@ -6,7 +18,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "A">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Adresa saitului:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "A">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "Titluri actualizabile">
 <!ENTITY editBookmarkOverlay.folder.label                    "Dosar:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Arată toate dosarele cu semne de carte">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Ascunde">
@@ -23,3 +34,4 @@
 <!ENTITY editBookmarkOverlay.choose.label                    "Alege...">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "Dosar nou">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "n">
+

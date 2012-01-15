@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY  updateWizard.title              "Actualizare &brandShortName;">
 
 <!ENTITY  offline.title                   "&brandShortName; e în modul offline">
@@ -49,3 +61,4 @@
 <!ENTITY  clickFinish.label               "Apăsați „Încheiere” pentru a continua pornirea &brandShortName;.">
 <!ENTITY  clickFinish.labelMac            "Clicați Gata (Done) pentru a continua pornirea &brandShortName;.">
 <!ENTITY  enableChecking.label            "Permite &brandShortName; să verifice dacă există actualizări.">
+

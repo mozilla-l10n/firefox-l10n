@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY  warnAddonInstall.label        "Avertizează-mă când saiturile încearcă să instaleze suplimente">
 <!ENTITY  warnAddonInstall.accesskey    "v">
 
@@ -9,7 +21,7 @@
   "known").
 -->
 <!ENTITY  blockAttackSites.label     "Blochează saiturile raportate ca fiind de atac">
-<!ENTITY  blockAttackSites.accesskey "B">
+<!ENTITY  blockAttackSites.accesskey "l">
 
 <!ENTITY  blockWebForgeries.label     "Blochează saiturile raportate ca fiind falsuri">
 <!ENTITY  blockWebForgeries.accesskey "B">
@@ -32,3 +44,4 @@
 
 <!ENTITY  savedPasswords.label            "Parole salvate…">
 <!ENTITY  savedPasswords.accesskey        "P">
+

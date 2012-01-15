@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY newWindowsAsTabs.label       "Deschide ferestrele noi în file">
 <!ENTITY newWindowsAsTabs.accesskey   "t">
 
@@ -15,3 +27,4 @@
 
 <!ENTITY showTabsInTaskbar.label          "Arată miniaturi ale filelor în bara de activități din Windows">
 <!ENTITY showTabsInTaskbar.accesskey      "A">
+

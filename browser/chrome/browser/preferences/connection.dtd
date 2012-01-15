@@ -1,3 +1,9 @@
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 
 <!ENTITY  connectionsDialog.title       "Parametri conexiune">
 <!ENTITY  window.width                  "40em">
@@ -38,3 +44,4 @@
 <!ENTITY  noproxyExplain.label          "Exemplu: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Folosește acest proxy pentru toate protocoalele">
 <!ENTITY  shareproxy.accesskey          "x">
+

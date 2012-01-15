@@ -1,3 +1,18 @@
+<!--
+# Translator(s):
+#
+# AdiJapan <adi.japan@yahoo.com>
+# Alexandru Szasz <alexxed@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
+# raulmalea <raul.malea@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY testpilot.brand.label                      "Pilot de încercare">
 <!ENTITY testpilot.settings.label                   "Setări">
 <!ENTITY testpilot.settings.dataSubmission.label    "Trimitere de date">
@@ -31,3 +46,4 @@
 <!ENTITY testpilot.sad.label          "Firefox m-a făcut trist, pentru că…">
 <!ENTITY testpilot.broken.label      "Raportează acest sait web ca defect…">
 <!ENTITY testpilot.idea.label        "Dați-ne o sugestie…">
+

@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY  fontsDialog.title                       "Fonturi">
 <!ENTITY  window.width                            "43em">
 <!ENTITY  window.macWidth                         "47em">
@@ -18,7 +30,7 @@
 <!ENTITY  sans-serif.label                        "Sans-serif:">
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Monospațiat:">
-<!ENTITY  monospace.accesskey                     "M">
+<!ENTITY  monospace.accesskey                     "i">
 
 <!ENTITY  font.langGroup.latin1                   "Occidental">
 <!ENTITY  font.langGroup.latin2                   "Central-european">
@@ -67,3 +79,4 @@
 <!ENTITY languages.customize.Charset.grouplabel         "Codare caractere">
 <!ENTITY languages.customize.DefaultCharset.label       "Codare implicită caractere:">
 <!ENTITY languages.customize.DefaultCharset.accesskey   "C">
+
