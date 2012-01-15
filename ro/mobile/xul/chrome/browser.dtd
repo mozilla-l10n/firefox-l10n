@@ -1,0 +1,142 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# rz <rz@r2dev.ro>
+# secarica <orice@secarica.ro>
+# xdaiana <xdaiana@yahoo.com>
+# janimo <jani@ubuntu.com>
+# raulmalea <raul.malea@gmail.com>
+# Irina Sandu <irina.sandu@mozilla.ro>
+# https://www.google.com/accounts/o8/id?id=AItOawlnUhqAust-7hqM7HhylXGcKyQHz7bLFkw <https://www.google.com/accounts/o8/id?id=AItOawlnUhqAust-7hqM7HhylXGcKyQHz7bLFkw>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!ENTITY urlbar.emptytext      "Adresă sau căutare">
+
+<!ENTITY back.label            "Înapoi">
+<!ENTITY forward.label         "Înainte">
+<!ENTITY reload.label          "Reîncarcă">
+<!ENTITY stop.label            "Oprește">
+<!ENTITY go.label              "Du-te">
+<!ENTITY star.label            "Steluță">
+
+<!ENTITY showTabs.label        "Arată file">
+<!ENTITY newtab.label          "Filă nouă">
+<!ENTITY closetab.label        "Închide fila">
+
+<!ENTITY cut.label             "Decupează">
+<!ENTITY copy.label            "Copiază">
+<!ENTITY copyAll.label         "Copiază tot">
+<!ENTITY copylink.label        "Copiază adresa legăturii">
+<!ENTITY paste.label           "Inserează">
+<!ENTITY pasteAndGo.label      "Inserează și încarcă">
+<!ENTITY delete.label          "Șterge">
+<!ENTITY selectAll.label       "Selectează tot">
+<!ENTITY noSuggestions.label   "(Nicio sugestie)">
+<!ENTITY addToDictionary.label "Adaugă la dicționar">
+<!ENTITY inputMethod.label     "Alegeți metoda de introducere">
+
+<!ENTITY allPagesHeader.label      "Toate paginile">
+<!ENTITY bookmarksHeader.label     "Semne de carte">
+<!ENTITY historyHeader.label       "Istoric">
+<!ENTITY desktopHeader.label       "Birou">
+
+<!ENTITY editBookmarkDialog.title  "Editează semnul de carte">
+<!ENTITY editBookmarkDone.label    "Gata">
+<!ENTITY editBookmarkTags.label    "Adăugați etichete aici">
+
+<!ENTITY selectHelper.done         "Gata">
+
+<!ENTITY addonsHeader.label        "Suplimente">
+<!ENTITY addonsLocal.label         "Suplimentele tale">
+<!ENTITY addonsUpdate.label        "Actualizează">
+<!ENTITY addonsRepo.label          "Obțineți suplimente">
+<!ENTITY addonsRecommended.label   "Recomandate">
+<!ENTITY addonsSearch.label        "Căutare">
+<!ENTITY addonsSearch2.emptytext   "Caută în catalog">
+<!ENTITY addonsSearch.recommended  "Recomandate">
+
+<!ENTITY addonOptions.label        "Opțiuni">
+<!ENTITY addonEnable.label         "Activează">
+<!ENTITY addonDisable.label        "Deactivează">
+<!ENTITY addonInstall2.label       "Adaugă la &brandShortName;">
+<!ENTITY addonUninstall.label      "Dezinstalează">
+<!ENTITY addonCancel.label         "Renunță">
+<!ENTITY addonShowPage.label       "Mergi la pagina">
+
+<!ENTITY downloadsHeader.label     "Descărcări">
+<!ENTITY downloadShowPage.label    "Mergi la pagina">
+<!ENTITY downloadShow2.label       "Găsește">
+<!ENTITY downloadOpen2.label       "Deschide">
+<!ENTITY downloadCancel.label      "Renunță">
+<!ENTITY downloadPause.label       "Pauză">
+<!ENTITY downloadResume.label      "Continuă">
+<!ENTITY downloadRetry.label       "Încearcă din nou">
+<!ENTITY downloadRemove.label      "Elimină">
+<!ENTITY downloadDelete.label      "Șterge">
+<!ENTITY downloadFailed.label      "Eșuat">
+
+<!ENTITY noResults.label           "Niciun rezultat">
+<!ENTITY allBookmarks.label        "Vezi toate semnele de carte">
+
+<!ENTITY bookmarkPopup.label       "S-a pus semn la pagină">
+<!ENTITY bookmarkRemove.label      "Elimină">
+<!ENTITY bookmarkEdit.label        "Editează">
+<!ENTITY bookmarkShortcut.label    "Adaugă la ecranul principal">
+
+<!ENTITY identity.unverifiedsite2 "Acest sait nu furnizează informații despre identitatea sa.">
+<!ENTITY identity.connectedTo2 "Conectat la">
+<!-- Localization note (identity.runBy2)
+ The layout of the identity dialog prevents combining this into a single string with
+ substitution variables.  If it is difficult to translate the sense of the string
+ with that structure, consider a translation which ignores the preceding domain and
+ just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy2 "rulat de">
+
+<!ENTITY consoleHeader.label       "Consolă de erori">
+<!ENTITY consoleAll.label          "Toate">
+<!ENTITY consoleErrors.label       "Erori">
+<!ENTITY consoleWarnings.label     "Avertismente">
+<!ENTITY consoleMessages.label     "Mesaje">
+<!ENTITY consoleCodeEval.label     "Cod:">
+<!ENTITY consoleClear.label        "Curăță">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "Fișier sursă:">
+<!ENTITY consoleErrLine.label      "Rândul:">
+<!ENTITY consoleErrColumn.label    "Coloana:">
+
+<!ENTITY contextOpenInNewTab.label    "Deschide legătura în filă nouă">
+<!ENTITY contextSaveImage.label       "Salvează imaginea">
+<!ENTITY contextCopyLink.label        "Copiază legătura">
+<!ENTITY contextCopyEmail.label       "Copiază adresa de email">
+<!ENTITY contextCopyPhone.label       "Copiază numărul de telefon">
+<!ENTITY contextCopyImageLocation.label       "Copiază adresa imaginii">
+<!ENTITY contextShareLink.label       "Trimitere legătură">
+<!ENTITY contextShareImage.label      "Trimite imaginea">
+<!ENTITY contextBookmarkLink.label    "Adaugă legătura ca semn de carte">
+<!ENTITY contextSaveVideo.label       "Salvează clipul">
+<!ENTITY contextShareVideo.label      "Trimite clipul">
+<!ENTITY contextPlayMedia.label       "Redare">
+<!ENTITY contextPauseMedia.label      "Pauză">
+<!ENTITY contextFullScreen.label      "Ecran complet">
+<!ENTITY contextEditBookmark.label    "Editează">
+<!ENTITY contextRemoveBookmark.label  "Elimină">
+<!ENTITY contextShortcutBookmark.label "Adaugă la ecranul principal">
+
+<!ENTITY pageactions.saveas.pdf      "Salvează ca PDF">
+<!ENTITY pageactions.share.page      "Trimite pagina">
+<!ENTITY pageactions.password.forget "Uită parola">
+<!ENTITY pageactions.quit            "Ieșire">
+<!ENTITY pageactions.reset           "Curăță preferințele saitului">
+<!ENTITY pageactions.findInPage      "Găsește în pagină">
+<!ENTITY pageactions.search.addNew   "Adăugare motor de căutare">
+<!ENTITY pageactions.charEncoding    "Codarea caracterelor">
+
+<!ENTITY appMenu.siteOptions         "Opțiuni sait">
+

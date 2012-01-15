@@ -1,0 +1,26 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# Irina Sandu <irina.sandu@mozilla.ro>
+# raulmalea <raul.malea@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!ENTITY feedbackHeader2.label          "Unelte de feedback">
+
+<!ENTITY feedback.communicate.title     "Comunică cu noi!">
+<!ENTITY feedback.feedback.title        "Trimite-ne opinia ta">
+<!ENTITY feedback.feedback.good         "Bun">
+<!ENTITY feedback.feedback.bad          "Rău">
+
+<!ENTITY feedback.tools.title           "Unelte">
+<!ENTITY feedback.allowTelemetry.title  "Trimiteți date despre performanță">
+<!ENTITY feedback.forceCompat.title     "Forțează compatibilitatea suplimentelor">
+<!ENTITY feedback.errorConsole.title    "Activează consola de eroare">
+

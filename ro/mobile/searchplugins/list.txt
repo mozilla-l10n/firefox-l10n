@@ -1,3 +1,4 @@
+amazondotcom
 google
 twitter
-wikipedia-ro
+wikipedia

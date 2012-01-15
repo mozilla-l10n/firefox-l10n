@@ -1,0 +1,21 @@
+<!--
+# Translator(s):
+#
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!ENTITY aboutAddons.title                      "Gestionar de suplimente">
+<!ENTITY aboutAddons.header                     "Suplimente">
+<!ENTITY aboutAddons.options                    "Opțiuni">
+
+<!ENTITY addonAction.enable                     "Activează">
+<!ENTITY addonAction.disable                    "Deactivează">
+<!ENTITY addonAction.uninstall                  "Dezinstalează">
+<!ENTITY addonAction.cancel                     "Renunță">
+
