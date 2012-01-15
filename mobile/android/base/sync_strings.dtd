@@ -41,7 +41,11 @@
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label "Prosím opkaujte znovu.">
-  
+
+<!-- Firefox SyncAdapter Settings Screen -->
+<!ENTITY sync.settings.options.label "Možnosti">
+<!ENTITY sync.summary.pair.label "K účtu &syncBrand.shortName.label; připojit další zařízení">
+
 <!-- Common text -->
 <!ENTITY sync.button.cancel.label "Zrušit">
 <!ENTITY sync.button.connect.label "Připojit">
@@ -58,3 +62,6 @@
 <!ENTITY bookmarks.folder.unfiled.label "Netříděné záložky">
 <!ENTITY bookmarks.folder.desktop.label "Záložky z desktopu">
 <!ENTITY bookmarks.folder.mobile.label "Záložky z mobilu">
+
+<!-- Notification strings -->
+<!ENTITY sync.notification.oneaccount.label "Pouze jeden účet &syncBrand.fullName.label; je podporován.">
