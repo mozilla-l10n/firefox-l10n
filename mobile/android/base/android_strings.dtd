@@ -26,9 +26,7 @@
 
 <!ENTITY awesomebar_default_text "Įveskite ieškomą frazę arba adresą">
 
-<!ENTITY bookmarks_title "Adresynas">
-<!ENTITY bookmark_add "Įtraukti">
-<!ENTITY bookmark_remove "Pašalinti">
+<!ENTITY bookmark "Adresyne">
 <!ENTITY bookmark_added "Tinklalapis įtrauktas į adresyną">
 <!ENTITY bookmark_removed "Tinklalapis pašalintas iš adresyno">
 
@@ -50,10 +48,6 @@
 <!ENTITY pref_about_firefox "Apie „&brandShortName;“">
 <!ENTITY pref_do_not_track "Nurodyti svetainėms, kad jos Jūsų nesektų">
 <!ENTITY pref_telemetry "Siųsti našumo ataskaitas">
-<!ENTITY pref_homepage "Pradžios tinklalapis">
-<!ENTITY pref_homepage_start "„Firefox“ numatytasis">
-<!ENTITY pref_homepage_blank "Tuščias tinklalapis">
-<!ENTITY pref_homepage_current "Šiuo metu atvertas tinklalapis">
 <!ENTITY pref_remember_signons "Įsiminti slaptažodžius">
 <!ENTITY pref_cookies "Leisti įrašyti slapukus">
 <!ENTITY pref_char_encoding "Rodyti naudojamą koduotę">
@@ -75,6 +69,7 @@
 <!ENTITY quit "Baigti darbą">
 
 <!ENTITY addons "Priedai">
+<!ENTITY downloads "Atsiuntimai">
 
 <!ENTITY share "Dalintis tinklalapiu">
 <!ENTITY save_as_pdf "Įrašyti PDF formatu">
