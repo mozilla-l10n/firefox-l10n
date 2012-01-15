@@ -15,7 +15,7 @@
 <!ENTITY languages.customize.others.label               "Інші:">
 <!ENTITY languages.customize.others.accesskey           "І">
 <!ENTITY languages.customize.Charset.grouplabel         "Типове кодування символів">
-<!ENTITY languages.customize.DefaultCharset.label       "Кодуванння символів:">
+<!ENTITY languages.customize.DefaultCharset.label       "Кодування символів:">
 <!ENTITY languages.customize.DefaultCharset.accesskey   "К">
 <!-- LOCALIZATION NOTE  Character Encoding Preferences Dialog: Do NOT localize the terms "en-bz, ar-jo"  -->
 <!ENTITY languages.customize.others.examples            "наприклад: en-bz, ar-jo">

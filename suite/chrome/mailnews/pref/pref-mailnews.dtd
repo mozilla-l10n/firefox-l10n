@@ -39,10 +39,10 @@
 <!ENTITY generalSettings.caption          "Основні параметри">
 <!ENTITY confirmMove.label                "Підтверджувати, коли теки пересуваються в кошик">
 <!ENTITY confirmMove.accesskey            "П">
-<!ENTITY preserveThreading.label          "Збергігати гілку, коли впорядковуюються листи">
+<!ENTITY preserveThreading.label          "Зберігати гілку, коли впорядковуються листи">
 <!ENTITY preserveThreading.accesskey      "З">
-<!ENTITY mailBiffOnNewWindow.label        "Перевіряти нові листи лише під час відриття пошти та новин">
-<!ENTITY mailBiffOnNewWindow.accesskey    "O">
+<!ENTITY mailBiffOnNewWindow.label        "Перевіряти нові листи лише під час відкриття пошти та новин">
+<!ENTITY mailBiffOnNewWindow.accesskey    "е">
 
 <!ENTITY defaultMailSettings.description  "Зробити &brandShortName; типовою програмою для:">
 <!ENTITY setDefaultMail.label             "Пошти">

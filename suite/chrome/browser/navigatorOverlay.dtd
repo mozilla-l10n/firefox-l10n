@@ -113,7 +113,7 @@
 <!ENTITY cookieAllowImagesMsg.label "Зображення з цього сайту завжди буде звантажено.">
 <!ENTITY cookieImagesDefaultCmd.label "Скористатись типовими правами на зображення">
 <!ENTITY cookieImagesDefaultCmd.accesskey "С">
-<!ENTITY cookieImagesDefaultMsg.label "Зображення з цього сайту завжи будуть звантажуватись відповідно до типових налаштувань.">
+<!ENTITY cookieImagesDefaultMsg.label "Зображення з цього сайту завжди будуть звантажуватись відповідно до типових налаштувань.">
 <!ENTITY cookieBlockImagesCmd.label "Заблокувати зображення з цього сайту">
 <!ENTITY cookieBlockImagesCmd.accesskey "З">
 <!ENTITY cookieBlockImagesMsg.label "Зображення з цього сайту ніколи не будуть звантажуватись.">
@@ -125,7 +125,7 @@
 
 <!ENTITY cookieCookieManager.label "Менеджер кук">
 <!ENTITY cookieCookieManager.accesskey "к">
-<!ENTITY cookieImageManager.label "Менеджер зобржень">
+<!ENTITY cookieImageManager.label "Менеджер зображень">
 <!ENTITY cookieImageManager.accesskey "з">
 <!ENTITY cookiePopupManager.label "Менеджер виринань">
 <!ENTITY cookiePopupManager.accesskey "в">

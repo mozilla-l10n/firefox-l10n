@@ -40,13 +40,13 @@
 <!ENTITY headline.label
 'Ласкаво просимо до пошти та груп новин <a id="vendorURL" href="">&brandShortName;</a>!'>
 <!ENTITY description.label
-"Пошта та групи новин &brandShortName; — потужний клієнт пошти і новин з відкритим кодом, який підртимує додаткові можливості виявлення спаму та багато інших корисних властивостей.">
+"Пошта та групи новин &brandShortName; — потужний клієнт пошти і новин з відкритим кодом, який підтримує додаткові можливості виявлення спаму та багато інших корисних властивостей.">
 <!ENTITY features.title "Властивості">
 <!ENTITY feat_multiacc.label "Підтримування багатьох облікових записів">
 <!ENTITY feat_junk.label "Виявлення спаму">
 <!ENTITY feat_feeds.label "Читання подач">
 <!ENTITY feat_filters.label "Фільтри листів">
-<!ENTITY feat_htmlmsg.label "Підримування листів HTML">
+<!ENTITY feat_htmlmsg.label "Підтримування листів HTML">
 <!ENTITY feat_abook.label "Адресна книга">
 <!ENTITY feat_labels.label "Регульовні мітки і перегляд пошти">
 <!ENTITY feat_integration.label

@@ -12,7 +12,7 @@
 <!ENTITY viewingMessages.label            "Лист">
 <!ENTITY notifications.label              "Сповіщення">
 <!ENTITY address.label                    "Адресування">
-<!ENTITY composingMessages.label          "Скаладання">
+<!ENTITY composingMessages.label          "Складання">
 <!ENTITY format.label                     "Формат надсилання">
 <!ENTITY return.label                     "Сповіщення про доставлення">
 <!ENTITY junk.label                       "Спам">

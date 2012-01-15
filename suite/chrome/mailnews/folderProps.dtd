@@ -67,7 +67,7 @@
 <!ENTITY retentionKeepRecent.label "Найновіші">
 <!ENTITY retentionKeepRecent.accesskey "Н">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Завжди вилучати прочитані листи (перекриває налаштування щодо давньості)">
+<!ENTITY retentionKeepUnreadHidden.label "Завжди вилучати прочитані листи (перекриває налаштування щодо давності)">
 <!ENTITY retentionApplyToFlagged.label "Завжди зберігати позначені листи">
 <!ENTITY retentionApplyToFlagged.accesskey "З">
 

@@ -20,7 +20,7 @@
 <!ENTITY viewQuota.accesskey          "П">
 <!ENTITY changePassword.label         "Змінити пароль">
 <!ENTITY changePassword.accesskey     "З">
-<!ENTITY myRecoveryKey.label          "Мій відновувальний ключ">
+<!ENTITY myRecoveryKey.label          "Мій відновлювальний ключ">
 <!ENTITY myRecoveryKey.accesskey      "М">
 <!ENTITY resetSync.label              "Скинути синхронізацію">
 <!ENTITY resetSync.accesskey          "С">

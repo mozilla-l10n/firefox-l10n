@@ -4,7 +4,7 @@
 <!ENTITY navRadio.accesskey             "П">
 <!ENTITY navStartPageMenu.label         "Після запуску переглядача">
 <!ENTITY newWinPageMenu.label           "У новому вікні">
-<!ENTITY newTabPageMenu.label           "Новій вклаці">
+<!ENTITY newTabPageMenu.label           "Новій вкладці">
 
 <!ENTITY blankPageRadio.label           "Порожня сторінка">
 <!ENTITY blankPageRadio.accesskey       "П">
@@ -30,5 +30,5 @@
 <!ENTITY defaultBrowserButton.label     "Встановити типовим переглядачем">
 <!ENTITY defaultBrowserButton.accesskey "В">
 <!ENTITY alreadyDefaultText             "&brandShortName; вже є типовим переглядачем.">
-<!ENTITY defaultPendingText             "&brandShortName; буде встановленим як типовий переглядач, коли ви натисните «Гаразд».">
+<!ENTITY defaultPendingText             "&brandShortName; буде встановленим як типовий переглядач, коли ви натиснете «Гаразд».">
 <!ENTITY makeDefaultText                "Встановити &brandShortName; як типовий переглядач.">

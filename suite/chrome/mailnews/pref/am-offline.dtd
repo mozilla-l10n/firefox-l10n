@@ -16,7 +16,7 @@
 <!ENTITY nntpDownloadMsg.accesskey "о">
 <!ENTITY retentionCleanup.label "Для звільнення місця на диску старі листи можна вилучити">
 <!ENTITY retentionCleanupImap.label "Щоб відновити дисковий простір, старі листи можуть постійно вилучатись, як і локальні копії, так і оригінали на сервері.">
-<!ENTITY retentionCleanupPop.label "Щоб відновити дисковий простір, старі листи можуть постійно вилучатись, разом з їхніми ориганілами на сервері.">
+<!ENTITY retentionCleanupPop.label "Щоб відновити дисковий простір, старі листи можуть постійно вилучатись, разом з їхніми оригіналами на сервері.">
 <!ENTITY retentionKeepMsg.label "Вилучати листи давніші за">
 <!ENTITY retentionKeepMsg.accesskey "д">
 <!ENTITY retentionKeepAll.label "Не вилучати листи">
@@ -24,7 +24,7 @@
 <!ENTITY retentionKeepRecent.label "Вилучати всі, крім останніх">
 <!ENTITY retentionKeepRecent.accesskey "к">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Завжди вилучати прочитані листи (перекриває налаштування давньості)">
+<!ENTITY retentionKeepUnreadHidden.label "Завжди вилучати прочитані листи (перекриває налаштування давності)">
 <!ENTITY retentionApplyToFlagged.label "Завжди утримувати визначені листи">
 <!ENTITY retentionApplyToFlagged.accesskey "з">
 <!ENTITY nntpRemoveMsgBody.label "Вилучати тіла листів більші за">
