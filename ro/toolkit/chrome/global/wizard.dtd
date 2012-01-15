@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY  button-back-mac.label        "Înapoi">
 <!ENTITY  button-back-mac.accesskey    "n">
 <!ENTITY  button-next-mac.label        "Continuă">
@@ -18,3 +30,4 @@
 <!ENTITY  button-next-win.accesskey    "n">
 <!ENTITY  button-finish-win.label      "Încheiere">
 <!ENTITY  button-cancel-win.label      "Renunță">
+

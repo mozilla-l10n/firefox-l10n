@@ -1,5 +1,11 @@
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY dialog.title             "Personalizare bară de unelte">
-<!ENTITY dialog.style             "width: 635px; height: 400px;">
+<!ENTITY dialog.style             "width: 86ch; height: 36em;">
 <!ENTITY instructions.description "Puteți adăuga sau elimina elemente trăgându-le pe sau de pe barele de unelte.">
 <!ENTITY show.label               "Afișează:">
 <!ENTITY iconsAndText.label       "Iconițe și text">
@@ -10,3 +16,4 @@
 <!ENTITY addNewToolbar.label      "Adaugă o bară de unelte">
 <!ENTITY saveChanges.label        "Gata">
 <!ENTITY undoChanges.label        "Anulează schimbările">
+

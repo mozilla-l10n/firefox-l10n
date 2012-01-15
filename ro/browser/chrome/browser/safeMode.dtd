@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
 #if 0
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
@@ -36,7 +48,7 @@
 #endif
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY safeModeDialog.title         "&brandShortName; - Mod de siguranță">
+<!ENTITY safeModeDialog.title         "&brandShortName; - Modul sigur">
 <!ENTITY window.width                 "40em">
 
 <!ENTITY safeModeDescription.label    "&brandShortName; rulează acum în modul sigur, ceea ce înseamnă că sunt dezactivate temporar temele și extensiile dumneavoastră, precum și parametrii personalizați.">
@@ -59,3 +71,4 @@
 
 <!ENTITY changeAndRestartButton.label "Fă schimbările și repornește">
 <!ENTITY continueButton.label         "Continuă în modul sigur">
+

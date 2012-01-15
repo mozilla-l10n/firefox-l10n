@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY aboutSupport.pageTitle "Informații de depanare">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
@@ -16,6 +29,8 @@
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Module activate">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configurație de construcție">
 <!ENTITY aboutSupport.appBasicsUserAgent "Agent de utilizator">
+<!ENTITY aboutSupport.appBasicsCrashIDs "Rapoarte de defecte">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Utilizare memorie">
 
 <!ENTITY aboutSupport.show.label "Deschide dosarul conținător">
 
@@ -24,7 +39,7 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
 <!ENTITY aboutSupport.showMac.label "Arată în Finder">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "Preferințe modificate">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Important Modified Preferences">
 <!ENTITY aboutSupport.modifiedPrefsName "Nume">
 <!ENTITY aboutSupport.modifiedPrefsValue "Valoare">
 
@@ -34,3 +49,4 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.updateHistoryTitle "Istoricul actualizărilor">
 
 <!ENTITY aboutSupport.copyToClipboard.label "Copiază tot în memoria temporară">
+

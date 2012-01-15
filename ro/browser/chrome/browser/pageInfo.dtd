@@ -1,4 +1,16 @@
 <!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
 # ***** BEGIN LICENSE BLOCK *****
 # Version: MPL 1.1/GPL 2.0/LGPL 2.1
 #
@@ -75,7 +87,7 @@
 <!ENTITY  mediaDimension        "Dimensiuni:">
 <!ENTITY  mediaLongdesc         "Descriere lungă:">
 <!ENTITY  mediaBlockImage.accesskey "B">
-<!ENTITY  mediaSaveAs           "Salvează ca...">
+<!ENTITY  mediaSaveAs           "Salvează ca…">
 <!ENTITY  mediaSaveAs.accesskey "S">
 <!ENTITY  mediaSaveAs2.accesskey "e">
 <!ENTITY  mediaPreview          "Previzualizare media:">
@@ -126,3 +138,4 @@
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "p">
 
 <!ENTITY  securityView.technical.header                 "Detalii tehnice">
+

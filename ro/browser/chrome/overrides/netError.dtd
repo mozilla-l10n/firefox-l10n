@@ -1,3 +1,17 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
+# raulmalea <raul.malea@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
@@ -28,15 +42,13 @@
 <!ENTITY netInterrupt.title "Conexiunea a fost întreruptă">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!ENTITY notCached.title "Document expirat">
+<!ENTITY notCached.longDesc "<p>Documentul cerut nu mai este disponibil în memoria temporară creată de &brandShortName;.</p><ul><li>Ca o măsură de siguranță, &brandShortName; nu cere din nou automat documente ce par a fi confidențiale.</li><li>Clic pe Încearcă din nou pentru a cere din nou documentul de la saitul de unde provine.</li></ul>">
+
 <!ENTITY netOffline.title "Mod offline">
-<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
-     indicate that "Work Offline" is a menu item without being too specific,
-     since it could be in either the normal menu (Mac/Linux) or the Firefox button
-     menu (Windows).
--->
-<!ENTITY netOffline.overrideLongDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Debifați opțiunea &quot;Lucrează deconectat&quot; din meniu, apoi încercați din nou.</li>
+  <li>Apasă &quot;Încearcă din nou&quot; pentru a comuta la navigarea în modul online și reîncarcă pagina.</li>
 </ul>
 ">
 
@@ -65,7 +77,7 @@
 <!ENTITY proxyResolveFailure.title "Nu se poate găsi serverul proxy">
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Asigurați-vă că parametrii proxy-ului sunt corecți.</li> <li>Asigurați-vă că sistemul dumneavoastră are o conexiune funcțională la rețea.</li> <li>Dacă sistemul dumneavoastră este protejat de un paravan (firewall) sau proxy, asigurați-vă că &brandShortName; are permisiunea de a folosi web-ul.</li> </ul>">
 
-<!ENTITY redirectLoop.title "Pagina nu redirijează corect">
+<!ENTITY redirectLoop.title "Pagina nu redirecționează corect">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Problema poate apărea dacă dezactivați sau refuzați să acceptați cookie-uri.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Răspuns neașteptat de la server">
@@ -105,6 +117,10 @@ temporară și puteți încerca din nou mai târziu.</li>
 <!ENTITY cspFrameAncestorBlocked.title "Blocat de politica de securitate asupra conținutului">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; a împiedicat această pagină să se încarce în acest mod deoarece pagina are o politică de securitate asupra conținutului ce nu permite asta.</p>">
 
+<!ENTITY corruptedContentError.title "Eroare cauzată de conținut corupt">
+<!ENTITY corruptedContentError.longDesc "<p>Pagina care încercați să o vedeți nu poate fi afișată deoarece a fost detectată o eroare legată de transmiterea datelor.</p><ul><li>Vă rugăm contactați deținătorii saitului pentru a-i informa de această problemă.</li></ul>">
+
+
 <!ENTITY securityOverride.linkText "Sau puteți adăuga o excepție…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Du-mă de aici!">
 <!ENTITY securityOverride.exceptionButtonLabel "Adaugă excepție…">
@@ -118,3 +134,7 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
+
+<!ENTITY remoteXUL.title "XUL la distanță">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Vă rugăm să contactați proprietarii websaitului pentru a-i informa despre această problemă.</li></ul></p>">
+

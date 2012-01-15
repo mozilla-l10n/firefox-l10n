@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY privatebrowsingpage.title                 "Navigare fără urme">
 <!ENTITY privatebrowsingpage.title.normal          "Doriți să începeți navigarea fără urme?">
 
@@ -22,3 +35,4 @@
 
 <!ENTITY privatebrowsingpage.moreInfo                  "Cu toate că acest calculator nu va reține istoricul navigării, furnizorul de internet sau angajatorul ar putea totuși să urmărească paginile pe care le vizitați.">
 <!ENTITY privatebrowsingpage.learnMore                 "Află mai multe">
+

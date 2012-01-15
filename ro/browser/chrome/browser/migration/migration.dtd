@@ -1,3 +1,9 @@
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 
 <!ENTITY migrationWizard.title          "Asistent de import">
 
@@ -7,30 +13,14 @@
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
-<!ENTITY importFromPhoenix.label        "Firefox 0.8, Firebird sau Phoenix">
-<!ENTITY importFromPhoenix.accesskey    "P">
 <!ENTITY importFromNothing.label        "Nu importa nimic">
 <!ENTITY importFromNothing.accesskey    "u">
-<!ENTITY importFromSeamonkey.label      "Netscape 6, 7 sau Mozilla 1.x">
-<!ENTITY importFromSeamonkey.accesskey  "N">
-<!ENTITY importFromNetscape4.label      "Netscape 4.x">
-<!ENTITY importFromNetscape4.accesskey  "4">
-<!ENTITY importFromOpera.label          "Opera">
-<!ENTITY importFromOpera.accesskey      "O">
-<!ENTITY importFromCamino.label         "Camino">
-<!ENTITY importFromCamino.accesskey     "C">
 <!ENTITY importFromSafari.label         "Safari">
 <!ENTITY importFromSafari.accesskey     "S">
-<!ENTITY importFromOmniWeb.label        "OmniWeb">
-<!ENTITY importFromOmniWeb.accesskey    "W">
-<!ENTITY importFromICab.label           "iCab">
-<!ENTITY importFromICab.accesskey       "i">
-<!ENTITY importFromKonqueror.label      "Konqueror">
-<!ENTITY importFromKonqueror.accesskey  "K">
-<!ENTITY importFromEpiphany.label       "Epiphany">
-<!ENTITY importFromEpiphany.accesskey   "E">
-<!ENTITY importFromGaleon.label         "Galeon">
-<!ENTITY importFromGaleon.accesskey     "G">
+<!ENTITY importFromChrome.label         "Chrome">
+<!ENTITY importFromChrome.accesskey     "C">
+<!ENTITY importFromFirefox.label        "Firefox">
+<!ENTITY importFromFirefox.accesskey    "X">
 <!ENTITY importFromHTMLFile.label       "Dintr-un fișier HTML">
 <!ENTITY importFromHTMLFile.accesskey   "f">
 
@@ -48,4 +38,5 @@
 
 <!ENTITY done.title                     "Import încheiat">
 <!ENTITY done.label                     "Următoarele elemente au fost importate cu succes:">
+
 

@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY window.width                                   "32em">
 
 <!ENTITY languages.customize.Header                     "Limbi">
@@ -12,4 +24,5 @@
 <!ENTITY languages.customize.selectLanguage.label       "Alegeți o limbă de adăugat...">
 <!ENTITY languages.customize.addButton.label            "Adaugă">
 <!ENTITY languages.customize.addButton.accesskey        "A">
+
 

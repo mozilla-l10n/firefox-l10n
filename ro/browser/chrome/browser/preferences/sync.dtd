@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- The page shown when not logged in... -->
 <!ENTITY setupButton.label          "Setați &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "S">
@@ -13,10 +25,11 @@
 <!ENTITY manageAccount.label          "Gestionează contul">
 <!ENTITY manageAccount.accesskey      "a">
 <!ENTITY viewQuota.label              "Arată cota">
-<!ENTITY changePassword.label         "Schimbare parolă">
-<!ENTITY mySyncKey.label              "Cheia mea de sincronizare">
-<!ENTITY resetSync.label              "Resetează sincronizarea">
-<!ENTITY addDevice.label              "Adaugă un dispozitiv">
+<!ENTITY changePassword2.label        "Schimbă parola...">
+<!ENTITY myRecoveryKey.label          "Cheia mea de recuperare">
+<!ENTITY resetSync2.label             "Resetează sincronizarea…">
+
+<!ENTITY pairDevice.label             "Împerechează un dispozitiv">
 
 <!ENTITY syncMy.label               "Sincronizează">
 <!ENTITY engine.bookmarks.label     "Semne de carte">
@@ -29,12 +42,15 @@
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "Preferințe">
 <!ENTITY engine.prefs.accesskey     "P">
+<!ENTITY engine.addons.label        "Suplimente">
+<!ENTITY engine.addons.accesskey    "S">
 
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label       "Nume calculator:">
 <!ENTITY syncComputerName.accesskey   "c">
-<!ENTITY deactivateDevice.label       "Dezactivează dispozitivul">
+<!ENTITY unlinkDevice.label           "Dezasociază acest dispozitiv">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Termeni ai serviciului">
 <!ENTITY prefs.ppLink.label         "Politică de confidențialitate">
+

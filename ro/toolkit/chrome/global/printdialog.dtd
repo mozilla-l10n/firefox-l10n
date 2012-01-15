@@ -1,3 +1,9 @@
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- extracted from printdialog.xul -->
 
 <!ENTITY printButton.label "Tipărește">
@@ -38,3 +44,4 @@
 <!ENTITY selectedframeRadio.accesskey  "D">
 <!ENTITY eachframesepRadio.label  "Fiecare cadru separat">
 <!ENTITY eachframesepRadio.accesskey  "e">
+

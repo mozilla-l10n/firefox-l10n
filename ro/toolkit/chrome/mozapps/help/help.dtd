@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY printCmd.commandkey            "P">
 
 <!ENTITY findOnCmd.commandkey           "F">
@@ -50,3 +62,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomReduceBtn.accesskey    "c">
 <!ENTITY fullZoomEnlargeBtn.label       "Mărește mărimea textului">
 <!ENTITY fullZoomEnlargeBtn.accesskey   "i">
+

@@ -1,3 +1,9 @@
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY window.width                       "38em">
 
 <!ENTITY     cookiesonsystem.label          "Pe acest calculator sunt stocate următoarele cookie-uri:">
@@ -25,4 +31,5 @@
 <!ENTITY     filter.accesskey               "C">
 
 <!ENTITY     button.close.label             "Închide">
-<!ENTITY     button.close.accesskey         "c">
+<!ENTITY     button.close.accesskey         "d">
+

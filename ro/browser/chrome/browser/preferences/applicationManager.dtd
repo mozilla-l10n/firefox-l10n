@@ -1,4 +1,11 @@
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY appManager.title     "Detaliile aplicației">
 <!ENTITY appManager.style     "width: 30em; min-height: 20em;">
 <!ENTITY remove.label         "Șterge">
 <!ENTITY remove.accesskey     "r">
+

@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -121,7 +133,7 @@
 <!ENTITY certmgr.backup2.accesskey            "S">
 <!ENTITY certmgr.backupall2.label             "Salvează tot">
 <!ENTITY certmgr.backupall2.accesskey         "l">
-<!ENTITY certmgr.restore2.label               "Importă">
+<!ENTITY certmgr.restore2.label               "Importă…">
 <!ENTITY certmgr.restore2.accesskey           "m">
 <!ENTITY certmgr.details.label                "Câmpuri certificat">
 <!ENTITY certmgr.details.accesskey            "i">
@@ -145,3 +157,4 @@
 <!ENTITY exceptionMgr.certstatus.accesskey    "V">
 <!ENTITY exceptionMgr.permanent.label         "Stochează această excepție permanent">
 <!ENTITY exceptionMgr.permanent.accesskey     "p">
+
