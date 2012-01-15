@@ -321,8 +321,6 @@
 <!ENTITY event.freebusy.next.slot "Siguiente ranura ">
 <!ENTITY event.freebusy.previous.slot " Ranura anterior">
 <!ENTITY event.freebusy.zoom "Ampliación:">
-<!ENTITY event.freebusy.plus "Siguiente hora">
-<!ENTITY event.freebusy.minus "Hora anterior">
 <!ENTITY event.freebusy.legend.free "Libre">
 <!ENTITY event.freebusy.legend.busy "Ocupado">
 <!ENTITY event.freebusy.legend.busy_tentative "Tentativo">
