@@ -217,6 +217,8 @@
 <!ENTITY calendar.context.progress.accesskey "P">
 <!ENTITY calendar.context.priority.label "Priorita">
 <!ENTITY calendar.context.priority.accesskey "r">
+<!ENTITY calendar.context.postpone.label "Odložit úkol">
+<!ENTITY calendar.context.postpone.accesskey "O">
 
 <!ENTITY percnt "&#38;#37;" ><!--=percent sign-->
 
@@ -242,6 +244,13 @@
 <!ENTITY priority.level.normal.accesskey "N">
 <!ENTITY priority.level.high "Vysoká">
 <!ENTITY priority.level.high.accesskey "V">
+
+<!ENTITY calendar.context.postpone.1hour.label "O 1 hodinu">
+<!ENTITY calendar.context.postpone.1hour.accesskey "h">
+<!ENTITY calendar.context.postpone.1day.label "O 1 den">
+<!ENTITY calendar.context.postpone.1day.accesskey "d">
+<!ENTITY calendar.context.postpone.1week.label "O 1 týden">
+<!ENTITY calendar.context.postpone.1week.accesskey "t">
 
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
