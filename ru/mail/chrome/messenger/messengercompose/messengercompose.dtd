@@ -62,11 +62,13 @@
 <!ENTITY pasteCmd.accesskey "с">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY editRewrapCmd.label "Переформатировать">
-<!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "е">
 <!ENTITY deleteCmd.label "Удалить">
 <!ENTITY deleteCmd.accesskey "У">
+<!ENTITY editRewrapCmd.label "Переформатировать">
+<!ENTITY editRewrapCmd.key "R">
+<!ENTITY renameAttachment.label "Переименовать вложение…">
+<!ENTITY renameAttachment.accesskey "м">
 <!ENTITY selectAllCmd.label "Выделить всё">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "ы">
@@ -227,8 +229,6 @@
 <!ENTITY delete.accesskey "У">
 <!ENTITY removeAttachment.label "Удалить вложение">
 <!ENTITY removeAttachment.accesskey "л">
-<!ENTITY renameAttachment.label "Переименовать…">
-<!ENTITY renameAttachment.accesskey "м">
 <!ENTITY selectAll.label "Выделить всё">
 <!ENTITY selectAll.accesskey "ы">
 <!ENTITY attachFile.label "Вложить файл(ы)…">
