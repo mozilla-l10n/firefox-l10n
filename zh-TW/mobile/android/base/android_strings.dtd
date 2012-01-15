@@ -4,7 +4,7 @@
 <!ENTITY  no_space_to_start_error "空間不足，無法啟動 &brandShortName;。">
 <!ENTITY  error_loading_file "嘗試讀取 &brandShortName; 執行所必需的檔案時發生錯誤。">
 
-<!ENTITY  awesomebar_all_pages_title "最常被瀏覽的網站">
+<!ENTITY  awesomebar_all_pages_title "最常瀏覽">
 <!ENTITY  awesomebar_bookmarks_title "書籤">
 <!ENTITY  awesomebar_history_title "歷史記錄">
 <!ENTITY  awesomebar_search_engine "搜尋「&#037;s」">
@@ -28,7 +28,7 @@
 <!ENTITY awesomebar_default_text "輸入要搜尋的資料或是網址">
 
 <!ENTITY bookmark "書籤">
-<!ENTITY bookmark_added "已新增書籤">
+<!ENTITY bookmark_added "已加入書籤">
 <!ENTITY bookmark_removed "已移除書籤">
 
 <!ENTITY history_today_section "今天">
@@ -37,7 +37,7 @@
 <!ENTITY history_older_section "早於 7 天前">
 
 <!ENTITY reload "重新載入">
-<!ENTITY forward "轉寄">
+<!ENTITY forward "下一頁">
 
 <!ENTITY new_tab "開新分頁">
 
@@ -72,12 +72,12 @@
 <!ENTITY addons "附加元件">
 <!ENTITY downloads "下載">
 
-<!ENTITY share "透露">
+<!ENTITY share "分享">
 <!ENTITY save_as_pdf "儲存為 PDF">
 
 <!ENTITY contextmenu_open_new_tab "以新分頁開啟">
 <!ENTITY contextmenu_add_to_launcher "新增至裝置主畫面">
-<!ENTITY contextmenu_share "透露">
+<!ENTITY contextmenu_share "分享">
 
 <!ENTITY site_settings_title        "清除網站設定值">
 <!ENTITY site_settings_cancel       "取消">
