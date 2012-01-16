@@ -1,10 +1,10 @@
 <!ENTITY newWindowsAsTabs.label       "Àrvi in nêuvo barcón">
 <!ENTITY newWindowsAsTabs.accesskey   "b">
 
-<!ENTITY warnCloseMultipleTabs.label  "Avertime quàndo særo ciù féuggi">
+<!ENTITY warnCloseMultipleTabs.label  "Avèrtime quàndo særo ciù féuggi">
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">
 
-<!ENTITY warnOpenManyTabs.label       "Avertime quàndo l'arvetûa de ciù féuggi peu fâ anâ ciù lénto &brandShortName;">
+<!ENTITY warnOpenManyTabs.label       "Avèrtime quàndo l'arvetûa de ciù féuggi peu fâ anâ ciù lénto &brandShortName;">
 <!ENTITY warnOpenManyTabs.accesskey   "o">
 
 <!ENTITY showTabBar.label             "Fànni védde sénpre a bâra di féuggi">

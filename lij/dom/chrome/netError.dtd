@@ -85,7 +85,7 @@
 <!ENTITY corruptedContentError.title "Erô de contegnuo corotto">
 <!ENTITY corruptedContentError.longDesc "<p>A pàgina che ti çerchi de védde a no peu mostrâse perché s'é atrovòu un erô inta trasmisción di dæti.</p><ul><li>Pe piaxei, contàtta i padroìn do scîto pe faghe savéi de quésto problêma.</li></ul>">
 
-<!ENTITY remoteXUL.title "XUL Remòto">
+<!ENTITY remoteXUL.title "XUL Remöto">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Pe favô ciàmma o propiêtâio do scîto pe informâlo do problêma.</li></ul></p>">
 
 <!-- Include app-specific error messages - do not change this in localization!

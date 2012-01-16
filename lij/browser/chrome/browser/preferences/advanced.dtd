@@ -8,7 +8,7 @@
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchStartTyping.label         "Çèrca o testo quàndo inìçio a scrîve">
 <!ENTITY searchStartTyping.accesskey     "Ç">
-<!ENTITY blockAutoRefresh.label          "Avertime quànde i scîti preuvan a redireçionâ ò recaregâ a pàgina">
+<!ENTITY blockAutoRefresh.label          "Avèrtime quànde i scîti preuvan a redireçionâ ò recaregâ a pàgina">
 <!ENTITY blockAutoRefresh.accesskey      "p">
 
 <!ENTITY browsing.label                  "Çerca">

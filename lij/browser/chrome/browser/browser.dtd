@@ -61,7 +61,7 @@ can reach it easily. -->
 <!ENTITY goOfflineCmd.label "Lòua fêua linia">
 <!ENTITY goOfflineCmd.accesskey "L">
 
-<!ENTITY menubarCmd.label "Bâra do Menu">
+<!ENTITY menubarCmd.label "Bâra do Menû">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "Bâra de Navegaçión">
 <!ENTITY navbarCmd.accesskey "N">
@@ -132,8 +132,8 @@ can reach it easily. -->
 <!ENTITY bookmarksItem.title          "Segnalìbbri">
 
 <!-- Toolbar items --> 
-<!ENTITY appMenuButton.label          "Menu">
-<!ENTITY appMenuButton.tooltip        "Àrvi o menù de &brandShortName;">
+<!ENTITY appMenuButton.label          "Menû">
+<!ENTITY appMenuButton.tooltip        "Àrvi o menû de &brandShortName;">
 <!ENTITY homeButton.label             "Pàgina iniçiâ">
 
 <!ENTITY tabGroupsButton.label        "Grùppo de féuggi">

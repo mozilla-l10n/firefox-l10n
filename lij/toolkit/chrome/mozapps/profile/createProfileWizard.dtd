@@ -10,7 +10,7 @@
 <!ENTITY profileCreationExplanation_4Gnome.text  "Pe iniçiâ a creâ o teu profî, premmi Pròscimo.">
 
 <!-- Second wizard page -->
-<!ENTITY profileCreationIntro.text      "Se ti ti crei tànti profî ti peu dagghe un nómme pe deuviâli. Ti peu uzâ sto nómme o ti peu creâlo ti.">
+<!ENTITY profileCreationIntro.text      "Se ti ti crei tànti profî ti peu dàgghe un nómme pe dêuviâli. Ti peu uzâ sto nómme o ti peu creâlo ti.">
 <!ENTITY profilePrompt.label            "Inserisci o nómme do nêuvo profî:">
 <!ENTITY profilePrompt.accesskey        "e">
 <!ENTITY profileDirectoryExplanation.text   "E teu inpostaçioìn e preferense saiàn sarvæ chi:">
