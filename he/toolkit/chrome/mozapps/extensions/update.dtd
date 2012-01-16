@@ -51,8 +51,8 @@
 <!ENTITY  installerrors.intro.label       "&brandShortName; חווה בעיות בעדכון חלק מהתוספות שלך.">
 
 <!-- general strings used by several of the finish pages -->
-<!ENTITY  clickFinish.label               "לחץ סיים להמשך ההפעלה של &brandShortName;">
-<!ENTITY  clickFinish.labelMac            "לחץ סיום כדי להתחיל להמשיך בהפעלת &brandShortName;.">
+<!ENTITY  clickFinish.label               "לחץ על סיום כדי להמשיך בהפעלת &brandShortName;">
+<!ENTITY  clickFinish.labelMac            "לחץ על סיום כדי להמשיך בהפעלת &brandShortName;.">
 <!ENTITY  enableChecking.label            "אפשר ל־&brandShortName; לבדוק עדכונים.">
 
 
