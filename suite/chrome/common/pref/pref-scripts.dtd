@@ -17,7 +17,9 @@
 <!ENTITY allowContextmenuDisable.label "Désactiver ou remplacer le menu contextuel d'une page">
 <!ENTITY allowHideStatusBar.label "Masquer la barre d'état">
 
-<!ENTITY enablePlugin.label "Activer les plugins pour">
+<!ENTITY enablePlugin.label "Activer les plugins pour :">
+<!ENTITY enablePluginForSuite.label "la Suite">
+<!ENTITY enablePluginForSuite.accesskey "u">
 
 <!ENTITY whenPluginsRequired.label "Quand des plugins supplémentaires sont requis :">
 <!ENTITY displayNotification.label "Afficher une barre de notification en haut de la zone d'affichage">
