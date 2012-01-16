@@ -20,6 +20,13 @@
 <!ENTITY stats.framesPresented "Frames präsentiert">
 <!ENTITY stats.framesPainted "Frames gezeichnet">
 
+<!ENTITY error.aborted "Laden des Videos gestoppt.">
+<!ENTITY error.network "Abspielen des Videos wegen eines Netzwerkfehlers abgebrochen.">
+<!ENTITY error.decode "Video kann nicht abgespielt werden, weil die Datei beschädigt ist.">
+<!ENTITY error.srcNotSupported "Video-Format oder MIME-Typ wird nicht unterstützt.">
+<!ENTITY error.noSource2 "Kein Video mit unterstütztem Format und MIME-Typ gefunden.">
+<!ENTITY error.generic "Abspielen des Videos wegen eines unbekannten Ffehlers abgebrochen.">
+
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
