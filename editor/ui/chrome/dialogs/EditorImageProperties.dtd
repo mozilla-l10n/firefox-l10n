@@ -78,8 +78,6 @@
 <!ENTITY imagemapBox.label "Mapa de Imagem">
 <!ENTITY removeImageMapButton.label "Remover">
 <!ENTITY removeImageMapButton.accessKey "R">
-<!ENTITY editImageMapButton.label "Editar...">
-<!ENTITY editImageMapButton.tooltip "Criar clique do hotspots para esta imagem">
 
 <!-- These are the options for image alignment -->
 <!ENTITY alignment.label "Alinhar o texto à Imagem">
