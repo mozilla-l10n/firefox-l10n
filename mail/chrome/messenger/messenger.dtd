@@ -335,6 +335,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY thisFolder.label "Este cartafol">
 <!ENTITY thisFolder.accesskey "f">
 <!ENTITY goRecentlyClosedTabs.label "Lapelas pechadas recentemente">
+<!ENTITY goRecentlyClosedTabs.accesskey "r">
 <!ENTITY startPageCmd.label "Páxina de inicio do correo">
 <!ENTITY startPageCmd.accesskey "n">
 
