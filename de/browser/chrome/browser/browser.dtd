@@ -446,6 +446,10 @@ items are mutually exclusive. -->
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
 items are mutually exclusive. -->
+<!ENTITY videoShowStats.label        "Statistiken einblenden">
+<!ENTITY videoShowStats.accesskey    "k">
+<!ENTITY videoHideStats.label        "Statistiken ausblenden">
+<!ENTITY videoHideStats.accesskey    "k">
 
 
 <!-- LOCALIZATION NOTE :
