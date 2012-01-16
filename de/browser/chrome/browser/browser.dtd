@@ -90,6 +90,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "a">
 <!ENTITY fullScreenExit.label "Vollbildmodus beenden">
 <!ENTITY fullScreenExit.accesskey "V">
+<!ENTITY domFullScreenWarning.label "Drücken Sie ESC, um den Vollbild-Modus zu verlassen">
 
 <!ENTITY closeWindow.label "Fenster schließen">
 <!ENTITY closeWindow.accesskey "c">
