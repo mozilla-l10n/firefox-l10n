@@ -1,10 +1,16 @@
-<!ENTITY  splash_firstrun "Po rregullohet &brandShortName;-u\u2026">
+
+<!ENTITY  splash_firstrun "Rregullimi i &brandShortName;-ut\u2026">
 
 <!ENTITY  no_space_to_start_error "Nuk ka vend të mjaftueshëm për nisjen e &brandShortName;-ut.">
 <!ENTITY  error_loading_file "Ndodhi një gabim kur po provohej të ngarkoheshin kartela të domosdoshme për xhirimin e &brandShortName;-ut">
 
-<!ENTITY  crash_reporter_title "Njoftues Vithisjesh për &brandShortName;-un">
-<!ENTITY  crash_message "&brandShortName;-u u vithis. Skedat tuaja do të duhej t\'i shihnit te faqja e fillimit të &brandShortName;-ut, kur ta rinisni.">
+<!ENTITY  awesomebar_all_pages_title "Site-et Kryesues">
+<!ENTITY  awesomebar_bookmarks_title "Faqerojtësa">
+<!ENTITY  awesomebar_history_title "Historik">
+<!ENTITY  awesomebar_search_engine "Kërkoni për \&quot;&#037;s\&quot;">
+
+<!ENTITY  crash_reporter_title "Njoftues Vithisjesh">
+<!ENTITY  crash_message "&brandShortName;-u u vithis. Skedat tuaja do të duhej t\'i shihnit te faqja e Fillimit të &brandShortName;-ut, kur ta rinisni.">
 <!ENTITY  crash_help_message "Ju lutem, na ndihmoni ta ndreqim këtë problem!">
 <!ENTITY  crash_send_report_message "Dërgojini Mozilla-s një njoftim vithisjeje">
 <!ENTITY  crash_include_url "Përfshije adresën e faqes">
@@ -18,3 +24,77 @@
 <!ENTITY  launcher_shortcuts_empty "Nuk u gjetën zbatime web">
 
 <!ENTITY choose_file "Zgjidhni Kartelë">
+
+<!ENTITY awesomebar_default_text "Jepni Term Kërkimi ose Adresë">
+
+<!ENTITY bookmarks_title "Faqerojtësa">
+<!ENTITY bookmark_add "Faqerojtës">
+<!ENTITY bookmark_remove "Hiqe">
+<!ENTITY bookmark_added "Faqerojtësi u shtua">
+<!ENTITY bookmark_removed "Faqerojtësi u hoq">
+
+<!ENTITY history_today_section "Sot">
+<!ENTITY history_yesterday_section "Dje">
+<!ENTITY history_week_section "7 ditë më parë">
+<!ENTITY history_older_section "Më të vjetër se 7 ditë">
+
+<!ENTITY reload "Ringarkoje">
+<!ENTITY forward "Përpara">
+
+<!ENTITY new_tab "Skedë e Re">
+
+<!ENTITY settings "Rregullime">
+<!ENTITY settings_title "Rregullime">
+<!ENTITY pref_category_general "Të përgjithshme">
+<!ENTITY pref_category_privacy "Privatësi &amp; Siguri">
+<!ENTITY pref_category_content "Lëndë">
+<!ENTITY pref_about_firefox "Rreth &brandShortName;-ut">
+<!ENTITY pref_do_not_track "Thuaju site-ve të mos më gjurmojnë">
+<!ENTITY pref_telemetry "Dërgo të dhëna funksionimi">
+<!ENTITY pref_homepage "Faqe hyrëse">
+<!ENTITY pref_homepage_start "Nisje e Firefox-it">
+<!ENTITY pref_homepage_blank "Faqe bosh">
+<!ENTITY pref_homepage_current "Faqen e Tanishme">
+<!ENTITY pref_remember_signons "Mbaji mend fjalëkalimet">
+<!ENTITY pref_cookies "Aktivizoni cookies">
+<!ENTITY pref_char_encoding "Shfaq kodim shkronjash">
+<!ENTITY pref_clear_history "Pastro historikun">
+<!ENTITY pref_clear_history_confirm "Historiku i shfletimit do të fshihet">
+<!ENTITY pref_clear_private_data "Pastro të dhëna vetjake">
+<!ENTITY pref_clear_private_data_confirm "Rregullimet për shfletimin, përfshi fjalëkalimet dhe cookie-t, do të fshihen">
+<!ENTITY pref_enable_plugins "Aktivizo shtojcat">
+<!ENTITY pref_enable_plugins_yes "Po">
+<!ENTITY pref_enable_plugins_tap_to_play "Prekeni që të luhet">
+<!ENTITY pref_enable_plugins_no "Jo">
+<!ENTITY pref_font_size "Madhësi shkronjash">
+<!ENTITY pref_font_size_small "Të vogla">
+<!ENTITY pref_font_size_medium "Të mesme">
+<!ENTITY pref_font_size_large "Të mëdha">
+<!ENTITY pref_font_size_xlarge "Shumë të mëdha">
+<!ENTITY pref_use_master_password "Përdor fjalëkalim të përgjithshëm">
+
+<!ENTITY quit "Dil">
+
+<!ENTITY addons "Shtesa">
+
+<!ENTITY share "Ndaje me të tjerët">
+<!ENTITY save_as_pdf "Ruaje si PDF">
+<!ENTITY agent_request_desktop "Kërkoji Site-in për Desktop">
+<!ENTITY agent_request_mobile "Kërkoji Site-in për Celular">
+
+<!ENTITY contextmenu_open_new_tab "Hape në Skedë të Re">
+<!ENTITY contextmenu_add_to_launcher "Shtoje te Skena Hyrëse">
+<!ENTITY contextmenu_share "Ndajeni me të tjerët">
+
+<!ENTITY site_settings_title        "Pastroji Rregullimet për Site-e">
+<!ENTITY site_settings_cancel       "Anuloje">
+<!ENTITY site_settings_clear        "Pastroje">
+<!ENTITY site_settings_no_settings  "Nuk ka rregullime, që të mund të pastrohet ndonjë.">
+
+<!ENTITY masterpassword_create_title "Krijo Fjalëkalim të Përgjithshëm">
+<!ENTITY masterpassword_remove_title "Hiqe Fjalëkalimin e Përgjithshëm">
+<!ENTITY masterpassword_password "Fjalëkalim">
+<!ENTITY masterpassword_confirm "Ripohoni fjalëkalimin">
+
+<!ENTITY button_ok "OK">
+<!ENTITY button_cancel "Anuloje">
