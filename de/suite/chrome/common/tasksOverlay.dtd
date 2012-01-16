@@ -24,7 +24,7 @@
 <!ENTITY tasksMenu.accesskey "E"> 
 
 <!ENTITY datamanCmd.label "Datenverwaltung">
-<!ENTITY datamanCmd.accesskey "e">
+<!ENTITY datamanCmd.accesskey "D">
 
 <!ENTITY passwordManagerCmd.label "Passwort-Manager">
 <!ENTITY passwordManagerCmd.accesskey "P">
@@ -36,7 +36,7 @@
 <!ENTITY passwordExpireCmd.accesskey "A">
 
 <!ENTITY downloadManagerCmd.label "Download-Manager">
-<!ENTITY downloadManagerCmd.accesskey "D">
+<!ENTITY downloadManagerCmd.accesskey "M">
 <!ENTITY downloadManagerCmd.commandkey "j">
 
 <!ENTITY addOnsManagerCmd.label "Add-on-Manager">
