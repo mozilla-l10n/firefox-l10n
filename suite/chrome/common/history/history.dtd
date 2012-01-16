@@ -38,9 +38,9 @@
 <!ENTITY cmd.open_tab.label             "Link in neuem Tab öffnen">
 <!ENTITY cmd.open_tab.accesskey         "T">
 
-<!ENTITY bookmarkLinkCmd.label          "Diesen Link als Lesezeichen ablegen…">
+<!ENTITY bookmarkLinkCmd.label          "Lesezeichen für diesen Link hinzufügen…">
 <!ENTITY bookmarkLinkCmd.accesskey      "D">
-<!ENTITY bookmarkLinksCmd.label         "Diese Links als Lesezeichen ablegen">
+<!ENTITY bookmarkLinksCmd.label         "Lesezeichen für diese Links hinzufügen…">
 <!ENTITY bookmarkLinksCmd.accesskey     "D">
 
 <!ENTITY col.title.label                "Titel">

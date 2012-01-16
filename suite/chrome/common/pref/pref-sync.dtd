@@ -34,6 +34,8 @@
 <!ENTITY syncComputerName.accesskey   "C">
 
 <!ENTITY syncMy2.label              "Synchronisieren:">
+<!ENTITY engine.addons.label        "Add-ons">
+<!ENTITY engine.addons.accesskey    "A">
 <!ENTITY engine.bookmarks.label     "Lesezeichen">
 <!ENTITY engine.bookmarks.accesskey "L">
 <!ENTITY engine.tabs.label          "Tabs">

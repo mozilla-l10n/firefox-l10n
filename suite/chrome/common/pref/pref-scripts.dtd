@@ -17,7 +17,9 @@
 <!ENTITY allowContextmenuDisable.label   "Kontextmenü einer Seite deaktivieren oder ersetzen">
 <!ENTITY allowHideStatusBar.label        "Statusleiste verstecken">
 
-<!ENTITY enablePlugin.label              "Plugins aktivieren für">
+<!ENTITY enablePlugin.label              "Plugins aktivieren für:">
+<!ENTITY enablePluginForSuite.label      "Suite">
+<!ENTITY enablePluginForSuite.accesskey  "u">
 
 <!ENTITY whenPluginsRequired.label       "Wenn zusätzliche Plugins benötigt werden">
 <!ENTITY displayNotification.label       "Eine Benachrichtigungsleiste am oberen Rand des Inhaltsbereichs anzeigen">

@@ -16,8 +16,8 @@
 
 <!ENTITY navbarCmd.label "Navigations-Symbolleiste">
 <!ENTITY navbarCmd.accesskey "N">
-<!ENTITY personalbarCmd.label "Persönliche Symbolleiste">
-<!ENTITY personalbarCmd.accesskey "P">
+<!ENTITY bookmarksToolbarCmd.label     "Lesezeichen-Symbolleiste">
+<!ENTITY bookmarksToolbarCmd.accesskey "L">
 
 <!ENTITY closeWindow.label "Fenster schließen">
 <!ENTITY closeWindow.accesskey "F">
@@ -29,7 +29,7 @@
 <!ENTITY feedsMenu.accesskey "D">
 
 <!ENTITY menuBar.tooltip                  "Menüleiste">
-<!ENTITY personalToolbar.tooltip          "Persönliche Symbolleiste">
+<!ENTITY bookmarksToolbar.tooltip         "Lesezeichen-Symbolleiste">
 <!ENTITY navigationToolbar.tooltip        "Navigations-Symbolleiste">
 
 <!-- Toolbar items --> 
