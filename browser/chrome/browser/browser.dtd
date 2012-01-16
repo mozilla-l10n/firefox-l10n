@@ -441,6 +441,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaHideControls.accesskey "S">
 <!ENTITY videoFullScreen.label       "Vollbild">
 <!ENTITY videoFullScreen.accesskey   "V">
+<!ENTITY videoSaveImage.label        "Bildschirmfoto speichern unter…">
+<!ENTITY videoSaveImage.accesskey    "B">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
 items are mutually exclusive. -->
