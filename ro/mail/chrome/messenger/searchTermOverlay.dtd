@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY matchAll.label     "Toate condițiile de mai jos">
 <!ENTITY matchAll.accesskey "a">
 <!ENTITY matchAny.label     "Oricare din condițiile de mai jos">
@@ -14,3 +26,4 @@
 <!ENTITY searchTermListOperatorsFlexValue "5">
 <!ENTITY searchTermListValueFlexValue "5">
 <!ENTITY searchTermListButtonsFlexValue "2">
+

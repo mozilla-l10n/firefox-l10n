@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -14,7 +26,7 @@
    - The Original Code is Thunderbird Toolbar Customization Overlay.
    -
    - The Initial Developer of the Original Code is
-   - Mozilla Messaging, Inc.
+   - the Mozilla Foundation.
    - Portions created by the Initial Developer are Copyright (C) 2009
    - the Initial Developer. All Rights Reserved.
    -
@@ -36,3 +48,4 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY iconsBesideText.label "Iconițe lângă text">
+

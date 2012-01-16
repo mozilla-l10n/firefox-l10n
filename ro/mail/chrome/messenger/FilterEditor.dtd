@@ -1,5 +1,19 @@
+<!--
+# Translator(s):
+#
+# iulianv <iulianv@email.com>
+# Alexandru Szasz <alexxed@gmail.com>
+# janimo <jani@ubuntu.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY window.title "Reguli filtrare">
-
+<!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "Nume filtru:">
 <!ENTITY filterName.accesskey "i">
 
@@ -28,6 +42,7 @@
 <!ENTITY forwardTo.label "Înaintează mesajul către">
 <!ENTITY replyWithTemplate.label "Răspunde cu un șablon">
 <!ENTITY markMessageRead.label "Marchează ca citit">
+<!ENTITY markMessageUnread.label "Mark As Unread">
 <!ENTITY markMessageStarred.label "Adaugă steluță">
 <!ENTITY setPriority.label "Schimbă prioritatea în">
 <!ENTITY addTag.label "Etichetează mesaj">
@@ -39,3 +54,4 @@
 <!ENTITY ignoreSubthread.label "Ignoră conversația din interior">
 <!ENTITY watchThread.label "Urmărește conversația">
 <!ENTITY stopExecution.label "Oprește executarea filtrului">
+

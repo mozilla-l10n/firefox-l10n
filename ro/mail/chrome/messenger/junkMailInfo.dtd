@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY window.title  "Despre mesajele nesolicitate">
 <!ENTITY window.width  "450">
 <!ENTITY info1a.label  "&brandShortName; detectează automat mesajele primite care par a fi nesolicitate (zise și „spam”). Mesajele despre care &brandShortName; crede că sunt nesolicitate vor avea lângă o iconiță specifică">
@@ -5,3 +17,4 @@
 <!ENTITY info2.label   "La început, trebuie să antrenați &brandShortName; pentru a identifica mesajele nesolicitate marcând mesajele cu „nesolicitat” sau „nu e nesolicitat”. Pentru aceasta aveți la dispoziție un buton în bara pentru mesaje nesolicitate.">
 <!ENTITY info3.label   "După ce &brandShortName; identifică corect mesajele nesolicitate, puteți să folosiți Controalele de mesaje nesolicitate pentru a muta automat mesajele nesolicitate în dosarul Nesolicitate.">
 <!ENTITY info4.label   "Pentru mai multe informații, apăsați Ajutor.">
+

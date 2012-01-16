@@ -1,48 +1,72 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# Laudatti <Laudatti@gmail.com>
+# rsandu <razvan.sandu@zando.ro>
+# silviubogan <silviubogan@yahoo.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY autoconfigWizard.title          "Setarea contului de email">
 <!ENTITY name.label                      "Numele dumneavoastră:">
 <!ENTITY name.accesskey                  "N">
-<!ENTITY name.emptytext                  "Prenume Nume">
+<!ENTITY name.placeholder                "First Last">
 <!ENTITY name.text                       "Numele dumneavoastră, așa cum e afișat altora">
 <!ENTITY email.label                     "Adresa de email:">
 <!ENTITY email.accesskey                 "l">
-<!ENTITY email.emptytext                 "email@exemplu.ro">
+<!ENTITY email.placeholder               "email@exemplu.ro">
 <!ENTITY password.label                  "Parola:">
 <!ENTITY password.accesskey              "P">
-<!ENTITY password.emptytext              "Parolă">
+<!ENTITY password.placeholder            "Parolă">
 <!ENTITY password.text                   "Opțional, se va folosi doar pentru a valida numele de utilizator">
+<!ENTITY rememberPassword.label          "Memorează parola">
+<!ENTITY rememberPassword.accesskey      "M">
 
-<!ENTITY accountInformation.label        "Informații despre cont">
-<!ENTITY username2.label                 "Nume de utilizator:">
+<!ENTITY imapLong.label                  "IMAP (dosare la distanță)">
+<!ENTITY pop3Long.label                  "POP3 (stochează mesajele pe calculatorul propriu)">
+
 <!ENTITY incoming.label                  "Primire:">
 <!ENTITY outgoing.label                  "Trimitere:">
+<!ENTITY username.label                  "Nume de utilizator:">
+<!ENTITY hostname.label                  "Numele serverului">
+<!ENTITY port.label                      "Port">
+<!ENTITY ssl.label                       "SSL">
+<!ENTITY auth.label                      "Autentificare">
+<!ENTITY imap.label                      "IMAP">
+<!ENTITY pop3.label                       "POP3">
+<!ENTITY smtp.label                      "SMTP">
+<!ENTITY autodetect.label                "Detecție automată">
+<!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
+     Transmission of emails in cleartext over the Internet. -->
 <!ENTITY noEncryption.label              "Fără">
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
 
-<!ENTITY imap.label                      "IMAP">
-<!ENTITY pop.label                       "POP">
-<!ENTITY smtp.label                      "SMTP">
-
-<!ENTITY manualSetup.label               "Setare manuală…">
-<!ENTITY manualSetup.accesskey           "S">
+<!ENTITY advancedSetup.label             "Configurare avansată">
+<!ENTITY advancedSetup.accesskey         "a">
 <!ENTITY cancel.label                    "Renunță">
 <!ENTITY cancel.accesskey                "R">
 <!ENTITY continue.label                  "Continuă">
 <!ENTITY continue.accesskey              "C">
-<!ENTITY startOver.label                 "Începe de la început">
-<!ENTITY startOver.accesskey             "n">
 <!ENTITY stop.label                      "Oprește">
 <!ENTITY stop.accesskey                  "O">
-<!-- LOCALIZATION NOTE (retest.label): This is the text that is
-     displayed on the button which will re-guess the account configuration,
-     taking into account the settings the user has changed. -->
-<!ENTITY retest.label                    "Testează din nou configurația">
-<!ENTITY retest.accesskey                "r">
-<!ENTITY edit.label                      "Editează">
-<!ENTITY edit.accesskey                  "E">
+<!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
+     displayed on the button in manual edit mode which will re-guess
+     the account configuration, taking into account the settings that
+     the user has manually changed. -->
+<!ENTITY half-manual-test.label          "Testează din nou configurația">
+<!ENTITY half-manual-test.accesskey      "T">
+<!ENTITY manual-edit.label               "Configurează manual">
+<!ENTITY manual-edit.accesskey           "m">
+<!ENTITY switch-to-provisioner.label     "Obțineți un cont nou">
+<!ENTITY switch-to-provisioner.accesskey "O">
 
-<!ENTITY rememberPassword.label          "Memorează parola">
-<!ENTITY rememberPassword.accesskey      "M">
 
 <!ENTITY warning.label                   "Avertisment!">
 <!ENTITY incomingSettings.label          "Setări pentru primire:">
@@ -73,3 +97,4 @@
 <!ENTITY insecureUnencrypted.description "Adresa dumneavoastră de email și datele de autentificare sunt trimise fără a fi criptate, ca urmare parola și mesajul dumneavoastră pot fi citite de alte persoane. &brandShortName; vă va permite să vă citiți mesajele, dar vă recomandăm să vă contactați furnizorul de email în legătură cu configurarea serverului pentru o conexiune securizată.">
 <!ENTITY insecureSelfSigned.description  "Serverul folosește un certificat în care nu aveți încredere, așadar nu puteți fi sigur că cineva nu interceptează traficul dintre &brandShortName; și server. &brandShortName; vă va permite să accesați emailul chiar și în acest mod, dar vă sugerăm să recomandați furnizorului de email să configureze serverul cu un certificat de încredere.">
 <!ENTITY secureServer.description        "Felicitări! Aveți de a face cu un server securizat.">
+

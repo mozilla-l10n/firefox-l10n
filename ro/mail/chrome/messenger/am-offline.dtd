@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY doNotDownloadPop3Movemail.label "Pentru a economisi spațiul pe disc, nu descărca:">
 <!ENTITY doNotDownloadNntp.label "Pentru a economisi spațiul pe disc, nu descărca pentru utilizare în mod deconectat:">
 <!ENTITY doNotDownloadImap.label "Pentru a câștiga spațiu pe disc, descărcarea mesajelor de pe server și păstrarea copiilor locale pentru uz offline poate fi restricționată după vechime sau mărime.">
@@ -52,3 +64,4 @@
 <!ENTITY monthAgeInterval.label          "luni">
 <!ENTITY yearAgeInterval.label           "ani">
 <!ENTITY ageAutosyncAfter.label          "">
+

@@ -1,3 +1,17 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
+# strainu <narro@strainu.ro>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- Help Menu -->
 <!ENTITY helpMenu.label "Ajutor">
 <!ENTITY helpMenu.accesskey "A">
@@ -5,19 +19,23 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Ajutor">
 <!ENTITY helpMenuWin.accesskey "A">
-<!ENTITY releaseCmd.label "Note asupra ediției">
-<!ENTITY releaseCmd.accesskey "r">
+<!ENTITY helpTroubleshootingInfo.label     "Informații de depanare">
+<!ENTITY helpTroubleshootingInfo.accesskey "I">
+<!ENTITY helpSafeMode.label     "Repornește cu suplimentele dezactivate…">
+<!ENTITY helpSafeMode.accesskey "R">
+<!ENTITY releaseCmd2.label "Note asupra ediției">
+<!ENTITY releaseCmd2.accesskey "N">
 <!ENTITY whatsNewCmd.label "Ce e nou">
 <!ENTITY whatsNewCmd.accesskey "C">
 <!ENTITY featureConfiguratorCmd.label "Asistent de migrare">
 <!ENTITY featureConfiguratorCmd.accesskey "m">
 <!ENTITY openHelp.label "Manual de utilizare">
 <!ENTITY openHelp.accesskey "M">
-<!ENTITY openHelp.commandkey "VK_F1">
+<!ENTITY openHelp.commandkey "V">
 <!ENTITY openHelpMac.label "Ajutor pentru &brandShortName;">
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
 
-<!ENTITY updateCmd.label "Caută actualizări…">
 <!ENTITY aboutMenuCmd.label "Despre &brandShortName;">
 <!ENTITY aboutMenuCmd.accesskey "D">
+

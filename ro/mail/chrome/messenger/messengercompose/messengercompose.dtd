@@ -1,3 +1,21 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# secarica <orice@secarica.ro>
+# Laudatti <Laudatti@gmail.com>
+# janimo <jani@ubuntu.com>
+# rsandu <razvan.sandu@zando.ro>
+# nicubunu <nicubunu@gmail.com>
+# turcan <nicturcan@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 <!ENTITY msgComposeWindow.title "Redactare mesaj: (fără subiect)">
 
@@ -16,6 +34,7 @@
 <!ENTITY attachMenu.accesskey "x">
 <!ENTITY attachFileCmd.label "Fișier(e)…">
 <!ENTITY attachFileCmd.accesskey "F">
+<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachPageCmd.label "Pagină web…">
 <!ENTITY attachPageCmd.accesskey "w">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -67,11 +86,13 @@
 <!ENTITY pasteCmd.accesskey "I">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY editRewrapCmd.label "Înfășoară rândurile">
-<!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "n">
 <!ENTITY deleteCmd.label "Șterge">
 <!ENTITY deleteCmd.accesskey "t">
+<!ENTITY editRewrapCmd.label "Înfășoară rândurile">
+<!ENTITY editRewrapCmd.key "R">
+<!ENTITY renameAttachment.label "Redenumește…">
+<!ENTITY renameAttachment.accesskey "R">
 <!ENTITY selectAllCmd.label "Selectează tot">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a"> 
@@ -92,6 +113,8 @@
 <!ENTITY viewMenu.accesskey "V">
 <!ENTITY viewToolbarsMenuNew.label "Bare de unelte"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "t"> 
+<!ENTITY menubarCmd.label "Bara meniului">
+<!ENTITY menubarCmd.accesskey "m">
 <!ENTITY showCompositionToolbarCmd.label "Bară de redactare">
 <!ENTITY showCompositionToolbarCmd.accesskey "B">
 <!ENTITY showFormattingBarCmd.label "Bară de formatare">
@@ -193,12 +216,16 @@
 <!ENTITY quoteButton.tooltip "Citează din mesajul anterior"> 
 <!ENTITY addressButton.tooltip "Selectați destinatarul din agenda de contacte"> 
 <!ENTITY attachButton.tooltip "Anexează un fișier la acest mesaj"> 
+<!ENTITY spellingButton.tooltip "Verifică ortografia pentru zona selectată sau pentru întregul mesaj">
 <!ENTITY saveButton.tooltip "Salvează acest mesaj"> 
 <!ENTITY cutButton.tooltip              "Taie">
 <!ENTITY copyButton.tooltip             "Copiază">
 <!ENTITY pasteButton.tooltip            "Inserează">
 
 <!-- Headers -->
+<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "De la:">
 <!ENTITY fromAddr.accesskey "D">
 <!ENTITY toAddr.label "Către:"> 
@@ -209,7 +236,8 @@
 <!ENTITY followupAddr.label "Urmare la:"> 
 <!ENTITY subject.label "Subiect:">
 <!ENTITY subject.accesskey "S">
-<!ENTITY attachments.label "Anexe:">
+<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
+     to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY attachments.accesskey "A">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
@@ -254,8 +282,6 @@
 <!ENTITY delete.accesskey "t">
 <!ENTITY removeAttachment.label "Elimină anexa">
 <!ENTITY removeAttachment.accesskey "m">
-<!ENTITY renameAttachment.label "Redenumește…">
-<!ENTITY renameAttachment.accesskey "R">
 <!ENTITY selectAll.label "Selectează tot">
 <!ENTITY selectAll.accesskey "a">
 <!ENTITY attachFile.label "Anexează fișier(e)…">
@@ -263,6 +289,11 @@
 <!ENTITY attachPage.label "Anexează pagină web…">
 <!ENTITY attachPage.accesskey "w">
 
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Adaugă dicționare">
+<!ENTITY spellAddDictionaries.accesskey "A">
+
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Adrese">
+
 

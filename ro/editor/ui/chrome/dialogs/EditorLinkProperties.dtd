@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# secarica <orice@secarica.ro>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -35,5 +47,6 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowTitle.label "Proprietăți legătură">
+<!ENTITY windowTitle.label "Proprietățile legăturii">
 <!ENTITY LinkURLBox.label "Locația legăturii">
+

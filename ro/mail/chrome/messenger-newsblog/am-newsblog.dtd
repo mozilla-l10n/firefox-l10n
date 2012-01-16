@@ -1,3 +1,18 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# janimo <jani@ubuntu.com>
+# turcan <nicturcan@gmail.com>
+# petrescs <petrescs@yahoo.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY accountTitle.label "Setări de cont">
 
 <!ENTITY biffStart.label "Verifică disponibilitatea articolelor noi la fiecare">
@@ -18,3 +33,4 @@
 <!ENTITY feeds.wizardShortName "Fluxuri">
 <!ENTITY feeds.wizardLongName "Bloguri și fluxuri de știri">
 <!ENTITY feeds.wizardLongName.accesskey "f">
+

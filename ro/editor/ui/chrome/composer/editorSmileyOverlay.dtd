@@ -1,3 +1,17 @@
+<!--
+# Translator(s):
+#
+# rsandu <razvan.sandu@zando.ro>
+# nicubunu <nicubunu@gmail.com>
+# janimo <jani@ubuntu.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -89,4 +103,5 @@
 <!ENTITY smiley16Cmd.accesskey "b">
 <!ENTITY smiley16Cmd.tooltip "Inserează o figură cu buzele pecetluite">
 <!ENTITY SmileButton.tooltip "Inserează o figură zâmbitoare">
+
 

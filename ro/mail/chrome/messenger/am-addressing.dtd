@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# nicubunu <nicubunu@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- extracted from am-addressing.xul -->
 
 <!ENTITY addressing.label          "Redactare și adrese">
@@ -35,3 +48,4 @@
 <!ENTITY includeSigOnReply.accesskey          "s">
 <!ENTITY includeSigOnForward.label            "Include semnătura pentru mesaje date mai departe">
 <!ENTITY includeSigOnForward.accesskey        "I">
+

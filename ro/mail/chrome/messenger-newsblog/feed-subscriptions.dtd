@@ -1,3 +1,18 @@
+<!--
+# Translator(s):
+#
+# petrescs <petrescs@yahoo.com>
+# evinteler <emil_vinteler2000@yahoo.com>
+# Alexandru Szasz <alexxed@gmail.com>
+# secarica <orice@secarica.ro>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label "Abonamente la fluxuri">
 <!ENTITY subscriptionDesc.label "Notă: eliminarea sau schimbarea directorului pentru stocare nu va afecta articolele preluate anterior.">
@@ -16,3 +31,4 @@
 <!ENTITY button.exportOPML.accesskey   "x">
 
 <!ENTITY cmd.close.commandKey             "w">
+

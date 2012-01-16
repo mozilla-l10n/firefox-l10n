@@ -1,3 +1,9 @@
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -51,3 +57,4 @@
 <!ENTITY changeEntireListRadio.accessKey "S">
 <!ENTITY changeSelectedRadio.label "Schimbă doar elementele selectate">
 <!ENTITY changeSelectedRadio.accessKey "D">
+

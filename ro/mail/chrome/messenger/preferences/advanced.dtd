@@ -1,3 +1,21 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# janimo <jani@ubuntu.com>
+# https://www.google.com/accounts/o8/id?id=AItOawlnUhqAust-7hqM7HhylXGcKyQHz7bLFkw <https://www.google.com/accounts/o8/id?id=AItOawlnUhqAust-7hqM7HhylXGcKyQHz7bLFkw>
+# nicubunu <nicubunu@gmail.com>
+# purica <haliciu@gmail.com>
+# Laudatti <Laudatti@gmail.com>
+# strainu <narro@strainu.ro>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY itemGeneral.label       "Generale">
 <!ENTITY itemDisplay.label       "Citire și afișare">
 <!ENTITY itemUpdate.label        "Actualizare">
@@ -6,6 +24,9 @@
 
 <!-- General Settings -->
 
+<!ENTITY submitTelemetry.label         "Trimite date despre performanță">
+<!ENTITY submitTelemetry.accesskey     "p">
+<!ENTITY telemetryInfoLink.label       "Detalii despre telemetrie">
 <!ENTITY enableGlodaSearch.label       "Activează căutarea globală și indexarea">
 <!ENTITY enableGlodaSearch.accesskey   "i">
 <!ENTITY systemIntegration.label       "Integrare cu sistemul">
@@ -45,8 +66,8 @@
 <!ENTITY reuseExpRadio0.accesskey      "O">
 <!ENTITY reuseExpRadio1.label          "O fereastră de mesaj existentă">
 <!ENTITY reuseExpRadio1.accesskey      "x">
-<!ENTITY closeMsgWindowOnDelete.label  "Închide fereastra cu mesajul după ștergere">
-<!ENTITY closeMsgWindowOnDelete.accesskey "c">
+<!ENTITY closeMsgOnMoveOrDelete.label  "Închide fereastra sau fila cu mesajul la mutare sau ștergere">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "c">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "Caută automat actualizări pentru:">
@@ -77,7 +98,7 @@
 <!ENTITY Diskspace "Spațiu pe disc">
 <!ENTITY offlineCompact.label "Compactează dosarele dacă asta economisește peste">
 <!ENTITY offlineCompact.accesskey "C">
-<!ENTITY kb.label "KO">
+<!ENTITY mb.label "MO">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
@@ -106,3 +127,4 @@
 <!ENTITY validation.accesskey           "d">
 <!ENTITY viewSecurityDevices.label      "Dispozitive de securitate">
 <!ENTITY viewSecurityDevices.accesskey  "u">
+

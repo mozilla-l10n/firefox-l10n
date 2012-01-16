@@ -1,3 +1,9 @@
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!--LOCALIZATION NOTE msgReadSecurityInfo.dtd UI for viewing security status when reading a received message -->
 
 <!ENTITY status.label "Securitate mesaj">
@@ -8,3 +14,4 @@
 <!ENTITY recipient.name "Criptat pentru:">
 <!ENTITY email.address "Adresa de email:">
 <!ENTITY issuer.name "Certificat emis de:">
+

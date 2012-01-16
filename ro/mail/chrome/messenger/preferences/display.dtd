@@ -1,3 +1,20 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# evinteler <emil_vinteler2000@yahoo.com>
+# janimo <jani@ubuntu.com>
+# nicubunu <nicubunu@gmail.com>
+# Laudatti <Laudatti@gmail.com>
+# secarica <orice@secarica.ro>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY itemFormatting.label             "Formatare">
 <!ENTITY itemTags.label                   "Etichete">
 
@@ -44,3 +61,4 @@
 <!ENTITY defaultSize.accesskey   "M">
 <!ENTITY fontOptions.accesskey   "F">
 <!ENTITY fontOptions.label       "Fonturi…">
+

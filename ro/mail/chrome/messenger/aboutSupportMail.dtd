@@ -1,0 +1,29 @@
+<!--
+# Translator(s):
+#
+# rsandu <razvan.sandu@zando.ro>
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!ENTITY aboutSupport.appBasicsAppBuildID "ID-ul de compilare al aplicației">
+
+<!ENTITY aboutSupport.accountsTitle "Conturi de corespondență și discuții">
+<!ENTITY aboutSupport.showPrivateData.mainText "Include numele conturilor">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(probabil informație de identificare)">
+<!ENTITY aboutSupport.accountsID "ID">
+<!ENTITY aboutSupport.accountsName "Nume">
+<!ENTITY aboutSupport.accountsIncomingServer "Server de primire a mesajelor">
+<!ENTITY aboutSupport.accountsOutgoingServers "Servere de expediere a mesajelor">
+<!ENTITY aboutSupport.accountsServerName "Nume">
+<!ENTITY aboutSupport.accountsConnSecurity "Securitatea conexiunii">
+<!ENTITY aboutSupport.accountsAuthMethod "Metodă de autentificare">
+<!ENTITY aboutSupport.accountsDefault "Implicit ?">
+
+<!ENTITY aboutSupport.sendViaEmail.label "Trimite prin email">
+

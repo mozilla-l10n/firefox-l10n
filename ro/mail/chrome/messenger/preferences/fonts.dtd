@@ -1,3 +1,17 @@
+<!--
+# Translator(s):
+#
+# eddyp <eddy.petrisor@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
+# turcan <nicturcan@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY  fontsAndEncodingsDialog.title           "Fonturi și codări">
 <!ENTITY  window.width                            "40em">
 <!ENTITY  window.macWidth                         "47em">
@@ -14,7 +28,7 @@
 <!ENTITY  proportional.accesskey                  "P">
 
 <!ENTITY  serif.label                             "Serif:">
-<!ENTITY  serif.accesskey                         "S">
+<!ENTITY  serif.accesskey                         "s">
 <!ENTITY  sans-serif.label                        "Sans-serif:">
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Monospațiat:">
@@ -74,3 +88,4 @@
 <!ENTITY viewDefaultCharsetList.accesskey  "i">
 <!ENTITY replyInDefaultCharset2.label     "Când e posibil, folosește în răspunsuri codarea de caractere implicită">
 <!ENTITY replyInDefaultCharset2.accesskey "C">
+

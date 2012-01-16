@@ -1,4 +1,17 @@
+<!--
+# Translator(s):
+#
+# turcan <nicturcan@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- New Tag Dialog -->
 <!ENTITY newTagDialog.title      "Creează o etichetă nouă">
 <!ENTITY name.label              "Nume etichetă:">
 <!ENTITY name.accesskey          "t">
+

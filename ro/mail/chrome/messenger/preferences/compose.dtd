@@ -1,3 +1,19 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# Laudatti <Laudatti@gmail.com>
+# janimo <jani@ubuntu.com>
+# eddyp <eddy.petrisor@gmail.com>
+# evinteler <emil_vinteler2000@yahoo.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY itemGeneral.label                   "Generale">
 <!ENTITY itemAutoComplete.label              "Adrese">
 <!ENTITY itemSpellCheck.label                "Ortografie">
@@ -55,3 +71,4 @@
 <!ENTITY attachmentReminder.accesskey          "V">
 <!ENTITY attachmentReminderOptions.label       "Cuvinte cheie…">
 <!ENTITY attachmentReminderOptions.accesskey   "C">
+

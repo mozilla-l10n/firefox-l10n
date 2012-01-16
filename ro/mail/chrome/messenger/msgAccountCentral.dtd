@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY emailSectionHdr.label        "Email"> 
 <!ENTITY readMsgsLink.label           "Citește corespondența"> 
 <!ENTITY composeMsgLink.label         "Scrie un mesaj nou"> 
@@ -18,3 +30,4 @@
 
 <!ENTITY feedsSectionHdr.label        "Fluxuri">
 <!ENTITY subscribeFeeds.label         "Gestionează abonamentele">
+

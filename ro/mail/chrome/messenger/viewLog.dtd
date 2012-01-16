@@ -1,3 +1,9 @@
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY viewLog.title "Jurnal filtre">
 <!ENTITY viewLogInfo.text "Jurnalul filtrelor este un fișier care dă detalii despre ce filtre au fost aplicate.  Activați jurnalul folosind bifa de mai jos.">
 <!ENTITY clearLog.label "Golește jurnalul">
@@ -6,3 +12,4 @@
 <!ENTITY enableLog.accesskey "A">
 <!ENTITY closeLog.label "Închide">
 <!ENTITY closeLog.accesskey "c">
+

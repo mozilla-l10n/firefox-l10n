@@ -1,3 +1,9 @@
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -39,3 +45,6 @@
 <!ENTITY renameFolderDialog.title          "Redenumire dosar">
 <!ENTITY rename.label                      "Introduceți noul nume pentru dosar:">
 <!ENTITY rename.accesskey                  "e">
+<!ENTITY accept.label                      "Redenumește">
+<!ENTITY accept.accesskey                  "R">
+

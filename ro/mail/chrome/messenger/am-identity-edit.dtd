@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY identityDialog.style "width: 67ch;">
 <!ENTITY identityTitle.label "Setări de identitate">
 <!ENTITY identityListDesc.label "Configurați setările pentru această identitate:">
@@ -5,3 +17,4 @@
 <!ENTITY settingsTab.label       "Setări">
 <!ENTITY copiesFoldersTab.label "Copii și dosare">
 <!ENTITY addressingTab.label    "Redactare și adrese">
+

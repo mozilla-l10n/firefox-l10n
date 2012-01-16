@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -59,3 +71,4 @@
 <!ENTITY backgroundImage.label "Imagine fundal:">
 <!ENTITY backgroundImage.accessKey "i">
 <!ENTITY backgroundImage.tooltip "Folosește o imagine ca fundal pentru pagină">
+

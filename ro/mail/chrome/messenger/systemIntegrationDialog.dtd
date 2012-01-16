@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# strainu <narro@strainu.ro>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY systemIntegration.title  "Integrare cu sistemul">
 <!ENTITY defaultClient.intro  "Folosește &brandShortName; ca și client implicit pentru:">
 
@@ -10,3 +23,4 @@
 
 <!ENTITY searchIntegration.label "Permite &searchIntegration.engineName; căutarea în mesaje">
 <!ENTITY searchIntegration.accesskey "P">
+

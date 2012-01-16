@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY attachmentReminderDialog.title   "Cuvinte cheie pentru verificarea lipsei anexelor">
 <!ENTITY attachKeywordText.label          "&brandShortName; vă va avertiza dacă ați uitat să anexați fișierele pe baza cuvintelor cheie de aici care sunt găsite în mesaj.">
 <!ENTITY addKeywordButton.label           "Adaugă">
@@ -6,3 +18,4 @@
 <!ENTITY editKeywordButton.accesskey      "E">
 <!ENTITY removeKeywordButton.label        "Șterge">
 <!ENTITY removeKeywordButton.accesskey    "t">
+

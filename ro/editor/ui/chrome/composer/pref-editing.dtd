@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY  pref.editing.title        "Setări pentru pagini noi">
 
 <!ENTITY  authorName.label          "Autor:">
@@ -25,4 +37,5 @@
 <!ENTITY backgroundImage.accesskey  "g">
 <!ENTITY chooseFile.label           "Alegere fișier…">
 <!ENTITY chooseFile.accesskey       "A">
+
 

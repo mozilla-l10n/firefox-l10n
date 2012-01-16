@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# Laudatti <Laudatti@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY window.title "Filtre mesaje">
 <!ENTITY nameColumn.label "Nume filtru">
 <!ENTITY activeColumn.label "Activ">
@@ -27,3 +39,4 @@
 <!ENTITY helpButton.label "Ajutor">
 <!ENTITY helpButton.accesskey "A">
 <!ENTITY closeCmd.key "w"> 
+

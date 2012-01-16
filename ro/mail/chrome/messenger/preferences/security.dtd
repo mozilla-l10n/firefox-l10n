@@ -1,3 +1,18 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# nicubunu <nicubunu@gmail.com>
+# turcan <nicturcan@gmail.com>
+# Laudatti <Laudatti@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY itemJunk.label          "Nesolicitat">
 <!ENTITY itemPhishing.label      "Înșelătorii prin email">
 <!ENTITY itemPasswords.label     "Parole">
@@ -56,4 +71,5 @@
 <!ENTITY cookieExceptions.accesskey     "E">
 <!ENTITY showCookies.label              "Arată cookie-urile...">
 <!ENTITY showCookies.accesskey          "A">
+
 
