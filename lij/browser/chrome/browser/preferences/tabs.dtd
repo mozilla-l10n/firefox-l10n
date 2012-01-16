@@ -1,5 +1,5 @@
-<!ENTITY newWindowsAsTabs.label       "Arvi in nêuvo barcón">
-<!ENTITY newWindowsAsTabs.accesskey   "A">
+<!ENTITY newWindowsAsTabs.label       "Àrvi in nêuvo barcón">
+<!ENTITY newWindowsAsTabs.accesskey   "b">
 
 <!ENTITY warnCloseMultipleTabs.label  "Avertime quàndo særo ciù féuggi">
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">

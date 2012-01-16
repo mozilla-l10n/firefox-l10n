@@ -41,8 +41,8 @@
 <!ENTITY  from.label                  "da:">
 <!ENTITY  actionQuestion.label        "E cöse dovieiva fâ o &brandShortName; con sto file?">
 
-<!ENTITY  openWith.label              "Arvi con">
-<!ENTITY  openWith.accesskey          "o">
+<!ENTITY  openWith.label              "Àrvi con">
+<!ENTITY  openWith.accesskey          "c">
 <!ENTITY  other.label                 "Âtri…">
 
 <!ENTITY  saveFile.label              "Sàrva File">

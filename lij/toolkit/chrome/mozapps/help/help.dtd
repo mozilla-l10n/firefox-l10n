@@ -17,12 +17,12 @@
 <!ENTITY goBackCmd.commandkey           "[">
 <!ENTITY goForwardCmd.commandkey        "]">
 <!ENTITY homeButton.label               "Pàgina iniçiâ">
-<!ENTITY homeButton.tooltip             "Vanni a-a pàgina iniçiâ do agiùtto">
+<!ENTITY homeButton.tooltip             "Vànni a-a pàgina iniçiâ do agiùtto">
 <!ENTITY printButton.label              "Stànpa">
 <!ENTITY printButton.tooltip            "Stànpa quésta pàgina">
 <!ENTITY closeWindow.commandkey         "W">
 
-<!ENTITY search.emptytext               "Riçerca">
+<!ENTITY search.emptytext               "Riçèrca">
 <!ENTITY searchHeader.label             "Éxito da riçèrca">
 <!ENTITY toctab.label                   "Contegnûo">
 <!ENTITY toctab.accesskey               "C">

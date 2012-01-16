@@ -42,7 +42,7 @@
 <!ENTITY  historyHeader.custom.label       "Ûza e preferençe personalizæ pe a stöia">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "O &brandShortName; o se aregordîa de teu navegaçioìn, descaregaménti e stöia de riçerche, e in ciù o tegne i cookie da-i scîti che ti vixìti.">
+<!ENTITY  rememberDescription.label      "O &brandShortName; o se aregordîa de teu navegaçioìn, descaregaménti e stöia de riçèrche, e in ciù o tégne i cookie da-i scîti che ti vixìti.">
 
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
@@ -70,7 +70,7 @@
 <!ENTITY  rememberDownload.label         "Aregòrda a stöia di descaregaménti">
 <!ENTITY  rememberDownload.accesskey     "d">
 
-<!ENTITY  rememberSearchForm.label       "Aregòrda e riçerche e a stöia di mòduli">
+<!ENTITY  rememberSearchForm.label       "Aregòrda e riçèrche e a stöia di mòduli">
 <!ENTITY  rememberSearchForm.accesskey   "A">
 
 <!ENTITY  clearOnClose.label             "Scancélla a stöia quàndo o &brandShortName; o se særa">

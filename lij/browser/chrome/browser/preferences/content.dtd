@@ -8,12 +8,12 @@
 <!ENTITY  exceptions.label            "Eceçioìn…">
 <!ENTITY  exceptions.accesskey        "E">
 
-<!ENTITY  enableJavaScript.label      "Abilita JavaScript">
+<!ENTITY  enableJavaScript.label      "Abìlita JavaScript">
 <!ENTITY  enableJavaScript.accesskey  "J">
 <!ENTITY  advancedJS.label            "Avansæ…">
 <!ENTITY  advancedJS.accesskey        "v">
 
-<!ENTITY  enableJava.label            "Abilita Java">
+<!ENTITY  enableJava.label            "Abìlita Java">
 <!ENTITY  enableJava.accesskey        "A">
 
 

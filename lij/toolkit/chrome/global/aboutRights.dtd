@@ -32,7 +32,7 @@
 <!ENTITY rights.intro-point3-unbranded "Tùtte e politiche da privacy pe sto prodûto devan êse chi.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights2.intro-point4a "Quàrche càrateristica do &brandShortName; a peu uzâ serviççi bazæ in sciâ ræ e niâtri no poémmo garantî che ségian 100&#37; sénsa eroî. Pe avéi ciù detàlli vanni inte ">
+<!ENTITY rights2.intro-point4a "Quàrche càrateristica do &brandShortName; a peu uzâ serviççi bazæ in sciâ ræ e niâtri no poémmo garantî che ségian 100&#37; sénsa eroî. Pe avéi ciù detàlli vànni inte ">
 <!ENTITY rights.intro-point4b "Termini do servìçio">
 <!ENTITY rights.intro-point4c ".">
 
@@ -48,29 +48,29 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights2.webservices-a "O &brandFullName; l'uza di serviççi di informaçión di scîti (&quot;Serviççi&quot;) pe fornî de carateristiche de &brandShortName; inti termini descritti chi sótta. Se ti no veu uzâ un o ciù di sti serviççi ò no t'ê d'acòrdio con i termini ti peu dizabilitali. E istruçioìn pe dizabilitâ un particolare serviççio o caràteristica ti peu trovali ">
+<!ENTITY rights2.webservices-a "O &brandFullName; o l'uza di serviççi di informaçión di scîti (&quot;Serviççi&quot;) pe fornî de carateristiche de &brandShortName; inti tèrmini descrîti chi sótta. Se ti no veu uzâ un o ciù di sti serviççi ò no t'ê d'acòrdio con i tèrmini ti peu dizabilitâli. E istruçioìn pe dizabilitâ un particolâ servìççio ò caràteristica ti peu trovâle ">
 <!ENTITY rights2.webservices-b "chi">
 <!ENTITY rights2.webservices-c ".">
 
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "Navegaçion segûa: ">
-<!ENTITY rights.safebrowsing-b "No l'é racòmandòu de dizabilitâ a Navegaçión segûa perché ti ti peu finî in di scîti che no son seguî. Se ti veu dizabilitâ conpletamente sta caràteristica segoi sti passi:">
-<!ENTITY rights.safebrowsing-term1 "Arvi e preferense da aplicaçión">
+<!ENTITY rights.safebrowsing-b "No l'é racòmandòu dizabilitâ a Navegaçión segûa perché ti ti peu finî in di scîti che no son seguî. Se ti veu dizabilitâ conpletaménte sta caràteristica ségoi sti pàssi:">
+<!ENTITY rights.safebrowsing-term1 "Àrvi e preferense da aplicaçión">
 <!ENTITY rights.safebrowsing-term2 "Seleçionn-a a seleçion de siguéssa">
 <!ENTITY rights.safebrowsing-term3 "Deseleçiónn-a &quot;&blockAttackSites.label;&quot; e &quot;&blockWebForgeries.label;&quot;">
-<!ENTITY rights.safebrowsing-term4 "A navegaçion segûa l'é dizabilitâ">
+<!ENTITY rights.safebrowsing-term4 "A navegaçion segûa a l'é dizabilitâ">
 
 <!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-a "Navegaçión atênta a-i indirìssi: ">
-<!ENTITY rights.locationawarebrowsing-b "a l'é de lóngo ativâ. Nisciùnn-a informaçión saiâ spedia sénsa o teu permìsso. Se ti veu dizabilitâ conpletamente sta caràteristica, segoi sti passi:">
+<!ENTITY rights.locationawarebrowsing-b "a l'é de lóngo ativâ. Nisciùnn-a informaçión saiâ spédia sénsa o teu permìsso. Se ti veu dizabilitâ conpletaménte sta caràteristica, ségoi sti pàssi:">
 <!ENTITY rights.locationawarebrowsing-term1a "Inta bâra di indirìssi, scrîvi ">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
 <!ENTITY rights.locationawarebrowsing-term2 "Scrîvi geo.enabled">
 <!ENTITY rights.locationawarebrowsing-term3 "Sciacca doì vòtte co-o ràtto in sce preferense de geo.enabled">
-<!ENTITY rights.locationawarebrowsing-term4 "A navegaçion atênta a-i indirìssi l'é dizabilitâ">
+<!ENTITY rights.locationawarebrowsing-term4 "A navegaçion atênta a-i indirìssi a l'é dizabilitâ">
 
 <!-- intro paragraph for unbranded builds -->
-<!ENTITY rights.webservices-unbranded "'Na vixón d'insémme dsi servìççi do scîto che ghà o prodûto, co-e istroçioìn in sce cómme dizabilitâli, se existàn, saiàn chi.">
+<!ENTITY rights.webservices-unbranded "'Na vixón d'insémme di servìççi do scîto into prodûto, co-e istroçioìn in sce cómme dizabilitâli, se existàn, saiàn chi.">
 
 <!-- point 1 text for unbranded builds -->
 <!ENTITY rights.webservices-term1-unbranded "Tùtti i termini do serviçio pe sto prodûto devan êse chi.">

@@ -43,7 +43,7 @@
 <!ENTITY aboutWarningButton.label "Saiö aténto, prométto!">
 <!ENTITY aboutWarningCheckbox.label "Fànni védde sto alàrme a pròscima vòtta">
 
-<!ENTITY searchPrefs.label "Riçerca:">
+<!ENTITY searchPrefs.label "Riçèrca:">
 <!ENTITY searchPrefs.accesskey "R">
 <!ENTITY focusSearch.key "r">
 
@@ -73,7 +73,7 @@
 <!ENTITY reset.accesskey "R">
 <!ENTITY new.label "Nêuvo">
 <!ENTITY new.accesskey "N">
-<!ENTITY string.label "String">
+<!ENTITY string.label "Strìnga">
 <!ENTITY string.accesskey "S">
 <!ENTITY integer.label "Integer">
 <!ENTITY integer.accesskey "I">

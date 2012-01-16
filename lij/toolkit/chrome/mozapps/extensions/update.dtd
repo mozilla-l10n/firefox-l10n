@@ -41,7 +41,7 @@
                                            gh'é di agiornaménti pe conponénti azónti.">
 
 <!ENTITY  adminDisabled.wizard.title      "No riêscîo a çercâ i agiornaménti">
-<!ENTITY  adminDisabled.warning.label     "No l'é poscìbile trova agiornaménti pe-i teu conponénti azónti che no son conpatibili
+<!ENTITY  adminDisabled.warning.label     "No l'é poscìbile trova agiornaménti pe-i teu conponénti azónti che no son conpàtibili
                                            perchè l'instalaçión de aplicaçioìn pe &brandShortName; l'é dizabilitâ.
                                            Pe favô ciàmma o teu Aministratô do Scistêma pe ascisténsa.">
 
@@ -55,7 +55,7 @@
                                            quàrchedun di teu conponénti azónti.">
 
 <!-- general strings used by several of the finish pages -->
-<!ENTITY  clickFinish.label               "Prémmi Finisci pe continoâ e aviâ &brandShortName;.">
-<!ENTITY  clickFinish.labelMac            "Prémmi fæto pe pe continoâ e aviâ &brandShortName;.">
+<!ENTITY  clickFinish.label               "Prémmi Finisci pe continoâ e arvî tórna &brandShortName;.">
+<!ENTITY  clickFinish.labelMac            "Prémmi fæto pe pe continoâ e arvî tórna &brandShortName;.">
 <!ENTITY  enableChecking.label            "Permétti a &brandShortName; de çerca i agiornaménti.">
 

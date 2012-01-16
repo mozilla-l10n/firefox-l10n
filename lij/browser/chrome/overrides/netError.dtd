@@ -1,7 +1,7 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
-<!ENTITY loadError.label "Erô into caregamento da pàgina">
+<!ENTITY loadError.label "Erô into caregaménto da pàgina">
 <!ENTITY retry.label "Prêuva Ancón">
 
 <!-- Specific error messages -->
@@ -59,7 +59,7 @@
 
 <!ENTITY protocolNotFound.title "Protocòllo no conosciûo">
 <!ENTITY protocolNotFound.longDesc "<ul>
-  <li>Tì ti porriesci dovéi instalâ de âtre aplicaçión pe arvî sto indirìsso.</li>
+  <li>Ti ti poriêsci dovéi instalâ de âtre aplicaçioìn pe arvî sto indirìsso.</li>
 </ul>
 ">
 
@@ -77,19 +77,19 @@
 <!ENTITY redirectLoop.title "A pagina no redireçiónn-a bén">
 <!ENTITY redirectLoop.longDesc "<p>O browser s'é fermòu de preuvâ a riçéive l'ògétto domandòu. O scîto o fa de redireçioìn che no finiscian mâi.</p><ul><li>T'æ dizabilitòu ò blocòu i cookie domandæ da sto scîto?</li><li><em>NÒTTA</em>: Se ti acetti i cookie do scîto e no ti risòlvi o problêma porieivan êse e inpostaçioìn do server e no do teu computer.</li></ul>">
 
-<!ENTITY unknownSocketType.title "Respósta Sbaliâ">
+<!ENTITY unknownSocketType.title "Rispósta sbaliâ da-o server">
 <!ENTITY unknownSocketType.longDesc "<p>O scîto risponde in unn-a manêa strâna e-o browser no peu continoâ.</p>">
 
-<!ENTITY nssFailure2.title "Conesción segûa no rioscîa">
+<!ENTITY nssFailure2.title "Conesción segûa no riêscia">
 <!ENTITY nssFailure2.longDesc "<ul>
-  <li>A pagina che ti prêuvi a védde no se peu vizoalizâ perché a aotenticitæ no se peu verificâ.</li>
-  <li>Pe favô ciàmma o propiêtâio do scîto pe informâlo do problêma. Ti peu ascì uzâ o menu agiùtto pe fâ un report in sciô scîto che gh'à o problêma.</li>
+  <li>A pàgina che ti prêuvi a védde a no se peu vizoalizâ perché l'aotentiçitæ a no se peu verificâ.</li>
+  <li>Pe favô ciàmma o propietâio do scîto pe informâlo do problêma. Ti peu ascì uzâ o menu agiùtto pe fâ un report in sciô scîto che gh'à o problêma.</li>
 </ul> ">
 
-<!ENTITY nssBadCert.title "Conesción segûa no rioscîa">
+<!ENTITY nssBadCert.title "Conesción segûa no riêscia">
 <!ENTITY nssBadCert.longDesc2 "<ul>
-<li>Sto chi peu êse un problêma co-e inpostaçión do server ò peu ascì êse quarchedùn che o prêuva a fâ finta de êse o server.</li>
-<li>Se ti te conésso sénsa problêmi a sto server into passòu, alôa o erô peu esê ténporaneo e ti peu provâ ancón dòppo.</li>
+<li>Sto chi o peu êse un problêma co-e inpostaçión do server ò peu ascì êse quarchedùn che o prêuva a fâ finta de êse o server.</li>
+<li>Se ti t'ê conésso sénsa problêmi a sto server into passòu, alôa l'erô o peu esê tenporàneo e ti peu provâ ancón dòppo.</li>
 </ul>
 ">
 
@@ -109,11 +109,11 @@
 <!ENTITY phishingBlocked.longDesc "<p>Se ti ti inserisci informaçioìn in sta pàgina peu sucêde che te aröban a identitæ o che te fan 'n âtro inbréuggio.</p> <p>Sti tîpi de falsificaçioìn web son ûzæ pe fâ inbréuggi cómme o phishing, inti quæ e email son ûzæ pe imitâ a sorgénte fiâ.</p>
  ">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blocòu da teu Politica de Seguéssa do Contegnûo">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>O &brandShortName; evita che sta pàgina chi a vegne caregâ a sto mòddo perché a gh'à 'na politica de seguéssa che nò-u permétte.</p>">
+<!ENTITY cspFrameAncestorBlocked.title "Blocòu da-a teu Politica de Seguéssa do Contegnûo">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>O &brandShortName; o l'inpedìsce che sta pàgina chi a vegne caregâ a sto mòddo perché a gh'à 'na politica de seguéssa che nò-u permétte.</p>">
 
 <!ENTITY corruptedContentError.title "Erô de contegnuo corotto">
-<!ENTITY corruptedContentError.longDesc "<p>A pàgina che ti çerchi de védde a no peu mostrâse perché s'é atrovòu un erô inta trasmisción di dæti.</p><ul><li>Pe piaxei, contatta i padroìn do scîto pe faghe savéi de quésto problêma.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>A pàgina che ti çerchi de védde a no peu mostrâse perché s'é atrovòu un erô inta trasmisción di dæti.</p><ul><li>Pe piaxei, contàtta i padroìn do scîto pe faghe savéi de quésto problêma.</li></ul>">
 
 
 <!ENTITY securityOverride.linkText "ò ti peu azónze 'na eceçión…">
@@ -125,7 +125,7 @@ contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningContent "<p>Tì no dovesci azónze unn-a eceçión se ti ûzi 'na conesción che no ti gh'æ de fidùccia ò se ti no gh'æ l'àndio de védde di alàrmi in sto server.</p>
+<!ENTITY securityOverride.warningContent "<p>Ti no doviêsci azónze 'na eceçión se ti ûzi 'na conesción ch'a no l'é fiâ ò se ti no gh'æ l'àndio de védde di alàrmi in sto server.</p>
 
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>

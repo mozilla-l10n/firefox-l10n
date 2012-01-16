@@ -42,7 +42,7 @@
 
 <!ENTITY            profilename.label      "Nómme do profî:">
 
-<!ENTITY            start.label            "Iniçia &brandShortName;">
+<!ENTITY            start.label            "Inìçia &brandShortName;">
 <!ENTITY            exit.label             "Sciòrti">
 
 <!ENTITY            availprofiles.label    "Profî che ghe son">
@@ -60,6 +60,6 @@
 <!ENTITY            offlineState.label    "Loua fêua linia">
 <!ENTITY            offlineState.accesskey "o">
 
-<!ENTITY            autoSelect.label       "No domandamelo a l'avio">
+<!ENTITY            autoSelect.label       "No domandâmelo a l'avertûa">
 <!ENTITY            autoSelect.accesskey   "N">
 

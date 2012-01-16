@@ -130,7 +130,7 @@
 <!ENTITY protectedAuth.msg "Pe favô aotenticate a-o Tocken.">
 <!ENTITY protectedAuth.tokenName.label "Token:">
 
-<!ENTITY certErrorDlg.title "Conesción segûa no rioscîa">
+<!ENTITY certErrorDlg.title "Conesción segûa no riêscia">
 <!ENTITY certErrorDlg.info1 "Sto chi peu êse un problêma co-e inpostaçión do server ò peu ascì êse quarchedùn che o prêuva a fâ finta de êse o server.">
 <!ENTITY certErrorDlg.info2 "Se ti t'ê conésso sénsa problêmi a sto server into passòu, alôa o peu êse 'n erô tenporaneo e ti peu provâ ancón dòppo.">
 

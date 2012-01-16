@@ -4,7 +4,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY window.width2                    "485">
 <!ENTITY window.height                    "300"> 
 
-<!ENTITY starting.label                   "Iniçio…">
+<!ENTITY starting.label                   "Inìçio…">
 <!ENTITY scanning.label                   "Riçerco viros...">
 
 <!ENTITY downloads.title                  "Descaregaménti">
@@ -15,14 +15,14 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.resume.accesskey             "R">
 <!ENTITY cmd.cancel.label                 "Anùlla">
 <!ENTITY cmd.cancel.accesskey             "A">
-<!ENTITY cmd.show.label                   "Arvi cartélla ">
-<!ENTITY cmd.show.accesskey               "A">
+<!ENTITY cmd.show.label                   "Àrvi cartélla">
+<!ENTITY cmd.show.accesskey               "c">
 <!ENTITY cmd.showMac.label                "Fànni védde into Finder">
 <!ENTITY cmd.showMac.accesskey            "F">
-<!ENTITY cmd.open.label                   "Arvi">
-<!ENTITY cmd.open.accesskey               "A">
-<!ENTITY cmd.openWith.label               "Arvi con…">
-<!ENTITY cmd.openWith.accesskey           "A">
+<!ENTITY cmd.open.label                   "Àrvi">
+<!ENTITY cmd.open.accesskey               "v">
+<!ENTITY cmd.openWith.label               "Àrvi con…">
+<!ENTITY cmd.openWith.accesskey           "c">
 <!ENTITY cmd.retry.label                  "Repiggia">
 <!ENTITY cmd.retry.accesskey              "R">
 <!ENTITY cmd.goToDownloadPage.label       "Vanni a-a pagina de descaregaménto">
@@ -45,5 +45,5 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY closeWhenDone.tooltip            "Særa o barcón di descaregaménti quànde son tùtti conpletæ">
 
 <!ENTITY showFolder.label                 "Fànni védde sta cartélla">
-<!ENTITY searchBox.label                  "Çerca…">
+<!ENTITY searchBox.label                  "Çèrca…">
 

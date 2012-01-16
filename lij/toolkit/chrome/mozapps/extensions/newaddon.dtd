@@ -4,7 +4,7 @@
 <!ENTITY allow           "Permétti sta instalaçión">
 <!ENTITY later           "Ti ti peu de lóngo cangiâ idêa e anâ into Gestô di Conponénti Azónti.">
 <!ENTITY continue        "Continoa">
-<!ENTITY restartMessage  "Ti ti devi reaviâ o &brandShortName; pe finî l'instalaçión de sto conponénte azónto.">
-<!ENTITY restartButton   "Reavia &brandShortName;">
+<!ENTITY restartMessage  "Ti ti devi arvî tórna o &brandShortName; pe finî l'instalaçión de sto conponénte azónto.">
+<!ENTITY restartButton   "Àrvi tórna &brandShortName;">
 <!ENTITY cancelButton    "Anùlla">
 

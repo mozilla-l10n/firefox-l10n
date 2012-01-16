@@ -20,7 +20,7 @@
 <!ENTITY aboutSupport.appBasicsCrashIDs "Ripòrto di ciànti">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Ûzo da memöia">
 
-<!ENTITY aboutSupport.show.label "Arvi cartélla ">
+<!ENTITY aboutSupport.show.label "Àrvi cartélla">
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.show.label.  This allows us to use the preferred

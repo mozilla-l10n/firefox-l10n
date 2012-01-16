@@ -45,10 +45,10 @@ can reach it easily. -->
 <!ENTITY tabCmd.label "Nêuvo féuggio">
 <!ENTITY tabCmd.accesskey "N">
 <!ENTITY tabCmd.commandkey "t">
-<!ENTITY openLocationCmd.label "Arvi Indirìsso…">
-<!ENTITY openLocationCmd.accesskey "A">
-<!ENTITY openFileCmd.label "Arvi File…">
-<!ENTITY openFileCmd.accesskey "A">
+<!ENTITY openLocationCmd.label "Àrvi Indirìsso…">
+<!ENTITY openLocationCmd.accesskey "v">
+<!ENTITY openFileCmd.label "Àrvi File…">
+<!ENTITY openFileCmd.accesskey "v">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Inpòsta pàgina…">
 <!ENTITY printSetupCmd.accesskey "I">
@@ -127,13 +127,13 @@ can reach it easily. -->
 
 <!ENTITY backForwardItem.title        "Inderê/Avànti">
 <!ENTITY locationItem.title           "Indirìsso">
-<!ENTITY searchItem.title             "Riçerca">
+<!ENTITY searchItem.title             "Riçèrca">
 <!ENTITY throbberItem.title           "Indicatô da ativitæ">
 <!ENTITY bookmarksItem.title          "Segnalìbbri">
 
 <!-- Toolbar items --> 
 <!ENTITY appMenuButton.label          "Menu">
-<!ENTITY appMenuButton.tooltip        "Arvi o menù de &brandShortName;">
+<!ENTITY appMenuButton.tooltip        "Àrvi o menù de &brandShortName;">
 <!ENTITY homeButton.label             "Pàgina iniçiâ">
 
 <!ENTITY tabGroupsButton.label        "Grùppo de féuggi">
@@ -167,9 +167,9 @@ can reach it easily. -->
 <!ENTITY toolsMenu.label              "Struménti">
 <!ENTITY toolsMenu.accesskey          "t"> 
 
-<!ENTITY keywordfield.label           "Azónzi 'na paròlla ciâve pe quésta riçerca…">
+<!ENTITY keywordfield.label           "Azónzi 'na paròlla ciâve pe quésta riçèrca…">
 <!ENTITY keywordfield.accesskey       "A">
-<!ENTITY search.label                 "Riçerca in sciô web">
+<!ENTITY search.label                 "Riçèrca in sciô web">
 <!ENTITY search.accesskey             "s">
 <!ENTITY downloads.label              "Descaregaménti">
 <!ENTITY downloads.tooltip            "Fanni védde l'avansaménto di descaregaménti">
@@ -308,7 +308,7 @@ can reach it easily. -->
 <!ENTITY appMenuUnsorted.label "Âtri segnalìbbri">
 <!ENTITY appMenuWebDeveloper.label "Svilopatô Web">
 <!ENTITY appMenuGettingStarted.label "Pe Iniçiâ">
-<!ENTITY appMenuSafeMode.label "Reavia con i conponénti azónti dizabilitæ">
+<!ENTITY appMenuSafeMode.label "Àevi tórna co-i conponénti azónti dizabilitæ">
 <!ENTITY appMenuSafeMode.accesskey "R">
 
 <!ENTITY openCmd.commandkey           "l">
@@ -342,16 +342,16 @@ can reach it easily. -->
 
 <!ENTITY tabView.commandkey           "e">
 
-<!ENTITY openLinkCmdInTab.label       "Arvi in nêuvo féuggio">
-<!ENTITY openLinkCmdInTab.accesskey   "A">
-<!ENTITY openLinkCmd.label            "Arvi in nêuvo barcón">
-<!ENTITY openLinkCmd.accesskey        "A">
-<!ENTITY openLinkCmdInCurrent.label     "Arvi colegamento">
-<!ENTITY openLinkCmdInCurrent.accesskey "o">
-<!ENTITY openFrameCmdInTab.label      "Arvi riquàddro in nêuvo féuggio">
-<!ENTITY openFrameCmdInTab.accesskey  "A">
-<!ENTITY openFrameCmd.label           "Arvi riquàddro in nêuvo barcón">
-<!ENTITY openFrameCmd.accesskey       "A">
+<!ENTITY openLinkCmdInTab.label       "Àrvi in nêuvo féuggio">
+<!ENTITY openLinkCmdInTab.accesskey   "v">
+<!ENTITY openLinkCmd.label            "Àrvi in nêuvo barcón">
+<!ENTITY openLinkCmd.accesskey        "v">
+<!ENTITY openLinkCmdInCurrent.label     "Àrvi colegamento">
+<!ENTITY openLinkCmdInCurrent.accesskey "v">
+<!ENTITY openFrameCmdInTab.label      "Àrvi riquàddro in nêuvo féuggio">
+<!ENTITY openFrameCmdInTab.accesskey  "v">
+<!ENTITY openFrameCmd.label           "Àrvi riquàddro in nêuvo barcón">
+<!ENTITY openFrameCmd.accesskey       "r">
 <!ENTITY showOnlyThisFrameCmd.label     "Fànni védde sôlo sto riquàddro">
 <!ENTITY showOnlyThisFrameCmd.accesskey "s">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -491,8 +491,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Zoom">
 <!ENTITY fullZoom.accesskey             "Z">
 
-<!ENTITY newTabButton.tooltip           "Arvi nêuvo féuggio">
-<!ENTITY newWindowButton.tooltip        "Arvi un nêuvo barcón">
+<!ENTITY newTabButton.tooltip           "Àrvi nêuvo féuggio">
+<!ENTITY newWindowButton.tooltip        "Àrvi un nêuvo barcón">
 <!ENTITY sidebarCloseButton.tooltip     "Særa a bâra de sciànco">
 
 <!ENTITY cutButton.tooltip              "Tàggia">
@@ -576,7 +576,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY downloadMonitor2.tooltip "Prémmi pe arvî o barcón de descaregaménto">
 
-<!ENTITY allTabs.filter.emptyText "Bâra de ">
+<!ENTITY allTabs.filter.emptyText "Bâra de Ricèrca">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Féuggio do navegatô">

@@ -39,10 +39,10 @@
 <!ENTITY safeModeDialog.title         "Mòddo Segûo de &brandShortName;">
 <!ENTITY window.width                 "37em">
 
-<!ENTITY safeModeDescription.label    "&brandShortName; o l'é in mòddo segûo che dizabilita e teu inpostaçioìn, têmi e estenscioìn.">
+<!ENTITY safeModeDescription.label    "&brandShortName; o l'é into mòddo segûo ch'o dizabìlita e teu inpostaçioìn, têmi e estenscioìn.">
 <!ENTITY safeModeDescription2.label   "Ti ti peu fâ deventâ fìssi quàrche ò tùtti sti càngi:">
 
-<!ENTITY disableAddons.label          "Dizabilita tùtti i conponénti azónti">
+<!ENTITY disableAddons.label          "Dizabìlita tùtti i conponénti azónti">
 <!ENTITY disableAddons.accesskey      "D">
 
 <!ENTITY resetToolbars.label          "Reinpòsta bâre e contròlli">
@@ -54,9 +54,9 @@
 <!ENTITY resetUserPrefs.label         "Reinpòsta tùtte e preferense a-o predefinîo de &brandShortName;">
 <!ENTITY resetUserPrefs.accesskey     "p">
 
-<!ENTITY restoreSearch.label          "Remétti i motô de riçerca predefinî">
+<!ENTITY restoreSearch.label          "Remétti i motô de riçèrca predefinî">
 <!ENTITY restoreSearch.accesskey      "R">
 
-<!ENTITY changeAndRestartButton.label "Càngia e Reavia">
+<!ENTITY changeAndRestartButton.label "Càngia e àrvi tórna">
 <!ENTITY continueButton.label         "Continoa into Mòddo Segûo">
 

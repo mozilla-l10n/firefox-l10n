@@ -18,7 +18,7 @@
 <!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; o l'à finîo de instalâ i plugin che ghe mancan:">
 
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "Trêuva ciù Plugin ò treuva a màn i plugin che mancan.">
-<!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; o deve êse reaviòu pe fa louâ i plugin.">
+<!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; o dêve êse avèrto tórna pe fâ louâ i plugin.">
 
 <!ENTITY missingPlugin                                       "Pe védde sto contegnûo t'æ bezéugno de 'n plugin.">
 <!ENTITY clickToPlayPlugin                                   "Sciàcca chi pe ativâ o plugin.">
@@ -38,7 +38,7 @@
 <!ENTITY report.checkbox                                     "…e mànda o report do ciànto">
 <!ENTITY report.submitting                                   "Spedìscio o report…">
 <!ENTITY report.submitted                                    "Report do problêma spediô.">
-<!ENTITY report.disabled                                     "Registro di problêmi dizabilitòu.">
+<!ENTITY report.disabled                                     "Regìstro di problêmi dizabilitòu.">
 <!ENTITY report.failed                                       "Spediçión no arioscîa.">
 <!ENTITY report.unavailable                                  "No gh'é nisciùn report.">
 

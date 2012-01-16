@@ -1,11 +1,11 @@
 <!-- extracted from content/openLocation.xul -->
 
-<!ENTITY enter.label "Scrîvi o indirìsso web (URL) ò dìnni o file che ti veu arvî:">  
+<!ENTITY enter.label "Scrîvi o indirìsso web (URL) ò dìmme o file che ti veu arvî:">  
 <!ENTITY chooseFile.label "Scegli file…">
 <!ENTITY newTab.label "Nêuvo féuggio">
 <!ENTITY newWindow.label "Nêuvo barcón">
 <!ENTITY topTab.label "Féuggio corénte">
-<!ENTITY caption.label "Arvi indirìsso">
-<!ENTITY openWhere.label "Arvi in:">
-<!ENTITY openBtn.label "Arvi">
+<!ENTITY caption.label "Àrvi indirìsso">
+<!ENTITY openWhere.label "Àrvi in:">
+<!ENTITY openBtn.label "Àrvi">
 

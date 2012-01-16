@@ -49,13 +49,13 @@
 <!ENTITY cmd.deleteDomainData.label     "Ascòrdite de quésto scîto">
 <!ENTITY cmd.deleteDomainData.accesskey "A">
 
-<!ENTITY cmd.open.label                  "Arvi">
-<!ENTITY cmd.open.accesskey              "A">
-<!ENTITY cmd.open_window.label           "Arvi in nêuvo barcón">
+<!ENTITY cmd.open.label                  "Àrvi">
+<!ENTITY cmd.open.accesskey              "v">
+<!ENTITY cmd.open_window.label           "Àrvi in nêuvo barcón">
 <!ENTITY cmd.open_window.accesskey       "n">
-<!ENTITY cmd.open_tab.label              "Arvi in nêuvo féuggio">
-<!ENTITY cmd.open_tab.accesskey          "A">
-<!ENTITY cmd.open_all_in_tabs.label      "Arvi tùtto inti féuggi">
+<!ENTITY cmd.open_tab.label              "Àrvi in nêuvo féuggio">
+<!ENTITY cmd.open_tab.accesskey          "v">
+<!ENTITY cmd.open_all_in_tabs.label      "Àrvi tùtto inti féuggi">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "o">
 
 <!ENTITY cmd.properties.label      "Propietæ">
@@ -89,10 +89,10 @@
 <!ENTITY col.dateadded.label     "Azónto">
 <!ENTITY col.lastmodified.label  "Cangiòu o">
 
-<!ENTITY search.label                              "Riçerca:">
+<!ENTITY search.label                              "Riçèrca:">
 <!ENTITY search.accesskey                          "R">
 
-<!ENTITY search.in.label                           "Çerca in:">
+<!ENTITY search.in.label                           "Çèrca in:">
 <!ENTITY search.scopeFolder.label                  "Scegli cartélla">
 <!ENTITY search.scopeFolder.accesskey              "r">
 <!ENTITY search.scopeBookmarks.label               "Segnalìbbri">
@@ -120,7 +120,7 @@
 <!ENTITY detailsPane.less.accesskey "M">
 <!ENTITY detailsPane.selectAnItemText.description "Seleçionn-a un ògetto pe védde e modificâ e propietæ">
 
-<!ENTITY find.label               "Riçerca:">
+<!ENTITY find.label               "Riçèrca:">
 <!ENTITY find.accesskey           "R">
 <!ENTITY view.label               "Fànni védde">
 <!ENTITY view.accesskey           "F">

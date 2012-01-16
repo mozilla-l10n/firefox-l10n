@@ -6,7 +6,7 @@
 
 <!ENTITY useCursorNavigation.label       "Ûza sémpre i pomélli de direçión pe navegâ in scie pagine">
 <!ENTITY useCursorNavigation.accesskey   "c">
-<!ENTITY searchStartTyping.label         "Çerca o testo quàndo iniçio a scrîve">
+<!ENTITY searchStartTyping.label         "Çèrca o testo quàndo inìçio a scrîve">
 <!ENTITY searchStartTyping.accesskey     "Ç">
 <!ENTITY blockAutoRefresh.label          "Avertime quànde i scîti preuvan a redireçionâ ò recaregâ a pàgina">
 <!ENTITY blockAutoRefresh.accesskey      "p">
@@ -71,7 +71,7 @@
 <!ENTITY updateManual.label              "No çercâ mâi i agiornaménti (no racomandòu: rezego de seguéssa)">
 <!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateAutoAddonWarn.label       "Avertime se quésto dizabilita quarchedùn di mæ conponénti azónti">
+<!ENTITY updateAutoAddonWarn.label       "Avèrtime se quésto dizabìlita quarchedùn di mæ conponénti azónti">
 <!ENTITY updateAutoAddonWarn.accesskey   "A">
 
 <!ENTITY updateHistory.label             "Fànni védde a stöia di agiórnamenti">
@@ -81,7 +81,7 @@
 <!ENTITY useService.accesskey            "a">
 
 <!ENTITY updateOthers.label              "Agiornaménti aotomàtici:">
-<!ENTITY enableSearchUpdate.label        "Motô de riçerca">
+<!ENTITY enableSearchUpdate.label        "Motô de riçèrca">
 <!ENTITY enableSearchUpdate.accesskey    "M">
 
 <!ENTITY offlineNotify.label             "Dìmme quàndo un scîto o domanda de sarvâ dæti pe êse uzæ fêua linia">
