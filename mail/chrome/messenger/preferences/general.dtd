@@ -1,3 +1,18 @@
+<!--
+# Translator(s):
+#
+# janimo <jani@ubuntu.com>
+# Alexandru Szasz <alexxed@gmail.com>
+# evinteler <emil_vinteler2000@yahoo.com>
+# Laudatti <Laudatti@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY messengerStartPage.label         "Pagina de pornire &brandShortName;">
 <!ENTITY enableStartPage.label            "Arată pagina de start în zona mesajelor la pornirea &brandShortName;">
 <!ENTITY enableStartPage.accesskey        "A">
@@ -33,3 +48,4 @@
 <!ENTITY manageAddonsDescUnix2.label      "Schimbați preferințele suplimentelor">
 <!ENTITY manageAddons.label               "Gestionare suplimente…">
 <!ENTITY manageAddons.accesskey           "m">
+

@@ -1,3 +1,9 @@
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -49,3 +55,4 @@
 <!ENTITY borderEditField.accessKey "B">
 <!ENTITY borderEditField.tooltip "Tastați un număr pentru grosimea bordurii tabelului, sau zero (0) pentru tabel fără bordură">
 <!ENTITY pixels.label "pixeli">
+

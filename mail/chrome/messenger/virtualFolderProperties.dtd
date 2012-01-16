@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# turcan <nicturcan@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY virtualFolderProperties.title "Dosar nou pentru o căutare salvată">
 <!ENTITY name.label                 "Nume:">
 <!ENTITY name.accesskey             "N">
@@ -12,3 +25,8 @@
 
 <!ENTITY searchOnline.label "Caută online (rezultatele sunt obținute de pe server pentru dosare IMAP și News dar timpul de deschidere al dosarului crește)">
 <!ENTITY searchOnline.accesskey "o">
+<!ENTITY newFolderButton.label       "Creează">
+<!ENTITY newFolderButton.accesskey   "r">
+<!ENTITY editFolderButton.label      "Actualizează">
+<!ENTITY editFolderButton.accesskey  "u">
+

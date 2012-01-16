@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# Laudatti <Laudatti@gmail.com>
+# janimo <jani@ubuntu.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY  connectionsDialog.title       "Setări pentru conexiune">
 <!ENTITY  window.width                   "40em">
 
@@ -21,11 +34,11 @@
 <!ENTITY  socks.label                   "Gazdă SOCKS:">
 <!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
-<!ENTITY  socks4.accesskey              "K">
+<!ENTITY  socks4.accesskey              "k">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
 <!ENTITY  HTTPport.label                "Port:">
-<!ENTITY  HTTPport.accesskey            "P">
+<!ENTITY  HTTPport.accesskey            "p">
 <!ENTITY  SSLport.label                 "Port:">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  SOCKSport.label               "Port:">
@@ -35,3 +48,4 @@
 <!ENTITY  noproxyExplain.label          "Exemplu: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Folosește acest server proxy pentru toate protocoalele">
 <!ENTITY  shareproxy.accesskey          "x">
+

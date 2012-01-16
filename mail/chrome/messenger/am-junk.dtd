@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY junkSettings.label "Setări pentru mesaje nesolicitate">
 <!ENTITY trainingWarning.label "Dacă e activat, trebuie să antrenați &brandShortName; pentru a identifica mesajele nesolicitate folosind butonul din bara de mesaje nesolicitate pentru a le marca că sunt sau nu nesolicitate. Va trebuie să identificați atât mesajele nesolicitate cât și cele care nu sunt nesolicitate.">
 <!ENTITY level.label "Activați controalele adaptive de mesaje nesolicitate pentru acest cont">
@@ -18,3 +30,4 @@
 
 <!ENTITY ispHeaders.label "Aveți încredere în marcările de nesolicitare făcute de: ">
 <!ENTITY ispHeaders.accesskey "t">
+

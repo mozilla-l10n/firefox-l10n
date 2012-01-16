@@ -1,3 +1,18 @@
+<!--
+# Translator(s):
+#
+# https://www.google.com/accounts/o8/id?id=AItOawlnUhqAust-7hqM7HhylXGcKyQHz7bLFkw <https://www.google.com/accounts/o8/id?id=AItOawlnUhqAust-7hqM7HhylXGcKyQHz7bLFkw>
+# Alexandru Szasz <alexxed@gmail.com>
+# Laudatti <Laudatti@gmail.com>
+# secarica <orice@secarica.ro>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
 
@@ -35,42 +50,42 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField2.label "către ">
-<!ENTITY fromField2.label "de la ">
-<!ENTITY senderField2.label "expeditor ">
-<!ENTITY organizationField2.label "organizație ">
-<!ENTITY replyToField2.label "răspunde la ">
+<!ENTITY toField3.label "To ">
+<!ENTITY fromField3.label "De la">
+<!ENTITY senderField3.label "Expeditor">
+<!ENTITY organizationField3.label "Organizație">
+<!ENTITY replyToField3.label "Răspuns către">
 
-<!ENTITY subjectField2.label "subiect ">
-<!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
-<!ENTITY ccField2.label "copie către ">
-<!ENTITY bccField2.label "copie ascunsă către ">
-<!ENTITY newsgroupsField2.label "grupuri de discuții ">
-<!ENTITY followupToField2.label "continuare la ">
-<!ENTITY tagsHdr2.label "etichete ">
-<!ENTITY dateField2.label "data ">
-<!ENTITY userAgentField2.label "agent de utilizator ">
-<!ENTITY referencesField2.label "referințe ">
-<!ENTITY messageIdField2.label "message-id ">
-<!ENTITY inReplyToField2.label "ca răspuns la ">
-<!ENTITY originalWebsite2.label "sait web ">
+<!ENTITY subjectField3.label "Subiect">
+<!ENTITY ccField3.label "Copie">
+<!ENTITY bccField3.label "Copie ascunsă">
+<!ENTITY newsgroupsField3.label "Grupuri de discuții ">
+<!ENTITY followupToField3.label "Urmare la">
+<!ENTITY tagsHdr3.label "Etichete">
+<!ENTITY dateField3.label "Data">
+<!ENTITY userAgentField3.label "Agent de utilizator">
+<!ENTITY referencesField3.label "Referințe ">
+<!ENTITY messageIdField3.label "ID-ul mesajului">
+<!ENTITY inReplyToField3.label "Ca răspuns la">
+<!ENTITY originalWebsite3.label "Sait web ">
 
 <!ENTITY editMessageDescription.label "Acesta e un mesaj netrimis, o ciornă">
 <!ENTITY editMessageButton.label "Editează…">
-<!ENTITY hdrArchiveButton.label "arhivează">
-<!ENTITY hdrArchiveButton.tooltip "arhivează acest mesaj">
-<!ENTITY hdrReplyButton.label "răspunde">
-<!ENTITY hdrReplyButton.tooltip "răspunde la acest mesaj">
-<!ENTITY hdrReplyAllButton.label "răspunde la toți">
-<!ENTITY hdrReplyAllButton.tooltip "răspunde expeditorului și celorlalți destinatari">
-<!ENTITY hdrReplyListButton.label "răspunde listei">
-<!ENTITY hdrReplyListButton.tooltip "răspunde pe lista de discuții">
-<!ENTITY hdrForwardButton.label "înaintează">
-<!ENTITY hdrForwardButton.tooltip "înaintează acest mesaj">
-<!ENTITY hdrJunkButton.label "nesolicitat">
-<!ENTITY hdrJunkButton.tooltip "marchează acest mesaj ca nesolicitat">
-<!ENTITY hdrTrashButton.label "șterge">
-<!ENTITY hdrTrashButton.tooltip "șterge acest mesaj">
+<!ENTITY hdrArchiveButton1.label "Arhivează">
+<!ENTITY hdrArchiveButton1.tooltip "Arhivează acest mesaj">
+<!ENTITY hdrSmartReplyButton1.label "Răspuns rapid">
+<!ENTITY hdrReplyButton1.label "Răspunde">
+<!ENTITY hdrReplyButton1.tooltip "Răspunde acestui mesaj">
+<!ENTITY hdrReplyAllButton1.label "Răspunde tuturor">
+<!ENTITY hdrReplyAllButton1.tooltip "Răspunde expeditorului și tuturor destinatarilor">
+<!ENTITY hdrReplyListButton1.label "Răspunde listei">
+<!ENTITY hdrReplyListButton1.tooltip "Răspunde listei de discuții">
+<!ENTITY hdrForwardButton1.label "Înaintează">
+<!ENTITY hdrForwardButton1.tooltip "Înaintează acest mesaj">
+<!ENTITY hdrJunkButton1.label "Nesolicitat">
+<!ENTITY hdrJunkButton1.tooltip "Marchează mesajul ca nesolicitat">
+<!ENTITY hdrTrashButton1.label "Șterge">
+<!ENTITY hdrTrashButton1.tooltip "Șterge acest mesaj">
 
 <!ENTITY hdrViewToolbarShowFull.label "Arată iconițe și text">
 <!ENTITY hdrViewToolbarShowFull.accesskey "A">
@@ -81,30 +96,35 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Arată întotdeauna răspunsul către expeditor">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "r">
 
-<!ENTITY otherActionsButton.label "alte acțiuni">
-<!ENTITY otherActionsShowConversation.label "arată ca conversație">
-<!ENTITY otherActionsShowConversation.accesskey "c">
-<!ENTITY otherActionsOpenInNewWindow.label "deschide într-o fereastră nouă">
-<!ENTITY otherActionsOpenInNewWindow.accesskey "d">
-<!ENTITY otherActionsOpenInNewTab.label "deschide într-o filă nouă">
-<!ENTITY otherActionsOpenInNewTab.accesskey "t">
-<!ENTITY markAsReadMenuItem.label "marchează ca citit">
-<!ENTITY markAsReadMenuItem.accesskey "r">
-<!ENTITY markAsUnreadMenuItem.label "marchează ca necitit">
-<!ENTITY markAsUnreadMenuItem.accesskey "r">
-<!ENTITY saveAsMenuItem.label "salvează ca…">
-<!ENTITY saveAsMenuItem.accesskey "s">
-<!ENTITY viewSourceMenuItem.label "vezi sursa…">
-<!ENTITY viewSourceMenuItem.accesskey "v">
-<!ENTITY otherActionsPrint.label "tipărește…">
-<!ENTITY otherActionsPrint.accesskey "p">
+<!ENTITY otherActionsButton1.label "Alte acțiuni">
+<!ENTITY otherActionsOpenConversation1.label "Deschide în conversație">
+<!ENTITY otherActionsOpenConversation1.accesskey "c">
+<!ENTITY otherActionsOpenInNewWindow1.label "Deschide în fereastră nouă">
+<!ENTITY otherActionsOpenInNewWindow1.accesskey "D">
+<!ENTITY otherActionsOpenInNewTab1.label "Deschide în filă nouă">
+<!ENTITY otherActionsOpenInNewTab1.accesskey "D">
+<!ENTITY markAsReadMenuItem1.label "Marchează ca citit">
+<!ENTITY markAsReadMenuItem1.accesskey "r">
+<!ENTITY markAsUnreadMenuItem1.label "Marchează ca necitit">
+<!ENTITY markAsUnreadMenuItem1.accesskey "r">
+<!ENTITY saveAsMenuItem1.label "Salvează ca…">
+<!ENTITY saveAsMenuItem1.accesskey "S">
+<!ENTITY viewSourceMenuItem1.label "Vizualizează sursa">
+<!ENTITY viewSourceMenuItem1.accesskey "V">
+<!ENTITY otherActionsPrint1.label "Tipărește…">
+<!ENTITY otherActionsPrint1.accesskey "p">
 
+<!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Deschide">
 <!ENTITY openAttachmentCmd.accesskey    "D">
 <!ENTITY saveAsAttachmentCmd.label    "Salvează ca…">
 <!ENTITY saveAsAttachmentCmd.accesskey    "a">
 <!ENTITY detachAttachmentCmd.label    "Elimină anexa…">
+<!ENTITY detachAttachmentCmd.accesskey    "D">
 <!ENTITY deleteAttachmentCmd.label    "Șterge">
+<!ENTITY deleteAttachmentCmd.accesskey    "e">
+<!ENTITY openAllAttachmentsCmd.label    "Deschide toate…">
+<!ENTITY openAllAttachmentsCmd.accesskey    "o">
 <!ENTITY saveAllAttachmentsCmd.label    "Salvează toate…">
 <!ENTITY saveAllAttachmentsCmd.accesskey    "S">
 <!ENTITY detachAllAttachmentsCmd.label    "Elimină toate anexele…">
@@ -112,9 +132,21 @@
 <!ENTITY deleteAllAttachmentsCmd.label    "Șterge toate anexele…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
 
+<!ENTITY openAttachment.tooltip "Deschide fișierul anexat">
+
+<!-- Attachment toolbar items -->
+<!ENTITY saveAttachmentButton1.label       "Salvează">
+<!ENTITY saveAttachmentButton1.tooltip     "Salvează fișierul anexat">
+<!ENTITY saveAllAttachmentsButton1.label   "Salvează tot">
+<!ENTITY saveAllAttachmentsButton1.tooltip "Salvează toate fișierele anexate">
+
 <!ENTITY copyLinkCmd.label        "Copiază adresa legăturii">
 <!ENTITY copyLinkCmd.accesskey    "C">
 
 <!ENTITY CopyMessageId.label "Copiază Message-ID">
+<!ENTITY CopyMessageId.accesskey "C">
 <!ENTITY OpenMessageForMsgId.label "Deschide mesajul pentru ID">
+<!ENTITY OpenMessageForMsgId.accesskey "O">
 <!ENTITY OpenBrowserWithMsgId.label "Deschide navigatorul cu Message-ID">
+<!ENTITY OpenBrowserWithMsgId.accesskey "B">
+

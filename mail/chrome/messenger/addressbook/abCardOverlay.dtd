@@ -1,3 +1,18 @@
+<!--
+# Translator(s):
+#
+# rsandu <razvan.sandu@zando.ro>
+# Alexandru Szasz <alexxed@gmail.com>
+# nicubunu <nicubunu@gmail.com>
+# turcan <nicturcan@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
 
@@ -64,6 +79,8 @@
 <!ENTITY PhoneticField2.label           "Fonetic:">
 <!ENTITY DisplayName.label              "Afișat ca:">
 <!ENTITY DisplayName.accesskey          "A">
+<!ENTITY preferDisplayName.label        "Preferă afișarea numelui față de antetul mesajului">
+<!ENTITY preferDisplayName.accesskey    "P">
 <!ENTITY NickName.label                 "Pseudonim:">
 <!ENTITY NickName.accesskey             "n">
 
@@ -113,9 +130,9 @@
 <!ENTITY Birthday.label                 "Zi de naștere:">
 <!ENTITY Birthday.accesskey             "Z">
 <!ENTITY In.label                       "">
-<!ENTITY Year.emptytext                 "An">
+<!ENTITY Year.placeholder               "An">
 <!ENTITY Or.value                       "sau">
-<!ENTITY Age.emptytext                  "Vârsta">
+<!ENTITY Age.placeholder                "Vârsta">
 <!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Lucru">
@@ -166,6 +183,7 @@
 <!ENTITY BrowsePhoto.accesskey          "R">
 <!ENTITY PhotoURL.label                 "Pe web">
 <!ENTITY PhotoURL.accesskey             "b">
-<!ENTITY PhotoURL.emptytext             "Inserați sau tastați adresa web a pozei">
+<!ENTITY PhotoURL.placeholder           "Inserați sau tastați adresa web a pozei">
 <!ENTITY UpdatePhoto.label              "Actualizează">
 <!ENTITY UpdatePhoto.accesskey          "u">
+

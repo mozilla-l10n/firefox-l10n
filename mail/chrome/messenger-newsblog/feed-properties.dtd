@@ -1,3 +1,18 @@
+<!--
+# Translator(s):
+#
+# nicubunu <nicubunu@gmail.com>
+# janimo <jani@ubuntu.com>
+# strainu <narro@strainu.ro>
+# secarica <orice@secarica.ro>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- Feed Properties Dialog -->
 <!ENTITY window.title             "Proprietăți flux">
 
@@ -17,3 +32,4 @@
 
 <!ENTITY pasteLinkCmd.label       "Inserează">
 <!ENTITY pasteLinkCmd.accesskey   "I">
+

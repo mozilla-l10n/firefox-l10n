@@ -1,6 +1,19 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY junkLog.title "Jurnal de mesaje nesolicitate">
 <!ENTITY junkLogInfo.label "Jurnalul controlului de mesaje nesolicitate.">
 <!ENTITY clearLog.label "Golește jurnalul">
 <!ENTITY clearLog.accesskey "G">
 <!ENTITY closeLog.label "Închide">
 <!ENTITY closeLog.accesskey "n">
+

@@ -1,3 +1,17 @@
+<!--
+# Translator(s):
+#
+# Laudatti <Laudatti@gmail.com>
+# janimo <jani@ubuntu.com>
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- extracted from am-advanced.xul -->
 
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
@@ -20,4 +34,5 @@
 <!ENTITY serverPort.label "Port:">
 <!ENTITY userName.label   "Nume utilizator:">
 <!ENTITY connectionSecurity.label "Securitatea conexiunii: ">
-<!ENTITY useSecureAuthentication.label   "Autentificare securizată: ">
+<!ENTITY authMethod.label   "Metodă de autentificare: ">
+

@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# Laudatti <Laudatti@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 
 <!ENTITY migrationWizard.title          "Asistent de import">
 
@@ -6,10 +19,8 @@
 
 <!ENTITY importFromNothing.label        "Nu importa nimic">
 <!ENTITY importFromNothing.accesskey    "u">
-<!ENTITY importFromSeamonkey2.label     "Netscape 6, 7, Mozilla 1.x sau SeaMonkey">
-<!ENTITY importFromSeamonkey2.accesskey "s">
-<!ENTITY importFromNetscape4.label      "Netscape 4.x">
-<!ENTITY importFromNetscape4.accesskey  "4">
+<!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 or later">
+<!ENTITY importFromSeamonkey3.accesskey "S">
 <!ENTITY importFromOExpress.label       "Outlook Express">
 <!ENTITY importFromOExpress.accesskey   "u">
 <!ENTITY importFromOutlook.label        "Outlook">
@@ -29,3 +40,4 @@
 
 <!ENTITY done.title                     "Import încheiat">
 <!ENTITY done.label                     "Următoarele elemente au fost importate cu succes:">
+

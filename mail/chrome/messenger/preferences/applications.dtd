@@ -1,3 +1,9 @@
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY  typeColumn.label            "Tip de conținut">
 <!ENTITY  typeColumn.accesskey        "T">
 
@@ -7,7 +13,7 @@
 <!ENTITY  focusSearch1.key            "f">
 <!ENTITY  focusSearch2.key            "k">
 
-<!ENTITY  filter.emptytext            "Căutare">
+<!ENTITY  filter.placeholder          "Căutare">
 
 <!ENTITY saveTo.label                 "Salvează fișierele în">
 <!ENTITY saveTo.accesskey             "S">
@@ -17,3 +23,4 @@
 <!ENTITY chooseFolderWin.accesskey    "R">
 <!ENTITY chooseFolderMac.label        "Alege…">
 <!ENTITY chooseFolderMac.accesskey    "A">
+

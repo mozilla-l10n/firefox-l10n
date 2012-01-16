@@ -1,3 +1,17 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# strainu <narro@strainu.ro>
+# turcan <nicturcan@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- for SearchDialog.xul -->
 <!ENTITY searchHeading.label         "Caută mesaje în:">
 <!ENTITY searchHeading.accesskey     "C">
@@ -72,3 +86,4 @@
 <!ENTITY starredColumn.tooltip "Clic pentru a sorta după steluță">
 <!ENTITY locationColumn.tooltip "Clic pentru a sorta după amplasare">
 <!ENTITY idColumn.tooltip "Clic pentru a sorta după ordinea în care au fost primite">
+

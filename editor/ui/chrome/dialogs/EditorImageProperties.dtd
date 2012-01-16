@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# janimo <jani@ubuntu.com>
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -78,8 +91,6 @@
 <!ENTITY imagemapBox.label "Hartă imagine">
 <!ENTITY removeImageMapButton.label "Elimină">
 <!ENTITY removeImageMapButton.accessKey "E">
-<!ENTITY editImageMapButton.label "Editează…">
-<!ENTITY editImageMapButton.tooltip "Creează pe imagine zone sensibile, pe care se poate face clic">
 
 <!-- These are the options for image alignment -->
 <!ENTITY alignment.label "Aliniere text cu imagine">
@@ -101,6 +112,9 @@
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "Afișează cu bordură imaginea cu legături">
 <!ENTITY showImageLinkBorder.accessKey "A">
+<!ENTITY LinkAdvancedEditButton.label "Editare avansată a legăturii…">
+<!ENTITY LinkAdvancedEditButton.accessKey "l">
+<!ENTITY LinkAdvancedEditButton.tooltip "Adăugați sau modificați atribute HTML, stiluri, precum și cod JavaScript">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "formular">
@@ -108,3 +122,4 @@
 <!ENTITY imageDimensionsTab.label "Dimensiuni">
 <!ENTITY imageAppearanceTab.label "Aspect">
 <!ENTITY imageLinkTab.label "Legătură">
+

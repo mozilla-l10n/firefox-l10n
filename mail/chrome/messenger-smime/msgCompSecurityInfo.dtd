@@ -1,3 +1,9 @@
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!--LOCALIZATION NOTE msgCompSecurityInfo.dtd UI for viewing security status when composing a message -->
 
 <!ENTITY title.label "Securitate mesaj">
@@ -12,3 +18,4 @@
 <!ENTITY tree.status "Stare">
 <!ENTITY tree.issuedDate "Emis la:">
 <!ENTITY tree.expiresDate "Expiră la:">
+

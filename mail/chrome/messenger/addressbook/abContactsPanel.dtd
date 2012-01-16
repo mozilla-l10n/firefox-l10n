@@ -1,3 +1,17 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# janimo <jani@ubuntu.com>
+# nicubunu <nicubunu@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY addressbookPicker.label            "Agendă de contacte:">
 <!ENTITY addressbookPicker.accesskey        "A">
 <!ENTITY searchInput.label                  "Căutare după:">
@@ -5,10 +19,15 @@
 <!ENTITY SearchNameOrEmail.label            "Nume sau email">
 
 <!ENTITY deleteAddrBookCard.label           "Șterge">
+<!ENTITY deleteAddrBookCard.accesskey       "D">
 <!ENTITY addrBookCardProperties.label       "Proprietăți">
+<!ENTITY addrBookCardProperties.accesskey   "P">
 <!ENTITY addtoToFieldMenu.label             "Adaugă la câmpul Către">
+<!ENTITY addtoToFieldMenu.accesskey         "A">
 <!ENTITY addtoCcFieldMenu.label             "Adaugă la câmpul Cc">
+<!ENTITY addtoCcFieldMenu.accesskey         "C">
 <!ENTITY addtoBccFieldMenu.label            "Adaugă la câmpul Bcc">
+<!ENTITY addtoBccFieldMenu.accesskey        "B">
 
 <!ENTITY toButton.label                     "Adaugă la To:">
 <!ENTITY toButton.accesskey                 "A">
@@ -16,3 +35,4 @@
 <!ENTITY ccButton.accesskey                 "A">
 <!ENTITY bccButton.label                    "Adaugă la Bcc:">
 <!ENTITY bccButton.accesskey                "B">
+

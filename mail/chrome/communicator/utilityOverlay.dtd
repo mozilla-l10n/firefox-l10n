@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# janimo <jani@ubuntu.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- these things need to move into utilityOverlay.xul -->
 
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
@@ -57,3 +70,4 @@
 
 <!ENTITY quitApplicationCmdMac.label  "Ieșire din &brandShortName;">
 <!ENTITY quitApplicationCmdMac.accesskey  "I">
+

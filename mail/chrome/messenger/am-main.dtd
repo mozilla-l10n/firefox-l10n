@@ -1,3 +1,18 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# janimo <jani@ubuntu.com>
+# https://www.google.com/accounts/o8/id?id=AItOawlnUhqAust-7hqM7HhylXGcKyQHz7bLFkw <https://www.google.com/accounts/o8/id?id=AItOawlnUhqAust-7hqM7HhylXGcKyQHz7bLFkw>
+# Laudatti <Laudatti@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- extracted from am-main.xul -->
 
 <!ENTITY accountTitle.label "Setările contului">
@@ -11,6 +26,7 @@
 <!ENTITY email.accesskey "d">
 <!ENTITY replyTo.label "Adresă pentru răspuns:">
 <!ENTITY replyTo.accesskey "s">
+<!ENTITY replyTo.placeholder "Destinatarii vor răspunde acestei adrese">
 <!ENTITY organization.label "Organizație:">
 <!ENTITY organization.accesskey "O">
 <!ENTITY signatureText.label "Textul semnăturii:">
@@ -35,3 +51,4 @@
 <!ENTITY smtpName.label "Server de trimitere (SMTP):">
 <!ENTITY smtpName.accesskey "t">
 <!ENTITY smtpDefaultServer.label "Folosește serverul implicit">
+

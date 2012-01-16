@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# rz <rz@r2dev.ro>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY settings.caption "Setări">
 <!ENTITY security.caption "Securitate și autentificare">
 <!ENTITY serverName.label "Nume server:">
@@ -6,12 +19,8 @@
 <!ENTITY serverDescription.accesskey "D">
 <!ENTITY serverPort.label "Port:">
 <!ENTITY serverPort.accesskey "P">
-<!ENTITY alwaysUseUsername.label "Folosește nume și parolă">
-<!ENTITY alwaysUseUsername.accesskey "F">
 <!ENTITY userName.label "Nume utilizator:">
 <!ENTITY userName.accesskey "u">
-<!ENTITY useSecAuth.label "Folosește autentificare securizată">
-<!ENTITY useSecAuth.accesskey "i">
 <!ENTITY connectionSecurity.label "Securitatea conexiunii:">
 <!ENTITY connectionSecurity.accesskey "n">
 <!ENTITY connectionSecurityType-0.label "Niciuna">
@@ -20,3 +29,6 @@
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "Server SMTP">
 <!ENTITY serverPortDefault.label "Implicit:">
+<!ENTITY authMethod.label "Metoda de autentificare:">
+<!ENTITY authMethod.accesskey "i">
+

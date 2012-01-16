@@ -1,3 +1,9 @@
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!--LOCALIZATION NOTE askSendFormat.dtd UI for dialog that asks the user, which format to use for sending a message -->
 <!ENTITY windowTitle.label "Mesaj HTML">
 
@@ -14,3 +20,4 @@
 
 <!ENTITY send.label "Trimite">
 <!ENTITY send.accesskey "T">
+

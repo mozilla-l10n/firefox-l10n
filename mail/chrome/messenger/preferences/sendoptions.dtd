@@ -1,3 +1,19 @@
+<!--
+# Translator(s):
+#
+# nicubunu <nicubunu@gmail.com>
+# evinteler <emil_vinteler2000@yahoo.com>
+# Alexandru Szasz <alexxed@gmail.com>
+# Laudatti <Laudatti@gmail.com>
+# janimo <jani@ubuntu.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY dialog.title                 "Opțiuni de trimitere">
 <!ENTITY sendMail.title               "Formatare text">
 <!ENTITY sendMaildesc.label           "Când trimiteți mesaje în format HTML și unul sau mai mulți destinatari nu sunt marcați ca fiind capabili să accepte HTML:">
@@ -29,3 +45,4 @@
 <!ENTITY add.htmldomain               "Nume de domeniu HTML:">
 <!ENTITY add.plaintexttitle           "Adaugă nume de domeniu pentru text simplu">
 <!ENTITY add.plaintextdomain          "Nume de domeniu pentru text simplu:">
+

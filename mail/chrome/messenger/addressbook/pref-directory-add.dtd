@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# xdaiana <xdaiana@yahoo.com>
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
 
@@ -77,3 +90,4 @@
      to vary somewhat with the language.
 -->
 <!ENTITY newDirectoryWidth                 "38em">
+

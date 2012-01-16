@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# Laudatti <Laudatti@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
 
@@ -44,7 +57,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 "&brandShortName;" below.
 -->
 
-<!ENTITY importDialog.windowTitle "Import">
+<!ENTITY importDialog.windowTitle "Importă">
 <!ENTITY importAll.label          "Importă totul">
 <!ENTITY importAll.accesskey      "I">
 <!ENTITY importMail.label         "Corespondență">
@@ -78,10 +91,3 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY title.label              "Titlu">
 <!ENTITY processing.label         "Import…">
 
-<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x are o singură adresă poștală pentru fiecare fișă, în timp ce &brandShortName; are două (Acasă și Serviciu).">
-<!ENTITY FieldDiscInputText2.label  "Alegeți categoria în care doriți să memorați adresele poștale importate:">
-<!ENTITY FieldDiscWarning.label  "Această categorie va fi folosită pentru toate intrările din agenda de contacte selectată:">
-<!ENTITY importHome.label        "Pagina de start">
-<!ENTITY importHome.accesskey    "P">
-<!ENTITY importWork.label        "Lucru">
-<!ENTITY importWork.accesskey    "L">

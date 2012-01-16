@@ -1,9 +1,23 @@
+<!--
+# Translator(s):
+#
+# rsandu <razvan.sandu@zando.ro>
+# janimo <jani@ubuntu.com>
+# turcan <nicturcan@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- extracted from content/pref-composer.xul -->
 
 <!--LOCALIZATION NOTE : FILE 'Composer' prefs dialog. Similar to Communcator 4.x Document Properties/Colors and Background -->
 
 <!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
-<!ENTITY  pref.composer.title           "Editor">
+<!ENTITY  pref.composer.title           "Composer">
 <!ENTITY  recentFiles.title             "Meniu pagini recente">
 <!ENTITY  documentsInMenu.label         "Număr maxim de pagini afișate:">
 <!ENTITY  documentsInMenu.accesskey     "p">
@@ -23,3 +37,4 @@
 <!ENTITY  useCSS.accesskey              "F">
 <!ENTITY  crInPCreatesNewP.label        "Tasta Enter într-un paragraf creează întotdeauna un nou paragraf">
 <!ENTITY  crInPCreatesNewP.accesskey    "r">
+

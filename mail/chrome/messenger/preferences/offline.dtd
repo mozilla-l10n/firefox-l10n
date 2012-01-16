@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# nicubunu <nicubunu@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY offlineDialog.title "Setări pentru lucrul offline">
 
 <!ENTITY textStartUp "La pornire:">
@@ -22,3 +35,4 @@
 <!ENTITY radioNotDownload.accesskey "N">
 <!ENTITY radioAskDownload.label "Întreabă-mă">
 <!ENTITY radioAskDownload.accesskey "a">
+

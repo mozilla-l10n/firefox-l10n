@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# rz <rz@r2dev.ro>
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -45,9 +58,12 @@
 <!ENTITY folderCharsetTab.accesskey              "e">
 <!ENTITY folderCharsetOverride.label             "Aplică această codare implicit tuturor mesajelor din dosar (se vor ignora setările din mesaje precum și detecția automată)">
 <!ENTITY folderCharsetOverride.accesskey         "A">
-<!ENTITY folderRebuildSummaryFile.label          "Reconstruiește indexul">
-<!ENTITY folderRebuildSummaryFile.accesskey      "R">
-<!ENTITY folderRebuildSummaryFileTip.label       "Reconstruiește fișierul sumar"> 
+<!ENTITY folderRebuildSummaryFileTip2.label      "Reconstruiește indecșii fișierului de sumar">
+<!ENTITY folderRebuildSummaryFile2.label         "Repară dosarul">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "R">
+<!ENTITY folderRebuildSummaryFile.explanation    "Uneori fișierul index de dosar (.msf) se deteriorează și aparent lipsesc mesaje sau apar mesaje care au fost șterse; aceste probleme pot fi rezolvate prin repararea dosarului.">
+<!ENTITY folderIncludeInGlobalSearch.label       "Include mesajele din acest dosar în rezultatele căutării globale">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "g">
      
 <!ENTITY retention.label "Politica de păstrare">
 <!ENTITY retentionUseAccount.label  "Folosește setările contului meu">
@@ -69,8 +85,8 @@
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
 <!ENTITY folderSynchronizationTab.label          "Sincronizare">
-<!ENTITY folderCheckForNewMessages.label         "Verifică dacă sunt mesaje noi în acest dosar">
-<!ENTITY folderCheckForNewMessages.accesskey     "V">
+<!ENTITY folderCheckForNewMessages2.label         "La descărcarea mesajelor pentru acest cont, verifică întotdeauna dosarul acesta">
+<!ENTITY folderCheckForNewMessages2.accesskey     "c">
 
 <!ENTITY offlineFolder.check.label               "Selectează acest dosar pentru utilizare în mod deconectat">
 <!ENTITY offlineFolder.check.accesskey           "S">
@@ -97,3 +113,4 @@
 <!ENTITY folderQuotaRoot.label                   "Rădăcină cotă:">
 <!ENTITY folderQuotaUsage.label                  "Utilizare:">
 <!ENTITY folderQuotaStatus.label                 "Stare:">
+
