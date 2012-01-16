@@ -191,7 +191,6 @@ can reach it easily. -->
 <!ENTITY webConsoleCmd.accesskey      "W">
 <!ENTITY webConsoleCmd.commandkey     "k">
 
-<!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectMenu.label            "Untersuchen">
 <!ENTITY inspectMenu.accesskey        "U">
 <!ENTITY inspectMenu.commandkey       "I">
@@ -214,9 +213,12 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-
-<!ENTITY inspectButton.label          "Untersuchen">
-<!ENTITY inspectButton.accesskey      "U">
+<!ENTITY inspectPanelTitle.label      	"HTML">
+<!ENTITY inspectButton.label          	"Untersuchen">
+<!ENTITY inspectButton.accesskey      	"U">
+<!ENTITY inspectCloseButton.tooltiptext "Inspektor schließen">
+<!ENTITY inspectStyleButton.label     	"Style">
+<!ENTITY inspectStyleButton.accesskey 	"S">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Weitere Tools laden">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "W">
