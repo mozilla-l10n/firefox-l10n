@@ -548,3 +548,22 @@ just addresses the organization to follow, e.g. "ଏହି ସାଇଟଟି �
 <!ENTITY inspectContextMenu.label     "ଉପାଦାନକୁ ନିରୀକ୍ଷଣ କରନ୍ତୁ">
 <!ENTITY inspectContextMenu.accesskey "Q">
 <!ENTITY searchFocus.commandkey2      "e">
+
+<!ENTITY domFullScreenWarning.label "ସମ୍ପୂର୍ଣ୍ଣ ପରଦା ଧାରାରୁ ପ୍ରସ୍ଥାନ କରିବା ପାଇଁ ESC କୁ ଦବାନ୍ତୁ">
+<!ENTITY inspectCloseButton.tooltiptext "ନିରୀକ୍ଷକକୁ ବନ୍ଦ କରନ୍ତୁ">
+
+<!ENTITY inspectStyleButton.label     "ଶୈଳୀ">
+
+<!ENTITY inspectStyleButton.accesskey "S">
+ <!ENTITY videoHideStats.label        "ପରିସଂଖ୍ୟାନକୁ ଲୁଚାନ୍ତୁ">
+
+<!ENTITY videoHideStats.accesskey    "t">
+
+<!ENTITY videoSaveImage.label        "ଆଶୁଚିତ୍ରକୁ ଏହି ପରି ଭାବରେ ସଂରକ୍ଷଣ କରନ୍ତୁ…">
+
+<!ENTITY videoSaveImage.accesskey    "S">
+
+<!ENTITY videoShowStats.label        "ପରିସଂଖ୍ୟାନ ଦର୍ଶାନ୍ତୁ">
+
+<!ENTITY videoShowStats.accesskey    "t">
+
