@@ -13,3 +13,8 @@
   -  quickly jump to the documentation from the Mozilla Developer Network site.
   -  This is the link title shown in the hover tooltip. -->
 <!ENTITY helpLinkTitle         "Dokumentation dieser Eigenschaft lesen">
+
+<!-- LOCALIZATION NOTE (noPropertiesFound): In the case where there are no CSS
+  -  properties to display e.g. due to search criteria this message is
+  -  displayed. -->
+<!ENTITY noPropertiesFound     "Keine CSS-Eigenschaften gefunden.">
