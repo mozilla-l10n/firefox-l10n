@@ -1,7 +1,7 @@
 <!ENTITY window.width                                   "30em">
 
 <!ENTITY languages.customize.Header                     "Léngoe">
-<!ENTITY languages.customize.prefLangDescript           "Spésse vòtte e pàgine web an ciù de 'na léngoa. Scegli e léngoe in órdine de preferensa.">
+<!ENTITY languages.customize.prefLangDescript           "Spésse vòtte e pàgine web an ciù de 'na léngoa. Scegli e léngoe in órdine de preferénsa.">
 <!ENTITY languages.customize.active.label               "léngoe in órdine de preferénsa:">
 <!ENTITY languages.customize.moveUp.label               "Mescia in sciù">
 <!ENTITY languages.customize.moveUp.accesskey           "M">

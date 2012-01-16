@@ -98,7 +98,7 @@
 <!ENTITY cmd.showPreferencesUnix.tooltip      "Cangia e preferense de sto conponénte azónto">
 <!ENTITY cmd.contribute.label                 "Agiùtta">
 <!ENTITY cmd.contribute.accesskey             "A">
-<!ENTITY cmd.contribute.tooltip               "Agiùtta a svilùpâ sto conponénte azónto">
+<!ENTITY cmd.contribute.tooltip               "Agiùtta a svilupâ sto conponénte azónto">
 
 <!ENTITY cmd.showReleaseNotes.label           "Fànni védde e anotaçioìn da distribuçión">
 <!ENTITY cmd.showReleaseNotes.tooltip         "Fànni védde e anotaçioìn da distribuçión de sto agiornaménto">
@@ -118,11 +118,11 @@
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Versción">
 <!ENTITY detail.lastupdated.label             "Agiornòu">
-<!ENTITY detail.creator.label                 "Svilopatô">
+<!ENTITY detail.creator.label                 "Svilupatô">
 <!ENTITY detail.homepage.label                "Pagina Iniçiâ">
 <!ENTITY detail.numberOfDownloads.label       "Descaregamenti">
 
-<!ENTITY detail.contributions.description     "O svilopatô de sto conponénte azónto te domanda se t'eu contriboî con quàrche palànca.">
+<!ENTITY detail.contributions.description     "O svilupatô de sto conponénte azónto te domanda se t'eu contriboî con quàrche palànca.">
 
 <!ENTITY detail.updateType                    "Agiornaménti aotomàtici">
 <!ENTITY detail.updateDefault.label           "Predefinîo">

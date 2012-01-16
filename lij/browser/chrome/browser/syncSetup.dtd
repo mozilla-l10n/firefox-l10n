@@ -91,10 +91,10 @@
 <!ENTITY engine.addons.label        "Conponénti azónti">
 <!ENTITY engine.addons.accesskey    "a">
 
-<!ENTITY choice2.merge.main.label      "Unisci i dæti de sto computer con i mæ dæti de &syncBrand.shortName.label;">
+<!ENTITY choice2.merge.main.label      "Unisci i dæti de sto computer co-i mæ dæti de &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Racomandòu:">
-<!ENTITY choice2.client.main.label     "Rinpiassa tùtti i dæti de sto computer con i mæ dæti de &syncBrand.shortName.label;">
-<!ENTITY choice2.server.main.label     "Rimpiassa tùtte i âtri device co sti dæti">
+<!ENTITY choice2.client.main.label     "Rinpiassa tùtti i dæti de sto computer co-i mæ dæti de &syncBrand.shortName.label;">
+<!ENTITY choice2.server.main.label     "Rimpiassa tùtte i âtri device con sti dæti">
 
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Confèrma">

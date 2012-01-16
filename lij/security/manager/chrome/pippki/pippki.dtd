@@ -72,7 +72,7 @@
 <!ENTITY downloadCert.message1 "Te vegne domandòu de dâ a fidùccia a sta nêuva Aotoritæ di Certicâti (CA).">
 <!ENTITY downloadCert.trustSSL "Fiâte de sta CA pe identificâ i scîti web.">
 <!ENTITY downloadCert.trustEmail "Fiate de sta CA pe identificâ e email.">
-<!ENTITY downloadCert.trustObjSign "Dànni a fidùccia a sta CA a identificâ i svilupatô de aplicaçioìn.">
+<!ENTITY downloadCert.trustObjSign "Dànni a fidùccia a sta CA a identificâ i svilupatoî de aplicaçioìn.">
 <!ENTITY downloadCert.message3 "Prìmma de dâ a fidùccia a sta CA ti dovesci ezaminâ o seu certificâto, a seu politica e procedûe (se ghe son).">
 <!ENTITY downloadCert.viewCert.label "Fànni védde">
 <!ENTITY downloadCert.viewPolicy.label "Politica">
