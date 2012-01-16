@@ -7,7 +7,6 @@
   <Param name="field-keywords" value="{searchTerms}"/>
   <Param name="mode" value="blended"/>
   <Param name="tag" value="firefox-uk-21"/>
-  <Param name="sourceid" value="Mozilla-search"/>
 </Url>
 <SearchForm>http://www.amazon.co.uk/</SearchForm>
 </SearchPlugin>
