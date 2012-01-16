@@ -53,9 +53,9 @@
 <!ENTITY viewBGImageCmd.accesskey     "z">
 <!ENTITY setWallpaperCmd.label        "Als Hintergrundbild setzen">
 <!ENTITY setWallpaperCmd.accesskey    "s">
-<!ENTITY bookmarkPageCmd.label        "Lesezeichen für diese Seite hinzufügen">
+<!ENTITY bookmarkPageCmd.label        "Lesezeichen für diese Seite hinzufügen…">
 <!ENTITY bookmarkPageCmd.accesskey    "z">
-<!ENTITY bookmarkLinkCmd.label        "Lesezeichen für diesen Link hinzufügen">
+<!ENTITY bookmarkLinkCmd.label        "Lesezeichen für diesen Link hinzufügen…">
 <!ENTITY bookmarkLinkCmd.accesskey    "c">
 <!ENTITY bookmarkFrameCmd.label       "Lesezeichen für diesen Frame hinzufügen">
 <!ENTITY bookmarkFrameCmd.accesskey   "z">
