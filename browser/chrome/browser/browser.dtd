@@ -418,20 +418,32 @@ can reach it easily. -->
 <!ENTITY thisFrameMenu.accesskey          "F">
 
 <!-- Media (video/audio) controls -->
+<!-- LOCALIZATION NOTE: The access keys for "Play" and 
+"Pause" are the same because the two context-menu 
+items are mutually exclusive. -->
 <!ENTITY mediaPlay.label             "Abspielen">
 <!ENTITY mediaPlay.accesskey         "A">
 <!ENTITY mediaPause.label            "Anhalten">
 <!ENTITY mediaPause.accesskey        "A">
+<!-- LOCALIZATION NOTE: The access keys for "Mute" and
+"Unmute" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Ton aus">
 <!ENTITY mediaMute.accesskey         "T">
 <!ENTITY mediaUnmute.label           "Ton an">
 <!ENTITY mediaUnmute.accesskey       "T">
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "Steuerung anzeigen">
 <!ENTITY mediaShowControls.accesskey "S">
 <!ENTITY mediaHideControls.label     "Steuerung ausblenden">
 <!ENTITY mediaHideControls.accesskey "S">
 <!ENTITY videoFullScreen.label       "Vollbild">
 <!ENTITY videoFullScreen.accesskey   "V">
+<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
+"Hide Statistics" are the same because the two context-menu
+items are mutually exclusive. -->
 
 
 <!-- LOCALIZATION NOTE :
