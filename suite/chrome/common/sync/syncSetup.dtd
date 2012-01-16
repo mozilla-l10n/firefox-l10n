@@ -44,8 +44,7 @@
 <!ENTITY setup.newRecoveryKeyPage.description.label "A tökéletes adatvédelem érdekében minden adata titkosítva lesz feltöltés előtt. Az adatok visszafejtéséhez szükséges helyreállítókulcs nem lesz feltöltve.">
 <!ENTITY recoveryKeyEntry.label        "Helyreállítókulcs">
 <!ENTITY recoveryKeyEntry.accesskey    "H">
-<!ENTITY recoveryKeyGenerate.label  "Új kulcs létrehozása">
-<!ENTITY recoveryKeyGenerate.accesskey  "l">
+<!ENTITY recoveryGenerateNewKey.label  "Új kulcs létrehozása">
 <!ENTITY recoveryKeyBackup.description "A helyreállítókulcs kelleni fog, ha más gépekről akarja elérni a &syncBrand.fullName.label; szolgáltatást. Készítsen biztonsági másolatot. Nem tudunk segíteni, ha elveszti a helyreállítókulcsát,">
 
 <!ENTITY button.syncKeyBackup.print.label     "Nyomtatás...">
