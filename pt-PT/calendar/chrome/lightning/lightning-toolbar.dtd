@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+ï»¿<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -48,8 +48,8 @@
 <!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.mail.label      "Correio">
 <!ENTITY lightning.toolbar.mail.accesskey     "o">
-<!ENTITY lightning.toolbar.calendar.label  "Calendário">
-<!ENTITY lightning.toolbar.calendar.tooltip   "Muda para o separador do calendário">
+<!ENTITY lightning.toolbar.calendar.label  "CalendÃ¡rio">
+<!ENTITY lightning.toolbar.calendar.tooltip   "Muda para o separador do calendÃ¡rio">
 <!ENTITY lightning.toolbar.calendar.accesskey "C">
 <!ENTITY lightning.toolbar.task.label      "Tarefas">
 <!ENTITY lightning.toolbar.task.tooltip       "Muda para o separador de tarefas">
@@ -66,5 +66,5 @@
 <!ENTITY lightning.toolbar.week.accesskey            "S">
 <!ENTITY lightning.toolbar.multiweek.label           "Multi-semana">
 <!ENTITY lightning.toolbar.multiweek.accesskey       "u">
-<!ENTITY lightning.toolbar.month.label               "Mês">
+<!ENTITY lightning.toolbar.month.label               "MÃªs">
 <!ENTITY lightning.toolbar.month.accesskey           "M">
