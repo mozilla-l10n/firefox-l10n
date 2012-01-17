@@ -33,7 +33,7 @@
 <!ENTITY action.enable.heading       "Sti conponénti azónti saiân abilitæ:">
 
 <!ENTITY update.heading              "Agiórno i teu conponénti azónti">
-<!ENTITY update.progress.label       "Descarego e installo i agiornaménti di conponénti azónti seleçionæ.">
+<!ENTITY update.progress.label       "Descàrego e instàllo i agiornaménti di conponénti azónti seleçionæ.">
 
 <!ENTITY errors.heading              "&brandShortName; o no peu instalâ quàrchedun di teu conponénti azónti.">
 <!ENTITY errors.description          "L'instalaçión di quàrche agiornaménto pe i teu conponénti azónti a l'é faliâ. O &brandShortName; o proviâ a agiórnâ in aotomàtico dòppo.">

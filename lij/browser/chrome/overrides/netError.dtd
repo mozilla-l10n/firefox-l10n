@@ -39,7 +39,7 @@
 <!ENTITY notCached.title "Docùmento scæito">
 <!ENTITY notCached.longDesc "<p>O docùmento domandòu o no l'é disponibile inta cache de &brandShortName;.</p><ul><li>Cómme mezûa de seguéssa, o &brandShortName; no te domanda tórna docùmenti sensibili in aotomàtico.</li><li>Sciàcca prêuva ancón pe domandâ tórna o docùmento ao scîto.</li></ul>">
 
-<!ENTITY netOffline.title "Mòddo fêua linia">
+<!ENTITY netOffline.title "Mòddo fêua lìnia">
 <!ENTITY netOffline.longDesc2 "<ul>
  <li>Sciàcca &quot;Prêuva ancón&quot; pe pasâ a-o mòddo in linea e caregâ tórna a pàgina.</li>
 </ul>  

@@ -90,7 +90,7 @@
 <!ENTITY cmd.disableTheme.accesskey           "L">
 <!ENTITY cmd.installAddon.label               "Instàlla">
 <!ENTITY cmd.installAddon.accesskey           "I">
-<!ENTITY cmd.uninstallAddon.label             "Elimina">
+<!ENTITY cmd.uninstallAddon.label             "Elìmina">
 <!ENTITY cmd.uninstallAddon.accesskey         "E">
 <!ENTITY cmd.showPreferencesWin.label         "Inpostaçioìn">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Cangia e preferençe de sto conponénte azónto">
@@ -120,7 +120,7 @@
 <!ENTITY detail.lastupdated.label             "Agiornòu">
 <!ENTITY detail.creator.label                 "Svilupatô">
 <!ENTITY detail.homepage.label                "Pagina Iniçiâ">
-<!ENTITY detail.numberOfDownloads.label       "Descaregamenti">
+<!ENTITY detail.numberOfDownloads.label       "Descaregaménti">
 
 <!ENTITY detail.contributions.description     "O svilupatô de sto conponénte azónto te domanda se t'eu contriboî con quàrche palànca.">
 
@@ -197,7 +197,7 @@
 <!ENTITY addon.checkingForUpdates.label       "Çèrco i agiornaménti…">
 <!ENTITY addon.releaseNotes.label             "Anotaçioìn da distribuçión:">
 <!ENTITY addon.loadingReleaseNotes.label      "Caregando...">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Me despiâxe, gh'é stæto 'n erô a caregâ e anotaçioìn da distribuçión.">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Sorry, but there was an error loading the release notes.">
 
 <!ENTITY addon.createdBy.label                "Da ">
 

@@ -22,15 +22,15 @@
 <!ENTITY password.manage                 "Gestisci e paròlle segrétte">
 
 <!ENTITY cookie.label                    "Inpòsta cookie">
-<!ENTITY cookie.remove                   "Leva da mêzo cookie">
+<!ENTITY cookie.remove                   "Lêva da mêzo cookie">
 <!ENTITY cookie.manage                   "Gestisci i cookie">
-<!ENTITY cookie.removeAll                "Leva da mêzo tùtti i cookie">
+<!ENTITY cookie.removeAll                "Lêva da mêzo tùtti i cookie">
 
 <!ENTITY geo.label                       "Condivìddi Indirìsso">
 
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
-<!ENTITY indexedDB.label                 "Tegni o sarvataggio fêua linia">
+<!ENTITY indexedDB.label                 "Tégni o sarvatàggio fêua lìnia">
 
 <!ENTITY popup.label                     "Àrvi barcón de pop-up">
 

@@ -38,7 +38,7 @@
 <!ENTITY errorConsole.title "Console di Eroî">
 
 <!ENTITY errFile.label   "File Sorgénte:">
-<!ENTITY errLine.label   "Linia:">
+<!ENTITY errLine.label   "Lìnia:">
 <!ENTITY errColumn.label "Colònna:">
 
 <!ENTITY all.label          "Tùtto">

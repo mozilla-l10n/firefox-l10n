@@ -68,7 +68,7 @@
 <!ENTITY pref.security.general.manageCert.label "Gestìsci i Certificâti">
 
 <!-- Downloading a cert -->
-<!ENTITY downloadCert.title "Descarego o certificâto">
+<!ENTITY downloadCert.title "Descàrego o certificâto">
 <!ENTITY downloadCert.message1 "Te vegne domandòu de dâ a fidùccia a sta nêuva Aotoritæ di Certicâti (CA).">
 <!ENTITY downloadCert.trustSSL "Fiâte de sta CA pe identificâ i scîti web.">
 <!ENTITY downloadCert.trustEmail "Fiate de sta CA pe identificâ e email.">

@@ -25,18 +25,18 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.openWith.accesskey           "c">
 <!ENTITY cmd.retry.label                  "Repiggia">
 <!ENTITY cmd.retry.accesskey              "R">
-<!ENTITY cmd.goToDownloadPage.label       "Vanni a-a pagina de descaregaménto">
+<!ENTITY cmd.goToDownloadPage.label       "Vànni a-a pàgina de descaregaménto">
 <!ENTITY cmd.goToDownloadPage.accesskey   "g">
-<!ENTITY cmd.copyDownloadLink.label       "Còpia o colegamento do descaregaménto">
+<!ENTITY cmd.copyDownloadLink.label       "Còpia o colegaménto do descaregaménto">
 <!ENTITY cmd.copyDownloadLink.accesskey   "c">
-<!ENTITY cmd.removeFromList.label         "Leva da Lìsta">
+<!ENTITY cmd.removeFromList.label         "Lêva da Lìsta">
 <!ENTITY cmd.removeFromList.accesskey     "e">
 
 <!ENTITY cmd.close.commandKey             "w">
 <!ENTITY cmd.close2.commandKey            "j">
 <!ENTITY cmd.close2Unix.commandKey        "y">
 <!ENTITY cmd.clearList.label              "Scancella Lìsta">
-<!ENTITY cmd.clearList.tooltip            "Leva da mêzo tùtti i descaregaménti da-a lìsta">
+<!ENTITY cmd.clearList.tooltip            "Lêva da mêzo tùtti i descaregaménti da-a lìsta">
 <!ENTITY cmd.clearList.accesskey          "c">
 <!ENTITY cmd.find.commandKey              "f">
 <!ENTITY cmd.search.commandKey            "k">

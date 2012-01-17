@@ -3,7 +3,7 @@
 
 <!ENTITY pluginWizard.checkingForPlugins.description.label   "O &brandShortName; o contròlla se ghe son de plugin…">
 
-<!ENTITY pluginWizard.availablePluginsPage.title             "Descarigaménti di Plugin">
+<!ENTITY pluginWizard.availablePluginsPage.title             "Descaregaménti di Plugin">
 <!ENTITY pluginWizard.availablePluginsPage.description.label "Ghe son sti plugin:">
 <!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Prémmi Pròscimo pe instalâ sti plugin.">
 <!ENTITY pluginWizard.availablePluginsPage.installerUI       "A quàrche plugin peu servî de informaçioìn in ciù inta instalaçión.">

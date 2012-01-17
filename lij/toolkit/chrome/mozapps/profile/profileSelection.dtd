@@ -57,7 +57,7 @@
 <!-- manager entities -->
 <!ENTITY            pmDescription.label    "O &brandShortName; o sarva informançioìn de teu preferense e inpostançioìn into teu profî.">
 
-<!ENTITY            offlineState.label    "Loua fêua linia">
+<!ENTITY            offlineState.label    "Loua fêua lìnia">
 <!ENTITY            offlineState.accesskey "o">
 
 <!ENTITY            autoSelect.label       "No domandâmelo a l'avertûa">

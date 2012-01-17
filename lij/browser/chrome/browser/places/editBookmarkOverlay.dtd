@@ -17,7 +17,7 @@
 <!ENTITY editBookmarkOverlay.keyword.label                   "Paròlle ciâve:">
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "P">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Fànni védde tùtte e etichétte">
-<!ENTITY editBookmarkOverlay.loadInSidebar.label             "Carega sto segnalìbbro in sciâ bâra de sciànco">
+<!ENTITY editBookmarkOverlay.loadInSidebar.label             "Càrega sto segnalìbbro in sciâ bâra de sciànco">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "C">
 <!ENTITY editBookmarkOverlay.choose.label                    "Scegli…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "Nêuva cartélla">

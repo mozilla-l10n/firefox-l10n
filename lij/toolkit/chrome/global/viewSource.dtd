@@ -38,7 +38,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY textReset.commandkey "0">
 <!ENTITY textReset.commandkey2 "">
 
-<!ENTITY goToLineCmd.label "Vanni a-a linia…">
+<!ENTITY goToLineCmd.label "Vànni a-a lìnia…">
 <!ENTITY goToLineCmd.accesskey "V">
 <!ENTITY goToLineCmd.commandkey "l">
 
@@ -47,7 +47,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY reloadCmd.label "Recarega">
 <!ENTITY reloadCmd.accesskey "R">
 <!ENTITY reloadCmd.commandkey "r">
-<!ENTITY menu_wrapLongLines.title "Vanni acapo quande gh'é son e linie lónghe"> 
+<!ENTITY menu_wrapLongLines.title "Vànni acâpo quànde gh'é son e lìnie lónghe"> 
 <!ENTITY menu_wrapLongLines.accesskey "V">
 <!ENTITY menu_highlightSyntax.label "Evidençia a scintassi">
 <!ENTITY menu_highlightSyntax.accesskey "E">

@@ -99,7 +99,7 @@
 <!ENTITY  permInstall           "Instàlla estenscioìn ò têmi">
 <!ENTITY  permGeo               "Condivìddi Indirìsso">
 
-<!ENTITY  permIndexedDB              "Tegni o sarvataggio fêua linia">
+<!ENTITY  permIndexedDB              "Tégni o sarvatàggio fêua lìnia">
 <!ENTITY  permClearStorage           "Scancella o sarvataggio">
 <!ENTITY  permClearStorage.accesskey "c">
 

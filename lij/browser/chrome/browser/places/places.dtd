@@ -4,7 +4,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Òrganizza">
 <!ENTITY organize.accesskey    "Ò">
-<!ENTITY organize.tooltip      "Òrganizza i teu segnalìbbri">
+<!ENTITY organize.tooltip      "Òrganìzza i teu segnalìbbri">
 
 <!ENTITY file.close.label               "Særa">
 <!ENTITY file.close.accesskey           "S">
@@ -73,7 +73,7 @@
 <!ENTITY cmd.new_separator.label           "Nêuvo separatô">
 <!ENTITY cmd.new_separator.accesskey       "s">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Recarega segnalìbbro dò-u vîvo">
+<!ENTITY cmd.reloadLivebookmark.label      "Recàrega segnalìbbro dò-u vîvo">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "R">
 
 <!ENTITY cmd.moveBookmarks.label                  "Mescia…">

@@ -24,9 +24,9 @@ used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-<!ENTITY  pinAppTab.label                    "Marca cómme féuggio App ">
+<!ENTITY  pinAppTab.label                    "Màrca cómme féuggio App">
 <!ENTITY  pinAppTab.accesskey                "p">
-<!ENTITY  unpinAppTab.label                  "Smarca féuggio">
+<!ENTITY  unpinAppTab.label                  "Smàrca féuggio">
 <!ENTITY  unpinAppTab.accesskey              "S">
 <!ENTITY  moveToGroup.label                  "Méscia into Mùggio">
 <!ENTITY  moveToGroup.accesskey              "M">
@@ -58,7 +58,7 @@ can reach it easily. -->
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY goOfflineCmd.label "Lòua fêua linia">
+<!ENTITY goOfflineCmd.label "Lòua fêua lìnia">
 <!ENTITY goOfflineCmd.accesskey "L">
 
 <!ENTITY menubarCmd.label "Bâra do Menû">
@@ -172,7 +172,7 @@ can reach it easily. -->
 <!ENTITY search.label                 "Riçèrca in sciô web">
 <!ENTITY search.accesskey             "s">
 <!ENTITY downloads.label              "Descaregaménti">
-<!ENTITY downloads.tooltip            "Fanni védde l'avansaménto di descaregaménti">
+<!ENTITY downloads.tooltip            "Fànni védde l'avansaménto di descaregaménti">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -303,7 +303,7 @@ can reach it easily. -->
 <!ENTITY appMenuEdit.label "Càngia">
 <!ENTITY appMenuCustomize.label "Personalizza">
 <!ENTITY appMenuToolbarLayout.label "Aparénsa da bâra…">
-<!ENTITY appMenuSidebars.label "Bâre de sciànco">
+<!ENTITY appMenuSidebars.label "Sidebars">
 <!ENTITY appMenuFind.label "Trêuva…">
 <!ENTITY appMenuUnsorted.label "Âtri segnalìbbri">
 <!ENTITY appMenuWebDeveloper.label "Svilupatô Web">
@@ -384,7 +384,7 @@ can reach it easily. -->
 <!ENTITY setDesktopBackgroundCmd.accesskey  "s">
 <!ENTITY bookmarkPageCmd2.label       "Azónzi quésta pagina a-i segnalìbbri">
 <!ENTITY bookmarkPageCmd2.accesskey   "A">
-<!ENTITY bookmarkThisLinkCmd.label      "Azónzi quésto colegamento a-i segnalìbbri">
+<!ENTITY bookmarkThisLinkCmd.label      "Azónzi quésto colegaménto a-i segnalìbbri">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Azónzi sto riquàddro a-i segnalìbbri">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "A">

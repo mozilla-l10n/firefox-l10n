@@ -3,9 +3,9 @@
 
 <!ENTITY treehead.sitename.label      "Scîto">
 <!ENTITY treehead.status.label        "Stato">
-<!ENTITY removepermission.label       "Elimina scîto">
+<!ENTITY removepermission.label       "Elìmina scîto">
 <!ENTITY removepermission.accesskey   "E">
-<!ENTITY removeallpermissions.label   "Elimina tùtti i scîti">
+<!ENTITY removeallpermissions.label   "Elìmina tùtti i scîti">
 <!ENTITY removeallpermissions.accesskey "E">
 <!ENTITY address.label                "Indirìsso do scîto:">
 <!ENTITY address.accesskey            "d">

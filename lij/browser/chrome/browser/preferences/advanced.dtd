@@ -43,7 +43,7 @@
 
 <!ENTITY httpCache.label                 "Contegnûo Web inta cache">
 
-<!ENTITY offlineStorage2.label           "Contegnûo Web e dæti ùtente fêua linia">
+<!ENTITY offlineStorage2.label           "Contegnûo web e dæti ùtente fêua lìnia">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -84,16 +84,16 @@
 <!ENTITY enableSearchUpdate.label        "Motô de riçèrca">
 <!ENTITY enableSearchUpdate.accesskey    "M">
 
-<!ENTITY offlineNotify.label             "Dìmme quàndo un scîto o domanda de sarvâ dæti pe êse uzæ fêua linia">
+<!ENTITY offlineNotify.label             "Dìmme quàndo un scîto o domanda de sarvâ dæti pe êse uzæ fêua lìnia">
 <!ENTITY offlineNotify.accesskey         "t">
 <!ENTITY offlineNotifyExceptions.label   "Eceçioìn…">
 <!ENTITY offlineNotifyExceptions.accesskey "E">
 
-<!ENTITY offlineAppsList2.label          "Sti scîti chi pêuan sarvâ dæti pe l'ûzo fêua linia:">
+<!ENTITY offlineAppsList2.label          "Sti scîti chi pêuan sarvâ dæti pe l'ûzo fêua lìnia:">
 <!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Leva da mêzo…">
+<!ENTITY offlineAppsListRemove.label     "Lêva da mêzo…">
 <!ENTITY offlineAppsListRemove.accesskey "L">
-<!ENTITY offlineAppRemove.confirm        "Leva da mêzo i dæti fêua linia">
+<!ENTITY offlineAppRemove.confirm        "Lêva da mêzo i dæti fêua lìnia">
 
 <!ENTITY encryptionTab.label             "Criptaçión">
 

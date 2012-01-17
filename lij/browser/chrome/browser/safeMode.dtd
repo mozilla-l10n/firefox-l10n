@@ -48,7 +48,7 @@
 <!ENTITY resetToolbars.label          "Reinpòsta bâre e contròlli">
 <!ENTITY resetToolbars.accesskey      "R">
 
-<!ENTITY deleteBookmarks.label        "Scancélla tùtti i segnalìbbri ma esclùddi quelli che stan inte còpie di seguéssa">
+<!ENTITY deleteBookmarks.label        "Scancélla tùtti i segnalìbbri ma esclùddi quélli che stan inte còpie di seguéssa">
 <!ENTITY deleteBookmarks.accesskey    "b">
 
 <!ENTITY resetUserPrefs.label         "Reinpòsta tùtte e preferense a-o predefinîo de &brandShortName;">

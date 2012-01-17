@@ -3,10 +3,10 @@
 <!ENTITY     cookiesonsystem.label          "Sti cookie son sarvæ in sciô teu computer:">
 <!ENTITY     cookiename.label               "Nómme do cookie">
 <!ENTITY     cookiedomain.label             "Scîto"> 
-<!ENTITY     button.removecookies.label     "Leva da mêzo cookie">
-<!ENTITY     button.removecookie.label      "Leva da mêzo o cookie">
+<!ENTITY     button.removecookies.label     "Lêva da mêzo cookie">
+<!ENTITY     button.removecookie.label      "Lêva da mêzo o cookie">
 <!ENTITY     button.removecookie.accesskey  "L">
-<!ENTITY     button.removeallcookies.label  "Leva da mêzo tùtti i cookie">
+<!ENTITY     button.removeallcookies.label  "Lêva da mêzo tùtti i cookie">
 <!ENTITY     button.removeallcookies.accesskey "a">
 
 <!ENTITY     props.name.label               "Nómme:">

@@ -43,10 +43,10 @@
 
 <!ENTITY  incompatibleList.title          "Trovæ conponénti azónti no conpatibili">
 
-<!ENTITY  downloadPage.title              "Descarego &brandShortName;">
-<!ENTITY  downloading.intro               "Descarega o agiórnamento…">
+<!ENTITY  downloadPage.title              "Descàrego &brandShortName;">
+<!ENTITY  downloading.intro               "Descàrego l'agiórnamento…">
 <!ENTITY  connecting.label                "Me conétto a-o server di agiornaménti…">
-<!ENTITY  verificationFailedText.label    "&brandShortName; no l'é riêscio a verificâ o agiórnamento che vegne aomentòu ciàn cianìn, coscì òua descarega quello conplêto.">
+<!ENTITY  verificationFailedText.label    "&brandShortName; o no l'é riêscio a verificâ l'agiórnamento che vegne aomentòu ciàn cianìn, coscì òua descarega quéllo conplêto.">
 
 <!ENTITY  viewDetails.tooltip             "Fànni védde i detàli pe sto agiornaménto">
 
@@ -57,8 +57,8 @@
 <!ENTITY  error.label                     "Gh'é stæto un problêma a descaregâ ò instalâ sto 
                                            agiornaménto. &brandShortName; no peu êse agiornòu perché:">
                                            
-<!ENTITY  errorManual.label               "Ti ti peu agiornâ &brandShortName; a màn vixitando sto colegamento
-                                           e descaregando l'ùrtima versción:">
+<!ENTITY  errorManual.label               "Ti ti peu agiornâ &brandShortName; a màn vixitàndo sto colegaménto
+                                           e descaregàndo l'ùrtima versción:">
                                            
 <!ENTITY  errorpatching.intro             "L'agiornaménto parçiale o no va bén. 
                                            O &brandShortName; o proviâ ancón a descaregâ l'agiornaménto conplêto.">
