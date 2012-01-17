@@ -17,7 +17,7 @@
 <!ENTITY myRecoveryKey.label          "Mein Wiederherstellungs-Schlüssel">
 <!ENTITY resetSync2.label             "Sync zurücksetzen…">
 
-<!ENTITY addDevice.label              "Gerät hinzufügen">
+<!ENTITY pairDevice.label             "Gerät verbinden">
 
 <!ENTITY syncMy.label               "Synchronisieren:">
 <!ENTITY engine.bookmarks.label     "Lesezeichen">
