@@ -24,6 +24,10 @@
 <!ENTITY openFileCmd.commandkey       "o">
 
 <!ENTITY saveFileCmd.label            "ସଂରକ୍ଷଣ କରନ୍ତୁ">
+<!ENTITY resetContext2.label          "ପ୍ରାଚଳଗୁଡ଼ିକୁ ପୁଣି ସେଟ କରନ୍ତୁ">
+
+<!ENTITY resetContext2.accesskey      "T">
+
 <!ENTITY saveFileCmd.accesskey        "S">
 <!ENTITY saveFileCmd.commandkey       "s">
 
@@ -98,21 +102,20 @@
 <!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
-<!ENTITY resetContext.label           "ପୁନଃସ୍ଥାପନ କରନ୍ତୁ">
-<!ENTITY resetContext.accesskey       "R">
+
+
 
 <!ENTITY executeMenu.label            "ନିଷ୍ପାଦନ କରନ୍ତୁ">
 <!ENTITY executeMenu.accesskey        "X">
 
-<!ENTITY toolsMenu.label              "ସାଧନଗୁଡ଼ିକ">
-<!ENTITY toolsMenu.accesskey          "T">
 
-<!ENTITY errorConsoleCmd.label        "ତ୍ରୁଟି କନସୋଲ">
-<!ENTITY errorConsoleCmd.accesskey    "C">
+
+
+
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY webConsoleCmd.label          "ୱେବ କନସୋଲ">
-<!ENTITY webConsoleCmd.accesskey      "W">
+
+
 <!ENTITY webConsoleCmd.commandkey     "k">
 
 <!-- LOCALIZATION NOTE (textbox.placeholder1): This is some placeholder text
