@@ -68,3 +68,11 @@
 <!-- Edit menu items -->
 <!ENTITY publishSettings.label "Rregullime Botimi Site-i…">
 <!ENTITY publishSettings.accesskey "g">
+
+<!-- Toolbar buttons/items -->
+<!ENTITY newToolbarCmd.label "I ri">
+<!ENTITY newToolbarCmd.tooltip "Krijoni një faqe të re Hartuesi">
+<!ENTITY openToolbarCmd.label "Hape">
+<!ENTITY openToolbarCmd.tooltip "Hapni një kartelë vendore">
+<!ENTITY saveToolbarCmd.tooltip "Ruajeni kartelën në një vend në kompjuter">
+<!ENTITY publishToolbarCmd.tooltip "Ngarkojeni kartelën në një vend të largët">

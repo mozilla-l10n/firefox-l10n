@@ -1,3 +1,12 @@
+saveToolbarCmd.tooltip
+
+
+
+
+
+
+
+
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
 <!-- File menu items -->
@@ -281,16 +290,9 @@
 <!ENTITY tableProperties.label "Veti Tabele…">
 <!ENTITY tableProperties.accesskey "v">
 
-
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Shtyllë Menuje">
 <!ENTITY formatToolbar.tooltip "Panel Formatimesh">
-<!ENTITY newToolbarCmd.label "E re">
-<!ENTITY newToolbarCmd.tooltip "Krijoni një faqe të re Hartuesi">
-<!ENTITY openToolbarCmd.label "Hap">
-<!ENTITY openToolbarCmd.tooltip "Hapni një kartelë vendore">
-<!ENTITY saveToolbarCmd.tooltip "Ruajeni kartelën te një vendndodhje vendore">
-<!ENTITY publishToolbarCmd.tooltip "Ngarkoni kartelë te një vendndodhje e largët">
 <!ENTITY cutToolbarCmd.tooltip "Prijeni">
 <!ENTITY copyToolbarCmd.tooltip "Kopjojeni">
 <!ENTITY pasteToolbarCmd.tooltip "Ngjiteni">

@@ -5,16 +5,19 @@
 <!ENTITY SearchNameOrEmail.label            "Emër ose Email">
 
 <!ENTITY deleteAddrBookCard.label           "Fshije">
+<!ENTITY deleteAddrBookCard.accesskey       "F">
 <!ENTITY addrBookCardProperties.label       "Veti">
+<!ENTITY addrBookCardProperties.accesskey   "V">
 <!ENTITY addtoToFieldMenu.label             "Shtojeni te fusha Për">
+<!ENTITY addtoToFieldMenu.accesskey         "P">
 <!ENTITY addtoCcFieldMenu.label             "Shtojeni te fusha Cc">
+<!ENTITY addtoCcFieldMenu.accesskey         "C">
 <!ENTITY addtoBccFieldMenu.label            "Shtojeni te fusha Bcc">
+<!ENTITY addtoBccFieldMenu.accesskey        "B">
 
 <!ENTITY toButton.label                     "Shtoje te Për:">
 <!ENTITY toButton.accesskey                 "P">
 <!ENTITY ccButton.label                     "Shtoje te Cc:">
-<!ENTITY ccButton.accesskey                 "c">
+<!ENTITY ccButton.accesskey                 "C">
 <!ENTITY bccButton.label                    "Shtoje te Bcc:">
 <!ENTITY bccButton.accesskey                "B">
-
-
