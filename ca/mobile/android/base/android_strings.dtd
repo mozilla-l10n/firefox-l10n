@@ -27,9 +27,7 @@
 
 <!ENTITY awesomebar_default_text "Escriviu una cerca o una adreça">
 
-<!ENTITY bookmarks_title "Adreces d\'interès">
-<!ENTITY bookmark_add "Adreça d\'interès">
-<!ENTITY bookmark_remove "Suprimeix">
+<!ENTITY bookmark "Adreça d\'interès">
 <!ENTITY bookmark_added "S\'ha afegit l\'adreça d\'interès">
 <!ENTITY bookmark_removed "S\'ha suprimit l\'adreça d\'interès">
 
@@ -58,10 +56,10 @@
 <!ENTITY pref_clear_history_confirm "Es suprimirà l\'historial de navegació">
 <!ENTITY pref_clear_private_data "Suprimeix la informació privada">
 <!ENTITY pref_clear_private_data_confirm "Es suprimiran les opcions de navegació incloses les contrasenyes i les galetes.">
-<!ENTITY pref_enable_plugins "Habilita els connectors">
-<!ENTITY pref_enable_plugins_yes "Sí">
-<!ENTITY pref_enable_plugins_tap_to_play "Toca per reproduir">
-<!ENTITY pref_enable_plugins_no "No">
+<!ENTITY pref_plugins "Connectors">
+<!ENTITY pref_plugins_enabled "Habilitat">
+<!ENTITY pref_plugins_tap_to_play "Toqueu-ho per engegar">
+<!ENTITY pref_plugins_disabled "Inhabilitat">
 <!ENTITY pref_font_size "Mida de la lletra">
 <!ENTITY pref_font_size_small "Petita">
 <!ENTITY pref_font_size_medium "Mitjana">
@@ -72,6 +70,7 @@
 <!ENTITY quit "Surt">
 
 <!ENTITY addons "Complements">
+<!ENTITY downloads "Baixades">
 
 <!ENTITY share "Comparteix">
 <!ENTITY save_as_pdf "Desa com a PDF">
