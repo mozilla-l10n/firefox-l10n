@@ -60,6 +60,7 @@
 <!ENTITY share "Поделиться">
 <!ENTITY save_as_pdf "Сохранить как PDF">
 <!ENTITY contextmenu_open_new_tab "Открыть в новой вкладке">
+<!ENTITY contextmenu_remove_bookmark "Удалить">
 <!ENTITY contextmenu_add_to_launcher "Добавить на домашний экран">
 <!ENTITY contextmenu_share "Поделиться">
 <!ENTITY site_settings_title "Очистить настройки сайта">

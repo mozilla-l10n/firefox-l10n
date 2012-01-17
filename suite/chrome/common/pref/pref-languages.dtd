@@ -20,9 +20,3 @@
 <!ENTITY languages.customize.moveUp.accesskey "в">
 <!ENTITY languages.customize.moveDown.label "Вниз">
 <!ENTITY languages.customize.moveDown.accesskey "н">
-<!ENTITY spelling.label "Орфография">
-<!ENTITY checkSpelling.label "Проверять правописание при наборе текста в: ">
-<!ENTITY checkSpelling.accesskey "п">
-<!ENTITY dontCheckSpelling.label "Никогда">
-<!ENTITY multilineCheckSpelling.label "Многострочных формах">
-<!ENTITY alwaysCheckSpelling.label "Всех формах">
