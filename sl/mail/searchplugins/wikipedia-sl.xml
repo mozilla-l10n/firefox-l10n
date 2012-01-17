@@ -7,7 +7,6 @@
 <Param name="title" value="Special:Search"/>
 <Param name="search" value="{searchTerms}"/>
 <Param name="offset" value="0"/>
-<Param name="sourceid" value="mozilla-search"/>
 </Url>
 <SearchForm>http://sl.wikipedia.org/wiki/Posebno:Search</SearchForm>
 </SearchPlugin>
