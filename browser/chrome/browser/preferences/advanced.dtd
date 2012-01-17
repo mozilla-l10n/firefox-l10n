@@ -58,22 +58,25 @@
 
 <!ENTITY updateTab.label                 "Update">
 
-<!ENTITY autoCheck.label                 "Automatisch auf Updates überprüfen für:">
-<!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate2.label       "Add-ons">
-<!ENTITY enableAddonsUpdate2.accesskey   "o">
-<!ENTITY enableSearchUpdate.label        "Suchmaschinen">
-<!ENTITY enableSearchUpdate.accesskey    "S">
-<!ENTITY whenUpdatesFound.label          "Wenn Updates für &brandShortName; gefunden werden:">
-<!ENTITY askMe.label                     "Nachfragen, was getan werden soll">
-<!ENTITY askMe.accesskey                 "N">
-<!ENTITY modeAutomatic.label             "Das Update automatisch herunterladen und installieren">
-<!ENTITY modeAutomatic.accesskey         "A">
-<!ENTITY modeAutoAddonWarn.label         "Warnen, falls dadurch ein Add-on deaktiviert wird">
-<!ENTITY modeAutoAddonWarn.accesskey     "W">
+<!ENTITY updateApp.label                 "&brandShortName;-Updates:">
+<!ENTITY updateAuto.label                "Updates automatisch installieren (empfohlen: erhöhte Sicherheit)">
+<!ENTITY updateAuto.accesskey            "U">
+<!ENTITY updateCheck.label               "Nach Updates suchen, aber vor der Installation nachfragen">
+<!ENTITY updateCheck.accesskey           "N">
+<!ENTITY updateManual.label              "Nicht nach Updates suchen (nicht empfohlen: Sicherheitsrisiko)">
+<!ENTITY updateManual.accesskey          "s">
+
+<!ENTITY updateAutoAddonWarn.label       "Warnen, falls dadurch ein Add-on deaktiviert wird">
+<!ENTITY updateAutoAddonWarn.accesskey   "W">
+
 <!ENTITY updateHistory.label             "Update-Chronik anzeigen">
 <!ENTITY updateHistory.accesskey         "C">
+
+<!ENTITY updateOthers.label              "Automatisch aktualisieren:">
+<!ENTITY enableAddonsUpdate3.label       "Add-ons">
+<!ENTITY enableAddonsUpdate3.accesskey   "o">
+<!ENTITY enableSearchUpdate.label        "Suchmaschinen">
+<!ENTITY enableSearchUpdate.accesskey    "S">
 
 <!ENTITY offlineNotify.label             "Nachfragen, wenn Websites Daten für die Verwendung im Offline-Modus speichern möchten.">
 <!ENTITY offlineNotify.accesskey         "w">
