@@ -72,6 +72,9 @@
 <!ENTITY updateHistory.label             "Update-Chronik anzeigen">
 <!ENTITY updateHistory.accesskey         "C">
 
+<!ENTITY useService.label                "Einen Hintergrund-Service verwenden, um Updates zu installieren">
+<!ENTITY useService.accesskey            "H">
+
 <!ENTITY updateOthers.label              "Automatisch aktualisieren:">
 <!ENTITY enableAddonsUpdate3.label       "Add-ons">
 <!ENTITY enableAddonsUpdate3.accesskey   "o">
