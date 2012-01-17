@@ -35,4 +35,5 @@
 <!ENTITY policies.label "Политика защиты">
 <!ENTITY mousewheel.label "Колесико мыши">
 <!ENTITY scriptsAndWindows.label "Сценарии и плагины">
+<!ENTITY spellingPane.label "Орфография">
 <!ENTITY focusSearch.key "f">

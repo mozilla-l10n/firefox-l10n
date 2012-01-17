@@ -161,8 +161,8 @@
 <!ENTITY inspectButton.label "Исследовать">
 <!ENTITY inspectButton.accesskey "с">
 <!ENTITY inspectCloseButton.tooltiptext "Закрыть Инспектор">
-<!ENTITY inspect3DButton.label "3D">
-<!ENTITY inspect3DButton.accesskey "M">
+<!ENTITY inspect3DViewButton.label "3D вид">
+<!ENTITY inspect3DViewButton.accesskey "в">
 <!ENTITY inspectStyleButton.label "Стиль">
 <!ENTITY inspectStyleButton.accesskey "и">
 <!ENTITY styleeditor.label "Редактор стилей">
