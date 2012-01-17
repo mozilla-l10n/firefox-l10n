@@ -26,6 +26,7 @@
 <!ENTITY forwardTo.label "Përcillja Mesazhin">
 <!ENTITY replyWithTemplate.label "Përgjigju me Gjedhe">
 <!ENTITY markMessageRead.label "Shënoje Si Të lexuar">
+<!ENTITY markMessageUnread.label "Shënoje Si Të palexuar">
 <!ENTITY markMessageStarred.label "Shto Yllkë">
 <!ENTITY setPriority.label "Vërja Përparësinë">
 <!ENTITY addTag.label "Etiketoje Mesazhin Si">

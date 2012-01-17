@@ -57,6 +57,11 @@
 <!ENTITY popType.accesskey "P">
 <!ENTITY leaveMsgsOnSrvr.label "Lëri mesazhet në shërbyes">
 <!ENTITY leaveMsgsOnSrvr.accesskey "L">
+<!ENTITY portNum.label "Portë:">
+<!ENTITY portNum.accesskey "o">
+<!ENTITY defaultPortLabel.label "Parazgjedhje:">
+<!ENTITY defaultPortValue.label "">
+
 <!-- for when the user has an SMTP server pre-configured -->
 <!-- LOCALIZATION NOTE (currentSmtpBefore.label) : Do not translate "SMTP" and "&quot;" in
      this variable. Also, translate currentSmtpBefore.label and currentSmtpAfter.label as a single sentence,
