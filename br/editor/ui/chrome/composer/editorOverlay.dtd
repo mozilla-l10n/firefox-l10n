@@ -326,12 +326,6 @@
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Barrenn lañser">
 <!ENTITY formatToolbar.tooltip "Barrenn ostilhoù mentrezhañ">
-<!ENTITY newToolbarCmd.label "Nevez">
-<!ENTITY newToolbarCmd.tooltip "Sevel ur bajenn embanner nevez">
-<!ENTITY openToolbarCmd.label "Digeriñ">
-<!ENTITY openToolbarCmd.tooltip "Digeriñ ur restr lec'hel">
-<!ENTITY saveToolbarCmd.tooltip "Enrollañ ar restr en ul lec'hiadur lec'hel">
-<!ENTITY publishToolbarCmd.tooltip "Kargañ ar restr etrezek ul lec'hiadur arbell">
 <!ENTITY cutToolbarCmd.tooltip "Troc'hañ">
 <!ENTITY copyToolbarCmd.tooltip "Eilañ">
 <!ENTITY pasteToolbarCmd.tooltip "Pegañ">

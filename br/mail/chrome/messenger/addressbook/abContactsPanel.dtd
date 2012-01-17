@@ -5,10 +5,15 @@
 <!ENTITY SearchNameOrEmail.label            "Enderc'hel a ra an anv pe ar postel :">
 
 <!ENTITY deleteAddrBookCard.label           "Dilemel">
+<!ENTITY deleteAddrBookCard.accesskey       "D">
 <!ENTITY addrBookCardProperties.label       "Perzhioù">
+<!ENTITY addrBookCardProperties.accesskey   "P">
 <!ENTITY addtoToFieldMenu.label             "Ouzhpennañ d'ar vaezienn Da">
+<!ENTITY addtoToFieldMenu.accesskey         "a">
 <!ENTITY addtoCcFieldMenu.label             "Ouzhpennañ d'ar vaezienn Cc">
+<!ENTITY addtoCcFieldMenu.accesskey         "C">
 <!ENTITY addtoBccFieldMenu.label            "Ouzhpennañ d'ar vaezienn Bcc">
+<!ENTITY addtoBccFieldMenu.accesskey        "B">
 
 <!ENTITY toButton.label                     "Ouzhpennañ Da:">
 <!ENTITY toButton.accesskey                 "D">

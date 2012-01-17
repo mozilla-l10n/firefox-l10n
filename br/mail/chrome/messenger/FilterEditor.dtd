@@ -27,7 +27,8 @@
 <!ENTITY copyMessage.label "Eilañ ar gemennadenn e">
 <!ENTITY forwardTo.label "Kas ar gemennadenn en-dro da">
 <!ENTITY replyWithTemplate.label "Respont gant ur patrom">
-<!ENTITY markMessageRead.label "Merkañ evel lennet">
+<!ENTITY markMessageRead.label "Merkañ evel Lennet">
+<!ENTITY markMessageUnread.label "Merkañ evel Ket Lennet">
 <!ENTITY markMessageStarred.label "Ouzhpennañ ur steredenn">
 <!ENTITY setPriority.label "Lakaat tevet da">
 <!ENTITY addTag.label "Kemennadenn gant ur merk">

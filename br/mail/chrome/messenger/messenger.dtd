@@ -1,4 +1,3 @@
-<!ENTITY messengerWindow.title "Posteloù &amp; strolladoù-keleier">
 <!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
@@ -588,8 +587,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextMarkMailFolderRead.accesskey "t">
 <!ENTITY folderContextSubscribe.label "Koumanantiñ…">
 <!ENTITY folderContextSubscribe.accesskey "o">
-<!ENTITY folderContextSearchMessages.label "Klask er c'hemennadennoù…">
-<!ENTITY folderContextSearchMessages.accesskey "K">
+<!ENTITY folderContextSearchForMessages.label "Klask kemennadennoù…">
+<!ENTITY folderContextSearchForMessages.accesskey "K">
 <!ENTITY folderContextProperties.label "Perzhioù…">
 <!ENTITY folderContextProperties.accesskey "P">
 <!ENTITY folderContextFavoriteFolder.label "Teuliad gwell ganin">

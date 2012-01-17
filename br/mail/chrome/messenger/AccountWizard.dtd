@@ -56,6 +56,10 @@
 <!ENTITY popType.accesskey "P">
 <!ENTITY leaveMsgsOnSrvr.label "Leuskel ar c'hemennadennoù war an dafariad">
 <!ENTITY leaveMsgsOnSrvr.accesskey "L">
+<!ENTITY portNum.label "Porzh :">
+<!ENTITY portNum.accesskey "o">
+<!ENTITY defaultPortLabel.label "Diouer :">
+<!ENTITY defaultPortValue.label "">
 
 
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in

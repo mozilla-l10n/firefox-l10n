@@ -69,3 +69,11 @@
 <!ENTITY publishSettings.label "Arventennoù brudañ lec'hiennoù…">
 <!ENTITY publishSettings.accesskey "b">
 
+<!-- Toolbar buttons/items -->
+<!ENTITY newToolbarCmd.label "Nevez">
+<!ENTITY newToolbarCmd.tooltip "Sevel ur bajenn embanner nevez">
+<!ENTITY openToolbarCmd.label "Digeriñ">
+<!ENTITY openToolbarCmd.tooltip "Digeriñ ur restr lec'hel">
+<!ENTITY saveToolbarCmd.tooltip "Enrollañ ar restr en ul lec'hiadur lec'hel">
+<!ENTITY publishToolbarCmd.tooltip "Kargañ ar restr etrezek ul lec'hiadur a-bell">
+
