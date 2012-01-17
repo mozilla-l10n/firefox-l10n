@@ -56,10 +56,10 @@
 <!ENTITY pref_clear_history_confirm "將會刪除瀏覽紀錄">
 <!ENTITY pref_clear_private_data "清除隱私資訊">
 <!ENTITY pref_clear_private_data_confirm "將會刪除包含已存的密碼與 Cookie 等瀏覽設定">
-<!ENTITY pref_enable_plugins "啟用外掛程式">
-<!ENTITY pref_enable_plugins_yes "開">
-<!ENTITY pref_enable_plugins_tap_to_play "點一下播放">
-<!ENTITY pref_enable_plugins_no "關">
+<!ENTITY pref_plugins "外掛程式">
+<!ENTITY pref_plugins_enabled "啟用">
+<!ENTITY pref_plugins_tap_to_play "點一下播放">
+<!ENTITY pref_plugins_disabled "停用">
 <!ENTITY pref_font_size "文字大小">
 <!ENTITY pref_font_size_small "小">
 <!ENTITY pref_font_size_medium "中">
