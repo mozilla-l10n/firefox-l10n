@@ -2,7 +2,7 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "Degemer mat, ma n'hoc'h eus ket graet gant &syncBrand.fullName.label; a-raok e vo ret deoc'h krouiñ ur gont nevez.">
+<!ENTITY setup.pickSetupType.description2 "Degemer mat ! Ma n'hoc'h eus ket graet gant &syncBrand.fullName.label; a-raok e vo ret deoc'h krouiñ ur gont nevez.">
 <!ENTITY button.createNewAccount.label "Krouiñ ur gont nevez">
 <!ENTITY button.haveAccount.label      "Ur gont am eus endeo">
 
@@ -88,6 +88,8 @@
 <!ENTITY engine.passwords.accesskey "G">
 <!ENTITY engine.prefs.label         "Gwellvezioù">
 <!ENTITY engine.prefs.accesskey     "G">
+<!ENTITY engine.addons.label        "Askouezhioù">
+<!ENTITY engine.addons.accesskey    "A">
 
 <!ENTITY choice2.merge.main.label      "Toueziañ roadennoù an urzhiataer-mañ gant ma roadennoù eus &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Erbedet :">

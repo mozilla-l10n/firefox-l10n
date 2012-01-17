@@ -43,9 +43,9 @@
 <!ENTITY aboutWarningButton.label "Evezhiek e vin, prometiñ a ran !">
 <!ENTITY aboutWarningCheckbox.label "Diskouez an evezh-mañ ar wech a zeu">
 
-<!ENTITY filterPrefs.label "Sil :">
-<!ENTITY filterPrefs.accesskey "i">
-<!ENTITY focusFilter.key "f">
+<!ENTITY searchPrefs.label "Klask :">
+<!ENTITY searchPrefs.accesskey "K">
+<!ENTITY focusSearch.key "r">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "Anv ar gwellvezioù">

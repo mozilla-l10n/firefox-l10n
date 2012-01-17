@@ -40,7 +40,9 @@
 <!ENTITY connectionSettings.label        "Arventennoù…">
 <!ENTITY connectionSettings.accesskey    "e">
 
-<!ENTITY offlineStorage.label            "Kadaviñ ezlinenn">
+<!ENTITY httpCache.label                 "Krubuilh an endalc'had Web">
+
+<!ENTITY offlineStorage2.label           "Endalc'had Web ezlinenn ha roadennoù an arveriad">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -53,6 +55,8 @@
 <!ENTITY limitCacheSizeAfter.label       "Me egor">
 <!ENTITY clearCacheNow.label             "Skarzhañ bremañ">
 <!ENTITY clearCacheNow.accesskey         "k">
+<!ENTITY clearOfflineAppCacheNow.label   "Skarzhañ bremañ">
+<!ENTITY clearOfflineAppCacheNow.accesskey "b">
 <!ENTITY overrideSmartCacheSize.label    "Tremen dreist ardeiñ emgefreek ar grubuilh">
 <!ENTITY overrideSmartCacheSize.accesskey "T">
 
@@ -76,8 +80,6 @@
 <!ENTITY useService.accesskey            "v">
 
 <!ENTITY updateOthers.label              "Hizivaat ent emgefreek :">
-<!ENTITY enableAddonsUpdate3.label       "Askouezhioù">
-<!ENTITY enableAddonsUpdate3.accesskey   "A">
 <!ENTITY enableSearchUpdate.label        "Kefluskerioù klask">
 <!ENTITY enableSearchUpdate.accesskey    "K">
 
@@ -86,7 +88,7 @@
 <!ENTITY offlineNotifyExceptions.label   "Nemedennoù…">
 <!ENTITY offlineNotifyExceptions.accesskey "m">
 
-<!ENTITY offlineAppsList.label           "Al lec'hiennoù-mañ o deus miret roadennoù evit un arver ezlinenn :">
+<!ENTITY offlineAppsList2.label          "Aotreet eo al lec'hiennoù da heul da gadaviñ roadennoù evit un arver ezlinenn :">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Dilemel…">
 <!ENTITY offlineAppsListRemove.accesskey "D">

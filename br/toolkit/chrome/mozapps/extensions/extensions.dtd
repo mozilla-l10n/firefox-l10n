@@ -1,5 +1,10 @@
 <!ENTITY addons.windowTitle                   "Ardoer an askouezhioù">
+
 <!ENTITY search.placeholder                   "Klask en holl askouezhioù">
+<!-- LOCALIZATION NOTE (search.commandKey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
+
 <!ENTITY loading.label                        "O kargañ…">
 <!ENTITY listEmpty.installed.label            "N'eus askouezh ebet eus ar rizh-mañ staliet">
 <!ENTITY listEmpty.availableUpdates.label     "Hizivadenn ebet kavet">
