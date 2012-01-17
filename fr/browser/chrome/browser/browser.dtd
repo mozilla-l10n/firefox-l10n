@@ -216,8 +216,13 @@ can reach it easily. -->
 <!ENTITY inspectButton.label            "Examiner">
 <!ENTITY inspectButton.accesskey        "E">
 <!ENTITY inspectCloseButton.tooltiptext "Fermer l'inspecteur">
-<!ENTITY inspect3DButton.label        "3D">
-<!ENTITY inspect3DButton.accesskey    "M">
+
+<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
+  -  alternate view for the Inspector, creating a 3D visualization of the
+  -  webpage. -->
+<!ENTITY inspect3DViewButton.label     "Vue 3D">
+<!ENTITY inspect3DViewButton.accesskey "V">
+
 <!ENTITY inspectStyleButton.label     "Style">
 <!ENTITY inspectStyleButton.accesskey "S">
 
