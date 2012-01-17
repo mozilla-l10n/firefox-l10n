@@ -1,0 +1,34 @@
+<!--
+# Translator(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
+
+<!ENTITY  splash_firstrun "התקנת &brandShortName;\u2026">
+
+<!ENTITY  no_space_to_start_error "אין מספיק מקום פנוי כדי להפעיל את &brandShortName;.">
+<!ENTITY  error_loading_file "אירעה שגיאה במהלך נסיון טעינת קבצים הדרושים להפעלת &brandShortName;">
+
+<!ENTITY  crash_reporter_title "מדווח הקריסות של &brandShortName;">
+<!ENTITY  crash_message "&brandShortName; קרס. הלשוניות שלך יופיעו ברשימה בעמוד ההתחלה של &brandShortName; לאחר הפעלה מחדש.">
+<!ENTITY  crash_help_message "בבקשה עזרו לנו לתקן בעיה זו!">
+<!ENTITY  crash_send_report_message "שליחת דיווח קריסה ל־Mozilla">
+<!ENTITY  crash_include_url "כלול כתובת הדף">
+<!ENTITY  crash_close_label "סגירה">
+<!ENTITY  crash_restart_label "הפעל מחדש את &brandShortName;">
+<!ENTITY  sending_crash_report "שולח דיווח קריסה\u2026">
+<!ENTITY  exit_label "יציאה">
+<!ENTITY  continue_label "המשך">
+
+<!ENTITY  launcher_shortcuts_title "ישומי רשת של &brandShortName;">
+<!ENTITY  launcher_shortcuts_empty "לא אותרו ישומי רשת">
+
+<!ENTITY choose_file "בחירת קובץ">
+

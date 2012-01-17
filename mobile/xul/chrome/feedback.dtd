@@ -1,0 +1,24 @@
+<!--
+# Translator(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
+<!ENTITY feedbackHeader2.label          "כלי משוב">
+
+<!ENTITY feedback.communicate.title     "יצירת קשר איתנו!">
+<!ENTITY feedback.feedback.title        "שליחת משוב">
+<!ENTITY feedback.feedback.good         "טוב">
+<!ENTITY feedback.feedback.bad          "רע">
+
+<!ENTITY feedback.tools.title           "כלים">
+<!ENTITY feedback.allowTelemetry.title  "שליחת נתוני ביצועים">
+<!ENTITY feedback.forceCompat.title     "כפיית תאימות תוספות">
+<!ENTITY feedback.errorConsole.title    "אפשור מסוף השגיאות">
+

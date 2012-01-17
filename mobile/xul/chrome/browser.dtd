@@ -1,0 +1,141 @@
+<!--
+# Translator(s):
+#
+# https://me.yahoo.com/tsahi_75 <tsahi_75@yahoo.com>
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+# dror3go <drortrigubof@gmail.com>
+# Yaron <sh.yaron@gmail.com>
+# hatul <amiadb@gmail.com>
+# bartselen <bartselen@gmail.com>
+# amire80 <amir.aharoni@mail.huji.ac.il>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
+<!ENTITY urlbar.emptytext      "הכנס חיפוש או כתובת">
+
+<!ENTITY back.label            "אחורה">
+<!ENTITY forward.label         "קדימה">
+<!ENTITY reload.label          "טען מחדש">
+<!ENTITY stop.label            "עצור">
+<!ENTITY go.label              "לך">
+<!ENTITY star.label            "כוכב">
+
+<!ENTITY showTabs.label        "הצגת לשוניות">
+<!ENTITY newtab.label          "לשונית חדשה">
+<!ENTITY closetab.label        "סגור לשונית">
+
+<!ENTITY cut.label             "גזור">
+<!ENTITY copy.label            "העתק">
+<!ENTITY copyAll.label         "העתקת הכל">
+<!ENTITY copylink.label        "העתק מיקום קישור">
+<!ENTITY paste.label           "הדבק">
+<!ENTITY pasteAndGo.label      "הדבק ועבור">
+<!ENTITY delete.label          "מחק">
+<!ENTITY selectAll.label       "בחר הכול">
+<!ENTITY noSuggestions.label   "(אין המלצות)">
+<!ENTITY addToDictionary.label "הוסף למילון">
+<!ENTITY inputMethod.label     "בחירת צורת קלט">
+
+<!ENTITY allPagesHeader.label      "כל העמודים">
+<!ENTITY bookmarksHeader.label     "סימניות">
+<!ENTITY historyHeader.label       "היסטוריה">
+<!ENTITY desktopHeader.label       "שולחן עבודה">
+
+<!ENTITY editBookmarkDialog.title  "עריכת סימניה">
+<!ENTITY editBookmarkDone.label    "סיום">
+<!ENTITY editBookmarkTags.label    "הוסף תגיות כאן">
+
+<!ENTITY selectHelper.done         "הסתיים">
+
+<!ENTITY addonsHeader.label        "תוספות">
+<!ENTITY addonsLocal.label         "התוספות שלך">
+<!ENTITY addonsUpdate.label        "עידכון">
+<!ENTITY addonsRepo.label          "קבל תוספות">
+<!ENTITY addonsRecommended.label   "מומלצים">
+<!ENTITY addonsSearch.label        "חיפוש">
+<!ENTITY addonsSearch2.emptytext   "חיפוש בקטלוג">
+<!ENTITY addonsSearch.recommended  "המלצות">
+
+<!ENTITY addonOptions.label        "אפשרויות">
+<!ENTITY addonEnable.label         "הפעל">
+<!ENTITY addonDisable.label        "נטרל">
+<!ENTITY addonInstall2.label       "הוסף אל &brandShortName;">
+<!ENTITY addonUninstall.label      "הסרה">
+<!ENTITY addonCancel.label         "ביטול">
+<!ENTITY addonShowPage.label       "עבור לדף">
+
+<!ENTITY downloadsHeader.label     "הורדות">
+<!ENTITY downloadShowPage.label    "עבור לדף">
+<!ENTITY downloadShow2.label       "מצא">
+<!ENTITY downloadOpen2.label       "פתיחה">
+<!ENTITY downloadCancel.label      "ביטול">
+<!ENTITY downloadPause.label       "השהה">
+<!ENTITY downloadResume.label      "המשך">
+<!ENTITY downloadRetry.label       "נסה שוב">
+<!ENTITY downloadRemove.label      "הסר">
+<!ENTITY downloadDelete.label      "מחיקה">
+<!ENTITY downloadFailed.label      "נכשל">
+
+<!ENTITY noResults.label           "אין תוצאות">
+<!ENTITY allBookmarks.label        "הצג את כל הסימניות">
+
+<!ENTITY bookmarkPopup.label       "הדף הוסף לסימניות">
+<!ENTITY bookmarkRemove.label      "הסרה">
+<!ENTITY bookmarkEdit.label        "עריכה">
+<!ENTITY bookmarkShortcut.label    "הוספה למסך הבית">
+
+<!ENTITY identity.unverifiedsite2 "אתר זה לא מספק מידע זיהוי.">
+<!ENTITY identity.connectedTo2 "מחובר אל">
+<!-- Localization note (identity.runBy2)
+ The layout of the identity dialog prevents combining this into a single string with
+ substitution variables.  If it is difficult to translate the sense of the string
+ with that structure, consider a translation which ignores the preceding domain and
+ just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity.runBy2 "אתר זה מופעל על־ידי">
+
+<!ENTITY consoleHeader.label       "מסוף שגיאות">
+<!ENTITY consoleAll.label          "הכול">
+<!ENTITY consoleErrors.label       "שגיאות">
+<!ENTITY consoleWarnings.label     "הזהרות">
+<!ENTITY consoleMessages.label     "הודעות">
+<!ENTITY consoleCodeEval.label     "קוד:">
+<!ENTITY consoleClear.label        "מחיקה">
+<!ENTITY consoleEvaluate.label     "…">
+<!ENTITY consoleErrFile.label      "קובץ מקור:">
+<!ENTITY consoleErrLine.label      "שורה:">
+<!ENTITY consoleErrColumn.label    "עמודה:">
+
+<!ENTITY contextOpenInNewTab.label    "פתיחת קישור בלשונית חדשה">
+<!ENTITY contextSaveImage.label       "שמירת תמונה">
+<!ENTITY contextCopyLink.label        "העתקת קישור">
+<!ENTITY contextCopyEmail.label       "העתקת כתובת דוא״ל">
+<!ENTITY contextCopyPhone.label       "העתקת מספר טלפון">
+<!ENTITY contextCopyImageLocation.label       "העתקת מיקום תמונה">
+<!ENTITY contextShareLink.label       "שיתוף קישור">
+<!ENTITY contextShareImage.label      "שיתוף תמונה">
+<!ENTITY contextBookmarkLink.label    "קישור סימניה">
+<!ENTITY contextSaveVideo.label       "שמירת וידאו">
+<!ENTITY contextShareVideo.label      "שיתוף וידאו">
+<!ENTITY contextPlayMedia.label       "נגן">
+<!ENTITY contextPauseMedia.label      "השהיה">
+<!ENTITY contextFullScreen.label      "מסך מלא">
+<!ENTITY contextEditBookmark.label    "עריכה">
+<!ENTITY contextRemoveBookmark.label  "הסרה">
+<!ENTITY contextShortcutBookmark.label "הוספה למסך הבית">
+
+<!ENTITY pageactions.saveas.pdf      "שמירה בתור PDF">
+<!ENTITY pageactions.share.page      "שיתוף דף">
+<!ENTITY pageactions.password.forget "שכח סיסמה">
+<!ENTITY pageactions.quit            "יציאה">
+<!ENTITY pageactions.reset           "נקה העדפות לגבי אתר">
+<!ENTITY pageactions.findInPage      "חפש בדף זה">
+<!ENTITY pageactions.search.addNew   "הוספת מנוע חיפוש">
+<!ENTITY pageactions.charEncoding    "קידוד תווים">
+
+<!ENTITY appMenu.siteOptions         "אפשרויות אתר">
+
