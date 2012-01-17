@@ -1,4 +1,3 @@
-
 <!ENTITY  splash_firstrun "Rregullimi i &brandShortName;-ut\u2026">
 
 <!ENTITY  no_space_to_start_error "Nuk ka vend të mjaftueshëm për nisjen e &brandShortName;-ut.">
@@ -27,9 +26,6 @@
 
 <!ENTITY awesomebar_default_text "Jepni Term Kërkimi ose Adresë">
 
-<!ENTITY bookmarks_title "Faqerojtësa">
-<!ENTITY bookmark_add "Faqerojtës">
-<!ENTITY bookmark_remove "Hiqe">
 <!ENTITY bookmark_added "Faqerojtësi u shtua">
 <!ENTITY bookmark_removed "Faqerojtësi u hoq">
 
@@ -51,10 +47,6 @@
 <!ENTITY pref_about_firefox "Rreth &brandShortName;-ut">
 <!ENTITY pref_do_not_track "Thuaju site-ve të mos më gjurmojnë">
 <!ENTITY pref_telemetry "Dërgo të dhëna funksionimi">
-<!ENTITY pref_homepage "Faqe hyrëse">
-<!ENTITY pref_homepage_start "Nisje e Firefox-it">
-<!ENTITY pref_homepage_blank "Faqe bosh">
-<!ENTITY pref_homepage_current "Faqen e Tanishme">
 <!ENTITY pref_remember_signons "Mbaji mend fjalëkalimet">
 <!ENTITY pref_cookies "Aktivizoni cookies">
 <!ENTITY pref_char_encoding "Shfaq kodim shkronjash">
@@ -62,10 +54,6 @@
 <!ENTITY pref_clear_history_confirm "Historiku i shfletimit do të fshihet">
 <!ENTITY pref_clear_private_data "Pastro të dhëna vetjake">
 <!ENTITY pref_clear_private_data_confirm "Rregullimet për shfletimin, përfshi fjalëkalimet dhe cookie-t, do të fshihen">
-<!ENTITY pref_enable_plugins "Aktivizo shtojcat">
-<!ENTITY pref_enable_plugins_yes "Po">
-<!ENTITY pref_enable_plugins_tap_to_play "Prekeni që të luhet">
-<!ENTITY pref_enable_plugins_no "Jo">
 <!ENTITY pref_font_size "Madhësi shkronjash">
 <!ENTITY pref_font_size_small "Të vogla">
 <!ENTITY pref_font_size_medium "Të mesme">
