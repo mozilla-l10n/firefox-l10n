@@ -1,0 +1,40 @@
+<!--
+# Translator(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
+<!ENTITY sync.title                 "Sync">
+<!ENTITY sync.notconnected          "לא מחובר">
+<!ENTITY sync.connect               "התחברות">
+<!ENTITY sync.connected             "מחובר">
+<!ENTITY sync.details               "פרטים">
+<!ENTITY sync.deviceName            "התקן זה">
+<!ENTITY sync.disconnect            "התנתקות">
+<!ENTITY sync.syncNow               "סנכרן עכשיו">
+
+<!ENTITY sync.setup.title           "התחברות ל־Sync">
+<!ENTITY sync.setup.pair            "כדי להפעיל, בחר &#x0022;שייך התקן&#x0022; בהתקן האחר שלך.">
+<!ENTITY sync.fallback              "אני לא ליד המחשב שלי…">
+<!ENTITY sync.setup.manual          "נא להזין את פרטי חשבון Sync שלך">
+<!ENTITY sync.account               "שם חשבון">
+<!ENTITY sync.password              "ססמה">
+<!ENTITY sync.recoveryKey           "שחזור מפתח">
+<!ENTITY sync.customServer          "שימוש בשרת מותאם אישית">
+<!ENTITY sync.serverURL             "כתובת שרת">
+<!ENTITY sync.setup.connect         "התחברות">
+<!ENTITY sync.setup.cancel          "ביטול">
+<!ENTITY sync.setup.tutorial        "הראה לי כיצד">
+<!ENTITY sync.setup.waiting2        "ממתין להתקן אחר…">
+
+<!ENTITY sync.pair.title            "שיוך התקן">
+<!ENTITY sync.pair.description      "כדי להפעיל את ההתקן החדש שלך עליך לבחור ב־&#x0022;הגדרת Sync&#x0022; בהתקן.">
+<!ENTITY sync.setup.close           "סגירה">
+<!ENTITY sync.setup.waitingdownload "הנתונים שלך מתקבלים כעת ברקע. ניתן לסגור חלון זה בכל עת.">
+

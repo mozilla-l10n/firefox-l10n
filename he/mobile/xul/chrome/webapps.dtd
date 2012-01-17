@@ -1,0 +1,21 @@
+<!--
+# Translator(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
+<!ENTITY webapps.title.placeholder "נא להכניס כותרת">
+<!ENTITY webapps.permissions "אפשר גישה:">
+<!ENTITY webapps.perm.geolocation "גלישה מונחית מיקום">
+<!ENTITY webapps.perm.offline "אחסון נתונים לא־מקוון">
+<!ENTITY webapps.perm.notifications "התראות על שולחן העבודה">
+<!ENTITY webapps.perm.requestedHint "(התבקש)">
+<!ENTITY webapps.add-homescreen "הוספה למסך הבית">
+
+

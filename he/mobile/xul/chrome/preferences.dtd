@@ -1,0 +1,42 @@
+<!--
+# Translator(s):
+#
+# dror3go <drortrigubof@gmail.com>
+# amire80 <amir.aharoni@mail.huji.ac.il>
+# Yaron <sh.yaron@gmail.com>
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+# hatul <amiadb@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
+<!ENTITY prefsHeader.label                         "העדפות">
+<!ENTITY about.title                               "אודות &brandShortName;">
+<!ENTITY about.button                              "עבור לדף">
+<!ENTITY content.title                             "תוכן">
+<!ENTITY reflowZoom.title                          "לעצב את הטקסט מחדש בתקריב">
+<!ENTITY showImages.title                          "הצג תמונות">
+<!ENTITY enableJavaScript.title                    "אפשר JavaScript">
+<!ENTITY privacy.title                             "פרטיות ואבטחה">
+<!ENTITY allowCookies.title                        "אפשר עוגיות">
+<!ENTITY doNotTrack.title                          "אמור לאתרים כי אין ברצוני שיעקבו אחרי">
+<!ENTITY masterPassword.title                      "השתמש בססמה ראשית">
+<!ENTITY clearPrivateData2.title                   "מחק נתונים פרטיים">
+<!ENTITY clearPrivateData.button                   "מחיקה">
+<!ENTITY rememberPasswords.title                   "זכור ססמאות">
+<!ENTITY language.title                            "שפה">
+<!ENTITY language.auto                             "זיהוי אוטומטי">
+<!ENTITY defaultBrowser.title                      "דפדפן ברירת מחדל">
+<!ENTITY defaultBrowser.description                "הפוך את &brandShortName; לדפדפן ברירת המחדל שלך">
+<!ENTITY homepage.title                            "דף הפתיחה">
+<!ENTITY homepage.none                             "דף ריק">
+<!ENTITY homepage.default                          "עמוד הפתיחה של &brandShortName;">
+<!ENTITY homepage.currentpage                      "השתמש בדף הנוכחי">
+<!ENTITY showCharsetEncoding.title                 "הצג קידוד תווים">
+<!ENTITY actionbar.default                         "הגדרות &brandShortName;">
+
+
