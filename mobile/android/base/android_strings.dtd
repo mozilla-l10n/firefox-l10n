@@ -1,3 +1,10 @@
+<!ENTITY bookmark "Faqeruaje">
+<!ENTITY downloads "Shkarkime">
+<!ENTITY pref_plugins "Shtojca">
+<!ENTITY pref_plugins_enabled "Aktive">
+<!ENTITY pref_plugins_tap_to_play "Prekeni që të luhet">
+<!ENTITY pref_plugins_disabled "E çaktivizuar">
+
 <!ENTITY  splash_firstrun "Rregullimi i &brandShortName;-ut\u2026">
 
 <!ENTITY  no_space_to_start_error "Nuk ka vend të mjaftueshëm për nisjen e &brandShortName;-ut.">
