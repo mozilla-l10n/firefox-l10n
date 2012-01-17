@@ -303,7 +303,7 @@ can reach it easily. -->
 <!ENTITY appMenuEdit.label "Càngia">
 <!ENTITY appMenuCustomize.label "Personalizza">
 <!ENTITY appMenuToolbarLayout.label "Aparénsa da bâra…">
-<!ENTITY appMenuSidebars.label "Sidebars">
+<!ENTITY appMenuSidebars.label "Bâre de sciànco">
 <!ENTITY appMenuFind.label "Trêuva…">
 <!ENTITY appMenuUnsorted.label "Âtri segnalìbbri">
 <!ENTITY appMenuWebDeveloper.label "Svilupatô Web">
@@ -558,7 +558,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.unverifiedsite2 "Sto scîto o no l'à informaçioìn d'indentitæ.">
-<!ENTITY identity.connectedTo "Tì t'ê conesso a">
+<!ENTITY identity.connectedTo "Ti ê conésso a">
 <!-- Localization note (identity.runBy) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 

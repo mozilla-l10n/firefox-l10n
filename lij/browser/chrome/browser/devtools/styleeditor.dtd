@@ -31,7 +31,7 @@
 
 <!-- LOCALIZATION NOTE  (searchClearButton): This button clears the search input
      box and is visible only when a search term has been typed. -->
-<!ENTITY searchClearButton.label    "Clear">
+<!ENTITY searchClearButton.label    "Polìsci">
 
 <!ENTITY visibilityToggle.tooltip   "Invèrti a vizibilitæ do féuggio de stîle">
 <!ENTITY visibilityToggle.accesskey "V">

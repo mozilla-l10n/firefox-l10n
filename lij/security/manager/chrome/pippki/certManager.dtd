@@ -54,7 +54,7 @@
 
 <!ENTITY certmgr.detail.general_tab.title     "Generâle">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">
-<!ENTITY certmgr.detail.prettyprint_tab.title "Detàli">
+<!ENTITY certmgr.detail.prettyprint_tab.title "Detàlli">
 <!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
 
 <!ENTITY certmgr.pending.label                "Verifico o certificâto…">
@@ -62,7 +62,7 @@
 <!ENTITY certmgr.issuerinfo.label             "Publicòu da">
 <!ENTITY certmgr.validity.label               "Validitæ" >
 <!ENTITY certmgr.fingerprints.label           "Inprónte de dîe">
-<!ENTITY certmgr.certdetail.title             "Detàli do certificâto">
+<!ENTITY certmgr.certdetail.title             "Detàlli do certificâto">
 <!ENTITY certmgr.certdetail.cn                "Nómme Comûne (CN)">
 <!ENTITY certmgr.certdetail.o                 "Organizaçión (O)">
 <!ENTITY certmgr.certdetail.ou                "Unitæ de Organizaçion (OU)">

@@ -25,7 +25,7 @@
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights2.intro-point3a "Cómme niâtri doviemmo e teu informaçioìn e coménti che ti invîi a &vendorShortName; co-o &brandShortName; o l'é descritto inta ">
-<!ENTITY rights2.intro-point3b "&brandShortName; Privacy Policy">
+<!ENTITY rights2.intro-point3b "Politica da privacy de &brandShortName;">
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
@@ -55,10 +55,10 @@
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "Navegaçion segûa: ">
 <!ENTITY rights.safebrowsing-b "No l'é racòmandòu dizabilitâ a Navegaçión segûa perché ti ti peu finî in di scîti che no son seguî. Se ti veu dizabilitâ conpletaménte sta caràteristica ségoi sti pàssi:">
-<!ENTITY rights.safebrowsing-term1 "Open the application preferences">
-<!ENTITY rights.safebrowsing-term2 "Select the Security selection">
+<!ENTITY rights.safebrowsing-term1 "Àrvi e preferense da aplicaçión">
+<!ENTITY rights.safebrowsing-term2 "Seleçionn-a a seleçion de siguéssa">
 <!ENTITY rights.safebrowsing-term3 "Deseleçiónn-a &quot;&blockAttackSites.label;&quot; e &quot;&blockWebForgeries.label;&quot;">
-<!ENTITY rights.safebrowsing-term4 "Safe Browsing is now disabled">
+<!ENTITY rights.safebrowsing-term4 "A navegaçion segûa a l'é dizabilitâ">
 
 <!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-a "Navegaçión atênta a-i indirìssi: ">
@@ -67,7 +67,7 @@
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
 <!ENTITY rights.locationawarebrowsing-term2 "Scrîvi geo.enabled">
 <!ENTITY rights.locationawarebrowsing-term3 "Sciacca doì vòtte co-o ràtto in sce preferense de geo.enabled">
-<!ENTITY rights.locationawarebrowsing-term4 "Location-Aware Browsing is now disabled">
+<!ENTITY rights.locationawarebrowsing-term4 "A navegaçion atênta a-i indirìssi a l'é dizabilitâ">
 
 <!-- intro paragraph for unbranded builds -->
 <!ENTITY rights.webservices-unbranded "'Na vixón d'insémme di servìççi do scîto into prodûto, co-e istroçioìn in sce cómme dizabilitâli, se exìstan, saiàn chi.">
