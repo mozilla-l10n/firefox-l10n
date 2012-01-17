@@ -44,10 +44,10 @@
 <!ENTITY pref_clear_history_confirm "Журнал веб-сёрфинга будет удалён">
 <!ENTITY pref_clear_private_data "Очистить мои данные">
 <!ENTITY pref_clear_private_data_confirm "Настройки веб-сёрфинга, включая пароли и куки, будут удалены">
-<!ENTITY pref_enable_plugins "Включить плагины">
-<!ENTITY pref_enable_plugins_yes "Да">
-<!ENTITY pref_enable_plugins_tap_to_play "По нажатию">
-<!ENTITY pref_enable_plugins_no "Нет">
+<!ENTITY pref_plugins "Плагины">
+<!ENTITY pref_plugins_enabled "Включены">
+<!ENTITY pref_plugins_tap_to_play "По нажатию">
+<!ENTITY pref_plugins_disabled "Отключены">
 <!ENTITY pref_font_size "Размер шрифта">
 <!ENTITY pref_font_size_small "Маленький">
 <!ENTITY pref_font_size_medium "Средний">
