@@ -84,7 +84,7 @@
 
 <!-- Tools Menu -->
 <!ENTITY searchInternetCmd.label "Das Web durchsuchen">
-<!ENTITY searchInternetCmd.accesskey "S">
+<!ENTITY searchInternetCmd.accesskey "u">
 <!ENTITY searchInternet.commandKey "s">
 <!ENTITY translateMenu.label "Seite übersetzen">
 <!ENTITY translateMenu.accesskey "b">
