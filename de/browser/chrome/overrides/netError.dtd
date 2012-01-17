@@ -52,6 +52,9 @@
 <!ENTITY netInterrupt.title "Fehler: Datenübertragung unterbrochen">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!ENTITY notCached.title "Dokument erloschen">
+<!ENTITY notCached.longDesc "<p>Das angefragte Dokument ist nicht im Browser-Cache verfügbar.</p><ul><li>Als Sicherheitsmaßnahme fragt der Browser um vertrauliche Dokumente nicht automatisch erneut an.</li><li>Klicken Sie &quot;Nochmal versuchen&quot;, um das Dokument erneut von der Website anzufragen.</li></ul>">
+
 <!ENTITY netOffline.title "Fehler: Offline-Modus">
 <!ENTITY netOffline.longDesc2 "
 <ul>
