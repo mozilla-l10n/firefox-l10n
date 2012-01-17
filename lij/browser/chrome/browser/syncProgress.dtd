@@ -7,6 +7,6 @@
 <!ENTITY syncProgress.textBlurb    "I teu dæti saiàn criptæ e agiornæ in background. Ti peu serâ sto féuggio e continoâ a dêuviâ &brandShortName;.">
 <!ENTITY syncProgress.closeButton  "Særa">
 <!ENTITY syncProgress.logoAltText  "Logo de &brandShortName;">
-<!ENTITY syncProgress.diffText     "O &brandShortName; òua faiâ a sincronizaçión aotomàtica in background.  Ti peu serâ sto féuggio e continoâ a dêuviâ &brandShortName;.">
+<!ENTITY syncProgress.diffText     "O &brandShortName; òua faiâ a scincronizaçión aotomàtica in background.  Ti peu serâ sto féuggio e continoâ a dêuviâ &brandShortName;.">
 
 

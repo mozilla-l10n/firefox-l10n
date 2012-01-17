@@ -49,7 +49,7 @@
 <!ENTITY warnings.accesskey "A">
 <!ENTITY messages.label     "Notiçie">
 <!ENTITY messages.accesskey "N">
-<!ENTITY clear.label        "Polisci">
+<!ENTITY clear.label        "Clear">
 <!ENTITY clear.accesskey    "c">
 <!ENTITY codeEval.label     "Còdice:">
 <!ENTITY codeEval.accesskey "C">

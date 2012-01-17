@@ -16,7 +16,7 @@
 <!ENTITY  manualUpdate.title              "No riêscio a agiornâ">
 <!ENTITY  manualUpdate.desc               "Gh'é un agiornaménto racomandòu de seguéssa e stabilitæ, ma ti no ti gh'æ
                                            i permìssi de scistêma pe instalâ. Pe favô ciàmma
-                                           o teu aministratô de scistêma ò preuva ancón from con un âtro account che gh'à o permìsso de
+                                           o teu aministratô de scistêma ò prêuva ancón from co-in âtro account che gh'à o permìsso de
                                            instalâ aplicaçioìn in sto computer.">
 <!ENTITY  manualUpdate.space.desc         "Gh'é un agiornaménto racomandòu de seguéssa e stabilitæ,
                                            ma ti no ti gh'æ de spàçio pe instalâlo.">
@@ -75,7 +75,7 @@
                                            peu arvî tórna &brandShortName; òua ò ti peu continoâ a louâ e arvî tórna dòppo.">
 
 <!ENTITY  finishedBackgroundPage.text     "Un agiornaménto de seguéssa e stabilitæ pe &brandShortName; o l'é stæto
-                                           descaregòu e l'é pronto pe l'instalaçión.">
+                                           descaregòu e o l'é prónto pe l'instalaçión.">
 <!ENTITY  finishedBackground.name         "Agiornaménti:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "L'agiornaménto o saiâ instalòu a pròscima vòtta che ti lànsi o

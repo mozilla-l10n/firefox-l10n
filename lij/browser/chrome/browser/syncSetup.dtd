@@ -8,7 +8,7 @@
 
 <!ENTITY setup.choicePage.title.label     "T'æ za ûzòu &syncBrand.fullName.label; prìmma d'ancheu?">
 <!ENTITY setup.choicePage.new.label       "Mi no l'ò mâi uzòu o &syncBrand.shortName.label;">
-<!ENTITY setup.choicePage.existing.label  "Mi l'ûzo za o &syncBrand.shortName.label; ma in sciô 'n'âtro computer">
+<!ENTITY setup.choicePage.existing.label  "Mi o l'ûzo za o &syncBrand.shortName.label; ma in sciô 'n'âtro computer">
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Server">
@@ -105,6 +105,6 @@
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Instalaçión finîa">
-<!ENTITY changeOptions.label "Ti peu cangiâ ste inpostaçioìn chi sótta inte preferense de Sync.">
+<!ENTITY changeOptions.label "Ti peu cangiâ ste inpostaçioìn chi sótta inte preferénse de Sync.">
 <!ENTITY continueUsing.label "Fòscia ti peu continoâ co-o &brandShortName;.">
 

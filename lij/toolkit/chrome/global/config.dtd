@@ -39,7 +39,7 @@
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
 <!ENTITY aboutWarningTitle.label "Quésto o peu anulâ a teu garançia!">
-<!ENTITY aboutWarningText.label "Cangiâ ste inpostaçioìn avansæ peu êse péigoso pe-a stabilitæ, seguéssa e prestaçioìn de sta aplicaçión. Ti dovesci continoâ sôlo se ti sæ bén quello che ti fæ.">
+<!ENTITY aboutWarningText.label "Cangiâ ste inpostaçioìn avansæ peu êse péigoso pe-a stabilitæ, seguéssa e prestaçioìn de sta aplicaçión. Ti doviésci continoâ sôlo se ti sæ bén quéllo che ti fæ.">
 <!ENTITY aboutWarningButton.label "Saiö aténto, prométto!">
 <!ENTITY aboutWarningCheckbox.label "Fànni védde sto alàrme a pròscima vòtta">
 
