@@ -313,7 +313,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY nextUnreadThread.accesskey "T">
 <!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Vorherige">
-<!ENTITY prevMenu.accesskey "h">
+<!ENTITY prevMenu.accesskey "r">
 <!ENTITY prevMsgCmd.label "Nachricht">
 <!ENTITY prevMsgCmd.accesskey "n">
 <!ENTITY prevMsgCmd.key "b">
@@ -333,6 +333,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY thisFolder.label "Dieser Ordner">
 <!ENTITY thisFolder.accesskey "D">
 <!ENTITY goRecentlyClosedTabs.label "Kürzlich geschlossene Tabs">
+<!ENTITY goRecentlyClosedTabs.accesskey "K">
 <!ENTITY startPageCmd.label "Startseite">
 <!ENTITY startPageCmd.accesskey "S">
 
