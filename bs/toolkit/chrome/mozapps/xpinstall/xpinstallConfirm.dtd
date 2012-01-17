@@ -1,9 +1,0 @@
-<!-- extracted from institems.xul -->
-
-<!ENTITY dialog.title            "Instalacija softvera">
-<!ENTITY dialog.style            "width: 45em">
-<!ENTITY warningPrimary.label    "Instalirajte add-one samo od autora kojima vjerujete.">
-<!ENTITY warningSecondary.label  "Zlonamjerni softver može oštetiti vaš računar ili narušiti vašu privatnost.">
-
-<!ENTITY from.label "od:">
-

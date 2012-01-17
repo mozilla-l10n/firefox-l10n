@@ -40,7 +40,9 @@
 <!ENTITY connectionSettings.label        "Postavke…">
 <!ENTITY connectionSettings.accesskey    "e">
 
-<!ENTITY offlineStorage.label            "Offline pohrana">
+<!ENTITY httpCache.label                 "Keširani Web sadržaj">
+
+<!ENTITY offlineStorage2.label           "Offline Web sadržaj i korisnički podaci">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -51,8 +53,10 @@
 <!ENTITY limitCacheSizeBefore.label      "Ograniči cache na">
 <!ENTITY limitCacheSizeBefore.accesskey  "O">
 <!ENTITY limitCacheSizeAfter.label       "MB prostora">
-<!ENTITY clearCacheNow.label             "Odmah očisti">
+<!ENTITY clearCacheNow.label             "Očisti odmah">
 <!ENTITY clearCacheNow.accesskey         "O">
+<!ENTITY clearOfflineAppCacheNow.label   "Očisti odmah">
+<!ENTITY clearOfflineAppCacheNow.accesskey "N">
 <!ENTITY overrideSmartCacheSize.label    "Preskoči automatsko upravljanje cacheom">
 <!ENTITY overrideSmartCacheSize.accesskey "o">
 
@@ -79,15 +83,13 @@
 <!ENTITY useService.accesskey            "b">
 
 <!ENTITY updateOthers.label              "Automatski update-uj:">
-<!ENTITY enableAddonsUpdate3.label       "Add-oni">
-<!ENTITY enableAddonsUpdate3.accesskey   "o">
 
 <!ENTITY offlineNotify.label             "Obavijesti me kada web stranica zatraži dozvolu za pohranu podataka za offline upotrebu">
 <!ENTITY offlineNotify.accesskey         "t">
 <!ENTITY offlineNotifyExceptions.label   "Izuzeci…">
 <!ENTITY offlineNotifyExceptions.accesskey "I">
 
-<!ENTITY offlineAppsList.label           "Sljedeće web stranice su pohranile podatke za offline upotrebu:">
+<!ENTITY offlineAppsList2.label          "Sljedećim web stranicama je dozvoljeno da spremaju podatke za offline upotrebu:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Ukloni…">
 <!ENTITY offlineAppsListRemove.accesskey "U">

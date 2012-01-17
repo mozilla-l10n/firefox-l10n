@@ -43,9 +43,9 @@
 <!ENTITY aboutWarningButton.label "Bit ću oprezan, obećavam!">
 <!ENTITY aboutWarningCheckbox.label "Pokaži ovo upozorenje sljedeći put">
 
-<!ENTITY filterPrefs.label "Filter:">
-<!ENTITY filterPrefs.accesskey "F">
-<!ENTITY focusFilter.key "f">
+<!ENTITY searchPrefs.label "Traži:">
+<!ENTITY searchPrefs.accesskey "r">
+<!ENTITY focusSearch.key "r">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "Ime postavke">
