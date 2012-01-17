@@ -47,19 +47,15 @@
 
 <!ENTITY updateTab.label                 "ଅଦ୍ୟତନ କରନ୍ତୁ">
 
-<!ENTITY autoCheck.label                 "ଅଦ୍ୟତନ ପାଇଁ ସ୍ୱୟଂଯାଞ୍ଚ କରନ୍ତୁ:">
-<!ENTITY enableAppUpdate.label           "&brandShortName;କୁ">
-<!ENTITY enableAppUpdate.accesskey       "F">
+
+
 
 <!ENTITY enableSearchUpdate.label        "ଖୋଜା ଯନ୍ତ୍ର">
 <!ENTITY enableSearchUpdate.accesskey    "h">
-<!ENTITY whenUpdatesFound.label          "&brandShortName;ର ଅଦ୍ୟତନ ମିଳିଗଲାପରେ:">
-<!ENTITY askMe.label                     "ମୁଁ କଣ କରିବାକୁ ଚାହୁଁଛି ମୋତେ ପଚାରନ୍ତୁ">
-<!ENTITY askMe.accesskey                 "k">
-<!ENTITY modeAutomatic.label             "ସ୍ୱୟଂଚାଳିତ ଭାବେ ଅଦ୍ୟତନକୁ ଆହରଣ ଏବଂ ସ୍ଥାପନ କରନ୍ତୁ">
-<!ENTITY modeAutomatic.accesskey         "d">
-<!ENTITY modeAutoAddonWarn.label         "ଯଦି ଏହା ମୋର କୌଣସି ଏଡ-ଅନକୁ ନିଷ୍କ୍ରିୟ କରୁଛି ତାହାହେଲେ ମୋତେ ଚେତାବନୀ ଦିଅନ୍ତୁ">
-<!ENTITY modeAutoAddonWarn.accesskey     "W">
+
+
+
+
 <!ENTITY updateHistory.label             "ଅଦ୍ୟତନ ଇତିହାସ ଦର୍ଶାନ୍ତୁ">
 <!ENTITY updateHistory.accesskey         "p">
 
@@ -97,8 +93,8 @@
 <!ENTITY viewSecurityDevices.accesskey   "y">
 <!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY allowHWAccel.label              "ଉପଲବ୍ଧ ହେଲେ ହାର୍ଡୱେର ତ୍ୱରଣକୁ ବ୍ୟବହାର କରନ୍ତୁ">
-<!ENTITY enableAddonsUpdate2.label       "ଏଡ-ଅନଗୁଡ଼ିକ">
-<!ENTITY enableAddonsUpdate2.accesskey   "n">
+
+
 <!ENTITY limitCacheSizeBefore.label      "କ୍ୟାଶେକୁ ସିମୀତ କରିଥାଏ">
 <!ENTITY limitCacheSizeBefore.accesskey  "L">
 <!ENTITY limitCacheSizeAfter.label       "MB ସ୍ଥାନ">

@@ -37,7 +37,7 @@
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "ସର୍ଭିସ ନିୟମାବଳୀ">
 <!ENTITY prefs.ppLink.label         "ଗୋପନୀୟତା ନିତୀ">
-<!ENTITY addDevice.label              "ଗୋଟିଏ ଉପକରଣ ଯୋଗ କରନ୍ତୁ">
+<!ENTITY pairDevice.label             "ଏକ ଉପକରଣକୁ ଯୁଗଳ କରନ୍ତୁ">
 <!ENTITY changePassword2.label        "ପ୍ରବେଶ ସଂକେତକୁ ପରିବର୍ତ୍ତନ କରନ୍ତୁ…">
 <!ENTITY myRecoveryKey.label          "ମୋର ପୁନରୁଦ୍ଧାର କି">
 <!ENTITY resetSync2.label             "ସନ୍ତୁଳନକୁ ପୁନସ୍ଥାପନ କରନ୍ତୁ…">
