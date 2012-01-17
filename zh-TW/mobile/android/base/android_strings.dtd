@@ -76,6 +76,7 @@
 <!ENTITY save_as_pdf "儲存為 PDF">
 
 <!ENTITY contextmenu_open_new_tab "以新分頁開啟">
+<!ENTITY contextmenu_remove_bookmark "移除">
 <!ENTITY contextmenu_add_to_launcher "新增至裝置主畫面">
 <!ENTITY contextmenu_share "分享">
 
