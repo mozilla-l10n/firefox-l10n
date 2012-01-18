@@ -4,6 +4,6 @@
 <!ENTITY editorCheck.accesskey "c">
 
 <!ENTITY compose.label "Composer">
-<!ENTITY editing.label "New Page Settings">
-<!ENTITY toolbars.label "Toolbars">
-<!ENTITY publish.label "Publishing">
+<!ENTITY editing.label "Postavke nove stranice">
+<!ENTITY toolbars.label "Alatne trake">
+<!ENTITY publish.label "Objavljivanje">
