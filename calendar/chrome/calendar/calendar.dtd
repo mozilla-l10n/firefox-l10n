@@ -246,8 +246,6 @@
 <!ENTITY calendar.context.findcalendar.accesskey       "h" >
 <!ENTITY calendar.context.deleteserver.label           "Supprimer l'agenda">
 <!ENTITY calendar.context.deleteserver.accesskey       "S">
-<!ENTITY calendar.context.reloadserver.label           "Actualiser les agendas distants">
-<!ENTITY calendar.context.reloadserver.accesskey       "R">
 <!ENTITY calendar.context.synccalendars.label          "Synchroniser les agendas">
 <!ENTITY calendar.context.synccalendars.accesskey      "S">
 <!ENTITY calendar.context.publish.label                "Publier l'agenda…">
