@@ -79,18 +79,26 @@
 <!ENTITY viewMenu.accesskey                             "g">
 <!ENTITY viewToolbarsMenu.label                         "Alatne trake">
 <!ENTITY viewToolbarsMenu.accesskey                     "t"> 
+<!ENTITY menubarCmd.label                               "Traka izbornika">
+<!ENTITY menubarCmd.accesskey                           "k">
 <!ENTITY showAbToolbarCmd.label                         "Alatna traka adresara">
 <!ENTITY showAbToolbarCmd.accesskey                     "A">
 <!ENTITY showTaskbarCmd.label                           "Statusna traka">
 <!ENTITY showTaskbarCmd.accesskey                       "S">
 <!ENTITY customizeToolbar.label                         "Prilagodi…">
 <!ENTITY customizeToolbar.accesskey                     "P">
-<!ENTITY showContactPane.label                          "Okvir sažetka kontakta">
-<!ENTITY showContactPane.accesskey                      "O">
+<!ENTITY layoutMenu.label                               "Raspored">
+<!ENTITY layoutMenu.accesskey                           "R">
+<!ENTITY showDirectoryPane.label                        "Okno mapa">
+<!ENTITY showDirectoryPane.accesskey                    "m">
+<!ENTITY showContactPane2.label                         "Okno kontakta">
+<!ENTITY showContactPane2.accesskey                     "O">
 <!ENTITY menu_ShowNameAs.label                          "Prikaži ime kao">
 <!ENTITY menu_ShowNameAs.accesskey                      "P"> 
-<!ENTITY firstLastCmd.label                             "Ime, Prezime">
-<!ENTITY firstLastCmd.accesskey                         "I"> 
+<!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
+because displayed names don't have the comma in between. -->
+<!ENTITY firstLastCmd2.label                             "Ime Prezime">
+<!ENTITY firstLastCmd2.accesskey                         "I"> 
 <!ENTITY lastFirstCmd.label                             "Prezime, Ime">
 <!ENTITY lastFirstCmd.accesskey                         "P">
 <!ENTITY displayNameCmd.label                           "Ime za prikaz">
