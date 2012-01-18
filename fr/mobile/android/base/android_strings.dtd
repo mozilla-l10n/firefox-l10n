@@ -59,7 +59,8 @@
 <!ENTITY pref_plugins_enabled "Activé">
 <!ENTITY pref_plugins_tap_to_play "Toucher pour lancer la lecture">
 <!ENTITY pref_plugins_disabled "Désactivé">
-<!ENTITY pref_font_size "Taille de police">
+<!ENTITY pref_text_size "Taille du texte">
+<!ENTITY pref_font_size_tiny "Très petite">
 <!ENTITY pref_font_size_small "Petite">
 <!ENTITY pref_font_size_medium "Moyenne">
 <!ENTITY pref_font_size_large "Grande">
