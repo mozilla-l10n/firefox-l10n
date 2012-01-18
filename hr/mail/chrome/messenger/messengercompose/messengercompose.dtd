@@ -16,6 +16,7 @@
 <!ENTITY attachMenu.accesskey "P">
 <!ENTITY attachFileCmd.label "Datoteku(e)…">
 <!ENTITY attachFileCmd.accesskey "D">
+<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachPageCmd.label "Web stranicu…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -92,6 +93,8 @@
 <!ENTITY viewMenu.accesskey "z">
 <!ENTITY viewToolbarsMenuNew.label "Alatne trake"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "t"> 
+<!ENTITY menubarCmd.label "Traka izbornika">
+<!ENTITY menubarCmd.accesskey "k">
 <!ENTITY showCompositionToolbarCmd.label "Traka sastavljanja">
 <!ENTITY showCompositionToolbarCmd.accesskey "s">
 <!ENTITY showFormattingBarCmd.label "Traka oblikovanja">
