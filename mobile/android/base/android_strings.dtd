@@ -60,7 +60,8 @@
 <!ENTITY pref_plugins_enabled "Aktiverade">
 <!ENTITY pref_plugins_tap_to_play "Tryck för att visa">
 <!ENTITY pref_plugins_disabled "Inaktiverade">
-<!ENTITY pref_font_size "Textstorlek">
+<!ENTITY pref_text_size "Textstorlek">
+<!ENTITY pref_font_size_tiny "Pytteliten">
 <!ENTITY pref_font_size_small "Liten">
 <!ENTITY pref_font_size_medium "Normal">
 <!ENTITY pref_font_size_large "Stor">
