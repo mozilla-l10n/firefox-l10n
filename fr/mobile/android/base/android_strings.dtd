@@ -91,3 +91,10 @@
 
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Annuler">
+
+<!ENTITY abouthome_addons_title "Modules pour votre &brandShortName;">
+<!ENTITY abouthome_addons_browse "Parcourir tous les modules pour &brandShortName;">
+<!ENTITY abouthome_last_tabs_title "Vos derniers onglets ouverts">
+<!ENTITY abouthome_last_tabs_open "Ouvrir tous les onglets">
+<!ENTITY abouthome_top_sites_title "Sites favoris">
+<!ENTITY abouthome_top_sites_browse "Parcourir tous vos sites favoris">
