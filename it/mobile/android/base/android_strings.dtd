@@ -44,11 +44,12 @@
 <!ENTITY pref_clear_history_confirm "La cronologia di navigazione verrà rimossa">
 <!ENTITY pref_clear_private_data "Elimina dati personali">
 <!ENTITY pref_clear_private_data_confirm "Verranno eliminati i dati di navigazione, compresi password e cookie">
-<!ENTITY pref_enable_plugins "Attiva plugin">
-<!ENTITY pref_enable_plugins_yes "Sì">
-<!ENTITY pref_enable_plugins_tap_to_play "Tocca per avviare">
-<!ENTITY pref_enable_plugins_no "No">
-<!ENTITY pref_font_size "Dimensione caratteri">
+<!ENTITY pref_plugins "Plugin">
+<!ENTITY pref_plugins_enabled "Attivato">
+<!ENTITY pref_plugins_tap_to_play "Tocca per avviare">
+<!ENTITY pref_plugins_disabled "Disattivato">
+<!ENTITY pref_text_size "Dimensione testo">
+<!ENTITY pref_font_size_tiny "Minuscola">
 <!ENTITY pref_font_size_small "Piccola">
 <!ENTITY pref_font_size_medium "Media">
 <!ENTITY pref_font_size_large "Grande">
@@ -60,6 +61,7 @@
 <!ENTITY share "Condividi">
 <!ENTITY save_as_pdf "Salva come PDF">
 <!ENTITY contextmenu_open_new_tab "Apri in nuova scheda">
+<!ENTITY contextmenu_remove_bookmark "Rimuovi">
 <!ENTITY contextmenu_add_to_launcher "Aggiungi a schermata Home">
 <!ENTITY contextmenu_share "Condividi">
 <!ENTITY site_settings_title "Elimina impostazioni sito">
@@ -72,3 +74,9 @@
 <!ENTITY masterpassword_confirm "Conferma password">
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Annulla">
+<!ENTITY abouthome_addons_title "Componenti aggiuntivi per &brandShortName;">
+<!ENTITY abouthome_addons_browse "Sfoglia tutti i comp. aggiuntivi per &brandShortName;">
+<!ENTITY abouthome_last_tabs_title "Schede dall’ultima esecuzione">
+<!ENTITY abouthome_last_tabs_open "Apri tutte le schede dall’ultima esecuzione">
+<!ENTITY abouthome_top_sites_title "Siti principali">
+<!ENTITY abouthome_top_sites_browse "Sfoglia tutti i siti principali">
