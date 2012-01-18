@@ -23,7 +23,7 @@ connection.</li>
 that &brandShortName; is permitted to access the Web.</li> 
 </ul>">
 
-<!ENTITY fileNotFound.title "Fail pe ononge">
+<!ENTITY fileNotFound.title "File pe ononge">
 <!ENTITY fileNotFound.longDesc "<ul> 
 <li>Rot nying fail pi nukta madongo onyo bal mogo me coyo.</li> 
 <li>Rok me neno ka kikwanyo fail, mii nyinge nitit onyo kijwayo woko.</li> 
@@ -57,7 +57,7 @@ that &brandShortName; is permitted to access the Web.</li>
 <li>tim ber ikube ki wegi di bar me Web wek i mii gi ngec pi peko man.</li> 
 </ul>">
 
-<!ENTITY unsafeContentType.title "Kit Fail Mape ogwoke maber">
+<!ENTITY unsafeContentType.title "Kit File Mape ogwoke maber">
 <!ENTITY unsafeContentType.longDesc "<ul> 
 <li>tim ber i kube ki wegi di bar me Web pi mino gi ngec pi peko man.</li> 
 </ul>">

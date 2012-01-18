@@ -1,8 +1,8 @@
-<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; tera">
+<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; Yubo">
 <!-- First page of the wizard -->
 
 
-<!ENTITY setup.pickSetupType.description "Ojoli, ka pwod pe itiyo ki &syncBrand.fullName.label; mapwod, myero icwe akaunti manyen.">
+<!ENTITY setup.pickSetupType.description2 "Ojoli, ka pwod pe i tiyo ki &syncBrand.fullName.label; mapwod, myero i cwe akaunti manyen.">
 <!ENTITY button.createNewAccount.label "Cwe Akaunti Manyen">
 <!ENTITY button.haveAccount.label      "Atye ki Akaunti">
 
@@ -14,15 +14,15 @@
 <!ENTITY server.label               "Lapok tic">
 <!ENTITY serverType.main.label      "&syncBrand.fullName.label; Lapok tic">
 <!ENTITY serverType.custom2.label   "Tii ki cik pa lapok tic…">
-<!ENTITY signIn.account2.label      "akaunti">
-<!ENTITY signIn.account2.accesskey  "a">
-<!ENTITY signIn.password.label      "icwil me donyo">
-<!ENTITY signIn.password.accesskey  "i">
+<!ENTITY signIn.account2.label      "Akaunti">
+<!ENTITY signIn.account2.accesskey  "A">
+<!ENTITY signIn.password.label      "I cwil me donyo">
+<!ENTITY signIn.password.accesskey  "I">
 <!ENTITY signIn.recoveryKey.label       "Dwogo Lagony">
 <!ENTITY signIn.recoveryKey.accesskey   "L">
 <!-- New Account Page 1: Basic Account Info -->
 
-<!ENTITY setup.newAccountDetailsPage.title.label "Lok yor kiyore pi akaunti">
+<!ENTITY setup.newAccountDetailsPage.title.label "Lok yor kiyore pi Akaunti">
 <!ENTITY setup.emailAddress.label     "Email Address">
 <!ENTITY setup.emailAddress.accesskey "E">
 <!ENTITY setup.choosePassword.label      "Yer icwil me donyo">
@@ -41,9 +41,9 @@
 <!-- My Recovery Key dialog -->
 
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; Gwoko imung mamegi">
-<!ENTITY setup.newRecoveryKeyPage.description.label "Pi mino imung mamegi odoco, tic mamegi weng kiyungo tye kaketo. Lagony me Sync mapore pi jungo tic mamegi pe kiketo.">
-<!ENTITY recoveryKeyEntry.label        "Dwogo Mamegi Lagony">
-<!ENTITY recoveryKeyEntry.accesskey    "L">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Pi mino imung megi odoco, tic megi weng kiyungo tye kaketo. Lagony me Kin ma kiyubo mupore pi jungo tic mamegi pe kiketo.">
+<!ENTITY recoveryKeyEntry.label        "Lagony me dwogo megi">
+<!ENTITY recoveryKeyEntry.accesskey    "m">
 <!ENTITY syncGenerateNewKey.label  "Kel lagony manyen">
 <!ENTITY recoveryKeyBackup.description "lagony mamegi me Sync mite me &syncBrand.fullName.label; ikom cuma. Tim ber icwe gwok mukene. Pe waromo konyi me dwogo lagony me Sync.">
 
@@ -88,6 +88,8 @@
 <!ENTITY engine.passwords.accesskey "i">
 <!ENTITY engine.prefs.label         "En ma imito">
 <!ENTITY engine.prefs.accesskey     "n">
+<!ENTITY engine.addons.label        "Lamed-ikome">
+<!ENTITY engine.addons.accesskey    "L">
 
 <!ENTITY choice2.merge.main.label      "Nya nino dwe me kompiuta man kwede tic mamega me &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Kimoko woko:">

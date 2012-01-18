@@ -1,10 +1,10 @@
 <!ENTITY newWindowsAsTabs.label       "Yab Dirija i tab manyen">
 <!ENTITY newWindowsAsTabs.accesskey   "t">
 
-<!ENTITY warnCloseMultipleTabs.label  "Kwenyoro an ka itye ka cego tab mapol">
+<!ENTITY warnCloseMultipleTabs.label  "Kwenyoro an ka itye ka loro tab mapol">
 <!ENTITY warnCloseMultipleTabs.accesskey  "a">
 
-<!ENTITY warnOpenManyTabs.label       "Kwenyoro an ka yabo tab mapol twero dwoko cipid pa &brandShortName; cen">
+<!ENTITY warnOpenManyTabs.label       "Kwenyoro an ka yabo tab mapol twero dwoko cen dwiro pa &brandShortName;">
 <!ENTITY warnOpenManyTabs.accesskey   "a">
 
 <!ENTITY showTabBar.label             "Nyut bar me tab kare ki kare">

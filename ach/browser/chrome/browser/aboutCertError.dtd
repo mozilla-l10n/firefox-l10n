@@ -11,7 +11,7 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara1 "I penyo &brandShortName; me kubo maber i <b>#1</b>,  ento pe wa twero moko ni kub mamegi ogwoke maber.">
+<!ENTITY certerror.introPara1 "I penyo &brandShortName; me kubo maber i <b>#1</b>, ento pe wa twero moko ni kub mamegi ogwoke maber.">
 <!ENTITY certerror.introPara2 "Pol kare, ka itemo kube iyore maber, di bar bi ,keto tikitiki ma gene me moko ni in itye kawlot ka ma opore. Amanono, di bar man mme tikitiki pe romo moko.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Atim dong Ngo?">

@@ -47,7 +47,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY zLevel.label                   "Jwijwi i Wiye">
 <!ENTITY zLevel.accesskey               "W">
 
-<!ENTITY fullZoomReduceBtn.label        "Dwok Woko">
+<!ENTITY fullZoomReduceBtn.label        "Kwot Woko">
 <!ENTITY fullZoomReduceBtn.accesskey    "W">
-<!ENTITY fullZoomEnlargeBtn.label       "Dwok Iyie">
+<!ENTITY fullZoomEnlargeBtn.label       "Kwo Iyie">
 <!ENTITY fullZoomEnlargeBtn.accesskey   "I">

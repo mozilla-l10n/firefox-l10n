@@ -10,10 +10,10 @@
 <!ENTITY profileCreationExplanation_4Gnome.text  "Pi cako cweyo gin makwaki, dii Mukene.">
 <!-- Second wizard page -->
 
-<!ENTITY profileCreationIntro.text      "Ka in icweyo gin makwako mapol itwero poko akina gi ki nying gin akwako. Itwero tic ki nying ma ki mii kany onyo acel iya akina megi.">
-<!ENTITY profilePrompt.label            "Goo nying pi gin makwako manyen:">
-<!ENTITY profilePrompt.accesskey        "G">
-<!ENTITY profileDirectoryExplanation.text   "Tera ni, gin ma imaro ki coc mukene ma cacal bino gwoke iyie:">
+<!ENTITY profileCreationIntro.text      "Ka in i cweyo gin makwako mapol itwero poko akina gi ki nying gin akwako. I twero tic ki nying ma ki mii kany onyo acel iya akina megi.">
+<!ENTITY profilePrompt.label            "Ket nying pi gin makwako manyen:">
+<!ENTITY profilePrompt.accesskey        "K">
+<!ENTITY profileDirectoryExplanation.text   "Tera ni, gin ma i maro ki coc mukene ma cal bino gwoke iyie:">
 <!ENTITY profileDefaultName             "Latic kwede Matye">
 <!ENTITY button.choosefolder.label      "Yer Boc…">
 <!ENTITY button.choosefolder.accesskey  "Y">

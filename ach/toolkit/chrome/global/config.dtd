@@ -34,7 +34,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY window.title "makwako:cano">
+<!ENTITY window.title "Makwako:cano">
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
 
@@ -43,9 +43,9 @@
 <!ENTITY aboutWarningButton.label "Abi gwoke matek atika, An acike!">
 <!ENTITY aboutWarningCheckbox.label "Nyut cik man i kare mabino">
 
-<!ENTITY filterPrefs.label "Lapik:">
-<!ENTITY filterPrefs.accesskey "L">
-<!ENTITY focusFilter.key "f">
+<!ENTITY searchPrefs.label "Yeny:">
+<!ENTITY searchPrefs.accesskey "y">
+<!ENTITY focusSearch.key "r">
 <!-- Columns -->
 
 <!ENTITY prefColumn.label "Nying ma imito">
@@ -77,5 +77,5 @@
 <!ENTITY string.accesskey "T">
 <!ENTITY integer.label "Namba ne">
 <!ENTITY integer.accesskey "N">
-<!ENTITY boolean.label "gin matye kwede acel ki not">
-<!ENTITY boolean.accesskey "g">
+<!ENTITY boolean.label "Gin matye kwede acel ki not">
+<!ENTITY boolean.accesskey "G">

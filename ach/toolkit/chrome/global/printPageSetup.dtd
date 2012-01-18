@@ -16,17 +16,17 @@
 <!ENTITY scale.accesskey     "L">
 <!ENTITY scalePercent        "&#037;">
 
-<!ENTITY shrinkToFit.label   "Juk wek odony i pot karatac Borne">
+<!ENTITY shrinkToFit.label   "Jwik wek odony i pot karatac Borne">
 <!ENTITY shrinkToFit.accesskey "B">
 
-<!ENTITY optionsGroup.label  "me ayera">
+<!ENTITY optionsGroup.label  "Me ayera">
 
 <!ENTITY printBG.label       "Goo Yonge (rangi &amp; cal)">
 <!ENTITY printBG.accesskey   "Y">
 
-<!ENTITY advanced.tab        "Teng &amp; Lawie/Latere">
+<!ENTITY advanced.tab        "Twoke &amp; Lawie/Latere">
 
-<!ENTITY marginGroup.label   "Teng (#1)">
+<!ENTITY marginGroup.label   "Twoke (#1)">
 <!ENTITY marginUnits.inches  "inches">
 <!ENTITY marginUnits.metric  "milimita">
 <!ENTITY marginTop.label     "Wie:">
@@ -43,18 +43,18 @@
 <!ENTITY hfLeft.label        "Tung acam:">
 <!ENTITY hfCenter.label      "Dyere:">
 <!ENTITY hfRight.label       "Acuc:">
-<!ENTITY headerLeft.tip      "lawie me tung acam">
-<!ENTITY headerCenter.tip    "lawie me dtere">
-<!ENTITY headerRight.tip     "lawie me tung acuc">
-<!ENTITY footerLeft.tip      "late me tung acam">
-<!ENTITY footerCenter.tip    "late me dyere">
-<!ENTITY footerRight.tip     "late me tung acuc">
+<!ENTITY headerLeft.tip      "Lawie me tung acam">
+<!ENTITY headerCenter.tip    "Lawie me dyere">
+<!ENTITY headerRight.tip     "Lawie me tung acuc">
+<!ENTITY footerLeft.tip      "Late me tung acam">
+<!ENTITY footerCenter.tip    "Late me dyere">
+<!ENTITY footerRight.tip     "Late me tung acuc">
 
-<!ENTITY hfTitle             "wie madito">
+<!ENTITY hfTitle             "Wie madito">
 <!ENTITY hfURL               "URL">
 <!ENTITY hfDateAndTime       "Nino dwe/Cawa">
-<!ENTITY hfPage              "pot karatac #">
-<!ENTITY hfPageAndTotal      "pot karatac # me #">
+<!ENTITY hfPage              "Pot karatac #">
+<!ENTITY hfPageAndTotal      "Pot karatac # me #">
 <!ENTITY hfBlank             "--blank--">
 <!ENTITY hfCustom            "yiko…">
 

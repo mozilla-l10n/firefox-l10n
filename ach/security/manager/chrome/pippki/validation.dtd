@@ -64,4 +64,4 @@
 <!ENTITY  crl.import.nextupdate.label             "Mino manyen Malubo kore I: ">
 <!ENTITY  crl.autoupdate.fail.cnt.label           "Kwero Keto ngec manyen jwijwi mukato angec: ">
 <!ENTITY  crl.autoupdate.fail.reason.label        "Lok yore kiyore pi Kwero Mino ngec manyen macok coki: ">
-<!ENTITY  edit.button                             "Tera">
+<!ENTITY  edit.button                             "Tero">

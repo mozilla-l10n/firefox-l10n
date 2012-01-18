@@ -3,16 +3,16 @@
 <!ENTITY doNotTrack.label               "Waci kakube me Web ni pe amito ni kimaka">
 <!ENTITY doNotTrack.accesskey           "e">
 
-<!ENTITY  history.label                 "Cok mukato">
+<!ENTITY  history.label                 "Lok macon">
 
 <!ENTITY  locationBar.label             "Kabedo ne">
 
 <!ENTITY  locbar.pre.label              "Ka itic ki kabedo ne, mi tam:">
 <!ENTITY  locbar.pre.accessKey          "i">
-<!ENTITY  locbar.post.label             "Leb munu">
-<!ENTITY  locbar.both.label             "Lok macon ki Lagwok">
+<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.both.label             "Lok macon ki Alama me buk mapol">
 <!ENTITY  locbar.history.label          "Lok macon">
-<!ENTITY  locbar.bookmarks.label        "Lagwok mapol">
+<!ENTITY  locbar.bookmarks.label        "Alama me buk mapol">
 <!ENTITY  locbar.nothing.label          "Gin mo pe">
 
 
@@ -22,11 +22,11 @@
 <!ENTITY  acceptThirdParty.label        "Yee jami mukene">
 <!ENTITY  acceptThirdParty.accesskey    "e">
 
-<!ENTITY  keepUntil.label               "Gwok untit:">
+<!ENTITY  keepUntil.label               "Gwok naka wang ma i:">
 <!ENTITY  keepUntil.accesskey           "G">
 
-<!ENTITY  expire.label                  "gutwero gik">
-<!ENTITY  close.label                   "Acego &brandShortName;">
+<!ENTITY  expire.label                  "Gutwero gik">
+<!ENTITY  close.label                   "Alor &brandShortName;">
 <!ENTITY  askEachTime.label             "penya i caa moo keken">
 
 <!ENTITY  cookieExceptions.label        "Mukene…">
@@ -37,23 +37,23 @@
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; obitimo:">
 <!ENTITY  historyHeader.pre.accesskey      "o">
-<!ENTITY  historyHeader.remember.label     "Poo iyi lok mukato">
+<!ENTITY  historyHeader.remember.label     "Poo ikom lok mukato">
 <!ENTITY  historyHeader.dontremember.label "Pe ipoo ikom lok mukato">
-<!ENTITY  historyHeader.custom.label       "Tii ki kit meri pi lok mukato">
-<!ENTITY  historyHeader.post.label         "Leb Munu">
+<!ENTITY  historyHeader.custom.label       "Tii ki kit me tero pi lok mukato">
+<!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; bi poyo yeny mamegi, golo, keto ki yenyo en mukato, ki gwok kakube ki kakube me web ma ilimo.">
+<!ENTITY  rememberDescription.label      "&brandShortName; bi poyo yeny mamegi, golo, keto ki yenyo lok mukato, ki gwok kakube ki kakube me web ma i limo.">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
 
 <!ENTITY  rememberActions.pre.label           "Ka imito ">
-<!ENTITY  rememberActions.clearHistory.label  "Kwany jami mukato macok">
+<!ENTITY  rememberActions.clearHistory.label  "Kwany jami me lok mukato macok">
 <!ENTITY  rememberActions.middle.label        ", onyo ">
-<!ENTITY  rememberActions.removeCookies.label "Kwany jami acelacel">
+<!ENTITY  rememberActions.removeCookies.label "Kwany jami acel acel">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  dontrememberDescription.label  "&brandShortName; obitiyo ki kite acel calo yeny pa dano mo, dok pe obi poo iyi lok mukato ka iyenyo kakube me wilibo.">
+<!ENTITY  dontrememberDescription.label  "&brandShortName; obitiyo ki kite acel calo yeny pa dano mo, dok pe obi poo iyi lok mukato ka iyenyo kakube me wilobo.">
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
 
@@ -61,20 +61,20 @@
 <!ENTITY  dontrememberActions.clearHistory.label "kwany lok mukato ma kombedi weng">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent2.label "Jwii tii ki kite me yenyo ma meri">
+<!ENTITY  privateBrowsingPermanent2.label "Jwii tii ki kite me yenyo mamegi">
 <!ENTITY  privateBrowsingPermanent2.accesskey "k">
 
-<!ENTITY  rememberHistory.label      "Poo ikom lok mukato ikom yeny mera">
+<!ENTITY  rememberHistory.label      "Poo ikom lok mukato ikom yeny mega">
 <!ENTITY  rememberHistory.accesskey  "o">
 
-<!ENTITY  rememberDownload.label         "Poo ikom kwanyo lok mukato">
-<!ENTITY  rememberDownload.accesskey     "k">
+<!ENTITY  rememberDownload.label         "Poo ikom golo lok mukato">
+<!ENTITY  rememberDownload.accesskey     "g">
 
 <!ENTITY  rememberSearchForm.label       "Poo ikom yeny ki karatac me lok ma okato">
 <!ENTITY  rememberSearchForm.accesskey   "k">
 
-<!ENTITY  clearOnClose.label             "Kwany lok mukato ka &brandShortName; gikwanyo woko">
+<!ENTITY  clearOnClose.label             "Kwany lok mukato ka &brandShortName; lore">
 <!ENTITY  clearOnClose.accesskey         "y">
 
-<!ENTITY  clearOnCloseSettings.label     "Yiko…">
-<!ENTITY  clearOnCloseSettings.accesskey "k">
+<!ENTITY  clearOnCloseSettings.label     "Tero…">
+<!ENTITY  clearOnCloseSettings.accesskey "r">

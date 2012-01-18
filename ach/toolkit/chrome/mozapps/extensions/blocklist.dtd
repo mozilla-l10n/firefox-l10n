@@ -9,5 +9,5 @@
 <!ENTITY blocklist.accept.label      "Cak nitit &brandShortName;">
 <!ENTITY blocklist.accept.accesskey  "C">
 
-<!ENTITY blocklist.blocked.label     "Kiloro woko">
+<!ENTITY blocklist.blocked.label     "Kigengo woko">
 <!ENTITY blocklist.checkbox.label    "Kijuko woko">

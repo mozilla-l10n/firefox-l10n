@@ -1,5 +1,5 @@
 
-<!ENTITY migrationWizard.title          "Kel Lakwiri ki woko">
+<!ENTITY migrationWizard.title          "Kel Wizad ki woko">
 
 <!ENTITY importFrom.label               "Kelo ki woko me ayera, Keto alama me buk, Mukato,Icwil ki tic mapat ki:">
 <!ENTITY importFromUnix.label           "Kel ki woko en ma imito, Ket alama buk, Mukato, Icwil ki tic mapat ki:">
@@ -9,13 +9,11 @@
 <!ENTITY importFromIE.accesskey         "M">
 <!ENTITY importFromNothing.label        "Pe ikel gin mo ki woko">
 <!ENTITY importFromNothing.accesskey    "P">
-<!ENTITY importFromSeamonkey.label      "Netscape 6, 7 onyo Mozilla 1.x">
-<!ENTITY importFromSeamonkey.accesskey  "N">
-<!ENTITY importFromOpera.label          "Opera">
-<!ENTITY importFromOpera.accesskey      "O">
 <!ENTITY importFromSafari.label         "Safari">
 <!ENTITY importFromSafari.accesskey     "S">
-<!ENTITY importFromHTMLFile.label       "Ki Fail me HTML">
+<!ENTITY importFromChrome.label         "Layeny Web">
+<!ENTITY importFromChrome.accesskey     "L">
+<!ENTITY importFromHTMLFile.label       "Ki File me HTML">
 <!ENTITY importFromHTMLFile.accesskey   "K">
 
 <!ENTITY noMigrationSources.label       "Pe tye purugram mo matye ki alama buk, mukato onyo icwil ma kiromo nongo.">

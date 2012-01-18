@@ -45,7 +45,7 @@
 <!ENTITY disableAddons.label          "Juk woko add-ons weng">
 <!ENTITY disableAddons.accesskey      "J">
 
-<!ENTITY resetToolbars.label          "Ter bao me gitic ki gwok nitit">
+<!ENTITY resetToolbars.label          "Ter gin tic ki gwok nitit">
 <!ENTITY resetToolbars.accesskey      "T">
 
 <!ENTITY deleteBookmarks.label        "Jwa alama me pot karatac weng nikwanyo pi en ma igwoko">

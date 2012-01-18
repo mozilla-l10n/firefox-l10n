@@ -1,17 +1,31 @@
-<!ENTITY aboutDialog.title          "Makwako &brandFullName;">
+<!ENTITY aboutDialog.title          "Lok ikom &brandFullName;">
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
-<!ENTITY community.start2           "&brandShortName; ngat muyubu ne en aye ">
+<!ENTITY warningDesc.version        "&brandShortName; nyute ci pe romo bedo mot.">
+<!-- LOCALIZATION NOTE (warningDesc.telemetry): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetry      "Cwalo ngec me temo pire kene cen bot &vendorShortName; me konyo mino &brandShortName; bedo maber.">
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+
+<!ENTITY community.exp.start        "">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+<!ENTITY community.exp.middle       " obedo ">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "Lwak me wilobo">
+<!ENTITY community.exp.end          " tic kacel me miyo Web bedo twolo, pi lwak ki nonge bot dano weng.">
+
+<!ENTITY community.start2           "&brandShortName; ngat muyubu ne en aye  ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", a ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "lwak me wilobo">
-<!ENTITY community.end2             " Tic kacel me mino intanet bedo maber. Wan watye ki gen ni intanet myero kiyab, pi lwak, ma dano weng nongo twero me donyo iye labongo geng mo.">
+<!ENTITY community.creditsLink      "Lwak me wilobo">
+<!ENTITY community.end3             " tiyo kacel me miyo Web bedo twolo, bot lwak ci pi dano weng.">
 
 <!ENTITY contribute.start           "Woo tye mayomo cwiny? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY contribute.getInvolvedLink "Bed iye!">
-<!ENTITY contribute.end             "contribute.endcontribute.end">
+<!ENTITY contribute.end             "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "Ngec mamako kop ikom lancec">
@@ -38,7 +52,7 @@
 
 <!ENTITY update.failed.start        "En manyen okwero woko. ">
 <!ENTITY update.failed.linkText     "Gol woko cik ma okati">
-<!ENTITY update.failed.end          "update.failed.end">
+<!ENTITY update.failed.end          "">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
@@ -53,7 +67,7 @@
      example: Downloading update — 111 KB of 13 MB -->
 
 <!ENTITY update.downloading.start   "Tye kagolo ngec— ">
-<!ENTITY update.downloading.end     "update.downloading.end">
+<!ENTITY update.downloading.end     "">
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->

@@ -1,3 +1,9 @@
+<!-- LOCALIZATION NOTE : FILE The correct localization of this file might be to
+  - keep it in English, or another language commonly spoken among web developers.
+  - You want to make that choice consistent across the developer tools.
+  - A good criteria is the language in which you'd find the best
+  - documentation on web development on the web. -->
+
 <!ENTITY networkPanel.requestURL                  "Kwa URL">
 <!ENTITY networkPanel.requestMethod               "Kwa Yore">
 <!ENTITY networkPanel.statusCode                  "Kit Nyig coc">
@@ -8,9 +14,9 @@
 <!ENTITY networkPanel.requestFormData             "Kicwalo Tic me Fom">
 
 <!ENTITY networkPanel.responseHeaders             "Kwa Lawiye">
-<!ENTITY networkPanel.responseBody                "Kom Lagam">
+<!ENTITY networkPanel.responseBody                "Kom Dwoko lok">
 <!ENTITY networkPanel.responseBodyCached          "Tic ma kigwoko">
 <!ENTITY networkPanel.responseBodyUnknownType     "Kit Jami matye iyie Mape ngene">
-<!ENTITY networkPanel.responseNoBody              "Kom Lagam peke">
+<!ENTITY networkPanel.responseNoBody              "Kom Dwoko lok peke">
 <!ENTITY networkPanel.responseImage               "Cal ma Kigamo">
 <!ENTITY networkPanel.responseImageCached         "Cal ma Kigwoko">

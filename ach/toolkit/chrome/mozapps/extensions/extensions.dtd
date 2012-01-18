@@ -1,5 +1,10 @@
 <!ENTITY addons.windowTitle                   "Lalo-lamed ikome">
+
 <!ENTITY search.placeholder                   "Yeny lamed ikome weng">
+<!-- LOCALIZATION NOTE (search.commandKey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
+
 <!ENTITY loading.label                        "tye ka pango…">
 <!ENTITY listEmpty.installed.label            "I pe kwede lamed ikome mo pa kit fail eni ni ma ki keto">
 <!ENTITY listEmpty.availableUpdates.label     "Ngec manyen pe ononge">
@@ -156,7 +161,7 @@ ma pire tek ki ma nongo yot pi lamed ikome pi in me temo ne.">
 <!ENTITY sort.relevance.label                 "Ma kikubo maber">
 <!ENTITY sort.relevance.tooltip               "Yer ki en ma pire tek">
 <!ENTITY sort.price.label                     "Welle">
-<!ENTITY sort.price.tooltip                   "yer ki welle">
+<!ENTITY sort.price.tooltip                   "Yer ki welle">
 
 <!ENTITY search.filter2.label                 "Yeny:">
 <!ENTITY search.filter2.installed.label       "Lamed ikome mamega">

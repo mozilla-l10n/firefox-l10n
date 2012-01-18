@@ -20,8 +20,8 @@
 <!ENTITY printCmd.label "Goo…">
 <!ENTITY printCmd.accesskey "G">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY closeCmd.label "Ceg">
-<!ENTITY closeCmd.accesskey "C">
+<!ENTITY closeCmd.label "Lor">
+<!ENTITY closeCmd.accesskey "L">
 <!ENTITY closeCmd.commandkey "W">
 <!-- LOCALIZATION NOTE :
 textEnlarge.commandkey3, textReduce.commandkey2 and

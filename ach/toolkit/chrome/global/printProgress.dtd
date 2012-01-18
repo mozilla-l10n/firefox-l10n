@@ -1,12 +1,12 @@
 <!--LOCALIZATION NOTE printProgress.dtd Main UI for Print Progress Dialog -->
-<!ENTITY printWindow.title "Gono coc"> 
+<!ENTITY printWindow.title "Goyo"> 
 <!ENTITY title    "Wie:"> 
-<!ENTITY progress "dong anyim:">
+<!ENTITY progress "Dong anyim:">
 <!ENTITY preparing "Yube…">
-<!ENTITY printComplete "Gono coc otyeko.">
+<!ENTITY printComplete "Otyeko goyo coc.">
 
-<!ENTITY dialogCancel.label "Juk"> 
-<!ENTITY dialogClose.label "Cwg">
+<!ENTITY dialogCancel.label "Jwik"> 
+<!ENTITY dialogClose.label "Lor">
 <!-- LOCALIZATION NOTE (percentPrint):
 
     This string is used to format the text to the right of the progress

@@ -37,11 +37,11 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY title.label        "Kite me Gonyo ngec Matye">
-<!ENTITY current.label      "Kite me gonyo ngec matiyo:">
+<!ENTITY title.label        "Kite Kit ma Kicoyo Kwede">
+<!ENTITY current.label      "Kit ma Kicoyo Kwede:">
 <!ENTITY remove.label       "Kwany woko">
 <!ENTITY remove.accessKey   "K">
-<!ENTITY additional.label   "Kite me gonyo ngec matye:">
+<!ENTITY additional.label   "Kit ma Kicoyo Kwede matye:">
 <!ENTITY add.label          "Med">
 <!ENTITY add.accessKey      "M">
 <!ENTITY moveUp.label       "Wot Malu">

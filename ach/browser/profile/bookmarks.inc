@@ -54,7 +54,7 @@
 
 # link title for http://en-US.www.mozilla.com/en-US/about/
 
-#define firefox_about Makwako Wa
+#define firefox_about Lok ikom Wa
 
 
 #unfilter emptyLines

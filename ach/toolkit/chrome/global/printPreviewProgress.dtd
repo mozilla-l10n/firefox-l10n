@@ -1,5 +1,5 @@
 <!--LOCALIZATION NOTE printPreviewProgress.dtd Main UI for Print Preview Progress Dialog -->
-<!ENTITY printWindow.title "Gono nneno pot karatac me coc acoya odoco"> 
+<!ENTITY printWindow.title "Neno odoco goc me pot karatac"> 
 <!ENTITY title   "Wie madito:"> 
 <!ENTITY preparing "Yube…">
-<!ENTITY progress "dongo anyim:">
+<!ENTITY progress "Dongo anyim:">

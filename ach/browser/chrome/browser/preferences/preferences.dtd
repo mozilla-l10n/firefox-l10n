@@ -13,7 +13,7 @@
 <!ENTITY  paneApplications.title  "Puruguram mapol">
 <!ENTITY  panePrivacy.title       "Imung">
 <!ENTITY  paneSecurity.title      "Gwoke">
-<!ENTITY  paneAdvanced.title      "Madit">
+<!ENTITY  paneAdvanced.title      "Rwom ma lamal">
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 
 <!ENTITY  paneSync.title          "Sync">

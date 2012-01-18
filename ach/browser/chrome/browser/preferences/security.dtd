@@ -18,17 +18,17 @@
 <!ENTITY  addonExceptions.accesskey     "M">
 
 
-<!ENTITY  passwords.label               "Lapung">
+<!ENTITY  passwords.label               "I cwil me donyo">
 
-<!ENTITY  rememberPasswords.label       "Poo iyi lapung pi kakube">
+<!ENTITY  rememberPasswords.label       "Poyo i cwil me donyo pi di bar">
 <!ENTITY  rememberPasswords.accesskey   "P">
 <!ENTITY  passwordExceptions.label      "Mukene…">
 <!ENTITY  passwordExceptions.accesskey  "u">
 
-<!ENTITY  useMasterPassword.label        "Tii ki lapung ma dit">
+<!ENTITY  useMasterPassword.label        "Tii ki i cwil me donyo ma dit">
 <!ENTITY  useMasterPassword.accesskey    "T">
-<!ENTITY  changeMasterPassword.label     "Lok Lapung madit…">
-<!ENTITY  changeMasterPassword.accesskey "L">
+<!ENTITY  changeMasterPassword.label     "Lok I cwil me donyo madit…">
+<!ENTITY  changeMasterPassword.accesskey "I">
 
 <!ENTITY  savedPasswords.label            "KigwokoIcwil me donyo…">
 <!ENTITY  savedPasswords.accesskey        "I">

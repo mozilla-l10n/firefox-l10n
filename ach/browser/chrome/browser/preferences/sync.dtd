@@ -1,27 +1,27 @@
 <!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "Yik &syncBrand.fullName.label;">
+<!ENTITY setupButton.label          "Yub &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "Y">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; mii inongo lok mukato, jami ma gigwoko, lapung mapol kede tab ma oyabe weng iyi nyonyo tic weng.">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; mii inongo lok mukato, jami ma gigwoko, I cwil me donyo mapol kede tab ma oyabe weng iyi jami tic weng.">
 <!-- The page shown when logged in... -->
 <!-- Login error feedback -->
 
 
-<!ENTITY updatePass.label             "Lamed">
-<!ENTITY resetPass.label              "Dwok cen">
+<!ENTITY updatePass.label             "Mi ngec">
+<!ENTITY resetPass.label              "Nwo tero">
 <!-- Manage Account -->
 
-<!ENTITY manageAccount.label          "Yik Akaun">
+<!ENTITY manageAccount.label          "Lo Akaunti">
 <!ENTITY manageAccount.accesskey      "A">
 <!ENTITY viewQuota.label              "Nen Ngap">
 <!ENTITY changePassword2.label        "Lok Icwil me donyo…">
 <!ENTITY myRecoveryKey.label          "Lagony mega me Nongo">
-<!ENTITY resetSync2.label             "Dwok cen Sync…">
+<!ENTITY resetSync2.label             "Nwo tero kit me yubo lawang acel…">
 
-<!ENTITY pairDevice.label             "Ket Nyonyo aryo aryo">
+<!ENTITY pairDevice.label             "Ket Jami me tic aryo mapat kacel">
 
-<!ENTITY syncMy.label               "Sync Para">
-<!ENTITY engine.bookmarks.label     "Bukalama">
-<!ENTITY engine.bookmarks.accesskey "a">
+<!ENTITY syncMy.label               "Yubo jami Para wang acel">
+<!ENTITY engine.bookmarks.label     "Alama me buk mapol">
+<!ENTITY engine.bookmarks.accesskey "b">
 <!ENTITY engine.tabs.label          "Tab">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Lokmukato">
@@ -30,11 +30,13 @@
 <!ENTITY engine.passwords.accesskey "I">
 <!ENTITY engine.prefs.label         "En ma imito">
 <!ENTITY engine.prefs.accesskey     "m">
+<!ENTITY engine.addons.label        "Lamed-ikome">
+<!ENTITY engine.addons.accesskey    "L">
 <!-- Device Settings -->
 
 <!ENTITY syncComputerName.label       "Nying kompiuta:">
 <!ENTITY syncComputerName.accesskey   "N">
-<!ENTITY unlinkDevice.label           "Kwany Kub pa Nyonyo man">
+<!ENTITY unlinkDevice.label           "Pe i Kub Jami man">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "Yore me Tic">

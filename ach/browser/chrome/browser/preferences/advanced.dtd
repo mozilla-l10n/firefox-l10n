@@ -41,7 +41,9 @@
 <!ENTITY connectionSettings.label        "Kite ne…">
 <!ENTITY connectionSettings.accesskey    "t">
 
-<!ENTITY offlineStorage.label            "Kan ka ma pe iyi kakube">
+<!ENTITY httpCache.label                 "Kigwoko woko Gin manonge I Web">
+
+<!ENTITY offlineStorage2.label           "Gin manonge me Web ma pe I wiyamo ki Tic pa ngat matiyo kwede">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -49,12 +51,14 @@
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
 
-<!ENTITY limitCacheSizeBefore.label      "Mi kakano obed manok">
+<!ENTITY limitCacheSizeBefore.label      "Mi ka gwoko obed manok">
 <!ENTITY limitCacheSizeBefore.accesskey  "M">
-<!ENTITY limitCacheSizeAfter.label       "rwom me MB">
-<!ENTITY clearCacheNow.label             "Kwany kombedi">
+<!ENTITY limitCacheSizeAfter.label       "rwom kabedo me MB">
+<!ENTITY clearCacheNow.label             "Kwany Kombedi">
 <!ENTITY clearCacheNow.accesskey         "K">
-<!ENTITY overrideSmartCacheSize.label    "Le kit ne ma kene ki kite me yiko gwoko">
+<!ENTITY clearOfflineAppCacheNow.label   "Kwany Kombedi">
+<!ENTITY clearOfflineAppCacheNow.accesskey "K">
+<!ENTITY overrideSmartCacheSize.label    "Le kit ne ma kene ki kite me loyo gwoko">
 <!ENTITY overrideSmartCacheSize.accesskey "L">
 
 <!ENTITY updateTab.label                 "Ngec">
@@ -77,8 +81,6 @@
 <!ENTITY useService.accesskey            "t">
 
 <!ENTITY updateOthers.label              "Ket ngec pire kene:">
-<!ENTITY enableAddonsUpdate3.label       "Lamed-iwiye">
-<!ENTITY enableAddonsUpdate3.accesskey   "w">
 <!ENTITY enableSearchUpdate.label        "Ka Yenyo">
 <!ENTITY enableSearchUpdate.accesskey    "Y">
 
@@ -87,7 +89,7 @@
 <!ENTITY offlineNotifyExceptions.label   "Mukene…">
 <!ENTITY offlineNotifyExceptions.accesskey "u">
 
-<!ENTITY offlineAppsList.label           "Kakube man gutye ki jami me tic labongo kube iwi yamo:">
+<!ENTITY offlineAppsList2.label          "Kakube man gutye ki jami me tic labongo kube iwi yamo:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Kwany woko…">
 <!ENTITY offlineAppsListRemove.accesskey "K">

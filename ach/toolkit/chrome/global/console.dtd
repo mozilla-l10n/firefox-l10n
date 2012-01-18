@@ -64,5 +64,5 @@
 <!ENTITY sortLast.label      "Agiki > Cik ma kiyero me acel">
 <!ENTITY sortLast.accesskey  "A">
 <!ENTITY closeCmd.commandkey "w">  
-<!ENTITY focus1.commandkey   "1">  
+<!ENTITY focus1.commandkey   "l">  
 <!ENTITY focus2.commandkey   "d">  

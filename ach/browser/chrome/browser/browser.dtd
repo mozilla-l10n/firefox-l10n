@@ -77,22 +77,22 @@ can reach it easily. -->
 <!ENTITY pageInfoCmd.label "Pot karatac NNgec">
 <!ENTITY pageInfoCmd.accesskey "N">
 <!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY fullScreenCmd.label "Kio me kompiuta Lung">
-<!ENTITY fullScreenCmd.accesskey "K">
+<!ENTITY fullScreenCmd.label "Wang Komputa Weng">
+<!ENTITY fullScreenCmd.accesskey "W">
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Nyut Tab Weng">
 <!ENTITY showAllTabsCmd.accesskey "T">
 
 <!ENTITY fullScreenMinimize.tooltip "Kwany woko">
 <!ENTITY fullScreenRestore.tooltip "Dwogo">
-<!ENTITY fullScreenClose.tooltip "Ceg woko">
-<!ENTITY fullScreenAutohide.label "Kan Bar me Gitic">
+<!ENTITY fullScreenClose.tooltip "Lor">
+<!ENTITY fullScreenAutohide.label "Kan Gin tic">
 <!ENTITY fullScreenAutohide.accesskey "K">
-<!ENTITY fullScreenExit.label "Pye Kit kio me Wang kompiuta Lung">
-<!ENTITY fullScreenExit.accesskey "K">
-<!ENTITY domFullScreenWarning.label "Dii ESC me weko kit kio me kompiuta lung">
+<!ENTITY fullScreenExit.label "Pye Wang Komputa Kiyabo Weng">
+<!ENTITY fullScreenExit.accesskey "W">
+<!ENTITY domFullScreenWarning.label "Dii ESC me weko wang komputa kiyabo weng">
 
-<!ENTITY closeWindow.label "Ceg Dirija">
+<!ENTITY closeWindow.label "Lor Dirija">
 <!ENTITY closeWindow.accesskey "j">
 
 <!ENTITY bookmarksMenu.label "Alama Buk">
@@ -117,10 +117,10 @@ can reach it easily. -->
 <!ENTITY reloadCmd.label              "Nwo pango">
 <!ENTITY reloadCmd.accesskey          "N">
 <!ENTITY reloadButton.tooltip         "Nwo pango pot karatac man">
-<!ENTITY stopCmd.label                "Juk">
+<!ENTITY stopCmd.label                "Jwik">
 <!ENTITY stopCmd.accesskey            "J">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Juk pango pot karatac man">
+<!ENTITY stopButton.tooltip           "Jwik pango pot karatac man">
 <!ENTITY goEndCap.tooltip             "Wot i kanonge ma i kabedo me Bar">
 <!ENTITY printButton.label            "Goo">
 <!ENTITY printButton.tooltip          "Goo pot karatac man">
@@ -142,9 +142,9 @@ can reach it easily. -->
 <!ENTITY feedButton.label             "Cone">
 <!ENTITY feedButton.tooltip           "Cone i pot karatac man…">
 
-<!ENTITY bookmarksButton.label          "Kiketo alama me pot karatac">
+<!ENTITY bookmarksButton.label          "Alama buk">
 <!ENTITY bookmarksButton.tooltip        "Yar alama me pot karatac mamegi">
-<!ENTITY bookmarksButton.accesskey  "K">
+<!ENTITY bookmarksButton.accesskey  "A">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Kiketo alama me pot karatac">
@@ -216,14 +216,23 @@ can reach it easily. -->
 <!ENTITY inspectPanelTitle.label        "HTML">
 <!ENTITY inspectButton.label            "Kwedi">
 <!ENTITY inspectButton.accesskey        "K">
-<!ENTITY inspectCloseButton.tooltiptext "Ceg Lakwed te">
+<!ENTITY inspectCloseButton.tooltiptext "Lor Lakwed te">
+<!ENTITY inspect3DButton.label        "3D">
+<!ENTITY inspect3DButton.accesskey    "M">
 <!ENTITY inspectStyleButton.label     "Kite">
 <!ENTITY inspectStyleButton.accesskey "K">
+<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
+  -  in the Tools menu. -->
 
-<!ENTITY getMoreDevtoolsCmd.label        "Nong Gitic mapol">
+<!ENTITY styleeditor.label            "Layub Kite">
+<!ENTITY styleeditor.accesskey        "t">
+<!ENTITY styleeditor.keycode          "VK_F7">
+<!ENTITY styleeditor.keytext          "F7">
+
+<!ENTITY getMoreDevtoolsCmd.label        "Nong Gitic Mapol">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "G">
 
-<!ENTITY fileMenu.label         "Fail"> 
+<!ENTITY fileMenu.label         "File"> 
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newNavigatorCmd.label        "Dirija Manyen">
 <!ENTITY newNavigatorCmd.key        "N">
@@ -271,8 +280,8 @@ can reach it easily. -->
 <!ENTITY viewMenu.accesskey       "N"> 
 <!ENTITY viewTabGroups.label            "Nyik Gurup">
 <!ENTITY viewTabGroups.accesskey        "G">
-<!ENTITY viewToolbarsMenu.label       "Bar me Gitic"> 
-<!ENTITY viewToolbarsMenu.accesskey     "B"> 
+<!ENTITY viewToolbarsMenu.label       "Gin tic"> 
+<!ENTITY viewToolbarsMenu.accesskey     "G"> 
 <!ENTITY viewSidebarMenu.label "Bar me langete">
 <!ENTITY viewSidebarMenu.accesskey "n">
 <!ENTITY viewCustomizeToolbar.label       "Gwok jami…"> 
@@ -282,19 +291,19 @@ can reach it easily. -->
 
 <!ENTITY historyMenu.label "Mukato">
 <!ENTITY historyMenu.accesskey "u">
-<!ENTITY historyUndoMenu.label "Macokcoki kicego woko Mapeca me nyiko">
+<!ENTITY historyUndoMenu.label "Kiloro woko Mapeca me nyiko ma cokcoki">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "Dirija ma kicego woko cokcoki">
-<!ENTITY historyRestoreLastSession.label "Dwogo kare mukato angec">
+<!ENTITY historyUndoWindowMenu.label "Dirija ma kiloro woko cokcoki">
+<!ENTITY historyRestoreLastSession.label "Dok I kare mukato angec">
 
 <!ENTITY historyHomeCmd.label "Gang">
-<!ENTITY showAllHistoryCmd2.label "Nyut Mukato weng">
+<!ENTITY showAllHistoryCmd2.label "Nyut lok Mukato weng">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuEdit.label "Yub">
 <!ENTITY appMenuCustomize.label "Gwok jami">
 <!ENTITY appMenuToolbarLayout.label "Bar me Gitic manen…">
-<!ENTITY appMenuSidebars.label "Bar me langete">
+<!ENTITY appMenuSidebars.label "Gin tic me twoke">
 <!ENTITY appMenuFind.label "Nong…">
 <!ENTITY appMenuUnsorted.label "Alam me pot karatac mape kiyero">
 <!ENTITY appMenuWebDeveloper.label "Ladong Web">
@@ -421,23 +430,35 @@ can reach it easily. -->
 <!ENTITY thisFrameMenu.label              "Purem Man">
 <!ENTITY thisFrameMenu.accesskey          "a">
 <!-- Media (video/audio) controls -->
+<!-- LOCALIZATION NOTE: The access keys for "Play" and
+"Pause" are the same because the two context-menu
+items are mutually exclusive. -->
 
 <!ENTITY mediaPlay.label             "Tuki">
 <!ENTITY mediaPlay.accesskey         "T">
 <!ENTITY mediaPause.label            "Cung manok">
 <!ENTITY mediaPause.accesskey        "C">
+<!-- LOCALIZATION NOTE: The access keys for "Mute" and
+"Unmute" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Juk">
 <!ENTITY mediaMute.accesskey         "J">
 <!ENTITY mediaUnmute.label           "PeIjuk">
 <!ENTITY mediaUnmute.accesskey       "I">
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "Nyut Gengo">
 <!ENTITY mediaShowControls.accesskey "G">
 <!ENTITY mediaHideControls.label     "Kan Gengo">
 <!ENTITY mediaHideControls.accesskey "G">
-<!ENTITY videoFullScreen.label       "Wang kio me kompiuta lung">
+<!ENTITY videoFullScreen.label       "Wang Kiyabo Weng">
 <!ENTITY videoFullScreen.accesskey   "W">
 <!ENTITY videoSaveImage.label        "Gwok cal Calo...">
 <!ENTITY videoSaveImage.accesskey    "G">
+<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
+"Hide Statistics" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY videoShowStats.label        "Nyut Cura ne">
 <!ENTITY videoShowStats.accesskey    "u">
 <!ENTITY videoHideStats.label        "Kan Cura ne">
@@ -449,14 +470,14 @@ If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
 
-<!ENTITY fullZoomEnlargeCmd.label       "Dwok I ie">
+<!ENTITY fullZoomEnlargeCmd.label       "Kwot Iyie">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "I">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
-<!ENTITY fullZoomReduceCmd.label        "Dwok Woko">
+<!ENTITY fullZoomReduceCmd.label        "Kwot Woko">
 <!ENTITY fullZoomReduceCmd.accesskey    "W">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
@@ -466,10 +487,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY fullZoomToggleCmd.label        "Dwok Coc Keken">
+<!ENTITY fullZoomToggleCmd.label        "Kwot Coc Keken">
 <!ENTITY fullZoomToggleCmd.accesskey    "C">
-<!ENTITY fullZoom.label                 "Dwoki">
-<!ENTITY fullZoom.accesskey             "D">
+<!ENTITY fullZoom.label                 "Kwot">
+<!ENTITY fullZoom.accesskey             "K">
 
 <!ENTITY newTabButton.tooltip           "Yab tab manyen">
 <!ENTITY newWindowButton.tooltip        "Yab Dirija manyen">
@@ -479,11 +500,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyButton.tooltip             "Lok">
 <!ENTITY pasteButton.tooltip            "Daci">
 
-<!ENTITY fullScreenButton.tooltip       "Yar Dirija i kio me kompiuta lung">
+<!ENTITY fullScreenButton.tooltip       "Yar dirija i kio me wang komputa weng">
 
-<!ENTITY zoomOutButton.tooltip          "Dwok woko">
-<!ENTITY zoomInButton.tooltip           "Dwok iyie">
-<!ENTITY zoomControls.label             "Dwok Lageng">
+<!ENTITY zoomOutButton.tooltip          "Kwot woko">
+<!ENTITY zoomInButton.tooltip           "Kwot iyie">
+<!ENTITY zoomControls.label             "Kwot Lageng">
 
 <!ENTITY quitApplicationCmdWin.label       "Pye"> 
 <!ENTITY quitApplicationCmdWin.accesskey   "y">
@@ -494,15 +515,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdMac.label    "Wek &brandShortName;">
 <!ENTITY quitApplicationCmdMac.key      "Q">
 
-<!ENTITY closeCmd.label                 "Ceg">  
+<!ENTITY closeCmd.label                 "Lor">  
 <!ENTITY closeCmd.key                   "W">  
-<!ENTITY closeCmd.accesskey             "C">
+<!ENTITY closeCmd.accesskey             "L">
 
 <!ENTITY pageStyleMenu.label "Kit pot Karatac">
 <!ENTITY pageStyleMenu.accesskey "t">
 <!ENTITY pageStyleNoStyle.label "Kite Pe">
 <!ENTITY pageStyleNoStyle.accesskey "K">
-<!ENTITY pageStylePersistentOnly.label "Kit Pot karatac Mapire tek">
+<!ENTITY pageStylePersistentOnly.label "Kit Pot Buk">
 <!ENTITY pageStylePersistentOnly.accesskey "K">
 
 <!ENTITY pageReportIcon.tooltip            "Lok Pye-iwie matye kagengo Tero kabedo me Web man">
@@ -572,5 +593,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY addonBarCloseButton.tooltip  "Ceg Bar me Add-on">
+<!ENTITY addonBarCloseButton.tooltip  "Lor Bar me Add-on">
 <!ENTITY toggleAddonBarCmd.key        "/">

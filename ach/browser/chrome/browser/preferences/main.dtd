@@ -3,7 +3,7 @@
 <!ENTITY startupPage.label         "Ka &brandShortName; Ocake:">
 <!ENTITY startupPage.accesskey     "O">
 <!ENTITY startupHomePage.label     "Nyut pot karatac me acaki mera">
-<!ENTITY startupBlankPage.label    "Nyut pot pot karatac ma tye nono">
+<!ENTITY startupBlankPage.label    "Nyut pot karatac ma tye nono">
 <!ENTITY startupLastSession.label  "Nyut dirija mera ki tab cako iyi mukato">
 <!ENTITY restoreOnDemand.label     "Pe iket tab wa ka iyero">
 <!ENTITY restoreOnDemand.accesskey "i">

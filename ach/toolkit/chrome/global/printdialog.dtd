@@ -1,18 +1,18 @@
 <!-- extracted from printdialog.xul -->
 
-<!ENTITY printButton.label "Goo coc">
+<!ENTITY printButton.label "Goyo">
 
 <!ENTITY printDialog.title "Goo">
 
-<!ENTITY fpDialog.title "Gwok Fail">
+<!ENTITY fpDialog.title "Gwok File">
 
-<!ENTITY fileCheck.label "Goo I dwok Fail">
+<!ENTITY fileCheck.label "Goyo dwoko File">
 <!ENTITY fileCheck.accesskey "F">
 <!ENTITY propertiesButton.label "Jami…">
 <!ENTITY propertiesButton.accesskey "m">
 <!ENTITY descText.label "Tito lok i lago coc:">
-<!ENTITY printer.label "Lagoo coc">
-<!ENTITY printerInput.label "Lagoo Nying:">
+<!ENTITY printer.label "Lago coc">
+<!ENTITY printerInput.label "Lago coc Nying:">
 <!ENTITY printerInput.accesskey "N">
 
 <!ENTITY printrangeGroup.label "Cano Gono coc">
@@ -28,7 +28,7 @@
 <!ENTITY selectionRadio.accesskey "Y">
 
 <!ENTITY copies.label "Mukene">
-<!ENTITY numCopies.label "Nammba me tic mukene:">
+<!ENTITY numCopies.label "Namba me tic mukene:">
 <!ENTITY numCopies.accesskey "m">
 
 <!ENTITY printframeGroup.label "Goo Purem">

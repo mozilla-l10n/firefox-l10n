@@ -64,6 +64,6 @@
 <!ENTITY  allowPagesToUse.label                   "Wek pot karatac i yero caji me coc mamegi, ikaka en ma an ayero ki malu eni">
 <!ENTITY  allowPagesToUse.accesskey               "W">
 
-<!ENTITY languages.customize.Charset.grouplabel         "Kite me gonyo ngec">
-<!ENTITY languages.customize.DefaultCharset.label       "Kite me gonyo ngec kit matye:">
+<!ENTITY languages.customize.Charset.grouplabel         "Kitma Kicoyo Kwede">
+<!ENTITY languages.customize.DefaultCharset.label       "Kite ma Kicoyo Kwede:">
 <!ENTITY languages.customize.DefaultCharset.accesskey   "K">
