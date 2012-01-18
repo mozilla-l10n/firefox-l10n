@@ -1,4 +1,3 @@
-<!ENTITY messengerWindow.title "Post ┐ buidhnean-naidheachd">
 <!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
@@ -9,9 +8,6 @@
 <!ENTITY closeTabCmd2.accesskey "D">
 <!ENTITY closeOtherTabsCmd2.label "Dùin na tabaichean eile">
 <!ENTITY closeOtherTabsCmd2.accesskey "D">
-<!-- LOCALIZATION NOTE (undoCloseTabCmd.label):
-     Menu option to attempt to re-open a recently closed tab.
-     -->
 <!ENTITY recentlyClosedTabsCmd.label "Tabaichean a dhùin thu o chionn ghoirid">
 <!ENTITY recentlyClosedTabsCmd.accesskey "r">
 
@@ -591,8 +587,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextMarkMailFolderRead.accesskey "C">
 <!ENTITY folderContextSubscribe.label "Fo-sgrìobh…">
 <!ENTITY folderContextSubscribe.accesskey "b">
-<!ENTITY folderContextSearchMessages.label "Lorg…">
-<!ENTITY folderContextSearchMessages.accesskey "L">
+<!ENTITY folderContextSearchForMessages.label "Lorg teachdaireachdan…">
+<!ENTITY folderContextSearchForMessages.accesskey "L">
 <!ENTITY folderContextProperties.label "Roghainnean…">
 <!ENTITY folderContextProperties.accesskey "R">
 <!ENTITY folderContextFavoriteFolder.label "Am pasgan as fhearr">

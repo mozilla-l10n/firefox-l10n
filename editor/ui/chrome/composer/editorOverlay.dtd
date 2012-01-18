@@ -326,12 +326,6 @@
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Bàr a' chlàir-thaice">
 <!ENTITY formatToolbar.tooltip "Bàr-inneil fòrmataidh">
-<!ENTITY newToolbarCmd.label "Ùr">
-<!ENTITY newToolbarCmd.tooltip "Cruthaich duilleag Sgrìobhadair ùr">
-<!ENTITY openToolbarCmd.label "Fosgail">
-<!ENTITY openToolbarCmd.tooltip "Fosgail faidhle ionadail">
-<!ENTITY saveToolbarCmd.tooltip "Sàbhail faidhle gu h-ionadail">
-<!ENTITY publishToolbarCmd.tooltip "Luchdaich suas faidhle gu àite cèin">
 <!ENTITY cutToolbarCmd.tooltip "Gearr às">
 <!ENTITY copyToolbarCmd.tooltip "Dèan lethbhreac dheth">
 <!ENTITY pasteToolbarCmd.tooltip "Cuir ann">

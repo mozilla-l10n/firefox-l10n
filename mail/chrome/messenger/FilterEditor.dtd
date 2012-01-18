@@ -28,6 +28,7 @@
 <!ENTITY forwardTo.label "Sìn an teachdaireachd air adhart gu">
 <!ENTITY replyWithTemplate.label "Thoir freagairt le teamplaid">
 <!ENTITY markMessageRead.label "Cuir comharra air gun deach a leughadh">
+<!ENTITY markMessageUnread.label "Cuir comharra nach deach a leughadh">
 <!ENTITY markMessageStarred.label "Cuir rionnag ris">
 <!ENTITY setPriority.label "Atharraich a prìomhachas gu">
 <!ENTITY addTag.label "Cuir taga ris an teachdaireachd">
