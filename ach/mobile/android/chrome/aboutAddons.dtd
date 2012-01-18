@@ -1,0 +1,8 @@
+<!ENTITY aboutAddons.title                      "Lalo-lamed ikome">
+<!ENTITY aboutAddons.header                     "Lamed-ikome">
+<!ENTITY aboutAddons.options                    "Me ayera">
+
+<!ENTITY addonAction.enable                     "Mi tii">
+<!ENTITY addonAction.disable                    "Kijuko woko">
+<!ENTITY addonAction.uninstall                  "Pe I ket">
+<!ENTITY addonAction.cancel                     "Jwik">

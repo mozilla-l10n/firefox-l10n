@@ -1,0 +1,12 @@
+<!ENTITY aboutPage.title                        "Makwako &brandShortName;">
+<!ENTITY aboutPage.checkForUpdates.link         "Rot pi Ngec»">
+<!ENTITY aboutPage.checkForUpdates.checking     "Tye ka yenyo pi ngec…">
+<!ENTITY aboutPage.checkForUpdates.none         "Ngec pe nonge">
+<!ENTITY aboutPage.checkForUpdates.found        "Ngec nonge">
+<!ENTITY aboutPage.faq.label                    "FAQ">
+<!ENTITY aboutPage.support.label                "Cwak te">
+<!ENTITY aboutPage.privacyPolicy.label          "Cik pa Dano">
+<!ENTITY aboutPage.rights.label                 "Nge Twero ni">
+<!ENTITY aboutPage.relNotes.label               "Gony Coc">
+<!ENTITY aboutPage.credits.label                "Den">
+<!ENTITY aboutPage.license.label                "Ngec me lanycec">

@@ -105,7 +105,7 @@
 <!ENTITY contextShareVideo.label      "Nywlak Video">
 <!ENTITY contextPlayMedia.label       "Tuki">
 <!ENTITY contextPauseMedia.label      "Cung manok">
-<!ENTITY contextFullScreen.label      "Kio me kompiuta Lung">
+<!ENTITY contextFullScreen.label      "Wang Komputa Weng">
 <!ENTITY contextEditBookmark.label    "Yub">
 <!ENTITY contextRemoveBookmark.label  "Kwany">
 <!ENTITY contextShortcutBookmark.label "Med i Gang me Kio me kompiuta">
@@ -117,6 +117,6 @@
 <!ENTITY pageactions.reset           "Ywe koba me di bar">
 <!ENTITY pageactions.findInPage      "Nwong I Pot karatac">
 <!ENTITY pageactions.search.addNew   "Med Keno me Yeny">
-<!ENTITY pageactions.charEncoding    "Kite me Gonyo ngec">
+<!ENTITY pageactions.charEncoding    "Kit Ma Kicoyo Kwede">
 
 <!ENTITY appMenu.siteOptions         "Me ayera pi di bar">
