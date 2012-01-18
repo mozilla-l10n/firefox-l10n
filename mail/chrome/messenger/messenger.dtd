@@ -23,8 +23,10 @@
 <!ENTITY newVirtualFolderCmd.accesskey "c">
 <!ENTITY newOtherAccountsCmd.label "Akun Lainnya…">
 <!ENTITY newOtherAccountsCmd.accesskey "L">
-<!ENTITY newEmailAccountCmd.label "Akun Email…">
-<!ENTITY newEmailAccountCmd.accesskey "E">
+<!ENTITY newCreateEmailAccountCmd.label "Dapatkan Akun Email Baru…">
+<!ENTITY newCreateEmailAccountCmd.accesskey "B">
+<!ENTITY newExistingEmailAccountCmd.label "Akun Email yang Sudah Ada…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "E">
 <!ENTITY openMessageFileCmd.label "Buka Pesan Tersimpan…">
 <!ENTITY openMessageFileCmd.accesskey "P">
 <!ENTITY openAttachmentCmd.label "Lampiran">
@@ -136,6 +138,8 @@
 <!ENTITY messagePaneWide.accesskey "m">
 <!ENTITY messagePaneVertical.label "Tampilan Tegak">
 <!ENTITY messagePaneVertical.accesskey "T">
+<!ENTITY showFolderPaneCmd.label "Panel Folder">
+<!ENTITY showFolderPaneCmd.accesskey "F">
 <!ENTITY showMessageCmd.label "Panel Pesan">
 <!ENTITY showMessageCmd.accesskey "P">
 

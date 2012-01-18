@@ -32,6 +32,9 @@
 <!ENTITY half-manual-test.accesskey      "l">
 <!ENTITY manual-edit.label               "Konfigurasi manual">
 <!ENTITY manual-edit.accesskey           "M">
+<!ENTITY switch-to-provisioner.label     "Dapatkan akun baru">
+<!ENTITY switch-to-provisioner.accesskey "D">
+
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop3.label                      "POP">
 <!ENTITY smtp.label                      "SMTP">
