@@ -26,7 +26,7 @@
 <!ENTITY sync.subtitle.manage.label "L’account &syncBrand.fullName.label; è già configurato. Per gestire l’account andare in Impostazioni.">
 <!ENTITY sync.pair.tryagain.label "Riprovare">
 <!ENTITY sync.settings.options.label "Opzioni">
-<!ENTITY sync.summary.pair.label "Collega un altro dispositivo all'account &syncBrand.shortName.label;">
+<!ENTITY sync.summary.pair.label "Collega un altro dispositivo all’account &syncBrand.shortName.label;">
 <!ENTITY sync.button.cancel.label "Annulla">
 <!ENTITY sync.button.connect.label "Connetti">
 <!ENTITY sync.button.ok.label "OK">
