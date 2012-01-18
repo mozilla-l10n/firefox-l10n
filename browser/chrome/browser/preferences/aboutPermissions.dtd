@@ -23,6 +23,8 @@
 
 <!ENTITY cookie.label                    "કુકીઓ સુયોજિત કરો">
 <!ENTITY cookie.manage                   "કુકીઓ સંચાલિત કરો…">
+<!ENTITY cookie.remove                   "કુકીઓ દૂર કરો">
+<!ENTITY cookie.removeAll                "બધી કુકીઓ દૂર કરો">
 
 <!ENTITY geo.label                       "સ્થાનને બીજા સાથે વહેંચો">
 

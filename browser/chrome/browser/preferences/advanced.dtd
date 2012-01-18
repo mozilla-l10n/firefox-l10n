@@ -30,8 +30,6 @@
 <!ENTITY connectionSettings.label        "સુયોજનો...">
 <!ENTITY connectionSettings.accesskey    "e">
 
-<!ENTITY offlineStorage.label            "ઓફલાઈન સંગ્રહ">
-
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
@@ -39,10 +37,6 @@
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
 
-
-
-
-<!ENTITY offlineAppsList.label           "નીચેની વેબસાઈટોએ ઓફલાઈન વપરાશ માટે માહિતી સ્થાપિત કરેલ છે:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppRemove.confirm        "ઓફલાઈન માહિતી દૂર કરો">
 
@@ -101,5 +95,24 @@
 <!ENTITY submitCrashes.accesskey         "S">
 <!ENTITY submitCrashes.label             "ભંગાણ અહેવાલોને ઉમેરો">
 
+<!ENTITY clearOfflineAppCacheNow.label   "હમણાં સાફ કરો">
+<!ENTITY clearOfflineAppCacheNow.accesskey "N">
+<!ENTITY httpCache.label                 "કેશ થયેલ વેબ સમાવિષ્ટો">
+<!ENTITY offlineAppsList2.label          "નીચેની વેબસાઇટોને ઑફલાઇન વપરાશ માટે માહિતી સંગ્રહવાની પરવાનગી છે:">
+<!ENTITY offlineStorage2.label           "ઑફલાઇન વેબ સમાવિષ્ટો અને વપરાશકર્તા માહિતી">
+<!ENTITY submitTelemetry.accesskey       "P">
+<!ENTITY submitTelemetry.label           "પર્ફોરમન્સ માહિતી જમા કરો">
+<!ENTITY updateApp.label                 "&brandShortName; સુધારાઓ:">
+<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateAuto.label                "સુધારાઓ આપોઆપ સ્થાપિત કરો (આગ્રહણીય: સુધારાયેલ સુરક્ષા)">
+<!ENTITY updateAutoAddonWarn.label       "જો આ મારા કોઇ-પણ એડ-ઑન નિષ્ક્રિય કરે તો મને ચેતવણી આપજો">
+<!ENTITY updateAutoAddonWarn.accesskey   "W">
+<!ENTITY updateCheck.label               "સુધારાઓ માટે ચકાસો, પરંતુ તેમને સ્થાપિત કરવું કે નહિં તે પસંદ કરવાની પરવાનગી મને આપો">
+<!ENTITY updateCheck.accesskey           "C">
+<!ENTITY updateManual.label              "સુધારાઓ માટે ક્યારેય ચકાસો નહિં (આગ્રહણીય નથી: સુરક્ષા જોખમ)">
+<!ENTITY updateManual.accesskey          "N">
+<!ENTITY updateOthers.label              "આપોઆપ સુધારો:">
+<!ENTITY useService.label                "સુધારાઓ સ્થાપિત કરવા માટે પાશ્વભાગ સેવા વાપરો">
+<!ENTITY useService.accesskey            "b">
 
 

@@ -5,28 +5,16 @@
 <!ENTITY importFromIE.label "ઈન્ટરનેટ એક્સપ્લોરર">
 <!ENTITY importFromIE.accesskey "M">
 
-
 <!ENTITY importFromNothing.label "કંઇ આયાત ન કરો">
 <!ENTITY importFromNothing.accesskey "D">
-<!ENTITY importFromSeamonkey.label "નેટસ્કેપ ૬, ૭ અથવા મોઝીલા ૧.x">
-<!ENTITY importFromSeamonkey.accesskey "N">
-
-
-<!ENTITY importFromOpera.label "ઓપેરા">
-<!ENTITY importFromOpera.accesskey "O">
-
-
 <!ENTITY importFromSafari.label "સફારી">
 <!ENTITY importFromSafari.accesskey "S">
-
-
-
-
+<!ENTITY importFromChrome.label         "ક્રોમ">
+<!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromHTMLFile.label       "HTML ફાઈલમાંથી">
 <!ENTITY importFromHTMLFile.accesskey   "F">
 
 <!ENTITY noMigrationSources.label       "બુકમાર્કો, ઈતિહાસ અથવા પાસવર્ડ માહિતીઓ સમાવતા કોઈ કાર્યક્રમો શોધી શક્યા નહિં.">
-
 
 <!ENTITY importSource.title "સુયોજનો અને માહિતી અહીંથી આયાત કરો">
 <!ENTITY importItems.title "આયાત કરવાની વસ્તુઓ">
