@@ -16,7 +16,7 @@
 <!ENTITY testpilot.studiesWindow.finishedStudies.label  "Dovršena istraživanja">
 <!ENTITY testpilot.studiesWindow.studyFindings.label    "Zaključci istraživanja">
 <!ENTITY testpilot.studiesWindow.settings.label         "Postavke">
-<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Učitavajne, molim pričekajte…">
+<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Učitavanje, molim pričekajte…">
 
 <!-- raw data dialog -->
 <!ENTITY testpilot.rawDataWindow.title                  "Test pilot: neobrađene informacije">
