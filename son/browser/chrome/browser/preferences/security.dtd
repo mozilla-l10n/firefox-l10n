@@ -11,7 +11,7 @@
 <!ENTITY  blockAttackSites.label     "Zanba-nungu bayrantey gagay">
 <!ENTITY  blockAttackSites.accesskey "g">
 
-<!ENTITY  blockWebForgeries.label     "Tataaru ženti bayrantey gagay">
+<!ENTITY  blockWebForgeries.label     "Interneti ženti bayrantey gagay">
 <!ENTITY  blockWebForgeries.accesskey "g">
 
 <!ENTITY  addonExceptions.label         "Hasarawey…">

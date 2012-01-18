@@ -47,8 +47,8 @@
 <!ENTITY netInterrupt.title "Ciyaroo dunbu">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
-<!ENTITY notCached.title "Document Expired">
-<!ENTITY notCached.longDesc "<p>The requested document is not available in &brandShortName;'s cache.</p><ul><li>As a security precaution, &brandShortName; does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
+<!ENTITY notCached.title "Takaddaa waatoo ben">
+<!ENTITY notCached.longDesc "<p>Takadda wirantaa ši bara &brandShortName; lanbari lakkaloo ra.</p><ul><li>Saajaw laasaabu ra, &brandShortName; ši sutura takadda wiri nga bonše.</li><li>Ceeci koyne naagu ka takaddaa wiri Interneti nungoo ga.</li></ul>">
 
 <!ENTITY netOffline.title "Bila nda ciyari alhaali">
 <!ENTITY netOffline.longDesc2 "

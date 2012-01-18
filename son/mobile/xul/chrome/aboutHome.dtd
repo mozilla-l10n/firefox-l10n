@@ -23,9 +23,9 @@
      (aboutHome.setupSync): This string should match the desktop
      equivalent, in particular concerning syncBrand.fullName.label.
 -->
-<!ENTITY aboutHome.setupSync            "Set Up Sync">
+<!ENTITY aboutHome.setupSync            "Hangandiroo kayandi">
 <!-- LOCALIZATION NOTE:
      (aboutHome.syncPairDevice): This string should match the desktop
      equivalent, in particular concerning syncBrand.fullName.label.
 -->
-<!ENTITY aboutHome.syncPairDevice       "Pair a Device">
+<!ENTITY aboutHome.syncPairDevice       "Jinay foo margandi">

@@ -68,8 +68,8 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.label "Doo-šilbawey goyjinay žeeri">
 <!ENTITY personalbarCmd.accesskey "D">
 <!ENTITY bookmarksToolbarItem.label "Doo-šilbawey goyjinay žeeri hayiizey">
-<!ENTITY addonBarCmd.label "Zuu-žeeri tontoni">
-<!ENTITY addonBarCmd.accesskey "A">
+<!ENTITY addonBarCmd.label "Tontoni zuu-žeeri">
+<!ENTITY addonBarCmd.accesskey "T">
 
 <!ENTITY pageSourceCmd.label "Moo aššil">
 <!ENTITY pageSourceCmd.accesskey "a">
@@ -90,7 +90,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "t">
 <!ENTITY fullScreenExit.label "Dijikul alhaali naŋ">
 <!ENTITY fullScreenExit.accesskey "D">
-<!ENTITY domFullScreenWarning.label "Press ESC to leave full-screen mode">
+<!ENTITY domFullScreenWarning.label "ESC naagu ka dijikul alhaali naŋ">
 
 <!ENTITY closeWindow.label "Zanfunoo daabu">
 <!ENTITY closeWindow.accesskey "d">
@@ -216,9 +216,18 @@ can reach it easily. -->
 <!ENTITY inspectPanelTitle.label        "HTML">
 <!ENTITY inspectButton.label            "Hawgay">
 <!ENTITY inspectButton.accesskey        "g">
-<!ENTITY inspectCloseButton.tooltiptext "Close Inspector">
+<!ENTITY inspectCloseButton.tooltiptext "Hawgaykaa daabu">
+<!ENTITY inspect3DButton.label        "3D">
+<!ENTITY inspect3DButton.accesskey    "M">
 <!ENTITY inspectStyleButton.label     "Fasal">
-<!ENTITY inspectStyleButton.accesskey "F">
+<!ENTITY inspectStyleButton.accesskey "s">
+<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
+  -  in the Tools menu. -->
+
+<!ENTITY styleeditor.label            "Fasal hansekaw">
+<!ENTITY styleeditor.accesskey        "s">
+<!ENTITY styleeditor.keycode          "VK_F7">
+<!ENTITY styleeditor.keytext          "F7">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Duu goyjinay tontoniyaŋ">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "n">
@@ -395,17 +404,17 @@ can reach it easily. -->
 <!ENTITY sendLinkCmd.label            "Doboo sanba…"> 
 <!ENTITY sendLinkCmd.accesskey        "s">
 <!ENTITY saveImageCmd.label           "Biyoo gaabu sanda…">
-<!ENTITY saveImageCmd.accesskey       "B">
+<!ENTITY saveImageCmd.accesskey       "b">
 <!ENTITY saveVideoCmd.label           "Widewo gaabu sanda…">
 <!ENTITY saveVideoCmd.accesskey       "W">
 <!ENTITY saveAudioCmd.label           "Jindetukoo gaabu sanda…">
-<!ENTITY saveAudioCmd.accesskey       "J">
+<!ENTITY saveAudioCmd.accesskey       "b">
 <!ENTITY sendImageCmd.label           "Biyoo sanba…">
-<!ENTITY sendImageCmd.accesskey       "B">
+<!ENTITY sendImageCmd.accesskey       "n">
 <!ENTITY sendVideoCmd.label           "Widewo sanba…">
 <!ENTITY sendVideoCmd.accesskey       "n">
 <!ENTITY sendAudioCmd.label           "Jindetukoo sanba…">
-<!ENTITY sendAudioCmd.accesskey       "J">
+<!ENTITY sendAudioCmd.accesskey       "n">
 <!ENTITY copyLinkCmd.label            "Doboo dogoo berandi">
 <!ENTITY copyLinkCmd.accesskey        "D">
 <!ENTITY copyImageCmd.label           "Biyoo dogoo berandi">
@@ -417,31 +426,43 @@ can reach it easily. -->
 <!ENTITY copyAudioURLCmd.label        "Jindetukoo dogoo berandi">
 <!ENTITY copyAudioURLCmd.accesskey    "b">
 <!ENTITY copyEmailCmd.label           "Bataga aderesoo berandi">
-<!ENTITY copyEmailCmd.accesskey       "B">
+<!ENTITY copyEmailCmd.accesskey       "a">
 <!ENTITY thisFrameMenu.label              "Kungaa woo">
 <!ENTITY thisFrameMenu.accesskey          "w">
 <!-- Media (video/audio) controls -->
+<!-- LOCALIZATION NOTE: The access keys for "Play" and
+"Pause" are the same because the two context-menu
+items are mutually exclusive. -->
 
-<!ENTITY mediaPlay.label             "Heenandi">
+<!ENTITY mediaPlay.label             "Hẽenandi">
 <!ENTITY mediaPlay.accesskey         "H">
 <!ENTITY mediaPause.label            "Hunanzam">
 <!ENTITY mediaPause.accesskey        "H">
+<!-- LOCALIZATION NOTE: The access keys for "Mute" and
+"Unmute" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Jinde daabu">
 <!ENTITY mediaMute.accesskey         "J">
 <!ENTITY mediaUnmute.label           "Jinde feeri">
 <!ENTITY mediaUnmute.accesskey       "J">
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "Dabarey cebe">
 <!ENTITY mediaShowControls.accesskey "D">
 <!ENTITY mediaHideControls.label     "Dabarey tugu">
 <!ENTITY mediaHideControls.accesskey "D">
 <!ENTITY videoFullScreen.label       "Dijikul">
 <!ENTITY videoFullScreen.accesskey   "D">
-<!ENTITY videoSaveImage.label        "Save Snapshot As…">
-<!ENTITY videoSaveImage.accesskey    "S">
-<!ENTITY videoShowStats.label        "Show Statistics">
-<!ENTITY videoShowStats.accesskey    "t">
-<!ENTITY videoHideStats.label        "Hide Statistics">
-<!ENTITY videoHideStats.accesskey    "t">
+<!ENTITY videoSaveImage.label        "Zaafoo-bii gaabu sanda...">
+<!ENTITY videoSaveImage.accesskey    "g">
+<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
+"Hide Statistics" are the same because the two context-menu
+items are mutually exclusive. -->
+<!ENTITY videoShowStats.label        "Teera hinnawey cebe">
+<!ENTITY videoShowStats.accesskey    "h">
+<!ENTITY videoHideStats.label        "Teera hinnawey tugu">
+<!ENTITY videoHideStats.accesskey    "h">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.

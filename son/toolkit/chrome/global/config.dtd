@@ -43,9 +43,9 @@
 <!ENTITY aboutWarningButton.label "Ay ga hawgay, ay g'allaahidu tee!">
 <!ENTITY aboutWarningCheckbox.label "Yaamaroo woo cebe yane koyne!">
 
-<!ENTITY filterPrefs.label "Sosoguji:">
-<!ENTITY filterPrefs.accesskey "S">
-<!ENTITY focusFilter.key "f">
+<!ENTITY searchPrefs.label "Search:">
+<!ENTITY searchPrefs.accesskey "r">
+<!ENTITY focusSearch.key "r">
 <!-- Columns -->
 
 <!ENTITY prefColumn.label "Ibaayi maa">

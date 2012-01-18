@@ -17,7 +17,7 @@
 <!ENTITY myRecoveryKey.label          "Ay kurmayan kufaloo">
 <!ENTITY resetSync2.label             "Sync yeeti...">
 
-<!ENTITY pairDevice.label             "Pair a Device">
+<!ENTITY pairDevice.label             "Jinay foo margandi">
 
 <!ENTITY syncMy.label               "Hangandi cere">
 <!ENTITY engine.bookmarks.label     "Doo-šilbawey">
@@ -30,6 +30,8 @@
 <!ENTITY engine.passwords.accesskey "e">
 <!ENTITY engine.prefs.label         "Ibaayey">
 <!ENTITY engine.prefs.accesskey     "I">
+<!ENTITY engine.addons.label        "Tontoney">
+<!ENTITY engine.addons.accesskey    "T">
 <!-- Device Settings -->
 
 <!ENTITY syncComputerName.label       "Ordinater maa:">

@@ -2,9 +2,9 @@
 <!-- First page of the wizard -->
 
 
-<!ENTITY setup.pickSetupType.description "Kubayni, ba war mana bay ka goy nda &syncBrand.fullName.label; jina, war ga hima ka kontu taaga tee.">
+<!ENTITY setup.pickSetupType.description2 "Kubayni! Nda war mana bay ka goy nda &syncBrand.fullName.label;, war ga hima ka kontu taaga tee jina.">
 <!ENTITY button.createNewAccount.label "Kontu taaga tee">
-<!ENTITY button.haveAccount.label      "I Have an Account">
+<!ENTITY button.haveAccount.label      "Ay goo nda kontu">
 
 <!ENTITY setup.choicePage.title.label     "War bay ka goy nda &syncBrand.fullName.label; han foo?">
 <!ENTITY setup.choicePage.new.label       "Ya na bay ka goy nda &syncBrand.shortName.label;">
@@ -53,12 +53,12 @@
 <!ENTITY button.syncKeyBackup.save.accesskey  "G">
 <!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
 
-<!ENTITY pairDevice.title.label             "Pair a Device">
+<!ENTITY pairDevice.title.label             "Jinay foo margandi">
 <!ENTITY addDevice.showMeHow.label          "Takaa cebe yane.">
 <!ENTITY addDevice.dontHaveDevice.label     "Goyjinaa ši ay kone sohõda">
-<!ENTITY pairDevice.setup.description.label  "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
+<!ENTITY pairDevice.setup.description.label  "Ka dirandi, wa &#x0022;Jinay foo margandi&#x0022; suuba war jinay faa ga.">
 <!ENTITY addDevice.setup.enterCode.label    "Ašariyaa woo dam waati din:">
-<!ENTITY pairDevice.dialog.description.label "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
+<!ENTITY pairDevice.dialog.description.label "Ka war jinay taagaa dirandi, wa &#x0022;Hangandiyan kayandi&#x0022; suuba jinaa ga.">
 <!ENTITY addDevice.dialog.enterCode.label   "Ašariya kaŋ jinaa n'a noo dam:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Taare ceeci koyne.">
 <!ENTITY addDevice.dialog.successful.label  "Jinaa tontonandi ka boori. Šintin hangandiyanoo ga hin too miniti booboyaŋ nd'a mma ben bandafaaroo ra.">
@@ -88,6 +88,8 @@
 <!ENTITY engine.passwords.accesskey "e">
 <!ENTITY engine.prefs.label         "Ibaayey">
 <!ENTITY engine.prefs.accesskey     "b">
+<!ENTITY engine.addons.label        "Tontoney">
+<!ENTITY engine.addons.accesskey    "T">
 
 <!ENTITY choice2.merge.main.label      "Wa ordinateroo woo bayhayey marga nda &syncBrand.shortName.label; bayhayey">
 <!ENTITY choice2.merge.recommended.label "Yaamarante:">

@@ -21,7 +21,7 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; ga hima ka tunandi taaga hala sukarey ma duu ka goy.">
 
 <!ENTITY missingPlugin                                       "Sukari ga waažibi ka gundekunaa woo cebe.">
-<!ENTITY clickToPlayPlugin                                   "Tap here to activate plugin.">
+<!ENTITY clickToPlayPlugin                                   "Kar ne ka sukaroo dirandi.">
 <!ENTITY disabledPlugin                                      "Sukaroo n' ka hun goy.">
 <!ENTITY blockedPlugin.label                                 "Sukaroo woo gagayandi war da boŋ-daabaa še.">
 
@@ -35,7 +35,7 @@
 <!ENTITY reloadPlugin.middle                                 "Moɲoo dam taaga">
 <!ENTITY reloadPlugin.post                                   " ka ceeci koyne.">
 <!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.checkbox                                     "…and send crash report">
+<!ENTITY report.checkbox                                     "...nda kaŋyan bayrandi sanba">
 <!ENTITY report.submitting                                   "Goo ma bayrandi sanba…">
 <!ENTITY report.submitted                                    "Kaŋyan bayrandi sanbandi.">
 <!ENTITY report.disabled                                     "Kaŋyan bayrandi kay.">

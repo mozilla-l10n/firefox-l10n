@@ -1,14 +1,28 @@
 <!ENTITY aboutDialog.title          "&brandFullName; ga">
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
-<!ENTITY community.start2           "&brandShortName; fasalkaa ">
+<!ENTITY warningDesc.version        "&brandShortName; ti šiyyan dumi kaŋ ši hima tabatante.">
+<!-- LOCALIZATION NOTE (warningDesc.telemetry): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetry      "Ga šiyyan alhabar sanba nga boŋ še &vendorShortName; ka gaa ka &brandShortName; boryandi ka tonton.">
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+
+<!ENTITY community.exp.start        "">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+<!ENTITY community.exp.middle       "ti">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "adduɲɲa-mee jamaa">
+<!ENTITY community.exp.end          " kaŋ ga goy nda cere hala Interneti miɲoo ma duumi ka feeri borey kul še.">
+
+<!ENTITY community.start2           "&brandShortName; fasalkaa ti ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
-<!ENTITY community.middle2          ", sanda ">
+<!ENTITY community.middle2          ", kaŋ ti ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "adduɲɲa-mee jamaa">
-<!ENTITY community.end2             " kaŋ ga goy nda cere ka Interneti tee nga bešere. Ir ga tammahãa kaŋ Interneti ka hima ka tee baytal nda jamaa haya, kaŋ boro kul ka hin ka man a, bila nda šugulla kul.">
+<!ENTITY community.end3             " kaŋ ga goy nda cere hala Interneti miɲoo ma duumi ka feeri borey kul še.">
 
-<!ENTITY contribute.start           "Woo ga boori wala? ">
+<!ENTITY contribute.start           "Woo ga kan wala? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY contribute.getInvolvedLink "Adiši wa kanbe dam!">
 <!ENTITY contribute.end             "">

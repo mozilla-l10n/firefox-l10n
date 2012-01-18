@@ -41,7 +41,9 @@
 <!ENTITY connectionSettings.label        "Kayandiyaney…">
 <!ENTITY connectionSettings.accesskey    "a">
 
-<!ENTITY offlineStorage.label            "Bila nda ciyari jišidoo">
+<!ENTITY httpCache.label                 "Interneti gundekuna lanbante">
+
+<!ENTITY offlineStorage2.label           "Bila nda ciya Interneti gundekuna lanbante nda goykaw bayhayey">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -54,18 +56,20 @@
 <!ENTITY limitCacheSizeAfter.label       "MB jišidoo dimma">
 <!ENTITY clearCacheNow.label             "Koonandi sohõ">
 <!ENTITY clearCacheNow.accesskey         "K">
+<!ENTITY clearOfflineAppCacheNow.label   "Koonandi sohõ">
+<!ENTITY clearOfflineAppCacheNow.accesskey "h">
 <!ENTITY overrideSmartCacheSize.label    "Boŋdirandi tugudoo juwalyan daaru">
 <!ENTITY overrideSmartCacheSize.accesskey "d">
 
 <!ENTITY updateTab.label                 "Taagandiri">
 
-<!ENTITY updateApp.label                 "&brandShortName; updates:">
-<!ENTITY updateAuto.label                "Automatically install updates (recommended: improved security)">
-<!ENTITY updateAuto.accesskey            "A">
-<!ENTITY updateCheck.label               "Check for updates, but let me choose whether to install them">
-<!ENTITY updateCheck.accesskey           "C">
-<!ENTITY updateManual.label              "Never check for updates (not recommended: security risk)">
-<!ENTITY updateManual.accesskey          "N">
+<!ENTITY updateApp.label                 "&brandShortName; taagandiri:">
+<!ENTITY updateAuto.label                "Taagandirey sinji ngey boŋše (yaamarante: saajaw tontonandi)">
+<!ENTITY updateAuto.accesskey            "a">
+<!ENTITY updateCheck.label               "Taagandirey guna, amma naŋ ya ngey sinjiyan dogoo suuba">
+<!ENTITY updateCheck.accesskey           "g">
+<!ENTITY updateManual.label              "Ši taagandirey ceeci abada (manti yaamarante: saajaw allamaana)">
+<!ENTITY updateManual.accesskey          "b">
 
 <!ENTITY updateAutoAddonWarn.label       "Ay yaamar nda woo ga tontoney jerey kayandi">
 <!ENTITY updateAutoAddonWarn.accesskey   "A">
@@ -73,12 +77,10 @@
 <!ENTITY updateHistory.label             "Taagandiri taariku cebe">
 <!ENTITY updateHistory.accesskey         "a">
 
-<!ENTITY useService.label                "Use a background service to install updates">
+<!ENTITY useService.label                "Goy bandafaari zaa ka taagarandirey sinji ">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY updateOthers.label              "Automatically update:">
-<!ENTITY enableAddonsUpdate3.label       "Add-ons">
-<!ENTITY enableAddonsUpdate3.accesskey   "o">
+<!ENTITY updateOthers.label              "Taagandi nga boŋše:">
 <!ENTITY enableSearchUpdate.label        "Ceeci maršiney">
 <!ENTITY enableSearchUpdate.accesskey    "e">
 
@@ -87,7 +89,7 @@
 <!ENTITY offlineNotifyExceptions.label   "Hasarawey…">
 <!ENTITY offlineNotifyExceptions.accesskey "a">
 
-<!ENTITY offlineAppsList.label           "Tataaru nungey wey na bayhayey jiši bila-nda-ciyari goyyan še:">
+<!ENTITY offlineAppsList2.label          "Interneti nungey wey duu fondo ka bayhayey jiši bila-nda-ciyari goyyan še:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Kaa…">
 <!ENTITY offlineAppsListRemove.accesskey "K">

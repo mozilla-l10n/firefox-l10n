@@ -1,0 +1,8 @@
+<!ENTITY aboutAddons.title                      "Tontoney juwalkaa">
+<!ENTITY aboutAddons.header                     "Tontoney">
+<!ENTITY aboutAddons.options                    "Suubarey">
+
+<!ENTITY addonAction.enable                     "Tunandi">
+<!ENTITY addonAction.disable                    "Kayandi">
+<!ENTITY addonAction.uninstall                  "Dogu">
+<!ENTITY addonAction.cancel                     "Naŋ">
