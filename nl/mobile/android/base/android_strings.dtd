@@ -33,9 +33,7 @@
 
 <!ENTITY awesomebar_default_text "Voer een zoekterm of adres in">
 
-<!ENTITY bookmarks_title "Bladwijzers">
-<!ENTITY bookmark_add "Bladwijzer">
-<!ENTITY bookmark_remove "Verwijderen">
+<!ENTITY bookmark "Bladwijzer">
 <!ENTITY bookmark_added "Bladwijzer toegevoegd">
 <!ENTITY bookmark_removed "Bladwijzer verwijderd">
 
