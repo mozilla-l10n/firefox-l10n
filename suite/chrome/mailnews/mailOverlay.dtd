@@ -5,3 +5,6 @@
 
 <!ENTITY  newContactCmd.label "Contact…">
 <!ENTITY  newContactCmd.accesskey "o">
+
+<!ENTITY printButton.label "Imprimer">
+<!ENTITY printButton.tooltip "Imprimer ce message">
