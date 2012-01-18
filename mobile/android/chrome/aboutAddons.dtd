@@ -1,5 +1,5 @@
 <!ENTITY aboutAddons.title                      "Gestionnaire de modules complémentaires">
-<!ENTITY aboutAddons.header                     "Modules complémentaires">
+<!ENTITY aboutAddons.header2                    "Vos modules complémentaires">
 <!ENTITY aboutAddons.options                    "Options">
 
 <!ENTITY addonAction.enable                     "Activer">
