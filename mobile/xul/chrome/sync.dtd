@@ -1,0 +1,22 @@
+<!ENTITY sync.title                 "Sync">
+<!ENTITY sync.notconnected          "Tak tersambung">
+<!ENTITY sync.connect               "Sambungkan">
+<!ENTITY sync.connected             "Tersambung">
+<!ENTITY sync.details               "Detail">
+<!ENTITY sync.synchronize           "Aktifkan Sync">
+<!ENTITY sync.deviceName            "Perangkat ini">
+<!ENTITY sync.disconnect            "Putuskan">
+<!ENTITY sync.syncNow               "Sinkronkan Skrg">
+
+<!ENTITY sync.setup.title           "Sambungkan ke Sync">
+<!ENTITY sync.setup.jpake           "Dari komputer yang telah tersambung dengan Sync pada Firefox-nya, buka pengaturan Sync dan pilih &#x0022;Tambahkan perangkat&#x0022;">
+<!ENTITY sync.fallback              "Komputer saya tidak sedang di dekat saya…">
+<!ENTITY sync.setup.manual          "Masukkan informasi akun Sync Anda">
+<!ENTITY sync.account               "Nama Akun">
+<!ENTITY sync.password              "Sandi">
+<!ENTITY sync.syncKey               "Kunci Sinkronisasi">
+<!ENTITY sync.customServer          "Gunakan server khusus">
+<!ENTITY sync.serverURL             "URL Server">
+<!ENTITY sync.setup.connect         "Sambungkan">
+<!ENTITY sync.setup.cancel          "Batal">
+<!ENTITY sync.setup.tutorial        "Lihat caranya">

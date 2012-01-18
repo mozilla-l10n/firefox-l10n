@@ -1,0 +1,12 @@
+<!ENTITY empty.label            "Cari">
+<!ENTITY newpref.label          "Tambahkan Pengaturan Baru">
+<!ENTITY addpref.name           "Nama">
+<!ENTITY addpref.value          "Nilai">
+
+<!ENTITY cancel.label           "Batal">
+<!ENTITY reset.label            "Setel Ulang">
+<!ENTITY done.label             "Selesai">
+
+<!ENTITY integer.label          "Integer">
+<!ENTITY string.label           "String">
+<!ENTITY boolean.label          "Boolean">
