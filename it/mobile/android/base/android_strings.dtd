@@ -44,10 +44,10 @@
 <!ENTITY pref_clear_history_confirm "La cronologia di navigazione verrà rimossa">
 <!ENTITY pref_clear_private_data "Elimina dati personali">
 <!ENTITY pref_clear_private_data_confirm "Verranno eliminati i dati di navigazione, compresi password e cookie">
-<!ENTITY pref_enable_plugins "Attiva plugin">
-<!ENTITY pref_enable_plugins_yes "Sì">
-<!ENTITY pref_enable_plugins_tap_to_play "Tocca per avviare">
-<!ENTITY pref_enable_plugins_no "No">
+<!ENTITY pref_plugins "Plugin">
+<!ENTITY pref_plugins_enabled "Attivato">
+<!ENTITY pref_plugins_tap_to_play "Tocca per avviare">
+<!ENTITY pref_plugins_disabled "Disattivato">
 <!ENTITY pref_font_size "Dimensione caratteri">
 <!ENTITY pref_font_size_small "Piccola">
 <!ENTITY pref_font_size_medium "Media">
