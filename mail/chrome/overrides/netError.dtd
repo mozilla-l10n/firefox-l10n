@@ -51,6 +51,13 @@
 <!ENTITY netInterrupt.title "Veza je prekinuta">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!ENTITY notCached.title "Dokument istekao">
+<!ENTITY notCached.longDesc "<p>Traženi dokument nije dostupan u privremenoj memoriji.</p>
+<ul>
+ <li>Kao mjeru predostrožnosti, &brandShortName; ne traži automatski nanovo povjerljive dokument.</li>
+ <li>Kliknite Pokušaj ponovno kako biste ponovno zatražili dokument sa web stranice.</li>
+</ul>">
+
 <!ENTITY netOffline.title "Izvanmrežni način rada">
 <!ENTITY netOffline.longDesc2 "
 <ul>
@@ -159,7 +166,6 @@ privremena, stoga možete pokušati ponovno kasnije.</li>
 <!ENTITY phishingBlocked.title "Sumnja na web krivotvorinu">
 <!ENTITY phishingBlocked.longDesc "
 <p>Unošenje bilo kakvih osobnih podataka na ovoj web stranici može rezultirati krađom identiteta ili nekom drugom prijevarom.</p>
-<p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>
 <p>Ovakve vrste web krivotvorina se koriste u prijevarama poznatijima kao napad lažnim predstavljanjem, u kojima se koriste varljive web stranice ili e-poštu koje imitiraju izvore kojima možda vjerujete.</p>
 ">
 
