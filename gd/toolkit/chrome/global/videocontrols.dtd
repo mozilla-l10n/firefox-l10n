@@ -2,6 +2,8 @@
 <!ENTITY playButton.pauseLabel "Cuir 'na stad">
 <!ENTITY muteButton.muteLabel "Tostaich">
 <!ENTITY muteButton.unmuteLabel "Till an fhuaim">
+<!ENTITY fullscreenButton.enterfullscreenlabel "Làn-sgrìn">
+<!ENTITY fullscreenButton.exitfullscreenlabel "Fàg an làn-sgrìn">
 
 <!ENTITY stats.media "Meadhanan">
 <!ENTITY stats.size "Meud">
@@ -17,6 +19,13 @@
 <!ENTITY stats.framesDecoded "Frèamaichean air an dì-chòdachadh">
 <!ENTITY stats.framesPresented "Frèamaichean air an sealltainn">
 <!ENTITY stats.framesPainted "Frèamaichean air am peantadh">
+
+<!ENTITY error.aborted "Sguireadh de luchdadh a' video.">
+<!ENTITY error.network "Sguireadh cluich a' video air sgàth mearachd lìonraidh.">
+<!ENTITY error.decode "Cha ghabh a' video a chluich a chionn 's gu bheil am faidhle coirbte.">
+<!ENTITY error.srcNotSupported "Chan eil taic ann ri fòrmat a' video no an seòrsa MIME.">
+<!ENTITY error.noSource2 "Cha deach video a lorg aig a bheil fòrmat no seòrsa MIME a tha taic ris.">
+<!ENTITY error.generic "Sguireadh de chluich a' video air sgàth mearachd neo-aithnichte.">
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be

@@ -1,4 +1,18 @@
 <!ENTITY aboutDialog.title          "Mu &brandFullName;">
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+
+<!ENTITY warningDesc.version        "Thathar ag obair air &brandShortName; fhathast agus faodaidh nach bi iad buileach seasmhach.">
+<!-- LOCALIZATION NOTE (warningDesc.telemetry): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetry      "Cuiridh e dàta gu &vendorShortName; gus taic a chur ri leasachadh &brandShortName;.">
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+
+<!ENTITY community.exp.start        "">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "Tha &vendorShortName;">
+<!ENTITY community.exp.middle       "'na">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "choimhearsnachd an t-saoghail">
+<!ENTITY community.exp.end          " a tha ag obair còmhla gus an lìon a chumail fosgailte, poblach is so-ruigsinneach dhan a h-uile duine.">
 
 <!ENTITY community.start2           "Tha &brandShortName; air a dhealbhadh le ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -6,7 +20,7 @@
 <!ENTITY community.middle2          ", ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "coimhearsnachd an t-saoghail">
-<!ENTITY community.end2             " a tha ag obair còmhla gus piseach a thoirt air an eadar-lìon. Tha sinn sa bheachd gum bu chòir dhan eadar-lìon a bhith fosgailte is poblach dhan a h-uile duine gun bacadh sam bith air an inntrigeadh dha.">
+<!ENTITY community.end3             " a tha ag obair còmhla gus an lìon a chumail fosgailte, poblach is so-ruigsinneach dhan a h-uile duine.">
 
 <!ENTITY contribute.start           "Ùidh agad ann? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->

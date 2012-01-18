@@ -1,5 +1,10 @@
 <!ENTITY addons.windowTitle                   "Manaidsear nan tuilleadan">
+
 <!ENTITY search.placeholder                   "Rannsaich a h-uile tuilleadan">
+<!-- LOCALIZATION NOTE (search.commandKey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
+
 <!ENTITY loading.label                        "A' luchdadh…">
 <!ENTITY listEmpty.installed.label            "Chan eil tuilleadan dhen t-seòrsa seo air a stàladh agad">
 <!ENTITY listEmpty.availableUpdates.label     "Cha deach ùrachadh a lorg">
