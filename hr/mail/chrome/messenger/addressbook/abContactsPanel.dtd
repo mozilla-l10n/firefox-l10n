@@ -5,10 +5,15 @@
 <!ENTITY SearchNameOrEmail.label            "Ime ili e-pošta">
 
 <!ENTITY deleteAddrBookCard.label           "Obriši">
+<!ENTITY deleteAddrBookCard.accesskey       "O">
 <!ENTITY addrBookCardProperties.label       "Postavke">
+<!ENTITY addrBookCardProperties.accesskey   "P">
 <!ENTITY addtoToFieldMenu.label             "Dodaj u polje Prima">
+<!ENTITY addtoToFieldMenu.accesskey         "D">
 <!ENTITY addtoCcFieldMenu.label             "Dodaj u polje Cc">
+<!ENTITY addtoCcFieldMenu.accesskey         "C">
 <!ENTITY addtoBccFieldMenu.label            "Dodaj u polje Bcc">
+<!ENTITY addtoBccFieldMenu.accesskey        "B">
 
 <!ENTITY toButton.label                     "Dodaj u Prima:">
 <!ENTITY toButton.accesskey                 "D">
