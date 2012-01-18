@@ -78,11 +78,12 @@
 <!ENTITY lightning.toolbar.mail.label         "Post">
 <!ENTITY lightning.toolbar.mail.accesskey     "P">
 <!ENTITY lightning.toolbar.calendar.label     "Mìosachan">
-<!ENTITY lightning.toolbar.calendar.accesskey "c">
+<!ENTITY lightning.toolbar.calendar.tooltip   "Leum gu taba a' mhìosachain">
+<!ENTITY lightning.toolbar.calendar.accesskey "M">
 <!ENTITY lightning.toolbar.task.label         "Saothraichean">
-<!ENTITY lightning.toolbar.task.accesskey     "t">
+<!ENTITY lightning.toolbar.task.accesskey     "S">
 <!ENTITY lightning.toolbar.task.tooltip       "Leum gu taba nan saothraichean">
-<!ENTITY lightning.toolbar.task.accesskey     "T">
+<!ENTITY lightning.toolbar.task.accesskey     "L">
 
 <!-- Toolbar write button -->
 <!ENTITY lightning.toolbar.newevent.label     "Tachartas">
