@@ -45,10 +45,11 @@
 <!ENTITY pref_clear_private_data "Limpiar datos privados">
 <!ENTITY pref_clear_private_data_confirm "La configuración de navegación, incluyendo contraseñas y cookies, serán eliminadas">
 <!ENTITY pref_plugins "Plugins">
-<!ENTITY pref_plugins_enabled "Activado">
-<!ENTITY pref_plugins_tap_to_play "Pulsar para repr.">
-<!ENTITY pref_plugins_disabled "Desactivado">
-<!ENTITY pref_font_size "Tamaño de fuente">
+<!ENTITY pref_plugins_enabled "Activados">
+<!ENTITY pref_plugins_tap_to_play "Pulsar para activar">
+<!ENTITY pref_plugins_disabled "Desactivados">
+<!ENTITY pref_text_size "Tamaño del texto">
+<!ENTITY pref_font_size_tiny "Pequeño">
 <!ENTITY pref_font_size_small "Pequeña">
 <!ENTITY pref_font_size_medium "Mediana">
 <!ENTITY pref_font_size_large "Grande">
@@ -60,6 +61,7 @@
 <!ENTITY share "Compartir">
 <!ENTITY save_as_pdf "Guardar como PDF">
 <!ENTITY contextmenu_open_new_tab "Abrir en una pestaña nueva">
+<!ENTITY contextmenu_remove_bookmark "Eliminar">
 <!ENTITY contextmenu_add_to_launcher "Añadir a la pantalla de inicio">
 <!ENTITY contextmenu_share "Compartir">
 <!ENTITY site_settings_title "Limpiar config. del sitio">
@@ -72,3 +74,9 @@
 <!ENTITY masterpassword_confirm "Confirmar contraseña">
 <!ENTITY button_ok "Aceptar">
 <!ENTITY button_cancel "Cancelar">
+<!ENTITY abouthome_addons_title "Complementos para &brandShortName;">
+<!ENTITY abouthome_addons_browse "Ver los complementos de &brandShortName;">
+<!ENTITY abouthome_last_tabs_title "Pestañas de su última sesión">
+<!ENTITY abouthome_last_tabs_open "Abrir las pestañas de la última vez">
+<!ENTITY abouthome_top_sites_title "Frecuentes">
+<!ENTITY abouthome_top_sites_browse "Navegar por sus sitios frecuentes">
