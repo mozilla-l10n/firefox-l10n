@@ -25,6 +25,8 @@
 <!ENTITY sync.settings.label "Impostazioni">
 <!ENTITY sync.subtitle.manage.label "L’account &syncBrand.fullName.label; è già configurato. Per gestire l’account andare in Impostazioni.">
 <!ENTITY sync.pair.tryagain.label "Riprovare">
+<!ENTITY sync.settings.options.label "Opzioni">
+<!ENTITY sync.summary.pair.label "Collega un altro dispositivo all'account &syncBrand.shortName.label;">
 <!ENTITY sync.button.cancel.label "Annulla">
 <!ENTITY sync.button.connect.label "Connetti">
 <!ENTITY sync.button.ok.label "OK">
@@ -36,3 +38,4 @@
 <!ENTITY bookmarks.folder.unfiled.label "Segnalibri non catalogati">
 <!ENTITY bookmarks.folder.desktop.label "Segnalibri pc desktop">
 <!ENTITY bookmarks.folder.mobile.label "Segnalibri mobile">
+<!ENTITY sync.notification.oneaccount.label "È possibile utilizzare un solo account &syncBrand.fullName.label;.">
