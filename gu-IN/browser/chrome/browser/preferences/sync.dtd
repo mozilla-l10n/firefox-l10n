@@ -33,3 +33,11 @@
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "સેવાની મર્યાદાઓ">
 <!ENTITY prefs.ppLink.label         "ખાનગી પોલિસી">
+
+<!ENTITY changePassword2.label        "પાસવર્ડ બદલો…">
+<!ENTITY engine.addons.label        "ઍડ-ઓન">
+<!ENTITY engine.addons.accesskey    "A">
+<!ENTITY myRecoveryKey.label          "મારી પુનઃપ્રાપ્તિ ચાવી">
+<!ENTITY pairDevice.label             "ઉપકરણ જોડો">
+<!ENTITY resetSync2.label             "સુમેળ પુનઃસુયોજીત કરો…">
+<!ENTITY unlinkDevice.label           "આ ઉપકરણની કડી તોડો">

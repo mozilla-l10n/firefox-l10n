@@ -141,3 +141,10 @@
 <!ENTITY search.in.label                           "માં શોધો:">
 <!ENTITY view.accesskey           "w">
 <!ENTITY view.label               "દૃશ્ય">
+
+<!ENTITY importBookmarksFromHTML.label     "HTML માંથી બુકમાર્કો આયાત કરો…">
+<!ENTITY importBookmarksFromHTML.accesskey "I">
+<!ENTITY exportBookmarksToHTML.label       "HTML માં બુકમાર્કોની નિકાસ કરો…">
+<!ENTITY exportBookmarksToHTML.accesskey   "E">
+<!ENTITY importOtherBrowser.label          "અન્ય બ્રાઉઝરમાંથી માહિતી આયાત કરો…">
+<!ENTITY importOtherBrowser.accesskey      "A">

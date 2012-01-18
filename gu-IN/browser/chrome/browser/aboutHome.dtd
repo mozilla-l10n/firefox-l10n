@@ -21,3 +21,6 @@
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "જે રીતે તમે ઇચ્છો છો તે રીતે જ તમારા Firefox ને વૈવિધ્યપૂર્ણ બનાવવાનું સરળ છે . <a>ઍડ-ઑનનાં હજારોમાંથી પસંદ કરો</a>.">
+
+<!ENTITY abouthome.syncSetup.label   "સુમેળ કરવાનું સુયોજીત કરો">
+<!ENTITY abouthome.pairDevice.label  "ઉપકરણ જોડો">

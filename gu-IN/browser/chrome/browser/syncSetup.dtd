@@ -2,7 +2,6 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "સ્વાગત છે, જો તમે કદી &syncBrand.fullName.label; ને ન વાપરેલ હોય તો પહેલાં, તમે નવા ખાતાને બનાવવાની જરૂર પડશે.">
 <!ENTITY button.createNewAccount.label "નવા ખાતાને બનાવો">
 
 
@@ -100,3 +99,22 @@
 <!ENTITY signIn.account2.label      "ખાતુ">
 <!ENTITY resetSyncKey.label           "મેં મારુ બીજુ ઉપકરણ ગુમાવ્યુ.">
 <!ENTITY syncGenerateNewKey.label  "નવી કીને ઉત્પન્ન કરો">
+
+<!ENTITY addDevice.dialog.recoveryKey.label     "તમારા ઉપકરણને સક્રિય કરવા માટે તમારે તમારી પુનઃપ્રાપ્તિ ચાવી દાખલ કરવી પડશે. મહેરબાની કરીને આ ચાવી છાપો અથવા સંગ્રહો અને તેને તમારી સાથે લઇ જાવ.">
+<!ENTITY button.haveAccount.label      "મારી પાસે ખાતું છે">
+<!ENTITY engine.addons.label        "ઍડ-ઓન">
+<!ENTITY engine.addons.accesskey    "A">
+<!ENTITY existingRecoveryKey.description "તમારા બીજા ઉપકરણના &syncBrand.shortName.label; વિકલ્પોમાં જઇને, અને &#x0022;ખાતાની વ્યવસ્થા&#x0022; હેઠળ &#x0022;મારી પુનઃપ્રાપ્તિ ચાવી&#x0022; પસંદ કરીને તમે તમારી પુનઃપ્રાપ્તિ ચાવીની નકલ મેળવી શકો છો.">
+<!ENTITY pairDevice.dialog.description.label "તમારું નવું ઉપકરણ સક્રિય કરવા માટે, ઉપકરણ પર &#x0022;સુમેળ સુયોજીત કરો&#x0022; પસંદ કરો.">
+<!ENTITY pairDevice.setup.description.label  "સક્રિય કરવા માટે, તમારા બીજા ઉપકરણ પર &#x0022;ઉપકરણ જોડો&#x0022; પસંદ કરો.">
+<!ENTITY pairDevice.title.label             "ઉપકરણ જોડો">
+<!ENTITY recoveryKeyBackup.description "બીજા મશીનો પર &syncBrand.fullName.label; વાપરવા માટે તમારી પુનઃપ્રાપ્તિ ચાવી જરૂરી છે. મહેરબાની કરીને બૅકઅપ નકલ બનાવો. અમે તમને તમારી પુનઃપ્રાપ્તિ ચાવી પાછી મેળવવામાં મદદ કરી શકીએ નહિં.">
+<!ENTITY recoveryKeyEntry.label        "તમારી પુનઃપ્રાપ્તિ ચાવી">
+<!ENTITY recoveryKeyEntry.accesskey    "K">
+<!ENTITY setup.choosePassword.label      "પાસવર્ડ પસંદ કરો">
+<!ENTITY setup.choosePassword.accesskey  "P">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; તમારી ખાનગી વિશે કાળજી રાખે છે">
+<!ENTITY setup.newRecoveryKeyPage.description.label "તમારા ખાનગીપણાની સંપૂર્ણ ખાતરી કરવા માટે, તમારી બધી માહિતી અપલોડ થાય તે પહેલાં એનક્રિપ્ટ થાય છે. પુનઃપ્રાપ્તિ ચાવી કે જે તમારી માહિતી ડિક્રિપ્ટ કરવા માટે જરૂરી છે તે અપલોડ કરવામાં આવતી નથી.">
+<!ENTITY setup.pickSetupType.description2 "તમારું સ્વાગત છે! જો તમે પહેલાં ક્યારેય &syncBrand.fullName.label; વાપર્યું નહિં હોય, તો તમારે નવું ખાતું બનાવવાની જરૂર રહેશે.">
+<!ENTITY signIn.recoveryKey.label       "પુનઃપ્રાપ્તિ ચાવી">
+<!ENTITY signIn.recoveryKey.accesskey   "K">
