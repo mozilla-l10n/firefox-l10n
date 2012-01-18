@@ -3,10 +3,10 @@
 
 <!ENTITY treehead.sitename.label      "Scîto">
 <!ENTITY treehead.status.label        "Stato">
-<!ENTITY removepermission.label       "Elìmina scîto">
-<!ENTITY removepermission.accesskey   "E">
-<!ENTITY removeallpermissions.label   "Elìmina tùtti i scîti">
-<!ENTITY removeallpermissions.accesskey "E">
+<!ENTITY removepermission.label       "Scancélla scîto">
+<!ENTITY removepermission.accesskey   "S">
+<!ENTITY removeallpermissions.label   "Scancélla tùtti i scîti">
+<!ENTITY removeallpermissions.accesskey "t">
 <!ENTITY address.label                "Indirìsso do scîto:">
 <!ENTITY address.accesskey            "d">
 <!ENTITY block.label                  "Blòcco">

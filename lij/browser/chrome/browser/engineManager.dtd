@@ -10,8 +10,8 @@
 <!ENTITY  up.accesskey              "M">
 <!ENTITY  dn.label                  "Mescia in zu">
 <!ENTITY  dn.accesskey              "M">
-<!ENTITY  remove.label              "Elìmina">
-<!ENTITY  remove.accesskey          "E">
+<!ENTITY  remove.label              "Scancélla">
+<!ENTITY  remove.accesskey          "S">
 <!ENTITY  edit.label                "Càngia tastêa…">
 <!ENTITY  edit.accesskey            "t">
 

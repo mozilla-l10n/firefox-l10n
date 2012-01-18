@@ -51,9 +51,9 @@
 <!ENTITY devmgr.button.logout.accesskey         "o">
 <!ENTITY devmgr.button.changepw.label           "Càngia paròlla segrétta">
 <!ENTITY devmgr.button.changepw.accesskey       "p">
-<!ENTITY devmgr.button.load.label               "Carego">
+<!ENTITY devmgr.button.load.label               "Càrego">
 <!ENTITY devmgr.button.load.accesskey           "C">
-<!ENTITY devmgr.button.unload.label             "Descarego">
+<!ENTITY devmgr.button.unload.label             "Descàrego">
 <!ENTITY devmgr.button.unload.accesskey         "D">
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
@@ -66,5 +66,5 @@
 <!ENTITY loaddevice.browse                      "Çerca…">
 <!ENTITY loaddevice.browse.accesskey            "e">
 
-<!ENTITY loaddevice.title                       "Carego PKCS#11 Device">
+<!ENTITY loaddevice.title                       "Càrego PKCS#11 Device">
 

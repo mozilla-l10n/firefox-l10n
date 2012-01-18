@@ -42,7 +42,7 @@
 <!ENTITY setPassword.newPassword.label "Nêuva paròlla segrétta:">
 <!ENTITY setPassword.reenterPassword.label "Nêuva paròlla segrétta (ancón):">
 <!ENTITY setPassword.meter.label "Qualitæ da paròlla segrétta">
-<!ENTITY setPassword.meter.loading "Caregando">
+<!ENTITY setPassword.meter.loading "Càrego">
 
 <!-- Values for resetpassword.xul -->
 <!ENTITY resetPasswordButtonLabel "Reinpòsta">

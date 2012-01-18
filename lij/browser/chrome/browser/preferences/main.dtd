@@ -1,12 +1,12 @@
 <!ENTITY startup.label             "Inìçio">
 
-<!ENTITY startupPage.label         "Quàndo &brandShortName; inìçia:">
+<!ENTITY startupPage.label         "Quàndo &brandShortName; o l'inìçia:">
 <!ENTITY startupPage.accesskey     "Q">
 <!ENTITY startupHomePage.label     "Fànni védde a mæ pàgina iniçiâ">
 <!ENTITY startupBlankPage.label    "Fànni védde 'na pàgina giànca">
 <!ENTITY startupLastSession.label  "Fànni védde i mæ barcoìn e féuggi avèrti l'ùrtima vòtta">
-<!ENTITY restoreOnDemand.label     "No caregâ e pàgine finché son seleçionæ">
-<!ENTITY restoreOnDemand.accesskey "l">
+<!ENTITY restoreOnDemand.label     "No caregâ e pàgine fintànto che son seleçionæ">
+<!ENTITY restoreOnDemand.accesskey "N">
 
 <!ENTITY homepage.label            "Pàgina iniçiâ:">
 <!ENTITY homepage.accesskey        "P">

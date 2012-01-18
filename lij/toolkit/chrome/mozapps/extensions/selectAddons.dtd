@@ -7,7 +7,7 @@
 <!-- LOCALIZATION NOTE (select.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
 <!ENTITY select.description          "Fànni anâ o &brandShortName; ancón ciù ràpido dizabilitàndo i conponénti azónti che ti no dêuvi ciù. I conponénti azónti za instalæ da tèrçe pàrti saiân dizabilitæ aotomàticamente finché no i seleçionn-i chi sótta.">
-<!ENTITY select.keep                 "Tegni">
+<!ENTITY select.keep                 "Tégni">
 <!-- LOCALIZATION NOTE (select.keep.style): Should be a width wide enough for
      the string in select.keep above. -->
 <!ENTITY select.keep.style           "width: 6ch;">

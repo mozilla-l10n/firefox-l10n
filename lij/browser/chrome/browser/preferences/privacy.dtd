@@ -22,7 +22,7 @@
 <!ENTITY  acceptThirdParty.label        "açetta i cookie de terçe parti">
 <!ENTITY  acceptThirdParty.accesskey    "c">
 
-<!ENTITY  keepUntil.label               "Mantegni fin a:">
+<!ENTITY  keepUntil.label               "Mantégni fìn a che:">
 <!ENTITY  keepUntil.accesskey           "M">
 
 <!ENTITY  expire.label                  "scàzzan">
@@ -64,7 +64,7 @@
 <!ENTITY  privateBrowsingPermanent2.label "Dêuvia de lóngo o mòddo de navegaçión privòu">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
-<!ENTITY  rememberHistory.label      "Aregòrdate da mæ stöia de navegaçión">
+<!ENTITY  rememberHistory.label      "Aregòrda da mæ stöia de navegaçión">
 <!ENTITY  rememberHistory.accesskey  "A">
 
 <!ENTITY  rememberDownload.label         "Aregòrda a stöia di descaregaménti">

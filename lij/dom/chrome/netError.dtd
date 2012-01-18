@@ -13,7 +13,7 @@
 <!ENTITY dnsNotFound.longDesc "<p>O navegatô no trêuva o server pe l'indirìsso che t'æ scrîto.</p><ul><li>T'æ miga fæto 'n erô a scrîve? (ez. <q><strong>ww</strong>.mozilla.org</q> invêce de <q><strong>www</strong>.mozilla.org</q>)</li><li>T'ê segûo che l'indirìsso o l'exìsta?  Fòscia l'indirìsso o l'é scæito.</li><li>Ti no riêsci a navegâ inti âtri scîti?  Contròlla a teu conesción e o teu DNS.</li><li>O teu computer o l'é mîga protétto da 'n firewall ò proxy?  Se ti gh'æ 'na inpostaçión sbaliâ ti no peu navegâ.</li></ul>">
 
 <!ENTITY fileNotFound.title "File no trovòu">
-<!ENTITY fileNotFound.longDesc "<ul><li>Peu êse che l'ògétto l'é stæto rinominòu, eliminòu ò mesciòu?</li><li>Gh'é quàrche erô into l'indirìsso?</li><li>Ti gh'é i pérmissi pe acêde a l'ògétto?</li></ul>">
+<!ENTITY fileNotFound.longDesc "<ul><li>Peu êse che l'ògétto l'é stæto rinominòu, scancelòu ò mesciòu?</li><li>Gh'é quàrche erô into l'indirìsso?</li><li>Ti gh'é i pérmissi pe acêde a l'ògétto?</li></ul>">
 
 <!ENTITY generic.title "No riêscio a finî a domanda">
 <!ENTITY generic.longDesc "<p>No gh'é son âtre informaçioìn in sciô problêma.</p>">

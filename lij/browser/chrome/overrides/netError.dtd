@@ -24,7 +24,7 @@
 ">
 
 <!ENTITY fileNotFound.title "File no trovòu">
-<!ENTITY fileNotFound.longDesc "<ul><li>Peu êse che l'ògétto l'é stæto rinominòu, eliminòu ò mesciòu?</li><li>Gh'é quàrche erô into l'indirìsso?</li><li>Ti gh'é i pérmissi pe acêde a l'ògétto?</li></ul>">
+<!ENTITY fileNotFound.longDesc "<ul><li>Peu êse che l'ògétto l'é stæto rinominòu, scancelòu ò mesciòu?</li><li>Gh'é quàrche erô into l'indirìsso?</li><li>Ti gh'é i pérmissi pe acêde a l'ògétto?</li></ul>">
 
 
 <!ENTITY generic.title "No riêscio a finî a domanda">

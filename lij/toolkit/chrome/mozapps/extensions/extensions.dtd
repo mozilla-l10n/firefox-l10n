@@ -90,8 +90,8 @@
 <!ENTITY cmd.disableTheme.accesskey           "L">
 <!ENTITY cmd.installAddon.label               "Instàlla">
 <!ENTITY cmd.installAddon.accesskey           "I">
-<!ENTITY cmd.uninstallAddon.label             "Elìmina">
-<!ENTITY cmd.uninstallAddon.accesskey         "E">
+<!ENTITY cmd.uninstallAddon.label             "Scancélla">
+<!ENTITY cmd.uninstallAddon.accesskey         "S">
 <!ENTITY cmd.showPreferencesWin.label         "Inpostaçioìn">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Cangia e preferençe de sto conponénte azónto">
 <!ENTITY cmd.showPreferencesUnix.label        "Preferense">
@@ -186,7 +186,7 @@
 <!ENTITY addon.undoAction.label               "Anùlla">
 <!ENTITY addon.undoAction.tooltip             "Anùlla sta açión">
 <!ENTITY addon.undoRemove.label               "Anùlla">
-<!ENTITY addon.undoRemove.tooltip             "Mantegni sto conponénte azónto instalòu">
+<!ENTITY addon.undoRemove.tooltip             "Mantégni sto conponénte azónto instalòu">
 <!ENTITY addon.restartNow.label               "Àrvi tórna òua">
 <!ENTITY addon.install.label                  "Instàlla">
 <!ENTITY addon.install.tooltip                "Instàlla sto conponénte azónto">
