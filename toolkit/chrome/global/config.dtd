@@ -43,9 +43,9 @@
 <!ENTITY aboutWarningButton.label "Tha mi a' toirt gealladh gum bi mi faiceallach!">
 <!ENTITY aboutWarningCheckbox.label "Seall an rabhadh seo an ath-thuras">
 
-<!ENTITY filterPrefs.label "Criathrag:">
-<!ENTITY filterPrefs.accesskey "C">
-<!ENTITY focusFilter.key "f">
+<!ENTITY searchPrefs.label "Lorg:">
+<!ENTITY searchPrefs.accesskey "r">
+<!ENTITY focusSearch.key "r">
 <!-- Columns -->
 
 <!ENTITY prefColumn.label "Ainm na roghainn">

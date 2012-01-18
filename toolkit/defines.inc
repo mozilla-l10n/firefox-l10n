@@ -1,1 +1,1 @@
-#define MOZ_LANG_TITLE Scottish Gaelic
+#define MOZ_LANG_TITLE Gàidhlig

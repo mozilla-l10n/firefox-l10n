@@ -2,7 +2,7 @@
 <!-- First page of the wizard -->
 
 
-<!ENTITY setup.pickSetupType.description "Fàilte ort! Mur eil thu air &syncBrand.fullName.label; a chleachdadh roimhe, bidh agad ri cunntas ùr a chruthachadh.">
+<!ENTITY setup.pickSetupType.description2 "Fàilte ort! Mur eil thu air &syncBrand.fullName.label; a chleachdadh roimhe, bidh agad ri cunntas ùr a chruthachadh.">
 <!ENTITY button.createNewAccount.label "Cruthaich cunntas ùr">
 <!ENTITY button.haveAccount.label      "Tha cunntas agam">
 
@@ -88,6 +88,8 @@
 <!ENTITY engine.passwords.accesskey "n">
 <!ENTITY engine.prefs.label         "na roghainnean agam">
 <!ENTITY engine.prefs.accesskey     "n">
+<!ENTITY engine.addons.label        "Tuilleadain">
+<!ENTITY engine.addons.accesskey    "a">
 
 <!ENTITY choice2.merge.main.label      "Co-mheasgaich dàta a' choimpiutair seo leis an dàta &syncBrand.shortName.label; agam">
 <!ENTITY choice2.merge.recommended.label "Air a mholadh:">

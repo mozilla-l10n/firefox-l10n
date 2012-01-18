@@ -24,7 +24,7 @@
 
 <!ENTITY systemDefaults.label            "Roghainnean bunaiteach an t-siostaim">
 <!--XXX-->
-<!ENTITY alwaysCheckDefault.label        "Bheir &brandShortName; sùil an e e fhèin do roghainn brabhsair gach turas a thòiseachas e">
+<!ENTITY alwaysCheckDefault.label        "Bheir &brandShortName; sùil an e e fhèin do roghainn brabhsair gach turas a thòisicheas e">
 <!ENTITY alwaysCheckDefault.accesskey    "B">
 <!ENTITY checkNow.label                  "Thoir sùil an-dràsta">
 <!ENTITY checkNow.accesskey              "n">
@@ -41,7 +41,9 @@
 <!ENTITY connectionSettings.label        "Roghainnean…">
 <!ENTITY connectionSettings.accesskey    "e">
 
-<!ENTITY offlineStorage.label            "Stòras far loidhne">
+<!ENTITY httpCache.label                 "Susbaint-lìn san tasglann">
+
+<!ENTITY offlineStorage2.label           "Susbaint-lìn is dàta cleachdaiche far loidhne">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -54,6 +56,8 @@
 <!ENTITY limitCacheSizeAfter.label       "MB a dh'àite">
 <!ENTITY clearCacheNow.label             "Falmhaich e an-dràsta">
 <!ENTITY clearCacheNow.accesskey         "c">
+<!ENTITY clearOfflineAppCacheNow.label   "Falmhaich an-dràsta">
+<!ENTITY clearOfflineAppCacheNow.accesskey "c">
 <!ENTITY overrideSmartCacheSize.label    "Leig seachad stiùireadh fèin-obrachail an tasgadain">
 <!ENTITY overrideSmartCacheSize.accesskey "o">
 
@@ -77,8 +81,6 @@
 <!ENTITY useService.accesskey            "C">
 
 <!ENTITY updateOthers.label              "Ùraich gu fèin-obrachail:">
-<!ENTITY enableAddonsUpdate3.label       "Tuilleadain">
-<!ENTITY enableAddonsUpdate3.accesskey   "n">
 <!ENTITY enableSearchUpdate.label        "Einnseanan-luirg">
 <!ENTITY enableSearchUpdate.accesskey    "E">
 
@@ -87,7 +89,7 @@
 <!ENTITY offlineNotifyExceptions.label   "Eisgeachdan…">
 <!ENTITY offlineNotifyExceptions.accesskey "E">
 
-<!ENTITY offlineAppsList.label           "Stòir na làraichean-lìn a leanas dàta a chum cleachdaidh far loidhne:">
+<!ENTITY offlineAppsList2.label          "Tha cead aig na làraichean-lìn a leanas dàta a stòradh a chum cleachdaidh far loidhne:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Thoir air falbh…">
 <!ENTITY offlineAppsListRemove.accesskey "r">
