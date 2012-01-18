@@ -53,8 +53,8 @@
 <!ENTITY loginAtStartup.label "Provjeri dostupnost novih poruka pri pokretanju">
 <!ENTITY loginAtStartup.accesskey "j">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
-    maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-   of messages between them
+     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
+     of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Upitaj me prije preuzimanja više od">
 <!ENTITY maxMessagesStart.accesskey "m">

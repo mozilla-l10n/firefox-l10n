@@ -5,9 +5,9 @@
 
 <!-- Entities for Account Type page -->
 
-<!ENTITY accountSetupInfo.label "Da biste primali poruke, prvo morate postaviti račun e-pošte ili interesnih grupa.">
+<!ENTITY accountSetupInfo2.label "Da biste primali poruke, prvo morate postaviti račun.">
 <!ENTITY accountTypeTitle.label "Postavljanje novog računa">
-<!ENTITY accountTypeDesc.label "Ovaj čarobnjak će prikupiti informacije potrebne za postavljanje računa e-pošte ili interesnih grupa. Ukoliko ne znate tražene informacije, kontaktirajte svojeg sistem administratora ili pružatelja usluge.">
+<!ENTITY accountTypeDesc2.label "Ovaj čarobnjak će prikupiti informacije potrebne za postavljanje računa. Ukoliko ne znate tražene informacije, kontaktirajte svojeg sistem administratora ili pružatelja usluge.">
 <!ENTITY accountTypeDirections.label "Odaberite vrstu računa kojeg želite postaviti:">
 <!ENTITY accountTypeMail.label "Račun e-pošte">
 <!ENTITY accountTypeMail.accesskey "e">

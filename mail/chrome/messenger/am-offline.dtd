@@ -7,7 +7,7 @@
 <!ENTITY offlineNotDownload.accesskey "P">
 <!ENTITY autosyncNotDownload.label "Ne preuzimaj poruke veće od">
 <!ENTITY autosyncNotDownload.accesskey "m">
-<!ENTITY kb.label "KB">
+<!ENTITY kb.label "kB">
 <!ENTITY daysOld.label "dana">
 <!ENTITY message.label "najnovijih poruka">
 <!ENTITY nntpNotDownloadRead.label "Pročitane poruke">

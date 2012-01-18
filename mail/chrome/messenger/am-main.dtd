@@ -11,6 +11,7 @@
 <!ENTITY email.accesskey "e">
 <!ENTITY replyTo.label "Adresa za odgovor:">
 <!ENTITY replyTo.accesskey "s">
+<!ENTITY replyTo.placeholder "Primatelji će odgovarati na ovu adresu">
 <!ENTITY organization.label "Organizacija:">
 <!ENTITY organization.accesskey "O">
 <!ENTITY signatureText.label "Tekst potpisa:">
