@@ -1,4 +1,3 @@
-<!ENTITY messengerWindow.title "Pošta i interesne grupe">
 <!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
@@ -588,8 +587,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextMarkMailFolderRead.accesskey "z">
 <!ENTITY folderContextSubscribe.label "Pretplati se…">
 <!ENTITY folderContextSubscribe.accesskey "e">
-<!ENTITY folderContextSearchMessages.label "Traži…">
-<!ENTITY folderContextSearchMessages.accesskey "T">
+<!ENTITY folderContextSearchForMessages.label "Pretraži poruke…">
+<!ENTITY folderContextSearchForMessages.accesskey "p">
 <!ENTITY folderContextProperties.label "Postavke…">
 <!ENTITY folderContextProperties.accesskey "P">
 <!ENTITY folderContextFavoriteFolder.label "Omiljena mapa">
