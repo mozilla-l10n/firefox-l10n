@@ -44,10 +44,10 @@
 <!ENTITY pref_clear_history_confirm "El historial de navegación será eliminado">
 <!ENTITY pref_clear_private_data "Limpiar datos privados">
 <!ENTITY pref_clear_private_data_confirm "La configuración de navegación, incluyendo contraseñas y cookies, serán eliminadas">
-<!ENTITY pref_enable_plugins "Activar plugins">
-<!ENTITY pref_enable_plugins_yes "Sí">
-<!ENTITY pref_enable_plugins_tap_to_play "Pulsar para reproducir">
-<!ENTITY pref_enable_plugins_no "No">
+<!ENTITY pref_plugins "Plugins">
+<!ENTITY pref_plugins_enabled "Activados">
+<!ENTITY pref_plugins_tap_to_play "Pulsar para activar">
+<!ENTITY pref_plugins_disabled "Desactivados">
 <!ENTITY pref_font_size "Tamaño de fuente">
 <!ENTITY pref_font_size_small "Pequeña">
 <!ENTITY pref_font_size_medium "Mediana">
