@@ -41,7 +41,9 @@
 <!ENTITY connectionSettings.label        "Teelte…">
 <!ENTITY connectionSettings.accesskey    "e">
 
-<!ENTITY offlineStorage.label            "Mooftugol Ceŋtol">
+<!ENTITY httpCache.label                 "Loowdi Geese Kaasaandi">
+
+<!ENTITY offlineStorage2.label           "Loowdi Geese Ceŋtol e Keɓe Kuutoro">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -54,6 +56,8 @@
 <!ENTITY limitCacheSizeAfter.label       "MB boowal mbeɗu">
 <!ENTITY clearCacheNow.label             "Momtu Jooni">
 <!ENTITY clearCacheNow.accesskey         "M">
+<!ENTITY clearOfflineAppCacheNow.label   "Momtu Jooni">
+<!ENTITY clearOfflineAppCacheNow.accesskey "J">
 <!ENTITY overrideSmartCacheSize.label    "Fawtoro toppitagol kaasol jaajol">
 <!ENTITY overrideSmartCacheSize.accesskey "F">
 
@@ -77,8 +81,6 @@
 <!ENTITY useService.accesskey            "c">
 
 <!ENTITY updateOthers.label              "Yesɗitin e jaajol:">
-<!ENTITY enableAddonsUpdate3.label       "Ɓeyditte">
-<!ENTITY enableAddonsUpdate3.accesskey   "t">
 <!ENTITY enableSearchUpdate.label        "Jiilorɗe">
 <!ENTITY enableSearchUpdate.accesskey    "o">
 
@@ -87,7 +89,7 @@
 <!ENTITY offlineNotifyExceptions.label   "Paltooje…">
 <!ENTITY offlineNotifyExceptions.accesskey "l">
 
-<!ENTITY offlineAppsList.label           "Ɗee-ɗoo lowe mooftii keɓe ngam huutoreede e ceŋtol:">
+<!ENTITY offlineAppsList2.label          "Ɗee-ɗoo lowe ena njamiraa mooftude keɓe ngam huutoreede e ceŋtol:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Ittu…">
 <!ENTITY offlineAppsListRemove.accesskey "I">

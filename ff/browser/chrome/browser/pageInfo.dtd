@@ -97,7 +97,7 @@
 <!ENTITY  permPopup             "Uddit Kenorɗe Cuppitte">
 <!ENTITY  permCookie            "Teelto Kukiije">
 <!ENTITY  permInstall           "Loow Timmitte e Wutteeji">
-<!ENTITY  permGeo               "Wostondire Nokkuure">
+<!ENTITY  permGeo               "Simmin Nokkuure">
 
 <!ENTITY  permIndexedDB              "Duumnu Mooftol Ceŋtol">
 <!ENTITY  permClearStorage           "Momtu Mooftol">

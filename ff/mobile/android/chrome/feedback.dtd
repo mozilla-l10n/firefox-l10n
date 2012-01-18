@@ -1,0 +1,11 @@
+<!ENTITY feedbackHeader2.label          "Kuutorɗe Duttinal">
+
+<!ENTITY feedback.communicate.title     "Humpit min!">
+<!ENTITY feedback.feedback.title        "Hokku duttinal">
+<!ENTITY feedback.feedback.good         "Moƴƴii">
+<!ENTITY feedback.feedback.bad          "Moƴƴaani">
+
+<!ENTITY feedback.tools.title           "Kuutorɗe">
+<!ENTITY feedback.allowTelemetry.title  "Neldu keɓe moƴƴugol">
+<!ENTITY feedback.forceCompat.title     "Forsu jaaɓdugol ɓeyditte">
+<!ENTITY feedback.errorConsole.title    "Daaƴtu Ginorde Juume">

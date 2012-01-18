@@ -217,8 +217,17 @@ can reach it easily. -->
 <!ENTITY inspectButton.label            "Yuurnito">
 <!ENTITY inspectButton.accesskey        "Y">
 <!ENTITY inspectCloseButton.tooltiptext "Uddu Ƴeewtorde">
+<!ENTITY inspect3DButton.label        "3D">
+<!ENTITY inspect3DButton.accesskey    "M">
 <!ENTITY inspectStyleButton.label     "Pannol">
 <!ENTITY inspectStyleButton.accesskey "P">
+<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
+  -  in the Tools menu. -->
+
+<!ENTITY styleeditor.label            "Taƴtorde Panni">
+<!ENTITY styleeditor.accesskey        "t">
+<!ENTITY styleeditor.keycode          "VK_F7">
+<!ENTITY styleeditor.keytext          "F7">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Heɓ Kuutorɗe Goɗɗe">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "K">
@@ -421,15 +430,24 @@ can reach it easily. -->
 <!ENTITY thisFrameMenu.label              "Ngol Kaarewol">
 <!ENTITY thisFrameMenu.accesskey          "o">
 <!-- Media (video/audio) controls -->
+<!-- LOCALIZATION NOTE: The access keys for "Play" and
+"Pause" are the same because the two context-menu
+items are mutually exclusive. -->
 
 <!ENTITY mediaPlay.label             "Tar">
 <!ENTITY mediaPlay.accesskey         "T">
 <!ENTITY mediaPause.label            "Sabbo">
 <!ENTITY mediaPause.accesskey        "S">
+<!-- LOCALIZATION NOTE: The access keys for "Mute" and
+"Unmute" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Muumɗin">
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "Ittu muumɗinal">
 <!ENTITY mediaUnmute.accesskey       "I">
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "Hollir Ɗowirɗe">
 <!ENTITY mediaShowControls.accesskey "Ɗ">
 <!ENTITY mediaHideControls.label     "Suuɗ Ɗowirɗe">
@@ -438,6 +456,9 @@ can reach it easily. -->
 <!ENTITY videoFullScreen.accesskey   "N">
 <!ENTITY videoSaveImage.label        "Danndu Tummbitol e Innde…">
 <!ENTITY videoSaveImage.accesskey    "D">
+<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
+"Hide Statistics" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY videoShowStats.label        "Hollu limlimtooje">
 <!ENTITY videoShowStats.accesskey    "t">
 <!ENTITY videoHideStats.label        "Suuɗ limlimtooje">
@@ -559,7 +580,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY allTabs.filter.emptyText "Tabbe Jiilogol">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
-<!ENTITY tabsToolbar.label "Tabbe Waŋngorde">
+<!ENTITY tabsToolbar.label "Tabbe waŋngorde">
 <!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
 
 <!ENTITY syncTabsMenu.label     "Tabbe Ummiiɗe e Ordinateeruuji Goɗɗi">

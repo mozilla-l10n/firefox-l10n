@@ -1,0 +1,24 @@
+<!ENTITY prefsHeader.label                         "Cuɓoraaɗe">
+<!ENTITY about.title                               "Baɗte &brandShortName;">
+<!ENTITY about.button                              "Yah to Hello">
+<!ENTITY content.title                             "Loowdi">
+<!ENTITY reflowZoom.title                          "Waylit binndo so lonngaama">
+<!ENTITY showImages.title                          "Hollu nate">
+<!ENTITY enableJavaScript.title                    "Daaƴtu JavaScript">
+<!ENTITY privacy.title                             "Suturo &amp; Kisal">
+<!ENTITY allowCookies.title                        "Yamir kukiije">
+<!ENTITY doNotTrack.title                          "Haalan lowe mi yiɗaa rewindeede">
+<!ENTITY masterPassword.title                      "Huutoro finnde baabaare">
+<!ENTITY clearPrivateData2.title                   "Momtu keɓe sirluuje">
+<!ENTITY clearPrivateData.button                   "Momtu">
+<!ENTITY rememberPasswords.title                   "Siiftor finndeeji">
+<!ENTITY language.title                            "Ɗemngal">
+<!ENTITY language.auto                             "Ejto e jaajol">
+<!ENTITY defaultBrowser.title                      "Wanngorde Woowaande">
+<!ENTITY defaultBrowser.description                "Waɗ &brandShortName; wanngorde maa woowaande">
+<!ENTITY homepage.title                            "Hello jaɓɓorgo">
+<!ENTITY homepage.none                             "Hello Meho">
+<!ENTITY homepage.default                          "&brandShortName; Jaɓɓorgo">
+<!ENTITY homepage.currentpage                      "Huutoro Hello Wonaango">
+<!ENTITY showCharsetEncoding.title                 "Hollu dokkitannde binndol">
+<!ENTITY actionbar.default                         "Teelte &brandShortName;">

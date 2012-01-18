@@ -1,5 +1,5 @@
 <!ENTITY empty.label            "Yiylo">
-<!ENTITY newpref.label          "Add a New Preference">
+<!ENTITY newpref.label          "Ɓeydu Cuɓoraaɗe Kese">
 <!ENTITY addpref.name           "Innde">
 <!ENTITY addpref.value          "Kiisol">
 
@@ -7,6 +7,6 @@
 <!ENTITY reset.label            "Firlit">
 <!ENTITY done.label             "Gasii">
 
-<!ENTITY integer.label          "Integer">
-<!ENTITY string.label           "String">
-<!ENTITY boolean.label          "Boolean">
+<!ENTITY integer.label          "Timmunde">
+<!ENTITY string.label           "Ɓoggol">
+<!ENTITY boolean.label          "Buleaare">

@@ -1,12 +1,26 @@
 <!ENTITY aboutDialog.title          "Baɗte &brandFullName;">
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
-<!ENTITY community.start2           "&brandShortName; ŋeñtii ko">
+<!ENTITY warningDesc.version        "&brandShortName; ko ƴeewditorde tee ena waawi waasde yamɗude.">
+<!-- LOCALIZATION NOTE (warningDesc.telemetry): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetry      "Maa neldu humpito e jaajol to &vendorShortName; ngam wallude &brandShortName; ɓeydaade moƴƴude.">
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+
+<!ENTITY community.exp.start        "">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+<!ENTITY community.exp.middle       " ko ">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "renndo huuɓngo">
+<!ENTITY community.exp.end          " gollotoongo ngam Geese ɓeydoo udditaade, tawaa ko nafoore winndere fof.">
+
+<!ENTITY community.start2           "&brandShortName; ŋeñtii ɗum ko ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", ko ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "renndo huuɓngo">
-<!ENTITY community.end2             " ena liggodoo ngam ɓeydude Enternet yuɓɓude. Amin ngoongɗini Enternet foti ko udditaade, renndee, tawa ena heɓoo yimɓe kala ko aldaa e paltoor.">
+<!ENTITY community.end3             " gollotoongo ngam Geese ɓeydoo udditaade, tawaa ko nafoore winndere fof.">
 
 <!ENTITY contribute.start           "Ena henanimaa?">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
@@ -23,7 +37,7 @@
 <!ENTITY bottomLinks.privacy        "Dawirgol Suturo">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.checkingForUpdates  "Nana yiyloo kesɗitine...">
+<!ENTITY update.checkingForUpdates  "Nana yiyloo kesɗitine…">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingAddonCompat "Nana ƴeewtoo jaaɓondiral ɓeyditte...">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
@@ -36,7 +50,7 @@
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.failed.start        "Kesɗitinal woorii.">
+<!ENTITY update.failed.start        "Kesɗitinal woorii. ">
 <!ENTITY update.failed.linkText     "Aawto yamre sakkitiinde">
 <!ENTITY update.failed.end          "">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
@@ -59,4 +73,4 @@
      example: You are currently on the _Stable_ update channel. -->
 
 <!ENTITY channel.description.start  "Ngon-ɗaa jooni ko e ">
-<!ENTITY channel.description.end    " calol kesɗitingol.">
+<!ENTITY channel.description.end    " calol kesɗitingol. ">

@@ -1,0 +1,97 @@
+
+<!ENTITY  splash_firstrun "Teeltagol &brandShortName;\u2026">
+
+<!ENTITY  no_space_to_start_error "Boowal mbeɗu ena ŋakki ngam &brandShortName; waawa hurmude.">
+<!ENTITY  error_loading_file "Juumre waɗii tuma nde piille coklaaɗe etaa looweede ngam hurminde &brandShortName;">
+
+<!ENTITY  awesomebar_all_pages_title "Lowe Dowrowe">
+<!ENTITY  awesomebar_bookmarks_title "Maantore">
+<!ENTITY  awesomebar_history_title "Aslol">
+<!ENTITY  awesomebar_search_engine "Yiylo \&quot;&#037;s\&quot;">
+
+<!ENTITY  crash_reporter_title "Jaŋtorde Kooke &brandShortName;">
+<!ENTITY  crash_message "&brandShortName; hookii. Tabbe maa fof maa kollire e Jaɓɓorgo &brandShortName; tuma nde hurmitinaa.">
+<!ENTITY  crash_help_message "Tiiɗno wallu-min ñawndude ɗee caɗe!">
+<!ENTITY  crash_send_report_message "Neldu jaŋtol hookre to Mozilla">
+<!ENTITY  crash_include_url "Waɗdu heen ñiiɓirde hello">
+<!ENTITY  crash_close_label "Uddu">
+<!ENTITY  crash_restart_label "Hurmitin &brandShortName;">
+<!ENTITY  sending_crash_report "Nana nelda jaŋtol hookre\u2026">
+<!ENTITY  exit_label "Yaltu">
+<!ENTITY  continue_label "Jokku">
+
+<!ENTITY  launcher_shortcuts_title "Jaaɓirɗe Geese &brandShortName;">
+<!ENTITY  launcher_shortcuts_empty "Alaa jaaɓirɗe geese njiytaa">
+
+<!ENTITY choose_file "Labo Fiilde">
+
+<!ENTITY awesomebar_default_text "Naatnu Njiilaw walla Ñiiɓirde">
+
+<!ENTITY bookmarks_title "Maantore">
+<!ENTITY bookmark_add "Maantorol">
+<!ENTITY bookmark_remove "Momtu">
+<!ENTITY bookmark_added "Maantorol ɓeydaama">
+<!ENTITY bookmark_removed "Maantorol omtaama">
+
+<!ENTITY history_today_section "Hannde">
+<!ENTITY history_yesterday_section "Haŋki">
+<!ENTITY history_week_section "Waɗii balɗe 7">
+<!ENTITY history_older_section "Hecci balɗe 7">
+
+<!ENTITY reload "Hesɗitin">
+<!ENTITY forward "Yeeso">
+
+<!ENTITY new_tab "Tabbere Hesere">
+
+<!ENTITY settings "Teelte">
+<!ENTITY settings_title "Teelte">
+<!ENTITY pref_category_general "Kuuɓal">
+<!ENTITY pref_category_privacy "Suturo &amp; Kisal">
+<!ENTITY pref_category_content "Loowdi">
+<!ENTITY pref_about_firefox "Baɗte &brandShortName;">
+<!ENTITY pref_do_not_track "Haalan lowe mi yiɗaa rewindeede">
+<!ENTITY pref_telemetry "Neldu keɓe moƴƴugol">
+<!ENTITY pref_remember_signons "Siiftor finndeeji">
+<!ENTITY pref_cookies "Daaƴtu kukiije">
+<!ENTITY pref_char_encoding "Hollu dokkitannde binndol">
+<!ENTITY pref_clear_history "Momtu aslol">
+<!ENTITY pref_clear_history_confirm "Aslol banngagol maa momte">
+<!ENTITY pref_clear_private_data "Momtu keɓe sirluuje">
+<!ENTITY pref_clear_private_data_confirm "Teelte banngagol, yantude e finndeeji e kukiije, maa momte">
+<!ENTITY pref_enable_plugins "Daaƴtu ceŋe">
+<!ENTITY pref_enable_plugins_yes "Eey">
+<!ENTITY pref_enable_plugins_tap_to_play "Fiy ngam tarde">
+<!ENTITY pref_enable_plugins_no "Alaa">
+<!ENTITY pref_font_size "Ɓetol fontere">
+<!ENTITY pref_font_size_small "Tokoosere">
+<!ENTITY pref_font_size_medium "Hakindiinde">
+<!ENTITY pref_font_size_large "Mawnde">
+<!ENTITY pref_font_size_xlarge "Mande Mande">
+<!ENTITY pref_use_master_password "Huutoro finnde baabaare">
+
+<!ENTITY quit "Yaltu">
+
+<!ENTITY addons "Ɓeyditte">
+<!ENTITY downloads "Gaawte">
+
+<!ENTITY share "Simmin">
+<!ENTITY save_as_pdf "Danndu e PDF">
+<!ENTITY agent_request_desktop "Ɗaɓɓit Lowre Biro">
+<!ENTITY agent_request_mobile "Ɗaɓɓit Lowre Cinndel">
+
+<!ENTITY contextmenu_open_new_tab "Uddit e Tabbere Hesere">
+<!ENTITY contextmenu_add_to_launcher "Ɓeydu to Hello Jaɓɓorgo">
+<!ENTITY contextmenu_share "Simmin">
+
+<!ENTITY site_settings_title        "Momtu Teelte Lowre">
+<!ENTITY site_settings_cancel       "Haaytu">
+<!ENTITY site_settings_clear        "Momtu">
+<!ENTITY site_settings_no_settings  "Teelte ngalaa saka momtee.">
+
+<!ENTITY masterpassword_create_title "Sos Finnde Baabaare">
+<!ENTITY masterpassword_remove_title "Momtu Finnde Baabaare">
+<!ENTITY masterpassword_password "Finnde">
+<!ENTITY masterpassword_confirm "Teeŋtin Finnde">
+
+<!ENTITY button_ok "OK">
+<!ENTITY button_cancel "Haaytu">

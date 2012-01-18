@@ -14,7 +14,7 @@
 # title for the folder that will contains the default bookmarks
 
 
-#define bookmarks_title Mobile
+#define bookmarks_title Cinndel
 
 
 
@@ -24,7 +24,7 @@
 # link title for about:fennec
 
 
-#define bookmarks_aboutBrowser Firefox: About your browser
+#define bookmarks_aboutBrowser Firefox: Baɗte wanngorde maa
 
 
 
@@ -34,7 +34,7 @@
 # link title for https://addons.mozilla.org/en-US/mobile
 
 
-#define bookmarks_addons Firefox: Customize with add-ons
+#define bookmarks_addons Firefox: Heertin huutoraade ɓeyditte
 
 
 
@@ -44,7 +44,7 @@
 # link title for https://support.mozilla.com/mobile
 
 
-#define bookmarks_support Firefox: Support
+#define bookmarks_support Firefox: Wallitorde
 
 
 
@@ -54,7 +54,7 @@
 # link title for about:home
 
 
-#define bookmarks_aboutHome Firefox Start
+#define bookmarks_aboutHome Fuɗɗorde Firefox
 
 
 

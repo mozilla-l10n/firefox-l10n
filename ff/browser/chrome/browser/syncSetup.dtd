@@ -2,7 +2,7 @@
 <!-- First page of the wizard -->
 
 
-<!ENTITY setup.pickSetupType.description "A jaɓɓaama, so a meeɗaa huutoraade &syncBrand.fullName.label;, aɗa sokli sosde konte kese.">
+<!ENTITY setup.pickSetupType.description2 "A jaɓɓaama! So a meeɗaa huutoraade &syncBrand.fullName.label;, aɗa sokli sosde konte kese.">
 <!ENTITY button.createNewAccount.label "Sos Konte Kese">
 <!ENTITY button.haveAccount.label      "Miɗo jogii konte">
 
@@ -88,6 +88,8 @@
 <!ENTITY engine.passwords.accesskey "F">
 <!ENTITY engine.prefs.label         "Cuɓoraaɗe">
 <!ENTITY engine.prefs.accesskey     "e">
+<!ENTITY engine.addons.label        "Ɓeyditte">
+<!ENTITY engine.addons.accesskey    "Ɓ">
 
 <!ENTITY choice2.merge.main.label      "Naattondir keɓe oo ordinateer e keɓe &syncBrand.shortName.label; am">
 <!ENTITY choice2.merge.recommended.label "Wasiyaaɗo:">

@@ -30,6 +30,8 @@
 <!ENTITY engine.passwords.accesskey "F">
 <!ENTITY engine.prefs.label         "Cuɓoraaɗe">
 <!ENTITY engine.prefs.accesskey     "e">
+<!ENTITY engine.addons.label        "Ɓeyditte">
+<!ENTITY engine.addons.accesskey    "Ɓ">
 <!-- Device Settings -->
 
 <!ENTITY syncComputerName.label       "Innde Ordinateer:">

@@ -59,11 +59,11 @@
 
 <!ENTITY loaddevice.info                        "Naatnu humpito wulnde nde njiɗ-ɗaa ɓeydude ndee.">
 <!ENTITY loaddevice.modname                     "Innde Wulnde:">
-<!ENTITY loaddevice.modname.accesskey           "M">
+<!ENTITY loaddevice.modname.accesskey           "I">
 <!ENTITY loaddevice.modname.default             "Wulnde PKCS#11 Hesere">
 <!ENTITY loaddevice.filename                    "Innde fiilde wulnde:">
 <!ENTITY loaddevice.filename.accesskey          "f">
 <!ENTITY loaddevice.browse                      "Weɗɗit…">
-<!ENTITY loaddevice.browse.accesskey            "B">
+<!ENTITY loaddevice.browse.accesskey            "W">
 
-<!ENTITY loaddevice.title                       "Load PKCS#11 Device">
+<!ENTITY loaddevice.title                       "Loow Kaɓirgol PKCS#11">

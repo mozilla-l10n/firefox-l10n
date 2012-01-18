@@ -1,21 +1,21 @@
 
-<!ENTITY  splash_firstrun "Setting up &brandShortName;\u2026">
+<!ENTITY  splash_firstrun "Teeltagol &brandShortName;\u2026">
 
-<!ENTITY  no_space_to_start_error "There is not enough space available for &brandShortName; to start.">
-<!ENTITY  error_loading_file "An error occurred when trying to load files required to run &brandShortName;">
+<!ENTITY  no_space_to_start_error "Boowal mbeɗu ena ŋakki ngam &brandShortName; waawa hurmude.">
+<!ENTITY  error_loading_file "Juumre waɗii tuma nde piille coklaaɗe etaa looweede ngam hurminde &brandShortName;">
 
-<!ENTITY  crash_reporter_title "&brandShortName; Crash Reporter">
-<!ENTITY  crash_message "&brandShortName; has crashed. Your tabs should be listed on the &brandShortName; Start page when you restart.">
-<!ENTITY  crash_help_message "Please help us fix this problem!">
-<!ENTITY  crash_send_report_message "Send Mozilla a crash report">
-<!ENTITY  crash_include_url "Include page address">
+<!ENTITY  crash_reporter_title "Jaŋtorde Kooke &brandShortName;">
+<!ENTITY  crash_message "&brandShortName; hookii. Tabbe maa fof maa kollire e Jaɓɓorgo &brandShortName; tuma nde hurmitinaa.">
+<!ENTITY  crash_help_message "Tiiɗno wallu-min ñawndude ɗee caɗe!">
+<!ENTITY  crash_send_report_message "Neldu jaŋtol hookre to Mozilla">
+<!ENTITY  crash_include_url "Waɗdu heen ñiiɓirde hello">
 <!ENTITY  crash_close_label "Uddu">
 <!ENTITY  crash_restart_label "Hurmitin &brandShortName;">
-<!ENTITY  sending_crash_report "Sending crash report\u2026">
+<!ENTITY  sending_crash_report "Nana nelda jaŋtol hookre\u2026">
 <!ENTITY  exit_label "Yaltu">
 <!ENTITY  continue_label "Jokku">
 
-<!ENTITY  launcher_shortcuts_title "&brandShortName; Web Apps">
-<!ENTITY  launcher_shortcuts_empty "No web apps were found">
+<!ENTITY  launcher_shortcuts_title "Jaaɓirɗe Geese &brandShortName;">
+<!ENTITY  launcher_shortcuts_empty "Alaa jaaɓirɗe geese njiytaa">
 
 <!ENTITY choose_file "Labo Fiilde">

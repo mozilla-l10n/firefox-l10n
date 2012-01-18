@@ -1,0 +1,12 @@
+<!ENTITY aboutPage.title                        "Baɗte &brandShortName;">
+<!ENTITY aboutPage.checkForUpdates.link         "Yuurno Kesɗitine »">
+<!ENTITY aboutPage.checkForUpdates.checking     "Nana yiyloo kesɗitine…">
+<!ENTITY aboutPage.checkForUpdates.none         "Alaa kesɗitine ngoodi">
+<!ENTITY aboutPage.checkForUpdates.found        "Keɗitinal ena woodi">
+<!ENTITY aboutPage.faq.label                    "FAQ">
+<!ENTITY aboutPage.support.label                "Wallitorde">
+<!ENTITY aboutPage.privacyPolicy.label          "Dawirgol Suturo">
+<!ENTITY aboutPage.rights.label                 "Anndu hakkeeji maa">
+<!ENTITY aboutPage.relNotes.label               "Konngol Bayyinal">
+<!ENTITY aboutPage.credits.label                "Wuneeji">
+<!ENTITY aboutPage.license.label                "Humpito Jamirol">

@@ -36,7 +36,7 @@
 <!ENTITY update.progress.label       "Nana aawtoo kadi loowa kesɗitine ɓeyditte maa ɗe labi-ɗaa.">
 
 <!ENTITY errors.heading              "&brandShortName; horiima hesɗitinde yoga e ɓeyditte maa.">
-<!ENTITY errors.description          "Loowgol kesɗitine e yoga e ɓeyditte woorii. Maa &brandShortName; eto hesɗitinde-ɗe ɗ jaajol ɗoo e yeeso.">
+<!ENTITY errors.description          "Loowgol kesɗitine e yoga e ɓeyditte woorii. &brandShortName; ma eto hesɗitinde-ɗe e jaajol ɗoo e yeeso.">
 
 <!ENTITY footer.label                "Aɗa waawi waylude ɓeyditte maa sahaa kala to Toppitorde Ɓeyditte toh.">
 <!ENTITY cancel.label                "Haaytu">

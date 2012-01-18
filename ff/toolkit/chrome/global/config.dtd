@@ -38,44 +38,44 @@
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
 
-<!ENTITY aboutWarningTitle.label "This might void your warranty!">
-<!ENTITY aboutWarningText.label "Changing these advanced settings can be harmful to the stability, security, and performance of this application. You should only continue if you are sure of what you are doing.">
-<!ENTITY aboutWarningButton.label "I'll be careful, I promise!">
-<!ENTITY aboutWarningCheckbox.label "Show this warning next time">
+<!ENTITY aboutWarningTitle.label "Ɗum ena waawi boynude gaaranti maa!">
+<!ENTITY aboutWarningText.label "Waylude ɗee teelte ceeɓtore ena waawi addude caɗeele jamɗugol, kisal e jaawgol ngal jaaɓnirgal. Pot-ɗaa jokkude tan ko so tawii aɗa yenanaa aɗa anndi ko mbaɗataa koo.">
+<!ENTITY aboutWarningButton.label "Ma mi reento, mi hokkii konngol am!">
+<!ENTITY aboutWarningCheckbox.label "Hollu ngoo reentino laawol garowol">
 
-<!ENTITY filterPrefs.label "Ceɗol.">
-<!ENTITY filterPrefs.accesskey "C">
-<!ENTITY focusFilter.key "f">
+<!ENTITY searchPrefs.label "Search:">
+<!ENTITY searchPrefs.accesskey "r">
+<!ENTITY focusSearch.key "r">
 <!-- Columns -->
 
-<!ENTITY prefColumn.label "Preference Name">
+<!ENTITY prefColumn.label "Innde Cuɓoraaɗe">
 <!ENTITY lockColumn.label "Ngonka">
 <!ENTITY typeColumn.label "Fannu">
 <!ENTITY valueColumn.label "Kiisol">
 <!-- Tooltips -->
 
-<!ENTITY prefColumnHeader.tooltip "Click to sort"> 
-<!ENTITY columnChooser.tooltip "Click to select columns to display"> 
+<!ENTITY prefColumnHeader.tooltip "Dobo ngam leemtaade"> 
+<!ENTITY columnChooser.tooltip "Dobo ngam labaade dati kollirteeɗi"> 
 <!-- Context Menu -->
 
-<!ENTITY copyPref.key "C">
+<!ENTITY copyPref.key "D">
 <!ENTITY copyPref.label "Natto">
 <!ENTITY copyPref.accesskey "N">
-<!ENTITY copyName.label "Copy Name">
-<!ENTITY copyName.accesskey "N">
-<!ENTITY copyValue.label "Copy Value">
-<!ENTITY copyValue.accesskey "V">
-<!ENTITY modify.label "Modify">
-<!ENTITY modify.accesskey "M">
-<!ENTITY toggle.label "Toggle">
+<!ENTITY copyName.label "Natto Innde">
+<!ENTITY copyName.accesskey "I">
+<!ENTITY copyValue.label "Natto Kiisol">
+<!ENTITY copyValue.accesskey "K">
+<!ENTITY modify.label "Waylu">
+<!ENTITY modify.accesskey "W">
+<!ENTITY toggle.label "Toggilo">
 <!ENTITY toggle.accesskey "T">
 <!ENTITY reset.label "Firlit">
 <!ENTITY reset.accesskey "F">
-<!ENTITY new.label "New">
-<!ENTITY new.accesskey "w">
-<!ENTITY string.label "String">
-<!ENTITY string.accesskey "S">
-<!ENTITY integer.label "Integer">
-<!ENTITY integer.accesskey "I">
-<!ENTITY boolean.label "Boolean">
+<!ENTITY new.label "Kesum">
+<!ENTITY new.accesskey "e">
+<!ENTITY string.label "Ɓoggol">
+<!ENTITY string.accesskey "o">
+<!ENTITY integer.label "Timmunde">
+<!ENTITY integer.accesskey "T">
+<!ENTITY boolean.label "Buleaare">
 <!ENTITY boolean.accesskey "B">
