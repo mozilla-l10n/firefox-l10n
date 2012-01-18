@@ -161,8 +161,8 @@
 <!ENTITY inspectButton.label "Analizza">
 <!ENTITY inspectButton.accesskey "A">
 <!ENTITY inspectCloseButton.tooltiptext "Chiudi lo strumento di analisi">
-<!ENTITY inspect3DButton.label "3D">
-<!ENTITY inspect3DButton.accesskey "3">
+<!ENTITY inspect3DViewButton.label "Vista 3D">
+<!ENTITY inspect3DViewButton.accesskey "V">
 <!ENTITY inspectStyleButton.label "Stile">
 <!ENTITY inspectStyleButton.accesskey "S">
 <!ENTITY styleeditor.label "Editor stili">
