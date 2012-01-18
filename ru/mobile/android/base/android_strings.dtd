@@ -48,7 +48,8 @@
 <!ENTITY pref_plugins_enabled "Включены">
 <!ENTITY pref_plugins_tap_to_play "По нажатию">
 <!ENTITY pref_plugins_disabled "Отключены">
-<!ENTITY pref_font_size "Размер шрифта">
+<!ENTITY pref_text_size "Размер шрифта">
+<!ENTITY pref_font_size_tiny "Крошечный">
 <!ENTITY pref_font_size_small "Маленький">
 <!ENTITY pref_font_size_medium "Средний">
 <!ENTITY pref_font_size_large "Большой">
@@ -73,3 +74,9 @@
 <!ENTITY masterpassword_confirm "Подтвердите пароль">
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Отмена">
+<!ENTITY abouthome_addons_title "Дополнения для вашего &brandShortName;">
+<!ENTITY abouthome_addons_browse "Обзор всех дополнений &brandShortName;">
+<!ENTITY abouthome_last_tabs_title "Вкладки открытые в прошлый раз">
+<!ENTITY abouthome_last_tabs_open "Открыть все вкладки с прошлого раза">
+<!ENTITY abouthome_top_sites_title "Топ сайтов">
+<!ENTITY abouthome_top_sites_browse "Просмотр вашего топа сайтов">
