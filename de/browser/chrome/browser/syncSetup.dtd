@@ -1,4 +1,5 @@
 <!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label;-Setup">
+<!ENTITY aboutHomeSyncSetup.label   "Sync einrichten">
 
 <!-- First page of the wizard -->
 
