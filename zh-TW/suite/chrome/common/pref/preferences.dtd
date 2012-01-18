@@ -36,5 +36,6 @@
 <!ENTITY policies.label "安全性原則">
 <!ENTITY mousewheel.label "滾輪滑鼠">
 <!ENTITY scriptsAndWindows.label "指令碼與外掛程式">
+<!ENTITY spellingPane.label  "拼字檢查">
 
 <!ENTITY focusSearch.key "f">

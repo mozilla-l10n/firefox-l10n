@@ -3,9 +3,9 @@
 <!ENTITY pref.mouseWheel.title           "滾輪滑鼠">
 <!ENTITY mouseWheelPanel.label           "選擇按下下列修飾鍵並滾動滑鼠滾輪時的行為: ">
 <!ENTITY usingJustTheWheel.label         "只滾動滾輪時">
-<!ENTITY usingWheelAndAlt.label          " &altKey.label; + 滾輪">
-<!ENTITY usingWheelAndCtrl.label         " &ctrlKey.label; + 滾輪">
-<!ENTITY usingWheelAndShft.label         " &shiftKey.label;  + 滾輪">
+<!ENTITY usingWheelAndAlt.label          "&altKey.label;">
+<!ENTITY usingWheelAndCtrl.label         "&ctrlKey.label;">
+<!ENTITY usingWheelAndShft.label         "&shiftKey.label;">
 <!ENTITY mousewheelGroup.label           "垂直捲動">
 <!ENTITY mousewheelHorizGroup.label      "橫向捲動">
 <!ENTITY scroll.label                    "滑鼠滾輪每次捲動 ">

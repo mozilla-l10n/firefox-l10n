@@ -58,15 +58,6 @@
 <!ENTITY wrapOutMsg.accesskey                 "W">
 <!ENTITY char.label                           "字元">
 
-<!ENTITY spellingHeader.label                 "拼字檢查">
-<!ENTITY spellCheck.label                     "寄送前先檢查拼字">
-<!ENTITY spellCheck.accesskey                 "C">
-<!ENTITY spellCheckInline.label               "打字時即時檢查拼字">
-<!ENTITY spellCheckInline.accesskey           "e">
-<!ENTITY languagePopup.label                  "語言:">
-<!ENTITY languagePopup.accessKey              "g">
-<!ENTITY moreDictionaries.label               "下載其它字典">
-
 <!ENTITY defaultMessagesHeader.label          "HTML 訊息預設值">
 <!ENTITY font.label                           "字型:">
 <!ENTITY font.accesskey                       "F">

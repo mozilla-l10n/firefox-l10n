@@ -6,7 +6,7 @@
 
 <!ENTITY useCursorNavigation.label       "總是使用鍵盤方向鍵瀏覽網頁 (鍵盤瀏覽)">
 <!ENTITY useCursorNavigation.accesskey   "c">
-<!ENTITY searchStartTyping.label         "打字時直接搜尋頁面文字 (隨打即找)">
+<!ENTITY searchStartTyping.label         "打字時直接搜尋頁面文字（隨打即找）">
 <!ENTITY searchStartTyping.accesskey     "x">
 <!ENTITY blockAutoRefresh.label          "當網站試圖重新導向或重新載入頁面時警告">
 <!ENTITY blockAutoRefresh.accesskey      "b">

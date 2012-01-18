@@ -10,5 +10,5 @@
 <!-- pref-tabs.xul -->
 <!ENTITY urlbar.label                 "在網址列按 Ctrl+Enter">
 <!ENTITY urlbar.accesskey             "l">
-<!ENTITY middleClick.label            "在網頁的鏈結上按中鍵、壓住Ctrl按左鍵，或是Ctrl+Enter">
+<!ENTITY middleClick.label            "在網頁的鏈結上按中鍵、壓住 Ctrl 按左鍵，或是 Ctrl+Enter">
 <!ENTITY middleClick.accesskey        "M">
