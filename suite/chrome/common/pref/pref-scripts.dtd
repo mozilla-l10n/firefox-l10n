@@ -17,7 +17,9 @@
 <!ENTITY allowContextmenuDisable.label   "Desactivar ou substituír menús de contexto">
 <!ENTITY allowHideStatusBar.label        "Ocultar a barra de estado">
 
-<!ENTITY enablePlugin.label              "Activar os engadidos para">
+<!ENTITY enablePlugin.label              "Activar os engadidos para:">
+<!ENTITY enablePluginForSuite.label      "Suite">
+<!ENTITY enablePluginForSuite.accesskey  "u">
 
 <!ENTITY whenPluginsRequired.label       "Cando son requiridos engadidos adicionais">
 <!ENTITY displayNotification.label       "Mostrar unha barra de notificación na parte superior da área de contido">
