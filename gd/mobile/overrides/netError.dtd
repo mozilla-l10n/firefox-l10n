@@ -34,8 +34,8 @@
 <!ENTITY malformedURI.longDesc "<ul> 
 <li>Bidh seòlaidhean-lìn coltach ris an fhear seo a ghnàth: 
 <strong>http://www.ball-sampaill.com/</strong></li> 
-<li>Dèan cinnteach gu bheil thu a' cleachdadh fiar-sgoraidhean 
-(.i. <strong>/</strong>).</li> 
+<li>Dèan cinnteach gu bheil thu a' cleachdadh slaisichean (.i. 
+<strong>/</strong>).</li> 
 </ul>">
 
 <!ENTITY netInterrupt.title "Bhris rudeigin a-steach air a' cheangal">
@@ -73,8 +73,8 @@
 <!ENTITY proxyConnectFailure.title "Tha am frithealaiche progsaidh a' diùltadh cheanglaichean">
 <!ENTITY proxyConnectFailure.longDesc "<ul> 
 <li>Dèan cinnteach gu bheil na roghainnean progsaidh ceart.</li> 
-<li>Cuir fios gu rianaire an lìonra agad gus dèanamh cinnteach 
-gu bheil am progsaidh ag obair.</li> 
+<li>Cuir fios gu rianaire an lìonra agad gus dèanamh cinnteach gu bheil 
+am progsaidh ag obair.</li> 
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Cha ghabh am frithealaiche progsaidh a lorg">
@@ -85,8 +85,8 @@ gu bheil am progsaidh ag obair.</li>
 
 <!ENTITY redirectLoop.title "Chan eil an duilleag ag ath-stiùireadh mar bu chòir">
 <!ENTITY redirectLoop.longDesc "<ul> 
-<li>Tachraidh seo uaireannan mur eil briosgaidean an comas 
-no 'gan diùltadh.</li> 
+<li>Tachraidh seo uaireannan mur eil briosgaidean an comas no 
+'gan diùltadh.</li> 
 </ul>">
 
 <!ENTITY unknownSocketType.title "Freagairt ris nach robh dùil on fhrithealaiche">
@@ -104,10 +104,10 @@ an t-siostam agad.</li>
 
 <!ENTITY nssBadCert.title "Dh'fhàillig an ceangal tèarainte">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>Dh'fhaodadh gur e duilgheadas le rèiteachadh an fhrithealaiche a tha ann no gu bheil 
-cuideigin a' feuchainn ri gabhail orra gur iadsan am frithealaiche.</li> 
-<li>Ma chaidh agad air ceangal a dhèanamh ris an fhrithealaiche seo roimhe, 's mathaid nach 
-mair a' mhearachd agus feuch ris a-rithist an ceann tàmaill.</li> 
+<li>Dh'fhaodadh gur e duilgheadas le rèiteachadh an fhrithealaiche a tha ann no 
+gu bheil cuideigin a' feuchainn ri gabhail orra gur iadsan am frithealaiche.</li> 
+<li>Ma chaidh agad air ceangal a dhèanamh ris an fhrithealaiche seo roimhe, 
+'s mathaid nach mair a' mhearachd agus feuch ris a-rithist an ceann tàmaill.</li> 
 </ul>">
 
 <!ENTITY sharedLongDesc2 "<ul> 
@@ -136,5 +136,5 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "XUL cèin">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Leig fios do sheilbheadairean na làraich-lìn mun duilgheadas seo.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Cuir fios gu seilbheadairean na làraich mun duilgheadas seo.</li></ul></p>">
 

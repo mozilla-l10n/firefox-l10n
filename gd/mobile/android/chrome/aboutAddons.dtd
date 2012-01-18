@@ -1,0 +1,8 @@
+<!ENTITY aboutAddons.title                      "Manaidsear nan tuilleadan">
+<!ENTITY aboutAddons.header                     "Tuilleadain">
+<!ENTITY aboutAddons.options                    "Roghainnean">
+
+<!ENTITY addonAction.enable                     "Cuir an comas">
+<!ENTITY addonAction.disable                    "Cuir à comas">
+<!ENTITY addonAction.uninstall                  "Dì-stàlaich">
+<!ENTITY addonAction.cancel                     "Sguir dheth">
