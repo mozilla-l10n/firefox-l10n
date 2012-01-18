@@ -81,6 +81,8 @@
 <!ENTITY lightning.toolbar.calendar.accesskey "c">
 <!ENTITY lightning.toolbar.task.label         "Saothraichean">
 <!ENTITY lightning.toolbar.task.accesskey     "t">
+<!ENTITY lightning.toolbar.task.tooltip       "Leum gu taba nan saothraichean">
+<!ENTITY lightning.toolbar.task.accesskey     "T">
 
 <!-- Toolbar write button -->
 <!ENTITY lightning.toolbar.newevent.label     "Tachartas">
