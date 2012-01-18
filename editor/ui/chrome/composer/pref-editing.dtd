@@ -1,28 +1,28 @@
-<!ENTITY  pref.editing.title        "New Page Settings">
+<!ENTITY  pref.editing.title        "Postavke nove stranice">
 
-<!ENTITY  authorName.label          "Author:">
+<!ENTITY  authorName.label          "Autor:">
 <!ENTITY  authorName.accesskey      "u">
-<!ENTITY  pageColorHeader           "Default Page Appearance">
+<!ENTITY  pageColorHeader           "Zadano prikazivanje stranice">
 
-<!ENTITY defaultColors.label        "Reader's default colors (Don't set colors in page)">
+<!ENTITY defaultColors.label        "Zadane boje čitatelja (ne postavljajte boje na stranici)">
 <!ENTITY defaultColors.accesskey    "d">
-<!ENTITY customColors.label         "Use custom colors:">
-<!ENTITY customColors.accesskey     "c">
+<!ENTITY customColors.label         "Koristi zadane boje:">
+<!ENTITY customColors.accesskey     "K">
 
-<!ENTITY normalText.label           "Normal text">
+<!ENTITY normalText.label           "Obični tekst">
 <!ENTITY normalText.accesskey       "N">
-<!ENTITY linkText.label             "Link text">
-<!ENTITY linkText.accesskey         "L">
-<!ENTITY activeLinkText.label       "Active link text">
-<!ENTITY activeLinkText.accesskey   "A">
-<!ENTITY visitedLinkText.label      "Visited link text">
-<!ENTITY visitedLinkText.accesskey  "V">
-<!ENTITY background.label           "Background:">
-<!ENTITY background.accesskey       "B">
+<!ENTITY linkText.label             "Tekst poveznice">
+<!ENTITY linkText.accesskey         "p">
+<!ENTITY activeLinkText.label       "Tekst aktivne poveznice">
+<!ENTITY activeLinkText.accesskey   "a">
+<!ENTITY visitedLinkText.label      "Tekst posjećene poveznice">
+<!ENTITY visitedLinkText.accesskey  "e">
+<!ENTITY background.label           "Pozadina:">
+<!ENTITY background.accesskey       "z">
 <!ENTITY colon.character            ":">
 
-<!ENTITY backgroundImage.label      "Background image:">
-<!ENTITY backgroundImage.accesskey  "m">
-<!ENTITY chooseFile.label           "Choose File…">
-<!ENTITY chooseFile.accesskey       "o">
+<!ENTITY backgroundImage.label      "Pozadinska slika:">
+<!ENTITY backgroundImage.accesskey  "s">
+<!ENTITY chooseFile.label           "Odaberi datoteku…">
+<!ENTITY chooseFile.accesskey       "O">
 
