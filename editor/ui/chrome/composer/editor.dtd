@@ -43,58 +43,58 @@
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
 
 <!-- Toolbar-only items -->
-<!ENTITY compositionToolbar.tooltip "Composition Toolbar">
-<!ENTITY previewToolbarCmd.label "Browse">
-<!ENTITY previewToolbarCmd.tooltip "Load this page in the browser">
+<!ENTITY compositionToolbar.tooltip "Alatna traka sastavljanja">
+<!ENTITY previewToolbarCmd.label "Odaberi">
+<!ENTITY previewToolbarCmd.tooltip "Učitaj ovu stranicu u internet pregledniku">
 
 <!-- File menu items -->
-<!ENTITY exportToTextCmd.label "Export to Text…">
-<!ENTITY exportToTextCmd.accesskey "T">
-<!ENTITY previewCmd.label "Browse Page">
-<!ENTITY previewCmd.accesskey "w">
-<!ENTITY sendPageCmd.label "Send Page…">
-<!ENTITY sendPageCmd.accesskey "d">
+<!ENTITY exportToTextCmd.label "Izvezi u tekst…">
+<!ENTITY exportToTextCmd.accesskey "t">
+<!ENTITY previewCmd.label "Odaberi stranicu">
+<!ENTITY previewCmd.accesskey "O">
+<!ENTITY sendPageCmd.label "Pošalji stranicu…">
+<!ENTITY sendPageCmd.accesskey "P">
 
 <!-- View menu items -->
-<!ENTITY compositionToolbarCmd.label "Composition Toolbar">
-<!ENTITY compositionToolbarCmd.accesskey "C">
-<!ENTITY formattingToolbarCmd.label "Format Toolbar">
-<!ENTITY formattingToolbarCmd.accesskey "F">
-<!ENTITY editmodeToolbarCmd.label "Edit Mode Toolbar">
-<!ENTITY editmodeToolbarCmd.accesskey "E">
+<!ENTITY compositionToolbarCmd.label "Alatna traka sastavljanja">
+<!ENTITY compositionToolbarCmd.accesskey "s">
+<!ENTITY formattingToolbarCmd.label "Alatna traka oblikovanja">
+<!ENTITY formattingToolbarCmd.accesskey "o">
+<!ENTITY editmodeToolbarCmd.label "Alatna traka načina uređivanja">
+<!ENTITY editmodeToolbarCmd.accesskey "u">
 
 <!-- Format menu items -->
-<!ENTITY formatMenu.label "Format">
-<!ENTITY formatMenu.accesskey "o">
-<!ENTITY grid.label "Positioning grid">
-<!ENTITY grid.accesskey "t">
-<!ENTITY pageProperties.label "Page Title and Properties…">
-<!ENTITY pageProperties.accesskey "g">
+<!ENTITY formatMenu.label "Oblikovanje">
+<!ENTITY formatMenu.accesskey "O">
+<!ENTITY grid.label "Pozicioniranje mreže">
+<!ENTITY grid.accesskey "z">
+<!ENTITY pageProperties.label "Naslov stranice i postavke…">
+<!ENTITY pageProperties.accesskey "N">
 
 <!-- Tools menu items -->
-<!ENTITY validateCmd.label "Validate HTML">
-<!ENTITY validateCmd.accesskey "V">
+<!ENTITY validateCmd.label "Potvrdi HTML">
+<!ENTITY validateCmd.accesskey "t">
 
 <!-- Display Mode toolbar and View menu items -->
-<!ENTITY NormalModeTab.label "Normal">
-<!ENTITY NormalMode.label "Normal Edit Mode">
-<!ENTITY NormalMode.accesskey "N">
-<!ENTITY NormalMode.tooltip "Show table borders and named anchors">
-<!ENTITY AllTagsModeTab.label "HTML Tags">
-<!ENTITY AllTagsMode.label "HTML Tags">
+<!ENTITY NormalModeTab.label "Uobičajen">
+<!ENTITY NormalMode.label "Uobičajen način uređivanja">
+<!ENTITY NormalMode.accesskey "n">
+<!ENTITY NormalMode.tooltip "Prikaži obrube tablica i imenovana sidra">
+<!ENTITY AllTagsModeTab.label "HTML oznake">
+<!ENTITY AllTagsMode.label "HTML oznake">
 <!ENTITY AllTagsMode.accesskey "a">
-<!ENTITY AllTagsMode.tooltip "Display icons for all HTML tags">
+<!ENTITY AllTagsMode.tooltip "Prikaži ikone za sve HTML oznake">
 <!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
      Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if
      you want the <html> image to left of the 'HTMLSourceModeTab.label' text,
      or use latin "rtl" if you want this image to the right of text. You do
      not need to include HTML in the label 'HTMLSourceModeTab.label' -->
 <!ENTITY HTMLSourceModeTab.dir "ltr">
-<!ENTITY HTMLSourceModeTab.label "Source">
-<!ENTITY HTMLSourceMode.label "HTML Source">
+<!ENTITY HTMLSourceModeTab.label "Izvorni kod">
+<!ENTITY HTMLSourceMode.label "HTML izvorni kod">
 <!ENTITY HTMLSourceMode.accesskey "H">
-<!ENTITY HTMLSourceMode.tooltip "Edit HTML source">
-<!ENTITY PreviewModeTab.label "Preview">
-<!ENTITY PreviewMode.label "Preview">
+<!ENTITY HTMLSourceMode.tooltip "Uredi HTML izvorni kod">
+<!ENTITY PreviewModeTab.label "Pregled">
+<!ENTITY PreviewMode.label "Pregled">
 <!ENTITY PreviewMode.accesskey "P">
-<!ENTITY PreviewMode.tooltip "Display as WYSIWYG (as in the browser)">
+<!ENTITY PreviewMode.tooltip "Prikaži kao WYSIWYG (kao u internet pregledniku)">
