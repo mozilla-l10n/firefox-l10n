@@ -245,6 +245,13 @@
 <!ENTITY priority.level.high                "Alto">
 <!ENTITY priority.level.high.accesskey      "A">
 
+<!ENTITY calendar.context.postpone.1hour.label      "1 Hora">
+<!ENTITY calendar.context.postpone.1hour.accesskey  "H">
+<!ENTITY calendar.context.postpone.1day.label       "1 Dia">
+<!ENTITY calendar.context.postpone.1day.accesskey   "D">
+<!ENTITY calendar.context.postpone.1week.label      "1 Semana">
+<!ENTITY calendar.context.postpone.1week.accesskey  "S">
+
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
      task action buttons -->
