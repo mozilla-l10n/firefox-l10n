@@ -74,8 +74,6 @@
 
 <!ENTITY share "Udostępnij">
 <!ENTITY save_as_pdf "Zapisz jako PDF">
-<!ENTITY agent_request_desktop "Wyłącz wersję mobilną strony">
-<!ENTITY agent_request_mobile "Włącz wersję mobilną strony">
 
 <!ENTITY contextmenu_open_new_tab "Otwórz w nowej karcie">
 <!ENTITY contextmenu_add_to_launcher "Dodaj do ekranu domowego">
