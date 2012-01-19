@@ -42,6 +42,10 @@
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label 'Spróbuj ponownie.'>
 
+<!-- Firefox SyncAdapter Settings Screen -->
+<!ENTITY sync.settings.options.label 'Ustawienia'>
+<!ENTITY sync.summary.pair.label 'Dodaj inne urządzenie do twojego konta &syncBrand.shortName.label;'>
+
 <!-- Common text -->
 <!ENTITY sync.button.cancel.label 'Anuluj'>
 <!ENTITY sync.button.connect.label 'Połącz'>
@@ -58,3 +62,6 @@
 <!ENTITY bookmarks.folder.unfiled.label 'Zakładki nieposortowane'>
 <!ENTITY bookmarks.folder.desktop.label 'Zakładki z komputera'>
 <!ENTITY bookmarks.folder.mobile.label 'Zakładki z telefonu'>
+
+<!-- Notification strings -->
+<!ENTITY sync.notification.oneaccount.label 'Można używac tylko jednego konta &syncBrand.fullName.label; na raz.'>
