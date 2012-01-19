@@ -208,6 +208,8 @@
 <!ENTITY calendar.context.progress.accesskey          "F">
 <!ENTITY calendar.context.priority.label              "Priorität">
 <!ENTITY calendar.context.priority.accesskey          "P">
+<!ENTITY calendar.context.postpone.label              "Aufgabe aufschieben">
+<!ENTITY calendar.context.postpone.accesskey          "s">
 
 <!ENTITY percnt "&#37;"><!--=percent sign-->
 
@@ -233,6 +235,13 @@
 <!ENTITY priority.level.normal.accesskey  "o">
 <!ENTITY priority.level.high              "Hoch">
 <!ENTITY priority.level.high.accesskey    "H">
+
+<!ENTITY calendar.context.postpone.1hour.label      "1 Stunde">
+<!ENTITY calendar.context.postpone.1hour.accesskey  "S">
+<!ENTITY calendar.context.postpone.1day.label       "1 Tag">
+<!ENTITY calendar.context.postpone.1day.accesskey   "T">
+<!ENTITY calendar.context.postpone.1week.label      "1 Woche">
+<!ENTITY calendar.context.postpone.1week.accesskey  "W">
 
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
