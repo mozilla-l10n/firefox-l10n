@@ -34,17 +34,17 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowTitle.label "Label Properties">
+<!ENTITY windowTitle.label "Postavke oznake">
 
-<!ENTITY Settings.label "Settings">
-<!ENTITY Settings.accesskey "S">
+<!ENTITY Settings.label "Postavke">
+<!ENTITY Settings.accesskey "s">
 
-<!ENTITY EditLabelText.label "Edit Text:">
-<!ENTITY EditLabelText.accesskey "T">
-<!ENTITY LabelFor.label "For Control:">
-<!ENTITY LabelFor.accesskey "F">
-<!ENTITY AccessKey.label "Access Key:">
-<!ENTITY AccessKey.accesskey "K">
+<!ENTITY EditLabelText.label "Uredi tekst:">
+<!ENTITY EditLabelText.accesskey "t">
+<!ENTITY LabelFor.label "Za kontrolu:">
+<!ENTITY LabelFor.accesskey "Z">
+<!ENTITY AccessKey.label "Pristupni ključ:">
+<!ENTITY AccessKey.accesskey "k">
 
-<!ENTITY RemoveLabel.label "Remove Label">
-<!ENTITY RemoveLabel.accesskey "R">
+<!ENTITY RemoveLabel.label "Ukloni oznaku">
+<!ENTITY RemoveLabel.accesskey "U">
