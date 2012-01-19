@@ -23,10 +23,3 @@
 <!ENTITY languages.customize.moveUp.accesskey           "c">
 <!ENTITY languages.customize.moveDown.label             "Mover para baixo">
 <!ENTITY languages.customize.moveDown.accesskey         "b">
-
-<!ENTITY spelling.label                                 "Escrita">
-<!ENTITY checkSpelling.label                            "Verificar escrita ao escrever:">
-<!ENTITY checkSpelling.accesskey                        "a">
-<!ENTITY dontCheckSpelling.label                        "Nunca">
-<!ENTITY multilineCheckSpelling.label                   "Em caixas multi linha">
-<!ENTITY alwaysCheckSpelling.label                      "Todas as caixas">

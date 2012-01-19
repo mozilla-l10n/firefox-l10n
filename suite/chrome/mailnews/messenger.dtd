@@ -445,7 +445,6 @@
 <!ENTITY deleteButton.label "Apagar">
 <!ENTITY undeleteButton.label "Não apagar">
 <!ENTITY markButton.label "Marcar">
-<!ENTITY printButton.label "Imprimir">
 <!ENTITY stopButton.label "Parar">
 <!ENTITY junkButton.label "Lixo Electrónico">
 <!ENTITY notJunkButton.label "Não é Lixo Electrónico">
@@ -469,7 +468,6 @@
 <!ENTITY deleteButton.tooltip "Apagar mensagem ou pasta seleccionada">
 <!ENTITY undeleteButton.tooltip "Não apagar a mensagem seleccionada">
 <!ENTITY markButton.tooltip "Marcar mensagens">
-<!ENTITY printButton.tooltip "Imprimir esta mensagem">
 <!ENTITY stopButton.tooltip "Parar a transferência actual">
 <!ENTITY throbber.tooltip "Ir para a página inicial do &vendorShortName;">
 <!ENTITY junkButton.tooltip "Marcar as mensagens seleccionadas como lixo">
