@@ -3,7 +3,7 @@
 <!ENTITY enableStartPage.accesskey        "P">
 <!ENTITY location.label                   "Adressa:">
 <!ENTITY location1.accesskey              "A">
-<!ENTITY useDefault.label                 "Restituir il standard">
+<!ENTITY useDefault.label                 "Restaurar il standard">
 <!ENTITY useDefault.accesskey             "R">
 
 <!ENTITY bounceSystemDockIcon.label       "Animar il simbol da dock">

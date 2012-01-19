@@ -35,7 +35,7 @@ can reach it easily. -->
 <!ENTITY  moveToNewWindow.accesskey          "n">
 <!ENTITY  bookmarkAllTabs.label              "Agiuntar in segnapagina per mintga tab…">
 <!ENTITY  bookmarkAllTabs.accesskey          "t">
-<!ENTITY  undoCloseTab.label                 "Restituir il tab serrà">
+<!ENTITY  undoCloseTab.label                 "Restaurar il tab serrà">
 <!ENTITY  undoCloseTab.accesskey             "R">
 <!ENTITY  closeTab.label                     "Serrar il tab">
 <!ENTITY  closeTab.accesskey                 "r">
@@ -294,7 +294,7 @@ can reach it easily. -->
 <!ENTITY historyUndoMenu.label "Tabs serrads dacurt">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Fanestras serradas dacurt">
-<!ENTITY historyRestoreLastSession.label "Restituir l'ultima sesida">
+<!ENTITY historyRestoreLastSession.label "Restaurar l'ultima sesida">
 
 <!ENTITY historyHomeCmd.label "Pagina da partenza">
 <!ENTITY showAllHistoryCmd2.label "Mussar l'entira cronologia">
