@@ -36,19 +36,19 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY aboutDialog.title "Относно &brandFullName;">
-<!ENTITY copyright.label "Заслуги">
-<!ENTITY copyright.accesskey "З">
-<!ENTITY aboutLink.label "&lt; Относно &brandFullName;">
-<!ENTITY aboutLink.accesskey "О">
-<!ENTITY aboutVersion "версия">
-<!ENTITY copyrightText "&#169;1998-2010 Contributors. All rights 
+<!ENTITY aboutDialog.title      "Относно &brandFullName;">
+<!ENTITY copyright.label        "Заслуги">
+<!ENTITY copyright.accesskey    "З">
+<!ENTITY aboutLink.label        "&lt; Относно &brandFullName;">
+<!ENTITY aboutLink.accesskey    "О">
+<!ENTITY aboutVersion           "версия">
+<!ENTITY copyrightText          "&#169;1998-2010 Contributors. All rights 
 reserved. Mozilla Sunbird, Sunbird, and the 
 Sunbird logos are trademarks of the Mozilla 
 Foundation. All rights reserved.">
 
-<!ENTITY brandMotto "крайно време е">
-<!ENTITY credit.thanks "Специални благодарности на">
+<!ENTITY brandMotto       "крайно време е">
+<!ENTITY credit.thanks    "Специални благодарности на">
 <!-- localization credits look like this: -->
 <!--
 <!ENTITY credit.translation
@@ -57,6 +57,6 @@ Foundation. All rights reserved.">
 
 <!ENTITY credit.translation "<h3>Преводачи</h3><ul><li>Станислав Желязков</li><li>Огнян Кулев</li></ul>">
 
-<!ENTITY credit.powered "Осъществено от">
-<!ENTITY license.and "и">
-<!ENTITY cmdClose.macKey "W">
+<!ENTITY credit.powered     "Осъществено от">
+<!ENTITY license.and        "и">
+<!ENTITY cmdClose.macKey  "W">
