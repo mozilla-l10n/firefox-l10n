@@ -37,24 +37,24 @@
 
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Horizontal Line Properties">
+<!ENTITY windowTitle.label "Postavke vodoravne linije">
 
-<!ENTITY dimensionsBox.label "Dimensions">
-<!ENTITY heightEditField.label "Height:">
-<!ENTITY heightEditField.accessKey "G">
-<!ENTITY widthEditField.label "Width:">
-<!ENTITY widthEditField.accessKey "W">
-<!ENTITY pixelsPopup.value "pixels">
-<!ENTITY alignmentBox.label "Alignment">
-<!ENTITY leftRadio.label "Left">
+<!ENTITY dimensionsBox.label "Dimenzije">
+<!ENTITY heightEditField.label "Visina:">
+<!ENTITY heightEditField.accessKey "V">
+<!ENTITY widthEditField.label "Širina:">
+<!ENTITY widthEditField.accessKey "i">
+<!ENTITY pixelsPopup.value "pikseli">
+<!ENTITY alignmentBox.label "Poravnanje">
+<!ENTITY leftRadio.label "Lijevo">
 <!ENTITY leftRadio.accessKey "L">
-<!ENTITY centerRadio.label "Center">
-<!ENTITY centerRadio.accessKey "C">
-<!ENTITY rightRadio.label "Right">
-<!ENTITY rightRadio.accessKey "R">
+<!ENTITY centerRadio.label "Sredina">
+<!ENTITY centerRadio.accessKey "S">
+<!ENTITY rightRadio.label "Desno">
+<!ENTITY rightRadio.accessKey "D">
 
-<!ENTITY threeDShading.label "3-D Shading">
-<!ENTITY threeDShading.accessKey "S">
-<!ENTITY saveSettings.label "Use as Default">
-<!ENTITY saveSettings.accessKey "D">
-<!ENTITY saveSettings.tooltip "Save these settings to use when inserting new horizontal lines">
+<!ENTITY threeDShading.label "3-D sjenčanje">
+<!ENTITY threeDShading.accessKey "j">
+<!ENTITY saveSettings.label "Koristi kao zadano">
+<!ENTITY saveSettings.accessKey "K">
+<!ENTITY saveSettings.tooltip "Spremi ove postavke za korištenje prilikom umetanja novih vodoravnih linija">
