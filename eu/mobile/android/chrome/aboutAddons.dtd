@@ -1,0 +1,8 @@
+<!ENTITY aboutAddons.title                      "Gehigarrien kudeatzailea">
+<!ENTITY aboutAddons.header                     "Osagarriak">
+<!ENTITY aboutAddons.options                    "Aukerak">
+
+<!ENTITY addonAction.enable                     "Gaitu">
+<!ENTITY addonAction.disable                    "Desgaitu">
+<!ENTITY addonAction.uninstall                  "Desinstalatu">
+<!ENTITY addonAction.cancel                     "Utzi">
