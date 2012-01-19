@@ -34,49 +34,49 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowTitle.label "Form Field Properties">
-<!ENTITY windowTitleImage.label "Form Image Properties">
+<!ENTITY windowTitle.label "Postavke polja obrasca">
+<!ENTITY windowTitleImage.label "Postavke slike obrasca">
 
-<!ENTITY InputType.label "Field Type">
-<!ENTITY InputType.accesskey "T">
-<!ENTITY text.value "Text">
-<!ENTITY password.value "Password">
-<!ENTITY checkbox.value "Check Box">
-<!ENTITY radio.value "Radio Button">
-<!ENTITY submit.value "Submit Button">
-<!ENTITY reset.value "Reset Button">
-<!ENTITY file.value "File">
-<!ENTITY hidden.value "Hidden">
-<!ENTITY image.value "Image">
-<!ENTITY button.value "Button">
+<!ENTITY InputType.label "Vrsta polja">
+<!ENTITY InputType.accesskey "t">
+<!ENTITY text.value "Tekst">
+<!ENTITY password.value "Lozinka">
+<!ENTITY checkbox.value "Potvrdni okvir">
+<!ENTITY radio.value "Radio tipka">
+<!ENTITY submit.value "Tipka za slanje">
+<!ENTITY reset.value "Tipka za resetiranje">
+<!ENTITY file.value "Datoteka">
+<!ENTITY hidden.value "Skriveno">
+<!ENTITY image.value "Slika">
+<!ENTITY button.value "Tipka">
 
-<!ENTITY InputSettings.label "Field Settings">
-<!ENTITY InputName.label "Field Name:">
+<!ENTITY InputSettings.label "Postavke polja">
+<!ENTITY InputName.label "Naziv polja:">
 <!ENTITY InputName.accesskey "N">
-<!ENTITY GroupName.label "Group Name:">
+<!ENTITY GroupName.label "Naziv grupe:">
 <!ENTITY GroupName.accesskey "N">
-<!ENTITY InputValue.label "Field Value:">
+<!ENTITY InputValue.label "Vrijednost polja:">
 <!ENTITY InputValue.accesskey "V">
-<!ENTITY InitialValue.label "Initial Value:">
-<!ENTITY InitialValue.accesskey "V">
-<!ENTITY InputChecked.label "Initially Checked">
-<!ENTITY InputChecked.accesskey "C">
-<!ENTITY InputSelected.label "Initially Selected">
-<!ENTITY InputSelected.accesskey "S">
-<!ENTITY InputReadOnly.label "Read Only">
-<!ENTITY InputReadOnly.accesskey "R">
-<!ENTITY InputDisabled.label "Disabled">
-<!ENTITY InputDisabled.accesskey "D">
-<!ENTITY tabIndex.label "Tab Index:">
+<!ENTITY InitialValue.label "Početna vrijednost:">
+<!ENTITY InitialValue.accesskey "v">
+<!ENTITY InputChecked.label "Početno označeno">
+<!ENTITY InputChecked.accesskey "o">
+<!ENTITY InputSelected.label "Početno odabrano">
+<!ENTITY InputSelected.accesskey "e">
+<!ENTITY InputReadOnly.label "Samo za čitanje">
+<!ENTITY InputReadOnly.accesskey "a">
+<!ENTITY InputDisabled.label "Onemogućeno">
+<!ENTITY InputDisabled.accesskey "m">
+<!ENTITY tabIndex.label "Indeks kartice:">
 <!ENTITY tabIndex.accesskey "I">
-<!ENTITY TextSize.label "Field Size:">
-<!ENTITY TextSize.accesskey "F">
-<!ENTITY TextLength.label "Maximum Length:">
-<!ENTITY TextLength.accesskey "L">
-<!ENTITY AccessKey.label "Access Key:">
-<!ENTITY AccessKey.accesskey "K">
-<!ENTITY Accept.label "Accept Types:">
-<!ENTITY Accept.accesskey "A">
+<!ENTITY TextSize.label "Veličina polja:">
+<!ENTITY TextSize.accesskey "l">
+<!ENTITY TextLength.label "Maksimalna dužina:">
+<!ENTITY TextLength.accesskey "d">
+<!ENTITY AccessKey.label "Pristupni ključ:">
+<!ENTITY AccessKey.accesskey "k">
+<!ENTITY Accept.label "Prihvati vrste:">
+<!ENTITY Accept.accesskey "P">
 
-<!ENTITY ImageProperties.label "Image Properties…">
-<!ENTITY ImageProperties.accesskey "E">
+<!ENTITY ImageProperties.label "Postavke slike…">
+<!ENTITY ImageProperties.accesskey "e">
