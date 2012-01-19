@@ -83,6 +83,10 @@
   -->
 <!ENTITY findPreviousCmd.key "G">
 
+<!ENTITY gotoLineCmd.label "Jít na řádek…">
+<!ENTITY gotoLineCmd.key "J">
+<!ENTITY gotoLineCmd.accesskey "J">
+
 <!ENTITY run.label "Spusit">
 <!ENTITY run.accesskey "S">
 <!ENTITY run.key "r">
