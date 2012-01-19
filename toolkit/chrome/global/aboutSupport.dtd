@@ -18,6 +18,8 @@
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Активирани приставки">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Настройки на компилирането">
 <!ENTITY aboutSupport.appBasicsUserAgent "Потребителски агент">
+<!ENTITY aboutSupport.appBasicsCrashIDs "Доклади за крашове">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Използване на паметта">
 
 <!ENTITY aboutSupport.show.label "Отваряне на съдържащата папка">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
