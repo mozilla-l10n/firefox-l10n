@@ -62,9 +62,9 @@
 <!ENTITY calendar.subscribe.label                          "訂閱遠端的機器…">
 <!ENTITY calendar.subscribe.accesskey                      "r">
 
-<!ENTITY calendar.reloadserver.label                       "重新讀取遠端行事曆">
-<!ENTITY calendar.reloadserver.key                         "R">
-<!ENTITY calendar.reloadserver.accesskey                   "R">
+<!ENTITY calendar.synccalendars.label                      "同步行事曆">
+<!ENTITY calendar.synccalendars.key                        "R">
+<!ENTITY calendar.synccalendars.accesskey                  "S">
 
 <!ENTITY calendar.publish.calendar.label                   "發佈行事曆…">
 <!ENTITY calendar.publish.calendar.accesskey               "b">

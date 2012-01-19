@@ -252,8 +252,8 @@
 <!ENTITY calendar.context.findcalendar.accesskey       "F" >
 <!ENTITY calendar.context.deleteserver.label           "刪除行事曆">
 <!ENTITY calendar.context.deleteserver.accesskey       "D">
-<!ENTITY calendar.context.reloadserver.label           "重新讀取遠端行事曆">
-<!ENTITY calendar.context.reloadserver.accesskey       "R">
+<!ENTITY calendar.context.synccalendars.label          "同步行事曆">
+<!ENTITY calendar.context.synccalendars.accesskey      "S">
 <!ENTITY calendar.context.publish.label                "發佈整個行事曆…">
 <!ENTITY calendar.context.publish.accesskey            "b">
 <!ENTITY calendar.context.export.label                 "匯出行事曆…">
