@@ -1,3 +1,3 @@
-<!ENTITY search.placeholder     "搜尋偏好設定">
+<!ENTITY search.placeholder2    "搜尋設定">
 <!ENTITY clear.altText          "清除">
-<!ENTITY newpref.label          "新增一筆偏好設定">
+<!ENTITY newpref.label2         "新增設定值">
