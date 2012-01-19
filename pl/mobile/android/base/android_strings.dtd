@@ -56,10 +56,10 @@
 <!ENTITY pref_clear_history_confirm "Czy usunąć historię przeglądania?">
 <!ENTITY pref_clear_private_data "Wyczyść dane prywatne">
 <!ENTITY pref_clear_private_data_confirm "Czy usunąć historię przeglądania i ustawienia, w tym zapamiętane hasła i ciasteczka?">
-<!ENTITY pref_enable_plugins "Wtyczki">
-<!ENTITY pref_enable_plugins_yes "Włączone">
-<!ENTITY pref_enable_plugins_tap_to_play "Dotknij, aby odtworzyć">
-<!ENTITY pref_enable_plugins_no "Wyłączone">
+<!ENTITY pref_plugins "Wtyczki">
+<!ENTITY pref_plugins_enabled "Włączone">
+<!ENTITY pref_plugins_tap_to_play "Dotknij, aby odtworzyć">
+<!ENTITY pref_plugins_disabled "Wyłączone">
 <!ENTITY pref_font_size "Rozmiar tekstu">
 <!ENTITY pref_font_size_small "Mały">
 <!ENTITY pref_font_size_medium "Średni">
