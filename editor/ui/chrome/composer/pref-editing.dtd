@@ -6,7 +6,7 @@
 
 <!ENTITY defaultColors.label        "Zadane boje čitatelja (ne postavljajte boje na stranici)">
 <!ENTITY defaultColors.accesskey    "d">
-<!ENTITY customColors.label         "Koristi zadane boje:">
+<!ENTITY customColors.label         "Koristi prilagođene boje:">
 <!ENTITY customColors.accesskey     "K">
 
 <!ENTITY normalText.label           "Obični tekst">
