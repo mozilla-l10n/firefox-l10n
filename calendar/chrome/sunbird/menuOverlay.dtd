@@ -62,9 +62,9 @@
 <!ENTITY calendar.subscribe.label                          "Externen Kalender abonnieren…">
 <!ENTITY calendar.subscribe.accesskey                      "E">
 
-<!ENTITY calendar.reloadserver.label                       "Externe Kalender neu laden">
-<!ENTITY calendar.reloadserver.key                         "R">
-<!ENTITY calendar.reloadserver.accesskey                   "l">
+<!ENTITY calendar.synccalendars.label                      "Kalender synchronisieren">
+<!ENTITY calendar.synccalendars.key                        "R">
+<!ENTITY calendar.synccalendars.accesskey                  "l">
 
 <!ENTITY calendar.publish.calendar.label                   "Kalender publizieren…">
 <!ENTITY calendar.publish.calendar.accesskey               "p">
