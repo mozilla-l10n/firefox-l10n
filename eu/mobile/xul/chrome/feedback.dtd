@@ -1,0 +1,11 @@
+<!ENTITY feedbackHeader2.label          "Iritzi-tresnak">
+
+<!ENTITY feedback.communicate.title     "Komunika iezaguzu!">
+<!ENTITY feedback.feedback.title        "Emaiguzu zure iritzia!">
+<!ENTITY feedback.feedback.good         "Ona">
+<!ENTITY feedback.feedback.bad          "Txarra">
+
+<!ENTITY feedback.tools.title           "Tresnak">
+<!ENTITY feedback.allowTelemetry.title  "Bidali errendimenduaren inguruko datuak">
+<!ENTITY feedback.forceCompat.title     "Behartu gehigarrien bateragarritasuna">
+<!ENTITY feedback.errorConsole.title    "Gaitu errore-kontsola">
