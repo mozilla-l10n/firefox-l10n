@@ -252,8 +252,8 @@
 <!ENTITY calendar.context.findcalendar.accesskey       "L" >
 <!ENTITY calendar.context.deleteserver.label           "Sguab às am mìosachan">
 <!ENTITY calendar.context.deleteserver.accesskey       "S">
-<!ENTITY calendar.context.reloadserver.label           "Ath-luchdaich na mìosachain chèin">
-<!ENTITY calendar.context.reloadserver.accesskey       "A">
+<!ENTITY calendar.context.synccalendars.label          "Sioncronaich na mìosachain">
+<!ENTITY calendar.context.synccalendars.accesskey      "m">
 <!ENTITY calendar.context.publish.label                "Foillsich mìosachan…">
 <!ENTITY calendar.context.publish.accesskey            "F">
 <!ENTITY calendar.context.export.label                 "Às-phortaich mìosachan…">
