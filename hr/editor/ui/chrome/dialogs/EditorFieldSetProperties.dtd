@@ -34,19 +34,19 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowTitle.label "Field Set Properties">
+<!ENTITY windowTitle.label "Postavke skupa polja">
 
-<!ENTITY Legend.label "Legend">
+<!ENTITY Legend.label "Legenda">
 <!ENTITY Legend.accesskey "L">
 
-<!ENTITY EditLegendText.label "Edit Legend:">
-<!ENTITY EditLegendText.accesskey "T">
-<!ENTITY LegendAlign.label "Align Legend:">
-<!ENTITY LegendAlign.accesskey "A">
-<!ENTITY AlignDefault.label "Default">
-<!ENTITY AlignLeft.label "Left">
-<!ENTITY AlignCenter.label "Center">
-<!ENTITY AlignRight.label "Right">
+<!ENTITY EditLegendText.label "Uredi legendu:">
+<!ENTITY EditLegendText.accesskey "U">
+<!ENTITY LegendAlign.label "Poravnaj legendu:">
+<!ENTITY LegendAlign.accesskey "a">
+<!ENTITY AlignDefault.label "Zadano">
+<!ENTITY AlignLeft.label "Lijevo">
+<!ENTITY AlignCenter.label "Centriraj">
+<!ENTITY AlignRight.label "Desno">
 
-<!ENTITY RemoveFieldSet.label "Remove Field Set">
-<!ENTITY RemoveFieldSet.accesskey "R">
+<!ENTITY RemoveFieldSet.label "Ukloni skup polja">
+<!ENTITY RemoveFieldSet.accesskey "k">
