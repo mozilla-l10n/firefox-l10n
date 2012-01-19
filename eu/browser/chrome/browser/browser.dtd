@@ -217,8 +217,17 @@ can reach it easily. -->
 <!ENTITY inspectButton.label            "Ikuskatu">
 <!ENTITY inspectButton.accesskey        "I">
 <!ENTITY inspectCloseButton.tooltiptext "Itxi ikuskatzailea">
+<!ENTITY inspect3DButton.label        "3D">
+<!ENTITY inspect3DButton.accesskey    "M">
 <!ENTITY inspectStyleButton.label     "Estiloa">
 <!ENTITY inspectStyleButton.accesskey "s">
+<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
+  -  in the Tools menu. -->
+
+<!ENTITY styleeditor.label            "Estiloen editorea">
+<!ENTITY styleeditor.accesskey        "d">
+<!ENTITY styleeditor.keycode          "VK_F7">
+<!ENTITY styleeditor.keytext          "F7">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Eskuratu tresna gehiago">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "E">
@@ -421,15 +430,24 @@ can reach it easily. -->
 <!ENTITY thisFrameMenu.label              "Marko hau">
 <!ENTITY thisFrameMenu.accesskey          "h">
 <!-- Media (video/audio) controls -->
+<!-- LOCALIZATION NOTE: The access keys for "Play" and
+"Pause" are the same because the two context-menu
+items are mutually exclusive. -->
 
 <!ENTITY mediaPlay.label             "Erreproduzitu">
 <!ENTITY mediaPlay.accesskey         "p">
 <!ENTITY mediaPause.label            "Pausatu">
 <!ENTITY mediaPause.accesskey        "P">
+<!-- LOCALIZATION NOTE: The access keys for "Mute" and
+"Unmute" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Mututu">
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "Ez mututu">
 <!ENTITY mediaUnmute.accesskey       "m">
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "Erakutsi kontrolak">
 <!ENTITY mediaShowControls.accesskey "k">
 <!ENTITY mediaHideControls.label     "Ezkutatu kontrolak">
@@ -438,6 +456,9 @@ can reach it easily. -->
 <!ENTITY videoFullScreen.accesskey   "P">
 <!ENTITY videoSaveImage.label        "Gorde argazkia honela…">
 <!ENTITY videoSaveImage.accesskey    "G">
+<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
+"Hide Statistics" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY videoShowStats.label        "Erakutsi estatistikak">
 <!ENTITY videoShowStats.accesskey    "t">
 <!ENTITY videoHideStats.label        "Ezkutatu estatistikak">

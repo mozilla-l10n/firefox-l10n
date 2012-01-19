@@ -30,6 +30,8 @@
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "Hobespenak">
 <!ENTITY engine.prefs.accesskey     "o">
+<!ENTITY engine.addons.label        "Gehigarriak">
+<!ENTITY engine.addons.accesskey    "G">
 <!-- Device Settings -->
 
 <!ENTITY syncComputerName.label       "Ordenagailuaren izena:">

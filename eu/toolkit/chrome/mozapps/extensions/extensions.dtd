@@ -1,5 +1,10 @@
 <!ENTITY addons.windowTitle                   "Gehigarrien kudeatzailea">
+
 <!ENTITY search.placeholder                   "Bilatu gehigarri guztiak">
+<!-- LOCALIZATION NOTE (search.commandKey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
+
 <!ENTITY loading.label                        "Kargatzen…">
 <!ENTITY listEmpty.installed.label            "Ez daukazu mota honetako gehigarririk instalatuta">
 <!ENTITY listEmpty.availableUpdates.label     "Ez da eguneraketarik aurkitu">

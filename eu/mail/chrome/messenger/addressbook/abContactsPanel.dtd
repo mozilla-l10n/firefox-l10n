@@ -5,14 +5,19 @@
 <!ENTITY SearchNameOrEmail.label            "Izena edo helbide elektronikoa">
 
 <!ENTITY deleteAddrBookCard.label           "Ezabatu">
+<!ENTITY deleteAddrBookCard.accesskey       "E">
 <!ENTITY addrBookCardProperties.label       "Propietateak">
+<!ENTITY addrBookCardProperties.accesskey   "P">
 <!ENTITY addtoToFieldMenu.label             "Gehitu Nori eremura">
-<!ENTITY addtoCcFieldMenu.label             "Gehitu Kopia eremura">
-<!ENTITY addtoBccFieldMenu.label            "Gehitu Ezkutuko Kopia eremura">
+<!ENTITY addtoToFieldMenu.accesskey         "G">
+<!ENTITY addtoCcFieldMenu.label             "Gehitu Cc eremura">
+<!ENTITY addtoCcFieldMenu.accesskey         "C">
+<!ENTITY addtoBccFieldMenu.label            "Gehitu Bcc eremura">
+<!ENTITY addtoBccFieldMenu.accesskey        "B">
 
 <!ENTITY toButton.label                     "Gehitu Nori eremura:">
 <!ENTITY toButton.accesskey                 "N">
-<!ENTITY ccButton.label                     "Gehitu Kopia eremura:">
-<!ENTITY ccButton.accesskey                 "K">
-<!ENTITY bccButton.label                    "Gehitu Ezkutuko kopia eremura:">
-<!ENTITY bccButton.accesskey                "E">
+<!ENTITY ccButton.label                     "Gehitu Cc eremura:">
+<!ENTITY ccButton.accesskey                 "C">
+<!ENTITY bccButton.label                    "Gehitu Bcc eremura:">
+<!ENTITY bccButton.accesskey                "B">

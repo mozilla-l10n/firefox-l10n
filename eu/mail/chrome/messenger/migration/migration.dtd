@@ -6,8 +6,8 @@
 
 <!ENTITY importFromNothing.label        "Ezer ez inportatu">
 <!ENTITY importFromNothing.accesskey    "E">
-<!ENTITY importFromSeamonkey2.label     "Netscape 6, 7, Mozilla 1.x edo SeaMonkey">
-<!ENTITY importFromSeamonkey2.accesskey "S">
+<!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 edo berriagoa">
+<!ENTITY importFromSeamonkey3.accesskey "S">
 <!ENTITY importFromOExpress.label       "Outlook Express">
 <!ENTITY importFromOExpress.accesskey   "u">
 <!ENTITY importFromOutlook.label        "Outlook">

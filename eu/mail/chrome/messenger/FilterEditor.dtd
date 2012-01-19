@@ -27,7 +27,8 @@
 <!ENTITY copyMessage.label "Kopiatu mezua hona:">
 <!ENTITY forwardTo.label "Birbidali mezua hona:">
 <!ENTITY replyWithTemplate.label "Erantzun txantiloiarekin:">
-<!ENTITY markMessageRead.label "Markatu irakurrita bezala">
+<!ENTITY markMessageRead.label "Markatu irakurritako gisa">
+<!ENTITY markMessageUnread.label "Markatu irakurri gabeko gisa">
 <!ENTITY markMessageStarred.label "Gehitu izarra">
 <!ENTITY setPriority.label "Ezarri lehentasuna honi:">
 <!ENTITY addTag.label "Etiketatu mezua">

@@ -1,4 +1,3 @@
-<!ENTITY messengerWindow.title "Posta eta berri-taldeak">
 <!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 <!-- File Menu -->
@@ -589,8 +588,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextMarkMailFolderRead.accesskey "k">
 <!ENTITY folderContextSubscribe.label "Harpidetu…">
 <!ENTITY folderContextSubscribe.accesskey "r">
-<!ENTITY folderContextSearchMessages.label "Bilatu…">
-<!ENTITY folderContextSearchMessages.accesskey "B">
+<!ENTITY folderContextSearchForMessages.label "Bilatu mezuak…">
+<!ENTITY folderContextSearchForMessages.accesskey "B">
 <!ENTITY folderContextProperties.label "Propietateak…">
 <!ENTITY folderContextProperties.accesskey "P">
 <!ENTITY folderContextFavoriteFolder.label "Karpeta gogokoa">
