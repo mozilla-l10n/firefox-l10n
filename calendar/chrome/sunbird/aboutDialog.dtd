@@ -36,7 +36,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY aboutDialog.title "Относно &brandShortName;">
+<!ENTITY aboutDialog.title "Относно &brandFullName;">
 <!ENTITY copyright.label "Заслуги">
 <!ENTITY copyright.accesskey "З">
 <!ENTITY aboutLink.label "&lt; Относно &brandFullName;">
@@ -55,7 +55,7 @@ Foundation. All rights reserved.">
   "<h3>Translators</h3><ul><li>Name Here</li></ul>">
 -->
 
-<!ENTITY credit.translation "">
+<!ENTITY credit.translation "<h3>Преводачи</h3><ul><li>Станислав Желязков</li><li>Огнян Кулев</li></ul>">
 
 <!ENTITY credit.powered "Осъществено от">
 <!ENTITY license.and "и">

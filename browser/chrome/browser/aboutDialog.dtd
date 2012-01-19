@@ -1,6 +1,6 @@
 <!ENTITY aboutDialog.title "Относно &brandFullName;">
 
-<!ENTITY community.start2 "&brandShortName; е с дизайн на">
+<!ENTITY community.start2 "&brandShortName; е с дизайн на ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink "&vendorShortName;">
 <!ENTITY community.middle2 ", ">
@@ -8,7 +8,7 @@
 <!ENTITY community.creditsLink "глобална общност">
 <!ENTITY community.end2 ", работеща заедно за един по-добър Интернет. Ние вярваме, че Интернет трябва да бъде отворен, публичен и достъпен за всеки без никакви ограничения.">
 
-<!ENTITY contribute.start "Звучи ли интересно?">
+<!ENTITY contribute.start "Звучи ли интересно? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY contribute.getInvolvedLink "Включете се и вие!">
 <!ENTITY contribute.end "">
@@ -52,14 +52,14 @@
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
 
-<!ENTITY update.downloading.start "Изтегляне на обновяване — ">
+<!ENTITY update.downloading.start "Изтегляне на обновяване – ">
 <!ENTITY update.downloading.end "">
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
 
-<!ENTITY channel.description.start "Сега сте на канал за обновявания ">
-<!ENTITY channel.description.end ".">
+<!ENTITY channel.description.start "Сега сте на канал за обновявания  ">
+<!ENTITY channel.description.end ". ">
 
 <!ENTITY channel.change "Смяна">
 

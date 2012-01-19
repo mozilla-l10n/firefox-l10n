@@ -1,7 +1,7 @@
-<!ENTITY tracking.label "Проследяване">
+<!ENTITY tracking.label "Следене">
 
-<!ENTITY doNotTrack.label "Казване на сайтовете, че не искам да бъда проследяван">
-<!ENTITY doNotTrack.accesskey "п">
+<!ENTITY doNotTrack.label "Казване на сайтовете, че не искам да бъда следен.">
+<!ENTITY doNotTrack.accesskey "л">
 
 <!ENTITY history.label "История">
 
