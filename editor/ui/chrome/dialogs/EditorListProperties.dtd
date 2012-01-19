@@ -37,17 +37,17 @@
 
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "List Properties">
+<!ENTITY windowTitle.label "Postavke popisa">
 
-<!ENTITY ListType.label "List Type">
-<!ENTITY bulletStyle.label "Bullet Style:">
-<!ENTITY startingNumber.label "Start at:">
-<!ENTITY startingNumber.accessKey "S">
-<!ENTITY none.value "None">
-<!ENTITY bulletList.value "Bullet (Unnumbered) List">
-<!ENTITY numberList.value "Numbered List">
-<!ENTITY definitionList.value "Definition List">
-<!ENTITY changeEntireListRadio.label "Change entire list">
-<!ENTITY changeEntireListRadio.accessKey "C">
-<!ENTITY changeSelectedRadio.label "Change just selected items">
-<!ENTITY changeSelectedRadio.accessKey "I">
+<!ENTITY ListType.label "Vrsta popisa">
+<!ENTITY bulletStyle.label "Stil grafičke oznake:">
+<!ENTITY startingNumber.label "Započmi na:">
+<!ENTITY startingNumber.accessKey "Z">
+<!ENTITY none.value "Niti jedan">
+<!ENTITY bulletList.value "Popis sa grafička oznaka (bez brojeva)">
+<!ENTITY numberList.value "Numerički popis">
+<!ENTITY definitionList.value "Popis definicija">
+<!ENTITY changeEntireListRadio.label "Promjeni cijeli popis">
+<!ENTITY changeEntireListRadio.accessKey "c">
+<!ENTITY changeSelectedRadio.label "Promjeni samo odabrane stavke">
+<!ENTITY changeSelectedRadio.accessKey "i">
