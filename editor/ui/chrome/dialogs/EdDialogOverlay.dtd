@@ -35,17 +35,17 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY AdvancedEditButton.label "Advanced Edit…">
-<!ENTITY AdvancedEditButton.accessKey "E">
-<!ENTITY AdvancedEditButton.tooltip "Add or modify HTML attributes, style attributes, and JavaScript">
-<!ENTITY chooseFileButton.label "Choose File...">
-<!ENTITY chooseFileButton.accessKey "F">
-<!ENTITY chooseFileLinkButton.label "Choose File...">
-<!ENTITY chooseFileLinkButton.accessKey "o">
-<!ENTITY makeUrlRelative.label "URL is relative to page location">
+<!ENTITY AdvancedEditButton.label "Napredno uređivanje…">
+<!ENTITY AdvancedEditButton.accessKey "e">
+<!ENTITY AdvancedEditButton.tooltip "Dodajte ili modificirajte HTML atribute, atribute stila i JavaScript">
+<!ENTITY chooseFileButton.label "Odaberi datoteku...">
+<!ENTITY chooseFileButton.accessKey "d">
+<!ENTITY chooseFileLinkButton.label "Odaberi datoteku...">
+<!ENTITY chooseFileLinkButton.accessKey "O">
+<!ENTITY makeUrlRelative.label "URL je relativan u odnosu na lokaciju stranice">
 <!ENTITY makeUrlRelative.accessKey "r">
-<!ENTITY makeUrlRelative.tooltip "Change between relative and absolute URL. You must first save the page to change this.">
+<!ENTITY makeUrlRelative.tooltip "Promijenite između relativnog i apsolutnog URL-a. Da biste promijenili, najprije morate spremiti stranicu.">
 
 <!-- Shared by Link and Image dialogs -->
-<!ENTITY LinkURLEditField.label "Enter a web page location, a local file, or select a Named Anchor or Heading from the popup list:">
-<!ENTITY LinkURLEditField.accessKey "L">
+<!ENTITY LinkURLEditField.label "Upišite lokaciju web stranice, lokalne datoteke ili odaberite imenovano sidro, odnosno naslov iz skočnog popisa:">
+<!ENTITY LinkURLEditField.accessKey "l">
