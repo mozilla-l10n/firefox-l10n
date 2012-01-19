@@ -48,12 +48,12 @@
 <!ENTITY pref_plugins_enabled "Attivato">
 <!ENTITY pref_plugins_tap_to_play "Tocca per avviare">
 <!ENTITY pref_plugins_disabled "Disattivato">
-<!ENTITY pref_text_size "Dimensione testo">
-<!ENTITY pref_font_size_tiny "Minuscola">
-<!ENTITY pref_font_size_small "Piccola">
-<!ENTITY pref_font_size_medium "Media">
+<!ENTITY pref_text_size "Dimensioni testo">
+<!ENTITY pref_font_size_tiny "Molto piccolo">
+<!ENTITY pref_font_size_small "Piccolo">
+<!ENTITY pref_font_size_medium "Medio">
 <!ENTITY pref_font_size_large "Grande">
-<!ENTITY pref_font_size_xlarge "Più grande">
+<!ENTITY pref_font_size_xlarge "Molto grande">
 <!ENTITY pref_use_master_password "Usa password principale">
 <!ENTITY quit "Esci">
 <!ENTITY addons "Componenti aggiuntivi">
