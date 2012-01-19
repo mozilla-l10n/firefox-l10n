@@ -36,18 +36,18 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Personal Dictionary">
+<!ENTITY windowTitle.label "Osobni rječnik">
 
-<!ENTITY wordEditField.label "New word:">
+<!ENTITY wordEditField.label "Nova riječ:">
 <!ENTITY wordEditField.accessKey "N">
-<!ENTITY AddButton.label "Add">
-<!ENTITY AddButton.accessKey "A">
-<!ENTITY DictionaryList.label "Words in dictionary:">
-<!ENTITY DictionaryList.accessKey "W">
-<!ENTITY ReplaceButton.label "Replace">
-<!ENTITY ReplaceButton.accessKey "R">
-<!ENTITY RemoveButton.label "Remove">
-<!ENTITY RemoveButton.accessKey "e">
+<!ENTITY AddButton.label "Dodaj">
+<!ENTITY AddButton.accessKey "a">
+<!ENTITY DictionaryList.label "Riječi u rječniku:">
+<!ENTITY DictionaryList.accessKey "R">
+<!ENTITY ReplaceButton.label "Zamijeni">
+<!ENTITY ReplaceButton.accessKey "Z">
+<!ENTITY RemoveButton.label "Ukloni">
+<!ENTITY RemoveButton.accessKey "U">
 
-<!ENTITY CloseButton.label "Close">
-<!ENTITY CloseButton.accessKey "C">
+<!ENTITY CloseButton.label "Zatvori">
+<!ENTITY CloseButton.accessKey "t">
