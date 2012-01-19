@@ -36,17 +36,17 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY WindowTitle.label              "Advanced Property Editor">
-<!ENTITY AttName.label                  "Attribute: ">
-<!ENTITY AttValue.label                 "Value: ">
-<!ENTITY PropertyName.label             "Property: ">
-<!ENTITY currentattributesfor.label     "Current attributes for: ">
-<!ENTITY tree.attributeHeader.label     "Attribute">
-<!ENTITY tree.propertyHeader.label      "Property">
-<!ENTITY tree.valueHeader.label         "Value">
-<!ENTITY tabHTML.label                  "HTML Attributes">
-<!ENTITY tabCSS.label                   "Inline Style">
-<!ENTITY tabJSE.label                   "JavaScript Events">
+<!ENTITY WindowTitle.label              "Uređivač naprednih svojstava">
+<!ENTITY AttName.label                  "Atribut: ">
+<!ENTITY AttValue.label                 "Vrijednost: ">
+<!ENTITY PropertyName.label             "Svojstvo: ">
+<!ENTITY currentattributesfor.label     "Trenutni atributi za: ">
+<!ENTITY tree.attributeHeader.label     "Atribut">
+<!ENTITY tree.propertyHeader.label      "Svojstvo">
+<!ENTITY tree.valueHeader.label         "Vrijednost">
+<!ENTITY tabHTML.label                  "HTML atributi">
+<!ENTITY tabCSS.label                   "Umetnuti stil">
+<!ENTITY tabJSE.label                   "JavaScript događaji">
 
-<!ENTITY editAttribute.label    "Click on an item above to edit its value">
-<!ENTITY removeAttribute.label  "Remove">
+<!ENTITY editAttribute.label    "Kliknite na stavku iznad da biste uredili njezinu vrijednost">
+<!ENTITY removeAttribute.label  "Ukloni">
