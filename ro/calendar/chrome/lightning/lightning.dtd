@@ -68,7 +68,7 @@
 <!ENTITY lightning.menupopup.new.task.label     "Sarcină…">
 <!ENTITY lightning.menupopup.new.task.accesskey "S">
 <!ENTITY lightning.menupopup.new.calendar.label "Calendar…">
-<!ENTITY lightning.menupopup.new.calendar.accesskey "n">
+<!ENTITY lightning.menupopup.new.calendar.accesskey "C">
 
 <!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.label               "Deschide">
@@ -80,7 +80,7 @@
 
 <!-- View Menu -->
 <!ENTITY lightning.menu.view.calendar.label            "Calendar">
-<!ENTITY lightning.menu.view.calendar.accesskey        "n">
+<!ENTITY lightning.menu.view.calendar.accesskey        "C">
 <!ENTITY lightning.menu.view.tasks.label               "Sarcini">
 <!ENTITY lightning.menu.view.tasks.accesskey           "S">
 
@@ -92,8 +92,10 @@
 <!ENTITY lightning.toolbar.mail.label         "Poștă">
 <!ENTITY lightning.toolbar.mail.accesskey     "P">
 <!ENTITY lightning.toolbar.calendar.label     "Calendar">
+<!ENTITY lightning.toolbar.calendar.tooltip   "Switch to the calendar tab">
 <!ENTITY lightning.toolbar.calendar.accesskey "C">
 <!ENTITY lightning.toolbar.task.label         "Sarcini">
+<!ENTITY lightning.toolbar.task.tooltip       "Switch to the tasks tab">
 <!ENTITY lightning.toolbar.task.accesskey     "S">
 
 <!-- Toolbar write button -->

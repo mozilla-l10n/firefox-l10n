@@ -4,6 +4,7 @@
 # Laudatti <Laudatti@gmail.com>
 # Alexandru Szasz <alexxed@gmail.com>
 # strainu <narro@strainu.ro>
+# Nicu <kneekoo@yahoo.com>
 #
 -->
 <!--
@@ -76,9 +77,9 @@
 <!ENTITY calendar.subscribe.label                          "Abonare la un calendar aflat la distanță…">
 <!ENTITY calendar.subscribe.accesskey                      "r">
 
-<!ENTITY calendar.reloadserver.label                       "Reîncarcă calendarele aflate la distanță">
-<!ENTITY calendar.reloadserver.key                         "R">
-<!ENTITY calendar.reloadserver.accesskey                   "R">
+<!ENTITY calendar.synccalendars.label                      "Synchronize Calendars">
+<!ENTITY calendar.synccalendars.key                        "R">
+<!ENTITY calendar.synccalendars.accesskey                  "S">
 
 <!ENTITY calendar.publish.calendar.label                   "Publică calendarul…">
 <!ENTITY calendar.publish.calendar.accesskey               "b">
