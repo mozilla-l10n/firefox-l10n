@@ -217,8 +217,13 @@ can reach it easily. -->
 <!ENTITY inspectButton.label "Prozkoumat">
 <!ENTITY inspectButton.accesskey "P">
 <!ENTITY inspectCloseButton.tooltiptext "Zavře průzkumníka">
-<!ENTITY inspect3DButton.label "3D">
-<!ENTITY inspect3DButton.accesskey "3">
+
+<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
+  -  alternate view for the Inspector, creating a 3D visualization of the
+  -  webpage. -->
+<!ENTITY inspect3DViewButton.label "3D pohled">
+<!ENTITY inspect3DViewButton.accesskey "e">
+
 <!ENTITY inspectStyleButton.label "Styl">
 <!ENTITY inspectStyleButton.accesskey "S">
 
