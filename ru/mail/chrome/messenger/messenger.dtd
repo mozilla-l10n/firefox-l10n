@@ -18,8 +18,8 @@
 <!ENTITY newOtherAccountsCmd.accesskey "г">
 <!ENTITY newCreateEmailAccountCmd.label "Получить новую учётную запись почты…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "л">
-<!ENTITY newExistingEmailAccountCmd.label "Учётную запись почты…">
-<!ENTITY newExistingEmailAccountCmd.accesskey "ч">
+<!ENTITY newExistingEmailAccountCmd.label "Существующая учётная запись почты…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "щ">
 <!ENTITY openMessageFileCmd.label "Открыть сохранённое сообщение…">
 <!ENTITY openMessageFileCmd.accesskey "с">
 <!ENTITY openAttachmentCmd.label "Вложения">
