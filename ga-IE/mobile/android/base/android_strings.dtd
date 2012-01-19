@@ -29,9 +29,7 @@ Cabhraigh linn, le do thoil, chun an fhadhb a réiteach!">
 
 <!ENTITY awesomebar_default_text "Cuir Ábhar Cuardaigh nó Seoladh isteach">
 
-<!ENTITY bookmarks_title "Leabharmharcanna">
-<!ENTITY bookmark_add "Leabharmharc">
-<!ENTITY bookmark_remove "Bain">
+<!ENTITY bookmark "Leabharmharc">
 <!ENTITY bookmark_added "Leabharmharc cruthaithe">
 <!ENTITY bookmark_removed "Baineadh an leabharmharc">
 
@@ -53,10 +51,6 @@ Cabhraigh linn, le do thoil, chun an fhadhb a réiteach!">
 <!ENTITY pref_about_firefox "Maidir le &brandShortName;">
 <!ENTITY pref_do_not_track "Inis do shuímh gan a bheith do mo lorg">
 <!ENTITY pref_telemetry "Seol sonraí feidhmíochta">
-<!ENTITY pref_homepage "Leathanach baile">
-<!ENTITY pref_homepage_start "Tosach Firefox">
-<!ENTITY pref_homepage_blank "Leathanach bán">
-<!ENTITY pref_homepage_current "An leathanach reatha">
 <!ENTITY pref_remember_signons "Meabhraigh focail fhaire">
 <!ENTITY pref_cookies "Cumasaigh fianáin">
 <!ENTITY pref_char_encoding "Taispeáin an t-ionchódú carachtar">
@@ -64,10 +58,10 @@ Cabhraigh linn, le do thoil, chun an fhadhb a réiteach!">
 <!ENTITY pref_clear_history_confirm "Scriofar an stair bhrabhsála">
 <!ENTITY pref_clear_private_data "Bánaigh sonraí príobháideacha">
 <!ENTITY pref_clear_private_data_confirm "Scriosfar socruithe brabhsála, focail fhaire agus fianáin san áireamh">
-<!ENTITY pref_enable_plugins "Cumasaigh forlíontáin">
-<!ENTITY pref_enable_plugins_yes "Tá">
-<!ENTITY pref_enable_plugins_tap_to_play "Cnap le seinm">
-<!ENTITY pref_enable_plugins_no "Níl">
+<!ENTITY pref_plugins "Forlíontáin">
+<!ENTITY pref_plugins_enabled "Cumasaithe">
+<!ENTITY pref_plugins_tap_to_play "Cnap le seinm">
+<!ENTITY pref_plugins_disabled "Díchumasaithe">
 <!ENTITY pref_font_size "Clómhéid">
 <!ENTITY pref_font_size_small "Beag">
 <!ENTITY pref_font_size_medium "Measartha">
@@ -78,6 +72,7 @@ Cabhraigh linn, le do thoil, chun an fhadhb a réiteach!">
 <!ENTITY quit "Scoir">
 
 <!ENTITY addons "Breiseáin">
+<!ENTITY downloads "Íosluchtú">
 
 <!ENTITY share "Roinn">
 <!ENTITY save_as_pdf "Sábháil mar PDF">
