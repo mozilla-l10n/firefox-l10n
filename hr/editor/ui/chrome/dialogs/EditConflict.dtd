@@ -36,8 +36,8 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Select Edit Changes">
-<!ENTITY conflictWarning.label "This page has been modified by another program, but you also have unsaved changes in Composer.">
-<!ENTITY conflictResolve.label "Select which version to keep:">
-<!ENTITY keepCurrentPageButton.label "Keep current page changes">
-<!ENTITY useOtherPageButton.label "Replace current page with other changes">
+<!ENTITY windowTitle.label "Odabir promjena">
+<!ENTITY conflictWarning.label "Ovu stranicu je modificirao drugi program, a također imate nespremljene promjene u Composeru.">
+<!ENTITY conflictResolve.label "Odaberite koju inačicu želite zadržati:">
+<!ENTITY keepCurrentPageButton.label "Zadrži trenutne promjene na stranici">
+<!ENTITY useOtherPageButton.label "Zamijeni trenutne promjene na stranicu s drugim promjenama">
