@@ -65,7 +65,7 @@
 <!ENTITY hdrReplyAllButton1.tooltip "Erantzun bidaltzaileari eta hartzaile guztiei">
 <!ENTITY hdrReplyListButton1.label "Erantzun zerrendari">
 <!ENTITY hdrReplyListButton1.tooltip "Erantzun posta-zerrendari">
-<!ENTITY hdrForwardButton1.label "Aurrera">
+<!ENTITY hdrForwardButton1.label "Birbidali">
 <!ENTITY hdrForwardButton1.tooltip "Birbidali mezua">
 <!ENTITY hdrJunkButton1.label "Zabor-posta">
 <!ENTITY hdrJunkButton1.tooltip "Markatu mezua zabor gisa">
