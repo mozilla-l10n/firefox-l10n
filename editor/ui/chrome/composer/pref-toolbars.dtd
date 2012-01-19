@@ -36,7 +36,7 @@
 
 <!ENTITY pref.toolbars.title    "Alatne trake">
 
-<!ENTITY composition.caption    "Prikaži ovu dugmad u alatnoj traci sastavljanja:">
+<!ENTITY composition.caption    "Prikaži ove tipke u alatnoj traci sastavljanja:">
 
 <!ENTITY new.label              "Novi">
 <!ENTITY open.label             "Otvori">
@@ -54,14 +54,14 @@
 <!ENTITY link.label             "Poveznica">
 <!ENTITY anchor.label           "Sidro">
 
-<!ENTITY formatting.caption     "Prikaži ovu dugmad u alatnoj traci oblikovanja:">
+<!ENTITY formatting.caption     "Prikaži ove tipke u alatnoj traci oblikovanja:">
 
-<!ENTITY smaller.label          "Manji">
-<!ENTITY larger.label           "Veći">
+<!ENTITY smaller.label          "Manje">
+<!ENTITY larger.label           "Veće">
 <!ENTITY bold.label             "Podebljano">
 <!ENTITY bullets.label          "Grafičke oznake">
 <!ENTITY numbers.label          "Numerički">
-<!ENTITY italic.label           "Kurzitiv">
+<!ENTITY italic.label           "Kurziv">
 <!ENTITY outdent.label          "Izvlaka">
 <!ENTITY indent.label           "Uvlaka">
 <!ENTITY underline.label        "Podvučeno">
