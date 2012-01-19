@@ -39,14 +39,14 @@
 
 <!-- Window title -->
 
-<!ENTITY windowTitle.label "Postavke vruće točke">
+<!ENTITY windowTitle.label "Hotspot postavke">
 
-<!ENTITY link.label				"Poveznica vruće točke">
-<!ENTITY urlFieldset.label		"URL vruće točke:">
-<!ENTITY altFieldset.label		"Alt tekst vruće točke:">
+<!ENTITY link.label				"Hotspot poveznica">
+<!ENTITY urlFieldset.label		"Hotspot URL:">
+<!ENTITY altFieldset.label		"Hotspot alt tekst:">
 <!ENTITY browseButton.label		"Odaberi…">
 <!ENTITY targetFieldset.label	"Ciljne postavke">
-<!ENTITY target.label			"Cilj vruće točke">
+<!ENTITY target.label			"Hotspot cilj">
 
 <!-- Targets -->
 <!ENTITY commonFieldset.label	"Zajednički ciljevi:">

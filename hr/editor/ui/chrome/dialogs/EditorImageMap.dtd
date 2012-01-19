@@ -40,7 +40,7 @@
 <!-- These strings are for use specifically in the editor's image map dialog. -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Uređivač slika">
+<!ENTITY windowTitle.label "Image map uređivač">
 
 <!-- Menu Items -->
 <!-- File menu -->
@@ -62,7 +62,7 @@
 <!ENTITY pasteCmd.accesskey "Z">
 <!ENTITY selectallCmd.label "Odaberi sve">
 <!ENTITY selectallCmd.accesskey "s">
-<!ENTITY propsCmd.label "Postavke vruće točke">
+<!ENTITY propsCmd.label "Hotspot postavke">
 <!ENTITY propsCmd.accesskey "v">
 
 <!-- View menu -->
