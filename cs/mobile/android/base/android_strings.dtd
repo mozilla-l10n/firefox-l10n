@@ -93,3 +93,10 @@
 
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Zrušit">
+
+<!ENTITY abouthome_addons_title "Doplňky aplikace &brandShortName;">
+<!ENTITY abouthome_addons_browse "Zobrazit všechny doplňky aplikace &brandShortName;">
+<!ENTITY abouthome_last_tabs_title "Panely z minula">
+<!ENTITY abouthome_last_tabs_open "Otevřít všechny panely z minula">
+<!ENTITY abouthome_top_sites_title "Top stránky">
+<!ENTITY abouthome_top_sites_browse "Zobrazit všechny top stránky">
