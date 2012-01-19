@@ -40,38 +40,38 @@
 <!-- These strings are for use specifically in the editor's image map dialog. -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Image Map Editor">
+<!ENTITY windowTitle.label "Uređivač slika">
 
 <!-- Menu Items -->
 <!-- File menu -->
-<!ENTITY mapfileMenu.label "File">
-<!ENTITY mapfileMenu.accesskey "f">
-<!ENTITY clearCmd.label "Clear">
-<!ENTITY clearCmd.accesskey "a">
-<!ENTITY closeCmd.label "Close">
-<!ENTITY closeCmd.accesskey "c">
+<!ENTITY mapfileMenu.label "Datoteka">
+<!ENTITY mapfileMenu.accesskey "D">
+<!ENTITY clearCmd.label "Očisti">
+<!ENTITY clearCmd.accesskey "O">
+<!ENTITY closeCmd.label "Zatvori">
+<!ENTITY closeCmd.accesskey "Z">
 
 <!-- Edit menu -->
-<!ENTITY mapeditMenu.label "Edit">
+<!ENTITY mapeditMenu.label "Uredi">
 <!ENTITY mapeditMenu.accesskey "e">
-<!ENTITY cutCmd.label "Cut">
-<!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "Copy">
-<!ENTITY copyCmd.accesskey "c">
-<!ENTITY pasteCmd.label "Paste">
-<!ENTITY pasteCmd.accesskey "p">
-<!ENTITY selectallCmd.label "Select All">
+<!ENTITY cutCmd.label "Izreži">
+<!ENTITY cutCmd.accesskey "I">
+<!ENTITY copyCmd.label "Kopiraj">
+<!ENTITY copyCmd.accesskey "K">
+<!ENTITY pasteCmd.label "Zalijepi">
+<!ENTITY pasteCmd.accesskey "Z">
+<!ENTITY selectallCmd.label "Odaberi sve">
 <!ENTITY selectallCmd.accesskey "s">
-<!ENTITY propsCmd.label "Hotspot Properties">
-<!ENTITY propsCmd.accesskey "h">
+<!ENTITY propsCmd.label "Postavke vruće točke">
+<!ENTITY propsCmd.accesskey "v">
 
 <!-- View menu -->
-<!ENTITY mapviewMenu.label "View">
-<!ENTITY mapviewMenu.accesskey "v">
-<!ENTITY showhideTbarCmd.label "Hide Toolbar">
+<!ENTITY mapviewMenu.label "Pogled">
+<!ENTITY mapviewMenu.accesskey "P">
+<!ENTITY showhideTbarCmd.label "Sakrij alatnu traku">
 <!ENTITY showhideTbarCmd.accesskey "t">
 <!-- Scaling -->
-<!ENTITY mapviewScale.label "Scale">
+<!ENTITY mapviewScale.label "Skala">
 <!ENTITY mapviewScale.accesskey "S">
 <!ENTITY apercentCmd.label "100">
 <!ENTITY apercentCmd.accesskey "1">
@@ -80,8 +80,8 @@
 <!ENTITY cpercentCmd.label "400">
 <!ENTITY cpercentCmd.accesskey "4">
 
-<!ENTITY zoominCmd.label "Zoom In">
-<!ENTITY zoomoutCmd.label "Zoom Out">
+<!ENTITY zoominCmd.label "Uvećaj">
+<!ENTITY zoomoutCmd.label "Umanji">
 
 <!-- Keys -->
 <!ENTITY clear.key "d">
