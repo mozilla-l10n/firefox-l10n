@@ -10,7 +10,7 @@
 <!ENTITY customColors.accesskey     "K">
 
 <!ENTITY normalText.label           "Obični tekst">
-<!ENTITY normalText.accesskey       "N">
+<!ENTITY normalText.accesskey       "n">
 <!ENTITY linkText.label             "Tekst poveznice">
 <!ENTITY linkText.accesskey         "p">
 <!ENTITY activeLinkText.label       "Tekst aktivne poveznice">
