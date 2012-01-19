@@ -16,8 +16,8 @@
 <!ENTITY  showPublishDialog.label       "Uvijek prikaži okvir za objavljivanje prilikom objavljivanja stranica">
 <!ENTITY  showPublishDialog.accesskey   "a">
 <!ENTITY  composerEditing.label         "Uređivanje">
-<!ENTITY  maintainStructure.label       "Održavaj izgled tablice prilikom umetanja ili brisanja čelija">
-<!ENTITY  maintainStructure.tooltip     "Zadrži pravokutni oblik tablice umetanjem dodatnih čelija nakon dodavanja ili brisanja čelija">
+<!ENTITY  maintainStructure.label       "Održavaj izgled tablice prilikom umetanja ili brisanja ćelija">
+<!ENTITY  maintainStructure.tooltip     "Zadrži pravokutni oblik tablice umetanjem dodatnih ćelija nakon dodavanja ili brisanja ćelija">
 <!ENTITY  maintainStructure.accesskey   "d">
 <!ENTITY  useCSS.label                  "Koristi CSS stilove umjesto HTML elemenata i atributa">
 <!ENTITY  useCSS.accesskey              "K">
