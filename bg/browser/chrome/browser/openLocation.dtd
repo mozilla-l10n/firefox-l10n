@@ -1,6 +1,6 @@
 <!-- extracted from content/openLocation.xul -->
 
-<!ENTITY enter.label "Въведете Интернет адрес (URL) или задайте локален файл, който да бъде отворен:">
+<!ENTITY enter.label "Въведете Интернет адрес (URL) или задайте локален файл, който да бъде отворен:">  
 <!ENTITY chooseFile.label "Избиране на файл…">
 <!ENTITY newTab.label "Нов подпрозорец">
 <!ENTITY newWindow.label "Нов прозорец">

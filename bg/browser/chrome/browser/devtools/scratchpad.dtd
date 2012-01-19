@@ -1,5 +1,10 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the Scratchpad window strings -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
+<!-- LOCALIZATION NOTE : FILE The correct localization of this file might be to
+  - keep it in English, or another language commonly spoken among web developers.
+  - You want to make that choice consistent across the developer tools.
+  - A good criteria is the language in which you'd find the best
+  - documentation on web development on the web. -->
 <!-- LOCALIZATION NOTE (scratchpad.title):
   -  The Scratchpad is intended to provide a simple text editor for creating
   -  and evaluating bits of JavaScript code for the purposes of function
@@ -10,68 +15,69 @@
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
 
-<!ENTITY window.title "Бяла дъска">
 
-<!ENTITY fileMenu.label "Файл">
-<!ENTITY fileMenu.accesskey "Ф">
+<!ENTITY window.title                 "Бяла дъска">
 
-<!ENTITY newWindowCmd.label "Нов прозорец">
-<!ENTITY newWindowCmd.accesskey "Н">
-<!ENTITY newWindowCmd.commandkey "n">
+<!ENTITY fileMenu.label               "Файл">
+<!ENTITY fileMenu.accesskey           "Ф">
 
-<!ENTITY openFileCmd.label "Отваряне на файл…">
-<!ENTITY openFileCmd.accesskey "О">
-<!ENTITY openFileCmd.commandkey "o">
+<!ENTITY newWindowCmd.label           "Нов прозорец">
+<!ENTITY newWindowCmd.accesskey       "Н">
+<!ENTITY newWindowCmd.commandkey      "n">
 
-<!ENTITY saveFileCmd.label "Запис">
-<!ENTITY saveFileCmd.accesskey "З">
-<!ENTITY saveFileCmd.commandkey "s">
+<!ENTITY openFileCmd.label            "Отваряне на файл…">
+<!ENTITY openFileCmd.accesskey        "О">
+<!ENTITY openFileCmd.commandkey       "o">
 
-<!ENTITY saveFileAsCmd.label "Запис като…">
-<!ENTITY saveFileAsCmd.accesskey "к">
+<!ENTITY saveFileCmd.label            "Запис">
+<!ENTITY saveFileCmd.accesskey        "З">
+<!ENTITY saveFileCmd.commandkey       "s">
 
-<!ENTITY closeCmd.label "Затваряне">
-<!ENTITY closeCmd.key "W">
-<!ENTITY closeCmd.accesskey "З">
+<!ENTITY saveFileAsCmd.label          "Запис като…">
+<!ENTITY saveFileAsCmd.accesskey      "к">
 
-<!ENTITY editMenu.label "Редактиране">
-<!ENTITY editMenu.accesskey "Р">
+<!ENTITY closeCmd.label               "Затваряне">
+<!ENTITY closeCmd.key                 "W">
+<!ENTITY closeCmd.accesskey           "т">
 
-<!ENTITY undoCmd.label "Отмяна">
-<!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "О">
+<!ENTITY editMenu.label               "Редактиране">
+<!ENTITY editMenu.accesskey           "Р">
 
-<!ENTITY redoCmd.label "Наново">
-<!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "Н">
+<!ENTITY undoCmd.label                "Възстановяване">
+<!ENTITY undoCmd.key                  "Z">
+<!ENTITY undoCmd.accesskey            "В">
 
-<!ENTITY cutCmd.label "Изрязване">
-<!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "р">
+<!ENTITY redoCmd.label                "Повтаряне">
+<!ENTITY redoCmd.key                  "Y">
+<!ENTITY redoCmd.accesskey            "П">
 
-<!ENTITY copyCmd.label "Копиране">
-<!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "К">
+<!ENTITY cutCmd.label                 "Изрязване">
+<!ENTITY cutCmd.key                   "X">
+<!ENTITY cutCmd.accesskey             "р">
 
-<!ENTITY pasteCmd.label "Поставяне">
-<!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "П">
+<!ENTITY copyCmd.label                "Копиране">
+<!ENTITY copyCmd.key                  "C">
+<!ENTITY copyCmd.accesskey            "К">
 
-<!ENTITY selectAllCmd.label "Маркиране на всичко">
-<!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "в">
+<!ENTITY pasteCmd.label               "Поставяне">
+<!ENTITY pasteCmd.key                 "V">
+<!ENTITY pasteCmd.accesskey           "П">
 
-<!ENTITY run.label "Пускане">
-<!ENTITY run.accesskey "П">
-<!ENTITY run.key "r">
+<!ENTITY selectAllCmd.label           "Избор на всичко">
+<!ENTITY selectAllCmd.key             "A">
+<!ENTITY selectAllCmd.accesskey       "в">
 
-<!ENTITY inspect.label "Изследване">
-<!ENTITY inspect.accesskey "с">
-<!ENTITY inspect.key "i">
+<!ENTITY run.label                    "Пускане">
+<!ENTITY run.accesskey                "П">
+<!ENTITY run.key                      "r">
 
-<!ENTITY display.label "Показване">
-<!ENTITY display.accesskey "П">
-<!ENTITY display.key "l">
+<!ENTITY inspect.label                "Инспектиране">
+<!ENTITY inspect.accesskey            "И">
+<!ENTITY inspect.key                  "i">
+
+<!ENTITY display.label                "Показване">
+<!ENTITY display.accesskey            "П">
+<!ENTITY display.key                  "l">
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
   -  menu in the text area. It refers to the JavaScript Environment (or context)
@@ -79,12 +85,12 @@
   -  (browser).
   -->
 
-<!ENTITY environmentMenu.label "Обкръжение">
-<!ENTITY environmentMenu.accesskey "О">
+<!ENTITY environmentMenu.label        "Обкръжение">
+<!ENTITY environmentMenu.accesskey    "О">
 
 
-<!ENTITY contentContext.label "Съдържание">
-<!ENTITY contentContext.accesskey "С">
+<!ENTITY contentContext.label         "Съдържание">
+<!ENTITY contentContext.accesskey     "С">
 <!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
   -  to select an execution environment for the browser window itself as opposed
   -  to content. This is a feature for browser and addon developers and only
@@ -92,32 +98,26 @@
   -  was called "Chrome".
   -->
 
-<!ENTITY browserContext.label "Браузър">
-<!ENTITY browserContext.accesskey "Б">
-<!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
+<!ENTITY browserContext.label         "Браузър">
+<!ENTITY browserContext.accesskey     "Б">
+<!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
 
-<!ENTITY resetContext.label "Нулиране">
-<!ENTITY resetContext.accesskey "Н">
+<!ENTITY resetContext2.label          "Анулиране на променливите">
+<!ENTITY resetContext2.accesskey      "А">
 
-<!ENTITY executeMenu.label "Изпълнение">
-<!ENTITY executeMenu.accesskey "п">
-
-<!ENTITY toolsMenu.label "Инструменти">
-<!ENTITY toolsMenu.accesskey "И">
-
-<!ENTITY errorConsoleCmd.label "Конзола на грешките">
-<!ENTITY errorConsoleCmd.accesskey "г">
-<!ENTITY errorConsoleCmd.commandkey "j">
-
-<!ENTITY webConsoleCmd.label "Уеб-конзола">
-<!ENTITY webConsoleCmd.accesskey "У">
-<!ENTITY webConsoleCmd.commandkey "k">
-<!-- LOCALIZATION NOTE (textbox.placeholder1): This is some placeholder text
-  -  that appears when the Scratchpad's text area is empty and unfocused.
-  -  It should be a one-line JavaScript comment, i.e., preceded by '//'
+<!ENTITY executeMenu.label            "Изпълнение">
+<!ENTITY executeMenu.accesskey        "п">
+<!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
+  -  the browser Error Console, the key should be identical to the property of
+  -  the same name in browser.dtd.
   -->
 
-<!ENTITY textbox.placeholder1 "// Въведете малко JavaScript, маркирайте го, щракнете с десния бутон на мишката и изберете Пускане, Изследване или Показване.">
+<!ENTITY errorConsoleCmd.commandkey   "j">
+<!-- LOCALIZATION NOTE (webConsoleCmd.commandkey): This command key launches
+  -  the browser WebConsole, the key should be identical to the property of
+  -  the same name in browser.dtd.
+  -->
 
+<!ENTITY webConsoleCmd.commandkey     "k">
