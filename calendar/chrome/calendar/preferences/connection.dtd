@@ -3,6 +3,7 @@
 #
 # Laudatti <Laudatti@gmail.com>
 # Alexandru Szasz <alexxed@gmail.com>
+# mihai <mihai.stoicoi@gmail.com>
 #
 -->
 <!--
@@ -53,7 +54,7 @@
   -->
 
 <!ENTITY  connectionsDialog.title       "Setări de conexiune">
-<!ENTITY  window.width                  "37em">
+<!ENTITY  window.width                  "40em">
 <!ENTITY  window.macWidth               "39em">
 
 <!ENTITY  proxyTitle.label              "Configurare proxy-uri pentru acces la internet">

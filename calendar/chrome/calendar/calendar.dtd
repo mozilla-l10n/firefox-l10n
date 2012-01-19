@@ -268,8 +268,8 @@
 <!ENTITY calendar.context.findcalendar.accesskey       "C" >
 <!ENTITY calendar.context.deleteserver.label           "Șterge calendarul">
 <!ENTITY calendar.context.deleteserver.accesskey       "d">
-<!ENTITY calendar.context.reloadserver.label           "Reîncarcă calendarele aflate la distanță">
-<!ENTITY calendar.context.reloadserver.accesskey       "R">
+<!ENTITY calendar.context.synccalendars.label          "Synchronize Calendars">
+<!ENTITY calendar.context.synccalendars.accesskey      "S">
 <!ENTITY calendar.context.publish.label                "Publică calendarul…">
 <!ENTITY calendar.context.publish.accesskey            "b">
 <!ENTITY calendar.context.export.label                 "Exportă calendarul…">
