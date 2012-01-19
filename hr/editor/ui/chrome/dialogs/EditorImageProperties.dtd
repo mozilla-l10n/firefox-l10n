@@ -38,76 +38,76 @@
 <!-- These strings are for use specifically in the editor's image and form image dialogs. -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Image Properties">
+<!ENTITY windowTitle.label "Postavke slike">
 
-<!ENTITY pixelsPopup.value "pixels">
+<!ENTITY pixelsPopup.value "pikseli">
 
 <!-- These are in the Location tab panel -->
-<!ENTITY locationEditField.label "Image Location:">
+<!ENTITY locationEditField.label "Lokacija slike:">
 <!ENTITY locationEditField.accessKey "L">
-<!ENTITY locationEditField.tooltip "Type the image's filename or location">
-<!ENTITY title.label "Tooltip:">
-<!ENTITY title.accessKey "T">
-<!ENTITY title.tooltip "The html 'title' attribute that displays as a tooltip">
-<!ENTITY altText.label "Alternate text:">
+<!ENTITY locationEditField.tooltip "Upiši naziv datoteke ili lokaciju">
+<!ENTITY title.label "Opis alata:">
+<!ENTITY title.accessKey "t">
+<!ENTITY title.tooltip "Html 'title' atribut koji se prikazuje u prozoru opisa alata">
+<!ENTITY altText.label "Alternativni tekst:">
 <!ENTITY altText.accessKey "A">
-<!ENTITY altTextEditField.tooltip "Type text to display in place of the image">
-<!ENTITY noAltText.label "Don't use alternate text">
-<!ENTITY noAltText.accessKey "D">
+<!ENTITY altTextEditField.tooltip "Upišite tekst koji će se prikazati na mjestu slike">
+<!ENTITY noAltText.label "Ne koristi alternativni tekst">
+<!ENTITY noAltText.accessKey "N">
 
-<!ENTITY previewBox.label "Image Preview">
+<!ENTITY previewBox.label "Pregled slike">
 
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
-<!ENTITY actualSize.label "Actual Size:">
-<!ENTITY actualSizeRadio.label "Actual Size">
-<!ENTITY actualSizeRadio.accessKey "A">
-<!ENTITY actualSizeRadio.tooltip "Revert to the image's actual size">
-<!ENTITY customSizeRadio.label "Custom Size">
-<!ENTITY customSizeRadio.accessKey "S">
-<!ENTITY customSizeRadio.tooltip "Change the image's size as displayed in the page">
-<!ENTITY heightEditField.label "Height:">
-<!ENTITY heightEditField.accessKey "G">
-<!ENTITY widthEditField.label "Width:">
-<!ENTITY widthEditField.accessKey "W">
-<!ENTITY constrainCheckbox.label "Constrain">
-<!ENTITY constrainCheckbox.accessKey "C">
-<!ENTITY constrainCheckbox.tooltip "Maintain the image's aspect ratio">
+<!ENTITY actualSize.label "Stvarna veličina:">
+<!ENTITY actualSizeRadio.label "Stvarna veličina">
+<!ENTITY actualSizeRadio.accessKey "a">
+<!ENTITY actualSizeRadio.tooltip "Vrati sliku na stvarnu veličinu">
+<!ENTITY customSizeRadio.label "Prilagođena veličina">
+<!ENTITY customSizeRadio.accessKey "P">
+<!ENTITY customSizeRadio.tooltip "Promijeni veličinu slika prikazanih na stranici">
+<!ENTITY heightEditField.label "Visina:">
+<!ENTITY heightEditField.accessKey "V">
+<!ENTITY widthEditField.label "Širina:">
+<!ENTITY widthEditField.accessKey "i">
+<!ENTITY constrainCheckbox.label "Ograniči">
+<!ENTITY constrainCheckbox.accessKey "O">
+<!ENTITY constrainCheckbox.tooltip "Zadrži omjer između stranica slike">
 
 <!-- These controls are in the Image Map box of the expanded area -->
 <!ENTITY imagemapBox.label "Image Map">
-<!ENTITY removeImageMapButton.label "Remove">
-<!ENTITY removeImageMapButton.accessKey "R">
-<!ENTITY editImageMapButton.label "Edit…">
-<!ENTITY editImageMapButton.tooltip "Create clickable hotspots for this image">
+<!ENTITY removeImageMapButton.label "Ukloni">
+<!ENTITY removeImageMapButton.accessKey "U">
+<!ENTITY editImageMapButton.label "Uredi…">
+<!ENTITY editImageMapButton.tooltip "Stvori hotspot točku za ovu sliku">
 
 <!-- These are the options for image alignment -->
-<!ENTITY alignment.label "Align Text to Image">
-<!ENTITY bottomPopup.value "At the bottom">
-<!ENTITY topPopup.value "At the top">
-<!ENTITY centerPopup.value "In the center">
-<!ENTITY wrapRightPopup.value "Wrap to the right">
-<!ENTITY wrapLeftPopup.value "Wrap to the left">
+<!ENTITY alignment.label "Poravnaj tekst uz sliku">
+<!ENTITY bottomPopup.value "Na dnu">
+<!ENTITY topPopup.value "Na vrhu">
+<!ENTITY centerPopup.value "U sredini">
+<!ENTITY wrapRightPopup.value "Omotaj na desno">
+<!ENTITY wrapLeftPopup.value "Omotaj na lijevo">
 
 <!-- These controls are in the Spacing Box -->
-<!ENTITY spacingBox.label "Spacing">
-<!ENTITY leftRightEditField.label "Left and Right:">
+<!ENTITY spacingBox.label "Razmak">
+<!ENTITY leftRightEditField.label "Lijevo i desno:">
 <!ENTITY leftRightEditField.accessKey "L">
-<!ENTITY topBottomEditField.label "Top and Bottom:">
-<!ENTITY topBottomEditField.accessKey "T">
-<!ENTITY borderEditField.label "Solid Border:">
-<!ENTITY borderEditField.accessKey "B">
+<!ENTITY topBottomEditField.label "Vrh i dno:">
+<!ENTITY topBottomEditField.accessKey "V">
+<!ENTITY borderEditField.label "Pun obrub:">
+<!ENTITY borderEditField.accessKey "b">
 
 <!-- These controls are in the Link Box -->
-<!ENTITY showImageLinkBorder.label "Show border around linked image">
-<!ENTITY showImageLinkBorder.accessKey "B">
-<!ENTITY LinkAdvancedEditButton.label "Link Advanced Edit…">
-<!ENTITY LinkAdvancedEditButton.accessKey "L">
-<!ENTITY LinkAdvancedEditButton.tooltip "Add or modify HTML attributes, style attributes, and JavaScript">
+<!ENTITY showImageLinkBorder.label "Prikaži obrub oko slike sa poveznicom">
+<!ENTITY showImageLinkBorder.accessKey "b">
+<!ENTITY LinkAdvancedEditButton.label "Napredno uređivanje poveznice…">
+<!ENTITY LinkAdvancedEditButton.accessKey "N">
+<!ENTITY LinkAdvancedEditButton.tooltip "Dodaj ili promijeni HTML atribute, atribute stila i JavaScript">
 
 <!-- These tabs are currently used in the image input dialog -->
-<!ENTITY imageInputTab.label "Form">
-<!ENTITY imageLocationTab.label "Location">
-<!ENTITY imageDimensionsTab.label "Dimensions">
-<!ENTITY imageAppearanceTab.label "Appearance">
-<!ENTITY imageLinkTab.label "Link">
+<!ENTITY imageInputTab.label "Obrazac">
+<!ENTITY imageLocationTab.label "Lokacija">
+<!ENTITY imageDimensionsTab.label "Dimenzije">
+<!ENTITY imageAppearanceTab.label "Prikaz">
+<!ENTITY imageLinkTab.label "Poveznica">
