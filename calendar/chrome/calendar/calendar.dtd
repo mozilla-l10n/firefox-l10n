@@ -247,8 +247,8 @@
 <!ENTITY calendar.context.findcalendar.accesskey       "S">
 <!ENTITY calendar.context.deleteserver.label           "Kalender löschen">
 <!ENTITY calendar.context.deleteserver.accesskey       "Ö">
-<!ENTITY calendar.context.reloadserver.label           "Externe Kalender neu laden">
-<!ENTITY calendar.context.reloadserver.accesskey       "L">
+<!ENTITY calendar.context.synccalendars.label          "Kalender synchronisieren">
+<!ENTITY calendar.context.synccalendars.accesskey      "L">
 <!ENTITY calendar.context.publish.label                "Kalender publizieren…">
 <!ENTITY calendar.context.publish.accesskey            "K">
 <!ENTITY calendar.context.export.label                 "Kalender exportieren…">
