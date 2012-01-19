@@ -34,20 +34,20 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowTitle.label "Form Properties">
+<!ENTITY windowTitle.label "Postavke obrasca">
 
-<!ENTITY Settings.label "Settings">
+<!ENTITY Settings.label "Postavke">
 
-<!ENTITY FormName.label "Form Name:">
+<!ENTITY FormName.label "Naziv obrasca:">
 <!ENTITY FormName.accesskey "N">
-<!ENTITY FormAction.label "Action URL:">
-<!ENTITY FormAction.accesskey "A">
-<!ENTITY FormMethod.label "Method:">
+<!ENTITY FormAction.label "URL radnje:">
+<!ENTITY FormAction.accesskey "a">
+<!ENTITY FormMethod.label "Metoda:">
 <!ENTITY FormMethod.accesskey "M">
-<!ENTITY FormEncType.label "Encoding:">
-<!ENTITY FormEncType.accesskey "c">
-<!ENTITY FormTarget.label "Target Frame:">
-<!ENTITY FormTarget.accesskey "T">
+<!ENTITY FormEncType.label "Kodiranje:">
+<!ENTITY FormEncType.accesskey "K">
+<!ENTITY FormTarget.label "Ciljni okvir:">
+<!ENTITY FormTarget.accesskey "C">
 
-<!ENTITY RemoveForm.label "Remove Form">
-<!ENTITY RemoveForm.accesskey "R">
+<!ENTITY RemoveForm.label "Ukloni obrazac">
+<!ENTITY RemoveForm.accesskey "U">
