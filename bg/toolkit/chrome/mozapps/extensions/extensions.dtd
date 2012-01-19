@@ -24,8 +24,8 @@
 <!ENTITY warning.updatesecurity.enable.tooltip "Активиране на проверката за безопасност на обновяването на добавки">
 <!-- global informations -->
 
-<!ENTITY info.plugincheck.label "Проверка дали вашите приставки са обновени">
-<!ENTITY info.plugincheck.tooltip "Проверка дали вашите приставки са обновени">
+<!ENTITY info.plugincheck.label "Проверка дали вашите приставки са с последна версия">
+<!ENTITY info.plugincheck.tooltip "Проверка дали вашите приставки са с последна версия">
 <!-- categories / views -->
 
 <!ENTITY view.search.label "Търсене">

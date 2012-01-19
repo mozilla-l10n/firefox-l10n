@@ -102,9 +102,9 @@ can reach it easily. -->
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY subscribeToPageMenupopup.label "Абониране за тази страница">
 <!ENTITY subscribeToPageMenuitem.label "Абониране за тази страница…">
-<!ENTITY addCurPagesCmd.label "Отмятане на всички подпрозорци…">
+<!ENTITY addCurPagesCmd.label "Отметка с всички подпрозорци…">
 <!ENTITY showAllBookmarks2.label "Показване на всички отметки">
-<!ENTITY unsortedBookmarksCmd.label "Несортирани отметки">
+<!ENTITY unsortedBookmarksCmd.label "Неподредени отметки">
 <!ENTITY bookmarksToolbarChevron.tooltip "Показване на повече отметки">
 
 <!ENTITY backCmd.label "Назад">
@@ -179,7 +179,7 @@ can reach it easily. -->
 <!ENTITY addons.accesskey "Д">
 <!ENTITY addons.commandkey "A">
 
-<!ENTITY webDeveloperMenu.label "Уеб-разработчик">
+<!ENTITY webDeveloperMenu.label "Уеб разработчик">
 <!ENTITY webDeveloperMenu.accesskey "У">
 
 <!ENTITY errorConsoleCmd.label "Конзола на грешките">
@@ -204,8 +204,8 @@ can reach it easily. -->
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
 
-<!ENTITY scratchpad.label "Бяла дъска">
-<!ENTITY scratchpad.accesskey "Б">
+<!ENTITY scratchpad.label "Scratchpad">
+<!ENTITY scratchpad.accesskey "S">
 <!ENTITY scratchpad.keycode "VK_F4">
 <!ENTITY scratchpad.keytext "F4">
 
@@ -226,8 +226,8 @@ can reach it easily. -->
 <!ENTITY inspectObjectButton.label "Обект">
 <!ENTITY inspectObjectButton.accesskey "О">
 
-<!ENTITY getMoreDevtoolsCmd.label "Изтегляне на още инструменти">
-<!ENTITY getMoreDevtoolsCmd.accesskey "о">
+<!ENTITY getMoreDevtoolsCmd.label "Още инструменти">
+<!ENTITY getMoreDevtoolsCmd.accesskey "и">
 
 <!ENTITY fileMenu.label "Файл">
 <!ENTITY fileMenu.accesskey "Ф">
@@ -309,7 +309,7 @@ can reach it easily. -->
 <!ENTITY appMenuSafeMode.accesskey "Р">
 
 <!ENTITY openCmd.commandkey "l">
-<!ENTITY urlbar.placeholder "Go to a Web Site">
+<!ENTITY urlbar.placeholder "Отиване в уеб сайт">
 <!ENTITY urlbar.accesskey "Т">
 <!ENTITY urlbar.switchToTab.label "Превключване към подпрозорец:">
 <!-- 

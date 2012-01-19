@@ -20,12 +20,12 @@
 <!ENTITY pluginWizard.finalPage.moreInfo.label "Научете повече за приставките или потърсете сами липсващите такива.">
 <!ENTITY pluginWizard.finalPage.restart.label "Трябва да рестартирате &brandShortName;, за да заработят приставките.">
 
-<!ENTITY missingPlugin "Нужна е определена приставка за показване на това съдържание">
+<!ENTITY missingPlugin "Нужна е приставка, за да се покаже това съдържание.">
 <!ENTITY disabledPlugin "Тази приставка е деактивирана.">
 <!ENTITY blockedPlugin.label "Приставката беше блокирана от съобрания за сигурност.">
 
 <!ENTITY installPlugin "Инсталиране на приставка…">
-<!ENTITY managePlugins "Управление на приставките…">
+<!ENTITY managePlugins "Управление на приставки…">
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
