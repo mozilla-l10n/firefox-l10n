@@ -1,12 +1,3 @@
-<!ENTITY empty.label            "Bilaketa">
-<!ENTITY newpref.label          "Gehitu hobespen berria">
-<!ENTITY addpref.name           "Izena">
-<!ENTITY addpref.value          "Balioa">
-
-<!ENTITY cancel.label           "Utzi">
-<!ENTITY reset.label            "Berrezarri">
-<!ENTITY done.label             "Eginda">
-
-<!ENTITY integer.label          "Osoko zenbakia">
-<!ENTITY string.label           "Katea">
-<!ENTITY boolean.label          "Boolearra">
+<!ENTITY search.placeholder2    "Bilatu ezarpenak">
+<!ENTITY clear.altText          "Garbitu">
+<!ENTITY newpref.label2         "Gehitu ezarpen berria">

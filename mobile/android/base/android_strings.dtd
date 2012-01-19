@@ -4,6 +4,11 @@
 <!ENTITY  no_space_to_start_error "Ez dago toki libre nahikorik &brandShortName; hasteko.">
 <!ENTITY  error_loading_file "Errorea gertatu da &brandShortName; exekutatzeko behar diren fitxategiak kargatzean">
 
+<!ENTITY  awesomebar_all_pages_title "Gune erabilienak">
+<!ENTITY  awesomebar_bookmarks_title "Laster-markak">
+<!ENTITY  awesomebar_history_title "Historia">
+<!ENTITY  awesomebar_search_engine "Bilatu \&quot;&#037;s\&quot;">
+
 <!ENTITY  crash_reporter_title "&brandShortName; hutsegite-berriemailea">
 <!ENTITY  crash_message "&brandShortName;(e)k huts egin du. Berrabiaraztean, &brandShortName;(r)en hasiera-orrian zerrendatuko dira zure fitxak.">
 <!ENTITY  crash_help_message "Lagun gaitzazu arazo hau konpontzen!">
@@ -19,3 +24,72 @@
 <!ENTITY  launcher_shortcuts_empty "Ez da web aplikaziorik aurkitu">
 
 <!ENTITY choose_file "Aukeratu fitxategia">
+
+<!ENTITY awesomebar_default_text "Sartu bilaketa edo helbidea">
+
+<!ENTITY bookmark "Laster-marka">
+<!ENTITY bookmark_added "Laster-marka gehituta">
+<!ENTITY bookmark_removed "Laster-marka kenduta">
+
+<!ENTITY history_today_section "Gaur">
+<!ENTITY history_yesterday_section "Atzo">
+<!ENTITY history_week_section "Duela 7 egun">
+<!ENTITY history_older_section "7 egun baino zaharragoa">
+
+<!ENTITY reload "Birkargatu">
+<!ENTITY forward "Aurrera">
+
+<!ENTITY new_tab "Fitxa berria">
+
+<!ENTITY settings "Ezarpenak">
+<!ENTITY settings_title "Ezarpenak">
+<!ENTITY pref_category_general "Orokorra">
+<!ENTITY pref_category_privacy "Pribatutasuna eta segurtasuna">
+<!ENTITY pref_category_content "Edukia">
+<!ENTITY pref_about_firefox "&brandShortName;(r)i buruz">
+<!ENTITY pref_do_not_track "Esan guneei nire jarraipenik ez egiteko">
+<!ENTITY pref_telemetry "Bidali errendimenduaren datuak">
+<!ENTITY pref_remember_signons "Gogoratu pasahitzak">
+<!ENTITY pref_cookies "Gaitu cookie-ak">
+<!ENTITY pref_char_encoding "Erakutsi karaktere-kodeketa">
+<!ENTITY pref_clear_history "Garbitu historia">
+<!ENTITY pref_clear_history_confirm "Nabigatze-historia ezabatu egingo da">
+<!ENTITY pref_clear_private_data "Garbitu datu pribatuak">
+<!ENTITY pref_clear_private_data_confirm "Nabigatze-ezarpenak, pasahitzak eta cookie-ak barne, ezabatu egingo dira">
+<!ENTITY pref_plugins "Pluginak">
+<!ENTITY pref_plugins_enabled "Gaituta">
+<!ENTITY pref_plugins_tap_to_play "Sakatu erreproduzitzeko">
+<!ENTITY pref_plugins_disabled "Desgaituta">
+<!ENTITY pref_font_size "Letra-tamaina">
+<!ENTITY pref_font_size_small "Txikia">
+<!ENTITY pref_font_size_medium "Normala">
+<!ENTITY pref_font_size_large "Handia">
+<!ENTITY pref_font_size_xlarge "Oso handia">
+<!ENTITY pref_use_master_password "Erabili pasahitz nagusia">
+
+<!ENTITY quit "Irten">
+
+<!ENTITY addons "Gehigarriak">
+<!ENTITY downloads "Deskargak">
+
+<!ENTITY share "Partekatu">
+<!ENTITY save_as_pdf "Gorde PDF gisa">
+<!ENTITY agent_request_desktop "Eskatu mahaigainerako gunea">
+<!ENTITY agent_request_mobile "Eskatu mugikorrerako gunea">
+
+<!ENTITY contextmenu_open_new_tab "Ireki fitxa berrian">
+<!ENTITY contextmenu_add_to_launcher "Gehitu hasierako pantailan">
+<!ENTITY contextmenu_share "Partekatu">
+
+<!ENTITY site_settings_title        "Garbitu gunearen ezarpenak">
+<!ENTITY site_settings_cancel       "Utzi">
+<!ENTITY site_settings_clear        "Garbitu">
+<!ENTITY site_settings_no_settings  "Ez dago garbitzeko ezarpenik.">
+
+<!ENTITY masterpassword_create_title "Sortu pasahitz nagusia">
+<!ENTITY masterpassword_remove_title "Kendu pasahitz nagusia">
+<!ENTITY masterpassword_password "Pasahitza">
+<!ENTITY masterpassword_confirm "Berretsi pasahitza">
+
+<!ENTITY button_ok "Ados">
+<!ENTITY button_cancel "Utzi">
