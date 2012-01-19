@@ -253,8 +253,8 @@
 <!ENTITY calendar.context.findcalendar.accesskey "A">
 <!ENTITY calendar.context.deleteserver.label "Scrios Féilire">
 <!ENTITY calendar.context.deleteserver.accesskey "S">
-<!ENTITY calendar.context.reloadserver.label "Athluchtaigh Cianfhéilirí">
-<!ENTITY calendar.context.reloadserver.accesskey "A">
+<!ENTITY calendar.context.synccalendars.label "Sioncrónaigh Féilirí">
+<!ENTITY calendar.context.synccalendars.accesskey "S">
 <!ENTITY calendar.context.publish.label "Foilsigh Féilire…">
 <!ENTITY calendar.context.publish.accesskey "F">
 <!ENTITY calendar.context.export.label "Easpórtáil Féilire…">

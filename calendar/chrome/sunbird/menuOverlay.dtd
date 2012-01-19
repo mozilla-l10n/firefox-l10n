@@ -62,9 +62,9 @@
 <!ENTITY calendar.subscribe.label "Liostáil le Cianfhéilire…">
 <!ENTITY calendar.subscribe.accesskey "C">
 
-<!ENTITY calendar.reloadserver.label "Athluchtaigh Cianfhéilirí">
-<!ENTITY calendar.reloadserver.key "R">
-<!ENTITY calendar.reloadserver.accesskey "A">
+<!ENTITY calendar.synccalendars.label "Sioncrónaigh Féilirí">
+<!ENTITY calendar.synccalendars.key "R">
+<!ENTITY calendar.synccalendars.accesskey "S">
 
 <!ENTITY calendar.publish.calendar.label "Foilsigh Féilire…">
 <!ENTITY calendar.publish.calendar.accesskey "F">
