@@ -56,9 +56,9 @@
 <!ENTITY calendar.pagesetup.accesskey "U">
 <!ENTITY calendar.subscribe.label "Gerast áskrifandi að fjartengdu dagatali…">
 <!ENTITY calendar.subscribe.accesskey "r">
-<!ENTITY calendar.reloadserver.label "Endurnýja fjartengd dagatöl">
-<!ENTITY calendar.reloadserver.key "ö">
-<!ENTITY calendar.reloadserver.accesskey "r">
+<!ENTITY calendar.synccalendars.label "Samstilla dagatöl">
+<!ENTITY calendar.synccalendars.key "R">
+<!ENTITY calendar.synccalendars.accesskey "S">
 <!ENTITY calendar.publish.calendar.label "Gefa út dagatal…">
 <!ENTITY calendar.publish.calendar.accesskey "e">
 <!ENTITY calendar.publish.selection.label "Gefa út valin atriði…">

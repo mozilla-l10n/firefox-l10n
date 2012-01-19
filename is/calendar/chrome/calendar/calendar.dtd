@@ -226,8 +226,8 @@
 <!ENTITY calendar.context.findcalendar.accesskey "F">
 <!ENTITY calendar.context.deleteserver.label "Eyða dagatali">
 <!ENTITY calendar.context.deleteserver.accesskey "E">
-<!ENTITY calendar.context.reloadserver.label "Endurnýja fjartengd dagatöl">
-<!ENTITY calendar.context.reloadserver.accesskey "r">
+<!ENTITY calendar.context.synccalendars.label "Samstilla dagatöl">
+<!ENTITY calendar.context.synccalendars.accesskey "S">
 <!ENTITY calendar.context.publish.label "Gefa út dagatal…">
 <!ENTITY calendar.context.publish.accesskey "G">
 <!ENTITY calendar.context.export.label "Flytja út dagatal…">
