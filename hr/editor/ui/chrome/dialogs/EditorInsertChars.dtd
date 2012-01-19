@@ -37,16 +37,16 @@
 
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Insert Character">
-<!ENTITY category.label "Category">
-<!ENTITY letter.label "Letter:">
-<!ENTITY letter.accessKey "L">
-<!ENTITY character.label "Character:">
-<!ENTITY character.accessKey "C">
-<!ENTITY accentUpper.label "Accent Uppercase">
-<!ENTITY accentLower.label "Accent Lowercase">
-<!ENTITY otherUpper.label "Other Uppercase">
-<!ENTITY otherLower.label "Other Lowercase">
-<!ENTITY commonSymbols.label "Common Symbols">
-<!ENTITY insertButton.label "Insert">
-<!ENTITY closeButton.label "Close">
+<!ENTITY windowTitle.label "Umetni znak">
+<!ENTITY category.label "Kategorija">
+<!ENTITY letter.label "Slovo:">
+<!ENTITY letter.accessKey "l">
+<!ENTITY character.label "Znak:">
+<!ENTITY character.accessKey "Z">
+<!ENTITY accentUpper.label "Istakni velika slova">
+<!ENTITY accentLower.label "Istakni mala slova">
+<!ENTITY otherUpper.label "Druga velika slova">
+<!ENTITY otherLower.label "Druga mala slova">
+<!ENTITY commonSymbols.label "Zajednički simboli">
+<!ENTITY insertButton.label "Umetni">
+<!ENTITY closeButton.label "Zatvori">
