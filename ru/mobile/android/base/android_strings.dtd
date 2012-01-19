@@ -40,9 +40,9 @@
 <!ENTITY pref_remember_signons "Запоминать пароли">
 <!ENTITY pref_cookies "Включить куки">
 <!ENTITY pref_char_encoding "Показывать кодировку">
-<!ENTITY pref_clear_history "Очистить журнал">
-<!ENTITY pref_clear_history_confirm "Журнал веб-сёрфинга будет удалён">
-<!ENTITY pref_clear_private_data "Очистить мои данные">
+<!ENTITY pref_clear_history "Очистить историю">
+<!ENTITY pref_clear_history_confirm "История веб-сёрфинга будет очищена">
+<!ENTITY pref_clear_private_data "Удалить мои данные">
 <!ENTITY pref_clear_private_data_confirm "Настройки веб-сёрфинга, включая пароли и куки, будут удалены">
 <!ENTITY pref_plugins "Плагины">
 <!ENTITY pref_plugins_enabled "Включены">
