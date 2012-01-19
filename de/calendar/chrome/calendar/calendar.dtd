@@ -174,6 +174,10 @@
 <!ENTITY calendar.task.complete.button.tooltip  "Ausgewählte Aufgaben als abgeschlossen markieren">
 <!ENTITY calendar.task.priority.button.tooltip  "Priorität ändern">
 
+<!ENTITY calendar.task.text-filter.textbox.emptytext.base            "Aufgaben filtern… #1">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Shift+K&gt;">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
+
 <!-- Statusbar -->
 <!ENTITY statusText.label            "Dokument: Fertig">
 
