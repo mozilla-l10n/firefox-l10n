@@ -68,3 +68,11 @@
 
 <!ENTITY publishSettings.label "Argitaratzeko gunearen ezarpenak…">
 <!ENTITY publishSettings.accesskey "r">
+<!-- Toolbar buttons/items -->
+
+<!ENTITY newToolbarCmd.label "Berria">
+<!ENTITY newToolbarCmd.tooltip "Sortu Composer orri berria">
+<!ENTITY openToolbarCmd.label "Ireki">
+<!ENTITY openToolbarCmd.tooltip "Ireki fitxategi lokala">
+<!ENTITY saveToolbarCmd.tooltip "Gorde fitxategia kokaleku lokalean">
+<!ENTITY publishToolbarCmd.tooltip "Igo fitxategia urruneko kokaleku batera">
