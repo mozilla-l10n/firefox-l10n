@@ -40,14 +40,12 @@
 <!ENTITY netInterrupt.title "Връзката беше прекъсната">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!ENTITY notCached.title "Документът е с изтекъл срок на валидност">
+<!ENTITY notCached.longDesc "<p>Исканият документ не е наличен в кеша на &brandShortName;.</p><ul><li>Като мярка за безопасност, &brandShortName; не изтегля наново сенситивни документи.</li><li>Натиснете Опит отново за ново изтегляне на документа от сайта.</li></ul>">
+
 <!ENTITY netOffline.title "Режим на работа извън мрежата">
-<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
-     indicate that "Work Offline" is a menu item without being too specific,
-     since it could be in either the normal menu (Mac/Linux) or the Firefox button
-     menu (Windows).
--->
-<!ENTITY netOffline.overrideLongDesc "<ul> 
-<li>Махнете отметката на „Работа извън мрежата“ и опитайте пак.</li> 
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>Натиснете „Нов опит“, за да превключите към режим с връзка и да презаредите страницата.</li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "Грешка в кодирането на съдържанието">
@@ -125,6 +123,10 @@
 
 <!ENTITY cspFrameAncestorBlocked.title "Блокирано от политика за сигурност на страницата">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; предотврати зареждането на страницата по този начин, защото страницата е с политика за сигурност, което го забранява.</p>">
+
+<!ENTITY corruptedContentError.title "Грешка на развалено съдържание">
+<!ENTITY corruptedContentError.longDesc "<p>Не може да се покаже страницата, която се опитвате на видите, защото беше открита грешка при прехвърлянето на данни.</p><ul><li>Моля, свържете се със собствениците на сайта и ги информирайте за проблема.</li></ul>">
+
 
 <!ENTITY securityOverride.linkText "Или може да добавите изключение…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Махам се от тук!">

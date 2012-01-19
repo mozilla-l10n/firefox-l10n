@@ -54,8 +54,8 @@
 <!ENTITY valueColumn.label "Стойност">
 <!-- Tooltips -->
 
-<!ENTITY prefColumnHeader.tooltip "Сортиране при щракване">
-<!ENTITY columnChooser.tooltip "Избиране на колони за показване при щракване">
+<!ENTITY prefColumnHeader.tooltip "Сортиране при щракване"> 
+<!ENTITY columnChooser.tooltip "Избиране на колони за показване при щракване"> 
 <!-- Context Menu -->
 
 <!ENTITY copyPref.key "C">

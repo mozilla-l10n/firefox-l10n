@@ -38,5 +38,5 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY settingsChangePreferences.label "Промени могат да се извършват от настройките на &brandShortName;.">
-<!ENTITY settingsChangeOptions.label "Промени могат да се извършват от настройките на &brandShortName;.">
+<!ENTITY  settingsChangePreferences.label  "Промени могат да се извършват от настройките на &brandShortName;.">
+<!ENTITY  settingsChangeOptions.label      "Промени могат да се извършват от настройките на &brandShortName;.">

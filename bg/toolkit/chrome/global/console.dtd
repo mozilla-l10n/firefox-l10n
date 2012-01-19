@@ -37,32 +37,32 @@
 
 <!ENTITY errorConsole.title "Конзола на грешките">
 
-<!ENTITY errFile.label "Изходен файл:">
-<!ENTITY errLine.label "Ред:">
+<!ENTITY errFile.label   "Изходен файл:">
+<!ENTITY errLine.label   "Ред:">
 <!ENTITY errColumn.label "Стълб:">
 
-<!ENTITY all.label "Всичко">
-<!ENTITY all.accesskey "В">
-<!ENTITY errors.label "Грешки">
-<!ENTITY errors.accesskey "Г">
-<!ENTITY warnings.label "Предупреждения">
+<!ENTITY all.label          "Всичко">
+<!ENTITY all.accesskey      "В">
+<!ENTITY errors.label       "Грешки">
+<!ENTITY errors.accesskey   "Г">
+<!ENTITY warnings.label     "Предупреждения">
 <!ENTITY warnings.accesskey "П">
-<!ENTITY messages.label "Съобщения">
+<!ENTITY messages.label     "Съобщения">
 <!ENTITY messages.accesskey "С">
-<!ENTITY clear.label "Изчистване">
-<!ENTITY clear.accesskey "ч">
-<!ENTITY codeEval.label "Код:">
+<!ENTITY clear.label        "Изчистване">
+<!ENTITY clear.accesskey    "ч">
+<!ENTITY codeEval.label     "Код:">
 <!ENTITY codeEval.accesskey "К">
-<!ENTITY evaluate.label "Изчисляване">
+<!ENTITY evaluate.label     "Изчисляване">
 <!ENTITY evaluate.accesskey "с">
 
-<!ENTITY copyCmd.label "Копиране">
-<!ENTITY copyCmd.accesskey "К">
-<!ENTITY copyCmd.commandkey "C">
-<!ENTITY sortFirst.label "Сортиране пръв > последен">
+<!ENTITY copyCmd.label       "Копиране">  
+<!ENTITY copyCmd.accesskey   "К"> 
+<!ENTITY copyCmd.commandkey  "C"> 
+<!ENTITY sortFirst.label     "Сортиране пръв > последен">
 <!ENTITY sortFirst.accesskey "С">
-<!ENTITY sortLast.label "Сортиране последен > пръв">
-<!ENTITY sortLast.accesskey "л">
-<!ENTITY closeCmd.commandkey "w">
-<!ENTITY focus1.commandkey "l">
-<!ENTITY focus2.commandkey "d">
+<!ENTITY sortLast.label      "Сортиране последен > пръв">
+<!ENTITY sortLast.accesskey  "л">
+<!ENTITY closeCmd.commandkey "w">  
+<!ENTITY focus1.commandkey   "l">  
+<!ENTITY focus2.commandkey   "d">  
