@@ -93,3 +93,10 @@
 
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Anuluj">
+
+<!ENTITY abouthome_addons_title "Polecane dodatki">
+<!ENTITY abouthome_addons_browse "Zobacz wszystkie dostępne dodatki">
+<!ENTITY abouthome_last_tabs_title "Karty z ostatniej sesji">
+<!ENTITY abouthome_last_tabs_open "Otwórz wszystkie karty z ostatniej sesji">
+<!ENTITY abouthome_top_sites_title "Najczęstsze">
+<!ENTITY abouthome_top_sites_browse "Zobacz wszystkie">
