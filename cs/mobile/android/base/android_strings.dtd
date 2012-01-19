@@ -76,6 +76,7 @@
 <!ENTITY save_as_pdf "Uložit jako PDF">
 
 <!ENTITY contextmenu_open_new_tab "Otevřít v novém panelu">
+<!ENTITY contextmenu_remove_bookmark "Smazat">
 <!ENTITY contextmenu_add_to_launcher "Přidat na úvodní obrazovku">
 <!ENTITY contextmenu_share "Sdílet">
 
