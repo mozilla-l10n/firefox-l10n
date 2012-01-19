@@ -2,6 +2,30 @@
 <!ENTITY playButton.pauseLabel "Пауза">
 <!ENTITY muteButton.muteLabel "Заглушаване">
 <!ENTITY muteButton.unmuteLabel "Със звук">
+<!ENTITY fullscreenButton.enterfullscreenlabel "Full Screen">
+<!ENTITY fullscreenButton.exitfullscreenlabel "Exit Full Screen">
+
+<!ENTITY stats.media "Медиа">
+<!ENTITY stats.size "Големина">
+<!ENTITY stats.activity "Активност">
+<!ENTITY stats.activityPaused "Пауза">
+<!ENTITY stats.activityPlaying "Възпроизвеждане">
+<!ENTITY stats.activityEnded "Край">
+<!ENTITY stats.activitySeeking "(преместване)">
+<!ENTITY stats.volume "Сила на звука">
+<!ENTITY stats.channels "Канали">
+<!ENTITY stats.sampleRate "Честота на сампълите">
+<!ENTITY stats.framesParsed "Разпознати рамки">
+<!ENTITY stats.framesDecoded "Декодирани рамки">
+<!ENTITY stats.framesPresented "Налични рамки">
+<!ENTITY stats.framesPainted "Изчертани рамки">
+
+<!ENTITY error.aborted "Video loading stopped.">
+<!ENTITY error.network "Video playback aborted due to a network error.">
+<!ENTITY error.decode "Video can't be played because the file is corrupt.">
+<!ENTITY error.srcNotSupported "Video format or MIME type is not supported.">
+<!ENTITY error.noSource2 "No video with supported format and MIME type found.">
+<!ENTITY error.generic "Video playback aborted due to an unknown error.">
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be

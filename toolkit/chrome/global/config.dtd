@@ -43,9 +43,9 @@
 <!ENTITY aboutWarningButton.label "Ще бъда внимателен, обещавам!">
 <!ENTITY aboutWarningCheckbox.label "Показване на това предупреждение и следващия път">
 
-<!ENTITY filterPrefs.label "Филтър:">
-<!ENTITY filterPrefs.accesskey "Ф">
-<!ENTITY focusFilter.key "ф">
+<!ENTITY searchPrefs.label "Search:">
+<!ENTITY searchPrefs.accesskey "r">
+<!ENTITY focusSearch.key "r">
 <!-- Columns -->
 
 <!ENTITY prefColumn.label "Име на настройка">
@@ -54,8 +54,8 @@
 <!ENTITY valueColumn.label "Стойност">
 <!-- Tooltips -->
 
-<!ENTITY prefColumnHeader.tooltip "Сортиране при щракване">
-<!ENTITY columnChooser.tooltip "Избиране на колони за показване при щракване">
+<!ENTITY prefColumnHeader.tooltip "Сортиране при щракване"> 
+<!ENTITY columnChooser.tooltip "Избиране на колони за показване при щракване"> 
 <!-- Context Menu -->
 
 <!ENTITY copyPref.key "C">
