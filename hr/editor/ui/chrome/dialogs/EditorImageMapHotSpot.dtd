@@ -39,20 +39,20 @@
 
 <!-- Window title -->
 
-<!ENTITY windowTitle.label "Hotspot Properties">
+<!ENTITY windowTitle.label "Postavke vruće točke">
 
-<!ENTITY link.label				"Hotspot Link">
-<!ENTITY urlFieldset.label		"Hotspot URL:">
-<!ENTITY altFieldset.label		"Hotspot Alt Text:">
-<!ENTITY browseButton.label		"Browse…">
-<!ENTITY targetFieldset.label	"Target Setting">
-<!ENTITY target.label			"Hotspot Target">
+<!ENTITY link.label				"Poveznica vruće točke">
+<!ENTITY urlFieldset.label		"URL vruće točke:">
+<!ENTITY altFieldset.label		"Alt tekst vruće točke:">
+<!ENTITY browseButton.label		"Odaberi…">
+<!ENTITY targetFieldset.label	"Ciljne postavke">
+<!ENTITY target.label			"Cilj vruće točke">
 
 <!-- Targets -->
-<!ENTITY commonFieldset.label	"Common Targets:">
-<!ENTITY none.value				"(none)">
-<!ENTITY same.value				"Same Frame">
-<!ENTITY whole.value			"Whole Page">
-<!ENTITY new.value				"New Window">
-<!ENTITY parent.value			"Parent Frame">
+<!ENTITY commonFieldset.label	"Zajednički ciljevi:">
+<!ENTITY none.value				"(niti jedan)">
+<!ENTITY same.value				"Isti okvir">
+<!ENTITY whole.value			"Cijela stranica">
+<!ENTITY new.value				"Novi prozor">
+<!ENTITY parent.value			"Izvorni okvir">
 
