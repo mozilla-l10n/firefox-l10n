@@ -60,7 +60,8 @@
 <!ENTITY pref_plugins_enabled "Włączone">
 <!ENTITY pref_plugins_tap_to_play "Dotknij, aby odtworzyć">
 <!ENTITY pref_plugins_disabled "Wyłączone">
-<!ENTITY pref_font_size "Rozmiar tekstu">
+<!ENTITY pref_text_size "Rozmiar tekstu">
+<!ENTITY pref_font_size_tiny "Bardzo mały">
 <!ENTITY pref_font_size_small "Mały">
 <!ENTITY pref_font_size_medium "Średni">
 <!ENTITY pref_font_size_large "Duży">
