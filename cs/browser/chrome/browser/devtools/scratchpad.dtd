@@ -67,6 +67,22 @@
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
 
+<!ENTITY findCmd.label "Najít…">
+<!ENTITY findCmd.key "F">
+<!ENTITY findCmd.accesskey "N">
+
+<!ENTITY findAgainCmd.label "Najít znovu…">
+<!-- LOCALIZATION NOTE (findAgainCmd.key): This key is used only on Macs.
+  -  Windows and Linux builds use the F3 key which is not localizable on purpose.
+  -->
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.accesskey "z">
+<!-- LOCALIZATION NOTE (findPreviousCmd.key): This key is used only on Macs.
+  -  Windows and Linux builds use the Shift-F3 key which is not localizable on
+  -  purpose.
+  -->
+<!ENTITY findPreviousCmd.key "G">
+
 <!ENTITY run.label "Spusit">
 <!ENTITY run.accesskey "S">
 <!ENTITY run.key "r">
