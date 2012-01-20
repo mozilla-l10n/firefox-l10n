@@ -15,13 +15,27 @@
 -->
 <!ENTITY aboutDialog.title          "&brandFullName; אודות">
 
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+<!ENTITY warningDesc.version        "תוכנת &brandShortName; היא נסיונית וייתכן שלא תהיה יציבה.">
+<!-- LOCALIZATION NOTE (warningDesc.telemetry): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetry      "תוכנה זו שולחת באופן אוטומטי מידע בדיקות חזרה אל &vendorShortName; כדי לסייע בשיפור &brandShortName;.">
+
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+<!ENTITY community.exp.start        "">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+<!ENTITY community.exp.middle       "היא ">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "קהילה עולמית">
+<!ENTITY community.exp.end          " שמשימתה היא להשאיר את הרשת פתוחה, ציבורית ונגישה לכולם.">
+
 <!ENTITY community.start2           "&brandShortName; תוכנן על־ידי ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "קהילה עולמית">
-<!ENTITY community.end2             " שעובדת בשיתוף פעולה כדי להפוך את האינטרנט למקום יותר טוב. אנו מאמינים כי האינטרנט צריך להיות פתוח, חופשי ונגיש לכולם, ללא שום מגבלות.">
+<!ENTITY community.end3             " שמשימתה היא להשאיר את הרשת פתוחה, ציבורית ונגישה לכולם.">
 
 <!ENTITY contribute.start           "נשמע מעניין? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->

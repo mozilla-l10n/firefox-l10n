@@ -234,8 +234,17 @@ can reach it easily. -->
 <!ENTITY inspectButton.label            "חקור">
 <!ENTITY inspectButton.accesskey        "ח">
 <!ENTITY inspectCloseButton.tooltiptext "סגור את החוקר">
+<!ENTITY inspect3DButton.label        "תלת מימד">
+<!ENTITY inspect3DButton.accesskey    "ת">
 <!ENTITY inspectStyleButton.label     "סגנון">
 <!ENTITY inspectStyleButton.accesskey "ס">
+
+<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
+  -  in the Tools menu. -->
+<!ENTITY styleeditor.label            "עורך סגנון">
+<!ENTITY styleeditor.accesskey        "ס">
+<!ENTITY styleeditor.keycode          "VK_F7">
+<!ENTITY styleeditor.keytext          "F7">
 
 <!ENTITY getMoreDevtoolsCmd.label        "קבלת כלים נוספים">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "ק">
@@ -439,15 +448,24 @@ can reach it easily. -->
 <!ENTITY thisFrameMenu.accesskey          "ג">
 
 <!-- Media (video/audio) controls -->
-<!ENTITY mediaPlay.label             "נגן">
+<!-- LOCALIZATION NOTE: The access keys for "Play" and
+"Pause" are the same because the two context-menu
+items are mutually exclusive. -->
+<!ENTITY mediaPlay.label             "ניגון">
 <!ENTITY mediaPlay.accesskey         "נ">
 <!ENTITY mediaPause.label            "השהה">
 <!ENTITY mediaPause.accesskey        "ה">
-<!ENTITY mediaMute.label             "השתק">
+<!-- LOCALIZATION NOTE: The access keys for "Mute" and
+"Unmute" are the same because the two context-menu
+items are mutually exclusive. -->
+<!ENTITY mediaMute.label             "השתקה">
 <!ENTITY mediaMute.accesskey         "ש">
 <!ENTITY mediaUnmute.label           "בטל השתקה">
 <!ENTITY mediaUnmute.accesskey       "ש">
-<!ENTITY mediaShowControls.label     "הצג פקדים">
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
+<!ENTITY mediaShowControls.label     "הצגת פקדים">
 <!ENTITY mediaShowControls.accesskey "פ">
 <!ENTITY mediaHideControls.label     "הסתר פקדים">
 <!ENTITY mediaHideControls.accesskey "פ">
@@ -455,7 +473,10 @@ can reach it easily. -->
 <!ENTITY videoFullScreen.accesskey   "מ">
 <!ENTITY videoSaveImage.label        "שמור צילום בשם…">
 <!ENTITY videoSaveImage.accesskey    "צ">
-<!ENTITY videoShowStats.label        "הצג סטטיסטיקות">
+<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
+"Hide Statistics" are the same because the two context-menu
+items are mutually exclusive. -->
+<!ENTITY videoShowStats.label        "הצגת סטטיסטיקה">
 <!ENTITY videoShowStats.accesskey    "צ">
 <!ENTITY videoHideStats.label        "הסתר סטטיסטיקות">
 <!ENTITY videoHideStats.accesskey    "ס">

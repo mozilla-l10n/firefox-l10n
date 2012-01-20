@@ -55,7 +55,9 @@
 <!ENTITY connectionSettings.label        "הגדרות...">
 <!ENTITY connectionSettings.accesskey    "ה">
 
-<!ENTITY offlineStorage.label            "אחסון לא מקוון">
+<!ENTITY httpCache.label                 "תוכן רשת במטמון">
+
+<!ENTITY offlineStorage2.label           "תוכן רשת לא מקוון ונתוני משתמש">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -68,13 +70,15 @@
 <!ENTITY limitCacheSizeAfter.label       "מ״ב של מקום">
 <!ENTITY clearCacheNow.label             "מחק עכשיו">
 <!ENTITY clearCacheNow.accesskey         "מ">
+<!ENTITY clearOfflineAppCacheNow.label   "מחק עכשיו">
+<!ENTITY clearOfflineAppCacheNow.accesskey "מ">
 <!ENTITY overrideSmartCacheSize.label    "עקוף את ניהול המטמון האוטומטי">
 <!ENTITY overrideSmartCacheSize.accesskey "ע">
 
 <!ENTITY updateTab.label                 "עדכון">
 
 <!ENTITY updateApp.label                 "עדכוני &brandShortName;:">
-<!ENTITY updateAuto.label                "התקנת עדכונים אוטומטית (מומלץ: אבטחה משופרת)">
+<!ENTITY updateAuto.label                "התקנת עדכונים אוטומטית (מומלץ אבטחה משופרת)">
 <!ENTITY updateAuto.accesskey            "א">
 <!ENTITY updateCheck.label               "בדיקת עדכונים, אבל הצגת הודעה שתאפשר לי לבחור אם להתקין אותם">
 <!ENTITY updateCheck.accesskey           "ה">
@@ -101,7 +105,7 @@
 <!ENTITY offlineNotifyExceptions.label   "חריגות…">
 <!ENTITY offlineNotifyExceptions.accesskey "ח">
 
-<!ENTITY offlineAppsList.label           "לאתרים הבאים נשמרים נתונים לשימוש לא מקוון:">
+<!ENTITY offlineAppsList2.label          "האתרים הבאים מורשים לשמור נתונים לשימוש לא מקוון:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "הסר...">
 <!ENTITY offlineAppsListRemove.accesskey "ה">

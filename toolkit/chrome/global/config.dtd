@@ -55,9 +55,9 @@
 <!ENTITY aboutWarningButton.label "אני אזהר, מבטיח!">
 <!ENTITY aboutWarningCheckbox.label "הצג אזהרה זו בפעם הבאה">
 
-<!ENTITY filterPrefs.label "מסנן:">
-<!ENTITY filterPrefs.accesskey "מ">
-<!ENTITY focusFilter.key "f">
+<!ENTITY searchPrefs.label "חיפוש:">
+<!ENTITY searchPrefs.accesskey "ח">
+<!ENTITY focusSearch.key "r">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "שם העדפה">
@@ -91,5 +91,4 @@
 <!ENTITY integer.accesskey "ס">
 <!ENTITY boolean.label "בוליאני">
 <!ENTITY boolean.accesskey "ב">
-
 
