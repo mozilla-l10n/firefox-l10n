@@ -445,7 +445,6 @@
 <!ENTITY deleteButton.label "Borrar">
 <!ENTITY undeleteButton.label "Desfacer Eliminar">
 <!ENTITY markButton.label "Marcar">
-<!ENTITY printButton.label "Imprimir">
 <!ENTITY stopButton.label "Deter">
 <!ENTITY junkButton.label "Correo lixo">
 <!ENTITY notJunkButton.label "Non é correo lixo">
@@ -469,7 +468,6 @@
 <!ENTITY deleteButton.tooltip "Eliminar a mensaxe ou o cartafol seleccionado">
 <!ENTITY undeleteButton.tooltip "Desfai a eliminación da mensaxe seleccionada">
 <!ENTITY markButton.tooltip "Marcar mensaxes">
-<!ENTITY printButton.tooltip "Imprimir esta mensaxe">
 <!ENTITY stopButton.tooltip "Deter a transferencia actual">
 <!ENTITY throbber.tooltip "Ir á páxina de inicio de &vendorShortName;">
 <!ENTITY junkButton.tooltip "Marcar as mensaxes seleccionadas como correo lixo">
