@@ -1,0 +1,11 @@
+<!ENTITY aboutHome.header                       "<span>&brandShortName; </span><span id='header-suffix'>Začetek</span>">
+<!ENTITY aboutHome.recentTabs                   "Vaši zavihki od zadnje uporabe">
+<!ENTITY aboutHome.remoteTabs                   "Zavihki vaših ostalih računalnikov">
+<!ENTITY aboutHome.recommendedAddons2           "Dodatki za vaš &brandShortName;">
+<!ENTITY aboutHome.giveFeedback                 "Vaše mnenje?">
+<!ENTITY aboutHome.getHelp                      "Potrebujete pomoč?">
+<!ENTITY aboutHome.footerWidth                  "10em">
+<!ENTITY aboutHome.openAllTabs                  "Odpri vse v zavihkih">
+<!ENTITY aboutHome.noTabs                       "Ni zavihkov od zadnje uporabe">
+<!ENTITY aboutHome.noAddons                     "Ni priporočenih dodatkov">
+<!ENTITY aboutHome.getLocale                    "Spremeni jezik">
