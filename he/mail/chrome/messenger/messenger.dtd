@@ -12,7 +12,6 @@
 # http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
 #
 -->
-<!ENTITY messengerWindow.title "דואר וקבוצות דיון">
 <!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 

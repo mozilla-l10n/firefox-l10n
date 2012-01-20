@@ -95,8 +95,6 @@
 <!ENTITY useService.accesskey            "b">
 
 <!ENTITY updateOthers.label              "עדכונים אוטומטיים עבור:">
-<!ENTITY enableAddonsUpdate3.label       "תוספות">
-<!ENTITY enableAddonsUpdate3.accesskey   "ת">
 <!ENTITY enableSearchUpdate.label        "מנועי חיפוש">
 <!ENTITY enableSearchUpdate.accesskey    "מ">
 
