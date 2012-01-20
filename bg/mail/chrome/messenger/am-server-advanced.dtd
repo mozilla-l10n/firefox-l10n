@@ -1,6 +1,5 @@
 <!ENTITY serverAdvanced.label "Разширени настройки">
-<!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
-<!ENTITY imapAdvanced.label "Разширени настройки за IMAP сървър">
+<!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
 <!ENTITY serverDirectory.label "Директория на IMAP сървър:">
 <!ENTITY serverDirectory.accesskey "Д">
 <!ENTITY usingSubscription.label "Показване само на абонираните папки">
@@ -11,7 +10,7 @@
 <!ENTITY useIdle.accesskey "I">
 <!ENTITY maximumConnectionsNumber.label "Максимален брой кеширани връзки">
 <!ENTITY maximumConnectionsNumber.accesskey "М">
-<!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
+<!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
 <!ENTITY namespaceDesc.label "Тези настройки определят пространството от имена на вашия IMAP сървър">
 <!ENTITY personalNamespace.label "Лично именно пространство:">
 <!ENTITY personalNamespace.accesskey "Л">
@@ -21,8 +20,7 @@
 <!ENTITY otherUsersNamespace.accesskey "Д">
 <!ENTITY overrideNamespaces.label "Сървърът може да променя тези именни пространства">
 <!ENTITY overrideNamespaces.accesskey "С">
-<!ENTITY pop3Desc.label "При изтегляне на pop поща от този сървър, ще се използва тази папка за нова поща:">
-<!ENTITY folderStorage.label "Къде да се пази пощата">
+<!ENTITY pop3Desc.label "При изтегляне на pop поща от този сървър, ще се използва тази папка за нова поща:" >
 <!ENTITY globalInbox.label "Обща пощенска кутия (Регистрация Местни папки)">
 <!ENTITY globalInbox.accesskey "О">
 <!ENTITY accountDirectory.label "Пощенска кутия на тази поща">

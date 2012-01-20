@@ -1,15 +1,4 @@
 <!--LOCALIZATION NOTE sendprogress.dtd Main UI for Send Message Progress Dialog -->
-<!ENTITY sendWindow.title "Изпращане на писма">
-<!ENTITY titlePrefixSave "Запис на писма -">
-<!ENTITY titlePrefixSend "Изпращане на писма -">
-<!ENTITY status "Състояние:">
-<!ENTITY progress "Напредък:">
-<!-- LOCALIZATION NOTE (percentMsg):
-
-    This string is used to format the text to the right of the progress
-    meter.
-
-    #1 will be replaced by the percentage of the file that has been saved -->
-<!ENTITY percentMsg "#1&#037;">
-<!ENTITY messageSent "Вашето писмо беше изпратено">
-<!ENTITY messageSaved "Вашето писмо беше записано">
+<!ENTITY sendWindow.title "Изпращане на писма"> 
+<!ENTITY status.label "Състояние:">
+<!ENTITY progress.label "Напредък:">

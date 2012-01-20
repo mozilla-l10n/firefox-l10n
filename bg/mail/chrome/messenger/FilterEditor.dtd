@@ -1,44 +1,42 @@
 <!ENTITY window.title "Правила за филтриране">
-<!ENTITY subject.label "тема">
-<!ENTITY sender.label "подател">
-<!ENTITY date.label "дата">
-<!ENTITY anyText.label "някакъв текст">
-<!ENTITY keyword.label "дума">
-<!ENTITY age.label "възраст в дни">
-<!ENTITY to.label "в">
-<!-- LOCALIZATION NOTE (cc.label): DONT_TRANSLATE -->
-<!ENTITY cc.label "Cc">
-<!ENTITY status.label "състояние">
-<!ENTITY priority.label "приоритет">
-<!ENTITY body.label "тяло">
-<!ENTITY contains.label "съдържа">
-<!ENTITY nocontains.label "не съдържа">
+<!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "Име на филтър:">
 <!ENTITY filterName.accesskey "И">
+
 <!ENTITY junk.label "Нежелана поща">
 <!ENTITY notJunk.label "Желана поща">
+
 <!ENTITY lowestPriorityCmd.label "По-нисък">
 <!ENTITY lowPriorityCmd.label "Нисък">
 <!ENTITY normalPriorityCmd.label "Нормален">
 <!ENTITY highPriorityCmd.label "Висок">
 <!ENTITY highestPriorityCmd.label "По-висок">
-<!ENTITY conditionDesc.label "За входящи писма, които:">
+
+<!ENTITY contextDesc.label "Прилагане на филтъра когато:">
+<!ENTITY contextDesc.accesskey "к">
+<!ENTITY contextIncoming.label "се проверява пощата">
+<!ENTITY contextManual.label "се стартира ръчно">
+<!ENTITY contextBoth.label "се проверява пощата или се стартира ръчно">
+<!ENTITY contextPostPlugin.label "Проверка на пощата (след класифициране)">
+<!ENTITY contextPostPluginBoth.label "Проверка на пощата (след класифициране) или ръчно стартиране">
 <!ENTITY filterActionDesc.label "Изпълняват се следните действия:">
 <!ENTITY filterActionDesc.accesskey "л">
-<!ENTITY newFolderButton.label "Нова папка...">
-<!ENTITY newFolderButton.accesskey "о">
 <!-- New Style Filter Rule Actions -->
-<!ENTITY moveMessage.label "Move Message to">
-<!ENTITY copyMessage.label "Copy Message to">
+
+<!ENTITY moveMessage.label "Преместване на писмото в">
+<!ENTITY copyMessage.label "Копиране на писмото в">
 <!ENTITY forwardTo.label "Препращане за:">
 <!ENTITY replyWithTemplate.label "Отговор с шаблон:">
-<!ENTITY markMessageRead.label "Mark As Read">
-<!ENTITY markMessageFlagged.label "Mark As Flagged">
-<!ENTITY labelMessage.label "Label Message As">
-<!ENTITY setPriority.label "Set Priority to">
-<!ENTITY setJunkScore.label "Установяване статус нежелана поща на:">
-<!ENTITY deleteMessage.label "Delete Message">
-<!ENTITY deleteFromPOP.label "Delete From POP Server">
-<!ENTITY fetchFromPOP.label "Fetch From POP Server">
-<!ENTITY ignoreThread.label "Ignore Thread">
+<!ENTITY markMessageRead.label "Отбелязване като прочетено">
+<!ENTITY markMessageStarred.label "Добавяне на звезда">
+<!ENTITY setPriority.label "Задаване приоритета на">
+<!ENTITY addTag.label "Отбелязване на писмо">
+<!ENTITY setJunkScore.label "Задаване статус нежелана поща на">
+<!ENTITY deleteMessage.label "Изтриване на писмо">
+<!ENTITY deleteFromPOP.label "Изтриване от POP сървъра">
+<!ENTITY fetchFromPOP.label "Извличане от POP сървъра
+">
+<!ENTITY ignoreThread.label "Игнориране на дискусия">
+<!ENTITY ignoreSubthread.label "Игнориране на поддискусия">
 <!ENTITY watchThread.label "Наблюдаване на дискусия">
+<!ENTITY stopExecution.label "Спиране изпълнението на филтър">

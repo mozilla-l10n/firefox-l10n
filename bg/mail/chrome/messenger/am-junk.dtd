@@ -1,0 +1,20 @@
+<!ENTITY junkSettings.label "Настройки за нежелана поща">
+<!ENTITY trainingWarning.label "Ако активирате настройката, първо трябва да обучите &brandShortName; да определя нежеланата поща като използвате бутона Нежелана поща от лентата с инструменти, за да маркирате писмата. Необходимо е да отбелязвате както нежеланата, така и желаната поща.">
+<!ENTITY level.label "Включване на адаптивния контрол върху нежеланата поща за тази регистрация">
+<!ENTITY level.accesskey "В">
+
+<!ENTITY move.label "Преместване на новите нежелани писма в:">
+<!ENTITY move.accesskey "П">
+<!ENTITY junkFolderOn.label "Папка &quot;Нежелана поща&quot; на:">
+<!ENTITY junkFolderOn.accesskey "Н">
+<!ENTITY otherFolder.label "Друга:">
+<!ENTITY otherFolder.accesskey "Д">
+<!ENTITY purge1.label "Автоматично изтриване на нежеланата поща след">
+<!ENTITY purge1.accesskey "в">
+<!ENTITY purge2.label "дена">
+
+<!ENTITY whitelist.label "Да не се отбелязва като нежелана поща, ако подателя е в: ">
+<!ENTITY whitelist.accesskey "Д">
+
+<!ENTITY ispHeaders.label "Доверяване на заглавки от нежелана поща установени от: ">
+<!ENTITY ispHeaders.accesskey "р">

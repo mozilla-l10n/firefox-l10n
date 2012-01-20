@@ -35,6 +35,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!-- Window title -->
+
 <!ENTITY windowTitle.label "Избор на промени в редакцията">
 <!ENTITY conflictWarning.label "Страницата е променена от друга програма, но вие имате също незаписани промени в композитора.">
 <!ENTITY conflictResolve.label "Изберете коя версия да запазите:">

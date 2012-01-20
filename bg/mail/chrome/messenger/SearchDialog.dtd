@@ -1,65 +1,66 @@
 <!-- for SearchDialog.xul -->
-<!ENTITY searchHeading.label "Търсене на писма в:">
-<!ENTITY searchHeading.accesskey "р">
-<!ENTITY searchSubfolders.label "Търсене на подпапки">
-<!ENTITY searchSubfolders.accesskey "ъ">
-<!ENTITY resetButton.label "Изчистване">
-<!ENTITY resetButton.accesskey "ч">
-<!ENTITY optionsButton.label "Настройки">
-<!ENTITY closeButton.label "Затваряне">
-<!ENTITY openButton.label "Отваряне">
-<!ENTITY openButton.accesskey "О">
-<!ENTITY deleteButton.label "Изтриване">
-<!ENTITY deleteButton.accesskey "з">
-<!ENTITY searchDialogTitle.label "Търсене на писма">
-<!ENTITY conditionDesc.label "Търсене на писма, съвпадащи с:">
-<!ENTITY conditions.label "Критерий">
-<!ENTITY results.label "Резултати">
-<!ENTITY fileHereMenu.label "Записване тук">
-<!ENTITY fileHereMenu.accesskey "а">
-<!ENTITY fileButton.label "Файл">
-<!ENTITY fileButton.accesskey "л">
-<!ENTITY closeCmd.key "W">
-<!ENTITY goToFolderButton.label "Отваряне папката с писмото">
-<!ENTITY goToFolderButton.accesskey "к">
-<!ENTITY saveAsVFButton.label "Запиши като папка за търсене">
-<!ENTITY saveAsVFButton.accesskey "ш">
+<!ENTITY searchHeading.label         "Търсене на писма в:">
+<!ENTITY searchHeading.accesskey     "р">
+<!ENTITY searchSubfolders.label      "Търсене на подпапки">
+<!ENTITY searchSubfolders.accesskey  "ъ">
+<!ENTITY searchOnServer.label        "Стартиране търсене на сървъра">
+<!ENTITY searchOnServer.accesskey    "т">
+<!ENTITY resetButton.label           "Изчистване">
+<!ENTITY resetButton.accesskey       "ч">
+<!ENTITY openButton.label            "Отваряне">
+<!ENTITY openButton.accesskey        "О">
+<!ENTITY deleteButton.label          "Изтриване">
+<!ENTITY deleteButton.accesskey      "з">
+<!ENTITY searchDialogTitle.label     "Търсене на писма">
+<!ENTITY results.label               "Резултати">
+<!ENTITY fileHereMenu.label          "Записване тук">
+<!ENTITY fileHereMenu.accesskey      "а">
+<!ENTITY fileButton.label            "Файл">
+<!ENTITY fileButton.accesskey        "л">
+<!ENTITY closeCmd.key                "W"> 
+<!ENTITY openInFolder.label          "Отваряне в папката">
+<!ENTITY openInFolder.accesskey      "к">
+<!ENTITY saveAsVFButton.label        "Запиши като папка за търсене">
+<!ENTITY saveAsVFButton.accesskey    "ш">
 <!-- for ABSearchDialog.xul -->
-<!ENTITY abSearchHeading.label "Търсене в:">
-<!ENTITY abSearchHeading.accesskey "Т">
-<!ENTITY propertiesButton.label "Свойства">
-<!ENTITY propertiesButton.accesskey "й">
-<!ENTITY composeButton.label "Писане на писмо">
-<!ENTITY composeButton.accesskey "П">
-<!ENTITY abSearchDialogTitle.label "Разширено търсене в адресника">
+
+<!ENTITY abSearchHeading.label       "Търсене в:">
+<!ENTITY abSearchHeading.accesskey   "Т">
+<!ENTITY propertiesButton.label      "Свойства">
+<!ENTITY propertiesButton.accesskey  "й">
+<!ENTITY composeButton.label         "Писане на писмо">
+<!ENTITY composeButton.accesskey     "П">
+<!ENTITY abSearchDialogTitle.label   "Разширено търсене в адресника">
 <!-- Thread Pane -->
+
 <!ENTITY threadColumn.label "Дискусия">
-<!ENTITY senderColumn.label "Подател">
+<!ENTITY fromColumn.label "Подател">
 <!ENTITY recipientColumn.label "Получател">
 <!ENTITY subjectColumn.label "Тема">
 <!ENTITY dateColumn.label "Дата">
 <!ENTITY priorityColumn.label "Приоритет">
-<!ENTITY labelColumn.label "Етикет">
+<!ENTITY tagsColumn.label "Етикети">
 <!ENTITY accountColumn.label "Пощенски адрес">
 <!ENTITY statusColumn.label "Състояние">
 <!ENTITY sizeColumn.label "Размер">
 <!ENTITY junkStatusColumn.label "Статус нежелана поща">
-<!ENTITY linesColumn.label "Редове">
 <!ENTITY unreadColumn.label "Непрочетени">
 <!ENTITY totalColumn.label "Всичко">
 <!ENTITY readColumn.label "Прочетени">
-<!ENTITY flagColumn.label "Флаг">
+<!ENTITY receivedColumn.label "Получени">
+<!ENTITY starredColumn.label "Със звезда">
 <!ENTITY locationColumn.label "Местоположение">
 <!ENTITY idColumn.label "Ред на получаване">
 <!-- Thread Pane Tooltips -->
+
 <!ENTITY columnChooser.tooltip "Изберете колони за показване">
-<!ENTITY threadColumn.tooltip "Изберете показване по дискусии">
-<!ENTITY senderColumn.tooltip "Изберете подреждане по подател">
+<!ENTITY threadColumn.tooltip "Изберете показване по дискусии"> 
+<!ENTITY fromColumn.tooltip "Изберете подреждане по подател">
 <!ENTITY recipientColumn.tooltip "Изберете подреждане по получател">
 <!ENTITY subjectColumn.tooltip "Изберете подреждане по тема">
 <!ENTITY dateColumn.tooltip "Изберете подреждане по дата">
 <!ENTITY priorityColumn.tooltip "Изберете подреждане по приоритет">
-<!ENTITY labelColumn.tooltip "Изберете подреждане по етикети">
+<!ENTITY tagsColumn.tooltip "Изберете подреждане по етикет">
 <!ENTITY accountColumn.tooltip "Изберете подреждане по пощенски адреси">
 <!ENTITY statusColumn.tooltip "Изберете подреждане по състояние">
 <!ENTITY sizeColumn.tooltip "Изберете подреждане по размер">
@@ -67,6 +68,7 @@
 <!ENTITY unreadColumn.tooltip "Брой на непрочетени писма в дискусия">
 <!ENTITY totalColumn.tooltip "Общ брой на писмата в дискусията">
 <!ENTITY readColumn.tooltip "Изберете подреждане по прочетени">
-<!ENTITY flagColumn.tooltip "Изберете подреждане по флаг">
+<!ENTITY receivedColumn.tooltip "Изберете подреждане по дата на получаване">
+<!ENTITY starredColumn.tooltip "Изберете подреждане по наличие на звезда">
 <!ENTITY locationColumn.tooltip "Изберете подреждане по местоположение">
 <!ENTITY idColumn.tooltip "Изберете подреждане по реда на получаване">
