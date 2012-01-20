@@ -39,7 +39,7 @@
 
 <!ENTITY contribute.start           "נשמע מעניין? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "היה מעורב!">
+<!ENTITY contribute.getInvolvedLink "הצטרפו אלינו!">
 <!ENTITY contribute.end             "">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
