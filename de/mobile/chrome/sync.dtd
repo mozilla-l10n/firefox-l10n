@@ -19,3 +19,5 @@
 <!ENTITY sync.setup.connect         "Verbinden">
 <!ENTITY sync.setup.cancel          "Abbrechen">
 <!ENTITY sync.setup.tutorial        "Anleitung">
+<!ENTITY sync.setup.close           "Schließen">
+<!ENTITY sync.setup.waitingdownload "Ihre Daten werden jetzt im Hintergrund heruntergeladen. Sie können dieses Fenster jederzeit schließen.">
