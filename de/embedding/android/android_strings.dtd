@@ -1,5 +1,3 @@
-
-<!ENTITY  splash_screen_loading "Lädt">
 <!ENTITY  splash_screen_installing_libs "Libraries werden installiert\u2026">
 <!ENTITY  splash_firstrun "&brandShortName; wird eingerichtet\u2026">
 <!ENTITY  no_space_to_start_error "Es ist nicht genügend Platz verfügbar, um &brandShortName; zu starten.">
