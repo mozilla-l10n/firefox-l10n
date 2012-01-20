@@ -1,0 +1,22 @@
+<!ENTITY sync.title                 "Sync">
+<!ENTITY sync.notconnected          "Brez povezave">
+<!ENTITY sync.connect               "Poveži">
+<!ENTITY sync.connected             "Povezan">
+<!ENTITY sync.details               "Več">
+<!ENTITY sync.synchronize           "Omogoči Sync">
+<!ENTITY sync.deviceName            "Ta naprava">
+<!ENTITY sync.disconnect            "Odklopi">
+<!ENTITY sync.syncNow               "Sinhroniziraj zdaj">
+
+<!ENTITY sync.setup.title           "Poveži se z Sync">
+<!ENTITY sync.setup.jpake           "Na računalniku s Firefoxom, ki je povezan s Sync, izberite Možnosti, pojdite na Možnosti za Sync in &#x0022;Dodaj napravo&#x0022;">
+<!ENTITY sync.fallback              "Nisem blizu svojega računalnika…">
+<!ENTITY sync.setup.manual          "Vnesite podatke o svojem Sync računu">
+<!ENTITY sync.account               "Ime računa">
+<!ENTITY sync.password              "Geslo">
+<!ENTITY sync.syncKey               "Ključ Sync">
+<!ENTITY sync.customServer          "Uporabi uporabnikov strežnik">
+<!ENTITY sync.serverURL             "URL strežnika">
+<!ENTITY sync.setup.connect         "Poveži">
+<!ENTITY sync.setup.cancel          "Prekliči">
+<!ENTITY sync.setup.tutorial        "Pokaži, kako">
