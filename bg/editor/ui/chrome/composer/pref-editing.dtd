@@ -1,24 +1,28 @@
-<!ENTITY lHeader "Настройки за нова страница">
-<!ENTITY rHeader "Подразбиращо се за нови страници">
-<!ENTITY authorName.label "Автор:">
-<!ENTITY authorName.accesskey "А">
-<!ENTITY pageColorHeader "Подразбиращ се изглед на страница">
-<!ENTITY defaultColorsRadio.label "Цветовете по подразбиране на читателя (без определяне на цветове в страницата)">
-<!ENTITY defaultColors.accesskey "ц">
-<!ENTITY customColorsRadio.label "Използвайте ваши цветове:">
-<!ENTITY customColors.accesskey "в">
-<!ENTITY normalText.label "Нормален текст">
-<!ENTITY normalText.accesskey "Н">
-<!ENTITY linkText.label "Текст на препратката">
-<!ENTITY linkText.accesskey "Т">
-<!ENTITY activeLinkText.label "Текст на активна препратка">
-<!ENTITY activeLinkText.accesskey "Т">
-<!ENTITY visitedLinkText.label "Текст на посетени препратки">
-<!ENTITY visitedLinkText.accesskey "Т">
-<!ENTITY background.label "Фон:">
-<!ENTITY background.accesskey "Ф">
-<!ENTITY colon.character ":">
-<!ENTITY backgroundImage.label "Фоново изображение">
-<!ENTITY backgroundImage.accesskey "б">
-<!ENTITY chooseFile.label "Избор на файл...">
-<!ENTITY chooseFile.accesskey "И">
+<!ENTITY  pref.editing.title        "Настройки за нова страница">
+
+<!ENTITY  authorName.label          "Автор:">
+<!ENTITY  authorName.accesskey      "А">
+<!ENTITY  pageColorHeader           "Подразбиращ се изглед на страница">
+
+<!ENTITY defaultColors.label        "Читателски цветове по подразбиране (без определяне на цветове в страницата)">
+<!ENTITY defaultColors.accesskey    "б">
+<!ENTITY customColors.label         "Използвайте ваши цветове:">
+<!ENTITY customColors.accesskey     "в">
+
+<!ENTITY normalText.label           "Нормален текст">
+<!ENTITY normalText.accesskey       "Н">
+<!ENTITY linkText.label             "Текст на връзката">
+<!ENTITY linkText.accesskey         "Т">
+<!ENTITY activeLinkText.label       "Текст на активна връзка">
+<!ENTITY activeLinkText.accesskey   "а">
+<!ENTITY visitedLinkText.label      "Текст на посетени връзка">
+<!ENTITY visitedLinkText.accesskey  "п">
+<!ENTITY background.label           "Фон:">
+<!ENTITY background.accesskey       "Ф">
+<!ENTITY colon.character            ":">
+
+<!ENTITY backgroundImage.label      "Фоново изображение">
+<!ENTITY backgroundImage.accesskey  "б">
+<!ENTITY chooseFile.label           "Избор на файл…">
+<!ENTITY chooseFile.accesskey       "И">
+

@@ -20,7 +20,7 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   Charles Manxke (cmanske@netscape.com)
+   -   Charles Manske (cmanske@netscape.com)
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -36,10 +36,8 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!-- Window title -->
-<!ENTITY windowTitle.label "Проверка адреса на изображението и препратката">
-<!ENTITY urlsNotFound.label "Адресът на изображението или препратката не бе открит:">
-<!ENTITY notFoundKey.label "(&quot;X&quot; = файла липсва, &quot;?&quot; = времето изтече в опит за свързване.)">
-<!ENTITY changeUrlButton.label "Промяна адреса на избрания елемент">
-<!ENTITY succeeded.label "Успешен">
-<!ENTITY failed.label "Неуспешен">
-<!ENTITY closeButton.label "Затваряне">
+
+<!ENTITY windowTitle.label     "Проверка местоположението на изображение и връзка">
+<!ENTITY succeeded.label       "Успешен">
+<!ENTITY failed.label          "Неуспешен">
+<!ENTITY closeButton.label     "Затваряне">

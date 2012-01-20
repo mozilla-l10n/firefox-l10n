@@ -36,10 +36,13 @@
    - ***** END LICENSE BLOCK ***** -->
 <!-- These strings are for use specifically in the editor's image and form image dialogs. -->
 <!-- Window title -->
+
+
 <!ENTITY windowTitle.label "Свойства на изображението">
+
 <!ENTITY pixelsPopup.value "пиксели">
-<!ENTITY percentPopup.value "процент">
 <!-- These are in the Location tab panel -->
+
 <!ENTITY locationEditField.label "Адрес на изображението:">
 <!ENTITY locationEditField.accessKey "А">
 <!ENTITY locationEditField.tooltip "Напишете името на файла с картинката или нейния адрес">
@@ -51,10 +54,11 @@
 <!ENTITY altTextEditField.tooltip "Напишете текст за показване на мястото на изображението">
 <!ENTITY noAltText.label "Без заместващ текст">
 <!ENTITY noAltText.accessKey "Б">
+
 <!ENTITY previewBox.label "Преглед на изображението">
-<!ENTITY MoreFewerButton.tooltip "Display more or fewer properties to edit">
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
+
 <!ENTITY actualSize.label "Истински размер:">
 <!ENTITY actualSizeRadio.label "Истински размер">
 <!ENTITY actualSizeRadio.accessKey "И">
@@ -70,12 +74,14 @@
 <!ENTITY constrainCheckbox.accessKey "ю">
 <!ENTITY constrainCheckbox.tooltip "Запазване размерното съотношение на изображението">
 <!-- These controls are in the Image Map box of the expanded area -->
+
 <!ENTITY imagemapBox.label "Изображение">
 <!ENTITY removeImageMapButton.label "Премахване">
 <!ENTITY removeImageMapButton.accessKey "х">
-<!ENTITY editImageMapButton.label "Промяна...">
+<!ENTITY editImageMapButton.label "Редактиране…">
 <!ENTITY editImageMapButton.tooltip "Създаване на чувствителна на щракване зона">
 <!-- These are the options for image alignment -->
+
 <!ENTITY alignment.label "Подравнение на текста с изображението">
 <!ENTITY bottomPopup.value "В края">
 <!ENTITY topPopup.value "В началото">
@@ -83,8 +89,8 @@
 <!ENTITY wrapRightPopup.value "Обтичане отдясно">
 <!ENTITY wrapLeftPopup.value "Обтичане отляво">
 <!-- These controls are in the Spacing Box -->
+
 <!ENTITY spacingBox.label "Разстояние">
-<!ENTITY spacingBox.tooltip "Напишете цифра за размера около изображението">
 <!ENTITY leftRightEditField.label "Отляво и отдясно">
 <!ENTITY leftRightEditField.accessKey "О">
 <!ENTITY topBottomEditField.label "Начало и край">
@@ -92,16 +98,16 @@
 <!ENTITY borderEditField.label "Плътен контур:">
 <!ENTITY borderEditField.accessKey "л">
 <!-- These controls are in the Link Box -->
-<!ENTITY showImageLinkBorder.label "Показване на рамка около изображението препратка">
+
+<!ENTITY showImageLinkBorder.label "Показване на рамка около изображението връзка">
 <!ENTITY showImageLinkBorder.accessKey "м">
-<!-- These controls may be added some day; currently not used -->
-<!ENTITY makePageBackgroundCheckbox.label "За фон на страницата">
-<!ENTITY makePageBackgroundCheckbox.tooltip "Използване на изображението като фон на страницата ви">
-<!ENTITY editImageButton.label "Редактиране на изображението">
-<!ENTITY editImageButton.tooltip "Редактиране на изображението с друга програма">
+<!ENTITY LinkAdvancedEditButton.label "Разширено редактиране на връзка…">
+<!ENTITY LinkAdvancedEditButton.accessKey "Р">
+<!ENTITY LinkAdvancedEditButton.tooltip "Добавяне или промяна на атрибути на HTML, стилови атрибути и JavaScript.">
 <!-- These tabs are currently used in the image input dialog -->
+
 <!ENTITY imageInputTab.label "Формуляр">
-<!ENTITY imageLocationTab.label "Адрес">
+<!ENTITY imageLocationTab.label "Местоположение">
 <!ENTITY imageDimensionsTab.label "Размери">
 <!ENTITY imageAppearanceTab.label "Изглед">
-<!ENTITY imageLinkTab.label "Препратка">
+<!ENTITY imageLinkTab.label "Връзка">

@@ -6,18 +6,15 @@
 <!ENTITY serverDescription.accesskey "О">
 <!ENTITY serverPort.label "Порт:">
 <!ENTITY serverPort.accesskey "П">
-<!ENTITY alwaysUseUsername.label "Използване на име и парола">
-<!ENTITY alwaysUseUsername.accesskey "з">
 <!ENTITY userName.label "Потребителско име:">
 <!ENTITY userName.accesskey "П">
-<!ENTITY isSecure.label "Използване на защитена връзка:">
-<!ENTITY neverSecure.label "Не">
-<!ENTITY neverSecure.accesskey "Н">
-<!ENTITY sometimesSecure.label "TLS, ако е достъпно">
-<!ENTITY sometimesSecure.accesskey "д">
-<!ENTITY alwaysSecure.label "TLS">
-<!ENTITY alwaysSecure.accesskey "T">
-<!ENTITY alwaysSmtpS.label "SSL">
-<!ENTITY alwaysSmtpS.accesskey "L">
+<!ENTITY connectionSecurity.label "Защита на връзка:">
+<!ENTITY connectionSecurity.accesskey "ъ">
+<!ENTITY connectionSecurityType-0.label "Без">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, ако е налично">
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "SMTP сървър">
 <!ENTITY serverPortDefault.label "По подразбиране:">
+<!ENTITY authMethod.label "Метод на удостоверяване:">
+<!ENTITY authMethod.accesskey "у">

@@ -34,7 +34,9 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!ENTITY windowTitle.label "Свойства на именуваната котва">
 <!ENTITY anchorNameEditField.label "Именувана котва:">
 <!ENTITY anchorNameEditField.accessKey "И">
 <!ENTITY nameInput.tooltip "Въведете уникално име за котвата (цел)">
+

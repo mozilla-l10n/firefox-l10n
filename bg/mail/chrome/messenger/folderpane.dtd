@@ -34,10 +34,7 @@
  the terms of any one of the MPL, the GPL or the LGPL.
 
  ***** END LICENSE BLOCK ***** -->
-<!ENTITY nameColumn.label "Име">
-<!ENTITY unreadColumn.label "Непрочетени">
-<!ENTITY totalColumn.label "Всичко">
-<!ENTITY folderSizeColumn.label "Размер">
-<!ENTITY accounts.label "Регистрации">
-<!-- LOCALIZATION NOTE (accounts.img) : DONT_TRANSLATE -->
-<!ENTITY accounts.img "chrome://messenger/skin/local-mailhost.gif">
+<!ENTITY nameColumn.label   "Име"> 
+<!ENTITY unreadColumn.label "Непрочетени"> 
+<!ENTITY totalColumn.label "Всичко"> 
+<!ENTITY folderSizeColumn.label "Размер"> 

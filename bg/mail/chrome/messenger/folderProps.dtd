@@ -37,49 +37,66 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY folderProps.windowtitle.label "Информация">
-<!ENTITY generalInfo.label "Основна информация">
-<!ENTITY folderCharsetTab.label "Кодова таблица по подразбиране:">
-<!ENTITY folderCharsetTab.accesskey "К">
-<!ENTITY folderCharsetOverride.label "Прилагане кодовата таблица по подразбиране за всички писма в папката (индивидуалните настройки и автоматичното разпознаване се пренебрегва)">
-<!ENTITY folderCharsetOverride.accesskey "П">
+
+<!ENTITY folderProps.windowtitle.label           "Свойства">
+
+<!ENTITY generalInfo.label                       "Основна информация">
+<!ENTITY folderCharsetTab.label                  "Знаково кодиране по подразбиране:">
+<!ENTITY folderCharsetTab.accesskey              "З">
+<!ENTITY folderCharsetOverride.label             "Прилагане подразбиращото се знаковото кодиране за всички писма в папката (индивидуалните настройки и автоматичното разпознаване се пренебрегва)">
+<!ENTITY folderCharsetOverride.accesskey         "П">
+<!ENTITY folderRebuildSummaryFileTip2.label      "Възстановяване индекса на файла резюме">
+<!ENTITY folderRebuildSummaryFile2.label         "Поправка на папка">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "П">
+<!ENTITY folderRebuildSummaryFile.explanation    "Понякога файлът с индексите на папките (.msf) се поврежда и това предизвиква писма да иглеждат изчезнали или изтрити писма да продължават да се изобразяват. Поправката на папката би коригирала подобни проблеми.">
+<!ENTITY folderIncludeInGlobalSearch.label       "Включване писмата от тази папка в резултатите от общото търсене">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "о">
+     
 <!ENTITY retention.label "Правила за запазване">
-<!ENTITY retentionUseDefault.label "Подразбиращите се настройки на сървъра">
-<!ENTITY retentionUseDefault.accesskey "д">
-<!ENTITY days.label "дни">
+<!ENTITY retentionUseAccount.label  "Използване настройките на регистрацията">
+<!ENTITY retentionUseAccount.accesskey "И">
 <!ENTITY daysOld.label "дни">
 <!ENTITY message.label "писма">
-<!ENTITY retentionCleanup.label "За освобождаване на дисково място, старите писма могат да се изтрият необратимо">
-<!ENTITY retentionKeepMsg.label "Изтриване на писма на повече от">
-<!ENTITY retentionKeepMsg.accesskey "п">
+<!ENTITY retentionCleanup.label "За освобождаване на дисково място, старите писма могат да се изтрият необратимо.">
+<!ENTITY retentionCleanupImap.label "За освобождаване на дисково място, старите писма могат да бъдат изтривани необратимо, както локалните копия, така и оригиналите на отдалечения сървър.">
+<!ENTITY retentionCleanupPop.label "За освобождаване на дисково място, старите писма могат да бъдат изтривани необратимо, включително оригиналите на отдалечения сървър.">
+<!ENTITY retentionDeleteMsg.label "Изтриване на писма на повече от">
+<!ENTITY retentionDeleteMsg.accesskey "п">
 <!ENTITY retentionKeepAll.label "Никакви писма не се изтриват">
 <!ENTITY retentionKeepAll.accesskey "Н">
-<!ENTITY retentionKeepNew.label "Изтриване на всички без последното">
-<!ENTITY retentionKeepNew.accesskey "з">
-<!ENTITY retentionKeepUnread.label "Прочетените писма се изтриват">
-<!ENTITY retentionKeepUnread.accesskey "ч">
-<!ENTITY folderOfflineTab.label "Без връзка">
-<!ENTITY folderCheckForNewMessages.label "Проверка на папката за нови писма">
-<!ENTITY folderCheckForNewMessages.accesskey "П">
-<!ENTITY offlineFolder.check.label "Избор на папката за употреба без връзка">
-<!ENTITY offlineFolder.check.accesskey "И">
-<!ENTITY offlineFolder.button.label "Изтегляне">
-<!ENTITY offlineFolder.button.accesskey "л">
-<!ENTITY selectofflineNewsgroup.check.label "Избор на форума за употреба без връзка">
-<!ENTITY selectofflineNewsgroup.check.accesskey "у">
-<!ENTITY UseDefaultofflineNewsgroup.check.label "По подразбиране от настройките на регистрацията ">
-<!ENTITY offlineNewsgroup.button.label "Изтегляне">
-<!ENTITY offlineNewsgroup.button.accesskey "л">
-<!ENTITY folderProps.information.label "Информация:">
-<!ENTITY folderProps.name.label "Име:">
-<!ENTITY folderProps.name.accesskey "И">
-<!ENTITY folderSharingTab.label "Споделяне">
-<!ENTITY privilegesDesc.label "Споделяне на тази и други папки с потребители на мрежата, показване и настройка на правата за достъп">
-<!ENTITY privileges.button.label "Права...">
-<!ENTITY privileges.button.accesskey "П">
-<!ENTITY permissionsDesc.label "Вие имате следните права:">
-<!ENTITY folderType.label "Вид папка:">
-<!ENTITY folderQuotaTab.label "Дял">
-<!ENTITY folderQuotaRoot.label "Quota Root:">
-<!ENTITY folderQuotaUsage.label "Употреба:">
-<!ENTITY folderQuotaStatus.label "Състояние:">
+<!ENTITY retentionKeepRecent.label "Изтриване на всички без най-новите">
+<!ENTITY retentionKeepRecent.accesskey "з">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Винаги се изтриват прочетените съобщения (въпреки другите настройки)">
+<!ENTITY retentionApplyToFlagged.label "Писмата със звезда винаги се запазват">
+<!ENTITY retentionApplyToFlagged.accesskey "е">
+
+<!ENTITY folderSynchronizationTab.label          "Синхронизация">
+<!ENTITY folderCheckForNewMessages2.label         "При получаване на нови съобщения за тази регистрация, винаги проверявай тази папка">
+<!ENTITY folderCheckForNewMessages2.accesskey     "г">
+
+<!ENTITY offlineFolder.check.label               "Избор на папката за употреба без връзка">
+<!ENTITY offlineFolder.check.accesskey           "И">
+<!ENTITY offlineFolder.button.label              "Изтегляне">
+<!ENTITY offlineFolder.button.accesskey          "л">
+
+<!ENTITY selectofflineNewsgroup.check.label      "Избор на дискусионната група за употреба без връзка">
+<!ENTITY selectofflineNewsgroup.check.accesskey  "у">
+<!ENTITY offlineNewsgroup.button.label           "Изтегляне">
+<!ENTITY offlineNewsgroup.button.accesskey       "л">
+
+<!ENTITY folderProps.name.label                  "Име:">
+<!ENTITY folderProps.name.accesskey              "И">
+<!ENTITY folderProps.location.label              "Адрес:">
+<!ENTITY folderProps.location.accesskey          "А">
+
+<!ENTITY folderSharingTab.label                  "Споделяне">
+<!ENTITY privileges.button.label                 "Привилегии…">
+<!ENTITY privileges.button.accesskey             "П">
+<!ENTITY permissionsDesc.label                   "Вие имате следните права:">
+<!ENTITY folderType.label                        "Вид папка:">
+
+<!ENTITY folderQuotaTab.label                    "Дял">
+<!ENTITY folderQuotaRoot.label                   "Коренен дял:">
+<!ENTITY folderQuotaUsage.label                  "Употреба:">
+<!ENTITY folderQuotaStatus.label                 "Състояние:">

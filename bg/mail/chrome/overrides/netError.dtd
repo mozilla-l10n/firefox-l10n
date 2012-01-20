@@ -1,0 +1,157 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+<!ENTITY loadError.label "Възникнал проблем при зареждане на страница">
+<!ENTITY retry.label "Отново">
+<!-- Specific error messages -->
+
+
+<!ENTITY connectionFailure.title "Свързването е невъзможно">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+
+<!ENTITY deniedPortAccess.title "Този адрес е забранен">
+<!ENTITY deniedPortAccess.longDesc "">
+
+<!ENTITY dnsNotFound.title "Сървъра не е открит">
+<!ENTITY dnsNotFound.longDesc "<ul> 
+<li>Проверете как сте написали адреса, възможни са грешки като 
+<strong>ww</strong>.example.com вместо 
+<strong>www</strong>.example.com</li> 
+<li>Ако не можете да заредите нито една страница, проверете 
+мрежовата свързаност на компютъра ви.</li> 
+<li>Ако вашия компютър или мрежа е зад защитна стена или прокси, уверете се, че 
+&brandShortName; има право на достъп до Мрежата.</li> 
+</ul>">
+
+<!ENTITY fileNotFound.title "Файла не е открит">
+<!ENTITY fileNotFound.longDesc "<ul> 
+<li>Проверете името на файла за главни букви или други грешки.</li> 
+<li>Проверете дали файла не е преместен, преименуван или изтрит.</li> 
+</ul>">
+
+<!ENTITY generic.title "Опа.">
+<!ENTITY generic.longDesc "<p>По някаква причина &brandShortName; не може да зареди тази страница.</p>">
+
+<!ENTITY malformedURI.title "Този адрес не е верен">
+<!ENTITY malformedURI.longDesc "<ul> 
+<li>Уеб адресите обикновено се пишат така 
+<strong>http://www.example.com/</strong></li> 
+<li>Обърнете внимание дали използвате дясно наклонени черти (т.е. 
+<strong>/</strong>).</li> 
+</ul>">
+
+<!ENTITY netInterrupt.title "Връзката беше прекъсната">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+
+<!ENTITY notCached.title "Документът е изтекъл">
+<!ENTITY notCached.longDesc "<p>Търсеният документ липсва в кеша.</p><ul><li>Като защитна мярка, &brandShortName; няма автоматично отново да изтегля документи с чувствителна информация.</li><li>Щракнете на Отново, за да заявите документът от уебсайта.</li></ul>">
+
+<!ENTITY netOffline.title "Режим без мрежа">
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>Натиснете &quot;Отново&quot;, за да превключите в режим на линия и да презаредите страницата.</li> 
+</ul>">
+
+<!ENTITY contentEncodingError.title "Грешка в кодирането на съдържанието">
+<!ENTITY contentEncodingError.longDesc "<ul> 
+<li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li> 
+</ul>">
+
+<!ENTITY unsafeContentType.title "Опасен тип на файл">
+<!ENTITY unsafeContentType.longDesc "<ul> 
+<li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li> 
+</ul>">
+
+<!ENTITY netReset.title "Връзката беше нулирана">
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
+
+<!ENTITY netTimeout.title "Изтече времето за свързване">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+
+<!ENTITY protocolNotFound.title "Адресът не беше разпознат">
+<!ENTITY protocolNotFound.longDesc "<ul> 
+<li>Ще ви е необходим друг софтуер, за да отворите този адрес.</li> 
+</ul>">
+
+<!ENTITY proxyConnectFailure.title "Прокси сървърът отхвърля връзките">
+<!ENTITY proxyConnectFailure.longDesc "<ul> 
+<li>Проверете настройките на проксито, за да уверите, че са правилни.</li> 
+<li>Свържете се с мрежовия ви администратор, за да се уверите, че прокси 
+сървъра работи.</li> 
+</ul>">
+
+<!ENTITY proxyResolveFailure.title "Прокси сървърът не е открит">
+<!ENTITY proxyResolveFailure.longDesc "<ul> 
+<li>Проверете настройките на проксито, за да уверите, че са правилни..</li> 
+<li>Уверете се, че вашия компютър има работеща мрежова връзка.</li> 
+<li>Ако компютъра или мрежата ви са зад защитна стена или прокси уверете се, че 
+&brandShortName; има право на достъп до Мрежата.</li> 
+</ul>">
+
+<!ENTITY redirectLoop.title "Страницата не пренасочва правилно">
+<!ENTITY redirectLoop.longDesc "<ul> 
+<li>Проблемът понякога се предизвиква от изключването или отхвърлянето 
+приема на бисквитки.</li> 
+</ul>">
+
+<!ENTITY unknownSocketType.title "Неочакван отговор от сървъра">
+<!ENTITY unknownSocketType.longDesc "<ul> 
+<li>Уверете се, че имате инсталиран Personal Security Manager 
+на вашата система.</li> 
+<li>Това може да се дължи на нестандартна конфигурация на сървъра.</li> 
+</ul>">
+
+<!ENTITY nssFailure2.title "Неуспешна защитена връзка">
+<!ENTITY nssFailure2.longDesc "<ul> 
+<li>Страницата, която се опитвате да видите, не може да бъде показана, защото автентичността на получените данни не може да бъде потвърдена.</li> 
+<li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li> 
+</ul>">
+
+<!ENTITY nssBadCert.title "Неуспешна защитена връзка">
+<!ENTITY nssBadCert.longDesc2 "<ul> 
+<li>Това може да е проблем с конфигурацията на сървъра или може 
+някой се опитва да се представя за сървъра.</li> 
+<li>Ако преди сте се свързвали към този сървър успешно, проблема може 
+да е временен, затова опитайте отново по-късно.</li> 
+</ul>">
+
+<!ENTITY sharedLongDesc "<ul> 
+<li>Сайтът временно е недостъпен или е твърде натоварен. Опитайте отново 
+след кратко време.</li> 
+<li>Ако не успявате да заредите нито една страница, проверете 
+мрежовата свързаност на вашия компютър.</li> 
+<li>Ако вашия компютър или мрежа е зад защитна стена или прокси, уверете се, че 
+&brandShortName; има право на достъп до Мрежата.</li> 
+</ul>">
+
+<!ENTITY malwareBlocked.title "Подозрение за атакуващ сайт!">
+<!ENTITY malwareBlocked.longDesc "<p>Атакуващите сайтове се опитват да инсталират програми, които крадат личнни данни, зомбират вашия компютър за по-нататъшни атаки или го повреждат.</p> 
+<p>Собствениците на уебсайтове, които смятат, че техните сайтове погрешка са докладвани като атакуващи, могат да заявят проверка на <a href='http://www.stopbadware.org/home/reviewinfo'></a>.</p>">
+
+<!ENTITY phishingBlocked.title "Подозрение за уеб фалшификация!">
+<!ENTITY phishingBlocked.longDesc "<p>Въвеждането на лични данни в тази страница може да доведе до кражба на идентичност или друга измама.</p> 
+<p>Такива уеб фалшификации се използват за подлъгвания, познати като phishing атаки, в измамни уеб страници и електронни писма, като имитират източници, на които вярвате.</p>">
+
+<!ENTITY cspFrameAncestorBlocked.title "Блокирано от Политика за Защитено Съдържание">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; предотврати зареждането на страницата по този начин, понеже тя съдържа политика за защитено съдържание, което не позволява това.</p>">
+
+<!ENTITY corruptedContentError.title "Грешка поради повредено съдържание">
+<!ENTITY corruptedContentError.longDesc "<p>Това съдържание не може да бъде показано поради възникнала грешка при прехвърлнето на данните.</p><ul><li>Моля, свържете се със притежателите му, за да ги уведомите за проблема.</li></ul>">
+
+<!ENTITY securityOverride.linkText "Или можете да добавите изключение…">
+<!ENTITY securityOverride.getMeOutOfHereButton "Махам се оттук!">
+<!ENTITY securityOverride.exceptionButtonLabel "Добавяне на изключение…">
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <button> tags. It uses strings already defined above. The
+button is included here (instead of netError.xhtml) because it exposes
+functionality specific to thunderbird. -->
+
+
+<!ENTITY securityOverride.warningContent "<p>Вие не би трябвало да добавяте изключение, ако използвате интернет връзка, на която нямате пълно доверие или ако не сте виждали предупреждения за този сървър.</p> 
+ 
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+
+<!ENTITY remoteXUL.title "Отдалечен XUL">
+<!ENTITY remoteXUL.longDesc "<ul> 
+<li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li> 
+</ul>">

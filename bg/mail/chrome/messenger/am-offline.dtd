@@ -1,33 +1,54 @@
-<!ENTITY doNotDownloadPop3Movemail.label "За икономия на дисково място, да не се свалят:">
-<!ENTITY doNotDownload.label "За икономия на дисково място, да не се сваля за употреба без връзка:">
-<!ENTITY offlineNewFolder.label "При създаване на нови папки, да се маркират за работа без връзка">
-<!ENTITY offlineNewFolder.accesskey "П">
+<!ENTITY doNotDownloadPop3Movemail.label "За икономия на дисково място да не се свалят:">
+<!ENTITY doNotDownloadNntp.label "За икономия на дисково място да не се сваля за употреба без връзка:">
+<!ENTITY doNotDownloadImap.label "За икономия на дисково място, свалянето на съобщения от сървъра и съхраняването на копия от тях за употреба, когато няма връзка с мрежата, може да ограничено според възрастта и големината им.">
+<!ENTITY allFoldersOffline.label "Съхранява писмата от тази регистрация в компютъра">
+<!ENTITY allFoldersOffline.accesskey "т">
 <!ENTITY offlineNotDownload.label "Писма по-големи от">
 <!ENTITY offlineNotDownload.accesskey "г">
+<!ENTITY autosyncNotDownload.label "Не се свалят съобщения по-големи от">
+<!ENTITY autosyncNotDownload.accesskey "ъ">
 <!ENTITY kb.label "KB">
-<!ENTITY days.label "дни">
 <!ENTITY daysOld.label "дни">
 <!ENTITY message.label "писма">
 <!ENTITY nntpNotDownloadRead.label "Прочетени писма">
 <!ENTITY nntpNotDownloadRead.accesskey "П">
 <!ENTITY nntpDownloadMsg.label "Писма на повече от">
 <!ENTITY nntpDownloadMsg.accesskey "и">
-<!ENTITY retentionCleanup.label "За освобождаване на дисково място, старите писма, могат да бъдат изтривано необратимо">
+<!ENTITY retentionCleanup.label "За освобождаване на дисково място, старите писма могат да бъдат изтривани необратимо.">
+<!ENTITY retentionCleanupImap.label "За освобождаване на дисково място, старите писма могат да бъдат изтривани необратимо, както локалните копия, така и оригиналите на отдалечения сървър.">
+<!ENTITY retentionCleanupPop.label "За освобождаване на дисково място, старите писма могат да бъдат изтривани необратимо, включително оригиналите на отдалечения сървър.">
 <!ENTITY retentionKeepMsg.label "Изтриване на писма на повече от">
 <!ENTITY retentionKeepMsg.accesskey "м">
 <!ENTITY retentionKeepAll.label "Не се изтриват никакви писма">
 <!ENTITY retentionKeepAll.accesskey "Н">
-<!ENTITY retentionKeepNew.label "Изтриване на всички без последното">
-<!ENTITY retentionKeepNew.accesskey "т">
-<!ENTITY retentionKeepUnread.label "Изтриване на писмото след прочитане">
-<!ENTITY retentionKeepUnread.accesskey "ч">
-<!ENTITY nntpRemoveBody.label "Само писма по-малки от">
-<!ENTITY nntpRemoveBody.accesskey "С">
-<!ENTITY offlineSelectNntp.label "Избор на форум за работа без връзка...">
-<!ENTITY offlineSelectImap.label "Избор на папки за работа без връзка...">
-<!ENTITY offlineSelect.accesskey "ф">
-<!ENTITY offlineDesc.label "Можете да свалите вашите писма, за бъдат те достъпни, когато работите без връзка с мрежата.">
-<!ENTITY makeInboxMsgsAvailable.label "Писмата в папка Получени да са достъпни при работа без връзка">
-<!ENTITY makeInboxMsgsAvailable.accesskey "у">
-<!ENTITY offlineGroupTitle.label "Без връзка">
+<!ENTITY retentionKeepRecent.label "Изтриване на всички без най-новите">
+<!ENTITY retentionKeepRecent.accesskey "в">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Винаги се изтриват прочетените съобщения (въпреки другите настройки)">
+<!ENTITY retentionApplyToFlagged.label "Писмата със звезда винаги се запазват">
+<!ENTITY retentionApplyToFlagged.accesskey "д">
+<!ENTITY nntpRemoveMsgBody.label "Премахване на съдържанието на съобщения повече от">
+<!ENTITY nntpRemoveMsgBody.accesskey "е">
+<!ENTITY offlineSelectNntp.label "Избор на дискусионни групи за работа без връзка…">
+<!ENTITY offlineSelectNntp.accesskey "И">
+<!ENTITY offlineImapAdvancedOffline.label "Допълнително…">
+<!ENTITY offlineImapAdvancedOffline.accesskey "Д">
+<!ENTITY syncGroupTitle.label "Синхронизиране на съобщения">
 <!ENTITY diskspaceGroupTitle.label "Дисково място">
+<!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
+  The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
+  on a single line within the scope of useAutosync.ByAge as follows:
+
+  &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
+-->
+
+<!ENTITY allAutosync.label               "Синхронизиране на всички съобщения локално независимо от възрастта">
+<!ENTITY allAutosync.accesskey           "х">
+<!ENTITY ageAutosyncBefore.label         "Синхронизиране на най-новите">
+<!ENTITY ageAutosync.accesskey           "з">
+<!ENTITY ageAutosyncMiddle.label         "">
+<!ENTITY dayAgeInterval.label            "Дни">
+<!ENTITY weekAgeInterval.label           "Седмици">
+<!ENTITY monthAgeInterval.label          "Месеци">
+<!ENTITY yearAgeInterval.label           "Години">
+<!ENTITY ageAutosyncAfter.label          "">

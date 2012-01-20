@@ -33,9 +33,12 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!ENTITY windowTitle.label "Свойства на набор полета">
+
 <!ENTITY Legend.label "Легенда">
 <!ENTITY Legend.accesskey "Л">
+
 <!ENTITY EditLegendText.label "Редактиране на легенда:">
 <!ENTITY EditLegendText.accesskey "Р">
 <!ENTITY LegendAlign.label "Подравняване на легенда:">
@@ -44,5 +47,6 @@
 <!ENTITY AlignLeft.label "Ляво">
 <!ENTITY AlignCenter.label "Центриране">
 <!ENTITY AlignRight.label "Дясно">
+
 <!ENTITY RemoveFieldSet.label "Премахване на набор полета">
 <!ENTITY RemoveFieldSet.accesskey "П">

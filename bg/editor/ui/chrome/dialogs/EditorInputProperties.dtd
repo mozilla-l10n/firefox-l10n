@@ -33,8 +33,10 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY windowTitle.label "Свойства на поле от формуляр">
-<!ENTITY windowTitleImage.label "Свойства на изображение от формуляр">
+
+<!ENTITY windowTitle.label "Свойства на поле във формуляр">
+<!ENTITY windowTitleImage.label "Свойства на изображение във формуляр">
+
 <!ENTITY InputType.label "Тип на поле">
 <!ENTITY InputType.accesskey "е">
 <!ENTITY text.value "Текст">
@@ -47,13 +49,16 @@
 <!ENTITY hidden.value "Скрит">
 <!ENTITY image.value "Изображение">
 <!ENTITY button.value "Бутон">
+
 <!ENTITY InputSettings.label "Настройки на поле">
 <!ENTITY InputName.label "Име на поле:">
+<!ENTITY InputName.accesskey "И">
 <!ENTITY GroupName.label "Име на група:">
-<!ENTITY Name.accesskey "м">
+<!ENTITY GroupName.accesskey "И">
 <!ENTITY InputValue.label "Стойност на поле:">
+<!ENTITY InputValue.accesskey "С">
 <!ENTITY InitialValue.label "Първоначална стойност:">
-<!ENTITY Value.accesskey "т">
+<!ENTITY InitialValue.accesskey "с">
 <!ENTITY InputChecked.label "Първоначално отметнато">
 <!ENTITY InputChecked.accesskey "о">
 <!ENTITY InputSelected.label "Първоначално избрано">
@@ -62,8 +67,8 @@
 <!ENTITY InputReadOnly.accesskey "ч">
 <!ENTITY InputDisabled.label "Неактивен">
 <!ENTITY InputDisabled.accesskey "Н">
-<!ENTITY tabIndex.label "Tab Index:">
-<!ENTITY tabIndex.accesskey "I">
+<!ENTITY tabIndex.label "Индекс на табулатора:">
+<!ENTITY tabIndex.accesskey "И">
 <!ENTITY TextSize.label "Размер на поле:">
 <!ENTITY TextSize.accesskey "п">
 <!ENTITY TextLength.label "Максимална дължина:">
@@ -72,5 +77,6 @@
 <!ENTITY AccessKey.accesskey "ш">
 <!ENTITY Accept.label "Приемани типове:">
 <!ENTITY Accept.accesskey "и">
-<!ENTITY ImageProperties.label "Свойства на изображение...">
+
+<!ENTITY ImageProperties.label "Свойства на изображение…">
 <!ENTITY ImageProperties.accesskey "з">

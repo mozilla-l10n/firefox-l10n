@@ -36,11 +36,11 @@
 -->
 <!-- Calendar Subscriptions Dialog -->
 
-<!ENTITY calendar.subscriptions.dialog.title "Абонамент за календари">
-<!ENTITY calendar.subscriptions.dialog.search.label.value "Показване на календари, които съдържат:">
-<!ENTITY calendar.subscriptions.dialog.search.button.label "Търсене">
-<!ENTITY calendar.subscriptions.dialog.select.label.value "Избор на календари за абонамент:">
-<!ENTITY calendar.subscriptions.dialog.subscribe.button.label "Абониране">
-<!ENTITY calendar.subscriptions.dialog.unsubscribe.button.label "Отписване">
-<!ENTITY calendar.subscriptions.dialog.statusmessage.busy.label "Търсене…">
-<!ENTITY calendar.subscriptions.dialog.statusmessage.nomatches.label "Не са намерени съвпадения.">
+<!ENTITY calendar.subscriptions.dialog.title                            "Абонамент за календари">
+<!ENTITY calendar.subscriptions.dialog.search.label.value               "Показване на календари, които съдържат:">
+<!ENTITY calendar.subscriptions.dialog.search.button.label              "Търсене">
+<!ENTITY calendar.subscriptions.dialog.select.label.value               "Избор на календари за абонамент:">
+<!ENTITY calendar.subscriptions.dialog.subscribe.button.label           "Абониране">
+<!ENTITY calendar.subscriptions.dialog.unsubscribe.button.label         "Отписване">
+<!ENTITY calendar.subscriptions.dialog.statusmessage.busy.label         "Търсене…">
+<!ENTITY calendar.subscriptions.dialog.statusmessage.nomatches.label    "Не са намерени съвпадения.">
