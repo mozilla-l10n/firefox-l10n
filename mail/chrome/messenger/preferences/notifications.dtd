@@ -1,12 +1,11 @@
-<!ENTITY notificationsDialog.title "Звук за ново писмо">
-<!ENTITY window.width "30em">
-<!ENTITY soundNotification.caption "Настройка на звук за ново писмо">
-<!ENTITY preview.label "Прослушване">
-<!ENTITY preview.accesskey "ш">
-<!ENTITY systemsound.label "Системен звук за ново писмо">
-<!ENTITY systemsoundMac.label "Системен звук за известяване">
-<!ENTITY systemsound.accesskey "С">
-<!ENTITY customsound.label "Друг .wav файл">
-<!ENTITY customsound.accesskey "Д">
-<!ENTITY browse.label "Избор...">
-<!ENTITY browse.accesskey "р">
+<!ENTITY notificationsDialog2.title       "Известяване за нова поща по избор">
+<!ENTITY window.width                     "30em">
+
+<!ENTITY alertCustomization.intro         "Изберете кои полета да се показват при известяване:">
+<!ENTITY previewText.label                "Преглед на текста">
+<!ENTITY previewText.accesskey            "П">
+<!ENTITY subject.label                    "Тема">
+<!ENTITY subject.accesskey                "Т">
+<!ENTITY sender.label                     "Подател">
+<!ENTITY sender.accesskey                 "д">
+

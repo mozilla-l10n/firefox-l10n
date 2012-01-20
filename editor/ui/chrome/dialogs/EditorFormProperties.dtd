@@ -33,8 +33,11 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!ENTITY windowTitle.label "Свойства на формуляр">
+
 <!ENTITY Settings.label "Настройки">
+
 <!ENTITY FormName.label "Име на формуляр:">
 <!ENTITY FormName.accesskey "И">
 <!ENTITY FormAction.label "URL за изпълнение:">
@@ -45,5 +48,6 @@
 <!ENTITY FormEncType.accesskey "К">
 <!ENTITY FormTarget.label "Рамка цел:">
 <!ENTITY FormTarget.accesskey "Р">
+
 <!ENTITY RemoveForm.label "Премахване на формуляр">
 <!ENTITY RemoveForm.accesskey "х">

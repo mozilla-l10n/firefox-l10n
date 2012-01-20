@@ -35,6 +35,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!-- Window title -->
+
 <!ENTITY windowTitle.label "Вмъкване на HTML">
 <!ENTITY sourceEditField.label "Въведете HTML етикет и текст:">
 <!ENTITY example.label "Пример:">

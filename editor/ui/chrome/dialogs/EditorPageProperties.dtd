@@ -35,14 +35,15 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!-- Window title -->
+
 <!ENTITY windowTitle.label "Свойства на страница">
-<!ENTITY location.label "Адрес:">
+<!ENTITY location.label "Местоположение:">
 <!ENTITY lastModified.label "Последна промяна:">
 <!ENTITY titleInput.label "Заглавие:">
 <!ENTITY titleInput.accessKey "З">
 <!ENTITY authorInput.label "Автор:">
 <!ENTITY authorInput.accessKey "А">
-<!ENTITY descriptionInput.label "Описание">
+<!ENTITY descriptionInput.label "Описание:">
 <!ENTITY descriptionInput.accessKey "О">
 <!ENTITY locationNewPage.label "[Нова страница, незаписана]">
 <!ENTITY EditHEADSource1.label "Напреднали потребители:">

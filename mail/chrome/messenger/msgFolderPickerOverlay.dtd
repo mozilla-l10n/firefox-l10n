@@ -35,14 +35,6 @@
 
  ***** END LICENSE BLOCK ***** -->
 <!-- Labels -->
-<!ENTITY subscribechoosethis.label "изберете този новинарски сървър">
-<!ENTITY subscribeclickhere.label "щракнете тук, за да изберете новинарски сървър">
-<!ENTITY newfolderchoosethis.label "изберете тази за родителска">
-<!ENTITY newfolderclickhere.label "Щракнете тук, за да изберете">
-<!ENTITY renamefolderchoosethis.label "изберете тази папка">
-<!ENTITY renamefolderclickhere.label "щракнете тук, за да изберете папка">
-<!ENTITY filemessageschoosethis.label "изберете тази папка">
-<!ENTITY filemessagesclickhere.label "щракнете тук, за да изберете папка">
-<!ENTITY chooseaccountclickhere.label "Щракнете тук, за да изберете регистрация">
-<!ENTITY choosefolderclickhere.label "Щракнете тук, за да изберете папка">
-<!ENTITY chooseserverToDeferTo.label "щракнете тук, за да изберете регистрация, която да използвате за съхраняване на писма">
+
+<!ENTITY newfolderchoosethis.label      "изберете тази за родителска">
+<!ENTITY filemessageschoosethis.label   "изберете тази папка">

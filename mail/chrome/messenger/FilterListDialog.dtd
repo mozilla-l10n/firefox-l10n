@@ -1,9 +1,9 @@
 <!ENTITY window.title "Филтриране на писма">
 <!ENTITY nameColumn.label "Име на филтър">
 <!ENTITY activeColumn.label "Активен">
-<!ENTITY newButton.label "Нов...">
+<!ENTITY newButton.label "Нов…">
 <!ENTITY newButton.accesskey "Н">
-<!ENTITY editButton.label "Промяна...">
+<!ENTITY editButton.label "Промяна…">
 <!ENTITY editButton.accesskey "П">
 <!ENTITY deleteButton.label "Изтриване">
 <!ENTITY deleteButton.accesskey "з">
@@ -11,7 +11,7 @@
 <!ENTITY reorderUpButton.accesskey "г">
 <!ENTITY reorderDownButton.label "Премества надолу">
 <!ENTITY reorderDownButton.accesskey "д">
-<!ENTITY filterHeader.label "Разрешените филтри се стартират автоматично в реда по-долу:">
+<!ENTITY filterHeader.label "Разрешените филтри се стартират автоматично в реда по-долу.">
 <!ENTITY filtersForPrefix.label "Филтри за:">
 <!ENTITY filtersForPrefix.accesskey "Ф">
 <!ENTITY viewLogButton.label "Журнал">
@@ -23,7 +23,7 @@
 <!ENTITY folderPickerPrefix.label "Стартиране на избраните филтри в:">
 <!ENTITY folderPickerPrefix.accesskey "а">
 <!ENTITY choosethis.label "изберете тази папка">
-<!ENTITY choosethisnewsserver.label "изберете този форум">
+<!ENTITY choosethisnewsserver.label "изберете този новинарски сървър">
 <!ENTITY helpButton.label "Помощ">
 <!ENTITY helpButton.accesskey "П">
-<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.key "W"> 

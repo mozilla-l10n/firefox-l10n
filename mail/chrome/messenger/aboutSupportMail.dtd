@@ -1,0 +1,15 @@
+<!ENTITY aboutSupport.appBasicsAppBuildID "Идентификация на приложение">
+
+<!ENTITY aboutSupport.accountsTitle "Регистрации за поща и новини">
+<!ENTITY aboutSupport.showPrivateData.mainText "Включва имена на регистрация">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(информация за възможно идентифициране)">
+<!ENTITY aboutSupport.accountsID "ID">
+<!ENTITY aboutSupport.accountsName "Име">
+<!ENTITY aboutSupport.accountsIncomingServer "Входящ сървър">
+<!ENTITY aboutSupport.accountsOutgoingServers "Изходящи сървъри">
+<!ENTITY aboutSupport.accountsServerName "Име">
+<!ENTITY aboutSupport.accountsConnSecurity "Сигурност на връзката">
+<!ENTITY aboutSupport.accountsAuthMethod "Метод за удостоверяване">
+<!ENTITY aboutSupport.accountsDefault "По подразбиране?">
+
+<!ENTITY aboutSupport.sendViaEmail.label "Изпращане чрез е-поща">

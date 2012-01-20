@@ -1,50 +1,52 @@
 <!-- Entities for AccountWizard -->
+
 <!ENTITY windowTitle.label "Помощник за регистрация">
 <!ENTITY accountWizard.size "width: 50em; height: 38em;">
 <!-- Entities for Account Type page -->
-<!ENTITY accountSetupInfo.label "За да получавате писма, първо трябва да въведете настройки за регистрация на поща или форум.">
-<!ENTITY accountTypeTitle.label "Настройка на нова регистрация">
-<!ENTITY accountTypeDesc.label "Чрез този помощник вие ще попълните необходимата информация за настройка. Ако не можете да дадете тази информация, моля потърсете вашия системен администратор или интернет доставчика.">
+
+
+<!ENTITY accountSetupInfo2.label "За да получавате писма, първо трябва да въведете настройки за регистрация.">
+<!ENTITY accountTypeTitle.label "Установяване на нова регистрация">
+<!ENTITY accountTypeDesc2.label "Чрез този помощник вие ще попълните необходимата информация за настройка. Ако не можете да дадете тази информация, моля потърсете вашия системен администратор или Интернет доставчика.">
 <!ENTITY accountTypeDirections.label "Изберете какъв вид регистрация желаете да настроите:">
 <!ENTITY accountTypeMail.label "Електронна поща">
 <!ENTITY accountTypeMail.accesskey "Е">
-<!ENTITY accountTypeNews.label "Форум (новинарска група)">
-<!ENTITY accountTypeNews.accesskey "Ф">
+<!ENTITY accountTypeNews.label "Дискусионна група">
+<!ENTITY accountTypeNews.accesskey "Д">
 <!-- Entities for Identity page -->
+
+
 <!ENTITY identityTitle.label "Идентичност">
-<!ENTITY identityDesc.label "Всяка регистрация е уникална. Така другите разбират, че писмото е от вас.">
+<!ENTITY identityDesc.label "Всяка регистрация е уникална, така другите разбират, че писмото е от вас.">
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
+
 <!ENTITY fullnameDesc.label "Въведете името, което да се изписва в полето &quot;Подател&quot; на изпращаните от вас писма">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
-	1, do not translate two of "&quot;"
-	2, Use localized full name instead of "John Smith"
+  1, do not translate two of "&quot;"
+  2, Use localized full name instead of "John Smith"
 -->
 <!ENTITY fullnameExample.label "(например, &quot;Иван Петров&quot;)">
 <!ENTITY fullnameLabel.label "Вашето име:">
 <!ENTITY fullnameLabel.accesskey "В">
+
 <!ENTITY emailLabel.label "Адрес на е-поща:">
 <!ENTITY emailLabel.accesskey "А">
-<!ENTITY emailDesc.label "Въведете вашия пощенски адрес. Този адрес ще бъде използван от другите, за да ви изпращат писма.">
-<!-- LOCALIZATION NOTE (emailExample.label) : do not translate "user@example.net" in below line -->
-<!ENTITY emailExample.label "(например: user@example.net).">
 <!-- Entities for Server page -->
+
+
 <!ENTITY serverTitle.label "Информация за сървър">
-<!ENTITY incomingServerTitle.label "Входящ сървър">
 <!ENTITY incomingServerTypeDesc.label "Изберете какъв вид входящ сървър ще използвате.">
-<!ENTITY incomingServerTypeLabel.label "Вид сървър:">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
 <!ENTITY incomingServerNameDesc.label "Въведете името на входящия сървър (например: &quot;mail.example.net&quot;).">
 <!ENTITY incomingServerLabel.label "Входящ сървър:">
 <!ENTITY incomingServerLabel.accesskey "В">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Въведете името на сървъра за форуми (NNTP) (например: &quot;news.example.net&quot;).">
-<!-- LOCALIZATION NOTE (smtpServerTitle.label) : Do not translate "SMTP" in below line -->
-<!ENTITY smtpServerTitle.label "Изходящ сървър (SMTP)">
+<!ENTITY newsServerNameDesc.label "Въведете името на новинарския сървър (NNTP) (например: &quot;news.example.net&quot;).">
 <!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
 <!ENTITY smtpServerDesc.label "Въведете името на изходящия сървър (SMTP) (например: &quot;smtp.example.net&quot;).">
 <!ENTITY smtpServerLabel.label "Изходящ сървър:">
 <!ENTITY smtpServerLabel.accesskey "И">
-<!ENTITY newsServerLabel.label "Сървър на форума:">
+<!ENTITY newsServerLabel.label "Сървър на дискусионна група:">
 <!ENTITY newsServerLabel.accesskey "С">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
@@ -52,19 +54,19 @@
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
-<!ENTITY nntpType.label "Форум">
-<!-- for when the user has an SMTP server pre-configured -->
-<!-- LOCALIZATION NOTE (currentSmtpBefore.label) : Do not translate "SMTP" and "&quot;" in
-     this variable. Also, translate currentSmtpBefore.label and currentSmtpAfter.label as a single sentence,
-	  inserting text after the "&quot;" entity in currentSmtpAfter.label, if required grammatically
+<!ENTITY leaveMsgsOnSrvr.label "Запазване съобщенията на сървъра">
+<!ENTITY leaveMsgsOnSrvr.accesskey "З">
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
 -->
-<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
--->
+
+
 <!ENTITY haveSmtp1.prefix "Ще бъде използван вашият съществуващ изходящ сървър (SMTP) &quot;">
-<!ENTITY haveSmtp1.suffix "&quot;. Ако искате да го промените, използвайте Настройки на регистрации от меню Инструменти.">
+<!ENTITY haveSmtp1.suffix2 "&quot;. Изходящите сървъри могат да бъдат променени в настройките на регистрацията.">
 <!-- Entities for Login page -->
+
+
 <!ENTITY loginTitle.label "Потребителски имена">
 <!ENTITY usernameDesc.label "Въведете входящото потребителско име, дадено ви от доставчика на пощенски услуги">
 <!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
@@ -74,33 +76,39 @@
 <!ENTITY usernameSmtpDesc.label "Въведете потребителското име, дадено ви от доставчика на пощенска услуга, за изходящия сървър (обикновено е същото като входящото потребителско име).">
 <!ENTITY usernameSmtpLabel.label "Изходящо потребителско име:">
 <!ENTITY usernameSmtpLabel.accesskey "И">
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Ще бъде използвано вашето съществуващо изходящо (SMTP) потребителско име,  &quot;">
-<!ENTITY haveSmtp2.suffix "&quot;. Ако искате да промените това, използвайте Настройки на регистрации от меню Инструменти.">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
+<!ENTITY haveSmtp2.suffix2 "&quot;. Изходящите сървъри могат да бъдат променени в настройките на регистрацията.">
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Вашия изходящ (SMTP) сървър &quot;">
-<!ENTITY haveSmtp3.suffix "&quot; е еднакъв с входящия сървър. Входящото потребителско име ще бъде използвано и за изходящо. Ако искате да промените това, използвайте Настройки на акаунт от меню Инструменти.">
+<!ENTITY haveSmtp3.suffix2 "&quot; е еднакъв с входящия сървър. Входящото потребителско име ще бъде използвано за достъп. Изходящите сървъри могат да бъдат променени в настройките на регистрацията.">
 <!-- Entities for Account name page -->
+
+
 <!ENTITY accnameTitle.label "Име на регистрацията">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
-<!ENTITY accnameDesc.label "Напишете името, под което ще използвате тази регистрация (например, &quot;Служебна поща&quot;, &quot;Домашна поща&quot; или &quot;Регистрация за форум&quot;).">
-<!ENTITY accnameExample.label "Например служебна поща, домашна поща или регистрация за форум">
+<!ENTITY accnameDesc.label "Напишете името, под което ще използвате тази регистрация (например, &quot;Служебна поща&quot;, &quot;Домашна поща&quot; или &quot;Регистрация за новини&quot;).">
 <!ENTITY accnameLabel.label "Име на пощата:">
 <!ENTITY accnameLabel.accesskey "И">
 <!-- Entities for Done (Congratulations) page -->
+
+
 <!ENTITY completionTitle.label "Поздравления!">
 <!ENTITY completionText.label "Моля, уверете се, че въведените данни са правилни.">
 <!ENTITY serverTypePrefix.label "Вид входящ сървър:">
 <!ENTITY serverNamePrefix.label "Име на входящ сървър:">
 <!ENTITY smtpServerNamePrefix.label "Име на изходящ сървър (SMTP):">
-<!ENTITY newsServerNamePrefix.label "Име на сървъра за форуми (NNTP):">
+<!ENTITY newsServerNamePrefix.label "Име на сървъра за новини (NNTP):">
 <!ENTITY downloadOnLogin.label "Изтегляне на писмата">
+<!ENTITY downloadOnLogin.accesskey "т">
 <!ENTITY deferStorageDesc.label "За да запазвате пощата от този адрес в собствена папка, премахнете отметката пред тази настройка. Така ще направите тази регистрация от по-високо ниво. В противен случай, той ще бъде част от местните папки на общата пощенска кутия.">
 <!ENTITY deferStorage.label "Използване на общата пощенска кутия (пощата влиза в Местни папки)">
+<!ENTITY deferStorage.accesskey "щ">
 <!ENTITY clickFinish.label "Натиснете Край, за да запазите настройките и напуснете този помощник.">
+<!ENTITY clickFinish.labelMac "Натиснете Край, за да запазите настройките и напуснете този помощник.">

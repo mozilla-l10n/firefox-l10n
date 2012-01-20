@@ -35,6 +35,8 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!-- Window title -->
+
+
 <!ENTITY windowTitle.label "Вмъкване на символ">
 <!ENTITY category.label "Категория">
 <!ENTITY letter.label "Буква:">

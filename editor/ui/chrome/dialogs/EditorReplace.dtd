@@ -36,13 +36,15 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!-- extracted from EdReplace.xul -->
+
+
 <!ENTITY replaceDialog.title "Търсене и замяна">
 <!ENTITY findField.label "Търсене на текст:">
 <!ENTITY findField.accesskey "Т">
 <!ENTITY replaceField.label "Замяна с:">
 <!ENTITY replaceField.accesskey "З">
-<!ENTITY caseSensitiveCheckbox.label "Главни/малки букви">
-<!ENTITY caseSensitiveCheckbox.accesskey "Г">
+<!ENTITY caseSensitiveCheckbox.label "Съвпада с регистъра на буквите">
+<!ENTITY caseSensitiveCheckbox.accesskey "ъ">
 <!ENTITY wrapCheckbox.label "Обтичане">
 <!ENTITY wrapCheckbox.accesskey "О">
 <!ENTITY backwardsCheckbox.label "Търсене назад">
@@ -56,4 +58,3 @@
 <!ENTITY replaceAllButton.label "Замяна на всички">
 <!ENTITY replaceAllButton.accesskey "я">
 <!ENTITY closeButton.label "Затваряне">
-<!ENTITY notFoundWarning.label "Въведеният текст не беше открит.">

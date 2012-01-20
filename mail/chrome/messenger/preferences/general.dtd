@@ -1,35 +1,35 @@
-<!ENTITY generalSettings.caption "Подразбиращи се настройки">
-<!ENTITY generalSettings.label "&brandShortName; е основното приложение за:">
-<!ENTITY setDefaultMailClient.label "Поща">
-<!ENTITY setDefaultMailClient.accesskey "П">
-<!ENTITY setDefaultNewsClient.label "Новини">
-<!ENTITY setDefaultNewsClient.accesskey "Н">
-<!ENTITY setDefaultFeedClient.label "RSS източници">
-<!ENTITY setDefaultFeedClient.accesskey "ц">
-<!ENTITY checkDefaultMailClient.label "&brandShortName; should check to see if it is the default mail client when starting">
-<!ENTITY checkDefaultMailClient.accesskey "n">
-<!ENTITY defaultClientAdvanced.label "Advanced...">
-<!ENTITY defaultClientAdvanced.accesskey "d">
-<!ENTITY windowSettings.label "Конфигурация на прозореца">
-<!ENTITY selectWindowLayout.label "Изберете предпочитано оформление">
-<!ENTITY selectWindowLayout.accesskey "ф">
-<!ENTITY messengerStartPage.label "Начална страница на &brandShortName;">
-<!ENTITY enableStartPage.label "При стартиране на &brandShortName; се показва началната страница">
-<!ENTITY enableStartPage.accesskey "с">
-<!ENTITY location.label "Адрес:">
-<!ENTITY location.accesskey "А">
-<!ENTITY useDefault.label "Възстановяване">
-<!ENTITY useDefault.accesskey "В">
-<!ENTITY bounceSystemDockIcon.label "Анимиране на док-иконата">
-<!ENTITY bounceSystemDockIcon.accesskey "д">
-<!ENTITY newMessagesArrive.label "При пристигане на ново писмо:">
-<!ENTITY playSound.label "Изсвирва звук">
-<!ENTITY playSound.accesskey "з">
-<!ENTITY showAnimatedAlert.label "Показване на известие">
-<!ENTITY showAnimatedAlert.accesskey "и">
-<!ENTITY soundbutton.label "Разширени">
-<!ENTITY soundbutton.accesskey "ш">
-<!ENTITY showConnections.label "Настройки...">
-<!ENTITY showConnections.accesskey "й">
-<!ENTITY proxiesInfo.label "Определя как &brandShortName; се свързва с Интернет.">
-<!ENTITY connectionsInfo.caption "Връзка">
+<!ENTITY messengerStartPage.label         "Начална страница на &brandShortName;">
+<!ENTITY enableStartPage.label            "При стартиране на &brandShortName; се показва началната страница">
+<!ENTITY enableStartPage.accesskey        "с">
+<!ENTITY location.label                   "Адрес:">
+<!ENTITY location1.accesskey               "д">
+<!ENTITY useDefault.label                 "Възстановяване">
+<!ENTITY useDefault.accesskey             "В">
+
+<!ENTITY bounceSystemDockIcon.label       "Анимиране на док-иконата">
+<!ENTITY bounceSystemDockIcon.accesskey   "д">
+
+<!ENTITY newMessagesArrive.label          "При пристигане на ново писмо:">
+<!ENTITY playSound.label                  "Изсвирва звук">
+<!ENTITY playSound1.accesskey              "у">
+<!ENTITY showAnimatedAlert.label          "Показване на известие">
+<!ENTITY showAnimatedAlert.accesskey      "и">
+<!ENTITY customizeMailAlert.label         "Нагласяване…">
+<!ENTITY customizeMailAlert.accesskey     "Н">
+
+<!ENTITY play.label                       "Прослушва">
+<!ENTITY play.accesskey                   "ш">
+<!ENTITY systemsound.label                "Стандартен системен звук за ново писмо">
+<!ENTITY systemsoundMac.label             "Предупредителен системен звук">
+<!ENTITY systemsoundMac.accesskey         "м">
+<!ENTITY systemsound.accesskey            "м">
+<!ENTITY customsound.label                "Използване на следния звуков файл">
+<!ENTITY customsound.accesskey            "И">
+<!ENTITY browse.label                     "Избор…">
+<!ENTITY browse.accesskey                 "р">
+
+<!ENTITY addonsMgr.label                  "Добавки">
+<!ENTITY manageAddonsDescWin.label        "Промяна на настройките на вашите добавки">
+<!ENTITY manageAddonsDescUnix2.label      "Промяна на настройките на вашите добавки">
+<!ENTITY manageAddons.label               "Управление на добавките…">
+<!ENTITY manageAddons.accesskey           "У">

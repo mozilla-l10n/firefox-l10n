@@ -1,4 +1,5 @@
 <!--LOCALIZATION NOTE msgCompSecurityInfo.dtd UI for viewing security status when composing a message -->
+
 <!ENTITY title.label "Защита на писмо">
 <!ENTITY subject.plaintextWarning "Бележка: Текста на темата на електронното писмо никога не се шифрова.">
 <!ENTITY status.heading "Съдържанието на вашето писмо ще бъде изпратено както следва:">

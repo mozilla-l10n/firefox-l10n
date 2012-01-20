@@ -1,61 +1,59 @@
 <!-- these things need to move into utilityOverlay.xul -->
-<!ENTITY offlineGoOfflineCmd.label "Работа без връзка">
-<!ENTITY offlineGoOfflineCmd.accesskey "Р">
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
-<!ENTITY fileMenu.label "Файл">
-<!ENTITY fileMenu.accesskey "Ф">
-<!ENTITY newMenu.label "Нови">
-<!ENTITY newMenu.accesskey "Н">
-<!ENTITY editMenu.label "Редактиране">
-<!ENTITY editMenu.accesskey "Р">
-<!ENTITY undoCmd.label "Отмяна">
-<!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "О">
-<!ENTITY redoCmd.label "Повторение">
-<!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "П">
-<!ENTITY cutCmd.label "Изрязване">
-<!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "я">
-<!ENTITY copyCmd.label "Копиране">
-<!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "К">
-<!ENTITY pasteCmd.label "Поставяне">
-<!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "в">
-<!ENTITY deleteCmd.label "Изтриване">
-<!ENTITY deleteCmd.key "D">
-<!ENTITY deleteCmd.accesskey "з">
-<!ENTITY selectAllCmd.label "Избор на всичко">
-<!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "И">
-<!ENTITY preferencesCmd.label "Настройки...">
-<!ENTITY preferencesCmd.accesskey "Н">
-<!ENTITY preferencesCmdUnix.label "Настройки">
-<!ENTITY preferencesCmdUnix.accesskey "Н">
-<!ENTITY findTypeTextCmd.label "Търсене на текст с писането">
-<!ENTITY findTypeTextCmd.accesskey "Т">
-<!ENTITY viewMenu.label "Изглед">
-<!ENTITY viewMenu.accesskey "г">
-<!ENTITY viewToolbarsMenu.label "Ленти с инструменти">
-<!ENTITY viewToolbarsMenu.accesskey "и">
-<!ENTITY showTaskbarCmd.label "Лента състояние">
-<!ENTITY showTaskbarCmd.accesskey "с">
-<!ENTITY direct.label "С връзка (прокси: без)">
-<!ENTITY direct.accesskey "С">
-<!ENTITY manual.label "С връзка (прокси: ръчно)">
-<!ENTITY manual.accesskey "р">
-<!ENTITY pac.label "С връзка (прокси: авто)">
-<!ENTITY pac.accesskey "ъ">
-<!ENTITY proxy.label "Конфигуриране на прокси...">
-<!ENTITY proxy.accesskey "ф">
-<!ENTITY findTypeTextCmd.key "/">
-<!ENTITY findTypeLinksCmd.key "'">
-<!ENTITY closeCmd.label "Затваряне">
-<!ENTITY closeCmd.key "W">
-<!ENTITY closeCmd.accesskey "З">
-<!ENTITY quitApplicationCmd.label "Изход">
-<!ENTITY quitApplicationCmd.key "Q">
-<!ENTITY quitApplicationCmd.accesskey "х">
-<!ENTITY quitApplicationCmdUnix.label "Изход">
-<!ENTITY quitApplicationCmdUnix.accesskey "х">
+
+
+<!ENTITY fileMenu.label          "Файл">
+<!ENTITY fileMenu.accesskey        "Ф">
+<!ENTITY newMenu.label            "Нов">
+<!ENTITY newMenu.accesskey          "Н">
+
+<!ENTITY editMenu.label          "Редактиране">
+<!ENTITY editMenu.accesskey        "Р">
+<!ENTITY undoCmd.label            "Отмяна">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "О">
+<!ENTITY redoCmd.label            "Повтаряне">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "П">
+<!ENTITY cutCmd.label            "Изрязване">
+<!ENTITY cutCmd.key              "X">
+<!ENTITY cutCmd.accesskey          "з">
+<!ENTITY copyCmd.label            "Копиране">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "К">
+<!ENTITY pasteCmd.label            "Поставяне">
+<!ENTITY pasteCmd.key            "V">
+<!ENTITY pasteCmd.accesskey          "П">
+<!ENTITY deleteCmd.label          "Изтриване">
+<!ENTITY deleteCmd.accesskey        "т">
+<!ENTITY selectAllCmd.label          "Маркиране на всичкоl">
+<!ENTITY selectAllCmd.key          "A">
+<!ENTITY selectAllCmd.accesskey        "в">
+<!ENTITY preferencesCmd.label        "Настройки…">
+<!ENTITY preferencesCmd.accesskey      "Н">
+<!ENTITY preferencesCmdUnix.label       "Настройки">
+<!ENTITY preferencesCmdUnix.accesskey     "Н">
+
+<!ENTITY viewMenu.label          "Изглед">
+<!ENTITY viewMenu.accesskey        "И">
+<!ENTITY viewToolbarsMenu.label        "Лента с инструменти">
+<!ENTITY viewToolbarsMenu.accesskey      "Л">
+<!ENTITY showTaskbarCmd.label          "Лента на състоянието">
+<!ENTITY showTaskbarCmd.accesskey        "Л">
+
+<!ENTITY proxy.label                                    "Настройка на прокси…">
+<!ENTITY proxy.accesskey                                "Н">
+
+<!ENTITY closeCmd.label      "Затваряне">
+<!ENTITY closeCmd.key      "W">
+<!ENTITY closeCmd.accesskey    "З">
+
+<!ENTITY quitApplicationCmd.label  "Изход">
+<!ENTITY quitApplicationCmd.key    "Q">
+<!ENTITY quitApplicationCmd.accesskey  "И">
+
+<!ENTITY quitApplicationCmdUnix.label  "Изход">
+<!ENTITY quitApplicationCmdUnix.accesskey  "И">
+
+<!ENTITY quitApplicationCmdMac.label  "Изход от &brandShortName;">
+<!ENTITY quitApplicationCmdMac.accesskey  "И">
