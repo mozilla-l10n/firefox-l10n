@@ -45,9 +45,9 @@
 <!ENTITY pref_clear_private_data "Elimina dati personali">
 <!ENTITY pref_clear_private_data_confirm "Verranno eliminati i dati di navigazione, compresi password e cookie">
 <!ENTITY pref_plugins "Plugin">
-<!ENTITY pref_plugins_enabled "Attivato">
+<!ENTITY pref_plugins_enabled "Attivati">
 <!ENTITY pref_plugins_tap_to_play "Tocca per avviare">
-<!ENTITY pref_plugins_disabled "Disattivato">
+<!ENTITY pref_plugins_disabled "Disattivati">
 <!ENTITY pref_text_size "Dimensioni testo">
 <!ENTITY pref_font_size_tiny "Molto piccolo">
 <!ENTITY pref_font_size_small "Piccolo">
