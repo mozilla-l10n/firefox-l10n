@@ -78,8 +78,10 @@
 <!ENTITY lightning.toolbar.mail.label         "דואר">
 <!ENTITY lightning.toolbar.mail.accesskey     "ד">
 <!ENTITY lightning.toolbar.calendar.label     "לוח שנה">
+<!ENTITY lightning.toolbar.calendar.tooltip   "מעבר ללשונית לוח השנה">
 <!ENTITY lightning.toolbar.calendar.accesskey "ל">
 <!ENTITY lightning.toolbar.task.label         "משימות">
+<!ENTITY lightning.toolbar.task.tooltip       "מעבר ללשונית המשימות">
 <!ENTITY lightning.toolbar.task.accesskey     "מ">
 
 <!-- Toolbar write button -->

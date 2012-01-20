@@ -50,7 +50,7 @@
 <!ENTITY calendar.calendar.label     "לוח שנה">
 <!ENTITY calendar.calendar.accesskey "C">
 
-<!ENTITY calendar.newevent.button.tooltip         "צור אירוע יומן חדש" >
+<!ENTITY calendar.newevent.button.tooltip         "צור אירוע חדש" >
 <!ENTITY calendar.newtask.button.tooltip          "צור מטלה חדשה" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "מטלות" >
@@ -250,11 +250,11 @@
 <!ENTITY calendar.context.newserver.accesskey          "ל">
 <!ENTITY calendar.context.findcalendar.label           "מצא לוח שנה…" >
 <!ENTITY calendar.context.findcalendar.accesskey       "מ" >
-<!ENTITY calendar.context.deleteserver.label           "מחק יומן">
+<!ENTITY calendar.context.deleteserver.label           "מחיקת לוח שנה">
 <!ENTITY calendar.context.deleteserver.accesskey       "מ">
-<!ENTITY calendar.context.reloadserver.label           "טען מחדש לוחות שנה מרוחקים">
-<!ENTITY calendar.context.reloadserver.accesskey       "ט">
-<!ENTITY calendar.context.publish.label                "פרסם את היומן כולו">
+<!ENTITY calendar.context.synccalendars.label          "סנכרון לוחות שנה">
+<!ENTITY calendar.context.synccalendars.accesskey      "ס">
+<!ENTITY calendar.context.publish.label                "פרסום לוח השנה">
 <!ENTITY calendar.context.publish.accesskey            "פ">
 <!ENTITY calendar.context.export.label                 "ייצוא לוח שנה…">
 <!ENTITY calendar.context.export.accesskey             "צ">
@@ -307,7 +307,7 @@
 <!ENTITY calendar.alarm.snooze.cancel               "בטל השהייה">
 
 <!-- Calendar Server Dialog -->
-<!ENTITY calendar.server.dialog.title.edit          "ערוך יומן">
+<!ENTITY calendar.server.dialog.title.edit          "ערוך לוח שנה">
 <!ENTITY calendar.server.dialog.name.label          "שם">
 
 <!-- Calendar Properties -->
@@ -317,19 +317,19 @@
 <!ENTITY calendarproperties.wcap.label                     "Sun Java System Calendar Server (WCAP)‎">
 <!ENTITY calendarproperties.format.label                   "מבנה:">
 <!ENTITY calendarproperties.location.label                 "מיקום:">
-<!ENTITY calendarproperties.refreshInterval.label          "רענן יומן:">
+<!ENTITY calendarproperties.refreshInterval.label          "רענן לוח שנה:">
 <!ENTITY calendarproperties.refreshInterval.manual.label   "ידנית">
 <!ENTITY calendarproperties.name.label                     "שם:">
 <!ENTITY calendarproperties.readonly.label                 "קריאה בלבד">
 <!ENTITY calendarproperties.firealarms.label               "הצג התראות">
-<!ENTITY calendarproperties.cache.label                    "מטמון (ניסיוני, דורש הפעלה מחדש)">
+<!ENTITY calendarproperties.cache2.label                   "מטמון">
 <!ENTITY calendarproperties.enabled.label                  "הפעל לוח שנה זה">
-<!ENTITY calendarproperties.forceDisabled.label            "לא ניתן למצוא את הספק של יומן זה. תקלה זו נגרמת אם נטרלת או הסרת תוספות מסוימות.">
+<!ENTITY calendarproperties.forceDisabled.label            "לא ניתן למצוא את הספק של לוח שנה זה. תקלה זו נגרמת אם נטרלת או הסרת תוספות מסוימות.">
 <!ENTITY calendarproperties.unsubscribe.label              "ביטול רישום">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "ב">
 
 <!-- Calendar Publish Dialog -->
-<!ENTITY calendar.publish.dialog.title              "פרסם יומן">
+<!ENTITY calendar.publish.dialog.title              "פרסם לוח שנה">
 <!ENTITY calendar.publish.url.label                 "כתובת הפרסום באינטרנט">
 <!ENTITY calendar.publish.publish.button      "פרסם">
 <!ENTITY calendar.publish.close.button      "סגור">
@@ -340,7 +340,7 @@
 <!ENTITY calendar.select.dialog.title    "בחירת לוח שנה">
 
 <!-- Calendar Printing -->
-<!ENTITY calendar.print.window.title "הדפס יומן">
+<!ENTITY calendar.print.window.title "הדפס לוח שנה">
 <!ENTITY calendar.print.title.label "כותרת:">
 <!ENTITY calendar.print.layout.label "צורה:">
 <!ENTITY calendar.print.range.label "מה ברצונך להדפיס">
