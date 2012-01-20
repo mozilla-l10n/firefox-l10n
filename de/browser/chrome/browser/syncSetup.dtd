@@ -42,10 +42,10 @@
 <!-- My Recovery Key dialog -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; nimmt Ihre Privatsphäre ernst">
 <!ENTITY setup.newRecoveryKeyPage.description.label "Um den kompletten Schutz Ihrer Daten zu gewährleisten, werden alle Daten verschlüsselt, bevor Sie hochgeladen werden. Der Schlüssel, um Ihre Daten zu entschlüsseln, wird nicht hochgeladen.">
-<!ENTITY newRecoveryKeyPage.label        "Ihr Wiederherstellungs-Schlüssel">
-<!ENTITY newRecoveryKeyPage.accesskey    "S">
+<!ENTITY recoveryKeyEntry.label	        "Ihr Wiederherstellungs-Schlüssel">
+<!ENTITY recoveryKeyEntry.accesskey	    "S">
 <!ENTITY syncGenerateNewKey.label  "Einen neuen Schlüssel generieren">
-<!ENTITY newRecoveryKeyPage.description "Sie benötigen den Wiederherstellungs-Schlüssel, um auf anderen Geräten auf &syncBrand.fullName.label; zuzugreifen. Bitte hinterlegen Sie eine Sicherheitskopie des Schlüssels. Wir können Ihnen nicht dabei helfen, den Wiederherstellungs-Schlüssel wiederzuerlangen.">
+<!ENTITY recoveryKeyBackup.description "Sie benötigen den Wiederherstellungs-Schlüssel, um auf anderen Geräten auf &syncBrand.fullName.label; zuzugreifen. Bitte hinterlegen Sie eine Sicherheitskopie des Schlüssels. Wir können Ihnen nicht dabei helfen, den Wiederherstellungs-Schlüssel wiederzuerlangen.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Drucken…">
 <!ENTITY button.syncKeyBackup.print.accesskey "D">
