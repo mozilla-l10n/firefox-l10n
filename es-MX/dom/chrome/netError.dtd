@@ -1,3 +1,5 @@
+<!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
+%netErrorAppDTD;
 <!ENTITY loadError.label "Error al cargar la página">
 <!ENTITY retry.label "Reintentar">
 <!ENTITY connectionFailure.title "Error al conectar">
@@ -63,10 +65,3 @@
 <!ENTITY corruptedContentError.longDesc "<p>La página que estás tratando de ver no se puede mostrar porque un error en la transferencia de datos fue detectado.</p><ul><li>Por favor contacta con los propietarios del sitio para informarles de este problema.</li></ul>">
 <!ENTITY remoteXUL.title "XUL Remoto">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contacta con los propietarios del sitio web para informarles de este problema.</li></ul></p>">
-
-<!-- Include app-specific error messages - do not change this in localization!
-     Some applications might override netErrorApp.dtd with their specific version,
-     this inclusion needs to be intact for that approach to work correctly.
-     Please, try to keep this at the end of the file. -->
-<!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
-%netErrorAppDTD;
