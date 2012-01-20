@@ -27,9 +27,7 @@
 
 <!ENTITY awesomebar_default_text "Enter Search or Address">
 
-<!ENTITY bookmarks_title "Marcadores">
-<!ENTITY bookmark_add "Marcador">
-<!ENTITY bookmark_remove "Remover">
+<!ENTITY bookmark "Marcador">
 <!ENTITY bookmark_added "Marcador adicionado">
 <!ENTITY bookmark_removed "Marcador  removido">
 
@@ -58,11 +56,12 @@
 <!ENTITY pref_clear_history_confirm "O histórico de navegação será eliminado">
 <!ENTITY pref_clear_private_data "Limpar dados privados">
 <!ENTITY pref_clear_private_data_confirm "Serão eliminadas definições de navegação, incluindo senhas e cookies">
-<!ENTITY pref_enable_plugins "Ativar plugins">
-<!ENTITY pref_enable_plugins_yes "Sim">
-<!ENTITY pref_enable_plugins_tap_to_play "Toque para reproduzir">
-<!ENTITY pref_enable_plugins_no "Não">
-<!ENTITY pref_font_size "Tamanho da letra">
+<!ENTITY pref_plugins "Plugins">
+<!ENTITY pref_plugins_enabled "Ativado">
+<!ENTITY pref_plugins_tap_to_play "Toque para reproduzir">
+<!ENTITY pref_plugins_disabled "Disativado">
+<!ENTITY pref_text_size "Tamanho da letra">
+<!ENTITY pref_font_size_tiny "Minúscula">
 <!ENTITY pref_font_size_small "Pequena">
 <!ENTITY pref_font_size_medium "Média">
 <!ENTITY pref_font_size_large "Grande">
@@ -72,13 +71,13 @@
 <!ENTITY quit "Desistir">
 
 <!ENTITY addons "Extras">
+<!ENTITY downloads "Transferências">
 
 <!ENTITY share "Partilhar">
 <!ENTITY save_as_pdf "Guardar como PDF">
-<!ENTITY agent_request_desktop "Pedir sítio do Desktop">
-<!ENTITY agent_request_mobile "Pedir sítio do Mobile">
 
 <!ENTITY contextmenu_open_new_tab "Abrir num novo separador">
+<!ENTITY contextmenu_remove_bookmark "Remover">
 <!ENTITY contextmenu_add_to_launcher "Adicionar ecrã inicial">
 <!ENTITY contextmenu_share "Partilhar">
 
@@ -94,3 +93,10 @@
 
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Cancelar">
+
+<!ENTITY abouthome_addons_title "Extras para o seu &brandShortName;">
+<!ENTITY abouthome_addons_browse "Navegar em todos os extras do &brandShortName;">
+<!ENTITY abouthome_last_tabs_title "Os seus separadores da última vez">
+<!ENTITY abouthome_last_tabs_open "Abrir todos os separadores da última vez">
+<!ENTITY abouthome_top_sites_title "Top de sítios">
+<!ENTITY abouthome_top_sites_browse "Navegar em todos os seus top sítios">
