@@ -18,7 +18,7 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "ברוך הבא, אם מעולם לא השתמשת ב־&syncBrand.fullName.label; בעבר, יהיה עליך ליצור חשבון חדש.">
+<!ENTITY setup.pickSetupType.description2 "ברוכים הבאים! במידה ומעולם לא השתמשתם ב־&syncBrand.fullName.label; בעבר, יהיה עליכם ליצור חשבון חדש.">
 <!ENTITY button.createNewAccount.label "צור חשבון חדש">
 <!ENTITY button.haveAccount.label      "יש לי חשבון">
 
@@ -104,6 +104,8 @@
 <!ENTITY engine.passwords.accesskey "ס">
 <!ENTITY engine.prefs.label         "העדפות">
 <!ENTITY engine.prefs.accesskey     "ה">
+<!ENTITY engine.addons.label        "תוספות">
+<!ENTITY engine.addons.accesskey    "ת">
 
 <!ENTITY choice2.merge.main.label      "מיזוג נתוני מחשב זה עם נתוני ה־&syncBrand.shortName.label; שלי">
 <!ENTITY choice2.merge.recommended.label "מומלץ:">

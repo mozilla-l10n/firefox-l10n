@@ -39,6 +39,8 @@
 <!ENTITY engine.passwords.accesskey "ס">
 <!ENTITY engine.prefs.label         "העדפות">
 <!ENTITY engine.prefs.accesskey     "ה">
+<!ENTITY engine.addons.label        "תוספות">
+<!ENTITY engine.addons.accesskey    "ת">
 
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label       "שם מחשב:">

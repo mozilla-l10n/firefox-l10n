@@ -12,4 +12,3 @@
 <!ENTITY requireOCSP.label            "כאשר לא ניתן לתקשר מול שרת OCSP, זהה את האישור כלא חוקי">
 <!ENTITY requireOCSP.accesskey        "כ">
 
-

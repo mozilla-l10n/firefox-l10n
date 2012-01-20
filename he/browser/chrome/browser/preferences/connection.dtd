@@ -37,9 +37,9 @@
 <!ENTITY  socks.label                   "שרת מארח SOCKS:">
 <!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
-<!ENTITY  socks4.accesskey              "K">
+<!ENTITY  socks4.accesskey              "4">
 <!ENTITY  socks5.label                  "SOCKS v5">
-<!ENTITY  socks5.accesskey              "v">
+<!ENTITY  socks5.accesskey              "5">
 <!ENTITY  port.label                    "שער:">
 <!ENTITY  HTTPport.accesskey            "ש">
 <!ENTITY  SSLport.accesskey             "ע">

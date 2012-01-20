@@ -8,4 +8,3 @@
      0 = Sunday, 1 = Monday, etc. -->
 <!ENTITY firstdayofweek.default "0">
 
-
