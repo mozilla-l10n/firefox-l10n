@@ -34,8 +34,9 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!ENTITY messageMarkByDate.label "Отбелязване като прочетени на дата">
 <!ENTITY markByDateLower.label "Отбелязване като прочетени от:">
 <!ENTITY markByDateLower.accesskey "О">
-<!ENTITY markByDateUpper.accesskey "Д">
 <!ENTITY markByDateUpper.label "До:">
+<!ENTITY markByDateUpper.accesskey "Д">

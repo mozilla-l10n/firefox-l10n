@@ -1,6 +1,7 @@
-<!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessageCmd.key "M">
-<!ENTITY newMessageCmd.label "Писмо">
-<!ENTITY newMessageCmd.accesskey "П">
-<!ENTITY newCardCmd.label "Визитка в адресника...">
-<!ENTITY newCardCmd.accesskey "В">
+<!ENTITY  newMessageCmd2.key              "N">
+<!ENTITY  newMessageCmd.key               "M">
+<!ENTITY  newMessageCmd.label             "Писмо">
+<!ENTITY  newMessageCmd.accesskey         "П">
+ 
+<!ENTITY  newContactCmd.label             "Контакт в адресника…">
+<!ENTITY  newContactCmd.accesskey         "К">

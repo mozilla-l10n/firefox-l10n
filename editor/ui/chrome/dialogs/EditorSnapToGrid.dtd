@@ -35,9 +35,14 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!-- Window title -->
+
+
 <!ENTITY windowTitle.label "Прилепване към мрежа">
+
 <!ENTITY enableSnapToGrid.label "разрешаване на прилепването">
-<!ENTITY enableSnapToGrid.accessKey "п">
+<!ENTITY enableSnapToGrid.accessKey "р">
+
 <!ENTITY sizeEditField.label "Размер:">
-<!ENTITY sizeEditField.accessKey "Р">
+<!ENTITY sizeEditField.accessKey "з">
+
 <!ENTITY pixelsLabel.value "пиксели">

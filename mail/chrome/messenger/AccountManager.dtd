@@ -1,21 +1,26 @@
 <!-- extracted from AccountManager.xul -->
+
 <!ENTITY accountManagerTitle.label "Настройки на регистрация">
-<!ENTITY addAccountButton.label "Добавяне на регистрация...">
-<!ENTITY addAccountButton.accesskey "Д">
+
+<!ENTITY accountActionsButton.label "Действия по регистрация">
+<!ENTITY accountActionsButton.accesskey "р">
+<!ENTITY addMailAccountButton.label "Добавяне на пощенска регистрация…">
+<!ENTITY addMailAccountButton.accesskey "Д">
+<!ENTITY addOtherAccountButton.label "Добавяне на друга регистрация…">
+<!ENTITY addOtherAccountButton.accesskey "у">
 <!ENTITY setDefaultButton.label "По подразбиране">
-<!ENTITY setDefaultButton.accesskey "д">
-<!ENTITY duplicateButton.label "Дублиране">
+<!ENTITY setDefaultButton.accesskey "П">
 <!ENTITY removeButton.label "Премахване на регистрация">
 <!ENTITY removeButton.accesskey "П">
-<!ENTITY nameCol.label "Име">
-<!ENTITY duplicate.label "Дублиране">
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
      setting dialog, which specifies the width and height in em units of the dialog.
      Localizers ONLY can increase these widths if they are having difficulty getting
-     panel content to fit. 1em = the width of the letter 'm' in the selected font.
+     panel content to fit.
+     1ch = The width of the "0" (ZERO, U+0030) glyph for the current font.
+     1em = The height of the font.
      XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
      this window for en-US. -->
-<!ENTITY accountManager.size "width: 70em; height: 50em;">
-<!ENTITY macAccountManager.size "width: 60em; height: 50em;">
-<!ENTITY accountTree.width "width: 17em;">
+
+<!ENTITY accountManager.size "width: 130ch; height: 58em;">
+<!ENTITY accountTree.width "width: 35ch;">

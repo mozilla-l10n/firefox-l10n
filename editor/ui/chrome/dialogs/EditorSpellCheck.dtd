@@ -35,7 +35,9 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!-- Window title -->
+
 <!ENTITY windowTitle.label "Проверка на правописа">
+
 <!ENTITY misspelledWord.label "Сгрешени думи:">
 <!ENTITY wordEditField.label "Замяна с:">
 <!ENTITY wordEditField.accessKey "с">
@@ -54,10 +56,10 @@
 <!ENTITY stopButton.label "Стоп">
 <!ENTITY stopButton.accessKey "т">
 <!ENTITY userDictionary.label "Личен речник:">
-<!ENTITY moreDictionaries.label "Изтегляне на още">
+<!ENTITY moreDictionaries.label "Изтегляне на още речници…">
 <!ENTITY addToUserDictionaryButton.label "Добавяне">
 <!ENTITY addToUserDictionaryButton.accessKey "Д">
-<!ENTITY editUserDictionaryButton.label "Промяна...">
+<!ENTITY editUserDictionaryButton.label "Промяна…">
 <!ENTITY editUserDictionaryButton.accessKey "м">
 <!ENTITY recheckButton.label "Проверка">
 <!ENTITY recheckButton.accessKey "к">

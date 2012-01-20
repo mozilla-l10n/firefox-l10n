@@ -36,26 +36,65 @@
    - ***** END LICENSE BLOCK ***** -->
 <!-- Window title -->
 <!-- LOCALIZATION NOTE  (editorWindow.titlemodifier): DONT_TRANSLATE -->
-<!ENTITY editorWindow.titlemodifier "Composer">
+
+<!ENTITY editorWindow.titlemodifier "Composer"> 
 <!ENTITY editorWindow.titlemodifiermenuseparator " - ">
-<!ENTITY textEditorWindow.titlemodifier "Редактор">
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
+<!-- Toolbar-only items -->
+
+
+<!ENTITY compositionToolbar.tooltip "Лента с инструменти за писане">
+<!ENTITY previewToolbarCmd.label "Разглеждане">
+<!ENTITY previewToolbarCmd.tooltip "Зареждане на страницата в браузъра">
+<!-- File menu items -->
+
+<!ENTITY exportToTextCmd.label "Изнасяне като текст…">
+<!ENTITY exportToTextCmd.accesskey "т">
+<!ENTITY previewCmd.label "Разглеждане на страница">
+<!ENTITY previewCmd.accesskey "г">
+<!ENTITY sendPageCmd.label "Изпращане на страница…">
+<!ENTITY sendPageCmd.accesskey "щ">
 <!-- View menu items -->
-<!ENTITY viewMenu.label "Изглед">
-<!ENTITY viewmenu.accesskey "г">
-<!ENTITY compositionToolbarCmd.label "Лента с инструменти за композиране">
-<!ENTITY compositiontb.accesskey "к">
-<!ENTITY formattingToolbarCmd.label "Лента за форматиране">
-<!ENTITY formattingtb.accesskey "о">
-<!ENTITY editmodeToolbarCmd.label "Лента инструменти за редактиране">
-<!ENTITY editmodetb.accesskey "р">
-<!ENTITY taskbarCmd.label "Лента състояние">
-<!ENTITY taskbarCmd.accesskey "Л">
+
+<!ENTITY compositionToolbarCmd.label "Лента с инструменти за писане">
+<!ENTITY compositionToolbarCmd.accesskey "п">
+<!ENTITY formattingToolbarCmd.label "Лента с инструменти за форматиране">
+<!ENTITY formattingToolbarCmd.accesskey "ф">
+<!ENTITY editmodeToolbarCmd.label "Лента с инструменти за редактиране">
+<!ENTITY editmodeToolbarCmd.accesskey "р">
 <!-- Format menu items -->
+
 <!ENTITY formatMenu.label "Формат">
-<!ENTITY formatmenu.accesskey "Ф">
-<!ENTITY helpMenu.label "Помощ">
-<!ENTITY aboutCmd.label ".About">
-<!-- Display Mode Toolbar -->
-<!ENTITY editMode.label "Режим редактиране:">
-<!ENTITY statusText.label "Страницата заредена">
+<!ENTITY formatMenu.accesskey "о">
+<!ENTITY grid.label "Решетка за наместване">
+<!ENTITY grid.accesskey "т">
+<!ENTITY pageProperties.label "Заглавие и свойства на страница…">
+<!ENTITY pageProperties.accesskey "с">
+<!-- Tools menu items -->
+
+<!ENTITY validateCmd.label "Проверка на HTML">
+<!ENTITY validateCmd.accesskey "П">
+<!-- Display Mode toolbar and View menu items -->
+
+<!ENTITY NormalModeTab.label "Нормален">
+<!ENTITY NormalMode.label "Нормален режим на редактиране">
+<!ENTITY NormalMode.accesskey "Н">
+<!ENTITY NormalMode.tooltip "Показване на краищата на таблицата и именуваните котви">
+<!ENTITY AllTagsModeTab.label "HTML Етикети">
+<!ENTITY AllTagsMode.label "HTML Етикети">
+<!ENTITY AllTagsMode.accesskey "и">
+<!ENTITY AllTagsMode.tooltip "Показване икони за всички HTML етикети">
+<!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
+     Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if
+     you want the <html> image to left of the 'HTMLSourceModeTab.label' text,
+     or use latin "rtl" if you want this image to the right of text. You do
+     not need to include HTML in the label 'HTMLSourceModeTab.label' -->
+<!ENTITY HTMLSourceModeTab.dir "ltr">
+<!ENTITY HTMLSourceModeTab.label "Изходен код">
+<!ENTITY HTMLSourceMode.label "HTML изходен код">
+<!ENTITY HTMLSourceMode.accesskey "H">
+<!ENTITY HTMLSourceMode.tooltip "Редактиране HTML кода">
+<!ENTITY PreviewModeTab.label "Преглед">
+<!ENTITY PreviewMode.label "Преглед">
+<!ENTITY PreviewMode.accesskey "П">
+<!ENTITY PreviewMode.tooltip "Изобразяване в окончателен вид (като в браузър)">

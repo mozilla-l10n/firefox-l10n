@@ -1,18 +1,23 @@
 <!-- extracted from am-advanced.xul -->
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
+
 <!ENTITY smtpServer.label "Настройки на изходящия сървър (SMTP)">
 <!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpDesc.label "Въпреки, че можете да определите повече от един изходящ сървър (SNTP), това се препоръчва само за опитни потребители. Такова действие може да предизвика грешки при изпращане на съобщения. ">
-<!ENTITY smtpListAdd.label "Добавяне...">
-<!ENTITY smtpListAdd.accesskey "Д">
-<!ENTITY smtpListEdit.label "Промяна...">
+
+<!ENTITY smtpDesc.label "Въпреки, че можете да определите повече от един изходящ сървър (SMTP), това се препоръчва само за опитни потребители. Такова действие може да предизвика грешки при изпращане на съобщения. ">
+
+<!ENTITY smtpListAdd.label  "Добавяне…">
+<!ENTITY smtpListAdd.accesskey  "б">
+<!ENTITY smtpListEdit.label "Промяна…">
 <!ENTITY smtpListEdit.accesskey "П">
 <!ENTITY smtpListDelete.label "Премахване">
 <!ENTITY smtpListDelete.accesskey "х">
 <!ENTITY smtpListSetDefault.label "По подразбиране">
 <!ENTITY smtpListSetDefault.accesskey "о">
+
 <!ENTITY serverDescription.label "Описание:">
 <!ENTITY serverName.label "Име на сървър:">
 <!ENTITY serverPort.label "Порт:">
-<!ENTITY userName.label "Потребителско име:">
-<!ENTITY useSecureConnection.label "Защитена връзка:">
+<!ENTITY userName.label   "Потребителско име:">
+<!ENTITY connectionSecurity.label "Сигурност на връзката:">
+<!ENTITY authMethod.label   "Метод на удостоверяване: ">
