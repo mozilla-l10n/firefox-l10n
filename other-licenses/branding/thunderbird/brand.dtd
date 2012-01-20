@@ -1,5 +1,4 @@
-<!ENTITY lang.version "__MOZILLA_LOCALE_VERSION__">
-<!ENTITY brandShortName "Thunderbird">
-<!ENTITY brandFullName "Mozilla Thunderbird Alpha 2">
-<!ENTITY vendorShortName "Mozilla Thunderbird">
-<!ENTITY sidebarName "Странична лента">
+<!ENTITY  brandShortName        "Thunderbird">
+<!ENTITY  brandFullName         "Mozilla Thunderbird">
+<!ENTITY  vendorShortName       "Mozilla">
+<!ENTITY  trademarkInfo.part1   "Mozilla Thunderbird и логотата на Thunderbird са търговски марки на Mozilla Foundation.">
