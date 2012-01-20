@@ -34,58 +34,58 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY time.midnight "Gauerdia">
-<!ENTITY time.noon "Eguerdia">
+<!ENTITY time.midnight "Gauerdia" >
+<!ENTITY time.noon "Eguerdia" >
 <!-- Day Names -->
 <!-- LOCALIZATION NOTE : Accesskeys for day.1.Ddd to day.7.Ddd are currently
      only used in Preferences > Views > Workweek groupbox -->
 
-<!ENTITY day.1.Ddd "Iga">
+<!ENTITY day.1.Ddd "Iga" >
 <!ENTITY day.1.Ddd.accesskey "I">
-<!ENTITY day.2.Ddd "astl">
+<!ENTITY day.2.Ddd "astl" >
 <!ENTITY day.2.Ddd.accesskey "A">
-<!ENTITY day.3.Ddd "Astr">
+<!ENTITY day.3.Ddd "Astr" >
 <!ENTITY day.3.Ddd.accesskey "R">
-<!ENTITY day.4.Ddd "Astz">
+<!ENTITY day.4.Ddd "Astz" >
 <!ENTITY day.4.Ddd.accesskey "Z">
-<!ENTITY day.5.Ddd "Ostg">
+<!ENTITY day.5.Ddd "Ostg" >
 <!ENTITY day.5.Ddd.accesskey "O">
-<!ENTITY day.6.Ddd "Osti">
+<!ENTITY day.6.Ddd "Osti" >
 <!ENTITY day.6.Ddd.accesskey "T">
-<!ENTITY day.7.Ddd "Lar">
+<!ENTITY day.7.Ddd "Lar" >
 <!ENTITY day.7.Ddd.accesskey "L">
 
-<!ENTITY day.1.name "Igandea">
-<!ENTITY day.2.name "Astelehena">
-<!ENTITY day.3.name "Asteartea">
-<!ENTITY day.4.name "Asteazkena">
-<!ENTITY day.5.name "Osteguna">
-<!ENTITY day.6.name "Ostirala">
-<!ENTITY day.7.name "Larunbata">
+<!ENTITY day.1.name "Igandea" >
+<!ENTITY day.2.name "Astelehena" >
+<!ENTITY day.3.name "Asteartea" >
+<!ENTITY day.4.name "Asteazkena" >
+<!ENTITY day.5.name "Osteguna" >
+<!ENTITY day.6.name "Ostirala" >
+<!ENTITY day.7.name "Larunbata" >
 <!-- Units -->
 
-<!ENTITY calendar.global.units.minute "minutu">
-<!ENTITY calendar.global.units.minutes "minutu">
-<!ENTITY calendar.global.units.hour "ordu">
-<!ENTITY calendar.global.units.hours "ordu">
-<!ENTITY calendar.global.units.day "egun">
-<!ENTITY calendar.global.units.days "egun">
+<!ENTITY calendar.global.units.minute   "minutu">
+<!ENTITY calendar.global.units.minutes  "minutu">
+<!ENTITY calendar.global.units.hour     "ordu">
+<!ENTITY calendar.global.units.hours    "ordu">
+<!ENTITY calendar.global.units.day      "egun">
+<!ENTITY calendar.global.units.days     "egun">
 
-<!ENTITY month.1.name "urtarrila">
-<!ENTITY month.2.name "otsaila">
-<!ENTITY month.3.name "martxoa">
-<!ENTITY month.4.name "apirila">
-<!ENTITY month.5.name "maiatza">
-<!ENTITY month.6.name "ekaina">
-<!ENTITY month.7.name "uztaila">
-<!ENTITY month.8.name "abuztua">
-<!ENTITY month.9.name "iraila">
-<!ENTITY month.10.name "urria">
-<!ENTITY month.11.name "azaroa">
-<!ENTITY month.12.name "abendua">
+<!ENTITY month.1.name "urtarrila" >
+<!ENTITY month.2.name "otsaila" >
+<!ENTITY month.3.name "martxoa" >
+<!ENTITY month.4.name "apirila" >
+<!ENTITY month.5.name "maiatza" >
+<!ENTITY month.6.name "ekaina" >
+<!ENTITY month.7.name "uztaila" >
+<!ENTITY month.8.name "abuztua" >
+<!ENTITY month.9.name "iraila" >
+<!ENTITY month.10.name "urria" >
+<!ENTITY month.11.name "azaroa" >
+<!ENTITY month.12.name "abendua" >
 
-<!ENTITY onemonthbackward.tooltip "Hilabete bat atzera">
-<!ENTITY onemonthforward.tooltip "Hilabete bat aurrera">
+<!ENTITY onemonthbackward.tooltip "Hilabete bat atzera" >
+<!ENTITY onemonthforward.tooltip "Hilabete bat aurrera" >
 <!ENTITY showToday.tooltip "Joan gaurkora">
 <!ENTITY onedayforward.tooltip "Egun bat aurrera">
 <!ENTITY onedaybackward.tooltip "Egun bat atzera">

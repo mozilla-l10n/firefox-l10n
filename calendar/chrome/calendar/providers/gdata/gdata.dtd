@@ -34,7 +34,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY gdata-provider.label "Google Calendar">
+<!ENTITY gdata-provider.label "Google  Calendar">
 
 <!ENTITY gdata.privacy.default.label "Google Lehenetsia">
 <!ENTITY gdata.privacy.default.accesskey "L">

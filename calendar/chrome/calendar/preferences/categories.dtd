@@ -40,17 +40,17 @@
   -->
 
 
-<!ENTITY pref.categories.add.title "Gehitu Kategoria">
+<!ENTITY pref.categories.add.title "Gehitu kategoria">
 <!ENTITY pref.categories.addButton.label "Gehitu...">
 <!ENTITY pref.categories.addButton.accesskey "G">
-<!ENTITY pref.categories.edit.title "Kategoria Editatu">
+<!ENTITY pref.categories.edit.title "Kategoria editatu">
 <!ENTITY pref.categories.editButton.label "Editatu">
 <!ENTITY pref.categories.editButton.accesskey "E">
 <!ENTITY pref.categories.removeButton.label "Ezabatu">
-<!ENTITY pref.categories.removeButton.accesskey "Z">
+<!ENTITY pref.categories.removeButton.accesskey "z">
 <!ENTITY pref.categories.name.label "Izena">
 <!ENTITY pref.categories.color.label "Kolorea">
-<!ENTITY pref.categories.usecolor.label "Kolorea Erabili">
+<!ENTITY pref.categories.usecolor.label "Kolorea erabili">
 <!ENTITY pref.categories.none.label "(batez)">
 <!ENTITY pref.categories.overwrite "Badago izen horretako kategoria bat dagoeneko. \n Gainidatzi nahi al duzu??">
 <!ENTITY pref.categories.overwrite.title "Oharra: Bikoiztutako izena">
