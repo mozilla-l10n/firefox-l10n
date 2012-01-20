@@ -1,0 +1,12 @@
+<!ENTITY empty.label            "Noonya">
+<!ENTITY newpref.label          "Yongera Ekyokweroboza Ekipya">
+<!ENTITY addpref.name           "Erinnya">
+<!ENTITY addpref.value          "Omuwendo">
+
+<!ENTITY cancel.label           "Sazaamu">
+<!ENTITY reset.label            "Ddamu otegeke">
+<!ENTITY done.label             "Kiwede">
+
+<!ENTITY integer.label          "Ennamba">
+<!ENTITY string.label           "Akaguwa">
+<!ENTITY boolean.label          "Boolean">
