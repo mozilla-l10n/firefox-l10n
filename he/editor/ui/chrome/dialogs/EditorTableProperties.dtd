@@ -1,5 +1,5 @@
 <!--
-# Translator(s):
+# Reviewer(s):
 #
 # http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
 #
@@ -112,5 +112,4 @@
 <!ENTITY AlignLeft.label                  "שמאל">
 <!ENTITY AlignCenter.label                "מרכז">
 <!ENTITY AlignRight.label                 "ימין">
-
 

@@ -62,6 +62,8 @@
 <!ENTITY half-manual-test.accesskey      "ב">
 <!ENTITY manual-edit.label               "הגדרות ידניות">
 <!ENTITY manual-edit.accesskey           "ה">
+<!ENTITY switch-to-provisioner.label     "קבלת חשבון חדש">
+<!ENTITY switch-to-provisioner.accesskey "ח">
 
 
 <!ENTITY warning.label                   "זהירות!">

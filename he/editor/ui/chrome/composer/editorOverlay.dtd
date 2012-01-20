@@ -9,6 +9,7 @@
 # Reviewer(s):
 #
 # http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+# hatul <amiadb@gmail.com>
 #
 -->
 <!-- ***** BEGIN LICENSE BLOCK *****
@@ -56,47 +57,14 @@
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
 <!-- File menu items -->
-<!ENTITY fileMenu.label "קובץ">
-<!ENTITY fileMenu.accesskey "f">
-<!ENTITY openFileCmd.label "פתח קובץ...">
-<!ENTITY openFileCmd.accesskey "o">
-<!ENTITY openFileCmd.key "o">
-<!ENTITY openRemoteCmd.label "פתח מקום ברשת...">
-<!ENTITY openRemoteCmd.accesskey "l">
-<!ENTITY openRemoteCmd.key "l">
-<!ENTITY fileRecentMenu.label "דפים אחרונים">
-<!ENTITY fileRecentMenu.accesskey "r">
-<!ENTITY fileRevert.label "חזור למצב שנשמר אחרון">
-<!ENTITY fileRevert.accesskey "v">
-<!ENTITY saveCmd.label "שמירה">
-<!ENTITY saveCmd.accesskey "ש">
-<!ENTITY saveCmd.key "ת">
-<!ENTITY saveAsCmd.label "שמירה בשם…">
-<!ENTITY saveAsCmd.accesskey "ב">
-
-<!ENTITY publishCmd.label "פרסם">
-<!ENTITY publishCmd.accesskey "פ">
-<!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "פרסם בשם...">
-<!ENTITY publishAsCmd.accesskey "ר">
-<!ENTITY saveAsChangeEncodingCmd.label "שמור ושנה קידוד תווים">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "E">
-<!ENTITY printSetupCmd.label "הגדרות דף...">
-<!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printCmd.label "הדפסה…">
-<!ENTITY printCmd.accesskey "p">
-<!ENTITY printCmd.key "p">
+<!ENTITY saveCmd.key "S">
 
 <!-- Edit menu items -->
-<!ENTITY editMenu.label "עריכה">
-<!ENTITY editMenu.accesskey "e">
 <!ENTITY pasteNoFormatting.label "הדבק ללא עיצוב">
 <!ENTITY pasteNoFormatting.accesskey "o">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "הדבק בצורת">
 <!ENTITY pasteAs.accesskey "a">
-<!ENTITY publishSettings.label "הגדרות אתר פרסום...">
-<!ENTITY publishSettings.accesskey "b">
 <!ENTITY pasteAsQuotationCmd.label "הדבק כציטוט">
 <!ENTITY pasteAsQuotationCmd.accesskey "q">
 <!ENTITY pasteAsQuotationCmd.key "o">
@@ -163,7 +131,7 @@
 <!ENTITY increaseFontSize.label "גדול יותר">
 <!ENTITY increaseFontSize.accesskey "g">
 <!ENTITY increaseFontSize.key "+">
-<!-- + is above this key on many keyboards --><!ENTITY increaseFontSize.key2 "="> 
+<!ENTITY increaseFontSize.key2 "="> <!-- + is above this key on many keyboards -->
 
 <!ENTITY fontSizeMenu.label "גודל ">
 <!ENTITY fontSizeMenu.accesskey "z">
@@ -228,7 +196,7 @@
 <!ENTITY formatRemoveLinks.key "k">
 <!ENTITY formatRemoveNamedAnchors.label "הסר עוגנים בעלי שם">
 <!ENTITY formatRemoveNamedAnchors.accesskey "R">
-<!ENTITY formatRemoveNamedAnchors.key "a">
+<!ENTITY formatRemoveNamedAnchors2.key "R">
 
 <!ENTITY paragraphMenu.label "פסקה">
 <!ENTITY paragraphMenu.accesskey "P">
@@ -372,12 +340,6 @@
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "סרגל תפריטים">
 <!ENTITY formatToolbar.tooltip "סרגל כלים עיצוב">
-<!ENTITY newToolbarCmd.label "חדש">
-<!ENTITY newToolbarCmd.tooltip "צור דף Composer חדש">
-<!ENTITY openToolbarCmd.label "פתיחה">
-<!ENTITY openToolbarCmd.tooltip "פתח קובץ מקומי">
-<!ENTITY saveToolbarCmd.tooltip "שמור קובץ למיקום מקומי">
-<!ENTITY publishToolbarCmd.tooltip "העלה קובץ למיקום מרוחק">
 <!ENTITY cutToolbarCmd.tooltip "גזירה">
 <!ENTITY copyToolbarCmd.tooltip "העתקה">
 <!ENTITY pasteToolbarCmd.tooltip "הדבקה">

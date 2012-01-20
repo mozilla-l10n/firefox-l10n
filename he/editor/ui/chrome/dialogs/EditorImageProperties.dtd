@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+# hatul <amiadb@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -103,7 +116,7 @@
 <!ENTITY showImageLinkBorder.accessKey "ג">
 <!ENTITY LinkAdvancedEditButton.label "עריכת קישור מתקדמת…">
 <!ENTITY LinkAdvancedEditButton.accessKey "ק">
-<!ENTITY LinkAdvancedEditButton.tooltip "שינוי או הוספה של תכונות HTML עיצוב ו־JavaScript">
+<!ENTITY LinkAdvancedEditButton.tooltip "הוסף או שנה תכונות HTML, תכונות סגנון ו־JavaScript">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "טופס">

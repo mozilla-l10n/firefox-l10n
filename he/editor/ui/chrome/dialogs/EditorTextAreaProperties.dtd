@@ -1,5 +1,5 @@
 <!--
-# Translator(s):
+# Reviewer(s):
 #
 # http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
 #
@@ -69,5 +69,4 @@
 <!ENTITY WrapSoft.value "רכה">
 <!ENTITY WrapPhysical.value "פיזית">
 <!ENTITY WrapVirtual.value "וירטואלי">
-
 

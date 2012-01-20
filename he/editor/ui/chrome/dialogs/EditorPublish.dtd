@@ -4,6 +4,12 @@
 # Yaron <sh.yaron@gmail.com>
 #
 -->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -42,7 +48,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label            "דף פירסום">
+<!ENTITY windowTitle.label            "פרסום דף">
 <!ENTITY windowTitleSettings.label    "הגדרות פרסום">
 <!ENTITY publishTab.label             "פרסום">
 <!ENTITY settingsTab.label            "הגדרות">
@@ -102,5 +108,4 @@
 <!ENTITY savePassword.label           "שמור ססמה">
 <!ENTITY savePassword.accesskey       "ר">
 <!ENTITY savePassword.tooltip         "בחר זאת כדי לשמור את ססמתך באופן מאובטח על־ידי מנהל הססמאות">
-
 

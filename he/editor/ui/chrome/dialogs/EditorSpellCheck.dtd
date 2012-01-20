@@ -1,5 +1,5 @@
 <!--
-# Translator(s):
+# Reviewer(s):
 #
 # http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
 #
@@ -75,5 +75,4 @@
 <!ENTITY sendButton.accessKey "ש">
 <!ENTITY languagePopup.label "שפה:">
 <!ENTITY languagePopup.accessKey "פ">
-
 

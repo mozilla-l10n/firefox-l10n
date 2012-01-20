@@ -11,6 +11,7 @@
 # Reviewer(s):
 #
 # http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+# hatul <amiadb@gmail.com>
 #
 -->
 <!-- Entities for AccountWizard -->
@@ -71,6 +72,10 @@
 <!ENTITY popType.accesskey "P">
 <!ENTITY leaveMsgsOnSrvr.label "השאר הודעות על השרת">
 <!ENTITY leaveMsgsOnSrvr.accesskey "ש">
+<!ENTITY portNum.label "שער:">
+<!ENTITY portNum.accesskey "ש">
+<!ENTITY defaultPortLabel.label "ברירת מחדל:">
+<!ENTITY defaultPortValue.label "">
 
 
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in

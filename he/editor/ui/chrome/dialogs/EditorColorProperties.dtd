@@ -1,3 +1,15 @@
+<!--
+# Translator(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -36,7 +48,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "צבע ורקע של הדף">
+<!ENTITY windowTitle.label "צבעים ורקע של הדף">
 <!ENTITY pageColors.label "צבעי הדף">
 <!ENTITY defaultColorsRadio.label "צבעי ברירת המחדל של הקורא (אל תגדיר צבעים בדף)">
 <!ENTITY defaultColorsRadio.accessKey "ב">
@@ -59,5 +71,4 @@
 <!ENTITY backgroundImage.label "תמונת רקע:">
 <!ENTITY backgroundImage.accessKey "ת">
 <!ENTITY backgroundImage.tooltip "השתמש בקובץ תמונה כרקע לדף שלך">
-
 

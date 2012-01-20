@@ -1,5 +1,5 @@
 <!--
-# Translator(s):
+# Reviewer(s):
 #
 # http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
 #
@@ -57,5 +57,4 @@
 
 <!ENTITY CloseButton.label "סגירה">
 <!ENTITY CloseButton.accessKey "ס">
-
 
