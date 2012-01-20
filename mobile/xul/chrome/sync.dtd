@@ -1,0 +1,27 @@
+<!ENTITY sync.title                 "Sync">
+<!ENTITY sync.notconnected          "Sen conectar">
+<!ENTITY sync.connect               "Conectar">
+<!ENTITY sync.connected             "Conectado">
+<!ENTITY sync.details               "Detalles">
+<!ENTITY sync.deviceName            "Este dispositivo">
+<!ENTITY sync.disconnect            "Desconectar">
+<!ENTITY sync.syncNow               "Sincronizar agora">
+
+<!ENTITY sync.setup.title           "Conectar a Sync">
+<!ENTITY sync.setup.pair            "Para activalo, no outro dispositivo seleccione &#x0022;Asociar un dispositivo&#x0022;.">
+<!ENTITY sync.fallback              "Non estou cerca do meu computador…">
+<!ENTITY sync.setup.manual          "Introduza a información da súa conta de Sync">
+<!ENTITY sync.account               "Nome da conta">
+<!ENTITY sync.password              "Contrasinal">
+<!ENTITY sync.recoveryKey           "Chave de recuperación">
+<!ENTITY sync.customServer          "Usar servidor personalizado">
+<!ENTITY sync.serverURL             "URL do servidor">
+<!ENTITY sync.setup.connect         "Conectar">
+<!ENTITY sync.setup.cancel          "Cancelar">
+<!ENTITY sync.setup.tutorial        "Móstreme como">
+<!ENTITY sync.setup.waiting2        "Esperando polo outro dispositivo…">
+
+<!ENTITY sync.pair.title            "Asociar un dispositivo">
+<!ENTITY sync.pair.description      "Para activar o novo dispositivo, seleccione &#x0022;Configurar sincronización&#x0022; no dispositivo.">
+<!ENTITY sync.setup.close           "Pechar">
+<!ENTITY sync.setup.waitingdownload "Agora os seus datos estanse descargando en segundo plano. Pode pechar esta xanela en calquera momento.">
