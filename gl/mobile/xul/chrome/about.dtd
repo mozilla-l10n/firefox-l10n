@@ -1,0 +1,18 @@
+<!ENTITY aboutPage.title                        "Sobre o &brandShortName;">
+<!ENTITY aboutPage.faq.label                    "FAQ">
+<!ENTITY aboutPage.support.label                "Asistencia">
+<!ENTITY aboutPage.privacyPolicy.label          "Política de privacidade">
+<!ENTITY aboutPage.rights.label                 "Coñeza os seus dereitos">
+<!ENTITY aboutPage.relNotes.label               "Notas de lanzamento">
+<!ENTITY aboutPage.credits.label                "Créditos">
+<!ENTITY aboutPage.checkForUpdates.button       "Buscar actualizacións">
+<!ENTITY aboutPage.checkForUpdates.checking     "Buscando actualizacións…">
+<!ENTITY aboutPage.checkForUpdates.none         "Sen actualizacións dispoñíbeis">
+<!ENTITY aboutPage.checkForUpdates.found        "Actualización dispoñíbel">
+
+
+<!-- LOCALIZATION NOTE:
+     These strings are concatenated in order. Unneeded strings may be left blank.
+-->
+<!ENTITY aboutPage.licenseLink                  "Información de licenciamento">
+<!ENTITY aboutPage.licenseLinkSuffix            ".">
