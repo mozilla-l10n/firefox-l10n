@@ -4,7 +4,6 @@
 <!ENTITY     props.path.label               "Pad:">
 <!ENTITY     props.secure.label             "Verzenden bij:">
 <!ENTITY     props.expires.label            "Verloopt:">
-<!ENTITY     props.policy.label             "Beleid:">
 
 <!ENTITY     button.allow.label             "Toestaan">
 <!ENTITY     button.allow.accesskey         "T">
