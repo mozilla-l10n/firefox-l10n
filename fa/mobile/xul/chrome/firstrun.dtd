@@ -1,0 +1,8 @@
+<!ENTITY welcome.title                      "به &brandShortName; خوش آمدید">
+<!ENTITY intro.description                  "رایانهٴ شخصی و تلفن همراه‌تان را با Weave Sync هماهنگ سازید. با افزودنی‌ها فایرفاکس را مطابق میل خود تغییر دهید. با نوار مکان هوشمند اینترنت را مرور کنید، و چندین امکان دیگر.">
+<!ENTITY weave.title                        "شروع کنید">
+<!ENTITY weave.description                  "Weave Sync را برای وارد شدن به فایرفاکس خود امتحان کنید. تاریخچهٴ مرور، نشانک‌ها، گذرواژه‌های ذخیره‌شده و زبانه‌های خود را بین رایانهٴ شخصی و تلفن همراه‌تان به اشتراک بگذارید.">
+<!ENTITY weave.linkLabel                    "دریافت افزودنی Weave Sync">
+<!ENTITY getPersonal.title                  "تنظیم مطابق سلیقهٴ شخصی">
+<!ENTITY getPersonal.description            "&brandShortName; را مطابق میل خود سازید. اولین مرورگری که افزودنی روی تلفن همراه ارائه می‌دهد را شخصی سازید.">
+<!ENTITY getPersonal.linkLabel              "دریافت افزودنی برای تلفن همراه‌تان">
