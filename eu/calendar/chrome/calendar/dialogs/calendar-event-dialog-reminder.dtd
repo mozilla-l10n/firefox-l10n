@@ -11,11 +11,11 @@
    - for the specific language governing rights and limitations under the
    - License.
    -
-   - The Original Code is Calendar migration code.
+   - The Original Code is Sun Microsystems code.
    -
    - The Initial Developer of the Original Code is
-   -   Joey Minta <jminta@gmail.com>
-   - Portions created by the Initial Developer are Copyright (C) 2006
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   - Portions created by the Initial Developer are Copyright (C) 2008-2009
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
@@ -34,8 +34,21 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY migration.title "&brandFullName;: Datuak inportatu">
-<!ENTITY migration.welcome "Ongi etorri">
-<!ENTITY migration.importing "Inportatzen">
-<!ENTITY migration.list.description "&brandShortName;(e)k egutegien datuak hainbat programa desberdinetatik inportatu ditzake. Ondorengo programetan datuak aurkitu dira. Aukera ezazu zein programetatik inportatu nahi dituzun datuak.">
-<!ENTITY migration.progress.description "Aukeratutako datuak inportatzen">
+<!ENTITY reminderdialog.title                              "Ezarri gogorarazleak">
+<!ENTITY reminder.add.label                                "Gehitu">
+<!ENTITY reminder.add.accesskey                            "G">
+<!ENTITY reminder.remove.label                             "Kendu">
+<!ENTITY reminder.remove.accesskey                         "K">
+
+<!ENTITY reminder.reminderDetails.label                    "Gogorarazleen zehaztapenak">
+<!ENTITY reminder.action.label                             "Aukeratu gogoratze ekintza">
+
+<!ENTITY reminder.relation.before.label                    "aurretik" >
+<!ENTITY reminder.relation.after.label                     "ondoren" >
+
+<!ENTITY reminder.action.alert.label                       "Abisua ikusi">
+<!ENTITY reminder.action.email.label                       "Bidali ePosta">
+
+<!ENTITY alarm.units.minutes                               "minutu" >
+<!ENTITY alarm.units.hours                                 "ordu" >
+<!ENTITY alarm.units.days                                  "egun" >

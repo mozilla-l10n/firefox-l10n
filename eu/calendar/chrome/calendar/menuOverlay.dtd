@@ -42,75 +42,58 @@
    - ***** END LICENSE BLOCK ***** -->
 <!-- Event Menu -->
 
-<!ENTITY event.new.event "Gertaera berria...">
-<!ENTITY event.new.event.key "N">
-<!ENTITY event.new.event.accesskey "B">
+<!ENTITY event.new.event                        "Gertaera berria…">
+<!ENTITY event.new.event.key                    "N">
+<!ENTITY event.new.event.accesskey              "B">
 
-<!ENTITY event.new.todo "Zeregin berria...">
-<!ENTITY event.new.todo.key "T">
-<!ENTITY event.new.todo.accesskey "Z">
+<!ENTITY event.new.task                         "Zeregin berria…">
+<!ENTITY event.new.task.key                     "K">
+<!ENTITY event.new.task.accesskey               "k">
 
-<!ENTITY calendar.new.server.label "Egutegi fitxategi berria...">
-<!ENTITY calendar.new.server.key "L">
-<!ENTITY calendar.new.server.accesskey "f">
+<!ENTITY calendar.new.server.label              "Egutegi berria…">
+<!ENTITY calendar.new.server.key                "L">
+<!ENTITY calendar.new.server.accesskey          "u">
 
-<!ENTITY calendar.print.label "Inprimatu...">
-<!ENTITY calendar.print.key "P">
-<!ENTITY calendar.print.accesskey "P">
+<!ENTITY calendar.print.label                   "Inprimatu…">
+<!ENTITY calendar.print.key                     "P">
+<!ENTITY calendar.print.accesskey               "p">
 
-<!ENTITY calendar.import.label "Inportatu...">
-<!ENTITY calendar.import.key "I">
-<!ENTITY calendar.import.accesskey "I">
+<!ENTITY calendar.import.label                  "Inportatu…">
+<!ENTITY calendar.import.key                    "I">
+<!ENTITY calendar.import.accesskey              "I">
 
-<!ENTITY calendar.export.calendar.label "Egutegia Esportatu...">
-<!ENTITY calendar.export.calendar.accesskey "E">
-<!ENTITY calendar.export.selection.label "Hautapena Esportatu...">
-<!ENTITY calendar.export.selection.accesskey "S">
+<!ENTITY calendar.export.label                  "Esportatu…">
+<!ENTITY calendar.export.accesskey              "E">
+<!ENTITY calendar.export.selection.label        "Esportatu hautapena…">
+<!ENTITY calendar.export.selection.accesskey    "s">
 
-<!ENTITY calendar.publish.label "Argitaratu...">
-<!ENTITY calendar.publish.accesskey "g">
+<!ENTITY calendar.publish.label                 "Argitaratu…">
+<!ENTITY calendar.publish.accesskey             "g">
 
-<!ENTITY calendar.toolbar.label "Egutegi resna-barra">
-<!ENTITY calendar.toolbar.accesskey "E">
-<!ENTITY task.toolbar.label "Zereginen tresna-barra">
-<!ENTITY task.toolbar.accesskey "b">
+<!ENTITY calendar.deletecalendar.label          "Ezabatu hautatutako egutegia…">
+<!ENTITY calendar.deletecalendar.accesskey      "E">
 
-<!ENTITY calendar.menu.customize.label "Pertsonalizatu...">
-<!ENTITY calendar.menu.customize.accesskey "P">
+<!ENTITY calendar.menu.customize.label          "Pertsonalizatu…">
+<!ENTITY calendar.menu.customize.accesskey      "P">
 
-<!ENTITY showUnifinderCmd.label "Bilatu gertaerak">
-<!ENTITY showUnifinderCmd.accesskey "B">
+<!ENTITY showUnifinderCmd.label                 "Bilatu gertaerak">
+<!ENTITY showUnifinderCmd.accesskey             "B">
 
-<!ENTITY calendar.displaytodos.checkbox.label "Erakutsi Zereginak Egutegian">
-<!ENTITY calendar.displaytodos.checkbox.accesskey "T">
+<!ENTITY calendar.displaytodos.checkbox.label       "Erakutsi zereginak egutegian">
+<!ENTITY calendar.displaytodos.checkbox.accesskey   "t">
 
-<!ENTITY calendar.menu.numberofweeks.label "Aste anitzekoa Ikuspegi Tamaina">
-<!ENTITY calendar.menu.numberofweeks.2 "Bi Aste">
-<!ENTITY calendar.menu.numberofweeks.3 "Hiru Aste">
-<!ENTITY calendar.menu.numberofweeks.4 "Lau Aste">
-<!ENTITY calendar.menu.numberofweeks.5 "Bost Aste">
-<!ENTITY calendar.menu.numberofweeks.6 "Sei Aste">
+<!ENTITY calendar.menu.numberofweeks.label      "Aste anitzeko ikuspegi tamaina">
+<!ENTITY calendar.menu.numberofweeks.2          "Bi aste">
+<!ENTITY calendar.menu.numberofweeks.3          "Hiru aste">
+<!ENTITY calendar.menu.numberofweeks.4          "Lau aste">
+<!ENTITY calendar.menu.numberofweeks.5          "Bost aste">
+<!ENTITY calendar.menu.numberofweeks.6          "Sei aste">
 
-<!ENTITY goTodayCmd.label "Gaur">
-<!ENTITY goTodayCmd.accesskey "G">
+<!ENTITY goTodayCmd.label                       "Gaur">
+<!ENTITY goTodayCmd.accesskey                   "G">
 
-<!ENTITY goPreviousCmd.day.label "Aurreko Eguna">
-<!ENTITY goPreviousCmd.week.label "Aurreko Astea">
-<!ENTITY goPreviousCmd.month.label "Aurreko Hilabetea">
-<!ENTITY goPreviousCmd.accesskey "A">
+<!ENTITY showCurrentView.label                  "Uneko ikuspegia">
+<!ENTITY showCurrentView.accesskey              "U">
 
-<!ENTITY goNextCmd.day.label "Hurrengo Eguna">
-<!ENTITY goNextCmd.week.label "Hurrengo Astea">
-<!ENTITY goNextCmd.month.label "Hurrengo Hilabetea">
-<!ENTITY goNextCmd.all.accesskey "e">
-
-<!ENTITY addressBookCmd.label "Helbide Liburua">
-<!ENTITY addressBookCmd.accesskey "A">
-
-<!ENTITY calendar.importcalendar.label "Egutegia Inportatu...">
-
-<!ENTITY showCurrentView.label "Uneko ikuspegia">
-<!ENTITY showCurrentView.accesskey "U">
-
-<!ENTITY calendar.properties.label "Egutegi propietateak...">
-<!ENTITY calendar.properties.accesskey "E">
+<!ENTITY calendar.properties.label              "Egutegiaren propietateak…">
+<!ENTITY calendar.properties.accesskey          "E">

@@ -45,9 +45,9 @@
 
 
 <!ENTITY pref.calendar.view.allview.caption "Nagusia">
-<!ENTITY pref.calendar.view.dayandweekviews.caption "Egun eta Aste Ikuspegia">
-<!ENTITY pref.calendar.view.multiweekview.caption "Aste Anitz Ikuspegia">
-<!ENTITY pref.calendar.view.workweek.caption "LanAstea">
+<!ENTITY pref.calendar.view.dayandweekviews.caption "Egun eta aste ikuspegia">
+<!ENTITY pref.calendar.view.multiweekview.caption "Aste anitz ikuspegia">
+<!ENTITY pref.calendar.view.workweek.caption "Lan astea">
 
 <!ENTITY pref.weekstarts.label "Astea noiz hasi:">
 <!ENTITY pref.weekstarts.accesskey "h">
@@ -64,7 +64,7 @@
 <!ENTITY pref.numberofweeks.label "Ikusiko den lehenetsitako aste kopurua (Aurreko asteak barne):">
 <!ENTITY pref.numberofweeks.accesskey "k">
 <!ENTITY pref.numberofpreviousweeks.label "Ikusiko diren aurreko asteak:">
-<!ENTITY pref.numberofpreviousweeks.accesskey "A">
+<!ENTITY pref.numberofpreviousweeks.accesskey "a">
 <!ENTITY pref.numberofweeks.0 "batez">
 <!ENTITY pref.numberofweeks.1 "aste 1">
 <!ENTITY pref.numberofweeks.2 "2 aste">
