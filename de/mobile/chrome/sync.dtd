@@ -3,7 +3,6 @@
 <!ENTITY sync.connect               "Verbinden">
 <!ENTITY sync.connected             "Verbunden">
 <!ENTITY sync.details               "Details">
-<!ENTITY sync.synchronize           "Sync aktivieren">
 <!ENTITY sync.deviceName            "Dieses Gerät">
 <!ENTITY sync.disconnect            "Trennen">
 <!ENTITY sync.syncNow               "Jetzt synchronisieren">
