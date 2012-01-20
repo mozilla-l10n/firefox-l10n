@@ -19,5 +19,8 @@
 <!ENTITY sync.setup.connect         "Verbinden">
 <!ENTITY sync.setup.cancel          "Abbrechen">
 <!ENTITY sync.setup.tutorial        "Anleitung">
+
+<!ENTITY sync.pair.title            "Gerät verbinden">
+<!ENTITY sync.pair.description      "Um Ihr neues Gerät zu aktivieren, wählen Sie &#x0022;Sync einrichten&#x0022; auf dem Gerät.">
 <!ENTITY sync.setup.close           "Schließen">
-<!ENTITY sync.setup.waitingdownload "Ihre Daten werden jetzt im Hintergrund heruntergeladen. Sie können dieses Fenster jederzeit schließen.">
+<!ENTITY sync.setup.waitingdownload "Ihre Daten werden jetzt im Hintergrund heruntergeladen. Sie können dieses Fenster jederzeit schließen.	">
