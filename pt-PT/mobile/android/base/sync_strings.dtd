@@ -12,8 +12,8 @@
 <!ENTITY sync.subtitle.connect.label 'To activate your new device, select “Set up &syncBrand.shortName.label;” on the device.'>
 <!ENTITY sync.subtitle.pair.label 'To activate, select “Pair a device” on your other device.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
-<!ENTITY sync.link.show.label '<a href="https://support.mozilla.com/kb/add-a-device-to-firefox-sync">Mostrar-me como</a>'>
-<!ENTITY sync.link.nodevice.label '<a href="#">Não tenho o dispositivo comigo…</a>'>
+<!ENTITY sync.link.show.label 'Mostrar-me como'>
+<!ENTITY sync.link.nodevice.label 'Não tenho o dispositivo comigo…'>
 
 <!-- J-PAKE Waiting Screen -->
 <!ENTITY sync.jpake.subtitle.waiting.label 'A aguardar outro dispositivo…'>
@@ -31,6 +31,7 @@
 <!ENTITY sync.subtitle.fail.label 'O &syncBrand.fullName.label; não conseguiu ligar-se ao servidor. Deseja tentar de novo?'>
 <!ENTITY sync.button.tryagain.label 'Tentar de novo'>
 <!ENTITY sync.button.manual.label 'Configuração manual'>
+<!ENTITY sync.subtitle.nointernet.label 'Nenhuma ligação de internet disponível.'>
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Configuração terminada'>
@@ -38,9 +39,17 @@
 <!ENTITY sync.settings.label 'Definições'>
 <!ENTITY sync.subtitle.manage.label 'A sua conta do &syncBrand.fullName.label; está configurada. Vá a definições para gerir a sua conta.'>
   
+<!-- Pair Device -->
+<!ENTITY sync.pair.tryagain.label 'Por favor, tente novamente.'>
+
+<!-- Firefox SyncAdapter Settings Screen -->
+<!ENTITY sync.settings.options.label 'Opçõess'>
+<!ENTITY sync.summary.pair.label 'Ligue outro dispositivo à sua conta do &syncBrand.shortName.label;'>
+
 <!-- Common text -->
 <!ENTITY sync.button.cancel.label 'Cancelar'>
 <!ENTITY sync.button.connect.label 'Ligar'>
+<!ENTITY sync.button.ok.label 'OK'>
   
 <!-- Account strings -->
 <!ENTITY sync.account.label.label '&syncBrand.fullName.label;'>
@@ -53,3 +62,6 @@
 <!ENTITY bookmarks.folder.unfiled.label 'Marcadores desorganizados'>
 <!ENTITY bookmarks.folder.desktop.label 'Marcadores do computador'>
 <!ENTITY bookmarks.folder.mobile.label 'Marcadores do Mobile'>
+
+<!-- Notification strings -->
+<!ENTITY sync.notification.oneaccount.label 'Apenas é suportada uma conta do &syncBrand.fullName.label;.'>
