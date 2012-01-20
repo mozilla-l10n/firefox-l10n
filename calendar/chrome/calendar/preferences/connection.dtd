@@ -70,6 +70,8 @@
 <!ENTITY  HTTPport.accesskey            "ש">
 <!ENTITY  SSLport.accesskey             "ע">
 <!ENTITY  FTPport.accesskey             "ר">
+<!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
+<!ENTITY  gopherPort.accesskey          "">
 <!ENTITY  SOCKSport.accesskey           "">
 <!ENTITY  noproxy.label                 "אין צורך בשרת מתווך עבור:">
 <!ENTITY  noproxy.accesskey             "א">
@@ -77,3 +79,4 @@
 <!ENTITY  shareproxy.label              "השתמש בשרת מתווך זה עבור כל הפרוטוקולים">
 <!ENTITY  shareproxy.accesskey          "פ">
 
+<!ENTITY  gopher.accesskey              "G">

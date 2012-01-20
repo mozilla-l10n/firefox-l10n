@@ -1,13 +1,16 @@
 <!--
 # Translator(s):
 #
+# hatul <amiadb@gmail.com>
 # http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
 #
 -->
 <!--
 # Reviewer(s):
 #
+# hatul <amiadb@gmail.com>
 # http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+
 #
 -->
 <!-- ***** BEGIN LICENSE BLOCK *****
@@ -28,10 +31,17 @@
    -
    - The Initial Developer of the Original Code is
    - Netscape Communications Corporation.
-   - Portions created by the Initial Developer are Copyright (C) 1998-1999
+   - Portions created by the Initial Developer are Copyright (C) 1999-2000
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
+   -   Sammy Ford
+   -   Blake Ross
+   -   Ryan Cassin (rcassin@supernova.org)
+   -   Daniel Glazman (glazman@netscape.com)
+   -   Stephen Donner (technutz@netscape.net)
+   -   Charles Manske (cmanske@netscape.com)
+   -   Ian Neal (iann_bugzilla@blueyonder.co.uk)
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -47,15 +57,38 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!-- Window title -->
-<!ENTITY windowTitle.label "הכנסת HTML">
-<!ENTITY sourceEditField.label "הכנס תגיות HTML וטקסט:">
-<!ENTITY example.label "לדוגמה:">
-<!-- LOCALIZATION NOTE (exampleOpenTag.label): DONT_TRANSLATE: they are text for HTML tagnames: "<i>" and "</i>" -->
-<!ENTITY exampleOpenTag.label "&lt;/i&gt;">
-<!-- LOCALIZATION NOTE (exampleCloseTag.label): DONT_TRANSLATE: they are text for HTML tagnames: "<i>" and "</i>" -->
-<!ENTITY exampleCloseTag.label "&lt;i&gt;">
-<!ENTITY exampleText.label "שלום עולם!">
-<!ENTITY insertButton.label "הכנס">
-<!ENTITY insertButton.accesskey "I">
+<!-- File menu items -->
+<!ENTITY openFileCmd.label "פתח קובץ…">
+<!ENTITY openFileCmd.accesskey "פ">
+<!ENTITY openFileCmd.key "פ">
+<!ENTITY openRemoteCmd.label "פתח כתובת רשת…">
+<!ENTITY openRemoteCmd.accesskey "כ">
+<!ENTITY openRemoteCmd.key "L">
+<!ENTITY fileRecentMenu.label "דפים אחרונים">
+<!ENTITY fileRecentMenu.accesskey "ד">
+<!ENTITY saveCmd.label "שמירה">
+<!ENTITY saveCmd.accesskey "ש">
+<!ENTITY saveAsCmd.label "שמירה בשם…">
+<!ENTITY saveAsCmd.accesskey "ב">
+<!ENTITY saveAsChangeEncodingCmd.label "שמור ושנה קידוד תווים">
+<!ENTITY saveAsChangeEncodingCmd.accesskey "ק">
+<!ENTITY publishCmd.label "פרסם">
+<!ENTITY publishCmd.accesskey "פ">
+<!ENTITY publishCmd.key "פ">
+<!ENTITY publishAsCmd.label "פרסם בתור…">
+<!ENTITY publishAsCmd.accesskey "פ">
+<!ENTITY fileRevert.label "החזר">
+<!ENTITY fileRevert.accesskey "ח">
+
+<!-- Edit menu items -->
+<!ENTITY publishSettings.label "הגדרות פרסום אתר…">
+<!ENTITY publishSettings.accesskey "פ">
+
+<!-- Toolbar buttons/items -->
+<!ENTITY newToolbarCmd.label "חדש">
+<!ENTITY newToolbarCmd.tooltip "יצירת דף Composer חדש">
+<!ENTITY openToolbarCmd.label "פתיחה">
+<!ENTITY openToolbarCmd.tooltip "פתיחת קובץ מקומי">
+<!ENTITY saveToolbarCmd.tooltip "שמירת קובץ למיקום מקומי">
+<!ENTITY publishToolbarCmd.tooltip "העלאת קובץ למיקום מרוחק">
 

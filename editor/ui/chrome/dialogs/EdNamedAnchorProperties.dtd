@@ -1,3 +1,9 @@
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -39,7 +45,6 @@
 <!ENTITY anchorNameEditField.label "שם עוגן:">
 <!ENTITY anchorNameEditField.accessKey "N">
 <!ENTITY nameInput.tooltip "הכנס שם ייחודי לעוגן (מטרה) זה">
-
 
 
 

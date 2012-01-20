@@ -5,10 +5,15 @@
 <!ENTITY SearchNameOrEmail.label            "שם או דוא״ל">
 
 <!ENTITY deleteAddrBookCard.label           "מחיקה">
+<!ENTITY deleteAddrBookCard.accesskey       "מ">
 <!ENTITY addrBookCardProperties.label       "מאפיינים">
-<!ENTITY addtoToFieldMenu.label             "הוסף לשדה אל:">
-<!ENTITY addtoCcFieldMenu.label             "הוסף לשדה עותק">
-<!ENTITY addtoBccFieldMenu.label            "הוסף לשדה עותק סמוי">
+<!ENTITY addrBookCardProperties.accesskey   "מ">
+<!ENTITY addtoToFieldMenu.label             "הוספה לשדה אל">
+<!ENTITY addtoToFieldMenu.accesskey         "א">
+<!ENTITY addtoCcFieldMenu.label             "הוספה לשדה עותק">
+<!ENTITY addtoCcFieldMenu.accesskey         "ע">
+<!ENTITY addtoBccFieldMenu.label            "הוספה לשדה עותק מוסר">
+<!ENTITY addtoBccFieldMenu.accesskey        "מ">
 
 <!ENTITY toButton.label                     "הוסף לשורה אל:">
 <!ENTITY toButton.accesskey                 "א">
@@ -16,3 +21,4 @@
 <!ENTITY ccButton.accesskey                 "ע">
 <!ENTITY bccButton.label                    "הוסף עותק סמוי:">
 <!ENTITY bccButton.accesskey                "ס">
+

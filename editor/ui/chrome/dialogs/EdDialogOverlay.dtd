@@ -1,3 +1,9 @@
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -49,5 +55,4 @@
 <!-- Shared by Link and Image dialogs -->
 <!ENTITY LinkURLEditField.label "הכנס מיקום דף אינטרנט, קובץ מקומי, או בחר עוגן או כותרת מן הרשימה המופיעה:">
 <!ENTITY LinkURLEditField.accessKey "מ">
-
 

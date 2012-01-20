@@ -1,14 +1,14 @@
 <!--
 # Translator(s):
 #
-# Tomer Cohen <tomer.mozilla@tomercohen.com>
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
 # Yaron <sh.yaron@gmail.com>
 #
 -->
 <!--
 # Reviewer(s):
 #
-# Tomer Cohen <tomer.mozilla@tomercohen.com>
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
 #
 -->
 
@@ -19,8 +19,8 @@
 
 <!ENTITY importFromNothing.label        "אל תייבא דבר">
 <!ENTITY importFromNothing.accesskey    "D">
-<!ENTITY importFromSeamonkey2.label     "Netscape 6, 7, Mozilla 1.x או SeaMonkey">
-<!ENTITY importFromSeamonkey2.accesskey "S">
+<!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 ומעלה">
+<!ENTITY importFromSeamonkey3.accesskey "S">
 <!ENTITY importFromOExpress.label       "Outlook Express">
 <!ENTITY importFromOExpress.accesskey   "u">
 <!ENTITY importFromOutlook.label        "Outlook">
@@ -30,13 +30,13 @@
 
 <!ENTITY importSource.title             "יבא הגדרות ותיקיות דואר:">
 <!ENTITY importItems.title              "פריטים ליבוא">
-<!ENTITY importItems.label              "בחר אילו פריטים לייבא:">
+<!ENTITY importItems.label              "בחר אלו פריטים ליבא:">
 
 <!ENTITY migrating.title                "מייבא…">
 <!ENTITY migrating.label                "הפריטים הבאים מיובאים כעת…">
 
 <!ENTITY selectProfile.title            "בחר פרופיל">
-<!ENTITY selectProfile.label            "ניתן לייבא מהפרופילים הבאים:">
+<!ENTITY selectProfile.label            "ניתן ליבא מהפרופילים הבאים:">
 
 <!ENTITY done.title                     "היבוא הושלם">
 <!ENTITY done.label                     "הפריטים הבאים יובאו בהצלחה:">

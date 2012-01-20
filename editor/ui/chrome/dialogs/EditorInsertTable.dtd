@@ -4,6 +4,12 @@
 # http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
 #
 -->
+<!--
+# Reviewer(s):
+#
+# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -42,7 +48,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "הכנס טבלה">
+<!ENTITY windowTitle.label "הכנסת טבלה">
 
 <!ENTITY size.label "גודל">
 <!ENTITY numRowsEditField.label "שורות:">
@@ -55,5 +61,4 @@
 <!ENTITY borderEditField.accessKey "ג">
 <!ENTITY borderEditField.tooltip "הקלד מספר לגבול הטבלה, או הקלד אפס (0) להישאר ללא גבול">
 <!ENTITY pixels.label "פיקסלים">
-
 

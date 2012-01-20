@@ -40,6 +40,7 @@
 <!ENTITY forwardTo.label "העבר אל:">
 <!ENTITY replyWithTemplate.label "השב עם תבנית:">
 <!ENTITY markMessageRead.label "סמן כנקרא">
+<!ENTITY markMessageUnread.label "סימון כלא נקרא">
 <!ENTITY markMessageStarred.label "הוסף כוכבית">
 <!ENTITY setPriority.label "קבע עדיפות ל:">
 <!ENTITY addTag.label "סמן הודעה">
