@@ -175,15 +175,6 @@
 <!ENTITY  event.menu.options.show.time.free.label             "פנוי">
 <!ENTITY  event.menu.options.show.time.free.accesskey         "פ">
 
-<!ENTITY event.help.label                                 "עזרה">
-<!ENTITY event.help.accesskey                             "ע">
-<!ENTITY event.help.release.notes.label                   "הערות שחרור">
-<!ENTITY event.help.release.notes.accesskey               "ש">
-<!ENTITY event.help.help.label                            "עזרה עבור &brandShortName;">
-<!ENTITY event.help.help.accesskey                        "ע">
-<!ENTITY event.help.about.label                           "אודות &brandShortName;">
-<!ENTITY event.help.about.accesskey                       "א">
-
 <!ENTITY event.invite.attendees.label                     "הזמן אורחים…">
 <!ENTITY event.invite.attendees.accesskey                 "ה">
 <!ENTITY event.email.attendees.label                      "כתוב דוא״ל לכל האורחים…">
@@ -244,15 +235,11 @@
 <!ENTITY event.reminder.none.label                        "אין תזכורת " >
 <!ENTITY event.reminder.0minutes.before.label             "0 דקות לפני" >
 <!ENTITY event.reminder.5minutes.before.label             "5 דקות לפני" >
-<!ENTITY event.reminder.10minutes.before.label            "10 דקות לפני" >
 <!ENTITY event.reminder.15minutes.before.label            "15 דקות לפני" >
 <!ENTITY event.reminder.30minutes.before.label            "30 דקות לפני" >
-<!ENTITY event.reminder.45minutes.before.label            "45 דקות לפני" >
 <!ENTITY event.reminder.1hour.before.label                "שעה לפני" >
 <!ENTITY event.reminder.2hours.before.label               "שעתיים לפני" >
 <!ENTITY event.reminder.12hours.before.label              "12 שעות לפני" >
-<!ENTITY event.reminder.5hours.before.label               "5 שעות לפני" >
-<!ENTITY event.reminder.15hours.before.label              "15 שעות לפני" >
 <!ENTITY event.reminder.1day.before.label                 "יום לפני" >
 <!ENTITY event.reminder.2days.before.label                "יומיים לפני" >
 <!ENTITY event.reminder.1week.before.label                "שבוע לפני" >
@@ -289,9 +276,6 @@
 
 <!ENTITY event.recurrence.pattern.monthly.every.label   "בכל" >
 <!ENTITY repeat.units.months.both                       "חודשים" >
-
-<!ENTITY event.recurrence.repeat.last.label             "אחרון">
-
 <!ENTITY event.recurrence.monthly.every.label           "בכל" >
 <!ENTITY event.recurrence.monthly.first.label           "הראשון">
 <!ENTITY event.recurrence.monthly.second.label          "השני">
@@ -349,15 +333,6 @@
 <!ENTITY event.recurrence.pattern.yearly.week.6.label        "יום שישי" >
 <!ENTITY event.recurrence.pattern.yearly.week.7.label        "יום שבת" >
 <!ENTITY event.recurrence.of.label                           "מתוך" >
-<!ENTITY event.recurrence.yearly.every.label                 "בכל">
-<!ENTITY event.recurrence.yearly.first.label                 "הראשון">
-<!ENTITY event.recurrence.yearly.second.label                "השני">
-<!ENTITY event.recurrence.yearly.third.label                 "השלישי">
-<!ENTITY event.recurrence.yearly.fourth.label                "הרביעי">
-<!ENTITY event.recurrence.yearly.fifth.label                 "החמישי">
-<!ENTITY event.recurrence.yearly.last.label                  "האחרון">
-
-<!ENTITY event.recurrence.of.label                           "" >
 <!ENTITY event.recurrence.pattern.yearly.month2.1.label      "בינואר" >
 <!ENTITY event.recurrence.pattern.yearly.month2.2.label      "בפברואר" >
 <!ENTITY event.recurrence.pattern.yearly.month2.3.label      "במרץ" >
@@ -377,11 +352,6 @@
 <!ENTITY event.recurrence.appointments.label            "פגישות" >
 <!ENTITY event.repeat.until.label                       "חזור עד" >
 <!ENTITY event.recurrence.preview.label                 "תצוגה מקדימה">
-
-<!-- Reminder dialog -->
-<!ENTITY alarm.units.minutes                "דקות" >
-<!ENTITY alarm.units.hours                  "שעות" >
-<!ENTITY alarm.units.days                   "ימים" >
 
 <!-- Attendees dialog -->
 <!ENTITY invite.title.label                     "הזמן אורחים">

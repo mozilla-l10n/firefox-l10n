@@ -49,6 +49,8 @@
 <!ENTITY pref.defaultlength.accesskey "א">
 <!ENTITY pref.defaultsnoozelength.label "אורך תנומה ברירת מחדל:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "ת">
-<!ENTITY pref.refreshbox.label "רענן הגדרות" >
-<!ENTITY pref.autorefresh.label "רענן לוחות שנה כל" >
-<!ENTITY pref.autorefresh.accesskey "ר" >
+
+<!ENTITY pref.accessibility.label "נגישות" >
+<!ENTITY pref.systemcolors.label "צבעים מותאמים לנגישות" >
+<!ENTITY pref.systemcolors.accesskey "נ">
+

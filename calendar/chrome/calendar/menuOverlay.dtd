@@ -50,7 +50,7 @@
 <!ENTITY event.new.task.key                     "K">
 <!ENTITY event.new.task.accesskey               "מ">
 
-<!ENTITY calendar.new.server.label              "לוח שנה חדש">
+<!ENTITY calendar.new.server.label              "לוח שנה חדש…">
 <!ENTITY calendar.new.server.key                "L">
 <!ENTITY calendar.new.server.accesskey          "ל">
 
@@ -70,7 +70,7 @@
 <!ENTITY calendar.publish.label                 "פרסם את האירועים שנבחרו…">
 <!ENTITY calendar.publish.accesskey             "פ">
 
-<!ENTITY calendar.deletecalendar.label          "מחק את היומן הנבחר…">
+<!ENTITY calendar.deletecalendar.label          "מחק את לוח השנה הנבחר…">
 <!ENTITY calendar.deletecalendar.accesskey      "ח">
 
 <!ENTITY calendar.menu.customize.label          "התאמה אישית…">
