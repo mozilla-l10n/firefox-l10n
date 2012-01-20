@@ -1,0 +1,8 @@
+<!ENTITY aboutAddons.title                      "Add-onbeheerder">
+<!ENTITY aboutAddons.header                     "Add-ons">
+<!ENTITY aboutAddons.options                    "Opties">
+
+<!ENTITY addonAction.enable                     "Inschakelen">
+<!ENTITY addonAction.disable                    "Uitschakelen">
+<!ENTITY addonAction.uninstall                  "De-installeren">
+<!ENTITY addonAction.cancel                     "Annuleren">

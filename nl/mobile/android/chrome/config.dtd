@@ -1,12 +1,3 @@
-<!ENTITY empty.label            "Zoeken">
-<!ENTITY newpref.label          "Nieuwe voorkeur toevoegen">
-<!ENTITY addpref.name           "Naam">
-<!ENTITY addpref.value          "Waarde">
-
-<!ENTITY cancel.label           "Annuleren">
-<!ENTITY reset.label            "Herinitialiseren">
-<!ENTITY done.label             "Klaar">
-
-<!ENTITY integer.label          "Integer">
-<!ENTITY string.label           "String">
-<!ENTITY boolean.label          "Boolean">
+<!ENTITY search.placeholder2    "Zoekinstellingen">
+<!ENTITY clear.altText          "Wissen">
+<!ENTITY newpref.label2         "Nieuwe instelling toevoegen">
