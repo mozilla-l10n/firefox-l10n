@@ -93,7 +93,6 @@
 <!ENTITY consoleErrColumn.label    "Spalte:">
 
 <!ENTITY contextOpenInNewTab.label    "Link in neuem Tab öffnen">
-<!ENTITY contextSaveLink.label        "Link speichern">
 <!ENTITY contextSaveImage.label       "Grafik speichern">
 <!ENTITY contextCopyLink.label        "Link kopieren">
 <!ENTITY contextCopyEmail.label       "E-Mail-Adresse kopieren">
