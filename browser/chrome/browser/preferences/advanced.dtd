@@ -40,7 +40,9 @@
 <!ENTITY connectionSettings.label "Nastavitve …">
 <!ENTITY connectionSettings.accesskey "n">
 
-<!ENTITY offlineStorage.label "Shramba brez povezave">
+<!ENTITY httpCache.label                 "Vsebina v predpomnilniku">
+
+<!ENTITY offlineStorage2.label "Vsebina in uporabniški podatki za delo brez povezave">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -53,6 +55,8 @@
 <!ENTITY limitCacheSizeAfter.label       "MB">
 <!ENTITY clearCacheNow.label "Počisti zdaj">
 <!ENTITY clearCacheNow.accesskey "O">
+<!ENTITY clearOfflineAppCacheNow.label   "Počisti zdaj">
+<!ENTITY clearOfflineAppCacheNow.accesskey "Z">
 <!ENTITY overrideSmartCacheSize.label    "Prezri samodejno upravljanje predpomnilnika">
 <!ENTITY overrideSmartCacheSize.accesskey "o">
 
@@ -76,8 +80,6 @@
 <!ENTITY useService.accesskey            "s">
 
 <!ENTITY updateOthers.label              "Samodejno posodabljaj:">
-<!ENTITY enableAddonsUpdate3.label       "Dodatke">
-<!ENTITY enableAddonsUpdate3.accesskey   "D">
 <!ENTITY enableSearchUpdate.label        "Iskalnike">
 <!ENTITY enableSearchUpdate.accesskey    "I">
 
@@ -86,7 +88,7 @@
 <!ENTITY offlineNotifyExceptions.label "Izjeme ...">
 <!ENTITY offlineNotifyExceptions.accesskey "i">
 
-<!ENTITY offlineAppsList.label "Naslednje spletne strani so shranile podatke za delo brez povezave:">
+<!ENTITY offlineAppsList2.label "Naslednje spletne strani lahko shranjujejo podatke za delo brez povezave:">
 <!ENTITY offlineAppsList.height "7em">
 <!ENTITY offlineAppsListRemove.label "Odstrani ...">
 <!ENTITY offlineAppsListRemove.accesskey "R">
