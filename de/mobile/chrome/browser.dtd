@@ -96,6 +96,9 @@
 <!ENTITY contextSaveLink.label        "Link speichern">
 <!ENTITY contextSaveImage.label       "Grafik speichern">
 <!ENTITY contextCopyLink.label        "Link kopieren">
+<!ENTITY contextCopyEmail.label       "E-Mail-Adresse kopieren">
+<!ENTITY contextCopyPhone.label       "Telefonnummer kopieren">
+<!ENTITY contextCopyImageLocation.label       "Grafikadresse kopieren">
 <!ENTITY contextShareLink.label       "Link teilen">
 <!ENTITY contextShareImage.label      "Grafik teilen">
 <!ENTITY contextBookmarkLink.label    "Lesezeichen für Link setzen">
