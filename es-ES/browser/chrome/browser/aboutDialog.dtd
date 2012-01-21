@@ -29,4 +29,4 @@
 <!ENTITY update.downloading.start "Descargando actualización — ">
 <!ENTITY update.downloading.end "">
 <!ENTITY channel.description.start "Está usando el canal ">
-<!ENTITY channel.description.end " para actualizar.">
+<!ENTITY channel.description.end " para actualizar. ">
