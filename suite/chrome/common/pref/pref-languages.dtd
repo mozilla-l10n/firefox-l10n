@@ -23,10 +23,3 @@
 <!ENTITY languages.customize.moveUp.accesskey "s">
 <!ENTITY languages.customize.moveDown.label "Přesunout níže">
 <!ENTITY languages.customize.moveDown.accesskey "n">
-
-<!ENTITY spelling.label "Pravopis">
-<!ENTITY checkSpelling.label "Při psaní kontrolovat pravopis:">
-<!ENTITY checkSpelling.accesskey "K">
-<!ENTITY dontCheckSpelling.label "Nikdy">
-<!ENTITY multilineCheckSpelling.label "Ve víceřádkových polích">
-<!ENTITY alwaysCheckSpelling.label "Ve všech polích">

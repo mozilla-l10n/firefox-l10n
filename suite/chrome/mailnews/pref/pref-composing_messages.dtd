@@ -58,15 +58,6 @@
 <!ENTITY wrapOutMsg.accesskey "m">
 <!ENTITY char.label "znacích">
 
-<!ENTITY spellingHeader.label "Pravopis">
-<!ENTITY spellCheck.label "Při odesílání zpráv kontrolovat pravopis">
-<!ENTITY spellCheck.accesskey "o">
-<!ENTITY spellCheckInline.label "Kontrolovat pravopis při psaní">
-<!ENTITY spellCheckInline.accesskey "K">
-<!ENTITY languagePopup.label "Jazyk:">
-<!ENTITY languagePopup.accessKey "J">
-<!ENTITY moreDictionaries.label "Získat další slovníky…">
-
 <!ENTITY defaultMessagesHeader.label "Výchozí nastavení pro HTML zprávy">
 <!ENTITY font.label "Písmo:">
 <!ENTITY font.accesskey "s">
