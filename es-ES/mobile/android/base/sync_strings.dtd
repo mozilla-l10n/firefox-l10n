@@ -3,8 +3,8 @@
 <!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "Conectar a &syncBrand.shortName.label;">
 <!ENTITY sync.title.pair.label "Emparejar un dispositivo">
-<!ENTITY sync.subtitle.connect.label 'Para activar un nuevo dispositivo, seleccione "Configurar &syncBrand.shortName.label;" en su dispositivo.'>
-<!ENTITY sync.subtitle.pair.label 'Para activarlo, seleccione "Emparejar un dispositivo" en su otro dispositivo.'>
+<!ENTITY sync.subtitle.connect.label 'Para activar un nuevo dispositivo, seleccione \"Configurar &syncBrand.shortName.label;\" en su dispositivo.'>
+<!ENTITY sync.subtitle.pair.label 'Para activarlo, seleccione \"Emparejar un dispositivo\" en su otro dispositivo.'>
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.link.show.label "Muéstrame cómo.">
 <!ENTITY sync.link.nodevice.label "No tengo el dispositivo conmigo…">
