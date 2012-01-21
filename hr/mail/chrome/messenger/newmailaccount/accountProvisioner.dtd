@@ -1,39 +1,39 @@
 <!ENTITY window.title "Dobro došli u &brandShortName;">
 <!ENTITY header.label "Želite li novu adresu e-pošte za &brandShortName;?">
-<!ENTITY other.languages "We are only displaying the providers offering addresses in your area.  Click here to show all providers.">
-<!ENTITY error.line1 "Sorry, we could not find any suggested email addresses.">
-<!ENTITY error.line2 "You try can search for nicknames or any other term to find more emails">
+<!ENTITY other.languages "Prikazuju se samo pružatelji usluga koji nude adrese e-pošte na vašem područiju.  Kliknite ovdje kako bi prikazali sve pružatelje usluga.">
+<!ENTITY error.line1 "Nije pronađena niti jedna adresa e-pošte za predložiti.">
+<!ENTITY error.line2 "Možete pokušati tražiti prema nadimku ili nekom drugom pojmu kako bi našli više adresa e-pošte">
 
 <!-- LOCALIZATION NOTE(error.suggest.before, error.suggest.middle, error.suggest.after):
      error.suggest.before, error.suggest.middle, and error.suggest.after all go into
      one line with error.suggest.middle that links to a site which provides download
      of free account alternatives. -->
-<!ENTITY error.suggest.before "Also you might try one of the ">
-<!ENTITY error.suggest.middle "free email account alternatives">
+<!ENTITY error.suggest.before "Možete također probati jedan od ">
+<!ENTITY error.suggest.middle "besplatnih alternativnih računa e-pošte">
 <!ENTITY error.suggest.after ".">
 
 <!-- LOCALIZATION NOTE(success.title.before, success.title.after):
      success.title.before and success.title.after all go into one line, wrapping
      around the name that the user has typed in to the search input. -->
-<!ENTITY success.title.before "Hello ">
-<!ENTITY success.title.after ", the following email addresses are available to you:">
-<!ENTITY success.tip "(You can also search for nicknames or any other term to find more emails)">
-<!ENTITY partnership.description "In partnership with several providers, &brandShortName; can offer you a new email account. Just fill in your first and last name, or any other words you’d like, in the fields above to get started.">
-<!ENTITY existing.header "Already have an address you want to use?">
-<!ENTITY tinyheader.title "Got an address?">
-<!ENTITY tinyheader.existing "Skip this and use my existing email">
-<!ENTITY content.close "I think I’ll configure my account later.">
-<!ENTITY successful.title "Congratulations!">
-<!ENTITY successful.successMessage "You have successfully set up your account.">
-<!ENTITY successful.write "Write some email">
-<!ENTITY successful.write.desc "Let your friends and family know about your new address.<br/> That’s why you got this new account, isn’t it?">
-<!ENTITY successful.customize "Customise &brandShortName; with some cool add-ons">
-<!ENTITY successful.customize.desc "There are thousands of add-ons that let you customise &brandShortName; to make it fit your specific needs.">
-<!ENTITY successful.attach "Attach a personal signature to my email">
-<!ENTITY successful.attach.desc "You can automatically attach a quote or some information about yourself to the end of every message you send.">
-<!ENTITY successful.close "Close this window.">
-<!ENTITY input.namePlaceholder "Your name, or nickname">
-<!ENTITY input.search "Search">
-<!ENTITY search_engine.title "Customise your search engine">
-<!ENTITY search_engine.message "Your email provider can also provide you with web search capabilities.">
-<!ENTITY search_engine.button "Finish">
+<!ENTITY success.title.before "Pozdrav ">
+<!ENTITY success.title.after ", slijedeće adrese e-pošte su vam dostupne:">
+<!ENTITY success.tip "(Možete pokušati tražiti prema nadimku ili nekom drugom pojmu kako bi našli više adresa e-pošte)">
+<!ENTITY partnership.description "U suradnji sa više pružatelja usluga, &brandShortName; vam može ponuditi novi račun e-pošte. Unesite svoje ime i prezime ili bilo koji drugi pojam koji želite u polja iznad kako bi zapčeli.">
+<!ENTITY existing.header "Već imate adresu e-pošte koju želite koristiti?">
+<!ENTITY tinyheader.title "Imate li adresu e-pošte?">
+<!ENTITY tinyheader.existing "Preskočite ovo i koristite postojeću adresu e-pošte">
+<!ENTITY content.close "Podesit ću svoj račun kasnije.">
+<!ENTITY successful.title "Čestitamo!">
+<!ENTITY successful.successMessage "Uspješno ste postavili svoj račun.">
+<!ENTITY successful.write "Napišite poruku">
+<!ENTITY successful.write.desc "Obavjestite vaše prijatelje i obitelj o vašoj novoj adresi e-pošte.<br/> Zbog toga ste i napravili ovaj novi račun, zar nije?">
+<!ENTITY successful.customize "Prilagodite &brandShortName; sa odličnim dodacima">
+<!ENTITY successful.customize.desc "Postoje tisuće dodataka koji vam dopuštaju prilagodbu &brandShortName;a kako bi odgovarao vašim potrebama.">
+<!ENTITY successful.attach "Dodajte osobni potpis vašim porukama">
+<!ENTITY successful.attach.desc "Možete automatski dodati citat ili neke informacije o sebi na kraj svake poslane poruke.">
+<!ENTITY successful.close "Zatvori ovaj prozor.">
+<!ENTITY input.namePlaceholder "Vaše ime ili nadimak">
+<!ENTITY input.search "Traži">
+<!ENTITY search_engine.title "Prilagodite svoj pretraživač interneta">
+<!ENTITY search_engine.message "Vaš pružatelj usluge e-pošte vam također može pružiti usluga pretraživanja interneta.">
+<!ENTITY search_engine.button "Završi">
