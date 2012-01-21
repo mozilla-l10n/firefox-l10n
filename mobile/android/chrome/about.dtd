@@ -12,22 +12,15 @@
 #
 -->
 <!ENTITY aboutPage.title                        "אודות &brandShortName;">
+<!ENTITY aboutPage.checkForUpdates.link         "בדיקת עדכונים »">
+<!ENTITY aboutPage.checkForUpdates.checking     "בודק עדכונים…">
+<!ENTITY aboutPage.checkForUpdates.none         "אין עדכונים זמינים">
+<!ENTITY aboutPage.checkForUpdates.found        "עדכון זמין">
 <!ENTITY aboutPage.faq.label                    "תשובות לשאלות נפוצות">
 <!ENTITY aboutPage.support.label                "תמיכה">
 <!ENTITY aboutPage.privacyPolicy.label          "מדיניות פרטיות">
 <!ENTITY aboutPage.rights.label                 "דע את זכויותיך">
 <!ENTITY aboutPage.relNotes.label               "הערות שחרור">
 <!ENTITY aboutPage.credits.label                "תודות">
-<!ENTITY aboutPage.checkForUpdates.button       "בדוק עדכונים">
-<!ENTITY aboutPage.checkForUpdates.checking     "בודק עדכונים…">
-<!ENTITY aboutPage.checkForUpdates.none         "אין עדכונים זמינים">
-<!ENTITY aboutPage.checkForUpdates.found        "עדכון זמין">
-
-
-<!-- LOCALIZATION NOTE:
-     These strings are concatenated in order. Unneeded strings may be left blank.
--->
-<!ENTITY aboutPage.licenseLink                  "מידע רישוי">
-<!ENTITY aboutPage.licenseLinkSuffix            ".">
-
+<!ENTITY aboutPage.license.label                "מידע רישוי">
 
