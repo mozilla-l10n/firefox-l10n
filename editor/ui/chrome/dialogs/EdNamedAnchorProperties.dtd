@@ -35,9 +35,9 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowTitle.label "Named Anchor Properties">
-<!ENTITY anchorNameEditField.label "Anchor Name:">
+<!ENTITY windowTitle.label "Postavke sidra">
+<!ENTITY anchorNameEditField.label "Naziv sidra:">
 <!ENTITY anchorNameEditField.accessKey "N">
-<!ENTITY nameInput.tooltip "Enter a unique name for this named anchor (target)">
+<!ENTITY nameInput.tooltip "Unesite jedinstveni naziv za ovo sidro (cilj)">
 
 
