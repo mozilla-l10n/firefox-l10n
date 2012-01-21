@@ -82,8 +82,6 @@
 
 <!ENTITY share "Delen">
 <!ENTITY save_as_pdf "Opslaan als PDF">
-<!ENTITY agent_request_desktop "Desktopversie aanvragen">
-<!ENTITY agent_request_mobile "Mobielversie aanvragen">
 
 <!ENTITY contextmenu_open_new_tab "Openen in nieuw tabblad">
 <!ENTITY contextmenu_add_to_launcher "Toevoegen aan thuisscherm">
