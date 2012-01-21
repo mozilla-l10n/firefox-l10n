@@ -10,7 +10,7 @@
 <!ENTITY multilineCheckSpelling.label "Ve víceřádkových polích">
 <!ENTITY alwaysCheckSpelling.label "Ve všech polích">
 <!ENTITY spellForMailAndNews.label "Pošta a diskusní skupiny">
-<!ENTITY checkSpellingBeforeSend.label "Před odesíláním zprávy zkontrolovat pravopis">">
+<!ENTITY checkSpellingBeforeSend.label "Před odesíláním zprávy zkontrolovat pravopis">
 <!ENTITY checkSpellingBeforeSend.accesskey "P">
 <!ENTITY spellCheckInline.label "Kontrolovat pravopis při psaní">
 <!ENTITY spellCheckInline.accesskey "o">
