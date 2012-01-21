@@ -36,36 +36,36 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Check Spelling">
+<!ENTITY windowTitle.label "Provjera pravopisa">
 
-<!ENTITY misspelledWord.label "Misspelled word:">
-<!ENTITY wordEditField.label "Replace with:">
-<!ENTITY wordEditField.accessKey "w">
-<!ENTITY checkwordButton.label "Check Word">
-<!ENTITY checkwordButton.accessKey "k">
-<!ENTITY suggestions.label "Suggestions:">
-<!ENTITY suggestions.accessKey "u">
-<!ENTITY ignoreButton.label "Ignore">
-<!ENTITY ignoreButton.accessKey "I">
-<!ENTITY ignoreAllButton.label "Ignore All">
+<!ENTITY misspelledWord.label "Pogrešno napisana riječ:">
+<!ENTITY wordEditField.label "Zamjeni sa:">
+<!ENTITY wordEditField.accessKey "Z">
+<!ENTITY checkwordButton.label "Provjeri riječ">
+<!ENTITY checkwordButton.accessKey "r">
+<!ENTITY suggestions.label "Prijedlozi:">
+<!ENTITY suggestions.accessKey "P">
+<!ENTITY ignoreButton.label "Zanemari">
+<!ENTITY ignoreButton.accessKey "a">
+<!ENTITY ignoreAllButton.label "Zanemari sve">
 <!ENTITY ignoreAllButton.accessKey "n">
-<!ENTITY replaceButton.label "Replace">
-<!ENTITY replaceButton.accessKey "R">
-<!ENTITY replaceAllButton.label "Replace All">
-<!ENTITY replaceAllButton.accessKey "A">
-<!ENTITY stopButton.label "Stop">
-<!ENTITY stopButton.accessKey "t">
-<!ENTITY userDictionary.label "Personal Dictionary:">
-<!ENTITY moreDictionaries.label "Download more dictionaries…">
-<!ENTITY addToUserDictionaryButton.label "Add Word">
-<!ENTITY addToUserDictionaryButton.accessKey "d">
-<!ENTITY editUserDictionaryButton.label "Edit…">
-<!ENTITY editUserDictionaryButton.accessKey "E">
-<!ENTITY recheckButton.label "Recheck Page">
-<!ENTITY recheckButton.accessKey "P">
-<!ENTITY closeButton.label "Close">
-<!ENTITY closeButton.accessKey "C">
-<!ENTITY sendButton.label "Send">
-<!ENTITY sendButton.accessKey "S">
-<!ENTITY languagePopup.label "Language:">
-<!ENTITY languagePopup.accessKey "L">
+<!ENTITY replaceButton.label "Zamjeni">
+<!ENTITY replaceButton.accessKey "m">
+<!ENTITY replaceAllButton.label "Zamjeni sve">
+<!ENTITY replaceAllButton.accessKey "i">
+<!ENTITY stopButton.label "Stani">
+<!ENTITY stopButton.accessKey "S">
+<!ENTITY userDictionary.label "Osobni rječnik:">
+<!ENTITY moreDictionaries.label "Preuzmi više rječnika…">
+<!ENTITY addToUserDictionaryButton.label "Dodaj riječ">
+<!ENTITY addToUserDictionaryButton.accessKey "D">
+<!ENTITY editUserDictionaryButton.label "Uredi…">
+<!ENTITY editUserDictionaryButton.accessKey "e">
+<!ENTITY recheckButton.label "Ponovno provjeri stranicu">
+<!ENTITY recheckButton.accessKey "o">
+<!ENTITY closeButton.label "Zatvori">
+<!ENTITY closeButton.accessKey "t">
+<!ENTITY sendButton.label "Pošalji">
+<!ENTITY sendButton.accessKey "l">
+<!ENTITY languagePopup.label "Jezik:">
+<!ENTITY languagePopup.accessKey "J">
