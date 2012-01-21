@@ -1,5 +1,10 @@
 <!ENTITY addons.windowTitle                   "Lisade haldur">
+
 <!ENTITY search.placeholder                   "Otsi kõiki lisasid">
+<!-- LOCALIZATION NOTE (search.commandKey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
+
 <!ENTITY loading.label                        "Laadimine…">
 <!ENTITY listEmpty.installed.label            "Ühtegi seda tüüpi lisa pole paigaldatud">
 <!ENTITY listEmpty.availableUpdates.label     "Uuendusi ei leitud">
