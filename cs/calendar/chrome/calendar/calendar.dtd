@@ -264,9 +264,9 @@
 <!ENTITY calendar.context.findcalendar.label "Hledat kalendář…" >
 <!ENTITY calendar.context.findcalendar.accesskey "H" >
 <!ENTITY calendar.context.deleteserver.label "Smazat kalendář">
-<!ENTITY calendar.context.deleteserver.accesskey "S">
-<!ENTITY calendar.context.reloadserver.label "Aktualizovat vzdálené kalendáře">
-<!ENTITY calendar.context.reloadserver.accesskey "A">
+<!ENTITY calendar.context.deleteserver.accesskey "m">
+<!ENTITY calendar.context.synccalendars.label "Synchronizovat kalendáře">
+<!ENTITY calendar.context.synccalendars.accesskey "S">
 <!ENTITY calendar.context.publish.label "Publikovat kalendář">
 <!ENTITY calendar.context.publish.accesskey "P">
 <!ENTITY calendar.context.export.label "Exportovat kalendář…">
