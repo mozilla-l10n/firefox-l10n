@@ -40,7 +40,10 @@
 <!ENTITY connectionSettings.label          "Sätted...">
 <!ENTITY connectionSettings.accesskey      "e">
 
-<!ENTITY offlineStorage.label              "Kettakasutus võrguta">
+<!ENTITY httpCache.label                   "Veebisisu vahemälu">
+
+<!ENTITY offlineStorage2.label             "Võrguta režiimi veebisisu ja kasutaja andmed">
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -52,6 +55,8 @@
 <!ENTITY limitCacheSizeAfter.label         "MiB kettaruumiga">
 <!ENTITY clearCacheNow.label               "Tühjenda">
 <!ENTITY clearCacheNow.accesskey           "T">
+<!ENTITY clearOfflineAppCacheNow.label     "Tühjenda">
+<!ENTITY clearOfflineAppCacheNow.accesskey "h">
 <!ENTITY overrideSmartCacheSize.label      "Keelatakse automaatne vahemälu haldamine">
 <!ENTITY overrideSmartCacheSize.accesskey  "K">
 
@@ -75,8 +80,6 @@
 <!ENTITY useService.accesskey              "b">
 
 <!ENTITY updateOthers.label                "Automaatne uuendamine:">
-<!ENTITY enableAddonsUpdate3.label         "Lisad">
-<!ENTITY enableAddonsUpdate3.accesskey     "L">
 <!ENTITY enableSearchUpdate.label          "Otsingumootorid">
 <!ENTITY enableSearchUpdate.accesskey      "O">
 
@@ -85,7 +88,7 @@
 <!ENTITY offlineNotifyExceptions.label     "Erandid">
 <!ENTITY offlineNotifyExceptions.accesskey "r">
 
-<!ENTITY offlineAppsList.label             "Järgmised lehed on salvestanud andmeid võrguta režiimis kasutamiseks:">
+<!ENTITY offlineAppsList2.label            "Järgmistel veebilehtedel on lubatud salvestada andmeid võrguta režiimis kasutamiseks:">
 <!ENTITY offlineAppsList.height            "7em">
 <!ENTITY offlineAppsListRemove.label       "Eemalda">
 <!ENTITY offlineAppsListRemove.accesskey   "E">

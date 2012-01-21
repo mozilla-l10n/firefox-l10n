@@ -216,8 +216,17 @@ can reach it easily. -->
 <!ENTITY inspectButton.label                     "Inspekteeri">
 <!ENTITY inspectButton.accesskey                 "I">
 <!ENTITY inspectCloseButton.tooltiptext          "Sulge inspekteerija">
+<!ENTITY inspect3DButton.label                   "3D">
+<!ENTITY inspect3DButton.accesskey               "D">
 <!ENTITY inspectStyleButton.label                "Stiilid">
 <!ENTITY inspectStyleButton.accesskey            "S">
+
+<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
+  -  in the Tools menu. -->
+<!ENTITY styleeditor.label                       "Stiiliredaktor">
+<!ENTITY styleeditor.accesskey                   "r">
+<!ENTITY styleeditor.keycode                     "VK_F7">
+<!ENTITY styleeditor.keytext                     "F7">
 
 <!ENTITY getMoreDevtoolsCmd.label                "Hangi rohkem tööriistu">
 <!ENTITY getMoreDevtoolsCmd.accesskey            "H">
@@ -423,14 +432,23 @@ can reach it easily. -->
 <!ENTITY thisFrameMenu.accesskey                 "p">
 
 <!-- Media (video/audio) controls -->
+<!-- LOCALIZATION NOTE: The access keys for "Play" and
+"Pause" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaPlay.label                         "Esita">
 <!ENTITY mediaPlay.accesskey                     "E">
 <!ENTITY mediaPause.label                        "Paus">
 <!ENTITY mediaPause.accesskey                    "P">
+<!-- LOCALIZATION NOTE: The access keys for "Mute" and
+"Unmute" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaMute.label                         "Summutatud">
 <!ENTITY mediaMute.accesskey                     "S">
 <!ENTITY mediaUnmute.label                       "Summutus maha">
 <!ENTITY mediaUnmute.accesskey                   "m">
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label                 "Näita juhtnuppe">
 <!ENTITY mediaShowControls.accesskey             "N">
 <!ENTITY mediaHideControls.label                 "Peida juhtnupud">
@@ -439,6 +457,9 @@ can reach it easily. -->
 <!ENTITY videoFullScreen.accesskey               "T">
 <!ENTITY videoSaveImage.label                    "Salvesta hetkvõte kui…">
 <!ENTITY videoSaveImage.accesskey                "a">
+<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
+"Hide Statistics" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY videoShowStats.label                    "Näita statistikat">
 <!ENTITY videoShowStats.accesskey                "i">
 <!ENTITY videoHideStats.label                    "Peida statistika">
