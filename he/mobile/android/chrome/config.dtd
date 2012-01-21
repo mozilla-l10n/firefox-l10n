@@ -1,25 +1,4 @@
-<!--
-# Translator(s):
-#
-# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
-#
--->
-<!ENTITY empty.label            "חיפוש">
-<!ENTITY newpref.label          "הוספת העדפה חדשה">
-<!ENTITY addpref.name           "שם">
-<!ENTITY addpref.value          "ערך">
-
-<!ENTITY cancel.label           "ביטול">
-<!ENTITY reset.label            "אתחול">
-<!ENTITY done.label             "הסתיים">
-
-<!ENTITY integer.label          "מספר שלם">
-<!ENTITY string.label           "מחרוזת">
-<!ENTITY boolean.label          "בוליאני">
+<!ENTITY search.placeholder2    "חיפוש הגדרות">
+<!ENTITY clear.altText          "מחיקה">
+<!ENTITY newpref.label2         "הוספת הגדרה חדשה">
 

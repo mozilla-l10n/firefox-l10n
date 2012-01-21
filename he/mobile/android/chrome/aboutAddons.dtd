@@ -1,0 +1,9 @@
+<!ENTITY aboutAddons.title                      "מנהל התוספות">
+<!ENTITY aboutAddons.header                     "תוספות">
+<!ENTITY aboutAddons.options                    "אפשרויות">
+
+<!ENTITY addonAction.enable                     "הפעל">
+<!ENTITY addonAction.disable                    "נטרל">
+<!ENTITY addonAction.uninstall                  "הסר">
+<!ENTITY addonAction.cancel                     "בטל">
+
