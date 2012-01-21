@@ -60,7 +60,8 @@
 <!ENTITY pref_plugins_enabled "啟用">
 <!ENTITY pref_plugins_tap_to_play "點一下播放">
 <!ENTITY pref_plugins_disabled "停用">
-<!ENTITY pref_font_size "文字大小">
+<!ENTITY pref_text_size "文字大小">
+<!ENTITY pref_font_size_tiny "小">
 <!ENTITY pref_font_size_small "小">
 <!ENTITY pref_font_size_medium "中">
 <!ENTITY pref_font_size_large "大">
@@ -74,10 +75,9 @@
 
 <!ENTITY share "分享">
 <!ENTITY save_as_pdf "儲存為 PDF">
-<!ENTITY agent_request_desktop "開啟桌面版網站">
-<!ENTITY agent_request_mobile "開啟行動版網站">
 
 <!ENTITY contextmenu_open_new_tab "以新分頁開啟">
+<!ENTITY contextmenu_remove_bookmark "移除">
 <!ENTITY contextmenu_add_to_launcher "新增至裝置主畫面">
 <!ENTITY contextmenu_share "透露">
 
