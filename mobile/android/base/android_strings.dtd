@@ -18,7 +18,7 @@
 <!ENTITY launcher_shortcuts_title "Aplicaciones web de &brandShortName;">
 <!ENTITY launcher_shortcuts_empty "No se encontraron aplicaciones web">
 <!ENTITY choose_file "Elegir archivo">
-<!ENTITY awesomebar_default_text "Búsqueda o dirección">
+<!ENTITY awesomebar_default_text "Dirección o un término de búsqueda">
 <!ENTITY bookmark "Marcador">
 <!ENTITY bookmark_added "Marcador añadido">
 <!ENTITY bookmark_removed "Marcador eliminado">
@@ -43,14 +43,15 @@
 <!ENTITY pref_clear_history "Limpiar historial">
 <!ENTITY pref_clear_history_confirm "El historial de navegación será eliminado">
 <!ENTITY pref_clear_private_data "Limpiar datos privados">
-<!ENTITY pref_clear_private_data_confirm "La configuración de navegación, incluyendo contraseñas y cookies, serán eliminadas">
+<!ENTITY pref_clear_private_data_confirm "La configuración de navegación, incluyendo contraseñas y cookies, será eliminada">
 <!ENTITY pref_plugins "Plugins">
 <!ENTITY pref_plugins_enabled "Activados">
 <!ENTITY pref_plugins_tap_to_play "Pulsar para activar">
 <!ENTITY pref_plugins_disabled "Desactivados">
-<!ENTITY pref_font_size "Tamaño de fuente">
-<!ENTITY pref_font_size_small "Pequeña">
-<!ENTITY pref_font_size_medium "Mediana">
+<!ENTITY pref_text_size "Tamaño del texto">
+<!ENTITY pref_font_size_tiny "Diminuto">
+<!ENTITY pref_font_size_small "Pequeño">
+<!ENTITY pref_font_size_medium "Mediano">
 <!ENTITY pref_font_size_large "Grande">
 <!ENTITY pref_font_size_xlarge "Extra grande">
 <!ENTITY pref_use_master_password "Usar contraseña maestra">
@@ -59,9 +60,8 @@
 <!ENTITY downloads "Descargas">
 <!ENTITY share "Compartir">
 <!ENTITY save_as_pdf "Guardar como PDF">
-<!ENTITY agent_request_desktop "Pedir sitio para escritorio">
-<!ENTITY agent_request_mobile "Pedir sitio para móviles">
 <!ENTITY contextmenu_open_new_tab "Abrir en una pestaña nueva">
+<!ENTITY contextmenu_remove_bookmark "Eliminar">
 <!ENTITY contextmenu_add_to_launcher "Añadir a la pantalla de inicio">
 <!ENTITY contextmenu_share "Compartir">
 <!ENTITY site_settings_title "Limpiar config. del sitio">

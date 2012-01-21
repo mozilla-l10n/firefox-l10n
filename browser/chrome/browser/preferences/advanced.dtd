@@ -45,13 +45,13 @@
 <!ENTITY updateAuto.label "Instalar automáticamente las actualizaciones (recomendado: mejora la seguridad)">
 <!ENTITY updateAuto.accesskey "A">
 <!ENTITY updateCheck.label "Comprobar actualizaciones, pero dejarme elegir si las quiero instalar">
-<!ENTITY updateCheck.accesskey "C">
+<!ENTITY updateCheck.accesskey "z">
 <!ENTITY updateManual.label "No comprobar actualizaciones (no recomendado: riesgos de seguridad)">
 <!ENTITY updateManual.accesskey "N">
 <!ENTITY updateAutoAddonWarn.label "Avisarme si esto desactivará alguno de mis complementos.">
 <!ENTITY updateAutoAddonWarn.accesskey "v">
 <!ENTITY updateHistory.label "Mostrar historial de actualizaciones">
-<!ENTITY updateHistory.accesskey "c">
+<!ENTITY updateHistory.accesskey "h">
 <!ENTITY useService.label "Usar un servicio de fondo para instalar actualizaciones">
 <!ENTITY useService.accesskey "z">
 <!ENTITY updateOthers.label "Actualización automática:">
