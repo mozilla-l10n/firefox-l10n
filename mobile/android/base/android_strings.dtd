@@ -84,6 +84,7 @@
 <!ENTITY save_as_pdf "Opslaan als PDF">
 
 <!ENTITY contextmenu_open_new_tab "Openen in nieuw tabblad">
+<!ENTITY contextmenu_remove_bookmark "Verwijderen">
 <!ENTITY contextmenu_add_to_launcher "Toevoegen aan thuisscherm">
 <!ENTITY contextmenu_share "Delen">
 
