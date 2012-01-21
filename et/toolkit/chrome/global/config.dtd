@@ -43,9 +43,9 @@
 <!ENTITY aboutWarningButton.label   "Ma olen ettevaatlik, ma luban!">
 <!ENTITY aboutWarningCheckbox.label "Seda hoiatust näidatakse ka järgmine kord">
 
-<!ENTITY filterPrefs.label          "Filter:">
-<!ENTITY filterPrefs.accesskey      "i">
-<!ENTITY focusFilter.key            "f">
+<!ENTITY searchPrefs.label          "Otsi:">
+<!ENTITY searchPrefs.accesskey      "i">
+<!ENTITY focusSearch.key            "r">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label           "Eelistuse nimi">
