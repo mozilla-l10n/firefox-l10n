@@ -67,7 +67,8 @@
 <!ENTITY pref_plugins_enabled "Ingeschakeld">
 <!ENTITY pref_plugins_tap_to_play "Tap om af te spelen">
 <!ENTITY pref_plugins_disabled "Uitgeschakeld">
-<!ENTITY pref_font_size "Lettergrootte">
+<!ENTITY pref_text_size "Tekstgrootte">
+<!ENTITY pref_font_size_tiny "Zeer klein">
 <!ENTITY pref_font_size_small "Klein">
 <!ENTITY pref_font_size_medium "Gemiddeld">
 <!ENTITY pref_font_size_large "Groot">
