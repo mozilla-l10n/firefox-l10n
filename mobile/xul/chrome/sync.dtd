@@ -1,0 +1,22 @@
+<!ENTITY sync.title                 "Sync">
+<!ENTITY sync.notconnected          "Net ferbûn">
+<!ENTITY sync.connect               "Ferbyn">
+<!ENTITY sync.connected             "Ferbûn">
+<!ENTITY sync.details               "Details">
+<!ENTITY sync.synchronize           "Sync ynskeakelje">
+<!ENTITY sync.deviceName            "Dit apparaat">
+<!ENTITY sync.disconnect            "Ferbining ferbrekke">
+<!ENTITY sync.syncNow               "Sync no">
+
+<!ENTITY sync.setup.title           "Ferbyn mei Sync">
+<!ENTITY sync.setup.jpake           "Fan in Firefox Sync-ferbûne kompjûter, gean nei Sync-opsjes en selektearje &#x0022;Apparaat tafoegje&#x0022;">
+<!ENTITY sync.fallback              "Ik bin net ticht by myn kompjûter…">
+<!ENTITY sync.setup.manual          "Jou jo Sync-accountynformaasje">
+<!ENTITY sync.account               "Accountnamme">
+<!ENTITY sync.password              "Wachtwurd">
+<!ENTITY sync.syncKey               "Sync-kaai">
+<!ENTITY sync.customServer          "Brûk eigen tsjinner">
+<!ENTITY sync.serverURL             "Tsjinner-URL">
+<!ENTITY sync.setup.connect         "Ferbyn">
+<!ENTITY sync.setup.cancel          "Annulearje">
+<!ENTITY sync.setup.tutorial        "Lit it sjen">
