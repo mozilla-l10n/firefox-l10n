@@ -1,10 +1,10 @@
 <!ENTITY loadError.label "Errorea orria kargatzerakoan">
-<!ENTITY retry.label "Saiatu berriz">
+<!ENTITY retry.label "Saiatu berriro">
 <!-- Specific error messages -->
 
 
 <!ENTITY connectionFailure.title "Huts konektatzerakoan">
-<!ENTITY connectionFailure.longDesc "<p>Nahiz eta guneak egokia dirudien, nabigatzailea ez da konexioa ezartzeko gai.</p><ul><li>Baliteke gunea aldi baterako erabilezina egotea? Saiatu berriz beranduago.</li><li>Gauza bera gertatzen zaizu beste guneekin?  Begiratu zure ordenagailuaren sareko konexioa.</li><li>Zure ordenagailu edo sarea suebaki edo proxy baten bitartez babestuta dago? Gaizki konfiguratutako ezarpenek web nabigazioa oztopa dezakete.</li></ul>">
+<!ENTITY connectionFailure.longDesc "<p>Nahiz eta guneak egokia dirudien, nabigatzailea ez da konexioa ezartzeko gai.</p><ul><li>Baliteke gunea aldi baterako erabilezina egotea? Saiatu berriro beranduago.</li><li>Gauza bera gertatzen zaizu beste guneekin?  Begiratu zure ordenagailuaren sareko konexioa.</li><li>Zure ordenagailu edo sarea suebaki edo proxy baten bitartez babestuta dago? Gaizki konfiguratutako ezarpenek web nabigazioa oztopa dezakete.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Segurtasun neurriengatik ataka galarazita dago">
 <!ENTITY deniedPortAccess.longDesc "<p>Eskatutako helbideak zehaztutako ataka (adib. <q>mozilla.org:80</q> mozilla.org guneko 80. atakarentzako) web nabigazioa ez den <em>bestelako</em> helburuetarako erabili ohi da. Nabigatzaileak eskaera bertan behera utzi du zure babes eta segurtasunerako.</p>">

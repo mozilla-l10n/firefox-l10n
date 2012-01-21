@@ -2,7 +2,7 @@
 %brandDTD;
 
 <!ENTITY loadError.label "Arazoa orria kargatzerakoan">
-<!ENTITY retry.label "Saiatu berriz">
+<!ENTITY retry.label "Saiatu berriro">
 <!-- Specific error messages -->
 
 
@@ -41,7 +41,7 @@
 
 <!ENTITY netOffline.title "Lineaz kanpo">
 <!ENTITY netOffline.longDesc2 "<ul> 
-<li>Sakatu &quot;Saiatu berriz&quot; linean jarri eta orria berritzeko.</li> </ul>">
+<li>Sakatu &quot;Saiatu berriro&quot; linean jarri eta orria berritzeko.</li> </ul>">
 
 <!ENTITY contentEncodingError.title "Edukiaren kodeketa-errorea">
 <!ENTITY contentEncodingError.longDesc "<ul> 
@@ -101,7 +101,7 @@
 </ul>">
 
 <!ENTITY sharedLongDesc "<ul> 
-<li>Gunea une batez desgaituta edo oso lanpetuta egon daiteke. Saiatu berriz minutu batzuen buruan.</li> 
+<li>Gunea une batez desgaituta edo oso lanpetuta egon daiteke. Saiatu berriro minutu batzuen buruan.</li> 
 <li>Beste inolako orririk ezin baduzu kargatu, egiaztatu ordenagailuaren sareko konexioa.</li> 
 <li>Ordenagailua edo sarea firewall edo proxy baten bidez babestuta badaude, egiaztatu &brandShortName;(e)k webera irteteko baimena daukala.</li> 
 </ul>">
