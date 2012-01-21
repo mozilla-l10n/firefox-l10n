@@ -339,6 +339,12 @@
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "סרגל תפריטים">
 <!ENTITY formatToolbar.tooltip "סרגל כלים עיצוב">
+<!ENTITY newToolbarCmd.label "חדש">
+<!ENTITY newToolbarCmd.tooltip "צור דף Composer חדש">
+<!ENTITY openToolbarCmd.label "פתיחה">
+<!ENTITY openToolbarCmd.tooltip "פתח קובץ מקומי">
+<!ENTITY saveToolbarCmd.tooltip "שמור קובץ למיקום מקומי">
+<!ENTITY publishToolbarCmd.tooltip "העלה קובץ למיקום מרוחק">
 <!ENTITY cutToolbarCmd.tooltip "גזירה">
 <!ENTITY copyToolbarCmd.tooltip "העתקה">
 <!ENTITY pasteToolbarCmd.tooltip "הדבקה">
