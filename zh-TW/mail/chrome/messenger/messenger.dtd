@@ -543,7 +543,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY deleteButton.tooltip "刪除已選的郵件或資料夾">
 <!ENTITY undeleteButton.tooltip "還原選取的郵件">
 <!ENTITY markButton.tooltip "標示郵件">
-<!ENTITY printButton.tooltip "列印郵件">
+<!ENTITY printButton.tooltip "列印此訊息">
 <!ENTITY stopButton.tooltip "停止傳送">
 <!ENTITY junkButton.tooltip "標示所選郵件為垃圾信">
 <!ENTITY notJunkButton.tooltip "標示所選郵件為非垃圾信">
