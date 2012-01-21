@@ -2,7 +2,7 @@
 %brandDTD;
 
 <!ENTITY loadError.label "Arazoa orria kargatzerakoan">
-<!ENTITY retry.label "Saiatu berriz">
+<!ENTITY retry.label "Saiatu berriro">
 <!-- Specific error messages -->
 
 
@@ -106,7 +106,7 @@
 </ul>">
 
 <!ENTITY sharedLongDesc2 "<ul> 
-<li>Gunea une batez desgaituta edo oso lanpetuta egon daiteke. Saiatu berriz minutu batzuen buruan.</li> 
+<li>Gunea une batez desgaituta edo oso lanpetuta egon daiteke. Saiatu berriro minutu batzuen buruan.</li> 
 <li>Ezin badituzu orriak kargatu, egiaztatu zure gailu mugikorraren datuen edo WiFi-aren konexioa.</li> 
 </ul>">
 
