@@ -327,12 +327,6 @@
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Menulinjen">
 <!ENTITY formatToolbar.tooltip "Formateringslinjen">
-<!ENTITY newToolbarCmd.label "Ny">
-<!ENTITY newToolbarCmd.tooltip "Opret en ny Composer-side">
-<!ENTITY openToolbarCmd.label "Åbn">
-<!ENTITY openToolbarCmd.tooltip "Åbn en lokal fil">
-<!ENTITY saveToolbarCmd.tooltip "Gem filen lokalt">
-<!ENTITY publishToolbarCmd.tooltip "Overfør filen til en anden maskine">
 <!ENTITY cutToolbarCmd.tooltip "Klip">
 <!ENTITY copyToolbarCmd.tooltip "Kopier">
 <!ENTITY pasteToolbarCmd.tooltip "Indsæt">

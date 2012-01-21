@@ -68,3 +68,11 @@
 <!-- Edit menu items -->
 <!ENTITY publishSettings.label "Indstillinger til overførsel…">
 <!ENTITY publishSettings.accesskey "n">
+
+<!-- Toolbar buttons/items -->
+<!ENTITY newToolbarCmd.label "Ny">
+<!ENTITY newToolbarCmd.tooltip "Opret en ny Composer-side">
+<!ENTITY openToolbarCmd.label "Åbn">
+<!ENTITY openToolbarCmd.tooltip "Åbn en lokal fil">
+<!ENTITY saveToolbarCmd.tooltip "Gem filen lokalt">
+<!ENTITY publishToolbarCmd.tooltip "Overfør filen til en anden maskine">

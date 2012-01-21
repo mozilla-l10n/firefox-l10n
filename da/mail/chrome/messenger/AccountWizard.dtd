@@ -1,6 +1,6 @@
 <!-- Entities for AccountWizard -->
 
-<!ENTITY windowTitle.label "HTML-mail spørgsmål">
+<!ENTITY windowTitle.label "Kontoguide">
 <!ENTITY accountWizard.size "width: 40em; height: 38em;">
 
 <!-- Entities for Account Type page -->
@@ -44,6 +44,10 @@
 <!ENTITY popType.accesskey "P">
 <!ENTITY leaveMsgsOnSrvr.label "Gem meddelelser på serveren">
 <!ENTITY leaveMsgsOnSrvr.accesskey "e">
+<!ENTITY portNum.label "Port:">
+<!ENTITY portNum.accesskey "o">
+<!ENTITY defaultPortLabel.label "Standard:">
+<!ENTITY defaultPortValue.label "">
 
 
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
