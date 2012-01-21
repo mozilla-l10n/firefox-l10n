@@ -47,7 +47,7 @@
 <!ENTITY pref.calendar.advanced.encryptionTab.label "Zifratzea">
 <!-- General -->
 
-<!ENTITY pref.calendar.advanced.showConnections.label     "Konexio-ezarpena…k
+<!ENTITY pref.calendar.advanced.showConnections.label     "Konexio-ezarpenak…">
 <!ENTITY pref.calendar.advanced.showConnections.accesskey "o">
 <!ENTITY pref.calendar.advanced.proxiesInfo.label         "Erabaki nola konektatuko den &brandShortName; internetera">
 <!ENTITY pref.calendar.advanced.configEdit.caption "Konfigurazio aurreratua">
