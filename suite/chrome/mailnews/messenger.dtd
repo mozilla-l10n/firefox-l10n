@@ -445,7 +445,6 @@
 <!ENTITY deleteButton.label "Smazat">
 <!ENTITY undeleteButton.label "Obnovit">
 <!ENTITY markButton.label "Označit">
-<!ENTITY printButton.label "Tisk">
 <!ENTITY stopButton.label "Zastavit">
 <!ENTITY junkButton.label "Nevyžádané">
 <!ENTITY notJunkButton.label "Není nevyžádaná">
@@ -469,7 +468,6 @@
 <!ENTITY deleteButton.tooltip "Smaže označené zprávy nebo složky">
 <!ENTITY undeleteButton.tooltip "Obnoví označenou smazanou zprávu">
 <!ENTITY markButton.tooltip "Označí zprávu">
-<!ENTITY printButton.tooltip "Vytiskne zprávu">
 <!ENTITY stopButton.tooltip "Zastaví probíhající akci">
 <!ENTITY throbber.tooltip "Přejde na domovskou stránku aplikace &vendorShortName;">
 <!ENTITY junkButton.tooltip "Označí vybrané zprávy jako nevyžádané">
