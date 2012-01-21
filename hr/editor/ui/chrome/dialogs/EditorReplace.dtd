@@ -38,23 +38,23 @@
 
 <!-- extracted from EdReplace.xul -->
 
-<!ENTITY replaceDialog.title "Find and Replace">
-<!ENTITY findField.label "Find text:">
+<!ENTITY replaceDialog.title "Pronađi i zamjeni">
+<!ENTITY findField.label "Pronađi tekst:">
 <!ENTITY findField.accesskey "n">
-<!ENTITY replaceField.label "Replace with:">
+<!ENTITY replaceField.label "Zamjeni sa:">
 <!ENTITY replaceField.accesskey "e">
-<!ENTITY caseSensitiveCheckbox.label "Match exact case">
-<!ENTITY caseSensitiveCheckbox.accesskey "c">
-<!ENTITY wrapCheckbox.label "Wrap around">
-<!ENTITY wrapCheckbox.accesskey "W">
-<!ENTITY backwardsCheckbox.label "Search backwards">
-<!ENTITY backwardsCheckbox.accesskey "b">
-<!ENTITY findNextButton.label "Find Next">
-<!ENTITY findNextButton.accesskey "F">
-<!ENTITY replaceButton.label "Replace">
-<!ENTITY replaceButton.accesskey "R">
-<!ENTITY replaceAndFindButton.label "Replace and Find">
-<!ENTITY replaceAndFindButton.accesskey "d">
-<!ENTITY replaceAllButton.label "Replace All">
-<!ENTITY replaceAllButton.accesskey "A">
-<!ENTITY closeButton.label "Close">
+<!ENTITY caseSensitiveCheckbox.label "Pazi na velika/mala slova">
+<!ENTITY caseSensitiveCheckbox.accesskey "P">
+<!ENTITY wrapCheckbox.label "Omotaj oko">
+<!ENTITY wrapCheckbox.accesskey "O">
+<!ENTITY backwardsCheckbox.label "Traži unazad">
+<!ENTITY backwardsCheckbox.accesskey "T">
+<!ENTITY findNextButton.label "Traži slijedeće">
+<!ENTITY findNextButton.accesskey "s">
+<!ENTITY replaceButton.label "Zamjeni">
+<!ENTITY replaceButton.accesskey "Z">
+<!ENTITY replaceAndFindButton.label "Zamjeni i traži">
+<!ENTITY replaceAndFindButton.accesskey "a">
+<!ENTITY replaceAllButton.label "Zamjeni sve">
+<!ENTITY replaceAllButton.accesskey "m">
+<!ENTITY closeButton.label "Zatvori">
