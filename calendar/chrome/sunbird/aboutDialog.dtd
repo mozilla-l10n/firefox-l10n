@@ -36,16 +36,19 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY aboutDialog.title "About &brandFullName;">
-<!ENTITY copyright.label "Kredituak">
-<!ENTITY copyright.accesskey "K">
-<!ENTITY aboutLink.label "&lt; &brandFullName;(r)i buruz">
-<!ENTITY aboutLink.accesskey "B">
-<!ENTITY aboutVersion "bertsioa">
-<!ENTITY copyrightText "&#169;1998-2008 Contributors. All rights reserved. Mozilla Sunbird, Sunbird, and the Sunbird logos are trademarks of the Mozilla Foundation. All rights reserved.">
+<!ENTITY aboutDialog.title      "&brandFullName;(r)i buruz">
+<!ENTITY copyright.label        "Kredituak">
+<!ENTITY copyright.accesskey    "K">
+<!ENTITY aboutLink.label        "&lt; &brandFullName;(r)i buruz">
+<!ENTITY aboutLink.accesskey    "b">
+<!ENTITY aboutVersion           "bertsioa">
+<!ENTITY copyrightText          "&#169;1998-2009 Laguntzaileak. Eskubide guztiak 
+erreserbatuta. Mozilla Sunbird, Sunbird, eta 
+Sunbird logoak, Mozilla fundazioaren marka 
+erregistratuak dira. Eskubide guztiak erreserbatuak.">
 
-<!ENTITY brandMotto "Ordua da">
-<!ENTITY credit.thanks "Esker Onak">
+<!ENTITY brandMotto       "Ordua da">
+<!ENTITY credit.thanks    "Esker onak">
 <!-- localization credits look like this: -->
 <!--
 <!ENTITY credit.translation
@@ -54,6 +57,6 @@
 
 <!ENTITY credit.translation "Librezale.org">
 
-<!ENTITY credit.powered "Honetan oinarritua">
-<!ENTITY license.and "eta">
-<!ENTITY cmdClose.macKey "W">
+<!ENTITY credit.powered     "Honetan oinarritua">
+<!ENTITY license.and        "eta">
+<!ENTITY cmdClose.macKey  "W">

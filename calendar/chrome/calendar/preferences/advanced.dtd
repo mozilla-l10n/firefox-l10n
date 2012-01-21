@@ -47,37 +47,37 @@
 <!ENTITY pref.calendar.advanced.encryptionTab.label "Zifratzea">
 <!-- General -->
 
-<!ENTITY pref.calendar.advanced.showConnections.label "Konexio ezarpenak...">
+<!ENTITY pref.calendar.advanced.showConnections.label     "Konexio-ezarpena…k
 <!ENTITY pref.calendar.advanced.showConnections.accesskey "o">
-<!ENTITY pref.calendar.advanced.proxiesInfo.label "Erabaki nola konektatuko den &brandShortName; Internetera">
-<!ENTITY pref.calendar.advanced.configEdit.caption "Konfigurazio Aurreratua">
-<!ENTITY pref.calendar.advanced.configEdit.button "Konfigurazio Editorea…">
+<!ENTITY pref.calendar.advanced.proxiesInfo.label         "Erabaki nola konektatuko den &brandShortName; internetera">
+<!ENTITY pref.calendar.advanced.configEdit.caption "Konfigurazio aurreratua">
+<!ENTITY pref.calendar.advanced.configEdit.button "Konfigurazio editorea…">
 <!ENTITY pref.calendar.advanced.configEdit.accesskey "g">
 <!-- Passwords -->
 
 <!ENTITY pref.calendar.advanced.savedPasswords.intro "&brandShortName;(e)k zure egutegien pasahitzak gogora ditzake. Modu honetan ez dituzu behin eta berriro idatzi beharko.">
-<!ENTITY pref.calendar.advanced.useMasterPassword.label "Pasahitz nagusia erabili gordetako pasahitzak zifratzeko">
+<!ENTITY pref.calendar.advanced.useMasterPassword.label "Erabili pasahitz nagusia gordetako pasahitzak zifratzeko">
 <!ENTITY pref.calendar.advanced.useMasterPassword.accesskey "P">
-<!ENTITY pref.calendar.advanced.masterPassword.intro "Pasahitz Nagusiak zure pasahitz guztiak babesten ditu, baina saio bakoitzean idatzi egin behar izango duzu.">
-<!ENTITY pref.calendar.advanced.changeMasterPassword.label "Pasahitz Nagusia Aldatu...">
-<!ENTITY pref.calendar.advanced.changeMasterPassword.accesskey "N">
-<!ENTITY pref.calendar.advanced.viewPasswords.label "Ikusi Gordetako Pasahitzak...">
+<!ENTITY pref.calendar.advanced.masterPassword.intro "Pasahitz nagusiak zure pasahitz guztiak babesten ditu, baina saio bakoitzean idatzi egin behar izango duzu.">
+<!ENTITY pref.calendar.advanced.changeMasterPassword.label "Aldatu pasahitz nagusia…">
+<!ENTITY pref.calendar.advanced.changeMasterPassword.accesskey "n">
+<!ENTITY pref.calendar.advanced.viewPasswords.label "Ikusi gordetako pasahitzak…">
 <!ENTITY pref.calendar.advanced.viewPasswords.accesskey "I">
 <!-- Update -->
 
-<!ENTITY pref.calendar.advanced.update.autoCheck.label "Hauentzako eguneraketarik dagoen automatikoki bilatu:">
+<!ENTITY pref.calendar.advanced.update.autoCheck.label "Bilatu automatikoki hauentzako eguneraketarik dagoen:">
 <!ENTITY pref.calendar.advanced.update.enableAppUpdate.label "&brandShortName;">
 <!ENTITY pref.calendar.advanced.update.enableAppUpdate.accesskey "r">
-<!ENTITY pref.calendar.advanced.update.enableAddonsUpdate.label "Instalatutako Gehigarriak">
+<!ENTITY pref.calendar.advanced.update.enableAddonsUpdate.label "Instalatutako gehigarriak">
 <!ENTITY pref.calendar.advanced.update.enableAddonsUpdate.accesskey "n">
 <!ENTITY pref.calendar.advanced.update.whenUpdatesFound.label "&brandShortName;(r)entzako eguneraketak aurkitzerakoan:">
-<!ENTITY pref.calendar.advanced.update.modeAskMe.label "Niri zer egin galdetu">
+<!ENTITY pref.calendar.advanced.update.modeAskMe.label "Galdetu niri zer egin">
 <!ENTITY pref.calendar.advanced.update.modeAskMe.accesskey "g">
 <!ENTITY pref.calendar.advanced.update.modeAuto.label "Deskargatu eta instalatu automatikoki eguneraketa">
-<!ENTITY pref.calendar.advanced.update.modeAuto.accesskey "d">
-<!ENTITY pref.calendar.advanced.update.modeAutoWarn.label "Ohartarazi nazazu honek gehigarriren bat desgaituko badu">
+<!ENTITY pref.calendar.advanced.update.modeAuto.accesskey "D">
+<!ENTITY pref.calendar.advanced.update.modeAutoWarn.label "Ohartaraz nazazu honek gehigarriren bat desgaituko badu">
 <!ENTITY pref.calendar.advanced.update.modeAutoWarn.accesskey "O">
-<!ENTITY pref.calendar.advanced.update.showHistory.label "Eguneraketa Historia Erakutsi...">
+<!ENTITY pref.calendar.advanced.update.showHistory.label "Erakutsi eguneraketen historia…">
 <!ENTITY pref.calendar.advanced.update.showHistory.accesskey "E">
 <!-- Encryption -->
 
@@ -94,9 +94,9 @@
 <!ENTITY pref.calendar.advanced.encryption.certs.ask.accesskey "i">
 <!ENTITY pref.calendar.advanced.encryption.viewCerts.label "Ikusi ziurtagiriak">
 <!ENTITY pref.calendar.advanced.encryption.viewCerts.accesskey "s">
-<!ENTITY pref.calendar.advanced.encryption.viewCRLs.label "Errebokazio zerrendak">
-<!ENTITY pref.calendar.advanced.encryption.viewCRLs.accesskey "R">
+<!ENTITY pref.calendar.advanced.encryption.viewCRLs.label "Baliogabetze-zerrendak">
+<!ENTITY pref.calendar.advanced.encryption.viewCRLs.accesskey "r">
 <!ENTITY pref.calendar.advanced.encryption.verify2.label "Egiaztapena">
 <!ENTITY pref.calendar.advanced.encryption.verify2.accesskey "E">
-<!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.label "Segurtasun gailuak">
+<!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.label "Segurtasun-gailuak">
 <!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.accesskey "g">

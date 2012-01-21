@@ -40,15 +40,16 @@
   -->
 
 
-<!ENTITY pref.mainbox.label "Ezarpen orokorrak">
-<!ENTITY pref.dateformat.label "Data Testu Formatua:">
+<!ENTITY pref.mainbox.label "Ezarpen orokorrak" >
+<!ENTITY pref.dateformat.label "Data testu formatua:" >
 <!ENTITY pref.dateformat.accesskey "D">
-<!ENTITY pref.dateformat.long "Luzea">
-<!ENTITY pref.dateformat.short "Laburra">
-<!ENTITY pref.defaultlength.label "Lehetsiriko Gertaera Iraupena:">
-<!ENTITY pref.defaultlength.accesskey "E">
-<!ENTITY pref.defaultsnoozelength.label "Atzerapen Iraupen Lehenetsia:">
+<!ENTITY pref.dateformat.long "Luzea" >
+<!ENTITY pref.dateformat.short "Laburra"  >
+<!ENTITY pref.defaultlength.label "Lehetsiriko gertaera iraupena:" >
+<!ENTITY pref.defaultlength.accesskey "e">
+<!ENTITY pref.defaultsnoozelength.label "Atzerapen iraupen lehenetsia:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "A">
-<!ENTITY pref.refreshbox.label "Freskatu Ezarpenak">
-<!ENTITY pref.autorefresh.label "Freskatu egutegiak maiztasun honekin:">
-<!ENTITY pref.autorefresh.accesskey "F">
+
+<!ENTITY pref.accessibility.label "Erabilgarritasuna" >
+<!ENTITY pref.systemcolors.label "Optimizatu koloreak erabilgarritasunerako" >
+<!ENTITY pref.systemcolors.accesskey "k">
