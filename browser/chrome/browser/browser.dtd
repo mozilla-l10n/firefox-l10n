@@ -166,7 +166,7 @@
 <!ENTITY inspectStyleButton.label "Estilo">
 <!ENTITY inspectStyleButton.accesskey "S">
 <!ENTITY styleeditor.label "Editor de estilos">
-<!ENTITY styleeditor.accesskey "y">
+<!ENTITY styleeditor.accesskey "i">
 <!ENTITY styleeditor.keycode "VK_F7">
 <!ENTITY styleeditor.keytext "F7">
 <!ENTITY getMoreDevtoolsCmd.label "Conseguir más herramientas">
@@ -347,7 +347,7 @@
 <!ENTITY videoFullScreen.label "Pantalla completa">
 <!ENTITY videoFullScreen.accesskey "c">
 <!ENTITY videoSaveImage.label "Guardar captura de pantalla como…">
-<!ENTITY videoSaveImage.accesskey "S">
+<!ENTITY videoSaveImage.accesskey "G">
 <!ENTITY videoShowStats.label "Mostrar estadísticas">
 <!ENTITY videoShowStats.accesskey "t">
 <!ENTITY videoHideStats.label "Ocultar estadísticas">

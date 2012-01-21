@@ -1,12 +1,12 @@
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
 <!ENTITY syncBrand.shortName.label "Sync">
 <!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
-<!ENTITY sync.title.connect.label "Connect to &syncBrand.shortName.label;">
+<!ENTITY sync.title.connect.label "Conectar a &syncBrand.shortName.label;">
 <!ENTITY sync.title.pair.label "Emparejar un dispositivo">
-<!ENTITY sync.subtitle.connect.label "To activate your new device, select “Set up &syncBrand.shortName.label;” on the device.">
-<!ENTITY sync.subtitle.pair.label "To activate, select “Pair a device” on your other device.">
+<!ENTITY sync.subtitle.connect.label 'Para activar un nuevo dispositivo, seleccione "Configurar &syncBrand.shortName.label;" en su dispositivo.'>
+<!ENTITY sync.subtitle.pair.label 'Para activarlo, seleccione "Emparejar un dispositivo" en su otro dispositivo.'>
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
-<!ENTITY sync.link.show.label "Muéstrame cómo">
+<!ENTITY sync.link.show.label "Muéstrame cómo.">
 <!ENTITY sync.link.nodevice.label "No tengo el dispositivo conmigo…">
 <!ENTITY sync.jpake.subtitle.waiting.label "Esperando al otro dispositivo…">
 <!ENTITY sync.subtitle.account.label "Escriba la información de su cuenta de &syncBrand.fullName.label;">
@@ -15,15 +15,15 @@
 <!ENTITY sync.input.key.label "Clave de recuperación">
 <!ENTITY sync.checkbox.server.label "Usar un servidor personalizado">
 <!ENTITY sync.input.server.label "URL del servidor">
-<!ENTITY sync.title.fail.label "Cannot Set Up &syncBrand.shortName.label;">
-<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; could not connect to the server. Would you like to try again?">
+<!ENTITY sync.title.fail.label "No se puede configurar &syncBrand.shortName.label;">
+<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; no puede conectarse al servidor. ¿Le gustaría intentarlo de nuevo?">
 <!ENTITY sync.button.tryagain.label "Reintentar">
 <!ENTITY sync.button.manual.label "Configuración manual">
 <!ENTITY sync.subtitle.nointernet.label "No está disponible una conexión a internet.">
 <!ENTITY sync.title.success.label "Instalación completada">
-<!ENTITY sync.subtitle.success.label "Your data is now being downloaded in the background. You can go to Settings to manage your account.">
+<!ENTITY sync.subtitle.success.label "Sus datos están ahora siendo descargados de fondo. Vaya a la Configuración para administrar su cuenta.">
 <!ENTITY sync.settings.label "Configuración">
-<!ENTITY sync.subtitle.manage.label "Your &syncBrand.fullName.label; account is already set up. Go to Settings to manage your account.">
+<!ENTITY sync.subtitle.manage.label "Su cuenta de &syncBrand.fullName.label; ya está configurada. Vaya a la Configuración para administrar su cuenta.">
 <!ENTITY sync.pair.tryagain.label "Por favor, pruebe de nuevo.">
 <!ENTITY sync.settings.options.label "Opciones">
 <!ENTITY sync.summary.pair.label "Vincule otro dispositivo a su cuenta de &syncBrand.shortName.label;">

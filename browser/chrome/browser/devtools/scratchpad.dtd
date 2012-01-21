@@ -40,7 +40,7 @@
 <!ENTITY findCmd.accesskey "B">
 <!ENTITY findAgainCmd.label "Repetir la búsqueda…">
 <!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.accesskey "q">
 <!ENTITY findPreviousCmd.key "G">
 <!ENTITY gotoLineCmd.label "Saltar a la línea…">
 <!ENTITY gotoLineCmd.key "J">
