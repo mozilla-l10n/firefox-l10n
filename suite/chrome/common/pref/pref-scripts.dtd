@@ -18,7 +18,9 @@
 <!ENTITY allowHideStatusBar.label "Skrýt stavový řádek">
 
 <!ENTITY enablePlugin.label "Povolit zásuvné moduly pro">
+<!ENTITY enablePluginForSuite.label "Seamonkey">
+<!ENTITY enablePluginForSuite.accesskey "S">
 
 <!ENTITY whenPluginsRequired.label "Pokud jsou požadovány dodatečné zásuvné moduly">
 <!ENTITY displayNotification.label "Zobrazit informační lištu v horní části obsahu stránky">
-<!ENTITY displayNotification.accesskey  "i">
+<!ENTITY displayNotification.accesskey "i">
