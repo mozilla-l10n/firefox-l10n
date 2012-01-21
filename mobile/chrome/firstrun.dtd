@@ -1,9 +1,0 @@
-<!ENTITY welcome.title                      "ברוכים הבאים ל־&brandShortName;">
-<!ENTITY intro.description                  "סנכרן את המחשב והנייד עם Weave Sync. בצע התאמה אישית עם תוספות. גלוש באמצעות ה־Awesomebar ועוד הרבה הרבה.">
-<!ENTITY weave.title                        "קום והתהלך">
-<!ENTITY weave.description                  "קבל את Weave Sync כדי לאלף את ה־&brandShortName; שלך. שתף את היסטורית הגלישה שלך, סימיות, ססמאות שמורות ולשוניות בין המחשב שלך והנייד.">
-<!ENTITY weave.linkLabel                     "קבל את התוספת Weave ּSync">
-
-<!ENTITY getPersonal.title                  "היה אישי">
-<!ENTITY getPersonal.description            "הפוך את &brandShortName; לשלך. בצע התאמה אישית לדפדפן הראשון שמציע תוספות לנייד.">
-<!ENTITY getPersonal.linkLabel              "קבל תוספות לנייד.">
