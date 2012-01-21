@@ -34,32 +34,32 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY windowTitle.label "Text Area Properties">
+<!ENTITY windowTitle.label "Postavke tekstualnog polja">
 
-<!ENTITY Settings.label "Settings">
+<!ENTITY Settings.label "Postavke">
 
-<!ENTITY TextAreaName.label "Field Name:">
+<!ENTITY TextAreaName.label "Naziv polja:">
 <!ENTITY TextAreaName.accessKey "N">
-<!ENTITY TextAreaRows.label "Rows:">
+<!ENTITY TextAreaRows.label "Redovi:">
 <!ENTITY TextAreaRows.accessKey "R">
-<!ENTITY TextAreaCols.label "Columns:">
-<!ENTITY TextAreaCols.accessKey "C">
-<!ENTITY TextAreaReadOnly.label "Read Only">
-<!ENTITY TextAreaReadOnly.accessKey "O">
-<!ENTITY TextAreaDisabled.label "Disabled">
-<!ENTITY TextAreaDisabled.accessKey "D">
-<!ENTITY TextAreaTabIndex.label "Tab Index:">
+<!ENTITY TextAreaCols.label "Stupci:">
+<!ENTITY TextAreaCols.accessKey "c">
+<!ENTITY TextAreaReadOnly.label "Samo za čitanje">
+<!ENTITY TextAreaReadOnly.accessKey "o">
+<!ENTITY TextAreaDisabled.label "Onemogućeno">
+<!ENTITY TextAreaDisabled.accessKey "e">
+<!ENTITY TextAreaTabIndex.label "Indeks kartice:">
 <!ENTITY TextAreaTabIndex.accessKey "I">
-<!ENTITY TextAreaAccessKey.label "Access Key:">
-<!ENTITY TextAreaAccessKey.accessKey "K">
-<!ENTITY InitialText.label "Initial Text:">
-<!ENTITY InitialText.accessKey "T">
+<!ENTITY TextAreaAccessKey.label "Pristupni ključ:">
+<!ENTITY TextAreaAccessKey.accessKey "k">
+<!ENTITY InitialText.label "Početni tekst:">
+<!ENTITY InitialText.accessKey "t">
 
-<!ENTITY TextAreaWrap.label "Wrap Mode:">
-<!ENTITY TextAreaWrap.accessKey "W">
-<!ENTITY WrapDefault.value "Default">
-<!ENTITY WrapOff.value "Off">
-<!ENTITY WrapHard.value "Hard">
-<!ENTITY WrapSoft.value "Soft">
-<!ENTITY WrapPhysical.value "Physical">
-<!ENTITY WrapVirtual.value "Virtual">
+<!ENTITY TextAreaWrap.label "Način omotavanja:">
+<!ENTITY TextAreaWrap.accessKey "m">
+<!ENTITY WrapDefault.value "Zadano">
+<!ENTITY WrapOff.value "Isključeno">
+<!ENTITY WrapHard.value "Tvrdo">
+<!ENTITY WrapSoft.value "Meko">
+<!ENTITY WrapPhysical.value "Fizičko">
+<!ENTITY WrapVirtual.value "Virtualno">
