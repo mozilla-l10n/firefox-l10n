@@ -2,7 +2,7 @@
 <!ENTITY syncBrand.shortName.label "Sync">
 <!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "Connessione &syncBrand.shortName.label;">
-<!ENTITY sync.title.pair.label "Collegamento dispositivo">
+<!ENTITY sync.title.pair.label "Collega un dispositivo">
 <!ENTITY sync.subtitle.connect.label "Per attivare un nuovo dispositivo selezionare “Imposta &syncBrand.shortName.label;” sul dispositivo stesso.">
 <!ENTITY sync.subtitle.pair.label "Per attivare selezionare “Collega un dispositivo” sull’altro dispositivo.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
