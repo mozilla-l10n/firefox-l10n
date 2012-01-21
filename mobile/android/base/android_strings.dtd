@@ -60,7 +60,8 @@
 <!ENTITY pref_plugins_enabled "Gaituta">
 <!ENTITY pref_plugins_tap_to_play "Sakatu erreproduzitzeko">
 <!ENTITY pref_plugins_disabled "Desgaituta">
-<!ENTITY pref_font_size "Letra-tamaina">
+<!ENTITY pref_text_size "Testuaren tamaina">
+<!ENTITY pref_font_size_tiny "Txikitxoa">
 <!ENTITY pref_font_size_small "Txikia">
 <!ENTITY pref_font_size_medium "Normala">
 <!ENTITY pref_font_size_large "Handia">
@@ -74,10 +75,9 @@
 
 <!ENTITY share "Partekatu">
 <!ENTITY save_as_pdf "Gorde PDF gisa">
-<!ENTITY agent_request_desktop "Eskatu mahaigainerako gunea">
-<!ENTITY agent_request_mobile "Eskatu mugikorrerako gunea">
 
 <!ENTITY contextmenu_open_new_tab "Ireki fitxa berrian">
+<!ENTITY contextmenu_remove_bookmark "Kendu">
 <!ENTITY contextmenu_add_to_launcher "Gehitu hasierako pantailan">
 <!ENTITY contextmenu_share "Partekatu">
 
