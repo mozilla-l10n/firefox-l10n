@@ -248,8 +248,8 @@
 <!ENTITY calendar.context.findcalendar.accesskey       "O" >
 <!ENTITY calendar.context.deleteserver.label           "Kustuta kalender">
 <!ENTITY calendar.context.deleteserver.accesskey       "K">
-<!ENTITY calendar.context.reloadserver.label           "Värskenda võrgukalendreid">
-<!ENTITY calendar.context.reloadserver.accesskey       "V">
+<!ENTITY calendar.context.synccalendars.label          "Sünkroniseeri kalendrid">
+<!ENTITY calendar.context.synccalendars.accesskey      "S">
 <!ENTITY calendar.context.publish.label                "Avalda kalender…">
 <!ENTITY calendar.context.publish.accesskey            "A">
 <!ENTITY calendar.context.export.label                 "Ekspordi kalender…">
