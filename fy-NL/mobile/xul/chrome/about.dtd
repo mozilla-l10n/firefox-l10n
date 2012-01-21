@@ -1,0 +1,18 @@
+<!ENTITY aboutPage.title                        "Oer &brandShortName;">
+<!ENTITY aboutPage.faq.label                    "FAQ">
+<!ENTITY aboutPage.support.label                "Stipe">
+<!ENTITY aboutPage.privacyPolicy.label          "Privacybelied">
+<!ENTITY aboutPage.rights.label                 "Ken jo rjochten">
+<!ENTITY aboutPage.relNotes.label               "Utjefte-opmerkings">
+<!ENTITY aboutPage.credits.label                "Meiwurkers">
+<!ENTITY aboutPage.checkForUpdates.button       "Kontrolearje op fernijings">
+<!ENTITY aboutPage.checkForUpdates.checking     "Siket nei fernijings…">
+<!ENTITY aboutPage.checkForUpdates.none         "Gjin fernijings beskikber">
+<!ENTITY aboutPage.checkForUpdates.found        "Fernijing beskikber">
+
+
+<!-- LOCALIZATION NOTE:
+     These strings are concatenated in order. Unneeded strings may be left blank.
+  -->
+<!ENTITY aboutPage.licenseLink                  "Lisinsje ynformaasje">
+<!ENTITY aboutPage.licenseLinkSuffix            ".">

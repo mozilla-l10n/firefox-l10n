@@ -1,0 +1,18 @@
+
+<!ENTITY  splash_screen_loading "Lade">
+<!ENTITY  splash_screen_installing_libs "Biblioteken ynstallearje\u2026">
+<!ENTITY  splash_firstrun "Ynstellen fan &brandShortName;\u2026">
+
+<!ENTITY  no_space_to_start_error "Der is net genôch ûnthâld beskikber om &brandShortName; te starten.">
+<!ENTITY  error_loading_file "Der is in flater bard wylst it laden fan bestannen dy\'t nedich binne foar &brandShortName;">
+
+<!ENTITY  crash_reporter_title "&brandShortName; Ungelokrapportearder">
+<!ENTITY  crash_message "&brandShortName; is ferûngelokke. Jo ljepblêden soene toand wurde moatte op jo &brandShortName; begjinside as jo werstarte.">
+<!ENTITY  crash_help_message "Help ús om dit probleem op te lossen!">
+<!ENTITY  crash_send_report_message "Stjoer Mozilla in ûngelokrapport">
+<!ENTITY  crash_include_url "Side-adres meistjoere">
+<!ENTITY  crash_close_label "Slute">
+<!ENTITY  crash_restart_label "Werstart &brandShortName;">
+<!ENTITY  sending_crash_report "Ferstjoert ûngelokrapport\u2026">
+<!ENTITY  exit_label "Slute">
+<!ENTITY  continue_label "Fierder">

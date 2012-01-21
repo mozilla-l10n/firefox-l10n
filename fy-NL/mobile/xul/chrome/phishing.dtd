@@ -1,0 +1,26 @@
+<!ENTITY safeb.palm.warning.title "Fermoedlike webferfalsking">
+
+<!ENTITY safeb.palm.message.p1 "Dizze side is rapportearre as in webferfalsking, makke om brûkers te mislieden en persoanlike of finansjele ynformaasje diele te litten. It ynfieren fan persoanlike ynformaasje op dizze side kin liede ta dieverij fan identiteitsgegevens of oare fraude. &#160;">
+<!ENTITY safeb.palm.message.p1.linkText "Mear lêze &#187;">
+<!ENTITY safeb.palm.p1.linkStatusText "Mear lêze &#133;">
+
+<!ENTITY safeb.palm.message.p2.start "Dit soarte fan webferfalskingen wurdt brûkt yn e-mailscams dy't bekend binne as phishingoanfallen, wêrby frauduleuze websiden en e-mails brûkt wurde om boarnen dy't jo miskien fertrouwe nei te meitsjen. Jo kinne mear fine oer ">
+<!ENTITY safeb.palm.message.p2.linkText "hoe't &brandShortName; jo beskermet">
+<!ENTITY safeb.palm.message.p2.end " tsjin phishingoanfallen.">
+
+<!ENTITY safeb.palm.accept.label "Helje my hjir út!">
+<!ENTITY safeb.palm.accept.statustext "Nei myn startside navigearje">
+<!ENTITY safeb.palm.decline.label "Dizze warskôging negearje">
+<!ENTITY safeb.palm.decline.statustext "Warskôging slute">
+<!ENTITY safeb.palm.notforgery.label2 "Dit is gjin webferfalsking…">
+<!ENTITY safeb.palm.reportPage.label "Wêrom wurd dizze side blokkearre?">
+
+<!ENTITY safeb.blocked.malwarePage.title "Rapportearre oanfalside!">
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.malwarePage.shortDesc "De side op <span id='malware_sitename'/> is rapportearre as in oanfalside en is blokkearre op basis fan jo befeiligingsynstellingen.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Oanfalsiden probearje programma’s te ynstallearjen dy't priveeynformaasje stelle, jo kompjûter brûke om oaren oan te fallen, of jo systeem skansearje.</p><p>Sommige oanfalssiden ferspriede bewust gefaarlike software, mar in protte binne kompromittearre sûnder de kunde of tastimming fan harren eigners.</p>">
+
+<!ENTITY safeb.blocked.phishingPage.title "Rapportearre webferfalsking!">
+<!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishingPage.shortDesc "De webside op <span id='phishing_sitename'/> is rapportearre as in ferfalsking en is blokkearre op basis fan jo befeiligingsynstellingen.">
+<!ENTITY safeb.blocked.phishingPage.longDesc "<p>Webferfalskingen binne makke om brûkers te mislieden en persoanlike of finansjele ynformaasje diele te litten troch boarnen dy't jo miskien fertrouwe nei te meitsjen.</p><p>It ynfieren fan persoanlike ynformaasje op dizze side kin lieden ta dieverij fan identiteitsgegevens of oare fraude.</p>">
