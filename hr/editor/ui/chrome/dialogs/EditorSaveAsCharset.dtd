@@ -40,11 +40,11 @@
 <!-- This button is for the progressive disclosure of additional editing functionality -->
 
 <!-- These strings are for use specifically in the editor's link dialog. -->
-<!ENTITY windowTitle.label "Save And Change Character Encoding">
-<!ENTITY documentTitleTitle.label "Page Title">
-<!ENTITY documentCharsetTitle.label "Character Encoding">
-<!ENTITY documentCharsetDesc.label "Select the character encoding you want to save a document in:">
-<!ENTITY documentExportToText.label "Export to Text">
+<!ENTITY windowTitle.label "Spremi i promjeni kodnu stranicu">
+<!ENTITY documentTitleTitle.label "Naslov stranice">
+<!ENTITY documentCharsetTitle.label "Kodna stranica">
+<!ENTITY documentCharsetDesc.label "Odaberite kodnu stranicu u kojoj želite spremiti dokument:">
+<!ENTITY documentExportToText.label "Izvezi u tekst">
 
 
 
