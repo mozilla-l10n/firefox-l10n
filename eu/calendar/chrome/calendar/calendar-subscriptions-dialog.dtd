@@ -36,11 +36,11 @@
 -->
 <!-- Calendar Subscriptions Dialog -->
 
-<!ENTITY calendar.subscriptions.dialog.title "Egutegi Harpidetza">
-<!ENTITY calendar.subscriptions.dialog.search.label.value "Ondorengoa duten egutegiak erakutsi:">
-<!ENTITY calendar.subscriptions.dialog.search.button.label "Bilatu">
-<!ENTITY calendar.subscriptions.dialog.select.label.value "Aukeratu egutegiak harpidetzeko:">
-<!ENTITY calendar.subscriptions.dialog.subscribe.button.label "Harpidetu">
-<!ENTITY calendar.subscriptions.dialog.unsubscribe.button.label "Harpidetza kendu">
-<!ENTITY calendar.subscriptions.dialog.statusmessage.busy.label "Bilatu...">
-<!ENTITY calendar.subscriptions.dialog.statusmessage.nomatches.label "Ez da aurkitu bat datorrenik.">
+<!ENTITY calendar.subscriptions.dialog.title                            "Egutegi harpidetza">
+<!ENTITY calendar.subscriptions.dialog.search.label.value               "Ondorengoa duten egutegiak erakutsi:">
+<!ENTITY calendar.subscriptions.dialog.search.button.label              "Bilatu">
+<!ENTITY calendar.subscriptions.dialog.select.label.value               "Aukeratu egutegiak harpidetzeko:">
+<!ENTITY calendar.subscriptions.dialog.subscribe.button.label           "Harpidetu">
+<!ENTITY calendar.subscriptions.dialog.unsubscribe.button.label         "Harpidetza kendu">
+<!ENTITY calendar.subscriptions.dialog.statusmessage.busy.label         "Bilatu...">
+<!ENTITY calendar.subscriptions.dialog.statusmessage.nomatches.label    "Ez da aurkitu bat datorrenik.">

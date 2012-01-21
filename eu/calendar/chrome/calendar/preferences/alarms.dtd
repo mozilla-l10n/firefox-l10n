@@ -20,6 +20,7 @@
    -
    - Contributor(s): 
    -   Cédric Corazza <cedric.corazza@wanadoo.fr>
+   -   Philipp Kewisch <mozilla@kewis.ch>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -40,29 +41,29 @@
   -->
 
 
-<!ENTITY pref.alarmgoesoff.label "Alarma bat noiz itzaltzen den:">
+<!ENTITY pref.alarmgoesoff.label "Gogorarazle bat muga-egunean denean:">
 <!ENTITY pref.playasound "Soinu bat jo">
 <!ENTITY pref.calendar.alarms.playsound.accessKey "s">
-<!ENTITY pref.calendar.alarms.sound.useDefault.label "Lehenetsiriko soinua erabili">
-<!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "l">
+<!ENTITY pref.calendar.alarms.sound.useDefault.label "Erabili lehenetsitako soinua">
+<!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "L">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Arakatu…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "A">
 <!ENTITY pref.calendar.alarms.sound.preview.label "Aurreikusi">
-<!ENTITY pref.calendar.alarms.sound.preview.accessKey "I">
-<!ENTITY pref.showalarmbox "Alarma kutxa bat bistarazi">
+<!ENTITY pref.calendar.alarms.sound.preview.accessKey "i">
+<!ENTITY pref.showalarmbox "Erakutsi gogorarazlearen elkarrizketa-koadroa">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "x">
-<!ENTITY pref.missedalarms "Galdutako alarmak bistarazi">
+<!ENTITY pref.missedalarms "Erakutsi galdutako gogorarazpenak">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "m">
-<!ENTITY pref.calendar.alarms.defaults.label "Alarma Lehenespenak">
-<!ENTITY pref.defalarm4events.label "Gertaerentzako lehenetsiriko alarma ezarpenak:">
+<!ENTITY pref.calendar.alarms.defaults.label "Gogorarazleen lehenetsiak">
+<!ENTITY pref.defalarm4events.label "Gertaerentzako lehenetsitako gogorarazle-ezarpenak:">
 <!ENTITY pref.defalarm4events.accesskey "e">
-<!ENTITY pref.defalarm4todos.label "Zereginetarako lehenetsiriko alarma ezarpenak:">
+<!ENTITY pref.defalarm4todos.label "Zereginetarako lehenetsitako gogorarazle-ezarpenak:">
 <!ENTITY pref.defalarm4todos.accesskey "a">
 <!ENTITY pref.alarm.on "Gaitu">
 <!ENTITY pref.alarm.off "Ezgaitu">
-<!ENTITY pref.defalarmlen4events.label "Gertaeraren aurretik alarma jotzeko lehenetsitako denbora:">
+<!ENTITY pref.defalarmlen4events.label "Gertaeren aurretik gogorarazleari ezarriko zaion denbora lehenetsia:">
 <!ENTITY pref.defalarmlen4events.accesskey "u">
-<!ENTITY pref.defalarmlen4todos.label "Zereginaren aurretik alarma jotzeko lehenetsitako denbora:">
-<!ENTITY pref.defalarmlen4todos.accesskey "o">
-<!ENTITY pref.defaultemail.label "Alarmak bidaltzeko lehenetsiriko helbidea:">
-<!ENTITY pref.defaulttext.label "Alarmetako lehenetsiriko testua:">
+<!ENTITY pref.defalarmlen4todos.label "Zereginen aurretik gogorarazleari ezarriko zaion denbora lehentsia:">
+<!ENTITY pref.defalarmlen4todos.accesskey "r">
+<!ENTITY pref.defaultemail.label "Gogorarazleak bidaltzeko lehenetsitako helbidea:">
+<!ENTITY pref.defaulttext.label "Gogorarazleen testu lehenetsia:">

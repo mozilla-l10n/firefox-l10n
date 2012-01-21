@@ -42,141 +42,144 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY calendar.open.file.label "Ireki egutegi fitxategia">
-<!ENTITY calendar.open.file.key "O">
-<!ENTITY calendar.open.file.accesskey "I">
+<!ENTITY calendar.open.file.label                          "Ireki egutegi-fitxategia…">
+<!ENTITY calendar.open.file.key                            "O">
+<!ENTITY calendar.open.file.accesskey                      "I">
 
-<!ENTITY event.edit.event "Editatu hautapena…">
-<!ENTITY event.edit.event.key "E">
-<!ENTITY event.edit.event.accesskey "E">
+<!ENTITY event.edit.event                                  "Editatu hautapena…">
+<!ENTITY event.edit.event.key                              "E">
+<!ENTITY event.edit.event.accesskey                        "E">
 
-<!ENTITY event.delete.event "Ezabatu hautatutako gertaerak">
-<!ENTITY event.delete.event.accesskey "D">
+<!ENTITY event.delete.event                                "Ezabatu hautatutako gertaerak">
+<!ENTITY event.delete.event.accesskey                      "D">
 
-<!ENTITY event.delete.tasks "Ezabatu hautatutako zereginak">
-<!ENTITY event.delete.tasks.accesskey "T">
+<!ENTITY event.delete.tasks                                "Ezabatu hautatutako zereginak">
+<!ENTITY event.delete.tasks.accesskey                      "T">
 
-<!ENTITY calendar.pagesetup.label "Prestatu orria...">
-<!ENTITY calendar.pagesetup.accesskey "u">
+<!ENTITY calendar.pagesetup.label                          "Prestatu orria…">
+<!ENTITY calendar.pagesetup.accesskey                      "u">
 
-<!ENTITY calendar.subscribe.label "Harpidetu urruneko egutegira…">
-<!ENTITY calendar.subscribe.accesskey "R">
+<!ENTITY calendar.subscribe.label                          "Harpidetu urruneko egutegira…">
+<!ENTITY calendar.subscribe.accesskey                      "r">
 
-<!ENTITY calendar.reloadserver.label "Urruneko egutegiak birkargatu">
-<!ENTITY calendar.reloadserver.key "R">
-<!ENTITY calendar.reloadserver.accesskey "R">
+<!ENTITY calendar.synccalendars.label                      "Sinkronizatu egutegiak">
+<!ENTITY calendar.synccalendars.key                        "R">
+<!ENTITY calendar.synccalendars.accesskey                  "S">
 
-<!ENTITY calendar.publish.calendar.label "Egutegia argitaratu...">
-<!ENTITY calendar.publish.calendar.accesskey "g">
-<!ENTITY calendar.publish.selection.label "Hautapena argitaratu…">
-<!ENTITY calendar.publish.selection.accesskey "p">
+<!ENTITY calendar.publish.calendar.label                   "Argitaratu egutegia…">
+<!ENTITY calendar.publish.calendar.accesskey               "g">
+<!ENTITY calendar.publish.selection.label                  "Argitaratu hautapena…">
+<!ENTITY calendar.publish.selection.accesskey              "h">
 
-<!ENTITY calendar.quit.label "Irten">
-<!ENTITY calendar.quit.accesskey "I">
-<!ENTITY calendar.quit.key "Q">
-<!ENTITY calendar.quit.label.mac "Utzi &brandShortName;">
+<!ENTITY calendar.quit.label                               "Irten">
+<!ENTITY calendar.quit.accesskey                           "I">
+<!ENTITY calendar.quit.key                                 "Q">
+<!ENTITY calendar.quit.label.mac                           "Utzi &brandShortName;">
 
-<!ENTITY calendar.exit.label "Irten">
-<!ENTITY calendar.exit.accesskey "i">
+<!ENTITY calendar.exit.label                               "Irten">
+<!ENTITY calendar.exit.accesskey                           "I">
 
-<!ENTITY calendar.undo.label "Desegin">
-<!ENTITY calendar.undo.key "Z">
-<!ENTITY calendar.undo.accesskey "d">
+<!ENTITY calendar.undo.label                               "Desegin">
+<!ENTITY calendar.undo.key                                 "Z">
+<!ENTITY calendar.undo.accesskey                           "D">
 
-<!ENTITY calendar.redo.label "Berregin">
-<!ENTITY calendar.redo.key "Y">
-<!ENTITY calendar.redo.accesskey "r">
+<!ENTITY calendar.redo.label                               "Berregin">
+<!ENTITY calendar.redo.key                                 "Y">
+<!ENTITY calendar.redo.accesskey                           "r">
 
-<!ENTITY calendar.cut.label "Ebaki">
-<!ENTITY calendar.cut.key "X">
-<!ENTITY calendar.cut.accesskey "b">
+<!ENTITY calendar.cut.label                                "Ebaki">
+<!ENTITY calendar.cut.key                                  "X">
+<!ENTITY calendar.cut.accesskey                            "b">
 
-<!ENTITY calendar.copy.label "Kopiatu">
-<!ENTITY calendar.copy.key "C">
-<!ENTITY calendar.copy.accesskey "K">
+<!ENTITY calendar.copy.label                               "Kopiatu">
+<!ENTITY calendar.copy.key                                 "C">
+<!ENTITY calendar.copy.accesskey                           "K">
 
-<!ENTITY calendar.paste.label "Itsatsi">
-<!ENTITY calendar.paste.key "V">
-<!ENTITY calendar.paste.accesskey "I">
+<!ENTITY calendar.paste.label                              "Itsatsi">
+<!ENTITY calendar.paste.key                                "V">
+<!ENTITY calendar.paste.accesskey                          "I">
 
-<!ENTITY calendar.selectall.label "Hautatu dena">
-<!ENTITY calendar.selectall.key "A">
-<!ENTITY calendar.selectall.accesskey "A">
+<!ENTITY calendar.selectall.label                          "Hautatu dena">
+<!ENTITY calendar.selectall.key                            "A">
+<!ENTITY calendar.selectall.accesskey                      "a">
 
-<!ENTITY toolbarsMenu.label "Tresna-barrak">
-<!ENTITY toolbarsMenu.accesskey "T">
+<!ENTITY toolbarsMenu.label                                "Tresna-barrak">
+<!ENTITY toolbarsMenu.accesskey                            "T">
 
-<!ENTITY showStatusBarCmd.label "Egoera-barra">
-<!ENTITY showStatusBarCmd.accesskey "B">
+<!ENTITY showStatusBarCmd.label                            "Egoera-barra">
+<!ENTITY showStatusBarCmd.accesskey                        "b">
 
-<!ENTITY showTaskBoxCmd.label "Zeregin Zerrenda">
-<!ENTITY showTaskBoxCmd.accesskey "Z">
+<!ENTITY showTaskBoxCmd.label                              "Zeregin zerrenda">
+<!ENTITY showTaskBoxCmd.accesskey                          "Z">
 
-<!ENTITY calendar.fullscreen.label "Pantaila osoan">
-<!ENTITY calendar.fullscreen.accesskey "P">
+<!ENTITY calendar.fullscreen.label                         "Pantaila osoan">
+<!ENTITY calendar.fullscreen.accesskey                     "P">
 
-<!ENTITY calendar.addons.label "Gehigarriak">
-<!ENTITY calendar.addons.accesskey "h">
+<!ENTITY calendar.addons.label                             "Gehigarriak">
+<!ENTITY calendar.addons.accesskey                         "h">
 
-<!ENTITY goMenu.label "Joan">
-<!ENTITY goMenu.accesskey "J">
+<!ENTITY goMenu.label                                      "Joan">
+<!ENTITY goMenu.accesskey                                  "J">
 
-<!ENTITY goDateCmd.label "Data batera">
-<!ENTITY goDateCmd.accesskey "D">
+<!ENTITY goDateCmd.label                                   "Data batera">
+<!ENTITY goDateCmd.accesskey                               "D">
 
-<!ENTITY toolsMenu.label "Tresnak">
-<!ENTITY toolsMenu.accesskey "T">
+<!ENTITY toolsMenu.label                                   "Tresnak">
+<!ENTITY toolsMenu.accesskey                               "T">
 
-<!ENTITY errorConsoleCmd.label "Errore kontsola">
-<!ENTITY errorConsoleCmd.accesskey "K">
+<!ENTITY errorConsoleCmd.label                             "Errore kontsola">
+<!ENTITY errorConsoleCmd.accesskey                         "k">
 
-<!ENTITY helpMenu.label "Laguntza">
-<!ENTITY helpMenu.accesskey "L">
+<!ENTITY helpMenu.label                                    "Laguntza">
+<!ENTITY helpMenu.accesskey                                "L">
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
            for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label "Laguntza">
-<!ENTITY helpMenuWin.accesskey "L">
+<!ENTITY helpMenuWin.label                                 "Laguntza">
+<!ENTITY helpMenuWin.accesskey                             "L">
 
-<!ENTITY fileMenu.label "Fitxategia">
-<!ENTITY fileMenu.accesskey "F">
+<!ENTITY fileMenu.label                                    "Fitxategia">
+<!ENTITY fileMenu.accesskey                                "F">
 
-<!ENTITY editMenu.label "Editatu">
-<!ENTITY editMenu.accesskey "E">
+<!ENTITY editMenu.label                                    "Editatu">
+<!ENTITY editMenu.accesskey                                "E">
 
-<!ENTITY optionsCmd.label "Aukerak...">
-<!ENTITY optionsCmd.accesskey "A">
+<!ENTITY optionsCmd.label                                  "Aukerak…">
+<!ENTITY optionsCmd.accesskey                              "A">
 
-<!ENTITY preferencesCmd.label "Hobespenak">
-<!ENTITY preferencesCmd.accesskey "n">
-<!ENTITY preferencesCmdMac.label "Hobespenak...">
-<!ENTITY preferencesCmdMac.commandkey ",">
-<!ENTITY preferencesCmdMac.modifiers "accel">
+<!ENTITY preferencesCmd.label                              "Hobespenak">
+<!ENTITY preferencesCmd.accesskey                          "n">
+<!ENTITY preferencesCmdMac.label                           "Hobespenak…">
+<!ENTITY preferencesCmdMac.commandkey                      ",">
+<!ENTITY preferencesCmdMac.modifiers                       "accel">
 
-<!ENTITY viewMenu.label "Ikusi">
-<!ENTITY viewMenu.accesskey "I">
+<!ENTITY viewMenu.label                                    "Ikusi">
+<!ENTITY viewMenu.accesskey                                "I">
 
-<!ENTITY releaseCmd.label "Bertsio Oharrak">
-<!ENTITY releaseCmd.accesskey "B">
+<!ENTITY releaseCmd.label                                  "Bertsio oharrak">
+<!ENTITY releaseCmd.accesskey                              "B">
 
-<!ENTITY aboutCmd.label "&brandFullName;(r)i buruz">
-<!ENTITY aboutCmd.accesskey "B">
+<!ENTITY aboutCmd.label                                    "&brandFullName;(r)i buruz">
+<!ENTITY aboutCmd.accesskey                                "b">
 
-<!ENTITY updateCmd.label "Arakatu eguneraketen bila…">
-<!ENTITY updateCmd.accesskey "u">
+<!ENTITY updateCmd.label                                   "Arakatu eguneraketen bila…">
+<!ENTITY updateCmd.accesskey                               "u">
+
+<!ENTITY sunbird.export.calendar.label                     "Esportatu egutegia…">
+<!ENTITY sunbird.export.calendar.accesskey                 "E">
 <!-- Mac OS X "Window" menu items -->
 
-<!ENTITY windowMenu.label "Leihoa">
-<!ENTITY minimizeWindow.label "Txikitu">
-<!ENTITY zoomWindow.label "Zooma">
-<!ENTITY minimizeWindow.key "M">
-<!ENTITY bringAllToFront.label "Eraman denak aurrera">
+<!ENTITY windowMenu.label                                  "Leihoa">
+<!ENTITY minimizeWindow.label                              "Txikitu">
+<!ENTITY zoomWindow.label                                  "Zooma">
+<!ENTITY minimizeWindow.key                                "M">
+<!ENTITY bringAllToFront.label                             "Eraman denak aurrera">
 <!-- Mac OS X Application menu items -->
 
-<!ENTITY servicesMenuMac.label "Zerbitzuak">
-<!ENTITY hideThisAppCmdMac.label "&brandShortName; ezkutatu">
-<!ENTITY hideThisAppCmdMac.commandkey "H">
-<!ENTITY hideThisAppCmdMac.modifiers "accel">
-<!ENTITY hideOtherAppsCmdMac.label "Ezkutatu besteak">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
-<!ENTITY showAllAppsCmdMac.label "Erakutsi dena">
+<!ENTITY servicesMenuMac.label                             "Zerbitzuak">
+<!ENTITY hideThisAppCmdMac.label                           "Ezkutatu &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey                      "H">
+<!ENTITY hideThisAppCmdMac.modifiers                       "accel">
+<!ENTITY hideOtherAppsCmdMac.label                         "Ezkutatu besteak">
+<!ENTITY hideOtherAppsCmdMac.commandkey                    "H">
+<!ENTITY hideOtherAppsCmdMac.modifiers                     "accel,alt">
+<!ENTITY showAllAppsCmdMac.label                           "Erakutsi dena">

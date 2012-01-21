@@ -33,21 +33,21 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY wizard.title "Egutegi Berria Sortu">
-<!ENTITY wizard.label "Egutegi berri bat sortu">
-<!ENTITY wizard.description "Zure egutegia kokatu">
+<!ENTITY wizard.title             "Sortu egutegi berria" >
+<!ENTITY wizard.label             "Sortu egutegi berri bat" >
+<!ENTITY wizard.description       "Kokatu zure egutegia" >
 
-<!ENTITY initialpage.description "Zure egutegia zure ordenagailuan gorde edo urruneko sarrera ziurtatzen duen zerbitzari batean gorde daiteke zure lagun edo lankideekin partekatzeko.">
-<!ENTITY initialpage.computer.label "Nire Ordenagailuan">
-<!ENTITY initialpage.network.label "Sarean">
+<!ENTITY initialpage.description    "Zure egutegia zure ordenagailuan gorde edo urruneko sarrera ziurtatzen duen zerbitzari batean gorde daiteke zure lagun edo lankideekin partekatzeko." >
+<!ENTITY initialpage.computer.label  "Nire ordenagailuan">
+<!ENTITY initialpage.network.label  "Sarean">
 
-<!ENTITY locationpage.description "Zure urruneko egutegia eskuratzeko behar diren argibideak ezarri">
-<!ENTITY locationpage.login.description "Aukerakoa: erabiltzaile izen eta pasahitza idatzi">
-<!ENTITY locationpage.username.label "Erabiltzaile izena:">
-<!ENTITY locationpage.password.label "Pasahitza:">
+<!ENTITY locationpage.description         "Ezarri zure urruneko egutegia eskuratzeko behar diren argibideak" >
+<!ENTITY locationpage.login.description   "Aukerakoa: idatzi erabiltzaile-izena eta pasahitza" >
+<!ENTITY locationpage.username.label      "Erabiltzaile-izena:" >
+<!ENTITY locationpage.password.label      "Pasahitza:" >
 
-<!ENTITY custompage.shortdescription "Zure egutegia pertsonalizatu">
-<!ENTITY custompage.longdescription "Zure egutegiari ezizen bat eman eta egutegi honen gertaerak koloreztatu ditzakezu">
+<!ENTITY custompage.shortdescription  "Pertsonalizatu zure egutegia" >
+<!ENTITY custompage.longdescription   "Zure egutegiari ezizen bat eman eta egutegi honen gertaerak koloreztatu ditzakezu" >
 
-<!ENTITY finishpage.shortdescription "Egutegia Sortua">
-<!ENTITY finishpage.longdescription "Zure egutegia sortu izan da">
+<!ENTITY finishpage.shortdescription  "Egutegia sortuta" >
+<!ENTITY finishpage.longdescription   "Zure egutegia sortu egin da" >
