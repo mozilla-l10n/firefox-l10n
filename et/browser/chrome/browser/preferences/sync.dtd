@@ -30,6 +30,8 @@
 <!ENTITY engine.passwords.accesskey      "p">
 <!ENTITY engine.prefs.label              "eelistused">
 <!ENTITY engine.prefs.accesskey          "e">
+<!ENTITY engine.addons.label             "lisad">
+<!ENTITY engine.addons.accesskey         "i">
 
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label          "Arvuti nimi:">

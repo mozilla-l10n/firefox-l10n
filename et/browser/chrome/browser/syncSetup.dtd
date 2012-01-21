@@ -2,7 +2,7 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description    "Tere tulemast! Kui sa pole varem &syncBrand.fullName.label;i kasutanud, siis pead looma uue konto.">
+<!ENTITY setup.pickSetupType.description2   "Tere tulemast! Kui sa pole varem &syncBrand.fullName.label;i kasutanud, siis pead looma uue konto.">
 <!ENTITY button.createNewAccount.label      "Loo uus konto">
 <!ENTITY button.haveAccount.label           "Mul on juba konto olemas">
 
@@ -88,6 +88,8 @@
 <!ENTITY engine.passwords.accesskey         "p">
 <!ENTITY engine.prefs.label                 "eelistused">
 <!ENTITY engine.prefs.accesskey             "e">
+<!ENTITY engine.addons.label                "lisad">
+<!ENTITY engine.addons.accesskey            "i">
 
 <!ENTITY choice2.merge.main.label           "Ühenda selle arvuti andmed &syncBrand.shortName.label;i andmetega">
 <!ENTITY choice2.merge.recommended.label    "Soovitatud:">
