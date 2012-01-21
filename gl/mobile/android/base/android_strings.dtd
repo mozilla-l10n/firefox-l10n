@@ -4,6 +4,11 @@
 <!ENTITY  no_space_to_start_error "Non hai suficiente espazo para iniciar &brandShortName;.">
 <!ENTITY  error_loading_file "Produciuse un erro ao tentar cargar os ficheiros requiridos para executar &brandShortName;">
 
+<!ENTITY  awesomebar_all_pages_title "Sitios favoritos">
+<!ENTITY  awesomebar_bookmarks_title "Marcadores">
+<!ENTITY  awesomebar_history_title "Historial">
+<!ENTITY  awesomebar_search_engine "Buscar por \&quot;&#037;s\&quot;">
+
 <!ENTITY  crash_reporter_title "Informador de erros do &brandShortName;">
 <!ENTITY  crash_message "Fallou o &brandShortName;. As súas lapelas deberían mostrarse na páxina de inicio do &brandShortName; ao reiniciar.">
 <!ENTITY  crash_help_message "Axúdanos a arranxar este problema!">
@@ -19,3 +24,79 @@
 <!ENTITY  launcher_shortcuts_empty "Non se atoparon aplicativos web">
 
 <!ENTITY choose_file "Escoller ficheiro">
+
+<!ENTITY awesomebar_default_text "Introducir busca ou enderezo">
+
+<!ENTITY bookmark "Marcador">
+<!ENTITY bookmark_added "Marcador engadido">
+<!ENTITY bookmark_removed "Marcador eliminado">
+
+<!ENTITY history_today_section "Hoxe">
+<!ENTITY history_yesterday_section "Onte">
+<!ENTITY history_week_section "Hai 7 días">
+<!ENTITY history_older_section "Hai máis de 7 días">
+
+<!ENTITY reload "Recargar">
+<!ENTITY forward "Adiante">
+
+<!ENTITY new_tab "Nova lapela">
+
+<!ENTITY settings "Configuración">
+<!ENTITY settings_title "Configuración">
+<!ENTITY pref_category_general "Xeral">
+<!ENTITY pref_category_privacy "Privacidade e seguranza">
+<!ENTITY pref_category_content "Contido">
+<!ENTITY pref_about_firefox "Sobre o &brandShortName;">
+<!ENTITY pref_do_not_track "Dicirlle aos sitios que non me sigan">
+<!ENTITY pref_telemetry "Enviar os datos de rendemento">
+<!ENTITY pref_remember_signons "Lembrar os contrasinais">
+<!ENTITY pref_cookies "Activar cookies">
+<!ENTITY pref_char_encoding "Mostrar a codificación de caracteres">
+<!ENTITY pref_clear_history "Limpar historial">
+<!ENTITY pref_clear_history_confirm "Eliminarase o historial de navegación">
+<!ENTITY pref_clear_private_data "Limpar os datos privados">
+<!ENTITY pref_clear_private_data_confirm "Elimináranse os parámetros de navegación, incluíndo os contrasinais e as cookies">
+<!ENTITY pref_plugins "Engadidos">
+<!ENTITY pref_plugins_enabled "Activado">
+<!ENTITY pref_plugins_tap_to_play "Pulse para activar">
+<!ENTITY pref_plugins_disabled "Desactivado">
+<!ENTITY pref_text_size "Tamaño do texto">
+<!ENTITY pref_font_size_tiny "Moi pequeno">
+<!ENTITY pref_font_size_small "Pequeno">
+<!ENTITY pref_font_size_medium "Medio">
+<!ENTITY pref_font_size_large "Grande">
+<!ENTITY pref_font_size_xlarge "Moi grande">
+<!ENTITY pref_use_master_password "Usar contrasinal principal">
+
+<!ENTITY quit "Saír">
+
+<!ENTITY addons "Complementos">
+<!ENTITY downloads "Descargas">
+
+<!ENTITY share "Compartir">
+<!ENTITY save_as_pdf "Gardar como PDF">
+
+<!ENTITY contextmenu_open_new_tab "Abrir nunha nova lapela">
+<!ENTITY contextmenu_remove_bookmark "Eliminar">
+<!ENTITY contextmenu_add_to_launcher "Engadir á pantalla de inicio">
+<!ENTITY contextmenu_share "Compartir">
+
+<!ENTITY site_settings_title        "Limpar a configuración do sitio">
+<!ENTITY site_settings_cancel       "Cancelar">
+<!ENTITY site_settings_clear        "Limpar">
+<!ENTITY site_settings_no_settings  "Non hai configuracións para limpar.">
+
+<!ENTITY masterpassword_create_title "Crear contrasinal principal">
+<!ENTITY masterpassword_remove_title "Eliminar contrasinal principal">
+<!ENTITY masterpassword_password "Contrasinal">
+<!ENTITY masterpassword_confirm "Confirmar o contrasinal">
+
+<!ENTITY button_ok "Aceptar">
+<!ENTITY button_cancel "Cancelar">
+
+<!ENTITY abouthome_addons_title "Complementos para o &brandShortName;">
+<!ENTITY abouthome_addons_browse "Examinar todos os complementos do &brandShortName;">
+<!ENTITY abouthome_last_tabs_title "As lapelas da última vez">
+<!ENTITY abouthome_last_tabs_open "Abrir todas as lapelas da última vez">
+<!ENTITY abouthome_top_sites_title "Sitios favoritos">
+<!ENTITY abouthome_top_sites_browse "Examinar todos os sitios favoritos">
