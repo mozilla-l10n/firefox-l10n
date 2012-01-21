@@ -28,6 +28,7 @@
 <!ENTITY forwardTo.label             "kiri edastatakse aadressile">
 <!ENTITY replyWithTemplate.label     "vastatakse malli abil">
 <!ENTITY markMessageRead.label       "märgitakse loetuks">
+<!ENTITY markMessageUnread.label     "märgitakse mitteloetuks">
 <!ENTITY markMessageStarred.label    "lisatakse märgistus">
 <!ENTITY setPriority.label           "prioriteediks määratakse">
 <!ENTITY addTag.label                "kiri sildistatakse">

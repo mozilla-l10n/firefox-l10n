@@ -5,10 +5,15 @@
 <!ENTITY SearchNameOrEmail.label      "Nimi või e-post">
 
 <!ENTITY deleteAddrBookCard.label     "Kustuta">
+<!ENTITY deleteAddrBookCard.accesskey "K">
 <!ENTITY addrBookCardProperties.label "Omadused">
+<!ENTITY addrBookCardProperties.accesskey "m">
 <!ENTITY addtoToFieldMenu.label       "Lisa väljale Saaja">
+<!ENTITY addtoToFieldMenu.accesskey   "L">
 <!ENTITY addtoCcFieldMenu.label       "Lisa väljale Koopia">
+<!ENTITY addtoCcFieldMenu.accesskey   "i">
 <!ENTITY addtoBccFieldMenu.label      "Lisa väljale Pimekoopia">
+<!ENTITY addtoBccFieldMenu.accesskey  "p">
 
 <!ENTITY toButton.label               "Lisa väljale Saaja:">
 <!ENTITY toButton.accesskey           "L">
