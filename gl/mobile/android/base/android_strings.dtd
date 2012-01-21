@@ -75,8 +75,6 @@
 
 <!ENTITY share "Compartir">
 <!ENTITY save_as_pdf "Gardar como PDF">
-<!ENTITY agent_request_desktop "Solicitar sitio do escritorio">
-<!ENTITY agent_request_mobile "Solicitar sitio do móbil">
 
 <!ENTITY contextmenu_open_new_tab "Abrir nunha nova lapela">
 <!ENTITY contextmenu_add_to_launcher "Engadir á pantalla de inicio">
