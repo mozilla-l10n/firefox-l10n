@@ -326,12 +326,6 @@
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip                     "Menüüriba">
 <!ENTITY formatToolbar.tooltip               "Vorminguriba">
-<!ENTITY newToolbarCmd.label                 "Uus">
-<!ENTITY newToolbarCmd.tooltip               "Loo koostajaga uus tühi leht">
-<!ENTITY openToolbarCmd.label                "Ava">
-<!ENTITY openToolbarCmd.tooltip              "Ava kohalik fail">
-<!ENTITY saveToolbarCmd.tooltip              "Salvesta fail kettale">
-<!ENTITY publishToolbarCmd.tooltip           "Laadi fail võrku üles">
 <!ENTITY cutToolbarCmd.tooltip               "Lõika">
 <!ENTITY copyToolbarCmd.tooltip              "Kopeeri">
 <!ENTITY pasteToolbarCmd.tooltip             "Aseta">
