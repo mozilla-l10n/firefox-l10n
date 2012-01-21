@@ -84,11 +84,3 @@
 <!ENTITY publishSettings.label "הגדרות פרסום אתר…">
 <!ENTITY publishSettings.accesskey "פ">
 
-<!-- Toolbar buttons/items -->
-<!ENTITY newToolbarCmd.label "חדש">
-<!ENTITY newToolbarCmd.tooltip "יצירת דף Composer חדש">
-<!ENTITY openToolbarCmd.label "פתיחה">
-<!ENTITY openToolbarCmd.tooltip "פתיחת קובץ מקומי">
-<!ENTITY saveToolbarCmd.tooltip "שמירת קובץ למיקום מקומי">
-<!ENTITY publishToolbarCmd.tooltip "העלאת קובץ למיקום מרוחק">
-
