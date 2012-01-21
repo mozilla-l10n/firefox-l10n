@@ -60,9 +60,8 @@
 <!ENTITY downloads "Download">
 <!ENTITY share "Condividi">
 <!ENTITY save_as_pdf "Salva come PDF">
-<!ENTITY agent_request_desktop "Richiedi versione desktop">
-<!ENTITY agent_request_mobile "Richiedi versione mobile">
 <!ENTITY contextmenu_open_new_tab "Apri in nuova scheda">
+<!ENTITY contextmenu_remove_bookmark "Rimuovi">
 <!ENTITY contextmenu_add_to_launcher "Aggiungi a schermata Home">
 <!ENTITY contextmenu_share "Condividi">
 <!ENTITY site_settings_title "Elimina impostazioni sito">
