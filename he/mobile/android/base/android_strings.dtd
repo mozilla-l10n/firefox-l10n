@@ -72,7 +72,8 @@
 <!ENTITY pref_plugins_enabled "פעיל">
 <!ENTITY pref_plugins_tap_to_play "לחיצה להפעלה">
 <!ENTITY pref_plugins_disabled "מנוטרל">
-<!ENTITY pref_font_size "גודל גופן">
+<!ENTITY pref_text_size "גודל טקסט">
+<!ENTITY pref_font_size_tiny "קטן מאד">
 <!ENTITY pref_font_size_small "קטן">
 <!ENTITY pref_font_size_medium "בינוני">
 <!ENTITY pref_font_size_large "גדול">
@@ -86,10 +87,9 @@
 
 <!ENTITY share "שיתוף">
 <!ENTITY save_as_pdf "שמירה בתור PDF">
-<!ENTITY agent_request_desktop "בקשת אתר שולחני">
-<!ENTITY agent_request_mobile "בקשת אתר מותאם לנייד">
 
 <!ENTITY contextmenu_open_new_tab "פתיחה בלשונית חדשה">
+<!ENTITY contextmenu_remove_bookmark "הסרה">
 <!ENTITY contextmenu_add_to_launcher "הוספה למסך הבית">
 <!ENTITY contextmenu_share "שיתוף">
 
