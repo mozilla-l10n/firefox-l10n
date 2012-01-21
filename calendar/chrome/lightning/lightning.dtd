@@ -78,8 +78,10 @@
 <!ENTITY lightning.toolbar.mail.label "Mail">
 <!ENTITY lightning.toolbar.mail.accesskey "M">
 <!ENTITY lightning.toolbar.calendar.label "Kalender">
+<!ENTITY lightning.toolbar.calendar.tooltip "Skift til fanebladet Kalender">
 <!ENTITY lightning.toolbar.calendar.accesskey "K">
 <!ENTITY lightning.toolbar.task.label "Opgave">
+<!ENTITY lightning.toolbar.task.tooltip "Skift til fanebladet Opgave">
 <!ENTITY lightning.toolbar.task.accesskey "O">
 
 <!-- Toolbar write button -->

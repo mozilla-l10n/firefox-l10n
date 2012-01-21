@@ -250,8 +250,8 @@
 <!ENTITY calendar.context.findcalendar.accesskey "F">
 <!ENTITY calendar.context.deleteserver.label "Slet kalender">
 <!ENTITY calendar.context.deleteserver.accesskey "S">
-<!ENTITY calendar.context.reloadserver.label "Genindlæs fjernkalendere">
-<!ENTITY calendar.context.reloadserver.accesskey "G">
+<!ENTITY calendar.context.synccalendars.label "Synkroniser kalendere">
+<!ENTITY calendar.context.synccalendars.accesskey "y">
 <!ENTITY calendar.context.publish.label "Udgiv hele kalenderen">
 <!ENTITY calendar.context.publish.accesskey "U">
 <!ENTITY calendar.context.export.label "Eksporter kalender…">
