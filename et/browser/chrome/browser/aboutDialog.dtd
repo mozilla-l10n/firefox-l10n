@@ -12,7 +12,7 @@
 <!ENTITY community.exp.middle       " on ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "üleilmne kogukond">
-<!ENTITY community.exp.end          ", kes töötab koos, et hoida internet avatuna, avaliku ja ilma igasuguste piiranguteta ligipääsetavana kõigile.">
+<!ENTITY community.exp.end          ", kes töötab koos, et hoida internet avatuna, avalikuna ja ilma igasuguste piiranguteta ligipääsetavana kõigile.">
 
 <!ENTITY community.start2           "&brandShortName; on loodud ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
