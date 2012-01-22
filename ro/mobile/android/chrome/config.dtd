@@ -1,10 +1,17 @@
 <!--
+# Translator(s):
+#
+# Ursan Marius Bogdan <Creationn@gmail.com>
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
+<!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
-<!ENTITY search.placeholder2    "Search Settings">
+<!ENTITY search.placeholder2    "Setări de căutare">
 <!ENTITY clear.altText          "Curăță">
-<!ENTITY newpref.label2         "Add a New Setting">
+<!ENTITY newpref.label2         "Adaugă o setare nouă">
 
