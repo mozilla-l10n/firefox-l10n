@@ -2,6 +2,7 @@
 # Translator(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# Ursan Marius Bogdan <Creationn@gmail.com>
 #
 -->
 <!--
@@ -10,7 +11,7 @@
 # Alexandru Szasz <alexxed@gmail.com>
 #
 -->
-<!ENTITY search.placeholder     "Preferințe pentru căutare">
+<!ENTITY search.placeholder2    "Setări de căutare">
 <!ENTITY clear.altText          "Curăță">
-<!ENTITY newpref.label          "Adaugă o preferință nouă">
+<!ENTITY newpref.label2         "Adaugă o setare nouă">
 
