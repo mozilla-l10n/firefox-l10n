@@ -25,6 +25,6 @@
 
 # LOCALIZATION NOTE (bookmarks_aboutHome):
 # link title for about:home
-#define bookmarks_aboutHome Firefox Start
+#define bookmarks_aboutHome Firefox la început
 
 #unfilter emptyLines

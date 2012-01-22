@@ -1,67 +1,82 @@
+<!--
+# Translator(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+# mazilu59 <mazilu59@gmail.com>
+# raulmalea <raul.malea@gmail.com>
+# Cristian Silaghi <cristian.silaghi@mozilla.ro>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
-<!ENTITY syncBrand.fullName.label "Firefox Sync">
-<!ENTITY syncBrand.shortName.label "Sync">
+<!ENTITY syncBrand.fullName.label "Sincronizare Firefox">
+<!ENTITY syncBrand.shortName.label "Sincronizare">
 
 <!-- Main titles. -->
 <!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
-<!ENTITY sync.title.connect.label 'Connect to &syncBrand.shortName.label;'>
-<!ENTITY sync.title.pair.label 'Pair a Device'>
+<!ENTITY sync.title.connect.label 'Conectare la &syncBrand.shortName.label;'>
+<!ENTITY sync.title.pair.label 'Împerechează un dispozitiv'>
 
 <!-- J-PAKE Key Screen -->
-<!ENTITY sync.subtitle.connect.label 'To activate your new device, select “Set up &syncBrand.shortName.label;” on the device.'>
-<!ENTITY sync.subtitle.pair.label 'To activate, select “Pair a device” on your other device.'>
+<!ENTITY sync.subtitle.connect.label 'Pentru a vă activa dispozitivul, selectați „Setează &syncBrand.shortName.label;” pe dispozitiv.'>
+<!ENTITY sync.subtitle.pair.label 'Pentru activare, selectați „Împerechează un dispozitiv” pe celălalt dispozitiv.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
-<!ENTITY sync.link.show.label 'Show me how.'>
-<!ENTITY sync.link.nodevice.label 'I don\&apos;t have the device with me…'>
+<!ENTITY sync.link.show.label 'Arată-mi cum.'>
+<!ENTITY sync.link.nodevice.label 'Nu am dispozitivul cu mine…'>
 
 <!-- J-PAKE Waiting Screen -->
-<!ENTITY sync.jpake.subtitle.waiting.label 'Waiting for other device…'>
+<!ENTITY sync.jpake.subtitle.waiting.label 'Se așteaptă după celălalt dispozitiv…'>
 
 <!-- Account Login Screen -->
-<!ENTITY sync.subtitle.account.label 'Enter your &syncBrand.fullName.label; account information'>
-<!ENTITY sync.input.username.label 'Account Name'>
-<!ENTITY sync.input.password.label 'Password'>
-<!ENTITY sync.input.key.label 'Recovery Key'>
-<!ENTITY sync.checkbox.server.label 'Use custom server'>
-<!ENTITY sync.input.server.label 'Server URL'>
+<!ENTITY sync.subtitle.account.label 'Introduceți informațiile despre contul &syncBrand.fullName.label;'>
+<!ENTITY sync.input.username.label 'Nume cont'>
+<!ENTITY sync.input.password.label 'Parolă'>
+<!ENTITY sync.input.key.label 'Cheie de recuperare'>
+<!ENTITY sync.checkbox.server.label 'Folosește un server personalizat'>
+<!ENTITY sync.input.server.label 'Adresa serverului'>
   
 <!-- Setup Fail -->
-<!ENTITY sync.title.fail.label 'Cannot Set Up &syncBrand.shortName.label;'>
-<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; could not connect to the server. Would you like to try again?'>
-<!ENTITY sync.button.tryagain.label 'Try again'>
-<!ENTITY sync.button.manual.label 'Manual Setup'>
-<!ENTITY sync.subtitle.nointernet.label 'No internet connection available.'>
+<!ENTITY sync.title.fail.label 'Nu se poate seta &syncBrand.shortName.label;'>
+<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; nu se poate conecta la server. Doriți să încercați din nou?'>
+<!ENTITY sync.button.tryagain.label 'Încearcă din nou'>
+<!ENTITY sync.button.manual.label 'Setare manuală'>
+<!ENTITY sync.subtitle.nointernet.label 'Nu este disponibilă nicio conexiune la internet.'>
   
 <!-- Setup Success -->
-<!ENTITY sync.title.success.label 'Setup Complete'>
-<!ENTITY sync.subtitle.success.label 'Your data is now being downloaded in the background. You can go to Settings to manage your account.'>
-<!ENTITY sync.settings.label 'Settings'>
-<!ENTITY sync.subtitle.manage.label 'Your &syncBrand.fullName.label; account is already set up. Go to Settings to manage your account.'>
+<!ENTITY sync.title.success.label 'Configurare finalizată'>
+<!ENTITY sync.subtitle.success.label 'Datele vă sunt descărcate acum în fundal. Puteți accesa setările pentru a vă gestiona contul.'>
+<!ENTITY sync.settings.label 'Setări'>
+<!ENTITY sync.subtitle.manage.label 'Contul dumneavoastră &syncBrand.fullName.label; e deja setat. Accesați setările pentru a-l gestiona.'>
 
 <!-- Pair Device -->
-<!ENTITY sync.pair.tryagain.label 'Please try again.'>
+<!ENTITY sync.pair.tryagain.label 'Vă rugăm încercați încă o dată.'>
 
 <!-- Firefox SyncAdapter Settings Screen -->
-<!ENTITY sync.settings.options.label 'Options'>
-<!ENTITY sync.summary.pair.label 'Link another device to your &syncBrand.shortName.label; account'>
+<!ENTITY sync.settings.options.label 'Opțiuni'>
+<!ENTITY sync.summary.pair.label 'Asociați alt dispozitiv cu contul dumneavoastră &syncBrand.shortName.label;'>
 
 <!-- Common text -->
-<!ENTITY sync.button.cancel.label 'Cancel'>
-<!ENTITY sync.button.connect.label 'Connect'>
-<!ENTITY sync.button.ok.label 'OK'>
+<!ENTITY sync.button.cancel.label 'Renunță'>
+<!ENTITY sync.button.connect.label 'Conectare'>
+<!ENTITY sync.button.ok.label 'Bine'>
   
 <!-- Account strings -->
 <!ENTITY sync.account.label.label '&syncBrand.fullName.label;'>
   
 <!-- Bookmark folder strings -->
-<!ENTITY bookmarks.folder.menu.label 'Bookmarks Menu'>
+<!ENTITY bookmarks.folder.menu.label 'Meniu semne de carte'>
 <!ENTITY bookmarks.folder.places.label ''>
-<!ENTITY bookmarks.folder.tags.label 'Tags'>
-<!ENTITY bookmarks.folder.toolbar.label 'Bookmarks Toolbar'>
-<!ENTITY bookmarks.folder.unfiled.label 'Unsorted Bookmarks'>
-<!ENTITY bookmarks.folder.desktop.label 'Desktop Bookmarks'>
-<!ENTITY bookmarks.folder.mobile.label 'Mobile Bookmarks'>
+<!ENTITY bookmarks.folder.tags.label 'Etichete'>
+<!ENTITY bookmarks.folder.toolbar.label 'Bara pentru semne de carte'>
+<!ENTITY bookmarks.folder.unfiled.label 'Semne de carte nesortate'>
+<!ENTITY bookmarks.folder.desktop.label 'Semne de carte de pe desktop'>
+<!ENTITY bookmarks.folder.mobile.label 'Semne de carte de pe mobil'>
 
 <!-- Notification strings -->
-<!ENTITY sync.notification.oneaccount.label 'Only one &syncBrand.fullName.label; account is supported.'>
+<!ENTITY sync.notification.oneaccount.label 'E suportat doar un cont &syncBrand.fullName.label;.'>

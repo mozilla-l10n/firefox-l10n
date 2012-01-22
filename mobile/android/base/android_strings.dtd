@@ -71,10 +71,10 @@
 <!ENTITY pref_clear_history_confirm "Istoricul navigării va fi șters">
 <!ENTITY pref_clear_private_data "Curăță datele private">
 <!ENTITY pref_clear_private_data_confirm "Setările programului, inclusiv parole și cookie-uri vor fi șterse">
-<!ENTITY pref_plugins "Plugins">
-<!ENTITY pref_plugins_enabled "Enabled">
-<!ENTITY pref_plugins_tap_to_play "Tap to play">
-<!ENTITY pref_plugins_disabled "Disabled">
+<!ENTITY pref_plugins "Module">
+<!ENTITY pref_plugins_enabled "Activat">
+<!ENTITY pref_plugins_tap_to_play "Apăsați pentru redare">
+<!ENTITY pref_plugins_disabled "Dezactivat">
 <!ENTITY pref_font_size "Mărime font">
 <!ENTITY pref_font_size_small "Mic">
 <!ENTITY pref_font_size_medium "Mediu">
