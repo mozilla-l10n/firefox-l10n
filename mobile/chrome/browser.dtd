@@ -7,6 +7,7 @@
 <!ENTITY go.label              "Ugrás">
 <!ENTITY star.label            "Csillag">
 
+<!ENTITY showTabs.label        "Lapok megjelenítése">
 <!ENTITY newtab.label          "Új lap">
 <!ENTITY closetab.label        "Lap bezárása">
 
@@ -15,6 +16,7 @@
 <!ENTITY copyAll.label         "Mindet másolja">
 <!ENTITY copylink.label        "Hivatkozás címének másolása">
 <!ENTITY paste.label           "Beillesztés">
+<!ENTITY pasteAndGo.label      "Beillesztés és ugrás">
 <!ENTITY delete.label          "Törlés">
 <!ENTITY selectAll.label       "Minden kijelölése">
 <!ENTITY noSuggestions.label   "(Nincs javaslat)">
@@ -67,6 +69,7 @@
 <!ENTITY bookmarkPopup.label       "Oldal könyvjelzőzve">
 <!ENTITY bookmarkRemove.label      "Eltávolítás">
 <!ENTITY bookmarkEdit.label        "Szerkesztés">
+<!ENTITY bookmarkShortcut.label    "Kezdőképernyőhöz adás">
 
 <!ENTITY identity.unverifiedsite2 "Ez a webhely nem szolgáltat magáról azonosító információkat.">
 <!ENTITY identity.connectedTo2 "Kapcsolódva:">
@@ -90,8 +93,11 @@
 <!ENTITY consoleErrColumn.label    "Oszlop:">
 
 <!ENTITY contextOpenInNewTab.label    "Megnyitás új lapon">
-<!ENTITY contextSaveLink.label        "Hivatkozás mentése">
 <!ENTITY contextSaveImage.label       "Kép mentése">
+<!ENTITY contextCopyLink.label        "Hivatkozás másolása">
+<!ENTITY contextCopyEmail.label       "E-mail cím másolása">
+<!ENTITY contextCopyPhone.label       "Telefonszám másolása">
+<!ENTITY contextCopyImageLocation.label       "Kép címének másolása">
 <!ENTITY contextShareLink.label       "Hivatkozás megosztása">
 <!ENTITY contextShareImage.label      "Kép megosztása">
 <!ENTITY contextBookmarkLink.label    "Hivatkozás könyvjelzőzése">
@@ -102,6 +108,7 @@
 <!ENTITY contextFullScreen.label      "Teljes képernyős üzemmód">
 <!ENTITY contextEditBookmark.label    "Szerkesztés">
 <!ENTITY contextRemoveBookmark.label  "Eltávolítás">
+<!ENTITY contextShortcutBookmark.label "Kezdőképernyőhöz adás">
 
 <!ENTITY pageactions.saveas.pdf      "Mentés PDF-ként">
 <!ENTITY pageactions.share.page      "Oldal megosztása">

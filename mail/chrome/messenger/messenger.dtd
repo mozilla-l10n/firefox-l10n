@@ -23,8 +23,10 @@
 <!ENTITY newVirtualFolderCmd.accesskey "k">
 <!ENTITY newOtherAccountsCmd.label "Más fiókok...">
 <!ENTITY newOtherAccountsCmd.accesskey "f">
-<!ENTITY newEmailAccountCmd.label "Postafiók...">
-<!ENTITY newEmailAccountCmd.accesskey "P">
+<!ENTITY newCreateEmailAccountCmd.label "Új postafiók létrehozása...">
+<!ENTITY newCreateEmailAccountCmd.accesskey "o">
+<!ENTITY newExistingEmailAccountCmd.label "Meglévő postafiók...">
+<!ENTITY newExistingEmailAccountCmd.accesskey "M">
 <!ENTITY openMessageFileCmd.label "Mentett üzenet megnyitása...">
 <!ENTITY openMessageFileCmd.accesskey "e">
 <!ENTITY openAttachmentCmd.label "Mellékletek">
@@ -119,6 +121,8 @@
 <!ENTITY redoDefaultCmd.accesskey "j">
 
 <!-- View Menu -->
+<!ENTITY menubarCmd.label "Menüsor">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showMessengerToolbarCmd.label "Levelező eszköztár">
 <!ENTITY showMessengerToolbarCmd.accesskey "L">
 <!ENTITY customizeToolbar.label "Testreszabás...">
@@ -132,6 +136,8 @@
 <!ENTITY messagePaneWide.accesskey "S">
 <!ENTITY messagePaneVertical.label "Függőleges nézet">
 <!ENTITY messagePaneVertical.accesskey "F">
+<!ENTITY showFolderPaneCmd.label "Mappa ablaktábla">
+<!ENTITY showFolderPaneCmd.accesskey "M">
 <!ENTITY showMessageCmd.label "Üzenetablak">
 <!ENTITY showMessageCmd.accesskey "Ü">
 
@@ -224,6 +230,8 @@
 <!ENTITY bodySanitized.accesskey "E">
 <!ENTITY bodyAsPlaintext.label "Normál szöveg">
 <!ENTITY bodyAsPlaintext.accesskey "S">
+<!ENTITY bodyAllParts.label "Minden elem a levéltörzsből">
+<!ENTITY bodyAllParts.accesskey "M">
 
 <!ENTITY bodyMenuFeed.label "Hír üzenettörzse, mint">
 <!ENTITY bodyMenuFeed.accesskey "H">
@@ -267,6 +275,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageSourceCmd.label "Üzenet forrása">
 <!ENTITY pageSourceCmd.accesskey "f">
 <!ENTITY pageSourceCmd.key "u">
+<!ENTITY getNewMessagesCmd.key "y">
+<!ENTITY getAllNewMessagesCmd.key "Y">
 
 <!-- Search Menu -->
 <!ENTITY findMenu.label "Keresés">
@@ -496,12 +506,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY previousButton.label "Előző">
 <!ENTITY backButton1.label "Vissza">
 <!ENTITY goForwardButton1.label "Előre">
+<!ENTITY deleteItem.title "Törlés">
 <!ENTITY deleteButton.label "Törlés">
 <!ENTITY undeleteButton.label "Visszaállítás">
 <!ENTITY markButton.label "Megjelölés">
 <!ENTITY printButton.label "Nyomtatás">
 <!ENTITY stopButton.label "Leállítás">
 <!ENTITY throbberItem.title "Aktivitásjelző">
+<!ENTITY junkItem.title "Szemét">
 <!ENTITY junkButton.label "Szemét">
 <!ENTITY notJunkButton.label "Nem szemét">
 <!ENTITY addressBookButton.label "Címjegyzék">
@@ -548,7 +560,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderSizeColumn.label "Méret">
 
 <!-- Folder Pane Context Menu -->
-<!ENTITY folderContextGetMessages.label "Üzenetek letöltése ">
+<!ENTITY folderContextGetMessages.label "Üzenetek letöltése">
 <!ENTITY folderContextGetMessages.accesskey "z">
 <!ENTITY folderContextOpenNewWindow.label "Megnyitás">
 <!ENTITY folderContextOpenNewWindow.accesskey "n">

@@ -16,6 +16,7 @@
 <!ENTITY attachMenu.accesskey "t">
 <!ENTITY attachFileCmd.label "Fájlok...">
 <!ENTITY attachFileCmd.accesskey "F">
+<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachPageCmd.label "Weboldal...">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -92,6 +93,8 @@
 <!ENTITY viewMenu.accesskey "N">
 <!ENTITY viewToolbarsMenuNew.label "Eszköztárak"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "E"> 
+<!ENTITY menubarCmd.label "Menüsor">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showCompositionToolbarCmd.label "Szerkesztés eszköztár">
 <!ENTITY showCompositionToolbarCmd.accesskey "z">
 <!ENTITY showFormattingBarCmd.label "Formázás eszköztár">

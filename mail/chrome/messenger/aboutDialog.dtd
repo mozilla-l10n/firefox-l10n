@@ -62,22 +62,4 @@
 <!ENTITY channel.description.start  "Jelenleg a(z) ">
 <!ENTITY channel.description.end    " frissítési csatornát használja.">
 
-<!ENTITY channel.change             "Változtatás">
-
-<!ENTITY channel.release.description       "Élvezze a kipróbált és letesztelt végső kiadást a több százmillió felhasználóval együtt. Nem érheti meglepetés internetezés közben, a böngésző gyors, könnyen testreszabható és támogatja a legújabb webes technológiákat.">
-<!ENTITY channel.beta.description          "Próbálja ki a legújabb, többé-kevésbé stabil funkciókat. Jelezzen vissza, hogy finomítani és csiszolni tudjunk ezeken a végleges kiadás előtt.">
-<!ENTITY channel.aurora.description        "Próbálja ki a legújabb, izgalmas fejlesztéseket. Ezek instabilak is lehetnek, bátor embereknek valók. Jelezzen vissza a funkciókkal és a teljesítménnyel kapcsolatban, hogy eldönthessük, hogy mi kerüljön be a végleges kiadásba.">
-
-<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
-     channel.selector.end create one sentence, with a channel selection menulist instered in between.
-     This is all in one line, so try to make the localized text short.
-     example: Switch to the [Stable] update channel. -->
-<!ENTITY channel.selector.start          "Átváltás a(z)">
-<!ENTITY channel.selector.end            "frissítési csatornára.">
-
-<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
-     to a new update channel and starts the application update process. -->
-<!ENTITY channel.selector.applyButton    "OK és frissítés">
-<!ENTITY channel.selector.cancelButton   "Mégse">
-
 <!ENTITY cmdCloseMac.commandKey "w">

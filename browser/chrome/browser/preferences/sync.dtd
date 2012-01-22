@@ -13,10 +13,11 @@
 <!ENTITY manageAccount.label          "Fiók kezelése">
 <!ENTITY manageAccount.accesskey      "F">
 <!ENTITY viewQuota.label              "Kvóta megtekintése">
-<!ENTITY changePassword.label         "Jelszócsere">
-<!ENTITY mySyncKey.label              "Saját Sync-kulcs">
-<!ENTITY resetSync.label              "Sync alaphelyzetbe">
-<!ENTITY addDevice.label              "Eszköz hozzáadása">
+<!ENTITY changePassword2.label        "Jelszó megváltoztatása...">
+<!ENTITY myRecoveryKey.label          "Saját helyreállítókulcs">
+<!ENTITY resetSync2.label             "Sync alaphelyzet...">
+
+<!ENTITY pairDevice.label             "Eszköz párosítása">
 
 <!ENTITY syncMy.label               "Szinkronizálandó">
 <!ENTITY engine.bookmarks.label     "Könyvjelzők">
@@ -33,7 +34,7 @@
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label       "Számítógép neve:">
 <!ENTITY syncComputerName.accesskey   "S">
-<!ENTITY deactivateDevice.label       "Eszköz deaktiválása">
+<!ENTITY unlinkDevice.label           "Eszköz deaktiválása">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "A szolgáltatás feltételei">
