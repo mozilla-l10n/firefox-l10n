@@ -49,3 +49,7 @@
 <!ENTITY pref.defaultlength.accesskey "S">
 <!ENTITY pref.defaultsnoozelength.label "Standard lengde på pause:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "a">
+
+<!ENTITY pref.accessibility.label "Tilgjenge" >
+<!ENTITY pref.systemcolors.label "Optimaliser fargar for tilgjenge" >
+<!ENTITY pref.systemcolors.accesskey "O">
