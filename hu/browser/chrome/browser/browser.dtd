@@ -90,6 +90,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "E">
 <!ENTITY fullScreenExit.label "Kilépés a teljes képernyős módból">
 <!ENTITY fullScreenExit.accesskey "K">
+<!ENTITY domFullScreenWarning.label "A teljes képernyős mód elhagyásához nyomja meg az ESC billentyűt">
 
 <!ENTITY closeWindow.label "Ablak bezárása">
 <!ENTITY closeWindow.accesskey "A">
@@ -111,6 +112,8 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "Előre">
 <!ENTITY forwardCmd.accesskey         "E">
 <!ENTITY forwardButton.tooltip        "Ugrás a következő oldalra">
+<!ENTITY backForwardButtonMenu.tooltip "Jobb kattintás vagy lehúzás az előzményekhez">
+<!ENTITY backForwardButtonMenuMac.tooltip "Lehúzás az előzményekhez">
 <!ENTITY reloadCmd.label              "Frissítés">
 <!ENTITY reloadCmd.accesskey          "r">
 <!ENTITY reloadButton.tooltip         "Aktuális oldal újratöltése">
@@ -192,6 +195,9 @@ can reach it easily. -->
 <!ENTITY inspectMenu.accesskey        "V">
 <!ENTITY inspectMenu.commandkey       "I">
 
+<!ENTITY inspectContextMenu.label     "Elem vizsgálata">
+<!ENTITY inspectContextMenu.accesskey "E">
+
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -207,9 +213,12 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectPanelTitle.label      "HTML">
-<!ENTITY inspectButton.label          "Vizsgálat">
-<!ENTITY inspectButton.accesskey      "V">
+<!ENTITY inspectPanelTitle.label        "HTML">
+<!ENTITY inspectButton.label            "Vizsgálat">
+<!ENTITY inspectButton.accesskey        "V">
+<!ENTITY inspectCloseButton.tooltiptext "Vizsgáló bezárása">
+<!ENTITY inspectStyleButton.label     "Stílus">
+<!ENTITY inspectStyleButton.accesskey "S">
 
 <!ENTITY getMoreDevtoolsCmd.label        "További eszközök letöltése">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "T">
@@ -308,6 +317,7 @@ can reach it easily. -->
   Mac:  Cmd+K (cross platform binding)
         Cmd+Opt+F (platform convention)
   Win:  Ctrl+K (cross platform binding)
+        Ctrl+E (IE compat)
 
   We support Ctrl+K on all platforms now and advertise it in the menu since it is
   our standard - it is a "safe" choice since it is near no harmful keys like "W" as
@@ -318,6 +328,7 @@ can reach it easily. -->
 
  -->
 <!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
 <!ENTITY tabView.commandkey           "e">
@@ -425,7 +436,12 @@ can reach it easily. -->
 <!ENTITY mediaHideControls.accesskey "V">
 <!ENTITY videoFullScreen.label       "Teljes képernyős üzemmód">
 <!ENTITY videoFullScreen.accesskey   "T">
-
+<!ENTITY videoSaveImage.label        "Pillanatkép mentése...">
+<!ENTITY videoSaveImage.accesskey    "P">
+<!ENTITY videoShowStats.label        "Statisztika megjelenítése">
+<!ENTITY videoShowStats.accesskey    "S">
+<!ENTITY videoHideStats.label        "Statisztika elrejtése">
+<!ENTITY videoHideStats.accesskey    "t">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -488,7 +504,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Alap oldalstílus">
 <!ENTITY pageStylePersistentOnly.accesskey "A">
 
-<!ENTITY pageReportIcon.tooltip            "Felugró ablakok tiltási beállításainak módosítása">
+<!ENTITY pageReportIcon.tooltip            "Felugró ablakok tiltási beállításainak módosítása ennél a webhelynél">
 
 <!ENTITY allowPopups.accesskey "f">
 <!-- On Windows we use the term "Options" to describe settings, but

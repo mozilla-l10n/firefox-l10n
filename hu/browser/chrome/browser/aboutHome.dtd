@@ -18,3 +18,6 @@
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "A Firefox tetszés szerint testreszabható. <a>Válogasson a több ezer kiegészítő közül</a>.">
+
+<!ENTITY abouthome.syncSetup.label   "Szinkronizálás beállítása">
+<!ENTITY abouthome.pairDevice.label  "Eszköz párosítása">

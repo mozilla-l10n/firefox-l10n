@@ -287,7 +287,7 @@
 
 <!ENTITY calendar.alarm.snoozefor.label             "Szundi" >
 <!ENTITY calendar.alarm.snoozeallfor.label          "Minden szundi" >
-<!ENTITY calendar.alarm.title.label                 "Értesítés a Naptártól" >
+<!ENTITY calendar.alarm.title.label                 "Naptáremlékeztetők" >
 <!ENTITY calendar.alarm.dismiss.label               "Eltüntetés" >
 <!ENTITY calendar.alarm.dismissall.label            "Mindet eltünteti" >
 
@@ -321,8 +321,8 @@
 <!ENTITY calendarproperties.refreshInterval.manual.label   "Kézzel">
 <!ENTITY calendarproperties.name.label                     "Név:">
 <!ENTITY calendarproperties.readonly.label                 "Csak olvasható">
-<!ENTITY calendarproperties.firealarms.label               "Riasztások megjelenítése">
-<!ENTITY calendarproperties.cache.label                    "Gyorsítótár (KÍSÉRLETI)">
+<!ENTITY calendarproperties.firealarms.label               "Emlékeztetők megjelenítése">
+<!ENTITY calendarproperties.cache2.label                   "Gyorsítótár">
 <!ENTITY calendarproperties.enabled.label                  "Naptár bekapcsolása">
 <!ENTITY calendarproperties.forceDisabled.label            "A naptár szolgáltatója nem található. Ez gyakran előfordul, ha letilt vagy eltávolít egyes kiegészítőket.">
 <!ENTITY calendarproperties.unsubscribe.label              "Leiratkozás">
