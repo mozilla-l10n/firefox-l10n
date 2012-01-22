@@ -71,11 +71,12 @@
 <!ENTITY pref_clear_history_confirm "Istoricul navigării va fi șters">
 <!ENTITY pref_clear_private_data "Curăță datele private">
 <!ENTITY pref_clear_private_data_confirm "Setările programului, inclusiv parole și cookie-uri vor fi șterse">
-<!ENTITY pref_enable_plugins "Activează plugin-uri">
-<!ENTITY pref_enable_plugins_yes "Da">
-<!ENTITY pref_enable_plugins_tap_to_play "Apăsați pentru redare">
-<!ENTITY pref_enable_plugins_no "Nu">
-<!ENTITY pref_font_size "Mărime font">
+<!ENTITY pref_plugins "Module">
+<!ENTITY pref_plugins_enabled "Activat">
+<!ENTITY pref_plugins_tap_to_play "Apăsați pentru redare">
+<!ENTITY pref_plugins_disabled "Dezactivat">
+<!ENTITY pref_text_size "Mărime text">
+<!ENTITY pref_font_size_tiny "Foarte mică">
 <!ENTITY pref_font_size_small "Mic">
 <!ENTITY pref_font_size_medium "Mediu">
 <!ENTITY pref_font_size_large "Mare">
@@ -89,10 +90,9 @@
 
 <!ENTITY share "Împărtășește">
 <!ENTITY save_as_pdf "Salvează ca PDF">
-<!ENTITY agent_request_desktop "Cere versiunea completă">
-<!ENTITY agent_request_mobile "Cere versiunea mobilă">
 
 <!ENTITY contextmenu_open_new_tab "Deschide în filă nouă">
+<!ENTITY contextmenu_remove_bookmark "Elimină">
 <!ENTITY contextmenu_add_to_launcher "Adaugă la ecranul principal">
 <!ENTITY contextmenu_share "Împărtășește">
 
