@@ -1,4 +1,4 @@
-<!ENTITY sanitizeDialog.title "Ачысціць прыватныя даныя">
+<!ENTITY sanitizeDialog.title "Ачысціць асабістыя здаткі">
 <!ENTITY sanitizeItems.label "Ачысціць наступныя адзінкі зараз:">
 <!ENTITY itemHistory.label "Гісторыю азірання">
 <!ENTITY itemHistory.accesskey "а">
@@ -18,4 +18,4 @@
 <!ENTITY itemPasswords.accesskey "п">
 <!ENTITY itemSessions.label "Апазнаныя сэсіі">
 <!ENTITY itemSessions.accesskey "с">
-<!ENTITY sanitizeButton.label "Ачысціць прыватныя даныя зараз">
+<!ENTITY sanitizeButton.label "Ачысціць асабістыя здаткі зараз">

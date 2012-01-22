@@ -1,5 +1,5 @@
 <!ENTITY accountSetupTitle.label "Наладка &syncBrand.fullName.label;">
-<!ENTITY setup.pickSetupType.description "Сардэчна запрашаем! Калі вы не ўжывалі &syncBrand.fullName.label; раней, вы мусіце стварыць новы рахунак.">
+<!ENTITY setup.pickSetupType.description2 "Калі ласка! Калі вы ніколі не карысталіся &syncBrand.fullName.label; раней, вы мусіце стварыць новы рахунак.">
 <!ENTITY button.createNewAccount.label "Стварыць новы рахунак">
 <!ENTITY button.haveAccount.label "Я маю рахунак">
 <!ENTITY setup.choicePage.title.label "Ужывалі &syncBrand.fullName.label; раней?">
@@ -68,6 +68,8 @@
 <!ENTITY engine.passwords.accesskey "П">
 <!ENTITY engine.prefs.label "Перавагі">
 <!ENTITY engine.prefs.accesskey "в">
+<!ENTITY engine.addons.label "Дадаткі">
+<!ENTITY engine.addons.accesskey "Д">
 <!ENTITY choice2.merge.main.label "Зліць усе здаткі на гэтым кампутары з маімі здаткамі &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Раіцца:">
 <!ENTITY choice2.client.main.label "Замяніць усе здаткі на гэтым кампутары маімі здаткамі &syncBrand.shortName.label;">

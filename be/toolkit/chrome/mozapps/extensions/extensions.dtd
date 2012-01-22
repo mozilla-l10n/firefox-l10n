@@ -1,5 +1,6 @@
 <!ENTITY addons.windowTitle "Кіраўнік дадаткаў">
 <!ENTITY search.placeholder "Пошук усіх дадаткаў">
+<!ENTITY search.commandkey "f">
 <!ENTITY loading.label "Загрузка…">
 <!ENTITY listEmpty.installed.label "У вас няма ніводнага ўсталяванага дадатку гэтага тыпу">
 <!ENTITY listEmpty.availableUpdates.label "Абнаўленні не знойдзеныя">
@@ -98,7 +99,7 @@
 <!ENTITY detail.home "Хатняя старонка">
 <!ENTITY detail.repository "Профіль дадатка">
 <!ENTITY detail.size "Памер">
-<!ENTITY detail.checkForUpdates.label "Праверыць, ці існуюць абнаўленні">
+<!ENTITY detail.checkForUpdates.label "Знайсці абнаўленні">
 <!ENTITY detail.checkForUpdates.accesskey "н">
 <!ENTITY detail.checkForUpdates.tooltip "Праверыць, ці існуюць абнаўленні гэтага дадатку">
 <!ENTITY detail.showPreferencesWin.label "Наладжванні">

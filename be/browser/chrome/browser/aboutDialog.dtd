@@ -1,9 +1,16 @@
 <!ENTITY aboutDialog.title "Пра &brandFullName;">
+<!ENTITY warningDesc.version "&brandShortName; доследны і можа быць няўстойлівым.">
+<!ENTITY warningDesc.telemetry "Ён самастойна дасылае выпрабоўныя звесткі да &vendorShortName;, каб дапамагчы зрабіць &brandShortName; лепшым.">
+<!ENTITY community.exp.start "">
+<!ENTITY community.exp.mozillaLink "&vendorShortName;">
+<!ENTITY community.exp.middle " — ">
+<!ENTITY community.exp.creditsLink "сусветнае згуртаванне">
+<!ENTITY community.exp.end ", якое працуе разам, каб захаваць Сеціва адкрытым, прылюдным і даступным кожнаму.">
 <!ENTITY community.start2 "&brandShortName; распрацаваны ">
 <!ENTITY community.mozillaLink "&vendorShortName;">
 <!ENTITY community.middle2 ", ">
 <!ENTITY community.creditsLink "сусветным згуртаваннем">
-<!ENTITY community.end2 ", якое працуе разам, каб зрабіць Інтэрнэт лепшым. Мы верым, што Інтэрнэт павінны быць адкрытым, прылюдным і даступным кожнаму без любых абмежаванняў.">
+<!ENTITY community.end3 ", якое працуе разам, каб захаваць Сеціва адкрытым, прылюдным і даступным кожнаму.">
 <!ENTITY contribute.start "Цікава?">
 <!ENTITY contribute.getInvolvedLink "Уцягвайцеся!">
 <!ENTITY contribute.end "">

@@ -23,6 +23,7 @@
 <!ENTITY forwardTo.label "Накіраваць ліст да">
 <!ENTITY replyWithTemplate.label "Адказаць паводле ўзору">
 <!ENTITY markMessageRead.label "Пазначыць прачытаным">
+<!ENTITY markMessageUnread.label "Пазначыць непрачытаным">
 <!ENTITY markMessageStarred.label "Дадаць зорку">
 <!ENTITY setPriority.label "Прызначыць прыярытэт">
 <!ENTITY addTag.label "Дадаць метку да ліста">

@@ -11,20 +11,18 @@
 # for the specific language governing rights and limitations under the
 # License.
 #
-# The Original Code is mozilla.org code.
+# The Original Code is the Firefox browser.
 #
 # The Initial Developer of the Original Code is
-# Netscape Communications Corporation.
-# Portions created by the Initial Developer are Copyright (C) 2002
+# Benjamin Smedberg <bsmedberg@covad.net>
+# Portions created by the Initial Developer are Copyright (C) 2004
 # the Initial Developer. All Rights Reserved.
 #
 # Contributor(s):
-#   Srilatha Moturi <srilatha@netscape.com>
-#   
 #
 # Alternatively, the contents of this file may be used under the terms of
-# either of the GNU General Public License Version 2 or later (the "GPL"),
-# or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+# either the GNU General Public License Version 2 or later (the "GPL"), or
+# the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
 # in which case the provisions of the GPL or the LGPL are applicable instead
 # of those above. If you wish to allow use of your version of this file only
 # under the terms of either the GPL or the LGPL, and not to allow others to
@@ -35,8 +33,8 @@
 # the terms of any one of the MPL, the GPL or the LGPL.
 #
 # ***** END LICENSE BLOCK *****
-comm4xImportName = Communicator 4.x
-2001 = Імпарт мясцовай пошты з Communicator 4.x.
-2002 = Мясцовыя лісты былі паспяхова імпартаваны з %S
-2003 = Здарылася ўнутраная памылка. Імпартаванне пацярпела няўдачу. Паспрабуйце імпартаваць зноў.
-2004 = Здарылася памылка ў час імпартавання лістоў з %S. Лісты не імпартаваны. Павялічце свабоднае месца на дыску і паспрабуйце зноў.
+
+#filter substitution
+
+pref("general.useragent.locale", "@AB_CD@");
+pref("browser.fixup.alternate.suffix", ".be");

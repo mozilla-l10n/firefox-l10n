@@ -3,8 +3,8 @@
 <!ENTITY importFromNonWin.label "Імпартаваць перавагі, наладжванні рахункаў, адрасную кнігу, сіты і іншыя здаткі з:">
 <!ENTITY importFromNothing.label "Не імпартаваць нічога">
 <!ENTITY importFromNothing.accesskey "н">
-<!ENTITY importFromSeamonkey2.label "Netscape 6, 7, Mozilla 1.x або SeaMonkey">
-<!ENTITY importFromSeamonkey2.accesskey "s">
+<!ENTITY importFromSeamonkey3.label "SeaMonkey 2 або навейшы">
+<!ENTITY importFromSeamonkey3.accesskey "S">
 <!ENTITY importFromOExpress.label "Outlook Express">
 <!ENTITY importFromOExpress.accesskey "u">
 <!ENTITY importFromOutlook.label "Outlook">
