@@ -55,11 +55,12 @@
 <!ENTITY pref_clear_history_confirm "Bus išvalytas naršymo žurnalas">
 <!ENTITY pref_clear_private_data "Valyti privačius duomenis">
 <!ENTITY pref_clear_private_data_confirm "Bus išvalytos naršymo nuostatos, tarp kurių – įrašyti slaptažodžiai ir slapukai">
-<!ENTITY pref_enable_plugins "Leisti papildinius">
-<!ENTITY pref_enable_plugins_yes "Taip">
-<!ENTITY pref_enable_plugins_tap_to_play "Bakstelėkite, kad būtų paleistas papildinys">
-<!ENTITY pref_enable_plugins_no "Ne">
-<!ENTITY pref_font_size "Šriftų dydžiai">
+<!ENTITY pref_plugins "Papildiniai">
+<!ENTITY pref_plugins_enabled "Leidžiami">
+<!ENTITY pref_plugins_tap_to_play "Leidžiami bakstelėjus">
+<!ENTITY pref_plugins_disabled "Neleidžiami">
+<!ENTITY pref_text_size "Šriftų dydžiai">
+<!ENTITY pref_font_size_tiny "Ypač maži">
 <!ENTITY pref_font_size_small "Maži">
 <!ENTITY pref_font_size_medium "Vidutiniai">
 <!ENTITY pref_font_size_large "Dideli">
@@ -73,10 +74,9 @@
 
 <!ENTITY share "Dalintis tinklalapiu">
 <!ENTITY save_as_pdf "Įrašyti PDF formatu">
-<!ENTITY agent_request_desktop "Prašyti svetainės staliniam kompiuteriui">
-<!ENTITY agent_request_mobile "Prašyti svetainės mobiliajam įrenginiui">
 
 <!ENTITY contextmenu_open_new_tab "Atverti naujoje kortelėje">
+<!ENTITY contextmenu_remove_bookmark "Pašalinti">
 <!ENTITY contextmenu_add_to_launcher "Įtraukti į pradžios ekraną">
 <!ENTITY contextmenu_share "Dalintis">
 
