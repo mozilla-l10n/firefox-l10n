@@ -1,0 +1,17 @@
+<!ENTITY aboutHome.header "<span>&brandShortName;: </span><span id='header-suffix'>У пачатку</span>">
+<!ENTITY aboutHome.recentTabs "Вашы апошнія ўстаўкі">
+<!ENTITY aboutHome.remoteTabs "Устаўкі з вашых іншых кампутараў">
+<!ENTITY aboutHome.recommendedAddons2 "Дадаткі для вашага &brandShortName;">
+<!ENTITY aboutHome.giveFeedback "Падаць водгук">
+<!ENTITY aboutHome.getHelp "Даведка">
+<!ENTITY aboutHome.footerWidth "12em">
+<!ENTITY aboutHome.openAllTabs "Адкрыць усе ў устаўках">
+<!ENTITY aboutHome.noTabs "Няма адчыненых раней уставак">
+<!ENTITY aboutHome.noAddons "Няма параеных дадаткаў">
+<!ENTITY aboutHome.getLocale "Змена мовы">
+<!ENTITY aboutHome.getInBeforeBeta "Атрымаць перад Бета.">
+<!ENTITY aboutHome.tryAurora "Паспрабаваць Firefox Aurora і дапамагчы фармаванню будучага Firefox.">
+<!ENTITY aboutHome.downloadAurora "Сцягванне Aurora">
+<!ENTITY aboutHome.forAndroid "для Android">
+<!ENTITY aboutHome.setupSync "Уладкаваць Sync">
+<!ENTITY aboutHome.syncPairDevice "Спараваць збудову">

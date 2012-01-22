@@ -1,0 +1,9 @@
+<!ENTITY feedbackHeader2.label "Прылады водгукаў">
+<!ENTITY feedback.communicate.title "Размаўляйце з намі!">
+<!ENTITY feedback.feedback.title "Даць водгук">
+<!ENTITY feedback.feedback.good "Добра">
+<!ENTITY feedback.feedback.bad "Дрэнна">
+<!ENTITY feedback.tools.title "Прылады">
+<!ENTITY feedback.allowTelemetry.title "Дасыланне здаткаў працавыніковасці">
+<!ENTITY feedback.forceCompat.title "Прымусовая сумяшчальнасць дадаткаў">
+<!ENTITY feedback.errorConsole.title "Дазволіць кансоль памылак">
