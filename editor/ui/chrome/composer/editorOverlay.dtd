@@ -280,12 +280,6 @@
 <!ENTITY tableProperties.accesskey "ц">
 <!ENTITY menuBar.tooltip "Паліца меню">
 <!ENTITY formatToolbar.tooltip "Паліца прыладаў фарматавання">
-<!ENTITY newToolbarCmd.label "Стварыць">
-<!ENTITY newToolbarCmd.tooltip "Стварыць новую старонку Ўкладальніка">
-<!ENTITY openToolbarCmd.label "Адчыніць">
-<!ENTITY openToolbarCmd.tooltip "Адчыніць мясцовы файл">
-<!ENTITY saveToolbarCmd.tooltip "Захаваць файл мясцова">
-<!ENTITY publishToolbarCmd.tooltip "Перадаць файл у адлеглае месца">
 <!ENTITY cutToolbarCmd.tooltip "Выразаць">
 <!ENTITY copyToolbarCmd.tooltip "Капіяваць">
 <!ENTITY pasteToolbarCmd.tooltip "Уставіць">

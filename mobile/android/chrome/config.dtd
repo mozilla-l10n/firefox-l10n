@@ -1,10 +1,3 @@
-<!ENTITY empty.label "Пошук">
-<!ENTITY newpref.label "Дадаць новую перавагу">
-<!ENTITY addpref.name "Назва">
-<!ENTITY addpref.value "Значэнне">
-<!ENTITY cancel.label "Скасаваць">
-<!ENTITY reset.label "Узнавіць">
-<!ENTITY done.label "Гатова">
-<!ENTITY integer.label "Цэлы">
-<!ENTITY string.label "Радок">
-<!ENTITY boolean.label "Лагічны">
+<!ENTITY search.placeholder2 "Наладжванні пошуку">
+<!ENTITY clear.altText "Ачысціць">
+<!ENTITY newpref.label2 "Дадаць новае наладжванне">

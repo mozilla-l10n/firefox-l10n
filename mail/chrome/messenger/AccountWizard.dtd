@@ -33,6 +33,10 @@
 <!ENTITY popType.accesskey "P">
 <!ENTITY leaveMsgsOnSrvr.label "Пакідаць лісты на паслугачы">
 <!ENTITY leaveMsgsOnSrvr.accesskey "п">
+<!ENTITY portNum.label "Порт:">
+<!ENTITY portNum.accesskey "о">
+<!ENTITY defaultPortLabel.label "Змоўчны:">
+<!ENTITY defaultPortValue.label "">
 <!ENTITY haveSmtp1.prefix "Ваш існы выходны паслугач (SMTP), &quot;">
 <!ENTITY haveSmtp1.suffix2 "&quot;, будзе ўжывацца. Вы можаце змяніць выходныя паслугачы ў наладжваннях рахунку.">
 <!ENTITY loginTitle.label "Імёны карыстальнікаў">

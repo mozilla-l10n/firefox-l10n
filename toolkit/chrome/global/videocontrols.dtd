@@ -2,6 +2,8 @@
 <!ENTITY playButton.pauseLabel "Прыпыніць">
 <!ENTITY muteButton.muteLabel "Заглушыць">
 <!ENTITY muteButton.unmuteLabel "Уключыць гук">
+<!ENTITY fullscreenButton.enterfullscreenlabel "Full Screen">
+<!ENTITY fullscreenButton.exitfullscreenlabel "Exit Full Screen">
 <!ENTITY stats.media "Медыя">
 <!ENTITY stats.size "Памер">
 <!ENTITY stats.activity "Дзейнасць">
@@ -16,4 +18,10 @@
 <!ENTITY stats.framesDecoded "Рамкі дэкадаваныя">
 <!ENTITY stats.framesPresented "Рамкі прадстаўленыя">
 <!ENTITY stats.framesPainted "Рамкі намаляваныя">
+<!ENTITY error.aborted "Video loading stopped.">
+<!ENTITY error.network "Video playback aborted due to a network error.">
+<!ENTITY error.decode "Video can't be played because the file is corrupt.">
+<!ENTITY error.srcNotSupported "Video format or MIME type is not supported.">
+<!ENTITY error.noSource2 "No video with supported format and MIME type found.">
+<!ENTITY error.generic "Video playback aborted due to an unknown error.">
 <!ENTITY scrubberScale.nameFormat "Мінула #1 з #2">

@@ -1,4 +1,3 @@
-<!ENTITY messengerWindow.title "Пошта і Навінакупы">
 <!ENTITY titledefault.label "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 <!ENTITY newFolderCmd.label "Папка…">
@@ -537,8 +536,8 @@
 <!ENTITY folderContextMarkMailFolderRead.accesskey "ь">
 <!ENTITY folderContextSubscribe.label "Падпісацца…">
 <!ENTITY folderContextSubscribe.accesskey "п">
-<!ENTITY folderContextSearchMessages.label "Пошук…">
-<!ENTITY folderContextSearchMessages.accesskey "ш">
+<!ENTITY folderContextSearchForMessages.label "Search Messages…">
+<!ENTITY folderContextSearchForMessages.accesskey "S">
 <!ENTITY folderContextProperties.label "Уласцівасці…">
 <!ENTITY folderContextProperties.accesskey "ц">
 <!ENTITY folderContextFavoriteFolder.label "Улюбёная папка">

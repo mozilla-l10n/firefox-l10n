@@ -21,6 +21,8 @@
 <!ENTITY engine.passwords.accesskey "П">
 <!ENTITY engine.prefs.label "Перавагі">
 <!ENTITY engine.prefs.accesskey "в">
+<!ENTITY engine.addons.label "Дадаткі">
+<!ENTITY engine.addons.accesskey "Д">
 <!ENTITY syncComputerName.label "Назва кампутара:">
 <!ENTITY syncComputerName.accesskey "к">
 <!ENTITY unlinkDevice.label "Разлучыцца з гэтай збудовай">

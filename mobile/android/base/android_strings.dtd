@@ -1,6 +1,10 @@
 <!ENTITY splash_firstrun "Наладжванне &brandShortName;\u2026">
 <!ENTITY no_space_to_start_error "Няма прасторы, неабходнай &brandShortName; для запуску.">
 <!ENTITY error_loading_file "Здарылася памылка падчас загрузкі файлаў, патрэбных для выканання &brandShortName;">
+<!ENTITY awesomebar_all_pages_title "Найбольш ужывальныя пляцоўкі">
+<!ENTITY awesomebar_bookmarks_title "Закладкі">
+<!ENTITY awesomebar_history_title "Гісторыя">
+<!ENTITY awesomebar_search_engine "Пошук \&quot;&#037;s\&quot;">
 <!ENTITY crash_reporter_title "Паведамляльнік пра крахі &brandShortName;">
 <!ENTITY crash_message "&brandShortName; пацярпеў крах. Вашы ўстаўкі будуць пералічаны на пачатковай старонцы &brandShortName; пасля перазапуску.">
 <!ENTITY crash_help_message "Дапамажыце нам, калі ласка, выправіць праблему!">
@@ -14,3 +18,59 @@
 <!ENTITY launcher_shortcuts_title "Сеціўныя прыстасаванні &brandShortName;">
 <!ENTITY launcher_shortcuts_empty "Сеціўныя прыстасаванні не знойдзены">
 <!ENTITY choose_file "Выбар файла">
+<!ENTITY awesomebar_default_text "Увод тэрмінаў для пошуку або адраса">
+<!ENTITY bookmark "Закладка">
+<!ENTITY bookmark_added "Дададзена закладка">
+<!ENTITY bookmark_removed "Закладка выдалена">
+<!ENTITY history_today_section "Сёння">
+<!ENTITY history_yesterday_section "Учора">
+<!ENTITY history_week_section "Тыдзень назад">
+<!ENTITY history_older_section "Раней, чым тыдзень назад">
+<!ENTITY reload "Абнавіць">
+<!ENTITY forward "Наперад">
+<!ENTITY new_tab "Новая ўстаўка">
+<!ENTITY settings "Наладжванні">
+<!ENTITY settings_title "Наладжванні">
+<!ENTITY pref_category_general "Агульныя">
+<!ENTITY pref_category_privacy "Адасабленне і бяспека">
+<!ENTITY pref_category_content "Змесціва">
+<!ENTITY pref_about_firefox "Пра &brandShortName;">
+<!ENTITY pref_do_not_track "Забараняць сеціўным пляцоўкам сачыць за мною">
+<!ENTITY pref_telemetry "Дасыланне здаткаў працавыніковасці">
+<!ENTITY pref_remember_signons "Памятаць паролі">
+<!ENTITY pref_cookies "Дазволіць біркі">
+<!ENTITY pref_char_encoding "Паказаць кадоўку знакаў">
+<!ENTITY pref_clear_history "Знішчыць гісторыю">
+<!ENTITY pref_clear_history_confirm "Гісторыя азірання будзе вынішчана">
+<!ENTITY pref_clear_private_data "Ачысціць асабістыя здаткі">
+<!ENTITY pref_clear_private_data_confirm "Наладжванні азірання, уключаючы паролі і біркі, будуць выдалены">
+<!ENTITY pref_plugins "Убудовы">
+<!ENTITY pref_plugins_enabled "Дазволена">
+<!ENTITY pref_plugins_tap_to_play "Ляпніце, каб прайграць">
+<!ENTITY pref_plugins_disabled "Забаронена">
+<!ENTITY pref_text_size "Памер тэксту">
+<!ENTITY pref_font_size_tiny "Звыш-малы">
+<!ENTITY pref_font_size_small "Малы">
+<!ENTITY pref_font_size_medium "Сярэдні">
+<!ENTITY pref_font_size_large "Вялікі">
+<!ENTITY pref_font_size_xlarge "Звыш-вялікі">
+<!ENTITY pref_use_master_password "Ужываць галоўны пароль">
+<!ENTITY quit "Выйсці">
+<!ENTITY addons "Дадаткі">
+<!ENTITY downloads "Загрузкі">
+<!ENTITY share "Дзяліцца">
+<!ENTITY save_as_pdf "Захаваць як PDF">
+<!ENTITY contextmenu_open_new_tab "Адчыніць у новай устаўцы">
+<!ENTITY contextmenu_remove_bookmark "Прыняць">
+<!ENTITY contextmenu_add_to_launcher "Дадаць на хатні экран">
+<!ENTITY contextmenu_share "Дзяліцца">
+<!ENTITY site_settings_title "Ачыстка наладжванняў старонкі">
+<!ENTITY site_settings_cancel "Скасаваць">
+<!ENTITY site_settings_clear "Ачысціць">
+<!ENTITY site_settings_no_settings "Няма наладжванняў для ачысткі.">
+<!ENTITY masterpassword_create_title "Стварэнне галоўны пароль">
+<!ENTITY masterpassword_remove_title "Выдаленне галоўнага пароля">
+<!ENTITY masterpassword_password "Пароль">
+<!ENTITY masterpassword_confirm "Пацвердзіць пароль">
+<!ENTITY button_ok "Добра">
+<!ENTITY button_cancel "Скасаваць">

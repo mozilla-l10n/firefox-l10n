@@ -36,7 +36,6 @@
 <!ENTITY formCValue "Цяперашняе значэнне">
 <!ENTITY linksTab "Спасылкі">
 <!ENTITY linksTab.accesskey "С">
-<!ENTITY linkNo "Не.">
 <!ENTITY linkName "Назва">
 <!ENTITY linkAddress "Адрас">
 <!ENTITY linkType "Тып">

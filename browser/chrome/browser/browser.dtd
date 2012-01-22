@@ -161,8 +161,14 @@
 <!ENTITY inspectButton.label "Даследаваць">
 <!ENTITY inspectButton.accesskey "Д">
 <!ENTITY inspectCloseButton.tooltiptext "Закрыць Назіральнік">
+<!ENTITY inspect3DButton.label "3Д">
+<!ENTITY inspect3DButton.accesskey "Д">
 <!ENTITY inspectStyleButton.label "Стыль">
 <!ENTITY inspectStyleButton.accesskey "С">
+<!ENTITY styleeditor.label "Style Editor">
+<!ENTITY styleeditor.accesskey "y">
+<!ENTITY styleeditor.keycode "VK_F7">
+<!ENTITY styleeditor.keytext "F7">
 <!ENTITY getMoreDevtoolsCmd.label "Атрымаць больш прыладаў">
 <!ENTITY getMoreDevtoolsCmd.accesskey "б">
 <!ENTITY fileMenu.label "Файл">
