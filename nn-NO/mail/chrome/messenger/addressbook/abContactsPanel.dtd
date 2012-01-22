@@ -5,10 +5,15 @@
 <!ENTITY SearchNameOrEmail.label            "Namn eller e-post">
 
 <!ENTITY deleteAddrBookCard.label           "Slett">
+<!ENTITY deleteAddrBookCard.accesskey       "D">
 <!ENTITY addrBookCardProperties.label       "Eigenskapar">
+<!ENTITY addrBookCardProperties.accesskey   "P">
 <!ENTITY addtoToFieldMenu.label             "Legg til i Til-feltet">
+<!ENTITY addtoToFieldMenu.accesskey         "A">
 <!ENTITY addtoCcFieldMenu.label             "Legg til i Kopi-feltet">
+<!ENTITY addtoCcFieldMenu.accesskey         "C">
 <!ENTITY addtoBccFieldMenu.label            "Legg til i Blindkopi-feltet">
+<!ENTITY addtoBccFieldMenu.accesskey        "B">
 
 <!ENTITY toButton.label                     "Legg til i Til:">
 <!ENTITY toButton.accesskey                 "T">
