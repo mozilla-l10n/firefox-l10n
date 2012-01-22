@@ -1,0 +1,25 @@
+<!ENTITY sync.title "Sync">
+<!ENTITY sync.notconnected "Не злучана">
+<!ENTITY sync.connect "Злучыцца">
+<!ENTITY sync.connected "Злучана">
+<!ENTITY sync.details "Падрабязнасці">
+<!ENTITY sync.deviceName "Гэтая збудова">
+<!ENTITY sync.disconnect "Разлучыцца">
+<!ENTITY sync.syncNow "Сінхранізаваць зараз ">
+<!ENTITY sync.setup.title "Злучыцца з Sync">
+<!ENTITY sync.setup.pair 'Каб задзейнічаць, выберыце "Спараваць збудову" на іншай збудове.'>
+<!ENTITY sync.fallback "Мой кампутар не блізка…">
+<!ENTITY sync.setup.manual "Увядзіце звесткі вашага рахунку Sync">
+<!ENTITY sync.account "Назва рахунку">
+<!ENTITY sync.password "Пароль">
+<!ENTITY sync.recoveryKey "Адноўны ключ">
+<!ENTITY sync.customServer "Ужываць іншы паслугач">
+<!ENTITY sync.serverURL "URL паслугача">
+<!ENTITY sync.setup.connect "Злучыцца">
+<!ENTITY sync.setup.cancel "Скасаваць">
+<!ENTITY sync.setup.tutorial "Паказаць мне як">
+<!ENTITY sync.setup.waiting2 "Чаканне іншай збудовы…">
+<!ENTITY sync.pair.title "Спараванне збудовы">
+<!ENTITY sync.pair.description 'Каб задзейнічаць новую збудову, выберыце "Уладкаваць Sync" на збудове.'>
+<!ENTITY sync.setup.close "Зачыніць">
+<!ENTITY sync.setup.waitingdownload "Вашы здаткі зараз фонава сцягваюцца. Вы можаце зачыніць гэтае акно калі хочаце.">
