@@ -20,7 +20,7 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "De side op <span id='malware_sitename'/> is rapportearre as in oanfalside en is blokkearre op basis fan jo befeiligingsynstellingen.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Oanfalsiden probearje programma’s te ynstallearjen dy't priveeynformaasje stelle, jo kompjûter brûke om oaren oan te fallen, of jo systeem skansearje.</p><p>Sommige oanfalssiden ferspriede bewust gefaarlike software, mar in protte binne kompromittearre sûnder de kunde of tastimming fan harren eigners.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title "Rapportearre webferfalsking!">
+<!ENTITY safeb.blocked.phishingPage.title2 "Fermoedlike webferfalsking!">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc "De webside op <span id='phishing_sitename'/> is rapportearre as in ferfalsking en is blokkearre op basis fan jo befeiligingsynstellingen.">
-<!ENTITY safeb.blocked.phishingPage.longDesc "<p>Webferfalskingen binne makke om brûkers te mislieden en persoanlike of finansjele ynformaasje diele te litten troch boarnen dy't jo miskien fertrouwe nei te meitsjen.</p><p>It ynfieren fan persoanlike ynformaasje op dizze side kin lieden ta dieverij fan identiteitsgegevens of oare fraude.</p>">
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "It ynfieren fan persoanlike gegevens op dizze side kin liede ta dieverij fan identiteitsgegevens of oare fraude.">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Dit soarte fan webferfalskingen wurdt brûkt yn e-mailscams dy't bekend steane as phishingoanfallen, wêrby frauduleuze websiden en e-mails brûkt wurde om boarnen, dy't jo miskien fertrouwe, nei te meitsjen.</p>">

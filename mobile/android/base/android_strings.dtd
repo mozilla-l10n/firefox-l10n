@@ -1,11 +1,15 @@
 
-<!ENTITY  splash_screen_loading "Lade">
-<!ENTITY  splash_screen_installing_libs "Biblioteken ynstallearje\u2026">
 <!ENTITY  splash_firstrun "Ynstellen fan &brandShortName;\u2026">
 
 <!ENTITY  no_space_to_start_error "Der is net genôch ûnthâld beskikber om &brandShortName; te starten.">
 <!ENTITY  error_loading_file "Der is in flater bard wylst it laden fan bestannen dy\'t nedich binne foar &brandShortName;">
 
+<!ENTITY  awesomebar_all_pages_title "Topsites">
+<!ENTITY  awesomebar_bookmarks_title "Blêdwizers">
+<!ENTITY  awesomebar_history_title "Skiednis">
+<!ENTITY  awesomebar_search_engine "Sykje nei \&quot;&#037;s\&quot;">
+
+<!ENTITY  crash_restart_label "&brandShortName; werstarte">
 <!ENTITY  crash_reporter_title "&brandShortName; Ungelokrapportearder">
 <!ENTITY  crash_message "&brandShortName; is ferûngelokke. Jo ljepblêden soene toand wurde moatte op jo &brandShortName; begjinside as jo werstarte.">
 <!ENTITY  crash_help_message "Help ús om dit probleem op te lossen!">
@@ -16,3 +20,79 @@
 <!ENTITY  sending_crash_report "Ferstjoert ûngelokrapport\u2026">
 <!ENTITY  exit_label "Slute">
 <!ENTITY  continue_label "Fierder">
+
+<!ENTITY  launcher_shortcuts_title "&brandShortName; web-apps">
+<!ENTITY  launcher_shortcuts_empty "Gjin web-apps fûn">
+
+<!ENTITY choose_file "Bestân kieze">
+
+<!ENTITY awesomebar_default_text "Fier in sykterm of adres yn">
+
+<!ENTITY bookmark "Blêdwizer">
+<!ENTITY bookmark_added "Blêdwizer tafoege">
+<!ENTITY bookmark_removed "Blêdwizer fuortsmiten">
+
+<!ENTITY history_today_section "Hjoed">
+<!ENTITY history_yesterday_section "Juster">
+<!ENTITY history_week_section "7 dagen lyn">
+<!ENTITY history_older_section "Alder aa 7 dagen">
+
+<!ENTITY reload "Fernije">
+<!ENTITY forward "Foarút">
+
+<!ENTITY new_tab "Nij ljepblêd">
+
+<!ENTITY settings "Ynstellingen">
+<!ENTITY settings_title "Ynstellingen">
+<!ENTITY pref_category_general "Algemien">
+<!ENTITY pref_category_privacy "Privacy &amp; befeiliging">
+<!ENTITY pref_category_content "Ynhâld">
+<!ENTITY pref_about_firefox "Oer &brandShortName;">
+<!ENTITY pref_do_not_track "Websteeën fertelle my net te folgjen">
+<!ENTITY pref_telemetry "Prestaasjegegevens ferstjoere">
+<!ENTITY pref_remember_signons "Wachtwurden ûnthâlde">
+<!ENTITY pref_cookies "Cookies ynskeakelje">
+<!ENTITY pref_char_encoding "Tekenset toane">
+<!ENTITY pref_clear_history "Skiednis wiskje">
+
+<!ENTITY pref_clear_history_confirm "Navigaasjeskiednis wurdt fuortsmiten">
+<!ENTITY pref_clear_private_data "Priveegegevens wiskje">
+<!ENTITY pref_clear_private_data_confirm "Navigaasje-ynstellingen, ynklusyf wachtwurden en cookies, wurde fuortsmiten">
+<!ENTITY pref_plugins "Ynstekkers">
+<!ENTITY pref_plugins_enabled "Ynskeakele">
+<!ENTITY pref_plugins_tap_to_play "Tik om ôf te spyljen">
+<!ENTITY pref_plugins_disabled "Utskeakele">
+<!ENTITY pref_text_size "Tekstgrutte">
+<!ENTITY pref_font_size_tiny "Hiel lyts">
+<!ENTITY pref_font_size_small "Lyts">
+<!ENTITY pref_font_size_medium "Gemiddeld">
+<!ENTITY pref_font_size_large "Grut">
+<!ENTITY pref_font_size_xlarge "Ekstra grut">
+<!ENTITY pref_use_master_password "Haadwachtwurd brûke">
+
+<!ENTITY quit "Ofslute">
+
+<!ENTITY addons "Add-ons">
+<!ENTITY downloads "Downloads">
+
+<!ENTITY share "Diele">
+<!ENTITY save_as_pdf "Bewarje as PDF">
+
+<!ENTITY contextmenu_open_new_tab "Iepenje yn nij ljepblêd">
+<!ENTITY contextmenu_remove_bookmark "Fuortsmite">
+<!ENTITY contextmenu_add_to_launcher "Tafoegje oan startskerm">
+<!ENTITY contextmenu_share "Diele">
+
+<!ENTITY site_settings_title        "Webstee-ynstellingen wiskje">
+<!ENTITY site_settings_cancel       "Annulearje">
+<!ENTITY site_settings_clear        "Wiskje">
+<!ENTITY site_settings_no_settings  "Der binne gjin ynstellingen om te wiskjen.">
+
+<!ENTITY masterpassword_create_title "Haadwachtwurd oanmeitsje">
+<!ENTITY masterpassword_remove_title "Haadwachtwurd fuortsmite">
+<!ENTITY masterpassword_password "Wachtwurd">
+<!ENTITY masterpassword_confirm "Wachtwurd befestigje">
+
+<!ENTITY button_ok "OK">
+<!ENTITY button_cancel "Annulearje">
+
