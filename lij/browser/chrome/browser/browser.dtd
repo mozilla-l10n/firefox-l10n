@@ -121,7 +121,7 @@ can reach it easily. -->
 <!ENTITY stopCmd.accesskey            "F">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Fermite de caregâ sta pagina">
-<!ENTITY goEndCap.tooltip             "Vanni a l'indirìsso in sciâ bâra di indirìssi">
+<!ENTITY goEndCap.tooltip             "Vànni a l'indirìsso in sciâ bâra di indirìssi">
 <!ENTITY printButton.label            "Stànpa">
 <!ENTITY printButton.tooltip          "Stànpa quésta pàgina">
 
@@ -312,7 +312,7 @@ can reach it easily. -->
 <!ENTITY appMenuSafeMode.accesskey "R">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder           "Vanni into Scîto">
+<!ENTITY urlbar.placeholder           "Vànni into Scîto">
 <!ENTITY urlbar.accesskey             "S">
 <!ENTITY urlbar.switchToTab.label     "Vanni a-o féuggio:">
 
