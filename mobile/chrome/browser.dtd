@@ -88,9 +88,11 @@
 <!ENTITY consoleErrColumn.label    "Kolom:">
 
 <!ENTITY contextOpenInNewTab.label    "Buka Tautan di Tab Baru">
-<!ENTITY contextSaveLink.label        "Simpan Tautan">
 <!ENTITY contextSaveImage.label       "Simpan Gambar">
 <!ENTITY contextCopyLink.label        "Salin Tautan">
+<!ENTITY contextCopyEmail.label       "Salin Alamat Email">
+<!ENTITY contextCopyPhone.label       "Salin Nomor Telepon">
+<!ENTITY contextCopyImageLocation.label       "Salin Lokasi Gambar">
 <!ENTITY contextShareLink.label       "Bagi Tautan">
 <!ENTITY contextShareImage.label      "Bagi Gambar">
 <!ENTITY contextBookmarkLink.label    "Markahi Tautan">
@@ -111,6 +113,5 @@
 <!ENTITY pageactions.findInPage      "Temukan di Laman">
 <!ENTITY pageactions.search.addNew   "Tambah Mesin Pencari">
 <!ENTITY pageactions.charEncoding    "Pengodean Karakter">
-<!ENTITY pageactions.webapps.install "Pasang sebagai Apl">
 
 <!ENTITY appMenu.siteOptions         "Opsi Situs">

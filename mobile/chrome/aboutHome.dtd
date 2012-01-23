@@ -9,3 +9,23 @@
 <!ENTITY aboutHome.noTabs                       "Tidak ada tab terakhir">
 <!ENTITY aboutHome.noAddons                     "Tidak ada pengaya direkomendasikan">
 <!ENTITY aboutHome.getLocale                    "Ubah Bahasa">
+<!ENTITY aboutHome.getInBeforeBeta              "Uji sebelum Beta.">
+<!ENTITY aboutHome.tryAurora                    "Coba Firefox Aurora dan bantu mewujudkan masa depan Firefox.">
+<!-- LOCALIZATION NOTE:
+     (aboutHome.downloadAurora): First line of a multi-line button. Treat as a title.
+-->
+<!ENTITY aboutHome.downloadAurora		"Unduh Aurora">
+<!-- LOCALIZATION NOTE:
+     (aboutHome.forAndroid): Second line of a multi-line button. Treat as a subtitle.
+-->
+<!ENTITY aboutHome.forAndroid			"untuk Android">
+<!-- LOCALIZATION NOTE:
+     (aboutHome.setupSync): This string should match the desktop
+     equivalent, in particular concerning syncBrand.fullName.label.
+-->
+<!ENTITY aboutHome.setupSync            "Siapkan Sync">
+<!-- LOCALIZATION NOTE:
+     (aboutHome.syncPairDevice): This string should match the desktop
+     equivalent, in particular concerning syncBrand.fullName.label.
+-->
+<!ENTITY aboutHome.syncPairDevice       "Pasangkan Perangkat">
