@@ -7,21 +7,19 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Kin gjin ferbining meitsje">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
 
 <!ENTITY deniedPortAccess.title "Dit adres hat in beheinde tagong">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Tsjinner net fûn">
-<!ENTITY dnsNotFound.longDesc "
+<!ENTITY dnsNotFound.longDesc2 "
 <ul>
-  <li>Kontrolearje it adres op typflaters as
+  <li>Kontrolearje it adres op typflaters lykas
     <strong>ww</strong>.foarbyld.com yn stee fan
     <strong>www</strong>.foarbyld.com</li>
-  <li>Kontrolearje jo netwurkferbining as jo gjin inkele side lade
+  <li>Kontrolearje jo apparaat data- of Wi-Fi-ferbining as jo gjin inkele side lade
     kinne.</li>
-  <li>Gean nei oft &brandShortName; tagong hat ta it web of jo 
-    kompjûter of netwurk befeilige is troch in brânmuorre of proxytsjinner.</li>
 </ul>
 ">
 
@@ -50,7 +48,10 @@
 ">
 
 <!ENTITY netInterrupt.title "De ferbining waard ferbrutsen">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+
+<!ENTITY notCached.title "Dokumint ferrûn">
+<!ENTITY notCached.longDesc "<p>It fersochte dokumint is net beskikber yn &brandShortName;'s-buffer.</p><ul><li>Fanwege in feilichheidsfoarsoarchmaatregel sil &brandShortName; fertroulike dokuminten net automatysk opnij oanfreegje.</li><li>Klik om it dokumint opnij oan te freegjen fan it webstee.</li></ul>">
 
 <!ENTITY netOffline.title "Offline-moadus">
 <!ENTITY netOffline.longDesc2 "
@@ -74,10 +75,10 @@
 ">
 
 <!ENTITY netReset.title "De ferbining waard op 'e nij inisjalisearre">
-<!ENTITY netReset.longDesc "&sharedLongDesc;">
+<!ENTITY netReset.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netTimeout.title "De wachttiid foar de ferbining is ferstrutsen">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
 <!ENTITY protocolNotFound.title "It adres waard net begrepen">
 <!ENTITY protocolNotFound.longDesc "
@@ -86,22 +87,19 @@
 </ul>
 ">
 
-<!ENTITY proxyConnectFailure.title "De proxytsjinner wegeret ferbinings">
+<!ENTITY proxyConnectFailure.title "De proxytsjinner wegeret ferbiningen">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
-  <li>Kontrolearje oft jo proxy-ynstellings goed binne.</li>
+  <li>Kontrolearje oft jo proxy-ynstellingen goed binne.</li>
   <li>Nim kontakt op mei jo netwurkbeheerder om te kontrolearjen oft de proxytsjinner
     wurket.</li>
 </ul>
 ">
 
 <!ENTITY proxyResolveFailure.title "Kin de proxytsjinner net fine">
-<!ENTITY proxyResolveFailure.longDesc "
+<!ENTITY proxyResolveFailure.longDesc2 "
 <ul>
-  <li>Kontrolearje oft jo proxy-ynstellings goed binne.</li>
-  <li>Gean nei oft jo kompjûter op in wurkjend netwurk oansletten is.</li>
-  <li>Gean nei oft &brandShortName; tagong hat ta it web of jo 
-    kompjûter of netwurk befeilige is troch in brânmuorre of proxytsjinner.</li>
+  <li>Wês wis dat jo apparaat in wurkende data- of Wi-Fi-ferbining hat.</li>
 </ul>
 ">
 
@@ -138,26 +136,12 @@
 </ul>
 ">
 
-<!ENTITY sharedLongDesc "
+<!ENTITY sharedLongDesc2 "
 <ul>
-  <li>Miskien is it webstee tydlik net beskikber. Besykje it letter 
+  <li>Miskien is it webstee tydlik net beskikber of oerbelêst. Probearje it letter 
     nochris.</li>
-  <li>Kontrolearje jo netwurkferbining as jo gjin inkele side lade kinne.</li>
-  <li>Gean nei oft &brandShortName; tagong hat ta it web, of dat jo 
-    kompjûter of netwurk befeilige is troch in brânmuorre of proxytsjinner.</li>
+  <li>Kontrolearje jo apparaat data- of Wi-Fi-ferbining as jo gjin inkele side lade kinne.</li>
 </ul>
-">
-
-<!ENTITY malwareBlocked.title "Fertochte Oanfal Side!">
-<!ENTITY malwareBlocked.longDesc "<p>
-Oanfal sides probearje om programmatuer te ynstallearjen dy't privee-ynformaasje stêle kinne, jo komjûter brûke om oaren oan te fallen, of jo systeem skansearje.</p>
-<p>Jo soenen dizze side net besykje!</p>
-">
-
-<!ENTITY phishingBlocked.title "Fertochte Web Ferfalsking!">
-<!ENTITY phishingBlocked.longDesc "
-<p>It ynfieren fan persoanlike ynformaasje op dizze side kin resultearje yn identeitsstellerij of oare fraude.</p>
-<p>Dizze typen fan webferfalsking wurde brûkt yn scams bekend as phishing oanfallen, weryn frauduleuse websides en emails brûkt wurde om boarnes dy't jo fertrouwe te imitearjen.</p>
 ">
 
 <!ENTITY cspFrameAncestorBlocked.title "Blokkearre troch ynhâldsfeilichheidsbelied">
