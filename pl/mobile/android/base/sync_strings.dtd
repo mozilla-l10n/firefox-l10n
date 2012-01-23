@@ -31,7 +31,7 @@
 <!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; nie mógł nawiązać połączenia z usługą Sync. Spróbować ponownie?'>
 <!ENTITY sync.button.tryagain.label 'Spróbuj ponownie'>
 <!ENTITY sync.button.manual.label 'Skonfiguruj ręcznie'>
-<!ENTITY sync.subtitle.nointernet.label 'Brak połączenie z internetem.'>
+<!ENTITY sync.subtitle.nointernet.label 'Brak połączenia z Internetem.'>
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Konfiguracja zakończona'>
@@ -64,4 +64,4 @@
 <!ENTITY bookmarks.folder.mobile.label 'Zakładki z telefonu'>
 
 <!-- Notification strings -->
-<!ENTITY sync.notification.oneaccount.label 'Można używac tylko jednego konta &syncBrand.fullName.label; na raz.'>
+<!ENTITY sync.notification.oneaccount.label 'Można używać tylko jednego konta &syncBrand.fullName.label; naraz.'>
