@@ -117,6 +117,8 @@
 <!ENTITY deleteAllAttachmentsCmd.label    "Hapus Semua…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
 
+<!ENTITY openAttachment.tooltip "Buka berkas terlampir">
+
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Simpan">
 <!ENTITY saveAttachmentButton1.tooltip     "Simpan berkas terlampir">
