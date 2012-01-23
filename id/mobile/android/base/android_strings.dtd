@@ -1,0 +1,17 @@
+<!ENTITY  splash_screen_label "memuat">
+<!ENTITY  splash_screen_installing "memasang pustaka\u2026">
+<!ENTITY  incompatable_cpu_error "Perangkat ini tidak memenuhi persyaratan minimum &brandShortName;.">
+<!ENTITY  no_space_to_start_error "Kapasitas ruang tidak mencukupi untuk memulai &brandShortName;.">
+<!ENTITY  error_loading_file "Galat terjadi saat memuat berkas yang diperlukan untuk menjalankan &brandShortName;">
+
+<!ENTITY  crash_reporter_title "Pelapor Kerusakan &brandShortName;">
+<!ENTITY  crash_message "&brandShortName; mati tiba-tiba. Daftar tab Anda akan tampil pada Laman Awal &brandShortName; setelah memulai ulang.">
+<!ENTITY  crash_help_message "Bantu kami mengatasi masalahnya!">
+<!ENTITY  crash_send_report_message "Kirim laporan kerusakan ke Mozilla">
+<!ENTITY  crash_include_url "Sertakan alamat laman">
+<!ENTITY  crash_close_label "Tutup">
+<!ENTITY  crash_restart_label "Mulai ulang &brandShortName;">
+<!ENTITY  sending_crash_report "Mengirim laporan kerusakan\u2026">
+<!ENTITY  exit_label "Keluar">
+<!ENTITY  incompatable_device "&brandShortName; tidak mendukung perangkat ini dan Anda mungkin menjumpai masalah.">
+<!ENTITY  continue_label "Lanjutkan">

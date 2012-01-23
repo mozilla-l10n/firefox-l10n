@@ -1,0 +1,14 @@
+<!ENTITY feedbackHeader2.label          "Perangkat Saran">
+
+<!ENTITY feedback.communicate.title     "Berhubungan dengan Kami!">
+<!ENTITY feedback.feedback.title        "Kirim Saran">
+<!ENTITY feedback.feedback.good         "Bagus">
+<!ENTITY feedback.feedback.bad          "Jelek">
+
+<!ENTITY feedback.information.title     "Informasi Selengkapnya">
+<!ENTITY feedback.about.title           "Tentang Versi Beta Ini">
+<!ENTITY feedback.about.button          "Buka Laman">
+
+<!ENTITY feedback.tools.title           "Alat">
+<!ENTITY feedback.forceCompat.title     "Paksa kompatibilitas pengaya">
+<!ENTITY feedback.errorConsole.title    "Aktifkan Konsol Kesalahan">
