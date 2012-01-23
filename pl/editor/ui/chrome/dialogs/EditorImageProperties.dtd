@@ -79,8 +79,6 @@
 <!ENTITY imagemapBox.label              "Mapa obrazka">
 <!ENTITY removeImageMapButton.label     "Usuń">
 <!ENTITY removeImageMapButton.accessKey "U">
-<!ENTITY editImageMapButton.label       "Edytuj…">
-<!ENTITY editImageMapButton.tooltip     "Utwórz aktywne obszary dla tego obrazka">
 
 <!-- These are the options for image alignment -->
 <!ENTITY alignment.label      "Wyrównaj tekst względem obrazka">
