@@ -1,4 +1,7 @@
 creativecommons
+eBay-hu
 google
-wikipedia
-yahoo
+sztaki-en-hu
+vatera
+wikipedia-hu
+google
