@@ -7,10 +7,12 @@
 <!ENTITY CopyEmailAddress.accesskey "п">
 <!ENTITY CreateFilterFrom.label "Создать фильтр из…">
 <!ENTITY CreateFilterFrom.accesskey "з">
-<!ENTITY copyLinkCmd.label "Копировать ссылку">
-<!ENTITY copyLinkCmd.accesskey "п">
+<!ENTITY openInBrowser.label "Открыть в браузере">
+<!ENTITY openInBrowser.accesskey "ы">
 <!ENTITY bookmarkLinkCmd.label "Добавить ссылку в закладки…">
 <!ENTITY bookmarkLinkCmd.accesskey "б">
+<!ENTITY copyLinkCmd.label "Копировать ссылку">
+<!ENTITY copyLinkCmd.accesskey "п">
 <!ENTITY CopyMessageId.label "Копировать идентификатор">
 <!ENTITY CopyMessageId.accesskey "п">
 <!ENTITY OpenMessageForMsgId.label "Открыть сообщение по идентификатору">
