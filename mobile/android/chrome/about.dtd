@@ -1,18 +1,12 @@
 <!ENTITY aboutPage.title                        "O &brandShortName;">
+<!ENTITY aboutPage.checkForUpdates.link         "Poišči posodobitve">
+<!ENTITY aboutPage.checkForUpdates.checking     "Iskanje posodobitev …">
+<!ENTITY aboutPage.checkForUpdates.none         "Posodobitev ni na voljo">
+<!ENTITY aboutPage.checkForUpdates.found        "Posodobitev je na voljo">
 <!ENTITY aboutPage.faq.label                    "Pogosta vprašanja">
 <!ENTITY aboutPage.support.label                "Podpora">
 <!ENTITY aboutPage.privacyPolicy.label          "Izjava o zasebnosti">
 <!ENTITY aboutPage.rights.label                 "Vaše pravice">
 <!ENTITY aboutPage.relNotes.label               "Opombe ob izdaji">
 <!ENTITY aboutPage.credits.label                "O avtorjih">
-<!ENTITY aboutPage.checkForUpdates.button       "Poišči posodobitve">
-<!ENTITY aboutPage.checkForUpdates.checking     "Iskanje posodobitev …">
-<!ENTITY aboutPage.checkForUpdates.none         "Posodobitev ni na voljo">
-<!ENTITY aboutPage.checkForUpdates.found        "Posodobitev je na voljo">
-
-
-<!-- LOCALIZATION NOTE:
-     These strings are concatenated in order. Unneeded strings may be left blank.
--->
-<!ENTITY aboutPage.licenseLink                  "Licensing information">
-<!ENTITY aboutPage.licenseLinkSuffix            ".">
+<!ENTITY aboutPage.license.label                "Podatki o dovoljenjih">
