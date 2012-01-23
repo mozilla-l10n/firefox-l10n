@@ -5,7 +5,7 @@
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
-<!ENTITY loading.label                        "Caregando...">
+<!ENTITY loading.label                        "Loading…">
 <!ENTITY listEmpty.installed.label            "Ti no gh'æ di conponénti azónti de sto tîpo instalæ
 ">
 <!ENTITY listEmpty.availableUpdates.label     "Nisciùn agiornaménto trovòu">
@@ -196,7 +196,7 @@
 <!ENTITY addon.updateAvailable.label          "Gh'é un agiornaménto">
 <!ENTITY addon.checkingForUpdates.label       "Çèrco i agiornaménti…">
 <!ENTITY addon.releaseNotes.label             "Anotaçioìn da distribuçión:">
-<!ENTITY addon.loadingReleaseNotes.label      "Caregando...">
+<!ENTITY addon.loadingReleaseNotes.label      "Loading…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Me despiâxe, gh'é stæto 'n erô a caregâ e anotaçioìn da distribuçión.">
 
 <!ENTITY addon.createdBy.label                "Da ">
