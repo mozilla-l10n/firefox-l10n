@@ -255,8 +255,8 @@
 <!ENTITY calendar.context.findcalendar.accesskey       "Z" >
 <!ENTITY calendar.context.deleteserver.label           "Usuń kalendarz">
 <!ENTITY calendar.context.deleteserver.accesskey       "U">
-<!ENTITY calendar.context.reloadserver.label           "Odśwież zdalne kalendarze">
-<!ENTITY calendar.context.reloadserver.accesskey       "O">
+<!ENTITY calendar.context.synccalendars.label           "Synchronizuj kalendarze">
+<!ENTITY calendar.context.synccalendars.accesskey       "S">
 <!ENTITY calendar.context.publish.label                "Publikuj kalendarz…">
 <!ENTITY calendar.context.publish.accesskey            "P">
 <!ENTITY calendar.context.export.label                 "Eksportuj kalendarz…">
@@ -323,7 +323,7 @@ dialog. -->
 <!ENTITY calendarproperties.name.label             "Nazwa:">
 <!ENTITY calendarproperties.readonly.label         "Tylko do odczytu">
 <!ENTITY calendarproperties.firealarms.label       "Wyświetlaj powiadomienia">
-<!ENTITY calendarproperties.cache.label            "Pamięć podręczna (EKSPERYMENTALNE)">
+<!ENTITY calendarproperties.cache2.label            "Pamięć podręczna">
 <!ENTITY calendarproperties.enabled.label          "Włącz ten kalendarz">
 <!ENTITY calendarproperties.forceDisabled.label    "Nie znaleziono dostawcy dla tego kalendarza. Zdarza się to często, gdy zostały wyłączone lub odinstalowane pewne rozszerzenia.">
 <!ENTITY calendarproperties.unsubscribe.label      "Zrezygnuj z subskrypcji">

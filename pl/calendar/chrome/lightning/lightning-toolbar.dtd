@@ -11,16 +11,15 @@
    - for the specific language governing rights and limitations under the
    - License.
    -
-   - The Original Code is Mozilla Calendar Preferences
+   - The Original Code is Mozilla Calendar code.
    -
    - The Initial Developer of the Original Code is
-   - Matthew Willis
-   - Portions created by the Initial Developer are Copyright (C) 2006
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   - Portions created by the Initial Developer are Copyright (C) 2011
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   Marek Stępień <marcoos@aviary.pl> (Polish localization)
-   -   Hubert Gajewski <hubert@hubertgajewski.com>, Aviary.pl (Polish localization)
+   - Katarzyna Stawarz <kstawarz@aviary.pl> (Polish localization)
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -36,16 +35,9 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.mainbox.label "Ustawienia ogólne" >
-<!ENTITY pref.dateformat.label "Format daty:" >
-<!ENTITY pref.dateformat.accesskey "F">
-<!ENTITY pref.dateformat.long "długi" >
-<!ENTITY pref.dateformat.short "krótki" >
-<!ENTITY pref.defaultlength.label   "Domyślny czas trwania wydarzenia:" >
-<!ENTITY pref.defaultlength.accesskey "D">
-<!ENTITY pref.defaultsnoozelength.label   "Domyślna długość odstępu między przypomnieniami:" >
-<!ENTITY pref.defaultsnoozelength.accesskey "o">
+<!ENTITY lightning.toolbar.calendar.name "Pasek narzędzi kalendarza">
+<!ENTITY lightning.toolbar.calendar.accesskey "k">
+<!ENTITY lightning.toolbar.task.name "Pasek narzędzi zadań">
+<!ENTITY lightning.toolbar.task.accesskey "z">
 
-<!ENTITY pref.accessibility.label   "Dostępność" >
-<!ENTITY pref.systemcolors.label    "Optymizuj kolory, by poprawić dostępność" >
-<!ENTITY pref.systemcolors.accesskey "k">
+<!ENTITY lightning.toolbar.sync.label "Synchronizuj">

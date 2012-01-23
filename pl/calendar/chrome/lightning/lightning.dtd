@@ -75,8 +75,10 @@
 <!ENTITY lightning.toolbar.mail.label         "Poczta">
 <!ENTITY lightning.toolbar.mail.accesskey     "o">
 <!ENTITY lightning.toolbar.calendar.label     "Kalendarz">
+<!ENTITY lightning.toolbar.calendar.tooltip   "Przełącz na widok kalendarza">
 <!ENTITY lightning.toolbar.calendar.accesskey "K">
 <!ENTITY lightning.toolbar.task.label         "Zadania">
+<!ENTITY lightning.toolbar.task.tooltip       "Przełącz na widok zadań">
 <!ENTITY lightning.toolbar.task.accesskey     "a">
 
 <!-- Toolbar write button -->

@@ -41,10 +41,10 @@
 <!ENTITY aboutDialog.title      "O programie &brandFullName;">
 <!ENTITY copyright.label        "Twórcy">
 <!ENTITY copyright.accesskey    "T">
-<!ENTITY aboutLink.label        "&lt; O programie &brandShortName;">
+<!ENTITY aboutLink.label        "&lt; O programie &brandFullName;">
 <!ENTITY aboutLink.accesskey    "O">
 <!ENTITY aboutVersion           "wersja">
-<!ENTITY copyrightText          "&#169;1998-2010 Współtwórcy. Wszelkie prawa
+<!ENTITY copyrightText          "&#169;1998-2012 Współtwórcy. Wszelkie prawa
                                  zastrzeżone. Mozilla Sunbird, Sunbird, i logo
                                  Sunbirda są znakami towarowymi Mozilla
                                  Foundation. Wszelkie prawa zastrzeżone.">
