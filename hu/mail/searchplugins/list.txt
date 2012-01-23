@@ -1,8 +1,5 @@
-amazondotcom
-aol-web-search
-bing
-eBay
+eBay-hu
 google
-twitter
-wikipedia
-yahoo
+sztaki-en-hu
+vatera
+wikipedia-hu
