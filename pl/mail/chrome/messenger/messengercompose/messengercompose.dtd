@@ -72,8 +72,8 @@
 <!ENTITY editRewrapCmd.key        "R">
 <!ENTITY deleteCmd.label          "Usuń">
 <!ENTITY deleteCmd.accesskey      "U">
-<!ENTITY renameAttachment.label     "Zmień nazwę załącznika…">
-<!ENTITY renameAttachment.accesskey "w">
+<!ENTITY renameAttachmentCmd.label     "Zmień nazwę załącznika…">
+<!ENTITY renameAttachmentCmd.accesskey "w">
 <!ENTITY selectAllCmd.label       "Zaznacz wszystko">
 <!ENTITY selectAllCmd.accesskey   "a">
 <!ENTITY selectAllCmd.key         "A">
