@@ -6,10 +6,10 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Bağlanma girişimi başarısız">
+<!ENTITY connectionFailure.title "Bağlanılamadı">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
 
-<!ENTITY deniedPortAccess.title "Bu adrese erişim kısıtlanmış">
+<!ENTITY deniedPortAccess.title "Bu adres kısıtlıdır">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Sunucu bulunamadı">
@@ -20,9 +20,9 @@
 ">
 
 <!ENTITY fileNotFound.title "Dosya bulunamadı">
-<!ENTITY fileNotFound.longDesc "<ul> 
-<li>Büyük-küçük harflere ve yazım hatası olup olmadığına bakın.</li> 
-<li>Dosyanın taşınıp taşınmadığından, adının değiştirilip değişmediğinden ya da silinip silinmediğinden emin olun.</li> 
+<!ENTITY fileNotFound.longDesc " <ul> 
+<li>Dosya isminindeki büyük-küçük harfleri ve yazım hatalarını kontrol edin.</li> 
+<li>Dosyanın taşınmadığını, adının değişmediğini veya silinmediğini kontrol edin.</li> 
 </ul>">
 
 
@@ -51,9 +51,11 @@
 </ul>">
 
 <!ENTITY unsafeContentType.title "Güvensiz dosya türü">
-<!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Lütfen site sahipleriyle iletişim kurup onları bu sorundan haberdar edin.</li> 
-</ul>">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>Lütfen site sahipleriyle iletişim kurup onları bu sorundan haberdar edin.</li>
+</ul>
+">
 
 <!ENTITY netReset.title "Bağlantı sıfırlandı">
 <!ENTITY netReset.longDesc "&sharedLongDesc2;">
@@ -62,7 +64,7 @@
 <!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
 <!ENTITY protocolNotFound.title "Adres anlaşılamadı">
-<!ENTITY protocolNotFound.longDesc "<ul> 
+<!ENTITY protocolNotFound.longDesc " <ul> 
 <li>Bu adresi açmak için başka bir yazılım kurmanız gerekebilir.</li> 
 </ul>">
 
@@ -79,15 +81,16 @@
 </ul>
 ">
 
-<!ENTITY redirectLoop.title "Yönlendirme geçersiz">
-<!ENTITY redirectLoop.longDesc "<ul> 
-<li>Bu sayfa düzgün biçimde yönlendirilmiyor. Bunun nedeni çerezlerin kabul edilmemesi olabilir.</li> 
+<!ENTITY redirectLoop.title "Sayfa doğru bir şekilde yönlendirilmiyor">
+<!ENTITY redirectLoop.longDesc " <ul> 
+<li>Bazen bu sorunun nedeni çerezlerin etkisizleştirilmesi veya 
+reddedilmesi olabilmektedir.</li> 
 </ul>">
 
 <!ENTITY unknownSocketType.title "Sunucudan beklenmeyen yanıt">
-<!ENTITY unknownSocketType.longDesc "<ul> 
-<li>Sisteminizde Kişisel Güvenlik Yöneticisi kurulu olduğundan emin olun.</li> 
-<li>Sorunun nedeni sunucunun standartlara uymayan yapılandırması olabilir.</li> 
+<!ENTITY unknownSocketType.longDesc " <ul> 
+<li>Sisteminizde kişisel güvenlik yöneticisinin kurulu olduğundan emin olun.</li> 
+<li>Bu durum, standart dışı sunucu yapılandırmasından kaynaklanabilir.</li> 
 </ul>">
 
 <!ENTITY nssFailure2.title "Güvenli bağlantı girişimi başarısız">
@@ -130,8 +133,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "Uzak XUL">
-<!ENTITY remoteXUL.longDesc "<ul> 
-<li>Bu sorundan haberdar etmek için lütfen site sahipleri ile temasa geçin.</li> 
-</ul>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Lütfen site sahipleriyle iletişim kurup onları bu sorundan haberdar edin.</li></ul></p>">
 
 
