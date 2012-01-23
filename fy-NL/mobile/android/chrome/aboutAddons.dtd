@@ -1,0 +1,8 @@
+<!ENTITY aboutAddons.title                      "Add-onbehearder">
+<!ENTITY aboutAddons.header                     "Add-ons">
+<!ENTITY aboutAddons.options                    "Opsjes">
+
+<!ENTITY addonAction.enable                     "Ynskeakelje">
+<!ENTITY addonAction.disable                    "Utskeakelje">
+<!ENTITY addonAction.uninstall                  "De-ynstallearje">
+<!ENTITY addonAction.cancel                     "Annulearje">

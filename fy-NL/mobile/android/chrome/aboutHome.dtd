@@ -1,11 +1,1 @@
-<!ENTITY aboutHome.header               "<span>&brandShortName; </span><span id='header-suffix'>Start</span>">
-<!ENTITY aboutHome.recentTabs           "Jo ljepblêden fan de lêste kear">
-<!ENTITY aboutHome.remoteTabs           "Ljepblêden fan jo oare kompjûters">
-<!ENTITY aboutHome.recommendedAddons2   "Tafoegings foar jo &brandShortName;">
-<!ENTITY aboutHome.giveFeedback         "Jou kommentaar">
-<!ENTITY aboutHome.getHelp              "Krij help">
-<!ENTITY aboutHome.footerWidth          "10em">
-<!ENTITY aboutHome.openAllTabs          "Iepenje alles yn ljepblêden">
-<!ENTITY aboutHome.noTabs               "Gjin ljepblêden fan de lêste kear">
-<!ENTITY aboutHome.noAddons             "Gjin oanrikkemandearre tafoegings">
-<!ENTITY aboutHome.getLocale            "Wizigje taal">
+<!ENTITY homepage.default     "&brandShortName; Start">
