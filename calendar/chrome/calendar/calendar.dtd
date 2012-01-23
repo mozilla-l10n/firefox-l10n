@@ -252,8 +252,8 @@
 <!ENTITY calendar.context.findcalendar.accesskey       "s" >
 <!ENTITY calendar.context.deleteserver.label           "Aginda fuortsmite">
 <!ENTITY calendar.context.deleteserver.accesskey       "f">
-<!ENTITY calendar.context.reloadserver.label           "Aginda’s op oare kompjûter(s) ferfarskje">
-<!ENTITY calendar.context.reloadserver.accesskey       "o">
+<!ENTITY calendar.context.synccalendars.label          "Aginda’s syngronisearje">
+<!ENTITY calendar.context.synccalendars.accesskey      "s">
 <!ENTITY calendar.context.publish.label                "Aginda publisearje">
 <!ENTITY calendar.context.publish.accesskey            "p">
 <!ENTITY calendar.context.export.label                 "Aginda eksportearje…">
