@@ -40,7 +40,9 @@
 <!ENTITY connectionSettings.label        "Asetukset…">
 <!ENTITY connectionSettings.accesskey    "A">
 
-<!ENTITY offlineStorage.label            "Yhteydetöntä tilaa varten tallennetut tiedot">
+<!ENTITY httpCache.label                 "Välimuistissa oleva verkkosisältö">
+
+<!ENTITY offlineStorage2.label           "Yhteydetöntä tilaa varten tallennetut tiedot">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -53,6 +55,8 @@
 <!ENTITY limitCacheSizeAfter.label       "Mt:uun">
 <!ENTITY clearCacheNow.label             "Tyhjennä heti">
 <!ENTITY clearCacheNow.accesskey         "T">
+<!ENTITY clearOfflineAppCacheNow.label   "Tyhjennä heti">
+<!ENTITY clearOfflineAppCacheNow.accesskey "y">
 <!ENTITY overrideSmartCacheSize.label    "Ohita automaattinen väliaikatiedostojen hallinta">
 <!ENTITY overrideSmartCacheSize.accesskey "h">
 
@@ -76,8 +80,6 @@
 <!ENTITY useService.accesskey            "u">
 
 <!ENTITY updateOthers.label              "Päivitä automaattisesti:">
-<!ENTITY enableAddonsUpdate3.label       "Lisäosat">
-<!ENTITY enableAddonsUpdate3.accesskey   "L">
 <!ENTITY enableSearchUpdate.label        "Hakukoneet">
 <!ENTITY enableSearchUpdate.accesskey    "H">
 
@@ -86,7 +88,7 @@
 <!ENTITY offlineNotifyExceptions.label   "Poikkeukset…">
 <!ENTITY offlineNotifyExceptions.accesskey "P">
 
-<!ENTITY offlineAppsList.label           "Seuraavat verkkosivustot ovat tallentaneet tietoja yhteydetöntä tilaa varten:">
+<!ENTITY offlineAppsList2.label          "Seuraavilla verkkosivustoilla on lupa tallentaa tietoja yhteydetöntä tilaa varten:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Poista…">
 <!ENTITY offlineAppsListRemove.accesskey "s">

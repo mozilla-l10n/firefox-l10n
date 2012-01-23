@@ -2,7 +2,7 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "Tervetuloa! Jos et ole aikaisemmin käyttänyt &syncBrand.fullName.label; -palvelua, sinun tarvitsee luoda uusi tili.">
+<!ENTITY setup.pickSetupType.description2 "Tervetuloa! Jos et ole aikaisemmin käyttänyt &syncBrand.fullName.label; -palvelua, sinun tarvitsee luoda uusi tili.">
 <!ENTITY button.createNewAccount.label "Luo uusi tili">
 <!ENTITY button.haveAccount.label      "Minulla on tili">
 
@@ -88,6 +88,8 @@
 <!ENTITY engine.passwords.accesskey "a">
 <!ENTITY engine.prefs.label         "Asetukset">
 <!ENTITY engine.prefs.accesskey     "e">
+<!ENTITY engine.addons.label        "Lisäosat">
+<!ENTITY engine.addons.accesskey    "L">
 
 <!ENTITY choice2.merge.main.label      "Yhdistä tämän laitteen tiedot &syncBrand.shortName.label;-palvelussa oleviin tietoihin">
 <!ENTITY choice2.merge.recommended.label "Suositeltu:">

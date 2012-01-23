@@ -217,8 +217,17 @@ can reach it easily. -->
 <!ENTITY inspectButton.label          "Sivun tutkija">
 <!ENTITY inspectButton.accesskey      "T">
 <!ENTITY inspectCloseButton.tooltiptext "Sulje tutkija">
+<!ENTITY inspect3DButton.label        "3D">
+<!ENTITY inspect3DButton.accesskey    "D">
 <!ENTITY inspectStyleButton.label     "Tyyli">
 <!ENTITY inspectStyleButton.accesskey "T">
+
+<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
+  -  in the Tools menu. -->
+<!ENTITY styleeditor.label            "Tyylin muokkaaja">
+<!ENTITY styleeditor.accesskey        "m">
+<!ENTITY styleeditor.keycode          "VK_F7">
+<!ENTITY styleeditor.keytext          "F7">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Hae lisää työkaluja">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "t">
@@ -422,24 +431,36 @@ can reach it easily. -->
 <!ENTITY thisFrameMenu.accesskey           "ä">
 
 <!-- Media (video/audio) controls -->
+<!-- LOCALIZATION NOTE: The access keys for "Play" and
+"Pause" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaPlay.label             "Toista">
 <!ENTITY mediaPlay.accesskey         "T">
 <!ENTITY mediaPause.label            "Pysäytä">
 <!ENTITY mediaPause.accesskey        "y">
+<!-- LOCALIZATION NOTE: The access keys for "Mute" and
+"Unmute" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Mykistä ääni">
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "Palauta ääni">
 <!ENTITY mediaUnmute.accesskey       "ä">
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "Näytä säätimet">
 <!ENTITY mediaShowControls.accesskey "s">
 <!ENTITY mediaHideControls.label     "Piilota säätimet">
-<!ENTITY mediaHideControls.accesskey "P">
+<!ENTITY mediaHideControls.accesskey "s">
 <!ENTITY videoFullScreen.label       "Kokoruutu">
 <!ENTITY videoFullScreen.accesskey   "K">
 <!ENTITY videoSaveImage.label        "Tallenna ruutukaappaus nimellä…">
 <!ENTITY videoSaveImage.accesskey    "T">
+<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
+"Hide Statistics" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY videoShowStats.label        "Näytä tilastot">
-<!ENTITY videoShowStats.accesskey    "N">
+<!ENTITY videoShowStats.accesskey    "i">
 <!ENTITY videoHideStats.label        "Piilota tilastot">
 <!ENTITY videoHideStats.accesskey    "i">
 

@@ -9,12 +9,10 @@
 <!ENTITY importFromIE.accesskey          "M">
 <!ENTITY importFromNothing.label         "Älä tuo mitään">
 <!ENTITY importFromNothing.accesskey     "Ä">
-<!ENTITY importFromSeamonkey.label       "Netscape 6, 7 tai Mozilla 1.x">
-<!ENTITY importFromSeamonkey.accesskey   "N">
-<!ENTITY importFromOpera.label           "Opera">
-<!ENTITY importFromOpera.accesskey       "O">
 <!ENTITY importFromSafari.label          "Safari">
 <!ENTITY importFromSafari.accesskey      "S">
+<!ENTITY importFromChrome.label         "Chrome">
+<!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromHTMLFile.label       "HTML-tiedostosta">
 <!ENTITY importFromHTMLFile.accesskey   "H">
 
