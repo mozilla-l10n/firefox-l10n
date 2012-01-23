@@ -267,6 +267,10 @@
 
 <!ENTITY findCmd.label "Rechercher…">
 
+<!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
+     This is the key used to show the Lightning quick filter bar. -->
+<!ENTITY quickFilterBar.show.key2 "K">
+
 <!-- Go Menu -->
 
 <!ENTITY goMenu.label "Aller à">
