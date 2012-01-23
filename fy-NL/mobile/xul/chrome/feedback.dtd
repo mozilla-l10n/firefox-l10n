@@ -5,10 +5,7 @@
 <!ENTITY feedback.feedback.good         "Goed">
 <!ENTITY feedback.feedback.bad          "Slim">
 
-<!ENTITY feedback.information.title     "Mear ynformaasje">
-<!ENTITY feedback.about.title           "Oer dizze bèta">
-<!ENTITY feedback.about.button          "Gean nei side">
-
 <!ENTITY feedback.tools.title           "Ark">
-<!ENTITY feedback.forceCompat.title     "Forsearje tafoegings kompatibiliteit">
+<!ENTITY feedback.allowTelemetry.title  "Prestaasjegegevens ferstjoere">
+<!ENTITY feedback.forceCompat.title     "Forsearje add-ons kompatibiliteit">
 <!ENTITY feedback.errorConsole.title    "Skeakel de flaterkonsole yn">

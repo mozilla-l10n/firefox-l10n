@@ -5,10 +5,10 @@
 <!ENTITY reflowZoom.title                           "Tekst opnij ynstelle by zoomen">
 <!ENTITY showImages.title							"Toan ôfbyldings">
 <!ENTITY enableJavaScript.title						"Javaskript ynskeakelje">
-<!ENTITY enablePlugins.title						"Ynstekkers ynskeakelje">
 <!ENTITY privacy.title								"Privacy &amp; Feilichheid">
 <!ENTITY allowCookies.title							"Cookies tastean">
 <!ENTITY doNotTrack.title                           "Fertel websteeën my net te folgjen">
+<!ENTITY masterPassword.title                      "Haadwachtwurd brûke">
 <!ENTITY clearPrivateData2.title					"Wiskje priveegegevens">
 <!ENTITY clearPrivateData.button					"Wiskje">
 <!ENTITY rememberPasswords.title					"Wachtwurden bewarje">
@@ -20,4 +20,5 @@
 <!ENTITY homepage.none                             	"Lege side">
 <!ENTITY homepage.default                          	"&brandShortName; begjin">
 <!ENTITY homepage.currentpage                      	"Brûk aktuele side">
-<!ENTITY showCharset.title                          "Toan karakterdekodearring">
+<!ENTITY showCharsetEncoding.title                 "Tekenset toane">
+<!ENTITY actionbar.default                         "&brandShortName;-ynstellingen">
