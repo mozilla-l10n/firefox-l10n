@@ -93,9 +93,9 @@
 <!ENTITY cmd.uninstallAddon.label             "Scancélla">
 <!ENTITY cmd.uninstallAddon.accesskey         "S">
 <!ENTITY cmd.showPreferencesWin.label         "Inpostaçioìn">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Cangia e preferençe de sto conponénte azónto">
+<!ENTITY cmd.showPreferencesWin.tooltip       "Càngia e preferénse de sto conponénte azónto">
 <!ENTITY cmd.showPreferencesUnix.label        "Preferense">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Cangia e preferense de sto conponénte azónto">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Càngia e preferénse de sto conponénte azónto">
 <!ENTITY cmd.contribute.label                 "Agiùtta">
 <!ENTITY cmd.contribute.accesskey             "A">
 <!ENTITY cmd.contribute.tooltip               "Agiùtta a svilupâ sto conponénte azónto">
@@ -112,7 +112,7 @@
 <!ENTITY discover.description2                "I conponénti azónti son aplicaçioìn che te peuan agiutâ a personalizâ o &brandShortName; gràçie
   a âtre funçionaliæ ò stîli. Prêuvâ 'na bâra pe risparmiâ do ténpo, in notiçiario do ténpo ò 'n têma pe fâ davéi o 
   teu &brandShortName;.">
-<!ENTITY discover.footer                      "Quànde ti t'ê conésso a internet, sto panéllo
+<!ENTITY discover.footer                      "Quànde ti ê conésso a internet, sto panéllo
   o te faiâ védde quarchedùn di ciù pòpolari conponénti azónti da provâ.">
 
 <!-- detail view -->
@@ -140,10 +140,10 @@
 <!ENTITY detail.checkForUpdates.tooltip       "Çerca agiornaménti pe sto conponénte azónto">
 <!ENTITY detail.showPreferencesWin.label      "Inpostaçioìn">
 <!ENTITY detail.showPreferencesWin.accesskey  "o">
-<!ENTITY detail.showPreferencesWin.tooltip    "Cangia e preferençe de sto conponénte azónto">
+<!ENTITY detail.showPreferencesWin.tooltip    "Càngia e preferénse de sto conponénte azónto">
 <!ENTITY detail.showPreferencesUnix.label     "Preferense">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
-<!ENTITY detail.showPreferencesUnix.tooltip   "Cangia e preferense de sto conponénte azónto">
+<!ENTITY detail.showPreferencesUnix.tooltip   "Càngia e preferénse de sto conponénte azónto">
 
 
 <!-- ratings -->

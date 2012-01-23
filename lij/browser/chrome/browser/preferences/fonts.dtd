@@ -36,19 +36,19 @@
 <!ENTITY  font.langGroup.thai                     "Tailandeize">
 <!ENTITY  font.langGroup.hebrew                   "Ebraico">
 <!ENTITY  font.langGroup.arabic                   "Arabo">
-<!ENTITY  font.langGroup.devanagari               "Devanagari">
-<!ENTITY  font.langGroup.tamil                    "Tamil">
+<!ENTITY  font.langGroup.devanagari               "Devanagâri">
+<!ENTITY  font.langGroup.tamil                    "Tamìl">
 <!ENTITY  font.langGroup.armenian                 "Armeno">
 <!ENTITY  font.langGroup.bengali                  "Bengaleze">
 <!ENTITY  font.langGroup.canadian                 "Scilabâio unîo canadeise">
 <!ENTITY  font.langGroup.ethiopic                 "Etiope">
 <!ENTITY  font.langGroup.georgian                 "Gerogiano">
-<!ENTITY  font.langGroup.gujarati                 "Gujarati">
-<!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
+<!ENTITY  font.langGroup.gujarati                 "Gujaràtti">
+<!ENTITY  font.langGroup.gurmukhi                 "Gormùcchi">
 <!ENTITY  font.langGroup.khmer                    "Khmer">
 <!ENTITY  font.langGroup.malayalam                "Malayano">
 <!ENTITY  font.langGroup.oriya                    "Oriya">
-<!ENTITY  font.langGroup.telugu                   "Telugu">
+<!ENTITY  font.langGroup.telugu                   "Telôgo">
 <!ENTITY  font.langGroup.kannada                  "Kannada">
 <!ENTITY  font.langGroup.sinhala                  "Sinhala">
 <!ENTITY  font.langGroup.tibetan                  "Tibetàn">
