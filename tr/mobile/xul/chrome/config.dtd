@@ -8,6 +8,6 @@
 <!ENTITY done.label             "Tamamlandı">
 
 <!ENTITY integer.label          "Tam sayı">
-<!ENTITY string.label           "String">
+<!ENTITY string.label           "Dizgi">
 <!ENTITY boolean.label          "Boolean">
 
