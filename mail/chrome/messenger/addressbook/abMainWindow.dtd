@@ -87,13 +87,19 @@
 <!ENTITY showTaskbarCmd.accesskey                       "S">
 <!ENTITY customizeToolbar.label                         "Suka-suka…">
 <!ENTITY customizeToolbar.accesskey                     "S">
-<!ENTITY showContactPane.label                          "Panel Ringkasan Data Kenalan">
-<!ENTITY showContactPane.accesskey                      "k">
+<!ENTITY layoutMenu.label                               "Susunan">
+<!ENTITY layoutMenu.accesskey                           "n">
+<!ENTITY showDirectoryPane.label                        "Panel Direktori">
+<!ENTITY showDirectoryPane.accesskey                    "D">
+<!ENTITY showContactPane2.label                          "Panel Kenalan">
+<!ENTITY showContactPane2.accesskey                      "k">
 <!ENTITY menu_ShowNameAs.label                          "Tampilkan Kartu Nama Sebagai">
 <!ENTITY menu_ShowNameAs.accesskey                      "k"> 
-<!ENTITY firstLastCmd.label                             "Nama Depan, Belakang">
-<!ENTITY firstLastCmd.accesskey                         "D"> 
-<!ENTITY lastFirstCmd.label                             "Nama Belakang, Depan">
+<!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
+because displayed names don't have the comma in between. -->
+<!ENTITY firstLastCmd2.label                             "Nama Depan dan Nama Belakang">
+<!ENTITY firstLastCmd2.accesskey                         "D"> 
+<!ENTITY lastFirstCmd.label                             "Nama Belakang, Nama Depan">
 <!ENTITY lastFirstCmd.accesskey                         "B">
 <!ENTITY displayNameCmd.label                           "Nama Tampilan">
 <!ENTITY displayNameCmd.accesskey                       "T">
