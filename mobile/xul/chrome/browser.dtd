@@ -7,6 +7,7 @@
 <!ENTITY go.label              "Gean">
 <!ENTITY star.label            "Stjer">
 
+<!ENTITY showTabs.label        "Ljepblêden toane">
 <!ENTITY newtab.label          "Nij ljepblêd">
 <!ENTITY closetab.label        "Ljepblêd slute">
 
@@ -15,6 +16,7 @@
 <!ENTITY copyAll.label         "Kopiearje alles">
 <!ENTITY copylink.label        "Kopiearje keppelinglokaasje">
 <!ENTITY paste.label           "Plakke">
+<!ENTITY pasteAndGo.label      "Plakke &amp; Gean">
 <!ENTITY delete.label          "Fuortsmite">
 <!ENTITY selectAll.label       "Selektearje alles">
 <!ENTITY noSuggestions.label   "(Gjin foarstellen)">
@@ -50,7 +52,6 @@
 <!ENTITY addonShowPage.label       "Gean nei side">
 
 <!ENTITY downloadsHeader.label     "Ynladen bestannen">
-
 <!ENTITY downloadShowPage.label    "Gean nei side">
 <!ENTITY downloadShow2.label       "Fyn">
 <!ENTITY downloadOpen2.label       "Iepenje">
@@ -68,6 +69,7 @@
 <!ENTITY bookmarkPopup.label       "Blêdwizer bewarre">
 <!ENTITY bookmarkRemove.label      "Fuortsmite">
 <!ENTITY bookmarkEdit.label        "Bewurkje">
+<!ENTITY bookmarkShortcut.label    "Tafoegje oan startskerm">
 
 <!ENTITY identity.unverifiedsite2  "Dit webstee jout gjin identiteitsynformaasje.">
 <!ENTITY identity.connectedTo2 	   "Ferbûn mei">
@@ -76,41 +78,45 @@
  substitution variables.  If it is difficult to translate the sense of the string
  with that structure, consider a translation which ignores the preceding domain and
  just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy2 		   "makke troch">
+<!ENTITY identity.runBy2 		   "beheard troch">
 
 <!ENTITY consoleHeader.label       "Flaterkonsôle">
 <!ENTITY consoleAll.label          "Alles">
 <!ENTITY consoleErrors.label       "Flaters">
-<!ENTITY consoleWarnings.label     "Warskôgings">
+<!ENTITY consoleWarnings.label     "Warskôgingen">
 <!ENTITY consoleMessages.label     "Berjochten">
 <!ENTITY consoleCodeEval.label     "Koade:">
 <!ENTITY consoleClear.label        "Wiskje">
-<!ENTITY consoleEvaluate.label     "Evaluearje">
+<!ENTITY consoleEvaluate.label     "…">
 <!ENTITY consoleErrFile.label      "Boarnebestân:">
 <!ENTITY consoleErrLine.label      "Rige:">
 <!ENTITY consoleErrColumn.label    "Kolom:">
 
-<!ENTITY contextOpenInNewTab.label "Iepenje keppeling yn nij ljepblêd">
-<!ENTITY contextSaveLink.label     "Bearje keppeling">
-<!ENTITY contextSaveImage.label    "Bewarje ôfbylding">
-<!ENTITY contextShareLink.label       "Diel keppeling">
-<!ENTITY contextShareImage.label      "Diel ôfbylding">
-<!ENTITY contextSaveVideo.label       "Bewarje fideo">
-<!ENTITY contextBookmarkLink.label    "Blêdwizerkeppeling">
+<!ENTITY contextOpenInNewTab.label "Iepenje yn nij ljepblêd">
+<!ENTITY contextSaveImage.label    "Ofbylding bewarje">
+<!ENTITY contextCopyLink.label        "Keppeling kopiearje">
+<!ENTITY contextCopyEmail.label       "E-mailadres kopiearje">
+<!ENTITY contextCopyPhone.label       "Telefoannûmer kopiearje">
+<!ENTITY contextCopyImageLocation.label       "Ofbyldingslokaasje kopiearje">
+<!ENTITY contextShareLink.label       "Keppeling diele">
+<!ENTITY contextShareImage.label      "Ofbylding diele">
+<!ENTITY contextBookmarkLink.label    "Blêdwizer meitsje">
+<!ENTITY contextSaveVideo.label       "Fideo bewarje">
 <!ENTITY contextShareVideo.label      "Diel fideo">
 <!ENTITY contextPlayMedia.label       "Spylje">
 <!ENTITY contextPauseMedia.label      "Pauze">
 <!ENTITY contextFullScreen.label      "Folslein skerm">
 <!ENTITY contextEditBookmark.label    "Bewurkje">
 <!ENTITY contextRemoveBookmark.label  "Fuortsmite">
+<!ENTITY contextShortcutBookmark.label "Tafoegje oan startskerm">
 
 <!ENTITY pageactions.saveas.pdf      "Bewarje as PDF">
-<!ENTITY pageactions.share.page      "Diel side">
-<!ENTITY pageactions.password.forget "Ferjit wachtwurd">
+<!ENTITY pageactions.share.page      "Side diele">
+<!ENTITY pageactions.password.forget "Wachtwurd ferjitte">
 <!ENTITY pageactions.quit            "Slute">
-<!ENTITY pageactions.reset           "Wiskje websteefoarkarren">
-<!ENTITY pageactions.findInPage      "Fyn yn side">
+<!ENTITY pageactions.reset           "Websteefoarkarren wiskje">
+<!ENTITY pageactions.findInPage      "Fyn op side">
 <!ENTITY pageactions.search.addNew   "Sykmasine tafoegje">
-<!ENTITY pageactions.charEncoding    "Karakterdekodearring">
+<!ENTITY pageactions.charEncoding    "Tekenset">
 
 <!ENTITY appMenu.siteOptions         "Webstee-opsjes">

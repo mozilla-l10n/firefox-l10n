@@ -9,3 +9,24 @@
 <!ENTITY aboutHome.noTabs               "Gjin ljepblêden fan de lêste kear">
 <!ENTITY aboutHome.noAddons             "Gjin oanrikkemandearre tafoegings">
 <!ENTITY aboutHome.getLocale            "Wizigje taal">
+<!ENTITY aboutHome.getInBeforeBeta      "Doch mei mei Bèta.">
+<!ENTITY aboutHome.tryAurora                    "Probearje Firefox Aurora en help de takomst fan Firefox foarm te jaan.">
+<!-- LOCALIZATION NOTE:
+     (aboutHome.downloadAurora): First line of a multi-line button. Treat as a title.
+-->
+<!ENTITY aboutHome.downloadAurora		"Download Aurora">
+<!-- LOCALIZATION NOTE:
+     (aboutHome.forAndroid): Second line of a multi-line button. Treat as a subtitle.
+-->
+<!ENTITY aboutHome.forAndroid			"foar Android">
+<!-- LOCALIZATION NOTE:
+     (aboutHome.setupSync): This string should match the desktop
+     equivalent, in particular concerning syncBrand.fullName.label.
+-->
+<!ENTITY aboutHome.setupSync            "Sync ynstelle">
+<!-- LOCALIZATION NOTE:
+     (aboutHome.syncPairDevice): This string should match the desktop
+     equivalent, in particular concerning syncBrand.fullName.label.
+-->
+<!ENTITY aboutHome.syncPairDevice       "In apparaat keppelje">
+
