@@ -6,26 +6,28 @@
 a replacement for the standard security certificate errors produced
 by NSS/PSM via netError.xhtml. -->
 
-<!ENTITY certerror.pagetitle  "Untrusted Connection">
+<!ENTITY certerror.pagetitle  "Nepreverjena povezava">
 <!ENTITY certerror.longpagetitle "Ta povezava je nepreverjena">
 
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara1 "Zahtevali ste, da se za &brandShortName; zaščiteno 
-povezavo z <b>#1</b>, vendar vam ne moremo potrditi, da je povezava zaščitena.">
+<!ENTITY certerror.introPara1 "You have asked &brandShortName; to connect
+securely to <b>#1</b>, but we can't confirm that your connection is secure.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Kaj naj storim?">
-<!ENTITY certerror.whatShouldIDo.content "Če se na to stran ponavadi povezujete brez težav, 
-jo morda kdo poskuša oponašati, zato vam nadaljevanje odsvetujemo.">
+<!ENTITY certerror.whatShouldIDo.content "If you usually connect to
+this site without problems, this error could mean that someone is
+trying to impersonate the site, and you shouldn't continue.">
 <!ENTITY certerror.getMeOutOfHere.label "Odpelji me na domačo stran!">
 
 <!ENTITY certerror.expert.heading "Razumem tveganje">
-<!ENTITY certerror.expert.content "Če razumete, kaj se dogaja, 
-lahko brskalniku &brandShortName; naročite, da začne zaupati istovetnosti te strani. 
-<b>Četudi zaupate strani, pa lahko nekdo še vedno poskuša prestrezati vašo povezavo.</b>">
-<!ENTITY certerror.expert.contentPara2 "Vnesite izjem za to stran samo, če
-veste za dober razlog, zakaj za stran ne uporablja zaščitene identifikacije.">
+<!ENTITY certerror.expert.content "If you understand what's going on, you
+can tell &brandShortName; to start trusting this site's identification.
+<b>Even if you trust the site, this error could mean that someone is
+tampering with your connection.</b>">
+<!ENTITY certerror.expert.contentPara2 "Don't add an exception unless
+you know there's a good reason why this site doesn't use trusted identification.">
 <!ENTITY certerror.addTemporaryException.label "Obišči stran">
 <!ENTITY certerror.addPermanentException.label "Dodaj stalno izjemo">
 

@@ -1,12 +1,3 @@
-<!ENTITY empty.label            "Iskanje">
-<!ENTITY newpref.label          "Dodaj nastavitev">
-<!ENTITY addpref.name           "Ime">
-<!ENTITY addpref.value          "Vrednost">
-
-<!ENTITY cancel.label           "Prekliči">
-<!ENTITY reset.label            "Ponastavi">
-<!ENTITY done.label             "Shrani">
-
-<!ENTITY integer.label          "Celo število">
-<!ENTITY string.label           "Niz">
-<!ENTITY boolean.label          "Logična vrednost">
+<!ENTITY search.placeholder2    "Iskanje po nastavitvah">
+<!ENTITY clear.altText          "Pobriši">
+<!ENTITY newpref.label2         "Dodaj nastavitev">

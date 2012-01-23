@@ -1,23 +1,95 @@
 
-<!ENTITY  splash_screen_loading "Nalaganje">
-<!ENTITY  splash_screen_installing_libs "Nameščanje knjižnic\u2026">
 <!ENTITY  splash_firstrun "Nastavljanje &brandShortName;\u2026">
 
-<!ENTITY  no_space_to_start_error "Ni dovolj prostora, da bi &brandShortName; lahko zagnal.">
-<!ENTITY  error_loading_file "Med nalaganjem datotek, ki so potrebne za izvajanje &brandShortName;a, je prišlo do napake.">
+<!ENTITY  no_space_to_start_error "Za zagon &brandShortName; ni na voljo dovolj pomnilnika.">
+<!ENTITY  error_loading_file "Med poizkusom nalaganja datoteke, ki so potrebne za zagon &brandShortName;, je prišlo do napake">
 
-<!ENTITY  crash_reporter_title "&brandShortName; - Poročevalec o sesutju">
-<!ENTITY  crash_message "&brandShortName; se je sesul. Vaši zavihki bi ob ponovnem zagonu &brandShortName;a morali biti navedeni na začetni strani.">
-<!ENTITY  crash_help_message "Pomagajte nam ta problem rešiti!">
-<!ENTITY  crash_send_report_message "Pošljite Mozilli sporočilo o sesutju">
-<!ENTITY  crash_include_url "Dodaje me naslov strani">
+<!ENTITY  awesomebar_all_pages_title "Najbolj obiskane strani">
+<!ENTITY  awesomebar_bookmarks_title "Zaznamki">
+<!ENTITY  awesomebar_history_title "Zgodovina">
+<!ENTITY  awesomebar_search_engine "Išči \&quot;&#037;s\&quot;">
+
+<!ENTITY  crash_reporter_title "Poročevalec za sesutja &brandShortName;">
+<!ENTITY  crash_message "&brandShortName; se je sesul. Ko ponovno zaženete, bi se na začetni strani &brandShortName; nahajati seznam vaših zavihkov.">
+<!ENTITY  crash_help_message "Pomagajte nam prosim, da ta problem rešimo!">
+<!ENTITY  crash_send_report_message "Pošljite Mozilli poročilo o sesutju">
+<!ENTITY  crash_include_url "Priložite naslov strani">
 <!ENTITY  crash_close_label "Zapri">
-<!ENTITY  crash_restart_label "Zaženi znova &brandShortName;">
-<!ENTITY  sending_crash_report "Pošiljanje sporočila o sesutju\u2026">
+<!ENTITY  crash_restart_label "Ponovno zaženi &brandShortName;">
+<!ENTITY  sending_crash_report "Pošiljanje poročila o sesutju\u2026">
 <!ENTITY  exit_label "Izhod">
 <!ENTITY  continue_label "Nadaljuj">
 
-<!ENTITY  launcher_shortcuts_title "&brandShortName; spletne aplikacije">
-<!ENTITY  launcher_shortcuts_empty "Spletnih aplikacij ni mogoče najti">
+<!ENTITY  launcher_shortcuts_title "&brandShortName; Spletne aplikacije">
+<!ENTITY  launcher_shortcuts_empty "Ni bilo mogoče najti nobene spletne aplikacije">
 
-<!ENTITY choose_file "Izberite datoteko.">
+<!ENTITY choose_file "Izberite datoteko">
+
+<!ENTITY awesomebar_default_text "Iskanje ali naslov strani">
+
+<!ENTITY bookmark "Zaznamek">
+<!ENTITY bookmark_added "Zaznamek dodan">
+<!ENTITY bookmark_removed "Zaznamek odstranjen">
+
+<!ENTITY history_today_section "Danes">
+<!ENTITY history_yesterday_section "Včeraj">
+<!ENTITY history_week_section "7 dni nazaj">
+<!ENTITY history_older_section "Starejše od 7 dni">
+
+<!ENTITY reload "Ponovno naloži">
+<!ENTITY forward "Naprej">
+
+<!ENTITY new_tab "Nov zavihek">
+
+<!ENTITY settings "Nastavitve">
+<!ENTITY settings_title "Nastavitve">
+<!ENTITY pref_category_general "Splošno">
+<!ENTITY pref_category_privacy "Zasebnost &amp; varnost">
+<!ENTITY pref_category_content "Vsebina">
+<!ENTITY pref_about_firefox "O &brandShortName;">
+<!ENTITY pref_do_not_track "Povej stranem, naj mi ne sledijo">
+<!ENTITY pref_telemetry "Pošiljaj podatke o zmogljivosti">
+<!ENTITY pref_remember_signons "Zapomni si gesla">
+<!ENTITY pref_cookies "Omogoči piškote">
+<!ENTITY pref_char_encoding "Pokaži nabor znakov">
+<!ENTITY pref_clear_history "Počisti zgodovino">
+<!ENTITY pref_clear_history_confirm "Zgodovina iskanja bo izbrisana">
+<!ENTITY pref_clear_private_data "Počisti zasebne podatke">
+<!ENTITY pref_clear_private_data_confirm "Nastavitve brskanja, med drugim gesla in piškotki bodo izbrisani">
+<!ENTITY pref_plugins "Vstavki">
+<!ENTITY pref_plugins_enabled "Omogočeno">
+<!ENTITY pref_plugins_tap_to_play "Predvajaj ob dotiku">
+<!ENTITY pref_plugins_disabled "Onemogočeno">
+<!ENTITY pref_text_size "Velikost besedila">
+<!ENTITY pref_font_size_tiny "Drobno">
+<!ENTITY pref_font_size_small "Majhno">
+<!ENTITY pref_font_size_medium "Normalno">
+<!ENTITY pref_font_size_large "Veliko">
+<!ENTITY pref_font_size_xlarge "Zelo veliko">
+<!ENTITY pref_use_master_password "Uporabi glavno geslo">
+
+<!ENTITY quit "Izhod">
+
+<!ENTITY addons "Dodatki">
+<!ENTITY downloads "Prenosi">
+
+<!ENTITY share "Deli">
+<!ENTITY save_as_pdf "Shrani kot PDF">
+
+<!ENTITY contextmenu_open_new_tab "Odpri v novem zavihku">
+<!ENTITY contextmenu_remove_bookmark "Odstrani">
+<!ENTITY contextmenu_add_to_launcher "Dodaj na domači zaslon">
+<!ENTITY contextmenu_share "Deli">
+
+<!ENTITY site_settings_title        "Počisti nastavitve strani">
+<!ENTITY site_settings_cancel       "Prekliči">
+<!ENTITY site_settings_clear        "Pobriši">
+<!ENTITY site_settings_no_settings  "Ni nastavitev, katere bi bilo potrebno izbrisati.">
+
+<!ENTITY masterpassword_create_title "Ustvari glavno geslo">
+<!ENTITY masterpassword_remove_title "Odstranitev glavnega gesla">
+<!ENTITY masterpassword_password "Geslo">
+<!ENTITY masterpassword_confirm "Potrditev gesla">
+
+<!ENTITY button_ok "V redu">
+<!ENTITY button_cancel "Prekliči">

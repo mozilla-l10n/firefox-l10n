@@ -14,5 +14,5 @@
 <!-- LOCALIZATION NOTE:
      These strings are concatenated in order. Unneeded strings may be left blank.
 -->
-<!ENTITY aboutPage.licenseLink                  "Licensing information">
+<!ENTITY aboutPage.licenseLink                  "Podatki o dovoljenjih">
 <!ENTITY aboutPage.licenseLinkSuffix            ".">
