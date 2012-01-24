@@ -50,7 +50,9 @@
 <!ENTITY pref_telemetry "Envoyer données de perf.">
 <!ENTITY pref_remember_signons "Enreg. les mots de passe">
 <!ENTITY pref_cookies "Autoriser les cookies">
-<!ENTITY pref_char_encoding "Afficher l\u0027encodage">
+<!ENTITY pref_char_encoding "Encodage de caractères">
+<!ENTITY pref_char_encoding_on "Afficher le menu">
+<!ENTITY pref_char_encoding_off "Masquer le menu">
 <!ENTITY pref_clear_history "Supprimer l\u0027historique">
 <!ENTITY pref_clear_history_confirm "L\u0027historique de navigation sera supprimé">
 <!ENTITY pref_clear_private_data "Supprimer les données personnelles">
@@ -71,6 +73,7 @@
 
 <!ENTITY addons "Modules complémentaires">
 <!ENTITY downloads "Téléchargements">
+<!ENTITY char_encoding "Encodage de caractères">
 
 <!ENTITY share "Partager">
 <!ENTITY save_as_pdf "Enregistrer en PDF">
