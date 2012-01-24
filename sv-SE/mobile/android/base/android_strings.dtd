@@ -51,7 +51,9 @@
 <!ENTITY pref_telemetry "Skicka prestandadata">
 <!ENTITY pref_remember_signons "Spara lösenord">
 <!ENTITY pref_cookies "Aktivera kakor">
-<!ENTITY pref_char_encoding "Visa teckenkodning">
+<!ENTITY pref_char_encoding "Teckenkodning">
+<!ENTITY pref_char_encoding_on "Visa meny">
+<!ENTITY pref_char_encoding_off "Visa ingen meny">
 <!ENTITY pref_clear_history "Rensa historiken">
 <!ENTITY pref_clear_history_confirm "Webbläsarhistoriken kommer att tas bort">
 <!ENTITY pref_clear_private_data "Rensa känslig data">
@@ -72,6 +74,7 @@
 
 <!ENTITY addons "Tillägg">
 <!ENTITY downloads "Filhämtningar">
+<!ENTITY char_encoding "Teckenkodning">
 
 <!ENTITY share "Dela">
 <!ENTITY save_as_pdf "Spara som PDF">
