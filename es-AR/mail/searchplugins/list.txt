@@ -1,7 +1,5 @@
 google
 yahoo-ar
-bing
-twitter
 amazondotcom
 mercadolibre-ar
 drae
