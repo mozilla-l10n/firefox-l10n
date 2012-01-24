@@ -3,7 +3,7 @@
 <!-- First page of the wizard -->
 
 <!ENTITY setup.pickSetupType.description2 "Benvegnûo! Se ti no t'æ mâi adêuviòu o &syncBrand.fullName.label; prìmma de ancheu, alôa ti devi creâ 'n nêuvo account.">
-<!ENTITY button.createNewAccount.label "Crea 'n nêuvo account">
+<!ENTITY button.createNewAccount.label "Crêa 'n nêuvo account">
 <!ENTITY button.haveAccount.label      "Gh'ò za 'n Account">
 
 <!ENTITY setup.choicePage.title.label     "T'æ za ûzòu &syncBrand.fullName.label; prìmma d'ancheu?">

@@ -13,7 +13,7 @@
 <!ENTITY window.title               "Editô do stîle">
 
 <!ENTITY newButton.label            "Nêuvo">
-<!ENTITY newButton.tooltip          "Crea e azónzi 'n nêuvo féuggio de stîle a-o documénto">
+<!ENTITY newButton.tooltip          "Crêa e azónzi 'n nêuvo féuggio de stîle a-o documénto">
 <!ENTITY newButton.accesskey        "N">
 <!ENTITY newButton.commandkey       "N">
 
