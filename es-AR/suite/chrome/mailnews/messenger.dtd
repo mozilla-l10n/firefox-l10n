@@ -271,6 +271,10 @@
 
 <!ENTITY findCmd.label "Buscar en este mensaje…">
 
+<!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
+     This is the key used to show the Lightning quick filter bar. -->
+<!ENTITY quickFilterBar.show.key2 "K">
+
 <!-- Go Menu -->
 
 <!ENTITY goMenu.label "Ir">
@@ -447,7 +451,6 @@
 <!ENTITY deleteButton.label "Borrar">
 <!ENTITY undeleteButton.label "Recuperar">
 <!ENTITY markButton.label "Marcar">
-<!ENTITY printButton.label "Imprimir">
 <!ENTITY stopButton.label "Detener">
 <!ENTITY junkButton.label "Basura">
 <!ENTITY notJunkButton.label "No es basura">
@@ -471,7 +474,6 @@
 <!ENTITY deleteButton.tooltip "Borrar el mensaje o la carpeta seleccionados">
 <!ENTITY undeleteButton.tooltip "Recuperar mensaje borrado">
 <!ENTITY markButton.tooltip "Marcar mensajes">
-<!ENTITY printButton.tooltip "Imprimir este mensaje">
 <!ENTITY stopButton.tooltip "Detener la transferencia actual">
 <!ENTITY throbber.tooltip "Ir a la página web de &vendorShortName;">
 <!ENTITY junkButton.tooltip "Marcar los mensajes seleccionados como correo basura">
