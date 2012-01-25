@@ -7,7 +7,7 @@
 
 <!ENTITY accountSetupInfo2.label "Um Nachrichten empfangen zu können, müssen Sie zuerst ein Konto anlegen.">
 <!ENTITY accountTypeTitle.label "Neues Konto einrichten">
-<!ENTITY accountTypeDesc2.label "Dieser Assistent sammelt Informationen, die notwendig sind, um ein neues Konto einzurichten. Wenn Sie die abgefragten Daten nicht kennen, kontaktieren Sie bitte Ihren Systemadministrator oder Internet-Service-Provider.">
+<!ENTITY accountTypeDesc2.label "Dieser Assistent sammelt Informationen, die notwendig sind, um ein neues Konto einzurichten. Wenn Sie die abgefragten Daten nicht kennen, kontaktieren Sie bitte Ihren Systemadministrator oder Internetanbieter.">
 <!ENTITY accountTypeDirections.label "Wählen Sie den Konten-Typ, den Sie einrichten wollen:">
 <!ENTITY accountTypeMail.label "E-Mail">
 <!ENTITY accountTypeMail.accesskey "E">
