@@ -7,7 +7,7 @@
 
 <!ENTITY accountSetupInfo2.label "Um Nachrichten empfangen zu können, müssen Sie zuerst einen Account anlegen.">
 <!ENTITY accountTypeTitle.label "Neuen Account einrichten">
-<!ENTITY accountTypeDesc2.label "Dieser Assistent sammelt die Informationen, die notwendig sind, um einen Account einzurichten. Wenn Sie die verlangten Daten nicht kennen, kontaktieren Sie bitte Ihren Systemadministrator oder Internet Service Provider.">
+<!ENTITY accountTypeDesc2.label "Dieser Assistent sammelt die Informationen, die notwendig sind, um einen Account einzurichten. Wenn Sie die verlangten Daten nicht kennen, kontaktieren Sie bitte Ihren Systemadministrator oder Internetanbieter.">
 <!ENTITY accountTypeDirections.label "Wählen Sie den Typ des Accounts, der eingerichtet werden soll:">
 <!ENTITY accountTypeMail.label "E-Mail-Account">
 <!ENTITY accountTypeMail.accesskey "E">
@@ -71,12 +71,12 @@
 <!-- Entities for Login page -->
 
 <!ENTITY loginTitle.label "Benutzernamen">
-<!ENTITY usernameDesc.label "Geben Sie den Benutzernamen für eingehende Nachrichten an, der Ihnen von E-Mail-Provider gegeben wurde">
+<!ENTITY usernameDesc.label "Geben Sie den Benutzernamen für eingehende Nachrichten an, der Ihnen vom E-Mail-Anbieter gegeben wurde">
 <!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
 <!ENTITY usernameExample.label "(zum Beispiel &quot;hmaier&quot;).">
 <!ENTITY usernameLabel.label "Benutzername für eingehende Nachrichten:">
 <!ENTITY usernameLabel.accesskey "B">
-<!ENTITY usernameSmtpDesc.label "Geben Sie den Benutzernamen für ausgehende Nachrichten an, der Ihnen von E-Mail-Provider gegeben wurde (normalerweise ist das der gleiche wie jener für eingehende Nachrichten).">
+<!ENTITY usernameSmtpDesc.label "Geben Sie den Benutzernamen für ausgehende Nachrichten an, der Ihnen vom E-Mail-Anbieter gegeben wurde (normalerweise ist das der gleiche wie jener für eingehende Nachrichten).">
 <!ENTITY usernameSmtpLabel.label "Benutzername für ausgehende Nachrichten:">
 <!ENTITY usernameSmtpLabel.accesskey "B">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
