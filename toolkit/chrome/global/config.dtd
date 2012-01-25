@@ -43,9 +43,9 @@
 <!ENTITY aboutWarningButton.label "Mi estos singarda, mi promesas!">
 <!ENTITY aboutWarningCheckbox.label "Montri tiun ĉi atentigon venontan fojon">
 
-<!ENTITY filterPrefs.label "Filtrilo:">
-<!ENTITY filterPrefs.accesskey "I">
-<!ENTITY focusFilter.key "f">
+<!ENTITY searchPrefs.label "Serĉi:">
+<!ENTITY searchPrefs.accesskey "s">
+<!ENTITY focusSearch.key "r">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "Nomo de prefero">
