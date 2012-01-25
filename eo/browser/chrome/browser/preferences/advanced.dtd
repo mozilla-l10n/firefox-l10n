@@ -76,9 +76,9 @@
 <!ENTITY useService.accesskey            "f">
 
 <!ENTITY updateOthers.label              "Aŭtomate ĝisdatigi:">
-<!ENTITY enableAddonsUpdate3.label       "Aldonaĵoj">
-<!ENTITY enableAddonsUpdate3.accesskey   "A">
-<!ENTITY enableSearchUpdate.label        "Serĉiloj">
+<!ENTITY enableAddonsUpdate3.label       "Aldonaĵojn">
+<!ENTITY enableAddonsUpdate3.accesskey   "d">
+<!ENTITY enableSearchUpdate.label        "Serĉilojn">
 <!ENTITY enableSearchUpdate.accesskey    "S">
 
 <!ENTITY offlineNotify.label             "Diri al mi kiam retejo petas la konservado de datumojn por uzi malkonektite">
