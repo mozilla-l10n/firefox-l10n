@@ -20,9 +20,3 @@
 <!ENTITY languages.customize.moveUp.accesskey "A">
 <!ENTITY languages.customize.moveDown.label "Abajo">
 <!ENTITY languages.customize.moveDown.accesskey "b">
-<!ENTITY spelling.label "Ortografía">
-<!ENTITY checkSpelling.label "Al escribir, revisar ortografía:">
-<!ENTITY checkSpelling.accesskey "e">
-<!ENTITY dontCheckSpelling.label "Nunca">
-<!ENTITY multilineCheckSpelling.label "En campos multilínea">
-<!ENTITY alwaysCheckSpelling.label "En todos los campos">
