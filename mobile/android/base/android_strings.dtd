@@ -100,3 +100,5 @@
 <!ENTITY abouthome_last_tabs_open "Öppna alla flikar från sist">
 <!ENTITY abouthome_top_sites_title "Mest besökta">
 <!ENTITY abouthome_top_sites_browse "Bläddra bland de mest besökta">
+<!ENTITY abouthome_no_top_sites "Du har inga mest besökta platser ännu. Tryck på adressfältet för att börja surfa.">
+
