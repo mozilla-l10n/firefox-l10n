@@ -2,6 +2,8 @@
 <!ENTITY playButton.pauseLabel "Pauze">
 <!ENTITY muteButton.muteLabel "Lûd út">
 <!ENTITY muteButton.unmuteLabel "Lûd oan">
+<!ENTITY fullscreenButton.enterfullscreenlabel "Folslein skerm">
+<!ENTITY fullscreenButton.exitfullscreenlabel "Folslein skerm ferlitte">
 
 <!ENTITY stats.media "Media">
 <!ENTITY stats.size "Grutte">
@@ -18,6 +20,13 @@
 <!ENTITY stats.framesPresented "Frames presintearre">
 <!ENTITY stats.framesPainted "Frames makke">
 
+<!ENTITY error.aborted "Fideo laden stopt.">
+<!ENTITY error.network "Fideo ôfspyljen ôfbrutsen fanwege in netwurkflater.">
+<!ENTITY error.decode "Fideo kin net ôfspile wurde omdat it bestân korrupt is.">
+<!ENTITY error.srcNotSupported "Fideoformaat of MIME-type is net stipe.">
+<!ENTITY error.noSource2 "Gjin stipe fideoformaat yn MIME-type fûn.">
+<!ENTITY error.generic "Fideo ôfspyljen ôfbrutsen fanwege in ûnbekende flater.">
+
 <!--
 Localization note: the #1 string is the current media position, and the #2
 string is the total duration. For example, when at the 5 minute mark in a 6
@@ -25,4 +34,3 @@ hour long video, #1 would be "5:00" and #2 would be "6:00:00", result string
 would be "5:00 of 6:00:00 elapsed".
 -->
 <!ENTITY scrubberScale.nameFormat "#1 fan #2 ferrûn">
-
