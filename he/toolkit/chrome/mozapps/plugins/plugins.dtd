@@ -47,8 +47,8 @@
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "טען מחדש את הדף">
 <!ENTITY reloadPlugin.post                                   ".">
-<!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.checkbox                                     "…ושלח דיווח קריסה">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "שליחת דיווח קריסה">
 <!ENTITY report.submitting                                   "שולח דיווח…">
 <!ENTITY report.submitted                                    "דיווח קריסה נשלח.">
 <!ENTITY report.disabled                                     "דיווח קריסות מנוטרל.">
