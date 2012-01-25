@@ -2,7 +2,7 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "Wolkom, as jo noait earder &syncBrand.fullName.label; brûkt hawwe, moatte jo in account oanmeitsje.">
+<!ENTITY setup.pickSetupType.description2 "Wolkom, as jo &syncBrand.fullName.label; noait earder brûkt hawwe, moatte jo in nij account oanmeitsje.">
 <!ENTITY button.createNewAccount.label "Meitsje in nij account oan">
 <!ENTITY button.haveAccount.label      "Ik haw in account">
 
@@ -88,6 +88,8 @@
 <!ENTITY engine.passwords.accesskey "W">
 <!ENTITY engine.prefs.label         "Foarkarren">
 <!ENTITY engine.prefs.accesskey     "F">
+<!ENTITY engine.addons.label        "Add-ons">
+<!ENTITY engine.addons.accesskey    "A">
 
 <!ENTITY choice2.merge.main.label      "Kombinearje dizze kompjûtergegevens mei myn &syncBrand.shortName.label;-gegevens">
 <!ENTITY choice2.merge.recommended.label "Oanrikkemandearre:">
