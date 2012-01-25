@@ -9,12 +9,10 @@
 <!ENTITY importFromIE.accesskey         "M">
 <!ENTITY importFromNothing.label        "Jangan impor apa pun">
 <!ENTITY importFromNothing.accesskey    "J">
-<!ENTITY importFromSeamonkey.label      "Netscape 6, 7 atau Mozilla 1.x">
-<!ENTITY importFromSeamonkey.accesskey  "N">
-<!ENTITY importFromOpera.label          "Opera">
-<!ENTITY importFromOpera.accesskey      "O">
 <!ENTITY importFromSafari.label         "Safari">
 <!ENTITY importFromSafari.accesskey     "S">
+<!ENTITY importFromChrome.label         "Chrome">
+<!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromHTMLFile.label       "Dari Berkas HTML">
 <!ENTITY importFromHTMLFile.accesskey   "B">
 
