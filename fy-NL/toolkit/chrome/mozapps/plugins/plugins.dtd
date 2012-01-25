@@ -35,7 +35,7 @@
 <!ENTITY reloadPlugin.middle                                 "side op 'e nij">
 <!ENTITY reloadPlugin.post                                   " om it nochris te probearjen.">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.checkbox                                     "…en ûngelokrapport ferstjoere">
+<!ENTITY report.please                                     	 "Ferstjoer ûngelokrapport">
 <!ENTITY report.submitting                                   "Rapport ferstjoere…">
 <!ENTITY report.submitted                                    "Ungelokrapport ferstjoerd.">
 <!ENTITY report.disabled                                     "Ungelokrapportearring útskeakele.">

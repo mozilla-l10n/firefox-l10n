@@ -1,5 +1,10 @@
 <!ENTITY addons.windowTitle                   "Tafoegingsbehearder">
+
 <!ENTITY search.placeholder                   "Alle tafoegings trochsykje">
+<!-- LOCALIZATION NOTE (search.commandKey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
+
 <!ENTITY loading.label                        "Lade…">
 <!ENTITY listEmpty.installed.label            "Jo hawwe gjin tafoegings fan dit type ynstallearre">
 <!ENTITY listEmpty.availableUpdates.label     "Gjin fernijings fûn">

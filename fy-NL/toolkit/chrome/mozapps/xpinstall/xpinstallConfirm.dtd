@@ -1,8 +1,0 @@
-<!-- extracted from institems.xul -->
-
-<!ENTITY dialog.title 			"Programma-ynstallaasje">
-<!ENTITY dialog.style           "width: 45em">
-<!ENTITY warningPrimary.label 	"Ynstallearje allinnich tafoegings fan auteurs dy't jo fertrouwe.">
-<!ENTITY warningSecondary.label "Kweawollende programma's kinne jo kompjûter of jo privacy skansearje.">
-
-<!ENTITY from.label 			"fan:">
