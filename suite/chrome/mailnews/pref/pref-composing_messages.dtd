@@ -61,7 +61,7 @@
 <!ENTITY spellingHeader.label                 "Орфографія">
 <!ENTITY spellCheck.label                     "Перевіряти орфографію перед надсиланням листа">
 <!ENTITY spellCheck.accesskey                 "П">
-<!ENTITY spellCheckInline.label               "Первіряти орфографію протягом набирання тексту">
+<!ENTITY spellCheckInline.label               "Перевіряти орфографію протягом набирання тексту">
 <!ENTITY spellCheckInline.accesskey           "e">
 <!ENTITY languagePopup.label                  "Мова:">
 <!ENTITY languagePopup.accessKey              "М">

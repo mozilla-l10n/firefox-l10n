@@ -75,7 +75,7 @@
 
 <!ENTITY cookies.info.name.label "Назва:">
 <!ENTITY cookies.info.value.label "Вміст:">
-<!ENTITY cookies.info.host.label "Вузл:">
+<!ENTITY cookies.info.host.label "Вузол:">
 <!ENTITY cookies.info.domain.label "Домен:">
 <!ENTITY cookies.info.path.label "Шлях:">
 <!ENTITY cookies.info.sendtype.label "Виклик:">
@@ -120,7 +120,7 @@
 <!ENTITY prefs.button.remove.accesskey "В">
 
 <!-- passwords -->
-<!ENTITY pwd.description "Збережено такі паролі для цього домена:">
+<!ENTITY pwd.description "Збережено такі паролі для цього домену:">
 
 <!ENTITY pwd.tree.host.label "Сайт">
 <!ENTITY pwd.tree.username.label "Користувач">

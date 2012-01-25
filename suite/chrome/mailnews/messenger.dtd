@@ -169,7 +169,7 @@
 <!ENTITY showFolderPaneCmd.accesskey "F">
 
 <!-- sortMenu is also used by addressbook -->
-<!ENTITY sortMenu.label "Упорядувати">
+<!ENTITY sortMenu.label "Упорядкувати">
 <!ENTITY sortMenu.accesskey "У">
 
 <!ENTITY sortByDateCmd.label "за датою">
@@ -441,7 +441,7 @@
 <!ENTITY fileButton.label "Помістити">
 <!ENTITY nextButton.label "Далі">
 <!ENTITY goBackButton.label "Назад">
-<!ENTITY goForwardButton.label "Пререслати">
+<!ENTITY goForwardButton.label "Переслати">
 <!ENTITY deleteButton.label "Вилучити">
 <!ENTITY undeleteButton.label "Відновити">
 <!ENTITY markButton.label "Позначити">
@@ -460,7 +460,7 @@
 <!ENTITY newMsgButton.tooltip "Створити листа">
 <!ENTITY replyButton.tooltip "Відповісти на листа">
 <!ENTITY replyAllButton.tooltip "Відповісти відправнику та всім одержувачам">
-<!ENTITY replyAllButtonNews.tooltip "Відповісти відравнику і групі новин">
+<!ENTITY replyAllButtonNews.tooltip "Відповісти відправнику і групі новин">
 <!ENTITY forwardButton.tooltip "Переслати вибраного листа">
 <!ENTITY fileButton.tooltip "Помістити вибраний лист у потрібну теку">
 <!ENTITY nextButton.tooltip "Перейти до наступного непрочитаного листа">

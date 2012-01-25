@@ -67,7 +67,7 @@
 <!ENTITY saveFrameCmd.label           "Зберегти рамку">
 <!ENTITY saveFrameCmd.accesskey       "a">
 <!ENTITY saveLinkAsCmd.label          "Зберегти адресат посилання як…">
-<!ENTITY saveLinkCmd.label            "Зберегти адресат посалання">
+<!ENTITY saveLinkCmd.label            "Зберегти адресат посилання">
 <!ENTITY saveLinkCmd.accesskey        "З">
 <!ENTITY saveImageAsCmd.label         "Зберегти зображення як…">
 <!ENTITY saveImageCmd.label           "Зберегти зображення">

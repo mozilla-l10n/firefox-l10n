@@ -54,7 +54,7 @@
 
 <!ENTITY view.columns.label              "Показати стовпці">
 <!ENTITY view.columns.accesskey          "П">
-<!ENTITY view.sortBy.label               "Упорядувати">
+<!ENTITY view.sortBy.label               "Упорядкувати">
 <!ENTITY view.sortBy.accesskey           "У">
 
 <!ENTITY view.unsorted.label             "Невпорядковано">

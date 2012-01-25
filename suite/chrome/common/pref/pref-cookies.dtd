@@ -7,7 +7,7 @@
 <!ENTITY accAllCookiesRadio.label       "Дозволяти всіх кук">
 <!ENTITY accAllCookiesRadio.accesskey   "Д">
 
-<!ENTITY accOrgCookiesRadio.label       "Дозволляти кук лише зі сторінки сайту">
+<!ENTITY accOrgCookiesRadio.label       "Дозволяти кук лише зі сторінки сайту">
 <!ENTITY accOrgCookiesRadio.accesskey   "Д">
 
 <!ENTITY disableCookies.label           "Заборонити кук">
@@ -31,7 +31,7 @@
 <!ENTITY forCurrentSession.accesskey    "Т">
 
 <!ENTITY manageCookies.label            "Налаштувати кук і сайти">
-<!ENTITY manageCookiesDescription.label "Дозволяти переглядати і організовувати збережених кук і посайтові налаштуання для схвалення і відкидання кук. Посайтові налаштування оминатимуть налаштування вище.">
+<!ENTITY manageCookiesDescription.label "Дозволяти переглядати і організовувати збережених кук і посайтові налаштування для схвалення і відкидання кук. Посайтові налаштування оминатимуть налаштування вище.">
 
 <!ENTITY viewCookies.label              "Налаштування кук">
 <!ENTITY viewCookies.accesskey          "Н">
