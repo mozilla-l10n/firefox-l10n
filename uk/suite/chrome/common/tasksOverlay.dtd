@@ -20,8 +20,8 @@
 <!ENTITY windowMenu.label "Вікно">
 <!ENTITY windowMenu.accesskey "В">
 
-<!ENTITY tasksMenu.label "Інструменти">
-<!ENTITY tasksMenu.accesskey "І"> 
+<!ENTITY tasksMenu.label "Засоби">
+<!ENTITY tasksMenu.accesskey "З"> 
 
 <!ENTITY datamanCmd.label "Менеджер даних">
 <!ENTITY datamanCmd.accesskey "М">

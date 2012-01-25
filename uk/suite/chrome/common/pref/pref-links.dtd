@@ -1,9 +1,9 @@
 <!ENTITY linksHeader.label "Поведінка посилань">
 <!ENTITY newWindow.label "Поведінка відкривання посилань">
-<!ENTITY newWindowDescription.label "Відкривання посилання означає відкрити в нововому вікні:">
+<!ENTITY newWindowDescription.label "Відкривання посилання означає відкрити в новому вікні:">
 <!ENTITY newWindowRestriction.label "Коли скрипт вимагає відкривання в новому вікні:">
 <!ENTITY external.label "Посилання з інших програм">
-<!ENTITY externalDescription.label "Відкрити посилання дозовлені з інших програм у:">
+<!ENTITY externalDescription.label "Відкрити посилання дозволені з інших програм у:">
 
 <!ENTITY openCurrent.label "Поточній вкладці/вікні">
 <!ENTITY newWindowGroupCurrent.accesskey "П">

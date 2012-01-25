@@ -20,7 +20,7 @@
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Показати всі мітки">
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "Відкривати цю закладку у бічній панелі">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "б">
-<!ENTITY editBookmarkOverlay.choose.label                    "Виберати…">
+<!ENTITY editBookmarkOverlay.choose.label                    "Вибрати…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "Створити теку">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "т">
 <!ENTITY editBookmarkOverlay.newFolderButton.tooltip         "Створити нову теку">

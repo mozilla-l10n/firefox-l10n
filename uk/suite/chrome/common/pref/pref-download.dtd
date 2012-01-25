@@ -25,7 +25,7 @@
 <!ENTITY whenQuittingApp.label          "Коли вимикається &brandShortName;">
 <!ENTITY neverRemove.label              "Ніколи">
 
-<!ENTITY finishedBehavior.label         "Коли звантаження завершано">
+<!ENTITY finishedBehavior.label         "Коли звантаження завершено">
 <!ENTITY playSound.label                "Програти звуковий сигнал">
 <!ENTITY playSound.accesskey            "П">
 <!ENTITY showAlert.label                "Показувати попередження">

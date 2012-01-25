@@ -37,7 +37,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY  managecerts.caption      "Організувати сертифікатами">
-<!ENTITY  managecerts.text         "Організувати сертифікати, щоб упорядувати ваші власні сертифікати так само, як вони в інших людей і в джерелах сертифікатів.">
+<!ENTITY  managecerts.text         "Організувати сертифікати, щоб упорядкувати ваші власні сертифікати так само, як вони в інших людей і в джерелах сертифікатів.">
 <!ENTITY  managecerts.button       "Організувати сертифікати…">
 <!ENTITY  managecerts.accesskey    "О">
 <!ENTITY  managedevices.caption    "Організувати пристрої захисту">

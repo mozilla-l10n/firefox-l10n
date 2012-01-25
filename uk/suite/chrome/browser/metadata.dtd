@@ -1,4 +1,4 @@
-<!ENTITY no-properties.label   "Не вказано жодної властивісті.">
+<!ENTITY no-properties.label   "Не вказано жодної властивості.">
 
 <!ENTITY caption.label         "Властивості елементів">
 <!ENTITY image-sec.label       "Властивості зображень">
@@ -21,6 +21,6 @@
 <!ENTITY misc-sec.label        "Інші властивості">
 <!ENTITY misc-lang.label       "Мова тексту:">
 <!ENTITY misc-title.label      "Назва:">
-<!ENTITY misc-tblsummary.label "Пісумок:">
+<!ENTITY misc-tblsummary.label "Підсумок:">
 <!ENTITY quote-sec.label       "Властивості цитування">
 <!ENTITY quote-cite.label      "Дані:">

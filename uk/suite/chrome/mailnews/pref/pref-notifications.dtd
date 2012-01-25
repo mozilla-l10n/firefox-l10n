@@ -44,8 +44,8 @@
 <!ENTITY showAnimatedAlert.accesskey      "П">
 <!ENTITY showTrayIcon.label               "Показувати піктограму у лотку">
 <!ENTITY showTrayIcon.accesskey           "л">
-<!ENTITY bounceSystemDockIcon.label       "Анімувати піктограму">
-<!ENTITY bounceSystemDockIcon.accesskey   "А">
+<!ENTITY bounceSystemDockIcon.label       "Рухати піктограму">
+<!ENTITY bounceSystemDockIcon.accesskey   "Р">
 <!ENTITY playButton.label                 "Програти">
 <!ENTITY playButton.accesskey             "П">
 <!ENTITY systemsound.label                "Системний звук">
