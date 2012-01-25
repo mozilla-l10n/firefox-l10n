@@ -51,7 +51,9 @@
 <!ENTITY pref_telemetry "Enviar datos de rendimiento">
 <!ENTITY pref_remember_signons "Recordar contraseñas">
 <!ENTITY pref_cookies "Habilitar cookies">
-<!ENTITY pref_char_encoding "Mostrar codificación de caracteres">
+<!ENTITY pref_char_encoding "Codificación de caracteres">
+<!ENTITY pref_char_encoding_on "Mostrar menú">
+<!ENTITY pref_char_encoding_off "No mostrar menú">
 <!ENTITY pref_clear_history "Limpiar historial">
 <!ENTITY pref_clear_history_confirm "El historial de navegación será borrado">
 <!ENTITY pref_clear_private_data "Borrar datos privados">
@@ -60,17 +62,20 @@
 <!ENTITY pref_plugins_enabled "Habilitado">
 <!ENTITY pref_plugins_tap_to_play "Pulsar para ejecutar">
 <!ENTITY pref_plugins_disabled "Deshabilitado">
-<!ENTITY pref_font_size "Tamaño de letra">
+<!ENTITY pref_text_size "Tamaño de texto">
+<!ENTITY pref_font_size_tiny "Muy chico">
 <!ENTITY pref_font_size_small "Chico">
 <!ENTITY pref_font_size_medium "Mediano">
 <!ENTITY pref_font_size_large "Grande">
 <!ENTITY pref_font_size_xlarge "Extra grande">
 <!ENTITY pref_use_master_password "Usar contraseña maestra">
+<!ENTITY pref_sync "Sync">
 
 <!ENTITY quit "Salir">
 
 <!ENTITY addons "Complementos">
 <!ENTITY downloads "Descargas">
+<!ENTITY char_encoding "Codificación de caracteres">
 
 <!ENTITY share "Compartir">
 <!ENTITY save_as_pdf "Guardar como PDF">
@@ -92,4 +97,11 @@
 
 <!ENTITY button_ok "Aceptar">
 <!ENTITY button_cancel "Cancelar">
+
+<!ENTITY abouthome_addons_title "Complementos para tu &brandShortName;">
+<!ENTITY abouthome_addons_browse "Examinar todos los complementos de &brandShortName;">
+<!ENTITY abouthome_last_tabs_title "Tus pestañas de la última vez">
+<!ENTITY abouthome_last_tabs_open "Abrir todas las pestañas de la última vez">
+<!ENTITY abouthome_top_sites_title "Top sites">
+<!ENTITY abouthome_top_sites_browse "Browse all your top sites">
 
