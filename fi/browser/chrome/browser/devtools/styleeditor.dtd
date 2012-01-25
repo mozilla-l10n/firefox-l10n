@@ -57,6 +57,6 @@
 <!ENTITY noStyleSheet-tip-start.label  "Haluaisitko ehkä ">
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-action.label): This is text for the
      link that triggers creation of a new stylesheet. -->
-<!ENTITY noStyleSheet-tip-action.label "liittää uuden tyylitiedoston">
+<!ENTITY noStyleSheet-tip-action.label "liittää uuden tyylin">
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-end.label): End of the tip sentence -->
 <!ENTITY noStyleSheet-tip-end.label    "?">

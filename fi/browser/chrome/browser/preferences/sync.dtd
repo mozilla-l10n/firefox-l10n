@@ -30,6 +30,8 @@
 <!ENTITY engine.passwords.accesskey "a">
 <!ENTITY engine.prefs.label         "Asetukset">
 <!ENTITY engine.prefs.accesskey     "e">
+<!ENTITY engine.addons.label        "Lisäosat">
+<!ENTITY engine.addons.accesskey    "L">
 
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label       "Laitteen nimi:">

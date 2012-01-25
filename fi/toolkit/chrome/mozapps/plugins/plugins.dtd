@@ -34,8 +34,8 @@
 <!ENTITY reloadPlugin.pre                                    "Yritä uudestaan ">
 <!ENTITY reloadPlugin.middle                                 "lataamalla sivu uudestaan">
 <!ENTITY reloadPlugin.post                                   ".">
-<!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.checkbox                                     "…ja lähetä kaatumisilmoitus">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "Lähetä kaatumisilmoitus">
 <!ENTITY report.submitting                                   "Lähetään ilmoitusta…">
 <!ENTITY report.submitted                                    "Kaatumisilmoitus lähetettiin.">
 <!ENTITY report.disabled                                     "Kaatumisilmoitusten lähettäminen poistettu käytöstä.">
