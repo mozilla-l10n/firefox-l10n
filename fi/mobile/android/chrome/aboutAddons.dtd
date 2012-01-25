@@ -1,0 +1,8 @@
+<!ENTITY aboutAddons.title                      "Lisäosien hallinta">
+<!ENTITY aboutAddons.header                     "Lisäosat">
+<!ENTITY aboutAddons.options                    "Asetukset">
+
+<!ENTITY addonAction.enable                     "Ota käyttöön">
+<!ENTITY addonAction.disable                    "Poista käytöstä">
+<!ENTITY addonAction.uninstall                  "Poista">
+<!ENTITY addonAction.cancel                     "Peruuta">
