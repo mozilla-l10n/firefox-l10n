@@ -60,7 +60,8 @@
 <!ENTITY pref_plugins_enabled "Habilitar">
 <!ENTITY pref_plugins_tap_to_play "Pulsar para ejecutar">
 <!ENTITY pref_plugins_disabled "Deshabilitar">
-<!ENTITY pref_font_size "Tamaño de letra">
+<!ENTITY pref_text_size "Tamaño de texto">
+<!ENTITY pref_font_size_tiny "Muy chico">
 <!ENTITY pref_font_size_small "Chico">
 <!ENTITY pref_font_size_medium "Mediano">
 <!ENTITY pref_font_size_large "Grande">
@@ -74,10 +75,9 @@
 
 <!ENTITY share "Compartir">
 <!ENTITY save_as_pdf "Guardar como PDF">
-<!ENTITY agent_request_desktop "Solicitar sitio de escritorio">
-<!ENTITY agent_request_mobile "Solicitar sitio móvil">
 
 <!ENTITY contextmenu_open_new_tab "Abrir en pestaña nueva">
+<!ENTITY contextmenu_remove_bookmark "Eliminar">
 <!ENTITY contextmenu_add_to_launcher "Agregar a pantalla de inicio">
 <!ENTITY contextmenu_share "Compartir">
 
