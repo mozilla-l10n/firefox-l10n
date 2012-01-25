@@ -2,6 +2,8 @@
 <!ENTITY playButton.pauseLabel "Paŭzigi">
 <!ENTITY muteButton.muteLabel "Silentigi">
 <!ENTITY muteButton.unmuteLabel "Malsilentigi">
+<!ENTITY fullscreenButton.enterfullscreenlabel "Ekranplena reĝimo">
+<!ENTITY fullscreenButton.exitfullscreenlabel "Eliri el ekranplena reĝimo">
 
 <!ENTITY stats.media "Komunikrimedoj">
 <!ENTITY stats.size "Grandeco">
@@ -17,6 +19,13 @@
 <!ENTITY stats.framesDecoded "Malkoditaj kadroj">
 <!ENTITY stats.framesPresented "Prezentitaj kadroj">
 <!ENTITY stats.framesPainted "Bildigitaj kadroj">
+
+<!ENTITY error.aborted "Ŝargado de video haltigita.">
+<!ENTITY error.network "Ludado de video abortita pro eraro en la reto.">
+<!ENTITY error.decode "Ne eblas ludi la videon ĉar la dosiero estas difektita.">
+<!ENTITY error.srcNotSupported "La formo aŭ tipo MIME de la video ne estas subtenata.">
+<!ENTITY error.noSource2 "Neniu video kun subtenata formo kaj tipo MIME estis trovita.">
+<!ENTITY error.generic "Ludado de video abortita pro nekonata eraro.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
