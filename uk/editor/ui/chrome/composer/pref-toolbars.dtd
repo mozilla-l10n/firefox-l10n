@@ -43,7 +43,7 @@
 <!ENTITY save.label             "Зберегти">
 <!ENTITY publish.label          "Опублікувати">
 <!ENTITY preview.label          "Оглянути">
-<!ENTITY cut.label              "Вирызати">
+<!ENTITY cut.label              "Вирізати">
 <!ENTITY copy.label             "Копіювати">
 <!ENTITY paste.label            "Вставити">
 <!ENTITY print.label            "Надрукувати">
@@ -54,7 +54,7 @@
 <!ENTITY link.label             "Посилання">
 <!ENTITY anchor.label           "Якір">
 
-<!ENTITY formatting.caption     "Показувати ці кнопуи в панелі інструментів форматування:">
+<!ENTITY formatting.caption     "Показувати ці кнопки в панелі інструментів форматування:">
 
 <!ENTITY smaller.label          "Менше">
 <!ENTITY larger.label           "Більше">
