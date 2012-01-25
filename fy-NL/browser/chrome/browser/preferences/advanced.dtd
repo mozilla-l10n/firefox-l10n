@@ -40,7 +40,9 @@
 <!ENTITY connectionSettings.label        "Ynstellings...">
 <!ENTITY connectionSettings.accesskey    "Y">
 
-<!ENTITY offlineStorage.label            "Opslach sûnder ferbining">
+<!ENTITY httpCache.label                 "Buffere webynhâld">
+
+<!ENTITY offlineStorage2.label           "Offlinewebynhâld en brûkersgegevens">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -53,6 +55,8 @@
 <!ENTITY limitCacheSizeAfter.label       "MB romte">
 <!ENTITY clearCacheNow.label            "No leechmeitsje">
 <!ENTITY clearCacheNow.accesskey        "l">
+<!ENTITY clearOfflineAppCacheNow.label   "No wiskje">
+<!ENTITY clearOfflineAppCacheNow.accesskey "N">
 <!ENTITY overrideSmartCacheSize.label    "Automatysk bufferbehear net brûke">
 <!ENTITY overrideSmartCacheSize.accesskey "A">
 
@@ -76,8 +80,6 @@
 <!ENTITY useService.accesskey            "a">
 
 <!ENTITY updateOthers.label              "Automatysk fernijing:">
-<!ENTITY enableAddonsUpdate3.label       "Tafoegings">
-<!ENTITY enableAddonsUpdate3.accesskey   "o">
 <!ENTITY enableSearchUpdate.label        "Sykmasines">
 <!ENTITY enableSearchUpdate.accesskey    "S">
 
@@ -86,7 +88,7 @@
 <!ENTITY offlineNotifyExceptions.label   "Utsûnderings">
 <!ENTITY offlineNotifyExceptions.accesskey "u">
 
-<!ENTITY offlineAppsList.label           "De folgjende websteeën hawwe gegevens ynstallearre foar gebrûk as jo gjin ferbining hawwe">
+<!ENTITY offlineAppsList2.label          "De folgjende websteeën hawwe tastimming om gegevens te bewarjen foar offlinegebrûk:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Fuortsmite...">
 <!ENTITY offlineAppsListRemove.accesskey "F">
