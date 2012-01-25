@@ -2,7 +2,7 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "Selamat datang! Jika Anda belum pernah menggunakan &syncBrand.fullName.label; Anda perlu untuk membuat akun baru.">
+<!ENTITY setup.pickSetupType.description2 "Selamat datang! Jika Anda belum pernah menggunakan &syncBrand.fullName.label; Anda perlu untuk membuat akun baru.">
 <!ENTITY button.createNewAccount.label "Buat Akun Baru">
 <!ENTITY button.haveAccount.label      "Saya Sudah Punya Akun">
 
@@ -89,6 +89,8 @@
 <!ENTITY engine.passwords.accesskey "i">
 <!ENTITY engine.prefs.label         "Pengaturan">
 <!ENTITY engine.prefs.accesskey     "P">
+<!ENTITY engine.addons.label        "Pengaya">
+<!ENTITY engine.addons.accesskey    "A">
 
 <!ENTITY choice2.merge.main.label      "Gabungkan data pada komputer ini dengan data &syncBrand.shortName.label; saya">
 <!ENTITY choice2.merge.recommended.label "Direkomendasikan:">

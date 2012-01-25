@@ -34,8 +34,8 @@
 <!ENTITY reloadPlugin.pre                                    "Silakan coba ">
 <!ENTITY reloadPlugin.middle                                 "memuat ulang laman">
 <!ENTITY reloadPlugin.post                                   ".">
-<!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.checkbox                                     "…dan mengirim laporan crash">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "Kirimkan laporan mogok">
 <!ENTITY report.submitting                                   "Mengirim laporan…">
 <!ENTITY report.submitted                                    "Laporan crash terkirim.">
 <!ENTITY report.disabled                                     "Pelaporan crash dimatikan.">

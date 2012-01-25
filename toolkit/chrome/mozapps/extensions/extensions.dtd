@@ -1,5 +1,10 @@
 <!ENTITY addons.windowTitle                   "Pengelola Pengaya">
+
 <!ENTITY search.placeholder                   "Cari pengaya">
+<!-- LOCALIZATION NOTE (search.commandKey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
+
 <!ENTITY loading.label                        "Memuat…">
 <!ENTITY listEmpty.installed.label            "Anda tidak memiliki pengaya terpasang jenis ini">
 <!ENTITY listEmpty.availableUpdates.label     "Tidak ada versi baru ditemukan">
