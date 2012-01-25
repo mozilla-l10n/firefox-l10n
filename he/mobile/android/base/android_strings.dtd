@@ -103,6 +103,9 @@
 <!ENTITY masterpassword_password "ססמה">
 <!ENTITY masterpassword_confirm "וודא סיסמה">
 
+<!ENTITY button_ok "אישור">
+<!ENTITY button_cancel "ביטול">
+
 <!ENTITY abouthome_addons_title "תוספות עבור &brandShortName;">
 <!ENTITY abouthome_addons_browse "עיון בכל התוספות עבור &brandShortName;">
 <!ENTITY abouthome_last_tabs_title "לשוניות מההפעלה האחרונה">
