@@ -252,8 +252,8 @@
 <!ENTITY calendar.context.findcalendar.accesskey       "E" >
 <!ENTITY calendar.context.deleteserver.label           "Poista kalenteri">
 <!ENTITY calendar.context.deleteserver.accesskey       "P">
-<!ENTITY calendar.context.reloadserver.label           "Päivitä etäkalenterit">
-<!ENTITY calendar.context.reloadserver.accesskey       "ä">
+<!ENTITY calendar.context.synccalendars.label          "Synkronoi kalenterit">
+<!ENTITY calendar.context.synccalendars.accesskey      "S">
 <!ENTITY calendar.context.publish.label                "Julkaise kalenteri…">
 <!ENTITY calendar.context.publish.accesskey            "J">
 <!ENTITY calendar.context.export.label                 "Vie kalenteri…">
