@@ -1,12 +1,3 @@
-<!ENTITY empty.label            "Etsi">
-<!ENTITY newpref.label          "Lisää asetus">
-<!ENTITY addpref.name           "Nimi">
-<!ENTITY addpref.value          "Arvo">
-
-<!ENTITY cancel.label           "Peruuta">
-<!ENTITY reset.label            "Palauta">
-<!ENTITY done.label             "Valmis">
-
-<!ENTITY integer.label          "Kokonaisluku">
-<!ENTITY string.label           "Merkkijono">
-<!ENTITY boolean.label          "Totuusarvo">
+<!ENTITY search.placeholder2    "Hae asetuksista">
+<!ENTITY clear.altText          "Tyhjennä">
+<!ENTITY newpref.label2         "Lisää uusi asetus">
