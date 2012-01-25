@@ -74,3 +74,9 @@
 <!ENTITY masterpassword_confirm "Подтвердите пароль">
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Отмена">
+<!ENTITY abouthome_addons_title "Дополнения для вашего &brandShortName;">
+<!ENTITY abouthome_addons_browse "Обзор всех дополнений &brandShortName;">
+<!ENTITY abouthome_last_tabs_title "Вкладки открытые в прошлый раз">
+<!ENTITY abouthome_last_tabs_open "Открыть все вкладки с прошлого раза">
+<!ENTITY abouthome_top_sites_title "Топ сайтов">
+<!ENTITY abouthome_top_sites_browse "Просмотр вашего топа сайтов">
