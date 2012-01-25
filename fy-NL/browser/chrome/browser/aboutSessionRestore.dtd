@@ -2,9 +2,9 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-<!ENTITY restorepage.errorTitle			"Wel, dit is ûnnoflik.">
-<!ENTITY restorepage.problemDesc		"&brandShortName; hat moaite om jo skermen en ljepblêden te werstellen. Dit bart faak troch in resint iepene webside.">
-<!ENTITY restorepage.tryThis			"Jo kinne besykje om:">
+<!ENTITY restorepage.errorTitle			"No, dit is ûnnoflik.">
+<!ENTITY restorepage.problemDesc		"&brandShortName; hat muoite om jo skermen en ljepblêden te werstellen. Dit bart faaks troch in resint iepene webside.">
+<!ENTITY restorepage.tryThis			"Jo kinne probearje om:">
 <!ENTITY restorepage.restoreSome		"Ien of mear ljepblêden te sluten dêr't jo fan tinke dat se it probleem feroarsaakje">
 <!ENTITY restorepage.startNew			"Te starten mei in folslein nije sneupsesje">
 
