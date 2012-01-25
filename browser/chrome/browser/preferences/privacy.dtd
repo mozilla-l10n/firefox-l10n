@@ -8,7 +8,7 @@
 <!ENTITY  locationBar.label             "Retadresa strio">
 
 <!ENTITY  locbar.pre.label              "Dum uzado de la retadresa strio, sugesti el:">
-<!ENTITY  locbar.pre.accessKey          "r">
+<!ENTITY  locbar.pre.accessKey          "u">
 <!ENTITY  locbar.post.label             "">
 <!ENTITY  locbar.both.label             "Historio kaj legosignoj">
 <!ENTITY  locbar.history.label          "Historio">
@@ -30,7 +30,7 @@
 <!ENTITY  askEachTime.label             "demandi al mi ĉiun fojon">
 
 <!ENTITY  cookieExceptions.label        "Esceptoj…">
-<!ENTITY  cookieExceptions.accesskey    "E">
+<!ENTITY  cookieExceptions.accesskey    "t">
 
 <!ENTITY  showCookies.label             "Montri kuketojn…">
 <!ENTITY  showCookies.accesskey         "M">
@@ -77,4 +77,4 @@
 <!ENTITY  clearOnClose.accesskey         "v">
 
 <!ENTITY  clearOnCloseSettings.label     "Agordoj…">
-<!ENTITY  clearOnCloseSettings.accesskey "a">
+<!ENTITY  clearOnCloseSettings.accesskey "g">
