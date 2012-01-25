@@ -35,7 +35,7 @@
 <!ENTITY history_today_section "Hjoed">
 <!ENTITY history_yesterday_section "Juster">
 <!ENTITY history_week_section "7 dagen lyn">
-<!ENTITY history_older_section "Alder aa 7 dagen">
+<!ENTITY history_older_section "Alder as 7 dagen">
 
 <!ENTITY reload "Fernije">
 <!ENTITY forward "Foarút">
@@ -96,3 +96,9 @@
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Annulearje">
 
+<!ENTITY abouthome_addons_title "Add-ons foar jo &brandShortName;">
+<!ENTITY abouthome_addons_browse "Blêdzje alle &brandShortName; add-ons">
+<!ENTITY abouthome_last_tabs_title "Jo ljepblêden fan de lêste kear">
+<!ENTITY abouthome_last_tabs_open "Iepenje alle ljepblêden fan de lêste kear">
+<!ENTITY abouthome_top_sites_title "Topsites">
+<!ENTITY abouthome_top_sites_browse "Blêdzje al jo topsites">
