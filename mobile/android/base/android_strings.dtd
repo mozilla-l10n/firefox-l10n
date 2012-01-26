@@ -94,3 +94,9 @@
 <!ENTITY button_ok "Aceptar">
 <!ENTITY button_cancel "Cancelar">
 
+<!ENTITY abouthome_addons_title "Complementos para tu &brandShortName;">
+<!ENTITY abouthome_addons_browse "Examinar todos los complementos de &brandShortName;">
+<!ENTITY abouthome_last_tabs_title "Tus pestañas de la última vez">
+<!ENTITY abouthome_last_tabs_open "Abrir todas las pestañas de la última vez">
+<!ENTITY abouthome_top_sites_title "Top sites">
+<!ENTITY abouthome_top_sites_browse "Browse all your top sites">
