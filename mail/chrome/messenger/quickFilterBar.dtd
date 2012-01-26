@@ -1,9 +1,9 @@
 <!ENTITY quickFilterBar.qfbShowFilterBar.label "Filtro veloce">
-<!ENTITY quickFilterBar.toggleBarVisibility.menu.label "Barra filtro rapido">
-<!ENTITY quickFilterBar.toggleBarVisibility.menu.accesskey "B">
-<!ENTITY quickFilterBar.toggleBarVisibility.button.tooltip "Attiva la barra del filtro rapido">
+<!ENTITY quickFilterBar.toggleBarVisibility.menu.label "Barra filtro veloce">
+<!ENTITY quickFilterBar.toggleBarVisibility.menu.accesskey "f">
+<!ENTITY quickFilterBar.toggleBarVisibility.button.tooltip "Attiva la barra del filtro veloce">
 <!ENTITY quickFilterBar.sticky.tooltip "Mantieni i filtri quando si cambia cartella">
-<!ENTITY quickFilterBar.barLabel.label "Filtro rapido:">
+<!ENTITY quickFilterBar.barLabel.label "Filtro veloce:">
 <!ENTITY quickFilterBar.unread.label "Non letti">
 <!ENTITY quickFilterBar.unread.tooltip "Mostra solo i messaggi ancora da leggere">
 <!ENTITY quickFilterBar.starred.label "Speciali">
