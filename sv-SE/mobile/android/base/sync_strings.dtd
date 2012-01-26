@@ -1,0 +1,72 @@
+<!-- Don't localize these. They're here until they have
+     a better place to live. -->
+<!ENTITY syncBrand.fullName.label "Firefox Sync">
+<!ENTITY syncBrand.shortName.label "Sync">
+
+<!-- Main titles. -->
+<!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
+<!ENTITY sync.title.connect.label 'Anslut till &syncBrand.shortName.label;'>
+<!ENTITY sync.title.adddevice.label 'Lägg till ett &syncBrand.fullName.label;-konto'>
+<!ENTITY sync.title.pair.label 'Para ihop enheter'>
+
+<!-- J-PAKE Key Screen -->
+<!ENTITY sync.subtitle.connect.label 'Aktivera den nya enheten genom att välja ”Ställ in &syncBrand.shortName.label;” på enheten.'>
+<!ENTITY sync.subtitle.header.label 'Ange denna kod på din dator'>
+<!ENTITY sync.subtitle.connectlocation.label 'Välj ”&sync.title.pair.label;” i &syncBrand.shortName.label;-sektionen i Firefox-inställningarna på din dator.'>
+<!ENTITY sync.subtitle.pair.label 'Aktivera genom att välja ”Para ihop enheter” på din andra enhet.'>
+<!ENTITY sync.pin.default.label '...\n...\n...\n'>
+<!ENTITY sync.pin.oneline.label '...'>
+<!ENTITY sync.link.show.label 'Visa hur.'>
+<!ENTITY sync.link.advancedsetup.label 'Avancerade inställningar…'>
+<!ENTITY sync.link.nodevice.label 'Jag har inte tillgång till enheten just nu…'>
+
+<!-- J-PAKE Waiting Screen -->
+<!ENTITY sync.jpake.subtitle.waiting.label 'Väntar på den andra enheten…'>
+
+<!-- Account Login Screen -->
+<!ENTITY sync.subtitle.account.label 'Ange dina kontouppgifter för &syncBrand.fullName.label;'>
+<!ENTITY sync.input.username.label 'Kontonamn'>
+<!ENTITY sync.input.password.label 'Lösenord'>
+<!ENTITY sync.input.key.label 'Återställningsnyckel'>
+<!ENTITY sync.checkbox.server.label 'Använd egen server'>
+<!ENTITY sync.input.server.label 'Server-URL'>
+  
+<!-- Setup Fail -->
+<!ENTITY sync.title.fail.label 'Kan inte ställa in &syncBrand.shortName.label;'>
+<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; kunde inte ansluta till servern. Vill du försöka igen?'>
+<!ENTITY sync.button.tryagain.label 'Försök igen'>
+<!ENTITY sync.button.manual.label 'Manuell inställning'>
+<!ENTITY sync.subtitle.nointernet.label 'Ingen tillgänglig internetanslutning.'>
+  
+<!-- Setup Success -->
+<!ENTITY sync.title.success.label 'Inställningen är klar'>
+<!ENTITY sync.subtitle.success.label 'Din data hämtas nu. Du kan gå till Inställningar för att hantera ditt konto.'>
+<!ENTITY sync.settings.label 'Inställningar'>
+<!ENTITY sync.subtitle.manage.label 'Ditt &syncBrand.fullName.label;-konto är redan klart. Gå till Inställningar för att hantera ditt konto.'>
+
+<!-- Pair Device -->
+<!ENTITY sync.pair.tryagain.label 'Försök igen.'>
+
+<!-- Firefox SyncAdapter Settings Screen -->
+<!ENTITY sync.settings.options.label 'Alternativ'>
+<!ENTITY sync.summary.pair.label 'Länka annan enhet till ditt &syncBrand.shortName.label;-konto'>
+
+<!-- Common text -->
+<!ENTITY sync.button.cancel.label 'Avbryt'>
+<!ENTITY sync.button.connect.label 'Anslut'>
+<!ENTITY sync.button.ok.label 'OK'>
+  
+<!-- Account strings -->
+<!ENTITY sync.account.label.label '&syncBrand.fullName.label;'>
+  
+<!-- Bookmark folder strings -->
+<!ENTITY bookmarks.folder.menu.label 'Bokmärken-menyn'>
+<!ENTITY bookmarks.folder.places.label ''>
+<!ENTITY bookmarks.folder.tags.label 'Etiketter'>
+<!ENTITY bookmarks.folder.toolbar.label 'Bokmärkesfältet'>
+<!ENTITY bookmarks.folder.unfiled.label 'Osorterade bokmärken'>
+<!ENTITY bookmarks.folder.desktop.label 'Datorns bokmärken'>
+<!ENTITY bookmarks.folder.mobile.label 'Mobila bokmärken'>
+
+<!-- Notification strings -->
+<!ENTITY sync.notification.oneaccount.label 'Endast ett &syncBrand.fullName.label;-konto kan användas.'>
