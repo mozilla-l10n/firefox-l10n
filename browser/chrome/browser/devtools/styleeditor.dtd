@@ -22,17 +22,6 @@
 <!ENTITY importButton.accesskey     "I">
 <!ENTITY importButton.commandkey    "i">
 
-<!ENTITY searchInput.tooltip        "Filtrar folhas de estilo por nome">
-<!ENTITY searchInput.placeholder    "Procurar folha de estilo">
-
-<!-- LOCALIZATION NOTE  (searchNoResults): This is shown when searching a term
-     that is not found in any stylesheet or stylesheet name. -->
-<!ENTITY searchNoResults.label      "Não foi encontrada nenhuma folha de estilo.">
-
-<!-- LOCALIZATION NOTE  (searchClearButton): This button clears the search input
-     box and is visible only when a search term has been typed. -->
-<!ENTITY searchClearButton.label    "Limpar">
-
 <!ENTITY visibilityToggle.tooltip   "Trocar visibilidade da folha de estilo">
 <!ENTITY visibilityToggle.accesskey "v">
 
@@ -60,3 +49,6 @@
 <!ENTITY noStyleSheet-tip-action.label "anexar uma nova folha de estilo">
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-end.label): End of the tip sentence -->
 <!ENTITY noStyleSheet-tip-end.label    "?">
+
+<!-- LOCALIZATION NOTE  (closeCmd.key): Accel + this key closes the window. -->
+<!ENTITY closeCmd.key                  "W">
