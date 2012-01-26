@@ -66,7 +66,7 @@
 <!ENTITY updateApp.label                 "Agiornaménti de &brandShortName;:">
 <!ENTITY updateAuto.label                "Instàlla i agiornaménti in aotomàtico (racomandòu: ciù seguéssa)">
 <!ENTITY updateAuto.accesskey            "a">
-<!ENTITY updateCheck.label               "Contròlla se gh'é agiornaménti, ma fanni decidde a mi se instalâli">
+<!ENTITY updateCheck.label               "Contròlla se gh'é agiornaménti, ma fànni decìdde a mi se instalâli">
 <!ENTITY updateCheck.accesskey           "C">
 <!ENTITY updateManual.label              "No çercâ mâi i agiornaménti (no racomandòu: rezego de seguéssa)">
 <!ENTITY updateManual.accesskey          "N">

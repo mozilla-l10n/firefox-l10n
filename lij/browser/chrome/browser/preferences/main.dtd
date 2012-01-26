@@ -28,8 +28,8 @@
 <!ENTITY saveTo.accesskey "v">
 <!ENTITY chooseFolderWin.label        "Çerca…">
 <!ENTITY chooseFolderWin.accesskey    "Ç">
-<!ENTITY chooseFolderMac.label        "Scegli…">
-<!ENTITY chooseFolderMac.accesskey    "e">
+<!ENTITY chooseFolderMac.label        "Scégli…">
+<!ENTITY chooseFolderMac.accesskey    "g">
 <!ENTITY alwaysAsk.label "Domandame sénpre donde sarvâ i file">
 <!ENTITY alwaysAsk.accesskey "a">
 

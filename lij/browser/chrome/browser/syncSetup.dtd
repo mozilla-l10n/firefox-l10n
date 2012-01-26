@@ -25,7 +25,7 @@
 <!ENTITY setup.newAccountDetailsPage.title.label "Detàlli do Account">
 <!ENTITY setup.emailAddress.label     "Indirìsso de pòsta">
 <!ENTITY setup.emailAddress.accesskey "e">
-<!ENTITY setup.choosePassword.label      "Çerni unn-a paròlla segrétta">
+<!ENTITY setup.choosePassword.label      "Çèrni 'na paròlla segrétta">
 <!ENTITY setup.choosePassword.accesskey  "p">
 <!ENTITY setup.confirmPassword.label     "Confèrma Paròlla Segrétta">
 <!ENTITY setup.confirmPassword.accesskey "m">

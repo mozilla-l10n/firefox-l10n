@@ -39,7 +39,7 @@
 <!ENTITY cmd.backup.accesskey           "c">
 <!ENTITY cmd.restore2.label             "Repiggia">
 <!ENTITY cmd.restore2.accesskey         "R">
-<!ENTITY cmd.restoreFromFile.label      "Scegli file…">
+<!ENTITY cmd.restoreFromFile.label      "Scégli file…">
 <!ENTITY cmd.restoreFromFile.accesskey  "c">
 
 <!ENTITY cmd.bookmarkLink.label         "Azónzi sta pàgina a-i segnalìbbri…">

@@ -86,7 +86,7 @@
 <!-- Strings for the SSL client auth ask dialog -->
 <!ENTITY clientAuthAsk.title "L'é domandâ a identitæ do utilizatô">
 <!ENTITY clientAuthAsk.message1 "Sto scîto o veu savéi a teu identificaçión co-o certificâto:">
-<!ENTITY clientAuthAsk.message2 "Scegli un certificâto da fâ védde cómme identificaçión:">
+<!ENTITY clientAuthAsk.message2 "Scégli un certificâto da fâ védde cómme identificaçión:">
 <!ENTITY clientAuthAsk.message3 "Detàlli in sciô certificâto Seleçionòu:">
 
 <!-- Strings for the cert picker dialog -->
@@ -103,8 +103,8 @@
 <!ENTITY pkcs12.getpassword.title  "Inserimento da paròlla segrétta">
 <!ENTITY pkcs12.getpassword.message "Pe favô dinni a paròlla segrétta che a l'é stæta uzâ pe criptâ sta còpia de seguéssa di certificâti.">
 
-<!ENTITY chooseToken.title  "Scegli o Token">
-<!ENTITY chooseToken.message1 "Pe favô scegli o tocken.">
+<!ENTITY chooseToken.title  "Scégli o Token">
+<!ENTITY chooseToken.message1 "Pe favô scégli o token.">
 
 <!ENTITY escrowWarn.title "Criptaçión da ciâve de còpie">
 <!ENTITY escrowWarn.message1 "Inportànte: Sta Aotoritæ di Certicâti a l'à domandòu de fâ 'na còpia de seguéssa da teu ciâve privâ de criptaçión.">

@@ -15,7 +15,7 @@
 <!ENTITY profilePrompt.accesskey        "e">
 <!ENTITY profileDirectoryExplanation.text   "E teu inpostaçioìn e preferense saiàn sarvæ chi:">
 <!ENTITY profileDefaultName             "Utilizatô predefinîo">
-<!ENTITY button.choosefolder.label      "Scegli cartélla…">
+<!ENTITY button.choosefolder.label      "Scégli cartélla…">
 <!ENTITY button.choosefolder.accesskey  "c">
 <!ENTITY button.usedefault.label        "Ûza cartélla predefinîa">
 <!ENTITY button.usedefault.accesskey    "z">
