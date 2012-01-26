@@ -22,17 +22,6 @@
 <!ENTITY importButton.accesskey     "I">
 <!ENTITY importButton.commandkey    "i">
 
-<!ENTITY searchInput.tooltip        "Filtruj arkusze stylów po nazwie">
-<!ENTITY searchInput.placeholder    "Znajdź arkusz stylów">
-
-<!-- LOCALIZATION NOTE  (searchNoResults): This is shown when searching a term
-     that is not found in any stylesheet or stylesheet name. -->
-<!ENTITY searchNoResults.label      "Nie znaleziono pasujących arkuszy stylów.">
-
-<!-- LOCALIZATION NOTE  (searchClearButton): This button clears the search input
-     box and is visible only when a search term has been typed. -->
-<!ENTITY searchClearButton.label    "Wyczyść">
-
 <!ENTITY visibilityToggle.tooltip   "Przełącz widoczność arkusza stylów">
 <!ENTITY visibilityToggle.accesskey "P">
 
@@ -60,3 +49,7 @@
 <!ENTITY noStyleSheet-tip-action.label "dołączyć nowy arkusz stylów">
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-end.label): End of the tip sentence -->
 <!ENTITY noStyleSheet-tip-end.label    "?">
+
+<!-- LOCALIZATION NOTE  (closeCmd.key): Accel + this key closes the window. -->
+<!ENTITY closeCmd.key                  "W">
+
