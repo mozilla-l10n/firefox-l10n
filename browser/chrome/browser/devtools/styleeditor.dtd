@@ -7,10 +7,6 @@
 <!ENTITY importButton.tooltip "Importar y adjuntar una hoja de estilos existente al documento">
 <!ENTITY importButton.accesskey "I">
 <!ENTITY importButton.commandkey "i">
-<!ENTITY searchInput.tooltip "Filtrar hojas de estilos por nombre">
-<!ENTITY searchInput.placeholder "Buscar hoja de estilos">
-<!ENTITY searchNoResults.label "No se ha encontrado ninguna hoja de estilos que concordara.">
-<!ENTITY searchClearButton.label "Limpiar">
 <!ENTITY visibilityToggle.tooltip "Cambiar la visibilidad de la hoja de estilos">
 <!ENTITY visibilityToggle.accesskey "V">
 <!ENTITY saveButton.label "Guardar">
@@ -23,3 +19,4 @@
 <!ENTITY noStyleSheet-tip-start.label "Quizás le gustaría ">
 <!ENTITY noStyleSheet-tip-action.label "adjuntar una nueva hoja de estilos">
 <!ENTITY noStyleSheet-tip-end.label "?">
+<!ENTITY closeCmd.key "W">
