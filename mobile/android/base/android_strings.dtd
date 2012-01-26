@@ -40,6 +40,8 @@
 <!ENTITY pref_remember_signons "Recordar contraseñas">
 <!ENTITY pref_cookies "Activar cookies">
 <!ENTITY pref_char_encoding "Mostrar cod. de caract.">
+<!ENTITY pref_char_encoding_on "Mostrar el menú">
+<!ENTITY pref_char_encoding_off "No mostrar el menú">
 <!ENTITY pref_clear_history "Limpiar historial">
 <!ENTITY pref_clear_history_confirm "El historial de navegación será eliminado">
 <!ENTITY pref_clear_private_data "Limpiar datos privados">
@@ -55,9 +57,11 @@
 <!ENTITY pref_font_size_large "Grande">
 <!ENTITY pref_font_size_xlarge "Extra grande">
 <!ENTITY pref_use_master_password "Usar contraseña maestra">
+<!ENTITY pref_sync "Sync">
 <!ENTITY quit "Salir">
 <!ENTITY addons "Complementos">
 <!ENTITY downloads "Descargas">
+<!ENTITY char_encoding "Codif. caracteres">
 <!ENTITY share "Compartir">
 <!ENTITY save_as_pdf "Guardar como PDF">
 <!ENTITY contextmenu_open_new_tab "Abrir en una pestaña nueva">
@@ -80,3 +84,6 @@
 <!ENTITY abouthome_last_tabs_open "Abrir las pestañas de la última vez">
 <!ENTITY abouthome_top_sites_title "Frecuentes">
 <!ENTITY abouthome_top_sites_browse "Navegar por sus sitios frecuentes">
+<!ENTITY abouthome_no_top_sites "No tiene ningún sitio frecuente aún. Pulse en la barra de título para comentar a navegar.">
+<!ENTITY abouthome_about_sync "Configure Firefox Sync para acceder a sus marcadores, historial y pestañas de sus otros dispositivos.">
+<!ENTITY abouthome_sync_bold_name "Firefox Sync">
