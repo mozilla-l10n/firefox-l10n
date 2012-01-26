@@ -1,0 +1,46 @@
+<!ENTITY syncBrand.fullName.label "Firefox Sync">
+<!ENTITY syncBrand.shortName.label "Sync">
+<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
+<!ENTITY sync.title.connect.label "Connessione &syncBrand.shortName.label;">
+<!ENTITY sync.title.adddevice.label "Aggiungi un account &syncBrand.fullName.label;">
+<!ENTITY sync.title.pair.label "Collega un dispositivo">
+<!ENTITY sync.subtitle.connect.label "Per attivare un nuovo dispositivo selezionare “Imposta &syncBrand.shortName.label;” sul dispositivo stesso.">
+<!ENTITY sync.subtitle.header.label "Inserire questo codice sul computer">
+<!ENTITY sync.subtitle.connectlocation.label "Selezionare “&sync.title.pair.label;” nella sezione &syncBrand.shortName.label; delle opzioni di Firefox sul computer desktop.">
+<!ENTITY sync.subtitle.pair.label "Per attivare selezionare “Collega un dispositivo” sull’altro dispositivo.">
+<!ENTITY sync.pin.default.label "...\n...\n...\n">
+<!ENTITY sync.pin.oneline.label "…">
+<!ENTITY sync.link.show.label "Mostra come fare.">
+<!ENTITY sync.link.advancedsetup.label "Configurazione avanzata…">
+<!ENTITY sync.link.nodevice.label "Il dispositivo non è disponibile…">
+<!ENTITY sync.jpake.subtitle.waiting.label "In attesa di altri dispositivi…">
+<!ENTITY sync.subtitle.account.label "Inserire le informazioni sull’account &syncBrand.fullName.label;">
+<!ENTITY sync.input.username.label "Nome account">
+<!ENTITY sync.input.password.label "Password">
+<!ENTITY sync.input.key.label "Chiave di ripristino">
+<!ENTITY sync.checkbox.server.label "Utilizza server personalizzato">
+<!ENTITY sync.input.server.label "Indirizzo del server">
+<!ENTITY sync.title.fail.label "Impossibile configurare &syncBrand.shortName.label;">
+<!ENTITY sync.subtitle.fail.label "Errore nella connessione di &syncBrand.fullName.label; con il server. Riprovare?">
+<!ENTITY sync.button.tryagain.label "Riprova">
+<!ENTITY sync.button.manual.label "Configurazione manuale">
+<!ENTITY sync.subtitle.nointernet.label "Connessione a Internet non disponibile.">
+<!ENTITY sync.title.success.label "Configurazione completata">
+<!ENTITY sync.subtitle.success.label "Il download dei dati è in corso. È possibile gestire il proprio account in Impostazioni.">
+<!ENTITY sync.settings.label "Impostazioni">
+<!ENTITY sync.subtitle.manage.label "L’account &syncBrand.fullName.label; è già configurato. Per gestire l’account andare in Impostazioni.">
+<!ENTITY sync.pair.tryagain.label "Riprovare">
+<!ENTITY sync.settings.options.label "Opzioni">
+<!ENTITY sync.summary.pair.label "Collega un altro dispositivo all’account &syncBrand.shortName.label;">
+<!ENTITY sync.button.cancel.label "Annulla">
+<!ENTITY sync.button.connect.label "Connetti">
+<!ENTITY sync.button.ok.label "OK">
+<!ENTITY sync.account.label.label "&syncBrand.fullName.label;">
+<!ENTITY bookmarks.folder.menu.label "Menu segnalibri">
+<!ENTITY bookmarks.folder.places.label "">
+<!ENTITY bookmarks.folder.tags.label "Etichette">
+<!ENTITY bookmarks.folder.toolbar.label "Barra dei segnalibri">
+<!ENTITY bookmarks.folder.unfiled.label "Segnalibri non catalogati">
+<!ENTITY bookmarks.folder.desktop.label "Segnalibri pc desktop">
+<!ENTITY bookmarks.folder.mobile.label "Segnalibri mobile">
+<!ENTITY sync.notification.oneaccount.label "È possibile utilizzare un solo account &syncBrand.fullName.label;.">
