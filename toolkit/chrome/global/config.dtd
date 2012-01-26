@@ -77,5 +77,5 @@
 <!ENTITY string.accesskey "S">
 <!ENTITY integer.label "整數">
 <!ENTITY integer.accesskey "I">
-<!ENTITY boolean.label "真假 (Boolean) 值">
+<!ENTITY boolean.label "布林（Boolean）值">
 <!ENTITY boolean.accesskey "B">

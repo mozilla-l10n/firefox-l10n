@@ -34,7 +34,11 @@
 <!ENTITY contentEncodingError.longDesc "<p>您嘗試檢視的頁面無法顯示，因為其中使用了無效或不支援的壓縮類型。</p><ul><li>請向網站擁有者回報此問題。</li></ul>">
 
 <!ENTITY unsafeContentType.title "不安全的檔案格式">
-<!ENTITY unsafeContentType.longDesc "<ul> <li>請向網站擁有者回報此問題。</li> </ul>">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>請向網站擁有者回報此問題。</li>
+</ul>
+">
 
 <!ENTITY netReset.title "連線中斷">
 <!ENTITY netReset.longDesc "<p>網路連線被中斷，可能是中間的網路有問題。請稍候再重試。</p>">
