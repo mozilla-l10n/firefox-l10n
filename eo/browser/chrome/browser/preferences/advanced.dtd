@@ -88,6 +88,7 @@
 <!ENTITY offlineNotifyExceptions.label   "Esceptoj…">
 <!ENTITY offlineNotifyExceptions.accesskey "s">
 
+<!ENTITY offlineAppsList2.label          "La jenaj retejoj rajtas konservi datumojn por uzi malkonektite:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Forigi…">
 <!ENTITY offlineAppsListRemove.accesskey "F">
