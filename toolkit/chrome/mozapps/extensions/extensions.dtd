@@ -1,5 +1,9 @@
 <!ENTITY addons.windowTitle                   "ตัวจัดการส่วนเสริม">
 <!ENTITY search.placeholder                   "ค้นหาส่วนเสริมทั้งหมด">
+<!-- LOCALIZATION NOTE (search.commandKey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
+
 <!ENTITY loading.label                        "กำลังโหลด…">
 <!ENTITY listEmpty.installed.label            "คุณไม่ได้ติดตั้งส่วนเสริมประเภทนี้ไว้">
 <!ENTITY listEmpty.availableUpdates.label     "ไม่พบการปรับรุ่น">
