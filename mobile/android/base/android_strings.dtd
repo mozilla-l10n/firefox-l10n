@@ -39,7 +39,9 @@
 <!ENTITY pref_telemetry "Invia dati prestazioni">
 <!ENTITY pref_remember_signons "Ricorda password">
 <!ENTITY pref_cookies "Attiva cookie">
-<!ENTITY pref_char_encoding "Mostra codifica caratteri">
+<!ENTITY pref_char_encoding "Codifica caratteri">
+<!ENTITY pref_char_encoding_on "Visualizza menu">
+<!ENTITY pref_char_encoding_off "Non visualizzare menu">
 <!ENTITY pref_clear_history "Svuota cronologia">
 <!ENTITY pref_clear_history_confirm "La cronologia di navigazione verrà rimossa">
 <!ENTITY pref_clear_private_data "Elimina dati personali">
@@ -58,6 +60,7 @@
 <!ENTITY quit "Esci">
 <!ENTITY addons "Componenti aggiuntivi">
 <!ENTITY downloads "Download">
+<!ENTITY char_encoding "Codifica caratteri">
 <!ENTITY share "Condividi">
 <!ENTITY save_as_pdf "Salva come PDF">
 <!ENTITY contextmenu_open_new_tab "Apri in nuova scheda">
@@ -80,3 +83,6 @@
 <!ENTITY abouthome_last_tabs_open "Apri tutte le schede dall’ultima esecuzione">
 <!ENTITY abouthome_top_sites_title "Siti principali">
 <!ENTITY abouthome_top_sites_browse "Sfoglia tutti i siti principali">
+<!ENTITY abouthome_no_top_sites "Non ci sono ancora siti principali. Tocca la barra del titolo per iniziare la navigazione.">
+<!ENTITY abouthome_about_sync "Configura Firefox Sync per accedere a segnalibri, cronologia e schede da altri dispositivi.">
+<!ENTITY abouthome_sync_bold_name "Firefox Sync">
