@@ -269,6 +269,10 @@
 
 <!ENTITY findCmd.label "Hľadať v tejto správe…">
 
+<!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
+     This is the key used to show the Lightning quick filter bar. -->
+<!ENTITY quickFilterBar.show.key2 "K">
+
 <!-- Go Menu -->
 
 <!ENTITY goMenu.label "Prejsť na">
@@ -445,7 +449,6 @@
 <!ENTITY deleteButton.label "Odstrániť">
 <!ENTITY undeleteButton.label "Zrušiť odstránenie">
 <!ENTITY markButton.label "Označiť">
-<!ENTITY printButton.label "Tlačiť">
 <!ENTITY stopButton.label "Zastaviť">
 <!ENTITY junkButton.label "Spam">
 <!ENTITY notJunkButton.label "Nie Spam">
@@ -469,7 +472,6 @@
 <!ENTITY deleteButton.tooltip "Odstrániť označenú správu alebo priečinok">
 <!ENTITY undeleteButton.tooltip "Zrušiť odstránenie označenej správy">
 <!ENTITY markButton.tooltip "Označiť správy">
-<!ENTITY printButton.tooltip "Vytlačiť vybranú správu">
 <!ENTITY stopButton.tooltip "Zastaviť aktuálny prenos">
 <!ENTITY throbber.tooltip "Prejsť na domovskú stránku &vendorShortName;">
 <!ENTITY junkButton.tooltip "Označiť vybrané správy ako nevyžiadané (SPAM)">

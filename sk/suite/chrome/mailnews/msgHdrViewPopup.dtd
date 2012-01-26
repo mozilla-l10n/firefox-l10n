@@ -44,10 +44,12 @@
 <!ENTITY CopyEmailAddress.accesskey        "K">
 <!ENTITY CreateFilterFrom.label            "Vytvoriť filter z…">
 <!ENTITY CreateFilterFrom.accesskey        "f">
-<!ENTITY copyLinkCmd.label                 "Kopírovať adresu odkazu">
-<!ENTITY copyLinkCmd.accesskey             "a">
+<!ENTITY openInBrowser.label               "Otvoriť v prehliadači">
+<!ENTITY openInBrowser.accesskey           "t">
 <!ENTITY bookmarkLinkCmd.label             "Pridať medzi záložky…">
 <!ENTITY bookmarkLinkCmd.accesskey         "d">
+<!ENTITY copyLinkCmd.label                 "Kopírovať adresu odkazu">
+<!ENTITY copyLinkCmd.accesskey             "a">
 <!ENTITY CopyMessageId.label               "Kopírovať ID správy">
 <!ENTITY CopyMessageId.accesskey           "K">
 <!ENTITY OpenMessageForMsgId.label         "Otvoriť správu s ID">

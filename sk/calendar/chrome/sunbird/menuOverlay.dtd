@@ -62,9 +62,9 @@
 <!ENTITY calendar.subscribe.label               "Prijať vzdialený kalendár…">
 <!ENTITY calendar.subscribe.accesskey           "P">
 
-<!ENTITY calendar.reloadserver.label            "Aktualizovať vzdialené kalendáre">
-<!ENTITY calendar.reloadserver.key              "R">
-<!ENTITY calendar.reloadserver.accesskey        "A">
+<!ENTITY calendar.synccalendars.label           "Synchronizovať kalendáre">
+<!ENTITY calendar.synccalendars.key             "R">
+<!ENTITY calendar.synccalendars.accesskey       "a">
 
 <!ENTITY calendar.publish.calendar.label        "Publikovať kalendár…">
 <!ENTITY calendar.publish.calendar.accesskey    "b">

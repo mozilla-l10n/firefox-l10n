@@ -219,6 +219,8 @@
 <!ENTITY calendar.context.progress.accesskey          "S">
 <!ENTITY calendar.context.priority.label              "Priorita">
 <!ENTITY calendar.context.priority.accesskey          "P">
+<!ENTITY calendar.context.postpone.label              "Odložiť úlohu">
+<!ENTITY calendar.context.postpone.accesskey          "O">
 
 <!ENTITY percnt                                       "&#38;#37;" ><!--=percent sign-->
 
@@ -245,6 +247,13 @@
 <!ENTITY priority.level.high                "Vysoká">
 <!ENTITY priority.level.high.accesskey      "V">
 
+<!ENTITY calendar.context.postpone.1hour.label      "O jednu hodinu">
+<!ENTITY calendar.context.postpone.1hour.accesskey  "h">
+<!ENTITY calendar.context.postpone.1day.label       "O jeden deň">
+<!ENTITY calendar.context.postpone.1day.accesskey   "O">
+<!ENTITY calendar.context.postpone.1week.label      "O jeden týždeň">
+<!ENTITY calendar.context.postpone.1week.accesskey  "d">
+
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
      task action buttons -->
@@ -258,8 +267,8 @@
 <!ENTITY calendar.context.findcalendar.accesskey      "H" >
 <!ENTITY calendar.context.deleteserver.label          "Odstrániť kalendár">
 <!ENTITY calendar.context.deleteserver.accesskey      "d">
-<!ENTITY calendar.context.reloadserver.label          "Obnoviť vzdialené kalendáre">
-<!ENTITY calendar.context.reloadserver.accesskey      "b">
+<!ENTITY calendar.context.synccalendars.label          "Synchronizovať kalendáre">
+<!ENTITY calendar.context.synccalendars.accesskey      "c">
 <!ENTITY calendar.context.publish.label               "Publikovať celý kalendár…">
 <!ENTITY calendar.context.publish.accesskey           "P">
 <!ENTITY calendar.context.export.label                "Exportovať kalendár…">

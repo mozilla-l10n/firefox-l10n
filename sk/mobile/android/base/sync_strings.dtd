@@ -12,8 +12,8 @@
 <!ENTITY sync.subtitle.connect.label 'Ak chcete aktivovať nové zariadenie, zvoľte na danom zariadení voľbu “Nastaviť službu &syncBrand.shortName.label;”.'>
 <!ENTITY sync.subtitle.pair.label 'Na jeho aktiváciu zvoľte položku “Spárovať zariadenie”.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
-<!ENTITY sync.link.show.label '<a href="https://support.mozilla.com/kb/add-a-device-to-firefox-sync">Ako na to</a>'>
-<!ENTITY sync.link.nodevice.label '<a href="#">Nemám zariadenie pri sebe…</a>'>
+<!ENTITY sync.link.show.label 'Ako na to'>
+<!ENTITY sync.link.nodevice.label 'Nemám zariadenie pri sebe…'>
 
 <!-- J-PAKE Waiting Screen -->
 <!ENTITY sync.jpake.subtitle.waiting.label 'Čaká sa na druhé zariadenie…'>
@@ -31,6 +31,7 @@
 <!ENTITY sync.subtitle.fail.label 'Služba &syncBrand.fullName.label; sa nemohla pripojiť k serveru. Chcete to skúsiť znova?'>
 <!ENTITY sync.button.tryagain.label 'Skúsiť znova'>
 <!ENTITY sync.button.manual.label 'Manuálne nastavenie'>
+<!ENTITY sync.subtitle.nointernet.label 'Nie je dostupné pripojenie k sieti internet.'>
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Nastavenie dokončené'>
@@ -38,9 +39,17 @@
 <!ENTITY sync.settings.label 'Nastavenia'>
 <!ENTITY sync.subtitle.manage.label 'Váš účet služby &syncBrand.fullName.label; je už nastavený. Spravovať ho môžete v nastaveniach prehliadača.'>
   
+<!-- Pair Device -->
+<!ENTITY sync.pair.tryagain.label 'Skúsiť znova.'>
+
+<!-- Firefox SyncAdapter Settings Screen -->
+<!ENTITY sync.settings.options.label 'Možnosti'>
+<!ENTITY sync.summary.pair.label 'Spárovať ďalšie zariadenie s vašim účtom služby &syncBrand.shortName.label;'>
+
 <!-- Common text -->
 <!ENTITY sync.button.cancel.label 'Zrušiť'>
 <!ENTITY sync.button.connect.label 'Pripojiť'>
+<!ENTITY sync.button.ok.label 'OK'>
   
 <!-- Account strings -->
 <!ENTITY sync.account.label.label '&syncBrand.fullName.label;'>
@@ -53,3 +62,6 @@
 <!ENTITY bookmarks.folder.unfiled.label 'Nezaradené záložky'>
 <!ENTITY bookmarks.folder.desktop.label 'Záložky z plnej verzie'>
 <!ENTITY bookmarks.folder.mobile.label 'Záložky z mobilnej verzie'>
+
+<!-- Notification strings -->
+<!ENTITY sync.notification.oneaccount.label 'Podporovaný je len jeden účet služby &syncBrand.fullName.label;.'>

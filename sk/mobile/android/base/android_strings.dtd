@@ -27,9 +27,7 @@
 
 <!ENTITY awesomebar_default_text "Zadajte adresu alebo vyhľadávanie">
 
-<!ENTITY bookmarks_title "Záložky">
-<!ENTITY bookmark_add "Záložka">
-<!ENTITY bookmark_remove "Odstrániť">
+<!ENTITY bookmark "Záložka">
 <!ENTITY bookmark_added "Záložka pridaná">
 <!ENTITY bookmark_removed "Záložka odstránená">
 
@@ -53,32 +51,37 @@
 <!ENTITY pref_telemetry "Odosielať údaje o výkonnosti">
 <!ENTITY pref_remember_signons "Pamätať si heslá">
 <!ENTITY pref_cookies "Povoliť cookies">
-<!ENTITY pref_char_encoding "Zobraziť kódovanie znakov">
+<!ENTITY pref_char_encoding "Kódovanie znakov">
+<!ENTITY pref_char_encoding_on "Zobraziť ponuku">
+<!ENTITY pref_char_encoding_off "Nezobrazovať ponuku">
 <!ENTITY pref_clear_history "Vymazať históriu">
 <!ENTITY pref_clear_history_confirm "História prehliadania bude vymazaná">
 <!ENTITY pref_clear_private_data "Vymazať súkromné údaje">
 <!ENTITY pref_clear_private_data_confirm "Odstránené budú nastavenia prehliadania vrátane hesiel a cookies.">
-<!ENTITY pref_enable_plugins "Povoliť zásuvné moduly">
-<!ENTITY pref_enable_plugins_yes "Áno">
-<!ENTITY pref_enable_plugins_tap_to_play "Ťuknutím prehrávať">
-<!ENTITY pref_enable_plugins_no "Nie">
-<!ENTITY pref_font_size "Veľkosť písma">
+<!ENTITY pref_plugins "Zásuvné moduly">
+<!ENTITY pref_plugins_enabled "Povolené">
+<!ENTITY pref_plugins_tap_to_play "Prehrávať po ťuknutí">
+<!ENTITY pref_plugins_disabled "Zakázané">
+<!ENTITY pref_text_size "Veľkosť textu">
+<!ENTITY pref_font_size_tiny "Maličké">
 <!ENTITY pref_font_size_small "Malé">
 <!ENTITY pref_font_size_medium "Stredné">
 <!ENTITY pref_font_size_large "Veľké">
 <!ENTITY pref_font_size_xlarge "Veľmi veľké">
 <!ENTITY pref_use_master_password "Používať hlavné heslo">
+<!ENTITY pref_sync "Synchronizácia">
 
 <!ENTITY quit "Ukončiť">
 
 <!ENTITY addons "Doplnky">
+<!ENTITY downloads "Prevzaté súbory">
+<!ENTITY char_encoding "Kódovanie znakov">
 
 <!ENTITY share "Zdieľať">
 <!ENTITY save_as_pdf "Uložiť ako PDF">
-<!ENTITY agent_request_desktop "Požiadať o plnú verziu stránky">
-<!ENTITY agent_request_mobile "požiadať o mobilnú verziu stránky">
 
 <!ENTITY contextmenu_open_new_tab "Otvoriť na novej karte">
+<!ENTITY contextmenu_remove_bookmark "Odstrániť">
 <!ENTITY contextmenu_add_to_launcher "Pridať na úvodnú obrazovku">
 <!ENTITY contextmenu_share "Zdieľať">
 
@@ -94,3 +97,10 @@
 
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Zrušiť">
+
+<!ENTITY abouthome_addons_title "Doplnky pre váš &brandShortName;">
+<!ENTITY abouthome_addons_browse "Prehľadávať všetky doplnky pre &brandShortName;">
+<!ENTITY abouthome_last_tabs_title "Vaše karty z poslednej relácie">
+<!ENTITY abouthome_last_tabs_open "Otvoriť všetky karty z poslednej relácie">
+<!ENTITY abouthome_top_sites_title "Najlepšie stránky">
+<!ENTITY abouthome_top_sites_browse "Prehľadávať všetky najlepšie stránky">
