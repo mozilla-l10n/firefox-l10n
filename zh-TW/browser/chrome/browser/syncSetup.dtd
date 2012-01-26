@@ -54,7 +54,7 @@
 
 <!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
 <!ENTITY pairDevice.title.label             "與裝置配對">
-<!ENTITY addDevice.showMeHow.label          "告訴我怎麼做">
+<!ENTITY addDevice.showMeHow.label          "告訴我怎麼做。">
 <!ENTITY addDevice.dontHaveDevice.label     "裝置不在我手邊">
 <!ENTITY pairDevice.setup.description.label  "若要啟用，請在您的另一台裝置選擇「與裝置配對」。">
 <!ENTITY addDevice.setup.enterCode.label    "然後，輸入這組代碼:">

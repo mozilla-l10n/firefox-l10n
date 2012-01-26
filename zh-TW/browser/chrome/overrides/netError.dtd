@@ -31,7 +31,7 @@
 ">
 
 
-<!ENTITY generic.title "喔喔！！">
+<!ENTITY generic.title "噢！">
 <!ENTITY generic.longDesc "
 <p>&brandShortName; 因為某些原因無法載入此網頁。</p>
 ">
@@ -78,7 +78,7 @@
 <!ENTITY netTimeout.title "連線已逾時">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "看不懂網址">
+<!ENTITY protocolNotFound.title "無法理解的網址">
 <!ENTITY protocolNotFound.longDesc "
 <ul>
   <li>您需要安裝其他軟體才能開啟此網址。</li>
@@ -103,7 +103,7 @@
 </ul>
 ">
 
-<!ENTITY redirectLoop.title "頁面重新轉向不正確">
+<!ENTITY redirectLoop.title "頁面重新導向不正確">
 <!ENTITY redirectLoop.longDesc "
 <ul>
   <li>有時候停用或拒絕接受 Cookie 會造成此問題。</li>

@@ -1,0 +1,72 @@
+<!-- Don't localize these. They're here until they have
+     a better place to live. -->
+<!ENTITY syncBrand.fullName.label "Firefox Sync">
+<!ENTITY syncBrand.shortName.label "Sync">
+
+<!-- Main titles. -->
+<!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
+<!ENTITY sync.title.connect.label '連線到 &syncBrand.shortName.label;'>
+<!ENTITY sync.title.adddevice.label '新增 &syncBrand.fullName.label; 帳號'>
+<!ENTITY sync.title.pair.label '與裝置配對'>
+
+<!-- J-PAKE Key Screen -->
+<!ENTITY sync.subtitle.connect.label '若要啟用您的新裝置，請在您的裝置上選擇「設定 &syncBrand.shortName.label;」。'>
+<!ENTITY sync.subtitle.header.label '在您的電腦上輸入此代碼'>
+<!ENTITY sync.subtitle.connectlocation.label '請在您桌面版的 Firefox 選項當中的 &syncBrand.shortName.label; 分頁選擇「&sync.title.pair.label;」。'>
+<!ENTITY sync.subtitle.pair.label '若要啟用，請在您的另一台裝置選擇「與裝置配對」。'>
+<!ENTITY sync.pin.default.label '...\n...\n...\n'>
+<!ENTITY sync.pin.oneline.label '...'>
+<!ENTITY sync.link.show.label '告訴我怎麼做。'>
+<!ENTITY sync.link.advancedsetup.label '進階設定…'>
+<!ENTITY sync.link.nodevice.label '裝置不在我手邊…'>
+
+<!-- J-PAKE Waiting Screen -->
+<!ENTITY sync.jpake.subtitle.waiting.label '正在等待另一台裝置…'>
+
+<!-- Account Login Screen -->
+<!ENTITY sync.subtitle.account.label '請輸入您的 &syncBrand.fullName.label; 帳號資訊'>
+<!ENTITY sync.input.username.label '帳號名稱'>
+<!ENTITY sync.input.password.label '密碼'>
+<!ENTITY sync.input.key.label '救援金鑰'>
+<!ENTITY sync.checkbox.server.label '使用自訂伺服器'>
+<!ENTITY sync.input.server.label '伺服器網址'>
+  
+<!-- Setup Fail -->
+<!ENTITY sync.title.fail.label '無法設定 &syncBrand.shortName.label;'>
+<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; 無法連線到伺服器。您想重試嗎？'>
+<!ENTITY sync.button.tryagain.label '重試'>
+<!ENTITY sync.button.manual.label '手動設定'>
+<!ENTITY sync.subtitle.nointernet.label '無可用網路連線。'>
+  
+<!-- Setup Success -->
+<!ENTITY sync.title.success.label '完成設定'>
+<!ENTITY sync.subtitle.success.label '您的資料即將在背景中被加密並上傳至伺服器。您可以到設定畫面中管理您的帳號。'>
+<!ENTITY sync.settings.label '設定'>
+<!ENTITY sync.subtitle.manage.label '您的 &syncBrand.fullName.label; 帳號已經設定好了。請到設定畫面管理您的帳號。'>
+
+<!-- Pair Device -->
+<!ENTITY sync.pair.tryagain.label '請再試一次。'>
+
+<!-- Firefox SyncAdapter Settings Screen -->
+<!ENTITY sync.settings.options.label '選項'>
+<!ENTITY sync.summary.pair.label '鏈結其他裝置至您的 &syncBrand.shortName.label; 帳號'>
+
+<!-- Common text -->
+<!ENTITY sync.button.cancel.label '取消'>
+<!ENTITY sync.button.connect.label '連線'>
+<!ENTITY sync.button.ok.label '確定'>
+  
+<!-- Account strings -->
+<!ENTITY sync.account.label.label '&syncBrand.fullName.label;'>
+  
+<!-- Bookmark folder strings -->
+<!ENTITY bookmarks.folder.menu.label '書籤選單'>
+<!ENTITY bookmarks.folder.places.label ''>
+<!ENTITY bookmarks.folder.tags.label '標籤'>
+<!ENTITY bookmarks.folder.toolbar.label '書籤工具列'>
+<!ENTITY bookmarks.folder.unfiled.label '未排序書籤'>
+<!ENTITY bookmarks.folder.desktop.label '來自電腦的書籤'>
+<!ENTITY bookmarks.folder.mobile.label '行動書籤'>
+
+<!-- Notification strings -->
+<!ENTITY sync.notification.oneaccount.label '僅支援一個 &syncBrand.fullName.label; 帳號。'>
