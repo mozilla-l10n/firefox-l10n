@@ -16,14 +16,6 @@
 <!ENTITY wrapOutMsg.label "Manda a capo i messaggi di testo a">
 <!ENTITY wrapOutMsg.accesskey "M">
 <!ENTITY char.label "caratteri">
-<!ENTITY spellingHeader.label "Ortografia">
-<!ENTITY spellCheck.label "Controlla ortografia prima di inviare">
-<!ENTITY spellCheck.accesskey "o">
-<!ENTITY spellCheckInline.label "Correttore ortografico in scrittura">
-<!ENTITY spellCheckInline.accesskey "C">
-<!ENTITY languagePopup.label "Lingua:">
-<!ENTITY languagePopup.accessKey "L">
-<!ENTITY moreDictionaries.label "Scarica altri dizionari…">
 <!ENTITY defaultMessagesHeader.label "Impostazioni predefinite messaggi HTML">
 <!ENTITY font.label "Carattere:">
 <!ENTITY font.accesskey "r">

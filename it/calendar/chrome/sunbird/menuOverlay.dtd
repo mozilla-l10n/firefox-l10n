@@ -56,9 +56,9 @@
 <!ENTITY calendar.pagesetup.accesskey "o">
 <!ENTITY calendar.subscribe.label "Sottoscrivi un calendario remoto…">
 <!ENTITY calendar.subscribe.accesskey "r">
-<!ENTITY calendar.reloadserver.label "Ricarica calendari remoti">
-<!ENTITY calendar.reloadserver.key "R">
-<!ENTITY calendar.reloadserver.accesskey "d">
+<!ENTITY calendar.synccalendars.label "Sincronizza calendari">
+<!ENTITY calendar.synccalendars.key "R">
+<!ENTITY calendar.synccalendars.accesskey "c">
 <!ENTITY calendar.publish.calendar.label "Pubblica calendario…">
 <!ENTITY calendar.publish.calendar.accesskey "P">
 <!ENTITY calendar.publish.selection.label "Pubblica selezione…">

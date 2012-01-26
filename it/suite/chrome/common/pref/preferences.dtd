@@ -35,4 +35,5 @@
 <!ENTITY policies.label "Politiche di sicurezza">
 <!ENTITY mousewheel.label "Rotellina mouse">
 <!ENTITY scriptsAndWindows.label "Script e plugin">
+<!ENTITY spellingPane.label "Ortografia">
 <!ENTITY focusSearch.key "r">
