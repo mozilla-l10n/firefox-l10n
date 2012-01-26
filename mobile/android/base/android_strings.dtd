@@ -74,3 +74,9 @@
 <!ENTITY masterpassword_confirm "Conferma password">
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Annulla">
+<!ENTITY abouthome_addons_title "Componenti aggiuntivi per &brandShortName;">
+<!ENTITY abouthome_addons_browse "Sfoglia tutti i comp. aggiuntivi per &brandShortName;">
+<!ENTITY abouthome_last_tabs_title "Schede dall’ultima esecuzione">
+<!ENTITY abouthome_last_tabs_open "Apri tutte le schede dall’ultima esecuzione">
+<!ENTITY abouthome_top_sites_title "Siti principali">
+<!ENTITY abouthome_top_sites_browse "Sfoglia tutti i siti principali">
