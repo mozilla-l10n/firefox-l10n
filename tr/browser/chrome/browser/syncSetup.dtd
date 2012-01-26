@@ -2,7 +2,7 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description2 "Hoş geldiniz! Daha önce hiç &syncBrand.fullName.label; kullanmadıysanız yeni bir hesap oluşturmanız gerekecektir.">
+<!ENTITY setup.pickSetupType.description2 "Hoş geldiniz! Daha önce hiç &syncBrand.fullName.label; kullanmadıysanız yeni bir hesap açmanız gerekecektir.">
 <!ENTITY button.createNewAccount.label "Yeni hesap aç">
 <!ENTITY button.haveAccount.label      "Hesabım var">
 
@@ -58,7 +58,7 @@
 <!ENTITY addDevice.dontHaveDevice.label     "Aygıt yanımda değil">
 <!ENTITY pairDevice.setup.description.label  "Etkinleştirmek için, diğer aygıtınızdan &#x0022;Aygıt eşleştir&#x0022;i seçin.">
 <!ENTITY addDevice.setup.enterCode.label    "Ardından bu kodu girin:">
-<!ENTITY pairDevice.dialog.description.label "Yeni aygtınızı etkinleştirmek için, diğer aygıttan &#x0022;Eşitlemeyi kur&#x0022;u seçin.">
+<!ENTITY pairDevice.dialog.description.label "Yeni aygıtınızı etkinleştirmek için, diğer aygıttan &#x0022;Eşitlemeyi kur&#x0022;u seçin.">
 <!ENTITY addDevice.dialog.enterCode.label   "Aygıtın verdiği kodu girin:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Lütfen tekrar deneyin.">
 <!ENTITY addDevice.dialog.successful.label  "Aygıt başarıyla eklendi. Arka planda yapılacak ilk eşitleme birkaç dakika sürebilir.">
@@ -67,7 +67,7 @@
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Oturum aç">
-<!ENTITY existingRecoveryKey.description "Kurtarma anahtarınızın bir kopyasını edinmek için diğer aygıtınızda &syncBrand.fullName.label; Seçenekleri'ne girin ve &#x0022;Hesabı yönett&#x0022; altından &#x0022;Kurtarma anahtarım&#x0022;ı seçin.">
+<!ENTITY existingRecoveryKey.description "Kurtarma anahtarınızın bir kopyasını edinmek için diğer aygıtınızda &syncBrand.fullName.label; Seçenekleri'ne girin ve &#x0022;Hesabı yönet&#x0022; altından &#x0022;Kurtarma anahtarım&#x0022;ı seçin.">
 <!ENTITY verifying.label              "Doğrulanıyor…">
 <!ENTITY resetPassword.label          "Parolayı sıfırla">
 <!ENTITY resetSyncKey.label           "Diğer aygıtımı kaybettim.">
@@ -93,7 +93,7 @@
 
 <!ENTITY choice2.merge.main.label      "Bu bilgisayarın verileriyle &syncBrand.shortName.label; verilerimi birleştir">
 <!ENTITY choice2.merge.recommended.label "Tavsiye edilen:">
-<!ENTITY choice2.client.main.label     "Bu bilgisayardaki tüm verileri &syncBrand.shortName.label; verilerimle değiştir">
+<!ENTITY choice2.client.main.label     "Bu bilgisayardaki tüm verilerin yerine &syncBrand.shortName.label; verilerimi koy">
 <!ENTITY choice2.server.main.label     "Diğer tüm aygıtlardaki verileri bu bilgisayardaki verilerle değiştir">
 
 <!-- Confirm Merge Options -->
