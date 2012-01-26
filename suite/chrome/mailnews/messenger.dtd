@@ -211,6 +211,7 @@
 <!ENTITY pageSourceCmd.accesskey "n">
 <!ENTITY pageSourceCmd.key "u">
 <!ENTITY findCmd.label "Trova nel messaggio…">
+<!ENTITY quickFilterBar.show.key2 "K">
 <!ENTITY goMenu.label "Vai">
 <!ENTITY goMenu.accesskey "a">
 <!ENTITY nextMenu.label "Prossimo">
@@ -377,7 +378,6 @@
 <!ENTITY deleteButton.label "Elimina">
 <!ENTITY undeleteButton.label "Ripristina">
 <!ENTITY markButton.label "Marca">
-<!ENTITY printButton.label "Stampa">
 <!ENTITY stopButton.label "Interrompi">
 <!ENTITY junkButton.label "Spam">
 <!ENTITY notJunkButton.label "Non è spam">
@@ -399,7 +399,6 @@
 <!ENTITY deleteButton.tooltip "Elimina i messaggi o le cartelle selezionate">
 <!ENTITY undeleteButton.tooltip "Ripristina il messaggio selezionato">
 <!ENTITY markButton.tooltip "Marca i messaggi">
-<!ENTITY printButton.tooltip "Stampa questo messaggio">
 <!ENTITY stopButton.tooltip "Interrompe il trasferimento in corso">
 <!ENTITY throbber.tooltip "Vai alla pagina home di &vendorShortName;">
 <!ENTITY junkButton.tooltip "Segna i messaggi selezionati come spam">

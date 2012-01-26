@@ -10,7 +10,9 @@
 <!ENTITY allowWindowImageSrcChange.label "Sostituire immagini">
 <!ENTITY allowContextmenuDisable.label "Disattivare o sostituire i menu contestuali">
 <!ENTITY allowHideStatusBar.label "Nascondere la barra di stato">
-<!ENTITY enablePlugin.label "Attiva i plugin per">
+<!ENTITY enablePlugin.label "Attiva i plugin per:">
+<!ENTITY enablePluginForSuite.label "Suite">
+<!ENTITY enablePluginForSuite.accesskey "u">
 <!ENTITY whenPluginsRequired.label "Quando sono necessari altri plugin">
 <!ENTITY displayNotification.label "Mostra una barra di notifica in cima all'area dei contenuti">
 <!ENTITY displayNotification.accesskey "M">
