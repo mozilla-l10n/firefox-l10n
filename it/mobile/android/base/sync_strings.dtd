@@ -2,11 +2,16 @@
 <!ENTITY syncBrand.shortName.label "Sync">
 <!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "Connessione &syncBrand.shortName.label;">
+<!ENTITY sync.title.adddevice.label "Aggiungi un account &syncBrand.fullName.label;">
 <!ENTITY sync.title.pair.label "Collega un dispositivo">
 <!ENTITY sync.subtitle.connect.label "Per attivare un nuovo dispositivo selezionare “Imposta &syncBrand.shortName.label;” sul dispositivo stesso.">
+<!ENTITY sync.subtitle.header.label "Inserire questo codice sul computer">
+<!ENTITY sync.subtitle.connectlocation.label "Selezionare “&sync.title.pair.label;” nella sezione &syncBrand.shortName.label; delle opzioni di Firefox sul computer desktop.">
 <!ENTITY sync.subtitle.pair.label "Per attivare selezionare “Collega un dispositivo” sull’altro dispositivo.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
+<!ENTITY sync.pin.oneline.label "…">
 <!ENTITY sync.link.show.label "Mostra come fare.">
+<!ENTITY sync.link.advancedsetup.label "Configurazione avanzata…">
 <!ENTITY sync.link.nodevice.label "Il dispositivo non è disponibile…">
 <!ENTITY sync.jpake.subtitle.waiting.label "In attesa di altri dispositivi…">
 <!ENTITY sync.subtitle.account.label "Inserire le informazioni sull’account &syncBrand.fullName.label;">
