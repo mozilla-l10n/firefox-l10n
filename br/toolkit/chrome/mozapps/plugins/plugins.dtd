@@ -34,8 +34,8 @@
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "Adkargañ ar bajennad">
 <!ENTITY reloadPlugin.post                                   " evit klask en-dro.">
-<!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.checkbox                                     "…ha kas an danevell sac'hadenn">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "Kas an danevell sac'hadenn">
 <!ENTITY report.submitting                                   "O kas an danevell…">
 <!ENTITY report.submitted                                    "Danevell sac'hadenn kaset.">
 <!ENTITY report.disabled                                     "Danevelloù sac'hadenn diweredekaet.">
