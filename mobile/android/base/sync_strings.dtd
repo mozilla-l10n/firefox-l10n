@@ -6,14 +6,19 @@
 <!-- Main titles. -->
 <!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "Se connecter à &syncBrand.shortName.label;">
+<!ENTITY sync.title.adddevice.label "Ajouter un compte &syncBrand.fullName.label;">
 <!ENTITY sync.title.pair.label "Associer un appareil">
 
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label "Pour activer votre nouvel appareil, sélectionner « Configurer la synchronisation » sur celui-ci.">
+<!ENTITY sync.subtitle.header.label "Saisissez ce code sur votre ordinateur">
+<!ENTITY sync.subtitle.connectlocation.label "Sélectionnez « &sync.title.pair.label; » dans la section &syncBrand.shortName.label; des options de Firefox sur votre ordinateur.">
 <!ENTITY sync.subtitle.pair.label "Pour activer, sélectionnez « Associer un appareil » sur votre appareil.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
-<!ENTITY sync.link.show.label 'Me montrer comment'>
-<!ENTITY sync.link.nodevice.label 'Je n\u0027ai pas l\u0027appareil avec moi…'>
+<!ENTITY sync.pin.oneline.label "...">
+<!ENTITY sync.link.show.label "Me montrer comment">
+<!ENTITY sync.link.advancedsetup.label "Configuration avancée…">
+<!ENTITY sync.link.nodevice.label "Je n\u0027ai pas l\u0027appareil avec moi…">
 
 <!-- J-PAKE Waiting Screen -->
 <!ENTITY sync.jpake.subtitle.waiting.label "En attente de l\u0027autre appareil…">
