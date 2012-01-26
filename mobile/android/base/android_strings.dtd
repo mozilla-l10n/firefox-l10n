@@ -104,3 +104,6 @@
 <!ENTITY abouthome_last_tabs_open "打開上次開啟的所有分頁">
 <!ENTITY abouthome_top_sites_title "最常瀏覽的網站">
 <!ENTITY abouthome_top_sites_browse "瀏覽您最常開啟的網站">
+<!ENTITY abouthome_no_top_sites "目前還無法列出您最常瀏覽的網站。請點下標題列開始瀏覽。">
+<!ENTITY abouthome_about_sync "設定 Firefox Sync 以自您其他裝置上存取書籤、瀏覽紀錄與分頁標籤。">
+<!ENTITY abouthome_sync_bold_name "Firefox Sync">
