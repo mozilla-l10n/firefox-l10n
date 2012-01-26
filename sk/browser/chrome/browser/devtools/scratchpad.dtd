@@ -1,11 +1,11 @@
+<!-- LOCALIZATION NOTE : FILE This file contains the Scratchpad window strings -->
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
+
 <!-- LOCALIZATION NOTE : FILE The correct localization of this file might be to
   - keep it in English, or another language commonly spoken among web developers.
   - You want to make that choice consistent across the developer tools.
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
-
-<!-- LOCALIZATION NOTE : FILE This file contains the Scratchpad window strings -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!-- LOCALIZATION NOTE (scratchpad.title):
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -37,35 +37,35 @@
 <!ENTITY saveFileAsCmd.accesskey      "a">
 
 <!ENTITY closeCmd.label               "Zavrieť">
-<!ENTITY closeCmd.key                 "Z">
-<!ENTITY closeCmd.accesskey           "C">
+<!ENTITY closeCmd.key                 "W">
+<!ENTITY closeCmd.accesskey           "Z">
 
 <!ENTITY editMenu.label               "Upraviť">
 <!ENTITY editMenu.accesskey           "U">
 
 <!ENTITY undoCmd.label                "Späť">
-<!ENTITY undoCmd.key                  "S">
-<!ENTITY undoCmd.accesskey            "U">
+<!ENTITY undoCmd.key                  "Z">
+<!ENTITY undoCmd.accesskey            "S">
 
 <!ENTITY redoCmd.label                "Znova">
-<!ENTITY redoCmd.key                  "Z">
-<!ENTITY redoCmd.accesskey            "R">
+<!ENTITY redoCmd.key                  "Y">
+<!ENTITY redoCmd.accesskey            "Z">
 
 <!ENTITY cutCmd.label                 "Vystrihnúť">
-<!ENTITY cutCmd.key                   "t">
-<!ENTITY cutCmd.accesskey             "t">
+<!ENTITY cutCmd.key                   "X">
+<!ENTITY cutCmd.accesskey             "V">
 
 <!ENTITY copyCmd.label                "Kopírovať">
-<!ENTITY copyCmd.key                  "K">
-<!ENTITY copyCmd.accesskey            "C">
+<!ENTITY copyCmd.key                  "C">
+<!ENTITY copyCmd.accesskey            "K">
 
 <!ENTITY pasteCmd.label               "Prilepiť">
 <!ENTITY pasteCmd.key                 "P">
 <!ENTITY pasteCmd.accesskey           "P">
 
 <!ENTITY selectAllCmd.label           "Vybrať všetko">
-<!ENTITY selectAllCmd.key             "a">
-<!ENTITY selectAllCmd.accesskey       "A">
+<!ENTITY selectAllCmd.key             "A">
+<!ENTITY selectAllCmd.accesskey       "a">
 
 <!ENTITY run.label                    "Spustiť">
 <!ENTITY run.accesskey                "S">
