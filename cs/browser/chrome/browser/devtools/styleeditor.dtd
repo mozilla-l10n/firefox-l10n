@@ -22,17 +22,6 @@
 <!ENTITY importButton.accesskey "I">
 <!ENTITY importButton.commandkey "i">
 
-<!ENTITY searchInput.tooltip "Filtruje stylopisy podle jména">
-<!ENTITY searchInput.placeholder "Najít stylopis">
-
-<!-- LOCALIZATION NOTE  (searchNoResults): This is shown when searching a term
-     that is not found in any stylesheet or stylesheet name. -->
-<!ENTITY searchNoResults.label "Žádný odpovídající stylopis nebyl nalezen.">
-
-<!-- LOCALIZATION NOTE  (searchClearButton): This button clears the search input
-     box and is visible only when a search term has been typed. -->
-<!ENTITY searchClearButton.label "Smazat">
-
 <!ENTITY visibilityToggle.tooltip "Přepne vyditelnost stylopisu">
 <!ENTITY visibilityToggle.accesskey "P">
 
