@@ -1,25 +1,27 @@
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+<!ENTITY warningDesc.version        "&brandShortName; je eksperimentalna inačica i može biti nestabilna.">
+<!-- LOCALIZATION NOTE (warningDesc.telemetry): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetry      "Automatski šalje informacije testova &vendorShortName;i kako bi &brandShortName; bio bolji.">
+
 <!ENTITY aboutDialog.title          "O &brandFullName;">
-<!ENTITY copyright                  "Zasluge">
-<!ENTITY copyright.accesskey        "Z">
-<!ENTITY copyrightGNOME.accesskey   "s">
-<!ENTITY aboutLink                  "&lt; O &brandFullName;">
-<!ENTITY aboutLink.accesskey        "O">
-<!ENTITY aboutVersion               "inačica">
-<!ENTITY closeCmdGNOME.label        "Zatvori">  
-<!ENTITY closeCmdGNOME.accesskey    "Z">
-<!ENTITY copyrightInfo1             "&#169;1998-2009 razvijatelji. Sva prava pridržana. (">
-<!ENTITY licenseLink                "about:license">
-<!ENTITY licenseLinkText            "Informacije o licenci">
-<!ENTITY copyrightInfo2             ").">
 <!ENTITY bottomLinks.license        "Informacije o licenciranju">
 <!ENTITY bottomLinks.privacy        "Politika privatnosti">
 <!ENTITY bottomLinks.rights         "Prava krajnjeg korisnika">
+
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+<!ENTITY community.exp.start        "">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+<!ENTITY community.exp.middle       " je ">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "globalna zajednica">
+<!ENTITY community.exp.end          " koja nastoji zadržati Web otvorenim, javnim i dostupnim svima.">
 
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.start2           "&brandShortName; je dizajnirala ">
 <!ENTITY community.middle2          "">
 <!ENTITY community.creditsLink      "globalna zajednica">
-<!ENTITY community.end2             " koja zajedno radi na unapređenju Interneta. Mi vjerujemo kako bi Internet trebao biti otvoren, javan i dostupan svima, bez ograničenja.">
+<!ENTITY community.end3             " koja nastoji zadržati Web otvorenim, javnim i dostupnim svima.">
 <!ENTITY contribute.start           "Zvuči vam zanimljivo? ">
 <!ENTITY contribute.getInvolvedLink "Uključite se!">
 <!ENTITY contribute.end             "">
@@ -41,21 +43,3 @@
      example: You are currently on the _Stable_ update channel. -->
 <!ENTITY channel.description.start  "Trenutno ste na ">
 <!ENTITY channel.description.end    " kanalu dopuna. ">
-
-<!ENTITY channel.change             "Promijeni">
-
-<!ENTITY channel.release.description       "Uživajte u isprobanom, testiranom konačnom izdanju kojeg koriste stotine milijuna korisnika diljem svijeta. Kontrolirajte svoje online iskustvo uz fantastičnu brzinu, jednostavnu prilagodbu i najnovije web tehnologije.">
-<!ENTITY channel.beta.description          "Iskusite najnovije mogućnosti uz solidnu stabilnost. Podijelite svoje mišljenje i pomognite nam ispolirati mogućnosti koje će biti dostupne u finalnom izdanju.">
-<!ENTITY channel.aurora.description        "Iskusite najnovije inovacije u nestabilnom okružju za hrabre korisnike. Javite nam svoje mišljenje o mogućnostima i performansama kako biste nam pomogli odrediti što će biti uključeno u finalnom izdanju.">
-
-<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
-     channel.selector.end create one sentence, with a channel selection menulist instered in between.
-     This is all in one line, so try to make the localized text short.
-     example: Switch to the [Stable] update channel. -->
-<!ENTITY channel.selector.start          "Prebaci se na">
-<!ENTITY channel.selector.end            "kanal dopuna.">
-
-<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
-     to a new update channel and starts the application update process. -->
-<!ENTITY channel.selector.applyButton    "Primijeni i ažuriraj">
-<!ENTITY channel.selector.cancelButton   "Otkaži">

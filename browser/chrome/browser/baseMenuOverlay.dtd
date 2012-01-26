@@ -10,26 +10,9 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Pomoć"> 
 <!ENTITY helpMenuWin.accesskey    "P">
-<!ENTITY aboutCmd.label           "O &brandFullName;">
-<!ENTITY aboutCmd.accesskey       "O">
 <!ENTITY productHelp.label        "&brandShortName; pomoć">
 <!ENTITY productHelp.accesskey    "p">
-<!ENTITY helpForIEUsers.label     "Za korisnike Internet Explorera">
-<!ENTITY helpForIEUsers.accesskey "I">
-<!ENTITY openHelp.commandkey      "VK_F1">
 <!ENTITY helpMac.commandkey       "?">
-
-<!-- LOCALIZATION NOTE openHelpMac.commandkey and openHelpMac.modifiers
-                       are all the necessary keys to hit OS X's open-help 
-                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
-
-<!ENTITY helpReleaseNotes.label         "Bilješke izdanih inačica">
-<!ENTITY helpReleaseNotes.accesskey     "B">
-
-<!ENTITY helpTroubleshooting.label      "Informacije o greški…">
-<!ENTITY helpTroubleshooting.accesskey  "g">
-
-<!ENTITY updateCmd.label                "Provjeri za nadogradnje...">
 
 <!ENTITY preferencesCmdMac.label        "Postavke...">
 <!ENTITY preferencesCmdMac.commandkey   ",">
