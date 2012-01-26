@@ -78,8 +78,6 @@
 <!ENTITY imagemapBox.label "Mapa">
 <!ENTITY removeImageMapButton.label "Odstrániť mapu">
 <!ENTITY removeImageMapButton.accessKey "O">
-<!ENTITY editImageMapButton.label "Upraviť mapu…">
-<!ENTITY editImageMapButton.tooltip "Upraviť mapu">
 
 <!-- These are the options for image alignment -->
 <!ENTITY alignment.label "Zarovnať text k obrázku">

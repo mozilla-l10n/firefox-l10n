@@ -40,7 +40,7 @@
 
 <!ENTITY bookmarkLinkCmd.label          "Pridať tento odkaz medzi záložky…">
 <!ENTITY bookmarkLinkCmd.accesskey      "P">
-<!ENTITY bookmarkLinksCmd.label         "Pridať tieto odkazy medzi záložky">
+<!ENTITY bookmarkLinksCmd.label         "Pridať tieto odkazy medzi záložky…">
 <!ENTITY bookmarkLinksCmd.accesskey     "P">
 
 <!ENTITY col.title.label                "Názov">

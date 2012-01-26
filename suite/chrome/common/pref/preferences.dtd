@@ -38,5 +38,6 @@
 <!ENTITY policies.label "Zásady zabezpečenia">
 <!ENTITY mousewheel.label "Koliesko myši">
 <!ENTITY scriptsAndWindows.label "Skripty a zásuvné moduly">
+<!ENTITY spellingPane.label  "Pravopis">
 
 <!ENTITY focusSearch.key "f">
