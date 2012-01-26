@@ -1,0 +1,7 @@
+<!ENTITY webapps.title.placeholder "กรอกชื่อ">
+<!ENTITY webapps.permissions "อนุญาตให้เข้าถึง:">
+<!ENTITY webapps.perm.geolocation "การท่องเว็บโดยตระหนักรู้ตำแหน่งที่อยู่">
+<!ENTITY webapps.perm.offline "ที่เก็บข้อมูลออฟไลน์">
+<!ENTITY webapps.perm.notifications "การแจ้งเตือนของพื้นโต๊ะ">
+<!ENTITY webapps.perm.requestedHint "(ร้องขอ)">
+<!ENTITY webapps.add-homescreen "เพิ่มลงหน้าจอแรก">

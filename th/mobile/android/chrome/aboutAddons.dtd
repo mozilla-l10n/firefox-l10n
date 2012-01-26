@@ -1,0 +1,8 @@
+<!ENTITY aboutAddons.title                      "ตัวจัดการส่วนเสริม">
+<!ENTITY aboutAddons.header                     "ส่วนเสริม">
+<!ENTITY aboutAddons.options                    "ตัวเลือก">
+
+<!ENTITY addonAction.enable                     "เปิดใช้งาน">
+<!ENTITY addonAction.disable                    "ปิดใช้งาน">
+<!ENTITY addonAction.uninstall                  "ถอนการติดตั้ง">
+<!ENTITY addonAction.cancel                     "ยกเลิก">
