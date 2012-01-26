@@ -77,6 +77,10 @@
   -->
 <!ENTITY findPreviousCmd.key          "G">
 
+<!ENTITY gotoLineCmd.label            "Przeskocz do linii…">
+<!ENTITY gotoLineCmd.key              "J">
+<!ENTITY gotoLineCmd.accesskey        "s">
+
 <!ENTITY run.label                    "Uruchom">
 <!ENTITY run.accesskey                "U">
 <!ENTITY run.key                      "r">
