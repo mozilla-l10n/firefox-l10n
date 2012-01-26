@@ -119,7 +119,7 @@
 <!ENTITY detail.version.label                 "Versción">
 <!ENTITY detail.lastupdated.label             "Agiornòu">
 <!ENTITY detail.creator.label                 "Svilupatô">
-<!ENTITY detail.homepage.label                "Pagina Iniçiâ">
+<!ENTITY detail.homepage.label                "Pàgina Iniçiâ">
 <!ENTITY detail.numberOfDownloads.label       "Descaregaménti">
 
 <!ENTITY detail.contributions.description     "O svilupatô de sto conponénte azónto te domanda se t'eu contriboî con quàrche palànca.">
@@ -131,7 +131,7 @@
 <!ENTITY detail.updateAutomatic.tooltip       "Instàlla i agiornaménti in aotomàtico">
 <!ENTITY detail.updateManual.label            "Asmòrtòu">
 <!ENTITY detail.updateManual.tooltip          "No instalâ agiornaménti in aotomàtico">
-<!ENTITY detail.home                          "Pagina Iniçiâ">
+<!ENTITY detail.home                          "Pàgina Iniçiâ">
 <!ENTITY detail.repository                    "Profî do conponénte azónto">
 <!ENTITY detail.size                          "Dimensción">
 
@@ -170,7 +170,7 @@
 <!ENTITY search.filter2.available.label       "Conponénti azónti dispónibili">
 <!ENTITY search.filter2.available.tooltip     "Fànni védde i conponénti azónti che se peuan instalâ">
 
-<!ENTITY addon.homepage                       "Pagina Iniçiâ">
+<!ENTITY addon.homepage                       "Pàgina Iniçiâ">
 <!ENTITY addon.details.label                  "Ciù">
 <!ENTITY addon.details.tooltip                "Fànni védde ciù informaçioìn rigoardo sto conponénte azónto">
 <!ENTITY addon.unknownDate                    "no conosciûo">

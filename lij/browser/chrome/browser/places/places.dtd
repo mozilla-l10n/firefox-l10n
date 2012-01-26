@@ -42,7 +42,7 @@
 <!ENTITY cmd.restoreFromFile.label      "Scegli file…">
 <!ENTITY cmd.restoreFromFile.accesskey  "c">
 
-<!ENTITY cmd.bookmarkLink.label         "Azónzi sta pagina a-i segnalìbbri…">
+<!ENTITY cmd.bookmarkLink.label         "Azónzi sta pàgina a-i segnalìbbri…">
 <!ENTITY cmd.bookmarkLink.accesskey     "b">
 <!ENTITY cmd.delete.label               "Lêva da mêzo sta pàgina">
 <!ENTITY cmd.delete.accesskey           "d">

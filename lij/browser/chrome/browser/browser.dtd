@@ -71,10 +71,10 @@ can reach it easily. -->
 <!ENTITY addonBarCmd.label "Bâra di conponénti azónti">
 <!ENTITY addonBarCmd.accesskey "a">
 
-<!ENTITY pageSourceCmd.label "Sorgénte da Pagina">
+<!ENTITY pageSourceCmd.label "Sorgénte da Pàgina">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
-<!ENTITY pageInfoCmd.label "Informaçión da Pagina">
+<!ENTITY pageInfoCmd.label "Informaçioìn da Pàgina">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "A tùtto schermo">
@@ -120,7 +120,7 @@ can reach it easily. -->
 <!ENTITY stopCmd.label                "Férma">
 <!ENTITY stopCmd.accesskey            "F">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Fermite de caregâ sta pagina">
+<!ENTITY stopButton.tooltip           "Fèrmite de caregâ sta pàgina">
 <!ENTITY goEndCap.tooltip             "Vànni a l'indirìsso in sciâ bâra di indirìssi">
 <!ENTITY printButton.label            "Stànpa">
 <!ENTITY printButton.tooltip          "Stànpa quésta pàgina">
@@ -160,7 +160,7 @@ can reach it easily. -->
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Stöia">
-<!ENTITY historyButton.tooltip          "Fànni védde e pagine che ti t'æ visto urtimaménte">
+<!ENTITY historyButton.tooltip          "Fànni védde e pàgine che ti t'æ visto urtimaménte">
 <!ENTITY historySidebarCmd.accesskey    "s">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
@@ -362,11 +362,11 @@ can reach it easily. -->
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "s">
-<!ENTITY viewPageSourceCmd.label      "Fànni védde a sorgénte da pagina">
+<!ENTITY viewPageSourceCmd.label      "Fànni védde a sorgénte da pàgina">
 <!ENTITY viewPageSourceCmd.accesskey  "v">
 <!ENTITY viewFrameSourceCmd.label     "Fànni védde a sorgénte do riquàddro">
 <!ENTITY viewFrameSourceCmd.accesskey "v">
-<!ENTITY viewPageInfoCmd.label        "Fànni védde e informaçioìn da pagina">
+<!ENTITY viewPageInfoCmd.label        "Fànni védde e informaçioìn da pàgina">
 <!ENTITY viewPageInfoCmd.accesskey    "i">
 <!ENTITY viewFrameInfoCmd.label       "Fànni védde e informaçioìn do riquàddro">
 <!ENTITY viewFrameInfoCmd.accesskey   "i">
@@ -382,7 +382,7 @@ can reach it easily. -->
 <!ENTITY viewBGImageCmd.accesskey     "F">
 <!ENTITY setDesktopBackgroundCmd.label      "Inpòsta cómme sfondo do desktop…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "s">
-<!ENTITY bookmarkPageCmd2.label       "Azónzi quésta pagina a-i segnalìbbri">
+<!ENTITY bookmarkPageCmd2.label       "Azónzi quésta pàgina a-i segnalìbbri">
 <!ENTITY bookmarkPageCmd2.accesskey   "A">
 <!ENTITY bookmarkThisLinkCmd.label      "Azónzi quésto colegaménto a-i segnalìbbri">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
@@ -536,7 +536,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editPopupSettings.accesskey "e">
 <!ENTITY dontShowMessage.accesskey "N">
 
-<!ENTITY bidiSwitchPageDirectionItem.label        "Càngia a direçión da pagina">
+<!ENTITY bidiSwitchPageDirectionItem.label        "Càngia a direçión da pàgina">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "d">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Càngia a direçión do testo">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "C">

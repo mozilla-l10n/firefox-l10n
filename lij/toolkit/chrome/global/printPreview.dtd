@@ -39,8 +39,8 @@
 <!ENTITY print.accesskey      "p">
 <!ENTITY pageSetup.label      "Inpòsta pàgina…">
 <!ENTITY pageSetup.accesskey  "I">
-<!ENTITY page.label           "pàgina:">
-<!ENTITY page.accesskey       "a">
+<!ENTITY page.label           "Pàgina:">
+<!ENTITY page.accesskey       "P">
 <!ENTITY of.label             "de">
 <!ENTITY scale.label          "Scâa:">
 <!ENTITY scale.accesskey      "S">
@@ -68,6 +68,6 @@
 
 <!ENTITY homearrow.tooltip    "Prìmma pàgina">
 <!ENTITY endarrow.tooltip     "Ùrtima pàgina">
-<!ENTITY nextarrow.tooltip    "Pròscimo pàgina">
-<!ENTITY previousarrow.tooltip "pàgina precedénte">
+<!ENTITY nextarrow.tooltip    "Pròscima pàgina">
+<!ENTITY previousarrow.tooltip "Pàgina precedénte">
 

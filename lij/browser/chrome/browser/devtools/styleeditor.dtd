@@ -49,7 +49,7 @@
 
 <!-- LOCALICATION NOTE  (noStyleSheet.label): This is shown when a page has no
      stylesheet. -->
-<!ENTITY noStyleSheet.label         "Sta pàgina a no l'à féggio de stîle.">
+<!ENTITY noStyleSheet.label         "Sta pàgina a no l'à féuggio de stîle.">
 
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-start.label): This is the start of a
      tip sentence shown when there is no stylesheet. It suggests to create a new
