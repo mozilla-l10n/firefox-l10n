@@ -126,7 +126,7 @@
 <!ENTITY formSigning.confirmPassword "Pe confermâ che ti veu firmâ sto testo co sto certificâto, inserisci a paròlla segrétta prinçipâ:">
 
 <!-- Strings for protectedAuth dialog -->
-<!ENTITY protectedAuth.title "Aotenticaçión protetta dò-u Token">
+<!ENTITY protectedAuth.title "Aotenticaçión protétta dò-u Token">
 <!ENTITY protectedAuth.msg "Pe favô aotenticate a-o Tocken.">
 <!ENTITY protectedAuth.tokenName.label "Token:">
 
