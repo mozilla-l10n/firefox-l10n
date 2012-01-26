@@ -4,7 +4,6 @@
 <!ENTITY props.path.label "Ścieżka:" >
 <!ENTITY props.secure.label "Wysyłaj:" >
 <!ENTITY props.expires.label "Wygasa:" >
-<!ENTITY props.policy.label "Zasady:" >
 <!ENTITY button.allow.label "Zezwól" >
 <!ENTITY button.allow.accesskey "Z" >
 <!ENTITY button.session.label "Zezwól na czas trwania sesji">
