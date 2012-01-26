@@ -7,10 +7,6 @@
 <!ENTITY importButton.tooltip "Importa un foglio di stile esistente e lo aggiunge al documento">
 <!ENTITY importButton.accesskey "m">
 <!ENTITY importButton.commandkey "i">
-<!ENTITY searchInput.tooltip "Filtra i fogli di stile per nome">
-<!ENTITY searchInput.placeholder "Trova foglio di stile">
-<!ENTITY searchNoResults.label "Nessuna corrispondenza trovata tra i fogli di stile.">
-<!ENTITY searchClearButton.label "Cancella tutto">
 <!ENTITY visibilityToggle.tooltip "Cambia visibilità del foglio di stile">
 <!ENTITY visibilityToggle.accesskey "C">
 <!ENTITY saveButton.label "Salva">
@@ -23,3 +19,4 @@
 <!ENTITY noStyleSheet-tip-start.label "">
 <!ENTITY noStyleSheet-tip-action.label "Aggiungere un nuovo foglio di stile">
 <!ENTITY noStyleSheet-tip-end.label "?">
+<!ENTITY closeCmd.key "W">
