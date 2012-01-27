@@ -326,12 +326,6 @@
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Menubalke">
 <!ENTITY formatToolbar.tooltip "Opmaakarkbalke">
-<!ENTITY newToolbarCmd.label "Nij">
-<!ENTITY newToolbarCmd.tooltip "In nije Composer-side oanmeitsje">
-<!ENTITY openToolbarCmd.label "Iepenje">
-<!ENTITY openToolbarCmd.tooltip "In lokaal bestân iepenje">
-<!ENTITY saveToolbarCmd.tooltip "Bestân bewarje op in lokale lokaasje">
-<!ENTITY publishToolbarCmd.tooltip "Bestân oplade nei in lokaasje op ôfstân">
 <!ENTITY cutToolbarCmd.tooltip "Knippe">
 <!ENTITY copyToolbarCmd.tooltip "Kopiearje">
 <!ENTITY pasteToolbarCmd.tooltip "Plakke">

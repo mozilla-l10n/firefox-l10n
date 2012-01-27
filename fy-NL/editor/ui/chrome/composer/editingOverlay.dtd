@@ -64,4 +64,12 @@
 <!ENTITY publishSettings.label "Publikaasjewebstee-ynstellingen…">
 <!ENTITY publishSettings.accesskey "b">
 
+<!-- Toolbar buttons/items -->
+<!ENTITY newToolbarCmd.label "Nij">
+<!ENTITY newToolbarCmd.tooltip "Meitsje in nije Composerside">
+<!ENTITY openToolbarCmd.label "Iepenje">
+<!ENTITY openToolbarCmd.tooltip "Iepenje in lokaal bestân">
+<!ENTITY saveToolbarCmd.tooltip "Bewarje bestân nei in lokale lokaasje">
+<!ENTITY publishToolbarCmd.tooltip "Laad bestân op nei in oare lokaasje">
+
 
