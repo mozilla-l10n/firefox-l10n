@@ -16,6 +16,7 @@
 <!ENTITY attachMenu.accesskey "L">
 <!ENTITY attachFileCmd.label "Berkas…">
 <!ENTITY attachFileCmd.accesskey "B">
+<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachPageCmd.label "Laman Web…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -92,6 +93,8 @@
 <!ENTITY viewMenu.accesskey "T">
 <!ENTITY viewToolbarsMenuNew.label "Bilah Alat"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "t"> 
+<!ENTITY menubarCmd.label "Bilah Menu">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showCompositionToolbarCmd.label "Bilah Alat Komposisi">
 <!ENTITY showCompositionToolbarCmd.accesskey "K">
 <!ENTITY showFormattingBarCmd.label "Bilah Format">

@@ -35,43 +35,43 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField2.label "kepada ">
-<!ENTITY fromField2.label "dari ">
-<!ENTITY senderField2.label "pengirim ">
-<!ENTITY organizationField2.label "organisasi ">
-<!ENTITY replyToField2.label "balas-ke ">
 
-<!ENTITY subjectField2.label "subjek ">
-<!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
-<!ENTITY ccField2.label "cc ">
-<!ENTITY bccField2.label "bcc ">
-<!ENTITY newsgroupsField2.label "newsgroup ">
-<!ENTITY followupToField2.label "tindak-lanjut ">
-<!ENTITY tagsHdr2.label "tag ">
-<!ENTITY dateField2.label "tanggal ">
-<!ENTITY userAgentField2.label "agen-pengguna ">
-<!ENTITY referencesField2.label "referensi ">
-<!ENTITY messageIdField2.label "id-pesan ">
-<!ENTITY inReplyToField2.label "sebagai-balasan-kepada ">
-<!ENTITY originalWebsite2.label "situs-web ">
+<!ENTITY toField3.label "Kepada ">
+<!ENTITY fromField3.label "Dari ">
+<!ENTITY senderField3.label "Pengirim ">
+<!ENTITY organizationField3.label "Organisasi ">
+<!ENTITY replyToField3.label "Balas ke ">
+
+<!ENTITY subjectField3.label "Subjek ">
+<!ENTITY ccField3.label "Cc ">
+<!ENTITY bccField3.label "Bcc ">
+<!ENTITY newsgroupsField3.label "Newsgroup ">
+<!ENTITY followupToField3.label "Tindak lanjut ">
+<!ENTITY tagsHdr3.label "Tag ">
+<!ENTITY dateField3.label "Tanggal ">
+<!ENTITY userAgentField3.label "Agen-pengguna ">
+<!ENTITY referencesField3.label "Referensi ">
+<!ENTITY messageIdField3.label "ID pesan ">
+<!ENTITY inReplyToField3.label "Sebagai balasan kepada ">
+<!ENTITY originalWebsite3.label "Situs web ">
 
 <!ENTITY editMessageDescription.label "Pesan ini masih konsep">
-<!ENTITY editMessageButton.label "Sunting…">
-<!ENTITY hdrArchiveButton.label "arsipkan">
-<!ENTITY hdrArchiveButton.tooltip "arsipkan pesan ini">
-<!ENTITY hdrSmartReplyButton.label "balasan pintar">
-<!ENTITY hdrReplyButton.label "balas">
-<!ENTITY hdrReplyButton.tooltip "balas pesan ini">
-<!ENTITY hdrReplyAllButton.label "balas ke semua">
-<!ENTITY hdrReplyAllButton.tooltip "balas ke pengirim dan semua penerima">
-<!ENTITY hdrReplyListButton.label "balas ke milis">
-<!ENTITY hdrReplyListButton.tooltip "balas ke milis">
-<!ENTITY hdrForwardButton.label "teruskan">
-<!ENTITY hdrForwardButton.tooltip "teruskan pesan ini">
-<!ENTITY hdrJunkButton.label "junk">
-<!ENTITY hdrJunkButton.tooltip "tandai pesan ini sebagai pesan junk">
-<!ENTITY hdrTrashButton.label "hapus">
-<!ENTITY hdrTrashButton.tooltip "hapus pesan ini">
+<!ENTITY editMessageButton.label "Edit…">
+<!ENTITY hdrArchiveButton1.label "Arsipkan">
+<!ENTITY hdrArchiveButton1.tooltip "Arsipkan pesan ini">
+<!ENTITY hdrSmartReplyButton1.label "Balasan pintar">
+<!ENTITY hdrReplyButton1.label "Balas">
+<!ENTITY hdrReplyButton1.tooltip "Balas pesan ini">
+<!ENTITY hdrReplyAllButton1.label "Balas ke semua">
+<!ENTITY hdrReplyAllButton1.tooltip "Balas ke pengirim dan semua penerima">
+<!ENTITY hdrReplyListButton1.label "Balas ke milis">
+<!ENTITY hdrReplyListButton1.tooltip "Balas ke milis">
+<!ENTITY hdrForwardButton1.label "Teruskan">
+<!ENTITY hdrForwardButton1.tooltip "Teruskan pesan ini">
+<!ENTITY hdrJunkButton1.label "Junk">
+<!ENTITY hdrJunkButton1.tooltip "Tandai pesan ini sebagai pesan junk">
+<!ENTITY hdrTrashButton1.label "Hapus">
+<!ENTITY hdrTrashButton1.tooltip "Hapus pesan ini">
 
 <!ENTITY hdrViewToolbarShowFull.label "Tampilkan Ikon dan Teks">
 <!ENTITY hdrViewToolbarShowFull.accesskey "a">
@@ -82,23 +82,23 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Selalu Tampilkan Balas ke Pengirim">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "p">
 
-<!ENTITY otherActionsButton.label "aksi lainnya">
-<!ENTITY otherActionsOpenConversation.label "tampilkan dalam mode percakapan">
-<!ENTITY otherActionsOpenConversation.accesskey "c">
-<!ENTITY otherActionsOpenInNewWindow.label "buka di jendela baru">
-<!ENTITY otherActionsOpenInNewWindow.accesskey "j">
-<!ENTITY otherActionsOpenInNewTab.label "buka di tab baru">
-<!ENTITY otherActionsOpenInNewTab.accesskey "t">
-<!ENTITY markAsReadMenuItem.label "tandai sudah dibaca">
-<!ENTITY markAsReadMenuItem.accesskey "c">
-<!ENTITY markAsUnreadMenuItem.label "tandai belum dibaca">
-<!ENTITY markAsUnreadMenuItem.accesskey "b">
-<!ENTITY saveAsMenuItem.label "simpan sebagai…">
-<!ENTITY saveAsMenuItem.accesskey "s">
-<!ENTITY viewSourceMenuItem.label "tampilkan kode sumber…">
-<!ENTITY viewSourceMenuItem.accesskey "s">
-<!ENTITY otherActionsPrint.label "cetak…">
-<!ENTITY otherActionsPrint.accesskey "c">
+<!ENTITY otherActionsButton1.label "Aksi Lainnya">
+<!ENTITY otherActionsOpenConversation1.label "Tampilkan dalam Mode Percakapan">
+<!ENTITY otherActionsOpenConversation1.accesskey "C">
+<!ENTITY otherActionsOpenInNewWindow1.label "Buka di Jendela Baru">
+<!ENTITY otherActionsOpenInNewWindow1.accesskey "j">
+<!ENTITY otherActionsOpenInNewTab1.label "Buka di Tab Baru">
+<!ENTITY otherActionsOpenInNewTab1.accesskey "T">
+<!ENTITY markAsReadMenuItem1.label "Tandai Sudah Dibaca">
+<!ENTITY markAsReadMenuItem1.accesskey "c">
+<!ENTITY markAsUnreadMenuItem1.label "Tandai Belum Dibaca">
+<!ENTITY markAsUnreadMenuItem1.accesskey "b">
+<!ENTITY saveAsMenuItem1.label "Simpan sebagai…">
+<!ENTITY saveAsMenuItem1.accesskey "s">
+<!ENTITY viewSourceMenuItem1.label "Tampilkan Kode Sumber">
+<!ENTITY viewSourceMenuItem1.accesskey "s">
+<!ENTITY otherActionsPrint1.label "Cetak…">
+<!ENTITY otherActionsPrint1.accesskey "C">
 
 <!ENTITY openAttachmentCmd.label    "Buka">
 <!ENTITY openAttachmentCmd.accesskey    "B">
@@ -117,27 +117,13 @@
 <!ENTITY deleteAllAttachmentsCmd.label    "Hapus Semua…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
 
+<!ENTITY openAttachment.tooltip "Buka berkas terlampir">
+
 <!-- Attachment toolbar items -->
-<!ENTITY saveAttachmentButton.label       "simpan">
-<!ENTITY saveAttachmentButton.tooltip     "simpan berkas terlampir">
-<!ENTITY saveAllAttachmentsButton.label   "simpan semua">
-<!ENTITY saveAllAttachmentsButton.tooltip "simpan semua berkas terlampir">
-<!ENTITY openAttachmentMenuItem.label     "buka">
-<!ENTITY openAttachmentMenuItem.accesskey    "b">
-<!ENTITY saveAsAttachmentMenuItem.label    "simpan dengan nama…">
-<!ENTITY saveAsAttachmentMenuItem.accesskey    "s">
-<!ENTITY detachAttachmentMenuItem.label    "pisahkan…">
-<!ENTITY detachAttachmentMenuItem.accesskey    "n">
-<!ENTITY deleteAttachmentMenuItem.label    "hapus">
-<!ENTITY deleteAttachmentMenuItem.accesskey    "h">
-<!ENTITY openAllAttachmentsMenuItem.label    "buka semua…">
-<!ENTITY openAllAttachmentsMenuItem.accesskey    "m">
-<!ENTITY saveAllAttachmentsMenuItem.label    "simpan semua…">
-<!ENTITY saveAllAttachmentsMenuItem.accesskey    "s">
-<!ENTITY detachAllAttachmentsMenuItem.label    "pisahkan semua…">
-<!ENTITY detachAllAttachmentsMenuItem.accesskey    "p">
-<!ENTITY deleteAllAttachmentsMenuItem.label    "hapus semua…">
-<!ENTITY deleteAllAttachmentsMenuItem.accesskey    "u">
+<!ENTITY saveAttachmentButton1.label       "Simpan">
+<!ENTITY saveAttachmentButton1.tooltip     "Simpan berkas terlampir">
+<!ENTITY saveAllAttachmentsButton1.label   "Simpan Semua">
+<!ENTITY saveAllAttachmentsButton1.tooltip "Simpan semua berkas terlampir">
 
 <!ENTITY copyLinkCmd.label        "Salin Lokasi Tautan">
 <!ENTITY copyLinkCmd.accesskey    "S">

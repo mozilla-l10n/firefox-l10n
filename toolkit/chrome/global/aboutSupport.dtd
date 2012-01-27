@@ -24,6 +24,7 @@
 <!ENTITY aboutSupport.appBasicsCrashIDs "Pelapor Kerusakan">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Penggunaan Memori">
 
+
 <!ENTITY aboutSupport.show.label "Buka Foldernya Berkas">
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific

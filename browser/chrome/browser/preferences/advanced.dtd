@@ -40,7 +40,9 @@
 <!ENTITY connectionSettings.label        "Pengaturan…">
 <!ENTITY connectionSettings.accesskey    "u">
 
-<!ENTITY offlineStorage.label            "Penyimpanan Luring">
+<!ENTITY httpCache.label                 "Konten Web Tembolok">
+
+<!ENTITY offlineStorage2.label           "Konten Web Luring dan Data Pengguna">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -53,6 +55,8 @@
 <!ENTITY limitCacheSizeAfter.label       "MB">
 <!ENTITY clearCacheNow.label             "Bersihkan Sekarang">
 <!ENTITY clearCacheNow.accesskey         "g">
+<!ENTITY clearOfflineAppCacheNow.label   "Bersihkan Sekarang">
+<!ENTITY clearOfflineAppCacheNow.accesskey "n">
 <!ENTITY overrideSmartCacheSize.label    "Gunakan pengaturan tembolok manual">
 <!ENTITY overrideSmartCacheSize.accesskey "o">
 
@@ -77,8 +81,6 @@
 
 <!ENTITY updateOthers.label              "Otomatis perbarui:">
 
-<!ENTITY enableAddonsUpdate3.label       "Pengaya">
-<!ENTITY enableAddonsUpdate3.accesskey   "g">
 <!ENTITY enableSearchUpdate.label        "Mesin Pencari">
 <!ENTITY enableSearchUpdate.accesskey    "r">
 <!ENTITY updateHistory.label             "Tampilkan Riwayat Pemutakhiran">
@@ -89,7 +91,7 @@
 <!ENTITY offlineNotifyExceptions.label   "Pengecualian…">
 <!ENTITY offlineNotifyExceptions.accesskey "c">
 
-<!ENTITY offlineAppsList.label           "Situs web berikut telah menyimpan data untuk penggunaan luring:">
+<!ENTITY offlineAppsList2.label          "Situs web berikut telah diizinkan untuk menyimpan data untuk penggunaan luring:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Hapus…">
 <!ENTITY offlineAppsListRemove.accesskey "H">

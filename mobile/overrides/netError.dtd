@@ -7,19 +7,16 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Tidak dapat tersambung">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
 <!ENTITY deniedPortAccess.title "Penggunaan alamat ini telah dibatasi">
 <!ENTITY deniedPortAccess.longDesc "">
 <!ENTITY dnsNotFound.title "Server tidak ditemukan">
-<!ENTITY dnsNotFound.longDesc "
+<!ENTITY dnsNotFound.longDesc2 "
 <ul>
   <li>Periksa kesalahan pengetikan pada alamat seperti
     <strong>ww</strong>.example.com yang seharusnya
     <strong>www</strong>.example.com</li>
-  <li>Bila Anda tidak dapat memuat laman apa pun, periksa sambungan jaringan komputer
-    Anda.</li>
-  <li>Bila komputer atau jaringan Anda dilindungi firewall atau proxy, pastikan
-    bahwa &brandShortName; diizinkan untuk mengakses Web.</li>
+  <li>Bila Anda tidak dapat memuat laman apa pun, periksa sambungan data atau Wi-Fi Anda.</li>
 </ul>
 ">
 <!ENTITY fileNotFound.title "Berkas tidak ditemukan">
@@ -43,20 +40,15 @@
 </ul>
 ">
 <!ENTITY netInterrupt.title "Sambungan terputus">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
-<!-- LOCALIZATION NOTE (netOffline.overrideLongDesc) - This string should
-     indicate that "Work Offline" is a menu item without being too specific,
-     since it could be in either the normal menu (Mac/Linux) or the Firefox button
-     menu (Windows).
--->
-<!ENTITY netOffline.overrideLongDesc "
+<!ENTITY netOffline.title "Mode luring">
+<!ENTITY netOffline.longDesc2 "
 <ul>
   <li>Coba lagi.&brandShortName; akan mencoba untuk membuat sambungan dan memuat ulang laman.</li>
 </ul>
 ">
 
-<!ENTITY netOffline.title "Mode luring">
 <!ENTITY contentEncodingError.title "Kesalahan Pengodean Isi (Content Encoding)">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
@@ -70,9 +62,9 @@
 </ul>
 ">
 <!ENTITY netReset.title "Sambungan diputus">
-<!ENTITY netReset.longDesc "&sharedLongDesc;">
+<!ENTITY netReset.longDesc "&sharedLongDesc2;">
 <!ENTITY netTimeout.title "Tenggang waktu tersambung habis">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 <!ENTITY protocolNotFound.title "Alamat tidak dapat dipahami oleh program">
 <!ENTITY protocolNotFound.longDesc "
 <ul>
@@ -87,11 +79,10 @@
 </ul>
 ">
 <!ENTITY proxyResolveFailure.title "Tidak dapat menemukan server proxy">
-<!ENTITY proxyResolveFailure.longDesc "
+<!ENTITY proxyResolveFailure.longDesc2 "
 <ul>
   <li>Periksa pengaturan proxy, pastikan sudah benar.</li>
-  <li>Pastikan sambungan ke jaringan komputer Anda berjalan dengan baik.</li>
-  <li>Apabila komputer atau jaringan Anda dilindungi firewall atau proxy, pastikan bahwa &brandShortName; diizinkan mengakses Web.</li>
+  <li>Pastikan perangkat Anda dapat tersambung ke sambungan data atau Wi-Fi dengan baik.</li>
 </ul>
 ">
 <!ENTITY redirectLoop.title "Laman tidak teralihkan dengan benar">
@@ -121,25 +112,17 @@
   <li>Jika Anda pernah tersambung dengan baik, kesalahan ini mungkin hanya sementara dan Anda dapat mencoba lagi nanti.</li>
 </ul>
 ">
-<!ENTITY sharedLongDesc "
+<!ENTITY sharedLongDesc2 "
 <ul>
   <li>Sementara ini mungkin situs terlalu sibuk atau tidak menyala. Cobalah beberapa saat lagi.</li>
-  <li>Apabila Anda tidak dapat memuat laman apa pun, periksa sambungan jaringan komputer Anda.</li>
-  <li>Apabila komputer atau jaringan Anda dilindungi firewall atau proxy, pastikan bahwa &brandShortName; diizinkan mengakses Web.</li>
+  <li>Bila Anda tidak dapat memuat laman apa pun, periksa sambungan data atau Wi-Fi Anda.</li>
 </ul>
 ">
-<!ENTITY malwareBlocked.title "Tersangka Situs Penyerang!">
-<!ENTITY malwareBlocked.longDesc "
-<p>Situs penyerang mencoba memasang program yang dapat mencuri data pribadi, menggunakan komputer Anda untuk menyerang komputer lain, atau merusak sistem Anda.</p>
-<p>Pemilik situs web yang merasa situs yang bersangkutan bukan merupakan situs web penyerang dapat meminta <a href='http://www.stopbadware.org/home/reviewinfo' >peninjauan kembali</a>.</p>
-">
-<!ENTITY phishingBlocked.title "Tersangka Pemalsuan Web!">
-<!ENTITY phishingBlocked.longDesc '
-<p>Dengan memasukkan informasi pribadi pada laman ini, pencurian identitas atau kejahatan lainnya dapat terjadi.</p>
-<p>Jenis pemalsuan web yang digunakan untuk penipuan (scam) dikenal sebagai "phishing attack" yaitu penipuan dengan cara meniru laman web dan email yang mungkin Anda percayai.</p>
-'>
 <!ENTITY cspFrameAncestorBlocked.title "Diblokir oleh Kebijakan Keamanan Konten">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; mencegah pemuatan laman dengan cara ini karena laman mengandung kebijakan keamanan konten yang tidak mengizinkan hal ini.</p>">
+
+<!ENTITY corruptedContentError.title "Galat Konten Rusak">
+<!ENTITY corruptedContentError.longDesc "<p>Laman yang akan dibuka tidak dapat ditampilkan karena ada terdeteksi galat pada pengiriman data.</p><ul><li>Mohon hubungi pemilik situs web mengenai masalah ini.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Atau dapat ditambahkan pada pengecualian…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Kabur!">

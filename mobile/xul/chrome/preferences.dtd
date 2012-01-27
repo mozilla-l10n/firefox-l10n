@@ -5,11 +5,10 @@
 <!ENTITY reflowZoom.title                          "Format ulang teks saat perbesar/kecilan">
 <!ENTITY showImages.title                          "Tampilkan gambar">
 <!ENTITY enableJavaScript.title                    "Aktifkan JavaScript">
-<!ENTITY enablePlugins.title                       "Aktifkan Plugin">
 <!ENTITY privacy.title                             "Privasi &amp; Keamanan">
 <!ENTITY allowCookies.title                        "Izinkan kuki">
 <!ENTITY doNotTrack.title                          "Beritahukan situs agar tidak melacak jejak saya">
-<!ENTITY doNotTrack.title                          "Tell sites not to track me">
+<!ENTITY masterPassword.title                      "Gunakan sandi utama">
 <!ENTITY clearPrivateData2.title                   "Hapus data pribadi">
 <!ENTITY clearPrivateData.button                   "Hapus">
 <!ENTITY rememberPasswords.title                   "Ingat sandi">
@@ -21,4 +20,4 @@
 <!ENTITY homepage.none                             "Laman kosong">
 <!ENTITY homepage.default                          "Memulai &brandShortName;">
 <!ENTITY homepage.currentpage                      "Gunakan Laman Sekarang">
-<!ENTITY showCharset.title                         "Tampilkan Pengodean Karakter">
+<!ENTITY showCharsetEncoding.title                 "Tampilkan pengodean karakter">
