@@ -777,6 +777,7 @@
          <rdf:li> <rdf:Description ID="appearance_pref_content" nc:name="Contenido" nc:link="cs_nav_prefs_appearance.xhtml#content"/> </rdf:li>
          <rdf:li> <rdf:Description ID="appearance_pref_fonts" nc:name="Configuración de Apariencia - Tipos de letra" nc:link="cs_nav_prefs_appearance.xhtml#fonts"/> </rdf:li>
         <rdf:li> <rdf:Description ID="appearance_pref_colors" nc:name="Configuración de Apariencia - Colores" nc:link="cs_nav_prefs_appearance.xhtml#colors"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="appearance_pref_spelling" nc:name="Ortografía" nc:link="cs_nav_prefs_appearance.xhtml#spelling"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
