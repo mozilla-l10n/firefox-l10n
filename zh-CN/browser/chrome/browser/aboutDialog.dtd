@@ -9,7 +9,7 @@
 <!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
-<!ENTITY community.exp.middle       " 是一个 ">
+<!ENTITY community.exp.middle       " 是一个">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "全球社区">
 <!ENTITY community.exp.end          " 致力于让互联网保持开放、公开，所有人都能使用。">

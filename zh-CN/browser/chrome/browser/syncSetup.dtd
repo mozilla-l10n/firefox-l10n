@@ -40,12 +40,12 @@
 <!ENTITY setup.tosAgree2.accesskey  "">
 
 <!-- My Recovery Key dialog -->
-<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; 关心您的隐私">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; 致力于保护您的隐私">
 <!ENTITY setup.newRecoveryKeyPage.description.label "为确保您的隐私，所有数据在上传之前都已经过加密。对数据解密的恢复密钥未上传。">
 <!ENTITY recoveryKeyEntry.label        "您的恢复密钥">
 <!ENTITY recoveryKeyEntry.accesskey    "K">
 <!ENTITY syncGenerateNewKey.label  "生成新密钥">
-<!ENTITY recoveryKeyBackup.description "您需要提供恢复密钥以便从其他计算机访问 &syncBrand.fullName.label; 。请备份该密钥。我们将无法帮助您恢复您的恢复密钥。">
+<!ENTITY recoveryKeyBackup.description "您必须提供恢复密钥才能在其他计算机上访问 &syncBrand.fullName.label;。请备份该密钥。我们无法帮您找回您的恢复密钥。">
 
 <!ENTITY button.syncKeyBackup.print.label     "打印…">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">

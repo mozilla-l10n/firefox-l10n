@@ -75,5 +75,5 @@
 <!ENTITY  whatsnew.label                  "查看新特性详细信息…">
 
 <!ENTITY  update.details.label            "详细信息">
-<!ENTITY  update.installedOn.label        "安装日期：">
+<!ENTITY  update.installedOn.label        "安装时间：">
 <!ENTITY  update.status.label             "状态：">
