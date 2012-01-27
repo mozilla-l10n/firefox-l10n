@@ -2,11 +2,16 @@
 <!ENTITY syncBrand.shortName.label "Sync">
 <!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "Соединение с &syncBrand.shortName.label;">
+<!ENTITY sync.title.adddevice.label "Добавить учётную запись &syncBrand.fullName.label;">
 <!ENTITY sync.title.pair.label "Соединение с устройством">
 <!ENTITY sync.subtitle.connect.label "Для активации вашего нового устройства выберите на устройстве «Настроить &syncBrand.shortName.label;».">
+<!ENTITY sync.subtitle.header.label "Введите этот код на вашем компьютере">
+<!ENTITY sync.subtitle.connectlocation.label "Выберите “&sync.title.pair.label;” в разделе &syncBrand.shortName.label; настроек Firefox на вашем декстопе.">
 <!ENTITY sync.subtitle.pair.label "Для активации выберите «Соединиться с устройством» на другом вашем устройстве.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
+<!ENTITY sync.pin.oneline.label "...">
 <!ENTITY sync.link.show.label "Показать мне как.">
+<!ENTITY sync.link.advancedsetup.label "Дополнительные настройки...">
 <!ENTITY sync.link.nodevice.label "У меня нет с собой устройства…">
 <!ENTITY sync.jpake.subtitle.waiting.label "Ожидание другого устройства…">
 <!ENTITY sync.subtitle.account.label "Введите данные вашей учётной записи &syncBrand.fullName.label;">

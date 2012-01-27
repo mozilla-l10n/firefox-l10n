@@ -37,8 +37,9 @@
 <!ENTITY defaultPortValue.label "">
 <!ENTITY leaveMsgsOnSrvr.label "Оставлять копии сообщений на сервере">
 <!ENTITY leaveMsgsOnSrvr.accesskey "л">
+<!ENTITY modifyOutgoing.suffix "Вы можете изменить параметры сервера исходящей почты в параметрах учётной записи Почты и групп новостей.">
 <!ENTITY haveSmtp1.prefix "Будет использоваться уже существующий сервер исходящей почты (SMTP) — «">
-<!ENTITY haveSmtp1.suffix2 "». Вы можете изменить параметры сервера исходящей почты, выбрав пункт «Параметры учётной записи» в меню «Правка».">
+<!ENTITY haveSmtp1.suffix3 "».">
 <!ENTITY loginTitle.label "Имена пользователей">
 <!ENTITY usernameDesc.label "Введите имя пользователя, данное вам провайдером электронной почты">
 <!ENTITY usernameExample.label "(например, «i_ivanov»).">
@@ -48,9 +49,9 @@
 <!ENTITY usernameSmtpLabel.label "Имя пользователя (SMTP-сервер):">
 <!ENTITY usernameSmtpLabel.accesskey "е">
 <!ENTITY haveSmtp2.prefix "Будет использоваться уже существующее имя пользователя сервера исходящей почты (SMTP) — «">
-<!ENTITY haveSmtp2.suffix2 "». Вы можете изменить параметры сервера исходящей почты, выбрав пункт «Параметры учётной записи» в меню «Правка».">
+<!ENTITY haveSmtp2.suffix3 "».">
 <!ENTITY haveSmtp3.prefix "Ваш сервер исходящей почты (SMTP), «">
-<!ENTITY haveSmtp3.suffix2 "» идентичен серверу входящей почты, для работы пользователя будет использоваться то же имя пользователя. Вы можете изменить параметры сервера исходящей почты выбрав пункт «Параметры учётной записи» в меню «Правка».">
+<!ENTITY haveSmtp3.suffix3 "» идентичен серверу входящей почты, для работы пользователя будет использоваться то же имя пользователя.">
 <!ENTITY accnameTitle.label "Имя учётной записи">
 <!ENTITY accnameDesc.label "Введите имя этой учётной записи (например, «Рабочая», «Личная» или «Группы новостей»).">
 <!ENTITY accnameLabel.label "Имя учётной записи:">
