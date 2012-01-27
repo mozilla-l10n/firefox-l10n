@@ -1,0 +1,72 @@
+<!-- Don't localize these. They're here until they have
+     a better place to live. -->
+<!ENTITY syncBrand.fullName.label "Firefox Sync">
+<!ENTITY syncBrand.shortName.label "Sync">
+
+<!-- Main titles. -->
+<!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
+<!ENTITY sync.title.connect.label 'Verbinden met &syncBrand.shortName.label;'>
+<!ENTITY sync.title.adddevice.label 'Een &syncBrand.fullName.label;-account toevoegen'>
+<!ENTITY sync.title.pair.label 'Een apparaat koppelen'>
+
+<!-- J-PAKE Key Screen -->
+<!ENTITY sync.subtitle.connect.label 'Selecteer  &syncBrand.shortName.label; instellen” op het apparaat om uw nieuwe apparaat te activeren.'>
+<!ENTITY sync.subtitle.header.label 'Voer deze code in op uw computer'>
+<!ENTITY sync.subtitle.connectlocation.label 'Selecteer “&sync.title.pair.label;” in de &syncBrand.shortName.label; sectie van uw desktop Firefox-opties.'>
+<!ENTITY sync.subtitle.pair.label 'Om te activeren, selecteer “Een apparaat koppelen” op uw andere apparaat.'>
+<!ENTITY sync.pin.default.label '...\n...\n...\n'>
+<!ENTITY sync.pin.oneline.label '...'>
+<!ENTITY sync.link.show.label 'Tonen hoe.'>
+<!ENTITY sync.link.advancedsetup.label 'Uitgebreide configuratie...'>
+<!ENTITY sync.link.nodevice.label 'Ik heb het apparaat niet bij me…'>
+
+<!-- J-PAKE Waiting Screen -->
+<!ENTITY sync.jpake.subtitle.waiting.label 'Op andere apparaat wachten…'>
+
+<!-- Account Login Screen -->
+<!ENTITY sync.subtitle.account.label 'Voer uw &syncBrand.fullName.label;-accountgegevens in'>
+<!ENTITY sync.input.username.label 'Accountnaam'>
+<!ENTITY sync.input.password.label 'Wachtwoord'>
+<!ENTITY sync.input.key.label 'Herstelsleutel'>
+<!ENTITY sync.checkbox.server.label 'Eigen server gebruiken'>
+<!ENTITY sync.input.server.label 'Server-URL'>
+  
+<!-- Setup Fail -->
+<!ENTITY sync.title.fail.label 'Kan &syncBrand.shortName.label; niet configureren'>
+<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; kan niet verbinden met de server. Wilt u het opnieuw proberen?'>
+<!ENTITY sync.button.tryagain.label 'Opnieuw proberen'>
+<!ENTITY sync.button.manual.label 'Handmatige configuratie'>
+<!ENTITY sync.subtitle.nointernet.label 'Geen internetverbinding beschikbaar.'>
+  
+<!-- Setup Success -->
+<!ENTITY sync.title.success.label 'Set-up voltooid'>
+<!ENTITY sync.subtitle.success.label Uw gegevens worden nu gedownload op de achtergrond. U kunt naar instellingen gaan om uw account te beheren.'>
+<!ENTITY sync.settings.label 'Instellingen'>
+<!ENTITY sync.subtitle.manage.label 'Uw &syncBrand.fullName.label;-account is al ingesteld. Ga naar instellingen om uw account te beheren.'>
+
+<!-- Pair Device -->
+<!ENTITY sync.pair.tryagain.label 'Probeer het opnieuw.'>
+
+<!-- Firefox SyncAdapter Settings Screen -->
+<!ENTITY sync.settings.options.label 'Opties'>
+<!ENTITY sync.summary.pair.label 'Een ander apparaat aan uw &syncBrand.shortName.label;-account koppelen'>
+
+<!-- Common text -->
+<!ENTITY sync.button.cancel.label 'Annuleren'>
+<!ENTITY sync.button.connect.label 'Verbinden'>
+<!ENTITY sync.button.ok.label 'OK'>
+  
+<!-- Account strings -->
+<!ENTITY sync.account.label.label '&syncBrand.fullName.label;'>
+  
+<!-- Bookmark folder strings -->
+<!ENTITY bookmarks.folder.menu.label 'Bladwijzermenu'>
+<!ENTITY bookmarks.folder.places.label ''>
+<!ENTITY bookmarks.folder.tags.label 'Labels'>
+<!ENTITY bookmarks.folder.toolbar.label 'Bladwijzerwerkbalk'>
+<!ENTITY bookmarks.folder.unfiled.label 'Ongesorteerde bladwijzers'>
+<!ENTITY bookmarks.folder.desktop.label 'Desktop-bladwijzers'>
+<!ENTITY bookmarks.folder.mobile.label 'Mobiel-bladwijzers'>
+
+<!-- Notification strings -->
+<!ENTITY sync.notification.oneaccount.label 'Maar één &syncBrand.fullName.label;-account wordt ondersteund.'>
