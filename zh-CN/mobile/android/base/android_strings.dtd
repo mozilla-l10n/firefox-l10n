@@ -4,7 +4,7 @@
 <!ENTITY  no_space_to_start_error "无足够的空间以启动 &brandShortName;。">
 <!ENTITY  error_loading_file "载入运行 &brandShortName; 所需的文件时发生错误">
 
-<!ENTITY  awesomebar_all_pages_title "最常用站点">
+<!ENTITY  awesomebar_all_pages_title "热门网站">
 <!ENTITY  awesomebar_bookmarks_title "书签">
 <!ENTITY  awesomebar_history_title "历史">
 <!ENTITY  awesomebar_search_engine "搜索 \&quot;&#037;s\&quot;">
@@ -27,9 +27,7 @@
 
 <!ENTITY awesomebar_default_text "输入搜索或地址">
 
-<!ENTITY bookmarks_title "书签">
-<!ENTITY bookmark_add "书签">
-<!ENTITY bookmark_remove "移除">
+<!ENTITY bookmark "书签">
 <!ENTITY bookmark_added "书签已添加">
 <!ENTITY bookmark_removed "书签已移除">
 
@@ -58,11 +56,12 @@
 <!ENTITY pref_clear_history_confirm "浏览历史记录将被删除">
 <!ENTITY pref_clear_private_data "清除隐私数据">
 <!ENTITY pref_clear_private_data_confirm "浏览设置，包括密码和 cookie，都将被删除">
-<!ENTITY pref_enable_plugins "启用插件">
-<!ENTITY pref_enable_plugins_yes "是">
-<!ENTITY pref_enable_plugins_tap_to_play "轻击即可播放">
-<!ENTITY pref_enable_plugins_no "否">
-<!ENTITY pref_font_size "字体大小">
+<!ENTITY pref_plugins "插件">
+<!ENTITY pref_plugins_enabled "已启用">
+<!ENTITY pref_plugins_tap_to_play "轻击即可播放">
+<!ENTITY pref_plugins_disabled "已禁用">
+<!ENTITY pref_text_size "文字大小">
+<!ENTITY pref_font_size_tiny "极小">
 <!ENTITY pref_font_size_small "小">
 <!ENTITY pref_font_size_medium "中">
 <!ENTITY pref_font_size_large "大">
@@ -72,13 +71,13 @@
 <!ENTITY quit "退出">
 
 <!ENTITY addons "附加组件">
+<!ENTITY downloads "下载">
 
 <!ENTITY share "共享">
 <!ENTITY save_as_pdf "另存为 PDF">
-<!ENTITY agent_request_desktop "请求桌面版网站">
-<!ENTITY agent_request_mobile "请求移动版网站">
 
 <!ENTITY contextmenu_open_new_tab "在新标签页中打开">
+<!ENTITY contextmenu_remove_bookmark "移除">
 <!ENTITY contextmenu_add_to_launcher "添加到主屏幕">
 <!ENTITY contextmenu_share "共享">
 
@@ -94,3 +93,13 @@
 
 <!ENTITY button_ok "确定">
 <!ENTITY button_cancel "取消">
+
+<!ENTITY abouthome_addons_title "您的 &brandShortName; 附加组件">
+<!ENTITY abouthome_addons_browse "浏览所有 &brandShortName; 附加组件">
+<!ENTITY abouthome_last_tabs_title "上次打开的标签页">
+<!ENTITY abouthome_last_tabs_open "打开上一次的所有标签页">
+<!ENTITY abouthome_top_sites_title "热门网站">
+<!ENTITY abouthome_top_sites_browse "浏览您的所有热门网站">
+<!ENTITY abouthome_no_top_sites "您还没有热门网站。轻击标题栏即可开始浏览。">
+<!ENTITY abouthome_about_sync "设置 Firefox 同步后即可从其他设备访问书签，历史记录以及标签页">
+<!ENTITY abouthome_sync_bold_name "Firefox 同步">
