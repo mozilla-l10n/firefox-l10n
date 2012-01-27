@@ -6,17 +6,12 @@
 <!ENTITY organize.accesskey    "O">
 <!ENTITY organize.tooltip      "Organizirajte svoje zabilješke">
 
-<!ENTITY file.accesskey                 "D">
 <!ENTITY file.close.label               "Zatvori">
 <!ENTITY file.close.accesskey           "Z">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY edit.label                     "Uredi">
-<!ENTITY edit.accesskey                 "U">
 <!ENTITY views.label                    "Pogledi">
 <!ENTITY views.accesskey                "P">
 <!ENTITY views.tooltip                  "Promijenite prikaz">
-<!ENTITY view.toolbar.label             "Alatna traka">
-<!ENTITY view.toolbar.accesskey         "A">
 <!ENTITY view.columns.label             "Prikaži stupce">
 <!ENTITY view.columns.accesskey         "s">
 <!ENTITY view.sort.label                "Posloži">
@@ -27,12 +22,6 @@
 <!ENTITY view.sortAscending.accesskey   "A">
 <!ENTITY view.sortDescending.label      "Z > A poredak">
 <!ENTITY view.sortDescending.accesskey  "Z">
-<!ENTITY help.usingBookmarks.label      "Koristeći zabilješke">
-<!ENTITY help.usingBookmarks.accesskey  "z">
-<!ENTITY help.usingHistory.label        "Koristeći povijest">
-<!ENTITY help.usingHistory.accesskey    "p">
-<!ENTITY help.advancedTips.label        "Napredni savjeti &amp; trikovi">
-<!ENTITY help.advancedTips.accesskey    "t">
 
 <!ENTITY cmd.findInBookmarks.label      "Potraži u zabilješkama…">
 <!ENTITY cmd.findInBookmarks.accesskey  "z">
@@ -53,28 +42,6 @@
 <!ENTITY cmd.restoreFromFile.label      "Odaberite datoteku…">
 <!ENTITY cmd.restoreFromFile.accesskey  "O">
 
-<!ENTITY cmd.select_all.label "Odaberi sve">
-<!ENTITY cmd.select_all.accesskey "s">
-<!ENTITY cmd.select_all.key "a">
-
-<!ENTITY cmd.edit_cut.label         "Izreži">
-<!ENTITY cmd.edit_cut.accesskey     "r">
-<!ENTITY cmd.edit_cut.key           "x">
-<!ENTITY cmd.edit_copy.label        "Kopiraj">
-<!ENTITY cmd.edit_copy.accesskey    "K">
-<!ENTITY cmd.edit_copy.key          "c">
-<!ENTITY cmd.edit_paste.label       "Ubaci">
-<!ENTITY cmd.edit_paste.accesskey   "b">
-<!ENTITY cmd.edit_paste.key         "v">
-<!ENTITY cmd.edit_delete.label      "Obriši">
-<!ENTITY cmd.edit_delete.accesskey  "O">
-<!ENTITY cmd.edit_undo.label        "Vrati">
-<!ENTITY cmd.edit_undo.accesskey    "V">
-<!ENTITY cmd.edit_undo.key          "z">
-<!ENTITY cmd.edit_redo.label        "Ponovi">
-<!ENTITY cmd.edit_redo.accesskey    "P">
-<!ENTITY cmd.edit_redo.key          "y">
-
 <!ENTITY cmd.bookmarkLink.label         "Zabilježi ovu stranicu…">
 <!ENTITY cmd.bookmarkLink.accesskey     "Z">
 <!ENTITY cmd.delete.label               "Obriši ovu stranicu">
@@ -94,19 +61,12 @@
 <!ENTITY cmd.properties.label      "Svojstva">
 <!ENTITY cmd.properties.accesskey  "S">
 
-<!ENTITY cmd.show_info.key  "i">
-
-<!ENTITY cmd.rename.label      "Preimenuj">
-<!ENTITY cmd.rename.accesskey  "r">
-
 <!ENTITY cmd.sortby_name.label              "Složi prema imenu">
 <!ENTITY cmd.sortby_name.accesskey          "S">
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
 
 <!ENTITY cmd.new_bookmark.label            "Nova zabilješka…">
 <!ENTITY cmd.new_bookmark.accesskey        "z">
-<!ENTITY cmd.new_livemark.label            "Nova živa zabilješka…">
-<!ENTITY cmd.new_livemark.accesskey        "b">
 <!ENTITY cmd.new_folder.label              "Nova mapa…">
 <!ENTITY cmd.new_folder.accesskey          "o">
 <!ENTITY cmd.context_new_folder.accesskey  "m">
@@ -115,17 +75,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label      "Ponovo učitaj žive zabilješke">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "u">
-<!ENTITY cmd.reloadMicrosummary.label      "Ponovo učitaj živi naslov">
-<!ENTITY cmd.reloadMicrosummary.accesskey  "n">
-
-<!ENTITY cmd.groupby_site.label      "Grupiraj prema web stranici">
-<!ENTITY cmd.groupby_site.accesskey  "w">
-<!ENTITY cmd.groupby_page.label      "Grupiraj prema stranici">
-<!ENTITY cmd.groupby_page.accesskey  "s">
-<!ENTITY cmd.groupby_feed.label      "Grupiraj prema prijavi">
-<!ENTITY cmd.groupby_feed.accesskey  "p">
-<!ENTITY cmd.groupby_post.label      "Grupiraj prema položaju">
-<!ENTITY cmd.groupby_post.accesskey  "o">
 
 <!ENTITY cmd.moveBookmarks.label                  "Premjesti…">
 <!ENTITY cmd.moveBookmarks.accesskey              "P">
@@ -150,70 +99,23 @@
 <!ENTITY search.scopeDownloads.accesskey           "r">
 <!ENTITY search.scopeHistory.label                 "Povijest">
 <!ENTITY search.scopeHistory.accesskey             "v">
-<!ENTITY search.scopeBarExpanderDown.tooltip       "Prikaži graditelj pretraga">
-<!ENTITY search.scopeBarExpanderUp.tooltip         "Sakrij graditelj pretraga">
 <!ENTITY saveSearch.label                          "Spremi">
 <!ENTITY saveSearch.accesskey                      "S">
-<!ENTITY moreCriteria.label                        "+">
-<!ENTITY advancedSearch.onlybookmarked.label       "Traži samo zabilješke">
-<!ENTITY advancedSearch.match.label                "Sadrži ">
-<!ENTITY advancedSearch.all.label                  "sve">
-<!ENTITY advancedSearch.any.label                  "bilo koje">
-<!ENTITY advancedSearch.rules.label                " od slijedećih pravila:">
-<!ENTITY advancedSearch.subj_keyword.label         "Sadrži tekst">
-<!ENTITY advancedSearch.subj_visited.label         "Posjećeno">
-<!ENTITY advancedSearch.subj_location.label        "Lokacija">
-<!ENTITY advancedSearch.location_startswith.label  "počinje s">
-<!ENTITY advancedSearch.location_is.label          "je">
-<!ENTITY advancedSearch.location_onsite.label      "je na stranici">
-<!ENTITY advancedSearch.time_is.label              "dana">
-<!ENTITY advancedSearch.time_before.label          "prije">
-<!ENTITY advancedSearch.time_after.label           "poslije">
-<!ENTITY advancedSearch.time_inlast.label          "u proteklih">
-<!ENTITY advancedSearch.last_days.label            "dana">
-<!ENTITY advancedSearch.last_weeks.label           "tjedana">
-<!ENTITY advancedSearch.last_months.label          "mjeseci">
-<!ENTITY advancedSearch.plus.label                 "+">
-<!ENTITY advancedSearch.minus.label                "-">
-<!ENTITY advancedSearch.groupby.label              "Grupiraj prema: ">
-<!ENTITY advancedSearch.groupby_host.label         "poslužitelju">
-<!ENTITY advancedSearch.groupby_domain.label       "domeni">
-<!ENTITY advancedSearch.groupby_folder.label       "mapi">
-<!ENTITY advancedSearch.sortby.label               "Sortiraj prema: ">
-<!ENTITY advancedSearch.sortby_title.label         "naslovu">
-<!ENTITY advancedSearch.sortby_date.label          "datumu">
-<!ENTITY advancedSearch.sortby_visit.label         "broju posjeta">
-<!ENTITY advancedSearch.sortby_url.label           "url-u">
-<!ENTITY advancedSearch.sortby_asc.label           "uzlazno">
-<!ENTITY advancedSearch.sortby_desc.label          "silazno">
-<!ENTITY advancedSearch.max.label                  "Najveći broj rezultata: ">
 
 <!ENTITY cmd.find.key  "f">
-
-<!ENTITY feed.subscribe.label    "Kanal">
-<!ENTITY feed.subscribe.tooltip  "Prijava">
-
-<!ENTITY view.detailsMacOSX.label  "Popis">
-<!ENTITY view.details.label        "Detalji">
-<!ENTITY view.details.accesskey    "D">
-
-<!ENTITY view.addons.label   "Preuzmi Pogledaj dodatke">
 
 <!ENTITY maintenance.label      "Unos i sigurnosne kopije">
 <!ENTITY maintenance.accesskey  "U">
 <!ENTITY maintenance.tooltip    "Unesite ili izvezite svoje zabilješke">
 
-<!ENTITY backCmd.label       "Natrag">
 <!ENTITY backButton.tooltip  "Idi natrag">
 
-<!ENTITY forwardCmd.label       "Naprijed">
 <!ENTITY forwardButton.tooltip  "Idi naprijed">
 
 <!ENTITY detailsPane.more.label "Više">
 <!ENTITY detailsPane.more.accesskey "V">
 <!ENTITY detailsPane.less.label "Manje">
 <!ENTITY detailsPane.less.accesskey "M">
-<!ENTITY detailsPane.noPreviewAvailable.label "Pogled">
 <!ENTITY detailsPane.selectAnItemText.description "Odaberite stavku za pregled i ureživanje njenih svojstava">
 
 

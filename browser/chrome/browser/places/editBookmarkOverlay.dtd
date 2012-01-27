@@ -6,7 +6,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "k">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Lokacija stranice:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "s">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "Živi naslovi">
 <!ENTITY editBookmarkOverlay.folder.label                    "Mapa:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Prikaži sve mape zabilješki">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Sakrij">
