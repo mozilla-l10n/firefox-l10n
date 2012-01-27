@@ -1,21 +1,2 @@
-<!ENTITY  untitledTab            "(Neimenovano)">
-<!ENTITY  newTab.label           "Nova kartica">
-<!ENTITY  newTab.accesskey       "N">
 <!ENTITY  closeTab.label         "Zatvori karticu">
-<!ENTITY  closeTab.accesskey         "Z">
-<!ENTITY  closeOtherTabs.accesskey  "o">
-<!ENTITY  closeOtherTabs.label   "Zatvori ostale kartice">
-<!ENTITY  reloadAllTabs.label    "Ponovo učitaj sve kartice">
-<!ENTITY  reloadAllTabs.accesskey         "u">
-<!ENTITY  reloadTab.label        "Ponovo učitaj karticu">
-<!ENTITY  reloadTab.accesskey         "r">
-<!ENTITY  openTabInNewWindow.label    "Otvori u novom prozoru">
-<!ENTITY  openTabInNewWindow.accesskey "p">
-<!ENTITY  listAllTabs.label      "Ispiši sve kartice">
-<!ENTITY  bookmarkAllTabs.label       "Zabilježi sve kartice…">
-<!ENTITY  bookmarkAllTabs.accesskey   "T">
-<!ENTITY  bookmarkThisTab.label       "Zabilježi ovu karticu">
-<!ENTITY  bookmarkThisTab.accesskey   "B">
-<!ENTITY  undoCloseTab.label          "Povrati zatvorenu karticu">
-<!ENTITY  undoCloseTab.accesskey      "U">
 <!ENTITY  newTabButton.tooltip        "Otvori novu karticu">
