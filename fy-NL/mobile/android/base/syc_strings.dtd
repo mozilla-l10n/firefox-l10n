@@ -1,0 +1,72 @@
+<!-- Don't localize these. They're here until they have
+     a better place to live. -->
+<!ENTITY syncBrand.fullName.label "Firefox Sync">
+<!ENTITY syncBrand.shortName.label "Sync">
+
+<!-- Main titles. -->
+<!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
+<!ENTITY sync.title.connect.label 'Ferbine mei &syncBrand.shortName.label;'>
+<!ENTITY sync.title.adddevice.label 'In &syncBrand.fullName.label;-account tafoegje'>
+<!ENTITY sync.title.pair.label 'In apparaat keppelje'>
+
+<!-- J-PAKE Key Screen -->
+<!ENTITY sync.subtitle.connect.label 'Selektearje &syncBrand.shortName.label; ynstelle” op it apparaat om jo nije apparaat te aktivearjen.'>
+<!ENTITY sync.subtitle.header.label 'Fier dizze koade yn op jo kompjûter'>
+<!ENTITY sync.subtitle.connectlocation.label 'Selektearje “&sync.title.pair.label;” yn de &syncBrand.shortName.label; seksje fan jo buro-PC Firefox-opsjes.'>
+<!ENTITY sync.subtitle.pair.label 'Om te aktivearjen, selektearje “In apparaat keppelje” op jo oare apparaat.'>
+<!ENTITY sync.pin.default.label '...\n...\n...\n'>
+<!ENTITY sync.pin.oneline.label '...'>
+<!ENTITY sync.link.show.label 'Toane hoe.'>
+<!ENTITY sync.link.advancedsetup.label 'Wiidweide konfiguraasje...'>
+<!ENTITY sync.link.nodevice.label 'Ik haw it apparaat net by my…'>
+
+<!-- J-PAKE Waiting Screen -->
+<!ENTITY sync.jpake.subtitle.waiting.label 'Op oare apparaat wachtsje…'>
+
+<!-- Account Login Screen -->
+<!ENTITY sync.subtitle.account.label 'Fier jo &syncBrand.fullName.label;-accountgegevens yn'>
+<!ENTITY sync.input.username.label 'Accountnamme'>
+<!ENTITY sync.input.password.label 'Wachtwurd'>
+<!ENTITY sync.input.key.label 'Werstelkaai'>
+<!ENTITY sync.checkbox.server.label 'Eigen tsjinner brûke'>
+<!ENTITY sync.input.server.label 'Tsjinner-URL'>
+  
+<!-- Setup Fail -->
+<!ENTITY sync.title.fail.label 'Kin &syncBrand.shortName.label; net konfigurearje'>
+<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; kin net ferbine mei de tsjinner. Wolle jo it opnij probearje?'>
+<!ENTITY sync.button.tryagain.label 'Opnij probearje'>
+<!ENTITY sync.button.manual.label 'Hânmjittige konfiguraasje'>
+<!ENTITY sync.subtitle.nointernet.label 'Gjin ynternetferbining beskikber.'>
+  
+<!-- Setup Success -->
+<!ENTITY sync.title.success.label 'Ynstellen foltôge'>
+<!ENTITY sync.subtitle.success.label 'Jo gegevens wurde no ynladen op de achtergrûn. Jo kinne nei ynstellingen gean om jo account te behearen.'>
+<!ENTITY sync.settings.label 'Ynstellingen'>
+<!ENTITY sync.subtitle.manage.label 'Jo &syncBrand.fullName.label;-account is al ynsteld. Gean nei ynstellingen om jo account te behearen.'>
+
+<!-- Pair Device -->
+<!ENTITY sync.pair.tryagain.label 'Probearje it opnij.'>
+
+<!-- Firefox SyncAdapter Settings Screen -->
+<!ENTITY sync.settings.options.label 'Opsjes'>
+<!ENTITY sync.summary.pair.label 'In oar apparaat oan jo &syncBrand.shortName.label;-account keppelje'>
+
+<!-- Common text -->
+<!ENTITY sync.button.cancel.label 'Annulearje'>
+<!ENTITY sync.button.connect.label 'Ferbine'>
+<!ENTITY sync.button.ok.label 'OK'>
+  
+<!-- Account strings -->
+<!ENTITY sync.account.label.label '&syncBrand.fullName.label;'>
+  
+<!-- Bookmark folder strings -->
+<!ENTITY bookmarks.folder.menu.label 'Blêdwizermenu'>
+<!ENTITY bookmarks.folder.places.label ''>
+<!ENTITY bookmarks.folder.tags.label 'Labels'>
+<!ENTITY bookmarks.folder.toolbar.label 'Blêdwizerarkbalke'>
+<!ENTITY bookmarks.folder.unfiled.label 'Net sortearre blêdwizers'>
+<!ENTITY bookmarks.folder.desktop.label 'Buro-PC-blêdwizers'>
+<!ENTITY bookmarks.folder.mobile.label 'Mobyl-blêdwizers'>
+
+<!-- Notification strings -->
+<!ENTITY sync.notification.oneaccount.label 'Mar ien &syncBrand.fullName.label;-account wurdt stipe.'>
