@@ -4,7 +4,7 @@
 <!ENTITY itemNetworking.label "Red y espacio en disco">
 <!ENTITY itemCertificates.label "Certificados">
 <!ENTITY submitTelemetry.label "Enviar datos de rendimiento">
-<!ENTITY submitTelemetry.accesskey "V">
+<!ENTITY submitTelemetry.accesskey "n">
 <!ENTITY telemetryInfoLink.label "Más información sobre Telemetry">
 <!ENTITY enableGlodaSearch.label "Activar indexador y búsqueda global">
 <!ENTITY enableGlodaSearch.accesskey "A">
