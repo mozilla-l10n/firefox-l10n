@@ -68,3 +68,11 @@
 <!-- Edit menu items -->
 <!ENTITY publishSettings.label "Pengaturan Situs untuk Penerbitan…">
 <!ENTITY publishSettings.accesskey "b">
+
+<!-- Toolbar buttons/items -->
+<!ENTITY newToolbarCmd.label "Baru">
+<!ENTITY newToolbarCmd.tooltip "Buat laman Composer baru">
+<!ENTITY openToolbarCmd.label "Buka">
+<!ENTITY openToolbarCmd.tooltip "Buka berkas lokal">
+<!ENTITY saveToolbarCmd.tooltip "Simpan berkas ke lokasi lokal">
+<!ENTITY publishToolbarCmd.tooltip "Unggah berkas ke lokasi daring">
