@@ -3,9 +3,9 @@
     %brandDTD;
 
 <!-- These strings are used in the sync progress upload page -->
-<!ENTITY syncProgress.pageTitle    "Your First Sync">
-<!ENTITY syncProgress.textBlurb    "Your data is now being encrypted and uploaded in the background. You can close this tab and continue using &brandShortName;.">
-<!ENTITY syncProgress.closeButton  "Close">
-<!ENTITY syncProgress.logoAltText  "&brandShortName; logo">
-<!ENTITY syncProgress.diffText     "&brandShortName; will now automatically sync in the background.  You can close this tab and continue using &brandShortName;.">
+<!ENTITY syncProgress.pageTitle    "Ваша перша синхронізація">
+<!ENTITY syncProgress.textBlurb    "Ваші дані наразі шифруються і відвантажуються на сервер. Ви можете закрити цю вкладку і продовжити роботу з &brandShortName;.">
+<!ENTITY syncProgress.closeButton  "Закрити">
+<!ENTITY syncProgress.logoAltText  "Логотип &brandShortName;">
+<!ENTITY syncProgress.diffText     "&brandShortName; буде синхронізуватись автоматично, у фоновому режимі. Ви можете закрити цю вкладку і продовжити роботу з &brandShortName;.">
 
