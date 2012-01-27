@@ -327,12 +327,6 @@
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Bilah Menu">
 <!ENTITY formatToolbar.tooltip "Bilah Format">
-<!ENTITY newToolbarCmd.label "Baru">
-<!ENTITY newToolbarCmd.tooltip "Buat Laman Baru di Composer">
-<!ENTITY openToolbarCmd.label "Buka">
-<!ENTITY openToolbarCmd.tooltip "Buka berkas lokal">
-<!ENTITY saveToolbarCmd.tooltip "Simpan berkas ke lokasi lokal">
-<!ENTITY publishToolbarCmd.tooltip "Unggah berkas ke lokasi daring">
 <!ENTITY cutToolbarCmd.tooltip "Potong">
 <!ENTITY copyToolbarCmd.tooltip "Salin">
 <!ENTITY pasteToolbarCmd.tooltip "Tempel">
