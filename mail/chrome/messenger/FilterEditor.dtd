@@ -29,6 +29,7 @@
 <!ENTITY forwardTo.label "Teruskan Pesan ke">
 <!ENTITY replyWithTemplate.label "Balas Menggunakan Templat">
 <!ENTITY markMessageRead.label "Tandai Sudah Dibaca">
+<!ENTITY markMessageUnread.label "Tandai Belum Dibaca">
 <!ENTITY markMessageStarred.label "Tambahkan Bintang">
 <!ENTITY setPriority.label "Terapkan Prioritas">
 <!ENTITY addTag.label "Tambahkan Tag pada Pesan">
