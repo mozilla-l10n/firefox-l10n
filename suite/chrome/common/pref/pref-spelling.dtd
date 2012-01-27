@@ -6,7 +6,7 @@
 <!ENTITY multilineCheckSpelling.label "En las entradas multilínea">
 <!ENTITY alwaysCheckSpelling.label "Todas las entradas">
 <!ENTITY spellForMailAndNews.label "Correo y noticias">
-<!ENTITY checkSpellingBeforeSend.label "Comprobar la ortografía antes de enviar">
+<!ENTITY checkSpellingBeforeSend.label "Revisar ortografía antes de enviar">
 <!ENTITY checkSpellingBeforeSend.accesskey "C">
 <!ENTITY spellCheckInline.label "Revisar ortografía según se escribe">
 <!ENTITY spellCheckInline.accesskey "R">
