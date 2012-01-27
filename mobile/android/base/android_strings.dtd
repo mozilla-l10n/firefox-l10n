@@ -102,3 +102,6 @@
 <!ENTITY abouthome_last_tabs_open "Iepenje alle ljepblêden fan de lêste kear">
 <!ENTITY abouthome_top_sites_title "Topsites">
 <!ENTITY abouthome_top_sites_browse "Blêdzje al jo topsites">
+<!ENTITY abouthome_no_top_sites "Jo hawwe noch gjin topsites. Tik de Titelbalke om mei sneupen te starten.">
+<!ENTITY abouthome_about_sync "Stel Firefox Sync yn foar tagong ta blêdwizers, skiednis en ljepblêden fan jo oare apparaten">
+<!ENTITY abouthome_sync_bold_name "Firefox Sync">
