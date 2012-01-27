@@ -22,17 +22,6 @@
 <!ENTITY importButton.accesskey     "Y">
 <!ENTITY importButton.commandkey    "y">
 
-<!ENTITY searchInput.tooltip        "Filter stylblêden per namme">
-<!ENTITY searchInput.placeholder    "Fyn stylblêd">
-
-<!-- LOCALIZATION NOTE  (searchNoResults): This is shown when searching a term
-     that is not found in any stylesheet or stylesheet name. -->
-<!ENTITY searchNoResults.label      "No matching style sheet has been found.">
-
-<!-- LOCALIZATION NOTE  (searchClearButton): This button clears the search input
-     box and is visible only when a search term has been typed. -->
-<!ENTITY searchClearButton.label    "Clear">
-
 <!ENTITY visibilityToggle.tooltip   "Toggle style sheet visibility">
 <!ENTITY visibilityToggle.accesskey "V">
 
@@ -60,4 +49,7 @@
 <!ENTITY noStyleSheet-tip-action.label "in nij stylblêd tapasse">
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-end.label): End of the tip sentence -->
 <!ENTITY noStyleSheet-tip-end.label    "?">
+
+<!-- LOCALIZATION NOTE  (closeCmd.key): Accel + this key closes the window. -->
+<!ENTITY closeCmd.key                  "W">
 
