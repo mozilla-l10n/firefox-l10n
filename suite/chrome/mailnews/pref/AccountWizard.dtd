@@ -61,12 +61,16 @@
 <!ENTITY leaveMsgsOnSrvr.label "Laisser les messages sur le serveur">
 <!ENTITY leaveMsgsOnSrvr.accesskey "L">
 
-<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
+<!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
+     haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
 -->
+<!ENTITY modifyOutgoing.suffix "Vous pouvez modifier les serveurs sortants dans les paramètres des comptes.">
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
+ -->
 <!ENTITY haveSmtp1.prefix "Votre serveur actuel de courrier sortant (SMTP), « ">
-<!ENTITY haveSmtp1.suffix2 " », sera utilisé. Vous n'avez besoin que d'un seul serveur de ce type, même pour plusieurs comptes. Normalement vous le choisissez pour votre compte courrier le plus actif. Pour spécifier plus d'un serveur, allez dans Paramètres des comptes depuis le menu Édition.">
+<!ENTITY haveSmtp1.suffix3 " », sera utilisé.">
 
 <!-- Entities for Login page -->
 
@@ -79,18 +83,19 @@
 <!ENTITY usernameSmtpDesc.label "Saisissez le nom d'utilisateur sortant donné par votre fournisseur de courrier (habituellement le même que le nom d'utilisateur entrant).">
 <!ENTITY usernameSmtpLabel.label "Nom d'utilisateur sortant :">
 <!ENTITY usernameSmtpLabel.accesskey "o">
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
--->
-<!ENTITY haveSmtp2.prefix "Votre nom d'utilisateur sortant actuel (SMTP) « ">
-<!ENTITY haveSmtp2.suffix2 " » sera utilisé. Pour modifier les paramètres de serveur sortant, allez dans Paramètres des comptes depuis le menu Édition.">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
--->
+
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
+ -->
+<!ENTITY haveSmtp2.prefix "Votre nom d'utilisateur sortant actuel (SMTP), « ">
+<!ENTITY haveSmtp2.suffix3 " », sera utilisé.">
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
+ -->
 <!ENTITY haveSmtp3.prefix "Votre serveur d'envoi de messages (SMTP) « ">
-<!ENTITY haveSmtp3.suffix2 " » est identique à votre serveur entrant, votre nom d'utilisateur entrant sera utilisé pour la connexion à ce serveur. Pour modifier les paramètres de serveur sortant, allez dans Paramètres des comptes depuis le menu Édition.">
+<!ENTITY haveSmtp3.suffix3 " », est identique à votre serveur entrant. Votre nom d'utilisateur entrant sera utilisé pour la connexion à ce serveur.">
 
 <!-- Entities for Account name page -->
 
