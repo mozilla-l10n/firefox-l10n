@@ -28,6 +28,7 @@
 <!ENTITY forwardTo.label "Berjocht trochstjoere nei">
 <!ENTITY replyWithTemplate.label "Mei sjabloan antwurdzje">
 <!ENTITY markMessageRead.label "Berjocht as lêzen markearje">
+<!ENTITY markMessageUnread.label "Berjocht as net lêzen markearje">
 <!ENTITY markMessageStarred.label "Stjer tafoegje">
 <!ENTITY setPriority.label "Prioriteit feroarje nei">
 <!ENTITY addTag.label "Berjocht labelje">
