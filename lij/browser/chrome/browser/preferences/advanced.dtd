@@ -24,7 +24,7 @@
 
 <!ENTITY systemDefaults.label            "Predefinîo do scistêma
 ">
-<!ENTITY alwaysCheckDefault.label        "Inte l'avîo contròlla de lóngo se o &brandShortName; o l'é o navegatô predefinîo"><!--XXX-->
+<!ENTITY alwaysCheckDefault.label        "Inte l'avertûa contròlla de lóngo se o &brandShortName; o l'é o navegatô predefinîo"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "i">
 <!ENTITY checkNow.label                  "Contròlla òua">
 <!ENTITY checkNow.accesskey              "n">

@@ -15,7 +15,7 @@
 <!ENTITY useMultiple.label         "Ûza e pàgine corénti">
 <!ENTITY chooseBookmark.label      "Ûza o segnalìbbro…">
 <!ENTITY chooseBookmark.accesskey  "s">
-<!ENTITY restoreDefault.label      "Remétti predefinîo">
+<!ENTITY restoreDefault.label      "Métti tórna predefinîo">
 <!ENTITY restoreDefault.accesskey  "R">
 
 <!ENTITY downloads.label     "Descaregaménti">

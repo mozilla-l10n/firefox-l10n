@@ -54,7 +54,7 @@
 <!ENTITY resetUserPrefs.label         "Reinpòsta tùtte e preferense a-o predefinîo de &brandShortName;">
 <!ENTITY resetUserPrefs.accesskey     "p">
 
-<!ENTITY restoreSearch.label          "Remétti i motô de riçèrca predefinî">
+<!ENTITY restoreSearch.label          "Métti tórna i motô de riçèrca predefinî">
 <!ENTITY restoreSearch.accesskey      "R">
 
 <!ENTITY changeAndRestartButton.label "Càngia e àrvi tórna">

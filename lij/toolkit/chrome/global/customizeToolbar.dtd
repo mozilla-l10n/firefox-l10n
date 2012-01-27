@@ -6,7 +6,7 @@
 <!ENTITY icons.label              "Icone">
 <!ENTITY text.label               "Testo">
 <!ENTITY useSmallIcons.label      "Ûza icone picìnn-e">
-<!ENTITY restoreDefaultSet.label  "Remétti predefinîo">
+<!ENTITY restoreDefaultSet.label  "Métti tórna predefinîo">
 <!ENTITY addNewToolbar.label      "Azónzi Nêuva Bâra">
 <!ENTITY saveChanges.label        "Fæto">
 <!ENTITY undoChanges.label        "Anùlla i cangi">
