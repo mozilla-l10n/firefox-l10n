@@ -37,7 +37,7 @@
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey       "F">
 
-<!ENTITY enableAddonsUpdate2.label       "యాడ్-ఆన్స్">
+<!ENTITY enableAddonsUpdate2.label       "పొడిగింతలు">
 <!ENTITY enableAddonsUpdate2.accesskey   "n">
 
 <!ENTITY enableSearchUpdate.label        "శోధన ఇంజన్సు‌">
@@ -47,7 +47,7 @@
 <!ENTITY askMe.accesskey                 "k">
 <!ENTITY modeAutomatic.label             "నవీకరణను స్వయంచాలకంగా  డౌనులోడుచేసి సంస్థాపనచేయి">
 <!ENTITY modeAutomatic.accesskey         "d">
-<!ENTITY modeAutoAddonWarn.label         "ఇది నాయాడ్-ఆన్స్ వేటినైనా అచేతనపరుస్తుంటే నన్నువారించు">
+<!ENTITY modeAutoAddonWarn.label         "ఇది నా పొడిగింతలు వేటినైనా అచేతనపరుస్తుంటే నన్నువారించు">
 <!ENTITY modeAutoAddonWarn.accesskey     "W">
 <!ENTITY updateHistory.label             "నవీకరణ చరిత్రను చూపించు">
 <!ENTITY updateHistory.accesskey         "p">
@@ -110,8 +110,5 @@
 <!ENTITY overrideSmartCacheSize.label    "స్వయంచాలక క్యాచీ నిర్వహణను వోవర్‌రైడ్ చేయుము">
 <!ENTITY submitCrashes.accesskey         "S">
 <!ENTITY submitCrashes.label             "క్రాష్ నివేదికలను అప్పగించుము">
-
-
-
-
-
+<!ENTITY submitTelemetry.accesskey       "P">
+<!ENTITY submitTelemetry.label           "పనితనపు డాటాను అప్పగించుము">

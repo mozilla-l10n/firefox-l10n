@@ -26,19 +26,17 @@
 <!ENTITY printCmd.label "ముద్రించు...">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
-<!ENTITY import.label "దిగుమతిచేయి...">
-<!ENTITY import.accesskey "I">
 
 <!ENTITY goOfflineCmd.label "ఆఫ్‌లైన్ గా పనిచేయి">
 <!ENTITY goOfflineCmd.accesskey "w">
 <!ENTITY menubarCmd.label "మెనూ పట్టీ">
 <!ENTITY menubarCmd.accesskey "M">
 
-<!ENTITY navbarCmd.label "నెవిగేషను సాధనములపట్టీ">
+<!ENTITY navbarCmd.label "నెవిగేషను పట్టీ">
 <!ENTITY navbarCmd.accesskey "N">
-<!ENTITY personalbarCmd.label "ఇష్టాంశముల సాధనములపట్టీ">
+<!ENTITY personalbarCmd.label "ఇష్టాంశముల పట్టీ">
 <!ENTITY personalbarCmd.accesskey "B">
-<!ENTITY bookmarksToolbarItem.label "ఇష్టాంశముల సాధనములపట్టీ అంశములు">
+<!ENTITY bookmarksToolbarItem.label "ఇష్టాంశముల పట్టీ అంశములు">
 
 
 <!ENTITY appMenuButton.label          "మెనూ">
@@ -65,12 +63,12 @@
 
 <!ENTITY bookmarksMenu.label "ఇష్టాంశములు">
 <!ENTITY bookmarksMenu.accesskey "B">
-<!ENTITY bookmarkThisPageCmd.label "ఈ పేజీని ఇష్టాంశముచేయి">
+<!ENTITY bookmarkThisPageCmd.label "ఈ పేజీని యిష్టాంశముచేయి">
 <!ENTITY subscribeToPageMenupopup.label "ఈ పేజీకి చందాదారు కండి">
 <!ENTITY subscribeToPageMenuitem.label "ఈ పేజీకి చందాదారు కండి...">
-<!ENTITY addCurPagesCmd.label "అన్ని టాబ్ లను ఇష్టాంశముచేయుము...">
-<!ENTITY bookmarkAllCmd.label "అన్ని టాబ్ లను ఇష్టాంశముచేయుము...">
-<!ENTITY bookmarksToolbarChevron.tooltip "మరికొన్ని ఇష్టాంశములను చూపు">
+<!ENTITY addCurPagesCmd.label "అన్ని టాబ్ లను యిష్టాంశముచేయుము...">
+
+<!ENTITY bookmarksToolbarChevron.tooltip "మరికొన్ని యిష్టాంశములను చూపు">
 
 <!ENTITY backCmd.label                "వెనుకకు">
 <!ENTITY backCmd.accesskey            "B">
@@ -129,7 +127,7 @@
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
-<!ENTITY addons.label                 "యాడ్-ఆన్స్">
+<!ENTITY addons.label                 "పొడిగింతలు">
 
 <!ENTITY addons.accesskey             "A">
 
@@ -390,7 +388,7 @@
 
 <!ENTITY fullZoomResetCmd.label         "తిరిగివుంచు">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
-<!ENTITY bookmarkPageCmd2.label       "ఈ పేజీని ఇష్టాంశము చేయుము">
+<!ENTITY bookmarkPageCmd2.label       "ఈ పేజీని యిష్టాంశము చేయుము">
 <!ENTITY fullZoomEnlargeCmd.label       "జూమ్‌చేయి">
 <!ENTITY downloadMonitor2.tooltip "డౌన్‌లోడుల విండో తెరువుటకు నొక్కుము">
 
@@ -398,7 +396,7 @@
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 
 <!ENTITY fullZoomToggleCmd.accesskey    "T">
-<!ENTITY bookmarkThisLinkCmd.label      "ఈ లింకును ఇష్టాంశము చేయి">
+<!ENTITY bookmarkThisLinkCmd.label      "ఈ లింకును యిష్టాంశము చేయి">
 <!ENTITY identity.moreInfoLinkText "ఎక్కువ సమాచారం…">
 <!ENTITY fullScreenAutohide.accesskey "H">
 
@@ -419,7 +417,7 @@
 <!ENTITY showAllHistoryCmd.commandkey "H">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
-<!ENTITY bookmarkThisFrameCmd.label      "ఈ చట్రమును ఇష్టాంశము చేయుము">
+<!ENTITY bookmarkThisFrameCmd.label      "ఈ చట్రమును యిష్టాంశము చేయుము">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -448,7 +446,7 @@
 <!ENTITY appMenuFind.label "కనుగొను…">
 <!ENTITY appMenuGettingStarted.label "ప్రారంభమునకు సిద్దమౌతోంది">
 <!ENTITY appMenuSafeMode.accesskey "R">
-<!ENTITY appMenuSafeMode.label "యాడ్-ఆన్స్ అచేతనపరచి పునఃప్రారంభించుము…">
+<!ENTITY appMenuSafeMode.label "పొడిగింతలు అచేతనపరచి పునఃప్రారంభించుము…">
 <!ENTITY appMenuSidebars.label "పక్కపట్టీలు">
 <!ENTITY appMenuToolbarLayout.label "సాధనపట్టీ నమూనా…">
 <!ENTITY appMenuUnsorted.label "క్రమపరచని యిష్టాంశములు">
@@ -472,20 +470,20 @@
 <!ENTITY inspectMenu.accesskey        "T">
 <!ENTITY inspectMenu.commandkey       "I">
 <!ENTITY inspectMenu.label            "విచారించు">
-<!ENTITY inspectNextButton.accesskey  "N">
-<!ENTITY inspectNextButton.label      "తరువాతి">
-<!ENTITY inspectObjectButton.accesskey   "O">
+
+
+
 <!-- LOCALIZATION NOTE (inspectObjectButton.label): This button label
   -  appears on the Inspector's toolbar. It is used to open and close the Object
   -  panel. There is also a label in inspector.properties for the panel
   -  titlebar: object.objectPanelTitle. -->
-<!ENTITY inspectObjectButton.label       "ఆబ్జక్ట్">
+
 <!ENTITY inspectPanelTitle.label      "HTML">
-<!ENTITY inspectPreviousButton.accesskey "P">
-<!ENTITY inspectPreviousButton.label  "మునుపటి">
-<!ENTITY inspectStyleButton.accesskey "S">
-<!ENTITY inspectStyleButton.label     "శైలి">
-<!ENTITY inspectStylePanelTitle.label  "శైలి">
+
+
+
+
+<!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY  listAllTabs.label      "అన్ని టాబ్‌ల జాబితా">
 <!ENTITY  moveToGroup.accesskey              "M">
 <!ENTITY  moveToGroup.label                  "సమూహమునకు కదుపుము">
@@ -528,7 +526,7 @@ can reach it easily. -->
 <!ENTITY videoFullScreen.accesskey   "F">
 <!ENTITY videoFullScreen.label       "పూర్తితెర">
 <!ENTITY viewBookmarksSidebar.label         "పక్క పట్టీనందు చూపుము">
-<!ENTITY viewBookmarksToolbar.label         "ఇష్టాంశముల సాధనపట్టీను దర్శించుము">
+<!ENTITY viewBookmarksToolbar.label         "ఇష్టాంశముల పట్టీను దర్శించుము">
 <!ENTITY viewTabGroups.accesskey        "G">
 <!ENTITY viewTabGroups.label            "టాబ్ సమూహాలు">
 <!ENTITY viewTabsOnTop.accesskey        "T">
@@ -543,3 +541,17 @@ can reach it easily. -->
 <!ENTITY addonBarCloseButton.tooltip  "ఏడ్-ఆన్ బార్ మూయి">
 
 <!ENTITY toggleAddonBarCmd.key        "/">
+
+<!ENTITY getMoreDevtoolsCmd.accesskey    "M">
+<!ENTITY getMoreDevtoolsCmd.label        "మరిన్ని సాధనాలు పొందు">
+<!ENTITY scratchpad.accesskey         "s">
+<!ENTITY scratchpad.keycode           "VK_F4">
+<!ENTITY scratchpad.keytext           "F4">
+<!ENTITY scratchpad.label             "స్క్రాచ్‌పాడ్">
+<!ENTITY unsortedBookmarksCmd.label "క్రమపరచని యిష్టాంశములు">
+<!ENTITY webDeveloperMenu.accesskey   "W">
+<!ENTITY webDeveloperMenu.label       "వెబ్ అభివృద్దికారి">
+
+<!ENTITY backForwardButtonMenu.tooltip "చరిత్రను చూపుటకు కుడి-నొక్కు నొక్కుము లేదా కిందికి లాగుము">
+<!ENTITY backForwardButtonMenuMac.tooltip "చరిత్రను చూపటకు కిందికి లాగుము">
+
