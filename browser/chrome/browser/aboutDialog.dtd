@@ -15,7 +15,7 @@
 <!ENTITY contribute.end             "">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY contribute.getInvolvedLink "పాలుపంచుకోండి!">
-<!ENTITY contribute.start           "ఆశక్తిగా వున్నారా? ">
+<!ENTITY contribute.start           "ఆసక్తిగా వున్నారా? ">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "నవీకరణలు మీ సిస్టమ్ నిర్వహణాధికారిచే అచేతనము చేయబడినవి">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
@@ -56,24 +56,3 @@
 
 <!ENTITY channel.description.start  "మీరు ప్రస్తుతం">
 <!ENTITY channel.description.end    " నవీకరణ చానల్‌పై వున్నారు. ">
-
-<!ENTITY channel.change             "మార్చు">
-
-<!ENTITY channel.release.description       "ప్రపంచం నలుమూలలనుండి వందల లక్షల మందిచేత వాడబడి మరియు పరిశీలించబడిన అంతిమ విడుదలను ఆస్వాదించండి. సరికొత్త వెబ్ సాంకేతికతలు, సులభంగా తగినట్లు మలచుకొనుట మరియు అధిక వేగంతో మీ ఆన్‌లైన్ అనుభూతిని నియతిలో వుంచుకోండి.">
-<!ENTITY channel.beta.description          "ఇప్పుడిప్పుడే రాబోవుచున్న సౌలభ్యాలను కూడా మరింత స్థిరత్వంతో వుపయోగించుకోండి. అంతిమ విడుదలనందు వుండబోవువాటిని పునఃసమీక్షించుటకు మరియు నగిషీ అద్దుటకు మీ స్పందన ద్వారా సహాయపడండి.">
-<!ENTITY channel.aurora.description       "సరికొత్త రూపకల్పనల అనుభూతిని అస్థిర వాతావరణంలో పొందండి యిది భయస్తులకు కాదు. అంతిమ విడుదలకు యేది వుండునో నిర్థారణకు వచ్చుటకు ఆ సౌలభ్యాలపై మరియు పనితనంపై మీ స్పందన తెలుపుతూ సహాయపడండి.">
-
-<!-- LOCALIZATION NOTE (channel.selector.start,channel.selector.end): channel.selector.start and
-     channel.selector.end create one sentence, with a channel selection menulist instered in between.
-     This is all in one line, so try to make the localized text short.
-     example: Switch to the [Stable] update channel. -->
-
-<!ENTITY channel.selector.start          "దీనికి మారు">
-<!ENTITY channel.selector.end            "అప్‌డేట్ చానల్.">
-
-<!-- LOCALIZATION NOTE (channel.selector.applyButton): This button applies the user's choice to switch
-     to a new update channel and starts the application update process. -->
-
-<!ENTITY channel.selector.applyButton    "ఆపాదించు మరియు నవీకరించు">
-<!ENTITY channel.selector.cancelButton   "రద్దు">
-

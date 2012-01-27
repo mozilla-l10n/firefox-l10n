@@ -1,36 +1,36 @@
 
 <!ENTITY migrationWizard.title          "విజార్డు దిగుమతిచేయి">
 
-<!ENTITY importFrom.label               "ఐచ్చికాలు,ఇష్టాంశములు,చరిత్ర,సంకేతపదాలు మరియు యితరడాటాను  నుండి దిగుమతి చేయి:">
-<!ENTITY importFromUnix.label           "అభీష్టాలు, ఇష్టాంశములు,చరిత్ర,సంకేతపదాలు మరియు యితరడాటాను  నుండి దిగుమతి చేయి:">
+<!ENTITY importFrom.label               "ఐచ్చికాలు, ఇష్టాంశములు, చరిత్ర, సంకేతపదాలు మరియు యితరడాటాను  నుండి దిగుమతి చేయి:">
+<!ENTITY importFromUnix.label           "అభీష్టాలు, ఇష్టాంశములు, చరిత్ర, సంకేతపదాలు మరియు యితరడాటాను  నుండి దిగుమతి చేయి:">
 <!ENTITY importFromBookmarks.label      "ఇష్టాంశములను నుండి దిగుమతిచేయి:">
 
 <!ENTITY importFromIE.label             "మైక్రోసాఫ్ట్  ‌ ఇంటర్నెట్‌ ఎక్స్‌ప్లోరర్">
 <!ENTITY importFromIE.accesskey         "M">
-<!ENTITY importFromPhoenix.label        "ఫైర్‌ఫాక్స్ 0.8, ఫైర్‌బర్డు ‌ లేదా ఫినిక్సు‌">
-<!ENTITY importFromPhoenix.accesskey    "P">
+
+
 <!ENTITY importFromNothing.label        "దేనిని దిగుమతి చేయవద్దు">
 <!ENTITY importFromNothing.accesskey    "D">
 <!ENTITY importFromSeamonkey.label      "నెట్ స్కేప్ 6, 7 లేదా మొజిల్లా 1.x">
 <!ENTITY importFromSeamonkey.accesskey  "N">
-<!ENTITY importFromNetscape4.label      "నెట్ స్కేప్ 4.x">
-<!ENTITY importFromNetscape4.accesskey  "4">
+
+
 <!ENTITY importFromOpera.label          "ఒపేరా">
 <!ENTITY importFromOpera.accesskey      "O">
-<!ENTITY importFromCamino.label         "కమినొ">
-<!ENTITY importFromCamino.accesskey     "C">
+
+
 <!ENTITY importFromSafari.label         "సఫారి">
 <!ENTITY importFromSafari.accesskey     "S">
-<!ENTITY importFromOmniWeb.label        "ఓమ్నివెబ్">
-<!ENTITY importFromOmniWeb.accesskey    "W">
-<!ENTITY importFromICab.label           "ఐకాబ్">
-<!ENTITY importFromICab.accesskey       "i">
-<!ENTITY importFromKonqueror.label      "కాన్క్వెరర్">
-<!ENTITY importFromKonqueror.accesskey  "K">
-<!ENTITY importFromEpiphany.label       "ఎపిఫని">
-<!ENTITY importFromEpiphany.accesskey   "E">
-<!ENTITY importFromGaleon.label         "గెలెయాన్">
-<!ENTITY importFromGaleon.accesskey     "G">
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY noMigrationSources.label       "ఇష్టాంశములు,చరిత్ర లేదా సంకేతపద డాటాను కలిగివున్న ప్రొగ్రాము  కనుగొనబడలేదు.">
 

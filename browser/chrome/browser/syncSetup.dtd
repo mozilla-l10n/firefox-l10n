@@ -42,7 +42,7 @@
 <!ENTITY setup.newSyncKeyPage.description.label "మీకు పూర్తి గోప్యతను అందించుటకు, అప్‌లోడ్‌నకు ముందుగానే మీ డాటా మొత్తం యెన్క్రిప్టు చేయబడును. మీ డాటాను డీక్రిప్టు చేయుటకు తప్పనిసరైన సింక్ కీ అప్‌లోడ్ చేయలేదు.">
 <!ENTITY syncKeyEntry.label        "మీ సింక్ కీ">
 <!ENTITY syncKeyEntry.accesskey    "K">
-<!ENTITY syncKeyGenerate.label     "ఉద్భవించు">
+
 
 
 <!ENTITY syncKeyBackup.description "ఇతర మిషన్లపై &syncBrand.fullName.label; యాక్సెస్ చేయుటకు మీ సింక్ కీ అవసరము. దయచేసి వొక బ్యాకప్ కాపీను సృష్టించుకొనండి. మీ సింక్ కీను తిరిగిపొందుటలో మేము సహాయపడలేము.">
@@ -128,3 +128,7 @@
 <!ENTITY signIn.syncKey.label       "సింక్ కీ">
 
 <!ENTITY resetSyncKey.label           "నేను నా యితర పరికరమును కోల్పోయాను.">
+<!ENTITY syncGenerateNewKey.label  "కొత్త కీ సృష్టించు">
+
+<!ENTITY setup.choosePassword.accesskey  "P">
+<!ENTITY setup.choosePassword.label      "ఒక సంకేతపదం యెంచుకొనుము">

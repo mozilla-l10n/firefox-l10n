@@ -1,28 +1,28 @@
-<!ENTITY pluginWizard.title                                  "ప్లగ్ఇన్  వెతికే  సేవ">
+<!ENTITY pluginWizard.title                                  "చొప్పింత  వెతికే  సేవ">
 <!ENTITY pluginWizard.firstPage.title                        " &pluginWizard.title;కు స్వాగతం">
 
-<!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; ఇప్పుడు  అందుబాటులోవున్న  ప్లగ్ఇన్స్  కొరకు  పరిశీలిస్తోంది...">
+<!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; ఇప్పుడు  అందుబాటులోవున్న చొప్పింతల  కొరకు  పరిశీలిస్తోంది...">
 
-<!ENTITY pluginWizard.availablePluginsPage.title             "అందుబాటులోవున్న  ప్లగ్ఇన్  డౌనులోడులు">
-<!ENTITY pluginWizard.availablePluginsPage.description.label "ఈ  క్రింది  ప్లగ్ఇన్‌లు  అందుబాటులో  వున్నాయి:">
-<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "ఈ ప్లగ్ఇన్‌లు సంస్థాపించుటకు  తర్వాత  నొక్కండి.">
-<!ENTITY pluginWizard.availablePluginsPage.installerUI       "కొన్ని  ప్లగ్ఇన్‌లకు  సంస్థాపనా  సమయమందు  మీనుండి అదనపు సమాచారం అవసరం కావచ్చు.">
+<!ENTITY pluginWizard.availablePluginsPage.title             "అందుబాటులోవున్న చొప్పింత  డౌనులోడులు">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "ఈ  క్రింది చొప్పింతలు అందుబాటులో  వున్నాయి:">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "ఈ చొప్పింతలు సంస్థాపించుటకు  తర్వాత  నొక్కండి.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI       "కొన్ని  చొప్పింతలకు సంస్థాపనా  సమయమందు  మీనుండి అదనపు సమాచారం అవసరం కావచ్చు.">
 
-<!ENTITY pluginWizard.licensePage.title                      "ప్లగ్ఇన్  లైసెన్సులు">
+<!ENTITY pluginWizard.licensePage.title                      "చొప్పింత  లైసెన్సులు">
 <!ENTITY pluginWizard.licensePage.accept.label               "నేను  వొప్పుకుంటున్నాను.">
-<!ENTITY pluginWizard.licensePage.deny.label                 "నేను  వొప్పుకొనుటలేదు (ప్లగ్ఇన్  సంస్థాపించబడదు).">
+<!ENTITY pluginWizard.licensePage.deny.label                 "నేను  వొప్పుకొనుటలేదు (చొప్పింత  సంస్థాపించబడదు).">
 
-<!ENTITY pluginWizard.installPluginsPage.title               "ప్లగ్ఇన్‌లను  సంస్థాపించుచున్నది">
-<!ENTITY pluginWizard.installPluginsPage.description.label   "&brandShortName; ప్లగ్ఇన్ లను  సంస్థాపించుచున్నది...">
+<!ENTITY pluginWizard.installPluginsPage.title               "చొప్పింతలను సంస్థాపించుచున్నది">
+<!ENTITY pluginWizard.installPluginsPage.description.label   "&brandShortName; చొప్పింతలను  సంస్థాపించుచున్నది...">
 
-<!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; తప్పిపోయిన  ప్లగ్ఇన్  సంస్థాపనను  పూర్తిచేసినది:">
+<!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; తప్పిపోయిన  చొప్పింత  సంస్థాపనను  పూర్తిచేసినది:">
 
-<!ENTITY pluginWizard.finalPage.moreInfo.label               "ప్లగ్ఇన్‌ల  గురించి  ఎక్కువ  కనుగొను  లేదా  మానవీయంగా  తప్పిపోయిన  ప్లగ్ఇన్‌లను  కనుగొను.">
-<!ENTITY pluginWizard.finalPage.restart.label                "ప్లగ్ఇన్(లు)  పనిచేయుటకు &brandShortName;ను పునఃప్రారంభించాలి.">
+<!ENTITY pluginWizard.finalPage.moreInfo.label               "చొప్పింతల  గురించి  ఎక్కువ  కనుగొను  లేదా  మానవీయంగా  తప్పిపోయిన చొప్పింతలను  కనుగొను.">
+<!ENTITY pluginWizard.finalPage.restart.label                "చొప్పింత(లు)  పనిచేయుటకు &brandShortName;ను పునఃప్రారంభించాలి.">
 
-<!ENTITY missingPlugin.label                                 "ప్లగ్ఇన్  డౌన్‌లోడు చేయుటకు ఇక్కడ నొక్కండి.">
-<!ENTITY disabledPlugin.label                                "ఈ  మాధ్యమ సమాచారం కొరకు  ప్లగ్ ఇన్  అచేతనం చేయబడింది. ప్లగ్ ఇన్ లను నిర్వహించుటకు ఇకకడ నొక్కండి.">
-<!ENTITY blockedPlugin.label                                 "ఈ ప్లగ్ ఇన్ మీ రక్షణకొరకు నిరోధించబడింది.">
+
+
+<!ENTITY blockedPlugin.label                                 "ఈ చొప్పింత మీ రక్షణకొరకు నిరోధించబడింది.">
 <!ENTITY reloadPlugin.middle                                 "పేజీను తిరిగి లోడ్ చేయుము">
 <!ENTITY reloadPlugin.post                                   " మరలా ప్రయత్నించుటకు.">
 <!ENTITY reloadPlugin.pre                                    "">
@@ -33,4 +33,8 @@
 <!ENTITY report.submitting                                   "నివేదిక పంపుచున్నది…">
 <!ENTITY report.unavailable                                  "ఏ నివేదిక అందుబాటులోలేదు.">
 
+<!ENTITY disabledPlugin                                      "ఈ చొప్పింత అచేతనపరచబడెను.">
+<!ENTITY installPlugin                                       "చొప్పింత సంస్థాపించు…">
+<!ENTITY managePlugins                                       "చొప్పింతలు నిర్వహించు…">
+<!ENTITY missingPlugin                                       "ఈ కాంటెంట్‌ను ప్రదర్శించుటకు వొక చొప్పింత అవసరం.">
 

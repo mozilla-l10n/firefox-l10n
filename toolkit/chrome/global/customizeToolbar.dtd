@@ -1,5 +1,5 @@
 <!ENTITY dialog.title "సాధనపట్టీని మలుచుకొనుము">
-<!ENTITY dialog.style "వెడల్పు: 635px; ఎత్తు: 400px;">
+<!ENTITY dialog.style             "width: 86ch; height: 36em;">
 <!ENTITY instructions.description "మీరు లాగుటద్వారా సాధనపట్టీకి అంశములను  జతచేయవచ్చు తీసివేయవచ్చు.">
 <!ENTITY show.label               "చూపుము:">
 <!ENTITY iconsAndText.label       "చిహ్నాలు  మరియు  పాఠ్యము">

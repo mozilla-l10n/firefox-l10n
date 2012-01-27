@@ -4,12 +4,12 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "అమర్చు">
 <!ENTITY organize.accesskey    "O">
-<!ENTITY file.accesskey                 "F">
+
 <!ENTITY file.close.label               "మూయుము">
 <!ENTITY file.close.accesskey           "C">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY edit.label                     "సరిచేయి">
-<!ENTITY edit.accesskey                 "E">
+
+
 <!ENTITY views.label                    "దర్శనాలు">
 <!ENTITY views.accesskey                "V">
 <!ENTITY view.columns.label             "నిలువువరుసలను చూపుము">
@@ -22,21 +22,20 @@
 <!ENTITY view.sortAscending.accesskey   "A">
 <!ENTITY view.sortDescending.label      "Z > A క్రమపద్దతి">
 <!ENTITY view.sortDescending.accesskey  "Z">
-<!ENTITY cmd.findInBookmarks.label      "ఇష్టాంశములనందు కనుగొను…">
+<!ENTITY cmd.findInBookmarks.label      "ఇష్టాంశములయందు కనుగొను…">
 <!ENTITY cmd.findInBookmarks.accesskey  "F">
 <!ENTITY cmd.findCurrent.label          "ప్రస్తుత సంకలనం(కలక్షన్)నందు కనుగొను…">
 <!ENTITY cmd.findCurrent.accesskey      "i">
-<!ENTITY cmd.exportHTML.label           "HTMLలా ఎగుమతిచేయి…">
-<!ENTITY cmd.exportHTML.accesskey       "E">
-<!ENTITY cmd.importHTML.label           "HTMLలా దిగుమతిచేయి…">
-<!ENTITY cmd.importHTML.accesskey       "I">
+
+
+
 <!ENTITY cmd.backup.label               "బ్యాక్అప్…">
 <!ENTITY cmd.backup.accesskey           "B">
 <!ENTITY cmd.restore2.label             "తిరిగివుంచు">
 <!ENTITY cmd.restore2.accesskey         "R">
 <!ENTITY cmd.restoreFromFile.label      "ఫైల్ ఎంచుకొనుము…">
-<!ENTITY cmd.restoreFromFile.accesskey  "C">
-<!ENTITY cmd.bookmarkLink.label         "ఈ పేజీని ఇష్టాంశముగా చేయి…">
+
+<!ENTITY cmd.bookmarkLink.label         "ఈ పేజీని యిష్టాంశముగా చేయి…">
 <!ENTITY cmd.bookmarkLink.accesskey     "B">
 <!ENTITY cmd.delete.label               "ఈ పేజీని తొలగించు ">
 <!ENTITY cmd.delete.accesskey           "D">
@@ -55,17 +54,17 @@
 <!ENTITY cmd.sortby_name.label              "నామము ద్వారా క్రమపరచు">
 <!ENTITY cmd.sortby_name.accesskey          "S">
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
-<!ENTITY cmd.new_bookmark.label            "కొత్త ఇష్టాంశము…">
+<!ENTITY cmd.new_bookmark.label            "కొత్త యిష్టాంశము…">
 <!ENTITY cmd.new_bookmark.accesskey        "B">
 <!ENTITY cmd.new_folder.label              "కొత్త సంచయం…">
 <!ENTITY cmd.new_folder.accesskey          "o">
 <!ENTITY cmd.context_new_folder.accesskey  "F">
 <!ENTITY cmd.new_separator.label           "కొత్త సెపరేటర్">
 <!ENTITY cmd.new_separator.accesskey       "S">
-<!ENTITY cmd.reloadLivebookmark.label      "లైవ్ ఇష్టాంశమును తిరిగిలోడ్‌చేయి">
+<!ENTITY cmd.reloadLivebookmark.label      "లైవ్ యిష్టాంశమును తిరిగిలోడ్‌చేయి">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "R">
-<!ENTITY cmd.reloadMicrosummary.label      "లైవ్ శీర్షికను తిరిగిలోడ్‌చేయి">
-<!ENTITY cmd.reloadMicrosummary.accesskey  "R">
+
+
 <!ENTITY cmd.moveBookmarks.label                  "కదుపు…">
 <!ENTITY cmd.moveBookmarks.accesskey              "M">
 <!ENTITY col.name.label          "నామము">
@@ -92,15 +91,15 @@
 <!ENTITY cmd.find.key  "f">
 <!ENTITY maintenance.label      "దిగుమతిచేయి మరియు బ్యాక్అప్‌చేయి">
 <!ENTITY maintenance.accesskey  "I">
-<!ENTITY backCmd.label       "వెనుకకు">
+
 <!ENTITY backButton.tooltip  "వెనుకకు వెళ్ళు">
-<!ENTITY forwardCmd.label       "ముందుకు">
+
 <!ENTITY forwardButton.tooltip  "ముందుకు వెళ్ళు">
 <!ENTITY detailsPane.more.label "ఎక్కువ">
 <!ENTITY detailsPane.more.accesskey "e">
 <!ENTITY detailsPane.less.label "తక్కువ">
 <!ENTITY detailsPane.less.accesskey "e">
-<!ENTITY detailsPane.noPreviewAvailable.label "ఉపదర్శనం">
+
 <!ENTITY detailsPane.selectAnItemText.description "అంశము యొక్క లక్షణములను దర్శించుటకు మరియు సరిచేయుటకు ఎంపికచేయుము">
 <!ENTITY maintenance.tooltip    "మీ యిష్టాంశములను దిగుమతిచేయుము మరియు బ్యాకప్ వుంచుము">
 <!ENTITY organize.tooltip      "మీ యిష్టాంశములను నిర్వహించు">
@@ -121,3 +120,10 @@
 <!ENTITY search.in.label                           "దీనినందు వెతుకు:">
 <!ENTITY view.accesskey           "w">
 <!ENTITY view.label               "దర్శించు">
+<!ENTITY cmd.restoreFromFile.accesskey  "C">
+<!ENTITY exportBookmarksToHTML.accesskey   "E">
+<!ENTITY exportBookmarksToHTML.label       "ఇష్టాంశములను HTML కు యెగుమతి చేయి…">
+<!ENTITY importBookmarksFromHTML.accesskey "I">
+<!ENTITY importBookmarksFromHTML.label     "ఇష్టాంశములను HTML నుండి దిగుమతి చేయి…">
+<!ENTITY importOtherBrowser.accesskey      "A">
+<!ENTITY importOtherBrowser.label          "డాటాను వేరే బ్రౌజర్ నుండి దిగుమతి చేయి…">
