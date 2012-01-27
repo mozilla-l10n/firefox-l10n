@@ -1,12 +1,26 @@
 <!ENTITY aboutDialog.title          "เกี่ยวกับ &brandFullName;">
 
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+<!ENTITY warningDesc.version        "&brandShortName; เป็นรุ่นทดสอบและอาจยังไม่เสถียร">
+<!-- LOCALIZATION NOTE (warningDesc.telemetry): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetry      "&brandShortName; จะส่งข้อมูลการทดสอบกลับไปยัง &vendorShortName; โดยอัตโนมัติ เพื่อปรับปรุงคุณภาพของ &brandShortName; ให้ดีขึ้น">
+
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+<!ENTITY community.exp.start        "">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+<!ENTITY community.exp.middle       "">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "ชุมชนระดับโลก">
+<!ENTITY community.exp.end          "ที่ทำงานร่วมกันเพื่อทำให้อินเทอร์เน็ตเป็นพื้นที่เสรี เป็นของสาธารณะและทุกคนจะต้องเข้าถึงได้โดยไร้ข้อจำกัด">
+
 <!ENTITY community.start2           "&brandShortName; ออกแบบโดย ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          "">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "ชุมชนระดับโลก">
-<!ENTITY community.end2             "ที่ทำงานร่วมกันเพื่อทำให้อินเทอร์เน็ตดีขึ้น เราเชื่อว่าอินเทอร์เน็ตเป็นพื้นที่เสรี เป็นของสาธารณะและทุกคนจะต้องเข้าถึงได้โดยไร้ข้อจำกัด">
+<!ENTITY community.end3             "ที่ทำงานร่วมกันเพื่อทำให้อินเทอร์เน็ตเป็นพื้นที่เสรี เป็นของสาธารณะและทุกคนจะต้องเข้าถึงได้โดยไร้ข้อจำกัด">
 
 <!ENTITY contribute.start           "ฟังดูน่าสนใจไหม? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->

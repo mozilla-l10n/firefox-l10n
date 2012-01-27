@@ -93,3 +93,10 @@
 
 <!ENTITY button_ok "ตกลง">
 <!ENTITY button_cancel "ยกเลิก">
+
+<!ENTITY abouthome_addons_title "ส่วนเสริมสำหรับ &brandShortName; ของคุณ">
+<!ENTITY abouthome_addons_browse "ดูส่วนเสริมทั้งหมดของ &brandShortName;">
+<!ENTITY abouthome_last_tabs_title "แท็บจากคราวที่แล้ว">
+<!ENTITY abouthome_last_tabs_open "เปิดทุกแท็บจากคราวที่แล้ว">
+<!ENTITY abouthome_top_sites_title "เว็บเด่น">
+<!ENTITY abouthome_top_sites_browse "ดูเว็บเด่นของคุณทั้งหมด">

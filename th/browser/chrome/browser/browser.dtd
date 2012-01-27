@@ -217,8 +217,17 @@ can reach it easily. -->
 <!ENTITY inspectButton.label          "ตรวจดู">
 <!ENTITY inspectButton.accesskey      "ต">
 <!ENTITY inspectCloseButton.tooltiptext "ปิดตัวตรวจดู">
+<!ENTITY inspect3DButton.label        "3 มิติ">
+<!ENTITY inspect3DButton.accesskey    "ท">
 <!ENTITY inspectStyleButton.label     "สไตล์">
 <!ENTITY inspectStyleButton.accesskey "ส">
+
+<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
+  -  in the Tools menu. -->
+<!ENTITY styleeditor.label            "ตัวแก้ไขสไตล์">
+<!ENTITY styleeditor.accesskey        "ก">
+<!ENTITY styleeditor.keycode          "VK_F7">
+<!ENTITY styleeditor.keytext          "F7">
 
 <!ENTITY getMoreDevtoolsCmd.label        "เพิ่มเครื่องมือ">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "ม">
