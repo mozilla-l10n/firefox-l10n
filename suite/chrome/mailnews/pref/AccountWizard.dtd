@@ -37,8 +37,9 @@
 <!ENTITY defaultPortValue.label "">
 <!ENTITY leaveMsgsOnSrvr.label "Lascia i messaggi sul server">
 <!ENTITY leaveMsgsOnSrvr.accesskey "L">
-<!ENTITY haveSmtp1.prefix "L'attuale server di uscita (SMTP), &quot;">
-<!ENTITY haveSmtp1.suffix2 "&quot;, verrà usato. Puoi modificare le impostazioni del server in uscita scegliendo Configurazione account dal menu Modifica di Posta e gruppi di discussione.">
+<!ENTITY modifyOutgoing.suffix "È possibile modificare le impostazioni del server in uscita scegliendo Configurazione account dal menu Modifica di Posta e gruppi di discussione.">
+<!ENTITY haveSmtp1.prefix "Verrà usato l'attuale server di uscita (SMTP), &quot;">
+<!ENTITY haveSmtp1.suffix3 "&quot;">
 <!ENTITY loginTitle.label "Nomi utente">
 <!ENTITY usernameDesc.label "Inserire il nome utente in ingresso comunicato dal proprio fornitore di e-mail">
 <!ENTITY usernameExample.label "(ad esempio, &quot;mrossi&quot;)">
@@ -47,10 +48,10 @@
 <!ENTITY usernameSmtpDesc.label "Inserire il nome utente in uscita comunicato dal proprio fornitore di e-mail (di solito è lo stesso del nome utente in ingresso).">
 <!ENTITY usernameSmtpLabel.label "Nome utente in uscita:">
 <!ENTITY usernameSmtpLabel.accesskey "o">
-<!ENTITY haveSmtp2.prefix "L'attuale nome utente per il server in uscita (SMTP), &quot;">
-<!ENTITY haveSmtp2.suffix2 "&quot;, verrà usato. Puoi modificare le impostazioni del server in uscita scegliendo Configurazione account dal menu Modifica di Posta e gruppi di discussione.">
+<!ENTITY haveSmtp2.prefix "Verrà usato l'attuale nome utente per il server in uscita (SMTP), &quot;">
+<!ENTITY haveSmtp2.suffix3 "&quot;">
 <!ENTITY haveSmtp3.prefix "Il server in uscita (SMTP), &quot;">
-<!ENTITY haveSmtp3.suffix2 "&quot;, è lo stesso della posta in arrivo, verrà usato il tuo nome utente della posta in arrivo per accedervi. Puoi modificare le impostazioni del server in uscita scegliendo Configurazione account dal menu Modifica di Posta e gruppi di discussione.">
+<!ENTITY haveSmtp3.suffix3 "&quot;, è lo stesso della posta in arrivo; perciò verrà usato il nome utente della posta in arrivo per accedervi.">
 <!ENTITY accnameTitle.label "Nome account">
 <!ENTITY accnameDesc.label "Inserire un nome per questo account (ad esempio, &quot;Lavoro&quot;, &quot;Casa&quot;, oppure &quot;Account gruppi discussione&quot;).">
 <!ENTITY accnameLabel.label "Nome account:">
