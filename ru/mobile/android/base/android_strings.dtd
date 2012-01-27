@@ -80,3 +80,6 @@
 <!ENTITY abouthome_last_tabs_open "Открыть все вкладки с прошлого раза">
 <!ENTITY abouthome_top_sites_title "Топ сайтов">
 <!ENTITY abouthome_top_sites_browse "Просмотр вашего топа сайтов">
+<!ENTITY abouthome_no_top_sites "В вашем топе пока нет ни одного сайта. Нажмите на заголовок для начала веб-сёрфинга.">
+<!ENTITY abouthome_about_sync "Настройте Firefox Sync для доступа к закладкам, журналу и вкладкам с других ваших устройств">
+<!ENTITY abouthome_sync_bold_name "Firefox Sync">
