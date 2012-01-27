@@ -1,6 +1,6 @@
 
 <!ENTITY  history.title             "更新历史">
-<!ENTITY  history.intro             "如下更新已被安装:">
+<!ENTITY  history.intro             "以下更新已被安装：">
 <!ENTITY  closebutton.label         "关闭">
                                      
 <!ENTITY  noupdates.label           "没有安装任何更新">

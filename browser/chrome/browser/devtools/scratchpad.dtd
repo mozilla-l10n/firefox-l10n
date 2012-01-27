@@ -16,7 +16,7 @@
   -  "Scratchpad" in your locale. You should feel free to find a close
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
-<!ENTITY window.title                 "暂存器">
+<!ENTITY window.title                 "代码片段速记器">
 
 <!ENTITY fileMenu.label               "文件">
 <!ENTITY fileMenu.accesskey           "F">
