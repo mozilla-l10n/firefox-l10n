@@ -33,6 +33,8 @@
 <!ENTITY engine.passwords.label     "Lozinke">
 <!ENTITY engine.passwords.accesskey "L">
 <!ENTITY engine.prefs.label         "Osobitosti">
+<!ENTITY engine.addons.label        "Dodaci">
+<!ENTITY engine.addons.accesskey    "a">
 <!ENTITY engine.prefs.accesskey     "O">
 <!ENTITY unlinkDevice.label         "Odspoji ovaj uređaj">
 
