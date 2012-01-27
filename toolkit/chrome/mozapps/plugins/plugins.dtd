@@ -35,7 +35,7 @@
 <!ENTITY reloadPlugin.middle                                 "เรียกดูหน้าอีกครั้ง">
 <!ENTITY reloadPlugin.post                                   " หรือลองใหม่">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.checkbox                                     "…และส่งรายงานความผิดพลาด">
+<!ENTITY report.please                                       "ส่งรายงานข้อผิดพลาด">
 <!ENTITY report.submitting                                   "กำลังส่งรายงาน…">
 <!ENTITY report.submitted                                    "ส่งรายงานแล้ว">
 <!ENTITY report.disabled                                     "ปิดใช้งานรายงานความผิดพลาด">

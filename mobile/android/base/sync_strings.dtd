@@ -1,0 +1,72 @@
+<!-- Don't localize these. They're here until they have
+     a better place to live. -->
+<!ENTITY syncBrand.fullName.label "Firefox Sync">
+<!ENTITY syncBrand.shortName.label "Sync">
+
+<!-- Main titles. -->
+<!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
+<!ENTITY sync.title.connect.label 'เชื่อมต่อกับ &syncBrand.shortName.label;'>
+<!ENTITY sync.title.adddevice.label 'เพิ่มบัญชี &syncBrand.fullName.label;'>
+<!ENTITY sync.title.pair.label 'เชื่อมโยงอุปกรณ์'>
+
+<!-- J-PAKE Key Screen -->
+<!ENTITY sync.subtitle.connect.label 'เปิดใช้งานอุปกรณ์ใหม่ของคุณโดยเลือก “ตั้งค่า &syncBrand.shortName.label;” จากอุปกรณ์นั้น'>
+<!ENTITY sync.subtitle.header.label 'กรอกรหัสนี้บนคอมพิวเตอร์ของคุณ'>
+<!ENTITY sync.subtitle.connectlocation.label 'เลือก “&sync.title.pair.label;” ในส่วน &syncBrand.shortName.label; จากหน้าปรับแต่งค่าของ Firefox บนคอมพิวเตอร์ของคุณ'>
+<!ENTITY sync.subtitle.pair.label 'เปิดใช้งาน โดยเลือก “เชื่อมโยงอุปกรณ์” จากอุปกรณ์อื่นของคุณ'>
+<!ENTITY sync.pin.default.label '...\n...\n...\n'>
+<!ENTITY sync.pin.oneline.label '...'>
+<!ENTITY sync.link.show.label 'บอกฉันว่าทำอย่างไร'>
+<!ENTITY sync.link.advancedsetup.label 'ตั้งค่าขั้นสูง...'>
+<!ENTITY sync.link.nodevice.label 'ฉันไม่มีอุปกรณ์อยู่กับตัว…'>
+
+<!-- J-PAKE Waiting Screen -->
+<!ENTITY sync.jpake.subtitle.waiting.label 'รออุปกรณ์…'>
+
+<!-- Account Login Screen -->
+<!ENTITY sync.subtitle.account.label 'กรอกรายละเอียดบัญชี &syncBrand.fullName.label; ของคุณ'>
+<!ENTITY sync.input.username.label 'ชื่อบัญชี'>
+<!ENTITY sync.input.password.label 'รหัสผ่าน'>
+<!ENTITY sync.input.key.label 'กุญแจกู้ข้อมูล'>
+<!ENTITY sync.checkbox.server.label 'ใช้เซิร์ฟเวอร์ที่กำหนดเอง'>
+<!ENTITY sync.input.server.label 'URL ของเซิร์ฟเวอร์'>
+  
+<!-- Setup Fail -->
+<!ENTITY sync.title.fail.label 'ตั้งค่า &syncBrand.shortName.label; ไม่สำเร็จ'>
+<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; ไม่สามารถเชื่อมต่อกับเซิร์ฟเวอร์ได้ คุณต้องการจะลองใหม่หรือไม่?'>
+<!ENTITY sync.button.tryagain.label 'ลองใหม่'>
+<!ENTITY sync.button.manual.label 'กำหนดค่าเอง'>
+<!ENTITY sync.subtitle.nointernet.label 'ไม่พบการเชื่อมต่ออินเทอร์เน็ต'>
+  
+<!-- Setup Success -->
+<!ENTITY sync.title.success.label 'ตั้งค่าเสร็จเรียบร้อย'>
+<!ENTITY sync.subtitle.success.label 'ข้อมูลของคุณกำลังถูกดาวน์โหลดในเบื้องหลัง คุณสามารถจัดการบัญชีได้โดยไปที่ ตั้งค่า'>
+<!ENTITY sync.settings.label 'ตั้งค่า'>
+<!ENTITY sync.subtitle.manage.label 'ตั้งค่าบัญชี &syncBrand.fullName.label; ขอคุณเสร็จแล้ว ไปที่ ตั้งค่า เพื่อจัดการบัญชีของคุณ'>
+
+<!-- Pair Device -->
+<!ENTITY sync.pair.tryagain.label 'โปรดลองอีกครั้ง'>
+
+<!-- Firefox SyncAdapter Settings Screen -->
+<!ENTITY sync.settings.options.label 'ตัวเลือก'>
+<!ENTITY sync.summary.pair.label 'เชื่อมโยงอุปกรณ์อื่นกับบัญชี &syncBrand.shortName.label; ของคุณ'>
+
+<!-- Common text -->
+<!ENTITY sync.button.cancel.label 'ยกเลิก'>
+<!ENTITY sync.button.connect.label 'เชื่อมต่อ'>
+<!ENTITY sync.button.ok.label 'ตกลง'>
+  
+<!-- Account strings -->
+<!ENTITY sync.account.label.label '&syncBrand.fullName.label;'>
+  
+<!-- Bookmark folder strings -->
+<!ENTITY bookmarks.folder.menu.label 'เมนูที่คั่นหน้า'>
+<!ENTITY bookmarks.folder.places.label ''>
+<!ENTITY bookmarks.folder.tags.label 'ป้าย'>
+<!ENTITY bookmarks.folder.toolbar.label 'แถบเครื่องมือที่คั่นหน้า'>
+<!ENTITY bookmarks.folder.unfiled.label 'ที่คั่นหน้าไม่แยกประเภท'>
+<!ENTITY bookmarks.folder.desktop.label 'ที่คั่นหน้าจากคอมพิวเตอร์'>
+<!ENTITY bookmarks.folder.mobile.label 'ที่คั่นหน้าจากอุปกรณ์พกพา'>
+
+<!-- Notification strings -->
+<!ENTITY sync.notification.oneaccount.label 'Only one &syncBrand.fullName.label; account is supported.'>
