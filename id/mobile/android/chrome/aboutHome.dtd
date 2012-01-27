@@ -8,8 +8,4 @@
 <!ENTITY aboutHome.openAllTabs                  "Buka semua di tab">
 <!ENTITY aboutHome.noTabs                       "Tidak ada tab terakhir">
 <!ENTITY aboutHome.noAddons                     "Tidak ada pengaya direkomendasikan">
-
-<!-- LOCALIZATION NOTE: 'Firefox Spark' is the official name of the promotion/constest and should not be translated -->
-<!ENTITY aboutHome.promoLabel                   "Firefox Spark">
-<!-- LOCALIZATION NOTE: 'Play' should be translated in the context of 'playing a game' and not 'playing a video' -->
-<!ENTITY aboutHome.promoButton                  "Mainkan">
+<!ENTITY aboutHome.getLocale                    "Ubah Bahasa">

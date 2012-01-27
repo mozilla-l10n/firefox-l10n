@@ -11,6 +11,7 @@
 <!ENTITY email.accesskey "E">
 <!ENTITY replyTo.label "Alamat Balasan:">
 <!ENTITY replyTo.accesskey "B">
+<!ENTITY replyTo.placeholder "Penerima akan membalas ke alamat yang berbeda ini">
 <!ENTITY organization.label "Organisasi:">
 <!ENTITY organization.accesskey "O">
 <!ENTITY signatureText.label "Teks untuk Tanda Tangan:">

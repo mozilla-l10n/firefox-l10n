@@ -196,7 +196,7 @@ can reach it easily. -->
 <!ENTITY inspectMenu.commandkey       "I">
 
 <!ENTITY inspectContextMenu.label     "Inspeksi Elemen">
-<!ENTITY inspectContextMenu.accesskey "Q">
+<!ENTITY inspectContextMenu.accesskey "E">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
@@ -217,6 +217,8 @@ can reach it easily. -->
 <!ENTITY inspectButton.label          "Inspeksi">
 <!ENTITY inspectButton.accesskey      "I">
 <!ENTITY inspectCloseButton.tooltiptext "Tutup Inspektur">
+<!ENTITY inspect3DButton.label        "3D">
+<!ENTITY inspect3DButton.accesskey    "M">
 <!ENTITY inspectStyleButton.label     "Gaya">
 <!ENTITY inspectStyleButton.accesskey "G">
 

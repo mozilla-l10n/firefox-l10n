@@ -33,6 +33,8 @@
 <!ENTITY engine.passwords.accesskey "i">
 <!ENTITY engine.prefs.label         "Pengaturan">
 <!ENTITY engine.prefs.accesskey     "P">
+<!ENTITY engine.addons.label        "Pengaya">
+<!ENTITY engine.addons.accesskey    "a">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Ketentuan Layanan">

@@ -43,47 +43,14 @@
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
 <!-- File menu items -->
-<!ENTITY fileMenu.label "Berkas">
-<!ENTITY fileMenu.accesskey "B">
-<!ENTITY openFileCmd.label "Buka Berkas…">
-<!ENTITY openFileCmd.accesskey "u">
-<!ENTITY openFileCmd.key "o">
-<!ENTITY openRemoteCmd.label "Buka Lokasi Web…">
-<!ENTITY openRemoteCmd.accesskey "L">
-<!ENTITY openRemoteCmd.key "l">
-<!ENTITY fileRecentMenu.label "Laman Terakhir">
-<!ENTITY fileRecentMenu.accesskey "r">
-<!ENTITY fileRevert.label "Kembalikan">
-<!ENTITY fileRevert.accesskey "K">
-<!ENTITY saveCmd.label "Simpan">
-<!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveCmd.key "s">
-<!ENTITY saveAsCmd.label "Simpan sebagai…">
-<!ENTITY saveAsCmd.accesskey "a">
-
-<!ENTITY publishCmd.label "Terbitkan">
-<!ENTITY publishCmd.accesskey "T">
-<!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "Terbitkan dengan Nama…">
-<!ENTITY publishAsCmd.accesskey "n">
-<!ENTITY saveAsChangeEncodingCmd.label "Simpan dan Ubah Pengodean Karakter">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "e">
-<!ENTITY printSetupCmd.label "Tata Laman…">
-<!ENTITY printSetupCmd.accesskey "T">
-<!ENTITY printCmd.label "Cetak…">
-<!ENTITY printCmd.accesskey "C">
-<!ENTITY printCmd.key "p">
 
 <!-- Edit menu items -->
-<!ENTITY editMenu.label "Ubah">
-<!ENTITY editMenu.accesskey "U">
 <!ENTITY pasteNoFormatting.label "Tempel tanpa Format">
 <!ENTITY pasteNoFormatting.accesskey "o">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Tempel Sebagai">
 <!ENTITY pasteAs.accesskey "a">
-<!ENTITY publishSettings.label "Pengaturan Situs untuk Penerbitan…">
-<!ENTITY publishSettings.accesskey "b">
 <!ENTITY pasteAsQuotationCmd.label "Tempel sebagai Kutipan">
 <!ENTITY pasteAsQuotationCmd.accesskey "K">
 <!ENTITY pasteAsQuotationCmd.key "o">
@@ -216,7 +183,7 @@
 <!ENTITY formatRemoveLinks.key "k">
 <!ENTITY formatRemoveNamedAnchors.label "Hapus Penanda Bernama">
 <!ENTITY formatRemoveNamedAnchors.accesskey "H">
-<!ENTITY formatRemoveNamedAnchors.key "a">
+<!ENTITY formatRemoveNamedAnchors2.key "R">
 
 <!ENTITY paragraphMenu.label "Paragraf">
 <!ENTITY paragraphMenu.accesskey "P">

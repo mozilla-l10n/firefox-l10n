@@ -23,8 +23,10 @@
 <!ENTITY newVirtualFolderCmd.accesskey "c">
 <!ENTITY newOtherAccountsCmd.label "Akun Lainnya…">
 <!ENTITY newOtherAccountsCmd.accesskey "L">
-<!ENTITY newEmailAccountCmd.label "Akun Email…">
-<!ENTITY newEmailAccountCmd.accesskey "E">
+<!ENTITY newCreateEmailAccountCmd.label "Dapatkan Akun Email Baru…">
+<!ENTITY newCreateEmailAccountCmd.accesskey "B">
+<!ENTITY newExistingEmailAccountCmd.label "Akun Email yang Sudah Ada…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "E">
 <!ENTITY openMessageFileCmd.label "Buka Pesan Tersimpan…">
 <!ENTITY openMessageFileCmd.accesskey "P">
 <!ENTITY openAttachmentCmd.label "Lampiran">
@@ -121,6 +123,8 @@
 <!ENTITY redoDefaultCmd.accesskey "U">
 
 <!-- View Menu -->
+<!ENTITY menubarCmd.label "Bilah Menu">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showMessengerToolbarCmd.label "Bilah Alat Email">
 <!ENTITY showMessengerToolbarCmd.accesskey "t">
 <!ENTITY customizeToolbar.label "Kesukaan…">
@@ -134,6 +138,8 @@
 <!ENTITY messagePaneWide.accesskey "m">
 <!ENTITY messagePaneVertical.label "Tampilan Tegak">
 <!ENTITY messagePaneVertical.accesskey "T">
+<!ENTITY showFolderPaneCmd.label "Panel Folder">
+<!ENTITY showFolderPaneCmd.accesskey "F">
 <!ENTITY showMessageCmd.label "Panel Pesan">
 <!ENTITY showMessageCmd.accesskey "P">
 
@@ -271,6 +277,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageSourceCmd.label "Kode Sumber Pesan">
 <!ENTITY pageSourceCmd.accesskey "P">
 <!ENTITY pageSourceCmd.key "u">
+<!ENTITY getNewMessagesCmd.key "y">
+<!ENTITY getAllNewMessagesCmd.key "Y">
 
 <!-- Search Menu -->
 <!ENTITY findMenu.label "Cari">
@@ -498,12 +506,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY previousButton.label "Sebelumnya">
 <!ENTITY backButton1.label "Mundur">
 <!ENTITY goForwardButton1.label "Maju">
+<!ENTITY deleteItem.title "Hapus">
 <!ENTITY deleteButton.label "Hapus">
 <!ENTITY undeleteButton.label "Kembalikan">
 <!ENTITY markButton.label "Tandai">
 <!ENTITY printButton.label "Cetak">
 <!ENTITY stopButton.label "Berhenti">
 <!ENTITY throbberItem.title "Indikator Aktivitas">
+<!ENTITY junkItem.title "Junk">
 <!ENTITY junkButton.label "Junk">
 <!ENTITY notJunkButton.label "Bukan Junk">
 <!ENTITY addressBookButton.label "Buku Alamat">

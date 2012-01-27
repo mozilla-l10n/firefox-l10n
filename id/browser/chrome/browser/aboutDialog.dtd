@@ -1,12 +1,26 @@
 <!ENTITY aboutDialog.title          "Tentang &brandFullName;">
 
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+<!ENTITY warningDesc.version        "&brandShortName; bersifat eksperimental dan mungkin tidak stabil.">
+<!-- LOCALIZATION NOTE (warningDesc.telemetry): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetry      "Secara otomatis &brandShortName; akan mengirimkan informasi pengujian ke &vendorShortName; untuk menyempurnakan &brandShortName;.">
+
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+<!ENTITY community.exp.start        "">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+<!ENTITY community.exp.middle       " adalah sebuah ">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "komunitas global">
+<!ENTITY community.exp.end          " yang bekerja sama untuk menjaga agar dunia Web tetap terbuka, untuk publik, dan dapat diakses oleh semua orang tanpa batasan.">
+
 <!ENTITY community.start2           "&brandShortName; didesain oleh ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", sebuah ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "komunitas global">
-<!ENTITY community.end2             " yang bekerja sama untuk Internet yang lebih baik. Kami percaya bahwa Internet harus bersifat terbuka, untuk publik, dan dapat diakses oleh semua orang tanpa batasan.">
+<!ENTITY community.end3             " yang bekerja sama untuk menjaga agar dunia Web tetap terbuka, untuk publik, dan dapat diakses oleh semua orang tanpa batasan.">
 
 <!ENTITY contribute.start           "Tertarik? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->

@@ -6,6 +6,9 @@
 
 <!-- General Settings -->
 
+<!ENTITY submitTelemetry.label         "Kirim Data Kinerja">
+<!ENTITY submitTelemetry.accesskey     "K">
+<!ENTITY telemetryInfoLink.label       "Informasi selengkapnya tentang Telemetri">
 <!ENTITY enableGlodaSearch.label       "Aktifkan Sistem Pencarian Global dan Pengindeksan Pesan">
 <!ENTITY enableGlodaSearch.accesskey   "i">
 <!ENTITY systemIntegration.label       "Integrasi dengan Sistem">
