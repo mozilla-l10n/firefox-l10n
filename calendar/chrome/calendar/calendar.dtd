@@ -248,8 +248,8 @@
 <!ENTITY calendar.context.findcalendar.accesskey       "C" >
 <!ENTITY calendar.context.deleteserver.label           "Hapus Kalender">
 <!ENTITY calendar.context.deleteserver.accesskey       "H">
-<!ENTITY calendar.context.reloadserver.label           "Muat Ulang Kalender Daring">
-<!ENTITY calendar.context.reloadserver.accesskey       "r">
+<!ENTITY calendar.context.synccalendars.label          "Sinkronkan Kalender">
+<!ENTITY calendar.context.synccalendars.accesskey      "S">
 <!ENTITY calendar.context.publish.label                "Terbitkan Kalender…">
 <!ENTITY calendar.context.publish.accesskey            "T">
 <!ENTITY calendar.context.export.label                 "Ekspor Kalender…">
@@ -318,7 +318,7 @@
 <!ENTITY calendarproperties.name.label                     "Nama:">
 <!ENTITY calendarproperties.readonly.label                 "Baca Saja">
 <!ENTITY calendarproperties.firealarms.label               "Tampilkan Alarm">
-<!ENTITY calendarproperties.cache.label                    "Tembolok (EKSPERIMENTAL, mulai ulang dibutuhkan)">
+<!ENTITY calendarproperties.cache2.label                   "Tembolok">
 <!ENTITY calendarproperties.enabled.label                  "Aktifkan kalender ini">
 <!ENTITY calendarproperties.forceDisabled.label            "Provider kalender ini tidak ditemukan. Ini sering terjadi karena Anda telah menonaktifkan atau menghapus pemasangan pengaya tertentu.">
 <!ENTITY calendarproperties.unsubscribe.label              "Berhenti Langganan">

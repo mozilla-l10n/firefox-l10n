@@ -79,8 +79,10 @@
 <!ENTITY lightning.toolbar.mail.accesskey     "E">
 <!ENTITY lightning.toolbar.calendar.label     "Kalender">
 <!ENTITY lightning.toolbar.calendar.accesskey "K">
+<!ENTITY lightning.toolbar.calendar.tooltip   "Pindah ke tab kalender">
 <!ENTITY lightning.toolbar.task.label         "Tugas">
 <!ENTITY lightning.toolbar.task.accesskey     "T">
+<!ENTITY lightning.toolbar.task.tooltip       "Pindah ke tab tugas">
 
 <!-- Toolbar write button -->
 <!ENTITY lightning.toolbar.newevent.label     "Acara">
