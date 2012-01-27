@@ -2,7 +2,7 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "Dobrodošli. Ako nikada niste koristili &syncBrand.fullName.label;, trebat ćete otvoriti novi korisnički račun.">
+<!ENTITY setup.pickSetupType.description2 "Dobrodošli! Ako nikada niste koristili &syncBrand.fullName.label; trebat ćete otvoriti novi korisnički račun.">
 <!ENTITY button.createNewAccount.label "Otvori novi korisnički račun">
 <!ENTITY button.haveAccount.label      "Već imam korisnički račun">
 
@@ -78,6 +78,8 @@
 <!ENTITY engine.passwords.accesskey "L">
 <!ENTITY engine.prefs.label         "Osobitosti">
 <!ENTITY engine.prefs.accesskey     "s">
+<!ENTITY engine.addons.label        "Dodaci">
+<!ENTITY engine.addons.accesskey    "a">
 
 <!ENTITY choice2.merge.main.label      "Spoji podatke ovog računala s mojim &syncBrand.shortName.label; podacima">
 <!ENTITY choice2.merge.recommended.label "Preporučeno:">
