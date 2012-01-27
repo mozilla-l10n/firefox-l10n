@@ -11,15 +11,14 @@
    - for the specific language governing rights and limitations under the
    - License.
    -
-   - The Original Code is Mozilla Calendar Preferences
+   - The Original Code is Mozilla Calendar code.
    -
    - The Initial Developer of the Original Code is
-   - Matthew Willis
-   - Portions created by the Initial Developer are Copyright (C) 2006
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   - Portions created by the Initial Developer are Copyright (C) 2011
    - the Initial Developer. All Rights Reserved.
    -
-   - Contributor(s): 
-   -   Cédric Corazza <cedric.corazza@wanadoo.fr>
+   - Contributor(s):
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -35,21 +34,9 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!-- WARNING! This file contains UTF-8 encoded characters!
-   - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
-   - your editor isn't using UTF-8 encoding and may munge up the document!
-  -->
+<!ENTITY lightning.toolbar.calendar.name "Bilah Alat Kalender">
+<!ENTITY lightning.toolbar.calendar.accesskey "K">
+<!ENTITY lightning.toolbar.task.name "Bilah Alat Tugas">
+<!ENTITY lightning.toolbar.task.accesskey "T">
 
-<!ENTITY pref.mainbox.label "Pengaturan Umum" >
-<!ENTITY pref.dateformat.label "Format Tanggal:" >
-<!ENTITY pref.dateformat.accesskey "t">
-<!ENTITY pref.dateformat.long "Panjang" >
-<!ENTITY pref.dateformat.short "Short"  >
-<!ENTITY pref.defaultlength.label "Lama Acara Default:" >
-<!ENTITY pref.defaultlength.accesskey "a">
-<!ENTITY pref.defaultsnoozelength.label "Lama Alarm Getar Default:" >
-<!ENTITY pref.defaultsnoozelength.accesskey "G">
-
-<!ENTITY pref.accessibility.label "Aksesibilitas" >
-<!ENTITY pref.systemcolors.label "Optimalkan warna untuk aksesibilitas" >
-<!ENTITY pref.systemcolors.accesskey "w">
+<!ENTITY lightning.toolbar.sync.label "Sinkronkan">
