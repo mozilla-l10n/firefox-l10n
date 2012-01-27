@@ -480,8 +480,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullScreenButton.tooltip       "Показати вікно на повний екран">
 
-<!ENTITY zoomOutButton.tooltip          "Збільшити">
-<!ENTITY zoomInButton.tooltip           "Зменшити">
+<!ENTITY zoomOutButton.tooltip          "Зменшити">
+<!ENTITY zoomInButton.tooltip           "Збільшити">
 <!ENTITY zoomControls.label             "Масштабування">
 
 <!ENTITY quitApplicationCmdWin.label       "Вийти"> 
