@@ -40,7 +40,7 @@
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Set-up voltooid'>
-<!ENTITY sync.subtitle.success.label Uw gegevens worden nu gedownload op de achtergrond. U kunt naar instellingen gaan om uw account te beheren.'>
+<!ENTITY sync.subtitle.success.label 'Uw gegevens worden nu gedownload op de achtergrond. U kunt naar instellingen gaan om uw account te beheren.'>
 <!ENTITY sync.settings.label 'Instellingen'>
 <!ENTITY sync.subtitle.manage.label 'Uw &syncBrand.fullName.label;-account is al ingesteld. Ga naar instellingen om uw account te beheren.'>
 
