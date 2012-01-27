@@ -5,10 +5,15 @@
 <!ENTITY SearchNameOrEmail.label            "Nama atau Email">
 
 <!ENTITY deleteAddrBookCard.label           "Hapus">
+<!ENTITY deleteAddrBookCard.accesskey       "H">
 <!ENTITY addrBookCardProperties.label       "Properti">
-<!ENTITY addtoToFieldMenu.label             "Tambahkan ke kotak">
+<!ENTITY addrBookCardProperties.accesskey   "P">
+<!ENTITY addtoToFieldMenu.label             "Tambahkan ke kotak Kepada">
+<!ENTITY addtoToFieldMenu.accesskey         "K">
 <!ENTITY addtoCcFieldMenu.label             "Tambahkan ke kotak Cc">
+<!ENTITY addtoCcFieldMenu.accesskey         "C">
 <!ENTITY addtoBccFieldMenu.label            "Tambahkan ke kotak Bcc">
+<!ENTITY addtoBccFieldMenu.accesskey        "B">
 
 <!ENTITY toButton.label                     "Tambahkan ke Kepada:">
 <!ENTITY toButton.accesskey                 "a">
