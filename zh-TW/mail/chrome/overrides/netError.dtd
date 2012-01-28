@@ -23,7 +23,12 @@
                     ">
 
 <!ENTITY fileNotFound.title "找不到檔案">
-<!ENTITY fileNotFound.longDesc " <ul>    <li>請檢查檔名是否有大小寫錯誤、拼字錯誤。</li>    <li>請檢查檔案是否已被移動、改名或刪除。</li> </ul>      ">
+<!ENTITY fileNotFound.longDesc "
+<ul>
+  <li>請檢查檔名是否有大小寫錯誤、拼錯字。</li>
+  <li>請檢查檔案是否已被移動、改名或刪除。</li>
+</ul>
+">
 
 <!ENTITY generic.title "噢！">
 <!ENTITY generic.longDesc "
@@ -79,7 +84,7 @@
 </ul>
 ">
 
-<!ENTITY proxyConnectFailure.title "代理伺服器拒絕連線">
+<!ENTITY proxyConnectFailure.title "Proxy 伺服器拒絕連線">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
   <li>請檢查 Proxy 設定是否正確。</li>
