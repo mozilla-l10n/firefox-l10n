@@ -1,6 +1,0 @@
-<!-- These strings are used in the about:newtab page -->
-<!ENTITY newtab.pageTitle "新分頁">
-
-<!ENTITY newtab.show "顯示新分頁頁面">
-<!ENTITY newtab.hide "隱藏新分頁頁面">
-<!ENTITY newtab.reset "重設新分頁頁面">
