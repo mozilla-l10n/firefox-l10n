@@ -22,17 +22,6 @@
 <!ENTITY importButton.accesskey     "I">
 <!ENTITY importButton.commandkey    "i">
 
-<!ENTITY searchInput.tooltip        "Filtra els fulls d'estil pel nom">
-<!ENTITY searchInput.placeholder    "Cerca un full d'estil">
-<!-- LOCALIZATION NOTE  (searchNoResults): This is shown when searching a term
-     that is not found in any stylesheet or stylesheet name. -->
-
-<!ENTITY searchNoResults.label      "No s'ha trobat cap full d'estil que hi coincideixi.">
-<!-- LOCALIZATION NOTE  (searchClearButton): This button clears the search input
-     box and is visible only when a search term has been typed. -->
-
-<!ENTITY searchClearButton.label    "Neteja">
-
 <!ENTITY visibilityToggle.tooltip   "Commuta la visibilitat del full d'estil">
 <!ENTITY visibilityToggle.accesskey "v">
 
@@ -60,3 +49,6 @@
 <!ENTITY noStyleSheet-tip-action.label "afegir un full d'estil nou">
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-end.label): End of the tip sentence -->
 <!ENTITY noStyleSheet-tip-end.label    "?">
+<!-- LOCALIZATION NOTE  (closeCmd.key): Accel + this key closes the window. -->
+
+<!ENTITY closeCmd.key                  "W">

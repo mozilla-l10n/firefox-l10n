@@ -4,8 +4,8 @@
 <!ENTITY  no_space_to_start_error "No hi ha prou espai disponible per al &brandShortName; per iniciar-se.">
 <!ENTITY  error_loading_file "S\'ha produït un error quan es provava de carregar fitxers necessaris per executar el &brandShortName;">
 
-<!ENTITY  awesomebar_all_pages_title "Llocs destacats">
-<!ENTITY  awesomebar_bookmarks_title "Adreces d\'interès">
+<!ENTITY  awesomebar_all_pages_title "Habituals">
+<!ENTITY  awesomebar_bookmarks_title "D\'interès">
 <!ENTITY  awesomebar_history_title "Historial">
 <!ENTITY  awesomebar_search_engine "Cerca \&quot;&#037;s\&quot;">
 
@@ -44,28 +44,29 @@
 <!ENTITY settings "Opcions">
 <!ENTITY settings_title "Opcions">
 <!ENTITY pref_category_general "General">
-<!ENTITY pref_category_privacy "Privacitat &amp; seguretat">
+<!ENTITY pref_category_privacy "Privacitat i seguretat">
 <!ENTITY pref_category_content "Contingut">
 <!ENTITY pref_about_firefox "Quant al &brandShortName;">
-<!ENTITY pref_do_not_track "Indica als llocs web que no em segueixin">
-<!ENTITY pref_telemetry "Envia informació sobre el rendiment">
+<!ENTITY pref_do_not_track "Indica que no em segueixin">
+<!ENTITY pref_telemetry "Envia dades del rendiment">
 <!ENTITY pref_remember_signons "Recorda les contrasenyes">
 <!ENTITY pref_cookies "Habilita les galetes">
-<!ENTITY pref_char_encoding "Mostra la codificació dels caràcters">
+<!ENTITY pref_char_encoding "Mostra la codificació">
 <!ENTITY pref_clear_history "Neteja l\'historial">
 <!ENTITY pref_clear_history_confirm "Es suprimirà l\'historial de navegació">
-<!ENTITY pref_clear_private_data "Suprimeix la informació privada">
+<!ENTITY pref_clear_private_data "Neteja les dades privades">
 <!ENTITY pref_clear_private_data_confirm "Es suprimiran les opcions de navegació incloses les contrasenyes i les galetes.">
 <!ENTITY pref_plugins "Connectors">
 <!ENTITY pref_plugins_enabled "Habilitat">
 <!ENTITY pref_plugins_tap_to_play "Toqueu-ho per engegar">
 <!ENTITY pref_plugins_disabled "Inhabilitat">
-<!ENTITY pref_font_size "Mida de la lletra">
+<!ENTITY pref_text_size "Mida de la lletra">
+<!ENTITY pref_font_size_tiny "Molt petita">
 <!ENTITY pref_font_size_small "Petita">
 <!ENTITY pref_font_size_medium "Mitjana">
 <!ENTITY pref_font_size_large "Grossa">
 <!ENTITY pref_font_size_xlarge "Molt grossa">
-<!ENTITY pref_use_master_password "Utilitza la contrasenya mestra">
+<!ENTITY pref_use_master_password "Contrasenya mestra">
 
 <!ENTITY quit "Surt">
 
@@ -74,10 +75,9 @@
 
 <!ENTITY share "Comparteix">
 <!ENTITY save_as_pdf "Desa com a PDF">
-<!ENTITY agent_request_desktop "Sol·licita el web normal">
-<!ENTITY agent_request_mobile "Sol·licita el web per a mòbils">
 
 <!ENTITY contextmenu_open_new_tab "Obre en una pestanya nova">
+<!ENTITY contextmenu_remove_bookmark "Suprimeix">
 <!ENTITY contextmenu_add_to_launcher "Afegeix-ho a la pantalla inicial">
 <!ENTITY contextmenu_share "Comparteix">
 
@@ -93,3 +93,13 @@
 
 <!ENTITY button_ok "D\'acord">
 <!ENTITY button_cancel "Cancel·la">
+
+<!ENTITY abouthome_addons_title "Els complements del &brandShortName;">
+<!ENTITY abouthome_addons_browse "Mostra tots els complements del &brandShortName;">
+<!ENTITY abouthome_last_tabs_title "Les pestanyes de l\'última vegada">
+<!ENTITY abouthome_last_tabs_open "Obre totes les pestanyes de l\'última vegada">
+<!ENTITY abouthome_top_sites_title "Els millors llocs">
+<!ENTITY abouthome_top_sites_browse "Mostra tots els vostres millors llocs">
+<!ENTITY abouthome_no_top_sites "Encara no teniu cap lloc seleccionat. Toqueu la barra del títol per seleccionar-lo.">
+<!ENTITY abouthome_about_sync "Configureu el Firefox Sync per accedir a les adreces d\'interès, l'historial i les pestanyes dels altres dispositius que teniu">
+<!ENTITY abouthome_sync_bold_name "Firefox Sync">
