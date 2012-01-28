@@ -6,6 +6,7 @@
 <!-- Main titles. -->
 <!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
 <!ENTITY sync.title.connect.label 'Pripojiť sa k službe &syncBrand.shortName.label;'>
+<!ENTITY sync.title.adddevice.label 'Pridať účet služby &syncBrand.fullName.label;'>
 <!ENTITY sync.title.pair.label 'Spárovať zariadenie'>
 
 <!-- J-PAKE Key Screen -->
@@ -17,6 +18,10 @@
 
 <!-- J-PAKE Waiting Screen -->
 <!ENTITY sync.jpake.subtitle.waiting.label 'Čaká sa na druhé zariadenie…'>
+<!ENTITY sync.subtitle.header.label 'Zadajte tento kód na svojom počítači'>
+<!ENTITY sync.subtitle.connectlocation.label 'Zvoľte položku “&sync.title.pair.label;” v sekcii &syncBrand.shortName.label; v okne nastavení Firefoxu vo vašom počítači.'>
+<!ENTITY sync.pin.oneline.label '...'>
+<!ENTITY sync.link.advancedsetup.label 'Rozšírené nastavenia...'>
 
 <!-- Account Login Screen -->
 <!ENTITY sync.subtitle.account.label 'Zadajte informácie o svojom účte služby &syncBrand.fullName.label;'>

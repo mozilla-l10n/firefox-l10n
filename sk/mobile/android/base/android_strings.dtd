@@ -104,3 +104,6 @@
 <!ENTITY abouthome_last_tabs_open "Otvoriť všetky karty z poslednej relácie">
 <!ENTITY abouthome_top_sites_title "Najlepšie stránky">
 <!ENTITY abouthome_top_sites_browse "Prehľadávať všetky najlepšie stránky">
+<!ENTITY abouthome_no_top_sites "Zatiaľ nemáte žiadne najlepšie stránky. Ťuknutím na titulok začnite s prehliadaním stránok.">
+<!ENTITY abouthome_about_sync "Nastavte si službu Firefox Sync a pristupujte k záložkám, histórii a kartám vo vašich ostatných zariadeniach.">
+<!ENTITY abouthome_sync_bold_name "Služba Firefox Sync">
