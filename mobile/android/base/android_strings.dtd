@@ -52,8 +52,6 @@
 <!ENTITY pref_remember_signons "Pamätať si heslá">
 <!ENTITY pref_cookies "Povoliť cookies">
 <!ENTITY pref_char_encoding "Kódovanie znakov">
-<!ENTITY pref_char_encoding_on "Zobraziť ponuku">
-<!ENTITY pref_char_encoding_off "Nezobrazovať ponuku">
 <!ENTITY pref_clear_history "Vymazať históriu">
 <!ENTITY pref_clear_history_confirm "História prehliadania bude vymazaná">
 <!ENTITY pref_clear_private_data "Vymazať súkromné údaje">
@@ -69,13 +67,11 @@
 <!ENTITY pref_font_size_large "Veľké">
 <!ENTITY pref_font_size_xlarge "Veľmi veľké">
 <!ENTITY pref_use_master_password "Používať hlavné heslo">
-<!ENTITY pref_sync "Synchronizácia">
 
 <!ENTITY quit "Ukončiť">
 
 <!ENTITY addons "Doplnky">
 <!ENTITY downloads "Prevzaté súbory">
-<!ENTITY char_encoding "Kódovanie znakov">
 
 <!ENTITY share "Zdieľať">
 <!ENTITY save_as_pdf "Uložiť ako PDF">
@@ -104,3 +100,6 @@
 <!ENTITY abouthome_last_tabs_open "Otvoriť všetky karty z poslednej relácie">
 <!ENTITY abouthome_top_sites_title "Najlepšie stránky">
 <!ENTITY abouthome_top_sites_browse "Prehľadávať všetky najlepšie stránky">
+<!ENTITY abouthome_no_top_sites "Zatiaľ nemáte žiadne najlepšie stránky. Ťuknutím na titulok začnite s prehliadaním stránok.">
+<!ENTITY abouthome_about_sync "Nastavte si službu Firefox Sync a pristupujte k záložkám, histórii a kartám vo vašich ostatných zariadeniach.">
+<!ENTITY abouthome_sync_bold_name "Služba Firefox Sync">
