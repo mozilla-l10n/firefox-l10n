@@ -30,6 +30,8 @@
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "Innstillingar">
 <!ENTITY engine.prefs.accesskey     "n">
+<!ENTITY engine.addons.label        "Utvidingar">
+<!ENTITY engine.addons.accesskey    "U">
 
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label       "Datamaskinnamn:">
