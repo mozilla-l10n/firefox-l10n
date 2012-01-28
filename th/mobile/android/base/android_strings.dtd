@@ -100,3 +100,6 @@
 <!ENTITY abouthome_last_tabs_open "เปิดทุกแท็บจากคราวที่แล้ว">
 <!ENTITY abouthome_top_sites_title "เว็บเด่น">
 <!ENTITY abouthome_top_sites_browse "ดูเว็บเด่นของคุณทั้งหมด">
+<!ENTITY abouthome_no_top_sites "ตอนนี้คุณยังไม่มีเว็บเด่น แตะที่แถบหัวเรื่องเพื่อเริ่มการท่องเว็บ">
+<!ENTITY abouthome_about_sync "ตั้งค่า Firefox Sync เพื่อเข้าถึงที่คั่นหน้า, ประวัติการท่องเว็บ และแท็บจากอุปกรณ์อื่นของคุณ">
+<!ENTITY abouthome_sync_bold_name "Firefox Sync">
