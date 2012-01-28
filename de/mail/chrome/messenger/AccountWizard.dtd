@@ -7,7 +7,7 @@
 
 <!ENTITY accountSetupInfo2.label "Um Nachrichten empfangen zu können, müssen Sie zuerst ein Konto anlegen.">
 <!ENTITY accountTypeTitle.label "Neues Konto einrichten">
-<!ENTITY accountTypeDesc2.label "Dieser Assistent sammelt Informationen, die notwendig sind, um ein neues Konto einzurichten. Wenn Sie die abgefragten Daten nicht kennen, kontaktieren Sie bitte Ihren Systemadministrator oder Internetanbieter.">
+<!ENTITY accountTypeDesc2.label "Dieser Assistent sammelt Informationen, die notwendig sind, um ein neues Konto einzurichten. Wenn Sie die abgefragten Daten nicht kennen, kontaktieren Sie bitte Ihren Systemadministrator oder Internet-Service-Provider.">
 <!ENTITY accountTypeDirections.label "Wählen Sie den Konten-Typ, den Sie einrichten wollen:">
 <!ENTITY accountTypeMail.label "E-Mail">
 <!ENTITY accountTypeMail.accesskey "E">
@@ -61,12 +61,15 @@
 <!ENTITY defaultPortLabel.label "Standard:">
 <!ENTITY defaultPortValue.label "">
 
-<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
+<!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
+     haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
 -->
+<!ENTITY modifyOutgoing.suffix "Sie können den SMTP-Server später in den Konten-Einstellungen ändern.">
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
 <!ENTITY haveSmtp1.prefix "Ihr bestehender Postausgang-Server (SMTP) &quot;">
-<!ENTITY haveSmtp1.suffix2 "&quot; wird verwendet. Sie können den SMTP-Server später in den Konten-Einstellungen ändern.">
+<!ENTITY haveSmtp1.suffix3 "&quot; wird verwendet.">
 
 <!-- Entities for Login page -->
 
@@ -79,18 +82,17 @@
 <!ENTITY usernameSmtpDesc.label "Geben Sie Ihren Benutzernamen für den Postausgang-Server (SMTP) ein (meist der gleiche wie beim Posteingang-Server).">
 <!ENTITY usernameSmtpLabel.label "Postausgang-Server (SMTP) Benutzername:">
 <!ENTITY usernameSmtpLabel.accesskey "A">
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Ihr Postausgang-Server (SMTP) Benutzername &quot;">
-<!ENTITY haveSmtp2.suffix2 "&quot; wird verwendet. Sie können die Postausgang-Server-Einstellungen später in den Konten-Einstellungen bearbeiten.">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
--->
+<!ENTITY haveSmtp2.suffix3 "&quot;, wird verwendet.">
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 <!ENTITY haveSmtp3.prefix "Ihr Postausgang-Server (SMTP) &quot;">
-<!ENTITY haveSmtp3.suffix2 "&quot; ist identisch mit dem Posteingang-Server, Ihr Benutzername des Posteingang-Server wird zur Identifikation genutzt. Sie können die Postausgang-Server-Einstellungen später in den Konten-Einstellungen bearbeiten.">
+<!ENTITY haveSmtp3.suffix3 "&quot; ist identisch mit dem Posteingang-Server, Ihr Benutzername des Posteingang-Server wird zur Identifikation genutzt.">
 
 <!-- Entities for Account name page -->
 
