@@ -22,17 +22,6 @@
 <!ENTITY importButton.accesskey     "I">
 <!ENTITY importButton.commandkey    "i">
 
-<!ENTITY searchInput.tooltip        "透過名稱過濾樣式表">
-<!ENTITY searchInput.placeholder    "搜尋樣式表">
-
-<!-- LOCALIZATION NOTE  (searchNoResults): This is shown when searching a term
-     that is not found in any stylesheet or stylesheet name. -->
-<!ENTITY searchNoResults.label      "找不到符合的樣式表。">
-
-<!-- LOCALIZATION NOTE  (searchClearButton): This button clears the search input
-     box and is visible only when a search term has been typed. -->
-<!ENTITY searchClearButton.label    "清除">
-
 <!ENTITY visibilityToggle.tooltip   "切換樣式表可見度">
 <!ENTITY visibilityToggle.accesskey "V">
 
@@ -60,3 +49,6 @@
 <!ENTITY noStyleSheet-tip-action.label "附加全新的樣式表">
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-end.label): End of the tip sentence -->
 <!ENTITY noStyleSheet-tip-end.label    "?">
+
+<!-- LOCALIZATION NOTE  (closeCmd.key): Accel + this key closes the window. -->
+<!ENTITY closeCmd.key                  "W">
