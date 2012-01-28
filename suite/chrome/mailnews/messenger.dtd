@@ -134,7 +134,7 @@
 <!ENTITY folderPropsFolderCmd.label "資料夾屬性…">
 <!ENTITY folderPropsNewsgroupCmd.label "新聞群組屬性…">
 <!ENTITY folderPropsCmd.accesskey "o">
-<!ENTITY accountManagerCmd.label "信件與新聞群組帳號設定…">
+<!ENTITY accountManagerCmd.label "郵件與新聞群組帳號設定…">
 <!ENTITY accountManagerCmd.accesskey "M">
 <!ENTITY undoDeleteMsgCmd.label "取消刪除郵件">
 <!ENTITY redoDeleteMsgCmd.label "重作刪除郵件">
