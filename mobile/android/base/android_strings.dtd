@@ -51,7 +51,9 @@
 <!ENTITY pref_telemetry "Odesílat data o výkonu">
 <!ENTITY pref_remember_signons "Pamatovat si hesla">
 <!ENTITY pref_cookies "Povolit cookies">
-<!ENTITY pref_char_encoding "Zobrazit znakovou sadu">
+<!ENTITY pref_char_encoding "Znaková sada">
+<!ENTITY pref_char_encoding_on "Zobrazit nabídku">
+<!ENTITY pref_char_encoding_off "Nezobrazovat nabídku">
 <!ENTITY pref_clear_history "Smazat historii">
 <!ENTITY pref_clear_history_confirm "Historie prohlížení bude smazána">
 <!ENTITY pref_clear_private_data "Vymazat důvěrná data">
@@ -73,6 +75,7 @@
 
 <!ENTITY addons "Doplňky">
 <!ENTITY downloads "Stahování">
+<!ENTITY char_encoding "Znaková sada">
 
 <!ENTITY share "Sdílet">
 <!ENTITY save_as_pdf "Uložit jako PDF">
