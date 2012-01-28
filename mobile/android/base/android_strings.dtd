@@ -58,7 +58,7 @@
 <!ENTITY pref_font_size_xlarge "Огромный">
 <!ENTITY pref_use_master_password "Задать мастер-пароль">
 <!ENTITY pref_sync "Синхронизация">
-<!ENTITY quit "Выйти">
+<!ENTITY quit "Выход">
 <!ENTITY addons "Дополнения">
 <!ENTITY downloads "Загрузки">
 <!ENTITY char_encoding "Кодировка">
