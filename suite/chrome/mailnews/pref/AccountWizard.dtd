@@ -61,12 +61,16 @@
 <!ENTITY leaveMsgsOnSrvr.label "Dejar mensajes en el servidor">
 <!ENTITY leaveMsgsOnSrvr.accesskey "l">
 
-<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
+<!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
+     haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
+-->
+<!ENTITY modifyOutgoing.suffix "Puede modificar la configuración del servidor saliente desde dentro de la configuración de cuenta de correo y noticias.">
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix "Su servidor saliente (SMTP) existente, &quot;">
-<!ENTITY haveSmtp1.suffix2 "&quot;, será el usado. Puede modificar la configuración del servidor saliente eligiendo Configuración de cuentas de correo y noticias del menú Editar.">
+<!ENTITY haveSmtp1.suffix3 "&quot;, será el usado.">
 
 <!-- Entities for Login page -->
 
@@ -79,18 +83,18 @@
 <!ENTITY usernameSmtpDesc.label "Introduzca el nombre de usuario saliente facilitado por su proveedor de correo electrónico (normalmente es el mismo que el entrante).">
 <!ENTITY usernameSmtpLabel.label "Nombre de usuario saliente:">
 <!ENTITY usernameSmtpLabel.accesskey "o">
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Su nombre de usuario saliente (SMTP) existente, &quot;">
-<!ENTITY haveSmtp2.suffix2 "&quot;, será el usado. Puede modificar la configuración del servidor saliente eligiendo Configuración de cuentas de correo y noticias del menú Editar.">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
+<!ENTITY haveSmtp2.suffix3 "&quot;, será el usado.">
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Su servidor saliente (SMTP), &quot;">
-<!ENTITY haveSmtp3.suffix2 "&quot; es igual al servidor entrante, se usará el mismo nombre de usuario para acceder a él. Puede modificar la configuración del servidor saliente eligiendo Configuración de cuentas de correo y noticias del menú Editar.">
+<!ENTITY haveSmtp3.suffix3 "&quot; es igual al servidor entrante, se usará el mismo nombre de usuario para acceder a él.">
 
 <!-- Entities for Account name page -->
 
