@@ -68,6 +68,7 @@
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
+-->
 <!ENTITY haveSmtp1.prefix "Ihr bestehender Postausgang-Server (SMTP) &quot;">
 <!ENTITY haveSmtp1.suffix3 "&quot; wird verwendet.">
 
@@ -91,6 +92,7 @@
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
+-->
 <!ENTITY haveSmtp3.prefix "Ihr Postausgang-Server (SMTP) &quot;">
 <!ENTITY haveSmtp3.suffix3 "&quot; ist identisch mit dem Posteingang-Server, Ihr Benutzername des Posteingang-Server wird zur Identifikation genutzt.">
 
