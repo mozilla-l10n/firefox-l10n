@@ -67,6 +67,7 @@
 <!ENTITY pref_font_size_large "Velké">
 <!ENTITY pref_font_size_xlarge "Extra velké">
 <!ENTITY pref_use_master_password "Použít hlavní heslo">
+<!ENTITY pref_sync "Sync">
 
 <!ENTITY quit "Ukončit">
 
