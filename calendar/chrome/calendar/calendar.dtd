@@ -253,8 +253,8 @@
 <!ENTITY calendar.context.findcalendar.accesskey       "C" >
 <!ENTITY calendar.context.deleteserver.label           "Suprimeix el calendari">
 <!ENTITY calendar.context.deleteserver.accesskey       "S">
-<!ENTITY calendar.context.reloadserver.label           "Actualitza els calendaris remots">
-<!ENTITY calendar.context.reloadserver.accesskey       "A">
+<!ENTITY calendar.context.synccalendars.label          "Sincronitza els calendaris">
+<!ENTITY calendar.context.synccalendars.accesskey      "S">
 <!ENTITY calendar.context.publish.label                "Publica el calendari…">
 <!ENTITY calendar.context.publish.accesskey            "b">
 <!ENTITY calendar.context.export.label                 "Exporta el calendari…">

@@ -62,9 +62,9 @@
 <!ENTITY calendar.subscribe.label                          "Subscriu-me a un calendari remot…">
 <!ENTITY calendar.subscribe.accesskey                      "r">
 
-<!ENTITY calendar.reloadserver.label                       "Actualitza els calendaris remots">
-<!ENTITY calendar.reloadserver.key                         "R">
-<!ENTITY calendar.reloadserver.accesskey                   "z">
+<!ENTITY calendar.synccalendars.label                      "Sincronitza els calendaris">
+<!ENTITY calendar.synccalendars.key                        "R">
+<!ENTITY calendar.synccalendars.accesskey                  "S">
 
 <!ENTITY calendar.publish.calendar.label                   "Publica el calendari…">
 <!ENTITY calendar.publish.calendar.accesskey               "b">
