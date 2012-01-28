@@ -36,6 +36,8 @@
 <!ENTITY reloadPlugin.post                                   " per empruvar anc ina giada.">
 <!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
 <!ENTITY report.checkbox                                     "…e trametter ina annunzia da collaps">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "Trametter ina annunzia da collaps">
 <!ENTITY report.submitting                                   "Trametter annunzia…">
 <!ENTITY report.submitted                                    "Tramess annunzia.">
 <!ENTITY report.disabled                                     "Annunzias da collaps èn deactivadas.">

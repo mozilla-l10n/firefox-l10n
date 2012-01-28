@@ -5,8 +5,8 @@
 <!ENTITY iconsAndText.label       "Simbols e text">
 <!ENTITY icons.label              "Simbols">
 <!ENTITY text.label               "Text">
-<!ENTITY useSmallIcons.label      "simbols pitschens">
+<!ENTITY useSmallIcons.label      "Simbols pitschens">
 <!ENTITY restoreDefaultSet.label  "Restituir il standard">
 <!ENTITY addNewToolbar.label      "Nova trav da simbols">
-<!ENTITY saveChanges.label        "Terminar">
+<!ENTITY saveChanges.label        "Finì">
 <!ENTITY undoChanges.label        "Refusar las midadas">
