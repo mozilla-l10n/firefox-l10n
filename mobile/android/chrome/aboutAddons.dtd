@@ -1,0 +1,8 @@
+<!ENTITY aboutAddons.title                      "Lisade haldur">
+<!ENTITY aboutAddons.header                     "Lisad">
+<!ENTITY aboutAddons.options                    "Sätted">
+
+<!ENTITY addonAction.enable                     "Luba">
+<!ENTITY addonAction.disable                    "Keela">
+<!ENTITY addonAction.uninstall                  "Eemalda">
+<!ENTITY addonAction.cancel                     "Loobu">
