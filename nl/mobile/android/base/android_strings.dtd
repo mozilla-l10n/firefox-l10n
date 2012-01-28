@@ -108,3 +108,5 @@
 <!ENTITY abouthome_top_sites_title "Top sites">
 <!ENTITY abouthome_top_sites_browse "Door alle top sites bladeren">
 <!ENTITY abouthome_no_top_sites "U heeft nog geen top sites. Tap de titelbalk om te starten.">
+<!ENTITY abouthome_about_sync "Stel Firefox Sync in voor toegang tot uw  bladwijzers, geschiedenis en tabbladen van uw andere apparaten">
+<!ENTITY abouthome_sync_bold_name "Firefox Sync">
