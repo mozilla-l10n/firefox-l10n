@@ -13,7 +13,7 @@
 <!ENTITY crash_close_label "Закрыть">
 <!ENTITY crash_restart_label "Перезапустить &brandShortName;">
 <!ENTITY sending_crash_report "Отправка сообщения о падении\u2026">
-<!ENTITY exit_label "Выйти">
+<!ENTITY exit_label "Выход">
 <!ENTITY continue_label "Продолжить">
 <!ENTITY launcher_shortcuts_title "Веб-приложения &brandShortName;">
 <!ENTITY launcher_shortcuts_empty "Веб-приложения не найдены">
