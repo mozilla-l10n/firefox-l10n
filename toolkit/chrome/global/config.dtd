@@ -43,9 +43,9 @@
 <!ENTITY aboutWarningButton.label "Ja, eg lovar å vere forsiktig!">
 <!ENTITY aboutWarningCheckbox.label "Vis denne åtvaringa neste gong òg">
 
-<!ENTITY filterPrefs.label "Filter:">
-<!ENTITY filterPrefs.accesskey "l">
-<!ENTITY focusFilter.key "f">
+<!ENTITY searchPrefs.label "Søk:">
+<!ENTITY searchPrefs.accesskey "S">
+<!ENTITY focusSearch.key "r">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "Innstiling">

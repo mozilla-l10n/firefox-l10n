@@ -7,7 +7,7 @@
 
 <!ENTITY accountSetupInfo2.label "For å ta imot meldingar må du fyrst lage ein konto.">
 <!ENTITY accountTypeTitle.label "Innstillingar for ny konto">
-<!ENTITY accountTypeDesc2.label "This Wizard will collect the information necessary to set up an account. If you do not know the information requested, please contact your System Administrator or Internet Service Provider.">
+<!ENTITY accountTypeDesc2.label "Denne vegvisaren samlar inn informasjon som er nødvendig for å lage ein konto. Dersom du ikkje har informasjonen det vert spurt om må du kontakte systemansvarleg eller Internett-leverandøren din.">
 <!ENTITY accountTypeDirections.label "Vel kontotype">
 <!ENTITY accountTypeMail.label "E-post">
 <!ENTITY accountTypeMail.accesskey "E">
@@ -54,8 +54,12 @@
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
-<!ENTITY leaveMsgsOnSrvr.label "Behald meldingane på ternaren">
-<!ENTITY leaveMsgsOnSrvr.accesskey "B">
+<!ENTITY leaveMsgsOnSrvr.label "La meldingane vere på tenaren">
+<!ENTITY leaveMsgsOnSrvr.accesskey "L">
+<!ENTITY portNum.label "Port:">
+<!ENTITY portNum.accesskey "o">
+<!ENTITY defaultPortLabel.label "Standard:">
+<!ENTITY defaultPortValue.label "">
 
 
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
@@ -63,7 +67,7 @@
      text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix "Den noverande utgåande tenaren din (SMTP), «">
-<!ENTITY haveSmtp1.suffix2 "&quot;, vil bli brukt. Du kan endre innstillingar for utgåande tenar i kontoinnstillingane.">
+<!ENTITY haveSmtp1.suffix2 "» vil bli brukt. Du kan endre innstillingar for utgåande tenar i kontoinnstillingane.">
 
 <!-- Entities for Login page -->
 
@@ -81,13 +85,13 @@
      text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Det valde utgåande (SMTP-) brukarnamnet ditt, «">
-<!ENTITY haveSmtp2.suffix2 "&quot;, vil bli brukt. Du kan endre innstillingar for utgåande tenar i kontoinnstillingane.">
+<!ENTITY haveSmtp2.suffix2 "» vil bli brukt. Du kan endre innstillingar for utgåande tenar i kontoinnstillingane.">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Den utgåande (SMTP)-tenaren din, «">
-<!ENTITY haveSmtp3.suffix2 "&quot;, er identisk med innkomande tenar. Innkomande brukarnamn vil bli brukt for tilgang. Du kan endre utgåande tenar i kontoinnstillingane.">
+<!ENTITY haveSmtp3.suffix2 "» er identisk med innkomande tenar. Innkomande brukarnamn vil bli brukt for tilgang. Du kan endre utgåande tenar i kontoinnstillingane.">
 
 <!-- Entities for Account name page -->
 

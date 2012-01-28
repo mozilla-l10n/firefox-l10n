@@ -2,6 +2,8 @@
 <!ENTITY playButton.pauseLabel "Pause">
 <!ENTITY muteButton.muteLabel "Slå av lyd">
 <!ENTITY muteButton.unmuteLabel "Slå på lyd">
+<!ENTITY fullscreenButton.enterfullscreenlabel "Fullskjerm">
+<!ENTITY fullscreenButton.exitfullscreenlabel "Avslutt fullskjerm">
 
 <!ENTITY stats.media "Media">
 <!ENTITY stats.size "Storleik">
@@ -17,6 +19,14 @@
 <!ENTITY stats.framesDecoded "Bilete dekoda">
 <!ENTITY stats.framesPresented "Bilete presentert">
 <!ENTITY stats.framesPainted "Blete teikna opp">
+
+<!ENTITY error.aborted "Videolasting stoppa.">
+<!ENTITY error.network "Videoavspeling avbroten på grunn av nettverksfeil.
+  	">
+<!ENTITY error.decode "Kan ikkje spele av video fordi fila er skada.">
+<!ENTITY error.srcNotSupported "Videoformat eller MIME-type er ikkje støtta.">
+<!ENTITY error.noSource2 "Ingen video med eit støtta format eller MIME-type funne.">
+<!ENTITY error.generic "Videoavspeling avbroten på grunn av ukjend feil.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
