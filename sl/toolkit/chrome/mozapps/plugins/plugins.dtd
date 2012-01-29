@@ -35,7 +35,7 @@
 <!ENTITY reloadPlugin.middle                                 "Ponovno naloži stran">
 <!ENTITY reloadPlugin.post                                   " za nov poskus.">
 <!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.checkbox                                     "…in pošlji poročilo">
+<!ENTITY report.please                                       "Pošlji poročilo">
 <!ENTITY report.submitting                                   "Pošiljanje poročila …">
 <!ENTITY report.submitted                                    "Poročilo poslano.">
 <!ENTITY report.disabled                                     "Pošiljanje poročil onemogočeno.">
