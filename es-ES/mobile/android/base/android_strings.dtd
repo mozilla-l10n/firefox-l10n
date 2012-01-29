@@ -80,3 +80,6 @@
 <!ENTITY abouthome_last_tabs_open "Abrir las pestañas de la última vez">
 <!ENTITY abouthome_top_sites_title "Frecuentes">
 <!ENTITY abouthome_top_sites_browse "Navegar por sus sitios frecuentes">
+<!ENTITY abouthome_no_top_sites "No tiene ningún sitio frecuente aún. Pulse en la barra de título para comentar a navegar.">
+<!ENTITY abouthome_about_sync "Configure Firefox Sync para acceder a sus marcadores, historial y pestañas de sus otros dispositivos.">
+<!ENTITY abouthome_sync_bold_name "Firefox Sync">
