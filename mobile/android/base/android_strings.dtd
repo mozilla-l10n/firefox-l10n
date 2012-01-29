@@ -92,3 +92,13 @@
 
 <!ENTITY button_ok "Gerai">
 <!ENTITY button_cancel "Atsisakyti">
+
+<!ENTITY abouthome_addons_title "Priedai „&brandShortName;“ naršyklei">
+<!ENTITY abouthome_addons_browse "Naršyti visus „&brandShortName;“ priedus">
+<!ENTITY abouthome_last_tabs_title "Kortelės iš pastarojo seanso">
+<!ENTITY abouthome_last_tabs_open "Visos atvertos kortelės iš pastarojo seanso">
+<!ENTITY abouthome_top_sites_title "Dažniausiai lankomos">
+<!ENTITY abouthome_top_sites_browse "Naršyti visas dažniausiai lankomas svetaines">
+<!ENTITY abouthome_no_top_sites "Dažniausiai lankomų svetainių sąrašas kol kas tuščias. Bakstelėkite antraštės juostą ir pradėkite naršymą.">
+<!ENTITY abouthome_about_sync "Sukonfigūruokite „Firefox Sync“ ir galėsite naudotis savo adresynu, žurnalu ir kortelėmis iš kitų įrenginių">
+<!ENTITY abouthome_sync_bold_name "Sinchronizavimas">
