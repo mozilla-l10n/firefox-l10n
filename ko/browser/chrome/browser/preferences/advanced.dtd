@@ -6,8 +6,6 @@
 <!ENTITY allowHWAccel.label              "하드웨어 가속이 가능하면 사용">
 <!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY updateTab.label "업데이트">
-<!ENTITY enableAddonsUpdate3.label "부가 기능">
-<!ENTITY enableAddonsUpdate3.accesskey "o">
 <!ENTITY enableSearchUpdate.label "검색 사이트">
 <!ENTITY enableSearchUpdate.accesskey "h">
 
@@ -34,7 +32,8 @@
 <!ENTITY connectionSettings.label "설정…">
 <!ENTITY connectionSettings.accesskey "e">
 
-<!ENTITY offlineStorage.label "오프라인 보관소">
+<!ENTITY httpCache.label			"캐쉬된 웹 페이지">
+<!ENTITY offlineStorage2.label			"오프라인 웹 페이지 및 사용자 데이터">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -47,6 +46,8 @@
 <!ENTITY limitCacheSizeAfter.label       "MB 공간">
 <!ENTITY clearCacheNow.label             "삭제">
 <!ENTITY clearCacheNow.accesskey         "C">
+<!ENTITY clearOfflineAppCacheNow.label		"지금 삭제">
+<!ENTITY clearOfflineAppCacheNow.accesskey	"N">
 <!ENTITY overrideSmartCacheSize.label    "자동 캐시 크기 관리">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
@@ -73,7 +74,7 @@
 <!ENTITY offlineNotify.accesskey         "T">
 <!ENTITY offlineNotifyExceptions.label   "예외 사항…">
 <!ENTITY offlineNotifyExceptions.accesskey "x">
-<!ENTITY offlineAppsList.label           "오프라인 시 이용 가능한 웹 사이트 목록:">
+<!ENTITY offlineAppsList2.label           "오프라인용 데이터를 저장하는 웹 사이트 목록:">
 
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "삭제…">

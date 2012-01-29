@@ -6,10 +6,8 @@
 <!ENTITY importFromIE.accesskey "M">
 <!ENTITY importFromNothing.label	"아무것도 가져오지 않기">
 <!ENTITY importFromNothing.accesskey	"D">
-<!ENTITY importFromSeamonkey.label "Netscape 6, 7 또는 Mozilla 1.x	">
-<!ENTITY importFromSeamonkey.accesskey "N">
-<!ENTITY importFromOpera.label "Opera">
-<!ENTITY importFromOpera.accesskey "O">
+<!ENTITY importFromChrome.label "Chrome">
+<!ENTITY importFromChrome.accesskey "C">
 <!ENTITY importFromSafari.label "Safari">
 <!ENTITY importFromSafari.accesskey "S">
 <!ENTITY importFromHTMLFile.label "HTML 파일 가져오기">
