@@ -1,7 +1,7 @@
 <!ENTITY splash_firstrun "Наладжванне &brandShortName;\u2026">
 <!ENTITY no_space_to_start_error "Няма прасторы, неабходнай &brandShortName; для запуску.">
 <!ENTITY error_loading_file "Здарылася памылка падчас загрузкі файлаў, патрэбных для выканання &brandShortName;">
-<!ENTITY awesomebar_all_pages_title "Найбольш ужывальныя пляцоўкі">
+<!ENTITY awesomebar_all_pages_title "Найнаведвальныя пляцоўкі">
 <!ENTITY awesomebar_bookmarks_title "Закладкі">
 <!ENTITY awesomebar_history_title "Гісторыя">
 <!ENTITY awesomebar_search_engine "Пошук \&quot;&#037;s\&quot;">
@@ -74,3 +74,12 @@
 <!ENTITY masterpassword_confirm "Пацвердзіць пароль">
 <!ENTITY button_ok "Добра">
 <!ENTITY button_cancel "Скасаваць">
+<!ENTITY abouthome_addons_title "Дадаткі для вашага &brandShortName;">
+<!ENTITY abouthome_addons_browse "Азірнуць усе дадткі &brandShortName;">
+<!ENTITY abouthome_last_tabs_title "Вашы апошнія ўстаўкі">
+<!ENTITY abouthome_last_tabs_open "Адкрыць усе вашы апошнія ўстаўкі">
+<!ENTITY abouthome_top_sites_title "Найнаведвальныя пляцоўкі">
+<!ENTITY abouthome_top_sites_browse "Азірнуць усе найнаведвальныя пляцоўкі">
+<!ENTITY abouthome_no_top_sites "Вы пакуль не маеце найнаведвальных пляцовак. Ляпніце загаловак, каб пачаць азіранне.">
+<!ENTITY abouthome_about_sync "Наладзіць Firefox Sync для доступу да закладак, гісторыі і ўставак з іншых збудоваў">
+<!ENTITY abouthome_sync_bold_name "Firefox Sync">
