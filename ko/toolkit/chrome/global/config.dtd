@@ -1,6 +1,6 @@
-<!ENTITY filterPrefs.label "필터:">
-<!ENTITY filterPrefs.accesskey "I">
-<!ENTITY focusFilter.key "f">
+<!ENTITY searchPrefs.label	"검색:">
+<!ENTITY searchPrefs.accesskey	"r">
+<!ENTITY focusSearch.key	"r">
 
 <!ENTITY prefColumn.label "설정 이름">
 <!ENTITY lockColumn.label "상태">

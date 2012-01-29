@@ -27,9 +27,9 @@
 <!ENTITY reloadPlugin.middle "페이지 새로 고침">
 <!ENTITY reloadPlugin.post "">
 
-<!ENTITY report.checkbox  "…충돌 보고서 서버 전">
-<!ENTITY report.submitting "리포트 전송 중…">
-<!ENTITY report.submitted "출돌 보고서를 제출 합니다.">
-<!ENTITY report.disabled "출돌 보고가 비활성화 되었습니다.">
+<!ENTITY report.please  "문제점 보고서 보내기">
+<!ENTITY report.submitting "보고서 전송 중…">
+<!ENTITY report.submitted "문제점 보고서를 제출 합니다.">
+<!ENTITY report.disabled "문제점 보고서가 비활성화 되었습니다.">
 <!ENTITY report.failed "제출에 실패했습니다.">
 <!ENTITY report.unavailable "제출할 리포트가 없습니다.">
