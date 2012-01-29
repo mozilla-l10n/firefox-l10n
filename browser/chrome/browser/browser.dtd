@@ -165,8 +165,8 @@
 <!ENTITY inspect3DButton.accesskey "Д">
 <!ENTITY inspectStyleButton.label "Стыль">
 <!ENTITY inspectStyleButton.accesskey "С">
-<!ENTITY styleeditor.label "Style Editor">
-<!ENTITY styleeditor.accesskey "y">
+<!ENTITY styleeditor.label "Праўнік стыляў">
+<!ENTITY styleeditor.accesskey "ў">
 <!ENTITY styleeditor.keycode "VK_F7">
 <!ENTITY styleeditor.keytext "F7">
 <!ENTITY getMoreDevtoolsCmd.label "Атрымаць больш прыладаў">

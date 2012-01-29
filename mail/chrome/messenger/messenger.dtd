@@ -536,8 +536,8 @@
 <!ENTITY folderContextMarkMailFolderRead.accesskey "ь">
 <!ENTITY folderContextSubscribe.label "Падпісацца…">
 <!ENTITY folderContextSubscribe.accesskey "п">
-<!ENTITY folderContextSearchForMessages.label "Search Messages…">
-<!ENTITY folderContextSearchForMessages.accesskey "S">
+<!ENTITY folderContextSearchForMessages.label "Пошук лістоў…">
+<!ENTITY folderContextSearchForMessages.accesskey "ш">
 <!ENTITY folderContextProperties.label "Уласцівасці…">
 <!ENTITY folderContextProperties.accesskey "ц">
 <!ENTITY folderContextFavoriteFolder.label "Улюбёная папка">

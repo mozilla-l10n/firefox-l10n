@@ -27,7 +27,7 @@
 <!ENTITY downloadManagerCmd.accesskey "З">
 <!ENTITY downloadManagerCmd.commandkey "j">
 <!ENTITY addOnsManagerCmd.label "Кіраўнік дадаткаў">
-<!ENTITY addOnsManagerCmd.accesskey "A">
+<!ENTITY addOnsManagerCmd.accesskey "д">
 <!ENTITY addOnsManagerCmd.commandkey "a">
 <!ENTITY switchProfileCmd.label "Змяніць профіль…">
 <!ENTITY switchProfileCmd.accesskey "З">

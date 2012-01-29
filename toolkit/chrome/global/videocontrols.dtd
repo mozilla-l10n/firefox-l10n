@@ -2,8 +2,8 @@
 <!ENTITY playButton.pauseLabel "Прыпыніць">
 <!ENTITY muteButton.muteLabel "Заглушыць">
 <!ENTITY muteButton.unmuteLabel "Уключыць гук">
-<!ENTITY fullscreenButton.enterfullscreenlabel "Full Screen">
-<!ENTITY fullscreenButton.exitfullscreenlabel "Exit Full Screen">
+<!ENTITY fullscreenButton.enterfullscreenlabel "Увесь экран">
+<!ENTITY fullscreenButton.exitfullscreenlabel "Закрыць поўны экран">
 <!ENTITY stats.media "Медыя">
 <!ENTITY stats.size "Памер">
 <!ENTITY stats.activity "Дзейнасць">
@@ -18,10 +18,10 @@
 <!ENTITY stats.framesDecoded "Рамкі дэкадаваныя">
 <!ENTITY stats.framesPresented "Рамкі прадстаўленыя">
 <!ENTITY stats.framesPainted "Рамкі намаляваныя">
-<!ENTITY error.aborted "Video loading stopped.">
-<!ENTITY error.network "Video playback aborted due to a network error.">
-<!ENTITY error.decode "Video can't be played because the file is corrupt.">
-<!ENTITY error.srcNotSupported "Video format or MIME type is not supported.">
-<!ENTITY error.noSource2 "No video with supported format and MIME type found.">
-<!ENTITY error.generic "Video playback aborted due to an unknown error.">
+<!ENTITY error.aborted "Загрузка відэя прыпынена.">
+<!ENTITY error.network "Прайграванне відэя аборвана праз сеткавую памылку.">
+<!ENTITY error.decode "Відэя не можа быць прайграна, бо файл пашкоджаны.">
+<!ENTITY error.srcNotSupported "Фармат відэя або тып MIME не падтрымліваюцца.">
+<!ENTITY error.noSource2 "Не знойдзены відэя, фармат якіх або тым MIME якіх падтрымліваюцца.">
+<!ENTITY error.generic "Прайграванне відэя аборвана праз невядомую памылку.">
 <!ENTITY scrubberScale.nameFormat "Мінула #1 з #2">

@@ -1,4 +1,4 @@
-<!ENTITY quickFilterBar.qfbShowFilterBar.label "Quick Filter">
+<!ENTITY quickFilterBar.qfbShowFilterBar.label "Хуткі пошук">
 <!ENTITY quickFilterBar.toggleBarVisibility.menu.label "Паліца хуткага пошуку">
 <!ENTITY quickFilterBar.toggleBarVisibility.menu.accesskey "х">
 <!ENTITY quickFilterBar.toggleBarVisibility.button.tooltip "Пераключыць паліцу хуткага пошуку">
