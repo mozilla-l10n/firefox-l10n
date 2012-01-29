@@ -40,10 +40,9 @@
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "Zladëjë starnã znowa">
 <!ENTITY reloadPlugin.post                                   "spróbùjë znowa.">
-<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.checkbox                                     "…ë sélôj rapòrt ò awari">
 <!ENTITY report.submitting                                   "Sélanié repòrtu…">
 <!ENTITY report.submitted                                    "Rapòrt ò awari òstôł wësłóny.">
 <!ENTITY report.disabled                                     "Sélanié rapòrtów ò awariach je wëłączoné.">
 <!ENTITY report.failed                                       "Felënk pòddaniô.">
 <!ENTITY report.unavailable                                  "Felënk przistãpnëch repòrtów.">
+<!ENTITY report.please "Sélôj rapòrt ò awarii">

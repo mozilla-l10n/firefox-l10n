@@ -21,16 +21,9 @@
 <!ENTITY importButton.accesskey     "J">
 <!ENTITY importButton.commandkey    "j">
 
-<!ENTITY searchInput.tooltip        "Zortëjë sztéle CSS pòdle miona">
-<!ENTITY searchInput.placeholder    "Szëkôj sztélu CSS">
-
-<!-- LOCALIZATION NOTE  (searchNoResults): This is shown when searching a term
-     that is not found in any stylesheet or stylesheet name. -->
-<!ENTITY searchNoResults.label      "Nie nalazł nizódnëch sztélów CSS.">
 
 <!-- LOCALIZATION NOTE  (searchClearButton): This button clears the search input
      box and is visible only when a search term has been typed. -->
-<!ENTITY searchClearButton.label    "Wëczëszczë">
 
 <!ENTITY visibilityToggle.tooltip   "Wëpróbùjë CSS">
 <!ENTITY visibilityToggle.accesskey "W">
@@ -59,3 +52,4 @@
 <!ENTITY noStyleSheet-tip-action.label "append a new style sheet">
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-end.label): End of the tip sentence -->
 <!ENTITY noStyleSheet-tip-end.label    "?">
+<!ENTITY closeCmd.key "W">

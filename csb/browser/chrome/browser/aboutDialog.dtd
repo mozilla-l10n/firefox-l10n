@@ -13,7 +13,7 @@
 -->
 <!ENTITY aboutDialog.title          "Ò programie &brandFullName;">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
-<!ENTITY warningDesc.version        "&brandShortName; je jész w wersji eksperimentalny ë mòże bëc niesztabilnô.">
+<!ENTITY warningDesc.version        "&brandShortName; je jész w eksperimentalny wersji ë mòże bëc niesztabilnô.">
 
 <!ENTITY community.start2           "Program &brandShortName; je zaprojektowóny przez karno ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
