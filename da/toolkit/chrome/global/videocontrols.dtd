@@ -2,6 +2,8 @@
 <!ENTITY playButton.pauseLabel "Pause">
 <!ENTITY muteButton.muteLabel "Slå lyd fra">
 <!ENTITY muteButton.unmuteLabel "Slå lyd til">
+<!ENTITY fullscreenButton.enterfullscreenlabel "Fuld skærm">
+<!ENTITY fullscreenButton.exitfullscreenlabel "Forlad fuld skærm">
 
 <!ENTITY stats.media "Medie">
 <!ENTITY stats.size "Størrelse">
@@ -17,6 +19,13 @@
 <!ENTITY stats.framesDecoded "Dekodede frames">
 <!ENTITY stats.framesPresented "Præsenterede frames">
 <!ENTITY stats.framesPainted "Viste frames">
+
+<!ENTITY error.aborted "Indlæsning af video stoppet.">
+<!ENTITY error.network "Afspilning af video stoppet på grund af en netværksfejl.">
+<!ENTITY error.decode "Videoen kan ikke afspilles fordi filen er korrupt.">
+<!ENTITY error.srcNotSupported "Videoformat eller MIME-type understøttes ikke.">
+<!ENTITY error.noSource2 "Ingen videokilde med understøttet MIME-type fundet.">
+<!ENTITY error.generic "Afspilning af video  stoppet på grund af ukendt fejl.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at

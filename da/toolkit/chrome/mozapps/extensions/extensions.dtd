@@ -1,5 +1,9 @@
 <!ENTITY addons.windowTitle                   "Tilføjelser">
 <!ENTITY search.placeholder                   "Søg i alle tilføjelser">
+<!-- LOCALIZATION NOTE (search.commandKey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
+
 <!ENTITY loading.label                        "Henter…">
 <!ENTITY listEmpty.installed.label            "Du har ikke nogen tilføjelser af denne type installeret">
 <!ENTITY listEmpty.availableUpdates.label     "Ingen opdateringer fundet">
