@@ -4,15 +4,15 @@
 <!ENTITY searchInput.accesskey "ш">
 <!ENTITY SearchNameOrEmail.label "Імя або э-пошта">
 <!ENTITY deleteAddrBookCard.label "Выдаліць">
-<!ENTITY deleteAddrBookCard.accesskey "D">
+<!ENTITY deleteAddrBookCard.accesskey "В">
 <!ENTITY addrBookCardProperties.label "Уласцівасці">
-<!ENTITY addrBookCardProperties.accesskey "P">
+<!ENTITY addrBookCardProperties.accesskey "У">
 <!ENTITY addtoToFieldMenu.label "Дадаць да поля Да">
-<!ENTITY addtoToFieldMenu.accesskey "A">
+<!ENTITY addtoToFieldMenu.accesskey "Д">
 <!ENTITY addtoCcFieldMenu.label "Дадаць да поля Са">
-<!ENTITY addtoCcFieldMenu.accesskey "C">
+<!ENTITY addtoCcFieldMenu.accesskey "С">
 <!ENTITY addtoBccFieldMenu.label "Дадаць да поля Сса">
-<!ENTITY addtoBccFieldMenu.accesskey "B">
+<!ENTITY addtoBccFieldMenu.accesskey "а">
 <!ENTITY toButton.label "Дадаць да Да:">
 <!ENTITY toButton.accesskey "Д">
 <!ENTITY ccButton.label "Дадаць да Са:">

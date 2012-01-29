@@ -1,25 +1,25 @@
-<!ENTITY window.title "Style Editor">
-<!ENTITY newButton.label "New">
-<!ENTITY newButton.tooltip "Create and append a new style sheet to the document">
-<!ENTITY newButton.accesskey "N">
+<!ENTITY window.title "Праўнік стыляў">
+<!ENTITY newButton.label "Стварыць">
+<!ENTITY newButton.tooltip "Стварыць новую табліцу стыляў і дадаць яе ў дакумент">
+<!ENTITY newButton.accesskey "С">
 <!ENTITY newButton.commandkey "n">
-<!ENTITY importButton.label "Import…">
-<!ENTITY importButton.tooltip "Import and append an existing style sheet to the document">
-<!ENTITY importButton.accesskey "I">
+<!ENTITY importButton.label "Імпарт…">
+<!ENTITY importButton.tooltip "Імпартаваць існую табліцу стыляў і дадаць яе ў дакумент">
+<!ENTITY importButton.accesskey "І">
 <!ENTITY importButton.commandkey "i">
-<!ENTITY searchInput.tooltip "Filter style sheets by name">
-<!ENTITY searchInput.placeholder "Find style sheet">
-<!ENTITY searchNoResults.label "No matching style sheet has been found.">
-<!ENTITY searchClearButton.label "Clear">
-<!ENTITY visibilityToggle.tooltip "Toggle style sheet visibility">
+<!ENTITY searchInput.tooltip "Сітаваць табліцы стыляў па назве">
+<!ENTITY searchInput.placeholder "Знайсці табліцу стыляў">
+<!ENTITY searchNoResults.label "Адпаведная табліца стыляў не знойдзена.">
+<!ENTITY searchClearButton.label "Ачысціць">
+<!ENTITY visibilityToggle.tooltip "Пераключыць бачнасць табліцы стыляў">
 <!ENTITY visibilityToggle.accesskey "V">
-<!ENTITY saveButton.label "Save">
-<!ENTITY saveButton.tooltip "Save this style sheet to a file">
-<!ENTITY saveButton.accesskey "S">
+<!ENTITY saveButton.label "Захаваць">
+<!ENTITY saveButton.tooltip "Захаваць гэтую табліцу стыляў у файле">
+<!ENTITY saveButton.accesskey "З">
 <!ENTITY saveButton.commandkey "s">
 <!ENTITY scoped.label "Scoped.">
-<!ENTITY editorTextbox.placeholder "Type CSS here.">
-<!ENTITY noStyleSheet.label "This page has no style sheet.">
-<!ENTITY noStyleSheet-tip-start.label "Perhaps you'd like to ">
-<!ENTITY noStyleSheet-tip-action.label "append a new style sheet">
+<!ENTITY editorTextbox.placeholder "Набярыце CSS тут.">
+<!ENTITY noStyleSheet.label "Гэтая старонка не мае табліцы стыляў.">
+<!ENTITY noStyleSheet-tip-start.label "Магчыма, вы хочаце ">
+<!ENTITY noStyleSheet-tip-action.label "дадаць новую табліцу стыляў">
 <!ENTITY noStyleSheet-tip-end.label "?">
