@@ -7,10 +7,6 @@
 <!ENTITY importButton.tooltip "Імпартаваць існую табліцу стыляў і дадаць яе ў дакумент">
 <!ENTITY importButton.accesskey "І">
 <!ENTITY importButton.commandkey "i">
-<!ENTITY searchInput.tooltip "Сітаваць табліцы стыляў па назве">
-<!ENTITY searchInput.placeholder "Знайсці табліцу стыляў">
-<!ENTITY searchNoResults.label "Адпаведная табліца стыляў не знойдзена.">
-<!ENTITY searchClearButton.label "Ачысціць">
 <!ENTITY visibilityToggle.tooltip "Пераключыць бачнасць табліцы стыляў">
 <!ENTITY visibilityToggle.accesskey "V">
 <!ENTITY saveButton.label "Захаваць">
@@ -23,3 +19,4 @@
 <!ENTITY noStyleSheet-tip-start.label "Магчыма, вы хочаце ">
 <!ENTITY noStyleSheet-tip-action.label "дадаць новую табліцу стыляў">
 <!ENTITY noStyleSheet-tip-end.label "?">
+<!ENTITY closeCmd.key "W">
