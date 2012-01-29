@@ -57,6 +57,7 @@
 <!ENTITY pref_font_size_large "Grande">
 <!ENTITY pref_font_size_xlarge "Extra grande">
 <!ENTITY pref_use_master_password "Usar contraseña maestra">
+<!ENTITY pref_sync "Sync">
 <!ENTITY quit "Salir">
 <!ENTITY addons "Complementos">
 <!ENTITY downloads "Descargas">
