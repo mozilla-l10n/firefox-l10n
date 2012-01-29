@@ -1,0 +1,6 @@
+<!ENTITY lightning.toolbar.calendar.name	"캘린더 도구모음">
+<!ENTITY lightning.toolbar.calendar.accesskey	"C">
+<!ENTITY lightning.toolbar.task.name		"ToDo 도구모음">
+<!ENTITY lightning.toolbar.task.accesskey	"T">
+
+<!ENTITY lightning.toolbar.sync.label		"동기화">
