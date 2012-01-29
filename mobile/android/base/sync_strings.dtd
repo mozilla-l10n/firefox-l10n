@@ -42,7 +42,7 @@
 <!ENTITY sync.title.success.label            'Seadistamine lõpetatud'>
 <!ENTITY sync.subtitle.success.label         'Andmed laaditakse nüüd taustal alla. Võid avada sätted, et hallata oma kontot.'>
 <!ENTITY sync.settings.label                 'Sätted'>
-<!ENTITY sync.subtitle.manage.label          '&syncBrand.fullName.label;i konto on juba seadistatud. Ava sätted, et hallata oma kontot.'>
+<!ENTITY sync.subtitle.manage.label          '&syncBrand.fullName.label;i konto on juba seadistatud. Oma konto haldamiseks ava sätted.'>
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label            'Palun proovi uuesti.'>
