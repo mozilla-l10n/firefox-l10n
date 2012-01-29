@@ -22,17 +22,6 @@
 <!ENTITY importButton.accesskey     "I">
 <!ENTITY importButton.commandkey    "i">
 
-<!ENTITY searchInput.tooltip        "Filtruoti stilių aprašą pagal vardą">
-<!ENTITY searchInput.placeholder    "Ieškoti stilių aprašo">
-
-<!-- LOCALIZATION NOTE  (searchNoResults): This is shown when searching a term
-     that is not found in any stylesheet or stylesheet name. -->
-<!ENTITY searchNoResults.label      "Filtrą atitinkančių stilių aprašų nerasta.">
-
-<!-- LOCALIZATION NOTE  (searchClearButton): This button clears the search input
-     box and is visible only when a search term has been typed. -->
-<!ENTITY searchClearButton.label    "Valyti filtrą">
-
 <!ENTITY visibilityToggle.tooltip   "Įjungti / išjungti stilių aprašo matomumą">
 <!ENTITY visibilityToggle.accesskey "m">
 
@@ -60,3 +49,6 @@
 <!ENTITY noStyleSheet-tip-action.label "pridėti naują stilių aprašą">
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-end.label): End of the tip sentence -->
 <!ENTITY noStyleSheet-tip-end.label    "?">
+
+<!-- LOCALIZATION NOTE  (closeCmd.key): Accel + this key closes the window. -->
+<!ENTITY closeCmd.key                  "W">
