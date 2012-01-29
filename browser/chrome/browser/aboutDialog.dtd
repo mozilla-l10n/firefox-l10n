@@ -1,12 +1,26 @@
 <!ENTITY aboutDialog.title          "&brandFullName; 정보">
 
-<!ENTITY community.start2           "&brandShortName;는 인터넷을 더 나은 곳으로 만들기 위해 ">
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+<!ENTITY warningDesc.version		"&brandShortName;은 실험적 버전으로서 불안할 수 있습니다.">
+<!-- LOCALIZATION NOTE (warningDesc.telemetry): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetry		"&vendorShortName; 성능을 좀 더 향상시키기 위해  자동으로 성능 정보를 보냅니다.">
+
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+<!ENTITY community.exp.start		"">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink	"&vendorShortName;">
+<!ENTITY community.exp.middle		"는  ">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink	"모든 사람이 공공 자원으로서 사용하는 ">
+<!ENTITY community.exp.end		"열린 웹을 만들고자 하는 글로벌 커뮤니티입니다.">
+
+<!ENTITY community.start2           "&brandShortName;는 모든 사람이 공공 자원으로서 사용하는">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
-<!ENTITY community.middle2          "라는 전 세계적인 자원 봉사 ">
+<!ENTITY community.middle2          "열린 웹을 만들고자 하는 ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "커뮤니티">
-<!ENTITY community.end2             "에서 함께 만들고 있습니다. 우리는 아무 제한 없이 인터넷이 누구나 사용할 수 있는 열린 공간이 되어야 한다고 믿습니다.">
+<!ENTITY community.creditsLink      "글로벌 커뮤니티">
+<!ENTITY community.end3             "입니다.">
 
 <!ENTITY contribute.start           "함께 동참하기 원하십니까? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
