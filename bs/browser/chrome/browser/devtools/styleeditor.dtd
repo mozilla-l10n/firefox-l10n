@@ -22,17 +22,6 @@
 <!ENTITY importButton.accesskey     "U">
 <!ENTITY importButton.commandkey    "u">
 
-<!ENTITY searchInput.tooltip        "Filtriraj style sheetove po imenu">
-<!ENTITY searchInput.placeholder    "Pronađi style sheet">
-
-<!-- LOCALIZATION NOTE  (searchNoResults): This is shown when searching a term
-     that is not found in any stylesheet or stylesheet name. -->
-<!ENTITY searchNoResults.label      "Nema pronađenih podudarnih style sheetova.">
-
-<!-- LOCALIZATION NOTE  (searchClearButton): This button clears the search input
-     box and is visible only when a search term has been typed. -->
-<!ENTITY searchClearButton.label    "Očisti">
-
 <!ENTITY visibilityToggle.tooltip   "Promijeni vidljivost style sheeta">
 <!ENTITY visibilityToggle.accesskey "V">
 
@@ -60,3 +49,6 @@
 <!ENTITY noStyleSheet-tip-action.label "dodati novi style sheet">
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-end.label): End of the tip sentence -->
 <!ENTITY noStyleSheet-tip-end.label    "?">
+
+<!-- LOCALIZATION NOTE  (closeCmd.key): Accel + this key closes the window. -->
+<!ENTITY closeCmd.key                  "W">

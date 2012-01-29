@@ -35,7 +35,7 @@
 <!ENTITY reloadPlugin.middle                                 "Ponovo učitaj stranicu">
 <!ENTITY reloadPlugin.post                                   " za novi pokušaj.">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.checkbox                                     "…i pošalji izvještaj o rušenju">
+<!ENTITY report.please                                       "Pošalji izvještaj o rušenju">
 <!ENTITY report.submitting                                   "Šaljem izvještaj…">
 <!ENTITY report.submitted                                    "Izvještaj o rušenju je poslan.">
 <!ENTITY report.disabled                                     "Izvještavanje o rušenju je onemogućeno.">
