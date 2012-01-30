@@ -61,12 +61,16 @@
 <!ENTITY leaveMsgsOnSrvr.label "Palikti laiškų kopijas serveryje">
 <!ENTITY leaveMsgsOnSrvr.accesskey "l">
 
-<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
+<!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
+     haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
 -->
-<!ENTITY haveSmtp1.prefix "Bus panaudotas jau užregistruoto abonento laiškų išsiuntimo serveris (SMTP): „ ">
-<!ENTITY haveSmtp1.suffix2 "“. Nurodyti kitą išsiuntimo serverį galima pasirinkus pašto programos meniu „Priemonės“ komandą „Paskyrų nuostatos“.">
+<!ENTITY modifyOutgoing.suffix "Keisti išsiuntimo serverio nuostatas galite Pašto ir naujienų grupių programos paskyrų nuostatose.">
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
+-->
+<!ENTITY haveSmtp1.prefix "Bus panaudotas jau užregistruoto abonento laiškų išsiuntimo serveris (SMTP) (">
+<!ENTITY haveSmtp1.suffix3 ").">
 
 <!-- Entities for Login page -->
 
@@ -79,18 +83,18 @@
 <!ENTITY usernameSmtpDesc.label "Surinkite laiškų išsiuntimo abonento vardą, kurį Jums suteikė el. pašto paslaugų teikėjas (paprastai šis vardas sutampa su laiškų gavimo abonento vardu).">
 <!ENTITY usernameSmtpLabel.label "Laiškų išsiuntimo abonento vardas:">
 <!ENTITY usernameSmtpLabel.accesskey "a">
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp2.prefix "Bus panaudotas programoje užregistruoto aboento laiškų iššsiuntimo (SMTP) abonento vardas: „">
-<!ENTITY haveSmtp2.suffix2 "“. Jį galima pakeisti atvėrus pašto programos meniu „Priemonės“ ir pasirinkus „Paskyrų nuostatos“.">
+<!ENTITY haveSmtp2.prefix "Bus panaudotas programoje užregistruoto aboento laiškų iššsiuntimo (SMTP) abonento vardas (">
+<!ENTITY haveSmtp2.suffix3 ").">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Laiškų išsiuntimo serverio vardas (">
-<!ENTITY haveSmtp3.suffix2 ") yra toks pat, koks laiškų gavimo serverio vardas. Todėl prisijungimui prie laiškų išsiuntimo serverio bus naudojamas laiškų gavimo abonento vardas. Išsiuntimo serverio nuostatas galima pakeisti atvėrus pašto programos meniu „Priemonės“ ir pasirinkus „Paskyrų nuostatos“.">
+<!ENTITY haveSmtp3.suffix3 ") yra toks pat, kaip ir laiškų gavimo serverio vardas, todėl prisijungimui prie laiškų išsiuntimo serverio bus naudojamas laiškų gavimo abonento vardas.">
 
 <!-- Entities for Account name page -->
 
