@@ -16,6 +16,7 @@
 <!ENTITY calendar.events.filter.today.label "Šios dienos įvykiai">
 <!ENTITY calendar.events.filter.future.label "Visi būsimieji įvykiai">
 <!ENTITY calendar.events.filter.current.label "Pažymėtos dienos įvykiai">
+<!ENTITY calender.events.filter.currentview.label "Įvykiai aktyviame rodinyje">
 <!ENTITY calendar.events.filter.next7Days.label "Įvykiai per artimiausias 7 dienas">
 <!ENTITY calendar.events.filter.next14Days.label "Įvykiai per artimiausias 14 dienų">
 <!ENTITY calendar.events.filter.next31Days.label "Įvykiai per artimiausią 31 dieną">
@@ -132,6 +133,10 @@
 <!ENTITY calendar.task.complete.button.tooltip  "Parinktus darbus pažymėti kaip užbaigtus">
 <!ENTITY calendar.task.priority.button.tooltip  "Keisti prioritetą">
 
+<!ENTITY calendar.task.text-filter.textbox.emptytext.base            "Filtruoti darbus… #1">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Vald+Lyg2+K&gt;">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
+
 <!-- Statusbar -->
 <!ENTITY statusText.label            "Dokumentas baigtas">
 
@@ -166,6 +171,8 @@
 <!ENTITY calendar.context.progress.accesskey          "E">
 <!ENTITY calendar.context.priority.label              "Prioritetas">
 <!ENTITY calendar.context.priority.accesskey          "P">
+<!ENTITY calendar.context.postpone.label              "Atidėti darbą">
+<!ENTITY calendar.context.postpone.accesskey          "A">
 
 <!ENTITY percnt "&#38;#37;" ><!--=percent sign-->
 
@@ -191,6 +198,13 @@
 <!ENTITY priority.level.normal.accesskey    "N">
 <!ENTITY priority.level.high                "Aukštas">
 <!ENTITY priority.level.high.accesskey      "A">
+
+<!ENTITY calendar.context.postpone.1hour.label      "1 valandai">
+<!ENTITY calendar.context.postpone.1hour.accesskey  "v">
+<!ENTITY calendar.context.postpone.1day.label       "1 dienai">
+<!ENTITY calendar.context.postpone.1day.accesskey   "d">
+<!ENTITY calendar.context.postpone.1week.label      "1 savaitei">
+<!ENTITY calendar.context.postpone.1week.accesskey  "s">
 
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
