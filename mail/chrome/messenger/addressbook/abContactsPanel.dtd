@@ -5,10 +5,15 @@
 <!ENTITY SearchNameOrEmail.label            "İsim veya e-posta">
 
 <!ENTITY deleteAddrBookCard.label           "Sil">
+<!ENTITY deleteAddrBookCard.accesskey       "S">
 <!ENTITY addrBookCardProperties.label       "Özellikler">
-<!ENTITY addtoToFieldMenu.label             "İlgili adrese ekle">
+<!ENTITY addrBookCardProperties.accesskey   "Ö">
+<!ENTITY addtoToFieldMenu.label             "Kime alanına ekle">
+<!ENTITY addtoToFieldMenu.accesskey         "e">
 <!ENTITY addtoCcFieldMenu.label             "Cc alanına ekle">
+<!ENTITY addtoCcFieldMenu.accesskey         "C">
 <!ENTITY addtoBccFieldMenu.label            "Bcc alanına ekle">
+<!ENTITY addtoBccFieldMenu.accesskey        "B">
 
 <!ENTITY toButton.label                     "Kime: alanına ekle">
 <!ENTITY toButton.accesskey                 "e">

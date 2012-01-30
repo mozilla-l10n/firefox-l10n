@@ -46,11 +46,11 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName; offers optional services (&quot;Services&quot;), such as the add-on update service, that are available for your use with this binary version of &brandShortName; as described below. If you do not want to use the Services or the terms below are unacceptable, you may disable the add-on update service by opening the application preferences, selecting the ">
+<!ENTITY rights.webservices-a "&brandFullName; bu ikili &brandShortName; sürümünde kullanımınıza sunulan bazı özellikler için, aşağıdaki açıklanan koşullar kapsamında, eklenti güncelleme hizmeti gibi tercihe bağlı hizmetler (&quot;Hizmetler&quot;) sunar. Hizmetleri kullanmak istemiyorsanız veya aşağıdaki koşulları kabul etmiyorsanız, eklenti güncelleme hizmetini devre dışı bırakmak için uygulama tercihlerini açın, ">
 <!ENTITY rights.webservices-b "Gelişmiş">
-<!ENTITY rights.webservices-c " section, followed by the ">
+<!ENTITY rights.webservices-c " bölümüne girin ve">
 <!ENTITY rights.webservices-d "Güncelleme">
-<!ENTITY rights.webservices-e " tab, and unchecking the options for &quot;Automatically check for updates to&quot;.">
+<!ENTITY rights.webservices-e " sekmesine geçerek "Güncellemeleri düzenli olarak denetle" seçeneklerinin işaretlerini kaldırın.">
 
 <!-- intro paragraph for unbranded builds -->
 <!ENTITY rights.webservices-unbranded "Ürünün içerdiği web sitesi hizmetlerine genel bakış ve varsa devre dışı bırakma yönergeleri buraya eklenmelidir.">
@@ -60,7 +60,7 @@
 
 <!-- points 1-7 text for branded builds -->
 <!ENTITY rights.webservices-term1 "&vendorShortName; kendi isteğiyle Hizmetleri durdurabilir veya değiştirebilir.">
-<!ENTITY rights.webservices-term2 "You are welcome to use these Services with the accompanying version of &brandShortName;, and you have all the rights necessary to do so.  &vendorShortName; and its licensors reserve all other rights in the Services.  These terms are not intended to limit any rights granted under open source licenses applicable to &brandShortName; and to corresponding source code versions of &brandShortName;.">
+<!ENTITY rights.webservices-term2 "Bu Hizmetleri uyumlu &brandShortName; sürümüyle kullanmakta özgürsünüz ve &vendorShortName; size bu hakları sunmaktadır. &vendorShortName; ve lisans sahipleri Hizmetler üzerindeki diğer tüm haklara sahiptir.  Bu koşullar &brandShortName; ve ilgili &brandShortName; kaynak kodu sürümlerinde geçerli olan açık kaynak lisansı haklarınızı hiçbir şekilde kısıtlamaz.">
 <!ENTITY rights.webservices-term3 "Hizmetler &quot;oldukları gibi&quot; sağlanmaktadır. &vendorShortName;, ona katkıda bulunanlar, lisans sahipleri ve dağıtıcılar; Hizmetlerin ticari değeri olduğu ve ihtiyaçlarınıza uygun olacağı konusunda yazılı veya sözlü herhangi bir garantide bulunmaz. İhtiyaçlarınızı karşılamak için Hizmetleri tercih ederseniz kalite ve performansa dair riskler size aittir. Bazı yasalar garantilerin hariç tutulmasına veya kısıtlanmasına izin vermiyor olabilir. Bu durumda bu koşullar sizin için geçerli olmayacaktır. 
 ">
 <!ENTITY rights.webservices-term4 "Kanun gereksinimleri dışında; &vendorShortName;, ona katkıda bulunanlar, lisans sahipleri ve dağıtıcıları &brandShortName; ürünün ve Hizmetlerin kullanımından doğabilecek herhangi bir dolaylı, özel, rastlantısal, cezai veya örnek teşkil edici hasardan sorumlu tutulamaz. Bu şartlar altındaki toplu sorumluluk tutarı 500 $'ı (beş yüz dolar) geçemez. Bazı yargı hükümleri belli hasarların istisnai tutulmasına veya kısıtlanmasına izin vermeyebilir, bu durumda bu istisna ve kısıtlama sizin için geçerli olmayabilir.">

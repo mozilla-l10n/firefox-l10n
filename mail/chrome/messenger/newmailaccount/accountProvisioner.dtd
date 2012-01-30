@@ -28,9 +28,9 @@
 <!ENTITY successful.write "Birkaç e-posta yazın">
 <!ENTITY successful.write.desc "Arkadaşlarınıza ve akrabalarınıza yeni adresinizi duyurun.<br/> Zaten bu yeni hesabı bunun için oluşturmadınız mı?">
 <!ENTITY successful.customize "&brandShortName; uygulamasını eklentilerle özelleştirin">
-<!ENTITY successful.customize.desc "There are thousands of add-ons that let you customize &brandShortName; to make it fit your specific needs.">
+<!ENTITY successful.customize.desc "İhtiyaçlarınıza daha uygun bir &brandShortName; için kullanabileceğiniz binlerce eklenti var.">
 <!ENTITY successful.attach "E-postama kişisel bir imza ekle">
-<!ENTITY successful.attach.desc "You can automatically attach a quote or some information about yourself to the end of every message you send.">
+<!ENTITY successful.attach.desc "Gönderdiğiniz her iletinin sonuna otomatik bir özdeyiş veya kendiniz hakkında bilgiler ekleyebilirsiniz.">
 <!ENTITY successful.close "Bu pencereyi kapat.">
 <!ENTITY input.namePlaceholder "İsminiz veya rumuzunuz">
 <!ENTITY input.search "Arama">

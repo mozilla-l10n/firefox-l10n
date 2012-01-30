@@ -28,6 +28,7 @@
 <!ENTITY forwardTo.label "İlet">
 <!ENTITY replyWithTemplate.label "Şablonla yanıtla">
 <!ENTITY markMessageRead.label "Okundu olarak işaretle">
+<!ENTITY markMessageUnread.label "Okunmadı olarak işaretle">
 <!ENTITY markMessageStarred.label "Yıldız ekle">
 <!ENTITY setPriority.label "Öncelik ata">
 <!ENTITY addTag.label "İletiyi etiketle">

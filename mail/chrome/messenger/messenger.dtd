@@ -1,4 +1,3 @@
-<!ENTITY messengerWindow.title "Posta ve haber grupları">
 <!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " -">
 
@@ -588,8 +587,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextMarkMailFolderRead.accesskey "D">
 <!ENTITY folderContextSubscribe.label "Abone ol…">
 <!ENTITY folderContextSubscribe.accesskey "A">
-<!ENTITY folderContextSearchMessages.label "Ara…">
-<!ENTITY folderContextSearchMessages.accesskey "A">
+<!ENTITY folderContextSearchForMessages.label "İletilerde ara…">
+<!ENTITY folderContextSearchForMessages.accesskey "a">
 <!ENTITY folderContextProperties.label "Özellikler…">
 <!ENTITY folderContextProperties.accesskey "e">
 <!ENTITY folderContextFavoriteFolder.label "Favori dizinler">
