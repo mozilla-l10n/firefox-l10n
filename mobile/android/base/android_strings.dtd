@@ -61,6 +61,7 @@
 <!ENTITY quit "Esci">
 <!ENTITY addons "Componenti aggiuntivi">
 <!ENTITY downloads "Download">
+<!ENTITY char_encoding "Codifica caratteri">
 <!ENTITY share "Condividi">
 <!ENTITY save_as_pdf "Salva come PDF">
 <!ENTITY contextmenu_open_new_tab "Apri in nuova scheda">
