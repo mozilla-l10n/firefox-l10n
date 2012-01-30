@@ -79,7 +79,7 @@
 <!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
 <!ENTITY usernameExample.label "(exemplo: &quot;jsmith&quot;).">
 <!ENTITY usernameLabel.label "Nome de utilizador:">
-<!ENTITY usernameLabel.accesskey "U">
+<!ENTITY usernameLabel.accesskey "u">
 <!ENTITY usernameSmtpDesc.label "Forneça o nome de utilizador do servidor SMTP (usado para enviar correio eletrónico) fornecido pelo seu fornecedor de correio eletrónico. Normalmente é o mesmo nome de utilizador usado para receber mensagens.">
 <!ENTITY usernameSmtpLabel.label "Nome de utilizador do servidor SMTP:">
 <!ENTITY usernameSmtpLabel.accesskey "N">
@@ -102,7 +102,7 @@
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
 <!ENTITY accnameDesc.label "Forneça o nome pelo qual você quer identificar esta conta (por exemplo: &quot;Conta do trabalho&quot;, &quot;Casa&quot; ou &quot;Conta de Notícias&quot;).">
 <!ENTITY accnameLabel.label "Nome da conta:">
-<!ENTITY accnameLabel.accesskey "T">
+<!ENTITY accnameLabel.accesskey "t">
 
 <!-- Entities for Done (Congratulations) page -->
 
