@@ -109,6 +109,8 @@
 <!ENTITY lightning.keys.event.showTasks.key "D">
 <!ENTITY lightning.keys.event.new "I">
 <!ENTITY lightning.keys.todo.new "D">
+<!ENTITY lightning.toolbar.calendar.tooltip		"캘린더 탭으로 전환">
+<!ENTITY lightning.toolbar.task.tooltip			"ToDo 탭으로 전환">
 
 <!-- Account Central page -->
 <!ENTITY lightning.acctCentral.newCalendar.label "새 캘린더 생성">

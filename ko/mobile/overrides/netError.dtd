@@ -14,6 +14,8 @@
 <!ENTITY generic.longDesc "<p>&brandShortName;가 어떠한 이유로 인하여 현재 페이지를 읽을 수 없습니다.</p>">
 <!ENTITY malformedURI.title "주소가 유효하지 않음">
 <!ENTITY malformedURI.longDesc "<ul><li>웹 주소는 보통 <strong>http://www.example.com/</strong>과 같이 작성됩니다.</li><li>오른쪽 위에서 왼쪽 아래로 그어진 슬래쉬(<strong>/</strong>)를 사용했는지 확인해 보시기 바랍니다.</li></ul>">
+<!ENTITY notCached.title "문서 만료">
+<!ENTITY notCached.longDesc "<p>요청한 문서는 더 이상 &brandShortName; 캐시에 저장되어 있지 않습니다.</p><ul><li>보안 문제로 인해 &brandShortName;는 자동적으로 문서를 재 호출 합니다.</li><li>웹 사이트에서 문서를 재 요청 하시려면 다시 시도를 눌러주십시오.</li></ul>">
 <!ENTITY netInterrupt.title "연결이 끊어짐">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 <!ENTITY netOffline.title "오프라인 모드">

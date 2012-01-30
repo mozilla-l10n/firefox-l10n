@@ -3,8 +3,8 @@
 <!ENTITY importFromNonWin.label "가져오기올 메일 환경 설정, 계정 설정, 주소록, 필터 등의 데이터:">
 <!ENTITY importFromNothing.label "아무것도 가져오지 않음">
 <!ENTITY importFromNothing.accesskey "D">
-<!ENTITY importFromSeamonkey2.label "넷스케이프 6, 7 또는 모질라 1.x, 또는 씨몽키">
-<!ENTITY importFromSeamonkey2.accesskey "s">
+<!ENTITY importFromSeamonkey3.label "SeaMonkey 2 이상">
+<!ENTITY importFromSeamonkey3.accesskey "S">
 <!ENTITY importFromOExpress.label "아웃룩 익스프레스">
 <!ENTITY importFromOExpress.accesskey "u">
 <!ENTITY importFromOutlook.label "아웃룩">

@@ -6,7 +6,7 @@
 
 <!ENTITY allowScripts.label             "웹 페이지 내 자바스크립트 실행 가능 항목을 선택하십시오.">
 
-<!ENTITY moveResizePopupWindows.label        "팝업창의 이동 및 크기 조정">
+<!ENTITY moveResizePopupWindows.label        "창의 이동 및 크기 조정">
 <!ENTITY moveResizePopupWindows.accesskey    "M">
 
 <!ENTITY raiseLowerWindows.label        "창을 올리거나 내리기">

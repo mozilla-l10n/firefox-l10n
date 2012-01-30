@@ -1,4 +1,4 @@
-<!ENTITY quickFilterBar.qfbShowFilterBar.label      "빠른 필터">
+<!ENTITY quickFilterBar.qfbShowFilterBar.label "빠른 필터">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.menu.label):
      The label to display for the "View... Toolbars..." menu item that controls

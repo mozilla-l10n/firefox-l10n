@@ -2,15 +2,13 @@
 <!ENTITY importFrom.label "다음으로부터 설정 및 사용자 데이터를 가지고 옵니다:">
 <!ENTITY importFromUnix.label "다음으로부터 환경 설정 및 사용자 데이터를 가지고 옵니다:">
 <!ENTITY importFromBookmarks.label "다음으로부터 북마크를 가지고 옵니다:">
-<!ENTITY importFromIE.label "마이크로소프트 인터넷익스플로러">
+<!ENTITY importFromIE.label "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey "M">
 <!ENTITY importFromNothing.label	"아무것도 가져오지 않기">
 <!ENTITY importFromNothing.accesskey	"D">
-<!ENTITY importFromChrome.label "구글 크롬">
+<!ENTITY importFromChrome.label "Chrome">
 <!ENTITY importFromChrome.accesskey "C">
-<!ENTITY importFromOpera.label "오페라">
-<!ENTITY importFromOpera.accesskey "O">
-<!ENTITY importFromSafari.label "애플 사파리">
+<!ENTITY importFromSafari.label "Safari">
 <!ENTITY importFromSafari.accesskey "S">
 <!ENTITY importFromHTMLFile.label "HTML 파일 가져오기">
 <!ENTITY importFromHTMLFile.accesskey "F">

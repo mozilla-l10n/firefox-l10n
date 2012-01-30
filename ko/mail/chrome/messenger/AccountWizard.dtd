@@ -1,8 +1,8 @@
 <!ENTITY windowTitle.label "계정 마법사">
 <!ENTITY accountWizard.size "width: 40em; height: 38em;">
 <!ENTITY accountSetupInfo2.label "메시지 수신을 위해서는 계정을 설정해야 합니다.">
-<!ENTITY accountTypeTitle.label "계정 종류">
-<!ENTITY accountTypeDesc2.label "계정을 설정하는데 필요한 정보를 입력해 주십시오. 자세한 내용은 시스템 관리자 또는 ISP에 문의하십시오.">
+<!ENTITY accountTypeTitle.label "새 계정 설정">
+<!ENTITY accountTypeDesc2.label "이 마법사는 계정을 설정하는데 필요한 정보를 수집합니다. 자세한 내용은 시스템 관리자 또는 ISP에 문의하십시오.">
 <!ENTITY accountTypeDirections.label "설정할 계정의 종류를 선택하십시오:">
 <!ENTITY accountTypeMail.label "메일 계정">
 <!ENTITY accountTypeMail.accesskey "m">
@@ -33,6 +33,10 @@
 <!ENTITY popType.accesskey "P">
 <!ENTITY leaveMsgsOnSrvr.label "서버에 메일 남기기">
 <!ENTITY leaveMsgsOnSrvr.accesskey "L">
+<!ENTITY portNum.label			"포토 번호:">
+<!ENTITY portNum.accesskey		"o">
+<!ENTITY defaultPortLabel.label		"기본 포트:">
+<!ENTITY defaultPortValue.label		"">
 
 <!ENTITY haveSmtp1.prefix "메일 서버 (SMTP) &quot;">
 <!ENTITY haveSmtp1.suffix2 "&quot;은(는) 사용 중. 메일과 뉴스 그룹 프로그램의 편집 메뉴의 계정 설정에서 메일 서버를 수정할 수 있습니다.">

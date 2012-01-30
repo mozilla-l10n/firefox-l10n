@@ -1,4 +1,4 @@
-<!ENTITY saveCmd.key "S">
+<!ENTITY saveCmd.key "s">
 <!ENTITY pasteNoFormatting.label "포맷없이 붙여넣기">
 <!ENTITY pasteNoFormatting.accesskey "o">
 <!ENTITY pasteNoFormatting.key "V">
@@ -125,7 +125,7 @@
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "내부 링크 없애기">
 <!ENTITY formatRemoveNamedAnchors.accesskey "R">
-<!ENTITY formatRemoveNamedAnchors2.key "a">
+<!ENTITY formatRemoveNamedAnchors2.key "R">
 <!ENTITY paragraphMenu.label "문단">
 <!ENTITY paragraphMenu.accesskey "P">
 <!ENTITY paragraphParagraphCmd.label "문단">
