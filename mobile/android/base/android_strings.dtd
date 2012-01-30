@@ -94,3 +94,13 @@
 <!ENTITY button_ok "Tamam">
 <!ENTITY button_cancel "İptal">
 
+<!ENTITY abouthome_addons_title "&brandShortName; için eklentiler">
+<!ENTITY abouthome_addons_browse "Tüm &brandShortName; eklentilerine göz at">
+<!ENTITY abouthome_last_tabs_title "Son oturumunuzdaki sekmeler">
+<!ENTITY abouthome_last_tabs_open "Son oturumdaki tüm sekmeleri aç">
+<!ENTITY abouthome_top_sites_title "Popüler siteler">
+<!ENTITY abouthome_top_sites_browse "Tüm popüler sitelerinize göz atın">
+<!ENTITY abouthome_no_top_sites "Henüz popüler siteniz yok. Gezinmeye başlamak için başlık çubuğuna dokunun.">
+<!ENTITY abouthome_about_sync "Diğer aygıtlarınızda yer imlerinize, geçmişine ve sekmelerinize erişmek için Firefox Sync'i kurun">
+<!ENTITY abouthome_sync_bold_name "Firefox Sync">
+

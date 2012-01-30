@@ -1,0 +1,72 @@
+<!-- Don't localize these. They're here until they have
+     a better place to live. -->
+<!ENTITY syncBrand.fullName.label "Firefox Sync">
+<!ENTITY syncBrand.shortName.label "Sync">
+
+<!-- Main titles. -->
+<!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
+<!ENTITY sync.title.connect.label '&syncBrand.shortName.label;\'e bağlan'>
+<!ENTITY sync.title.adddevice.label '&syncBrand.fullName.label; hesabı ekle'>
+<!ENTITY sync.title.pair.label 'Aygıt eşleştir'>
+
+<!-- J-PAKE Key Screen -->
+<!ENTITY sync.subtitle.connect.label 'Yeni aygıtınızı etkinleştirmek için, aygıttan “&syncBrand.shortName.label;\'i kur”u seçin.'>
+<!ENTITY sync.subtitle.header.label 'Bilgisayarınıza bu kodu girin'>
+<!ENTITY sync.subtitle.connectlocation.label 'Masaüstü Firefox seçeneklerinizin &syncBrand.shortName.label; bölümünden “&sync.title.pair.label;” seçeneğini seçin.'>
+<!ENTITY sync.subtitle.pair.label 'Etkinleştirmek için, diğer aygıtınızdan “Aygıt eşleştir”i seçin.'>
+<!ENTITY sync.pin.default.label '...\n...\n...\n'>
+<!ENTITY sync.pin.oneline.label '...'>
+<!ENTITY sync.link.show.label 'Nasıl yapılacağını göster.'>
+<!ENTITY sync.link.advancedsetup.label 'Gelişmiş kurulum...'>
+<!ENTITY sync.link.nodevice.label 'Aygıt yanımda değil…'>
+
+<!-- J-PAKE Waiting Screen -->
+<!ENTITY sync.jpake.subtitle.waiting.label 'Diğer aygıt bekleniyor…'>
+
+<!-- Account Login Screen -->
+<!ENTITY sync.subtitle.account.label '&syncBrand.fullName.label; hesap bilgilerinizi girin'>
+<!ENTITY sync.input.username.label 'Hesap adı'>
+<!ENTITY sync.input.password.label 'Parola'>
+<!ENTITY sync.input.key.label 'Kurtarma anahtarı'>
+<!ENTITY sync.checkbox.server.label 'Özel sunucu kullan'>
+<!ENTITY sync.input.server.label 'Sunucu adresi'>
+  
+<!-- Setup Fail -->
+<!ENTITY sync.title.fail.label '&syncBrand.shortName.label; kurulamadı'>
+<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; sunucuya bağlanamadı. Tekrar denemek ister misiniz?'>
+<!ENTITY sync.button.tryagain.label 'Yeniden dene'>
+<!ENTITY sync.button.manual.label 'Elle kurulum'>
+<!ENTITY sync.subtitle.nointernet.label 'İnternet bağlantısı yok.'>
+  
+<!-- Setup Success -->
+<!ENTITY sync.title.success.label 'Kurulum tamamlandı'>
+<!ENTITY sync.subtitle.success.label 'Verileriniz şu anda arka planda indiriliyor. Hesabınızı yönetmek için Ayarlar\'a gidebilirsiniz.'>
+<!ENTITY sync.settings.label 'Ayarlar'>
+<!ENTITY sync.subtitle.manage.label '&syncBrand.fullName.label; hesabınız zaten kurulmuş. Hesabınızı yönetmek için Ayarlar\'a gidin.'>
+
+<!-- Pair Device -->
+<!ENTITY sync.pair.tryagain.label 'Lütfen tekrar deneyin.'>
+
+<!-- Firefox SyncAdapter Settings Screen -->
+<!ENTITY sync.settings.options.label 'Seçenekler'>
+<!ENTITY sync.summary.pair.label '&syncBrand.shortName.label; hesabınıza başka bir aygıtı bağlayın'>
+
+<!-- Common text -->
+<!ENTITY sync.button.cancel.label 'İptal'>
+<!ENTITY sync.button.connect.label 'Bağlan'>
+<!ENTITY sync.button.ok.label 'Tamam'>
+  
+<!-- Account strings -->
+<!ENTITY sync.account.label.label '&syncBrand.fullName.label;'>
+  
+<!-- Bookmark folder strings -->
+<!ENTITY bookmarks.folder.menu.label 'Yer imleri menüsü'>
+<!ENTITY bookmarks.folder.places.label ''>
+<!ENTITY bookmarks.folder.tags.label 'Etiketler'>
+<!ENTITY bookmarks.folder.toolbar.label 'Yer imi araç çubuğu'>
+<!ENTITY bookmarks.folder.unfiled.label 'Sıralanmamış yer imleri'>
+<!ENTITY bookmarks.folder.desktop.label 'Masaüstü yer imleri'>
+<!ENTITY bookmarks.folder.mobile.label 'Mobil yer imleri'>
+
+<!-- Notification strings -->
+<!ENTITY sync.notification.oneaccount.label 'Yalnızca bir &syncBrand.fullName.label; hesabı kurabilirsiniz.'>
