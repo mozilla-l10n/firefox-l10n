@@ -5,12 +5,12 @@
 
 <!-- Main titles. -->
 <!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
-<!ENTITY sync.title.connect.label '&syncBrand.shortName.label;\'e bağlan'>
+<!ENTITY sync.title.connect.label '&syncBrand.shortName.label;\u0027e bağlan'>
 <!ENTITY sync.title.adddevice.label '&syncBrand.fullName.label; hesabı ekle'>
 <!ENTITY sync.title.pair.label 'Aygıt eşleştir'>
 
 <!-- J-PAKE Key Screen -->
-<!ENTITY sync.subtitle.connect.label 'Yeni aygıtınızı etkinleştirmek için, aygıttan “&syncBrand.shortName.label;\'i kur”u seçin.'>
+<!ENTITY sync.subtitle.connect.label 'Yeni aygıtınızı etkinleştirmek için, aygıttan “&syncBrand.shortName.label;\u0027i kur”u seçin.'>
 <!ENTITY sync.subtitle.header.label 'Bilgisayarınıza bu kodu girin'>
 <!ENTITY sync.subtitle.connectlocation.label 'Masaüstü Firefox seçeneklerinizin &syncBrand.shortName.label; bölümünden “&sync.title.pair.label;” seçeneğini seçin.'>
 <!ENTITY sync.subtitle.pair.label 'Etkinleştirmek için, diğer aygıtınızdan “Aygıt eşleştir”i seçin.'>
@@ -40,9 +40,9 @@
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Kurulum tamamlandı'>
-<!ENTITY sync.subtitle.success.label 'Verileriniz şu anda arka planda indiriliyor. Hesabınızı yönetmek için Ayarlar\'a gidebilirsiniz.'>
+<!ENTITY sync.subtitle.success.label 'Verileriniz şu anda arka planda indiriliyor. Hesabınızı yönetmek için Ayarlar\u0027a gidebilirsiniz.'>
 <!ENTITY sync.settings.label 'Ayarlar'>
-<!ENTITY sync.subtitle.manage.label '&syncBrand.fullName.label; hesabınız zaten kurulmuş. Hesabınızı yönetmek için Ayarlar\'a gidin.'>
+<!ENTITY sync.subtitle.manage.label '&syncBrand.fullName.label; hesabınız zaten kurulmuş. Hesabınızı yönetmek için Ayarlar\u0027a gidin.'>
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label 'Lütfen tekrar deneyin.'>
