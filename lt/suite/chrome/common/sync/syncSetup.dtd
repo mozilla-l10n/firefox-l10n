@@ -81,6 +81,8 @@
 <!ENTITY syncComputerName.accesskey   "v">
 
 <!ENTITY syncMy.label               "Sinchronizuoti:">
+<!ENTITY engine.addons.label        "programos priedus">
+<!ENTITY engine.addons.accesskey    "p">
 <!ENTITY engine.bookmarks.label     "adresyną">
 <!ENTITY engine.bookmarks.accesskey "d">
 <!ENTITY engine.tabs.label          "korteles">
