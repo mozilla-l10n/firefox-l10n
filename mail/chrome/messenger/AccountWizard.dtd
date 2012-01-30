@@ -56,6 +56,10 @@
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
+<!ENTITY portNum.label "විවරය(Port):">
+<!ENTITY portNum.accesskey "o">
+<!ENTITY defaultPortLabel.label "පෙරනිමි:">
+<!ENTITY defaultPortValue.label "">
 
 <!-- for when the user has an SMTP server pre-configured -->
 <!-- LOCALIZATION NOTE (currentSmtpBefore.label) : Do not translate "SMTP" and "&quot;" in
@@ -123,5 +127,5 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY leaveMsgsOnSrvr.label "Leave messages on server">
+<!ENTITY leaveMsgsOnSrvr.label "ලිපි සේවාදායකැ තුළ ඉතිරි කරන්න">
 <!ENTITY leaveMsgsOnSrvr.accesskey "L">

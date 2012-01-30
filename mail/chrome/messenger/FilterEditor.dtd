@@ -31,6 +31,7 @@
 <!ENTITY replyWithTemplate.label "ආකෘතිය සමඟ පිළිතුරු ලිවීම">
 <!ENTITY markMessageRead.label "කියවූ ලෙස සළකුණු කරන්න">
 <!ENTITY markMessageStarred.label "තරුලකුණ එක් කරන්න">
+<!ENTITY markMessageUnread.label "නොකියවූ ලෙස සළකුණු කරන්න">
 <!ENTITY setPriority.label "ප්‍රමුඛතාවය සකසන්න">
 <!ENTITY addTag.label "ටැග් ලිපිය">
 <!ENTITY setJunkScore.label "Set Junk Status to">

@@ -7,9 +7,13 @@
 
 <!ENTITY deleteAddrBookCard.label           "මකන්න">
 <!ENTITY addrBookCardProperties.label       "ලක්ෂණ">
+<!ENTITY addrBookCardProperties.accesskey   "P">
 <!ENTITY addtoToFieldMenu.label             "ලබන්නා තීරුවට යවන්න">
+<!ENTITY addtoToFieldMenu.accesskey         "A">
 <!ENTITY addtoCcFieldMenu.label             "පිටපත් තීරුවට යවන්න">
+<!ENTITY addtoCcFieldMenu.accesskey         "C">
 <!ENTITY addtoBccFieldMenu.label            "රහස්‍ය පිටපත් තීරුවට යවන්න">
+<!ENTITY addtoBccFieldMenu.accesskey        "B">
 
 <!ENTITY toButton.label                     "ලබන්නා තීරුවට යවන්න:">
 <!ENTITY toButton.accesskey                 "A">

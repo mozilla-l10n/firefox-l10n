@@ -330,13 +330,7 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "මෙනු තීරුව">
-<!ENTITY newToolbarCmd.label "නව">
 <!ENTITY formatToolbar.tooltip "හැඩතල මෙවලම්තීරුව">
-<!ENTITY newToolbarCmd.tooltip "නව සකසන පිටුවක් සෑදීම">
-<!ENTITY openToolbarCmd.label "විවෘත කරන්න">
-<!ENTITY openToolbarCmd.tooltip "පෙදෙසි (local) ගොනුවක් විවෘත කිරීම">
-<!ENTITY saveToolbarCmd.tooltip "ගොනුව පෙදෙසි (local) ස්ථානයකට සුරැකීම">
-<!ENTITY publishToolbarCmd.tooltip "ගොනුව දුරස්ථ ස්ථානයකට උඩුගත කිරීම">
 <!ENTITY cutToolbarCmd.tooltip "කපන්න">
 <!ENTITY copyToolbarCmd.tooltip "පිටපත් කරන්න">
 <!ENTITY pasteToolbarCmd.tooltip "අලවන්න">
