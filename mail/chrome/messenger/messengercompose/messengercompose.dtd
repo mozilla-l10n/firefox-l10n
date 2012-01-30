@@ -202,7 +202,7 @@
 <!ENTITY followupAddr.label "전달:">
 <!ENTITY subject.label "제목:">
 <!ENTITY subject.accesskey "S">
-<!ENTITY attachments.accesskey "c">
+<!ENTITY attachments.accesskey "m">
 <!ENTITY SmileButton.tooltip "표정 아이콘 삽입">
 <!ENTITY smiley1Cmd.label "미소">
 <!ENTITY smiley2Cmd.label "시무룩">

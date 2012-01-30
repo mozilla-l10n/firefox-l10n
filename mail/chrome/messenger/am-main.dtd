@@ -10,7 +10,7 @@
 <!ENTITY email.accesskey "E">
 <!ENTITY replyTo.label "회신 주소:">
 <!ENTITY replyTo.accesskey "s">
-<!ENTITY replyTo.placeholder	"수신자로부터 답신 받는 주소">
+<!ENTITY replyTo.placeholder "수신자가 답장을 할 다른 메일 주소">
 <!ENTITY organization.label "소속:">
 <!ENTITY organization.accesskey "O">
 <!ENTITY signatureText.label "서명:">

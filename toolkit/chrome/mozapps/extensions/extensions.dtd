@@ -1,8 +1,6 @@
 <!ENTITY addons.windowTitle                   "부가 기능 관리자">
 <!ENTITY search.placeholder                   "전체 검색">
-<!-- LOCALIZATION NOTE (search.commandKey):
-     The search command key should match findOnCmd.commandkey from browser.dtd -->
-<!ENTITY search.commandkey                    "f">
+<!ENTITY search.commandkey					  "f">
 <!ENTITY loading.label                        "읽는 중…">
 <!ENTITY listEmpty.installed.label            "설치한 부가 기능이 없음">
 <!ENTITY listEmpty.availableUpdates.label     "업데이트 없음">
@@ -47,7 +45,7 @@
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
 <!ENTITY updates.resetUpdatesToManual.label          "자동 업데이트 설정 해제">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "R">
-<!ENTITY updates.updating.label               "업데이트 중">
+<!ENTITY updates.updating.label               "업데이트 확인 중">
 <!ENTITY updates.installed.label              "업데이트가 완료되었습니다.">
 <!ENTITY updates.downloaded.label             "부가 기능 업데이트를 다운로드 완료 했습니다.">
 <!ENTITY updates.restart.label                "설치를 완료하려면 다시 시작 하십시오.">

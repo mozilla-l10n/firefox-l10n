@@ -71,7 +71,7 @@
 <!ENTITY imagemapBox.label "그림맵">
 <!ENTITY removeImageMapButton.label "제거">
 <!ENTITY removeImageMapButton.accessKey "R">
-<!ENTITY editImageMapButton.label "편집…">
+<!ENTITY editImageMapButton.label "편집...">
 <!ENTITY editImageMapButton.tooltip "그림에 핫스팟을 만듭니다.">
 <!-- These are the options for image alignment -->
 <!ENTITY alignment.label "그림에 텍스트 맞춤">
@@ -91,9 +91,10 @@
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "링크된 그림에 테두리 보이기">
 <!ENTITY showImageLinkBorder.accessKey "B">
-<!ENTITY LinkAdvancedEditButton.label	"링크 상세보기…">
+<!ENTITY LinkAdvancedEditButton.label "고급 편집기 연결…">
 <!ENTITY LinkAdvancedEditButton.accessKey "L">
-<!ENTITY LinkAdvancedEditButton.tooltip	"HTML 속성, 스타일 속성 및 JavaScript 을 추가 또는 편집합니다">
+<!ENTITY LinkAdvancedEditButton.tooltip "HTML 속성 및 스타일 속성 그리고 자바스크립트 변경 및 추가">
+
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "폼">
 <!ENTITY imageLocationTab.label "위치">

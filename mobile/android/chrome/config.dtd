@@ -1,12 +1,3 @@
-<!ENTITY empty.label            "검색">
-<!ENTITY newpref.label          "새 환경설정  추가하기">
-<!ENTITY addpref.name           "이름">
-<!ENTITY addpref.value          "값">
-
-<!ENTITY cancel.label           "취소">
-<!ENTITY reset.label            "리셋">
-<!ENTITY done.label             "완료">
-
-<!ENTITY integer.label          "정수">
-<!ENTITY string.label           "문자열">
-<!ENTITY boolean.label          "불">
+<!ENTITY search.placeholder2    "설정 검색">
+<!ENTITY clear.altText          "지우기">
+<!ENTITY newpref.label2         "새 설정 추가">

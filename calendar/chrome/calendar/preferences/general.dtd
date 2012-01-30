@@ -49,3 +49,7 @@
 <!ENTITY pref.defaultlength.accesskey "E">
 <!ENTITY pref.defaultsnoozelength.label "기본 대기 시간:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "S">
+
+<!ENTITY pref.accessibility.label "접근성" >
+<!ENTITY pref.systemcolors.label "시스템 색상 최적화" >
+<!ENTITY pref.systemcolors.accesskey "c">

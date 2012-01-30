@@ -26,6 +26,7 @@
 <!ENTITY forwardTo.label "메시지 전달 위치:">
 <!ENTITY replyWithTemplate.label "템플릿으로 회신:">
 <!ENTITY markMessageRead.label "읽음으로 표시">
+<!ENTITY markMessageUnread.label	"읽지 않음 표시">
 <!ENTITY markMessageStarred.label "별표 추가">
 <!ENTITY setPriority.label "중요도 설정">
 <!ENTITY setJunkScore.label "스팸 상태 설정:">

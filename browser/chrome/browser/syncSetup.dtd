@@ -1,7 +1,7 @@
 <!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; 설정">
 
 <!-- First page of the wizard -->
-<!ENTITY setup.pickSetupType.description "환영합니다. &syncBrand.fullName.label;를 처음 이용하시면, 계정을 먼저 만드십시오.">
+<!ENTITY setup.pickSetupType.description2 "환영합니다! &syncBrand.fullName.label;를 처음 이용하시면, 계정을 먼저 만드십시오.">
 <!ENTITY button.createNewAccount.label "새 계정 만들기">
 <!ENTITY button.haveAccount.label      "계정 있음">
 <!ENTITY setup.choicePage.title.label     "&syncBrand.fullName.label; 사용해 보신 적이 있으십니까?">
@@ -92,6 +92,9 @@
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "환경 설정">
 <!ENTITY engine.prefs.accesskey     "S">
+<!ENTITY engine.addons.label        "부가 기능">
+<!ENTITY engine.addons.accesskey    "A">
+
 
 <!ENTITY choice2.merge.main.label      "PC 자료와 &syncBrand.shortName.label; 사이 병합하기">
 <!ENTITY choice2.merge.recommended.label "추천 항목:">

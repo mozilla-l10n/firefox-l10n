@@ -20,7 +20,8 @@
 <!ENTITY aboutSupport.appBasicsBuildConfig "빌드 설정">
 <!ENTITY aboutSupport.appBasicsUserAgent "사용자 에이전트">
 <!ENTITY aboutSupport.appBasicsCrashIDs "문제점 보고서">
-<!ENTITY aboutSupport.appBasicsMemoryUse	"메모리 사용량">
+<!ENTITY aboutSupport.appBasicsMemoryUse "메모리 사용">
+
 <!ENTITY aboutSupport.show.label "폴더 열기">
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
