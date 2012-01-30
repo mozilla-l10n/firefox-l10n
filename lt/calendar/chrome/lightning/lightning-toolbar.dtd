@@ -1,0 +1,6 @@
+<!ENTITY lightning.toolbar.calendar.name "Kalendoriaus juosta">
+<!ENTITY lightning.toolbar.calendar.accesskey "K">
+<!ENTITY lightning.toolbar.task.name "Darbų juosta">
+<!ENTITY lightning.toolbar.task.accesskey "D">
+
+<!ENTITY lightning.toolbar.sync.label "Sinchronizuoti">
