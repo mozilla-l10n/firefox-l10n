@@ -52,6 +52,8 @@
 <!ENTITY pref_remember_signons "Recorda les contrasenyes">
 <!ENTITY pref_cookies "Habilita les galetes">
 <!ENTITY pref_char_encoding "Mostra la codificació">
+<!ENTITY pref_char_encoding_on "Mostra el menú">
+<!ENTITY pref_char_encoding_off "No mostris el menú">
 <!ENTITY pref_clear_history "Neteja l\'historial">
 <!ENTITY pref_clear_history_confirm "Es suprimirà l\'historial de navegació">
 <!ENTITY pref_clear_private_data "Neteja les dades privades">
@@ -67,11 +69,13 @@
 <!ENTITY pref_font_size_large "Grossa">
 <!ENTITY pref_font_size_xlarge "Molt grossa">
 <!ENTITY pref_use_master_password "Contrasenya mestra">
+<!ENTITY pref_sync "Sincronitza">
 
 <!ENTITY quit "Surt">
 
 <!ENTITY addons "Complements">
 <!ENTITY downloads "Baixades">
+<!ENTITY char_encoding "Codificació dels caràcters">
 
 <!ENTITY share "Comparteix">
 <!ENTITY save_as_pdf "Desa com a PDF">
@@ -98,8 +102,8 @@
 <!ENTITY abouthome_addons_browse "Mostra tots els complements del &brandShortName;">
 <!ENTITY abouthome_last_tabs_title "Les pestanyes de l\'última vegada">
 <!ENTITY abouthome_last_tabs_open "Obre totes les pestanyes de l\'última vegada">
-<!ENTITY abouthome_top_sites_title "Els millors llocs">
-<!ENTITY abouthome_top_sites_browse "Mostra tots els vostres millors llocs">
+<!ENTITY abouthome_top_sites_title "Els vostres llocs">
+<!ENTITY abouthome_top_sites_browse "Mostra\'m els meus llocs més habituals">
 <!ENTITY abouthome_no_top_sites "Encara no teniu cap lloc seleccionat. Toqueu la barra del títol per seleccionar-lo.">
 <!ENTITY abouthome_about_sync "Configureu el Firefox Sync per accedir a les adreces d\'interès, l\'historial i les pestanyes dels altres dispositius que teniu">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
