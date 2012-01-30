@@ -36,8 +36,10 @@
 
 <!ENTITY window.title "පිළිබඳ:මානකරණය">
 
-<!ENTITY filterPrefs.label "පෙරහන:">
-<!ENTITY filterPrefs.accesskey "I">
+<!ENTITY searchPrefs.label "සෙවීම:">
+<!ENTITY searchPrefs.accesskey "r">
+<!ENTITY focusSearch.key "r">
+
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "මනාප නමය">
@@ -75,4 +77,3 @@
 <!ENTITY copyPref.key "C">
 <!ENTITY copyPref.label "පිටපත් කරන්න">
 <!ENTITY copyPref.accesskey "C">
-<!ENTITY focusFilter.key "f">

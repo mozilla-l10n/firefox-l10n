@@ -3,6 +3,9 @@
 
 <!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; දැන් භාවිතයට ඇති ප්ලගීන සොයමින්...">
 
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "බිඳවැටුම් වාර්තාව යවන්න">
+
 <!ENTITY pluginWizard.availablePluginsPage.title             "ලබා ගැනීමට හැකි ප්ලගීන">
 <!ENTITY pluginWizard.availablePluginsPage.description.label "පහත ප්ලගීන ඇත:">
 <!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "මෙම ප්ලගීන ස්ථාපනයට මීළඟට ක්ලික් කරන්න.">
@@ -36,5 +39,4 @@
 <!ENTITY reloadPlugin.post " නැවත උත්සාහ කිරීමට.">
 <!ENTITY report.submitting "වාර්තාව යවයි…">
 <!ENTITY report.submitted "බිඳවැටුම් වාර්තාව යවන ලදී.">
-<!ENTITY report.checkbox                                     "…සහ බිඳවැටුම් වාර්තාව යවන්න">
 

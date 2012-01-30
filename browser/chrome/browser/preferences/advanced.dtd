@@ -32,6 +32,7 @@
 <!ENTITY connectionSettings.label        "සැකසුම්...">
 <!ENTITY connectionSettings.accesskey    "e">
 
+<!ENTITY httpCache.label                 "කෑෂ් ගතකළ වෙබ් අන්තර්ගතය">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
@@ -89,13 +90,14 @@
 <!ENTITY checkNow.accesskey              "N">
 <!ENTITY clearCacheNow.label             "දැන් හිස් කරන්න">
 <!ENTITY clearCacheNow.accesskey         "C">
+<!ENTITY overrideSmartCacheSize.label    "ස්වයංක්‍රීය කෑෂ් කළමනාකරණය ඉක්මවා යන්න (Override)">
 
-<!ENTITY offlineAppsList.label           "පහත වෙබ් අඩවි නොබැඳිව භාවිතා කිරීම සඳහා දත්ත ස්ථාපනය කර ඇත:">
+<!ENTITY offlineAppsList2.label           "පහත වෙබ් අඩවි නොබැඳිව භාවිතා කිරීම සඳහා දත්ත ස්ථාපනය කර ඇත:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "ඉවත් කරන්න…">
 <!ENTITY offlineAppsListRemove.accesskey "R">
 <!ENTITY offlineAppRemove.confirm        "නොබැඳි දත්ත ඉවත් කරන්න">
-<!ENTITY offlineStorage.label            "නොබැඳි ගබඩාව">
+<!ENTITY offlineStorage2.label            "නොබැඳි ගබඩාව සහ පරිශීලක තොරතුරු">
 <!ENTITY systemDefaults.label            "පද්ධති පෙරනිමිය">
 <!ENTITY verify2.accesskey               "V">
 <!ENTITY verify2.label                   "වලංගුකරණය">
@@ -107,10 +109,10 @@ Entities below were automatically added by compare-locales,
 
 <!ENTITY allowHWAccel.accesskey "h">
 <!ENTITY limitCacheSizeAfter.label "MB ක හිස් ඉඩක්">
-<!ENTITY enableAddonsUpdate3.label "ඇඩෝන">
+
 <!ENTITY limitCacheSizeBefore.accesskey "L">
-<!ENTITY enableAddonsUpdate3.accesskey "n">
-<!ENTITY overrideSmartCacheSize.label "ස්වයංක්‍රීය cache කළමණාකරණයන් ඉක්මවා යන්න">
+<!ENTITY clearOfflineAppCacheNow.label   "දැන් හිස් කරන">
+<!ENTITY clearOfflineAppCacheNow.accesskey "N">
 <!ENTITY submitCrashes.label "බිඳවැටුම් වාර්තා යවන්න">
 <!ENTITY allowHWAccel.label "ඇත්නම් දෘඩාංග වේග-උපාංග (acceleration) භාවිතා කරන්න">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
