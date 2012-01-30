@@ -39,7 +39,9 @@
 <!ENTITY pref_telemetry "Invia dati prestazioni">
 <!ENTITY pref_remember_signons "Ricorda password">
 <!ENTITY pref_cookies "Attiva cookie">
-<!ENTITY pref_char_encoding "Mostra codifica caratteri">
+<!ENTITY pref_char_encoding "Codifica caratteri">
+<!ENTITY pref_char_encoding_on "Visualizza menu">
+<!ENTITY pref_char_encoding_off "Non visualizzare menu">
 <!ENTITY pref_clear_history "Svuota cronologia">
 <!ENTITY pref_clear_history_confirm "La cronologia di navigazione verrà rimossa">
 <!ENTITY pref_clear_private_data "Elimina dati personali">
@@ -55,6 +57,7 @@
 <!ENTITY pref_font_size_large "Grande">
 <!ENTITY pref_font_size_xlarge "Molto grande">
 <!ENTITY pref_use_master_password "Usa password principale">
+<!ENTITY pref_sync "Sync">
 <!ENTITY quit "Esci">
 <!ENTITY addons "Componenti aggiuntivi">
 <!ENTITY downloads "Download">
