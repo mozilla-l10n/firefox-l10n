@@ -217,8 +217,12 @@ can reach it easily. -->
 <!ENTITY inspectButton.label               "Tirti">
 <!ENTITY inspectButton.accesskey           "T">
 <!ENTITY inspectCloseButton.tooltiptext    "Užverti tyriklį">
-<!ENTITY inspect3DButton.label             "3D">
-<!ENTITY inspect3DButton.accesskey         "M">
+
+<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
+  -  alternate view for the Inspector, creating a 3D visualization of the
+  -  webpage. -->
+<!ENTITY inspect3DViewButton.label         "Trimatis vaizdas">
+<!ENTITY inspect3DViewButton.accesskey     "T">
 <!ENTITY inspectStyleButton.label          "Stilius">
 <!ENTITY inspectStyleButton.accesskey      "S">
 

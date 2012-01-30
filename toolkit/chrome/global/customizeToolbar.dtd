@@ -1,5 +1,5 @@
 <!ENTITY dialog.title             "Priemonių juostų tvarkymas">
-<!ENTITY dialog.style             "width: 86ch; height: 36em;">
+<!ENTITY dialog.dimensions        "width: 92ch; height: 36em;">
 <!ENTITY instructions.description "Nuvilkite mygtukus ir elementus į programos lango priemonių juostas.">
 <!ENTITY show.label               "Ant mygtukų rodyti:">
 <!ENTITY iconsAndText.label       "piktogramas ir tekstą">
