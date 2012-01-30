@@ -147,6 +147,9 @@
      the messages and that there is a hotkey they can press to get to the
      box faster.
      -->
+<!ENTITY quickFilterBar.qfbShowFilterBar.label
+         "ක්ෂණික පෙරහන">
+
 <!ENTITY quickFilterBar.textbox.emptyText.base
          "මෙම ලිපි පෙරහන් කරන්න... #1">
 
