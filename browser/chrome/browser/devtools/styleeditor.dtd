@@ -19,14 +19,6 @@
 <!ENTITY importButton.tooltip "Flytja inn og bæta við stílblaði við síðuna">
 <!ENTITY importButton.accesskey "i">
 <!ENTITY importButton.commandkey "i">
-<!ENTITY searchInput.tooltip "Sía stílblöð eftir nafni">
-<!ENTITY searchInput.placeholder "Finna stílblað">
-<!-- LOCALIZATION NOTE  (searchNoResults): This is shown when searching a term
-     that is not found in any stylesheet or stylesheet name. -->
-<!ENTITY searchNoResults.label "Ekkert stílblað fannst sem passaði.">
-<!-- LOCALIZATION NOTE  (searchClearButton): This button clears the search input
-     box and is visible only when a search term has been typed. -->
-<!ENTITY searchClearButton.label "Hreinsa">
 <!ENTITY visibilityToggle.tooltip "Sýna/fela stílblað">
 <!ENTITY visibilityToggle.accesskey "V">
 <!ENTITY saveButton.label "Vista">
@@ -49,3 +41,5 @@
 <!ENTITY noStyleSheet-tip-action.label "bæta við nýju stílblaði">
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-end.label): End of the tip sentence -->
 <!ENTITY noStyleSheet-tip-end.label "?">
+<!-- LOCALIZATION NOTE  (closeCmd.key): Accel + this key closes the window. -->
+<!ENTITY closeCmd.key "W">
