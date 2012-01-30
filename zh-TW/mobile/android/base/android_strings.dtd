@@ -51,7 +51,9 @@
 <!ENTITY pref_telemetry "傳送效能資料">
 <!ENTITY pref_remember_signons "記住密碼">
 <!ENTITY pref_cookies "啟用 Cookie">
-<!ENTITY pref_char_encoding "顯示字元編碼">
+<!ENTITY pref_char_encoding "語言及字元編碼">
+<!ENTITY pref_char_encoding_on "顯示選單">
+<!ENTITY pref_char_encoding_off "不顯示選單">
 <!ENTITY pref_clear_history "清除歷史紀錄">
 <!ENTITY pref_clear_history_confirm "將會刪除瀏覽紀錄">
 <!ENTITY pref_clear_private_data "清除隱私資訊">
@@ -67,11 +69,13 @@
 <!ENTITY pref_font_size_large "大">
 <!ENTITY pref_font_size_xlarge "特大">
 <!ENTITY pref_use_master_password "使用主控密碼">
+<!ENTITY pref_sync "Sync">
 
 <!ENTITY quit "離開">
 
 <!ENTITY addons "附加元件">
 <!ENTITY downloads "下載">
+<!ENTITY char_encoding "語言及字元編碼">
 
 <!ENTITY share "分享">
 <!ENTITY save_as_pdf "儲存為 PDF">
