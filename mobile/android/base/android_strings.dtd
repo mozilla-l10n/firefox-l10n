@@ -50,7 +50,9 @@
 <!ENTITY pref_telemetry "Siųsti našumo ataskaitas">
 <!ENTITY pref_remember_signons "Įsiminti slaptažodžius">
 <!ENTITY pref_cookies "Leisti įrašyti slapukus">
-<!ENTITY pref_char_encoding "Rodyti naudojamą koduotę">
+<!ENTITY pref_char_encoding "Simbolių koduotė">
+<!ENTITY pref_char_encoding_on "Rodyti meniu">
+<!ENTITY pref_char_encoding_off "Nerodyti meniu">
 <!ENTITY pref_clear_history "Valyti žurnalą">
 <!ENTITY pref_clear_history_confirm "Bus išvalytas naršymo žurnalas">
 <!ENTITY pref_clear_private_data "Valyti privačius duomenis">
@@ -66,11 +68,13 @@
 <!ENTITY pref_font_size_large "Dideli">
 <!ENTITY pref_font_size_xlarge "Ypač dideli">
 <!ENTITY pref_use_master_password "Naudoti pagrindinį slaptažodį">
+<!ENTITY pref_sync "Sinchronizavimas">
 
 <!ENTITY quit "Baigti darbą">
 
 <!ENTITY addons "Priedai">
 <!ENTITY downloads "Atsiuntimai">
+<!ENTITY char_encoding "Simbolių koduotė">
 
 <!ENTITY share "Dalintis tinklalapiu">
 <!ENTITY save_as_pdf "Įrašyti PDF formatu">
