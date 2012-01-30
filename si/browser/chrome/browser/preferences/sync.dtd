@@ -26,6 +26,9 @@ Entities below were automatically added by compare-locales,
 <!ENTITY myRecoveryKey.label	"මගේ ප්‍රතිසාධන යතුර (Recovery Key)">
 <!ENTITY engine.passwords.label "රහස්පද">
 <!ENTITY engine.prefs.label "මනාපයන්">
+<!ENTITY engine.addons.label        "ඇඩෝන">
+<!ENTITY engine.addons.accesskey    "A">
+
 <!ENTITY weaveDesc.label "ඔබගේ සියළු උපාංග තුළ පෙරදෑ, පිටුසළකුණු, රහස්පද, සහ විවෘත කළ ටැබ් වෙත ප්‍රවේශ වීමට &syncBrand.fullName.label; lඉඩ ලබා දේ.">
 <!ENTITY engine.prefs.accesskey "S">
 <!ENTITY engine.tabs.label "ටැබ්">

@@ -2,6 +2,10 @@
 <!-- Only displayed in the selected Add-on's context menu -->
 <!ENTITY cmd.about.accesskey              "A">
 
+<!-- LOCALIZATION NOTE (search.commandKey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
+
 <!-- Status Messsages -->
 <!ENTITY eula.title                       "අවසන් පරිශීලක බලපත්‍ර ගිවිසුම">
 <!ENTITY eula.width                       "560px">

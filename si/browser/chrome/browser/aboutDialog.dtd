@@ -1,11 +1,18 @@
 <!ENTITY aboutDialog.title      "&brandFullName; පිළිබඳ">
-<!--<!ENTITY copyrightInfo          "&#169;1998-2008 දායකයින්. සියලු හිමිකම් ඇවිරිණි. Firefox සහ 
-                                 Firefox ලාංඡනය Mozilla පදනමේ වෙළඳ සලකුණු වේ.  සියලු හිමිකම් ඇවිරිණි.">-->
 
-<!--
-Entities below were automatically added by compare-locales,
- based on en-US entities.
--->
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+<!ENTITY warningDesc.version        "&brandShortName; is experimental and may be unstable.">
+<!-- LOCALIZATION NOTE (warningDesc.telemetry): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetry      "It automatically sends test information back to &vendorShortName; to help make &brandShortName; better.">
+
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+<!ENTITY community.exp.start        "">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+<!ENTITY community.exp.middle       "යනු">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "ගෝලීය සමූහයකි">
+<!ENTITY community.exp.end          " එය අන්තර්ජාලය විවෘත, පොදු, සහ සියල්ලන්ටම ප්‍රවේශ වීමට හැකි ලෙස පවත්වා ගැනීමට එක්ව වැඩ කරයි.">
 
 <!ENTITY update.failed.end "">
 <!ENTITY update.noUpdatesFound "&brandShortName; යාවත්කාලීනයි">
@@ -20,7 +27,7 @@ Entities below were automatically added by compare-locales,
 <!ENTITY contribute.end "">
 <!ENTITY update.failed.linkText "නවතම නිකුතුව බාගත කරන්න">
 <!ENTITY update.adminDisabled "පද්ධති පරිපාලක විසින් යාවත්කාලීන කිරීම අබල (disable) කර ඇත">
-<!ENTITY community.end2 " අන්තර්ජාලය වඩාත් හොඳ කරනු පිණිස වැඩකරන අපි එය විවෘත, පොදු, සහ සීමාවන්ගෙන් තොරව සියල්ලන්ටම ප්‍රවේශ වීමට හැකිවිය යුතු බව විශ්වාස කරන්නෙමු.">
+<!ENTITY community.end3 "අන්තර්ජාලය විවෘත, පොදු, සහ සියල්ලන්ටම ප්‍රවේශ වීමට හැකි ලෙස පවත්වා ගැනීමට එක්ව වැඩ කරන්නෙමු.">
 <!ENTITY contribute.start "ඉතාමත්ම සිත්ගන්නා සුළුයි? ">
 <!ENTITY community.creditsLink "විශ්ව ප්‍රජාව">
 <!ENTITY bottomLinks.privacy "පෞද්ගලිකත්ව ප්‍රතිපත්තිය">

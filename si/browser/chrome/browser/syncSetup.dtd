@@ -25,7 +25,7 @@
 <!ENTITY choice2.client.main.label "මෙම පරිගණකයේ ඇති සියළු දත්ත &syncBrand.shortName.label; මඟින් ප්‍රතිස්ථාපනය (replace) කරන්න">
 <!ENTITY button.syncKeyBackup.save.label "සුරකින්න…">
 <!ENTITY server.label "සේවාදායකය">
-<!ENTITY setup.pickSetupType.description "සාදරයෙන් පිළිගනිමු, මීට පෙර කවදාවත් ඔබ &syncBrand.fullName.label; භාවිතා කර නැත්නම්, ඔබට නව ගිණුමක් සාදන්නට සිදුවනු ඇත.">
+<!ENTITY setup.pickSetupType.description2 "සාදරයෙන් පිළිගනිමු, මීට පෙර කවදාවත් ඔබ &syncBrand.fullName.label; භාවිතා කර නැත්නම්, ඔබට නව ගිණුමක් සාදන්නට සිදුවනු ඇත.">
 <!ENTITY setup.choicePage.new.label "මීට පෙර කිසි දිනෙක &syncBrand.shortName.label; භාවිතා කර නැත">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
 <!ENTITY serverType.custom2.label "රිසිකරණ සේවාදායකයක් භාවිතා කරන්න">
@@ -95,3 +95,5 @@ Entities below were automatically added by compare-locales,
 
 <!ENTITY setup.choosePassword.label "රහස්පදයක් තෝරන්න">
 <!ENTITY setup.choosePassword.accesskey "P">
+<!ENTITY engine.addons.label        "ඇඩෝන">
+<!ENTITY engine.addons.accesskey    "A">
