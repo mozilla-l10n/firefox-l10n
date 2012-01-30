@@ -23,7 +23,7 @@
 <!ENTITY aboutSupport.appBasicsCrashIDs "Relatórios de erros">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Utilização da memória">
 
-<!ENTITY aboutSupport.show.label "Abrir pasta de conteúdos">
+<!ENTITY aboutSupport.showDir.label "Abrir pasta">
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.show.label.  This allows us to use the preferred
