@@ -51,7 +51,9 @@
 <!ENTITY pref_telemetry                  "Saadetakse sooritusvõimsuse andmeid">
 <!ENTITY pref_remember_signons           "Paroolid peetakse meeles">
 <!ENTITY pref_cookies                    "Küpsised lubatakse">
-<!ENTITY pref_char_encoding              "Kuvatakse kodeeringut">
+<!ENTITY pref_char_encoding              "Kodeeringu valik">
+<!ENTITY pref_char_encoding_on           "kuvatakse menüüs">
+<!ENTITY pref_char_encoding_off          "ei kuvata menüüs">
 <!ENTITY pref_clear_history              "Ajaloo kustutamine">
 <!ENTITY pref_clear_history_confirm      "Lehitsemise ajalugu kustutatakse">
 <!ENTITY pref_clear_private_data         "Privaatsete andmete kustutamine">
@@ -67,11 +69,13 @@
 <!ENTITY pref_font_size_large            "suur">
 <!ENTITY pref_font_size_xlarge           "väga suur">
 <!ENTITY pref_use_master_password        "Kasutatakse ülemparooli">
+<!ENTITY pref_sync                       "Sync">
 
 <!ENTITY quit                            "Välju">
 
 <!ENTITY addons                          "Lisad">
 <!ENTITY downloads                       "Allalaadimised">
+<!ENTITY char_encoding                   "Kodeering">
 
 <!ENTITY share                           "Jaga">
 <!ENTITY save_as_pdf                     "Salvesta PDFina">
