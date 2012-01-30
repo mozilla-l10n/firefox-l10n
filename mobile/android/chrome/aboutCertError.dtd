@@ -19,12 +19,12 @@ was trying to connect. -->
 <!ENTITY certerror.getMeOutOfHere.label "Odpelji me na domačo stran!">
 
 <!ENTITY certerror.expert.heading "Razumem tveganje">
-<!ENTITY certerror.expert.content "Če ste razumeli, za kaj gre, 
-lahko poveste &brandShortName;, da identifikaciji te strani lahko zaupa.
-<b>Tudi če zaupate spletni strani, bi lahko ta napaka pomenila, da je nekdo
+<!ENTITY certerror.expert.content "Če ste razumeli za kaj gre, 
+lahko brskalniku &brandShortName; sporočite, da zaupa identiteti te strani.
+<b>Tudi če zaupate spletni strani, bi lahko ta napaka pomenila, da nekdo
 brez dovoljenja spreminja vašo povezavo.</b>">
 <!ENTITY certerror.expert.contentPara2 "Ne dodajajte izjeme, razen če
-veste dober razlog za to, da ta stran ne uporablja zaupanja vredne identifikacije.">
+poznate dober razlog, zakaj stran ne uporablja zaupanja vredne identifikacije.">
 <!ENTITY certerror.addTemporaryException.label "Obišči stran">
 <!ENTITY certerror.addPermanentException.label "Dodaj stalno izjemo">
 
