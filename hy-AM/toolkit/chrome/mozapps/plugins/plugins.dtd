@@ -73,8 +73,8 @@
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "Վերբեռնել էջը">
 <!ENTITY reloadPlugin.post                                   " կրկին փորձելու համար:">
-<!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.checkbox                                     "…and send crash report">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "Send crash report">
 <!ENTITY report.submitting                                   "Զեկույցն ուղարկվում է…">
 <!ENTITY report.submitted                                    "Վթարի զեկույցը ուղարկված է:">
 <!ENTITY report.disabled                                     "Վթարի զեկուցումը անջատված է:">
