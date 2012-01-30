@@ -39,7 +39,9 @@
 <!ENTITY pref_telemetry "Включить телеметрию">
 <!ENTITY pref_remember_signons "Запоминать пароли">
 <!ENTITY pref_cookies "Включить куки">
-<!ENTITY pref_char_encoding "Показывать кодировку">
+<!ENTITY pref_char_encoding "Кодировка">
+<!ENTITY pref_char_encoding_on "Показывать меню">
+<!ENTITY pref_char_encoding_off "Скрывать меню">
 <!ENTITY pref_clear_history "Очистить историю">
 <!ENTITY pref_clear_history_confirm "История веб-сёрфинга будет очищена">
 <!ENTITY pref_clear_private_data "Удалить мои данные">
@@ -55,9 +57,11 @@
 <!ENTITY pref_font_size_large "Большой">
 <!ENTITY pref_font_size_xlarge "Огромный">
 <!ENTITY pref_use_master_password "Задать мастер-пароль">
+<!ENTITY pref_sync "Синхронизация">
 <!ENTITY quit "Выход">
 <!ENTITY addons "Дополнения">
 <!ENTITY downloads "Загрузки">
+<!ENTITY char_encoding "Кодировка">
 <!ENTITY share "Поделиться">
 <!ENTITY save_as_pdf "Сохранить как PDF">
 <!ENTITY contextmenu_open_new_tab "Открыть в новой вкладке">
