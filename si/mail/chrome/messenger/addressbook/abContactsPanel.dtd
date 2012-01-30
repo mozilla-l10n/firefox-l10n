@@ -6,6 +6,7 @@
 <!ENTITY SearchNameOrEmail.label            "නම හෝ වි.තැ. ලිපිනය">
 
 <!ENTITY deleteAddrBookCard.label           "මකන්න">
+<!ENTITY deleteAddrBookCard.accesskey       "D">
 <!ENTITY addrBookCardProperties.label       "ලක්ෂණ">
 <!ENTITY addrBookCardProperties.accesskey   "P">
 <!ENTITY addtoToFieldMenu.label             "ලබන්නා තීරුවට යවන්න">
