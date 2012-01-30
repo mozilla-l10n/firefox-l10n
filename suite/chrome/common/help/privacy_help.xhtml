@@ -1,235 +1,220 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-<meta http-equiv="Content-Language" content="lt">
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1257">
-<title>Privatumas internete</title>
+<?xml version="1.0" encoding="utf-8"?>
 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"[
+  <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd" >
+  %brandDTD;
+]>
 
-<link rel="stylesheet" href="chrome://help/locale/content_style.css" type="text/css"></head>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Privacy on the Internet</title>
+<link rel="stylesheet" href="helpFileLayout.css"
+  type="text/css"/>
+</head>
 <body>
 
+<h1 id="using_privacy_features">Using Privacy Features</h1>
 
-<div class="boilerplate">
-<div class="boilerplate">Šį žinyno skyrių pateikė bendrovė „Netscape“. Tai
-tik informacija, kuri galėtų pagelbėti tiems, kas rūpinasi duomenų saugumu
-internete. Jis neaprėpia visų saugumo aspektų dirbant tinkle ir nelaikytinas
-bendrovės „Netscape“ saugumo internete rekomendacijomis.</div>
+<p>Your browser includes features you can use to enhance the privacy and
+  security of your personal information. The sections that follow describe how
+  your browser can help you control cookies, passwords, and images while you
+  are surfing the Internet.</p>
+
+<p>For information about related &brandShortName; security features, see
+  <a href="mailnews_security.xhtml">Signing &amp; Encrypting Messages</a> and
+  <a href="using_certs_help.xhtml">Using Certificates</a>.</p>
+
+<div class="contentsBox">Privacy topics:
+  <ul>
+    <li><a href="#privacy_on_the_internet">Privacy on the Internet</a></li>
+    <li><a href="using_priv_help.xhtml#using_the_cookie_manager">Using the
+      Cookie Manager</a></li>
+    <li><a href="using_priv_help.xhtml#using_the_password_manager">Using the
+      Password Manager</a></li>
+    <li><a href="using_priv_help.xhtml#encrypting_stored_sensitive_information">Encrypting
+      Stored Sensitive Information</a></li>
+    <li><a href="using_priv_help.xhtml#managing_images">Managing Images</a></li>
+    <li><a href="cs_priv_prefs_popup.xhtml#controlling_popups">Controlling Popups</a></li>
+    <li><a href="privsec_help.xhtml">Privacy &amp; Security Preferences</a></li>
+  </ul>
 </div>
 
-<a name="privacy:protectingIDX"></a>
-<hr><a name="using_maintain"></a>
-<h1><span lang="lt">Privatumo saugumo tvarkymas</span></h1>
+<h1 id="privacy_on_the_internet">Privacy on the Internet</h1>
 
-<p>Naršyklė <i>Mozilla</i> turi priemonių, kuriomis pasinaudojus galima 
-patikimiau apsaugoti slaptą asmeninę informaciją. Čia aprašoma, 
-kaip naršyklė gali pasitarnauti tvarkant saityno slapukus, slaptažodžius, 
-formas bei paveikslus.</p><p>Kai kurios saityno svetainės privatumui taiko P3P 
-standartą. Norėdami sužinoti, kaip suderinti naršyklę, naudojančią šį standartą, 
-žr. <a href="using_priv_help.html#privacy_levels">Privatumo lygio 
-nustatymas</a>.</p>
+<p>This section summarizes some background information about privacy on the
+  Internet. It also describes several things you can do to help safeguard your
+  own privacy. It is not intended to provide a complete description of Internet
+  privacy issues.</p>
 
-<p>Daugiau informacijos žr. sk. <a href="mail_sec_help.html">Pranešimų pasirašymas ir 
-šifravimas</a> ir <a href="using_certs_help.html">Liudijimų naudojimas</a>.</p>
+<div class="contentsBox">In this section:
+  <ul>
+    <li><a href="#what_information_does_my_browser_give_to_a_web_site">What
+      Information Does My Browser Give to a Website?</a></li>
+    <li><a href="#what_are_cookies_and_how_do_they_work">What Are Cookies, and
+      How Do They Work?</a></li>
+    <li><a href="#how_can_i_control_web_pages_in_email_messages">How Can I
+      Control Web Pages in Email Messages?</a></li>
+    <li><a href="#how_can_i_make_sure_unauthorized_people_dont_use_information_about_me">How
+      Can I Make Sure Unauthorized People Don&apos;t Use Information About
+      Me?</a></li>
+    </ul>
+</div>
 
-<p>Bendro pobūdžio informacijos apie privatumą bei saugumą, įskaitant virusų 
-aprašymus, saugų apsipirkimą saityne, vaikų naršymo ribojimą, galima rasti 
-tinklalapyje
-<a href="http://home.netscape.com/security/basics/index.html?cp=sciln">Saugumo 
-samprata</a> (anglų kalba).</p>
+<h2 id="what_information_does_my_browser_give_to_a_web_site">What Information
+  Does My Browser Give to a Website?</h2>
 
-<table cellpadding="4" cellspacing="2" bgcolor="#cccccc" width="324">
-<tbody><tr>
-<td class="inthissections">
-<p><a href="#sec_maintain">Privatumas saityne</a></p>
-<p><a href="using_priv_help.html#using_cookies">Darbas su slapukais</a></p>
-<p><a href="using_priv_help.html#using_password">Darbas su slaptažodžių tvarkytuve</a></p>
-<p><a href="using_priv_help.html#using_forms">Formų tvarkytuvės naudojimas</a></p>
-<p><a href="using_priv_help.html#using_encrypt">Įrašomos slaptos informacijos šifravimas</a>
-</p><p><a href="using_priv_help.html#managing_images">Paveikslų tvarkymas</a></p>
-<p><a href="privsec_help.html">Privatumo ir saugumo taisyklės</a></p>
+<p>When your browser displays a web page&mdash;for example, each time you click
+  a link or type a URL, or when a web page is displayed in an email
+  message&mdash;it gives certain kinds of information to the website. This
+  information may include (but is not limited to) your operating environment,
+  your Internet address, and the page you&apos;re coming from.</p>
 
-</td>
-</tr>
-</tbody></table>
+<h3>Operating Environment</h3>
 
-<p> </p>
-<a name="privacy:aboutIDX"></a>
-<hr><a name="sec_maintain"></a>
-<h1>Privatumas saityne</h1>
+<p>The website is told something about your operating environment, such as your
+  browser type and operating system. This helps the website present the page in
+  the best way for your screen. For example, the website might learn that you
+  use the French version of SeaMonkey 2.1 on a Windows 2000 computer.</p>
 
-<p>Šiame skyriuje pateikiama apibendrinta informacija apie privatumą saityne.
-Taip pat čia rašoma, kaip užtikrinti savo privatumą saityne. Tačiau tai nėra išsami privatumo saityne studija.</p>
+<h3 id="internet_address">Internet Address</h3>
 
-<table cellpadding="4" cellspacing="2" bgcolor="#cccccc" width="324">
-<tbody><tr>
-<td class="inthissections">
-<p><a href="#privacy_visit">Kokią informaciją naršyklė pateikia lankomai 
-svetainei?</a></p>
-<p><a href="#privacy_cookies">Kas yra slapukai ir kaip jie veikia?</a></p>
-<p><a href="#privacy_email">Kaip valdyti saityno tinklalapius
-elektroniniuose laiškuose?</a></p>
-<p><a href="#privacy_unauth">Kaip daryti, kad informacija nepatektų pašaliniams?</a></p></td>
-</tr>
-</tbody></table>
+<p>Your browser must tell the website your Internet address (also known as the
+  Internet Protocol, or IP address) so the website knows where to send the page
+  you are requesting. The website can&apos;t present the page you want to see
+  unless it knows your IP address.</p>
 
-<p> </p>
-<a name="privacy_visit"></a>
-<a name="privacy_&amp;_IP_addressSDX"></a>
-<h2>Kokią informaciją naršyklė pateikia lankomai svetainei?</h2>
+<p>Your IP address can be either temporary or fixed (static).</p>
 
-<p>Kai naršyklė rodo tinklalapį, pavyzdžiui, spustelėjus nuorodą, įvedus
-URL ar žiūrint tinklalapį iš elektroninio laiško, kiekvienu atveju svetainei
-siunčiami tam tikri duomenys. Iš jų svetainė sužino apie Jūsų naudojamą
-operacinę terpę, IP adresą, iš kur atėjote į lankomą svetainę ir kitą informaciją.</p>
+<p>If you connect to the Internet through a standard modem that&apos;s attached
+  to your phone line, then your Internet service provider (ISP) may assign you
+  a temporary IP address each time you log on. You use the temporary IP address
+  for the duration of your Internet session&mdash;for example, until you sign
+  off or hang up your dial-up connection, or otherwise end your computer&apos;s
+  live connection with the Internet. Each ISP has many IP addresses, and they
+  assign the addresses at random to users.</p>
 
-<h3>Operacinė terpė</h3>
+<p>If you have DSL, a cable modem, or a fiber-optic connection, you may have a
+  fixed IP address that you use every time you connect.</p>
 
-<p>Svetainei siunčiama informacija apie operacinę terpę, t. y. naršyklės 
-tipą bei operacinę sistemą. Tai padeda priderinti tinklalapį Jūsų kompiuterio ekranui. 
-Taigi svetainė gali sužinoti, kad naudojatės, pavyzdžiui, prancūziška „Netscape“ 6.2.3 
-versija kompiuteryje su „Windows 2000“ operacine sistema.</p>
+<p>Your IP address is not the same as your email address.</p>
 
-<a name="ip"></a>
-<h3>IP adresas</h3>
+<h3>Referring Page</h3>
 
-<p>Naršyklė turi pranešti svetainei Jūsų kompiuterio IP adresą, kad 
-svetainė žinotų, kur siųsti pageidaujamą tinklalapį.</p>
-<p>Jūsų IP adresas gali būti dinaminis 
-(kiekvieną kartą prisijungus prie tinklo vis kitoks) arba statinis (visada tas pats). </p>
+<p>The website is also told which page you were reading when you clicked a link
+  to see one of the website&apos;s pages. This allows the website to know which
+  website referred you. Or, as you traverse the website, it allows the website
+  to know which of its pages you came from.</p>
 
-<p>Jei prie tinklo jungiatės per įprastą telefono liniją (modemą), tai veikiausiai
-turite dinaminį (laikiną) IP adresą, kurį Jums paslaugų teikėjo serveris priskiria
-iš naujo kaskart, kai jungiatės prie tinklo toks jis išlieka per visą seansą. Kai jungsitės kitą kartą, serveris priskirs naują adresą,
-atsitiktinai parinktą iš daugelio serverio turimų ir tuo metu esančių laisvų
-adresų.</p>
+<p>[<a href="#privacy_on_the_internet">Return to beginning of section</a>]</p>
 
-<p>Jei prie tinklo jungiatės per DSL, kabelį arba šviesolaidį,
-tikriausiai turite fiksuotą IP adresą, kuris kiekvieną kartą
-prisijungus bus tas pats.</p>
+<h2 id="what_are_cookies_and_how_do_they_work">What Are Cookies, and How Do
+  They Work?</h2>
 
-<p>IP adresas – tai ne tas pats kas elektroninio pašto adresas<span lang="en-us">!</span></p><p> </p>
-<h3>Kreipimosi tinklalapis</h3>
+<p>A cookie is a small bit of information used by some websites. When you
+  visit a website that uses cookies, the website might ask your browser to place
+  one or more cookies on your hard disk.</p>
 
-<p>Svetainei taip pat pranešama, kokį tinklalapį žiūrėjote, kai 
-spustelėjote nuorodą į kurį nors jos tinklalapį. Šitaip svetainė 
-sužino, iš kurio tinklalapio atėjote.</p><p> </p>
-<a name="privacy_cookies"></a>
-<a name="privacy:cookies_andIDX"></a>
-<a name="cookies:aboutIDX"></a>
-<h2>Kas yra slapukai ir kaip jie veikia?</h2>
+<p>Later, when you return to the website, your browser sends back the cookies
+  that belong to the website.</p>
 
-<p>Slapukas – tai mažas duomenų rinkinėlis, kuriame yra svetainės naudojama informacija.
-Kai  aplankote svetainę, kuri naudoja slapukus, ji gali paprašyti naršyklės,
-kad ji įrašytų vieną ar kelis slapukus į Jūsų kompiuterio diską.</p>
+<p>When you are using the default cookie settings, this activity is invisible
+  to you, and you won&apos;t know when a website is setting a cookie or when
+  your browser is sending a website&apos;s cookie back. However, you can set
+  your preferences so that you will be asked before a cookie is set. For
+  information on how to do this, see
+  <a href="using_priv_help.xhtml#cookies">Privacy &amp; Security Preferences -
+    Cookies</a>.</p>
 
-<p>Kai vėliau grįžtate į tą pačią svetainę, naršyklė siunčia slapukus atgal.</p>
-<p>Pradinėse naršyklės nuostatos numatyta, kad darbas su slapukais yra nematomas: slapukai įrašomi bei 
-išsiunčiami be Jūsų žinios. Tačiau galima pakeisti nuostatas, kad naršyklė, 
-prieš įrašydama slapuką, atsiklaustų Jūsų. Nurodymai, kaip tai padaryti, yra 
-skyriuje <a href="using_priv_help.html#privacy_levels">Privatumo lygio 
-nustatymas</a>.</p>
+<h3>How Do Websites Use Cookie Information?</h3>
 
-<p> </p>
-<a name="privacy_how"></a>
-<h3>Kam svetainės naudoja slapukų duomenis?</h3>
+<p>Cookies allow a website to know something about your previous visits. For
+  example, if you typically search for local weather or purchase books at a
+  website, the website may use cookies to remember what city you live in or what
+  authors you like, so it can make your next visit easier and more useful.</p>
 
-<p>Iš slapukų svetainė gali sužinoti apie ankstesnius Jūsų apsilankymus joje. 
-Pavyzdžiui, jei dažnai žiūrite orų prognozes ar saityno 
-parduotuvėje perkate knygas, tai tokia svetainė gali panaudoti slapukus tam, kad į juos įrašytų, 
-kokiame mieste gyvenate, kokius autorius mėgstate, kad kai kitą kartą 
-apsilankysite toje svetainėje, ji iš karto galėtų pateikti Jums reikalingą informaciją.</p>
+<p>Some websites publish privacy policies that describe how they use the
+  information they gather.</p>
 
-<p>Dauguma svetainių turi privatumo nuostatas, kuriose aprašyta, kaip 
-naudojama iš slapukų surinkta informacija.</p>
+<h3 id="what_are_third-party_cookies">What Are Third-Party Cookies?</h3>
 
-<p>Galite susipažinti su svetainės  privatumo taisyklėmis ir sužinoti, kokius duomenis
-renka slapukai, kaip juos svetainė naudoja ir kokias turite galimybes reguliuoti
-jų naudojimą. Kaip tai padaryti, skaitykite sk. <a href="using_priv_help.html#form_forms">Privatumo nuostatų peržiūra</a>. 
+<p>If your browser stores a website&apos;s cookie, it will return the cookie
+  only to that particular website. Your browser will not provide one website
+  with cookies set by another. Since a website can only receive its own cookies,
+  it can learn about your activities while you are at that website but not your
+  activities in general while surfing the Web.</p>
+
+<p>But sometimes a website displays content that is hosted on another website.
+  That content can be anything from an image to text or an advertisement.
+  The other website that hosts such elements also has the ability to store a
+  cookie in your browser, even though you don&apos;t visit the website directly.
 </p>
 
-<p>Informaciją, kaip tvarkyti slapukus naudojantis svetainės pateiktomis privatumo taisyklėmis, 
-rasite sk. <a href="using_priv_help.html#privacy_levels">Privatumo lygių nustatymas</a>. 
-</p>
+<p>Cookies that are stored by a website other than the one you are visiting are
+  called <strong>third-party cookies</strong> or <strong>foreign
+  cookies</strong>. Websites sometimes use third-party cookies with
+  <strong>transparent GIFs</strong>, which are special images that help websites
+  count users, track email responses, learn more about how visitors use the
+  website, or customize your browsing experience. (Transparent GIFs are also
+  known as web beacons or web bugs.)</p>
 
-<p> </p>
-<a name="privacy_foreign"></a>
-<a name="third-party_cookiesSDX"></a>
-<a name="cookies:foreignIDX"></a>
-<h3>Kas yra trečiųjų šalių slapukai?</h3>
+<p>If you want, you can adjust your cookie preferences so that websites can
+  store ordinary cookies but not third-party ones.</p>
 
-<p>Įrašytą slapuką naršyklė leidžia skaityti tik tai 
-svetainei, kuri jį įrašė. Kitos svetainės jo skaityti negali. Kadangi kiekviena svetainė gali skaityti tik savus slapukus, 
-ji negali sužinoti Jūsų veiksmų už jos ribų.</p>
-<p>Kartais dalis tinklalapio priklauso kitai svetainei. Tai gali būti paveikslas, tekstas,
-reklama. Ta, kita svetainė, kuriai priklauso nors vienas tinklalapio elementas,
-gali įrašyti savo slapuką, netgi jei tiesiogiai tos svetainės nelankote.</p>
-<p>Slapukai, įrašyti svetainių, kurių nelankote tiesiogiai, vadinami 
-<i>trečiųjų šalių slapukais</i> arba <i>svetimaisiais slapukais</i>. Svetainės
-kartais  naudoja trečiųjų šalių slapukus su skaidriais GIF paveikslais. Tai
-specialūs nematomi paveikslai, kurie padeda svetainėms skaičiuoti lankytojus,
-sekti pašto atsakymus, sužinoti, ką lankytojai veikia joje. </p>
-<p>Jei pageidaujate, galite nustatyti slapukų nuostatas tokias, kad naršyklė priimtų 
-tik paprastus slapukus, o trečiųjų šalių slapukų neįrašinėtų.</p>
-<p> </p>
-<a name="privacy_email"></a>
-<a name="Mail &amp; Newsgroups:privacy_optionsIDX"></a>
-<a name="cookies:email_andIDX"></a>
-<a name="images:email_andIDX"></a>
-<a name="javascript_in_mailSDX"></a>
-<h2>Kaip valdyti saityno tinklalapius elektroniniuose laiškuose?</h2>
+<p>[<a href="#privacy_on_the_internet">Return to beginning of section</a>]</p>
 
-<p>Galima išjungti slapukus, paveikslus, „JavaScript“ programėles bei
-programų papildinius iš tinklalapių, esančių gautuose laiškuose. Visi šie
-dalykai gali būti naudingi naršant saitynį ir ten visi jie, ar kai
-kurie iš jų, gali būti įjungti. Tačiau jie gali būti ne taip svarbūs,
-kai gaunami su laiškais kaip atskiri tinklalapiai.</p>
+<h2 id="how_can_i_control_web_pages_in_email_messages">How Can I Control Web
+  Pages in Email Messages?</h2>
 
-<p>Jei norite sužinoti, kaip įjungti ir išjungti slapukus, 
-paveikslus, „JavaScript“ programėles, gaunamus elektroniniuose laiškuose, bei programų papildinius skaitykite:</p>
+<p>You can disable cookies, images, and plugins completely (JavaScript is
+  always disabled) for web pages that are received as part of email
+  messages.</p>
+  
+<p>While it may be convenient to enable some or all of these capabilities when
+  you&apos;re browsing the web, they may not be necessary in single web pages
+  sent as attachments to messages.</p>
+
+<p>For information on enabling or disabling cookies, images, and plugins in
+  email messages, see the following sections:</p>
+  
 <ul>
-	<li><a href="using_priv_help.html#cookie_prefs">Privatumo ir saugumo 
-    nuostatos. Slapukai</a>
-	</li><li><a href="using_priv_help.html#using_images">Privatumo ir saugumo 
-    nuostatos. Paveikslai</a>
-	</li><li><a href="cs_nav_prefs_advanced.html#Scripts">Papildomos nuostatos.
-      Scenarijai ir papildiniai</a>  
-</li></ul>
+  <li><a href="using_priv_help.xhtml#cookies">Privacy &amp; Security
+    Preferences - Cookies</a></li>
+  <li><a href="mailnews_preferences.xhtml#message_display">Mail &amp; Newsgroups
+    Preferences - Message Display</a></li>
+  <li><a href="cs_nav_prefs_advanced.xhtml#scripts_and_plugins">Advanced
+    Preferences - Scripts &amp; Plugins</a></li>
+</ul>
 
-<p> </p>
-<a name="privacy_unauth"></a>
-<h2>Ką daryti, kad informacija nepatektų pašaliniams?</h2>
+<p>[<a href="#privacy_on_the_internet">Return to beginning of section</a>]</p>
 
-<p>Geriausias būdas apsaugoti informaciją – perskaityti lankomų svetainių 
-bei naudojamų interneto tarnybų privatumo nuostatas ir būti atsargiems pateikiant asmeninę informaciją į tinklą.</p>
+<h2 id="how_can_i_make_sure_unauthorized_people_dont_use_information_about_me">How
+  Can I Make Sure Unauthorized People Don&apos;t Use Information About Me?</h2>
 
-<p>Saitynas
-yra viešas tinklas. Kai siunčiate savo  asmenvardį, telefono numerį, adresą
-bei kitą informaciją (į saitynį, elektroniniu paštu ar kitaip), kas nors gali
-perimti tuos duomenis.</p>
+<p>The best way to keep your information private is to read the privacy
+  policies for the websites you visit and the Internet services you use, and
+  to be cautious about giving out your personal information online.</p>
 
-<p>Štai keletas dalykų, į kuriuos reikėtų atkreipti dėmesį susipažįstant su svetainės privatumo nuostatomis:</p><ul>
-<li>Kokio tipo asmeninę informaciją renka svetainė?</li><li>Kam bus naudojama 
-svetainės surinkta informacija?</li><li>Ar svetainė dalysis Jūsų informacija su 
-kitais ir ar galima pasirinkti, leisti tai daryti ar ne?</li><li>Ar galima peržiūrėti 
-informaciją, kurią svetainė surinko apie Jus (norint patikrinti ar patikslinti 
-ją)?</li><li>Kaip svetainė apsaugo surinktą informaciją?</li><li>Kokiu būdu galima 
-susisiekti su svetainės vadovybe, jei iškiltų klausimų ar problemų?</li></ul> 
+<p>The Internet is a public network. When you send your name, phone number,
+  address, and other personal information over the network (via a web page,
+  email, or any other method), it is possible that someone else may be able to
+  intercept it.</p>
 
-<p>Kaip sužinoti svetainės privatumo nuostatas, aprašyta sk.
-<a href="using_priv_help.html#form_forms">Privatumo nuostatų peržiūra</a>.</p> 
+<p>Here are some questions you might ask about a website&apos;s privacy
+  policy:</p>
 
-<p> </p>
+<ul>
+  <li>What kinds of personal information is this website gathering?</li>
+  <li>How will the website use the information?</li>
+  <li>Will the website share the information with others and do I have choices
+    regarding the use of any shared information?</li>
+  <li>Can I access some or all of the information a website gathers about me, in
+    order to inspect or update it?</li>
+  <li>How does the website protect the information?</li>
+  <li>How do I contact the website if I have questions or problems?</li>
+</ul>
 
-<a name="privacy_anon"></a>
-<a name="browsing_anonymouslyIDX"></a>
-<a name="privacy:IP_addressIDX"></a>
-<a name="protecting_your_IP_addressSDX"></a>
+<p>[<a href="#privacy_on_the_internet">Return to beginning of section</a>]</p>
 
-<p>
-[ <a href="#using_maintain">Grįžti į skyriaus pradžią</a> ]
-</p>
-<hr>
-
-<p>Copyright © 1998–2003 The Mozilla Foundation.</p>
-<p>© Vertimas į lietuvių kalbą ir adaptavimas. Gintautas Grigas, Tatjana Jevsikova, 2002–2003</p>
-
-</body></html>
+</body>
+</html>
