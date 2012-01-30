@@ -1,8 +1,8 @@
 <!ENTITY position.label "Расположение:">
-<!ENTITY tile.label "Рядом">
+<!ENTITY tile.label "Замостить">
 <!ENTITY center.label "По центру">
 <!ENTITY stretch.label "Растянуть">
-<!ENTITY preview.label "Предварительный просмотр">
+<!ENTITY preview.label "Предпросмотр">
 <!ENTITY color.label "Цвет:">
 <!ENTITY setDesktopBackground.title "Сделать фоном рабочего стола">
 <!ENTITY openDesktopPrefs.label "Открыть настройки рабочего стола">
