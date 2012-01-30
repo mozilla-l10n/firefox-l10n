@@ -53,7 +53,9 @@ Cabhraigh linn, le do thoil, chun an fhadhb a réiteach!">
 <!ENTITY pref_telemetry "Seol sonraí feidhmíochta">
 <!ENTITY pref_remember_signons "Meabhraigh focail fhaire">
 <!ENTITY pref_cookies "Cumasaigh fianáin">
-<!ENTITY pref_char_encoding "Taispeáin an t-ionchódú carachtar">
+<!ENTITY pref_char_encoding "Ionchódú carachtar">
+<!ENTITY pref_char_encoding_on "Taispeáin an roghchlár">
+<!ENTITY pref_char_encoding_off "Ná taispeáin an roghchlár">
 <!ENTITY pref_clear_history "Glan an stair">
 <!ENTITY pref_clear_history_confirm "Scriofar an stair bhrabhsála">
 <!ENTITY pref_clear_private_data "Bánaigh sonraí príobháideacha">
@@ -62,24 +64,26 @@ Cabhraigh linn, le do thoil, chun an fhadhb a réiteach!">
 <!ENTITY pref_plugins_enabled "Cumasaithe">
 <!ENTITY pref_plugins_tap_to_play "Cnap le seinm">
 <!ENTITY pref_plugins_disabled "Díchumasaithe">
-<!ENTITY pref_font_size "Clómhéid">
+<!ENTITY pref_text_size "Méid téacs">
+<!ENTITY pref_font_size_tiny "An-bheag">
 <!ENTITY pref_font_size_small "Beag">
 <!ENTITY pref_font_size_medium "Measartha">
 <!ENTITY pref_font_size_large "Mór">
 <!ENTITY pref_font_size_xlarge "An-mhór">
 <!ENTITY pref_use_master_password "Úsáid príomhfhocal faire">
+<!ENTITY pref_sync "Sync">
 
 <!ENTITY quit "Scoir">
 
 <!ENTITY addons "Breiseáin">
 <!ENTITY downloads "Íosluchtú">
+<!ENTITY char_encoding "Ionchódú Carachtar">
 
 <!ENTITY share "Roinn">
 <!ENTITY save_as_pdf "Sábháil mar PDF">
-<!ENTITY agent_request_desktop "Request Desktop Site">
-<!ENTITY agent_request_mobile "Request Mobile Site">
 
 <!ENTITY contextmenu_open_new_tab "Oscail i gCluaisín Nua">
+<!ENTITY contextmenu_remove_bookmark "Bain">
 <!ENTITY contextmenu_add_to_launcher "Cuir leis an Scáileán Baile">
 <!ENTITY contextmenu_share "Roinn">
 
@@ -95,3 +99,13 @@ Cabhraigh linn, le do thoil, chun an fhadhb a réiteach!">
 
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Cealaigh">
+
+<!ENTITY abouthome_addons_title "Breiseáin le haghaidh &brandShortName;">
+<!ENTITY abouthome_addons_browse "Brabhsáil gach breiseán &brandShortName;">
+<!ENTITY abouthome_last_tabs_title "Do chuid cluaisíní ón uair roimhe seo">
+<!ENTITY abouthome_last_tabs_open "Oscail gach cluaisín ón uair roimhe seo">
+<!ENTITY abouthome_top_sites_title "Barrshuímh">
+<!ENTITY abouthome_top_sites_browse "Brabhsáil na suímh is ansa leat">
+<!ENTITY abouthome_no_top_sites "Níl aon bharrshuímh agat. Cniog an Barra Teidil chun brabhsáil.">
+<!ENTITY abouthome_about_sync "Socraigh Firefox Sync chun do stair, leabharmharcanna, agus cluaisíní a rochtain ar gach gléas atá agat">
+<!ENTITY abouthome_sync_bold_name "Firefox Sync">
