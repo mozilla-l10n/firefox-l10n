@@ -14,8 +14,9 @@
 <!ENTITY aboutSupport.appBasicsUserAgent "User agent">
 <!ENTITY aboutSupport.appBasicsCrashIDs "Segnalazioni di errore">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Utilizzo memoria">
-<!ENTITY aboutSupport.show.label "Apri cartella">
+<!ENTITY aboutSupport.showDir.label "Apri percorso">
 <!ENTITY aboutSupport.showMac.label "Mostra nel Finder">
+<!ENTITY aboutSupport.showWin.label "Mostra cartella">
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Preferenze importanti modificate">
 <!ENTITY aboutSupport.modifiedPrefsName "Nome">
 <!ENTITY aboutSupport.modifiedPrefsValue "Valore">
