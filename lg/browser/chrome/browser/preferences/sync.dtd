@@ -30,6 +30,8 @@
 <!ENTITY engine.passwords.accesskey "E">
 <!ENTITY engine.prefs.label         "Okweroboza">
 <!ENTITY engine.prefs.accesskey     "z">
+<!ENTITY engine.addons.label        "Ebigattibwako">
+<!ENTITY engine.addons.accesskey    "E">
 <!-- Device Settings -->
 
 <!ENTITY syncComputerName.label       "Elinnya lya Kompuuta:">

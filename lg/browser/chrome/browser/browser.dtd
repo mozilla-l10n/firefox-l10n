@@ -217,8 +217,17 @@ can reach it easily. -->
 <!ENTITY inspectButton.label            "Lambula">
 <!ENTITY inspectButton.accesskey        "L">
 <!ENTITY inspectCloseButton.tooltiptext "Galawo Omukebezi">
+<!ENTITY inspect3DButton.label        "3D">
+<!ENTITY inspect3DButton.accesskey    "M">
 <!ENTITY inspectStyleButton.label     "Nkola">
 <!ENTITY inspectStyleButton.accesskey "N">
+<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
+  -  in the Tools menu. -->
+
+<!ENTITY styleeditor.label            "Style Editor">
+<!ENTITY styleeditor.accesskey        "y">
+<!ENTITY styleeditor.keycode          "VK_F7">
+<!ENTITY styleeditor.keytext          "F7">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Funna Ebikola Ebisingawo">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "b">
@@ -421,15 +430,24 @@ can reach it easily. -->
 <!ENTITY thisFrameMenu.label              "Olugo Luno">
 <!ENTITY thisFrameMenu.accesskey          "n">
 <!-- Media (video/audio) controls -->
+<!-- LOCALIZATION NOTE: The access keys for "Play" and
+"Pause" are the same because the two context-menu
+items are mutually exclusive. -->
 
 <!ENTITY mediaPlay.label             "Zzanya">
 <!ENTITY mediaPlay.accesskey         "Z">
 <!ENTITY mediaPause.label            "Wummuzaamu">
 <!ENTITY mediaPause.accesskey        "W">
+<!-- LOCALIZATION NOTE: The access keys for "Mute" and
+"Unmute" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Jjako eddobozi">
 <!ENTITY mediaMute.accesskey         "e">
 <!ENTITY mediaUnmute.label           "Zzako eddobozi">
 <!ENTITY mediaUnmute.accesskey       "e">
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "Laga Ebidukanya">
 <!ENTITY mediaShowControls.accesskey "E">
 <!ENTITY mediaHideControls.label     "Kweka Ebidukanya">
@@ -438,6 +456,9 @@ can reach it easily. -->
 <!ENTITY videoFullScreen.accesskey   "S">
 <!ENTITY videoSaveImage.label        "Tereka Ekifananyi Nga…">
 <!ENTITY videoSaveImage.accesskey    "T">
+<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
+"Hide Statistics" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY videoShowStats.label        "Laaga Embalirira">
 <!ENTITY videoShowStats.accesskey    "m">
 <!ENTITY videoHideStats.label        "Kweka Embalirira">

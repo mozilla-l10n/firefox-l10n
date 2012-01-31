@@ -2,6 +2,8 @@
 <!ENTITY playButton.pauseLabel "Wummuzaamu">
 <!ENTITY muteButton.muteLabel "Jjako eddobozi">
 <!ENTITY muteButton.unmuteLabel "Zzako eddobozi">
+<!ENTITY fullscreenButton.enterfullscreenlabel "Sikulini mu Bujjuvu">
+<!ENTITY fullscreenButton.exitfullscreenlabel "Exit Full Screen">
 
 <!ENTITY stats.media "Mikutu">
 <!ENTITY stats.size "Obunene">
@@ -17,6 +19,13 @@
 <!ENTITY stats.framesDecoded "Fuleemu ezi kyusiddwa">
 <!ENTITY stats.framesPresented "Fuleemu ezi weredwayo">
 <!ENTITY stats.framesPainted "Fuleemu ezisigiddwa">
+
+<!ENTITY error.aborted "Video loading stopped.">
+<!ENTITY error.network "Video playback aborted due to a network error.">
+<!ENTITY error.decode "Video can't be played because the file is corrupt.">
+<!ENTITY error.srcNotSupported "Video format or MIME type is not supported.">
+<!ENTITY error.noSource2 "No video with supported format and MIME type found.">
+<!ENTITY error.generic "Video playback aborted due to an unknown error.">
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be

@@ -4,14 +4,19 @@
 <!ENTITY  no_space_to_start_error "Tewali banga limala &brandShortName; okutandika.">
 <!ENTITY  error_loading_file "Wabadewo ensobi mukutika fayiro ezetagisa okudukanya &brandShortName;">
 
+<!ENTITY  awesomebar_all_pages_title "Top Sites">
+<!ENTITY  awesomebar_bookmarks_title "Bookmarks">
+<!ENTITY  awesomebar_history_title "Ebyafaayo">
+<!ENTITY  awesomebar_search_engine "Search for \&quot;&#037;s\&quot;">
+
 <!ENTITY  crash_reporter_title "Akalopa Okuzikirira kwa &brandShortName; ">
 <!ENTITY  crash_message "&brandShortName; ezikiridde. Awadirira wo walina okuba ku lukala lwa &brandShortName; Tandika omuko nga kompyuta etandise nate.">
 <!ENTITY  crash_help_message "Bambi tuyambe okutereeza ensobi!">
 <!ENTITY  crash_send_report_message "Wereeza Mozilla alipota yokuzikirira">
-<!ENTITY  crash_include_url "Tekamu endagiriro y\'omuko">
+<!ENTITY  crash_include_url "Tekamu endagiriro y'omuko">
 <!ENTITY  crash_close_label "Ggalawo">
 <!ENTITY  crash_restart_label "Tandikka buto &brandShortName;">
-<!ENTITY  sending_crash_report "Okuweereza alipota yo\'kuziikirira\u2026">
+<!ENTITY  sending_crash_report "Okuweereza alipota yo'kuziikirira\u2026">
 <!ENTITY  exit_label "Fulumamu">
 <!ENTITY  continue_label "Weyongereyo">
 
@@ -19,3 +24,74 @@
 <!ENTITY  launcher_shortcuts_empty "Tewali pulogulamu ezidukira kulutimbe zizzuliddwa">
 
 <!ENTITY choose_file "Londa Fayiro">
+
+<!ENTITY awesomebar_default_text "Tekamu Ekyokunoonya oba Endagiriro">
+
+<!ENTITY bookmarks_title "Bookmarks">
+<!ENTITY bookmark_add "Akalambe">
+<!ENTITY bookmark_remove "Jjawo">
+<!ENTITY bookmark_added "Akalambe kongezeddwa">
+<!ENTITY bookmark_removed "Bookmark removed">
+
+<!ENTITY history_today_section "Today">
+<!ENTITY history_yesterday_section "Yesterday">
+<!ENTITY history_week_section "7 days ago">
+<!ENTITY history_older_section "Older than 7 days">
+
+<!ENTITY reload "Ddamu otikke">
+<!ENTITY forward "Forward">
+
+<!ENTITY new_tab "Awaddirira Awapya">
+
+<!ENTITY settings "Settings">
+<!ENTITY settings_title "Settings">
+<!ENTITY pref_category_general "General">
+<!ENTITY pref_category_privacy "Ebyekyama &amp; Ebyokwerinda">
+<!ENTITY pref_category_content "Ebirimu">
+<!ENTITY pref_about_firefox "About &brandShortName;">
+<!ENTITY pref_do_not_track "Gamba ebibanja bileme okunumba">
+<!ENTITY pref_telemetry "Wwayo data we'enkola">
+<!ENTITY pref_remember_signons "Jjukira Obusumuluzo">
+<!ENTITY pref_cookies "Enable cookies">
+<!ENTITY pref_char_encoding "Laga enzinga ye nukuta">
+<!ENTITY pref_clear_history "Clear history">
+<!ENTITY pref_clear_history_confirm "Browsing history will be deleted">
+<!ENTITY pref_clear_private_data "Jjamu bwino owobwananyini">
+<!ENTITY pref_clear_private_data_confirm "Browsing settings, including passwords and cookies, will be deleted">
+<!ENTITY pref_enable_plugins "Enable plugins">
+<!ENTITY pref_enable_plugins_yes "Yee">
+<!ENTITY pref_enable_plugins_tap_to_play "Tap to play">
+<!ENTITY pref_enable_plugins_no "Nedda">
+<!ENTITY pref_font_size "Font size">
+<!ENTITY pref_font_size_small "Small">
+<!ENTITY pref_font_size_medium "Medium">
+<!ENTITY pref_font_size_large "Large">
+<!ENTITY pref_font_size_xlarge "Extra Large">
+<!ENTITY pref_use_master_password "Kozesa ekisumuluzo ekifuga byonna">
+
+<!ENTITY quit "Vaayo">
+
+<!ENTITY addons "Ebigattibwako">
+<!ENTITY downloads "Downloads">
+
+<!ENTITY share "Share">
+<!ENTITY save_as_pdf "Save as PDF">
+<!ENTITY agent_request_desktop "Request Desktop Site">
+<!ENTITY agent_request_mobile "Request Mobile Site">
+
+<!ENTITY contextmenu_open_new_tab "Open in New Tab">
+<!ENTITY contextmenu_add_to_launcher "Yongera ku Sikulini Yeka">
+<!ENTITY contextmenu_share "Share">
+
+<!ENTITY site_settings_title        "Clear Site Settings">
+<!ENTITY site_settings_cancel       "Cancel">
+<!ENTITY site_settings_clear        "Jjawo">
+<!ENTITY site_settings_no_settings  "There are no settings to clear.">
+
+<!ENTITY masterpassword_create_title "Create Master Password">
+<!ENTITY masterpassword_remove_title "Gjamu Akasumulizo Akakuu">
+<!ENTITY masterpassword_password "Password">
+<!ENTITY masterpassword_confirm "Confirm password">
+
+<!ENTITY button_ok "OK">
+<!ENTITY button_cancel "Cancel">

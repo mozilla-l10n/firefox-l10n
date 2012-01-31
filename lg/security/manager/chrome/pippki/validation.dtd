@@ -46,7 +46,7 @@
 <!ENTITY  validation.deletecrl.accesskey          "S">
 <!ENTITY  validation.updatecrl.label              "Tuusa">
 <!ENTITY  validation.updatecrl.accesskey          "T">
-<!ENTITY  validation.advanced.label               "Eteegeka">
+<!ENTITY  validation.advanced.label               "Enteegeka">
 <!ENTITY  validation.advanced.accesskey           "E">
 
 <!ENTITY  validation.crl.autoupdate.title         "Ebyokweroboza mu Kwetuusa kwa CRL">
@@ -64,4 +64,4 @@
 <!ENTITY  crl.import.nextupdate.label             "Okutuusa Okuddako Nga: ">
 <!ENTITY  crl.autoupdate.fail.cnt.label           "Okulemerewa Mukutuusa Okuyisewo Okwawamu: ">
 <!ENTITY  crl.autoupdate.fail.reason.label        "Ebikwata ku Kulemererwa Okutuusa Okusembyeyo: ">
-<!ENTITY  edit.button                             "Eteegeka">
+<!ENTITY  edit.button                             "Enteegeka">

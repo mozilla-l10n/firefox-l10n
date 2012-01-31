@@ -70,10 +70,10 @@
 <!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1 Obulabe">
 <!ENTITY certmgr.certdetail.md5fingerprint    "MD5 Obulabe">
 
-<!ENTITY certmgr.editcert.title               "Longosa santifikati ye`byokwerida eteegeka">
-<!ENTITY certmgr.editcacert.title             "Longosa CA santifikati ekakase eteegeka">
+<!ENTITY certmgr.editcert.title               "Kyusa Enteegeka ya Satifikati ye`Byokwerinda">
+<!ENTITY certmgr.editcacert.title             "Kyusa enteeka ya satifikati eyekyika kya CA">
 <!ENTITY certmgr.editsslcert.title            "Kyusa entegeka  za'okwesiga satifikate ezebyapa">
-<!ENTITY certmgr.editcert.edittrust           "Longosa ekakasee eteegeka:">
+<!ENTITY certmgr.editcert.edittrust           "Kyusa enteegeka zo kwesiga:">
 <!ENTITY certmgr.editcert.trustssl            "Eno Satifiketi esoobola okwawula ebyapa.">
 <!ENTITY certmgr.editcert.trustemail          "Santifikati eno enyiza kwogera ku mukozesa wa mayiru.">
 <!ENTITY certmgr.editcert.trustobjsign        "Santifikati eno enyiza kutegeza bananyini ba kompyuta pulogulamu.">

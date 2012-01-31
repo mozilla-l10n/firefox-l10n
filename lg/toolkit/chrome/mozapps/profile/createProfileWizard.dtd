@@ -13,7 +13,7 @@
 <!ENTITY profileCreationIntro.text      "Bwokola pulofailo enyingi osobola okuzawula ng'okozesa amannya gaazo. Oyinza okukozesa erinnya erikuwereddwa wano oba lyoyagala.">
 <!ENTITY profilePrompt.label            "Yingizaamu erinnya lya pulofailo epya:">
 <!ENTITY profilePrompt.accesskey        "Y">
-<!ENTITY profileDirectoryExplanation.text   "Eteegeka jokozesa, joyagala okukozesa ne bwiino omulala afanaganana gwebakozesa ajakutelekebwamu:">
+<!ENTITY profileDirectoryExplanation.text   "Enteegeka yo jokozesa, ebyokwerobozaa ne bwiino omulala afanaganana gwebakozesa ajakuterekebwamu:">
 <!ENTITY profileDefaultName             "Omukozesa ow'enkalakalira">
 <!ENTITY button.choosefolder.label      "Londako foloda…">
 <!ENTITY button.choosefolder.accesskey  "L">

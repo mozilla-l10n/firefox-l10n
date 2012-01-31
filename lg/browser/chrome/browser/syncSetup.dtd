@@ -2,7 +2,7 @@
 <!-- First page of the wizard -->
 
 
-<!ENTITY setup.pickSetupType.description "Tukusanyukidde, bwobanga tokozesangako &syncBrand.fullName.label;, ojjakwetaga okutondawo akaunta empya.">
+<!ENTITY setup.pickSetupType.description2 "Welcome! If you've never used &syncBrand.fullName.label; before, you will need to create a new account.">
 <!ENTITY button.createNewAccount.label "Tondawo Akaunta Empya">
 <!ENTITY button.haveAccount.label      "Nnina Akaunti">
 
@@ -88,6 +88,8 @@
 <!ENTITY engine.passwords.accesskey "u">
 <!ENTITY engine.prefs.label         "Okweroboza">
 <!ENTITY engine.prefs.accesskey     "e">
+<!ENTITY engine.addons.label        "Ebigattibwako">
+<!ENTITY engine.addons.accesskey    "E">
 
 <!ENTITY choice2.merge.main.label      "Gatta ebiri mu kompyuta eno ne ebiri mu &syncBrand.shortName.label; yange">
 <!ENTITY choice2.merge.recommended.label "Ekisembebwa:">

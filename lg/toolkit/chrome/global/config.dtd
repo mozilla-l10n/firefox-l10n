@@ -39,13 +39,13 @@
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
 
 <!ENTITY aboutWarningTitle.label "Kino kiyiza kuyitaku matekago!">
-<!ENTITY aboutWarningText.label "Kukyusa eteegekaze wangulu zino kiyiza kuvamu akabbi ku bugumu, ebyokwerinda, ne ekola ya pulogulamu eno. Oyina kuba onyeyongerayo bwoba wekakasa mukyokola.">
+<!ENTITY aboutWarningText.label "Okukyusa enteegeka ezekika ekya wagulu kiyinza okuvamu akabbi ku butebenkevu, ebyokwerinda, ne'nkola ya pulogulamu eno. Weyongerayo bwoba wekakasa kyokola.">
 <!ENTITY aboutWarningButton.label "Jjakuba wegendereze, nkusubiza!">
 <!ENTITY aboutWarningCheckbox.label "Langa akalabula kano edda">
 
-<!ENTITY filterPrefs.label "Akasengeja:">
-<!ENTITY filterPrefs.accesskey "k">
-<!ENTITY focusFilter.key "k">
+<!ENTITY searchPrefs.label "Search:">
+<!ENTITY searchPrefs.accesskey "r">
+<!ENTITY focusSearch.key "r">
 <!-- Columns -->
 
 <!ENTITY prefColumn.label "Erinnya erirondeddwa">
