@@ -29,7 +29,7 @@
 <!ENTITY  font.langGroup.korean                   "Corean">
 <!ENTITY  font.langGroup.cyrillic                 "Cirilico">
 <!ENTITY  font.langGroup.baltic                   "Baltico">
-<!ENTITY  font.langGroup.el                       "Greco">
+<!ENTITY  font.langGroup.el                       "Grêgo">
 <!ENTITY  font.langGroup.turkish                  "Turco">
 <!ENTITY  font.langGroup.unicode                  "Âtre léngoe">
 <!ENTITY  font.langGroup.user-def                 "Definîo da-o utilizatô">

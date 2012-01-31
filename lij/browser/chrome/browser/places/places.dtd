@@ -130,7 +130,7 @@
 <!ENTITY bySite.accesskey         "s">
 <!ENTITY byMostVisited.label      "Pe ciù vìxitæ">
 <!ENTITY byMostVisited.accesskey  "v">
-<!ENTITY byLastVisited.label      "Pe ùrtime vìxitæ">
+<!ENTITY byLastVisited.label      "Pe ùrtime vìxite">
 <!ENTITY byLastVisited.accesskey  "P">
 <!ENTITY byDayAndSite.label       "Pe dæta e scîto">
 <!ENTITY byDayAndSite.accesskey   "t">
