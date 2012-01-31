@@ -34,19 +34,8 @@
 <!ENTITY importButton.accesskey     "ב">
 <!ENTITY importButton.commandkey    "I">
 
-<!ENTITY searchInput.tooltip        "סינון גליונות סגנון לפי שם">
-<!ENTITY searchInput.placeholder    "חיפוש גליון סגנון">
-
-<!-- LOCALIZATION NOTE  (searchNoResults): This is shown when searching a term
-     that is not found in any stylesheet or stylesheet name. -->
-<!ENTITY searchNoResults.label      "לא אותר גליון סגנון תואם לחיפוש.">
-
-<!-- LOCALIZATION NOTE  (searchClearButton): This button clears the search input
-     box and is visible only when a search term has been typed. -->
-<!ENTITY searchClearButton.label    "מחיקה">
-
 <!ENTITY visibilityToggle.tooltip   "הפעלה או נטרול של הצגת גליון הסגנון">
-<!ENTITY visibilityToggle.accesskey "V">
+<!ENTITY visibilityToggle.accesskey "ג">
 
 <!ENTITY saveButton.label           "שמירה">
 <!ENTITY saveButton.tooltip         "שמירת גליון הסגנון לקובץ">
@@ -73,3 +62,5 @@
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-end.label): End of the tip sentence -->
 <!ENTITY noStyleSheet-tip-end.label    "?">
 
+<!-- LOCALIZATION NOTE  (closeCmd.key): Accel + this key closes the window. -->
+<!ENTITY closeCmd.key                  "W">
