@@ -30,6 +30,8 @@
 <!ENTITY engine.passwords.accesskey "ร">
 <!ENTITY engine.prefs.label         "ค่าปรับแต่ง">
 <!ENTITY engine.prefs.accesskey     "ต">
+<!ENTITY engine.addons.label        "ส่วนเสริม">
+<!ENTITY engine.addons.accesskey    "ส">
 
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label       "ชื่อคอมพิวเตอร์:">

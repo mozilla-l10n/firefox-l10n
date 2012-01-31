@@ -41,7 +41,10 @@
 <!ENTITY connectionSettings.label "ตั้งค่า…">
 <!ENTITY connectionSettings.accesskey "ต">
 
+<!ENTITY httpCache.label                 "เนื้อหาเว็บที่ถูกแคชไว้">
+
 <!ENTITY offlineStorage.label "ที่เก็บข้อมูลออฟไลน์">
+<!ENTITY offlineStorage2.label           "ที่เก็บเนื้อหาเว็บและข้อมูลผู้ใช้แบบออฟไลน์">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -54,6 +57,8 @@
 <!ENTITY limitCacheSizeAfter.label       "MB">
 <!ENTITY clearCacheNow.label "ล้างเดี๋ยวนี้">
 <!ENTITY clearCacheNow.accesskey "ล">
+<!ENTITY clearOfflineAppCacheNow.label   "ล้างเดี๋ยวนี้">
+<!ENTITY clearOfflineAppCacheNow.accesskey "ด">
 <!ENTITY overrideSmartCacheSize.label    "ใช้แทนการจัดการแคชอัตโนมัติ">
 <!ENTITY overrideSmartCacheSize.accesskey "ท">
 
@@ -87,7 +92,7 @@
 <!ENTITY offlineNotifyExceptions.label "ยกเว้น…">
 <!ENTITY offlineNotifyExceptions.accesskey "ย">
 
-<!ENTITY offlineAppsList.label "เว็บไซต์เหล่านี้ได้เก็บข้อมูลไว้ใช้ตอนออฟไลน์ :">
+<!ENTITY offlineAppsList2.label          "เว็บไซต์เหล่านี้ได้รับอนุญาตให้เก็บข้อมูลไว้ใช้ตอนออฟไลน์ :">
 <!ENTITY offlineAppsList.height "7em">
 <!ENTITY offlineAppsListRemove.label "ลบ…">
 <!ENTITY offlineAppsListRemove.accesskey "ล">

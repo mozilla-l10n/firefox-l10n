@@ -4,7 +4,7 @@
 <!ENTITY  no_space_to_start_error "เนื้อที่ว่างไม่พอสำหรับให้ &brandShortName; เริ่มทำงาน">
 <!ENTITY  error_loading_file "เกิดข้อผิดพลาดระหว่างการโหลดแฟ้มที่จำเป็นในการทำงานของ &brandShortName;">
 
-<!ENTITY  awesomebar_all_pages_title "เว็บดัง">
+<!ENTITY  awesomebar_all_pages_title "เว็บเด่น">
 <!ENTITY  awesomebar_bookmarks_title "ที่คั่นหน้า">
 <!ENTITY  awesomebar_history_title "ประวัติ">
 <!ENTITY  awesomebar_search_engine "ค้นหา \&quot;&#037;s\&quot;">
@@ -51,7 +51,9 @@
 <!ENTITY pref_telemetry "ส่งข้อมูลประสิทธิภาพการทำงาน">
 <!ENTITY pref_remember_signons "จำรหัสผ่าน">
 <!ENTITY pref_cookies "เปิดใช้งานคุกกี้">
-<!ENTITY pref_char_encoding "แสดงรหัสอักขระ">
+<!ENTITY pref_char_encoding "รหัสอักขระ">
+<!ENTITY pref_char_encoding_on "แสดงเมนู">
+<!ENTITY pref_char_encoding_off "ไม่แสดงเมนู">
 <!ENTITY pref_clear_history "ล้างประวัติการท่องเว็บ">
 <!ENTITY pref_clear_history_confirm "ประวัติการท่องเว็บจะถูกลบ">
 <!ENTITY pref_clear_private_data "ล้างข้อมูลส่วนตัว">
@@ -67,11 +69,13 @@
 <!ENTITY pref_font_size_large "ใหญ่">
 <!ENTITY pref_font_size_xlarge "ใหญ่มาก">
 <!ENTITY pref_use_master_password "ใช้รหัสผ่านหลัก">
+<!ENTITY pref_sync "Sync">
 
 <!ENTITY quit "ออก">
 
 <!ENTITY addons "ส่วนเสริม">
 <!ENTITY downloads "ดาวน์โหลด">
+<!ENTITY char_encoding "รหัสอักขระ">
 
 <!ENTITY share "แบ่งปัน">
 <!ENTITY save_as_pdf "บันทึกเป็น PDF">
