@@ -22,7 +22,7 @@
                                            niet genoeg ruimte om deze te installeren.">
 <!ENTITY  manualUpdateGetMsg.label        "U kunt de laatste versie van &brandShortName; altijd verkrijgen op:">
 
-<!ENTITY  incompatibleCheck.title         "Add-oncompatibiliteit controleren">
+<!ENTITY  incompatibleCheck.title         "Add-on-compatibiliteit controleren">
 <!ENTITY  incompatibleCheck.label         "Bezig met controleren op nieuwere versies van uw add-ons…">
 
 <!ENTITY  clickHere.label                 "Meer informatie over deze update bekijken">
