@@ -5,7 +5,7 @@
 <!ENTITY startupHomePage.label     "Mijn startpagina tonen">
 <!ENTITY startupBlankPage.label    "Een lege pagina tonen">
 <!ENTITY startupLastSession.label  "Mijn vensters en tabbladen van de vorige keer tonen">
-<!ENTITY restoreOnDemand.label     "Tabbladen niet laden tot geselecteerd">
+<!ENTITY restoreOnDemand.label     "Tabbladen pas laden na selecteren">
 <!ENTITY restoreOnDemand.accesskey "l">
 
 <!ENTITY homepage.label            "Startpagina:">

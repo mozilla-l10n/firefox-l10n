@@ -45,7 +45,7 @@
 <!ENTITY recoveryKeyEntry.label        "Uw herstelsleutel">
 <!ENTITY recoveryKeyEntry.accesskey    "h">
 <!ENTITY syncGenerateNewKey.label  "Nieuwe sleutel genereren">
-<!ENTITY recoveryKeyBackup.description "Uw herstelsleutel is vereist voor de toegang van &syncBrand.fullName.label; op andere machines. Maak een reservekopie. We kunnen uw herstelsleutel niet herstellen.">
+<!ENTITY recoveryKeyBackup.description "Uw herstelsleutel is vereist voor de toegang van &syncBrand.fullName.label; op andere machines. Maak een reservekopie. We kunnen u niet helpen bij het terugvinden van uw herstelsleutel.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Afdrukken…">
 <!ENTITY button.syncKeyBackup.print.accesskey "A">
@@ -56,9 +56,9 @@
 <!ENTITY pairDevice.title.label             "Een apparaat koppelen">
 <!ENTITY addDevice.showMeHow.label          "Toon me hoe.">
 <!ENTITY addDevice.dontHaveDevice.label     "Ik heb het apparaat niet bij me">
-<!ENTITY pairDevice.setup.description.label  "Om te activeren, selecteer “Een apparaat koppelen” op uw andere apparaat.">
-<!ENTITY addDevice.setup.enterCode.label    "Voer vervolgens deze code in:">
-<!ENTITY pairDevice.dialog.description.label "Om uw nieuwe apparaat te activeren, selecteer “Sync instellen” op het apparaat.">
+<!ENTITY pairDevice.setup.description.label  "Selecteer “Een apparaat koppelen” op uw andere apparaat om het te activeren.">
+<!ENTITY addDevice.setup.enterCode.label    "Voer daarna deze code in:">
+<!ENTITY pairDevice.dialog.description.label "Selecteer “Sync instellen” op uw nieuwe apparaat om het te activeren.">
 <!ENTITY addDevice.dialog.enterCode.label   "Voer de code in die het apparaat geeft:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Probeer het opnieuw.">
 <!ENTITY addDevice.dialog.successful.label  "Het apparaat is met succes toegevoegd. De eerste synchronisatie kan meerdere minuten duren en zal op de achtergrond worden voltooid.">
