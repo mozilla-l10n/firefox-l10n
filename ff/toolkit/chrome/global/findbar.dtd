@@ -2,8 +2,8 @@
 <!-- LOCALIZATION NOTE : FILE use the Find Bar. --> 
 <!-- entities split out from browser.dtd -->
 
-<!ENTITY next.label "Payɗo">
-<!ENTITY next.accesskey "P">
+<!ENTITY next.label "Jokku">
+<!ENTITY next.accesskey "J">
 <!ENTITY next.tooltip "Yiylo cilol garowol konngol ngol">
 <!ENTITY previous.label "Ɓennuɗo">
 <!ENTITY previous.accesskey "Ɓ">

@@ -7,8 +7,8 @@
 
 <!ENTITY  button-back-unix.label       "Caggal">
 <!ENTITY  button-back-unix.accesskey   "C">
-<!ENTITY  button-next-unix.label       "Payɗo">
-<!ENTITY  button-next-unix.accesskey   "P">
+<!ENTITY  button-next-unix.label       "Jokku">
+<!ENTITY  button-next-unix.accesskey   "J">
 <!ENTITY  button-finish-unix.label     "Gaynu">
 <!ENTITY  button-cancel-unix.label     "Haaytu">
 
