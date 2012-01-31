@@ -35,4 +35,4 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY xml.nostylesheet "O documento XML não está associado a estilos. A estrutura do documento é representada abaixo.">
+<!ENTITY xml.nostylesheet "O documento XML não está associado a estilos. A estrutura do documento está representada abaixo.">
