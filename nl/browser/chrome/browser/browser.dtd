@@ -90,7 +90,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "W">
 <!ENTITY fullScreenExit.label "Volledigschermmodus verlaten">
 <!ENTITY fullScreenExit.accesskey "d">
-<!ENTITY domFullScreenWarning.label "Druk op ESC om volledigschermmodus te verlaten">
+<!ENTITY domFullScreenWarning.label "Druk op ESC om de volledigschermmodus te verlaten">
 
 <!ENTITY closeWindow.label "Venster sluiten">
 <!ENTITY closeWindow.accesskey "e">
@@ -196,7 +196,7 @@ can reach it easily. -->
 <!ENTITY inspectMenu.commandkey       "I">
 
 <!ENTITY inspectContextMenu.label     "Element inspecteren">
-<!ENTITY inspectContextMenu.accesskey "Q">
+<!ENTITY inspectContextMenu.accesskey "E">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
@@ -454,8 +454,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaHideControls.accesskey "B">
 <!ENTITY videoFullScreen.label       "Volledig scherm">
 <!ENTITY videoFullScreen.accesskey   "V">
-<!ENTITY videoSaveImage.label        "Snapshot opslaan als…">
-<!ENTITY videoSaveImage.accesskey    "S">
+<!ENTITY videoSaveImage.label        "Momentopname opslaan als…">
+<!ENTITY videoSaveImage.accesskey    "M">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
 items are mutually exclusive. -->
