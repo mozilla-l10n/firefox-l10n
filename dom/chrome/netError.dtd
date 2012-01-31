@@ -28,7 +28,7 @@
 <!ENTITY notCached.longDesc "<p>O documento solicitado não está mais no cache de navegação.</p>
 <ul>
 <li>Como precaução de segurança, documentos contendo informações confidenciais não são solicitados automaticamente.</li>
-<li>Clique em Tentar de novo para solicitar mais uma vez o documento do site.</li>
+<li>Clique em “Tentar de novo” para solicitar mais uma vez o documento do site.</li>
 </ul>">
 
 <!ENTITY netOffline.title "Modo offline">
