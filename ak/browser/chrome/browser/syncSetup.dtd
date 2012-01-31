@@ -2,7 +2,7 @@
 <!-- First page of the wizard -->
 
 
-<!ENTITY setup.pickSetupType.description "Akɔaba, sɛ wo mmfaa &syncBrand.fullName.label; nndii dwuma da a, ho bɛhia sɛ wo bɛbɔ akawnt foforo.">
+<!ENTITY setup.pickSetupType.description2 "Welcome! If you've never used &syncBrand.fullName.label; before, you will need to create a new account.">
 <!ENTITY button.createNewAccount.label "Bɔ akawnt foforo">
 <!ENTITY button.haveAccount.label      "I Have an Account">
 
@@ -53,7 +53,7 @@
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
 <!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
 
-<!ENTITY pairDevice.title.label             "Yɛ divaes bi nta">
+<!ENTITY pairDevice.title.label             "Pair a Device">
 <!ENTITY addDevice.showMeHow.label          "Kyerɛ me sɛnea wɔ yɛ no.">
 <!ENTITY addDevice.dontHaveDevice.label     "Efidie no nni me nhyɛn">
 <!ENTITY pairDevice.setup.description.label  "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
@@ -88,6 +88,8 @@
 <!ENTITY engine.passwords.accesskey "u">
 <!ENTITY engine.prefs.label         "Apɛde">
 <!ENTITY engine.prefs.accesskey     "p">
+<!ENTITY engine.addons.label        "Nkaho">
+<!ENTITY engine.addons.accesskey    "a">
 
 <!ENTITY choice2.merge.main.label      "Ka kɔmputa yi ne data ne &syncBrand.shortName.label; data bɔ mu">
 <!ENTITY choice2.merge.recommended.label "Yɛ foa yi so:">

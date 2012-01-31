@@ -30,6 +30,8 @@
 <!ENTITY engine.passwords.accesskey "E">
 <!ENTITY engine.prefs.label         "Apɛdeɛ">
 <!ENTITY engine.prefs.accesskey     "S">
+<!ENTITY engine.addons.label        "Nkaho">
+<!ENTITY engine.addons.accesskey    "a">
 <!-- Device Settings -->
 
 <!ENTITY syncComputerName.label       "Kɔmputa Din:">

@@ -43,9 +43,9 @@
 <!ENTITY aboutWarningButton.label "Me ka ntam sɛ mɛto me bo!">
 <!ENTITY aboutWarningCheckbox.label "Kyerɛ saa kɔkɛbɔ yi abere a edi so">
 
-<!ENTITY filterPrefs.label "Sɔne:">
-<!ENTITY filterPrefs.accesskey "S">
-<!ENTITY focusFilter.key "f">
+<!ENTITY searchPrefs.label "Search:">
+<!ENTITY searchPrefs.accesskey "r">
+<!ENTITY focusSearch.key "r">
 <!-- Columns -->
 
 <!ENTITY prefColumn.label "Apɛdeɛ din">

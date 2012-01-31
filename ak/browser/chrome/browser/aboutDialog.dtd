@@ -1,12 +1,26 @@
 <!ENTITY aboutDialog.title          "&brandFullName; Ho Nsɛm">
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+
+<!ENTITY warningDesc.version        "&brandShortName; is experimental and may be unstable.">
+<!-- LOCALIZATION NOTE (warningDesc.telemetry): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetry      "It automatically sends test information back to &vendorShortName; to help make &brandShortName; better.">
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+
+<!ENTITY community.exp.start        "">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+<!ENTITY community.exp.middle       " is a ">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "global community">
+<!ENTITY community.exp.end          " working together to keep the Web open, public and accessible to all.">
 
 <!ENTITY community.start2           "&brandShortName; Eyi na osiesie no">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", a ɛyɛ ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "wiade fɛkuw">
-<!ENTITY community.end2             "reyɛ edwuma abɔ mu sɛ Intanɛt bɛyɛ yie. Yɛ gye di sɛ ɛwɔ sɛ Intanɛt da hɔ ma obiara na ɛwɔ sɛ obiara nya ho kwan a hwee nnsiw wɔn kwan.">
+<!ENTITY community.creditsLink      "global community">
+<!ENTITY community.end3             " working together to keep the Web open, public and accessible to all.">
 
 <!ENTITY contribute.start           "Ɛyɛ wo anigye anaa?">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
