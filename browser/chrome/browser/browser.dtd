@@ -24,10 +24,10 @@ used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-<!ENTITY  pinAppTab.label                    "ปักหมุดเป็น App Tab">
-<!ENTITY  pinAppTab.accesskey                "ป">
-<!ENTITY  unpinAppTab.label                  "ถอดหมุด Tab">
-<!ENTITY  unpinAppTab.accesskey              "ถ">
+<!ENTITY  pinAppTab.label                    "ตรึงแท็บ">
+<!ENTITY  pinAppTab.accesskey                "ต">
+<!ENTITY  unpinAppTab.label                  "เลิกตรึงแท็บ">
+<!ENTITY  unpinAppTab.accesskey              "ล">
 <!ENTITY  moveToGroup.label                  "ย้ายไปยังกลุ่ม">
 <!ENTITY  moveToGroup.accesskey              "ย">
 <!ENTITY  moveToNewGroup.label               "กลุ่มใหม่">
