@@ -21,7 +21,7 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; moet opnieuw worden opgestart om de plug-in(s) te laten werken.">
 
 <!ENTITY missingPlugin                                       "Er is een plug-in nodig om deze inhoud weer te geven.">
-<!ENTITY clickToPlayPlugin                                   "Tap om plug-in te activeren.">
+<!ENTITY clickToPlayPlugin                                   "Tik hier om de plug-in te activeren.">
 <!ENTITY disabledPlugin                                      "Deze plug-in is uitgeschakeld.">
 <!ENTITY blockedPlugin.label                                 "Deze plug-in is geblokkeerd voor uw bescherming.">
 

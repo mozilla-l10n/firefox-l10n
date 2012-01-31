@@ -42,7 +42,7 @@
 
 <!ENTITY httpCache.label                 "Gebufferde webinhoud">
 
-<!ENTITY offlineStorage2.label           "Offlinewebinhoud en gebruikersgegevens">
+<!ENTITY offlineStorage2.label           "Offline webinhoud en gebruikersgegevens">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -63,11 +63,11 @@
 <!ENTITY updateTab.label                 "Update">
 
 <!ENTITY updateApp.label                 "&brandShortName;-updates:">
-<!ENTITY updateAuto.label                "Updates automatisch installeren (aanbevolen: verbeterde veiligheid)">
+<!ENTITY updateAuto.label                "Updates automatisch installeren (aanbevolen: verbeterde beveiliging)">
 <!ENTITY updateAuto.accesskey            "U">
-<!ENTITY updateCheck.label               "Controleren op updates maar laat mij kiezen of ik het wil installeren">
+<!ENTITY updateCheck.label               "Controleren op updates, maar mij laten kiezen of ik deze wil installeren">
 <!ENTITY updateCheck.accesskey           "C">
-<!ENTITY updateManual.label              "Nooit controleren op updates (niet aanbevolen: veiligheidsrisico)">
+<!ENTITY updateManual.label              "Nooit controleren op updates (niet aanbevolen: beveiligingsrisico)">
 <!ENTITY updateManual.accesskey          "N">
 
 <!ENTITY updateAutoAddonWarn.label       "Mij waarschuwen als dit een van mijn add-ons zal uitschakelen">
@@ -76,10 +76,10 @@
 <!ENTITY updateHistory.label             "Updategeschiedenis tonen">
 <!ENTITY updateHistory.accesskey         "d">
 
-<!ENTITY useService.label                "Gebruik een achtergrondservice om updates te installeren">
+<!ENTITY useService.label                "Een achtergrondservice gebruiken om updates te installeren">
 <!ENTITY useService.accesskey            "a">
 
-<!ENTITY updateOthers.label              "Automatisch update:">
+<!ENTITY updateOthers.label              "Automatisch bijwerken:">
 <!ENTITY enableSearchUpdate.label        "Zoekmachines">
 <!ENTITY enableSearchUpdate.accesskey    "Z">
 

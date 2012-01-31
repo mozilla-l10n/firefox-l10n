@@ -61,7 +61,7 @@
 <!ENTITY  dontrememberActions.clearHistory.label "alle huidige geschiedenis wissen">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent2.label "Altijd privénavigatiemodus gebruiken">
+<!ENTITY  privateBrowsingPermanent2.label "Altijd de privénavigatiemodus gebruiken">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
 <!ENTITY  rememberHistory.label      "Mijn navigatiegeschiedenis onthouden">
