@@ -52,6 +52,8 @@
 <!ENTITY pref_remember_signons "Lembrar senhas">
 <!ENTITY pref_cookies "Ativar cookies">
 <!ENTITY pref_char_encoding "Mostrar codificação de caracteres">
+<!ENTITY pref_char_encoding_on "Mostrar menu">
+<!ENTITY pref_char_encoding_off "Não mostrar menu">
 <!ENTITY pref_clear_history "Limpar histórico">
 <!ENTITY pref_clear_history_confirm "O histórico de navegação será eliminado">
 <!ENTITY pref_clear_private_data "Limpar dados privados">
@@ -67,11 +69,13 @@
 <!ENTITY pref_font_size_large "Grande">
 <!ENTITY pref_font_size_xlarge "Muito grande">
 <!ENTITY pref_use_master_password "Usar senha mestra">
+<!ENTITY pref_sync "Sync">
 
 <!ENTITY quit "Desistir">
 
 <!ENTITY addons "Extras">
 <!ENTITY downloads "Transferências">
+<!ENTITY char_encoding "Codificação de caracteres">
 
 <!ENTITY share "Partilhar">
 <!ENTITY save_as_pdf "Guardar como PDF">
@@ -100,3 +104,6 @@
 <!ENTITY abouthome_last_tabs_open "Abrir todos os separadores da última vez">
 <!ENTITY abouthome_top_sites_title "Top de sítios">
 <!ENTITY abouthome_top_sites_browse "Navegar em todos os seus top sítios">
+<!ENTITY abouthome_no_top_sites "Ainda não tem sítios top. Toque na barra de título para iniciar a navegação.">
+<!ENTITY abouthome_about_sync "Configurar o Firefox Sync para aceder a marcadores, histórico e separadores de outros dispositivos">
+<!ENTITY abouthome_sync_bold_name "Firefox Sync">
