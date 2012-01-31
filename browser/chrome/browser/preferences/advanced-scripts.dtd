@@ -40,8 +40,8 @@
 
 <!ENTITY allowScripts.label             "Laat skripte toe om:">
 
-<!ENTITY moveResizePopupWindows.label     "Move or resize popup windows">
-<!ENTITY moveResizePopupWindows.accesskey "M">
+<!ENTITY moveResizePopupWindows.label     "Opspringvensters te skuif of te hervergroot">
+<!ENTITY moveResizePopupWindows.accesskey "O">
 <!ENTITY raiseLowerWindows.label        "Vensters te lig of te laat sak">
 <!ENTITY raiseLowerWindows.accesskey    "V">
 <!ENTITY disableContextMenus.label      "Kontekskieslysitems te deaktiveer of te vervang">

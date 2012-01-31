@@ -24,7 +24,7 @@
 
 <!ENTITY systemDefaults.label            "Stelselverstek">
 <!--XXX-->
-<!ENTITY alwaysCheckDefault.label        "Kontroleer altyd aan die begin om te sien of &brandShortName; die verstekblaaier is">
+<!ENTITY alwaysCheckDefault.label        "Kontroleer altyd aan die begin of &brandShortName; die verstekblaaier is">
 <!ENTITY alwaysCheckDefault.accesskey    "a">
 <!ENTITY checkNow.label                  "Kontroleer nou">
 <!ENTITY checkNow.accesskey              "n">
@@ -41,7 +41,9 @@
 <!ENTITY connectionSettings.label        "Opstelling…">
 <!ENTITY connectionSettings.accesskey    "p">
 
-<!ENTITY offlineStorage.label            "Vanlyn berging">
+<!ENTITY httpCache.label                 "Webinhoud in die kas">
+
+<!ENTITY offlineStorage2.label           "Vanlyn-webinhoud en gebruikerdata">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -54,18 +56,20 @@
 <!ENTITY limitCacheSizeAfter.label       "MG spasie">
 <!ENTITY clearCacheNow.label             "Maak nou skoon">
 <!ENTITY clearCacheNow.accesskey         "M">
+<!ENTITY clearOfflineAppCacheNow.label   "Maak nou skoon">
+<!ENTITY clearOfflineAppCacheNow.accesskey "n">
 <!ENTITY overrideSmartCacheSize.label    "Oorheers outomatiese kasbestuur">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
 <!ENTITY updateTab.label                 "Bywerk">
 
-<!ENTITY updateApp.label                 "&brandShortName; updates:">
-<!ENTITY updateAuto.label                "Automatically install updates (recommended: improved security)">
-<!ENTITY updateAuto.accesskey            "A">
-<!ENTITY updateCheck.label               "Check for updates, but let me choose whether to install them">
-<!ENTITY updateCheck.accesskey           "C">
-<!ENTITY updateManual.label              "Never check for updates (not recommended: security risk)">
-<!ENTITY updateManual.accesskey          "N">
+<!ENTITY updateApp.label                 "&brandShortName;-bywerkings:">
+<!ENTITY updateAuto.label                "Installeer bywerkings outomaties (beter vir sekuriteit)">
+<!ENTITY updateAuto.accesskey            "I">
+<!ENTITY updateCheck.label               "Kontroleer vir bywerkings, maar laat my kies of ek dit wil installeer">
+<!ENTITY updateCheck.accesskey           "K">
+<!ENTITY updateManual.label              "Moet nooi kontroleer vir bywerkings nie (sekuriteitsrisiko)">
+<!ENTITY updateManual.accesskey          "n">
 
 <!ENTITY updateAutoAddonWarn.label       "Waarsku my as dit enige van my byvoegings sal deaktiveer">
 <!ENTITY updateAutoAddonWarn.accesskey   "W">
@@ -76,9 +80,7 @@
 <!ENTITY useService.label                "Use a background service to install updates">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY updateOthers.label              "Automatically update:">
-<!ENTITY enableAddonsUpdate3.label       "Add-ons">
-<!ENTITY enableAddonsUpdate3.accesskey   "o">
+<!ENTITY updateOthers.label              "Werk outomaties by:">
 <!ENTITY enableSearchUpdate.label        "Soekenjins">
 <!ENTITY enableSearchUpdate.accesskey    "e">
 
@@ -87,7 +89,7 @@
 <!ENTITY offlineNotifyExceptions.label   "Uitsonderings…">
 <!ENTITY offlineNotifyExceptions.accesskey "t">
 
-<!ENTITY offlineAppsList.label           "Die volgende webwerwe het data vir vanlyn gebruik gestoor:">
+<!ENTITY offlineAppsList2.label          "Die volgende webwerwe het toestemming om data vir vanlyn gebruik te stoor:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Verwyder…">
 <!ENTITY offlineAppsListRemove.accesskey "V">

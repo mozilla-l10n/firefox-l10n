@@ -43,9 +43,9 @@
 <!ENTITY aboutWarningButton.label "Toemaar, ek sal versigtig wees.">
 <!ENTITY aboutWarningCheckbox.label "Wys volgende keer weer hierdie waarskuwing">
 
-<!ENTITY filterPrefs.label "Filter:">
-<!ENTITY filterPrefs.accesskey "F">
-<!ENTITY focusFilter.key "f">
+<!ENTITY searchPrefs.label "Search:">
+<!ENTITY searchPrefs.accesskey "r">
+<!ENTITY focusSearch.key "r">
 <!-- Columns -->
 
 <!ENTITY prefColumn.label "Voorkeurnaam">

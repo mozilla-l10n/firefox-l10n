@@ -1,12 +1,26 @@
 <!ENTITY aboutDialog.title          "Aangaande &brandFullName;">
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
-<!ENTITY community.start2           "&brandShortName; is ontwerp deur ">
+<!ENTITY warningDesc.version        "&brandShortName; is eksperimenteel en moontlik onstabiel.">
+<!-- LOCALIZATION NOTE (warningDesc.telemetry): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetry      "Dit stuur automaties toetsinligting terug na &vendorShortName; om &brandShortName; beter te help maak.">
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+
+<!ENTITY community.exp.start        "">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+<!ENTITY community.exp.middle       " is 'n ">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "wêreldwye gemeenskap">
+<!ENTITY community.exp.end          " wat saamwerk op die Web oop, publiek en toeganklik vir almal te hou.">
+
+<!ENTITY community.start2           "&brandShortName; word ontwerp deur ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", 'n ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "wêreldwye gemeenskap">
-<!ENTITY community.end2             " wat saamwerk om van die internet 'n beter plek te maak. Ons glo dat die internet 'n oop, openbare, toeganklike plek vir almal moet wees, vry van beperkinge.">
+<!ENTITY community.end3             " wat saamwerk op die Web oop, publiek en toeganklik vir almal te hou.">
 
 <!ENTITY contribute.start           "Stel jy belang? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
@@ -29,7 +43,7 @@
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; is op datum">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "Bywerking deur jou stelseladministrateur gedeaktiveer">
+<!ENTITY update.adminDisabled       "Bywerking deur die stelseladministrateur gedeaktiveer">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download
