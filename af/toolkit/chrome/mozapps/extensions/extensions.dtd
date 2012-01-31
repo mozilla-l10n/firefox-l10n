@@ -1,5 +1,10 @@
 <!ENTITY addons.windowTitle                   "Byvoegingbestuurder">
+
 <!ENTITY search.placeholder                   "Deursoek alle byvoegings">
+<!-- LOCALIZATION NOTE (search.commandKey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
+
 <!ENTITY loading.label                        "Laai tans…">
 <!ENTITY listEmpty.installed.label            "Daar is geen byvoegings van hierdie tipe geïnstalleer nie">
 <!ENTITY listEmpty.availableUpdates.label     "Geen bywerkings gevind nie">

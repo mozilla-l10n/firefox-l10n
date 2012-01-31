@@ -17,7 +17,7 @@
 <!ENTITY myRecoveryKey.label          "My herwinningsleutel">
 <!ENTITY resetSync2.label             "Laai Sync terug…">
 
-<!ENTITY pairDevice.label             "Pair a Device">
+<!ENTITY pairDevice.label             "Assosieer 'n toestel">
 
 <!ENTITY syncMy.label               "Sinkroniseer my">
 <!ENTITY engine.bookmarks.label     "Boekmerke">
@@ -30,6 +30,8 @@
 <!ENTITY engine.passwords.accesskey "W">
 <!ENTITY engine.prefs.label         "Voorkeure">
 <!ENTITY engine.prefs.accesskey     "V">
+<!ENTITY engine.addons.label        "Byvoegings">
+<!ENTITY engine.addons.accesskey    "B">
 <!-- Device Settings -->
 
 <!ENTITY syncComputerName.label       "Rekenaarnaam:">

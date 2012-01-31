@@ -2,9 +2,9 @@
 <!-- First page of the wizard -->
 
 
-<!ENTITY setup.pickSetupType.description "Welkom! As jy nog nooit &syncBrand.fullName.label; gebruik het nie, moet jy 'n nuwe rekening opstel.">
+<!ENTITY setup.pickSetupType.description2 "Welkom! As u nog nooit &syncBrand.fullName.label; gebruik het nie, moet u 'n nuwe rekening opstel.">
 <!ENTITY button.createNewAccount.label "Skep 'n nuwe rekening">
-<!ENTITY button.haveAccount.label      "I Have an Account">
+<!ENTITY button.haveAccount.label      "Ek het 'n rekening">
 
 <!ENTITY setup.choicePage.title.label     "Het jy &syncBrand.fullName.label; tevore gebruik?">
 <!ENTITY setup.choicePage.new.label       "Ek het nog nooit &syncBrand.shortName.label; tevore gebruik nie">
@@ -53,12 +53,12 @@
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
 <!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
 
-<!ENTITY pairDevice.title.label             "Pair a Device">
+<!ENTITY pairDevice.title.label             "Assosieer 'n toestel">
 <!ENTITY addDevice.showMeHow.label          "Wys my hoe.">
 <!ENTITY addDevice.dontHaveDevice.label     "Ek het nie 'n toestel by my nie">
-<!ENTITY pairDevice.setup.description.label  "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
+<!ENTITY pairDevice.setup.description.label  "Om te aktiveer, kies &#x0022;Assosieer 'n toestel&#x0022; op die ander toestel.">
 <!ENTITY addDevice.setup.enterCode.label    "Tik dan hierdie kode in:">
-<!ENTITY pairDevice.dialog.description.label "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
+<!ENTITY pairDevice.dialog.description.label "Om die nuwe toestel te aktiveer, kies &#x0022;Stel Sync op&#x0022; op die toestel.">
 <!ENTITY addDevice.dialog.enterCode.label   "Tik die kode wat die toestel gee:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Probeer gerus weer.">
 <!ENTITY addDevice.dialog.successful.label  "Die toestel is suksesvol bygevoeg. Die aanvanklike sinkronisering kan lank duur en sal in die agtergrond klaarmaak.">
@@ -88,6 +88,8 @@
 <!ENTITY engine.passwords.accesskey "W">
 <!ENTITY engine.prefs.label         "Voorkeure">
 <!ENTITY engine.prefs.accesskey     "V">
+<!ENTITY engine.addons.label        "Byvoegings">
+<!ENTITY engine.addons.accesskey    "B">
 
 <!ENTITY choice2.merge.main.label      "Voeg hierdie rekenaar se data saam met my &syncBrand.shortName.label;-data">
 <!ENTITY choice2.merge.recommended.label "Aanbevole:">

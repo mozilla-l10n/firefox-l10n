@@ -24,8 +24,8 @@
 <!ENTITY netInterrupt.title "Dataoordrag onderbreek">
 <!ENTITY netInterrupt.longDesc "<p>Die blaaier het suksesvol gekoppel, maar die verbinding is onderbreek terwyl inligting oorgedra is.  Probeer weer.</p><ul><li>Kan u ook nie ander werwe bekyk nie? Kontroleer die rekenaar se netwerkverbinding.</li><li>Sukkel u steeds? Doen navraag by u netwerkadministrateur of internetverskaffer vir bystand.</li></ul>">
 
-<!ENTITY notCached.title "Document Expired">
-<!ENTITY notCached.longDesc "<p>The requested document is not available in the browser's cache.</p><ul><li>As a security precaution, the browser does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
+<!ENTITY notCached.title "Dokumentgeldigheid het verval">
+<!ENTITY notCached.longDesc "<p>Die aangevraagde dokument is nie beskikbaar in blaaier se kas nie.</p><ul><li>As 'n sekuriteitsmaatreël vra die blaaier nie outomaties weer vir sensitiewe dokumente nie.</li><li>Klik Probeer weer om die dokument weer van die webwerf aan te vra.</li></ul>">
 
 <!ENTITY netOffline.title "Aflynmodus">
 <!ENTITY netOffline.longDesc2 "<p>Die blaaier is in vanlyn modus en kan nie aan die aangevraagde item koppel nie.</p><ul><li>Is die rekenaar aan 'n aktiewe netwerk gekoppel?</li><li>Klik &quot;Probeer weer&quot; om na aanlynmodus oor te skakel en die bladsy te herlaai.</li></ul>">

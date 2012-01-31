@@ -1,0 +1,8 @@
+<!ENTITY aboutAddons.title                      "Byvoegingbestuurder">
+<!ENTITY aboutAddons.header                     "Byvoegings">
+<!ENTITY aboutAddons.options                    "Opsies">
+
+<!ENTITY addonAction.enable                     "Aktiveer">
+<!ENTITY addonAction.disable                    "Deaktiveer">
+<!ENTITY addonAction.uninstall                  "Deïnstalleer">
+<!ENTITY addonAction.cancel                     "Kanselleer">

@@ -47,8 +47,8 @@
 <!ENTITY netInterrupt.title "Die verbinding is onderbreek">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
-<!ENTITY notCached.title "Document Expired">
-<!ENTITY notCached.longDesc "<p>The requested document is not available in &brandShortName;'s cache.</p><ul><li>As a security precaution, &brandShortName; does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
+<!ENTITY notCached.title "Dokumentgeldigheid het verval">
+<!ENTITY notCached.longDesc "<p>Die aangevraagde dokument is nie beskikbaar in &brandShortName; se kas nie.</p><ul><li>As 'n sekuriteitsmaatreël vra &brandShortName; nie outomaties weer vir sensitiewe dokumente nie.</li><li>Klik Probeer weer om die dokument weer van die webwerf aan te vra.</li></ul>">
 
 <!ENTITY netOffline.title "Aflynmodus">
 <!ENTITY netOffline.longDesc2 "
@@ -115,12 +115,10 @@ geïnstalleer is.</li>
 </ul>">
 
 <!ENTITY nssFailure2.title "Kon nie beveilig koppel nie">
-<!ENTITY nssFailure2.longDesc "
-<ul>
-  <li>The page you are trying to view can not be shown because the authenticity of the received data could not be verified.</li>
-  <li>Please contact the website owners to inform them of this problem. Alternatively, use the command found in the help menu to report this broken site.</li>
-</ul>
-">
+<!ENTITY nssFailure2.longDesc "<ul> 
+<li>Die bladsy wat u probeer bekyk, kan nie gewys word nie omdat die egtheid van die ontvangde data nie geverifieer kon word nie.</li> 
+<li>Kontak die webwerf se eienaar om hulle oor die probleem in te lig. Of gebruik die bevel wat in die hulpkieslys is om hierdie gebroke werf aan te gee.</li> 
+</ul>">
 
 <!ENTITY nssBadCert.title "Secure Connection Failed">
 <!ENTITY nssBadCert.longDesc2 "
@@ -143,10 +141,10 @@ be temporary, and you can try again later.</li>
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; het voorkom dat hierdie bladsy op hierdie manier laai want die bladsy het 'n inhoudbeveiligingsbeleid wat dit keer.</p>">
 
 <!ENTITY corruptedContentError.title "Fout: inhoud korrup">
-<!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>Die bladsy wat u probeer sien kan nie vertoon word nie omdat 'n fout bespeur is in die dataoordrag.</p><ul><li>Kontak die webwerf se eienaar om hulle oor die probleem in te lig.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Of u kan 'n uitsondering byvoeg…">
-<!ENTITY securityOverride.getMeOutOfHereButton "Eina! Laat ek weg wees!">
+<!ENTITY securityOverride.getMeOutOfHereButton "Get me out of here!">
 <!ENTITY securityOverride.exceptionButtonLabel "Voeg uitsondering by…">
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
