@@ -2,7 +2,7 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "ยินดีต้อนรับ ถ้าคุณไม่เคยใช้ &syncBrand.fullName.label; มาก่อน คุณจะต้องสร้างบัญชีผู้ใช้ใหม่เสียก่อน">
+<!ENTITY setup.pickSetupType.description2 "ยินดีต้อนรับ ถ้าคุณไม่เคยใช้ &syncBrand.fullName.label; มาก่อน คุณจะต้องสร้างบัญชีผู้ใช้ใหม่เสียก่อน">
 <!ENTITY button.createNewAccount.label "สร้างบัญชีผู้ใช้ใหม่">
 <!ENTITY button.haveAccount.label      "ฉันมีบัญชีผู้ใช้แล้ว">
 
@@ -95,6 +95,8 @@
 <!ENTITY engine.passwords.accesskey "ร">
 <!ENTITY engine.prefs.label         "ค่าปรับแต่ง">
 <!ENTITY engine.prefs.accesskey     "ต">
+<!ENTITY engine.addons.label        "ส่วนเสริม">
+<!ENTITY engine.addons.accesskey    "ส">
 
 <!ENTITY choice2.merge.main.label      "รวมข้อมูลบนคอมพิวเตอร์เครื่องนี้และข้อมูลจาก &syncBrand.shortName.label; ของฉันเข้าด้วยกัน">
 <!ENTITY choice2.merge.recommended.label "แนะนำ:">
