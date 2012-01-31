@@ -43,7 +43,6 @@
 
 <!ENTITY httpCache.label                 "เนื้อหาเว็บที่ถูกแคชไว้">
 
-<!ENTITY offlineStorage.label "ที่เก็บข้อมูลออฟไลน์">
 <!ENTITY offlineStorage2.label           "ที่เก็บเนื้อหาเว็บและข้อมูลผู้ใช้แบบออฟไลน์">
 
 <!-- LOCALIZATION NOTE:
@@ -82,8 +81,6 @@
 <!ENTITY useService.accesskey            "บ">
 
 <!ENTITY updateOthers.label              "ปรับรุ่นอัตโนมัติ:">
-<!ENTITY enableAddonsUpdate3.label       "ส่วนเสริม">
-<!ENTITY enableAddonsUpdate3.accesskey   "ส">
 <!ENTITY enableSearchUpdate.label "เครื่องมือค้นหา">
 <!ENTITY enableSearchUpdate.accesskey "ค">
 
