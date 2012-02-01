@@ -39,3 +39,28 @@
 <!ENTITY lightning.toolbar.task.name "Verk verkfærarein">
 <!ENTITY lightning.toolbar.task.accesskey "T">
 <!ENTITY lightning.toolbar.sync.label "Samstilla">
+<!ENTITY lightning.toolbar.delete.label "Eyða">
+<!ENTITY lightning.toolbar.edit.label "Breyta">
+<!ENTITY lightning.toolbar.gototoday.label "Hoppa á daginn í dag">
+<!ENTITY lightning.toolbar.print.label "Prenta">
+<!-- Mode Toolbar -->
+<!ENTITY lightning.toolbar.mail.label "Póstur">
+<!ENTITY lightning.toolbar.mail.accesskey "P">
+<!ENTITY lightning.toolbar.calendar.label "Dagatal">
+<!ENTITY lightning.toolbar.calendar.tooltip "Skipta yfir í dagatalsflipa">
+<!ENTITY lightning.toolbar.calendar.accesskey "D">
+<!ENTITY lightning.toolbar.task.label "Verk">
+<!ENTITY lightning.toolbar.task.tooltip "Skipta yfir í verkflipa">
+<!ENTITY lightning.toolbar.task.accesskey "V">
+<!-- Toolbar write button -->
+<!ENTITY lightning.toolbar.newevent.label "Atburður">
+<!ENTITY lightning.toolbar.newtask.label "Verk">
+<!-- Calendar and Task Mode Toolbar -->
+<!ENTITY lightning.toolbar.day.label "Dagur">
+<!ENTITY lightning.toolbar.day.accesskey "D">
+<!ENTITY lightning.toolbar.week.label "Vika">
+<!ENTITY lightning.toolbar.week.accesskey "V">
+<!ENTITY lightning.toolbar.multiweek.label "Margar vikur">
+<!ENTITY lightning.toolbar.multiweek.accesskey "u">
+<!ENTITY lightning.toolbar.month.label "Mánuður">
+<!ENTITY lightning.toolbar.month.accesskey "M">

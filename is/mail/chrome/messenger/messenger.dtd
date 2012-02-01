@@ -316,6 +316,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY thisFolder.label "Þessi mappa">
 <!ENTITY thisFolder.accesskey "m">
 <!ENTITY goRecentlyClosedTabs.label "Nýlega lokaðir flipar">
+<!ENTITY goRecentlyClosedTabs.accesskey "r">
 <!ENTITY startPageCmd.label "Upphafssíða">
 <!ENTITY startPageCmd.accesskey "U">
 <!-- Message Menu -->
