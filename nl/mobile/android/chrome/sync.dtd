@@ -8,7 +8,7 @@
 <!ENTITY sync.syncNow               "Nu synchroniseren">
 
 <!ENTITY sync.setup.title           "Verbinden met Sync">
-<!ENTITY sync.setup.pair            "Om te activeren, selecteer “Een apparaat koppelen” op uw andere apparaat.">
+<!ENTITY sync.setup.pair            "Selecteer “Een apparaat koppelen” op uw andere apparaat om het te activeren.">
 <!ENTITY sync.fallback              "Ik ben niet bij mijn computer…">
 <!ENTITY sync.setup.manual          "Voer uw Sync-accountgegevens in">
 <!ENTITY sync.account               "Accountnaam">
@@ -19,9 +19,9 @@
 <!ENTITY sync.setup.connect         "Verbinden">
 <!ENTITY sync.setup.cancel          "Annuleren">
 <!ENTITY sync.setup.tutorial        "Tonen hoe">
-<!ENTITY sync.setup.waiting2        "Op andere apparaat wachten…">
+<!ENTITY sync.setup.waiting2        "Wachten op andere apparaat…">
 
 <!ENTITY sync.pair.title            "Een apparaat koppelen">
-<!ENTITY sync.pair.description      "Selecteer om uw nieuwe apparaat te activeren &#x0022;Sync instellen&#x0022; op het apparaat.">
+<!ENTITY sync.pair.description      "Selecteer &#x0022;Sync instellen&#x0022; op uw nieuwe apparaat om het te activeren.">
 <!ENTITY sync.setup.close           "Sluiten">
-<!ENTITY sync.setup.waitingdownload "Uw gegevens worden nu gedownload op de achtergrond. U kunt dit venster op elk gewenst moment sluiten.">
+<!ENTITY sync.setup.waitingdownload "Uw gegevens worden nu op de achtergrond gedownload. U kunt dit venster op elk gewenst moment sluiten.">
