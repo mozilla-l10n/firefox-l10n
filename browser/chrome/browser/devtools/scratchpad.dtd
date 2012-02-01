@@ -67,11 +67,11 @@
 <!ENTITY selectAllCmd.key             "A">
 <!ENTITY selectAllCmd.accesskey       "A">
 
-<!ENTITY run.label                    "全選">
+<!ENTITY run.label                    "執行">
 <!ENTITY run.accesskey                "R">
 <!ENTITY run.key                      "r">
 
-<!ENTITY inspect.label                "全選">
+<!ENTITY inspect.label                "檢測">
 <!ENTITY inspect.accesskey            "I">
 <!ENTITY inspect.key                  "i">
 
@@ -98,7 +98,7 @@
   -  enabled via the devtools.chrome.enabled preference. Formerly, this label
   -  was called "Chrome".
   -->
-<!ENTITY browserContext.label         "網頁瀏覽器">
+<!ENTITY browserContext.label         "瀏覽器">
 <!ENTITY browserContext.accesskey     "B">
 
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
