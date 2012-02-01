@@ -1,0 +1,6 @@
+<!ENTITY applyTheme.label          "套用佈景主題">
+<!ENTITY applyTheme.accesskey      "A">
+<!ENTITY getNewThemesCmd.label     "下載新佈景主題">
+<!ENTITY getNewThemesCmd.accesskey "G">
+<!ENTITY getPersonasCmd.label      "下載 Personas">
+<!ENTITY getPersonasCmd.accesskey  "P">

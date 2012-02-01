@@ -360,8 +360,6 @@
 <!ENTITY event.freebusy.next.slot               "下一個時段 " >
 <!ENTITY event.freebusy.previous.slot           " 上一個時段" >
 <!ENTITY event.freebusy.zoom                    "放大:">
-<!ENTITY event.freebusy.plus                    "下一個小時" >
-<!ENTITY event.freebusy.minus                   "上一個小時" >
 <!ENTITY event.freebusy.legend.free             "空閒" >
 <!ENTITY event.freebusy.legend.busy             "忙碌" >
 <!ENTITY event.freebusy.legend.busy_tentative   "暫訂" >

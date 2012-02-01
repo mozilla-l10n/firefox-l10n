@@ -1,0 +1,20 @@
+<!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpServer.label "寄件伺服器 (SMTP) 設定">
+<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpDesc.label "雖然您可設定多個寄件伺服器 (SMTP)，但通常設定一個就夠了，設定過多易造成寄送錯誤。">
+
+<!ENTITY smtpListAdd.label  "新增…">
+<!ENTITY smtpListAdd.accesskey  "d">
+<!ENTITY smtpListEdit.label "編輯…">
+<!ENTITY smtpListEdit.accesskey "E">
+<!ENTITY smtpListDelete.label "移除">
+<!ENTITY smtpListDelete.accesskey "m">
+<!ENTITY smtpListSetDefault.label "設為預設值">
+<!ENTITY smtpListSetDefault.accesskey "t">
+
+<!ENTITY serverDescription.label "描述: ">
+<!ENTITY serverName.label "伺服器名稱:">
+<!ENTITY serverPort.label "Port: ">
+<!ENTITY userName.label   "使用者名稱:">
+<!ENTITY connectionSecurity.label "連線安全性: ">
+<!ENTITY authMethod.label   "認證方式: ">

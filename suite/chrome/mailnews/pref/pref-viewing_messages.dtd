@@ -1,0 +1,83 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-1999
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+   Stefan Borggraefe <Stefan.Borggraefe@gmx.de>
+
+ Alternatively, the contents of this file may be used under the terms of
+ either of the GNU General Public License Version 2 or later (the "GPL"),
+ or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY pref.viewing.messages.title      "訊息顯示">
+<!ENTITY style.label                      "樣式:">
+<!ENTITY style.accesskey                  "S">
+<!ENTITY regular.label                    "正常">
+<!ENTITY bold.label                       "粗體字">
+<!ENTITY italic.label                     "斜體字">
+<!ENTITY boldItalic.label                 "粗斜體">
+<!ENTITY size.label                       "大小:">
+<!ENTITY size.accesskey                   "z">
+<!ENTITY bigger.label                     "增大">
+<!ENTITY smaller.label                    "減少">
+<!ENTITY color.label                      "顏色:">
+<!ENTITY color.accesskey                  "C">
+<!ENTITY displayPlainText.caption         "純文字訊息">
+<!ENTITY fontPlainText.label              "字型:">
+<!ENTITY fontPlainText.accesskey          "F">
+<!ENTITY displayQuoted.label              "訊息引用設定:">
+<!ENTITY wrapInMsg.label                  "依照視窗寬度換行">
+<!ENTITY wrapInMsg.accesskey              "W">
+<!-- LOCALIZATION NOTE : (convertEmoticons.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
+<!ENTITY convertEmoticons.label           "顯示表情符號圖片">
+<!ENTITY convertEmoticons.accesskey       "D">
+<!ENTITY generalMessageDisplay.caption    "一般">
+<!ENTITY autoMarkAsRead.label             "自動標為已讀">
+<!ENTITY autoMarkAsRead.accesskey         "A">
+<!ENTITY markAsReadNoDelay.label          "顯示時立刻標示">
+<!ENTITY markAsReadNoDelay.accesskey      "m">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label            "在顯示">
+<!ENTITY markAsReadDelay.accesskey        "t">
+<!ENTITY secondsLabel.label               "秒之後">
+
+<!ENTITY openingMessages.label            "當開啟訊息時，將它們顯示於:">
+<!ENTITY newWindowRadio.label             "新視窗">
+<!ENTITY newWindowRadio.accesskey         "n">
+<!ENTITY existingWindowRadio.label        "重複使用已存在的視窗">
+<!ENTITY existingWindowRadio.accesskey    "e">
+<!ENTITY disableContent.label             "阻擋位於遠端來源的圖片與其他內容">
+<!ENTITY disableContent.accesskey         "B">
+<!ENTITY showCondensedAddresses.label     "顯示通訊錄裡設定的名字">
+<!ENTITY showCondensedAddresses.accesskey "o">
+<!ENTITY closeMsgWindowOnDelete.label     "刪除訊息時關閉視窗">
+<!ENTITY closeMsgWindowOnDelete.accesskey "l">

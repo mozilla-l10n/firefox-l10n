@@ -1,0 +1,23 @@
+<!ENTITY sanitizeDialog.title            "清除私人資料">
+<!ENTITY sanitizeItems.label             "立刻清除下列項目:">
+
+<!ENTITY itemHistory.label               "瀏覽記錄">
+<!ENTITY itemHistory.accesskey           "B">
+<!ENTITY itemUrlBar.label                "網址列記錄">
+<!ENTITY itemUrlBar.accesskey            "L">
+<!ENTITY itemDownloads.label             "下載記錄">
+<!ENTITY itemDownloads.accesskey         "D">
+<!ENTITY itemFormSearchHistory.label     "已存的表單與搜尋記錄">
+<!ENTITY itemFormSearchHistory.accesskey "F">
+<!ENTITY itemCache.label                 "快取">
+<!ENTITY itemCache.accesskey             "a">
+<!ENTITY itemCookies.label               "Cookie">
+<!ENTITY itemCookies.accesskey           "C">
+<!ENTITY itemOfflineApps.label           "離線網站資料">
+<!ENTITY itemOfflineApps.accesskey       "O">
+<!ENTITY itemPasswords.label             "已存密碼">
+<!ENTITY itemPasswords.accesskey         "P">
+<!ENTITY itemSessions.label              "已驗證的連線">
+<!ENTITY itemSessions.accesskey          "S">
+
+<!ENTITY sanitizeButton.label            "立刻清除私密記錄">

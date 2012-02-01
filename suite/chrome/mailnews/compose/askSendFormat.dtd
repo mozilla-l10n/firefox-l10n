@@ -1,0 +1,16 @@
+<!--LOCALIZATION NOTE askSendFormat.dtd UI for dialog that asks the user, which format to use for sending a message -->
+<!ENTITY windowTitle.label "HTML 信件問題">
+
+<!ENTITY recipient.label "列表中有些收件者不能收 HTML 格式的信件。">
+
+<!ENTITY question.label "某些收件者可能無法接收 HTML 郵件。您要將郵件轉換成純文字或仍以 HTML 傳送？">
+
+<!ENTITY plainTextAndHtml.label "同時寄出純文字與 HTML 格式">
+<!ENTITY plainTextAndHtml.accesskey "a">
+<!ENTITY plainTextOnly.label "只寄出純文字資料">
+<!ENTITY plainTextOnly.accesskey "P">
+<!ENTITY htmlOnly.label "只寄出 HTML">
+<!ENTITY htmlOnly.accesskey "H">
+
+<!ENTITY send.label "寄出">
+<!ENTITY send.accesskey "S">

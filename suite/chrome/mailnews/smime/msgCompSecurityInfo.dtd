@@ -1,0 +1,14 @@
+<!--LOCALIZATION NOTE msgCompSecurityInfo.dtd UI for viewing security status when composing a message -->
+
+<!ENTITY title.label "郵件安全">
+<!ENTITY subject.plaintextWarning "請注意: 郵件的標題不會被編碼。">
+<!ENTITY status.heading "你的郵件內文會依下列方式寄送:">
+<!ENTITY status.signed "數位簽署:">
+<!ENTITY status.encrypted "已編碼:">
+<!ENTITY status.certificates "憑證:">
+<!ENTITY view.label "檢視">
+<!ENTITY view.accesskey "V">
+<!ENTITY tree.recipient "收件回執:">
+<!ENTITY tree.status "狀態">
+<!ENTITY tree.issuedDate "發行日期:">
+<!ENTITY tree.expiresDate "有效期限">
