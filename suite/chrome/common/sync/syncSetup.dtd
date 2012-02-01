@@ -11,9 +11,9 @@
 <!ENTITY serverType.main.label "Сервер &syncBrand.fullName.label;">
 <!ENTITY serverType.custom2.label "Использовать свой сервер…">
 <!ENTITY signIn.account2.label "Учётная запись">
-<!ENTITY signIn.account2.accesskey "ч">
+<!ENTITY signIn.account2.accesskey "н">
 <!ENTITY signIn.password.label "Пароль">
-<!ENTITY signIn.password.accesskey "р">
+<!ENTITY signIn.password.accesskey "о">
 <!ENTITY signIn.recoveryKey.label "Ключ восстановления">
 <!ENTITY signIn.recoveryKey.accesskey "л">
 <!ENTITY setup.newAccountDetailsPage.title.label "Данные учётной записи">
@@ -22,7 +22,7 @@
 <!ENTITY setup.emailAddress.label "Адрес эл. почты">
 <!ENTITY setup.emailAddress.accesskey "с">
 <!ENTITY setup.tosAgree1.label "Я принял">
-<!ENTITY setup.tosAgree1.accesskey "р">
+<!ENTITY setup.tosAgree1.accesskey "н">
 <!ENTITY setup.tosLink.label "Условия службы">
 <!ENTITY setup.tosAgree2.label "и">
 <!ENTITY setup.ppLink.label "Политику приватности">
@@ -31,7 +31,7 @@
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; заботится о вашей приватности">
 <!ENTITY setup.newRecoveryKeyPage.description.label "Чтобы обеспечить абсолютную приватность, все ваши данные перед их выгрузкой шифруются. Ключ восстановления, необходимый для расшифровки ваших данных, не выгружается.">
 <!ENTITY recoveryKeyEntry.label "Ваш ключ восстановления">
-<!ENTITY recoveryKeyEntry.accesskey "к">
+<!ENTITY recoveryKeyEntry.accesskey "ю">
 <!ENTITY recoveryGenerateNewKey.label "Сгенерировать новый ключ">
 <!ENTITY recoveryKeyBackup.description "Ваш ключ восстановления требуется для получения доступа к &syncBrand.fullName.label; с других машин. Пожалуйста, создайте его резервную копию. Мы не можем помочь вам восстановить ваш ключ восстановления.">
 <!ENTITY button.syncKeyBackup.print.label "Распечатать…">
@@ -59,6 +59,8 @@
 <!ENTITY syncComputerName.label "Имя компьютера:">
 <!ENTITY syncComputerName.accesskey "м">
 <!ENTITY syncMy.label "Синхронизировать мои">
+<!ENTITY engine.addons.label "Дополнения">
+<!ENTITY engine.addons.accesskey "п">
 <!ENTITY engine.bookmarks.label "Закладки">
 <!ENTITY engine.bookmarks.accesskey "к">
 <!ENTITY engine.tabs.label "Вкладки">

@@ -211,6 +211,7 @@
 <!ENTITY pageSourceCmd.accesskey "х">
 <!ENTITY pageSourceCmd.key "u">
 <!ENTITY findCmd.label "Найти в этом сообщении…">
+<!ENTITY quickFilterBar.show.key2 "K">
 <!ENTITY goMenu.label "Переход">
 <!ENTITY goMenu.accesskey "П">
 <!ENTITY nextMenu.label "Следующее…">
@@ -377,7 +378,6 @@
 <!ENTITY deleteButton.label "Удалить">
 <!ENTITY undeleteButton.label "Восстановить">
 <!ENTITY markButton.label "Отметить">
-<!ENTITY printButton.label "Печать">
 <!ENTITY stopButton.label "Остановить">
 <!ENTITY junkButton.label "Спам">
 <!ENTITY notJunkButton.label "Не спам">
@@ -399,7 +399,6 @@
 <!ENTITY deleteButton.tooltip "Удалить выбранное сообщение или папку">
 <!ENTITY undeleteButton.tooltip "Восстановить выбранное сообщение">
 <!ENTITY markButton.tooltip "Отметить сообщения">
-<!ENTITY printButton.tooltip "Распечатать это сообщение">
 <!ENTITY stopButton.tooltip "Остановить текущую передачу данных">
 <!ENTITY throbber.tooltip "Перейти на домашнюю страницу &vendorShortName;">
 <!ENTITY junkButton.tooltip "Отметить выбранные сообщения как спам">

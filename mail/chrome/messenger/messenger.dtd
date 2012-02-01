@@ -266,41 +266,42 @@
 <!ENTITY goMenu.label "Переход">
 <!ENTITY goMenu.accesskey "П">
 <!ENTITY nextMenu.label "Следующее…">
-<!ENTITY nextMenu.accesskey "С">
+<!ENTITY nextMenu.accesskey "л">
 <!ENTITY nextMsgCmd.label "сообщение">
-<!ENTITY nextMsgCmd.accesskey "с">
+<!ENTITY nextMsgCmd.accesskey "б">
 <!ENTITY nextMsgCmd.key "f">
 <!ENTITY nextUnreadMsgCmd.label "непрочитанное сообщение">
 <!ENTITY nextUnreadMsgCmd.accesskey "н">
 <!ENTITY nextUnreadMsgCmd.key "n">
 <!ENTITY nextStarredMsgCmd.label "отмеченное звёздочкой сообщение">
-<!ENTITY nextStarredMsgCmd.accesskey "з">
+<!ENTITY nextStarredMsgCmd.accesskey "о">
 <!ENTITY nextUnreadThread.label "непрочитанное обсуждение">
-<!ENTITY nextUnreadThread.accesskey "о">
+<!ENTITY nextUnreadThread.accesskey "и">
 <!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Предыдущее…">
-<!ENTITY prevMenu.accesskey "П">
+<!ENTITY prevMenu.accesskey "ы">
 <!ENTITY prevMsgCmd.label "сообщение">
 <!ENTITY prevMsgCmd.accesskey "с">
 <!ENTITY prevMsgCmd.key "b">
 <!ENTITY prevUnreadMsgCmd.label "непрочитанное сообщение">
-<!ENTITY prevUnreadMsgCmd.accesskey "н">
+<!ENTITY prevUnreadMsgCmd.accesskey "ч">
 <!ENTITY prevUnreadMsgCmd.key "p">
 <!ENTITY goForwardCmd.label "Вперёд">
-<!ENTITY goForwardCmd.accesskey "п">
+<!ENTITY goForwardCmd.accesskey "е">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY goBackCmd.label "Назад">
-<!ENTITY goBackCmd.accesskey "з">
+<!ENTITY goBackCmd.accesskey "д">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY prevStarredMsgCmd.label "отмеченное звёздочкой сообщение">
 <!ENTITY prevStarredMsgCmd.accesskey "з">
 <!ENTITY folderMenu.label "Папка">
-<!ENTITY folderMenu.accesskey "а">
+<!ENTITY folderMenu.accesskey "к">
 <!ENTITY thisFolder.label "Эта папка">
 <!ENTITY thisFolder.accesskey "т">
 <!ENTITY goRecentlyClosedTabs.label "Недавно закрытые вкладки">
+<!ENTITY goRecentlyClosedTabs.accesskey "д">
 <!ENTITY startPageCmd.label "Начальная страница">
-<!ENTITY startPageCmd.accesskey "Н">
+<!ENTITY startPageCmd.accesskey "а">
 <!ENTITY msgMenu.label "Сообщение">
 <!ENTITY msgMenu.accesskey "б">
 <!ENTITY newMsgCmd.label "Создать">

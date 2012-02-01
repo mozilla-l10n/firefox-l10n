@@ -66,8 +66,6 @@
 <!ENTITY imagemapBox.label "Карта изображения">
 <!ENTITY removeImageMapButton.label "Убрать">
 <!ENTITY removeImageMapButton.accessKey "У">
-<!ENTITY editImageMapButton.label "Редактировать…">
-<!ENTITY editImageMapButton.tooltip "Создать области, чувствительные к нажатии мыши">
 <!ENTITY alignment.label "Расположение текста по отношению к изображению">
 <!ENTITY bottomPopup.value "Внизу">
 <!ENTITY topPopup.value "Вверху">

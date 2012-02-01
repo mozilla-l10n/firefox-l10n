@@ -4,7 +4,6 @@
 <!ENTITY props.path.label "Путь:">
 <!ENTITY props.secure.label "Отправлять при:">
 <!ENTITY props.expires.label "Срок действия истекает:">
-<!ENTITY props.policy.label "Политика:">
 <!ENTITY button.allow.label "Разрешить">
 <!ENTITY button.allow.accesskey "а">
 <!ENTITY button.session.label "Разрешить на сессию">

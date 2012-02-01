@@ -35,6 +35,16 @@
 <!ENTITY selectAllCmd.label "Выделить всё">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "д">
+<!ENTITY findCmd.label "Найти…">
+<!ENTITY findCmd.key "F">
+<!ENTITY findCmd.accesskey "й">
+<!ENTITY findAgainCmd.label "Найти ещё раз…">
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.accesskey "щ">
+<!ENTITY findPreviousCmd.key "G">
+<!ENTITY gotoLineCmd.label "Перейти к строке…">
+<!ENTITY gotoLineCmd.key "J">
+<!ENTITY gotoLineCmd.accesskey "е">
 <!ENTITY run.label "Запустить">
 <!ENTITY run.accesskey "у">
 <!ENTITY run.key "r">

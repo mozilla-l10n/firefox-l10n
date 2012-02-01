@@ -10,7 +10,9 @@
 <!ENTITY allowWindowImageSrcChange.label "Менять изображения">
 <!ENTITY allowContextmenuDisable.label "Отключать или замещать контекстные меню">
 <!ENTITY allowHideStatusBar.label "Скрывать строку состояния">
-<!ENTITY enablePlugin.label "Разрешить использование плагинов для">
+<!ENTITY enablePlugin.label "Использовать плагины в:">
+<!ENTITY enablePluginForSuite.label "Suite">
+<!ENTITY enablePluginForSuite.accesskey "u">
 <!ENTITY whenPluginsRequired.label "Когда требуются дополнительные плагины">
 <!ENTITY displayNotification.label "Отображать панель уведомления в верхней части веб-страницы">
 <!ENTITY displayNotification.accesskey "т">

@@ -2,20 +2,20 @@
 <!ENTITY mainWindow.titlemodifier "&brandShortName;">
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!ENTITY editPageCmd.label "Редактировать страницу">
-<!ENTITY editPageCmd.accesskey "Р">
+<!ENTITY editPageCmd.accesskey "е">
 <!ENTITY editPageCmd.commandkey "e">
 <!ENTITY navbarCmd.label "Панель навигации">
-<!ENTITY navbarCmd.accesskey "П">
-<!ENTITY personalbarCmd.label "Личная панель">
-<!ENTITY personalbarCmd.accesskey "Л">
+<!ENTITY navbarCmd.accesskey "н">
+<!ENTITY bookmarksToolbarCmd.label "Панель закладок">
+<!ENTITY bookmarksToolbarCmd.accesskey "з">
 <!ENTITY closeWindow.label "Закрыть окно">
 <!ENTITY closeWindow.accesskey "о">
 <!ENTITY minimizeButton.tooltip "Свернуть">
 <!ENTITY restoreButton.tooltip "Восстановить">
 <!ENTITY feedsMenu.label "Подписаться на ленты новостей">
-<!ENTITY feedsMenu.accesskey "д">
+<!ENTITY feedsMenu.accesskey "п">
 <!ENTITY menuBar.tooltip "Панель меню">
-<!ENTITY personalToolbar.tooltip "Личная панель">
+<!ENTITY bookmarksToolbar.tooltip "Панель закладок">
 <!ENTITY navigationToolbar.tooltip "Панель навигации">
 <!ENTITY backButton.label "Назад">
 <!ENTITY backButton.tooltip "На предыдущую страницу">

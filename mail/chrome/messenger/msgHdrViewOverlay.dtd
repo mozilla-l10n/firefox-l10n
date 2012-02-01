@@ -40,7 +40,7 @@
 <!ENTITY hdrViewToolbarShowText.label "Показывать только текст">
 <!ENTITY hdrViewToolbarShowText.accesskey "т">
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Всегда показывать ответ отправителю">
-<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "т">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "с">
 <!ENTITY otherActionsButton1.label "Другие действия">
 <!ENTITY otherActionsOpenConversation1.label "Открыть в разговоре">
 <!ENTITY otherActionsOpenConversation1.accesskey "р">
@@ -49,17 +49,17 @@
 <!ENTITY otherActionsOpenInNewTab1.label "Открыть в новой вкладке">
 <!ENTITY otherActionsOpenInNewTab1.accesskey "к">
 <!ENTITY markAsReadMenuItem1.label "Отметить как прочитанное">
-<!ENTITY markAsReadMenuItem1.accesskey "ч">
+<!ENTITY markAsReadMenuItem1.accesskey "и">
 <!ENTITY markAsUnreadMenuItem1.label "Отметить как непрочитанное">
 <!ENTITY markAsUnreadMenuItem1.accesskey "ч">
 <!ENTITY saveAsMenuItem1.label "Сохранить как…">
 <!ENTITY saveAsMenuItem1.accesskey "х">
 <!ENTITY viewSourceMenuItem1.label "Показать исходник">
-<!ENTITY viewSourceMenuItem1.accesskey "д">
+<!ENTITY viewSourceMenuItem1.accesskey "а">
 <!ENTITY otherActionsPrint1.label "Распечатать…">
 <!ENTITY otherActionsPrint1.accesskey "п">
 <!ENTITY openAttachmentCmd.label "Открыть">
-<!ENTITY openAttachmentCmd.accesskey "О">
+<!ENTITY openAttachmentCmd.accesskey "к">
 <!ENTITY saveAsAttachmentCmd.label "Сохранить как…">
 <!ENTITY saveAsAttachmentCmd.accesskey "х">
 <!ENTITY detachAttachmentCmd.label "Отделить…">
@@ -69,18 +69,21 @@
 <!ENTITY openAllAttachmentsCmd.label "Открыть все…">
 <!ENTITY openAllAttachmentsCmd.accesskey "р">
 <!ENTITY saveAllAttachmentsCmd.label "Сохранить все…">
-<!ENTITY saveAllAttachmentsCmd.accesskey "С">
+<!ENTITY saveAllAttachmentsCmd.accesskey "а">
 <!ENTITY detachAllAttachmentsCmd.label "Отделить все…">
-<!ENTITY detachAllAttachmentsCmd.accesskey "О">
+<!ENTITY detachAllAttachmentsCmd.accesskey "д">
 <!ENTITY deleteAllAttachmentsCmd.label "Удалить все…">
-<!ENTITY deleteAllAttachmentsCmd.accesskey "и">
+<!ENTITY deleteAllAttachmentsCmd.accesskey "е">
 <!ENTITY openAttachment.tooltip "Открыть вложенный файл">
 <!ENTITY saveAttachmentButton1.label "Сохранить">
 <!ENTITY saveAttachmentButton1.tooltip "Сохранить вложенный файл">
 <!ENTITY saveAllAttachmentsButton1.label "Сохранить все">
 <!ENTITY saveAllAttachmentsButton1.tooltip "Сохранить все вложенные файлы">
 <!ENTITY copyLinkCmd.label "Копировать ссылку">
-<!ENTITY copyLinkCmd.accesskey "ы">
+<!ENTITY copyLinkCmd.accesskey "и">
 <!ENTITY CopyMessageId.label "Копировать идентификатор">
+<!ENTITY CopyMessageId.accesskey "п">
 <!ENTITY OpenMessageForMsgId.label "Открыть сообщение по идентификатору">
+<!ENTITY OpenMessageForMsgId.accesskey "ы">
 <!ENTITY OpenBrowserWithMsgId.label "Открыть сообщение с идентификатором в браузере">
+<!ENTITY OpenBrowserWithMsgId.accesskey "к">

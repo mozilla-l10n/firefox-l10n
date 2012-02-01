@@ -34,6 +34,6 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY search.placeholder2 "Поиск параметров">
+<!ENTITY search.placeholder2 "Поиск настроек">
 <!ENTITY clear.altText "Очистить">
-<!ENTITY newpref.label2 "Добавить новый параметр">
+<!ENTITY newpref.label2 "Добавить новую настройку">
