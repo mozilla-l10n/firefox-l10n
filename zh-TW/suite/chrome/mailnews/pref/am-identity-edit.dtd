@@ -1,0 +1,7 @@
+<!ENTITY identityDialog.style "width: 67ch;">
+<!ENTITY identityTitle.label "身份設定">
+<!ENTITY identityListDesc.label "此身份的詳細資訊:">
+
+<!ENTITY settingsTab.label       "設定">
+<!ENTITY copiesFoldersTab.label "備份與郵件匣">
+<!ENTITY addressingTab.label    "寫信與通訊錄">

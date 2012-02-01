@@ -48,22 +48,13 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
 <!ENTITY notCached.title "文件已過期">
-<!ENTITY notCached.longDesc "<ul>
-   <li>網址通常長的像
-      <strong>http://www.example.com/</strong>。</li>
-   <li>請確定您用的是斜線 (例:
-      <strong>/</strong>)。</li>
-</ul>
-                ">
+<!ENTITY notCached.longDesc "<p>您所請求的文件已不存在於 &brandShortName; 的快取當中。</p><ul><li>為了您的安全，&brandShortName; 將不會自動重新請求敏感文件。</li><li>請點下重試以重新向網站請求取得文件。</li></ul>">
 
 <!ENTITY netOffline.title "離線模式">
 <!ENTITY netOffline.longDesc2 "<ul>
-   <li>網址通常長的像
-      <strong>http://www.example.com/</strong>。</li>
-   <li>請確定您用的是斜線 (例:
-      <strong>/</strong>)。</li>
+  <li>再試一次。&brandShortName; 會試圖建立連線且重新載入頁面。</li>
 </ul>
-                ">
+">
 
 <!ENTITY contentEncodingError.title "內容編碼錯誤">
 <!ENTITY contentEncodingError.longDesc "

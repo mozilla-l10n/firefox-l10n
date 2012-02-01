@@ -1,0 +1,31 @@
+<!ENTITY serverAdvanced.label "進階帳號設定">
+<!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
+<!ENTITY serverDirectory.label "IMAP 伺服器目錄:">
+<!ENTITY serverDirectory.accesskey "d">
+<!ENTITY usingSubscription.label "只顯示已訂閱目錄">
+<!ENTITY usingSubscription.accesskey "w">
+<!ENTITY dualUseFolders.label "伺服器支援含子目錄及郵件的目錄">
+<!ENTITY dualUseFolders.accesskey "f">
+<!ENTITY useIdle.label "嘗試使用 IDLE 命令">
+<!ENTITY useIdle.accesskey "I">
+<!ENTITY maximumConnectionsNumber.label "快取的最大伺服器連線數">
+<!ENTITY maximumConnectionsNumber.accesskey "M">
+<!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
+<!ENTITY namespaceDesc.label "下列設定指定您的 IMAP 伺服器上的命名空間 (namespace)">
+<!ENTITY personalNamespace.label "個人命名空間:">
+<!ENTITY personalNamespace.accesskey "P">
+<!ENTITY publicNamespace.label "公開 (共享) 空間:">
+<!ENTITY publicNamespace.accesskey "u">
+<!ENTITY otherUsersNamespace.label "其它使用者:">
+<!ENTITY otherUsersNamespace.accesskey "O">
+<!ENTITY overrideNamespaces.label "允許伺服器強制蓋掉這些命名空間">
+<!ENTITY overrideNamespaces.accesskey "A">
+<!ENTITY pop3Desc.label "由此伺服器下載郵件後存入下列郵件匣:" >
+<!ENTITY globalInbox.label "全域收件匣 (本機郵件匣帳號) ">
+<!ENTITY globalInbox.accesskey "G">
+<!ENTITY accountDirectory.label "此伺服器帳號的「收件匣」">
+<!ENTITY accountDirectory.accesskey "s">
+<!ENTITY deferToServer.label "不同帳號的「收件匣」">
+<!ENTITY deferToServer.accesskey "d">
+<!ENTITY deferGetNewMail.label "檢查新郵件時包含此伺服器">
+<!ENTITY deferGetNewMail.accesskey "I">

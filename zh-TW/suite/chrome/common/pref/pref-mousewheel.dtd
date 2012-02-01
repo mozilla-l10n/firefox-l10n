@@ -1,0 +1,28 @@
+<!-- LOCALIZATION NOTE : FILE Mouse-wheel management prefs, for those lucky OSes that support mouse wheels -->
+
+<!ENTITY pref.mouseWheel.title           "滾輪滑鼠">
+<!ENTITY mouseWheelPanel.label           "選擇按下下列修飾鍵並滾動滑鼠滾輪時的行為: ">
+<!ENTITY usingJustTheWheel.label         "只滾動滾輪時">
+<!ENTITY usingWheelAndAlt.label          "&altKey.label;">
+<!ENTITY usingWheelAndCtrl.label         "&ctrlKey.label;">
+<!ENTITY usingWheelAndShft.label         "&shiftKey.label;">
+<!ENTITY mousewheelGroup.label           "垂直捲動">
+<!ENTITY mousewheelHorizGroup.label      "橫向捲動">
+<!ENTITY scroll.label                    "滑鼠滾輪每次捲動 ">
+<!ENTITY scroll.accesskey                "S">
+<!ENTITY scrollHoriz.accesskey           "c">
+<!ENTITY scrollLines.label               "行">
+<!ENTITY scrollChars.label               "字元">
+<!ENTITY useSystemDefault.label          "使用系統預設值">
+<!ENTITY useSystemDefault.accesskey      "U">
+<!ENTITY useSystemDefaultHoriz.accesskey "d">
+<!ENTITY scrollPgUpPgDn.label            "對檢視中的網頁翻頁">
+<!ENTITY scrollPgUpPgDn.accesskey        "p">
+<!ENTITY scrollPgLtPgRt.label            "文件橫向捲動">
+<!ENTITY scrollPgLtPgRt.accesskey        "r">
+<!ENTITY history.label                   "檢視瀏覽記錄的前一頁／下一頁">
+<!ENTITY history.accesskey               "M">
+<!ENTITY historyHoriz.accesskey          "b">
+<!ENTITY zoom.label                      "放大或縮小頁面">
+<!ENTITY zoom.accesskey                  "Z">
+<!ENTITY zoomHoriz.accesskey             "e">

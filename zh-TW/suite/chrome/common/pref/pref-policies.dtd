@@ -1,0 +1,19 @@
+
+<!ENTITY  pref.policies.title "安全性原則">
+
+<!ENTITY  zoneIntro.label     "&brandShortName; 予許你設定存取各個網站時的安全性原則，包括 Java 與 JavaScript 等等。">
+
+<!ENTITY  policies.label      "政策:">
+<!ENTITY  default.label       "預設政策">
+<!ENTITY  allWebsites.label   "所有網站">
+<!ENTITY  trusted.label       "信任的網站">
+<!ENTITY  annoyances.label    "一般困擾">
+<!ENTITY  restricted.label    "限制網站">
+
+<!ENTITY  addSite.label       "新增網站…">
+<!ENTITY  addSite.accesskey   "A">
+<!ENTITY  settings.label      "設定">
+<!ENTITY  settings.accesskey  "S">
+
+<!ENTITY  description.label   "政策描述:">
+ 

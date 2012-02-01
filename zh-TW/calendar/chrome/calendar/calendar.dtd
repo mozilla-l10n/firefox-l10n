@@ -64,6 +64,7 @@
 <!ENTITY calendar.events.filter.today.label "本日事件">
 <!ENTITY calendar.events.filter.future.label "所有未來的事件">
 <!ENTITY calendar.events.filter.current.label "選取日期的事件">
+<!ENTITY calender.events.filter.currentview.label "目前顯示模式當中的事件">
 <!ENTITY calendar.events.filter.next7Days.label " 7 天內的事件">
 <!ENTITY calendar.events.filter.next14Days.label "14 天內的事件">
 <!ENTITY calendar.events.filter.next31Days.label "31 天內的事件">
@@ -179,6 +180,10 @@
 <!ENTITY calendar.task.complete.button.tooltip  "將工作標示為已完成">
 <!ENTITY calendar.task.priority.button.tooltip  "修改重要性">
 
+<!ENTITY calendar.task.text-filter.textbox.emptytext.base            "過濾工作… #1">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Shift+K&gt;">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
+
 <!-- Statusbar -->
 <!ENTITY statusText.label            "文件: 完成">
 
@@ -213,6 +218,8 @@
 <!ENTITY calendar.context.progress.accesskey          "P">
 <!ENTITY calendar.context.priority.label              "重要性">
 <!ENTITY calendar.context.priority.accesskey          "r">
+<!ENTITY calendar.context.postpone.label              "推遲工作">
+<!ENTITY calendar.context.postpone.accesskey          "s">
 
 <!ENTITY percnt "&#38;#37;" ><!--=percent sign-->
 
@@ -238,6 +245,13 @@
 <!ENTITY priority.level.normal.accesskey    "N">
 <!ENTITY priority.level.high                "高">
 <!ENTITY priority.level.high.accesskey      "H">
+
+<!ENTITY calendar.context.postpone.1hour.label      "1 小時">
+<!ENTITY calendar.context.postpone.1hour.accesskey  "H">
+<!ENTITY calendar.context.postpone.1day.label       "1 天">
+<!ENTITY calendar.context.postpone.1day.accesskey   "D">
+<!ENTITY calendar.context.postpone.1week.label      "1 週">
+<!ENTITY calendar.context.postpone.1week.accesskey  "W">
 
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other

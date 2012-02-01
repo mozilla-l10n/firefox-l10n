@@ -118,7 +118,7 @@
 <!ENTITY calendar.addons.label                             "附加元件">
 <!ENTITY calendar.addons.accesskey                         "d">
 
-<!ENTITY goMenu.label                                      "衝!">
+<!ENTITY goMenu.label                                      "衝">
 <!ENTITY goMenu.accesskey                                  "G">
 
 <!ENTITY goDateCmd.label                                   "日期…">

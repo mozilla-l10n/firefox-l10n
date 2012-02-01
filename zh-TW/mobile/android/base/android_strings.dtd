@@ -69,9 +69,9 @@
 <!ENTITY pref_font_size_large "大">
 <!ENTITY pref_font_size_xlarge "特大">
 <!ENTITY pref_use_master_password "使用主控密碼">
-<!ENTITY pref_sync "Sync">
+<!ENTITY pref_sync "同步">
 
-<!ENTITY quit "離開">
+<!ENTITY quit "結束">
 
 <!ENTITY addons "附加元件">
 <!ENTITY downloads "下載">
@@ -83,7 +83,7 @@
 <!ENTITY contextmenu_open_new_tab "以新分頁開啟">
 <!ENTITY contextmenu_remove_bookmark "移除">
 <!ENTITY contextmenu_add_to_launcher "新增至裝置主畫面">
-<!ENTITY contextmenu_share "透露">
+<!ENTITY contextmenu_share "分享">
 
 <!ENTITY site_settings_title        "清除網站設定值">
 <!ENTITY site_settings_cancel       "取消">

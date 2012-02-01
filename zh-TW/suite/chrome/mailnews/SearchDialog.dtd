@@ -1,0 +1,32 @@
+<!-- for SearchDialog.xul -->
+<!ENTITY searchHeading.label         "搜尋郵件:">
+<!ENTITY searchHeading.accesskey     "e">
+<!ENTITY searchSubfolders.label      "搜尋子郵件匣">
+<!ENTITY searchSubfolders.accesskey  "u">
+<!ENTITY searchLocalSystem.label     "搜尋本機系統">
+<!ENTITY searchLocalSystem.accesskey "y">
+<!ENTITY resetButton.label           "清除">
+<!ENTITY resetButton.accesskey       "C">
+<!ENTITY openButton.label            "開啟">
+<!ENTITY openButton.accesskey        "O">
+<!ENTITY deleteButton.label          "刪除">
+<!ENTITY deleteButton.accesskey      "D">
+<!ENTITY searchDialogTitle.label     "搜尋郵件">
+<!ENTITY results.label               "結果">
+<!ENTITY fileHereMenu.label          "存入此處">
+<!ENTITY fileHereMenu.accesskey      "r">
+<!ENTITY fileButton.label            "檔案">
+<!ENTITY fileButton.accesskey        "F">
+<!ENTITY goToFolderButton.label      "開啟郵件匣">
+<!ENTITY goToFolderButton.accesskey  "n">
+<!ENTITY saveAsVFButton.label      "存為即時搜尋資料夾">
+<!ENTITY saveAsVFButton.accesskey  "v">
+
+<!-- for ABSearchDialog.xul -->
+<!ENTITY abSearchHeading.label       "尋找:">
+<!ENTITY abSearchHeading.accesskey   "e">
+<!ENTITY propertiesButton.label      "屬性">
+<!ENTITY propertiesButton.accesskey  "P">
+<!ENTITY composeButton.label         "發新信件">
+<!ENTITY composeButton.accesskey     "o">
+<!ENTITY abSearchDialogTitle.label   "進階通訊錄搜尋">

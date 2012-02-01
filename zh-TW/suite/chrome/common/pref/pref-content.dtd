@@ -1,0 +1,21 @@
+<!--LOCALIZATION NOTE : FILE The Appearance > Content prefs dialog.  -->
+
+<!ENTITY pref.content.title                     "內容">
+<!ENTITY pref.content.description               "這些設定將會影響網頁及內容在 &brandShortName; 顯示的方式。">
+<!ENTITY siteIcons.label                        "網頁圖示">
+<!ENTITY useSiteIcons.label                     "顯示網站圖示">
+<!ENTITY useSiteIcons.accesskey                 "S">
+<!ENTITY useFavIcons.label                      "若網頁沒有定義，積極地搜尋網頁圖示">
+<!ENTITY useFavIcons.accesskey                  "A">
+<!ENTITY enableAutomaticImageResizing.label     "自動縮放圖片以符合瀏覽器視窗大小">
+<!ENTITY enableAutomaticImageResizing.accesskey "R">
+<!ENTITY useSmoothScroll.label                  "使用平滑捲動">
+<!ENTITY useSmoothScroll.accesskey              "U">
+<!ENTITY allowHWAccel.label                     "可用時開啟硬體加速">
+<!ENTITY allowHWAccel.accesskey                 "e">
+<!ENTITY textZoomOnly.label                     "只縮放文字，而不是整個頁面">
+<!ENTITY textZoomOnly.accesskey                 "Z">
+<!ENTITY blockAutoRefresh.label                 "當網站試圖重新導向或重新載入頁面時警告">
+<!ENTITY blockAutoRefresh.accesskey             "W">
+<!ENTITY siteSpecific.label                     "針對每個不同的網站記憶縮放等級">
+<!ENTITY siteSpecific.accesskey                 "m">

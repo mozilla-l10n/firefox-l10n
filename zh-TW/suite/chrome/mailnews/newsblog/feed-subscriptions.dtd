@@ -1,0 +1,18 @@
+<!-- Subscription Dialog -->
+<!ENTITY feedSubscriptions.label "消息來源訂閱">
+<!ENTITY subscriptionDesc.label "注意: 移除或變更消息來源資料夾並不會影響已下載的文章。">
+<!ENTITY feedTitle.label "標題:">
+<!ENTITY location.label  "位址:">
+
+<!ENTITY button.addFeed.label       "新增">
+<!ENTITY button.addFeed.accesskey   "A">
+<!ENTITY button.editFeed.label      "編輯">
+<!ENTITY button.editFeed.accesskey  "E">
+<!ENTITY button.removeFeed.label "移除">
+<!ENTITY button.removeFeed.accesskey   "R">
+<!ENTITY button.importOPML.label "匯入">
+<!ENTITY button.importOPML.accesskey   "I">
+<!ENTITY button.exportOPML.label "匯出">
+<!ENTITY button.exportOPML.accesskey   "x">
+
+<!ENTITY cmd.close.commandKey             "w">
