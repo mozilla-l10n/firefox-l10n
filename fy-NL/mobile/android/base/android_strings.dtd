@@ -26,7 +26,7 @@
 
 <!ENTITY choose_file "Bestân kieze">
 
-<!ENTITY awesomebar_default_text "Fier in sykterm of adres yn">
+<!ENTITY awesomebar_default_text "Fier sykterm of adres yn">
 
 <!ENTITY bookmark "Blêdwizer">
 <!ENTITY bookmark_added "Blêdwizer tafoege">
@@ -53,8 +53,9 @@
 <!ENTITY pref_remember_signons "Wachtwurden ûnthâlde">
 <!ENTITY pref_cookies "Cookies ynskeakelje">
 <!ENTITY pref_char_encoding "Tekenset toane">
+<!ENTITY pref_char_encoding_on "Menu toane">
+<!ENTITY pref_char_encoding_off "Menu net toane">
 <!ENTITY pref_clear_history "Skiednis wiskje">
-
 <!ENTITY pref_clear_history_confirm "Navigaasjeskiednis wurdt fuortsmiten">
 <!ENTITY pref_clear_private_data "Priveegegevens wiskje">
 <!ENTITY pref_clear_private_data_confirm "Navigaasje-ynstellingen, ynklusyf wachtwurden en cookies, wurde fuortsmiten">
@@ -69,11 +70,13 @@
 <!ENTITY pref_font_size_large "Grut">
 <!ENTITY pref_font_size_xlarge "Ekstra grut">
 <!ENTITY pref_use_master_password "Haadwachtwurd brûke">
+<!ENTITY pref_sync "Sync">
 
 <!ENTITY quit "Ofslute">
 
 <!ENTITY addons "Add-ons">
 <!ENTITY downloads "Downloads">
+<!ENTITY char_encoding "Tekenset">
 
 <!ENTITY share "Diele">
 <!ENTITY save_as_pdf "Bewarje as PDF">
