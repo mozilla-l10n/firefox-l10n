@@ -78,8 +78,6 @@
 <!ENTITY imagemapBox.label "Ofbyldingsmap">
 <!ENTITY removeImageMapButton.label "Fuortsmite">
 <!ENTITY removeImageMapButton.accessKey "F">
-<!ENTITY editImageMapButton.label "Bewurkje…">
-<!ENTITY editImageMapButton.tooltip "Meitsje klikbere hotspots foar dizze ôfbylding">
 
 <!-- These are the options for image alignment -->
 <!ENTITY alignment.label "Tekst útline lâns ôfbylding">
