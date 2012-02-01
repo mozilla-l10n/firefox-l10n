@@ -10,10 +10,10 @@
 <!ENTITY sync.title.pair.label 'Een apparaat koppelen'>
 
 <!-- J-PAKE Key Screen -->
-<!ENTITY sync.subtitle.connect.label 'Selecteer  &syncBrand.shortName.label; instellen” op het apparaat om uw nieuwe apparaat te activeren.'>
+<!ENTITY sync.subtitle.connect.label 'Selecteer “&syncBrand.shortName.label; instellen” op uw nieuwe apparaat om het te activeren.'>
 <!ENTITY sync.subtitle.header.label 'Voer deze code in op uw computer'>
 <!ENTITY sync.subtitle.connectlocation.label 'Selecteer “&sync.title.pair.label;” in de &syncBrand.shortName.label; sectie van uw desktop Firefox-opties.'>
-<!ENTITY sync.subtitle.pair.label 'Om te activeren, selecteer “Een apparaat koppelen” op uw andere apparaat.'>
+<!ENTITY sync.subtitle.pair.label 'Selecteer “Een apparaat koppelen” op uw andere apparaat om het te activeren.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.pin.oneline.label '...'>
 <!ENTITY sync.link.show.label 'Tonen hoe.'>
@@ -21,7 +21,7 @@
 <!ENTITY sync.link.nodevice.label 'Ik heb het apparaat niet bij me…'>
 
 <!-- J-PAKE Waiting Screen -->
-<!ENTITY sync.jpake.subtitle.waiting.label 'Op andere apparaat wachten…'>
+<!ENTITY sync.jpake.subtitle.waiting.label 'Wachten op andere apparaat…'>
 
 <!-- Account Login Screen -->
 <!ENTITY sync.subtitle.account.label 'Voer uw &syncBrand.fullName.label;-accountgegevens in'>
@@ -40,9 +40,9 @@
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Set-up voltooid'>
-<!ENTITY sync.subtitle.success.label 'Uw gegevens worden nu gedownload op de achtergrond. U kunt naar instellingen gaan om uw account te beheren.'>
+<!ENTITY sync.subtitle.success.label 'Uw gegevens worden nu op de achtergrond gedownload. U kunt naar Instellingen gaan om uw account te beheren.'>
 <!ENTITY sync.settings.label 'Instellingen'>
-<!ENTITY sync.subtitle.manage.label 'Uw &syncBrand.fullName.label;-account is al ingesteld. Ga naar instellingen om uw account te beheren.'>
+<!ENTITY sync.subtitle.manage.label 'Uw &syncBrand.fullName.label;-account is al geconfigureerd. Ga naar Instellingen om uw account te beheren.'>
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label 'Probeer het opnieuw.'>
@@ -69,4 +69,4 @@
 <!ENTITY bookmarks.folder.mobile.label 'Mobiel-bladwijzers'>
 
 <!-- Notification strings -->
-<!ENTITY sync.notification.oneaccount.label 'Maar één &syncBrand.fullName.label;-account wordt ondersteund.'>
+<!ENTITY sync.notification.oneaccount.label 'Er wordt maar één &syncBrand.fullName.label;-account ondersteund.'>
