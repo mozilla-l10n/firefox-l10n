@@ -1,0 +1,16 @@
+<!ENTITY prefSpelling.title "Орфография">
+<!ENTITY generalSpelling.label "Общие">
+<!ENTITY checkSpellingWhenTyping.label "Проверять орфографию при наборе текста:">
+<!ENTITY checkSpellingWhenTyping.accesskey "е">
+<!ENTITY dontCheckSpelling.label "Никогда">
+<!ENTITY multilineCheckSpelling.label "В многострочных формах">
+<!ENTITY alwaysCheckSpelling.label "Во всех формах">
+<!ENTITY spellForMailAndNews.label "Почта и группы новостей">
+<!ENTITY checkSpellingBeforeSend.label "Проверять орфографию перед отправкой сообщения">
+<!ENTITY checkSpellingBeforeSend.accesskey "в">
+<!ENTITY spellCheckInline.label "Проверять орфографию при наборе текста">
+<!ENTITY spellCheckInline.accesskey "я">
+<!ENTITY languagePopup.label "Язык:">
+<!ENTITY languagePopup.accessKey "з">
+<!ENTITY moreDictionaries.label "Загрузить дополнительные словари…">
+<!ENTITY noSpellCheckAvailable.label "Ни одного словаря не доступно.">

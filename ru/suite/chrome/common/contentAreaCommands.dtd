@@ -52,11 +52,11 @@
 <!ENTITY viewBGImageCmd.accesskey "р">
 <!ENTITY setWallpaperCmd.label "Поместить на Рабочий стол">
 <!ENTITY setWallpaperCmd.accesskey "е">
-<!ENTITY bookmarkPageCmd.label "Добавить страницу в закладки">
+<!ENTITY bookmarkPageCmd.label "Добавить страницу в закладки…">
 <!ENTITY bookmarkPageCmd.accesskey "б">
-<!ENTITY bookmarkLinkCmd.label "Добавить ссылку в закладки">
+<!ENTITY bookmarkLinkCmd.label "Добавить ссылку в закладки…">
 <!ENTITY bookmarkLinkCmd.accesskey "з">
-<!ENTITY bookmarkFrameCmd.label "Добавить фрейм в закладки">
+<!ENTITY bookmarkFrameCmd.label "Добавить фрейм в закладки…">
 <!ENTITY bookmarkFrameCmd.accesskey "б">
 <!ENTITY savePageAsCmd.label "Сохранить как…">
 <!ENTITY savePageCmd.label "Сохранить страницу">
