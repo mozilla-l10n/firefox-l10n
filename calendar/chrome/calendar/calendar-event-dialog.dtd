@@ -335,8 +335,6 @@
 <!ENTITY event.freebusy.next.slot "Næsta hólf ">
 <!ENTITY event.freebusy.previous.slot " Fyrra hólf">
 <!ENTITY event.freebusy.zoom "Aðdráttur:">
-<!ENTITY event.freebusy.plus "Næsta klst">
-<!ENTITY event.freebusy.minus "Fyrri klst">
 <!ENTITY event.freebusy.legend.free "Laus">
 <!ENTITY event.freebusy.legend.busy "Upptekinn">
 <!ENTITY event.freebusy.legend.busy_tentative "Með fyrirvara">

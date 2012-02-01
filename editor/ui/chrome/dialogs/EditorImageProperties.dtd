@@ -73,8 +73,6 @@
 <!ENTITY imagemapBox.label "Myndvörpun">
 <!ENTITY removeImageMapButton.label "Fjarlægja">
 <!ENTITY removeImageMapButton.accessKey "r">
-<!ENTITY editImageMapButton.label "Breyta…">
-<!ENTITY editImageMapButton.tooltip "Búa til smellisvæði á þessari mynd">
 <!-- These are the options for image alignment -->
 <!ENTITY alignment.label "Jafna texta við mynd">
 <!ENTITY bottomPopup.value "Neðst">

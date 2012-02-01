@@ -72,11 +72,13 @@
 <!ENTITY pasteCmd.accesskey "L">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY editRewrapCmd.label "Línuskipta">
-<!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "s">
 <!ENTITY deleteCmd.label "Eyða">
 <!ENTITY deleteCmd.accesskey "E">
+<!ENTITY editRewrapCmd.label "Línuskipta">
+<!ENTITY editRewrapCmd.key "R">
+<!ENTITY renameAttachmentCmd.label "Endurnefna viðhengi…">
+<!ENTITY renameAttachmentCmd.accesskey "e">
 <!ENTITY selectAllCmd.label "Velja allt">
 <!ENTITY selectAllCmd.key "V">
 <!ENTITY selectAllCmd.accesskey "j">

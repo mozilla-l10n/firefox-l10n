@@ -69,27 +69,6 @@
 <!-- Events and Tasks menu -->
 <!ENTITY lightning.menu.eventtask.label "Atburðir og verk">
 <!ENTITY lightning.menu.eventtask.accesskey "A">
-<!-- Mode Toolbar -->
-<!ENTITY lightning.toolbar.mail.label "Póstur">
-<!ENTITY lightning.toolbar.mail.accesskey "P">
-<!ENTITY lightning.toolbar.calendar.label "Dagatal">
-<!ENTITY lightning.toolbar.calendar.tooltip "Skipta yfir í dagatalsflipa">
-<!ENTITY lightning.toolbar.calendar.accesskey "D">
-<!ENTITY lightning.toolbar.task.label "Verk">
-<!ENTITY lightning.toolbar.task.tooltip "Skipta yfir í verkflipa">
-<!ENTITY lightning.toolbar.task.accesskey "V">
-<!-- Toolbar write button -->
-<!ENTITY lightning.toolbar.newevent.label "Atburður">
-<!ENTITY lightning.toolbar.newtask.label "Verk">
-<!-- Messenger Toolbar -->
-<!ENTITY lightning.toolbar.day.label "Dagur">
-<!ENTITY lightning.toolbar.day.accesskey "D">
-<!ENTITY lightning.toolbar.week.label "Vika">
-<!ENTITY lightning.toolbar.week.accesskey "V">
-<!ENTITY lightning.toolbar.multiweek.label "Margar vikur">
-<!ENTITY lightning.toolbar.multiweek.accesskey "v">
-<!ENTITY lightning.toolbar.month.label "Mánuður">
-<!ENTITY lightning.toolbar.month.accesskey "M">
 <!-- properties dialog, calendar creation wizard -->
 <!ENTITY lightning.calendarproperties.showevents.inagenda.label "Sýna atburði í dag flipa">
 <!ENTITY lightning.calendarproperties.showtasks.label "Sýna verk í dag flipa og verk ham">

@@ -120,5 +120,8 @@
 <!ENTITY copyLinkCmd.label "Afrita tengil">
 <!ENTITY copyLinkCmd.accesskey "A">
 <!ENTITY CopyMessageId.label "Afrita Skeytis-Auðkenni">
+<!ENTITY CopyMessageId.accesskey "A">
 <!ENTITY OpenMessageForMsgId.label "Opna póst fyrir ákveðið auðkenni">
+<!ENTITY OpenMessageForMsgId.accesskey "O">
 <!ENTITY OpenBrowserWithMsgId.label "Opna vafra með Skeytis-Auðkenni">
+<!ENTITY OpenBrowserWithMsgId.accesskey "v">
