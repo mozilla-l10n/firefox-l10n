@@ -1,5 +1,5 @@
 <!ENTITY aboutAddons.title                      "附加组件管理器">
-<!ENTITY aboutAddons.header                     "附加组件">
+<!ENTITY aboutAddons.header2                    "您的附加组件">
 <!ENTITY aboutAddons.options                    "选项">
 
 <!ENTITY addonAction.enable                     "启用">

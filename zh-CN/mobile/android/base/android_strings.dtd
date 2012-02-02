@@ -52,6 +52,8 @@
 <!ENTITY pref_remember_signons "记住密码">
 <!ENTITY pref_cookies "启用 cookie">
 <!ENTITY pref_char_encoding "显示字符编码">
+<!ENTITY pref_char_encoding_on "显示菜单">
+<!ENTITY pref_char_encoding_off "不显示菜单">
 <!ENTITY pref_clear_history "清空历史记录">
 <!ENTITY pref_clear_history_confirm "浏览历史记录将被删除">
 <!ENTITY pref_clear_private_data "清除隐私数据">
@@ -67,11 +69,13 @@
 <!ENTITY pref_font_size_large "大">
 <!ENTITY pref_font_size_xlarge "超大">
 <!ENTITY pref_use_master_password "使用主密码">
+<!ENTITY pref_sync "同步">
 
 <!ENTITY quit "退出">
 
 <!ENTITY addons "附加组件">
 <!ENTITY downloads "下载">
+<!ENTITY char_encoding "字符编码">
 
 <!ENTITY share "共享">
 <!ENTITY save_as_pdf "另存为 PDF">
