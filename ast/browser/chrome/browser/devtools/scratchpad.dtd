@@ -90,12 +90,15 @@
   -->
 <!ENTITY resetContext2.label           "Restablecer">
 <!ENTITY resetContext2.accesskey       "R">
-
-
-
-
 <!ENTITY errorConsoleCmd.commandkey   "j">
-
-
 <!ENTITY webConsoleCmd.commandkey     "k">
-
+<!ENTITY findCmd.label "Guetar…">
+<!ENTITY findCmd.key "F">
+<!ENTITY findCmd.accesskey "G">
+<!ENTITY findAgainCmd.label "Repetir la gueta…">
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.accesskey "t">
+<!ENTITY findPreviousCmd.key "G">
+<!ENTITY gotoLineCmd.label "Saltar a la llinia…">
+<!ENTITY gotoLineCmd.key "J">
+<!ENTITY gotoLineCmd.accesskey "S">
