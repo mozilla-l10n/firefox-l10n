@@ -14,7 +14,7 @@
 <!ENTITY fullnameExample.label "(ad esempio, &quot;Mario Rossi&quot;).">
 <!ENTITY fullnameLabel.label "Nome:">
 <!ENTITY fullnameLabel.accesskey "N">
-<!ENTITY emailLabel.label "Indirizzo e-mail:">
+<!ENTITY emailLabel.label "Indirizzo email:">
 <!ENTITY emailLabel.accesskey "I">
 <!ENTITY serverTitle.label "Informazioni sul server">
 <!ENTITY incomingServerTypeDesc.label "Selezionare il tipo di server in ingresso utilizzato.">
@@ -33,6 +33,10 @@
 <!ENTITY popType.accesskey "P">
 <!ENTITY leaveMsgsOnSrvr.label "Lascia i messaggi sul server">
 <!ENTITY leaveMsgsOnSrvr.accesskey "L">
+<!ENTITY portNum.label "Porta:">
+<!ENTITY portNum.accesskey "P">
+<!ENTITY defaultPortLabel.label "Predefinito:">
+<!ENTITY defaultPortValue.label "">
 <!ENTITY haveSmtp1.prefix "Sarà usato il server esistente per la posta in uscita (SMTP), &quot;">
 <!ENTITY haveSmtp1.suffix2 "sarà usato &quot;. È possibile cambiare i server in uscita nelle impostazioni dell'account.">
 <!ENTITY loginTitle.label "Nomi utente">

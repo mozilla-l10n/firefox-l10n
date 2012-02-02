@@ -3,7 +3,7 @@
 <!ENTITY name.accesskey "n">
 <!ENTITY name.placeholder "Nome Cognome">
 <!ENTITY name.text "Nome da visualizzare">
-<!ENTITY email.label "Indirizzo e-mail:">
+<!ENTITY email.label "Indirizzo email:">
 <!ENTITY email.accesskey "I">
 <!ENTITY email.placeholder "email@example.com">
 <!ENTITY password.label "Password:">

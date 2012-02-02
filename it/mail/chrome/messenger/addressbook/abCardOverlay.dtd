@@ -15,15 +15,15 @@
 <!ENTITY DisplayName.label "Nome visualizzato:">
 <!ENTITY DisplayName.accesskey "z">
 <!ENTITY preferDisplayName.label "Preferire sempre il nome visualizzato all'intestazione del messaggio">
-<!ENTITY preferDisplayName.accesskey "P">
+<!ENTITY preferDisplayName.accesskey "d">
 <!ENTITY NickName.label "Soprannome:">
 <!ENTITY NickName.accesskey "S">
-<!ENTITY PrimaryEmail.label "E-mail:">
-<!ENTITY PrimaryEmail.accesskey "-">
-<!ENTITY SecondEmail.label "E-mail aggiuntiva:">
+<!ENTITY PrimaryEmail.label "Email:">
+<!ENTITY PrimaryEmail.accesskey "E">
+<!ENTITY SecondEmail.label "Email aggiuntiva:">
 <!ENTITY SecondEmail.accesskey "a">
 <!ENTITY PreferMailFormat.label "Formato preferito per i messaggi di posta:">
-<!ENTITY PreferMailFormat.accesskey "o">
+<!ENTITY PreferMailFormat.accesskey "p">
 <!ENTITY PlainText.label "Testo semplice">
 <!ENTITY HTML.label "HTML">
 <!ENTITY Unknown.label "Sconosciuto">
@@ -34,12 +34,12 @@
 <!ENTITY allowRemoteContent1.tooltip "Nei messaggi in HTML è possibile includere elementi ospitati da siti remoti. L'apertura di un tale messaggio aprirà una connessione a tale sito. Questo potrebbe consentire al mittente di verificare che il messaggio è stato letto. Spuntare questa casella consentirà l'apertura di elementi esterni contenuti nei messaggi HTML provenienti da questo contatto.">
 <!ENTITY WorkPhone.label "Lavoro:">
 <!ENTITY WorkPhone.accesskey "v">
-<!ENTITY HomePhone.label "Casa:">
-<!ENTITY HomePhone.accesskey "C">
+<!ENTITY HomePhone.label "Abitazione:">
+<!ENTITY HomePhone.accesskey "b">
 <!ENTITY FaxNumber.label "Fax:">
 <!ENTITY FaxNumber.accesskey "x">
 <!ENTITY PagerNumber.label "Cerca persone:">
-<!ENTITY PagerNumber.accesskey "e">
+<!ENTITY PagerNumber.accesskey "o">
 <!ENTITY CellularNumber.label "Cellulare:">
 <!ENTITY CellularNumber.accesskey "u">
 <!ENTITY Home.tab "Privato">

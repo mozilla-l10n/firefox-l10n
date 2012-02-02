@@ -2,12 +2,17 @@
 <!ENTITY addressbookPicker.accesskey "R">
 <!ENTITY searchInput.label "Cerca:">
 <!ENTITY searchInput.accesskey "e">
-<!ENTITY SearchNameOrEmail.label "Nome o e-mail">
+<!ENTITY SearchNameOrEmail.label "Nome o email">
 <!ENTITY deleteAddrBookCard.label "Elimina">
+<!ENTITY deleteAddrBookCard.accesskey "E">
 <!ENTITY addrBookCardProperties.label "Proprietà">
+<!ENTITY addrBookCardProperties.accesskey "P">
 <!ENTITY addtoToFieldMenu.label "Aggiungi al campo A">
+<!ENTITY addtoToFieldMenu.accesskey "A">
 <!ENTITY addtoCcFieldMenu.label "Aggiungi al campo Cc">
+<!ENTITY addtoCcFieldMenu.accesskey "C">
 <!ENTITY addtoBccFieldMenu.label "Aggiungi al campo Ccn">
+<!ENTITY addtoBccFieldMenu.accesskey "n">
 <!ENTITY toButton.label "Aggiungi a A:">
 <!ENTITY toButton.accesskey "A">
 <!ENTITY ccButton.label "Aggiungi a Cc:">

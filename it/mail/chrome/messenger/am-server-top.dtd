@@ -2,14 +2,14 @@
 <!ENTITY serverSettings.label "Impostazioni server">
 <!ENTITY serverType.label "Tipo di server:">
 <!ENTITY serverName.label "Nome server:">
-<!ENTITY serverName.accesskey "N">
+<!ENTITY serverName.accesskey "r">
 <!ENTITY userName.label "Nome utente:">
-<!ENTITY userName.accesskey "N">
+<!ENTITY userName.accesskey "U">
 <!ENTITY port.label "Porta:">
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "Predefinito:">
 <!ENTITY biffStart.label "Controlla nuovi messaggi ogni ">
-<!ENTITY biffStart.accesskey "i">
+<!ENTITY biffStart.accesskey "n">
 <!ENTITY biffEnd.label "minuti">
 <!ENTITY connectionSecurity.label "Sicurezza della connessione:">
 <!ENTITY connectionSecurity.accesskey "d">
@@ -18,34 +18,34 @@
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY authMethod.label "Metodo di autenticazione:">
-<!ENTITY authMethod.accesskey "i">
+<!ENTITY authMethod.accesskey "A">
 <!ENTITY leaveOnServer.label "Lascia i messaggi sul server">
-<!ENTITY leaveOnServer.accesskey "g">
+<!ENTITY leaveOnServer.accesskey "L">
 <!ENTITY headersOnly.label "Preleva soltanto le intestazioni">
-<!ENTITY headersOnly.accesskey "r">
+<!ENTITY headersOnly.accesskey "e">
 <!ENTITY deleteByAgeFromServer.label "non più di">
-<!ENTITY deleteByAgeFromServer.accesskey "p">
+<!ENTITY deleteByAgeFromServer.accesskey "ù">
 <!ENTITY daysEnd.label "giorni">
 <!ENTITY deleteOnServer2.label "finché non vengono eliminati">
-<!ENTITY deleteOnServer2.accesskey "h">
+<!ENTITY deleteOnServer2.accesskey "f">
 <!ENTITY downloadOnBiff.label "Scarica automaticamente nuovi messaggi">
-<!ENTITY downloadOnBiff.accesskey "m">
+<!ENTITY downloadOnBiff.accesskey "t">
 <!ENTITY username.label "Nome di accesso">
 <!ENTITY deleteMessagePrefix.label "Quando si elimina un messaggio:">
 <!ENTITY modelMoveToTrash.label "Spostalo in questa cartella:">
-<!ENTITY modelMoveToTrash.accesskey "o">
+<!ENTITY modelMoveToTrash.accesskey "q">
 <!ENTITY modelMarkDeleted.label "Segnalo eliminato">
 <!ENTITY modelMarkDeleted.accesskey "e">
-<!ENTITY modelDeleteImmediately.label "Rimuovilo immediatamente">
-<!ENTITY modelDeleteImmediately.accesskey "R">
-<!ENTITY expungeOnExit.label "All'uscita pulisci la Posta in arrivo (&quot;Expunge&quot;)">
-<!ENTITY expungeOnExit.accesskey "E">
+<!ENTITY modelDeleteImmediately.label "Eliminalo subito">
+<!ENTITY modelDeleteImmediately.accesskey "b">
+<!ENTITY expungeOnExit.label "All'uscita pulisci la Posta in arrivo">
+<!ENTITY expungeOnExit.accesskey "o">
 <!ENTITY emptyTrashOnExit.label "Svuota cestino all'uscita">
-<!ENTITY emptyTrashOnExit.accesskey "u">
+<!ENTITY emptyTrashOnExit.accesskey "c">
 <!ENTITY loginAtStartup.label "Controlla nuovi messaggi all'avvio">
-<!ENTITY loginAtStartup.accesskey "C">
+<!ENTITY loginAtStartup.accesskey "m">
 <!ENTITY maxMessagesStart.label "Chiedi prima di scaricare più di">
-<!ENTITY maxMessagesStart.accesskey "m">
+<!ENTITY maxMessagesStart.accesskey "C">
 <!ENTITY maxMessagesEnd.label "messaggi">
 <!ENTITY alwaysAuthenticate.label "Chiedi sempre l'autenticazione alla connessione a questo server">
 <!ENTITY alwaysAuthenticate.accesskey "h">
