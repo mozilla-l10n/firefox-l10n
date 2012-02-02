@@ -68,13 +68,15 @@
 <!ENTITY pasteCmd.accesskey "o">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
+<!ENTITY deleteCmd.label "Supprimer">
+<!ENTITY deleteCmd.accesskey "e">
 <!ENTITY editRewrapCmd.label "Reformater">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey  "o">
-<!ENTITY deleteCmd.label "Supprimer">
-<!ENTITY deleteCmd.accesskey "e">
 <!ENTITY removeAttachment.label "Supprimer la pièce jointe">
 <!ENTITY removeAttachment.accesskey "j">
+<!ENTITY renameAttachmentCmd.label "Renommer la pièce jointe…">
+<!ENTITY renameAttachmentCmd.accesskey "R">
 <!ENTITY selectAllCmd.label "Tout sélectionner">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "T"> 
