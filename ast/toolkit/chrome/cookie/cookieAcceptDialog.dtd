@@ -4,7 +4,6 @@
 <!ENTITY     props.path.label               "Camín:">
 <!ENTITY     props.secure.label             "Unviar pa:">
 <!ENTITY     props.expires.label            "Espira:">
-<!ENTITY     props.policy.label             "Política:"> 
 
 <!ENTITY     button.allow.label             "Permitir">
 <!ENTITY     button.allow.accesskey         "P">
