@@ -4,7 +4,7 @@
 <!ENTITY ListName.label "Nome della lista: ">
 <!ENTITY ListNickName.label "Soprannome della lista: ">
 <!ENTITY ListDescription.label "Descrizione: ">
-<!ENTITY AddressTitle.label "Inserire gli indirizzi e-mail per aggiungerli alla lista di distribuzione:">
+<!ENTITY AddressTitle.label "Inserire gli indirizzi email per aggiungerli alla lista di distribuzione:">
 <!ENTITY UpButton.label "Sposta in alto">
 <!ENTITY DownButton.label "Sposta in basso">
 <!ENTITY addToAddressBook.accesskey "A">

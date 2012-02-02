@@ -5,7 +5,7 @@
 <!ENTITY identityDesc.label "Ogni account ha la propria identità cioè le informazioni che le altre persone vedono quando leggono i messaggi.">
 <!ENTITY name.label "Nome:">
 <!ENTITY name.accesskey "N">
-<!ENTITY email.label "Indirizzo e-mail:">
+<!ENTITY email.label "Indirizzo email:">
 <!ENTITY email.accesskey "I">
 <!ENTITY replyTo.label "Indirizzo per risposte:">
 <!ENTITY replyTo.accesskey "z">
@@ -14,7 +14,7 @@
 <!ENTITY organization.accesskey "O">
 <!ENTITY signatureText.label "Testo per firma:">
 <!ENTITY signatureText.accesskey "r">
-<!ENTITY signatureHtml.label "Utilizza HTML (ad esempio &lt;b&gt;bold&lt;/b&gt;)">
+<!ENTITY signatureHtml.label "Utilizza HTML (ad esempio &lt;b&gt;grassetto&lt;/b&gt;)">
 <!ENTITY signatureHtml.accesskey "L">
 <!ENTITY signatureFile.label "In alternativa allega la firma da un file (testo, HTML o immagine):">
 <!ENTITY signatureFile.accesskey "t">
