@@ -219,8 +219,8 @@
 <!ENTITY newNavigatorCmd.label "Jauns logs">
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "N">
-<!ENTITY inspect3DButton.label        "3D">
-<!ENTITY inspect3DButton.accesskey    "M">
+<!ENTITY inspect3DViewButton.label     "3D skats">
+<!ENTITY inspect3DViewButton.accesskey "s">
 
 <!ENTITY editMenu.label "Rediģēt">
 <!ENTITY editMenu.accesskey "E">
