@@ -267,6 +267,10 @@
 
 <!ENTITY findCmd.label "Rechercher…">
 
+<!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
+     This is the key used to show the Lightning quick filter bar. -->
+<!ENTITY quickFilterBar.show.key2 "K">
+
 <!-- Go Menu -->
 
 <!ENTITY goMenu.label "Aller à">
@@ -444,7 +448,6 @@
 <!ENTITY deleteButton.label " Supprimer">
 <!ENTITY undeleteButton.label "Restaurer">
 <!ENTITY markButton.label "Marquer">
-<!ENTITY printButton.label "Imprimer">
 <!ENTITY stopButton.label "Arrêter">
 <!ENTITY junkButton.label "Indésirable">
 <!ENTITY notJunkButton.label "Acceptable">
@@ -468,7 +471,6 @@
 <!ENTITY deleteButton.tooltip "Supprimer le message ou le dossier sélectionné">
 <!ENTITY undeleteButton.tooltip "Restaurer le message sélectionné">
 <!ENTITY markButton.tooltip "Marquer les messages">
-<!ENTITY printButton.tooltip "Imprimer ce message">
 <!ENTITY stopButton.tooltip "Arrêter le transfert en cours">
 <!ENTITY throbber.tooltip "Visiter le site Web de &vendorShortName;">
 <!ENTITY junkButton.tooltip "Marquer les messages sélectionnés comme indésirables">

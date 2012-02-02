@@ -81,6 +81,8 @@
 <!ENTITY syncComputerName.accesskey   "N">
 
 <!ENTITY syncMy.label               "Synchroniser">
+<!ENTITY engine.addons.label        "les modules complémentaires">
+<!ENTITY engine.addons.accesskey    "u">
 <!ENTITY engine.bookmarks.label     "les marque-pages">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label          "les onglets">
