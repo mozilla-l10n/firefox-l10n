@@ -91,3 +91,24 @@
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
 <!ENTITY webConsoleCmd.commandkey     "k">
+
+
+<!ENTITY findCmd.label                "Meklēt…">
+<!ENTITY findCmd.key                  "M">
+<!ENTITY findCmd.accesskey            "M">
+
+<!ENTITY findAgainCmd.label           "Meklēt vēlreiz…">
+<!-- LOCALIZATION NOTE (findAgainCmd.key): This key is used only on Macs.
+  -  Windows and Linux builds use the F3 key which is not localizable on purpose.
+  -->
+<!ENTITY findAgainCmd.key             "v">
+<!ENTITY findAgainCmd.accesskey       "v">
+<!-- LOCALIZATION NOTE (findPreviousCmd.key): This key is used only on Macs.
+  -  Windows and Linux builds use the Shift-F3 key which is not localizable on
+  -  purpose.
+  -->
+<!ENTITY findPreviousCmd.key          "t">
+
+<!ENTITY gotoLineCmd.label            "Pāriet uz rindiņu…">
+<!ENTITY gotoLineCmd.key              "P">
+<!ENTITY gotoLineCmd.accesskey        "P">

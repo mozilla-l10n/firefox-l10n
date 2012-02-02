@@ -4,7 +4,6 @@
 <!ENTITY props.path.label "Ceļš:">
 <!ENTITY props.secure.label "Sūtīt:">
 <!ENTITY props.expires.label "Derīga līdz:">
-<!ENTITY props.policy.label "Darbības plāns:">
 
 <!ENTITY button.allow.label "Atļaut">
 <!ENTITY button.allow.accesskey "A">

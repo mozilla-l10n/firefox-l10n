@@ -34,7 +34,7 @@
 <!ENTITY engine.prefs.accesskey     "S">
 <!ENTITY engine.addons.label        "Papildinājumus">
 <!ENTITY engine.addons.accesskey    "A">
-<!ENTITY myRecoveryKey.label          "Mana atgūšanas atslēga">
+<!ENTITY myRecoveryKey.label            "Mana atgūšanas atslēga">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Lietošanas noteikumi">
