@@ -35,6 +35,16 @@
 <!ENTITY selectAllCmd.label "Seleccionar todo">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "A">
+<!ENTITY findCmd.label "Buscar…">
+<!ENTITY findCmd.key "F">
+<!ENTITY findCmd.accesskey "B">
+<!ENTITY findAgainCmd.label "Repetir la búsqueda…">
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.accesskey "q">
+<!ENTITY findPreviousCmd.key "G">
+<!ENTITY gotoLineCmd.label "Saltar a la línea…">
+<!ENTITY gotoLineCmd.key "J">
+<!ENTITY gotoLineCmd.accesskey "S">
 <!ENTITY run.label "Ejecutar">
 <!ENTITY run.accesskey "R">
 <!ENTITY run.key "r">
