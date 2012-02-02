@@ -1,0 +1,6 @@
+<!-- These strings are used in the about:newtab page -->
+<!ENTITY newtab.pageTitle "Jauna cilne">
+
+<!ENTITY newtab.show "Rādīt jaunas cilnes lapu">
+<!ENTITY newtab.hide "Slēpt jaunas cilnes lapu">
+<!ENTITY newtab.reset "Atjaunot jaunas cilnes lapu">

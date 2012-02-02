@@ -30,7 +30,7 @@
 <!ENTITY reloadPlugin.middle                                 "Pārlādējiet lapu">
 <!ENTITY reloadPlugin.post                                   ", lai mēģinātu vēlreiz.">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.please                                       "Sūtīt avārijas ziņojumu">
+<!ENTITY report.checkbox                                     "…un sūtīt avārijas zinojumu">
 <!ENTITY report.submitting                                   "Sūta ziņojumu…">
 <!ENTITY report.submitted                                    "Avārijas ziņojums nosūtīts.">
 <!ENTITY report.disabled                                     "Avārijas ziņojumi ir deaktivizēti.">
@@ -40,4 +40,3 @@
 
 <!ENTITY installPlugin                                       "Instalēt spraudni…">
 <!ENTITY managePlugins                                       "Pārvaldīt spraudņus…">
-
