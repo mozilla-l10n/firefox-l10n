@@ -9,11 +9,6 @@
 <!-- LOCALIZATION NOTE (warningDesc.telemetry): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
 <!ENTITY warningDesc.telemetry      "Šī versija automātiski nosūta izstrādātājiem aktuālu informāciju &vendorShortName;, lai palīdzētu uzlabot &brandShortName;.">
 
-<!ENTITY contribute.start           "Izklausās interesanti? ">
-<!ENTITY contribute.getInvolvedLink "Iesaisties!">
-<!ENTITY contribute.end             "">
-<!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "globālā kopiena">
 
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 <!ENTITY community.exp.start        "">
@@ -23,6 +18,12 @@
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "globāla kopiena">
 <!ENTITY community.exp.end          ", kas strādā, lai internets būtu atvērts, publisks un visiem pieejams.">
+
+<!ENTITY contribute.start           "Izklausās interesanti? ">
+<!ENTITY contribute.getInvolvedLink "Iesaisties!">
+<!ENTITY contribute.end             "">
+<!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
+<!ENTITY community.creditsLink      "globālā kopiena">
 
 <!-- LOCALIZAION NOTE(bottomLinks.license): This is a link title that links to about:license. -->
 <!ENTITY bottomLinks.license        "Licencēšanas informācija">
