@@ -37,5 +37,6 @@
 <!ENTITY policies.label "Politique de sécurité">
 <!ENTITY mousewheel.label "Souris">
 <!ENTITY scriptsAndWindows.label "Scripts et plugins">
+<!ENTITY spellingPane.label  "Orthographe">
 
 <!ENTITY focusSearch.key "f">

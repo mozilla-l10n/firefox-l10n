@@ -23,10 +23,3 @@
 <!ENTITY languages.customize.moveUp.accesskey "M">
 <!ENTITY languages.customize.moveDown.label "Descendre">
 <!ENTITY languages.customize.moveDown.accesskey  "D">
-
-<!ENTITY spelling.label "Orthographe">
-<!ENTITY checkSpelling.label "Vérifier l'orthographe lors de la saisie :">
-<!ENTITY checkSpelling.accesskey "V">
-<!ENTITY dontCheckSpelling.label "jamais">
-<!ENTITY multilineCheckSpelling.label "dans les boîtes multiligne">
-<!ENTITY alwaysCheckSpelling.label "toujours">

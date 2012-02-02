@@ -16,8 +16,8 @@
 
 <!ENTITY navbarCmd.label "Barre de navigation">
 <!ENTITY navbarCmd.accesskey "n">
-<!ENTITY personalbarCmd.label "Barre d'outils personnelle">
-<!ENTITY personalbarCmd.accesskey "p">
+<!ENTITY bookmarksToolbarCmd.label "Barre d'outils des marque-pages">
+<!ENTITY bookmarksToolbarCmd.accesskey "p">
 
 <!ENTITY closeWindow.label "Fermer la fenêtre">
 <!ENTITY closeWindow.accesskey "r">
@@ -29,7 +29,7 @@
 <!ENTITY feedsMenu.accesskey "S">
 
 <!ENTITY menuBar.tooltip "Barre de menu">
-<!ENTITY personalToolbar.tooltip "Barre d'outils personnelle">
+<!ENTITY bookmarksToolbar.tooltip "Barre d'outils des marque-pages">
 <!ENTITY navigationToolbar.tooltip "Barre de navigation">
 
 <!-- Toolbar items --> 
