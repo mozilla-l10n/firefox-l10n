@@ -23,7 +23,9 @@
 <!ENTITY aboutSupport.appBasicsCrashIDs "Avārijas ziņojumi">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Atmiņas izmantojums">
 
-<!ENTITY aboutSupport.show.label "Atvērt saturošo mapi">
+
+<!ENTITY aboutSupport.showDir.label "Atvērt mapi">
+<!ENTITY aboutSupport.showWin.label "Rādīt mapi">
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.show.label.  This allows us to use the preferred
