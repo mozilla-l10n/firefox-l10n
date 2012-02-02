@@ -159,8 +159,9 @@
 <!ENTITY inspectCloseButton.tooltiptext "Zarrar l'Inspector">
 <!ENTITY inspectStyleButton.label "Estilu">
 <!ENTITY inspectStyleButton.accesskey "S">
-<!ENTITY inspect3DButton.label        "3D">
-<!ENTITY inspect3DButton.accesskey    "D">
+<!ENTITY inspect3DViewButton.label     "Vista 3D">
+<!ENTITY inspect3DViewButton.accesskey "V">
+
 <!ENTITY styleeditor.label            "Editor d'estilu">
 <!ENTITY styleeditor.accesskey        "i">
 <!ENTITY styleeditor.keycode          "VK_F7">
