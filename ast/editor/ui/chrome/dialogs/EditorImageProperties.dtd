@@ -66,8 +66,6 @@
 <!ENTITY imagemapBox.label "Mapa d'imaxe">
 <!ENTITY removeImageMapButton.label "Desaniciar">
 <!ENTITY removeImageMapButton.accessKey "D">
-<!ENTITY editImageMapButton.label "Editar…">
-<!ENTITY editImageMapButton.tooltip "Crear zones que reaicionen al facer clic nesta imaxe">
 <!ENTITY alignment.label "Alliniar el testu cola imaxe">
 <!ENTITY bottomPopup.value "Na parte inferior">
 <!ENTITY topPopup.value "Na parte superior">
