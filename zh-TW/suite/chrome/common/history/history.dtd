@@ -28,7 +28,7 @@
 <!ENTITY view.groupDay.accesskey        "D">
 <!ENTITY view.groupSite.label           "網站">
 <!ENTITY view.groupSite.accesskey       "W">
-<!ENTITY view.groupDayAndSite.label     "Day and Website">
+<!ENTITY view.groupDayAndSite.label     "日期與網站">
 <!ENTITY view.groupDayAndSite.accesskey "a">
 
 <!ENTITY cmd.open.label                 "開啟">

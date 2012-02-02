@@ -217,8 +217,13 @@ can reach it easily. -->
 <!ENTITY inspectButton.label            "檢測">
 <!ENTITY inspectButton.accesskey        "I">
 <!ENTITY inspectCloseButton.tooltiptext "關閉檢測器">
-<!ENTITY inspect3DButton.label        "3D">
-<!ENTITY inspect3DButton.accesskey    "D">
+
+<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
+  -  alternate view for the Inspector, creating a 3D visualization of the
+  -  webpage. -->
+<!ENTITY inspect3DViewButton.label     "3D 檢視">
+<!ENTITY inspect3DViewButton.accesskey "w">
+
 <!ENTITY inspectStyleButton.label     "樣式">
 <!ENTITY inspectStyleButton.accesskey "S">
 

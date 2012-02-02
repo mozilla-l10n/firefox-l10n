@@ -10,5 +10,5 @@
 <!-- pref-tabs.xul -->
 <!ENTITY urlbar.label                 "在網址列按 Cmd+Return">
 <!ENTITY urlbar.accesskey             "L">
-<!ENTITY middleClick.label            "在網址上按Cmd+滑鼠鍵或Cmd+Return">
+<!ENTITY middleClick.label            "在網址上按 Cmd+滑鼠鍵 或 Cmd+Return">
 <!ENTITY middleClick.accesskey        "m">
