@@ -1,5 +1,5 @@
 <!ENTITY dialog.title             "Personalizza Bâra">
-<!ENTITY dialog.style             "width: 86ch; height: 36em;">
+<!ENTITY dialog.dimensions        "width: 92ch; height: 36em;">
 <!ENTITY instructions.description "Ti peu azónze ò scancelâ i ògétti rebelandoli inte ò fêua de bâre.">
 <!ENTITY show.label               "Fànni védde:">
 <!ENTITY iconsAndText.label       "Icone e Testo">

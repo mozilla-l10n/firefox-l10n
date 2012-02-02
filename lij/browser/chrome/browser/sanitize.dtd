@@ -48,7 +48,7 @@ that require it.  -->
 <!ENTITY itemOfflineApps.accesskey         "o">
 <!ENTITY itemDownloadHistory.label         "Stöia di descaregaménti">
 <!ENTITY itemDownloadHistory.accesskey     "d">
-<!ENTITY itemActiveLogins.label            "Login atîvi">
+<!ENTITY itemActiveLogins.label            "Conescioìn atîve">
 <!ENTITY itemActiveLogins.accesskey        "L">
 <!ENTITY itemSitePreferences.label         "Preferense di scîti">
 <!ENTITY itemSitePreferences.accesskey     "s">

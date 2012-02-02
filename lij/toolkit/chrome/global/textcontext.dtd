@@ -13,6 +13,8 @@
 
 <!ENTITY spellAddToDictionary.label "Azónzi a-o Diçiónâio">
 <!ENTITY spellAddToDictionary.accesskey "o">
+<!ENTITY spellUndoAddToDictionary.label "Anùlla l'azónta a-o diçionâio">
+<!ENTITY spellUndoAddToDictionary.accesskey "n">
 <!ENTITY spellCheckEnable.label "Contròlla o mæ testo">
 <!ENTITY spellCheckEnable.accesskey "s">
 <!ENTITY spellNoSuggestions.label "(No sugerimenti in sciô testo)">
