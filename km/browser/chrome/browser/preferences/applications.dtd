@@ -1,8 +1,8 @@
 <!ENTITY  typeColumn.label        "ប្រភេទ​មាតិកា ">
-<!ENTITY  typeColumn.accesskey    "ប">
+<!ENTITY  typeColumn.accesskey    "ក">
 
 <!ENTITY  actionColumn2.label     "អំពើ">
-<!ENTITY  actionColumn2.accesskey "អ">
+<!ENTITY  actionColumn2.accesskey "ព">
 
 <!ENTITY  focusSearch1.key        "f">
 <!ENTITY  focusSearch2.key        "k">

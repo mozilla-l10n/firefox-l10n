@@ -40,12 +40,12 @@
 <!ENTITY title.label        "ប្ដូរ​ការ​អ៊ិនកូដ​តួ​អក្សរ​តាម​បំណង">
 <!ENTITY current.label      "ការ​អ៊ិនកូដ​តួអក្សរ​សកម្ម ៖">
 <!ENTITY remove.label       "យកចេញ">
-<!ENTITY remove.accessKey   "យ">
+<!ENTITY remove.accessKey   "R">
 <!ENTITY additional.label   "ការ​អ៊ិនកូដ​តួអក្សរ​ដែល​អាច​ប្រើ​បាន ៖">
 <!ENTITY add.label          "បន្ថែម">
-<!ENTITY add.accessKey      "ប">
+<!ENTITY add.accessKey      "A">
 <!ENTITY moveUp.label       "​ផ្លាស់ទី​ឡើង​លើ">
-<!ENTITY moveUp.accessKey   "ផ">
+<!ENTITY moveUp.accessKey   "U">
 <!ENTITY moveDown.label     "ផ្លាស់ទី​ចុះក្រោម">
-<!ENTITY moveDown.accessKey "ផ">
+<!ENTITY moveDown.accessKey "D">
 

@@ -43,7 +43,7 @@
 <!ENTITY moveResizePopupWindows.label     "ផ្លាស់ទី ឬ​ប្ដូរ​ទំហំ​បង្អួច">
 <!ENTITY moveResizePopupWindows.accesskey "ផ">
 <!ENTITY raiseLowerWindows.label        "​លើក​ឡើង​ ឬ បន្ទាប​បង្អួច​">
-<!ENTITY raiseLowerWindows.accesskey    "​">
+<!ENTITY raiseLowerWindows.accesskey    "R">
 <!ENTITY disableContextMenus.label      "បិទ ឬ​ជំនួស​ម៉ឺនុយ​មាតិកា">
-<!ENTITY disableContextMenus.accesskey  "ប">
+<!ENTITY disableContextMenus.accesskey  "D">
 

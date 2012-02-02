@@ -4,21 +4,21 @@
 <!ENTITY  window.unixWidth                        "41em">
 
 <!ENTITY  language.label                          "​ពុម្ព​អក្សរ​សម្រាប់ ៖">
-<!ENTITY  language.accesskey                      "​">
+<!ENTITY  language.accesskey                      "ស">
 
 <!ENTITY  size.label                              "ទំហំ ៖">
 <!ENTITY  sizeProportional.accesskey              "z">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
 <!ENTITY  proportional.label                      "សមាមាត្រ ៖">
-<!ENTITY  proportional.accesskey                  "ស">
+<!ENTITY  proportional.accesskey                  "ត">
 
 <!ENTITY  serif.label                             "Serif:">
 <!ENTITY  serif.accesskey                         "S">
 <!ENTITY  sans-serif.label                        "Sans-serif:">
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "​ទំហំថេរ ៖">
-<!ENTITY  monospace.accesskey                     "​">
+<!ENTITY  monospace.accesskey                     "រ">
 
 <!ENTITY  font.langGroup.latin1                   "លោក​ខាង​លិច">
 <!ENTITY  font.langGroup.latin2                   "អឺរ៉ុប​កណ្ដាល">
@@ -54,7 +54,7 @@
 <!ENTITY  font.langGroup.tibetan                  "ទីបេ">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "​ទំហំ​ពុម្ព​អក្សរ​អប្បបរិមា ៖">
-<!ENTITY minSize.accesskey                        "​">
+<!ENTITY minSize.accesskey                        "o">
 <!ENTITY minSize.none                             "គ្មាន">
 
 <!-- default font type -->
@@ -62,9 +62,9 @@
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
 <!ENTITY  allowPagesToUse.label                   "​អនុញ្ញាត​ទំព័រ​ឲ្យ​ជ្រើស​ពុម្ព​អក្សរ​ដោយ​ខ្លួន​ឯង ជំនួស​ឲ្យ​ជម្រើស​ខាង​លើ​របស់​ខ្ញុំ">
-<!ENTITY  allowPagesToUse.accesskey               "​">
+<!ENTITY  allowPagesToUse.accesskey               "ត">
 
 <!ENTITY languages.customize.Charset.grouplabel         "ការ​អ៊ិនកូដ​តួអក្សរ">
 <!ENTITY languages.customize.DefaultCharset.label       "ការ​អ៊ិនកូដ​តួអក្សរ​លំនាំដើម">
-<!ENTITY languages.customize.DefaultCharset.accesskey   "ក">
+<!ENTITY languages.customize.DefaultCharset.accesskey   "ន">
 

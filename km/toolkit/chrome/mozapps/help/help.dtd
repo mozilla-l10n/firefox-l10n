@@ -5,15 +5,15 @@
 <!ENTITY findAgainCmd.commandkey2       "VK_F3">
 
 <!ENTITY backButton.label               "ថយ​ក្រោយ">
-<!ENTITY backButton.accesskey           "ថ">
+<!ENTITY backButton.accesskey           "B">
 <!ENTITY backButton.tooltip             "ថយក្រោយ​មួយ​ទំព័រ">
-<!ENTITY forwardButton.label            "ទៅ​មុខ">
-<!ENTITY forwardButton.accesskey        "ទ">
+<!ENTITY forwardButton.label            "បញ្ជូន​បន្ត">
+<!ENTITY forwardButton.accesskey        "ប">
 <!ENTITY forwardButton.tooltip          "ទៅមុខ​មួយ​ទំព័រ">
 <!ENTITY copyCmd.label                  "ចម្លង">
 <!ENTITY copyCmd.accesskey              "ច">
 <!ENTITY selectAllCmd.label             "ជ្រើស​ទាំងអស់">
-<!ENTITY selectAllCmd.accesskey         "ជ">
+<!ENTITY selectAllCmd.accesskey         "A">
 <!ENTITY goBackCmd.commandkey           "[">
 <!ENTITY goForwardCmd.commandkey        "]">
 <!ENTITY homeButton.label               "ដើម (Home)">
@@ -25,7 +25,7 @@
 <!ENTITY search.emptytext               "ស្វែងរក">
 <!ENTITY searchHeader.label             "លទ្ធផល​ស្វែងរក">
 <!ENTITY toctab.label                   "មាតិកា">
-<!ENTITY toctab.accesskey               "ម">
+<!ENTITY toctab.accesskey               "C">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -44,10 +44,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY helpSearch.commandkey          "k">
 
 <!ENTITY zLevel.label                   "នៅ​ខាងលើ​ជានិច្ច">
-<!ENTITY zLevel.accesskey               "ន">
+<!ENTITY zLevel.accesskey               "T">
 
 <!ENTITY fullZoomReduceBtn.label        "​បង្រួម">
-<!ENTITY fullZoomReduceBtn.accesskey    "​">
+<!ENTITY fullZoomReduceBtn.accesskey    "O">
 <!ENTITY fullZoomEnlargeBtn.label       "​ពង្រីក">
-<!ENTITY fullZoomEnlargeBtn.accesskey   "​">
+<!ENTITY fullZoomEnlargeBtn.accesskey   "I">
 

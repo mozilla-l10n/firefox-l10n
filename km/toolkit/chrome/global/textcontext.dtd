@@ -5,17 +5,17 @@
 <!ENTITY pasteCmd.label "បិទភ្ជាប់">
 <!ENTITY pasteCmd.accesskey "ប">
 <!ENTITY undoCmd.label "មិនធ្វើវិញ">
-<!ENTITY undoCmd.accesskey "ម">
+<!ENTITY undoCmd.accesskey "ន">
 <!ENTITY selectAllCmd.label "ជ្រើស​ទាំងអស់">
-<!ENTITY selectAllCmd.accesskey "ជ">
+<!ENTITY selectAllCmd.accesskey "អ">
 <!ENTITY deleteCmd.label "លុប">
 <!ENTITY deleteCmd.accesskey "ល">
 
 <!ENTITY spellAddToDictionary.label "បន្ថែម​ទៅ​វចនានុក្រម">
-<!ENTITY spellAddToDictionary.accesskey "ប">
-<!ENTITY spellCheckEnable.label "ពិនិត្យ​​អក្ខរាវិរុទ្ធ">
-<!ENTITY spellCheckEnable.accesskey "ព">
+<!ENTITY spellAddToDictionary.accesskey "ម">
+<!ENTITY spellCheckEnable.label "ពិនិត្យ​អក្ខរាវិរុទ្ធ">
+<!ENTITY spellCheckEnable.accesskey "អ">
 <!ENTITY spellNoSuggestions.label "(គ្មាន​ការ​ផ្ដល់​យោបល់​អក្ខរាវិរុទ្ធ)">
 <!ENTITY spellDictionaries.label "ភាសា">
-<!ENTITY spellDictionaries.accesskey "ភ">
+<!ENTITY spellDictionaries.accesskey "ស">
 

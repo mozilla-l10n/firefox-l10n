@@ -3,7 +3,7 @@
 <!ENTITY  offline.title                   "&brandShortName; កំពុង​ធ្វើការ​ក្រៅ​បណ្ដាញ">
 <!ENTITY  offline.description             "&brandShortName; ត្រូវការ​ទៅ​ក្នុង​បណ្ដាញ ដើម្បី​មើល​ថា តើ​នឹង​មាន​បច្ចុប្បន្នភាព​ដែល​អាច​ប្រើ​សម្រាប់​កម្មវិធី​បន្ថែម ដើម្បី​ធ្វើឲ្យ​ពួកវា​ឆបគ្នា​ជាមួយ​កំណែ​នេះ​ដែរ​ឬទេ ។">
 <!ENTITY  offline.toggleOffline.label     "ទៅ​លើ​បណ្ដាញ​ឥឡូវ​នេះ ។">
-<!ENTITY  offline.toggleOffline.accesskey "ទ">
+<!ENTITY  offline.toggleOffline.accesskey "ឥ">
 
 <!ENTITY  mismatch.win.title              "កម្មវិធី​បន្ថែម​ឆបគ្នា">
 <!ENTITY  mismatch.top.label              "កម្មវិធី​បន្ថែម​ខាងក្រោម​មិន​ឆបគ្នា​ជាមួយ​កំណែ​នេះ​នៃ                                           &brandShortName; ហើយ​ត្រូវ​បាន​បិទ ៖">
@@ -17,7 +17,7 @@
 <!ENTITY  found.top.label                 "ជ្រើស​កម្មវិធី​បន្ថែម​ដែល​អ្នក​ចង់​ដំឡើង ៖">
 <!ENTITY  found.disabledXPinstall.label   "បច្ចុប្បន្នភាព​ទាំងនេះ​មិន​អាច​ត្រូវ​បាន​ដំឡើង​ទេ ពីព្រោះ​ការ​ដំឡើង​កម្មវិធី​បច្ចុប្បន្ន​ត្រូវ​បាន​បិទ ។ អ្នក​អាច​ផ្លាស់ប្ដូរ​ការ​កំណត់​ខាងក្រោម ។">
 <!ENTITY  found.enableXPInstall.label     "អនុញ្ញាត​ឲ្យ​តំបន់បណ្ដាញ​ដំឡើង​កម្មវិធី">
-<!ENTITY  found.enableXPInstall.accesskey "អ">
+<!ENTITY  found.enableXPInstall.accesskey "A">
 
 <!ENTITY  installing.wizard.title         "កំពុង​ដំឡើង​កម្មវិធី​បន្ថែម​ដែល​ឆប​គ្នា">
 <!ENTITY  installing.top.label            "កំពុង​ទាញ​យក និង​ដំឡើង​បច្ចុប្បន្នភាព​សម្រាប់​កម្មវិធី​បន្ថែម​របស់​អ្នក…">
@@ -43,7 +43,7 @@
 <!ENTITY  installerrors.intro.label       "&brandShortName; បាន​ជួបប្រទះ​បញ្ហា នៅ​ពេល​ធ្វើ​បច្ចុប្បន្នភាព​កម្មវិធី​បន្ថែម​មួយចំនួន​របស់​អ្នក ។">
 
 <!-- general strings used by several of the finish pages -->
-<!ENTITY  clickFinish.label               "ចុច​ "បញ្ចប់" ដើម្បី​បន្ត​ចាប់ផ្តើម &brandShortName; ។">
+<!ENTITY  clickFinish.label               "ចុច​ បញ្ចប់ ដើម្បី​បន្ត​ចាប់ផ្តើម &brandShortName; ។">
 <!ENTITY  clickFinish.labelMac            "ចុច ធ្វើ​រួច ដើម្បី​បន្ត​ចាប់ផ្ដើម &brandShortName; ។">
 <!ENTITY  enableChecking.label            "អនុញ្ញាត​ឲ្យ &brandShortName; ពិនិត្យ​រកមើល​បច្ចុប្បន្នភាព ។">
 

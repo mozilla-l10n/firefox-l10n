@@ -11,18 +11,18 @@
 <!ENTITY fileMenu.label "ឯកសារ">
 <!ENTITY fileMenu.accesskey "ឯ">
 <!ENTITY savePageCmd.label "រក្សា​ទុក​ទំព័រ​ជា...">
-<!ENTITY savePageCmd.accesskey "រ">
-<!ENTITY savePageCmd.commandkey "រ">
+<!ENTITY savePageCmd.accesskey "ក">
+<!ENTITY savePageCmd.commandkey "S">
 <!ENTITY pageSetupCmd.label "ការ​រៀបចំ​ទំព័រ…">
-<!ENTITY pageSetupCmd.accesskey "ក">
+<!ENTITY pageSetupCmd.accesskey "ប">
 <!ENTITY printPreviewCmd.label "មើល​មុន​បោះពុម្ព">
-<!ENTITY printPreviewCmd.accesskey "ម">
+<!ENTITY printPreviewCmd.accesskey "ន">
 <!ENTITY printCmd.label "បោះពុម្ព…">
 <!ENTITY printCmd.accesskey "ប">
-<!ENTITY printCmd.commandkey "ប">
+<!ENTITY printCmd.commandkey "P">
 <!ENTITY closeCmd.label "បិទ">
-<!ENTITY closeCmd.accesskey "ប">
-<!ENTITY closeCmd.commandkey "ប">
+<!ENTITY closeCmd.accesskey "ទ">
+<!ENTITY closeCmd.commandkey "W">
 
 <!-- LOCALIZATION NOTE :
 textEnlarge.commandkey3, textReduce.commandkey2 and
@@ -39,39 +39,39 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY textReset.commandkey2 "">
 
 <!ENTITY goToLineCmd.label "ទៅ​បន្ទាត់...">
-<!ENTITY goToLineCmd.accesskey "ទ">
-<!ENTITY goToLineCmd.commandkey "ទ">
+<!ENTITY goToLineCmd.accesskey "ត">
+<!ENTITY goToLineCmd.commandkey "l">
 
 <!ENTITY viewMenu.label           "មើល">
-<!ENTITY viewMenu.accesskey       "ម">
+<!ENTITY viewMenu.accesskey       "ល">
 <!ENTITY reloadCmd.label "ផ្ទុក​ឡើងវិញ">
 <!ENTITY reloadCmd.accesskey "ផ">
-<!ENTITY reloadCmd.commandkey "ផ">
+<!ENTITY reloadCmd.commandkey "r">
 <!ENTITY menu_wrapLongLines.title "រុំ​បន្ទាត់​វែង"> 
-<!ENTITY menu_wrapLongLines.accesskey "រ">
+<!ENTITY menu_wrapLongLines.accesskey "ង">
 <!ENTITY menu_highlightSyntax.label "ការ​បន្លិច​វាក្យ​សម្ព័ន្ធ">
-<!ENTITY menu_highlightSyntax.accesskey "ក">
+<!ENTITY menu_highlightSyntax.accesskey "វ">
 <!ENTITY menu_textSize.label "ទំហំ​អត្ថបទ">
-<!ENTITY menu_textSize.accesskey "ទ">
+<!ENTITY menu_textSize.accesskey "អ">
 <!ENTITY menu_textEnlarge.label "បង្កើន​">
-<!ENTITY menu_textEnlarge.accesskey "ប">
+<!ENTITY menu_textEnlarge.accesskey "ន">
 <!ENTITY menu_textReduce.label "បន្ថយ​">
-<!ENTITY menu_textReduce.accesskey "ប">
+<!ENTITY menu_textReduce.accesskey "យ">
 <!ENTITY menu_textReset.label "ធម្មតា">
-<!ENTITY menu_textReset.accesskey "ធ">
+<!ENTITY menu_textReset.accesskey "ត">
 
 <!ENTITY findOnCmd.label     "រក​ក្នុង​ទំព័រ​នេះ...">
-<!ENTITY findOnCmd.accesskey "រ">
-<!ENTITY findOnCmd.commandkey "រ">
+<!ENTITY findOnCmd.accesskey "ក">
+<!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "រក​ម្តង​ទៀត">
-<!ENTITY findAgainCmd.accesskey "រ">
-<!ENTITY findAgainCmd.commandkey "រ">
+<!ENTITY findAgainCmd.accesskey "ង">
+<!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
 <!ENTITY backCmd.label "ថយ​ក្រោយ">
-<!ENTITY backCmd.accesskey "ថ">
-<!ENTITY forwardCmd.label "ទៅ​មុខ">
-<!ENTITY forwardCmd.accesskey "ទ">
+<!ENTITY backCmd.accesskey "យ">
+<!ENTITY forwardCmd.label "បញ្ជូន​បន្ត">
+<!ENTITY forwardCmd.accesskey "ប">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 

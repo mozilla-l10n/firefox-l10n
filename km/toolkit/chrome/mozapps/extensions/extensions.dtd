@@ -1,5 +1,10 @@
 <!ENTITY addons.windowTitle                   "កម្មវិធី​គ្រប់គ្រង​កម្មវិធី​បន្ថែម">
+
 <!ENTITY search.placeholder                   "ស្វែងរក​កម្មវិធី​បន្ថែម​ទាំងអស់">
+<!-- LOCALIZATION NOTE (search.commandKey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
+
 <!ENTITY loading.label                        "កំពុង​ផ្ទុក…">
 <!ENTITY listEmpty.installed.label            "អ្នក​មិន​មាន​កម្មវិធី​បន្ថែម​ប្រភេទ​ណាមួយ​ដែល​ត្រូវ​បាន​ដំឡើង​ទេ">
 <!ENTITY listEmpty.availableUpdates.label     "រក​មិន​ឃើញ​បច្ចុប្បន្នភាព">
@@ -8,7 +13,7 @@
 <!ENTITY listEmpty.search.label               "មិន​អាច​រក​ឃើញ​កម្មវិធី​បន្ថែម​ណាមួយ​ដែល​ផ្គូផ្គង​គ្នា​ទេ">
 <!ENTITY listEmpty.button.label               "សិក្សា​បន្ថែម​អំពី​កម្មវិធី​បន្ថែម">
 <!ENTITY installAddonFromFile.label           "ដំឡើង​កម្មវិធី​បន្ថែម​ពី​ឯកសារ…">
-<!ENTITY installAddonFromFile.accesskey       "ដ">
+<!ENTITY installAddonFromFile.accesskey       "Տ">
 <!ENTITY toolsMenu.tooltip                    "ឧបករណ៍​សម្រាប់​កម្មវិធី​បន្ថែម​ទាំងអស់">
 
 <!ENTITY cmd.back.tooltip                     "ថយក្រោយ​មួយ​ទំព័រ">
@@ -34,15 +39,15 @@
 <!ENTITY view.availableUpdates.label          "មាន​បច្ចុប្បន្នភាព">
 
 <!-- addon updates -->
-<!ENTITY updates.checkForUpdates.label        "រកមើល​បច្ចុប្បន្នភាព">
-<!ENTITY updates.checkForUpdates.accesskey    "រ">
+<!ENTITY updates.checkForUpdates.label        "ពិនិត្យមើល​បច្ចុប្បន្នភាព">
+<!ENTITY updates.checkForUpdates.accesskey    "ព">
 <!ENTITY updates.viewUpdates.label            "មើល​បច្ចុប្បន្នភាព​ថ្មីៗ">
-<!ENTITY updates.viewUpdates.accesskey        "ម">
+<!ENTITY updates.viewUpdates.accesskey        "Տ">
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
      checking. -->
 <!ENTITY updates.updateAddonsAutomatically.label     "ធ្វើ​បច្ចុប្បន្នភាព​កម្មវិធី​បន្ថែម​ដោយ​ស្វ័យប្រវត្តិ">
-<!ENTITY updates.updateAddonsAutomatically.accesskey "ធ">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "Թ">
 <!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
      Specific addons can have custom update checking behaviors ("Manually",
      "Automatically", "Use default global behavior"). These menu items reset the
@@ -50,9 +55,9 @@
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
 <!ENTITY updates.resetUpdatesToAutomatic.label       "កំណត់​កម្មវិធី​បន្ថែម​ទាំងអស់​ឡើង​វិញ ដើម្បី​ធ្វើ​បច្ចុប្បន្នភាព​ដោយ​ស្វ័យប្រវត្តិ">
-<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "ក">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "Վ">
 <!ENTITY updates.resetUpdatesToManual.label          "កំណត់​កម្មវិធី​បន្ថែម​ទាំងអស់​ឡើង​វិញ ដើម្បី​ធ្វើ​បច្ចុប្បន្នភាព​ដោយ​ដៃ">
-<!ENTITY updates.resetUpdatesToManual.accesskey      "ក">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "Վ">
 <!ENTITY updates.updating.label               "កំពុង​ធ្វើ​បច្ចុប្បន្នភាព​កម្មវិធី​បន្ថែម">
 <!ENTITY updates.installed.label              "កម្មវិធី​បន្ថែម​របស់​អ្នក​ត្រូវ​បាន​ធ្វើ​បច្ចុប្បន្នភាព ។">
 <!ENTITY updates.downloaded.label             "បច្ចុប្បន្នភាព​នៃ​កម្មវិធី​បន្ថែម​របស់​អ្នក​ត្រូវ​បាន​ទាញ​យក ។">
@@ -64,34 +69,34 @@
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "បង្ហាញ​ព័ត៌មាន​បន្ថែម">
-<!ENTITY cmd.showDetails.accesskey            "ប">
+<!ENTITY cmd.showDetails.accesskey            "Ց">
 <!ENTITY cmd.findUpdates.label                "រក​បច្ចុប្បន្នភាព">
-<!ENTITY cmd.findUpdates.accesskey            "រ">
+<!ENTITY cmd.findUpdates.accesskey            "Գ">
 <!ENTITY cmd.preferencesWin.label             "ជម្រើស">
-<!ENTITY cmd.preferencesWin.accesskey         "ជ">
+<!ENTITY cmd.preferencesWin.accesskey         "Հ">
 <!ENTITY cmd.preferencesUnix.label            "ចំណូលចិត្ត">
-<!ENTITY cmd.preferencesUnix.accesskey        "ច">
+<!ENTITY cmd.preferencesUnix.accesskey        "Ն">
 <!ENTITY cmd.about.label                      "អំពី">
-<!ENTITY cmd.about.accesskey                  "អ">
+<!ENTITY cmd.about.accesskey                  "Մ">
 
 <!ENTITY cmd.enableAddon.label                "បើក">
-<!ENTITY cmd.enableAddon.accesskey            "ប">
+<!ENTITY cmd.enableAddon.accesskey            "Մ">
 <!ENTITY cmd.disableAddon.label               "បិទ">
-<!ENTITY cmd.disableAddon.accesskey           "ប">
+<!ENTITY cmd.disableAddon.accesskey           "Ա">
 <!ENTITY cmd.enableTheme.label                "ដាក់​ស្បែក">
-<!ENTITY cmd.enableTheme.accesskey            "ដ">
+<!ENTITY cmd.enableTheme.accesskey            "Հ">
 <!ENTITY cmd.disableTheme.label               "បញ្ឈប់​ការ​ដាក់​ស្បែក">
 <!ENTITY cmd.disableTheme.accesskey           "ប">
 <!ENTITY cmd.installAddon.label               "ដំឡើង">
-<!ENTITY cmd.installAddon.accesskey           "ដ">
+<!ENTITY cmd.installAddon.accesskey           "Տ">
 <!ENTITY cmd.uninstallAddon.label             "យកចេញ">
-<!ENTITY cmd.uninstallAddon.accesskey         "យ">
+<!ENTITY cmd.uninstallAddon.accesskey         "Հ">
 <!ENTITY cmd.showPreferencesWin.label         "ជម្រើស">
 <!ENTITY cmd.showPreferencesWin.tooltip       "ផ្លាស់ប្ដូរ​ជម្រើស​របស់​កម្មវិធី​បន្ថែម​នេះ">
 <!ENTITY cmd.showPreferencesUnix.label        "ចំណូលចិត្ត">
 <!ENTITY cmd.showPreferencesUnix.tooltip      "ផ្លាស់ប្ដូរ​ចំណូលចិត្ត​របស់​កម្មវិធី​បន្ថែម​នេះ">
 <!ENTITY cmd.contribute.label                 "បរិច្ចាគ">
-<!ENTITY cmd.contribute.accesskey             "ប">
+<!ENTITY cmd.contribute.accesskey             "Ն">
 <!ENTITY cmd.contribute.tooltip               "ចូលរួម​ក្នុង​ការ​អភិវឌ្ឍ​កម្មវិធី​បន្ថែម​នេះ">
 
 <!ENTITY cmd.showReleaseNotes.label           "បង្ហាញ​ឯកសារ​ចេញផ្សាយ">
@@ -127,14 +132,14 @@
 <!ENTITY detail.repository                    "ទម្រង់​កម្មវិធី​បន្ថែម">
 <!ENTITY detail.size                          "ទំហំ">
 
-<!ENTITY detail.checkForUpdates.label         "រកមើល​បច្ចុប្បន្នភាព">
-<!ENTITY detail.checkForUpdates.accesskey     "រ">
+<!ENTITY detail.checkForUpdates.label         "ពិនិត្យមើល​បច្ចុប្បន្នភាព">
+<!ENTITY detail.checkForUpdates.accesskey     "ព">
 <!ENTITY detail.checkForUpdates.tooltip       "រកមើល​បច្ចុប្បន្នភាព​សម្រាប់​កម្មវិធី​បន្ថែម​នេះ">
 <!ENTITY detail.showPreferencesWin.label      "ជម្រើស">
-<!ENTITY detail.showPreferencesWin.accesskey  "ជ">
+<!ENTITY detail.showPreferencesWin.accesskey  "Հ">
 <!ENTITY detail.showPreferencesWin.tooltip    "ផ្លាស់ប្ដូរ​ជម្រើស​របស់​កម្មវិធី​បន្ថែម​នេះ">
 <!ENTITY detail.showPreferencesUnix.label     "ចំណូលចិត្ត">
-<!ENTITY detail.showPreferencesUnix.accesskey "ច">
+<!ENTITY detail.showPreferencesUnix.accesskey "Ն">
 <!ENTITY detail.showPreferencesUnix.tooltip   "ផ្លាស់ប្ដូរ​ចំណូលចិត្ត​របស់​កម្មវិធី​បន្ថែម">
 
 

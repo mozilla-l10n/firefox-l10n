@@ -1,4 +1,4 @@
-<!ENTITY upgrade.style               "ទទឹង ៖ 93ch; កម្ពស់ ៖ 448px;">
+<!ENTITY upgrade.style               "width: 93ch; height: 448px;">
 
 <!ENTITY checking.heading            "ពិនិត្យមើល​កម្មវិធី​បន្ថែម​របស់​អ្នក">
 <!ENTITY checking.progress.label     "កំពុង​ពិនិត្យមើល​កម្មវិធី​បន្ថែម​របស់​អ្នក​សម្រាប់​ភាព​ឆបគ្នា​ជាមួយ​កំណែ​របស់ &brandShortName; ។">
@@ -10,17 +10,17 @@
 <!ENTITY select.keep                 "រក្សាទុក">
 <!-- LOCALIZATION NOTE (select.keep.style): Should be a width wide enough for
      the string in select.keep above. -->
-<!ENTITY select.keep.style           "ទទឹង ៖ 6ch;">
+<!ENTITY select.keep.style           "width: 6ch;">
 <!ENTITY select.action               "អំពើ">
 <!-- LOCALIZATION NOTE (select.action.style): Should be a width wide enough for
      the action strings in selectAddons.properties or brandShortName. -->
-<!ENTITY select.action.style         "ទទឹង ៖ 35ch;">
+<!ENTITY select.action.style         "width: 35ch;">
 <!ENTITY select.source               "ដំឡើង​ដោយ">
 <!ENTITY select.name                 "ឈ្មោះ">
 <!-- LOCALIZATION NOTE (select.name.style): Should be a width small enough so
      the source column still has enough room for the source strings in
      selectAddons.properties. -->
-<!ENTITY select.name.style           "ទទឹង ៖ 33ch;">
+<!ENTITY select.name.style           "width: 33ch;">
 
 <!ENTITY confirm.heading             "ជ្រើស​កម្មវិធី​បន្ថែម​របស់​អ្នក">
 <!-- LOCALIZATION NOTE (confirm.description): The term used for "third parties"

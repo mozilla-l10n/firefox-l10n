@@ -29,9 +29,9 @@
 <!ENTITY  license.introText               "ល័ក្ខខ័ណ្ឌ និង​កិច្ចព្រមព្រៀង​សម្រាប់​ប្រើ​កម្មវិធី​នេះ ។">
 <!ENTITY  license.instructionText         "សូម​អាន​កិច្ច​ព្រមព្រៀង​អជ្ញាបណ្ណ​ខាងក្រោម ។ ប្រើ​របារ​រំកិល​ដើម្បី​មើល​កិច្ច​ព្រមព្រៀង​នេះ​ទាំងអស់ ។">
 <!ENTITY  license.accept                  "ខ្ញុំ ព្រម​ទទួល​ ល័ក្ខខ័ណ្ឌ​នៃ​កិច្ចព្រមព្រៀង​អាជ្ញាប័ណ្ណ">
-<!ENTITY  license.accept.accesskey        "ខ">
+<!ENTITY  license.accept.accesskey        "ម">
 <!ENTITY  license.decline                 "ខ្ញុំ​ មិន​ព្រម​ទទួល ល័ក្ខខ័ណ្ឌ​នៃ​កិច្ច​ព្រមព្រៀង​អាជ្ញាប័ណ្ណ​">
-<!ENTITY  license.decline.accesskey       "ខ">
+<!ENTITY  license.decline.accesskey       "ន">
 
 <!ENTITY  incompatibleList.title          "រក​ឃើញ​កម្មវិធី​បន្ថែម​មិន​ឆប​គ្នា">
 

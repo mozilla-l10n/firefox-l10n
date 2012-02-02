@@ -42,21 +42,21 @@
 <!ENTITY  actionQuestion.label        "តើ &brandShortName; គួរ​ធ្វើ​អ្វី​ជាមួយ​ឯកសារ​នេះ?">
 
 <!ENTITY  openWith.label              "​បើក​ជាមួយ">
-<!ENTITY  openWith.accesskey          "​">
+<!ENTITY  openWith.accesskey          "O">
 <!ENTITY  other.label                 "ផ្សេង​ទៀត...">
 
 <!ENTITY  saveFile.label              "រក្សា​ទុក​ឯកសារ">
-<!ENTITY  saveFile.accesskey          "រ">
+<!ENTITY  saveFile.accesskey          "S">
 
 <!ENTITY  rememberChoice.label        "ចាប់ពី​ពេល​នេះ​ទៅ ត្រូវតែ​ធ្វើ​​ដូច្នេះ​ដោយ​ស្វ័យប្រវត្តិ​សម្រាប់​ឯកសារ​ទាំងនេះ ។">
-<!ENTITY  rememberChoice.accesskey    "ច">
+<!ENTITY  rememberChoice.accesskey    "a">
 
 <!ENTITY  whichIsA.label              "ដែល​ជា ៖">
 
 <!ENTITY  chooseHandlerMac.label      "ជ្រើស…">
-<!ENTITY  chooseHandlerMac.accesskey  "ជ">
+<!ENTITY  chooseHandlerMac.accesskey  "C">
 <!ENTITY  chooseHandler.label         "រក​មើល…">
-<!ENTITY  chooseHandler.accesskey     "រ">
+<!ENTITY  chooseHandler.accesskey     "B">
 
 <!ENTITY  unknownPromptText.label     "តើ​អ្នក​ចង់​រក្សា​ទុក​ឯកសារ​នេះ​ឬ?">
 

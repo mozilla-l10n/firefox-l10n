@@ -8,15 +8,13 @@
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer ">
 <!ENTITY importFromIE.accesskey         "M">
 <!ENTITY importFromNothing.label        "កុំ​នាំចូល​អ្វីៗ​ទាំងអស់">
-<!ENTITY importFromNothing.accesskey    "ក">
-<!ENTITY importFromSeamonkey.label      "Netscape 6, 7 ឬ Mozilla 1.x">
-<!ENTITY importFromSeamonkey.accesskey  "N">
-<!ENTITY importFromOpera.label          "Opera">
-<!ENTITY importFromOpera.accesskey      "O">
+<!ENTITY importFromNothing.accesskey    "D">
 <!ENTITY importFromSafari.label         "Safari">
 <!ENTITY importFromSafari.accesskey     "S">
+<!ENTITY importFromChrome.label         "Chrome">
+<!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromHTMLFile.label       "ពី​ឯកសារ HTML">
-<!ENTITY importFromHTMLFile.accesskey   "ព">
+<!ENTITY importFromHTMLFile.accesskey   "H">
 
 <!ENTITY noMigrationSources.label       "រក​មិន​ឃើញ​កម្មវិធី​ដែល​មាន ចំណាំ ប្រវត្តិ ឬ​ទិន្នន័យ​ពាក្យ​សម្ងាត់​ទេ ។">
 

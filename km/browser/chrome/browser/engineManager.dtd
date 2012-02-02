@@ -7,20 +7,20 @@
 
 <!-- Buttons -->
 <!ENTITY  up.label                  "​ផ្លាស់ទី​ឡើង​លើ">
-<!ENTITY  up.accesskey              "​">
+<!ENTITY  up.accesskey              "U">
 <!ENTITY  dn.label                  "ផ្លាស់ទី​ចុះក្រោម">
-<!ENTITY  dn.accesskey              "ផ">
+<!ENTITY  dn.accesskey              "D">
 <!ENTITY  remove.label              "យកចេញ">
-<!ENTITY  remove.accesskey          "យ">
+<!ENTITY  remove.accesskey          "R">
 <!ENTITY  edit.label                "កែ​សម្រួល​ពាក្យ​គន្លឹះ…">
-<!ENTITY  edit.accesskey            "ក">
+<!ENTITY  edit.accesskey            "Փ">
 
 <!ENTITY  addEngine.label           "យក​ម៉ាស៊ីន​ស្វែងរក​បន្ថែម…">
-<!ENTITY  addEngine.accesskey       "យ">
+<!ENTITY  addEngine.accesskey       "Զ">
 
 <!ENTITY  enableSuggest.label       "បង្ហាញ​ការ​ផ្ដល់​យោបល់​ស្វែងរក">
-<!ENTITY  enableSuggest.accesskey   "ប">
+<!ENTITY  enableSuggest.accesskey   "S">
 
 <!ENTITY  restoreDefaults.label     "ស្ដារ​លំនាំ​ដើម">
-<!ENTITY  restoreDefaults.accesskey "ស">
+<!ENTITY  restoreDefaults.accesskey "e">
 

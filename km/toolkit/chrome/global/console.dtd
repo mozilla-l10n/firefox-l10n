@@ -42,27 +42,27 @@
 <!ENTITY errColumn.label "ជួរឈរ ៖">
 
 <!ENTITY all.label          "ទាំងអស់">
-<!ENTITY all.accesskey      "ទ">
+<!ENTITY all.accesskey      "A">
 <!ENTITY errors.label       "កំហុស">
-<!ENTITY errors.accesskey   "ក">
+<!ENTITY errors.accesskey   "E">
 <!ENTITY warnings.label     "ការ​ព្រមាន">
-<!ENTITY warnings.accesskey "ក">
+<!ENTITY warnings.accesskey "W">
 <!ENTITY messages.label     "សារ">
-<!ENTITY messages.accesskey "ស">
+<!ENTITY messages.accesskey "M">
 <!ENTITY clear.label        "សម្អាត">
-<!ENTITY clear.accesskey    "ស">
+<!ENTITY clear.accesskey    "C">
 <!ENTITY codeEval.label     "កូដ ៖">
-<!ENTITY codeEval.accesskey "ក">
+<!ENTITY codeEval.accesskey "Կ">
 <!ENTITY evaluate.label     "វាយ​តម្លៃ">
-<!ENTITY evaluate.accesskey "វ">
+<!ENTITY evaluate.accesskey "v">
 
 <!ENTITY copyCmd.label       "ចម្លង">  
 <!ENTITY copyCmd.accesskey   "ច"> 
 <!ENTITY copyCmd.commandkey  "ច"> 
 <!ENTITY sortFirst.label     "លំដាប់​តម្រៀប ដំបូង > ​ចុង​ក្រោយ">
-<!ENTITY sortFirst.accesskey "ល">
+<!ENTITY sortFirst.accesskey "F">
 <!ENTITY sortLast.label      "លំដាប់​តម្រៀប ចុងក្រោយ > ​ដំបូង">
-<!ENTITY sortLast.accesskey  "ល">
+<!ENTITY sortLast.accesskey  "L">
 <!ENTITY closeCmd.commandkey "w">  
 <!ENTITY focus1.commandkey   "l">  
 <!ENTITY focus2.commandkey   "d">  

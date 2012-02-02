@@ -1,5 +1,5 @@
 <!ENTITY appManager.title     "សេចក្ដី​លម្អិត​អំពី​កម្មវិធី">
-<!ENTITY appManager.style     "width: 30em; min-height: 20em;">
+<!ENTITY appManager.style     "ទទឹង ៖ 30em កម្ពស់​អប្បបរមា ៖ 20em;">
 <!ENTITY remove.label         "យកចេញ">
-<!ENTITY remove.accesskey     "យ">
+<!ENTITY remove.accesskey     "ញ">
 

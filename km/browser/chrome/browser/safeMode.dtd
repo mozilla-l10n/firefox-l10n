@@ -36,27 +36,27 @@
 #endif
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY safeModeDialog.title         "&brandShortName; Safe Mode">
+<!ENTITY safeModeDialog.title         "របៀប​សុវត្ថិភាព &brandShortName;">
 <!ENTITY window.width                 "37em">
 
-<!ENTITY safeModeDescription.label    "&brandShortName; is now running in Safe Mode, which temporarily disables your custom settings, themes, and extensions.">
-<!ENTITY safeModeDescription2.label   "You can make some or all of these changes permanent:">
+<!ENTITY safeModeDescription.label    "ឥឡូវនេះ &brandShortName; កំពុងតែ​ដំណើរការ​នៅ​ក្នុង​របៀប​សុវត្ថិភាព ដែល​នឹង​បិទ​ការ​កំណត់​ផ្ទាល់ខ្លួន ស្បែក និង​ផ្នែក​បន្ថែម​របស់​អ្នក ។">
+<!ENTITY safeModeDescription2.label   "អ្នក​អាច​ធ្វើឲ្យ​មាន​ការ​ផ្លាស់ប្ដូរ​ខ្លះ​ៗ ឬ​ផ្លាស់ប្ដូរ​ទាំងអស់​ជា​អចិន្ត្រៃយ៍ ៖">
 
-<!ENTITY disableAddons.label          "Disable all add-ons">
-<!ENTITY disableAddons.accesskey      "D">
+<!ENTITY disableAddons.label          "បិទ​កម្មវិធី​បន្ថែម​ទាំងអស់">
+<!ENTITY disableAddons.accesskey      "Ա">
 
-<!ENTITY resetToolbars.label          "Reset toolbars and controls">
+<!ENTITY resetToolbars.label          "កំណត់​របារ​ឧបករណ៍ និង​វត្ថុ​បញ្ជា​ឡើងវិញ">
 <!ENTITY resetToolbars.accesskey      "R">
 
-<!ENTITY deleteBookmarks.label        "Delete all bookmarks except for backups">
-<!ENTITY deleteBookmarks.accesskey    "b">
+<!ENTITY deleteBookmarks.label        "លុប​ចំណាំ​ទាំងអស់ ទុក​តែ​ចំណាំ​ដែល​សម្រាប់​បម្រុង​ទុក">
+<!ENTITY deleteBookmarks.accesskey    "Ջ">
 
-<!ENTITY resetUserPrefs.label         "Reset all user preferences to &brandShortName; defaults">
-<!ENTITY resetUserPrefs.accesskey     "p">
+<!ENTITY resetUserPrefs.label         "កំណត់​ចំណង់ចំណូលចិត្ត​អ្នក​ប្រើ​ទាំងអស់​តាម​លំនាំដើម &brandShortName; ឡើង​វិញ">
+<!ENTITY resetUserPrefs.accesskey     "b">
 
-<!ENTITY restoreSearch.label          "Restore default search engines">
-<!ENTITY restoreSearch.accesskey      "s">
+<!ENTITY restoreSearch.label          "ស្ដារ​ម៉ាស៊ីន​ស្វែងរក​លំនាំ​ដើម">
+<!ENTITY restoreSearch.accesskey      "Վ">
 
-<!ENTITY changeAndRestartButton.label "Make Changes and Restart">
-<!ENTITY continueButton.label         "Continue in Safe Mode">
+<!ENTITY changeAndRestartButton.label "ធ្វើ​ការ​ផ្លាស់ប្ដូរ និង​ចាប់​ផ្ដើម​ឡើង​វិញ">
+<!ENTITY continueButton.label         "បន្ត​ក្នុង​របៀប​សុវត្ថិភាព">
 

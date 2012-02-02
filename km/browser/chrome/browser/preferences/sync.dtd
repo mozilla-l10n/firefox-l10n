@@ -1,42 +1,44 @@
 <!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "Set Up &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; lets you access your history, bookmarks, passwords and open tabs across all your devices.">
+<!ENTITY setupButton.label          "រៀបចំ &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "ប">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; អនុញ្ញាត​ឲ្យ​អ្នក​ចូល​ប្រើ​ប្រវត្តិ ចំណាំ ពាក្យសម្ងាត់ និង​បើក​ផ្ទាំង​នៅ​លើ​ឧបករណ៍​ទាំងអស់​របស់​អ្នក ។">
 
 <!-- The page shown when logged in... -->
 
 <!-- Login error feedback -->
-<!ENTITY updatePass.label             "Update">
-<!ENTITY resetPass.label              "Reset">
+<!ENTITY updatePass.label             "ធ្វើ​បច្ចុប្បន្នភាព">
+<!ENTITY resetPass.label              "កំណត់​ឡើង​វិញ">
 
 <!-- Manage Account -->
-<!ENTITY manageAccount.label          "Manage Account">
-<!ENTITY manageAccount.accesskey      "A">
-<!ENTITY viewQuota.label              "View Quota">
-<!ENTITY changePassword2.label        "Change Password…">
-<!ENTITY myRecoveryKey.label          "My Recovery Key">
-<!ENTITY resetSync2.label             "Reset Sync…">
+<!ENTITY manageAccount.label          "គ្រប់គ្រង​គណនី">
+<!ENTITY manageAccount.accesskey      "គ">
+<!ENTITY viewQuota.label              "មើល​កូតា">
+<!ENTITY changePassword2.label        "ផ្លាស់ប្ដូរ​ពាក្យសម្ងាត់…">
+<!ENTITY myRecoveryKey.label          "ពាក្យគន្លឹះ​របស់​ខ្ញុំ">
+<!ENTITY resetSync2.label             "កំណត់​ការ​ធ្វើ​សមកាលកម្ម​ឡើងវិញ…">
 
-<!ENTITY pairDevice.label             "Pair a Device">
+<!ENTITY pairDevice.label             "ផ្គូ​ឧបករណ៍">
 
-<!ENTITY syncMy.label               "Sync My">
-<!ENTITY engine.bookmarks.label     "Bookmarks">
-<!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "Tabs">
-<!ENTITY engine.tabs.accesskey      "T">
-<!ENTITY engine.history.label       "History">
-<!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "Passwords">
-<!ENTITY engine.passwords.accesskey "P">
-<!ENTITY engine.prefs.label         "Preferences">
-<!ENTITY engine.prefs.accesskey     "S">
+<!ENTITY syncMy.label               "ធ្វើ​សមកាលកម្ម">
+<!ENTITY engine.bookmarks.label     "ចំណាំ">
+<!ENTITY engine.bookmarks.accesskey "ណ">
+<!ENTITY engine.tabs.label          "ផ្ទាំង">
+<!ENTITY engine.tabs.accesskey      "ង">
+<!ENTITY engine.history.label       "ប្រវត្តិ">
+<!ENTITY engine.history.accesskey   "វ">
+<!ENTITY engine.passwords.label     "ពាក្យ​សម្ងាត់">
+<!ENTITY engine.passwords.accesskey "ស">
+<!ENTITY engine.prefs.label         "ចំណូលចិត្ត">
+<!ENTITY engine.prefs.accesskey     "ត">
+<!ENTITY engine.addons.label        "កម្មវិធី​បន្ថែម">
+<!ENTITY engine.addons.accesskey    "ម">
 
 <!-- Device Settings -->
-<!ENTITY syncComputerName.label       "Computer Name:">
-<!ENTITY syncComputerName.accesskey   "c">
-<!ENTITY unlinkDevice.label           "Unlink This Device">
+<!ENTITY syncComputerName.label       "ឈ្មោះ​កុំព្យូទ័រ ៖">
+<!ENTITY syncComputerName.accesskey   "រ">
+<!ENTITY unlinkDevice.label           "មិន​តភ្ជាប់​ឧបករណ៍​នេះ">
 
 <!-- Footer stuff -->
-<!ENTITY prefs.tosLink.label        "Terms of Service">
-<!ENTITY prefs.ppLink.label         "Privacy Policy">
+<!ENTITY prefs.tosLink.label        "លក្ខខ័ណ្ឌ​សេវាកម្ម">
+<!ENTITY prefs.ppLink.label         "គោលនយោបាយ​ឯកជន">
 

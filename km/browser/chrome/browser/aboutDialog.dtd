@@ -1,12 +1,26 @@
 <!ENTITY aboutDialog.title          "អំពី &brandFullName;">
 
-<!ENTITY community.start2           "&brandShortName; ត្រូវ​បាន​រចនា​ឡើង​ដោយ">
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+<!ENTITY warningDesc.version        "&brandShortName; ជា​ការ​ធ្វើ​ពិសោធន៍ និង​មិនមាន​ស្ថេរភាព​ទេ ។">
+<!-- LOCALIZATION NOTE (warningDesc.telemetry): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetry      "វា​ផ្ញើ​ព័ត៌មាន​សាកល្បង​ស្វ័យ​ប្រវត្តិ​ទៅ​កាន់ &vendorShortName; ដើម្បី​ធ្វើ​ឲ្យ &brandShortName; កាន់​តែ​ប្រសើរ ។">
+
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+<!ENTITY community.exp.start        "">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+<!ENTITY community.exp.middle       " ">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "សហគមន៍​សកល">
+<!ENTITY community.exp.end          "ដែល​ធ្វើការ​ជាមួយ​គ្នា​ដើម្បី​ធ្វើ​ឲ្យ​តំបន់​បណ្ដាញ​បើក​ចំហរ សាធារណៈ និង​អាច​ចូល​ដំណើរ​ការ​បាន​គ្រប់គ្នា ។">
+
+<!ENTITY community.start2           "&brandShortName; ត្រូវ​បាន​រចនា​ឡើង​ដោយ ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
-<!ENTITY community.middle2          ", a ">
+<!ENTITY community.middle2          "​">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "សហគមន៍​សកល">
-<!ENTITY community.end2             "ធ្វើការ​រួម​គ្នា ដើម្បី​ធ្វើឲ្យ​អ៊ីនធឺណិត​​កាន់តែ​ប្រសើរ​ឡើង ។ យើង​ជឿ​ថា អ៊ីនធឺណិត​​គួរតែ​មាន​លក្ខណៈ​បើក​ចំហ សាធារណៈ និង​មនុស្ស​គ្រប់គ្នា​អាច​ចូល​ប្រើប្រាស់​បាន​ដោយ​សេរី​ដោយ​គ្មាន​ឧបសគ្គ ។">
+<!ENTITY community.end3             "ដែល​ធ្វើការ​ជាមួយ​គ្នា​ដើម្បី​ធ្វើ​ឲ្យ​តំបន់​បណ្ដាញ​បើក​ចំហរ សាធារណៈ និង​អាច​ចូល​ដំណើរ​ការ​បាន​គ្រប់គ្នា ។">
 
 <!ENTITY contribute.start           "គួរ​ឲ្យ​ចាប់​អារម្មណ៍​ដែរ​ទេ ?">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
@@ -58,6 +72,6 @@
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
-<!ENTITY channel.description.start  "បច្ចុប្បន្ន​អ្នក​កំពុង​ស្ថិត​នៅ​លើ">
-<!ENTITY channel.description.end    "ធ្វើ​បច្ចុប្បន្នភាព​ឆានែល ។">
+<!ENTITY channel.description.start  "បច្ចុប្បន្ន​អ្នក​កំពុង​ស្ថិត​នៅ​លើ​ឆានែល​បច្ចុប្បន្នភាព​របស់">
+<!ENTITY channel.description.end    " ។">
 

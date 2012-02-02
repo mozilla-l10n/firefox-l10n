@@ -6,8 +6,8 @@
 a replacement for the standard security certificate errors produced
 by NSS/PSM via netError.xhtml. -->
 
-<!ENTITY certerror.pagetitle  "តំណ​ភ្ជាប់​ដែល​មិន​ទុក​ចិត្ត">
-<!ENTITY certerror.longpagetitle "តំណ​ភ្ជាប់​នេះ​មិន​ទុក​ចិត្ត​ទេ">
+<!ENTITY certerror.pagetitle  "ការ​តភ្ជាប់​ដែល​មិន​ទុកចិត្ត">
+<!ENTITY certerror.longpagetitle "ការ​តភ្ជាប់​នេះ​មិន​ត្រូវ​បាន​ជឿ​ទុកចិត្ត​ឡើយ">
 
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
@@ -17,7 +17,7 @@ was trying to connect. -->
 <!ENTITY certerror.introPara2 "ជា​ធម្មតា ពេល​អ្នក​ព្យាយាម​តភ្ជាប់​ដោយ​សុវត្ថិភាព តំបន់​បណ្ដាញ​និង​បង្ហាញ​អត្ត​សញ្ញាណ​ដែល​ទុក​ចិត្ត​ដើម្បី​ធានា​ថា
 អ្នក​កំពុង​តែ​ទៅ​កាន់​កន្លែង​ត្រឹមត្រូវ ។ តែ​ទោះបី​ជា​​យ៉ាង​ណា អត្តសញ្ញាណ​តំបន់​បណ្ដាញ​នេះ​មិន​អាច​បញ្ជាក់​បាន​ទេ ។">
 
-<!ENTITY certerror.whatShouldIDo.heading "តើខ្ញុំគួរធ្វើអ្វី?">
+<!ENTITY certerror.whatShouldIDo.heading "តើ​ខ្ញុំ​គួរ​តែ​ធ្វើ​អ្វី ? ">
 <!ENTITY certerror.whatShouldIDo.content "ប្រសិនបើ​ អ្នក​ធ្លាប់​តភ្ជាប់​ទៅ​តំបន់បណ្ដាញ​នេះ​ដោយ​គ្មាន​បញ្ហា កំហុស​នេះ​មាន​ន័យ​ថា មាន​នរណា​ម្នាក់​កំពុង​ព្យាយាម​បន្លំ​តំបន់បណ្ដាញ​នេះ ហើយ​អ្នក​មិន​គួរ​បន្ត​ទៀត​ទេ ។">
 <!ENTITY certerror.getMeOutOfHere.label "យក​ខ្ញុំ​ចេញ​ពី​ទីនេះ!">
 

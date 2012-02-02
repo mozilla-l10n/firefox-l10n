@@ -7,9 +7,9 @@
 <!ENTITY fpDialog.title "រក្សា​ទុក​ឯកសារ">
 
 <!ENTITY fileCheck.label "បោះពុម្ព​ទៅ​ឯកសារ">
-<!ENTITY fileCheck.accesskey "ប">
+<!ENTITY fileCheck.accesskey "ឯ">
 <!ENTITY propertiesButton.label "លក្ខណសម្បត្តិ…">
-<!ENTITY propertiesButton.accesskey "ល">
+<!ENTITY propertiesButton.accesskey "ណ">
 <!ENTITY descText.label "សេចក្ដី​ពណ៌នា​ម៉ាស៊ីន​បោះពុម្ព ៖">
 <!ENTITY printer.label "ម៉ាស៊ីន​បោះពុម្ព">
 <!ENTITY printerInput.label "ឈ្មោះ​ម៉ាស៊ីន​បោះពុម្ព ៖">
@@ -17,9 +17,9 @@
 
 <!ENTITY printrangeGroup.label "ជួរ​បោះពុម្ព">
 <!ENTITY allpagesRadio.label "ទំព័រ​ទាំងអស់">
-<!ENTITY allpagesRadio.accesskey "ទ">
+<!ENTITY allpagesRadio.accesskey "អ">
 <!ENTITY rangeRadio.label  "ទំព័រ">
-<!ENTITY rangeRadio.accesskey  "ទ">
+<!ENTITY rangeRadio.accesskey  "រ">
 <!ENTITY frompageInput.label  "ពី">
 <!ENTITY frompageInput.accesskey  "ព">
 <!ENTITY topageInput.label  "ដល់">
@@ -33,9 +33,9 @@
 
 <!ENTITY printframeGroup.label "បោះពុម្ព​ស៊ុម">
 <!ENTITY aslaidoutRadio.label "ដូច​បង្ហាញ​នៅ​លើ​អេក្រង់">
-<!ENTITY aslaidoutRadio.accesskey "ដ">
+<!ENTITY aslaidoutRadio.accesskey "អ">
 <!ENTITY selectedframeRadio.label  "ស៊ុម​ដែល​បាន​ជ្រើស">
 <!ENTITY selectedframeRadio.accesskey  "ស">
 <!ENTITY eachframesepRadio.label  "ស៊ុម​នីមួយៗ​ដោយ​ឡែក​ពី​គ្នា">
-<!ENTITY eachframesepRadio.accesskey  "ស">
+<!ENTITY eachframesepRadio.accesskey  "ក">
 

@@ -1,14 +1,14 @@
 <!ENTITY lookInMenuList.label   "មើល​ក្នុង ៖">
-<!ENTITY lookInMenuList.accesskey   "ម">
+<!ENTITY lookInMenuList.accesskey   "ល">
 <!ENTITY textInput.label        "ឈ្មោះ​ឯកសារ ៖">
 <!ENTITY textInput.accesskey        "ឈ">
 <!ENTITY filterMenuList.label   "ឯកសារ​ប្រភេទ ៖">
-<!ENTITY filterMenuList.accesskey   "ឯ">
+<!ENTITY filterMenuList.accesskey   "ភ">
 <!ENTITY name.label             "ឈ្មោះ">
 <!ENTITY size.label             "ទំហំ">
 <!ENTITY lastModified.label     "បាន​កែប្រែ​ចុងក្រោយ">
 <!ENTITY showHiddenFiles.label  "បង្ហាញ​ថត​ និង​ ឯកសារ​ដែល​បាន​លាក់">
-<!ENTITY showHiddenFiles.accesskey  "ប">
+<!ENTITY showHiddenFiles.accesskey  "S">
 
 <!ENTITY noPermissionError.label "អ្នក​មិន​មាន​សិទ្ធិ​ដែល​ចាំបាច់​ក្នុង​ការ​មើល​ថត​នេះ​ទេ ។">
 

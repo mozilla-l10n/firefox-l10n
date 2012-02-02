@@ -43,9 +43,9 @@
 <!ENTITY aboutWarningButton.label "ខ្ញុំ​នឹង​ប្រុងប្រយ័ត្ន ខ្ញុំ​សន្យា!">
 <!ENTITY aboutWarningCheckbox.label "បង្ហាញ​ការ​ព្រមាន​នេះ នៅ​ពេល​ក្រោយ​ទៀត">
 
-<!ENTITY filterPrefs.label "តម្រង ៖">
-<!ENTITY filterPrefs.accesskey "ត">
-<!ENTITY focusFilter.key "f">
+<!ENTITY searchPrefs.label "ស្វែងរក ៖">
+<!ENTITY searchPrefs.accesskey "ស">
+<!ENTITY focusSearch.key "r">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "ឈ្មោះ​ចំណូល​ចិត្ត">
@@ -62,21 +62,21 @@
 <!ENTITY copyPref.label "ចម្លង">
 <!ENTITY copyPref.accesskey "ច">
 <!ENTITY copyName.label "ចម្លង​ឈ្មោះ">
-<!ENTITY copyName.accesskey "ច">
+<!ENTITY copyName.accesskey "N">
 <!ENTITY copyValue.label "ចម្លង​តម្លៃ">
-<!ENTITY copyValue.accesskey "ច">
+<!ENTITY copyValue.accesskey "V">
 <!ENTITY modify.label "កែប្រែ">
-<!ENTITY modify.accesskey "ក">
+<!ENTITY modify.accesskey "M">
 <!ENTITY toggle.label "បិទបើក">
-<!ENTITY toggle.accesskey "ប">
+<!ENTITY toggle.accesskey "T">
 <!ENTITY reset.label "កំណត់​ឡើង​វិញ">
-<!ENTITY reset.accesskey "ក">
+<!ENTITY reset.accesskey "R">
 <!ENTITY new.label "ថ្មី">
-<!ENTITY new.accesskey "ថ">
+<!ENTITY new.accesskey "w">
 <!ENTITY string.label "ខ្សែ​អក្សរ">
-<!ENTITY string.accesskey "ខ">
+<!ENTITY string.accesskey "S">
 <!ENTITY integer.label "ចំនួន​គត់">
-<!ENTITY integer.accesskey "ច">
+<!ENTITY integer.accesskey "I">
 <!ENTITY boolean.label "ប៊ូលីន">
-<!ENTITY boolean.accesskey "ប">
+<!ENTITY boolean.accesskey "B">
 

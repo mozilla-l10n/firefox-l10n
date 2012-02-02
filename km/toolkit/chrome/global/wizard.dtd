@@ -1,19 +1,19 @@
 <!ENTITY  button-back-mac.label        "ទៅ​ក្រោយ">
-<!ENTITY  button-back-mac.accesskey    "ទ">
+<!ENTITY  button-back-mac.accesskey    "យ">
 <!ENTITY  button-next-mac.label        "បន្ត">
-<!ENTITY  button-next-mac.accesskey    "ប">
+<!ENTITY  button-next-mac.accesskey    "ត">
 <!ENTITY  button-finish-mac.label      "ធ្វើ​រួច">
 <!ENTITY  button-cancel-mac.label      "បោះបង់">
 
 <!ENTITY  button-back-unix.label       "ថយ​ក្រោយ">
-<!ENTITY  button-back-unix.accesskey   "ថ">
+<!ENTITY  button-back-unix.accesskey   "យ">
 <!ENTITY  button-next-unix.label       "បន្ទាប់">
-<!ENTITY  button-next-unix.accesskey   "ប">
+<!ENTITY  button-next-unix.accesskey   "ន">
 <!ENTITY  button-finish-unix.label     "បញ្ចប់">
 <!ENTITY  button-cancel-unix.label     "បោះបង់">
 
 <!ENTITY  button-back-win.label        "&lt; ថយ​ក្រោយ">
-<!ENTITY  button-back-win.accesskey    "&">
+<!ENTITY  button-back-win.accesskey    "យ">
 <!ENTITY  button-next-win.label        "បន្ទាប់ &gt;">
 <!ENTITY  button-next-win.accesskey    "ប">
 <!ENTITY  button-finish-win.label      "បញ្ចប់">

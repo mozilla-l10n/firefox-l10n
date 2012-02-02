@@ -1,5 +1,5 @@
-<!ENTITY quota.dialogTitle.label    "Server Quota">
-<!ENTITY quota.retrievingInfo.label "Retrieving quota information…">
-<!ENTITY quota.typeColumn.label     "Type">
-<!ENTITY quota.sizeColumn.label     "Size">
+<!ENTITY quota.dialogTitle.label    "កូតា​ម៉ាស៊ីន​បម្រើ">
+<!ENTITY quota.retrievingInfo.label "កំពុង​ទៅ​យក​ព័ត៌មាន​កូតា...">
+<!ENTITY quota.typeColumn.label     "ប្រភេទ">
+<!ENTITY quota.sizeColumn.label     "ទំហំ">
 

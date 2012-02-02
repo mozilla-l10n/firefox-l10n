@@ -7,13 +7,13 @@
 <!ENTITY     props.policy.label             "គោលការណ៍ ៖"> 
 
 <!ENTITY     button.allow.label             "អនុញ្ញាត">
-<!ENTITY     button.allow.accesskey         "អ">
+<!ENTITY     button.allow.accesskey         "A">
 <!ENTITY     button.session.label           "អនុញ្ញាត​សម្រាប់​សម័យ ">
-<!ENTITY     button.session.accesskey       "អ">
+<!ENTITY     button.session.accesskey       "S">
 <!ENTITY     button.deny.label              "បដិសេធ">
-<!ENTITY     button.deny.accesskey          "ប">
+<!ENTITY     button.deny.accesskey          "D">
 
 <!ENTITY     dialog.title                   "អះអាង​ការ​កំណត់​ខូគី​">
 <!ENTITY     dialog.remember.label          "ប្រើ​ជម្រើស​របស់​ខ្ញុំ​ សម្រាប់​ខូគី​ទាំងអស់​ពី​តំបន់​នេះ​">
-<!ENTITY     dialog.remember.accesskey      "ប">
+<!ENTITY     dialog.remember.accesskey      "U">
 
