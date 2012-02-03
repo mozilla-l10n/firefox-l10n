@@ -52,6 +52,8 @@
 <!ENTITY pref_remember_signons "Parolaları hatırla">
 <!ENTITY pref_cookies "Çerezleri etkinleştir">
 <!ENTITY pref_char_encoding "Karakter kodlamasını göster">
+<!ENTITY pref_char_encoding_on "Menüyü göster">
+<!ENTITY pref_char_encoding_off "Menüyü gösterme">
 <!ENTITY pref_clear_history "Geçmişi temizle">
 <!ENTITY pref_clear_history_confirm "Tarama geçmişi silinecektir">
 <!ENTITY pref_clear_private_data "Özel verileri sil">
@@ -67,11 +69,13 @@
 <!ENTITY pref_font_size_large "Büyük">
 <!ENTITY pref_font_size_xlarge "Çok büyük">
 <!ENTITY pref_use_master_password "Ana parolayı kullan">
+<!ENTITY pref_sync "Sync">
 
 <!ENTITY quit "Çık">
 
 <!ENTITY addons "Eklentiler">
 <!ENTITY downloads "İndirilenler">
+<!ENTITY char_encoding "Karakter kodlaması">
 
 <!ENTITY share "Paylaş">
 <!ENTITY save_as_pdf "PDF olarak kaydet">
@@ -94,13 +98,13 @@
 <!ENTITY button_ok "Tamam">
 <!ENTITY button_cancel "İptal">
 
-<!ENTITY abouthome_addons_title "&brandShortName; için eklentiler">
+<!ENTITY abouthome_addons_title "&brandShortName; için ekletiler">
 <!ENTITY abouthome_addons_browse "Tüm &brandShortName; eklentilerine göz at">
 <!ENTITY abouthome_last_tabs_title "Son oturumunuzdaki sekmeler">
 <!ENTITY abouthome_last_tabs_open "Son oturumdaki tüm sekmeleri aç">
 <!ENTITY abouthome_top_sites_title "Popüler siteler">
 <!ENTITY abouthome_top_sites_browse "Tüm popüler sitelerinize göz atın">
-<!ENTITY abouthome_no_top_sites "Henüz popüler siteniz yok. Gezinmeye başlamak için başlık çubuğuna dokunun.">
-<!ENTITY abouthome_about_sync "Diğer aygıtlarınızda yer imlerinize, geçmişine ve sekmelerinize erişmek için Firefox Sync'i kurun">
+<!ENTITY abouthome_no_top_sites "Henüz popüler siteniz yok. Gezintiye başlamak için başlık çubuğuna dokunun.">
+<!ENTITY abouthome_about_sync "Diğer aygıtlarınızda yer imlerinize, geçmişine ve sekmelerinize erişmek için Firefox Sync\u0027i kurun">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
 

@@ -129,6 +129,9 @@
 <!ENTITY copyLinkCmd.accesskey    "k">
 
 <!ENTITY CopyMessageId.label "İleti kimliğini kopyala">
+<!ENTITY CopyMessageId.accesskey "C">
 <!ENTITY OpenMessageForMsgId.label "Bu kimliği taşıyan iletiyi aç">
+<!ENTITY OpenMessageForMsgId.accesskey "O">
 <!ENTITY OpenBrowserWithMsgId.label "Tarayıcıyı bu kimlik numarasıyla aç">
+<!ENTITY OpenBrowserWithMsgId.accesskey "B">
 

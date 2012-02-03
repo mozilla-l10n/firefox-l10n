@@ -332,6 +332,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY thisFolder.label "Bu dizin">
 <!ENTITY thisFolder.accesskey "B">
 <!ENTITY goRecentlyClosedTabs.label "Yeni kapatılan sekmeler">
+<!ENTITY goRecentlyClosedTabs.accesskey "R">
 <!ENTITY startPageCmd.label "Posta başlangıç sayfası">
 <!ENTITY startPageCmd.accesskey "b">
 

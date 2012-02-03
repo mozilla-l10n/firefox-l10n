@@ -61,13 +61,16 @@
 <!ENTITY defaultPortLabel.label "Varsayılan:">
 <!ENTITY defaultPortValue.label "">
 
-
-<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
+<!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
+     haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
+-->
+<!ENTITY modifyOutgoing.suffix "Giden posta sunucularına hesap ayarlarından değiştirebilirsiniz.">
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix "Mevcut giden posta sunucunuz (SMTP) &quot;">
-<!ENTITY haveSmtp1.suffix2 "&quot; kullanılacak. Giden posta sunucularını hesap ayarlarından değiştirebilirsiniz.">
+<!ENTITY haveSmtp1.suffix3 "&quot;, kullanılacak.">
 
 <!-- Entities for Login page -->
 
@@ -80,18 +83,18 @@
 <!ENTITY usernameSmtpDesc.label "E-posta sağlayıcınız tarafından size verilen giden posta kullanıcı adınızı girin (genellikle gelen e-posta ile aynıdır).">
 <!ENTITY usernameSmtpLabel.label "Giden sunucusu kullanıcı adı:">
 <!ENTITY usernameSmtpLabel.accesskey "a">
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Mevcut giden posta (SMTP) kullanıcı adınız &quot;">
-<!ENTITY haveSmtp2.suffix2 "&quot; kullanılacak. Giden posta sunucularını hesap ayarlarından değiştirebilirsiniz.">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
+<!ENTITY haveSmtp2.suffix3 "&quot;, kullanılacak.">
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Giden posta (SMTP) sunucunuz &quot;">
-<!ENTITY haveSmtp3.suffix2 "&quot;,  gelen posta sunucunuzla aynı. Buna erişmek için gelen sunucusu kullanıcı adınız kullanılacak. Giden posta sunucularını hesap ayarlarından değiştirebilirsiniz.">
+<!ENTITY haveSmtp3.suffix3 "&quot;, gelen posta sunucunuzla aynı. Erişim için gelen sunucusundaki kullanıcı adınız kullanılacaktır.">
 
 <!-- Entities for Account name page -->
 
