@@ -78,8 +78,10 @@
 <!ENTITY lightning.toolbar.mail.label         "E-mail">
 <!ENTITY lightning.toolbar.mail.accesskey     "m">
 <!ENTITY lightning.toolbar.calendar.label     "Agenda">
+<!ENTITY lightning.toolbar.calendar.tooltip   "Wisselen naar het agendatabblad">
 <!ENTITY lightning.toolbar.calendar.accesskey "A">
 <!ENTITY lightning.toolbar.task.label         "Taken">
+<!ENTITY lightning.toolbar.task.tooltip       "Wisselen naar het takentabblad">
 <!ENTITY lightning.toolbar.task.accesskey     "k">
 
 <!-- Toolbar write button -->

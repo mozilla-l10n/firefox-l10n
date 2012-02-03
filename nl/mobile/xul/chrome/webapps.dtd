@@ -2,6 +2,6 @@
 <!ENTITY webapps.permissions "Toegang toestaan:">
 <!ENTITY webapps.perm.geolocation "Locatiebewust navigeren">
 <!ENTITY webapps.perm.offline "Offlinegegevensopslag">
-<!ENTITY webapps.perm.notifications "DesktopNotificaties">
+<!ENTITY webapps.perm.notifications "Desktopnotificaties">
 <!ENTITY webapps.perm.requestedHint "(verzocht)">
 <!ENTITY webapps.add-homescreen "Toevoegen aan thuisscherm">

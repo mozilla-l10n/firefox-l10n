@@ -18,8 +18,7 @@
   <li>Controleer het adres op typefouten, zoals
     <strong>ww</strong>.voorbeeld.com in plaats van
     <strong>www</strong>.voorbeeld.com</li>
-  <li>Controleer uw apparaat data- of Wi-Fi-verbinding als u geen enkele pagina kunt
-    laden.</li>
+  <li>Controleer de gegevens- of Wi-Fi-verbinding van uw apparaat als u geen enkele pagina kunt laden.</li>
 </ul>
 ">
 
@@ -51,7 +50,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
 <!ENTITY notCached.title "Document verlopen">
-<!ENTITY notCached.longDesc "<p>Het verzochte document is niet beschikbaar in &brandShortName;'s-buffer.</p><ul><li>Vanwege een veiligheidsvoorzorgmaatregel zal &brandShortName; vertrouwelijke documenten niet automatisch opnieuw aanvragen.</li><li>Klik om het document opnieuw aan te vragen van de website.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Het opgevraagde document is niet beschikbaar in de buffer van &brandShortName;.</p><ul><li>Als veiligheidsvoorzorgsmaatregel vraagt &brandShortName; gevoelige documenten niet automatisch opnieuw op.</li><li>Klik op Opnieuw proberen om het document opnieuw van de website op te vragen.</li></ul>">
 
 <!ENTITY netOffline.title "Offlinemodus">
 <!ENTITY netOffline.longDesc2 "
@@ -99,7 +98,8 @@
 <!ENTITY proxyResolveFailure.title "Kan de proxyserver niet vinden">
 <!ENTITY proxyResolveFailure.longDesc2 "
 <ul>
-  <li>Verzeker u ervan dat uw apparaat een werkende data- of Wi-Fi-verbinding heeft.</li>
+  <li>Controleer of uw proxyinstellingen juist zijn.</li>
+  <li>Verzeker u ervan dat uw apparaat een werkende gegevens- of Wi-Fi-verbinding heeft.</li>
 </ul>
 ">
 
@@ -140,10 +140,8 @@
 
 <!ENTITY sharedLongDesc2 "
 <ul>
-  <li>Misschien is de website tijdelijk niet beschikbaar of overbelast. Probeer het 
-    over enkele ogenblikken opnieuw.</li>
-  <li>Controleer uw apparaat data- of Wi-Fi-verbinding als u geen enkele pagina kunt
-    laden.</li>
+  <li>Misschien is de website tijdelijk niet beschikbaar of overbelast. Probeer het over enkele ogenblikken opnieuw.</li>
+  <li>Controleer de gegevens- of Wi-Fi-verbinding van uw apparaat als u geen enkele pagina kunt laden.</li>
 </ul>
 ">
 

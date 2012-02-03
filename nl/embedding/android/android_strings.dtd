@@ -15,7 +15,7 @@
 <!ENTITY  exit_label "Afsluiten">
 <!ENTITY  continue_label "Doorgaan">
 
-<!ENTITY  launcher_shortcuts_title "&brandShortName; web-apps">
-<!ENTITY  launcher_shortcuts_empty "Geen web-apps gevonden">
+<!ENTITY  launcher_shortcuts_title "&brandShortName;-webapps">
+<!ENTITY  launcher_shortcuts_empty "Geen webapps gevonden">
 
 <!ENTITY choose_file "Bestand kiezen">

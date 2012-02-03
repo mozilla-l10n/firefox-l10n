@@ -3,7 +3,7 @@
 <!ENTITY muteButton.muteLabel "Dempen">
 <!ENTITY muteButton.unmuteLabel "Dempen uitschakelen">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Volledig scherm">
-<!ENTITY fullscreenButton.exitfullscreenlabel "Volledigscherm verlaten">
+<!ENTITY fullscreenButton.exitfullscreenlabel "Volledig scherm verlaten">
 
 <!ENTITY stats.media "Media">
 <!ENTITY stats.size "Grootte">
@@ -14,23 +14,22 @@
 <!ENTITY stats.activitySeeking "(zoeken)">
 <!ENTITY stats.volume "Volume">
 <!ENTITY stats.channels "Kanalen">
-<!ENTITY stats.sampleRate "Bemonsteringsfrequentie">
-<!ENTITY stats.framesParsed "Frames parsed">
+<!ENTITY stats.sampleRate "Samplefrequentie">
+<!ENTITY stats.framesParsed "Frames geparset">
 <!ENTITY stats.framesDecoded "Frames gedecodeerd">
 <!ENTITY stats.framesPresented "Frames gepresenteerd">
-<!ENTITY stats.framesPainted "Frames painted">
+<!ENTITY stats.framesPainted "Frames afgebeeld">
 
 <!ENTITY error.aborted "Video laden gestopt.">
 <!ENTITY error.network "Video afspelen afgebroken vanwege een netwerkfout.">
-<!ENTITY error.decode "Video kan niet afgespeeld worden omdat het bestand corrupt is.">
-<!ENTITY error.srcNotSupported "Videoformaat of MIME-type is niet ondersteund.">
-<!ENTITY error.noSource2 "Geen ondersteunde videoformat an MIME-type gevonden.">
+<!ENTITY error.decode "Video kan niet worden afgespeeld, omdat het bestand is beschadigd.">
+<!ENTITY error.srcNotSupported "Videoformaat of MIME-type wordt niet ondersteund.">
+<!ENTITY error.noSource2 "Geen video met ondersteund formaat en MIME-type gevonden.">
 <!ENTITY error.generic "Video afspelen afgebroken vanwege een onbekende fout.">
 
-<!--
-Localization note: the #1 string is the current media position, and the #2
-string is the total duration. For example, when at the 5 minute mark in a 6
-hour long video, #1 would be "5:00" and #2 would be "6:00:00", result string
-would be "5:00 of 6:00:00 elapsed".
+<!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
+media position, and the #2 string is the total duration. For example, when at
+the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
+"6:00:00", result string would be "5:00 of 6:00:00 elapsed".
 -->
 <!ENTITY scrubberScale.nameFormat "#1 van #2 verstreken">
