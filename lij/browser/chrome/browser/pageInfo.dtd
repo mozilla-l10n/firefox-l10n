@@ -88,7 +88,7 @@
 <!ENTITY  permTab               "Permìssi">
 <!ENTITY  permTab.accesskey     "P">
 <!ENTITY  permUseDefault        "Ûza predefinîo">
-<!ENTITY  permAskAlways         "Domanda sénpre">
+<!ENTITY  permAskAlways         "Domànda sénpre">
 <!ENTITY  permAllow             "Permétti">
 <!ENTITY  permAllowSession      "Permétti pe sta seçión">
 <!ENTITY  permBlock             "Blòcco">

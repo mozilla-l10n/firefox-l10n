@@ -122,7 +122,7 @@
 <!ENTITY detail.homepage.label                "Pàgina Iniçiâ">
 <!ENTITY detail.numberOfDownloads.label       "Descaregaménti">
 
-<!ENTITY detail.contributions.description     "O svilupatô de sto conponénte azónto te domanda se t'eu contriboî con quàrche palànca.">
+<!ENTITY detail.contributions.description     "O svilupatô de sto conponénte azónto te domànda se t'eu contriboî con quàrche palànca.">
 
 <!ENTITY detail.updateType                    "Agiornaménti aotomàtici">
 <!ENTITY detail.updateDefault.label           "Predefinîo">

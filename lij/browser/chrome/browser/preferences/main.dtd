@@ -30,7 +30,7 @@
 <!ENTITY chooseFolderWin.accesskey    "Ç">
 <!ENTITY chooseFolderMac.label        "Scégli…">
 <!ENTITY chooseFolderMac.accesskey    "g">
-<!ENTITY alwaysAsk.label "Domandame sénpre donde sarvâ i file">
+<!ENTITY alwaysAsk.label "Domàndame sénpre donde sarvâ i file">
 <!ENTITY alwaysAsk.accesskey "a">
 
 <!ENTITY addonsMgr.label               "Conponénti azónti">

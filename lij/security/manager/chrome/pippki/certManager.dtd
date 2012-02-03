@@ -135,7 +135,7 @@
 <!ENTITY exceptionMgr.title                   "Azónzi eceçión de seguéssa">
 <!ENTITY exceptionMgr.exceptionButton.label   "Conferma eceçión de seguéssa">
 <!ENTITY exceptionMgr.exceptionButton.accesskey "C">
-<!ENTITY exceptionMgr.supplementalWarning     "Legitima banche, negòççi, e âtri scîti pùblici e no te saiâ ciù domandòu de fâ coscì.">
+<!ENTITY exceptionMgr.supplementalWarning     "Legìtima banche, negòççi, e âtri scîti pùblici e no te saiâ ciù domandòu de fâ coscì.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Server">
 <!ENTITY exceptionMgr.certlocation.url        "Indirìsso">
 <!ENTITY exceptionMgr.certlocation.download   "Danni o certificâto">

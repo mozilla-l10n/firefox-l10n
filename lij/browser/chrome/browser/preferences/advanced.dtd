@@ -106,7 +106,7 @@
 <!ENTITY certSelection.description       "Quàndo un server o domanda i mæ certificâti:">
 <!ENTITY certs.auto                      "Seleçionn-a un in aotomàtico">
 <!ENTITY certs.auto.accesskey            "l">
-<!ENTITY certs.ask                       "Domandamelo tùtte e vòtte">
+<!ENTITY certs.ask                       "Domàndamelo tùtte e vòtte">
 <!ENTITY certs.ask.accesskey             "D">
 <!ENTITY viewCerts.label                 "Fànni védde certificâti">
 <!ENTITY viewCerts.accesskey             "F">

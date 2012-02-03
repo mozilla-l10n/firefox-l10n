@@ -36,7 +36,7 @@ that require it.  -->
 <!ENTITY itemHistoryAndDownloads.accesskey "S">
 <!ENTITY itemBrowsingHistory.label         "Stöia da navegaçión">
 <!ENTITY itemBrowsingHistory.accesskey     "S">
-<!ENTITY itemFormSearchHistory.label       "Stöia di Mòdoli &amp; Riçerche">
+<!ENTITY itemFormSearchHistory.label       "Stöia di Mòdoli &amp; Riçèrche">
 <!ENTITY itemFormSearchHistory.accesskey   "S">
 <!ENTITY itemPasswords.label               "Paròlle segrétte sarvæ">
 <!ENTITY itemPasswords.accesskey           "P">

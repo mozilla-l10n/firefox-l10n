@@ -1,7 +1,7 @@
 <!ENTITY  updateWizard.title              "Agiornaménto da aplicaçión">
 
 <!ENTITY  checking.title                  "Contròllo i agiornaménti">
-<!ENTITY  updateCheck.label               "Çerco nêuve versción de &brandShortName;…">
+<!ENTITY  updateCheck.label               "Çèrco nêuve versción de &brandShortName;…">
 
 <!ENTITY  pluginupdatesfound.title        "Ò trovòu agiornaménti pe-i plugin">
 <!ENTITY  pluginupdatesfound.label        "Ò trovòu de versción ciù nêuve di un o ciù di teu plugin.">
@@ -23,7 +23,7 @@
 <!ENTITY  manualUpdateGetMsg.label        "ti peu de lóngo pigiâ l'ùrtima versción de &brandShortName; in:">
 
 <!ENTITY  incompatibleCheck.title         "Contròllo a compatibilitæ di conponénti azónti">
-<!ENTITY  incompatibleCheck.label         "Çerco nêuve versción pe-i teu conponénti azónti…">
+<!ENTITY  incompatibleCheck.label         "Çèrco nêuve versción pe-i teu conponénti azónti…">
 
 <!ENTITY  clickHere.label                 "Fànni védde ciù informaçióin in sciô agiornaménto">
 
