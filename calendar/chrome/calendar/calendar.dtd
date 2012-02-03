@@ -64,6 +64,7 @@
 <!ENTITY calendar.events.filter.today.label "Tämän päivän tapahtumat">
 <!ENTITY calendar.events.filter.future.label "Kaikki tulevat tapahtumat">
 <!ENTITY calendar.events.filter.current.label "Valittuna oleva päivä">
+<!ENTITY calender.events.filter.currentview.label "Tapahtumat nykyisessä näkymässä">
 <!ENTITY calendar.events.filter.next7Days.label "Seuraavien 7 päivän tapahtumat">
 <!ENTITY calendar.events.filter.next14Days.label "Seuraavien 14 päivän tapahtumat">
 <!ENTITY calendar.events.filter.next31Days.label "Seuraavien 31 päivän tapahtumat">
@@ -90,7 +91,7 @@
 <!ENTITY calendar.day.button.tooltip            "Siirry päivänäkymään" >
 <!ENTITY calendar.week.button.tooltip           "Siirry viikkonäkymään" >
 <!ENTITY calendar.month.button.tooltip          "Siirry kuukausinäkymään" >
-<!ENTITY calendar.multiweek.button.tooltip      "Siirry moniviikkoiseen näkymään" >
+<!ENTITY calendar.multiweek.button.tooltip      "Siirry moniviikkonäkymään" >
 
 <!ENTITY calendar.nextday.label                 "Seuraava päivä" >
 <!ENTITY calendar.prevday.label                 "Edellinen päivä" >
@@ -105,7 +106,7 @@
 <!ENTITY calendar.nextmonth.accesskey           "S" >
 <!ENTITY calendar.prevmonth.accesskey           "E" >
 
-<!ENTITY calendar.navigation.nextday.tooltip    "Siirry seuraavaan päivään" >
+<!ENTITY calendar.navigation.nextday.tooltip    "Siirry päivä eteenpäin" >
 <!ENTITY calendar.navigation.prevday.tooltip    "Siirry päivä taaksepäin" >
 <!ENTITY calendar.navigation.nextweek.tooltip   "Siirry viikko eteenpäin" >
 <!ENTITY calendar.navigation.prevweek.tooltip   "Siirry viikko taaksepäin" >
@@ -138,13 +139,13 @@
 
 <!ENTITY calendar.task.filter.title.label           "Näytä">
 <!ENTITY calendar.task.filter.all.label             "Kaikki">
-<!ENTITY calendar.task.filter.all.accesskey         "a">
+<!ENTITY calendar.task.filter.all.accesskey         "K">
 <!ENTITY calendar.task.filter.today.label           "Tämä päivä">
 <!ENTITY calendar.task.filter.today.accesskey       "T">
 <!ENTITY calendar.task.filter.next7days.label       "Seuraavat 7 päivää">
 <!ENTITY calendar.task.filter.next7days.accesskey   "S">
-<!ENTITY calendar.task.filter.notstarted.label      "Ei-aloitetut tehtävät">
-<!ENTITY calendar.task.filter.notstarted.accesskey  "a">
+<!ENTITY calendar.task.filter.notstarted.label      "Aloittamattomat tehtävät">
+<!ENTITY calendar.task.filter.notstarted.accesskey  "A">
 <!ENTITY calendar.task.filter.overdue.label         "Myöhästyneet tehtävät">
 <!ENTITY calendar.task.filter.overdue.accesskey     "M">
 <!ENTITY calendar.task.filter.completed.label       "Suoritetut tehtävät">
@@ -178,6 +179,10 @@
 <!ENTITY calendar.task.category.button.tooltip  "Luokittele tehtäviä">
 <!ENTITY calendar.task.complete.button.tooltip  "Merkitse valitut tehtävät suoritetuksi">
 <!ENTITY calendar.task.priority.button.tooltip  "Muuta tärkeysastetta">
+
+<!ENTITY calendar.task.text-filter.textbox.emptytext.base            "Suodata tehtäviä… #1">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Shift+K&gt;">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label            "Asiakirja: valmis">
@@ -213,6 +218,8 @@
 <!ENTITY calendar.context.progress.accesskey          "E">
 <!ENTITY calendar.context.priority.label              "Tärkeysaste">
 <!ENTITY calendar.context.priority.accesskey          "r">
+<!ENTITY calendar.context.postpone.label              "Siirrä tehtävän alkua">
+<!ENTITY calendar.context.postpone.accesskey          "S">
 
 <!ENTITY percnt "&#38;#37;" ><!--=percent sign-->
 
@@ -238,6 +245,13 @@
 <!ENTITY priority.level.normal.accesskey    "N">
 <!ENTITY priority.level.high                "Korkea">
 <!ENTITY priority.level.high.accesskey      "K">
+
+<!ENTITY calendar.context.postpone.1hour.label      "Yksi tunti">
+<!ENTITY calendar.context.postpone.1hour.accesskey  "t">
+<!ENTITY calendar.context.postpone.1day.label       "Yksi päivä">
+<!ENTITY calendar.context.postpone.1day.accesskey   "p">
+<!ENTITY calendar.context.postpone.1week.label      "Yksi viikko">
+<!ENTITY calendar.context.postpone.1week.accesskey  "v">
 
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
@@ -277,7 +291,7 @@
 <!ENTITY calendar.tasks.view.calendarlist.label        "Kalenteriluettelo">
 <!ENTITY calendar.tasks.view.calendarlist.accesskey    "l">
 
-<!ENTITY calendar.tasks.view.filtertasks.label           "Suodata tehtävät">
+<!ENTITY calendar.tasks.view.filtertasks.label           "Suodata tehtäviä">
 <!ENTITY calendar.tasks.view.filtertasks.accesskey       "S">
 
 <!-- Calendar Alarm Dialog -->
@@ -286,8 +300,8 @@
 <!ENTITY calendar.alarm.details.label               "Lisätiedot…" >
 
 <!ENTITY calendar.alarm.snoozefor.label             "Ilmoita uudelleen" >
-<!ENTITY calendar.alarm.snoozeallfor.label          "Ilmoita uudelleen" >
-<!ENTITY calendar.alarm.title.label                 "Kalenterihälytys" >
+<!ENTITY calendar.alarm.snoozeallfor.label          "Ilmoita kaikista uudelleen" >
+<!ENTITY calendar.alarm.title.label                 "Kalenterimuistutukset" >
 <!ENTITY calendar.alarm.dismiss.label               "Lopeta" >
 <!ENTITY calendar.alarm.dismissall.label            "Lopeta kaikki" >
 
@@ -321,10 +335,10 @@
 <!ENTITY calendarproperties.refreshInterval.manual.label   "Käsin">
 <!ENTITY calendarproperties.name.label                     "Nimi:">
 <!ENTITY calendarproperties.readonly.label                 "Vain luku">
-<!ENTITY calendarproperties.firealarms.label               "Näytä hälytykset">
+<!ENTITY calendarproperties.firealarms.label               "Näytä muistutukset">
 <!ENTITY calendarproperties.cache2.label                   "Välimuisti">
 <!ENTITY calendarproperties.enabled.label                  "Tämä kalenteri on aktiivinen">
-<!ENTITY calendarproperties.forceDisabled.label            "Tämän kalenterin tuottajaa ei löytynyt. Tämä tapahtuu usein tiettyjen lisäosien poistamisen tai käytöstäpoistamisen jälkeen.">
+<!ENTITY calendarproperties.forceDisabled.label            "Tämän kalenterin tuottajaa ei löytynyt. Tämä tapahtuu usein tiettyjen lisäosien poistamisen tai käytöstä poistamisen jälkeen.">
 <!ENTITY calendarproperties.unsubscribe.label              "Peruuta tilaus">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "P">
 
@@ -345,14 +359,14 @@
 <!ENTITY calendar.print.layout.label "Asettelu:">
 <!ENTITY calendar.print.range.label "Mitä tulostetaan">
 <!ENTITY calendar.print.currentView2.label "Nykyinen näkymä">
-<!ENTITY calendar.print.selectedEventsAndTasks.label "Valitut tapahtumat ja tehtävät">
+<!ENTITY calendar.print.selectedEventsAndTasks.label "Valitut tapahtumat tai tehtävät">
 <!ENTITY calendar.print.tasks.label "Tehtävät">
 <!ENTITY calendar.print.events.label "Tapahtumat">
 <!ENTITY calendar.print.selected.label "Valitut tapahtumat">
 <!ENTITY calendar.print.custom.label "Valitse:">
 <!ENTITY calendar.print.from.label "Alku:">
 <!ENTITY calendar.print.to.label "Loppu:">
-<!ENTITY calendar.print.settingsGroup.label "Tulosteen asetukset">
+<!ENTITY calendar.print.settingsGroup.label "Tulostusasetukset">
 <!ENTITY calendar.print.optionsGroup.label "Valinnat">
 <!ENTITY calendar.print.taskswithnoduedate.label "Tehtävät ilman valmistumispäivää">
 <!ENTITY calendar.print.completedtasks.label "Suoritetut tehtävät">

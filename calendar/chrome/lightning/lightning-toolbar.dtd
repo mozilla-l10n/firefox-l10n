@@ -40,3 +40,31 @@
 <!ENTITY lightning.toolbar.task.accesskey "T">
 
 <!ENTITY lightning.toolbar.sync.label "Synkronoi">
+<!ENTITY lightning.toolbar.delete.label "Poista">
+<!ENTITY lightning.toolbar.edit.label "Muokkaa">
+<!ENTITY lightning.toolbar.gototoday.label "Siirry tähän päivään">
+<!ENTITY lightning.toolbar.print.label "Tulosta">
+
+<!-- Mode Toolbar -->
+<!ENTITY lightning.toolbar.mail.label         "Sähköposti">
+<!ENTITY lightning.toolbar.mail.accesskey     "S">
+<!ENTITY lightning.toolbar.calendar.label     "Kalenteri">
+<!ENTITY lightning.toolbar.calendar.tooltip   "Siirry Kalenteri-välilehteen">
+<!ENTITY lightning.toolbar.calendar.accesskey "K">
+<!ENTITY lightning.toolbar.task.label         "Tehtävät">
+<!ENTITY lightning.toolbar.task.tooltip       "Siirry Tehtävät-välilehteen">
+<!ENTITY lightning.toolbar.task.accesskey     "T">
+
+<!-- Toolbar write button -->
+<!ENTITY lightning.toolbar.newevent.label     "Tapahtuma">
+<!ENTITY lightning.toolbar.newtask.label      "Tehtävä">
+
+<!-- Calendar and Task Mode Toolbar -->
+<!ENTITY lightning.toolbar.day.label                 "Päivä">
+<!ENTITY lightning.toolbar.day.accesskey             "P">
+<!ENTITY lightning.toolbar.week.label                "Viikko">
+<!ENTITY lightning.toolbar.week.accesskey            "V">
+<!ENTITY lightning.toolbar.multiweek.label           "Moniviikko">
+<!ENTITY lightning.toolbar.multiweek.accesskey       "M">
+<!ENTITY lightning.toolbar.month.label               "Kuukausi">
+<!ENTITY lightning.toolbar.month.accesskey           "K">
