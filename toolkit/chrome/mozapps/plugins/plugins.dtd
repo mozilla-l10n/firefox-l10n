@@ -21,7 +21,7 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; moet opnieuw worden opgestart om de plug-in(s) te laten werken.">
 
 <!ENTITY missingPlugin                                       "Er is een plug-in nodig om deze inhoud weer te geven.">
-<!ENTITY clickToPlayPlugin                                   "Tap om plug-in te activeren.">
+<!ENTITY clickToPlayPlugin                                   "Tik hier om de plug-in te activeren.">
 <!ENTITY disabledPlugin                                      "Deze plug-in is uitgeschakeld.">
 <!ENTITY blockedPlugin.label                                 "Deze plug-in is geblokkeerd voor uw bescherming.">
 
@@ -35,6 +35,7 @@
 <!ENTITY reloadPlugin.middle                                 "pagina opnieuw">
 <!ENTITY reloadPlugin.post                                   " om het nogmaals te proberen.">
 <!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "Crashrapport verzenden">
 <!ENTITY report.checkbox                                     "…en crashrapport verzenden">
 <!ENTITY report.submitting                                   "Rapport verzenden…">
 <!ENTITY report.submitted                                    "Crashrapport verzonden.">

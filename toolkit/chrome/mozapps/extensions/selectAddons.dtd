@@ -6,8 +6,8 @@
 <!ENTITY select.heading              "Uw add-ons selecteren">
 <!-- LOCALIZATION NOTE (select.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
-<!ENTITY select.description          "Maak &brandShortName; nog sneller door add-ons uit te schakelen die u niet langer gebruikt. Add-ons geïnstalleerd door derden worden automatisch uitgeschakeld, tenzij u ze hieronder selecteert.">
-<!ENTITY select.keep                 "Houden">
+<!ENTITY select.description          "Maak &brandShortName; nog sneller door add-ons die u niet meer gebruikt uit te schakelen. Add-ons die al zijn geïnstalleerd door derden worden automatisch uitgeschakeld, tenzij u ze hieronder selecteert.">
+<!ENTITY select.keep                 "Behouden">
 <!-- LOCALIZATION NOTE (select.keep.style): Should be a width wide enough for
      the string in select.keep above. -->
 <!ENTITY select.keep.style           "width: 6ch;">
@@ -25,10 +25,10 @@
 <!ENTITY confirm.heading             "Uw add-ons selecteren">
 <!-- LOCALIZATION NOTE (confirm.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
-<!ENTITY confirm.description         "Maak &brandShortName; nog sneller door add-ons uit te schakelen die u niet langer gebruikt. Add-ons geïnstalleerd door derden worden automatisch uitgeschakeld, tenzij u ze hieronder selecteert.">
+<!ENTITY confirm.description         "Maak &brandShortName; nog sneller door add-ons die u niet meer gebruikt uit te schakelen. Add-ons die al zijn geïnstalleerd door derden worden automatisch uitgeschakeld, tenzij u ze hieronder selecteert.">
 
 <!ENTITY action.disable.heading      "De volgende add-ons worden uitgeschakeld:">
-<!ENTITY action.incompatible.heading "De volgende add-ons zijn uitgeschakeld maar worden ingeschakeld zodra ze compatibel zijn:">
+<!ENTITY action.incompatible.heading "De volgende add-ons zijn uitgeschakeld, maar worden ingeschakeld zodra ze compatibel zijn:">
 <!ENTITY action.update.heading       "De volgende add-ons worden bijgewerkt:">
 <!ENTITY action.enable.heading       "De volgende add-ons worden ingeschakeld:">
 
@@ -36,7 +36,7 @@
 <!ENTITY update.progress.label       "Downloaden en installeren van updates voor uw geselecteerde add-ons.">
 
 <!ENTITY errors.heading              "&brandShortName; kon een aantal van uw add-ons niet bijwerken.">
-<!ENTITY errors.description          "Bijwerken van een aantal van uw add-ons is mislukt. &brandShortName; zal ze automatisch proberen bij te werken.">
+<!ENTITY errors.description          "Het bijwerken van een aantal van uw add-ons is mislukt. &brandShortName; zal deze later automatisch proberen bij te werken.">
 
 <!ENTITY footer.label                "U kunt uw add-ons altijd aanpassen door naar de add-onbeheerder te gaan.">
 <!ENTITY cancel.label                "Annuleren">

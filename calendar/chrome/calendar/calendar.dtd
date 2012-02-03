@@ -252,8 +252,8 @@
 <!ENTITY calendar.context.findcalendar.accesskey       "z" >
 <!ENTITY calendar.context.deleteserver.label           "Agenda verwijderen">
 <!ENTITY calendar.context.deleteserver.accesskey       "v">
-<!ENTITY calendar.context.reloadserver.label           "Agenda’s op andere computer(s) verversen">
-<!ENTITY calendar.context.reloadserver.accesskey       "c">
+<!ENTITY calendar.context.synccalendars.label          "Agenda’s synchroniseren">
+<!ENTITY calendar.context.synccalendars.accesskey      "c">
 <!ENTITY calendar.context.publish.label                "Agenda publiceren">
 <!ENTITY calendar.context.publish.accesskey            "u">
 <!ENTITY calendar.context.export.label                 "Agenda exporteren…">

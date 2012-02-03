@@ -53,12 +53,12 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Document verlopen">
-<!ENTITY notCached.longDesc "<p>Het verzochte document is niet beschikbaar in &brandShortName;'s-buffer.</p><ul><li>Vanwege een veiligheidsvoorzorgmaatregel zal &brandShortName; vertrouwelijke documenten niet automatisch opnieuw aanvragen.</li><li>Klik om het document opnieuw aan te vragen van de website.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Het opgevraagde document is niet beschikbaar in de buffer van &brandShortName;.</p><ul><li>Als veiligheidsvoorzorgsmaatregel vraagt &brandShortName; gevoelige documenten niet automatisch opnieuw op.</li><li>Klik op Opnieuw proberen om het document opnieuw van de website op te vragen.</li></ul>">
 
 <!ENTITY netOffline.title "Offlinemodus">
 <!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Druk op “Opnieuw proberen” om naar onlinemodus over te schakelen en vernieuw de pagina.</li>
+  <li>Druk op “Opnieuw proberen” om naar de onlinemodus over te schakelen en vernieuw de pagina.</li>
 </ul>
 ">
 

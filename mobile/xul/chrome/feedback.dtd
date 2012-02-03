@@ -7,5 +7,5 @@
 
 <!ENTITY feedback.tools.title           "Hulpmiddelen">
 <!ENTITY feedback.allowTelemetry.title  "Prestatiegegevens verzenden">
-<!ENTITY feedback.forceCompat.title     "Add-oncompatibiliteit forceren">
+<!ENTITY feedback.forceCompat.title     "Add-on-compatibiliteit forceren">
 <!ENTITY feedback.errorConsole.title    "De foutconsole inschakelen">

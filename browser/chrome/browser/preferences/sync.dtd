@@ -17,7 +17,7 @@
 <!ENTITY myRecoveryKey.label          "Mijn herstelsleutel">
 <!ENTITY resetSync2.label             "Sync herinitialiseren…">
 
-<!ENTITY pairDevice.label             "Apparaat koppelen">
+<!ENTITY pairDevice.label             "Een apparaat koppelen">
 
 <!ENTITY syncMy.label               "Synchroniseren:">
 <!ENTITY engine.bookmarks.label     "Bladwijzers">
