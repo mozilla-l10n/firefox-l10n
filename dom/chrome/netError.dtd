@@ -49,6 +49,9 @@
 
 <!ENTITY netInterrupt.title "ਡਾਟਾ ਸੰਚਾਰ ਦੌਰਾਨ ਗਲਤੀ">
  <!ENTITY netInterrupt.longDesc "<p>ਬਰਾਊਜ਼ਰ ਠੀਕ ਤਰ੍ਹਾਂ ਕੁਨੈਕਟ ਹੋ ਗਿਆ ਸੀ, ਪਰ ਜਾਣਕਾਰੀ ਟਰਾਂਸਫਰ ਹੋਣ ਦੌਰਾਨ ਕੁਨੈਕਟ ਖਤਮ ਹੋ ਗਿਆ। ਬਾਅਦ ਵਿੱਚ ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜੀ।</p><ul><li>ਕੀ ਤੁਸੀਂ ਹੋਰ ਸਾਇਟਾਂ ਖੋਲ੍ਹ ਸਕਦੇ ਹੋ? ਕੰਪਿਊਟਰ ਦਾ ਨੈੱਟਵਰਕ ਕੁਨੈਕਸ਼ਨ ਜਾਂਚੋ।</li><li>ਹਾਲੇ ਵੀ ਸਮੱਸਿਆ ਹੈ? ਮੱਦਦ ਲਈ ਆਪਣੇ ਨੈੱਟਵਰਕ ਐਡਮਿਨਸਟੇਟਰ ਜਾਂ ਇੰਟਰਨੈੱਟ ਪਰੋਵਾਇਡਰ ਨਾਲ ਸੰਪਰਕ ਕਰੋ ਜੀ।</li></ul>">
+
+<!ENTITY notCached.title "ਡੌਕੂਮੈਂਟ ਦੀ ਮਿਆਦ ਪੁੱਗੀ">
+<!ENTITY notCached.longDesc "<p>The requested document is not available in the browser's cache.</p><ul><li>As a security precaution, the browser does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
  
 <!ENTITY netOffline.title "ਆਫਲਾਈਨ ਗਲਤੀ">
 <!ENTITY netOffline.longDesc2 "<p>ਬਰਾਊਜ਼ਰ ਆਫਲਾਈਨ ਮੋਡ ਵਿੱਚ ਚੱਲ ਰਿਹਾ ਹੈ ਅਤੇ ਮੰਗ ਗਈ ਆਈਟਮ ਨਾਲ ਕੁਨੈਕਟ ਨਹੀਂ ਹੋ ਸਕਦਾ ਹੈ।</p><ul><li>ਕੀ ਕੰਪਿਊਟਰ ਐਕਟਿਵ ਨੈੱਟਵਰਕ ਨਾਲ ਕੁਨੈਕਟ ਹੈ?</li><li>ਆਨਲਾਈਨ ਸਫ਼ੇ ਵਿੱਚ ਜਾਣ ਅਤੇ ਸਫ਼ੇ ਨੂੰ ਮੁੜ-ਲੋਡ ਕਰਨ ਲਈ &quot;ਮੁੜ-ਕੋਸ਼ਿਸ਼ ਕਰੋ&quot; ਨੂੰ ਦੱਬੋ।</li></ul>">

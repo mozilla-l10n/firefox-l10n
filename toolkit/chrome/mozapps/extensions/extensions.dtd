@@ -1,5 +1,9 @@
 <!ENTITY addons.windowTitle                   "ਐਡ-ਆਨ ਮੈਨੇਜਰ">
 <!ENTITY search.placeholder                   "ਸਭ ਐਡ-ਆਨ ਲਈ ਖੋਜ">
+<!-- LOCALIZATION NOTE (search.commandKey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
+
 <!ENTITY loading.label                        "ਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ…">
 <!ENTITY listEmpty.installed.label            "ਤੁਹਾਡੇ ਕੋਲ ਇਸ ਕਿਸਮ ਦੀ ਕੋਈ ਵੀ ਐਡ-ਆਨ ਇੰਸਟਾਲ ਨਹੀਂ ਹੈ">
 <!ENTITY listEmpty.availableUpdates.label     "ਕੋਈ ਅੱਪਡੇਟ ਨਹੀਂ ਲੱਭਿਆ">

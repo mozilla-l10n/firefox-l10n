@@ -21,6 +21,7 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; ਨੂੰ ਪਲੱਗਇਨ ਦੇ ਕੰਮ ਕਰਨ ਲਈ ਮੁੜ-ਚਾਲੂ ਕਰਨਾ ਪਵੇਗਾ।">
 
 <!ENTITY missingPlugin                                       "ਇਹ ਸਮੱਗਰੀ ਵੇਖਾਉਣ ਲਈ ਪਲੱਗਇਨ ਦੀ ਲੋੜ ਹੈ।">
+<!ENTITY clickToPlayPlugin                                   "ਪਲੱਗਇਨ ਸਰਗਰਮ ਕਰਨ ਲਈ ਇੱਥੇ ਛੂਹੋ।">
 <!ENTITY disabledPlugin                                      "ਇਹ ਪਲੱਗਇਨ ਉੱਤੇ ਪਾਬੰਦੀ ਹੈ।">
 <!ENTITY blockedPlugin.label                                 "ਤੁਹਾਡੀ ਸੁਰੱਖਿਆ ਲਈ ਇਹ ਪਲੱਗਇਨ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਗਈ ਹੈ।">
 
@@ -34,7 +35,7 @@
 <!ENTITY reloadPlugin.middle                                 "ਪੇਜ਼ ਮੁੜ-ਲੋਡ ਕਰੋ">
 <!ENTITY reloadPlugin.post                                   " ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰਨ ਲਈ।">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.please                                       "ਕਰੈਸ਼ ਰਿਪੋਰਟ ਭੇਜੋ">
+<!ENTITY report.checkbox                                     "…ਅਤੇ ਕਰੈਸ਼ ਰਿਪੋਰਟ ਭੇਜੋ">
 <!ENTITY report.submitting                                   "ਰਿਪੋਰਟ ਭੇਜੀ ਜਾ ਰਹੀ ਹੈ…">
 <!ENTITY report.submitted                                    "ਕਰੈਸ਼ ਰਿਪੋਰਟ ਭੇਜੀ ਗਈ।">
 <!ENTITY report.disabled                                     "ਕਰੈਸ਼ ਰਿਪੋਰਟ ਭੇਜਣੀ ਆਯੋਗ ਹੈ।">

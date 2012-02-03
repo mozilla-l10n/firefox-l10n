@@ -25,12 +25,18 @@
 
 <!ENTITY aboutSupport.show.label "ਰੱਖਣ ਵਾਲਾ ਫੋਲਡਰ ਖੋਲ੍ਹੋ">
 
-<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
-variant of aboutSupport.show.label.  This allows us to use the preferred
-"Finder" terminology on Mac. -->
-<!ENTITY aboutSupport.showMac.label "Finder ਵਿੱਚ ਵੇਖੋ">
+<!ENTITY aboutSupport.showDir.label "ਡਾਇਰੈਕਟਰੀ ਖੋਲ੍ਹੋ">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "ਬਦਲੀ ਗਈ ਪਸੰਦ">
+<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
+variant of aboutSupport.showDir.label.  This allows us to use the preferred
+"Finder" terminology on Mac. -->
+<!ENTITY aboutSupport.showMac.label "Finder ਵਿੱਚ ਵੇਖਾਓ">
+<!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
+variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin.label "ਫੋਲਡਰ ਵੇਖਾਓ">
+
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "ਖਾਸ ਬਦਲੀਆਂ ਗਈਆਂ ਪਸੰਦ">
+
 <!ENTITY aboutSupport.modifiedPrefsName "ਨਾਂ">
 <!ENTITY aboutSupport.modifiedPrefsValue "ਮੁੱਲ">
 
