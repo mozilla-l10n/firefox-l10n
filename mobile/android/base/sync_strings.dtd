@@ -54,7 +54,7 @@
 <!-- Common text -->
 <!ENTITY sync.button.cancel.label 'ਰੱਦ'>
 <!ENTITY sync.button.connect.label 'ਕੁਨੈਕਟ'>
-<!ENTITY sync.button.ok.label ਠੀਕ'>
+<!ENTITY sync.button.ok.label 'ਠੀਕ'>
   
 <!-- Account strings -->
 <!ENTITY sync.account.label.label '&syncBrand.fullName.label;'>
