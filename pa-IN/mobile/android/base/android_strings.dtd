@@ -2,6 +2,11 @@
 <!ENTITY  no_space_to_start_error "&brandShortName; ਨੂੰ ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਘੱਟੋ-ਘੱਟ ਥਾਂ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ।">
 <!ENTITY  error_loading_file "&brandShortName; ਨੂੰ ਚਲਾਉਣ ਲਈ ਲੋੜੀਦੀਆਂ ਫਾਇਲਾਂ ਲੋਡ ਕਰਨ ਦੇ ਦੌਰਾਨ ਗਲਤੀ ਆਈ ਹੈ।">
 
+<!ENTITY  awesomebar_all_pages_title "ਚੋਟੀ ਦੀਆਂ ਸਾਈਟਾਂ">
+<!ENTITY  awesomebar_bookmarks_title "ਬੁੱਕਮਾਰਕ">
+<!ENTITY  awesomebar_history_title "ਅਤੀਤ">
+<!ENTITY  awesomebar_search_engine "\&quot;&#037;s\&quot; ਲਈ ਖੋਜ">
+
 <!ENTITY  crash_reporter_title "&brandShortName; ਕਰੈਸ਼ ਰਿਪੋਰਟਰ">
 <!ENTITY  crash_message "&brandShortName; ਕਰੈਸ਼ ਹੋ ਚੁੱਕਾ ਹੈ।  ਜਦੋਂ ਤੁਸੀਂ ਮੁੜ-ਚਾਲੂ ਕਰੋਗੇ ਤਾਂ ਤੁਹਾਡੀਆਂ ਟੈਬਾਂ ਨੂੰ &brandShortName; ਸ਼ੁਰੂ ਸਫ਼ੇ ਉੱਤੇ ਵੇਖਾਇਆ ਜਾਣਾ ਚਾਹੀਦਾ ਹੈ।">
 <!ENTITY  crash_help_message "ਸਾਨੂੰ ਇਹ ਸਮੱਸਿਆ ਠੀਕ ਕਰਨ ਲਈ ਮੱਦਦ ਕਰੋ ਜੀ!">
