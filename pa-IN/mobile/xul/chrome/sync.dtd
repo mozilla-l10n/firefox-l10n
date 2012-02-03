@@ -9,7 +9,6 @@
 <!ENTITY sync.syncNow               "ਹੁਣੇ ਸਿੰਕ ਕਰੋ">
 
 <!ENTITY sync.setup.title           "ਸਿੰਕ ਨਾਲ ਕੁਨੈਕਟ ਕਰੋ">
-<!ENTITY sync.setup.jpake           "ਫਾਇਰਫਾਕਸ ਸਿੰਕ-ਕੁਨੈਕਟ ਹੋਏ ਕੰਪਿਊਟਰ ਉੱਤੇ ਜਾਉ, ਸਿੰਕ ਚੋਣ 'ਚ ਜਾਉ ਅਤੇ  &#x0022;ਜੰਤਰ ਸ਼ਾਮਲ ਕਰੋ&#x0022; ਚੁਣੋ।">
 <!ENTITY sync.fallback              "ਮੈਂ ਆਪਣੇ ਕੰਪਿਊਟਰ ਦੇ ਨੇੜੇ ਨਹੀਂ ਹਾਂ…">
 <!ENTITY sync.setup.manual          "ਆਪਣੀ ਸਿੰਕ ਜਾਣਕਾਰੀ ਦਿਉ">
 <!ENTITY sync.account               "ਅਕਾਊਂਟ ਨਾਂ">
@@ -20,4 +19,10 @@
 <!ENTITY sync.setup.connect         "ਕੁਨੈਕਟ ਕਰੋ">
 <!ENTITY sync.setup.cancel          "ਰੱਦ ਕਰੋ">
 <!ENTITY sync.setup.tutorial        "ਮੈਨੂੰ ਵੇਖਾਓ ਕਿਵੇਂ">
+<!ENTITY sync.setup.waiting2        "ਹੋਰ ਜੰਤਰ ਦੀ ਉਡੀਕ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ…">
+
+<!ENTITY sync.pair.title            "ਇੱਕ ਜੰਤਰ ਪੇਅਰ ਕਰੋ">
+<!ENTITY sync.pair.description      "ਆਪਣੇ ਜੰਤਰ ਨੂੰ ਸਰਗਰਮ ਕਰਨ ਲਈ ਜੰਤਰ ਉੱਤੇ &#x0022;ਸਿੰਕ ਸੈੱਟ ਅੱਪ&#x0022; ਚੁਣੋ।">
+<!ENTITY sync.setup.close           "ਬੰਦ ਕਰੋ">
+<!ENTITY sync.setup.waitingdownload "ਤੁਹਾਡਾ ਡਾਟਾ ਹੁਣ ਬੈਕਗਰਾਊਂਡ ਵਿੱਚ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ। ਤੁਸੀਂ ਇਹ ਵਿੰਡੋ ਨੂੰ ਕਿਸੇ ਵੀ ਸਮੇਂ ਬੰਦ ਕਰ ਸਕਦੇ ਹੋ।">
 

@@ -42,9 +42,10 @@
 <!ENTITY aboutWarningButton.label "ਮੈਂ ਧਿਆਨ ਰੱਖਾਂਗਾ, ਮੈਂ ਵਾਅਦਾ ਕਰਦਾ ਹਾਂ!">
 <!ENTITY aboutWarningCheckbox.label "ਮੈਨੂੰ ਚੇਤਾਵਨੀ ਅਗਲੀ ਵਾਰ ਵੀ ਵੇਖਾਓ">
 
-<!ENTITY filterPrefs.label "ਫਿਲਟਰ:">
-<!ENTITY filterPrefs.accesskey "I">
-<!ENTITY focusFilter.key "f">
+<!ENTITY searchPrefs.label "ਖੋਜ:">
+<!ENTITY searchPrefs.accesskey "r">
+<!ENTITY focusSearch.key "r">
+
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "ਮੇਰੀ ਪਸੰਦ ਦਾ ਨਾਂ">

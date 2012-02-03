@@ -9,7 +9,7 @@
 <!ENTITY sync.syncNow               "ਹੁਣੇ ਸਿੰਕ ਕਰੋ">
 
 <!ENTITY sync.setup.title           "ਸਿੰਕ ਨਾਲ ਕੁਨੈਕਟ ਕਰੋ">
-<!ENTITY sync.setup.jpake           "ਫਾਇਰਫਾਕਸ ਸਿੰਕ-ਕੁਨੈਕਟ ਹੋਏ ਕੰਪਿਊਟਰ ਉੱਤੇ ਜਾਉ, ਸਿੰਕ ਚੋਣ 'ਚ ਜਾਉ ਅਤੇ  &#x0022;ਜੰਤਰ ਸ਼ਾਮਲ ਕਰੋ&#x0022; ਚੁਣੋ।">
+
 <!ENTITY sync.fallback              "ਮੈਂ ਆਪਣੇ ਕੰਪਿਊਟਰ ਦੇ ਨੇੜੇ ਨਹੀਂ ਹਾਂ…">
 <!ENTITY sync.setup.manual          "ਆਪਣੀ ਸਿੰਕ ਜਾਣਕਾਰੀ ਦਿਉ">
 <!ENTITY sync.account               "ਅਕਾਊਂਟ ਨਾਂ">
@@ -20,4 +20,10 @@
 <!ENTITY sync.setup.connect         "ਕੁਨੈਕਟ ਕਰੋ">
 <!ENTITY sync.setup.cancel          "ਰੱਦ ਕਰੋ">
 <!ENTITY sync.setup.tutorial        "ਮੈਨੂੰ ਵੇਖਾਓ ਕਿਵੇਂ">
+<!ENTITY sync.setup.waiting2        "Waiting for other device…">
+
+<!ENTITY sync.pair.title            "Pair a Device">
+<!ENTITY sync.pair.description      "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
+<!ENTITY sync.setup.close           "Close">
+<!ENTITY sync.setup.waitingdownload "Your data is now being downloaded in the background. You can close this window at any time.">
 
