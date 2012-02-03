@@ -1,0 +1,72 @@
+<!-- Don't localize these. They're here until they have
+     a better place to live. -->
+<!ENTITY syncBrand.fullName.label "ਫਾਇਰਫਾਕਸ ਸਿੰਕ">
+<!ENTITY syncBrand.shortName.label "ਸਿੰਕ">
+
+<!-- Main titles. -->
+<!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
+<!ENTITY sync.title.connect.label '&syncBrand.shortName.label; ਨਾਲ ਕੁਨੈਕਟ ਕਰੋ'>
+<!ENTITY sync.title.adddevice.label 'Add a &syncBrand.fullName.label; ਅਕਾਊਂਟ'>
+<!ENTITY sync.title.pair.label 'ਜੰਤਰ ਪੇਅਰ ਕਰੋ'>
+
+<!-- J-PAKE Key Screen -->
+<!ENTITY sync.subtitle.connect.label 'ਆਪਣੇ ਨਵੇਂ ਜੰਤਰ ਨੂੰ ਸਰਗਰਮ ਕਰਨ ਲਈ, ਜੰਤਰ ਉੱਤੇ “&syncBrand.shortName.label; ਸੈਟਅੱਪ” ਚੁਣੋ।'>
+<!ENTITY sync.subtitle.header.label 'ਇਹ ਕੋਡ ਆਪਣੇ ਕੰਪਿਊਟਰ ਉੱਤੇ ਦਿਓ'>
+<!ENTITY sync.subtitle.connectlocation.label 'Select “&sync.title.pair.label;” in the &syncBrand.shortName.label; section of your desktop Firefox options.'>
+<!ENTITY sync.subtitle.pair.label 'To activate, select “Pair a device” on your other device.'>
+<!ENTITY sync.pin.default.label '...\n...\n...\n'>
+<!ENTITY sync.pin.oneline.label '...'>
+<!ENTITY sync.link.show.label 'ਮੈਨੂੰ ਵੇਖਾਓ'>
+<!ENTITY sync.link.advancedsetup.label 'ਤਕਨੀਕੀ ਸੈਟਅੱਪ…'>
+<!ENTITY sync.link.nodevice.label 'ਮੇਰੇ ਕੋਲ\&apos;ਜੰਤਰ ਨਹੀਂ ਹੈ…'>
+
+<!-- J-PAKE Waiting Screen -->
+<!ENTITY sync.jpake.subtitle.waiting.label 'ਹੋਰ ਜੰਤਰ ਦੀ ਉਡੀਕ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ…'>
+
+<!-- Account Login Screen -->
+<!ENTITY sync.subtitle.account.label 'ਆਪਣੇ &syncBrand.fullName.label; ਅਕਾਊਂਟ ਦੀ ਜਾਣਕਾਰੀ ਦਿਉ'>
+<!ENTITY sync.input.username.label 'ਅਕਾਊਂਟ ਨਾਂ'>
+<!ENTITY sync.input.password.label 'ਪਾਸਵਰਡ'>
+<!ENTITY sync.input.key.label 'ਰਿਕਵਰੀ ਕੁੰਜੀ'>
+<!ENTITY sync.checkbox.server.label 'ਪਸੰਦੀਦਾ ਸਰਵਰ ਵਰਤੋਂ'>
+<!ENTITY sync.input.server.label 'ਸਰਵਰ URL'>
+  
+<!-- Setup Fail -->
+<!ENTITY sync.title.fail.label '&syncBrand.shortName.label; ਸੈਟਅੱਪ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ'>
+<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; ਸਰਵਰ ਨਾਲ ਕੁਨੈਕਟ ਨਹੀਂ ਕਰ ਸਕਿਆ। ਕੀ ਤੁਸੀਂ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰਨੀ ਚਾਹੁੰਦੇ ਹੋ?'>
+<!ENTITY sync.button.tryagain.label 'ਮੁੜ-ਕੋਸ਼ਿਸ਼'>
+<!ENTITY sync.button.manual.label 'ਖੁਦ ਸੈਟਅੱਪ ਕਰੋ'>
+<!ENTITY sync.subtitle.nointernet.label 'ਕੋਈ ਇੰਟਰਨੈੱਟ ਕੁਨੈਕਸ਼ਨ ਨਹੀਂ ਹੈ।'>
+  
+<!-- Setup Success -->
+<!ENTITY sync.title.success.label 'ਸੈਟਅੱਪ ਪੂਰਾ ਹੋਇਆ'>
+<!ENTITY sync.subtitle.success.label 'ਤੁਹਾਡਾ ਡਾਟਾ ਬੈਕਗਰਾਊਂਡ ਵਿੱਚ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ। ਤੁਸੀਂਆਪਣੇ ਅਕਾਊਂਟ ਦੀ ਸੈਟਿੰਗ ਵਿੱਚ ਸਕਦੇ ਹੋ।'>
+<!ENTITY sync.settings.label 'ਸੈਟਿੰਗ'>
+<!ENTITY sync.subtitle.manage.label 'Your &syncBrand.fullName.label; account is already set up. Go to Settings to manage your account.'>
+
+<!-- Pair Device -->
+<!ENTITY sync.pair.tryagain.label 'ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜੀ।'>
+
+<!-- Firefox SyncAdapter Settings Screen -->
+<!ENTITY sync.settings.options.label 'ਚੋਣਾਂ'>
+<!ENTITY sync.summary.pair.label 'ਹੋਰ ਜੰਤਰ ਆਪਣੇ &syncBrand.shortName.label; ਅਕਾਊਂਟ ਨਾਲ ਲਿੰਕ ਕਰੋ'>
+
+<!-- Common text -->
+<!ENTITY sync.button.cancel.label 'ਰੱਦ'>
+<!ENTITY sync.button.connect.label 'ਕੁਨੈਕਟ'>
+<!ENTITY sync.button.ok.label ਠੀਕ'>
+  
+<!-- Account strings -->
+<!ENTITY sync.account.label.label '&syncBrand.fullName.label;'>
+  
+<!-- Bookmark folder strings -->
+<!ENTITY bookmarks.folder.menu.label 'ਬੁੱਕਮਾਰਕ ਮੇਨੂ'>
+<!ENTITY bookmarks.folder.places.label ''>
+<!ENTITY bookmarks.folder.tags.label 'ਟੈਗ'>
+<!ENTITY bookmarks.folder.toolbar.label 'ਬੁੱਕਮਾਰਕ ਟੂਲਬਾਰ'>
+<!ENTITY bookmarks.folder.unfiled.label 'ਗੈਰ-ਲੜੀਬੱਧ ਬੁੱਕਮਾਰਕ'>
+<!ENTITY bookmarks.folder.desktop.label 'ਡੈਸਕਟਾਪ ਬੁੱਕਮਾਰਕ'>
+<!ENTITY bookmarks.folder.mobile.label 'ਮੋਬਾਇਲ ਬੁੱਕਮਾਰਕ'>
+
+<!-- Notification strings -->
+<!ENTITY sync.notification.oneaccount.label 'ਕੇਵਲ ਇੱਕ &syncBrand.fullName.label; ਅਕਾਊਂਟ ਹੀ ਸਹਾਇਕ ਹੈ।'>

@@ -23,8 +23,6 @@
 <!ENTITY aboutSupport.appBasicsCrashIDs "ਕਰੈਸ਼ ਰਿਪੋਰਟ">
 <!ENTITY aboutSupport.appBasicsMemoryUse "ਮੈਮੋਰੀ ਵਰਤੋਂ">
 
-<!ENTITY aboutSupport.show.label "ਰੱਖਣ ਵਾਲਾ ਫੋਲਡਰ ਖੋਲ੍ਹੋ">
-
 <!ENTITY aboutSupport.showDir.label "ਡਾਇਰੈਕਟਰੀ ਖੋਲ੍ਹੋ">
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific

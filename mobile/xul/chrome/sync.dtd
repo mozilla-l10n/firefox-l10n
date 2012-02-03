@@ -11,6 +11,7 @@
 <!ENTITY sync.setup.title           "ਸਿੰਕ ਨਾਲ ਕੁਨੈਕਟ ਕਰੋ">
 <!ENTITY sync.fallback              "ਮੈਂ ਆਪਣੇ ਕੰਪਿਊਟਰ ਦੇ ਨੇੜੇ ਨਹੀਂ ਹਾਂ…">
 <!ENTITY sync.setup.manual          "ਆਪਣੀ ਸਿੰਕ ਜਾਣਕਾਰੀ ਦਿਉ">
+<!ENTITY sync.setup.pair            "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
 <!ENTITY sync.account               "ਅਕਾਊਂਟ ਨਾਂ">
 <!ENTITY sync.password              "ਪਾਸਵਰਡ">
 <!ENTITY sync.recoveryKey           "ਕੁੰਜੀ ਮੁੜ-ਪ੍ਰਾਪਤੀ">
