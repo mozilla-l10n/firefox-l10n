@@ -1,5 +1,5 @@
 <!ENTITY dialog.title             "Werkbalk aanpassen">
-<!ENTITY dialog.style             "width: 115ch; height: 45em;">
+<!ENTITY dialog.dimensions        "width: 115ch; height: 45em;">
 <!ENTITY instructions.description "U kunt items toevoegen of verwijderen door ze naar of van de werkbalken te slepen.">
 <!ENTITY show.label               "Tonen:">
 <!ENTITY iconsAndText.label       "Pictogrammen en tekst">
