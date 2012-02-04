@@ -16,8 +16,8 @@
 
 <!ENTITY navbarCmd.label "Navigaatiopalkki">
 <!ENTITY navbarCmd.accesskey "N">
-<!ENTITY personalbarCmd.label "Kirjanmerkkipalkki">
-<!ENTITY personalbarCmd.accesskey "K">
+<!ENTITY bookmarksToolbarCmd.label     "Kirjanmerkkipalkki">
+<!ENTITY bookmarksToolbarCmd.accesskey "K">
 
 <!ENTITY closeWindow.label "Sulje ikkuna">
 <!ENTITY closeWindow.accesskey "i">
@@ -29,7 +29,7 @@
 <!ENTITY feedsMenu.accesskey "T">
 
 <!ENTITY menuBar.tooltip                  "Valikkopalkki">
-<!ENTITY personalToolbar.tooltip          "Kirjanmerkkipalkki">
+<!ENTITY bookmarksToolbar.tooltip         "Kirjanmerkkipalkki">
 <!ENTITY navigationToolbar.tooltip        "Navigointipalkki">
 
 <!-- Toolbar items --> 

@@ -23,10 +23,3 @@
 <!ENTITY languages.customize.moveUp.accesskey           "y">
 <!ENTITY languages.customize.moveDown.label             "Siirrä alas">
 <!ENTITY languages.customize.moveDown.accesskey         "a">
-
-<!ENTITY spelling.label                                 "Oikeinkirjoituksen tarkastus">
-<!ENTITY checkSpelling.label                            "Oikolue käyttäjän kirjoitukset:">
-<!ENTITY checkSpelling.accesskey                        "O">
-<!ENTITY dontCheckSpelling.label                        "Ei koskaan">
-<!ENTITY multilineCheckSpelling.label                   "Monirivisissä tekstiruuduissa">
-<!ENTITY alwaysCheckSpelling.label                      "Kaikissa tekstiruuduissa">

@@ -17,7 +17,9 @@
 <!ENTITY allowContextmenuDisable.label   "Poistaa ja muuttaa ponnahdusvalikkoja">
 <!ENTITY allowHideStatusBar.label        "Piilottaa tilarivin">
 
-<!ENTITY enablePlugin.label              "Ota liitännäiset käyttöön">
+<!ENTITY enablePlugin.label              "Salli liitännäisten käyttö:">
+<!ENTITY enablePluginForSuite.label      "Ohjelmistopaketissa">
+<!ENTITY enablePluginForSuite.accesskey  "h">
 
 <!ENTITY whenPluginsRequired.label       "Kun uusia liitännäisiä tarvitaan">
 <!ENTITY displayNotification.label       "Näytä ilmoitus sivun yläreunassa">

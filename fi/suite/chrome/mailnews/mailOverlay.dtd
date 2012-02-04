@@ -6,3 +6,5 @@
 <!ENTITY  newContactCmd.label             "Yhteyshenkilö…">
 <!ENTITY  newContactCmd.accesskey         "Y">
  
+<!ENTITY printButton.label "Tulosta">
+<!ENTITY printButton.tooltip "Tulosta tämä viesti">
