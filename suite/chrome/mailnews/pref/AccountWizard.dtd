@@ -61,12 +61,16 @@
 <!ENTITY leaveMsgsOnSrvr.label "Ponechat zprávy na serveru">
 <!ENTITY leaveMsgsOnSrvr.accesskey "z">
 
-<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
+<!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
+     haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
 -->
-<!ENTITY haveSmtp1.prefix "Bude použit existující odchozí (SMTP) server „">
-<!ENTITY haveSmtp1.suffix2 "“. Nastavení odchozího serveru lze změnit v nastavení účtu.">
+<!ENTITY modifyOutgoing.suffix "Nastavení odchozího serveru lze změnit v nastavení účtu.">
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
+-->
+<!ENTITY haveSmtp1.prefix "Bude použit existující odchozí server (SMTP) „">
+<!ENTITY haveSmtp1.suffix3 "“.">
 
 <!-- Entities for Login page -->
 
@@ -79,18 +83,18 @@
 <!ENTITY usernameSmtpDesc.label "Zadejte jméno uživatele pro odchozí poštu přidělené poskytovatelem (většinou je stejné jako jméno uživatele pro příchozí poštu).">
 <!ENTITY usernameSmtpLabel.label "Jméno uživatele pro odchozí server:">
 <!ENTITY usernameSmtpLabel.accesskey "m">
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp2.prefix "Bude použito existující odchozí (SMTP) uživatelské jméno „">
-<!ENTITY haveSmtp2.suffix2 "“. Nastavení odchozího serveru lze změnit v nastavení účtu.">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
+<!ENTITY haveSmtp2.prefix "Bude použito uživatelské jméno odchozího serveru (SMTP) „">
+<!ENTITY haveSmtp2.suffix3 "“.">
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp3.prefix "Váš odchozí (SMTP) server, „">
-<!ENTITY haveSmtp3.suffix2 "“ je shodný s příchozím. Pro přístup bude použito příchozí uživatelské jméno. Nastavení odchozího serveru lze změnit v nastavení účtu.">
+<!ENTITY haveSmtp3.prefix "Váš odchozí server (SMTP) „">
+<!ENTITY haveSmtp3.suffix3 "“ je shodný s příchozím. Pro přístup bude použito uživatelské jméno příchozího serveru.">
 
 <!-- Entities for Account name page -->
 
