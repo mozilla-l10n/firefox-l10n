@@ -34,8 +34,8 @@
 <!ENTITY reloadPlugin.pre "Pro opakování ">
 <!ENTITY reloadPlugin.middle "obnovte stránku">
 <!ENTITY reloadPlugin.post ".">
-<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.please "Odeslat hlášení o pádu">
+<!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.checkbox "… a odešlete hlášení o pádu">
 <!ENTITY report.submitting "Odesílání hlášení…">
 <!ENTITY report.submitted "Hlášení o pádu odesláno.">
 <!ENTITY report.disabled "Hlášení o pádu je zakázáno.">
