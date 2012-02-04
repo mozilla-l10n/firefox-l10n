@@ -360,8 +360,6 @@
 <!ENTITY event.freebusy.next.slot               "Ďalší vhodný čas " >
 <!ENTITY event.freebusy.previous.slot           " Predchádzajúci vhodný čas" >
 <!ENTITY event.freebusy.zoom                    "Zmena veľkosti:">
-<!ENTITY event.freebusy.plus                    "Nasledujúca hodina" >
-<!ENTITY event.freebusy.minus                   "Predchádzajúca hodina" >
 <!ENTITY event.freebusy.legend.free             "Voľný" >
 <!ENTITY event.freebusy.legend.busy_tentative   "Neistý" >
 <!ENTITY event.freebusy.legend.busy_unavailable "Mimo kancelárie" >

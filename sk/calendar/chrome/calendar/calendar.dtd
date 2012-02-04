@@ -64,6 +64,7 @@
 <!ENTITY calendar.events.filter.today.label             "Dnešné udalosti">
 <!ENTITY calendar.events.filter.future.label            "Všetky budúce udalosti">
 <!ENTITY calendar.events.filter.current.label           "Udalosti práve vybraného dňa">
+<!ENTITY calender.events.filter.currentview.label "Udalosti v aktuálnom zobrazení">
 <!ENTITY calendar.events.filter.next7Days.label         "Udalosti za posledných 7 dní">
 <!ENTITY calendar.events.filter.next14Days.label        "Udalosti za posledných 14 dní">
 <!ENTITY calendar.events.filter.next31Days.label        "Udalosti za posledných 31 dní">
@@ -181,6 +182,10 @@
 <!ENTITY calendar.task.complete.button.tooltip  "Označiť vybrané úlohy ako dokončené">
 <!ENTITY calendar.task.priority.button.tooltip  "Zmeniť prioritu">
 
+<!ENTITY calendar.task.text-filter.textbox.emptytext.base            "Filtrovať úlohy… #1">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Shift+K&gt;">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
+
 <!-- Statusbar -->
 <!ENTITY statusText.label   "Dokument: Hotovo">
 
@@ -215,6 +220,8 @@
 <!ENTITY calendar.context.progress.accesskey          "S">
 <!ENTITY calendar.context.priority.label              "Priorita">
 <!ENTITY calendar.context.priority.accesskey          "P">
+<!ENTITY calendar.context.postpone.label              "Odložiť úlohu">
+<!ENTITY calendar.context.postpone.accesskey          "O">
 
 <!ENTITY percnt                                       "&#38;#37;" ><!--=percent sign-->
 
@@ -240,6 +247,13 @@
 <!ENTITY priority.level.normal.accesskey    "o">
 <!ENTITY priority.level.high                "Vysoká">
 <!ENTITY priority.level.high.accesskey      "V">
+
+<!ENTITY calendar.context.postpone.1hour.label      "O jednu hodinu">
+<!ENTITY calendar.context.postpone.1hour.accesskey  "h">
+<!ENTITY calendar.context.postpone.1day.label       "O jeden deň">
+<!ENTITY calendar.context.postpone.1day.accesskey   "O">
+<!ENTITY calendar.context.postpone.1week.label      "O jeden týždeň">
+<!ENTITY calendar.context.postpone.1week.accesskey  "d">
 
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other

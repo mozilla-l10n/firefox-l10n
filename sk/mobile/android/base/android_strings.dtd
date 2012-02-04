@@ -52,6 +52,8 @@
 <!ENTITY pref_remember_signons "Pamätať si heslá">
 <!ENTITY pref_cookies "Povoliť cookies">
 <!ENTITY pref_char_encoding "Kódovanie znakov">
+<!ENTITY pref_char_encoding_on "Zobraziť ponuku">
+<!ENTITY pref_char_encoding_off "Nezobrazovať ponuku">
 <!ENTITY pref_clear_history "Vymazať históriu">
 <!ENTITY pref_clear_history_confirm "História prehliadania bude vymazaná">
 <!ENTITY pref_clear_private_data "Vymazať súkromné údaje">
@@ -67,11 +69,13 @@
 <!ENTITY pref_font_size_large "Veľké">
 <!ENTITY pref_font_size_xlarge "Veľmi veľké">
 <!ENTITY pref_use_master_password "Používať hlavné heslo">
+<!ENTITY pref_sync "Synchronizácia">
 
 <!ENTITY quit "Ukončiť">
 
 <!ENTITY addons "Doplnky">
 <!ENTITY downloads "Prevzaté súbory">
+<!ENTITY char_encoding "Kódovanie znakov">
 
 <!ENTITY share "Zdieľať">
 <!ENTITY save_as_pdf "Uložiť ako PDF">

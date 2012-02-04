@@ -16,8 +16,8 @@
 
 <!ENTITY navbarCmd.label "Navigačný panel">
 <!ENTITY navbarCmd.accesskey "N">
-<!ENTITY personalbarCmd.label "Osobný panel">
-<!ENTITY personalbarCmd.accesskey "O">
+<!ENTITY bookmarksToolbarCmd.label     "Panel Záložky">
+<!ENTITY bookmarksToolbarCmd.accesskey "o">
 
 <!ENTITY closeWindow.label "Zavrieť okno">
 <!ENTITY closeWindow.accesskey "v">
@@ -29,7 +29,7 @@
 <!ENTITY feedsMenu.accesskey "O">
 
 <!ENTITY menuBar.tooltip                  "Panel Ponuka">
-<!ENTITY personalToolbar.tooltip          "Osobný panel">
+<!ENTITY bookmarksToolbar.tooltip         "Panel Záložky">
 <!ENTITY navigationToolbar.tooltip        "Navigačný panel">
 
 <!-- Toolbar items -->

@@ -13,6 +13,8 @@
 
 <!ENTITY spellAddToDictionary.label "Pridať do slovníka">
 <!ENTITY spellAddToDictionary.accesskey "n">
+<!ENTITY spellUndoAddToDictionary.label "Vrátiť späť pridanie do slovníka">
+<!ENTITY spellUndoAddToDictionary.accesskey "r">
 <!ENTITY spellCheckEnable.label "Skontrolovať pravopis">
 <!ENTITY spellCheckEnable.accesskey "t">
 <!ENTITY spellNoSuggestions.label "(Žiadne pravopisné návrhy)">
