@@ -29,6 +29,7 @@
 <!ENTITY reload "Обновить">
 <!ENTITY forward "Вперёд">
 <!ENTITY new_tab "Новая вкладка">
+<!ENTITY new_tab_opened "Открыта новая вкладка">
 <!ENTITY settings "Параметры">
 <!ENTITY settings_title "Параметры">
 <!ENTITY pref_category_general "Основные">
