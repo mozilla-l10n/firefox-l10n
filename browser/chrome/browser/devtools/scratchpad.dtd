@@ -67,6 +67,26 @@
 <!ENTITY selectAllCmd.key             "A">
 <!ENTITY selectAllCmd.accesskey       "a">
 
+<!ENTITY gotoLineCmd.label            "Prejsť na riadok…">
+<!ENTITY gotoLineCmd.key              "J">
+<!ENTITY gotoLineCmd.accesskey        "r">
+
+<!ENTITY findCmd.label                "Hľadať…">
+<!ENTITY findCmd.key                  "F">
+<!ENTITY findCmd.accesskey            "H">
+
+<!ENTITY findAgainCmd.label           "Hľadať znova…">
+<!-- LOCALIZATION NOTE (findAgainCmd.key): This key is used only on Macs.
+  -  Windows and Linux builds use the F3 key which is not localizable on purpose.
+  -->
+<!ENTITY findAgainCmd.key             "G">
+<!ENTITY findAgainCmd.accesskey       "n">
+<!-- LOCALIZATION NOTE (findPreviousCmd.key): This key is used only on Macs.
+  -  Windows and Linux builds use the Shift-F3 key which is not localizable on
+  -  purpose.
+  -->
+<!ENTITY findPreviousCmd.key          "G">
+
 <!ENTITY run.label                    "Spustiť">
 <!ENTITY run.accesskey                "S">
 <!ENTITY run.key                      "r">

@@ -82,6 +82,8 @@
 <!ENTITY syncComputerName.accesskey   "N">
 
 <!ENTITY syncMy.label               "Synchronizovať">
+<!ENTITY engine.addons.label        "Doplnky">
+<!ENTITY engine.addons.accesskey    "D">
 <!ENTITY engine.bookmarks.label     "Záložky">
 <!ENTITY engine.bookmarks.accesskey "Z">
 <!ENTITY engine.tabs.label          "Karty">

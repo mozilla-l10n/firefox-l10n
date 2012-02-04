@@ -34,8 +34,8 @@
 <!ENTITY reloadPlugin.pre                                    "Skúste ho obnoviť ">
 <!ENTITY reloadPlugin.middle                                 "opätovným načítaním stránky">
 <!ENTITY reloadPlugin.post                                   ".">
-<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.please                                       "Odoslať správu o zlyhaní">
+<!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.checkbox                                     "…a odoslať správu o zlyhaní">
 <!ENTITY report.submitting                                   "Správa sa odosiela…">
 <!ENTITY report.submitted                                    "Správa o zlyhaní odoslaná.">
 <!ENTITY report.disabled                                     "Odosielanie správ o zlyhaní zakázané.">

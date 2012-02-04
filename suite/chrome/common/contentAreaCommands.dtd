@@ -53,11 +53,11 @@
 <!ENTITY viewBGImageCmd.accesskey     "b">
 <!ENTITY setWallpaperCmd.label        "Nastaviť ako pozadie pracovnej plochy">
 <!ENTITY setWallpaperCmd.accesskey    "N">
-<!ENTITY bookmarkPageCmd.label        "Vytvoriť záložku pre túto stránku">
+<!ENTITY bookmarkPageCmd.label        "Vytvoriť záložku pre túto stránku…">
 <!ENTITY bookmarkPageCmd.accesskey    "z">
-<!ENTITY bookmarkLinkCmd.label        "Vytvoriť záložku pre tento odkaz">
+<!ENTITY bookmarkLinkCmd.label        "Vytvoriť záložku pre tento odkaz…">
 <!ENTITY bookmarkLinkCmd.accesskey    "i">
-<!ENTITY bookmarkFrameCmd.label       "Vytvoriť záložku pre tento rámec">
+<!ENTITY bookmarkFrameCmd.label       "Vytvoriť záložku pre tento rámec…">
 <!ENTITY bookmarkFrameCmd.accesskey   "V">
 <!ENTITY savePageAsCmd.label          "Uložiť stránku ako…">
 <!ENTITY savePageCmd.label            "Uložiť stránku">

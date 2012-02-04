@@ -5,3 +5,6 @@
 
 <!ENTITY  newContactCmd.label             "Kontakt…">
 <!ENTITY  newContactCmd.accesskey         "K">
+
+<!ENTITY printButton.label "Tlačiť">
+<!ENTITY printButton.tooltip "Vytlačiť túto správu">

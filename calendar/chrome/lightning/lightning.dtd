@@ -73,30 +73,6 @@
 <!ENTITY lightning.menu.eventtask.label                "Udalosti a úlohy">
 <!ENTITY lightning.menu.eventtask.accesskey            "d">
 
-<!-- Mode Toolbar -->
-<!ENTITY lightning.toolbar.mail.label         "Pošta">
-<!ENTITY lightning.toolbar.mail.accesskey     "o">
-<!ENTITY lightning.toolbar.calendar.label     "Kalendár">
-<!ENTITY lightning.toolbar.calendar.tooltip   "Prepnúť na kartu Kalendár">
-<!ENTITY lightning.toolbar.calendar.accesskey "K">
-<!ENTITY lightning.toolbar.task.label         "Úlohy">
-<!ENTITY lightning.toolbar.task.tooltip       "Prepnúť na kartu Úlohy">
-<!ENTITY lightning.toolbar.task.accesskey     "h">
-
-<!-- Toolbar write button -->
-<!ENTITY lightning.toolbar.newevent.label     "Udalosť">
-<!ENTITY lightning.toolbar.newtask.label      "Úloha">
-
-<!-- Messenger Toolbar -->
-<!ENTITY lightning.toolbar.day.label                 "Deň">
-<!ENTITY lightning.toolbar.day.accesskey             "D">
-<!ENTITY lightning.toolbar.week.label                "Týždeň">
-<!ENTITY lightning.toolbar.week.accesskey            "T">
-<!ENTITY lightning.toolbar.multiweek.label           "Viac týždňov">
-<!ENTITY lightning.toolbar.multiweek.accesskey       "V">
-<!ENTITY lightning.toolbar.month.label               "Mesiac">
-<!ENTITY lightning.toolbar.month.accesskey           "M">
-
 <!-- properties dialog, calendar creation wizard -->
 <!ENTITY lightning.calendarproperties.showevents.inagenda.label "Zobraziť udalosti v paneli Dnes">
 <!ENTITY lightning.calendarproperties.showtasks.label           "Zobraziť úlohy v paneli Dnes a v režime Úlohy">
