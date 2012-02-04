@@ -65,8 +65,9 @@
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
 -->
+<!ENTITY modifyOutgoing.suffix "Odlazne poslužitelje možete promijeniti u postavkama računa.">
 <!ENTITY haveSmtp1.prefix "Bit će korišten vaš postojeći odlazni (SMTP) poslužitelj, &quot;">
-<!ENTITY haveSmtp1.suffix2 "&quot;. Odlazne poslužitelje možete promijeniti u postavkama računa.">
+<!ENTITY haveSmtp1.suffix3 "&quot;.">
 
 <!-- Entities for Login page -->
 
@@ -84,13 +85,13 @@
      text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Bit će korišteno vaše postojeće odlazno (SMTP) korisničko ime, &quot;">
-<!ENTITY haveSmtp2.suffix2 "&quot;. Odlazne poslužitelje možete promijeniti u postavkama računa.">
+<!ENTITY haveSmtp2.suffix3 "&quot;.">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Vaš odlazni (SMTP) poslužitelj, &quot;">
-<!ENTITY haveSmtp3.suffix2 "&quot;, je identičan dolaznom poslužitelju, dolazno korisničko ime će biti korišteno za pristup poslužitelju. Odlazne poslužitelje možete promijeniti u postavkama računa.">
+<!ENTITY haveSmtp3.suffix3 "&quot;, je identičan dolaznom poslužitelju, dolazno korisničko ime će biti korišteno za pristup poslužitelju.">
 
 <!-- Entities for Account name page -->
 
