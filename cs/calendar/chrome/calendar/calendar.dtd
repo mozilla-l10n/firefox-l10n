@@ -64,7 +64,7 @@
 <!ENTITY calendar.events.filter.today.label "Dnešní události">
 <!ENTITY calendar.events.filter.future.label "Všechny budoucí události">
 <!ENTITY calendar.events.filter.current.label "Právě vybraný den">
-<!ENTITY calender.events.filter.currentview.label "Události v aktuálním pohledu">
+<!ENTITY calendar.events.filter.currentview.label "Události v aktuálním pohledu">
 <!ENTITY calendar.events.filter.next7Days.label "Události příštích 7 dnů">
 <!ENTITY calendar.events.filter.next14Days.label "Události příštích 14 dnů">
 <!ENTITY calendar.events.filter.next31Days.label "Události příštích 31 dnů">
