@@ -78,8 +78,6 @@
 <!ENTITY imagemapBox.label "Image Map">
 <!ENTITY removeImageMapButton.label "Ukloni">
 <!ENTITY removeImageMapButton.accessKey "U">
-<!ENTITY editImageMapButton.label "Uredi…">
-<!ENTITY editImageMapButton.tooltip "Stvori hotspot točku za ovu sliku">
 
 <!-- These are the options for image alignment -->
 <!ENTITY alignment.label "Poravnaj tekst uz sliku">
