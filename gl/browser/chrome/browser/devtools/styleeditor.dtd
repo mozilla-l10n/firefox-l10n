@@ -22,17 +22,6 @@
 <!ENTITY importButton.accesskey     "I">
 <!ENTITY importButton.commandkey    "i">
 
-<!ENTITY searchInput.tooltip        "Filtrar follas de estilo por nome">
-<!ENTITY searchInput.placeholder    "Atopar folla de estilo">
-
-<!-- LOCALIZATION NOTE  (searchNoResults): This is shown when searching a term
-     that is not found in any stylesheet or stylesheet name. -->
-<!ENTITY searchNoResults.label      "Non se atopou ningunha folla de estilo coincidente.">
-
-<!-- LOCALIZATION NOTE  (searchClearButton): This button clears the search input
-     box and is visible only when a search term has been typed. -->
-<!ENTITY searchClearButton.label    "Limpar">
-
 <!ENTITY visibilityToggle.tooltip   "Alternar a visibilidade da folla de estilo">
 <!ENTITY visibilityToggle.accesskey "v">
 
