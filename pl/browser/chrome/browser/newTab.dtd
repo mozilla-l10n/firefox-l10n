@@ -1,0 +1,6 @@
+<!-- These strings are used in the about:newtab page -->
+<!ENTITY newtab.pageTitle "Nowa karta">
+
+<!ENTITY newtab.show "Wyświetl stronę „Nowa karta”">
+<!ENTITY newtab.hide "Ukryj stronę „Nowa karta”">
+<!ENTITY newtab.reset "Zresetuj stronę „Nowa karta”">
