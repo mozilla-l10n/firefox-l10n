@@ -2,6 +2,8 @@
 <!ENTITY tile.label                 "Mosaïque">
 <!ENTITY center.label               "Centrer">
 <!ENTITY stretch.label              "Étirer">
+<!ENTITY fill.label                 "Remplir">
+<!ENTITY fit.label                  "Ajuster">
 <!ENTITY preview.label              "Aperçu">
 <!ENTITY color.label                "Couleur :">
 <!ENTITY setDesktopBackground.title "Choisir comme fond d'écran">
