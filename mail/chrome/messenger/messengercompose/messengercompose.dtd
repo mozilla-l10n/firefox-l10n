@@ -73,6 +73,8 @@
 <!ENTITY editRewrapCmd.accesskey "n">
 <!ENTITY deleteCmd.label "Obriši">
 <!ENTITY deleteCmd.accesskey "O">
+<!ENTITY renameAttachmentCmd.label "Preimenuj privitak…">
+<!ENTITY renameAttachmentCmd.accesskey "m">
 <!ENTITY selectAllCmd.label "Označi sve">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a"> 
