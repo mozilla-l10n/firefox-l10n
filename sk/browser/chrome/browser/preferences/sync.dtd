@@ -24,7 +24,7 @@
 <!ENTITY engine.bookmarks.accesskey "Z">
 <!ENTITY engine.tabs.label          "Karty">
 <!ENTITY engine.tabs.accesskey      "K">
-<!ENTITY engine.history.label       "Históriu">
+<!ENTITY engine.history.label       "História prehliadania">
 <!ENTITY engine.history.accesskey   "H">
 <!ENTITY engine.passwords.label     "Heslá">
 <!ENTITY engine.passwords.accesskey "e">
