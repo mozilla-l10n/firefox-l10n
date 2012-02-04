@@ -16,7 +16,7 @@
   -  "Scratchpad" in your locale. You should feel free to find a close
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
-<!ENTITY window.title                 "程式碼片段速記本">
+<!ENTITY window.title                 "程式碼速記本">
 
 <!ENTITY fileMenu.label               "檔案">
 <!ENTITY fileMenu.accesskey           "F">
@@ -118,7 +118,7 @@
   -  enabled via the devtools.chrome.enabled preference. Formerly, this label
   -  was called "Chrome".
   -->
-<!ENTITY browserContext.label         "網頁瀏覽器">
+<!ENTITY browserContext.label         "瀏覽器">
 <!ENTITY browserContext.accesskey     "B">
 
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
