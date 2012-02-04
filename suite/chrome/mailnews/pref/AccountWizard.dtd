@@ -61,12 +61,16 @@
 <!ENTITY leaveMsgsOnSrvr.label "Jätä viestit palvelimelle">
 <!ENTITY leaveMsgsOnSrvr.accesskey "ä">
 
+<!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
+     haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
+-->
+<!ENTITY modifyOutgoing.suffix "Voit muuttaa lähtevien viestien palvelimen asetuksia sähköposti- ja keskusteluryhmäohjelman tilien asetuksista.">
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
 -->
-<!ENTITY haveSmtp1.prefix "Tällä hetkellä käytössä olevaa lähtevän postin palvelinta (SMTP) &quot;">
-<!ENTITY haveSmtp1.suffix2 "&quot; tullaan käyttämään myös tällä tilillä. Voit muuttaa tätä asetusta valitsemalla Muokkaa-valikosta Tilien asetukset.">
+<!ENTITY haveSmtp1.prefix "Jo määritettyä lähtevän postin palvelinta (SMTP) &quot;">
+<!ENTITY haveSmtp1.suffix3 "&quot; käytetään myös tällä tilillä.">
 
 <!-- Entities for Login page -->
 
@@ -83,14 +87,14 @@
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
 -->
-<!ENTITY haveSmtp2.prefix "Tällä hetkellä käytössä olevaa lähtevän postin (SMTP) käyttäjätunnusta &quot;">
-<!ENTITY haveSmtp2.suffix2 "&quot; tullaan käyttämään myös tällä tilillä. Voit muuttaa tätä asetusta valitsemalla Muokkaa-valikosta Tilien asetukset.">
+<!ENTITY haveSmtp2.prefix "Jo määritettyä lähtevän postin (SMTP) käyttäjätunnusta &quot;">
+<!ENTITY haveSmtp2.suffix3 "&quot; käytetään myös tällä tilillä.">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
 -->
-<!ENTITY haveSmtp3.prefix "Lähtevän postin palvelimesi (SMTP) &quot;">
-<!ENTITY haveSmtp3.suffix2 "&quot; on sama kuin saapuvan postin palvelimesi, jonka käyttäjätunnusta käytetään nyt myös lähtevien postien lähettämiseen. Voit muuttaa tätä asetusta valitsemalla Muokkaa-valikosta Tilien asetukset.">
+<!ENTITY haveSmtp3.prefix "Määrittämäsi lähtevän postin (SMTP) palvelin &quot;">
+<!ENTITY haveSmtp3.suffix3 "&quot; on sama kuin määrittämäsi saapuvan postin palvelin, jonka käyttäjätunnusta käytetään nyt myös lähtevien postien lähettämiseen.">
 
 <!-- Entities for Account name page -->
 

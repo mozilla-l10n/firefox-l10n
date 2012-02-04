@@ -269,6 +269,10 @@
 
 <!ENTITY findCmd.label "Etsi tästä viestistä…">
 
+<!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
+     This is the key used to show the Lightning quick filter bar. -->
+<!ENTITY quickFilterBar.show.key2 "K">
+
 <!-- Go Menu -->
 
 <!ENTITY goMenu.label "Siirry">
@@ -445,7 +449,6 @@
 <!ENTITY deleteButton.label "Poista">
 <!ENTITY undeleteButton.label "Palauta">
 <!ENTITY markButton.label "Merkitse">
-<!ENTITY printButton.label "Tulosta">
 <!ENTITY stopButton.label "Pysäytä">
 <!ENTITY junkButton.label "Roskapostia">
 <!ENTITY notJunkButton.label "Ei roskapostia">
@@ -469,7 +472,6 @@
 <!ENTITY deleteButton.tooltip "Poista valittu viesti tai kansio">
 <!ENTITY undeleteButton.tooltip "Palauta valittu viesti">
 <!ENTITY markButton.tooltip "Merkitse viestit">
-<!ENTITY printButton.tooltip "Tulosta viesti">
 <!ENTITY stopButton.tooltip "Keskeytä lataus">
 <!ENTITY throbber.tooltip "Siirry &vendorShortName;n kotisivulle">
 <!ENTITY junkButton.tooltip "Merkitse valitut viestit roskapostiksi">

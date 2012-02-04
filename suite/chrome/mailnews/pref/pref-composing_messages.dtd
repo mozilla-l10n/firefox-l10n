@@ -58,15 +58,6 @@
 <!ENTITY wrapOutMsg.accesskey                 "R">
 <!ENTITY char.label                           "merkin välein">
 
-<!ENTITY spellingHeader.label                 "Oikeinkirjoituksen tarkastus">
-<!ENTITY spellCheck.label                     "Tarkasta oikeinkirjoitus ennen viestin lähettämistä">
-<!ENTITY spellCheck.accesskey                 "n">
-<!ENTITY spellCheckInline.label               "Tarkasta oikeinkirjoitus kirjoitettaessa">
-<!ENTITY spellCheckInline.accesskey           "e">
-<!ENTITY languagePopup.label                  "Kieli:">
-<!ENTITY languagePopup.accessKey              "i">
-<!ENTITY moreDictionaries.label               "Lataa lisää sanakirjoja…">
-
 <!ENTITY defaultMessagesHeader.label          "HTML-viestien oletukset">
 <!ENTITY font.label                           "Kirjasinlaji:">
 <!ENTITY font.accesskey                       "s">

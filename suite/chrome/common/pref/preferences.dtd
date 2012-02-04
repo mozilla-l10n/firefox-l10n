@@ -36,5 +36,6 @@
 <!ENTITY policies.label "Turvallisuuskäytännöt">
 <!ENTITY mousewheel.label "Hiiren rulla">
 <!ENTITY scriptsAndWindows.label "Komentosarjat ja liitännäiset">
+<!ENTITY spellingPane.label  "Oikoluku">
 
 <!ENTITY focusSearch.key "f">

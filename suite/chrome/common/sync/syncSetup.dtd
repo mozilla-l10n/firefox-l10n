@@ -81,6 +81,8 @@
 <!ENTITY syncComputerName.accesskey   "T">
 
 <!ENTITY syncMy.label               "Synkronoi">
+<!ENTITY engine.addons.label        "Lisäosat">
+<!ENTITY engine.addons.accesskey    "L">
 <!ENTITY engine.bookmarks.label     "Kirjanmerkit">
 <!ENTITY engine.bookmarks.accesskey "K">
 <!ENTITY engine.tabs.label          "Välilehdet">
