@@ -34,37 +34,37 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY lightning.toolbar.calendar.name "Calendar Toolbar">
-<!ENTITY lightning.toolbar.calendar.accesskey "C">
-<!ENTITY lightning.toolbar.task.name "Task Toolbar">
-<!ENTITY lightning.toolbar.task.accesskey "T">
+<!ENTITY lightning.toolbar.calendar.name "Alatna traka kalendara">
+<!ENTITY lightning.toolbar.calendar.accesskey "K">
+<!ENTITY lightning.toolbar.task.name "Alatna traka zadataka">
+<!ENTITY lightning.toolbar.task.accesskey "t">
 
-<!ENTITY lightning.toolbar.sync.label "Synchronize">
-<!ENTITY lightning.toolbar.delete.label "Delete">
-<!ENTITY lightning.toolbar.edit.label "Edit">
-<!ENTITY lightning.toolbar.gototoday.label "Go to Today">
-<!ENTITY lightning.toolbar.print.label "Print">
+<!ENTITY lightning.toolbar.sync.label "Sinkroniziraj">
+<!ENTITY lightning.toolbar.delete.label "Obriši">
+<!ENTITY lightning.toolbar.edit.label "Uredi">
+<!ENTITY lightning.toolbar.gototoday.label "Idi na danas">
+<!ENTITY lightning.toolbar.print.label "Ispiši">
 
 <!-- Mode Toolbar -->
-<!ENTITY lightning.toolbar.mail.label         "Mail">
-<!ENTITY lightning.toolbar.mail.accesskey     "M">
-<!ENTITY lightning.toolbar.calendar.label     "Calendar">
-<!ENTITY lightning.toolbar.calendar.tooltip   "Switch to the calendar tab">
-<!ENTITY lightning.toolbar.calendar.accesskey "C">
-<!ENTITY lightning.toolbar.task.label         "Tasks">
-<!ENTITY lightning.toolbar.task.tooltip       "Switch to the tasks tab">
-<!ENTITY lightning.toolbar.task.accesskey     "T">
+<!ENTITY lightning.toolbar.mail.label         "Pošta">
+<!ENTITY lightning.toolbar.mail.accesskey     "P">
+<!ENTITY lightning.toolbar.calendar.label     "Kalendar">
+<!ENTITY lightning.toolbar.calendar.tooltip   "Prebaci na karticu kalendara">
+<!ENTITY lightning.toolbar.calendar.accesskey "k">
+<!ENTITY lightning.toolbar.task.label         "Zadaci">
+<!ENTITY lightning.toolbar.task.tooltip       "Prebaci na karticu zadataka">
+<!ENTITY lightning.toolbar.task.accesskey     "t">
 
 <!-- Toolbar write button -->
-<!ENTITY lightning.toolbar.newevent.label     "Event">
-<!ENTITY lightning.toolbar.newtask.label      "Task">
+<!ENTITY lightning.toolbar.newevent.label     "Događaj">
+<!ENTITY lightning.toolbar.newtask.label      "Zadatak">
 
 <!-- Calendar and Task Mode Toolbar -->
-<!ENTITY lightning.toolbar.day.label                 "Day">
+<!ENTITY lightning.toolbar.day.label                 "Dan">
 <!ENTITY lightning.toolbar.day.accesskey             "D">
-<!ENTITY lightning.toolbar.week.label                "Week">
-<!ENTITY lightning.toolbar.week.accesskey            "W">
-<!ENTITY lightning.toolbar.multiweek.label           "Multiweek">
-<!ENTITY lightning.toolbar.multiweek.accesskey       "u">
-<!ENTITY lightning.toolbar.month.label               "Month">
+<!ENTITY lightning.toolbar.week.label                "Tjedan">
+<!ENTITY lightning.toolbar.week.accesskey            "T">
+<!ENTITY lightning.toolbar.multiweek.label           "Više tjedana">
+<!ENTITY lightning.toolbar.multiweek.accesskey       "V">
+<!ENTITY lightning.toolbar.month.label               "Mjesec">
 <!ENTITY lightning.toolbar.month.accesskey           "M">
