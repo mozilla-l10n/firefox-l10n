@@ -35,7 +35,6 @@
 <!ENTITY reloadPlugin.middle                                 "pagina opnieuw">
 <!ENTITY reloadPlugin.post                                   " om het nogmaals te proberen.">
 <!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.please                                       "Crashrapport verzenden">
 <!ENTITY report.checkbox                                     "…en crashrapport verzenden">
 <!ENTITY report.submitting                                   "Rapport verzenden…">
 <!ENTITY report.submitted                                    "Crashrapport verzonden.">
