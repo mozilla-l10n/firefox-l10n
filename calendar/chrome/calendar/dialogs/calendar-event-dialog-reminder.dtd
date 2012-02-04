@@ -34,21 +34,21 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY reminderdialog.title                              "Set up Reminders">
-<!ENTITY reminder.add.label                                "Add">
-<!ENTITY reminder.add.accesskey                            "A">
-<!ENTITY reminder.remove.label                             "Remove">
-<!ENTITY reminder.remove.accesskey                         "R">
+<!ENTITY reminderdialog.title                              "Postavi podsjetnike">
+<!ENTITY reminder.add.label                                "Dodaj">
+<!ENTITY reminder.add.accesskey                            "a">
+<!ENTITY reminder.remove.label                             "Ukloni">
+<!ENTITY reminder.remove.accesskey                         "U">
 
-<!ENTITY reminder.reminderDetails.label                    "Reminder Details">
-<!ENTITY reminder.action.label                             "Choose a Reminder Action">
+<!ENTITY reminder.reminderDetails.label                    "Detalji podsjetnika">
+<!ENTITY reminder.action.label                             "Odaberi radnju podsjetnika">
 
-<!ENTITY reminder.relation.before.label                    "before" >
-<!ENTITY reminder.relation.after.label                     "after" >
+<!ENTITY reminder.relation.before.label                    "prije" >
+<!ENTITY reminder.relation.after.label                     "nakon" >
 
-<!ENTITY reminder.action.alert.label                       "Show an Alert">
-<!ENTITY reminder.action.email.label                       "Send an E-mail">
+<!ENTITY reminder.action.alert.label                       "Prikaži upozorenje">
+<!ENTITY reminder.action.email.label                       "Pošalji e-poštu">
 
-<!ENTITY alarm.units.minutes                               "minutes" >
-<!ENTITY alarm.units.hours                                 "hours" >
-<!ENTITY alarm.units.days                                  "days" >
+<!ENTITY alarm.units.minutes                               "minute" >
+<!ENTITY alarm.units.hours                                 "sati" >
+<!ENTITY alarm.units.days                                  "dani" >
