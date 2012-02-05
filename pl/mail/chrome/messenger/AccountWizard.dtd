@@ -56,7 +56,7 @@
 <!ENTITY haveSmtp2.prefix            "Do wysyłania wiadomości z tego konta zostanie użyta nazwa użytkownika domyślnego serwera poczty wychodzącej (SMTP) - „">
 <!ENTITY haveSmtp2.suffix3           "”.">
 <!ENTITY haveSmtp3.prefix            "Wprowadzone nazwy serwerów poczty wychodzącej i przychodzącej są takie same: „">
-<!ENTITY haveSmtp3.suffix2           "”. Powyższa nazwa użytkownika będzie używana również podczas wysyłania wiadomości.">
+<!ENTITY haveSmtp3.suffix3           "”. Powyższa nazwa użytkownika będzie używana również podczas wysyłania wiadomości.">
 <!ENTITY accnameTitle.label          "Nazwa konta">
 <!ENTITY accnameDesc.label           "Wprowadź nazwę, która będzie używana do oznaczenia tego konta (na przykład: „Konto osobiste”, „Konto służbowe”, „Grupy dyskusyjne”).">
 <!ENTITY accnameLabel.label          "Nazwa konta:">
