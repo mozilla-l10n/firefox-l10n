@@ -1,0 +1,6 @@
+<!-- These strings are used in the about:newtab page -->
+<!ENTITY newtab.pageTitle "Nova lapela">
+
+<!ENTITY newtab.show "Mostrar a páxina de nova lapela">
+<!ENTITY newtab.hide "Ocultar a páxina de nova lapela">
+<!ENTITY newtab.reset "Restabelecer a páxina de nova lapela">
