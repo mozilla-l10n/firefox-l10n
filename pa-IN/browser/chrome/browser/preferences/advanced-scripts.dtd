@@ -40,12 +40,10 @@
 
 <!ENTITY allowScripts.label             "ਇਸ ਤੋਂ ਸਕ੍ਰਿਪਟਾਂ ਮਨਜ਼ੂਰ:">
 
-<!ENTITY moveResizeWindows.label        "ਮੌਜੂਦਾ ਵਿੰਡੋਜ਼ ਨੂੰ ਹਿਲਾਉਣ ਜਾਂ
-ਮੁੜ-ਸਾਈਜ਼ ਕਰਨ">
-<!ENTITY moveResizeWindows.accesskey    "M">
+<!ENTITY moveResizePopupWindows.label     "ਪੋਪਅੱਪ ਵਿੰਡੋਜ਼ ਹਿਲਾਉ ਜਾਂ ਮੁੜ-ਆਕਾਰ ਕਰਨ">
+<!ENTITY moveResizePopupWindows.accesskey "M">
 
-
-<!ENTITY raiseLowerWindows.label        "ਵਿੰਡੋ ਉਭਾਰੋ ਜਾਂ ਪਿੱਛੇ ਭੇਜੋ">
+<!ENTITY raiseLowerWindows.label        "ਵਿੰਡੋ ਉਭਾਰਨਾ ਜਾਂ ਪਿੱਛੇ ਭੇਜਣਾ">
 <!ENTITY raiseLowerWindows.accesskey    "R">
-<!ENTITY disableContextMenus.label      "ਮੇਨੂ ਆਯੋਗ ਜਾਂ ਬਦਲੋ">
+<!ENTITY disableContextMenus.label      "ਮੇਨੂ ਆਯੋਗ ਜਾਂ ਬਦਲਣਾ">
 <!ENTITY disableContextMenus.accesskey  "D">

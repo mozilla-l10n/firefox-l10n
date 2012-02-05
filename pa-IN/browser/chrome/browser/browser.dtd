@@ -89,6 +89,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "ਪੂਰੀ ਸਕਰੀਨ ਮੋਡ ਬੰਦ ਕਰੋ">
 <!ENTITY fullScreenExit.accesskey "F">
+<!ENTITY domFullScreenWarning.label "ਪੂਰੀ ਸਕਰੀਨ ਮੋਡ ਨੂੰ ਛੱਡਣ ਲਈ ESC ਦੱਬੋ।">
 
 <!ENTITY closeWindow.label "ਵਿੰਡੋ ਬੰਦ ਕਰੋ">
 <!ENTITY closeWindow.accesskey "d">
@@ -101,7 +102,7 @@ can reach it easily. -->
 <!ENTITY subscribeToPageMenuitem.label "…ਪੇਜ਼ ਲਈ ਮੈਂਬਰ ਬਣੋ">
 <!ENTITY addCurPagesCmd.label "…ਸਭ ਟੈਬਾਂ ਲਈ ਬੁੱਕਮਾਰਕ ਬਣਾਓ">
 <!ENTITY showAllBookmarks2.label "ਸਭ ਬੁੱਕਮਾਰਕ ਵੇਖੋ">
-<!ENTITY unsortedBookmarksCmd.label "Unsorted Bookmarks">
+<!ENTITY unsortedBookmarksCmd.label "ਗ਼ੈਰ-ਲੜੀਬੱਧ ਬੁੱਕਮਾਰਕਗ">
 <!ENTITY bookmarksToolbarChevron.tooltip "ਹੋਰ ਬੁੱਕਮਾਰਕ ਵੇਖੋ">
 
 <!ENTITY backCmd.label                "ਪਿੱਛੇ">
@@ -110,8 +111,8 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "ਅੱਗੇ">
 <!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "ਇੱਕ ਪੇਜ਼ ਅੱਗੇ ਜਾਓ">
-<!ENTITY backForwardButtonMenu.tooltip "Right-click or pull down to show history">
-<!ENTITY backForwardButtonMenuMac.tooltip "Pull down to show history">
+<!ENTITY backForwardButtonMenu.tooltip "ਅਤੀਤ ਵੇਖਣ ਲਈ ਸੱਜਾ ਕਲਿੱਕ ਕਰੋ ਜਾਂ ਹੇਠਾਂ ਖਿੱਚੋ">
+<!ENTITY backForwardButtonMenuMac.tooltip "ਅਤੀਤ ਵੇਖਣ ਲਈ ਹੇਠਾਂ ਖਿੱਚੋ">
 <!ENTITY reloadCmd.label              "ਮੁੜ ਲੋਡ">
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY reloadButton.tooltip         "ਮੌਜੂਦਾ ਪੇਜ਼ ਮੁੜ ਲੋਡ ਕਰੋ">
@@ -217,7 +218,24 @@ can reach it easily. -->
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "ਜਾਂਚ">
 <!ENTITY inspectButton.accesskey      "I">
+<!ENTITY inspectCloseButton.tooltiptext "ਇੰਸਪੈਕਟਰ ਬੰਦ ਕਰੋ">
 
+
+<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
+  -  alternate view for the Inspector, creating a 3D visualization of the
+  -  webpage. -->
+<!ENTITY inspect3DViewButton.label     "3D ਝਲਕ">
+<!ENTITY inspect3DViewButton.accesskey "W">
+
+<!ENTITY inspectStyleButton.label     "ਸਟਾਈਲ">
+<!ENTITY inspectStyleButton.accesskey "S">
+
+<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
+  -  in the Tools menu. -->
+<!ENTITY styleeditor.label            "ਸਟਾਈਲ ਐਡੀਟਰ">
+<!ENTITY styleeditor.accesskey        "y">
+<!ENTITY styleeditor.keycode          "VK_F7">
+<!ENTITY styleeditor.keytext          "F7">
 
 <!ENTITY getMoreDevtoolsCmd.label        "ਹੋਰ ਟੂਲ ਲਵੋ">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "M">
@@ -441,6 +459,16 @@ can reach it easily. -->
 <!ENTITY mediaHideControls.accesskey "C">
 <!ENTITY videoFullScreen.label       "ਪੂਰੀ ਸਕਰੀਨ">
 <!ENTITY videoFullScreen.accesskey   "F">
+<!ENTITY videoSaveImage.label        "ਸਨੈਪਸ਼ਾਟ ਇੰਝ ਸੰਭਾਲੋ…">
+<!ENTITY videoSaveImage.accesskey    "S">
+<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
+"Hide Statistics" are the same because the two context-menu
+items are mutually exclusive. -->
+<!ENTITY videoShowStats.label        "ਅੰਕੜੇ ਵੇਖਾਓ">
+<!ENTITY videoShowStats.accesskey    "t">
+<!ENTITY videoHideStats.label        "ਅੰਕੜੇ ਓਹਲੇ ਕਰੋ">
+<!ENTITY videoHideStats.accesskey    "t">
+
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -476,7 +504,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY cutButton.tooltip              "ਕੱਟੋ">
 <!ENTITY copyButton.tooltip             "ਕਾਪੀ ਕਰੋ">
 <!ENTITY pasteButton.tooltip            "ਚੇਪੋ">
-<!ENTITY fullScreenButton.tooltip       "ਵਿੰਡੋ ਪੂਰੀ ਸਕਰਨੀ 'ਚ ਵੇਖੋ">
+<!ENTITY fullScreenButton.tooltip       "ਵਿੰਡੋ ਪੂਰੀ ਸਕਰੀਨ'ਚ ਵੇਖੋ">
 
 
 <!ENTITY zoomOutButton.tooltip          "ਜ਼ੂਮ ਆਉਟ">

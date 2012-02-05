@@ -8,12 +8,12 @@
 <!ENTITY importFromIE.accesskey         "M">
 <!ENTITY importFromNothing.label        "ਕੁਝ ਵੀ ਇੰਪੋਰਟ ਨਾ ਕਰੋ">
 <!ENTITY importFromNothing.accesskey    "D">
-<!ENTITY importFromSeamonkey.label      "Netscape 6, 7 ਜਾਂ  Mozilla 1.x">
-<!ENTITY importFromSeamonkey.accesskey  "N">
-<!ENTITY importFromOpera.label          "ਓਪਰਾ">
-<!ENTITY importFromOpera.accesskey      "O">
 <!ENTITY importFromSafari.label         "ਸਫ਼ਾਰੀ">
 <!ENTITY importFromSafari.accesskey     "S">
+<!ENTITY importFromChrome.label         "ਕਰੋਮ">
+<!ENTITY importFromChrome.accesskey     "C">
+<!ENTITY importFromFirefox.label        "ਫਾਇਰਫਾਕਸ">
+<!ENTITY importFromFirefox.accesskey    "X">
 <!ENTITY importFromHTMLFile.label       "ਇੱਕ HTML ਫਾਇਲ ਤੋਂ">
 <!ENTITY importFromHTMLFile.accesskey   "F">
 

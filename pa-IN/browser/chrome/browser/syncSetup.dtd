@@ -2,10 +2,13 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "ਜੀ ਆਇਆਂ ਨੂੰ, ਜੇ ਤੁਸੀਂ ਪਹਿਲਾਂ ਕਦੇ &syncBrand.fullName.label; ਨਹੀਂ ਵਰਤਿਆ ਤਾਂ ਤੁਹਾਨੂੰ ਨਵਾਂ ਅਕਾਊਂਟ ਬਣਾਉਣਾ ਪਵੇਗਾ।">
-<!ENTITY button.createNewAccount.label "ਨਵਾਂ ਅਕਾਊਂਟ ਬਣਾਓ">
-<!ENTITY setup.haveAccount.label "ਮੇਰੇ ਕੋਲ ਪਹਿਲਾਂ ਹੀ &syncBrand.fullName.label; ਅਕਾਊਂਟ ਹੈ">
-<!ENTITY button.connect.label    "ਕੁਨੈਕਟ ਕਰੋ">
+
+
+<!ENTITY setup.pickSetupType.description2 "ਜੀ ਆਇਆਂ ਨੂੰ! ਜੇ ਤੁਸੀਂ &syncBrand.fullName.label; ਨੂੰ ਪਹਿਲਾਂ ਕਦੇ ਨਹੀਂ ਵਰਤਿਆ ਹੈ ਤਾਂ ਤੁਹਾਨੂੰ ਨਵਾਂ ਅਕਾਊਂਟ ਬਣਾਉਣਾ ਪਵੇਗਾ।">
+<!ENTITY button.createNewAccount.label "ਇੱਕ ਨਵਾਂ ਅਕਾਊਂਟ ਬਣਾਓ">
+<!ENTITY button.haveAccount.label      "ਮੇਰੇ ਕੋਲ ਅਕਾਊਂਟ ਹੈ">
+
+
 <!ENTITY setup.choicePage.title.label     "ਕੀ ਤੁਸੀਂ &syncBrand.fullName.label; ਨੂੰ ਪਹਿਲਾਂ ਵਰਤਿਆ ਹੈ?">
 <!ENTITY setup.choicePage.new.label       "ਮੈਂ &syncBrand.shortName.label; ਨੂੰ ਪਹਿਲਾਂ ਕਦੇ ਨਹੀਂ ਵਰਤਿਆ">
 <!ENTITY setup.choicePage.existing.label  "ਮੈਂ ਹੋਰ ਕੰਪਿਊਟਰਾਂ ਉੱਤੇ ਪਹਿਲਾਂ ਹੀ &syncBrand.shortName.label; ਵਰਤ ਰਿਹਾ ਹਾਂ">
@@ -52,14 +55,13 @@
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
 
 <!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "ਪੁਸ਼ਟੀ ਕਰੋ ਕਿ ਤੁਸੀਂ ਰੋਬੋਟ ਮਸ਼ੀਨ ਨਹੀਂ ਹੋ">
-<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "ਜੰਤਰ ਸ਼ਾਮਲ ਕਰੋ">
+<!ENTITY pairDevice.title.label             "ਇੱਕ ਜੰਤਰ ਪੇਅਰ ਕਰੋ">
 <!ENTITY addDevice.showMeHow.label          "ਮੈਨੂੰ ਦੱਸੋ ਕਿਵੇਂ।">
 <!ENTITY addDevice.dontHaveDevice.label     "ਇਸ ਸਮੇਂ ਮੇਰੇ ਕੋਲ ਜੰਤਰ ਨਹੀਂ ਹੈ।">
-<!ENTITY addDevice.setup.description.label  "ਐਕਟੀਵੇਟ ਕਰਨ ਲਈ ਆਪਣੇ ਹੋਰ ਜੰਤਰ ਦੀਆਂ &syncBrand.shortName.label; ਚੋਣਾਂ ਵਿੱਚ ਜਾਉ ਅਤੇ  &#x0022;ਜੰਤਰ ਸ਼ਾਮਲ ਕਰੋ&#x0022; ਨੂੰ ਚੁਣੋ।">
+<!ENTITY pairDevice.setup.description.label  "ਸਰਗਰਮ ਕਰਨ ਲਈ, ਆਪਣੇ ਹੋਰ ਜੰਤਰ ਤੋਂ &#x0022;ਇੱਕ ਜੰਤਰ ਪੇਅਰ ਕਰੋ&#x0022; ਚੁਣੋ।">
 <!ENTITY addDevice.setup.enterCode.label    "ਤਦ, ਇਹ ਕੋਡ ਦਿਉ:">
-<!ENTITY addDevice.dialog.description.label "ਆਪਣਾ ਨਵਾਂ ਜੰਤਰ ਐਕਟੀਵੇਟ ਕਰਨ ਲਈ, ਜੰਤਰ ਦੀਆਂ &syncBrand.shortName.label; ਚੋਣਾਂ ਵਿੱਚ ਜਾਉ ਅਤੇ  &#x0022;ਕੁਨੈਕਟ ਕਰੋ&#x0022; ਨੂੰ ਚੁਣੋ।">
+<!ENTITY pairDevice.dialog.description.label "ਆਪਣੇ ਨਵੇਂ ਜੰਤਰ ਨੂੰ ਸਰਗਰਮ ਕਰਨ ਲਈ, ਜੰਤਰ ਉੱਤੇ  &#x0022;ਸਿੰਕ ਸੈਟਅੱਪ&#x0022; ਚੁਣੋ।">
+
 <!ENTITY addDevice.dialog.enterCode.label   "ਕੋਡ ਦਿਉ, ਜੋ ਜੰਤਰ ਨੇ ਦਿੱਤਾ ਹੈ:">
 <!ENTITY addDevice.dialog.tryAgain.label    "ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜੀ">
 <!ENTITY addDevice.dialog.successful.label  "ਜੰਤਰ ਠੀਕ ਤਰ੍ਹਾਂ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ ਹੈ। ਸ਼ੁਰੂਆਤੀ ਸਿੰਕ ਕਰਨ ਲਈ ਲੰਮਾ ਸਮਾਂ ਲੱਗਾ ਸਕਦਾ ਹੈ ਅਤੇ ਇਹ ਸਭ ਕੁਝ ਬੈਕਗਰਾਊਂਡ 'ਚ ਮੁਕੰਮਲ ਹੋ ਜਾਵੇਗਾ।">
@@ -92,6 +94,8 @@
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "ਮੇਰੀ ਪਸੰਦ">
 <!ENTITY engine.prefs.accesskey     "S">
+<!ENTITY engine.addons.label        "ਐਡ-ਆਨ">
+<!ENTITY engine.addons.accesskey    "A">
 
 <!ENTITY choice2.merge.main.label      "ਇਸ ਕੰਪਿਊਟਰ ਦੇ ਡਾਟੇ ਨੂੰ ਮੇਰੇ &syncBrand.shortName.label; ਡਾਟੇ ਨਾਲ ਮਿਲਾਉ">
 <!ENTITY choice2.merge.recommended.label "ਸਿਫਾਰਸ਼ੀ:">

@@ -13,8 +13,11 @@
 <!ENTITY viewQuota.label              "ਕੋਟਾ ਵੇਖੋ">
 <!ENTITY changePassword2.label         "ਪਾਸਵਰਡ ਬਦਲੋ…">
 <!ENTITY myRecoveryKey.label          "ਮੇਰੀ ਰਿਕਵਰੀ ਕੁੰਜੀ">
-<!ENTITY resetSync2.label              "ਸਿੰਕ ਪਾਸਵਰਡ ਮੁੜ-ਸੈੱਟ ਕਰੋ…">
-<!ENTITY addDevice.label              "ਜੰਤਰ ਸ਼ਾਮਲ ਕਰੋ">
+<!ENTITY resetSync2.label             "ਸਿੰਕ ਮੁੜ-ਸੈੱਟ ਕਰੋ…">
+
+<!ENTITY pairDevice.label             "ਇੱਕ ਜੰਤਰ ਪੇਅਰ ਕਰੋ">
+
+
 
 <!-- Sync Settings -->
 
@@ -29,6 +32,8 @@
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "ਮੇਰੀ ਪਸੰਦ">
 <!ENTITY engine.prefs.accesskey     "S">
+<!ENTITY engine.addons.label        "ਐਡ-ਆਨ">
+<!ENTITY engine.addons.accesskey    "A">
 
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label       "ਕੰਪਿਊਟਰ ਨਾਂ:">
