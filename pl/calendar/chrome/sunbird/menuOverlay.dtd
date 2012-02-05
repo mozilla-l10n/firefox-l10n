@@ -65,9 +65,9 @@
 <!ENTITY calendar.subscribe.label               "Subskrybuj zdalny kalendarz…">
 <!ENTITY calendar.subscribe.accesskey           "S">
 
-<!ENTITY calendar.reloadserver.label            "Odśwież zdalne kalendarze">
-<!ENTITY calendar.reloadserver.key              "R">
-<!ENTITY calendar.reloadserver.accesskey        "d">
+<!ENTITY calendar.synccalendars.label            "Synchronizuj kalendarze">
+<!ENTITY calendar.synccalendars.key              "R">
+<!ENTITY calendar.synccalendars.accesskey        "k">
 
 <!ENTITY calendar.publish.calendar.label        "Publikuj kalendarz…">
 <!ENTITY calendar.publish.calendar.accesskey    "P">
