@@ -23,10 +23,3 @@
 <!ENTITY languages.customize.moveUp.accesskey           "u">
 <!ENTITY languages.customize.moveDown.label             "Baixar">
 <!ENTITY languages.customize.moveDown.accesskey         "B">
-
-<!ENTITY spelling.label                                 "Ortografía">
-<!ENTITY checkSpelling.label                            "Ao escribir revisar a miña ortografía:">
-<!ENTITY checkSpelling.accesskey                        "b">
-<!ENTITY dontCheckSpelling.label                        "Nunca">
-<!ENTITY multilineCheckSpelling.label                   "En caixas multiliña">
-<!ENTITY alwaysCheckSpelling.label                      "Todas as caixas">

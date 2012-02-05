@@ -36,5 +36,6 @@
 <!ENTITY policies.label "Política de seguridade">
 <!ENTITY mousewheel.label "Roda do rato">
 <!ENTITY scriptsAndWindows.label "Scripts e engadidos">
+<!ENTITY spellingPane.label  "Ortografía">
 
 <!ENTITY focusSearch.key "f">
