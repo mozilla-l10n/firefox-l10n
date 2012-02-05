@@ -51,7 +51,9 @@
 <!ENTITY pref_telemetry "Enviar os datos de rendemento">
 <!ENTITY pref_remember_signons "Lembrar os contrasinais">
 <!ENTITY pref_cookies "Activar cookies">
-<!ENTITY pref_char_encoding "Mostrar a codificación de caracteres">
+<!ENTITY pref_char_encoding "Codificación de caracteres">
+<!ENTITY pref_char_encoding_on "Mostrar o menú">
+<!ENTITY pref_char_encoding_off "Non mostrar o menú">
 <!ENTITY pref_clear_history "Limpar historial">
 <!ENTITY pref_clear_history_confirm "Eliminarase o historial de navegación">
 <!ENTITY pref_clear_private_data "Limpar os datos privados">
