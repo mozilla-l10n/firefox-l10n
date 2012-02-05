@@ -364,8 +364,6 @@
 <!ENTITY event.freebusy.next.slot               "Następne okienko " >
 <!ENTITY event.freebusy.previous.slot           " Poprzednie okienko" >
 <!ENTITY event.freebusy.zoom                    "Powiększ:">
-<!ENTITY event.freebusy.plus                    "Następna godzina" >
-<!ENTITY event.freebusy.minus                   "Poprzednia godzina" >
 <!ENTITY event.freebusy.legend.free             "Wolny" >
 <!ENTITY event.freebusy.legend.busy             "Zajęty" >
 <!ENTITY event.freebusy.legend.busy_tentative   "Wstępna akceptacja" >
