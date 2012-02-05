@@ -10,8 +10,10 @@
 <!ENTITY selectAllCmd.accesskey "l">
 <!ENTITY deleteCmd.label "Eyða">
 <!ENTITY deleteCmd.accesskey "E">
-<!ENTITY spellAddToDictionary.label "Bæta við í orðasafn">
+<!ENTITY spellAddToDictionary.label "Bæta við orðasafn">
 <!ENTITY spellAddToDictionary.accesskey "t">
+<!ENTITY spellUndoAddToDictionary.label "Hætta við bæta við orðasafn">
+<!ENTITY spellUndoAddToDictionary.accesskey "n">
 <!ENTITY spellCheckEnable.label "Yfirfara stafsetningu">
 <!ENTITY spellCheckEnable.accesskey "s">
 <!ENTITY spellNoSuggestions.label "(Engar athugasemdir við stafsetningu)">

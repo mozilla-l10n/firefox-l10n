@@ -191,8 +191,11 @@ can reach it easily. -->
 <!ENTITY inspectButton.label "Skoða">
 <!ENTITY inspectButton.accesskey "o">
 <!ENTITY inspectCloseButton.tooltiptext "Loka skoðara">
-<!ENTITY inspect3DButton.label "3D">
-<!ENTITY inspect3DButton.accesskey "M">
+<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
+  -  alternate view for the Inspector, creating a 3D visualization of the
+  -  webpage. -->
+<!ENTITY inspect3DViewButton.label "3D sýn">
+<!ENTITY inspect3DViewButton.accesskey "n">
 <!ENTITY inspectStyleButton.label "Stíll">
 <!ENTITY inspectStyleButton.accesskey "S">
 <!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears

@@ -1,5 +1,5 @@
 <!ENTITY dialog.title "Sérsníða verkfæraslá">
-<!ENTITY dialog.style "width: 86ch; height: 36em;">
+<!ENTITY dialog.dimensions "width: 92ch; height: 36em;">
 <!ENTITY instructions.description "Þú getur bætt við eða eytt út hlutum með því að draga þá frá eða á verkfæraslá.">
 <!ENTITY show.label "Sýna:">
 <!ENTITY iconsAndText.label "Myndir og texti">

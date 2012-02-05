@@ -11,6 +11,8 @@
 <!ENTITY importFromSafari.accesskey "S">
 <!ENTITY importFromChrome.label "Chrome">
 <!ENTITY importFromChrome.accesskey "C">
+<!ENTITY importFromFirefox.label "Firefox">
+<!ENTITY importFromFirefox.accesskey "x">
 <!ENTITY importFromHTMLFile.label "Frá HTML skrá">
 <!ENTITY importFromHTMLFile.accesskey "F">
 <!ENTITY noMigrationSources.label "Engin forrit fundust sem gætu innihaldið bókamerki, ferill eða lykilorð.">

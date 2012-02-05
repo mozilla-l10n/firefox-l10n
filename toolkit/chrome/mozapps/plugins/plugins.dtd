@@ -25,8 +25,8 @@
 <!ENTITY reloadPlugin.pre "">
 <!ENTITY reloadPlugin.middle "Endurnýjaðu síðuna">
 <!ENTITY reloadPlugin.post " til að prófa aftur.">
-<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.please "Senda hrunskýrslu">
+<!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.checkbox "…og senda hrunskýrslu">
 <!ENTITY report.submitting "Sendi skýrslu…">
 <!ENTITY report.submitted "Hrunskýrsla send.">
 <!ENTITY report.disabled "Hrunskýrslugjöf óvirk.">
