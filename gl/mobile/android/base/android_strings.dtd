@@ -51,7 +51,9 @@
 <!ENTITY pref_telemetry "Enviar os datos de rendemento">
 <!ENTITY pref_remember_signons "Lembrar os contrasinais">
 <!ENTITY pref_cookies "Activar cookies">
-<!ENTITY pref_char_encoding "Mostrar a codificación de caracteres">
+<!ENTITY pref_char_encoding "Codificación de caracteres">
+<!ENTITY pref_char_encoding_on "Mostrar o menú">
+<!ENTITY pref_char_encoding_off "Non mostrar o menú">
 <!ENTITY pref_clear_history "Limpar historial">
 <!ENTITY pref_clear_history_confirm "Eliminarase o historial de navegación">
 <!ENTITY pref_clear_private_data "Limpar os datos privados">
@@ -67,11 +69,13 @@
 <!ENTITY pref_font_size_large "Grande">
 <!ENTITY pref_font_size_xlarge "Moi grande">
 <!ENTITY pref_use_master_password "Usar contrasinal principal">
+<!ENTITY pref_sync "Sync">
 
 <!ENTITY quit "Saír">
 
 <!ENTITY addons "Complementos">
 <!ENTITY downloads "Descargas">
+<!ENTITY char_encoding "Codificación de caracteres">
 
 <!ENTITY share "Compartir">
 <!ENTITY save_as_pdf "Gardar como PDF">
@@ -93,3 +97,13 @@
 
 <!ENTITY button_ok "Aceptar">
 <!ENTITY button_cancel "Cancelar">
+
+<!ENTITY abouthome_addons_title "Complementos para o &brandShortName;">
+<!ENTITY abouthome_addons_browse "Examinar todos os complementos do &brandShortName;">
+<!ENTITY abouthome_last_tabs_title "As lapelas da última vez">
+<!ENTITY abouthome_last_tabs_open "Abrir todas as lapelas da última vez">
+<!ENTITY abouthome_top_sites_title "Sitios favoritos">
+<!ENTITY abouthome_top_sites_browse "Examinar todos os sitios favoritos">
+<!ENTITY abouthome_no_top_sites "Aínda non ten ningún sitio favorito. Prema na barra de título para comezar a navegación.">
+<!ENTITY abouthome_about_sync "Configure Firefox Sync para acceder aos marcadores, ao historial e ás lapelas dos seus dispositivos">
+<!ENTITY abouthome_sync_bold_name "Firefox Sync">
