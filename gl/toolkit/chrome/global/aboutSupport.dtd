@@ -19,14 +19,17 @@
 <!ENTITY aboutSupport.appBasicsCrashIDs "Informes de erro">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Uso de memoria">
 
-<!ENTITY aboutSupport.show.label "Abrir o cartafol contedor">
+<!ENTITY aboutSupport.showDir.label "Abrir cartafol">
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.show.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
 <!ENTITY aboutSupport.showMac.label "Mostrar no Finder">
+<!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
+variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin.label "Mostrar cartafol">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "Preferencias modificadas">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Preferencias importantes modificadas">
 <!ENTITY aboutSupport.modifiedPrefsName "Nome">
 <!ENTITY aboutSupport.modifiedPrefsValue "Valor">
 

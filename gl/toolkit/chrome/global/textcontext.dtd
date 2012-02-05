@@ -13,6 +13,8 @@
 
 <!ENTITY spellAddToDictionary.label "Engadir ao dicionario">
 <!ENTITY spellAddToDictionary.accesskey "n">
+<!ENTITY spellUndoAddToDictionary.label "Desfacer engadir ao diccionario">
+<!ENTITY spellUndoAddToDictionary.accesskey "g">
 <!ENTITY spellCheckEnable.label "Verificación ortográfica">
 <!ENTITY spellCheckEnable.accesskey "V">
 <!ENTITY spellNoSuggestions.label "(Non hai suxestións ortográficas)">
