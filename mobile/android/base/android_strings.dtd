@@ -104,3 +104,5 @@
 <!ENTITY abouthome_top_sites_title "Sitios favoritos">
 <!ENTITY abouthome_top_sites_browse "Examinar todos os sitios favoritos">
 <!ENTITY abouthome_no_top_sites "Aínda non ten ningún sitio favorito. Prema na barra de título para comezar a navegación.">
+<!ENTITY abouthome_about_sync "Configure Firefox Sync para acceder aos marcadores, ao historial e ás lapelas dos seus dispositivos">
+<!ENTITY abouthome_sync_bold_name "Firefox Sync">
