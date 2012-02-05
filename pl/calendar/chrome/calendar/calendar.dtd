@@ -67,6 +67,7 @@
 <!ENTITY calendar.events.filter.today.label "Dzisiejsze wydarzenia">
 <!ENTITY calendar.events.filter.future.label "Wszystkie przyszłe wydarzenia">
 <!ENTITY calendar.events.filter.current.label "Aktualnie wybrany dzień">
+<!ENTITY calender.events.filter.currentview.label "Widoczne wydarzenia">
 <!ENTITY calendar.events.filter.next7Days.label "Wydarzenia w przeciągu następnych 7 dni">
 <!ENTITY calendar.events.filter.next14Days.label "Wydarzenia w przeciągu następnych 14 dni">
 <!ENTITY calendar.events.filter.next31Days.label "Wydarzenia w przeciągu następnych 31 dni">
