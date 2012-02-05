@@ -253,6 +253,9 @@
 <!ENTITY calendar.context.postpone.1week.label      "1 semana">
 <!ENTITY calendar.context.postpone.1week.accesskey  "m">
 
+<!ENTITY calendar.copylink.label       "Copiar a localización da ligazón">
+<!ENTITY calendar.copylink.accesskey   "C">
+
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
      task action buttons -->
