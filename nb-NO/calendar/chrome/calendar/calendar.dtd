@@ -252,8 +252,8 @@
 <!ENTITY calendar.context.findcalendar.accesskey       "F" >
 <!ENTITY calendar.context.deleteserver.label           "Slett kalender">
 <!ENTITY calendar.context.deleteserver.accesskey       "S">
-<!ENTITY calendar.context.reloadserver.label           "Oppdater alle eksterne kalendere">
-<!ENTITY calendar.context.reloadserver.accesskey       "O">
+<!ENTITY calendar.context.synccalendars.label          "Synkroniser kalendre">
+<!ENTITY calendar.context.synccalendars.accesskey      "S">
 <!ENTITY calendar.context.publish.label                "Publiser kalender …">
 <!ENTITY calendar.context.publish.accesskey            "P">
 <!ENTITY calendar.context.export.label                 "Eksporter kalender …">
