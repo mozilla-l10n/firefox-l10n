@@ -261,7 +261,7 @@
 <!ENTITY spellCheckNoSuggestions.label "Fann engar uppástungur">
 <!ENTITY spellCheckIgnoreWord.label "Hunsa orð">
 <!ENTITY spellCheckIgnoreWord.accesskey "H">
-<!ENTITY spellCheckAddToDictionary.label "Bæta við í orðasafn">
+<!ENTITY spellCheckAddToDictionary.label "Bæta við orðasafn">
 <!ENTITY spellCheckAddToDictionary.accesskey "n">
 <!ENTITY undo.label "Afturkalla">
 <!ENTITY undo.accesskey "u">
