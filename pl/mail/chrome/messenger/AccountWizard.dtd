@@ -42,8 +42,9 @@
 <!ENTITY defaultPortLabel.label "Domyślny:">
 <!ENTITY defaultPortValue.label "">
 
+<!ENTITY modifyOutgoing.suffix       "Ustawienia serwera poczty wychodzącej można zmieniać za pomocą opcji dostępnych w oknie konfiguracji kont.">
 <!ENTITY haveSmtp1.prefix            "Zostanie użyty domyślny serwer poczty wychodzącej (SMTP) - „">
-<!ENTITY haveSmtp1.suffix2           "”. Ustawienia serwera poczty wychodzącej można zmieniać za pomocą opcji dostępnych w oknie konfiguracji kont.">
+<!ENTITY haveSmtp1.suffix3           "”.">
 <!ENTITY loginTitle.label            "Nazwa użytkownika">
 <!ENTITY usernameDesc.label          "Wprowadź nazwę użytkownika, która zostanie użyta podczas połączenia z serwerem poczty przychodzącej">
 <!ENTITY usernameExample.label       "(na przykład: „michalw”).">
@@ -53,9 +54,9 @@
 <!ENTITY usernameSmtpLabel.label     "Nazwa użytkownika:">
 <!ENTITY usernameSmtpLabel.accesskey "O">
 <!ENTITY haveSmtp2.prefix            "Do wysyłania wiadomości z tego konta zostanie użyta nazwa użytkownika domyślnego serwera poczty wychodzącej (SMTP) - „">
-<!ENTITY haveSmtp2.suffix2           "”. Nazwę użytkownika oraz inne ustawienia serwera poczty wychodzącej można zmieniać za pomocą opcji dostępnych w oknie konfiguracji kont.">
+<!ENTITY haveSmtp2.suffix3           "”.">
 <!ENTITY haveSmtp3.prefix            "Wprowadzone nazwy serwerów poczty wychodzącej i przychodzącej są takie same: „">
-<!ENTITY haveSmtp3.suffix2           "”. Powyższa nazwa użytkownika będzie używana również podczas wysyłania wiadomości. Nazwę użytkownika oraz inne ustawienia serwera poczty wychodzącej można zmieniać za pomocą opcji dostępnych w oknie konfiguracji kont.">
+<!ENTITY haveSmtp3.suffix2           "”. Powyższa nazwa użytkownika będzie używana również podczas wysyłania wiadomości.">
 <!ENTITY accnameTitle.label          "Nazwa konta">
 <!ENTITY accnameDesc.label           "Wprowadź nazwę, która będzie używana do oznaczenia tego konta (na przykład: „Konto osobiste”, „Konto służbowe”, „Grupy dyskusyjne”).">
 <!ENTITY accnameLabel.label          "Nazwa konta:">
