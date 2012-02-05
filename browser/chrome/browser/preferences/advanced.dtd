@@ -87,8 +87,6 @@
 <!ENTITY enableSearchUpdate.label        "ਖੋਜ ਇੰਜਣ">
 <!ENTITY enableSearchUpdate.accesskey    "E">
 
-<!ENTITY whenUpdatesFound.label          "ਜਦੋਂ &brandShortName; ਲਈ ਅੱਪਡੇਟ ਮਿਲੇ ਤਾਂ:">
-
 
 <!ENTITY updateHistory.label             "ਅੱਪਡੇਟ ਅਤੀਤ ਵੇਖੋ">
 <!ENTITY updateHistory.accesskey         "p">
