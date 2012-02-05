@@ -75,6 +75,7 @@
 
 <!ENTITY addons "Complementos">
 <!ENTITY downloads "Descargas">
+<!ENTITY char_encoding "Codificación de caracteres">
 
 <!ENTITY share "Compartir">
 <!ENTITY save_as_pdf "Gardar como PDF">
