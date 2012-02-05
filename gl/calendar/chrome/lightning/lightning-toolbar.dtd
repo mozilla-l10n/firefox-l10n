@@ -40,3 +40,31 @@
 <!ENTITY lightning.toolbar.task.accesskey "t">
 
 <!ENTITY lightning.toolbar.sync.label "Sincronizar">
+<!ENTITY lightning.toolbar.delete.label "Eliminar">
+<!ENTITY lightning.toolbar.edit.label "Editar">
+<!ENTITY lightning.toolbar.gototoday.label "Ir ao día actual">
+<!ENTITY lightning.toolbar.print.label "Imprimir">
+
+<!-- Mode Toolbar -->
+<!ENTITY lightning.toolbar.mail.label         "Correo">
+<!ENTITY lightning.toolbar.mail.accesskey     "C">
+<!ENTITY lightning.toolbar.calendar.label     "Calendario">
+<!ENTITY lightning.toolbar.calendar.tooltip   "Cambiar á lapela calendario">
+<!ENTITY lightning.toolbar.calendar.accesskey "C">
+<!ENTITY lightning.toolbar.task.label         "Tarefas">
+<!ENTITY lightning.toolbar.task.tooltip       "Cambiar á lapela tarefas">
+<!ENTITY lightning.toolbar.task.accesskey     "T">
+
+<!-- Toolbar write button -->
+<!ENTITY lightning.toolbar.newevent.label     "Evento">
+<!ENTITY lightning.toolbar.newtask.label      "Tarefa">
+
+<!-- Calendar and Task Mode Toolbar -->
+<!ENTITY lightning.toolbar.day.label                 "Día">
+<!ENTITY lightning.toolbar.day.accesskey             "D">
+<!ENTITY lightning.toolbar.week.label                "Semana">
+<!ENTITY lightning.toolbar.week.accesskey            "S">
+<!ENTITY lightning.toolbar.multiweek.label           "Varias semanas">
+<!ENTITY lightning.toolbar.multiweek.accesskey       "V">
+<!ENTITY lightning.toolbar.month.label               "Mes">
+<!ENTITY lightning.toolbar.month.accesskey           "M">
