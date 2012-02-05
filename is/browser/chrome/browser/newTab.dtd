@@ -1,0 +1,5 @@
+<!-- These strings are used in the about:newtab page -->
+<!ENTITY newtab.pageTitle "Nýr flipi">
+<!ENTITY newtab.show "Sýna síðu fyrir nýjan flipa">
+<!ENTITY newtab.hide "Fela síðu fyrir nýjan flipa">
+<!ENTITY newtab.reset "Endurstilla síðu fyrir nýjan flipa">
