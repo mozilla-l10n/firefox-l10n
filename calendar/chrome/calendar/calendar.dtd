@@ -64,6 +64,7 @@
 <!ENTITY calendar.events.filter.today.label "Eventos de hoxe">
 <!ENTITY calendar.events.filter.future.label "Todos os eventos futuros">
 <!ENTITY calendar.events.filter.current.label "Día seleccionado actualmente">
+<!ENTITY calender.events.filter.currentview.label "Eventos na vista actual">
 <!ENTITY calendar.events.filter.next7Days.label "Eventos dos próximos 7 días">
 <!ENTITY calendar.events.filter.next14Days.label "Eventos dos próximos 14 días">
 <!ENTITY calendar.events.filter.next31Days.label "Eventos dos próximos 31 días">
@@ -179,6 +180,10 @@
 <!ENTITY calendar.task.complete.button.tooltip  "Marcar as tarefas seleccionadas como rematadas">
 <!ENTITY calendar.task.priority.button.tooltip  "Cambiar a prioridade">
 
+<!ENTITY calendar.task.text-filter.textbox.emptytext.base            "Filtrar tarefas… #1">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;CTRL+Maiús+K&gt;">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
+
 <!-- Statusbar -->
 <!ENTITY statusText.label            "Documento: rematado">
 
@@ -213,6 +218,8 @@
 <!ENTITY calendar.context.progress.accesskey          "P">
 <!ENTITY calendar.context.priority.label              "Prioridade">
 <!ENTITY calendar.context.priority.accesskey          "r">
+<!ENTITY calendar.context.postpone.label              "Pospor a tarefa">
+<!ENTITY calendar.context.postpone.accesskey          "s">
 
 <!ENTITY percnt "&#38;#37;" ><!--=percent sign-->
 
@@ -238,6 +245,13 @@
 <!ENTITY priority.level.normal.accesskey    "N">
 <!ENTITY priority.level.high                "Alta">
 <!ENTITY priority.level.high.accesskey      "A">
+
+<!ENTITY calendar.context.postpone.1hour.label      "1 hora">
+<!ENTITY calendar.context.postpone.1hour.accesskey  "h">
+<!ENTITY calendar.context.postpone.1day.label       "1 día">
+<!ENTITY calendar.context.postpone.1day.accesskey   "d">
+<!ENTITY calendar.context.postpone.1week.label      "1 semana">
+<!ENTITY calendar.context.postpone.1week.accesskey  "m">
 
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
