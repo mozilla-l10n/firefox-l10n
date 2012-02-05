@@ -58,15 +58,6 @@
 <!ENTITY wrapOutMsg.accesskey                 "A">
 <!ENTITY char.label                           "caracteres">
 
-<!ENTITY spellingHeader.label                 "Ortografía">
-<!ENTITY spellCheck.label                     "Revisar a ortografía antes do envío">
-<!ENTITY spellCheck.accesskey                 "R">
-<!ENTITY spellCheckInline.label               "Revisar ortografía mentres se escribe">
-<!ENTITY spellCheckInline.accesskey           "e">
-<!ENTITY languagePopup.label                  "Idioma:">
-<!ENTITY languagePopup.accessKey              "g">
-<!ENTITY moreDictionaries.label               "Descargar máis dicionarios…">
-
 <!ENTITY defaultMessagesHeader.label          "Valores predeterminados para as mensaxes HTML">
 <!ENTITY font.label                           "Tipo de letra:">
 <!ENTITY font.accesskey                       "T">
