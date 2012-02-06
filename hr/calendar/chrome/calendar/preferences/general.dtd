@@ -40,16 +40,16 @@
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
-<!ENTITY pref.mainbox.label "General Settings" >
-<!ENTITY pref.dateformat.label "Date Text Format:" >
+<!ENTITY pref.mainbox.label "Opće postavke" >
+<!ENTITY pref.dateformat.label "Tekstualni oblik datuma:" >
 <!ENTITY pref.dateformat.accesskey "D">
-<!ENTITY pref.dateformat.long "Long" >
-<!ENTITY pref.dateformat.short "Short"  >
-<!ENTITY pref.defaultlength.label "Default Event Length:" >
-<!ENTITY pref.defaultlength.accesskey "E">
-<!ENTITY pref.defaultsnoozelength.label "Default Snooze Length:" >
-<!ENTITY pref.defaultsnoozelength.accesskey "S">
+<!ENTITY pref.dateformat.long "Dugi" >
+<!ENTITY pref.dateformat.short "Kratki"  >
+<!ENTITY pref.defaultlength.label "Zadano trajanje događaja:" >
+<!ENTITY pref.defaultlength.accesskey "Z">
+<!ENTITY pref.defaultsnoozelength.label "Zadano trajanje drijemanja:" >
+<!ENTITY pref.defaultsnoozelength.accesskey "a">
 
-<!ENTITY pref.accessibility.label "Accessibility" >
-<!ENTITY pref.systemcolors.label "Optimize colors for accessibility" >
-<!ENTITY pref.systemcolors.accesskey "c">
+<!ENTITY pref.accessibility.label "Pristupačnost" >
+<!ENTITY pref.systemcolors.label "Optimiziraj boje za pristupačnost" >
+<!ENTITY pref.systemcolors.accesskey "O">
