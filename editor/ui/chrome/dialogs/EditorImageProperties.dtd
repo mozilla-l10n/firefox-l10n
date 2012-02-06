@@ -80,8 +80,6 @@
 <!ENTITY imagemapBox.label "Bildkarta">
 <!ENTITY removeImageMapButton.label "Ta bort">
 <!ENTITY removeImageMapButton.accessKey "b">
-<!ENTITY editImageMapButton.label "Redigera...">
-<!ENTITY editImageMapButton.tooltip "Skapa klickbara områden för denna bild">
 
 <!-- These are the options for image alignment -->
 <!ENTITY alignment.label "Ställ text till bilden">

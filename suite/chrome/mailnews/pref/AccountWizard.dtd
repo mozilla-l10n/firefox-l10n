@@ -61,12 +61,16 @@
 <!ENTITY leaveMsgsOnSrvr.label "Lämna kvar meddelanden på servern">
 <!ENTITY leaveMsgsOnSrvr.accesskey "m">
 
-<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
+<!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
+     haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
+-->
+<!ENTITY modifyOutgoing.suffix "Du kan ändra inställningar för servern som används för utgående e-post i skärmbilden Kontoinställningar för E-post &amp; Grupper.">
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix "Din befintliga server för utgående e-post (SMTP), &quot;">
-<!ENTITY haveSmtp1.suffix2 "&quot;, kommer att användas. Du kan ändra vilken server som används för utgående e-post senare genom att välja Kontoinställningar för E-post &amp; Grupper från menyn Redigera.">
+<!ENTITY haveSmtp1.suffix3 "&quot;, kommer att användas.">
 
 <!-- Entities for Login page -->
 
@@ -79,18 +83,18 @@
 <!ENTITY usernameSmtpDesc.label "Skriv in det användarnamn för utgående e-post du fått av din e-post-leverantör (- detta är oftast samma användarnamn som för inkommande).">
 <!ENTITY usernameSmtpLabel.label "Användarnamn för utgående:">
 <!ENTITY usernameSmtpLabel.accesskey "u">
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Ditt befintliga användarnamn för utgående e-post (SMTP), &quot;">
-<!ENTITY haveSmtp2.suffix2 "&quot;, kommer att användas. Du kan modifiera inställningarna för utgående e-post genom att välja Kontoinställningar för E-post &amp; Grupper från menyn Redigera.">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
+<!ENTITY haveSmtp2.suffix3 "&quot;, kommer att användas.">
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Din server för utgående e-post (SMTP), &quot;">
-<!ENTITY haveSmtp3.suffix2 "&quot;, är identisk med din server för inkommande e-post. Ditt användarnamn för inkommande e-post kommer att användas vid anslutningen. Du kan modifiera inställningarna för utgående e-post genom att välja Kontoinställningar för E-post &amp; Grupper från menyn Redigera.">
+<!ENTITY haveSmtp3.suffix3 "&quot;, är identisk med din server för inkommande e-post. Ditt användarnamn för inkommande e-post kommer att användas vid anslutningen.">
 
 <!-- Entities for Account name page -->
 
