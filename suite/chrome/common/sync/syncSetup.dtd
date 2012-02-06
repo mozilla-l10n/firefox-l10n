@@ -81,6 +81,8 @@
 <!ENTITY syncComputerName.accesskey   "D">
 
 <!ENTITY syncMy.label               "Synka">
+<!ENTITY engine.addons.label        "Tillägg">
+<!ENTITY engine.addons.accesskey    "T">
 <!ENTITY engine.bookmarks.label     "Bokmärken">
 <!ENTITY engine.bookmarks.accesskey "B">
 <!ENTITY engine.tabs.label          "Flikar">

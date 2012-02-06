@@ -59,15 +59,6 @@
 <!ENTITY wrapOutMsg.accesskey                 "l">
 <!ENTITY char.label                           "tecken">
 
-<!ENTITY spellingHeader.label                 "Stavning">
-<!ENTITY spellCheck.label                     "Stavningskontrollera innan meddelande skickas">
-<!ENTITY spellCheck.accesskey                 "a">
-<!ENTITY spellCheckInline.label               "Stavningskontrollera medan du skriver">
-<!ENTITY spellCheckInline.accesskey           "m">
-<!ENTITY languagePopup.label                  "Språk:">
-<!ENTITY languagePopup.accessKey              "å">
-<!ENTITY moreDictionaries.label               "Hämta fler ordlistor…">
-
 <!ENTITY defaultMessagesHeader.label          "Förinställningar för HTML-meddelanden">
 <!ENTITY font.label                           "Teckensnitt:">
 <!ENTITY font.accesskey                       "T">

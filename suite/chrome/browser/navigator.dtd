@@ -16,8 +16,8 @@
 
 <!ENTITY navbarCmd.label "Navigationsfält">
 <!ENTITY navbarCmd.accesskey "N">
-<!ENTITY personalbarCmd.label "Eget verktygsfält">
-<!ENTITY personalbarCmd.accesskey "E">
+<!ENTITY bookmarksToolbarCmd.label     "Bokmärkesfält">
+<!ENTITY bookmarksToolbarCmd.accesskey "m">
 
 <!ENTITY closeWindow.label "Stäng fönstret">
 <!ENTITY closeWindow.accesskey "f">
@@ -29,7 +29,7 @@
 <!ENTITY feedsMenu.accesskey "P">
 
 <!ENTITY menuBar.tooltip              "Menyrad">
-<!ENTITY personalToolbar.tooltip          "Eget verktygsfält">
+<!ENTITY bookmarksToolbar.tooltip         "Bokmärkesfält">
 <!ENTITY navigationToolbar.tooltip        "Navigationsfält">
 
 <!-- Toolbar items --> 
