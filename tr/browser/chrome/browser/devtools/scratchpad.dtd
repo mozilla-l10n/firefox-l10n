@@ -67,6 +67,26 @@
 <!ENTITY selectAllCmd.key             "T">
 <!ENTITY selectAllCmd.accesskey       "T">
 
+<!ENTITY findCmd.label                "Bul…">
+<!ENTITY findCmd.key                  "F">
+<!ENTITY findCmd.accesskey            "B">
+
+<!ENTITY findAgainCmd.label           "Tekrar bul…">
+<!-- LOCALIZATION NOTE (findAgainCmd.key): This key is used only on Macs.
+  -  Windows and Linux builds use the F3 key which is not localizable on purpose.
+  -->
+<!ENTITY findAgainCmd.key             "G">
+<!ENTITY findAgainCmd.accesskey       "T">
+<!-- LOCALIZATION NOTE (findPreviousCmd.key): This key is used only on Macs.
+  -  Windows and Linux builds use the Shift-F3 key which is not localizable on
+  -  purpose.
+  -->
+<!ENTITY findPreviousCmd.key          "G">
+
+<!ENTITY gotoLineCmd.label            "Satıra git…">
+<!ENTITY gotoLineCmd.key              "J">
+<!ENTITY gotoLineCmd.accesskey        "S">
+
 <!ENTITY run.label                    "Çalıştır">
 <!ENTITY run.accesskey                "Ç">
 <!ENTITY run.key                      "r">
