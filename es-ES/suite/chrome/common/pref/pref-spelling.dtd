@@ -1,0 +1,16 @@
+<!ENTITY prefSpelling.title "Ortografía">
+<!ENTITY generalSpelling.label "General">
+<!ENTITY checkSpellingWhenTyping.label "Al escribir, revisar mi ortografía:">
+<!ENTITY checkSpellingWhenTyping.accesskey "A">
+<!ENTITY dontCheckSpelling.label "Nunca">
+<!ENTITY multilineCheckSpelling.label "En las entradas multilínea">
+<!ENTITY alwaysCheckSpelling.label "Todas las entradas">
+<!ENTITY spellForMailAndNews.label "Correo y noticias">
+<!ENTITY checkSpellingBeforeSend.label "Revisar ortografía antes de enviar">
+<!ENTITY checkSpellingBeforeSend.accesskey "C">
+<!ENTITY spellCheckInline.label "Revisar ortografía según se escribe">
+<!ENTITY spellCheckInline.accesskey "R">
+<!ENTITY languagePopup.label "Idioma:">
+<!ENTITY languagePopup.accessKey "I">
+<!ENTITY moreDictionaries.label "Descargar más diccionarios…">
+<!ENTITY noSpellCheckAvailable.label "No hay diccionarios disponibles.">

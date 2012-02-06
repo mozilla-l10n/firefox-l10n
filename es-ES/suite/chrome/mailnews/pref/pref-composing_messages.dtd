@@ -16,14 +16,6 @@
 <!ENTITY wrapOutMsg.label "Ajuste de línea en mens. texto sin formato en">
 <!ENTITY wrapOutMsg.accesskey "u">
 <!ENTITY char.label "caracteres">
-<!ENTITY spellingHeader.label "Ortografía">
-<!ENTITY spellCheck.label "Revisar ortografía antes de enviar">
-<!ENTITY spellCheck.accesskey "R">
-<!ENTITY spellCheckInline.label "Revisar ortografía según se escribe">
-<!ENTITY spellCheckInline.accesskey "e">
-<!ENTITY languagePopup.label "Idioma:">
-<!ENTITY languagePopup.accessKey "d">
-<!ENTITY moreDictionaries.label "Descargar más diccionarios…">
 <!ENTITY defaultMessagesHeader.label "Valores predeterminados para mensajes HTML">
 <!ENTITY font.label "Tipo de letra:">
 <!ENTITY font.accesskey "l">

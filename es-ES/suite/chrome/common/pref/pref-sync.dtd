@@ -8,7 +8,7 @@
 <!ENTITY resetPass.label "Restablecer">
 <!ENTITY resetPass.accesskey "R">
 <!ENTITY manageAccount.label "Administrar cuenta">
-<!ENTITY manageAccount.accesskey "A">
+<!ENTITY manageAccount.accesskey "M">
 <!ENTITY viewQuota.label "Ver cuota">
 <!ENTITY viewQuota.accesskey "V">
 <!ENTITY changePassword.label "Cambiar contraseña">
@@ -24,6 +24,8 @@
 <!ENTITY syncComputerName.label "Nombre del equipo:">
 <!ENTITY syncComputerName.accesskey "N">
 <!ENTITY syncMy2.label "Sincronizar mi:">
+<!ENTITY engine.addons.label "Complementos">
+<!ENTITY engine.addons.accesskey "C">
 <!ENTITY engine.bookmarks.label "Marcadores">
 <!ENTITY engine.bookmarks.accesskey "e">
 <!ENTITY engine.tabs.label "Pestañas">
