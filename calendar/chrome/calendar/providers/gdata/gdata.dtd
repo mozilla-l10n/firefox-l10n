@@ -34,15 +34,15 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY gdata-provider.label "Google Calendar">
+<!ENTITY gdata-provider.label "Google kalendar">
 
-<!ENTITY gdata.privacy.default.label "Google Default">
-<!ENTITY gdata.privacy.default.accesskey "D">
+<!ENTITY gdata.privacy.default.label "Google zadano">
+<!ENTITY gdata.privacy.default.accesskey "d">
 
-<!ENTITY gdata.migration.title "Migrate read-only calendars">
-<!ENTITY gdata.migration.description "The Provider for Google Calendar has detected that you have existing calendars that are only capable of accessing Google Calendar in read-only mode. If you would like to upgrade any of these calendars, please select them below">
-<!ENTITY gdata.migration.upgrade.label "Upgrade">
-<!ENTITY gdata.migration.upgrade.accesskey "U">
-<!ENTITY gdata.migration.showagain.label "Always check ">
+<!ENTITY gdata.migration.title "Preseli kalendare koji se samo mogu čitati">
+<!ENTITY gdata.migration.description "Pružatelj usluge za Google kalendar je otkrio da imate postojeće kalendare koji mogu pristupati Google kalendaru samo u načinu čitanja. Ako želite nadograditi neki od ovih kalendara odaberite ih niže">
+<!ENTITY gdata.migration.upgrade.label "Nadogradi">
+<!ENTITY gdata.migration.upgrade.accesskey "N">
+<!ENTITY gdata.migration.showagain.label "Uvijek provjeri ">
 
-<!ENTITY gdata.reminder.action.sms.label "Send a Text Message">
+<!ENTITY gdata.reminder.action.sms.label "Pošalji tekstualnu poruku">
