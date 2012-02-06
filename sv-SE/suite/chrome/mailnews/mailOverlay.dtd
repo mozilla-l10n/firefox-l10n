@@ -6,3 +6,5 @@
 <!ENTITY  newContactCmd.label             "Kontakt…">
 <!ENTITY  newContactCmd.accesskey         "K">
  
+<!ENTITY printButton.label "Skriv ut">
+<!ENTITY printButton.tooltip "Skriv ut detta meddelande">

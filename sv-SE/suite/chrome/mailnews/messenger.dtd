@@ -273,6 +273,10 @@
 
 <!ENTITY findCmd.label "Sök i det här meddelandet…">
 
+<!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
+     This is the key used to show the Lightning quick filter bar. -->
+<!ENTITY quickFilterBar.show.key2 "K">
+
 <!-- Go Menu -->
 
 <!ENTITY goMenu.label "Gå till">
@@ -449,7 +453,6 @@
 <!ENTITY deleteButton.label "Ta bort">
 <!ENTITY undeleteButton.label "Ångra ta bort">
 <!ENTITY markButton.label "Märk">
-<!ENTITY printButton.label "Skriv ut">
 <!ENTITY stopButton.label "Stopp">
 <!ENTITY junkButton.label "Skräppost">
 <!ENTITY notJunkButton.label "Ej skräppost">
@@ -474,7 +477,6 @@
 <!ENTITY deleteButton.tooltip "Ta bort markerat meddelande eller mapp">
 <!ENTITY undeleteButton.tooltip "Ångra ta bort markerat meddelande">
 <!ENTITY markButton.tooltip "Märk meddelanden">
-<!ENTITY printButton.tooltip "Skriv ut detta meddelande">
 <!ENTITY stopButton.tooltip "Avbryt pågående överföring">
 <!ENTITY throbber.tooltip "Gå till &vendorShortName;s webbplats">
 <!ENTITY junkButton.tooltip "Märk de markerade meddelandena som skräppost">

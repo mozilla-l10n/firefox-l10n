@@ -45,6 +45,10 @@
 <!ENTITY CopyEmailAddress.accesskey        "K">
 <!ENTITY CreateFilterFrom.label            "Skapa filter från…">
 <!ENTITY CreateFilterFrom.accesskey        "f">
+<!ENTITY openInBrowser.label               "Öppna i webbläsaren">
+<!ENTITY openInBrowser.accesskey           "i">
+<!ENTITY bookmarkLinkCmd.label             "Skapa bokmärke för denna länk…">
+<!ENTITY bookmarkLinkCmd.accesskey         "b">
 <!ENTITY copyLinkCmd.label                 "Kopiera länkadressen">
 <!ENTITY copyLinkCmd.accesskey             "o">
 <!ENTITY CopyMessageId.label               "Kopiera meddelandeadressen">
