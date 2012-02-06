@@ -1,5 +1,5 @@
 <!ENTITY dialog.title             "Dopasëjë lëstwã nôrzãdzów">
-<!ENTITY dialog.style 			  "width: 97ch; height: 26.25em;">
+<!ENTITY dialog.dimensions 		  "width: 92ch; height: 36em;"> 
 <!ENTITY instructions.description "Mòże dodôwac ë òdjimac elementë przez jich przecyganié na abò z lëstwë nôrzãdzów.">
 <!ENTITY show.label               "Wëskrzëni:">
 <!ENTITY iconsAndText.label       "Jikònë ë tekst">

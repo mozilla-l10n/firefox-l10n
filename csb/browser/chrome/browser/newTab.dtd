@@ -1,0 +1,6 @@
+<!-- These strings are used in the about:newtab page -->
+<!ENTITY newtab.pageTitle "Nowô kôrta">
+
+<!ENTITY newtab.show "Wëskrzeni nową starnã kôrtë">
+<!ENTITY newtab.hide "Zatacë nową starnã kôrtë">
+<!ENTITY newtab.reset "Zrecetëjë nową starnã kôrtë">

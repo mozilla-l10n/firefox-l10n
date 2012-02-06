@@ -4,7 +4,6 @@
 <!ENTITY     props.path.label               "Stegna:">
 <!ENTITY     props.secure.label             "Sélôj do:">
 <!ENTITY     props.expires.label            "Kùńczi sã:">
-<!ENTITY     props.policy.label             "Wskôzë:"> 
 
 <!ENTITY     button.allow.label             "Zezwòlë">
 <!ENTITY     button.allow.accesskey         "Z">

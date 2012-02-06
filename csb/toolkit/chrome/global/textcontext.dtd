@@ -21,6 +21,9 @@
 <!ENTITY spellAddToDictionary.accesskey "D">
 <!ENTITY spellCheckEnable.label "Sprôwdzë pisënk">
 <!ENTITY spellCheckEnable.accesskey "S">
-<!ENTITY spellNoSuggestions.label "(felënk sugestëji)">
+<!ENTITY spellNoSuggestions.label "(felënk sugestii)">
 <!ENTITY spellDictionaries.label "Jãzëczi">
 <!ENTITY spellDictionaries.accesskey "J">
+
+<!ENTITY spellUndoAddToDictionary.accesskey "n"> 
+<!ENTITY spellUndoAddToDictionary.label "Copni dodôj do katalogù"> 

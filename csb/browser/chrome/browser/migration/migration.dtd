@@ -36,3 +36,5 @@
 
 <!ENTITY done.title                     "Jimpòrtowanié je zakùńczóné">
 <!ENTITY done.label                     "Nôslédné elementë są ùdało zajimpòrtowóné:">
+<!ENTITY importFromFirefox.accesskey 	"X"> 
+<!ENTITY importFromFirefox.label 		"Firefox"> 
