@@ -353,6 +353,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY thisFolder.label "Acest dosar">
 <!ENTITY thisFolder.accesskey "A">
 <!ENTITY goRecentlyClosedTabs.label "File închise recent">
+<!ENTITY goRecentlyClosedTabs.accesskey "R">
 <!ENTITY startPageCmd.label "Pagina de start a contului">
 <!ENTITY startPageCmd.accesskey "s">
 

@@ -92,8 +92,6 @@
 <!ENTITY imagemapBox.label "Hartă imagine">
 <!ENTITY removeImageMapButton.label "Elimină">
 <!ENTITY removeImageMapButton.accessKey "E">
-<!ENTITY editImageMapButton.label "Editează…">
-<!ENTITY editImageMapButton.tooltip "Creează pe imagine zone sensibile, pe care se poate face clic">
 
 <!-- These are the options for image alignment -->
 <!ENTITY alignment.label "Aliniere text cu imagine">
