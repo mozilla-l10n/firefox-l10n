@@ -51,6 +51,8 @@
 <!ENTITY pref_remember_signons "암호 저장">
 <!ENTITY pref_cookies "쿠키(Cookie) 사용">
 <!ENTITY pref_char_encoding "문자 인코딩 표시">
+<!ENTITY pref_char_encoding_on "메뉴 보기">
+<!ENTITY pref_char_encoding_off "메뉴 숨기기">
 <!ENTITY pref_clear_history "방문 기록 삭제">
 <!ENTITY pref_clear_history_confirm "방문 기록이 모두 삭제됩니다.">
 <!ENTITY pref_clear_private_data "개인 정보 삭제">
@@ -66,11 +68,13 @@
 <!ENTITY pref_font_size_large "크게">
 <!ENTITY pref_font_size_xlarge "매우 크게">
 <!ENTITY pref_use_master_password "기본 암호를 사용합니다.">
+<!ENTITY pref_sync "동기화">
 
 <!ENTITY quit "종료">
 
 <!ENTITY addons "부가 기능">
 <!ENTITY downloads "다운로드">
+<!ENTITY char_encoding "문자 인코딩">
 
 <!ENTITY share "공유">
 <!ENTITY save_as_pdf "PDF로 저장">

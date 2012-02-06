@@ -1,5 +1,5 @@
 <!ENTITY aboutAddons.title                      "부가 기능 관리">
-<!ENTITY aboutAddons.header                     "부가 기능">
+<!ENTITY aboutAddons.header2                    "부가 기능">
 <!ENTITY aboutAddons.options                    "설정">
 
 <!ENTITY addonAction.enable                     "사용">
