@@ -1,14 +1,16 @@
 <!--
 # Translator(s):
 #
-# janimo <jani@ubuntu.com>
 # Alexandru Szasz <alexxed@gmail.com>
+# https://www.google.com/accounts/o8/id?id=AItOawlnUhqAust-7hqM7HhylXGcKyQHz7bLFkw <https://www.google.com/accounts/o8/id?id=AItOawlnUhqAust-7hqM7HhylXGcKyQHz7bLFkw>
+# janimo <jani@ubuntu.com>
 #
 -->
 <!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!-- Entities for AccountWizard -->
@@ -18,9 +20,9 @@
 
 <!-- Entities for Account Type page -->
 
-<!ENTITY accountSetupInfo2.label "In order to receive messages, you first need to set up an account.">
+<!ENTITY accountSetupInfo2.label "Pentru a putea primi mesaje, trebuie să adăugați un cont.">
 <!ENTITY accountTypeTitle.label "Creare cont nou">
-<!ENTITY accountTypeDesc2.label "This Wizard will collect the information necessary to set up an account. If you do not know the information requested, please contact your System Administrator or Internet Service Provider.">
+<!ENTITY accountTypeDesc2.label "Această fereastră va colecta informațiile necesare setării unui cont. Dacă nu cunoști informațiile necesare, contactează administratorul de sistem sau furnizorul de Internet.">
 <!ENTITY accountTypeDirections.label "Alegeți tipul de cont pe care doriți să-l creați:">
 <!ENTITY accountTypeMail.label "Cont de email">
 <!ENTITY accountTypeMail.accesskey "m">
@@ -74,13 +76,16 @@
 <!ENTITY defaultPortLabel.label "Default:">
 <!ENTITY defaultPortValue.label "">
 
-
-<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
+<!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
+     haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
+-->
+<!ENTITY modifyOutgoing.suffix "You can change outgoing servers in the account settings.">
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix "Va fi folosit serverul de trimitere (SMTP) deja existent, „">
-<!ENTITY haveSmtp1.suffix2 "&quot;, va fi folosit. Puteți schimba serverele de trimitere în setările contului.">
+<!ENTITY haveSmtp1.suffix3 "&quot;, will be used.">
 
 <!-- Entities for Login page -->
 
@@ -93,18 +98,18 @@
 <!ENTITY usernameSmtpDesc.label "Introduceți numele de utilizator pentru trimitere, dat de furnizorul dumneavoastră de email (de obicei este același cu numele de utilizator pentru primire).">
 <!ENTITY usernameSmtpLabel.label "Nume utilizator pt trimitere:">
 <!ENTITY usernameSmtpLabel.accesskey "t">
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Va fi folosit numele de utilizator pentru trimitere (SMTP) deja existent, „">
-<!ENTITY haveSmtp2.suffix2 "&quot;, va fi folosit. Puteți schimba serverele de trimitere în setările contului.">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
+<!ENTITY haveSmtp2.suffix3 "&quot;, will be used.">
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Serverul dumneavoastră de trimitere (SMTP), „">
-<!ENTITY haveSmtp3.suffix2 "&quot;, e identic cu serverul de primire, se va utiliza același utilizator de la primire pentru a-l accesa. Puteți schimba serverele de trimitere în setările contului.">
+<!ENTITY haveSmtp3.suffix3 "&quot;, is identical to your incoming server, your incoming user name will be used to access it.">
 
 <!-- Entities for Account name page -->
 
