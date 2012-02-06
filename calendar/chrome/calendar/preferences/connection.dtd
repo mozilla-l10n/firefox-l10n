@@ -39,28 +39,28 @@
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
-<!ENTITY  connectionsDialog.title       "Connection Settings">
+<!ENTITY  connectionsDialog.title       "Postavke spajanja">
 <!ENTITY  window.width                  "37em">
 <!ENTITY  window.macWidth               "39em">
 
-<!ENTITY  proxyTitle.label              "Configure Proxies to Access the Internet">
-<!ENTITY  directTypeRadio.label         "Direct connection to the Internet">
-<!ENTITY  directTypeRadio.accesskey     "d">
-<!ENTITY  WPADTypeRadio.label           "Auto-detect proxy settings for this network">
-<!ENTITY  WPADTypeRadio.accesskey       "w">
-<!ENTITY  manualTypeRadio.label         "Manual proxy configuration:">
-<!ENTITY  manualTypeRadio.accesskey     "m">
-<!ENTITY  autoTypeRadio.label           "Automatic proxy configuration URL:">
-<!ENTITY  autoTypeRadio.accesskey       "A">
-<!ENTITY  reload.label                  "Reload">
-<!ENTITY  reload.accesskey              "e">
+<!ENTITY  proxyTitle.label              "Podesite proxy za pristupanje Internetu">
+<!ENTITY  directTypeRadio.label         "Direktna veza na internet">
+<!ENTITY  directTypeRadio.accesskey     "D">
+<!ENTITY  WPADTypeRadio.label           "Automatski pronađi proxy postavke za ovu mrežu">
+<!ENTITY  WPADTypeRadio.accesskey       "u">
+<!ENTITY  manualTypeRadio.label         "Ručno podešavanje proxya:">
+<!ENTITY  manualTypeRadio.accesskey     "i">
+<!ENTITY  autoTypeRadio.label           "URL za automatsko podešavanje proxya:">
+<!ENTITY  autoTypeRadio.accesskey       "a">
+<!ENTITY  reload.label                  "Ponovno učitaj">
+<!ENTITY  reload.accesskey              "j">
 <!ENTITY  ftp.label                     "FTP Proxy:">
 <!ENTITY  ftp.accesskey                 "F">
 <!ENTITY  http.label                    "HTTP Proxy:">
 <!ENTITY  http.accesskey                "y">
 <!ENTITY  ssl.label                     "SSL Proxy:">
 <!ENTITY  ssl.accesskey                 "S">
-<!ENTITY  socks.label                   "SOCKS Host:">
+<!ENTITY  socks.label                   "SOCKS poslužitelj:">
 <!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
@@ -71,8 +71,8 @@
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
-<!ENTITY  noproxy.label                 "No Proxy for:">
+<!ENTITY  noproxy.label                 "Bez proxya za:">
 <!ENTITY  noproxy.accesskey             "n">
-<!ENTITY  noproxyExplain.label          "Example: .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY  shareproxy.label              "Use this proxy server for all protocols">
+<!ENTITY  noproxyExplain.label          "Primjer: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Koristi ovaj proxy poslužitelj za sve protokole">
 <!ENTITY  shareproxy.accesskey          "x">
