@@ -62,9 +62,9 @@
 <!ENTITY calendar.subscribe.label                          "Uzaktaki takvime aboneabone ol…">
 <!ENTITY calendar.subscribe.accesskey                      "U">
 
-<!ENTITY calendar.reloadserver.label                       "Uzaktaki takvimleri tazele">
-<!ENTITY calendar.reloadserver.key                         "R">
-<!ENTITY calendar.reloadserver.accesskey                   "e">
+<!ENTITY calendar.synccalendars.label                      "Takvimleri eşitle">
+<!ENTITY calendar.synccalendars.key                        "R">
+<!ENTITY calendar.synccalendars.accesskey                  "k">
 
 <!ENTITY calendar.publish.calendar.label                   "Takvimi yayınla…">
 <!ENTITY calendar.publish.calendar.accesskey               "T">

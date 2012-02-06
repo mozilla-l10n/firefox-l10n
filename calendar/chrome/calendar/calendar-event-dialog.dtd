@@ -360,8 +360,6 @@
 <!ENTITY event.freebusy.next.slot               "Sonraki zaman aralığı" >
 <!ENTITY event.freebusy.previous.slot           " Önceki zaman aralığı" >
 <!ENTITY event.freebusy.zoom                    "Ölçek:">
-<!ENTITY event.freebusy.plus                    "Sonraki saat" >
-<!ENTITY event.freebusy.minus                   "Önceki saat" >
 <!ENTITY event.freebusy.legend.free             "Serbest" >
 <!ENTITY event.freebusy.legend.busy             "Meşgul" >
 <!ENTITY event.freebusy.legend.busy_tentative   "Kesin değil" >
