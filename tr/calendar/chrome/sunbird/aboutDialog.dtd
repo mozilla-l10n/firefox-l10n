@@ -47,10 +47,10 @@ hakları saklıdır. Mozilla Sunbird, Sunbird
 ve Sunbird logosu, Mozilla Vakfı'nın ticari 
 markalarıdır. Bütün hakları saklıdır.  ">
 
-<!ENTITY brandMotto       "Zaman her şeydir!">
-<!ENTITY credit.thanks    "Özel olarak teşekkür ettiklerimiz">
-
-<!ENTITY credit.translation "<h3>Çevirmenler</h3><ul><li>Mozilla Türkiye Ekibi (http://www.mozilla.org.tr)</li></ul>  ">
+<!ENTITY brandMotto       "vakit geldi">
+<!ENTITY credit.thanks    "Özel teşekkürler">
+-->
+<!ENTITY credit.translation "<h3>Çevirmenler</h3><ul><li>Mozilla Türkiye Ekibi (www.mozilla.org.tr)</li></ul>">
 
 <!ENTITY credit.powered     "Gücünün kaynağı">
 <!ENTITY license.and        "ve">

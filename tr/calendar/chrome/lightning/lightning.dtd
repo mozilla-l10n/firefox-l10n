@@ -74,28 +74,6 @@
 <!ENTITY lightning.menu.eventtask.label                "Etkinlik ve görevler">
 <!ENTITY lightning.menu.eventtask.accesskey            "n">
 
-<!-- Mode Toolbar -->
-<!ENTITY lightning.toolbar.mail.label         "Posta">
-<!ENTITY lightning.toolbar.mail.accesskey     "P">
-<!ENTITY lightning.toolbar.calendar.label     "Takvim">
-<!ENTITY lightning.toolbar.calendar.accesskey "T">
-<!ENTITY lightning.toolbar.task.label         "Görevler">
-<!ENTITY lightning.toolbar.task.accesskey     "G">
-
-<!-- Toolbar write button -->
-<!ENTITY lightning.toolbar.newevent.label     "Etkinlik">
-<!ENTITY lightning.toolbar.newtask.label      "Görev">
-
-<!-- Messenger Toolbar -->
-<!ENTITY lightning.toolbar.day.label                 "Gün">
-<!ENTITY lightning.toolbar.day.accesskey             "G">
-<!ENTITY lightning.toolbar.week.label                "Hafta">
-<!ENTITY lightning.toolbar.week.accesskey            "H">
-<!ENTITY lightning.toolbar.multiweek.label           "Çoklu haftalı">
-<!ENTITY lightning.toolbar.multiweek.accesskey       "o">
-<!ENTITY lightning.toolbar.month.label               "Ay">
-<!ENTITY lightning.toolbar.month.accesskey           "y">
-
 <!-- properties dialog, calendar creation wizard -->
 <!ENTITY lightning.calendarproperties.showevents.inagenda.label "Bugün panelinde etkinlikleri göster">
 <!ENTITY lightning.calendarproperties.showtasks.label           "Görevleri bugün panelinde ve görev kipinde göster">

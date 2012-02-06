@@ -11,11 +11,11 @@
    - for the specific language governing rights and limitations under the
    - License.
    -
-   - The Original Code is Google Calendar Provider code.
+   - The Original Code is Mozilla Calendar code.
    -
    - The Initial Developer of the Original Code is
    -   Philipp Kewisch <mozilla@kewis.ch>
-   - Portions created by the Initial Developer are Copyright (C) 2006
+   - Portions created by the Initial Developer are Copyright (C) 2011
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
@@ -34,16 +34,36 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY gdata-provider.label "Google takvimi">
+<!ENTITY lightning.toolbar.calendar.name "Takvim araç çubuğu">
+<!ENTITY lightning.toolbar.calendar.accesskey "T">
+<!ENTITY lightning.toolbar.task.name "Görev araç çubuğu">
+<!ENTITY lightning.toolbar.task.accesskey     "G">
 
-<!ENTITY gdata.privacy.default.label "Google öntanımlı">
-<!ENTITY gdata.privacy.default.accesskey "G">
+<!ENTITY lightning.toolbar.sync.label "Eşitle">
+<!ENTITY lightning.toolbar.delete.label "Sil">
+<!ENTITY lightning.toolbar.edit.label "Düzenle">
+<!ENTITY lightning.toolbar.gototoday.label "Bugüne git">
+<!ENTITY lightning.toolbar.print.label "Yazdır">
 
-<!ENTITY gdata.migration.title "Salt okunur takvimleri taşı">
-<!ENTITY gdata.migration.description "Google Takvim sağlayıcısı, Google Takvim'e yalnızca salt okunur olarak erişebilen takvimlerinizin bulunduğunu saptadı. Bu takvimleri yükseltmek isterseniz lütfen takvimleri seçin">
-<!ENTITY gdata.migration.upgrade.label "Yükselt">
-<!ENTITY gdata.migration.upgrade.accesskey "Y">
-<!ENTITY gdata.migration.showagain.label "Her zaman denetle">
+<!-- Mode Toolbar -->
+<!ENTITY lightning.toolbar.mail.label         "Posta">
+<!ENTITY lightning.toolbar.mail.accesskey     "P">
+<!ENTITY lightning.toolbar.calendar.label     "Takvim">
+<!ENTITY lightning.toolbar.calendar.tooltip   "Takvim sekmesine geç">
+<!ENTITY lightning.toolbar.task.label         "Görevler">
+<!ENTITY lightning.toolbar.task.tooltip       "Görevler sekmesine geç">
 
-<!ENTITY gdata.reminder.action.sms.label "Metin ileti olarak gönder">
+<!-- Toolbar write button -->
+<!ENTITY lightning.toolbar.newevent.label     "Etkinlik">
+<!ENTITY lightning.toolbar.newtask.label      "Görev">
+
+<!-- Calendar and Task Mode Toolbar -->
+<!ENTITY lightning.toolbar.day.label                 "Gün">
+<!ENTITY lightning.toolbar.day.accesskey             "G">
+<!ENTITY lightning.toolbar.week.label                "Hafta">
+<!ENTITY lightning.toolbar.week.accesskey            "H">
+<!ENTITY lightning.toolbar.multiweek.label           "Çok haftalı">
+<!ENTITY lightning.toolbar.multiweek.accesskey       "k">
+<!ENTITY lightning.toolbar.month.label               "Ay">
+<!ENTITY lightning.toolbar.month.accesskey           "A">
 
