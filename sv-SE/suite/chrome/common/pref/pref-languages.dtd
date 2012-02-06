@@ -23,10 +23,3 @@
 <!ENTITY languages.customize.moveUp.accesskey           "u">
 <!ENTITY languages.customize.moveDown.label             "Flytta ned">
 <!ENTITY languages.customize.moveDown.accesskey         "d">
-
-<!ENTITY spelling.label                                 "Stavning">
-<!ENTITY checkSpelling.label                            "Stavningskontrollera medan jag skriver:">
-<!ENTITY checkSpelling.accesskey                        "S">
-<!ENTITY dontCheckSpelling.label                        "Aldrig">
-<!ENTITY multilineCheckSpelling.label                   "I fält med flera rader">
-<!ENTITY alwaysCheckSpelling.label                      "I alla fält">

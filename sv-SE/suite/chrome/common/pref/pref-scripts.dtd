@@ -18,6 +18,8 @@
 <!ENTITY allowHideStatusBar.label        "Dölja statusfältet">
 
 <!ENTITY enablePlugin.label              "Aktivera insticksmoduler för">
+<!ENTITY enablePluginForSuite.label      "Sviten">
+<!ENTITY enablePluginForSuite.accesskey  "v">
 
 <!ENTITY whenPluginsRequired.label       "När insticksmoduler behövs">
 <!ENTITY displayNotification.label       "Visa ett meddelande i innehållsfönstrets överkant">
