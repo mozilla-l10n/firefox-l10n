@@ -229,8 +229,6 @@ can reach it easily. -->
 <!ENTITY inspectButton.accesskey      "ô">
 <!ENTITY inspectCloseButton.tooltiptext "Zamkni Jinspektora">
 
-
-<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
 <!ENTITY inspect3DViewButton.label "3D View"> 
 <!ENTITY inspect3DViewButton.accesskey "W"> 
 <!ENTITY inspectStyleButton.label     "Sztél">
