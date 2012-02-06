@@ -217,8 +217,13 @@ can reach it easily. -->
 <!ENTITY inspectButton.label            "ត្រួតពិនិត្យ">
 <!ENTITY inspectButton.accesskey        "ត">
 <!ENTITY inspectCloseButton.tooltiptext "បិទ​កម្មវិធី​ត្រួតពិនិត្យ">
-<!ENTITY inspect3DButton.label        "3D">
-<!ENTITY inspect3DButton.accesskey    "D">
+
+<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
+  -  alternate view for the Inspector, creating a 3D visualization of the
+  -  webpage. -->
+<!ENTITY inspect3DViewButton.label     "ទិដ្ឋភាព 3D">
+<!ENTITY inspect3DViewButton.accesskey "ព">
+
 <!ENTITY inspectStyleButton.label     "រចនាប័ទ្ម">
 <!ENTITY inspectStyleButton.accesskey "រ">
 

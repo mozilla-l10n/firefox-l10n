@@ -34,8 +34,8 @@
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "ផ្ទុក​ទំព័រ​ឡើងវិញ">
 <!ENTITY reloadPlugin.post                                   "ដើម្បី​ព្យាយាម​ម្ដង​ទៀត ។">
-<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.please                                       "ផ្ញើ​របាយការណ៍​អំពី​ការ​គាំង">
+<!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.checkbox                                     "…រួច​ផ្ញើ​របាយការណ៍​អំពី​ការ​គាំង">
 <!ENTITY report.submitting                                   "កំពុង​ផ្ញើ​របាយការណ៍…">
 <!ENTITY report.submitted                                    "របាយការណ៍​អំពី​ការ​គាំង​ត្រូវ​បាន​ផ្ញើ ។">
 <!ENTITY report.disabled                                     "ការ​រាយការណ៍​អំពី​ការ​គាំង​ត្រូវ​បាន​បិទ ។">
