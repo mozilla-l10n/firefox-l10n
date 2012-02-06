@@ -9,13 +9,14 @@
 <!ENTITY aboutSupport.appBasicsTitle "Сведения о приложении">
 <!ENTITY aboutSupport.appBasicsName "Имя">
 <!ENTITY aboutSupport.appBasicsVersion "Версия">
-<!ENTITY aboutSupport.appBasicsProfileDir "Папка профиля">
+<!ENTITY aboutSupport.appBasicsProfileDir "Каталог профиля">
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Папка профиля">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Включённые плагины">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Конфигурация сборки">
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
 <!ENTITY aboutSupport.appBasicsCrashIDs "Сообщения о падениях">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Использование памяти">
-<!ENTITY aboutSupport.showDir.label "Открыть папку">
+<!ENTITY aboutSupport.showDir.label "Открыть каталог">
 <!ENTITY aboutSupport.showMac.label "Показать в Finder">
 <!ENTITY aboutSupport.showWin.label "Показать папку">
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Важные изменённые настройки">
