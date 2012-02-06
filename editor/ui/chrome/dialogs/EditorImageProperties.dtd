@@ -66,8 +66,6 @@
 <!ENTITY imagemapBox.label "Mapa de imagen">
 <!ENTITY removeImageMapButton.label "Eliminar">
 <!ENTITY removeImageMapButton.accessKey "R">
-<!ENTITY editImageMapButton.label "Editar…">
-<!ENTITY editImageMapButton.tooltip "Crear zonas que reaccionen al hacer clic en esta imagen">
 <!ENTITY alignment.label "Alinear el texto con la imagen">
 <!ENTITY bottomPopup.value "En la parte inferior">
 <!ENTITY topPopup.value "En la parte superior
