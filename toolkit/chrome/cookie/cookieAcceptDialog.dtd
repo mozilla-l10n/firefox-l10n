@@ -4,7 +4,6 @@
 <!ENTITY     props.path.label               "Sti:">
 <!ENTITY     props.secure.label             "Send til:">
 <!ENTITY     props.expires.label            "Utløper:">
-<!ENTITY     props.policy.label             "Valg:">
 
 <!ENTITY     button.allow.label             "Tillat">
 <!ENTITY     button.allow.accesskey         "T">
@@ -13,6 +12,6 @@
 <!ENTITY     button.deny.label              "Avslå">
 <!ENTITY     button.deny.accesskey          "A">
 
-<!ENTITY     dialog.title                   "Bekreft">
+<!ENTITY     dialog.title                   "Bekreft infokapsel">
 <!ENTITY     dialog.remember.label          "Bruk dette valget for alle infokapsler fra dette nettstedet">
 <!ENTITY     dialog.remember.accesskey      "B">
