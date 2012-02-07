@@ -247,6 +247,9 @@
 <!ENTITY calendar.context.postpone.1week.label      "Une semaine">
 <!ENTITY calendar.context.postpone.1week.accesskey  "s">
 
+<!ENTITY calendar.copylink.label       "Copier l'adresse du lien">
+<!ENTITY calendar.copylink.accesskey   "C">
+
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
      task action buttons -->
