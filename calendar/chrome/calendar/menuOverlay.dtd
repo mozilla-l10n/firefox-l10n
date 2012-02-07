@@ -42,58 +42,58 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Event Menu -->
-<!ENTITY event.new.event                        "New Event…">
+<!ENTITY event.new.event                        "Novi događaj…">
 <!ENTITY event.new.event.key                    "N">
 <!ENTITY event.new.event.accesskey              "N">
 
-<!ENTITY event.new.task                         "New Task…">
+<!ENTITY event.new.task                         "Novi zadatak…">
 <!ENTITY event.new.task.key                     "K">
-<!ENTITY event.new.task.accesskey               "k">
+<!ENTITY event.new.task.accesskey               "z">
 
-<!ENTITY calendar.new.server.label              "New Calendar…">
+<!ENTITY calendar.new.server.label              "Novi kalendar…">
 <!ENTITY calendar.new.server.key                "L">
 <!ENTITY calendar.new.server.accesskey          "l">
 
-<!ENTITY calendar.print.label                   "Print…">
+<!ENTITY calendar.print.label                   "Ispiši…">
 <!ENTITY calendar.print.key                     "P">
-<!ENTITY calendar.print.accesskey               "P">
+<!ENTITY calendar.print.accesskey               "p">
 
-<!ENTITY calendar.import.label                  "Import…">
+<!ENTITY calendar.import.label                  "Uvezi…">
 <!ENTITY calendar.import.key                    "I">
-<!ENTITY calendar.import.accesskey              "I">
+<!ENTITY calendar.import.accesskey              "U">
 
-<!ENTITY calendar.export.label                  "Export…">
-<!ENTITY calendar.export.accesskey              "E">
-<!ENTITY calendar.export.selection.label        "Export Selection…">
-<!ENTITY calendar.export.selection.accesskey    "S">
+<!ENTITY calendar.export.label                  "Izvezi…">
+<!ENTITY calendar.export.accesskey              "e">
+<!ENTITY calendar.export.selection.label        "Izvezi odabrano…">
+<!ENTITY calendar.export.selection.accesskey    "o">
 
-<!ENTITY calendar.publish.label                 "Publish…">
+<!ENTITY calendar.publish.label                 "Objavi…">
 <!ENTITY calendar.publish.accesskey             "b">
 
-<!ENTITY calendar.deletecalendar.label          "Delete Selected Calendar…">
-<!ENTITY calendar.deletecalendar.accesskey      "D">
+<!ENTITY calendar.deletecalendar.label          "Obriši odabrani kalendar…">
+<!ENTITY calendar.deletecalendar.accesskey      "d">
 
-<!ENTITY calendar.menu.customize.label          "Customize…">
-<!ENTITY calendar.menu.customize.accesskey      "C">
+<!ENTITY calendar.menu.customize.label          "Prilagodi…">
+<!ENTITY calendar.menu.customize.accesskey      "r">
 
-<!ENTITY showUnifinderCmd.label                 "Find Events">
-<!ENTITY showUnifinderCmd.accesskey             "F">
+<!ENTITY showUnifinderCmd.label                 "Pronađi događaje">
+<!ENTITY showUnifinderCmd.accesskey             "a">
 
-<!ENTITY calendar.displaytodos.checkbox.label       "Show Tasks in Calendar">
-<!ENTITY calendar.displaytodos.checkbox.accesskey   "T">
+<!ENTITY calendar.displaytodos.checkbox.label       "Prikaži zadatke u kalendaru">
+<!ENTITY calendar.displaytodos.checkbox.accesskey   "t">
 
-<!ENTITY calendar.menu.numberofweeks.label      "Multiweek View Size">
-<!ENTITY calendar.menu.numberofweeks.2          "Two Weeks">
-<!ENTITY calendar.menu.numberofweeks.3          "Three Weeks">
-<!ENTITY calendar.menu.numberofweeks.4          "Four Weeks">
-<!ENTITY calendar.menu.numberofweeks.5          "Five Weeks">
-<!ENTITY calendar.menu.numberofweeks.6          "Six Weeks">
+<!ENTITY calendar.menu.numberofweeks.label      "Veličina višetjednog prikaza">
+<!ENTITY calendar.menu.numberofweeks.2          "Dva tjedna">
+<!ENTITY calendar.menu.numberofweeks.3          "Tri tjedna">
+<!ENTITY calendar.menu.numberofweeks.4          "Četiri tjedna">
+<!ENTITY calendar.menu.numberofweeks.5          "Pet tjedana">
+<!ENTITY calendar.menu.numberofweeks.6          "Šest tjedana">
 
-<!ENTITY goTodayCmd.label                       "Today">
-<!ENTITY goTodayCmd.accesskey                   "T">
+<!ENTITY goTodayCmd.label                       "Danas">
+<!ENTITY goTodayCmd.accesskey                   "s">
 
-<!ENTITY showCurrentView.label                  "Current View">
-<!ENTITY showCurrentView.accesskey              "V">
+<!ENTITY showCurrentView.label                  "Trenutni pogled">
+<!ENTITY showCurrentView.accesskey              "g">
 
-<!ENTITY calendar.properties.label              "Calendar Properties…">
-<!ENTITY calendar.properties.accesskey          "C">
+<!ENTITY calendar.properties.label              "Postavke kalendara…">
+<!ENTITY calendar.properties.accesskey          "v">
