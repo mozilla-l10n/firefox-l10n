@@ -47,7 +47,7 @@
 <!ENTITY pref.dateformat.short "Kratki"  >
 <!ENTITY pref.defaultlength.label "Zadano trajanje događaja:" >
 <!ENTITY pref.defaultlength.accesskey "Z">
-<!ENTITY pref.defaultsnoozelength.label "Zadano trajanje drijemanja:" >
+<!ENTITY pref.defaultsnoozelength.label "Zadano trajanje odgode:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "a">
 
 <!ENTITY pref.accessibility.label "Pristupačnost" >
