@@ -553,8 +553,8 @@
 <!ENTITY folderContextOpenNewWindow.accesskey   "O">
 <!ENTITY folderContextOpenNewTab.label          "Otwórz w nowej karcie">
 <!ENTITY folderContextOpenNewTab.accesskey      "w">
-<!ENTITY contextOpenConversation.label          "Otwórz wiadomość w karcie">
-<!ENTITY contextOpenConversation.accesskey      "O">
+<!ENTITY contextOpenConversation.label          "Otwórz wątek w nowej karcie">
+<!ENTITY contextOpenConversation.accesskey      "n">
 <!ENTITY folderContextNew.label                 "Nowy podfolder…">
 <!ENTITY folderContextNew.accesskey             "N">
 <!ENTITY folderContextRename.label              "Zmień nazwę">
