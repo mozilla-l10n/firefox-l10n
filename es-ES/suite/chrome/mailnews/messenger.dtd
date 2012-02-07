@@ -155,7 +155,7 @@
 <!ENTITY sortThreaded.accesskey "n">
 <!ENTITY sortUnthreaded.label "No anidado">
 <!ENTITY sortUnthreaded.accesskey "N">
-<!ENTITY groupBySort.label "Agrupado por tipo">
+<!ENTITY groupBySort.label "Agrupados por orden">
 <!ENTITY groupBySort.accesskey "g">
 <!ENTITY msgsMenu.label "Mensajes">
 <!ENTITY msgsMenu.accesskey "m">
