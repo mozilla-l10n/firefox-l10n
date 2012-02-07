@@ -40,53 +40,53 @@
 <!-- Day Names -->
 <!-- LOCALIZATION NOTE : Accesskeys for day.1.Ddd to day.7.Ddd are currently
      only used in Preferences > Views > Workweek groupbox -->
-<!ENTITY day.1.Ddd "Sun" >
-<!ENTITY day.1.Ddd.accesskey "S">
-<!ENTITY day.2.Ddd "Mon" >
-<!ENTITY day.2.Ddd.accesskey "M">
-<!ENTITY day.3.Ddd "Tue" >
-<!ENTITY day.3.Ddd.accesskey "T">
-<!ENTITY day.4.Ddd "Wed" >
-<!ENTITY day.4.Ddd.accesskey "W">
-<!ENTITY day.5.Ddd "Thu" >
-<!ENTITY day.5.Ddd.accesskey "h">
-<!ENTITY day.6.Ddd "Fri" >
-<!ENTITY day.6.Ddd.accesskey "F">
-<!ENTITY day.7.Ddd "Sat" >
-<!ENTITY day.7.Ddd.accesskey "a">
+<!ENTITY day.1.Ddd "Ned" >
+<!ENTITY day.1.Ddd.accesskey "N">
+<!ENTITY day.2.Ddd "Pon" >
+<!ENTITY day.2.Ddd.accesskey "P">
+<!ENTITY day.3.Ddd "Uto" >
+<!ENTITY day.3.Ddd.accesskey "U">
+<!ENTITY day.4.Ddd "Sri" >
+<!ENTITY day.4.Ddd.accesskey "r">
+<!ENTITY day.5.Ddd "Čet" >
+<!ENTITY day.5.Ddd.accesskey "e">
+<!ENTITY day.6.Ddd "Pet" >
+<!ENTITY day.6.Ddd.accesskey "t">
+<!ENTITY day.7.Ddd "Sub" >
+<!ENTITY day.7.Ddd.accesskey "S">
 
-<!ENTITY day.1.name "Sunday" >
-<!ENTITY day.2.name "Monday" >
-<!ENTITY day.3.name "Tuesday" >
-<!ENTITY day.4.name "Wednesday" >
-<!ENTITY day.5.name "Thursday" >
-<!ENTITY day.6.name "Friday" >
-<!ENTITY day.7.name "Saturday" >
+<!ENTITY day.1.name "Nedjelja" >
+<!ENTITY day.2.name "Ponedjeljak" >
+<!ENTITY day.3.name "Utorak" >
+<!ENTITY day.4.name "Srijeda" >
+<!ENTITY day.5.name "Četvrtak" >
+<!ENTITY day.6.name "Petak" >
+<!ENTITY day.7.name "Subota" >
 
 <!-- Units -->
-<!ENTITY calendar.global.units.minute   "minute">
-<!ENTITY calendar.global.units.minutes  "minutes">
-<!ENTITY calendar.global.units.hour     "hour">
-<!ENTITY calendar.global.units.hours    "hours">
-<!ENTITY calendar.global.units.day      "day">
-<!ENTITY calendar.global.units.days     "days">
+<!ENTITY calendar.global.units.minute   "minuta">
+<!ENTITY calendar.global.units.minutes  "minute">
+<!ENTITY calendar.global.units.hour     "sat">
+<!ENTITY calendar.global.units.hours    "sati">
+<!ENTITY calendar.global.units.day      "dan">
+<!ENTITY calendar.global.units.days     "dani">
 
-<!ENTITY month.1.name "January" >
-<!ENTITY month.2.name "February" >
-<!ENTITY month.3.name "March" >
-<!ENTITY month.4.name "April" >
-<!ENTITY month.5.name "May" >
-<!ENTITY month.6.name "June" >
-<!ENTITY month.7.name "July" >
-<!ENTITY month.8.name "August" >
-<!ENTITY month.9.name "September" >
-<!ENTITY month.10.name "October" >
-<!ENTITY month.11.name "November" >
-<!ENTITY month.12.name "December" >
+<!ENTITY month.1.name "Siječanj" >
+<!ENTITY month.2.name "Veljača" >
+<!ENTITY month.3.name "Ožujak" >
+<!ENTITY month.4.name "Travanj" >
+<!ENTITY month.5.name "Svibanj" >
+<!ENTITY month.6.name "Lipanj" >
+<!ENTITY month.7.name "Srpanj" >
+<!ENTITY month.8.name "Kolovoz" >
+<!ENTITY month.9.name "Rujan" >
+<!ENTITY month.10.name "Listopad" >
+<!ENTITY month.11.name "Studeni" >
+<!ENTITY month.12.name "Prosinac" >
 
-<!ENTITY onemonthbackward.tooltip "One Month Back" >
-<!ENTITY onemonthforward.tooltip "One Month Forward" >
-<!ENTITY showToday.tooltip "Go to Today">
-<!ENTITY onedayforward.tooltip "One Day Forward">
-<!ENTITY onedaybackward.tooltip "One Day Backward">
-<!ENTITY showselectedday.tooltip "Show events for selected day">
+<!ENTITY onemonthbackward.tooltip "Jedan mjesec unazad" >
+<!ENTITY onemonthforward.tooltip "Jedan mjesec naprijed" >
+<!ENTITY showToday.tooltip "Idi na danas">
+<!ENTITY onedayforward.tooltip "Jedan dan naprijed">
+<!ENTITY onedaybackward.tooltip "Jedan dan nazad">
+<!ENTITY showselectedday.tooltip "Prikaži događaje za odabrani dan">
