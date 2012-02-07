@@ -75,7 +75,7 @@
 <!ENTITY saveVideoCmd.accesskey "u">
 <!ENTITY saveAudioCmd.label "Guardar audio como…">
 <!ENTITY saveAudioCmd.accesskey "u">
-<!ENTITY copyLinkCmd.label "Copiar dirección del enlace">
+<!ENTITY copyLinkCmd.label "Copiar la dirección del enlace">
 <!ENTITY copyLinkCmd.accesskey "e">
 <!ENTITY copyImageCmd.label "Copiar imagen">
 <!ENTITY copyImageCmd.accesskey "a">

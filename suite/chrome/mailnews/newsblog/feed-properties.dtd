@@ -6,7 +6,7 @@
 <!ENTITY choosethisfolder.label "elegir esta carpeta">
 <!ENTITY quickMode.label "Mostrar el resumen del artículo en vez de la página web">
 <!ENTITY quickMode.accesskey "M">
-<!ENTITY copyLinkCmd.label "Copiar dirección del enlace">
+<!ENTITY copyLinkCmd.label "Copiar la dirección del enlace">
 <!ENTITY copyLinkCmd.accesskey "C">
 <!ENTITY pasteLinkCmd.label "Pegar">
 <!ENTITY pasteLinkCmd.accesskey "P">
