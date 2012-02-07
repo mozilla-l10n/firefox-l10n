@@ -73,8 +73,8 @@
 <!ENTITY editRewrapCmd.label "Neu umbrechen">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "b">
-<!ENTITY renameAttachment.label "Anhang umbenennen…">
-<!ENTITY renameAttachment.accesskey "n">
+<!ENTITY renameAttachmentCmd.label "Anhang umbenennen…">
+<!ENTITY renameAttachmentCmd.accesskey "n">
 <!ENTITY selectAllCmd.label "Alles auswählen">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "u">
