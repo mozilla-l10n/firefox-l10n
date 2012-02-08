@@ -51,4 +51,4 @@
 <!ENTITY noStyleSheet-tip-end.label    "?">
 
 <!-- LOCALIZATION NOTE  (closeCmd.key): Accel + this key closes the window. -->
-<!ENTITY closeCmd.key  
+<!ENTITY closeCmd.key                  "W">
