@@ -63,8 +63,7 @@
 <!ENTITY imagemapBox.label "ਚਿੱਤਰ ਖਾਕਾ">
 <!ENTITY removeImageMapButton.label "ਹਟਾਓ">
 <!ENTITY removeImageMapButton.accessKey "R">
-<!ENTITY editImageMapButton.label "ਸੋਧ...">
-<!ENTITY editImageMapButton.tooltip "ਇਸ ਚਿੱਤਰ ਤੇ ਦੱਬਣਯੋਗ ਧੱਬੇ ਬਣਾਉ">
+
 
 <!-- These are the options for image alignment -->
 <!ENTITY alignment.label "ਚਿੱਤਰ ਅਤੇ ਪਾਠ ਇਕਸਾਰ">

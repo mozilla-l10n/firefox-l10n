@@ -43,42 +43,23 @@
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
 <!-- File menu items -->
-<!ENTITY fileMenu.label "ਫਾਇਲ">
-<!ENTITY fileMenu.accesskey "F">
-<!ENTITY openFileCmd.label "ਫਾਇਲ ਖੋਲ੍ਹੋ…">
-<!ENTITY openFileCmd.accesskey "O">
-<!ENTITY openFileCmd.key "O">
-<!ENTITY openRemoteCmd.label "ਵੈੱਬ ਟਿਕਾਣਾ ਖੋਲ੍ਹੋ…">
-<!ENTITY openRemoteCmd.accesskey "L">
-<!ENTITY openRemoteCmd.key "L">
-<!ENTITY fileRecentMenu.label "ਤਾਜ਼ਾ ਸਫ਼ੇ">
-<!ENTITY fileRecentMenu.accesskey "R">
-<!ENTITY fileRevert.label "ਰੀਵਰਟ">
-<!ENTITY fileRevert.accesskey "v">
-<!ENTITY saveCmd.label "ਸੰਭਾਲੋ">
-<!ENTITY saveCmd.accesskey "S">
-<!ENTITY saveCmd.key "S">
-<!ENTITY saveAsCmd.label "ਇੰਝ ਸੰਭਾਲੋ…">
-<!ENTITY saveAsCmd.accesskey "A">
 
-<!ENTITY publishCmd.label "ਪਬਲਿਸ਼ ਕਰੋ">
-<!ENTITY publishCmd.accesskey "b">
-<!ENTITY publishCmd.key "S">
+
+
+<!ENTITY saveCmd.label "ਸੰਭਾਲੋ">
+
 <!ENTITY publishAsCmd.label "ਇੰਝ ਪਬਲਿਸ਼ ਕਰੋ…">
 <!ENTITY publishAsCmd.accesskey "h">
-<!ENTITY saveAsChangeEncodingCmd.label "ਸੰਭਾਲੋ ਅਤੇ ਅੱਖਰ ਇੰਕੋਡਿੰਗ ਬਦਲੋ">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "E">
 
 <!-- Edit menu items -->
-<!ENTITY editMenu.label "ਸੋਧ">
-<!ENTITY editMenu.accesskey "E">
+
 <!ENTITY pasteNoFormatting.label "ਬਿਨਾਂ ਫਾਰਮੈਟ ਦੇ ਹੀ ਚੇਪੋ">
 <!ENTITY pasteNoFormatting.accesskey "n">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "ਇੰਝ ਚੇਪੋ">
 <!ENTITY pasteAs.accesskey "a">
-<!ENTITY publishSettings.label "ਪਬਲਿਸ਼ ਹੋਣ ਵਾਲੀ ਸਾਈਟ ਸੈਟਿੰਗ…">
-<!ENTITY publishSettings.accesskey "b">
+
+
 <!ENTITY pasteAsQuotationCmd.label "ਹਵਾਲੇ ਵਜੋਂ ਚੇਪੋ">
 <!ENTITY pasteAsQuotationCmd.accesskey "Q">
 <!ENTITY pasteAsQuotationCmd.key "o">
@@ -211,7 +192,7 @@
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "ਨਾਂ ਵਾਲੇ ਐਂਕਰ ਹਟਾਓ">
 <!ENTITY formatRemoveNamedAnchors.accesskey "R">
-<!ENTITY formatRemoveNamedAnchors.key "A">
+
 
 <!ENTITY paragraphMenu.label "ਪ੍ਹੈਰਾ">
 <!ENTITY paragraphMenu.accesskey "P">
@@ -355,12 +336,9 @@
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "ਮੁੱਖ ਪੱਟੀ">
 <!ENTITY formatToolbar.tooltip "ਫਾਰਮੈਟਿੰਗ ਟੂਲਬਾਰ">
-<!ENTITY newToolbarCmd.label "ਨਵਾਂ">
-<!ENTITY newToolbarCmd.tooltip "ਨਵਾਂ ਨਿਰਮਾਣ ਸਫ਼ਾ ਬਣਾਓ">
-<!ENTITY openToolbarCmd.label "ਖੋਲ੍ਹੋ">
-<!ENTITY openToolbarCmd.tooltip "ਇੱਕ ਲੋਕਲ ਫਾਇਲ ਖੋਲ੍ਹੋ">
-<!ENTITY saveToolbarCmd.tooltip "ਫਾਇਲ ਨੂੰ ਲੋਕਲ ਟਿਕਾਣੇ ਉੱਤੇ ਸੰਭਾਲੋ">
-<!ENTITY publishToolbarCmd.tooltip "ਫਾਇਲ ਰਿਮੋਟ ਟਿਕਾਣੇ ਉੱਤੇ ਅੱਪਲੋਡ ਕਰੋ">
+
+
+
 <!ENTITY cutToolbarCmd.tooltip "ਕੱਟੋ">
 <!ENTITY copyToolbarCmd.tooltip "ਕਾਪੀ ਕਰੋ">
 <!ENTITY pasteToolbarCmd.tooltip "ਚੇਪੋ">

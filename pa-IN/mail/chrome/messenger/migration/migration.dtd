@@ -6,8 +6,6 @@
 
 <!ENTITY importFromNothing.label        "ਕੁਝ ਵੀ ਇੰਪੋਰਟ ਨਾ ਕਰੋ">
 <!ENTITY importFromNothing.accesskey    "D">
-<!ENTITY importFromSeamonkey2.label     "Netscape 6, 7, Mozilla 1.x ਜਾਂ SeaMonkey">
-<!ENTITY importFromSeamonkey2.accesskey "s">
 <!ENTITY importFromOExpress.label       "Outlook Express">
 <!ENTITY importFromOExpress.accesskey   "u">
 <!ENTITY importFromOutlook.label        "Outlook">

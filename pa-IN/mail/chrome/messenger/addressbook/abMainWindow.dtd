@@ -87,12 +87,12 @@
 <!ENTITY showTaskbarCmd.accesskey                       "S">
 <!ENTITY customizeToolbar.label                         "ਪਸੰਦ…">
 <!ENTITY customizeToolbar.accesskey                     "C">
-<!ENTITY showContactPane.label                          "ਸੰਪਰਕ ਸੰਖੇਪ ਬਾਹੀ">
-<!ENTITY showContactPane.accesskey                      "C">
+
+
 <!ENTITY menu_ShowNameAs.label                          "ਨਾਂ ਇੰਝ ਵੇਖੋ">
 <!ENTITY menu_ShowNameAs.accesskey                      "n"> 
-<!ENTITY firstLastCmd.label                             "ਪਹਿਲਾਂ, ਆਖਰੀ">
-<!ENTITY firstLastCmd.accesskey                         "f"> 
+
+
 <!ENTITY lastFirstCmd.label                             "ਆਖਰੀ, ਪਹਿਲਾਂ">
 <!ENTITY lastFirstCmd.accesskey                         "l">
 <!ENTITY displayNameCmd.label                           "ਵੇਖਾਉਣ ਨਾਂ">
