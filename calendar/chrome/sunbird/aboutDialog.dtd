@@ -49,10 +49,8 @@ markalarıdır. Bütün hakları saklıdır.  ">
 
 <!ENTITY brandMotto       "vakit geldi">
 <!ENTITY credit.thanks    "Özel teşekkürler">
--->
 <!ENTITY credit.translation "<h3>Çevirmenler</h3><ul><li>Mozilla Türkiye Ekibi (www.mozilla.org.tr)</li></ul>">
 
 <!ENTITY credit.powered     "Gücünün kaynağı">
 <!ENTITY license.and        "ve">
 <!ENTITY cmdClose.macKey  "W">
-
