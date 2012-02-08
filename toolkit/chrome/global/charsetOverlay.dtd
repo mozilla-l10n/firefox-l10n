@@ -1,21 +1,21 @@
 <!-- extracted from charsetOverlay.xul -->
 <!ENTITY charsetMenu.label             "Signa enkodigo">
-<!ENTITY charsetMenu.accesskey         "S">
-<!ENTITY charsetMenuAutodet.label      "Eltrovi Aŭtomate">
-<!ENTITY charsetMenuAutodet.accesskey  "e">
+<!ENTITY charsetMenu.accesskey         "k">
+<!ENTITY charsetMenuAutodet.label      "Eltrovi aŭtomate">
+<!ENTITY charsetMenuAutodet.accesskey  "a">
 <!ENTITY charsetMenuMore.label         "Pliaj enkodigoj">
-<!ENTITY charsetMenuMore.accesskey     "p">
-<!ENTITY charsetMenuMore1.label        "Okcidenta Eŭropo">
-<!ENTITY charsetMenuMore1.accesskey    "o">
-<!ENTITY charsetMenuMore2.label        "Orienteŭropa">
-<!ENTITY charsetMenuMore2.accesskey    "O">
-<!ENTITY charsetMenuMore3.label        "Orienta Azio">
+<!ENTITY charsetMenuMore.accesskey     "P">
+<!ENTITY charsetMenuMore1.label        "Okcidenteŭropaj">
+<!ENTITY charsetMenuMore1.accesskey    "O">
+<!ENTITY charsetMenuMore2.label        "Orienteŭropaj">
+<!ENTITY charsetMenuMore2.accesskey    "e">
+<!ENTITY charsetMenuMore3.label        "Orientaziaj">
 <!ENTITY charsetMenuMore3.accesskey    "A">
-<!ENTITY charsetMenuMore4.label        "SudOrienta kaj SudOkcidenta Azio">
+<!ENTITY charsetMenuMore4.label        "Sudorient- kaj sudokcidentaziaj">
 <!ENTITY charsetMenuMore4.accesskey    "S">
-<!ENTITY charsetMenuMore5.label        "Mezoriento">
+<!ENTITY charsetMenuMore5.label        "Mezorientaj">
 <!ENTITY charsetMenuMore5.accesskey    "M">
-<!ENTITY charsetMenuUnicode.label      "Unikodo">
+<!ENTITY charsetMenuUnicode.label      "Unikodaj">
 <!ENTITY charsetMenuUnicode.accesskey  "U">
 <!ENTITY charsetCustomize.label        "Persone agordi liston…">
-<!ENTITY charsetCustomize.accesskey    "p">
+<!ENTITY charsetCustomize.accesskey    "l">
