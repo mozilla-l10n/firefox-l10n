@@ -31,7 +31,7 @@
 <!ENTITY saveFileAsCmd.accesskey      "c">
 
 <!ENTITY closeCmd.label               "Tëj">
-<!ENTITY closeCmd.key                 "c">
+<!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "T">
 
 <!ENTITY editMenu.label               "Jagal">
