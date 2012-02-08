@@ -1,4 +1,4 @@
-<!ENTITY messengerWindow.title "ਮੇਲ &amp; ਨਿਊਜ਼ਗਰੁੱਪ">
+
 <!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
@@ -23,8 +23,6 @@
 <!ENTITY newVirtualFolderCmd.accesskey "S">
 <!ENTITY newOtherAccountsCmd.label "ਹੋਰ ਅਕਾਊਂਟ…">
 <!ENTITY newOtherAccountsCmd.accesskey "O">
-<!ENTITY newEmailAccountCmd.label "ਮੇਲ ਅਕਾਊਂਟ…">
-<!ENTITY newEmailAccountCmd.accesskey "A">
 <!ENTITY openMessageFileCmd.label "ਸੰਭਾਲਿਆ ਸੁਨੇਹਾ ਖੋਲ੍ਹੋ…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "ਅਟੈਚਮੈਂਟ">
@@ -584,8 +582,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextMarkMailFolderRead.accesskey "k">
 <!ENTITY folderContextSubscribe.label "ਮੈਂਬਰ ਬਣੋ…">
 <!ENTITY folderContextSubscribe.accesskey "b">
-<!ENTITY folderContextSearchMessages.label "ਖੋਜ…">
-<!ENTITY folderContextSearchMessages.accesskey "S">
 <!ENTITY folderContextProperties.label "ਵਿਸ਼ੇਸ਼ਤਾ…">
 <!ENTITY folderContextProperties.accesskey "P">
 <!ENTITY folderContextFavoriteFolder.label "ਪਸੰਦੀਦਾ ਫੋਲਡਰ">

@@ -27,8 +27,8 @@
 <!ENTITY awesomebar_default_text "ਖੋਜ ਕਰੋ ਜਾਂ ਐਡਰੈਸ ਦਿਓ">
 
 <!ENTITY bookmark "ਬੁੱਕਮਾਰਕ">
-<!ENTITY bookmark_added "Bookmark added">
-<!ENTITY bookmark_removed "Bookmark removed">
+<!ENTITY bookmark_added "ਬੁੱਕਮਾਰਕ ਜੋੜਿਆ ਗਿਆ">
+<!ENTITY bookmark_removed "ਬੁੱਕਮਾਰਕ ਹਟਾਇਆ ਗਿਆ">
 
 <!ENTITY history_today_section "ਅੱਜ">
 <!ENTITY history_yesterday_section "ਕੱਲ੍ਹ">
@@ -39,6 +39,7 @@
 <!ENTITY forward "ਅੱਗੇ">
 
 <!ENTITY new_tab "ਨਵੀਂ ਟੈਬ">
+<!ENTITY new_tab_opened "ਨਵੀਂ ਟੈਬ ਖੋਲ੍ਹੀ ਗਈ">
 
 <!ENTITY settings "ਸੈਟਿੰਗ">
 <!ENTITY settings_title "ਸੈਟਿੰਗ">
@@ -46,25 +47,25 @@
 <!ENTITY pref_category_privacy "ਪਰਾਈਵੇਸੀ ਤੇ ਸੁਰੱਖਿਆ">
 <!ENTITY pref_category_content "ਸਮੱਗਰੀ">
 <!ENTITY pref_about_firefox "&brandShortName; ਬਾਰੇ">
-<!ENTITY pref_do_not_track "Tell sites not to track me">
-<!ENTITY pref_telemetry "Send performance data">
+<!ENTITY pref_do_not_track "ਸਾਈਟਾਂ ਨੂੰ ਦੱਸੋ ਕਿ ਮੈਂ ਟਰੈਕ ਨਹੀਂ ਹੋਣਾ ਚਾਹੁੰਦਾ">
+<!ENTITY pref_telemetry "ਕਾਰਗੁਜ਼ਾਰੀ ਡਾਟਾ ਭੇਜੋ">
 <!ENTITY pref_remember_signons "ਪਾਸਵਰਡ ਯਾਦ ਰੱਖੋ">
 <!ENTITY pref_cookies "Enable cookies">
-<!ENTITY pref_char_encoding "Character encoding">
-<!ENTITY pref_char_encoding_on "Show menu">
-<!ENTITY pref_char_encoding_off "Don\'t show menu">
-<!ENTITY pref_clear_history "Clear history">
-<!ENTITY pref_clear_history_confirm "Browsing history will be deleted">
-<!ENTITY pref_clear_private_data "Clear private data">
-<!ENTITY pref_clear_private_data_confirm "Browsing settings, including passwords and cookies, will be deleted">
-<!ENTITY pref_plugins "Plugins">
-<!ENTITY pref_plugins_enabled "Enabled">
-<!ENTITY pref_plugins_tap_to_play "Tap to play">
-<!ENTITY pref_plugins_disabled "Disabled">
-<!ENTITY pref_text_size "Text size">
-<!ENTITY pref_font_size_tiny "Tiny">
-<!ENTITY pref_font_size_small "Small">
-<!ENTITY pref_font_size_medium "Medium">
+<!ENTITY pref_char_encoding "ਅੱਖਰ ਇੰਕੋਡਿੰਗ">
+<!ENTITY pref_char_encoding_on "ਮੇਨੂ ਵੇਖਾਓ">
+<!ENTITY pref_char_encoding_off "ਮੇਨੂ ਨਾ ਵੇਖਾਓ">
+<!ENTITY pref_clear_history "ਅਤੀਤ ਸਾਫ਼ ਕਰੋ">
+<!ENTITY pref_clear_history_confirm "ਬਰਾਊਜ਼ਿੰਗ ਅਤੀਤ ਨੂੰ ਹਟਾਇਆ ਜਾਵੇਗਾ।">
+<!ENTITY pref_clear_private_data "ਪ੍ਰਾਈਵੇਟ ਡਾਟਾ ਸਾਫ਼ ਕਰੋ">
+<!ENTITY pref_clear_private_data_confirm "ਬਰਾਊਜ਼ਿੰਗ ਸੈਟਿੰਗ, ਜਿਸ ਵਿੱਚ ਪਾਸਵਰਡ ਅਤੇ ਕੂਕੀਜ਼ ਹਨ, ਨੂੰ ਹਟਾਇਆ ਜਾਵੇਗਾ।">
+<!ENTITY pref_plugins "ਪਲੱਗਇਨ">
+<!ENTITY pref_plugins_enabled "ਚਾਲੂ ਹਨ">
+<!ENTITY pref_plugins_tap_to_play "ਚਲਾਉਣ ਲਈ ਛੂਹੋ">
+<!ENTITY pref_plugins_disabled "ਬੰਦ ਹਨ">
+<!ENTITY pref_text_size "ਟੈਕਸਟ ਆਖਾਰ">
+<!ENTITY pref_font_size_tiny "ਨਿੰਮਾ">
+<!ENTITY pref_font_size_small "ਛੋਟਾ">
+<!ENTITY pref_font_size_medium "ਮੱਧਮ">
 <!ENTITY pref_font_size_large "ਵੱਡੇ">
 <!ENTITY pref_font_size_xlarge "ਬਹੁਤ ਵੱਡੇ">
 <!ENTITY pref_use_master_password "ਮਾਸਟਰ ਪਾਸਵਰਡ ਵਰਤੋਂ">
@@ -89,21 +90,21 @@
 <!ENTITY site_settings_clear        "ਸਾਫ਼ ਕਰੋ">
 <!ENTITY site_settings_no_settings  "ਸਾਫ਼ ਕਰਨ ਲਈ ਕੋਈ ਵੀ ਸੈਟਿੰਗ ਨਹੀਂ ਹੈ।">
 
-<!ENTITY masterpassword_create_title "Create Master Password">
-<!ENTITY masterpassword_remove_title "Remove Master Password">
+<!ENTITY masterpassword_create_title "ਮਾਸਟਰ ਪਾਸਵਰਡ ਬਣਾਓ">
+<!ENTITY masterpassword_remove_title "ਮਾਸਟਰ ਪਾਸਵਰਡ ਹਟਾਓ">
 <!ENTITY masterpassword_password "ਪਾਸਵਰਡ">
 <!ENTITY masterpassword_confirm "ਪਾਸਵਰਡ ਪੁਸ਼ਟੀ">
 
 <!ENTITY button_ok "ਠੀਕ">
 <!ENTITY button_cancel "ਰੱਦ">
 
-<!ENTITY abouthome_addons_title "Add-ons for your &brandShortName;">
-<!ENTITY abouthome_addons_browse "Browse all &brandShortName; add-ons">
+<!ENTITY abouthome_addons_title "ਤੁਹਾਡੇ &brandShortName; ਲਈ ਐਡ-ਆਨ">
+<!ENTITY abouthome_addons_browse "ਸਭ &brandShortName; ਐਡ-ਆਨ ਵੇਖੋ">
 <!ENTITY abouthome_last_tabs_title "ਪਿਛਲੀ ਵਾਰ ਦੀਆਂ ਤੁਹਾਡੀਆਂ ਟੈਬਾਂ">
 <!ENTITY abouthome_last_tabs_open "ਪਿਛਲੇ ਵਾਰ ਦੀਆਂ ਸਭ ਸਾਈਟਾਂ ਖੋਲ੍ਹੋ">
 <!ENTITY abouthome_top_sites_title "ਚੋਟੀਆਂ ਦੀਆਂ ਸਾਈਟਾਂ">
 <!ENTITY abouthome_top_sites_browse "ਆਪਣੀ ਸਭ ਚੋਟੀਆਂ ਦੀਆਂ ਸਾਈਟਾਂ ਖੋਲ੍ਹੋ">
-<!ENTITY abouthome_no_top_sites "You do not have any top sites yet. Tap the Title Bar to start browsing.">
-<!ENTITY abouthome_about_sync "Set up Firefox Sync to access bookmarks, history and tabs from your other devices">
+<!ENTITY abouthome_no_top_sites "ਤੁਹਾਡੇ ਕੋਲ ਹਾਲੇ ਕੋਈ ਵੀ ਚੋਟੀ ਦੀ ਸਾਈਟ ਨਹੀਂ ਹੈ। ਬਰਾਊਜ਼ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਟਾਈਟਲ ਪੱਟੀ ਨੂੰ ਛੂਹੋ।">
+<!ENTITY abouthome_about_sync "ਆਪਣੇ ਹੋਰ ਜੰਤਰਾਂ ਤੋਂ ਬੁੱਕਮਾਰਕ, ਅਤੀਤ ਅਤੇ ਟੈਬਾਂ ਨੂੰ ਵਰਤਣ ਲਈ ਫਾਇਰਫਾਕਸ ਸਿੰਕ ਸੈਟ ਅੱਪ ਕਰੋ">
 <!ENTITY abouthome_sync_bold_name "ਫਾਇਰਫਾਕਸ ਸਿੰਕ">
 
