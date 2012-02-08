@@ -31,7 +31,7 @@
 <!ENTITY saveFileAsCmd.accesskey      "l">
 
 <!ENTITY closeCmd.label               "Sulge">
-<!ENTITY closeCmd.key                 "S">
+<!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "u">
 
 <!ENTITY editMenu.label               "Redigeerimine">
