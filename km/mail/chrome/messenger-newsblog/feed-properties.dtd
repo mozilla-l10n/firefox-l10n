@@ -1,0 +1,20 @@
+<!-- Feed Properties Dialog -->
+<!ENTITY window.title             "Շղթայի հատկությունները">
+
+<!ENTITY feedFolder.label         "Տեղավորել հոդվածը`">
+<!ENTITY feedFolder.accesskey     "S">
+
+<!ENTITY feedLocation.label       "Շղթայի URL-ն`">
+<!ENTITY feedLocation.accesskey   "F">
+
+<!ENTITY choosethisfolder.label   "ընտրեք այս թղթապանակը">
+
+<!ENTITY quickMode.label          "Ցուցադրել հոդվածի ընդհանուր պատկերը` վեբ էջի փոխարեն">
+<!ENTITY quickMode.accesskey      "h">
+
+<!ENTITY copyLinkCmd.label        "Պատճենել հղման հասցեն">
+<!ENTITY copyLinkCmd.accesskey    "C">
+
+<!ENTITY pasteLinkCmd.label       "Տեղադրել">
+<!ENTITY pasteLinkCmd.accesskey   "P">
+

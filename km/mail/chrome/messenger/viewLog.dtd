@@ -1,0 +1,9 @@
+<!ENTITY viewLog.title "Ֆիլտրի մատյանը">
+<!ENTITY viewLogInfo.text "Ֆիլտրի մատյանի ֆայլերը պարունակում են այս փոստարկղի բացված ֆիլտրերը։ Ընտրեք՝ միացնելու համար։">
+<!ENTITY clearLog.label "Մաքրել մատյանը">
+<!ENTITY clearLog.accesskey "C">
+<!ENTITY enableLog.label "Միացնել Ֆիլտրի մատյանը">
+<!ENTITY enableLog.accesskey "E">
+<!ENTITY closeLog.label "Փակել">
+<!ENTITY closeLog.accesskey "o">
+

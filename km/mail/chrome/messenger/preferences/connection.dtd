@@ -1,0 +1,38 @@
+<!ENTITY  connectionsDialog.title       "Connection Settings">
+<!ENTITY  window.width                   "37em">
+
+<!ENTITY  proxyTitle.label              "Configure Proxies to Access the Internet">
+<!ENTITY  noProxyTypeRadio.label        "Առանց պրոքսի">
+<!ENTITY  noProxyTypeRadio.accesskey    "y">
+<!ENTITY  systemTypeRadio.label         "Համակարգի պրոքսի կարգավորումները">
+<!ENTITY  systemTypeRadio.accesskey     "U">
+<!ENTITY  WPADTypeRadio.label           "Ինքնաբացահայտել պրոսքի կարգավորումը այս ցանցի համար">
+<!ENTITY  WPADTypeRadio.accesskey       "w">
+<!ENTITY  manualTypeRadio.label         "Պրոքսի ձեռադիր կարգավորում.">
+<!ENTITY  manualTypeRadio.accesskey     "M">
+<!ENTITY  autoTypeRadio.label           "Պրոքսի ինքնակարգավորման URL.">
+<!ENTITY  autoTypeRadio.accesskey       "A">
+<!ENTITY  reload.label                  "Վերաբեռնել">
+<!ENTITY  reload.accesskey              "l">
+<!ENTITY  http.label                    "HTTP պրոքսի.">
+<!ENTITY  http.accesskey                "H">
+<!ENTITY  ssl.label                     "SSL պրոսքի.">
+<!ENTITY  ssl.accesskey                 "S">
+<!ENTITY  socks.label                   "SOCKS Host:">
+<!ENTITY  socks.accesskey               "C">
+<!ENTITY  socks4.label                  "SOCKS v4">
+<!ENTITY  socks4.accesskey              "K">
+<!ENTITY  socks5.label                  "SOCKS v5">
+<!ENTITY  socks5.accesskey              "v">
+<!ENTITY  HTTPport.label                "Դարպասը.">
+<!ENTITY  HTTPport.accesskey            "P">
+<!ENTITY  SSLport.label                 "Դարպասը.">
+<!ENTITY  SSLport.accesskey             "o">
+<!ENTITY  SOCKSport.label               "Դարպասը.">
+<!ENTITY  SOCKSport.accesskey           "t">
+<!ENTITY  noproxy.label                 "Չկա պրոքսի՝">
+<!ENTITY  noproxy.accesskey             "N">
+<!ENTITY  noproxyExplain.label          "Example: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Օգտագործել այս պրոքսին բոլորի համար">
+<!ENTITY  shareproxy.accesskey          "x">
+

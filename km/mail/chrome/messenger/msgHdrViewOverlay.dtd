@@ -1,0 +1,149 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-1999
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+
+ Alternatively, the contents of this file may be used under the terms of
+ either the GNU General Public License Version 2 or later (the "GPL"), or
+ the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY toField2.label "to ">
+<!ENTITY fromField2.label "from ">
+<!ENTITY senderField2.label "sender ">
+<!ENTITY organizationField2.label "organization ">
+<!ENTITY replyToField2.label "reply-to ">
+
+<!ENTITY subjectField2.label "subject ">
+<!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
+<!ENTITY ccField2.label "cc ">
+<!ENTITY bccField2.label "bcc ">
+<!ENTITY newsgroupsField2.label "newsgroups ">
+<!ENTITY followupToField2.label "followup-to ">
+<!ENTITY tagsHdr2.label "tags ">
+<!ENTITY dateField2.label "date ">
+<!ENTITY userAgentField2.label "user-agent ">
+<!ENTITY referencesField2.label "references ">
+<!ENTITY messageIdField2.label "message-id ">
+<!ENTITY inReplyToField2.label "in-reply-to ">
+<!ENTITY originalWebsite2.label "website ">
+
+<!ENTITY editMessageDescription.label "This is a draft message">
+<!ENTITY editMessageButton.label "Edit…">
+<!ENTITY hdrArchiveButton.label "archive">
+<!ENTITY hdrArchiveButton.tooltip "archive this message">
+<!ENTITY hdrSmartReplyButton.label "smart reply">
+<!ENTITY hdrReplyButton.label "reply">
+<!ENTITY hdrReplyButton.tooltip "reply to this message">
+<!ENTITY hdrReplyAllButton.label "reply all">
+<!ENTITY hdrReplyAllButton.tooltip "reply to sender and all recipients">
+<!ENTITY hdrReplyListButton.label "reply list">
+<!ENTITY hdrReplyListButton.tooltip "reply to mailing list">
+<!ENTITY hdrForwardButton.label "forward">
+<!ENTITY hdrForwardButton.tooltip "forward this message">
+<!ENTITY hdrJunkButton.label "junk">
+<!ENTITY hdrJunkButton.tooltip "mark this message as junk">
+<!ENTITY hdrTrashButton.label "delete">
+<!ENTITY hdrTrashButton.tooltip "delete this message">
+
+<!ENTITY hdrViewToolbarShowFull.label "Ցուցադրել պատկերները և տեքստը">
+<!ENTITY hdrViewToolbarShowFull.accesskey "a">
+<!ENTITY hdrViewToolbarShowIcons.label "Ցուցադրել միայն պատկերները">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "I">
+<!ENTITY hdrViewToolbarShowText.label "Ցուցադրել միայն տեքստը">
+<!ENTITY hdrViewToolbarShowText.accesskey "T">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "Միշտ ցուցադրել պատասխանը ուղարկողին">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "R">
+
+<!ENTITY otherActionsButton.label "other actions">
+<!ENTITY otherActionsOpenConversation.label "բացել պատուհանում">
+<!ENTITY otherActionsOpenConversation.accesskey "c">
+<!ENTITY otherActionsOpenInNewWindow.label "բացել նոր պատուհանում">
+<!ENTITY otherActionsOpenInNewWindow.accesskey "w">
+<!ENTITY otherActionsOpenInNewTab.label "բացել նոր էջում">
+<!ENTITY otherActionsOpenInNewTab.accesskey "t">
+<!ENTITY markAsReadMenuItem.label "նշել որպես կարդացած">
+<!ENTITY markAsReadMenuItem.accesskey "r">
+<!ENTITY markAsUnreadMenuItem.label "նշել որպես չկարդացած">
+<!ENTITY markAsUnreadMenuItem.accesskey "r">
+<!ENTITY saveAsMenuItem.label "պահպանել որպես...">
+<!ENTITY saveAsMenuItem.accesskey "s">
+<!ENTITY viewSourceMenuItem.label "նայել աղբյուրը">
+<!ENTITY viewSourceMenuItem.accesskey "v">
+<!ENTITY otherActionsPrint.label "print…">
+<!ENTITY otherActionsPrint.accesskey "p">
+
+<!-- Attachment context menu items -->
+<!ENTITY openAttachmentCmd.label    "Բացել">
+<!ENTITY openAttachmentCmd.accesskey    "O">
+<!ENTITY saveAsAttachmentCmd.label    "Պահպանել որպես…">
+<!ENTITY saveAsAttachmentCmd.accesskey    "A">
+<!ENTITY detachAttachmentCmd.label    "Բաժանել...">
+<!ENTITY detachAttachmentCmd.accesskey    "t">
+<!ENTITY deleteAttachmentCmd.label    "Ջնջել">
+<!ENTITY deleteAttachmentCmd.accesskey    "l">
+<!ENTITY openAllAttachmentsCmd.label    "Բացել բոլորը...">
+<!ENTITY openAllAttachmentsCmd.accesskey    "O">
+<!ENTITY saveAllAttachmentsCmd.label    "Պահպանել բոլորը...">
+<!ENTITY saveAllAttachmentsCmd.accesskey    "S">
+<!ENTITY detachAllAttachmentsCmd.label    "Բաժանել բոլորը...">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "D">
+<!ENTITY deleteAllAttachmentsCmd.label    "Ջնջել բոլորը...">
+<!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
+
+<!-- Attachment toolbar items -->
+<!ENTITY saveAttachmentButton.label       "պահպանել">
+<!ENTITY saveAttachmentButton.tooltip     "save the attached file">
+<!ENTITY saveAllAttachmentsButton.label   "save all">
+<!ENTITY saveAllAttachmentsButton.tooltip "save all the attached files">
+<!ENTITY openAttachmentMenuItem.label     "բացել">
+<!ENTITY openAttachmentMenuItem.accesskey    "o">
+<!ENTITY saveAsAttachmentMenuItem.label    "պահպանել որպես...">
+<!ENTITY saveAsAttachmentMenuItem.accesskey    "s">
+<!ENTITY detachAttachmentMenuItem.label    "բաժանել...">
+<!ENTITY detachAttachmentMenuItem.accesskey    "d">
+<!ENTITY deleteAttachmentMenuItem.label    "ջնջել">
+<!ENTITY deleteAttachmentMenuItem.accesskey    "e">
+<!ENTITY openAllAttachmentsMenuItem.label    "բացել բոլորը...">
+<!ENTITY openAllAttachmentsMenuItem.accesskey    "o">
+<!ENTITY saveAllAttachmentsMenuItem.label    "պահպանել բոլորը...">
+<!ENTITY saveAllAttachmentsMenuItem.accesskey    "s">
+<!ENTITY detachAllAttachmentsMenuItem.label    "բաժանել բոլորը...">
+<!ENTITY detachAllAttachmentsMenuItem.accesskey    "d">
+<!ENTITY deleteAllAttachmentsMenuItem.label    "delete all…">
+<!ENTITY deleteAllAttachmentsMenuItem.accesskey    "e">
+
+<!ENTITY copyLinkCmd.label        "Պատճենել հղման հասցեն">
+<!ENTITY copyLinkCmd.accesskey    "C">
+
+<!ENTITY CopyMessageId.label "Copy Message-ID">
+<!ENTITY OpenMessageForMsgId.label "Open Message For ID">
+<!ENTITY OpenBrowserWithMsgId.label "Open Browser With Message-ID">
+

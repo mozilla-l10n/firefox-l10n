@@ -1,0 +1,30 @@
+<!ENTITY window.title "Նամակի ֆիլտրերը">
+<!ENTITY nameColumn.label "Ֆիլտրի անունը">
+<!ENTITY activeColumn.label "Միացված">
+<!ENTITY newButton.label "Նոր...">
+<!ENTITY newButton.accesskey "N">
+<!ENTITY editButton.label "Խմբագրել...">
+<!ENTITY editButton.accesskey "E">
+<!ENTITY deleteButton.label "Ջնջել">
+<!ENTITY deleteButton.accesskey "t">
+<!ENTITY reorderUpButton.label "Վեր">
+<!ENTITY reorderUpButton.accesskey "U">
+<!ENTITY reorderDownButton.label "Վար">
+<!ENTITY reorderDownButton.accesskey "D">
+<!ENTITY filterHeader.label "Միացված ֆիլտրերը կկատարվեն միանգամից։">
+<!ENTITY filtersForPrefix.label "Ֆիլտրեր՝">
+<!ENTITY filtersForPrefix.accesskey "F">
+<!ENTITY viewLogButton.label "Ֆիլտրի մատյանը">
+<!ENTITY viewLogButton.accesskey "L">
+<!ENTITY runFilters.label "Բացել">
+<!ENTITY runFilters.accesskey "R">
+<!ENTITY stopFilters.label "Կանգնեցնել">
+<!ENTITY stopFilters.accesskey "S">
+<!ENTITY folderPickerPrefix.label "Կատարել ընտրված ֆիլտրերը.">
+<!ENTITY folderPickerPrefix.accesskey "c">
+<!ENTITY choosethis.label "ընտրեք այս թղթապանակը">
+<!ENTITY choosethisnewsserver.label "ընտրել նորությունների այս սպասարկիչը">
+<!ENTITY helpButton.label "Օգնություն">
+<!ENTITY helpButton.accesskey "H">
+<!ENTITY closeCmd.key "W"> 
+

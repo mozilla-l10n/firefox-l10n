@@ -1,0 +1,60 @@
+<!-- these things need to move into utilityOverlay.xul -->
+
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
+
+<!ENTITY fileMenu.label          "Ֆայլ">
+<!ENTITY fileMenu.accesskey        "F">
+<!ENTITY newMenu.label            "Նոր">
+<!ENTITY newMenu.accesskey          "N">
+
+<!ENTITY editMenu.label          "Խմբագրել">
+<!ENTITY editMenu.accesskey        "E">
+<!ENTITY undoCmd.label            "Հետ">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "U">
+<!ENTITY redoCmd.label            "Կրկնել">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "R">
+<!ENTITY cutCmd.label            "Կտրել">
+<!ENTITY cutCmd.key              "X">
+<!ENTITY cutCmd.accesskey          "t">
+<!ENTITY copyCmd.label            "Պատճենել">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "C">
+<!ENTITY pasteCmd.label            "Տեղադրել">
+<!ENTITY pasteCmd.key            "V">
+<!ENTITY pasteCmd.accesskey          "P">
+<!ENTITY deleteCmd.label          "Ջնջել">
+<!ENTITY deleteCmd.accesskey        "D">
+<!ENTITY selectAllCmd.label          "Ընտրել բոլորը">
+<!ENTITY selectAllCmd.key          "A">
+<!ENTITY selectAllCmd.accesskey        "A">
+<!ENTITY preferencesCmd.label        "Ընտրնքներ...">
+<!ENTITY preferencesCmd.accesskey      "O">
+<!ENTITY preferencesCmdUnix.label       "Նախընտրանքներ">
+<!ENTITY preferencesCmdUnix.accesskey     "n">
+
+<!ENTITY viewMenu.label          "Տեսքը">
+<!ENTITY viewMenu.accesskey        "V">
+<!ENTITY viewToolbarsMenu.label        "Գործիքաշերտեր">
+<!ENTITY viewToolbarsMenu.accesskey      "T">
+<!ENTITY showTaskbarCmd.label          "Վիճակի տողը">
+<!ENTITY showTaskbarCmd.accesskey        "u">
+
+<!ENTITY proxy.label                                    "Պրոքսիի կարգավորում...">
+<!ENTITY proxy.accesskey                                "C">
+
+<!ENTITY closeCmd.label      "Փակել">
+<!ENTITY closeCmd.key      "W">
+<!ENTITY closeCmd.accesskey    "C">
+
+<!ENTITY quitApplicationCmd.label  "Փակել">
+<!ENTITY quitApplicationCmd.key    "Q">
+<!ENTITY quitApplicationCmd.accesskey  "x">
+
+<!ENTITY quitApplicationCmdUnix.label  "Փակել">
+<!ENTITY quitApplicationCmdUnix.accesskey  "Q">
+
+<!ENTITY quitApplicationCmdMac.label  "Փակել &brandShortName;-ը">
+<!ENTITY quitApplicationCmdMac.accesskey  "Q">
+

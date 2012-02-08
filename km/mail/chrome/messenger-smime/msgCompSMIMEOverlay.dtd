@@ -1,0 +1,17 @@
+<!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
+
+<!ENTITY menu_securityEncryptRequire.label "Կոդավորել հաղորդագրությունը">
+<!ENTITY menu_securityEncryptRequire.accesskey "E">
+
+<!ENTITY menu_securitySign.label "Թվային ստորագրել նամակը">
+<!ENTITY menu_securitySign.accesskey "M">
+
+<!ENTITY menu_securityStatus.label "Դիտել անվտանգության ինֆոն">
+<!ENTITY menu_securityStatus.accesskey "I">
+
+<!ENTITY securityButton.label "Անվտանգություն">
+<!ENTITY securityButton.tooltip "Նայեք կամ փոխեք անվտանգության կարգավորումը">
+
+<!ENTITY menu_viewSecurityStatus.label "Նամակի անվտանգության ինֆո">
+<!ENTITY menu_viewSecurityStatus.accesskey "I">
+

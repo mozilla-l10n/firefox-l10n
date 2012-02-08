@@ -1,0 +1,8 @@
+<!ENTITY identitiesListDesc.label "Բազմանույնականության աջակցում">
+<!ENTITY identitiesListAdd.label  "Ավելացնել...">
+<!ENTITY identitiesListAdd.accesskey  "A">
+<!ENTITY identitiesListEdit.label "Խմբագրել...">
+<!ENTITY identitiesListEdit.accesskey "E">
+<!ENTITY identitiesListDelete.label "Ջնջել">
+<!ENTITY identitiesListDelete.accesskey "D">
+

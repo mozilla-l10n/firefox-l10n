@@ -1,0 +1,8 @@
+<!ENTITY identityDialog.style "լայն-ը. 67ch;">
+<!ENTITY identityTitle.label "Նույնական. կարգ.">
+<!ENTITY identityListDesc.label "Կազմաձևել նույնականացման կարգ-ը.">
+
+<!ENTITY settingsTab.label       "Կարգավորումներ">
+<!ENTITY copiesFoldersTab.label "Թղթ.-ի &amp; պատճենում">
+<!ENTITY addressingTab.label    "Հասցեների &amp; կազմում">
+

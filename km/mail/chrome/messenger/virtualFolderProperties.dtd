@@ -1,0 +1,19 @@
+<!ENTITY virtualFolderProperties.title "Նոր պահպանված փնտրվող թղթապանակը.">
+<!ENTITY name.label                 "Անուն.">
+<!ENTITY name.accesskey             "N">
+<!ENTITY description.label          "Ստեղծել որպես ենթաթղթապանակ՝">
+<!ENTITY description.accesskey      "C">
+
+<!ENTITY searchTermCaption.label "Նշեք պահպանված փնտրվող այս թղթապանակի փնտրման կրիտերիան.">
+
+<!ENTITY folderSelectionCaption.label "Նշեք փնտրվող թղթապանակները.">
+<!ENTITY chooseFoldersButton.label "Ընտրել…">
+<!ENTITY chooseFoldersButton.accesskey "h">
+
+<!ENTITY searchOnline.label "Փնտրել առցանց (Տալիս է վերջին արդյունքները IMAP-ի և նորությունների թղթապանակի, բայց մեծացնում է թղթապանակը բացելու ժամանակը)">
+<!ENTITY searchOnline.accesskey "S">
+<!ENTITY newFolderButton.label       "Ստեղծել">
+<!ENTITY newFolderButton.accesskey   "r">
+<!ENTITY editFolderButton.label      "Թարմացնել">
+<!ENTITY editFolderButton.accesskey  "U">
+

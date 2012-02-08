@@ -1,0 +1,24 @@
+<!-- extracted from am-advanced.xul -->
+
+<!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpServer.label "Ելքային սպասարկիչի (SMTP) կարգավորումներ">
+
+<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpDesc.label "Չնայած որ Դուք կարող եք որոշել մեկից ավելի ելքային սպասարկիչներ (SMTP), սակայն դա խորհուրդ կտանք միայն գիտակ օգտվողներին։">
+
+<!ENTITY smtpListAdd.label  "Ավելացնել...">
+<!ENTITY smtpListAdd.accesskey  "d">
+<!ENTITY smtpListEdit.label "Խմբագրել...">
+<!ENTITY smtpListEdit.accesskey "E">
+<!ENTITY smtpListDelete.label "Ջնջել">
+<!ENTITY smtpListDelete.accesskey "m">
+<!ENTITY smtpListSetDefault.label "Նշել հինականը">
+<!ENTITY smtpListSetDefault.accesskey "t">
+
+<!ENTITY serverDescription.label "Նկարագրությունը.">
+<!ENTITY serverName.label "Սպասարկիչի անունը.">
+<!ENTITY serverPort.label "Պորտը.">
+<!ENTITY userName.label   "Օգտվողի անունը.">
+<!ENTITY connectionSecurity.label "Միացման անվտանգությունը.">
+<!ENTITY authMethod.label   "Վավերացման եղանակը.">
+

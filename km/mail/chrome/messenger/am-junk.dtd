@@ -1,0 +1,21 @@
+<!ENTITY junkSettings.label "Խլամի կարգավորումներ">
+<!ENTITY trainingWarning.label "Եթե միացրած է, ապա &brandShortName;-ը նախ պետք է փորձարկվի՝ օգտագործելով Խլամ կոճակը՝ նշելու համար նամակները խլամ են, թե ոչ։ Նախ Դուք պետք է որոշեք խլամ և ոչ խլամ նամակները։">
+<!ENTITY level.label "Միացնել խլամի ղեկավարումը այս փոստարկղում">
+<!ENTITY level.accesskey "E">
+
+<!ENTITY move.label "Տեղափ. խլամները՝">
+<!ENTITY move.accesskey "M">
+<!ENTITY junkFolderOn.label "&quot;Junk&quot; թղթապանակում՝">
+<!ENTITY junkFolderOn.accesskey "J">
+<!ENTITY otherFolder.label "Այլ.">
+<!ENTITY otherFolder.accesskey "O">
+<!ENTITY purge1.label "Միանգամից ջնջել խլամ նամակը, որը հին է՝">
+<!ENTITY purge1.accesskey "u">
+<!ENTITY purge2.label "օր">
+
+<!ENTITY whitelist.label "Նամակը չնել խլամ, եթե ուղարկողը՝">
+<!ENTITY whitelist.accesskey "D">
+
+<!ENTITY ispHeaders.label "Վստահել խլամ նամակի վերնագրին՝">
+<!ENTITY ispHeaders.accesskey "T">
+

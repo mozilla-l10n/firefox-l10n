@@ -1,0 +1,20 @@
+<!ENTITY editContactPanelDeleteContact.label "Ջնջել">
+<!ENTITY editContactPanelDeleteContact.accesskey "l">
+
+<!ENTITY editContactName.label "Անունը.">
+<!ENTITY editContactName.accesskey "N">
+
+<!ENTITY editContactEmail.label "Էլ. նամակը.">
+<!ENTITY editContactEmail.accesskey "E">
+
+<!ENTITY editContactAddressBook.label "Հասցեագիրքը.">
+<!ENTITY editContactAddressBook.accesskey "A">
+
+<!ENTITY editContactPanelCancel.label "Չեղարկել">
+<!ENTITY editContactPanelCancel.accesskey "C">
+
+<!ENTITY editContactPanelDone.label "Պատրաստ է">
+<!ENTITY editContactPanelDone.accesskey "D">
+
+<!ENTITY contactMoveDisabledWarning.description "Չեք կարող փոփոխել Հասցեագիրքը, որովհետև հասցեն նամաների ցանկում է։">
+

@@ -1,0 +1,21 @@
+<!ENTITY accountTitle.label "Փոստարկղի կարգավորումներ">
+
+<!ENTITY biffStart.label "Ստուգել թարմացումները յուրաքանչյուր՝">
+<!ENTITY biffStart.accesskey "k">
+<!ENTITY biffEnd.label "րոպե">
+
+<!ENTITY loginAtStartup.label "Բացելիս ստուգել նորությունները"> 
+<!ENTITY loginAtStartup.accesskey "C">
+
+<!ENTITY useQuickMode.label "Ըստ ծրագրայինի ցուցադրել հոդվածի ընդհանուր պատկերը, այլ ոչ վեբ էջը:"> 
+<!ENTITY useQuickMode.accesskey "B">
+
+<!ENTITY manageSubscriptions.label "Կառավարել բաժանորդագրությունները...."> 
+<!ENTITY manageSubscriptions.accesskey "M">
+
+<!-- entities from rss.rdf -->
+<!ENTITY feeds.accountName "Բլոգի &amp; Նորությունները">
+<!ENTITY feeds.wizardShortName "Շղթաներ">
+<!ENTITY feeds.wizardLongName "Բլոգի &amp; Նորությունները">
+<!ENTITY feeds.wizardLongName.accesskey "F">
+

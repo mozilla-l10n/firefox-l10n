@@ -1,0 +1,16 @@
+<!ENTITY aboutSupport.appBasicsAppBuildID "Ծրագրի մշակման ID-ին">
+
+<!ENTITY aboutSupport.accountsTitle "Նամակի և Նորության փոստարկղներ">
+<!ENTITY aboutSupport.showPrivateData.mainText "Ներառել փոստարկղի անունները">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(հնարավոր է տեղեկության որոշում)">
+<!ENTITY aboutSupport.accountsID "ID">
+<!ENTITY aboutSupport.accountsName "Անուն">
+<!ENTITY aboutSupport.accountsIncomingServer "Մուտքային սպասարկիչը">
+<!ENTITY aboutSupport.accountsOutgoingServers "Ելքային սպասարկիչը">
+<!ENTITY aboutSupport.accountsServerName "Անունը">
+<!ENTITY aboutSupport.accountsConnSecurity "Կապուղու անվտանգությունը">
+<!ENTITY aboutSupport.accountsAuthMethod "Վավերացման եղանակը">
+<!ENTITY aboutSupport.accountsDefault "Հիմնակա՞ն">
+
+<!ENTITY aboutSupport.sendViaEmail.label "Ուղարկել նամակով">
+

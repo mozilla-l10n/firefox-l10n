@@ -1,0 +1,20 @@
+<!ENTITY  typeColumn.label            "Պարունակության տեսակը">
+<!ENTITY  typeColumn.accesskey        "T">
+
+<!ENTITY  actionColumn2.label         "Գործողություն">
+<!ENTITY  actionColumn2.accesskey     "A">
+
+<!ENTITY  focusSearch1.key            "f">
+<!ENTITY  focusSearch2.key            "k">
+
+<!ENTITY  filter.placeholder          "Search">
+
+<!ENTITY saveTo.label                 "Պահել ֆայլերը՝">
+<!ENTITY saveTo.accesskey             "S">
+<!ENTITY alwaysAsk.label              "Միշտ հարցնել ֆայլերի պահման տեղը">
+<!ENTITY alwaysAsk.accesskey          "A">
+<!ENTITY chooseFolderWin.label        "Ընտրել…">
+<!ENTITY chooseFolderWin.accesskey    "B">
+<!ENTITY chooseFolderMac.label        "Ընտրել…">
+<!ENTITY chooseFolderMac.accesskey    "C">
+
