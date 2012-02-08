@@ -217,8 +217,13 @@ shortcut keys on Linux. -->
 <!ENTITY inspectButton.label            "Inspeccionar">
 <!ENTITY inspectButton.accesskey        "I">
 <!ENTITY inspectCloseButton.tooltiptext "Fechar Inspector">
-<!ENTITY inspect3DButton.label        "3D">
-<!ENTITY inspect3DButton.accesskey    "M">
+
+<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
+  -  alternate view for the Inspector, creating a 3D visualization of the
+  -  webpage. -->
+<!ENTITY inspect3DViewButton.label        "Vista 3D">
+<!ENTITY inspect3DViewButton.accesskey    "V">
+
 <!ENTITY inspectStyleButton.label     "Estilo">
 <!ENTITY inspectStyleButton.accesskey "s">
 
