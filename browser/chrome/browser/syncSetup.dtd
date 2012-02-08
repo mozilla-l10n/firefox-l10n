@@ -34,7 +34,7 @@
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
 <!ENTITY setup.tosAgree1.label      "Pajtohem me">
-<!ENTITY setup.tosAgree1.accesskey  "p">
+<!ENTITY setup.tosAgree1.accesskey  "P">
 <!ENTITY setup.tosLink.label        "Kushtet e Shërbimit">
 <!ENTITY setup.tosAgree2.label      "dhe">
 <!ENTITY setup.ppLink.label         "Rregullat e Vetësisë">
@@ -47,7 +47,7 @@
 <!ENTITY recoveryKeyEntry.label        "Kyçi Juaj i Riparimeve">
 <!ENTITY recoveryKeyEntry.accesskey    "K">
 <!ENTITY syncGenerateNewKey.label  "Prodho një kyç të ri">
-<!ENTITY recoveryKeyBackup.description "Kyçi Juaj i Riparimeve nevojitet për të hyrë te &syncBrand.fullName.label; në makinat e tjera. Ju lutem, bëjini një kopje kopjeruajtjeje. Nuk ju ndihmojmë dot të rimerrni Kyçin tuaj të Riparimeve.">
+<!ENTITY recoveryKeyBackup.description "Kyçi Juaj i Riparimeve nevojitet për të hyrë te &syncBrand.fullName.label; në makinat e tjera. Ju lutem, bëjini një kopje kopjeruajtëse. Nuk ju ndihmojmë dot të rimerrni Kyçin tuaj të Riparimeve.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Shtypeni…">
 <!ENTITY button.syncKeyBackup.print.accesskey "S">
@@ -81,13 +81,13 @@
 <!ENTITY syncComputerName.accesskey   "E">
 
 <!ENTITY syncMy.label               "Njëkohëso">
-<!ENTITY engine.bookmarks.label     "Faqerojtësit e Mij">
+<!ENTITY engine.bookmarks.label     "Faqerojtësit e Mi">
 <!ENTITY engine.bookmarks.accesskey "F">
 <!ENTITY engine.tabs.label          "Skedat e Mia">
 <!ENTITY engine.tabs.accesskey      "S">
 <!ENTITY engine.history.label       "Historikun Tim">
 <!ENTITY engine.history.accesskey   "H">
-<!ENTITY engine.passwords.label     "Fjalëkalimet e Mij">
+<!ENTITY engine.passwords.label     "Fjalëkalimet e Mi">
 <!ENTITY engine.passwords.accesskey "k">
 <!ENTITY engine.prefs.label         "Parapëlqimet e Mia">
 <!ENTITY engine.prefs.accesskey     "P">
@@ -95,7 +95,7 @@
 <!ENTITY engine.addons.accesskey    "t">
 
 
-<!ENTITY choice2.merge.main.label      "Përzieni të dhënat e këtij kompjuteri me të dhënat e mia nga &syncBrand.shortName.label;-u">
+<!ENTITY choice2.merge.main.label      "Përzie të dhënat e këtij kompjuteri me të dhënat e mia nga &syncBrand.shortName.label;-u">
 <!ENTITY choice2.merge.recommended.label "E këshilluar:">
 <!ENTITY choice2.client.main.label     "Zëvendëso krejt të dhënat në këtë kompjuter me të dhënat e mia nga &syncBrand.shortName.label;">
 <!ENTITY choice2.server.main.label     "Zëvendëso te krejt pajisjet e tjera me të dhënat nga ky kompjuter">

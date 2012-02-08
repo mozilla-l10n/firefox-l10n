@@ -2,7 +2,7 @@
 <!ENTITY sendMail.title               "Format Teksti">
 <!ENTITY sendMaildesc.label           "Kur dërgohen mesazhe në format HTML, dhe një a më shumë nga marrësit nuk janë te lista e atyre që munden të marrin HTML:">
 <!ENTITY askMe.label                  "Pyetmë ç&apos;të bëj">
-<!ENTITY askMe.accesskey              "p">
+<!ENTITY askMe.accesskey              "P">
 <!ENTITY convertPlain.label           "Shndërroje mesazhin në tekst të thjeshtë">
 <!ENTITY convertPlain.accesskey       "S">
 <!ENTITY sendHTML.label               "Dërgoje mesazhin si HTML, sido qoftë">

@@ -16,7 +16,7 @@
 <!ENTITY mapeditMenu.label "Përpunim">
 <!ENTITY mapeditMenu.accesskey "P">
 <!ENTITY cutCmd.label "Prije">
-<!ENTITY cutCmd.accesskey "j">
+<!ENTITY cutCmd.accesskey "i">
 <!ENTITY copyCmd.label "Kopjoje">
 <!ENTITY copyCmd.accesskey "k">
 <!ENTITY pasteCmd.label "Ngjite">

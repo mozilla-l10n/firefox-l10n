@@ -31,7 +31,7 @@
 <!ENTITY preferencesCmd.label				"Mundësi…">
 <!ENTITY preferencesCmd.accesskey			"M"> 
 <!ENTITY preferencesCmdUnix.label       "Parapëlqime">
-<!ENTITY preferencesCmdUnix.accesskey     "q"> 
+<!ENTITY preferencesCmdUnix.accesskey     "a"> 
 
 <!ENTITY viewMenu.label					"Shfaqje"> 
 <!ENTITY viewMenu.accesskey				"S"> 

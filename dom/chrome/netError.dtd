@@ -28,7 +28,7 @@
 <!ENTITY netOffline.longDesc2 "<p>Shfletuesi po punon në mënyrën &quot;offline&quot; dhe nuk lidhet dot te objekti i kërkuar.</p><ul><li>A është kompjuteri i lidhur te një rrjet aktiv?</li><li>Shtypni &quot;Riprovoni&quot; që të kaloni nën mënyrën &quot;online&quot; dhe të ringarkoni faqen.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Gabim Kodimi i Përmbajtjes">
-<!ENTITY contentEncodingError.longDesc "<p>Faqja që po provoni të shihni nuk shfaqet dot sepse përdor një formë ngjeshjeje të mangët ose të pambuluar.</p><ul><li>Ju lutem, lidhuni me të zotët e &quot;site&quot;-it web për t&apos;u bërë të ditur këtë problem.</li></ul>">
+<!ENTITY contentEncodingError.longDesc "<p>Faqja që po provoni të shihni nuk shfaqet dot, sepse përdor një formë ngjeshjeje të mangët ose të pambuluar.</p><ul><li>Ju lutem, lidhuni me të zotët e &quot;site&quot;-it web për t&apos;u bërë të ditur këtë problem.</li></ul>">
 
 <!ENTITY netReset.title "Lidhje e Ndërprerë">
 <!ENTITY netReset.longDesc "<p>Lidhja te rrjeti u ndërpre ndërkohë që bëheshin përpjekje për lidhje. Ju lutem, riprovoni.</p>">

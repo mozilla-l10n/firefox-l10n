@@ -20,7 +20,7 @@
 <!ENTITY newWindowCmd.commandkey      "n">
 
 <!ENTITY openFileCmd.label            "Hapni Kartelë…">
-<!ENTITY openFileCmd.accesskey        "K">
+<!ENTITY openFileCmd.accesskey        "H">
 <!ENTITY openFileCmd.commandkey       "o">
 
 <!ENTITY saveFileCmd.label            "Ruaje">
@@ -43,15 +43,15 @@
 
 <!ENTITY redoCmd.label                "Ribëje">
 <!ENTITY redoCmd.key                  "Y">
-<!ENTITY redoCmd.accesskey            "b">
+<!ENTITY redoCmd.accesskey            "R">
 
 <!ENTITY cutCmd.label                 "Prije">
 <!ENTITY cutCmd.key                   "X">
-<!ENTITY cutCmd.accesskey             "i">
+<!ENTITY cutCmd.accesskey             "P">
 
 <!ENTITY copyCmd.label                "Kopjoje">
 <!ENTITY copyCmd.key                  "C">
-<!ENTITY copyCmd.accesskey            "o">
+<!ENTITY copyCmd.accesskey            "K">
 
 <!ENTITY pasteCmd.label               "Ngjite">
 <!ENTITY pasteCmd.key                 "V">
@@ -59,18 +59,18 @@
 
 <!ENTITY selectAllCmd.label           "Përzgjidhe Krejt">
 <!ENTITY selectAllCmd.key             "A">
-<!ENTITY selectAllCmd.accesskey       "g">
+<!ENTITY selectAllCmd.accesskey       "ë">
 
 <!ENTITY run.label                    "Xhiroje">
 <!ENTITY run.accesskey                "X">
 <!ENTITY run.key                      "r">
 
 <!ENTITY inspect.label                "Kontrolloje">
-<!ENTITY inspect.accesskey            "M">
+<!ENTITY inspect.accesskey            "K">
 <!ENTITY inspect.key                  "i">
 
-<!ENTITY display.label                "Shfaq">
-<!ENTITY display.accesskey            "q">
+<!ENTITY display.label                "Shfaqe">
+<!ENTITY display.accesskey            "S">
 <!ENTITY display.key                  "l">
 
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was

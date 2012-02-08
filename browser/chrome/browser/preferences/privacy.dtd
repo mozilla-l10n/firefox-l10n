@@ -24,13 +24,13 @@
 <!ENTITY  acceptThirdParty.label        "Prano &quot;cookie&quot; palësh të treta">
 <!ENTITY  acceptThirdParty.accesskey    "e">
 
-<!ENTITY  locbar.pre.label              "Kur përdoret shtylla e vendeve, këshillo:">
+<!ENTITY  locbar.pre.label              "Kur përdoret shtylla e vendeve, jep sugjerime:">
 <!ENTITY  locbar.pre.accessKey          "K">
 <!ENTITY  locbar.post.label             "">
-<!ENTITY  locbar.both.label             "Historik dhe Faqerojtësa">
-<!ENTITY  locbar.history.label          "Historik">
-<!ENTITY  locbar.bookmarks.label        "Faqerojtësa">
-<!ENTITY  locbar.nothing.label          "Asgjë">
+<!ENTITY  locbar.both.label             "Historiku dhe Faqerojtësish">
+<!ENTITY  locbar.history.label          "Historiku">
+<!ENTITY  locbar.bookmarks.label        "Faqerojtësish">
+<!ENTITY  locbar.nothing.label          "Për Asgjë">
 
 
 <!ENTITY  rememberSearchForm.label       "Mba mend historik shfletimesh dhe formularësh">
@@ -73,7 +73,7 @@
 
 <!ENTITY  rememberDescription.label      "&brandShortName;-i do të mbajë mend historikun e shfletimeve tuaja, shkarkimeve, kërkimeve dhe formularëve, dhe do të depozitojë &quot;cookies&quot; prej &quot;site&quot;-eve Web që vizitoni.">
 
-<!ENTITY  privateBrowsingPermanent2.label "Përdor përherë mënyrëm e shfletimit vetjak">
+<!ENTITY  privateBrowsingPermanent2.label "Përdor përherë mënyrën e shfletimit vetjak">
 <!ENTITY  privateBrowsingPermanent2.accesskey "P">
 
 <!ENTITY  rememberHistory.label      "Mba mend historikun tim të shfletimit">

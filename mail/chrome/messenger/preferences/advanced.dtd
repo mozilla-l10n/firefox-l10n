@@ -13,7 +13,7 @@
 <!ENTITY enableGlodaSearch.accesskey   "A">
 <!ENTITY systemIntegration.label       "Integrim me Sistemin">
 <!ENTITY alwaysCheckDefault.label      "Gjatë nisjes, kontrollo përherë nëse është apo jo &brandShortName;-i klienti parazgjedhje për postën">
-<!ENTITY alwaysCheckDefault.accesskey  "g">
+<!ENTITY alwaysCheckDefault.accesskey  "G">
 <!ENTITY searchIntegration.label       "Lejo &searchIntegration.engineName; të kërkojë në mesazhet">
 <!ENTITY searchIntegration.accesskey   "L">
 
@@ -30,7 +30,7 @@
 <!ENTITY reading.caption                "Lexim">
 <!ENTITY display.caption                "Paraqitje">
 <!ENTITY showCondensedAddresses.label  "Shfaq emra ekrani vetëm për persona në librin tim të adresave">
-<!ENTITY showCondensedAddresses.accesskey "q">
+<!ENTITY showCondensedAddresses.accesskey "e">
 
 <!ENTITY autoMarkAsRead.label          "Shënoji vetvetiu mesazhet si të lexuara">
 <!ENTITY autoMarkAsRead.accesskey      "v">

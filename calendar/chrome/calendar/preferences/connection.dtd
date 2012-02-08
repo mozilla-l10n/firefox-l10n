@@ -72,7 +72,7 @@
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "Pa Ndërmjetës për:">
-<!ENTITY  noproxy.accesskey             "j">
+<!ENTITY  noproxy.accesskey             "a">
 <!ENTITY  noproxyExplain.label          "Shembull: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Përdor këtë shërbyes ndërmjetës për tërë protokollet">
 <!ENTITY  shareproxy.accesskey          "ë">

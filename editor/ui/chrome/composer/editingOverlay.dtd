@@ -66,8 +66,8 @@
 <!ENTITY fileRevert.accesskey "k">
 
 <!-- Edit menu items -->
-<!ENTITY publishSettings.label "Rregullime Botimi Site-i…">
-<!ENTITY publishSettings.accesskey "g">
+<!ENTITY publishSettings.label "Rregullime Site-i Botimi…">
+<!ENTITY publishSettings.accesskey "B">
 
 <!-- Toolbar buttons/items -->
 <!ENTITY newToolbarCmd.label "I ri">

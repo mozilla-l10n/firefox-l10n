@@ -10,8 +10,8 @@
 <!ENTITY showTabBar.label             "Shfaqe përherë panelin e skedave">
 <!ENTITY showTabBar.accesskey         "S">
 
-<!ENTITY switchToNewTabs.label        "Kur e hap një lidhje si skedë të re, kalo menjëherë te ajo">
+<!ENTITY switchToNewTabs.label        "Kur një lidhje e hap si skedë të re, kalo menjëherë te ajo">
 <!ENTITY switchToNewTabs.accesskey    "K">
 
-<!ENTITY showTabsInTaskbar.label          "Shfaq paraparje skedash te Windows taskbar">
-<!ENTITY showTabsInTaskbar.accesskey      "p">
+<!ENTITY showTabsInTaskbar.label          "Shfaq paraparje skedash te &quot;Windows taskbar&quot;">
+<!ENTITY showTabsInTaskbar.accesskey      "a">

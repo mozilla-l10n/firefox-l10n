@@ -147,7 +147,7 @@
 ">
 
 <!ENTITY cspFrameAncestorBlocked.title "Bllokuar nga Rregullat e Sigurisë për Lëndën">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName;-u e pengoi  ngarkimin e kësaj faqeje në këtë mënyrë, ngaqë për faqen ka rregulla sigurie lënde që nuk e lejojnë këtë.</p>">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName;-u e pengoi ngarkimin e kësaj faqeje në këtë mënyrë, ngaqë për faqen ka rregulla sigurie lënde që nuk e lejojnë këtë.</p>">
 
 <!ENTITY corruptedContentError.title "Gabim nga Lëndë e Dëmtuar">
 <!ENTITY corruptedContentError.longDesc "<p>Faqja që po përpiqeni të shihni nuk mund të shfaqet, ngaqë u kap një gabim në transmetimin e të dhënave.</p><ul><li>Ju lutem, lidhuni me të zotët e site-it web për t&apos;u njoftuar këtë problem.</li></ul>">

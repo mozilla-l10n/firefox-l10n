@@ -13,6 +13,6 @@
 <!ENTITY searchOnline.label "Kërkoni &quot;Online&quot; (Jep përfundime të përditësuara për dosje IMAP dhe Lajmesh, por rrit kohën e hapjes së dosjes)">
 <!ENTITY searchOnline.accesskey "O">
 <!ENTITY newFolderButton.label       "Krijoje">
-<!ENTITY newFolderButton.accesskey   "j">
+<!ENTITY newFolderButton.accesskey   "o">
 <!ENTITY editFolderButton.label      "Përditësoje">
 <!ENTITY editFolderButton.accesskey  "P">

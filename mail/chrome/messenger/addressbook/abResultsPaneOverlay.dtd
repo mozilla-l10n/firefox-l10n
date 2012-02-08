@@ -23,7 +23,7 @@
 <!ENTITY HomePhone.label                       "Telefon Banese">
 <!ENTITY HomePhone.accesskey                   "s">
 <!ENTITY WorkPhone.label                       "Telefon Pune">
-<!ENTITY WorkPhone.accesskey                   "p">
+<!ENTITY WorkPhone.accesskey                   "P">
 <!ENTITY ScreenName.label                      "Emër në Ekran">
 <!ENTITY ScreenName.accesskey                  "k">
 <!ENTITY sortAscending.label                   "Rritës">

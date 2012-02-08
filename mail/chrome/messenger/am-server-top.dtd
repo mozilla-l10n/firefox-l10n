@@ -51,7 +51,7 @@
 	 of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Pyetmë para se të shkarkosh më shumë se">
-<!ENTITY maxMessagesStart.accesskey "p">
+<!ENTITY maxMessagesStart.accesskey "P">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "mesazhe">
 <!ENTITY alwaysAuthenticate.label "Kërko përherë mirëfilltësim kur lidhesh me këtë shërbyes">

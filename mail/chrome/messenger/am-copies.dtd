@@ -8,7 +8,7 @@
 <!ENTITY bccAddress.label "Bcc për këto adresa email:">
 <!ENTITY bccAddress.accesskey "B">
 <!ENTITY saveMessageDlg.label "Shfaq dialog ripohimi kur ruhen mesazhe">
-<!ENTITY saveMessageDlg.accesskey "q">
+<!ENTITY saveMessageDlg.accesskey "f">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY sentFolderOn.label "Dosje &quot;Të dërguar&quot; në:">
 <!ENTITY sentFolderOn.accesskey "d">

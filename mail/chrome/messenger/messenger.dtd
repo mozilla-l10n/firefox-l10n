@@ -17,16 +17,16 @@
      window.
      -->
 <!ENTITY moveToNewWindow.label "Kaloje në Dritare të Re">
-<!ENTITY moveToNewWindow.accesskey "j">
+<!ENTITY moveToNewWindow.accesskey "K">
 
 <!ENTITY newVirtualFolderCmd.label "Kërkim i Ruajtur…">
 <!ENTITY newVirtualFolderCmd.accesskey "K">
 <!ENTITY newOtherAccountsCmd.label "Tjetër Llogari…">
 <!ENTITY newOtherAccountsCmd.accesskey "T">
 <!ENTITY newCreateEmailAccountCmd.label "Hapni një Llogari të Re Poste…">
-<!ENTITY newCreateEmailAccountCmd.accesskey "R">
+<!ENTITY newCreateEmailAccountCmd.accesskey "H">
 <!ENTITY newExistingEmailAccountCmd.label "Llogari Poste Ekzistuese…">
-<!ENTITY newExistingEmailAccountCmd.accesskey "u">
+<!ENTITY newExistingEmailAccountCmd.accesskey "E">
 <!ENTITY openMessageFileCmd.label "Hapni Mesazh të Ruajtur…">
 <!ENTITY openMessageFileCmd.accesskey "H">
 <!ENTITY openAttachmentCmd.label "Bashkangjitje">
@@ -39,7 +39,7 @@
 <!ENTITY saveAsTemplateCmd.label "Gjedhe">
 <!ENTITY saveAsTemplateCmd.accesskey "G">
 <!ENTITY getNewMsgForCmd.label "Merr Mesazhe të Rinj për">
-<!ENTITY getNewMsgForCmd.accesskey "e">
+<!ENTITY getNewMsgForCmd.accesskey "R">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Tërë Llogaritë">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "T">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Llogarinë e Tanishme">
@@ -64,7 +64,7 @@
 <!ENTITY offlineMenu.label "I palidhur">
 <!ENTITY offlineMenu.accesskey "I">
 <!ENTITY offlineGoOfflineCmd.label "Punoni i Palidhur">
-<!ENTITY offlineGoOfflineCmd.accesskey "p">
+<!ENTITY offlineGoOfflineCmd.accesskey "P">
 <!ENTITY synchronizeOfflineCmd.label "Shkarkoni/Njëkohësoni Tani…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
 <!ENTITY settingsOfflineCmd.label "Rregullime për i Palidhur…">
@@ -72,14 +72,14 @@
 <!ENTITY downloadSelectedCmd.label "Merr Mesazhet e Përzgjedhur">
 <!ENTITY downloadSelectedCmd.accesskey "u">
 <!ENTITY downloadStarredCmd.label "Merr Mesazhet me Yllkë">
-<!ENTITY downloadStarredCmd.accesskey "y">
+<!ENTITY downloadStarredCmd.accesskey "Y">
 <!ENTITY printCmd.label "Shtypni…">
-<!ENTITY printCmd.accesskey "S">
+<!ENTITY printCmd.accesskey "y">
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Paraparje e Shtypjes">
-<!ENTITY printPreviewCmd.accesskey "p">
+<!ENTITY printPreviewCmd.accesskey "a">
 <!ENTITY printSetupCmd.label "Rregullim Faqeje…">
-<!ENTITY printSetupCmd.accesskey "j">
+<!ENTITY printSetupCmd.accesskey "l">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Fshije Mesazhin">
@@ -88,14 +88,14 @@
 <!ENTITY undeleteMsgCmd.accesskey "Ç">
 <!ENTITY deleteMsgsCmd.label "Fshi Mesazhet e Përzgjedhur">
 <!ENTITY deleteMsgsCmd.accesskey "s">
-<!ENTITY undeleteMsgsCmd.label "Çfshi Mesazhet e Përzgjedhur">
+<!ENTITY undeleteMsgsCmd.label "Çfshiji Mesazhet e Përzgjedhur">
 <!ENTITY undeleteMsgsCmd.accesskey "i">
-<!ENTITY deleteFolderCmd.label "Fshi Dosjen">
+<!ENTITY deleteFolderCmd.label "Fshije Dosjen">
 <!ENTITY deleteFolderCmd.accesskey "j">
 <!ENTITY unsubscribeNewsgroupCmd.label "Çpajtohuni">
 <!ENTITY unsubscribeNewsgroupCmd.accesskey "h">
 <!ENTITY selectMenu.label "Përzgjidhni">
-<!ENTITY selectMenu.accesskey "P">
+<!ENTITY selectMenu.accesskey "ë">
 <!ENTITY all.label "Krejt">
 <!ENTITY all.accesskey "K">
 <!ENTITY selectThreadCmd.label "Rrjedhë">
@@ -175,7 +175,7 @@
 <!ENTITY sortBySizeCmd.label "Madhësish">
 <!ENTITY sortBySizeCmd.accesskey "h">
 <!ENTITY sortByStatusCmd.label "Gjendjeje">
-<!ENTITY sortByStatusCmd.accesskey "g">
+<!ENTITY sortByStatusCmd.accesskey "G">
 <!ENTITY sortByTagsCmd.label "Etiketash">
 <!ENTITY sortByTagsCmd.accesskey "e">
 <!ENTITY sortByJunkStatusCmd.label "Gjendjeje të Pavlere">
@@ -579,7 +579,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextRemove.label "Fshije">
 <!ENTITY folderContextRemove.accesskey "F">
 <!ENTITY folderContextCompact.label "Ngjeshe">
-<!ENTITY folderContextCompact.accesskey "g">
+<!ENTITY folderContextCompact.accesskey "e">
 <!ENTITY folderContextEmptyTrash.label "Zbraz Hedhurinat">
 <!ENTITY folderContextEmptyTrash.accesskey "Z">
 <!ENTITY folderContextEmptyJunk.label "Zbraz të Pavlerat">
@@ -593,14 +593,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextMarkMailFolderRead.label "Shënoje Dosjen si Të lexuar">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "D">
 <!ENTITY folderContextSubscribe.label "Pajtohuni…">
-<!ENTITY folderContextSubscribe.accesskey "p">
+<!ENTITY folderContextSubscribe.accesskey "P">
 <!ENTITY folderContextSearchForMessages.label "Kërkoni Te Mesazhet…">
 <!ENTITY folderContextSearchForMessages.accesskey "K">
 
 <!ENTITY folderContextProperties.label "Veti…">
 <!ENTITY folderContextProperties.accesskey "V">
 <!ENTITY folderContextFavoriteFolder.label "Dosje e të Parapëlqyerve">
-<!ENTITY folderContextFavoriteFolder.accesskey "q">
+<!ENTITY folderContextFavoriteFolder.accesskey "o">
 <!ENTITY folderContextSettings.label "Rregullime…">
 <!ENTITY folderContextSettings.accesskey "R">
 
@@ -838,15 +838,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY saveLinkAsCmd.label "Ruajeni Lidhjen Si…">
 <!ENTITY saveLinkAsCmd.accesskey "L">
 <!ENTITY saveImageAsCmd.label "Ruajeni Figurën Si…">
-<!ENTITY saveImageAsCmd.accesskey "R">
+<!ENTITY saveImageAsCmd.accesskey "F">
 <!ENTITY copyLinkCmd.label "Kopjo Vend Lidhjeje">
 <!ENTITY copyLinkCmd.accesskey "V">
 <!ENTITY copyImageAllCmd.label "Kopjo Pamjen">
-<!ENTITY copyImageAllCmd.accesskey "j">
+<!ENTITY copyImageAllCmd.accesskey "P">
 <!ENTITY copyEmailCmd.label "Kopjo Adresë Email">
 <!ENTITY copyEmailCmd.accesskey "E">
 <!ENTITY stopCmd.label "Ndale">
-<!ENTITY stopCmd.accesskey "D">
+<!ENTITY stopCmd.accesskey "N">
 <!ENTITY reloadCmd.label "Ringarkoje">
 <!ENTITY reloadCmd.accesskey "R">
 <!ENTITY openInBrowser.label "Hape Në Shfletues">

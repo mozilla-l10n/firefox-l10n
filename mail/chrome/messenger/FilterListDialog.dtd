@@ -6,7 +6,7 @@
 <!ENTITY editButton.label "Përpunojeni…">
 <!ENTITY editButton.accesskey "P">
 <!ENTITY deleteButton.label "Fshije">
-<!ENTITY deleteButton.accesskey "j">
+<!ENTITY deleteButton.accesskey "e">
 <!ENTITY reorderUpButton.label "Sipër">
 <!ENTITY reorderUpButton.accesskey "S">
 <!ENTITY reorderDownButton.label "Poshtë">

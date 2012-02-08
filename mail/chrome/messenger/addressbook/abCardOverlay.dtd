@@ -27,9 +27,9 @@
 <!ENTITY PhoneticField1.label           "Fonetike:">
 <!ENTITY PhoneticField2.label           "Fonetike:">
 <!ENTITY DisplayName.label              "Shfaqje:">
-<!ENTITY DisplayName.accesskey          "j">
+<!ENTITY DisplayName.accesskey          "S">
 <!ENTITY preferDisplayName.label        "Parapëlqe përherë emër paraqitje në vend të titullit të mesazhit">
-<!ENTITY preferDisplayName.accesskey    "y">
+<!ENTITY preferDisplayName.accesskey    "a">
 <!ENTITY NickName.label                 "Nofkë:">
 <!ENTITY NickName.accesskey             "N">
 
@@ -51,11 +51,11 @@
 <!ENTITY allowRemoteContent1.tooltip     "Në mesazhet HTML është e mundur të trupëzohet lëndë nga burime të largëta. Hapja e mesazheve të tillë do të hapë një lidhje me këtë burim të jashtëm. Kjo mund të lejojë gjurmimin e mesazhit që lexohet. Duke i vënë shenjë kësaj kutize, do të lejoni për mesazhe HTML prej këtij kontakti lëndë të tillë të jashtme të trupëzuar.">
 
 <!ENTITY WorkPhone.label                "Pune:">
-<!ENTITY WorkPhone.accesskey            "u">
+<!ENTITY WorkPhone.accesskey            "P">
 <!ENTITY HomePhone.label                "Banese:">
 <!ENTITY HomePhone.accesskey            "B">
 <!ENTITY FaxNumber.label                "Faks:">
-<!ENTITY FaxNumber.accesskey            "s">
+<!ENTITY FaxNumber.accesskey            "F">
 <!ENTITY PagerNumber.label              "Faques:">
 <!ENTITY PagerNumber.accesskey          "q">
 <!ENTITY CellularNumber.label           "Celular:">
@@ -68,9 +68,9 @@
 <!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "Qytet:">
-<!ENTITY HomeCity.accesskey             "q">
+<!ENTITY HomeCity.accesskey             "Q">
 <!ENTITY HomeState.label                "Shtet/Provincë:">
-<!ENTITY HomeState.accesskey            "h">
+<!ENTITY HomeState.accesskey            "S">
 <!ENTITY HomeZipCode.label              "ZIP/Kod Postal:">
 <!ENTITY HomeZipCode.accesskey          "Z">
 <!ENTITY HomeCountry.label              "Vend:">
@@ -85,10 +85,10 @@
 <!ENTITY Age.placeholder                  "Moshë">
 <!ENTITY YearsOld.label                 "">
 
-<!ENTITY Work.tab                       "Punë">
+<!ENTITY Work.tab                       "Pune">
 <!ENTITY Work.accesskey                 "P">
 <!ENTITY JobTitle.label                 "Titull:">
-<!ENTITY JobTitle.accesskey             "i">
+<!ENTITY JobTitle.accesskey             "T">
 <!ENTITY Department.label               "Degë:">
 <!ENTITY Department.accesskey           "d">
 <!ENTITY Company.label                  "Organizëm:">
@@ -98,7 +98,7 @@
 <!ENTITY WorkAddress2.label             "">
 <!ENTITY WorkAddress2.accesskey         "">
 <!ENTITY WorkCity.label                 "Qytet:">
-<!ENTITY WorkCity.accesskey             "q">
+<!ENTITY WorkCity.accesskey             "Q">
 <!ENTITY WorkState.label                "Shtet/Provincë:">
 <!ENTITY WorkState.accesskey            "S">
 <!ENTITY WorkZipCode.label              "ZIP/Kod Postal:">
@@ -119,7 +119,7 @@
 <!ENTITY Custom4.label                  "Vetjake 4:">
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "Shënime:">
-<!ENTITY Notes.accesskey                "h">
+<!ENTITY Notes.accesskey                "S">
 <!ENTITY Photo.tab                      "Foto">
 <!ENTITY Photo.accesskey                "f">
 <!ENTITY PhotoDesc.label                "Zgjidhni një nga vijueset:">
@@ -127,11 +127,11 @@
 <!ENTITY GenericPhoto.accesskey         "o">
 <!ENTITY DefaultPhoto.label             "Parazgjedhje">
 <!ENTITY PhotoFile.label                "Në këtë Kompjuter">
-<!ENTITY PhotoFile.accesskey            "n">
+<!ENTITY PhotoFile.accesskey            "K">
 <!ENTITY BrowsePhoto.label              "Shfletoni">
-<!ENTITY BrowsePhoto.accesskey          "h">
+<!ENTITY BrowsePhoto.accesskey          "S">
 <!ENTITY PhotoURL.label                 "Në Web">
 <!ENTITY PhotoURL.accesskey             "b">
-<!ENTITY PhotoURL.placeholder             "Hidhni ose shtypeni dorazi adresën web të një fotoje">
+<!ENTITY PhotoURL.placeholder           "Hidheni ose shtypeni dorazi adresën web të një fotoje">
 <!ENTITY UpdatePhoto.label              "Përditësojeni">
-<!ENTITY UpdatePhoto.accesskey          "d">
+<!ENTITY UpdatePhoto.accesskey          "P">

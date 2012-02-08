@@ -42,9 +42,9 @@
 
 <!ENTITY pref.alarmgoesoff.label "Kur një alarm mbaron:">
 <!ENTITY pref.playasound "Luaj një tingull">
-<!ENTITY pref.calendar.alarms.playsound.accessKey "l">
+<!ENTITY pref.calendar.alarms.playsound.accessKey "L">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "Përdor tingullin parazgjedhje">
-<!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "p">
+<!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "P">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Shfletoni…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "f">
 <!ENTITY pref.calendar.alarms.sound.preview.label "Paraparje">

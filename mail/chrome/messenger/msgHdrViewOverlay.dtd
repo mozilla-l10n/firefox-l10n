@@ -91,7 +91,7 @@
 <!ENTITY markAsReadMenuItem1.label "Shënoje si të Lexuar">
 <!ENTITY markAsReadMenuItem1.accesskey "l">
 <!ENTITY markAsUnreadMenuItem1.label "Shënoje si të Palexuar">
-<!ENTITY markAsUnreadMenuItem1.accesskey "p">
+<!ENTITY markAsUnreadMenuItem1.accesskey "P">
 <!ENTITY saveAsMenuItem1.label "Ruajeni si…">
 <!ENTITY saveAsMenuItem1.accesskey "S">
 <!ENTITY viewSourceMenuItem1.label "Shihni Burimin">
@@ -105,7 +105,7 @@
 <!ENTITY saveAsAttachmentCmd.label    "Ruajeni Si…">
 <!ENTITY saveAsAttachmentCmd.accesskey    "S">
 <!ENTITY detachAttachmentCmd.label    "Shqitni…">
-<!ENTITY detachAttachmentCmd.accesskey    "q">
+<!ENTITY detachAttachmentCmd.accesskey    "i">
 <!ENTITY deleteAttachmentCmd.label    "Fshije">
 <!ENTITY deleteAttachmentCmd.accesskey    "F">
 <!ENTITY openAllAttachmentsCmd.label    "Hapini Krejt…">
