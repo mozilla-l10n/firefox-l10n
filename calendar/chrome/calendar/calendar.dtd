@@ -63,7 +63,8 @@
 <!ENTITY calendar.events.filter.all.label "Todos os Eventos">
 <!ENTITY calendar.events.filter.today.label "Eventos de Hoje">
 <!ENTITY calendar.events.filter.future.label "Todos os Eventos Futuros">
-<!ENTITY calendar.events.filter.current.label "Dia Seleccionado">
+<!ENTITY calendar.events.filter.current.label "Dia Selecionado">
+<!ENTITY calender.events.filter.currentview.label "Eventos na vista atual">
 <!ENTITY calendar.events.filter.next7Days.label "Eventos nos Próximos 7 Dias">
 <!ENTITY calendar.events.filter.next14Days.label "Eventos nos Próximos 14 Dias">
 <!ENTITY calendar.events.filter.next31Days.label "Eventos nos Próximos 31 Dias">
@@ -176,8 +177,12 @@
 <!ENTITY calendar.task-details.due.label             "data de fim">
 
 <!ENTITY calendar.task.category.button.tooltip  "Categorizar tarefas">
-<!ENTITY calendar.task.complete.button.tooltip  "Marcar tarefas seleccionadas como efectuadas">
+<!ENTITY calendar.task.complete.button.tooltip  "Marcar tarefas selecionadas como efectuadas">
 <!ENTITY calendar.task.priority.button.tooltip  "Mudar Prioridade">
+
+<!ENTITY calendar.task.text-filter.textbox.emptytext.base            "Filtrar tarefasâ€¦ #1">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Shift+K&gt;">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label            "Documento: feito">
@@ -213,6 +218,8 @@
 <!ENTITY calendar.context.progress.accesskey          "P">
 <!ENTITY calendar.context.priority.label              "Prioridade">
 <!ENTITY calendar.context.priority.accesskey          "r">
+<!ENTITY calendar.context.postpone.label              "Adiar tarefa">
+<!ENTITY calendar.context.postpone.accesskey          "f">
 
 <!ENTITY percnt "&#38;#37;" ><!--=percent sign-->
 
@@ -238,6 +245,13 @@
 <!ENTITY priority.level.normal.accesskey    "N">
 <!ENTITY priority.level.high                "Alto">
 <!ENTITY priority.level.high.accesskey      "A">
+
+<!ENTITY calendar.context.postpone.1hour.label      "1 Hora">
+<!ENTITY calendar.context.postpone.1hour.accesskey  "H">
+<!ENTITY calendar.context.postpone.1day.label       "1 Dia">
+<!ENTITY calendar.context.postpone.1day.accesskey   "D">
+<!ENTITY calendar.context.postpone.1week.label      "1 Semana">
+<!ENTITY calendar.context.postpone.1week.accesskey  "S">
 
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
@@ -345,10 +359,10 @@
 <!ENTITY calendar.print.layout.label "Esquema:">
 <!ENTITY calendar.print.range.label "O que imprimir">
 <!ENTITY calendar.print.currentView2.label "Vista actual">
-<!ENTITY calendar.print.selectedEventsAndTasks.label "Eventos/Tarefas seleccionados">
+<!ENTITY calendar.print.selectedEventsAndTasks.label "Eventos/Tarefas selecionados">
 <!ENTITY calendar.print.tasks.label "Tarefas">
 <!ENTITY calendar.print.events.label "Eventos">
-<!ENTITY calendar.print.selected.label "Eventos seleccionados">
+<!ENTITY calendar.print.selected.label "Eventos selecionados">
 <!ENTITY calendar.print.custom.label "Intervalo Personalizado:">
 <!ENTITY calendar.print.from.label "De:">
 <!ENTITY calendar.print.to.label "Para:">
