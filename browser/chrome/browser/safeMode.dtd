@@ -40,6 +40,9 @@
 <!ENTITY safeModeDialog.title         "&brandShortName; felsäkert läge">
 <!ENTITY window.width                 "37em">
 
+<!ENTITY autoSafeModeIntro.label      "&brandShortName; stängdes oväntat under starten">
+<!ENTITY autoSafeModeDescription.label "Vi ber om ursäkt för besväret. &brandShortName; körs nu i felsäkert läge som temporärt inaktiverar dina inställningar, teman och tillägg.">
+
 <!ENTITY safeModeDescription.label    "&brandShortName; körs nu i felsäkert läge vilket innebär att dina egna inställningar, teman och tillägg för tillfället har inaktiverats.">
 <!ENTITY safeModeDescription2.label   "Du kan göra dessa ändringar permanenta:">
 
