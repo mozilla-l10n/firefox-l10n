@@ -83,6 +83,10 @@
   -->
 <!ENTITY findPreviousCmd.key          "G">
 
+<!ENTITY gotoLineCmd.label            "Spring naar regel…">
+<!ENTITY gotoLineCmd.key              "S">
+<!ENTITY gotoLineCmd.accesskey        "J">
+
 <!ENTITY run.label                    "Uitvoeren">
 <!ENTITY run.accesskey                "U">
 <!ENTITY run.key                      "r">
