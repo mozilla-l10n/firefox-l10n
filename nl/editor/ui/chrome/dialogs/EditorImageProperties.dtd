@@ -78,8 +78,6 @@
 <!ENTITY imagemapBox.label "Afbeeldingskaart">
 <!ENTITY removeImageMapButton.label "Verwijderen">
 <!ENTITY removeImageMapButton.accessKey "w">
-<!ENTITY editImageMapButton.label "Bewerken…">
-<!ENTITY editImageMapButton.tooltip "Klikbare hotspots voor deze afbeelding maken">
 
 <!-- These are the options for image alignment -->
 <!ENTITY alignment.label "Tekst uitlijnen naar afbeelding">
