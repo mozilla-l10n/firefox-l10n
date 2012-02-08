@@ -13,6 +13,8 @@
 
 <!ENTITY spellAddToDictionary.label "Sözlüğe ekle">
 <!ENTITY spellAddToDictionary.accesskey "S">
+<!ENTITY spellUndoAddToDictionary.label "Sözlüğe eklemeyi geri al">
+<!ENTITY spellUndoAddToDictionary.accesskey "g">
 <!ENTITY spellCheckEnable.label "İmla denetimi">
 <!ENTITY spellCheckEnable.accesskey "m">
 <!ENTITY spellNoSuggestions.label "(İmla önerisi yok)">

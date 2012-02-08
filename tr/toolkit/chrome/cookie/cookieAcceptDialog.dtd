@@ -4,7 +4,6 @@
 <!ENTITY     props.path.label               "Kısayol:">
 <!ENTITY     props.secure.label             "Sunucu güvenlik:">
 <!ENTITY     props.expires.label            "Bitiş tarihi:">
-<!ENTITY     props.policy.label             "İlke:"> 
 
 <!ENTITY     button.allow.label             "İzin ver">
 <!ENTITY     button.allow.accesskey         "z">
