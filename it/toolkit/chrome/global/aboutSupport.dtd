@@ -9,6 +9,7 @@
 <!ENTITY aboutSupport.appBasicsName "Nome">
 <!ENTITY aboutSupport.appBasicsVersion "Versione">
 <!ENTITY aboutSupport.appBasicsProfileDir "Cartella del profilo">
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Cartella del profilo">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Plugin attivi">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configurazione build">
 <!ENTITY aboutSupport.appBasicsUserAgent "User agent">
