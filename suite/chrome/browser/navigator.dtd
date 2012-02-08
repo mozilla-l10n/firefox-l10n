@@ -1,7 +1,7 @@
 <!-- extracted from content/navigator.xul -->
 
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items --> 
-<!-- LOCALIZATION NOTE : FILE Do not translate accesskey and commandkey --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE --> 
 <!ENTITY mainWindow.title "&brandShortName;">
@@ -16,8 +16,8 @@
 
 <!ENTITY navbarCmd.label "Barra de ferramentas de navegação">
 <!ENTITY navbarCmd.accesskey "n">
-<!ENTITY personalbarCmd.label "Barra de ferramentas pessoal">
-<!ENTITY personalbarCmd.accesskey "p">
+<!ENTITY bookmarksToolbarCmd.label "Barra de ferramentas de marcadores">
+<!ENTITY bookmarksToolbarCmd.accesskey "m">
 
 <!ENTITY closeWindow.label "Fechar janela">
 <!ENTITY closeWindow.accesskey "e">
@@ -29,7 +29,7 @@
 <!ENTITY feedsMenu.accesskey "S">
 
 <!ENTITY menuBar.tooltip                  "Barra de Menus">
-<!ENTITY personalToolbar.tooltip          "Barra de ferramentas pessoal">
+<!ENTITY bookmarksToolbar.tooltip         "Barra de ferramentas dos marcadores">
 <!ENTITY navigationToolbar.tooltip        "Barra de ferramentas de navegação">
 
 <!-- Toolbar items --> 
