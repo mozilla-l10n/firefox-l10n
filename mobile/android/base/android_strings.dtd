@@ -40,6 +40,7 @@
 <!ENTITY forward "下一頁">
 
 <!ENTITY new_tab "開新分頁">
+<!ENTITY new_tab_opened "已開啟新分頁">
 
 <!ENTITY settings "設定">
 <!ENTITY settings_title "設定">
