@@ -1,20 +1,139 @@
-# LOCALIZATION NOTE These strings are used inside the Source Editor component.
-# This component is used whenever source code is displayed for the purpose of
-# being edited, inside the Firefox developer tools - current examples are the
-# Scratchpad and the Style Editor tools.
+<!-- LOCALIZATION NOTE : FILE This file contains the Scratchpad window strings -->
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
-# LOCALIZATION NOTE The correct localization of this file might be to keep it
-# in English, or another language commonly spoken among web developers.
-# You want to make that choice consistent across the developer tools.
-# A good criteria is the language in which you'd find the best documentation
-# on web development on the web.
+<!-- LOCALIZATION NOTE : FILE The correct localization of this file might be to
+  - keep it in English, or another language commonly spoken among web developers.
+  - You want to make that choice consistent across the developer tools.
+  - A good criteria is the language in which you'd find the best
+  - documentation on web development on the web. -->
 
-# LOCALIZATION NOTE  (findCmd.promptTitle): This is the dialog title used
-# when the user wants to search for a string in the code. You can
-# access this feature by pressing Ctrl-F on Windows/Linux or Cmd-F on Mac.
-findCmd.promptTitle=Zoeken…
+<!-- LOCALIZATION NOTE (scratchpad.title):
+  -  The Scratchpad is intended to provide a simple text editor for creating
+  -  and evaluating bits of JavaScript code for the purposes of function
+  -  prototyping, experimentation and convenient scripting.
+  -
+  -  It's quite possible that you won't have a good analogue for the word
+  -  "Scratchpad" in your locale. You should feel free to find a close
+  -  approximation to it or choose a word (or words) that means
+  -  "simple discardable text editor". -->
+<!ENTITY window.title                 "Kladblok">
 
-# LOCALIZATION NOTE  (gotoLineCmd.promptMessage): This is the message shown when
-# the user wants to search for a string in the code. You can
-# access this feature by pressing Ctrl-F on Windows/Linux or Cmd-F on Mac.
-findCmd.promptMessage=Zoeken naar:
+<!ENTITY fileMenu.label               "Bestand">
+<!ENTITY fileMenu.accesskey           "B">
+
+<!ENTITY newWindowCmd.label           "Nieuw venster">
+<!ENTITY newWindowCmd.accesskey       "N">
+<!ENTITY newWindowCmd.commandkey      "n">
+
+<!ENTITY openFileCmd.label            "Bestand openen…">
+<!ENTITY openFileCmd.accesskey        "o">
+<!ENTITY openFileCmd.commandkey       "o">
+
+<!ENTITY saveFileCmd.label            "Opslaan">
+<!ENTITY saveFileCmd.accesskey        "p">
+<!ENTITY saveFileCmd.commandkey       "s">
+
+<!ENTITY saveFileAsCmd.label          "Opslaan als…">
+<!ENTITY saveFileAsCmd.accesskey      "l">
+
+<!ENTITY closeCmd.label               "Sluiten">
+<!ENTITY closeCmd.key                 "W">
+<!ENTITY closeCmd.accesskey           "S">
+
+<!ENTITY editMenu.label               "Bewerken">
+<!ENTITY editMenu.accesskey           "w">
+
+<!ENTITY undoCmd.label                "Ongedaan maken">
+<!ENTITY undoCmd.key                  "Z">
+<!ENTITY undoCmd.accesskey            "O">
+
+<!ENTITY redoCmd.label                "Opnieuw uitvoeren">
+<!ENTITY redoCmd.key                  "Y">
+<!ENTITY redoCmd.accesskey            "u">
+
+<!ENTITY cutCmd.label                 "Knippen">
+<!ENTITY cutCmd.key                   "X">
+<!ENTITY cutCmd.accesskey             "n">
+
+<!ENTITY copyCmd.label                "Kopiëren">
+<!ENTITY copyCmd.key                  "C">
+<!ENTITY copyCmd.accesskey            "K">
+
+<!ENTITY pasteCmd.label               "Plakken">
+<!ENTITY pasteCmd.key                 "V">
+<!ENTITY pasteCmd.accesskey           "P">
+
+<!ENTITY selectAllCmd.label           "Alles selecteren">
+<!ENTITY selectAllCmd.key             "A">
+<!ENTITY selectAllCmd.accesskey       "A">
+
+<!ENTITY findCmd.label                "Zoeken…">
+<!ENTITY findCmd.key                  "Z">
+<!ENTITY findCmd.accesskey            "F">
+
+<!ENTITY findAgainCmd.label           "Opnieuw zoeken…">
+<!-- LOCALIZATION NOTE (findAgainCmd.key): This key is used only on Macs.
+  -  Windows and Linux builds use the F3 key which is not localizable on purpose.
+  -->
+<!ENTITY findAgainCmd.key             "G">
+<!ENTITY findAgainCmd.accesskey       "g">
+<!-- LOCALIZATION NOTE (findPreviousCmd.key): This key is used only on Macs.
+  -  Windows and Linux builds use the Shift-F3 key which is not localizable on
+  -  purpose.
+  -->
+<!ENTITY findPreviousCmd.key          "G">
+
+<!ENTITY run.label                    "Uitvoeren">
+<!ENTITY run.accesskey                "U">
+<!ENTITY run.key                      "r">
+
+<!ENTITY inspect.label                "Inspecteren">
+<!ENTITY inspect.accesskey            "I">
+<!ENTITY inspect.key                  "i">
+
+<!ENTITY display.label                "Weergeven">
+<!ENTITY display.accesskey            "W">
+<!ENTITY display.key                  "l">
+
+<!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
+  -  renamed from "Context" to avoid confusion with the right-click context
+  -  menu in the text area. It refers to the JavaScript Environment (or context)
+  -  the user is evaluating against. I.e., Content (current tab) or Chrome
+  -  (browser).
+  -->
+<!ENTITY environmentMenu.label        "Omgeving">
+<!ENTITY environmentMenu.accesskey    "O">
+
+
+<!ENTITY contentContext.label         "Inhoud">
+<!ENTITY contentContext.accesskey     "I">
+
+<!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
+  -  to select an execution environment for the browser window itself as opposed
+  -  to content. This is a feature for browser and addon developers and only
+  -  enabled via the devtools.chrome.enabled preference. Formerly, this label
+  -  was called "Chrome".
+   -->
+<!ENTITY browserContext.label         "Browser">
+<!ENTITY browserContext.accesskey     "B">
+
+<!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
+  -  to reset/clear the global object of the environment where the code executes.
+  -->
+<!ENTITY resetContext2.label          "Variabelen herinitialiseren">
+<!ENTITY resetContext2.accesskey      "V">
+
+<!ENTITY executeMenu.label            "Uitvoeren">
+<!ENTITY executeMenu.accesskey        "U">
+
+<!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
+  -  the browser Error Console, the key should be identical to the property of
+  -  the same name in browser.dtd.
+  -->
+<!ENTITY errorConsoleCmd.commandkey   "j">
+
+<!-- LOCALIZATION NOTE (webConsoleCmd.commandkey): This command key launches
+  -  the browser WebConsole, the key should be identical to the property of
+  -  the same name in browser.dtd.
+  -->
+<!ENTITY webConsoleCmd.commandkey     "k">
