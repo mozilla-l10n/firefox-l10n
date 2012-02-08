@@ -8,7 +8,6 @@
 </Url>
 <Url type="text/html" method="GET" template="http://be-x-old.wikipedia.org/wiki/Special:Search">
   <Param name="search" value="{searchTerms}"/>
-  <Param name="sourceid" value="Mozilla-search"/>
 </Url>
 <SearchForm>http://be-x-old.wikipedia.org/wiki/Special:Search</SearchForm>
 </SearchPlugin>
