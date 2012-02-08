@@ -2,6 +2,8 @@
 <!ENTITY tile.label "Affiancata">
 <!ENTITY center.label "Centrata">
 <!ENTITY stretch.label "Estesa">
+<!ENTITY fill.label "Riempi">
+<!ENTITY fit.label "Adatta">
 <!ENTITY preview.label "Anteprima">
 <!ENTITY color.label "Colore:">
 <!ENTITY setDesktopBackground.title "Imposta sfondo del desktop">
