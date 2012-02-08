@@ -253,6 +253,9 @@
 <!ENTITY calendar.context.postpone.1week.label      "1 週">
 <!ENTITY calendar.context.postpone.1week.accesskey  "W">
 
+<!ENTITY calendar.copylink.label       "複製鏈結網址">
+<!ENTITY calendar.copylink.accesskey   "C">
+
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
      task action buttons -->
