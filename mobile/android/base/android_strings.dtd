@@ -39,6 +39,7 @@
 <!ENTITY forward "앞으로">
 
 <!ENTITY new_tab "새 탭">
+<!ENTITY new_tab_opened "열린 새 탭">
 
 <!ENTITY settings "설정">
 <!ENTITY settings_title "설정">
