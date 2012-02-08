@@ -38,7 +38,7 @@
 <!-- Fonts -->
 <!ENTITY fontsAndColors.label    "Shkronja">
 <!ENTITY defaultFont.label       "Shkronja parazgjedhje:">
-<!ENTITY defaultFont.accesskey   "p">
+<!ENTITY defaultFont.accesskey   "a">
 <!ENTITY defaultSize.label       "Madhësi:">
 <!ENTITY defaultSize.accesskey   "M">
 <!ENTITY fontOptions.accesskey   "S">

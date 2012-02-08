@@ -15,7 +15,7 @@
 
 <!ENTITY importTitle.label        "Ndihmësi &brandShortName; për Importim Poste">
 <!ENTITY importShortDesc.label    "Importoni prej programesh të tjerë Postë, Libra Adresash, Rregullime dhe Filtra">
-<!ENTITY importDescription1.label "Ky ndihmës do të importojë te  &brandShortName;-i mesazhe poste, zëra librash adresash, parapëlqime, dhe/ose filtra prej programesh të tjerë poste, si dhe formate të zakonshëm librash adresash.">
+<!ENTITY importDescription1.label "Ky ndihmës do të importojë te &brandShortName;-i mesazhe poste, zëra librash adresash, parapëlqime, dhe/ose filtra prej programesh të tjerë poste, si dhe formate të zakonshëm librash adresash.">
 <!ENTITY importDescription2.label "Pasi të jenë importuar, do të jeni në gjendje t'i përdorni që nga &brandShortName;-i.">
 
 <!ENTITY selectDescription.label  "Ju lutem, përzgjidhni programin prej të cilit doni të importohet:">

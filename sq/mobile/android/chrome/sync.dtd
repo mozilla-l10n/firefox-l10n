@@ -8,7 +8,7 @@
 <!ENTITY sync.syncNow               "Njëkohësoji Tani">
 
 <!ENTITY sync.setup.title           "Lidhu te Sync-u">
-<!ENTITY sync.setup.pair            "Për ta aktivizuar, përzgjidhni te pajisja juaj tjetër  &#x0022;Përshoqëroni një Pajisje&#x0022;.">
+<!ENTITY sync.setup.pair            "Për ta aktivizuar, përzgjidhni te pajisja juaj tjetër &#x0022;Përshoqëroni një Pajisje&#x0022;.">
 <!ENTITY sync.fallback              "Nuk jam përpara kompjuterit tim…">
 <!ENTITY sync.setup.manual          "Jepni të dhënat e llogarisë suaj Sync">
 <!ENTITY sync.account               "Emër Llogarie">
@@ -22,6 +22,6 @@
 <!ENTITY sync.setup.waiting2        "Po pritet për pajisjen tjetër…">
 
 <!ENTITY sync.pair.title            "Përshoqëroni një Pajisje">
-<!ENTITY sync.pair.description      "Që të aktivizoni pajisjen tuaj të re, përzgjidhni te pajisja &#x0022;Rregulloni  Sync-un&#x0022;.">
+<!ENTITY sync.pair.description      "Që të aktivizoni pajisjen tuaj të re, përzgjidhni te pajisja &#x0022;Rregulloni Sync-un&#x0022;.">
 <!ENTITY sync.setup.close           "Mbylle">
 <!ENTITY sync.setup.waitingdownload "Të dhënat tuaja tani po fillojnë të shkarkohen në prapaskenë. Këtë dritare mund ta mbyllni kur të doni.">

@@ -186,7 +186,7 @@
 <!ENTITY  event.toolbar.delete.label                      "Fshije">
 <!ENTITY  event.toolbar.attendees.label                   "Ftoni Pjesëmarrës">
 <!ENTITY  event.toolbar.spellcheck.label                  "Kontroll Drejtshkrimi">
-<!ENTITY  event.toolbar.privacy.label                     "vetësi">
+<!ENTITY  event.toolbar.privacy.label                     "Vetësi">
 <!ENTITY  event.toolbar.attachments.label                 "Bashkangjitje">
 
 <!-- Main page -->
@@ -224,8 +224,8 @@
 <!ENTITY event.attachments.popup.remove.accesskey         "H" >
 <!ENTITY event.attachments.popup.open.label               "Hape" >
 <!ENTITY event.attachments.popup.open.accesskey           "a" >
-<!ENTITY event.attachments.popup.removeAll.label          "Hiqi Krejt All" >
-<!ENTITY event.attachments.popup.removeAll.accesskey      "q" >
+<!ENTITY event.attachments.popup.removeAll.label          "Hiqi Krejt" >
+<!ENTITY event.attachments.popup.removeAll.accesskey      "K" >
 <!ENTITY event.attachments.popup.attachPage.label         "Bashkangjitini Faqe Web…" >
 <!ENTITY event.attachments.popup.attachPage.accesskey     "F" >
 <!ENTITY event.url.label                                  "Lidhje të Afërta:" >
@@ -360,8 +360,6 @@
 <!ENTITY event.freebusy.next.slot               "Koha pasuese " >
 <!ENTITY event.freebusy.previous.slot           " Koha e mëparshme" >
 <!ENTITY event.freebusy.zoom                    "Zoom:">
-<!ENTITY event.freebusy.plus                    "Orën Pasuese" >
-<!ENTITY event.freebusy.minus                   "Orën e mëparshme" >
 <!ENTITY event.freebusy.legend.free             "I lirë" >
 <!ENTITY event.freebusy.legend.busy             "I zënë" >
 <!ENTITY event.freebusy.legend.busy_tentative   "Përpjekje" >

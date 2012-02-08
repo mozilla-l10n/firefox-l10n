@@ -60,6 +60,7 @@
 <!ENTITY calendar.events.filter.today.label "Ngjarjet e Sotme">
 <!ENTITY calendar.events.filter.future.label "Tërë Ngjarjet e Ardhshme">
 <!ENTITY calendar.events.filter.current.label "Ditën e Përzgjedhur Tani">
+<!ENTITY calender.events.filter.currentview.label "Ngjarjet e Skenës së Tanishme">
 <!ENTITY calendar.events.filter.next7Days.label "Ngjarjet për 7 Ditët e Ardhshme">
 <!ENTITY calendar.events.filter.next14Days.label "Ngjarjet për 14 Ditët e Ardhshme">
 <!ENTITY calendar.events.filter.next31Days.label "Ngjarjet për 31 Ditët e Ardhshme">
@@ -168,11 +169,13 @@
 <!ENTITY calendar.task-details.start.label           "datë fillimi">
 <!ENTITY calendar.task-details.due.label             "datë mbarimi">
 
-
-
 <!ENTITY calendar.task.category.button.tooltip  "Kategorizoni punët">
 <!ENTITY calendar.task.complete.button.tooltip  "Shënojini punët e përzgjedhura si të plotësuara">
 <!ENTITY calendar.task.priority.button.tooltip  "Ndryshojini përparësinë">
+
+<!ENTITY calendar.task.text-filter.textbox.emptytext.base            "Filtroni punët… #1">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Shift+K&gt;">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label            "Dokument: U bë">
@@ -180,8 +183,8 @@
 <!-- Context Menu -->
 <!ENTITY calendar.context.modifyorviewitem.label      "Hape">
 <!ENTITY calendar.context.modifyorviewitem.accesskey  "H">
-<!ENTITY calendar.context.modifyorviewtask.label      "Hapni Punë…">
-<!ENTITY calendar.context.modifyorviewtask.accesskey  "P">
+<!ENTITY calendar.context.modifyorviewtask.label      "Filloni Punë…">
+<!ENTITY calendar.context.modifyorviewtask.accesskey  "F">
 <!ENTITY calendar.context.newevent.label              "Ngjarje e Re…">
 <!ENTITY calendar.context.newevent.accesskey          "N">
 <!ENTITY calendar.context.newtodo.label               "Punë e Re…">
@@ -189,7 +192,7 @@
 <!ENTITY calendar.context.deletetask.label            "Fshije Punën">
 <!ENTITY calendar.context.deletetask.accesskey        "i">
 <!ENTITY calendar.context.deleteevent.label           "Fshije Ngjarjen">
-<!ENTITY calendar.context.deleteevent.accesskey       "g">
+<!ENTITY calendar.context.deleteevent.accesskey       "a">
 <!ENTITY calendar.context.cutevent.label              "Prije">
 <!ENTITY calendar.context.cutevent.accesskey          "P">
 <!ENTITY calendar.context.copyevent.label             "Kopjoje">
@@ -199,7 +202,7 @@
 <!ENTITY calendar.context.button.label                "Kutia për Sot" >
 <!ENTITY calendar.context.button.accesskey            "K" >
 <!ENTITY calendar.context.attendance.menu.label       "Pjesëmarrje" >
-<!ENTITY calendar.context.attendance.menu.accesskey   "j" >
+<!ENTITY calendar.context.attendance.menu.accesskey   "e" >
 <!ENTITY calendar.context.attendance.occurrence.label "Këtë Herë" >
 <!ENTITY calendar.context.attendance.all.label        "Gjithë Herët" >
 
@@ -208,6 +211,9 @@
 <!ENTITY calendar.context.progress.accesskey          "E">
 <!ENTITY calendar.context.priority.label              "Përparësi">
 <!ENTITY calendar.context.priority.accesskey          "P">
+<!ENTITY calendar.context.postpone.label              "Shtyje Punën Për Më Vonë">
+<!ENTITY calendar.context.postpone.accesskey          "S">
+
 
 <!ENTITY percnt "&#38;#37;" ><!--=percent sign-->
 
@@ -226,7 +232,7 @@
 <!ENTITY progress.level.100.accesskey  "1">
 
 <!ENTITY priority.level.none                "E pacaktuar">
-<!ENTITY priority.level.none.accesskey      "p">
+<!ENTITY priority.level.none.accesskey      "c">
 <!ENTITY priority.level.low                 "E ulët">
 <!ENTITY priority.level.low.accesskey       "u">
 <!ENTITY priority.level.normal              "Normale">
@@ -241,8 +247,8 @@
 <!ENTITY calendar.context.findcalendar.accesskey       "G" >
 <!ENTITY calendar.context.deleteserver.label           "Fshije Kalendarin">
 <!ENTITY calendar.context.deleteserver.accesskey       "F">
-<!ENTITY calendar.context.reloadserver.label           "Ringarko Kalendarë të Largët">
-<!ENTITY calendar.context.reloadserver.accesskey       "R">
+<!ENTITY calendar.context.synccalendars.label          "Njëkohëso Kalendarët">
+<!ENTITY calendar.context.synccalendars.accesskey      "N">
 <!ENTITY calendar.context.publish.label                "Botoni Kalendar…">
 <!ENTITY calendar.context.publish.accesskey            "B">
 <!ENTITY calendar.context.export.label                 "Eksportoni Kalendar…">
@@ -355,6 +361,15 @@
 <!ENTITY calendar.task.filter.current.accesskey     "P">
 <!ENTITY calendar.task.filter.repeating.label       "Punë që Përsëriten">
 <!ENTITY calendar.task.filter.repeating.accesskey   "R">
+
+<!ENTITY calendar.context.postpone.1hour.label      "1 Orë">
+<!ENTITY calendar.context.postpone.1hour.accesskey  "O">
+<!ENTITY calendar.context.postpone.1day.label       "1 Ditë">
+<!ENTITY calendar.context.postpone.1day.accesskey   "D">
+<!ENTITY calendar.context.postpone.1week.label      "1 Javë">
+<!ENTITY calendar.context.postpone.1week.accesskey  "J">
+
+
 
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other

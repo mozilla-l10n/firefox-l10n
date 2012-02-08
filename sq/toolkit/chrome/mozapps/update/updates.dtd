@@ -3,7 +3,7 @@
 
 <!ENTITY  noupdatesfound.title            "Nuk u Gjetën Përditësime">
 <!ENTITY  noupdatesautoenabled.intro      "Nuk ka përditësime të passhëm. &brandShortName;-i do të kontrollojë periodikisht për përditësime.">
-<!ENTITY  noupdatesautodisabled.intro     "Nuk ka përditësime të passhëm. Ju lutem, kontrolloni më vonë ose aktivizoni te &brandShortName;-i  kontrollin e vetvetishëm për përditësime.">
+<!ENTITY  noupdatesautodisabled.intro     "Nuk ka përditësime të passhëm. Ju lutem, kontrolloni më vonë ose aktivizoni te &brandShortName;-i kontrollin e vetvetishëm për përditësime.">
 
 <!ENTITY  pluginupdatesfound.title        "U gjetën Përditësime për Shtojcat">
 <!ENTITY  pluginupdatesfound.label        "U gjetën versione të rinj për një ose më tepër nga shtojcat tuaja.">
@@ -22,13 +22,13 @@
 
 <!ENTITY  downloading.intro               "Po shkarkohet përditësimi…">
 <!ENTITY  connecting.label                "Po bëhet lidhja te shërbyesi i përditësimeve…">
-<!ENTITY  verificationFailedText.label    "&brandShortName;-i  nuk qe i zoti të vërtetonte pacënueshmërinë 
+<!ENTITY  verificationFailedText.label    "&brandShortName;-i nuk qe i zoti të vërtetonte pacënueshmërinë 
                                            e përditësimit shtues që shkarkoi, ndaj tani po shkarkon paketën e plotë të përditësimit.">
 
 <!ENTITY  details.link                    "Hollësi">
 
 <!ENTITY  error.label                     "Pati probleme gjatë kontrollit, shkarkimit apo instalimit të këtij
-                                           përditësimi. &brandShortName;-i nuk u përditësua dot sepse:">
+                                           përditësimi. &brandShortName;-i nuk u përditësua dot, sepse:">
                                            
 <!ENTITY  errorManual.label               "Mund ta përditësoni &brandShortName;-in dorazi duke vizituar këtë lidhje
                                            dhe shkarkuar versionin më të fundit:">

@@ -249,7 +249,7 @@
 <!ENTITY tableColumns.label "Shtyllë(a)">
 <!ENTITY tableColumn.accesskey "y">
 <!ENTITY tableColumnBefore.label "Shtyllë Para">
-<!ENTITY tableColumnBefore.accesskey "p">
+<!ENTITY tableColumnBefore.accesskey "P">
 <!ENTITY tableColumnAfter.label "Shtyllë Pas">
 <!ENTITY tableColumnAfter.accesskey "S">
 <!ENTITY tableCell.label "Kuti">

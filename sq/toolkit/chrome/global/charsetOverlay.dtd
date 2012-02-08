@@ -1,20 +1,20 @@
-<!ENTITY charsetCustomize.accesskey "p">
 <!ENTITY charsetCustomize.label "Përshtatni…">
-<!ENTITY charsetMenu.accesskey "K">
+<!ENTITY charsetCustomize.accesskey "P">
 <!ENTITY charsetMenu.label "Kodim Shkronjash">
-<!ENTITY charsetMenuAutodet.accesskey "v">
+<!ENTITY charsetMenu.accesskey "K">
 <!ENTITY charsetMenuAutodet.label "Vetëzbulo">
-<!ENTITY charsetMenuMore.accesskey "M">
+<!ENTITY charsetMenuAutodet.accesskey "V">
 <!ENTITY charsetMenuMore.label "Më">
-<!ENTITY charsetMenuMore1.accesskey "E">
+<!ENTITY charsetMenuMore.accesskey "M">
 <!ENTITY charsetMenuMore1.label "Europiane Perëndimore">
-<!ENTITY charsetMenuMore2.accesskey "L">
+<!ENTITY charsetMenuMore1.accesskey "E">
 <!ENTITY charsetMenuMore2.label "Europiane Lindore">
-<!ENTITY charsetMenuMore3.accesskey "L">
+<!ENTITY charsetMenuMore2.accesskey "L">
 <!ENTITY charsetMenuMore3.label "Aziatike Lindore">
-<!ENTITY charsetMenuMore4.accesskey "A">
+<!ENTITY charsetMenuMore3.accesskey "A">
 <!ENTITY charsetMenuMore4.label "Aziatike JL &amp; JP ">
-<!ENTITY charsetMenuMore5.accesskey "M">
+<!ENTITY charsetMenuMore4.accesskey "z">
 <!ENTITY charsetMenuMore5.label "Të Lindjes së Mesme ">
-<!ENTITY charsetMenuUnicode.accesskey "U">
+<!ENTITY charsetMenuMore5.accesskey "M">
 <!ENTITY charsetMenuUnicode.label "Unikod">
+<!ENTITY charsetMenuUnicode.accesskey "U">

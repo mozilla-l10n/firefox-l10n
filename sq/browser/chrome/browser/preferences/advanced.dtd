@@ -4,7 +4,7 @@
 
 <!ENTITY accessibility.label             "Hyrshmëri">
 
-<!ENTITY useCursorNavigation.label       "Përdor përherë taste kursori për lundrim brenda faqesh">
+<!ENTITY useCursorNavigation.label       "Përdor përherë taste kursori për lëvizje brenda faqesh">
 <!ENTITY useCursorNavigation.accesskey   "P">
 <!ENTITY searchStartTyping.label         "Kërko për tekst kur filloj të shtyp">
 <!ENTITY searchStartTyping.accesskey     "K">
@@ -16,7 +16,7 @@
 <!ENTITY useAutoScroll.label             "Përdor vetërrëshqitje">
 <!ENTITY useAutoScroll.accesskey         "v">
 <!ENTITY useSmoothScrolling.label        "Përdor rrëshqitje të butë">
-<!ENTITY useSmoothScrolling.accesskey    "q">
+<!ENTITY useSmoothScrolling.accesskey    "b">
 <!ENTITY allowHWAccel.label              "Kur mundet, përdor përshpejtim hardware">
 <!ENTITY allowHWAccel.accesskey          "d">
 <!ENTITY checkSpelling.label             "Kontrollomë drejtshkrimin ndërkohë që shkruaj">
@@ -73,7 +73,7 @@
 <!ENTITY updateAutoAddonWarn.accesskey   "S">
 
 <!ENTITY updateHistory.label             "Shfaq Historik Përditësimesh">
-<!ENTITY updateHistory.accesskey         "q">
+<!ENTITY updateHistory.accesskey         "H">
 
 <!ENTITY useService.label                "Përdor shërbim në prapaskenë për të instaluar përditësimet">
 <!ENTITY useService.accesskey            "P">

@@ -1,15 +1,15 @@
 
 <!ENTITY newDirectoryTitle.label           "Veti Shërbyesi Drejtorish">
 <!ENTITY directoryName.label               "Emër: ">
-<!ENTITY directoryName.accesskey           "e">
+<!ENTITY directoryName.accesskey           "E">
 <!ENTITY directoryHostname.label           "Strehëemër: ">
 <!ENTITY directoryHostname.accesskey       "S">
 <!ENTITY directoryBaseDN.label             "DN Bazë: ">
 <!ENTITY directoryBaseDN.accesskey         "D">
 <!ENTITY findButton.label                  "Gjej">
-<!ENTITY findButton.accesskey              "g">
+<!ENTITY findButton.accesskey              "G">
 <!ENTITY directorySecure.label             "Përdor lidhje të sigurt (SSL)">
-<!ENTITY directorySecure.accesskey         "p">
+<!ENTITY directorySecure.accesskey         "P">
 <!ENTITY directoryLogin.label              "DN Lidhme: ">
 <!ENTITY directoryLogin.accesskey          "L">
 <!ENTITY General.tab                       "Të përgjithshme">
@@ -20,7 +20,7 @@
 <!ENTITY searchFilter.label                "Filtër kërkimi: ">
 <!ENTITY searchFilter.accesskey            "F">
 <!ENTITY scope.label                       "Objektiv: ">
-<!ENTITY scope.accesskey                   "o">
+<!ENTITY scope.accesskey                   "O">
 <!ENTITY scopeOneLevel.label               "Një Nivel">
 <!ENTITY scopeOneLevel.accesskey           "v">
 <!ENTITY scopeSubtree.label                "Nënpemë">

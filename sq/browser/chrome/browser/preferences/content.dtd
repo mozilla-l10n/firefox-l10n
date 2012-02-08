@@ -14,13 +14,13 @@
 <!ENTITY  advancedJS.accesskey        "e">
 
 <!ENTITY  enableJava.label            "Aktivizo Java">
-<!ENTITY  enableJava.accesskey        "j">
+<!ENTITY  enableJava.accesskey        "i">
 
 
 <!ENTITY  fontsAndColors.label        "Shkronja &amp; Ngjyra">
 
 <!ENTITY  defaultFont.label                       "Shkronja parazgjedhje:">
-<!ENTITY  defaultFont.accesskey                   "g">
+<!ENTITY  defaultFont.accesskey                   "d">
 <!ENTITY  defaultSize.label                       "Madhësi:">
 <!ENTITY  defaultSize.accesskey                   "m">
 

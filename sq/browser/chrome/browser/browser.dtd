@@ -71,7 +71,7 @@
 <!ENTITY reloadCmd.label              "Ringarkoje">
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY reloadButton.tooltip         "Ringarkoni faqen e tanishme">
-<!ENTITY stopCmd.label                "Ndal">
+<!ENTITY stopCmd.label                "Ndale">
 <!ENTITY stopCmd.accesskey            "N">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Ndalni ngarkimin e kësaj faqeje">
@@ -165,12 +165,12 @@
 <!ENTITY deleteCmd.key            "D">  
 <!ENTITY deleteCmd.accesskey        "F"> 
 <!ENTITY selectAllCmd.label         "Përzgjidhe Krejt">  
-<!ENTITY selectAllCmd.key         "j">  
+<!ENTITY selectAllCmd.key         "K">  
 <!ENTITY selectAllCmd.accesskey       "P"> 
 <!ENTITY preferencesCmd2.label       "Mundësi">
 <!ENTITY preferencesCmd2.accesskey     "M"> 
 <!ENTITY preferencesCmdUnix.label       "Parapëlqime">
-<!ENTITY preferencesCmdUnix.accesskey     "q"> 
+<!ENTITY preferencesCmdUnix.accesskey     "a"> 
 
 <!ENTITY viewMenu.label         "Shfaqje"> 
 <!ENTITY viewMenu.accesskey       "S"> 
@@ -247,11 +247,11 @@
 <!ENTITY viewImageCmd.label           "Shihni Figurë">
 <!ENTITY viewImageCmd.accesskey       "I">
 <!ENTITY viewBGImageCmd.label         "Shihni Figurë Sfondi">
-<!ENTITY viewBGImageCmd.accesskey     "F">
+<!ENTITY viewBGImageCmd.accesskey     "i">
 <!ENTITY setDesktopBackgroundCmd.label      "Vëreni Si Sfond Desktopi…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY sendPageCmd.label            "Dërgoni Lidhjen…">
-<!ENTITY sendPageCmd.accesskey        "g">
+<!ENTITY sendPageCmd.accesskey        "L">
 <!ENTITY savePageCmd.label            "Ruajeni Faqen Si…">
 <!ENTITY savePageCmd.accesskey        "R">
 <!-- alternate for content area context menu -->
@@ -300,7 +300,7 @@
 <!ENTITY pageStylePersistentOnly.label "Stil Fillestar Faqeje">
 <!ENTITY pageStylePersistentOnly.accesskey "S">
 <!ENTITY pageReportIcon.tooltip            "Ndryshoni rregullime bllokimi flluskash për këtë &quot;website&quot;">
-<!ENTITY allowPopups.accesskey "p">
+<!ENTITY allowPopups.accesskey "L">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
@@ -323,7 +323,7 @@
 <!ENTITY spellAddDictionaries.label "Shtoni fjalorë…">
 <!ENTITY spellAddDictionaries.accesskey "A">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">            
-<!ENTITY bookmarkThisPageCmd.label "Faqeruaj Këtë Faqe">
+<!ENTITY bookmarkThisPageCmd.label "Faqeruaje Këtë Faqe">
 <!ENTITY closeWindow.accesskey "D">
 <!ENTITY fullZoom.accesskey             "Z">
 <!ENTITY fullZoom.label                 "Zoom">
@@ -386,13 +386,13 @@
 <!ENTITY mediaShowControls.label     "Shfaqi Kontrollet">
 <!ENTITY mediaShowControls.accesskey "K">
 <!ENTITY mediaHideControls.label     "Fshihi Kontrollet">
-<!ENTITY mediaHideControls.accesskey "K">
+<!ENTITY mediaHideControls.accesskey "F">
 <!ENTITY videoFullScreen.label       "Krejt Ekrani">
 <!ENTITY videoFullScreen.accesskey   "E">
 <!ENTITY videoSaveImage.label        "Ruajeni Foton Si…">
 <!ENTITY videoSaveImage.accesskey    "R">
-<!ENTITY videoShowStats.label        "Shfaq Statistikat">
-<!ENTITY videoShowStats.accesskey    "q">
+<!ENTITY videoShowStats.label        "Shfaqi Statistikat">
+<!ENTITY videoShowStats.accesskey    "i">
 <!ENTITY videoHideStats.label        "Fshihi Statistikat">
 <!ENTITY videoHideStats.accesskey    "h">
 
@@ -447,7 +447,7 @@
 <!ENTITY videoFullScreen.accesskey   "K">
 
 <!ENTITY  bookmarkAllTabs.label              "Faqeruani Krejt Skedat…">
-<!ENTITY  bookmarkAllTabs.accesskey          "K">
+<!ENTITY  bookmarkAllTabs.accesskey          "S">
 
 <!ENTITY bookmarksMenuButton.label          "Faqerojtësa">
 <!ENTITY bookmarksMenuButton.tooltip        "Shfaqni faqerojtësit tuaj">
@@ -514,7 +514,7 @@
 <!ENTITY syncSyncNowItem.accesskey    "N">
 
 <!ENTITY  moveToGroup.label                  "Kaloje në Grup">
-<!ENTITY  moveToGroup.accesskey              "K">
+<!ENTITY  moveToGroup.accesskey              "G">
 <!ENTITY  moveToNewGroup.label               "Grup i Ri">
 
 <!ENTITY appMenuEdit.label "Përpunojeni">
@@ -538,10 +538,10 @@ can reach it easily. -->
 <!ENTITY  pinAppTab.label                    "Fiksoje si Skedë Zbatimi">
 <!ENTITY  pinAppTab.accesskey                "F">
 <!ENTITY  unpinAppTab.label                  "Çfiksoje Skedën">
-<!ENTITY  unpinAppTab.accesskey              "ç">
+<!ENTITY  unpinAppTab.accesskey              "Ç">
 
 <!ENTITY  moveToNewWindow.label              "Kaloje në Dritare të Re">
-<!ENTITY  moveToNewWindow.accesskey          "K">
+<!ENTITY  moveToNewWindow.accesskey          "D">
 
 <!ENTITY showAllBookmarks2.label "Shfaqni Krejt Faqerojtësit">
 
@@ -557,8 +557,8 @@ can reach it easily. -->
 <!ENTITY getMoreDevtoolsCmd.label        "Merrni Më Tepër Mjete">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "M">
 
-<!ENTITY inspectContextMenu.label     "Mbikqyreni Elementin">
-<!ENTITY inspectContextMenu.accesskey "q">
+<!ENTITY inspectContextMenu.label     "Mbikëqyreni Elementin">
+<!ENTITY inspectContextMenu.accesskey "E">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.

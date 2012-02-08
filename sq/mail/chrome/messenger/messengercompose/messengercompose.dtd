@@ -77,7 +77,7 @@
 <!ENTITY selectAllCmd.accesskey "K"> 
 <!ENTITY findCmd.label "Gjeni dhe Zëvendësoni…">
 <!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "g">
+<!ENTITY findCmd.accesskey "G">
 <!ENTITY findAgainCmd.label "Gjeje Sërish">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "s">
@@ -142,7 +142,7 @@
 <!ENTITY bothFormatCmd.label "Tekst të Thjeshtë dhe të Pasur (HTML)">
 <!ENTITY bothFormatCmd.accesskey "h">
 <!ENTITY priorityMenu.label "Përparësi">
-<!ENTITY priorityMenu.accesskey "p">
+<!ENTITY priorityMenu.accesskey "P">
 <!ENTITY priorityButton.label "Përparësi:">
 <!ENTITY lowestPriorityCmd.label "Më e Ulta">
 <!ENTITY lowestPriorityCmd.accesskey "u">
@@ -242,7 +242,7 @@
 <!ENTITY spellCheckIgnoreWord.label "Shpërfille Fjalën">
 <!ENTITY spellCheckIgnoreWord.accesskey "S">
 <!ENTITY spellCheckAddToDictionary.label "Shtoje në Fjalor">
-<!ENTITY spellCheckAddToDictionary.accesskey "j">
+<!ENTITY spellCheckAddToDictionary.accesskey "o">
 <!ENTITY undo.label "Zhbëje">
 <!ENTITY undo.accesskey "Z">
 <!ENTITY cut.label "Prije">
@@ -265,7 +265,7 @@
 <!ENTITY attachFile.label "Bashkangjitni Kartelë(a)…">
 <!ENTITY attachFile.accesskey "a">
 <!ENTITY attachPage.label "Bashkangjitni Faqe Web…">
-<!ENTITY attachPage.accesskey "Q">
+<!ENTITY attachPage.accesskey "q">
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Kontakte">

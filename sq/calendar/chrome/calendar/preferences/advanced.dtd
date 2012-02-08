@@ -72,7 +72,7 @@
 <!ENTITY pref.calendar.advanced.update.enableAddonsUpdate.accesskey "s">
 <!ENTITY pref.calendar.advanced.update.whenUpdatesFound.label "Kur gjenden përditësime për &brandShortName;-in:">
 <!ENTITY pref.calendar.advanced.update.modeAskMe.label "Pyetmë se çfarë dëshiroj të bëj">
-<!ENTITY pref.calendar.advanced.update.modeAskMe.accesskey "p">
+<!ENTITY pref.calendar.advanced.update.modeAskMe.accesskey "P">
 <!ENTITY pref.calendar.advanced.update.modeAuto.label "Shkarkoje dhe instaloje përditësimin vetvetiu">
 <!ENTITY pref.calendar.advanced.update.modeAuto.accesskey "v">
 <!ENTITY pref.calendar.advanced.update.modeAutoWarn.label "Sinjalizomë nëse kështu do të çaktivizohej ndonjë nga shtesat e mia">
@@ -99,4 +99,4 @@
 <!ENTITY pref.calendar.advanced.encryption.verify2.label "Vleftësim">
 <!ENTITY pref.calendar.advanced.encryption.verify2.accesskey "V">
 <!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.label "Pajisje Sigurie">
-<!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.accesskey "j">
+<!ENTITY pref.calendar.advanced.encryption.viewSecurityDevices.accesskey "a">

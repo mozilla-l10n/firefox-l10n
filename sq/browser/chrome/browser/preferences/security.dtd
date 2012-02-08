@@ -8,7 +8,7 @@
   "known").
 -->
 <!ENTITY  addonExceptions.label         "Përjashtime…">
-<!ENTITY  addonExceptions.accesskey     "j">
+<!ENTITY  addonExceptions.accesskey     "a">
 
 <!-- LOCALIZATION NOTE (askThirdParty.label):
   The entities askThirdParty.label and askThirdPartyAfter.label appear on a
@@ -18,7 +18,7 @@
 -->
 
 <!ENTITY  passwords.label               "Fjalëkalime">
-<!ENTITY  rememberPasswords.label       "Mba mend fjalkalimet për &quot;site&quot;-et">
+<!ENTITY  rememberPasswords.label       "Mba mend fjalëkalimet për &quot;site&quot;-et">
 <!ENTITY  rememberPasswords.accesskey   "M">
 <!ENTITY  passwordExceptions.label      "Përjashtime…">
 <!ENTITY  passwordExceptions.accesskey  "e">

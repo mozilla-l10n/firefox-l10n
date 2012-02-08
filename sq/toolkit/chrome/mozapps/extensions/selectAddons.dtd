@@ -6,7 +6,7 @@
 <!ENTITY select.heading              "Përzgjidhni Shtesa">
 <!-- LOCALIZATION NOTE (select.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
-<!ENTITY select.description          "Bëjeni &brandShortName;-in edhe më të shpejtë, duke çaktivizuar shtesat që nuk  i përdorni më. Shtesat e instaluara tashmë nga palë të treta do të çaktivizohen vetvetiu, po qe se nuk i përzgjidhni më poshtë.">
+<!ENTITY select.description          "Bëjeni &brandShortName;-in edhe më të shpejtë, duke çaktivizuar shtesat që nuk i përdorni më. Shtesat e instaluara tashmë nga palë të treta do të çaktivizohen vetvetiu, po qe se nuk i përzgjidhni më poshtë.">
 <!ENTITY select.keep                 "Mbaje">
 <!-- LOCALIZATION NOTE (select.keep.style): Should be a width wide enough for
      the string in select.keep above. -->
@@ -25,7 +25,7 @@
 <!ENTITY confirm.heading             "Përzgjidhni Shtesat Tuaja">
 <!-- LOCALIZATION NOTE (confirm.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
-<!ENTITY confirm.description         "Bëjeni &brandShortName;-in edhe më të shpejtë, duke çaktivizuar shtesat që nuk  i përdorni më. Shtesat e instaluara tashmë nga palë të treta do të çaktivizohen vetvetiu, po qe se nuk i përzgjidhni më poshtë.">
+<!ENTITY confirm.description         "Bëjeni &brandShortName;-in edhe më të shpejtë, duke çaktivizuar shtesat që nuk i përdorni më. Shtesat e instaluara tashmë nga palë të treta do të çaktivizohen vetvetiu, po qe se nuk i përzgjidhni më poshtë.">
 
 <!ENTITY action.disable.heading      "Shtesat vijuese do të çaktivizohen:">
 <!ENTITY action.incompatible.heading "Shtesat vijuese janë të çaktivizuara, por do të aktivizohen sapo të jenë të përputhshme:">

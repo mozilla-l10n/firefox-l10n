@@ -12,7 +12,7 @@
 <!ENTITY accountTypeMail.label "Llogari email">
 <!ENTITY accountTypeMail.accesskey "e">
 <!ENTITY accountTypeNews.label "Llogari Grupi Lajmesh">
-<!ENTITY accountTypeNews.accesskey "g">
+<!ENTITY accountTypeNews.accesskey "G">
 
 <!-- Entities for Identity page -->
 

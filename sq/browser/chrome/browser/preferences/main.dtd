@@ -31,7 +31,7 @@
 <!ENTITY chooseFolderMac.label        "Zgjidhni…">
 <!ENTITY chooseFolderMac.accesskey    "Z">
 <!ENTITY alwaysAsk.label "Pyetmë përherë ku të ruhen kartelat">
-<!ENTITY alwaysAsk.accesskey "y">
+<!ENTITY alwaysAsk.accesskey "k">
 
 <!ENTITY addonsMgr.label               "Shtesa">
 <!ENTITY manageAddonsDescWin.label     "Ndryshoni mundësitë për shtesat tuaja">

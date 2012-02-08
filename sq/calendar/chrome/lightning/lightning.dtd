@@ -64,30 +64,6 @@
 <!ENTITY lightning.menupopup.open.calendar.label      "Kartelë Kalendari…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "K">
 
-<!-- Mode Toolbar -->
-<!ENTITY lightning.toolbar.mail.label         "Postë">
-<!ENTITY lightning.toolbar.mail.accesskey     "P">
-<!ENTITY lightning.toolbar.calendar.label     "Kalendar">
-<!ENTITY lightning.toolbar.calendar.tooltip   "Kaloni te skeda e kalendarit">
-<!ENTITY lightning.toolbar.calendar.accesskey "K">
-<!ENTITY lightning.toolbar.task.label         "Punë">
-<!ENTITY lightning.toolbar.task.tooltip       "Kaloni te skeda e punëve">
-<!ENTITY lightning.toolbar.task.accesskey     "P">
-
-<!-- Toolbar write button -->
-<!ENTITY lightning.toolbar.newevent.label     "Ngjarje">
-<!ENTITY lightning.toolbar.newtask.label      "Punë">
-
-<!-- Messenger Toolbar -->
-<!ENTITY lightning.toolbar.day.label                 "Ditë">
-<!ENTITY lightning.toolbar.day.accesskey             "D">
-<!ENTITY lightning.toolbar.week.label                "Javë">
-<!ENTITY lightning.toolbar.week.accesskey            "J">
-<!ENTITY lightning.toolbar.multiweek.label           "Shumëjavëshe">
-<!ENTITY lightning.toolbar.multiweek.accesskey       "S">
-<!ENTITY lightning.toolbar.month.label               "Muaj">
-<!ENTITY lightning.toolbar.month.accesskey           "M">
-
 <!-- properties dialog, calendar creation wizard -->
 <!ENTITY lightning.calendarproperties.showevents.inagenda.label "Shfaqi Ngjarjet te Kuadrati Sot">
 <!ENTITY lightning.calendarproperties.showtasks.label           "Shfaqi Ngjarjet te Kuadrati Sot dhe Mënyra Punë">

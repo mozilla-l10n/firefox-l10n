@@ -53,7 +53,7 @@
 
 
 <!ENTITY resetUserPrefs.label         "Rikthe tërë parapëlqimet e përdoruesit te parazgjedhjet e &brandShortName;-it">
-<!ENTITY resetUserPrefs.accesskey     "p">
+<!ENTITY resetUserPrefs.accesskey     "a">
 
 <!ENTITY changeAndRestartButton.label "Bëj Ndryshimet dhe Rinise">
 <!ENTITY continueButton.label         "Vazhdo në &quot;Safe Mode&quot;">

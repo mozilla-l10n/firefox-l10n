@@ -16,7 +16,7 @@
 <!ENTITY enableJunkLogging.label "Aktivizo regjistrim nga filtrat për të pavlerat">
 <!ENTITY enableJunkLogging.accesskey "A">
 <!ENTITY openJunkLog.label "Shfaq regjistrimin">
-<!ENTITY openJunkLog.accesskey "q">
+<!ENTITY openJunkLog.accesskey "h">
 <!ENTITY resetTrainingData.label "Rirregulloni të Dhëna Stërvitjeje">
 <!ENTITY resetTrainingData.accesskey "R">
 
@@ -55,7 +55,6 @@
 <!ENTITY close.label                    "deri sa të mbyll &brandShortName;-in">
 <!ENTITY askEachTime.label              "pyetmë çdo herë">
 <!ENTITY cookieExceptions.label         "Përjashtime…">
-<!ENTITY cookieExceptions.accesskey     "j">
+<!ENTITY cookieExceptions.accesskey     "ë">
 <!ENTITY showCookies.label              "Shfaqni &quot;Cookie&quot;-t…">
 <!ENTITY showCookies.accesskey          "S">
-

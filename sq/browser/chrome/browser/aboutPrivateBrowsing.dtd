@@ -4,7 +4,7 @@
 <!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName;-i nuk do të mbajë mend ndonjë historik rreth këtij sesioni.">
 <!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName;-i tani nuk është në mënyrën Shfletim Vetjak.">
 
-<!ENTITY privatebrowsingpage.description               "Gjatë një sesioni Shfletimi Vetjak, &brandShortName;-i nuk do të ruajë ndonjë historik shfletimi, historik kërkimesh, historik shkarkimesh, historik formularësh web, &quot;cookie&quot;, apo kartela të përkohëshme interneti.  Sidoqoftë,  do të ruhen kartelat që shkarkoni apo faqerojtësit që krijoni.">
+<!ENTITY privatebrowsingpage.description               "Gjatë një sesioni Shfletimi Vetjak, &brandShortName;-i nuk do të ruajë ndonjë historik shfletimi, historik kërkimesh, historik shkarkimesh, historik formularësh web, &quot;cookie&quot;, apo kartela të përkohshme interneti.  Sidoqoftë, do të ruhen kartelat që shkarkoni apo faqerojtësit që krijoni.">
 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->

@@ -38,7 +38,7 @@
 <!ENTITY pkcs12.getpassword.title "Dialog Dhënjeje Fjalëkalimesh">
 <!ENTITY pkcs12.setpassword.label1 "Fjalëkalim kopjeruajtjeje dëshmish:">
 <!ENTITY pkcs12.setpassword.label2 "Fjalëkalim kopjeruajtjeje dëshmish (sërish):">
-<!ENTITY pkcs12.setpassword.message "Fjalëkalimi për kopjeruajtje dëshmish që caktoni këtu, mbron kartelën kopjeruajtje që jeni duke krijuar.  Duhe t të caktoni këtë fjalëkalim për të vazhduar më tej me kopjeruajtjen.">
+<!ENTITY pkcs12.setpassword.message "Fjalëkalimi për kopjeruajtje dëshmish që caktoni këtu, mbron kartelën kopjeruajtje që jeni duke krijuar.  Duhe të caktoni këtë fjalëkalim për të vazhduar më tej me kopjeruajtjen.">
 <!ENTITY pkcs12.setpassword.reminder "E rëndësishme: Nëse harroni fjalëkalim kopjeruajtjeje dëshmish, nuk do të jeni në gjendje të riktheni më vonë këtë kopjeruajtje.  Ju lutem, regjistrojeni në një vend të sigurt.">
 <!ENTITY pkcs12.setpassword.title "Zgjidhni një Fjalëkalim Kopjeruajtjeje Dëshmish">
 <!ENTITY pref.security.general.certificates.title "Dëshmi">

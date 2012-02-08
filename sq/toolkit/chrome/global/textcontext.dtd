@@ -6,8 +6,8 @@
 <!ENTITY deleteCmd.accesskey "F">
 <!ENTITY pasteCmd.accesskey "N">
 <!ENTITY pasteCmd.label "Ngjite">
-<!ENTITY selectAllCmd.accesskey "j">
 <!ENTITY selectAllCmd.label "Përzgjidhe Krejt">
+<!ENTITY selectAllCmd.accesskey "i">
 <!ENTITY undoCmd.accesskey "z">
 <!ENTITY undoCmd.label "Zhbëje">
 <!ENTITY spellAddToDictionary.label "Shtoje në fjalor">
@@ -15,5 +15,5 @@
 <!ENTITY spellNoSuggestions.label "(Pa këshillime drejtshkrimi)">
 <!ENTITY spellDictionaries.label "Gjuhë">
 <!ENTITY spellDictionaries.accesskey "G">
-<!ENTITY spellCheckEnable.label "Kontrollo Drejtshkrimin">
+<!ENTITY spellCheckEnable.label "Kontrolloji Drejtshkrimin">
 <!ENTITY spellCheckEnable.accesskey "D">

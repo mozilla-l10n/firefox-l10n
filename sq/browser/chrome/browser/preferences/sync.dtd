@@ -23,17 +23,17 @@
 <!ENTITY unlinkDevice.label           "Shkëpute Këtë Pajisje">
 
 <!ENTITY syncMy.label               "Njëkohëso">
-<!ENTITY engine.bookmarks.label     "Faqerojtësit e Mij">
+<!ENTITY engine.bookmarks.label     "Faqerojtësit e Mi">
 <!ENTITY engine.bookmarks.accesskey "F">
 <!ENTITY engine.tabs.label          "Skedat e Mia">
 <!ENTITY engine.tabs.accesskey      "S">
 <!ENTITY engine.history.label       "Historikun Tim">
 <!ENTITY engine.history.accesskey   "H">
-<!ENTITY engine.passwords.label     "Fjalëkalimet e Mij">
+<!ENTITY engine.passwords.label     "Fjalëkalimet e Mi">
 <!ENTITY engine.passwords.accesskey "k">
 <!ENTITY engine.prefs.label         "Parapëlqimet e Mia">
 <!ENTITY engine.prefs.accesskey     "P">
-<!ENTITY engine.addons.label        "Skeda">
+<!ENTITY engine.addons.label        "Skedat">
 <!ENTITY engine.addons.accesskey    "A">
 
 <!-- Footer stuff -->
