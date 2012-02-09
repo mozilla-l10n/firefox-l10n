@@ -46,6 +46,8 @@
 <!ENTITY CreateFilterFrom.accesskey        "F">
 <!ENTITY copyLinkCmd.label                 "Koppelingslocatie kopiëren">
 <!ENTITY copyLinkCmd.accesskey             "k">
+<!ENTITY bookmarkLinkCmd.label             "Bladwijzer voor deze koppeling maken…">
+<!ENTITY bookmarkLinkCmd.accesskey         "B">
 <!ENTITY CopyMessageId.label               "Bericht-ID kopiëren">
 <!ENTITY CopyMessageId.accesskey           "k">
 <!ENTITY OpenMessageForMsgId.label         "Bericht voor ID openen">
