@@ -58,15 +58,6 @@
 <!ENTITY wrapOutMsg.accesskey                 "P">
 <!ENTITY char.label                           "tekens">
 
-<!ENTITY spellingHeader.label                 "Spelling">
-<!ENTITY spellCheck.label                     "Spelling controleren voor verzenden">
-<!ENTITY spellCheck.accesskey                 "c">
-<!ENTITY spellCheckInline.label               "Spelling controleren tijdens het typen">
-<!ENTITY spellCheckInline.accesskey           "o">
-<!ENTITY languagePopup.label                  "Taal:">
-<!ENTITY languagePopup.accessKey              "T">
-<!ENTITY moreDictionaries.label               "Meer woordenboeken downloaden…">
-
 <!ENTITY defaultMessagesHeader.label          "Standaardwaarden voor HTML-berichten">
 <!ENTITY font.label                           "Lettertype:">
 <!ENTITY font.accesskey                       "L">

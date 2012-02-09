@@ -23,10 +23,3 @@
 <!ENTITY languages.customize.moveUp.accesskey           "O">
 <!ENTITY languages.customize.moveDown.label             "Omlaag verplaatsen">
 <!ENTITY languages.customize.moveDown.accesskey         "m">
-
-<!ENTITY spelling.label                                 "Spelling">
-<!ENTITY checkSpelling.label                            "Mijn spelling controleren tijdens het typen:">
-<!ENTITY checkSpelling.accesskey                        "c">
-<!ENTITY dontCheckSpelling.label                        "Nooit">
-<!ENTITY multilineCheckSpelling.label                   "In meerregelige velden">
-<!ENTITY alwaysCheckSpelling.label                      "Alle velden">
