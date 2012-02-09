@@ -10,7 +10,7 @@
      main window. NB: the property chromeWindowTitle in styleeditor.properties
      is used to dynamically update the Style Editor window title with the title
      of the web page it is editing. -->
-<!ENTITY window.title               "Stil editörü">
+<!ENTITY window.title               "Stil Editörü">
 
 <!ENTITY newButton.label            "Yeni">
 <!ENTITY newButton.tooltip          "Yeni bir stil sayfası oluştur ve belgeye ekle">
