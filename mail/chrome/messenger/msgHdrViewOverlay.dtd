@@ -130,5 +130,8 @@
 <!ENTITY copyLinkCmd.accesskey "k">
 
 <!ENTITY CopyMessageId.label "Bericht-ID kopiëren">
+<!ENTITY CopyMessageId.accesskey "k">
 <!ENTITY OpenMessageForMsgId.label "Bericht voor ID openen">
+<!ENTITY OpenMessageForMsgId.accesskey "o">
 <!ENTITY OpenBrowserWithMsgId.label "Browser met bericht-ID openen">
+<!ENTITY OpenBrowserWithMsgId.accesskey "B">

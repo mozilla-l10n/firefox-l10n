@@ -66,8 +66,16 @@
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
 -->
+<!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
+     haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
+-->
+<!ENTITY modifyOutgoing.suffix "U kunt uitgaande servers wijzigen in de accountinstellingen.">
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
+-->
 <!ENTITY haveSmtp1.prefix "Uw bestaande uitgaande (SMTP-)server, “">
-<!ENTITY haveSmtp1.suffix2 "”, zal worden gebruikt. U kunt uitgaande servers wijzigen in de accountinstellingen.">
+<!ENTITY haveSmtp1.suffix3 "”, zal worden gebruikt.">
 
 <!-- Entities for Login page -->
 
@@ -80,18 +88,18 @@
 <!ENTITY usernameSmtpDesc.label "Voer de uitgaande gebruikersnaam in die u van uw e-mailprovider hebt gekregen (dit is meestal dezelfde als uw inkomende gebruikersnaam).">
 <!ENTITY usernameSmtpLabel.label "Uitgaande gebruikersnaam:">
 <!ENTITY usernameSmtpLabel.accesskey "a">
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
+    these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Uw bestaande uitgaande (SMTP-)gebruikersnaam, “">
-<!ENTITY haveSmtp2.suffix2 "”, zal worden gebruikt. U kunt uitgaande servers wijzigen in de accountinstellingen.">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
+<!ENTITY haveSmtp2.suffix3 "”, zal worden gebruikt.">
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Uw uitgaande (SMTP-)server, “">
-<!ENTITY haveSmtp3.suffix2 "”, is identiek aan uw inkomende server, uw inkomende gebruikersnaam zal worden gebruikt om toegang te krijgen. U kunt uitgaande servers wijzigen in de accountinstellingen.">
+<!ENTITY haveSmtp3.suffix3 "”, is identiek aan uw inkomende server, uw inkomende gebruikersnaam zal worden gebruikt om toegang te krijgen.">
 
 <!-- Entities for Account name page -->
 

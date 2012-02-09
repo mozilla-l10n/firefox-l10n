@@ -17,7 +17,9 @@
 <!ENTITY allowContextmenuDisable.label   "Contextmenu’s uit te schakelen of te vervangen">
 <!ENTITY allowHideStatusBar.label        "De statusbalk te verbergen">
 
-<!ENTITY enablePlugin.label              "Plug-ins inschakelen voor">
+<!ENTITY enablePlugin.label              "Plug-ins inschakelen voor:">
+<!ENTITY enablePluginForSuite.label      "Suite">
+<!ENTITY enablePluginForSuite.accesskey  "u">
 
 <!ENTITY whenPluginsRequired.label       "Wanneer extra plug-ins nodig zijn">
 <!ENTITY displayNotification.label       "Een notificatiebalk boven in het inhoudsvenster weergeven">
