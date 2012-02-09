@@ -463,8 +463,12 @@
 <!ENTITY inspectButton.label          "Shqyrtoje">
 <!ENTITY inspectButton.accesskey      "q">
 <!ENTITY inspectCloseButton.tooltiptext "Mbylleni Mbikëqyrësin">
-<!ENTITY inspect3DButton.label        "3D">
-<!ENTITY inspect3DButton.accesskey    "M">
+
+<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
+  -  alternate view for the Inspector, creating a 3D visualization of the
+  -  webpage. -->
+<!ENTITY inspect3DViewButton.label     "Pamje 3D">
+<!ENTITY inspect3DViewButton.accesskey "a">
 <!ENTITY inspectStyleButton.label     "Stil">
 <!ENTITY inspectStyleButton.accesskey "t">
 

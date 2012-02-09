@@ -9,4 +9,4 @@
 <!ENTITY text.label "Tekst">
 <!ENTITY undoChanges.label "Zhbëji Ndryshimet">
 <!ENTITY useSmallIcons.label "Përdor Ikona të Vogla">
-<!ENTITY dialog.style "width: 86ch; height: 36em;">
+<!ENTITY dialog.dimensions        "width: 92ch; height: 36em;">

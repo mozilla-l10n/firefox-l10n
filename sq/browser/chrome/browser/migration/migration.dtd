@@ -12,6 +12,9 @@
 <!ENTITY importFromSafari.label "Safari">
 <!ENTITY importFromChrome.label         "Chrome">
 <!ENTITY importFromChrome.accesskey     "C">
+<!ENTITY importFromFirefox.label        "Firefox">
+<!ENTITY importFromFirefox.accesskey    "F">
+
 <!ENTITY importFromUnix.label "Importo Parapëlqime, Faqerojtësa, Historik, Fjalëkalime dhe të dhëna të tjera prej:">
 <!ENTITY importItems.label "Përzgjidhni cilët objekte të importohen:">
 <!ENTITY importItems.title "Objekte për Importim">
