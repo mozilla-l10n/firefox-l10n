@@ -11,7 +11,6 @@
 <!ENTITY props.expires.label "Skadon:">
 <!ENTITY props.name.label "Emër:">
 <!ENTITY props.path.label "Shteg:">
-<!ENTITY props.policy.label "Rregull:">
 <!ENTITY props.secure.label "Dërgo Për:">
 <!ENTITY props.value.label "Përmbajtje:">
 
