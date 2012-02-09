@@ -269,6 +269,10 @@
 
 <!ENTITY findCmd.label "In dit bericht zoeken…">
 
+<!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
+     This is the key used to show the Lightning quick filter bar. -->
+<!ENTITY quickFilterBar.show.key2 "K">
+
 <!-- Go Menu -->
 
 <!ENTITY goMenu.label "Ga">
@@ -445,7 +449,6 @@
 <!ENTITY deleteButton.label "Verwijderen">
 <!ENTITY undeleteButton.label "Terugplaatsen">
 <!ENTITY markButton.label "Markeren">
-<!ENTITY printButton.label "Afdrukken">
 <!ENTITY stopButton.label "Stoppen">
 <!ENTITY junkButton.label "Ongewenst">
 <!ENTITY notJunkButton.label "Niet ongewenst">
@@ -469,7 +472,6 @@
 <!ENTITY deleteButton.tooltip "Geselecteerde bericht of map verwijderen">
 <!ENTITY undeleteButton.tooltip "Geselecteerde bericht terugplaatsen">
 <!ENTITY markButton.tooltip "Berichten markeren">
-<!ENTITY printButton.tooltip "Dit bericht afdrukken">
 <!ENTITY stopButton.tooltip "De huidige overdracht stoppen">
 <!ENTITY throbber.tooltip "Naar de &vendorShortName;-startpagina">
 <!ENTITY junkButton.tooltip "Geselecteerde berichten als ongewenst markeren">

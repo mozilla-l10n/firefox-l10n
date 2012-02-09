@@ -36,5 +36,6 @@
 <!ENTITY policies.label "Beveiligingsbeleid">
 <!ENTITY mousewheel.label "Muiswiel">
 <!ENTITY scriptsAndWindows.label "Scripts &amp; plug-ins">
+<!ENTITY spellingPane.label  "Spelling">
 
 <!ENTITY focusSearch.key "f">

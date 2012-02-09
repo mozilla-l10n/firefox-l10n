@@ -16,8 +16,8 @@
 
 <!ENTITY navbarCmd.label "Navigatiewerkbalk">
 <!ENTITY navbarCmd.accesskey "N">
-<!ENTITY personalbarCmd.label "Persoonlijke werkbalk">
-<!ENTITY personalbarCmd.accesskey "P">
+<!ENTITY bookmarksToolbarCmd.label     "Bladwijzerwerkbalk">
+<!ENTITY bookmarksToolbarCmd.accesskey "B">
 
 <!ENTITY closeWindow.label "Venster sluiten">
 <!ENTITY closeWindow.accesskey "n">
@@ -29,7 +29,7 @@
 <!ENTITY feedsMenu.accesskey "o">
 
 <!ENTITY menuBar.tooltip                  "Menubalk">
-<!ENTITY personalToolbar.tooltip          "Persoonlijke werkbalk">
+<!ENTITY bookmarksToolbar.tooltip         "Bladwijzerwerkbalk">
 <!ENTITY navigationToolbar.tooltip        "Navigatiewerkbalk">
 
 <!-- Toolbar items --> 
