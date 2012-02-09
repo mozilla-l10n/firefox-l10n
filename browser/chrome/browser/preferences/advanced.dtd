@@ -8,7 +8,7 @@
 <!ENTITY useCursorNavigation.accesskey   "S">
 <!ENTITY searchStartTyping.label         "Yazmaya başlar başlamaz arama yap">
 <!ENTITY searchStartTyping.accesskey     "z">
-<!ENTITY blockAutoRefresh.label          "Siteler sayfaları yönlendirmek ya da tazelemek istediğinde beni uyar">
+<!ENTITY blockAutoRefresh.label          "Siteler sayfaları yönlendirmek veya tazelemek istediğinde beni uyar">
 <!ENTITY blockAutoRefresh.accesskey      "r">
 
 <!ENTITY browsing.label                  "Tarama">
@@ -23,7 +23,7 @@
 <!ENTITY checkSpelling.accesskey         "t">
 
 <!ENTITY systemDefaults.label            "Varsayılan sistem ayarları">
-<!ENTITY alwaysCheckDefault.label        "Her başlangıçta &brandShortName; tarayıcısının varsayılan olup olmadığına bak"><!--XXX-->
+<!ENTITY alwaysCheckDefault.label        "Her başlangıçta &brandShortName; tarayıcısının varsayılan olup olmadığına bak"><!---->
 <!ENTITY alwaysCheckDefault.accesskey    "b">
 <!ENTITY checkNow.label                  "Şimdi bak">
 <!ENTITY checkNow.accesskey              "m">

@@ -30,10 +30,10 @@
 <!ENTITY openFileCmd.commandkey       "o">
 
 <!ENTITY saveFileCmd.label            "Kaydet">
-<!ENTITY saveFileCmd.accesskey        "S">
-<!ENTITY saveFileCmd.commandkey       "K">
+<!ENTITY saveFileCmd.accesskey        "K">
+<!ENTITY saveFileCmd.commandkey       "S">
 
-<!ENTITY saveFileAsCmd.label          "Farklı kaydet...">
+<!ENTITY saveFileAsCmd.label          "Farklı kaydet…">
 <!ENTITY saveFileAsCmd.accesskey      "a">
 
 <!ENTITY closeCmd.label               "Kapat">
@@ -43,7 +43,7 @@
 <!ENTITY editMenu.label               "Düzenle">
 <!ENTITY editMenu.accesskey           "D">
 
-<!ENTITY undoCmd.label                "Geri al ">
+<!ENTITY undoCmd.label                "Geri al">
 <!ENTITY undoCmd.key                  "Z">
 <!ENTITY undoCmd.accesskey            "G">
 

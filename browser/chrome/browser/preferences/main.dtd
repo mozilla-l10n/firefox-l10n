@@ -13,7 +13,7 @@
 <!ENTITY useCurrentPage.label      "Güncel sayfayı kullan">
 <!ENTITY useCurrentPage.accesskey  "G">
 <!ENTITY useMultiple.label         "Güncel sayfaları kullan">
-<!ENTITY chooseBookmark.label      "Yer imi kullan...">
+<!ENTITY chooseBookmark.label      "Yer imi kullan…">
 <!ENTITY chooseBookmark.accesskey  "Y">
 <!ENTITY restoreDefault.label      "Varsayılanı geri getir">
 <!ENTITY restoreDefault.accesskey  "r">

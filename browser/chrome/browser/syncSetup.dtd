@@ -31,13 +31,13 @@
 <!ENTITY setup.confirmPassword.accesskey "d">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
-<!ENTITY setup.tosAgree1.label      "Şunları kabul ediyorum:">
-<!ENTITY setup.tosAgree1.accesskey  "k">
-<!ENTITY setup.tosLink.label        "Kullanım Koşulları">
+<!ENTITY setup.tosAgree1.label      "">
+<!ENTITY setup.tosAgree1.accesskey  "">
+<!ENTITY setup.tosLink.label        "Kullanım Koşullarını">
 <!ENTITY setup.tosAgree2.label      "ve">
-<!ENTITY setup.ppLink.label         "Gizlilik Anlaşması">
-<!ENTITY setup.tosAgree3.label      "">
-<!ENTITY setup.tosAgree2.accesskey  "">
+<!ENTITY setup.ppLink.label         "Gizlilik Anlaşmasını">
+<!ENTITY setup.tosAgree3.label      "kabul ediyorum">
+<!ENTITY setup.tosAgree2.accesskey  "k">
 
 <!-- My Recovery Key dialog -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; gizliliğinize önem verir">
@@ -94,11 +94,11 @@
 <!ENTITY choice2.merge.main.label      "Bu bilgisayarın verileriyle &syncBrand.shortName.label; verilerimi birleştir">
 <!ENTITY choice2.merge.recommended.label "Tavsiye edilen:">
 <!ENTITY choice2.client.main.label     "Bu bilgisayardaki tüm verilerin yerine &syncBrand.shortName.label; verilerimi koy">
-<!ENTITY choice2.server.main.label     "Diğer tüm aygıtlardaki verileri bu bilgisayardaki verilerle değiştir">
+<!ENTITY choice2.server.main.label     "Diğer tüm aygıtlardaki verilerin yerine bu bilgisayardaki verileri koy">
 
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Onayla">
-<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; bu bilgisayardaki tüm tarayıcı verilerini Sync hesabınızla birleştirecek.">
+<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; bu bilgisayardaki tüm tarayıcı verileriniz Sync hesabınızla birleştirecek.">
 <!ENTITY confirm.client2.label         "Uyarı: Aşağıda görünen bu bilgisayardaki &brandShortName; verileri silinecek:">
 <!ENTITY confirm.client.moreinfo.label "&brandShortName; daha sonra &syncBrand.fullName.label; verilerinizi bu bilgisayara kopyalacak.">
 <!ENTITY confirm.server2.label         "Uyarı: Aşağıdaki aygıtlardaki veriler yerel verilerinizle değiştirilecek:">

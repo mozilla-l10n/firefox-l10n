@@ -4,8 +4,8 @@
 # your locale code, and link to your translated pages as soon as they're 
 # live.
 
-#define bookmarks_title Yer İmleri
-#define bookmarks_heading Yer İmleri
+#define bookmarks_title Yer imleri
+#define bookmarks_heading Yer imleri
 
 #define bookmarks_toolbarfolder Yer İmi Araç Çubuğu Dizini
 #define bookmarks_toolbarfolder_description Bu dizine yer imi araç çubuğunda gösterilecek yer imlerini ekleyin
