@@ -1,5 +1,5 @@
 <!ENTITY dialog.title             "ប្តូរ​របារ​ឧបករណ៍​តាម​បំណង">
-<!ENTITY dialog.dimensions        "width: 92ch; height: 36em;">
+<!ENTITY dialog.dimensions        "width: 92ch; height: 37em;">
 <!ENTITY instructions.description "អ្នក​អាច​បន្ថែម ឬ​យក​ធាតុ​ចេញ ដោយ​ការ​អូស​ទៅកាន់ ឬ​ពី​របារ​ឧបករណ៍ ។">
 <!ENTITY show.label               "បង្ហាញ ៖">
 <!ENTITY iconsAndText.label       "រូប​តំណាង និង​អត្ថបទ">
