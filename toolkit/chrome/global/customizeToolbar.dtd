@@ -1,3 +1,5 @@
+
+
 <!ENTITY addNewToolbar.label "Προσθήκη νέας">
 <!ENTITY dialog.title "Προσαρμογή εργαλειοθήκης">
 <!ENTITY icons.label "Εικονίδια">
@@ -9,4 +11,5 @@
 <!ENTITY text.label "Κείμενο">
 <!ENTITY undoChanges.label "Αναίρεση αλλαγών">
 <!ENTITY useSmallIcons.label "Χρήση μικρών εικονιδίων">
-<!ENTITY dialog.style             "width: 90ch; height: 38em;">
+
+<!ENTITY dialog.dimensions        "width: 92ch; height: 38em;">

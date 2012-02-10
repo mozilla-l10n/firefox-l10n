@@ -23,7 +23,7 @@
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Χρήση μνήμης">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "Τροποποιημένες προτιμήσεις">
+
 <!ENTITY aboutSupport.modifiedPrefsName "Όνομα">
 <!ENTITY aboutSupport.modifiedPrefsValue "Τιμή">
 
@@ -32,7 +32,7 @@
 
 <!ENTITY aboutSupport.copyToClipboard.label "Αντιγραφή όλων στο πρόχειρο">
 
-<!ENTITY aboutSupport.show.label "Άνοιγμα φακέλου">
+
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.show.label.  This allows us to use the preferred
@@ -43,3 +43,8 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 
 <!ENTITY aboutSupport.appBasicsCrashIDs "Αναφορές καταρρεύσεων">
 
+
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Σημαντικές τροποποιημένες προτιμήσεις">
+
+<!ENTITY aboutSupport.showDir.label "Άνοιγμα καταλόγου">
+<!ENTITY aboutSupport.showWin.label "Προβολή φακέλου">

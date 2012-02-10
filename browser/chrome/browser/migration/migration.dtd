@@ -30,3 +30,5 @@
 <!ENTITY importFromHTMLFile.label       "Από αρχείο HTML">
 <!ENTITY importFromHTMLFile.accesskey   "χ">
 
+<!ENTITY importFromFirefox.label        "Firefox">
+<!ENTITY importFromFirefox.accesskey    "X">

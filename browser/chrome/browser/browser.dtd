@@ -612,8 +612,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY domFullScreenWarning.label "Πατήστε ESC για έξοδο από τη λειτουργία πλήρους οθόνης">
 <!ENTITY inspectCloseButton.tooltiptext "Κλείσιμο Inspector">
 <!ENTITY inspectStyleButton.label     "Στυλ">
-<!ENTITY inspect3DButton.label        "3D">
-<!ENTITY inspect3DButton.accesskey    "3">
+
+<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
+  -  alternate view for the Inspector, creating a 3D visualization of the
+  -  webpage. -->
+<!ENTITY inspect3DViewButton.label     "Προβολή 3D">
+<!ENTITY inspect3DViewButton.accesskey "β">
 
 <!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
   -  in the Tools menu. -->

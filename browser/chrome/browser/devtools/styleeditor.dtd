@@ -22,17 +22,6 @@
 <!ENTITY importButton.accesskey     "ι">
 <!ENTITY importButton.commandkey    "i">
 
-<!ENTITY searchInput.tooltip        "Φιλτράρισμα style sheets κατά όνομα">
-<!ENTITY searchInput.placeholder    "Εύρεση style sheet">
-
-<!-- LOCALIZATION NOTE  (searchNoResults): This is shown when searching a term
-     that is not found in any stylesheet or stylesheet name. -->
-<!ENTITY searchNoResults.label      "Δεν βρέθηκε style sheet που να ταιριάζει.">
-
-<!-- LOCALIZATION NOTE  (searchClearButton): This button clears the search input
-     box and is visible only when a search term has been typed. -->
-<!ENTITY searchClearButton.label    "Εκκαθάριση">
-
 <!ENTITY visibilityToggle.tooltip   "Εναλλαγή ορατότητας style sheet">
 <!ENTITY visibilityToggle.accesskey "ρ">
 
@@ -60,4 +49,8 @@
 <!ENTITY noStyleSheet-tip-action.label "προσθέσετε ένα νέο style sheet">
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-end.label): End of the tip sentence -->
 <!ENTITY noStyleSheet-tip-end.label    ";">
+
+<!-- LOCALIZATION NOTE  (closeCmd.key): Accel + this key closes the window. -->
+<!ENTITY closeCmd.key                  "W">
+
 
