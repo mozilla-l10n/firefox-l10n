@@ -88,7 +88,7 @@
 <!ENTITY forwardButton.tooltip  "Vazhdoni përpara">
 <!ENTITY detailsPane.more.label "Më tepër">
 <!ENTITY detailsPane.less.label "Më pak">
-<!ENTITY detailsPane.selectAnItemText.description "Përzgjidhni një objekt për ta parë dhe për t&quot;i përpunuar vetitë">
+<!ENTITY detailsPane.selectAnItemText.description "Përzgjidhni një objekt për ta parë dhe për t&amp;i përpunuar vetitë">
 <!ENTITY detailsPane.less.accesskey "M">
 <!ENTITY detailsPane.more.accesskey "e">
 <!ENTITY maintenance.accesskey  "I">
