@@ -35,6 +35,7 @@
 <!ENTITY search.label "Búsqueda en Internet">
 <!ENTITY policies.label "Políticas de seguridad">
 <!ENTITY mousewheel.label "Rueda del mouse">
-<!ENTITY scriptsAndWindows.label "Scripts y Plugins">
+<!ENTITY scriptsAndWindows.label "Scripts y plugins">
+<!ENTITY spellingPane.label  "Ortografía">
 
 <!ENTITY focusSearch.key "f">

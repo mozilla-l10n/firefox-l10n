@@ -24,9 +24,3 @@
 <!ENTITY languages.customize.moveDown.label             "Bajar">
 <!ENTITY languages.customize.moveDown.accesskey         "B">
 
-<!ENTITY spelling.label                                 "Ortografía">
-<!ENTITY checkSpelling.label                            "Verificar ortografía mientras escriba:">
-<!ENTITY checkSpelling.accesskey                        "V">
-<!ENTITY dontCheckSpelling.label                        "Nunca">
-<!ENTITY multilineCheckSpelling.label                   "En cajas de texto multilínea">
-<!ENTITY alwaysCheckSpelling.label                      "Todas las cajas">

@@ -179,6 +179,10 @@
 <!ENTITY calendar.task.complete.button.tooltip  "Marcar tareas seleccionadas como completas">
 <!ENTITY calendar.task.priority.button.tooltip  "Cambiar la prioridad">
 
+<!ENTITY calendar.task.text-filter.textbox.emptytext.base            "Filtrar tareas… #1">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+May+K&gt;">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
+
 <!-- Statusbar -->
 <!ENTITY statusText.label            "Documento: Hecho">
 
@@ -213,6 +217,8 @@
 <!ENTITY calendar.context.progress.accesskey          "P">
 <!ENTITY calendar.context.priority.label              "Prioridad">
 <!ENTITY calendar.context.priority.accesskey          "r">
+<!ENTITY calendar.context.postpone.label              "Posponer tarea">
+<!ENTITY calendar.context.postpone.accesskey          "s">
 
 <!ENTITY percnt "&#38;#37;" ><!--=percent sign-->
 
@@ -238,6 +244,13 @@
 <!ENTITY priority.level.normal.accesskey    "N">
 <!ENTITY priority.level.high                "Alta">
 <!ENTITY priority.level.high.accesskey      "A">
+
+<!ENTITY calendar.context.postpone.1hour.label      "1 hora">
+<!ENTITY calendar.context.postpone.1hour.accesskey  "h">
+<!ENTITY calendar.context.postpone.1day.label       "1 día">
+<!ENTITY calendar.context.postpone.1day.accesskey   "d">
+<!ENTITY calendar.context.postpone.1week.label      "1 semana">
+<!ENTITY calendar.context.postpone.1week.accesskey  "s">
 
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
@@ -322,7 +335,7 @@
 <!ENTITY calendarproperties.name.label     "Nombre:">
 <!ENTITY calendarproperties.readonly.label "Sólo lectura">
 <!ENTITY calendarproperties.firealarms.label "Mostrar alarmas">
-<!ENTITY calendarproperties.cache2.label    "Caché">
+<!ENTITY calendarproperties.cache2.label                   "Caché">
 <!ENTITY calendarproperties.enabled.label "Cambiar a este calendario">
 <!ENTITY calendarproperties.forceDisabled.label            "No pudo encontrase el proveedor de este calendario. Ésto pasa a menudo si ha deshabilitado o desinstalado ciertos complementos.">
 <!ENTITY calendarproperties.unsubscribe.label              "Desuscribir">
