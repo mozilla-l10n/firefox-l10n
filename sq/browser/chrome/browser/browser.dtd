@@ -462,7 +462,7 @@
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "Shqyrtoje">
 <!ENTITY inspectButton.accesskey      "q">
-<!ENTITY inspectCloseButton.tooltiptext "Mbylleni Mbikëqyrësin">
+<!ENTITY inspectCloseButton.tooltiptext "Mbylleni Shqyrtuesin">
 
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
   -  alternate view for the Inspector, creating a 3D visualization of the
@@ -561,7 +561,7 @@ can reach it easily. -->
 <!ENTITY getMoreDevtoolsCmd.label        "Merrni Më Tepër Mjete">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "M">
 
-<!ENTITY inspectContextMenu.label     "Mbikëqyreni Elementin">
+<!ENTITY inspectContextMenu.label     "Shqyrtoje Elementin">
 <!ENTITY inspectContextMenu.accesskey "E">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears

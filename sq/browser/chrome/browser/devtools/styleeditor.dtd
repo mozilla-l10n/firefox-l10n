@@ -14,7 +14,7 @@
 
 <!ENTITY newButton.label            "I ri">
 <!ENTITY newButton.tooltip          "Krijoni dhe ngjisni te dokumenti një fletë stili të ri">
-<!ENTITY newButton.accesskey        "K">
+<!ENTITY newButton.accesskey        "r">
 <!ENTITY newButton.commandkey       "n">
 
 <!ENTITY importButton.label         "Importoni…">
