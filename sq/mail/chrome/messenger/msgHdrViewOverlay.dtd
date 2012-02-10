@@ -129,5 +129,8 @@
 <!ENTITY copyLinkCmd.accesskey    "K">
 
 <!ENTITY CopyMessageId.label "Kopjo ID Mesazhi">
+<!ENTITY CopyMessageId.accesskey "K">
 <!ENTITY OpenMessageForMsgId.label "Hap Mesazhin Për ID-në">
-<!ENTITY OpenBrowserWithMsgId.label "Hap Shfletuesin Me ID Mesazhi">
+<!ENTITY OpenMessageForMsgId.accesskey "H">
+<!ENTITY OpenBrowserWithMsgId.label "Hape Shfletuesin Me Mesazhin Me ID">
+<!ENTITY OpenBrowserWithMsgId.accesskey "M">
