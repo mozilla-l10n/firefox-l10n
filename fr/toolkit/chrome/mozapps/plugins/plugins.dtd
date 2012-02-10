@@ -35,7 +35,7 @@
 <!ENTITY reloadPlugin.middle                                 "Actualiser la page">
 <!ENTITY reloadPlugin.post                                   " pour essayer à nouveau.">
 <!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.checkbox                                     "…et envoyer un rapport de plantage">
+<!ENTITY report.please                                       "Envoyer un rapport de plantage">
 <!ENTITY report.submitting                                   "Envoi du rapport…">
 <!ENTITY report.submitted                                    "Rapport de plantage envoyé.">
 <!ENTITY report.disabled                                     "Rapport de plantage désactivé.">
