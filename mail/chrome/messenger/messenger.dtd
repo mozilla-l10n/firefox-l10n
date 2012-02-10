@@ -338,6 +338,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY thisFolder.label "Këtë Dosje">
 <!ENTITY thisFolder.accesskey "K">
 <!ENTITY goRecentlyClosedTabs.label "Skeda të Mbyllura Së Fundmi">
+<!ENTITY goRecentlyClosedTabs.accesskey "S">
 <!ENTITY startPageCmd.label "Faqe Fillimi Poste">
 <!ENTITY startPageCmd.accesskey "F">
 
