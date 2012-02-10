@@ -39,6 +39,9 @@
 <!ENTITY safeModeDialog.title "&brandShortName; drošais režīms">
 <!ENTITY window.width "37em">
 
+<!ENTITY autoSafeModeIntro.label      "&brandShortName; negaidīti aizvērās atvēršanās laikā">
+<!ENTITY autoSafeModeDescription.label "Mēs patiesi atvainojamies par šo apgrūtinājumu. &brandShortName; šobrīd darbojas drošajā režīmā, kurā īslaicīgi nav pieejami jūsu pielāgotie iestatījumi, tēmas un papildinājumi">
+
 <!ENTITY safeModeDescription.label "&brandShortName; šobrīd darbojas drošajā režīmā, kas nozīmē, ka jūsu veiktie pielāgojumi, instalētās tēmas un papildinājumi pašlaik ir deaktivizēti.">
 <!ENTITY safeModeDescription2.label "Jūs dažas vai visas no šīm izmaiņām varat padarīt pastāvīgas:">
 
