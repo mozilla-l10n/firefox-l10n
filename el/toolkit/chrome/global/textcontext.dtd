@@ -19,3 +19,5 @@
 <!ENTITY spellCheckEnable.label "Ορθογραφικός έλεγχος">
 <!ENTITY spellCheckEnable.accesskey "θ">
 
+<!ENTITY spellUndoAddToDictionary.label "Αναίρεση προσθήκης στο λεξικό">
+<!ENTITY spellUndoAddToDictionary.accesskey "ν">
