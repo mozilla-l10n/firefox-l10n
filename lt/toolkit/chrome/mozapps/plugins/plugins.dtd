@@ -34,8 +34,8 @@
 <!ENTITY reloadPlugin.pre                                    "Pabandykite ">
 <!ENTITY reloadPlugin.middle                                 "įkelti tinklalapį iš naujo">
 <!ENTITY reloadPlugin.post                                   ".">
-<!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.checkbox                                     "…ir išsiųskite strigties pranešimą">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "Išsiųsti strigties pranešimą">
 <!ENTITY report.submitting                                   "Pranešimas siunčiamas…">
 <!ENTITY report.submitted                                    "Strigties pranešimas išsiųstas.">
 <!ENTITY report.disabled                                     "Strigčių pranešimai išjungti.">
