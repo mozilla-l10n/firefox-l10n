@@ -34,8 +34,8 @@
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "Recargar a páxina">
 <!ENTITY reloadPlugin.post                                   " para tentar de novo.">
-<!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.checkbox                                     "… e enviar un informe de erro">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "Enviar un informe de erro">
 <!ENTITY report.submitting                                   "Enviando informe…">
 <!ENTITY report.submitted                                    "Enviouse un informe de erro.">
 <!ENTITY report.disabled                                     "Informe de erros desactivado.">
