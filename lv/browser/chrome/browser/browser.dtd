@@ -205,7 +205,7 @@
 
 <!ENTITY inspectMenu.label            "Apskatīt">
 <!ENTITY inspectMenu.accesskey        "T">
-<!ENTITY inspectMenu.commandkey       "A">
+<!ENTITY inspectMenu.commandkey       "I">
 <!ENTITY inspectCloseButton.tooltiptext "Aizvērt apskati">
 <!ENTITY inspectStyleButton.label     "Stils">
 <!ENTITY inspectStyleButton.accesskey "S">
