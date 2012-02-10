@@ -383,7 +383,7 @@ can reach it easily. -->
 <!ENTITY viewVideoCmd.accesskey       "y">
 <!ENTITY viewBGImageCmd.label         "Rodyti fono piešinį">
 <!ENTITY viewBGImageCmd.accesskey     "f">
-<!ENTITY setDesktopBackgroundCmd.label        "Padaryti darbastalio fono piešiniu…">
+<!ENTITY setDesktopBackgroundCmd.label        "Naudoti kaip darbastalio fono piešinį…">
 <!ENTITY setDesktopBackgroundCmd.accesskey    "d">
 <!ENTITY bookmarkPageCmd2.label           "Tinklalapį įrašyti į adresyną">
 <!ENTITY bookmarkPageCmd2.accesskey       "r">
