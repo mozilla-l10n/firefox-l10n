@@ -1,0 +1,72 @@
+<!-- Don't localize these. They're here until they have
+     a better place to live. -->
+<!ENTITY syncBrand.fullName.label "Firefox Sync">
+<!ENTITY syncBrand.shortName.label "Sync">
+
+<!-- Main titles. -->
+<!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
+<!ENTITY sync.title.connect.label 'Lidhu me &syncBrand.shortName.label;-un'>
+<!ENTITY sync.title.adddevice.label 'Krijoni një Llogari &syncBrand.fullName.label;'>
+<!ENTITY sync.title.pair.label 'Përshoqëroni një Pajisje'>
+
+<!-- J-PAKE Key Screen -->
+<!ENTITY sync.subtitle.connect.label 'Që të aktivizoni pajisjen tuaj të re, përzgjidhni te pajisja “Rregulloni &syncBrand.shortName.label;-un”.'>
+<!ENTITY sync.subtitle.header.label 'Jepeni këtë kod te kompjuteri juaj'>
+<!ENTITY sync.subtitle.connectlocation.label 'Përzgjidhni “&sync.title.pair.label;” te ndarja &syncBrand.shortName.label; e mundësive Firefox për desktopin.'>
+<!ENTITY sync.subtitle.pair.label 'Që ta aktivizoni, përzgjidhni te pajisja juaj “Përshoqëroni një pajisje”.'>
+<!ENTITY sync.pin.default.label '...\n...\n...\n'>
+<!ENTITY sync.pin.oneline.label '...'>
+<!ENTITY sync.link.show.label 'Tregomë se si.'>
+<!ENTITY sync.link.advancedsetup.label 'Rregullim i thelluar…'>
+<!ENTITY sync.link.nodevice.label 'Nuk e kam me vete pajisjen…'>
+
+<!-- J-PAKE Waiting Screen -->
+<!ENTITY sync.jpake.subtitle.waiting.label 'Po pritet për pajisje tjetër…'>
+
+<!-- Account Login Screen -->
+<!ENTITY sync.subtitle.account.label 'Jepni të dhënat e llogarisë suaj &syncBrand.fullName.label;'>
+<!ENTITY sync.input.username.label 'Emër Llogarie'>
+<!ENTITY sync.input.password.label 'Fjalëkalim'>
+<!ENTITY sync.input.key.label 'Kyç Rimarrjeje'>
+<!ENTITY sync.checkbox.server.label 'Përdorni shërbyes tuajin'>
+<!ENTITY sync.input.server.label 'URL Shërbyesi'>
+  
+<!-- Setup Fail -->
+<!ENTITY sync.title.fail.label 'Nuk Rregullon Dot &syncBrand.shortName.label;-un'>
+<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label;-u nuk u lidh dot te shërbyesi. Doni të riprovohet?'>
+<!ENTITY sync.button.tryagain.label 'Riprovo'>
+<!ENTITY sync.button.manual.label 'Rregullim Dorazi'>
+<!ENTITY sync.subtitle.nointernet.label 'Nuk u kap lidhje interneti aktive.'>
+  
+<!-- Setup Success -->
+<!ENTITY sync.title.success.label 'Rregullim i Plotësuar'>
+<!ENTITY sync.subtitle.success.label 'Të dhënat tuaja tani po shkarkohen në prapaskenë. Për të administruar llogarinë tuaj mund të shkoni te Rregullimet.'>
+<!ENTITY sync.settings.label 'Rregullime'>
+<!ENTITY sync.subtitle.manage.label 'Llogaria juaj &syncBrand.fullName.label; është e rregulluar tashmë. Kaloni te Rregullimet që të administroni llogarinë tuaj.'>
+
+<!-- Pair Device -->
+<!ENTITY sync.pair.tryagain.label 'Ju lutem, riprovoni.'>
+
+<!-- Firefox SyncAdapter Settings Screen -->
+<!ENTITY sync.settings.options.label 'Mundësi'>
+<!ENTITY sync.summary.pair.label 'Lidhni te llogaria juaj &syncBrand.shortName.label; një pajisje tjetër'>
+
+<!-- Common text -->
+<!ENTITY sync.button.cancel.label 'Anuloje'>
+<!ENTITY sync.button.connect.label 'Lidhu'>
+<!ENTITY sync.button.ok.label 'OK'>
+  
+<!-- Account strings -->
+<!ENTITY sync.account.label.label '&syncBrand.fullName.label;'>
+  
+<!-- Bookmark folder strings -->
+<!ENTITY bookmarks.folder.menu.label 'Menu Faqerojtësish'>
+<!ENTITY bookmarks.folder.places.label ''>
+<!ENTITY bookmarks.folder.tags.label 'Etiketa'>
+<!ENTITY bookmarks.folder.toolbar.label 'Panel Faqerojtësish'>
+<!ENTITY bookmarks.folder.unfiled.label 'Faqerojtës të Parenditur'>
+<!ENTITY bookmarks.folder.desktop.label 'Faqerojtës Desktopi'>
+<!ENTITY bookmarks.folder.mobile.label 'Faqerojtës Celulari'>
+
+<!-- Notification strings -->
+<!ENTITY sync.notification.oneaccount.label 'Mbulohet vetëm një llogari &syncBrand.fullName.label;.'>
