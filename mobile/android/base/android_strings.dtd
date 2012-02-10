@@ -45,6 +45,7 @@
 <!ENTITY forward "Përpara">
 
 <!ENTITY new_tab "Skedë e Re">
+<!ENTITY new_tab_opened "U hap skedë e re">
 
 <!ENTITY settings "Rregullime">
 <!ENTITY settings_title "Rregullime">
@@ -56,17 +57,21 @@
 <!ENTITY pref_telemetry "Dërgo të dhëna funksionimi">
 <!ENTITY pref_remember_signons "Mbaji mend fjalëkalimet">
 <!ENTITY pref_cookies "Aktivizoni cookies">
-<!ENTITY pref_char_encoding "Shfaq kodim shkronjash">
+<!ENTITY pref_char_encoding "Kodim shkronjash">
+<!ENTITY pref_char_encoding_on "Shfaqe menunë">
+<!ENTITY pref_char_encoding_off "Mos e shfaq menunë">
 <!ENTITY pref_clear_history "Pastro historikun">
 <!ENTITY pref_clear_history_confirm "Historiku i shfletimit do të fshihet">
 <!ENTITY pref_clear_private_data "Pastro të dhëna vetjake">
 <!ENTITY pref_clear_private_data_confirm "Rregullimet për shfletimin, përfshi fjalëkalimet dhe cookie-t, do të fshihen">
-<!ENTITY pref_font_size "Madhësi shkronjash">
+<!ENTITY pref_text_size "Madhësi teksti">
+<!ENTITY pref_font_size_tiny "Shumë të vogla">
 <!ENTITY pref_font_size_small "Të vogla">
 <!ENTITY pref_font_size_medium "Të mesme">
 <!ENTITY pref_font_size_large "Të mëdha">
 <!ENTITY pref_font_size_xlarge "Shumë të mëdha">
 <!ENTITY pref_use_master_password "Përdor fjalëkalim të përgjithshëm">
+<!ENTITY pref_sync "Njëkohëso">
 
 <!ENTITY quit "Dil">
 
@@ -74,10 +79,9 @@
 
 <!ENTITY share "Ndaje me të tjerët">
 <!ENTITY save_as_pdf "Ruaje si PDF">
-<!ENTITY agent_request_desktop "Kërkoji Site-in për Desktop">
-<!ENTITY agent_request_mobile "Kërkoji Site-in për Celular">
 
 <!ENTITY contextmenu_open_new_tab "Hape në Skedë të Re">
+<!ENTITY contextmenu_remove_bookmark "Hiqe">
 <!ENTITY contextmenu_add_to_launcher "Shtoje te Skena Hyrëse">
 <!ENTITY contextmenu_share "Ndajeni me të tjerët">
 
@@ -93,3 +97,13 @@
 
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Anuloje">
+
+<!ENTITY abouthome_addons_title "Shtesa për &brandShortName;-in tuaj">
+<!ENTITY abouthome_addons_browse "Shfletoni krejt shtesat për &brandShortName;">
+<!ENTITY abouthome_last_tabs_title "Skedat tuaja të herës së fundit">
+<!ENTITY abouthome_last_tabs_open "Hap krejt skedat e herës së fundit">
+<!ENTITY abouthome_top_sites_title "&quot;Site&quot;-et Kryesues">
+<!ENTITY abouthome_top_sites_browse "Shfletoni krejt &quot;site&quot;-et tuaj kryesues">
+<!ENTITY abouthome_no_top_sites "Nuk keni ende &quot;site&quot;-e kryesues. Që të filloni shfletimin prekni Shtyllën e Titullit.">
+<!ENTITY abouthome_about_sync "Rregulloni Firefox Sync-un që të mund të përdorni faqerojtësit, historikun dhe skedat prej pajisjeve tuaja të tjera">
+<!ENTITY abouthome_sync_bold_name "Firefox Sync">
