@@ -360,8 +360,6 @@
 <!ENTITY event.freebusy.next.slot "Next slot ">
 <!ENTITY event.freebusy.previous.slot " Previous slot">
 <!ENTITY event.freebusy.zoom             "Zoom:">
-<!ENTITY event.freebusy.plus "Hora siguiente">
-<!ENTITY event.freebusy.minus "Hora previa">
 <!ENTITY event.freebusy.legend.free      "Libre" >
 <!ENTITY event.freebusy.legend.busy      "Ocupado" >
 <!ENTITY event.freebusy.legend.busy_tentative   "Tentativo" >
