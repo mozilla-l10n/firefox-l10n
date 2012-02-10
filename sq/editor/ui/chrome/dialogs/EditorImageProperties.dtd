@@ -38,8 +38,6 @@
 <!ENTITY imagemapBox.label "Hartë Figure">
 <!ENTITY removeImageMapButton.label "Hiqe">
 <!ENTITY removeImageMapButton.accessKey "H">
-<!ENTITY editImageMapButton.label "Përpunoni…">
-<!ENTITY editImageMapButton.tooltip "Krijoni për këtë figurë pika të nxehta të klikueshme">
 
 <!-- These are the options for image alignment -->
 <!ENTITY alignment.label "Drejto Tekst kundrejt Figurës">
