@@ -20,9 +20,9 @@
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "Ringarkoje faqen">
 <!ENTITY reloadPlugin.post                                   " të riprovojë.">
-<!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.checkbox                                     "…dhe dërgo një njoftim vithisje">
-<!ENTITY report.submitting                                   "Po dërgohet njoftimi…">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "Dërgo një njoftim vithisje">
+<!ENTITY report.submitting                                   "Njoftimi po dërgohet…">
 <!ENTITY report.submitted                                    "Njoftimi i vithisjes u dërgua.">
 <!ENTITY report.disabled                                     "Noftimi i vithisjeve është çaktivizuar.">
 <!ENTITY report.failed                                       "Parashtrimi dështoi.">
