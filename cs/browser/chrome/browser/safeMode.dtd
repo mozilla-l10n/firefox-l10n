@@ -39,6 +39,9 @@
 <!ENTITY safeModeDialog.title "Nouzový režim aplikace &brandShortName;">
 <!ENTITY window.width "37em">
 
+<!ENTITY autoSafeModeIntro.label "&brandShortName; byl při startu neočekávaně ukončen">
+<!ENTITY autoSafeModeDescription.label "&brandShortName; je nyní spuštěn v nouzovém režimu, který dočasně zakáže všechna vaše uživatelská nastavení, rozšíření a motivy vzhledu.">
+
 <!ENTITY safeModeDescription.label "&brandShortName; je nyní spuštěn v nouzovém režimu, který dočasně zakáže všechna vaše uživatelská nastavení, rozšíření a motivy vzhledu.">
 <!ENTITY safeModeDescription2.label "Některé z těchto změn můžete provést natrvalo:">
 
