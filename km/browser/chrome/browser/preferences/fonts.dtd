@@ -1,14 +1,14 @@
 <!ENTITY  fontsDialog.title                       "ពុម្ពអក្សរ">
 <!ENTITY  window.width                            "39em">
 <!ENTITY  window.macWidth                         "43em">
-<!ENTITY  window.unixWidth                        "41em">
+<!ENTITY  window.unixWidth                        "48.38em">
 
 <!ENTITY  language.label                          "​ពុម្ព​អក្សរ​សម្រាប់ ៖">
 <!ENTITY  language.accesskey                      "ស">
 
 <!ENTITY  size.label                              "ទំហំ ៖">
 <!ENTITY  sizeProportional.accesskey              "z">
-<!ENTITY  sizeMonospace.accesskey                 "e">
+<!ENTITY  sizeMonospace.accesskey                 "ល">
 
 <!ENTITY  proportional.label                      "សមាមាត្រ ៖">
 <!ENTITY  proportional.accesskey                  "ត">
@@ -16,7 +16,7 @@
 <!ENTITY  serif.label                             "Serif:">
 <!ENTITY  serif.accesskey                         "S">
 <!ENTITY  sans-serif.label                        "Sans-serif:">
-<!ENTITY  sans-serif.accesskey                    "n">
+<!ENTITY  sans-serif.accesskey                    "S">
 <!ENTITY  monospace.label                         "​ទំហំថេរ ៖">
 <!ENTITY  monospace.accesskey                     "រ">
 

@@ -63,7 +63,7 @@
 
 <!ENTITY cmd.sortby_name.label              "តម្រៀប​តាម​ឈ្មោះ">
 <!ENTITY cmd.sortby_name.accesskey          "Դ">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
+<!ENTITY cmd.context_sortby_name.accesskey  "ត">
 
 <!ENTITY cmd.new_bookmark.label            "ចំណាំ​ថ្មី">
 <!ENTITY cmd.new_bookmark.accesskey        "Ն">

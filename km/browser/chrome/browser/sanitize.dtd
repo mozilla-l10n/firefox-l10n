@@ -8,7 +8,7 @@
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
 <!ENTITY clearTimeDuration.label          "ពេលវេលា​ត្រូវ​សម្អាត ៖">
-<!ENTITY clearTimeDuration.accesskey      "Ջ">
+<!ENTITY clearTimeDuration.accesskey      "ព">
 <!ENTITY clearTimeDuration.lastHour       "ម៉ោង​ចុងក្រោយ">
 <!ENTITY clearTimeDuration.last2Hours     "ពីរ​ម៉ោង​ចុងក្រោយ">
 <!ENTITY clearTimeDuration.last4Hours     "បួន​ម៉ោង​ចុងក្រោយ">
@@ -24,7 +24,7 @@ that require it.  -->
      of the "Details" progressive disclosure button.  See UI mockup at bug
      480169 -->
 <!ENTITY detailsProgressiveDisclosure.label     "សេចក្ដី​លម្អិត">
-<!ENTITY detailsProgressiveDisclosure.accesskey "e">
+<!ENTITY detailsProgressiveDisclosure.accesskey "ស">
 
 <!ENTITY historySection.label         "ប្រវត្តិ">
 <!ENTITY dataSection.label            "ទិន្នន័យ">
@@ -33,25 +33,25 @@ that require it.  -->
      itemBrowsingHistory.* will never be used at the same time, so they can
      have the same accesskey. -->
 <!ENTITY itemHistoryAndDownloads.label     "រក​មើល &amp; ប្រវត្តិ​ទាញ​យក">
-<!ENTITY itemHistoryAndDownloads.accesskey "Ն">
+<!ENTITY itemHistoryAndDownloads.accesskey "រ">
 <!ENTITY itemBrowsingHistory.label         "​ប្រវត្តិ​រក​មើល">
-<!ENTITY itemBrowsingHistory.accesskey     "b">
+<!ENTITY itemBrowsingHistory.accesskey     "វ">
 <!ENTITY itemFormSearchHistory.label       "សំណុំ​បែបបទ &amp; ប្រវត្តិ​ស្វែងរក">
-<!ENTITY itemFormSearchHistory.accesskey   "Ձ">
+<!ENTITY itemFormSearchHistory.accesskey   "ប">
 <!ENTITY itemPasswords.label               "​ពាក្យ​សម្ងាត់​ដែល​បាន​រក្សា​ទុក">
-<!ENTITY itemPasswords.accesskey           "P">
+<!ENTITY itemPasswords.accesskey           "ព">
 <!ENTITY itemCookies.label                 "​ខូគី">
-<!ENTITY itemCookies.accesskey             "C">
+<!ENTITY itemCookies.accesskey             "ខ">
 <!ENTITY itemCache.label                   "​ឃ្លាំង​សម្ងាត់">
-<!ENTITY itemCache.accesskey               "a">
+<!ENTITY itemCache.accesskey               "ង">
 <!ENTITY itemOfflineApps.label             "ទិន្នន័យ​តំបន់​បណ្ដាញ​ក្រៅ​បណ្ដាញ">
-<!ENTITY itemOfflineApps.accesskey         "o">
+<!ENTITY itemOfflineApps.accesskey         "យ">
 <!ENTITY itemDownloadHistory.label         "ប្រវត្តិ​ទាញ​យក">
-<!ENTITY itemDownloadHistory.accesskey     "d">
+<!ENTITY itemDownloadHistory.accesskey     "ទ">
 <!ENTITY itemActiveLogins.label            "ការ​ចូល​សកម្ម">
-<!ENTITY itemActiveLogins.accesskey        "L">
+<!ENTITY itemActiveLogins.accesskey        "ក">
 <!ENTITY itemSitePreferences.label         "ចំណូល​ចិត្ត​តំបន់​បណ្ដាញ">
-<!ENTITY itemSitePreferences.accesskey     "Կ">
+<!ENTITY itemSitePreferences.accesskey     "ច">
 
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI

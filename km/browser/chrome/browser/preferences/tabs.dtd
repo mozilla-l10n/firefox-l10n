@@ -1,8 +1,8 @@
 <!ENTITY newWindowsAsTabs.label       "បើក​បង្អួច​ថ្មី​ក្នុង​ផ្ទាំង​ថ្មី​ជំនួស​វិញ">
 <!ENTITY newWindowsAsTabs.accesskey   "ក">
 
-<!ENTITY warnCloseMultipleTabs.label  "Warn me when closing multiple tabs">
-<!ENTITY warnCloseMultipleTabs.accesskey  "m">
+<!ENTITY warnCloseMultipleTabs.label  "ព្រមាន​ខ្ញុំ​ពេល​បិទ​ផ្ទាំង​ច្រើន">
+<!ENTITY warnCloseMultipleTabs.accesskey  "ន">
 
 <!ENTITY warnOpenManyTabs.label       "ព្រមាន​ខ្ញុំ​ពេល​បើក​ផ្ទាំង​ច្រើន​ដែល​ប្រហែល​ជា​ធ្វើ​ឲ្យ &brandShortName; យឹត">
 <!ENTITY warnOpenManyTabs.accesskey   "o">
