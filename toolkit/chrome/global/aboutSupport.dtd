@@ -16,7 +16,13 @@ aplikace &brandShortName; naleznete na <a id='supportLink'>webových stránkách
 <!ENTITY aboutSupport.appBasicsTitle "Stručně o aplikaci">
 <!ENTITY aboutSupport.appBasicsName "Název">
 <!ENTITY aboutSupport.appBasicsVersion "Verze">
-<!ENTITY aboutSupport.appBasicsProfileDir "Složka s profilem">
+
+<!ENTITY aboutSupport.appBasicsProfileDir "Adresář profilu">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Složka profilu">
+
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Povolené zásuvné moduly">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Nastavení sestavení">
 <!ENTITY aboutSupport.appBasicsUserAgent "Identifikace prohlížeče">
