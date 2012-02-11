@@ -67,26 +67,6 @@
 <!ENTITY selectAllCmd.key             "ជ">
 <!ENTITY selectAllCmd.accesskey       "ជ">
 
-<!ENTITY findCmd.label                "រក">
-<!ENTITY findCmd.key                  "F">
-<!ENTITY findCmd.accesskey            "រ">
-
-<!ENTITY findAgainCmd.label           "រក​ម្ដង​ទៀត">
-<!-- LOCALIZATION NOTE (findAgainCmd.key): This key is used only on Macs.
-  -  Windows and Linux builds use the F3 key which is not localizable on purpose.
-  -->
-<!ENTITY findAgainCmd.key             "G">
-<!ENTITY findAgainCmd.accesskey       "រ">
-<!-- LOCALIZATION NOTE (findPreviousCmd.key): This key is used only on Macs.
-  -  Windows and Linux builds use the Shift-F3 key which is not localizable on
-  -  purpose.
-  -->
-<!ENTITY findPreviousCmd.key          "G">
-
-<!ENTITY gotoLineCmd.label            "លោត​ទៅ​បន្ទាត់...">
-<!ENTITY gotoLineCmd.key              "J">
-<!ENTITY gotoLineCmd.accesskey        "ល">
-
 <!ENTITY run.label                    "រត់">
 <!ENTITY run.accesskey                "រ">
 <!ENTITY run.key                      "រ">
