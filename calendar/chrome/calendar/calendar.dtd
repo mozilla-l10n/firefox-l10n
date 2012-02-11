@@ -248,7 +248,7 @@
 <!ENTITY calendar.context.postpone.1week.label      "1 Woche">
 <!ENTITY calendar.context.postpone.1week.accesskey  "W">
 
-<!ENTITY calendar.copylink.label       "Linkziel kopieren">
+<!ENTITY calendar.copylink.label       "Link-Adresse kopieren">
 <!ENTITY calendar.copylink.accesskey   "z">
 
 <!-- Task View -->
