@@ -1,7 +1,6 @@
 <!ENTITY debuggerMenu.label "Debugger script">
 <!ENTITY debuggerMenu.commandkey "S">
 <!ENTITY debuggerUI.closeButton "Chiudi">
-<!ENTITY debuggerUI.resumeButton "Riprendi">
 <!ENTITY debuggerUI.stackTitle "Stack chiamata">
 <!ENTITY debuggerUI.scriptTitle "Script">
 <!ENTITY debuggerUI.propertiesTitle "Ambito variabili">
