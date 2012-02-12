@@ -78,8 +78,6 @@
 <!ENTITY imagemapBox.label  "Kuvan kartta">
 <!ENTITY removeImageMapButton.label  "Poista">
 <!ENTITY removeImageMapButton.accessKey  "P">
-<!ENTITY editImageMapButton.label "Muokkaa…">
-<!ENTITY editImageMapButton.tooltip "Luo kuvalle napsautettavat kuva-alueet">
 
 <!-- These are the options for image alignment -->
 <!ENTITY alignment.label  "Linjaa teksti kuvaan">
