@@ -217,8 +217,17 @@ can reach it easily. -->
 <!ENTITY inspectButton.label          "Inspicér">
 <!ENTITY inspectButton.accesskey      "I">
 <!ENTITY inspectCloseButton.tooltiptext "Luk inspektør">
+<!ENTITY inspect3DButton.label        "3D">
+<!ENTITY inspect3DButton.accesskey    "M">
 <!ENTITY inspectStyleButton.label     "CSS">
 <!ENTITY inspectStyleButton.accesskey "S">
+
+<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
+  -  in the Tools menu. -->
+<!ENTITY styleeditor.label            "Rediger CSS">
+<!ENTITY styleeditor.accesskey        "C">
+<!ENTITY styleeditor.keycode          "VK_F7">
+<!ENTITY styleeditor.keytext          "F7">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Hent flere værktøjer">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "H">

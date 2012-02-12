@@ -40,7 +40,9 @@
 <!ENTITY connectionSettings.label        "Indstillinger…">
 <!ENTITY connectionSettings.accesskey    "I">
 
-<!ENTITY offlineStorage.label            "Offline lager">
+<!ENTITY httpCache.label                 "Cache af webindhold">
+
+<!ENTITY offlineStorage2.label           "Offline webindhold og brugerdata">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -53,6 +55,8 @@
 <!ENTITY limitCacheSizeAfter.label       "MB">
 <!ENTITY clearCacheNow.label             "Ryd nu">
 <!ENTITY clearCacheNow.accesskey         "R">
+<!ENTITY clearOfflineAppCacheNow.label   "Ryd nu">
+<!ENTITY clearOfflineAppCacheNow.accesskey "n">
 <!ENTITY overrideSmartCacheSize.label    "Deaktiver automatisk cache-håndtering">
 <!ENTITY overrideSmartCacheSize.accesskey "D">
 
@@ -74,8 +78,6 @@
 
 <!ENTITY updateOthers.label              "Opdater automatisk:">
 <!ENTITY enableAddonsUpdate3.label       "Tilføjelser">
-<!ENTITY enableAddonsUpdate3.accesskey   "T">
-<!ENTITY enableSearchUpdate.label        "Søgetjenester">
 <!ENTITY enableSearchUpdate.accesskey    "S">
 <!ENTITY updateHistory.label             "Vis opdateringshistorik">
 <!ENTITY updateHistory.accesskey         "V">
@@ -85,7 +87,7 @@
 <!ENTITY offlineNotifyExceptions.label   "Undtagelser…">
 <!ENTITY offlineNotifyExceptions.accesskey "U">
 
-<!ENTITY offlineAppsList.label           "Følgende websteder har gemt data til brug offline:">
+<!ENTITY offlineAppsList2.label           "Følgende websteder har tilladelse til at gemme data til brug offline:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Fjern…">
 <!ENTITY offlineAppsListRemove.accesskey "F">
