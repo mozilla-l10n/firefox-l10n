@@ -40,6 +40,7 @@
 <!ENTITY forward "Seuraava">
 
 <!ENTITY new_tab "Uusi välilehti">
+<!ENTITY new_tab_opened "Avattiin uusi välilehti">
 
 <!ENTITY settings "Asetukset">
 <!ENTITY settings_title "Asetukset">
@@ -51,7 +52,9 @@
 <!ENTITY pref_telemetry "Lähetä suorituskykytietoja">
 <!ENTITY pref_remember_signons "Tallenna salasanat">
 <!ENTITY pref_cookies "Salli evästeet">
-<!ENTITY pref_char_encoding "Näytä merkistökoodaus">
+<!ENTITY pref_char_encoding "Merkistökoodaus">
+<!ENTITY pref_char_encoding_on "Näytä valikko">
+<!ENTITY pref_char_encoding_off "Älä näytä valikkoa">
 <!ENTITY pref_clear_history "Tyhjennä sivuhistoria">
 <!ENTITY pref_clear_history_confirm "Sivuhistoria poistetaan">
 <!ENTITY pref_clear_private_data "Poista yksityisyystiedot">
@@ -67,11 +70,13 @@
 <!ENTITY pref_font_size_large "Suuri">
 <!ENTITY pref_font_size_xlarge "Erittäin suuri">
 <!ENTITY pref_use_master_password "Käytä pääsalasanaa">
+<!ENTITY pref_sync "Sync">
 
 <!ENTITY quit "Lopeta">
 
 <!ENTITY addons "Lisäosat">
 <!ENTITY downloads "Lataukset">
+<!ENTITY char_encoding "Merkistökoodaus">
 
 <!ENTITY share "Jaa">
 <!ENTITY save_as_pdf "Tallenna PDF-muodossa">
@@ -101,5 +106,5 @@
 <!ENTITY abouthome_top_sites_title "Useimmin avatut">
 <!ENTITY abouthome_top_sites_browse "Selaa useimmin avattuja sivustoja">
 <!ENTITY abouthome_no_top_sites "Useimmin avattuja sivustoja ei ole vielä kertynyt. Aloita selaaminen painamalla otsikkopalkkia.">
-<!ENTITY abouthome_about_sync "Ota Firefox Sync käyttöön päästäksesi käsiksi muiden laitteidesi kirjanmerkkeihin, sivuhistoriaan ja välilehtiin">
+<!ENTITY abouthome_about_sync "Ota Firefox Sync-palvelu käyttöön päästäksesi käsiksi muiden laitteidesi kirjanmerkkeihin, sivuhistoriaan ja välilehtiin">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">

@@ -1,5 +1,5 @@
 <!ENTITY aboutAddons.title                      "Lisäosien hallinta">
-<!ENTITY aboutAddons.header                     "Lisäosat">
+<!ENTITY aboutAddons.header2                    "Lisäosat">
 <!ENTITY aboutAddons.options                    "Asetukset">
 
 <!ENTITY addonAction.enable                     "Ota käyttöön">
