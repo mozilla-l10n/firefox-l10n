@@ -4,7 +4,6 @@
 <!ENTITY     props.path.label                "Polku:">
 <!ENTITY     props.secure.label              "Lähetä:">
 <!ENTITY     props.expires.label             "Vanhenee:">
-<!ENTITY     props.policy.label              "Käytäntö:">
 
 <!ENTITY     button.allow.label              "Salli">
 <!ENTITY     button.allow.accesskey          "S">

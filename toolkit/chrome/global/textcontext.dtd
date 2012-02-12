@@ -13,6 +13,8 @@
 
 <!ENTITY spellAddToDictionary.label "Lisää sanastoon">
 <!ENTITY spellAddToDictionary.accesskey "s">
+<!ENTITY spellUndoAddToDictionary.label "Kumoa lisää sanastoon">
+<!ENTITY spellUndoAddToDictionary.accesskey "u">
 <!ENTITY spellCheckEnable.label "Oikolue">
 <!ENTITY spellCheckEnable.accesskey "O">
 <!ENTITY spellNoSuggestions.label "(Ei ehdotuksia)">
