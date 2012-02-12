@@ -35,7 +35,7 @@
 <!ENTITY reloadPlugin.middle                                 "Genindlæs siden">
 <!ENTITY reloadPlugin.post                                   " for at forsøge igen.">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.checkbox                                     "…og send fejlrapport">
+<!ENTITY report.please                                       "Send fejlrapport">
 <!ENTITY report.submitting                                   "Sender fejlrapport…">
 <!ENTITY report.submitted                                    "Fejlrapport blev sendt.">
 <!ENTITY report.disabled                                     "Fejlrapportering deaktiveret.">

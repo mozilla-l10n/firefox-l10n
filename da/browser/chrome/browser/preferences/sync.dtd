@@ -30,6 +30,8 @@
 <!ENTITY engine.passwords.accesskey "A">
 <!ENTITY engine.prefs.label         "Indstillinger">
 <!ENTITY engine.prefs.accesskey     "I">
+<!ENTITY engine.addons.label        "Tilføjelser">
+<!ENTITY engine.addons.accesskey    "T">
 
 <!-- Device Settings -->
 <!ENTITY syncComputerName.label       "Computernavn:">
