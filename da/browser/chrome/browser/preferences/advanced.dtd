@@ -77,7 +77,7 @@
 <!ENTITY useService.accesskey            "b">
 
 <!ENTITY updateOthers.label              "Opdater automatisk:">
-<!ENTITY enableAddonsUpdate3.label       "Tilføjelser">
+<!ENTITY enableSearchUpdate.label        "Søgetjenester">
 <!ENTITY enableSearchUpdate.accesskey    "S">
 <!ENTITY updateHistory.label             "Vis opdateringshistorik">
 <!ENTITY updateHistory.accesskey         "V">
