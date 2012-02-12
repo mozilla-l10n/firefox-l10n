@@ -40,6 +40,9 @@
 <!ENTITY safeModeDialog.title         "&brandShortName; - tryb awaryjny">
 <!ENTITY window.width                 "43em">
 
+<!ENTITY autoSafeModeIntro.label      "Program &brandShortName; został nieoczekiwanie zamknięty podczas uruchamiania">
+<!ENTITY autoSafeModeDescription.label "Przepraszamy za niedogodności. &brandShortName; działa teraz w trybie awaryjnym, w którym tymczasowo wyłączone są własne ustawienia użytkownika, jak też motywy i rozszerzenia.">
+
 <!ENTITY safeModeDescription.label    "&brandShortName; działa teraz w trybie awaryjnym; ustawienia, motywy i rozszerzenia użytkownika zostały tymczasowo wyłączone.">
 
 <!-- You can make some or all of these changes permanent: -->
