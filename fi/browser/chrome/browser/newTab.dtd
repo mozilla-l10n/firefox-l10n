@@ -1,0 +1,6 @@
+<!-- These strings are used in the about:newtab page -->
+<!ENTITY newtab.pageTitle "Uusi välilehti">
+
+<!ENTITY newtab.show "Näytä uusi välilehti -sivu">
+<!ENTITY newtab.hide "Piilota uusi välilehti -sivu">
+<!ENTITY newtab.reset "Nollaa uusi välilehti -sivun asetukset">
