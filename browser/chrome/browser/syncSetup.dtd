@@ -2,7 +2,7 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "Velkommen. Hvis du aldrig har brugt &syncBrand.fullName.label; før så skal du oprette en ny konto.">
+<!ENTITY setup.pickSetupType.description2 "Velkommen. Hvis du aldrig har brugt &syncBrand.fullName.label; før, skal du oprette en ny konto.">
 <!ENTITY button.createNewAccount.label "Opret en ny konto">
 <!ENTITY button.haveAccount.label "Jeg har allerede en konto">
 
@@ -88,6 +88,8 @@
 <!ENTITY engine.passwords.accesskey "A">
 <!ENTITY engine.prefs.label         "Indstillinger">
 <!ENTITY engine.prefs.accesskey     "I">
+<!ENTITY engine.addons.label        "Tilføjelser">
+<!ENTITY engine.addons.accesskey    "t">
 
 <!ENTITY choice2.merge.main.label      "Sammenflet denne computers data med mine &syncBrand.shortName.label; data">
 <!ENTITY choice2.merge.recommended.label "Anbefalet:">
