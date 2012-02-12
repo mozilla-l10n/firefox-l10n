@@ -47,145 +47,145 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- General -->
-<!ENTITY calendar.calendar.label     "Calendar">
-<!ENTITY calendar.calendar.accesskey "C">
+<!ENTITY calendar.calendar.label     "Kalendar">
+<!ENTITY calendar.calendar.accesskey "K">
 
-<!ENTITY calendar.newevent.button.tooltip         "Create a new event" >
-<!ENTITY calendar.newtask.button.tooltip          "Create a new task" >
+<!ENTITY calendar.newevent.button.tooltip         "Stvori novi događaj" >
+<!ENTITY calendar.newtask.button.tooltip          "Stvori novi zadatak" >
 
-<!ENTITY calendar.unifinder.todoitems.label       "Tasks" >
-<!ENTITY calendar.unifinder.showcompletedtodos.label "Show completed Tasks">
+<!ENTITY calendar.unifinder.todoitems.label       "Zadaci" >
+<!ENTITY calendar.unifinder.showcompletedtodos.label "Prikaži završene zadatke">
 
-<!ENTITY calendar.today.button.label       "Today">
-<!ENTITY calendar.tomorrow.button.label       "Tomorrow">
-<!ENTITY calendar.soon.button.label           "Soon">
+<!ENTITY calendar.today.button.label       "Danas">
+<!ENTITY calendar.tomorrow.button.label       "Sutra">
+<!ENTITY calendar.soon.button.label           "Uskoro">
 
-<!ENTITY calendar.events.filter.all.label "All Events">
-<!ENTITY calendar.events.filter.today.label "Today's Events">
-<!ENTITY calendar.events.filter.future.label "All Future Events">
-<!ENTITY calendar.events.filter.current.label "Currently Selected Day">
-<!ENTITY calender.events.filter.currentview.label "Events in Current View">
-<!ENTITY calendar.events.filter.next7Days.label "Events in the Next 7 Days">
-<!ENTITY calendar.events.filter.next14Days.label "Events in the Next 14 Days">
-<!ENTITY calendar.events.filter.next31Days.label "Events in the Next 31 Days">
-<!ENTITY calendar.events.filter.thisCalendarMonth.label "Events in this Calendar Month">
+<!ENTITY calendar.events.filter.all.label "Svi događaji">
+<!ENTITY calendar.events.filter.today.label "Današnji događaji">
+<!ENTITY calendar.events.filter.future.label "Svi budući događaji">
+<!ENTITY calendar.events.filter.current.label "Trenutno odabrani dan">
+<!ENTITY calender.events.filter.currentview.label "Događaji u trenutnom prikazu">
+<!ENTITY calendar.events.filter.next7Days.label "Događaji u sljedećih 7 dana">
+<!ENTITY calendar.events.filter.next14Days.label "Događaji u sljedećih 14 dana">
+<!ENTITY calendar.events.filter.next31Days.label "Događaji u sljedećih 31 dana">
+<!ENTITY calendar.events.filter.thisCalendarMonth.label "Događaji u ovom kalendarskom mjesecu">
 
-<!ENTITY calendar.unifinder.tree.done.label          "Done">
-<!ENTITY calendar.unifinder.tree.priority.label      "Priority">
-<!ENTITY calendar.unifinder.tree.title.label         "Title">
-<!ENTITY calendar.unifinder.tree.percentcomplete.label "&#37; Complete">
-<!ENTITY calendar.unifinder.tree.startdate.label     "Start">
-<!ENTITY calendar.unifinder.tree.enddate.label       "End">
-<!ENTITY calendar.unifinder.tree.duedate.label       "Due">
-<!ENTITY calendar.unifinder.tree.completeddate.label "Completed">
-<!ENTITY calendar.unifinder.tree.categories.label    "Category">
-<!ENTITY calendar.unifinder.tree.location.label      "Location">
+<!ENTITY calendar.unifinder.tree.done.label          "Gotovo">
+<!ENTITY calendar.unifinder.tree.priority.label      "Prioritet">
+<!ENTITY calendar.unifinder.tree.title.label         "Naslov">
+<!ENTITY calendar.unifinder.tree.percentcomplete.label "&#37; završeno">
+<!ENTITY calendar.unifinder.tree.startdate.label     "Počinje">
+<!ENTITY calendar.unifinder.tree.enddate.label       "Završava">
+<!ENTITY calendar.unifinder.tree.duedate.label       "Dospjeva">
+<!ENTITY calendar.unifinder.tree.completeddate.label "Završeno">
+<!ENTITY calendar.unifinder.tree.categories.label    "Kategorija">
+<!ENTITY calendar.unifinder.tree.location.label      "Lokacija">
 <!ENTITY calendar.unifinder.tree.status.label        "Status">
-<!ENTITY calendar.unifinder.tree.calendarname.label  "Calendar Name">
-<!ENTITY calendar.unifinder.tree.duration.label      "Due in">
-<!ENTITY calendar.unifinder.close.tooltip            "Close event search and event list">
+<!ENTITY calendar.unifinder.tree.calendarname.label  "Naziv kalendara">
+<!ENTITY calendar.unifinder.tree.duration.label      "Dospjeva u">
+<!ENTITY calendar.unifinder.close.tooltip            "Zatvori pretraživanje i popis događaja">
 
-<!ENTITY calendar.today.button.tooltip          "Go to Today" >
-<!ENTITY calendar.todaypane.button.tooltip      "Show Today Pane" >
+<!ENTITY calendar.today.button.tooltip          "Idi na danas" >
+<!ENTITY calendar.todaypane.button.tooltip      "Prikaži okno Danas" >
 
-<!ENTITY calendar.day.button.tooltip            "Switch to day view" >
-<!ENTITY calendar.week.button.tooltip           "Switch to week view" >
-<!ENTITY calendar.month.button.tooltip          "Switch to month view" >
-<!ENTITY calendar.multiweek.button.tooltip      "Switch to multiweek view" >
+<!ENTITY calendar.day.button.tooltip            "Prebaci na prikaz dana" >
+<!ENTITY calendar.week.button.tooltip           "Prebaci na prikaz tjedna" >
+<!ENTITY calendar.month.button.tooltip          "Prebaci na prikaz mjeseca" >
+<!ENTITY calendar.multiweek.button.tooltip      "Prebaci na višetjedni prikaz" >
 
-<!ENTITY calendar.nextday.label                 "Next Day" >
-<!ENTITY calendar.prevday.label                 "Previous Day" >
-<!ENTITY calendar.nextday.accesskey             "x" >
-<!ENTITY calendar.prevday.accesskey             "s" >
-<!ENTITY calendar.nextweek.label                "Next Week" >
-<!ENTITY calendar.prevweek.label                "Previous Week" >
-<!ENTITY calendar.nextweek.accesskey            "x" >
-<!ENTITY calendar.prevweek.accesskey            "s" >
-<!ENTITY calendar.nextmonth.label               "Next Month" >
-<!ENTITY calendar.prevmonth.label               "Previous Month" >
-<!ENTITY calendar.nextmonth.accesskey           "x" >
-<!ENTITY calendar.prevmonth.accesskey           "s" >
+<!ENTITY calendar.nextday.label                 "Sljedeći dan" >
+<!ENTITY calendar.prevday.label                 "Prethodni dan" >
+<!ENTITY calendar.nextday.accesskey             "l" >
+<!ENTITY calendar.prevday.accesskey             "r" >
+<!ENTITY calendar.nextweek.label                "Sljedeći tjedan" >
+<!ENTITY calendar.prevweek.label                "Prethodni tjedan" >
+<!ENTITY calendar.nextweek.accesskey            "l" >
+<!ENTITY calendar.prevweek.accesskey            "r" >
+<!ENTITY calendar.nextmonth.label               "Sljedeći mjesec" >
+<!ENTITY calendar.prevmonth.label               "Prethodni mjesec" >
+<!ENTITY calendar.nextmonth.accesskey           "l" >
+<!ENTITY calendar.prevmonth.accesskey           "r" >
 
-<!ENTITY calendar.navigation.nextday.tooltip    "One Day Forward" >
-<!ENTITY calendar.navigation.prevday.tooltip    "One Day Back" >
-<!ENTITY calendar.navigation.nextweek.tooltip   "One Week Forward" >
-<!ENTITY calendar.navigation.prevweek.tooltip   "One Week Back" >
-<!ENTITY calendar.navigation.nextmonth.tooltip  "One Month Forward" >
-<!ENTITY calendar.navigation.prevmonth.tooltip  "One Month Back" >
+<!ENTITY calendar.navigation.nextday.tooltip    "Jedan dan naprijed" >
+<!ENTITY calendar.navigation.prevday.tooltip    "Jedan dan nazad" >
+<!ENTITY calendar.navigation.nextweek.tooltip   "Jedan tjedan naprijed" >
+<!ENTITY calendar.navigation.prevweek.tooltip   "Jedan tjedan nazad" >
+<!ENTITY calendar.navigation.nextmonth.tooltip  "Jedan mjesec naprijed" >
+<!ENTITY calendar.navigation.prevmonth.tooltip  "Jedan mjesec nazad" >
 
-<!ENTITY calendar.newevent.button.label         "New Event" >
-<!ENTITY calendar.newtask.button.label          "New Task" >
-<!ENTITY calendar.print.button.label            "Print" >
+<!ENTITY calendar.newevent.button.label         "Novi događaj" >
+<!ENTITY calendar.newtask.button.label          "Novi zadatak" >
+<!ENTITY calendar.print.button.label            "Ispiši" >
 
-<!ENTITY calendar.export.calendar                "Export Calendar…" >
+<!ENTITY calendar.export.calendar                "Izvezi kalendar…" >
 
-<!ENTITY calendar.day.button.label              "Day" >
-<!ENTITY calendar.week.button.label             "Week" >
-<!ENTITY calendar.month.button.label            "Month" >
-<!ENTITY calendar.multiweek.button.label        "Multiweek" >
-<!ENTITY calendar.onlyworkday.checkbox.label    "Workweek days only" >
+<!ENTITY calendar.day.button.label              "Dan" >
+<!ENTITY calendar.week.button.label             "Tjedan" >
+<!ENTITY calendar.month.button.label            "Mjesec" >
+<!ENTITY calendar.multiweek.button.label        "Više tjedana" >
+<!ENTITY calendar.onlyworkday.checkbox.label    "Samo radni dani" >
 <!ENTITY calendar.onlyworkday.checkbox.accesskey  "r" >
-<!ENTITY calendar.displaytodos.checkbox.label   "Tasks in View" >
+<!ENTITY calendar.displaytodos.checkbox.label   "Zadaci u prikazu" >
 <!ENTITY calendar.displaytodos.checkbox.accesskey "k" >
-<!ENTITY calendar.completedtasks.checkbox.label     "Show completed Tasks" >
-<!ENTITY calendar.completedtasks.checkbox.accesskey "c" >
+<!ENTITY calendar.completedtasks.checkbox.label     "Prikaži završene zadatke" >
+<!ENTITY calendar.completedtasks.checkbox.accesskey "i" >
 
-<!ENTITY calendar.orientation.label "Rotate View" >
+<!ENTITY calendar.orientation.label "Rotiraj prikaz" >
 <!ENTITY calendar.orientation.accesskey "o" >
 
-<!ENTITY calendar.search.options.searchfor " contain">
+<!ENTITY calendar.search.options.searchfor " sadrži">
 
-<!ENTITY calendar.list.header.label                 "Calendar">
+<!ENTITY calendar.list.header.label                 "Kalendar">
 
-<!ENTITY calendar.task.filter.title.label           "Show">
-<!ENTITY calendar.task.filter.all.label             "All">
-<!ENTITY calendar.task.filter.all.accesskey         "A">
-<!ENTITY calendar.task.filter.today.label           "Today">
-<!ENTITY calendar.task.filter.today.accesskey       "T">
-<!ENTITY calendar.task.filter.next7days.label       "Next Seven Days">
-<!ENTITY calendar.task.filter.next7days.accesskey   "N">
-<!ENTITY calendar.task.filter.notstarted.label      "Not Started Tasks">
+<!ENTITY calendar.task.filter.title.label           "Prikaži">
+<!ENTITY calendar.task.filter.all.label             "Svi">
+<!ENTITY calendar.task.filter.all.accesskey         "S">
+<!ENTITY calendar.task.filter.today.label           "Danas">
+<!ENTITY calendar.task.filter.today.accesskey       "D">
+<!ENTITY calendar.task.filter.next7days.label       "Sljedećih sedam dana">
+<!ENTITY calendar.task.filter.next7days.accesskey   "l">
+<!ENTITY calendar.task.filter.notstarted.label      "Nezapočeti zadaci">
 <!ENTITY calendar.task.filter.notstarted.accesskey  "a">
-<!ENTITY calendar.task.filter.overdue.label         "Overdue Tasks">
-<!ENTITY calendar.task.filter.overdue.accesskey     "O">
-<!ENTITY calendar.task.filter.completed.label       "Completed Tasks">
-<!ENTITY calendar.task.filter.completed.accesskey   "C">
-<!ENTITY calendar.task.filter.open.label            "Incomplete Tasks">
-<!ENTITY calendar.task.filter.open.accesskey        "m">
+<!ENTITY calendar.task.filter.overdue.label         "Zadaci kojima je prošao rok">
+<!ENTITY calendar.task.filter.overdue.accesskey     "o">
+<!ENTITY calendar.task.filter.completed.label       "Završeni zadaci">
+<!ENTITY calendar.task.filter.completed.accesskey   "Z">
+<!ENTITY calendar.task.filter.open.label            "Nedovršeni zadaci">
+<!ENTITY calendar.task.filter.open.accesskey        "e">
 
 <!-- LOCALIZATION NOTE(calendar.task.filter.current.label)
      "Current Tasks" will show all tasks, except those with a start date set
      that is after today and after the selected date. If a task repeats, a
      separate entry will be shown for each of the occurrences that happen on or
      before today (or the selected date, whichever is later). -->
-<!ENTITY calendar.task.filter.current.label         "Current Tasks">
-<!ENTITY calendar.task.filter.current.accesskey     "u">
-<!ENTITY calendar.task.filter.repeating.label       "Repeating Tasks">
-<!ENTITY calendar.task.filter.repeating.accesskey   "R">
+<!ENTITY calendar.task.filter.current.label         "Trenutni zadaci">
+<!ENTITY calendar.task.filter.current.accesskey     "r">
+<!ENTITY calendar.task.filter.repeating.label       "Ponavljajući zadaci">
+<!ENTITY calendar.task.filter.repeating.accesskey   "n">
 
-<!ENTITY calendar.task-details.title.label           "title">
-<!ENTITY calendar.task-details.organizer.label       "from">
-<!ENTITY calendar.task-details.priority.label        "priority">
-<!ENTITY calendar.task-details.priority.low.label    "Low">
-<!ENTITY calendar.task-details.priority.normal.label "Normal">
-<!ENTITY calendar.task-details.priority.high.label   "High">
+<!ENTITY calendar.task-details.title.label           "naslov">
+<!ENTITY calendar.task-details.organizer.label       "šalje">
+<!ENTITY calendar.task-details.priority.label        "prioritet">
+<!ENTITY calendar.task-details.priority.low.label    "Nizak">
+<!ENTITY calendar.task-details.priority.normal.label "Normalan">
+<!ENTITY calendar.task-details.priority.high.label   "Visok">
 <!ENTITY calendar.task-details.status.label          "status">
-<!ENTITY calendar.task-details.category.label        "category">
-<!ENTITY calendar.task-details.repeat.label          "repeat">
-<!ENTITY calendar.task-details.attachments.label     "attachments">
-<!ENTITY calendar.task-details.start.label           "start date">
-<!ENTITY calendar.task-details.due.label             "due date">
+<!ENTITY calendar.task-details.category.label        "kategorija">
+<!ENTITY calendar.task-details.repeat.label          "ponavljanje">
+<!ENTITY calendar.task-details.attachments.label     "privici">
+<!ENTITY calendar.task-details.start.label           "datum početka">
+<!ENTITY calendar.task-details.due.label             "datum dospjeća">
 
-<!ENTITY calendar.task.category.button.tooltip  "Categorize tasks">
-<!ENTITY calendar.task.complete.button.tooltip  "Mark selected tasks completed">
-<!ENTITY calendar.task.priority.button.tooltip  "Change the priority">
+<!ENTITY calendar.task.category.button.tooltip  "Kategoriziraj zadatke">
+<!ENTITY calendar.task.complete.button.tooltip  "Označi odabrane zadatke kao završene">
+<!ENTITY calendar.task.priority.button.tooltip  "Promjeni prioritet">
 
-<!ENTITY calendar.task.text-filter.textbox.emptytext.base            "Filter tasks… #1">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.base            "Filtriraj zadatke… #1">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Shift+K&gt;">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
 
 <!-- Statusbar -->
-<!ENTITY statusText.label            "Document: Done">
+<!ENTITY statusText.label            "Dokument: Gotovo">
 
 <!-- Context Menu -->
 <!ENTITY calendar.context.modifyorviewitem.label      "Open">
