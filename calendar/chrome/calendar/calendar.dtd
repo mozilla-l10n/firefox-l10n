@@ -115,7 +115,7 @@
 
 <!ENTITY calendar.newevent.button.label         "Novi događaj" >
 <!ENTITY calendar.newtask.button.label          "Novi zadatak" >
-<!ENTITY calendar.print.button.label            "Ispiši" >
+<!ENTITY calendar.print.button.label            "Ispis" >
 
 <!ENTITY calendar.export.calendar                "Izvezi kalendar…" >
 
