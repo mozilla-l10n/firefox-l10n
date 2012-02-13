@@ -53,9 +53,9 @@
 <!ENTITY certmgr.orphans                      "Mae gennych dystysgrifau ar ffeil nad yw'n cydweddu ag unrhyw gategori arall:">
 
 <!ENTITY certmgr.detail.general_tab.title     "Cyffredinol">
-<!ENTITY certmgr.detail.general_tab.accesskey "C">
+<!ENTITY certmgr.detail.general_tab.accesskey "G">
 <!ENTITY certmgr.detail.prettyprint_tab.title "Manylion">
-<!ENTITY certmgr.detail.prettyprint_tab.accesskey "M">
+<!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
 
 <!ENTITY certmgr.pending.label                "Wrthi'n dilysu'r dystysgrif...">
 <!ENTITY certmgr.subjectinfo.label            "Dynodwyd i">
@@ -104,33 +104,33 @@
 <!ENTITY certmgr.close.label                  "Cau">
 <!ENTITY certmgr.close.accesskey              "C">
 <!ENTITY certmgr.view2.label                  "Golwg...">
-<!ENTITY certmgr.view2.accesskey              "G">
+<!ENTITY certmgr.view2.accesskey              "V">
 <!ENTITY certmgr.edit3.label                  "Golygu'r Ymddiried...">
-<!ENTITY certmgr.edit3.accesskey              "e">
+<!ENTITY certmgr.edit3.accesskey              "E">
 <!ENTITY certmgr.editca.label                 "Golygu Ymddiriedaeth CA">
-<!ENTITY certmgr.editca.accesskey             "y">
+<!ENTITY certmgr.editca.accesskey             "d">
 <!ENTITY certmgr.add.label                    "Ychwanegu">
-<!ENTITY certmgr.add.accesskey                "c">
+<!ENTITY certmgr.add.accesskey                "Y">
 <!ENTITY certmgr.export.label                 "Allforio...">
 <!ENTITY certmgr.export.accesskey             "A">
-<!ENTITY certmgr.delete2.label                "Diddymu...">
+<!ENTITY certmgr.delete2.label                "Dileu...">
 <!ENTITY certmgr.delete2.accesskey            "D">
 <!ENTITY certmgr.delete_builtin.label         "Dileu neu Ddrwgdybio">
 <!ENTITY certmgr.delete_builtin.accesskey     "D">
 <!ENTITY certmgr.backup2.label                "Wrth Gefn...">
-<!ENTITY certmgr.backup2.accesskey            "W">
+<!ENTITY certmgr.backup2.accesskey            "B">
 <!ENTITY certmgr.backupall2.label             "Popeth Wrth Gefn">
-<!ENTITY certmgr.backupall2.accesskey         "p">
-<!ENTITY certmgr.restore2.label               "Mewnforio">
+<!ENTITY certmgr.backupall2.accesskey         "k">
+<!ENTITY certmgr.restore2.label               "Mewnforio...">
 <!ENTITY certmgr.restore2.accesskey           "M">
 <!ENTITY certmgr.details.label                "Meysydd Tystysgrif">
-<!ENTITY certmgr.details.accesskey            "y">
+<!ENTITY certmgr.details.accesskey            "F">
 <!ENTITY certmgr.fields.label                 "Gwerth Maes">
-<!ENTITY certmgr.fields.accesskey             "G">
+<!ENTITY certmgr.fields.accesskey             "V">
 <!ENTITY certmgr.hierarchy.label              "Hierarchaeth Tystysgrifau">
-<!ENTITY certmgr.hierarchy.accesskey          "H">
-<!ENTITY certmgr.addException.label           "Ychwaegu Eithriad...">
-<!ENTITY certmgr.addException.accesskey       "e">
+<!ENTITY certmgr.hierarchy.accesskey          "C">
+<!ENTITY certmgr.addException.label           "Ychwanegu Eithriad...">
+<!ENTITY certmgr.addException.accesskey       "Y">
 
 <!ENTITY exceptionMgr.title                   "Ychwanegu Eithriad Diogelwch">
 <!ENTITY exceptionMgr.exceptionButton.label   "Cadarnhau Eithriad Diogelwch">
@@ -144,4 +144,5 @@
 <!ENTITY exceptionMgr.certstatus.viewCert     "Golwg...">
 <!ENTITY exceptionMgr.certstatus.accesskey    "V">
 <!ENTITY exceptionMgr.permanent.label         "Cadw'r estyniad yn barhaol">
-<!ENTITY exceptionMgr.permanent.accesskey     "C">
+<!ENTITY exceptionMgr.permanent.accesskey     "P">
+

@@ -1,7 +1,9 @@
 <!-- The page shown when not logged in... -->
 <!ENTITY setupButton.label          "Gosod &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "d">
+<!ENTITY setupButton.accesskey      "S">
 <!ENTITY weaveDesc.label            "Mae &syncBrand.fullName.label; yn caniatáu i chi gael mynediad at eich hanes, cyfrineiriau a thabiau agored ar draws eich dyfeisiau i gyd.">
+
+<!-- The page shown when logged in... -->
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Diweddaru">
@@ -9,33 +11,32 @@
 
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Rheoli Cyfrif">
-<!ENTITY manageAccount.accesskey      "R">
+<!ENTITY manageAccount.accesskey      "A">
 <!ENTITY viewQuota.label              "Gweld y Cwota">
-<!ENTITY changePassword.label         "Newid Cyfrinair">
-<!ENTITY mySyncKey.label              "Allwedd Cydweddu">
-<!ENTITY resetSync.label              "Ailosod Cydweddu">
-<!ENTITY stopUsingAccount.label       "Peidio Defnyddio'r Cyfrif">
-<!ENTITY addDevice.label              "Ychwanegu Dyfais">
+<!ENTITY changePassword2.label        "Newid Cyfrinair">
+<!ENTITY myRecoveryKey.label          "Fy Allwedd Adfer">
+<!ENTITY resetSync2.label             "Ailosod Sync">
 
-<!-- Sync Settings -->
-<!ENTITY syncComputerName.label       "Enw Cyfririadur:">
-<!ENTITY syncComputerName.accesskey   "C">
-<!ENTITY deactivateDevice.label       "Analluogi'r Ddyfais">
-
+<!ENTITY pairDevice.label             "Paru Dyfais">
 
 <!ENTITY syncMy.label               "Cydweddu">
 <!ENTITY engine.bookmarks.label     "Nodau Tudalen">
-<!ENTITY engine.bookmarks.accesskey "N">
+<!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label          "Tabiau">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Hanes">
-<!ENTITY engine.history.accesskey   "H">
+<!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.passwords.label     "Cyfrineiriau">
 <!ENTITY engine.passwords.accesskey "C">
 <!ENTITY engine.prefs.label         "Dewisiadau">
 <!ENTITY engine.prefs.accesskey     "D">
 
+<!-- Device Settings -->
+<!ENTITY syncComputerName.label       "Enw'r Cyfrifiadur">
+<!ENTITY syncComputerName.accesskey   "c">
+<!ENTITY unlinkDevice.label           "Datgysylltu'r Ddyfais">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Amodau Gwasanaeth">
 <!ENTITY prefs.ppLink.label         "Polisi Preifatrwydd">
+

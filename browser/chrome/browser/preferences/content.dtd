@@ -9,7 +9,7 @@
 <!ENTITY  exceptions.accesskey        "i">
 
 <!ENTITY  enableJavaScript.label      "Galluogi Javascript">
-<!ENTITY  enableJavaScript.accesskey  "G">
+<!ENTITY  enableJavaScript.accesskey  "J">
 <!ENTITY  advancedJS.label            "Uwch...">
 <!ENTITY  advancedJS.accesskey        "U">
 
@@ -28,10 +28,11 @@
 <!ENTITY  advancedFonts.accesskey     "w">
 
 <!ENTITY  colors.label                "Lliwiau...">
-<!ENTITY  colors.accesskey            "L">
+<!ENTITY  colors.accesskey            "i">
 
 
 <!ENTITY languages.label              "Iaith">
 <!ENTITY chooseLanguage.label         "Dewis eich iaith ar gyfer dangos tudalennau">
 <!ENTITY chooseButton.label           "Dewis...">
-<!ENTITY chooseButton.accesskey       "e">
+<!ENTITY chooseButton.accesskey       "D">
+

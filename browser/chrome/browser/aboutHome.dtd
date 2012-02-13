@@ -6,23 +6,19 @@
 
 <!ENTITY abouthome.pageTitle "Tudalen Cychwyn &brandFullName; ">
 
-<!-- LOCALIZATION NOTE (abouthome.brandStart):
-     brandShortName must be in a <span/>
--->
-<!ENTITY abouthome.brandStart "Cychwyn <span>&brandShortName;</span>">
-
 <!ENTITY abouthome.searchEngineButton.label "Chwilio">
-
-<!ENTITY abouthome.searchEngineLinks.advanced "Chwilio Uwch">
-<!ENTITY abouthome.searchEngineLinks.preferences "Dewisiadau">
 
 <!ENTITY abouthome.aboutMozilla "Ynghylch Mozilla">
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
-<!ENTITY abouthome.defaultSnippet1.v1 "Diolch am ddewis Firefox! I gael y mwyaf allan o'ch porwr, dysgwch fwy am y <a>nodweddion diweddaraf</a>.">
+<!ENTITY abouthome.defaultSnippet1.v1 "Diolch am ddewis Firefoc! I gael y mwyaf allan o'ch porwr, dysgwch fwy am y <a>nodweddion diweddaraf</a>.">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "Mae'n hawdd cyfaddasu Firefox i'r ffordd rydych am ei ddefnyddio. <a>Dewiswch o filoedd o ategion</a>.">
+
+<!ENTITY abouthome.syncSetup.label   "Creu Sync">
+<!ENTITY abouthome.pairDevice.label  "Paru Dyfais">
+

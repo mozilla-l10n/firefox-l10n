@@ -5,16 +5,17 @@
 <!ENTITY pasteCmd.label "Gludo">
 <!ENTITY pasteCmd.accesskey "G">
 <!ENTITY undoCmd.label "Dadwneud">
-<!ENTITY undoCmd.accesskey "d">
+<!ENTITY undoCmd.accesskey "D">
 <!ENTITY selectAllCmd.label "Dewis Popeth">
-<!ENTITY selectAllCmd.accesskey "D">
+<!ENTITY selectAllCmd.accesskey "p">
 <!ENTITY deleteCmd.label "Dileu">
-<!ENTITY deleteCmd.accesskey "l">
+<!ENTITY deleteCmd.accesskey "d">
 
-<!ENTITY spellAddToDictionary.label "Ychwanegu at y Geiriadur">
-<!ENTITY spellAddToDictionary.accesskey "y">
+<!ENTITY spellAddToDictionary.label "Ychwanegu i'r Geiriadur">
+<!ENTITY spellAddToDictionary.accesskey "o">
 <!ENTITY spellCheckEnable.label "Gwirio Sillafu">
-<!ENTITY spellCheckEnable.accesskey "S">
+<!ENTITY spellCheckEnable.accesskey "G">
 <!ENTITY spellNoSuggestions.label "(Dim Awgrymiadau Sillafu)">
-<!ENTITY spellDictionaries.label "Ieithoedd">
-<!ENTITY spellDictionaries.accesskey "i">
+<!ENTITY spellDictionaries.label "Iaith">
+<!ENTITY spellDictionaries.accesskey "l">
+

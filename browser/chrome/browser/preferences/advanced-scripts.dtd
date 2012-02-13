@@ -40,9 +40,10 @@
 
 <!ENTITY allowScripts.label             "Caniatáu sgriptiau i:">
 
-<!ENTITY moveResizeWindows.label        "Symud neu newid maint y ffenestri cyfredol">
-<!ENTITY moveResizeWindows.accesskey    "S">
+<!ENTITY moveResizePopupWindows.label     "Symud neu newid maint llamlenni">
+<!ENTITY moveResizePopupWindows.accesskey "s">
 <!ENTITY raiseLowerWindows.label        "Codi neu ostwng ffenestri">
-<!ENTITY raiseLowerWindows.accesskey    "C">
+<!ENTITY raiseLowerWindows.accesskey    "R">
 <!ENTITY disableContextMenus.label      "Analluogi neu newid dewislenni cyd-destun">
-<!ENTITY disableContextMenus.accesskey  "A">
+<!ENTITY disableContextMenus.accesskey  "D">
+

@@ -7,12 +7,13 @@
 <!ENTITY     props.policy.label             "Polisi:"> 
 
 <!ENTITY     button.allow.label             "Caniatáu">
-<!ENTITY     button.allow.accesskey         "C">
-<!ENTITY     button.session.label           "Caniatáu ar gyfer y Sesiwn">
+<!ENTITY     button.allow.accesskey         "A">
+<!ENTITY     button.session.label           "Caniatâu ar gyfer y Sesiwn">
 <!ENTITY     button.session.accesskey       "S">
 <!ENTITY     button.deny.label              "Gwrthod">
-<!ENTITY     button.deny.accesskey          "G">
+<!ENTITY     button.deny.accesskey          "D">
 
 <!ENTITY     dialog.title                   "Cadarnhau gosod cwci">
 <!ENTITY     dialog.remember.label          "Defnyddio fy newis ar gyfer yr holl gwcis o'r wefan hwn">
-<!ENTITY     dialog.remember.accesskey      "D">
+<!ENTITY     dialog.remember.accesskey      "U">
+

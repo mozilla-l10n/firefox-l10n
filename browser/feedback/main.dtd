@@ -29,5 +29,6 @@
 <!ENTITY testpilot.feedbackbutton.label                "Adborth">
 <!ENTITY testpilot.happy.label        "Firefox Made Me Happy Because...">
 <!ENTITY testpilot.sad.label          "Firefox Made Me Sad Because...">
-<!ENTITY testpilot.broken.label      "Adrodd bod y wefan wedi'i thorri…">
-<!ENTITY testpilot.idea.label        "Rhoi awgrym…">
+<!ENTITY testpilot.broken.label      "Adrodd fod y wefan wedi torri...">
+<!ENTITY testpilot.idea.label        "Cynnig awgrym...">
+

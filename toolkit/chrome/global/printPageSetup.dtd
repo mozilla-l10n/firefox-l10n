@@ -13,7 +13,7 @@
 <!ENTITY landscape.accesskey "T">
 
 <!ENTITY scale.label         "Graddfa:">
-<!ENTITY scale.accesskey     "G">
+<!ENTITY scale.accesskey     "r">
 <!ENTITY scalePercent        "&#037;">
 
 <!ENTITY shrinkToFit.label   "Cywasgu i Led y Dudalen">
@@ -22,7 +22,7 @@
 <!ENTITY optionsGroup.label  "Dewisiadau">
 
 <!ENTITY printBG.label       "Argraffu'r Cefndir (lliwiau a delweddau)">
-<!ENTITY printBG.accesskey   "C">
+<!ENTITY printBG.accesskey   "A">
 
 <!ENTITY advanced.tab        "Ymylon a Phennawd/Troedyn">
 
@@ -60,3 +60,4 @@
 
 <!ENTITY customPrompt.title  "Cyfaddasu...">
 <!ENTITY customPrompt.prompt "Rhowch destun pennawd /troedyn cyfaddas">
+

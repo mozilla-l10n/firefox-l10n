@@ -7,19 +7,20 @@
 
 <!-- Buttons -->
 <!ENTITY  up.label                  "Symud i Fyny">
-<!ENTITY  up.accesskey              "F">
+<!ENTITY  up.accesskey              "u">
 <!ENTITY  dn.label                  "Symud i Lawr">
-<!ENTITY  dn.accesskey              "L">
+<!ENTITY  dn.accesskey              "d">
 <!ENTITY  remove.label              "Tynnu">
 <!ENTITY  remove.accesskey          "T">
 <!ENTITY  edit.label                "Golygu'r Allweddair...">
-<!ENTITY  edit.accesskey            "l">
+<!ENTITY  edit.accesskey            "A">
 
 <!ENTITY  addEngine.label           "Estyn peiriannau chwilio eraill...">
 <!ENTITY  addEngine.accesskey       "p">
 
 <!ENTITY  enableSuggest.label       "Dangos awgrymiadau chwlio">
-<!ENTITY  enableSuggest.accesskey   "D">
+<!ENTITY  enableSuggest.accesskey   "a">
 
 <!ENTITY  restoreDefaults.label     "Adfer y Rhagosodiad">
-<!ENTITY  restoreDefaults.accesskey "a">
+<!ENTITY  restoreDefaults.accesskey "R">
+

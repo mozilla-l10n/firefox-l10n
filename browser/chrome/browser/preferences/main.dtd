@@ -1,17 +1,20 @@
 <!ENTITY startup.label             "Cychwyn">
 
 <!ENTITY startupPage.label         "Cychwyn &brandShortName;:">
-<!ENTITY startupPage.accesskey     "c">
+<!ENTITY startupPage.accesskey     "C">
 <!ENTITY startupHomePage.label     "Dangos fy nhudalen cartref">
 <!ENTITY startupBlankPage.label    "Dangos tudalen wag">
 <!ENTITY startupLastSession.label  "Ffenestri a thabiau tro diwethaf">
+<!ENTITY restoreOnDemand.label     "Peidio llwytho tabiau nes eu bod wedi eu dewis">
+<!ENTITY restoreOnDemand.accesskey "P">
+
 <!ENTITY homepage.label            "Tudalen Cartref:">
 <!ENTITY homepage.accesskey        "T">
 <!ENTITY useCurrentPage.label      "Defnyddio'r Dudalen Bresennol">
 <!ENTITY useCurrentPage.accesskey  "D">
 <!ENTITY useMultiple.label         "Defnyddio'r Tudalennau Presennol">
-<!ENTITY useBookmark.label         "Defnyddio Nod Tudalen">
-<!ENTITY useBookmark.accesskey     "N">
+<!ENTITY chooseBookmark.label      "Defnyddio Nod Tudalen...">
+<!ENTITY chooseBookmark.accesskey  "D">
 <!ENTITY restoreDefault.label      "Adfer i'r Rhagosodedig">
 <!ENTITY restoreDefault.accesskey  "A">
 
@@ -20,9 +23,9 @@
 <!ENTITY showWhenDownloading.label     "Dangos ffenestr Llwytho i Lawr wrth lwytho ffeil i lawr">
 <!ENTITY showWhenDownloading.accesskey "L">
 <!ENTITY closeWhenDone.label "Cau pan fydd y llwytho i lawr wedi ei gwblhau">
-<!ENTITY closeWhenDone.accesskey "C">
+<!ENTITY closeWhenDone.accesskey "a">
 <!ENTITY saveTo.label "Cadw ffeiliau yn">
-<!ENTITY saveTo.accesskey "a">
+<!ENTITY saveTo.accesskey "C">
 <!ENTITY chooseFolderWin.label        "Pori...">
 <!ENTITY chooseFolderWin.accesskey    "P">
 <!ENTITY chooseFolderMac.label        "Dewis...">
@@ -35,3 +38,4 @@
 <!ENTITY manageAddonsDescUnix2.label   "Newid dewisiadau ar gyfer eich ychwanegion">
 <!ENTITY manageAddons.label            "Rheoli Ychwanegion...">
 <!ENTITY manageAddons.accesskey        "R">
+

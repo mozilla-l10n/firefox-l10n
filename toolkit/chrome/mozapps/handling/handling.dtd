@@ -2,4 +2,5 @@
 <!ENTITY window.emHeight "26em">
 <!ENTITY ChooseApp.description "Dewis Rhaglen">
 <!ENTITY ChooseApp.label "Dewis...">
-<!ENTITY ChooseApp.accessKey "C">
+<!ENTITY ChooseApp.accessKey "D">
+

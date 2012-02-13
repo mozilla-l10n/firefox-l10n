@@ -12,10 +12,11 @@
 <!-- Second wizard page -->
 <!ENTITY profileCreationIntro.text      "Os ydych yn creu nifer o broffiliau mae modd eu gwahaniaethu wrth enw'r proffil. Mae modd defnyddio'r enw sy'n cael ei ddarparu yma neu enw eich hun.">
 <!ENTITY profilePrompt.label            "Rhowch enw proffil newydd:">
-<!ENTITY profilePrompt.accesskey        "e">
+<!ENTITY profilePrompt.accesskey        "E">
 <!ENTITY profileDirectoryExplanation.text   "Bydd eich gosodiadau defnyddiwr, dewisiadau a data arall sy'n perthyn i ddefnyddiwr yn cael ei gadw yn:">
 <!ENTITY profileDefaultName             "Defnyddiwr Rhagosodedig">
 <!ENTITY button.choosefolder.label      "Dewis Ffolder...">
-<!ENTITY button.choosefolder.accesskey  "D">
+<!ENTITY button.choosefolder.accesskey  "C">
 <!ENTITY button.usedefault.label        "Defnyddio'r Ffolder Rhagosodedig">
-<!ENTITY button.usedefault.accesskey    "R">
+<!ENTITY button.usedefault.accesskey    "U">
+
