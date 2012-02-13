@@ -40,3 +40,31 @@
 <!ENTITY lightning.toolbar.task.accesskey "O">
 
 <!ENTITY lightning.toolbar.sync.label "Sinhroniziraj">
+<!ENTITY lightning.toolbar.delete.label "Izbriši">
+<!ENTITY lightning.toolbar.edit.label "Uredi">
+<!ENTITY lightning.toolbar.gototoday.label "Pojdi na Danes">
+<!ENTITY lightning.toolbar.print.label "Natisni">
+
+<!-- Mode Toolbar -->
+<!ENTITY lightning.toolbar.mail.label         "Pošta">
+<!ENTITY lightning.toolbar.mail.accesskey     "M">
+<!ENTITY lightning.toolbar.calendar.label     "Koledar">
+<!ENTITY lightning.toolbar.calendar.tooltip   "Preklopi na zavihek koledar">
+<!ENTITY lightning.toolbar.calendar.accesskey "C">
+<!ENTITY lightning.toolbar.task.label         "Opravki">
+<!ENTITY lightning.toolbar.task.tooltip       "Preklopi na zavihek Opravki">
+<!ENTITY lightning.toolbar.task.accesskey     "T">
+
+<!-- Toolbar write button -->
+<!ENTITY lightning.toolbar.newevent.label     "Dogodek">
+<!ENTITY lightning.toolbar.newtask.label      "Opravek">
+
+<!-- Calendar and Task Mode Toolbar -->
+<!ENTITY lightning.toolbar.day.label                 "Dan">
+<!ENTITY lightning.toolbar.day.accesskey             "D">
+<!ENTITY lightning.toolbar.week.label                "Teden">
+<!ENTITY lightning.toolbar.week.accesskey            "T">
+<!ENTITY lightning.toolbar.multiweek.label           "Več tednov">
+<!ENTITY lightning.toolbar.multiweek.accesskey       "V">
+<!ENTITY lightning.toolbar.month.label               "Mesec">
+<!ENTITY lightning.toolbar.month.accesskey           "M">
