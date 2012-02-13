@@ -42,7 +42,7 @@
 <!ENTITY sync.title.success.label "Críochnaithe">
 <!ENTITY sync.subtitle.success.label "Tá do chuid sonraí á n-íosluchtú sa chúlra. Féach ar na Socruithe chun do chuntas a bhainistiú.">
 <!ENTITY sync.settings.label "Socruithe">
-<!ENTITY sync.subtitle.manage.label "Tá cuntas &syncBrand.fullName.label; socraithe agat cheana. Féach ar 'Socruithe' chun do chuntas a bhainistiú.">
+<!ENTITY sync.subtitle.manage.label "Tá cuntas &syncBrand.fullName.label; socraithe agat cheana. Féach ar na Socruithe chun do chuntas a bhainistiú.">
 <!-- Pair Device -->
 
 <!ENTITY sync.pair.tryagain.label "Bain triail as arís.">
