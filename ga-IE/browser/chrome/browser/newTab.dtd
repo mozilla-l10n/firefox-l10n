@@ -1,0 +1,6 @@
+<!-- These strings are used in the about:newtab page -->
+<!ENTITY newtab.pageTitle "Cluaisín Nua">
+
+<!ENTITY newtab.show "Taispeáin Leathanach an Chluaisín Nua">
+<!ENTITY newtab.hide "Folaigh Leathanach an Chluaisín Nua">
+<!ENTITY newtab.reset "Athshocraigh Leathanach an Chluaisín Nua">
