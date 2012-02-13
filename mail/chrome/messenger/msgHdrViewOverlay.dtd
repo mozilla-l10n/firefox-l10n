@@ -129,5 +129,8 @@
 <!ENTITY copyLinkCmd.accesskey    "K">
 
 <!ENTITY CopyMessageId.label "Kopiraj ID sporočila">
+<!ENTITY CopyMessageId.accesskey "K">
 <!ENTITY OpenMessageForMsgId.label "Odpri sporočilo za ID">
+<!ENTITY OpenMessageForMsgId.accesskey "O">
 <!ENTITY OpenBrowserWithMsgId.label "Odpri brskalnik z ID sporočila">
+<!ENTITY OpenBrowserWithMsgId.accesskey "B">

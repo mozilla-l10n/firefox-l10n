@@ -68,11 +68,13 @@
 <!ENTITY pasteCmd.accesskey "r">
 <!ENTITY pasteNoFormattingCmd.key "P">
 <!ENTITY pasteAsQuotationCmd.key "Q">
-<!ENTITY editRewrapCmd.label "Ponovno zavij">
-<!ENTITY editRewrapCmd.key "n">
 <!ENTITY editRewrapCmd.accesskey "n">
 <!ENTITY deleteCmd.label "Zbriši">
 <!ENTITY deleteCmd.accesskey "B">
+<!ENTITY editRewrapCmd.label "Ponovno zavij">
+<!ENTITY editRewrapCmd.key "n">
+<!ENTITY renameAttachmentCmd.label "Preimenuj prilogo…">
+ž<!ENTITY renameAttachmentCmd.accesskey "e">
 <!ENTITY selectAllCmd.label "Izberi vse">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "I"> 
