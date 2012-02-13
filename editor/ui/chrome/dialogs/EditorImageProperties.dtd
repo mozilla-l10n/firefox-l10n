@@ -78,8 +78,6 @@
 <!ENTITY imagemapBox.label "Mapa Íomhá">
 <!ENTITY removeImageMapButton.label "Bain">
 <!ENTITY removeImageMapButton.accessKey "B">
-<!ENTITY editImageMapButton.label "Eagar…">
-<!ENTITY editImageMapButton.tooltip "Cruthaigh baill te inchliceáilte don íomhá seo">
 <!-- These are the options for image alignment -->
 
 <!ENTITY alignment.label "Ailínigh an Téacs leis an Íomhá">

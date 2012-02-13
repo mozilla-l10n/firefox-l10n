@@ -73,30 +73,6 @@
 
 <!ENTITY lightning.menu.eventtask.label "Imeachtaí agus Tascanna">
 <!ENTITY lightning.menu.eventtask.accesskey "m">
-<!-- Mode Toolbar -->
-
-<!ENTITY lightning.toolbar.mail.label "Ríomhphost">
-<!ENTITY lightning.toolbar.mail.accesskey "m">
-<!ENTITY lightning.toolbar.calendar.label "Féilire">
-<!ENTITY lightning.toolbar.calendar.tooltip "Féach ar chluaisín an fhéilire">
-<!ENTITY lightning.toolbar.calendar.accesskey "F">
-<!ENTITY lightning.toolbar.task.label "Tascanna">
-<!ENTITY lightning.toolbar.task.tooltip "Féach ar chluaisín na dtascanna">
-<!ENTITY lightning.toolbar.task.accesskey "T">
-<!-- Toolbar write button -->
-
-<!ENTITY lightning.toolbar.newevent.label "Imeacht">
-<!ENTITY lightning.toolbar.newtask.label "Tasc">
-<!-- Messenger Toolbar -->
-
-<!ENTITY lightning.toolbar.day.label "Lá">
-<!ENTITY lightning.toolbar.day.accesskey "L">
-<!ENTITY lightning.toolbar.week.label "Seachtain">
-<!ENTITY lightning.toolbar.week.accesskey "S">
-<!ENTITY lightning.toolbar.multiweek.label "Amharc Ilseachtaine">
-<!ENTITY lightning.toolbar.multiweek.accesskey "I">
-<!ENTITY lightning.toolbar.month.label "Mí">
-<!ENTITY lightning.toolbar.month.accesskey "M">
 <!-- properties dialog, calendar creation wizard -->
 
 <!ENTITY lightning.calendarproperties.showevents.inagenda.label "Taispeáin Imeachtaí i bPána Inniu">

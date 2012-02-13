@@ -67,6 +67,26 @@
 <!ENTITY selectAllCmd.key "W">
 <!ENTITY selectAllCmd.accesskey "U">
 
+<!ENTITY findCmd.label "Aimsigh…">
+<!ENTITY findCmd.key "F">
+<!ENTITY findCmd.accesskey "A">
+
+<!ENTITY findAgainCmd.label "Aimsigh Arís…">
+<!-- LOCALIZATION NOTE (findAgainCmd.key): This key is used only on Macs.
+  -  Windows and Linux builds use the F3 key which is not localizable on purpose.
+  -->
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.accesskey "r">
+<!-- LOCALIZATION NOTE (findPreviousCmd.key): This key is used only on Macs.
+  -  Windows and Linux builds use the Shift-F3 key which is not localizable on
+  -  purpose.
+  -->
+<!ENTITY findPreviousCmd.key "G">
+
+<!ENTITY gotoLineCmd.label "Léim go líne…">
+<!ENTITY gotoLineCmd.key "J">
+<!ENTITY gotoLineCmd.accesskey "L">
+
 <!ENTITY run.label "Rith">
 <!ENTITY run.accesskey "R">
 <!ENTITY run.key "r">

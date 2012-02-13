@@ -68,11 +68,13 @@
 <!ENTITY pasteCmd.accesskey "m">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY editRewrapCmd.label "Timfhill Arís">
-<!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "T">
 <!ENTITY deleteCmd.label "Scrios">
 <!ENTITY deleteCmd.accesskey "S">
+<!ENTITY editRewrapCmd.label "Timfhill Arís">
+<!ENTITY editRewrapCmd.key "R">
+<!ENTITY renameAttachmentCmd.label "Rename Attachment…">
+<!ENTITY renameAttachmentCmd.accesskey "e">
 <!ENTITY selectAllCmd.label "Roghnaigh Uile">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "U">

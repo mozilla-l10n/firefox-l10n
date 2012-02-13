@@ -360,8 +360,6 @@
 <!ENTITY event.freebusy.next.slot "An chéad sliotán eile ">
 <!ENTITY event.freebusy.previous.slot " An sliotán roimhe seo">
 <!ENTITY event.freebusy.zoom "Súmáil:">
-<!ENTITY event.freebusy.plus "An chéad uair eile">
-<!ENTITY event.freebusy.minus "An uair roimhe seo">
 <!ENTITY event.freebusy.legend.free "Saor">
 <!ENTITY event.freebusy.legend.busy "Gnóthach">
 <!ENTITY event.freebusy.legend.busy_tentative "Sealadach">
