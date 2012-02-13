@@ -2,7 +2,7 @@
 %brandDTD;
 
 <!ENTITY loadError.label "Probleem by it laden fan de side">
-<!ENTITY retry.label "Besykje it op 'e nij">
+<!ENTITY retry.label "Probearje it op 'e nij">
 
 <!-- Specific error messages -->
 
@@ -137,13 +137,13 @@
 <!ENTITY nssBadCert.longDesc2 "
 <ul>
 <li>Dit koe in probleem wêze mei de konfiguraasje fan de tsjinner, of it kin iets wêze wat probeart de tsjinner as in oar foar te dwaan.</li>
-<li>As jo earder al súksesfol ferbining hân hawwe mei dizze tsjinner, kin de flater tydlik wêze en kinne jo it letter nochris besykje.</li>
+<li>As jo earder al súksesfol ferbining hân hawwe mei dizze tsjinner, kin de flater tydlik wêze en kinne jo it letter nochris probearje.</li>
 </ul>
 ">
 
 <!ENTITY sharedLongDesc "
 <ul>
-  <li>Miskien is it webstee tydlik net beskikber. Besykje it letter 
+  <li>Miskien is it webstee tydlik net beskikber. Probearje it letter 
     nochris.</li>
   <li>Kontrolearje jo netwurkferbining as jo gjin inkele side lade kinne.</li>
   <li>Gean nei oft &brandShortName; tagong hat ta it web, of dat jo 
@@ -153,8 +153,8 @@
 
 <!ENTITY malwareBlocked.title "Fertochte Oanfal Side!">
 <!ENTITY malwareBlocked.longDesc "<p>
-Oanfal sides probearje om programmatuer te ynstallearjen dy't privee-ynformaasje stêle kinne, jo komjûter brûke om oaren oan te fallen, of jo systeem skansearje.</p>
-<p>Jo soenen dizze side net besykje!</p>
+Oanfalsides probearje om programmatuer te ynstallearjen dy't privee-ynformaasje stêle kinne, jo komjûter brûke om oaren oan te fallen, of jo systeem skansearje.</p>
+<p>Jo soenen better dizze side net besykje!</p>
 ">
 
 <!ENTITY phishingBlocked.title "Fertochte Web Ferfalsking!">
