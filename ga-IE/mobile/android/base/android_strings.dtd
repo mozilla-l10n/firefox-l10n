@@ -42,6 +42,7 @@ Cabhraigh linn, le do thoil, chun an fhadhb a réiteach!">
 <!ENTITY forward "Ar Aghaidh">
 
 <!ENTITY new_tab "Cluaisín Nua">
+<!ENTITY new_tab_opened "Osclaíodh cluaisín nua">
 
 <!ENTITY settings "Socruithe">
 <!ENTITY settings_title "Socruithe">
@@ -106,6 +107,6 @@ Cabhraigh linn, le do thoil, chun an fhadhb a réiteach!">
 <!ENTITY abouthome_last_tabs_open "Oscail gach cluaisín ón uair roimhe seo">
 <!ENTITY abouthome_top_sites_title "Barrshuímh">
 <!ENTITY abouthome_top_sites_browse "Brabhsáil na suímh is ansa leat">
-<!ENTITY abouthome_no_top_sites "Níl aon bharrshuímh agat. Cniog an Barra Teidil chun brabhsáil.">
+<!ENTITY abouthome_no_top_sites "Níl aon bharrshuímh agat fós. Cniog an Barra Teidil chun brabhsáil.">
 <!ENTITY abouthome_about_sync "Socraigh Firefox Sync chun do stair, leabharmharcanna, agus cluaisíní a rochtain ar gach gléas atá agat">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">

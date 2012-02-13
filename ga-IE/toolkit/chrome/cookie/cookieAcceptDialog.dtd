@@ -4,7 +4,6 @@
 <!ENTITY props.path.label "Conair:">
 <!ENTITY props.secure.label "Le haghaidh:">
 <!ENTITY props.expires.label "As Feidhm:">
-<!ENTITY props.policy.label "Polasaí:">
 
 <!ENTITY button.allow.label "Ceadaigh">
 <!ENTITY button.allow.accesskey "C">
