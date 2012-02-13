@@ -5,7 +5,7 @@
 diweddariad ar gael i'ch ychwanegion i'w gwneud yn gymharus 
 gyda'r fersiwn hon">
 <!ENTITY  offline.toggleOffline.label     "Ewch ar-lein.">
-<!ENTITY  offline.toggleOffline.accesskey "E">
+<!ENTITY  offline.toggleOffline.accesskey "G">
 
 <!ENTITY  mismatch.win.title              "Ategynnau Anghydweddus">
 <!ENTITY  mismatch.top.label              "Nid yw'r ychwanegion canlynol yn gymharus gyda'r fersiwn 
@@ -22,7 +22,7 @@ o'r ychwanegion hyn ar gael.">
 <!ENTITY  found.disabledXPinstall.label   "Nid oes modd gosod y diweddariadau hyn gan fod gosod meddalwedd wedi 
 ei atal ar hyn o bryd. Gallwch newid y gosodiad isod.">
 <!ENTITY  found.enableXPInstall.label     "Caniatáu i wefannau osod meddalwedd">
-<!ENTITY  found.enableXPInstall.accesskey "C">
+<!ENTITY  found.enableXPInstall.accesskey "A">
 
 <!ENTITY  installing.wizard.title         "Rhestru Ategion Cytûn">
 <!ENTITY  installing.top.label            "Llwytho a gosod diweddariadau i'ch ychwanegion...">
@@ -59,3 +59,4 @@ ddiweddaru rhai o'ch ychwanegion.">
 <!ENTITY  clickFinish.label               "Clicio Gorffen i gychwyn &brandShortName;.">
 <!ENTITY  clickFinish.labelMac            "Cliciwch Gorffen i barhau i gychwyn &brandShortName;.">
 <!ENTITY  enableChecking.label            "Caniatáu i &brandShortName; wirio am ddiweddariadau.">
+

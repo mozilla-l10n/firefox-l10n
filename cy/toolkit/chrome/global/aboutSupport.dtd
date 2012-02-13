@@ -1,8 +1,10 @@
 <!ENTITY aboutSupport.pageTitle " Gwybodaeth am Ddatrys Problemau">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
-<!ENTITY aboutSupport.pageSubtitle "   Mae'r dudalen hon yn cynnwys gwybodaeth dechnegol a  allai  fod yn ddefnyddiol pan fyddwch yn ceisio datrys problem. Os ydych yn chwilio am atebion i gwestiynau\n
-cyffredin am a brandShortName;, edrychwch ar ein <a id='supportLink'>gwefan cefnogi.</a>.  ">
+<!ENTITY aboutSupport.pageSubtitle "  Mae'r dudalen hon yn cynnwys gwybodaeth dechnegol a  allai  fod yn ddefnyddiol pan fyddwch
+  yn ceisio datrys problem. Os ydych yn chwilio am atebion i gwestiynau cyffredin am
+  &brandShortName;, edrychwch ar ein <a id='supportLink'>gwefan cefnogi.</a>.
+">
 
 <!ENTITY aboutSupport.extensionsTitle "Estyniadau">
 <!ENTITY aboutSupport.extensionName "Enw">
@@ -17,6 +19,8 @@ cyffredin am a brandShortName;, edrychwch ar ein <a id='supportLink'>gwefan cefn
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Ategion Galluogwyd">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Ffurfweddiad Adeiladu">
 <!ENTITY aboutSupport.appBasicsUserAgent "Asiant Defnyddiwr">
+<!ENTITY aboutSupport.appBasicsCrashIDs "Ardroddiad Chwalu">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Defnydd o'r cof">
 
 <!ENTITY aboutSupport.show.label "Agor Ffolder Cynnwys">
 
@@ -35,3 +39,4 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.updateHistoryTitle "Hanes Diweddaru">
 
 <!ENTITY aboutSupport.copyToClipboard.label "Copïo popeth i'r clipfwrdd">
+

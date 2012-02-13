@@ -4,8 +4,7 @@
 
 <!ENTITY setup.pickSetupType.description "Croeso, os nad ydych wedi defnyddio &syncBrand.fullName.label; o'r blaen, bydd angen i chi greu cyfrif newydd.">
 <!ENTITY button.createNewAccount.label "Creu Cyfrif Newydd">
-<!ENTITY setup.haveAccount.label "Mae gen i gyfrif &syncBrand.fullName.label; eisoes.">
-<!ENTITY button.connect.label    "Cysylltu">
+<!ENTITY button.haveAccount.label      "Mae gennyf Gyfrif">
 
 <!ENTITY setup.choicePage.title.label     "Ydych chi wedi defnyddio &syncBrand.fullName.label; o'r blaen?">
 <!ENTITY setup.choicePage.new.label       "Nid wyf wedi defnyddio &syncBrand.shortName.label; o'r blaen">
@@ -14,100 +13,81 @@
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Gweinydd">
 <!ENTITY serverType.main.label      "Gweinydd &syncBrand.fullName.label;">
-<!ENTITY serverType.custom2.label    "Defnyddio gweinydd cyfaddas…">
-<!ENTITY signIn.account2.label       "Cyfrif">
-<!ENTITY signIn.account2.accesskey   "C">
+<!ENTITY serverType.custom2.label   "Defnyddio gweinydd cyfaddas...">
+<!ENTITY signIn.account2.label      "Cyfrif">
+<!ENTITY signIn.account2.accesskey  "C">
 <!ENTITY signIn.password.label      "Cyfrinair">
-<!ENTITY signIn.password.accesskey  "A">
-<!ENTITY signIn.syncKey.label     "Allwedd Cydweddu">
-<!ENTITY signIn.syncKey.accesskey "D">
+<!ENTITY signIn.password.accesskey  "C">
+<!ENTITY signIn.recoveryKey.label       "Allwedd Adfer">
+<!ENTITY signIn.recoveryKey.accesskey   "A">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Manylion Cyfrif">
-<!ENTITY setup.confirmPassword.label  "Cadarnhau Cyfrinair">
-<!ENTITY setup.confirmPassword.accesskey  "C">
 <!ENTITY setup.emailAddress.label     "Cyfeiriad E-bost">
 <!ENTITY setup.emailAddress.accesskey "E">
+<!ENTITY setup.choosePassword.label      "Dewis Cyfrinair">
+<!ENTITY setup.choosePassword.accesskey  "D">
+<!ENTITY setup.confirmPassword.label     "Cadarnhau Cyfrinair">
+<!ENTITY setup.confirmPassword.accesskey "a">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
 <!ENTITY setup.tosAgree1.label      "Rwy'n cytuno i">
-<!ENTITY setup.tosAgree1.accesskey  "R">
+<!ENTITY setup.tosAgree1.accesskey  "t">
 <!ENTITY setup.tosLink.label        "Amodau Gwasanaeth">
 <!ENTITY setup.tosAgree2.label      "a'r">
 <!ENTITY setup.ppLink.label         "Polisi Preifatrwydd">
 <!ENTITY setup.tosAgree3.label      "">
-<!ENTITY setup.tosAgree2.accesskey  "a">
+<!ENTITY setup.tosAgree2.accesskey  "">
 
-<!-- New Account Page 2: Sync Key -->
-<!ENTITY setup.newSyncKeyPage.title.label "Mae &brandShortName; yn ofalus o'ch Preifatrwydd">
-<!ENTITY setup.newSyncKeyPage.description.label "Er mwyn sicrhau eich preifatrwydd, mae'r data yn cael ei amgryptio cyn ei lwytho i fyny. Nid yw'r Allwedd Cydweddu sy'n angenrheidiol i ddadamgryptio eich data yn cael ei lwytho i fyny.">
-<!ENTITY syncKeyEntry.label        "Eich Allwedd Cydweddu">
-<!ENTITY syncKeyEntry.accesskey    "E">
-<!ENTITY syncKeyGenerate.label     "Cynhyrchu">
-<!ENTITY syncKeyBackup.description "Mae angen eich Allwedd Cydweddu i gael mynediad i &syncBrand.fullName.label; ar beiriannau eraill. Cofiwch greu copi wrth gefn. Nid ydym yn gallu eich cynorthwyo i adfer eich Allwedd Cydweddu.">
+<!-- My Recovery Key dialog -->
+<!ENTITY setup.newRecoveryKeyPage.title.label "Mae &brandShortName; yn ofalus o'ch Preifatrwydd">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Er mwyn sicrhau eich preifatrwydd llwyr, bydd eich holl ddata yn cael ei amgryptio cyn cael ei lwytho i fyny. Ni fydd eich Allwedd Adfer, syn'n angenrheidiol ar gyfer dadgryptio eich data yn cael ei lwytho i fyny.">
+<!ENTITY recoveryKeyEntry.label        "Eich Allwedd Adfer">
+<!ENTITY recoveryKeyEntry.accesskey    "A">
+<!ENTITY syncGenerateNewKey.label  "Cynhyrchu allwedd newydd">
+<!ENTITY recoveryKeyBackup.description "Mae angen eich Allwedd Adfer er mwyn cael mynediad at &syncBrand.fullName.label; ar beiriannau eraill. Crewch gopi wrth gefn. Nid ydym yn gallu eich cynorthwyo i adfer eich Allwedd Adfer.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Argraffu...">
 <!ENTITY button.syncKeyBackup.print.accesskey "A">
 <!ENTITY button.syncKeyBackup.save.label      "Cadw...">
 <!ENTITY button.syncKeyBackup.save.accesskey  "C">
 
-<!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "Cadarnhewch nad Robot ydych chi">
-<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "Ychwanegu Dyfais">
-<!ENTITY addDevice.showMeHow.label          "Dangos sut.">
-<!ENTITY addDevice.dontHaveDevice.label     "Dydy'r ddyfais ddim gen i">
-<!ENTITY addDevice.setup.description.label  "I alluogi, ewch i Dewisiadau &syncBrand.shortName.label; ar eich dyfais arall a dewis &#x0022;Ychwanegu Dyfais&#x0022;.">
-<!ENTITY addDevice.setup.enterCode.label    "Yna, teipiwch y cod hwn:">
-<!ENTITY addDevice.dialog.description.label "I alluogi eich dyfais newydd, ewch i Dewisiadau &syncBrand.shortName.label; ar y ddyfais a dewis &#x0022;Cysylltu&#x0022;.">
-<!ENTITY addDevice.dialog.enterCode.label   "Teipiwch y cod mae'r ddyfais yn ei roi:">
+<!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
+<!ENTITY pairDevice.title.label             "Paru Dyfais">
+<!ENTITY addDevice.showMeHow.label          "Dangos i mi sut.">
+<!ENTITY addDevice.dontHaveDevice.label     "Nid yw'r ddyfais gennyf">
+<!ENTITY pairDevice.setup.description.label  "I weithredu, dewiswch &#x0022;Paru Dyfais&#x0022; ar eich dyfais arall.">
+<!ENTITY addDevice.setup.enterCode.label    "Yna, rhoi'r cod yma:">
+<!ENTITY pairDevice.dialog.description.label "I weithredu dyfais newydd, dewisch &#x0022;Creu Sync&#x0022; ar y ddyfais.">
+<!ENTITY addDevice.dialog.enterCode.label   "Rhowch y cod mae'r ddyfais yn ei ddarparu:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Ceisiwch eto.">
-<!ENTITY addDevice.dialog.successful.label  "Mae'r ddyfais wedi'i hychwanegu yn llwyddiannus. Gall y cydweddu gymryd nifer o funudau y tro cyntaf, ac bydd yn cael ei orffen yn y cefndir.">
-<!ENTITY addDevice.dialog.syncKey.label     "I alluogi'r ddyfais bydd rhaid teipio eich Allwedd Cydweddu. Argraffwch yr allwedd neu gadw copi i'w chario gyda chi.">
+<!ENTITY addDevice.dialog.successful.label  "Mae'r ddyfais wedi ei hychwanegu'n llwyddiannus. Gall y cydweddu cychwynnol gymryd ychydig o funudau a bydd yn gorffen yn y cefndir.">
+<!ENTITY addDevice.dialog.recoveryKey.label     "Er mwyn gweithredu eich dyfais bydd angen rhoi eich Allwedd Adfer. Argraffwch neu gadwch yr allwedd a'i gymryd gyda chi.">
 <!ENTITY addDevice.dialog.connected.label   "Dyfais wedi Cysylltu">
 
-<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "Ychwanegu Dyfais">
-<!ENTITY addDevice.showMeHow.label          "Dangos i mi sut.">
-<!ENTITY addDevice.dontHaveDevice.label     "Dydy'r dyfais ddim gen i">
-<!ENTITY addDevice.setup.description.label  "I'w roi ar waith, ewch i Dewisiadau &syncBrand.shortName.label; ar eich dyfais arall a dewis &#x0022;Ychwanegu Dyfais&#x0022;.">
-<!ENTITY addDevice.setup.enterCode.label    "Yna, rhowch y cod:">
-<!ENTITY addDevice.dialog.description.label "I roi eich dyfais newydd ar waith, ewch i Dewisiadau &syncBrand.shortName.label; ar y dyfais a dewis &#x0022;Cysylltu.&#x0022;">
-<!ENTITY addDevice.dialog.enterCode.label   "Rhowch y cod mae'r dyfais wedi'i roi:">
-<!ENTITY addDevice.dialog.tryAgain.label    "Ceisiwch eto.">
-<!ENTITY addDevice.dialog.successful.label  "Wedi llwyddo ychwanegu'r dyfais. Gall y cydweddu gymryd sawl munud, ac bydd yn digwydd yn y cefndir.">
-<!ENTITY addDevice.dialog.syncKey.label     "I roi eich dyfais ar waith bydd angen i chi roi eich Allwedd Cydweddu. Argraffwch yr allwedd neu'i chadw, a'i chario gyda chi.">
-<!ENTITY addDevice.dialog.connected.label   "Dyfais wedi'i Gysylltu">
-
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Mewngofnodi">
-<!ENTITY existingSyncKey.description "Gallwch gael copi o'ch Allwedd Cydweddu drwy fynd i Dewisiadau &syncBrand.shortName.label; ar eich dyfais arall, a dewis &#x0022;Fy Allwedd Cydwedddu&#x0022; o dan &#x0022;Rheoli Cyfrif&#x0022;.">
-<!ENTITY verifying.label              "Dilysu">
+<!ENTITY existingRecoveryKey.description "Mae modd cael copi o'ch Allwedd Adfer drwy fynd i Dewisiadau &syncBrand.shortName.label; ar ddyfais arall, a dewis  &#x0022;Allwedd Adfer&#x0022; o dan &#x0022;Rheoli Cyfrif&#x0022;.">
+<!ENTITY verifying.label              "Dilysu...">
 <!ENTITY resetPassword.label          "Ailosod Cyfrinair">
-
-<!-- Existing Account Page 2: Manual Login -->
-<!ENTITY setup.signInPage.title.label "Mewngofnodi">
-<!ENTITY existingSyncKey.description "Gallwch gael copi o'ch Allwedd Cydweddu drwy fynd i Dewisiadau &syncBrand.shortName.label; ar eich dyfais arall, a dewis &#x0022;Fy Allwedd Cydweddu&#x0022; dan &#x0022;Rheoli Cyfrif&#x0022;.">
-<!ENTITY verifying.label              "Dilysu…">
-<!ENTITY resetPassword.label          "Ailosod Cyfrinair">
-<!ENTITY resetSyncKey.label           "Rwy wedi colli'r ddyfais arall.">
+<!ENTITY resetSyncKey.label           "Rwyf wedi colli fy nyfais arall.">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Dewisiadau Cydweddu">
 <!ENTITY syncComputerName.label       "Enw'r Cyfrifiadur">
-<!ENTITY syncComputerName.accesskey   "C">
+<!ENTITY syncComputerName.accesskey   "c">
 
 <!ENTITY syncMy.label               "Cydweddu">
 <!ENTITY engine.bookmarks.label     "Nodau Tudalen">
-<!ENTITY engine.bookmarks.accesskey "N">
+<!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label          "Tabiau">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Hanes">
-<!ENTITY engine.history.accesskey   "H">
+<!ENTITY engine.history.accesskey   "h">
 <!ENTITY engine.passwords.label     "Cyfrineiriau">
 <!ENTITY engine.passwords.accesskey "C">
 <!ENTITY engine.prefs.label         "Dewisiadau">
-<!ENTITY engine.prefs.accesskey     "s">
+<!ENTITY engine.prefs.accesskey     "D">
 
 <!ENTITY choice2.merge.main.label      "Cydweddu data'r cyfrifiadur yma gyda data &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Cymeradwy:">
@@ -125,3 +105,4 @@
 <!ENTITY setup.successPage.title "Wedi Cwblhau'r Gosod">
 <!ENTITY changeOptions.label "Mae modd newid y dewis drwy'r Dewisiadau Cydweddu isod.">
 <!ENTITY continueUsing.label "Gallwch nawr barhau i ddefnyddio &brandShortName;.">
+

@@ -5,7 +5,7 @@
 <!ENTITY     cookiedomain.label             "Gwefan"> 
 <!ENTITY     button.removecookies.label     "Tynnu Cwcis">
 <!ENTITY     button.removecookie.label      "Tynnu'r Cwci">
-<!ENTITY     button.removecookie.accesskey  "C">
+<!ENTITY     button.removecookie.accesskey  "T">
 <!ENTITY     button.removeallcookies.label  "Tynnu pob Cwci">
 <!ENTITY     button.removeallcookies.accesskey "p">
 
@@ -22,7 +22,8 @@
 <!ENTITY     focusSearch2.key               "k">
 
 <!ENTITY     filter.label                   "Chwilio:">
-<!ENTITY     filter.accesskey               "h">
+<!ENTITY     filter.accesskey               "C">
 
 <!ENTITY     button.close.label             "Cau">
-<!ENTITY     button.close.accesskey         "a">
+<!ENTITY     button.close.accesskey         "C">
+

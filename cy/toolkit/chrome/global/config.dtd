@@ -44,7 +44,7 @@
 <!ENTITY aboutWarningCheckbox.label "Dangos y rhybudd y tro nesaf">
 
 <!ENTITY filterPrefs.label "Hidl:">
-<!ENTITY filterPrefs.accesskey "H">
+<!ENTITY filterPrefs.accesskey "F">
 <!ENTITY focusFilter.key "h">
 
 <!-- Columns -->
@@ -62,20 +62,21 @@
 <!ENTITY copyPref.label "Copïo">
 <!ENTITY copyPref.accesskey "C">
 <!ENTITY copyName.label "Copïo Enw">
-<!ENTITY copyName.accesskey "E">
+<!ENTITY copyName.accesskey "N">
 <!ENTITY copyValue.label "Copïo Gwerth">
-<!ENTITY copyValue.accesskey "G">
+<!ENTITY copyValue.accesskey "V">
 <!ENTITY modify.label "Newid">
-<!ENTITY modify.accesskey "N">
+<!ENTITY modify.accesskey "M">
 <!ENTITY toggle.label "Newid">
-<!ENTITY toggle.accesskey "e">
+<!ENTITY toggle.accesskey "T">
 <!ENTITY reset.label "Ailosod">
 <!ENTITY reset.accesskey "A">
 <!ENTITY new.label "Newydd">
-<!ENTITY new.accesskey "y">
+<!ENTITY new.accesskey "N">
 <!ENTITY string.label "Llinell">
-<!ENTITY string.accesskey "L">
+<!ENTITY string.accesskey "S">
 <!ENTITY integer.label "Cyfanrif">
-<!ENTITY integer.accesskey "C">
+<!ENTITY integer.accesskey "I">
 <!ENTITY boolean.label "Booleaidd">
 <!ENTITY boolean.accesskey "B">
+

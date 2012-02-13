@@ -42,7 +42,7 @@
 <!ENTITY  actionQuestion.label        "Beth ddylai &brandShortName; wneud gyda'r ffeil?">
 
 <!ENTITY  openWith.label              "Agor gyda">
-<!ENTITY  openWith.accesskey          "a">
+<!ENTITY  openWith.accesskey          "o">
 <!ENTITY  other.label                 "Arall...">
 
 <!ENTITY  saveFile.label              "Cadw Ffeil">
@@ -53,9 +53,10 @@
 
 <!ENTITY  whichIsA.label              "sydd yn:">
 
-<!ENTITY  chooseHandlerMac.label      "Dewis">
+<!ENTITY  chooseHandlerMac.label      "Dewis...">
 <!ENTITY  chooseHandlerMac.accesskey  "D">
 <!ENTITY  chooseHandler.label         "Pori...">
 <!ENTITY  chooseHandler.accesskey     "P">
 
 <!ENTITY  unknownPromptText.label     "Hoffech chi gadw'r ffeil?">
+

@@ -1,21 +1,22 @@
 <!-- extracted from charsetOverlay.xul -->
-<!ENTITY charsetMenu.label             "Nodau">
+<!ENTITY charsetMenu.label             "Nodau Amgodio">
 <!ENTITY charsetMenu.accesskey         "N">
-<!ENTITY charsetMenuAutodet.label      "Canfod Awtomatig">
+<!ENTITY charsetMenuAutodet.label      "Awto-Ganfod">
 <!ENTITY charsetMenuAutodet.accesskey  "a">
 <!ENTITY charsetMenuMore.label         "Rhagor o Amgodiadau">
-<!ENTITY charsetMenuMore.accesskey     "r">
+<!ENTITY charsetMenuMore.accesskey     "m">
 <!ENTITY charsetMenuMore1.label        "Gorllewin Ewrop">
-<!ENTITY charsetMenuMore1.accesskey    "G">
+<!ENTITY charsetMenuMore1.accesskey    "w">
 <!ENTITY charsetMenuMore2.label        "Dwyrain Ewrop">
-<!ENTITY charsetMenuMore2.accesskey    "D">
+<!ENTITY charsetMenuMore2.accesskey    "E">
 <!ENTITY charsetMenuMore3.label        "Dwyrain Asia">
 <!ENTITY charsetMenuMore3.accesskey    "A">
 <!ENTITY charsetMenuMore4.label        "De Ddwyrain a De Orllewin Asia">
-<!ENTITY charsetMenuMore4.accesskey    "e">
+<!ENTITY charsetMenuMore4.accesskey    "S">
 <!ENTITY charsetMenuMore5.label        "Dwyrain Canol">
-<!ENTITY charsetMenuMore5.accesskey    "C">
+<!ENTITY charsetMenuMore5.accesskey    "M">
 <!ENTITY charsetMenuUnicode.label      "Unicode">
 <!ENTITY charsetMenuUnicode.accesskey  "U">
 <!ENTITY charsetCustomize.label        "Cyfaddasu'r Rhestr">
-<!ENTITY charsetCustomize.accesskey    "C">
+<!ENTITY charsetCustomize.accesskey    "c">
+

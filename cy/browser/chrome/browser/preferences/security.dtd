@@ -9,10 +9,10 @@
   "known").
 -->
 <!ENTITY  blockAttackSites.label     "Rhwystro gwefannau ymosod hysbys">
-<!ENTITY  blockAttackSites.accesskey "r">
+<!ENTITY  blockAttackSites.accesskey "y">
 
 <!ENTITY  blockWebForgeries.label     "Rhwystro ffugiadau gwe hysbys">
-<!ENTITY  blockWebForgeries.accesskey "h">
+<!ENTITY  blockWebForgeries.accesskey "f">
 
 <!ENTITY  addonExceptions.label         "Eithriadau...">
 <!ENTITY  addonExceptions.accesskey     "E">
@@ -21,8 +21,8 @@
 <!ENTITY  passwords.label               "Cyfrineiriau">
 
 <!ENTITY  rememberPasswords.label       "Cofio cyfrineiriau gwefannau">
-<!ENTITY  rememberPasswords.accesskey   "r">
-<!ENTITY  passwordExceptions.label      "Eithiadau...">
+<!ENTITY  rememberPasswords.accesskey   "o">
+<!ENTITY  passwordExceptions.label      "Eithriadau...">
 <!ENTITY  passwordExceptions.accesskey  "i">
 
 <!ENTITY  useMasterPassword.label        "Defnyddio prif gyfrinair">
@@ -31,4 +31,5 @@
 <!ENTITY  changeMasterPassword.accesskey "N">
 
 <!ENTITY  savedPasswords.label            "Cyfrineiriau a gadwyd...">
-<!ENTITY  savedPasswords.accesskey        "C">
+<!ENTITY  savedPasswords.accesskey        "y">
+

@@ -110,8 +110,8 @@
 <!ENTITY escrowWarn.message1 "Pwysig: Mae'r awdurdod tystysgrifo wedi gofyn i gael gwneud copi wrth gefn o'ch allwedd amgryptio breifat.">
 <!ENTITY escrowWarn.benefit1 "Y fantais yw y bydd modd i chi ofyn am gopi gan yr awdurdod tystysgrifo os byddwch yn colli eich allwedd amgryptio breifat.">
 <!ENTITY escrowWarn.message2 "Er hynny, bydd eich allwedd amgryptio breifat yn cael ei chadw gan yr awdurdod tystysgrifo ac fe all gael ei defnyddio i ddarllen eich e-bost wedi ei amgryptio neu ddogfennau heb eich caniatâd.">
-<!ENTITY examineCert.label "Golwg ar Dystysgrif">
-<!ENTITY examineCert.accesskey "G">
+<!ENTITY examineCert.label "Darllen y Dystysgrif">
+<!ENTITY examineCert.accesskey "V">
 
 <!ENTITY serverCrlNextupdate.message "Gofynnwch i weinyddwr eich system am gymorth">
 
@@ -133,3 +133,4 @@
 <!ENTITY certErrorDlg.title "Methodd y Cysylltiad â'r Gweinydd">
 <!ENTITY certErrorDlg.info1 "Gall hyn fod yn broblem gyda ffurfweddiad y gweinydd neu gall fod yn rhywun yn ceisio efelychu’r gweinydd.">
 <!ENTITY certErrorDlg.info2 "Os ydych wedi cysylltu â'r gweinydd hwn yn y gorffennol gall fod y gwall yn un dros dro ac y gallwch geisio eto.">
+

@@ -19,20 +19,26 @@
 
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "Rhagor am Ategion neu ganfod ategynnau gyda llaw.">
 <!ENTITY pluginWizard.finalPage.restart.label                "Mae &brandShortName; angen ei ailgychwyn i'r ategyn(ion) weithio.">
-  
-<!ENTITY missingPlugin.label                                 "Cliciwch yma i lwytho ategyn i lawr.">
-<!ENTITY disabledPlugin.label                                "Mae’r ategyn ar gyfer y cynnwys wedi ei anablu. Cliciwch yma i reoli eich ategynnau.">
+
+<!ENTITY missingPlugin                                       "Mae angen ategyn er mwyn dangos y cynnwys.">
+<!ENTITY clickToPlayPlugin                                   "Cliciwch yma i gychwyn yr ategyn.">
+<!ENTITY disabledPlugin                                      "Mae'r ategyn wedi ei anablu.">
 <!ENTITY blockedPlugin.label                                 "Mae'r ategyn wedi ei rwystro er eich diogelwch.">
+
+<!ENTITY installPlugin                                       "Gosod ategyn…">
+<!ENTITY managePlugins                                       "Rheoli ategion…">
+
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "Ail lwytho'r dudalen">
 <!ENTITY reloadPlugin.post                                   " i geisio eto.">
-<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.please                                       "Anfon adroddiad chwalu">
+<!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.checkbox                                     "...ac anfon adroddiad chwalu">
 <!ENTITY report.submitting                                   "Anfon adroddiad...">
 <!ENTITY report.submitted                                    "Adroddiad chwalu wedi mynd.">
 <!ENTITY report.disabled                                     "Adrodd ar chwalu wedi ei anablu.">
 <!ENTITY report.failed                                       "Cyflwyno wedi methu.">
 <!ENTITY report.unavailable                                  "Dim adroddiad ar gael.">
+

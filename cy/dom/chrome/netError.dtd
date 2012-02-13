@@ -24,9 +24,11 @@
 <!ENTITY netInterrupt.title "Tarfu ar Drosglwyddo Data">
 <!ENTITY netInterrupt.longDesc "<p>Mae'r porwr wedi cysylltu'n llwyddiannus, ond cafodd y cysylltiad ei darfu wrth drosglwyddo gwybodaeth.  Ceisiwch eto.</p><ul><li>Methu pori gwefannau eraill?  Gwiriwch gysylltiad y cyfrifiadur â'r rhwydwaith.</li><li>Yn dal i gael trwbl? Cysylltwch â'ch gweinyddwr rhwydwaith neu ddarparwr Rhyngrwyd am gymorth.</li></ul>">
 
+<!ENTITY notCached.title "Daeth y Ddogfen i Ben">
+<!ENTITY notCached.longDesc "<p>Nid yw'r ddogfen hon ar gael yn storfa'r porwr.</p><ul><li>Fel modd i ddogelu nid yw'r porwr yn ail ofyn yn awtomatig am ddogfennau sensitif.</li><li>Cliciwch Ceisiwch Eto i ail ofyn am y ddogfen gan y wefan.</li></ul>">
+
 <!ENTITY netOffline.title "Modd All-lein">
-<!ENTITY netOffline.longDesc "<p>Mae'r porwr yn gweithredu yn ei fodd all-lein ac nid oes modd cysylltu â'r eitem hon.</p><ul><li>A yw'r cyfrifiadur wedi ei gysylltu i rwydwaith sy'n fyw?</li><li>Rhowch y porwr ym modd ar-lein a cheisio eto.</li></ul>">
-<!ENTITY netOffline.overrideLongDesc "<p>Mae'r porwr yn gweithredu yn ei fodd all-lein ac nid oes modd cysylltu â'r eitem hon.</p><ul><li>A yw'r cyfrifiadur wedi ei gysylltu i rwydwaith sy'n fyw?</li><li>Rhowch y porwr ym modd ar-lein a cheisio eto.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>Mae'r porwr yn gweithredu ym modd all-lein ac yn methu cysylltu a'r eitem amdano.</p><ul><li>A yw'r cyfrifiadur wedi cysylltu â rhwydwaith fyw?</li><li>Press &quot;Ceiswch eto&quot; i newid i'r modd ar-lein ac ail lwytho'r dudalen.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Gwall Amgodio Cynnwys">
 <!ENTITY contentEncodingError.longDesc "<p>Nid oes modd dangos y dudalen hon am ei bod yn defnyddio ffurf o gywasgiad sy'n anhysbys neu sydd ddim yn cael ei gynnal o .</p><ul><li>Cysylltwch â pherchnogion y wefan i'w hysbysu o'r anhawster.</li></ul>">
@@ -43,7 +45,7 @@
 <!ENTITY netTimeout.longDesc "<p>Nid yw'r wefan wedi ymateb i gais am gyswllt ac mae'r porwr wedi peidio aros am ateb.</p><ul><li>Gall fod y gweinydd yn profi galw uchel neu ataliad dros dro? Ceisiwch eto.</li><li>A ydych yn methu pori i wefannau eraill? Gwiriwch gysylltiad rhwydwaith y cyfrifiadur.</li><li>A yw eich cyfrifiadur wedi ei ddiogelu gan fur cadarn neu ddirprwy? Gall osodiadau anghywir effeithio ar bori'r we.</li><li>Dal yn cael problemau? Cysylltwch â'ch gweinyddwr rhwydwaith neu ddarparwr rhyngrwyd am gymorth.</li></ul>">
 
 <!ENTITY protocolNotFound.title "Protocol Anhysbys">
-<!ENTITY protocolNotFound.longDesc "<p>Mae'r cyfeiriad yn pennu protocol (e.e. <q>wxyz://</q>) nad yw'r porwr yn ei adnabod, felly nid yw'r porwr yn gallu cysylltu'n iawn â'r safle.</p><ul><li>Ydych chi'n ceisio cael mynediad at wasanaethau aml-gyfrwng neu destun yn unig? Gwiriwch y safle am yr anghenion ychwanegol hyn.</li><li>Mae rhai protocolau angen meddalwedd trydydd parti neu ategynnau cyn bod modd i'r porwr eu hadnabod.</li></ul>">
+<!ENTITY protocolNotFound.longDesc "<p>Mae'r cyfeiriad yn pennu protocol (e.e. <q>wxyz://</q>) nad yw'r porwr yn ei adnabod, felly nid yw'r porwr yn gallu cysylltu'n iawn â'r wefan.</p><ul><li>Ydych chi'n ceisio cael mynediad at wasanaethau aml-gyfrwng neu destun yn unig? Gwiriwch y wefan am yr anghenion ychwanegol hyn.</li><li>Mae rhai protocolau angen meddalwedd trydydd parti neu ategion cyn bod modd i'r porwr eu hadnabod.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "Gwrthododd y Gweinydd Dirprwyo'r cysylltiad">
 <!ENTITY proxyConnectFailure.longDesc "<p>Mae'r porwr wedi ei ffurfweddu i ddefnyddio gweinydd dirprwy, ond mae'r dirprwy wedi gwrthod cysylltiad.</p><ul><li>A yw ffurfweddiad dirprwy'r porwr yn gywir? Gwiriwch y gosodiadau a cheisio eto.</li><li>A yw'r gwasanaeth dirprwy yn caniatáu cysylltiadau o'r rhwydwaith?</li><li>Dal yn cael problemau? Cysylltwch â'ch gweinyddwr rhwydwaith neu ddarparwr rhyngrwyd am gymorth.</li></ul>">
@@ -68,7 +70,7 @@
 
 <!ENTITY malwareBlocked.title "Gwefan Ymosod Hysbys!">
 <!ENTITY malwareBlocked.longDesc "<p>Mae gwefannau ymosod yn ceisio gosod rhaglenni sy'n dwyn data personol defnyddio eich cyfrifiadur i ymosod ar eraill neu'n difrodi eich system.</p>
-<p>Gall perchnogion gwefannau sy'n teimlo fod eu gwefan wedi eu pardduo ar gam wneud cais am <a href='http://www.stopbadware.org/home/reviewinfo'>adolygiad</a>.</p>">
+<p>Gall perchnogion gwefannau sy'n teimlo fod eu gwefan wedi eu pardduo ar gam wneud cais am <a href='http://www.stopbadware.org/home/reviewinfo' >adolygiad</a>.</p>">
 
 <!ENTITY phishingBlocked.title "Ffugiad Gwe Hysbys!">
 <!ENTITY phishingBlocked.longDesc "<p>Gall rannu gwybodaeth bersonol ar y dudalen arwain at ddwyn hunaniaeth neu dwyll arall.</p> 
@@ -77,8 +79,16 @@
 <!ENTITY cspFrameAncestorBlocked.title "Rhwystrwyd gan Bolisi Diogelwch Cynnwys">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Mae'r porwr wedi atal y dudalen rhag cael ei llwytho yn y ffordd yma gan fod gan y dudalen bolisi diogelwch cynnwys sy'n atal hynny.</p>">
 
+<!ENTITY corruptedContentError.title "Gwall Cynnwys Llygredig">
+<!ENTITY corruptedContentError.longDesc "<p>Nid oes modd dangos y dudalen rydych yn ceisio ei gweld yn sgil canfod gwall trosglwyddo data.</p><ul><li>Cysylltwch â pherchnogion y wefan i'w hysbysu o'r anhawster.</li></ul>">
+
+<!ENTITY remoteXUL.title "XUL pell">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Cysylltwch â pherchnogion y wefan i'w hysbysu am y broblem..</li></ul></p>">
+
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
-     this inclusion needs to be intact for that approach to work correctly. -->
+     this inclusion needs to be intact for that approach to work correctly.
+     Please, try to keep this at the end of the file. -->
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;
+

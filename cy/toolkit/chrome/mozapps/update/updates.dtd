@@ -36,9 +36,9 @@ isod i barhau i osod y diweddariad.">
 <!ENTITY  license.introText               "Amodau defnyddio'r feddalwedd">
 <!ENTITY  license.instructionText         "Darllenwch y cytundeb trwyddedu canlynol. Defnyddiwch y bar sgrolio i ddarllen gweddill y cytundeb.">
 <!ENTITY  license.accept                  "Rwy'n Derbyn amodau’r Cytundeb Trwyddedu">
-<!ENTITY  license.accept.accesskey        "D">
+<!ENTITY  license.accept.accesskey        "c">
 <!ENTITY  license.decline                 "NID wyf yn derbyn amodau'r Cytundeb Trwyddedu">
-<!ENTITY  license.decline.accesskey       "N">
+<!ENTITY  license.decline.accesskey       "T">
 
 <!ENTITY  incompatibleList.title          "Wedi Canfod Ychwanegion Anghytûn">
 
@@ -79,8 +79,9 @@ Mae modd ailgychwyn &brandShortName; nawr, neu barhau i weithio ac ailgychwyn yn
 wedi ei lwytho i lawr ac mae'n barod i'w osod.">
 <!ENTITY  finishedBackground.name         "Diweddaru:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
-<!ENTITY  finishedBackground.more         "Bydd y diweddariad yn cael ei osod y tro nesaf y bydd &brandShortName; yn cychwyn. 
-Mae modd ailgychwyn &brandShortName; nawr, neu barhau i weithio ac ailgychwyn yn hwyrach.">
+<!ENTITY  finishedBackground.more         "Bydd y diweddariad yn cael ei osod y tro nesaf y bydd &brandShortName; yn cychwyn.
+Mae
+                                           modd ailgychwyn &brandShortName; nawr, neu barhau i weithio ac ailgychwyn yn hwyrach.">
 
 <!ENTITY  installed.title                 "Diweddariad wedi ei Osod">
 <!ENTITY  installed.intro                 "Cafodd y diweddariad ei osod yn llwyddiannus.">
@@ -89,3 +90,4 @@ Mae modd ailgychwyn &brandShortName; nawr, neu barhau i weithio ac ailgychwyn yn
 <!ENTITY  update.details.label            "Manylion">
 <!ENTITY  update.installedOn.label        "Gosodwyd ar:">
 <!ENTITY  update.status.label             "Statws:">
+

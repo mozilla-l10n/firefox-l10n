@@ -8,12 +8,12 @@
 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
-<!ENTITY privatebrowsingpage.clearRecentHistoryBefore  "Efallai byddwch eisiau hefyd">
+<!ENTITY privatebrowsingpage.clearRecentHistoryBefore  "Efallai y byddwch hefyd eisiau cychwyn drwy ">
 <!ENTITY privatebrowsingpage.clearRecentHistoryInner   "clirio eich hanes diweddar">
 <!ENTITY privatebrowsingpage.clearRecentHistoryAfter   ".">
 
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Dechrau Pori Preifat">
-<!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "D">
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "P">
 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStop2): please leave &basePBMenu.label; intact in the translation -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart2): please leave &basePBMenu.label; intact in the translation -->
@@ -22,3 +22,4 @@
 
 <!ENTITY privatebrowsingpage.moreInfo                  "Tra na fydd gan y cyfrifiadur hwn gofnod o'ch hanes pori, bydd eich darparwr gwasanaeth rhyngrwyd a chyflogwr yn gallu olrhain y tudalennau fuoch iddynt.">
 <!ENTITY privatebrowsingpage.learnMore                 "Dysgu Mwy">
+

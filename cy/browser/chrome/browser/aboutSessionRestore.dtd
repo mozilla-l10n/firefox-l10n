@@ -11,9 +11,10 @@
 <!ENTITY restorepage.tryagainButton "Adfer">
 <!ENTITY restorepage.restore.access "A">
 <!ENTITY restorepage.cancelButton   "Cychwyn Sesiwn Newydd">
-<!ENTITY restorepage.cancel.access  "N">
+<!ENTITY restorepage.cancel.access  "S">
 
 <!ENTITY restorepage.restoreHeader  "Adfer">
 <!ENTITY restorepage.listHeader     "Ffenestri a Thabiau">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "Ffenestr &#37;S">
+

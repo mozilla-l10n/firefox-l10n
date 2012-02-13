@@ -1,3 +1,4 @@
-<!ENTITY closeNotification.tooltip "Cau'r neges hon"> 
+<!ENTITY closeNotification.tooltip "Cau'r neges hon">
 
-<!ENTITY closeNotificationItem.label "Dim Nawr">
+<!ENTITY closeNotificationItem.label "Nid Nawr">
+

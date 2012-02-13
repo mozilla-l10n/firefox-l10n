@@ -1,12 +1,11 @@
-<!ENTITY editBookmarkOverlay.name.label                      "Enw:">
+<!ENTITY editBookmarkOverlay.name.label                      "Name:">
 <!ENTITY editBookmarkOverlay.name.accesskey                  "E">
 <!ENTITY editBookmarkOverlay.location.label                  "Lleoliad:">
 <!ENTITY editBookmarkOverlay.location.accesskey              "L">
 <!ENTITY editBookmarkOverlay.feedLocation.label              "Lleoliad Llif:">
-<!ENTITY editBookmarkOverlay.feedLocation.accesskey          "o">
+<!ENTITY editBookmarkOverlay.feedLocation.accesskey          "F">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Lleoliad Gwefan:">
-<!ENTITY editBookmarkOverlay.siteLocation.accesskey          "G">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "Teitlau Byw">
+<!ENTITY editBookmarkOverlay.siteLocation.accesskey          "S">
 <!ENTITY editBookmarkOverlay.folder.label                    "Ffolder:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Dangos pob ffolder nod tudalen">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Cuddio">
@@ -19,7 +18,8 @@
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "A">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Dangos pob tag">
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "Llwytho'r nod tudalen i'r bar ochr">
-<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "n">
+<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "h">
 <!ENTITY editBookmarkOverlay.choose.label                    "Dewis...">
-<!ENTITY editBookmarkOverlay.newFolderButton.label           "Ffolder Newydd">
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "New Folder">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "N">
+

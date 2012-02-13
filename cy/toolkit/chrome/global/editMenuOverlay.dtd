@@ -1,31 +1,32 @@
 <!ENTITY editMenu.label            "Golygu">
-<!ENTITY editMenu.accesskey        "o">
+<!ENTITY editMenu.accesskey        "e">
 <!ENTITY undoCmd.label             "Dadwneud">
-<!ENTITY undoCmd.key               "z">
-<!ENTITY undoCmd.accesskey         "d">
+<!ENTITY undoCmd.key               "U">
+<!ENTITY undoCmd.accesskey         "D">
 <!ENTITY redoCmd.label             "Ailwneud">
-<!ENTITY redoCmd.key               "y">
-<!ENTITY redoCmd.accesskey         "A">
+<!ENTITY redoCmd.key               "R">
+<!ENTITY redoCmd.accesskey         "a">
 <!ENTITY cutCmd.label              "Torri">
-<!ENTITY cutCmd.key                "x">
+<!ENTITY cutCmd.key                "X">
 <!ENTITY cutCmd.accesskey          "T">
 <!ENTITY copyCmd.label             "Copïo">
-<!ENTITY copyCmd.key               "C">
+<!ENTITY copyCmd.key               "c">
 <!ENTITY copyCmd.accesskey         "C">
 <!ENTITY pasteCmd.label            "Gludo">
 <!ENTITY pasteCmd.key              "V">
 <!ENTITY pasteCmd.accesskey        "G">
 <!ENTITY deleteCmd.label           "Dileu">
-<!ENTITY deleteCmd.accesskey       "D">
+<!ENTITY deleteCmd.accesskey       "d">
 <!ENTITY selectAllCmd.label        "Dewis Popeth">
-<!ENTITY selectAllCmd.key          "a">
-<!ENTITY selectAllCmd.accesskey    "D">
+<!ENTITY selectAllCmd.key          "A">
+<!ENTITY selectAllCmd.accesskey    "P">
 <!ENTITY findCmd.label             "Canfod">
 <!ENTITY findCmd.key               "F">
-<!ENTITY findCmd.accesskey         "C">
+<!ENTITY findCmd.accesskey         "a">
 <!ENTITY findAgainCmd.label        "Canfod Eto">
-<!ENTITY findAgainCmd.key          "g">
+<!ENTITY findAgainCmd.key          "a">
 <!ENTITY findAgainCmd.key2         "VK_F3">
-<!ENTITY findAgainCmd.accesskey    "E">
+<!ENTITY findAgainCmd.accesskey    "a">
 <!ENTITY findPreviousCmd.label     "Canfod Blaenorol">
 <!ENTITY findPreviousCmd.accesskey "B">
+

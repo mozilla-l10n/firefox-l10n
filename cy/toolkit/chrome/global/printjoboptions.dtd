@@ -3,19 +3,19 @@
 <!ENTITY printJobOptions.title "Priodweddau Argraffu">
 
 <!ENTITY paperInput.label "Maint Papur:">
-<!ENTITY paperInput.accesskey "M">
+<!ENTITY paperInput.accesskey "P">
 
 <!ENTITY plexInput.label "Modd plex:">
-<!ENTITY plexInput.accesskey "p">
+<!ENTITY plexInput.accesskey "m">
 
 <!ENTITY resolutionInput.label "Cydraniad/Ansawdd:">
-<!ENTITY resolutionInput.accesskey "C">
+<!ENTITY resolutionInput.accesskey "e">
 
 <!ENTITY cmdInput.label "Gorchymyn Argraffu:">
-<!ENTITY cmdInput.accesskey "g">
+<!ENTITY cmdInput.accesskey "o">
 
 <!ENTITY jobTitleInput.label "Teitl Swydd:">
-<!ENTITY jobTitleInput.accesskey "S">
+<!ENTITY jobTitleInput.accesskey "J">
 
 <!ENTITY colorGroup.label "Lliw:">
 <!ENTITY grayRadio.label "Graddlwyd">
@@ -24,18 +24,19 @@
 <!ENTITY colorRadio.accesskey "L">
 
 <!ENTITY colorspaceInput.label "Gofod Lliw:">
-<!ENTITY colorspaceInput.accesskey "l">
+<!ENTITY colorspaceInput.accesskey "s">
 
 <!ENTITY fontsGroup.label "Ffontiau:">
 <!ENTITY downloadFonts.label "Llwytho ffontiau i argraffydd">
-<!ENTITY downloadFonts.accesskey "L">
+<!ENTITY downloadFonts.accesskey "D">
 
 <!ENTITY edgeMarginInput.label "Bwlch rhwng ymyl papur i'r Ymyl">
 <!ENTITY topInput.label "Brig:">
-<!ENTITY topInput.accesskey "B">
+<!ENTITY topInput.accesskey "T">
 <!ENTITY bottomInput.label "Gwaelod:">
-<!ENTITY bottomInput.accesskey "G">
+<!ENTITY bottomInput.accesskey "B">
 <!ENTITY leftInput.label "Chwith:">
-<!ENTITY leftInput.accesskey "C">
+<!ENTITY leftInput.accesskey "L">
 <!ENTITY rightInput.label "De:">
-<!ENTITY rightInput.accesskey "D">
+<!ENTITY rightInput.accesskey "R">
+

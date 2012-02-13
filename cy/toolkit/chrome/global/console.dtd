@@ -41,28 +41,29 @@
 <!ENTITY errLine.label   "Llinell:">
 <!ENTITY errColumn.label "Colofn:">
 
-<!ENTITY all.label          "Pob Neges">
-<!ENTITY all.accesskey      "P">
+<!ENTITY all.label          "Popeth">
+<!ENTITY all.accesskey      "A">
 <!ENTITY errors.label       "Gwallau">
-<!ENTITY errors.accesskey   "G">
+<!ENTITY errors.accesskey   "E">
 <!ENTITY warnings.label     "Rhybuddion">
-<!ENTITY warnings.accesskey "R">
+<!ENTITY warnings.accesskey "W">
 <!ENTITY messages.label     "Negeseuon">
-<!ENTITY messages.accesskey "N">
+<!ENTITY messages.accesskey "M">
 <!ENTITY clear.label        "Clirio">
 <!ENTITY clear.accesskey    "C">
 <!ENTITY codeEval.label     "Cod:">
 <!ENTITY codeEval.accesskey "o">
 <!ENTITY evaluate.label     "Gwerthuso">
-<!ENTITY evaluate.accesskey "G">
+<!ENTITY evaluate.accesskey "v">
 
 <!ENTITY copyCmd.label       "Copïo">  
-<!ENTITY copyCmd.accesskey   "o"> 
+<!ENTITY copyCmd.accesskey   "C"> 
 <!ENTITY copyCmd.commandkey  "C"> 
 <!ENTITY sortFirst.label     "Yn ôl trefn Cyntaf i Olaf">
-<!ENTITY sortFirst.accesskey "y">
+<!ENTITY sortFirst.accesskey "f">
 <!ENTITY sortLast.label      "Yn ôl trefn Olaf i Cyntaf">
-<!ENTITY sortLast.accesskey  "O">
+<!ENTITY sortLast.accesskey  "l">
 <!ENTITY closeCmd.commandkey "w">  
 <!ENTITY focus1.commandkey   "l">  
 <!ENTITY focus2.commandkey   "d">  
+

@@ -2,17 +2,18 @@
 
 <!ENTITY findDialog.title "Canfod yn y Dudalen">
 <!ENTITY findField.label "Canfod beth:">
-<!ENTITY findField.accesskey "b">
+<!ENTITY findField.accesskey "n">
 <!ENTITY caseSensitiveCheckbox.label "Cydweddu Maint">
-<!ENTITY caseSensitiveCheckbox.accesskey "M">
+<!ENTITY caseSensitiveCheckbox.accesskey "c">
 <!ENTITY wrapCheckbox.label "Amlapio">
 <!ENTITY wrapCheckbox.accesskey "A">
 <!ENTITY findButton.label "Canfod nesaf">
-<!ENTITY findButton.accesskey "f">
+<!ENTITY findButton.accesskey "N">
 <!ENTITY cancelButton.label "Diddymu">
 <!ENTITY closeButton.label "Cau">
 <!ENTITY up.label "I fyny">
-<!ENTITY up.accesskey "f">
+<!ENTITY up.accesskey "U">
 <!ENTITY down.label "I lawr">
-<!ENTITY down.accesskey "l">
+<!ENTITY down.accesskey "D">
 <!ENTITY direction.label "Cyfeiriad">
+

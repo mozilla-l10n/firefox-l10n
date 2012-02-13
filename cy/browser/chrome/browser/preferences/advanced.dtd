@@ -5,25 +5,22 @@
 <!ENTITY accessibility.label             "Hygyrchedd">
 
 <!ENTITY useCursorNavigation.label       "Defnyddio bysellau'r cyrchwr ar gyfer symud o fewn tudalennau">
-<!ENTITY useCursorNavigation.accesskey   "d">
+<!ENTITY useCursorNavigation.accesskey   "D">
 <!ENTITY searchStartTyping.label         "Chwilio am destun wrth i mi gychwyn teipio">
-<!ENTITY searchStartTyping.accesskey     "c">
+<!ENTITY searchStartTyping.accesskey     "C">
 <!ENTITY blockAutoRefresh.label          "Rhybuddio pan fydd gwefannau yn ceisio ailgyfeirio neu ail lwytho tudalen">
-<!ENTITY blockAutoRefresh.accesskey      "r">
+<!ENTITY blockAutoRefresh.accesskey      "b">
 
 <!ENTITY browsing.label                  "Pori">
 
 <!ENTITY useAutoScroll.label             "Defnyddio awto sgrolio">
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Defnyddio sgrolio llyfn">
-<!ENTITY useSmoothScrolling.accesskey    "s">
+<!ENTITY useSmoothScrolling.accesskey    "l">
 <!ENTITY allowHWAccel.label              "Defnyddio cyflymu caledwedd pan fydd ar gael">
-<!ENTITY allowHWAccel.accesskey          "D">
+<!ENTITY allowHWAccel.accesskey          "y">
 <!ENTITY checkSpelling.label             "Gwirio'r sillafu wrth deipio">
 <!ENTITY checkSpelling.accesskey         "G">
-<!ENTITY doNotTrack.label                "Dweud wrth gwefannau nad ydw i eisiau cael fy olrhain">
-<!ENTITY doNotTrack.accesskey            "d">
-
 
 <!ENTITY systemDefaults.label            "Rhagosodiadau'r System">
 <!ENTITY alwaysCheckDefault.label        "Wrth gychwyn, gwirio i weld ai &brandShortName; yw'r porwr ragosodedig"><!--XXX-->
@@ -31,14 +28,16 @@
 <!ENTITY checkNow.label                  "Gwirio Nawr">
 <!ENTITY checkNow.accesskey              "N">
 <!ENTITY submitCrashes.label             "Cyflwyno Adroddiadau Chwalu">
-<!ENTITY submitCrashes.accesskey         "C">
+<!ENTITY submitCrashes.accesskey         "A">
+<!ENTITY submitTelemetry.label           "Cyflwyno Data Perfformiad">
+<!ENTITY submitTelemetry.accesskey       "P">
 
 <!ENTITY networkTab.label                "Rhwydwaith">
 
 <!ENTITY connection.label                "Cyswllt">
 
 <!ENTITY connectionDesc.label            "Pennu sut mae &brandShortName; yn cysylltu â'r We.">
-<!ENTITY connectionSettings.label        "Gosodiadau">
+<!ENTITY connectionSettings.label        "Gosodiadau...">
 <!ENTITY connectionSettings.accesskey    "G">
 
 <!ENTITY offlineStorage.label            "Storio All-lein">
@@ -53,28 +52,34 @@
 <!ENTITY limitCacheSizeBefore.accesskey  "C">
 <!ENTITY limitCacheSizeAfter.label       "MB o le">
 <!ENTITY clearCacheNow.label             "Clirio Nawr">
-<!ENTITY clearCacheNow.accesskey         "C">
+<!ENTITY clearCacheNow.accesskey         "N">
 <!ENTITY overrideSmartCacheSize.label    "Anwybyddu rheolaeth storfa awtomatig">
-<!ENTITY overrideSmartCacheSize.accesskey "o">
+<!ENTITY overrideSmartCacheSize.accesskey "A">
 
 <!ENTITY updateTab.label                 "Diweddaru">
 
-<!ENTITY autoCheck.label                 "Gwirio'n awtomatig am ddiweddariadau i:">
-<!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "b">
-<!ENTITY enableAddonsUpdate2.label       "Ychwanegion">
-<!ENTITY enableAddonsUpdate2.accesskey   "Y">
+<!ENTITY updateApp.label                 "Diweddariadau &brandShortName; ">
+<!ENTITY updateAuto.label                "Gosod diweddariadau (argymell: gwella diogelwch)">
+<!ENTITY updateAuto.accesskey            "d">
+<!ENTITY updateCheck.label               "Gwirio am ddiweddariadau, ond gadael i mi ddewis i'w gosod a'i peidio">
+<!ENTITY updateCheck.accesskey           "d">
+<!ENTITY updateManual.label              "Byth gwirio am ddiweddariadau (ddim yn argymell: perygl diogelwch)">
+<!ENTITY updateManual.accesskey          "B">
+
+<!ENTITY updateAutoAddonWarn.label       "Rhybuddio os fydd hwn yn anablu ategion">
+<!ENTITY updateAutoAddonWarn.accesskey   "r">
+
+<!ENTITY updateHistory.label             "Dangos Hanes Diweddaru">
+<!ENTITY updateHistory.accesskey         "D">
+
+<!ENTITY useService.label                "Defnyddio gwasanaethau cefndirol i osod diweddariadau">
+<!ENTITY useService.accesskey            "c">
+
+<!ENTITY updateOthers.label              "Diweddaru'n awtomatig:">
+<!ENTITY enableAddonsUpdate3.label       "Ychwanegion">
+<!ENTITY enableAddonsUpdate3.accesskey   "y">
 <!ENTITY enableSearchUpdate.label        "Peiriannau Chwilio">
 <!ENTITY enableSearchUpdate.accesskey    "P">
-<!ENTITY whenUpdatesFound.label          "Wrth ganfod diweddariad i &brandShortName;">
-<!ENTITY askMe.label                     "Gofyn beth i'w wneud nesaf">
-<!ENTITY askMe.accesskey                 "G">
-<!ENTITY modeAutomatic.label             "Llwytho'n awtomatig a gosod y diweddariad">
-<!ENTITY modeAutomatic.accesskey         "l">
-<!ENTITY modeAutoAddonWarn.label         "Rhybuddio os fydd hwn yn anablu ategynnau">
-<!ENTITY modeAutoAddonWarn.accesskey     "R">
-<!ENTITY updateHistory.label             "Dangos Hanes Diweddaru">
-<!ENTITY updateHistory.accesskey         "d">
 
 <!ENTITY offlineNotify.label             "Hysbysu pan fod gwefan yn gofyn i storio data ar gyfer defnydd all-lein">
 <!ENTITY offlineNotify.accesskey         "H">
@@ -97,14 +102,15 @@
 <!ENTITY certificates.label              "Tystysgrifau">
 <!ENTITY certSelection.description       "Pan fydd gweinydd yn gofyn am fy nhystysgrif bersonol:">
 <!ENTITY certs.auto                      "Dewis un yn awtomatig">
-<!ENTITY certs.auto.accesskey            "D">
+<!ENTITY certs.auto.accesskey            "u">
 <!ENTITY certs.ask                       "Gofyn i mi bob tro">
 <!ENTITY certs.ask.accesskey             "G">
 <!ENTITY viewCerts.label                 "Darllen Tystysgrifau">
-<!ENTITY viewCerts.accesskey             "t">
+<!ENTITY viewCerts.accesskey             "D">
 <!ENTITY viewCRLs.label                  "Rhestrau Dirymu">
 <!ENTITY viewCRLs.accesskey              "R">
 <!ENTITY verify2.label                   "Dilysu">
 <!ENTITY verify2.accesskey               "D">
 <!ENTITY viewSecurityDevices.label       "Dyfeisiau Diogelwch">
-<!ENTITY viewSecurityDevices.accesskey   "y">
+<!ENTITY viewSecurityDevices.accesskey   "D">
+

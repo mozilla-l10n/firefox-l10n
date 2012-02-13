@@ -1,4 +1,4 @@
-<!ENTITY minimizeWindow.key       "l">
+<!ENTITY minimizeWindow.key       "L">
 <!ENTITY minimizeWindow.label     "Lleihau">
 <!ENTITY bringAllToFront.label    "Dwyn y Cyfan i'r Blaen">
 <!ENTITY zoomWindow.label         "Chwyddo">
@@ -9,25 +9,20 @@
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Cymorth"> 
-<!ENTITY helpMenuWin.accesskey    "C">
+<!ENTITY helpMenuWin.accesskey    "y">
 <!ENTITY aboutProduct.label       "Ynghylch &brandShortName;">
 <!ENTITY aboutProduct.accesskey   "Y">
 <!ENTITY productHelp.label        "Cymorth &brandShortName;">
 <!ENTITY productHelp.accesskey    "C">
-<!ENTITY helpForIEUsers.label     "Ar gyfer defnyddwyr Internet Explorer">
-<!ENTITY helpForIEUsers.accesskey "I">
 <!ENTITY helpMac.commandkey       "?">
 <!ENTITY helpSafeMode.label       "Ailgychwyn gydag Ychwanegion wedi eu Hanalluogi...">
 <!ENTITY helpSafeMode.accesskey   "A">
 
-<!ENTITY helpReleaseNotes.label         "Nodiadau Rhyddhau">
-<!ENTITY helpReleaseNotes.accesskey     "N">
-
-<!ENTITY helpTroubleshootingInfo.label      " Gwybodaeth am Ddatrys Problemau">
+<!ENTITY helpTroubleshootingInfo.label      "Gwybodaeth am Ddatrys Problemau">
 <!ENTITY helpTroubleshootingInfo.accesskey  "G">
 
 <!ENTITY helpFeedbackPage.label      "Cyflwyno Adborth...">
-<!ENTITY helpFeedbackPage.accesskey  "C">
+<!ENTITY helpFeedbackPage.accesskey  "A">
 
 <!ENTITY preferencesCmdMac.label        "Dewisiadau...">
 <!ENTITY preferencesCmdMac.commandkey   ",">
@@ -41,3 +36,4 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "E">
 
 <!ENTITY showAllAppsCmdMac.label        "Dangos Popeth">
+

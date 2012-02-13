@@ -43,13 +43,13 @@
 <!ENTITY  copy.key              "C">
 <!ENTITY  copy.label            "Copïo">
 <!ENTITY  copy.accesskey        "C">
-<!ENTITY  selectall.key         "a">
+<!ENTITY  selectall.key         "A">
 <!ENTITY  selectall.label       "Dewis Popeth">
-<!ENTITY  selectall.accesskey   "D">
+<!ENTITY  selectall.accesskey   "p">
 <!ENTITY  closeWindow.key       "w">
 
 <!ENTITY  generalTab            "Cyffredinol">
-<!ENTITY  generalTab.accesskey  "y">
+<!ENTITY  generalTab.accesskey  "G">
 <!ENTITY  generalURL            "Cyfeiriad:">
 <!ENTITY  generalType           "Math:">
 <!ENTITY  generalMode           "Modd Llunio:">
@@ -76,7 +76,7 @@
 <!ENTITY  mediaLongdesc         "Disgrifiad Hir:">
 <!ENTITY  mediaBlockImage.accesskey "B">
 <!ENTITY  mediaSaveAs           "Cadw Fel...">
-<!ENTITY  mediaSaveAs.accesskey "F">
+<!ENTITY  mediaSaveAs.accesskey "C">
 <!ENTITY  mediaSaveAs2.accesskey "y">
 <!ENTITY  mediaPreview          "Rhagolwg Cyfrwng:">
 
@@ -86,7 +86,7 @@
 <!ENTITY  feedSubscribe.accesskey "T">
 
 <!ENTITY  permTab               "Caniatâd">
-<!ENTITY  permTab.accesskey     "C">
+<!ENTITY  permTab.accesskey     "n">
 <!ENTITY  permUseDefault        "Defnyddio'r Rhagosodedig">
 <!ENTITY  permAskAlways         "Gofyn bob tro">
 <!ENTITY  permAllow             "Caniatáu">
@@ -101,7 +101,7 @@
 
 <!ENTITY  permIndexedDB              "Cynnal Storfa All-lein">
 <!ENTITY  permClearStorage           "Clirio'r Storfa">
-<!ENTITY  permClearStorage.accesskey "C">
+<!ENTITY  permClearStorage.accesskey "l">
 
 <!ENTITY  securityTab           "Diogelwch">
 <!ENTITY  securityTab.accesskey "D">
@@ -120,9 +120,10 @@
 <!ENTITY  securityView.privacy.history                  "A ydw i wedi ymweld â'r wefan hon cyn heddiw?">
 <!ENTITY  securityView.privacy.cookies                  "A yw'r wefan yma'n cadw gwybodaeth (cwcis) ar fy nghyfrifiadur?">
 <!ENTITY  securityView.privacy.viewCookies              "Gweld y Cwcis">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "w">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "G">
 <!ENTITY  securityView.privacy.passwords                "Ydw i wedi cadw unrhyw gyfrineiriau ar gyfer y wefan yma?">
 <!ENTITY  securityView.privacy.viewPasswords            "Gweld ar y Cyfrineiriau wedi eu Cadw">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
 <!ENTITY  securityView.technical.header                 "Manylion Technegol">
+

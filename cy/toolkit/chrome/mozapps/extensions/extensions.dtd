@@ -8,7 +8,7 @@
 <!ENTITY listEmpty.search.label               "Methu canfod ategion o'r un math">
 <!ENTITY listEmpty.button.label               "Dysgu rhagor am ategion">
 <!ENTITY installAddonFromFile.label           "Gosod Ategyn o Ffeil...">
-<!ENTITY installAddonFromFile.accesskey       "i">
+<!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Offer ar gyfer pob ategyn">
 
 <!ENTITY cmd.back.tooltip                     "Nôl un tudalen">
@@ -23,14 +23,13 @@
 <!ENTITY warning.updatesecurity.enable.label       "Galluogi">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Galluogi gwirio diogelwch diweddariad ategyn">
 
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Gwirio os yw eich ategion yn rhai diweddar">
+<!ENTITY info.plugincheck.tooltip               "Gwirio os yw eich ategion yn rhai diweddar">
+
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Chwilio">
 <!ENTITY view.discover.label                  "Estyn Ychwanegion">
-<!ENTITY view.locales.label                   "Ieithoedd">
-<!ENTITY view.searchengines.label             "Peiriannau Chwilio">
-<!ENTITY view.features.label                  "Estyniadau">
-<!ENTITY view.appearance2.label               "Ymddangosiad">
-<!ENTITY view.plugins.label                   "Ategion">
 <!ENTITY view.recentUpdates.label             "Diweddariadau Diweddar">
 <!ENTITY view.availableUpdates.label          "Diweddariadau ar Gael">
 
@@ -38,13 +37,22 @@
 <!ENTITY updates.checkForUpdates.label        "Gwirio am Ddiweddariadau">
 <!ENTITY updates.checkForUpdates.accesskey    "G">
 <!ENTITY updates.viewUpdates.label            "Gweld Diweddariadau Diweddar">
-<!ENTITY updates.viewUpdates.accesskey        "G">
+<!ENTITY updates.viewUpdates.accesskey        "V">
+<!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
+     is a checkbox that toggles the default global behavior for add-on update
+     checking. -->
 <!ENTITY updates.updateAddonsAutomatically.label     "Diweddaru Ategion yn Awtomatig">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "A">
+<!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
+     Specific addons can have custom update checking behaviors ("Manually",
+     "Automatically", "Use default global behavior"). These menu items reset the
+     update checking behavior for all add-ons to the default global behavior
+     (which itself is either "Automatically" or "Manually", controlled by the
+     updates.updateAddonsAutomatically.label menu item). -->
 <!ENTITY updates.resetUpdatesToAutomatic.label       "Ailosod Pob Ategyn i'w Diweddaru'n Awtomatig">
-<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "r">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
 <!ENTITY updates.resetUpdatesToManual.label          "Ailosod Pob Ategyn i Ddiweddaru gyda Llaw">
-<!ENTITY updates.resetUpdatesToManual.accesskey      "r">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "R">
 <!ENTITY updates.updating.label               "Diweddaru ategion">
 <!ENTITY updates.installed.label              "Mae eich ategion wedi eu diweddaru.">
 <!ENTITY updates.downloaded.label             "Mae diweddariadau eich ategion wedi eu llwytho i law.">
@@ -56,28 +64,28 @@
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Dangos Mwy o Wybodaeth">
-<!ENTITY cmd.showDetails.accesskey            "s">
+<!ENTITY cmd.showDetails.accesskey            "S">
 <!ENTITY cmd.findUpdates.label                "Canfod Diweddariadau">
-<!ENTITY cmd.findUpdates.accesskey            "f">
+<!ENTITY cmd.findUpdates.accesskey            "F">
 <!ENTITY cmd.preferencesWin.label             "Dewisiadau">
-<!ENTITY cmd.preferencesWin.accesskey         "D">
+<!ENTITY cmd.preferencesWin.accesskey         "O">
 <!ENTITY cmd.preferencesUnix.label            "Dewisiadau">
 <!ENTITY cmd.preferencesUnix.accesskey        "D">
 <!ENTITY cmd.about.label                      "Ynghylch">
-<!ENTITY cmd.about.accesskey                  "Y">
+<!ENTITY cmd.about.accesskey                  "A">
 
 <!ENTITY cmd.enableAddon.label                "Galluogi">
-<!ENTITY cmd.enableAddon.accesskey            "G">
+<!ENTITY cmd.enableAddon.accesskey            "E">
 <!ENTITY cmd.disableAddon.label               "Atal">
-<!ENTITY cmd.disableAddon.accesskey           "A">
-<!ENTITY cmd.enableTheme.label                "Thema Wear">
+<!ENTITY cmd.disableAddon.accesskey           "D">
+<!ENTITY cmd.enableTheme.label                "Gwisgo Thema">
 <!ENTITY cmd.enableTheme.accesskey            "W">
 <!ENTITY cmd.disableTheme.label               "Peidio Gwisgo Thema">
-<!ENTITY cmd.disableTheme.accesskey           "w">
+<!ENTITY cmd.disableTheme.accesskey           "W">
 <!ENTITY cmd.installAddon.label               "Gosod">
 <!ENTITY cmd.installAddon.accesskey           "G">
 <!ENTITY cmd.uninstallAddon.label             "Tynnu">
-<!ENTITY cmd.uninstallAddon.accesskey         "T">
+<!ENTITY cmd.uninstallAddon.accesskey         "R">
 <!ENTITY cmd.showPreferencesWin.label         "Dewisiadau">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Newid dewisiadau'r ategyn">
 <!ENTITY cmd.showPreferencesUnix.label        "Dewisiadau">
@@ -125,10 +133,10 @@
 <!ENTITY detail.checkForUpdates.accesskey     "G">
 <!ENTITY detail.checkForUpdates.tooltip       "Gwirio am ddiweddariad i'r ategyn">
 <!ENTITY detail.showPreferencesWin.label      "Dewisiadau">
-<!ENTITY detail.showPreferencesWin.accesskey  "D">
+<!ENTITY detail.showPreferencesWin.accesskey  "O">
 <!ENTITY detail.showPreferencesWin.tooltip    "Newid dewisiadau'r ategyn">
 <!ENTITY detail.showPreferencesUnix.label     "Dewisiadau">
-<!ENTITY detail.showPreferencesUnix.accesskey "D">
+<!ENTITY detail.showPreferencesUnix.accesskey "e">
 <!ENTITY detail.showPreferencesUnix.tooltip   "Newid dewisiadau'r ategyn">
 
 
@@ -191,3 +199,6 @@
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
 <!ENTITY eula.accept                          "Derbyn a Gosod...">
+
+<!ENTITY settings.path.button.label           "Pori...">
+

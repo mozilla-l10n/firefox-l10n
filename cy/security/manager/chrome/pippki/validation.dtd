@@ -44,10 +44,10 @@
 <!ENTITY  validation.crlautoupdatestatus.label    "Statws Awto Diweddaru">
 <!ENTITY  validation.deletecrl.label              "Dileu">
 <!ENTITY  validation.deletecrl.accesskey          "D">
-<!ENTITY  validation.updatecrl.label              "Diweddariad">
-<!ENTITY  validation.updatecrl.accesskey          "i">
+<!ENTITY  validation.updatecrl.label              "Diweddaru">
+<!ENTITY  validation.updatecrl.accesskey          "D">
 <!ENTITY  validation.advanced.label               "Gosodiadau">
-<!ENTITY  validation.advanced.accesskey           "G">
+<!ENTITY  validation.advanced.accesskey           "s">
 
 <!ENTITY  validation.crl.autoupdate.title         "Dewisiadau Diweddaru CRL yn Awtomatig">
 <!ENTITY  validation.crl.autoupdate.enable.label  "Galluogi Diweddaru Awtomatig ar gyfer y CRL">
@@ -65,3 +65,4 @@
 <!ENTITY  crl.autoupdate.fail.cnt.label           "Methiannau Diweddaru Olynol Cynt: ">
 <!ENTITY  crl.autoupdate.fail.reason.label        "Manylion methiant Diweddaru Diwethaf: ">
 <!ENTITY  edit.button                             "Gosodiadau">
+
