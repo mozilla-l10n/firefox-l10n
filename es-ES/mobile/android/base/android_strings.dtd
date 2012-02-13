@@ -29,6 +29,7 @@
 <!ENTITY reload "Recargar">
 <!ENTITY forward "Siguiente">
 <!ENTITY new_tab "Pestaña nueva">
+<!ENTITY new_tab_opened "Nueva pestaña abierta">
 <!ENTITY settings "Configuración">
 <!ENTITY settings_title "Configuración">
 <!ENTITY pref_category_general "General">
