@@ -31,7 +31,7 @@
 <!ENTITY saveFileAsCmd.accesskey      "a">
 
 <!ENTITY closeCmd.label               "Slute">
-<!ENTITY closeCmd.key                 "C">
+<!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "S">
 
 <!ENTITY editMenu.label               "Bewurkje">
