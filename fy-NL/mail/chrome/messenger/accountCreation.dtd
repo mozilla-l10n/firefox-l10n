@@ -80,5 +80,5 @@
 <!ENTITY insecureServer.tooltip.details  "Klik sirkel foar mear details.">
 
 <!ENTITY insecureUnencrypted.description "Jo e-mail en autentikaasje wurde net-fersifere ferstjoerd, dus jo wachtwurd (en jo berjocht) kin maklik lêzen wurde troch oare minsken. &brandShortName; sil jo jo e-mail ophelje, mar jo soene einliks jo e-mailprovider freegje moatte om de tsjinner te konfigurearjen mei in feilige ferbining.">
-<!ENTITY insecureSelfSigned.description  "De tsjinner brûkt in sertifikaat dy't wy net fertrouwe kinne, dus wy binne net wis oft ien it ferkear tusken &brandShortName; en jo tsjinner besiket te ûnderskeppen. &brandShortName; sil jo jo e-mail ophelje litte, mar jo soene einliks jo e-mailprovider freegje moatte om de tsjinner te konfigurearjen mei in feilich sertifikaat.">
+<!ENTITY insecureSelfSigned.description  "De tsjinner brûkt in sertifikaat dy't wy net fertrouwe kinne, dus wy binne net wis oft ien it ferkear tusken &brandShortName; en jo tsjinner probearret te ûnderskeppen. &brandShortName; sil jo jo e-mail ophelje litte, mar jo soene einliks jo e-mailprovider freegje moatte om de tsjinner te konfigurearjen mei in feilich sertifikaat.">
 <!ENTITY secureServer.description        "Lokwinske! Dit is in feilige tsjinner.">
