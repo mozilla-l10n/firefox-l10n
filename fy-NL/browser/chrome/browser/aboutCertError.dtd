@@ -14,21 +14,21 @@ be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara1 "Jo hawwe &brandShortName; frege om feilich 
 te ferbinen mei <b>#1</b>, mar wy kinne net befestigje dat de ferbining feilich is.">
-<!ENTITY certerror.introPara2 "Normaal, as jo besykje om feilich te ferbinen,
+<!ENTITY certerror.introPara2 "Normaal, as jo probearje om feilich te ferbinen,
 sille sides fertroude identifikaasje presentearje om te bewizjen dat jo
 nei it goede plak geane. Dizze side syn identiteit kin echter net ferifiearre wurde.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Wat moat ik dwaan?">
 <!ENTITY certerror.whatShouldIDo.content "As jo normaal ferbine mei
-dizze side sûnder problemen, dan kin dit betsjutte dat in oar besiket
-om de side nei te meitsjen, en jo soene dan net trochgean.">
+dizze side sûnder problemen, dan kin dit betsjutte dat in oar probearret
+om de side nei te meitsjen, en jo soenen better dan net trochgean.">
 <!ENTITY certerror.getMeOutOfHere.label "Helje my hjir út!">
 
 <!ENTITY certerror.expert.heading "Ik begryp it risiko">
 <!ENTITY certerror.expert.content "As jo begripe wat der bart, kinne jo
 &brandShortName; fertelle om dizze side syn identifikaasje te fertrouwen.
 <b>Ek al fertrouwe jo de side, dizze flater kin betsjutte dat in oar
-tampering mei jo ferbining.</b>">
+knoeit mei jo ferbining.</b>">
 <!ENTITY certerror.expert.contentPara2 "Foegje gjin útsûndering ta allinnich as
 jo witte dat der in goede reden is wêrom't dizze side net fertroude identifikaasje brûkt.">
 <!ENTITY certerror.addException.label "Utsûndering tafoegje…">
