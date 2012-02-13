@@ -1,0 +1,72 @@
+<!-- Don't localize these. They're here until they have
+     a better place to live. -->
+<!ENTITY syncBrand.fullName.label "Firefox Sync">
+<!ENTITY syncBrand.shortName.label "Sync">
+<!-- Main titles. -->
+
+<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
+<!ENTITY sync.title.connect.label "Ceangail le &syncBrand.shortName.label;">
+<!ENTITY sync.title.adddevice.label "Cuir Cuntas &syncBrand.fullName.label; Leis">
+<!ENTITY sync.title.pair.label "Ceangail Gléas">
+<!-- J-PAKE Key Screen -->
+
+<!ENTITY sync.subtitle.connect.label "Chun do ghléas nua a ghníomhachtú, roghnaigh “Socraigh &syncBrand.shortName.label;” ar an ngléas.">
+<!ENTITY sync.subtitle.header.label "Cuir an cód isteach ar do ríomhaire">
+<!ENTITY sync.subtitle.connectlocation.label "Roghnaigh “&sync.title.pair.label;” sna roghanna &syncBrand.shortName.label; i bhFirefox ar do ríomhaire deisce.">
+<!ENTITY sync.subtitle.pair.label "Chun gníomhachtú, roghnaigh “Ceangail gléas” ar do ghléas eile.">
+<!ENTITY sync.pin.default.label "...\n...\n...\n">
+<!ENTITY sync.pin.oneline.label "...">
+<!ENTITY sync.link.show.label "Taispeáin dom.">
+<!ENTITY sync.link.advancedsetup.label "Ardroghanna…">
+<!ENTITY sync.link.nodevice.label "Níl an gléas liom faoi láthair...">
+<!-- J-PAKE Waiting Screen -->
+
+<!ENTITY sync.jpake.subtitle.waiting.label "Ag fanacht leis an ngléas eile…">
+<!-- Account Login Screen -->
+
+<!ENTITY sync.subtitle.account.label "Cuir faisnéis do chuntais &syncBrand.fullName.label; isteach">
+<!ENTITY sync.input.username.label "Ainm an Chuntais">
+<!ENTITY sync.input.password.label "Focal Faire">
+<!ENTITY sync.input.key.label "Eochair Athshlánaithe">
+<!ENTITY sync.checkbox.server.label "Úsáid freastalaí saincheaptha">
+<!ENTITY sync.input.server.label "URL an fhreastalaí">
+<!-- Setup Fail -->
+  
+<!ENTITY sync.title.fail.label "Ní féidir &syncBrand.shortName.label; a shocrú">
+<!ENTITY sync.subtitle.fail.label "Níorbh fhéidir le &syncBrand.fullName.label; ceangal leis an bhfreastalaí. An bhfuil fonn ort triail eile a bhaint as?">
+<!ENTITY sync.button.tryagain.label "Bain triail eile as">
+<!ENTITY sync.button.manual.label "Socrú De Láimh">
+<!ENTITY sync.subtitle.nointernet.label "Níl ceangal leis an Idirlíon ar fáil.">
+<!-- Setup Success -->
+  
+<!ENTITY sync.title.success.label "Críochnaithe">
+<!ENTITY sync.subtitle.success.label "Tá do chuid sonraí á n-íosluchtú sa chúlra. Féach ar 'Socruithe' chun do chuntas a bhainistiú.">
+<!ENTITY sync.settings.label "Socruithe">
+<!ENTITY sync.subtitle.manage.label "Tá cuntas &syncBrand.fullName.label; socraithe agat cheana. Féach ar 'Socruithe' chun do chuntas a bhainistiú.">
+<!-- Pair Device -->
+
+<!ENTITY sync.pair.tryagain.label "Bain triail as arís.">
+<!-- Firefox SyncAdapter Settings Screen -->
+
+<!ENTITY sync.settings.options.label "Roghanna">
+<!ENTITY sync.summary.pair.label "Nasc gléas eile le do chuntas &syncBrand.shortName.label;">
+<!-- Common text -->
+
+<!ENTITY sync.button.cancel.label "Cealaigh">
+<!ENTITY sync.button.connect.label "Nasc">
+<!ENTITY sync.button.ok.label "OK">
+<!-- Account strings -->
+  
+<!ENTITY sync.account.label.label "&syncBrand.fullName.label;">
+<!-- Bookmark folder strings -->
+  
+<!ENTITY bookmarks.folder.menu.label "Roghchlár na Leabharmharcanna">
+<!ENTITY bookmarks.folder.places.label ''>
+<!ENTITY bookmarks.folder.tags.label "Clibeanna">
+<!ENTITY bookmarks.folder.toolbar.label "Barra Leabharmharc">
+<!ENTITY bookmarks.folder.unfiled.label "Leabharmharcanna Gan Sórtáil">
+<!ENTITY bookmarks.folder.desktop.label "Leabharmharcanna Deisce">
+<!ENTITY bookmarks.folder.mobile.label "Leabharmharcanna Soghluaiste">
+<!-- Notification strings -->
+
+<!ENTITY sync.notification.oneaccount.label "Ní thacaítear ach aon chuntas &syncBrand.fullName.label; amháin.">
