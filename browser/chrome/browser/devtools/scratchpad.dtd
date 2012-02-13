@@ -53,7 +53,7 @@
 <!ENTITY copyCmd.key                  "C">
 <!ENTITY copyCmd.accesskey            "K">
 
-<!ENTITY pasteCmd.label               "Plake">
+<!ENTITY pasteCmd.label               "Plakke">
 <!ENTITY pasteCmd.key                 "V">
 <!ENTITY pasteCmd.accesskey           "P">
 
