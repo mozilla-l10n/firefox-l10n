@@ -1,11 +1,11 @@
 <!ENTITY pluginWizard.title                                  "Serviciu de gueta de complementos">
-<!ENTITY pluginWizard.firstPage.title                        "Bienaportáu al &pluginWizard.title;">
+<!ENTITY pluginWizard.firstPage.title                        "Bienllegáu al &pluginWizard.title;">
 
 <!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; ta comprobando agora los plugins disponibles…">
 
 <!ENTITY pluginWizard.availablePluginsPage.title             "Descargues de plugins disponibles">
 <!ENTITY pluginWizard.availablePluginsPage.description.label "Los siguientes plugins tán disponibles:">
-<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Calque Siguiente pa instalar estos plugins.">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Calque en Siguiente pa instalar estos plugins.">
 <!ENTITY pluginWizard.availablePluginsPage.installerUI       "Dalgunos plugins puen solicita-y información adicional durante la instalación.">
 
 <!ENTITY pluginWizard.licensePage.title                      "Llicencies de los Plugins">
@@ -34,12 +34,12 @@
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "Recargar la páxina">
-<!ENTITY reloadPlugin.post                                   " pa intentar otra vegada.">
+<!ENTITY reloadPlugin.post                                   " pa intentalo otra vegada.">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.checkbox                                     "…y unviar informe de fallu">
+<!ENTITY report.please                                       "Unviar informe de fallu">
 <!ENTITY report.submitting                                   "Unviando informe…">
-<!ENTITY report.submitted                                    "Unvíose informe de fallu.">
+<!ENTITY report.submitted                                    "Unvióse informe de fallu.">
 <!ENTITY report.disabled                                     "Desactiváu informe de fallu.">
-<!ENTITY report.failed                                       "Falló l'unvíu.">
+<!ENTITY report.failed                                       "Falló l'unviu.">
 <!ENTITY report.unavailable                                  "Informe non disponible.">
 <!ENTITY clickToPlayPlugin                                   "Fai click equí p'activar el complementu.">
