@@ -1,9 +1,0 @@
-<!ENTITY defaultClient.title "Cliant Réamhshocraithe">
-<!ENTITY defaultClient.intro "Úsáid &brandShortName; mar chliant réamhshocraithe le haghaidh:">
-
-<!ENTITY email.label "R-Phost">
-<!ENTITY newsgroups.label "Grúpaí-Nuachta">
-<!ENTITY rss.label "Fothaí RSS">
-
-<!ENTITY checkOnStartup.label "Seiceáil mar seo i gcónaí agus &brandShortName; á thosú">
-<!ENTITY checkOnStartup.accesskey "A">
