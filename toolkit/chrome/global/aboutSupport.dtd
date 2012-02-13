@@ -3,7 +3,7 @@
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "
   Dizze side befettet technyske ynformaasje dy't brûkber wêze kin as jo 
-  besykje om problemen op te lossen. As jo antwurden sykje op algemiene fragen
+  probearje om problemen op te lossen. As jo antwurden sykje op algemiene fragen
   oer &brandShortName;, sjoch dan op ús <a id='supportLink'>stipewebstee</a>.
 ">
 

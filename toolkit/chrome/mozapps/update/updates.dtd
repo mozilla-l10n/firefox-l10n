@@ -16,7 +16,7 @@
 <!ENTITY  manualUpdate.title              "Net yn steat om te fernijen">
 <!ENTITY  manualUpdate.desc               "In oanrikkemandearre feilichheids- en stabileitsfernijing is beskikber, mar jo
                                            hawwe net de systeemrjochten dy't nedich binne om it te ynstallearjen. Nim asjobleaft kontakt op mei jo
-                                           systeembehearder, of besykje it nochris mei in account dy't wol de rjochten hat om
+                                           systeembehearder, of probearje it nochris mei in account dy't wol de rjochten hat om
                                            programma's te ynstallearjen op dizze kompjûter.">
 <!ENTITY  manualUpdate.space.desc         "In oanrikkemandearre feilichheids- en stabileitsfernijing is beskikber, mar jo
                                            hawwe net genôch skiifromte om it te ynstallearjen.">
@@ -60,7 +60,7 @@
                                            fan dizze fernijing. &brandShortName; koe net bywurke wurde omdat:">
                                            
 <!ENTITY  errorManual.label               "Jo kinne &brandShortName; mei de hân bywurkje troch dizze keppeling te
-                                           besykjen en de lêste ferzje yn te laden:">
+                                           probearjen en de lêste ferzje yn te laden:">
 
 <!ENTITY  errorpatching.intro             "It part fan de fernijing koe net tapast wurde. 
                                            &brandShortName; sil it op 'e nij probearje troch in folsleine fernijing yn te laden.">
