@@ -1,12 +1,26 @@
 <!ENTITY aboutDialog.title          "Про &brandFullName;">
 
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+<!ENTITY warningDesc.version        "&brandShortName; є експериментальним та може бути нестабільним.">
+<!-- LOCALIZATION NOTE (warningDesc.telemetry): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetry      "Вона автоматично шле тестову інформацію до &vendorShortName;, щоб зробити &brandShortName; кращим.">
+
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+<!ENTITY community.exp.start        "">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+<!ENTITY community.exp.middle       " є ">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "глобальною спільнотою">
+<!ENTITY community.exp.end          ", котра працює над тим, щоб інтернет лишався відкритим, громадським та доступним для всіх.">
+
 <!ENTITY community.start2           "&brandShortName; був розроблений в ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          " — ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "глобальній спільноті">
-<!ENTITY community.end2             ", котра гуртом намагається зробити інтернет кращим. Ми віримо в те, що інтернет має бути відкритим, громадським, доступним кожному без жодних обмежень.">
+<!ENTITY community.end3             ", котра працює над тим, щоб інтернет лишався відкритим, громадським та доступним для всіх.">
 
 <!ENTITY contribute.start           "Цікаво? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
