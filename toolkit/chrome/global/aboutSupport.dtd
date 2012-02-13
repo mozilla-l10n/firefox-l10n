@@ -3,6 +3,11 @@
 #
 # elad <el.il@doom.co.il>
 # Yaron <sh.yaron@gmail.com>
+# Tomer Cohen <tomer.mozilla@tomercohen.com>
+#
+# Reviewer(s):
+#
+# Tomer Cohen <tomer.mozilla@tomercohen.com>
 #
 -->
 <!ENTITY aboutSupport.pageTitle "מידע לפתרון בעיות">
@@ -28,14 +33,17 @@
 <!ENTITY aboutSupport.appBasicsCrashIDs "דיווחי קריסה">
 <!ENTITY aboutSupport.appBasicsMemoryUse "שימוש בזכרון">
 
-<!ENTITY aboutSupport.show.label "פתח תיקייה מכילה">
+<!ENTITY aboutSupport.show.label "פתיחת תיקייה מכילה">
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.show.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
-<!ENTITY aboutSupport.showMac.label "הצג ב־Finder">
+<!ENTITY aboutSupport.showMac.label "הצגה ב־Finder">
+<!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
+variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin.label "הצגת תיקייה">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "העדפות ששונו">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "העדפות חשובות ששונו">
 <!ENTITY aboutSupport.modifiedPrefsName "שם">
 <!ENTITY aboutSupport.modifiedPrefsValue "ערך">
 

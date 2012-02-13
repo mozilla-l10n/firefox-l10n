@@ -234,8 +234,13 @@ can reach it easily. -->
 <!ENTITY inspectButton.label            "חקור">
 <!ENTITY inspectButton.accesskey        "ח">
 <!ENTITY inspectCloseButton.tooltiptext "סגור את החוקר">
-<!ENTITY inspect3DButton.label        "תלת מימד">
-<!ENTITY inspect3DButton.accesskey    "ת">
+
+<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
+  -  alternate view for the Inspector, creating a 3D visualization of the
+  -  webpage. -->
+<!ENTITY inspect3DViewButton.label     "תצוגת תלת מימד">
+<!ENTITY inspect3DViewButton.accesskey "ת">
+
 <!ENTITY inspectStyleButton.label     "סגנון">
 <!ENTITY inspectStyleButton.accesskey "ס">
 
