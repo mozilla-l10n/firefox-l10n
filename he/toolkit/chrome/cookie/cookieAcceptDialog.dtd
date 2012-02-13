@@ -4,7 +4,6 @@
 <!ENTITY     props.path.label               "נתיב:">
 <!ENTITY     props.secure.label             "שלח עבור:">
 <!ENTITY     props.expires.label            "תאריך תפוגה:">
-<!ENTITY     props.policy.label             "מדיניות:"> 
 
 <!ENTITY     button.allow.label             "הרשה">
 <!ENTITY     button.allow.accesskey         "ר">

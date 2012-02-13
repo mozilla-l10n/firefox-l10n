@@ -33,10 +33,10 @@
 <!ENTITY aboutSupport.appBasicsCrashIDs "דיווחי קריסה">
 <!ENTITY aboutSupport.appBasicsMemoryUse "שימוש בזכרון">
 
-<!ENTITY aboutSupport.show.label "פתיחת תיקייה מכילה">
+<!ENTITY aboutSupport.showDir.label "פתיחת תיקייה">
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
-variant of aboutSupport.show.label.  This allows us to use the preferred
+variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
 <!ENTITY aboutSupport.showMac.label "הצגה ב־Finder">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
