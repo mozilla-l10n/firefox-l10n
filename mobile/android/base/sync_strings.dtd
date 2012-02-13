@@ -25,7 +25,7 @@
 <!ENTITY sync.title.pair.label "שיוך התקן">
 
 <!-- J-PAKE Key Screen -->
-<!ENTITY sync.subtitle.connect.label "כדי להפעיל את ההתקן החדש שלך, נא לבחור \u0022הגדרת &syncBrand.shortName.label\u0022 על ההתקן.">
+<!ENTITY sync.subtitle.connect.label "כדי להפעיל את ההתקן החדש שלך, נא לבחור \u0022הגדרת &syncBrand.shortName.label;\u0022 על ההתקן.">
 <!ENTITY sync.subtitle.header.label "נא להקיש את הקוד הבא במחשב">
 <!ENTITY sync.subtitle.connectlocation.label "נא לבחור \u0022\u0022 בלשונית שמתייחסת ל־&syncBrand.shortName.label; במסך האפשרויות של Firefox על המחשב שלך.">
 <!ENTITY sync.subtitle.pair.label "כדי להפעיל, נא לבחור באפשרות \u0022שיוך התקן\u0022 בהתקן האחר שלך.">
