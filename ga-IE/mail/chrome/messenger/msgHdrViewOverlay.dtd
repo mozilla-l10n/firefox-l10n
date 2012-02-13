@@ -128,9 +128,9 @@
 <!ENTITY copyLinkCmd.label "Cóipeáil Suíomh an Naisc">
 <!ENTITY copyLinkCmd.accesskey "C">
 
-<!ENTITY CopyMessageId.label "Copy Message-ID">
+<!ENTITY CopyMessageId.label "Cóipeáil Aitheantas-Teachtaireachta">
 <!ENTITY CopyMessageId.accesskey "C">
-<!ENTITY OpenMessageForMsgId.label "Open Message For ID">
+<!ENTITY OpenMessageForMsgId.label "Oscail teachtaireacht le haitheantas">
 <!ENTITY OpenMessageForMsgId.accesskey "O">
-<!ENTITY OpenBrowserWithMsgId.label "Open Browser With Message-ID">
+<!ENTITY OpenBrowserWithMsgId.label "Oscail Brabhsálaí le hAitheantas-Teachtaireachta">
 <!ENTITY OpenBrowserWithMsgId.accesskey "B">
