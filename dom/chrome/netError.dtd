@@ -1,10 +1,10 @@
 <!ENTITY loadError.label "Flater by it laden fan de side">
-<!ENTITY retry.label "Besykje it op 'e nij">
+<!ENTITY retry.label "Probearje it op 'e nij">
 
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Ferbiningsflater">
-<!ENTITY connectionFailure.longDesc "<p>It liket derop dat it webstee wol bestiet, mar it is net slagge om der ferbining mei te meitsjen.</p><ul><li>Miskien is it webstee tydlik net beskikber? Besykje it letter nochris.</li><li>Kinne jo ek gjin oare websteeën besykje? Kontrolearje de netwurkferbining fan de kompjûter.</li><li>Wurdt jo kompjûter of netwurk beskerme troch in brânmuorre of proxy? Ferkearde ynstellings kinne it funksjonearjen dêrfan by it websneupjen opkeare.</li></ul>">
+<!ENTITY connectionFailure.longDesc "<p>It liket derop dat it webstee wol bestiet, mar it is net slagge om der ferbining mei te meitsjen.</p><ul><li>Miskien is it webstee tydlik net beskikber? Probearje it letter nochris.</li><li>Kinne jo ek gjin oare websteeën besykje? Kontrolearje de netwurkferbining fan de kompjûter.</li><li>Wurdt jo kompjûter of netwurk beskerme troch in brânmuorre of proxy? Ferkearde ynstellings kinne it funksjonearjen dêrfan by it websneupjen opkeare.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Poarte beheind om befeiligingsredenen">
 <!ENTITY deniedPortAccess.longDesc "<p>It frege adres spesifisearret in poarte (bv. <q>mozilla.org:80</q> foar poarte 80 op mozilla.org) die normaal sprutsen brûkt wurdt foar <em>oare</em> doeleinen as websneupjen. De browser hat it fersyk annulearre omwille fan jo beskerming en feiligheid.</p>">
@@ -67,12 +67,12 @@
 <!ENTITY nssBadCert.title "Feilige Ferbining Mislearre">
 <!ENTITY nssBadCert.longDesc2 "<ul>
 <li>Dit koe in probleem wêze mei de konfiguraasje fan de tsjinner, of it kin iets wêze wat probeart de tsjinner as in oar foar te dwaan.</li>
-<li>As jo earder al súksesfol ferbining hân hawwe mei dizze tsjinner, kin de flater tydlik wêze en kinne jo it letter nochris besykje.</li>
+<li>As jo earder al súksesfol ferbining hân hawwe mei dizze tsjinner, kin de flater tydlik wêze en kinne jo it letter nochris probearje.</li>
 </ul>
 ">
 
-<!ENTITY malwareBlocked.title "Fertochte Oanfal Side!">
-<!ENTITY malwareBlocked.longDesc "<p>Oanfal sides probearje om programmatuer te ynstallearjen dy't privee-ynformaasje stêle kinne, jo komjûter brûke om oaren oan te fallen, of jo systeem skansearje.</p><p> Jo soenen dizze side net besykje!</p>">
+<!ENTITY malwareBlocked.title "Fertochte Oanfalside!">
+<!ENTITY malwareBlocked.longDesc "<p>Oanfalsides probearje om programmatuer te ynstallearjen dy't privee-ynformaasje stêle kinne, jo komjûter brûke om oaren oan te fallen, of jo systeem skansearje.</p><p> Jo soenen better dizze side net besykje!</p>">
 
 <!ENTITY phishingBlocked.title "Fertochte Web Ferfalsking!">
 <!ENTITY phishingBlocked.longDesc "
