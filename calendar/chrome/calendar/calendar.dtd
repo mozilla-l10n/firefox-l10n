@@ -64,6 +64,7 @@
 <!ENTITY calendar.events.filter.today.label "Današnji dogodki">
 <!ENTITY calendar.events.filter.future.label "Vsi prihodnji dogodki">
 <!ENTITY calendar.events.filter.current.label "Trenutno izbrani dan">
+<!ENTITY calender.events.filter.currentview.label "Dogodki v trenutnem prikazu">
 <!ENTITY calendar.events.filter.next7Days.label "Dogodki prihodnjih 7 dni">
 <!ENTITY calendar.events.filter.next14Days.label "Dogodki prihodnjih 14 dni">
 <!ENTITY calendar.events.filter.next31Days.label "Dogodki prihodnjih 31 dni">
@@ -179,6 +180,10 @@
 <!ENTITY calendar.task.complete.button.tooltip  "Označi izbrane opravke kot izvršene">
 <!ENTITY calendar.task.priority.button.tooltip  "Spremeni prioriteto">
 
+<!ENTITY calendar.task.text-filter.textbox.emptytext.base            "Filtriraj opravke… #1">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Shift+K&gt;">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
+
 <!-- Vrstica stanja -->
 <!ENTITY statusText.label                       "Dokument: Končano">
 
@@ -213,6 +218,8 @@
 <!ENTITY calendar.context.progress.accesskey          "N">
 <!ENTITY calendar.context.priority.label              "Prioriteta">
 <!ENTITY calendar.context.priority.accesskey          "P">
+<!ENTITY calendar.context.postpone.label              "Odloži opravek">
+<!ENTITY calendar.context.postpone.accesskey          "s">
 
 <!ENTITY percnt "&#38;#37;"><!--=znak za odstotek-->
 
@@ -238,6 +245,13 @@
 <!ENTITY priority.level.normal.accesskey    "d">
 <!ENTITY priority.level.high                "Visoka">
 <!ENTITY priority.level.high.accesskey      "v">
+
+<!ENTITY calendar.context.postpone.1hour.label      "1 uro">
+<!ENTITY calendar.context.postpone.1hour.accesskey  "U">
+<!ENTITY calendar.context.postpone.1day.label       "1 dan">
+<!ENTITY calendar.context.postpone.1day.accesskey   "D">
+<!ENTITY calendar.context.postpone.1week.label      "1 teden">
+<!ENTITY calendar.context.postpone.1week.accesskey  "T">
 
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other

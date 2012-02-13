@@ -48,7 +48,6 @@
 <!ENTITY event.dialog.keepDurationButton.tooltip   "Obdrži trajanje, kadar se spremeni datum zaključka">
 <!ENTITY event.dialog.keepDurationButton.accesskey "K">
 
-
 <!ENTITY newevent.from.label                "Od">
 <!ENTITY newevent.to.label                  "Do">
 <!ENTITY newevent.attendees.notify.label    "Obvesti udeležence">
@@ -361,8 +360,6 @@
 <!ENTITY event.freebusy.next.slot               "Naslednje mesto">
 <!ENTITY event.freebusy.previous.slot           " Prejšnje mesto">
 <!ENTITY event.freebusy.zoom                    "Povečava:">
-<!ENTITY event.freebusy.plus                    "Naslednja ura">
-<!ENTITY event.freebusy.minus                   "Prejšnja ura">
 <!ENTITY event.freebusy.legend.free             "Prosto">
 <!ENTITY event.freebusy.legend.busy             "Zasedeno">
 <!ENTITY event.freebusy.legend.busy_tentative   "Neodločeno" >

@@ -74,30 +74,6 @@
 <!ENTITY lightning.menu.eventtask.label                "Dogodki in opravki">
 <!ENTITY lightning.menu.eventtask.accesskey            "D">
 
-<!-- Mode Toolbar -->
-<!ENTITY lightning.toolbar.mail.label         "Pošta">
-<!ENTITY lightning.toolbar.mail.accesskey     "P">
-<!ENTITY lightning.toolbar.calendar.label     "Koledar">
-<!ENTITY lightning.toolbar.calendar.tooltip   "Preklopi na zavihek koledar">
-<!ENTITY lightning.toolbar.calendar.accesskey "K">
-<!ENTITY lightning.toolbar.task.label         "Opravki">
-<!ENTITY lightning.toolbar.task.tooltip       "Preklopi na zavihek opravki">
-<!ENTITY lightning.toolbar.task.accesskey     "O">
-
-<!-- Toolbar write button -->
-<!ENTITY lightning.toolbar.newevent.label     "Dogodek">
-<!ENTITY lightning.toolbar.newtask.label      "Opravek">
-
-<!-- Messenger Toolbar -->
-<!ENTITY lightning.toolbar.day.label                 "Dan">
-<!ENTITY lightning.toolbar.day.accesskey             "D">
-<!ENTITY lightning.toolbar.week.label                "Teden">
-<!ENTITY lightning.toolbar.week.accesskey            "T">
-<!ENTITY lightning.toolbar.multiweek.label           "Več tednov">
-<!ENTITY lightning.toolbar.multiweek.accesskey       "V">
-<!ENTITY lightning.toolbar.month.label               "Mesec">
-<!ENTITY lightning.toolbar.month.accesskey           "M">
-
 <!-- properties dialog, calendar creation wizard -->
 <!ENTITY lightning.calendarproperties.showevents.inagenda.label "Pokaži dogodke v današnjem podoknu">
 <!ENTITY lightning.calendarproperties.showtasks.label           "Pokaži opravke v današnjem podoknu in načinu opravkov">
