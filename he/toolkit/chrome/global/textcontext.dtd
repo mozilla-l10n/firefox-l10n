@@ -1,3 +1,16 @@
+<!--
+# Translator(s):
+#
+# Tomer Cohen <tomer.mozilla@tomercohen.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# alexxed <alexxed@gmail.com>
+# Tomer Cohen <tomer.mozilla@tomercohen.com>
+#
+-->
 <!ENTITY cutCmd.label "גזור">
 <!ENTITY cutCmd.accesskey "ג">
 <!ENTITY copyCmd.label "העתק">
@@ -13,6 +26,8 @@
 
 <!ENTITY spellAddToDictionary.label "הוסף למילון">
 <!ENTITY spellAddToDictionary.accesskey "מ">
+<!ENTITY spellUndoAddToDictionary.label "ביטול הוספה למילון">
+<!ENTITY spellUndoAddToDictionary.accesskey "ב">
 <!ENTITY spellCheckEnable.label "בדוק איות">
 <!ENTITY spellCheckEnable.accesskey "ב">
 <!ENTITY spellNoSuggestions.label "(אין הצעות איות)">

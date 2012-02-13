@@ -31,7 +31,7 @@
   -  "Scratchpad" in your locale. You should feel free to find a close
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
-<!ENTITY window.title                 "דף טיוטא">
+<!ENTITY window.title                 "דף טיוטה">
 
 <!ENTITY fileMenu.label               "קובץ">
 <!ENTITY fileMenu.accesskey           "ק">
@@ -81,6 +81,26 @@
 <!ENTITY selectAllCmd.label           "בחר הכול">
 <!ENTITY selectAllCmd.key             "ב">
 <!ENTITY selectAllCmd.accesskey       "ב">
+
+<!ENTITY findCmd.label                "מצא…">
+<!ENTITY findCmd.key                  "F">
+<!ENTITY findCmd.accesskey            "מ">
+
+<!ENTITY findAgainCmd.label           "חיפוש חוזר…">
+<!-- LOCALIZATION NOTE (findAgainCmd.key): This key is used only on Macs.
+  -  Windows and Linux builds use the F3 key which is not localizable on purpose.
+  -->
+<!ENTITY findAgainCmd.key             "G">
+<!ENTITY findAgainCmd.accesskey       "ח">
+<!-- LOCALIZATION NOTE (findPreviousCmd.key): This key is used only on Macs.
+  -  Windows and Linux builds use the Shift-F3 key which is not localizable on
+  -  purpose.
+  -->
+<!ENTITY findPreviousCmd.key          "G">
+
+<!ENTITY gotoLineCmd.label            "קפיצה לשורה…">
+<!ENTITY gotoLineCmd.key              "J">
+<!ENTITY gotoLineCmd.accesskey        "ק">
 
 <!ENTITY run.label                    "הרצה">
 <!ENTITY run.accesskey                "ר">
