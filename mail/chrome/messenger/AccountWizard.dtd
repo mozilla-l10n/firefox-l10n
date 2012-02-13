@@ -64,13 +64,13 @@
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
 -->
 
-<!ENTITY modifyOutgoing.suffix "You can change outgoing servers in the account settings.">
+<!ENTITY modifyOutgoing.suffix "Is féidir leat an freastalaí amach a athrú i socruithe an chuntais.">
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix "Bainfear úsáid as do fhreastalaí ríomhphoist amach (SMTP), &quot;">
-<!ENTITY haveSmtp1.suffix3 "&quot;, will be used.">
+<!ENTITY haveSmtp1.suffix3 "&quot; a úsáidfear.">
 <!-- Entities for Login page -->
 
 
@@ -88,13 +88,13 @@
      text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Úsáidfear an t-ainm úsáideora amach (SMTP) atá agat faoi láthair, &quot;">
-<!ENTITY haveSmtp2.suffix3 "&quot;, will be used.">
+<!ENTITY haveSmtp2.suffix3 "&quot; a úsáidfear.">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Is ionann do fhreastalaí amach (SMTP), &quot;">
-<!ENTITY haveSmtp3.suffix3 "&quot;, is identical to your incoming server, your incoming user name will be used to access it.">
+<!ENTITY haveSmtp3.suffix3 "&quot; is ionann é agus do fhreastalaí isteach. Úsáidfear d'ainm úsáideora isteach chun é a rochtain.">
 <!-- Entities for Account name page -->
 
 

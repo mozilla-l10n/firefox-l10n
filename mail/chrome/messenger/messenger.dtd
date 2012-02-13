@@ -8,8 +8,8 @@
 <!ENTITY closeTabCmd2.accesskey "D">
 <!ENTITY closeOtherTabsCmd2.label "Dún Cluaisíní Eile">
 <!ENTITY closeOtherTabsCmd2.accesskey "E">
-<!ENTITY recentlyClosedTabsCmd.label "Recently Closed Tabs">
-<!ENTITY recentlyClosedTabsCmd.accesskey "R">
+<!ENTITY recentlyClosedTabsCmd.label "Cluaisíní a Dúnadh Le Déanaí">
+<!ENTITY recentlyClosedTabsCmd.accesskey "C">
 
 <!ENTITY undoCloseTabCmd.commandkey "T">
 <!-- LOCALIZATION NOTE (moveToNewWindow.label):
@@ -332,8 +332,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderMenu.accesskey "F">
 <!ENTITY thisFolder.label "An Fillteán Seo">
 <!ENTITY thisFolder.accesskey "S">
-<!ENTITY goRecentlyClosedTabs.label "Recently Closed Tabs">
-<!ENTITY goRecentlyClosedTabs.accesskey "R">
+<!ENTITY goRecentlyClosedTabs.label "Cluaisíní a Dúnadh Le Déanaí">
+<!ENTITY goRecentlyClosedTabs.accesskey "C">
 <!ENTITY startPageCmd.label "Leathanaigh Tosaigh Ríomhphoist">
 <!ENTITY startPageCmd.accesskey "L">
 <!-- Message Menu -->

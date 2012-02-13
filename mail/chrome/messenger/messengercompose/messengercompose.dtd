@@ -73,8 +73,8 @@
 <!ENTITY deleteCmd.accesskey "S">
 <!ENTITY editRewrapCmd.label "Timfhill Arís">
 <!ENTITY editRewrapCmd.key "R">
-<!ENTITY renameAttachmentCmd.label "Rename Attachment…">
-<!ENTITY renameAttachmentCmd.accesskey "e">
+<!ENTITY renameAttachmentCmd.label "Athainmnigh an tIatán…">
+<!ENTITY renameAttachmentCmd.accesskey "t">
 <!ENTITY selectAllCmd.label "Roghnaigh Uile">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "U">
