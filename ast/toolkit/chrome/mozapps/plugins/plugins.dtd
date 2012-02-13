@@ -1,5 +1,5 @@
 <!ENTITY pluginWizard.title                                  "Serviciu de gueta de complementos">
-<!ENTITY pluginWizard.firstPage.title                        "Bienaportáu al &pluginWizard.title;">
+<!ENTITY pluginWizard.firstPage.title                        "Bienllegáu al &pluginWizard.title;">
 
 <!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; ta comprobando agora los plugins disponibles…">
 
@@ -36,6 +36,6 @@
 <!ENTITY report.submitting                                   "Unviando informe…">
 <!ENTITY report.submitted                                    "Unvióse informe de fallu.">
 <!ENTITY report.disabled                                     "Desactiváu informe de fallu.">
-<!ENTITY report.failed                                       "Falló l'unvíu.">
+<!ENTITY report.failed                                       "Falló l'unviu.">
 <!ENTITY report.unavailable                                  "Informe non disponible.">
 <!ENTITY report.please                                       "Unviar informe de fallu">
