@@ -2,7 +2,7 @@
 %brandDTD;
 
 <!ENTITY loadError.label "Probleem by it laden fan de side">
-<!ENTITY retry.label "Besykje it op 'e nij">
+<!ENTITY retry.label "Probearje it op 'e nij">
 
 <!-- Specific error messages -->
 
@@ -132,7 +132,7 @@
 <!ENTITY nssBadCert.longDesc2 "
 <ul>
 <li>Dit koe in probleem wêze mei de konfiguraasje fan de tsjinner, of it kin iets wêze wat probeart de tsjinner as in oar foar te dwaan.</li>
-<li>As jo earder al súksesfol ferbining hân hawwe mei dizze tsjinner, kin de flater tydlik wêze en kinne jo it letter nochris besykje.</li>
+<li>As jo earder al súksesfol ferbining hân hawwe mei dizze tsjinner, kin de flater tydlik wêze en kinne jo it letter nochris probearje.</li>
 </ul>
 ">
 
