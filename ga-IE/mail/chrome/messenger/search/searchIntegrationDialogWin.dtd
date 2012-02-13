@@ -1,6 +1,0 @@
-<!ENTITY searchIntegration.engineName "Cuardach Windows">
-<!ENTITY searchIntegration.title "Comhtháthú &searchIntegration.engineName;">
-<!ENTITY searchIntegration.description "An mian leat &searchIntegration.engineName; a chumasú chun teachtaireachtaí ríomhphoist agus nuachta &brandShortName; a inneacsú agus a chuardú?">
-
-<!ENTITY searchIntegration.accept "Cumasaigh &searchIntegration.engineName;">
-<!ENTITY searchIntegration.cancel "Ná Cumasaigh &searchIntegration.engineName;">
