@@ -18,7 +18,7 @@
 <!ENTITY launcher_shortcuts_title "Aplicaciones web de &brandShortName;">
 <!ENTITY launcher_shortcuts_empty "No se encontraron aplicaciones web">
 <!ENTITY choose_file "Elegir archivo">
-<!ENTITY awesomebar_default_text "Dirección o un término de búsqueda">
+<!ENTITY awesomebar_default_text "Dirección o término a buscar">
 <!ENTITY bookmark "Marcador">
 <!ENTITY bookmark_added "Marcador añadido">
 <!ENTITY bookmark_removed "Marcador eliminado">
