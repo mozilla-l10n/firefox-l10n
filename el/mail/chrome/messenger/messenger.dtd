@@ -707,7 +707,7 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
 <!ENTITY showAllAppsCmdMac.label "Προβολή όλων">
-<!ENTITY bodyAllParts.label "Όλα τα ήμερη του κυρίως κειμένου">
+<!ENTITY bodyAllParts.label "Όλα τα μέρη του κυρίως κειμένου">
 <!ENTITY bodyAllParts.accesskey "λ">
 
 <!ENTITY deleteItem.title "Διαγραφή">

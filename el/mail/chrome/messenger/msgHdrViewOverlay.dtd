@@ -112,7 +112,7 @@
 <!ENTITY openAllAttachmentsCmd.accesskey    "λ">
 <!ENTITY saveAllAttachmentsCmd.label    "Αποθήκευση όλων…">
 <!ENTITY saveAllAttachmentsCmd.accesskey    "θ">
-<!ENTITY detachAllAttachmentsCmd.label    "Απόσέερπαση όλων…">
+<!ENTITY detachAllAttachmentsCmd.label    "Απόσπαση όλων…">
 <!ENTITY detachAllAttachmentsCmd.accesskey    "σ">
 <!ENTITY deleteAllAttachmentsCmd.label    "Διαγραφή όλων…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "φ">
