@@ -1,0 +1,87 @@
+<!--
+# Translator(s):
+#
+# Tomer Cohen <tomer.mozilla@tomercohen.com>
+# elad <el.il@doom.co.il>
+# 123aaa <123aaa@gmail.com>
+# Yaron <sh.yaron@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Tomer Cohen <tomer.mozilla@tomercohen.com>
+#
+-->
+<!-- Don"t localize these. They"re here until they have
+     a better place to live. -->
+<!ENTITY syncBrand.fullName.label "Firefox Sync">
+<!ENTITY syncBrand.shortName.label "Sync">
+
+<!-- Main titles. -->
+<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
+<!ENTITY sync.title.connect.label "התחברות אל &syncBrand.shortName.label;">
+<!ENTITY sync.title.adddevice.label "הוספת חשבון &syncBrand.fullName.label;">
+<!ENTITY sync.title.pair.label "שיוך התקן">
+
+<!-- J-PAKE Key Screen -->
+<!ENTITY sync.subtitle.connect.label "כדי להפעיל את ההתקן החדש שלך, נא לבחור \u0022הגדרת &syncBrand.shortName.label\u0022 על ההתקן.">
+<!ENTITY sync.subtitle.header.label "נא להקיש את הקוד הבא במחשב">
+<!ENTITY sync.subtitle.connectlocation.label "נא לבחור \u0022\u0022 בלשונית שמתייחסת ל־&syncBrand.shortName.label; במסך האפשרויות של Firefox על המחשב שלך.">
+<!ENTITY sync.subtitle.pair.label "כדי להפעיל, נא לבחור באפשרות \u0022שיוך התקן\u0022 בהתקן האחר שלך.">
+<!ENTITY sync.pin.default.label "...\n...\n...\n">
+<!ENTITY sync.pin.oneline.label "...">
+<!ENTITY sync.link.show.label "הראה לי כיצד.">
+<!ENTITY sync.link.advancedsetup.label "הגדרות מתקדמות…">
+<!ENTITY sync.link.nodevice.label "ההתקן אינו עימי…">
+
+<!-- J-PAKE Waiting Screen -->
+<!ENTITY sync.jpake.subtitle.waiting.label "במתנה להתקן אחר…">
+
+<!-- Account Login Screen -->
+<!ENTITY sync.subtitle.account.label "נא להכניס את פרטי חשבון &syncBrand.fullName.label; שלך">
+<!ENTITY sync.input.username.label "שם חשבון">
+<!ENTITY sync.input.password.label "ססמה">
+<!ENTITY sync.input.key.label "מפתח שחזור">
+<!ENTITY sync.checkbox.server.label "שימוש בשרת מותאם אישית">
+<!ENTITY sync.input.server.label "כתובת שרת">
+  
+<!-- Setup Fail -->
+<!ENTITY sync.title.fail.label "לא ניתן להגדיר את &syncBrand.shortName.label;">
+<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; אינו מצליח להתחבר לשרת. האם לנסות שוב?">
+<!ENTITY sync.button.tryagain.label "נסה שוב">
+<!ENTITY sync.button.manual.label "הגדרה ידנית">
+<!ENTITY sync.subtitle.nointernet.label "אין חיבור זמין לרשת.">
+  
+<!-- Setup Success -->
+<!ENTITY sync.title.success.label "ההתקנה הושלמה">
+<!ENTITY sync.subtitle.success.label "הנתונים שלך יורדים כעת ברקע. ניתן להיכנס אל ההגדרות כדי לנהל את חשבונך.">
+<!ENTITY sync.settings.label "הגדרות">
+<!ENTITY sync.subtitle.manage.label "החשבון שלך ב־&syncBrand.fullName.label; כבר הוגדר. ניתן להיכנס את ההגדרות כדי לנהל את חשבונך.">
+
+<!-- Pair Device -->
+<!ENTITY sync.pair.tryagain.label "נא לנסות שוב.">
+
+<!-- Firefox SyncAdapter Settings Screen -->
+<!ENTITY sync.settings.options.label "אפשרויות">
+<!ENTITY sync.summary.pair.label "קישור התקן אחר אל החשבון שלך ב־&syncBrand.shortName.label;">
+
+<!-- Common text -->
+<!ENTITY sync.button.cancel.label "ביטול">
+<!ENTITY sync.button.connect.label "התחברות">
+<!ENTITY sync.button.ok.label "אישור">
+  
+<!-- Account strings -->
+<!ENTITY sync.account.label.label "&syncBrand.fullName.label;">
+  
+<!-- Bookmark folder strings -->
+<!ENTITY bookmarks.folder.menu.label "תפריט סימניות">
+<!ENTITY bookmarks.folder.places.label "">
+<!ENTITY bookmarks.folder.tags.label "תגיות">
+<!ENTITY bookmarks.folder.toolbar.label "סרגל כלים סימניות">
+<!ENTITY bookmarks.folder.unfiled.label "סימניות לא ממוינות">
+<!ENTITY bookmarks.folder.desktop.label "סימניות מהמחשב">
+<!ENTITY bookmarks.folder.mobile.label "סימניות מהנייד">
+
+<!-- Notification strings -->
+<!ENTITY sync.notification.oneaccount.label "רק חשבון &syncBrand.fullName.label; אחד נתמך.">
