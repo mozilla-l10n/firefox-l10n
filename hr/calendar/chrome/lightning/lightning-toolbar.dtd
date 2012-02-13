@@ -43,7 +43,7 @@
 <!ENTITY lightning.toolbar.delete.label "Obriši">
 <!ENTITY lightning.toolbar.edit.label "Uredi">
 <!ENTITY lightning.toolbar.gototoday.label "Idi na danas">
-<!ENTITY lightning.toolbar.print.label "Ispiši">
+<!ENTITY lightning.toolbar.print.label "Ispis">
 
 <!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.mail.label         "Pošta">
