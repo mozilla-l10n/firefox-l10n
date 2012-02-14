@@ -54,7 +54,7 @@
 <!ENTITY calendar.new.server.key                "L">
 <!ENTITY calendar.new.server.accesskey          "l">
 
-<!ENTITY calendar.print.label                   "Ispiši…">
+<!ENTITY calendar.print.label                   "Ispis…">
 <!ENTITY calendar.print.key                     "P">
 <!ENTITY calendar.print.accesskey               "p">
 
