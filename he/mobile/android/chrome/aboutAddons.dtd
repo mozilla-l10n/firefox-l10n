@@ -1,5 +1,18 @@
+<!--
+# Translator(s):
+#
+# hatul <amiadb@gmail.com>
+# dror3go <drortrigubof@gmail.com>
+#
+-->
+<!--
+# Reviewer(s):
+#
+# Tomer Cohen <tomer.mozilla@tomercohen.com>
+#
+-->
 <!ENTITY aboutAddons.title                      "מנהל התוספות">
-<!ENTITY aboutAddons.header                     "תוספות">
+<!ENTITY aboutAddons.header2                    "התוספות שלך">
 <!ENTITY aboutAddons.options                    "אפשרויות">
 
 <!ENTITY addonAction.enable                     "הפעל">

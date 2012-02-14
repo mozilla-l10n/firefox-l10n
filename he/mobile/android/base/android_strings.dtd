@@ -19,7 +19,7 @@
 <!ENTITY  awesomebar_all_pages_title "אתרים פופולריים">
 <!ENTITY  awesomebar_bookmarks_title "סימניות">
 <!ENTITY  awesomebar_history_title "היסטוריה">
-<!ENTITY  awesomebar_search_engine "חיפוש עבור \&quot;&#037;s\&quot;">
+<!ENTITY  awesomebar_search_engine "חיפוש עבור \u0022&#037;s\\u0022">
 
 <!ENTITY  crash_reporter_title "מדווח הקריסות של &brandShortName;">
 <!ENTITY  crash_message "&brandShortName; קרס. הלשוניות שלך יופיעו ברשימה בעמוד ההתחלה של &brandShortName; לאחר הפעלה מחדש.">
@@ -52,6 +52,7 @@
 <!ENTITY forward "קדימה">
 
 <!ENTITY new_tab "לשונית חדשה">
+<!ENTITY new_tab_opened "לשונית חדשה נפתחה">
 
 <!ENTITY settings "הגדרות">
 <!ENTITY settings_title "הגדרות">
@@ -64,6 +65,8 @@
 <!ENTITY pref_remember_signons "שמירת ססמאות">
 <!ENTITY pref_cookies "שימוש בעוגיות">
 <!ENTITY pref_char_encoding "הצגת קידוד תווים">
+<!ENTITY pref_char_encoding_on "הצגת תפריט">
+<!ENTITY pref_char_encoding_off "הסתרת תפריט">
 <!ENTITY pref_clear_history "ניקוי היסטוריה">
 <!ENTITY pref_clear_history_confirm "היסטוריית הגלישה תמחק">
 <!ENTITY pref_clear_private_data "מחיקת נתונים אישיים">
@@ -79,11 +82,13 @@
 <!ENTITY pref_font_size_large "גדול">
 <!ENTITY pref_font_size_xlarge "גדול מאד">
 <!ENTITY pref_use_master_password "שימוש בססמה ראשית">
+<!ENTITY pref_sync "Sync">
 
 <!ENTITY quit "יציאה">
 
 <!ENTITY addons "תוספות">
 <!ENTITY downloads "הורדות">
+<!ENTITY char_encoding "קידוד תווים">
 
 <!ENTITY share "שיתוף">
 <!ENTITY save_as_pdf "שמירה בתור PDF">
@@ -112,3 +117,7 @@
 <!ENTITY abouthome_last_tabs_open "כל הלשוניות מההפעלה האחרונה">
 <!ENTITY abouthome_top_sites_title "אתרים פופולריים">
 <!ENTITY abouthome_top_sites_browse "עיון בכל האתרים הפופולריים שלך">
+<!ENTITY abouthome_no_top_sites "טרם זוהו אתרים פופולריים. נא לגעת בשורת הכותרת כדי להתחיל בגלישה.">
+<!ENTITY abouthome_about_sync "הגדרת גישה של Firefox Sync אל הסימניות, ההיסטוריה והלשוניות שלך מהתקנים אחרים">
+<!ENTITY abouthome_sync_bold_name "Firefox Sync">
+
