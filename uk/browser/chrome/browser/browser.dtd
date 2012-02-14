@@ -217,8 +217,17 @@ can reach it easily. -->
 <!ENTITY inspectButton.label            "Дослідити">
 <!ENTITY inspectButton.accesskey        "Д">
 <!ENTITY inspectCloseButton.tooltiptext "Закрити Дослідника">
+<!ENTITY inspect3DButton.label        "3D">
+<!ENTITY inspect3DButton.accesskey    "M">
 <!ENTITY inspectStyleButton.label     "Стиль">
 <!ENTITY inspectStyleButton.accesskey "С">
+
+<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
+  -  in the Tools menu. -->
+<!ENTITY styleeditor.label            "Редактор стилів">
+<!ENTITY styleeditor.accesskey        "д">
+<!ENTITY styleeditor.keycode          "VK_F7">
+<!ENTITY styleeditor.keytext          "F7">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Інші інструменти">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "І">
@@ -422,26 +431,38 @@ can reach it easily. -->
 <!ENTITY thisFrameMenu.accesskey          "ь">
 
 <!-- Media (video/audio) controls -->
+<!-- LOCALIZATION NOTE: The access keys for "Play" and
+"Pause" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaPlay.label             "Грати">
-<!ENTITY mediaPlay.accesskey         "Г">
+<!ENTITY mediaPlay.accesskey         "а">
 <!ENTITY mediaPause.label            "Пауза">
-<!ENTITY mediaPause.accesskey        "П">
+<!ENTITY mediaPause.accesskey        "а">
+<!-- LOCALIZATION NOTE: The access keys for "Mute" and
+"Unmute" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Вимкнути звук">
 <!ENTITY mediaMute.accesskey         "и">
 <!ENTITY mediaUnmute.label           "Увімкнути звук">
-<!ENTITY mediaUnmute.accesskey       "і">
+<!ENTITY mediaUnmute.accesskey       "и">
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "Показати керувальники">
 <!ENTITY mediaShowControls.accesskey "к">
 <!ENTITY mediaHideControls.label     "Приховати керувальники">
-<!ENTITY mediaHideControls.accesskey "х">
+<!ENTITY mediaHideControls.accesskey "к">
 <!ENTITY videoFullScreen.label       "Повний екран">
 <!ENTITY videoFullScreen.accesskey   "е">
-<!ENTITY videoSaveImage.label        "Save Snapshot As…">
-<!ENTITY videoSaveImage.accesskey    "S">
-<!ENTITY videoShowStats.label        "Show Statistics">
-<!ENTITY videoShowStats.accesskey    "t">
-<!ENTITY videoHideStats.label        "Hide Statistics">
-<!ENTITY videoHideStats.accesskey    "t">
+<!ENTITY videoSaveImage.label        "Зберегти кадр як…">
+<!ENTITY videoSaveImage.accesskey    "я">
+<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
+"Hide Statistics" are the same because the two context-menu
+items are mutually exclusive. -->
+<!ENTITY videoShowStats.label        "Показати статистику">
+<!ENTITY videoShowStats.accesskey    "с">
+<!ENTITY videoHideStats.label        "Приховати статистику">
+<!ENTITY videoHideStats.accesskey    "с">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
