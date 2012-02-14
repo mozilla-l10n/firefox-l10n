@@ -3,16 +3,16 @@
 <!-- Network-->
 <!ENTITY prefDirect.label                    "直接連線選項">
 <!ENTITY prefProxy.label                     "Proxy 連線設定">
-<!ENTITY prefEnableHTTP10.label              "使用HTTP1.0">
+<!ENTITY prefEnableHTTP10.label              "使用 HTTP 1.0">
 <!ENTITY prefEnableHTTP10.accesskey          "U">
 <!ENTITY prefEnableHTTP10Proxy.accesskey     "S">
-<!ENTITY prefEnableHTTP11.label              "使用HTTP1.1">
+<!ENTITY prefEnableHTTP11.label              "使用 HTTP 1.1">
 <!ENTITY prefEnableHTTP11.accesskey          "e">
 <!ENTITY prefEnableHTTP11Proxy.accesskey     "T">
-<!ENTITY prefEnableKeepAlive.label           "使用Keep-Alive連線">
+<!ENTITY prefEnableKeepAlive.label           "啟用 Keep-Alive">
 <!ENTITY prefEnableKeepAlive.accesskey       "K">
 <!ENTITY prefEnableKeepAliveProxy.accesskey  "A">
-<!ENTITY prefEnablePipelining.label          "使用Pipelining">
+<!ENTITY prefEnablePipelining.label          "使用 Pipelining">
 <!ENTITY prefEnablePipelining.accesskey      "P">
 <!ENTITY prefEnablePipeliningProxy.accesskey "N">
 <!ENTITY prefPara                            "HTTP 連線方式可經由這些選項來微調效能或相容性。像有些 Proxy 代理伺服器就要使用 HTTP/1.0。（請看版本資訊以獲得進一步資訊）">

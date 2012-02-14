@@ -1,10 +1,10 @@
-<!ENTITY privatebrowsingpage.title                 "私密瀏覽">
-<!ENTITY privatebrowsingpage.title.normal          "您要開始私密瀏覽嗎？">
+<!ENTITY privatebrowsingpage.title                 "隱私瀏覽模式">
+<!ENTITY privatebrowsingpage.title.normal          "您要開始使用隱私瀏覽模式嗎？">
 
 <!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; 不會記錄此瀏覽狀態的任何記錄。">
-<!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; 目前不在私密瀏覽模式。">
+<!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; 目前不在隱私瀏覽模式。">
 
-<!ENTITY privatebrowsingpage.description               "在私密瀏覽狀態下，&brandShortName; 不會留下任何瀏覽記錄、搜尋記錄、下載記錄、網頁表單輸入內容、Cookie、Internet 暫存檔案。然而，下載的檔案及新增的書籤將被保留。">
+<!ENTITY privatebrowsingpage.description               "在隱私瀏覽狀態下，&brandShortName; 不會留下任何瀏覽記錄、搜尋記錄、下載記錄、網頁表單輸入內容、Cookie、暫存檔案。然而，下載的檔案及新增的書籤將被保留。">
 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
@@ -12,7 +12,7 @@
 <!ENTITY privatebrowsingpage.clearRecentHistoryInner   "清除最近的歷史記錄">
 <!ENTITY privatebrowsingpage.clearRecentHistoryAfter   "。">
 
-<!ENTITY privatebrowsingpage.startPrivateBrowsing.label "開始私密瀏覽">
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.label "進入隱私瀏覽模式">
 <!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "P">
 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStop2): please leave &basePBMenu.label; intact in the translation -->
