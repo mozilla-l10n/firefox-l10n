@@ -9,7 +9,7 @@
 
 <!ENTITY  mismatch.win.title              "Nekompatibilni dodaci">
 <!ENTITY  mismatch.top.label              "Sljedeći dodaci nisu kompatibilni s ovom inačicom
-                                           &brandShortName; stoga su onemogućeni:">
+                                           &brandShortName;a stoga su onemogućeni:">
 <!ENTITY  mismatch.bottom.label           "&brandShortName; može provjeriti jesu li dostupne kompatibilne
                                            inačice ovih dodataka.">
 
