@@ -103,15 +103,15 @@
 <!ENTITY aboutCommPluginsCmd.label			"關於 Plug-ins">
 <!ENTITY aboutCommPluginsCmd.accesskey			"P">
 
-<!ENTITY direct.label                                   "連線 (proxy:無)">
+<!ENTITY direct.label                                   "連線（Proxy: 無）">
 <!ENTITY direct.accesskey                               "n">
-<!ENTITY manual.label                                   "連線 (proxy:手動)">
+<!ENTITY manual.label                                   "連線（Proxy: 手動）">
 <!ENTITY manual.accesskey                               "M">
-<!ENTITY pac.label                                      "連線 (proxy:自動設位址)">
+<!ENTITY pac.label                                      "連線（Proxy: 自動設定）">
 <!ENTITY pac.accesskey                                  "A">
-<!ENTITY wpad.label                                     "連線 (proxy:自動搜尋)">
+<!ENTITY wpad.label                                     "連線（Proxy: 自動搜尋）">
 <!ENTITY wpad.accesskey                                 "D">
-<!ENTITY system.label                                   "線上（代理伺服器: 系統代理伺服器）">
+<!ENTITY system.label                                   "連線（Proxy: 系統 Proxy）">
 <!ENTITY system.accesskey                               "S">
 
 <!ENTITY proxy.label                                    "設定 Proxy …">

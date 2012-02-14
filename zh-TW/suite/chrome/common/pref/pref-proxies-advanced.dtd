@@ -8,7 +8,7 @@
 <!ENTITY  ssl.accesskey               "L">
 <!ENTITY  ftp.label                   "FTP Proxy:">
 <!ENTITY  ftp.accesskey               "F">
-<!ENTITY  reuseProxy.label            "對 SSL，FTP，Gopher 使用此設定">
+<!ENTITY  reuseProxy.label            "將 HTTP Proxy 設定套用到所有通訊協定">
 <!ENTITY  reuseProxy.accesskey        "U">
 <!ENTITY  port.label                  "Port:">
 <!ENTITY  HTTPPort.accesskey          "P">

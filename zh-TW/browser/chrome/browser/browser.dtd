@@ -9,7 +9,7 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(私密瀏覽)">
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(隱私瀏覽)">
 
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "重新載入分頁">
@@ -275,9 +275,9 @@ can reach it easily. -->
 <!ENTITY clearRecentHistory.accesskey           "H">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
-<!ENTITY privateBrowsingCmd.start.label         "開始私密瀏覽">
+<!ENTITY privateBrowsingCmd.start.label         "進入隱私瀏覽模式">
 <!ENTITY privateBrowsingCmd.start.accesskey     "P">
-<!ENTITY privateBrowsingCmd.stop.label          "停止私密瀏覽">
+<!ENTITY privateBrowsingCmd.stop.label          "停止隱私瀏覽模式">
 <!ENTITY privateBrowsingCmd.stop.accesskey      "p">
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
