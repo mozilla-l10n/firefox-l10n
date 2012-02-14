@@ -35,7 +35,7 @@
 <!ENTITY reloadPlugin.middle                                 "ਪੇਜ਼ ਮੁੜ-ਲੋਡ ਕਰੋ">
 <!ENTITY reloadPlugin.post                                   " ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰਨ ਲਈ।">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.checkbox                                     "…ਅਤੇ ਕਰੈਸ਼ ਰਿਪੋਰਟ ਭੇਜੋ">
+<!ENTITY report.please                                       "ਕਰੈਸ਼ ਰਿਪੋਰਟ ਭੇਜੋ">
 <!ENTITY report.submitting                                   "ਰਿਪੋਰਟ ਭੇਜੀ ਜਾ ਰਹੀ ਹੈ…">
 <!ENTITY report.submitted                                    "ਕਰੈਸ਼ ਰਿਪੋਰਟ ਭੇਜੀ ਗਈ।">
 <!ENTITY report.disabled                                     "ਕਰੈਸ਼ ਰਿਪੋਰਟ ਭੇਜਣੀ ਆਯੋਗ ਹੈ।">
