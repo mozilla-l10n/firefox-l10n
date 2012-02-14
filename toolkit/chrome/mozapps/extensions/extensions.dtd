@@ -1,5 +1,10 @@
 <!ENTITY addons.windowTitle                   "Додатки">
+
 <!ENTITY search.placeholder                   "Шукати серед усіх додатків">
+<!-- LOCALIZATION NOTE (search.commandKey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "Ш">
+
 <!ENTITY loading.label                        "Завантаження…">
 <!ENTITY listEmpty.installed.label            "У вас не встановлено жодного додатку цього типу">
 <!ENTITY listEmpty.availableUpdates.label     "Оновлень не знайдено">
