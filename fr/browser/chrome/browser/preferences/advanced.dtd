@@ -53,9 +53,9 @@
 <!ENTITY limitCacheSizeBefore.label      "Limiter le cache à">
 <!ENTITY limitCacheSizeBefore.accesskey  "L">
 <!ENTITY limitCacheSizeAfter.label       "Mo d'espace disque">
-<!ENTITY clearCacheNow.label             "Vider le cache maintenant">
+<!ENTITY clearCacheNow.label             "Vider maintenant">
 <!ENTITY clearCacheNow.accesskey         "V">
-<!ENTITY clearOfflineAppCacheNow.label   "Vider le cache maintenant">
+<!ENTITY clearOfflineAppCacheNow.label   "Vider maintenant">
 <!ENTITY clearOfflineAppCacheNow.accesskey "d">
 <!ENTITY overrideSmartCacheSize.label    "Modifier la gestion automatique du cache">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
