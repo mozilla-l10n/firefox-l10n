@@ -96,7 +96,7 @@
 <!ENTITY saveAsMenuItem1.accesskey "S">
 <!ENTITY viewSourceMenuItem1.label "Prikaži izvorni kod">
 <!ENTITY viewSourceMenuItem1.accesskey "v">
-<!ENTITY otherActionsPrint1.label "Ispiši…">
+<!ENTITY otherActionsPrint1.label "Ispis…">
 <!ENTITY otherActionsPrint1.accesskey "p">
 
 <!-- Attachment context menu items -->

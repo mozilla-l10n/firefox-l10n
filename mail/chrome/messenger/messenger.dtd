@@ -70,7 +70,7 @@
 <!ENTITY downloadSelectedCmd.accesskey "v">
 <!ENTITY downloadStarredCmd.label "Dohvati poruke sa zvjezdicom">
 <!ENTITY downloadStarredCmd.accesskey "a">
-<!ENTITY printCmd.label "Ispiši…">
+<!ENTITY printCmd.label "Ispis…">
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Pregled ispisa">
@@ -509,7 +509,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY deleteButton.label "Obriši">
 <!ENTITY undeleteButton.label "Vrati obrisano">
 <!ENTITY markButton.label "Označi">
-<!ENTITY printButton.label "Ispiši">
+<!ENTITY printButton.label "Ispis">
 <!ENTITY stopButton.label "Stani">
 <!ENTITY throbberItem.title "Indikator aktivnosti">
 <!ENTITY junkItem.title "Neželjena pošta">
@@ -690,7 +690,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextCopyMsgMenu.accesskey "K">
 <!ENTITY contextSaveAs.label "Spremi kao…">
 <!ENTITY contextSaveAs.accesskey "S">
-<!ENTITY contextPrint.label "Ispiši…">
+<!ENTITY contextPrint.label "Ispis…">
 <!ENTITY contextPrint.accesskey "I">
 <!ENTITY contextPrintPreview.label "Pregled ispisa">
 <!ENTITY contextPrintPreview.accesskey "g">
