@@ -43,21 +43,21 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY event.title.label                  "Edit Item" >
+<!ENTITY event.title.label                  "Uredi stavku" >
 
-<!ENTITY event.dialog.keepDurationButton.tooltip   "Keep the duration when changing the end date">
-<!ENTITY event.dialog.keepDurationButton.accesskey "K">
+<!ENTITY event.dialog.keepDurationButton.tooltip   "Zadrži trajanje prilikom promjene datuma završetka">
+<!ENTITY event.dialog.keepDurationButton.accesskey "k">
 
-<!ENTITY newevent.from.label                "From" >
-<!ENTITY newevent.to.label                  "To" >
-<!ENTITY newevent.attendees.notify.label    "Notify attendees">
+<!ENTITY newevent.from.label                "Šalje" >
+<!ENTITY newevent.to.label                  "Prima" >
+<!ENTITY newevent.attendees.notify.label    "Obavjesti sudionike">
 
 <!ENTITY newevent.status.label                    "Status" >
 <!ENTITY newevent.status.accesskey                "S" >
-<!ENTITY newevent.eventStatus.none.label          "Not specified" >
+<!ENTITY newevent.eventStatus.none.label          "Nije definiran" >
 <!ENTITY newevent.eventStatus.none.accesskey      "o" >
-<!ENTITY newevent.todoStatus.none.label           "Not specified" >
-<!ENTITY newevent.eventStatus.cancelled.label     "Canceled" >
+<!ENTITY newevent.todoStatus.none.label           "Nije definiran" >
+<!ENTITY newevent.eventStatus.cancelled.label     "Otkazano" >
 <!ENTITY newevent.eventStatus.cancelled.accesskey "n" >
 <!ENTITY newevent.todoStatus.cancelled.label      "Canceled" >
 <!ENTITY newevent.status.tentative.label          "Tentative" >
