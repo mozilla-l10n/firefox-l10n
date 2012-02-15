@@ -47,7 +47,7 @@
 <!ENTITY openInBrowser.label               "Obre en el navegador">
 <!ENTITY openInBrowser.accesskey           "O">
 <!ENTITY bookmarkLinkCmd.label             "Afegeix a les adreces d'interès...">
-<!ENTITY bookmarkLinkCmd.accesskey         "a">
+<!ENTITY bookmarkLinkCmd.accesskey         "A">
 <!ENTITY copyLinkCmd.label                 "Copia l'enllaç">
 <!ENTITY copyLinkCmd.accesskey             "C">
 <!ENTITY CopyMessageId.label               "Copia l'identificador del missatge">
