@@ -79,7 +79,7 @@
 
 <!ENTITY Diskspace "Diskovni prostor">
 <!ENTITY offlineCompact.label "Sažmi mape kada se može uštedjeti više od">
-<!ENTITY offlineCompact.accesskey "Z">
+<!ENTITY offlineCompact.accesskey "m">
 <!ENTITY mb.label "MB">
 
 <!-- LOCALIZATION NOTE:
