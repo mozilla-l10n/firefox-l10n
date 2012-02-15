@@ -41,10 +41,8 @@
 <!ENTITY dontrememberActions.post.label ".">
 <!ENTITY privateBrowsingPermanent2.label "Modo permanente de navegación privada">
 <!ENTITY privateBrowsingPermanent2.accesskey "n">
-<!ENTITY rememberHistory.label "Recordar mi historial de navegación">
-<!ENTITY rememberHistory.accesskey "v">
-<!ENTITY rememberDownload.label "Recordar el historial de descargas">
-<!ENTITY rememberDownload.accesskey "R">
+<!ENTITY rememberHistory2.label "Recordar mi historial de descargas y navegación">
+<!ENTITY rememberHistory2.accesskey "o">
 <!ENTITY rememberSearchForm.label "Recordar el historial de formularios y búsquedas">
 <!ENTITY rememberSearchForm.accesskey "f">
 <!ENTITY clearOnClose.label "Limpiar el historial cuando &brandShortName; se cierre">
