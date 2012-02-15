@@ -92,7 +92,7 @@
 <!ENTITY FaxNumber.label                "Faks:">
 <!ENTITY FaxNumber.accesskey            "F">
 <!ENTITY PagerNumber.label              "Pager:">
-<!ENTITY PagerNumber.accesskey          "j">
+<!ENTITY PagerNumber.accesskey          "g">
 <!ENTITY CellularNumber.label           "Mobitel:">
 <!ENTITY CellularNumber.accesskey       "b">
 

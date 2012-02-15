@@ -1,6 +1,6 @@
 <!ENTITY messengerStartPage.label         "&brandShortName; početna stranica">
 <!ENTITY enableStartPage.label            "Kad se &brandShortName; pokrene, prikaži početnu stranicu u prostoru za poruke">
-<!ENTITY enableStartPage.accesskey        "l">
+<!ENTITY enableStartPage.accesskey        "K">
 <!ENTITY location.label                   "Lokacija:">
 <!ENTITY location1.accesskey               "o">
 <!ENTITY useDefault.label                 "Vrati zadano">
@@ -18,7 +18,7 @@
 <!ENTITY customizeMailAlert.accesskey     "a">
 
 <!ENTITY play.label                       "Reproduciraj">
-<!ENTITY play.accesskey                   "p">
+<!ENTITY play.accesskey                   "c">
 <!ENTITY systemsound.label                "Zadani sistemski zvuk za novu poruku">
 <!ENTITY systemsoundMac.label             "Sistemski zvuk obavijesti">
 <!ENTITY systemsoundMac.accesskey         "Z">

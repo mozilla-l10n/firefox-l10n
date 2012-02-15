@@ -107,7 +107,7 @@
 <!ENTITY search.filter2.installed.label       "Moji dodaci">
 <!ENTITY search.filter2.installed.tooltip     "Prikaži instalirane dodatke">
 <!ENTITY search.filter2.label                 "Traži:">
-<!ENTITY search.placeholder                   "Traži sve dodatke">
+<!ENTITY search.placeholder                   "Pretraži sve dodatke">
 <!ENTITY sort.dateUpdated.label               "Zadnja dopuna">
 <!ENTITY sort.dateUpdated.tooltip             "Sortiraj prema datumu posljednje dopune">
 <!ENTITY sort.name.label                      "Naziv">
