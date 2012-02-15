@@ -73,30 +73,6 @@
 
 <!ENTITY lightning.menu.eventtask.label                "Cites i tasques">
 <!ENTITY lightning.menu.eventtask.accesskey            "i">
-<!-- Mode Toolbar -->
-
-<!ENTITY lightning.toolbar.mail.label         "Correu">
-<!ENTITY lightning.toolbar.mail.accesskey     "o">
-<!ENTITY lightning.toolbar.calendar.label     "Calendari">
-<!ENTITY lightning.toolbar.calendar.tooltip   "Mostra la pestanya del calendari">
-<!ENTITY lightning.toolbar.calendar.accesskey "C">
-<!ENTITY lightning.toolbar.task.label         "Tasques">
-<!ENTITY lightning.toolbar.task.tooltip       "Mostra la pestanya de les tasques">
-<!ENTITY lightning.toolbar.task.accesskey     "T">
-<!-- Toolbar write button -->
-
-<!ENTITY lightning.toolbar.newevent.label     "Cita">
-<!ENTITY lightning.toolbar.newtask.label      "Tasca">
-<!-- Messenger Toolbar -->
-
-<!ENTITY lightning.toolbar.day.label                 "Vista diària">
-<!ENTITY lightning.toolbar.day.accesskey             "d">
-<!ENTITY lightning.toolbar.week.label                "Vista setmanal">
-<!ENTITY lightning.toolbar.week.accesskey            "s">
-<!ENTITY lightning.toolbar.multiweek.label           "Vista multisetmanal">
-<!ENTITY lightning.toolbar.multiweek.accesskey       "u">
-<!ENTITY lightning.toolbar.month.label               "Vista mensual">
-<!ENTITY lightning.toolbar.month.accesskey           "m">
 <!-- properties dialog, calendar creation wizard -->
 
 <!ENTITY lightning.calendarproperties.showevents.inagenda.label "Mostra les cites en el Plafó d'avui">

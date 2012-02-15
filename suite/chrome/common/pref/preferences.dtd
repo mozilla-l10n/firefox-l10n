@@ -36,5 +36,6 @@
 <!ENTITY policies.label "Polítiques de seguretat">
 <!ENTITY mousewheel.label "Rodeta del ratolí">
 <!ENTITY scriptsAndWindows.label "Scripts i connectors">
+<!ENTITY spellingPane.label  "Ortografia">
 
 <!ENTITY focusSearch.key "f">

@@ -67,6 +67,26 @@
 <!ENTITY selectAllCmd.key             "a">
 <!ENTITY selectAllCmd.accesskey       "a">
 
+<!ENTITY findCmd.label                "Cerca...">
+<!ENTITY findCmd.key                  "F">
+<!ENTITY findCmd.accesskey            "C">
+
+<!ENTITY findAgainCmd.label           "Torna a cercar...">
+<!-- LOCALIZATION NOTE (findAgainCmd.key): This key is used only on Macs.
+  -  Windows and Linux builds use the F3 key which is not localizable on purpose.
+  -->
+<!ENTITY findAgainCmd.key             "G">
+<!ENTITY findAgainCmd.accesskey       "T">
+<!-- LOCALIZATION NOTE (findPreviousCmd.key): This key is used only on Macs.
+  -  Windows and Linux builds use the Shift-F3 key which is not localizable on
+  -  purpose.
+  -->
+<!ENTITY findPreviousCmd.key          "G">
+
+<!ENTITY gotoLineCmd.label            "Salta a la línia...">
+<!ENTITY gotoLineCmd.key              "J">
+<!ENTITY gotoLineCmd.accesskey        "S">
+
 <!ENTITY run.label                    "Executa">
 <!ENTITY run.accesskey                "E">
 <!ENTITY run.key                      "e">

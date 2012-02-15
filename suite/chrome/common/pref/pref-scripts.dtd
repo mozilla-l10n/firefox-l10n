@@ -18,6 +18,8 @@
 <!ENTITY allowHideStatusBar.label        "Amagar la barra d'estat">
 
 <!ENTITY enablePlugin.label              "Habilita els connectors per a">
+<!ENTITY enablePluginForSuite.label      "Suite">
+<!ENTITY enablePluginForSuite.accesskey  "u">
 
 <!ENTITY whenPluginsRequired.label       "Quan calguin connectors addicionals:">
 <!ENTITY displayNotification.label       "Mostra una barra de notificació a la part superior de l'àrea de contingut">

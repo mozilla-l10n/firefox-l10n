@@ -360,8 +360,6 @@
 <!ENTITY event.freebusy.next.slot               "Franja següent" >
 <!ENTITY event.freebusy.previous.slot           "Franja anterior" >
 <!ENTITY event.freebusy.zoom                    "Escala:">
-<!ENTITY event.freebusy.plus                    "Hora següent" >
-<!ENTITY event.freebusy.minus                   "Hora anterior" >
 <!ENTITY event.freebusy.legend.free             "Lliure" >
 <!ENTITY event.freebusy.legend.busy             "Ocupada" >
 <!ENTITY event.freebusy.legend.busy_tentative   "Intent" >

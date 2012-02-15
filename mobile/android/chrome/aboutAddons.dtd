@@ -1,5 +1,5 @@
 <!ENTITY aboutAddons.title                      "Gestor de complements">
-<!ENTITY aboutAddons.header                     "Complements">
+<!ENTITY aboutAddons.header2                    "Els vostres complements">
 <!ENTITY aboutAddons.options                    "Opcions">
 
 <!ENTITY addonAction.enable                     "Habilita">

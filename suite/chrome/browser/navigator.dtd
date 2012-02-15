@@ -16,8 +16,8 @@
 
 <!ENTITY navbarCmd.label "Barra de navegació">
 <!ENTITY navbarCmd.accesskey "n">
-<!ENTITY personalbarCmd.label "Barra de les adreces d'interès">
-<!ENTITY personalbarCmd.accesskey "d">
+<!ENTITY bookmarksToolbarCmd.label     "Barra de les adreces d'interès">
+<!ENTITY bookmarksToolbarCmd.accesskey "a">
 
 <!ENTITY closeWindow.label "Tanca la finestra">
 <!ENTITY closeWindow.accesskey "f">
@@ -29,7 +29,7 @@
 <!ENTITY feedsMenu.accesskey "S">
 
 <!ENTITY menuBar.tooltip                  "Barra de menús">
-<!ENTITY personalToolbar.tooltip          "Barra de les adreces d'interès">
+<!ENTITY bookmarksToolbar.tooltip         "Barra de les adreces d'interès">
 <!ENTITY navigationToolbar.tooltip        "Barra de navegació">
 <!-- Toolbar items --> 
 

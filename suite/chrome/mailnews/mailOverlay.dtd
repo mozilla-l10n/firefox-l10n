@@ -5,4 +5,6 @@
  
 <!ENTITY  newContactCmd.label             "Contacte de la llibreta d'adreces…">
 <!ENTITY  newContactCmd.accesskey         "C">
-
+ 
+<!ENTITY printButton.label "Imprimeix">
+<!ENTITY printButton.tooltip "Imprimeix aquest missatge">

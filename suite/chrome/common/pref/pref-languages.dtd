@@ -23,10 +23,3 @@
 <!ENTITY languages.customize.moveUp.accesskey           "u">
 <!ENTITY languages.customize.moveDown.label             "Avall">
 <!ENTITY languages.customize.moveDown.accesskey         "v">
-
-<!ENTITY spelling.label                                 "Ortografia">
-<!ENTITY checkSpelling.label                            "Verifica l'ortografia mentre s'escriu:">
-<!ENTITY checkSpelling.accesskey                        "V">
-<!ENTITY dontCheckSpelling.label                        "Mai">
-<!ENTITY multilineCheckSpelling.label                   "En els quadres multilineals">
-<!ENTITY alwaysCheckSpelling.label                      "En tots els quadres">

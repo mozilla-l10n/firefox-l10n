@@ -81,6 +81,8 @@
 <!ENTITY syncComputerName.accesskey   "o">
 
 <!ENTITY syncMy.label               "Sincronitza:">
+<!ENTITY engine.addons.label        "Complements">
+<!ENTITY engine.addons.accesskey    "C">
 <!ENTITY engine.bookmarks.label     "Adreces d'interès">
 <!ENTITY engine.bookmarks.accesskey "d">
 <!ENTITY engine.tabs.label          "Pestanyes">
