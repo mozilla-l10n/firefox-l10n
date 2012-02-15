@@ -299,6 +299,7 @@
 <!ENTITY thisFolder.label "Questa cartella">
 <!ENTITY thisFolder.accesskey "Q">
 <!ENTITY goRecentlyClosedTabs.label "Schede chiuse di recente">
+<!ENTITY goRecentlyClosedTabs.accesskey "S">
 <!ENTITY startPageCmd.label "Pagina di benvenuto">
 <!ENTITY startPageCmd.accesskey "b">
 <!ENTITY msgMenu.label "Messaggio">
