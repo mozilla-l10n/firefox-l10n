@@ -90,7 +90,7 @@
 <!ENTITY deleteFolderCmd.label "刪除資料夾">
 <!ENTITY deleteFolderCmd.accesskey "D">
 <!ENTITY unsubscribeNewsgroupCmd.label "取消訂閱">
-<!ENTITY unsubscribeNewsgroupCmd.accesskey "n">
+<!ENTITY unsubscribeNewsgroupCmd.accesskey "b">
 <!ENTITY selectMenu.label "選取">
 <!ENTITY selectMenu.accesskey "S">
 <!ENTITY all.label "全部">
