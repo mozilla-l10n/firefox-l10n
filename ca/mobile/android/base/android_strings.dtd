@@ -40,6 +40,7 @@
 <!ENTITY forward "Endavant">
 
 <!ENTITY new_tab "Pestanya nova">
+<!ENTITY new_tab_opened "S\'ha obert una pestanya nova">
 
 <!ENTITY settings "Opcions">
 <!ENTITY settings_title "Opcions">
