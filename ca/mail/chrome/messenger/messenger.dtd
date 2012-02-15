@@ -333,6 +333,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY thisFolder.label "Aquesta carpeta">
 <!ENTITY thisFolder.accesskey "A">
 <!ENTITY goRecentlyClosedTabs.label "Pestanyes tancades recentment">
+<!ENTITY goRecentlyClosedTabs.accesskey "r">
 <!ENTITY startPageCmd.label "Pàgina d'inici de la Missatgeria">
 <!ENTITY startPageCmd.accesskey "s">
 <!-- Message Menu -->

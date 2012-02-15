@@ -4,7 +4,6 @@
 <!ENTITY     props.path.label               "Camí:">
 <!ENTITY     props.secure.label             "Enviat per a:">
 <!ENTITY     props.expires.label            "Venciment:">
-<!ENTITY     props.policy.label             "Normes d'ús:"> 
 
 <!ENTITY     button.allow.label             "Permet">
 <!ENTITY     button.allow.accesskey         "P">

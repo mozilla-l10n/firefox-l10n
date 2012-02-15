@@ -35,8 +35,36 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY lightning.toolbar.calendar.name "Barra d'eines del calendari">
-<!ENTITY lightning.toolbar.calendar.accesskey "c">
+<!ENTITY lightning.toolbar.calendar.accesskey "C">
 <!ENTITY lightning.toolbar.task.name "Barra d'eines de les tasques">
-<!ENTITY lightning.toolbar.task.accesskey "t">
+<!ENTITY lightning.toolbar.task.accesskey "T">
 
 <!ENTITY lightning.toolbar.sync.label "Sincronitza">
+<!ENTITY lightning.toolbar.delete.label "Suprimeix">
+<!ENTITY lightning.toolbar.edit.label "Edita">
+<!ENTITY lightning.toolbar.gototoday.label "Vés al dia">
+<!ENTITY lightning.toolbar.print.label "Imprimeix">
+<!-- Mode Toolbar -->
+
+<!ENTITY lightning.toolbar.mail.label         "Correu">
+<!ENTITY lightning.toolbar.mail.accesskey     "u">
+<!ENTITY lightning.toolbar.calendar.label     "Calendari">
+<!ENTITY lightning.toolbar.calendar.tooltip   "Mostra la pestanya del calendari">
+<!ENTITY lightning.toolbar.calendar.accesskey "c">
+<!ENTITY lightning.toolbar.task.label         "Tasques">
+<!ENTITY lightning.toolbar.task.tooltip       "Mostra la pestanya de les tasques">
+<!ENTITY lightning.toolbar.task.accesskey     "t">
+<!-- Toolbar write button -->
+
+<!ENTITY lightning.toolbar.newevent.label     "Cita">
+<!ENTITY lightning.toolbar.newtask.label      "Tasca">
+<!-- Calendar and Task Mode Toolbar -->
+
+<!ENTITY lightning.toolbar.day.label                 "Dia">
+<!ENTITY lightning.toolbar.day.accesskey             "D">
+<!ENTITY lightning.toolbar.week.label                "Setmana">
+<!ENTITY lightning.toolbar.week.accesskey            "S">
+<!ENTITY lightning.toolbar.multiweek.label           "Diverses setmanes">
+<!ENTITY lightning.toolbar.multiweek.accesskey       "v">
+<!ENTITY lightning.toolbar.month.label               "Mes">
+<!ENTITY lightning.toolbar.month.accesskey           "M">

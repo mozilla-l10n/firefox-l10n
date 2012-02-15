@@ -44,6 +44,10 @@
 <!ENTITY CopyEmailAddress.accesskey        "C">
 <!ENTITY CreateFilterFrom.label            "Crea un filtre de…">
 <!ENTITY CreateFilterFrom.accesskey        "f">
+<!ENTITY openInBrowser.label               "Obre en el navegador">
+<!ENTITY openInBrowser.accesskey           "O">
+<!ENTITY bookmarkLinkCmd.label             "Afegeix a les adreces d'interès...">
+<!ENTITY bookmarkLinkCmd.accesskey         "a">
 <!ENTITY copyLinkCmd.label                 "Copia l'enllaç">
 <!ENTITY copyLinkCmd.accesskey             "C">
 <!ENTITY CopyMessageId.label               "Copia l'identificador del missatge">

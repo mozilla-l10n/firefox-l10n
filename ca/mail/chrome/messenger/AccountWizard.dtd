@@ -60,14 +60,17 @@
 <!ENTITY portNum.accesskey "o">
 <!ENTITY defaultPortLabel.label "Predeterminat:">
 <!ENTITY defaultPortValue.label "">
-<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
+<!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
+     haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
 -->
 
-
+<!ENTITY modifyOutgoing.suffix "Podeu canviar els servidors de sortida anant a les opcions del compte.">
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
+-->
 <!ENTITY haveSmtp1.prefix "S'utilitzarà el vostre servidor de sortida (SMTP), &quot;">
-<!ENTITY haveSmtp1.suffix2 "&quot;. Podeu modificar els paràmetres dels vostres servidors de sortida en les opcions del compte. ">
+<!ENTITY haveSmtp1.suffix3 "&quot;.">
 <!-- Entities for Login page -->
 
 
@@ -80,18 +83,18 @@
 <!ENTITY usernameSmtpDesc.label "Introduïu el nom d'usuari de sortida que us ha donat el vostre proveïdor de correu electrònic (aquest típicament és el mateix que el nom d'usuari d'entrada).">
 <!ENTITY usernameSmtpLabel.label "Nom d'usuari de sortida:">
 <!ENTITY usernameSmtpLabel.accesskey "o">
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "S'utilitzarà el vostre nom d'usuari de sortida (SMTP), &quot;">
-<!ENTITY haveSmtp2.suffix2 "&quot;. Podeu modificar els vostres servidors de sortida en les opcions del compte.">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
+<!ENTITY haveSmtp2.suffix3 "&quot;.">
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp3.prefix "S'utilitzarà el vostre servidor de sortida (SMTP), &quot;">
-<!ENTITY haveSmtp3.suffix2 "&quot;, és idèntic al vostre servidor d'entrada, el vostre nom d'usuari entrant s'utilitzarà per accedir-hi. Podeu modificar la configuració dels vostres servidors de sortida en les opcions del compte.">
+<!ENTITY haveSmtp3.prefix "El vostre servidor de sortida (SMTP), &quot;">
+<!ENTITY haveSmtp3.suffix3 "&quot; és idèntic al vostre servidor d'entrada, per tant també s'utilitzarà el mateix usuari per accedir-hi.">
 <!-- Entities for Account name page -->
 
 
