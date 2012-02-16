@@ -6,6 +6,7 @@
 <!-- Main titles. -->
 <!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
 <!ENTITY sync.title.connect.label 'Conectar a &syncBrand.shortName.label;'>
+<!ENTITY sync.title.adddevice.label 'Agregar una cuenta de &syncBrand.fullName.label;'>
 <!ENTITY sync.title.pair.label 'Asociar un dispositivo'>
 
 <!-- J-PAKE Key Screen -->

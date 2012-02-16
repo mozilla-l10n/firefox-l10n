@@ -16,7 +16,13 @@
 <!ENTITY aboutSupport.appBasicsTitle "Esenciales de la aplicación">
 <!ENTITY aboutSupport.appBasicsName "Nombre">
 <!ENTITY aboutSupport.appBasicsVersion "Versión">
-<!ENTITY aboutSupport.appBasicsProfileDir "Directorio de perfil">
+
+<!ENTITY aboutSupport.appBasicsProfileDir "Directorio del perfil">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Carpeta del perfil">
+
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Plugins habilitados">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configuración de compilación">
 <!ENTITY aboutSupport.appBasicsUserAgent "Agente de usuario">
