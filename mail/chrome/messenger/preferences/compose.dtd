@@ -11,7 +11,7 @@
 
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Font:">
-<!ENTITY font.accesskey                       "l">
+<!ENTITY font.accesskey                       "F">
 <!ENTITY size.label                           "Veličina:">
 <!ENTITY size.accesskey                       "V">
 <!ENTITY fontColor.label                      "Boja teksta:">
