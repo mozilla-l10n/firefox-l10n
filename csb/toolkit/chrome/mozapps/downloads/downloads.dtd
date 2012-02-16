@@ -25,7 +25,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.openWith.accesskey           "z">
 <!ENTITY cmd.retry.label                  "Zladëjë znowa">
 <!ENTITY cmd.retry.accesskey              "l">
-<!ENTITY cmd.goToDownloadPage.label       "Biéj do starnë zladënkù">
+<!ENTITY cmd.goToDownloadPage.label       "Biéj do stronë zladënkù">
 <!ENTITY cmd.goToDownloadPage.accesskey   "s">
 <!ENTITY cmd.copyDownloadLink.label       "Kòpérëjë adresã zladënkù">
 <!ENTITY cmd.copyDownloadLink.accesskey   "d">
@@ -36,7 +36,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.close2.commandKey            "j">
 <!ENTITY cmd.close2Unix.commandKey        "y">
 <!ENTITY cmd.clearList.label              "Wëczëszczë lëstã">
-<!ENTITY cmd.clearList.tooltip            "Rëmôj z lëstë lopczi, chtërnëch zladënk je skùńczony, òprzestóny abò nie darzëł sã">
+<!ENTITY cmd.clearList.tooltip            "Rëmôj z lëstë lopczi, chtërnëch zladënk je skùńczony, òprzestóny abò nie darził sã">
 <!ENTITY cmd.clearList.accesskey          "W">
 <!ENTITY cmd.find.commandKey              "f">
 <!ENTITY cmd.search.commandKey            "k">

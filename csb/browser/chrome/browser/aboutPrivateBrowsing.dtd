@@ -18,7 +18,7 @@
 <!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; nie spamiãtô historii przezéraniô dlô ti sesji.">
 <!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; nie robi terô w tribie priwatnegò przezéraniô.">
 
-<!ENTITY privatebrowsingpage.description               "Przë priwatny sesji, &brandShortName; nie spamiãtôj historii przezéraniô, szëkbë, historii zladënkù lopków ë pòdôwków. Równak bãdze trzëmôł kùszczi z gòscónëch starnów ë zladowóné lopczi.">
+<!ENTITY privatebrowsingpage.description               "Przë priwatny sesji, &brandShortName; nie spamiãtôj historii przezéraniô, szëkbë, historii zladënkù lopków ë pòdôwków. Równak bãdze trzëmôł kùszczi z gòscónëch stronów ë zladowóné lopczi.">
 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
@@ -34,5 +34,5 @@
 <!ENTITY privatebrowsingpage.howToStop2                "Bë zatrzëmac Priwatné Przezéranié, webiérzë &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label; abò zamkni program &brandShortName;.">
 <!ENTITY privatebrowsingpage.howToStart2               "Bë nacząc Priwatné Przezéranié, mòżesz téż wëbrac &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;.">
 
-<!ENTITY privatebrowsingpage.moreInfo                  "Nawet jeżlë nen kòmpùtr nie zapisëje terô historii przezéraniô, Twój dostôwca sécë abò robòtodôwca wcyg mòże sprôwdzëc jaczé starnë môsz òbzéróné.">
+<!ENTITY privatebrowsingpage.moreInfo                  "Nawet jeżlë nen kòmpùtr nie zapisëje terô historii przezéraniô, Twój dostôwca sécë abò robòtodôwca wcyg mòże sprawdzëc, jaczé stronë môsz òbzéróné.">
 <!ENTITY privatebrowsingpage.learnMore                 "Wicy wëdowiédzë">

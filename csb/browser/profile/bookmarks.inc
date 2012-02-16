@@ -7,8 +7,8 @@
 #define bookmarks_title Załóżczi
 #define bookmarks_heading Załóżczi
 
-#define bookmarks_toolbarfolder Katalog nôrzãdzów załóżków
-#define bookmarks_toolbarfolder_description Dodôj załóżczi do tegò katalogù bë widzec je wëskrzënioné w nôrzãdzach załóżków
+#define bookmarks_toolbarfolder Katalog nôrzãdłów załóżków
+#define bookmarks_toolbarfolder_description Dodôj załóżczi do tegò katalogù bë widzec je wëskrzënioné w nôrzãdłach załóżków
 
 # LOCALIZATION NOTE (getting_started):
 # link title for http://en-US.www.mozilla.com/en-US/firefox/central/

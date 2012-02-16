@@ -13,7 +13,7 @@
 -->
 <!ENTITY tracking.label                 "Szlachòwanié">
 
-<!ENTITY doNotTrack.label               "Wëłączë szlachòwanié z ti starnë">
+<!ENTITY doNotTrack.label               "Wëłączë szlachòwanié z ti stronë">
 <!ENTITY doNotTrack.accesskey           "W">
 
 <!ENTITY  history.label                 "Historiô">
@@ -32,7 +32,7 @@
 <!ENTITY  acceptCookies.label           "Akceptëjë kùszczi">
 <!ENTITY  acceptCookies.accesskey       "A">
 
-<!ENTITY  acceptThirdParty.label        "Akceptëjë kùszczi z jinszëch starnów">
+<!ENTITY  acceptThirdParty.label        "Akceptëjë kùszczi z jinszëch stronów">
 <!ENTITY  acceptThirdParty.accesskey    "k">
 
 <!ENTITY  keepUntil.label               "Trzëmôj:">
@@ -55,7 +55,7 @@
 <!ENTITY  historyHeader.custom.label       "Brëkùjë swòjich nastôwów historii">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; spamiãtô historiã przezéraniô, szëkbë, zladënkù lopków ë pòdôwków fòrmùlôrzów, bãdze trzëmôł téż kùszczi z òdwiedzónëch starnów,">
+<!ENTITY  rememberDescription.label      "&brandShortName; spamiãtô historiã przezéraniô, szëkbë, zladënkù lopków ë pòdôwków fòrmùlôrzów, bãdze trzëmôł téż kùszczi z òdwiedzónëch stronów,">
 
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
@@ -66,7 +66,7 @@
 <!ENTITY  rememberActions.removeCookies.label "rëmnąc pòjedińcze kùszczi">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  dontrememberDescription.label  "Program &brandShortName; bãdze brëkòwôł tich sómëch nastôwów co w priwatnym tribie ë nie bãdze pamiãtôł historii przë przezéranim starnów WWW.">
+<!ENTITY  dontrememberDescription.label  "Program &brandShortName; bãdze brëkòwôł tich sómëch nastôwów co w priwatnym tribie ë nie bãdze pamiãtôł historii przë przezéranim stronów WWW.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->

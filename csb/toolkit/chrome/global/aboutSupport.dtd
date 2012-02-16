@@ -8,9 +8,9 @@
 <!ENTITY aboutSupport.pageTitle "Wëdowiédzô ò felach">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
-<!ENTITY aboutSupport.pageSubtitle "Na starna zamikô w se techniczną  wëdowiédzô chtërna mòże sã przëdac czej chcesz
+<!ENTITY aboutSupport.pageSubtitle "Na strona zamikô w se techniczną  wëdowiédzô chtërna mòże sã przëdac czej chcesz
   rozwiązac problemë. Żle szëkôsz òdpowiescë dlô tipicznëch pëtaniów
-  ò &brandShortName;, sprôwdzë naszą <a id='supportLink'> starnë wspiarca</a>.
+  ò &brandShortName;, sprôwdzë naszą <a id='supportLink'> stronë wspiarca</a>.
        ">
 
 <!ENTITY aboutSupport.extensionsTitle "Roszerzénia">

@@ -12,20 +12,20 @@
 
 <!ENTITY backButton.label               "Nazôd">
 <!ENTITY backButton.accesskey           "N">
-<!ENTITY backButton.tooltip             "Biéj jedną starnã nazôd">
+<!ENTITY backButton.tooltip             "Biéj jedną stronã nazôd">
 <!ENTITY forwardButton.label            "Do przódkù">
 <!ENTITY forwardButton.accesskey        "D">
-<!ENTITY forwardButton.tooltip          "Biéj jedna starnã do przódkù">
+<!ENTITY forwardButton.tooltip          "Biéj jedna stronã do przódkù">
 <!ENTITY copyCmd.label                  "Kòpérëjë">
 <!ENTITY copyCmd.accesskey              "K">
 <!ENTITY selectAllCmd.label             "Wëbierzë wszëtkò">
 <!ENTITY selectAllCmd.accesskey         "W">
 <!ENTITY goBackCmd.commandkey           "[">
 <!ENTITY goForwardCmd.commandkey        "]">
-<!ENTITY homeButton.label               "Domôcô starna">
-<!ENTITY homeButton.tooltip             "Biéj do startowy starnë pòmòcë">
+<!ENTITY homeButton.label               "Domôcô strona">
+<!ENTITY homeButton.tooltip             "Biéj do startowy stronë pòmòcë">
 <!ENTITY printButton.label              "Drëkòwanié">
-<!ENTITY printButton.tooltip            "Drëkùjë tã starnã">
+<!ENTITY printButton.tooltip            "Drëkùjë tã stronã">
 <!ENTITY closeWindow.commandkey         "W">
 
 <!ENTITY search.emptytext               "Szëkba">
@@ -52,7 +52,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY zLevel.label                   "Wiedno ne wiérzkù">
 <!ENTITY zLevel.accesskey               "W">
 
-<!ENTITY fullZoomReduceBtn.label        "Zmiészë">
+<!ENTITY fullZoomReduceBtn.label        "Zmniészë">
 <!ENTITY fullZoomReduceBtn.accesskey    "Z">
 <!ENTITY fullZoomEnlargeBtn.label       "Zwikszë">
 <!ENTITY fullZoomEnlargeBtn.accesskey   "i">

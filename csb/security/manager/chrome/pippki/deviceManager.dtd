@@ -42,9 +42,9 @@
 #
 -->
 
-<!ENTITY devmgr.title                           "Menadżera ùrządzeń">
+<!ENTITY devmgr.title                           "Menadżera ùrzãdzeniów">
 
-<!ENTITY devmgr.devlist.label                   "Mòdułë ë ùrządzenia bezpiekù">
+<!ENTITY devmgr.devlist.label                   "Mòdułë ë ùrzãdzenia bezpiekù">
 <!ENTITY devmgr.details.title                   "Detale">
 <!ENTITY devmgr.details.title2                  "Wôrtnota">
 <!ENTITY devmgr.status.label                    "Stón">
@@ -73,4 +73,4 @@
 <!ENTITY loaddevice.browse                      "Przezérôj…">
 <!ENTITY loaddevice.browse.accesskey            "P">
 
-<!ENTITY loaddevice.title                       "Zaladëjë ùrządzenié PKCS#11">
+<!ENTITY loaddevice.title                       "Zaladëjë ùrzãdzenié PKCS#11">

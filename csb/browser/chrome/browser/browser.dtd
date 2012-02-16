@@ -59,12 +59,12 @@ can reach it easily. -->
 <!ENTITY tabCmd.label "Nowô kôrta">
 <!ENTITY tabCmd.accesskey "t">
 <!ENTITY tabCmd.commandkey "t">
-<!ENTITY openLocationCmd.label "Òtemkni adresã…">
+<!ENTITY openLocationCmd.label "Òtemkni adres…">
 <!ENTITY openLocationCmd.accesskey "a">
 <!ENTITY openFileCmd.label "Òtemkni lopk…">
 <!ENTITY openFileCmd.accesskey "l">
 <!ENTITY openFileCmd.commandkey "l">
-<!ENTITY printSetupCmd.label "Nastôwë starnë…">
+<!ENTITY printSetupCmd.label "Nastôwë stronë…">
 <!ENTITY printSetupCmd.accesskey "s">
 <!ENTITY printPreviewCmd.label "Pòdzérk drëkù">
 <!ENTITY printPreviewCmd.accesskey "ò">
@@ -77,7 +77,7 @@ can reach it easily. -->
 
 <!ENTITY menubarCmd.label "Lëstew menu">
 <!ENTITY menubarCmd.accesskey "m">
-<!ENTITY navbarCmd.label "Lëstew nawigacjowëch nôrzãdzów">
+<!ENTITY navbarCmd.label "Lëstew nawigacjowëch nôrzãdłów">
 <!ENTITY navbarCmd.accesskey "n">
 <!ENTITY personalbarCmd.label "Lëstew załóżków">
 <!ENTITY personalbarCmd.accesskey "z">
@@ -85,10 +85,10 @@ can reach it easily. -->
 <!ENTITY addonBarCmd.label "Lëstew dodôwków">
 <!ENTITY addonBarCmd.accesskey "t">
 
-<!ENTITY pageSourceCmd.label "Zdrój starnë">
+<!ENTITY pageSourceCmd.label "Zdrój stronë">
 <!ENTITY pageSourceCmd.accesskey "d">
 <!ENTITY pageSourceCmd.commandkey "u">
-<!ENTITY pageInfoCmd.label "Wëdowiédzô ò starnie">
+<!ENTITY pageInfoCmd.label "Wëdowiédzô ò stronie">
 <!ENTITY pageInfoCmd.accesskey "W">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY fullScreenCmd.label "Fùlekranowi trib">
@@ -100,7 +100,7 @@ can reach it easily. -->
 <!ENTITY fullScreenMinimize.tooltip "Minimalizëjë">
 <!ENTITY fullScreenRestore.tooltip "Doprowôdzë nazôd">
 <!ENTITY fullScreenClose.tooltip "Zamkni">
-<!ENTITY fullScreenAutohide.label "Zatacë lëstew nôrzãdzów">
+<!ENTITY fullScreenAutohide.label "Zatacë lëstew nôrzãdłów">
 <!ENTITY fullScreenAutohide.accesskey "Z">
 <!ENTITY fullScreenExit.label "Wińdzenié z fùlekranowégò tribù">
 <!ENTITY fullScreenExit.accesskey "ń">
@@ -113,8 +113,8 @@ can reach it easily. -->
 <!ENTITY bookmarksMenu.accesskey "Z">
 <!ENTITY bookmarkThisPageCmd.label "Dodôj do załóżków">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY subscribeToPageMenupopup.label "Subskribùjë tã starnã">
-<!ENTITY subscribeToPageMenuitem.label "Subskribùjë tã starnã…">
+<!ENTITY subscribeToPageMenupopup.label "Subskribùjë tã stronã">
+<!ENTITY subscribeToPageMenuitem.label "Subskribùjë tã stronã…">
 <!ENTITY addCurPagesCmd.label "Dodôj wszëtczé kôrtë do załóżków…">
 <!ENTITY showAllBookmarks2.label "Wëskrzëni wszëtczé załóżczi">
 <!ENTITY unsortedBookmarksCmd.label "Niepòzortowóné załóżczi">
@@ -122,25 +122,25 @@ can reach it easily. -->
 
 <!ENTITY backCmd.label                "Nazôd">
 <!ENTITY backCmd.accesskey            "N">
-<!ENTITY backButton.tooltip           "Biéj jedną starnã nazôd">
+<!ENTITY backButton.tooltip           "Biéj jedną stronã nazôd">
 <!ENTITY forwardCmd.label             "Do przódkù">
 <!ENTITY forwardCmd.accesskey         "P">
-<!ENTITY forwardButton.tooltip        "Biéj jedną starnã do przódkù">
+<!ENTITY forwardButton.tooltip        "Biéj jedną stronã do przódkù">
 <!ENTITY backForwardButtonMenu.tooltip "Klëkni prawą knąpã abò przecygni żebë wëskrzenic historiã">
 <!ENTITY backForwardButtonMenuMac.tooltip "Przecygni żebë wëskrzenic historiã">
 <!ENTITY reloadCmd.label              "Zladëjë znowa">
 <!ENTITY reloadCmd.accesskey          "O">
-<!ENTITY reloadButton.tooltip         "Zladëjë tã starnã znowa">
+<!ENTITY reloadButton.tooltip         "Zladëjë tã stronã znowa">
 <!ENTITY stopCmd.label                "Zatrzëmôj">
 <!ENTITY stopCmd.accesskey            "Z">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Zatrzëmôj ladowanié ti starnë">
-<!ENTITY goEndCap.tooltip             "Biéj do starnë z pòdóną adresą">
+<!ENTITY stopButton.tooltip           "Zatrzëmôj ladowanié ti stronë">
+<!ENTITY goEndCap.tooltip             "Biéj do stronë z pòdónym adresã">
 <!ENTITY printButton.label            "Drëkùjë">
-<!ENTITY printButton.tooltip          "Drëkùjë tã starnã">
+<!ENTITY printButton.tooltip          "Drëkùjë tã stronã">
 
 <!ENTITY backForwardItem.title        "Dowslôdë/Wprzódk">
-<!ENTITY locationItem.title           "Adresa">
+<!ENTITY locationItem.title           "Adres">
 <!ENTITY searchItem.title             "Szëkba">
 <!ENTITY throbberItem.title           "Wskôzëwôcz aktiwnotë">
 <!ENTITY bookmarksItem.title          "Załóżczi">
@@ -148,13 +148,13 @@ can reach it easily. -->
 <!-- Toolbar items --> 
 <!ENTITY appMenuButton.label          "Menu">
 <!ENTITY appMenuButton.tooltip        "Òtemkni menu programù &brandShortName;">
-<!ENTITY homeButton.label             "Domôcô starna">
+<!ENTITY homeButton.label             "Domôcô strona">
 
 <!ENTITY tabGroupsButton.label        "Grëpë kôrtów">
 <!ENTITY tabGroupsButton.tooltip      "Grëpùjë swòjé kôrtë">
 
 <!ENTITY feedButton.label             "Subskribùjë">
-<!ENTITY feedButton.tooltip           "Subskribùjë nã starnã…">
+<!ENTITY feedButton.tooltip           "Subskribùjë nã stronã…">
 
 <!ENTITY bookmarksButton.label          "Załóżczi">
 <!ENTITY bookmarksButton.tooltip        "Wëskrzëni załóżczi">
@@ -165,7 +165,7 @@ can reach it easily. -->
 <!ENTITY bookmarksMenuButton.tooltip        "Wëskrzëni załóżczi">
 <!ENTITY bookmarksMenuButton.unsorted.label "Niepòzortowóné załóżczi">
 <!ENTITY viewBookmarksSidebar.label         "Wëskrzëni w bòczny lëstwie">
-<!ENTITY viewBookmarksToolbar.label         "Òbaczë lëstwã nôrzãdzów załóżków">
+<!ENTITY viewBookmarksToolbar.label         "Òbaczë lëstwã nôrzãdłów załóżków">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -174,11 +174,11 @@ can reach it easily. -->
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Historiô">
-<!ENTITY historyButton.tooltip          "Wëskrzëni slédno òbzéróné starnë">
+<!ENTITY historyButton.tooltip          "Wëskrzëni slédno òbzéróné stronë">
 <!ENTITY historySidebarCmd.accesskey    "H">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
-<!ENTITY toolsMenu.label              "Nôrzãdza">
+<!ENTITY toolsMenu.label              "Nôrzãdła">
 <!ENTITY toolsMenu.accesskey          "N"> 
 
 <!ENTITY keywordfield.label           "Dodôj kluczowé słowò dlô ti szëkbë…">
@@ -205,7 +205,7 @@ can reach it easily. -->
 <!ENTITY webConsoleCmd.accesskey      "n">
 <!ENTITY webConsoleCmd.commandkey     "k">
 
-<!ENTITY inspectMenu.label            "Sprôwdzë">
+<!ENTITY inspectMenu.label            "Sprawdzë">
 <!ENTITY inspectMenu.accesskey        "S">
 <!ENTITY inspectMenu.commandkey       "I">
 
@@ -225,7 +225,7 @@ can reach it easily. -->
 <!ENTITY scratchpad.keytext           "F4">
 
 <!ENTITY inspectPanelTitle.label      "HTML">
-<!ENTITY inspectButton.label          "Sprôwdzë">
+<!ENTITY inspectButton.label          "Sprawdzë">
 <!ENTITY inspectButton.accesskey      "ô">
 <!ENTITY inspectCloseButton.tooltiptext "Zamkni Jinspektora">
 
@@ -241,10 +241,10 @@ can reach it easily. -->
 <!ENTITY styleeditor.accesskey        "S">
 <!ENTITY styleeditor.keycode          "VK_F7">
 <!ENTITY styleeditor.keytext          "F7">
-<!ENTITY inspectContextMenu.label     "Sprôwdzë Element">
+<!ENTITY inspectContextMenu.label     "Sprawdzë Element">
 <!ENTITY inspectContextMenu.accesskey "E">
 
-<!ENTITY getMoreDevtoolsCmd.label        "Nalezë wicy nôrzãdzów">
+<!ENTITY getMoreDevtoolsCmd.label        "Nalezë wicy nôrzãdłów">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "N">
 
 <!ENTITY fileMenu.label         "Lopk"> 
@@ -295,7 +295,7 @@ can reach it easily. -->
 <!ENTITY viewMenu.accesskey       "W"> 
 <!ENTITY viewTabGroups.label            "Grëpë kôrtów">
 <!ENTITY viewTabGroups.accesskey        "G">
-<!ENTITY viewToolbarsMenu.label       "Lëstew nôrzãdzów"> 
+<!ENTITY viewToolbarsMenu.label       "Lëstew nôrzãdłów"> 
 <!ENTITY viewToolbarsMenu.accesskey     "L"> 
 <!ENTITY viewSidebarMenu.label "Bòcznô lëstew">
 <!ENTITY viewSidebarMenu.accesskey "B">
@@ -311,13 +311,13 @@ can reach it easily. -->
 <!ENTITY historyUndoWindowMenu.label "Slédno zamkłé òkna">
 <!ENTITY historyRestoreLastSession.label "Przëwrócë pòprzédną sesjã">
 
-<!ENTITY historyHomeCmd.label "Domôcô starna">
+<!ENTITY historyHomeCmd.label "Domôcô strona">
 <!ENTITY showAllHistoryCmd2.label "Wëskrzëni całowną historiã">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuEdit.label "Edicjô">
 <!ENTITY appMenuCustomize.label "Dopasëjë">
-<!ENTITY appMenuToolbarLayout.label "Pòzdrzatk lëstwë nôrzãdzów…">
+<!ENTITY appMenuToolbarLayout.label "Pòzdrzatk lëstwë nôrzãdłów…">
 <!ENTITY appMenuSidebars.label "Bòczné lëstwë">
 <!ENTITY appMenuFind.label "Nalezë…">
 <!ENTITY appMenuUnsorted.label "Niepòzortowóné załóżczi">
@@ -327,7 +327,7 @@ can reach it easily. -->
 <!ENTITY appMenuSafeMode.accesskey "Z">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder           "Biéj do starnë">
+<!ENTITY urlbar.placeholder           "Biéj do stronë">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Przełączë na kôrtã:">
 
@@ -375,11 +375,11 @@ can reach it easily. -->
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
-<!ENTITY viewPageSourceCmd.label      "Wëskrzëni zdrój starnë">
+<!ENTITY viewPageSourceCmd.label      "Wëskrzëni zdrój stronë">
 <!ENTITY viewPageSourceCmd.accesskey  "ë">
 <!ENTITY viewFrameSourceCmd.label     "Wëskrzëni zdrój ramë">
 <!ENTITY viewFrameSourceCmd.accesskey "W">
-<!ENTITY viewPageInfoCmd.label        "Wëskrzëni wëdowiédzã ò starnie">
+<!ENTITY viewPageInfoCmd.label        "Wëskrzëni wëdowiédzã ò stronie">
 <!ENTITY viewPageInfoCmd.accesskey    "I">
 <!ENTITY viewFrameInfoCmd.label       "Wëskrzëni wëdowiédzã ò ramie">
 <!ENTITY viewFrameInfoCmd.accesskey   "i">
@@ -403,7 +403,7 @@ can reach it easily. -->
 <!ENTITY bookmarkThisFrameCmd.accesskey  "D">
 <!ENTITY sendPageCmd.label            "Sélôj lënk…">
 <!ENTITY sendPageCmd.accesskey        "n">
-<!ENTITY savePageCmd.label            "Zapiszë starnã jakno…">
+<!ENTITY savePageCmd.label            "Zapiszë stronã jakno…">
 <!ENTITY savePageCmd.accesskey        "Z">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "s">
@@ -428,17 +428,17 @@ can reach it easily. -->
 <!ENTITY sendVideoCmd.accesskey       "ò">
 <!ENTITY sendAudioCmd.label           "Sélôj zwãk…">
 <!ENTITY sendAudioCmd.accesskey       "ã">
-<!ENTITY copyLinkCmd.label            "Kòpérëjë adresã lënka">
+<!ENTITY copyLinkCmd.label            "Kòpérëjë adres lënka">
 <!ENTITY copyLinkCmd.accesskey        "K">
-<!ENTITY copyImageCmd.label           "Kòpérëjë adresã òbrôzka">
+<!ENTITY copyImageCmd.label           "Kòpérëjë adres òbrôzka">
 <!ENTITY copyImageCmd.accesskey       "b">
 <!ENTITY copyImageContentsCmd.label   "Kòpérëjë òbrôzk">
 <!ENTITY copyImageContentsCmd.accesskey  "r"> 
-<!ENTITY copyVideoURLCmd.label        "Kòpiérëjë adresã wideò">
+<!ENTITY copyVideoURLCmd.label        "Kòpérëjë adres wideò">
 <!ENTITY copyVideoURLCmd.accesskey    "é">
-<!ENTITY copyAudioURLCmd.label        "Kòpiérëjë adresã zwãkù">
+<!ENTITY copyAudioURLCmd.label        "Kòpérëjë adres zwãkù">
 <!ENTITY copyAudioURLCmd.accesskey    "ù">
-<!ENTITY copyEmailCmd.label           "Kòpérëjë e-mail adresã">
+<!ENTITY copyEmailCmd.label           "Kòpérëjë adres e-mailowy">
 <!ENTITY copyEmailCmd.accesskey       "e">
 <!ENTITY thisFrameMenu.label              "Rama">
 <!ENTITY thisFrameMenu.accesskey          "r">
@@ -448,7 +448,7 @@ can reach it easily. -->
 <!ENTITY mediaPlay.accesskey         "G">
 <!ENTITY mediaPause.label            "Paùza">
 <!ENTITY mediaPause.accesskey        "P">
-<!ENTITY mediaMute.label             "Wëcyszë">
+<!ENTITY mediaMute.label             "Wëcëszë">
 <!ENTITY mediaMute.accesskey         "c">
 <!ENTITY mediaUnmute.label           "Zgłosni">
 <!ENTITY mediaUnmute.accesskey       "g">
@@ -478,7 +478,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- + is above this key on many keyboards --><!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
-<!ENTITY fullZoomReduceCmd.label        "Zmiészë">
+<!ENTITY fullZoomReduceCmd.label        "Zmniészë">
 <!ENTITY fullZoomReduceCmd.accesskey    "m">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
@@ -520,14 +520,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "Z">
 
-<!ENTITY pageStyleMenu.label "Sztél starnë">
+<!ENTITY pageStyleMenu.label "Sztél stronë">
 <!ENTITY pageStyleMenu.accesskey "S">
 <!ENTITY pageStyleNoStyle.label "Felënk sztélu">
 <!ENTITY pageStyleNoStyle.accesskey "n">
 <!ENTITY pageStylePersistentOnly.label "Spòdlowi sztél">
 <!ENTITY pageStylePersistentOnly.accesskey "S">
 
-<!ENTITY pageReportIcon.tooltip            "Zmieni nastôwë blokadë wëskakùjącëch òknów dlô ti starny">
+<!ENTITY pageReportIcon.tooltip            "Zmieni nastôwë blokadë wëskakùjącëch òknów dlô ti stronë">
 
 <!ENTITY allowPopups.accesskey "w">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -538,13 +538,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "N">
 
-<!ENTITY bidiSwitchPageDirectionItem.label        "Zmieni czérënk starnë">
+<!ENTITY bidiSwitchPageDirectionItem.label        "Zmieni czerënk stronë">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "s">
-<!ENTITY bidiSwitchTextDirectionItem.label        "Zmieni czérënk tekstu">
+<!ENTITY bidiSwitchTextDirectionItem.label        "Zmieni czerënk tekstu">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "t">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
-<!ENTITY findOnCmd.label     "Nalezë na ti starnie…">
+<!ENTITY findOnCmd.label     "Nalezë na ti stronie…">
 <!ENTITY findOnCmd.accesskey "N">
 <!ENTITY findOnCmd.commandkey "F">
 <!ENTITY findAgainCmd.label  "Nalezë znowa">
@@ -559,7 +559,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "Òprzestóń">
 <!ENTITY editBookmark.removeBookmark.accessKey       "r">
 
-<!ENTITY identity.unverifiedsite2 "Na starna nie dôwô wëdowiédzë ò swòji juwernoce.">
+<!ENTITY identity.unverifiedsite2 "Na strona nie dôwô wëdowiédzë ò swòji juwernoce.">
 <!ENTITY identity.connectedTo "Jes sparłãczony z">
 <!-- Localization note (identity.runBy) : This string appears between a
 domain name (above) and an organization name (below). E.g.
@@ -572,7 +572,7 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "czérowónô przez">
+<!ENTITY identity.runBy "czerowónô przez">
 
 <!ENTITY identity.moreInfoLinkText "Wicy wëdowiédzë…">
 

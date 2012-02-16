@@ -47,7 +47,7 @@
 <!ENTITY  validation.crllastupdate.label          "Slédnô aktualizacjô">
 <!ENTITY  validation.crlnextupdate.label          "Nôslédnô aktualizacjô">
 <!ENTITY  validation.crlautoupdateenabled.label   "Automatnô aktualizacjô">
-<!ENTITY  validation.crlautoupdatestatus.label    "Stón automatnégò zaktualnienia">
+<!ENTITY  validation.crlautoupdatestatus.label    "Stón automatnégò zaktualnieniô">
 <!ENTITY  validation.deletecrl.label              "Rëmôj">
 <!ENTITY  validation.deletecrl.accesskey          "R">
 <!ENTITY  validation.updatecrl.label              "Aktualizacjô">

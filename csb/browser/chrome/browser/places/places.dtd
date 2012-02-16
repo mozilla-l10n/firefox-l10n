@@ -42,9 +42,9 @@
 <!ENTITY cmd.restoreFromFile.label      "Wëbierzë lopk…">
 <!ENTITY cmd.restoreFromFile.accesskey  "W">
 
-<!ENTITY cmd.bookmarkLink.label         "Dodôj nã starnã do załóżków…">
+<!ENTITY cmd.bookmarkLink.label         "Dodôj nã stronã do załóżków…">
 <!ENTITY cmd.bookmarkLink.accesskey     "D">
-<!ENTITY cmd.delete.label               "Rëmôj starnã">
+<!ENTITY cmd.delete.label               "Rëmôj stronã">
 <!ENTITY cmd.delete.accesskey           "R">
 <!ENTITY cmd.deleteDomainData.label     "Remôj całowną domenã">
 <!ENTITY cmd.deleteDomainData.accesskey "d">
@@ -126,11 +126,11 @@
 <!ENTITY view.accesskey           "W">
 <!ENTITY byDate.label             "Wedle datuma">
 <!ENTITY byDate.accesskey         "d">
-<!ENTITY bySite.label             "Wedle starnë">
+<!ENTITY bySite.label             "Wedle stronë">
 <!ENTITY bySite.accesskey         "s">
 <!ENTITY byMostVisited.label      "Wedle nôbarżi òbzérónëch">
 <!ENTITY byMostVisited.accesskey  "n">
 <!ENTITY byLastVisited.label      "Wedle slédno òbzérónëch">
 <!ENTITY byLastVisited.accesskey  "l">
-<!ENTITY byDayAndSite.label       "Wedle datuma ë starnë">
+<!ENTITY byDayAndSite.label       "Wedle datuma ë stronë">
 <!ENTITY byDayAndSite.accesskey   "t">

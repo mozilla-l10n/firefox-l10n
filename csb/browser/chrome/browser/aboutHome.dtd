@@ -10,7 +10,7 @@
 
 <!-- These strings are used in the about:home page -->
 
-<!ENTITY abouthome.pageTitle "Startowô starna programù &brandFullName;">
+<!ENTITY abouthome.pageTitle "Startowô strona programù &brandFullName;">
 
 <!ENTITY abouthome.searchEngineButton.label "Szëkba">
 
@@ -23,7 +23,7 @@
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
-<!ENTITY abouthome.defaultSnippet2.v1 "Ùstawienié Firefoksa bë wëzdrzôł ë robił wedle Twòji wòlë to je prostô sprawa. <a>Wëbiérzë z tësącë dodôwków</a>.">
+<!ENTITY abouthome.defaultSnippet2.v1 "Ùstawienié Firefoksa bë wëzdrzôł ë robił wedle Twòji wòlë to je prostô sprawa. <a>Wëbierzë z tësący dodôwków</a>.">
 
 <!ENTITY abouthome.syncSetup.label   "Kònfigùrëjë synchronizacjã">
-<!ENTITY abouthome.pairDevice.label  "Sparëjë ùrządzenié">
+<!ENTITY abouthome.pairDevice.label  "Sparëjë ùrzãdzenié">

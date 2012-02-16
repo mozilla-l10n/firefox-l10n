@@ -16,7 +16,7 @@
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 <!ENTITY restorepage.errorTitle     "Przeprôszómë!">
-<!ENTITY restorepage.problemDesc    "Program &brandShortName; napôtkôł problémë przë nôprawie òknów ë załóżków. Zwëkòwò pòwòdã je slédno òtemkłô internetowô starna.">
+<!ENTITY restorepage.problemDesc    "Program &brandShortName; napôtkôł problémë przë nôprawie òknów ë załóżków. Zwëkòwò pòwòdã je slédno òtemkłô internetowô strona.">
 <!ENTITY restorepage.tryThis        "Mòże spróbòwac:">
 <!ENTITY restorepage.restoreSome    "rëmnąc jedną abò wicy kôrtów, chtërné mògą bëc przëczëną ti problemë">
 <!ENTITY restorepage.startNew       "zrëszëc nową sesjã przezéraniô">

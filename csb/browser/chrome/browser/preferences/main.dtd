@@ -2,17 +2,17 @@
 
 <!ENTITY startupPage.label         "Pò zrëszenim programù &brandShortName;:">
 <!ENTITY startupPage.accesskey     "z">
-<!ENTITY startupHomePage.label     "wëskrzëni domôcą starnã">
-<!ENTITY startupBlankPage.label    "wëskrzeni pùstą starnã">
+<!ENTITY startupHomePage.label     "wëskrzëni domôcą stronã">
+<!ENTITY startupBlankPage.label    "wëskrzeni pùstą stronã">
 <!ENTITY startupLastSession.label  "wëskrzëni òkna ë kôrtë pòprzédny sesji">
 <!ENTITY restoreOnDemand.label     "Nie zrëszôj kôrtów jasz bãdą brëkòwóné">
 <!ENTITY restoreOnDemand.accesskey "N">
 
-<!ENTITY homepage.label            "Domôcô starna:">
+<!ENTITY homepage.label            "Domôcô strona:">
 <!ENTITY homepage.accesskey        "D">
-<!ENTITY useCurrentPage.label      "Brëkùjë aktualny starnë">
+<!ENTITY useCurrentPage.label      "Brëkùjë aktualny stronë">
 <!ENTITY useCurrentPage.accesskey  "a">
-<!ENTITY useMultiple.label         "Brëkùjë ti starnë">
+<!ENTITY useMultiple.label         "Brëkùjë ti stronë">
 <!ENTITY chooseBookmark.label      "Brëkùjë załóżczi…">
 <!ENTITY chooseBookmark.accesskey  "B">
 <!ENTITY restoreDefault.label      "Doprowôdzë domëslną nazôd">

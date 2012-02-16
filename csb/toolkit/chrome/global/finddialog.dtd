@@ -6,7 +6,7 @@
 #
 -->
 
-<!ENTITY findDialog.title "Nalezë na ti starnie">
+<!ENTITY findDialog.title "Nalezë na ti stronie">
 <!ENTITY findField.label "Nalezë tekst">
 <!ENTITY findField.accesskey "N">
 <!ENTITY caseSensitiveCheckbox.label "Rozeznôwôj miarã lëterów">
@@ -21,4 +21,4 @@
 <!ENTITY up.accesskey "g">
 <!ENTITY down.label "W dół">
 <!ENTITY down.accesskey "d">
-<!ENTITY direction.label "Czérënk">
+<!ENTITY direction.label "Czerënk">

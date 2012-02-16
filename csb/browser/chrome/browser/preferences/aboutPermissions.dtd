@@ -13,8 +13,8 @@
 -->
 <!ENTITY permissionsManager.title        "Menadżer Przistãpu">
 
-<!ENTITY sites.search                    "Przeszëkiwanié Starnów">
-<!ENTITY sites.allSites                  "Wszëtczé starnë">
+<!ENTITY sites.search                    "Przeszëkiwanié stronów">
+<!ENTITY sites.allSites                  "Wszëtczé stronë">
 
 <!-- LOCALIZATION NOTE (permissions.header.start, permissions.header.end): These strings
      surround the host name of the site to make the header for the permissions page.
@@ -22,9 +22,9 @@
 <!ENTITY header.site.start               "Przistãp dlô">
 <!ENTITY header.site.end                 "">
 
-<!ENTITY header.defaults                 "Domëslny przistãp dlô wszëtczich starnów">
+<!ENTITY header.defaults                 "Domëslny przistãp dlô wszëtczich stronów">
 
-<!ENTITY permissions.forgetSite          "Zabôczë ò ny starnie">
+<!ENTITY permissions.forgetSite          "Zabôczë ò ny stronie">
 
 <!ENTITY permission.alwaysAsk            "Pëtôj wiedno">
 <!ENTITY permission.allow                "Zezwòlë">

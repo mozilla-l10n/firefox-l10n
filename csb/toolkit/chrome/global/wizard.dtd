@@ -13,14 +13,14 @@
 
 <!ENTITY  button-back-unix.label       "Nazôd">
 <!ENTITY  button-back-unix.accesskey   "N">
-<!ENTITY  button-next-unix.label       "W przódk">
+<!ENTITY  button-next-unix.label       "Wprzódk">
 <!ENTITY  button-next-unix.accesskey   "W">
 <!ENTITY  button-finish-unix.label     "Zakùńczë">
 <!ENTITY  button-cancel-unix.label     "Òprzestóń">
 
 <!ENTITY  button-back-win.label        "&lt; Nazôd">
 <!ENTITY  button-back-win.accesskey    "N">
-<!ENTITY  button-next-win.label        "W przódk &gt;">
+<!ENTITY  button-next-win.label        "Wprzódk &gt;">
 <!ENTITY  button-next-win.accesskey    "W">
 <!ENTITY  button-finish-win.label      "Zakùńczë">
 <!ENTITY  button-cancel-win.label      "Òprzestóń">

@@ -1,6 +1,6 @@
 <!-- extracted from printjoboptions.xul -->
 
-<!ENTITY printSetup.title    "Nastôwë starnë">
+<!ENTITY printSetup.title    "Nastôwë stronë">
 
 <!ENTITY basic.tab           "Òptacje fòrmatowaniô">
 
@@ -16,7 +16,7 @@
 <!ENTITY scale.accesskey     "S">
 <!ENTITY scalePercent        "&#037;">
 
-<!ENTITY shrinkToFit.label   "Dopasëjë do szérzë starnë">
+<!ENTITY shrinkToFit.label   "Dopasëjë do szérzë stronë">
 <!ENTITY shrinkToFit.accesskey "o">
 
 <!ENTITY optionsGroup.label  "Òptacje">
@@ -53,8 +53,8 @@
 <!ENTITY hfTitle             "Titel">
 <!ENTITY hfURL               "URL">
 <!ENTITY hfDateAndTime       "Datum/czas">
-<!ENTITY hfPage              "Starna #">
-<!ENTITY hfPageAndTotal      "Starna # z #">
+<!ENTITY hfPage              "strona #">
+<!ENTITY hfPageAndTotal      "strona # z #">
 <!ENTITY hfBlank             "--felënk--">
 <!ENTITY hfCustom            "Swój…">
 

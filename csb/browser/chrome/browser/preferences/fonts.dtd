@@ -38,11 +38,11 @@
 <!ENTITY  font.langGroup.trad-chinese             "Tradicjowi chińsczi (Tajwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Chińsczi prosti">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Tradicjowi chińsczi (Hongkong)">
-<!ENTITY  font.langGroup.korean                   "Kòrejańsczi">
-<!ENTITY  font.langGroup.cyrillic                 "Cërilica">
-<!ENTITY  font.langGroup.baltic                   "Bałtëcczi">
+<!ENTITY  font.langGroup.korean                   "Kòreańsczi">
+<!ENTITY  font.langGroup.cyrillic                 "Cërëlëca">
+<!ENTITY  font.langGroup.baltic                   "Bôłtëcczi">
 <!ENTITY  font.langGroup.el                       "Grecczi">
-<!ENTITY  font.langGroup.turkish                  "Tërecczi">
+<!ENTITY  font.langGroup.turkish                  "Turecczi">
 <!ENTITY  font.langGroup.unicode                  "Jinszi jãzëk">
 <!ENTITY  font.langGroup.user-def                 "Brëkòwnika">
 <!ENTITY  font.langGroup.thai                     "Tajsczi">
@@ -73,7 +73,7 @@
 <!ENTITY  useDefaultFontSerif.label               "Szerifòwi">
 <!ENTITY  useDefaultFontSansSerif.label           "Bezszerifòwi">
 
-<!ENTITY  allowPagesToUse.label                   "Zezwòlë starnom ùżëwac jiszich fòntów jakno nastôwioné tuwò">
+<!ENTITY  allowPagesToUse.label                   "Zezwòlë stronom ùżëwac jiszich fòntów jakno nastôwioné tuwò">
 <!ENTITY  allowPagesToUse.accesskey               "Z">
 
 <!ENTITY languages.customize.Charset.grouplabel         "Zestôwk céchów">

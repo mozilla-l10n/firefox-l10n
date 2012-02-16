@@ -38,11 +38,11 @@
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
 <!ENTITY reloadPlugin.pre                                    "">
-<!ENTITY reloadPlugin.middle                                 "Zladëjë starnã znowa">
+<!ENTITY reloadPlugin.middle                                 "Zladëjë stronã znowa">
 <!ENTITY reloadPlugin.post                                   "spróbùjë znowa.">
 <!ENTITY report.submitting                                   "Sélanié repòrtu…">
 <!ENTITY report.submitted                                    "Rapòrt ò awari òstôł wësłóny.">
 <!ENTITY report.disabled                                     "Sélanié rapòrtów ò awariach je wëłączoné.">
 <!ENTITY report.failed                                       "Felënk wësłaniô.">
 <!ENTITY report.unavailable                                  "Felënk przistãpnëch repòrtów.">
-<!ENTITY report.checkbox "…ë sélôj rapòrt ò awarii"> 
+<!ENTITY report.please                                       "Sélôj rapòrt ò awarii">

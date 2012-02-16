@@ -1,10 +1,10 @@
 <!ENTITY editBookmarkOverlay.name.label                      "Miono:">
 <!ENTITY editBookmarkOverlay.name.accesskey                  "M">
-<!ENTITY editBookmarkOverlay.location.label                  "Adresa:">
+<!ENTITY editBookmarkOverlay.location.label                  "Adres:">
 <!ENTITY editBookmarkOverlay.location.accesskey              "A">
-<!ENTITY editBookmarkOverlay.feedLocation.label              "Adresa pòwrózka:">
+<!ENTITY editBookmarkOverlay.feedLocation.label              "Adres pòwrózka:">
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "p">
-<!ENTITY editBookmarkOverlay.siteLocation.label              "Adresa starnë:">
+<!ENTITY editBookmarkOverlay.siteLocation.label              "Adres stronë:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "s">
 <!ENTITY editBookmarkOverlay.folder.label                    "Katalog:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Wëskrzëni wszëtczé katalodżi załóżków">

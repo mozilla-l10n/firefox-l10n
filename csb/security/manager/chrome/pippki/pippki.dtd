@@ -76,7 +76,7 @@
 <!-- Downloading a cert -->
 <!ENTITY downloadCert.title "Zladënk certifikatów">
 <!ENTITY downloadCert.message1 "Zażądano dôwôniô wiarë nowémù Òrganowi Certifikacji (CA).">
-<!ENTITY downloadCert.trustSSL "Wierzë nemù CA przë jidentifikacji internetowich starn.">
+<!ENTITY downloadCert.trustSSL "Wierzë nemù CA przë jidentifikacji internetowich stron.">
 <!ENTITY downloadCert.trustEmail "Wierzë nemù CA do rozszlachòwania e-mailowëch brëkòwników.">
 <!ENTITY downloadCert.trustObjSign "Wierzë nemù CA do rozszlachòwaniô programistów softwôra.">
 <!ENTITY downloadCert.message3 "Nim dôsz wiarë nemù CA, przezdrzë jegò certifikat, pòlitikã bezpiekù ë procedurë (żle są dô).">
@@ -91,7 +91,7 @@
 
 <!-- Strings for the SSL client auth ask dialog -->
 <!ENTITY clientAuthAsk.title "Żądanié jidentifikacji brëkòwnika">
-<!ENTITY clientAuthAsk.message1 "Na starna żądô identifikacëji przez certifikat:">
+<!ENTITY clientAuthAsk.message1 "Na strona żądô identifikacëji przez certifikat:">
 <!ENTITY clientAuthAsk.message2 "Wëbierzë certifikat dlô pòcwierdzëniô jidentifikacji:">
 <!ENTITY clientAuthAsk.message3 "Detale wëbrónégò certifikatu:">
 

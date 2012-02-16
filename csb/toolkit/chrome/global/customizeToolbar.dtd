@@ -1,11 +1,11 @@
-<!ENTITY dialog.title             "Dopasëjë lëstwã nôrzãdzów">
+<!ENTITY dialog.title             "Dopasëjë lëstwã nôrzãdłów">
 <!ENTITY dialog.dimensions 		  "width: 92ch; height: 36em;"> 
-<!ENTITY instructions.description "Mòże dodôwac ë òdjimac elementë przez jich przecyganié na abò z lëstwë nôrzãdzów.">
+<!ENTITY instructions.description "Mòże dodôwac ë òdjimac elementë przez jich przecyganié na abò z lëstwë nôrzãdłów.">
 <!ENTITY show.label               "Wëskrzëni:">
 <!ENTITY iconsAndText.label       "Jikònë ë tekst">
 <!ENTITY icons.label              "Jikònë">
 <!ENTITY text.label               "Tekst">
-<!ENTITY useSmallIcons.label      "Brëkùjë małich kikònów">
+<!ENTITY useSmallIcons.label      "Brëkùjë małëch kikònów">
 <!ENTITY restoreDefaultSet.label  "Domëslny nastôw">
 <!ENTITY addNewToolbar.label      "Nowô lëstew">
 <!ENTITY saveChanges.label        "Parôt">

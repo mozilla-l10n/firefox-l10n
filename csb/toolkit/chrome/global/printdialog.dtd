@@ -16,9 +16,9 @@
 <!ENTITY printerInput.accesskey "M">
 
 <!ENTITY printrangeGroup.label "Òbjim drëkòwaniô">
-<!ENTITY allpagesRadio.label "Wszëtczé starnë">
+<!ENTITY allpagesRadio.label "Wszëtczé stronë">
 <!ENTITY allpagesRadio.accesskey "W">
-<!ENTITY rangeRadio.label  "Starnë">
+<!ENTITY rangeRadio.label  "stronë">
 <!ENTITY rangeRadio.accesskey  "S">
 <!ENTITY frompageInput.label  "òd">
 <!ENTITY frompageInput.accesskey  "d">

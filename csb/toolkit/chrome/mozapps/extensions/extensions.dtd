@@ -18,10 +18,10 @@
 <!ENTITY listEmpty.button.label               "Wicy wëdowiédzë ò dodôwkach">
 <!ENTITY installAddonFromFile.label           "Wjinstalëje pòdôwczi z lopka…">
 <!ENTITY installAddonFromFile.accesskey       "i">
-<!ENTITY toolsMenu.tooltip                    "Nôrzãdza dlô wszëtczich dodôwków">
+<!ENTITY toolsMenu.tooltip                    "Nôrzãdła dlô wszëtczich dodôwków">
 
-<!ENTITY cmd.back.tooltip                     "Biéj jedną starnã nazôd">
-<!ENTITY cmd.forward.tooltip                  "Biéj jedna starnã do przódkù">
+<!ENTITY cmd.back.tooltip                     "Biéj jedną stronã nazôd">
+<!ENTITY cmd.forward.tooltip                  "Biéj jedna stronã do przódkù">
 
 
 <!ENTITY warning.safemode.label                    "Wszëtczé dodôwczi òstałé wëłączoné przez awariowi trib.">
@@ -87,9 +87,9 @@
 <!ENTITY cmd.enableAddon.accesskey            "W">
 <!ENTITY cmd.disableAddon.label               "Wëłączë">
 <!ENTITY cmd.disableAddon.accesskey           "W">
-<!ENTITY cmd.enableTheme.label                "Ùżëty mòtiw">
+<!ENTITY cmd.enableTheme.label                "Ùżëti mòtiw">
 <!ENTITY cmd.enableTheme.accesskey            "w">
-<!ENTITY cmd.disableTheme.label               "Nie ùżëwi mòtiwù">
+<!ENTITY cmd.disableTheme.label               "Nie ùżëwôj mòtiwù">
 <!ENTITY cmd.disableTheme.accesskey           "w">
 <!ENTITY cmd.installAddon.label               "Wjinstalëjë">
 <!ENTITY cmd.installAddon.accesskey           "i">
@@ -116,17 +116,17 @@
   czë sztélów &brandShortName;. Wëpróbùje czas-szpurowną bòczną lëstew, notifikatór wiodrów,
   czë mòtiwë do mòdifikacji wëzdrzatkù &brandShortName; na swòjã mòdã.
 ">
-<!ENTITY discover.footer                      "Czej jes sparłãczony z Internetã, na lëstwie wëskrzënią sã
+<!ENTITY discover.footer                      "Czej jes sparłãczony z Jinternetã, na lëstwie wëskrzënią sã
   nôbarżi widzałé dodôwczi do spróbòwôniô.">
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Wersjô">
 <!ENTITY detail.lastupdated.label             "Slédno zaktualnioné">
 <!ENTITY detail.creator.label                 "Deweloper">
-<!ENTITY detail.homepage.label                "Domôcô starna">
+<!ENTITY detail.homepage.label                "Domôcô strona">
 <!ENTITY detail.numberOfDownloads.label       "Zladënczi">
 
-<!ENTITY detail.contributions.description     "Autor negò dodôwka prosë ò wspiarcé dlô pòstãpnégò rozwòju dodôwka przez wësłanié małi finansowi kontribùcëji.">
+<!ENTITY detail.contributions.description     "Autor negò dodôwka prosë ò wspiarcé dlô pòstãpnégò rozwòju dodôwka przez wësłanié małi finansowi kontribùcji.">
 
 <!ENTITY detail.updateType                    "Automatné aktualizacje">
 <!ENTITY detail.updateDefault.label           "Domëslno">
@@ -135,7 +135,7 @@
 <!ENTITY detail.updateAutomatic.tooltip       "Automatno wjinstalëjë aktualizacje">
 <!ENTITY detail.updateManual.label            "Wëłączoné">
 <!ENTITY detail.updateManual.tooltip          "Nie wjinstalëjë aktualizacji automatno">
-<!ENTITY detail.home                          "Domôcô starna">
+<!ENTITY detail.home                          "Domôcô strona">
 <!ENTITY detail.repository                    "Profil dodôwka">
 <!ENTITY detail.size                          "Miara">
 
@@ -174,7 +174,7 @@
 <!ENTITY search.filter2.available.label       "Przëstãpné dodôwczi">
 <!ENTITY search.filter2.available.tooltip     "Wëskrzëni dodôwczi przistãpné do jinstalacji">
 
-<!ENTITY addon.homepage                       "Domôcô starna">
+<!ENTITY addon.homepage                       "Domôcô strona">
 <!ENTITY addon.details.label                  "Wicy">
 <!ENTITY addon.details.tooltip                "Wëskrzëni wicy detalów ò dodôwkach">
 <!ENTITY addon.unknownDate                    "Nieznóny">
@@ -187,9 +187,9 @@
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
      necessary -->
 <!ENTITY addon.update.postfix                 "Aktualizacjô">
-<!ENTITY addon.undoAction.label               "Doprowôdzë nazôd">
-<!ENTITY addon.undoAction.tooltip             "Doprowôdzë nazôd dzejanié">
-<!ENTITY addon.undoRemove.label               "Doprowôdzë nazôd">
+<!ENTITY addon.undoAction.label               "Doprowadzë nazôd">
+<!ENTITY addon.undoAction.tooltip             "Doprowadzë nazôd dzejanié">
+<!ENTITY addon.undoRemove.label               "Doprowadzë nazôd">
 <!ENTITY addon.undoRemove.tooltip             "Dô pòkù - òstôw dodôwk wjinstalowóny">
 <!ENTITY addon.restartNow.label               "Zrëszë znowa">
 <!ENTITY addon.install.label                  "Wjinstalëjë">
@@ -199,9 +199,9 @@
 <!ENTITY addon.includeUpdate.label            "Dodôj do zaktualnieniô">
 <!ENTITY addon.updateAvailable.label          "Aktualizacjô je przistãpnô">
 <!ENTITY addon.checkingForUpdates.label       "Szëkanié za aktualizacjama…">
-<!ENTITY addon.releaseNotes.label             "Notownik wëdania:">
+<!ENTITY addon.releaseNotes.label             "Notownik wëdaniô:">
 <!ENTITY addon.loadingReleaseNotes.label      "Ladowanié…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Pòkaza sã fela przë òtmëkanim notownika wëdania.">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Pòkaza sã fela przë òtmëkanim notownika wëdaniô.">
 
 <!ENTITY addon.createdBy.label                "Przez ">
 

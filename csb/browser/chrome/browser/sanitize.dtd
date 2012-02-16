@@ -56,13 +56,13 @@ that require it.  -->
 <!ENTITY itemCookies.accesskey             "K">
 <!ENTITY itemCache.label                   "Pòdrãcznô pamiãc">
 <!ENTITY itemCache.accesskey               "p">
-<!ENTITY itemOfflineApps.label             "Pòdôwczi starnów offline ">
+<!ENTITY itemOfflineApps.label             "Pòdôwczi stronów offline ">
 <!ENTITY itemOfflineApps.accesskey         "o">
 <!ENTITY itemDownloadHistory.label         "Historiô zladënków">
 <!ENTITY itemDownloadHistory.accesskey     "z">
 <!ENTITY itemActiveLogins.label            "Aktiwné wlogòwania">
 <!ENTITY itemActiveLogins.accesskey        "A">
-<!ENTITY itemSitePreferences.label         "Nastôwé starnów">
+<!ENTITY itemSitePreferences.label         "Nastôwé stronów">
 <!ENTITY itemSitePreferences.accesskey     "N">
 
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph

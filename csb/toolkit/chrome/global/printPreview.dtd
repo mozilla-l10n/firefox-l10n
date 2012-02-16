@@ -43,9 +43,9 @@
 
 <!ENTITY print.label          "Drëkùjë…">
 <!ENTITY print.accesskey      "D">
-<!ENTITY pageSetup.label      "Nastôwë starnë…">
+<!ENTITY pageSetup.label      "Nastôwë stronë…">
 <!ENTITY pageSetup.accesskey  "N">
-<!ENTITY page.label           "Starna">
+<!ENTITY page.label           "strona">
 <!ENTITY page.accesskey       "a">
 <!ENTITY of.label             "z">
 <!ENTITY scale.label          "Skala:">
@@ -69,10 +69,10 @@
 <!ENTITY p175.label           "175&#037;">
 <!ENTITY p200.label           "200&#037;">
 <!ENTITY Custom.label         "Swôj…">
-<!ENTITY ShrinkToFit.label    "Dopasëjë do szérzë starnë">
+<!ENTITY ShrinkToFit.label    "Dopasëjë do szérzë stronë">
 <!ENTITY customPrompt.title   "Swòjé skalowanié…">
 
-<!ENTITY homearrow.tooltip    "Pierszô starna">
-<!ENTITY endarrow.tooltip     "Slédnô starna">
-<!ENTITY nextarrow.tooltip    "Nôslédnô starna">
-<!ENTITY previousarrow.tooltip "Pòprzédnô starna">
+<!ENTITY homearrow.tooltip    "Pierszô strona">
+<!ENTITY endarrow.tooltip     "Slédnô strona">
+<!ENTITY nextarrow.tooltip    "Nôslédnô strona">
+<!ENTITY previousarrow.tooltip "Pòprzédnô strona">
