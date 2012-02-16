@@ -34,7 +34,7 @@
 <!ENTITY leaveMsgsOnSrvr.label "Dexar los mensaxes nel sirvidor">
 <!ENTITY leaveMsgsOnSrvr.accesskey "m">
 <!ENTITY haveSmtp1.prefix "El sirvidor de salida (SMTP) esistente, &quot;">
-<!ENTITY haveSmtp1.suffix2 "&quot;, va usase. Pues camudar los sirvidores de salida na configuración de les cuentes.">
+<!ENTITY haveSmtp1.suffix3 "&quot;.">
 <!ENTITY loginTitle.label "Nomes d'usuariu">
 <!ENTITY usernameDesc.label "Introduz el nome d'usuariu entrante facilitáu pol to fornidor de corréu-e ">
 <!ENTITY usernameExample.label "(por exemplu, &quot;xfueyo&quot;).">
@@ -44,9 +44,9 @@
 <!ENTITY usernameSmtpLabel.label "Nome d'usuariu saliente:">
 <!ENTITY usernameSmtpLabel.accesskey "O">
 <!ENTITY haveSmtp2.prefix "El to nome d'usuariu saliente (SMTP) esistente, &quot;">
-<!ENTITY haveSmtp2.suffix2 "&quot;, va usase. Pues camudar los sirvidores de salida na configuración de les cuentes.">
+<!ENTITY haveSmtp2.suffix3 "&quot;.">
 <!ENTITY haveSmtp3.prefix "El to sirvidor saliente (SMTP), &quot;">
-<!ENTITY haveSmtp3.suffix2 "&quot;, ye idénticu al sirvidor d'entrada, poro, va usase'l to nome d'usuariu d'entrada p'acceder a él. Pues camudar los sirvidores de salida na configuración de les cuentes.">
+<!ENTITY haveSmtp3.suffix3 "&quot;, ye idénticu al sirvidor d'entrada, poro, va usase'l to nome d'usuariu d'entrada p'acceder a él.">
 <!ENTITY accnameTitle.label "Nome de la cuenta">
 <!ENTITY accnameDesc.label "Introduz el nome pol que quies referite a esta cuenta (por exemplu, &quot;Cuenta del trabayu&quot;, &quot;Cuenta de casa&quot; o &quot;Cuenta de noticies&quot;).">
 <!ENTITY accnameLabel.label "Nome de la cuenta:">
@@ -68,3 +68,4 @@
 <!ENTITY portNum.accesskey "u">
 <!ENTITY defaultPortLabel.label "Predetermináu:">
 <!ENTITY defaultPortValue.label "">
+<!ENTITY modifyOutgoing.suffix "Pues cambiar los sirvidores de salida na configuración de cuentes.">

@@ -45,6 +45,8 @@
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY editMenu.label "Editar">
 <!ENTITY editMenu.accesskey "e">
+<!ENTITY renameAttachmentCmd.label "Renomar axuntu…">
+<!ENTITY renameAttachmentCmd.accesskey "e">
 <!ENTITY undoCmd.label "Desfacer">
 <!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.accesskey "f">
