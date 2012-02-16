@@ -299,6 +299,7 @@
 <!ENTITY thisFolder.label "Esta carpeta">
 <!ENTITY thisFolder.accesskey "E">
 <!ENTITY goRecentlyClosedTabs.label "Llingüetes zarraes de recién">
+<!ENTITY goRecentlyClosedTabs.accesskey "L">
 <!ENTITY startPageCmd.label "Páxina d'aniciu del corréu">
 <!ENTITY startPageCmd.accesskey "P">
 <!ENTITY msgMenu.label "Mensaxe">
