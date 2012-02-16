@@ -16,7 +16,7 @@
 <!ENTITY contextDesc.accesskey "r">
 <!ENTITY contextIncoming.label "Provjeravanja pošte">
 <!ENTITY contextManual.label "Ručnog pokretanja">
-<!ENTITY contextBoth.label "Provjeravanja pošte ili ručnog pokretanaj">
+<!ENTITY contextBoth.label "Provjeravanja pošte ili ručnog pokretanja">
 <!ENTITY contextPostPlugin.label "Provjeravanja pošte (nakon razvrstavanja)">
 <!ENTITY contextPostPluginBoth.label "Provjeravanja pošte (nakon razvrstavanja) ili ručnog pokretanja">
 <!ENTITY filterActionDesc.label "Provedi ove radnje:">
