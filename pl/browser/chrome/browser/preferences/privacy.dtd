@@ -64,11 +64,8 @@
 <!ENTITY  privateBrowsingPermanent2.label "Zawsze używaj trybu prywatnego">
 <!ENTITY  privateBrowsingPermanent2.accesskey "r">
 
-<!ENTITY  rememberHistory.label          "Pamiętaj historię przeglądania">
-<!ENTITY  rememberHistory.accesskey      "s">
-
-<!ENTITY  rememberDownload.label         "Pamiętaj historię pobierania plików">
-<!ENTITY  rememberDownload.accesskey     "b">
+<!ENTITY  rememberHistory2.label         "Pamiętaj historię przeglądania i pobierania plików">
+<!ENTITY  rememberHistory2.accesskey     "s">
 
 <!ENTITY  rememberSearchForm.label       "Pamiętaj historię wyszukiwania i formularzy">
 <!ENTITY  rememberSearchForm.accesskey   "f">
