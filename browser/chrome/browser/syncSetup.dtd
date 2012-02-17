@@ -2,7 +2,7 @@
 <!-- First page of the wizard -->
 
 
-<!ENTITY setup.pickSetupType.description "O a amogelwa, ge e ba o sa ka wa diriša &syncBrand.fullName.label; pele ga mo, go tla nyakega gore o hlame akhaonto e mpsha.">
+<!ENTITY setup.pickSetupType.description2 "O a amogelwa! Ge e ba o sa ka wa diriša &syncBrand.fullName.label; pele ga mo, go tla nyakega gore o hlame akhaonto e mpsha.">
 <!ENTITY button.createNewAccount.label "Hlama akhaonto e mpsha">
 <!ENTITY button.haveAccount.label      "Ke na le akhaonto">
 
@@ -88,6 +88,8 @@
 <!ENTITY engine.passwords.accesskey "p">
 <!ENTITY engine.prefs.label         "Dikganyogo">
 <!ENTITY engine.prefs.accesskey     "D">
+<!ENTITY engine.addons.label        "Dikoketšo">
+<!ENTITY engine.addons.accesskey    "D">
 
 <!ENTITY choice2.merge.main.label      "Kopanya tsebišo ya khomphutha ye le tsebišo ya ka ya &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Šišintšwe:">

@@ -217,8 +217,22 @@ can reach it easily. -->
 <!ENTITY inspectButton.label            "Hlahloba">
 <!ENTITY inspectButton.accesskey        "H">
 <!ENTITY inspectCloseButton.tooltiptext "Tswalela mohlahlobi">
+<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
+  -  alternate view for the Inspector, creating a 3D visualization of the
+  -  webpage. -->
+
+<!ENTITY inspect3DViewButton.label     "Tebelelo ya 3D">
+<!ENTITY inspect3DViewButton.accesskey "b">
+
 <!ENTITY inspectStyleButton.label     "Setaele">
 <!ENTITY inspectStyleButton.accesskey "S">
+<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
+  -  in the Tools menu. -->
+
+<!ENTITY styleeditor.label            "Morulaganyi wa setaele">
+<!ENTITY styleeditor.accesskey        "a">
+<!ENTITY styleeditor.keycode          "VK_F7">
+<!ENTITY styleeditor.keytext          "F7">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Hwetša dithulusi tše oketšegilego">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "o">
@@ -421,15 +435,24 @@ can reach it easily. -->
 <!ENTITY thisFrameMenu.label              "Foreime ye">
 <!ENTITY thisFrameMenu.accesskey          "e">
 <!-- Media (video/audio) controls -->
+<!-- LOCALIZATION NOTE: The access keys for "Play" and
+"Pause" are the same because the two context-menu
+items are mutually exclusive. -->
 
 <!ENTITY mediaPlay.label             "Bapala">
 <!ENTITY mediaPlay.accesskey         "B">
 <!ENTITY mediaPause.label            "Khutša">
 <!ENTITY mediaPause.accesskey        "K">
+<!-- LOCALIZATION NOTE: The access keys for "Mute" and
+"Unmute" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Homotša">
 <!ENTITY mediaMute.accesskey         "H">
 <!ENTITY mediaUnmute.label           "Homotšolla">
 <!ENTITY mediaUnmute.accesskey       "l">
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "Laetša ditaolo">
 <!ENTITY mediaShowControls.accesskey "d">
 <!ENTITY mediaHideControls.label     "Fihla ditaolo">
@@ -438,6 +461,9 @@ can reach it easily. -->
 <!ENTITY videoFullScreen.accesskey   "t">
 <!ENTITY videoSaveImage.label        "Boloka seswantšho e le...">
 <!ENTITY videoSaveImage.accesskey    "B">
+<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
+"Hide Statistics" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY videoShowStats.label        "Laetša dipalopalo">
 <!ENTITY videoShowStats.accesskey    "l">
 <!ENTITY videoHideStats.label        "Fihla dipalopalo">

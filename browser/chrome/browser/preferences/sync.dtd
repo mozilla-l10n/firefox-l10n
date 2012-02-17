@@ -30,6 +30,8 @@
 <!ENTITY engine.passwords.accesskey "p">
 <!ENTITY engine.prefs.label         "Dikganyogo">
 <!ENTITY engine.prefs.accesskey     "k">
+<!ENTITY engine.addons.label        "Dikoketšo">
+<!ENTITY engine.addons.accesskey    "D">
 <!-- Device Settings -->
 
 <!ENTITY syncComputerName.label       "Leina la khomphutha:">
