@@ -13,7 +13,7 @@
 <!ENTITY pluginWizard.licensePage.deny.label                 "Kabul etmiyorum (yan uygulama kurulmayacak).">
 
 <!ENTITY pluginWizard.installPluginsPage.title               "Yan uygulamalar kuruluyor">
-<!ENTITY pluginWizard.installPluginsPage.description.label   "&brandShortName; yan uygulamaları kuruyor...">
+<!ENTITY pluginWizard.installPluginsPage.description.label   "&brandShortName; yan uygulamaları kuruyor…">
 
 <!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; eksik yan uygulamaların kurulumunu tamamladı:">
 
@@ -26,7 +26,7 @@
 <!ENTITY blockedPlugin.label                                 "Bu yan eklenti sizi korumak için engellendi.">
 
 <!ENTITY installPlugin                                       "Yan uygulamayı kur…">
-<!ENTITY managePlugins                                       "Yan uygulamaları yönet...">
+<!ENTITY managePlugins                                       "Yan uygulamaları yönet…">
 
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
@@ -34,9 +34,9 @@
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "sayfayı yeniden yükleyin">
 <!ENTITY reloadPlugin.post                                   ".">
-<!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.checkbox                                     "…ve çökme raporu gönderin">
-<!ENTITY report.submitting                                   "Rapor gönderiliyor...">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "Çökme raporunu gönder">
+<!ENTITY report.submitting                                   "Rapor gönderiliyor…">
 <!ENTITY report.submitted                                    "Çökme raporu gönderildi.">
 <!ENTITY report.disabled                                     "Çökme raporu gönderimi devre dışı.">
 <!ENTITY report.failed                                       "Gönderim başarısız.">
