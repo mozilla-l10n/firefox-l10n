@@ -41,10 +41,8 @@
 <!ENTITY dontrememberActions.post.label ".">
 <!ENTITY privateBrowsingPermanent2.label "Utilizza sempre la modalità di navigazione anonima">
 <!ENTITY privateBrowsingPermanent2.accesskey "U">
-<!ENTITY rememberHistory.label "Conserva la cronologia di navigazione">
-<!ENTITY rememberHistory.accesskey "C">
-<!ENTITY rememberDownload.label "Conserva la cronologia dei download">
-<!ENTITY rememberDownload.accesskey "d">
+<!ENTITY rememberHistory2.label "Conserva la cronologia di navigazione e dei download">
+<!ENTITY rememberHistory2.accesskey "C">
 <!ENTITY rememberSearchForm.label "Conserva la cronologia delle ricerche e dei moduli">
 <!ENTITY rememberSearchForm.accesskey "o">
 <!ENTITY clearOnClose.label "Cancella la cronologia alla chiusura di &brandShortName;">
