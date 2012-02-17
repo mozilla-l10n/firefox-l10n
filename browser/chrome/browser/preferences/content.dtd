@@ -12,7 +12,7 @@
 <!ENTITY advancedJS.accesskey "v">
 <!ENTITY enableJava.label "Activar Java">
 <!ENTITY enableJava.accesskey "A">
-<!ENTITY fontsAndColors.label "Tipos y colores">
+<!ENTITY fontsAndColors.label "Fuentes y colores">
 <!ENTITY defaultFont.label "Fuente predeterminada:">
 <!ENTITY defaultFont.accesskey "F">
 <!ENTITY defaultSize.label "Tamaño:">

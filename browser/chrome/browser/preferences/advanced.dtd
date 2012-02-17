@@ -36,7 +36,7 @@
 <!ENTITY limitCacheSizeAfter.label "MB de espacio">
 <!ENTITY clearCacheNow.label "Limpiar ahora">
 <!ENTITY clearCacheNow.accesskey "L">
-<!ENTITY clearOfflineAppCacheNow.label "Limpiar ahora">
+<!ENTITY clearOfflineAppCacheNow.label "Clear Now">
 <!ENTITY clearOfflineAppCacheNow.accesskey "N">
 <!ENTITY overrideSmartCacheSize.label "Anulación de administración de caché automático">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
