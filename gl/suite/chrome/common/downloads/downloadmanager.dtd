@@ -46,7 +46,7 @@
 <!ENTITY col.endtime.accesskey           "H">
 <!ENTITY col.endtime.tooltip             "Hora de remate">
 <!ENTITY col.progresstext.label          "&#37;">
-<!ENTITY col.progresstext.accesskey      "&#">
+<!ENTITY col.progresstext.accesskey      "&#37;">
 <!ENTITY col.progresstext.tooltip        "Progreso (&#37;)">
 <!ENTITY col.source.label                "Orixe">
 <!ENTITY col.source.accesskey            "O">
