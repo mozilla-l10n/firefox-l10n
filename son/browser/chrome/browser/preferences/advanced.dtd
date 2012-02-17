@@ -17,7 +17,7 @@
 <!ENTITY useAutoScroll.accesskey         "c">
 <!ENTITY useSmoothScrolling.label        "Cendiyan baana goyandi">
 <!ENTITY useSmoothScrolling.accesskey    "a">
-<!ENTITY allowHWAccel.label              "Goy nda jinay šenda cahãntikaw nd'a ga bara">
+<!ENTITY allowHWAccel.label              "Goy nda jinay šenda cahãndikaw nd'a ga bara">
 <!ENTITY allowHWAccel.accesskey          "j">
 <!ENTITY checkSpelling.label             "Ay boŋhantumoo koroši waati kaŋ ay ga hantum">
 <!ENTITY checkSpelling.accesskey         "h">
@@ -77,7 +77,7 @@
 <!ENTITY updateHistory.label             "Taagandiri taariku cebe">
 <!ENTITY updateHistory.accesskey         "a">
 
-<!ENTITY useService.label                "Goy bandafaari zaa ka taagarandirey sinji ">
+<!ENTITY useService.label                "Goy bandafaari zaa ka taagarandirey sinji">
 <!ENTITY useService.accesskey            "b">
 
 <!ENTITY updateOthers.label              "Taagandi nga boŋše:">

@@ -4,7 +4,6 @@
 <!ENTITY     props.path.label               "Fondo:">
 <!ENTITY     props.secure.label             "Sanba še:">
 <!ENTITY     props.expires.label            "Waati ga ben:">
-<!ENTITY     props.policy.label             "Batu laada:"> 
 
 <!ENTITY     button.allow.label             "Noo fondo">
 <!ENTITY     button.allow.accesskey         "N">

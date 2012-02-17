@@ -1,5 +1,5 @@
 <!ENTITY dialog.title             "Goyjinay žeeri hanse boŋše">
-<!ENTITY dialog.style             "width: 86ch; height: 36em;">
+<!ENTITY dialog.dimensions        "width: 94ch; height: 36em;">
 <!ENTITY instructions.description "War ga hin ka hayiizeyaŋ tonton wala k'i kaa nda war g'i cendi goyjinay žeerey here wala ka mooray.">
 <!ENTITY show.label               "Cebe:">
 <!ENTITY iconsAndText.label       "Biyey nda kalimaɲaa kuru">
