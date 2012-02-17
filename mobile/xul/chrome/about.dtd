@@ -1,0 +1,14 @@
+<!ENTITY aboutPage.title "Περί &brandShortName;">
+<!ENTITY aboutPage.faq.label "FAQ">
+<!ENTITY aboutPage.support.label "Υποστήριξη">
+<!ENTITY aboutPage.privacyPolicy.label "Πολιτική προστασίας απορρήτου">
+<!ENTITY aboutPage.rights.label "Μάθετε τα δικαιώματά σας">
+<!ENTITY aboutPage.relNotes.label "Σημειώσεις έκδοσης">
+<!ENTITY aboutPage.credits.label "Μνεία">
+
+<!ENTITY aboutPage.checkForUpdates.button       "Έλεγχος για ενημερώσεις">
+<!ENTITY aboutPage.checkForUpdates.checking     "Αναζήτηση για ενημερώσεις…">
+<!ENTITY aboutPage.checkForUpdates.none         "Δεν βρέθηκαν ενημερώσεις">
+<!ENTITY aboutPage.checkForUpdates.found        "Υπάρχει διαθέσιμη ενημέρωση">
+<!ENTITY aboutPage.licenseLink "Πληροφορίες αδειοδότησης">
+<!ENTITY aboutPage.licenseLinkSuffix            ".">

@@ -1,0 +1,13 @@
+<!ENTITY empty.label            "Αναζήτηση">
+<!ENTITY newpref.label          "Προσθήκη νέας προτίμησης">
+<!ENTITY addpref.name           "Όνομα">
+<!ENTITY addpref.value          "Τιμή">
+
+<!ENTITY cancel.label           "Ακύρωση">
+<!ENTITY reset.label            "Επαναφορά">
+<!ENTITY done.label             "Ολοκλήρωση">
+
+<!ENTITY integer.label          "Integer">
+<!ENTITY string.label           "String">
+<!ENTITY boolean.label          "Boolean">
+
