@@ -22,11 +22,11 @@
 <!ENTITY importButton.accesskey     "I">
 <!ENTITY importButton.commandkey    "i">
 
-<!ENTITY visibilityToggle.tooltip   "stijlblad zichtbaarheid wisselen">
+<!ENTITY visibilityToggle.tooltip   "Zichtbaarheid stijlblad wisselen">
 <!ENTITY visibilityToggle.accesskey "z">
 
 <!ENTITY saveButton.label           "Opslaan">
-<!ENTITY saveButton.tooltip         "Stijlblad opslaan als een bestand">
+<!ENTITY saveButton.tooltip         "Stijlblad als bestand opslaan">
 <!ENTITY saveButton.accesskey       "S">
 <!ENTITY saveButton.commandkey      "s">
 
@@ -34,7 +34,7 @@
      when the stylesheet uses the scoped attribute on the <style> element. -->
 <!ENTITY scoped.label               "Scoped.">
 
-<!ENTITY editorTextbox.placeholder  "Voer CSS hier in.">
+<!ENTITY editorTextbox.placeholder  "Voer hier CSS in.">
 
 <!-- LOCALICATION NOTE  (noStyleSheet.label): This is shown when a page has no
      stylesheet. -->
