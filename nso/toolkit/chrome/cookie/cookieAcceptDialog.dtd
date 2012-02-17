@@ -4,7 +4,6 @@
 <!ENTITY     props.path.label               "Tsejana:">
 <!ENTITY     props.secure.label             "Romelela:">
 <!ENTITY     props.expires.label            "Felelwa ke nako:">
-<!ENTITY     props.policy.label             "Pholisi:"> 
 
 <!ENTITY     button.allow.label             "Dumelela">
 <!ENTITY     button.allow.accesskey         "D">

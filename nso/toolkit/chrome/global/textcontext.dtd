@@ -13,6 +13,8 @@
 
 <!ENTITY spellAddToDictionary.label "Oketša go pukuntšu">
 <!ENTITY spellAddToDictionary.accesskey "o">
+<!ENTITY spellUndoAddToDictionary.label "Dirolla oketša go pukuntšu">
+<!ENTITY spellUndoAddToDictionary.accesskey "r">
 <!ENTITY spellCheckEnable.label "Lekola mopeleto">
 <!ENTITY spellCheckEnable.accesskey "m">
 <!ENTITY spellNoSuggestions.label "(Ga go na ditšhišinyo tša mopeleto)">

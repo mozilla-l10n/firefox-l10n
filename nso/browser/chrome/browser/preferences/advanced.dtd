@@ -41,7 +41,9 @@
 <!ENTITY connectionSettings.label        "Dipeakanyo…">
 <!ENTITY connectionSettings.accesskey    "e">
 
-<!ENTITY offlineStorage.label            "Polokelo yeo e sego inthaneteng">
+<!ENTITY httpCache.label                 "Dikagare tša wepe tše nago le polokelo-tsebišo">
+
+<!ENTITY offlineStorage2.label           "Dikagare tša wepe tšego sego inthaneteng le tsebišo ya modiriši">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -54,6 +56,8 @@
 <!ENTITY limitCacheSizeAfter.label       "MB ya sekgoba">
 <!ENTITY clearCacheNow.label             "Tloša gona bjale">
 <!ENTITY clearCacheNow.accesskey         "T">
+<!ENTITY clearOfflineAppCacheNow.label   "Tloša gona bjale">
+<!ENTITY clearOfflineAppCacheNow.accesskey "n">
 <!ENTITY overrideSmartCacheSize.label    "Beela ka thoko taolo ya polokelo-tsebišo yeo e itirišago">
 <!ENTITY overrideSmartCacheSize.accesskey "o">
 
@@ -77,8 +81,6 @@
 <!ENTITY useService.accesskey            "b">
 
 <!ENTITY updateOthers.label              "Mpshafatša ka maitirišo:">
-<!ENTITY enableAddonsUpdate3.label       "Ditlaleletši">
-<!ENTITY enableAddonsUpdate3.accesskey   "e">
 <!ENTITY enableSearchUpdate.label        "Dientšene tša nyako">
 <!ENTITY enableSearchUpdate.accesskey    "e">
 
@@ -87,7 +89,7 @@
 <!ENTITY offlineNotifyExceptions.label   "Maarogi…">
 <!ENTITY offlineNotifyExceptions.accesskey "a">
 
-<!ENTITY offlineAppsList.label           "Diwepesaete tše latelago di bolokile tsebišo bakeng sa go e diriša e se inthaneteng:">
+<!ENTITY offlineAppsList2.label          "Diwepesaete tše latelago di dumeletšwe go boloka tsebišo bakeng sa go e diriša e se inthaneteng:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Tloša…">
 <!ENTITY offlineAppsListRemove.accesskey "T">

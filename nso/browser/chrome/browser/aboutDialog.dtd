@@ -1,16 +1,30 @@
 <!ENTITY aboutDialog.title          "Ka ga &brandFullName;">
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
-<!ENTITY community.start2           "&brandShortName; e hlamilwe ke">
+<!ENTITY warningDesc.version        "&brandShortName; ke ya maitekelo gomme e ka no se šome ka tshwanelo.">
+<!-- LOCALIZATION NOTE (warningDesc.telemetry): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetry      "E romela morago ka maitirišo tshedimošo ya diteko go &vendorShortName; go thuša go dira gore &brandShortName; e be kaone.">
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+
+<!ENTITY community.exp.start        "">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+<!ENTITY community.exp.middle       "ke">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "setšhaba sa lefase ka bophara">
+<!ENTITY community.exp.end          " se šomago mmogo go boloka Wepe e butšwe, e le ya setšhaba le go fihlelelwa ke bohle.">
+
+<!ENTITY community.start2           "&brandShortName; e hlamilwe ke ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
-<!ENTITY community.middle2          ", a ">
+<!ENTITY community.middle2          ", ke">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "setšhaba sa lefase ka bophara">
-<!ENTITY community.end2             " go šoma mmogo go dira gore inthanete e be kaone. Re dumela gore Inthanete swanetše go bulegela bohle, e be ya setšhaba le go fihlelelwa ke bohle ka ntle le dithibelo dife goba dife.">
+<!ENTITY community.end3             "se šomago mmogo go boloka Wepe e butšwe, e le ya setšhaba le go fihlelelwa ke bohle.">
 
-<!ENTITY contribute.start           "E kwagala e kgahliša?">
+<!ENTITY contribute.start           "E kwagala e kgahliša? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "E ba le seabe!">
+<!ENTITY contribute.getInvolvedLink "Tšenya letsogo!">
 <!ENTITY contribute.end             "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 

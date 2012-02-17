@@ -1,0 +1,8 @@
+<!ENTITY aboutAddons.title                      "Molaodi wa ditlaleletši">
+<!ENTITY aboutAddons.header2                    "Your Add-ons">
+<!ENTITY aboutAddons.options                    "Dikgetho">
+
+<!ENTITY addonAction.enable                     "Kgonagatša">
+<!ENTITY addonAction.disable                    "Šitiša">
+<!ENTITY addonAction.uninstall                  "Ntšha">
+<!ENTITY addonAction.cancel                     "Khansela">
