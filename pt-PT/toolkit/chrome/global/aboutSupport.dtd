@@ -16,7 +16,13 @@
 <!ENTITY aboutSupport.appBasicsTitle "Noções básicas">
 <!ENTITY aboutSupport.appBasicsName "Nome">
 <!ENTITY aboutSupport.appBasicsVersion "Versão">
-<!ENTITY aboutSupport.appBasicsProfileDir "Pasta do perfil">
+
+<!ENTITY aboutSupport.appBasicsProfileDir "Diretoria do perfil">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Pasta do perfil">
+
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Plugins activados">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configuração da versão">
 <!ENTITY aboutSupport.appBasicsUserAgent "Agente de utilizador">
@@ -24,7 +30,6 @@
 <!ENTITY aboutSupport.appBasicsMemoryUse "Utilização da memória">
 
 <!ENTITY aboutSupport.showDir.label "Abrir pasta">
-
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.show.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
