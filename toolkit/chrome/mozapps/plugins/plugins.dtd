@@ -34,8 +34,8 @@
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "Ath-luchdaich an duilleag">
 <!ENTITY reloadPlugin.post                                   " gus feuchainn ris a-rithist.">
-<!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.checkbox                                     "...agus cuir a-null aithisg mun tuisleadh">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "Cuir a-steach aithisg tuislidh">
 <!ENTITY report.submitting                                   "A' cur a-null na h-aithisge…">
 <!ENTITY report.submitted                                    "Chaidh an aithisg tuislidh a chur a-null.">
 <!ENTITY report.disabled                                     "Tha dèanamh aithisgean air tuislidhean dheth.">

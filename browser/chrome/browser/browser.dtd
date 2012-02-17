@@ -217,8 +217,13 @@ can reach it easily. -->
 <!ENTITY inspectButton.label            "Sgrùdaich">
 <!ENTITY inspectButton.accesskey        "i">
 <!ENTITY inspectCloseButton.tooltiptext "Dùin an sgrùdaiche">
-<!ENTITY inspect3DButton.label        "3D">
-<!ENTITY inspect3DButton.accesskey    "M">
+<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
+  -  alternate view for the Inspector, creating a 3D visualization of the
+  -  webpage. -->
+
+<!ENTITY inspect3DViewButton.label     "Sealladh 3D">
+<!ENTITY inspect3DViewButton.accesskey "D">
+
 <!ENTITY inspectStyleButton.label     "Stoidhle">
 <!ENTITY inspectStyleButton.accesskey "S">
 <!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears

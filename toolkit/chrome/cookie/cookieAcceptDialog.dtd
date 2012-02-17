@@ -4,7 +4,6 @@
 <!ENTITY     props.path.label               "Slighe:">
 <!ENTITY     props.secure.label             "Seòl airson:">
 <!ENTITY     props.expires.label            "Falbhaidh an ùine air:">
-<!ENTITY     props.policy.label             "Poileasaidh:"> 
 
 <!ENTITY     button.allow.label             "Ceadaich">
 <!ENTITY     button.allow.accesskey         "a">

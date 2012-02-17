@@ -1,0 +1,72 @@
+<!-- Don't localize these. They're here until they have
+     a better place to live. -->
+<!ENTITY syncBrand.fullName.label "Sioncronachadh Firefox">
+<!ENTITY syncBrand.shortName.label "Sioncronachadh">
+<!-- Main titles. -->
+
+<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
+<!ENTITY sync.title.connect.label "Dèan ceangal ri &syncBrand.shortName.label;">
+<!ENTITY sync.title.adddevice.label "Cuir cunntas &syncBrand.fullName.label; ris">
+<!ENTITY sync.title.pair.label "Paidhrich inneal">
+<!-- J-PAKE Key Screen -->
+
+<!ENTITY sync.subtitle.connect.label "Gus an t-inneal ùr agad a chur thuige, tagh “Suidhich &syncBrand.shortName.label;” air an inneal.">
+<!ENTITY sync.subtitle.header.label "Cuir an còd seo a-steach air a\' choimpiutair agad">
+<!ENTITY sync.subtitle.connectlocation.label "Tagh “&sync.title.pair.label;” san earrann &syncBrand.shortName.label; anns na roghainnean Firefox air an desktop agad.">
+<!ENTITY sync.subtitle.pair.label "Gus a chur an thuige, tagh “Paidhrich inneal” air an dàrna inneal agad.">
+<!ENTITY sync.pin.default.label "...\n...\n...\n">
+<!ENTITY sync.pin.oneline.label "...">
+<!ENTITY sync.link.show.label "Seall dhomh mar a nì mi seo.">
+<!ENTITY sync.link.advancedsetup.label "Suidheachadh adhartach…">
+<!ENTITY sync.link.nodevice.label "Chan eil an t-inneal agam an-seo…">
+<!-- J-PAKE Waiting Screen -->
+
+<!ENTITY sync.jpake.subtitle.waiting.label "A\' feitheamh ris an dàrna inneal…">
+<!-- Account Login Screen -->
+
+<!ENTITY sync.subtitle.account.label "Cuir a-steach fiosrachadh a\' chunntais &syncBrand.fullName.label; agad">
+<!ENTITY sync.input.username.label "Ainm a\' chunntais">
+<!ENTITY sync.input.password.label "Facal-faire">
+<!ENTITY sync.input.key.label "An iuchair aisig">
+<!ENTITY sync.checkbox.server.label "Cleachd frithealaichte gnàthaichte">
+<!ENTITY sync.input.server.label "URL an fhrithealaiche">
+<!-- Setup Fail -->
+  
+<!ENTITY sync.title.fail.label "Cha ghabh &syncBrand.shortName.label; a shuidheachadh">
+<!ENTITY sync.subtitle.fail.label "Cha b\' urrainn do &syncBrand.fullName.label; ceangal a dhèanamh ris an fhrithealaiche. A bheil thu airson feuchainn ris a-rithist?">
+<!ENTITY sync.button.tryagain.label "Feuch ris a-rithist">
+<!ENTITY sync.button.manual.label "Suidheachadh a làimh">
+<!ENTITY sync.subtitle.nointernet.label "Chan eil ceangal ris an lìon ann.">
+<!-- Setup Success -->
+  
+<!ENTITY sync.title.success.label "Tha an suidheachadh deiseil">
+<!ENTITY sync.subtitle.success.label "Tha an dàta agad \'ga luchdadh a-nuas sa chùlaibh. \'S urrainn dhut a dhol dha na roghainnean agad gus an cunntas agad a stiùireadh.">
+<!ENTITY sync.settings.label "Roghainnean">
+<!ENTITY sync.subtitle.manage.label "Chaidh an cunntas &syncBrand.fullName.label; a shuidheachadh mu thràth. \'S urrainn dhut a dhol dha na roghainnean agad gus an cunntas agad a stiùireadh.">
+<!-- Pair Device -->
+
+<!ENTITY sync.pair.tryagain.label "Saoil am feuch thu ris a-rithist?">
+<!-- Firefox SyncAdapter Settings Screen -->
+
+<!ENTITY sync.settings.options.label "Roghainnean">
+<!ENTITY sync.summary.pair.label "Ceangail inneal eile ris a' chunntas &syncBrand.shortName.label; agad">
+<!-- Common text -->
+
+<!ENTITY sync.button.cancel.label "Sguir dheth">
+<!ENTITY sync.button.connect.label "Ceangail">
+<!ENTITY sync.button.ok.label "Ceart ma-tha">
+<!-- Account strings -->
+  
+<!ENTITY sync.account.label.label "&syncBrand.fullName.label;">
+<!-- Bookmark folder strings -->
+  
+<!ENTITY bookmarks.folder.menu.label "Clàr-taice nan comharra-lìn">
+<!ENTITY bookmarks.folder.places.label ''>
+<!ENTITY bookmarks.folder.tags.label "Tagaichean">
+<!ENTITY bookmarks.folder.toolbar.label "Bàr nan comharra-lìn">
+<!ENTITY bookmarks.folder.unfiled.label "Comharran-lìn gun seòrsachadh">
+<!ENTITY bookmarks.folder.desktop.label "Comharraidhean-lìn air an deasg">
+<!ENTITY bookmarks.folder.mobile.label "Comharran-lìn fòn-làimhe">
+<!-- Notification strings -->
+
+<!ENTITY sync.notification.oneaccount.label "Chan eil taic ann ach do dh\'aon chunntas &syncBrand.shortName.label;.">

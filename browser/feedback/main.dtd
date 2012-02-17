@@ -3,7 +3,7 @@
 <!ENTITY testpilot.settings.dataSubmission.label    "Cur a-null dàta">
 <!ENTITY testpilot.settings.notifications.label     "Brathan">
 <!ENTITY testpilot.settings.notifyWhen.label        "Cuir brath thugam nuair a…">
-<!ENTITY testpilot.settings.readyToSubmit.label     "bhios sgrùdadh deiseil ri chur a-null">
+<!ENTITY testpilot.settings.readyToSubmit.label     "bhios sgrùdadh deiseil ri chur">
 <!ENTITY testpilot.settings.newStudy.label          "bhios sgrùdadh ùr ann">
 <!ENTITY testpilot.settings.hasNewResults.label     "toraidhean ùra aig sgrùdadh">
 <!ENTITY testpilot.settings.alwaysSubmitData.label  "Cuirear a-null an dàta agam leis fhèin (na faighnich dhìom)">
