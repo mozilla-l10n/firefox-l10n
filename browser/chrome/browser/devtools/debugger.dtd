@@ -9,7 +9,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerMenu.label): This is the label for the
   -  application menu item that opens the debugger UI. -->
-<!ENTITY debuggerMenu.label          "Script Debugger">
+<!ENTITY debuggerMenu.label          "Script-debugger">
 
 <!-- LOCALIZATION NOTE (debuggerMenu.commandkey): This is the command key that
   -  launches the debugger UI. Do not translate this one! -->
@@ -17,7 +17,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.closeButton): This is the label for the
   -  button that closes the debugger UI. -->
-<!ENTITY debuggerUI.closeButton      "Close">
+<!ENTITY debuggerUI.closeButton      "Sluiten">
 
 <!-- LOCALIZATION NOTE (debuggerUI.stackTitle): This is the label for the
   -  widget that displays the call stack frames in the debugger. -->
@@ -31,4 +31,4 @@
 <!-- LOCALIZATION NOTE (debuggerUI.propertiesTitle): This is the label for the
   -  widget that displays the variables in the various available scopes in the
   -  debugger. -->
-<!ENTITY debuggerUI.propertiesTitle  "Scope variables">
+<!ENTITY debuggerUI.propertiesTitle  "Scope variabelen">
