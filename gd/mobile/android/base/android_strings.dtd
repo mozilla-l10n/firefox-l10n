@@ -27,9 +27,7 @@
 
 <!ENTITY awesomebar_default_text "Dèan lorg no cuir a-steach seòladh">
 
-<!ENTITY bookmarks_title "Comharran-lìn">
-<!ENTITY bookmark_add "Comharra-lìn">
-<!ENTITY bookmark_remove "Thoir air falbh">
+<!ENTITY bookmark "Comharra-lìn">
 <!ENTITY bookmark_added "Comharra-lìn air a chur ris">
 <!ENTITY bookmark_removed "Comharra-lìn air a thoirt air falbh">
 
@@ -42,6 +40,7 @@
 <!ENTITY forward "Air adhart">
 
 <!ENTITY new_tab "Taba ùr">
+<!ENTITY new_tab_opened "Chaidh taba ùr fhosgladh">
 
 <!ENTITY settings "Roghainnean">
 <!ENTITY settings_title "Roghainnean">
@@ -49,37 +48,41 @@
 <!ENTITY pref_category_privacy "Prìobhaideachd ┐ Tèarainteachd">
 <!ENTITY pref_category_content "Susbaint">
 <!ENTITY pref_about_firefox "Mu &brandShortName;">
-<!ENTITY pref_do_not_track "Innis do làraichean gun a bhith 'gam lorgadh">
+<!ENTITY pref_do_not_track "Innis do làraichean gun a bhith \'gam lorgadh">
 <!ENTITY pref_telemetry "Cuir dàta mun dèanadas">
 <!ENTITY pref_remember_signons "Cum faclan-faire an cuimhne">
 <!ENTITY pref_cookies "Cuir briosgaidean an comas">
-<!ENTITY pref_char_encoding "Seall còdachadh charactairean">
+<!ENTITY pref_char_encoding "Còdachadh charactairean">
+<!ENTITY pref_char_encoding_on "Seall an clàr-taice">
+<!ENTITY pref_char_encoding_off "Na seall an clàr-taice">
 <!ENTITY pref_clear_history "Glan an eachdraidh">
 <!ENTITY pref_clear_history_confirm "Thèid an eachdraidh brabhsaidh a sguabadh às">
 <!ENTITY pref_clear_private_data "Falamhaich an dàta prìobhaideach">
-<!ENTITY pref_clear_private_data_confirm "Thèid na roghainnean brabhsaidh a sguabadh às, a' gabhail a-steach na faclan-faire 's briosgaidean.">
-<!ENTITY pref_enable_plugins "Cuir na plugain an comas">
-<!ENTITY pref_enable_plugins_yes "Tha">
-<!ENTITY pref_enable_plugins_tap_to_play "Gnog gus a chluich">
-<!ENTITY pref_enable_plugins_no "Chan eil">
-<!ENTITY pref_font_size "Meud a' chruth-chlò">
+<!ENTITY pref_clear_private_data_confirm "Thèid na roghainnean brabhsaidh a sguabadh às, a\' gabhail a-steach na faclan-faire \'s briosgaidean.">
+<!ENTITY pref_plugins "Plugain">
+<!ENTITY pref_plugins_enabled "Air a chur an comas">
+<!ENTITY pref_plugins_tap_to_play "Gnog gus a chluich">
+<!ENTITY pref_plugins_disabled "Air a chur à comas">
+<!ENTITY pref_text_size "Meud an teacsa">
+<!ENTITY pref_font_size_tiny "Beag bìodach">
 <!ENTITY pref_font_size_small "Beag">
 <!ENTITY pref_font_size_medium "Meadhanach">
 <!ENTITY pref_font_size_large "Mòr">
 <!ENTITY pref_font_size_xlarge "Anabarrach mòr">
 <!ENTITY pref_use_master_password "Cleachd facal-faire maighstir">
+<!ENTITY pref_sync "Co-shioncronachadh">
 
 <!ENTITY quit "Fàg an-seo">
 
 <!ENTITY addons "Tuilleadain">
 <!ENTITY downloads "Luchdaidhean a-nuas">
+<!ENTITY char_encoding "Còdachadh charactairean">
 
 <!ENTITY share "Co-roinn">
 <!ENTITY save_as_pdf "Sàbhail mar PDF">
-<!ENTITY agent_request_desktop "Iarr làrach nan desktop">
-<!ENTITY agent_request_mobile "Iarr làrach nan innealan-làimhe">
 
 <!ENTITY contextmenu_open_new_tab "Fosgail ann an taba ùr">
+<!ENTITY contextmenu_remove_bookmark "Thoir air falbh">
 <!ENTITY contextmenu_add_to_launcher "Cuir ris an sgrìn mhòr">
 <!ENTITY contextmenu_share "Co-roinn">
 
@@ -95,3 +98,13 @@
 
 <!ENTITY button_ok "Ceart ma-tha">
 <!ENTITY button_cancel "Sguir dheth">
+
+<!ENTITY abouthome_addons_title "Tuilleadain airson &brandShortName; agad">
+<!ENTITY abouthome_addons_browse "Brabhsaich gach tuilleadan &brandShortName;">
+<!ENTITY abouthome_last_tabs_title "Na tabaichean a bha agad turas mu dheireadh">
+<!ENTITY abouthome_last_tabs_open "Fosgail gach taba on turas mu dheireadh">
+<!ENTITY abouthome_top_sites_title "Sàr-làraichean">
+<!ENTITY abouthome_top_sites_browse "Brabhsaich gach sàr-làrach agad">
+<!ENTITY abouthome_no_top_sites "Chan eil sàr-làrach agad fhathast. Gnog air a\' bhàr-tiotail gus tòiseachadh air brabhsadh.">
+<!ENTITY abouthome_about_sync "Suidhich sioncronachadh Firefox gus cothrom fhaighinn air na comharran-lìn, an eachdraidh \'s na tabaichean agad o innealan eile agad">
+<!ENTITY abouthome_sync_bold_name "Co-shioncronachadh Firefox">

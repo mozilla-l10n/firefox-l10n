@@ -1,0 +1,6 @@
+<!-- These strings are used in the about:newtab page -->
+<!ENTITY newtab.pageTitle "Taba ùr">
+
+<!ENTITY newtab.show "Seall duilleag an taba ùir">
+<!ENTITY newtab.hide "Falaich duilleag an taba ùir">
+<!ENTITY newtab.reset "Ath-shuidhich duilleag an taba ùir">

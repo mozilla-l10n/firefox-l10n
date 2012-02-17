@@ -21,14 +21,17 @@ agad mu &brandShortName;, cuir sùil air an <a id='supportLink'>làrach-taice</a
 <!ENTITY aboutSupport.appBasicsCrashIDs "Aithisgean tuislidh">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Cleachdadh na cuimhne">
 
-<!ENTITY aboutSupport.show.label "Fosgail am pasgan far a bheil e">
+<!ENTITY aboutSupport.showDir.label "Fosgail an t-eòlaire">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
-variant of aboutSupport.show.label.  This allows us to use the preferred
+variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
 
 <!ENTITY aboutSupport.showMac.label "Seall san lorgair">
+<!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
+variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin.label "Seall am pasgan">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "Roghainnean air an atharrachadh">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Roghainnean cudromach a chaidh atharrachadh">
 <!ENTITY aboutSupport.modifiedPrefsName "Ainm">
 <!ENTITY aboutSupport.modifiedPrefsValue "Luach">
 
