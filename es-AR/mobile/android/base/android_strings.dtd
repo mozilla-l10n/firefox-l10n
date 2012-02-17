@@ -60,9 +60,9 @@
 <!ENTITY pref_clear_private_data "Borrar datos privados">
 <!ENTITY pref_clear_private_data_confirm "Las opciones de navegación, incluyendo contraseñas y cookies serán borradas">
 <!ENTITY pref_plugins "Plugins">
-<!ENTITY pref_plugins_enabled "Habilitar">
+<!ENTITY pref_plugins_enabled "Habilitado">
 <!ENTITY pref_plugins_tap_to_play "Pulsar para ejecutar">
-<!ENTITY pref_plugins_disabled "Deshabilitar">
+<!ENTITY pref_plugins_disabled "Deshabilitado">
 <!ENTITY pref_text_size "Tamaño de texto">
 <!ENTITY pref_font_size_tiny "Muy chico">
 <!ENTITY pref_font_size_small "Chico">
@@ -76,6 +76,7 @@
 
 <!ENTITY addons "Complementos">
 <!ENTITY downloads "Descargas">
+<!ENTITY char_encoding "Codificación de caracteres">
 
 <!ENTITY share "Compartir">
 <!ENTITY save_as_pdf "Guardar como PDF">
