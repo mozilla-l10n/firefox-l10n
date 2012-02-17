@@ -54,19 +54,23 @@
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
+<!ENTITY leaveMsgsOnSrvr.label "Deixar mensagens no servidor">
+<!ENTITY leaveMsgsOnSrvr.accesskey "L">
 <!ENTITY portNum.label "Porta:">
 <!ENTITY portNum.accesskey "o">
 <!ENTITY defaultPortLabel.label "Pré-definido:">
 <!ENTITY defaultPortValue.label "">
-<!ENTITY leaveMsgsOnSrvr.label "Deixar mensagens no servidor">
-<!ENTITY leaveMsgsOnSrvr.accesskey "x">
 
-<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
+<!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
+     haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
+-->
+<!ENTITY modifyOutgoing.suffix "You can change outgoing servers in the account settings.">
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix "O servidor SMTP atual, &quot;">
-<!ENTITY haveSmtp1.suffix2 "&quot;, será usado para enviar mensagens. Modifique indo ao menu Ferramentas -> Configurar contas.">
+<!ENTITY haveSmtp1.suffix3 "&quot;, será usado.">
 
 <!-- Entities for Login page -->
 
@@ -75,22 +79,22 @@
 <!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
 <!ENTITY usernameExample.label "(exemplo: &quot;jsmith&quot;).">
 <!ENTITY usernameLabel.label "Nome de utilizador:">
-<!ENTITY usernameLabel.accesskey "U">
+<!ENTITY usernameLabel.accesskey "u">
 <!ENTITY usernameSmtpDesc.label "Forneça o nome de utilizador do servidor SMTP (usado para enviar correio eletrónico) fornecido pelo seu fornecedor de correio eletrónico. Normalmente é o mesmo nome de utilizador usado para receber mensagens.">
 <!ENTITY usernameSmtpLabel.label "Nome de utilizador do servidor SMTP:">
 <!ENTITY usernameSmtpLabel.accesskey "N">
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "O nome de utilizador do servidor SMTP, &quot;">
-<!ENTITY haveSmtp2.suffix2 "&quot;, será usado para enviar mensagens. Modifique pelo menu Ferramentas - Configurar contas.">
+<!ENTITY haveSmtp2.suffix3 "&quot;, será usado.">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "O servidor SMTP (usado para enviar mensagens), &quot;">
-<!ENTITY haveSmtp3.suffix2 "&quot;, é o mesmo servidor usado para receber mensagens. Será usado o mesmo nome de utilizador. Você pode modificar estas opções no menu Ferramentas - Configurar contas.">
+<!ENTITY haveSmtp3.suffix3 "&quot;, é o mesmo servidor usado para receber mensagens. Será usado o mesmo nome de utilizador.">
 
 <!-- Entities for Account name page -->
 
@@ -98,7 +102,7 @@
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
 <!ENTITY accnameDesc.label "Forneça o nome pelo qual você quer identificar esta conta (por exemplo: &quot;Conta do trabalho&quot;, &quot;Casa&quot; ou &quot;Conta de Notícias&quot;).">
 <!ENTITY accnameLabel.label "Nome da conta:">
-<!ENTITY accnameLabel.accesskey "T">
+<!ENTITY accnameLabel.accesskey "t">
 
 <!-- Entities for Done (Congratulations) page -->
 
