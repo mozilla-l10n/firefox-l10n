@@ -15,7 +15,6 @@
 <!ENTITY locbar.bookmarks.label "Záložky">
 <!ENTITY locbar.nothing.label "Nic">
 
-
 <!ENTITY acceptCookies.label "Povolit serverům nastavovat cookies">
 <!ENTITY acceptCookies.accesskey "c">
 
@@ -64,11 +63,8 @@
 <!ENTITY privateBrowsingPermanent2.label "Vždy použít režim anonymního prohlížení">
 <!ENTITY privateBrowsingPermanent2.accesskey "r">
 
-<!ENTITY rememberHistory.label "Pamatovat si historii stránek">
-<!ENTITY rememberHistory.accesskey "h">
-
-<!ENTITY rememberDownload.label "Pamatovat si historii stahování">
-<!ENTITY rememberDownload.accesskey "P">
+<!ENTITY rememberHistory2.label "Pamatovat si historii stránek a stahování">
+<!ENTITY rememberHistory2.accesskey "h">
 
 <!ENTITY rememberSearchForm.label "Pamatovat si historii hledání a formulářů">
 <!ENTITY rememberSearchForm.accesskey "f">
