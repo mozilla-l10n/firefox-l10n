@@ -22,6 +22,8 @@
 <!ENTITY aboutSupport.modifiedPrefsName "Nome">
 <!ENTITY aboutSupport.modifiedPrefsValue "Valore">
 <!ENTITY aboutSupport.graphicsTitle "Grafica">
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "GC incrementale">
 <!ENTITY aboutSupport.installationHistoryTitle "Cronologia installazione">
 <!ENTITY aboutSupport.updateHistoryTitle "Aggiorna cronologia">
 <!ENTITY aboutSupport.copyToClipboard.label "Copia negli appunti">
