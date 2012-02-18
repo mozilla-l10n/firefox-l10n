@@ -4,7 +4,6 @@
 <!ENTITY props.path.label               "Sti:">
 <!ENTITY props.secure.label             "Send for:">
 <!ENTITY props.expires.label            "Udløber:">
-<!ENTITY props.policy.label             "Politik:">
 
 <!ENTITY button.allow.label             "Tillad">
 <!ENTITY button.allow.accesskey         "T">
