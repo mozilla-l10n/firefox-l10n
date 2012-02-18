@@ -16,9 +16,10 @@ Esta página presenta información técnica que puede ser de ayuda si necesitas 
 <!ENTITY aboutSupport.appBasicsUserAgent "Agente de usuario">
 <!ENTITY aboutSupport.appBasicsCrashIDs "Informes de colapso">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Uso de memoria">
-<!ENTITY aboutSupport.show.label "Abrir la carpeta que lo contiene">
+<!ENTITY aboutSupport.showDir.label "Open Directory">
 <!ENTITY aboutSupport.showMac.label "Mostrar en Finder">
-<!ENTITY aboutSupport.modifiedPrefsTitle "Preferencias modificadas">
+<!ENTITY aboutSupport.showWin.label "Show Folder">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Important Modified Preferences">
 <!ENTITY aboutSupport.modifiedPrefsName "Nombre">
 <!ENTITY aboutSupport.modifiedPrefsValue "Valor">
 <!ENTITY aboutSupport.graphicsTitle "Gráficas">
