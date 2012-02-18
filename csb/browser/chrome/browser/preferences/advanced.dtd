@@ -78,9 +78,9 @@
 <!ENTITY updateCheck.label               "Sprawdzôj przistãp aktualizacjów, ale wëmôgôj pocwierdzeniô jich jinstalacji">
 <!ENTITY updateCheck.accesskey           "S">
 
-<!ENTITY updateAutoAddonWarn.label       "Òstrzégôj, jeżle aktualizacjô doprowôdzy do wëłączeniô dodôwków">
+<!ENTITY updateAutoAddonWarn.label       "Òstrzégôj, Jeżlë aktualizacjô doprowadzy do wëłączeniô dodôwków">
 <!ENTITY updateAutoAddonWarn.accesskey   "Ò">
-<!ENTITY updateManual.label              "Nie sprawdzôj przistãpù aktualizacji (niebédowóné: zagrôżnota bezpiékù)">
+<!ENTITY updateManual.label              "Nie sprawdzôj przistãpù aktualizacji (niebédowóné: zagrôżnota bezpiekù)">
 <!ENTITY updateManual.accesskey          "N">
 <!ENTITY enableSearchUpdate.label        "Szëkôsze">
 <!ENTITY enableSearchUpdate.accesskey    "k">

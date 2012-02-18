@@ -22,7 +22,7 @@
 <!ENTITY  manualUpdate.title              "Ni môsz dosc prawów do zaktualnieniô">
 <!ENTITY  manualUpdate.desc               "Przistãpnô je zamòdlëwônô aktualizacjô bezpiekù ë sztabilnotë, ni môsz równak
                                            dosc prawów do tegò bë jã wjinstalowac. Sparłãczë sã proszã z twòjim
-                                           sprôwnikã systemù, abò spróbùjë znowa z jinszégò kònta, chtërné mô 
+                                           sprôwnikã systemù, abò spróbùjë znowa z jinszégò kònta, chtërne mô 
                                            dosc prawów do jinstalacji softwôrë na tim kòmpùtrze.">
 <!ENTITY  manualUpdate.space.desc         "Zamòdlëwóné zaktualnienié bezpiekù and sztabilnotë je przistãpnô kò
                                            ni môsz dosc placu do jich wjinstalowaniô.">
@@ -73,14 +73,14 @@
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; ni mòże scwierdzëc czë jaczés zaktualnienié je przistãpné. Proszã
                                            ùgwësni sã że môsz nônowszą wersëjã &brandShortName; z:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Cos przeszkôdzô &brandShortName; w bezpieczni aktuazlizacji.
+<!ENTITY  errorCertAttrNoUpdate2.label    "Cos przeszkôdzô &brandShortName; w bezpieczny aktuazlizacji.
                                            Proszã ùgwësni sã że môsz nônowszą wersjã &brandShortName; z:">
 <!ENTITY  errorCertAttrHasUpdate.label    "Cos chce wëmùszëc na &brandShortName; akceptacjã
                                            niebezpiecznégò zaktualnienia. Proszë sparłãczë są z miewcą twòji sécë ë pòprosë ò pòmòc.">
 
 <!ENTITY  finishedPage.title              "Aktualizacjô je parôt do wjinstalowaniô">
 <!ENTITY  finishedPage.text               "Aktualizacjô bãdze wjinstalowónô przë nôslédnym zrëszenim programù &brandShortName;. Zrëszë terô 
-                                           program &brandShortName; znowa, abò biéj z robòtą dali ë wjinstalëjë zaktualnienié pòzdze.">
+                                           program &brandShortName; znowa, abò biéj z robòtą dali ë wjinstalujë zaktualnienié pòzdze.">
 
 <!ENTITY  finishedBackgroundPage.text     "Program &brandShortName; zladowôł wôżną
                                            aktualizacjã ë je parôt do ji wjinstalowaniô.">

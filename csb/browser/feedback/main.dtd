@@ -20,12 +20,12 @@
 <!ENTITY testpilot.settings.newStudy.label          "Je nowô anczéta">
 <!ENTITY testpilot.settings.hasNewResults.label     "Anczéta mô nowé wińdzenia">
 <!ENTITY testpilot.settings.alwaysSubmitData.label  "Automatno wëslë mòje pòdôwczi (nie pëtôj mie)">
-<!ENTITY testpilot.allYourStudies.label             "Twòjé anczétë brëkòwnika…">
+<!ENTITY testpilot.allYourStudies.label             "Twòje anczétë brëkòwnika…">
 <!ENTITY testpilot.about.label                      "Ò Test Piloce">
 
 <!-- all studies window -->
-<!ENTITY testpilot.studiesWindow.title                  "Twòjé anczétë Test Pilota">
-<!ENTITY testpilot.studiesWindow.currentStudies.label   "Terczasné anczétë">
+<!ENTITY testpilot.studiesWindow.title                  "Twòje anczétë Test Pilota">
+<!ENTITY testpilot.studiesWindow.currentStudies.label   "Terëczasné anczétë">
 <!ENTITY testpilot.studiesWindow.finishedStudies.label  "Zakùńczoné anczétë">
 <!ENTITY testpilot.studiesWindow.studyFindings.label    "Szëkba anczétów">
 <!ENTITY testpilot.studiesWindow.settings.label         "Nastôwë">

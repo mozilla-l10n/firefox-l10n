@@ -27,8 +27,8 @@
 <!ENTITY selectionRadio.label "Wëbiérk">
 <!ENTITY selectionRadio.accesskey "b">
 
-<!ENTITY copies.label "Kòpije">
-<!ENTITY numCopies.label "Wielëna kòpijów:">
+<!ENTITY copies.label "Kòpie">
+<!ENTITY numCopies.label "Wielëna kòpiów:">
 <!ENTITY numCopies.accesskey "l">
 
 <!ENTITY printframeGroup.label "Drëkùjë ramë">

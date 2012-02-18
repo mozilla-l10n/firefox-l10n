@@ -76,18 +76,18 @@
 <!ENTITY certmgr.certdetail.sha1fingerprint   "Òbcësk palca SHA1">
 <!ENTITY certmgr.certdetail.md5fingerprint    "Òbcësk palca MD5">
 
-<!ENTITY certmgr.editcert.title               "Editëjë nastôwë certifikatù bezpiekù">
+<!ENTITY certmgr.editcert.title               "Editëjë nastôwë certifikatu bezpiekù">
 <!ENTITY certmgr.editcacert.title             "Editëje nastôwë wiarë Òrganu Certifikacji (CA)">
-<!ENTITY certmgr.editsslcert.title            "Editëjë nastôwë certifikatù bezpiekù stronë">
+<!ENTITY certmgr.editsslcert.title            "Editëjë nastôwë certifikatu bezpiekù stronë">
 <!ENTITY certmgr.editcert.edittrust           "Editëjë nastôwë wiarë:">
-<!ENTITY certmgr.editcert.trustssl            "Nen certifikat mòże rozszlachòwac stronë internetowé.">
+<!ENTITY certmgr.editcert.trustssl            "Nen certifikat mòże rozszlachòwac stronë jinternetowé.">
 <!ENTITY certmgr.editcert.trustemail          "Nen certifikat mòże rozszlachòwac e-mailowëch brëkòwników.">
 <!ENTITY certmgr.editcert.trustobjsign        "Nen certifikat mòże rozszlachòwac firmë softwôrowé.">
-<!ENTITY certmgr.editsslcert.edittrust        "Editëjë nastôwë wiarë certifikatù:">
+<!ENTITY certmgr.editsslcert.edittrust        "Editëjë nastôwë wiarë certifikatu:">
 <!ENTITY certmgr.editsslcert.dotrust          "Dôj wiarã prôwdzëwòtë negò certifikatu.">
 <!ENTITY certmgr.editsslcert.donttrust        "Nie dôj wiarë prôwdzëwòtë negò certifikatu.">
-<!ENTITY certmgr.editemailcert.title          "Editëjë nastôwë wiarë certifikatù e-maila">
-<!ENTITY certmgr.editemailcert.edittrust      "Editëjë nastôwë wiarë certifikatù:">
+<!ENTITY certmgr.editemailcert.title          "Editëjë nastôwë wiarë certifikatu e-maila">
+<!ENTITY certmgr.editemailcert.edittrust      "Editëjë nastôwë wiarë certifikatu:">
 <!ENTITY certmgr.editemailcert.dotrust        "Dôj wiarã prôwdzëwòtë negò certifikatu.">
 <!ENTITY certmgr.editemailcert.donttrust      "Nie dôj wiarë prôwdzëwòtë negò certifikatu.">
 
@@ -96,7 +96,7 @@
 <!ENTITY certmgr.deletecert.aftername         "Jes gwës że chcesz rëmnąc nen certifikat?">
 <!ENTITY certmgr.deleteusercert.title         "Rëmôj certifikat">
 <!ENTITY certmgr.deleteusercert.beforename    "Chcesz rëmnąc nen certifikat:">
-<!ENTITY certmgr.deleteusercert.aftername     "Pò rëmniãcym certifikatù nie bãdzesz mógł ju wicy òtemknąc e-mailów nim zaszifrowónëch.">
+<!ENTITY certmgr.deleteusercert.aftername     "Pò rëmniãcym certifikatu nie bãdzesz mógł ju wicy òtemknąc e-mailów nim zaszifrowónëch.">
 
 <!ENTITY certmgr.certname                     "Miono certifikatu">
 <!ENTITY certmgr.certserver                   "Serwer">
@@ -121,7 +121,7 @@
 <!ENTITY certmgr.export.accesskey             "E">
 <!ENTITY certmgr.delete2.label                "Rëmôj…">
 <!ENTITY certmgr.delete2.accesskey            "R">
-<!ENTITY certmgr.delete_builtin.label         "Rëmôj abò niedowierzôj…">
+<!ENTITY certmgr.delete_builtin.label         "Rëmôj abò nie dowierzôj…">
 <!ENTITY certmgr.delete_builtin.accesskey     "d">
 <!ENTITY certmgr.backup2.label                "Zazychrowanié…">
 <!ENTITY certmgr.backup2.accesskey            "Z">

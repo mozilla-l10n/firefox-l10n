@@ -51,7 +51,7 @@
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
 <!ENTITY aboutWarningTitle.label "Niebezpiek stratë gwarancji!">
-<!ENTITY aboutWarningText.label "Zjinaka tich nastôwów mòże doprowadzëc do problemów, taczich jakno strata stabilnotë ë wëdajnotë aplikacji jakno ë zagrożëc bezpiekòwi.">
+<!ENTITY aboutWarningText.label "Zjinaka tëch nastôwów mòże doprowadzëc do problemów, taczich jakno strata stabilnotë ë wëdajnotë aplikacji jakno ë zagrożëc bezpiekòwi.">
 <!ENTITY aboutWarningButton.label "Bãdã òstróżny, òbiecywóm!">
 <!ENTITY aboutWarningCheckbox.label "Wëskrzëni tã òstrzégã nôslédnym razã">
 
@@ -67,7 +67,7 @@
 
 <!-- Tooltips -->
 <!ENTITY prefColumnHeader.tooltip "Klëkni abë pòzortowac"> 
-<!ENTITY columnChooser.tooltip "Klëkni abë wëbrac kòlumnë, chtërné bãdą wëskrzëniwóné"> 
+<!ENTITY columnChooser.tooltip "Klëkni abë wëbrac kòlumnë, chtërne bãdą wëskrzëniwóné"> 
 
 <!-- Context Menu -->
 <!ENTITY copyPref.key "C">

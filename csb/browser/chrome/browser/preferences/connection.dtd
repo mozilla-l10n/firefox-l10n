@@ -12,11 +12,11 @@
 #
 -->
 
-<!ENTITY  connectionsDialog.title       "Nastôw sparłãczenia">
+<!ENTITY  connectionsDialog.title       "Nastôw sparłãczeniô">
 <!ENTITY  window.width                  "37em">
 <!ENTITY  window.macWidth               "39em">
 
-<!ENTITY  proxyTitle.label              "Kònfigùracëjô serwerów proxy do sparłãczeniô z internetã">
+<!ENTITY  proxyTitle.label              "Kònfigùracëjô serwerów proxy do sparłãczeniô z jinternetã">
 <!ENTITY  noProxyTypeRadio.label        "Bez serwera proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "B">
 <!ENTITY  systemTypeRadio.label         "Brëkùjë systemòwëch nastôwów serwerów proxy">
@@ -25,7 +25,7 @@
 <!ENTITY  WPADTypeRadio.accesskey       "a">
 <!ENTITY  manualTypeRadio.label         "Rãcznô kònfigùracjô serwerów proxy:">
 <!ENTITY  manualTypeRadio.accesskey     "k">
-<!ENTITY  autoTypeRadio.label           "Adresa URL automatny kònfigùracji:">
+<!ENTITY  autoTypeRadio.label           "Adres automatny kònfigùracji:">
 <!ENTITY  autoTypeRadio.accesskey       "A">
 <!ENTITY  reload.label                  "Zladëjë znowa">
 <!ENTITY  reload.accesskey              "d">

@@ -13,7 +13,7 @@
 <!ENTITY listEmpty.installed.label            "Ni môsz zajinstalowóné taczich dodôwków">
 <!ENTITY listEmpty.availableUpdates.label     "Nie nalôzł niżódnëch aktualizacji">
 <!ENTITY listEmpty.recentUpdates.label        "Długò ni môsz aktualizowóné dodôwków">
-<!ENTITY listEmpty.findUpdates.label          "Sprôwdzë zaktualnienia">
+<!ENTITY listEmpty.findUpdates.label          "Sprawdzë zaktualnienia">
 <!ENTITY listEmpty.search.label               "Nie nalôzł pasownëch dodôwków">
 <!ENTITY listEmpty.button.label               "Wicy wëdowiédzë ò dodôwkach">
 <!ENTITY installAddonFromFile.label           "Wjinstalëje pòdôwczi z lopka…">
@@ -33,8 +33,8 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "Włączë sprôwdzanié bezpiekù aktualizacji dodôwków">
 
 <!-- global informations -->
-<!ENTITY info.plugincheck.label                 "Sprôwdzë aktualnosc Twòjich dodôwków">
-<!ENTITY info.plugincheck.tooltip               "Sprôwdzë aktualnosc Twòjich dodôwków">
+<!ENTITY info.plugincheck.label                 "Sprawdzë aktualnosc Twòjich dodôwków">
+<!ENTITY info.plugincheck.tooltip               "Sprawdzë aktualnosc Twòjich dodôwków">
 
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Szëkba">
@@ -43,7 +43,7 @@
 <!ENTITY view.availableUpdates.label          "Przistãpné aktualizacje">
 
 <!-- addon updates -->
-<!ENTITY updates.checkForUpdates.label        "Sprôwdzë zaktualnienia">
+<!ENTITY updates.checkForUpdates.label        "Sprawdzë zaktualnienia">
 <!ENTITY updates.checkForUpdates.accesskey    "S">
 <!ENTITY updates.viewUpdates.label            "Wëskrzëni slédné zaktualnienia">
 <!ENTITY updates.viewUpdates.accesskey        "W">
@@ -68,7 +68,7 @@
 <!ENTITY updates.restart.label                "Zrëszë znowa abë skùńczëc jinstalacjã">
 <!ENTITY updates.noneFound.label              "Nie nalôzł niżódnëch aktualizacji">
 <!ENTITY updates.manualUpdatesFound.label     "Wëskrzëni przistãpné aktualizacje">
-<!ENTITY updates.updateSelected.label         "Wjinstalëjë aktualizacje">
+<!ENTITY updates.updateSelected.label         "wjinstalujë aktualizacje">
 <!ENTITY updates.updateSelected.tooltip       "Wjinstalëje przistãpné aktualizacje z ti lëstë">
 
 <!-- addon actions -->
@@ -91,7 +91,7 @@
 <!ENTITY cmd.enableTheme.accesskey            "w">
 <!ENTITY cmd.disableTheme.label               "Nie ùżëwôj mòtiwù">
 <!ENTITY cmd.disableTheme.accesskey           "w">
-<!ENTITY cmd.installAddon.label               "Wjinstalëjë">
+<!ENTITY cmd.installAddon.label               "wjinstalujë">
 <!ENTITY cmd.installAddon.accesskey           "i">
 <!ENTITY cmd.uninstallAddon.label             "Rëmôj">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
@@ -112,7 +112,7 @@
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 <!ENTITY discover.title                       "Co to są dodôwczi?">
-<!ENTITY discover.description2                "Dodôwczi są aplikacjama chtërne pòmògają w ùstawienim dodôwnëch fùnkcji
+<!ENTITY discover.description2                "Dodôwczi są aplikacjama, chtërne pòmògają w ùstawienim dodôwnëch fùnkcji
   czë sztélów &brandShortName;. Wëpróbùje czas-szpurowną bòczną lëstew, notifikatór wiodrów,
   czë mòtiwë do mòdifikacji wëzdrzatkù &brandShortName; na swòjã mòdã.
 ">
@@ -130,18 +130,18 @@
 
 <!ENTITY detail.updateType                    "Automatné aktualizacje">
 <!ENTITY detail.updateDefault.label           "Domëslno">
-<!ENTITY detail.updateDefault.tooltip         "Automatno wjinstalëjë aktualizacje żlë taczi je domëslny nastôw">
+<!ENTITY detail.updateDefault.tooltip         "Automatno wjinstalujë aktualizacje żlë taczi je domëslny nastôw">
 <!ENTITY detail.updateAutomatic.label         "Włączoné">
-<!ENTITY detail.updateAutomatic.tooltip       "Automatno wjinstalëjë aktualizacje">
+<!ENTITY detail.updateAutomatic.tooltip       "Automatno wjinstalujë aktualizacje">
 <!ENTITY detail.updateManual.label            "Wëłączoné">
-<!ENTITY detail.updateManual.tooltip          "Nie wjinstalëjë aktualizacji automatno">
+<!ENTITY detail.updateManual.tooltip          "Nie wjinstalujë aktualizacji automatno">
 <!ENTITY detail.home                          "Domôcô strona">
 <!ENTITY detail.repository                    "Profil dodôwka">
 <!ENTITY detail.size                          "Miara">
 
-<!ENTITY detail.checkForUpdates.label         "Sprôwdzë zaktualnienia">
+<!ENTITY detail.checkForUpdates.label         "Sprawdzë zaktualnienia">
 <!ENTITY detail.checkForUpdates.accesskey     "S">
-<!ENTITY detail.checkForUpdates.tooltip       "Sprôwdzë zaktualnienia dlô negò dodôwka">
+<!ENTITY detail.checkForUpdates.tooltip       "Sprawdzë zaktualnienia dlô negò dodôwka">
 <!ENTITY detail.showPreferencesWin.label      "Òptacje">
 <!ENTITY detail.showPreferencesWin.accesskey  "Ò">
 <!ENTITY detail.showPreferencesWin.tooltip    "Zmieni òptacje negò dodôwka">
@@ -192,7 +192,7 @@
 <!ENTITY addon.undoRemove.label               "Doprowadzë nazôd">
 <!ENTITY addon.undoRemove.tooltip             "Dô pòkù - òstôw dodôwk wjinstalowóny">
 <!ENTITY addon.restartNow.label               "Zrëszë znowa">
-<!ENTITY addon.install.label                  "Wjinstalëjë">
+<!ENTITY addon.install.label                  "wjinstalujë">
 <!ENTITY addon.install.tooltip                "Jinstalëjë nen dodôwk">
 <!ENTITY addon.updateNow.label                "Zaktualizëjë terô">
 <!ENTITY addon.updateNow.tooltip              "Wjinstalëje zaktualnienie dlô negò dodôwkù">

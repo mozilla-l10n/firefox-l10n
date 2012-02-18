@@ -60,7 +60,7 @@
 
 <!-- New Account Page 2: Sync Key -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; mô starã ò Twòją priwatnotã">
-<!ENTITY setup.newRecoveryKeyPage.description.label "Abë zagwësnic całowną priwatnotã, wszëtczé Twòjé pòdôwczi są szifrowóné przed wladënkã. Klucz òdzwëskù, chtëren nót je do òdszifrowaniô, nie je wladowóny.">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Abë zagwësnic całowną priwatnotã, wszëtczé Twòje pòdôwczi są szifrowóné przed wladënkã. Klucz òdzwëskù, chtëren nót je do òdszifrowaniô, nie je wladowóny.">
 <!ENTITY recoveryKeyEntry.label        "Twój klucz òdzwëskù">
 <!ENTITY recoveryKeyEntry.accesskey    "k">
 <!ENTITY syncGenerateNewKey.label  "Generëjë nowi klucz">
@@ -116,8 +116,8 @@
 <!ENTITY setup.optionsConfirmPage.title "Pòcwierdzë">
 <!ENTITY confirm.merge.label    "&syncBrand.fullName.label; dodôj terô wszëtczé pòdôwczi z tegò przezérnika do Twòjégò kònta Sync.">
 <!ENTITY confirm.client2.label         "Bôczënk: Ne pòdôwczi programù &brandShortName; òstaną rëmniãté:">
-<!ENTITY confirm.client.moreinfo.label "&brandShortName; skòpiérëje Twòje pòdôwczi z programù &syncBrand.fullName.label; na nen kòmpùtr.">
-<!ENTITY confirm.server2.label         "Òstrzéga: Ne ùrządzenia dostóną Twòje môlowe pòdôwczi:">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName; skòpérëje Twòje pòdôwczi z programù &syncBrand.fullName.label; na nen kòmpùtr.">
+<!ENTITY confirm.server2.label         "Òstrzéga: Ne ùrzãdzeniô dostóną Twòje môlowe pòdôwczi:">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Ùstôw parôt">

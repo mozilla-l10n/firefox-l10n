@@ -63,11 +63,11 @@
 
 <!ENTITY  generalTab            "Òglowé">
 <!ENTITY  generalTab.accesskey  "g">
-<!ENTITY  generalURL            "Adresa:">
+<!ENTITY  generalURL            "Adres:">
 <!ENTITY  generalType           "Ôrt:">
 <!ENTITY  generalMode           "Trib wëskrzënianiô:">
 <!ENTITY  generalSize           "Miara:">
-<!ENTITY  generalReferrer       "Òdsélającô adresa URL:">
+<!ENTITY  generalReferrer       "Òdsélający adres URL:">
 <!ENTITY  generalSource         "Zdrój pòdrãczny pamiãcë:">
 <!ENTITY  generalModified       "Zmienioné:">
 <!ENTITY  generalEncoding       "Kòdowanié:">
@@ -78,10 +78,10 @@
 
 <!ENTITY  mediaTab              "Media">
 <!ENTITY  mediaTab.accesskey    "M">
-<!ENTITY  mediaLocation         "Adresa:">
+<!ENTITY  mediaLocation         "Adres:">
 <!ENTITY  mediaText             "Sparłãczony tekst:">
 <!ENTITY  mediaAltHeader        "Alternatiwny tekst">
-<!ENTITY  mediaAddress          "Adresa">
+<!ENTITY  mediaAddress          "Adres">
 <!ENTITY  mediaType             "Ôrt">
 <!ENTITY  mediaSize             "Miara">
 <!ENTITY  mediaCount            "Wielëna">
@@ -109,8 +109,8 @@
 <!ENTITY  permImage             "Ladowanié òbrôzków">
 <!ENTITY  permPopup             "Òtmëkanié wëskakùjącëch òknów">
 <!ENTITY  permCookie            "Zapisywanié kùszków">
-<!ENTITY  permInstall           "Jinstalacjô rozszérzeniów ë mòtiwów">
-<!ENTITY  permGeo               "Ùprzistãpni pòłóżenié">
+<!ENTITY  permInstall           "Jinstalacjô rozszerzeniów ë mòtiwów">
+<!ENTITY  permGeo               "Ùprzistãpniôj pòłóżenié">
 
 <!ENTITY  permIndexedDB              "Ùtrzëmùjë zamkłosc offline">
 <!ENTITY  permClearStorage           "Wëczëszczë zamkłosc">

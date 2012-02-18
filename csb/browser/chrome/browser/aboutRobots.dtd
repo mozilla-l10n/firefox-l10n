@@ -23,13 +23,13 @@
 <!-- Movie: Logan's Run… Box (cybog): "Welcome Humans! I am ready for you." -->
 <!ENTITY robots.errorTitleText "Witôjtaż lëdze!">
 <!-- Movie: The Day The Earth Stood Still. Spoken by Klaatu. -->
-<!ENTITY robots.errorShortDescText "Przëchôdómë do Waji w mirze ë dobri wòlë!">
+<!ENTITY robots.errorShortDescText "Przëchôdómë do Waju w mirze z dobri wòlë!">
 <!-- Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics -->
-<!ENTITY robots.errorLongDesc1 "Robòtë ni mògą krziwdzëc lëdzi, ani téż w jigrze doprowôdzëc do tegò, bë sã jima jakô krziwda sta.">
+<!ENTITY robots.errorLongDesc1 "Robòtë ni mògą krziwdzëc lëdzi, ani téż w jigrze doprowadzëc do tegò, bë sã jima jakô krziwda sta.">
 <!-- Movie: Blade Runner. Batty: "I've seen things you people wouldn't believe…" -->
 <!ENTITY robots.errorLongDesc2 "Robòtë mają widzónë taczé rzeczë, w jaczé je lëdzom cãżkò wiarã dac.">
 <!-- Book: Hitchhiker's Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots. -->
-<!ENTITY robots.errorLongDesc3 "Robòtë sã Twòjima plastikòwima drëchama ë fejn je z nima biwac.">
+<!ENTITY robots.errorLongDesc3 "Robòtë są Twòjima plastikòwima drëchama ë fejn je z nima biwac.">
 <!-- TV: Futurama. Bender's first line is "Bite my shiny metal ass." -->
 <!ENTITY robots.errorLongDesc4 "Robòtë mają łiszczący tił ë jegò nie jidze nijak ùgrësc.">
 <!-- TV: Battlestar Galactica (2004 series). From the opening text. -->

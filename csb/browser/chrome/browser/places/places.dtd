@@ -18,9 +18,9 @@
 <!ENTITY view.sort.accesskey            "Z">
 <!ENTITY view.unsorted.label            "Niepòzortowóne">
 <!ENTITY view.unsorted.accesskey        "N">
-<!ENTITY view.sortAscending.label       "Czérënk zortowaniô: A > Z">
+<!ENTITY view.sortAscending.label       "Czerënk zortowaniô: A > Z">
 <!ENTITY view.sortAscending.accesskey   "A">
-<!ENTITY view.sortDescending.label      "Czérënk zortowaniô: Z > A">
+<!ENTITY view.sortDescending.label      "Czerënk zortowaniô: Z > A">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
 <!ENTITY cmd.findInBookmarks.label      "Nalezë w załóżkach…">
@@ -28,16 +28,16 @@
 <!ENTITY cmd.findCurrent.label          "Nalezë w aktualny kòlekcji…">
 <!ENTITY cmd.findCurrent.accesskey      "k">
 
-<!ENTITY importBookmarksFromHTML.label     "Impòrtëjë załóżczi z HMTL…">
-<!ENTITY importBookmarksFromHTML.accesskey "I">
+<!ENTITY importBookmarksFromHTML.label     "Jimpòrtëjë załóżczi z HMTL…">
+<!ENTITY importBookmarksFromHTML.accesskey "J">
 <!ENTITY exportBookmarksToHTML.label       "Ekspòrtëje załóżczi HTML…">
 <!ENTITY exportBookmarksToHTML.accesskey   "E">
-<!ENTITY importOtherBrowser.label          "Impòrtëjë pòdôwczi z jinégò przezérnika…">
+<!ENTITY importOtherBrowser.label          "Jimpòrtëjë pòdôwczi z jinégò przezérnika…">
 <!ENTITY importOtherBrowser.accesskey      "p">
 
 <!ENTITY cmd.backup.label               "Zazychrowanié…">
 <!ENTITY cmd.backup.accesskey           "Z">
-<!ENTITY cmd.restore2.label             "Doprowôdzë nazôd">
+<!ENTITY cmd.restore2.label             "Doprowadzë nazôd">
 <!ENTITY cmd.restore2.accesskey         "D">
 <!ENTITY cmd.restoreFromFile.label      "Wëbierzë lopk…">
 <!ENTITY cmd.restoreFromFile.accesskey  "W">
@@ -81,13 +81,13 @@
 
 <!ENTITY col.name.label          "Miono">
 <!ENTITY col.tags.label          "Znakòwniczi">
-<!ENTITY col.url.label           "Adresa">
+<!ENTITY col.url.label           "Adres">
 <!ENTITY col.lastvisit.label     "Datum wizytë">
 <!ENTITY col.visitcount.label    "Wielëna wizytów">
 <!ENTITY col.keyword.label       "Kluczowé słowò">
 <!ENTITY col.description.label   "Òpisënk">
 <!ENTITY col.dateadded.label     "Dodóné">
-<!ENTITY col.lastmodified.label  "Slédno mòdifikacjô">
+<!ENTITY col.lastmodified.label  "Slédnô mòdifikacjô">
 
 <!ENTITY search.label                              "Szëkba:">
 <!ENTITY search.accesskey                          "S">

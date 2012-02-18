@@ -51,13 +51,13 @@
 <!ENTITY safeModeDialog.title         "&brandShortName; -awariowi trib">
 <!ENTITY window.width                 "37em">
 
-<!ENTITY safeModeDescription.label    "&brandShortName; robi terô w awariowim tribie; nastôwë, mòtiwë ë rozszérzenia brëkòwnika są terôczasno wëłączoné.">
+<!ENTITY safeModeDescription.label    "&brandShortName; robi terô w awariowim tribie; nastôwë, mòtiwë ë Rozszerzenia brëkòwnika są terëczasno wëłączoné.">
 <!ENTITY safeModeDescription2.label   "Wszëtczé abò niejedné z ùniższich zmianów mòże wprowôdzëc na wiedno:">
 
 <!ENTITY disableAddons.label          "Wëłączë wszëtczé przëdôwczi">
 <!ENTITY disableAddons.accesskey      "W">
 
-<!ENTITY resetToolbars.label          "Doprowôdzë nazôd domëslné lëstwë nôrzãdzów ë knąpë">
+<!ENTITY resetToolbars.label          "Doprowadzë nazôd domëslné lëstwë nôrzãdłów ë knąpë">
 <!ENTITY resetToolbars.accesskey      "D">
 
 <!ENTITY deleteBookmarks.label        "Rëmôj wszëtczé załóżczi le òstawi ne do dodôwny kòpii">
@@ -66,7 +66,7 @@
 <!ENTITY resetUserPrefs.label         "Przełączë wszëtczé nastôwë programù &brandShortName; na domëslné wôrtnotë">
 <!ENTITY resetUserPrefs.accesskey     "e">
 
-<!ENTITY restoreSearch.label          "Doprowôdzë nazôd domëslny zestôwk szëkôszów">
+<!ENTITY restoreSearch.label          "Doprowadzë nazôd domëslny zestôwk szëkôszów">
 <!ENTITY restoreSearch.accesskey      "d">
 
 <!ENTITY changeAndRestartButton.label "Zrobi zmianë ë zrëszë znowa">

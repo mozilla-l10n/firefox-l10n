@@ -27,7 +27,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.retry.accesskey              "l">
 <!ENTITY cmd.goToDownloadPage.label       "Biéj do stronë zladënkù">
 <!ENTITY cmd.goToDownloadPage.accesskey   "s">
-<!ENTITY cmd.copyDownloadLink.label       "Kòpérëjë adresã zladënkù">
+<!ENTITY cmd.copyDownloadLink.label       "Kòpérëjë adres zladënkù">
 <!ENTITY cmd.copyDownloadLink.accesskey   "d">
 <!ENTITY cmd.removeFromList.label         "Rëmôj z lëstë">
 <!ENTITY cmd.removeFromList.accesskey     "R">
@@ -41,8 +41,8 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.find.commandKey              "f">
 <!ENTITY cmd.search.commandKey            "k">
 
-<!ENTITY closeWhenDone.label              "Zamkni òkno pò skùńczeniu zladënkù">
-<!ENTITY closeWhenDone.tooltip            "Zamkni òkno pò skùńczeniu zladënkù wszëtczich lopków">
+<!ENTITY closeWhenDone.label              "Zamkni òkno pò skùńczenim zladënkù">
+<!ENTITY closeWhenDone.tooltip            "Zamkni òkno pò skùńczenim zladënkù wszëtczich lopków">
 
 <!ENTITY showFolder.label                 "Wëskrzëni nen katalog">
 <!ENTITY searchBox.label                  "Szëkba…">

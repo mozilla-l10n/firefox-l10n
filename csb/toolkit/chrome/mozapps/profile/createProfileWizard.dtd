@@ -4,7 +4,7 @@
 <!-- First wizard page -->
 <!ENTITY profileCreationExplanation_1.text  "&brandShortName; trzëmô wëdowiédzã ò twòjich nastôwach ë preferencjach w twòjim priwatnëch profilu.">
 <!ENTITY profileCreationExplanation_2.text  "Jeżlë ùprzistãpniôsz programù &brandShortName; jinszim brëkòwnikòm, mòżesz brëkòwac profilë, abë rozparłãczëc pòdôwczi brëkòwników. Abë to zrobic, kòżdi brëkòwnik mùszi miec swój profil.">
-<!ENTITY profileCreationExplanation_3.text  "Jeżlë le të brëkùjesz programù &brandShortName;, to mùszisz miec chòc jeden profil. Jeżlë chcesz, to mòżesz ùsôdzëc czile profilów na swój brëkùnk, z wszelejaczima nastôwama ë preferencjama. Na przëmiôr, mòżesz miec swòjé profile: robòczi ë priwatny.">
+<!ENTITY profileCreationExplanation_3.text  "Jeżlë le të brëkùjesz programù &brandShortName;, to mùszisz miec chòc jeden profil. Jeżlë chcesz, to mòżesz ùsadzëc czile profilów na swój brëkùnk, z wszelejaczima nastôwama ë preferencjama. Na przëmiôr, mòżesz miec swòjé profile: robòczi ë priwatny.">
 <!ENTITY profileCreationExplanation_4.text  "Abë nacząc ùsôdzanié profilu, klëkni na Dali.">
 <!ENTITY profileCreationExplanation_4Mac.text  "Abë nacząc ùsôdzanié profilu, klëkni na Biéj dali.">
 <!ENTITY profileCreationExplanation_4Gnome.text  "Abë nacząc ùsôdzanié profilu, klëkni na Dali.">

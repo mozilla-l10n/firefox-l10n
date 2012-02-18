@@ -29,7 +29,7 @@
 <!ENTITY undoCmd.key                  "Z">
 <!ENTITY undoCmd.accesskey            "C">
 
-<!ENTITY redoCmd.label                "Doprowôdzë nazôd">
+<!ENTITY redoCmd.label                "Doprowadzë nazôd">
 <!ENTITY redoCmd.key                  "D">
 <!ENTITY redoCmd.accesskey            "p">
 
@@ -53,7 +53,7 @@
 <!ENTITY run.accesskey                "s">
 <!ENTITY run.key                      "r">
 
-<!ENTITY inspect.label                "Sprôwdzôj">
+<!ENTITY inspect.label                "Sprawdzôj">
 <!ENTITY inspect.accesskey            "ô">
 <!ENTITY inspect.key                  "j">
 

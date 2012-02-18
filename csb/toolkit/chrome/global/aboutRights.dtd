@@ -34,7 +34,7 @@
 <!ENTITY rights.intro-point2-c ".">
 
 <!-- point 2.5 text for official branded builds -->
-<!ENTITY rights.intro-point2.5 "Niechtërné fùnkcje &brandShortName;, taczi jak Crash Reporter dôwają mòżlëwòtã sélania òpinii do &vendorShortName;. Jeżlë zdecydëjesz sã na wësłônié òpinii, dajesz &vendorShortName; zezwòlenié ji ùżëcy dlô pòprawë jich wërobiznów, ópùblikòwônié dbë na stronie Jinternetowi, ë ji distribucji.">
+<!ENTITY rights.intro-point2.5 "Niechtërné fùnkcje &brandShortName;, taczi jak Crash Reporter dôwają mòżlëwòtã sélania òpinii do &vendorShortName;. Jeżlë zdecydëjesz sã na wësłônié òpinii, dajesz &vendorShortName; zezwòlenié ji ùżëcé dlô pòprawë jich wërobiznów, ópùblikòwônié dbë na stronie jinternetowi, ë ji distribucji.">
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights2.intro-point3a "Jak më ùżëwômë wëdowiédzã ò ce ë òpiniach wësłónëch do &vendorShortName; przez &brandShortName; je òpisóné w ">
@@ -45,7 +45,7 @@
 <!ENTITY rights.intro-point3-unbranded "Wszëtczé pasowné wskôzë priwatnotë dlô ny softwôrë nót je tuwò pòdac.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights2.intro-point4a "Niechtërné &brandShortName; òptacje programù ùżëwają sécowëch ùsłëżnotów ë ni mòżemë zazychrowac że wszëtczé wëdowiédzé są 100&#37; akùratné ë bezzmiłkòwé. Wicy detali ë wëdowiédzë ò tim jak wëłączëc ne òptacje jidze nalezc w ">
+<!ENTITY rights2.intro-point4a "Niechtërné &brandShortName; òptacje programù ùżëwają sécowëch ùsłëżnotów ë ni mòżemë zazychrowac że wszëtczé wëdowiédzë są 100&#37; akùratné ë bezzmiłkòwé. Wicy detali ë wëdowiédzë ò tim jak wëłączëc ne òptacje jidze nalezc w ">
 <!ENTITY rights.intro-point4b "Leżnoscë brëkòwaniô serwisu">
 <!ENTITY rights.intro-point4c ".">
 
@@ -83,10 +83,10 @@
 <!ENTITY rights.locationawarebrowsing-term4 "Pòłóżenié-wiedné przezéranié je terô włączonô">
 
 <!-- intro paragraph for unbranded builds -->
-<!ENTITY rights.webservices-unbranded "Zesëmòwanié brëkòwónëch sécowëch ùsłëżnotów ë jinstrukcjô tegò jak mòże je wëłączëc jeżle bãdze takô pòtrzéba, nót je pòdac tuwò.">
+<!ENTITY rights.webservices-unbranded "Zesëmòwanié brëkòwónëch sécowëch ùsłëżnotów ë jinstrukcjô tegò jak mòże je wëłączëc Jeżlë bãdze takô pòtrzéba, nót je pòdac tuwò.">
 
 <!-- point 1 text for unbranded builds -->
-<!ENTITY rights.webservices-term1-unbranded "Wszëtczé zastrzedżi ùsłëżnotów, chtërné nen produkt ùżëwô, mają bëc tuwò pòdóné.">
+<!ENTITY rights.webservices-term1-unbranded "Wszëtczé zastrzedżi ùsłëżnotów, chtërne nen produkt ùżëwô, mają bëc tuwò pòdóné.">
 
 <!-- points 1-7 text for branded builds -->
 <!ENTITY rights2.webservices-term1 "&vendorShortName;jegò ùsôdcë, licencjôdôwôczé, ë partnerzë mają starã ò to żebë zazychrowac nôbarżi akùratné ë aktùalné ùsłëżnotë. Jednak ni mómë gwësnotë że wëdowiédzë są bezzmiłkòwé. Na przëmiôr, bezpieczné przezeranié mòże nie rozpòznac niechtërnëch niebezpiecznëch stron abò zgłaszac bezpieczné stronã jakno niebezpieczé. Pòłóżenié-wiédné przezéranié zanôlégô òd tëch co nã ùsłëżnotã dają ë sã le òbszacowanim. Më ani dôwôcze ùsłëżnotów nie dajemë zôrãki że ne wëdowiedzë są akùratné.">
@@ -94,5 +94,5 @@
 <!ENTITY rights2.webservices-term3 "Mòżesz swòbòdno ùżëwac nëch ùsłëżnotów ë dołożony wersji &brandShortName;, &vendorShortName; daje ce do tegò prawa. &vendorShortName; ë jegò licencjodôwôcze zastrzégają  sobie wszétczé prawa. Ne zastrzedżi ni mają na ùdbie ògrańczania prawów przënôléżnëch pòd zastrzegóma Ôpen Ùdbów tikôjących sã &brandShortName; ë sparłãczony zdrojowi kòd &brandShortName;.">
 <!ENTITY rights.webservices-term4 "Ne ùsłëżnotë sã dôwôné &quot;tak jak są.&quot; &vendorShortName;, jich ùsôdcë, licencjodôwôczé, ë rozprowôdzërzé, òdżegnywôją sã òd dôwôni gwarancji, nawetka jeżlë bëłë òne wësłowaczóné czë sugòrowóné, łączno z ògrańczenioma, gwarancjama że ne ùsłëżnotë sã na przedôż ë zabezpieczą przëdzelony zgrôw. Rizykò sparłąconé z wëbiérkã nëch ùsłëżnotów, jich kwalitetu czë spòlëglëwòtë dlô swòjich célów spòcziwô na Ce. Kò wedle niechtërnëch prawów, ni mòże nie ùważac zakłôdónëch gwarancji, tak że nen bôczënk mòże sã Ce nie tëkac.">
 <!ENTITY rights.webservices-term5 "Z wëjimkôma dze nakazëje to prawò, &vendorShortName;,jich ùsôdcë, licencjôdôwôczé, ë rozprowôdzërzé, nie sã òdpòwiedzalni za niżóden bezpòstrzédny, òsoblëwi, pòstrzédny, przëtrôfkòwy, niepòpùstny,  karny, czë wënôdgrodë wënikającé ze szkòdów pòwstałëch przë ùżiwónim &brandShortName; ë ùsłëżnotë. Całownota òdpòwiedzalnoscë pòd nym prawã ni mòże przekroczëc 5 tësącë dolarów amerikańsczich ($500). Wedle niechtërnch prawów, ni mòże nie ùwôżac zakłôdónëch gwarancji, tak że nen bôczënk mòże sã Ce nie tëkac.">
-<!ENTITY rights.webservices-term6 "&vendorShortName; mòże òd czasu do czasu zmienic ne zastrzédżi, żle bądze nót. Ne zastrzédżi ni mògą bëc zjinaczoné czë òdwołóné bez &vendorShortName;pisowny zgòdë.">
+<!ENTITY rights.webservices-term6 "&vendorShortName; mòże òd czasu do czasu zmienic ne zastrzédżi, Żlë bãdze nót. Ne zastrzédżi ni mògą bëc zjinaczoné czë òdwołóné bez &vendorShortName;pisowny zgòdë.">
 <!ENTITY rights.webservices-term7 "Ne zastrzédżi są òpiarté na prawach merëkańsczégò stónu Kalifarnia, prócz wëjimków dze jistnieją kònfliktë z jinyma prawama. Nawetka żlë dzéle zastrzégów są niewôżné, reszta zastrzégów mùszi bëc respektowónô. W przëtrôwkù dze pòwstôł kònflikt midzë zdolmôczoną a anielską wersją zastrzégów, anielskô wersjô biérze górã.">

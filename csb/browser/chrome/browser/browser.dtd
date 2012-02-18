@@ -49,7 +49,7 @@ can reach it easily. -->
 <!ENTITY  moveToNewWindow.accesskey          "o">
 <!ENTITY  bookmarkAllTabs.label              "Dodôj załóżczi dlô wszëtczich kôrtów…">
 <!ENTITY  bookmarkAllTabs.accesskey          "k">
-<!ENTITY  undoCloseTab.label                 "Doprowôdzë zamkłą kôrtã nazôd">
+<!ENTITY  undoCloseTab.label                 "Doprowadzë zamkłą kôrtã nazôd">
 <!ENTITY  undoCloseTab.accesskey             "D">
 <!ENTITY  closeTab.label                     "Zamkni kôrtã">
 <!ENTITY  closeTab.accesskey                 "a">
@@ -98,7 +98,7 @@ can reach it easily. -->
 <!ENTITY showAllTabsCmd.accesskey "W">
 
 <!ENTITY fullScreenMinimize.tooltip "Minimalizëjë">
-<!ENTITY fullScreenRestore.tooltip "Doprowôdzë nazôd">
+<!ENTITY fullScreenRestore.tooltip "Doprowadzë nazôd">
 <!ENTITY fullScreenClose.tooltip "Zamkni">
 <!ENTITY fullScreenAutohide.label "Zatacë lëstew nôrzãdłów">
 <!ENTITY fullScreenAutohide.accesskey "Z">
@@ -258,7 +258,7 @@ can reach it easily. -->
 <!ENTITY undoCmd.label            "Copni">  
 <!ENTITY undoCmd.key            "Z">  
 <!ENTITY undoCmd.accesskey          "C"> 
-<!ENTITY redoCmd.label            "Doprowôdzë nazôd">  
+<!ENTITY redoCmd.label            "Doprowadzë nazôd">  
 <!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "p"> 
 <!ENTITY cutCmd.label           "Wëtni">  
@@ -438,7 +438,7 @@ can reach it easily. -->
 <!ENTITY copyVideoURLCmd.accesskey    "é">
 <!ENTITY copyAudioURLCmd.label        "Kòpérëjë adres zwãkù">
 <!ENTITY copyAudioURLCmd.accesskey    "ù">
-<!ENTITY copyEmailCmd.label           "Kòpérëjë adres e-mailowy">
+<!ENTITY copyEmailCmd.label           "Kòpérëjë adres e-mailowi">
 <!ENTITY copyEmailCmd.accesskey       "e">
 <!ENTITY thisFrameMenu.label              "Rama">
 <!ENTITY thisFrameMenu.accesskey          "r">
@@ -483,7 +483,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
-<!ENTITY fullZoomResetCmd.label         "Doprowôdzë nazôd">
+<!ENTITY fullZoomResetCmd.label         "Doprowadzë nazôd">
 <!ENTITY fullZoomResetCmd.accesskey     "r">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">

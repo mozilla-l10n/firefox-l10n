@@ -6,7 +6,7 @@
 <!ENTITY select.heading              "Wëbierzë dodôwczi">
 <!-- LOCALIZATION NOTE (select.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
-<!ENTITY select.description          "&brandShortName; bądze chòdzëc chùtczi czéj wëłączisz niebrëkòwóné dodôwczi. Dodôwczi trzecëch firmów òstaną automatno wëłączóné, chòba że je zaklëkniész pòniżi.">
+<!ENTITY select.description          "&brandShortName; bãdze chòdzëc chùtczi czej wëłączisz niebrëkòwóné dodôwczi. Dodôwczi trzecëch firmów òstaną automatno wëłączóné, chòba że je zaklëkniész pòniżi.">
 <!ENTITY select.keep                 "Trzëmôj ">
 <!-- LOCALIZATION NOTE (select.keep.style): Should be a width wide enough for
      the string in select.keep above. -->
