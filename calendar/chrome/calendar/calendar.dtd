@@ -215,6 +215,8 @@
 <!ENTITY calendar.context.postpone.1day.accesskey "n">
 <!ENTITY calendar.context.postpone.1week.label "1 settimana">
 <!ENTITY calendar.context.postpone.1week.accesskey "s">
+<!ENTITY calendar.copylink.label "Copia indirizzo">
+<!ENTITY calendar.copylink.accesskey "z">
 <!ENTITY calendar.taskview.delete.label "Elimina">
 <!ENTITY calendar.taskview.delete.accesskey "E">
 <!ENTITY calendar.context.newserver.label "Nuovo calendario…">

@@ -11,7 +11,7 @@
 <!ENTITY openInBrowser.accesskey "A">
 <!ENTITY bookmarkLinkCmd.label "Aggiungi link nei segnalibri…">
 <!ENTITY bookmarkLinkCmd.accesskey "A">
-<!ENTITY copyLinkCmd.label "Copia indirizzo collegamento">
+<!ENTITY copyLinkCmd.label "Copia indirizzo">
 <!ENTITY copyLinkCmd.accesskey "d">
 <!ENTITY CopyMessageId.label "Copia identificativo del messaggio">
 <!ENTITY CopyMessageId.accesskey "C">
