@@ -103,6 +103,8 @@
 <!ENTITY showMessengerToolbarCmd.accesskey "m">
 <!ENTITY showSearchToolbarCmd.label "Barra di ricerca">
 <!ENTITY showSearchToolbarCmd.accesskey "c">
+<!ENTITY showTabsToolbarCmd.label "Barra delle schede">
+<!ENTITY showTabsToolbarCmd.accesskey "s">
 <!ENTITY messagePaneLayoutStyle.label "Struttura">
 <!ENTITY messagePaneLayoutStyle.accesskey "S">
 <!ENTITY messagePaneClassic.label "Visualizzazione classica">
