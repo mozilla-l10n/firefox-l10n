@@ -152,6 +152,8 @@
 <!ENTITY showMessengerToolbarCmd.accesskey "p">
 <!ENTITY showSearchToolbarCmd.label "Lišta vyhledávání">
 <!ENTITY showSearchToolbarCmd.accesskey "v">
+<!ENTITY showTabsToolbarCmd.label "Lišta panelů">
+<!ENTITY showTabsToolbarCmd.accesskey "n">
 
 <!ENTITY messagePaneLayoutStyle.label "Rozmístění">
 <!ENTITY messagePaneLayoutStyle.accesskey "R">
