@@ -1,5 +1,6 @@
 google
 yahoo-mx
 bing
+twitter
 wikipedia-es
 mercadolibre-mx
