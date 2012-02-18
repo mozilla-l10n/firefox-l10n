@@ -1,7 +1,6 @@
 <!ENTITY debuggerMenu.label "Depurador de scripts">
 <!ENTITY debuggerMenu.commandkey "S">
 <!ENTITY debuggerUI.closeButton "Zarrar">
-<!ENTITY debuggerUI.resumeButton "Continuar">
 <!ENTITY debuggerUI.stackTitle "Pila de llamaes">
 <!ENTITY debuggerUI.scriptTitle "Script">
 <!ENTITY debuggerUI.propertiesTitle "Ámbitu de les variables">
