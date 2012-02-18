@@ -161,8 +161,8 @@
 <!ENTITY inspectButton.label "Inspector">
 <!ENTITY inspectButton.accesskey "I">
 <!ENTITY inspectCloseButton.tooltiptext "Cerrar Inspector">
-<!ENTITY inspect3DButton.label "3D">
-<!ENTITY inspect3DButton.accesskey "M">
+<!ENTITY inspect3DViewButton.label "3D View">
+<!ENTITY inspect3DViewButton.accesskey "W">
 <!ENTITY inspectStyleButton.label "Estilo">
 <!ENTITY inspectStyleButton.accesskey "S">
 <!ENTITY styleeditor.label "Style Editor">
@@ -430,7 +430,7 @@
 <!ENTITY syncBrand.shortName.label "Sync">
 <!ENTITY syncSetup.label "Configurar &syncBrand.shortName.label;...">
 <!ENTITY syncSetup.accesskey "Y">
-<!ENTITY syncSyncNowItem.label "Sync Ahora">
+<!ENTITY syncSyncNowItem.label "Sincronizar Ahora">
 <!ENTITY syncSyncNowItem.accesskey "S">
 <!ENTITY syncToolbarButton.label "Sync">
 <!ENTITY addonBarCloseButton.tooltip "Cerra la barra de complementos">
