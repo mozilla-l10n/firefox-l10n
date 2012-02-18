@@ -44,6 +44,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Grafik">
 
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
+
 <!ENTITY aboutSupport.installationHistoryTitle "Installationshistorik">
 <!ENTITY aboutSupport.updateHistoryTitle "Uppdateringshistorik">
 
