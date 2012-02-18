@@ -1,7 +1,7 @@
 amazondotcom-de
-bing-de
+bing
 eBay-de
-google-de
+google
 twitter-de
 wikipedia-de
 yahoo-de
