@@ -1,0 +1,6 @@
+<!-- These strings are used in the about:newtab page -->
+<!ENTITY newtab.pageTitle "Nyt faneblad">
+
+<!ENTITY newtab.show "Vis siden ved nyt faneblad">
+<!ENTITY newtab.hide "Skjul siden ved nyt faneblad">
+<!ENTITY newtab.reset "Nulstil siden ved nyt faneblad">

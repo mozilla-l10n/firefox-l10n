@@ -217,8 +217,11 @@ can reach it easily. -->
 <!ENTITY inspectButton.label          "Inspicér">
 <!ENTITY inspectButton.accesskey      "I">
 <!ENTITY inspectCloseButton.tooltiptext "Luk inspektør">
-<!ENTITY inspect3DButton.label        "3D">
-<!ENTITY inspect3DButton.accesskey    "M">
+<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
+  -  alternate view for the Inspector, creating a 3D visualization of the
+  -  webpage. -->
+<!ENTITY inspect3DViewButton.label     "3D-visning">
+<!ENTITY inspect3DViewButton.accesskey "v">
 <!ENTITY inspectStyleButton.label     "CSS">
 <!ENTITY inspectStyleButton.accesskey "S">
 
