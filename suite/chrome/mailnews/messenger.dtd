@@ -151,6 +151,8 @@
 <!ENTITY showMessengerToolbarCmd.accesskey "t">
 <!ENTITY showSearchToolbarCmd.label "Barre de recherche">
 <!ENTITY showSearchToolbarCmd.accesskey "e">
+<!ENTITY showTabsToolbarCmd.label "Barre d'outils des onglets">
+<!ENTITY showTabsToolbarCmd.accesskey "a">
 
 <!ENTITY messagePaneLayoutStyle.label "Disposition">
 <!ENTITY messagePaneLayoutStyle.accesskey "p">
