@@ -1,0 +1,6 @@
+<!-- These strings are used in the about:newtab page -->
+<!ENTITY newtab.pageTitle "Nova kartica">
+
+<!ENTITY newtab.show "Prikaži stranicu nove kartice">
+<!ENTITY newtab.hide "Sakrij stranicu nove kartice">
+<!ENTITY newtab.reset "Poništi stranicu nove kartice">
