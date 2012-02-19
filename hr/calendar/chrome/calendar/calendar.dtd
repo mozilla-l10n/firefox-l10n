@@ -86,7 +86,7 @@
 <!ENTITY calendar.unifinder.close.tooltip            "Zatvori pretraživanje i popis događaja">
 
 <!ENTITY calendar.today.button.tooltip          "Idi na danas" >
-<!ENTITY calendar.todaypane.button.tooltip      "Prikaži okno Danas" >
+<!ENTITY calendar.todaypane.button.tooltip      "Prikaži okno današnjih događaja" >
 
 <!ENTITY calendar.day.button.tooltip            "Prebaci na prikaz dana" >
 <!ENTITY calendar.week.button.tooltip           "Prebaci na prikaz tjedna" >
@@ -206,7 +206,7 @@
 <!ENTITY calendar.context.copyevent.accesskey         "K">
 <!ENTITY calendar.context.pasteevent.label            "Zalijepi">
 <!ENTITY calendar.context.pasteevent.accesskey        "Z">
-<!ENTITY calendar.context.button.label                "Okno Danas" >
+<!ENTITY calendar.context.button.label                "Današnji događaji" >
 <!ENTITY calendar.context.button.accesskey            "D" >
 <!ENTITY calendar.context.attendance.menu.label       "Pohađanje" >
 <!ENTITY calendar.context.attendance.menu.accesskey   "h" >
