@@ -129,5 +129,8 @@
 <!ENTITY copyLinkCmd.accesskey		 "K">
 
 <!ENTITY CopyMessageId.label "Kopioi viestitunnus">
+<!ENTITY CopyMessageId.accesskey "K">
 <!ENTITY OpenMessageForMsgId.label "Avaa viesti tunnukselle">
-<!ENTITY OpenBrowserWithMsgId.label "Avaa selain viestitunnuksella">
+<!ENTITY OpenMessageForMsgId.accesskey "A">
+<!ENTITY OpenBrowserWithMsgId.label "Avaa selaimeen viestitunnuksella">
+<!ENTITY OpenBrowserWithMsgId.accesskey "s">
