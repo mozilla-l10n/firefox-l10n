@@ -481,8 +481,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY inspectButton.label          "Ispitaj">
 <!ENTITY inspectButton.accesskey      "I">
 <!ENTITY inspectCloseButton.tooltiptext "Zatvori ispitivača">
-<!ENTITY inspect3DButton.label        "3D">
-<!ENTITY inspect3DButton.accesskey    "M">
+
+<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
+  -  alternate view for the Inspector, creating a 3D visualization of the
+  -  webpage. -->
+<!ENTITY inspect3DViewButton.label     "3D prikaz">
+<!ENTITY inspect3DViewButton.accesskey "D">
+
 <!ENTITY inspectStyleButton.label     "Stil">
 <!ENTITY inspectStyleButton.accesskey "S">
 
