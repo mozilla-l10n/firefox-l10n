@@ -69,6 +69,26 @@
 <!ENTITY inspect.accesskey            "I">
 <!ENTITY inspect.key                  "i">
 
+<!ENTITY findCmd.label                "Traži…">
+<!ENTITY findCmd.key                  "F">
+<!ENTITY findCmd.accesskey            "T">
+
+<!ENTITY findAgainCmd.label           "Ponovno traži…">
+<!-- LOCALIZATION NOTE (findAgainCmd.key): This key is used only on Macs.
+  -  Windows and Linux builds use the F3 key which is not localizable on purpose.
+  -->
+<!ENTITY findAgainCmd.key             "G">
+<!ENTITY findAgainCmd.accesskey       "P">
+<!-- LOCALIZATION NOTE (findPreviousCmd.key): This key is used only on Macs.
+  -  Windows and Linux builds use the Shift-F3 key which is not localizable on
+  -  purpose.
+  -->
+<!ENTITY findPreviousCmd.key          "G">
+
+<!ENTITY gotoLineCmd.label            "Idi na redak…">
+<!ENTITY gotoLineCmd.key              "J">
+<!ENTITY gotoLineCmd.accesskey        "I">
+
 <!ENTITY display.label                "Prikaži">
 <!ENTITY display.accesskey            "k">
 <!ENTITY display.key                  "k">
