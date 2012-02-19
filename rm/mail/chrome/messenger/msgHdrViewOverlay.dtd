@@ -130,5 +130,8 @@
 <!ENTITY copyLinkCmd.accesskey    "C">
 
 <!ENTITY CopyMessageId.label "Copiar la ID dal messadi…">
+<!ENTITY CopyMessageId.accesskey "C">
 <!ENTITY OpenMessageForMsgId.label "Avrir il messadi che correspunda a la ID">
+<!ENTITY OpenMessageForMsgId.accesskey "A">
 <!ENTITY OpenBrowserWithMsgId.label "Avrir il navigatur cun la ID da messadi correspundenta">
+<!ENTITY OpenBrowserWithMsgId.accesskey "n">

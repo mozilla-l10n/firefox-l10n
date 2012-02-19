@@ -78,8 +78,6 @@
 <!ENTITY imagemapBox.label "Charta da grafica">
 <!ENTITY removeImageMapButton.label "Allontanar">
 <!ENTITY removeImageMapButton.accessKey "l">
-<!ENTITY editImageMapButton.label "Modifitgar…">
-<!ENTITY editImageMapButton.tooltip "Crear zonas che reageschan sin clics en questa grafica">
 
 <!-- These are the options for image alignment -->
 <!ENTITY alignment.label "Alingiar il text a la grafica">
