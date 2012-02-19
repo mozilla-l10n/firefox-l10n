@@ -35,7 +35,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY migration.title "&brandFullName;: Uvoz podataka">
-<!ENTITY migration.welcome "Dobro došli">
+<!ENTITY migration.welcome "Dobrodošli">
 <!ENTITY migration.importing "Uvoz">
 <!ENTITY migration.list.description "&brandShortName; može uvesti kalendarske podatke iz većine popularnih aplikacija. Podaci iz sljedećih aplikacija su pronađeni na vašem računalu. Odaberite iz kojih aplikacija želite uvesti podatke.">
 <!ENTITY migration.progress.description "Uvoz odabranih podataka">
