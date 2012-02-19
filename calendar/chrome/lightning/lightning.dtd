@@ -75,8 +75,8 @@
 <!ENTITY lightning.menu.eventtask.accesskey            "g">
 
 <!-- properties dialog, calendar creation wizard -->
-<!ENTITY lightning.calendarproperties.showevents.inagenda.label "Prikaži događaje u oknu Danas">
-<!ENTITY lightning.calendarproperties.showtasks.label           "Prikaži zadatke u oknu Danas i načinu zadataka">
+<!ENTITY lightning.calendarproperties.showevents.inagenda.label "Prikaži događaje u oknu današnjih događaja">
+<!ENTITY lightning.calendarproperties.showtasks.label           "Prikaži zadatke u oknu današnjih događaja i načinu zadataka">
 <!ENTITY lightning.calendarproperties.email.label               "E-pošta:">
 
 <!-- iMIP Bar (meeting support) -->
@@ -98,6 +98,6 @@
 <!ENTITY todaypane.showMiniday.accesskey  "d">
 <!ENTITY todaypane.showNone.label "Ne prikazuj ništa">
 <!ENTITY todaypane.showNone.accesskey "N">
-<!ENTITY todaypane.showTodayPane.label "Prikaži okno Danas">
+<!ENTITY todaypane.showTodayPane.label "Prikaži okno današnjih događaja">
 <!ENTITY todaypane.showTodayPane.accesskey "o">
-<!ENTITY todaypane.statusButton.label "Okno Danas">
+<!ENTITY todaypane.statusButton.label "Današnji događaji">
