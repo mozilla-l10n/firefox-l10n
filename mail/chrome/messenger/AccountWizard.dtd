@@ -1,4 +1,4 @@
-<!-- Entities for AccountWizard -->
+h<!-- Entities for AccountWizard -->
 
 <!ENTITY windowTitle.label "Čarovnik za račune">
 <!ENTITY accountWizard.size "width: 40em; height: 38em;">
@@ -88,13 +88,13 @@
      text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Uporabilo se bo vaše obstoječe izhodno (SMTP) uporabniško ime, &quot;">
-<!ENTITY haveSmtp2.suffix2 "&quot;. Odhodne strežnike lahko spremenite v nastavitvah računa.">
+<!ENTITY haveSmtp2.suffix3 "&quot;.">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Vaš odhodni (SMTP) strežnik, &quot;">
-<!ENTITY haveSmtp3.suffix2 "&quot;, je enak vašemu dohodnemu strežniku, za dostop se bo uporabljalo vaše vhodno uporabniško ime. Odhodne strežnike lahko spremenite v nastavitvah računa.">
+<!ENTITY haveSmtp3.suffix3 "&quot;, je enak vašemu dohodnemu strežniku, za dostop se bo uporabljalo vaše vhodno uporabniško ime.">
 
 <!-- Entities for Account name page -->
 

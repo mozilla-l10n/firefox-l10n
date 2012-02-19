@@ -74,7 +74,7 @@
 <!ENTITY editRewrapCmd.label "Ponovno zavij">
 <!ENTITY editRewrapCmd.key "n">
 <!ENTITY renameAttachmentCmd.label "Preimenuj prilogo…">
-ž<!ENTITY renameAttachmentCmd.accesskey "e">
+<!ENTITY renameAttachmentCmd.accesskey "e">
 <!ENTITY selectAllCmd.label "Izberi vse">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "I"> 
