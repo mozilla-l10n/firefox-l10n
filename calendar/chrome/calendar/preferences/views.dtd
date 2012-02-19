@@ -49,7 +49,7 @@
 <!ENTITY pref.calendar.view.multiweekview.caption "Prikaz više tjedana">
 <!ENTITY pref.calendar.view.workweek.caption "Radni tjedan">
 
-<!ENTITY pref.weekstarts.label "Započmi tjedan na:">
+<!ENTITY pref.weekstarts.label "Tjedan započinje u:">
 <!ENTITY pref.weekstarts.accesskey "Z">
 <!ENTITY pref.daysoff.label "Uključi ove dane u radni tjedan:">
 
