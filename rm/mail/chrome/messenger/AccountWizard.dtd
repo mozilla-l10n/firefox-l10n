@@ -94,7 +94,7 @@
      text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Tes server per messadis che sortan (SMTP), &quot;">
-<!ENTITY haveSmtp3.suffix2 "&quot;, è identic cun il server per messadis che entran, tes num d'utilisader dal server per messadis che entran vegn utilisà per l'acceder.">
+<!ENTITY haveSmtp3.suffix3 "&quot;, è identic cun il server per messadis che entran, tes num d'utilisader dal server per messadis che entran vegn utilisà per l'acceder.">
 
 <!-- Entities for Account name page -->
 
