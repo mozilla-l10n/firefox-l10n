@@ -37,7 +37,7 @@
 <!ENTITY wizard.label             "Stvori novi kalendar" >
 <!ENTITY wizard.description       "Pronađite svoj kalendar" >
 
-<!ENTITY initialpage.description    "Kalendar može biti pohranjen na vašem računalu ili na poslužitelju kako bi mu mogli pristupiti od bilo kuda ili dijeliti ga sa svojim prijateljima ili suradnicima." >
+<!ENTITY initialpage.description    "Kalendar može biti spremljen na vašem računalu ili na poslužitelju kako biste mu mogli pristupiti od bilo kuda ili ga dijeliti sa svojim prijateljima ili suradnicima." >
 <!ENTITY initialpage.computer.label  "Na mom računalu">
 <!ENTITY initialpage.network.label  "Na mreži">
 
@@ -47,7 +47,7 @@
 <!ENTITY locationpage.password.label      "Lozinka:" >
 
 <!ENTITY custompage.shortdescription  "Prilagodite svoj kalendar" >
-<!ENTITY custompage.longdescription   "Možete dati svom kalendaru nadimak i obojati događaje ovog kalendara." >
+<!ENTITY custompage.longdescription   "Svojem kalendaru možete dati nadimak i obojati događaje ovog kalendara." >
 
-<!ENTITY finishpage.shortdescription  "Kalendar napravljen" >
-<!ENTITY finishpage.longdescription   "Vaš kalendar je napravljen." >
+<!ENTITY finishpage.shortdescription  "Kalendar stvoren" >
+<!ENTITY finishpage.longdescription   "Vaš kalendar je stvoren." >
