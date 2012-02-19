@@ -50,7 +50,7 @@
 
 <!ENTITY newevent.from.label                "Šalje" >
 <!ENTITY newevent.to.label                  "Prima" >
-<!ENTITY newevent.attendees.notify.label    "Obavjesti sudionike">
+<!ENTITY newevent.attendees.notify.label    "Obavijesti sudionike">
 
 <!ENTITY newevent.status.label                    "Status" >
 <!ENTITY newevent.status.accesskey                "S" >
@@ -386,8 +386,8 @@
 <!ENTITY read.only.organizer.label       "Organizator:">
 <!ENTITY read.only.reply.label           "Odgovor:">
 <!ENTITY read.only.accept.label          "Prisustvovat ću">
-<!ENTITY read.only.decline.label         "Neću prisustvovat">
-<!ENTITY read.only.tentative.label       "Možda ću prisustvovat">
+<!ENTITY read.only.decline.label         "Neću prisustvovati">
+<!ENTITY read.only.tentative.label       "Možda ću prisustvovati">
 <!ENTITY read.only.needs.action.label    "Potvrdit ću kasnije">
 <!ENTITY read.only.reminder.label        "Podsjetnik:">
 <!ENTITY read.only.attendees.label       "Sudionici">
