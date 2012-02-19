@@ -13,25 +13,25 @@
 <!ENTITY clearTimeDuration.dateColumn "Дата наведвання">
 <!ENTITY clearTimeDuration.nameColumn "Назва">
 <!ENTITY detailsProgressiveDisclosure.label "Падрабязнасці">
-<!ENTITY detailsProgressiveDisclosure.accesskey "e">
+<!ENTITY detailsProgressiveDisclosure.accesskey "П">
 <!ENTITY historySection.label "Гісторыю">
 <!ENTITY dataSection.label "Здаткі">
 <!ENTITY itemHistoryAndDownloads.label "Гісторыя азірання і загрузак">
-<!ENTITY itemHistoryAndDownloads.accesskey "B">
+<!ENTITY itemHistoryAndDownloads.accesskey "а">
 <!ENTITY itemBrowsingHistory.label "Гісторыя азірання">
-<!ENTITY itemBrowsingHistory.accesskey "B">
+<!ENTITY itemBrowsingHistory.accesskey "а">
 <!ENTITY itemFormSearchHistory.label "Гісторыя пошуку і запаўнення формаў">
-<!ENTITY itemFormSearchHistory.accesskey "F">
+<!ENTITY itemFormSearchHistory.accesskey "ф">
 <!ENTITY itemPasswords.label "Захаваныя паролі">
 <!ENTITY itemPasswords.accesskey "п">
 <!ENTITY itemCookies.label "Біркі">
 <!ENTITY itemCookies.accesskey "б">
 <!ENTITY itemCache.label "Запаснік">
-<!ENTITY itemCache.accesskey "A">
+<!ENTITY itemCache.accesskey "З">
 <!ENTITY itemOfflineApps.label "Пазасеткавыя здаткі пляцовак сеціва">
 <!ENTITY itemOfflineApps.accesskey "д">
 <!ENTITY itemDownloadHistory.label "Гісторыя загрузак">
-<!ENTITY itemDownloadHistory.accesskey "D">
+<!ENTITY itemDownloadHistory.accesskey "г">
 <!ENTITY itemActiveLogins.label "Дзейныя ўваходы">
 <!ENTITY itemActiveLogins.accesskey "ў">
 <!ENTITY itemSitePreferences.label "Перавагі пляцовак">
