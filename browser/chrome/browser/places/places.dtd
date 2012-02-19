@@ -37,8 +37,8 @@
 
 <!ENTITY cmd.backup.label               "Kopija…">
 <!ENTITY cmd.backup.accesskey           "K">
-<!ENTITY cmd.restore2.label             "Povrati">
-<!ENTITY cmd.restore2.accesskey         "P">
+<!ENTITY cmd.restore2.label             "Vrati">
+<!ENTITY cmd.restore2.accesskey         "r">
 <!ENTITY cmd.restoreFromFile.label      "Odaberite datoteku…">
 <!ENTITY cmd.restoreFromFile.accesskey  "O">
 
