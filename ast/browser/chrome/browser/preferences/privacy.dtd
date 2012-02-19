@@ -62,8 +62,8 @@
 <!ENTITY  dontrememberActions.post.label         ".">
 <!ENTITY privateBrowsingPermanent2.label "Usar siempre mou de navegación privao">
 <!ENTITY privateBrowsingPermanent2.accesskey "p">
-<!ENTITY rememberHistory.label "Remembrar el mio historial de navegación">
-<!ENTITY rememberHistory.accesskey "v">
+<!ENTITY rememberHistory2.label "Remembrar el mio historial de descargues y de navegación">
+<!ENTITY rememberHistory2.accesskey "v">
 
 <!-- LOCALIZATION NOTE:
   The entities rememberHistory.pre.label and rememberHistory.post.label appear on a single
@@ -71,9 +71,6 @@
 
   &rememberHistory.pre.label  [ textbox for number of days ]  &rememberHistory.post.label;
 -->
-
-<!ENTITY  rememberDownload.label         "Remembrar l'historial de descargues">
-<!ENTITY  rememberDownload.accesskey     "d">
 
 <!ENTITY  rememberSearchForm.label       "Remembrar l'historial de formularios y guetes">
 <!ENTITY  rememberSearchForm.accesskey   "f">
