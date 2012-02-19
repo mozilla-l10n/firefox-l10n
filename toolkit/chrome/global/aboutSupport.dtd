@@ -14,6 +14,10 @@
 <!ENTITY aboutSupport.appBasicsUserAgent "Axente d'usuariu">
 <!ENTITY aboutSupport.appBasicsCrashIDs "Informes de fallos">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Usu de memoria">
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Carpeta del perfil">
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
+
 <!ENTITY aboutSupport.showMac.label "Amosar en Finder">
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Preferencies importantes modificaes">
 <!ENTITY aboutSupport.showDir.label "Abrir direutoriu">
