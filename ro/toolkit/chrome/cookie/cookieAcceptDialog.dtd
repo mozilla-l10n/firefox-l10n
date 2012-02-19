@@ -10,7 +10,6 @@
 <!ENTITY     props.path.label               "Cale:">
 <!ENTITY     props.secure.label             "Trimite pentru:">
 <!ENTITY     props.expires.label            "Expiră la:">
-<!ENTITY     props.policy.label             "Politică:"> 
 
 <!ENTITY     button.allow.label             "Permite">
 <!ENTITY     button.allow.accesskey         "P">
