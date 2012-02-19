@@ -338,6 +338,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY thisFolder.label "Quest ordinatur">
 <!ENTITY thisFolder.accesskey "Q">
 <!ENTITY goRecentlyClosedTabs.label "Tabs serrads dacurt">
+<!ENTITY goRecentlyClosedTabs.accesskey "r">
 <!ENTITY startPageCmd.label "Pagina da partenza">
 <!ENTITY startPageCmd.accesskey "P">
 

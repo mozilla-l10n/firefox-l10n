@@ -61,12 +61,16 @@
 <!ENTITY defaultPortLabel.label "Standard:">
 <!ENTITY defaultPortValue.label "">
 
-<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
+<!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
+     haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
+-->
+<!ENTITY modifyOutgoing.suffix "Ti pos midar il server per messadis che sortan en la configuraziun dals contos.">
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix "Tes server existent per messadis che sortan (SMTP), &quot;">
-<!ENTITY haveSmtp1.suffix2 "&quot;, vegn a vegnir utilisà. Ti pos midar il server per messadis che sortan en la configuraziun dals contos.">
+<!ENTITY haveSmtp1.suffix3 "&quot;, vegn a vegnir utilisà. ">
 
 <!-- Entities for Login page -->
 
@@ -79,18 +83,18 @@
 <!ENTITY usernameSmtpDesc.label "Endatescha il num d'utilisader d'extrada che tes provider t'ha dà (quai è normalmain il medem sco il num d'utilisader d'entrada).">
 <!ENTITY usernameSmtpLabel.label "Num d'utilisader d'extrada:">
 <!ENTITY usernameSmtpLabel.accesskey "O">
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Tes num d'utilisader existent dal server SMTP (per messadis che sortan), &quot;">
-<!ENTITY haveSmtp2.suffix2 "&quot;, vegn a vegnir utilisà. Ti pos midar il server per messadis che sortan en la configuraziun dals contos.">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
+<!ENTITY haveSmtp2.suffix3 "&quot;, vegn a vegnir utilisà.">
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Tes server per messadis che sortan (SMTP), &quot;">
-<!ENTITY haveSmtp3.suffix2 "&quot;, è identic cun il server per messadis che entran, tes num d'utilisader dal server per messadis che entran vegn utilisà per l'acceder. Ti pos modifitgar la configuraziun dals servers per messadis che sortan en la configuraziun dals contos.">
+<!ENTITY haveSmtp3.suffix2 "&quot;, è identic cun il server per messadis che entran, tes num d'utilisader dal server per messadis che entran vegn utilisà per l'acceder.">
 
 <!-- Entities for Account name page -->
 

@@ -73,6 +73,8 @@
 <!ENTITY editRewrapCmd.accesskey "g">
 <!ENTITY deleteCmd.label "Stizzar">
 <!ENTITY deleteCmd.accesskey "z">
+<!ENTITY renameAttachmentCmd.label "Renumnar l'agiunta…">
+<!ENTITY renameAttachmentCmd.accesskey "e">
 <!ENTITY selectAllCmd.label "Marcar tut">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "A"> 
