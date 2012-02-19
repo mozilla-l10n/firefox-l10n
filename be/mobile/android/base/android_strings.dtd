@@ -29,6 +29,7 @@
 <!ENTITY reload "Абнавіць">
 <!ENTITY forward "Наперад">
 <!ENTITY new_tab "Новая ўстаўка">
+<!ENTITY new_tab_opened "Адчынена новая ўстаўка">
 <!ENTITY settings "Наладжванні">
 <!ENTITY settings_title "Наладжванні">
 <!ENTITY pref_category_general "Агульныя">
@@ -39,7 +40,9 @@
 <!ENTITY pref_telemetry "Дасыланне здаткаў працавыніковасці">
 <!ENTITY pref_remember_signons "Памятаць паролі">
 <!ENTITY pref_cookies "Дазволіць біркі">
-<!ENTITY pref_char_encoding "Паказаць кадоўку знакаў">
+<!ENTITY pref_char_encoding "Кадоўка знакаў">
+<!ENTITY pref_char_encoding_on "Паказваць меню">
+<!ENTITY pref_char_encoding_off "Не паказваць меню">
 <!ENTITY pref_clear_history "Знішчыць гісторыю">
 <!ENTITY pref_clear_history_confirm "Гісторыя азірання будзе вынішчана">
 <!ENTITY pref_clear_private_data "Ачысціць асабістыя здаткі">
@@ -55,9 +58,11 @@
 <!ENTITY pref_font_size_large "Вялікі">
 <!ENTITY pref_font_size_xlarge "Звыш-вялікі">
 <!ENTITY pref_use_master_password "Ужываць галоўны пароль">
+<!ENTITY pref_sync "Sync">
 <!ENTITY quit "Выйсці">
 <!ENTITY addons "Дадаткі">
 <!ENTITY downloads "Загрузкі">
+<!ENTITY char_encoding "Кадоўка знакаў">
 <!ENTITY share "Дзяліцца">
 <!ENTITY save_as_pdf "Захаваць як PDF">
 <!ENTITY contextmenu_open_new_tab "Адчыніць у новай устаўцы">
