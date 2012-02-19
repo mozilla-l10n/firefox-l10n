@@ -23,14 +23,17 @@
 <!ENTITY aboutSupport.appBasicsCrashIDs "Poročila o sesutju">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Poraba pomnilnika">
 
-<!ENTITY aboutSupport.show.label "Odpri nadrejeno mapo">
+<!ENTITY aboutSupport.showDir.label "Odpri mapo">
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
-variant of aboutSupport.show.label.  This allows us to use the preferred
+variant of aboutSupport.showDir.label. This allows us to use the preferred
 "Finder" terminology on Mac. -->
 <!ENTITY aboutSupport.showMac.label "Pokaži v Finderju">
+<!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
+variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin.label "Pokaži mapo">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "Spremenjene nastavitve">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Pomembne sremenjene nastavitve">
 <!ENTITY aboutSupport.modifiedPrefsName "Ime">
 <!ENTITY aboutSupport.modifiedPrefsValue "Vrednost">
 
