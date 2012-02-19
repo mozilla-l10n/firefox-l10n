@@ -107,11 +107,11 @@
 <!ENTITY calendar.prevmonth.accesskey           "r" >
 
 <!ENTITY calendar.navigation.nextday.tooltip    "Jedan dan naprijed" >
-<!ENTITY calendar.navigation.prevday.tooltip    "Jedan dan nazad" >
+<!ENTITY calendar.navigation.prevday.tooltip    "Jedan dan natrag" >
 <!ENTITY calendar.navigation.nextweek.tooltip   "Jedan tjedan naprijed" >
-<!ENTITY calendar.navigation.prevweek.tooltip   "Jedan tjedan nazad" >
+<!ENTITY calendar.navigation.prevweek.tooltip   "Jedan tjedan natrag" >
 <!ENTITY calendar.navigation.nextmonth.tooltip  "Jedan mjesec naprijed" >
-<!ENTITY calendar.navigation.prevmonth.tooltip  "Jedan mjesec nazad" >
+<!ENTITY calendar.navigation.prevmonth.tooltip  "Jedan mjesec natrag" >
 
 <!ENTITY calendar.newevent.button.label         "Novi događaj" >
 <!ENTITY calendar.newtask.button.label          "Novi zadatak" >
