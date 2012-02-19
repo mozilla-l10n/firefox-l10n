@@ -35,17 +35,6 @@
 <!ENTITY importButton.accesskey     "I">
 <!ENTITY importButton.commandkey    "I">
 
-<!ENTITY searchInput.tooltip        "Filtrează foile de stil după nume">
-<!ENTITY searchInput.placeholder    "Găsește foaia de stil">
-
-<!-- LOCALIZATION NOTE  (searchNoResults): This is shown when searching a term
-     that is not found in any stylesheet or stylesheet name. -->
-<!ENTITY searchNoResults.label      "Nu s-a găsit nicio foaie de stil.">
-
-<!-- LOCALIZATION NOTE  (searchClearButton): This button clears the search input
-     box and is visible only when a search term has been typed. -->
-<!ENTITY searchClearButton.label    "Curăță">
-
 <!ENTITY visibilityToggle.tooltip   "Alternează vizibilitatea foii de stil">
 <!ENTITY visibilityToggle.accesskey "V">
 
@@ -73,4 +62,7 @@
 <!ENTITY noStyleSheet-tip-action.label "adăugați o foaie de stil nouă">
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-end.label): End of the tip sentence -->
 <!ENTITY noStyleSheet-tip-end.label    "?">
+
+<!-- LOCALIZATION NOTE  (closeCmd.key): Accel + this key closes the window. -->
+<!ENTITY closeCmd.key                  "W">
 

@@ -32,14 +32,17 @@
 <!ENTITY aboutSupport.appBasicsCrashIDs "Rapoarte de defecte">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Utilizare memorie">
 
-<!ENTITY aboutSupport.show.label "Deschide dosarul conținător">
+<!ENTITY aboutSupport.showDir.label "Open Directory">
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
-variant of aboutSupport.show.label.  This allows us to use the preferred
+variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
 <!ENTITY aboutSupport.showMac.label "Arată în Finder">
+<!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
+variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin.label "Arată dosarul">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "Preferințe modificate">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Preferințe importante modificate">
 <!ENTITY aboutSupport.modifiedPrefsName "Nume">
 <!ENTITY aboutSupport.modifiedPrefsValue "Valoare">
 

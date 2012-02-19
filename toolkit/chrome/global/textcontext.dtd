@@ -1,4 +1,10 @@
 <!--
+# Translator(s):
+#
+# raulmalea <raul.malea@gmail.com>
+#
+-->
+<!--
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
@@ -19,6 +25,8 @@
 
 <!ENTITY spellAddToDictionary.label "Adaugă în dicționar">
 <!ENTITY spellAddToDictionary.accesskey "u">
+<!ENTITY spellUndoAddToDictionary.label "Anulează adăugarea la dicționar">
+<!ENTITY spellUndoAddToDictionary.accesskey "n">
 <!ENTITY spellCheckEnable.label "Verifică ortografia">
 <!ENTITY spellCheckEnable.accesskey "o">
 <!ENTITY spellNoSuggestions.label "(nicio sugestie de ortografie)">

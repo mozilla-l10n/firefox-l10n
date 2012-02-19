@@ -12,7 +12,7 @@
 #
 -->
 <!ENTITY dialog.title             "Personalizare bară de unelte">
-<!ENTITY dialog.style             "width: 86ch; height: 36em;">
+<!ENTITY dialog.dimensions        "width: 92ch; height: 36em;">
 <!ENTITY instructions.description "Puteți adăuga sau elimina elemente trăgându-le pe sau de pe barele de unelte.">
 <!ENTITY show.label               "Afișează:">
 <!ENTITY iconsAndText.label       "Iconițe și text">

@@ -47,8 +47,8 @@
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "Reîncarcă pagina">
 <!ENTITY reloadPlugin.post                                   " pentru a încerca din nou.">
-<!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.checkbox                                     "…și raportează defecțiunea">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "Raportează defecțiunea">
 <!ENTITY report.submitting                                   "Trimitere raport…">
 <!ENTITY report.submitted                                    "Defecțiune raportată.">
 <!ENTITY report.disabled                                     "Raportarea defecțiunilor e dezactivată.">
