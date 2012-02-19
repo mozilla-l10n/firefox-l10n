@@ -12,9 +12,9 @@
 <!ENTITY deleteCmd.accesskey "S">
 
 <!ENTITY spellAddToDictionary.label "Føj til ordbog">
-<!ENTITY spellAddToDictionary.accesskey "o">
+<!ENTITY spellAddToDictionary.accesskey "ø">
 <!ENTITY spellUndoAddToDictionary.label "Fortryd tilføjelse til ordbog">
-<!ENTITY spellUndoAddToDictionary.accesskey "n">
+<!ENTITY spellUndoAddToDictionary.accesskey "ø">
 <!ENTITY spellCheckEnable.label "Stavekontrol">
 <!ENTITY spellCheckEnable.accesskey "t">
 <!ENTITY spellNoSuggestions.label "(ingen staveforslag)">
