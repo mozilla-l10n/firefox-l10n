@@ -13,7 +13,7 @@
 -->
 <!ENTITY aboutDialog.title          "Ò programie &brandFullName;">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
-<!ENTITY warningDesc.version        "&brandShortName; je jész w eksperimentalny wersji ë mòże bëc niesztabilnô.">
+<!ENTITY warningDesc.version        "&brandShortName; je eksperimentalną wersji ë mòże bëc niesztabilnô.">
 
 <!ENTITY community.start2           "Program &brandShortName; je zaprojektowóny przez karno ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -22,7 +22,7 @@
 
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
-<!ENTITY community.exp.end " wëspółrobiącą bë Internet béł lepszi. Mómë wiarã, że Jnternet mùszi bëc òtemkłi, pùbliczny ë przistãpny dlô wszëtczich bez niżódnëch restrikcjów.">
+<!ENTITY community.exp.end " wëspółrobiącą bë Jinternet béł lepszi. Mómë wiarã, że Jnternet mùszi bëc òtemkłi, pùbliczny ë przistãpny dlô wszëtczich bez niżódnëch restrikcjów.">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink "swiatowô spòlëznã">
 <!ENTITY community.creditsLink      "swiatowô spòlëznã">
@@ -62,7 +62,7 @@
      one line with linkText being wrapped in an anchor that links to a site to download
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.failed.start        "Aktualizacjô sã nie darzëła. ">
+<!ENTITY update.failed.start        "Aktualizacjô sã nie darziła. ">
 <!ENTITY update.failed.linkText     "Zladëjë nônowszą wersjã">
 <!ENTITY update.failed.end          "">
 

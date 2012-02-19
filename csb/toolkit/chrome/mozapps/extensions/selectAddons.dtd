@@ -36,7 +36,7 @@
 <!ENTITY update.progress.label       "Zladënk aktualizacji dlô wëbrónëch dodôwków.">
 
 <!ENTITY errors.heading              "&brandShortName; ni mógł zaktualnic niechtërnëch dodôwków.">
-<!ENTITY errors.description          "Wjinstalowónié niechtërnëch aktualizacji sã nie darzëło. &brandShortName; spróbùje zaktualizowac je pòzdze jesz rôz.">
+<!ENTITY errors.description          "Wjinstalowónié niechtërnëch aktualizacji sã nie darziło. &brandShortName; spróbùje zaktualizowac je pòzdze jesz rôz.">
 
 <!ENTITY footer.label                "Wiedno mòżesz sprôwiac dodôwkama w Menadżerze Dodôwków.">
 <!ENTITY cancel.label                "Òprzestóń">
