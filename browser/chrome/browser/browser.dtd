@@ -217,8 +217,11 @@ can reach it easily. -->
 <!ENTITY inspectButton.label          "Inspectar">
 <!ENTITY inspectButton.accesskey      "I">
 <!ENTITY inspectCloseButton.tooltiptext "Serrar l'inspectur">
-<!ENTITY inspect3DButton.label        "3D">
-<!ENTITY inspect3DButton.accesskey    "M">
+<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
+  -  alternate view for the Inspector, creating a 3D visualization of the
+  -  webpage. -->
+<!ENTITY inspect3DViewButton.label     "Vista da 3D">
+<!ENTITY inspect3DViewButton.accesskey "W">
 <!ENTITY inspectStyleButton.label     "Stil">
 <!ENTITY inspectStyleButton.accesskey "S">
 
@@ -433,9 +436,9 @@ can reach it easily. -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY mediaPlay.label             "Fa ir">
+<!ENTITY mediaPlay.label             "Far ir">
 <!ENTITY mediaPlay.accesskey         "F">
-<!ENTITY mediaPause.label            "Pausa">
+<!ENTITY mediaPause.label            "Pausar">
 <!ENTITY mediaPause.accesskey        "P">
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
 "Unmute" are the same because the two context-menu
@@ -447,9 +450,9 @@ items are mutually exclusive. -->
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY mediaShowControls.label     "Mussar la controlla">
+<!ENTITY mediaShowControls.label     "Mussar las controllas">
 <!ENTITY mediaShowControls.accesskey "c">
-<!ENTITY mediaHideControls.label     "Zuppentar la controlla">
+<!ENTITY mediaHideControls.label     "Zuppentar las controllas">
 <!ENTITY mediaHideControls.accesskey "c">
 <!ENTITY videoFullScreen.label       "Maletg entir">
 <!ENTITY videoFullScreen.accesskey   "M">
