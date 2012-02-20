@@ -16,8 +16,8 @@
 
 <!ENTITY navbarCmd.label "Pasek narzędzi nawigacyjnych">
 <!ENTITY navbarCmd.accesskey "n">
-<!ENTITY personalbarCmd.label "Osobisty pasek narzędzi">
-<!ENTITY personalbarCmd.accesskey "O">
+<!ENTITY bookmarksToolbarCmd.label "Pasek zakładek">
+<!ENTITY bookmarksToolbarCmd.accesskey "d">
 
 <!ENTITY closeWindow.label "Zamknij okno">
 <!ENTITY closeWindow.accesskey "k">
@@ -29,7 +29,7 @@
 <!ENTITY feedsMenu.accesskey "S">
 
 <!ENTITY menuBar.tooltip "Pasek menu">
-<!ENTITY personalToolbar.tooltip "Pasek narzędzi osobistych">
+<!ENTITY bookmarksToolbar.tooltip "Pasek zakładek">
 <!ENTITY navigationToolbar.tooltip "Pasek narzędzi nawigacyjnych">
 
 <!-- Toolbar items --> 
