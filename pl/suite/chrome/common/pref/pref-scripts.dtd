@@ -15,7 +15,9 @@
 <!ENTITY allowContextmenuDisable.label "Wyłączanie lub zmienianie menu kontekstowego">
 <!ENTITY allowHideStatusBar.label "Ukrywanie paska stanu">
 
-<!ENTITY enablePlugin.label "Włącz wtyczki dla">
+<!ENTITY enablePlugin.label "Włącz wtyczki dla:">
+<!ENTITY enablePluginForSuite.label "Pakiet SeaMonkey">
+<!ENTITY enablePluginForSuite.accesskey "P">
 
 <!ENTITY whenPluginsRequired.label "Jeżeli dodatkowe wtyczki są wymagane">
 <!ENTITY displayNotification.label "Wyświetlaj pasek powiadomień powyżej wyświetlanej strony">
