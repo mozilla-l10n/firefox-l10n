@@ -152,6 +152,8 @@
 <!ENTITY showMessengerToolbarCmd.accesskey "E">
 <!ENTITY showSearchToolbarCmd.label "Zoekbalk">
 <!ENTITY showSearchToolbarCmd.accesskey "Z">
+<!ENTITY showTabsToolbarCmd.label "Tabbladwerkbalk">
+<!ENTITY showTabsToolbarCmd.accesskey "T">
 
 <!ENTITY messagePaneLayoutStyle.label "Vormgeving">
 <!ENTITY messagePaneLayoutStyle.accesskey "V">
