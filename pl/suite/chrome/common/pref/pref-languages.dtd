@@ -23,10 +23,3 @@
 <!ENTITY languages.customize.moveUp.accesskey "g">
 <!ENTITY languages.customize.moveDown.label "Przenieś w dół">
 <!ENTITY languages.customize.moveDown.accesskey "P">
-
-<!ENTITY spelling.label "Pisownia">
-<!ENTITY checkSpelling.label "Sprawdzaj pisownię podczas wprowadzania tekstu:">
-<!ENTITY checkSpelling.accesskey "w">
-<!ENTITY dontCheckSpelling.label "Nigdy">
-<!ENTITY multilineCheckSpelling.label "W polach wieloliniowych">
-<!ENTITY alwaysCheckSpelling.label "We wszystkich polach">

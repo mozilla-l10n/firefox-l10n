@@ -35,5 +35,6 @@
 <!ENTITY policies.label "Zasady zabezpieczeń">
 <!ENTITY mousewheel.label "Przewijanie">
 <!ENTITY scriptsAndWindows.label "Skrypty i wtyczki">
+<!ENTITY spellingPane.label "Pisownia">
 
 <!ENTITY focusSearch.key "f">

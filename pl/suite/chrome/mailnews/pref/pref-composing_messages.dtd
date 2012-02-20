@@ -58,15 +58,6 @@
 <!ENTITY wrapOutMsg.accesskey "w">
 <!ENTITY char.label "znaków">
 
-<!ENTITY spellingHeader.label "Pisownia">
-<!ENTITY spellCheck.label "Sprawdź pisownię przed wysłaniem wiadomości">
-<!ENTITY spellCheck.accesskey "S">
-<!ENTITY spellCheckInline.label "Sprawdzaj pisownię w trakcie tworzenia wiadomości">
-<!ENTITY spellCheckInline.accesskey "e">
-<!ENTITY languagePopup.label "Słownik:">
-<!ENTITY languagePopup.accessKey "S">
-<!ENTITY moreDictionaries.label "Pobierz więcej słowników…">
-
 <!ENTITY defaultMessagesHeader.label "Domyślne ustawienia wiadomości HTML">
 <!ENTITY font.label "Czcionka:">
 <!ENTITY font.accesskey "n">
