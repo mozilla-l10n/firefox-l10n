@@ -17,3 +17,6 @@
 <!ENTITY spellNoSuggestions.label "(કોઈ જોડણી સૂચનો નથી)">
 <!ENTITY spellDictionaries.label "ભાષાઓ">
 <!ENTITY spellDictionaries.accesskey "l">
+<!ENTITY spellUndoAddToDictionary.label "શબ્દકોષમાં ઉમેરો રદ કરો">
+<!ENTITY spellUndoAddToDictionary.accesskey "n">
+

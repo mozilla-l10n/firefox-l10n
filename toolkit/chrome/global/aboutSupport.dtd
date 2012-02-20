@@ -19,14 +19,8 @@
 <!ENTITY aboutSupport.appBasicsBuildConfig "બિલ્ડ રૂપરેખાંકન">
 <!ENTITY aboutSupport.appBasicsUserAgent "વપરાશકર્તા એજન્ટ">
 
-<!ENTITY aboutSupport.show.label "ફોલ્ડરને સમાવી રહ્યુ છે તેને ખોલો">
-
-<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
-variant of aboutSupport.show.label.  This allows us to use the preferred
-"Finder" terminology on Mac. -->
 <!ENTITY aboutSupport.showMac.label "શોધકર્તામાં બતાવો">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "બદલેલ પસંદગીઓ">
 <!ENTITY aboutSupport.modifiedPrefsName "નામ">
 <!ENTITY aboutSupport.modifiedPrefsValue "કિંમત">
 
@@ -36,3 +30,10 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.updateHistoryTitle "ઇતિહાસને સુધારો">
 
 <!ENTITY aboutSupport.copyToClipboard.label "ક્લિપબોર્ડમાં બધાની નકલ કરો">
+
+<!ENTITY aboutSupport.appBasicsCrashIDs "ભંગાણ અહેવાલો">
+<!ENTITY aboutSupport.appBasicsMemoryUse "મેમરી વપરાશ">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "અગત્યની સુધારા પસંદગીઓ">
+<!ENTITY aboutSupport.showDir.label "ડિરેક્ટરી ખોલો">
+<!ENTITY aboutSupport.showWin.label "ફોલ્ડર બતાવો">
+
