@@ -1,1 +1,1 @@
-#define MOZ_LANG_TITLE អង់គ្លេស (US)
+#define MOZ_LANG_TITLE ខ្មែរ (km)
