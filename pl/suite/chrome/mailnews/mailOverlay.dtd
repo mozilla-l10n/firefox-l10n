@@ -4,3 +4,5 @@
 <!ENTITY newMessageCmd.accesskey "W">
 <!ENTITY newContactCmd.label "Wizytówka…">
 <!ENTITY newContactCmd.accesskey "i">
+<!ENTITY printButton.label "Drukuj">
+<!ENTITY printButton.tooltip "Drukuj tę wiadomość">
