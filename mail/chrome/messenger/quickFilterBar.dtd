@@ -1,6 +1,6 @@
 <!ENTITY quickFilterBar.qfbShowFilterBar.label "Filtro rápido">
 <!ENTITY quickFilterBar.toggleBarVisibility.menu.label "Barra de filtrado rápido">
-<!ENTITY quickFilterBar.toggleBarVisibility.menu.accesskey "B">
+<!ENTITY quickFilterBar.toggleBarVisibility.menu.accesskey "f">
 <!ENTITY quickFilterBar.toggleBarVisibility.button.tooltip "Mostrar/ocultar la barra de filtrado rápido">
 <!ENTITY quickFilterBar.sticky.tooltip "Mantener filtros aplicados al cambiar de carpetas">
 <!ENTITY quickFilterBar.barLabel.label "Filtro rápido:">
