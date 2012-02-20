@@ -53,11 +53,11 @@
 <!ENTITY viewBGImageCmd.accesskey "t">
 <!ENTITY setWallpaperCmd.label "Ustaw jako tapetę">
 <!ENTITY setWallpaperCmd.accesskey "t">
-<!ENTITY bookmarkPageCmd.label "Dodaj zakładkę do strony">
+<!ENTITY bookmarkPageCmd.label "Dodaj zakładkę do tej strony…">
 <!ENTITY bookmarkPageCmd.accesskey "D">
-<!ENTITY bookmarkLinkCmd.label "Dodaj zakładkę do odnośnika">
+<!ENTITY bookmarkLinkCmd.label "Dodaj zakładkę do tego odnośnika…">
 <!ENTITY bookmarkLinkCmd.accesskey "a">
-<!ENTITY bookmarkFrameCmd.label "Dodaj zakładkę do ramki">
+<!ENTITY bookmarkFrameCmd.label "Dodaj zakładkę do tej ramki…">
 <!ENTITY bookmarkFrameCmd.accesskey "D">
 <!ENTITY savePageAsCmd.label "Zapisz stronę jako…">
 <!ENTITY savePageCmd.label "Zapisz stronę">
