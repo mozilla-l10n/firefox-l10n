@@ -40,7 +40,7 @@
 
 <!ENTITY bookmarkLinkCmd.label "Dodaj zakładkę do odnośnika…">
 <!ENTITY bookmarkLinkCmd.accesskey "D">
-<!ENTITY bookmarkLinksCmd.label "Dodaj zakładki do odnośników">
+<!ENTITY bookmarkLinksCmd.label "Dodaj zakładkę do tych odnośników…">
 <!ENTITY bookmarkLinksCmd.accesskey "D">
 
 <!ENTITY col.title.label "Tytuł">
