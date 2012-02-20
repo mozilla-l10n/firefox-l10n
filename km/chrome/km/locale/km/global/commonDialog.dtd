@@ -1,9 +1,0 @@
-<!ENTITY header.label     "ចំណង​ជើង​សង្ខេប"> 
-<!ENTITY message.label    "អត្ថបទ​គំរូ​ខ្លះ​នៅ​ទីនេះ ។">
-<!ENTITY editfield0.label "ឈ្មោះ​អ្នក​ប្រើ ៖"> 
-<!ENTITY editfield1.label "ពាក្យ​សម្ងាត់ ៖"> 
-<!ENTITY checkbox.label   "គូស​ធីក">
-<!ENTITY copyCmd.label    "Copy">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY selectAllCmd.label "Select All">
-<!ENTITY selectAllCmd.accesskey "A">

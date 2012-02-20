@@ -1,0 +1,7 @@
+<!-- These strings are used in the about:newtab page -->
+<!ENTITY newtab.pageTitle "ផ្ទាំង​ថ្មី">
+
+<!ENTITY newtab.show "បង្ហាញ​ទំព័រ​ផ្ទាំង​ថ្មី">
+<!ENTITY newtab.hide "លាក់​ទំព័រ​ផ្ទាំង​ថ្មី">
+<!ENTITY newtab.reset "កំណត់​ទំព័រ​ផ្ទាំង​ថ្មី​ឡើង​វិញ">
+

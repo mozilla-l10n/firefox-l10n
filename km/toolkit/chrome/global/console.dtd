@@ -35,7 +35,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY errorConsole.title "កុងសូល​កំហុស">
+<!ENTITY errorConsole.title "Error Console">
 
 <!ENTITY errFile.label   "ឯកសារ​ប្រភព ៖">
 <!ENTITY errLine.label   "បន្ទាត់ ៖">
