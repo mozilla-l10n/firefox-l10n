@@ -4,7 +4,6 @@
 <!ENTITY props.path.label "પથ:">
 <!ENTITY props.secure.label "માટે મોકલો:">
 <!ENTITY props.expires.label "સમાપ્ત થાય છે:">
-<!ENTITY props.policy.label "નીતિ:">
 <!ENTITY button.allow.label "માન્ય">
 <!ENTITY button.allow.accesskey "A">
 <!ENTITY button.session.label "આ સત્ર માટે સ્વીકારો">

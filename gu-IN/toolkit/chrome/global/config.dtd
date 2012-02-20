@@ -34,7 +34,6 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 <!ENTITY window.title "about:config">
-<!ENTITY focusFilter.key "f">
 
 <!-- about:config warning page -->
 <!ENTITY aboutWarningTitle.label "કાળજી રાખો, આ પાનું લવાઈ ગયેલ છે!">
@@ -42,8 +41,6 @@
 <!ENTITY aboutWarningButton.label "હું કાળજી રાખીશ, હું વાયદો કરું છું!">
 <!ENTITY aboutWarningCheckbox.label "આ ચેતવણી મને આગળના સમયે બતાવશો">
 
-<!ENTITY filterPrefs.label "ગાળક:">
-<!ENTITY filterPrefs.accesskey "F">
 <!-- Columns -->
 <!ENTITY prefColumn.label "પસંદગી નામ">
 <!ENTITY lockColumn.label "સ્થિતિ">
@@ -74,3 +71,7 @@
 <!ENTITY integer.accesskey "I">
 <!ENTITY boolean.label "બુલિયન">
 <!ENTITY boolean.accesskey "B">
+
+<!ENTITY focusSearch.key "r">
+<!ENTITY searchPrefs.label "શોધો:">
+<!ENTITY searchPrefs.accesskey "r">

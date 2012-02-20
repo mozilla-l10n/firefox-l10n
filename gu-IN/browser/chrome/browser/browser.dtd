@@ -527,8 +527,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY backForwardButtonMenu.tooltip "ઈતિહાસ બતાવવા માટે જમણું ક્લિક કરો અથવા નીચે ખેંચો">
 <!ENTITY backForwardButtonMenuMac.tooltip "ઈતિહાસ બતાવવા માટે નીચે ખેંચો">
 <!ENTITY domFullScreenWarning.label "પૂર્ણ-સ્ક્રીન સ્થિતિ છોડવા માટે ઍસ્કેપ દબાવો">
-<!ENTITY inspect3DButton.accesskey    "M">
-<!ENTITY inspect3DButton.label        "3D">
+<!ENTITY inspect3DViewButton.label     "3D દેખાવ">
+<!ENTITY inspect3DViewButton.accesskey "W">
 <!ENTITY inspectCloseButton.tooltiptext "પરીક્ષક બંધ કરો">
 <!ENTITY inspectContextMenu.accesskey "Q">
 <!ENTITY inspectContextMenu.label     "ઘટકની તપાસ કરો">
