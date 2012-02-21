@@ -3,5 +3,5 @@ bing
 eBay
 google
 twitter
-wikipedia
+wikipedia-km
 yahoo

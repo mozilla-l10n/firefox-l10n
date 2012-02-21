@@ -1,1 +1,1 @@
-#define MOZ_LANG_TITLE ខ្មែរ (km)
+#define MOZ_LANG_TITLE ខ្មែរ

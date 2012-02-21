@@ -218,7 +218,7 @@ can reach it easily. -->
 <!ENTITY inspectButton.accesskey        "ត">
 <!ENTITY inspectCloseButton.tooltiptext "បិទ​កម្មវិធី​ត្រួតពិនិត្យ">
 <!ENTITY inspect3DButton.label        "3D">
-<!ENTITY inspect3DButton.accesskey    "M">
+<!ENTITY inspect3DButton.accesskey    "D">
 <!ENTITY inspectStyleButton.label     "រចនាប័ទ្ម">
 <!ENTITY inspectStyleButton.accesskey "រ">
 

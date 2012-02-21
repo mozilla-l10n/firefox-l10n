@@ -22,14 +22,14 @@
 <!ENTITY aboutSupport.appBasicsCrashIDs "របាយការណ៍​ការ​គាំង">
 <!ENTITY aboutSupport.appBasicsMemoryUse "អង្គ​ចងចាំ​ដែល​ប្រើ">
 
-<!ENTITY aboutSupport.show.label "Open Containing Folder">
+<!ENTITY aboutSupport.show.label "បើក​ថត​ដែល​ផ្ទុក">
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.show.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
 <!ENTITY aboutSupport.showMac.label "បង្ហាញ​ក្នុង​កម្មវិធី​ស្វែងរក">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "Modified Preferences">
+<!ENTITY aboutSupport.modifiedPrefsTitle "ចំណូលចិត្ត​ដែល​បាន​កែប្រែ">
 <!ENTITY aboutSupport.modifiedPrefsName "ឈ្មោះ">
 <!ENTITY aboutSupport.modifiedPrefsValue "តម្លៃ">
 
