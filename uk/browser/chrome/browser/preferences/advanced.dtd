@@ -40,7 +40,9 @@
 <!ENTITY connectionSettings.label        "Налаштувати…">
 <!ENTITY connectionSettings.accesskey    "а">
 
-<!ENTITY offlineStorage.label            "Позамережне сховище">
+<!ENTITY httpCache.label                 "Кешований веб-вміст">
+
+<!ENTITY offlineStorage2.label           "Позамережний веб-вміст та користувацькі дані">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -53,6 +55,8 @@
 <!ENTITY limitCacheSizeAfter.label       "МБ на диску">
 <!ENTITY clearCacheNow.label             "Очистити зараз">
 <!ENTITY clearCacheNow.accesskey         "ч">
+<!ENTITY clearOfflineAppCacheNow.label   "Очистити зараз">
+<!ENTITY clearOfflineAppCacheNow.accesskey "з">
 <!ENTITY overrideSmartCacheSize.label    "Переважити автоматичне керування кешем">
 <!ENTITY overrideSmartCacheSize.accesskey "О">
 
@@ -76,8 +80,6 @@
 <!ENTITY useService.accesskey            "b">
 
 <!ENTITY updateOthers.label              "Automatically update:">
-<!ENTITY enableAddonsUpdate3.label       "Add-ons">
-<!ENTITY enableAddonsUpdate3.accesskey   "o">
 <!ENTITY enableSearchUpdate.label        "Засобів пошуку">
 <!ENTITY enableSearchUpdate.accesskey    "о">
 
@@ -86,7 +88,7 @@
 <!ENTITY offlineNotifyExceptions.label   "Винятки…">
 <!ENTITY offlineNotifyExceptions.accesskey "н">
 
-<!ENTITY offlineAppsList.label           "Ці сайти зберігають дані на вашому комп’ютері для використання поза мережею:">
+<!ENTITY offlineAppsList2.label          "Наступним сайтам дозволено зберігати дані для позамережного використання:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Вилучити…">
 <!ENTITY offlineAppsListRemove.accesskey "В">
