@@ -1,6 +1,9 @@
 A browser/chrome/browser/inspector.properties
 A browser/chrome/browser/styleinspector.dtd
 A browser/chrome/browser/styleinspector.properties
+? browser/chrome/browser/devtools/styleeditor.dtd
+? browser/chrome/browser/devtools/styleeditor.properties
+? browser/chrome/browser/devtools/tilt.properties
 
 dom/chrome/dom/dom.properties
 dom/chrome/layout/css.properties (grep keyframe)
