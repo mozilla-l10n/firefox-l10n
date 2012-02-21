@@ -1,6 +1,6 @@
 #filter emptyLines
 
-#define MOZ_LANGPACK_CREATOR ខ្មែរ (km)
+#define MOZ_LANGPACK_CREATOR ខ្មែរ
 
 # If non-English locales wish to credit multiple contributors, uncomment this
 # variable definition and use the format specified.
