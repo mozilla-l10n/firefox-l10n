@@ -337,7 +337,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Message Menu -->
 <!ENTITY msgMenu.label "Poruka">
-<!ENTITY msgMenu.accesskey "P">
+<!ENTITY msgMenu.accesskey "r">
 <!ENTITY newMsgCmd.label "Nova poruka">
 <!ENTITY newMsgCmd.accesskey "N">
 <!ENTITY newNewMsgCmd.label "Poruka">
