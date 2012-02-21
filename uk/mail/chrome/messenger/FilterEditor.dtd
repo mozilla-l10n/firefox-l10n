@@ -27,7 +27,8 @@
 <!ENTITY copyMessage.label "Перемістити повідомлення у">
 <!ENTITY forwardTo.label "Переслати повідомлення до">
 <!ENTITY replyWithTemplate.label "Відповісти за шаблоном">
-<!ENTITY markMessageRead.label "Відмітити як прочитане">
+<!ENTITY markMessageRead.label "Позначити як прочитане">
+<!ENTITY markMessageUnread.label "Позначити як нечитане">
 <!ENTITY markMessageStarred.label "Додати зірочку">
 <!ENTITY setPriority.label "Змінити важливість на">
 <!ENTITY addTag.label "Помітити повідомлення">
