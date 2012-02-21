@@ -21,5 +21,5 @@
 <!ENTITY  maintainStructure.accesskey   "d">
 <!ENTITY  useCSS.label                  "Koristi CSS stilove umjesto HTML elemenata i atributa">
 <!ENTITY  useCSS.accesskey              "K">
-<!ENTITY  crInPCreatesNewP.label        "Povratak u odlomku ovijek stvara novi odlomak">
+<!ENTITY  crInPCreatesNewP.label        "Povratak u odlomku uvijek stvara novi odlomak">
 <!ENTITY  crInPCreatesNewP.accesskey    "v">
