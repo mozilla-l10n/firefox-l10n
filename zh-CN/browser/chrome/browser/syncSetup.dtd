@@ -3,7 +3,7 @@
 <!-- First page of the wizard -->
 
 <!ENTITY setup.pickSetupType.description2 "欢迎！如果您以前从未使用过 &syncBrand.fullName.label;，您将需要创建一个新帐户。">
-<!ENTITY button.createNewAccount.label "创建一个新帐户">
+<!ENTITY button.createNewAccount.label "创建新帐户">
 <!ENTITY button.haveAccount.label      "已有帐户">
 
 <!ENTITY setup.choicePage.title.label     "您以前是否使用过 &syncBrand.fullName.label;？">
@@ -104,6 +104,6 @@
 <!ENTITY confirm.server2.label         "警告：以下设备将被你的本地数据覆盖：">
 
 <!-- New & Existing Account: Setup Complete -->
-<!ENTITY setup.successPage.title "安装完成">
+<!ENTITY setup.successPage.title "初始设置完成">
 <!ENTITY changeOptions.label "您可以选择下面的同步选项更改此首选项。">
 <!ENTITY continueUsing.label "您现在可以继续使用 &brandShortName;。">

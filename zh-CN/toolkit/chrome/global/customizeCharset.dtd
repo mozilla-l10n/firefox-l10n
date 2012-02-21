@@ -38,10 +38,10 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY title.label        "定制字符编码">
-<!ENTITY current.label      "活动字符编码：">
+<!ENTITY current.label      "激活字符编码：">
 <!ENTITY remove.label       "移除">
 <!ENTITY remove.accessKey   "R">
-<!ENTITY additional.label   "可用字符集：">
+<!ENTITY additional.label   "可用的字符编码：">
 <!ENTITY add.label          "添加">
 <!ENTITY add.accessKey      "A">
 <!ENTITY moveUp.label       "上移">
