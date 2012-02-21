@@ -2,6 +2,8 @@
 <!ENTITY playButton.pauseLabel "Пауза">
 <!ENTITY muteButton.muteLabel "Вимкнути звук">
 <!ENTITY muteButton.unmuteLabel "Увімкнути звук">
+<!ENTITY fullscreenButton.enterfullscreenlabel "Повний екран">
+<!ENTITY fullscreenButton.exitfullscreenlabel "Вийти з повного екрану">
 
 <!ENTITY stats.media "Медіа">
 <!ENTITY stats.size "Розмір">
@@ -17,6 +19,13 @@
 <!ENTITY stats.framesDecoded "Декодованих кадрів">
 <!ENTITY stats.framesPresented "Показаних кадрів">
 <!ENTITY stats.framesPainted "Відрисованих кадрів">
+
+<!ENTITY error.aborted "Завантаження відео зупинилось.">
+<!ENTITY error.network "Відтворення відео зупинено через мережеву помилку.">
+<!ENTITY error.decode "Відео не може бути відтворене бо файл пошкоджений.">
+<!ENTITY error.srcNotSupported "Відеоформат або тип MIME не підтримується.">
+<!ENTITY error.noSource2 "Не знайдено відео у підтримуваному форматі та типі MIME.">
+<!ENTITY error.generic "Відтворення відео зупинено через невідому помилку.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
