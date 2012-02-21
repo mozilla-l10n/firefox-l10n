@@ -4,7 +4,6 @@
 <!ENTITY     props.path.label               "路径：">
 <!ENTITY     props.secure.label             "发送，为：">
 <!ENTITY     props.expires.label            "过期时间：">
-<!ENTITY     props.policy.label             "策略："> 
 
 <!ENTITY     button.allow.label             "允许">
 <!ENTITY     button.allow.accesskey         "A">

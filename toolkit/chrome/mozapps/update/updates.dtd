@@ -36,7 +36,7 @@
 <!ENTITY  license.decline                 "我拒绝接受许可协议条款">
 <!ENTITY  license.decline.accesskey       "T">
 
-<!ENTITY  incompatibleList.title          "找到不兼容的附加组件">
+<!ENTITY  incompatibleList.title          "发现不兼容的附加组件">
 
 <!ENTITY  downloadPage.title              "下载 &brandShortName;">
 <!ENTITY  downloading.intro               "正在下载更新…">

@@ -90,7 +90,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "退出全屏模式">
 <!ENTITY fullScreenExit.accesskey "F">
-<!ENTITY domFullScreenWarning.label "请按 ESC 键离开全频模式">
+<!ENTITY domFullScreenWarning.label "按 ESC 键离开全屏模式">
 
 <!ENTITY closeWindow.label "关闭窗口">
 <!ENTITY closeWindow.accesskey "d">
@@ -217,8 +217,13 @@ can reach it easily. -->
 <!ENTITY inspectButton.label            "查看">
 <!ENTITY inspectButton.accesskey        "I">
 <!ENTITY inspectCloseButton.tooltiptext "关闭查看器">
-<!ENTITY inspect3DButton.label        "3D">
-<!ENTITY inspect3DButton.accesskey    "M">
+
+<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
+  -  alternate view for the Inspector, creating a 3D visualization of the
+  -  webpage. -->
+<!ENTITY inspect3DViewButton.label     "三维视图">
+<!ENTITY inspect3DViewButton.accesskey "W">
+
 <!ENTITY inspectStyleButton.label     "样式">
 <!ENTITY inspectStyleButton.accesskey "S">
 
