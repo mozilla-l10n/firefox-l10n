@@ -77,8 +77,6 @@
 <!ENTITY imagemapBox.label "Aktive billedområder">
 <!ENTITY removeImageMapButton.label "Fjern">
 <!ENTITY removeImageMapButton.accessKey "R">
-<!ENTITY editImageMapButton.label "Rediger…">
-<!ENTITY editImageMapButton.tooltip "Gør områder på billedet til aktive områder med link">
 
 <!-- These are the options for image alignment -->
 <!ENTITY alignment.label "Juster teksten langs billedet">

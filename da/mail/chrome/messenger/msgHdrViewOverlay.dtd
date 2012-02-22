@@ -129,6 +129,9 @@
 <!ENTITY copyLinkCmd.label "Kopier link">
 <!ENTITY copyLinkCmd.accesskey "K">
 
-<!ENTITY CopyMessageId.label "Kopier Meddelelse-ID">
+<!ENTITY CopyMessageId.label "Kopier meddelelse-ID">
+<!ENTITY CopyMessageId.accesskey "K">
 <!ENTITY OpenMessageForMsgId.label "Åbn meddelelse med ID">
-<!ENTITY OpenBrowserWithMsgId.label "Åbn Browser med Meddelelse-ID">
+<!ENTITY OpenMessageForMsgId.accesskey "Å">
+<!ENTITY OpenBrowserWithMsgId.label "Åbn browser med meddelelse-ID">
+<!ENTITY OpenBrowserWithMsgId.accesskey "b">
