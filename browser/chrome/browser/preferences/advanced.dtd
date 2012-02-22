@@ -17,18 +17,20 @@
 <!ENTITY useAutoScroll.accesskey         "в">
 <!ENTITY useSmoothScrolling.label        "Байсалды айналдыруды қолдану">
 <!ENTITY useSmoothScrolling.accesskey    "й">
+<!ENTITY allowHWAccel.label              "Қолжетерлік болса құрылғылық үдетуді қолдану">
+<!ENTITY allowHWAccel.accesskey          "д">
 <!ENTITY checkSpelling.label             "Мәтін терілген кезде орфографияны тексеру">
 <!ENTITY checkSpelling.accesskey         "о">
+
+<!ENTITY systemDefaults.label            "Жүйедегі негізгі браузер">
+<!ENTITY alwaysCheckDefault.label        "Әр қосылған кезде &brandShortName; жүйедегі негізгі браузер екенін тексеру"><!--XXX-->
+<!ENTITY alwaysCheckDefault.accesskey    "н">
+<!ENTITY checkNow.label                  "Қазір тексеру">
+<!ENTITY checkNow.accesskey              "з">
 <!ENTITY submitCrashes.label             "Құлау жөнінде хабарламаларды жіберу">
 <!ENTITY submitCrashes.accesskey         "л">
 <!ENTITY submitTelemetry.label           "Өнімділік мәліметін хабарлау">
 <!ENTITY submitTelemetry.accesskey       "м">
-
-<!ENTITY systemDefaults.label            "Жүйедегі негізгі браузер">
-<!ENTITY alwaysCheckDefault.label        "Әр қосылған кезде &brandShortName; жүйедегі негізгі браузер екенін тексеру">
-<!ENTITY alwaysCheckDefault.accesskey    "н">
-<!ENTITY checkNow.label                  "Қазір тексеру">
-<!ENTITY checkNow.accesskey              "з">
 
 <!ENTITY networkTab.label                "Желі">
 
@@ -38,40 +40,55 @@
 <!ENTITY connectionSettings.label        "Баптау…">
 <!ENTITY connectionSettings.accesskey    "а">
 
-<!ENTITY offlineStorage.label            "Дербес режим қоймасы">
+<!ENTITY httpCache.label                 "Кэштелген веб құрамасы">
 
+<!ENTITY offlineStorage2.label           "Оффлайн веб құрамасы мен пайдаланушы мәліметтері">
+
+<!-- LOCALIZATION NOTE:
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
+  line in preferences as follows:
+
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
+-->
 <!ENTITY limitCacheSizeBefore.label      "Кэш шегі">
 <!ENTITY limitCacheSizeBefore.accesskey  "К">
 <!ENTITY limitCacheSizeAfter.label       "МБ орын">
 <!ENTITY clearCacheNow.label             "Қазір өшіру">
 <!ENTITY clearCacheNow.accesskey         "з">
+<!ENTITY clearOfflineAppCacheNow.label   "Қазір өшіру">
+<!ENTITY clearOfflineAppCacheNow.accesskey "з">
 <!ENTITY overrideSmartCacheSize.label    "Кэшті автобасқаруды елемеу">
 <!ENTITY overrideSmartCacheSize.accesskey "м">
 
 <!ENTITY updateTab.label                 "Жаңартулар">
-<!ENTITY autoCheck.label                 "Келесілер үшін жаңартулар бар-жоғын автоматты түрде тексеру:">
-<!ENTITY enableAppUpdate.label           "&brandShortName; браузері үшін">
-<!ENTITY enableAppUpdate.accesskey       "б">
-<!ENTITY enableAddonsUpdate2.label       "Кеңейтулер үшін">
-<!ENTITY enableAddonsUpdate2.accesskey   "т">
-<!ENTITY enableSearchUpdate.label        "Іздеу плагиндері үшін">
-<!ENTITY enableSearchUpdate.accesskey    "п">
-<!ENTITY whenUpdatesFound.label          "&brandShortName; үшін жаңартулар табылған кезде:">
-<!ENTITY askMe.label                     "Пайдаланушының іс-әрекетін сұрау">
-<!ENTITY askMe.accesskey                 "т">
-<!ENTITY modeAutomatic.label             "Жаңартуларды менен сұрамай-ақ жүктеп, орнату">
-<!ENTITY modeAutomatic.accesskey         "м">
-<!ENTITY modeAutoAddonWarn.label         "Осы әрекеттер нәтижесінде кеңейтулердің біреуі болса да өшсе, мені ескерту">
-<!ENTITY modeAutoAddonWarn.accesskey     "н">
+
+<!ENTITY updateApp.label                 "&brandShortName; жаңартулары:">
+<!ENTITY updateAuto.label                "Жаңартуларды автоматты түрде орнату (ұсынылады: қауіпсіздік артады)">
+<!ENTITY updateAuto.accesskey            "в">
+<!ENTITY updateCheck.label               "Жаңартуларды тексеру, бірақ орнату уақытын өзім тандаймын">
+<!ENTITY updateCheck.accesskey           "м">
+<!ENTITY updateManual.label              "Жаңартуларды тексермеу (ұсынылмайды: қауіпсіздік төмендейді)">
+<!ENTITY updateManual.accesskey          "р">
+
+<!ENTITY updateAutoAddonWarn.label       "Бұл менің қосымшаларымды сөндірсе, мені ескерту">
+<!ENTITY updateAutoAddonWarn.accesskey   "с">
+
 <!ENTITY updateHistory.label             "Жаңартулар тарихын көрсету">
 <!ENTITY updateHistory.accesskey         "р">
+
+<!ENTITY useService.label                "Жаңартуларды орнату үшін фон қызметін қолдану">
+<!ENTITY useService.accesskey            "ф">
+
+<!ENTITY updateOthers.label              "Автожаңарту:">
+<!ENTITY enableSearchUpdate.label        "Іздеу плагиндері үшін">
+<!ENTITY enableSearchUpdate.accesskey    "п">
 
 <!ENTITY offlineNotify.label             "Веб-сайт дербес режимде қолданылатын мәліметтерді сақтауды сұраса, мені ескерту">
 <!ENTITY offlineNotify.accesskey         "р">
 <!ENTITY offlineNotifyExceptions.label   "Осыдан бөлек…">
 <!ENTITY offlineNotifyExceptions.accesskey "б">
 
-<!ENTITY offlineAppsList.label           "Келесі веб-сайттар дербес режимде жұмыс істеу үшін мәліметтерді сақтап қойды">
+<!ENTITY offlineAppsList2.label          "Келесі веб сайттарға оффлайн қолдануы үшін мәліметті сақтауға рұқсат етілген:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Өшіру…">
 <!ENTITY offlineAppsListRemove.accesskey "ш">
@@ -98,5 +115,3 @@
 <!ENTITY verify2.accesskey               "п">
 <!ENTITY viewSecurityDevices.label       "Қорғаныс жабдықтары">
 <!ENTITY viewSecurityDevices.accesskey   "ж">
-<!ENTITY allowHWAccel.label              "Қолжетерлік болса құрылғылық үдетуді қолдану">
-<!ENTITY allowHWAccel.accesskey          "д">

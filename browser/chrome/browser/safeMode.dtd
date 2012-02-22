@@ -39,6 +39,9 @@
 <!ENTITY safeModeDialog.title         "&brandShortName; қауіпсіз режимі">
 <!ENTITY window.width                 "37em">
 
+<!ENTITY autoSafeModeIntro.label      "&brandShortName; іске қосылған кезде күтпегенде жабылды">
+<!ENTITY autoSafeModeDescription.label "Келтірілген ыңғайсыздық үшін кешірім сұраймыз. &brandShortName; қазір қауіпсіз режимде жұмыс  істеп жатыр, сіз өзгерткен баптаулар, темалар мен кеңейтулер уақытша сөндірулі.">
+
 <!ENTITY safeModeDescription.label    "&brandShortName; қазір қауіпсіз режимде жұмыс істеуде. Баптаулардың бәрі уақытша бастапқы түрге келтірілген, ал тема мен кеңейтулер өшірілген.">
 <!ENTITY safeModeDescription2.label   "Сіз жасаған баптаулардың өзгерістерін көру үшін браузерді өшіріп, қайта қосыңыз.">
 
@@ -48,6 +51,8 @@
 <!ENTITY resetToolbars.label          "Саймандар панелдер мен басқару элементтерінің баптауларын бастапқы түріне келтіру.">
 <!ENTITY resetToolbars.accesskey      "э">
 
+<!ENTITY deleteBookmarks.label        "Қор көшірмеден басқа барлық бетбелгілерді өшіру">
+<!ENTITY deleteBookmarks.accesskey    "о">
 
 <!ENTITY resetUserPrefs.label         "Баптаулардың барлығын &brandShortName; бастапқы баптауларымен алмастыру">
 <!ENTITY resetUserPrefs.accesskey     "р">
@@ -57,6 +62,3 @@
 
 <!ENTITY changeAndRestartButton.label "Өзгерістерді қабылдап, бағдарламаны қайта қосу">
 <!ENTITY continueButton.label         "Қауіпсіз режимінде жалғастыру">
-
-<!ENTITY deleteBookmarks.label        "Қор көшірмеден басқа барлық бетбелгілерді өшіру">
-<!ENTITY deleteBookmarks.accesskey    "о">

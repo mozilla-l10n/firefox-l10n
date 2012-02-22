@@ -62,9 +62,6 @@
 <!ENTITY  generalMetaContent    "Құрамасы">
 <!ENTITY  generalSecurityDetails   "Көбірек білу">
 <!ENTITY  generalSecurityDetails.accesskey "К">
-<!ENTITY  permIndexedDB              "Дербес жұмыс қорын басқару">
-<!ENTITY  permClearStorage           "Қорды тазарту">
-<!ENTITY  permClearStorage.accesskey "з">
 
 <!ENTITY  mediaTab              "Мультимедиа">
 <!ENTITY  mediaTab.accesskey    "М">
@@ -91,6 +88,7 @@
 <!ENTITY  permTab               "Рұқсаттар">
 <!ENTITY  permTab.accesskey     "Р">
 <!ENTITY  permUseDefault        "Негізгісін қолдану">
+<!ENTITY  permAskAlways         "Әрқашан сұрау">
 <!ENTITY  permAllow             "Рұқсат ету">
 <!ENTITY  permAllowSession      "Тек осы сессия үшін рұқсат ету">
 <!ENTITY  permBlock             "Блоктау">
@@ -99,6 +97,11 @@
 <!ENTITY  permPopup             "&quot;Атып шығатын&quot; терезелерін ашу">
 <!ENTITY  permCookie            "Cookies қабылдау">
 <!ENTITY  permInstall           "Кеңейтулер мен темаларды орнату">
+<!ENTITY  permGeo               "Орналасуыңызды жариялау">
+
+<!ENTITY  permIndexedDB              "Дербес жұмыс қорын басқару">
+<!ENTITY  permClearStorage           "Қорды тазарту">
+<!ENTITY  permClearStorage.accesskey "з">
 
 <!ENTITY  securityTab           "Қауіпсіздік">
 <!ENTITY  securityTab.accesskey "а">
@@ -123,6 +126,3 @@
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "т">
 
 <!ENTITY  securityView.technical.header                 "Техникалық ақпарат">
-
-<!ENTITY  permAskAlways         "Әрқашан сұрау">
-<!ENTITY  permGeo               "Орналасуыңызды жариялау">

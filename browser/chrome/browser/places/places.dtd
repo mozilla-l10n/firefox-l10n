@@ -5,8 +5,7 @@
 <!ENTITY organize.label        "Басқару">
 <!ENTITY organize.accesskey    "с">
 <!ENTITY organize.tooltip      "Бетбелгілеріңізді басқару">
-<!ENTITY find.label               "Іздеу:">
-<!ENTITY find.accesskey           "з">
+
 <!ENTITY file.close.label               "Жабу">
 <!ENTITY file.close.accesskey           "Ж">
 <!ENTITY cmd.close.key                  "w">
@@ -23,15 +22,18 @@
 <!ENTITY view.sortAscending.accesskey   "б">
 <!ENTITY view.sortDescending.label      "Алфавит бойынша кері сұрыптау">
 <!ENTITY view.sortDescending.accesskey  "т">
-<!ENTITY view.label               "Қарау">
-<!ENTITY view.accesskey           "р">
 
 <!ENTITY cmd.findInBookmarks.label      "Бетбелгілер ішінен іздеу…">
 <!ENTITY cmd.findInBookmarks.accesskey  "н">
 <!ENTITY cmd.findCurrent.label          "Ағымдағы топтама ішінен іздеу…">
 <!ENTITY cmd.findCurrent.accesskey      "з">
-<!ENTITY cmd.bookmarkLink.label         "Бұл парақты бетбелгілерге қосу…">
-<!ENTITY cmd.bookmarkLink.accesskey     "п">
+
+<!ENTITY importBookmarksFromHTML.label     "Бетбелгілерді HTML ішінен импорттау…">
+<!ENTITY importBookmarksFromHTML.accesskey "и">
+<!ENTITY exportBookmarksToHTML.label       "Бетбелгілерді HTML ішіне экспорттау…">
+<!ENTITY exportBookmarksToHTML.accesskey   "э">
+<!ENTITY importOtherBrowser.label          "Мәліметті басқа браузерден импорттау…">
+<!ENTITY importOtherBrowser.accesskey      "М">
 
 <!ENTITY cmd.backup.label               "Резервті көшіру…">
 <!ENTITY cmd.backup.accesskey           "в">
@@ -40,6 +42,8 @@
 <!ENTITY cmd.restoreFromFile.label      "Файлды таңдау…">
 <!ENTITY cmd.restoreFromFile.accesskey  "д">
 
+<!ENTITY cmd.bookmarkLink.label         "Бұл парақты бетбелгілерге қосу…">
+<!ENTITY cmd.bookmarkLink.accesskey     "п">
 <!ENTITY cmd.delete.label               "Беттер ішінен іздеу">
 <!ENTITY cmd.delete.accesskey           "Б">
 <!ENTITY cmd.deleteDomainData.label     "Бұл парақты өшіру">
@@ -53,13 +57,6 @@
 <!ENTITY cmd.open_tab.accesskey          "т">
 <!ENTITY cmd.open_all_in_tabs.label      "Әрқайсысын жаңа бетте ашу">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "с">
-
-<!ENTITY importBookmarksFromHTML.label     "Бетбелгілерді HTML ішінен импорттау…">
-<!ENTITY importBookmarksFromHTML.accesskey "и">
-<!ENTITY exportBookmarksToHTML.label       "Бетбелгілерді HTML ішіне экспорттау…">
-<!ENTITY exportBookmarksToHTML.accesskey   "э">
-<!ENTITY importOtherBrowser.label          "Мәліметті басқа браузерден импорттау…">
-<!ENTITY importOtherBrowser.accesskey      "М">
 
 <!ENTITY cmd.properties.label      "Қасиеттері">
 <!ENTITY cmd.properties.accesskey  "е">
@@ -93,12 +90,13 @@
 <!ENTITY col.lastmodified.label  "Соңғы рет өзгертілген">
 
 <!ENTITY search.label                              "Іздеу">
-<!ENTITY search.in.label                           "Қайда іздеу:">
 <!ENTITY search.accesskey                          "з">
-<!ENTITY search.scopeBookmarks.label               "Бетбелгілер">
-<!ENTITY search.scopeBookmarks.accesskey           "Б">
+
+<!ENTITY search.in.label                           "Қайда іздеу:">
 <!ENTITY search.scopeFolder.label                  "Ерекшеленген бума">
 <!ENTITY search.scopeFolder.accesskey              "Е">
+<!ENTITY search.scopeBookmarks.label               "Бетбелгілер">
+<!ENTITY search.scopeBookmarks.accesskey           "Б">
 <!ENTITY search.scopeDownloads.label               "Жүктемелер">
 <!ENTITY search.scopeDownloads.accesskey           "к">
 <!ENTITY search.scopeHistory.label                 "Тарихы">
@@ -110,9 +108,9 @@
 
 <!ENTITY maintenance.label      "Импорт және резервілеу">
 <!ENTITY maintenance.accesskey  "И">
+<!ENTITY maintenance.tooltip    "Бетбелгілеріңізді импорттау мен қор көшіру">
 
 <!ENTITY backButton.tooltip  "Алдыңғы бетке қайту">
-<!ENTITY maintenance.tooltip    "Бетбелгілеріңізді импорттау мен қор көшіру">
 
 <!ENTITY forwardButton.tooltip  "Келесі бетке өту">
 
@@ -121,6 +119,11 @@
 <!ENTITY detailsPane.less.label "Аздау">
 <!ENTITY detailsPane.less.accesskey "з">
 <!ENTITY detailsPane.selectAnItemText.description "Қарап шығу мен қасиеттерін түзету үшін элементті таңдаңыз">
+
+<!ENTITY find.label               "Іздеу:">
+<!ENTITY find.accesskey           "з">
+<!ENTITY view.label               "Қарау">
+<!ENTITY view.accesskey           "р">
 <!ENTITY byDate.label             "Күні бойынша">
 <!ENTITY byDate.accesskey         "н">
 <!ENTITY bySite.label             "Сайт бойынша">
