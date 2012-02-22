@@ -34,71 +34,71 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY sunbird.choosedate.button.tooltip                 "Choose date to go to" >
-<!ENTITY sunbird.cut.button.tooltip                        "Cut" >
-<!ENTITY sunbird.copy.button.tooltip                       "Copy" >
-<!ENTITY sunbird.paste.button.tooltip                      "Paste" >
-<!ENTITY sunbird.print.button.tooltip                      "Print calendar" >
-<!ENTITY sunbird.delete.button.tooltip                     "Delete selected event" >
-<!ENTITY sunbird.remotereload.button.tooltip               "Reload all remote calendars" >
-<!ENTITY sunbird.import.button.tooltip                     "Import events from a local file" >
-<!ENTITY sunbird.export.button.tooltip                     "Export events to a local file" >
-<!ENTITY sunbird.subscribe.button.tooltip                  "Subscribe to a calendar file on a remote machine" >
-<!ENTITY sunbird.publish.button.tooltip                    "Publish events to a remote machine" >
-<!ENTITY sunbird.unifinder.button.tooltip                  "Find and list events" >
-<!ENTITY sunbird.edit.button.tooltip                       "Edit selected event" >
+<!ENTITY sunbird.choosedate.button.tooltip                 "Odaberite datum na kojeg želite otići" >
+<!ENTITY sunbird.cut.button.tooltip                        "Izrežite" >
+<!ENTITY sunbird.copy.button.tooltip                       "Kopirajte" >
+<!ENTITY sunbird.paste.button.tooltip                      "Zalijepite" >
+<!ENTITY sunbird.print.button.tooltip                      "Ispišite kalendar" >
+<!ENTITY sunbird.delete.button.tooltip                     "Obrišite odabrani događaj" >
+<!ENTITY sunbird.remotereload.button.tooltip               "Ponovno učitajte sve udaljene kalendare" >
+<!ENTITY sunbird.import.button.tooltip                     "Uvezite događaje iz lokalne datoteke" >
+<!ENTITY sunbird.export.button.tooltip                     "Izvezite" >
+<!ENTITY sunbird.subscribe.button.tooltip                  "Pretplatite se na datoteku kalendara na udaljenom računalu" >
+<!ENTITY sunbird.publish.button.tooltip                    "Objavite događaje na udaljeno računalo" >
+<!ENTITY sunbird.unifinder.button.tooltip                  "Pronađite i popišite događaje" >
+<!ENTITY sunbird.edit.button.tooltip                       "Uredite odabrani događaj" >
 
-<!ENTITY sunbird.choosedate.button.label                   "Choose Date" >
-<!ENTITY sunbird.cut.button.label                          "Cut" >
-<!ENTITY sunbird.copy.button.label                         "Copy" >
-<!ENTITY sunbird.paste.button.label                        "Paste" >
-<!ENTITY sunbird.delete.button.label                       "Delete" >
-<!ENTITY sunbird.remotereload.button.label                 "Reload" >
-<!ENTITY sunbird.import.button.label                       "Import" >
-<!ENTITY sunbird.export.button.label                       "Export" >
-<!ENTITY sunbird.subscribe.button.label                    "Subscribe" >
-<!ENTITY sunbird.publish.button.label                      "Publish" >
-<!ENTITY sunbird.unifinder.button.label                    "Find Events" >
-<!ENTITY sunbird.edit.button.label                         "Edit" >
+<!ENTITY sunbird.choosedate.button.label                   "Odabir datuma" >
+<!ENTITY sunbird.cut.button.label                          "Izreži" >
+<!ENTITY sunbird.copy.button.label                         "Kopiraj" >
+<!ENTITY sunbird.paste.button.label                        "Zalijepi" >
+<!ENTITY sunbird.delete.button.label                       "Obriši" >
+<!ENTITY sunbird.remotereload.button.label                 "Ponovno učitaj" >
+<!ENTITY sunbird.import.button.label                       "Uvoz" >
+<!ENTITY sunbird.export.button.label                       "Izvoz" >
+<!ENTITY sunbird.subscribe.button.label                    "Pretplati" >
+<!ENTITY sunbird.publish.button.label                      "Objavi" >
+<!ENTITY sunbird.unifinder.button.label                    "Pronađi događaje" >
+<!ENTITY sunbird.edit.button.label                         "Uredi" >
 
-<!ENTITY sunbird.flat.topbar.choosedate                    "Go to Date" >
-<!ENTITY sunbird.flat.topbar.dayview                       "Day View" >
-<!ENTITY sunbird.flat.topbar.weekview                      "Week View" >
-<!ENTITY sunbird.flat.topbar.monthview                     "Month View" >
-<!ENTITY sunbird.flat.topbar.multiweekview                 "Multiweek View" >
+<!ENTITY sunbird.flat.topbar.choosedate                    "Idi na datum" >
+<!ENTITY sunbird.flat.topbar.dayview                       "Dnevni prikaz" >
+<!ENTITY sunbird.flat.topbar.weekview                      "Tjedni prikaz" >
+<!ENTITY sunbird.flat.topbar.monthview                     "Mjesečni prikaz" >
+<!ENTITY sunbird.flat.topbar.multiweekview                 "Višetjedni prikaz" >
 
 <!ENTITY sunbird.dayview.accesskey                         "D" >
-<!ENTITY sunbird.weekview.accesskey                        "W" >
+<!ENTITY sunbird.weekview.accesskey                        "T" >
 <!ENTITY sunbird.monthview.accesskey                       "M" >
-<!ENTITY sunbird.multiweekview.accesskey                   "u" >
+<!ENTITY sunbird.multiweekview.accesskey                   "V" >
 
 
-<!ENTITY sunbird.calendartab.label                         "Date">
-<!ENTITY sunbird.listofcalendarstab.label                  "Calendars">
+<!ENTITY sunbird.calendartab.label                         "Datum">
+<!ENTITY sunbird.listofcalendarstab.label                  "Kalendari">
 
 <!ENTITY sunbird.find.key                                  "F">
 <!ENTITY sunbird.close.key                                 "W">
 
-<!ENTITY sunbird.menu.numberofweeks.label                  "Number of Weeks" >
-<!ENTITY sunbird.menu.numberofweeks.accesskey              "N" >
-<!ENTITY sunbird.menu.numberofweeks.1                      "1 Week" >
-<!ENTITY sunbird.menu.numberofweeks.2                      "2 Weeks" >
-<!ENTITY sunbird.menu.numberofweeks.3                      "3 Weeks" >
-<!ENTITY sunbird.menu.numberofweeks.4                      "4 Weeks" >
-<!ENTITY sunbird.menu.numberofweeks.5                      "5 Weeks" >
-<!ENTITY sunbird.menu.numberofweeks.6                      "6 Weeks" >
+<!ENTITY sunbird.menu.numberofweeks.label                  "Broj tjedana" >
+<!ENTITY sunbird.menu.numberofweeks.accesskey              "n" >
+<!ENTITY sunbird.menu.numberofweeks.1                      "1 tjedan" >
+<!ENTITY sunbird.menu.numberofweeks.2                      "2 tjedna" >
+<!ENTITY sunbird.menu.numberofweeks.3                      "3 tjedna" >
+<!ENTITY sunbird.menu.numberofweeks.4                      "4 tjedna" >
+<!ENTITY sunbird.menu.numberofweeks.5                      "5 tjedana" >
+<!ENTITY sunbird.menu.numberofweeks.6                      "6 tjedana" >
 
 <!-- customizable toolbars -->
-<!ENTITY sunbird.context.customize.label                   "Customize…">
-<!ENTITY sunbird.context.customize.accesskey               "C">
-<!ENTITY sunbird.menu.customize.label                      "Customize Toolbar…">
-<!ENTITY sunbird.menu.customize.accesskey                  "C">
-<!ENTITY sunbird.maintoolbar.name                          "Main Toolbar">
-<!ENTITY sunbird.maintoolbar.accesskey                     "M">
+<!ENTITY sunbird.context.customize.label                   "Prilagodi…">
+<!ENTITY sunbird.context.customize.accesskey               "g">
+<!ENTITY sunbird.menu.customize.label                      "Prilagodi alatnu traku…">
+<!ENTITY sunbird.menu.customize.accesskey                  "a">
+<!ENTITY sunbird.maintoolbar.name                          "Glavna alatna traka">
+<!ENTITY sunbird.maintoolbar.accesskey                     "G">
 
 <!-- Sunbird Help -->
-<!ENTITY sunbird.help.label                                "Help Contents">
-<!ENTITY sunbird.help.accesskey                            "H">
+<!ENTITY sunbird.help.label                                "Sadržaj pomoći">
+<!ENTITY sunbird.help.accesskey                            "p">
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 <!ENTITY mainWindow.title                                  "&brandFullName;">

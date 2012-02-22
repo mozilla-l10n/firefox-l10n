@@ -40,18 +40,18 @@
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
-<!ENTITY pref.categories.add.title "Add Category">
-<!ENTITY pref.categories.addButton.label "Add…">
-<!ENTITY pref.categories.addButton.accesskey "A">
-<!ENTITY pref.categories.edit.title "Edit Category">
-<!ENTITY pref.categories.editButton.label "Edit…">
-<!ENTITY pref.categories.editButton.accesskey "E">
-<!ENTITY pref.categories.removeButton.label "Remove">
-<!ENTITY pref.categories.removeButton.accesskey "R">
-<!ENTITY pref.categories.name.label "Name">
-<!ENTITY pref.categories.color.label "Color">
-<!ENTITY pref.categories.usecolor.label "Use Color">
-<!ENTITY pref.categories.none.label "(none)">
-<!ENTITY pref.categories.overwrite "A category already exists with that name. \n Do you want to overwrite it?">
-<!ENTITY pref.categories.overwrite.title "Warning: Duplicate name">
-<!ENTITY pref.categories.noBlankCategories "You must enter a category name.">
+<!ENTITY pref.categories.add.title "Dodaj kategoriju">
+<!ENTITY pref.categories.addButton.label "Dodaj…">
+<!ENTITY pref.categories.addButton.accesskey "D">
+<!ENTITY pref.categories.edit.title "Uredi kategoriju">
+<!ENTITY pref.categories.editButton.label "Uredi…">
+<!ENTITY pref.categories.editButton.accesskey "U">
+<!ENTITY pref.categories.removeButton.label "Ukloni">
+<!ENTITY pref.categories.removeButton.accesskey "k">
+<!ENTITY pref.categories.name.label "Naziv">
+<!ENTITY pref.categories.color.label "Boja">
+<!ENTITY pref.categories.usecolor.label "Koristi boju">
+<!ENTITY pref.categories.none.label "(niti jedna)">
+<!ENTITY pref.categories.overwrite "Kategorija s tim imenom već postoji. \n Želite li je presnimiti?">
+<!ENTITY pref.categories.overwrite.title "Upozorenje: Isti naziv">
+<!ENTITY pref.categories.noBlankCategories "Morate upisati naziv kategorije.">

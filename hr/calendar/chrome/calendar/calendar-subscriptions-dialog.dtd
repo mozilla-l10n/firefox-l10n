@@ -36,11 +36,11 @@
 -->
 
 <!-- Calendar Subscriptions Dialog -->
-<!ENTITY calendar.subscriptions.dialog.title                            "Subscribe Calendars">
-<!ENTITY calendar.subscriptions.dialog.search.label.value               "Show calendars that contain:">
-<!ENTITY calendar.subscriptions.dialog.search.button.label              "Search">
-<!ENTITY calendar.subscriptions.dialog.select.label.value               "Select calendars to subscribe to:">
-<!ENTITY calendar.subscriptions.dialog.subscribe.button.label           "Subscribe">
-<!ENTITY calendar.subscriptions.dialog.unsubscribe.button.label         "Unsubscribe">
-<!ENTITY calendar.subscriptions.dialog.statusmessage.busy.label         "Search…">
-<!ENTITY calendar.subscriptions.dialog.statusmessage.nomatches.label    "No matches found.">
+<!ENTITY calendar.subscriptions.dialog.title                            "Pretplate na kalendare">
+<!ENTITY calendar.subscriptions.dialog.search.label.value               "Prikaži kalendare koji sadrže:">
+<!ENTITY calendar.subscriptions.dialog.search.button.label              "Traži">
+<!ENTITY calendar.subscriptions.dialog.select.label.value               "Odaberite kalendare na koje se želite pretplatiti:">
+<!ENTITY calendar.subscriptions.dialog.subscribe.button.label           "Pretplati">
+<!ENTITY calendar.subscriptions.dialog.unsubscribe.button.label         "Ukini pretplatu">
+<!ENTITY calendar.subscriptions.dialog.statusmessage.busy.label         "Traži…">
+<!ENTITY calendar.subscriptions.dialog.statusmessage.nomatches.label    "Nema podudaranja.">

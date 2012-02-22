@@ -42,144 +42,144 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY calendar.open.file.label                          "Open Calendar File…">
+<!ENTITY calendar.open.file.label                          "Otvori kalendarsku datoteku…">
 <!ENTITY calendar.open.file.key                            "O">
 <!ENTITY calendar.open.file.accesskey                      "O">
 
-<!ENTITY event.edit.event                                  "Edit Selection…">
+<!ENTITY event.edit.event                                  "Uredi odabir…">
 <!ENTITY event.edit.event.key                              "E">
-<!ENTITY event.edit.event.accesskey                        "E">
+<!ENTITY event.edit.event.accesskey                        "e">
 
-<!ENTITY event.delete.event                                "Delete Selected Events">
-<!ENTITY event.delete.event.accesskey                      "D">
+<!ENTITY event.delete.event                                "Obriši odabrane događaje">
+<!ENTITY event.delete.event.accesskey                      "d">
 
-<!ENTITY event.delete.tasks                                "Delete Selected Tasks">
-<!ENTITY event.delete.tasks.accesskey                      "T">
+<!ENTITY event.delete.tasks                                "Obriši odabrane zadatke">
+<!ENTITY event.delete.tasks.accesskey                      "t">
 
-<!ENTITY calendar.pagesetup.label                          "Page Setup…">
-<!ENTITY calendar.pagesetup.accesskey                      "u">
+<!ENTITY calendar.pagesetup.label                          "Postavke stranice…">
+<!ENTITY calendar.pagesetup.accesskey                      "P">
 
-<!ENTITY calendar.subscribe.label                          "Subscribe to Remote Calendar…">
-<!ENTITY calendar.subscribe.accesskey                      "R">
+<!ENTITY calendar.subscribe.label                          "Pretplati se na udaljeni kalendar…">
+<!ENTITY calendar.subscribe.accesskey                      "r">
 
-<!ENTITY calendar.synccalendars.label                      "Synchronize Calendars">
+<!ENTITY calendar.synccalendars.label                      "Sinkroniziraj kalendare">
 <!ENTITY calendar.synccalendars.key                        "R">
 <!ENTITY calendar.synccalendars.accesskey                  "S">
 
-<!ENTITY calendar.publish.calendar.label                   "Publish Calendar…">
+<!ENTITY calendar.publish.calendar.label                   "Objavi kalendar…">
 <!ENTITY calendar.publish.calendar.accesskey               "b">
-<!ENTITY calendar.publish.selection.label                  "Publish Selection…">
-<!ENTITY calendar.publish.selection.accesskey              "c">
+<!ENTITY calendar.publish.selection.label                  "Objavi odabrano…">
+<!ENTITY calendar.publish.selection.accesskey              "j">
 
-<!ENTITY calendar.quit.label                               "Quit">
-<!ENTITY calendar.quit.accesskey                           "Q">
+<!ENTITY calendar.quit.label                               "Zatvori">
+<!ENTITY calendar.quit.accesskey                           "Z">
 <!ENTITY calendar.quit.key                                 "Q">
-<!ENTITY calendar.quit.label.mac                           "Quit &brandShortName;">
+<!ENTITY calendar.quit.label.mac                           "Zatvori &brandShortName;">
 
-<!ENTITY calendar.exit.label                               "Exit">
-<!ENTITY calendar.exit.accesskey                           "x">
+<!ENTITY calendar.exit.label                               "Izlaz">
+<!ENTITY calendar.exit.accesskey                           "I">
 
-<!ENTITY calendar.undo.label                               "Undo">
+<!ENTITY calendar.undo.label                               "Vrati">
 <!ENTITY calendar.undo.key                                 "Z">
-<!ENTITY calendar.undo.accesskey                           "u">
+<!ENTITY calendar.undo.accesskey                           "V">
 
-<!ENTITY calendar.redo.label                               "Redo">
+<!ENTITY calendar.redo.label                               "Ponovi">
 <!ENTITY calendar.redo.key                                 "Y">
-<!ENTITY calendar.redo.accesskey                           "r">
+<!ENTITY calendar.redo.accesskey                           "n">
 
-<!ENTITY calendar.cut.label                                "Cut">
+<!ENTITY calendar.cut.label                                "Izreži">
 <!ENTITY calendar.cut.key                                  "X">
-<!ENTITY calendar.cut.accesskey                            "t">
+<!ENTITY calendar.cut.accesskey                            "e">
 
-<!ENTITY calendar.copy.label                               "Copy">
+<!ENTITY calendar.copy.label                               "Kopiraj">
 <!ENTITY calendar.copy.key                                 "C">
-<!ENTITY calendar.copy.accesskey                           "C">
+<!ENTITY calendar.copy.accesskey                           "K">
 
-<!ENTITY calendar.paste.label                              "Paste">
+<!ENTITY calendar.paste.label                              "Zalijepi">
 <!ENTITY calendar.paste.key                                "V">
-<!ENTITY calendar.paste.accesskey                          "P">
+<!ENTITY calendar.paste.accesskey                          "l">
 
-<!ENTITY calendar.selectall.label                          "Select All">
+<!ENTITY calendar.selectall.label                          "Odaberi sve">
 <!ENTITY calendar.selectall.key                            "A">
-<!ENTITY calendar.selectall.accesskey                      "A">
+<!ENTITY calendar.selectall.accesskey                      "a">
 
-<!ENTITY toolbarsMenu.label                                "Toolbars">
-<!ENTITY toolbarsMenu.accesskey                            "T">
+<!ENTITY toolbarsMenu.label                                "Alatne trake">
+<!ENTITY toolbarsMenu.accesskey                            "t">
 
-<!ENTITY showStatusBarCmd.label                            "Status Bar">
-<!ENTITY showStatusBarCmd.accesskey                        "B">
+<!ENTITY showStatusBarCmd.label                            "Traka stanja">
+<!ENTITY showStatusBarCmd.accesskey                        "n">
 
-<!ENTITY showTaskBoxCmd.label                              "Task List">
-<!ENTITY showTaskBoxCmd.accesskey                          "L">
+<!ENTITY showTaskBoxCmd.label                              "Popis zadataka">
+<!ENTITY showTaskBoxCmd.accesskey                          "d">
 
-<!ENTITY calendar.fullscreen.label                         "Full Screen">
-<!ENTITY calendar.fullscreen.accesskey                     "F">
+<!ENTITY calendar.fullscreen.label                         "Potpuni ekran">
+<!ENTITY calendar.fullscreen.accesskey                     "o">
 
-<!ENTITY calendar.addons.label                             "Add-ons">
-<!ENTITY calendar.addons.accesskey                         "d">
+<!ENTITY calendar.addons.label                             "Dodaci">
+<!ENTITY calendar.addons.accesskey                         "D">
 
-<!ENTITY goMenu.label                                      "Go">
-<!ENTITY goMenu.accesskey                                  "G">
+<!ENTITY goMenu.label                                      "Idi">
+<!ENTITY goMenu.accesskey                                  "I">
 
-<!ENTITY goDateCmd.label                                   "Date…">
+<!ENTITY goDateCmd.label                                   "Datum…">
 <!ENTITY goDateCmd.accesskey                               "D">
 
-<!ENTITY toolsMenu.label                                   "Tools">
-<!ENTITY toolsMenu.accesskey                               "T">
+<!ENTITY toolsMenu.label                                   "Alati">
+<!ENTITY toolsMenu.accesskey                               "t">
 
-<!ENTITY errorConsoleCmd.label                             "Error Console">
-<!ENTITY errorConsoleCmd.accesskey                         "C">
+<!ENTITY errorConsoleCmd.label                             "Konzola grešaka">
+<!ENTITY errorConsoleCmd.accesskey                         "e">
 
-<!ENTITY helpMenu.label                                    "Help">
-<!ENTITY helpMenu.accesskey                                "H">
+<!ENTITY helpMenu.label                                    "Pomoć">
+<!ENTITY helpMenu.accesskey                                "P">
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
            for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label                                 "Help">
-<!ENTITY helpMenuWin.accesskey                             "H">
+<!ENTITY helpMenuWin.label                                 "Pomoć">
+<!ENTITY helpMenuWin.accesskey                             "P">
 
-<!ENTITY fileMenu.label                                    "File">
-<!ENTITY fileMenu.accesskey                                "F">
+<!ENTITY fileMenu.label                                    "Datoteka">
+<!ENTITY fileMenu.accesskey                                "D">
 
-<!ENTITY editMenu.label                                    "Edit">
-<!ENTITY editMenu.accesskey                                "E">
+<!ENTITY editMenu.label                                    "Uredi">
+<!ENTITY editMenu.accesskey                                "e">
 
-<!ENTITY optionsCmd.label                                  "Options…">
-<!ENTITY optionsCmd.accesskey                              "O">
+<!ENTITY optionsCmd.label                                  "Mogućnosti…">
+<!ENTITY optionsCmd.accesskey                              "o">
 
-<!ENTITY preferencesCmd.label                              "Preferences">
-<!ENTITY preferencesCmd.accesskey                          "n">
-<!ENTITY preferencesCmdMac.label                           "Preferences…">
+<!ENTITY preferencesCmd.label                              "Postavke">
+<!ENTITY preferencesCmd.accesskey                          "s">
+<!ENTITY preferencesCmdMac.label                           "Postavke…">
 <!ENTITY preferencesCmdMac.commandkey                      ",">
 <!ENTITY preferencesCmdMac.modifiers                       "accel">
 
-<!ENTITY viewMenu.label                                    "View">
-<!ENTITY viewMenu.accesskey                                "V">
+<!ENTITY viewMenu.label                                    "Pogled">
+<!ENTITY viewMenu.accesskey                                "P">
 
-<!ENTITY releaseCmd.label                                  "Release Notes">
-<!ENTITY releaseCmd.accesskey                              "R">
+<!ENTITY releaseCmd.label                                  "Bilješke o izdanju">
+<!ENTITY releaseCmd.accesskey                              "B">
 
-<!ENTITY aboutCmd.label                                    "About &brandFullName;">
-<!ENTITY aboutCmd.accesskey                                "A">
+<!ENTITY aboutCmd.label                                    "O &brandFullName;u">
+<!ENTITY aboutCmd.accesskey                                "O">
 
-<!ENTITY updateCmd.label                                   "Check for Updates…">
+<!ENTITY updateCmd.label                                   "Provjeri dostupnost dopuna…">
 <!ENTITY updateCmd.accesskey                               "o">
 
-<!ENTITY sunbird.export.calendar.label                     "Export Calendar…">
-<!ENTITY sunbird.export.calendar.accesskey                 "E">
+<!ENTITY sunbird.export.calendar.label                     "Izvezi kalendar…">
+<!ENTITY sunbird.export.calendar.accesskey                 "e">
 
 <!-- Mac OS X "Window" menu items -->
-<!ENTITY windowMenu.label                                  "Window">
-<!ENTITY minimizeWindow.label                              "Minimize">
-<!ENTITY zoomWindow.label                                  "Zoom">
+<!ENTITY windowMenu.label                                  "Prozor">
+<!ENTITY minimizeWindow.label                              "Minimiziraj">
+<!ENTITY zoomWindow.label                                  "Uvećanje">
 <!ENTITY minimizeWindow.key                                "M">
-<!ENTITY bringAllToFront.label                             "Bring All to Front">
+<!ENTITY bringAllToFront.label                             "Postavi sve na vrh">
 
 <!-- Mac OS X Application menu items -->
-<!ENTITY servicesMenuMac.label                             "Services">
-<!ENTITY hideThisAppCmdMac.label                           "Hide &brandShortName;">
+<!ENTITY servicesMenuMac.label                             "Usluge">
+<!ENTITY hideThisAppCmdMac.label                           "Sakrij &brandShortName;">
 <!ENTITY hideThisAppCmdMac.commandkey                      "H">
 <!ENTITY hideThisAppCmdMac.modifiers                       "accel">
-<!ENTITY hideOtherAppsCmdMac.label                         "Hide Others">
+<!ENTITY hideOtherAppsCmdMac.label                         "Sakrij druge">
 <!ENTITY hideOtherAppsCmdMac.commandkey                    "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers                     "accel,alt">
-<!ENTITY showAllAppsCmdMac.label                           "Show All">
+<!ENTITY showAllAppsCmdMac.label                           "Prikaži sve">
