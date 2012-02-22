@@ -74,6 +74,30 @@
 <!ENTITY lightning.menu.eventtask.label                "Događaji i zadaci">
 <!ENTITY lightning.menu.eventtask.accesskey            "g">
 
+<!-- Mode Toolbar -->
+<!ENTITY lightning.toolbar.mail.label         "Pošta">
+<!ENTITY lightning.toolbar.mail.accesskey     "P">
+<!ENTITY lightning.toolbar.calendar.label     "Kalendar">
+<!ENTITY lightning.toolbar.calendar.tooltip   "Prebaci na karticu kalendara">
+<!ENTITY lightning.toolbar.calendar.accesskey "k">
+<!ENTITY lightning.toolbar.task.label         "Zadaci">
+<!ENTITY lightning.toolbar.task.tooltip       "Prebaci na karticu zadataka">
+<!ENTITY lightning.toolbar.task.accesskey     "t">
+
+<!-- Toolbar write button -->
+<!ENTITY lightning.toolbar.newevent.label     "Događaj">
+<!ENTITY lightning.toolbar.newtask.label      "Zadatak">
+
+<!-- Calendar and Task Mode Toolbar -->
+<!ENTITY lightning.toolbar.day.label                 "Dan">
+<!ENTITY lightning.toolbar.day.accesskey             "D">
+<!ENTITY lightning.toolbar.week.label                "Tjedan">
+<!ENTITY lightning.toolbar.week.accesskey            "T">
+<!ENTITY lightning.toolbar.multiweek.label           "Više tjedana">
+<!ENTITY lightning.toolbar.multiweek.accesskey       "V">
+<!ENTITY lightning.toolbar.month.label               "Mjesec">
+<!ENTITY lightning.toolbar.month.accesskey           "M">
+
 <!-- properties dialog, calendar creation wizard -->
 <!ENTITY lightning.calendarproperties.showevents.inagenda.label "Prikaži događaje u oknu današnjih događaja">
 <!ENTITY lightning.calendarproperties.showtasks.label           "Prikaži zadatke u oknu današnjih događaja i načinu zadataka">

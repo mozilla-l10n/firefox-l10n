@@ -360,6 +360,8 @@
 <!ENTITY event.freebusy.next.slot               "Sljedeći termin " >
 <!ENTITY event.freebusy.previous.slot           " Prethodni termin" >
 <!ENTITY event.freebusy.zoom                    "Uvećaj:">
+<!ENTITY event.freebusy.plus                    "Sljedeći sat" >
+<!ENTITY event.freebusy.minus                   "Prethodni sat" >
 <!ENTITY event.freebusy.legend.free             "Slobodno" >
 <!ENTITY event.freebusy.legend.busy             "Zauzeto" >
 <!ENTITY event.freebusy.legend.busy_tentative   "Privremeno" >
