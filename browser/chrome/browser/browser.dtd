@@ -194,7 +194,7 @@ can reach it easily. -->
 <!ENTITY inspectMenu.accesskey                   "I">
 <!ENTITY inspectMenu.commandkey                  "I">
 
-<!ENTITY inspectContextMenu.label                "Inspkteeri elementi">
+<!ENTITY inspectContextMenu.label                "Inspekteeri elementi">
 <!ENTITY inspectContextMenu.accesskey            "n">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
