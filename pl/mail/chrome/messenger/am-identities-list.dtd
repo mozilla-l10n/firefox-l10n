@@ -5,3 +5,5 @@
 <!ENTITY identitiesListEdit.accesskey   "E">
 <!ENTITY identitiesListDelete.label     "Usuń">
 <!ENTITY identitiesListDelete.accesskey "U">
+<!ENTITY identitiesListClose.label "Zamknij">
+<!ENTITY identitiesListClose.accesskey "Z">
