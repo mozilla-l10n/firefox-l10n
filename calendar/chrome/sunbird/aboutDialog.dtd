@@ -36,19 +36,19 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY aboutDialog.title      "About &brandFullName;">
-<!ENTITY copyright.label        "Credits">
-<!ENTITY copyright.accesskey    "C">
-<!ENTITY aboutLink.label        "&lt; About &brandFullName;">
-<!ENTITY aboutLink.accesskey    "A">
-<!ENTITY aboutVersion           "version">
-<!ENTITY copyrightText          "&#169;1998-2010 Contributors. All rights
-                                 reserved. Mozilla Sunbird, Sunbird, and the
-                                 Sunbird logos are trademarks of the Mozilla
-                                 Foundation. All rights reserved.">
+<!ENTITY aboutDialog.title      "O &brandFullName;u">
+<!ENTITY copyright.label        "Zasluge">
+<!ENTITY copyright.accesskey    "Z">
+<!ENTITY aboutLink.label        "&lt; O &brandFullName;u">
+<!ENTITY aboutLink.accesskey    "O">
+<!ENTITY aboutVersion           "inačica">
+<!ENTITY copyrightText          "&#169;1998-2010 Doprinositelji. Sva prava
+                                 zadržana. Mozilla Sunbird, Sunbird i Sunbird
+                                 logotipovi su zaštićeni znaci Mozilla
+                                 fundacije. Sva prava zadržana.">
 
-<!ENTITY brandMotto       "it's about time">
-<!ENTITY credit.thanks    "Special Thanks To">
+<!ENTITY brandMotto       "vrijeme je">
+<!ENTITY credit.thanks    "Posebna zahvala ide">
 
 <!-- localization credits look like this: -->
 <!--
@@ -58,5 +58,5 @@
 <!ENTITY credit.translation "">
 
 <!ENTITY credit.powered     "Powered by">
-<!ENTITY license.and        "and">
+<!ENTITY license.and        "i">
 <!ENTITY cmdClose.macKey  "W">

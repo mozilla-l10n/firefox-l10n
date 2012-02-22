@@ -33,21 +33,21 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY wizard.title             "Create New Calendar" >
-<!ENTITY wizard.label             "Create a new calendar" >
-<!ENTITY wizard.description       "Locate your calendar" >
+<!ENTITY wizard.title             "Stvori novi kalendar" >
+<!ENTITY wizard.label             "Stvori novi kalendar" >
+<!ENTITY wizard.description       "Pronađite svoj kalendar" >
 
-<!ENTITY initialpage.description    "Your calendar can be stored on your computer or be stored on a server in order to access it remotely or share it with your friends or co-workers." >
-<!ENTITY initialpage.computer.label  "On My Computer">
-<!ENTITY initialpage.network.label  "On the Network">
+<!ENTITY initialpage.description    "Kalendar može biti spremljen na vašem računalu ili na poslužitelju kako biste mu mogli pristupiti od bilo kuda ili ga dijeliti sa svojim prijateljima ili suradnicima." >
+<!ENTITY initialpage.computer.label  "Na mom računalu">
+<!ENTITY initialpage.network.label  "Na mreži">
 
-<!ENTITY locationpage.description         "Provide info about what is needed to access your remote calendar" >
-<!ENTITY locationpage.login.description   "Optional: enter an username and password" >
-<!ENTITY locationpage.username.label      "Username:" >
-<!ENTITY locationpage.password.label      "Password:" >
+<!ENTITY locationpage.description         "Navedite potrebne informacije za pristup vašem udaljenom kalendaru" >
+<!ENTITY locationpage.login.description   "Neobavezno: upišite korisničko ime i lozinku" >
+<!ENTITY locationpage.username.label      "Korisničko ime:" >
+<!ENTITY locationpage.password.label      "Lozinka:" >
 
-<!ENTITY custompage.shortdescription  "Customize your calendar" >
-<!ENTITY custompage.longdescription   "You can give your calendar a nickname and colorize the events from this calendar." >
+<!ENTITY custompage.shortdescription  "Prilagodite svoj kalendar" >
+<!ENTITY custompage.longdescription   "Svojem kalendaru možete dati nadimak i obojati događaje ovog kalendara." >
 
-<!ENTITY finishpage.shortdescription  "Calendar Created" >
-<!ENTITY finishpage.longdescription   "Your calendar has been created." >
+<!ENTITY finishpage.shortdescription  "Kalendar stvoren" >
+<!ENTITY finishpage.longdescription   "Vaš kalendar je stvoren." >

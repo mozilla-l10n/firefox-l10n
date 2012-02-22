@@ -49,62 +49,38 @@
 <!ENTITY lightning.taskLabel "Lightning">
 
 <!-- New menu popup in File menu -->
-<!ENTITY lightning.menupopup.new.event.label    "Event…">
-<!ENTITY lightning.menupopup.new.event.accesskey "E">
-<!ENTITY lightning.menupopup.new.task.label     "Task…">
-<!ENTITY lightning.menupopup.new.task.accesskey "T">
-<!ENTITY lightning.menupopup.new.calendar.label "Calendar…">
+<!ENTITY lightning.menupopup.new.event.label    "Događaj…">
+<!ENTITY lightning.menupopup.new.event.accesskey "D">
+<!ENTITY lightning.menupopup.new.task.label     "Zadatak…">
+<!ENTITY lightning.menupopup.new.task.accesskey "t">
+<!ENTITY lightning.menupopup.new.calendar.label "Kalendar…">
 <!ENTITY lightning.menupopup.new.calendar.accesskey "n">
 
 <!-- Open menu popup in File menu -->
-<!ENTITY lightning.menupopup.open.label               "Open">
+<!ENTITY lightning.menupopup.open.label               "Otvori">
 <!ENTITY lightning.menupopup.open.accesskey           "O">
-<!ENTITY lightning.menupopup.open.message.label       "Saved Message…">
-<!ENTITY lightning.menupopup.open.message.accesskey   "M">
-<!ENTITY lightning.menupopup.open.calendar.label      "Calendar File…">
-<!ENTITY lightning.menupopup.open.calendar.accesskey  "C">
+<!ENTITY lightning.menupopup.open.message.label       "Spremljena poruka…">
+<!ENTITY lightning.menupopup.open.message.accesskey   "m">
+<!ENTITY lightning.menupopup.open.calendar.label      "Datoteka kalendara…">
+<!ENTITY lightning.menupopup.open.calendar.accesskey  "k">
 
 <!-- View Menu -->
-<!ENTITY lightning.menu.view.calendar.label            "Calendar">
-<!ENTITY lightning.menu.view.calendar.accesskey        "n">
-<!ENTITY lightning.menu.view.tasks.label               "Tasks">
-<!ENTITY lightning.menu.view.tasks.accesskey           "k">
+<!ENTITY lightning.menu.view.calendar.label            "Kalendar">
+<!ENTITY lightning.menu.view.calendar.accesskey        "K">
+<!ENTITY lightning.menu.view.tasks.label               "Zadaci">
+<!ENTITY lightning.menu.view.tasks.accesskey           "Z">
 
 <!-- Events and Tasks menu -->
-<!ENTITY lightning.menu.eventtask.label                "Events and Tasks">
-<!ENTITY lightning.menu.eventtask.accesskey            "n">
-
-<!-- Mode Toolbar -->
-<!ENTITY lightning.toolbar.mail.label         "Mail">
-<!ENTITY lightning.toolbar.mail.accesskey     "M">
-<!ENTITY lightning.toolbar.calendar.label     "Calendar">
-<!ENTITY lightning.toolbar.calendar.tooltip   "Switch to the calendar tab">
-<!ENTITY lightning.toolbar.calendar.accesskey "C">
-<!ENTITY lightning.toolbar.task.label         "Tasks">
-<!ENTITY lightning.toolbar.task.tooltip       "Switch to the tasks tab">
-<!ENTITY lightning.toolbar.task.accesskey     "T">
-
-<!-- Toolbar write button -->
-<!ENTITY lightning.toolbar.newevent.label     "Event">
-<!ENTITY lightning.toolbar.newtask.label      "Task">
-
-<!-- Messenger Toolbar -->
-<!ENTITY lightning.toolbar.day.label                 "Day">
-<!ENTITY lightning.toolbar.day.accesskey             "D">
-<!ENTITY lightning.toolbar.week.label                "Week">
-<!ENTITY lightning.toolbar.week.accesskey            "W">
-<!ENTITY lightning.toolbar.multiweek.label           "Multiweek">
-<!ENTITY lightning.toolbar.multiweek.accesskey       "u">
-<!ENTITY lightning.toolbar.month.label               "Month">
-<!ENTITY lightning.toolbar.month.accesskey           "M">
+<!ENTITY lightning.menu.eventtask.label                "Događaji i zadaci">
+<!ENTITY lightning.menu.eventtask.accesskey            "g">
 
 <!-- properties dialog, calendar creation wizard -->
-<!ENTITY lightning.calendarproperties.showevents.inagenda.label "Show Events in Today Pane">
-<!ENTITY lightning.calendarproperties.showtasks.label           "Show Tasks in Today Pane and Task Mode">
-<!ENTITY lightning.calendarproperties.email.label               "E-Mail:">
+<!ENTITY lightning.calendarproperties.showevents.inagenda.label "Prikaži događaje u oknu današnjih događaja">
+<!ENTITY lightning.calendarproperties.showtasks.label           "Prikaži zadatke u oknu današnjih događaja i načinu zadataka">
+<!ENTITY lightning.calendarproperties.email.label               "E-pošta:">
 
 <!-- iMIP Bar (meeting support) -->
-<!ENTITY lightning.imipbar.description "This message contains an invitation to an event.">
+<!ENTITY lightning.imipbar.description "Ova poruka sadrži pozivnicu na događaj.">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
@@ -113,15 +89,15 @@
 <!ENTITY lightning.keys.todo.new "D">
 
 <!-- Account Central page -->
-<!ENTITY lightning.acctCentral.newCalendar.label "Create a new calendar">
+<!ENTITY lightning.acctCentral.newCalendar.label "Napravi novi kalendar">
 
 <!-- today-pane-specific -->
-<!ENTITY todaypane.showMinimonth.label "Show Mini-Month">
+<!ENTITY todaypane.showMinimonth.label "Prikaži Mini-mjesec">
 <!ENTITY todaypane.showMinimonth.accesskey "M">
-<!ENTITY todaypane.showMiniday.label "Show Mini-Day">
+<!ENTITY todaypane.showMiniday.label "Prikaži Mini-dan">
 <!ENTITY todaypane.showMiniday.accesskey  "d">
-<!ENTITY todaypane.showNone.label "Show None">
+<!ENTITY todaypane.showNone.label "Ne prikazuj ništa">
 <!ENTITY todaypane.showNone.accesskey "N">
-<!ENTITY todaypane.showTodayPane.label "Show Today Pane">
+<!ENTITY todaypane.showTodayPane.label "Prikaži okno današnjih događaja">
 <!ENTITY todaypane.showTodayPane.accesskey "o">
-<!ENTITY todaypane.statusButton.label "Today Pane">
+<!ENTITY todaypane.statusButton.label "Današnji događaji">
