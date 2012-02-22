@@ -3,6 +3,10 @@
 <!ENTITY  checking.title                  "Жаңарту бар-жоғын тексеру жүруде...">
 <!ENTITY  updateCheck.label               "&brandShortName; жаңа нұсқалары ізделуде…">
 
+<!ENTITY  pluginupdatesfound.title        "Плагиндер үшін жаңартулар табылды">
+<!ENTITY  pluginupdatesfound.label        "Сіздегі бір не бірнеше плагиндер үшін жаңарту табылды.">
+<!ENTITY  pluginupdateslink.label         "Кеңейтулерді жаңарту туралы біліңіз.">
+
 <!ENTITY  noupdatesfound.title            "Жаңартулар жоқ">
 <!ENTITY  noupdatesautoenabled.intro      "Ешбір жаңарту жоқ. &brandShortName; жаңартуларды белгілі уақыт өткен сайын тексеріп тұрады.">
 <!ENTITY  noupdatesautodisabled.intro     "Ешбір жаңартулар жоқ. Кейінірек тексеріп көріңіз не &brandShortName; автоматты жаңартуларды тексеру мүмкіндігін қосыңыз.">
@@ -12,6 +16,8 @@
                                            жүйеде бағдарламаларды орнату құқығы жоқ. Жүйелік администраторыңызбен
                                            хабарласыңыз, немесе бұл компьютерде бағдарламаларды орнату құқығы бар
                                            пайдаланушы атынан қайталап көріңіз.">
+<!ENTITY  manualUpdate.space.desc         "Ұсынылатын қауіпсіздік пен тұрақтылық жаңартуы қолжетерлік, бірақ оны орнату
+                                           үшін сізде орын жеткіліксіз.">
 <!ENTITY  manualUpdateGetMsg.label        "Сіз әрқашан да &brandShortName; соңғы нұсқасын осы жерден ала аласыз:">
 
 <!ENTITY  incompatibleCheck.title         "Қосымшалардың үйлесімділігін тексеру">
@@ -19,9 +25,6 @@
 
 <!ENTITY  clickHere.label                 "Бұл жаңарту жөнінде көбірек білу">
 
-<!ENTITY  manualUpdate.space.desc         "Ұсынылатын қауіпсіздік пен тұрақтылық жаңартуы қолжетерлік, бірақ оны орнату
-                                           үшін сізде орын жеткіліксіз.">
-                                           
 <!ENTITY  evangelism.desc                 "&brandShortName; үшін осы жаңартуды сізге неғұрлым тезірек 
                                            орнату міндетті түрде ұсынылады.">
 
@@ -56,7 +59,7 @@
                                            
 <!ENTITY  errorManual.label               "Сіз &brandShortName; келесі сілтемеден өтіп, соңғы нұсқасын жүктеу
                                            арқылы қолмен жаңарта аласыз:">
-
+                                           
 <!ENTITY  errorpatching.intro             "Жартылай жаңартуды іске асыру мүмкін емес. 
                                            &brandShortName; қазір толық жаңартуды жүктеп алады.">
 
@@ -83,6 +86,3 @@
 <!ENTITY  update.details.label            "Көбірек білу">
 <!ENTITY  update.installedOn.label        "Орнатылған:">
 <!ENTITY  update.status.label             "Күйі:">
-<!ENTITY  pluginupdatesfound.title        "Плагиндер үшін жаңартулар табылды">
-<!ENTITY  pluginupdatesfound.label        "Сіздегі бір не бірнеше плагиндер үшін жаңарту табылды.">
-<!ENTITY  pluginupdateslink.label         "Кеңейтулерді жаңарту туралы біліңіз.">

@@ -24,6 +24,9 @@
 <!ENTITY netInterrupt.title "Байланыс үзілген">
 <!ENTITY netInterrupt.longDesc "<p>Браузер байланысты сәтті орнатқан, бірақ ол байланыс ақпаратты беру кезінде үзілген. Қайталап көріңіз.</p><ul><li>Басқа да сайттарды аша-алмасаңыз, компьютеріңіздің желіге қосылу баптауларын тексеріңіз.</li><li>Егер де басқа мәселелер пайда болса, желі администраторыңызбен немесе Интернет-провайдеріңізбен хабарласыңыз.</li></ul>">
 
+<!ENTITY notCached.title "Құжат ескірген">
+<!ENTITY notCached.longDesc "<p>Сұралған құжат браузер кэшінде жоқ.</p><ul><li>Қауіпсіздік мақсатында, браузер сезімтал құжаттарды автоматты түрде қайта сұрамайды..</li><li>Құжатты веб сайтынан қайта алу үшін Қайтадан көруді шертіңіз.</li></ul>">
+
 <!ENTITY netOffline.title "Дербес жұмыс істеу">
 <!ENTITY netOffline.longDesc2 "<p>Браузер қазір дербес жұмыс істеу режимінде, сол үшін сұранған нәрсеге байланыс орната алмайды.</p><ul><li>Бұл компьютер белсенді желіге қосулы тұр ма?</li><li>Онлайн режиміне ауысып, парақты жаңарту үшін, &quot;Қайта көру&quot; басыңыз.</li></ul>">
 
@@ -81,14 +84,15 @@
 <!ENTITY cspFrameAncestorBlocked.title "Құрамасының қауіпсіздік саясатымен блокталған">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Браузер бұл парақтың осы жолмен жүктелуге жол бермеген, өйткені онда осыны рұқсат етпейтін қауіпсіздік саясаты бар.</p>">
 
-<!ENTITY remoteXUL.title "Қашықтағы XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Бұл мәселе жөнінде веб сайт иесімен хабарласыңыз.</li></ul></p>">
-
 <!ENTITY corruptedContentError.title "Зақымдалған құрама қатесі">
 <!ENTITY corruptedContentError.longDesc "<p>Сіз қараймын деген парақ көрсетілмейді, өйткені мәліметтер тасымалданған кезде қате анықталды.</p><ul><li>Веб сайт иелеріне осы мәселе жөнінде хабарлаңыз.</li></ul>">
 
+<!ENTITY remoteXUL.title "Қашықтағы XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Бұл мәселе жөнінде веб сайт иесімен хабарласыңыз.</li></ul></p>">
+
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
-     this inclusion needs to be intact for that approach to work correctly. -->
+     this inclusion needs to be intact for that approach to work correctly.
+     Please, try to keep this at the end of the file. -->
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;

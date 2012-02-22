@@ -12,7 +12,7 @@
 <!ENTITY block.label                  "Қамалау">
 <!ENTITY block.accesskey              "м">
 <!ENTITY session.label                "Тек осы сессияға рұқсат беру">
-<!ENTITY session.accesskey            "т">
+<!ENTITY session.accesskey            "Т">
 <!ENTITY allow.label                  "Рұқсат беру">
 <!ENTITY allow.accesskey              "б">
 <!ENTITY windowClose.key              "w">

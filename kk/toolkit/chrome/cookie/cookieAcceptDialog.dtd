@@ -4,7 +4,6 @@
 <!ENTITY     props.path.label               "Жолы:">
 <!ENTITY     props.secure.label             "Келесі жағдайларда жіберу:">
 <!ENTITY     props.expires.label            "Мерзімі аяқталады:">
-<!ENTITY     props.policy.label             "Ережелері:"> 
 
 <!ENTITY     button.allow.label             "Рұқсат ету">
 <!ENTITY     button.allow.accesskey         "Р">
