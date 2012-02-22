@@ -71,6 +71,8 @@
 <!ENTITY editRewrapCmd.label "Ombryd igen">
 <!ENTITY editRewrapCmd.key "O">
 <!ENTITY editRewrapCmd.accesskey "m">
+<!ENTITY renameAttachmentCmd.label "Omdøb vedhæftet fil…">
+<!ENTITY renameAttachmentCmd.accesskey "d">
 <!ENTITY deleteCmd.label "Slet">
 <!ENTITY deleteCmd.accesskey "S">
 <!ENTITY selectAllCmd.label "Marker alt">
@@ -115,7 +117,7 @@
 <!ENTITY optionsMenu.label "Valgmuligheder">
 <!ENTITY optionsMenu.accesskey "g">
 <!ENTITY checkSpellingCmd2.label "Stavekontrol…">
-<!ENTITY checkSpellingCmd2.key "K">
+<!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY checkSpellingCmd2.key2 "VK_F7">
 <!ENTITY checkSpellingCmd2.accesskey "S">
 <!ENTITY enableInlineSpellChecker.label "Løbende stavekontrol">
