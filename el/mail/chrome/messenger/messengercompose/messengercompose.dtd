@@ -238,3 +238,5 @@
 <!ENTITY addressesSidebarTitle.label "Επαφές">
 <!ENTITY menubarCmd.label "Εργαλειοθήκη μενού">
 <!ENTITY menubarCmd.accesskey "μ">
+<!ENTITY renameAttachmentCmd.label "Μετονομασία συνημμένου…">
+<!ENTITY renameAttachmentCmd.accesskey "τ">

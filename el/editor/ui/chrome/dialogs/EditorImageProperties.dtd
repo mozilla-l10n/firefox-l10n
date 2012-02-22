@@ -67,8 +67,6 @@
 <!ENTITY imagemapBox.label "Χάρτης εικόνας">
 <!ENTITY removeImageMapButton.label "Αφαίρεση">
 <!ENTITY removeImageMapButton.accessKey "φ">
-<!ENTITY editImageMapButton.label "Επεξεργασία...">
-<!ENTITY editImageMapButton.tooltip "Δημιουργία ενεργών hotspots για αυτήν την εικόνα">
 <!ENTITY alignment.label "Στοίχιση κειμένου στην εικόνα">
 <!ENTITY bottomPopup.value "Από κάτω">
 <!ENTITY topPopup.value "Πρός τα πάνω">
