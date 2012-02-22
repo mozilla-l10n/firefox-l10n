@@ -32,7 +32,7 @@
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
 <!ENTITY haveSmtp1.prefix "Ο υπάρχων διακομιστής εξερχομένων σας (SMTP), &quot;">
-<!ENTITY haveSmtp1.suffix2 "&quot;,  θα χρησιμοποιηθεί. Μπορείτε να τροποποιήσετε τις ρυθμίσεις του διακομιστή εξερχομένων από τις ρυθμίσεις λογαριασμού.">
+
 <!ENTITY loginTitle.label "Ονόματα Χρήστη">
 <!ENTITY usernameDesc.label "Εισάγετε το όνομα χρήστη εξερχομένων που σας δόθηκε από τον πάροχο email">
 <!ENTITY usernameExample.label "(για παράδειγμα, &quot;ptuxidis&quot;).">
@@ -42,9 +42,8 @@
 <!ENTITY usernameSmtpLabel.label "Όνομα χρήστη εξερχομένων:">
 <!ENTITY usernameSmtpLabel.accesskey "ν">
 <!ENTITY haveSmtp2.prefix "Το όνομα χρήστη στο διακομιστή εξερχομένων (SMTP), &quot;">
-<!ENTITY haveSmtp2.suffix2 "Θα χρησιμοποιηθεί ο &quot;,  Μπορείτε να τροποποιήσετε τις ρυθμίσεις του διακομιστή εξερχομένων από τις ρυθμίσεις λογαριασμού">
 <!ENTITY haveSmtp3.prefix "Ο διακομιστής εξερχομένων σας (SMTP), &quot;">
-<!ENTITY haveSmtp3.suffix2 "Ο &quot;, είναι όμοιος με το διακομιστή εισερχομένων σας, το όνομα χρήστη εισερχομένων θα χρησιμοποιηθεί για την πρόσβαση σε αυτόν. Μπορείτε να τροποποιήσετε τις ρυθμίσεις του διακομιστή εξερχομένων από τις ρυθμίσεις λογαριασμού.">
+
 <!ENTITY accnameTitle.label "Όνομα Λογαριασμού">
 <!ENTITY accnameDesc.label "Εισάγετε το όνομα με το οποίο θα αναγνωρίζετε αυτόν το λογαριασμό (Για παράδειγμα, &quot;Λογαριασμός Εργασίας &quot;, &quot; Οικίας&quot; ή&quot;Ομάδων Συζήτησης">
 <!ENTITY portNum.label "Θύρα:">
@@ -52,6 +51,13 @@
 <!ENTITY defaultPortLabel.label "Προεπιλογή:">
 <!ENTITY defaultPortValue.label "">
 
+<!ENTITY haveSmtp1.suffix3 "&quot;,  θα χρησιμοποιηθεί.">
+<!ENTITY haveSmtp2.suffix3 "&quot;,  θα χρησιμοποιηθεί.">
+<!ENTITY haveSmtp3.suffix3 "Ο &quot;, είναι όμοιος με το διακομιστή εισερχομένων σας, το όνομα χρήστη εισερχομένων θα χρησιμοποιηθεί για την πρόσβαση σε αυτόν.">
+<!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
+     haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
+-->
+<!ENTITY modifyOutgoing.suffix " Μπορείτε να τροποποιήσετε τις ρυθμίσεις του διακομιστή εξερχομένων από τις ρυθμίσεις λογαριασμού..">
 
 <!ENTITY accnameLabel.label "Όνομα λογαριασμού:">
 <!ENTITY accnameLabel.accesskey "μ">

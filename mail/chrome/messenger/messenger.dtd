@@ -294,6 +294,7 @@
 <!ENTITY thisFolder.label "Αυτόν τον φάκελο">
 <!ENTITY thisFolder.accesskey "φ">
 <!ENTITY goRecentlyClosedTabs.label "Πρόσφατα κλεισμένες καρτέλες">
+<!ENTITY goRecentlyClosedTabs.accesskey "ι">
 <!ENTITY startPageCmd.label "Αρχική σελίδα αλληλογραφίας">
 <!ENTITY startPageCmd.accesskey "χ">
 <!ENTITY msgMenu.label "Μήνυμα">

@@ -128,8 +128,11 @@
 <!ENTITY copyLinkCmd.accesskey    "τ">
 
 <!ENTITY CopyMessageId.label "Αντιγραφή Message-ID">
+<!ENTITY CopyMessageId.accesskey "γ">
 <!ENTITY OpenMessageForMsgId.label "Άνοιγμα μηνύματος για ID">
+<!ENTITY OpenMessageForMsgId.accesskey "ο">
 <!ENTITY OpenBrowserWithMsgId.label "Άνοιγμα περιηγητή με Message-ID">
+<!ENTITY OpenBrowserWithMsgId.accesskey "π">
 
 <!ENTITY openAttachment.tooltip "Άνοιγμα του συνημμένου αρχείου">
 
