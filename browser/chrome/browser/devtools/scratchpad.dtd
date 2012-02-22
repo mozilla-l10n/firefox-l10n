@@ -60,6 +60,12 @@
 <!ENTITY contentContext.accesskey "ж">
 <!ENTITY browserContext.label "Браузер">
 <!ENTITY browserContext.accesskey "з">
+<!ENTITY helpMenu.label "Справка">
+<!ENTITY helpMenu.accesskey "в">
+<!ENTITY helpMenuWin.label "Справка">
+<!ENTITY helpMenuWin.accesskey "в">
+<!ENTITY documentationLink.label "Справка по редактору на MDN">
+<!ENTITY documentationLink.accesskey "D">
 <!ENTITY resetContext2.label "Сбросить переменные">
 <!ENTITY resetContext2.accesskey "м">
 <!ENTITY executeMenu.label "Выполнить">
