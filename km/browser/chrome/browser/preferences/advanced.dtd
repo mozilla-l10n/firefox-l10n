@@ -37,7 +37,7 @@
 <!ENTITY connection.label                "ការ​តភ្ជាប់">
 
 <!ENTITY connectionDesc.label            "កំណត់​រចនាសម្ព័ន្ធ​អំពី​វិធីដែល &brandShortName; តភ្ជាប់​ទៅ​កាន់​អ៊ីនធឺណិត">
-<!ENTITY connectionSettings.label        "កំពុង​កំណត់…">
+<!ENTITY connectionSettings.label        "ការ​កំណត់…">
 <!ENTITY connectionSettings.accesskey    "ណ">
 
 <!ENTITY httpCache.label                 "មាតិកា​បណ្ដាញ​ដែល​បាន​ដាក់​ក្នុង​ឃ្លាំង​សម្ងាត់">
