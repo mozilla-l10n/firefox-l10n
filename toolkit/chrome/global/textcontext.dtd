@@ -13,6 +13,8 @@
 
 <!ENTITY spellAddToDictionary.label "Сөздікке қосу">
 <!ENTITY spellAddToDictionary.accesskey "к">
+<!ENTITY spellUndoAddToDictionary.label "Сөздікке қосуды болдырмау">
+<!ENTITY spellUndoAddToDictionary.accesskey "б">
 <!ENTITY spellCheckEnable.label "Емлені тексеру">
 <!ENTITY spellCheckEnable.accesskey "Е">
 <!ENTITY spellNoSuggestions.label "(болжаулар табылмады)">

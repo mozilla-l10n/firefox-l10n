@@ -52,7 +52,6 @@
 <!ENTITY  font.langGroup.kannada                  "Каннада">
 <!ENTITY  font.langGroup.sinhala                  "Сингальдық">
 <!ENTITY  font.langGroup.tibetan                  "Тибет">
-
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Қаріптің мүмкін болатын ең аз өлшемі:">
 <!ENTITY minSize.accesskey                        "а">

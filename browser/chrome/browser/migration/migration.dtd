@@ -9,12 +9,12 @@
 <!ENTITY importFromIE.accesskey         "M">
 <!ENTITY importFromNothing.label        "Импорт керек емес">
 <!ENTITY importFromNothing.accesskey    "к">
-<!ENTITY importFromSeamonkey.label      "Netscape 6, 7 немесе Mozilla 1.x">
-<!ENTITY importFromSeamonkey.accesskey  "N">
-<!ENTITY importFromOpera.label          "Opera">
-<!ENTITY importFromOpera.accesskey      "O">
 <!ENTITY importFromSafari.label         "Safari">
 <!ENTITY importFromSafari.accesskey     "S">
+<!ENTITY importFromChrome.label         "Chrome">
+<!ENTITY importFromChrome.accesskey     "C">
+<!ENTITY importFromFirefox.label        "Firefox">
+<!ENTITY importFromFirefox.accesskey    "x">
 <!ENTITY importFromHTMLFile.label       "HTML файлдан">
 <!ENTITY importFromHTMLFile.accesskey   "ф">
 

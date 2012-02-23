@@ -38,12 +38,10 @@
 <!ENTITY netInterrupt.title "Байланыс үзілген">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!ENTITY notCached.title "Құжат ескірген">
+<!ENTITY notCached.longDesc "<p>Сұралған құжат &brandShortName; кэшінде жоқ.</p><ul><li>Қауіпсіздік мақсатында, &brandShortName; сезімтал құжаттарды автоматты түрде қайта сұрамайды.</li><li>Құжатты веб сайттан қайта сұрау үшін Қайтадан көру батырмасын шертіңіз.</li></ul>">
+
 <!ENTITY netOffline.title "Дербес жұмыс істеу режимі">
-<!-- LOCALIZATION NOTE (netOffline.longDesc2) - This string should
-     indicate that "Work Offline" is a menu item without being too specific,
-     since it could be in either the normal menu (Mac/Linux) or the Firefox button
-     menu (Windows).
--->
 <!ENTITY netOffline.longDesc2 "
 <ul>
   <li>Мәзірде &quot;Дербес жұмыс істеу&quot; жалаушасын алып тастап, қайталап көріңіз.</li>
@@ -138,6 +136,10 @@
 <!ENTITY cspFrameAncestorBlocked.title "Құрамасының қауіпсіздік саясатымен блокталған">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; бұл парақтың осы жолмен жүктелуге жол бермеген, өйткені онда осыны рұқсат етпейтін қауіпсіздік саясаты бар.</p>">
 
+<!ENTITY corruptedContentError.title "Зақымдалған құрама қатесі">
+<!ENTITY corruptedContentError.longDesc "<p>Сіз қараймын деген парақ көрсетілмейді, өйткені мәліметтер тасымалданған кезде қате анықталды.</p><ul><li>Веб сайт иелеріне осы мәселе жөнінде хабарлаңыз.</li></ul>">
+
+
 <!ENTITY securityOverride.linkText "Немесе ерекше ереже енгізуіңіз мүмкін…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Осыдан кеткім келеді!">
 <!ENTITY securityOverride.exceptionButtonLabel "Ерекше ереже қосу…">
@@ -154,6 +156,3 @@ functionality specific to firefox. -->
 
 <!ENTITY remoteXUL.title "Қашықтағы XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Бұл мәселе жөнінде веб сайт иесімен хабарласыңыз.</li></ul></p>">
-
-<!ENTITY corruptedContentError.title "Зақымдалған құрама қатесі">
-<!ENTITY corruptedContentError.longDesc "<p>Сіз қараймын деген парақ көрсетілмейді, өйткені мәліметтер тасымалданған кезде қате анықталды.</p><ul><li>Веб сайт иелеріне осы мәселе жөнінде хабарлаңыз.</li></ul>">
