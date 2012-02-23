@@ -150,10 +150,10 @@
 <!-- View Menu -->
 <!ENTITY showMessengerToolbarCmd.label		"Barra de herramientas de correo">
 <!ENTITY showMessengerToolbarCmd.accesskey	"o">
- 
-<!-- showSearchToolbarCmd is also used by addressbook -->
 <!ENTITY showSearchToolbarCmd.label		"Barra de búsquedas">
 <!ENTITY showSearchToolbarCmd.accesskey	"e">
+<!ENTITY showTabsToolbarCmd.label "Barra de pestañas">
+<!ENTITY showTabsToolbarCmd.accesskey "t">
 
 <!ENTITY messagePaneLayoutStyle.label "Disposición">
 <!ENTITY messagePaneLayoutStyle.accesskey "D">
