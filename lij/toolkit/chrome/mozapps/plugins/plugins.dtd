@@ -1,10 +1,10 @@
 <!ENTITY pluginWizard.title                                  "Servìçio de Riçercatô di Plugin">
 <!ENTITY pluginWizard.firstPage.title                        "Benvegnûo into &pluginWizard.title;">
 
-<!ENTITY pluginWizard.checkingForPlugins.description.label   "O &brandShortName; o contròlla se ghe son de plugin…">
+<!ENTITY pluginWizard.checkingForPlugins.description.label   "O &brandShortName; o contròlla se gh'é de plugin…">
 
 <!ENTITY pluginWizard.availablePluginsPage.title             "Descaregaménti di Plugin">
-<!ENTITY pluginWizard.availablePluginsPage.description.label "Ghe son sti plugin:">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "Gh'é sti plugin:">
 <!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Prémmi Pròscimo pe instalâ sti plugin.">
 <!ENTITY pluginWizard.availablePluginsPage.installerUI       "A quàrche plugin peu servî de informaçioìn in ciù inta instalaçión.">
 

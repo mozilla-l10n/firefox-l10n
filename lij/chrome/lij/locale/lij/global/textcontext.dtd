@@ -14,7 +14,7 @@
 <!ENTITY undoCmd.accesskey "A">
 <!ENTITY selectAllCmd.label "Seleçionn-a tùtto">
 <!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY deleteCmd.label "Scancella">
+<!ENTITY deleteCmd.label "Scancélla">
 <!ENTITY deleteCmd.accesskey "S">
 
 <!ENTITY spellAddToDictionary.label "Azónzi a-o Diçiónâio">

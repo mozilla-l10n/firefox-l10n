@@ -271,7 +271,7 @@ can reach it easily. -->
 <!ENTITY preferencesCmdUnix.label       "Preferense">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
-<!ENTITY clearRecentHistory.label               "Scancella a stöia ciù nêuva…">
+<!ENTITY clearRecentHistory.label               "Scancélla a stöia ciù nêuva…">
 <!ENTITY clearRecentHistory.accesskey           "S">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->

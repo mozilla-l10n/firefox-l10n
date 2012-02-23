@@ -10,7 +10,7 @@
 ">
 <!ENTITY listEmpty.availableUpdates.label     "Nisciùn agiornaménto trovòu">
 <!ENTITY listEmpty.recentUpdates.label        "Ùrtimamente ti no t'æ agiornòu nisciùn conponénte azónto">
-<!ENTITY listEmpty.findUpdates.label          "Çerca agiornaménti">
+<!ENTITY listEmpty.findUpdates.label          "Çèrca agiornaménti">
 <!ENTITY listEmpty.search.label               "No pòsso trovâ conponénti azónti">
 <!ENTITY listEmpty.button.label               "Ciù informaçioìn in sci conponénti azónti">
 <!ENTITY installAddonFromFile.label           "Instàlla i conponénti azónti da 'n file…">
@@ -40,7 +40,7 @@
 <!ENTITY view.availableUpdates.label          "Agiornaménti disponibili">
 
 <!-- addon updates -->
-<!ENTITY updates.checkForUpdates.label        "Çerca agiornaménti">
+<!ENTITY updates.checkForUpdates.label        "Çèrca agiornaménti">
 <!ENTITY updates.checkForUpdates.accesskey    "c">
 <!ENTITY updates.viewUpdates.label            "Fànni védde i ùrtimi agiornaménti">
 <!ENTITY updates.viewUpdates.accesskey        "v">
@@ -64,7 +64,7 @@
 <!ENTITY updates.downloaded.label             "I teu cònponenti azónti son stæti descaregæ.">
 <!ENTITY updates.restart.label                "Àrvi tórna òua pe finî l'instalaçión">
 <!ENTITY updates.noneFound.label              "Nisciùn agiórnamento trovòu">
-<!ENTITY updates.manualUpdatesFound.label     "Fànni védde i agiornamenti disponibili">
+<!ENTITY updates.manualUpdatesFound.label     "Fànni védde i agiornaménti disponibili">
 <!ENTITY updates.updateSelected.label         "Instàlla Agiornaménto">
 <!ENTITY updates.updateSelected.tooltip       "Instàlla i Agiornaménti da lìsta">
 
@@ -135,9 +135,9 @@
 <!ENTITY detail.repository                    "Profî do conponénte azónto">
 <!ENTITY detail.size                          "Dimensción">
 
-<!ENTITY detail.checkForUpdates.label         "Çerca agiornaménti">
+<!ENTITY detail.checkForUpdates.label         "Çèrca agiornaménti">
 <!ENTITY detail.checkForUpdates.accesskey     "a">
-<!ENTITY detail.checkForUpdates.tooltip       "Çerca agiornaménti pe sto conponénte azónto">
+<!ENTITY detail.checkForUpdates.tooltip       "Çèrca agiornaménti pe sto conponénte azónto">
 <!ENTITY detail.showPreferencesWin.label      "Inpostaçioìn">
 <!ENTITY detail.showPreferencesWin.accesskey  "o">
 <!ENTITY detail.showPreferencesWin.tooltip    "Càngia e preferénse de sto conponénte azónto">
@@ -206,5 +206,5 @@
 <!ENTITY eula.height                          "400px">
 <!ENTITY eula.accept                          "Acètta e instàlla…">
 
-<!ENTITY settings.path.button.label           "Çerca…">
+<!ENTITY settings.path.button.label           "Çèrca…">
 

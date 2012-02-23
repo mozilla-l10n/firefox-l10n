@@ -6,7 +6,7 @@
 <!-- LOCALIZATION NOTE (lookingAtLabel): This is the label for the path of
   -  the highlighted element in the web page. This path is based on the document
   -  tree. -->
-<!ENTITY lookingAtLabel        "Çerco:">
+<!ENTITY lookingAtLabel        "Çèrco:">
 
 <!-- LOCALIZATION NOTE (helpLinkTitle): For each style property
   -  the user can hover it and get a help link button which allows one to

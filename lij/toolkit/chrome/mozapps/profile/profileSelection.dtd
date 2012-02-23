@@ -45,7 +45,7 @@
 <!ENTITY            start.label            "Inìçia &brandShortName;">
 <!ENTITY            exit.label             "Sciòrti">
 
-<!ENTITY            availprofiles.label    "Profî che ghe son">
+<!ENTITY            availprofiles.label    "Profî che gh'é">
 
 <!ENTITY            newButton.label        "Crêa Profî…">
 <!ENTITY            newButton.accesskey    "C">

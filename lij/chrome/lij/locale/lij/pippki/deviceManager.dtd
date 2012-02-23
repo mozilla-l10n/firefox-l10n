@@ -75,7 +75,7 @@
 <!ENTITY loaddevice.modname.default             "Nêuvo mòdolo PKCS#11">
 <!ENTITY loaddevice.filename                    "Nómme file do mòdolo:">
 <!ENTITY loaddevice.filename.accesskey          "f">
-<!ENTITY loaddevice.browse                      "Çerca…">
+<!ENTITY loaddevice.browse                      "Çèrca…">
 <!ENTITY loaddevice.browse.accesskey            "e">
 
 <!ENTITY loaddevice.title                       "Carego PKCS#11 Device">

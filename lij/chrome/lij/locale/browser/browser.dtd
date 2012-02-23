@@ -269,7 +269,7 @@ can reach it easily. -->
 <!ENTITY pasteCmd.label           "Incòlla">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "I"> 
-<!ENTITY deleteCmd.label          "Scancella">  
+<!ENTITY deleteCmd.label          "Scancélla">  
 <!ENTITY deleteCmd.key            "D">  
 <!ENTITY deleteCmd.accesskey        "S"> 
 <!ENTITY selectAllCmd.label         "Seleçionn-a tùtto">  
@@ -280,7 +280,7 @@ can reach it easily. -->
 <!ENTITY preferencesCmdUnix.label       "Preferençe">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
-<!ENTITY clearRecentHistory.label               "Scancella a stöia ciù nêuva">
+<!ENTITY clearRecentHistory.label               "Scancélla a stöia ciù nêuva">
 <!ENTITY clearRecentHistory.accesskey           "S">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->

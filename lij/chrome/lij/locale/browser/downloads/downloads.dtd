@@ -47,7 +47,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.close.commandKey             "w">
 <!ENTITY cmd.close2.commandKey            "j">
 <!ENTITY cmd.close2Unix.commandKey        "y">
-<!ENTITY cmd.clearList.label              "Scancella Lìsta">
+<!ENTITY cmd.clearList.label              "Scancélla Lìsta">
 <!ENTITY cmd.clearList.tooltip            "Leva da mêzo tùtti i descaregamenti da lìsta ">
 <!ENTITY cmd.clearList.accesskey          "c">
 <!ENTITY cmd.find.commandKey              "f">
@@ -57,4 +57,4 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY closeWhenDone.tooltip            "Særa o barcón di descaregamenti quande son tùtti conpletæ">
 
 <!ENTITY showFolder.label                 "Fanni védde sta cartélla">
-<!ENTITY searchBox.label                  "Çerca…">
+<!ENTITY searchBox.label                  "Çèrca…">
