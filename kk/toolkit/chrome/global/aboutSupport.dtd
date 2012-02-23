@@ -18,11 +18,6 @@
 <!ENTITY aboutSupport.appBasicsVersion "Нұсқасы">
 
 <!ENTITY aboutSupport.appBasicsProfileDir "Профайл бумасы">
-<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
-This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
-Windows/Mac use the term "Folder" instead of "Directory" -->
-<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Профиль сақталатын бума">
-
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Іске қосулы плагиндер">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Жинау баптаулары">
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
@@ -43,9 +38,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsValue "Мәні">
 
 <!ENTITY aboutSupport.graphicsTitle "Графика">
-
-<!ENTITY aboutSupport.jsTitle "JavaScript">
-<!ENTITY aboutSupport.jsIncrementalGC "Өспелі GC">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Орнатулар тарихы">
 <!ENTITY aboutSupport.updateHistoryTitle "Тарихты жаңарту">
