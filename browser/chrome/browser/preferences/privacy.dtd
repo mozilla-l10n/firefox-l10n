@@ -15,7 +15,6 @@
 <!ENTITY  locbar.bookmarks.label        "Marcadores">
 <!ENTITY  locbar.nothing.label          "Nada">
 
-
 <!ENTITY  acceptCookies.label           "Aceitar cookies de sítios">
 <!ENTITY  acceptCookies.accesskey       "c">
 
@@ -29,7 +28,7 @@
 <!ENTITY  close.label                   "fechar o &brandShortName;">
 <!ENTITY  askEachTime.label             "perguntar sempre que necessário">
 
-<!ENTITY cookieExceptions.label "Excepções...">
+<!ENTITY cookieExceptions.label "Exceções...">
 <!ENTITY cookieExceptions.accesskey "x">
 
 <!ENTITY showCookies.label "Mostrar as cookies...">
@@ -64,11 +63,8 @@
 <!ENTITY  privateBrowsingPermanent2.label "Modo permanente de navegação privada">
 <!ENTITY  privateBrowsingPermanent2.accesskey "M">
 
-<!ENTITY  rememberHistory.label      "Lembrar o histórico de navegação">
-<!ENTITY  rememberHistory.accesskey  "h">
-
-<!ENTITY  rememberDownload.label         "Lembrar o histórico de transferências">
-<!ENTITY  rememberDownload.accesskey     "d">
+<!ENTITY  rememberHistory2.label      "Lembrar o histórico de navegação e de transferências">
+<!ENTITY  rememberHistory2.accesskey  "h">
 
 <!ENTITY  rememberSearchForm.label       "Lembrar pesquisas e histórico de formulários">
 <!ENTITY  rememberSearchForm.accesskey   "q">
