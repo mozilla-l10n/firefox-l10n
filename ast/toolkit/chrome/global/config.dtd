@@ -39,8 +39,8 @@
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
 <!ENTITY aboutWarningTitle.label "¡Equí puen estrizase coses!">
-<!ENTITY aboutWarningText.label "Camudar estos axustes avanzaos puede ser dañible pa la estabilidá, seguridá y rindimientu d'esta aplicación. Continúe namái si ta bien xuru de lo que ta faciendo.">
-<!ENTITY aboutWarningButton.label "Tendré curiáu, ¡prométolo!">
+<!ENTITY aboutWarningText.label "Camudar estos axustes avanzaos pue ser dañible pa la estabilidá, seguridá y rindimientu d'esta aplicación. Sigui alantre, namái si tas bien seguru de lo que tas faciendo.">
+<!ENTITY aboutWarningButton.label "Voi tener curiáu, ¡prométolo!">
 <!ENTITY aboutWarningCheckbox.label "Amosar esti avisu la próxima vegada">
 
 <!ENTITY searchPrefs.label "Guetar:">
@@ -55,8 +55,8 @@
 <!ENTITY valueColumn.label "Valor">
 
 <!-- Tooltips -->
-<!ENTITY prefColumnHeader.tooltip "Calque p'axeitar"> 
-<!ENTITY columnChooser.tooltip "Calque pa seleicionar les columnes a amosar"> 
+<!ENTITY prefColumnHeader.tooltip "Calca p'axeitar"> 
+<!ENTITY columnChooser.tooltip "Calca pa seleicionar les columnes a amosar"> 
 
 <!-- Context Menu -->
 <!ENTITY copyPref.key "C">
