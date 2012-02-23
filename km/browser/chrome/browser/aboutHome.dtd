@@ -17,7 +17,7 @@
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
-<!ENTITY abouthome.defaultSnippet2.v1 "វា​ងាយស្រួល​ប្ដូរ​ Firefox របស់​អ្នក​តាម​បំណង​តាមវិធី​ដែល​អ្នក​ចង់​បាន ។ <a>ជ្រើស​រើស​ពី​ផ្នែក​បន្ថែម​រាប់ពាន់</a> ។">
+<!ENTITY abouthome.defaultSnippet2.v1 "វា​ងាយស្រួល​ប្ដូរ​ Firefox របស់​អ្នក​តាម​បំណង​តាមវិធី​ដែល​អ្នក​ចង់​បាន ។ <a>ជ្រើស​រើស​ពី​ផ្នែក​បន្ថែម​ដែល​មាន​រាប់ពាន់</a> ។">
 
 <!ENTITY abouthome.syncSetup.label   "រៀបចំ​សមកាលកម្ម">
 <!ENTITY abouthome.pairDevice.label  "ផ្គូ​ឧបករណ៍">
