@@ -7,7 +7,7 @@
 <!ENTITY other.label "Otros…">
 <!ENTITY saveFile.label "Guardar archivo">
 <!ENTITY saveFile.accesskey "u">
-<!ENTITY rememberChoice.label "Repetir esta desición de ahora en adelante para este tipo de archivos.">
+<!ENTITY rememberChoice.label "Repetir esta decisión de ahora en adelante para este tipo de archivos.">
 <!ENTITY rememberChoice.accesskey "a">
 <!ENTITY whichIsA.label "el cual es un:">
 <!ENTITY chooseHandlerMac.label "Elegir…">
