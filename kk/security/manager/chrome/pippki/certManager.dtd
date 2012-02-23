@@ -105,14 +105,14 @@
 <!ENTITY certmgr.close.accesskey              "Ж">
 <!ENTITY certmgr.view2.label                  "Қарап шығу...">
 <!ENTITY certmgr.view2.accesskey              "ш">
+<!ENTITY certmgr.edit3.label                  "Сенімді түзету…">
+<!ENTITY certmgr.edit3.accesskey              "е">
 <!ENTITY certmgr.editca.label                 "CA сенуді баптау">
 <!ENTITY certmgr.editca.accesskey             "с">
 <!ENTITY certmgr.add.label                    "Қосу">
 <!ENTITY certmgr.add.accesskey                "о">
 <!ENTITY certmgr.export.label                 "Экспорттау...">
 <!ENTITY certmgr.export.accesskey             "п">
-<!ENTITY certmgr.edit3.label                  "Сенімді түзету…">
-<!ENTITY certmgr.edit3.accesskey              "е">
 <!ENTITY certmgr.delete2.label                "Өшіру…">
 <!ENTITY certmgr.delete2.accesskey            "ш">
 <!ENTITY certmgr.delete_builtin.label         "Өшіру не сенбеу…">

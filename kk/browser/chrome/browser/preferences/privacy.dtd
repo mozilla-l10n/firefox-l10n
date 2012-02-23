@@ -1,6 +1,7 @@
-<!ENTITY tracking.label                  "Тексеріп отыру">
-<!ENTITY doNotTrack.label                "Веб сайттарға мені бақыламауды айту">
-<!ENTITY doNotTrack.accesskey            "м">
+<!ENTITY tracking.label                 "Тексеріп отыру">
+
+<!ENTITY doNotTrack.label               "Веб сайттарға мені бақыламауды айту">
+<!ENTITY doNotTrack.accesskey           "м">
 
 <!ENTITY  history.label                 "Тарихы">
 
@@ -33,18 +34,18 @@
 <!ENTITY  showCookies.label             "Cookies көрсету…">
 <!ENTITY  showCookies.accesskey         "р">
 
-
-
-
 <!ENTITY  historyHeader.pre.label          "&brandShortName; ">
 <!ENTITY  historyHeader.pre.accesskey      "F">
-<!ENTITY  historyHeader.custom.label       "қолдан көрсетілген тарих баптауын қолданады">
-<!ENTITY  historyHeader.dontremember.label "тарихты ешқашан сақтамайды">
 <!ENTITY  historyHeader.remember.label     "тарихты сақтайды">
+<!ENTITY  historyHeader.dontremember.label "тарихты ешқашан сақтамайды">
+<!ENTITY  historyHeader.custom.label       "қолдан көрсетілген тарих баптауын қолданады">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; қаралған веб-парақ, жүктеме, форма мен іздеу тарихын және cookies файлдарын сақтап қалатын болады.">
 
+<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
 <!ENTITY  rememberActions.pre.label           "Сонымен қатар ">
 <!ENTITY  rememberActions.clearHistory.label  "жуырдағы тарихты тазарту">
 <!ENTITY  rememberActions.middle.label        ", не ">
@@ -53,6 +54,8 @@
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; жекелік шолу режимінің баптауын пайдаланады, яғни браузер тарихына ешқандай мәлімет сақталмайды.">
 
+<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
 <!ENTITY  dontrememberActions.pre.label          "Сонымен қатар ">
 <!ENTITY  dontrememberActions.clearHistory.label "тарихты да тазарту">
 <!ENTITY  dontrememberActions.post.label         ".">
@@ -60,11 +63,8 @@
 <!ENTITY  privateBrowsingPermanent2.label "Әрқашан жекелік шолу режимін қолдану">
 <!ENTITY  privateBrowsingPermanent2.accesskey "ж">
 
-<!ENTITY  rememberHistory.label      "Менің шолу тарихымды сақтау">
-<!ENTITY  rememberHistory.accesskey  "ы">
-
-<!ENTITY  rememberDownload.label         "Жүктемелер тарихын сақтау">
-<!ENTITY  rememberDownload.accesskey     "Ж">
+<!ENTITY  rememberHistory2.label      "Менің шолу тарихымды және жүктемелер тарихын сақтау">
+<!ENTITY  rememberHistory2.accesskey  "М">
 
 <!ENTITY  rememberSearchForm.label       "Іздеу және формалар тарих сақтау">
 <!ENTITY  rememberSearchForm.accesskey   "з">
@@ -74,4 +74,3 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Баптау…">
 <!ENTITY  clearOnCloseSettings.accesskey "п">
-

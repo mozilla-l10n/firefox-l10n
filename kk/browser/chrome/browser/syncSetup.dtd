@@ -2,10 +2,9 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "Қош келдіңіз, егер сіз &syncBrand.fullName.label; бұрын қолданбаған болсаңыз, сізге жаңа тіркелгіні жасау керек.">
+<!ENTITY setup.pickSetupType.description2 "Сәлеметсіз бе! Егер сіз осыған дейін &syncBrand.fullName.label; қолданбаған болсаңыз, сізге жаңа тіркелгіні жасау керек.">
 <!ENTITY button.createNewAccount.label "Жаңа тіркелгіні жасау">
-<!ENTITY setup.haveAccount.label "Менде &syncBrand.fullName.label; тіркелгісі бар болып тұр.">
-<!ENTITY button.connect.label    "Байланысу">
+<!ENTITY button.haveAccount.label      "Менде тіркелгі бар">
 
 <!ENTITY setup.choicePage.title.label     "Осыған дейін &syncBrand.fullName.label; қолданғансыз ба?">
 <!ENTITY setup.choicePage.new.label       "Мен бұрын &syncBrand.shortName.label; қолданған жоқпын">
@@ -24,12 +23,12 @@
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Тіркелгі ақпараты">
-<!ENTITY setup.confirmPassword.label  "Парольді растаңыз">
-<!ENTITY setup.confirmPassword.accesskey  "р">
-<!ENTITY setup.choosePassword.label  "Парольді таңдаңыз">
-<!ENTITY setup.choosePassword.accesskey  "т">
 <!ENTITY setup.emailAddress.label     "Эл. поштау адресі">
 <!ENTITY setup.emailAddress.accesskey "Э">
+<!ENTITY setup.choosePassword.label      "Парольді таңдаңыз">
+<!ENTITY setup.choosePassword.accesskey  "т">
+<!ENTITY setup.confirmPassword.label     "Парольді растаңыз">
+<!ENTITY setup.confirmPassword.accesskey "р">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
 <!ENTITY setup.tosAgree1.label      "Мен келісемін">
@@ -38,9 +37,9 @@
 <!ENTITY setup.tosAgree2.label      "және">
 <!ENTITY setup.ppLink.label         "жекелік саясатымен">
 <!ENTITY setup.tosAgree3.label      "">
-<!ENTITY setup.tosAgree2.accesskey  "">
+<!ENTITY setup.tosAgree2.accesskey  "ж">
 
-<!-- New Account Page 2: Sync Key -->
+<!-- My Recovery Key dialog -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; сіздің жекелігіңізді қолдайды">
 <!ENTITY setup.newRecoveryKeyPage.description.label "Жекелігіңізді сақтау үшін жүктелу алдында барлық ақпарат шифрленеді. Ақпаратты дешифрлеу үшін керек Қалпына келтіру кілті жүктелмейді.">
 <!ENTITY recoveryKeyEntry.label        "Сіздің қалпына келтіру кілтіңіз">
@@ -53,15 +52,13 @@
 <!ENTITY button.syncKeyBackup.save.label      "Сақтау…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "С">
 
-<!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "Өзіңіз робот емес екеніңізді растаңыз">
-<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "Құрылғыны қосу">
+<!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
+<!ENTITY pairDevice.title.label             "Құрылғыны жұптау">
 <!ENTITY addDevice.showMeHow.label          "Қазір көрсету.">
 <!ENTITY addDevice.dontHaveDevice.label     "Менде өзіммен бірге құрылғылар жоқ">
-<!ENTITY addDevice.setup.description.label  "Белсендіру үшін, сіздің басқа &syncBrand.shortName.label; құрылғының опцияларына барып, &#x0022;Құрылғыны қосу&#x0022; таңдаңыз.">
+<!ENTITY pairDevice.setup.description.label  "Белсендіру үшін, құрылғынызда &#x0022;Құрылғыны жұптау&#x0022; таңдаңыз.">
 <!ENTITY addDevice.setup.enterCode.label    "Одан кейін бұл кодты енгізіңіз:">
-<!ENTITY addDevice.dialog.description.label "Жаңа құрылғыны белсендіру үшін, ол құрылғыдағы &syncBrand.shortName.label; опцияларына барып, &#x0022;Байланысу&#x0022; таңдаңыз.">
+<!ENTITY pairDevice.dialog.description.label "Жаңа құрылғыны белсендіру үшін, құрылғыда &#x0022;Sync баптау&#x0022; таңдаңыз.">
 <!ENTITY addDevice.dialog.enterCode.label   "Құрылғы ұсынып тұрған кодты енгізіңіз:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Қайталап көріңіз.">
 <!ENTITY addDevice.dialog.successful.label  "Құрылғы сәтті қосылды. Алғашқы синхрондау бірнеше минутты алуы мүмкін, ол фонда орындалатын болады.">
@@ -73,6 +70,7 @@
 <!ENTITY existingRecoveryKey.description "Өзіңіздің Қалпына келтіру кілтінің көшірмесін алу үшін, басқа құрылғыдағы &syncBrand.shortName.label; опцияларына барып, &#x0022;Тіркелгіні басқару&#x0022; ішінен &#x0022;Менің Қалпына келтіру кілтім&#x0022; таңдаңыз.">
 <!ENTITY verifying.label              "Растау…">
 <!ENTITY resetPassword.label          "Парольді тастау">
+<!ENTITY resetSyncKey.label           "Мен өзімнің басқа құрылғымды жоғалтып алдым.">
 
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Синхрондау опциялары">
@@ -81,7 +79,7 @@
 
 <!ENTITY syncMy.label               "Нені синхрондау">
 <!ENTITY engine.bookmarks.label     "Бетбелгілер">
-<!ENTITY engine.bookmarks.accesskey "б">
+<!ENTITY engine.bookmarks.accesskey "Б">
 <!ENTITY engine.tabs.label          "Беттер">
 <!ENTITY engine.tabs.accesskey      "т">
 <!ENTITY engine.history.label       "Тарих">
@@ -90,6 +88,8 @@
 <!ENTITY engine.passwords.accesskey "П">
 <!ENTITY engine.prefs.label         "Баптаулар">
 <!ENTITY engine.prefs.accesskey     "а">
+<!ENTITY engine.addons.label        "Қосымшалар">
+<!ENTITY engine.addons.accesskey    "о">
 
 <!ENTITY choice2.merge.main.label      "Бұл компьютер ақпаратын менің &syncBrand.shortName.label; ақпаратымен біріктіру">
 <!ENTITY choice2.merge.recommended.label "Ұсынылатын:">
@@ -107,5 +107,3 @@
 <!ENTITY setup.successPage.title "Баптау аяқталды">
 <!ENTITY changeOptions.label "Бұл баптауды төмендегі Синхрондау опциялары көмегімен өзгерте аласыз.">
 <!ENTITY continueUsing.label "Енді &brandShortName; қолдана аласыз.">
-
-<!ENTITY resetSyncKey.label  "Мен өзімнің басқа құрылғымды жоғалтып алдым.">
