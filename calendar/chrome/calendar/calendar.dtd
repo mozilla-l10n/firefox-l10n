@@ -64,7 +64,7 @@
 <!ENTITY calendar.events.filter.today.label "Eventos de Hoje">
 <!ENTITY calendar.events.filter.future.label "Todos os Eventos Futuros">
 <!ENTITY calendar.events.filter.current.label "Dia Selecionado">
-<!ENTITY calender.events.filter.currentview.label "Eventos na vista atual">
+<!ENTITY calendar.events.filter.currentview.label "Eventos na vista atual">
 <!ENTITY calendar.events.filter.next7Days.label "Eventos nos Próximos 7 Dias">
 <!ENTITY calendar.events.filter.next14Days.label "Eventos nos Próximos 14 Dias">
 <!ENTITY calendar.events.filter.next31Days.label "Eventos nos Próximos 31 Dias">
@@ -252,6 +252,9 @@
 <!ENTITY calendar.context.postpone.1day.accesskey   "D">
 <!ENTITY calendar.context.postpone.1week.label      "1 Semana">
 <!ENTITY calendar.context.postpone.1week.accesskey  "S">
+
+<!ENTITY calendar.copylink.label       "Copiar ligação da localização">
+<!ENTITY calendar.copylink.accesskey   "C">
 
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
