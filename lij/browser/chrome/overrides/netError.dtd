@@ -78,7 +78,7 @@
 <!ENTITY redirectLoop.longDesc "<p>O browser s'é fermòu de preuvâ a riçéive l'ògétto domandòu. O scîto o fa de redireçioìn che no finiscian mâi.</p><ul><li>T'æ dizabilitòu ò blocòu i cookie domandæ da sto scîto?</li><li><em>NÒTTA</em>: Se ti acetti i cookie do scîto e no ti risòlvi o problêma porieivan êse e inpostaçioìn do server e no do teu computer.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Rispósta sbaliâ da-o server">
-<!ENTITY unknownSocketType.longDesc "<p>O scîto risponde in unn-a manêa strâna e-o browser no peu continoâ.</p>">
+<!ENTITY unknownSocketType.longDesc "<p>O scîto risponde in 'na manêa strâna e-o browser no peu continoâ.</p>">
 
 <!ENTITY nssFailure2.title "Conesción segûa no riêscia">
 <!ENTITY nssFailure2.longDesc "<ul>

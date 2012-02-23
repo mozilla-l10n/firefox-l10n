@@ -3,7 +3,7 @@
      should go into netError.dtd -->
 
 <!ENTITY securityOverride.linkText "ò ti peu azónze 'na eceçión…">
-<!ENTITY securityOverride.warningContent "<p>Tì no dovesci azónze unn-a eceçión se ti ûzi 'na conesción che no ti gh'æ de fidùccia ò se ti no gh'æ l'àndio de védde di alàrmi in sto server.</p>
-<p>Se t'eu ancón azónze unn-a eceçión pe sto scîto, ti peu anâ inte inpostaçioìn avansæ da criptaçión.</p>
+<!ENTITY securityOverride.warningContent "<p>Tì no dovesci azónze 'na eceçión se ti ûzi 'na conesción che no ti gh'æ de fidùccia ò se ti no gh'æ l'àndio de védde di alàrmi in sto server.</p>
+<p>Se t'eu ancón azónze 'na eceçión pe sto scîto, ti peu anâ inte inpostaçioìn avansæ da criptaçión.</p>
  ">
 
