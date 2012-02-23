@@ -23,7 +23,7 @@ This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDi
 Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsProfileDirWinMac "Pasta do perfil">
 
-<!ENTITY aboutSupport.appBasicsEnabledPlugins "Plugins activados">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Plugins ativados">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configuração da versão">
 <!ENTITY aboutSupport.appBasicsUserAgent "Agente de utilizador">
 <!ENTITY aboutSupport.appBasicsCrashIDs "Relatórios de erros">
@@ -44,7 +44,10 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Gráficos">
 
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
+
 <!ENTITY aboutSupport.installationHistoryTitle "Histórico de instalação">
-<!ENTITY aboutSupport.updateHistoryTitle "Actualizar histórico">
+<!ENTITY aboutSupport.updateHistoryTitle "Atualizar histórico">
 
 <!ENTITY aboutSupport.copyToClipboard.label "Copiar tudo para o clipboard">
