@@ -39,7 +39,7 @@
 <!ENTITY sync.subtitle.nointernet.label '没有可用的因特网连接。'>
   
 <!-- Setup Success -->
-<!ENTITY sync.title.success.label '安装完成'>
+<!ENTITY sync.title.success.label '初始设置完成'>
 <!ENTITY sync.subtitle.success.label '您的数据目前正在后台下载。您可以到设置去管理您的帐户。'>
 <!ENTITY sync.settings.label '设置'>
 <!ENTITY sync.subtitle.manage.label '您的 &syncBrand.fullName.label; 帐户已经建立。进入设置以管理您的帐户。'>
