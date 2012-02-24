@@ -167,27 +167,5 @@
 <!ENTITY info.plugincheck.label                 "જોવા માટે ચકાસો જો તમારા પ્લગઇનો અદ્યતન છે">
 <!ENTITY info.plugincheck.tooltip               "જોવા માટે ચકાસો જો તમારા પ્લગઇનો અદ્યતન છે">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY search.commandkey                    "f">
+<!ENTITY settings.path.button.label           "બ્રાઉઝ કરો…">
