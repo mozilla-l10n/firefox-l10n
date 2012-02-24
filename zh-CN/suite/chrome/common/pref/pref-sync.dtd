@@ -15,7 +15,7 @@
 
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "管理帐户">
-<!ENTITY manageAccount.accesskey      "A">
+<!ENTITY manageAccount.accesskey      "M">
 <!ENTITY viewQuota.label              "查看配额">
 <!ENTITY viewQuota.accesskey          "V">
 <!ENTITY changePassword.label         "修改密码">
@@ -34,6 +34,8 @@
 <!ENTITY syncComputerName.accesskey   "N">
 
 <!ENTITY syncMy2.label              "同步我的：">
+<!ENTITY engine.addons.label        "附加组件">
+<!ENTITY engine.addons.accesskey    "A">
 <!ENTITY engine.bookmarks.label     "书签">
 <!ENTITY engine.bookmarks.accesskey "B">
 <!ENTITY engine.tabs.label          "标签页">

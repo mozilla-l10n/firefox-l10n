@@ -36,5 +36,6 @@
 <!ENTITY policies.label "安全策略">
 <!ENTITY mousewheel.label "鼠标滚轮">
 <!ENTITY scriptsAndWindows.label "脚本 &amp; 插件">
+<!ENTITY spellingPane.label  "拼写检查">
 
 <!ENTITY focusSearch.key "f">

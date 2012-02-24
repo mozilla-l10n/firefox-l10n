@@ -16,8 +16,8 @@
 
 <!ENTITY navbarCmd.label "导航工具栏">
 <!ENTITY navbarCmd.accesskey "N">
-<!ENTITY personalbarCmd.label "个人工具栏">
-<!ENTITY personalbarCmd.accesskey "P">
+<!ENTITY bookmarksToolbarCmd.label     "书签工具栏">
+<!ENTITY bookmarksToolbarCmd.accesskey "m">
 
 <!ENTITY closeWindow.label "关闭窗口">
 <!ENTITY closeWindow.accesskey "W">
@@ -29,7 +29,7 @@
 <!ENTITY feedsMenu.accesskey "S">
 
 <!ENTITY menuBar.tooltip                  "菜单栏">
-<!ENTITY personalToolbar.tooltip          "个人工具栏">
+<!ENTITY bookmarksToolbar.tooltip         "书签工具栏">
 <!ENTITY navigationToolbar.tooltip        "导航工具栏">
 
 <!-- Toolbar items --> 
