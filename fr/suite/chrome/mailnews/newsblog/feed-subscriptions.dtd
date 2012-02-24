@@ -3,7 +3,6 @@
 <!ENTITY subscriptionDesc.label "Note : supprimer ou modifier le dossier d'un flux n'affectera pas les articles déjà téléchargés.">
 <!ENTITY feedTitle.label "Titre :">
 <!ENTITY feedTitle.accesskey "T">
-<!ENTITY location.label "Adresse :">
 
 <!ENTITY feedLocation.label "Adresse du flux : ">
 <!ENTITY feedLocation.accesskey "U">
