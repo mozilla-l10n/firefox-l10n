@@ -81,11 +81,13 @@
 <!ENTITY pasteCmd.accesskey "ה">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY editRewrapCmd.label "בצע מחדש גלישת שורות">
-<!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "w">
 <!ENTITY deleteCmd.label "מחק">
 <!ENTITY deleteCmd.accesskey "ח">
+<!ENTITY editRewrapCmd.label "בצע מחדש גלישת שורות">
+<!ENTITY editRewrapCmd.key "R">
+<!ENTITY renameAttachmentCmd.label "שינוי שם קובץ מצורף…">
+<!ENTITY renameAttachmentCmd.accesskey "ש">
 <!ENTITY selectAllCmd.label "בחר הכול">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "ב"> 
