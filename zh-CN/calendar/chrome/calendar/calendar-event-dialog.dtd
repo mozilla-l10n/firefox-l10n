@@ -360,8 +360,6 @@
 <!ENTITY event.freebusy.next.slot               "下次空闲" >
 <!ENTITY event.freebusy.previous.slot           "上次空闲" >
 <!ENTITY event.freebusy.zoom                    "缩放：">
-<!ENTITY event.freebusy.plus                    "下一小时" >
-<!ENTITY event.freebusy.minus                   "前一小时" >
 <!ENTITY event.freebusy.legend.free             "空闲" >
 <!ENTITY event.freebusy.legend.busy             "繁忙" >
 <!ENTITY event.freebusy.legend.busy_tentative   "暂定" >
