@@ -74,30 +74,6 @@
 <!ENTITY lightning.menu.eventtask.label                "אירועים ומשימות">
 <!ENTITY lightning.menu.eventtask.accesskey            "ר">
 
-<!-- Mode Toolbar -->
-<!ENTITY lightning.toolbar.mail.label         "דואר">
-<!ENTITY lightning.toolbar.mail.accesskey     "ד">
-<!ENTITY lightning.toolbar.calendar.label     "לוח שנה">
-<!ENTITY lightning.toolbar.calendar.tooltip   "מעבר ללשונית לוח השנה">
-<!ENTITY lightning.toolbar.calendar.accesskey "ל">
-<!ENTITY lightning.toolbar.task.label         "משימות">
-<!ENTITY lightning.toolbar.task.tooltip       "מעבר ללשונית המשימות">
-<!ENTITY lightning.toolbar.task.accesskey     "מ">
-
-<!-- Toolbar write button -->
-<!ENTITY lightning.toolbar.newevent.label     "אירוע">
-<!ENTITY lightning.toolbar.newtask.label      "משימה">
-
-<!-- Messenger Toolbar -->
-<!ENTITY lightning.toolbar.day.label                 "יומי">
-<!ENTITY lightning.toolbar.day.accesskey             "י">
-<!ENTITY lightning.toolbar.week.label                "שבועי">
-<!ENTITY lightning.toolbar.week.accesskey            "ש">
-<!ENTITY lightning.toolbar.multiweek.label           "רב שבועי">
-<!ENTITY lightning.toolbar.multiweek.accesskey       "ר">
-<!ENTITY lightning.toolbar.month.label               "חודשי">
-<!ENTITY lightning.toolbar.month.accesskey           "ח">
-
 <!-- properties dialog, calendar creation wizard -->
 <!ENTITY lightning.calendarproperties.showevents.inagenda.label "הצג אירועים בפאנל היום">
 <!ENTITY lightning.calendarproperties.showtasks.label           "הצג משימות בפאנל היום ואת מצבן">

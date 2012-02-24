@@ -64,6 +64,7 @@
 <!ENTITY calendar.events.filter.today.label "אירועים היום">
 <!ENTITY calendar.events.filter.future.label "כל האירועים העתידיים">
 <!ENTITY calendar.events.filter.current.label "היום המסומן הנוכחי">
+<!ENTITY calender.events.filter.currentview.label "אירועים בתצוגה נוכחית">
 <!ENTITY calendar.events.filter.next7Days.label "אירועים בשבעת הימים הבאים">
 <!ENTITY calendar.events.filter.next14Days.label "אירועים בשבועיים הקרובים">
 <!ENTITY calendar.events.filter.next31Days.label "אירועים בחודש הקרוב">
@@ -179,6 +180,10 @@
 <!ENTITY calendar.task.complete.button.tooltip  "סמן שהמשימות שנבחרו הושלמו">
 <!ENTITY calendar.task.priority.button.tooltip  "שנה דחיפות">
 
+<!ENTITY calendar.task.text-filter.textbox.emptytext.base            "סינון משימות… #1">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Shift+K&gt;">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
+
 <!-- Statusbar -->
 <!ENTITY statusText.label            "מסמך: סיים">
 
@@ -213,6 +218,8 @@
 <!ENTITY calendar.context.progress.accesskey          "ק">
 <!ENTITY calendar.context.priority.label              "עדיפות">
 <!ENTITY calendar.context.priority.accesskey          "ע">
+<!ENTITY calendar.context.postpone.label              "דחיית משימה">
+<!ENTITY calendar.context.postpone.accesskey          "ד">
 
 <!ENTITY percnt "&#037;" ><!--=percent sign-->
 
@@ -238,6 +245,13 @@
 <!ENTITY priority.level.normal.accesskey    "ר">
 <!ENTITY priority.level.high                "גבוהה">
 <!ENTITY priority.level.high.accesskey      "ג">
+
+<!ENTITY calendar.context.postpone.1hour.label      "שעה">
+<!ENTITY calendar.context.postpone.1hour.accesskey  "ש">
+<!ENTITY calendar.context.postpone.1day.label       "יממה">
+<!ENTITY calendar.context.postpone.1day.accesskey   "י">
+<!ENTITY calendar.context.postpone.1week.label      "שבוע">
+<!ENTITY calendar.context.postpone.1week.accesskey  "ב">
 
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
