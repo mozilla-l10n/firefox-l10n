@@ -2,7 +2,20 @@
 <!ENTITY feedSubscriptions.label "Abonnements aux flux">
 <!ENTITY subscriptionDesc.label "Note : supprimer ou modifier le dossier d'un flux n'affectera pas les articles déjà téléchargés.">
 <!ENTITY feedTitle.label "Titre :">
+<!ENTITY feedTitle.accesskey "T">
 <!ENTITY location.label "Adresse :">
+
+<!ENTITY feedLocation.label "Adresse du flux : ">
+<!ENTITY feedLocation.accesskey "U">
+<!ENTITY feedLocation.placeholder "Saisir une adresse de flux valide à ajouter">
+
+<!ENTITY feedFolder.label "Stocker les articles du flux dans : ">
+<!ENTITY feedFolder.accesskey "k">
+
+<!ENTITY quickMode.label "Afficher le résumé de l'article plutôt que de télécharger la page Web">
+<!ENTITY quickMode.accesskey "m">
+
+<!ENTITY validateText.label "Vérifier la validité de l'adresse du flux.">
 
 <!ENTITY button.addFeed.label "Ajouter">
 <!ENTITY button.addFeed.accesskey "A">
