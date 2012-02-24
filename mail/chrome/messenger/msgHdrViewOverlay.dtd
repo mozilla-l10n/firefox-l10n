@@ -144,7 +144,10 @@
 <!ENTITY copyLinkCmd.label        "העתק מיקום קישור">
 <!ENTITY copyLinkCmd.accesskey    "ק">
 
-<!ENTITY CopyMessageId.label "העתק מזהה הודעה">
-<!ENTITY OpenMessageForMsgId.label "פתח הודעה לפי מזהה">
-<!ENTITY OpenBrowserWithMsgId.label "פתח דפדפן עם מזהה ההודעה">
+<!ENTITY CopyMessageId.label "העתקת מזהה הודעה">
+<!ENTITY CopyMessageId.accesskey "ע">
+<!ENTITY OpenMessageForMsgId.label "פתיחת הודעה לפי מזהה">
+<!ENTITY OpenMessageForMsgId.accesskey "פ">
+<!ENTITY OpenBrowserWithMsgId.label "פתיחת דפדפן עם מזהה ההודעה">
+<!ENTITY OpenBrowserWithMsgId.accesskey "ד">
 
