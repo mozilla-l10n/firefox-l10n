@@ -23,10 +23,3 @@
 <!ENTITY languages.customize.moveUp.accesskey           "U">
 <!ENTITY languages.customize.moveDown.label             "下移">
 <!ENTITY languages.customize.moveDown.accesskey         "D">
-
-<!ENTITY spelling.label                                 "拼写检查">
-<!ENTITY checkSpelling.label                            "输入时检查我的拼写：">
-<!ENTITY checkSpelling.accesskey                        "W">
-<!ENTITY dontCheckSpelling.label                        "从不">
-<!ENTITY multilineCheckSpelling.label                   "在多行编辑框中">
-<!ENTITY alwaysCheckSpelling.label                      "所有编辑框">

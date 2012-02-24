@@ -6,3 +6,5 @@
 <!ENTITY  newContactCmd.label             "联系...">
 <!ENTITY  newContactCmd.accesskey         "C">
  
+<!ENTITY printButton.label "打印">
+<!ENTITY printButton.tooltip "打印这条消息">

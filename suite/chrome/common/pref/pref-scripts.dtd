@@ -18,6 +18,8 @@
 <!ENTITY allowHideStatusBar.label        "隐藏状态栏">
 
 <!ENTITY enablePlugin.label              "使用插件">
+<!ENTITY enablePluginForSuite.label      "套件">
+<!ENTITY enablePluginForSuite.accesskey  "u">
 
 <!ENTITY whenPluginsRequired.label       "当需要附加插件的时候">
 <!ENTITY displayNotification.label       "在正文区域顶部显示通知栏">

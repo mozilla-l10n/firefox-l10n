@@ -42,8 +42,12 @@
 <!ENTITY SendMailTo.accesskey              "s">
 <!ENTITY CopyEmailAddress.label            "复制邮件地址">
 <!ENTITY CopyEmailAddress.accesskey        "C">
-<!ENTITY CreateFilterFrom.label            "创建过滤器，从…">
+<!ENTITY CreateFilterFrom.label            "对此创建过滤器…">
 <!ENTITY CreateFilterFrom.accesskey        "F">
+<!ENTITY openInBrowser.label               "在浏览器中打开">
+<!ENTITY openInBrowser.accesskey           "O">
+<!ENTITY bookmarkLinkCmd.label             "将此链接加入书签…">
+<!ENTITY bookmarkLinkCmd.accesskey         "B">
 <!ENTITY copyLinkCmd.label                 "复制链接地址">
 <!ENTITY copyLinkCmd.accesskey             "C">
 <!ENTITY CopyMessageId.label               "复制 消息-ID">

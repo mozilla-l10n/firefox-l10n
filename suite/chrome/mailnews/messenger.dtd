@@ -269,6 +269,10 @@
 
 <!ENTITY findCmd.label "在消息中查找…">
 
+<!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
+     This is the key used to show the Lightning quick filter bar. -->
+<!ENTITY quickFilterBar.show.key2 "K">
+
 <!-- Go Menu -->
 
 <!ENTITY goMenu.label "转到">
@@ -445,7 +449,6 @@
 <!ENTITY deleteButton.label "删除">
 <!ENTITY undeleteButton.label "撤消删除">
 <!ENTITY markButton.label "标记">
-<!ENTITY printButton.label "打印">
 <!ENTITY stopButton.label "停止">
 <!ENTITY junkButton.label "垃圾">
 <!ENTITY notJunkButton.label "非垃圾">
@@ -469,7 +472,6 @@
 <!ENTITY deleteButton.tooltip "删除选择的消息或文件夹">
 <!ENTITY undeleteButton.tooltip "恢复选中消息">
 <!ENTITY markButton.tooltip "标记消息">
-<!ENTITY printButton.tooltip "打印这条消息">
 <!ENTITY stopButton.tooltip "停止当前传送">
 <!ENTITY throbber.tooltip "转到 &vendorShortName; 主页">
 <!ENTITY junkButton.tooltip "将选中的消息标记为垃圾(或者非垃圾)">
