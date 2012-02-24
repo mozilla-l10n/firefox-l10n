@@ -43,9 +43,9 @@
 <!ENTITY aboutWarningButton.label "Абай болуға уәде беремін!">
 <!ENTITY aboutWarningCheckbox.label "Осы ескертуді келесі ретте көрсету">
 
-<!ENTITY filterPrefs.label "Фильтр:">
-<!ENTITY filterPrefs.accesskey "Ф">
-<!ENTITY focusFilter.key "f">
+<!ENTITY searchPrefs.label "Іздеу:">
+<!ENTITY searchPrefs.accesskey "з">
+<!ENTITY focusSearch.key "r">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "Баптау атауы">

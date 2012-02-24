@@ -48,6 +48,8 @@
 <!ENTITY resetToolbars.label          "Саймандар панелдер мен басқару элементтерінің баптауларын бастапқы түріне келтіру.">
 <!ENTITY resetToolbars.accesskey      "э">
 
+<!ENTITY deleteBookmarks.label        "Қор көшірмеден басқа барлық бетбелгілерді өшіру">
+<!ENTITY deleteBookmarks.accesskey    "о">
 
 <!ENTITY resetUserPrefs.label         "Баптаулардың барлығын &brandShortName; бастапқы баптауларымен алмастыру">
 <!ENTITY resetUserPrefs.accesskey     "р">
@@ -57,6 +59,3 @@
 
 <!ENTITY changeAndRestartButton.label "Өзгерістерді қабылдап, бағдарламаны қайта қосу">
 <!ENTITY continueButton.label         "Қауіпсіз режимінде жалғастыру">
-
-<!ENTITY deleteBookmarks.label        "Қор көшірмеден басқа барлық бетбелгілерді өшіру">
-<!ENTITY deleteBookmarks.accesskey    "о">

@@ -20,6 +20,14 @@
 <!ENTITY pluginWizard.finalPage.moreInfo.label               "Плагиндер туралы көбірек білу немесе жоқ плагиндерді қолмен іздеу.">
 <!ENTITY pluginWizard.finalPage.restart.label                "Плагин(дер) жұмыс істеу үшін, &brandShortName; қайта қосыңыз.">
 
+<!ENTITY missingPlugin                                       "Бұл құраманы көрсету үшін плагин керек.">
+<!ENTITY clickToPlayPlugin                                   "Плагинді белсендіру үшін осында шертіңіз.">
+<!ENTITY disabledPlugin                                      "Плагин сөндірулі.">
+<!ENTITY blockedPlugin.label                                 "Плагин сіздің қауіпсіздігіңіз мақсатында өшірілген.">
+
+<!ENTITY installPlugin                                       "Плагинді орнату…">
+<!ENTITY managePlugins                                       "Плагиндерді басқару…">
+
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
@@ -29,13 +37,7 @@
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
 <!ENTITY report.please                                       "Құлау жөнінде хабарламаны жіберу">
 <!ENTITY report.submitting                                   "Хабарлауды жіберу…">
-<!ENTITY report.submitted                                    "құлау жөнінде хабарлау жіберілді.">
+<!ENTITY report.submitted                                    "Құлау жөнінде хабарлау жіберілді.">
 <!ENTITY report.disabled                                     "Құлау жөнінде хабарлау сөндірілген.">
 <!ENTITY report.failed                                       "Жіберу сәтсіз.">
 <!ENTITY report.unavailable                                  "Қолжетерлік хабарлаулар жоқ.">
-
-<!ENTITY missingPlugin                                       "Бұл құраманы көрсету үшін плагин керек.">
-<!ENTITY disabledPlugin                                      "Плагин сөндірулі.">
-<!ENTITY blockedPlugin.label                                 "Плагин сіздің қауіпсіздігіңіз мақсатында өшірілген.">
-<!ENTITY installPlugin                                       "Плагинді орнату…">
-<!ENTITY managePlugins                                       "Плагиндерді басқару…">
