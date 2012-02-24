@@ -78,8 +78,6 @@
 <!ENTITY imagemapBox.label "图像映射">
 <!ENTITY removeImageMapButton.label "移除">
 <!ENTITY removeImageMapButton.accessKey "R">
-<!ENTITY editImageMapButton.label "编辑…">
-<!ENTITY editImageMapButton.tooltip "为此图像创建可点击的热点">
 
 <!-- These are the options for image alignment -->
 <!ENTITY alignment.label "将文本与图像对齐">
