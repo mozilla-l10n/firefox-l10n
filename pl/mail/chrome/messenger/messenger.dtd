@@ -490,7 +490,11 @@
 <!ENTITY fileButton.label       "Przenieś">
 <!ENTITY archiveButton.label    "Archiwizuj">
 <!ENTITY nextButton.label       "Następna">
+<!ENTITY nextButtonToolbarItem.label "Następna nieprzeczytana">
+<!ENTITY nextMsgButton.label "Następna">
 <!ENTITY previousButton.label   "Poprzednia">
+<!ENTITY previousButtonToolbarItem.label "Poprzednia nieprzeczytana">
+<!ENTITY previousMsgButton.label "Poprzednia">
 <!ENTITY backButton1.label      "Wstecz">
 <!ENTITY goForwardButton1.label "Dalej">
 <!ENTITY deleteItem.title       "Usuń">
@@ -524,7 +528,9 @@
 <!ENTITY fileButton.tooltip        "Przenieś zaznaczoną wiadomość">
 <!ENTITY archiveButton.tooltip     "Archiwizuj zaznaczone wiadomości">
 <!ENTITY nextButton.tooltip        "Przejdź do następnej nieprzeczytanej wiadomości">
+<!ENTITY nextMsgButton.tooltip "Przejdź do następnej wiadomości">
 <!ENTITY previousButton.tooltip    "Przejdź do poprzedniej nieprzeczytanej wiadomości">
+<!ENTITY previousMsgButton.tooltip "Przejdź do poprzedniej wiadomości">
 <!ENTITY goForwardButton.tooltip   "Przejdź o jedną wiadomość do przodu">
 <!ENTITY goBackButton.tooltip      "Przejdź o jedną wiadomość wstecz">
 <!ENTITY deleteButton.tooltip      "Usuń wybraną wiadomość albo folder">
