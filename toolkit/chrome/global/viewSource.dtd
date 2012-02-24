@@ -105,3 +105,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY forwardCmd.accesskey "F">
 <!ENTITY goBackCmd.commandKey "Ö">
 <!ENTITY goForwardCmd.commandKey "Ä">
+
+<!ENTITY copyLinkCmd.label "Kopiera länkadress">
+<!ENTITY copyLinkCmd.accesskey "K">
+<!ENTITY copyEmailCmd.label "Kopiera e-postadress">
+<!ENTITY copyEmailCmd.accesskey "e">
