@@ -1,5 +1,4 @@
 <!ENTITY testpilot.brand.label                      "Test Pilot">
-<!-- browser window: menu and status bar -->
 <!ENTITY testpilot.settings.label                   "Баптаулары">
 <!ENTITY testpilot.settings.dataSubmission.label    "Мәліметті жіберу">
 <!ENTITY testpilot.settings.notifications.label     "Хабарламалар">
@@ -8,6 +7,7 @@
 <!ENTITY testpilot.settings.newStudy.label          "Жаңа сынақ бар болса">
 <!ENTITY testpilot.settings.hasNewResults.label     "Сынақтың жаңа нәтижелері бар болса">
 <!ENTITY testpilot.settings.alwaysSubmitData.label  "Мәліметтерімді авто жіберу (менен сұрамай-ақ)">
+<!ENTITY testpilot.allYourStudies.label             "Барлық пайдаланушы сынақтарыңыз…">
 <!ENTITY testpilot.about.label                      "Test Pilot туралы">
 
 <!-- all studies window -->
@@ -29,6 +29,5 @@
 <!ENTITY testpilot.feedbackbutton.label                "Кері байланыс">
 <!ENTITY testpilot.happy.label        "Firefox мені қуандырған себебі...">
 <!ENTITY testpilot.sad.label          "Firefox мені өкіндірген себебі...">
-<!ENTITY testpilot.allYourStudies.label             "Барлық пайдаланушы сынақтарыңыз…">
 <!ENTITY testpilot.broken.label      "Бұл веб сайт сынық деп хабарлау…">
 <!ENTITY testpilot.idea.label        "Бізге ұсынысыңызды жіберіңіз…">

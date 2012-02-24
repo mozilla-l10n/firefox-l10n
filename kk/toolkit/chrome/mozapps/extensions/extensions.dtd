@@ -1,23 +1,23 @@
 <!ENTITY addons.windowTitle                   "Қосымшалар басқарушысы">
+
 <!ENTITY search.placeholder                   "Қосымшаларды іздеу">
+<!-- LOCALIZATION NOTE (search.commandKey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
+
 <!ENTITY loading.label                        "Жүктелуде…">
 <!ENTITY listEmpty.installed.label            "Сізде осы түрдегі қосымшалар орнатылмаған">
-<!ENTITY listEmpty.search.label               "Сәйкес келетін қосымшалар табылмады">
-<!ENTITY listEmpty.button.label               "Қосымшалар жөнінде көбірек біліңіз">
 <!ENTITY listEmpty.availableUpdates.label     "Жаңартулар табылмады">
 <!ENTITY listEmpty.recentUpdates.label        "Соңғы кезде ешбір кеңейту жаңартылмады">
 <!ENTITY listEmpty.findUpdates.label          "Жаңартуларды тексеру">
+<!ENTITY listEmpty.search.label               "Сәйкес келетін қосымшалар табылмады">
+<!ENTITY listEmpty.button.label               "Қосымшалар жөнінде көбірек біліңіз">
 <!ENTITY installAddonFromFile.label           "Кеңейтуді файлдан орнату…">
 <!ENTITY installAddonFromFile.accesskey       "й">
 <!ENTITY toolsMenu.tooltip                    "Барлық файлдар үшін саймандар">
 
-<!ENTITY info.plugincheck.label                 "Плагиндеріңіздің барлығы жаңа ма, соны тексеріңіз">
-<!ENTITY info.plugincheck.tooltip               "Плагиндеріңіздің барлығы жаңа ма, соны тексеріңіз">
-
 <!ENTITY cmd.back.tooltip                     "Бір параққа қайту">
 <!ENTITY cmd.forward.tooltip                  "Бір параққа алға бару">
-
-<!ENTITY settings.path.button.label           "Шолу…">
 
 <!-- global warnings -->
 <!ENTITY warning.safemode.label                    "Барлық кеңейтулер қауіпсіз режимімен сөндірілген.">
@@ -27,6 +27,11 @@
 <!ENTITY warning.updatesecurity.label              "Кеңейтулер жаңартуларын қауісіздікке тексеру сөндірулі. Жаңартулармен қор болуыңыз мүмкін.">
 <!ENTITY warning.updatesecurity.enable.label       "Іске қосу">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Кеңейтулер жаңартуларын қауісіздікке тексеруді іске қосу">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Плагиндеріңіздің барлығы жаңа ма, соны тексеріңіз">
+<!ENTITY info.plugincheck.tooltip               "Плагиндеріңіздің барлығы жаңа ма, соны тексеріңіз">
+
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Іздеу">
 <!ENTITY view.discover.label                  "Қосымшаларды алу">
@@ -72,7 +77,7 @@
 <!ENTITY cmd.preferencesUnix.label            "Баптаулар">
 <!ENTITY cmd.preferencesUnix.accesskey        "р">
 <!ENTITY cmd.about.label                      "Осы туралы">
-<!ENTITY cmd.about.accesskey              "т">
+<!ENTITY cmd.about.accesskey                  "т">
 
 <!ENTITY cmd.enableAddon.label                "Іске қосу">
 <!ENTITY cmd.enableAddon.accesskey            "с">
@@ -93,6 +98,7 @@
 <!ENTITY cmd.contribute.label                 "Үлес қосу">
 <!ENTITY cmd.contribute.accesskey             "с">
 <!ENTITY cmd.contribute.tooltip               "Бұл қосымшаны дамытуға үлес қосу">
+
 <!ENTITY cmd.showReleaseNotes.label           "Шығарылым ескертпесін көрсету">
 <!ENTITY cmd.showReleaseNotes.tooltip         "Бұл жаңартудың шығарылым ескертпесін көрсету">
 <!ENTITY cmd.hideReleaseNotes.label           "Шығарылым ескертпесін жасыру">
@@ -138,6 +144,7 @@
 <!ENTITY detail.showPreferencesUnix.accesskey "п">
 <!ENTITY detail.showPreferencesUnix.tooltip   "Бұл кеңейтудің баптауларын өзгерту">
 
+
 <!-- ratings -->
 <!ENTITY rating2.label                        "Рейтингі">
 
@@ -163,6 +170,8 @@
 <!ENTITY search.filter2.available.tooltip     "Орнатуға қолжетерлік кеңейтулерді көрсету">
 
 <!ENTITY addon.homepage                       "Үй парағы">
+<!ENTITY addon.details.label                  "Көбірек">
+<!ENTITY addon.details.tooltip                "Бұл кеңейту жөнінде көбірек ақпаратты көрсету">
 <!ENTITY addon.unknownDate                    "Белгісіз">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
@@ -178,21 +187,22 @@
 <!ENTITY addon.undoRemove.label               "Болдырмау">
 <!ENTITY addon.undoRemove.tooltip             "Бұл кеңейтуді орнатылған етіп қалдыру">
 <!ENTITY addon.restartNow.label               "Қазір қайта қосу">
+<!ENTITY addon.install.label                  "Орнату">
+<!ENTITY addon.install.tooltip                "Бұл қосымшаны орнату">
 <!ENTITY addon.updateNow.label                "Қазір жаңарту">
 <!ENTITY addon.updateNow.tooltip              "Бұл кеңейту үшін жаңартуды орнату">
 <!ENTITY addon.includeUpdate.label            "Жаңарту ішінде">
 <!ENTITY addon.updateAvailable.label          "Жаңарту қолжетерлік">
-<!ENTITY addon.install.label                  "Орнату">
-<!ENTITY addon.install.tooltip                "Бұл қосымшаны орнату">
 <!ENTITY addon.checkingForUpdates.label       "Жаңартуларды іздеу…">
-<!ENTITY addon.createdBy.label                "Шығарған ">
-<!ENTITY addon.details.label                  "Көбірек">
-<!ENTITY addon.details.tooltip                "Бұл кеңейту жөнінде көбірек ақпаратты көрсету">
 <!ENTITY addon.releaseNotes.label             "Шығарылым ескертпесі:">
 <!ENTITY addon.loadingReleaseNotes.label      "Жүктелу…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Кешіріңіз, шығарылым ескертпесін жүктеп алу кезінде қате кетті.">
+
+<!ENTITY addon.createdBy.label                "Шығарған ">
 
 <!ENTITY eula.title                           "Түпкі пайдаланушымен лицензиялық келісім">
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
 <!ENTITY eula.accept                          "Қабылдау мен орнату…">
+
+<!ENTITY settings.path.button.label           "Шолу…">

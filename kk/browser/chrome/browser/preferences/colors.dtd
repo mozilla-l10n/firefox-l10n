@@ -14,7 +14,7 @@
 <!ENTITY  useSystemColors.accesskey       "й">
 
 <!ENTITY  underlineLinks.label            "Сілтемелердің астын сызу">
-<!ENTITY  underlineLinks.accesskey        "с">
+<!ENTITY  underlineLinks.accesskey        "С">
 <!ENTITY  links                           "Сілтеме түсі">
 <!ENTITY  linkColor.label                 "Ашылмаған сілтемелер:">
 <!ENTITY  linkColor.accesskey             "м">

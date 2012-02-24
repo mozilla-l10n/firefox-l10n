@@ -14,15 +14,10 @@
 <!ENTITY manageAccount.accesskey      "к">
 <!ENTITY viewQuota.label              "Квотаны қарау">
 <!ENTITY changePassword2.label        "Парольді өзгерту…">
-<!ENTITY myRecoveryKey.label              "Менің қалпына келтіру кілтім">
+<!ENTITY myRecoveryKey.label          "Менің қалпына келтіру кілтім">
 <!ENTITY resetSync2.label             "Синхрондауды тастау…">
 
-<!ENTITY addDevice.label              "Құрылғыны қосу">
-<!ENTITY unlinkDevice.label           "Бұл құрылғыны өшіру">
-
-<!-- Sync Settings -->
-<!ENTITY syncComputerName.label       "Компьютер аты:">
-<!ENTITY syncComputerName.accesskey   "о">
+<!ENTITY pairDevice.label             "Құрылғыны жұптау">
 
 <!ENTITY syncMy.label               "Нені синхрондау керек">
 <!ENTITY engine.bookmarks.label     "Бетбелгілер">
@@ -35,7 +30,13 @@
 <!ENTITY engine.passwords.accesskey "П">
 <!ENTITY engine.prefs.label         "Баптаулар">
 <!ENTITY engine.prefs.accesskey     "а">
+<!ENTITY engine.addons.label        "Қосымшалар">
+<!ENTITY engine.addons.accesskey    "о">
 
+<!-- Device Settings -->
+<!ENTITY syncComputerName.label       "Компьютер аты:">
+<!ENTITY syncComputerName.accesskey   "о">
+<!ENTITY unlinkDevice.label           "Бұл құрылғыны өшіру">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Қолдану шарттары">

@@ -16,17 +16,18 @@
 <!ENTITY aboutSupport.appBasicsTitle "Қолданба негіздері">
 <!ENTITY aboutSupport.appBasicsName "Аты">
 <!ENTITY aboutSupport.appBasicsVersion "Нұсқасы">
+
 <!ENTITY aboutSupport.appBasicsProfileDir "Профайл бумасы">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Іске қосулы плагиндер">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Жинау баптаулары">
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
-<!ENTITY aboutSupport.appBasicsCrashIDs  "Құлау туралы хабарлар">
+<!ENTITY aboutSupport.appBasicsCrashIDs "Құлау туралы хабарлар">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Жады қолданылуы">
 
 <!ENTITY aboutSupport.show.label "Орналасқан бумасын ашу">
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
-variant of aboutSupport.show.label.  This allows us to use the preferred
+variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
 <!ENTITY aboutSupport.showMac.label "Finder ішінен көрсету">
 
