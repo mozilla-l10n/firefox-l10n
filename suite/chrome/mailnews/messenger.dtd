@@ -269,6 +269,10 @@
 
 <!ENTITY findCmd.label "Søk i denne meldingen …">
 
+<!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
+     This is the key used to show the Lightning quick filter bar. -->
+<!ENTITY quickFilterBar.show.key2 "K">
+
 <!-- Go Menu -->
 
 <!ENTITY goMenu.label "Gå">
@@ -445,7 +449,6 @@
 <!ENTITY deleteButton.label "Slett">
 <!ENTITY undeleteButton.label "Angre sletting">
 <!ENTITY markButton.label "Merk">
-<!ENTITY printButton.label "Skriv ut">
 <!ENTITY stopButton.label "Stopp">
 <!ENTITY junkButton.label "Uønsket">
 <!ENTITY notJunkButton.label "Denne er ønsket">
@@ -469,7 +472,6 @@
 <!ENTITY deleteButton.tooltip "Slett valgt melding eller mappe">
 <!ENTITY undeleteButton.tooltip "Angre sletting av valgt melding">
 <!ENTITY markButton.tooltip "Merk meldinger">
-<!ENTITY printButton.tooltip "Skriv ut denne meldingen">
 <!ENTITY stopButton.tooltip "Stopp denne overføringen">
 <!ENTITY throbber.tooltip "Gå til hjemmesiden til &vendorShortName;">
 <!ENTITY junkButton.tooltip "Merk de valgte meldingene som uønskede">

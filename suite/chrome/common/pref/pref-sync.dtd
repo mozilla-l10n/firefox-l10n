@@ -34,6 +34,8 @@
 <!ENTITY syncComputerName.accesskey   "D">
 
 <!ENTITY syncMy2.label              "Synkroniser:">
+<!ENTITY engine.addons.label        "Utvidelser">
+<!ENTITY engine.addons.accesskey    "U">
 <!ENTITY engine.bookmarks.label     "Bokmerker">
 <!ENTITY engine.bookmarks.accesskey "B">
 <!ENTITY engine.tabs.label          "Faner">
