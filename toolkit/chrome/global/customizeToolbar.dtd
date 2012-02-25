@@ -1,5 +1,5 @@
 <!ENTITY dialog.title "Tööriistariba kohandamine">
-<!ENTITY dialog.style "width: 110ch; height: 36em;">
+<!ENTITY dialog.dimensions "width: 110ch; height: 36em;">
 <!ENTITY instructions.description "Sa saad nuppe lisada või eemaldada neid tööriistaribale või sellelt ära lohistades">
 <!ENTITY show.label "Näita:">
 <!ENTITY iconsAndText.label "Ikoone ja teksti">
