@@ -67,6 +67,26 @@
 <!ENTITY selectAllCmd.key             "A">
 <!ENTITY selectAllCmd.accesskey       "A">
 
+<!ENTITY findCmd.label                "Zoeken…">
+<!ENTITY findCmd.key                  "Z">
+<!ENTITY findCmd.accesskey            "F">
+
+<!ENTITY findAgainCmd.label           "Opnieuw zoeken…">
+<!-- LOCALIZATION NOTE (findAgainCmd.key): This key is used only on Macs.
+  -  Windows and Linux builds use the F3 key which is not localizable on purpose.
+  -->
+<!ENTITY findAgainCmd.key             "G">
+<!ENTITY findAgainCmd.accesskey       "g">
+<!-- LOCALIZATION NOTE (findPreviousCmd.key): This key is used only on Macs.
+  -  Windows and Linux builds use the Shift-F3 key which is not localizable on
+  -  purpose.
+  -->
+<!ENTITY findPreviousCmd.key          "G">
+
+<!ENTITY gotoLineCmd.label            "Spring naar regel…">
+<!ENTITY gotoLineCmd.key              "S">
+<!ENTITY gotoLineCmd.accesskey        "J">
+
 <!ENTITY run.label                    "Uitvoeren">
 <!ENTITY run.accesskey                "U">
 <!ENTITY run.key                      "r">
