@@ -50,7 +50,7 @@
 <!ENTITY rights.webservices-b "Gelişmiş">
 <!ENTITY rights.webservices-c " bölümüne girin ve">
 <!ENTITY rights.webservices-d "Güncelleme">
-<!ENTITY rights.webservices-e " sekmesine geçerek "Güncellemeleri düzenli olarak denetle" seçeneklerinin işaretlerini kaldırın.">
+<!ENTITY rights.webservices-e " sekmesine geçerek &quot;Güncellemeleri düzenli olarak denetle&quot; seçeneklerinin işaretlerini kaldırın.">
 
 <!-- intro paragraph for unbranded builds -->
 <!ENTITY rights.webservices-unbranded "Ürünün içerdiği web sitesi hizmetlerine genel bakış ve varsa devre dışı bırakma yönergeleri buraya eklenmelidir.">
