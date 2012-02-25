@@ -316,7 +316,7 @@
 <!ENTITY event.repeat.until.label "Ripeti fino a">
 <!ENTITY event.recurrence.preview.label "Anteprima">
 <!ENTITY invite.title.label "Invita partecipanti">
-<!ENTITY event.organizer.label "Agenda">
+<!ENTITY event.organizer.label "Organizzatore">
 <!ENTITY event.freebusy.suggest.slot "Suggerisci intervallo di tempo:">
 <!ENTITY event.freebusy.next.slot "Posizione successiva">
 <!ENTITY event.freebusy.previous.slot "Posizione precedente">
