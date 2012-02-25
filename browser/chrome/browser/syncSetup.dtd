@@ -4,8 +4,7 @@
 
 <!ENTITY setup.pickSetupType.description "Willkommen! Wenn Sie &syncBrand.fullName.label; bisher noch nicht genutzt haben, müssen Sie ein neues Benutzerkonto anlegen.">
 <!ENTITY button.createNewAccount.label "Neues Benutzerkonto anlegen">
-<!ENTITY setup.haveAccount.label "Ich habe schon ein &syncBrand.fullName.label;-Benutzerkonto">
-<!ENTITY button.connect.label    "Verbinden">
+<!ENTITY button.haveAccount.label      "Ich habe ein Benutzerkonto">
 
 <!ENTITY setup.choicePage.title.label     "Sind Sie bereits Nutzer von &syncBrand.fullName.label;?">
 <!ENTITY setup.choicePage.new.label       "Ich habe &syncBrand.shortName.label; bisher noch nicht verwendet">
@@ -40,28 +39,26 @@
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 
-<!-- New Account Page 2: Sync Key -->
+<!-- My Recovery Key dialog -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; nimmt Ihre Privatsphäre ernst">
 <!ENTITY setup.newRecoveryKeyPage.description.label "Um den kompletten Schutz Ihrer Daten zu gewährleisten, werden alle Daten verschlüsselt, bevor Sie hochgeladen werden. Der Schlüssel, um Ihre Daten zu entschlüsseln, wird nicht hochgeladen.">
-<!ENTITY newRecoveryKeyPage.label        "Ihr Wiederherstellungs-Schlüssel">
-<!ENTITY newRecoveryKeyPage.accesskey    "S">
+<!ENTITY recoveryKeyEntry.label	        "Ihr Wiederherstellungs-Schlüssel">
+<!ENTITY recoveryKeyEntry.accesskey	    "S">
 <!ENTITY syncGenerateNewKey.label  "Einen neuen Schlüssel generieren">
-<!ENTITY newRecoveryKeyPage.description "Sie benötigen den Wiederherstellungs-Schlüssel, um auf anderen Geräten auf &syncBrand.fullName.label; zuzugreifen. Bitte hinterlegen Sie eine Sicherheitskopie des Schlüssels. Wir können Ihnen nicht dabei helfen, den Wiederherstellungs-Schlüssel wiederzuerlangen.">
+<!ENTITY recoveryKeyBackup.description "Sie benötigen den Wiederherstellungs-Schlüssel, um auf anderen Geräten auf &syncBrand.fullName.label; zuzugreifen. Bitte hinterlegen Sie eine Sicherheitskopie des Schlüssels. Wir können Ihnen nicht dabei helfen, den Wiederherstellungs-Schlüssel wiederzuerlangen.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Drucken…">
 <!ENTITY button.syncKeyBackup.print.accesskey "D">
 <!ENTITY button.syncKeyBackup.save.label      "Speichern…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
 
-<!-- New Account Page 3: Captcha -->
-<!ENTITY setup.captchaPage2.title.label     "Bitte bestätigen Sie, dass Sie kein Roboter sind">
-<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
-<!ENTITY addDevice.title.label              "Gerät hinzufügen">
+<!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
+<!ENTITY pairDevice.title.label             "Gerät verbinden">
 <!ENTITY addDevice.showMeHow.label          "Anleitung.">
 <!ENTITY addDevice.dontHaveDevice.label     "Ich habe das Gerät nicht bei mir">
-<!ENTITY addDevice.setup.description.label  "Zum Aktivieren gehen Sie in die &syncBrand.shortName.label;-Einstellungen auf Ihrem anderen Gerät, und wählen Sie &#x0022;Gerät hinzufügen&#x0022;.">
+<!ENTITY pairDevice.setup.description.label "Zum Aktivieren, wählen Sie &#x0022;Gerät verbinden&#x0022; auf Ihrem anderen Gerät.">
 <!ENTITY addDevice.setup.enterCode.label    "Geben Sie dann folgenden Code ein:">
-<!ENTITY addDevice.dialog.description.label "Um Ihr neues Gerät zu aktivieren, gehen Sie in die &syncBrand.shortName.label;-Einstellungen auf dem Gerät, und wählen Sie &#x0022;Verbinden&#x0022;.">
+<!ENTITY pairDevice.dialog.description.label "Um Ihr neues Gerät zu aktivieren, wählen Sie &#x0022;Verbinden&#x0022; auf dem Gerät.">
 <!ENTITY addDevice.dialog.enterCode.label   "Geben Sie den Code ein, den das Gerät anzeigt:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Bitte versuchen Sie es erneut.">
 <!ENTITY addDevice.dialog.successful.label  "Das Gerät wurde erfolgreich hinzugefügt. Die erste Synchronisation kann mehrere Minuten in Anspruch nehmen und wird im Hintergrund abgeschlossen.">
