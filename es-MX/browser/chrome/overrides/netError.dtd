@@ -23,7 +23,7 @@
   <li>Verifica si el archivo se borró, movió o renombró.</li>
 </ul>
 ">
-<!ENTITY generic.title "¡Chin!.">
+<!ENTITY generic.title "¡Chin!">
 <!ENTITY generic.longDesc "
 <p>&brandShortName; no puede cargar esta página por algúna razón.</p>
 ">
