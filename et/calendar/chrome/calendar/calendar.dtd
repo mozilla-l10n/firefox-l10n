@@ -60,6 +60,7 @@
 <!ENTITY calendar.events.filter.today.label "Tänased sündmused">
 <!ENTITY calendar.events.filter.future.label "Kõik tulevased sündmused">
 <!ENTITY calendar.events.filter.current.label "Valitud päeva sündmused">
+<!ENTITY calender.events.filter.currentview.label "Sündmused aktiivses vaates">
 <!ENTITY calendar.events.filter.next7Days.label "Sündmused lähima 7 päeva jooksul">
 <!ENTITY calendar.events.filter.next14Days.label "Sündmused lähima 14 päeva jooksul">
 <!ENTITY calendar.events.filter.next31Days.label "Sündmused lähima 31 päeva jooksul">
@@ -175,6 +176,10 @@
 <!ENTITY calendar.task.complete.button.tooltip  "Märgi valitud ülesanded tehtuks">
 <!ENTITY calendar.task.priority.button.tooltip  "Muuda prioriteeti">
 
+<!ENTITY calendar.task.text-filter.textbox.emptytext.base            "Filtreeri ülesandeid… #1">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Shift+K&gt;">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
+
 <!-- Statusbar -->
 <!ENTITY statusText.label            "Dokument: valmis">
 
@@ -209,6 +214,8 @@
 <!ENTITY calendar.context.progress.accesskey          "E">
 <!ENTITY calendar.context.priority.label              "Prioriteet">
 <!ENTITY calendar.context.priority.accesskey          "P">
+<!ENTITY calendar.context.postpone.label              "Lükka ülesanne edasi">
+<!ENTITY calendar.context.postpone.accesskey          "L">
 
 <!ENTITY percnt "&#38;#37;" ><!--=percent sign-->
 
@@ -234,6 +241,13 @@
 <!ENTITY priority.level.normal.accesskey    "t">
 <!ENTITY priority.level.high                "kõrge">
 <!ENTITY priority.level.high.accesskey      "k">
+
+<!ENTITY calendar.context.postpone.1hour.label      "1 tund">
+<!ENTITY calendar.context.postpone.1hour.accesskey  "t">
+<!ENTITY calendar.context.postpone.1day.label       "1 päev">
+<!ENTITY calendar.context.postpone.1day.accesskey   "p">
+<!ENTITY calendar.context.postpone.1week.label      "1 nädal">
+<!ENTITY calendar.context.postpone.1week.accesskey  "n">
 
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
@@ -340,7 +354,7 @@
 <!ENTITY calendar.print.title.label                  "Pealkiri:">
 <!ENTITY calendar.print.layout.label                 "Paigutus:">
 <!ENTITY calendar.print.range.label                  "Prinditakse">
-<!ENTITY calendar.print.currentView2.label           "Sündmused aktiivses vaates">
+<!ENTITY calendar.print.currentView2.label           "Aktiivse vaate sündmused">
 <!ENTITY calendar.print.selectedEventsAndTasks.label "Valitud sündmused ja ülesanded">
 <!ENTITY calendar.print.tasks.label                  "Ülesanded">
 <!ENTITY calendar.print.events.label                 "Sündmused">
