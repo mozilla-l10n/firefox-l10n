@@ -91,8 +91,6 @@
 <!ENTITY imagemapBox.label "מיפוי תמונה">
 <!ENTITY removeImageMapButton.label "הסרה">
 <!ENTITY removeImageMapButton.accessKey "ס">
-<!ENTITY editImageMapButton.label "עריכה…">
-<!ENTITY editImageMapButton.tooltip "צור נקודות חמות שניתן ללחוץ עליהן בתמונה זו">
 
 <!-- These are the options for image alignment -->
 <!ENTITY alignment.label "יישור טקסט ביחס לתמונה">
