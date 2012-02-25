@@ -1,11 +1,19 @@
 <!ENTITY feedSubscriptions.label "Sottoscrizioni ai feed">
 <!ENTITY subscriptionDesc.label "Nota: rimuovere o cambiare la cartella per un feed non influenzerà gli articoli già scaricati.">
 <!ENTITY feedTitle.label "Titolo:">
-<!ENTITY location.label "Posizione:">
+<!ENTITY feedTitle.accesskey "T">
+<!ENTITY feedLocation.label "Indirizzo feed:">
+<!ENTITY feedLocation.accesskey "f">
+<!ENTITY feedLocation.placeholder "Inserire un indirizzo feed valido da aggiungere.">
+<!ENTITY feedFolder.label "Memorizza gli articoli in:">
+<!ENTITY feedFolder.accesskey "M">
+<!ENTITY quickMode.label "Mostra il sommario degli articoli invece di caricare tutta la pagina">
+<!ENTITY quickMode.accesskey "r">
+<!ENTITY validateText.label "Controllare la validazione e recuperare un indirizzo valido.">
 <!ENTITY button.addFeed.label "Aggiungi">
 <!ENTITY button.addFeed.accesskey "A">
-<!ENTITY button.editFeed.label "Modifica">
-<!ENTITY button.editFeed.accesskey "M">
+<!ENTITY button.editFeed.label "Aggiorna">
+<!ENTITY button.editFeed.accesskey "o">
 <!ENTITY button.removeFeed.label "Elimina">
 <!ENTITY button.removeFeed.accesskey "E">
 <!ENTITY button.importOPML.label "Importa">
