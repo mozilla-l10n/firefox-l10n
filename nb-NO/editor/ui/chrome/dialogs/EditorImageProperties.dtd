@@ -78,8 +78,6 @@
 <!ENTITY imagemapBox.label "Bildekart">
 <!ENTITY removeImageMapButton.label "Fjern">
 <!ENTITY removeImageMapButton.accessKey "F">
-<!ENTITY editImageMapButton.label "Rediger …">
-<!ENTITY editImageMapButton.tooltip "Lag aktive områder i dette bildet">
 
 <!-- These are the options for image alignment -->
 <!ENTITY alignment.label "Juster tekst etter bilde">

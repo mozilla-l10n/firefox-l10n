@@ -61,13 +61,16 @@
 <!ENTITY defaultPortLabel.label "Standard:">
 <!ENTITY defaultPortValue.label "">
 
-
-<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
+<!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
+     haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
+-->
+<!ENTITY modifyOutgoing.suffix "Du kan endre utgående tjenere i kontoinnstillingene.">
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix "Den nåværende utgående tjeneren (SMTP), «">
-<!ENTITY haveSmtp1.suffix2 "» vil bli brukt. Du kan endre innstillinger for utgående tjener i kontoinnstillingene.">
+<!ENTITY haveSmtp1.suffix3 "» vil bli brukt.">
 
 <!-- Entities for Login page -->
 
@@ -80,18 +83,18 @@
 <!ENTITY usernameSmtpDesc.label "Skriv inn brukernavnet du har fått av e-posttilbyderen din for å sende e-post (dette er vanligvis det samme som innkommende brukernavn).">
 <!ENTITY usernameSmtpLabel.label "Utgående brukernavn">
 <!ENTITY usernameSmtpLabel.accesskey "U">
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Ditt valgte utgående (SMTP) brukernavn, «">
-<!ENTITY haveSmtp2.suffix2 "» vil bli brukt. Du kan endre innstillinger for utgående tjener i kontoinnstillingene.">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
+<!ENTITY haveSmtp2.suffix3 "» vil bli brukt.">
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Den utgående tjeneren (SMTP), «">
-<!ENTITY haveSmtp3.suffix2 "» er identisk til din innkommende tjener, og ditt innkommende brukernavn vil bli brukt for å få tilgang til den. Du kan endre utgående tjener i kontoinnstillingene.">
+<!ENTITY haveSmtp3.suffix3 "» er identisk til din innkommende tjener, og ditt innkommende brukernavn vil bli brukt for å få tilgang til den.">
 
 <!-- Entities for Account name page -->
 

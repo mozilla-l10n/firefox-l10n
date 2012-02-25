@@ -36,5 +36,6 @@
 <!ENTITY policies.label "Tillatelser">
 <!ENTITY mousewheel.label "Musrullehjul">
 <!ENTITY scriptsAndWindows.label "Skript og programtillegg">
+<!ENTITY spellingPane.label  "Stavekontroll">
 
 <!ENTITY focusSearch.key "f">

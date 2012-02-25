@@ -23,10 +23,3 @@
 <!ENTITY languages.customize.moveUp.accesskey           "O">
 <!ENTITY languages.customize.moveDown.label             "Flytt ned">
 <!ENTITY languages.customize.moveDown.accesskey         "N">
-
-<!ENTITY spelling.label                                 "Stavekontroll">
-<!ENTITY checkSpelling.label                            "Når jeg skriver, kontroller staving:">
-<!ENTITY checkSpelling.accesskey                        "N">
-<!ENTITY dontCheckSpelling.label                        "Aldri">
-<!ENTITY multilineCheckSpelling.label                   "I tekstbokser med flere linjer">
-<!ENTITY alwaysCheckSpelling.label                      "I alle tekstbokser">
