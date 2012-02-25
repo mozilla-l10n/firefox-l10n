@@ -1,15 +1,23 @@
 <!ENTITY feedSubscriptions.label "Подписки на ленты новостей">
 <!ENTITY subscriptionDesc.label "Примечание: Удаление или изменение папки ленты новостей не повлияет на ранее загруженные новости.">
 <!ENTITY feedTitle.label "Заголовок:">
-<!ENTITY location.label "Адрес:">
+<!ENTITY feedTitle.accesskey "о">
+<!ENTITY feedLocation.label "Адрес ленты новостей:">
+<!ENTITY feedLocation.accesskey "е">
+<!ENTITY feedLocation.placeholder "Введите корректный адрес ленты новостей">
+<!ENTITY feedFolder.label "Хранить статьи в:">
+<!ENTITY feedFolder.accesskey "н">
+<!ENTITY quickMode.label "Показывать краткое описание статьи вместо загрузки веб-страницы">
+<!ENTITY quickMode.accesskey "а">
+<!ENTITY validateText.label "Проверьте корректность и получите рабочую ссылку.">
 <!ENTITY button.addFeed.label "Добавить">
-<!ENTITY button.addFeed.accesskey "Д">
-<!ENTITY button.editFeed.label "Изменить">
-<!ENTITY button.editFeed.accesskey "И">
+<!ENTITY button.addFeed.accesskey "б">
+<!ENTITY button.editFeed.label "Обновить">
+<!ENTITY button.editFeed.accesskey "в">
 <!ENTITY button.removeFeed.label "Удалить">
-<!ENTITY button.removeFeed.accesskey "У">
+<!ENTITY button.removeFeed.accesskey "д">
 <!ENTITY button.importOPML.label "Импортировать">
-<!ENTITY button.importOPML.accesskey "И">
+<!ENTITY button.importOPML.accesskey "м">
 <!ENTITY button.exportOPML.label "Экспортировать">
-<!ENTITY button.exportOPML.accesskey "Э">
+<!ENTITY button.exportOPML.accesskey "к">
 <!ENTITY cmd.close.commandKey "w">

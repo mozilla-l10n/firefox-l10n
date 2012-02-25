@@ -460,7 +460,11 @@
 <!ENTITY fileButton.label "Поместить">
 <!ENTITY archiveButton.label "Архивировать">
 <!ENTITY nextButton.label "Следующее">
+<!ENTITY nextButtonToolbarItem.label "Следующее непрочитанное">
+<!ENTITY nextMsgButton.label "Следующее">
 <!ENTITY previousButton.label "Предыдущее">
+<!ENTITY previousButtonToolbarItem.label "Предыдущее непрочитанное">
+<!ENTITY previousMsgButton.label "Предыдущее">
 <!ENTITY backButton1.label "Назад">
 <!ENTITY goForwardButton1.label "Вперёд">
 <!ENTITY deleteItem.title "Удалить">
@@ -492,7 +496,9 @@
 <!ENTITY fileButton.tooltip "Поместить выбранное сообщение в нужную папку">
 <!ENTITY archiveButton.tooltip "Архивировать выделенные сообщения">
 <!ENTITY nextButton.tooltip "Перейти к следующему непрочитанному сообщению">
+<!ENTITY nextMsgButton.tooltip "Перейти к следующему сообщению">
 <!ENTITY previousButton.tooltip "Перейти к предыдущему непрочитанному сообщению">
+<!ENTITY previousMsgButton.tooltip "Перейти к предыдущему сообщению">
 <!ENTITY goForwardButton.tooltip "Перейти к следующему сообщению">
 <!ENTITY goBackButton.tooltip "Перейти к предыдущему сообщению">
 <!ENTITY deleteButton.tooltip "Удалить выбранное сообщение или папку">
