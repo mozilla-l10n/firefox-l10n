@@ -503,7 +503,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fileButton.label "Bewaren">
 <!ENTITY archiveButton.label "Archiveren">
 <!ENTITY nextButton.label "Volgende">
+<!ENTITY nextButtonToolbarItem.label "Volgende ongelezen">
+<!ENTITY nextMsgButton.label "Volgende">
 <!ENTITY previousButton.label "Vorige">
+<!ENTITY previousButtonToolbarItem.label "Vorige ongelezen">
+<!ENTITY previousMsgButton.label "Vorige">
 <!ENTITY backButton1.label "Terug">
 <!ENTITY goForwardButton1.label "Vooruit">
 <!ENTITY deleteItem.title "Verwijderen">
@@ -537,7 +541,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fileButton.tooltip "Geselecteerde bericht bewaren">
 <!ENTITY archiveButton.tooltip "Geselecteerde berichten archiveren">
 <!ENTITY nextButton.tooltip "Naar het volgende ongelezen bericht gaan">
+<!ENTITY nextMsgButton.tooltip "Naar het volgende bericht gaan">
 <!ENTITY previousButton.tooltip "Naar het vorige ongelezen bericht gaan">
+<!ENTITY previousMsgButton.tooltip "Naar het vorige bericht gaan">
 <!ENTITY goForwardButton.tooltip "Een bericht vooruit gaan">
 <!ENTITY goBackButton.tooltip "Een bericht terug gaan">
 <!ENTITY deleteButton.tooltip "Geselecteerde bericht of map verwijderen">
