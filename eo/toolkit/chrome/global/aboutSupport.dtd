@@ -21,7 +21,7 @@
 <!ENTITY aboutSupport.appBasicsCrashIDs "Raportoj pri paneoj">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Uzado de memoro">
 
-<!ENTITY aboutSupport.showDir "Malfermi dosierujon">
+<!ENTITY aboutSupport.showDir.label "Malfermi dosierujon">
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
