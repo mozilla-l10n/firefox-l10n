@@ -79,6 +79,7 @@
 <!ENTITY char_encoding "Codificación de caracteres">
 
 <!ENTITY share "Compartir">
+<!ENTITY share_title "Compartir por">
 <!ENTITY save_as_pdf "Gardar como PDF">
 
 <!ENTITY contextmenu_open_new_tab "Abrir nunha nova lapela">
