@@ -60,6 +60,12 @@
 <!ENTITY contentContext.accesskey "C">
 <!ENTITY browserContext.label "Browser">
 <!ENTITY browserContext.accesskey "B">
+<!ENTITY helpMenu.label "Aiuto">
+<!ENTITY helpMenu.accesskey "A">
+<!ENTITY helpMenuWin.label "Aiuto">
+<!ENTITY helpMenuWin.accesskey "A">
+<!ENTITY documentationLink.label "Documentazione su MDN">
+<!ENTITY documentationLink.accesskey "D">
 <!ENTITY resetContext2.label "Reimposta variabili">
 <!ENTITY resetContext2.accesskey "m">
 <!ENTITY executeMenu.label "Esecuzione">
