@@ -503,7 +503,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fileButton.label "Archivo">
 <!ENTITY archiveButton.label "Archivar">
 <!ENTITY nextButton.label "Siguiente">
+<!ENTITY nextButtonToolbarItem.label "Siguiente sin leer">
+<!ENTITY nextMsgButton.label "Siguiente">
 <!ENTITY previousButton.label "Anterior">
+<!ENTITY previousButtonToolbarItem.label "Anterior sin leer">
+<!ENTITY previousMsgButton.label "Anterior">
 <!ENTITY backButton1.label "Atrás">
 <!ENTITY goForwardButton1.label "Adelante">
 <!ENTITY deleteItem.title "Borrar">
@@ -537,7 +541,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fileButton.tooltip "Archivar mensaje seleccionado">
 <!ENTITY archiveButton.tooltip "Archivar mensajes seleccionados">
 <!ENTITY nextButton.tooltip "Ir al siguiente mensaje no leído">
+<!ENTITY nextMsgButton.tooltip "Ir al siguiente mensaje">
 <!ENTITY previousButton.tooltip "Ir al anterior mensaje no leído">
+<!ENTITY previousMsgButton.tooltip "Ir al mensaje anterior">
 <!ENTITY goForwardButton.tooltip "Avanzar un mensaje">
 <!ENTITY goBackButton.tooltip "Retroceder un mensaje">
 <!ENTITY deleteButton.tooltip "Borrar el mensaje o la carpeta seleccionados">
