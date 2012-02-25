@@ -6,7 +6,7 @@
 <!ENTITY fullscreenButton.exitfullscreenlabel "Avslutt fullskjerm">
 
 <!ENTITY stats.media "Media">
-<!ENTITY stats.size "Størrelse">
+<!ENTITY stats.size "Dimensjon">
 <!ENTITY stats.activity "Aktivitet">
 <!ENTITY stats.activityPaused "Pause">
 <!ENTITY stats.activityPlaying "Spiller av">
