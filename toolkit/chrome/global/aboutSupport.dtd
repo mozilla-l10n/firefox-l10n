@@ -16,7 +16,13 @@
 <!ENTITY aboutSupport.appBasicsTitle "Allgemeine Informationen">
 <!ENTITY aboutSupport.appBasicsName "Name">
 <!ENTITY aboutSupport.appBasicsVersion "Version">
-<!ENTITY aboutSupport.appBasicsProfileDir "Profilordner">
+
+<!ENTITY aboutSupport.appBasicsProfileDir "Profilverzeichnis">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Profilordner">
+
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Aktivierte Plugins">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Build-Konfiguration">
 <!ENTITY aboutSupport.appBasicsUserAgent "User-Agent">
@@ -24,7 +30,6 @@
 <!ENTITY aboutSupport.appBasicsMemoryUse "Speicherverwendung">
 
 <!ENTITY aboutSupport.showDir.label "Ordner öffnen">
-
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
@@ -38,6 +43,9 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsValue "Wert">
 
 <!ENTITY aboutSupport.graphicsTitle "Grafik">
+
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "Inkrementelle GC">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Installations-Chronik">
 <!ENTITY aboutSupport.updateHistoryTitle "Update-Chronik">
