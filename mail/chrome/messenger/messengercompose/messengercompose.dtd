@@ -73,6 +73,8 @@
 <!ENTITY editRewrapCmd.accesskey             "T">
 <!ENTITY deleteCmd.label                     "Kustuta">
 <!ENTITY deleteCmd.accesskey                 "u">
+<!ENTITY renameAttachmentCmd.label           "Nimeta manus ümber…">
+<!ENTITY renameAttachmentCmd.accesskey       "e">
 <!ENTITY selectAllCmd.label                  "Vali kõik">
 <!ENTITY selectAllCmd.key                    "A">
 <!ENTITY selectAllCmd.accesskey              "i">

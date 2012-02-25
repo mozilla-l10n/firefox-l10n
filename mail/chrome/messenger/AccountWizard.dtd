@@ -60,13 +60,16 @@
 <!ENTITY defaultPortLabel.label        "Vaikimisi:">
 <!ENTITY defaultPortValue.label        "">
 
-
-<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
+<!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
+     haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
+-->
+<!ENTITY modifyOutgoing.suffix         "Väljuva e-posti servereid saab muuta konto sätete alt.">
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix              "Kasutatakse olemasolevat väljuva e-posti (SMTP) serverit &quot;">
-<!ENTITY haveSmtp1.suffix2             "&quot;. Väljuva e-posti serverite muutmiseks vali menüüst Tööriistad kirje Kontode sätted.">
+<!ENTITY haveSmtp1.suffix3             "&quot;.">
 
 <!-- Entities for Login page -->
 
@@ -79,18 +82,18 @@
 <!ENTITY usernameSmtpDesc.label        "Sisesta teenusepakkuja antud väljuva e-posti serveri kasutajanimi (see ühtib harilikult sinu saabuva e-posti kasutajanimega).">
 <!ENTITY usernameSmtpLabel.label       "Kasutajanimi väljuva e-posti jaoks:">
 <!ENTITY usernameSmtpLabel.accesskey   "V">
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix              "Kasutatakse olemasolevat (SMTP) kasutajanime &quot;">
-<!ENTITY haveSmtp2.suffix2             "&quot;. Väljuva e-posti serverite muutmiseks vali menüüst Tööriistad kirje Kontode sätted.">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
+<!ENTITY haveSmtp2.suffix3             "&quot;.">
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix              "Väljuva e-posti (SMTP) server &quot;">
-<!ENTITY haveSmtp3.suffix2             "&quot; on identne sinu saabuva e-posti serveriga. Sellele ligipääsemiseks kasutatakse sinu saabuva e-posti kasutajanime. Väljuva e-posti serverite muutmiseks vali menüüst Tööriistad kirje Kontode sätted.">
+<!ENTITY haveSmtp3.suffix3             "&quot; on identne sinu saabuva e-posti serveriga. Sellele ligipääsemiseks kasutatakse sinu saabuva e-posti kasutajanime.">
 
 <!-- Entities for Account name page -->
 

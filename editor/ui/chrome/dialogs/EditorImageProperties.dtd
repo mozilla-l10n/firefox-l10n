@@ -78,8 +78,6 @@
 <!ENTITY imagemapBox.label                  "Hüperpilt">
 <!ENTITY removeImageMapButton.label         "Eemalda">
 <!ENTITY removeImageMapButton.accessKey     "E">
-<!ENTITY editImageMapButton.label           "Redigeeri...">
-<!ENTITY editImageMapButton.tooltip         "Tekitab pildil klõpsatava lingiala">
 
 <!-- These are the options for image alignment -->
 <!ENTITY alignment.label                    "Teksti joondus pildi suhtes">

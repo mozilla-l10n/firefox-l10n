@@ -128,6 +128,9 @@
 <!ENTITY copyLinkCmd.label                         "Kopeeri lingi asukoht">
 <!ENTITY copyLinkCmd.accesskey                     "g">
 
-<!ENTITY CopyMessageId.label                       "Kopeeri kirja-ID">
+<!ENTITY CopyMessageId.label                       "Kopeeri kirja ID">
+<!ENTITY CopyMessageId.accesskey                   "K">
 <!ENTITY OpenMessageForMsgId.label                 "Ava kiri ID-ga">
+<!ENTITY OpenMessageForMsgId.accesskey             "A">
 <!ENTITY OpenBrowserWithMsgId.label                "Ava brauser kirja ID-ga">
+<!ENTITY OpenBrowserWithMsgId.accesskey            "v">
