@@ -269,6 +269,10 @@
 
 <!ENTITY findCmd.label "In dieser Nachricht suchen…">
 
+<!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
+     This is the key used to show the Lightning quick filter bar. -->
+<!ENTITY quickFilterBar.show.key2 "K">
+
 <!-- Go Menu -->
 
 <!ENTITY goMenu.label "Gehe">
@@ -445,7 +449,6 @@
 <!ENTITY deleteButton.label "Löschen">
 <!ENTITY undeleteButton.label "Wiederherstellen">
 <!ENTITY markButton.label "Markieren">
-<!ENTITY printButton.label "Drucken">
 <!ENTITY stopButton.label "Stopp">
 <!ENTITY junkButton.label "Junk">
 <!ENTITY notJunkButton.label "Kein Junk">
@@ -469,7 +472,6 @@
 <!ENTITY deleteButton.tooltip "Gewählte Nachricht oder Ordner löschen">
 <!ENTITY undeleteButton.tooltip "Ausgewählte Nachricht wiederherstellen">
 <!ENTITY markButton.tooltip "Markiere Nachrichten">
-<!ENTITY printButton.tooltip "Diese Nachricht drucken">
 <!ENTITY stopButton.tooltip "Aktuelle Übertragung stoppen">
 <!ENTITY throbber.tooltip "&vendorShortName;-Homepage aufrufen">
 <!ENTITY junkButton.tooltip "Die aktuelle Nachricht als Junk markieren">

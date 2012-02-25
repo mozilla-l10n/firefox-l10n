@@ -36,5 +36,6 @@
 <!ENTITY policies.label "Sicherheitsregeln">
 <!ENTITY mousewheel.label "Mausrad">
 <!ENTITY scriptsAndWindows.label "Skripte &amp; Plugins">
+<!ENTITY spellingPane.label  "Rechtschreibung">
 
 <!ENTITY focusSearch.key "f">
