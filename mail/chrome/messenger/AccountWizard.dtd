@@ -88,7 +88,7 @@
      text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Mevcut giden posta (SMTP) kullanıcı adınız &quot;">
-<!ENTITY haveSmtp2.suffix3 "&quot;, kullanılacak.">
+<!ENTITY haveSmtp2.suffix3 "&quot; kullanılacak.">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
