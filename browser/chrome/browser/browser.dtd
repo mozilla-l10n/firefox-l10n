@@ -430,8 +430,8 @@
 <!ENTITY syncBrand.shortName.label "Sync">
 <!ENTITY syncSetup.label "Configurar &syncBrand.shortName.label;...">
 <!ENTITY syncSetup.accesskey "Y">
-<!ENTITY syncSyncNowItem.label "Sync Ahora">
+<!ENTITY syncSyncNowItem.label "Sincronizar Ahora">
 <!ENTITY syncSyncNowItem.accesskey "S">
 <!ENTITY syncToolbarButton.label "Sync">
-<!ENTITY addonBarCloseButton.tooltip "Cerra la barra de complementos">
+<!ENTITY addonBarCloseButton.tooltip "Close Add-on Bar">
 <!ENTITY toggleAddonBarCmd.key "/">
