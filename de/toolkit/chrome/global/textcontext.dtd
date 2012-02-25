@@ -13,6 +13,8 @@
 
 <!ENTITY spellAddToDictionary.label "Zu Benutzerwörterbuch hinzufügen">
 <!ENTITY spellAddToDictionary.accesskey "Z">
+<!ENTITY spellUndoAddToDictionary.label "Wörterbuch-Eintrag zurücknehmen">
+<!ENTITY spellUndoAddToDictionary.accesskey "W">
 <!ENTITY spellCheckEnable.label "Rechtschreibung prüfen">
 <!ENTITY spellCheckEnable.accesskey "R">
 <!ENTITY spellNoSuggestions.label "(Keine Korrekturvorschläge)">
