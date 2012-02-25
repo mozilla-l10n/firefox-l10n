@@ -19,3 +19,5 @@
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "Es ist leicht, Firefox optimal auf Ihre Bedürfnisse anzupassen. <a>Wählen Sie aus Tausenden von Add-ons</a>.">
 
+<!ENTITY abouthome.syncSetup.label   "Sync einrichten">
+<!ENTITY abouthome.pairDevice.label  "Gerät verbinden">

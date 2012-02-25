@@ -90,6 +90,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "a">
 <!ENTITY fullScreenExit.label "Vollbildmodus beenden">
 <!ENTITY fullScreenExit.accesskey "V">
+<!ENTITY domFullScreenWarning.label "Drücken Sie ESC, um den Vollbild-Modus zu verlassen">
 
 <!ENTITY closeWindow.label "Fenster schließen">
 <!ENTITY closeWindow.accesskey "c">
@@ -190,7 +191,6 @@ can reach it easily. -->
 <!ENTITY webConsoleCmd.accesskey      "W">
 <!ENTITY webConsoleCmd.commandkey     "k">
 
-<!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectMenu.label            "Untersuchen">
 <!ENTITY inspectMenu.accesskey        "U">
 <!ENTITY inspectMenu.commandkey       "I">
@@ -213,9 +213,12 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-
-<!ENTITY inspectButton.label          "Untersuchen">
-<!ENTITY inspectButton.accesskey      "U">
+<!ENTITY inspectPanelTitle.label      	"HTML">
+<!ENTITY inspectButton.label          	"Untersuchen">
+<!ENTITY inspectButton.accesskey      	"U">
+<!ENTITY inspectCloseButton.tooltiptext "Inspektor schließen">
+<!ENTITY inspectStyleButton.label     	"Style">
+<!ENTITY inspectStyleButton.accesskey 	"S">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Weitere Tools laden">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "W">
@@ -418,20 +421,38 @@ can reach it easily. -->
 <!ENTITY thisFrameMenu.accesskey          "F">
 
 <!-- Media (video/audio) controls -->
+<!-- LOCALIZATION NOTE: The access keys for "Play" and 
+"Pause" are the same because the two context-menu 
+items are mutually exclusive. -->
 <!ENTITY mediaPlay.label             "Abspielen">
 <!ENTITY mediaPlay.accesskey         "A">
 <!ENTITY mediaPause.label            "Anhalten">
 <!ENTITY mediaPause.accesskey        "A">
+<!-- LOCALIZATION NOTE: The access keys for "Mute" and
+"Unmute" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Ton aus">
 <!ENTITY mediaMute.accesskey         "T">
 <!ENTITY mediaUnmute.label           "Ton an">
 <!ENTITY mediaUnmute.accesskey       "T">
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "Steuerung anzeigen">
 <!ENTITY mediaShowControls.accesskey "S">
 <!ENTITY mediaHideControls.label     "Steuerung ausblenden">
 <!ENTITY mediaHideControls.accesskey "S">
 <!ENTITY videoFullScreen.label       "Vollbild">
 <!ENTITY videoFullScreen.accesskey   "V">
+<!ENTITY videoSaveImage.label        "Bildschirmfoto speichern unter…">
+<!ENTITY videoSaveImage.accesskey    "B">
+<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
+"Hide Statistics" are the same because the two context-menu
+items are mutually exclusive. -->
+<!ENTITY videoShowStats.label        "Statistiken einblenden">
+<!ENTITY videoShowStats.accesskey    "k">
+<!ENTITY videoHideStats.label        "Statistiken ausblenden">
+<!ENTITY videoHideStats.accesskey    "k">
 
 
 <!-- LOCALIZATION NOTE :
