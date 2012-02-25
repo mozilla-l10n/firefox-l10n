@@ -74,30 +74,6 @@
 <!ENTITY lightning.menu.eventtask.label                "Sündmused ja ülesanded">
 <!ENTITY lightning.menu.eventtask.accesskey            "n">
 
-<!-- Mode Toolbar -->
-<!ENTITY lightning.toolbar.mail.label         "E-post">
-<!ENTITY lightning.toolbar.mail.accesskey     "p">
-<!ENTITY lightning.toolbar.calendar.label     "Kalender">
-<!ENTITY lightning.toolbar.calendar.tooltip   "Lülitu kalendri kaardile">
-<!ENTITY lightning.toolbar.calendar.accesskey "K">
-<!ENTITY lightning.toolbar.task.label         "Ülesanded">
-<!ENTITY lightning.toolbar.task.tooltip       "Lülitu ülesannete kaardile">
-<!ENTITY lightning.toolbar.task.accesskey     "Ü">
-
-<!-- Toolbar write button -->
-<!ENTITY lightning.toolbar.newevent.label     "Sündmus">
-<!ENTITY lightning.toolbar.newtask.label      "Ülesanne">
-
-<!-- Messenger Toolbar -->
-<!ENTITY lightning.toolbar.day.label                 "Päev">
-<!ENTITY lightning.toolbar.day.accesskey             "P">
-<!ENTITY lightning.toolbar.week.label                "Nädal">
-<!ENTITY lightning.toolbar.week.accesskey            "N">
-<!ENTITY lightning.toolbar.multiweek.label           "Nädalad">
-<!ENTITY lightning.toolbar.multiweek.accesskey       "ä">
-<!ENTITY lightning.toolbar.month.label               "Kuu">
-<!ENTITY lightning.toolbar.month.accesskey           "K">
-
 <!-- properties dialog, calendar creation wizard -->
 <!ENTITY lightning.calendarproperties.showevents.inagenda.label "Näita sündmusi tänaste tegemiste paneelil">
 <!ENTITY lightning.calendarproperties.showtasks.label           "Näita ülesandeid tänaste tegemiste paneelil ja ülesanderežiimis">

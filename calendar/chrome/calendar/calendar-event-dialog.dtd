@@ -357,8 +357,6 @@
 <!ENTITY event.freebusy.next.slot               "Järgmine aeg " >
 <!ENTITY event.freebusy.previous.slot           " Eelmine aeg" >
 <!ENTITY event.freebusy.zoom                    "Suurendamine/Vähendamine:">
-<!ENTITY event.freebusy.plus                    "Järgmine tund" >
-<!ENTITY event.freebusy.minus                   "Eelmine tund" >
 <!ENTITY event.freebusy.legend.free             "Vaba" >
 <!ENTITY event.freebusy.legend.busy             "Hõivatud" >
 <!ENTITY event.freebusy.legend.busy_tentative   "Pole kindel" >
