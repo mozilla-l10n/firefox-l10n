@@ -39,8 +39,8 @@
 <!ENTITY aboutWarningText.label "Esta página de configuración te permite modificar preferencias avanzadas, cambiar estos valores sin un conocimiento previo puede crear comportamientos no deseados. Te recomendamos no ingresar a menos que estés completamente seguro de lo que vas a hacer.">
 <!ENTITY aboutWarningButton.label "Ingresar">
 <!ENTITY aboutWarningCheckbox.label "Mostrar siempre esta advertencia.">
-<!ENTITY searchPrefs.label "Search:">
-<!ENTITY searchPrefs.accesskey "r">
+<!ENTITY searchPrefs.label "Buscar:">
+<!ENTITY searchPrefs.accesskey "B">
 <!ENTITY focusSearch.key "r">
 <!ENTITY prefColumn.label "Nombre">
 <!ENTITY lockColumn.label "Estado">
