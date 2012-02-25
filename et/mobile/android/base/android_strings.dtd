@@ -40,6 +40,7 @@
 <!ENTITY forward                         "Edasi">
 
 <!ENTITY new_tab                         "Uus kaart">
+<!ENTITY new_tab_opened                  "Avati uus kaart">
 
 <!ENTITY settings                        "Sätted">
 <!ENTITY settings_title                  "Sätted">
