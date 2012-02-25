@@ -23,10 +23,3 @@
 <!ENTITY languages.customize.moveUp.accesskey           "o">
 <!ENTITY languages.customize.moveDown.label             "Nach unten">
 <!ENTITY languages.customize.moveDown.accesskey         "u">
-
-<!ENTITY spelling.label                                 "Rechtschreibung">
-<!ENTITY checkSpelling.label                            "Beim Tippen die Rechtschreibung prüfen:">
-<!ENTITY checkSpelling.accesskey                        "R">
-<!ENTITY dontCheckSpelling.label                        "Nie">
-<!ENTITY multilineCheckSpelling.label                   "In mehrzeiligen Feldern">
-<!ENTITY alwaysCheckSpelling.label                      "Alle Felder">

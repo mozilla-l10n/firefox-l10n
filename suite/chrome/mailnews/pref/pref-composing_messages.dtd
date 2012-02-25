@@ -58,15 +58,6 @@
 <!ENTITY wrapOutMsg.accesskey                 "R">
 <!ENTITY char.label                           "Zeichen umbrechen">
 
-<!ENTITY spellingHeader.label                 "Rechtschreibung">
-<!ENTITY spellCheck.label                     "Rechtschreibung vor dem Senden prüfen">
-<!ENTITY spellCheck.accesskey                 "e">
-<!ENTITY spellCheckInline.label               "Sofort-Rechtschreibprüfung">
-<!ENTITY spellCheckInline.accesskey           "o">
-<!ENTITY languagePopup.label                  "Sprache:">
-<!ENTITY languagePopup.accessKey              "p">
-<!ENTITY moreDictionaries.label               "Weitere Wörterbücher herunterladen…">
-
 <!ENTITY defaultMessagesHeader.label          "Vorgaben für HTML-Nachrichten">
 <!ENTITY font.label                           "Schriftart:">
 <!ENTITY font.accesskey                       "S">

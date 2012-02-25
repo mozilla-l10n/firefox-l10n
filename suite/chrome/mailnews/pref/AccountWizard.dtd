@@ -61,36 +61,40 @@
 <!ENTITY leaveMsgsOnSrvr.label "Nachrichten am Server belassen">
 <!ENTITY leaveMsgsOnSrvr.accesskey "N">
 
-<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
+<!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
+     haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
+-->
+<!ENTITY modifyOutgoing.suffix "Sie können die Einstellungen für ausgehende Server in den Mail &amp; Newsgroup-Account-Einstellungen ändern.">
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix "Ihr exisitierender Server für ausgehende Nachrichten (SMTP), &quot;">
-<!ENTITY haveSmtp1.suffix2 "&quot;, wird verwendet. Sie können die Einstellungen für den ausgehenden Server verändern, indem Sie Mail &amp; Newsgroups-Account-Einstellungen im Bearbeiten-Menü wählen.">
+<!ENTITY haveSmtp1.suffix3 "&quot;, wird verwendet.">
 
 <!-- Entities for Login page -->
 
 <!ENTITY loginTitle.label "Benutzernamen">
-<!ENTITY usernameDesc.label "Geben Sie den Benutzernamen für eingehende Nachrichten an, der Ihnen vom E-Mail-Anbieter gegeben wurde">
+<!ENTITY usernameDesc.label "Geben Sie den Benutzernamen für eingehende Nachrichten an, der Ihnen von E-Mail-Provider gegeben wurde">
 <!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
 <!ENTITY usernameExample.label "(zum Beispiel &quot;hmaier&quot;).">
 <!ENTITY usernameLabel.label "Benutzername für eingehende Nachrichten:">
 <!ENTITY usernameLabel.accesskey "B">
-<!ENTITY usernameSmtpDesc.label "Geben Sie den Benutzernamen für ausgehende Nachrichten an, der Ihnen vom E-Mail-Anbieter gegeben wurde (normalerweise ist das der gleiche wie jener für eingehende Nachrichten).">
+<!ENTITY usernameSmtpDesc.label "Geben Sie den Benutzernamen für ausgehende Nachrichten an, der Ihnen von E-Mail-Provider gegeben wurde (normalerweise ist das der gleiche wie jener für eingehende Nachrichten).">
 <!ENTITY usernameSmtpLabel.label "Benutzername für ausgehende Nachrichten:">
 <!ENTITY usernameSmtpLabel.accesskey "B">
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Ihr exisitierender Benutzername für ausgehende Nachrichten (SMTP), &quot;">
-<!ENTITY haveSmtp2.suffix2 "&quot;, wird verwendet. Sie können die Einstellungen für den ausgehenden Server verändern, indem Sie Mail &amp; Newsgroups-Account-Einstellungen im Bearbeiten-Menü wählen.">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
+<!ENTITY haveSmtp2.suffix3 "&quot;, wird verwendet.">
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Ihr Server für ausgehende Nachrichten (SMTP), &quot;">
-<!ENTITY haveSmtp3.suffix2 "&quot;, ist identisch mit Ihrem Server für eingehende Nachrichten, Ihr Benutzername für den eingehenden Server wird für den Zugriff verwendet. Sie können die Einstellungen für den ausgehenden Server verändern, indem Sie Mail &amp; Newsgroups-Account-Einstellungen im Bearbeiten-Menü wählen.">
+<!ENTITY haveSmtp3.suffix3 "&quot;, ist identisch mit Ihrem eingehenden Server, Ihr Benutzername für den eingehenden Server wird für den Zugriff verwendet.">
 
 <!-- Entities for Account name page -->
 
