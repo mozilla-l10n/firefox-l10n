@@ -23,14 +23,17 @@
 <!ENTITY aboutSupport.appBasicsCrashIDs "Absturzberichte">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Speicherverwendung">
 
-<!ENTITY aboutSupport.show.label "Ordner anzeigen">
+<!ENTITY aboutSupport.showDir.label "Ordner öffnen">
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
-variant of aboutSupport.show.label.  This allows us to use the preferred
+variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
 <!ENTITY aboutSupport.showMac.label "Im Finder anzeigen">
+<!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
+variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin.label "Ordner anzeigen">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "Modifizierte Einstellungen">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Wichtige modifizierte Einstellungen">
 <!ENTITY aboutSupport.modifiedPrefsName "Name">
 <!ENTITY aboutSupport.modifiedPrefsValue "Wert">
 
