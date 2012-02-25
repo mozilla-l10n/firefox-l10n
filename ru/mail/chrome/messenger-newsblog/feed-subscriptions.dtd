@@ -9,7 +9,7 @@
 <!ENTITY feedFolder.accesskey "н">
 <!ENTITY quickMode.label "Показывать краткое описание статьи вместо загрузки веб-страницы">
 <!ENTITY quickMode.accesskey "а">
-<!ENTITY validateText.label "Проверьте корректность и получите рабочую ссылку.">
+<!ENTITY validateText.label "Проверьте корректность и получите корректную ссылку.">
 <!ENTITY button.addFeed.label "Добавить">
 <!ENTITY button.addFeed.accesskey "б">
 <!ENTITY button.editFeed.label "Обновить">
