@@ -1,0 +1,6 @@
+<!-- These strings are used in the about:newtab page -->
+<!ENTITY newtab.pageTitle	"新規タブ">
+
+<!ENTITY newtab.show		"新規タブページを表示">
+<!ENTITY newtab.hide		"新規タブページを閉じる">
+<!ENTITY newtab.reset		"新規タブページをリセット">
