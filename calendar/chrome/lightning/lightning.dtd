@@ -74,30 +74,6 @@
 <!ENTITY lightning.menu.eventtask.label                "Hendelser og oppgaver">
 <!ENTITY lightning.menu.eventtask.accesskey            "n">
 
-<!-- Mode Toolbar -->
-<!ENTITY lightning.toolbar.mail.label         "E-post">
-<!ENTITY lightning.toolbar.mail.accesskey     "E">
-<!ENTITY lightning.toolbar.calendar.label     "Kalender">
-<!ENTITY lightning.toolbar.calendar.tooltip   "Bytt til kalenderfanen">
-<!ENTITY lightning.toolbar.calendar.accesskey "K">
-<!ENTITY lightning.toolbar.task.label         "Oppgaver">
-<!ENTITY lightning.toolbar.task.tooltip       "Bytt til oppgavefanen">
-<!ENTITY lightning.toolbar.task.accesskey     "O">
-
-<!-- Toolbar write button -->
-<!ENTITY lightning.toolbar.newevent.label     "Hendelse">
-<!ENTITY lightning.toolbar.newtask.label      "Oppgave">
-
-<!-- Messenger Toolbar -->
-<!ENTITY lightning.toolbar.day.label                 "Dag">
-<!ENTITY lightning.toolbar.day.accesskey             "D">
-<!ENTITY lightning.toolbar.week.label                "Uke">
-<!ENTITY lightning.toolbar.week.accesskey            "U">
-<!ENTITY lightning.toolbar.multiweek.label           "Flere uker">
-<!ENTITY lightning.toolbar.multiweek.accesskey       "F">
-<!ENTITY lightning.toolbar.month.label               "Måned">
-<!ENTITY lightning.toolbar.month.accesskey           "M">
-
 <!-- properties dialog, calendar creation wizard -->
 <!ENTITY lightning.calendarproperties.showevents.inagenda.label "Vis hendelser i I dag-panelet">
 <!ENTITY lightning.calendarproperties.showtasks.label           "Vis oppgaver i I dag-panelet og Oppgave-panelet">

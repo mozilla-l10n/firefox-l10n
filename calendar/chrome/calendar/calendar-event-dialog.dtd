@@ -360,8 +360,6 @@
 <!ENTITY event.freebusy.next.slot               "Neste tidsluke" >
 <!ENTITY event.freebusy.previous.slot           " Forrige tidsluke" >
 <!ENTITY event.freebusy.zoom                    "Forstørring:">
-<!ENTITY event.freebusy.plus                    "Neste time" >
-<!ENTITY event.freebusy.minus                   "Forrige time" >
 <!ENTITY event.freebusy.legend.free             "Ledig" >
 <!ENTITY event.freebusy.legend.busy             "Opptatt" >
 <!ENTITY event.freebusy.legend.busy_tentative   "Tentativ" >

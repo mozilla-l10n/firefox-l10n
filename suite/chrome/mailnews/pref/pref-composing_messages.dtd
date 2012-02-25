@@ -58,15 +58,6 @@
 <!ENTITY wrapOutMsg.accesskey                 "B">
 <!ENTITY char.label                           "tegn">
 
-<!ENTITY spellingHeader.label                 "Stavekontroll">
-<!ENTITY spellCheck.label                     "Stavekontroller før sending av meldinger">
-<!ENTITY spellCheck.accesskey                 "S">
-<!ENTITY spellCheckInline.label               "Stavekontroller mens du skriver">
-<!ENTITY spellCheckInline.accesskey           "a">
-<!ENTITY languagePopup.label                  "Språk:">
-<!ENTITY languagePopup.accessKey              "S">
-<!ENTITY moreDictionaries.label               "Last ned flere stavekontrollordbøker …">
-
 <!ENTITY defaultMessagesHeader.label          "Forvalg for HTML-meldinger">
 <!ENTITY font.label                           "Skrifttype:">
 <!ENTITY font.accesskey                       "S">
