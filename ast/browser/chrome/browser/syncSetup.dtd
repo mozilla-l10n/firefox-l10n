@@ -11,7 +11,7 @@
 <!ENTITY setup.choicePage.new.label "Non, entá nunca usé &syncBrand.shortName.label; ">
 <!ENTITY setup.choicePage.existing.label "Yá toi usando &syncBrand.shortName.label; n'otru equipu">
 <!ENTITY server.label "Sirvidor">
-<!ENTITY serverType.main.label "Sirvidor de &syncBrand.fullName.label;">
+<!ENTITY serverType.default.label "Predetermináu: Sirvidor de Mozilla &syncBrand.fullName.label;">
 <!ENTITY serverType.custom2.label "Usar un sirvidor personalizáu…">
 <!ENTITY signIn.account2.label "Cuenta">
 <!ENTITY signIn.account2.accesskey "a">
@@ -19,7 +19,6 @@
 <!ENTITY signIn.password.accesskey "C">
 <!ENTITY signIn.recoveryKey.label "Clave de recuperación">
 <!ENTITY signIn.recoveryKey.accesskey "C">
-
 <!ENTITY setup.newAccountDetailsPage.title.label "Detalles de la cuenta">
 <!ENTITY setup.confirmPassword.label "Confirmar contraseña">
 <!ENTITY setup.confirmPassword.accesskey "m">

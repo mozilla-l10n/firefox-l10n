@@ -74,3 +74,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY forwardCmd.accesskey "t">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
+
+<!ENTITY copyLinkCmd.label "Copiar la ruta del enllaz">
+<!ENTITY copyLinkCmd.accesskey "r">
+<!ENTITY copyEmailCmd.label "Copiar direición de corréu-e">
+<!ENTITY copyEmailCmd.accesskey "d">
+
