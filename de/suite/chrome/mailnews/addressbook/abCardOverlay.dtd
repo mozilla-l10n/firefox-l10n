@@ -163,7 +163,7 @@
 <!ENTITY PhotoFile.label                "Auf diesem Computer">
 <!ENTITY PhotoFile.accesskey            "C">
 <!ENTITY BrowsePhoto.label              "Durchsuchen">
-<!ENTITY BrowsePhoto.accesskey          "u">
+<!ENTITY BrowsePhoto.accesskey          "s">
 <!ENTITY PhotoURL.label                 "Im Web">
 <!ENTITY PhotoURL.accesskey             "W">
 <!ENTITY PhotoURL.placeholder           "Fügen Sie die Web-Adresse eines Fotos ein oder geben Sie diese ein">
