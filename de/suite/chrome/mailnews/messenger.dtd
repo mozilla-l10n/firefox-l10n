@@ -152,6 +152,8 @@
 <!ENTITY showMessengerToolbarCmd.accesskey "N">
 <!ENTITY showSearchToolbarCmd.label "Suchleiste">
 <!ENTITY showSearchToolbarCmd.accesskey "S">
+<!ENTITY showTabsToolbarCmd.label "Tabs-Symbolleiste">
+<!ENTITY showTabsToolbarCmd.accesskey "T">
 
 <!ENTITY messagePaneLayoutStyle.label "Layout">
 <!ENTITY messagePaneLayoutStyle.accesskey "L">

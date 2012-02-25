@@ -1,18 +1,31 @@
 <!-- Subscription Dialog -->
-<!ENTITY feedSubscriptions.label "Feed-Abonnements">
-<!ENTITY subscriptionDesc.label "Anmerkung: Den Ordner für einen Feed zu entfernen oder zu ändern hat keinen Einfluss auf zuvor heruntergeladene Artikel.">
-<!ENTITY feedTitle.label "Titel:">
-<!ENTITY location.label  "Adresse:">
+<!ENTITY feedSubscriptions.label     "Feed-Abonnements">
+<!ENTITY subscriptionDesc.label      "Anmerkung: Den Ordner für einen Feed zu entfernen oder zu ändern hat keinen Einfluss auf zuvor heruntergeladene Artikel.">
 
-<!ENTITY button.addFeed.label       "Hinzufügen">
-<!ENTITY button.addFeed.accesskey   "H">
-<!ENTITY button.editFeed.label      "Bearbeiten">
-<!ENTITY button.editFeed.accesskey  "B">
-<!ENTITY button.removeFeed.label "Entfernen">
-<!ENTITY button.removeFeed.accesskey   "E">
-<!ENTITY button.importOPML.label "Importieren">
-<!ENTITY button.importOPML.accesskey   "I">
-<!ENTITY button.exportOPML.label "Exportieren">
-<!ENTITY button.exportOPML.accesskey   "x">
+<!ENTITY feedTitle.label             "Titel:">
+<!ENTITY feedTitle.accesskey         "T">
 
-<!ENTITY cmd.close.commandKey             "w">
+<!ENTITY feedLocation.label          "Feed-URL:">
+<!ENTITY feedLocation.accesskey      "U">
+<!ENTITY feedLocation.placeholder    "Geben Sie eine gültige Feed-URL zum Hinzufügen ein">
+
+<!ENTITY feedFolder.label            "Artikel speichern in:">
+<!ENTITY feedFolder.accesskey        "s">
+
+<!ENTITY quickMode.label             "Die Artikel-Zusammenfassung anzeigen, anstatt die Webseite zu laden">
+<!ENTITY quickMode.accesskey         "Z">
+
+<!ENTITY validateText.label          "Validierung überprüfen und eine gültige URL beziehen.">
+
+<!ENTITY button.addFeed.label        "Hinzufügen">
+<!ENTITY button.addFeed.accesskey    "H">
+<!ENTITY button.editFeed.label       "Aktualisieren">
+<!ENTITY button.editFeed.accesskey   "A">
+<!ENTITY button.removeFeed.label     "Entfernen">
+<!ENTITY button.removeFeed.accesskey "E">
+<!ENTITY button.importOPML.label     "Importieren">
+<!ENTITY button.importOPML.accesskey "I">
+<!ENTITY button.exportOPML.label     "Exportieren">
+<!ENTITY button.exportOPML.accesskey "x">
+
+<!ENTITY cmd.close.commandKey        "w">
