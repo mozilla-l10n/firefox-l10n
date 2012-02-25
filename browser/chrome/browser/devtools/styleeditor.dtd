@@ -1,21 +1,21 @@
-<!ENTITY window.title "Style Editor">
-<!ENTITY newButton.label "New">
+<!ENTITY window.title "Editor de estilos">
+<!ENTITY newButton.label "Nuevo">
 <!ENTITY newButton.tooltip "Create and append a new style sheet to the document">
 <!ENTITY newButton.accesskey "N">
 <!ENTITY newButton.commandkey "n">
-<!ENTITY importButton.label "Import…">
+<!ENTITY importButton.label "Copiar…">
 <!ENTITY importButton.tooltip "Import and append an existing style sheet to the document">
 <!ENTITY importButton.accesskey "I">
 <!ENTITY importButton.commandkey "i">
 <!ENTITY visibilityToggle.tooltip "Toggle style sheet visibility">
 <!ENTITY visibilityToggle.accesskey "V">
-<!ENTITY saveButton.label "Save">
-<!ENTITY saveButton.tooltip "Save this style sheet to a file">
+<!ENTITY saveButton.label "Guardar">
+<!ENTITY saveButton.tooltip "Guardar esta hoja de estilos a un archivo">
 <!ENTITY saveButton.accesskey "S">
 <!ENTITY saveButton.commandkey "s">
 <!ENTITY scoped.label "Scoped.">
-<!ENTITY editorTextbox.placeholder "Type CSS here.">
-<!ENTITY noStyleSheet.label "This page has no style sheet.">
+<!ENTITY editorTextbox.placeholder "Introdice aquí el CSS.">
+<!ENTITY noStyleSheet.label "Esta página no tiene hojas de estilos.">
 <!ENTITY noStyleSheet-tip-start.label "Perhaps you'd like to ">
 <!ENTITY noStyleSheet-tip-action.label "append a new style sheet">
 <!ENTITY noStyleSheet-tip-end.label "?">

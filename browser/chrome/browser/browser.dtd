@@ -165,8 +165,8 @@
 <!ENTITY inspect3DButton.accesskey "M">
 <!ENTITY inspectStyleButton.label "Estilo">
 <!ENTITY inspectStyleButton.accesskey "S">
-<!ENTITY styleeditor.label "Style Editor">
-<!ENTITY styleeditor.accesskey "y">
+<!ENTITY styleeditor.label "Editor de estilos">
+<!ENTITY styleeditor.accesskey "E">
 <!ENTITY styleeditor.keycode "VK_F7">
 <!ENTITY styleeditor.keytext "F7">
 <!ENTITY getMoreDevtoolsCmd.label "Conseguir más herramientas">
@@ -433,5 +433,5 @@
 <!ENTITY syncSyncNowItem.label "Sincronizar Ahora">
 <!ENTITY syncSyncNowItem.accesskey "S">
 <!ENTITY syncToolbarButton.label "Sync">
-<!ENTITY addonBarCloseButton.tooltip "Close Add-on Bar">
+<!ENTITY addonBarCloseButton.tooltip "Cerra la barra de complementos">
 <!ENTITY toggleAddonBarCmd.key "/">
