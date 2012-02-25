@@ -17,7 +17,7 @@
 <!ENTITY retentionCleanup.label "Um Speicherplatz frei zu machen, können alte Nachrichten permanent gelöscht werden.">
 <!ENTITY retentionCleanupImap.label "Um Speicherplatz frei zu machen, können alte Nachrichten permanent gelöscht werden - sowohl die lokalen Kopien als auch ihre Originale am Server.">
 <!ENTITY retentionCleanupPop.label "Um Speicherplatz frei zu machen, können alte Nachrichten permanent gelöscht werden, inklusive ihrer Originale am Server.">
-<!ENTITY retentionKeepMsg.label "Nachrichten löschen, die älter als">
+<!ENTITY retentionKeepMsg.label "Nachrichten löschen, die älter sind als">
 <!ENTITY retentionKeepMsg.accesskey "N">
 <!ENTITY retentionKeepAll.label "Keine Nachrichten löschen">
 <!ENTITY retentionKeepAll.accesskey "K">
