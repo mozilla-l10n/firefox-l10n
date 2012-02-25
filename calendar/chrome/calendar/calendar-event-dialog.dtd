@@ -360,8 +360,6 @@
 <!ENTITY event.freebusy.next.slot               "משבצת הבאה " >
 <!ENTITY event.freebusy.previous.slot           " משבצת קודמת" >
 <!ENTITY event.freebusy.zoom                    "התקרבות:">
-<!ENTITY event.freebusy.plus                    "שעה הבאה" >
-<!ENTITY event.freebusy.minus                   "שעה קודמת" >
 <!ENTITY event.freebusy.legend.free             "פנוי" >
 <!ENTITY event.freebusy.legend.busy             "עסוק" >
 <!ENTITY event.freebusy.legend.busy_tentative   "לא סופי" >
