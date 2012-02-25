@@ -129,5 +129,8 @@
 <!ENTITY copyLinkCmd.accesskey    "K">
 
 <!ENTITY CopyMessageId.label "Kopier meldingsid">
+<!ENTITY CopyMessageId.accesskey "K">
 <!ENTITY OpenMessageForMsgId.label "Åpne melding for ID">
+<!ENTITY OpenMessageForMsgId.accesskey "n">
 <!ENTITY OpenBrowserWithMsgId.label "Åpne nettleser med meldingsid">
+<!ENTITY OpenBrowserWithMsgId.accesskey "e">

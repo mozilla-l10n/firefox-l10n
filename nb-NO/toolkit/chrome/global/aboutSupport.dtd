@@ -1,7 +1,8 @@
 <!ENTITY aboutSupport.pageTitle "Feilsøking">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
-<!ENTITY aboutSupport.pageSubtitle "  Denne siden inneholder teknisk informasjon som kan være nyttig når du
+<!ENTITY aboutSupport.pageSubtitle "
+  Denne siden inneholder teknisk informasjon som kan være nyttig når du
   forsøker å løse et problem. Besøk også <a id='supportLink'>brukerstøttenettstedet</a> for
   å få svar på ofte stilte spørsmål om &brandShortName;.
 ">
@@ -22,14 +23,17 @@
 <!ENTITY aboutSupport.appBasicsCrashIDs "Krasjrapporter">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Minneforbruk">
 
-<!ENTITY aboutSupport.show.label "Åpne profilmappen">
+<!ENTITY aboutSupport.showDir.label "Åpne mappe">
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
-variant of aboutSupport.show.label.  This allows us to use the preferred
+variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
 <!ENTITY aboutSupport.showMac.label "Vis i Finder">
+<!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
+variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin.label "Vis mappe">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "Endrede innstillinger">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Viktige endrede innstillinger">
 <!ENTITY aboutSupport.modifiedPrefsName "Navn">
 <!ENTITY aboutSupport.modifiedPrefsValue "Verdi">
 

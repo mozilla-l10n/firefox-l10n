@@ -16,8 +16,8 @@
 
 <!ENTITY navbarCmd.label "Navigasjonslinje">
 <!ENTITY navbarCmd.accesskey "N">
-<!ENTITY personalbarCmd.label "Personlig verktøylinje">
-<!ENTITY personalbarCmd.accesskey "P">
+<!ENTITY bookmarksToolbarCmd.label     "Bokmerkelinje">
+<!ENTITY bookmarksToolbarCmd.accesskey "B">
 
 <!ENTITY closeWindow.label "Lukk vindu">
 <!ENTITY closeWindow.accesskey "V">
@@ -29,7 +29,7 @@
 <!ENTITY feedsMenu.accesskey "o">
 
 <!ENTITY menuBar.tooltip                  "Menylinje">
-<!ENTITY personalToolbar.tooltip          "Personlig verktøylinje">
+<!ENTITY bookmarksToolbar.tooltip         "Bokmerkelinje">
 <!ENTITY navigationToolbar.tooltip        "Navigasjonsverktøylinje">
 
 <!-- Toolbar items --> 
