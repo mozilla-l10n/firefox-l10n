@@ -79,7 +79,7 @@
 
 <!ENTITY share "Partager">
 <!ENTITY save_as_pdf "Enregistrer en PDF">
-<!ENTITY share_title "Partager à l'aide de">
+<!ENTITY share_title "Partager à l\u0027aide de">
 
 <!ENTITY contextmenu_open_new_tab "Ouvrir dans un nouvel onglet">
 <!ENTITY contextmenu_remove_bookmark "Supprimer">
