@@ -47,7 +47,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY reloadCmd.label "Neu laden">
 <!ENTITY reloadCmd.accesskey "N">
 <!ENTITY reloadCmd.commandkey "r">
-<!ENTITY menu_wrapLongLines.title "Lange Zeilen umbrechen"> 
+<!ENTITY menu_wrapLongLines.title "Lange Zeilen umbrechen">
 <!ENTITY menu_wrapLongLines.accesskey "L">
 <!ENTITY menu_highlightSyntax.label "Syntax-Hervorhebung">
 <!ENTITY menu_highlightSyntax.accesskey "H">
@@ -74,3 +74,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY forwardCmd.accesskey "V">
 <!ENTITY goBackCmd.commandKey "Ö">
 <!ENTITY goForwardCmd.commandKey "Ä">
+
+<!ENTITY copyLinkCmd.label "Link-Adresse kopieren">
+<!ENTITY copyLinkCmd.accesskey "L">
+<!ENTITY copyEmailCmd.label "E-Mail-Addresse kopieren">
+<!ENTITY copyEmailCmd.accesskey "E">
