@@ -23,14 +23,17 @@
 <!ENTITY aboutSupport.appBasicsCrashIDs "Izvještaji o rušenju">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Upotreba memorije">
 
-<!ENTITY aboutSupport.show.label "Otvori sadržajni direktorij">
+<!ENTITY aboutSupport.showDir.label "Otvori direktorij">
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.show.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
 <!ENTITY aboutSupport.showMac.label "Prikaži u Finderu">
+<!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
+variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin.label "Prikaži direktorij">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "Promijenjene postavke">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Važne promijenjene postavke">
 <!ENTITY aboutSupport.modifiedPrefsName "Naziv">
 <!ENTITY aboutSupport.modifiedPrefsValue "Vrijednost">
 

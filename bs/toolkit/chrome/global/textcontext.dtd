@@ -13,6 +13,8 @@
 
 <!ENTITY spellAddToDictionary.label "Dodaj u rječnik">
 <!ENTITY spellAddToDictionary.accesskey "o">
+<!ENTITY spellUndoAddToDictionary.label "Poništi Dodaj u rječnik">
+<!ENTITY spellUndoAddToDictionary.accesskey "n">
 <!ENTITY spellCheckEnable.label "Provjera pravopisa">
 <!ENTITY spellCheckEnable.accesskey "s">
 <!ENTITY spellNoSuggestions.label "(Nema prijedloga u pravopisu)">

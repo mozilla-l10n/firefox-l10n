@@ -4,7 +4,6 @@
 <!ENTITY     props.path.label               "Putanja:">
 <!ENTITY     props.secure.label             "Pošalji za:">
 <!ENTITY     props.expires.label            "Ističe:">
-<!ENTITY     props.policy.label             "Polica:"> 
 
 <!ENTITY     button.allow.label             "Dozvoli">
 <!ENTITY     button.allow.accesskey         "D">
