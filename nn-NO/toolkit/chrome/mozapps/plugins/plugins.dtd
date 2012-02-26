@@ -34,10 +34,10 @@
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "Last sida på nytt">
 <!ENTITY reloadPlugin.post                                   " for å prøve igjen.">
-<!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.checkbox                                     "… og send krasjrapport">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "Send krasjrapport">
 <!ENTITY report.submitting                                   "Sender krasjrapport …">
 <!ENTITY report.submitted                                    "Krasjrapporten er sendt.">
-<!ENTITY report.disabled                                     "Krasjrapportering er slått av.">
+<!ENTITY report.disabled                                     "Krasjrapportering er avslått.">
 <!ENTITY report.failed                                       "Mislykka sending.">
 <!ENTITY report.unavailable                                  "Ingen rapport er tilgjengeleg.">
