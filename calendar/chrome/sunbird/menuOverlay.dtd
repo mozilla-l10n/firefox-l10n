@@ -62,9 +62,9 @@
 <!ENTITY calendar.subscribe.label                          "Abonner på ekstern kalender …">
 <!ENTITY calendar.subscribe.accesskey                      "e">
 
-<!ENTITY calendar.reloadserver.label                       "Oppdater eksterne kalendrar">
-<!ENTITY calendar.reloadserver.key                         "R">
-<!ENTITY calendar.reloadserver.accesskey                   "O">
+<!ENTITY calendar.synccalendars.label                      "Synkroniser kalendrar">
+<!ENTITY calendar.synccalendars.key                        "R">
+<!ENTITY calendar.synccalendars.accesskey                  "S">
 
 <!ENTITY calendar.publish.calendar.label                   "Publiser kalender …">
 <!ENTITY calendar.publish.calendar.accesskey               "b">
