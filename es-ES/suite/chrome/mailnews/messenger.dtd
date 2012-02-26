@@ -103,6 +103,8 @@
 <!ENTITY showMessengerToolbarCmd.accesskey "c">
 <!ENTITY showSearchToolbarCmd.label "Barra de búsqueda">
 <!ENTITY showSearchToolbarCmd.accesskey "b">
+<!ENTITY showTabsToolbarCmd.label "Barra de herramientas de pestañas">
+<!ENTITY showTabsToolbarCmd.accesskey "a">
 <!ENTITY messagePaneLayoutStyle.label "Disposición">
 <!ENTITY messagePaneLayoutStyle.accesskey "D">
 <!ENTITY messagePaneClassic.label "Vista clásica">
