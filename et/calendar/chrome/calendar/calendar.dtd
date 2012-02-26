@@ -50,7 +50,7 @@
 <!ENTITY calendar.newevent.button.tooltip         "Uus sündmus" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Ülesanded" >
-<!ENTITY calendar.unifinder.showcompletedtodos.label "Näita täidetud ülesandeid">
+<!ENTITY calendar.unifinder.showcompletedtodos.label "Näidatakse täidetud ülesandeid">
 
 <!ENTITY calendar.today.button.label       "Täna">
 <!ENTITY calendar.tomorrow.button.label       "Homme">
@@ -121,9 +121,9 @@
 <!ENTITY calendar.multiweek.button.label        "Nädalad" >
 <!ENTITY calendar.onlyworkday.checkbox.label    "Ainult tööpäevad" >
 <!ENTITY calendar.onlyworkday.checkbox.accesskey  "t" >
-<!ENTITY calendar.displaytodos.checkbox.label   "Näita ülesandeid vaates" >
+<!ENTITY calendar.displaytodos.checkbox.label   "Ülesandeid näidatakse vaates" >
 <!ENTITY calendar.displaytodos.checkbox.accesskey "v" >
-<!ENTITY calendar.completedtasks.checkbox.label     "Näita täidetud ülesandeid" >
+<!ENTITY calendar.completedtasks.checkbox.label     "Näidatakse täidetud ülesandeid" >
 <!ENTITY calendar.completedtasks.checkbox.accesskey "ä" >
 
 <!ENTITY calendar.orientation.label "Pööratud vaade" >
@@ -331,9 +331,9 @@
 <!ENTITY calendarproperties.refreshInterval.manual.label  "käsitsi">
 <!ENTITY calendarproperties.name.label                    "Nimi:">
 <!ENTITY calendarproperties.readonly.label                "Kirjutuskaitstud">
-<!ENTITY calendarproperties.firealarms.label              "Näita meeldetuletusi">
+<!ENTITY calendarproperties.firealarms.label              "Meeldetuletute näitamine">
 <!ENTITY calendarproperties.cache2.label                  "Puhverdatud">
-<!ENTITY calendarproperties.enabled.label                 "Lülita kalender sisse">
+<!ENTITY calendarproperties.enabled.label                 "Kalendri sisse lülitamine">
 <!ENTITY calendarproperties.forceDisabled.label           "Sellele kalendrile ei leitud teenusepakkujat. Sageli põhjustab seda mõne lisa keelamine või eemaldamine.">
 <!ENTITY calendarproperties.unsubscribe.label             "Lõpeta tellimine">
 <!ENTITY calendarproperties.unsubscribe.accesskey         "L">
@@ -350,7 +350,7 @@
 <!ENTITY calendar.select.dialog.title    "Vali kalender">
 
 <!-- Calendar Printing -->
-<!ENTITY calendar.print.window.title                 "Prindi kalender">
+<!ENTITY calendar.print.window.title                 "Kalendri printimine">
 <!ENTITY calendar.print.title.label                  "Pealkiri:">
 <!ENTITY calendar.print.layout.label                 "Paigutus:">
 <!ENTITY calendar.print.range.label                  "Prinditakse">

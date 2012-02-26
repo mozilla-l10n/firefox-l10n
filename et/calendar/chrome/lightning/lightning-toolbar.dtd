@@ -34,9 +34,9 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY lightning.toolbar.calendar.name "Kalendri tööriistariba">
+<!ENTITY lightning.toolbar.calendar.name "Kalendririba">
 <!ENTITY lightning.toolbar.calendar.accesskey "K">
-<!ENTITY lightning.toolbar.task.name "Ülesannete tööriistariba">
+<!ENTITY lightning.toolbar.task.name "Ülesanderiba">
 <!ENTITY lightning.toolbar.task.accesskey "Ü">
 
 <!ENTITY lightning.toolbar.sync.label "Sünkroniseeri">
