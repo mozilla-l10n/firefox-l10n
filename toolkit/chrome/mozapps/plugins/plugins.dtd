@@ -34,8 +34,8 @@
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "Birkargatu orria">
 <!ENTITY reloadPlugin.post                                   " berriro saiatzeko.">
-<!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.checkbox                                     "…eta bidali hutsegite-txostena">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "Bidali hutsegite-txostena">
 <!ENTITY report.submitting                                   "Txostena bidaltzen…">
 <!ENTITY report.submitted                                    "Hutsegite-txostena bidali da.">
 <!ENTITY report.disabled                                     "Hutsegiteen berriematea desgaituta.">
