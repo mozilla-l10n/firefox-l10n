@@ -57,3 +57,7 @@
 <!ENTITY forwardCmd.accesskey "S">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY copyLinkCmd.label "Copiar dirección del enlace">
+<!ENTITY copyLinkCmd.accesskey "d">
+<!ENTITY copyEmailCmd.label "Copiar dirección de correo">
+<!ENTITY copyEmailCmd.accesskey "a">
