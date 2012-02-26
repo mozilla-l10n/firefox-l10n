@@ -51,24 +51,24 @@
 
 <!ENTITY pref.weekstarts.label "Nädala esimene päev:">
 <!ENTITY pref.weekstarts.accesskey "s">
-<!ENTITY pref.daysoff.label "Näita töönädala päevadena:">
+<!ENTITY pref.daysoff.label "Töönädala päevadena näidatakse:">
 
 <!ENTITY pref.calendar.view.daystart.label "Päev algab kell:">
 <!ENTITY pref.calendar.view.daystart.accesskey "a">
 <!ENTITY pref.calendar.view.dayend.label "Päev lõpeb kell:">
 <!ENTITY pref.calendar.view.dayend.accesskey "õ">
-<!ENTITY pref.calendar.view.visiblehours.label "Näita:">
+<!ENTITY pref.calendar.view.visiblehours.label "Näidatakse:">
 <!ENTITY pref.calendar.view.visiblehours.accesskey "ä">
 <!ENTITY pref.calendar.view.visiblehoursend.label "tundi korraga">
 
 <!ENTITY pref.numberofweeks.label "Vaikimisi näidatavad nädalad (kaasa arvatud eelnevad):">
 <!ENTITY pref.numberofweeks.accesskey "V">
-<!ENTITY pref.numberofpreviousweeks.label "Näita eelnevaid nädalaid:">
+<!ENTITY pref.numberofpreviousweeks.label "Eelnevaid nädalaid:">
 <!ENTITY pref.numberofpreviousweeks.accesskey "i">
-<!ENTITY pref.numberofweeks.0 "mitte ühtegi">
-<!ENTITY pref.numberofweeks.1 "1 nädal">
-<!ENTITY pref.numberofweeks.2 "2 nädalat">
-<!ENTITY pref.numberofweeks.3 "3 nädalat">
-<!ENTITY pref.numberofweeks.4 "4 nädalat">
-<!ENTITY pref.numberofweeks.5 "5 nädalat">
-<!ENTITY pref.numberofweeks.6 "6 nädalat">
+<!ENTITY pref.numberofweeks.0 "ei näidata">
+<!ENTITY pref.numberofweeks.1 "näidatakse 1">
+<!ENTITY pref.numberofweeks.2 "näidatakse 2">
+<!ENTITY pref.numberofweeks.3 "näidatakse 3">
+<!ENTITY pref.numberofweeks.4 "näidatakse 4">
+<!ENTITY pref.numberofweeks.5 "näidatakse 5">
+<!ENTITY pref.numberofweeks.6 "näidatakse 6">

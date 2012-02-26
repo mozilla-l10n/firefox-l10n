@@ -41,7 +41,7 @@
   -->
 
 <!ENTITY pref.alarmgoesoff.label "Meeldetuletuse korral:">
-<!ENTITY pref.playasound "Mängi heli">
+<!ENTITY pref.playasound "Mängitakse heli">
 <!ENTITY pref.calendar.alarms.playsound.accessKey "g">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "Kasuta vaikimisi heli">
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "h">
@@ -49,9 +49,9 @@
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "V">
 <!ENTITY pref.calendar.alarms.sound.preview.label "Proovi">
 <!ENTITY pref.calendar.alarms.sound.preview.accessKey "P">
-<!ENTITY pref.showalarmbox "Näita meeldetuletuse akent">
+<!ENTITY pref.showalarmbox "Meeldetuletuse akna näitamine">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "a">
-<!ENTITY pref.missedalarms "Näita aegunud meeldetuletusi">
+<!ENTITY pref.missedalarms "Aegunud meeldetuletuste näitamine">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "m">
 <!ENTITY pref.calendar.alarms.defaults.label "Meeldetuletuste vaikimisi sätted">
 <!ENTITY pref.defalarm4events.label "Vaikimisi on sündmuste meeldetuletused:">
