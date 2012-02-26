@@ -1,18 +1,31 @@
 <!-- Subscription Dialog -->
-<!ENTITY feedSubscriptions.label "Feedabonnementen">
-<!ENTITY subscriptionDesc.label "Opmerking: het verwijderen of wijzigen van een feedmap heeft geen invloed op eerder gedownloade artikelen.">
-<!ENTITY feedTitle.label "Titel:">
-<!ENTITY location.label "Locatie:">
+<!ENTITY feedSubscriptions.label     "Feedabonnementen">
+<!ENTITY subscriptionDesc.label      "Opmerking: het verwijderen of wijzigen van een feedmap heeft geen invloed op eerder gedownloade artikelen.">
 
-<!ENTITY button.addFeed.label "Toevoegen">
-<!ENTITY button.addFeed.accesskey "T">
-<!ENTITY button.editFeed.label "Bewerken">
-<!ENTITY button.editFeed.accesskey "w">
-<!ENTITY button.removeFeed.label "Verwijderen">
+<!ENTITY feedTitle.label             "Title:">
+<!ENTITY feedTitle.accesskey         "T">
+
+<!ENTITY feedLocation.label          "Feed-URL:">
+<!ENTITY feedLocation.accesskey      "F">
+<!ENTITY feedLocation.placeholder    "Voer een geldige feed-url in om toe te voegen">
+
+<!ENTITY feedFolder.label            "Artikelen opslaan in:">
+<!ENTITY feedFolder.accesskey        "s">
+
+<!ENTITY quickMode.label             "Artikelsamenvatting weergeven i.p.v. de webpagina laden">
+<!ENTITY quickMode.accesskey         "A">
+
+<!ENTITY validateText.label          "Controleer validatie en haal een geldige url op.">
+
+<!ENTITY button.addFeed.label        "Toevoegen">
+<!ENTITY button.addFeed.accesskey    "T">
+<!ENTITY button.editFeed.label       "Bewerken">
+<!ENTITY button.editFeed.accesskey   "w">
+<!ENTITY button.removeFeed.label     "Verwijderen">
 <!ENTITY button.removeFeed.accesskey "V">
-<!ENTITY button.importOPML.label "Importeren">
+<!ENTITY button.importOPML.label     "Importeren">
 <!ENTITY button.importOPML.accesskey "I">
-<!ENTITY button.exportOPML.label "Exporteren">
-<!ENTITY button.exportOPML.accesskey   "X">
+<!ENTITY button.exportOPML.label     "Exporteren">
+<!ENTITY button.exportOPML.accesskey "X">
 
-<!ENTITY cmd.close.commandKey "w">
+<!ENTITY cmd.close.commandKey        "w">
