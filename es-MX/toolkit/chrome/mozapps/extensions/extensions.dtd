@@ -112,7 +112,7 @@
 <!ENTITY sort.name.tooltip "Ordenar por nombre">
 <!ENTITY sort.dateUpdated.label "Última actualización">
 <!ENTITY sort.dateUpdated.tooltip "Ordenar por fecha de actualización">
-<!ENTITY sort.relevance.label "Mejor partido">
+<!ENTITY sort.relevance.label "Puntuación">
 <!ENTITY sort.relevance.tooltip "Ordenar por relevancia">
 <!ENTITY sort.price.label "Precio">
 <!ENTITY sort.price.tooltip "Ordenar por precio">
