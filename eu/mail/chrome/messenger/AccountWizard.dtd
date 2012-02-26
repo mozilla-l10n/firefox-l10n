@@ -60,14 +60,17 @@
 <!ENTITY portNum.accesskey "A">
 <!ENTITY defaultPortLabel.label "Lehenetsia:">
 <!ENTITY defaultPortValue.label "">
-<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
+<!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
+     haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
 -->
 
-
-<!ENTITY haveSmtp1.prefix "Ezarritako posta bidaltzeko zerbitzaria (SMTP), &quot;">
-<!ENTITY haveSmtp1.suffix2 "&quot;, erabiliko da. Irteerako zerbitzariak kontu-ezarpenetan alda ditzakezu.">
+<!ENTITY modifyOutgoing.suffix "Posta bidaltzeko zerbitzariak kontu-ezarpenetan alda ditzakezu.">
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
+-->
+<!ENTITY haveSmtp1.prefix "Posta bidaltzeko ezarrita dagoen zerbitzaria (SMTP), &quot;">
+<!ENTITY haveSmtp1.suffix3 "&quot;, erabiliko da.">
 <!-- Entities for Login page -->
 
 
@@ -80,18 +83,18 @@
 <!ENTITY usernameSmtpDesc.label "Idatzi zure posta-hornitzaileak emandako posta bidaltzeko erabiltzaile-izena (normalean posta jasotzeko erabiltzailearen berdina izaten da).">
 <!ENTITY usernameSmtpLabel.label "Posta bidaltzeko erabiltzaile-izena:">
 <!ENTITY usernameSmtpLabel.accesskey "o">
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp2.prefix "Posta bidaltzeko (SMTP) erabiltzaile-izena, &quot;">
-<!ENTITY haveSmtp2.suffix2 "&quot;, erabiliko da. Irteerako zerbitzariak kontu-ezarpenetan alda ditzakezu.">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
+<!ENTITY haveSmtp2.prefix "Posta bidaltzeko (SMTP) ezarrita dagoen erabiltzaile-izena, &quot;">
+<!ENTITY haveSmtp2.suffix3 "&quot;, erabiliko da.">
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Posta bidaltzeko zerbitzaria (SMTP), &quot;">
-<!ENTITY haveSmtp3.suffix2 "&quot;, zure sarrerako zerbitzariaren berdina da eta atzitzeko zure sarrerako erabiltzaile-izena erabiliko da. Irteerako zerbitzariak kontu-ezarpenetan alda ditzakezu.">
+<!ENTITY haveSmtp3.suffix3 "&quot;, posta jasotzeko zerbitzariaren berdina da; horko erabiltzaile-izena erabiliko da bertara sartzeko.">
 <!-- Entities for Account name page -->
 
 

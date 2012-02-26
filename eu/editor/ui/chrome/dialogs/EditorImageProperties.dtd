@@ -78,8 +78,6 @@
 <!ENTITY imagemapBox.label "Irudi-mapa">
 <!ENTITY removeImageMapButton.label "Ezabatu">
 <!ENTITY removeImageMapButton.accessKey "E">
-<!ENTITY editImageMapButton.label "Editatu…">
-<!ENTITY editImageMapButton.tooltip "Sortu elkargune klikagarriak irudi honentzat">
 <!-- These are the options for image alignment -->
 
 <!ENTITY alignment.label "Lerrokatu testua irudiarekin">
