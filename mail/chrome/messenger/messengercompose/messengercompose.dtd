@@ -68,11 +68,13 @@
 <!ENTITY pasteCmd.accesskey "s">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY editRewrapCmd.label "Berritzulbiratu">
-<!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "z">
 <!ENTITY deleteCmd.label "Ezabatu">
 <!ENTITY deleteCmd.accesskey "E">
+<!ENTITY editRewrapCmd.label "Berritzulbiratu">
+<!ENTITY editRewrapCmd.key "R">
+<!ENTITY renameAttachmentCmd.label "Berrizendatu eranskina…">
+<!ENTITY renameAttachmentCmd.accesskey "e">
 <!ENTITY selectAllCmd.label "Hautatu dena">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a"> 
