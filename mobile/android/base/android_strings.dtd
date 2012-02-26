@@ -79,6 +79,7 @@
 <!ENTITY char_encoding "Tekenset">
 
 <!ENTITY share "Delen">
+<!ENTITY share_title "Delen via">
 <!ENTITY save_as_pdf "Opslaan als PDF">
 
 <!ENTITY contextmenu_open_new_tab "Openen in nieuw tabblad">
