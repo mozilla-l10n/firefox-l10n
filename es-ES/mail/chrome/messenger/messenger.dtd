@@ -81,7 +81,7 @@
 <!ENTITY deleteFolderCmd.label "Eliminar carpeta">
 <!ENTITY deleteFolderCmd.accesskey "r">
 <!ENTITY unsubscribeNewsgroupCmd.label "Cancelar suscripción">
-<!ENTITY unsubscribeNewsgroupCmd.accesskey "n">
+<!ENTITY unsubscribeNewsgroupCmd.accesskey "u">
 <!ENTITY selectMenu.label "Seleccionar">
 <!ENTITY selectMenu.accesskey "l">
 <!ENTITY all.label "Todos">
@@ -460,7 +460,11 @@
 <!ENTITY fileButton.label "Archivo">
 <!ENTITY archiveButton.label "Archivar">
 <!ENTITY nextButton.label "Siguiente">
+<!ENTITY nextButtonToolbarItem.label "Siguiente no leído">
+<!ENTITY nextMsgButton.label "Siguiente">
 <!ENTITY previousButton.label "Anterior">
+<!ENTITY previousButtonToolbarItem.label "Anterior no leído">
+<!ENTITY previousMsgButton.label "Anterior">
 <!ENTITY backButton1.label "Retroceder">
 <!ENTITY goForwardButton1.label "Avanzar">
 <!ENTITY deleteItem.title "Eliminar">
@@ -492,7 +496,9 @@
 <!ENTITY fileButton.tooltip "Archivar mensaje seleccionado">
 <!ENTITY archiveButton.tooltip "Archivar mensajes seleccionados">
 <!ENTITY nextButton.tooltip "Ir al siguiente mensaje no leído">
+<!ENTITY nextMsgButton.tooltip "Moverse al mensaje siguiente">
 <!ENTITY previousButton.tooltip "Ir al anterior mensaje no leído">
+<!ENTITY previousMsgButton.tooltip "Moverse al mensaje anterior">
 <!ENTITY goForwardButton.tooltip "Ir al mensaje siguiente">
 <!ENTITY goBackButton.tooltip "Ir al mensaje anterior">
 <!ENTITY deleteButton.tooltip "Eliminar el mensaje o la carpeta seleccionados">
