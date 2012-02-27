@@ -360,8 +360,6 @@
 <!ENTITY event.freebusy.next.slot               "Следующий отрезок " >
 <!ENTITY event.freebusy.previous.slot           " Предыдущий отрезок" >
 <!ENTITY event.freebusy.zoom                    "Масштаб:">
-<!ENTITY event.freebusy.plus                    "Следующий час" >
-<!ENTITY event.freebusy.minus                   "Предыдущий час" >
 <!ENTITY event.freebusy.legend.free             "Свободен" >
 <!ENTITY event.freebusy.legend.busy             "Занят" >
 <!ENTITY event.freebusy.legend.busy_tentative   "Неопределено" >
