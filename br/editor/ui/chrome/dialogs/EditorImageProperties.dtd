@@ -78,8 +78,6 @@
 <!ENTITY imagemapBox.label "Kartenn skeudenn">
 <!ENTITY removeImageMapButton.label "Dilemel">
 <!ENTITY removeImageMapButton.accessKey "D">
-<!ENTITY editImageMapButton.label "Embann…">
-<!ENTITY editImageMapButton.tooltip "Krouiñ strolladoù ditouroù klikadus evit ar skeudenn-mañ">
 
 <!-- These are the options for image alignment -->
 <!ENTITY alignment.label "Desteudañ an destenn ouzh ar skeudenn">

@@ -129,5 +129,8 @@
 <!ENTITY copyLinkCmd.accesskey    "c">
 
 <!ENTITY CopyMessageId.label "Eilañ an hennad kemennadenn">
+<!ENTITY CopyMessageId.accesskey "E">
 <!ENTITY OpenMessageForMsgId.label "Digeriñ kemennadenn an hennad">
+<!ENTITY OpenMessageForMsgId.accesskey "h">
 <!ENTITY OpenBrowserWithMsgId.label "Digeriñ ar merdeer evit an hennad kemennadenn">
+<!ENTITY OpenBrowserWithMsgId.accesskey "m">

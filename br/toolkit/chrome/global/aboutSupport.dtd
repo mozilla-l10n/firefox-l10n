@@ -19,14 +19,17 @@
 <!ENTITY aboutSupport.appBasicsCrashIDs "Danevelloù sac'hadenn">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Arver ar vemor">
 
-<!ENTITY aboutSupport.show.label "Digeriñ teuliad an arload">
+<!ENTITY aboutSupport.showDir.label "Digeriñ ar c'havlec'h">
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
-variant of aboutSupport.show.label.  This allows us to use the preferred
+variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
 <!ENTITY aboutSupport.showMac.label "Diskouez e-barzh Finder">
+<!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
+variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin.label "Diskouez an teuliad">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "Gwellvezioù kemmet">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Gwellvezioù pouezus kemmet">
 <!ENTITY aboutSupport.modifiedPrefsName "Anv">
 <!ENTITY aboutSupport.modifiedPrefsValue "Talvoud">
 

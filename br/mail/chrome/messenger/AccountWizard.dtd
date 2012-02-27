@@ -61,13 +61,16 @@
 <!ENTITY defaultPortLabel.label "Diouer :">
 <!ENTITY defaultPortValue.label "">
 
-
-<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
+<!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
+     haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
+-->
+<!ENTITY modifyOutgoing.suffix "Daskemmet e vez an dafariadoù kas dre arventennoù kont.">
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix "Ho tafariad kas red (SMTP), &quot;">
-<!ENTITY haveSmtp1.suffix2 "&quot;, a vo arveret. Daskemmet e vez an dafariad kas dre arventennoù kont.">
+<!ENTITY haveSmtp1.suffix3 "&quot;, a vo arveret.">
 
 <!-- Entities for Login page -->
 
@@ -85,13 +88,13 @@
      text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Hoc'h anv arveriad-kas bremanel (SMTP), &quot;">
-<!ENTITY haveSmtp2.suffix2 "&quot;, a vo arveret. Daskemmet e vez an dafariad kas dre arventennoù kont.">
+<!ENTITY haveSmtp2.suffix3 "&quot;, a vo arveret.">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Peurheñvel eo ho tafariad kas (SMTP), &quot;">
-<!ENTITY haveSmtp3.suffix2 "&quot;, ouzh ho tafariad da zont tre. Arveret e vo anv arveriad ho tafariad da zont tre evit haeziñ eñ. Daskemmet e vez an dafariad kas dre arventennoù kont.">
+<!ENTITY haveSmtp3.suffix3 "&quot;, ouzh ho tafariad da zont tre. Arveret e vo anv arveriad ho tafariad da zont tre evit haeziñ eñ.">
 
 <!-- Entities for Account name page -->
 

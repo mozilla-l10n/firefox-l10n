@@ -4,7 +4,6 @@
 <!ENTITY     props.path.label               "Treug :">
 <!ENTITY     props.secure.label             "Kaset evit :">
 <!ENTITY     props.expires.label            "Echuiñ a ra :">
-<!ENTITY     props.policy.label             "Buhez prevez :"> 
 
 <!ENTITY     button.allow.label             "Aotren">
 <!ENTITY     button.allow.accesskey         "A">

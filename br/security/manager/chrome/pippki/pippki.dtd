@@ -72,12 +72,12 @@
 <!ENTITY downloadCert.message1 "Goulennet ez eus bet diganeoc'h kaout fiziañs en un aotrouniezh testeniañ nevez.">
 <!ENTITY downloadCert.trustSSL "Kaout fiziañ en aotrouniezh testeniañ-mañ evit anaout al lec'hiennoù web.">
 <!ENTITY downloadCert.trustEmail "Kaout fiziañ en aotrouniezh testeniañ-mañ evit anaout arveriaded posteloù.">
-<!ENTITY downloadCert.trustObjSign "Kaout fiziañ en aotrouniezh testeniañ evit anaout an diorrenourion veziantoù.">
+<!ENTITY downloadCert.trustObjSign "Kaout fiziañ en aotrouniezh testeniañ evit anaout an diorroerien veziantoù.">
 <!ENTITY downloadCert.message3 "A-raok kaout fiziañs en aotrouniezh testeniañ-mañ evit ne vern pe bal e vefe gwell deoc'h sellout ouzh he zesteni, he buhez prevez hag hec'h araezadurioù (mar hegerz).">
 <!ENTITY downloadCert.viewCert.label "Gwelout">
 <!ENTITY downloadCert.viewPolicy.label "Buhez prevez">
 <!ENTITY downloadCert.viewCert.text "Sellout ouzh testeni an aotrouniezh testeniañ ">
-<!ENTITY downloadCert.viewPolicy.text "Sellout a ra ouzh argerzhioù ha buhezhioù prevez an aotrouniezh testeniañ">
+<!ENTITY downloadCert.viewPolicy.text "Sellout a ra ouzh argerzhioù ha buhezioù prevez an aotrouniezh testeniañ">
 
 <!-- Certificate Exists in database -->
 <!ENTITY caCertExists.title "An testeni zo anezhañ">

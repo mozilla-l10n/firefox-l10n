@@ -13,6 +13,8 @@
 
 <!ENTITY spellAddToDictionary.label "Ouzhpennañ d'ar geriadur">
 <!ENTITY spellAddToDictionary.accesskey "r">
+<!ENTITY spellUndoAddToDictionary.label "Nullañ an ouzhpennañ d'ar geriadur">
+<!ENTITY spellUndoAddToDictionary.accesskey "N">
 <!ENTITY spellCheckEnable.label "Gwiriañ ar reizhskrivadur">
 <!ENTITY spellCheckEnable.accesskey "s">
 <!ENTITY spellNoSuggestions.label "(Kinnig reizhskrivañ ebet)">

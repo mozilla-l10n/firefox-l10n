@@ -117,7 +117,7 @@
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Handelv">
 <!ENTITY detail.lastupdated.label             "Hizivadur diwezhañ">
-<!ENTITY detail.creator.label                 "Diorrenour">
+<!ENTITY detail.creator.label                 "Diorroer">
 <!ENTITY detail.homepage.label                "Pennbajenn">
 <!ENTITY detail.numberOfDownloads.label       "Pellgargadurioù">
 

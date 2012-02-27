@@ -73,6 +73,8 @@
 <!ENTITY editRewrapCmd.accesskey "t">
 <!ENTITY deleteCmd.label "Dilemel">
 <!ENTITY deleteCmd.accesskey "D">
+<!ENTITY renameAttachmentCmd.label "Adenvel ar c'henstagadur…">
+<!ENTITY renameAttachmentCmd.accesskey "e">
 <!ENTITY selectAllCmd.label "Diuzañ pep tra">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a"> 

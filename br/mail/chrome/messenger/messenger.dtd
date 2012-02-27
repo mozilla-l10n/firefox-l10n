@@ -332,6 +332,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY thisFolder.label "An teuliad-mañ">
 <!ENTITY thisFolder.accesskey "m">
 <!ENTITY goRecentlyClosedTabs.label "Ivinelloù serret nevez zo">
+<!ENTITY goRecentlyClosedTabs.accesskey "n">
 <!ENTITY startPageCmd.label "Pajennad deroù ar posteloù">
 <!ENTITY startPageCmd.accesskey "s">
 

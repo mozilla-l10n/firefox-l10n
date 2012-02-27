@@ -176,11 +176,11 @@ can reach it easily. -->
 <!ENTITY downloads.accesskey          "d">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
-<!ENTITY addons.label                 "Enlugelladoù">
+<!ENTITY addons.label                 "Askouezhioù">
 <!ENTITY addons.accesskey             "a">
 <!ENTITY addons.commandkey            "A">
 
-<!ENTITY webDeveloperMenu.label       "Diorrenour web">
+<!ENTITY webDeveloperMenu.label       "Diorroer web">
 <!ENTITY webDeveloperMenu.accesskey   "w">
 
 <!ENTITY errorConsoleCmd.label        "Penel ar fazioù">
@@ -191,12 +191,12 @@ can reach it easily. -->
 <!ENTITY webConsoleCmd.accesskey      "w">
 <!ENTITY webConsoleCmd.commandkey     "k">
 
-<!ENTITY inspectMenu.label            "Imbourc'hiñ">
-<!ENTITY inspectMenu.accesskey        "I">
+<!ENTITY inspectMenu.label            "Ensellout">
+<!ENTITY inspectMenu.accesskey        "E">
 <!ENTITY inspectMenu.commandkey       "I">
 
-<!ENTITY inspectContextMenu.label     "Imbourc'hiñ an elfenn">
-<!ENTITY inspectContextMenu.accesskey "I">
+<!ENTITY inspectContextMenu.label     "Ensellout an elfenn">
+<!ENTITY inspectContextMenu.accesskey "E">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
@@ -214,11 +214,16 @@ can reach it easily. -->
 <!ENTITY scratchpad.keytext           "F4">
 
 <!ENTITY inspectPanelTitle.label        "HTML">
-<!ENTITY inspectButton.label            "Imbourc'hiñ">
-<!ENTITY inspectButton.accesskey        "I">
-<!ENTITY inspectCloseButton.tooltiptext "Serriñ an imbourc'her">
-<!ENTITY inspect3DButton.label        "3D">
-<!ENTITY inspect3DButton.accesskey    "D">
+<!ENTITY inspectButton.label            "Ensellout">
+<!ENTITY inspectButton.accesskey        "E">
+<!ENTITY inspectCloseButton.tooltiptext "Serriñ an enseller">
+
+<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
+  -  alternate view for the Inspector, creating a 3D visualization of the
+  -  webpage. -->
+<!ENTITY inspect3DViewButton.label     "Gwel 3D">
+<!ENTITY inspect3DViewButton.accesskey "w">
+
 <!ENTITY inspectStyleButton.label     "Stil">
 <!ENTITY inspectStyleButton.accesskey "S">
 
@@ -306,7 +311,7 @@ can reach it easily. -->
 <!ENTITY appMenuSidebars.label "Barrennoù kostez">
 <!ENTITY appMenuFind.label "Klask…">
 <!ENTITY appMenuUnsorted.label "Sinedoù dirummet">
-<!ENTITY appMenuWebDeveloper.label "Diorrenour web">
+<!ENTITY appMenuWebDeveloper.label "Diorroer web">
 <!ENTITY appMenuGettingStarted.label "Deraouiñ">
 <!ENTITY appMenuSafeMode.label "Adloc'hañ gant an askouezhioù diweredekaet…">
 <!ENTITY appMenuSafeMode.accesskey "r">

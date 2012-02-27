@@ -1,0 +1,6 @@
+<!-- These strings are used in the about:newtab page -->
+<!ENTITY newtab.pageTitle "Ivinell nevez">
+
+<!ENTITY newtab.show "Diskouez ar bajenn « Ivinell nevez »">
+<!ENTITY newtab.hide "Kuzhat ar bajenn « Ivinell nevez »">
+<!ENTITY newtab.reset "Adderaouekaat ar bajenn « Ivinell nevez »">
