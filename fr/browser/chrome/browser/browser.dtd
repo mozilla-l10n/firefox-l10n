@@ -216,6 +216,15 @@ can reach it easily. -->
 <!ENTITY inspectButton.accesskey        "E">
 <!ENTITY inspectCloseButton.tooltiptext "Fermer l'inspecteur">
 
+<!ENTITY inspectorHTMLCopyInner.label       "Copier innerHTML">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "C">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "Copier outerHTML">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "o">
+
+<!ENTITY inspectorHTMLDelete.label          "Supprimer le nœud">
+<!ENTITY inspectorHTMLDelete.accesskey      "S">
+
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
   -  alternate view for the Inspector, creating a 3D visualization of the
   -  webpage. -->
