@@ -252,8 +252,8 @@
 <!ENTITY calendar.context.findcalendar.accesskey       "а" >
 <!ENTITY calendar.context.deleteserver.label           "Удалить календарь">
 <!ENTITY calendar.context.deleteserver.accesskey       "У">
-<!ENTITY calendar.context.reloadserver.label           "Обновить удалённые календари">
-<!ENTITY calendar.context.reloadserver.accesskey       "О">
+<!ENTITY calendar.context.synccalendars.label          "Синхронизировать календари">
+<!ENTITY calendar.context.synccalendars.accesskey      "и">
 <!ENTITY calendar.context.publish.label                "Опубликовать календарь…">
 <!ENTITY calendar.context.publish.accesskey            "к">
 <!ENTITY calendar.context.export.label                 "Экспортировать календарь…">
