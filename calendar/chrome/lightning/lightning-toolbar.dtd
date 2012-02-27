@@ -11,15 +11,14 @@
    - for the specific language governing rights and limitations under the
    - License.
    -
-   - The Original Code is Mozilla Calendar Preferences
+   - The Original Code is Mozilla Calendar code.
    -
    - The Initial Developer of the Original Code is
-   - Matthew Willis
-   - Portions created by the Initial Developer are Copyright (C) 2006
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   - Portions created by the Initial Developer are Copyright (C) 2011
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   Cédric Corazza <cedric.corazza@wanadoo.fr>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -35,21 +34,9 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!-- WARNING! This file contains UTF-8 encoded characters!
-   - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
-   - your editor isn't using UTF-8 encoding and may munge up the document!
-  -->
+<!ENTITY lightning.toolbar.calendar.name "Панель календаря">
+<!ENTITY lightning.toolbar.calendar.accesskey "к">
+<!ENTITY lightning.toolbar.task.name "Панель задач">
+<!ENTITY lightning.toolbar.task.accesskey "з">
 
-<!ENTITY pref.mainbox.label "Основные настройки" >
-<!ENTITY pref.dateformat.label "Формат даты:" >
-<!ENTITY pref.dateformat.accesskey "Ф">
-<!ENTITY pref.dateformat.long "Полный" >
-<!ENTITY pref.dateformat.short "Краткий"  >
-<!ENTITY pref.defaultlength.label "По умолчанию продолжительность события:" >
-<!ENTITY pref.defaultlength.accesskey "П">
-<!ENTITY pref.defaultsnoozelength.label "По умолчанию откладывать оповещение на:" >
-<!ENTITY pref.defaultsnoozelength.accesskey "о">
-
-<!ENTITY pref.accessibility.label "Общедоступность" >
-<!ENTITY pref.systemcolors.label "Оптимизировать цвета для людей с ограниченными возможностями" >
-<!ENTITY pref.systemcolors.accesskey "п">
+<!ENTITY lightning.toolbar.sync.label "Синхронизация">
