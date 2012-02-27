@@ -1,0 +1,8 @@
+<!ENTITY aboutAddons.title                      "Utvidingshandsaming">
+<!ENTITY aboutAddons.header2                    "Dine utvidingar">
+<!ENTITY aboutAddons.options                    "Innstillingar">
+
+<!ENTITY addonAction.enable                     "Påslått">
+<!ENTITY addonAction.disable                    "Avslått">
+<!ENTITY addonAction.uninstall                  "Avinstaller">
+<!ENTITY addonAction.cancel                     "Avbryt">

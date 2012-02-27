@@ -1,12 +1,3 @@
-<!ENTITY empty.label            "Søk">
-<!ENTITY newpref.label          "Legg til ei ny innstilling">
-<!ENTITY addpref.name           "Namn">
-<!ENTITY addpref.value          "Verdi">
-
-<!ENTITY cancel.label           "Avbryt">
-<!ENTITY reset.label            "Tilbakestill">
-<!ENTITY done.label             "Ferdig">
-
-<!ENTITY integer.label          "Tal">
-<!ENTITY string.label           "Tekst">
-<!ENTITY boolean.label          "Boolsk">
+<!ENTITY search.placeholder2    "Søkjeinnstillingar">
+<!ENTITY clear.altText          "Tøm">
+<!ENTITY newpref.label2         "Legg til ny innstilling">
