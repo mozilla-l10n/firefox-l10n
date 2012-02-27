@@ -74,28 +74,6 @@
 <!ENTITY lightning.menu.eventtask.label                "События и задачи">
 <!ENTITY lightning.menu.eventtask.accesskey            "и">
 
-<!-- Mode Toolbar -->
-<!ENTITY lightning.toolbar.mail.label         "Почта">
-<!ENTITY lightning.toolbar.mail.accesskey     "П">
-<!ENTITY lightning.toolbar.calendar.label     "Календарь">
-<!ENTITY lightning.toolbar.calendar.accesskey "К">
-<!ENTITY lightning.toolbar.task.label         "Задачи">
-<!ENTITY lightning.toolbar.task.accesskey     "З">
-
-<!-- Toolbar write button -->
-<!ENTITY lightning.toolbar.newevent.label     "Событие">
-<!ENTITY lightning.toolbar.newtask.label      "Задача">
-
-<!-- Messenger Toolbar -->
-<!ENTITY lightning.toolbar.day.label                 "День">
-<!ENTITY lightning.toolbar.day.accesskey             "Д">
-<!ENTITY lightning.toolbar.week.label                "Неделя">
-<!ENTITY lightning.toolbar.week.accesskey            "Н">
-<!ENTITY lightning.toolbar.multiweek.label           "По неделям">
-<!ENTITY lightning.toolbar.multiweek.accesskey       "П">
-<!ENTITY lightning.toolbar.month.label               "Месяц">
-<!ENTITY lightning.toolbar.month.accesskey           "М">
-
 <!-- properties dialog, calendar creation wizard -->
 <!ENTITY lightning.calendarproperties.showevents.inagenda.label "Показывать события в Мероприятиях">
 <!ENTITY lightning.calendarproperties.showtasks.label           "Показывать задачи в Мероприятиях и в режиме Задачи">
