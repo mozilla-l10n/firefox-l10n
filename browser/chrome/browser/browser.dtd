@@ -212,7 +212,6 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectPanelTitle.label        "HTML">
 <!ENTITY inspectButton.label            "Examiner">
 <!ENTITY inspectButton.accesskey        "E">
 <!ENTITY inspectCloseButton.tooltiptext "Fermer l'inspecteur">
