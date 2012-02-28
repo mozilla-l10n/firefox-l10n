@@ -723,9 +723,9 @@
 
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key                 "k">
-<!ENTITY searchAllMessages.label.base       "Wyszukiwanie wiadomości… #1">
-<!ENTITY searchAllMessages.keyLabel2.nonmac "&lt;Ctrl+K&gt;">
-<!ENTITY searchAllMessages.keyLabel2.mac    "&lt;&#x2318;K&gt;">
+<!ENTITY search.label.base "Szukaj… #1">
+<!ENTITY search.keyLabel.nonmac "&lt;Ctrl+K&gt;">
+<!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label             "Dodaj adres do książki adresowej">
