@@ -40,3 +40,31 @@
 <!ENTITY lightning.toolbar.task.accesskey "s">
 
 <!ENTITY lightning.toolbar.sync.label "Sioncronaich">
+<!ENTITY lightning.toolbar.delete.label "Sguab às">
+<!ENTITY lightning.toolbar.edit.label "Deasaich">
+<!ENTITY lightning.toolbar.gototoday.label "Rach gu an-diugh">
+<!ENTITY lightning.toolbar.print.label "Clò-bhuail">
+
+<!-- Mode Toolbar -->
+<!ENTITY lightning.toolbar.mail.label         "Post">
+<!ENTITY lightning.toolbar.mail.accesskey     "P">
+<!ENTITY lightning.toolbar.calendar.label     "Mìosachan">
+<!ENTITY lightning.toolbar.calendar.tooltip   "Leum gu taba a' mhìosachain">
+<!ENTITY lightning.toolbar.calendar.accesskey "m">
+<!ENTITY lightning.toolbar.task.label         "Saothraichean">
+<!ENTITY lightning.toolbar.task.tooltip       "Leum gu taba nan saothraichean">
+<!ENTITY lightning.toolbar.task.accesskey     "L">
+
+<!-- Toolbar write button -->
+<!ENTITY lightning.toolbar.newevent.label     "Tachartas">
+<!ENTITY lightning.toolbar.newtask.label      "Saothair">
+
+<!-- Messenger Toolbar -->
+<!ENTITY lightning.toolbar.day.label                 "Latha">
+<!ENTITY lightning.toolbar.day.accesskey             "L">
+<!ENTITY lightning.toolbar.week.label                "Seachdain">
+<!ENTITY lightning.toolbar.week.accesskey            "S">
+<!ENTITY lightning.toolbar.multiweek.label           "Iomadh s.">
+<!ENTITY lightning.toolbar.multiweek.accesskey       "I">
+<!ENTITY lightning.toolbar.month.label               "Mìos">
+<!ENTITY lightning.toolbar.month.accesskey           "M">

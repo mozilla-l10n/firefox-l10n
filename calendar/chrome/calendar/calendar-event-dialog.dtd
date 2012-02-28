@@ -360,8 +360,6 @@
 <!ENTITY event.freebusy.next.slot               "An ath-shlot " >
 <!ENTITY event.freebusy.previous.slot           " An slot roimhe" >
 <!ENTITY event.freebusy.zoom                    "Sùm:">
-<!ENTITY event.freebusy.plus                    "An ath-uair a thìde" >
-<!ENTITY event.freebusy.minus                   "An uair a thìde seo chaidh" >
 <!ENTITY event.freebusy.legend.free             "Saor" >
 <!ENTITY event.freebusy.legend.busy             "Trang" >
 <!ENTITY event.freebusy.legend.busy_tentative   "An dòchas" >
