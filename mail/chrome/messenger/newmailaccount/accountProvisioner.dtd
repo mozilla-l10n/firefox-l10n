@@ -1,5 +1,5 @@
 <!ENTITY window.title                  "Tere tulemast &brandShortName;i">
-<!ENTITY header.label                  "Soovid &brandShortName;i jaoks uut e-posti aadressi?">
+<!ENTITY header.label                  "Kas soovid uut e-posti aadressi?">
 <!ENTITY other.languages               "Kuvatud on ainult need teenusepakkujad, kes pakuvad aadressi sinu piirkonnas.  Kõigi teenusepakkujate nägemiseks klõpsa siia.">
 <!ENTITY error.line1                   "Vabandame, ühtegi soovitatavat e-posti aadressi ei leitud.">
 <!ENTITY error.line2                   "Sa võid proovida otsida hüüdnime või midagi muud, et leida rohkem aadresse.">
