@@ -15,7 +15,7 @@
 #
 -->
 <!ENTITY window.title "ברוך בואך ל־&brandShortName;">
-<!ENTITY header.label "האם תרצה כתובת דואר חדשה עבור &brandShortName;?">
+<!ENTITY header.label "האם ברצונך בכתובת דואר חדשה?">
 <!ENTITY other.languages "אנו מציגים אך ורק ספקים המציעים כתובות באזור שלך. יש ללחוץ כאן כדי להציג את כל הספקים.">
 <!ENTITY error.line1 "מצטערים, לא מצאנו אף כתובת דוא״ל להציע.">
 <!ENTITY error.line2 "אתה יכול לחפש כינויים או מונחים אחרים כדי למצוא עוד כתובות דוא״ל">
