@@ -255,8 +255,8 @@
 <!ENTITY calendar.context.findcalendar.accesskey       "З" >
 <!ENTITY calendar.context.deleteserver.label           "Вилучити календар">
 <!ENTITY calendar.context.deleteserver.accesskey       "В">
-<!ENTITY calendar.context.reloadserver.label           "Перевантажити віддалені календарі">
-<!ENTITY calendar.context.reloadserver.accesskey       "П">
+<!ENTITY calendar.context.synccalendars.label          "Синхронізувати календарі">
+<!ENTITY calendar.context.synccalendars.accesskey      "С">
 <!ENTITY calendar.context.publish.label                "Опублікувати календар…">
 <!ENTITY calendar.context.publish.accesskey            "О">
 <!ENTITY calendar.context.export.label                 "Експорт календаря…">
@@ -327,7 +327,7 @@
 <!ENTITY calendarproperties.name.label                     "Назва:">
 <!ENTITY calendarproperties.readonly.label                 "Тільки для читання">
 <!ENTITY calendarproperties.firealarms.label               "Показати сповіщення">
-<!ENTITY calendarproperties.cache.label                    "Кеш (ЕКСПЕРИМЕНТАЛЬНО, потрібне перевантаження)">
+<!ENTITY calendarproperties.cache2.label                   "Кеш">
 <!ENTITY calendarproperties.enabled.label                  "Перемкнути цей календар на">
 <!ENTITY calendarproperties.forceDisabled.label            "Не знайдено постачальника для цього календаря. Іноді це може настати після вимикання або вилучення спеціальних додатків.">
 <!ENTITY calendarproperties.unsubscribe.label              "Відписатись">
