@@ -89,9 +89,9 @@
 <!ENTITY detail.updateType "Actualizaciones automáticas">
 <!ENTITY detail.updateDefault.label "Predeterminado">
 <!ENTITY detail.updateDefault.tooltip "Instalar automáticamente las actualizaciones sólo si predeterminado">
-<!ENTITY detail.updateAutomatic.label "Encender">
+<!ENTITY detail.updateAutomatic.label "Activar">
 <!ENTITY detail.updateAutomatic.tooltip "Instalar automáticamente las actualizaciones">
-<!ENTITY detail.updateManual.label "Apagar">
+<!ENTITY detail.updateManual.label "Desactivar">
 <!ENTITY detail.updateManual.tooltip "No instalar actualizaciones automáticamente">
 <!ENTITY detail.home "Página de inicio">
 <!ENTITY detail.repository "Perfil de complemento">
