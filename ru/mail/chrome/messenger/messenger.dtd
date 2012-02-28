@@ -654,7 +654,7 @@
 <!ENTITY mdnBarSendButton2.label "Отправить уведомление о прочтении">
 <!ENTITY mdnBarSendButton2.accesskey "п">
 <!ENTITY quickSearchCmd.key "k">
-<!ENTITY searchAllMessages.label.base "Поиск во всех сообщениях… #1">
+<!ENTITY searchAllMessages.label.base "Поиск… #1">
 <!ENTITY searchAllMessages.keyLabel2.nonmac "&lt;Ctrl+K&gt;">
 <!ENTITY searchAllMessages.keyLabel2.mac "&lt;⌘K&gt;">
 <!ENTITY AddToAddressBook.label "Добавить в адресную книгу…">
