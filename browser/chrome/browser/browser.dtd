@@ -221,8 +221,8 @@ can reach it easily. -->
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
   -  alternate view for the Inspector, creating a 3D visualization of the
   -  webpage. -->
-<!ENTITY inspect3DViewButton.label     "3B Görünüm">
-<!ENTITY inspect3DViewButton.accesskey "m">
+<!ENTITY inspect3DButton.accesskey     "3B">
+<!ENTITY inspect3DButton.label "B">
 
 <!ENTITY inspectStyleButton.label     "Stil">
 <!ENTITY inspectStyleButton.accesskey "S">
