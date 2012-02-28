@@ -49,3 +49,7 @@
 <!ENTITY pref.defaultlength.accesskey "т">
 <!ENTITY pref.defaultsnoozelength.label "Типово відкладати сповіщення на:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "в">
+
+<!ENTITY pref.accessibility.label "Доступність" >
+<!ENTITY pref.systemcolors.label "Оптимізувати кольори для доступності" >
+<!ENTITY pref.systemcolors.accesskey "к">
