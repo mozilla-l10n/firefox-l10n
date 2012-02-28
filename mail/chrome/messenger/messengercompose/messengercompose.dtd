@@ -71,6 +71,8 @@
 <!ENTITY editRewrapCmd.label "Ath-phaisg">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "A">
+<!ENTITY renameAttachmentCmd.label "Cuir ainm ùr air a' cheanglachan…">
+<!ENTITY renameAttachmentCmd.accesskey "e">
 <!ENTITY deleteCmd.label "Sguab às">
 <!ENTITY deleteCmd.accesskey "S">
 <!ENTITY selectAllCmd.label "Tagh a h-uile">
