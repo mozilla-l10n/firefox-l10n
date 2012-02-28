@@ -157,10 +157,15 @@
 <!ENTITY scratchpad.accesskey "р">
 <!ENTITY scratchpad.keycode "VK_F4">
 <!ENTITY scratchpad.keytext "F4">
-<!ENTITY inspectPanelTitle.label "HTML">
 <!ENTITY inspectButton.label "Исследовать">
 <!ENTITY inspectButton.accesskey "с">
 <!ENTITY inspectCloseButton.tooltiptext "Закрыть Инспектор">
+<!ENTITY inspectorHTMLCopyInner.label "Копировать внутренний HTML">
+<!ENTITY inspectorHTMLCopyInner.accesskey "п">
+<!ENTITY inspectorHTMLCopyOuter.label "Копировать наружный HTML">
+<!ENTITY inspectorHTMLCopyOuter.accesskey "о">
+<!ENTITY inspectorHTMLDelete.label "Удалить узел">
+<!ENTITY inspectorHTMLDelete.accesskey "д">
 <!ENTITY inspect3DViewButton.label "3D вид">
 <!ENTITY inspect3DViewButton.accesskey "в">
 <!ENTITY inspectStyleButton.label "Стиль">
@@ -435,3 +440,6 @@
 <!ENTITY syncToolbarButton.label "Синхронизация">
 <!ENTITY addonBarCloseButton.tooltip "Закрыть панель дополнений">
 <!ENTITY toggleAddonBarCmd.key "\">
+<!ENTITY htmlPanel.label "HTML">
+<!ENTITY htmlPanel.tooltiptext "Панель HTML">
+<!ENTITY htmlPanel.accesskey "H">

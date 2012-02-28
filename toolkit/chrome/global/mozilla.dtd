@@ -1,3 +1,5 @@
 <!ENTITY mozilla.title "Книга Mozilla, 11:9">
-<!ENTITY mozilla.quote 'Маммон спал. Тем временем <em>зверь возрождённый</em> распространился по всей земле и число его стало легион. И объявили они о новых временах, и с <em>коварством лисы</em> <em>принесли в жертву</em> огню колосья. И построили они новый мир, как было провозвещено в <em><a href="http://www.mozilla.org/about/mozilla-manifesto.html">священном тексте</a></em>, и <em><a href="http://wiki.mozilla.org/About:mozilla">говорили</a></em> о звере с детьми своими. Маммон пробудился, и смотри – он был <em>никем</em>, всего лишь последователем.'>
+<!ENTITY mozilla.manifestoUrl "http://www.mozilla.org/about/manifesto.ru.html">
+<!ENTITY mozilla.aboutUrl "http://wiki.mozilla.org/About:mozilla">
+<!ENTITY mozilla.quote2 'Маммон спал. Тем временем <em>зверь возрождённый</em> распространился по всей земле и число его стало легион. И объявили они о новых временах, и с <em>коварством лисы</em> <em>принесли в жертву</em> огню колосья. И построили они новый мир, как было провозвещено в <em><a href="&mozilla.manifestoUrl;">священном тексте</a></em>, и <em><a href="&mozilla.aboutUrl;">говорили</a></em> о звере с детьми своими. Маммон пробудился, и смотри – он был <em>никем</em>, всего лишь последователем.'>
 <!ENTITY mozilla.from "из <strong>Книги Mozilla,</strong> 11:9<br/><small>(10-е издание)</small>">
