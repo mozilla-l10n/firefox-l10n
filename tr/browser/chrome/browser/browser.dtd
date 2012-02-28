@@ -54,7 +54,7 @@ can reach it easily. -->
 <!ENTITY printSetupCmd.accesskey "y">
 <!ENTITY printPreviewCmd.label "Yazdırma önizleme">
 <!ENTITY printPreviewCmd.accesskey "z">
-<!ENTITY printCmd.label "Yazdır...">
+<!ENTITY printCmd.label "Yazdır…">
 <!ENTITY printCmd.accesskey "Y">
 <!ENTITY printCmd.commandkey "p">
 
@@ -115,7 +115,7 @@ can reach it easily. -->
 <!ENTITY backForwardButtonMenu.tooltip "Geçmişi göstermek için sağ tıklayın veya aşağı çekin">
 <!ENTITY backForwardButtonMenuMac.tooltip "Geçmişi göstermek için aşağı çekin">
 <!ENTITY reloadCmd.label              "Tazele">
-<!ENTITY reloadCmd.accesskey          "T">
+<!ENTITY reloadCmd.accesskey          "z">
 <!ENTITY reloadButton.tooltip         "Geçerli sayfayı tazele">
 <!ENTITY stopCmd.label                "Durdur">
 <!ENTITY stopCmd.accesskey            "D">
@@ -196,7 +196,7 @@ can reach it easily. -->
 <!ENTITY inspectMenu.commandkey       "I">
 
 <!ENTITY inspectContextMenu.label     "Ögeyi incele">
-<!ENTITY inspectContextMenu.accesskey "Q">
+<!ENTITY inspectContextMenu.accesskey "g">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
@@ -217,8 +217,13 @@ can reach it easily. -->
 <!ENTITY inspectButton.label            "İncele">
 <!ENTITY inspectButton.accesskey        "c">
 <!ENTITY inspectCloseButton.tooltiptext "Denetçiyi kapat">
-<!ENTITY inspect3DButton.label        "3B">
-<!ENTITY inspect3DButton.accesskey    "3">
+
+<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
+  -  alternate view for the Inspector, creating a 3D visualization of the
+  -  webpage. -->
+<!ENTITY inspect3DViewButton.label     "3B Görünüm">
+<!ENTITY inspect3DViewButton.accesskey "m">
+
 <!ENTITY inspectStyleButton.label     "Stil">
 <!ENTITY inspectStyleButton.accesskey "S">
 
@@ -304,7 +309,7 @@ can reach it easily. -->
 <!ENTITY appMenuCustomize.label "Özelleştir">
 <!ENTITY appMenuToolbarLayout.label "Araç çubuğu düzeni…">
 <!ENTITY appMenuSidebars.label "Kenar çubukları">
-<!ENTITY appMenuFind.label "Bul...">
+<!ENTITY appMenuFind.label "Bul…">
 <!ENTITY appMenuUnsorted.label "Sıralanmamış yer imleri">
 <!ENTITY appMenuWebDeveloper.label "Web geliştirici">
 <!ENTITY appMenuGettingStarted.label "İlk adım">
@@ -389,7 +394,7 @@ can reach it easily. -->
 <!ENTITY bookmarkThisFrameCmd.label      "Bu çerçeveyi yer imlerine ekle">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY sendPageCmd.label            "Bağlantıyı gönder…">
-<!ENTITY sendPageCmd.accesskey        "d">
+<!ENTITY sendPageCmd.accesskey        "n">
 <!ENTITY savePageCmd.label            "Sayfayı farklı kaydet…">
 <!ENTITY savePageCmd.accesskey        "S">
 <!-- alternate for content area context menu -->
@@ -461,7 +466,7 @@ items are mutually exclusive. -->
 items are mutually exclusive. -->
 <!ENTITY videoShowStats.label        "İstatistikleri göster">
 <!ENTITY videoShowStats.accesskey    "t">
-<!ENTITY videoHideStats.label        "Hide Statistics">
+<!ENTITY videoHideStats.label        "İstatistikleri gizle">
 <!ENTITY videoHideStats.accesskey    "z">
 
 <!-- LOCALIZATION NOTE :
