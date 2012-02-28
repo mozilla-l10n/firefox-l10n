@@ -13,7 +13,7 @@
 
 <!ENTITY spellAddToDictionary.label "Agiuntar al dicziunari da l'utilisader">
 <!ENTITY spellAddToDictionary.accesskey "z">
-<!ENTITY spellUndoAddToDictionary.label "Puspè allontantar il pled agiuntà al dicziunari">
+<!ENTITY spellUndoAddToDictionary.label "Puspè allontanar il pled agiuntà al dicziunari">
 <!ENTITY spellUndoAddToDictionary.accesskey "n">
 <!ENTITY spellCheckEnable.label "Controllar l'ortografia">
 <!ENTITY spellCheckEnable.accesskey "r">
