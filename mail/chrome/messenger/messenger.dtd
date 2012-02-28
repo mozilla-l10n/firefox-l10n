@@ -654,7 +654,7 @@
 <!ENTITY mdnBarSendButton2.label "Даслаць квіток атрымання">
 <!ENTITY mdnBarSendButton2.accesskey "Д">
 <!ENTITY quickSearchCmd.key "k">
-<!ENTITY searchAllMessages.label.base "Шукаць усе лісты… #1">
+<!ENTITY searchAllMessages.label.base "Шукаць… #1">
 <!ENTITY searchAllMessages.keyLabel2.nonmac "&lt;Ctrl+K&gt;">
 <!ENTITY searchAllMessages.keyLabel2.mac "&lt;⌘K&gt;">
 <!ENTITY AddToAddressBook.label "Дадаць у адрасную кнігу…">
