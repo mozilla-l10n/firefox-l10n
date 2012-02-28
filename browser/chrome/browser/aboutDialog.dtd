@@ -37,9 +37,9 @@
 <!ENTITY bottomLinks.privacy        "Gizlilik politikası">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingForUpdates  "Güncellemeler denetleniyor...">
+<!ENTITY update.checkingForUpdates  "Güncellemeler denetleniyor…">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingAddonCompat "Eklenti uyumluluğu denetleniyor...">
+<!ENTITY update.checkingAddonCompat "Eklenti uyumluluğu denetleniyor…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; güncel">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
