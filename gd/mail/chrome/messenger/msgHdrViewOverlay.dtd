@@ -50,7 +50,7 @@
 <!ENTITY dateField3.label "Ceann-là ">
 <!ENTITY userAgentField3.label "Àidseant-cleachdaiche ">
 <!ENTITY referencesField3.label "Iomraidhean ">
-<!ENTITY messageIdField3.label "Dearbh-aithne na teachdaireachd ">
+<!ENTITY messageIdField3.label "ID na teachdaireachd ">
 <!ENTITY inReplyToField3.label "San fhreagairt gu ">
 <!ENTITY originalWebsite3.label "Làrach-lìn ">
 
@@ -128,6 +128,9 @@
 <!ENTITY copyLinkCmd.label        "Dèan lethbhreac de sheòladh a' cheangail">
 <!ENTITY copyLinkCmd.accesskey    "c">
 
-<!ENTITY CopyMessageId.label "Dèan lethbhreac de dhearbh-aithne na teachdaireachd">
-<!ENTITY OpenMessageForMsgId.label "Fosgail an teachdaireachd leis an dearbh-aithne seo">
-<!ENTITY OpenBrowserWithMsgId.label "Fosgail am brabhsair le dearbh-aithne na teachdaireachd">
+<!ENTITY CopyMessageId.label "Dèan lethbhreac de ID na teachdaireachd">
+<!ENTITY CopyMessageId.accesskey "D">
+<!ENTITY OpenMessageForMsgId.label "Fosgail an teachdaireachd leis an ID seo">
+<!ENTITY OpenMessageForMsgId.accesskey "F">
+<!ENTITY OpenBrowserWithMsgId.label "Fosgail am brabhsair le ID na teachdaireachd">
+<!ENTITY OpenBrowserWithMsgId.accesskey "b">

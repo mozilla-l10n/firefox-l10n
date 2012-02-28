@@ -61,12 +61,16 @@
 <!ENTITY defaultPortLabel.label "Bun-roghainn:">
 <!ENTITY defaultPortValue.label "">
 
+<!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
+     haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
+-->
+<!ENTITY modifyOutgoing.suffix "'S urrainn dhut na frithealaichean a-mach atharrachadh sna Roghainnean.">
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix "Thèid am frithealaiche a-mach (SMTP) làithreach agad, &quot;">
-<!ENTITY haveSmtp1.suffix2 "&quot;, a chleachdadh. 'S urrainn dhut na frithealaichean a-mach atharrachadh ann an roghainnean nan cunntasan.">
+<!ENTITY haveSmtp1.suffix3 "&quot;, a chleachdadh.">
 
 <!-- Entities for Login page -->
 
@@ -84,13 +88,13 @@
      text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Thèid an t-ainm-cleachdaiche làithreach agad airson post a-mach (SMTP), &quot;">
-<!ENTITY haveSmtp2.suffix2 "&quot;, a chleachdadh. 'S urrainn dhut na frithealaichean a-mach atharrachadh ann an roghainnean nan cunntasan.">
+<!ENTITY haveSmtp2.suffix3 "&quot;, a chleachdadh.">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Tha am frithealaiche a-mach (SMTP) agad, &quot;">
-<!ENTITY haveSmtp3.suffix2 "&quot;, co-ionnan ris an fhrithealaiche a-steach agad 's thèid d' ainm cleachdaiche airson post a-steach a chleachdadh gus inntrigeadh a dhèanamh thuige. 'S urrainn dhut na frithealaichean a-mach atharrachadh ann an roghainnean nan cunntasan.">
+<!ENTITY haveSmtp3.suffix3 "&quot;, co-ionnan ris an fhrithealaiche a-steach agad 's thèid d' ainm cleachdaiche airson post a-steach a chleachdadh gus inntrigeadh a dhèanamh dha.">
 
 <!-- Entities for Account name page -->
 

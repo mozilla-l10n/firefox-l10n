@@ -78,8 +78,6 @@
 <!ENTITY imagemapBox.label "Mapa an deilbh">
 <!ENTITY removeImageMapButton.label "Thoir air falbh">
 <!ENTITY removeImageMapButton.accessKey "R">
-<!ENTITY editImageMapButton.label "Deasaich…">
-<!ENTITY editImageMapButton.tooltip "Cruthaich Hotspots a ghabhas a bhriogadh airson an deilbh seo">
 
 <!-- These are the options for image alignment -->
 <!ENTITY alignment.label "Co-thaobhaich an teacsa a-rèir an deilbh">
