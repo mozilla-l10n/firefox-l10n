@@ -121,6 +121,18 @@
 <!ENTITY browserContext.label         "Navegador">
 <!ENTITY browserContext.accesskey     "N">
 
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+  -  for the help button in the menubar but Gnome does not.
+  -->
+<!ENTITY helpMenu.label               "Ajuda">
+<!ENTITY helpMenu.accesskey           "j">
+<!ENTITY helpMenuWin.label            "Ajuda">
+<!ENTITY helpMenuWin.accesskey        "j">
+
+<!ENTITY documentationLink.label      "Ajuda do Scratchpad na MDN">
+<!ENTITY documentationLink.accesskey  "D">
+
+
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the context where the code executes.
   -->
