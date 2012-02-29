@@ -43,7 +43,6 @@
 <!ENTITY     props.path.label               "Ծրագիծը.">
 <!ENTITY     props.secure.label             "Ուղղարկել ի.">
 <!ENTITY     props.expires.label            "Բոլորում է.">
-<!ENTITY     props.policy.label             "Դրույթները."> 
 
 <!ENTITY     button.allow.label             "Թույլ տալ">
 <!ENTITY     button.allow.accesskey         "A">

@@ -52,6 +52,8 @@
 
 <!ENTITY spellAddToDictionary.label "Ավելացնել բառարանում">
 <!ENTITY spellAddToDictionary.accesskey "Ա">
+<!ENTITY spellUndoAddToDictionary.label "Undo Add To Dictionary">
+<!ENTITY spellUndoAddToDictionary.accesskey "n">
 <!ENTITY spellCheckEnable.label "Ստուգել ուղղագրությունը">
 <!ENTITY spellCheckEnable.accesskey "Ս">
 <!ENTITY spellNoSuggestions.label "(հուշում չկա)">
