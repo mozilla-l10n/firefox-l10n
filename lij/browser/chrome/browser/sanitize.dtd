@@ -1,7 +1,7 @@
 <!ENTITY sanitizePrefs2.title          "Preferençe pe scancelâ a Stöia">
-<!ENTITY sanitizeDialog2.title         "Scancella a stöia ciù nêuva">
+<!ENTITY sanitizeDialog2.title         "Scancélla a stöia ciù nêuva">
 
-<!ENTITY sanitizeItems.label          "Scancella sti ògétti òua:">
+<!ENTITY sanitizeItems.label          "Scancélla sti ògétti òua:">
 <!ENTITY clearDataSettings2.label     "Quànde sciòrto da &brandShortName; o deve polî tùtto in aotomàtico:">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
@@ -36,7 +36,7 @@ that require it.  -->
 <!ENTITY itemHistoryAndDownloads.accesskey "S">
 <!ENTITY itemBrowsingHistory.label         "Stöia da navegaçión">
 <!ENTITY itemBrowsingHistory.accesskey     "S">
-<!ENTITY itemFormSearchHistory.label       "Stöia di Mòdoli &amp; Riçerche">
+<!ENTITY itemFormSearchHistory.label       "Stöia di Mòdoli &amp; Riçèrche">
 <!ENTITY itemFormSearchHistory.accesskey   "S">
 <!ENTITY itemPasswords.label               "Paròlle segrétte sarvæ">
 <!ENTITY itemPasswords.accesskey           "P">
@@ -48,7 +48,7 @@ that require it.  -->
 <!ENTITY itemOfflineApps.accesskey         "o">
 <!ENTITY itemDownloadHistory.label         "Stöia di descaregaménti">
 <!ENTITY itemDownloadHistory.accesskey     "d">
-<!ENTITY itemActiveLogins.label            "Login atîvi">
+<!ENTITY itemActiveLogins.label            "Conescioìn atîve">
 <!ENTITY itemActiveLogins.accesskey        "L">
 <!ENTITY itemSitePreferences.label         "Preferense di scîti">
 <!ENTITY itemSitePreferences.accesskey     "s">

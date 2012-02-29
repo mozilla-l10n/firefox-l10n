@@ -45,9 +45,9 @@
 
 <!ENTITY devmgr.button.changeslotname.label     "Cangia o nómme do slot">
 <!ENTITY devmgr.button.changeslotname.accesskey "C">
-<!ENTITY devmgr.button.login.label              "Login">
+<!ENTITY devmgr.button.login.label              "Conesción">
 <!ENTITY devmgr.button.login.accesskey          "n">
-<!ENTITY devmgr.button.logout.label             "Logout">
+<!ENTITY devmgr.button.logout.label             "Disconesción">
 <!ENTITY devmgr.button.logout.accesskey         "o">
 <!ENTITY devmgr.button.changepw.label           "Càngia paròlla segrétta">
 <!ENTITY devmgr.button.changepw.accesskey       "p">
@@ -63,7 +63,7 @@
 <!ENTITY loaddevice.modname.default             "Nêuvo mòdolo PKCS#11">
 <!ENTITY loaddevice.filename                    "Nómme file do mòdolo:">
 <!ENTITY loaddevice.filename.accesskey          "f">
-<!ENTITY loaddevice.browse                      "Çerca…">
+<!ENTITY loaddevice.browse                      "Çèrca…">
 <!ENTITY loaddevice.browse.accesskey            "e">
 
 <!ENTITY loaddevice.title                       "Càrego PKCS#11 Device">

@@ -22,7 +22,7 @@
 <!ENTITY stats.activityPaused "Pösa">
 <!ENTITY stats.activityPlaying "Seunno">
 <!ENTITY stats.activityEnded "Finio">
-<!ENTITY stats.activitySeeking "(çerco)">
+<!ENTITY stats.activitySeeking "(çèrco)">
 <!ENTITY stats.volume "Volùme">
 <!ENTITY stats.channels "Canâ">
 <!ENTITY stats.sampleRate "Canpionaménto">

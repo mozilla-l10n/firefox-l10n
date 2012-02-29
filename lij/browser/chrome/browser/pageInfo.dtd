@@ -88,7 +88,7 @@
 <!ENTITY  permTab               "Permìssi">
 <!ENTITY  permTab.accesskey     "P">
 <!ENTITY  permUseDefault        "Ûza predefinîo">
-<!ENTITY  permAskAlways         "Domanda sénpre">
+<!ENTITY  permAskAlways         "Domànda sénpre">
 <!ENTITY  permAllow             "Permétti">
 <!ENTITY  permAllowSession      "Permétti pe sta seçión">
 <!ENTITY  permBlock             "Blòcco">
@@ -100,7 +100,7 @@
 <!ENTITY  permGeo               "Condivìddi Indirìsso">
 
 <!ENTITY  permIndexedDB              "Tégni o sarvatàggio fêua lìnia">
-<!ENTITY  permClearStorage           "Scancella o sarvataggio">
+<!ENTITY  permClearStorage           "Scancélla o sarvataggio">
 <!ENTITY  permClearStorage.accesskey "c">
 
 <!ENTITY  securityTab           "Siguéssa">

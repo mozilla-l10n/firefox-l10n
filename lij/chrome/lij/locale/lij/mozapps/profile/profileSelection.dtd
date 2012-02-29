@@ -57,13 +57,13 @@
 <!ENTITY            start.label            "Iniçia &brandShortName;">
 <!ENTITY            exit.label             "Sciòrti">
 
-<!ENTITY            availprofiles.label    "Profî che ghe son">
+<!ENTITY            availprofiles.label    "Profî che gh'é">
 
 <!ENTITY            newButton.label        "Crea Profî…">
 <!ENTITY            newButton.accesskey    "C">
 <!ENTITY            renameButton.label     "Rinòmina Profî…">
 <!ENTITY            renameButton.accesskey "R">
-<!ENTITY            deleteButton.label     "Scancella Profî…">
+<!ENTITY            deleteButton.label     "Scancélla Profî…">
 <!ENTITY            deleteButton.accesskey "S">
 
 <!-- manager entities -->

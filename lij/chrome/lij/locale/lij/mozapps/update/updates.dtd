@@ -1,16 +1,16 @@
 <!ENTITY  updateWizard.title              "Agiórnamento da aplicaçión">
 
 <!ENTITY  checking.title                  "Contròllo i agiórnamenti">
-<!ENTITY  updateCheck.label               "Çerco nêuve verscioìn de &brandShortName;…">
+<!ENTITY  updateCheck.label               "Çèrco nêuve verscioìn de &brandShortName;…">
 
 <!ENTITY  pluginupdatesfound.title        "Ò trovòu agiórnamenti pe-i plugin">
 <!ENTITY  pluginupdatesfound.label        "Ò trovòu de verscioìn ciù nêuve di un ò ciù di teu plugin.">
 <!ENTITY  pluginupdateslink.label         "Fanni védde cómme se agiórnan i teu plugin.">
 
 <!ENTITY  noupdatesfound.title            "No ò trovòu i agiórnamenti">
-<!ENTITY  noupdatesautoenabled.intro      "No ghe son di agiórnamenti. &brandShortName; contròlîa
+<!ENTITY  noupdatesautoenabled.intro      "No gh'é di agiórnamenti. &brandShortName; contròlîa
                                            periodicamente pe-i agiórnamenti.">
-<!ENTITY  noupdatesautodisabled.intro     "No ghe son di agiórnamenti. Pe favô contròlla ancón dòppo ò abilita
+<!ENTITY  noupdatesautodisabled.intro     "No gh'é di agiórnamenti. Pe favô contròlla ancón dòppo ò abilita
                                            o contròllo  aotomàtico di agiórnamenti de &brandShortName;.">
 
 <!ENTITY  manualUpdate.title              "No riêscio a agiórnâ">
@@ -23,7 +23,7 @@
 <!ENTITY  manualUpdateGetMsg.label        "ti peu de lóngo pigiâ l'ùrtima versción de &brandShortName; in:">
 
 <!ENTITY  incompatibleCheck.title         "Contròllo a compatibilitæ di conponénti azónti">
-<!ENTITY  incompatibleCheck.label         "Çerco nêuve verscioìn pe-i teu conponénti azónti…">
+<!ENTITY  incompatibleCheck.label         "Çèrco nêuve verscioìn pe-i teu conponénti azónti…">
 
 <!ENTITY  clickHere.label                 "Fanni védde ciù informaçióin in sciô agiórnamento">
 
@@ -63,7 +63,7 @@
 <!ENTITY  errorpatching.intro             "O agiórnamento parçiale o no va bén. 
                                            O &brandShortName; o proviâ ancón a descaregâ l'agiórnamento conplêto.">
 
-<!ENTITY  genericBackgroundError.label    "O &brandShortName; o no l'ariesce a capî se ghe son di agiórnamenti. Pe favô
+<!ENTITY  genericBackgroundError.label    "O &brandShortName; o no l'ariesce a capî se gh'é di agiórnamenti. Pe favô
                                            te peu miga amiâ se ti gh'é l'ùrtima versción de &brandShortName; da:">
 <!ENTITY  errorCertAttrNoUpdate2.label    "Quarcösa inpedisce a &brandShortName; de agiórnase in seguéssa.
                                            Contròlla se ti gh'æ l'ùrtima versción de &brandShortName; da:">

@@ -16,8 +16,8 @@
 <!ENTITY  underlineLinks.label            "Sotolìnia colegaménti">
 <!ENTITY  underlineLinks.accesskey        "S">
 <!ENTITY  links                           "Coî di colegamenti">
-<!ENTITY  linkColor.label                 "Colegamenti no vìxitæ:">
+<!ENTITY  linkColor.label                 "Colegaménti no vixitæ:">
 <!ENTITY  linkColor.accesskey             "l">
-<!ENTITY  visitedLinkColor.label          "Colegamenti vìxitæ:">
+<!ENTITY  visitedLinkColor.label          "Colegaménti vixitæ:">
 <!ENTITY  visitedLinkColor.accesskey      "v">
 

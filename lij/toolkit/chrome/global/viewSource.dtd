@@ -49,7 +49,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY reloadCmd.commandkey "r">
 <!ENTITY menu_wrapLongLines.title "Vànni acâpo quànde gh'é son e lìnie lónghe"> 
 <!ENTITY menu_wrapLongLines.accesskey "V">
-<!ENTITY menu_highlightSyntax.label "Evidençia a scintassi">
+<!ENTITY menu_highlightSyntax.label "Evidénçia a scintassi">
 <!ENTITY menu_highlightSyntax.accesskey "E">
 <!ENTITY menu_textSize.label "Dimensción do Testo">
 <!ENTITY menu_textSize.accesskey "D">

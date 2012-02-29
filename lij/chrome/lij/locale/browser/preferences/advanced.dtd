@@ -18,12 +18,12 @@
 
 <!ENTITY useCursorNavigation.label       "Ûza sémpre i pomélli de direçión pe navegâ in scie pàgine">
 <!ENTITY useCursorNavigation.accesskey   "c">
-<!ENTITY searchStartTyping.label         "Çerca o testo quando iniçio a scrîve">
+<!ENTITY searchStartTyping.label         "Çèrca o testo quando iniçio a scrîve">
 <!ENTITY searchStartTyping.accesskey     "Ç">
 <!ENTITY blockAutoRefresh.label          "Avertime quando i scîti web prêuvan a reindirissâ ò a recaregâ a pàgina">
 <!ENTITY blockAutoRefresh.accesskey      "b">
 
-<!ENTITY browsing.label                  "Çerca">
+<!ENTITY browsing.label                  "Çèrca">
 
 <!ENTITY useAutoScroll.label             "Ûza scorrimento aotomàtico">
 <!ENTITY useAutoScroll.accesskey         "a">
@@ -76,7 +76,7 @@
 <!ENTITY updateAuto.accesskey            "I">
 <!ENTITY updateCheck.label               "Contròlla pe-i agiornaménti, ma tò-u diggo mi se instalâli">
 <!ENTITY updateCheck.accesskey           "C">
-<!ENTITY updateManual.label              "No contròlâ mâi se ghe son di agiornaménti (no racomandòu: rezego pe-a seguéssa)">
+<!ENTITY updateManual.label              "No contròlâ mâi se gh'é di agiornaménti (no racomandòu: rezego pe-a seguéssa)">
 <!ENTITY updateManual.accesskey          "N">
 
 
@@ -99,21 +99,21 @@
 
 
 
-<!ENTITY autoCheck.label                 "Contròlla in aotomàtico se ghe son agiornamenti pe:">
+<!ENTITY autoCheck.label                 "Contròlla in aotomàtico se gh'é agiornaménti pe:">
 <!ENTITY enableAppUpdate.label           "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey       "F">
 <!ENTITY enableAddonsUpdate2.label       "Conponénti azónti">
 <!ENTITY enableAddonsUpdate2.accesskey   "n">
 <!ENTITY enableSearchUpdate.label        "Motô de riçerca">
 <!ENTITY enableSearchUpdate.accesskey    "M">
-<!ENTITY whenUpdatesFound.label          "Quando treuvo i agiornamenti pe &brandShortName;:">
+<!ENTITY whenUpdatesFound.label          "Quando treuvo i agiornaménti pe &brandShortName;:">
 <!ENTITY askMe.label                     "Domandame cöse veuggio fâ">
 <!ENTITY askMe.accesskey                 "D">
-<!ENTITY modeAutomatic.label             "Descarega e installa i agiornamenti in aotomàtico">
+<!ENTITY modeAutomatic.label             "Descarega e installa i agiornaménti in aotomàtico">
 <!ENTITY modeAutomatic.accesskey         "D">
 <!ENTITY modeAutoAddonWarn.label         "Avertime se questo dizabilita quarchedùn di mæ conponénti azónti">
 <!ENTITY modeAutoAddonWarn.accesskey     "A">
-<!ENTITY updateHistory.label             "Fanni védde a stöia di agiornamenti">
+<!ENTITY updateHistory.label             "Fanni védde a stöia di agiornaménti">
 <!ENTITY updateHistory.accesskey         "F">
 
 <!ENTITY offlineNotify.label             "Dimme quando un scîto o domanda de sarvâ dæti pe êse uzæ fêua linia">

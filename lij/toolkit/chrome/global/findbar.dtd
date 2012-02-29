@@ -9,9 +9,9 @@
 <!ENTITY previous.accesskey "P">
 <!ENTITY previous.tooltip "Trêuva a precedénte ripetiçión do testo da çercâ">
 <!ENTITY findCloseButton.tooltip "Særa a bâra de riçerca">
-<!ENTITY highlight.label "Evidençia">
+<!ENTITY highlight.label "Evidénçia">
 <!ENTITY highlight.accesskey "a">
-<!ENTITY highlight.tooltiptext "Evidençia tùtte e ripetiçioìn do testo da çercâ">
+<!ENTITY highlight.tooltiptext "Evidénçia tùtte e ripetiçioìn do testo da çercâ">
 <!ENTITY caseSensitiveCheckbox.label "Contròlla e maióscole">
 <!ENTITY caseSensitiveCheckbox.accesskey "C">
 

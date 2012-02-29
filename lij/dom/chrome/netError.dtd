@@ -24,8 +24,8 @@
 <!ENTITY netInterrupt.title "Trasferimento di dæti scancellòu">
 <!ENTITY netInterrupt.longDesc "<p>O browser o s'é conesso ma a conesción a l'é stæta fermâ fintanto che o trasferiva e informaçioìn.  Pe favô prêuva ancón.</p><ul><li>No ti riêsci a navegâ in sci âtri scîti? Contròlla a conesción do teu computer.</li><li>Ti gh'é ancón di problêmi? Ciàmma o teu aministratô da ræ ò fornitô de serviççi internet.</li></ul>">
 
-<!ENTITY notCached.title "Docùmento scæito">
-<!ENTITY notCached.longDesc "<p>O docùmento domandòu o no gh'é inta cache do navegatô.</p><ul><li>Pe seguéssa o navegatô no domanda in aotomàtico docùmenti senscìbili.</li><li>Sciàcca Prêuva ancón pe domandâ tórna o docùmento ao scîto .</li></ul>">
+<!ENTITY notCached.title "Documénto scæito">
+<!ENTITY notCached.longDesc "<p>O documénto domandòu o no gh'é inta cache do navegatô.</p><ul><li>Pe seguéssa o navegatô no domanda in aotomàtico docùmenti senscìbili.</li><li>Sciàcca Prêuva ancón pe domandâ tórna o documénto ao scîto .</li></ul>">
 
 <!ENTITY netOffline.title "Mòddo fêua lìnia">
 <!ENTITY netOffline.longDesc2 "<p>O navegatô o l'é into mòddo fêua lìnia e o no peu colegâse a l'ògétto çernûo.</p><ul><li>O computer o l'é conésso a 'na ræ atîva?</li><li>Sciàcca &quot;Prêuva Ancón&quot; pe pasâ a-o mòddo in lìnia e caregâ tórna a pàgina.</li></ul>">
@@ -55,7 +55,7 @@
 <!ENTITY redirectLoop.longDesc "<p>O browser s'é fermòu de preuvâ a riçéive l'ògétto domandòu. O scîto o fa de redireçioìn che no finisciàn mâi.</p><ul><li>T'æ dizabilitòu ò blocòu i cookie domandæ da sto scîto?</li><li><em>NÒTTA</em>: Se ti acetti i cookie do scîto e no ti rizòlvi o problêma poriéivan êse e inpostaçioìn do server che no van bén e no quélle do teu computer.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Respósta Sbaliâ">
-<!ENTITY unknownSocketType.longDesc "<p>O scîto risponde in unn-a manêa strâna e-o browser no peu continoâ.</p>">
+<!ENTITY unknownSocketType.longDesc "<p>O scîto risponde in 'na manêa strâna e-o browser no peu continoâ.</p>">
 
 <!ENTITY nssFailure2.title "Conesción segûa no riêscia">
 <!ENTITY nssFailure2.longDesc "<ul>

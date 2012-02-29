@@ -14,13 +14,13 @@
 #
 -->
 <!ENTITY addons.windowTitle                   "Gestô di Conponénti azónti">
-<!ENTITY search.placeholder                   "Çerca tùtti i conponénti azónti">
+<!ENTITY search.placeholder                   "Çèrca tùtti i conponénti azónti">
 <!ENTITY loading.label                        "Caregando...">
 <!ENTITY listEmpty.installed.label            "Ti no gh'æ di conponénti azónti de sto tîpo instalæ
 ">
 <!ENTITY listEmpty.availableUpdates.label     "Nisciùn agiórnamento trovòu">
 <!ENTITY listEmpty.recentUpdates.label        "Ùrtimamente ti no t'æ agiornòu quàrche cònponente azónto">
-<!ENTITY listEmpty.findUpdates.label          "Çerca agiornamenti">
+<!ENTITY listEmpty.findUpdates.label          "Çèrca agiornaménti">
 <!ENTITY listEmpty.search.label               "No pòsso trovâ conponénti azónti">
 <!ENTITY listEmpty.button.label               "Ciù informaçioìn in sci conponénti azónti">
 <!ENTITY installAddonFromFile.label           "Installa i conponénti azónti da 'n file…">
@@ -35,9 +35,9 @@
 <!ENTITY warning.checkcompatibility.label          "O contròllo de conpatibilitæ di conponénti azónti l'é dizabilitâ. Ti peu avéi di conponénti azónti no compatibili.">
 <!ENTITY warning.checkcompatibility.enable.label   "Abilita">
 <!ENTITY warning.checkcompatibility.enable.tooltip "Abilita o contròllo a compatibilitæ di conponénti azónti">
-<!ENTITY warning.updatesecurity.label              "O contròllo de seguéssa in sci agiornamenti di conponénti azónti o l'é dizabilitòu. Te peu capitâ de êse aroinòu da i agiornamenti.">
+<!ENTITY warning.updatesecurity.label              "O contròllo de seguéssa in sci agiornaménti di conponénti azónti o l'é dizabilitòu. Te peu capitâ de êse aroinòu da i agiornaménti.">
 <!ENTITY warning.updatesecurity.enable.label       "Abilita">
-<!ENTITY warning.updatesecurity.enable.tooltip     "Abilita o contròllo de seguéssa in sci agiornamenti di conponénti azónti">
+<!ENTITY warning.updatesecurity.enable.tooltip     "Abilita o contròllo de seguéssa in sci agiornaménti di conponénti azónti">
 
 <!-- global informations -->
 <!ENTITY info.plugincheck.label                 "Contròlla se ti gh'æ da agiornâ di plugin">
@@ -51,13 +51,13 @@
 <!ENTITY view.features.label                  "Estenscioìn">
 <!ENTITY view.appearance2.label               "Aparénsa">
 <!ENTITY view.plugins.label                   "Plugin">
-<!ENTITY view.recentUpdates.label             "Ùrtimi agiornamenti">
+<!ENTITY view.recentUpdates.label             "Ùrtimi agiornaménti">
 <!ENTITY view.availableUpdates.label          "Agiornamenti disponibili">
 
 <!-- addon updates -->
-<!ENTITY updates.checkForUpdates.label        "Çerca agiornamenti">
+<!ENTITY updates.checkForUpdates.label        "Çèrca agiornaménti">
 <!ENTITY updates.checkForUpdates.accesskey    "c">
-<!ENTITY updates.viewUpdates.label            "Fanni védde i ùrtimi agiornamenti">
+<!ENTITY updates.viewUpdates.label            "Fanni védde i ùrtimi agiornaménti">
 <!ENTITY updates.viewUpdates.accesskey        "v">
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
@@ -79,7 +79,7 @@
 <!ENTITY updates.downloaded.label             "I teu cònponenti azónti son stæti descaregæ.">
 <!ENTITY updates.restart.label                "Reavia pe finî a instalaçión">
 <!ENTITY updates.noneFound.label              "Nisciùn agiórnamento trovòu">
-<!ENTITY updates.manualUpdatesFound.label     "Fanni védde i agiornamenti disponibili">
+<!ENTITY updates.manualUpdatesFound.label     "Fanni védde i agiornaménti disponibili">
 <!ENTITY updates.updateSelected.label         "Installa agiórnamento">
 <!ENTITY updates.updateSelected.tooltip       "Installa i Agiornamenti da lìsta">
 
@@ -141,18 +141,18 @@
 
 <!ENTITY detail.updateType                    "Agiornamenti aotomàtici">
 <!ENTITY detail.updateDefault.label           "Predefinîo">
-<!ENTITY detail.updateDefault.tooltip         "Installa i agiornamenti in aotomàtico sôlo se o l'é predefinîo coscî">
+<!ENTITY detail.updateDefault.tooltip         "Installa i agiornaménti in aotomàtico sôlo se o l'é predefinîo coscî">
 <!ENTITY detail.updateAutomatic.label         "Açéndi">
-<!ENTITY detail.updateAutomatic.tooltip       "Installa i agiornamenti in aotomàtico">
+<!ENTITY detail.updateAutomatic.tooltip       "Installa i agiornaménti in aotomàtico">
 <!ENTITY detail.updateManual.label            "Asmòrtòu">
-<!ENTITY detail.updateManual.tooltip          "No instalâ agiornamenti in aotomàtico">
+<!ENTITY detail.updateManual.tooltip          "No instalâ agiornaménti in aotomàtico">
 <!ENTITY detail.home                          "Pàgina Iniçiâ">
 <!ENTITY detail.repository                    "Profî do conponénte azónto">
 <!ENTITY detail.size                          "Dimensción">
 
-<!ENTITY detail.checkForUpdates.label         "Çerca agiornamenti">
+<!ENTITY detail.checkForUpdates.label         "Çèrca agiornaménti">
 <!ENTITY detail.checkForUpdates.accesskey     "Ç">
-<!ENTITY detail.checkForUpdates.tooltip       "Çerca agiornamenti pe sto conponénte azónto">
+<!ENTITY detail.checkForUpdates.tooltip       "Çèrca agiornaménti pe sto conponénte azónto">
 <!ENTITY detail.showPreferencesWin.label      "Inpostaçioìn">
 <!ENTITY detail.showPreferencesWin.accesskey  "o">
 <!ENTITY detail.showPreferencesWin.tooltip    "Cangia e preferençe de sto conponénte azónto">
@@ -221,4 +221,4 @@
 <!ENTITY eula.height                          "400px">
 <!ENTITY eula.accept                          "Acètta e installa…">
 
-<!ENTITY settings.path.button.label           "Çerca…">
+<!ENTITY settings.path.button.label           "Çèrca…">

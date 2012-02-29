@@ -26,11 +26,11 @@
 <!ENTITY closeWhenDone.accesskey "S">
 <!ENTITY saveTo.label "Sarva file in">
 <!ENTITY saveTo.accesskey "v">
-<!ENTITY chooseFolderWin.label        "Çerca…">
+<!ENTITY chooseFolderWin.label        "Çèrca…">
 <!ENTITY chooseFolderWin.accesskey    "Ç">
 <!ENTITY chooseFolderMac.label        "Scégli…">
 <!ENTITY chooseFolderMac.accesskey    "g">
-<!ENTITY alwaysAsk.label "Domandame sénpre donde sarvâ i file">
+<!ENTITY alwaysAsk.label "Domàndame sénpre donde sarvâ i file">
 <!ENTITY alwaysAsk.accesskey "a">
 
 <!ENTITY addonsMgr.label               "Conponénti azónti">

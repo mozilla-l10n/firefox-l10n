@@ -21,7 +21,7 @@
 <!ENTITY  monospace.accesskey                     "S">
 
 <!ENTITY  font.langGroup.latin1                   "Ponentin">
-<!ENTITY  font.langGroup.latin2                   "Eoròpa centrale">
+<!ENTITY  font.langGroup.latin2                   "Ouröpa centrale">
 <!ENTITY  font.langGroup.japanese                 "Giaponeize">
 <!ENTITY  font.langGroup.trad-chinese             "Cineize tradiçiónâ (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Cineize sénplificòu">
@@ -29,7 +29,7 @@
 <!ENTITY  font.langGroup.korean                   "Corean">
 <!ENTITY  font.langGroup.cyrillic                 "Cirilico">
 <!ENTITY  font.langGroup.baltic                   "Baltico">
-<!ENTITY  font.langGroup.el                       "Greco">
+<!ENTITY  font.langGroup.el                       "Grêgo">
 <!ENTITY  font.langGroup.turkish                  "Turco">
 <!ENTITY  font.langGroup.unicode                  "Âtre léngoe">
 <!ENTITY  font.langGroup.user-def                 "Definîo da-o utilizatô">

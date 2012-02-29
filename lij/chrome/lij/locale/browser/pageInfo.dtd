@@ -112,7 +112,7 @@
 <!ENTITY  permGeo               "Condivìddi Indirìsso">
 
 <!ENTITY  permIndexedDB              "Tegni o sarvataggio fêua linia">
-<!ENTITY  permClearStorage           "Scancella o sarvataggio">
+<!ENTITY  permClearStorage           "Scancélla o sarvataggio">
 <!ENTITY  permClearStorage.accesskey "c">
 
 <!ENTITY  securityTab           "Siguéssa">
