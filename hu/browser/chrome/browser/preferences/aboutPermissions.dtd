@@ -6,7 +6,7 @@
 <!-- LOCALIZATION NOTE (permissions.header.start, permissions.header.end): These strings
      surround the host name of the site to make the header for the permissions page.
      example: "Permissions for mozilla.org" -->
-<!ENTITY header.site.start               "Engedélyek ehhez: ">
+<!ENTITY header.site.start               "Engedélyek ehhez:">
 <!ENTITY header.site.end                 "">
 
 <!ENTITY header.defaults                 "Alapértelmezett engedélyek minden webhelyhez">

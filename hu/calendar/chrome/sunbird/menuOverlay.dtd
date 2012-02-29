@@ -62,9 +62,9 @@
 <!ENTITY calendar.subscribe.label                          "Feliratkozás távoli naptárra...">
 <!ENTITY calendar.subscribe.accesskey                      "F">
 
-<!ENTITY calendar.reloadserver.label                       "Távoli naptárak frissítése">
-<!ENTITY calendar.reloadserver.key                         "R">
-<!ENTITY calendar.reloadserver.accesskey                   "T">
+<!ENTITY calendar.synccalendars.label                      "Naptárak szinkronizálása">
+<!ENTITY calendar.synccalendars.key                        "R">
+<!ENTITY calendar.synccalendars.accesskey                  "S">
 
 <!ENTITY calendar.publish.calendar.label                   "Naptár közzététele...">
 <!ENTITY calendar.publish.calendar.accesskey               "k">

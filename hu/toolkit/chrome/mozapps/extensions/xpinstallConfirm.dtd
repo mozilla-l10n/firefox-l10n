@@ -5,6 +5,6 @@
 <!ENTITY warningPrimary.label    "Csak olyan szerzők kiegészítőit telepítse, akikben megbízik!">
 <!ENTITY warningSecondary.label  "Bizonyos programok tartalmazhatnak rosszindulatú kódokat is, melyek károkat okozhatnak, vagy egyéb módon veszélyeztethetik a számítógépét.">
 
-<!ENTITY from.label "forrás:">
+<!ENTITY from.label "forrás: ">
 
 
