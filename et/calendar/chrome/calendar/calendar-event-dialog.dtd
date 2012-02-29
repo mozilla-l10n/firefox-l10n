@@ -41,9 +41,9 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY event.title.label                  "Muuda elementi" >
+<!ENTITY event.title.label                  "Elemendi muutmine" >
 
-<!ENTITY event.dialog.keepDurationButton.tooltip   "Säilita lõppaja muutmisel kestus">
+<!ENTITY event.dialog.keepDurationButton.tooltip   "Lõppaja muutmisel säilitatakse kestus">
 <!ENTITY event.dialog.keepDurationButton.accesskey "u">
 
 <!ENTITY newevent.from.label                "Alates" >
@@ -368,7 +368,7 @@
 <!ENTITY event.attendee.role.nonparticipant     "Vaatleja">
 
 <!-- Timezone dialog -->
-<!ENTITY timezone.title.label            "Palun määra ajavöönd">
+<!ENTITY timezone.title.label            "Ajavööndi määramine">
 
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Üldine">

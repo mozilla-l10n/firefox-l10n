@@ -133,20 +133,20 @@
 
 <!ENTITY calendar.list.header.label                 "Kalender">
 
-<!ENTITY calendar.task.filter.title.label           "Näita">
-<!ENTITY calendar.task.filter.all.label             "Kõik">
+<!ENTITY calendar.task.filter.title.label           "Näidatakse">
+<!ENTITY calendar.task.filter.all.label             "kõiki">
 <!ENTITY calendar.task.filter.all.accesskey         "õ">
-<!ENTITY calendar.task.filter.today.label           "Tänased">
-<!ENTITY calendar.task.filter.today.accesskey       "T">
-<!ENTITY calendar.task.filter.next7days.label       "Järgmised 7 päeva">
-<!ENTITY calendar.task.filter.next7days.accesskey   "J">
-<!ENTITY calendar.task.filter.notstarted.label      "Alustamata ülesanded">
-<!ENTITY calendar.task.filter.notstarted.accesskey  "A">
-<!ENTITY calendar.task.filter.overdue.label         "Tähtaja ületanud ülesanded">
+<!ENTITY calendar.task.filter.today.label           "tänaseid ülesandeid">
+<!ENTITY calendar.task.filter.today.accesskey       "t">
+<!ENTITY calendar.task.filter.next7days.label       "järgmist 7 päeva">
+<!ENTITY calendar.task.filter.next7days.accesskey   "j">
+<!ENTITY calendar.task.filter.notstarted.label      "alustamata ülesandeid">
+<!ENTITY calendar.task.filter.notstarted.accesskey  "a">
+<!ENTITY calendar.task.filter.overdue.label         "tähtaja ületanud ülesandeid">
 <!ENTITY calendar.task.filter.overdue.accesskey     "ä">
-<!ENTITY calendar.task.filter.completed.label       "Täidetud ülesanded">
+<!ENTITY calendar.task.filter.completed.label       "täidetud ülesandeid">
 <!ENTITY calendar.task.filter.completed.accesskey   "d">
-<!ENTITY calendar.task.filter.open.label            "Pooleliolevad ülesanded">
+<!ENTITY calendar.task.filter.open.label            "pooleliolevaid ülesandeid">
 <!ENTITY calendar.task.filter.open.accesskey        "o">
 
 <!-- LOCALIZATION NOTE(calendar.task.filter.current.label)
@@ -154,10 +154,10 @@
      that is after today and after the selected date. If a task repeats, a
      separate entry will be shown for each of the occurrences that happen on or
      before today (or the selected date, whichever is later). -->
-<!ENTITY calendar.task.filter.current.label         "Jooksvad ülesanded">
+<!ENTITY calendar.task.filter.current.label         "jooksvaid ülesandeid">
 <!ENTITY calendar.task.filter.current.accesskey     "s">
-<!ENTITY calendar.task.filter.repeating.label       "Korduvad ülesanded">
-<!ENTITY calendar.task.filter.repeating.accesskey   "K">
+<!ENTITY calendar.task.filter.repeating.label       "korduvaid ülesandeid">
+<!ENTITY calendar.task.filter.repeating.accesskey   "k">
 
 <!ENTITY calendar.task-details.title.label           "Pealkiri:">
 <!ENTITY calendar.task-details.organizer.label       "Alates:">
@@ -331,9 +331,9 @@
 <!ENTITY calendarproperties.refreshInterval.manual.label  "käsitsi">
 <!ENTITY calendarproperties.name.label                    "Nimi:">
 <!ENTITY calendarproperties.readonly.label                "Kirjutuskaitstud">
-<!ENTITY calendarproperties.firealarms.label              "Meeldetuletute näitamine">
+<!ENTITY calendarproperties.firealarms.label              "Meeldetuletuste näitamine">
 <!ENTITY calendarproperties.cache2.label                  "Puhverdatud">
-<!ENTITY calendarproperties.enabled.label                 "Kalendri sisse lülitamine">
+<!ENTITY calendarproperties.enabled.label                 "Kalendri sisselülitamine">
 <!ENTITY calendarproperties.forceDisabled.label           "Sellele kalendrile ei leitud teenusepakkujat. Sageli põhjustab seda mõne lisa keelamine või eemaldamine.">
 <!ENTITY calendarproperties.unsubscribe.label             "Lõpeta tellimine">
 <!ENTITY calendarproperties.unsubscribe.accesskey         "L">
@@ -347,7 +347,7 @@
 <!ENTITY calendar.publish.example.url.description   "Stiilis http://www.minuserver.ee/webdav/test.ics">
 
 <!-- Select Calendar Dialog -->
-<!ENTITY calendar.select.dialog.title    "Vali kalender">
+<!ENTITY calendar.select.dialog.title    "Kalendri valimine">
 
 <!-- Calendar Printing -->
 <!ENTITY calendar.print.window.title                 "Kalendri printimine">
