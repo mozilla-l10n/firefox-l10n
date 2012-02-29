@@ -1,8 +1,10 @@
 <!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; मांडणी">
 
 <!-- First page of the wizard -->
-
+<!--
 <!ENTITY setup.pickSetupType.description "स्वागत आहे, पूर्वी &syncBrand.fullName.label; याचा वापर केले नसल्यास, तुम्हाला नवीन खाते निर्माण करावे लागेल.">
+-->
+
 <!ENTITY button.createNewAccount.label "नवीन खाते निर्माण करा">
 <!-- <!ENTITY button.haveAccount.label "माझ्याकडे &syncBrand.fullName.label; खाते आहे"> -->
 
@@ -42,9 +44,9 @@
 <!-- New Account Page 2: Sync Key -->
 <!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; गोपणीयता विषयी परवा करतो">
 <!ENTITY setup.newSyncKeyPage.description.label "संपूर्ण गोपणीयताची खात्री करण्यासाठी, अपलोड करण्यापूर्वी सर्व डाटा एनक्रिप्ट केले जाते. डाटा डिक्रिप्ट करण्यासाठी आवश्यक सिंक कि अपलोड केले नाही.">
+<!--
 <!ENTITY syncKeyEntry.label        "तुमची सिंक कि">
 <!ENTITY syncKeyEntry.accesskey    "K">
-<!--
 <!ENTITY syncKeyGenerate.label     "निर्माण करा">
 <!ENTITY syncKeyStrength.label     "स्ट्रेंग्थ्:">
 <!ENTITY syncKeyHelp.label         "स्ट्रेंग्थ् म्हणजे?">
@@ -56,11 +58,12 @@
 <!ENTITY button.syncKeyBackup.save.label      "साठवा…">
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
 
-<!-- New Account Page 3: Captcha -->
+<!-- New Account Page 3: Captcha 
 <!ENTITY setup.captchaPage2.title.label     "तुम्ही रोबोट नाही कृपया याची खात्री करा">
+-->
 
-<!-- Existing Account Page 1: Login -->
-<!-- <!ENTITY setup.existingAccount.title.label "खातेविषयी माहिती द्या"> -->
+<!-- Existing Account Page 1: Login 
+<!ENTITY setup.existingAccount.title.label "खातेविषयी माहिती द्या"> -->
 <!ENTITY resetPassword.label          "पासवर्ड मूळस्थितीत आणा">
 <!-- <!ENTITY connecting.label             "जोडणी करत आहे…"> -->
 
@@ -121,8 +124,11 @@
 
 <!ENTITY setup.pickSetupType.description "स्वागत आहे, तुम्ही आधिपासूनच &syncBrand.fullName.label; याचा वापर न केल्यास, तुम्हाला नवीन खाते निर्माण करावे लागेल.">
 <!ENTITY button.createNewAccount.label "नवीन खाते निर्माण करा">
+
+<!--
 <!ENTITY setup.haveAccount.label "माझ्याकडे आधिपासूनच &syncBrand.fullName.label; खाते आहे.">
 <!ENTITY button.connect.label    "जोडणी करा">
+-->
 
 <!ENTITY setup.choicePage.title.label     "आधि &syncBrand.fullName.label; केव्हाहि वापरले?">
 <!ENTITY setup.choicePage.new.label       "मी &syncBrand.shortName.label;चा वापर कधिही केला नाही">
@@ -136,8 +142,10 @@
 <!ENTITY signIn.account2.accesskey  "A">
 <!ENTITY signIn.password.label      "पासवर्ड">
 <!ENTITY signIn.password.accesskey  "P">
+<!--
 <!ENTITY signIn.syncKey.label       "सिंक कि">
 <!ENTITY signIn.syncKey.accesskey   "K">
+-->
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "खाते तपशील">
@@ -156,14 +164,19 @@
 <!ENTITY setup.tosAgree2.accesskey  "">
 
 <!-- New Account Page 2: Sync Key -->
+<!--
 <!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; तुमच्या गोपणीयताची काळजी घेतो">
 <!ENTITY setup.newSyncKeyPage.description.label "संपूर्णतया गोपणीयताच्या खात्रीसाठी, अपलोड करण्यापूर्वी सर्व डाटा एनक्रिप्ट केला जातो. डाटा डिक्रिप्ट करण्यासाठी आवश्यक सिंक कि अपलोड केली जात नाही.">
+-->
+
 <!ENTITY syncKeyEntry.label        "तुमची सिंक कि">
 <!ENTITY syncKeyEntry.accesskey    "K">
+
 <!--
 <!ENTITY syncKeyGenerate.label     "निर्माण करा">
--->
 <!ENTITY syncKeyBackup.description "दुसऱ्या मशीनस्वर &syncBrand.fullName.label; करीता प्रवेश प्राप्त करण्यासाठी तुमची सिंक कि आवश्यक आहे. कृपया बॅकअप प्रत निर्माण करा. सिंक कि पुनःप्राप्त करण्यास आम्ही तुमची मदत करू शकत नाही.">
+-->
+
 <!ENTITY button.syncKeyBackup.print.label     "छपाई…">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
 <!ENTITY button.syncKeyBackup.save.label      "साठवा…">
@@ -171,22 +184,40 @@
 
 <!-- New Account Page 3: Captcha -->
 <!ENTITY setup.captchaPage2.title.label     "तुम्ही रोबोट नाही याची खात्री करा">
-<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
+
+<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings)
 <!ENTITY addDevice.title.label              "साधन समाविष्ट करा">
+-->
+
 <!ENTITY addDevice.showMeHow.label          "कसे करायचे ते दाखवा.">
 <!ENTITY addDevice.dontHaveDevice.label     "माझ्यासह साधन नाही">
+
+<!--
 <!ENTITY addDevice.setup.description.label  "सुरू करण्यासाठी, दुसऱ्या साधनवरील &syncBrand.shortName.label; पर्यायकडे जा व  &#x0022;साधन समाविष्ट करा&#x0022; नीवडा.">
+-->
+
 <!ENTITY addDevice.setup.enterCode.label    "त्यानंतर, हा कोड द्या:">
+
+<!--
 <!ENTITY addDevice.dialog.description.label "नवीन साधन सुरू करण्यासाठी, दुसऱ्या साधनवरील &syncBrand.shortName.label; पर्यायकडे जा व &#x0022;जोडणी करा&#x0022; नीवडा.">
+-->
+
 <!ENTITY addDevice.dialog.enterCode.label   "साधनने पुरवलेला कोड द्या:">
 <!ENTITY addDevice.dialog.tryAgain.label    "कृपया पुनः प्रयत्न करा.">
 <!ENTITY addDevice.dialog.successful.label  "साधन यशस्वीरित्या समाविष्ट केले. प्रारंभिक सिंक्रोनाइजेशनला काहिक मिनीटे लागू शकतील व पार्श्वभूमीत समाप्त होईल.">
+
+<!--
 <!ENTITY addDevice.dialog.syncKey.label     "साधन सक्रिय करण्यासाठी तुम्हाला सिंक कि द्यावी लागेल. कृपया या किची छपाई करा किंवा साठवून ठेवा व तुमच्याकडे जपवून ठेवा.">
+-->
+
 <!ENTITY addDevice.dialog.connected.label   "साधन जोडले">
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "साइन इन">
+<!--
 <!ENTITY existingSyncKey.description "दुसऱ्या साधनवरील &syncBrand.shortName.label; पर्यायकडे जावून, व &#x0022;खाते व्यवस्थापीत करा&#x0022; अंतर्गत &#x0022;माझी सिंक कि&#x0022; नीवडून, तुम्हाला सिंक किचे प्रत प्राप्त करता येईल.">
+-->
+
 <!ENTITY verifying.label              "तपासत आहे…">
 <!ENTITY resetPassword.label          "पासवर्ड पूर्ववत् करा">
 <!-- <!ENTITY lostSyncKey.label            "माझी सिंक कि हरवली"> -->

@@ -12,8 +12,12 @@
 <!ENTITY useCurrentPage.label      "सद्याचे पान वापरा">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "सद्याचे पान वापरा">
+
+<!--
 <!ENTITY useBookmark.label         "ओळखचिन्ह वापरा">
 <!ENTITY useBookmark.accesskey     "B">
+-->
+
 <!ENTITY restoreDefault.label      "मुलभूत पुनःस्थापित करा">
 <!ENTITY restoreDefault.accesskey  "R">
 

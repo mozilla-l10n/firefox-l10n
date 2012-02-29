@@ -51,8 +51,12 @@
 <!ENTITY  clearOnClose.accesskey         "r">
 <!ENTITY  clearOnCloseSettings.label     "संयोजना…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
+
+<!--
 <!ENTITY  privateBrowsingPermanent.label "कायमचे व्यक्तिगत ब्राउजिंग मोड">
 <!ENTITY  privateBrowsingPermanent.accesskey "P">
+-->
+
 <!ENTITY  rememberHistory.label      "माझा ब्राउजिंग इतिहास लक्षात ठेवा">
 <!ENTITY  rememberHistory.accesskey  "b">
 <!ENTITY tracking.label                 "ट्रॅकिंग">

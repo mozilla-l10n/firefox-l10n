@@ -8,10 +8,12 @@
 <!ENTITY importFromIE.accesskey "M">
 <!ENTITY importFromNothing.label "आधीची कोणतीही माहिती वापरु नका">
 <!ENTITY importFromNothing.accesskey "D">
+<!--
 <!ENTITY importFromSeamonkey.label "नेटस्केप 6,7 किंवा मोझीला 1 पुढील">
 <!ENTITY importFromSeamonkey.accesskey "N">
 <!ENTITY importFromOpera.label "ऑपेरा">
 <!ENTITY importFromOpera.accesskey "O">
+-->
 <!ENTITY importFromSafari.label "सफारी">
 <!ENTITY importFromSafari.accesskey "S">
 

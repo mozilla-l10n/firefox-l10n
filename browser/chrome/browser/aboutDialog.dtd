@@ -18,7 +18,11 @@
 <!ENTITY community.mozillaLink      "&vendorShortName; द्वारे निर्मीत आहे">
 <!ENTITY community.middle2          ", एक ">
 <!ENTITY community.creditsLink      "जागतिक समाज">
+
+<!--
 <!ENTITY community.end2             " जे इंटरनेट अधिक चांगले करण्यासाठी एकत्रपणे कार्य करते. इंटरनेट प्रत्येकजणाला खुले, जाहीर व कोणत्याही प्रतिबंधविना सहज वापरता येण्याजोगी असावे असा आमचा विश्वास आहे.">
+-->
+
 <!ENTITY contribute.start           "मनोरंजक वाटते? ">
 <!ENTITY contribute.getInvolvedLink "भाग घ्या!">
 <!ENTITY contribute.end             "">
@@ -36,8 +40,7 @@
 <!ENTITY update.manual.end          "">
 <!ENTITY update.downloading.start   "सुधारणा डाउनलोड करत आहे — ">
 <!ENTITY update.downloading.end     "">
-<!ENTITY channel.description.start  "तुम्ही सध्या">
-<!ENTITY channel.description.end    " सुधारणा वाहिनीवर आहात. ">
+<!--
 <!ENTITY channel.change             "बदला">
 <!ENTITY channel.release.description       "जगभरातील जवळपास लक्षावधी वापरकर्त्यांनी वापरलेले व तपासलेल्या निर्णायक प्रकाशनाची मजा लुटा. उत्कृष्ट भव्य वेग, पसंतीचे करायच्या सोप्या पद्धती व अत्याधुनिक वेब तंत्रज्ञानांसह तुमच्या ऑनलाईन अनुभवाच्या नियंत्रणात रहा.">
 <!ENTITY channel.beta.description          "अधिक स्थिरतेबरोबर विशिष्ट गुणधर्मांचा अनुभव घ्या. अंतिम प्रकाशन अधिक चांगले व चमकावदार करण्यासाठी प्रतिसाद द्या.">
@@ -46,3 +49,6 @@
 <!ENTITY channel.selector.end            "सुधारणा वाहिनी.">
 <!ENTITY channel.selector.applyButton    "लागू करा व सुधारणा करा">
 <!ENTITY channel.selector.cancelButton   "रद्द करा">
+-->
+<!ENTITY channel.description.start  "तुम्ही सध्या">
+<!ENTITY channel.description.end    " सुधारणा वाहिनीवर आहात. ">
