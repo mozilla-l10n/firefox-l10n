@@ -157,10 +157,15 @@
 <!ENTITY scratchpad.accesskey "B">
 <!ENTITY scratchpad.keycode "VK_F4">
 <!ENTITY scratchpad.keytext "F4">
-<!ENTITY inspectPanelTitle.label "HTML">
 <!ENTITY inspectButton.label "Analizza">
 <!ENTITY inspectButton.accesskey "A">
 <!ENTITY inspectCloseButton.tooltiptext "Chiudi lo strumento di analisi">
+<!ENTITY inspectorHTMLCopyInner.label "M">
+<!ENTITY inspectorHTMLCopyInner.accesskey "Copia HTML interno">
+<!ENTITY inspectorHTMLCopyOuter.label "T">
+<!ENTITY inspectorHTMLCopyOuter.accesskey "Copia HTML esterno">
+<!ENTITY inspectorHTMLDelete.label "Elimina nodo">
+<!ENTITY inspectorHTMLDelete.accesskey "E">
 <!ENTITY inspect3DViewButton.label "Vista 3D">
 <!ENTITY inspect3DViewButton.accesskey "V">
 <!ENTITY inspectStyleButton.label "Stile">
@@ -435,3 +440,6 @@
 <!ENTITY syncToolbarButton.label "Sync">
 <!ENTITY addonBarCloseButton.tooltip "Chiudi la barra dei componenti aggiuntivi">
 <!ENTITY toggleAddonBarCmd.key "/">
+<!ENTITY htmlPanel.label "HTML">
+<!ENTITY htmlPanel.tooltiptext "Pannello HTML">
+<!ENTITY htmlPanel.accesskey "H">
