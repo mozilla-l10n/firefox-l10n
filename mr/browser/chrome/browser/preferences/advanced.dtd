@@ -10,20 +10,19 @@
 <!ENTITY useSmoothScrolling.accesskey "m">
 
 <!ENTITY updateTab.label "सुधारित आवृत्ती">
+<!--
 <!ENTITY autoCheck.label "यांमध्ये सुधारणेसाठी स्वयंतपासणी करा">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey "F">
-
+-->
 <!ENTITY 	enableSearchUpdate.label "शोधयंत्र">
 <!ENTITY enableSearchUpdate.accesskey "h">
 
-
+<!--
 <!ENTITY whenUpdatesFound.label "जेव्हा &brandShortName; साठी सुधारीत आवृत्ती सापडेलः">
-
-
 <!ENTITY modeAutomatic.label "सुधारीत आवृत्ती आपोआप डाउनलोड आणि संस्थापित करा">
 <!ENTITY modeAutomatic.accesskey "d">
-
+-->
 
 <!ENTITY protocols.label "संगणकीय शिष्टाचार">
 <!ENTITY useSSL3.label "SSL 3.0 वापरा">
@@ -53,12 +52,14 @@
 <!ENTITY certs.auto                      "आपोआप निवडा">
 
 <!ENTITY connectionSettings.accesskey    "e">
-<!-- <!ENTITY enableAddonsUpdate.label        "ऍडऑन प्रतिष्ठापीत केले"> -->
+<!--
+<!ENTITY enableAddonsUpdate.label        "ऍडऑन प्रतिष्ठापीत केले">
 <!ENTITY modeAutoAddonWarn.accesskey     "W">
-<!-- <!ENTITY enableAddonsUpdate.accesskey    "n"> -->
+<!ENTITY enableAddonsUpdate.accesskey    "n"> 
+-->
 <!ENTITY encryptionTab.label             "कुटलिपी">
 <!ENTITY checkSpelling.label             "शब्दलेखन परस्पर लिहीतेवेळी तपासा">
-<!ENTITY askMe.accesskey                 "k">
+<!-- <!ENTITY askMe.accesskey                 "k"> -->
 <!ENTITY certs.ask                       "मला दरवेळी विचारा">
 <!ENTITY certs.auto.accesskey            "l">
 
@@ -69,7 +70,7 @@
 <!ENTITY connectionSettings.label        "संरचना...">
 <!-- <!ENTITY useCacheAfter.label             "कॅशकरता MB जागा"> -->
 <!ENTITY viewCerts.label                 "प्रमाणपत्रे पहा">
-<!ENTITY askMe.label                     "मला काय करायचे हे विचारा">
+<!-- <!ENTITY askMe.label                     "मला काय करायचे हे विचारा"> -->
 <!ENTITY useAutoScroll.label             "स्व वर खालीचा वापर करा">
 
 
@@ -80,14 +81,22 @@
 <!ENTITY alwaysCheckDefault.accesskey    "w">
 <!ENTITY checkNow.label                  "आता तपासा">
 <!ENTITY checkNow.accesskey              "N">
+
+<!--
 <!ENTITY offlineStorage.label            "ऑफलाइन संचयन">
+-->
+
 <!ENTITY clearCacheNow.label             "आता पुसून टाका">
 <!ENTITY clearCacheNow.accesskey         "C">
 <!ENTITY offlineNotify.label             "ऑफलाइन वापरसाठी माहिती संचयन केव्हा होते ते कळवा">
 <!ENTITY offlineNotify.accesskey         "T">
 <!ENTITY offlineNotifyExceptions.label   "अपवाद…">
 <!ENTITY offlineNotifyExceptions.accesskey "x">
+
+<!--
 <!ENTITY offlineAppsList.label           "खालिल संकेतस्थळांनी ऑफलाइन वापरकरीता माहिती संचयीत केली आहे:">
+-->
+
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "काढूण टाका…">
 <!ENTITY offlineAppsListRemove.accesskey "R">
@@ -99,6 +108,8 @@
 <!--
 <!ENTITY doNotTrack.label                "संकेत स्थळांनी मला ट्रॅक करायचे नाही">
 <!ENTITY doNotTrack.accesskey            "d">
+<!ENTITY enableAddonsUpdate2.label       "ॲडऑन्स्">
+<!ENTITY enableAddonsUpdate2.accesskey   "n">
 -->
 
 <!ENTITY allowHWAccel.label              "उपलब्ध असल्यावर हार्डवेअर ॲक्सिलरेशनचा वापर करा">
@@ -110,5 +121,3 @@
 <!ENTITY limitCacheSizeAfter.label       "MB मध्ये जागा">
 <!ENTITY overrideSmartCacheSize.label    "स्वयं कॅशे व्यवस्थापन खोडून पुनः लिहा">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
-<!ENTITY enableAddonsUpdate2.label       "ॲडऑन्स्">
-<!ENTITY enableAddonsUpdate2.accesskey   "n">

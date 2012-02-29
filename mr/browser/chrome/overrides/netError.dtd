@@ -164,12 +164,13 @@
      indicate that "Work Offline" is a menu item without being too specific,
      since it could be in either the normal menu (Mac/Linux) or the Firefox button
      menu (Windows).
--->
 <!ENTITY netOffline.overrideLongDesc "
 <ul>
   <li>&quot;ऑफलाइन काम करा&quot; मेन्यू घटक नीवड अशक्य करा, नंतर पुनः प्रयत्न करा.</li>
 </ul>
 ">
+-->
+
 <!ENTITY cspFrameAncestorBlocked.title "अंतर्भुत माहिती सुरक्षा धोरणद्वारे रोखले गेले">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>पानामध्ये अंतर्भुत माहिती सुरक्षा धोरण आढळल्यामुळे &brandShortName;ने पानाला याप्रकारे लोड होण्यापासून रोखले.</p>">
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the

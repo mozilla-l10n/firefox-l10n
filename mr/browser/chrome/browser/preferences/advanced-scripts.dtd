@@ -12,10 +12,10 @@ https://bugzilla.mozilla.org/show_bug.cgi?id=526494
 <!ENTITY hideStatusBar.accesskey "H">
 <!ENTITY changeStatusBar.label "स्थितीदर्शक वरील मजकूर बदला">
 <!ENTITY changeStatusBar.accesskey "C"> 
--->
-
 <!ENTITY moveResizeWindows.label "दृश्यचौकट हलवा किंवा तिचा आकार बदला">
 <!ENTITY moveResizeWindows.accesskey "M">
+-->
+
 <!ENTITY raiseLowerWindows.label "दृश्यचौकट वर किंवा खाली करा">
 <!ENTITY raiseLowerWindows.accesskey "R">
 <!ENTITY disableContextMenus.label "स्थितीजन्य मेनु अकार्यान्वीत करा किंवा बदला">

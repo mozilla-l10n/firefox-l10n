@@ -9,4 +9,3 @@
 <!ENTITY addNewToolbar.label      "नविन साधनपट्टी जोडा">
 <!ENTITY saveChanges.label        "संपले">
 <!ENTITY undoChanges.label        "बदल काढुन टाका">
-<!ENTITY dialog.style "width: 635px; height: 400px;">

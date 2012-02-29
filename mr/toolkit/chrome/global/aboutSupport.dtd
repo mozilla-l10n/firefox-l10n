@@ -21,14 +21,19 @@
 <!ENTITY aboutSupport.appBasicsBuildConfig "बिल्ड् संरचना">
 <!ENTITY aboutSupport.appBasicsUserAgent "युजर एजेंट">
 
+<!--
 <!ENTITY aboutSupport.show.label "अंतर्भूत माहिती समाविष्टीत फोल्डर उघडा">
+-->
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.show.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
 <!ENTITY aboutSupport.showMac.label "फाइंडरमध्ये दाखवा">
 
+<!-- 
 <!ENTITY aboutSupport.modifiedPrefsTitle "संपादित पसंती">
+-->
+
 <!ENTITY aboutSupport.modifiedPrefsName "नाव">
 <!ENTITY aboutSupport.modifiedPrefsValue "मूल्य">
 

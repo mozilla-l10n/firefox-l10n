@@ -34,7 +34,7 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY filterPrefs.label "चाळण:">
+<!-- <!ENTITY filterPrefs.label "चाळण:"> -->
 <!ENTITY filterPrefs.accesskey "F">
 
 <!-- Columns -->
@@ -75,4 +75,3 @@
 <!ENTITY aboutWarningText.label "प्रगत संयोजना मधिल बदल या अनुप्रयोगाची स्थिरता, सुरक्षा, व कार्यक्षमता करीता धोकादायक ठरू शकते.  पुढे नक्की असल्यावरच पुढे जावे.">
 <!ENTITY aboutWarningButton.label "मी सतर्क राहीन, मी असे वचन देतो!">
 <!ENTITY aboutWarningCheckbox.label "सावधानता पुढच्यावेळी दर्शवा">
-<!ENTITY focusFilter.key "f">
