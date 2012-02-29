@@ -4,7 +4,7 @@
 <!ENTITY pluginWizard.checkingForPlugins.description.label   "A &brandShortName; keresi a rendelkezésre álló bővítményeket...">
 
 <!ENTITY pluginWizard.availablePluginsPage.title             "Letölthető bővítmények">
-<!ENTITY pluginWizard.availablePluginsPage.description.label "A következő bővítmények telepíthetők: ">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "A következő bővítmények telepíthetők:">
 <!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "A bővítmények telepítéséhez kattintson a Tovább gombra.">
 <!ENTITY pluginWizard.availablePluginsPage.installerUI       "Egyes bővítmények a telepítés során további információkat igényelnek Öntől.">
 
@@ -21,6 +21,7 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "A bővítmények használata előtt a &brandShortName; programot újra kell indítani.">
 
 <!ENTITY missingPlugin                                       "A tartalom megjelenítéséhez bővítmény szükséges.">
+<!ENTITY clickToPlayPlugin                                   "Bökjön ide a bővítmény aktiválásához.">
 <!ENTITY disabledPlugin                                      "A bővítmény le van tiltva.">
 <!ENTITY blockedPlugin.label                                 "Az Ön védelme érdekében ez a bővítmény le lett tiltva.">
 

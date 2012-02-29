@@ -17,7 +17,7 @@
 <!ENTITY goBackCmd.commandkey           "[">
 <!ENTITY goForwardCmd.commandkey        "]">
 <!ENTITY homeButton.label               "Kezdőlap">
-<!ENTITY homeButton.tooltip             "Ugrás a Súgó kezdőoldalára">
+<!ENTITY homeButton.tooltip             "Ugrás a súgó kezdőoldalára">
 <!ENTITY printButton.label              "Nyomtatás">
 <!ENTITY printButton.tooltip            "Oldal kinyomtatása">
 <!ENTITY closeWindow.commandkey         "W">

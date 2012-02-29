@@ -1,6 +1,12 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the Scratchpad window strings -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
+<!-- LOCALIZATION NOTE : FILE The correct localization of this file might be to
+  - keep it in English, or another language commonly spoken among web developers.
+  - You want to make that choice consistent across the developer tools.
+  - A good criteria is the language in which you'd find the best
+  - documentation on web development on the web. -->
+
 <!-- LOCALIZATION NOTE (scratchpad.title):
   -  The Scratchpad is intended to provide a simple text editor for creating
   -  and evaluating bits of JavaScript code for the purposes of function
@@ -95,30 +101,23 @@
 <!ENTITY browserContext.label         "Böngésző">
 <!ENTITY browserContext.accesskey     "B">
 
-<!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
+<!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
-<!ENTITY resetContext.label           "Törlés">
-<!ENTITY resetContext.accesskey       "T">
+<!ENTITY resetContext2.label          "Változók alaphelyzetbe">
+<!ENTITY resetContext2.accesskey      "a">
 
 <!ENTITY executeMenu.label            "Végrehajtás">
 <!ENTITY executeMenu.accesskey        "V">
 
-<!ENTITY toolsMenu.label              "Eszközök">
-<!ENTITY toolsMenu.accesskey          "E">
-
-<!ENTITY errorConsoleCmd.label        "Hibakonzol">
-<!ENTITY errorConsoleCmd.accesskey    "H">
+<!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
+  -  the browser Error Console, the key should be identical to the property of
+  -  the same name in browser.dtd.
+  -->
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY webConsoleCmd.label          "Webkonzol">
-<!ENTITY webConsoleCmd.accesskey      "W">
-<!ENTITY webConsoleCmd.commandkey     "k">
-
-<!-- LOCALIZATION NOTE (textbox.placeholder1): This is some placeholder text
-  -  that appears when the Scratchpad's text area is empty and unfocused.
-  -  It should be a one-line JavaScript comment, i.e., preceded by '//'
+<!-- LOCALIZATION NOTE (webConsoleCmd.commandkey): This command key launches
+  -  the browser WebConsole, the key should be identical to the property of
+  -  the same name in browser.dtd.
   -->
-<!ENTITY textbox.placeholder1         "// Írjon be JavaScript-kódot, jelölje ki, nyomja meg a jobb egérgombot, és válasszon a Futtatás, Vizsgálat vagy Megjelenítés lehetőséget közül.">
-
-
+<!ENTITY webConsoleCmd.commandkey     "k">

@@ -11,6 +11,7 @@
 <!ENTITY email.accesskey "E">
 <!ENTITY replyTo.label "Válaszcím:">
 <!ENTITY replyTo.accesskey "V">
+<!ENTITY replyTo.placeholder "A levél címzettjei erre a másik címre válaszolhatnak">
 <!ENTITY organization.label "Szervezet:">
 <!ENTITY organization.accesskey "S">
 <!ENTITY signatureText.label "Aláírás szövege:">

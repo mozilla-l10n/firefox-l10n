@@ -1,6 +1,4 @@
 
-<!ENTITY  splash_screen_loading "Betöltés">
-<!ENTITY  splash_screen_installing_libs "Könyvtárak telepítése\u2026">
 <!ENTITY  splash_firstrun "A &brandShortName; beállítása\u2026">
 
 <!ENTITY  no_space_to_start_error "Nincs elég hely a &brandShortName; elindításához.">
@@ -16,3 +14,8 @@
 <!ENTITY  sending_crash_report "Hibajelentés elküldése \u2026">
 <!ENTITY  exit_label "Kilépés">
 <!ENTITY  continue_label "Folytatás">
+
+<!ENTITY  launcher_shortcuts_title "&brandShortName;-webalkalmazások">
+<!ENTITY  launcher_shortcuts_empty "Nem találhatók webalkalmazások">
+
+<!ENTITY choose_file "Fájlválasztás">

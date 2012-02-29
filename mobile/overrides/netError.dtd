@@ -1,5 +1,5 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
-  %brandDTD;
+%brandDTD;
 
 <!ENTITY loadError.label "Probléma az oldal betöltése közben">
 <!ENTITY retry.label "Próbálja újra">
@@ -7,22 +7,18 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "A kapcsolódás sikertelen">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
 
 <!ENTITY deniedPortAccess.title "Ez a cím tiltva van">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "A kiszolgáló nem található">
-<!ENTITY dnsNotFound.longDesc "
+<!ENTITY dnsNotFound.longDesc2 "
 <ul>
-  <li>Ellenőrizze a címet, nem gépelte-e el. Például nem írt-e
-    <strong>ww</strong>.valami.hu-t a
-    <strong>www</strong>.valami.hu helyett.</li>
-  <li>Ha semmilyen oldalt nem tud letölteni, ellenőrizze a számítógépe hálózati
-    kapcsolatát.</li>
-  <li>Ha a számítógépet vagy a hálózatot tűzfal vagy proxy védi, ellenőrizze, hogy a
-    &brandShortName; számára engedélyezett-e a webhozzáférés.</li>
-</ul>
+  <li>Ellenőrizze a címet, hogy nincs-e benne elgépelés, pl.
+    <strong>ww</strong>.example.com a
+    <strong>www</strong>.example.com</li> helyett.
+  <li>Ha semmilyen oldalt nem tud betölteni, ellenőrizze az eszköz adatkapcsolatát, illetve Wi-Fi kapcsolatát.</li> </ul>
 ">
 
 <!ENTITY fileNotFound.title "A fájl nem található">
@@ -50,7 +46,10 @@
 ">
 
 <!ENTITY netInterrupt.title "A kapcsolat megszakadt">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+
+<!ENTITY notCached.title "A dokumentum lejárt">
+<!ENTITY notCached.longDesc "<p>A kért dokumentum nem érhető el a &brandShortName;gyorsítótárában.</p><ul><li>Biztonsági okokból a &brandShortName; nem kéri le automatikusan az érzékeny adatokat tartalmazó dokumentumokat.</li><li>Kattintson a „Próbálja újra” gombra, hogy újra lekérje a dokumentumot a webhelyről.</li></ul>">
 
 <!ENTITY netOffline.title "Kapcsolat nélküli mód">
 <!ENTITY netOffline.longDesc2 "
@@ -74,10 +73,10 @@
 ">
 
 <!ENTITY netReset.title "A kapcsolat alaphelyzetbe állt">
-<!ENTITY netReset.longDesc "&sharedLongDesc;">
+<!ENTITY netReset.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netTimeout.title "A kapcsolat időtúllépés miatt megszakadt">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
 <!ENTITY protocolNotFound.title "A cím nem volt érthető">
 <!ENTITY protocolNotFound.longDesc "
@@ -95,14 +94,11 @@
 </ul>
 ">
 
-<!ENTITY proxyResolveFailure.title " Nem található a proxykiszolgáló">
-<!ENTITY proxyResolveFailure.longDesc "
+<!ENTITY proxyResolveFailure.title "Nem található a proxykiszolgáló">
+<!ENTITY proxyResolveFailure.longDesc2 "
 <ul>
   <li>Ellenőrizze a proxybeállításokat, hogy helyesek-e.</li>
-  <li>Ellenőrizze, hogy a számítógép hálózati kapcsolata működik-e.</li>
-  <li>Ha a számítógépet vagy a hálózatot tűzfal vagy proxy védi, ellenőrizze, hogy a
-    &brandShortName; számára engedélyezett-e a webhozzáférés.</li>
-</ul>
+  <li>Ellenőrizze, hogy az eszköznek van működő adatkapcsolata vagy Wi-Fi kapcsolata.</li> </ul>
 ">
 
 <!ENTITY redirectLoop.title "Az oldal nem megfelelően van átirányítva">
@@ -124,40 +120,23 @@
 <!ENTITY nssFailure2.title "A biztonságos kapcsolat sikertelen">
 <!ENTITY nssFailure2.longDesc "
 <ul>
-  <li>A megtekinteni kívánt oldal nem jeleníthető meg, mert a kapott adatok hitelesége nem volt ellenőrizhető.</li>
-  <li>Értesítse a webhely tulajdonosait erről a problémáról. A másik lehetőség, hogy a Súgó menü megfelelő menüpontjának segítségével jelentse be ezt a hibás webhelyet.</li>
+  <li>A megtekinteni kívánt oldal nem jeleníthető meg, mert a kapott adatok hitelessége nem ellenőrizhető.</li>
+  <li>Lépjen kapcsolatba a webhely üzemeltetőjével, és értesítse a problémáról. A másik lehetőség, hogy a Súgó menü megfelelő menüpontjának segítségével jelentse be ezt a hibás webhelyet.</li>
 </ul>
 ">
 
 <!ENTITY nssBadCert.title "A biztonságos kapcsolat sikertelen">
 <!ENTITY nssBadCert.longDesc2 "
 <ul>
-<li>Ezt okozhatja a kiszolgáló nem megfelelő beállítása, de az is lehet, hogy valaki megpróbál a kiszolgáló nevében fellépni.</li>
-<li>Ha korábban már sikeresen kapcsolódott ehhez a kiszolgálóhoz, akkor lehet, hogy a hiba csak ideiglenes, és később újra próbálkozhat.</li>
+  <li>Ezt okozhatja a kiszolgáló nem megfelelő beállítása, de az is lehet, hogy valaki megpróbál a kiszolgáló nevében fellépni.</li>
+  <li>Ha korábban már sikeresen kapcsolódott ehhez a kiszolgálóhoz, akkor lehet, hogy a hiba csak ideiglenes, és később újra próbálkozhat.</li>
 </ul>
 ">
 
-<!ENTITY sharedLongDesc "
+<!ENTITY sharedLongDesc2 "
 <ul>
-  <li>A webhely ideiglenesen nem érhető el vagy túlterhelt. Próbálja újra pár
-    perc múlva.</li>
-  <li>Ha semmilyen oldalt nem tud letölteni, ellenőrizze a számítógépe hálózati
-    kapcsolatát.</li>
-  <li>Ha a számítógépet vagy a hálózatot tűzfal vagy proxy védi, ellenőrizze, hogy a
-    &brandShortName; számára engedélyezett-e a webhozzáférés.</li>
-</ul>
-">
-
-<!ENTITY malwareBlocked.title "Valószínűleg támadó webhely!">
-<!ENTITY malwareBlocked.longDesc "
-<p>A támadó webhelyek megpróbálnak olyan programokat telepíteni, amelyek személyes adatokat lopnak el, a számítógépet mások megtámadására használják, vagy károsítják a rendszert.</p>
-<p>Azok a webhelytulajdonosok, akik szerint a webhelyüket tévedésből azonosították támadó webhelyként, <a href='http://www.stopbadware.org/home/reviewinfo' >felülvizsgálatot kérhetnek</a>.</p>
-">
-
-<!ENTITY phishingBlocked.title "Valószínűleg hamisított webhely!">
-<!ENTITY phishingBlocked.longDesc "
-<p>Ha személyes adatot ad meg ezen az oldalon, az a személyazonosságának ellopásához vagy más csaláshoz vezethet.</p>
-<p>Az ilyen típusú hamisított weboldalakat az adathalászat nevű csaláshoz szokták felhasználni, amely során megbízhatónak tűnő weboldalakkal vagy e-mailekkel próbálják a felhasználó becsapni.</p>
+  <li>A webhely ideiglenesen nem érhető el vagy túlterhelt. Próbálja újra pár perc múlva.</li>
+  <li>Ha semmilyen oldalt nem tud betölteni, ellenőrizze az eszköz adatkapcsolatát, illetve Wi-Fi kapcsolatát.</li> </ul>
 ">
 
 <!ENTITY cspFrameAncestorBlocked.title "Blokkolva a tartalombiztonsági irányelv szerint">
@@ -177,6 +156,7 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!ENTITY securityOverride.warningContent "
 <p>Ne adjon hozzá kivételt, ha nem teljesen megbízható internetkapcsolatot használ, vagy ha nem szokta látni ezt a figyelmeztetést ennél a kiszolgálónál.</p>
+
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">

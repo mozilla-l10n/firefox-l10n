@@ -43,9 +43,9 @@
 <!ENTITY aboutWarningButton.label "Óvatos leszek, megígérem!">
 <!ENTITY aboutWarningCheckbox.label "A figyelmeztetés megjelenítése legközelebb">
 
-<!ENTITY filterPrefs.label "Szűrő:">
-<!ENTITY filterPrefs.accesskey "S">
-<!ENTITY focusFilter.key "f">
+<!ENTITY searchPrefs.label "Keresés:">
+<!ENTITY searchPrefs.accesskey "r">
+<!ENTITY focusSearch.key "r">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "Beállítás neve">

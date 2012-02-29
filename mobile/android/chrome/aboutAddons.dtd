@@ -1,0 +1,8 @@
+<!ENTITY aboutAddons.title                      "Kiegészítőkezelő">
+<!ENTITY aboutAddons.header2                    "Kiegészítők">
+<!ENTITY aboutAddons.options                    "Beállítások">
+
+<!ENTITY addonAction.enable                     "Engedélyezés">
+<!ENTITY addonAction.disable                    "Letiltás">
+<!ENTITY addonAction.uninstall                  "Eltávolítás">
+<!ENTITY addonAction.cancel                     "Mégse">
