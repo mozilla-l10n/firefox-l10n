@@ -111,7 +111,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY tasksMenu.accesskey                            "T">
 <!ENTITY messengerCmd.label                             "&amp; Նորություններ">
 <!ENTITY messengerCmd.accesskey                         "M">
-<!ENTITY messengerCmd.commandkey                        "&">
+<!ENTITY messengerCmd.commandkey                        "1">
 <!ENTITY searchAddressesCmd.label                       "Փնտրել հասցեներ...">
 <!ENTITY searchAddressesCmd.accesskey                   "S">
 <!ENTITY importCmd.label                                "Ներմուծել…">
