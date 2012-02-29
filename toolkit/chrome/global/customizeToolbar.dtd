@@ -1,5 +1,5 @@
 <!ENTITY dialog.title "මෙවලම් තීරු රිසිකරණය">
-<!ENTITY dialog.style             "width: 86ch; height: 36em;">
+<!ENTITY dialog.dimensions        "width: 92ch; height: 36em;">
 <!ENTITY instructions.description "මෙවලම් තීරුව මතට ඇදගෙන ඒමෙන් හෝ ඒ මතින් ඇදගෙන යාමෙන් අයිතමයන් එක්කිරීමට හෝ ඉවත්කිරීමට හැකිය">
 <!ENTITY show.label               "පෙන්වන්න:">
 <!ENTITY iconsAndText.label       "අයිකන සහ පෙළ">

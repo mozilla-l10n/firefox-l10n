@@ -12,6 +12,8 @@
 <!ENTITY deleteCmd.accesskey "D">
 <!ENTITY spellAddToDictionary.label "ශබ්ද කෝෂයට එක් කරන්න">
 <!ENTITY spellAddToDictionary.accesskey "t">
+<!ENTITY spellUndoAddToDictionary.label "ශබ්ද කෝෂයට එක්කිරීම අහෝසි කරන්න">
+<!ENTITY spellUndoAddToDictionary.accesskey "n">
 <!ENTITY spellNoSuggestions.label "(අක්‍ෂර වින්‍යාස යෝජනා නැත)">
 <!ENTITY spellDictionaries.label "භාෂාව">
 <!ENTITY spellDictionaries.accesskey "L">

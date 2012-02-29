@@ -1,10 +1,8 @@
+<!ENTITY aboutSupport.showDir.label "ඩිරෙක්ටරිය විවෘත කරන්න">
 
-
-<!--
-Entities below were automatically added by compare-locales,
- based on en-US entities.
--->
-
+<!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
+variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin.label "ෆෝල්ඩරය පෙන්වන්න">
 <!ENTITY aboutSupport.extensionVersion "නිකුතුව">
 <!ENTITY aboutSupport.updateHistoryTitle "යාවත්කාලීන ඉතිහාසය">
 <!ENTITY aboutSupport.extensionId "ID">
@@ -25,12 +23,11 @@ Entities below were automatically added by compare-locales,
 <!ENTITY aboutSupport.modifiedPrefsName "නම">
 <!ENTITY aboutSupport.graphicsTitle "පිංතූර">
 <!ENTITY aboutSupport.appBasicsVersion "නිකුතුව">
-<!ENTITY aboutSupport.show.label "අඩංගු ෆෝල්ඩරය විවෘත කරන්න">
 <!ENTITY aboutSupport.copyToClipboard.label "Copy all to clipboard">
 <!ENTITY aboutSupport.installationHistoryTitle "ස්ථාපන ඉතිහාසය">
 <!ENTITY aboutSupport.extensionName "නම">
 <!ENTITY aboutSupport.showMac.label "සෙවීම්තීරය තුළ පෙන්වන්න">
 <!ENTITY aboutSupport.pageTitle "දොස් සෙවීම් තොරතුරු">
-<!ENTITY aboutSupport.modifiedPrefsTitle "වෙනස්කළ මනාපයන්">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "ආයාතකළ වෙනස්කළ මනාපයන්">
 <!ENTITY aboutSupport.appBasicsCrashIDs "බිඳවැටුම් වාර්තා">
 <!ENTITY aboutSupport.appBasicsMemoryUse "මෙමරි භාවිතය">
