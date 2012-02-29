@@ -43,3 +43,4 @@
 <!ENTITY noReports.label            "Վթարային ոչ մի հաղորդագրություն չի ուղարկվել:">
 <!ENTITY noConfig.label             "Այս ծրագիրը չի կոնֆիգուրացվել վթարային հաղորդագրություններ ցուցադրելու համար: Անհրաժեշտ է դնել <code>breakpad.reportURL</code> պարամերտը:">
 <!ENTITY clearAllReports.label      "Ջնջել բոլոր զեկուցումները">
+

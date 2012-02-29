@@ -127,8 +127,8 @@
 <!ENTITY engine.passwords.accesskey "Գ">
 <!ENTITY engine.prefs.label         "Նախընտրանքներ">
 <!ENTITY engine.prefs.accesskey     "Ն">
-<!ENTITY engine.addons.label        "Add-ons">
-<!ENTITY engine.addons.accesskey    "A">
+<!ENTITY engine.addons.label        "Հավելումներ">
+<!ENTITY engine.addons.accesskey    "Հ">
 
 <!ENTITY choice2.merge.main.label      "Միացնել այս համակարգչի տվյալները &syncBrand.shortName.label;-ի տվյալներին">
 <!ENTITY choice2.merge.recommended.label "Խորհուրդ է տրվում՝">

@@ -64,10 +64,10 @@
 <!ENTITY visibilityToggle.tooltip   "Toggle style sheet visibility">
 <!ENTITY visibilityToggle.accesskey "V">
 
-<!ENTITY saveButton.label           "Save">
+<!ENTITY saveButton.label           "Պահպանել">
 <!ENTITY saveButton.tooltip         "Save this style sheet to a file">
-<!ENTITY saveButton.accesskey       "S">
-<!ENTITY saveButton.commandkey      "s">
+<!ENTITY saveButton.accesskey       "Պ">
+<!ENTITY saveButton.commandkey      "Պ">
 
 <!-- LOCALICATION NOTE  (scoped.label): This is shown in a stylesheets list item
      when the stylesheet uses the scoped attribute on the <style> element. -->

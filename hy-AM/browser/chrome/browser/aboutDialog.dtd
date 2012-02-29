@@ -50,7 +50,7 @@
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       " is a ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
-<!ENTITY community.exp.creditsLink  "global community">
+<!ENTITY community.exp.creditsLink  "գլոբալ համայնք">
 <!ENTITY community.exp.end          " working together to keep the Web open, public and accessible to all.">
 
 <!ENTITY community.start2           "&brandShortName;-ը ձևավորել է ">
@@ -70,7 +70,7 @@
 <!ENTITY bottomLinks.license        "Արտոնագրի տվյալներ">
 
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
-<!ENTITY bottomLinks.rights         "Օգտագործողի Իրավունքները">
+<!ENTITY bottomLinks.rights         "End-User Rights">
 
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
 <!ENTITY bottomLinks.privacy        "Գաղտնիության Դրույթները">

@@ -256,8 +256,13 @@ can reach it easily. -->
 <!ENTITY inspectButton.label            "Հսկել">
 <!ENTITY inspectButton.accesskey        "Հ">
 <!ENTITY inspectCloseButton.tooltiptext "Close Inspector">
-<!ENTITY inspect3DButton.label        "3D">
-<!ENTITY inspect3DButton.accesskey    "M">
+
+<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
+  -  alternate view for the Inspector, creating a 3D visualization of the
+  -  webpage. -->
+<!ENTITY inspect3DViewButton.label     "3D View">
+<!ENTITY inspect3DViewButton.accesskey "W">
+
 <!ENTITY inspectStyleButton.label     "Ոճը">
 <!ENTITY inspectStyleButton.accesskey "Ո">
 
@@ -480,7 +485,7 @@ items are mutually exclusive. -->
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
 "Unmute" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY mediaMute.label             "Mute">
+<!ENTITY mediaMute.label             "Անձայն">
 <!ENTITY mediaMute.accesskey         "m">
 <!ENTITY mediaUnmute.label           "Ձայն">
 <!ENTITY mediaUnmute.accesskey       "m">
