@@ -4,7 +4,7 @@
 <!ENTITY biffEnd.label "minuti">
 <!ENTITY loginAtStartup.label "Controlla presenza di nuovi articoli all'avvio.">
 <!ENTITY loginAtStartup.accesskey "C">
-<!ENTITY useQuickMode.label "Come azione predefinita mostra il sommario degli articoli invece che caricare tutta la pagina.">
+<!ENTITY useQuickMode.label "Come azione predefinita mostra il sommario degli articoli invece di caricare tutta la pagina">
 <!ENTITY useQuickMode.accesskey "d">
 <!ENTITY manageSubscriptions.label "Gestione sottoscrizioni…">
 <!ENTITY manageSubscriptions.accesskey "G">
