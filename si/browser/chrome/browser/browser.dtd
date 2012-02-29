@@ -428,8 +428,8 @@
 <!ENTITY appMenuButton.tooltip "&brandShortName; මෙනුව විවෘත කරන්න">
 <!ENTITY openLinkCmdInCurrent.accesskey "O">
 <!ENTITY inspectPanelTitle.label "HTML">
-<!ENTITY inspect3DButton.label        "ත්‍රිමාන (3D)">
-<!ENTITY inspect3DButton.accesskey    "M">
+<!ENTITY inspect3DViewButton.label     "ත්‍රිමාන (3D) පෙනුම">
+<!ENTITY inspect3DViewButton.accesskey "W">
 <!ENTITY addonBarCmd.accesskey "A">
 <!ENTITY syncSetup.label "&syncBrand.shortName.label; සකසන්න…">
 <!ENTITY appMenuSafeMode.accesskey "R">

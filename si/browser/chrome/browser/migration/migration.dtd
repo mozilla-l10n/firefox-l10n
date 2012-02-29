@@ -11,6 +11,8 @@
 <!ENTITY importFromNothing.accesskey    "D">
 <!ENTITY importFromChrome.label         "ක්‍රෝම් (Chrome)">
 <!ENTITY importFromChrome.accesskey     "C">
+<!ENTITY importFromFirefox.label        "ෆයර්ෆොක්ස්">
+<!ENTITY importFromFirefox.accesskey    "X">
 <!ENTITY importFromSafari.label         "සෆාරි (Safari)">
 <!ENTITY importFromSafari.accesskey     "S">
 
