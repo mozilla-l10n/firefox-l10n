@@ -24,6 +24,8 @@
 <!ENTITY syncComputerName.label "Назва кампутара:">
 <!ENTITY syncComputerName.accesskey "к">
 <!ENTITY syncMy2.label "Сінхранізаваць мае:">
+<!ENTITY engine.addons.label "Дадаткі">
+<!ENTITY engine.addons.accesskey "Д">
 <!ENTITY engine.bookmarks.label "Закладкі">
 <!ENTITY engine.bookmarks.accesskey "З">
 <!ENTITY engine.tabs.label "Устаўкі">

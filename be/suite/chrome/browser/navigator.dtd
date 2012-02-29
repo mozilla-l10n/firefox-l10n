@@ -6,8 +6,8 @@
 <!ENTITY editPageCmd.commandkey "e">
 <!ENTITY navbarCmd.label "Паліца з прыладамі Навігацыі">
 <!ENTITY navbarCmd.accesskey "Н">
-<!ENTITY personalbarCmd.label "Паліца з уласнымі прыладамі">
-<!ENTITY personalbarCmd.accesskey "А">
+<!ENTITY bookmarksToolbarCmd.label "Прыладапаліца закладак">
+<!ENTITY bookmarksToolbarCmd.accesskey "з">
 <!ENTITY closeWindow.label "Зачыніць акно">
 <!ENTITY closeWindow.accesskey "а">
 <!ENTITY minimizeButton.tooltip "Мінімізаваць">
@@ -15,7 +15,7 @@
 <!ENTITY feedsMenu.label "Падпісацца на гэтую старонку">
 <!ENTITY feedsMenu.accesskey "П">
 <!ENTITY menuBar.tooltip "Паліца з меню">
-<!ENTITY personalToolbar.tooltip "Паліца з асабістымі прыладамі">
+<!ENTITY bookmarksToolbar.tooltip "Прыладапаліца закладак">
 <!ENTITY navigationToolbar.tooltip "Паліца з прыладамі навігацыі">
 <!ENTITY backButton.label "Назад">
 <!ENTITY backButton.tooltip "Папярэдняя старонка">

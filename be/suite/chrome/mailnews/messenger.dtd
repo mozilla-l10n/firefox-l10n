@@ -211,6 +211,7 @@
 <!ENTITY pageSourceCmd.accesskey "ы">
 <!ENTITY pageSourceCmd.key "u">
 <!ENTITY findCmd.label "Знайсці ў гэтым лісце…">
+<!ENTITY quickFilterBar.show.key2 "K">
 <!ENTITY goMenu.label "Рух">
 <!ENTITY goMenu.accesskey "р">
 <!ENTITY nextMenu.label "Наступны">
@@ -377,7 +378,6 @@
 <!ENTITY deleteButton.label "Выдаліць">
 <!ENTITY undeleteButton.label "Адмяніць выдаленне">
 <!ENTITY markButton.label "Пазначыць">
-<!ENTITY printButton.label "Друкаваць">
 <!ENTITY stopButton.label "Прыпыніць">
 <!ENTITY junkButton.label "Лухта">
 <!ENTITY notJunkButton.label "Не лухта">
@@ -399,7 +399,6 @@
 <!ENTITY deleteButton.tooltip "Выдаліць вылучаны ліст ці папку">
 <!ENTITY undeleteButton.tooltip "Адмяніць выдаленне вылучанага ліста">
 <!ENTITY markButton.tooltip "Пазначыць лісты">
-<!ENTITY printButton.tooltip "Друкаваць гэты ліст">
 <!ENTITY stopButton.tooltip "Прыпыніць цяперашні перанос">
 <!ENTITY throbber.tooltip "Пайсці на хатнюю старонку &vendorShortName;">
 <!ENTITY junkButton.tooltip "Пазначыць вылучаныя лісты як лухту">

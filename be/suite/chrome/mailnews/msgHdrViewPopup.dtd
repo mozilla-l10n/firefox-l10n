@@ -7,6 +7,10 @@
 <!ENTITY CopyEmailAddress.accesskey "к">
 <!ENTITY CreateFilterFrom.label "Стварыць сіта з…">
 <!ENTITY CreateFilterFrom.accesskey "с">
+<!ENTITY openInBrowser.label "Адкрыць у азіральніку">
+<!ENTITY openInBrowser.accesskey "к">
+<!ENTITY bookmarkLinkCmd.label "Закласці гэтую спасылку…">
+<!ENTITY bookmarkLinkCmd.accesskey "З">
 <!ENTITY copyLinkCmd.label "Капіяваць месцазнаходжанне спасылкі">
 <!ENTITY copyLinkCmd.accesskey "К">
 <!ENTITY CopyMessageId.label "Капіяваць Вызначальнік-Ліста">
@@ -14,4 +18,4 @@
 <!ENTITY OpenMessageForMsgId.label "Адкрыць ліст з вызначальнікам">
 <!ENTITY OpenMessageForMsgId.accesskey "А">
 <!ENTITY OpenBrowserWithMsgId.label "Адкрыць азіральнік з Вызначальнікам-Ліста">
-<!ENTITY OpenBrowserWithMsgId.accesskey "з">
+<!ENTITY OpenBrowserWithMsgId.accesskey "В">

@@ -18,9 +18,10 @@
 <!ENTITY aboutSupport.appBasicsUserAgent "Дзеяч карыстальніка">
 <!ENTITY aboutSupport.appBasicsCrashIDs "Справаздачы пра крахі">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Ужыванне памяці">
-<!ENTITY aboutSupport.show.label "Адкрыць змяшчальную папку">
+<!ENTITY aboutSupport.showDir.label "Адчыніць дырэкторыю">
 <!ENTITY aboutSupport.showMac.label "Паказаць у шукальніку">
-<!ENTITY aboutSupport.modifiedPrefsTitle "Змененыя перавагі">
+<!ENTITY aboutSupport.showWin.label "Паказаць папку">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Істотныя змененыя перавагі">
 <!ENTITY aboutSupport.modifiedPrefsName "Назва">
 <!ENTITY aboutSupport.modifiedPrefsValue "Значэнне">
 <!ENTITY aboutSupport.graphicsTitle "Графіка">

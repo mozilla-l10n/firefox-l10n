@@ -10,7 +10,9 @@
 <!ENTITY allowWindowImageSrcChange.label "Зменьваць выявы">
 <!ENTITY allowContextmenuDisable.label "Забараняць ці замяняць меню">
 <!ENTITY allowHideStatusBar.label "Хаваць паліцу статусу">
-<!ENTITY enablePlugin.label "Дазволіць убудовы для">
+<!ENTITY enablePlugin.label "Дазволіць убудовы для:">
+<!ENTITY enablePluginForSuite.label "Збор">
+<!ENTITY enablePluginForSuite.accesskey "З">
 <!ENTITY whenPluginsRequired.label "Калі патрэбны дадатковыя ўбудовы">
 <!ENTITY displayNotification.label "Паказваць паліцу апавяшчэння зверху абсягу змесціва">
 <!ENTITY displayNotification.accesskey "к">

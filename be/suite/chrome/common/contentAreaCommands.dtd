@@ -1,7 +1,7 @@
 <!ENTITY popupWindowRejectCmd.label "Адхіляць вокны-вынырцы з гэтай сеціўнай пляцоўкі">
-<!ENTITY popupWindowRejectCmd.accesskey "o">
+<!ENTITY popupWindowRejectCmd.accesskey "в">
 <!ENTITY popupWindowAllowCmd.label "Дазваляць вокны-вынырцы з гэтай сеціўнай пляцоўкі">
-<!ENTITY popupWindowAllowCmd.accesskey "o">
+<!ENTITY popupWindowAllowCmd.accesskey "в">
 <!ENTITY openLinkCmd.label "Адчыніць спасылку ў новым акне">
 <!ENTITY openLinkCmd.accesskey "п">
 <!ENTITY openLinkCmdInTab.label "Адчыніць спасылку ў новай устаўцы">
@@ -52,12 +52,12 @@
 <!ENTITY viewBGImageCmd.accesskey "ф">
 <!ENTITY setWallpaperCmd.label "Усталяваць як шпалеры">
 <!ENTITY setWallpaperCmd.accesskey "ш">
-<!ENTITY bookmarkPageCmd.label "Дадаць закладку да гэтай старонкі">
-<!ENTITY bookmarkPageCmd.accesskey "С">
-<!ENTITY bookmarkLinkCmd.label "Дадаць закладку да гэтай спасылкі">
-<!ENTITY bookmarkLinkCmd.accesskey "і">
-<!ENTITY bookmarkFrameCmd.label "Дадаць закладку да гэтай рамкі">
-<!ENTITY bookmarkFrameCmd.accesskey "д">
+<!ENTITY bookmarkPageCmd.label "Закласці старонку…">
+<!ENTITY bookmarkPageCmd.accesskey "З">
+<!ENTITY bookmarkLinkCmd.label "Закласці спасылку…">
+<!ENTITY bookmarkLinkCmd.accesskey "с">
+<!ENTITY bookmarkFrameCmd.label "Закласці рамку…">
+<!ENTITY bookmarkFrameCmd.accesskey "р">
 <!ENTITY savePageAsCmd.label "Захаваць старонку як…">
 <!ENTITY savePageCmd.label "Захаваць старонку">
 <!ENTITY savePageCmd.accesskey "а">

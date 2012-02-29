@@ -82,5 +82,8 @@
 <!ENTITY copyLinkCmd.label "Капіяваць месцазнаходжанне спасылкі">
 <!ENTITY copyLinkCmd.accesskey "К">
 <!ENTITY CopyMessageId.label "Капіяваць вызначальнік-ліста:">
+<!ENTITY CopyMessageId.accesskey "К">
 <!ENTITY OpenMessageForMsgId.label "Адкрыць ліст з вызначальнікам:">
+<!ENTITY OpenMessageForMsgId.accesskey "А">
 <!ENTITY OpenBrowserWithMsgId.label "Адчыніць азіральнік з вызначальнікам-ліста">
+<!ENTITY OpenBrowserWithMsgId.accesskey "з">

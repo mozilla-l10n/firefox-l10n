@@ -32,7 +32,7 @@
 <!ENTITY cmd.open_tab.accesskey "у">
 <!ENTITY bookmarkLinkCmd.label "Закласці гэтую спасылку…">
 <!ENTITY bookmarkLinkCmd.accesskey "З">
-<!ENTITY bookmarkLinksCmd.label "Закласці гэтыя спасылкі">
+<!ENTITY bookmarkLinksCmd.label "Закласці гэтыя спасылкі…">
 <!ENTITY bookmarkLinksCmd.accesskey "З">
 <!ENTITY col.title.label "Загаловак">
 <!ENTITY col.title.accesskey "г">

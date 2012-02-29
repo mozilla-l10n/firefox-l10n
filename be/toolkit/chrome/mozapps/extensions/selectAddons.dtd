@@ -20,7 +20,7 @@
 <!ENTITY update.progress.label "Сцягванне і ўсталяванне абнаўленняў вылучаных вамі дадаткаў.">
 <!ENTITY errors.heading "&brandShortName; не можа абнавіць асобныя з вашых дадаткаў.">
 <!ENTITY errors.description "Усталяванне абнаўленняў асобных дадаткаў пацярпела няўдачу. &brandShortName; самастойна паспрабуе абнавіць іх пазней.">
-<!ENTITY footer.label "Вы заўсёды можаце змяніць вашы дадаткі ў кіраўніку дадатакаў.">
+<!ENTITY footer.label "Вы заўсёды можаце змяніць вашы дадаткі ў кіраўніку дадаткаў.">
 <!ENTITY cancel.label "Скасаваць">
 <!ENTITY back.label "Назад">
 <!ENTITY next.label "Далей">
