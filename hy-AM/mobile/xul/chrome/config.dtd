@@ -1,0 +1,13 @@
+<!ENTITY empty.label            "Փնտրել">
+<!ENTITY newpref.label          "Ավելացնել նոր հղում">
+<!ENTITY addpref.name           "Անունը">
+<!ENTITY addpref.value          "Արժեքը">
+
+<!ENTITY cancel.label           "Չեղարկել">
+<!ENTITY reset.label            "Ետարկել">
+<!ENTITY done.label             "Պատրաստ է">
+
+<!ENTITY integer.label          "Ամբողջ">
+<!ENTITY string.label           "Տեքստ">
+<!ENTITY boolean.label          "Բուլյան">
+
