@@ -20,7 +20,7 @@
 <!ENTITY aboutSupport.appBasicsCrashIDs "Ripòrto di ciànti">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Ûzo da memöia">
 
-<!ENTITY aboutSupport.showDir.label "Àrvi cartélla">
+<!ENTITY aboutSupport.show.label "Àrvi cartélla">
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
@@ -30,7 +30,7 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.showWin.label "Fànni védde cartélla">
 
-<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Preferénse inportànti cangiæ">
+<!ENTITY aboutSupport.modifiedPrefsTitle "Preferénse Modificæ">
 <!ENTITY aboutSupport.modifiedPrefsName "Nómme">
 <!ENTITY aboutSupport.modifiedPrefsValue "Valô">
 

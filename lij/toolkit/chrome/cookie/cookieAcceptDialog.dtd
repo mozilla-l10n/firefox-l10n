@@ -15,4 +15,5 @@
 <!ENTITY     dialog.title                   "Conferma e inpostaçioìn di cookie">
 <!ENTITY     dialog.remember.label          "Ûza a mæ scelta pe tùtti i cookie che vegnan da sto scîto">
 <!ENTITY     dialog.remember.accesskey      "Û">
+<!ENTITY     props.policy.label             "Polìtica:">
 
