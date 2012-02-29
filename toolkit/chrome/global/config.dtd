@@ -34,8 +34,9 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!-- <!ENTITY filterPrefs.label "चाळण:"> -->
+<!-- <!ENTITY filterPrefs.label "चाळण:">
 <!ENTITY filterPrefs.accesskey "F">
+-->
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "प्राधान्याता नाव">

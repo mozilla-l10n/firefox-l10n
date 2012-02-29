@@ -42,16 +42,16 @@
 <!ENTITY setup.tosAgree2.accesskey  "">
 
 <!-- New Account Page 2: Sync Key -->
+<!--
 <!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; गोपणीयता विषयी परवा करतो">
 <!ENTITY setup.newSyncKeyPage.description.label "संपूर्ण गोपणीयताची खात्री करण्यासाठी, अपलोड करण्यापूर्वी सर्व डाटा एनक्रिप्ट केले जाते. डाटा डिक्रिप्ट करण्यासाठी आवश्यक सिंक कि अपलोड केले नाही.">
-<!--
 <!ENTITY syncKeyEntry.label        "तुमची सिंक कि">
 <!ENTITY syncKeyEntry.accesskey    "K">
 <!ENTITY syncKeyGenerate.label     "निर्माण करा">
 <!ENTITY syncKeyStrength.label     "स्ट्रेंग्थ्:">
 <!ENTITY syncKeyHelp.label         "स्ट्रेंग्थ् म्हणजे?">
--->
 <!ENTITY syncKeyBackup.description "इतर मशीनवर &syncBrand.fullName.label; करीता प्रवेशसाठी तुमची सिंक कि आवश्यक आहे. कृपया बॅकअप प्रत निर्माण करा. सिंक किच्या पुनःप्राप्तिकरीता मदत पुरवणे शक्य नाही.">
+-->
 
 <!ENTITY button.syncKeyBackup.print.label     "छपाई करा…">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
@@ -121,8 +121,10 @@
 <!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; मांडणी">
 
 <!-- First page of the wizard -->
-
+<!--
 <!ENTITY setup.pickSetupType.description "स्वागत आहे, तुम्ही आधिपासूनच &syncBrand.fullName.label; याचा वापर न केल्यास, तुम्हाला नवीन खाते निर्माण करावे लागेल.">
+-->
+
 <!ENTITY button.createNewAccount.label "नवीन खाते निर्माण करा">
 
 <!--
@@ -168,12 +170,8 @@
 <!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; तुमच्या गोपणीयताची काळजी घेतो">
 <!ENTITY setup.newSyncKeyPage.description.label "संपूर्णतया गोपणीयताच्या खात्रीसाठी, अपलोड करण्यापूर्वी सर्व डाटा एनक्रिप्ट केला जातो. डाटा डिक्रिप्ट करण्यासाठी आवश्यक सिंक कि अपलोड केली जात नाही.">
 -->
-
-<!ENTITY syncKeyEntry.label        "तुमची सिंक कि">
 <!ENTITY syncKeyEntry.accesskey    "K">
 
-<!--
-<!ENTITY syncKeyGenerate.label     "निर्माण करा">
 <!ENTITY syncKeyBackup.description "दुसऱ्या मशीनस्वर &syncBrand.fullName.label; करीता प्रवेश प्राप्त करण्यासाठी तुमची सिंक कि आवश्यक आहे. कृपया बॅकअप प्रत निर्माण करा. सिंक कि पुनःप्राप्त करण्यास आम्ही तुमची मदत करू शकत नाही.">
 -->
 
@@ -183,6 +181,7 @@
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
 
 <!-- New Account Page 3: Captcha -->
+<!--
 <!ENTITY setup.captchaPage2.title.label     "तुम्ही रोबोट नाही याची खात्री करा">
 
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings)
