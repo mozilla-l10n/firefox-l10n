@@ -79,6 +79,7 @@
 <!ENTITY char_encoding "Teckenkodning">
 
 <!ENTITY share "Dela">
+<!ENTITY share_title "Dela via">
 <!ENTITY save_as_pdf "Spara som PDF">
 
 <!ENTITY contextmenu_open_new_tab "Öppna i ny flik">
