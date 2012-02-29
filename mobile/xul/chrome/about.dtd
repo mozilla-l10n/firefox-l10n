@@ -1,0 +1,19 @@
+<!ENTITY aboutPage.title                        "&brandShortName;-ի մասին">
+<!ENTITY aboutPage.faq.label                    "ՀՃՀ">
+<!ENTITY aboutPage.support.label                "Աջակցություն">
+<!ENTITY aboutPage.privacyPolicy.label          "Գաղտնիության Դրույթները">
+<!ENTITY aboutPage.rights.label                 "Իմացե՛ք Ձեր իրավունքները">
+<!ENTITY aboutPage.relNotes.label               "Թողարկման Նշումներ">
+<!ENTITY aboutPage.credits.label                "Հեղինակներ">
+<!ENTITY aboutPage.checkForUpdates.button       "Ստուգել թարմացումները">
+<!ENTITY aboutPage.checkForUpdates.checking     "Թարմացումների որոնում…">
+<!ENTITY aboutPage.checkForUpdates.none         "Թարմացումներ չկան">
+<!ENTITY aboutPage.checkForUpdates.found        "Հասանելի է թարմացում">
+
+
+<!-- LOCALIZATION NOTE:
+     These strings are concatenated in order. Unneeded strings may be left blank.
+-->
+<!ENTITY aboutPage.licenseLink                  "Լիցենզավորման տեղեկություն">
+<!ENTITY aboutPage.licenseLinkSuffix            ".">
+
