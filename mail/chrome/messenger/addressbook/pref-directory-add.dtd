@@ -19,7 +19,7 @@
 <!ENTITY portNumber.accesskey "п">
 <!ENTITY searchFilter.label "Сіта пошуку:">
 <!ENTITY searchFilter.accesskey "С">
-<!ENTITY scope.label "Межы: ">
+<!ENTITY scope.label "Ахоп: ">
 <!ENTITY scope.accesskey "М">
 <!ENTITY scopeOneLevel.label "Адзін узровень">
 <!ENTITY scopeOneLevel.accesskey "У">

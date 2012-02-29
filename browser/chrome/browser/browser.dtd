@@ -161,8 +161,8 @@
 <!ENTITY inspectButton.label "Даследаваць">
 <!ENTITY inspectButton.accesskey "Д">
 <!ENTITY inspectCloseButton.tooltiptext "Закрыць Назіральнік">
-<!ENTITY inspect3DButton.label "3Д">
-<!ENTITY inspect3DButton.accesskey "Д">
+<!ENTITY inspect3DViewButton.label "3-М від">
+<!ENTITY inspect3DViewButton.accesskey "W">
 <!ENTITY inspectStyleButton.label "Стыль">
 <!ENTITY inspectStyleButton.accesskey "С">
 <!ENTITY styleeditor.label "Праўнік стыляў">

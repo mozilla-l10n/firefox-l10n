@@ -20,9 +20,3 @@
 <!ENTITY languages.customize.moveUp.accesskey "г">
 <!ENTITY languages.customize.moveDown.label "Рухаць уніз">
 <!ENTITY languages.customize.moveDown.accesskey "н">
-<!ENTITY spelling.label "Правапіс">
-<!ENTITY checkSpelling.label "Правяраць мой правапіс падчас набору:">
-<!ENTITY checkSpelling.accesskey "П">
-<!ENTITY dontCheckSpelling.label "Ніколі">
-<!ENTITY multilineCheckSpelling.label "У шматрадковых скрынках">
-<!ENTITY alwaysCheckSpelling.label "Ва ўсіх скрынках">

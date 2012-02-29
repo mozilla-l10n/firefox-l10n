@@ -35,6 +35,16 @@
 <!ENTITY selectAllCmd.label "Вылучыць усё">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "ё">
+<!ENTITY findCmd.label "Знайсці…">
+<!ENTITY findCmd.key "F">
+<!ENTITY findCmd.accesskey "З">
+<!ENTITY findAgainCmd.label "Find Again…">
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.accesskey "н">
+<!ENTITY findPreviousCmd.key "G">
+<!ENTITY gotoLineCmd.label "Пераскочыць да радка…">
+<!ENTITY gotoLineCmd.key "J">
+<!ENTITY gotoLineCmd.accesskey "р">
 <!ENTITY run.label "Выканаць">
 <!ENTITY run.accesskey "к">
 <!ENTITY run.key "r">

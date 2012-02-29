@@ -35,4 +35,5 @@
 <!ENTITY policies.label "Палітыкі бяспекі">
 <!ENTITY mousewheel.label "Кола мышы">
 <!ENTITY scriptsAndWindows.label "Сцэнары і ўбудовы">
+<!ENTITY spellingPane.label "Праверка правапісу">
 <!ENTITY focusSearch.key "f">

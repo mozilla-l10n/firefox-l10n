@@ -3,3 +3,5 @@
 <!ENTITY newMessageCmd.accesskey "Л">
 <!ENTITY newContactCmd.label "Сувязь…">
 <!ENTITY newContactCmd.accesskey "С">
+<!ENTITY printButton.label "Друкаваць">
+<!ENTITY printButton.tooltip "Надрукаваць гэты ліст">

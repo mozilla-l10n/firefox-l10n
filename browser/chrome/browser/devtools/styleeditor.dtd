@@ -13,7 +13,7 @@
 <!ENTITY saveButton.tooltip "Захаваць гэтую табліцу стыляў у файле">
 <!ENTITY saveButton.accesskey "З">
 <!ENTITY saveButton.commandkey "s">
-<!ENTITY scoped.label "Scoped.">
+<!ENTITY scoped.label "Ахоплены.">
 <!ENTITY editorTextbox.placeholder "Набярыце CSS тут.">
 <!ENTITY noStyleSheet.label "Гэтая старонка не мае табліцы стыляў.">
 <!ENTITY noStyleSheet-tip-start.label "Магчыма, вы хочаце ">

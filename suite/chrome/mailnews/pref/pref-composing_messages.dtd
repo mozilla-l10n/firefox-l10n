@@ -16,14 +16,6 @@
 <!ENTITY wrapOutMsg.label "Загінаць радкі простатэкставых лістоў пасля">
 <!ENTITY wrapOutMsg.accesskey "г">
 <!ENTITY char.label "знакаў">
-<!ENTITY spellingHeader.label "Правапіс">
-<!ENTITY spellCheck.label "Правяраць правапіс перад дасыланнем">
-<!ENTITY spellCheck.accesskey "п">
-<!ENTITY spellCheckInline.label "Правераць правапіс у час укладання">
-<!ENTITY spellCheckInline.accesskey "р">
-<!ENTITY languagePopup.label "Мова:">
-<!ENTITY languagePopup.accessKey "М">
-<!ENTITY moreDictionaries.label "Загрузіць іншыя слоўнікі…">
 <!ENTITY defaultMessagesHeader.label "Змоўчкі для HTML лістоў">
 <!ENTITY font.label "Шрыфт:">
 <!ENTITY font.accesskey "Ш">

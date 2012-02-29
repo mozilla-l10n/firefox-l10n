@@ -37,8 +37,9 @@
 <!ENTITY defaultPortValue.label "">
 <!ENTITY leaveMsgsOnSrvr.label "Пакідаць лісты на паслугачы">
 <!ENTITY leaveMsgsOnSrvr.accesskey "п">
+<!ENTITY modifyOutgoing.suffix "Вы можаце змяніць выходны паслугач у наладжваннях рахунку Пошты і Навінакупаў.">
 <!ENTITY haveSmtp1.prefix "Ваш існы выходны паслугач (SMTP), &quot;">
-<!ENTITY haveSmtp1.suffix2 " &quot;, будзе выкарыстоўвацца. Вы можаце змяніць наладжванні выходнага паслугача, калі выбераце Наладжванні Рахунку Пошты і Навінакупаў у меню Праўка.">
+<!ENTITY haveSmtp1.suffix3 "&quot;, будзе ўжывацца.">
 <!ENTITY loginTitle.label "Імёны карыстальнікаў">
 <!ENTITY usernameDesc.label "Увядзіце ўваходнае імя карыстальніка, якое надаў вам ваш дастаўшчык э-пошты">
 <!ENTITY usernameExample.label "(напрыклад: &quot;u-brattchyk&quot;).">
@@ -48,9 +49,9 @@
 <!ENTITY usernameSmtpLabel.label "Выходнае імя карыстальніка:">
 <!ENTITY usernameSmtpLabel.accesskey "ы">
 <!ENTITY haveSmtp2.prefix "Ваша існае выходнае (SMTP) імя карыстальніка, &quot;">
-<!ENTITY haveSmtp2.suffix2 "&quot;, будзе выкарыстоўвацца. Вы можаце змяніць наладжванні выходнага паслугача, калі выбераце Наладжванні Рахунку Пошты і Навінакупаў у меню Праўка.">
+<!ENTITY haveSmtp2.suffix3 "&quot;, будзе ўжывацца.">
 <!ENTITY haveSmtp3.prefix "Ваш выходны паслугач (SMTP), &quot;">
-<!ENTITY haveSmtp3.suffix2 "&quot;, тоесны вашаму ўваходнаму паслугачу, ваша ўваходнае імя карыстальніка будзе ўжывацца, каб зварочвацца да яго. Вы можаце змяніць наладжванні выходнага паслугача, калі выбераце Наладжванні Рахунку Пошты і Навінакупаў у меню Праўка.">
+<!ENTITY haveSmtp3.suffix3 "&quot;, аднолькавы з вашым уваходным паслугачом, імя вашага зваходнага карыстальніка будзе ўжывацца для доступу да яго.">
 <!ENTITY accnameTitle.label "Назва рахунку">
 <!ENTITY accnameDesc.label "Увядзіце пажаданую назву для спасылання на гэты рахунак (напрыклад: &quot;Праца&quot;, &quot;Хатні Рахунак&quot; ці &quot;Навіны&quot;).">
 <!ENTITY accnameLabel.label "Назва рахунку:">
