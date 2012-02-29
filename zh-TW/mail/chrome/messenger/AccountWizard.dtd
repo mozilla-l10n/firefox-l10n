@@ -38,7 +38,7 @@
 <!ENTITY incomingServerTypeDesc.label "請選擇您用來收信的伺服器類型。">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
 <!ENTITY incomingServerNameDesc.label "請輸入您收信伺服器的名稱。（例:「pop.example.net」）。">
-<!ENTITY incomingServerLabel.label "收件伺服器:">
+<!ENTITY incomingServerLabel.label "收信伺服器:">
 <!ENTITY incomingServerLabel.accesskey "S">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "請輸入您的新聞群組伺服器 (NNTP) 的名稱。（例:「news.example.net」）。">
@@ -75,7 +75,7 @@
 <!ENTITY usernameDesc.label "請輸入您 Email 提供者給您的收信用使用者名稱 (或帳號)">
 <!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
 <!ENTITY usernameExample.label "(例:「ming123」)。">
-<!ENTITY usernameLabel.label "收件使用者帳號:">
+<!ENTITY usernameLabel.label "收信使用者名稱:">
 <!ENTITY usernameLabel.accesskey "I">
 <!ENTITY usernameSmtpDesc.label "輸入寄送郵件用的使用者名稱 (通常與您的收件使用者名稱一致)。">
 <!ENTITY usernameSmtpLabel.label "寄件使用者名稱:">
@@ -106,7 +106,7 @@
 <!ENTITY completionTitle.label "恭喜！">
 <!ENTITY completionText.label "請確認底下關於此帳號的所有資訊是否正確無誤。">
 <!ENTITY serverTypePrefix.label "收件伺服器類型:">
-<!ENTITY serverNamePrefix.label "收件伺服器名稱:">
+<!ENTITY serverNamePrefix.label "收信伺服器名稱:">
 <!ENTITY smtpServerNamePrefix.label "寄件伺服器名稱 (SMTP):">
 <!ENTITY newsServerNamePrefix.label "新聞群組伺服器名稱 (NNTP):">
 <!ENTITY downloadOnLogin.label "立刻下載郵件">
