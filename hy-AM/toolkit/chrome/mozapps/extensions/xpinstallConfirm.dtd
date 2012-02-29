@@ -39,9 +39,9 @@
 ******* END LICENSE BLOCK ********** -->
 <!-- extracted from institems.xul -->
 
-<!ENTITY dialog.title            "Software Installation">
+<!ENTITY dialog.title            "Ծրագրի Տեղադրում">
 <!ENTITY dialog.style            "width: 45em">
-<!ENTITY warningPrimary.label    "Install add-ons only from authors whom you trust.">
-<!ENTITY warningSecondary.label  "Malicious software can damage your computer or violate your privacy.">
+<!ENTITY warningPrimary.label    "Զետեղել միայն այն հավելումները որոնց հեղինակներին ես վստահում եմ:">
+<!ENTITY warningSecondary.label  "Չարամիտ ծրագիրը կարող է վնասել ձեր համակարգիչը կամ գողանալ անձնական տվյալներ:">
 
-<!ENTITY from.label "from:">
+<!ENTITY from.label "աղբյուրը.">

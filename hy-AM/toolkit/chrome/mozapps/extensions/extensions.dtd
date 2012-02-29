@@ -186,7 +186,7 @@
 
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Ընդմիջել">
-<!ENTITY progress.cancel.tooltip              "Cancel">
+<!ENTITY progress.cancel.tooltip              "Զրոյացնել">
 
 
 <!-- list sorting -->
