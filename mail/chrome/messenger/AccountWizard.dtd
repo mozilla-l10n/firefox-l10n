@@ -61,16 +61,13 @@
 <!ENTITY defaultPortLabel.label "Ծրագրային.">
 <!ENTITY defaultPortValue.label "">
 
-<!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
-     haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
--->
-<!ENTITY modifyOutgoing.suffix "You can change outgoing servers in the account settings.">
-<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
+
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix "Ձեր առկա ելքային սպասարկիչը (SMTP), &quot;">
-<!ENTITY haveSmtp1.suffix3 "&quot;, will be used.">
+<!ENTITY haveSmtp1.suffix2 "&quot;, կօգտագործվի։ Կարող եք փոփոխել ելքային սպասարկիչը փոստարկղի կարգավորումներում։">
 
 <!-- Entities for Login page -->
 
@@ -83,18 +80,18 @@
 <!ENTITY usernameSmtpDesc.label "Նշեք ելքայինի օգտվողի Ձեր անունը">
 <!ENTITY usernameSmtpLabel.label "Ելքային՝ օգտվողի անունը.">
 <!ENTITY usernameSmtpLabel.accesskey "O">
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Ձեր առկա ելքային (SMTP) սպասարկիչը, &quot;">
-<!ENTITY haveSmtp2.suffix3 "&quot;, will be used.">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
+<!ENTITY haveSmtp2.suffix2 "&quot;, կօգտագործվի։ Կարող եք փոփոխել ելքային սպասարկիչները փոստարկղի կարգավորումներում։">
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
 -->
-<!ENTITY haveSmtp3.prefix "Your outgoing (SMTP) server, &quot;">
-<!ENTITY haveSmtp3.suffix3 "&quot;, is identical to your incoming server, your incoming user name will be used to access it.">
+<!ENTITY haveSmtp3.prefix "Ձեր ելքային (SMTP) սպասարկիչը, &quot;">
+<!ENTITY haveSmtp3.suffix2 "&quot;, համապատասխանում է մուտքային սպասարկիչին։, կօգտագործվի օգտվողի Ձեր մուտքային անունը։Կարող եք փոփոխել ելքային սպասարկիչները փոստարկղի կարգավորումներում։">
 
 <!-- Entities for Account name page -->
 

@@ -129,8 +129,5 @@
 <!ENTITY copyLinkCmd.accesskey    "C">
 
 <!ENTITY CopyMessageId.label "Պատճենել նամակի ID-ին">
-<!ENTITY CopyMessageId.accesskey "Պ">
 <!ENTITY OpenMessageForMsgId.label "Բացել նամակը ID-ի համար">
-<!ENTITY OpenMessageForMsgId.accesskey "Բ">
 <!ENTITY OpenBrowserWithMsgId.label "Բացել դիտարկիչը՝ նամակի ID-ով">
-<!ENTITY OpenBrowserWithMsgId.accesskey "Բ">

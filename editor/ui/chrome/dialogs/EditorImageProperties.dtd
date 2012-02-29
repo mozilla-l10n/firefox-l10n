@@ -78,6 +78,8 @@
 <!ENTITY imagemapBox.label "Նկարի քարտեզը">
 <!ENTITY removeImageMapButton.label "Ջնջել">
 <!ENTITY removeImageMapButton.accessKey "Ջ">
+<!ENTITY editImageMapButton.label "Խմբագրել...">
+<!ENTITY editImageMapButton.tooltip "Ստեղծել սեղմելի կետիկներ այս նկարի համար">
 
 <!-- These are the options for image alignment -->
 <!ENTITY alignment.label "Հավասարեցնել տեքստը նկարին">
