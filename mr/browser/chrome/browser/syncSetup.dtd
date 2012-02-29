@@ -169,9 +169,7 @@
 <!--
 <!ENTITY setup.newSyncKeyPage.title.label "&brandShortName; तुमच्या गोपणीयताची काळजी घेतो">
 <!ENTITY setup.newSyncKeyPage.description.label "संपूर्णतया गोपणीयताच्या खात्रीसाठी, अपलोड करण्यापूर्वी सर्व डाटा एनक्रिप्ट केला जातो. डाटा डिक्रिप्ट करण्यासाठी आवश्यक सिंक कि अपलोड केली जात नाही.">
--->
 <!ENTITY syncKeyEntry.accesskey    "K">
-
 <!ENTITY syncKeyBackup.description "दुसऱ्या मशीनस्वर &syncBrand.fullName.label; करीता प्रवेश प्राप्त करण्यासाठी तुमची सिंक कि आवश्यक आहे. कृपया बॅकअप प्रत निर्माण करा. सिंक कि पुनःप्राप्त करण्यास आम्ही तुमची मदत करू शकत नाही.">
 -->
 
@@ -183,8 +181,7 @@
 <!-- New Account Page 3: Captcha -->
 <!--
 <!ENTITY setup.captchaPage2.title.label     "तुम्ही रोबोट नाही याची खात्री करा">
-
-<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings)
+Existing Account Page 1: Add Device (incl. Add a Device dialog strings)
 <!ENTITY addDevice.title.label              "साधन समाविष्ट करा">
 -->
 
