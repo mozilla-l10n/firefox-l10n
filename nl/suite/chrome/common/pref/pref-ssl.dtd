@@ -41,10 +41,10 @@
 <!ENTITY  SSLClientAuthMethod.caption       "Clientcertificaatselectie">
 
 <!ENTITY pref.ssl.title                     "Secure Sockets Layer (SSL)">
-<!ENTITY enable.ssl3                        "SSL versie 3 inschakelen">
-<!ENTITY enable.ssl3.accesskey              "3">
-<!ENTITY enable.tls                         "TLS inschakelen">
-<!ENTITY enable.tls.accesskey               "T">
+<!ENTITY enable.ssl30.label                 "SSL 3.0 inschakelen">
+<!ENTITY enable.ssl30.accesskey             "3">
+<!ENTITY enable.tls10.label                 "TLS 1.0 inschakelen">
+<!ENTITY enable.tls10.accesskey             "T">
 
 <!ENTITY warn.description                   "&brandShortName; kan u waarschuwingen geven over de beveiligingsstatus van de webpagina die u bekijkt. Stel &brandShortName; in om een waarschuwing te tonen en om toestemming te vragen tijdens:">
 <!ENTITY warn.enteringsecure                "Het laden van een pagina die versleuteling ondersteunt">
