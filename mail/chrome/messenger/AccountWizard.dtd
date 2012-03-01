@@ -71,7 +71,7 @@
      text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix "ඔබගේ දැනට පචතින යැවුම් සේවාදායකය (SMTP), &quot;">
-<!ENTITY haveSmtp1.suffix2 "&quot;, භාවිතා වනු ඇත. ඔබ‌ට යැවුම් සේවාදායක ‌වෙනස් කිරීමට ‌මෙනු තිරු‌වේ ‌මෙවලම් හි ගිණූම් සකස් කීරීම් යට‌තේ සිදු කළ හැකිය.">
+<!ENTITY haveSmtp1.suffix3 "&quot;, භාවිතා වනු ඇත.">
 
 <!-- Entities for Login page -->
 
@@ -89,14 +89,18 @@
      text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "ඔබගේ දැනට පචතින යැවුම් (SMTP) පරිශීලක නම, &quot;">
-<!ENTITY haveSmtp2.suffix2 "&quot;, භාවිතා වනු ඇත. ඔබ‌ට යැවුම් සේවාදායක ‌වෙනස් කිරීමට ‌මෙනු තිරු‌වේ ‌මෙවලම් හි ගිණුම් සකස් කීරීම් යට‌තේ සිදු කළ හැකිය.">
+<!ENTITY haveSmtp2.suffix3 "&quot;, භාවිතා වනු ඇත.">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "ඔබගේ යැවුම් (SMTP) සේවාදායකය, &quot;">
-<!ENTITY haveSmtp3.suffix2 "&quot;, ඔබගේ එවුම් සේවාදායක‌යටම සමාන වේ, ඔබගේ  එවුම් පරිශීලක නම මෙයට ඇතූලු වීම සඳහා භිවිතා කරයි. ඔබ‌ට යැවුම් සේවාදායක ‌වෙනස් කිරීමට ‌මෙනු තිරු‌වේ ‌මෙවලම් හි ගිණූම් සකස් කීරීම් යට‌තේ සිදු කළ හැකිය.">
+<!ENTITY haveSmtp3.suffix2 "&quot;, ඔබගේ එවුම් සේවාදායක‌යටම සමාන වේ, ඔබගේ  එවුම් පරිශීලක නම මෙයට ඇතූලු වීම සඳහා භිවිතා කරයි.">
 
+<!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
+     haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
+-->
+<!ENTITY modifyOutgoing.suffix "ඔබ‌ට යැවුම් සේවාදායක ‌වෙනස් කිරීමට ‌මෙනු තිරු‌වේ ‌මෙවලම් හි ගිණුම් සකස් කීරීම් යට‌තේ සිදු කළ හැකිය.">
 <!-- Entities for Account name page -->
 
 <!ENTITY accnameTitle.label "ගිණු‌මේ නම">
