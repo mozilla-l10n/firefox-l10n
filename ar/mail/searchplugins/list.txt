@@ -1,4 +1,3 @@
-google
 bing
 yahoo
 twitter
