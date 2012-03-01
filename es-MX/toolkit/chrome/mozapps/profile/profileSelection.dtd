@@ -1,5 +1,5 @@
 <!--null-->
-<!ENTITY windowtitle.label "&brandShortName; - Seleccione un perfil de usuario">
+<!ENTITY windowtitle.label "&brandShortName; - Selecciona un perfil de usuario">
 <!ENTITY profilename.label "Nombre de perfil:">
 <!ENTITY start.label "Iniciar &brandShortName;">
 <!ENTITY exit.label "Salir">
@@ -12,6 +12,6 @@
 <!ENTITY deleteButton.accesskey "E">
 <!ENTITY pmDescription.label "&brandShortName; guarda información sobre tu configuración, preferencias y otros elementos en tu perfil de usuario.">
 <!ENTITY offlineState.label "Trabajar sin conexión">
-<!ENTITY offlineState.accesskey "o">
+<!ENTITY offlineState.accesskey "T">
 <!ENTITY autoSelect.label "No preguntar al inicio">
 <!ENTITY autoSelect.accesskey "N">
