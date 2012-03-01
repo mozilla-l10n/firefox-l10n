@@ -253,3 +253,24 @@ Existing Account Page 1: Add Device (incl. Add a Device dialog strings)
 <!ENTITY continueUsing.label "तुम्ही आत्ता &brandShortName;चा वापर चालू ठेवू शकता.">
 
 <!ENTITY resetSyncKey.label           "माझे इतर साधन हरवले आहे.">
+<!ENTITY syncGenerateNewKey.label  "नवीन कि निर्माण करा">
+<!ENTITY setup.choosePassword.label      "पासवर्ड नीवडा">
+<!ENTITY setup.choosePassword.accesskey  "P">
+<!ENTITY addDevice.dialog.recoveryKey.label     "साधन सुरू करण्यासाठी पुनःप्राप्ति कि द्या. कृपया ह्या किची छपाई करा किंवा कि साठवा व तुमच्यासह जपून  ठेवा.">
+<!ENTITY button.haveAccount.label      "माझ्याकडे खाते आहे">
+<!ENTITY existingRecoveryKey.description "इतर साधनवरील &syncBrand.shortName.label; पर्यायांवर भेट देऊन, व  &#x0022;माझी पुनःप्राप्ति कि&#x0022; &#x0022;खाते व्यवस्थापन&#x0022; अंतर्गत निवडून पुनःप्राप्ति किचे प्रत प्राप्त करणे शक्य आहे.">
+<!ENTITY pairDevice.dialog.description.label "नवीन साधन सुरू करण्यासाठी, साधनवरील &#x0022;सिंकची मांडणी करा&#x0022; निवडा.">
+<!ENTITY pairDevice.setup.description.label  "सुरू करण्यासाठी, इतर साधनवरील &#x0022;साधनाची जोडणी करा&#x0022; निवडा.">
+
+<!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
+<!ENTITY pairDevice.title.label             "साधनाची जोडणी करा">
+<!ENTITY recoveryKeyBackup.description "इतर मशीनवर &syncBrand.fullName.label; करीता प्रवेश प्राप्त करण्यासाठी पुनःप्राप्ति कि आवश्यक आहे. कृपाय बॅकअप प्रत निर्माण करा. पुनःप्राप्ति किची पुनःप्राप्तिकरीता मदत करणे अशक्य आहे.">
+<!ENTITY recoveryKeyEntry.accesskey    "K">
+<!ENTITY recoveryKeyEntry.label        "तुमची पुनःप्राप्ति कि">
+<!ENTITY setup.newRecoveryKeyPage.description.label "संपूर्ण गोपणीयताच्या खात्रीकरिता, सर्व डाटा अपलोड करण्यापूर्वी एंक्रिप्ट केला जातो. डाटा डिक्रिप्ट करण्यासाठी आवश्यक पुनःप्राप्ति कि अपलोड केले जात नाही.">
+
+<!-- My Recovery Key dialog -->
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; तुमच्या गोपणीयताची आम्ही काळजी घेतो">
+<!ENTITY signIn.recoveryKey.accesskey   "K">
+<!ENTITY signIn.recoveryKey.label       "पुनःप्राप्ति कि">
+
