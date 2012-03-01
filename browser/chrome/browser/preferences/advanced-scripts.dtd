@@ -20,3 +20,7 @@ https://bugzilla.mozilla.org/show_bug.cgi?id=526494
 <!ENTITY raiseLowerWindows.accesskey "R">
 <!ENTITY disableContextMenus.label "स्थितीजन्य मेनु अकार्यान्वीत करा किंवा बदला">
 <!ENTITY disableContextMenus.accesskey "D">
+
+<!ENTITY moveResizePopupWindows.accesskey "M">
+<!ENTITY moveResizePopupWindows.label     "पॉपअप पटलांना हलवा किंवा पुनःआकार द्या">
+
