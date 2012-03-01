@@ -1,9 +1,9 @@
-<!ENTITY userStylesLabel "Estilos de solo usuario">
+<!ENTITY userStylesLabel "Sólo estilos de usuario">
 <!ENTITY userStylesSearch "Buscar">
 <!ENTITY selectedElementLabel "Elemento seleccionado:">
 <!ENTITY noPropertiesFound "No se encontraron propiedades CSS.">
-<!ENTITY unmatchedSelectors "Unmatched selectors">
-<!ENTITY bestMatch "Best Match">
-<!ENTITY matched "Matched">
-<!ENTITY parentMatch "Parent Match">
-<!ENTITY unmatched "Unmatched">
+<!ENTITY unmatchedSelectors "No hay selectores coincidentes">
+<!ENTITY bestMatch "Mejor coincidencia">
+<!ENTITY matched "Coincide">
+<!ENTITY parentMatch "Coincide con el padre">
+<!ENTITY unmatched "Sin coincidencia">
