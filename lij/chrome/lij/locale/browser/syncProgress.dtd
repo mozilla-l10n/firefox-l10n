@@ -1,7 +1,0 @@
-<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
-%brandDTD;
-<!ENTITY syncProgress.pageTitle "Prìmma sincronizaçión">
-<!ENTITY syncProgress.textBlurb "Òua cifro e carego i dæti in sciô server. Ti peu serâ sto féuggio e continoâ a deuviâ o &brandShortName;.">
-<!ENTITY syncProgress.closeButton "Særa">
-<!ENTITY syncProgress.logoAltText "O logo de &brandShortName;">
-<!ENTITY syncProgress.diffText "O pròcesso de sincronizaçión o vegniâ ezegoio in aotomàtico. Ti peu serâ sto féuggio e continoâ a deuviâ o &brandShortName;.">
