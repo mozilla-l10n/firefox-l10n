@@ -78,8 +78,6 @@
 <!ENTITY imagemapBox.label "සිතියම් රූපය">
 <!ENTITY removeImageMapButton.label "ඉවත් කරන්න">
 <!ENTITY removeImageMapButton.accessKey "R">
-<!ENTITY editImageMapButton.label "සැකසුම්...">
-<!ENTITY editImageMapButton.tooltip "Create clickable hotspots for this image">
 
 <!-- These are the options for image alignment -->
 <!ENTITY alignment.label "පාඨ රූපයට පෙළගසන්න">

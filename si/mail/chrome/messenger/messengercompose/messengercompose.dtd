@@ -76,6 +76,8 @@
 <!ENTITY selectAllCmd.label "සියල්ල තෝරන්න">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "A"> 
+<!ENTITY renameAttachmentCmd.label "ඇමුණුම යළි නම්කිරීම…">
+<!ENTITY renameAttachmentCmd.accesskey "e">
 <!ENTITY findCmd.label "සොයා ආදේශ කරන්න...">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "F">

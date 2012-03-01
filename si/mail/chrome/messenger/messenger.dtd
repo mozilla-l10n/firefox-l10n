@@ -839,6 +839,7 @@ Entities below were automatically added by compare-locales,
 <!ENTITY moveToNewWindow.accesskey "W">
 <!ENTITY recentlyClosedTabsCmd.label "මෑතදී වැසූ ටැබ්">
 <!ENTITY goRecentlyClosedTabs.label "මෑතදී වැසූ ටැබ්">
+<!ENTITY goRecentlyClosedTabs.accesskey "R">
 <!ENTITY mdnBarSendButton2.label "ලදුපත් යවන්න">
 <!ENTITY spellAddDictionaries.accesskey "A">
 <!ENTITY moveToNewWindow.label "නව නවුළුවකට යන්න">
