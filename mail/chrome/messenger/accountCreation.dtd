@@ -10,42 +10,48 @@
 <!ENTITY password.accesskey              "J">
 <!ENTITY password.placeholder            "Jelszó">
 <!ENTITY password.text                   "Nem kötelező, csak a felhasználónév érvényesítésére lesz használva">
+<!ENTITY rememberPassword.label          "Jelszó megjegyzése">
+<!ENTITY rememberPassword.accesskey      "m">
 
-<!ENTITY accountInformation.label        "Postafiók adatai">
-<!ENTITY username2.label                 "Felhasználónév:">
+<!ENTITY imapLong.label                  "IMAP (távoli mappák)">
+<!ENTITY pop3Long.label                  "POP3 (levelek a saját gépen)">
+
 <!ENTITY incoming.label                  "Bejövő:">
 <!ENTITY outgoing.label                  "Kimenő:">
+<!ENTITY username.label                  "Felhasználónév:">
+<!ENTITY hostname.label                  "Kiszolgáló neve">
+<!ENTITY port.label                      "Port">
+<!ENTITY ssl.label                       "SSL">
+<!ENTITY auth.label                      "Hitelesítés">
+<!ENTITY imap.label                      "IMAP">
+<!ENTITY pop3.label                       "POP3">
+<!ENTITY smtp.label                      "SMTP">
+<!ENTITY autodetect.label                "Automatikus felismerés">
+<!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
+     Transmission of emails in cleartext over the Internet. -->
 <!ENTITY noEncryption.label              "Nincs">
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
 
-<!ENTITY imap.label                      "IMAP">
-<!ENTITY pop.label                       "POP">
-<!ENTITY smtp.label                      "SMTP">
-<!ENTITY imap.description                "IMAP - A mappák és üzenetek elérése több számítógépről">
-<!ENTITY pop.description                 "POP - Minden üzenet letöltése erre a számítógépre, a mappák helyben vannak">
-<!ENTITY recommended-appendix.label      "(ajánlott)">
-
-<!ENTITY manualSetup.label               "Kézi beállítás...">
-<!ENTITY manualSetup.accesskey           "K">
+<!ENTITY advancedSetup.label             "Speciális beállítások">
+<!ENTITY advancedSetup.accesskey         "S">
 <!ENTITY cancel.label                    "Mégse">
 <!ENTITY cancel.accesskey                "M">
 <!ENTITY continue.label                  "Folytatás">
 <!ENTITY continue.accesskey              "F">
-<!ENTITY startOver.label                 "Újrakezdés">
-<!ENTITY startOver.accesskey             "r">
 <!ENTITY stop.label                      "Leállítás">
 <!ENTITY stop.accesskey                  "L">
-<!-- LOCALIZATION NOTE (retest.label): This is the text that is
-     displayed on the button which will re-guess the account configuration,
-     taking into account the settings the user has changed. -->
-<!ENTITY retest.label                    "Konfiguráció újratesztelése">
-<!ENTITY retest.accesskey                "K">
-<!ENTITY edit.label                      "Szerkesztés">
-<!ENTITY edit.accesskey                  "z">
+<!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
+     displayed on the button in manual edit mode which will re-guess
+     the account configuration, taking into account the settings that
+     the user has manually changed. -->
+<!ENTITY half-manual-test.label          "Újratesztelés">
+<!ENTITY half-manual-test.accesskey      "t">
+<!ENTITY manual-edit.label               "Kézi beállítás">
+<!ENTITY manual-edit.accesskey           "K">
+<!ENTITY switch-to-provisioner.label     "Új postafiók létrehozása">
+<!ENTITY switch-to-provisioner.accesskey "o">
 
-<!ENTITY rememberPassword.label          "Jelszó megjegyzése">
-<!ENTITY rememberPassword.accesskey      "m">
 
 <!ENTITY warning.label                   "Vigyázat!">
 <!ENTITY incomingSettings.label          "Bejövő beállítások:">
@@ -73,6 +79,6 @@
 <!ENTITY insecureServer.tooltip.title    "Vigyázat! Ez a kiszolgáló nem biztonságos.">
 <!ENTITY insecureServer.tooltip.details  "A részletekért kattintson a körre.">
 
-<!ENTITY insecureUnencrypted.description "A levele és a hitelesítő adatai titkosítás nélkül lettek elküldve, ami azt jelenti, hogy a jelszavát (és a levelét) illetéktelek is elolvashatják. A &brandShortName; megengedi az ilyen módon történő levelezést, de javasoljuk, hogy kérje meg szolgáltatóját a kiszolgáló olyan konfigurálására, hogy az lehetővé tegye a biztonságos kapcsolatot.">
+<!ENTITY insecureUnencrypted.description "A levele és a hitelesítő adatai titkosítás nélkül lettek elküldve, ami azt jelenti, hogy a jelszavát (és a levelét) illetéktelenek is elolvashatják. A &brandShortName; megengedi az ilyen módon történő levelezést, de javasoljuk, hogy kérje meg szolgáltatóját a kiszolgáló olyan konfigurálására, hogy az lehetővé tegye a biztonságos kapcsolatot.">
 <!ENTITY insecureSelfSigned.description  "A kiszolgáló egy olyan tanúsítványt használ, amelyben nem bízunk meg, tehát nem lehetünk biztosan abban, hogy valaki nem hallgatja-e le az adatforgalmat a &brandShortName; és a kiszolgáló között. A &brandShortName; megengedi az ilyen módon történő levelezést, de javasoljuk, hogy kérje meg szolgáltatóját a kiszolgáló olyan konfigurálására, hogy az megbízható tanúsítványt használjon.">
 <!ENTITY secureServer.description        "Gratulálunk! Ez a kiszolgáló biztonságos.">

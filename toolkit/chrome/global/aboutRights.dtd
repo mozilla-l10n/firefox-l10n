@@ -64,11 +64,11 @@
 
 <!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-a "Location Aware Browsing: ">
-<!ENTITY rights.locationawarebrowsing-b "A helyfüggő böngészés nincs alapból bekapcsolva. Az engedélye nélkül nem kerül elküldésre semmilyen adat a tartózkodási helyéről.Ha teljesen le akarja tiltani a funkciót, kövesse az alábbi lépéseket:">
+<!ENTITY rights.locationawarebrowsing-b "A helyfüggő böngészés nincs alapból bekapcsolva. Az engedélye nélkül nem kerül elküldésre semmilyen adat a tartózkodási helyéről. Ha teljesen le akarja tiltani a funkciót, kövesse az alábbi lépéseket:">
 <!ENTITY rights.locationawarebrowsing-term1a "A címsávba írja be: ">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
 <!ENTITY rights.locationawarebrowsing-term2 "Írja be: geo.enabled">
-<!ENTITY rights.locationawarebrowsing-term3 "Kattinson duplán a geo.enabled beállításon.">
+<!ENTITY rights.locationawarebrowsing-term3 "Kattintson duplán a geo.enabled beállításon.">
 <!ENTITY rights.locationawarebrowsing-term4 "A Location-Aware Browsing most le van tiltva.">
 
 <!-- intro paragraph for unbranded builds -->

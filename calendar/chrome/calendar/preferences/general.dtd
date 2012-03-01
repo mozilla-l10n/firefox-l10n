@@ -49,3 +49,7 @@
 <!ENTITY pref.defaultlength.accesskey "e">
 <!ENTITY pref.defaultsnoozelength.label "Alapértelmezett szundihossz:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "s">
+
+<!ENTITY pref.accessibility.label "Kisegítő lehetőségek" >
+<!ENTITY pref.systemcolors.label "Színek optimalizálása" >
+<!ENTITY pref.systemcolors.accesskey "S">

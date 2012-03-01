@@ -172,6 +172,8 @@
 <!ENTITY calendar.task-details.category.label        "kategória">
 <!ENTITY calendar.task-details.repeat.label          "ismétlődés">
 <!ENTITY calendar.task-details.attachments.label     "mellékletek">
+<!ENTITY calendar.task-details.start.label           "kezdő dátum">
+<!ENTITY calendar.task-details.due.label             "határidő">
 
 <!ENTITY calendar.task.category.button.tooltip  "Feladat kategorizálása">
 <!ENTITY calendar.task.complete.button.tooltip  "Kijelölt feladatok befejezettnek jelölése">
@@ -189,34 +191,22 @@
 <!ENTITY calendar.context.newevent.accesskey          "e">
 <!ENTITY calendar.context.newtodo.label               "Új feladat...">
 <!ENTITY calendar.context.newtodo.accesskey           "f">
-<!ENTITY calendar.context.modifytask.label            "Feladat szerkesztése...">
-<!ENTITY calendar.context.modifytask.accesskey        "s">
-<!ENTITY calendar.context.modifyitem.label            "Elem szerkesztése...">
-<!ENTITY calendar.context.modifyitem.accesskey        "E">
 <!ENTITY calendar.context.deletetask.label            "Feladat törlése">
 <!ENTITY calendar.context.deletetask.accesskey        "s">
-<!ENTITY calendar.context.deleteitem.label            "Törlés">
-<!ENTITY calendar.context.deleteitem.accesskey        "t">
 <!ENTITY calendar.context.deleteevent.label           "Esemény törlése">
 <!ENTITY calendar.context.deleteevent.accesskey       "l">
-<!ENTITY calendar.context.deletethisevent.label       "Ezt az eseményt">
-<!ENTITY calendar.context.deletethisevent.accesskey   "z">
-<!ENTITY calendar.context.deletecompleteseries.label  "A teljes sorozatot">
-<!ENTITY calendar.context.deletecompleteseries.accesskey   "s">
-<!ENTITY calendar.context.deletefutureevents.label     "Az összes jövőbeli eseményt">
-<!ENTITY calendar.context.deletefutureevents.accesskey "A">
-<!ENTITY calendar.context.deletefuturetasks.label     "Az összes jövőbeli feladatot">
-<!ENTITY calendar.context.deletefuturetasks.accesskey "f">
 <!ENTITY calendar.context.cutevent.label              "Kivágás">
 <!ENTITY calendar.context.cutevent.accesskey          "K">
 <!ENTITY calendar.context.copyevent.label             "Másolás">
 <!ENTITY calendar.context.copyevent.accesskey         "M">
 <!ENTITY calendar.context.pasteevent.label            "Beillesztés">
 <!ENTITY calendar.context.pasteevent.accesskey        "B">
-<!ENTITY calendar.context.selectall.label             "Minden kijelölése">
-<!ENTITY calendar.context.selectall.accesskey         "i">
 <!ENTITY calendar.context.button.label                "Ma panel" >
 <!ENTITY calendar.context.button.accesskey            "M">
+<!ENTITY calendar.context.attendance.menu.label       "Részvétel" >
+<!ENTITY calendar.context.attendance.menu.accesskey   "R">
+<!ENTITY calendar.context.attendance.occurrence.label "Ez alkalommal" >
+<!ENTITY calendar.context.attendance.all.label        "Minden alkalommal" >
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Készültségi fok">
@@ -249,6 +239,12 @@
 <!ENTITY priority.level.high                "Magas">
 <!ENTITY priority.level.high.accesskey      "M">
 
+<!-- Task View -->
+<!-- Note that the above *.context.* strings are currently used for the other
+     task action buttons -->
+<!ENTITY calendar.taskview.delete.label     "Törlés">
+<!ENTITY calendar.taskview.delete.accesskey "T">
+
 <!-- Server Context Menu -->
 <!ENTITY calendar.context.newserver.label              "Új naptár...">
 <!ENTITY calendar.context.newserver.accesskey          "N">
@@ -256,8 +252,8 @@
 <!ENTITY calendar.context.findcalendar.accesskey       "k">
 <!ENTITY calendar.context.deleteserver.label           "Naptár törlése">
 <!ENTITY calendar.context.deleteserver.accesskey       "t">
-<!ENTITY calendar.context.reloadserver.label           "Távoli naptárak frissítése">
-<!ENTITY calendar.context.reloadserver.accesskey       "f">
+<!ENTITY calendar.context.synccalendars.label          "Naptárak szinkronizálása">
+<!ENTITY calendar.context.synccalendars.accesskey      "S">
 <!ENTITY calendar.context.publish.label                "Naptár közzététele...">
 <!ENTITY calendar.context.publish.accesskey            "k">
 <!ENTITY calendar.context.export.label                 "Naptár exportálása...">
@@ -291,7 +287,7 @@
 
 <!ENTITY calendar.alarm.snoozefor.label             "Szundi" >
 <!ENTITY calendar.alarm.snoozeallfor.label          "Minden szundi" >
-<!ENTITY calendar.alarm.title.label                 "Értesítés a Naptártól" >
+<!ENTITY calendar.alarm.title.label                 "Naptáremlékeztetők" >
 <!ENTITY calendar.alarm.dismiss.label               "Eltüntetés" >
 <!ENTITY calendar.alarm.dismissall.label            "Mindet eltünteti" >
 
@@ -325,8 +321,8 @@
 <!ENTITY calendarproperties.refreshInterval.manual.label   "Kézzel">
 <!ENTITY calendarproperties.name.label                     "Név:">
 <!ENTITY calendarproperties.readonly.label                 "Csak olvasható">
-<!ENTITY calendarproperties.firealarms.label               "Riasztások megjelenítése">
-<!ENTITY calendarproperties.cache.label                    "Gyorsítótár (KÍSÉRLETI)">
+<!ENTITY calendarproperties.firealarms.label               "Emlékeztetők megjelenítése">
+<!ENTITY calendarproperties.cache2.label                   "Gyorsítótár">
 <!ENTITY calendarproperties.enabled.label                  "Naptár bekapcsolása">
 <!ENTITY calendarproperties.forceDisabled.label            "A naptár szolgáltatója nem található. Ez gyakran előfordul, ha letilt vagy eltávolít egyes kiegészítőket.">
 <!ENTITY calendarproperties.unsubscribe.label              "Leiratkozás">

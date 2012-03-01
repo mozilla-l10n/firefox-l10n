@@ -1,12 +1,3 @@
-<!ENTITY empty.label            "Keresés">
-<!ENTITY newpref.label          "Új beállítás hozzáadása">
-<!ENTITY addpref.name           "Név">
-<!ENTITY addpref.value          "Érték">
-
-<!ENTITY cancel.label           "Mégse">
-<!ENTITY reset.label            "Alaphelyzet">
-<!ENTITY done.label             "Kész">
-
-<!ENTITY integer.label          "Egész">
-<!ENTITY string.label           "Karakterlánc">
-<!ENTITY boolean.label          "Logikai">
+<!ENTITY search.placeholder2    "Keresés a beállításokban">
+<!ENTITY clear.altText          "Törlés">
+<!ENTITY newpref.label2         "Új beállítás hozzáadása">

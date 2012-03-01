@@ -43,81 +43,23 @@
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
 <!-- File menu items -->
-<!ENTITY fileMenu.label "Fájl">
-<!ENTITY fileMenu.accesskey "F">
-<!ENTITY newBlankPageCmd.label "Új oldal szerkesztése">
-<!ENTITY newBlankPageCmd.accesskey "e">
-<!ENTITY newMenu.label "Új">
-<!ENTITY openFileCmd.label "Fájl megnyitása...">
-<!ENTITY openFileCmd.accesskey "F">
-<!ENTITY openFileCmd.key "O">
-<!ENTITY openRemoteCmd.label "Webcím megnyitása...">
-<!ENTITY openRemoteCmd.accesskey "w">
-<!ENTITY openRemoteCmd.key "L">
-<!ENTITY fileRecentMenu.label "Legutóbb szerkesztett oldalak">
-<!ENTITY fileRecentMenu.accesskey "L">
-<!ENTITY fileRevert.label "Visszatérés az utoljára mentett változathoz">
-<!ENTITY fileRevert.accesskey "u">
-<!ENTITY saveCmd.label "Mentés">
-<!ENTITY saveCmd.accesskey "M">
 <!ENTITY saveCmd.key "S">
-<!ENTITY saveAsCmd.label "Mentés másként...">
-<!ENTITY saveAsCmd.accesskey "e">
-
-<!ENTITY publishCmd.label "Közzététel">
-<!ENTITY publishCmd.accesskey "ö">
-<!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "Közzététel...">
-<!ENTITY publishAsCmd.accesskey "z">
-<!ENTITY exportToTextCmd.label "Exportálás szövegként...">
-<!ENTITY exportToTextCmd.accesskey "E">
-<!ENTITY saveAsChangeEncodingCmd.label "Mentés és a karakterkódolás megváltoztatása">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "a">
-<!ENTITY previewCmd.label "Oldal megtekintése">
-<!ENTITY previewCmd.accesskey "m">
-<!ENTITY sendPageCmd.label "Oldal küldése...">
-<!ENTITY sendPageCmd.accesskey "k">
-<!ENTITY printSetupCmd.label "Oldalbeállítás...">
-<!ENTITY printSetupCmd.accesskey "O">
-<!ENTITY printCmd.label "Nyomtatás...">
-<!ENTITY printCmd.accesskey "N">
-<!ENTITY printCmd.key "P">
-<!ENTITY closeCmd.label "Bezárás">
-<!ENTITY closeCmd.accesskey "B">
-<!ENTITY closeCmd.key "W">
 
 <!-- Edit menu items -->
-<!ENTITY editMenu.label "Szerkesztés">
-<!ENTITY editMenu.accesskey "z">
 <!ENTITY pasteNoFormatting.label "Beillesztés formázás nélkül">
 <!ENTITY pasteNoFormatting.accesskey "f">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Irányított beillesztés">
 <!ENTITY pasteAs.accesskey "I">
-<!ENTITY publishSettings.label "Közzététel helyének beállításai...">
-<!ENTITY publishSettings.accesskey "z">
 <!ENTITY pasteAsQuotationCmd.label "Beillesztés idézetként">
 <!ENTITY pasteAsQuotationCmd.accesskey "i">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findCmd.label "Keresés és csere...">
-<!ENTITY findCmd.accesskey "K">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.key2 "VK_F19">
-<!ENTITY findAgainCmd.label "Következő keresése">
-<!ENTITY findAgainCmd.accesskey "z">
-<!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Előző keresése">
-<!ENTITY findPrevCmd.accesskey "l">
-<!ENTITY findPrevCmd.key "G">
-<!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY enableInlineSpellChecker.label "Helyesírás-ellenőrzés írás közben">
 <!ENTITY enableInlineSpellChecker.accesskey "e">
-<!ENTITY checkSpellingCmd2.label "Helyesírás-ellenőrzés">
+<!ENTITY checkSpellingCmd2.label "Helyesírás-ellenőrzés...">
 <!ENTITY checkSpellingCmd2.accesskey "h">
 <!ENTITY checkSpellingCmd2.key "p">
-<!ENTITY validateCmd.label "HTML ellenőrzése">
-<!ENTITY validateCmd.accesskey "e">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Beszúrás">
@@ -150,23 +92,6 @@
 <!ENTITY createLinkCmd.accesskey "H">
 <!ENTITY editLinkCmd.label "Hivatkozás szerkesztése új szerkesztőablakban">
 <!ENTITY editLinkCmd.accesskey "s">
-<!-- (Toplevel Edit menu uses utilityOverlay) -->
-<!ENTITY undoCmd.label "Visszavonás">
-<!ENTITY undoCmd.accesskey "V">
-<!ENTITY redoCmd.label "Újra">
-<!ENTITY redoCmd.accesskey "r">
-<!ENTITY cutCmd.label "Kivágás">
-<!ENTITY cutCmd.accesskey "K">
-<!ENTITY copyCmd.label "Másolás">
-<!ENTITY copyCmd.accesskey "M">
-<!ENTITY pasteCmd.label "Beillesztés">
-<!ENTITY pasteCmd.accesskey "B">
-<!ENTITY deleteCmd.label "Törlés">
-<!ENTITY deleteCmd.accesskey "T">
-<!ENTITY clearCmd.label "Tartalom törlése">
-<!ENTITY clearCmd.accesskey "a">
-<!ENTITY selectAllCmd.label "Mindent kijelöl">
-<!ENTITY selectAllCmd.accesskey "i">
 
 <!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip "Betűkészlet kiválasztása">
@@ -175,7 +100,7 @@
 <!ENTITY fontVarWidth.label "Proporcionális">
 <!ENTITY fontVarWidth.accesskey "P">
 <!ENTITY fontFixedWidth.label "Fix szélességű">
-<!ENTITY fontFixedWidth.accesskey "x">
+<!ENTITY fontFixedWidth.accesskey "F">
 <!ENTITY fontFixedWidth.key "T">
 <!ENTITY fontHelvetica.label "Helvetica, Arial">
 <!ENTITY fontHelvetica.accesskey "H">
@@ -257,7 +182,7 @@
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Horgonyok eltávolítása">
 <!ENTITY formatRemoveNamedAnchors.accesskey "H">
-<!ENTITY formatRemoveNamedAnchors.key "A">
+<!ENTITY formatRemoveNamedAnchors2.key "R">
 
 <!ENTITY paragraphMenu.label "Bekezdés">
 <!ENTITY paragraphMenu.accesskey "B">
@@ -332,11 +257,6 @@
 <!ENTITY decreaseIndent.accesskey "c">
 <!ENTITY decreaseIndent.key "[">
 
-<!ENTITY grid.label "Pozicionáló rács">
-<!ENTITY grid.accesskey "P">
-
-<!ENTITY pageProperties.label "Oldal címe és tulajdonságai...">
-<!ENTITY pageProperties.accesskey "O">
 <!ENTITY colorsAndBackground.label "Oldal színei és háttere...">
 <!ENTITY colorsAndBackground.accesskey "h">
 
@@ -405,15 +325,10 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Menüsor">
-<!ENTITY compositionToolbar.tooltip "Szerkesztés eszköztár">
 <!ENTITY formatToolbar.tooltip "Formázás eszköztár">
-<!ENTITY newToolbarCmd.tooltip "Új HTML-szerkesztő oldal létrehozása">
-<!ENTITY openToolbarCmd.label "Megnyitás">
-<!ENTITY openToolbarCmd.tooltip "Helyi fájl megnyitása">
-<!ENTITY saveToolbarCmd.tooltip "Fájl mentése helyi lemezre">
-<!ENTITY publishToolbarCmd.tooltip "Fájl feltöltése távoli kiszolgálóra">
-<!ENTITY previewToolbarCmd.label "Megtekintés">
-<!ENTITY previewToolbarCmd.tooltip "Oldal betöltése a böngészőbe">
+<!ENTITY cutToolbarCmd.tooltip "Kivágás">
+<!ENTITY copyToolbarCmd.tooltip "Másolás">
+<!ENTITY pasteToolbarCmd.tooltip "Beillesztés">
 <!ENTITY printToolbarCmd.label "Nyomtatás">
 <!ENTITY printToolbarCmd.tooltip "Oldal kinyomtatása">
 <!ENTITY findToolbarCmd.label "Keresés">
@@ -450,33 +365,7 @@
 <!ENTITY alignLeftButton.tooltip "Szöveg igazítása a lap bal széléhez">
 <!ENTITY alignCenterButton.tooltip "Szöveg igazítása középre">
 <!ENTITY alignRightButton.tooltip "Szöveg igazítása a lap jobb széléhez">
-<!ENTITY alignjustifyButton.tooltip "Szöveg sorkizárása">
-
-<!-- Display Mode toolbar and View menu items -->
-<!ENTITY NormalModeTab.label "Normál">
-<!ENTITY NormalMode.label "Normál szerkesztési mód">
-<!ENTITY NormalMode.accesskey "n">
-<!ENTITY NormalMode.tooltip "Horgonyok és táblázatok szegélyeinek megjelenítése">
-<!ENTITY AllTagsMode.label "Minden HTML-elem megjelenítése">
-<!ENTITY AllTagsMode.accesskey "M">
-<!ENTITY AllTagsMode.tooltip "Ikonok megjelenítése minden HTML-elemhez">
-
-<!ENTITY HTMLSourceMode.label "HTML-forrás">
-<!-- Toolbar has an image with "HTML" text, so don't include it in the string -->
-<!ENTITY SourceMode.label "Forrás">
-<!ENTITY HTMLSourceMode.accesskey "h">
-<!ENTITY HTMLSourceMode.tooltip "HTML-forrás szerkesztése">
-<!ENTITY PreviewMode.label "Előnézet">
-<!ENTITY PreviewMode.accesskey "n">
-<!ENTITY PreviewMode.tooltip "WYSIWYG megjelenítés (mint a böngészőben)">
-
-<!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
-     Use latin "ltr" if you want the <html> image to left of the 
-     'SourceMode.label' text defined above,
-     or use latin "rtl" if you want this image to the right of text
-     This is the value of the HTML 'dir' attribute
--->
-<!ENTITY SourceTabDirection "ltr">
+<!ENTITY alignJustifyButton.tooltip "Szöveg sorkizárása">
 
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "Kijelölés">

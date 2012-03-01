@@ -79,18 +79,26 @@
 <!ENTITY viewMenu.accesskey                             "N">
 <!ENTITY viewToolbarsMenu.label                         "Eszköztárak">
 <!ENTITY viewToolbarsMenu.accesskey                     "E"> 
+<!ENTITY menubarCmd.label                               "Menüsor">
+<!ENTITY menubarCmd.accesskey                           "M">
 <!ENTITY showAbToolbarCmd.label                         "Címjegyzék eszköztár">
 <!ENTITY showAbToolbarCmd.accesskey                     "C">
 <!ENTITY showTaskbarCmd.label                           "Állapotsor">
 <!ENTITY showTaskbarCmd.accesskey                       "s">
 <!ENTITY customizeToolbar.label                         "Testreszabás...">
 <!ENTITY customizeToolbar.accesskey                     "T">
-<!ENTITY showContactPane.label                          "Névjegy panel">
-<!ENTITY showContactPane.accesskey                      "v">
+<!ENTITY layoutMenu.label                               "Elrendezés">
+<!ENTITY layoutMenu.accesskey                           "L">
+<!ENTITY showDirectoryPane.label                        "Könyvtár ablaktábla">
+<!ENTITY showDirectoryPane.accesskey                    "K">
+<!ENTITY showContactPane2.label                         "Névjegyek ablaktábla">
+<!ENTITY showContactPane2.accesskey                     "N">
 <!ENTITY menu_ShowNameAs.label                          "Nevek megjelenítése">
 <!ENTITY menu_ShowNameAs.accesskey                      "N"> 
-<!ENTITY firstLastCmd.label                             "Utónév, vezetéknév">
-<!ENTITY firstLastCmd.accesskey                         "U"> 
+<!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
+because displayed names don't have the comma in between. -->
+<!ENTITY firstLastCmd2.label                            "Utónév, vezetéknév">
+<!ENTITY firstLastCmd2.accesskey                        "U"> 
 <!ENTITY lastFirstCmd.label                             "Vezetéknév, utónév">
 <!ENTITY lastFirstCmd.accesskey                         "V">
 <!ENTITY displayNameCmd.label                           "Megjelenítendő név">

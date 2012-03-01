@@ -35,42 +35,42 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField2.label "címzett ">
-<!ENTITY fromField2.label "feladó ">
-<!ENTITY senderField2.label "küldő ">
-<!ENTITY organizationField2.label "szervezet ">
-<!ENTITY replyToField2.label "válaszcím ">
+<!ENTITY toField3.label "Címzett ">
+<!ENTITY fromField3.label "Feladó ">
+<!ENTITY senderField3.label "Küldő ">
+<!ENTITY organizationField3.label "Szervezet ">
+<!ENTITY replyToField3.label "Válaszcím ">
 
-<!ENTITY subjectField2.label "tárgy ">
-<!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
-<!ENTITY ccField2.label "másolat ">
-<!ENTITY bccField2.label "rejtett másolat ">
-<!ENTITY newsgroupsField2.label "hírcsoportok ">
-<!ENTITY followupToField2.label "hírcsop. vál. ">
-<!ENTITY tagsHdr2.label "címkék ">
-<!ENTITY dateField2.label "dátum ">
-<!ENTITY userAgentField2.label "ügyfélprogram ">
-<!ENTITY referencesField2.label "hivatkozások ">
-<!ENTITY messageIdField2.label "üzenetazonosító ">
-<!ENTITY inReplyToField2.label "válasz erre ">
-<!ENTITY originalWebsite2.label "webhely ">
+<!ENTITY subjectField3.label "Tárgy ">
+<!ENTITY ccField3.label "Másolat ">
+<!ENTITY bccField3.label "Rejtett másolat ">
+<!ENTITY newsgroupsField3.label "Hírcsoportok ">
+<!ENTITY followupToField3.label "Hírcsop. vál. ">
+<!ENTITY tagsHdr3.label "Címkék ">
+<!ENTITY dateField3.label "Dátum ">
+<!ENTITY userAgentField3.label "Ügyfélprogram ">
+<!ENTITY referencesField3.label "Hivatkozások ">
+<!ENTITY messageIdField3.label "Üzenetazonosító ">
+<!ENTITY inReplyToField3.label "Válasz erre ">
+<!ENTITY originalWebsite3.label "Webhely ">
 
 <!ENTITY editMessageDescription.label "Ez egy piszkozat">
 <!ENTITY editMessageButton.label "Szerkesztés...">
-<!ENTITY hdrArchiveButton.label "archiválás">
-<!ENTITY hdrArchiveButton.tooltip "üzenet archiválása">
-<!ENTITY hdrReplyButton.label "válasz">
-<!ENTITY hdrReplyButton.tooltip "válasz az üzenetre">
-<!ENTITY hdrReplyAllButton.label "válasz mindenkinek">
-<!ENTITY hdrReplyAllButton.tooltip "válasz a küldőnek, és mindenkinek, aki megkapta">
-<!ENTITY hdrReplyListButton.label "válasz a listára">
-<!ENTITY hdrReplyListButton.tooltip "válasz a levelezőlistára">
-<!ENTITY hdrForwardButton.label "továbbítás">
-<!ENTITY hdrForwardButton.tooltip "üzenet továbbküldése">
-<!ENTITY hdrJunkButton.label "szemét">
-<!ENTITY hdrJunkButton.tooltip "az üzenet megjelölése szemétként">
-<!ENTITY hdrTrashButton.label "törlés">
-<!ENTITY hdrTrashButton.tooltip "az üzenet törlése">
+<!ENTITY hdrArchiveButton1.label "Archiválás">
+<!ENTITY hdrArchiveButton1.tooltip "Üzenet archiválása">
+<!ENTITY hdrSmartReplyButton1.label "Intelligens válasz">
+<!ENTITY hdrReplyButton1.label "Válasz">
+<!ENTITY hdrReplyButton1.tooltip "Válasz az üzenetre">
+<!ENTITY hdrReplyAllButton1.label "Válasz mindenkinek">
+<!ENTITY hdrReplyAllButton1.tooltip "Válasz a feladónak és az összes címzettnek">
+<!ENTITY hdrReplyListButton1.label "Válasz a listára">
+<!ENTITY hdrReplyListButton1.tooltip "Válasz a levelezőlistára">
+<!ENTITY hdrForwardButton1.label "Továbbítás">
+<!ENTITY hdrForwardButton1.tooltip "Az üzenet továbbküldése">
+<!ENTITY hdrJunkButton1.label "Szemét">
+<!ENTITY hdrJunkButton1.tooltip "Az üzenet megjelölése szemétként">
+<!ENTITY hdrTrashButton1.label "Törlés">
+<!ENTITY hdrTrashButton1.tooltip "Az üzenet törlése">
 
 <!ENTITY hdrViewToolbarShowFull.label "Ikonok és szöveg">
 <!ENTITY hdrViewToolbarShowFull.accesskey "I">
@@ -81,38 +81,49 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "A „Válasz a feladónak” mindig megjelenik">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "V">
 
-<!ENTITY otherActionsButton.label "egyéb művelet">
-<!ENTITY otherActionsOpenConversation.label "megnyitás beszélgetésben">
-<!ENTITY otherActionsOpenConversation.accesskey "b">
-<!ENTITY otherActionsOpenInNewWindow.label "megnyitás új ablakban">
-<!ENTITY otherActionsOpenInNewWindow.accesskey "a">
-<!ENTITY otherActionsOpenInNewTab.label "megnyitás új lapon">
-<!ENTITY otherActionsOpenInNewTab.accesskey "l">
-<!ENTITY markAsReadMenuItem.label "megjelölés olvasottként">
-<!ENTITY markAsReadMenuItem.accesskey "o">
-<!ENTITY markAsUnreadMenuItem.label "megjelölés nem olvasottként">
-<!ENTITY markAsUnreadMenuItem.accesskey "e">
-<!ENTITY saveAsMenuItem.label "mentés másként...">
-<!ENTITY saveAsMenuItem.accesskey "m">
-<!ENTITY viewSourceMenuItem.label "forrás megtekintése">
-<!ENTITY viewSourceMenuItem.accesskey "f">
-<!ENTITY otherActionsPrint.label "nyomtatás...">
-<!ENTITY otherActionsPrint.accesskey "n">
+<!ENTITY otherActionsButton1.label "Egyéb művelet">
+<!ENTITY otherActionsOpenConversation1.label "Megnyitás beszélgetésben">
+<!ENTITY otherActionsOpenConversation1.accesskey "b">
+<!ENTITY otherActionsOpenInNewWindow1.label "Megnyitás új ablakban">
+<!ENTITY otherActionsOpenInNewWindow1.accesskey "a">
+<!ENTITY otherActionsOpenInNewTab1.label "Megnyitás új lapon">
+<!ENTITY otherActionsOpenInNewTab1.accesskey "l">
+<!ENTITY markAsReadMenuItem1.label "Megjelölés olvasottként">
+<!ENTITY markAsReadMenuItem1.accesskey "o">
+<!ENTITY markAsUnreadMenuItem1.label "Megjelölés olvasatlanként">
+<!ENTITY markAsUnreadMenuItem1.accesskey "v">
+<!ENTITY saveAsMenuItem1.label "Mentés másként...">
+<!ENTITY saveAsMenuItem1.accesskey "S">
+<!ENTITY viewSourceMenuItem1.label "Forrás megtekintése">
+<!ENTITY viewSourceMenuItem1.accesskey "F">
+<!ENTITY otherActionsPrint1.label "Nyomtatás...">
+<!ENTITY otherActionsPrint1.accesskey "N">
 
+<!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Megnyitás">
 <!ENTITY openAttachmentCmd.accesskey    "M">
 <!ENTITY saveAsAttachmentCmd.label    "Mentés másként...">
-<!ENTITY saveAsAttachmentCmd.accesskey    "e">
+<!ENTITY saveAsAttachmentCmd.accesskey    "S">
 <!ENTITY detachAttachmentCmd.label    "Leválasztás...">
+<!ENTITY detachAttachmentCmd.accesskey    "L">
 <!ENTITY deleteAttachmentCmd.label    "Törlés">
+<!ENTITY deleteAttachmentCmd.accesskey    "T">
 <!ENTITY openAllAttachmentsCmd.label    "Összes megnyitása...">
 <!ENTITY openAllAttachmentsCmd.accesskey    "m">
 <!ENTITY saveAllAttachmentsCmd.label    "Összes mentése...">
 <!ENTITY saveAllAttachmentsCmd.accesskey    "e">
 <!ENTITY detachAllAttachmentsCmd.label    "Összes leválasztása...">
-<!ENTITY detachAllAttachmentsCmd.accesskey    "l">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "s">
 <!ENTITY deleteAllAttachmentsCmd.label    "Összes törlése...">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "t">
+
+<!ENTITY openAttachment.tooltip "Csatolt fájl megnyitása">
+
+<!-- Attachment toolbar items -->
+<!ENTITY saveAttachmentButton1.label       "Mentés">
+<!ENTITY saveAttachmentButton1.tooltip     "Csatolt fájl mentése">
+<!ENTITY saveAllAttachmentsButton1.label   "Összes mentése">
+<!ENTITY saveAllAttachmentsButton1.tooltip "Az összes csatolt fájl mentése">
 
 <!ENTITY copyLinkCmd.label        "Hivatkozás címének másolása">
 <!ENTITY copyLinkCmd.accesskey    "v">

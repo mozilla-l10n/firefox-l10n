@@ -1,5 +1,10 @@
 <!ENTITY addons.windowTitle                   "Kiegészítőkezelő">
+
 <!ENTITY search.placeholder                   "Keresés a kiegészítők között">
+<!-- LOCALIZATION NOTE (search.commandKey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
+
 <!ENTITY loading.label                        "Betöltés...">
 <!ENTITY listEmpty.installed.label            "Nincs ilyen típusú kiegészítője">
 <!ENTITY listEmpty.availableUpdates.label     "Nem találhatók frissítések">
@@ -23,14 +28,13 @@
 <!ENTITY warning.updatesecurity.enable.label       "Engedélyezés">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Kiegészítők frissítésekor a biztonsági ellenőrzés engedélyezése">
 
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Bővítmények frissességének ellenőrzése">
+<!ENTITY info.plugincheck.tooltip               "Bővítmények frissességének ellenőrzése">
+
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Keresés">
 <!ENTITY view.discover.label                  "Kiegészítők letöltése">
-<!ENTITY view.locales.label                   "Nyelvek">
-<!ENTITY view.searchengines.label             "Keresőszolgáltatások">
-<!ENTITY view.features.label                  "Kiterjesztések">
-<!ENTITY view.appearance2.label               "Megjelenés">
-<!ENTITY view.plugins.label                   "Bővítmények">
 <!ENTITY view.recentUpdates.label             "Legutóbbi frissítések">
 <!ENTITY view.availableUpdates.label          "Elérhető frissítések">
 
@@ -197,3 +201,5 @@
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
 <!ENTITY eula.accept                          "Elfogadás és telepítés...">
+
+<!ENTITY settings.path.button.label           "Tallózás...">
