@@ -1,6 +1,6 @@
 <!ENTITY window.title "Scratchpad">
 <!ENTITY fileMenu.label "Archivo">
-<!ENTITY fileMenu.accesskey "F">
+<!ENTITY fileMenu.accesskey "A">
 <!ENTITY newWindowCmd.label "Ventana nueva">
 <!ENTITY newWindowCmd.accesskey "N">
 <!ENTITY newWindowCmd.commandkey "n">
@@ -35,10 +35,20 @@
 <!ENTITY selectAllCmd.label "Seleccionar todo">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "A">
-<!ENTITY run.label "Correr">
+<!ENTITY findCmd.label "Buscar…">
+<!ENTITY findCmd.key "F">
+<!ENTITY findCmd.accesskey "F">
+<!ENTITY findAgainCmd.label "Buscar nuevamente…">
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findPreviousCmd.key "G">
+<!ENTITY gotoLineCmd.label "Saltar a la linea…">
+<!ENTITY gotoLineCmd.key "J">
+<!ENTITY gotoLineCmd.accesskey "J">
+<!ENTITY run.label "Ejecutar">
 <!ENTITY run.accesskey "R">
 <!ENTITY run.key "r">
-<!ENTITY inspect.label "Inspector">
+<!ENTITY inspect.label "Inspeccionar">
 <!ENTITY inspect.accesskey "I">
 <!ENTITY inspect.key "i">
 <!ENTITY display.label "Mostrar">
