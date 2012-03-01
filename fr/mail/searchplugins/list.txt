@@ -1,4 +1,3 @@
-google
 amazon-france
 bing
 wikipedia-fr
