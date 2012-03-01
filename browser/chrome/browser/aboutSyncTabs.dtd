@@ -8,5 +8,5 @@
 <!ENTITY tabs.context.bookmarkSingleTab.accesskey "M">
 <!ENTITY tabs.context.bookmarkMultipleTabs.label "Pestañas del marcador seleccionado…">
 <!ENTITY tabs.context.bookmarkMultipleTabs.accesskey "M">
-<!ENTITY tabs.context.refreshList.label "Refrescar lista">
+<!ENTITY tabs.context.refreshList.label "Actualizar lista">
 <!ENTITY tabs.context.refreshList.accesskey "R">
