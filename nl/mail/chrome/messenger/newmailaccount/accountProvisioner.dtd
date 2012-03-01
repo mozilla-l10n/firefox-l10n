@@ -1,5 +1,5 @@
 <!ENTITY window.title "Welkom bij &brandShortName;">
-<!ENTITY header.label "Wilt u een nieuw e-mailadres?">
+<!ENTITY header2.label "Wilt u een nieuw e-mailadres?">
 <!ENTITY other.languages "We tonen alleen providers met adressen uit uw regio.  Klik hier om alle providers te tonen.">
 <!ENTITY error.line1 "Sorry, we kunnen geen voorgestelde e-mailadressen vinden.">
 <!ENTITY error.line2 "U kunt op bijnamen of andere termen om meer e-mailadressen te vinden">
