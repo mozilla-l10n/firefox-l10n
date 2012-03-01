@@ -1,7 +1,6 @@
 amazondotcom
 bing
 eBay
-google
 leit-is
 wikipedia-is
 yahoo
