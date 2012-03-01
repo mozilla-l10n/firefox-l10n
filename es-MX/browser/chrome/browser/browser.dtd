@@ -161,8 +161,8 @@
 <!ENTITY inspectButton.label "Inspector">
 <!ENTITY inspectButton.accesskey "I">
 <!ENTITY inspectCloseButton.tooltiptext "Cerrar Inspector">
-<!ENTITY inspect3DViewButton.label "3D View">
-<!ENTITY inspect3DViewButton.accesskey "W">
+<!ENTITY inspect3DViewButton.label "Vista 3D">
+<!ENTITY inspect3DViewButton.accesskey "V">
 <!ENTITY inspectStyleButton.label "Estilo">
 <!ENTITY inspectStyleButton.accesskey "S">
 <!ENTITY styleeditor.label "Style Editor">
