@@ -42,6 +42,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "圖形">
 
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "漸進式記憶體資源回收">
+
 <!ENTITY aboutSupport.installationHistoryTitle "安裝紀錄">
 <!ENTITY aboutSupport.updateHistoryTitle "更新記錄">
 

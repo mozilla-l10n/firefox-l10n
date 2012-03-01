@@ -5,3 +5,5 @@
 <!ENTITY identitiesListEdit.accesskey "E">
 <!ENTITY identitiesListDelete.label "刪除">
 <!ENTITY identitiesListDelete.accesskey "D">
+<!ENTITY identitiesListClose.label "關閉">
+<!ENTITY identitiesListClose.accesskey "C">

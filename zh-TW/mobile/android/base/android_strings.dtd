@@ -79,6 +79,7 @@
 <!ENTITY char_encoding "語言及字元編碼">
 
 <!ENTITY share "分享">
+<!ENTITY share_title "分享到">
 <!ENTITY save_as_pdf "儲存為 PDF">
 
 <!ENTITY contextmenu_open_new_tab "以新分頁開啟">
