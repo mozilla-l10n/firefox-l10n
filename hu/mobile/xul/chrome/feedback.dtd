@@ -5,10 +5,7 @@
 <!ENTITY feedback.feedback.good         "Jó">
 <!ENTITY feedback.feedback.bad          "Rossz">
 
-<!ENTITY feedback.information.title     "További információk">
-<!ENTITY feedback.about.title           "Erről a bétáról">
-<!ENTITY feedback.about.button          "Ugrás az oldalra">
-
 <!ENTITY feedback.tools.title           "Eszközök">
+<!ENTITY feedback.allowTelemetry.title  "Teljesítményadatok küldése">
 <!ENTITY feedback.forceCompat.title     "Kiegészítők kompatibilitásának kényszerítése">
 <!ENTITY feedback.errorConsole.title    "Hibakonzol engedélyezése">

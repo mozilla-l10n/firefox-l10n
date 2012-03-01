@@ -6,11 +6,10 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "r">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Webhely helye:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "W">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "Élő címek">
 <!ENTITY editBookmarkOverlay.folder.label                    "Mappa:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Minden könyvjelzőmappa megjelenítése">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Elrejtés">
-<!ENTITY editBookmarkOverlay.tags.label                      "Címkék:">
+<!ENTITY editBookmarkOverlay.tags.label                      "Címkék: ">
 <!ENTITY editBookmarkOverlay.tags.accesskey                  "C">
 <!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "A címkéket vesszővel válassza el.">
 <!ENTITY editBookmarkOverlay.description.label               "Leírás:">

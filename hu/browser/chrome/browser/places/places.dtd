@@ -6,12 +6,9 @@
 <!ENTITY organize.accesskey    "R">
 <!ENTITY organize.tooltip      "Könyvjelzők rendszerezése">
 
-<!ENTITY file.accesskey                 "F">
 <!ENTITY file.close.label               "Bezárás">
 <!ENTITY file.close.accesskey           "B">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY edit.label                     "Szerkesztés">
-<!ENTITY edit.accesskey                 "z">
 <!ENTITY views.label                    "Nézetek">
 <!ENTITY views.accesskey                "N">
 <!ENTITY views.tooltip                  "A nézet megváltoztatása">
@@ -31,10 +28,12 @@
 <!ENTITY cmd.findCurrent.label          "Keresés az aktuális gyűjteményben...">
 <!ENTITY cmd.findCurrent.accesskey      "e">
 
-<!ENTITY cmd.exportHTML.label           "HTML exportálása...">
-<!ENTITY cmd.exportHTML.accesskey       "e">
-<!ENTITY cmd.importHTML.label           "HTML importálása...">
-<!ENTITY cmd.importHTML.accesskey       "i">
+<!ENTITY importBookmarksFromHTML.label     "Könyvjelzők importálása HTML-ből...">
+<!ENTITY importBookmarksFromHTML.accesskey "i">
+<!ENTITY exportBookmarksToHTML.label       "Könyvjelzők exportálása HTML-be...">
+<!ENTITY exportBookmarksToHTML.accesskey   "e">
+<!ENTITY importOtherBrowser.label          "Adatok importálása másik böngészőből...">
+<!ENTITY importOtherBrowser.accesskey      "A">
 
 <!ENTITY cmd.backup.label               "Mentés...">
 <!ENTITY cmd.backup.accesskey           "M">
@@ -76,8 +75,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label      "Élő könyvjelző frissítése">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "f">
-<!ENTITY cmd.reloadMicrosummary.label      "Élő cím frissítése">
-<!ENTITY cmd.reloadMicrosummary.accesskey  "c">
 
 <!ENTITY cmd.moveBookmarks.label                  "Áthelyezés...">
 <!ENTITY cmd.moveBookmarks.accesskey              "t">
@@ -113,17 +110,14 @@
 <!ENTITY maintenance.accesskey  "I">
 <!ENTITY maintenance.tooltip    "Könyvjelzők importálása és biztonsági mentése">
 
-<!ENTITY backCmd.label       "Vissza">
 <!ENTITY backButton.tooltip  "Ugrás vissza">
 
-<!ENTITY forwardCmd.label       "Előre">
 <!ENTITY forwardButton.tooltip  "Ugrás előre">
 
 <!ENTITY detailsPane.more.label "Több">
 <!ENTITY detailsPane.more.accesskey "T">
 <!ENTITY detailsPane.less.label "Kevesebb">
 <!ENTITY detailsPane.less.accesskey "K">
-<!ENTITY detailsPane.noPreviewAvailable.label "Előnézet">
 <!ENTITY detailsPane.selectAnItemText.description "Jelöljön ki egy elemet megtekintésre, és szerkessze tulajdonságait">
 
 <!ENTITY find.label               "Keresés:">

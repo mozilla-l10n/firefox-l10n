@@ -21,22 +21,26 @@
 <!ENTITY sentFolderOn.accesskey "E">
 <!ENTITY sentInOtherFolder.label "Máshol:">
 <!ENTITY sentInOtherFolder.accesskey "M">
+<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY archivesTitle.label "Üzenetarchívumok">
+<!ENTITY keepArchives.label "Üzenetarchívumok tárolója:">
+<!ENTITY keepArchives.accesskey "t">
+<!ENTITY archiveHierarchyButton.label "Archiválási beállítások">
+<!ENTITY archiveHierarchyButton.accesskey "A">
+<!ENTITY archivesFolderOn.label "„Archívum” mappa itt:">
+<!ENTITY archivesFolderOn.accesskey "A">
+<!ENTITY archiveInOtherFolder.label "Máshol:">
+<!ENTITY archiveInOtherFolder.accesskey "l">
+<!ENTITY specialFolders.label "Piszkozatok és sablonok">
+<!ENTITY keepDrafts.label "Piszkozatok tárolója:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "„Piszkozatok” mappa itt:">
 <!ENTITY draftsFolderOn.accesskey "P">
 <!ENTITY draftInOtherFolder.label "Máshol:">
 <!ENTITY draftInOtherFolder.accesskey "s">
-<!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesFolderOn.label "„Archívum” mappa itt:">
-<!ENTITY archivesFolderOn.accesskey "A">
-<!ENTITY archiveInOtherFolder.label "Máshol:">
-<!ENTITY archiveInOtherFolder.accesskey "l">
+<!ENTITY keepTemplates.label "Sablonok tárolója:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "„Sablonok” mappa itt:">
 <!ENTITY templatesFolderOn.accesskey "S">
 <!ENTITY templateInOtherFolder.label "Máshol:">
 <!ENTITY templateInOtherFolder.accesskey "h">
-<!ENTITY specialFoldersTitle.label "Piszkozatok, archívum és sablonok">
-<!ENTITY keepDrafts.label "Piszkozatok tárolója:">
-<!ENTITY keepArchives.label "Üzenetarchívumok tárolója:">
-<!ENTITY keepTempltes.label "Sablonok tárolója:">

@@ -1,5 +1,5 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
-  %brandDTD;
+%brandDTD;
 
 <!ENTITY loadError.label "Probléma az oldal betöltése közben">
 <!ENTITY retry.label "Próbálja újra">
@@ -51,11 +51,13 @@
 <!ENTITY netInterrupt.title "A kapcsolat megszakadt">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!ENTITY notCached.title "A dokumentum lejárt">
+<!ENTITY notCached.longDesc "<p>A kért dokumentum nem érhető el a gyorsítótárban.</p><ul><li>Biztonsági okokból a &brandShortName; nem kéri le automatikusan az érzékeny adatokat tartalmazó dokumentumokat.</li><li>Kattintson a „Próbálja újra” gombra, hogy újra lekérje a dokumentumot a webhelyről.</li></ul>">
+
 <!ENTITY netOffline.title "Kapcsolat nélküli mód">
-<!ENTITY netOffline.longDesc "
+<!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Kapcsolja online módba a &brandShortName; programot, és próbálja újra.</li>
-</ul>
+  <li>Nyomja meg a &quot;Próbálja újra&quot; gombot az online módhoz és az oldal újratöltéséhez.</li> </ul>
 ">
 
 <!ENTITY contentEncodingError.title "Tartalomkódolási hiba">
@@ -94,7 +96,7 @@
 </ul>
 ">
 
-<!ENTITY proxyResolveFailure.title " Nem található a proxykiszolgáló">
+<!ENTITY proxyResolveFailure.title "Nem található a proxykiszolgáló">
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
   <li>Ellenőrizze a proxybeállításokat, hogy helyesek-e.</li>
@@ -162,6 +164,9 @@
 <!ENTITY cspFrameAncestorBlocked.title "Blokkolva a tartalombiztonsági irányelv szerint">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>A &brandShortName; nem engedte meg, hogy az oldalt ezen a módon betöltse, mert az oldal tartalombiztonsági irányelve ezt tiltja.</p>">
 
+<!ENTITY corruptedContentError.title "Sérült tartalom hiba">
+<!ENTITY corruptedContentError.longDesc "<p>A megtekinteni kívánt tartalom nem jeleníthető meg, mert az adatátvitel közben hiba történt.</p><ul><li>Lépjen kapcsolatba az üzemeltetővel, és értesítse a problémáról.</li></ul>">
+
 <!ENTITY securityOverride.linkText "Vagy hozzáadhat egy kivételt...">
 <!ENTITY securityOverride.getMeOutOfHereButton "Oldal elhagyása">
 <!ENTITY securityOverride.exceptionButtonLabel "Kivétel hozzáadása...">
@@ -173,6 +178,10 @@ functionality specific to thunderbird. -->
 
 <!ENTITY securityOverride.warningContent "
 <p>Ne adjon hozzá kivételt, ha nem teljesen megbízható internetkapcsolatot használ, vagy ha nem szokta látni ezt a figyelmeztetést ennél a kiszolgálónál.</p>
+
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
+
+<!ENTITY remoteXUL.title "Távoli XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Értesítse a webhely tulajdonosait erről a problémáról.</li></ul></p>">

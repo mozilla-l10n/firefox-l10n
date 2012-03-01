@@ -5,10 +5,15 @@
 <!ENTITY SearchNameOrEmail.label            "Név vagy e-mail">
 
 <!ENTITY deleteAddrBookCard.label           "Törlés">
+<!ENTITY deleteAddrBookCard.accesskey       "T">
 <!ENTITY addrBookCardProperties.label       "Tulajdonságok">
+<!ENTITY addrBookCardProperties.accesskey   "T">
 <!ENTITY addtoToFieldMenu.label             "Hozzáadás a Címzett mezőhöz">
+<!ENTITY addtoToFieldMenu.accesskey         "C">
 <!ENTITY addtoCcFieldMenu.label             "Hozzáadás a Másolat mezőhöz">
+<!ENTITY addtoCcFieldMenu.accesskey         "M">
 <!ENTITY addtoBccFieldMenu.label            "Hozzáadás a Rejtett másolat mezőhöz">
+<!ENTITY addtoBccFieldMenu.accesskey        "R">
 
 <!ENTITY toButton.label                     "Címzett:">
 <!ENTITY toButton.accesskey                 "C">

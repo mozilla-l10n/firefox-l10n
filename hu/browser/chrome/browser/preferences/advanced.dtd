@@ -18,7 +18,7 @@
 <!ENTITY useSmoothScrolling.label        "Finom görgetés">
 <!ENTITY useSmoothScrolling.accesskey    "F">
 <!ENTITY allowHWAccel.label              "Hardveres gyorsítás használata, ha lehetséges">
-<!ENTITY allowHWAccel.accesskey          "a">
+<!ENTITY allowHWAccel.accesskey          "r">
 <!ENTITY checkSpelling.label             "Helyesírás-ellenőrzés beírás közben">
 <!ENTITY checkSpelling.accesskey         "H">
 
@@ -29,6 +29,8 @@
 <!ENTITY checkNow.accesskey              "E">
 <!ENTITY submitCrashes.label             "Hibajelentés küldése">
 <!ENTITY submitCrashes.accesskey         "H">
+<!ENTITY submitTelemetry.label           "Teljesítményadatok küldése">
+<!ENTITY submitTelemetry.accesskey       "T">
 
 <!ENTITY networkTab.label                "Hálózat">
 
@@ -38,7 +40,9 @@
 <!ENTITY connectionSettings.label        "Beállítások...">
 <!ENTITY connectionSettings.accesskey    "B">
 
-<!ENTITY offlineStorage.label            "Kapcsolat nélküli tár">
+<!ENTITY httpCache.label                 "Gyorsítótárazott webtartalom">
+
+<!ENTITY offlineStorage2.label           "Offline webtartalom és felhasználói adatok">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -51,34 +55,41 @@
 <!ENTITY limitCacheSizeAfter.label       "MB">
 <!ENTITY clearCacheNow.label             "Törlés most">
 <!ENTITY clearCacheNow.accesskey         "T">
+<!ENTITY clearOfflineAppCacheNow.label   "Törlés most">
+<!ENTITY clearOfflineAppCacheNow.accesskey "m">
 <!ENTITY overrideSmartCacheSize.label    "Az automatikus gyorsítótár-kezelés felülbírálása">
 <!ENTITY overrideSmartCacheSize.accesskey "a">
 
 <!ENTITY updateTab.label                 "Frissítés">
 
-<!ENTITY autoCheck.label                 "Frissítések automatikus keresése:">
-<!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate2.label       "Kiegészítők">
-<!ENTITY enableAddonsUpdate2.accesskey   "i">
-<!ENTITY enableSearchUpdate.label        "Keresőszolgáltatások">
-<!ENTITY enableSearchUpdate.accesskey    "K">
-<!ENTITY whenUpdatesFound.label          "Amikor frissítések érhetők el a &brandShortName; programhoz:">
-<!ENTITY askMe.label                     "Kérdezzen rá, hogy mi a teendő">
-<!ENTITY askMe.accesskey                 "d">
-<!ENTITY modeAutomatic.label             "Frissítések automatikus letöltése és telepítése">
-<!ENTITY modeAutomatic.accesskey         "r">
-<!ENTITY modeAutoAddonWarn.label         "Figyelmeztetés, ha a kiegészítők elérhetetlenek lesznek emiatt">
-<!ENTITY modeAutoAddonWarn.accesskey     "h">
+<!ENTITY updateApp.label                 "&brandShortName; frissítések:">
+<!ENTITY updateAuto.label                "Frissítések automatikus telepítése (ez ajánlott a maximális biztonság érdekében)">
+<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateCheck.label               "Frissítések keresése, de a telepítés kézzel történik">
+<!ENTITY updateCheck.accesskey           "k">
+<!ENTITY updateManual.label              "Ne legyen frissítve (nem ajánlott a biztonsági kockázat miatt">
+<!ENTITY updateManual.accesskey          "N">
+
+<!ENTITY updateAutoAddonWarn.label       "Figyelmeztetés, ha a kiegészítők elérhetetlenek lesznek emiatt">
+<!ENTITY updateAutoAddonWarn.accesskey   "F">
+
 <!ENTITY updateHistory.label             "Frissítési előzmények megjelenítése">
 <!ENTITY updateHistory.accesskey         "s">
+
+<!ENTITY useService.label                "Háttérben futó szolgáltatás intézze a frissítést">
+<!ENTITY useService.accesskey            "H">
+
+<!ENTITY updateOthers.label              "Automatikus frissítés:">
+<!ENTITY enableSearchUpdate.label        "Keresőszolgáltatások">
+<!ENTITY enableSearchUpdate.accesskey    "E">
 
 <!ENTITY offlineNotify.label             "Figyelmeztetés, ha a webhely adatokat akar tárolni kapcsolat nélküli használatra">
 <!ENTITY offlineNotify.accesskey         "w">
 <!ENTITY offlineNotifyExceptions.label   "Kivételek...">
 <!ENTITY offlineNotifyExceptions.accesskey "K">
 
-<!ENTITY offlineAppsList.label           "A következő webhelyek tároltak adatokat kapcsolat nélküli használatra:">
+<!ENTITY offlineAppsList2.label          "A következő webhelyek tárolhatnak adatokat kapcsolat nélküli használatra:
+">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Eltávolítás...">
 <!ENTITY offlineAppsListRemove.accesskey "E">

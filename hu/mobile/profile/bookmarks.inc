@@ -11,10 +11,6 @@
 # title for the folder that will contains the default bookmarks
 #define bookmarks_title Mobil
 
-# LOCALIZATION NOTE (bookmarks_welcome):
-# link title for about:firstrun
-#define bookmarks_welcome Firefox: Üdvözlet
-
 # LOCALIZATION NOTE (bookmarks_aboutBrowser):
 # link title for about:fennec
 #define bookmarks_aboutBrowser Firefox: Névjegy
@@ -24,7 +20,7 @@
 #define bookmarks_addons Firefox: Testreszabás kiegészítőkkel
 
 # LOCALIZATION NOTE (bookmarks_support):
-# link title for https://mobile.support.mozilla.com
+# link title for https://support.mozilla.com/mobile
 #define bookmarks_support Firefox: Támogatás
 # LOCALIZATION NOTE (bookmarks_aboutHome):
 # link title for about:home

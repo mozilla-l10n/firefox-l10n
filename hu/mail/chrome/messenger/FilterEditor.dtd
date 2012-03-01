@@ -1,5 +1,5 @@
 <!ENTITY window.title "Szűrés szabályai">
-
+<!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "Szűrő neve:">
 <!ENTITY filterName.accesskey "z">
 
@@ -28,6 +28,7 @@
 <!ENTITY forwardTo.label "Üzenet továbbítása">
 <!ENTITY replyWithTemplate.label "Válasz sablon használatával">
 <!ENTITY markMessageRead.label "Megjelölés olvasottként">
+<!ENTITY markMessageUnread.label "Megjelölés olvasatlanként">
 <!ENTITY markMessageStarred.label "Csillag hozzáadása">
 <!ENTITY setPriority.label "Prioritás beállítása">
 <!ENTITY addTag.label "Üzenet címkézése">

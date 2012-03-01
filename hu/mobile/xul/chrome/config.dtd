@@ -5,7 +5,7 @@
 
 <!ENTITY cancel.label           "Mégse">
 <!ENTITY reset.label            "Alaphelyzet">
-<!ENTITY done.label             "Kész">
+<!ENTITY done.label             "Bezárás">
 
 <!ENTITY integer.label          "Egész">
 <!ENTITY string.label           "Karakterlánc">

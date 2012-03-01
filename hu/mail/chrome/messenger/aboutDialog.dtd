@@ -1,16 +1,65 @@
-<!ENTITY aboutDialog.title      "A &brandFullName; névjegye">
-<!ENTITY aboutButton.label      "&lt; Vissza">
-<!ENTITY aboutButton.accesskey  "V">
-<!ENTITY aboutVersion           "verzió">
-<!ENTITY aboutMenu.label        "Névjegy">
-<!ENTITY aboutMenu.accesskey    "N">
-<!ENTITY aboutCredits.label     "Köszönetnyilvánítás">
-<!ENTITY aboutCredits.accesskey "z">
-<!ENTITY aboutRights.label      "Az Ön jogai">
-<!ENTITY aboutRights.accesskey  "A">
-<!ENTITY aboutContributors.label "Közreműködők">
-<!ENTITY aboutContributors.accesskey "K">
-<!ENTITY aboutLicense.label      "Licenc">
-<!ENTITY aboutLicense.accesskey  "L">
+<!ENTITY aboutDialog.title          "A &brandFullName; névjegye">
+
+<!ENTITY community.start2           "A &brandShortName;ot a ">
+<!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.mozillaLink      "&vendorShortName;">
+<!ENTITY community.middle2          " tervezte, egy ">
+<!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
+<!ENTITY community.creditsLink      "nemzetközi közösség">
+<!ENTITY community.end2             " amely az internet jobbá tételén munkálkodik. Hiszünk abban, hogy az internetnek nyíltnak, nyilvánosnak és mindenki számára korlátozások nélkül elérhetőnek kell lennie.">
+
+<!ENTITY contribute.start           "Érdekesen hangzik? ">
+<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY contribute.getInvolvedLink "Segítsen a munkánkban!">
+<!ENTITY contribute.end             "">
+
+<!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
+<!ENTITY bottomLinks.license        "Licencinformációk">
+
+<!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
+<!ENTITY bottomLinks.rights         "Végfelhasználói jogok">
+
+<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
+<!ENTITY bottomLinks.privacy        "Adatvédelmi irányelvek">
+
+<!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.checkingForUpdates  "Frissítések keresése...">
+<!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.checkingAddonCompat "Kiegészítő kompatibilitásának ellenőrzése...">
+<!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.noUpdatesFound      "A &brandShortName; naprakész">
+<!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.adminDisabled       "A frissítéseket a rendszergazda letiltotta">
+
+<!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
+     update.failed.start, update.failed.linkText, and update.failed.end all go into
+     one line with linkText being wrapped in an anchor that links to a site to download
+     the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
+     one line, try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.failed.start        "A frissítés sikertelen.">
+<!ENTITY update.failed.linkText     "Töltse le a legújabb verziót">
+<!ENTITY update.failed.end          "">
+
+<!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
+     all go into one line and have an anchor in between with text that is the same as the link to a site
+     to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
+     try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.manual.start        "Töltse le a ">
+<!ENTITY update.manual.linkText     "legújabb verziót">
+<!ENTITY update.manual.end          "">
+
+<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
+     update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
+     is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
+     the "em dash" (long dash).
+     example: Downloading update — 111 KB of 13 MB -->
+<!ENTITY update.downloading.start   "Frissítés letöltése — ">
+<!ENTITY update.downloading.end     "">
+
+<!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
+     channel.description.end create one sentence, with the current channel label inserted in between.
+     example: You are currently on the _Stable_ update channel. -->
+<!ENTITY channel.description.start  "Jelenleg a(z) ">
+<!ENTITY channel.description.end    " frissítési csatornát használja.">
 
 <!ENTITY cmdCloseMac.commandKey "w">
