@@ -40,8 +40,8 @@
 
 <!ENTITY allowScripts.label             "A parancsfájlok számára engedélyezett:">
 
-<!ENTITY moveResizeWindows.label        "Létező ablakok áthelyezése vagy átméretezése">
-<!ENTITY moveResizeWindows.accesskey    "L">
+<!ENTITY moveResizePopupWindows.label     "Felugró ablakok áthelyezése vagy átméretezése">
+<!ENTITY moveResizePopupWindows.accesskey "F">
 <!ENTITY raiseLowerWindows.label        "Ablakok előtérbe vagy háttérbe helyezése">
 <!ENTITY raiseLowerWindows.accesskey    "A">
 <!ENTITY disableContextMenus.label      "Előugró menük letiltása vagy cseréje">

@@ -1,5 +1,5 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
-  %brandDTD;
+%brandDTD;
 
 <!ENTITY loadError.label "Probléma az oldal betöltése közben">
 <!ENTITY retry.label "Próbálja újra">
@@ -51,6 +51,9 @@
 <!ENTITY netInterrupt.title "A kapcsolat megszakadt">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!ENTITY notCached.title "A dokumentum lejárt">
+<!ENTITY notCached.longDesc "<p>A kért dokumentum nem érhető el a gyorsítótárban.</p><ul><li>Biztonsági okokból a &brandShortName; nem kéri le automatikusan az érzékeny adatokat tartalmazó dokumentumokat.</li><li>Kattintson a „Próbálja újra” gombra, hogy újra lekérje a dokumentumot a webhelyről.</li></ul>">
+
 <!ENTITY netOffline.title "Kapcsolat nélküli mód">
 <!ENTITY netOffline.longDesc2 "
 <ul>
@@ -93,7 +96,7 @@
 </ul>
 ">
 
-<!ENTITY proxyResolveFailure.title " Nem található a proxykiszolgáló">
+<!ENTITY proxyResolveFailure.title "Nem található a proxykiszolgáló">
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
   <li>Ellenőrizze a proxybeállításokat, hogy helyesek-e.</li>
@@ -175,6 +178,7 @@ functionality specific to thunderbird. -->
 
 <!ENTITY securityOverride.warningContent "
 <p>Ne adjon hozzá kivételt, ha nem teljesen megbízható internetkapcsolatot használ, vagy ha nem szokta látni ezt a figyelmeztetést ennél a kiszolgálónál.</p>
+
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">

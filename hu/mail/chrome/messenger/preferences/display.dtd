@@ -25,7 +25,7 @@
 
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label        "Hangulatjelek megjelenítése grafikaként">
-<!ENTITY convertEmoticons.accesskey    "m">
+<!ENTITY convertEmoticons.accesskey    "H">
 
 <!-- labels -->
 <!ENTITY displayTagsText.label     "A címkék az üzenetek kategorizálására és priorálására használhatók.">

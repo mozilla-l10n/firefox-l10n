@@ -1,5 +1,10 @@
 <!ENTITY addons.windowTitle                   "Kiegészítőkezelő">
+
 <!ENTITY search.placeholder                   "Keresés a kiegészítők között">
+<!-- LOCALIZATION NOTE (search.commandKey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
+
 <!ENTITY loading.label                        "Betöltés...">
 <!ENTITY listEmpty.installed.label            "Nincs ilyen típusú kiegészítője">
 <!ENTITY listEmpty.availableUpdates.label     "Nem találhatók frissítések">

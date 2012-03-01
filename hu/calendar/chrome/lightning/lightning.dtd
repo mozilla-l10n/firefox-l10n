@@ -78,8 +78,10 @@
 <!ENTITY lightning.toolbar.mail.label         "Levelek">
 <!ENTITY lightning.toolbar.mail.accesskey     "L">
 <!ENTITY lightning.toolbar.calendar.label     "Naptár">
+<!ENTITY lightning.toolbar.calendar.tooltip   "Átváltás a naptár lapra">
 <!ENTITY lightning.toolbar.calendar.accesskey "N">
 <!ENTITY lightning.toolbar.task.label         "Feladatok">
+<!ENTITY lightning.toolbar.task.tooltip       "Átváltás a feladatok lapra">
 <!ENTITY lightning.toolbar.task.accesskey     "F">
 
 <!-- Toolbar write button -->
