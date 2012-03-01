@@ -49,7 +49,7 @@
 
 <!-- File menu items -->
 <!ENTITY exportToTextCmd.label "Exportálás szövegként...">
-<!ENTITY exportToTextCmd.accesskey "E">
+<!ENTITY exportToTextCmd.accesskey "x">
 <!ENTITY previewCmd.label "Oldal megtekintése">
 <!ENTITY previewCmd.accesskey "m">
 <!ENTITY sendPageCmd.label "Oldal küldése...">

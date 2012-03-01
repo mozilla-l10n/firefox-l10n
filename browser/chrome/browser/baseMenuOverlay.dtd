@@ -12,7 +12,7 @@
 <!ENTITY helpMenuWin.accesskey    "S">
 <!ENTITY aboutProduct.label       "A &brandShortName; névjegye">
 <!ENTITY aboutProduct.accesskey   "A">
-<!ENTITY productHelp.label        "&brandShortName; Súgó">
+<!ENTITY productHelp.label        "&brandShortName; súgó">
 <!ENTITY productHelp.accesskey    "S">
 <!ENTITY helpMac.commandkey       "?">
 <!ENTITY helpSafeMode.label       "Újraindítás letiltott kiegészítőkkel...">

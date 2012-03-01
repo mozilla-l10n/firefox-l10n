@@ -101,6 +101,9 @@
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "Szegély megjelenítése a kép körül">
 <!ENTITY showImageLinkBorder.accessKey "S">
+<!ENTITY LinkAdvancedEditButton.label "Hivatkozás szerkesztése...">
+<!ENTITY LinkAdvancedEditButton.accessKey "H">
+<!ENTITY LinkAdvancedEditButton.tooltip "HTML-attribútumok, stílusattribútumok és JavaScript hozzáadása vagy módosítása">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "Űrlap">

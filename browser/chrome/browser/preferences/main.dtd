@@ -5,13 +5,16 @@
 <!ENTITY startupHomePage.label     "Kezdőlap megjelenítése">
 <!ENTITY startupBlankPage.label    "Üres oldal megjelenítése">
 <!ENTITY startupLastSession.label  "A legutóbbi ablakok és lapok megjelenítése">
+<!ENTITY restoreOnDemand.label     "Csak kijelöléskor töltse be a lapot">
+<!ENTITY restoreOnDemand.accesskey "l">
+
 <!ENTITY homepage.label            "Kezdőlap:">
 <!ENTITY homepage.accesskey        "K">
 <!ENTITY useCurrentPage.label      "Aktuális oldal használata">
 <!ENTITY useCurrentPage.accesskey  "o">
 <!ENTITY useMultiple.label         "Aktuális oldalak használata">
-<!ENTITY useBookmark.label         "Könyvjelző használata">
-<!ENTITY useBookmark.accesskey     "h">
+<!ENTITY chooseBookmark.label      "Könyvjelző használata...">
+<!ENTITY chooseBookmark.accesskey  "n">
 <!ENTITY restoreDefault.label      "Alapértelmezés">
 <!ENTITY restoreDefault.accesskey  "A">
 
