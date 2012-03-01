@@ -95,7 +95,7 @@
      text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "ඔබගේ යැවුම් (SMTP) සේවාදායකය, &quot;">
-<!ENTITY haveSmtp3.suffix2 "&quot;, ඔබගේ එවුම් සේවාදායක‌යටම සමාන වේ, ඔබගේ  එවුම් පරිශීලක නම මෙයට ඇතූලු වීම සඳහා භිවිතා කරයි.">
+<!ENTITY haveSmtp3.suffix3 "&quot;, ඔබගේ එවුම් සේවාදායක‌යටම සමාන වේ, ඔබගේ  එවුම් පරිශීලක නම මෙයට ඇතූලු වීම සඳහා භාවිතා කරයි.">
 
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
