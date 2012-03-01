@@ -160,3 +160,11 @@
 <!ENTITY byLastVisited.accesskey  "L">
 <!ENTITY byDayAndSite.label       "दिनांक व स्थळ प्रमाणे">
 <!ENTITY byDayAndSite.accesskey   "t">
+
+<!ENTITY importBookmarksFromHTML.label     "HTML… पासून वाचनखूणा आयात करा">
+<!ENTITY importBookmarksFromHTML.accesskey "I">
+<!ENTITY exportBookmarksToHTML.label       "HTML… करीता वाचनखूणा एक्सपोर्ट करा">
+<!ENTITY exportBookmarksToHTML.accesskey   "E">
+<!ENTITY importOtherBrowser.label          "इतर ब्राऊजर… पासून डाटा आयात करा">
+<!ENTITY importOtherBrowser.accesskey      "A">
+

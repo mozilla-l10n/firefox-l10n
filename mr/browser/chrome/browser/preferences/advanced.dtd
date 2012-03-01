@@ -125,3 +125,23 @@
 <!ENTITY limitCacheSizeAfter.label       "MB मध्ये जागा">
 <!ENTITY overrideSmartCacheSize.label    "स्वयं कॅशे व्यवस्थापन खोडून पुनः लिहा">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
+
+<!ENTITY submitTelemetry.label           "कामगिरि डाटा सादर करा">
+<!ENTITY submitTelemetry.accesskey       "P">
+<!ENTITY httpCache.label                 "कॅश्ड् वेब कंटेंट">
+<!ENTITY offlineStorage2.label           "ऑफलाइन वेब कंटेंट व वापरकर्ता डाटा">
+<!ENTITY clearOfflineAppCacheNow.label   "आत्ता नष्ट करा">
+<!ENTITY clearOfflineAppCacheNow.accesskey "N">
+<!ENTITY updateApp.label                 "&brandShortName; सुधारणा:">
+<!ENTITY updateAuto.label                "स्वयं सुधारणा प्रतिष्ठापीत करा (शिफारसीय: सुधारित सुरक्षा)">
+<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateCheck.label               "सुधारणांकरिता तपासणी करा, परंतु प्रतिष्ठापीत करायचे कि नाही ते मला ठरवू द्या">
+<!ENTITY updateCheck.accesskey           "C">
+<!ENTITY updateManual.label              "सुधारणांकरिता कधिच तपासणी करू नका (शिफारसीय नाही: सुरक्षा धोका)">
+<!ENTITY updateManual.accesskey          "N">
+<!ENTITY updateAutoAddonWarn.label       "ह्यामुळे कोणतेहि ॲडऑन्स् बंद होतील यास सावध करा">
+<!ENTITY updateAutoAddonWarn.accesskey   "W">
+<!ENTITY useService.label                "सुधारणा प्रतिष्ठापीत करण्यासाठी पार्श्वभूमी सर्व्हिस्चा वापर करा">
+<!ENTITY useService.accesskey            "b">
+<!ENTITY updateOthers.label              "स्वयंरित्या सुधारणा करा:">
+<!ENTITY offlineAppsList2.label          "खालील संकेतस्थळांना ऑफलाइन वापरकरीता डाटा साठवण्यास परवानगी आहे:">
