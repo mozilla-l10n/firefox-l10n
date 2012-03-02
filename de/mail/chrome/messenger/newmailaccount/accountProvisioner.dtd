@@ -1,5 +1,5 @@
 <!ENTITY window.title "Willkommen bei &brandShortName;">
-<!ENTITY header.label "Wollen Sie eine neue E-Mail-Adresse für &brandShortName;?">
+<!ENTITY header2.label "Wollen Sie eine neue E-Mail-Adresse haben?">
 <!ENTITY other.languages "Es werden nur E-Mail-Dienste gezeigt, die Adressen in Ihrer Region anbieten.  Hier klicken, um alle Anbieter zu zeigen.">
 <!ENTITY error.line1 "Entschuldigung, es konnten keine passenden E-Mail-Adressen gefunden werden.">
 <!ENTITY error.line2 "Sie können mit Spitznamen oder anderen Begriffen versuchen, mögliche E-Mail-Adressen zu finden">
