@@ -40,3 +40,31 @@
 <!ENTITY lightning.toolbar.task.accesskey "O">
 
 <!ENTITY lightning.toolbar.sync.label "Synkroniser">
+
+<!ENTITY lightning.toolbar.delete.label "Slet">
+<!ENTITY lightning.toolbar.edit.label "Rediger">
+<!ENTITY lightning.toolbar.gototoday.label "Gå til i dag">
+<!ENTITY lightning.toolbar.print.label "Udskriv">
+
+<!-- Mode Toolbar -->
+<!ENTITY lightning.toolbar.mail.label         "Mail">
+<!ENTITY lightning.toolbar.mail.accesskey     "M">
+<!ENTITY lightning.toolbar.calendar.label     "Kalender">
+<!ENTITY lightning.toolbar.calendar.tooltip   "Skift til fanebladet Kalender">
+<!ENTITY lightning.toolbar.task.label "Opgave">
+<!ENTITY lightning.toolbar.task.tooltip "Skift til fanebladet Opgave">
+
+<!-- Toolbar write button -->
+<!ENTITY lightning.toolbar.newevent.label "Begivenhed">
+<!ENTITY lightning.toolbar.newtask.label "Opgave">
+
+<!-- Calendar and Task Mode Toolbar -->
+<!ENTITY lightning.toolbar.day.label                 "Dag">
+<!ENTITY lightning.toolbar.day.accesskey             "D">
+<!ENTITY lightning.toolbar.week.label                "Uge">
+<!ENTITY lightning.toolbar.week.accesskey            "g">
+<!ENTITY lightning.toolbar.multiweek.label           "Multiuge">
+<!ENTITY lightning.toolbar.multiweek.accesskey       "l">
+<!ENTITY lightning.toolbar.month.label               "Måned">
+<!ENTITY lightning.toolbar.month.accesskey           "M">
+
