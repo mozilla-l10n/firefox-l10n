@@ -70,7 +70,6 @@
 <!ENTITY undoCloseTab.accesskey "U">
 
 <!ENTITY backForwardItem.title        "Atpakaļ/Uz priekšu">
-<!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY  moveToGroup.label                  "Pārvietot uz grupu">
 <!ENTITY  moveToGroup.accesskey              "P">
 <!ENTITY  moveToNewGroup.label               "Jauna grupa">
@@ -584,3 +583,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY addonBarCloseButton.tooltip  "Aizvērt papildinājumu joslu">
 <!ENTITY toggleAddonBarCmd.key        "/">
+
+<!ENTITY htmlPanel.label              "HTML">
+<!ENTITY htmlPanel.tooltiptext        "HTML panelis">
+<!ENTITY htmlPanel.accesskey          "H">
+
+<!ENTITY inspectorHTMLCopyInner.label       "Kopēt iekšējo HTML">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "I">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "Kopēt ārējo HTML">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "O">
+
+<!ENTITY inspectorHTMLDelete.label          "Dzēst elementu">
+<!ENTITY inspectorHTMLDelete.accesskey      "D">
