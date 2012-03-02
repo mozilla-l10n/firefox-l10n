@@ -165,7 +165,7 @@
 <!ENTITY inspect3DViewButton.accesskey "V">
 <!ENTITY inspectStyleButton.label "Estilo">
 <!ENTITY inspectStyleButton.accesskey "S">
-<!ENTITY styleeditor.label "Style Editor">
+<!ENTITY styleeditor.label "Editor de estilos">
 <!ENTITY styleeditor.accesskey "y">
 <!ENTITY styleeditor.keycode "VK_F7">
 <!ENTITY styleeditor.keytext "F7">

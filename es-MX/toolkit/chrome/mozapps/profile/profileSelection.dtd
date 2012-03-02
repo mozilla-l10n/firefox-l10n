@@ -1,5 +1,5 @@
 <!--null-->
-<!ENTITY windowtitle.label "&brandShortName; - Seleccione un perfil de usuario">
+<!ENTITY windowtitle.label "&brandShortName; - Selecciona un perfil de usuario">
 <!ENTITY profilename.label "Nombre de perfil:">
 <!ENTITY start.label "Iniciar &brandShortName;">
 <!ENTITY exit.label "Salir">
