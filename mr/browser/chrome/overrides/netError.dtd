@@ -187,3 +187,13 @@ functionality specific to firefox. -->
 
 <!ENTITY remoteXUL.title "रिमोट XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>या अडचणीविषयी कळवण्यासाठी कृपया संकेतस्थळाच्या मालकांशी संपर्क करा.</li></ul></p>">
+<!ENTITY corruptedContentError.title "दोषीत अंतर्भुत माहिती त्रुटी">
+<!ENTITY corruptedContentError.longDesc "<p>डाटा स्थानांतरनवेळी त्रुटी आढळल्याने दृष्यास्पद पृष्ठ दाखवणे अशक्य आहे.</p><ul><li>या अडचणीविषयी माहिती पूरवण्याकरीता, कृपया संकेतस्थळाच्या मालकांशी संपर्क करा.</li></ul>">
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>&quot;पुनः प्रयत्न करा&quot; दाबा ऑनलाइन मोड वापरण्याकरीता पृष्ठ पुनः लोड करा.</li>
+</ul>
+">
+<!ENTITY notCached.longDesc "<p>&brandShortName;च्या कॅशेत विनंती केलेले दस्तऐवज उपलब्ध नाही.</p><ul><li>सुरक्षा सावधगिरि म्हणून, &brandShortName; स्वयं संवदेनशील दस्तऐवजकरीता पुनःविनंती करत नाही.</li><li>संकेतस्थळापासून दस्तऐवजला पुनःविनंती करम्यासाठी पुनःप्रयत्न करा क्लिक करा.</li></ul>">
+<!ENTITY notCached.title "दस्तऐवजची वेळसमाप्ति">
+
