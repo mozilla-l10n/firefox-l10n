@@ -1,6 +1,6 @@
 <!ENTITY window.title "Scratchpad">
 <!ENTITY fileMenu.label "Archivo">
-<!ENTITY fileMenu.accesskey "F">
+<!ENTITY fileMenu.accesskey "A">
 <!ENTITY newWindowCmd.label "Ventana nueva">
 <!ENTITY newWindowCmd.accesskey "N">
 <!ENTITY newWindowCmd.commandkey "n">
