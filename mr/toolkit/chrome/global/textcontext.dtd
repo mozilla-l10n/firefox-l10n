@@ -18,3 +18,6 @@
 <!ENTITY spellDictionaries.accesskey "l">
 <!ENTITY spellCheckEnable.label "शब्दलेखन तपासा">
 <!ENTITY spellCheckEnable.accesskey "S">
+<!ENTITY spellUndoAddToDictionary.label "शब्दकोषमध्ये समाविष्ट करणे पूर्ववत् करा">
+<!ENTITY spellUndoAddToDictionary.accesskey "n">
+
