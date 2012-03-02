@@ -5,3 +5,6 @@
  
 <!ENTITY  newContactCmd.label             "連絡先...">
 <!ENTITY  newContactCmd.accesskey         "C">
+
+<!ENTITY printButton.label                "プリント">
+<!ENTITY printButton.tooltip              "メッセージをプリントします">
