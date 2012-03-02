@@ -22,7 +22,7 @@
 <!ENTITY reloadPlugin.pre "">
 <!ENTITY reloadPlugin.middle "Recargar la página">
 <!ENTITY reloadPlugin.post "para volver a intentarlo.">
-<!ENTITY report.please "Send crash report">
+<!ENTITY report.please "Enviar reporte de fallo">
 <!ENTITY report.submitting "Enviando reporte...">
 <!ENTITY report.submitted "Informe de error enviado.">
 <!ENTITY report.disabled "Reporte de errores deshabilitado.">
