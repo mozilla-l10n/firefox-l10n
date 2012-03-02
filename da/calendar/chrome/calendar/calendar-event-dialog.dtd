@@ -360,8 +360,6 @@
 <!ENTITY event.freebusy.next.slot "Næste  mulighed">
 <!ENTITY event.freebusy.previous.slot "Forrige mulighed">
 <!ENTITY event.freebusy.zoom "Zoom:">
-<!ENTITY event.freebusy.plus "Næste time">
-<!ENTITY event.freebusy.minus "Forrige time">
 <!ENTITY event.freebusy.legend.free "Ledig">
 <!ENTITY event.freebusy.legend.busy "Optaget">
 <!ENTITY event.freebusy.legend.busy_tentative "Gentagelse">
