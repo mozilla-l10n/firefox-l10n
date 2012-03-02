@@ -17,7 +17,7 @@
 <!ENTITY manualUpdate.space.desc "Una actualización recomendada de seruridad y estabilidad está disponible, pero no tienes suficiente espacio para instarla.">
 <!ENTITY manualUpdateGetMsg.label "Siempre puede obtener la última versión de &brandShortName; en:">
 <!ENTITY incompatibleCheck.title "Comprobando la compatibilidad de los complementos">
-<!ENTITY incompatibleCheck.label "Buscando la versión más reciente de sus complementos…">
+<!ENTITY incompatibleCheck.label "Buscando la versión más reciente de tus complementos…">
 <!ENTITY clickHere.label "Ver más información sobre esta actualización">
 <!ENTITY evangelism.desc "Le recomendamos ampliamente instalar esta 
                                            actualización de &brandShortName; lo antes posible.">
