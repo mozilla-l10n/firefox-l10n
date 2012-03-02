@@ -16,62 +16,62 @@
   -  "Scratchpad" in your locale. You should feel free to find a close
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
-<!ENTITY window.title                 "Scratchpad">
+<!ENTITY window.title                 "स्क्रॅचपॅड">
 
-<!ENTITY fileMenu.label               "File">
+<!ENTITY fileMenu.label               "फाइल">
 <!ENTITY fileMenu.accesskey           "F">
 
-<!ENTITY newWindowCmd.label           "New Window">
+<!ENTITY newWindowCmd.label           "नविन पटल">
 <!ENTITY newWindowCmd.accesskey       "N">
 <!ENTITY newWindowCmd.commandkey      "n">
 
-<!ENTITY openFileCmd.label            "Open File…">
+<!ENTITY openFileCmd.label            "फाइल उघडा…">
 <!ENTITY openFileCmd.accesskey        "O">
 <!ENTITY openFileCmd.commandkey       "o">
 
-<!ENTITY saveFileCmd.label            "Save">
+<!ENTITY saveFileCmd.label            "साठवा">
 <!ENTITY saveFileCmd.accesskey        "S">
 <!ENTITY saveFileCmd.commandkey       "s">
 
-<!ENTITY saveFileAsCmd.label          "Save As…">
+<!ENTITY saveFileAsCmd.label          "असे साठवा…">
 <!ENTITY saveFileAsCmd.accesskey      "A">
 
-<!ENTITY closeCmd.label               "Close">
+<!ENTITY closeCmd.label               "बंद करा">
 <!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "C">
 
-<!ENTITY editMenu.label               "Edit">
+<!ENTITY editMenu.label               "संपादित करा">
 <!ENTITY editMenu.accesskey           "E">
 
-<!ENTITY undoCmd.label                "Undo">
+<!ENTITY undoCmd.label                "पूर्ववत् करा">
 <!ENTITY undoCmd.key                  "Z">
 <!ENTITY undoCmd.accesskey            "U">
 
-<!ENTITY redoCmd.label                "Redo">
+<!ENTITY redoCmd.label                "पुन्हा करा">
 <!ENTITY redoCmd.key                  "Y">
 <!ENTITY redoCmd.accesskey            "R">
 
-<!ENTITY cutCmd.label                 "Cut">
+<!ENTITY cutCmd.label                 "कापा">
 <!ENTITY cutCmd.key                   "X">
 <!ENTITY cutCmd.accesskey             "t">
 
-<!ENTITY copyCmd.label                "Copy">
+<!ENTITY copyCmd.label                "प्रत बनवा">
 <!ENTITY copyCmd.key                  "C">
 <!ENTITY copyCmd.accesskey            "C">
 
-<!ENTITY pasteCmd.label               "Paste">
+<!ENTITY pasteCmd.label               "चिकटवा">
 <!ENTITY pasteCmd.key                 "V">
 <!ENTITY pasteCmd.accesskey           "P">
 
-<!ENTITY selectAllCmd.label           "Select All">
+<!ENTITY selectAllCmd.label           "सर्व निवडा">
 <!ENTITY selectAllCmd.key             "A">
 <!ENTITY selectAllCmd.accesskey       "A">
 
-<!ENTITY findCmd.label                "Find…">
+<!ENTITY findCmd.label                "शोधा…">
 <!ENTITY findCmd.key                  "F">
 <!ENTITY findCmd.accesskey            "F">
 
-<!ENTITY findAgainCmd.label           "Find Again…">
+<!ENTITY findAgainCmd.label           "पुन्हा शोधा…">
 <!-- LOCALIZATION NOTE (findAgainCmd.key): This key is used only on Macs.
   -  Windows and Linux builds use the F3 key which is not localizable on purpose.
   -->
@@ -83,19 +83,19 @@
   -->
 <!ENTITY findPreviousCmd.key          "G">
 
-<!ENTITY gotoLineCmd.label            "Jump to line…">
+<!ENTITY gotoLineCmd.label            "ओळीवर जा…">
 <!ENTITY gotoLineCmd.key              "J">
 <!ENTITY gotoLineCmd.accesskey        "J">
 
-<!ENTITY run.label                    "Run">
+<!ENTITY run.label                    "चालवा">
 <!ENTITY run.accesskey                "R">
 <!ENTITY run.key                      "r">
 
-<!ENTITY inspect.label                "Inspect">
+<!ENTITY inspect.label                "चौकशी करा">
 <!ENTITY inspect.accesskey            "I">
 <!ENTITY inspect.key                  "i">
 
-<!ENTITY display.label                "Display">
+<!ENTITY display.label                "डिस्पले">
 <!ENTITY display.accesskey            "D">
 <!ENTITY display.key                  "l">
 
@@ -105,11 +105,11 @@
   -  the user is evaluating against. I.e., Content (current tab) or Chrome
   -  (browser).
   -->
-<!ENTITY environmentMenu.label        "Environment">
+<!ENTITY environmentMenu.label        "वातावरण">
 <!ENTITY environmentMenu.accesskey    "N">
 
 
-<!ENTITY contentContext.label         "Content">
+<!ENTITY contentContext.label         "अंतर्भुत माहिती">
 <!ENTITY contentContext.accesskey     "C">
 
 <!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
@@ -118,16 +118,16 @@
   -  enabled via the devtools.chrome.enabled preference. Formerly, this label
   -  was called "Chrome".
   -->
-<!ENTITY browserContext.label         "Browser">
+<!ENTITY browserContext.label         "ब्राउजर">
 <!ENTITY browserContext.accesskey     "B">
 
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
-<!ENTITY resetContext2.label          "Reset Variables">
+<!ENTITY resetContext2.label          "वेरियेबल्स् मूळस्थितीत आणा">
 <!ENTITY resetContext2.accesskey      "T">
 
-<!ENTITY executeMenu.label            "Execute">
+<!ENTITY executeMenu.label            "चालवा">
 <!ENTITY executeMenu.accesskey        "X">
 
 <!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
