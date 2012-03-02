@@ -33,3 +33,10 @@
 <!ENTITY report.disabled                                     "क्रॅश रिपोर्टिंग बंद.">
 <!ENTITY report.failed                                       "सादर करणे अपयशी.">
 <!ENTITY report.unavailable                                  "अहवाल अनुपलब्ध.">
+
+<!ENTITY missingPlugin                                       "हि अंतर्भूत माहिती दाखवण्यासाठी प्लगईन आवश्यक आहे.">
+<!ENTITY disabledPlugin                                      "हे प्लगईन बंद केले आहे.">
+<!ENTITY installPlugin                                       "प्लगईन प्रतिष्ठापीत करा…">
+<!ENTITY managePlugins                                       "प्लगईन्स् व्यवस्थापीत करा…">
+<!ENTITY clickToPlayPlugin                                   "प्लगईन सुरू करण्यासाठी येथे टॅप करा.">
+
