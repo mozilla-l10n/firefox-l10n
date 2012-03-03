@@ -1,11 +1,10 @@
-<!ENTITY title           "Install Add-on">
-<!ENTITY intro           "Another program on your computer would like to modify
-                          &brandShortName; with the following add-on:">
-<!ENTITY warning         "Install add-ons only from authors whom you trust.">
-<!ENTITY allow           "Allow this installation">
-<!ENTITY later           "You can always change your mind at any time by going
-                          to the Add-ons Manager.">
-<!ENTITY continue        "Continue">
-<!ENTITY restartMessage  "You must restart &brandShortName; to finish installing this add-on.">
-<!ENTITY restartButton   "Restart &brandShortName;">
-<!ENTITY cancelButton    "Cancel">
+<!ENTITY title           "ॲडऑन प्रतिष्ठापीत करा">
+<!ENTITY intro           "खालील ॲडऑनसह संगणकावरील इतर प्रोग्राम्स्ला 
+                          &brandShortName; संपादित करायला आवडेल:">
+<!ENTITY warning         "फक्त विश्वासर्ह लेखकांपासून ॲडऑन प्रतिष्ठापीत करा.">
+<!ENTITY allow           "हे प्रतिष्ठापन स्वीकारा">
+<!ENTITY later           "ॲडऑन्स् व्यवस्थापकाचा वापर करून कोणत्याहि क्षणी बदल शक्य आहे.">
+<!ENTITY continue        "पुढे चालू ठेवा">
+<!ENTITY restartMessage  "ह्या ॲडऑनचे प्रतिष्ठापन पूर्ण करण्यासाठी &brandShortName; पुनःसुरू करणे आवश्यक आहे.">
+<!ENTITY restartButton   "&brandShortName; पुनःसुरू करा">
+<!ENTITY cancelButton    "रद्द करा">
