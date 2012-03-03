@@ -60,7 +60,7 @@
 <!ENTITY calendar.events.filter.today.label "Begivenheder i dag">
 <!ENTITY calendar.events.filter.future.label "Alle fremtidige begivenheder">
 <!ENTITY calendar.events.filter.current.label "Aktuel markeret dag">
-<!ENTITY calender.events.filter.currentview.label "Begivenheder i valgt visning">
+<!ENTITY calender.events.filter.currentview.label "Begivenheder i aktuel visning">
 <!ENTITY calendar.events.filter.next7Days.label "Begivenheder for de næste 7 dage">
 <!ENTITY calendar.events.filter.next14Days.label "Begivenheder for de næste 14 dage">
 <!ENTITY calendar.events.filter.next31Days.label "Begivenheder for de næste 31 dage">
@@ -178,8 +178,8 @@
 <!ENTITY calendar.task.priority.button.tooltip "Skift vigtighed">
 
 <!ENTITY calendar.task.text-filter.textbox.emptytext.base            "Opgavefilter… #1">
-<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Shift+K&gt;">
-<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Shift+F&gt;">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;F&gt;">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label "Dokument: Færdig">
@@ -216,8 +216,8 @@
 <!ENTITY calendar.context.progress.accesskey "m">
 <!ENTITY calendar.context.priority.label "Prioritet">
 <!ENTITY calendar.context.priority.accesskey "r">
-<!ENTITY calendar.context.postpone.label "Udsæt opgaven">
-<!ENTITY calendar.context.postpone.accesskey "U">
+<!ENTITY calendar.context.postpone.label "Udsæt opgave">
+<!ENTITY calendar.context.postpone.accesskey "d">
 
 <!ENTITY percnt "&#38;#37;"><!--=percent sign-->
 
@@ -245,11 +245,11 @@
 <!ENTITY priority.level.high.accesskey "H">
 
 <!ENTITY calendar.context.postpone.1hour.label      "1 time">
-<!ENTITY calendar.context.postpone.1hour.accesskey  "T">
-<!ENTITY calendar.context.postpone.1day.label       "1 Dag">
-<!ENTITY calendar.context.postpone.1day.accesskey   "D">
-<!ENTITY calendar.context.postpone.1week.label      "1 Uge">
-<!ENTITY calendar.context.postpone.1week.accesskey  "U">
+<!ENTITY calendar.context.postpone.1hour.accesskey  "t">
+<!ENTITY calendar.context.postpone.1day.label       "1 dag">
+<!ENTITY calendar.context.postpone.1day.accesskey   "d">
+<!ENTITY calendar.context.postpone.1week.label      "1 uge">
+<!ENTITY calendar.context.postpone.1week.accesskey  "u">
 
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
