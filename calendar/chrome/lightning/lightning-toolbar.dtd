@@ -11,15 +11,14 @@
    - for the specific language governing rights and limitations under the
    - License.
    -
-   - The Original Code is Mozilla Calendar Preferences
+   - The Original Code is Mozilla Calendar code.
    -
    - The Initial Developer of the Original Code is
-   - Matthew Willis
-   - Portions created by the Initial Developer are Copyright (C) 2006
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   - Portions created by the Initial Developer are Copyright (C) 2011
    - the Initial Developer. All Rights Reserved.
    -
-   - Contributor(s): 
-   -   Cédric Corazza <cedric.corazza@wanadoo.fr>
+   - Contributor(s):
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -34,22 +33,10 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!-- WARNING! This file contains UTF-8 encoded characters!
-   - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
-   - your editor isn't using UTF-8 encoding and may munge up the document!
-  -->
 
+<!ENTITY lightning.toolbar.calendar.name "Лента на Calendar">
+<!ENTITY lightning.toolbar.calendar.accesskey "Л">
+<!ENTITY lightning.toolbar.task.name "Лента със задачи">
+<!ENTITY lightning.toolbar.task.accesskey "З">
 
-<!ENTITY pref.mainbox.label "Основни настройки" >
-<!ENTITY pref.dateformat.label "Текстов формат на датата:" >
-<!ENTITY pref.dateformat.accesskey "Т">
-<!ENTITY pref.dateformat.long "Дълъг" >
-<!ENTITY pref.dateformat.short "Кратък"  >
-<!ENTITY pref.defaultlength.label "Подразбираща се дължина на събитието" >
-<!ENTITY pref.defaultlength.accesskey "с">
-<!ENTITY pref.defaultsnoozelength.label "Подразбираща се дължина за отлагане" >
-<!ENTITY pref.defaultsnoozelength.accesskey "о">
-
-<!ENTITY pref.accessibility.label "Достъпност" >
-<!ENTITY pref.systemcolors.label "Оптимизиране на цветовете за достъпност" >
-<!ENTITY pref.systemcolors.accesskey "ц">
+<!ENTITY lightning.toolbar.sync.label "Синхронизиране">

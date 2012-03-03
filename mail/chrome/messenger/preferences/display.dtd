@@ -8,7 +8,7 @@
 <!ENTITY italic.label                     "Курсив">
 <!ENTITY boldItalic.label                 "Удебелен курсив">
 <!ENTITY size.label                       "Размер:">
-<!ENTITY size.accesskey                   "м">
+<!ENTITY size.accesskey                   "Р">
 <!ENTITY regularSize.label                "Стандартен">
 <!ENTITY bigger.label                     "По-голям">
 <!ENTITY smaller.label                    "По-малък">
@@ -24,8 +24,8 @@
 <!ENTITY backgroundColor.accesskey        "о">
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 
-<!ENTITY convertEmoticons.label        "Знаците за емоции се показват в графичен вид">
-<!ENTITY convertEmoticons.accesskey    "З">
+<!ENTITY convertEmoticons.label        "Показване на знаците за емоции в графичен вид">
+<!ENTITY convertEmoticons.accesskey    "П">
 <!-- labels -->
 
 <!ENTITY displayTagsText.label     "Етикетите могат да се използват за подреждане и оценяване на вашите писма.">

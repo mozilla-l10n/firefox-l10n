@@ -2,7 +2,7 @@
 <!-- First page of the wizard -->
 
 
-<!ENTITY setup.pickSetupType.description2 "Welcome! If you've never used &syncBrand.fullName.label; before, you will need to create a new account.">
+<!ENTITY setup.pickSetupType.description2 "Добре дошли! Ако никога преди не сте ползвали &syncBrand.fullName.label;, ще е нужно да създадете нов акаунт.">
 <!ENTITY button.createNewAccount.label "Създаване на нов акаунт">
 <!ENTITY button.haveAccount.label      "Имам регистрация">
 
@@ -88,8 +88,8 @@
 <!ENTITY engine.passwords.accesskey "П">
 <!ENTITY engine.prefs.label         "Настройки">
 <!ENTITY engine.prefs.accesskey     "Н">
-<!ENTITY engine.addons.label        "Add-ons">
-<!ENTITY engine.addons.accesskey    "A">
+<!ENTITY engine.addons.label        "Добавки">
+<!ENTITY engine.addons.accesskey    "Д">
 
 <!ENTITY choice2.merge.main.label      "Сливане на данните на този компютър с данните на &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Препоръчвано:">

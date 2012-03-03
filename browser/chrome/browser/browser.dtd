@@ -218,14 +218,14 @@ can reach it easily. -->
 <!ENTITY inspectButton.accesskey        "И">
 <!ENTITY inspectCloseButton.tooltiptext "Затваряне на Инспектор">
 <!ENTITY inspect3DButton.label        "3D">
-<!ENTITY inspect3DButton.accesskey    "M">
+<!ENTITY inspect3DButton.accesskey    "3">
 <!ENTITY inspectStyleButton.label     "Стил">
 <!ENTITY inspectStyleButton.accesskey "С">
 <!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
   -  in the Tools menu. -->
 
-<!ENTITY styleeditor.label            "Style Editor">
-<!ENTITY styleeditor.accesskey        "y">
+<!ENTITY styleeditor.label            "Стилов редактор">
+<!ENTITY styleeditor.accesskey        "С">
 <!ENTITY styleeditor.keycode          "VK_F7">
 <!ENTITY styleeditor.keytext          "F7">
 

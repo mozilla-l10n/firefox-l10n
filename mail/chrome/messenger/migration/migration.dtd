@@ -6,7 +6,7 @@
 
 <!ENTITY importFromNothing.label        "Нищо не се внася">
 <!ENTITY importFromNothing.accesskey    "Н">
-<!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 or later">
+<!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 или по-нова версия">
 <!ENTITY importFromSeamonkey3.accesskey "S">
 <!ENTITY importFromOExpress.label       "Outlook Express">
 <!ENTITY importFromOExpress.accesskey   "u">
