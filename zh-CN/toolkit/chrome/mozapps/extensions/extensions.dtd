@@ -61,7 +61,7 @@
 <!ENTITY updates.updating.label               "正在更新附加组件">
 <!ENTITY updates.installed.label              "您的附加组件已经更新。">
 <!ENTITY updates.downloaded.label             "您的附加组件更新已经下载。">
-<!ENTITY updates.restart.label                "立即重启以完成安装">
+<!ENTITY updates.restart.label                "立即重启完成安装">
 <!ENTITY updates.noneFound.label              "找不到更新">
 <!ENTITY updates.manualUpdatesFound.label     "查看可用更新">
 <!ENTITY updates.updateSelected.label         "安装更新">
@@ -95,7 +95,7 @@
 <!ENTITY cmd.showPreferencesWin.tooltip       "更改此附加组件选项">
 <!ENTITY cmd.showPreferencesUnix.label        "首选项">
 <!ENTITY cmd.showPreferencesUnix.tooltip      "更改本附加件的首选项">
-<!ENTITY cmd.contribute.label                 "贡献">
+<!ENTITY cmd.contribute.label                 "捐助">
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "捐助此附加组件的开发">
 
@@ -118,7 +118,7 @@
 <!ENTITY detail.homepage.label                "主页">
 <!ENTITY detail.numberOfDownloads.label       "下载">
 
-<!ENTITY detail.contributions.description     "此附加组件的开发人员请求您的帮助，以便支持他们能继续开发。">
+<!ENTITY detail.contributions.description     "此附加组件的开发者希望您能捐助，以支持其继续发展。">
 
 <!ENTITY detail.updateType                    "自动更新">
 <!ENTITY detail.updateDefault.label           "默认">

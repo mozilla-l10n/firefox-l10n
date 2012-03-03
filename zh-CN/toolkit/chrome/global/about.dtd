@@ -10,7 +10,7 @@
 <!ENTITY about.license.beforeTheLink  "阅读针对此产品的">
 <!ENTITY about.license.linkTitle      "授权信息">
 <!-- LOCALIZATION NOTE (about.license.afterTheLink): note that there is no space between the linked about.license.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
-<!ENTITY about.license.afterTheLink   "。">
+<!ENTITY about.license.afterTheLink   "为此产品提供。">
 
 <!-- LOCALIZATION NOTE (about.relnotes.beforeTheLink): note that there is no space between this phrase and the linked about.relnotes.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
 <!ENTITY about.relnotes.beforeTheLink "阅读针对此版本的">
@@ -22,6 +22,6 @@
 <!ENTITY about.buildconfig.beforeTheLink "查看此版本使用的">
 <!ENTITY about.buildconfig.linkTitle     "构建配置">
 <!-- LOCALIZATION NOTE (about.buildconfig.afterTheLink): note that there is no space between the linked about.buildconfig.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
-<!ENTITY about.buildconfig.afterTheLink  "。">
+<!ENTITY about.buildconfig.afterTheLink  " 用于本版本。">
 
 <!ENTITY about.buildIdentifier        "构建标识符: ">

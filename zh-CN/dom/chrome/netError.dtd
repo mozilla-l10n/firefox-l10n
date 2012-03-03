@@ -31,7 +31,7 @@
 <!ENTITY netOffline.longDesc2 "<p>浏览器目前在离线模式下运行，并且无法连接到请求的项目。</p><ul><li>您确定计算机已连接到了一个有效网络吗？</li><li>按“重试”切换到在线模式并重新加载此页面。</li></ul>">
 
 <!ENTITY contentEncodingError.title "内容编码错误">
-<!ENTITY contentEncodingError.longDesc "<p>您尝试查看的页面无法显示，因为它使用了无效的或者不支持的压缩格式。</p><ul><li>请联系网站的所有者，告知他们这个问题。</li></ul>">
+<!ENTITY contentEncodingError.longDesc "<p>无法显示您尝试查看的页面，因为它使用了无效或者不支持的压缩格式。</p><ul><li>请联系网站的所有者以告知此问题。</li></ul>">
 
 <!ENTITY unsafeContentType.title "不安全的文件类型">
 <!ENTITY unsafeContentType.longDesc " <ul>   <li>请联系网站所有者并告知该问题。</li> </ul> ">

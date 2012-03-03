@@ -1,8 +1,14 @@
 <!ENTITY mozilla.title
 'Mozilla 之书， 11:9'>
 
-<!ENTITY mozilla.quote
-'玛门沉睡了。<em>野兽重生</em>遍布地面，而且无所不在。它们称颂时代并<em>献出</em>庄物直至<em>灵巧的狐狸</em>带来火焰。它们并依照自己的形象创造新天地，正如<em><a href="http://www.mozilla.org/about/mozilla-manifesto.html">神圣之言</a></em>所应许，尚有野兽以及孩子的<em><a href="http://wiki.mozilla.org/About:mozilla">话语</a></em>所预言的，玛门苏醒，看！他只是个<em>无价值的</em>追随者。'>
+<!ENTITY mozilla.manifestoUrl
+'http://www.mozilla.org/about/manifesto.zh-cn.html'>
+
+<!ENTITY mozilla.aboutUrl
+'http://wiki.mozilla.org/About:mozilla'>
+
+<!ENTITY mozilla.quote2
+'玛门沉睡了。<em>野兽重生</em>遍布了世界，变得无所不在。它们宣布了一个新的时代，并<em>舍身</em>为<em>灵巧的狐狸</em>带来了火焰。正如<em><a href="&mozilla.manifestoUrl;">神圣之言</a></em>和野兽孩子的<em><a href="&mozilla.aboutUrl;">话语</a></em>所承诺的那样，它们正依照自己的形象创造一个新世界。玛门醒来了，它四下观望，周围已经<em>尽是</em>野兽的追随者了！'>
 
 <!ENTITY mozilla.from
-'选自 <strong>Mozilla 之书，</strong>11:9<br/><small>（第10版）</small>'>
+'from <strong>The Book of Mozilla,</strong> 11:9<br/><small>(10th Edition)</small>'>
