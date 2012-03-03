@@ -90,7 +90,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "退出全屏模式">
 <!ENTITY fullScreenExit.accesskey "F">
-<!ENTITY domFullScreenWarning.label "请按 ESC 键离开全频模式">
+<!ENTITY domFullScreenWarning.label "按 ESC 键离开全屏模式">
 
 <!ENTITY closeWindow.label "关闭窗口">
 <!ENTITY closeWindow.accesskey "d">
@@ -137,7 +137,7 @@ can reach it easily. -->
 <!ENTITY homeButton.label             "主页">
 
 <!ENTITY tabGroupsButton.label        "标签页组">
-<!ENTITY tabGroupsButton.tooltip      "将您的标签页分组">
+<!ENTITY tabGroupsButton.tooltip      "给您的标签页分组">
 
 <!ENTITY feedButton.label             "订阅">
 <!ENTITY feedButton.tooltip           "订阅此页…">
@@ -208,14 +208,31 @@ can reach it easily. -->
   -  "Scratchpad" in your locale. You should feel free to find a close
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
-<!ENTITY scratchpad.label             "暂存器">
+<!ENTITY scratchpad.label             "代码片段速记器">
 <!ENTITY scratchpad.accesskey         "s">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectPanelTitle.label      "HTML">
-<!ENTITY inspectButton.label          "检查">
-<!ENTITY inspectButton.accesskey      "I">
+<!ENTITY inspectPanelTitle.label        "HTML">
+<!ENTITY inspectButton.label            "查看">
+<!ENTITY inspectButton.accesskey        "I">
+<!ENTITY inspectCloseButton.tooltiptext "关闭查看器">
+
+<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
+  -  alternate view for the Inspector, creating a 3D visualization of the
+  -  webpage. -->
+<!ENTITY inspect3DViewButton.label     "三维视图">
+<!ENTITY inspect3DViewButton.accesskey "W">
+
+<!ENTITY inspectStyleButton.label     "样式">
+<!ENTITY inspectStyleButton.accesskey "S">
+
+<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
+  -  in the Tools menu. -->
+<!ENTITY styleeditor.label            "样式编辑器">
+<!ENTITY styleeditor.accesskey        "y">
+<!ENTITY styleeditor.keycode          "VK_F7">
+<!ENTITY styleeditor.keytext          "F7">
 
 <!ENTITY getMoreDevtoolsCmd.label        "获取更多工具">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "M">
@@ -294,9 +311,9 @@ can reach it easily. -->
 <!ENTITY appMenuSidebars.label "侧边栏">
 <!ENTITY appMenuFind.label "查找…">
 <!ENTITY appMenuUnsorted.label "未分类书签">
-<!ENTITY appMenuWebDeveloper.label "Web 开发人员">
+<!ENTITY appMenuWebDeveloper.label "Web 开发者">
 <!ENTITY appMenuGettingStarted.label "新手上路">
-<!ENTITY appMenuSafeMode.label "重新启动并禁用附加组件…">
+<!ENTITY appMenuSafeMode.label "以安全模式重新启动…">
 <!ENTITY appMenuSafeMode.accesskey "R">
 
 <!ENTITY openCmd.commandkey           "l">
@@ -360,9 +377,9 @@ can reach it easily. -->
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
 <!ENTITY reloadImageCmd.label         "重新载入图像">
 <!ENTITY reloadImageCmd.accesskey     "R">
-<!ENTITY viewImageCmd.label           "查看图片">
+<!ENTITY viewImageCmd.label           "查看图像">
 <!ENTITY viewImageCmd.accesskey       "I">
-<!ENTITY viewImageInfoCmd.label       "查看图片信息">
+<!ENTITY viewImageInfoCmd.label       "查看图像信息">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
 <!ENTITY viewVideoCmd.label           "查看视频">
 <!ENTITY viewVideoCmd.accesskey       "I">
@@ -405,7 +422,7 @@ can reach it easily. -->
 <!ENTITY sendAudioCmd.accesskey       "n">
 <!ENTITY copyLinkCmd.label            "复制链接地址">
 <!ENTITY copyLinkCmd.accesskey        "a">
-<!ENTITY copyImageCmd.label           "复制图片地址">
+<!ENTITY copyImageCmd.label           "复制图像地址">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "复制图像">
 <!ENTITY copyImageContentsCmd.accesskey  "y"> 
@@ -419,14 +436,23 @@ can reach it easily. -->
 <!ENTITY thisFrameMenu.accesskey          "h">
 
 <!-- Media (video/audio) controls -->
+<!-- LOCALIZATION NOTE: The access keys for "Play" and
+"Pause" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaPlay.label             "播放">
 <!ENTITY mediaPlay.accesskey         "P">
 <!ENTITY mediaPause.label            "暂停">
 <!ENTITY mediaPause.accesskey        "P">
+<!-- LOCALIZATION NOTE: The access keys for "Mute" and
+"Unmute" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "静音">
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "恢复声音">
 <!ENTITY mediaUnmute.accesskey       "m">
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "显示控制界面">
 <!ENTITY mediaShowControls.accesskey "C">
 <!ENTITY mediaHideControls.label     "隐藏控制界面">
@@ -435,6 +461,9 @@ can reach it easily. -->
 <!ENTITY videoFullScreen.accesskey   "F">
 <!ENTITY videoSaveImage.label        "快照另存为…">
 <!ENTITY videoSaveImage.accesskey    "S">
+<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
+"Hide Statistics" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY videoShowStats.label        "显示统计信息">
 <!ENTITY videoShowStats.accesskey    "t">
 <!ENTITY videoHideStats.label        "隐藏统计信息">

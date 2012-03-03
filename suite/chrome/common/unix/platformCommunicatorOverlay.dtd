@@ -9,10 +9,9 @@
 <!ENTITY quitApplicationCmd.key         "Q"> 
 <!ENTITY quitApplicationCmd.accesskey   "q">
 
-<!ENTITY redoCmd.label                  "重复">  
 <!ENTITY redoCmd.key                    "Y">  
-<!ENTITY redoCmd.accesskey              "r">
 
+<!ENTITY findCmd.key2                   "VK_F19">
 <!ENTITY findTypeTextCmd.key            "/">
 <!ENTITY findTypeLinksCmd.key           "'">
 

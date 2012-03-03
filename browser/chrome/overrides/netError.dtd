@@ -24,7 +24,7 @@
 ">
 
 
-<!ENTITY generic.title "Oops.">
+<!ENTITY generic.title "哎呀。">
 <!ENTITY generic.longDesc "<p>&brandShortName; 因未知原因无法载入此页面。</p>">
 
 <!ENTITY malformedURI.title "非法地址">
@@ -41,7 +41,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "文档已过期">
-<!ENTITY notCached.longDesc "<p>您请求的文档已无法在 &brandShortName; 的缓存中找到。</p><ul><li>作为一个安全上的预防措施，&brandShortName; 不会自动重新获取敏感信息文档。</li><li>请点击重试并从网站来重新获取该文档。</li></ul>">
+<!ENTITY notCached.longDesc "<p>请求的文档已无法在 &brandShortName; 的缓存中找到。</p><ul><li>出于安全考虑，&brandShortName; 不会自动重新获取敏感文档。</li><li>请点击重试来重新请求从网站获取该文档。</li></ul>">
 
 <!ENTITY netOffline.title "脱机模式">
 <!ENTITY netOffline.longDesc2 "<ul>
@@ -78,7 +78,7 @@
 <!ENTITY proxyResolveFailure.title "无法找到代理服务器">
 <!ENTITY proxyResolveFailure.longDesc "<ul><li>请检查浏览器的代理服务器设置是否正确。</li><li>请检查您的计算机连到了可用网络。</li><li>如果您的计算机受到防火墙的保护，请确认 &brandShortName; 可以访问网页。</li></ul>">
 
-<!ENTITY redirectLoop.title "此页面重定向不正确">
+<!ENTITY redirectLoop.title "此页面不能正确地重定向">
 <!ENTITY redirectLoop.longDesc "<ul><li>此问题可能是因为禁用或拒绝 Cookie 导致。</li></ul>">
 
 <!ENTITY unknownSocketType.title "不预期的服务器回应">

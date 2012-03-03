@@ -62,8 +62,6 @@
 <!ENTITY printAddressBook.accesskey                     "A"> 
 <!ENTITY printPreviewAddressBook.label                  "通讯录打印预览"> 
 <!ENTITY printPreviewAddressBook.accesskey              "B">
-<!ENTITY printSetupCmd.label                            "打印设置…">
-<!ENTITY printSetupCmd.accesskey                        "u">
 
 <!-- Edit Menu -->
 <!ENTITY deleteAbCmd.label                              "删除通讯录">  
@@ -127,6 +125,9 @@
 <!ENTITY deleteItemButton.tooltip                       "删除选中项">
 <!ENTITY throbber.tooltip                               "转到 &vendorShortName; 主页">
 <!ENTITY advancedButton.tooltip                         "高级地址搜索">
+
+<!-- Dir Tree header -->
+<!ENTITY dirTreeHeader.label                            "通讯录">
 
 <!-- Status Bar -->  
 <!ENTITY statusText.label                               "">

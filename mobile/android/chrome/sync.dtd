@@ -1,0 +1,27 @@
+<!ENTITY sync.title                 "同步">
+<!ENTITY sync.notconnected          "未连接">
+<!ENTITY sync.connect               "连接">
+<!ENTITY sync.connected             "已连接">
+<!ENTITY sync.details               "详情">
+<!ENTITY sync.deviceName            "该设备">
+<!ENTITY sync.disconnect            "断开连接">
+<!ENTITY sync.syncNow               "立即同步">
+
+<!ENTITY sync.setup.title           "连接到同步">
+<!ENTITY sync.setup.pair            "请在您的其他设备上选择 &#x0022;设备配对&#x0022; 来激活。">
+<!ENTITY sync.fallback              "我不在电脑旁…">
+<!ENTITY sync.setup.manual          "输入您的同步账户信息">
+<!ENTITY sync.account               "帐户名称">
+<!ENTITY sync.password              "密码">
+<!ENTITY sync.recoveryKey           "恢复密钥">
+<!ENTITY sync.customServer          "使用自定义服务器">
+<!ENTITY sync.serverURL             "服务器网址">
+<!ENTITY sync.setup.connect         "连接">
+<!ENTITY sync.setup.cancel          "取消">
+<!ENTITY sync.setup.tutorial        "教我怎样做">
+<!ENTITY sync.setup.waiting2        "正在等待其他设备…">
+
+<!ENTITY sync.pair.title            "设备配对">
+<!ENTITY sync.pair.description      "请在设备上选择 &#x0022;设置同步&#x0022; 来激活您的新设备。">
+<!ENTITY sync.setup.close           "关闭">
+<!ENTITY sync.setup.waitingdownload "您的数据目前正在后台下载。您随时可以关闭本窗口。">

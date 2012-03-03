@@ -1,0 +1,6 @@
+<!ENTITY applyTheme.label          "应用主题">
+<!ENTITY applyTheme.accesskey      "A">
+<!ENTITY getNewThemesCmd.label     "获取新的主题">
+<!ENTITY getNewThemesCmd.accesskey "G">
+<!ENTITY getPersonasCmd.label      "获取炫彩风格">
+<!ENTITY getPersonasCmd.accesskey  "P">

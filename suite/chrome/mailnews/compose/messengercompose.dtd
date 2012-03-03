@@ -11,10 +11,7 @@
 <!-- menu items:  the . means that the menu item isn't implemented yet -->
 
 <!-- File menu items -->
-<!ENTITY newMessage.label "消息">  
-<!ENTITY newMessage.accesskey "M">  
 <!ENTITY saveCmd.label "保存">
-<!ENTITY saveCmd.key "S">
 <!ENTITY saveCmd.accesskey "s">
 <!ENTITY saveAsCmd.label "另存为">
 <!ENTITY saveAsCmd.accesskey "A">
@@ -39,27 +36,11 @@
 <!ENTITY sendLaterCmd.label "以后发送">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "L">
-<!ENTITY printSetupCmd.label "打印设置…">
-<!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printCmd.label "打印…">
-<!ENTITY printCmd.key "P">
-<!ENTITY printCmd.accesskey "P">
 
 <!-- Edit menu items -->
 <!ENTITY editRewrapCmd.label "重新排版">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey  "w">
-<!ENTITY findCmd.label "查找并替换…">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "F">
-<!ENTITY findAgainCmd.label "再次查找">
-<!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.accesskey "g">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "查找前一个">
-<!ENTITY findPrevCmd.key "G">
-<!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "v">
 <!ENTITY accountManagerCmd.label "邮件 &amp; 新闻组帐户设置…">
 <!ENTITY accountManagerCmd.accesskey "m">
 
@@ -82,12 +63,6 @@
 <!ENTITY selectAddressCmd.label "选择地址">
 <!ENTITY selectAddressCmd.key "">
 <!ENTITY selectAddressCmd.accesskey "A">
-
-<!ENTITY checkSpellingCmd2.label "拼写检查…">
-<!ENTITY checkSpellingCmd2.key "p">
-<!ENTITY checkSpellingCmd2.accesskey "h">
-<!ENTITY enableInlineSpellChecker.label "输入同时进行拼写检查">
-<!ENTITY enableInlineSpellChecker.accesskey "S">
 
 <!ENTITY priorityMenu.label "优先">
 <!ENTITY priorityMenu.accesskey "p">
@@ -145,26 +120,14 @@
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
 <!ENTITY spellCheckAddToDictionary.label "添加至字典">
 <!ENTITY spellCheckAddToDictionary.accesskey "n">
-<!ENTITY undo.label "还原">
-<!ENTITY undo.accesskey "U">
-<!ENTITY cut.label "剪切">
-<!ENTITY cut.accesskey "t">
-<!ENTITY copy.label "复制">
-<!ENTITY copy.accesskey "C">
-<!ENTITY paste.label "粘贴">
-<!ENTITY paste.accesskey "P">
-<!ENTITY pasteQuote.label "粘贴为引文">
-<!ENTITY pasteQuote.accesskey "Q">
 
 <!ENTITY openAttachment.label "打开
 ">
 <!ENTITY openAttachment.accesskey "O">
-<!ENTITY delete.label "删除">
-<!ENTITY delete.accesskey "D">
 <!ENTITY renameAttachment.label "重命名…">
 <!ENTITY renameAttachment.accesskey "R">
-<!ENTITY selectAll.label "选择全部">
-<!ENTITY selectAll.accesskey "A">
+<!ENTITY deleteAttachment.accesskey "D">
+<!ENTITY selectAllAttachments.accesskey "A">
 <!ENTITY attachFile.label "附件…">
 <!ENTITY attachFile.accesskey "F">
 <!ENTITY attachPage.label "附加网页…">

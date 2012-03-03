@@ -14,7 +14,7 @@
 <!ENTITY links.label "链接行为">
 <!ENTITY offline.label "脱机">
 <!ENTITY security.label "隐私 &amp; 安全">
-<!ENTITY cookies.label "Cookies">
+<!ENTITY cookies.label "Cookie">
 <!ENTITY images.label "图片">
 <!ENTITY popups.label "弹出窗口">
 <!ENTITY passwords.label "密码">
@@ -36,5 +36,6 @@
 <!ENTITY policies.label "安全策略">
 <!ENTITY mousewheel.label "鼠标滚轮">
 <!ENTITY scriptsAndWindows.label "脚本 &amp; 插件">
+<!ENTITY spellingPane.label  "拼写检查">
 
 <!ENTITY focusSearch.key "f">

@@ -16,6 +16,7 @@
 <!ENTITY attachMenu.accesskey "t">
 <!ENTITY attachFileCmd.label "文件…">
 <!ENTITY attachFileCmd.accesskey "F">
+<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachPageCmd.label "网页…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -67,11 +68,13 @@
 <!ENTITY pasteCmd.accesskey "p">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY editRewrapCmd.label "重新排版">
-<!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "w">
 <!ENTITY deleteCmd.label "删除">
 <!ENTITY deleteCmd.accesskey "d">
+<!ENTITY editRewrapCmd.label "重新排版">
+<!ENTITY editRewrapCmd.key "R">
+<!ENTITY renameAttachmentCmd.label "重命名附件…">
+<!ENTITY renameAttachmentCmd.accesskey "e">
 <!ENTITY selectAllCmd.label "选择全部">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a"> 
@@ -92,6 +95,8 @@
 <!ENTITY viewMenu.accesskey "v">
 <!ENTITY viewToolbarsMenuNew.label "工具栏"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "T"> 
+<!ENTITY menubarCmd.label "菜单栏">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showCompositionToolbarCmd.label "编写工具栏">
 <!ENTITY showCompositionToolbarCmd.accesskey "o">
 <!ENTITY showFormattingBarCmd.label "格式栏">
@@ -165,7 +170,7 @@
 <!ENTITY addressBookCmd.accesskey "a">
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY accountManagerCmd.label "帐户设置…">
-<!ENTITY accountManagerCmd.accesskey "c">
+<!ENTITY accountManagerCmd.accesskey "S">
 <!ENTITY accountManagerCmdUnix.accesskey "S">
 <!ENTITY preferencesCmd.label "选项…">
 <!ENTITY preferencesCmd.accesskey "O">
@@ -193,12 +198,16 @@
 <!ENTITY quoteButton.tooltip "引用上一条消息"> 
 <!ENTITY addressButton.tooltip "从通讯录中选择一个收件人"> 
 <!ENTITY attachButton.tooltip "添加附件"> 
+<!ENTITY spellingButton.tooltip "检查选定的或整个消息的拼写">
 <!ENTITY saveButton.tooltip "保存此消息"> 
 <!ENTITY cutButton.tooltip              "剪切">
 <!ENTITY copyButton.tooltip             "复制">
 <!ENTITY pasteButton.tooltip            "粘贴">
 
 <!-- Headers -->
+<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "发件人:">
 <!ENTITY fromAddr.accesskey "r">
 <!ENTITY toAddr.label "收件人："> 
@@ -209,7 +218,8 @@
 <!ENTITY followupAddr.label "后续地址："> 
 <!ENTITY subject.label "主题:">
 <!ENTITY subject.accesskey "S">
-<!ENTITY attachments.label "附件:">
+<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
+     to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY attachments.accesskey "c">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
@@ -262,6 +272,10 @@
 <!ENTITY attachFile.accesskey "F">
 <!ENTITY attachPage.label "附加网页…">
 <!ENTITY attachPage.accesskey "W">
+
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "添加词典…">
+<!ENTITY spellAddDictionaries.accesskey "A">
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "地址">

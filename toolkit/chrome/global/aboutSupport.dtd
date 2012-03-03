@@ -1,7 +1,7 @@
-<!ENTITY aboutSupport.pageTitle "疑难解答信息">
+<!ENTITY aboutSupport.pageTitle "故障排除信息">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
-<!ENTITY aboutSupport.pageSubtitle "本页面包含了当您尝试解决某个问题时可能用得上的技术信息。如果您正在寻找关于&brandShortName;的普通问题的答案，请检查我们的<a id='supportLink'>支持网站</a>。">
+<!ENTITY aboutSupport.pageSubtitle "本页面包含了一些技术信息，当您尝试解决某个问题时可能用得上。如果您正在寻找 &brandShortName; 常见问题的答案，请查看我们的<a id='supportLink'>技术支持网站</a>。">
 
 <!ENTITY aboutSupport.extensionsTitle "扩展">
 <!ENTITY aboutSupport.extensionName "名称">
@@ -9,7 +9,7 @@
 <!ENTITY aboutSupport.extensionVersion "版本">
 <!ENTITY aboutSupport.extensionId "ID">
 
-<!ENTITY aboutSupport.appBasicsTitle "应用基础">
+<!ENTITY aboutSupport.appBasicsTitle "应用程序概要">
 <!ENTITY aboutSupport.appBasicsName "名称">
 <!ENTITY aboutSupport.appBasicsVersion "版本">
 <!ENTITY aboutSupport.appBasicsProfileDir "配置文件夹">
@@ -19,14 +19,17 @@
 <!ENTITY aboutSupport.appBasicsCrashIDs "崩溃报告">
 <!ENTITY aboutSupport.appBasicsMemoryUse "内存使用">
 
-<!ENTITY aboutSupport.show.label "打开所在文件夹">
+<!ENTITY aboutSupport.showDir.label "打开目录">
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
-variant of aboutSupport.show.label.  This allows us to use the preferred
+variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
-<!ENTITY aboutSupport.showMac.label "在查找中显示">
+<!ENTITY aboutSupport.showMac.label "显示于 Finder">
+<!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
+variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin.label "显示文件夹">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "已修改的首选项">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "修改过的重要首选项">
 <!ENTITY aboutSupport.modifiedPrefsName "名称">
 <!ENTITY aboutSupport.modifiedPrefsValue "值">
 

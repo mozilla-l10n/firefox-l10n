@@ -5,33 +5,37 @@
 
 <!-- The page shown when logged in... -->
 <!ENTITY accountGroupboxCaption.label "&syncBrand.fullName.label; 帐户">
-<!ENTITY currentAccount.label         "当前账户：">
+<!ENTITY accountName.label            "帐户名称:">
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "更新">
 <!ENTITY updatePass.accesskey         "U">
 <!ENTITY resetPass.label              "重置">
-<!ENTITY resetPass.accesskey          "s">
+<!ENTITY resetPass.accesskey          "R">
 
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "管理帐户">
+<!ENTITY manageAccount.accesskey      "M">
 <!ENTITY viewQuota.label              "查看配额">
 <!ENTITY viewQuota.accesskey          "V">
 <!ENTITY changePassword.label         "修改密码">
 <!ENTITY changePassword.accesskey     "C">
-<!ENTITY mySyncKey.label              "我的同步密钥">
-<!ENTITY mySyncKey.accesskey          "M">
+<!ENTITY myRecoveryKey.label          "我的恢复密钥">
+<!ENTITY myRecoveryKey.accesskey      "M">
 <!ENTITY resetSync.label              "重置同步">
-<!ENTITY resetSync.accesskey          "e">
-<!ENTITY stopUsingAccount.label       "停止使用此账户">
-<!ENTITY stopUsingAccount.accesskey   "A">
+<!ENTITY resetSync.accesskey          "R">
+<!ENTITY deactivateDevice.label       "停用此设备">
+<!ENTITY deactivateDevice.accesskey   "D">
+<!ENTITY addDevice.label              "添加设备">
+<!ENTITY addDevice.accesskey          "A">
 
 <!-- Sync Settings -->
-<!ENTITY syncPrefsCaption.label       "浏览器同步">
 <!ENTITY syncComputerName.label       "计算机名：">
 <!ENTITY syncComputerName.accesskey   "N">
 
-<!ENTITY syncMy.label               "同步我的">
+<!ENTITY syncMy2.label              "同步我的：">
+<!ENTITY engine.addons.label        "附加组件">
+<!ENTITY engine.addons.accesskey    "A">
 <!ENTITY engine.bookmarks.label     "书签">
 <!ENTITY engine.bookmarks.accesskey "B">
 <!ENTITY engine.tabs.label          "标签页">

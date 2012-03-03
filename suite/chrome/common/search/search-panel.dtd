@@ -38,3 +38,4 @@
 <!ENTITY search.button.label      "查找">
 <!ENTITY search.placeholder       "输入搜索文本">
 
+<!ENTITY search.engineManager.label "管理搜索引擎…">

@@ -74,28 +74,6 @@
 <!ENTITY lightning.menu.eventtask.label                "事件和任务">
 <!ENTITY lightning.menu.eventtask.accesskey            "n">
 
-<!-- Mode Toolbar -->
-<!ENTITY lightning.toolbar.mail.label         "邮件">
-<!ENTITY lightning.toolbar.mail.accesskey     "M">
-<!ENTITY lightning.toolbar.calendar.label     "日历">
-<!ENTITY lightning.toolbar.calendar.accesskey "C">
-<!ENTITY lightning.toolbar.task.label         "任务">
-<!ENTITY lightning.toolbar.task.accesskey     "T">
-
-<!-- Toolbar write button -->
-<!ENTITY lightning.toolbar.newevent.label     "事件">
-<!ENTITY lightning.toolbar.newtask.label      "任务">
-
-<!-- Messenger Toolbar -->
-<!ENTITY lightning.toolbar.day.label                 "日">
-<!ENTITY lightning.toolbar.day.accesskey             "D">
-<!ENTITY lightning.toolbar.week.label                "周">
-<!ENTITY lightning.toolbar.week.accesskey            "W">
-<!ENTITY lightning.toolbar.multiweek.label           "多周">
-<!ENTITY lightning.toolbar.multiweek.accesskey       "u">
-<!ENTITY lightning.toolbar.month.label               "月">
-<!ENTITY lightning.toolbar.month.accesskey           "M">
-
 <!-- properties dialog, calendar creation wizard -->
 <!ENTITY lightning.calendarproperties.showevents.inagenda.label "在当日面板中显示事件">
 <!ENTITY lightning.calendarproperties.showtasks.label           "在当日面板和任务模式下显示任务">

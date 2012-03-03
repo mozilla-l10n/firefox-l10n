@@ -107,13 +107,6 @@
 <!ENTITY downloadSelectedCmd.accesskey "t">
 <!ENTITY downloadFlaggedCmd.label "获得消息头">
 <!ENTITY downloadFlaggedCmd.accesskey "G">
-<!ENTITY printCmd.label "打印…">
-<!ENTITY printCmd.accesskey "P">
-<!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "打印预览">
-<!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printSetupCmd.label "打印设置…">
-<!ENTITY printSetupCmd.accesskey "u">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "删除消息">
@@ -252,6 +245,8 @@
 <!ENTITY bodySanitized.accesskey "S">
 <!ENTITY bodyAsPlaintext.label "纯文本">
 <!ENTITY bodyAsPlaintext.accesskey "P">
+<!ENTITY bodyAllParts.label "所有主体部分">
+<!ENTITY bodyAllParts.accesskey "A">
 
 <!ENTITY bodyMenuFeed.label "用邮件正文作为">
 <!ENTITY bodyMenuFeed.accesskey "B">
@@ -273,16 +268,10 @@
 <!ENTITY pageSourceCmd.key "u">
 
 <!ENTITY findCmd.label "在消息中查找…">
-<!ENTITY findCmd.accesskey "F">
-<!ENTITY findCmd.key "f">
-<!ENTITY findAgainCmd.label "再次查找">
-<!ENTITY findAgainCmd.accesskey "g">
-<!ENTITY findAgainCmd.key "g">
-<!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "查找前一个">
-<!ENTITY findPrevCmd.accesskey "v">
-<!ENTITY findPrevCmd.key "g">
-<!ENTITY findPrevCmd.key2 "VK_F3">
+
+<!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
+     This is the key used to show the Lightning quick filter bar. -->
+<!ENTITY quickFilterBar.show.key2 "K">
 
 <!-- Go Menu -->
 
@@ -383,21 +372,8 @@
 <!ENTITY tagMenu.accesskey "g">
 <!ENTITY tagCustomize.label "定制">
 <!ENTITY tagCustomize.accesskey "C">
-<!ENTITY tagCmd0.key "0">
-<!ENTITY tagCmd1.key "1">
-<!ENTITY tagCmd2.key "2">
-<!ENTITY tagCmd3.key "2">
-<!ENTITY tagCmd4.key "4">
-<!ENTITY tagCmd5.key "5">
-<!ENTITY tagCmd6.key "6">
-<!ENTITY tagCmd7.key "7">
-<!ENTITY tagCmd8.key "8">
-<!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "标记">
 <!ENTITY markMenu.accesskey "k">
-<!ENTITY markAsReadCmd.label "已读">
-<!ENTITY markAsReadCmd.accesskey "R">
-<!ENTITY markAsReadCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "论题为已读">
 <!ENTITY markThreadAsReadCmd.accesskey "T">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -407,9 +383,6 @@
 <!ENTITY markAllReadCmd.label "全部已读">
 <!ENTITY markAllReadCmd.accesskey "A">
 <!ENTITY markAllReadCmd.key "c">
-<!ENTITY markFlaggedCmd.label "标记">
-<!ENTITY markFlaggedCmd.accesskey "F">
-<!ENTITY markFlaggedCmd.key "i">
 <!ENTITY markAsJunkCmd.label "为垃圾">
 <!ENTITY markAsJunkCmd.accesskey "J">
 <!ENTITY markAsJunkCmd.key "j">
@@ -424,9 +397,6 @@
 <!ENTITY markAsNotPhishCmd.label "标记为非垃圾指令.label">
 <!ENTITY markAsNotPhishCmd.accesskey "S">
 <!ENTITY markAsNotPhishCmd.key "p">
-<!ENTITY openMessageWindowCmd.label "打开消息">
-<!ENTITY openMessageWindowCmd.accesskey "O">
-<!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY openFeedMessage.label "打开收取点消息">
 <!ENTITY openFeedMessage.accesskey "O">
 <!ENTITY openFeedWebPageInWindow.label "在新窗口中打开网页">
@@ -441,7 +411,7 @@
 <!ENTITY searchMailCmd.accesskey "M">
 <!ENTITY searchMailCmd.key "s">
 <!ENTITY searchAddressesCmd.label "搜索地址…">
-<!ENTITY searchAddressesCmd.accesskey "S">
+<!ENTITY searchAddressesCmd.accesskey "c">
 <!ENTITY filtersCmd.label "消息过滤器…">
 <!ENTITY filtersCmd.accesskey "F">
 <!ENTITY filtersApply.label "对文件夹执行过滤器">
@@ -479,7 +449,6 @@
 <!ENTITY deleteButton.label "删除">
 <!ENTITY undeleteButton.label "撤消删除">
 <!ENTITY markButton.label "标记">
-<!ENTITY printButton.label "打印">
 <!ENTITY stopButton.label "停止">
 <!ENTITY junkButton.label "垃圾">
 <!ENTITY notJunkButton.label "非垃圾">
@@ -503,7 +472,6 @@
 <!ENTITY deleteButton.tooltip "删除选择的消息或文件夹">
 <!ENTITY undeleteButton.tooltip "恢复选中消息">
 <!ENTITY markButton.tooltip "标记消息">
-<!ENTITY printButton.tooltip "打印这条消息">
 <!ENTITY stopButton.tooltip "停止当前传送">
 <!ENTITY throbber.tooltip "转到 &vendorShortName; 主页">
 <!ENTITY junkButton.tooltip "将选中的消息标记为垃圾(或者非垃圾)">
