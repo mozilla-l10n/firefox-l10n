@@ -93,7 +93,7 @@
 <!ENTITY  permAllowSession      "在当前会话中允许">
 <!ENTITY  permBlock             "阻止">
 <!ENTITY  permissionsFor        "权限，对于:">
-<!ENTITY  permImage             "载入图像">
+<!ENTITY  permImage             "载入图片">
 <!ENTITY  permPopup             "打开弹出窗口">
 <!ENTITY  permCookie            "设置 Cookie">
 <!ENTITY  permInstall           "安装扩展或主题">

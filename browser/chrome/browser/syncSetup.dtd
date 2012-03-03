@@ -12,7 +12,7 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "服务器">
-<!ENTITY serverType.main.label      "&syncBrand.fullName.label; 服务器">
+<!ENTITY serverType.default.label      "默认：Mozilla &syncBrand.fullName.label; 服务器">
 <!ENTITY serverType.custom2.label   "使用自定义服务器…">
 <!ENTITY signIn.account2.label      "帐户">
 <!ENTITY signIn.account2.accesskey  "A">
@@ -40,7 +40,7 @@
 <!ENTITY setup.tosAgree2.accesskey  "">
 
 <!-- My Recovery Key dialog -->
-<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; 致力于保护您的隐私">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; 保护您的隐私">
 <!ENTITY setup.newRecoveryKeyPage.description.label "为确保您的隐私，所有数据在上传之前都已经过加密。对数据解密的恢复密钥未上传。">
 <!ENTITY recoveryKeyEntry.label        "您的恢复密钥">
 <!ENTITY recoveryKeyEntry.accesskey    "K">
@@ -56,7 +56,7 @@
 <!ENTITY pairDevice.title.label             "设备配对">
 <!ENTITY addDevice.showMeHow.label          "告诉我该怎么做。">
 <!ENTITY addDevice.dontHaveDevice.label     "该设备不在我身边">
-<!ENTITY pairDevice.setup.description.label  "请在您的其他设备上选择“设备配对”来激活。">
+<!ENTITY pairDevice.setup.description.label  "请于您的其他设备中选择 &#x0022;设备配对&#x0022;来启用。">
 <!ENTITY addDevice.setup.enterCode.label    "然后，输入此代码：">
 <!ENTITY pairDevice.dialog.description.label "请在设备上选择 &#x0022;设置同步&#x0022; 来激活您的新设备。">
 <!ENTITY addDevice.dialog.enterCode.label   "请输入该设备提供的代码：">

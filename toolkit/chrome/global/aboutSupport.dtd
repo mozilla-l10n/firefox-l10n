@@ -12,7 +12,13 @@
 <!ENTITY aboutSupport.appBasicsTitle "应用程序概要">
 <!ENTITY aboutSupport.appBasicsName "名称">
 <!ENTITY aboutSupport.appBasicsVersion "版本">
+
 <!ENTITY aboutSupport.appBasicsProfileDir "配置文件夹">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "配置文件夹">
+
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "已启用的插件">
 <!ENTITY aboutSupport.appBasicsBuildConfig "构建配置">
 <!ENTITY aboutSupport.appBasicsUserAgent "用户代理">
@@ -20,7 +26,6 @@
 <!ENTITY aboutSupport.appBasicsMemoryUse "内存使用">
 
 <!ENTITY aboutSupport.showDir.label "打开目录">
-
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
@@ -34,6 +39,9 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsValue "值">
 
 <!ENTITY aboutSupport.graphicsTitle "图像">
+
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "增量式垃圾收集器">
 
 <!ENTITY aboutSupport.installationHistoryTitle "安装历史记录">
 <!ENTITY aboutSupport.updateHistoryTitle "更新历史">

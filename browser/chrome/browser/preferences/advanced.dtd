@@ -83,7 +83,7 @@
 <!ENTITY enableSearchUpdate.label        "搜索引擎">
 <!ENTITY enableSearchUpdate.accesskey    "E">
 
-<!ENTITY offlineNotify.label             "当网站要求保存数据供脱机使用，请通知我。">
+<!ENTITY offlineNotify.label             "网站请求保存数据供离线使用时通知我">
 <!ENTITY offlineNotify.accesskey         "T">
 <!ENTITY offlineNotifyExceptions.label   "例外…">
 <!ENTITY offlineNotifyExceptions.accesskey "x">

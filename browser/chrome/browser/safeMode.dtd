@@ -39,6 +39,9 @@
 <!ENTITY safeModeDialog.title         "&brandShortName; 安全模式">
 <!ENTITY window.width                 "37em">
 
+<!ENTITY autoSafeModeIntro.label      "&brandShortName; 在启动时意外关闭">
+<!ENTITY autoSafeModeDescription.label "我们对给您带来的不便深表歉意。&brandShortName; 现在运行于安全模式，这将暂时禁用您的自定义设置、主题以及扩展。">
+
 <!ENTITY safeModeDescription.label    "&brandShortName; 正在以安全模式运行，这将暂时禁用您的设置、主题以及扩展。">
 <!ENTITY safeModeDescription2.label   "您可以将这些改动部分或全部保存:">
 
