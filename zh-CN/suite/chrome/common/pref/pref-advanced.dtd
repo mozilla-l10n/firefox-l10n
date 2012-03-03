@@ -1,11 +1,6 @@
 <!--LOCALIZATION NOTE : FILE 'Advanced' prefs settings -->
 <!ENTITY pref.advanced.title        "高级">
 
-<!ENTITY prefEnableJava.caption     "对解析网页提供辅助的特性">
-
-<!ENTITY enbJavaCheck.label         "启用 Java">
-<!ENTITY enbJavaCheck.accesskey     "J">
-
 <!ENTITY systemPref.caption         "系统选项">
 <!ENTITY systemPrefCheck.label      "使用系统设置">
 <!ENTITY systemPrefCheck.accesskey  "U">
@@ -14,3 +9,7 @@
 <!ENTITY prefCheckDefault.caption   "系统集成">
 <!ENTITY prefCheckDefaultClient.label "启动时检查默认应用程序设置">
 <!ENTITY prefCheckDefaultClient.accesskey "C">
+
+<!ENTITY crashReports.caption       "崩溃报告程序">
+<!ENTITY submitCrashes.label        "提交崩溃报告">
+<!ENTITY submitCrashes.accesskey    "S">

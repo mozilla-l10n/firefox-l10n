@@ -1,0 +1,140 @@
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+<!ENTITY loadError.label "页面载入出错">
+<!ENTITY retry.label "重试">
+
+<!-- Specific error messages -->
+
+<!ENTITY connectionFailure.title "无法连接">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+
+<!ENTITY deniedPortAccess.title "此地址访问受限">
+<!ENTITY deniedPortAccess.longDesc "">
+
+<!ENTITY dnsNotFound.title "未找到服务器">
+<!ENTITY dnsNotFound.longDesc2 "<ul>
+  <li>检查看看网址有没有输入错误，比如把
+    <strong>www</strong>.example.com 输入成了
+    <strong>ww</strong>.example.com</li>
+  <li>如果您无法载入任何页面，请检查您设备的数据或者 Wi-Fi 连接。</li>
+</ul>
+">
+
+<!ENTITY fileNotFound.title "未找到文件">
+<!ENTITY fileNotFound.longDesc "
+<ul>
+  <li>请检查文件名的大小写或者其他拼写错误。</li>
+  <li>请检查文件是否被移动，重命名或者删除。</li>
+</ul>
+">
+
+
+<!ENTITY generic.title "哎呀。">
+<!ENTITY generic.longDesc "<p>&brandShortName; 因未知原因无法载入此页面。</p>">
+
+<!ENTITY malformedURI.title "非法地址">
+<!ENTITY malformedURI.longDesc "
+<ul>
+  <li>网页地址通常格式为
+    <strong>http://www.example.com/</strong></li>
+  <li>请确认您使用了正斜杠 (即
+    <strong>/</strong>).</li>
+</ul>
+">
+
+<!ENTITY netInterrupt.title "连接被中断">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+
+<!ENTITY notCached.title "文档已过期">
+<!ENTITY notCached.longDesc "<p>您请求的文档已无法在 &brandShortName; 的缓存中找到。</p><ul><li>作为一个安全上的预防措施，&brandShortName; 不会自动重新获取敏感信息文档。</li><li>请点击重试并从网站来重新获取该文档。</li></ul>">
+
+<!ENTITY netOffline.title "脱机模式">
+<!ENTITY netOffline.longDesc2 "<ul>
+  <li>请重试。 &brandShortName; 将会尝试打开一个链接并重新载入页面。</li>
+</ul>
+ ">
+
+<!ENTITY contentEncodingError.title "内容编码错误">
+<!ENTITY contentEncodingError.longDesc "<ul><li>请联系网站的所有者以告知此问题。</li></ul>">
+
+<!ENTITY unsafeContentType.title "不安全的文件类型">
+<!ENTITY unsafeContentType.longDesc "<ul><li>请联系网站的所有者以告知此问题。</li></ul>">
+
+<!ENTITY netReset.title "连接被重置">
+<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+
+<!ENTITY netTimeout.title "连接超时">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+
+<!ENTITY protocolNotFound.title "无法理解该地址">
+<!ENTITY protocolNotFound.longDesc "
+<ul>
+  <li>您可能需要安装其他软件以打开此地址。</li>
+</ul>
+">
+
+<!ENTITY proxyConnectFailure.title "代理服务器拒绝连接">
+<!ENTITY proxyConnectFailure.longDesc "<ul><li>请检查浏览器的代理服务器设置是否正确。</li><li>请联系您的网络管理员以确认代理服务器工作正常。</li></ul>">
+
+<!ENTITY proxyResolveFailure.title "无法找到代理服务器">
+<!ENTITY proxyResolveFailure.longDesc2 "<ul>
+  <li>检查代理服务器设置确保正确。</li>
+  <li>检查你的设备是否有正常的数据或者 Wi-Fi 连接。</li>
+</ul>
+ ">
+
+<!ENTITY redirectLoop.title "此页面不能正确地重定向">
+<!ENTITY redirectLoop.longDesc "<ul><li>此问题可能是因为禁用或拒绝 Cookie 导致。</li></ul>">
+
+<!ENTITY unknownSocketType.title "不预期的服务器回应">
+<!ENTITY unknownSocketType.longDesc "
+<ul>
+  <li>请检查您的系统安装了个人安全管理程序。</li>
+  <li>这可能是因为服务器端非标准的配置所导致。</li>
+</ul>
+">
+
+<!ENTITY nssFailure2.title "安全连接失败">
+<!ENTITY nssFailure2.longDesc "<ul>
+  <li>无法显示您尝试查看的页面，因为无法验证所收到数据的真实性。</li>
+  <li>请联系网站的所有者以告知此问题。或者使用帮助菜单中的相关命令来报告此问题站点。</li>
+</ul>">
+
+<!ENTITY nssBadCert.title "安全连接失败">
+<!ENTITY nssBadCert.longDesc2 "
+<ul>
+  <li>这可能是服务器配置错误，或者有人尝试模仿该服务器。</li>
+  <li>如果您曾经成功连接至该过服务器，该错误可能只是暂时的，您可以稍后重试。</li>
+</ul>
+">
+
+<!ENTITY sharedLongDesc2 "<ul>
+  <li>该网站可能暂时不可用或者太忙。请在几分钟后重试。</li>
+  <li>如果您无法载入任何页面，请检查您的移动设备数据或者 Wi-Fi 连接。</li>
+</ul>
+">
+
+<!ENTITY cspFrameAncestorBlocked.title "由于内容安全策略而被阻止">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>由于内容安全策略，&brandShortName; 已阻止此页按该方式载入。</p>">
+
+<!ENTITY corruptedContentError.title "内容损坏错误">
+<!ENTITY corruptedContentError.longDesc "<p>您要查看的该页面无法显示，因为检测到数据传输错误。</p><ul><li>请联系网站所有者通知他们这个问题。</li></ul>">
+
+<!ENTITY securityOverride.linkText "或者，您可以添加一个例外…">
+<!ENTITY securityOverride.getMeOutOfHereButton "让我离开这里！">
+<!ENTITY securityOverride.exceptionButtonLabel "添加例外…">
+
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <xul:button> tags.  The only language content is the label= field,
+which uses strings already defined above. The button is included here (instead of
+netError.xhtml) because it exposes functionality specific to firefox. -->
+
+<!ENTITY securityOverride.warningContent "<p>如果您使用的是一个您不完全信任的因特网连接，或者您不习惯看到此服务器的警告，您不应该添加一个例外。</p>
+
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+
+<!ENTITY remoteXUL.title "远程 XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>请联系网站拥有者告知这个问题。</li></ul></p>">
+

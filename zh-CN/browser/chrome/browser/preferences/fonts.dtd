@@ -50,7 +50,7 @@
 <!ENTITY  font.langGroup.oriya                    "奥里雅语">
 <!ENTITY  font.langGroup.telugu                   "泰卢固语">
 <!ENTITY  font.langGroup.kannada                  "卡纳达语">
-<!ENTITY  font.langGroup.sinhala                  "Sinhala">
+<!ENTITY  font.langGroup.sinhala                  "僧伽罗语">
 <!ENTITY  font.langGroup.tibetan                  "藏语">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "最小字体大小：">

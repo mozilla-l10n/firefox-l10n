@@ -2,7 +2,7 @@
 
 <!ENTITY printSetup.title    "页面设置">
 
-<!ENTITY basic.tab           "格式&amp;选项">
+<!ENTITY basic.tab           "格式和选项">
 
 <!ENTITY formatGroup.label   "格式">
 
@@ -24,7 +24,7 @@
 <!ENTITY printBG.label       "打印背景（颜色和图片）">
 <!ENTITY printBG.accesskey   "B">
 
-<!ENTITY advanced.tab        "页边距 &amp; 页眉/页脚">
+<!ENTITY advanced.tab        "页边距和页眉/页脚">
 
 <!ENTITY marginGroup.label   "页边距 (#1)">
 <!ENTITY marginUnits.inches  "英寸">
@@ -38,7 +38,7 @@
 <!ENTITY marginRight.label   "右：">
 <!ENTITY marginRight.accesskey "R">
 
-<!ENTITY headerFooter.label  "页眉&amp;页脚">
+<!ENTITY headerFooter.label  "页眉和页脚">
 
 <!ENTITY hfLeft.label        "左：">
 <!ENTITY hfCenter.label      "中：">

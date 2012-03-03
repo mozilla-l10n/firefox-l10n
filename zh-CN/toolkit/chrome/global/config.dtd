@@ -43,9 +43,9 @@
 <!ENTITY aboutWarningButton.label "我保证会小心">
 <!ENTITY aboutWarningCheckbox.label "下次仍显示此警告文本">
 
-<!ENTITY filterPrefs.label "过滤器：">
-<!ENTITY filterPrefs.accesskey "F">
-<!ENTITY focusFilter.key "f">
+<!ENTITY searchPrefs.label "搜索：">
+<!ENTITY searchPrefs.accesskey "r">
+<!ENTITY focusSearch.key "r">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "首选项名称">

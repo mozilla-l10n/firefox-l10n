@@ -15,3 +15,5 @@
 
 <!ENTITY editContactPanelDone.label "完成">
 <!ENTITY editContactPanelDone.accesskey "D">
+
+<!ENTITY contactMoveDisabledWarning.description "您不能更改通讯录，因为联系人在邮件列表中。">

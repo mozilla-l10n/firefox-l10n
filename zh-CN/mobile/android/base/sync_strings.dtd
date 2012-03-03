@@ -1,0 +1,72 @@
+<!-- Don't localize these. They're here until they have
+     a better place to live. -->
+<!ENTITY syncBrand.fullName.label "Firefox 同步">
+<!ENTITY syncBrand.shortName.label "同步">
+
+<!-- Main titles. -->
+<!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
+<!ENTITY sync.title.connect.label '连接到 &syncBrand.shortName.label;'>
+<!ENTITY sync.title.adddevice.label '添加 &syncBrand.fullName.label; 帐户'>
+<!ENTITY sync.title.pair.label '设备配对'>
+
+<!-- J-PAKE Key Screen -->
+<!ENTITY sync.subtitle.connect.label '要想激活您的新设备，请在设备上选择“设置 &syncBrand.shortName.label;”。'>
+<!ENTITY sync.subtitle.header.label '在您的计算机上输入此代码'>
+<!ENTITY sync.subtitle.connectlocation.label '请从您桌面版 Firefox 选项的  &syncBrand.shortName.label; 部分选择 “&sync.title.pair.label;”。'>
+<!ENTITY sync.subtitle.pair.label '要想激活，请在您的其他设备上选择“设备配对”。'>
+<!ENTITY sync.pin.default.label '...\n...\n...\n'>
+<!ENTITY sync.pin.oneline.label '...'>
+<!ENTITY sync.link.show.label '告诉我怎么办。'>
+<!ENTITY sync.link.advancedsetup.label '高级设置...'>
+<!ENTITY sync.link.nodevice.label '该设备不在我身边…'>
+
+<!-- J-PAKE Waiting Screen -->
+<!ENTITY sync.jpake.subtitle.waiting.label '正在等待其他设备…'>
+
+<!-- Account Login Screen -->
+<!ENTITY sync.subtitle.account.label '请输入您的 &syncBrand.fullName.label; 帐户信息'>
+<!ENTITY sync.input.username.label '帐户名称'>
+<!ENTITY sync.input.password.label '密码'>
+<!ENTITY sync.input.key.label '恢复密钥'>
+<!ENTITY sync.checkbox.server.label '使用自定义服务器'>
+<!ENTITY sync.input.server.label '服务器网址'>
+  
+<!-- Setup Fail -->
+<!ENTITY sync.title.fail.label '无法设置 &syncBrand.shortName.label;'>
+<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; 无法连接到服务器。您想再试一次吗？'>
+<!ENTITY sync.button.tryagain.label '重试'>
+<!ENTITY sync.button.manual.label '手动设置'>
+<!ENTITY sync.subtitle.nointernet.label '没有可用的因特网连接。'>
+  
+<!-- Setup Success -->
+<!ENTITY sync.title.success.label '初始设置完成'>
+<!ENTITY sync.subtitle.success.label '您的数据目前正在后台下载。您可以到设置去管理您的帐户。'>
+<!ENTITY sync.settings.label '设置'>
+<!ENTITY sync.subtitle.manage.label '您的 &syncBrand.fullName.label; 帐户已经建立。进入设置以管理您的帐户。'>
+
+<!-- Pair Device -->
+<!ENTITY sync.pair.tryagain.label '请重试。'>
+
+<!-- Firefox SyncAdapter Settings Screen -->
+<!ENTITY sync.settings.options.label '选项'>
+<!ENTITY sync.summary.pair.label '链接其他设备到您的 &syncBrand.shortName.label; 帐户'>
+
+<!-- Common text -->
+<!ENTITY sync.button.cancel.label '取消'>
+<!ENTITY sync.button.connect.label '连接'>
+<!ENTITY sync.button.ok.label '确定'>
+  
+<!-- Account strings -->
+<!ENTITY sync.account.label.label '&syncBrand.fullName.label;'>
+  
+<!-- Bookmark folder strings -->
+<!ENTITY bookmarks.folder.menu.label '书签菜单'>
+<!ENTITY bookmarks.folder.places.label ''>
+<!ENTITY bookmarks.folder.tags.label '标签'>
+<!ENTITY bookmarks.folder.toolbar.label '书签工具栏'>
+<!ENTITY bookmarks.folder.unfiled.label '未分类书签'>
+<!ENTITY bookmarks.folder.desktop.label '桌面书签'>
+<!ENTITY bookmarks.folder.mobile.label '移动书签'>
+
+<!-- Notification strings -->
+<!ENTITY sync.notification.oneaccount.label '仅支持一个 &syncBrand.fullName.label; 帐号。'>

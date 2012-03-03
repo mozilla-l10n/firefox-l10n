@@ -11,6 +11,7 @@
 <!ENTITY email.accesskey "E">
 <!ENTITY replyTo.label "回复地址：">
 <!ENTITY replyTo.accesskey "s">
+<!ENTITY replyTo.placeholder "接收者将回复到这个其他地址">
 <!ENTITY organization.label "工作单位：">
 <!ENTITY organization.accesskey "O">
 <!ENTITY signatureText.label "签名文字:">

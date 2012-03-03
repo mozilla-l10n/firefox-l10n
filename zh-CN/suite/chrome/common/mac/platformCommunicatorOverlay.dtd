@@ -27,7 +27,6 @@
 <!ENTITY printSetupCmd.label            "页面设置…">
 <!ENTITY printSetupCmd.accesskey        "u">
 
-<!ENTITY redoCmd.label                  "重复">  
 <!ENTITY redoCmd.key                    "Z">  
 
 <!ENTITY historyCmd.key                 "H">  

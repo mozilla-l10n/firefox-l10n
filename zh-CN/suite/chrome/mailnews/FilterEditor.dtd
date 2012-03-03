@@ -53,7 +53,7 @@
  ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY window.title "过滤器规则">
-
+<!ENTITY filterEditorDialog.dimensions "width: 105ch;">
 <!ENTITY filterName.label "过滤器名称:">
 <!ENTITY filterName.accesskey "i">
 
@@ -83,8 +83,8 @@
 <!ENTITY forwardTo.label "转发消息至">
 <!ENTITY replyWithTemplate.label "使用模板回复">
 <!ENTITY markMessageRead.label "标记为已读">
+<!ENTITY markMessageUnread.label "标记为未读">
 <!ENTITY markMessageStarred.label "标记">
-<!ENTITY labelMessage.label "将消息标记为">
 <!ENTITY setPriority.label "设置优先级为">
 <!ENTITY addTag.label "为消息添加标签">
 <!ENTITY setJunkScore.label "设置垃圾状态为">

@@ -25,13 +25,13 @@
 <!ENTITY netInterrupt.longDesc "<p>浏览器已成功连接，但是传输数据时，连接被中断，请重试。</p><ul><li>您是否也不能浏览其他站点？请检查计算机的网络连接。</li><li>仍然不行？请尝试联系您的网络管理员或者因特网服务提供商以寻求帮助。</li></ul>">
 
 <!ENTITY notCached.title "文档已过期">
-<!ENTITY notCached.longDesc "<p>您请求的文档已无法在浏览器的缓存中找到。</p><ul><li>作为一个安全上的预防措施，浏览器不会自动重新获取敏感信息文档。</li><li>请点击重试并从网站来重新获取该文档。</li></ul>">
+<!ENTITY notCached.longDesc "<p>您请求的文档已无法在浏览器的缓存中找到。</p><ul><li>出于安全考虑，浏览器不会自动重新获取敏感信息文档。</li><li>请点击重试并从网站来重新获取该文档。</li></ul>">
 
 <!ENTITY netOffline.title "脱机模式">
 <!ENTITY netOffline.longDesc2 "<p>浏览器目前在离线模式下运行，并且无法连接到请求的项目。</p><ul><li>您确定计算机已连接到了一个有效网络吗？</li><li>按“重试”切换到在线模式并重新加载此页面。</li></ul>">
 
 <!ENTITY contentEncodingError.title "内容编码错误">
-<!ENTITY contentEncodingError.longDesc "<p>无法显示您尝试查看的页面，因为它使用了无效或者不支持的压缩格式。</p><ul><li>请联系网站的所有者以告知此问题。</li></ul>">
+<!ENTITY contentEncodingError.longDesc "<p>您尝试查看的页面无法显示，因为它使用了无效的或者不支持的压缩格式。</p><ul><li>请联系网站的所有者，告知他们这个问题。</li></ul>">
 
 <!ENTITY unsafeContentType.title "不安全的文件类型">
 <!ENTITY unsafeContentType.longDesc " <ul>   <li>请联系网站所有者并告知该问题。</li> </ul> ">

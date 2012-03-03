@@ -38,5 +38,5 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY  settingsChangePreferences.label  "可以在 &brandShortName; 的 首选项 -> 应用程序 标签页中修改相关设置。">
-<!ENTITY  settingsChangeOptions.label      "可以在 &brandShortName; 的 选项 -> 应用程序 标签页中修改相关设置。">
+<!ENTITY  settingsChangePreferences.label  "可以在 &brandShortName; 的 首选项 -> 应用程序 选项卡中修改相关设置。">
+<!ENTITY  settingsChangeOptions.label      "可以在 &brandShortName; 的 选项 -> 应用程序 选项卡中修改相关设置。">

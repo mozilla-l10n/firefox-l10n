@@ -24,7 +24,7 @@
 <!ENTITY tasksMenu.accesskey "T"> 
 
 <!ENTITY datamanCmd.label "数据管理器">
-<!ENTITY datamanCmd.accesskey "M">
+<!ENTITY datamanCmd.accesskey "D">
 
 <!ENTITY passwordManagerCmd.label "密码管理器">
 <!ENTITY passwordManagerCmd.accesskey "P">
@@ -36,12 +36,12 @@
 <!ENTITY passwordExpireCmd.accesskey "l">
 
 <!ENTITY downloadManagerCmd.label "下载管理器">
-<!ENTITY downloadManagerCmd.accesskey "D">
+<!ENTITY downloadManagerCmd.accesskey "n">
 <!ENTITY downloadManagerCmd.commandkey "j">
 
-<!ENTITY addonsManagerCmd.label "管理附加组件">
-<!ENTITY addonsManagerCmd.accesskey "A">
-<!ENTITY addonsManagerCmd.commandkey "a">
+<!ENTITY addOnsManagerCmd.label "附加组件管理器">
+<!ENTITY addOnsManagerCmd.accesskey "A">
+<!ENTITY addOnsManagerCmd.commandkey "a">
 
 <!ENTITY switchProfileCmd.label "切换配置文件…">
 <!ENTITY switchProfileCmd.accesskey "h">

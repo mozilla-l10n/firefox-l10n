@@ -6,7 +6,7 @@
 a replacement for the standard security certificate errors produced
 by NSS/PSM via netError.xhtml. -->
 
-<!ENTITY certerror.pagetitle  "连接链接">
+<!ENTITY certerror.pagetitle  "不受信任的连接">
 <!ENTITY certerror.longpagetitle "此连接是不受信任的">
 
 <!-- Localization note (certerror.introPara1) - The string "#1" will
