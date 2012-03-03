@@ -62,9 +62,9 @@
 <!ENTITY calendar.subscribe.label                          "Абониране за отдалечен календар…">
 <!ENTITY calendar.subscribe.accesskey                      "о">
 
-<!ENTITY calendar.synccalendars.label                      "Synchronize Calendars">
+<!ENTITY calendar.synccalendars.label                      "Синхронизиране на календарите">
 <!ENTITY calendar.synccalendars.key                        "R">
-<!ENTITY calendar.synccalendars.accesskey                  "S">
+<!ENTITY calendar.synccalendars.accesskey                  "С">
 
 <!ENTITY calendar.publish.calendar.label                   "Публикуване на календар…">
 <!ENTITY calendar.publish.calendar.accesskey               "б">

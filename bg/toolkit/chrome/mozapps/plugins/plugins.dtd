@@ -34,8 +34,8 @@
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "Презареждане на страницата">
 <!ENTITY reloadPlugin.post                                   " за нов опит.">
-<!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.checkbox                                     "…и изпратете доклад за краш">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "Изпращане на доклад за крашване">
 <!ENTITY report.submitting                                   "Изпращане на доклад…">
 <!ENTITY report.submitted                                    "Докладът за крашване е изпратен.">
 <!ENTITY report.disabled                                     "Докладването за крашване е изключено.">

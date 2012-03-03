@@ -78,10 +78,10 @@
 <!ENTITY lightning.toolbar.mail.label         "Поща">
 <!ENTITY lightning.toolbar.mail.accesskey     "П">
 <!ENTITY lightning.toolbar.calendar.label     "Календар">
-<!ENTITY lightning.toolbar.calendar.tooltip   "Switch to the calendar tab">
+<!ENTITY lightning.toolbar.calendar.tooltip   "Отиване в подпрозореца с календара">
 <!ENTITY lightning.toolbar.calendar.accesskey "К">
 <!ENTITY lightning.toolbar.task.label         "Задачи">
-<!ENTITY lightning.toolbar.task.tooltip       "Switch to the tasks tab">
+<!ENTITY lightning.toolbar.task.tooltip       "Отиване в подпрозореца със задачите">
 <!ENTITY lightning.toolbar.task.accesskey     "З">
 <!-- Toolbar write button -->
 

@@ -70,9 +70,9 @@
 <!ENTITY publishSettings.accesskey "л">
 <!-- Toolbar buttons/items -->
 
-<!ENTITY newToolbarCmd.label "New">
-<!ENTITY newToolbarCmd.tooltip "Create a new Composer page">
-<!ENTITY openToolbarCmd.label "Open">
-<!ENTITY openToolbarCmd.tooltip "Open a local file">
-<!ENTITY saveToolbarCmd.tooltip "Save file to a local location">
-<!ENTITY publishToolbarCmd.tooltip "Upload file to a remote location">
+<!ENTITY newToolbarCmd.label "Нов">
+<!ENTITY newToolbarCmd.tooltip "Отваряне на нова страница за съставяне">
+<!ENTITY openToolbarCmd.label "Отваряне">
+<!ENTITY openToolbarCmd.tooltip "Отваряне на локален файл">
+<!ENTITY saveToolbarCmd.tooltip "Запис на файл в локално място">
+<!ENTITY publishToolbarCmd.tooltip "Качване на файл на отдалечено място">

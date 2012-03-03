@@ -253,8 +253,8 @@
 <!ENTITY calendar.context.findcalendar.accesskey       "м" >
 <!ENTITY calendar.context.deleteserver.label           "Изтриване на календар">
 <!ENTITY calendar.context.deleteserver.accesskey       "з">
-<!ENTITY calendar.context.synccalendars.label          "Synchronize Calendars">
-<!ENTITY calendar.context.synccalendars.accesskey      "S">
+<!ENTITY calendar.context.synccalendars.label          "Синхронизиране на календарите">
+<!ENTITY calendar.context.synccalendars.accesskey      "С">
 <!ENTITY calendar.context.publish.label                "Публикуване на календар…">
 <!ENTITY calendar.context.publish.accesskey            "б">
 <!ENTITY calendar.context.export.label                 "Експортиране на календар…">

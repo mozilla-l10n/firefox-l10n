@@ -1,26 +1,26 @@
 <!ENTITY aboutDialog.title          "Относно &brandFullName;">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
-<!ENTITY warningDesc.version        "&brandShortName; is experimental and may be unstable.">
+<!ENTITY warningDesc.version        "&brandShortName; е експериментална версия, която може да е нестабилна.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetry): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetry      "It automatically sends test information back to &vendorShortName; to help make &brandShortName; better.">
+<!ENTITY warningDesc.telemetry      "Автоматично се изпраща тестова информация обратно към &vendorShortName;, помагаща за подобряване на &brandShortName;.">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
 <!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
-<!ENTITY community.exp.middle       " is a ">
+<!ENTITY community.exp.middle       " е ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
-<!ENTITY community.exp.creditsLink  "global community">
-<!ENTITY community.exp.end          " working together to keep the Web open, public and accessible to all.">
+<!ENTITY community.exp.creditsLink  "глобална общност">
+<!ENTITY community.exp.end          ", работеща заедно, за да може Интернет да продължава да бъде отворен и общодостъпен.">
 
-<!ENTITY community.start2           "&brandShortName; е с дизайн на ">
+<!ENTITY community.start2           "&brandShortName; е проектиран от ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "глобална общност">
-<!ENTITY community.end3             " working together to keep the Web open, public and accessible to all.">
+<!ENTITY community.end3             "работеща заедно, за да може Интернет да продължава да бъде отворен и общодостъпен.">
 
 <!ENTITY contribute.start           "Звучи ли интересно? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
@@ -31,7 +31,7 @@
 <!ENTITY bottomLinks.license        "Информация за лицензите">
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
 
-<!ENTITY bottomLinks.rights         "Права на крайните потребители">
+<!ENTITY bottomLinks.rights         "Права на крайния потребител">
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
 
 <!ENTITY bottomLinks.privacy        "Политика на личните данни">

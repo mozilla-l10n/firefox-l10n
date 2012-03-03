@@ -30,8 +30,8 @@
 <!ENTITY engine.passwords.accesskey "П">
 <!ENTITY engine.prefs.label         "Настройки">
 <!ENTITY engine.prefs.accesskey     "Н">
-<!ENTITY engine.addons.label        "Add-ons">
-<!ENTITY engine.addons.accesskey    "A">
+<!ENTITY engine.addons.label        "Добавки">
+<!ENTITY engine.addons.accesskey    "Д">
 <!-- Device Settings -->
 
 <!ENTITY syncComputerName.label       "Име на компютъра:">
