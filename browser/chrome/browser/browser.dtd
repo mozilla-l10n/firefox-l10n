@@ -206,7 +206,7 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectMenu.label            "Preskúmať stránku">
+<!ENTITY inspectMenu.label            "Prieskumník stránok">
 <!ENTITY inspectMenu.accesskey        "P">
 <!ENTITY inspectMenu.commandkey       "I">
 
@@ -217,6 +217,15 @@ can reach it easily. -->
 <!ENTITY inspectButton.label            "Preskúmať">
 <!ENTITY inspectButton.accesskey        "P">
 <!ENTITY inspectCloseButton.tooltiptext "Zavrieť okno prieskumníka">
+
+<!ENTITY inspectorHTMLCopyInner.label       "Kopírovať obsah v značkách HTML">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "b">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "Kopírovať vrátane kódu HTML">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "v">
+
+<!ENTITY inspectorHTMLDelete.label          "Odstrániť uzol">
+<!ENTITY inspectorHTMLDelete.accesskey      "d">
 
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
   -  alternate view for the Inspector, creating a 3D visualization of the
@@ -598,3 +607,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY addonBarCloseButton.tooltip  "Zavrieť panel doplnkov">
 <!ENTITY toggleAddonBarCmd.key        "/">
+
+<!-- LOCALIZATION NOTE (htmlPanel.label): This is a label for a button that
+activates the Web Developer->Inspect UI's HTML Tree Panel. -->
+<!ENTITY htmlPanel.label              "HTML">
+
+<!-- LOCALIZATION NOTE (htmlPanel.tooltiptext): The text that appears when a user
+hovers over the HTML panel's toolbar button. -->
+<!ENTITY htmlPanel.tooltiptext        "Panel HTML">
+
+<!-- LOCALIZATION NOTE (htmlPanel.accesskey): The key bound to the HTML panel's
+toolbar button -->
+<!ENTITY htmlPanel.accesskey          "H">

@@ -79,6 +79,7 @@
 <!ENTITY char_encoding "Kódovanie znakov">
 
 <!ENTITY share "Zdieľať">
+<!ENTITY share_title "Zdieľať cez">
 <!ENTITY save_as_pdf "Uložiť ako PDF">
 
 <!ENTITY contextmenu_open_new_tab "Otvoriť na novej karte">

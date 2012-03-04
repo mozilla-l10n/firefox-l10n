@@ -255,6 +255,9 @@
 <!ENTITY calendar.context.postpone.1week.label      "O jeden týždeň">
 <!ENTITY calendar.context.postpone.1week.accesskey  "d">
 
+<!ENTITY calendar.copylink.label       "Kopírovať adresu odkazu">
+<!ENTITY calendar.copylink.accesskey   "K">
+
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
      task action buttons -->

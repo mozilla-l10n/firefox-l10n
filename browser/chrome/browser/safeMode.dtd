@@ -39,6 +39,9 @@
 <!ENTITY safeModeDialog.title         "Núdzový režim aplikácie &brandShortName;">
 <!ENTITY window.width                 "37em">
 
+<!ENTITY autoSafeModeIntro.label      "&brandShortName; bol počas štartu neočakávane ukončený">
+<!ENTITY autoSafeModeDescription.label "Ospravedlňujeme sa. &brandShortName; je spustený v núdzovom režime, ktorý dočasne zakáže vaše nastavenia, rozšírenia a témy.">
+
 <!ENTITY safeModeDescription.label    "&brandShortName; je spustený v núdzovom režime, ktorý dočasne zakáže vaše nastavenia, rozšírenia a témy.">
 <!ENTITY safeModeDescription2.label   "Vyberte zmeny, ktoré chcete natrvalo vykonať:">
 
