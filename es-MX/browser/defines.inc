@@ -4,6 +4,6 @@
 
 # If non-English locales wish to credit multiple contributors, uncomment this
 # variable definition and use the format specified.
-#define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>Mozilla M&#233;xico &#40;Responsable: Ricardo Meza&#41;</em:contributor>
+#define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>Mozilla M&#233;xico &#40;Responsable: Mauricio Navarro&#41;</em:contributor>
 
 #unfilter emptyLines

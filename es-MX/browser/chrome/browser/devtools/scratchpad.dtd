@@ -60,6 +60,12 @@
 <!ENTITY contentContext.accesskey "C">
 <!ENTITY browserContext.label "Navegador">
 <!ENTITY browserContext.accesskey "B">
+<!ENTITY helpMenu.label "Help">
+<!ENTITY helpMenu.accesskey "H">
+<!ENTITY helpMenuWin.label "Help">
+<!ENTITY helpMenuWin.accesskey "H">
+<!ENTITY documentationLink.label "Scratchpad Help on MDN">
+<!ENTITY documentationLink.accesskey "D">
 <!ENTITY resetContext2.label "Resetear variables">
 <!ENTITY resetContext2.accesskey "T">
 <!ENTITY executeMenu.label "Ejecutar">

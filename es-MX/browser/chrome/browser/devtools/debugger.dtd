@@ -1,0 +1,6 @@
+<!ENTITY debuggerMenu.label "Script Debugger">
+<!ENTITY debuggerMenu.commandkey "S">
+<!ENTITY debuggerUI.closeButton "Close">
+<!ENTITY debuggerUI.stackTitle "Call stack">
+<!ENTITY debuggerUI.scriptTitle "Script">
+<!ENTITY debuggerUI.propertiesTitle "Scope variables">
