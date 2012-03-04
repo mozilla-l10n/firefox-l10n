@@ -16,7 +16,13 @@
 <!ENTITY aboutSupport.appBasicsTitle "Základné nastavenia aplikácie">
 <!ENTITY aboutSupport.appBasicsName "Názov">
 <!ENTITY aboutSupport.appBasicsVersion "Verzia">
+
 <!ENTITY aboutSupport.appBasicsProfileDir "Priečinok profilu">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Priečinok profilu">
+
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Povolené zásuvné moduly">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Konfigurácia zostavenia">
 <!ENTITY aboutSupport.appBasicsUserAgent "Reťazec User Agent">
@@ -38,6 +44,9 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsValue "Hodnota">
 
 <!ENTITY aboutSupport.graphicsTitle "Grafika">
+
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "Inkrementálne GC">
 
 <!ENTITY aboutSupport.installationHistoryTitle "História inštalácií">
 <!ENTITY aboutSupport.updateHistoryTitle "História aktualizácií">

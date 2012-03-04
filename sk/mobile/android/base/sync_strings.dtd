@@ -21,7 +21,7 @@
 <!ENTITY sync.subtitle.header.label 'Zadajte tento kód na svojom počítači'>
 <!ENTITY sync.subtitle.connectlocation.label 'Zvoľte položku “&sync.title.pair.label;” v sekcii &syncBrand.shortName.label; v okne nastavení Firefoxu vo vašom počítači.'>
 <!ENTITY sync.pin.oneline.label '...'>
-<!ENTITY sync.link.advancedsetup.label 'Rozšírené nastavenia...'>
+<!ENTITY sync.link.advancedsetup.label 'Rozšírené nastavenia…'>
 
 <!-- Account Login Screen -->
 <!ENTITY sync.subtitle.account.label 'Zadajte informácie o svojom účte služby &syncBrand.fullName.label;'>

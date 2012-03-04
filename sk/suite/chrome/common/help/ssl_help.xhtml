@@ -43,22 +43,22 @@ postupujte nasledovne:</p>
   Protokol TLS (The Transport Layer Security) je štandard IETF založený na SSL. TLS 1.0
   je vlastne SSL 3.1.</p>
 
-<p>V predvolenom stave sú nasledujúce 2 políčka označené, aby bola zaručená funkčnosť prehliadača
+<p>V predvolenom stave sú tieto políčka označené, aby bola zaručená funkčnosť prehliadača
   so staršími aj novšími webovými servermi:</p>
 
 <ul>
-  <li><strong>Povoliť SSL verzie 3</strong>: Umožní novším webovým serverom spolupracovať s
+  <li><strong>Povoliť SSL 3.0</strong>: umožňuje webovým serverom podporujúcim SSL 3.0 spolupracovať s
     prehliadačom.</li>
-  <li><strong>Povoliť TLS</strong>: Umožňuje webovým serverom, ktoré podporujú TLS, využívať
+  <li><strong>Povoliť TLS 1.0</strong>: umožňuje webovým serverom podporujúcim TLS 1.0 využívať
     jeho výhody.</li>
 </ul>
 
 <p><strong>Dôležitá poznámka TLS</strong>: Niektoré webové servery nepodporujú SSL korektne a
 nedokážu komunikovať prostredníctvom TLS. Tieto servery sú známe ako <q>netolerantné k TLS</q>.</p>
 
-<p>Ak je označená možnosť Povoliť TLS, prehliadač sa pokúsi použiť protokol TLS pri nadväzovaní
+<p>Ak je označená možnosť Povoliť TLS 1.0, prehliadač sa pokúsi použiť protokol TLS pri nadväzovaní
   zabezpečených spojení so serverom. Ak podobné spojenie zlyhá, pretože server je netolerantný k TLS,
-  prehliadač použije SSL 3.0.</p>
+  prehliadač použije SSL 3.0 (ak je povolené).</p>
 
 <h3 id="ssl_warnings">Upozornenia SSL</h3>
 

@@ -152,6 +152,8 @@
 <!ENTITY showMessengerToolbarCmd.accesskey "n">
 <!ENTITY showSearchToolbarCmd.label "Panel Vyhľadávanie">
 <!ENTITY showSearchToolbarCmd.accesskey "V">
+<!ENTITY showTabsToolbarCmd.label "Panel kariet">
+<!ENTITY showTabsToolbarCmd.accesskey "e">
 
 <!ENTITY messagePaneLayoutStyle.label "Rozmiestnenie">
 <!ENTITY messagePaneLayoutStyle.accesskey "R">
