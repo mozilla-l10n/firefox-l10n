@@ -1,0 +1,14 @@
+<!ENTITY about.version "versión">
+<!ENTITY about.credits.beforeLink "Ve la lista de ">
+<!ENTITY about.credits.linkTitle "contribuyentes">
+<!ENTITY about.credits.afterLink " al proyecto Mozilla.">
+<!ENTITY about.license.beforeTheLink "Lee la ">
+<!ENTITY about.license.linkTitle "información de licencia">
+<!ENTITY about.license.afterTheLink " para este producto.">
+<!ENTITY about.relnotes.beforeTheLink "Lee la ">
+<!ENTITY about.relnotes.linkTitle "notas de publicación">
+<!ENTITY about.relnotes.afterTheLink " para esta versión.">
+<!ENTITY about.buildconfig.beforeTheLink "Ve la  ">
+<!ENTITY about.buildconfig.linkTitle "configuración de compilación">
+<!ENTITY about.buildconfig.afterTheLink " usado para esta versión.">
+<!ENTITY about.buildIdentifier "Identificador de compilación: ">
