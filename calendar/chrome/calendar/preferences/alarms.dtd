@@ -45,7 +45,7 @@
 <!ENTITY pref.playasound "Soinu bat jo">
 <!ENTITY pref.calendar.alarms.playsound.accessKey "s">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "Erabili lehenetsitako soinua">
-<!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "L">
+<!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "l">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Arakatu…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "A">
 <!ENTITY pref.calendar.alarms.sound.preview.label "Aurreikusi">

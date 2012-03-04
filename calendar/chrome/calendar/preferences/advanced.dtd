@@ -57,7 +57,7 @@
 
 <!ENTITY pref.calendar.advanced.savedPasswords.intro "&brandShortName;(e)k zure egutegien pasahitzak gogora ditzake. Modu honetan ez dituzu behin eta berriro idatzi beharko.">
 <!ENTITY pref.calendar.advanced.useMasterPassword.label "Erabili pasahitz nagusia gordetako pasahitzak zifratzeko">
-<!ENTITY pref.calendar.advanced.useMasterPassword.accesskey "P">
+<!ENTITY pref.calendar.advanced.useMasterPassword.accesskey "p">
 <!ENTITY pref.calendar.advanced.masterPassword.intro "Pasahitz nagusiak zure pasahitz guztiak babesten ditu, baina saio bakoitzean idatzi egin behar izango duzu.">
 <!ENTITY pref.calendar.advanced.changeMasterPassword.label "Aldatu pasahitz nagusia…">
 <!ENTITY pref.calendar.advanced.changeMasterPassword.accesskey "n">
@@ -72,7 +72,7 @@
 <!ENTITY pref.calendar.advanced.update.enableAddonsUpdate.accesskey "n">
 <!ENTITY pref.calendar.advanced.update.whenUpdatesFound.label "&brandShortName;(r)entzako eguneraketak aurkitzerakoan:">
 <!ENTITY pref.calendar.advanced.update.modeAskMe.label "Galdetu niri zer egin">
-<!ENTITY pref.calendar.advanced.update.modeAskMe.accesskey "g">
+<!ENTITY pref.calendar.advanced.update.modeAskMe.accesskey "G">
 <!ENTITY pref.calendar.advanced.update.modeAuto.label "Deskargatu eta instalatu automatikoki eguneraketa">
 <!ENTITY pref.calendar.advanced.update.modeAuto.accesskey "D">
 <!ENTITY pref.calendar.advanced.update.modeAutoWarn.label "Ohartaraz nazazu honek gehigarriren bat desgaituko badu">

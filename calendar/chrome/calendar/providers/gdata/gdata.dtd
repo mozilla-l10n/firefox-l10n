@@ -37,7 +37,7 @@
 <!ENTITY gdata-provider.label "Google Calendar">
 
 <!ENTITY gdata.privacy.default.label "Google lehenetsia">
-<!ENTITY gdata.privacy.default.accesskey "L">
+<!ENTITY gdata.privacy.default.accesskey "l">
 
 <!ENTITY gdata.migration.title "Irakurtzeko soilik diren egutegiak migratu">
 <!ENTITY gdata.migration.description "Google Calendar hornitzaileak irakurtzeko soilik gaitasuna duten hainbat egutegi dituzula detektatu du. Hauetako edozein egutegi eguneratu nahi baduzu, aukeratu itzazu azpian">
