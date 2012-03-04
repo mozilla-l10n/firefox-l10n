@@ -64,6 +64,7 @@
 <!ENTITY downloads "Descargas">
 <!ENTITY char_encoding "Codif. caracteres">
 <!ENTITY share "Compartir">
+<!ENTITY share_title "Compartir por">
 <!ENTITY save_as_pdf "Guardar como PDF">
 <!ENTITY contextmenu_open_new_tab "Abrir en una pestaña nueva">
 <!ENTITY contextmenu_remove_bookmark "Eliminar">
