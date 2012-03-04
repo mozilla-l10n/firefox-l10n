@@ -44,8 +44,8 @@
 <!ENTITY setPassword.meter.loading "Cargando">
 <!ENTITY resetPasswordButtonLabel "Restablecer">
 <!ENTITY resetPassword.title "Restablecer la contraseña maestra">
-<!ENTITY resetPassword.text "Si restableces tu contraseña maestra, se olvidarán las contraseñas web y de correo electrónico, los datos de formularios, certificados personales y claves privadas. ¿Realmente quieres restablecer tu contraseña maestra?">
-<!ENTITY getPassword.title "Introduzca la contraseña maestra">
+<!ENTITY resetPassword.text "Si restableces tu contraseña maestra, se borrarán las contraseñas web y de correo electrónico, los datos de formularios, certificados personales y claves privadas. ¿Realmente quieres restablecer tu contraseña maestra?">
+<!ENTITY getPassword.title "Introduce la contraseña maestra">
 <!ENTITY getPassword.tokenName2.label "Dispositivo de seguridad:">
 <!ENTITY getPassword.password.label "Contraseña:">
 <!ENTITY piperror.title "Error">
