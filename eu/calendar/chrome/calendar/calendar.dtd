@@ -64,6 +64,7 @@
 <!ENTITY calendar.events.filter.today.label "Gaurko gertaerak">
 <!ENTITY calendar.events.filter.future.label "Etorkizuneko gertaera guztiak">
 <!ENTITY calendar.events.filter.current.label "Hautaturiko eguna">
+<!ENTITY calender.events.filter.currentview.label "Gertaerak uneko ikuspegian">
 <!ENTITY calendar.events.filter.next7Days.label "Hurrengo 7 egunetako gertaerak">
 <!ENTITY calendar.events.filter.next14Days.label "Hurrengo 14 egunetako gertaerak">
 <!ENTITY calendar.events.filter.next31Days.label "Hurrengo 31 egunetako gertaerak">
@@ -178,6 +179,10 @@
 <!ENTITY calendar.task.category.button.tooltip  "Kategorizatu zereginak">
 <!ENTITY calendar.task.complete.button.tooltip  "Markatu hautatutako zereginak amaituta bezala">
 <!ENTITY calendar.task.priority.button.tooltip  "Aldatu lehentasuna">
+
+<!ENTITY calendar.task.text-filter.textbox.emptytext.base            "Iragazi zereginak... #1">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ktrl+Shift+K&gt;">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
 <!-- Statusbar -->
 
 <!ENTITY statusText.label            "Dokumentua: Eginda">
@@ -213,6 +218,8 @@
 <!ENTITY calendar.context.progress.accesskey          "u">
 <!ENTITY calendar.context.priority.label              "Lehentasuna">
 <!ENTITY calendar.context.priority.accesskey          "h">
+<!ENTITY calendar.context.postpone.label              "Atzeratu zeregina">
+<!ENTITY calendar.context.postpone.accesskey          "t">
 <!--=percent sign-->
 
 <!ENTITY percnt "&#38;#37;" >
@@ -232,13 +239,20 @@
 <!ENTITY progress.level.100.accesskey  "1">
 
 <!ENTITY priority.level.none                "Zehaztu gabea">
-<!ENTITY priority.level.none.accesskey      "s">
+<!ENTITY priority.level.none.accesskey      "t">
 <!ENTITY priority.level.low                 "Txikia">
-<!ENTITY priority.level.low.accesskey       "L">
+<!ENTITY priority.level.low.accesskey       "T">
 <!ENTITY priority.level.normal              "Normala">
 <!ENTITY priority.level.normal.accesskey    "N">
 <!ENTITY priority.level.high                "Altua">
-<!ENTITY priority.level.high.accesskey      "H">
+<!ENTITY priority.level.high.accesskey      "A">
+
+<!ENTITY calendar.context.postpone.1hour.label      "ordu bat">
+<!ENTITY calendar.context.postpone.1hour.accesskey  "o">
+<!ENTITY calendar.context.postpone.1day.label       "egun bat">
+<!ENTITY calendar.context.postpone.1day.accesskey   "g">
+<!ENTITY calendar.context.postpone.1week.label      "aste bat">
+<!ENTITY calendar.context.postpone.1week.accesskey  "a">
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
      task action buttons -->

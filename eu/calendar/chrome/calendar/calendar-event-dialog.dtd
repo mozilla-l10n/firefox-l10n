@@ -360,8 +360,6 @@
 <!ENTITY event.freebusy.next.slot               "Hurrengo tartea " >
 <!ENTITY event.freebusy.previous.slot           " Aurreko tartea" >
 <!ENTITY event.freebusy.zoom                    "Zooma:">
-<!ENTITY event.freebusy.plus                    "Hurrengo ordua" >
-<!ENTITY event.freebusy.minus                   "Aurreko ordua" >
 <!ENTITY event.freebusy.legend.free             "Libre" >
 <!ENTITY event.freebusy.legend.busy             "Okupatuta" >
 <!ENTITY event.freebusy.legend.busy_tentative   "Behin-behinekoa" >
