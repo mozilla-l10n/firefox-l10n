@@ -206,7 +206,7 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectMenu.label            "Preskúmať stránku">
+<!ENTITY inspectMenu.label            "Prieskumník stránok">
 <!ENTITY inspectMenu.accesskey        "P">
 <!ENTITY inspectMenu.commandkey       "I">
 
