@@ -21,6 +21,7 @@
    - Contributor(s):
    -   Terry Hayes <thayes@netscape.com>
    -   Mozilla México - Roberto Alvarado
+   -   Mozilla México - Roberto Alvarado
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -44,8 +45,8 @@
 <!ENTITY setPassword.meter.loading "Cargando">
 <!ENTITY resetPasswordButtonLabel "Restablecer">
 <!ENTITY resetPassword.title "Restablecer la contraseña maestra">
-<!ENTITY resetPassword.text "Si restableces tu contraseña maestra, se olvidarán las contraseñas web y de correo electrónico, los datos de formularios, certificados personales y claves privadas. ¿Realmente quieres restablecer tu contraseña maestra?">
-<!ENTITY getPassword.title "Introduzca la contraseña maestra">
+<!ENTITY resetPassword.text "Si restableces tu contraseña maestra, se borrarán las contraseñas web y de correo electrónico, los datos de formularios, certificados personales y claves privadas. ¿Realmente quieres restablecer tu contraseña maestra?">
+<!ENTITY getPassword.title "Introduce la contraseña maestra">
 <!ENTITY getPassword.tokenName2.label "Dispositivo de seguridad:">
 <!ENTITY getPassword.password.label "Contraseña:">
 <!ENTITY piperror.title "Error">
@@ -70,7 +71,7 @@
 <!ENTITY caCertExists.title "El certificado existe">
 <!ENTITY caCertExists.message "El certificado ya existe.">
 <!ENTITY clientAuthAsk.title "Petición de identificación de usuario">
-<!ENTITY clientAuthAsk.message1 "El siguiente sitio ha pedido que usted se identifique con un certificado:">
+<!ENTITY clientAuthAsk.message1 "El siguiente sitio ha pedido que te identifiques con un certificado:">
 <!ENTITY clientAuthAsk.message2 "Elija un certificado para presentarlo como identificación:">
 <!ENTITY clientAuthAsk.message3 "Detalles del certificado seleccionado:">
 <!ENTITY certPicker.title "Seleccionar certificado">
