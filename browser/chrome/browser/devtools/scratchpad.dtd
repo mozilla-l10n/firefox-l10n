@@ -48,7 +48,7 @@
 <!ENTITY run.label "Esegui">
 <!ENTITY run.accesskey "s">
 <!ENTITY run.key "r">
-<!ENTITY inspect.label "Ispeziona">
+<!ENTITY inspect.label "Analizza">
 <!ENTITY inspect.accesskey "z">
 <!ENTITY inspect.key "i">
 <!ENTITY display.label "Visualizza">

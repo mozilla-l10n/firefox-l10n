@@ -151,7 +151,7 @@
 <!ENTITY inspectMenu.label "Analisi pagina">
 <!ENTITY inspectMenu.accesskey "s">
 <!ENTITY inspectMenu.commandkey "I">
-<!ENTITY inspectContextMenu.label "Ispeziona elemento">
+<!ENTITY inspectContextMenu.label "Analizza elemento">
 <!ENTITY inspectContextMenu.accesskey "t">
 <!ENTITY scratchpad.label "Blocco per gli appunti">
 <!ENTITY scratchpad.accesskey "B">
