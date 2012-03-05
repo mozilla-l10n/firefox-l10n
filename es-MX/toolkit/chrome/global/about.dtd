@@ -3,7 +3,7 @@
 <!ENTITY about.credits.linkTitle "contribuyentes">
 <!ENTITY about.credits.afterLink " al proyecto Mozilla.">
 <!ENTITY about.license.beforeTheLink "Lee la ">
-<!ENTITY about.license.linkTitle "Información de licencia">
+<!ENTITY about.license.linkTitle "información de licencia">
 <!ENTITY about.license.afterTheLink " para este producto.">
 <!ENTITY about.relnotes.beforeTheLink "Lee la ">
 <!ENTITY about.relnotes.linkTitle "notas de publicación">
