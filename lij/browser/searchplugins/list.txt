@@ -1,7 +1,7 @@
-amazondotcom
+amazon-it
 bing
-eBay
+eBay-it
 google
-twitter
-wikipedia
-yahoo
+paroledigenova-lij
+wikipedia-lij
+yahoo-it
