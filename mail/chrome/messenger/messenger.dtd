@@ -135,8 +135,8 @@
 <!ENTITY messagePaneWide.accesskey "Ш">
 <!ENTITY messagePaneVertical.label "Вертикальне">
 <!ENTITY messagePaneVertical.accesskey "В">
-<!ENTITY showFolderPaneCmd.label "Folder Pane">
-<!ENTITY showFolderPaneCmd.accesskey "F">
+<!ENTITY showFolderPaneCmd.label "Панель тек">
+<!ENTITY showFolderPaneCmd.accesskey "т">
 <!ENTITY showMessageCmd.label "Область перегляду листів">
 <!ENTITY showMessageCmd.accesskey "О">
 
@@ -776,7 +776,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have
-     not changed 
+     not changed
      -->
 <!ENTITY quickSearchCmd.key "k">
 <!-- LOCALIZATION NOTE (searchAllMessages.label.base):
