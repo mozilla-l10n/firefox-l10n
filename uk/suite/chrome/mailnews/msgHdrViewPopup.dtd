@@ -44,6 +44,10 @@
 <!ENTITY CopyEmailAddress.accesskey        "К">
 <!ENTITY CreateFilterFrom.label            "Створити фільтр з…">
 <!ENTITY CreateFilterFrom.accesskey        "С">
+<!ENTITY openInBrowser.label               "Відкрити у браузері">
+<!ENTITY openInBrowser.accesskey           "б">
+<!ENTITY bookmarkLinkCmd.label             "Закласти це посилання…">
+<!ENTITY bookmarkLinkCmd.accesskey         "З">
 <!ENTITY copyLinkCmd.label                 "Копіювати посилання">
 <!ENTITY copyLinkCmd.accesskey             "К">
 <!ENTITY CopyMessageId.label               "Копіювати ідентифікатор листа">
