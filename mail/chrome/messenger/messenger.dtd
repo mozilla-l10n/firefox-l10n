@@ -332,6 +332,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY thisFolder.label "Ця тека">
 <!ENTITY thisFolder.accesskey "Ц">
 <!ENTITY goRecentlyClosedTabs.label "Недавно закриті вкладки">
+<!ENTITY goRecentlyClosedTabs.accesskey "к">
 <!ENTITY startPageCmd.label "Початкова сторінка">
 <!ENTITY startPageCmd.accesskey "ч">
 
@@ -776,7 +777,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have
-     not changed
+     not changed 
      -->
 <!ENTITY quickSearchCmd.key "k">
 <!-- LOCALIZATION NOTE (searchAllMessages.label.base):
