@@ -2,7 +2,7 @@
 <!ENTITY search.placeholder "Buscar complementos">
 <!ENTITY search.commandkey "f">
 <!ENTITY loading.label "Cargando...">
-<!ENTITY listEmpty.installed.label "Usted no tiene complementos de este tipo instalados">
+<!ENTITY listEmpty.installed.label "No tienes complementos de este tipo instalados">
 <!ENTITY listEmpty.availableUpdates.label "No se encontraron actualizaciones">
 <!ENTITY listEmpty.recentUpdates.label "No has actualizado recientemente ningún complemento">
 <!ENTITY listEmpty.findUpdates.label "Buscar actualizaciones">
@@ -89,9 +89,9 @@
 <!ENTITY detail.updateType "Actualizaciones automáticas">
 <!ENTITY detail.updateDefault.label "Predeterminado">
 <!ENTITY detail.updateDefault.tooltip "Instalar automáticamente las actualizaciones sólo si predeterminado">
-<!ENTITY detail.updateAutomatic.label "Encender">
+<!ENTITY detail.updateAutomatic.label "Activar">
 <!ENTITY detail.updateAutomatic.tooltip "Instalar automáticamente las actualizaciones">
-<!ENTITY detail.updateManual.label "Apagar">
+<!ENTITY detail.updateManual.label "Desactivar">
 <!ENTITY detail.updateManual.tooltip "No instalar actualizaciones automáticamente">
 <!ENTITY detail.home "Página de inicio">
 <!ENTITY detail.repository "Perfil de complemento">
@@ -112,7 +112,7 @@
 <!ENTITY sort.name.tooltip "Ordenar por nombre">
 <!ENTITY sort.dateUpdated.label "Última actualización">
 <!ENTITY sort.dateUpdated.tooltip "Ordenar por fecha de actualización">
-<!ENTITY sort.relevance.label "Mejor partido">
+<!ENTITY sort.relevance.label "Puntuación">
 <!ENTITY sort.relevance.tooltip "Ordenar por relevancia">
 <!ENTITY sort.price.label "Precio">
 <!ENTITY sort.price.tooltip "Ordenar por precio">

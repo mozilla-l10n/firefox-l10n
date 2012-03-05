@@ -3,7 +3,7 @@
 <!ENTITY muteButton.muteLabel "Silenciar">
 <!ENTITY muteButton.unmuteLabel "Escuchar">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Pantalla completa">
-<!ENTITY fullscreenButton.exitfullscreenlabel "Exit Full Screen">
+<!ENTITY fullscreenButton.exitfullscreenlabel "Salir de pantalla completa">
 <!ENTITY stats.media "Medios">
 <!ENTITY stats.size "Tamaño">
 <!ENTITY stats.activity "Actividad">

@@ -17,7 +17,7 @@
 <!ENTITY netInterrupt.title "Se interrumpió la transferencia de datos">
 <!ENTITY netInterrupt.longDesc "<p>El navegador se conectó satisfactoriamente pero la conexión fue interrumpida mientras se realizaba la transferencia de datos.  Intente nuevamente.</p><ul><li>¿No puede cargar ningún otro Sitio Web? Compruebe la conexión de red de su computadora.</li><li>¿Los problemas continúan? Consulte con el Administrador de la Red o con su proveedor de Acceso a Internet.</li></ul>">
 <!ENTITY notCached.title "Documento expirado">
-<!ENTITY notCached.longDesc "<p>El documento solicitado no está disponible en la caché del navegador.</p><ul><li>Como medida de seguridad, el navegador no volverá automáticamente a solicitar documentos con información privada.</li><li>Presiona Reintentar para volver a solicitar el documento del sitio web.</li></ul>">
+<!ENTITY notCached.longDesc "<p>El documento solicitado no está disponible en la caché del navegador.</p><ul><li>Como medida de seguridad, el navegador no vuelve automáticamente a solicitar documentos con información privada.</li><li>Presiona Reintentar para volver a solicitar el documento del sitio web.</li></ul>">
 <!ENTITY netOffline.title "Modo desconectado">
 <!ENTITY netOffline.longDesc2 "<p>El navegador está operando en el modo fuera de línea y no puede conectar con el elemento solicitado.</p><ul><li>¿La computadora está conectada a una red activa?</li><li>Pulsa &quot;Intentar de nuevo&quot; para cambiar al modo en línea y cargar la página.</li></ul>">
 <!ENTITY contentEncodingError.title "Error de codificación de contenido">
@@ -56,8 +56,8 @@
 ">
 <!ENTITY phishingBlocked.title "¡Sospecha de Sitio Web falsificado!">
 <!ENTITY phishingBlocked.longDesc "
-<p>Si introduce algún dato puede ser víctima de suplantación de identidad entre otros fraudes.</p>
-<p>La falsificación de Sitios web se usa en una técnica llamada Ataque de phishing, en la cual, se usan Sitios web y/o mensajes de correo electrónico que imitan a los originales en los que, tal vez, usted confía.</p>
+<p>Si introduces algún dato puedes ser víctima de suplantación de identidad entre otros fraudes.</p>
+<p>La falsificación de Sitios web se usa en una técnica llamada Ataque de phishing, en la cual, se usan Sitios web y/o mensajes de correo electrónico que imitan a los originales en los que, tal vez, confías.</p>
 ">
 <!ENTITY cspFrameAncestorBlocked.title "Bloqueado por la Política de Seguridad de Contenido">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>El navegador ha impedido cargar esta página de esta manera porque la página tiene una política de seguridad de contenidos que no lo permite.</p>">
