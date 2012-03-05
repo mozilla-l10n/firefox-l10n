@@ -58,15 +58,6 @@
 <!ENTITY wrapOutMsg.accesskey                 "П">
 <!ENTITY char.label                           "символів">
 
-<!ENTITY spellingHeader.label                 "Орфографія">
-<!ENTITY spellCheck.label                     "Перевіряти орфографію перед надсиланням листа">
-<!ENTITY spellCheck.accesskey                 "П">
-<!ENTITY spellCheckInline.label               "Перевіряти орфографію протягом набирання тексту">
-<!ENTITY spellCheckInline.accesskey           "e">
-<!ENTITY languagePopup.label                  "Мова:">
-<!ENTITY languagePopup.accessKey              "М">
-<!ENTITY moreDictionaries.label               "Звантажити ще словники…">
-
 <!ENTITY defaultMessagesHeader.label          "Типово для листів HTML">
 <!ENTITY font.label                           "Шрифт:">
 <!ENTITY font.accesskey                       "Ш">

@@ -54,15 +54,23 @@
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
+<!ENTITY portNum.label "Порт:">
+<!ENTITY portNum.accesskey "о">
+<!ENTITY defaultPortLabel.label "Типовий:">
+<!ENTITY defaultPortValue.label "">
 <!ENTITY leaveMsgsOnSrvr.label "Залишати листи на сервері">
 <!ENTITY leaveMsgsOnSrvr.accesskey "З">
 
-<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
+<!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
+     haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
 -->
-<!ENTITY haveSmtp1.prefix "Буде використано наявний сервер виходових листів (SMTP), «">
-<!ENTITY haveSmtp1.suffix2 "&quot;, буде використано. Можете змінювати налаштування виходового сервера, вибравши «Параметри облікових записів пошти та новин» з меню «Зміни».">
+<!ENTITY modifyOutgoing.suffix "Ви можете змінити налаштування виходового сервера у «Параметрах облікових записів пошти та новин».">
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
+-->
+<!ENTITY haveSmtp1.prefix "Буде використано наявний сервер виходових листів (SMTP) «">
+<!ENTITY haveSmtp1.suffix3 "».">
 
 <!-- Entities for Login page -->
 
@@ -75,18 +83,18 @@
 <!ENTITY usernameSmtpDesc.label "Введіть користувача, надане поштовим провайдером для виходових листів (зазвичай таке ж, як і для вхідних).">
 <!ENTITY usernameSmtpLabel.label "Користувача для виходових листів:">
 <!ENTITY usernameSmtpLabel.accesskey "и">
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp2.prefix "Буде використане наявний користувач (SMTP), «">
-<!ENTITY haveSmtp2.suffix2 "&quot;, буде використано. Можете змінити налаштування виходового сервера, вибравши «Параметри облікових записів пошти та новин» з меню «Зміни».">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
+<!ENTITY haveSmtp2.prefix "Буде використаний поточний користувач (SMTP), «">
+<!ENTITY haveSmtp2.suffix3 "».">
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Ваш сервер SMTP, «">
-<!ENTITY haveSmtp3.suffix2 "&quot;, тотожний до вашого входового сервера, ваш входовий користувач буде використано для цього. Можете змінити налаштування виходового сервера, вибравши «Параметри облікових записів пошти та новин» з меню «Зміни».">
+<!ENTITY haveSmtp3.suffix3 "», ідентичний вашому входовому серверу, для доступу буде використано дані входового користувача.">
 
 <!-- Entities for Account name page -->
 
