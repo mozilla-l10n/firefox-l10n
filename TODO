@@ -43,3 +43,7 @@ M mail/chrome/overrides/netError.dtd
 ? mail/chrome/messenger/newmailaccount/accountProvisioner.dtd
 ? mail/chrome/messenger/newmailaccount/accountProvisioner.properties
 
+
+
+toolkit/chrome/global/aboutSupport.dtd
+перевірити aboutSupport.showDir.label на різних системах

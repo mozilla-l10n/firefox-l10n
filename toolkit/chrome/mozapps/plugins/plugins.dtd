@@ -34,8 +34,8 @@
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "Перезавантажити сторінку">
 <!ENTITY reloadPlugin.post                                   " щоб спробувати ще раз.">
-<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.please                                       "Послати звіт">
+<!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.checkbox                                     "…та послати звіт">
 <!ENTITY report.submitting                                   "Шлю звіт…">
 <!ENTITY report.submitted                                    "Звіт відіслано.">
 <!ENTITY report.disabled                                     "Звітування вимкнене.">
