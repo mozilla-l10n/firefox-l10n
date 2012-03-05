@@ -9,6 +9,7 @@
 </Url>
 <Url type="text/html" method="GET" template="http://hu.wikipedia.org/wiki/Speciális:Keresés">
   <Param name="search" value="{searchTerms}"/>
+  <Param name="sourceid" value="Mozilla-search"/>
 </Url>
 <SearchForm>http://hu.wikipedia.org/wiki/Speciális:Keresés</SearchForm>
 </SearchPlugin>
