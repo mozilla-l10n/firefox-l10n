@@ -16,8 +16,8 @@
 
 <!ENTITY navbarCmd.label "Панель навігації">
 <!ENTITY navbarCmd.accesskey "П">
-<!ENTITY personalbarCmd.label "Особиста панель">
-<!ENTITY personalbarCmd.accesskey "О">
+<!ENTITY bookmarksToolbarCmd.label     "Панель закладок">
+<!ENTITY bookmarksToolbarCmd.accesskey "к">
 
 <!ENTITY closeWindow.label "Закрити вікно">
 <!ENTITY closeWindow.accesskey "З">
@@ -29,7 +29,7 @@
 <!ENTITY feedsMenu.accesskey "П">
 
 <!ENTITY menuBar.tooltip                  "Меню">
-<!ENTITY personalToolbar.tooltip          "Особиста панель">
+<!ENTITY bookmarksToolbar.tooltip         "Панель закладок">
 <!ENTITY navigationToolbar.tooltip        "Панель навігації">
 
 <!-- Toolbar items --> 
