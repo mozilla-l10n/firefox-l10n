@@ -67,3 +67,10 @@
 <!ENTITY fontColor.accesskey                  "x">
 <!ENTITY bgColor.label                        "Fond :">
 <!ENTITY bgColor.accesskey                    "d">
+
+<!ENTITY selectHeaderType.label               "Sélectionner le type de l'en-tête de réponse :">
+<!ENTITY selectHeaderType.accesskey           "e">
+<!ENTITY noReplyOption.label                  "Pas d'en-tête de réponse">
+<!ENTITY authorWroteOption.label              "[Author] a écrit :">
+<!ENTITY onDateWroteOption.label              "Le [date], [author] a écrit :">
+<!ENTITY authorOnDateWroteOption.label        "[Author] a écrit le [date] :">
