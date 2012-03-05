@@ -64,7 +64,7 @@
 <!ENTITY  finishedPage.title              "An hizivadur zo prest da vezañ staliet">
 <!ENTITY  finishedPage.text               "Staliet e vo an hizivadur ar wech a zeu ma vo loc'het &brandShortName;. Gallout a rit adloc'hañ &brandShortName; bremañ, pe kenderc'hel gant ho labour.">
 
-<!ENTITY  finishedBackgroundPage.text     "Pellgarget eo bet un hizivadur pouezus gant &brandShortName; ha prest eo da vezañ staliet.">
+<!ENTITY  finishedBackgroundPage.text     "Pellgarget ez eus bet un hizivadur pouezus gant &brandShortName; ha prest eo da vezañ staliet.">
 <!ENTITY  finishedBackground.name         "Hizivaat :">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Staliet e vo an hizivadur ar wech a zeu ma vo loc'het &brandShortName;. Gallout a rit adloc'hañ &brandShortName; bremañ, pe kenderc'hel gant ho labour.">
