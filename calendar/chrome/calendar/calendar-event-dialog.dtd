@@ -361,8 +361,6 @@
 <!ENTITY event.freebusy.next.slot               "Такий інтервал часу " >
 <!ENTITY event.freebusy.previous.slot           " Попередній інтервал" >
 <!ENTITY event.freebusy.zoom                    "Масштаб:">
-<!ENTITY event.freebusy.plus                    "Наступний час" >
-<!ENTITY event.freebusy.minus                   "Попередній час" >
 <!ENTITY event.freebusy.legend.free             "Вільний" >
 <!ENTITY event.freebusy.legend.busy             "Зайнятий" >
 <!ENTITY event.freebusy.legend.busy_tentative   "Не визначено" >

@@ -74,30 +74,6 @@
 <!ENTITY lightning.menu.eventtask.label                "Події та завдання">
 <!ENTITY lightning.menu.eventtask.accesskey            "з">
 
-<!-- Mode Toolbar -->
-<!ENTITY lightning.toolbar.mail.label         "Пошта">
-<!ENTITY lightning.toolbar.mail.accesskey     "П">
-<!ENTITY lightning.toolbar.calendar.label     "Календар">
-<!ENTITY lightning.toolbar.calendar.tooltip   "Перемкнутись на вкладку календаря">
-<!ENTITY lightning.toolbar.calendar.accesskey "к">
-<!ENTITY lightning.toolbar.task.label         "Завдання">
-<!ENTITY lightning.toolbar.task.tooltip       "Перемкнутись на вкладку завдань">
-<!ENTITY lightning.toolbar.task.accesskey     "З">
-
-<!-- Toolbar write button -->
-<!ENTITY lightning.toolbar.newevent.label     "Подія">
-<!ENTITY lightning.toolbar.newtask.label      "Завдання">
-
-<!-- Messenger Toolbar -->
-<!ENTITY lightning.toolbar.day.label                 "День">
-<!ENTITY lightning.toolbar.day.accesskey             "Д">
-<!ENTITY lightning.toolbar.week.label                "Тиждень">
-<!ENTITY lightning.toolbar.week.accesskey            "Т">
-<!ENTITY lightning.toolbar.multiweek.label           "Кілька тижнів">
-<!ENTITY lightning.toolbar.multiweek.accesskey       "К">
-<!ENTITY lightning.toolbar.month.label               "Місяць">
-<!ENTITY lightning.toolbar.month.accesskey           "М">
-
 <!-- properties dialog, calendar creation wizard -->
 <!ENTITY lightning.calendarproperties.showevents.inagenda.label "Показати сьогоднішні події">
 <!ENTITY lightning.calendarproperties.showtasks.label           "Показати завдання на сьогодні">
