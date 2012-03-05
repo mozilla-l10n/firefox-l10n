@@ -56,8 +56,8 @@
 ">
 <!ENTITY phishingBlocked.title "¡Sospecha de Sitio Web falsificado!">
 <!ENTITY phishingBlocked.longDesc "
-<p>Si introduce algún dato puede ser víctima de suplantación de identidad entre otros fraudes.</p>
-<p>La falsificación de Sitios web se usa en una técnica llamada Ataque de phishing, en la cual, se usan Sitios web y/o mensajes de correo electrónico que imitan a los originales en los que, tal vez, usted confía.</p>
+<p>Si introduces algún dato puedes ser víctima de suplantación de identidad entre otros fraudes.</p>
+<p>La falsificación de Sitios web se usa en una técnica llamada Ataque de phishing, en la cual, se usan Sitios web y/o mensajes de correo electrónico que imitan a los originales en los que, tal vez, confías.</p>
 ">
 <!ENTITY cspFrameAncestorBlocked.title "Bloqueado por la Política de Seguridad de Contenido">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>El navegador ha impedido cargar esta página de esta manera porque la página tiene una política de seguridad de contenidos que no lo permite.</p>">
