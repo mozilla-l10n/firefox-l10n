@@ -67,3 +67,11 @@
 <!ENTITY fontColor.accesskey                  "e">
 <!ENTITY bgColor.label                        "Achtergrond:">
 <!ENTITY bgColor.accesskey                    "A">
+
+<!ENTITY selectHeaderType.label               "Antwoordregeltype selecteren :">
+<!ENTITY selectHeaderType.accesskey           "e">
+<!ENTITY noReplyOption.label                  "Geen antwoordregel">
+<!ENTITY authorWroteOption.label              "[Author] schreef:">
+<!ENTITY onDateWroteOption.label              "Op [date] [author] schreef:">
+<!ENTITY authorOnDateWroteOption.label        "[Author] op [date] schreef:">
+
