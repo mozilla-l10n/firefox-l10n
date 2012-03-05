@@ -1,0 +1,6 @@
+<!-- These strings are used in the about:newtab page -->
+<!ENTITY newtab.pageTitle "Nij ljepblêd">
+
+<!ENTITY newtab.show "De nije ljepblêdside toane">
+<!ENTITY newtab.hide "De nije ljepblêdside ferstoppe">
+<!ENTITY newtab.reset "De nije ljepblêdside werinisjalisearje">
