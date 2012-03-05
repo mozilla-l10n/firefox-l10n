@@ -216,9 +216,14 @@ can reach it easily. -->
 <!ENTITY inspectPanelTitle.label      "HTML">
 <!ENTITY inspectButton.label          "Ynspektearje">
 <!ENTITY inspectButton.accesskey      "Y">
-<!ENTITY inspect3DButton.label        "3D">
-<!ENTITY inspect3DButton.accesskey    "3">
 <!ENTITY inspectCloseButton.tooltiptext "Ynspektor slute">
+
+<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
+  -  alternate view for the Inspector, creating a 3D visualization of the
+  -  webpage. -->
+<!ENTITY inspect3DViewButton.label        "3D byld">
+<!ENTITY inspect3DViewButton.accesskey    "b">
+
 <!ENTITY inspectStyleButton.label     "Styl">
 <!ENTITY inspectStyleButton.accesskey "S">
 
