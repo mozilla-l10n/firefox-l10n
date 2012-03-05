@@ -1,5 +1,4 @@
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
-%netErrorAppDTD;
 <!ENTITY loadError.label "Error al cargar la página">
 <!ENTITY retry.label "Reintentar">
 <!ENTITY connectionFailure.title "Error al conectar">
@@ -56,8 +55,8 @@
 ">
 <!ENTITY phishingBlocked.title "¡Sospecha de Sitio Web falsificado!">
 <!ENTITY phishingBlocked.longDesc "
-<p>Si introduce algún dato puede ser víctima de suplantación de identidad entre otros fraudes.</p>
-<p>La falsificación de Sitios web se usa en una técnica llamada Ataque de phishing, en la cual, se usan Sitios web y/o mensajes de correo electrónico que imitan a los originales en los que, tal vez, usted confía.</p>
+<p>Si introduces algún dato puedes ser víctima de suplantación de identidad entre otros fraudes.</p>
+<p>La falsificación de Sitios web se usa en una técnica llamada Ataque de phishing, en la cual, se usan Sitios web y/o mensajes de correo electrónico que imitan a los originales en los que, tal vez, confías.</p>
 ">
 <!ENTITY cspFrameAncestorBlocked.title "Bloqueado por la Política de Seguridad de Contenido">
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>El navegador ha impedido cargar esta página de esta manera porque la página tiene una política de seguridad de contenidos que no lo permite.</p>">
@@ -65,3 +64,4 @@
 <!ENTITY corruptedContentError.longDesc "<p>La página que estás tratando de ver no se puede mostrar porque un error en la transferencia de datos fue detectado.</p><ul><li>Por favor contacta con los propietarios del sitio para informarles de este problema.</li></ul>">
 <!ENTITY remoteXUL.title "XUL Remoto">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contacta con los propietarios del sitio web para informarles de este problema.</li></ul></p>">
+%netErrorAppDTD;

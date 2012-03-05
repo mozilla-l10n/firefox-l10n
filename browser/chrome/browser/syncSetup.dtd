@@ -1,13 +1,13 @@
-<!ENTITY accountSetupTitle.label "&syncBrand.fullName.label; Instalación">
+<!ENTITY accountSetupTitle.label "Configuración de &syncBrand.fullName.label;">
 <!ENTITY setup.pickSetupType.description2 "Welcome! If you've never used &syncBrand.fullName.label; before, you will need to create a new account.">
 <!ENTITY button.createNewAccount.label "Crear una cuenta nueva">
-<!ENTITY button.haveAccount.label "Tengo una cuenta">
-<!ENTITY setup.choicePage.title.label "¿Haz utilizado &syncBrand.fullName.label; antes?">
-<!ENTITY setup.choicePage.new.label "Núnca antes he usado &syncBrand.shortName.label; ">
+<!ENTITY button.haveAccount.label "Ya tengo una cuenta">
+<!ENTITY setup.choicePage.title.label "¿Has utilizado &syncBrand.fullName.label; antes?">
+<!ENTITY setup.choicePage.new.label "Nunca antes he usado &syncBrand.shortName.label; ">
 <!ENTITY setup.choicePage.existing.label "Ya estoy usando &syncBrand.shortName.label; en otra computadora">
 <!ENTITY server.label "Servidor">
 <!ENTITY serverType.default.label "Default: Mozilla &syncBrand.fullName.label; server">
-<!ENTITY serverType.custom2.label "Utiliza un servidor personalizado...">
+<!ENTITY serverType.custom2.label "Usar un servidor personalizado…">
 <!ENTITY signIn.account2.label "Cuenta">
 <!ENTITY signIn.account2.accesskey "A">
 <!ENTITY signIn.password.label "Contraseña">
@@ -23,7 +23,7 @@
 <!ENTITY setup.confirmPassword.accesskey "m">
 <!ENTITY setup.tosAgree1.label "Acepto los">
 <!ENTITY setup.tosAgree1.accesskey "a">
-<!ENTITY setup.tosLink.label "Términos de Servicio">
+<!ENTITY setup.tosLink.label "Términos del servicio">
 <!ENTITY setup.tosAgree2.label "y la">
 <!ENTITY setup.ppLink.label "Política de privacidad">
 <!ENTITY setup.tosAgree3.label "">
@@ -33,7 +33,7 @@
 <!ENTITY recoveryKeyEntry.label "Tu clave de recuperación">
 <!ENTITY recoveryKeyEntry.accesskey "K">
 <!ENTITY syncGenerateNewKey.label "Generar una nueva clave">
-<!ENTITY recoveryKeyBackup.description "Tu clave de recuperación es requerida para accesar a &syncBrand.fullName.label; en otras máquinas. Por favor crea una copia de respaldo. No podemos ayudarte a recuperar tu clave de recuperación.">
+<!ENTITY recoveryKeyBackup.description "Tu clave de recuperación es necesaria para accesar a &syncBrand.fullName.label; en otras máquinas. Por favor crea una copia de respaldo. Si la pierdes, no podemos ayudarte a recuperarla.">
 <!ENTITY button.syncKeyBackup.print.label "Imprimir…">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
 <!ENTITY button.syncKeyBackup.save.label "Guardar…">
@@ -41,7 +41,7 @@
 <!ENTITY pairDevice.title.label "Sincronizar un dispositivo">
 <!ENTITY addDevice.showMeHow.label "Muéstrame cómo.">
 <!ENTITY addDevice.dontHaveDevice.label "No tengo el dispositivo conmigo">
-<!ENTITY pairDevice.setup.description.label 'Para activar, selecciona "Sincroniar un dispositivo" en tu otro dispositivo.'>
+<!ENTITY pairDevice.setup.description.label 'Para activar, selecciona "Sincronizar un dispositivo" en tu otro dispositivo.'>
 <!ENTITY addDevice.setup.enterCode.label "A continuación, introduce el código:">
 <!ENTITY pairDevice.dialog.description.label 'Para activar tu nuevo dispositivo, selecciona "Configurar Sync" en él.'>
 <!ENTITY addDevice.dialog.enterCode.label "Ingresa el código que el dispositivo proporciona:">
@@ -57,7 +57,7 @@
 <!ENTITY setup.optionsPage.title "Opciones de Sync">
 <!ENTITY syncComputerName.label "Nombre del equipo:">
 <!ENTITY syncComputerName.accesskey "e">
-<!ENTITY syncMy.label "Sync Mi">
+<!ENTITY syncMy.label "Sincronizar">
 <!ENTITY engine.bookmarks.label "Marcadores">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label "Pestañas">
@@ -70,15 +70,15 @@
 <!ENTITY engine.prefs.accesskey "S">
 <!ENTITY engine.addons.label "Complementos">
 <!ENTITY engine.addons.accesskey "A">
-<!ENTITY choice2.merge.main.label "Combinar los datos de este equipo con mi &syncBrand.shortName.label; data">
-<!ENTITY choice2.merge.recommended.label "Recomendaciones:">
-<!ENTITY choice2.client.main.label "Reemplaza todos los datos en este equipo con mi &syncBrand.shortName.label; data">
+<!ENTITY choice2.merge.main.label "Combinar los datos de este equipo con mis datos de &syncBrand.shortName.label;">
+<!ENTITY choice2.merge.recommended.label "Recomendado:">
+<!ENTITY choice2.client.main.label "Reemplazar todos los datos en este equipo con mis datos de &syncBrand.shortName.label;">
 <!ENTITY choice2.server.main.label "Reemplazar todos los otros dispositivos con los datos de este equipo">
 <!ENTITY setup.optionsConfirmPage.title "Confirmar">
-<!ENTITY confirm.merge.label "&syncBrand.fullName.label; ahora se mezclarán todos los datos del navegador de este equipos en tu cuenta de Sync.">
-<!ENTITY confirm.client2.label "Advertencia: El siguiente &brandShortName; datos en esta computadora serán borrados:">
-<!ENTITY confirm.client.moreinfo.label "&brandShortName; luego copiará tu &syncBrand.fullName.label; datos a esta computadora.">
-<!ENTITY confirm.server2.label "Aviso: Los siguientes dispositivos se sobrescribirán con los datos locales:">
-<!ENTITY setup.successPage.title "Instalación completa">
-<!ENTITY changeOptions.label "Tu puedes cambiar esta preferencia seleccionando Opciones en Sync.">
+<!ENTITY confirm.merge.label "&syncBrand.fullName.label; ahora mezclará todos los datos del navegador de este equipos en tu cuenta de Sync.">
+<!ENTITY confirm.client2.label "Advertencia: Los siguientes datos de &brandShortName; en esta computadora serán borrados:">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName; copiará tu información de &syncBrand.fullName.label; a esta computadora.">
+<!ENTITY confirm.server2.label "Aviso: La iformación de los siguientes dispositivos se sobrescribirá con los datos locales:">
+<!ENTITY setup.successPage.title "Configuración completa">
+<!ENTITY changeOptions.label "Puedes cambiar esta opción seleccionando Opciones de Sync.">
 <!ENTITY continueUsing.label "Ahora puedes continuar usando &brandShortName;.">

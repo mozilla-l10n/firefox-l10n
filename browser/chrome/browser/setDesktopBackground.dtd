@@ -2,7 +2,7 @@
 <!ENTITY tile.label "Mosaico">
 <!ENTITY center.label "Centrado">
 <!ENTITY stretch.label "Ajustar">
-<!ENTITY fill.label "Fill">
+<!ENTITY fill.label "Llenar">
 <!ENTITY fit.label "Fit">
 <!ENTITY preview.label "Vista preliminar">
 <!ENTITY color.label "Color:">
