@@ -81,6 +81,8 @@
 <!ENTITY syncComputerName.accesskey   "Н">
 
 <!ENTITY syncMy.label               "Синхронізувати мої">
+<!ENTITY engine.addons.label        "Додатки">
+<!ENTITY engine.addons.accesskey    "Д">
 <!ENTITY engine.bookmarks.label     "Закладки">
 <!ENTITY engine.bookmarks.accesskey "B">
 <!ENTITY engine.tabs.label          "Вкладки">
