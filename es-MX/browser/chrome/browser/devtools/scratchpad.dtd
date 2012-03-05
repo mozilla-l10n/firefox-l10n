@@ -60,10 +60,10 @@
 <!ENTITY contentContext.accesskey "C">
 <!ENTITY browserContext.label "Navegador">
 <!ENTITY browserContext.accesskey "B">
-<!ENTITY helpMenu.label "Help">
-<!ENTITY helpMenu.accesskey "H">
-<!ENTITY helpMenuWin.label "Help">
-<!ENTITY helpMenuWin.accesskey "H">
+<!ENTITY helpMenu.label "Ayuda">
+<!ENTITY helpMenu.accesskey "A">
+<!ENTITY helpMenuWin.label "Ayuda">
+<!ENTITY helpMenuWin.accesskey "A">
 <!ENTITY documentationLink.label "Scratchpad Help on MDN">
 <!ENTITY documentationLink.accesskey "D">
 <!ENTITY resetContext2.label "Resetear variables">

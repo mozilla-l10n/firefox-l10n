@@ -30,7 +30,7 @@
 <!ENTITY connectionSettings.label "Configurar…">
 <!ENTITY connectionSettings.accesskey "C">
 <!ENTITY httpCache.label "Cached Web Content">
-<!ENTITY offlineStorage2.label "Offline Web Content and User Data">
+<!ENTITY offlineStorage2.label "Contenido web sin conexión y datos de usuario">
 <!ENTITY limitCacheSizeBefore.label "Caché limitado a">
 <!ENTITY limitCacheSizeBefore.accesskey "L">
 <!ENTITY limitCacheSizeAfter.label "MB de espacio">
@@ -61,7 +61,7 @@
 <!ENTITY offlineNotify.accesskey "t">
 <!ENTITY offlineNotifyExceptions.label "Excepciones…">
 <!ENTITY offlineNotifyExceptions.accesskey "x">
-<!ENTITY offlineAppsList2.label "The following websites are allowed to store data for offline use:">
+<!ENTITY offlineAppsList2.label "Los siguientes sitios web tienen permitido almacenar datos para usarlos sin conexión:">
 <!ENTITY offlineAppsList.height "7em">
 <!ENTITY offlineAppsListRemove.label "Eliminar…">
 <!ENTITY offlineAppsListRemove.accesskey "E">

@@ -2,7 +2,7 @@
 <!ENTITY search.placeholder "Buscar complementos">
 <!ENTITY search.commandkey "f">
 <!ENTITY loading.label "Cargando...">
-<!ENTITY listEmpty.installed.label "Usted no tiene complementos de este tipo instalados">
+<!ENTITY listEmpty.installed.label "No tienes complementos de este tipo instalados">
 <!ENTITY listEmpty.availableUpdates.label "No se encontraron actualizaciones">
 <!ENTITY listEmpty.recentUpdates.label "No has actualizado recientemente ningún complemento">
 <!ENTITY listEmpty.findUpdates.label "Buscar actualizaciones">

@@ -164,8 +164,8 @@
 <!ENTITY inspectorHTMLCopyInner.accesskey "I">
 <!ENTITY inspectorHTMLCopyOuter.label "Copy Outer HTML">
 <!ENTITY inspectorHTMLCopyOuter.accesskey "O">
-<!ENTITY inspectorHTMLDelete.label "Delete Node">
-<!ENTITY inspectorHTMLDelete.accesskey "D">
+<!ENTITY inspectorHTMLDelete.label "Borrar nodo">
+<!ENTITY inspectorHTMLDelete.accesskey "B">
 <!ENTITY inspect3DViewButton.label "Vista 3D">
 <!ENTITY inspect3DViewButton.accesskey "V">
 <!ENTITY inspectStyleButton.label "Estilo">
@@ -441,5 +441,5 @@
 <!ENTITY addonBarCloseButton.tooltip "Cerra la barra de complementos">
 <!ENTITY toggleAddonBarCmd.key "/">
 <!ENTITY htmlPanel.label "HTML">
-<!ENTITY htmlPanel.tooltiptext "HTML panel">
+<!ENTITY htmlPanel.tooltiptext "Panel HTML">
 <!ENTITY htmlPanel.accesskey "H">
