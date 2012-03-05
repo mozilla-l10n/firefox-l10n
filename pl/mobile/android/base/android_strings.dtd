@@ -40,6 +40,7 @@
 <!ENTITY forward "Do przodu">
 
 <!ENTITY new_tab "Nowa karta">
+<!ENTITY new_tab_opened "Otwarto nową kartę">
 
 <!ENTITY settings "Ustawienia">
 <!ENTITY settings_title "Ustawienia">
@@ -51,7 +52,9 @@
 <!ENTITY pref_telemetry "Przesyłaj informacje o wydajności">
 <!ENTITY pref_remember_signons "Pamiętaj hasła">
 <!ENTITY pref_cookies "Akceptuj ciasteczka">
-<!ENTITY pref_char_encoding "Pokazuj kodowanie znaków">
+<!ENTITY pref_char_encoding "Kodowanie znaków">
+<!ENTITY pref_char_encoding_on "Pokazuj">
+<!ENTITY pref_char_encoding_off "Nie pokazuj">
 <!ENTITY pref_clear_history "Wyczyść historię">
 <!ENTITY pref_clear_history_confirm "Czy usunąć historię przeglądania?">
 <!ENTITY pref_clear_private_data "Wyczyść dane prywatne">
@@ -67,13 +70,16 @@
 <!ENTITY pref_font_size_large "Duży">
 <!ENTITY pref_font_size_xlarge "Bardzo duży">
 <!ENTITY pref_use_master_password "Używaj hasła głównego">
+<!ENTITY pref_sync "Sync">
 
 <!ENTITY quit "Zakończ">
 
 <!ENTITY addons "Dodatki">
 <!ENTITY downloads "Pobrane pliki">
+<!ENTITY char_encoding "Kodowanie znaków">
 
 <!ENTITY share "Udostępnij">
+<!ENTITY share_title "Udostępnij przez">
 <!ENTITY save_as_pdf "Zapisz jako PDF">
 
 <!ENTITY contextmenu_open_new_tab "Otwórz w nowej karcie">
@@ -100,3 +106,6 @@
 <!ENTITY abouthome_last_tabs_open "Otwórz wszystkie karty z ostatniej sesji">
 <!ENTITY abouthome_top_sites_title "Najczęstsze">
 <!ENTITY abouthome_top_sites_browse "Zobacz wszystkie">
+<!ENTITY abouthome_no_top_sites "Nie masz jeszcze najczęściej odwiedzanych stron. Dotknij paska adresu, aby zacząć przeglądać Sieć.">
+<!ENTITY abouthome_about_sync "Skonfiguruj Firefox Sync, aby uzyskać dostęp do zakładek, historii przeglądania i otwartych kart z innych urządzeń">
+<!ENTITY abouthome_sync_bold_name "Firefox Sync">

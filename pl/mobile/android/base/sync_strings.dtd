@@ -6,13 +6,18 @@
 <!-- Main titles. -->
 <!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
 <!ENTITY sync.title.connect.label 'Połącz z &syncBrand.shortName.label;'>
+<!ENTITY sync.title.adddevice.label 'Dodaj konto &syncBrand.fullName.label;'>
 <!ENTITY sync.title.pair.label 'Sparuj urządzenie'>
 
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label 'Aby aktywować nowe urządzenie, wybierz na nim opcję „Skonfiguruj &syncBrand.shortName.label;”.'>
+<!ENTITY sync.subtitle.header.label 'Wpisz ten kod na komputerze'>
+<!ENTITY sync.subtitle.connectlocation.label 'Wybierz “&sync.title.pair.label;” w sekcji &syncBrand.shortName.label; w ustawieniach Firefoksa na komputerze.'>
 <!ENTITY sync.subtitle.pair.label 'Aby aktywować, na innym urządzeniu wybierz „Sparuj urządzenie”.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
+<!ENTITY sync.pin.oneline.label '...'>
 <!ENTITY sync.link.show.label 'Instrukcje'>
+<!ENTITY sync.link.advancedsetup.label 'Konfiguracja zaawansowana…'>
 <!ENTITY sync.link.nodevice.label 'Nie mam przy sobie tego urządzenia…'>
 
 <!-- J-PAKE Waiting Screen -->
