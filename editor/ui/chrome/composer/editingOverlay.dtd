@@ -69,7 +69,6 @@
 <!ENTITY publishSettings.label "Publishing Site Settings…">
 <!ENTITY publishSettings.accesskey "b">
 
-
 <!-- Toolbar buttons/items -->
 <!ENTITY newToolbarCmd.label "New">
 <!ENTITY newToolbarCmd.tooltip "Create a new Composer page">
