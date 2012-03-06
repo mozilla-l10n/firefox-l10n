@@ -105,7 +105,7 @@
 <!ENTITY throbberItem.title "Progreso">
 <!ENTITY bookmarksItem.title "Marcadores">
 <!ENTITY appMenuButton.label "Menú">
-<!ENTITY appMenuButton.tooltip "Abrir &brandShortName; menú">
+<!ENTITY appMenuButton.tooltip "Abrir menú &brandShortName;">
 <!ENTITY homeButton.label "Inicio">
 <!ENTITY tabGroupsButton.label "Pestañas Grupos">
 <!ENTITY tabGroupsButton.tooltip "Agrupa tus pestañas">
