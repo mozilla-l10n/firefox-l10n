@@ -12,15 +12,12 @@
 <!ENTITY  rememberActions.post.label          ".">
 
 
-<!ENTITY  rememberHistory.label      "Atcerēties manu pārlūkošanas vēsturi">
-<!ENTITY  rememberHistory.accesskey  "p">
+<!ENTITY  rememberHistory2.label      "Atcerēties manu pārlūkošanas un lejupielāžu vēsturi">
+<!ENTITY  rememberHistory2.accesskey  "p">
 
 <!ENTITY tracking.label                 "Uzskaite internetā">
 <!ENTITY doNotTrack.label                "Teikt mājas lapām, ka nevēlos, lai tās mani uzskaita">
 <!ENTITY doNotTrack.accesskey            "t">
-
-<!ENTITY  rememberDownload.label         "Atcerēties lejupielāžu vēsturi">
-<!ENTITY  rememberDownload.accesskey     "l">
 
 <!ENTITY  rememberSearchForm.label       "Atcerēties meklēšanas un formu vēsturi">
 <!ENTITY  rememberSearchForm.accesskey   "f">

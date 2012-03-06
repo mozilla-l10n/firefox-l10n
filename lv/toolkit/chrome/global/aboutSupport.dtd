@@ -43,3 +43,6 @@ variant of aboutSupport.show.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.graphicsTitle "Grafika">
 
 <!ENTITY aboutSupport.copyToClipboard.label "Kopēt visu atmiņā">
+
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "Incrementālais GC">
