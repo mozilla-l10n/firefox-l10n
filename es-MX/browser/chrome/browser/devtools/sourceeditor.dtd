@@ -1,18 +1,18 @@
-<!ENTITY undoCmd.label "Undo">
+<!ENTITY undoCmd.label "Deshacer">
 <!ENTITY undoCmd.accesskey "U">
-<!ENTITY cutCmd.label "Cut">
+<!ENTITY cutCmd.label "Cortar">
 <!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "Copy">
+<!ENTITY copyCmd.label "Copiar">
 <!ENTITY copyCmd.accesskey "C">
 <!ENTITY pasteCmd.label "Pegar">
 <!ENTITY pasteCmd.accesskey "P">
-<!ENTITY deleteCmd.label "Delete">
+<!ENTITY deleteCmd.label "Eliminar">
 <!ENTITY deleteCmd.accesskey "D">
 <!ENTITY selectAllCmd.label "Seleccionar todo">
 <!ENTITY selectAllCmd.accesskey "A">
-<!ENTITY findCmd.label "Find…">
+<!ENTITY findCmd.label "Encontrar…">
 <!ENTITY findCmd.accesskey "F">
-<!ENTITY findAgainCmd.label "Find Again…">
+<!ENTITY findAgainCmd.label "Buscar nuevamente…">
 <!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY gotoLineCmd.label "Saltar a la linea…">
 <!ENTITY gotoLineCmd.key "J">
