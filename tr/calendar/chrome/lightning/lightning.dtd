@@ -79,8 +79,10 @@
 <!ENTITY lightning.toolbar.mail.accesskey     "P">
 <!ENTITY lightning.toolbar.calendar.label     "Takvim">
 <!ENTITY lightning.toolbar.calendar.accesskey "T">
+<!ENTITY lightning.toolbar.calendar.tooltip   "Takvim sekmesine geç">
 <!ENTITY lightning.toolbar.task.label         "Görevler">
 <!ENTITY lightning.toolbar.task.accesskey     "G">
+<!ENTITY lightning.toolbar.task.tooltip       "Görevler sekmesine geç">
 
 <!-- Toolbar write button -->
 <!ENTITY lightning.toolbar.newevent.label     "Etkinlik">
