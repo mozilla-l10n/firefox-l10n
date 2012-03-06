@@ -64,7 +64,7 @@
 <!ENTITY helpMenu.accesskey "A">
 <!ENTITY helpMenuWin.label "Ayuda">
 <!ENTITY helpMenuWin.accesskey "A">
-<!ENTITY documentationLink.label "Scratchpad Help on MDN">
+<!ENTITY documentationLink.label "Ayuda de Scratchpad en MDN">
 <!ENTITY documentationLink.accesskey "D">
 <!ENTITY resetContext2.label "Resetear variables">
 <!ENTITY resetContext2.accesskey "T">

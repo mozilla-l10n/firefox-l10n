@@ -1,6 +1,6 @@
-<!ENTITY debuggerMenu.label "Script Debugger">
+<!ENTITY debuggerMenu.label "Depurador de scripts">
 <!ENTITY debuggerMenu.commandkey "S">
-<!ENTITY debuggerUI.closeButton "Close">
-<!ENTITY debuggerUI.stackTitle "Call stack">
+<!ENTITY debuggerUI.closeButton "Cerrar">
+<!ENTITY debuggerUI.stackTitle "Pila de llamadas">
 <!ENTITY debuggerUI.scriptTitle "Script">
-<!ENTITY debuggerUI.propertiesTitle "Scope variables">
+<!ENTITY debuggerUI.propertiesTitle "Ámbito de las variables">
