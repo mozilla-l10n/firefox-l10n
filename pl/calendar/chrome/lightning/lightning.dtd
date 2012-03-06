@@ -72,8 +72,6 @@
 <!ENTITY lightning.menu.eventtask.accesskey   "a">
 
 <!-- properties dialog, calendar creation wizard -->
-<!ENTITY lightning.calendarproperties.showevents.inagenda.label "Wyświetlaj wydarzenia w panelu bieżących spraw">
-<!ENTITY lightning.calendarproperties.showtasks.label           "Wyświetlaj zadania w panelu bieżących spraw i w trybie widoku zadań">
 <!ENTITY lightning.calendarproperties.email.label               "E-mail:">
 
 <!-- iMIP Bar (meeting support) -->
