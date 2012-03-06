@@ -22,17 +22,6 @@
 <!ENTITY importButton.accesskey     "I">
 <!ENTITY importButton.commandkey    "i">
 
-<!ENTITY searchInput.tooltip        "শৈলৰ পৰ্দাসমূহক নামৰে পৰিস্ৰাৱন কৰক">
-<!ENTITY searchInput.placeholder    "শৈলী পৰ্দা বিচাৰক">
-
-<!-- LOCALIZATION NOTE  (searchNoResults): This is shown when searching a term
-     that is not found in any stylesheet or stylesheet name. -->
-<!ENTITY searchNoResults.label      "কোনো মিল খোৱা শৈলৰ পৰ্দা পোৱা নগল।">
-
-<!-- LOCALIZATION NOTE  (searchClearButton): This button clears the search input
-     box and is visible only when a search term has been typed. -->
-<!ENTITY searchClearButton.label    "পৰিষ্কাৰ কৰক">
-
 <!ENTITY visibilityToggle.tooltip   "শৈলী পৰ্দাৰ দৃশ্যমানতা অদল বদল কৰক">
 <!ENTITY visibilityToggle.accesskey "V">
 
@@ -60,3 +49,6 @@
 <!ENTITY noStyleSheet-tip-action.label "এটা নতুন শৈলী পৰ্দা সংযোজন কৰিব বিচাৰিব পাৰে">
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-end.label): End of the tip sentence -->
 <!ENTITY noStyleSheet-tip-end.label    "?">
+
+<!-- LOCALIZATION NOTE  (closeCmd.key): Accel + this key closes the window. -->
+<!ENTITY closeCmd.key                  "W">

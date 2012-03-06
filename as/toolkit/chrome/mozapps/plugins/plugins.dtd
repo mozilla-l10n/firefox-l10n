@@ -35,7 +35,7 @@
 <!ENTITY reloadPlugin.middle                                 "পৃষ্ঠা পুনৰ ল'ড কৰক">
 <!ENTITY reloadPlugin.post                                   "পুনৰ চেষ্টা কৰিবলে।">
 <!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.checkbox                                     "…আৰু স্খলন সংবাদ পঠাওক">
+<!ENTITY report.please                                       "স্খলন সংবাদ পঠাওক">
 <!ENTITY report.submitting                                   "সংবাদ পঠোৱা হৈ আছে…">
 <!ENTITY report.submitted                                    "স্খলন সংবাদ পঠোৱা হল।">
 <!ENTITY report.disabled                                     "স্খলন সংবাদ পঠোৱা অসামৰ্থবান কৰা হৈছে।">

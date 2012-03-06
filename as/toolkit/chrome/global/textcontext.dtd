@@ -10,16 +10,13 @@
 <!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY deleteCmd.label "গুচাওক">
 <!ENTITY deleteCmd.accesskey "d">
+
 <!ENTITY spellAddToDictionary.label "শব্দকোষলৈ যোগ দিয়ক">
 <!ENTITY spellAddToDictionary.accesskey "o">
+<!ENTITY spellUndoAddToDictionary.label "শব্দকোষলৈ যোগ কৰা বাতিল কৰক">
+<!ENTITY spellUndoAddToDictionary.accesskey "n">
 <!ENTITY spellNoSuggestions.label "(বানানৰ কোনো পৰামৰ্শ নাই)">
 <!ENTITY spellDictionaries.label "ভাষাসমূহ">
 <!ENTITY spellDictionaries.accesskey "l">
-
-
-<!--
-entities below were automatically added by l10nmerge
--->
-
 <!ENTITY spellCheckEnable.accesskey "S">
 <!ENTITY spellCheckEnable.label "বানান পৰীক্ষা কৰক">
