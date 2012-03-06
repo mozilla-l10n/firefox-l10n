@@ -78,8 +78,6 @@
 <!ENTITY imagemapBox.label "Görüntü Haritası">
 <!ENTITY removeImageMapButton.label "Kaldır">
 <!ENTITY removeImageMapButton.accessKey "K">
-<!ENTITY editImageMapButton.label "Düzenle…">
-<!ENTITY editImageMapButton.tooltip "Bu resim için tıklanabilir bağ noktaları oluştur">
 
 <!-- These are the options for image alignment -->
 <!ENTITY alignment.label "Metni resme hizala">
