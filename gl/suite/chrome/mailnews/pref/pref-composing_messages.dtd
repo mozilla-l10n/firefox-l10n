@@ -60,10 +60,17 @@
 
 <!ENTITY defaultMessagesHeader.label          "Valores predeterminados para as mensaxes HTML">
 <!ENTITY font.label                           "Tipo de letra:">
-<!ENTITY font.accesskey                       "T">
+<!ENTITY font.accesskey                       "l">
 <!ENTITY size.label                           "Tamaño:">
-<!ENTITY size.accesskey                       "T">
+<!ENTITY size.accesskey                       "m">
 <!ENTITY fontColor.label                      "Texto:">
 <!ENTITY fontColor.accesskey                  "T">
 <!ENTITY bgColor.label                        "Fondo:">
 <!ENTITY bgColor.accesskey                    "F">
+
+<!ENTITY selectHeaderType.label               "Seleccione o tipo de cabeceira da resposta :">
+<!ENTITY selectHeaderType.accesskey           "e">
+<!ENTITY noReplyOption.label                  "Ningunha cabeceira na resposta">
+<!ENTITY authorWroteOption.label              "[Author] escribiu:">
+<!ENTITY onDateWroteOption.label              "O [date], [author] escribiu:">
+<!ENTITY authorOnDateWroteOption.label        "[Author] escribiu o [date]:">
