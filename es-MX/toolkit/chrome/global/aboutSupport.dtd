@@ -10,22 +10,22 @@ Esta página presenta información técnica que puede ser de ayuda si necesitas 
 <!ENTITY aboutSupport.appBasicsTitle "Application Basics">
 <!ENTITY aboutSupport.appBasicsName "Nombre">
 <!ENTITY aboutSupport.appBasicsVersion "Versión">
-<!ENTITY aboutSupport.appBasicsProfileDir "Directorio de perfil">
-<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Profile Folder">
+<!ENTITY aboutSupport.appBasicsProfileDir "Directorio del perfil">
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Carpeta del perfil">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Plugins activados">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configuración de compilación">
 <!ENTITY aboutSupport.appBasicsUserAgent "Agente de usuario">
 <!ENTITY aboutSupport.appBasicsCrashIDs "Informes de colapso">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Uso de memoria">
-<!ENTITY aboutSupport.showDir.label "Open Directory">
+<!ENTITY aboutSupport.showDir.label "Abrir directorio">
 <!ENTITY aboutSupport.showMac.label "Mostrar en Finder">
-<!ENTITY aboutSupport.showWin.label "Show Folder">
-<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Important Modified Preferences">
+<!ENTITY aboutSupport.showWin.label "Mostrar carpeta">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Preferencias importantes modificadas">
 <!ENTITY aboutSupport.modifiedPrefsName "Nombre">
 <!ENTITY aboutSupport.modifiedPrefsValue "Valor">
 <!ENTITY aboutSupport.graphicsTitle "Gráficas">
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
 <!ENTITY aboutSupport.installationHistoryTitle "Historial de instalación">
-<!ENTITY aboutSupport.updateHistoryTitle "Actualizar el historial">
+<!ENTITY aboutSupport.updateHistoryTitle "Historial de actualizaciones">
 <!ENTITY aboutSupport.copyToClipboard.label "Copiar todo al portapapeles">
