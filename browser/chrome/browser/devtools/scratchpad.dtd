@@ -112,3 +112,14 @@
 <!ENTITY gotoLineCmd.label            "Pāriet uz rindiņu…">
 <!ENTITY gotoLineCmd.key              "P">
 <!ENTITY gotoLineCmd.accesskey        "P">
+
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+  -  for the help button in the menubar but Gnome does not.
+  -->
+<!ENTITY helpMenu.label               "Palīdzība">
+<!ENTITY helpMenu.accesskey           "P">
+<!ENTITY helpMenuWin.label            "Palīdzība">
+<!ENTITY helpMenuWin.accesskey        "P">
+
+<!ENTITY documentationLink.label      "Smilškastes palīdzība MDN">
+<!ENTITY documentationLink.accesskey  "D">

@@ -11,7 +11,7 @@
 
 
 <!-- New Account AND Existing Account -->
-<!ENTITY serverType.main.label      "&syncBrand.fullName.label;s serverim">
+<!ENTITY serverType.default.label      "Noklusētais: Mozilla &syncBrand.fullName.label;s serverim">
 <!ENTITY serverType.custom2.label   "Izmantot citu serveri…">
 <!ENTITY signIn.account2.label      "Konts">
 <!ENTITY signIn.account2.accesskey  "K">
