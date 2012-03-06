@@ -10,7 +10,7 @@ Esta página presenta información técnica que puede ser de ayuda si necesitas 
 <!ENTITY aboutSupport.appBasicsTitle "Application Basics">
 <!ENTITY aboutSupport.appBasicsName "Nombre">
 <!ENTITY aboutSupport.appBasicsVersion "Versión">
-<!ENTITY aboutSupport.appBasicsProfileDir "Directorio de perfil">
+<!ENTITY aboutSupport.appBasicsProfileDir "Directorio del perfil">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Plugins activados">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configuración de compilación">
 <!ENTITY aboutSupport.appBasicsUserAgent "Agente de usuario">
@@ -23,5 +23,5 @@ Esta página presenta información técnica que puede ser de ayuda si necesitas 
 <!ENTITY aboutSupport.modifiedPrefsValue "Valor">
 <!ENTITY aboutSupport.graphicsTitle "Gráficas">
 <!ENTITY aboutSupport.installationHistoryTitle "Historial de instalación">
-<!ENTITY aboutSupport.updateHistoryTitle "Actualizar el historial">
+<!ENTITY aboutSupport.updateHistoryTitle "Historial de actualizaciones">
 <!ENTITY aboutSupport.copyToClipboard.label "Copiar todo al portapapeles">
