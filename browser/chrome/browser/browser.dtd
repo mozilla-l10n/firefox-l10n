@@ -217,8 +217,13 @@ can reach it easily. -->
 <!ENTITY inspectButton.label          "নীৰিক্ষণ কৰক">
 <!ENTITY inspectButton.accesskey      "I">
 <!ENTITY inspectCloseButton.tooltiptext "বন্ধ নীৰিক্ষক">
-<!ENTITY inspect3DButton.label        "3D">
-<!ENTITY inspect3DButton.accesskey    "M">
+
+<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
+  -  alternate view for the Inspector, creating a 3D visualization of the
+  -  webpage. -->
+<!ENTITY inspect3DViewButton.label     "3D দৰ্শন">
+<!ENTITY inspect3DViewButton.accesskey "W">
+
 <!ENTITY inspectStyleButton.label     "শৈলী">
 <!ENTITY inspectStyleButton.accesskey "S">
 
@@ -431,14 +436,23 @@ can reach it easily. -->
 <!ENTITY thisFrameMenu.accesskey          "h">
 
 <!-- Media (video/audio) controls -->
+<!-- LOCALIZATION NOTE: The access keys for "Play" and
+"Pause" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaPlay.label             "বজাওক">
 <!ENTITY mediaPlay.accesskey         "P">
 <!ENTITY mediaPause.label            "বিৰতি দিয়ক">
 <!ENTITY mediaPause.accesskey        "P">
+<!-- LOCALIZATION NOTE: The access keys for "Mute" and
+"Unmute" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "মৌন কৰক">
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "অমৌন কৰক">
 <!ENTITY mediaUnmute.accesskey       "m">
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "নিয়ন্ত্ৰণসমূহ দেখুৱাওক">
 <!ENTITY mediaShowControls.accesskey "C">
 <!ENTITY mediaHideControls.label     "নিয়ন্ত্ৰণসমূহ লুকাওক">
@@ -447,6 +461,9 @@ can reach it easily. -->
 <!ENTITY videoFullScreen.accesskey   "F">
 <!ENTITY videoSaveImage.label        "স্নেপশ্বটক এই ধৰণে সংৰক্ষণ কৰক…">
 <!ENTITY videoSaveImage.accesskey    "S">
+<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
+"Hide Statistics" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY videoShowStats.label        "পৰিসংখ্যা দেখুৱাওক">
 <!ENTITY videoShowStats.accesskey    "t">
 <!ENTITY videoHideStats.label        "পৰিসংখ্যা লুকাওক">

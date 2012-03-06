@@ -2,7 +2,10 @@
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "
-  এই পৃষ্ঠাত কাৰিকৰী তথ্য আছে যোনটো লাভদায়ক হব পাৰে যদি আপুনি এটা সমস্যা সমাধান কৰিব বিচাৰিছে। যদি আপুনি  &brandShortName; -ৰ সাধাৰণ প্ৰশ্ন কিছুমানৰ উত্তৰ বিচাৰিছে, আমাৰ  সমৰ্থন ৱেবছাইট <a id='supportLink'>  </a> চাওক।">
+  এই পৃষ্ঠাত কাৰিকৰী তথ্য আছে যোনটো লাভদায়ক হব পাৰে যদি আপুনি এটা সমস্যা সমাধান কৰিব বিচাৰিছে। 
+যদি আপুনি  &brandShortName; -ৰ সাধাৰণ প্ৰশ্ন কিছুমানৰ উত্তৰ বিচাৰিছে, আমাৰ  সমৰ্থন ৱেবছাইট 
+<a id='supportLink'>  </a> চাওক।
+">
 
 <!ENTITY aboutSupport.extensionsTitle "প্ৰসাৰনসমূহ">
 <!ENTITY aboutSupport.extensionName "নাম">
@@ -20,14 +23,17 @@
 <!ENTITY aboutSupport.appBasicsCrashIDs "স্খলন সংবাদসমূহ">
 <!ENTITY aboutSupport.appBasicsMemoryUse "মেমৰিৰ ব্যৱহাৰ">
 
-<!ENTITY aboutSupport.show.label "অন্তৰ্ভুক্ত ফোল্ডাৰ খোলক">
+<!ENTITY aboutSupport.showDir.label "ডাইৰেকটৰি খোলক">
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.show.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
 <!ENTITY aboutSupport.showMac.label "বিচাৰকত দেখুৱাওক">
+<!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
+variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin.label "ফোল্ডাৰ দেখুৱাওক">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "সলনি কৰা পছন্দসমূহ">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "গুৰুত্বপূৰ্ণ পৰিৱৰ্তিত পছন্দসমূহ">
 <!ENTITY aboutSupport.modifiedPrefsName "নাম">
 <!ENTITY aboutSupport.modifiedPrefsValue "মান">
 

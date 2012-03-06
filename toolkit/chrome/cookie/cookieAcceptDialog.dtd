@@ -4,7 +4,6 @@
 <!ENTITY     props.path.label               "পথ:">
 <!ENTITY     props.secure.label             "-ৰ বাবে পঠিয়াওক:">
 <!ENTITY     props.expires.label            "অন্ত হয়:">
-<!ENTITY     props.policy.label             "নীতি:"> 
 
 <!ENTITY     button.allow.label             "আজ্ঞা দিয়ক">
 <!ENTITY     button.allow.accesskey         "A">
