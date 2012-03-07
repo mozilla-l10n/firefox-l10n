@@ -40,7 +40,9 @@
 <!ENTITY connectionSettings.label        "Einstellungen…">
 <!ENTITY connectionSettings.accesskey    "n">
 
-<!ENTITY offlineStorage.label            "Offline-Speicher">
+<!ENTITY httpCache.label                 "Zwischengespeicherte Webinhalte">
+
+<!ENTITY offlineStorage2.label           "Offline-Webinhalte und -Benutzerdaten">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -53,6 +55,8 @@
 <!ENTITY limitCacheSizeAfter.label       "MB Speicherplatz limitieren">
 <!ENTITY clearCacheNow.label             "Jetzt leeren">
 <!ENTITY clearCacheNow.accesskey         "J">
+<!ENTITY clearOfflineAppCacheNow.label   "Jetzt leeren">
+<!ENTITY clearOfflineAppCacheNow.accesskey "l">
 <!ENTITY overrideSmartCacheSize.label    "Automatisches Cache-Management ausschalten">
 <!ENTITY overrideSmartCacheSize.accesskey "A">
 
@@ -76,8 +80,6 @@
 <!ENTITY useService.accesskey            "H">
 
 <!ENTITY updateOthers.label              "Automatisch aktualisieren:">
-<!ENTITY enableAddonsUpdate3.label       "Add-ons">
-<!ENTITY enableAddonsUpdate3.accesskey   "o">
 <!ENTITY enableSearchUpdate.label        "Suchmaschinen">
 <!ENTITY enableSearchUpdate.accesskey    "S">
 
@@ -86,7 +88,7 @@
 <!ENTITY offlineNotifyExceptions.label   "Ausnahmen…">
 <!ENTITY offlineNotifyExceptions.accesskey "A">
 
-<!ENTITY offlineAppsList.label           "Folgende Websites haben Daten für die Verwendung im Offline-Modus gespeichert:">
+<!ENTITY offlineAppsList2.label          "Folgende Websites dürfen Daten für die Verwendung im Offline-Modus speichern:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Entfernen…">
 <!ENTITY offlineAppsListRemove.accesskey "E">
