@@ -2,7 +2,7 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "Willkommen! Wenn Sie &syncBrand.fullName.label; bisher noch nicht genutzt haben, müssen Sie ein neues Benutzerkonto anlegen.">
+<!ENTITY setup.pickSetupType.description2 "Willkommen! Wenn Sie &syncBrand.fullName.label; bisher noch nicht genutzt haben, müssen Sie ein neues Benutzerkonto anlegen.">
 <!ENTITY button.createNewAccount.label "Neues Benutzerkonto anlegen">
 <!ENTITY button.haveAccount.label      "Ich habe ein Benutzerkonto">
 
@@ -89,6 +89,8 @@
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "Einstellungen">
 <!ENTITY engine.prefs.accesskey     "E">
+<!ENTITY engine.addons.label        "Add-ons">
+<!ENTITY engine.addons.accesskey    "A">
 
 <!ENTITY choice2.merge.main.label      "Zusammenführen der Daten auf diesem Computer mit den &syncBrand.shortName.label;-Daten">
 <!ENTITY choice2.merge.recommended.label "Empfohlen:">
