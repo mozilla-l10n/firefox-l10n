@@ -11,15 +11,14 @@
    - for the specific language governing rights and limitations under the
    - License.
    -
-   - The Original Code is Mozilla Calendar Preferences
+   - The Original Code is Mozilla Calendar code.
    -
    - The Initial Developer of the Original Code is
-   - Matthew Willis
-   - Portions created by the Initial Developer are Copyright (C) 2006
+   -   Philipp Kewisch <mozilla@kewis.ch>
+   - Portions created by the Initial Developer are Copyright (C) 2011
    - the Initial Developer. All Rights Reserved.
    -
-   - Contributor(s): 
-   -   Cédric Corazza <cedric.corazza@wanadoo.fr>
+   - Contributor(s):
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -35,22 +34,9 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!-- WARNING! This file contains UTF-8 encoded characters!
-   - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
-   - your editor isn't using UTF-8 encoding and may munge up the document!
-  -->
+<!ENTITY lightning.toolbar.calendar.name "Calendar Toolbar">
+<!ENTITY lightning.toolbar.calendar.accesskey "C">
+<!ENTITY lightning.toolbar.task.name "Task Toolbar">
+<!ENTITY lightning.toolbar.task.accesskey "T">
 
-<!ENTITY pref.mainbox.label "ਆਮ ਸੈਟਿੰਗ" >
-<!ENTITY pref.dateformat.label "ਤਾਰੀਖ ਪਾਠ ਫਾਰਮੈਟ:" >
-<!ENTITY pref.dateformat.accesskey "D">
-<!ENTITY pref.dateformat.long "ਲੰਮਾ" >
-<!ENTITY pref.dateformat.short "ਛੋਟਾ"  >
-<!ENTITY pref.defaultlength.label "ਡਿਫਾਲਟ ਘਟਨਾ ਲੰਬਾਈ:" >
-<!ENTITY pref.defaultlength.accesskey "E">
-<!ENTITY pref.defaultsnoozelength.label "ਮੂਲ ਸ਼ਾਂਤ (snooze) ਲੰਬਾਈ:" >
-<!ENTITY pref.defaultsnoozelength.accesskey "S">
-
-
-<!ENTITY pref.accessibility.label "ਅਸੈਸਬਿਲਟੀ" >
-<!ENTITY pref.systemcolors.label "Optimize colors for accessibility" >
-<!ENTITY pref.systemcolors.accesskey "c">
+<!ENTITY lightning.toolbar.sync.label "Synchronize">
