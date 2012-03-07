@@ -78,8 +78,10 @@
 <!ENTITY lightning.toolbar.mail.label         "ਮੇਲ">
 <!ENTITY lightning.toolbar.mail.accesskey     "M">
 <!ENTITY lightning.toolbar.calendar.label     "ਕੈਲੰਡਰ">
+<!ENTITY lightning.toolbar.calendar.tooltip   "ਕੈਲੰਡਰ ਟੈਬ ਉੱਤੇ ਜਾਓ">
 <!ENTITY lightning.toolbar.calendar.accesskey "C">
 <!ENTITY lightning.toolbar.task.label         "ਟਾਸਕ">
+<!ENTITY lightning.toolbar.task.tooltip       "ਟਾਸਕ ਟੈਬ ਉੱਤੇ ਜਾਓ">
 <!ENTITY lightning.toolbar.task.accesskey     "T">
 
 <!-- Toolbar write button -->
@@ -97,7 +99,7 @@
 <!ENTITY lightning.toolbar.month.accesskey           "M">
 
 <!-- properties dialog, calendar creation wizard -->
-<!ENTITY lightning.calendarproperties.showevents.inagenda.label "Show Events in Today Pane">
+<!ENTITY lightning.calendarproperties.showevents.inagenda.label "ਅੱਜ ਪੱਟੀ ਵਿੱਚ ਈਵੈਂਟ ਵੇਖਾਓ">
 <!ENTITY lightning.calendarproperties.showtasks.label           "Show Tasks in Today Pane and Task Mode">
 <!ENTITY lightning.calendarproperties.email.label               "ਈਮੇਲ:">
 
@@ -111,10 +113,10 @@
 <!ENTITY lightning.keys.todo.new "D">
 
 <!-- Account Central page -->
-<!ENTITY lightning.acctCentral.newCalendar.label "Create a new calendar">
+<!ENTITY lightning.acctCentral.newCalendar.label "ਨਵਾਂ ਕੈਲੰਡਰ ਬਣਾਓ">
 
 <!-- today-pane-specific -->
-<!ENTITY todaypane.showMinimonth.label "Show Mini-Month">
+<!ENTITY todaypane.showMinimonth.label "ਮਿੰਨੀ-ਮਹੀਨਾ ਵੇਖਾਓ">
 <!ENTITY todaypane.showMinimonth.accesskey "M">
 <!ENTITY todaypane.showMiniday.label "Show Mini-Day">
 <!ENTITY todaypane.showMiniday.accesskey  "d">

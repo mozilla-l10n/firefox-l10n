@@ -90,7 +90,7 @@
 <!ENTITY calendar.day.button.tooltip            "ਦਿਨ ਝਲਕ ਵਿੱਚ ਬਦਲੋ" >
 <!ENTITY calendar.week.button.tooltip           "ਹਫ਼ਤਾ ਝਲਕ ਵਿੱਚ ਬਦਲੋ" >
 <!ENTITY calendar.month.button.tooltip          "ਮਹੀਨਾ ਝਲਕ ਵੇਖੋ" >
-<!ENTITY calendar.multiweek.button.tooltip      "Switch to multiweek view" >
+<!ENTITY calendar.multiweek.button.tooltip      "ਬਹੁ-ਹਫ਼ਤਾ ਝਲਕ ਵੇਖਾਓ" >
 
 <!ENTITY calendar.nextday.label                 "ਅਗਲਾ ਦਿਨ" >
 <!ENTITY calendar.prevday.label                 "ਪਿਛਲਾ ਦਿਨ" >
@@ -107,16 +107,16 @@
 
 <!ENTITY calendar.navigation.nextday.tooltip    "ਇੱਕ ਦਿਨ ਅੱਗੇ ਜਾਓ" >
 <!ENTITY calendar.navigation.prevday.tooltip    "ਇੱਕ ਦਿਨ ਪਿੱਛੇ ਜਾਓ" >
-<!ENTITY calendar.navigation.nextweek.tooltip   "One Week Forward" >
-<!ENTITY calendar.navigation.prevweek.tooltip   "One Week Back" >
-<!ENTITY calendar.navigation.nextmonth.tooltip  "One Month Forward" >
-<!ENTITY calendar.navigation.prevmonth.tooltip  "One Month Back" >
+<!ENTITY calendar.navigation.nextweek.tooltip   "ਇੱਕ ਹਫ਼ਤਾ ਅੱਗੇ" >
+<!ENTITY calendar.navigation.prevweek.tooltip   "ਇੱਕ ਹਫ਼ਤਾ ਪਿੱਛੇ" >
+<!ENTITY calendar.navigation.nextmonth.tooltip  "ਇੱਕ ਮਹੀਨਾ ਅੱਗੇ" >
+<!ENTITY calendar.navigation.prevmonth.tooltip  "ਇੱਕ ਮਹੀਨਾ ਪਿੱਛੇ" >
 
 <!ENTITY calendar.newevent.button.label         "ਅਗਲਾ ਈਵੈਂਟ" >
 <!ENTITY calendar.newtask.button.label          "ਅਗਲੀ ਟਾਸਕ" >
 <!ENTITY calendar.print.button.label            "ਪਰਿੰਟ ਕਰੋ" >
 
-<!ENTITY calendar.export.calendar                "Export Calendar…" >
+<!ENTITY calendar.export.calendar                "…ਕੈਲੰਡਰ ਐਕਸਪੋਰਟ" >
 
 <!ENTITY calendar.day.button.label              "ਦਨਿ" >
 <!ENTITY calendar.week.button.label             "ਹਫ਼ਤਾ" >
@@ -176,8 +176,8 @@
 <!ENTITY calendar.task-details.due.label             "ਅੰਤ ਮਿਤੀ">
 
 <!ENTITY calendar.task.category.button.tooltip  "ਕੈਟਾਗਰੀ ਟਾਸਕ">
-<!ENTITY calendar.task.complete.button.tooltip  "Mark selected tasks completed">
-<!ENTITY calendar.task.priority.button.tooltip  "Change the priority">
+<!ENTITY calendar.task.complete.button.tooltip  "ਚੁਣੀ ਟਾਸਕ ਪੂਰੀ ਹੋਈ ਦਰਸਾਉ">
+<!ENTITY calendar.task.priority.button.tooltip  "ਤਰਜੀਹ ਬਦਲੋ">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label            "Document: Done">
@@ -216,7 +216,7 @@
 
 <!ENTITY percnt "&#38;#37;" ><!--=percent sign-->
 
-<!ENTITY calendar.context.markcompleted.label     "Mark Completed">
+<!ENTITY calendar.context.markcompleted.label     "ਪੂਰਾ ਕੀਤੀ ਮਾਰਕ">
 <!ENTITY calendar.context.markcompleted.accesskey "o">
 
 <!ENTITY progress.level.0             "0&percnt; ਮੁਕੰਮਲ">
@@ -230,19 +230,19 @@
 <!ENTITY progress.level.100            "100&percnt; ਮੁਕੰਮਲ">
 <!ENTITY progress.level.100.accesskey  "1">
 
-<!ENTITY priority.level.none                "Not specified">
+<!ENTITY priority.level.none                "ਨਹੀਂ ਦਿੱਤਾ">
 <!ENTITY priority.level.none.accesskey      "s">
-<!ENTITY priority.level.low                 "Low">
+<!ENTITY priority.level.low                 "ਘੱਟ">
 <!ENTITY priority.level.low.accesskey       "L">
-<!ENTITY priority.level.normal              "Normal">
+<!ENTITY priority.level.normal              "ਸਧਾਰਨ">
 <!ENTITY priority.level.normal.accesskey    "N">
-<!ENTITY priority.level.high                "High">
+<!ENTITY priority.level.high                "ਉੱਚ">
 <!ENTITY priority.level.high.accesskey      "H">
 
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
      task action buttons -->
-<!ENTITY calendar.taskview.delete.label     "Delete">
+<!ENTITY calendar.taskview.delete.label     "ਹਟਾਓ">
 <!ENTITY calendar.taskview.delete.accesskey "l">
 
 <!-- Server Context Menu -->
@@ -252,8 +252,8 @@
 <!ENTITY calendar.context.findcalendar.accesskey       "F" >
 <!ENTITY calendar.context.deleteserver.label           "ਕੈਲੰਡਰ ਹਟਾਓ">
 <!ENTITY calendar.context.deleteserver.accesskey       "D">
-<!ENTITY calendar.context.reloadserver.label           "ਰਿਮੋਟ ਕੈਲੰਡਰ ਮੁੜ-ਲੋਡ ਕਰੋ">
-<!ENTITY calendar.context.reloadserver.accesskey       "R">
+<!ENTITY calendar.context.synccalendars.label          "ਕੈਲੰਡਰ ਸੈਕਰੋਨਾਈਜ਼ ਕਰੋ">
+<!ENTITY calendar.context.synccalendars.accesskey      "S">
 <!ENTITY calendar.context.publish.label                "…ਕੈਲੰਡਰ ਪਬਲਿਸ਼ ਕਰੋ">
 <!ENTITY calendar.context.publish.accesskey            "b">
 <!ENTITY calendar.context.export.label                 "…ਕੈਲੰਡਰ ਐਕਸਪੋਰਟ ਕਰੋ">
@@ -261,7 +261,7 @@
 <!ENTITY calendar.context.properties.label             "ਵਿਸ਼ੇਸ਼ਤਾ">
 <!ENTITY calendar.context.properties.accesskey         "P">
 
-<!ENTITY calendar.context.convertmenu.label              "Convert To">
+<!ENTITY calendar.context.convertmenu.label              "ਬਦਲੋ">
 <!ENTITY calendar.context.convertmenu.accesskey.mail     "n">
 <!ENTITY calendar.context.convertmenu.accesskey.calendar "v">
 <!ENTITY calendar.context.convertmenu.event.label        "ਈਵੈਂਟ…">
@@ -277,7 +277,7 @@
 <!ENTITY calendar.tasks.view.calendarlist.label        "ਕੈਲੰਡਰ ਲਿਸਟ">
 <!ENTITY calendar.tasks.view.calendarlist.accesskey    "L">
 
-<!ENTITY calendar.tasks.view.filtertasks.label           "Filter Tasks">
+<!ENTITY calendar.tasks.view.filtertasks.label           "ਟਾਸਕ ਫਿਲਟਰ ਕਰੋ">
 <!ENTITY calendar.tasks.view.filtertasks.accesskey       "F">
 
 <!-- Calendar Alarm Dialog -->
@@ -304,7 +304,7 @@
      This string is not seen in the UI, it is read by screen readers when the
      user focuses the "Cancel" button in the "Snooze for..." popup of the alarm
      dialog. -->
-<!ENTITY calendar.alarm.snooze.cancel               "Cancel Snooze">
+<!ENTITY calendar.alarm.snooze.cancel               "ਮਨਸੂਖ ਕਰਨਾ ਰੱਦ">
 
 <!-- Calendar Server Dialog -->
 <!ENTITY calendar.server.dialog.title.edit          "ਕੈਲੰਡਰ ਸੋਧ">
@@ -323,33 +323,33 @@
 <!ENTITY calendarproperties.readonly.label                 "ਕੇਵਲ ਪੜ੍ਹਨ ਲਈ">
 <!ENTITY calendarproperties.firealarms.label               "ਅਲਾਰਮ ਵੇਖਆਓ">
 <!ENTITY calendarproperties.cache2.label                    "ਕੈਸ਼">
-<!ENTITY calendarproperties.enabled.label                  "Switch this calendar on">
+<!ENTITY calendarproperties.enabled.label                  "ਇਹ ਕੈਲੰਡਰ ਉੱਤੇ ਬਦਲੋ">
 <!ENTITY calendarproperties.forceDisabled.label            "The provider for this calendar could not be found. This often happens if you have disabled or uninstalled certain addons.">
 <!ENTITY calendarproperties.unsubscribe.label              "ਮੈਂਬਰ ਹਟਾਓ">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "U">
 
 <!-- Calendar Publish Dialog -->
 <!ENTITY calendar.publish.dialog.title              "ਕੈਲੰਡਰ ਪਬਲਿਸ਼ ਕਰੋ">
-<!ENTITY calendar.publish.url.label                 "Publishing URL">
-<!ENTITY calendar.publish.publish.button      "Publish">
+<!ENTITY calendar.publish.url.label                 "ਪਬਲਿਸ਼ ਕਰਨ  ਲਈ URL">
+<!ENTITY calendar.publish.publish.button      "ਪਬਲਿਸ਼ ਕਰੋ">
 <!ENTITY calendar.publish.close.button      "ਬੰਦ ਕਰੋ">
 
-<!ENTITY calendar.publish.example.url.description   "Something like http://www.myserver.com/webdav/test.ics">
+<!ENTITY calendar.publish.example.url.description   "ਕੁਝ ਜਿਵੇਂ  http://www.myserver.com/webdav/test.ics">
 
 <!-- Select Calendar Dialog -->
 <!ENTITY calendar.select.dialog.title    "ਕੈਲੰਡਰ ਚੁਣੋ">
 
 <!-- Calendar Printing -->
-<!ENTITY calendar.print.window.title "Print A Calendar">
+<!ENTITY calendar.print.window.title "ਕੈਲੰਡਰ ਪਰਿੰਟ ਕਰੋ">
 <!ENTITY calendar.print.title.label "ਨਾਂ:">
 <!ENTITY calendar.print.layout.label "ਲੇਆਉਟ">
 <!ENTITY calendar.print.range.label "ਕੀ ਪਰਿੰਟ ਕਰਨਾ ਹੈ">
-<!ENTITY calendar.print.currentView2.label "Current view">
-<!ENTITY calendar.print.selectedEventsAndTasks.label "Selected events/tasks">
+<!ENTITY calendar.print.currentView2.label "ਮੌਜੂਦਾ ਝਲਕ">
+<!ENTITY calendar.print.selectedEventsAndTasks.label "ਚੁਣੇ ਈਵੈਂਟ/ਟਾਸਕ">
 <!ENTITY calendar.print.tasks.label "ਟਾਸਕ">
 <!ENTITY calendar.print.events.label "ਈਵੈਂਟ">
-<!ENTITY calendar.print.selected.label "Selected events">
-<!ENTITY calendar.print.custom.label "Custom date range:">
+<!ENTITY calendar.print.selected.label "ਚੁਣੇ ਈਵੈਂਟ">
+<!ENTITY calendar.print.custom.label "ਪਸੰਦੀਦਾ ਮਿਤੀ ਹੱਦ:">
 <!ENTITY calendar.print.from.label "ਵਲੋਂ:">
 <!ENTITY calendar.print.to.label "ਵੱਲ:">
 <!ENTITY calendar.print.settingsGroup.label "ਪਰਿੰਟ ਸੈਟਿੰਗ">
@@ -361,5 +361,5 @@
 <!ENTITY calendar.error.detail "ਵੇਰਵਾ…">
 <!ENTITY calendar.error.code "Error code:">
 <!ENTITY calendar.error.description "ਵੇਰਵਾ:">
-<!ENTITY calendar.error.title "An error has occurred">
+<!ENTITY calendar.error.title "ਇੱਕ ਗਲਤੀ ਆਈ ਹੈ">
 
