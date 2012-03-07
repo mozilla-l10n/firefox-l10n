@@ -10,7 +10,7 @@
 <!ENTITY addOtherAccountButton.accesskey "T">
 <!ENTITY setDefaultButton.label "Vëre si Parazgjedhje">
 <!ENTITY setDefaultButton.accesskey "P">
-<!ENTITY removeButton.label "Hiqni Llogari">
+<!ENTITY removeButton.label "Hiqe Llogarinë">
 <!ENTITY removeButton.accesskey "H">
 
 <!-- AccountManager.xul -->
