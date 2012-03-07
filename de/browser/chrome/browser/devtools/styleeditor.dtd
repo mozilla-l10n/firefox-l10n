@@ -22,17 +22,6 @@
 <!ENTITY importButton.accesskey     "m">
 <!ENTITY importButton.commandkey    "i">
 
-<!ENTITY searchInput.tooltip        "Stil-Dokument mittels Namen suchen">
-<!ENTITY searchInput.placeholder    "Stil-Dokument suchen">
-
-<!-- LOCALIZATION NOTE  (searchNoResults): This is shown when searching a term
-     that is not found in any stylesheet or stylesheet name. -->
-<!ENTITY searchNoResults.label      "Es wurde kein übereinstimmendes Stil-Dokument gefunden.">
-
-<!-- LOCALIZATION NOTE  (searchClearButton): This button clears the search input
-     box and is visible only when a search term has been typed. -->
-<!ENTITY searchClearButton.label    "Leeren">
-
 <!ENTITY visibilityToggle.tooltip   "Anwendung des Stil-Dokuments umschalten">
 <!ENTITY visibilityToggle.accesskey "u">
 
