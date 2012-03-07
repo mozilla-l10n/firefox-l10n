@@ -28,6 +28,6 @@
 <!ENTITY selectHeaderType.label "Выберите тип заголовка ответа:">
 <!ENTITY selectHeaderType.accesskey "б">
 <!ENTITY noReplyOption.label "Без заголовка ответа">
-<!ENTITY authorWroteOption.label "[Author] написал:">
-<!ENTITY onDateWroteOption.label "[date] [author] написал:">
-<!ENTITY authorOnDateWroteOption.label "[Author] написал [date]:">
+<!ENTITY authorWroteOption.label "[Автор] написал:">
+<!ENTITY onDateWroteOption.label "[дата] [автор] написал:">
+<!ENTITY authorOnDateWroteOption.label "[Автор] написал [дата]:">
