@@ -1,6 +1,6 @@
 <!ENTITY pref.navigator.title "Böngésző">
 
-<!ENTITY navRadio.label "Display on">
+<!ENTITY navRadio.label "Megjelenítendő oldal">
 <!ENTITY navRadio.accesskey "n">
 <!ENTITY navStartPageMenu.label "Böngésző elindítása">
 <!ENTITY newWinPageMenu.label "Új ablak">
@@ -12,8 +12,8 @@
 <!ENTITY homePageRadio.accesskey "K">
 <!ENTITY lastPageRadio.label "Az utoljára látogatott oldal">
 <!ENTITY lastPageRadio.accesskey "u">
-<!ENTITY restoreSessionRadio.label "Restore Previous Session">
-<!ENTITY restoreSessionRadio.accesskey "P">
+<!ENTITY restoreSessionRadio.label "Előző munkamenet visszaállítása">
+<!ENTITY restoreSessionRadio.accesskey "E">
 
 <!ENTITY header2.label "Kezdőlap">
 <!ENTITY homePageIntro.label "A 'Kezdőlap' gombra kattintva ez az oldal töltődik be.">

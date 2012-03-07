@@ -90,7 +90,7 @@
 <!ENTITY helpMenu.label "Súgó">
 <!ENTITY helpMenu.accesskey "S">
 
-<!ENTITY helpTroubleshootingInfo.label "Troubleshooting Information">
+<!ENTITY helpTroubleshootingInfo.label "Hibakeresési információ">
 <!ENTITY helpTroubleshootingInfo.accesskey "T">
 <!ENTITY releaseCmd.label "Verzióinformáció">
 <!ENTITY releaseCmd.accesskey "V">

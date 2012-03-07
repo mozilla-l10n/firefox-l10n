@@ -1,7 +1,7 @@
 <!-- LOCALIZATION NOTE (messengerCmd.label): DONT_TRANSLATE -->
 
-<!ENTITY messengerCmd.label "Mail &amp; Newsgroups">
-<!ENTITY messengerCmd.accesskey "m">
+<!ENTITY messengerCmd.label "Levelező és hírolvasó">
+<!ENTITY messengerCmd.accesskey "L">
 <!ENTITY messengerCmd.commandkey "2">
 <!ENTITY addressBookCmd.label "Címjegyzék">
 <!ENTITY addressBookCmd.accesskey "C">
