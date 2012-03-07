@@ -75,8 +75,6 @@
 <!ENTITY lightning.menu.eventtask.accesskey            "n">
 
 <!-- properties dialog, calendar creation wizard -->
-<!ENTITY lightning.calendarproperties.showevents.inagenda.label "Mostrar eventos en la vista de hoy">
-<!ENTITY lightning.calendarproperties.showtasks.label           "Mostrar tareas en la vista de hoy y modo tareas">
 <!ENTITY lightning.calendarproperties.email.label               "Correo electrónico:">
 
 <!-- iMIP Bar (meeting support) -->
