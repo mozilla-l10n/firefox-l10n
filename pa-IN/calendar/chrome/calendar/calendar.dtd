@@ -107,8 +107,8 @@
 
 <!ENTITY calendar.navigation.nextday.tooltip    "ਇੱਕ ਦਿਨ ਅੱਗੇ ਜਾਓ" >
 <!ENTITY calendar.navigation.prevday.tooltip    "ਇੱਕ ਦਿਨ ਪਿੱਛੇ ਜਾਓ" >
-<!ENTITY calendar.navigation.nextweek.tooltip   "One Week Forward" >
-<!ENTITY calendar.navigation.prevweek.tooltip   "One Week Back" >
+<!ENTITY calendar.navigation.nextweek.tooltip   "ਇੱਕ ਹਫ਼ਤਾ ਅੱਗੇ" >
+<!ENTITY calendar.navigation.prevweek.tooltip   "ਇੱਕ ਹਫ਼ਤਾ ਪਿੱਛੇ" >
 <!ENTITY calendar.navigation.nextmonth.tooltip  "One Month Forward" >
 <!ENTITY calendar.navigation.prevmonth.tooltip  "One Month Back" >
 
@@ -116,7 +116,7 @@
 <!ENTITY calendar.newtask.button.label          "ਅਗਲੀ ਟਾਸਕ" >
 <!ENTITY calendar.print.button.label            "ਪਰਿੰਟ ਕਰੋ" >
 
-<!ENTITY calendar.export.calendar                "Export Calendar…" >
+<!ENTITY calendar.export.calendar                "…ਕੈਲੰਡਰ ਐਕਸਪੋਰਟ" >
 
 <!ENTITY calendar.day.button.label              "ਦਨਿ" >
 <!ENTITY calendar.week.button.label             "ਹਫ਼ਤਾ" >
@@ -177,10 +177,10 @@
 
 <!ENTITY calendar.task.category.button.tooltip  "ਕੈਟਾਗਰੀ ਟਾਸਕ">
 <!ENTITY calendar.task.complete.button.tooltip  "Mark selected tasks completed">
-<!ENTITY calendar.task.priority.button.tooltip  "Change the priority">
+<!ENTITY calendar.task.priority.button.tooltip  "ਤਰਜੀਹ ਬਦਲੋ">
 
 <!-- Statusbar -->
-<!ENTITY statusText.label            "Document: Done">
+<!ENTITY statusText.label            "ਦਸਤਾਵੇਜ਼: ਮੁਕੰਮਲ">
 
 <!-- Context Menu -->
 <!ENTITY calendar.context.modifyorviewitem.label      "ਖੋਲ੍ਹੋ">
