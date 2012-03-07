@@ -34,9 +34,9 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY lightning.toolbar.calendar.name "Takvim araç çubuðu">
+<!ENTITY lightning.toolbar.calendar.name "Takvim araÃ§ Ã§ubuÄŸu">
 <!ENTITY lightning.toolbar.calendar.accesskey "T">
-<!ENTITY lightning.toolbar.task.name "Görev araç çubuðu">
+<!ENTITY lightning.toolbar.task.name "GÃ¶rev araÃ§ Ã§ubuÄŸu">
 <!ENTITY lightning.toolbar.task.accesskey     "G">
 
-<!ENTITY lightning.toolbar.sync.label "Eþitle">
+<!ENTITY lightning.toolbar.sync.label "EÅŸitle">
