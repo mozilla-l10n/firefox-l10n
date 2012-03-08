@@ -18,18 +18,7 @@
 <!ENTITY emailLabel.label            "Adres e-mail:">
 <!ENTITY emailLabel.accesskey        "E">
 
-<!-- Entities for Server page -->
-<!ENTITY serverTitle.label             "Informacje o serwerze">
-<!ENTITY incomingServerTypeDesc.label  "Wybierz typ serwera poczty przychodzącej:">
-<!ENTITY incomingServerNameDesc.label  "Wprowadź nazwę serwera poczty przychodzącej (na przykład: „pop.netscape.net”):">
-<!ENTITY incomingServerLabel.label     "Serwer poczty przychodzącej:">
-<!ENTITY incomingServerLabel.accesskey "S">
-<!ENTITY newsServerNameDesc.label      "Podaj adres serwera grup dyskusyjnych (NNTP) (na przykład: „news.netscape.net”):">
-<!ENTITY smtpServerDesc.label          "Wprowadź nazwę serwera poczty wychodzącej (na przykład: „smtp.netscape.net”):">
-<!ENTITY smtpServerLabel.label         "Serwer poczty wychodzącej (SMTP):">
-<!ENTITY smtpServerLabel.accesskey     "o">
-<!ENTITY newsServerLabel.label         "Serwer grup dyskusyjnych:">
-<!ENTITY newsServerLabel.accesskey     "n">
+<!ENTITY incomingTitle.label "Informacje o serwerze poczty przychodzącej">
 <!ENTITY imapType.label                "Serwer IMAP">
 <!ENTITY imapType.accesskey            "I">
 <!ENTITY popType.label                 "Serwer POP">
@@ -42,17 +31,28 @@
 <!ENTITY defaultPortLabel.label "Domyślny:">
 <!ENTITY defaultPortValue.label "">
 
+<!ENTITY incomingServer.description "Wprowadź nazwę serwera poczty przychodzącej (na przykład: „mail.example.net”).">
+<!ENTITY incomingServer.label "Serwer poczty przychodzącej:">
+<!ENTITY incomingServer.accesskey "S">
+<!ENTITY incomingUsername.description "Wprowadź, podaną przez dostawcę poczty, nazwę użytkownika (na przykład: „jkowalski”).">
+<!ENTITY incomingUsername.label "Nazwa użytkownika:">
+<!ENTITY incomingUsername.accesskey "u">
+
+<!ENTITY newsServerNameDesc.label "Podaj nazwę serwera grup dyskusyjnych (NNTP) (na przykład: „news.example.net”).">
+<!ENTITY newsServerLabel.label "Serwer grup dyskusyjnych:">
+<!ENTITY newsServerLabel.accesskey "n">
+
+<!ENTITY outgoingTitle.label "Informacje o serwerze poczty wychodzącej">
+<!ENTITY outgoingServer.description "Wprowadź nazwę serwera poczty wychodzącej (SMTP) (na przykład: „smtp.example.net”).">
+<!ENTITY outgoingServer.label "Serwer poczty wychodzącej:">
+<!ENTITY outgoingServer.accesskey "o">
+<!ENTITY outgoingUsername.description "Wprowadź, podaną przez dostawcę poczty, nazwę użytkownika dla serwera poczty wychodzącej (zazwyczaj taką samą jak dla serwera poczty przychodzącej).">
+<!ENTITY outgoingUsername.label "Nazwa użytkownika poczty wychodzącej:">
+<!ENTITY outgoingUsername.accesskey "a">
+
 <!ENTITY modifyOutgoing.suffix       "Ustawienia serwera poczty wychodzącej można zmieniać za pomocą opcji dostępnych w oknie konfiguracji kont.">
 <!ENTITY haveSmtp1.prefix            "Zostanie użyty domyślny serwer poczty wychodzącej (SMTP) - „">
 <!ENTITY haveSmtp1.suffix3           "”.">
-<!ENTITY loginTitle.label            "Nazwa użytkownika">
-<!ENTITY usernameDesc.label          "Wprowadź nazwę użytkownika, która zostanie użyta podczas połączenia z serwerem poczty przychodzącej">
-<!ENTITY usernameExample.label       "(na przykład: „michalw”).">
-<!ENTITY usernameLabel.label         "Nazwa użytkownika:">
-<!ENTITY usernameLabel.accesskey     "U">
-<!ENTITY usernameSmtpDesc.label      "Wprowadź podaną przez dostawcę Internetu nazwę użytkownika, która zostanie użyta podczas połączenia z serwerem poczty wychodzącej (ta nazwa jest zazwyczaj identyczna z nazwą użytkownika serwera poczty przychodzącej).">
-<!ENTITY usernameSmtpLabel.label     "Nazwa użytkownika:">
-<!ENTITY usernameSmtpLabel.accesskey "O">
 <!ENTITY haveSmtp2.prefix            "Do wysyłania wiadomości z tego konta zostanie użyta nazwa użytkownika domyślnego serwera poczty wychodzącej (SMTP) - „">
 <!ENTITY haveSmtp2.suffix3           "”.">
 <!ENTITY haveSmtp3.prefix            "Wprowadzone nazwy serwerów poczty wychodzącej i przychodzącej są takie same: „">
