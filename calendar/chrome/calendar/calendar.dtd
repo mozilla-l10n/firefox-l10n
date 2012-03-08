@@ -60,7 +60,6 @@
 <!ENTITY calendar.events.filter.today.label "Ngjarjet e Sotme">
 <!ENTITY calendar.events.filter.future.label "Tërë Ngjarjet e Ardhshme">
 <!ENTITY calendar.events.filter.current.label "Ditën e Përzgjedhur Tani">
-<!ENTITY calender.events.filter.currentview.label "Ngjarjet e Skenës së Tanishme">
 <!ENTITY calendar.events.filter.next7Days.label "Ngjarjet për 7 Ditët e Ardhshme">
 <!ENTITY calendar.events.filter.next14Days.label "Ngjarjet për 14 Ditët e Ardhshme">
 <!ENTITY calendar.events.filter.next31Days.label "Ngjarjet për 31 Ditët e Ardhshme">
@@ -173,10 +172,6 @@
 <!ENTITY calendar.task.complete.button.tooltip  "Shënojini punët e përzgjedhura si të plotësuara">
 <!ENTITY calendar.task.priority.button.tooltip  "Ndryshojini përparësinë">
 
-<!ENTITY calendar.task.text-filter.textbox.emptytext.base            "Filtroni punët… #1">
-<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Shift+K&gt;">
-<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
-
 <!-- Statusbar -->
 <!ENTITY statusText.label            "Dokument: U bë">
 
@@ -211,8 +206,8 @@
 <!ENTITY calendar.context.progress.accesskey          "E">
 <!ENTITY calendar.context.priority.label              "Përparësi">
 <!ENTITY calendar.context.priority.accesskey          "P">
-<!ENTITY calendar.context.postpone.label              "Shtyje Punën Për Më Vonë">
-<!ENTITY calendar.context.postpone.accesskey          "S">
+
+
 
 
 <!ENTITY percnt "&#38;#37;" ><!--=percent sign-->
@@ -362,12 +357,12 @@
 <!ENTITY calendar.task.filter.repeating.label       "Punë që Përsëriten">
 <!ENTITY calendar.task.filter.repeating.accesskey   "R">
 
-<!ENTITY calendar.context.postpone.1hour.label      "1 Orë">
-<!ENTITY calendar.context.postpone.1hour.accesskey  "O">
-<!ENTITY calendar.context.postpone.1day.label       "1 Ditë">
-<!ENTITY calendar.context.postpone.1day.accesskey   "D">
-<!ENTITY calendar.context.postpone.1week.label      "1 Javë">
-<!ENTITY calendar.context.postpone.1week.accesskey  "J">
+
+
+
+
+
+
 
 
 
