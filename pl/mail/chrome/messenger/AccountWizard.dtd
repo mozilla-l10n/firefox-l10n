@@ -19,6 +19,7 @@
 <!ENTITY emailLabel.accesskey        "E">
 
 <!ENTITY incomingTitle.label "Informacje o serwerze poczty przychodzącej">
+<!ENTITY incomingServerTypeDesc.label "Wybierz typ serwera poczty przychodzącej.">
 <!ENTITY imapType.label                "Serwer IMAP">
 <!ENTITY imapType.accesskey            "I">
 <!ENTITY popType.label                 "Serwer POP">
