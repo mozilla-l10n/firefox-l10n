@@ -9,7 +9,7 @@
 <!ENTITY resetButton.accesskey       "C">
 <!ENTITY openButton.label            "開啟">
 <!ENTITY openButton.accesskey        "n">
-<!ENTITY deleteButton.label          "刪除項目">
+<!ENTITY deleteButton.label          "刪除">
 <!ENTITY deleteButton.accesskey      "D">
 <!ENTITY searchDialogTitle.label     "搜尋郵件或文章">
 <!ENTITY results.label               "結果">

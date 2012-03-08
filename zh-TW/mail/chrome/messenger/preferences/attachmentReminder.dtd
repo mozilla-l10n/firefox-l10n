@@ -4,5 +4,5 @@
 <!ENTITY addKeywordButton.accesskey       "A">
 <!ENTITY editKeywordButton.label          "編輯">
 <!ENTITY editKeywordButton.accesskey      "E">
-<!ENTITY removeKeywordButton.label        "刪除項目">
+<!ENTITY removeKeywordButton.label        "刪除">
 <!ENTITY removeKeywordButton.accesskey    "D">
