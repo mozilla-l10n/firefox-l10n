@@ -7,7 +7,7 @@
 
 <!ENTITY feedLocation.label          "來源 URL:">
 <!ENTITY feedLocation.accesskey      "U">
-<!ENTITY feedLocation.placeholder    "請輸入有效的資訊來源網址以新增">
+<!ENTITY feedLocation.placeholder    "請輸入有效的消息來源網址以新增">
 
 <!ENTITY feedFolder.label            "保存文章於:">
 <!ENTITY feedFolder.accesskey        "S">

@@ -67,3 +67,10 @@
 <!ENTITY fontColor.accesskey                  "T">
 <!ENTITY bgColor.label                        "背景:">
 <!ENTITY bgColor.accesskey                    "B">
+
+<!ENTITY selectHeaderType.label               "選擇回覆時的檔頭類型:">
+<!ENTITY selectHeaderType.accesskey           "e">
+<!ENTITY noReplyOption.label                  "沒有回應檔頭">
+<!ENTITY authorWroteOption.label              "[作者] 寫道:">
+<!ENTITY onDateWroteOption.label              "在 [日期]，[作者] 寫道:">
+<!ENTITY authorOnDateWroteOption.label        "[作者] 在 [日期] 寫道:">

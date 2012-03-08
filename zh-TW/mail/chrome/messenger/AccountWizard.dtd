@@ -25,29 +25,17 @@
   1, do not translate two of "&quot;"
   2, Use localized full name instead of "John Smith"
 -->
-<!ENTITY fullnameExample.label "(例:「王小明」)">
+<!ENTITY fullnameExample.label "（例:「王小明」）">
 <!ENTITY fullnameLabel.label "您的大名:">
 <!ENTITY fullnameLabel.accesskey "Y">
 
 <!ENTITY emailLabel.label "Email 位址:">
 <!ENTITY emailLabel.accesskey "E">
 
-<!-- Entities for Server page -->
+<!-- Entities for Incoming Server page -->
 
-<!ENTITY serverTitle.label "伺服器資訊">
+<!ENTITY incomingTitle.label "收件伺服器資訊">
 <!ENTITY incomingServerTypeDesc.label "請選擇您用來收信的伺服器類型。">
-<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServerNameDesc.label "請輸入您收信伺服器的名稱。（例:「pop.example.net」）。">
-<!ENTITY incomingServerLabel.label "收件伺服器:">
-<!ENTITY incomingServerLabel.accesskey "S">
-<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "請輸入您的新聞群組伺服器 (NNTP) 的名稱。（例:「news.example.net」）。">
-<!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY smtpServerDesc.label "請輸入您寄件伺服器（SMTP）的名稱。（例:「smtp.example.net」）。">
-<!ENTITY smtpServerLabel.label "伺服器名稱:">
-<!ENTITY smtpServerLabel.accesskey "O">
-<!ENTITY newsServerLabel.label "新聞群組伺服器:">
-<!ENTITY newsServerLabel.accesskey "w">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "I">
@@ -60,6 +48,29 @@
 <!ENTITY portNum.accesskey "o">
 <!ENTITY defaultPortLabel.label "預設:">
 <!ENTITY defaultPortValue.label "">
+<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
+<!ENTITY incomingServer.description "請輸入您收件伺服器的名稱。（例:「pop.example.net」）。">
+<!ENTITY incomingServer.label "收件伺服器:">
+<!ENTITY incomingServer.accesskey "S">
+<!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
+<!ENTITY incomingUsername.description "請輸入您的電子郵件服務供應商提供給您的收件使用者名稱（例如「ming123」）。">
+<!ENTITY incomingUsername.label "使用者名稱:">
+<!ENTITY incomingUsername.accesskey "U">
+<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
+<!ENTITY newsServerNameDesc.label "請輸入您的新聞群組伺服器 (NNTP) 的名稱。（例:「news.example.net」）。">
+<!ENTITY newsServerLabel.label "新聞群組伺服器:">
+<!ENTITY newsServerLabel.accesskey "s">
+
+<!-- Entities for Outgoing Server page -->
+
+<!ENTITY outgoingTitle.label "寄件伺服器資訊">
+<!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
+<!ENTITY outgoingServer.description "請輸入您寄件伺服器（SMTP）的名稱。（例:「smtp.example.net」）。">
+<!ENTITY outgoingServer.label "寄件伺服器:">
+<!ENTITY outgoingServer.accesskey "S">
+<!ENTITY outgoingUsername.description "請輸入您的電子郵件服務供應商提供給您的寄件使用者名稱（通常與收件使用者名稱相同）。">
+<!ENTITY outgoingUsername.label "寄件使用者名稱:">
+<!ENTITY outgoingUsername.accesskey "u">
 
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
@@ -71,18 +82,6 @@
 -->
 <!ENTITY haveSmtp1.prefix "將會使用您已有的寄件伺服器 (SMTP):「">
 <!ENTITY haveSmtp1.suffix3 "」。">
-
-<!-- Entities for Login page -->
-
-<!ENTITY loginTitle.label "使用者名稱">
-<!ENTITY usernameDesc.label "請輸入您 Email 提供者給您的收信用使用者名稱 (或帳號)">
-<!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY usernameExample.label "(例:「ming123」)。">
-<!ENTITY usernameLabel.label "收件使用者帳號:">
-<!ENTITY usernameLabel.accesskey "I">
-<!ENTITY usernameSmtpDesc.label "輸入寄送郵件用的使用者名稱 (通常與您的收件使用者名稱一致)。">
-<!ENTITY usernameSmtpLabel.label "寄件使用者名稱:">
-<!ENTITY usernameSmtpLabel.accesskey "O">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
@@ -100,7 +99,7 @@
 
 <!ENTITY accnameTitle.label "帳號名稱">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
-<!ENTITY accnameDesc.label "請輸入這個帳號的顯示名稱。 (如「學校帳號」、「免費帳號」等等)">
+<!ENTITY accnameDesc.label "請輸入這個帳號的名稱（如「學校帳號」、「免費帳號」等等）。">
 <!ENTITY accnameLabel.label "帳號名稱:">
 <!ENTITY accnameLabel.accesskey "A">
 
@@ -115,7 +114,7 @@
 <!ENTITY downloadOnLogin.label "立刻下載郵件">
 <!ENTITY downloadOnLogin.accesskey "D">
 <!ENTITY deferStorageDesc.label "若取消勾選此項則會把目前帳號的郵件儲存在各自的目錄中。這會使此帳號顯示在最頂層，否則它就是本機郵件匣中全域信箱帳號的一部份。">
-<!ENTITY deferStorage.label "使用全域郵件匣 (將郵件存在本機郵件匣中) ">
+<!ENTITY deferStorage.label "使用全域郵件匣（將郵件存在本機郵件匣中）">
 <!ENTITY deferStorage.accesskey "G">
 <!ENTITY clickFinish.label "按下「完成」即可儲存您的設定並離開帳號設定精靈。">
 <!ENTITY clickFinish.labelMac "點選不儲存這些設定並關閉帳號精靈。">
