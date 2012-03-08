@@ -14,13 +14,13 @@
 <!ENTITY select.action               "Akcja">
 <!-- LOCALIZATION NOTE (select.action.style): Should be a width wide enough for
      the action strings in selectAddons.properties or brandShortName. -->
-<!ENTITY select.action.style         "width: 40ch;">
+<!ENTITY select.action.style         "width: 35ch;">
 <!ENTITY select.source               "Zainstalowany przez">
 <!ENTITY select.name                 "Nazwa">
 <!-- LOCALIZATION NOTE (select.name.style): Should be a width small enough so
      the source column still has enough room for the source strings in
      selectAddons.properties. -->
-<!ENTITY select.name.style           "width: 35ch;">
+<!ENTITY select.name.style           "width: 32ch;">
 
 <!ENTITY confirm.heading             "Wybierz dodatki">
 <!-- LOCALIZATION NOTE (confirm.description): The term used for "third parties"
