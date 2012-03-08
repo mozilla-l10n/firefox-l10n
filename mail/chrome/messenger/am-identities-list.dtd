@@ -3,5 +3,5 @@
 <!ENTITY identitiesListAdd.accesskey  "A">
 <!ENTITY identitiesListEdit.label "編輯…">
 <!ENTITY identitiesListEdit.accesskey "E">
-<!ENTITY identitiesListDelete.label "刪除項目">
+<!ENTITY identitiesListDelete.label "刪除">
 <!ENTITY identitiesListDelete.accesskey "D">

@@ -46,5 +46,5 @@
 <!ENTITY addDirectory.accesskey    "A">
 <!ENTITY editDirectory.label       "編輯">
 <!ENTITY editDirectory.accesskey   "E">
-<!ENTITY deleteDirectory.label     "刪除項目">
+<!ENTITY deleteDirectory.label     "刪除">
 <!ENTITY deleteDirectory.accesskey "D">

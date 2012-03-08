@@ -24,7 +24,7 @@
 <!ENTITY pasteCmd.label            "貼上">
 <!ENTITY pasteCmd.key            "V">
 <!ENTITY pasteCmd.accesskey          "P">
-<!ENTITY deleteCmd.label          "刪除項目">
+<!ENTITY deleteCmd.label          "刪除">
 <!ENTITY deleteCmd.accesskey        "D">
 <!ENTITY selectAllCmd.label          "全選">
 <!ENTITY selectAllCmd.key          "A">

@@ -71,7 +71,7 @@
 <!ENTITY findCmd.key                  "F">
 <!ENTITY findCmd.accesskey            "F">
 
-<!ENTITY findAgainCmd.label           "再次搜尋…">
+<!ENTITY findAgainCmd.label           "再次尋找…">
 <!-- LOCALIZATION NOTE (findAgainCmd.key): This key is used only on Macs.
   -  Windows and Linux builds use the F3 key which is not localizable on purpose.
   -->

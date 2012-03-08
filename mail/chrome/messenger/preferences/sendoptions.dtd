@@ -20,9 +20,9 @@
 <!ENTITY AddHtmlDomain.accesskey      "A">
 <!ENTITY AddPlainText.label           "新增…">
 <!ENTITY AddPlainText.accesskey       "A">
-<!ENTITY DeleteHtmlDomain.label       "刪除項目">
+<!ENTITY DeleteHtmlDomain.label       "刪除">
 <!ENTITY DeleteHtmlDomain.accesskey   "D">
-<!ENTITY DeletePlainText.label        "刪除項目">
+<!ENTITY DeletePlainText.label        "刪除">
 <!ENTITY DeletePlainText.accesskey    "D">
 
 <!ENTITY add.htmltitle                "增加 HTML 格式網域名稱">

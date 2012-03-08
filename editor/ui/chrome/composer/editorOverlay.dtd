@@ -306,7 +306,7 @@
 <!ENTITY tableCellAfter.label "在此格後加一格">
 <!ENTITY tableCellAfter.accesskey "f">
 <!-- Delete SubMenu -->
-<!ENTITY tableDeleteMenu.label "刪除項目">
+<!ENTITY tableDeleteMenu.label "刪除">
 <!ENTITY tableDeleteMenu.accesskey "D">
 
 <!-- text for "Join Cells" is in editor.properties 
