@@ -61,6 +61,26 @@
 <!ENTITY selectAllCmd.key             "A">
 <!ENTITY selectAllCmd.accesskey       "a">
 
+<!ENTITY findCmd.label                "Buscar…">
+<!ENTITY findCmd.key                  "F">
+<!ENTITY findCmd.accesskey            "B">
+
+<!ENTITY findAgainCmd.label           "Buscar de nuevo…">
+<!-- LOCALIZATION NOTE (findAgainCmd.key): This key is used only on Macs.
+   -  Windows and Linux builds use the F3 key which is not localizable on purpose.
+   -->
+<!ENTITY findAgainCmd.key             "G">
+<!ENTITY findAgainCmd.accesskey       "B">
+<!-- LOCALIZATION NOTE (findPreviousCmd.key): This key is used only on Macs.
+   -  Windows and Linux builds use the Shift-F3 key which is not localizable on
+   -  purpose.
+   -->
+<!ENTITY findPreviousCmd.key          "G">
+
+<!ENTITY gotoLineCmd.label            "Ir a línea…">
+<!ENTITY gotoLineCmd.key              "J">
+<!ENTITY gotoLineCmd.accesskey        "I">
+
 <!ENTITY run.label                    "Ejecutar">
 <!ENTITY run.accesskey                "E">
 <!ENTITY run.key                      "r">
@@ -95,30 +115,14 @@
 <!ENTITY browserContext.label         "Navegador">
 <!ENTITY browserContext.accesskey     "N">
 
-<!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
-  -  to reset/clear the global object of the context where the code executes.
+<!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
+  -  to reset/clear the global object of the environment where the code executes.
   -->
-<!ENTITY resetContext.label           "Reiniciar">
-<!ENTITY resetContext.accesskey       "R">
+<!ENTITY resetContext2.label          "Reiniciar variables">
+<!ENTITY resetContext2.accesskey      "v">
 
 <!ENTITY executeMenu.label            "Ejecutar">
 <!ENTITY executeMenu.accesskey        "j">
 
-<!ENTITY toolsMenu.label              "Herramientas">
-<!ENTITY toolsMenu.accesskey          "t">
-
-<!ENTITY errorConsoleCmd.label        "Consola de errores">
-<!ENTITY errorConsoleCmd.accesskey    "C">
-<!ENTITY errorConsoleCmd.commandkey   "j">
-
-<!ENTITY webConsoleCmd.label          "Consola web">
-<!ENTITY webConsoleCmd.accesskey      "w">
-<!ENTITY webConsoleCmd.commandkey     "k">
-
-<!-- LOCALIZATION NOTE (textbox.placeholder1): This is some placeholder text
-  -  that appears when the Scratchpad's text area is empty and unfocused.
-  -  It should be a one-line JavaScript comment, i.e., preceded by '//'
-  -->
-<!ENTITY textbox.placeholder1         "// Ingrese algo de JavaScript, selecciónelo, clic derecho y seleccione Ejecutar, Inspeccionar o Mostrar.">
 
 
