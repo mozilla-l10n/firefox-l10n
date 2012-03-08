@@ -75,8 +75,6 @@
 <!ENTITY lightning.menu.eventtask.accesskey            "n">
 
 <!-- properties dialog, calendar creation wizard -->
-<!ENTITY lightning.calendarproperties.showevents.inagenda.label "Mostrar Eventos no Painel Hoje">
-<!ENTITY lightning.calendarproperties.showtasks.label           "Mostrar Tarefas no Painel Hoje e Modo de Tarefas">
 <!ENTITY lightning.calendarproperties.email.label        "Conta de correio:">
 
 <!-- iMIP Bar (meeting support) -->
