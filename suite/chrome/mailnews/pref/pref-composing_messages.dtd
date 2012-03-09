@@ -25,3 +25,9 @@
 <!ENTITY fontColor.accesskey "t">
 <!ENTITY bgColor.label "Sfondo:">
 <!ENTITY bgColor.accesskey "S">
+<!ENTITY selectHeaderType.label "Selezionare il tipo di intestazione di risposta:">
+<!ENTITY selectHeaderType.accesskey "e">
+<!ENTITY noReplyOption.label "Nessuna intestazione di risposta">
+<!ENTITY authorWroteOption.label "[Author] ha scritto:">
+<!ENTITY onDateWroteOption.label "Il [date], [Author] ha scritto:">
+<!ENTITY authorOnDateWroteOption.label "[Author] ha scritto, il [date]:">

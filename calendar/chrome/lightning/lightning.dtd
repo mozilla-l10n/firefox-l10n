@@ -59,8 +59,6 @@
 <!ENTITY lightning.menu.view.tasks.accesskey "v">
 <!ENTITY lightning.menu.eventtask.label "Eventi e attività">
 <!ENTITY lightning.menu.eventtask.accesskey "E">
-<!ENTITY lightning.calendarproperties.showevents.inagenda.label "Mostra gli eventi nel pannello Oggi">
-<!ENTITY lightning.calendarproperties.showtasks.label "Mostra le attività nel pannello Oggi e nella modalità Attività">
 <!ENTITY lightning.calendarproperties.email.label "E-mail:">
 <!ENTITY lightning.imipbar.description "Questo messaggio contiene un invito ad un evento.">
 <!ENTITY lightning.keys.event.showCalendar.key "C">
