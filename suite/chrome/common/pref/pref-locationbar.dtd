@@ -23,6 +23,10 @@
 <!ENTITY autoCompleteMatchWords                "Alleen op woordgrenzen">
 <!ENTITY autoCompleteMatchStart                "Alleen aan het begin van de locatie of titel">
 
+<!ENTITY formatting.label                      "Opmaak">
+<!ENTITY domainFormatting.label                "Accentueer de effectieve domein van websites en FTP-servers">
+<!ENTITY domainFormatting.accesskey            "d">
+
 <!ENTITY searchEngine.label                    "Internetzoekmachine">
 <!ENTITY showSearchEngine.label                "Standaardzoekmachine tonen">
 <!ENTITY showSearchEngine.accesskey            "S">
