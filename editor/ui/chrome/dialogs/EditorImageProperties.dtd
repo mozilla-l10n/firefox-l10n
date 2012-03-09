@@ -78,8 +78,6 @@
 <!ENTITY imagemapBox.label "Map Gambar">
 <!ENTITY removeImageMapButton.label "Hapus">
 <!ENTITY removeImageMapButton.accessKey "H">
-<!ENTITY editImageMapButton.label "Ubah…">
-<!ENTITY editImageMapButton.tooltip "Buat hotspot yang dapat diklik untuk gambar ini">
 
 <!-- These are the options for image alignment -->
 <!ENTITY alignment.label "Ratakan Teks ke Gambar">
