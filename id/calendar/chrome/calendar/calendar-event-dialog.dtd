@@ -360,8 +360,6 @@
 <!ENTITY event.freebusy.next.slot               "sesudah " >
 <!ENTITY event.freebusy.previous.slot           " sebelum" >
 <!ENTITY event.freebusy.zoom                    "Perbesaran:">
-<!ENTITY event.freebusy.plus                    "Jam berikutnya" >
-<!ENTITY event.freebusy.minus                   "Jam selanjutnya" >
 <!ENTITY event.freebusy.legend.free             "Bebas" >
 <!ENTITY event.freebusy.legend.busy             "Sibuk" >
 <!ENTITY event.freebusy.legend.busy_tentative   "Tentatif" >
