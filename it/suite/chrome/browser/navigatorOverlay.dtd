@@ -68,7 +68,7 @@
 <!ENTITY manBookmarksCmd.accesskey "G">
 <!ENTITY manBookmarksCmd.commandkey "b">
 <!ENTITY searchInternetCmd.label "Cerca nel web">
-<!ENTITY searchInternetCmd.accesskey "C">
+<!ENTITY searchInternetCmd.accesskey "b">
 <!ENTITY searchInternet.commandKey "s">
 <!ENTITY translateMenu.label "Traduci pagina">
 <!ENTITY translateMenu.accesskey "T">
@@ -104,7 +104,7 @@
 <!ENTITY cookieManagePopups.label "Gestione pop-up">
 <!ENTITY cookieManagePopups.accesskey "G">
 <!ENTITY cookieCookieManager.label "Gestione cookie">
-<!ENTITY cookieCookieManager.accesskey "G">
+<!ENTITY cookieCookieManager.accesskey "k">
 <!ENTITY cookieImageManager.label "Gestione immagini">
 <!ENTITY cookieImageManager.accesskey "I">
 <!ENTITY cookiePopupManager.label "Gestione pop-up">

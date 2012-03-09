@@ -1,4 +1,4 @@
-<!ENTITY prefWindow.size "width: 52em; height: 41em;">
+<!ENTITY prefWindow.size "width: 63em; height: 41em;">
 <!ENTITY urlbar.label "Ctrl+Invio nella barra degli indirizzi">
 <!ENTITY urlbar.accesskey "b">
 <!ENTITY middleClick.label "Clic col tasto centrale, Ctrl+clic o Ctrl+Invio sui link nella pagina web">
