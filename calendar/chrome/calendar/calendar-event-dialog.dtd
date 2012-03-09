@@ -55,7 +55,7 @@
 <!ENTITY newevent.status.label                    "Status" >
 <!ENTITY newevent.status.accesskey                "S" >
 <!ENTITY newevent.eventStatus.none.label          "Nije definiran" >
-<!ENTITY newevent.eventStatus.none.accesskey      "o" >
+<!ENTITY newevent.eventStatus.none.accesskey      "j" >
 <!ENTITY newevent.todoStatus.none.label           "Nije definiran" >
 <!ENTITY newevent.eventStatus.cancelled.label     "Otkazano" >
 <!ENTITY newevent.eventStatus.cancelled.accesskey "n" >
