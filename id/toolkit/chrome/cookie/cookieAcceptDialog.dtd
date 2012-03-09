@@ -4,7 +4,6 @@
 <!ENTITY     props.path.label               "Path:">
 <!ENTITY     props.secure.label             "Kirim Untuk:">
 <!ENTITY     props.expires.label            "Kedaluwarsa:">
-<!ENTITY     props.policy.label             "Kebijakan:"> 
 
 <!ENTITY     button.allow.label             "Izinkan">
 <!ENTITY     button.allow.accesskey         "I">
