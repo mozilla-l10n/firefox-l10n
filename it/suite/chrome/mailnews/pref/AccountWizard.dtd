@@ -16,17 +16,8 @@
 <!ENTITY fullnameLabel.accesskey "N">
 <!ENTITY emailLabel.label "Indirizzo e-mail:">
 <!ENTITY emailLabel.accesskey "e">
-<!ENTITY serverTitle.label "Informazioni sul server">
+<!ENTITY incomingTitle.label "Informazioni server in ingresso">
 <!ENTITY incomingServerTypeDesc.label "Selezionare il tipo di server in ingresso utilizzato.">
-<!ENTITY incomingServerNameDesc.label "Inserire il nome del server in ingresso (ad esempio, &quot;mail.esempio.it&quot;).">
-<!ENTITY incomingServerLabel.label "Server in ingresso:">
-<!ENTITY incomingServerLabel.accesskey "S">
-<!ENTITY newsServerNameDesc.label "Inserire il nome del server per i gruppi di discussione (NNTP) (ad esempio, &quot;news.esempio.it&quot;).">
-<!ENTITY smtpServerDesc.label "Inserire il nome del server in uscita (SMTP) (ad esempio, &quot;smtp.esempio.it&quot;).">
-<!ENTITY smtpServerLabel.label "Server in uscita:">
-<!ENTITY smtpServerLabel.accesskey "u">
-<!ENTITY newsServerLabel.label "Server gruppi discussione:">
-<!ENTITY newsServerLabel.accesskey "S">
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "M">
 <!ENTITY popType.label "POP">
@@ -35,19 +26,27 @@
 <!ENTITY portNum.accesskey "o">
 <!ENTITY defaultPortLabel.label "Predefinita:">
 <!ENTITY defaultPortValue.label "">
+<!ENTITY incomingServer.description "Inserire il nome del server in ingresso (per esempio, &quot;mail.esempio.it&quot;).">
+<!ENTITY incomingServer.label "Server in ingresso:">
+<!ENTITY incomingServer.accesskey "I">
 <!ENTITY leaveMsgsOnSrvr.label "Lascia i messaggi sul server">
 <!ENTITY leaveMsgsOnSrvr.accesskey "L">
+<!ENTITY incomingUsername.description "Inserire il nome utente in ingresso assegnato dal fornitore di posta elettronica (per esempio, &quot;mrossi&quot;).">
+<!ENTITY incomingUsername.label "Nome utente:">
+<!ENTITY incomingUsername.accesskey "u">
+<!ENTITY newsServerNameDesc.label "Inserire il nome del server per i gruppi di discussione (NNTP) (ad esempio, &quot;news.esempio.it&quot;).">
+<!ENTITY newsServerLabel.label "Server gruppi discussione:">
+<!ENTITY newsServerLabel.accesskey "S">
+<!ENTITY outgoingTitle.label "Informazioni server in uscita">
+<!ENTITY outgoingServer.description "Inserire il nome del server in uscita (SMTP) (per esempio, &quot;smtp.esempio.it&quot;).">
+<!ENTITY outgoingServer.label "Server in uscita:">
+<!ENTITY outgoingServer.accesskey "S">
+<!ENTITY outgoingUsername.description "Inserire il nome utente in uscita assegnato dal fornitore di posta elettronica (di solito è lo stesso di quello in ingresso).">
+<!ENTITY outgoingUsername.label "Nome utente in uscita:">
+<!ENTITY outgoingUsername.accesskey "u">
 <!ENTITY modifyOutgoing.suffix "È possibile modificare le impostazioni del server in uscita scegliendo Configurazione account dal menu Modifica di Posta e gruppi di discussione.">
 <!ENTITY haveSmtp1.prefix "Verrà usato l'attuale server di uscita (SMTP), &quot;">
 <!ENTITY haveSmtp1.suffix3 "&quot;">
-<!ENTITY loginTitle.label "Nomi utente">
-<!ENTITY usernameDesc.label "Inserire il nome utente in ingresso comunicato dal proprio fornitore di e-mail">
-<!ENTITY usernameExample.label "(ad esempio, &quot;mrossi&quot;)">
-<!ENTITY usernameLabel.label "Nome utente in ingresso:">
-<!ENTITY usernameLabel.accesskey "N">
-<!ENTITY usernameSmtpDesc.label "Inserire il nome utente in uscita comunicato dal proprio fornitore di e-mail (di solito è lo stesso del nome utente in ingresso).">
-<!ENTITY usernameSmtpLabel.label "Nome utente in uscita:">
-<!ENTITY usernameSmtpLabel.accesskey "o">
 <!ENTITY haveSmtp2.prefix "Verrà usato l'attuale nome utente per il server in uscita (SMTP), &quot;">
 <!ENTITY haveSmtp2.suffix3 "&quot;">
 <!ENTITY haveSmtp3.prefix "Il server in uscita (SMTP), &quot;">

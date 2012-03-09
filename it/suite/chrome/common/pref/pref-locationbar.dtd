@@ -16,6 +16,9 @@
 <!ENTITY autoCompleteMatchWordsFirst "ovunque ma preferendo gli estremi delle parole">
 <!ENTITY autoCompleteMatchWords "solo agli estremi delle parole">
 <!ENTITY autoCompleteMatchStart "solo all'inizio dell'indirizzo o del titolo">
+<!ENTITY formatting.label "Formattazione">
+<!ENTITY domainFormatting.label "Evidenzia il dominio effettivo per i siti web e i server FTP">
+<!ENTITY domainFormatting.accesskey "d">
 <!ENTITY searchEngine.label "Motore di ricerca sul web">
 <!ENTITY showSearchEngine.label "Visualizza il motore di ricerca predefinito">
 <!ENTITY showSearchEngine.accesskey "V">
