@@ -11,11 +11,13 @@
 <!ENTITY deleteCmd.label "Dileu">
 <!ENTITY deleteCmd.accesskey "d">
 
-<!ENTITY spellAddToDictionary.label "Ychwanegu i'r Geiriadur">
+<!ENTITY spellAddToDictionary.label "Ychwanegu at y Geiriadur">
 <!ENTITY spellAddToDictionary.accesskey "o">
+<!ENTITY spellUndoAddToDictionary.label "Dadwneud Ychwanegu at y Geiriadur">
+<!ENTITY spellUndoAddToDictionary.accesskey "D">
 <!ENTITY spellCheckEnable.label "Gwirio Sillafu">
 <!ENTITY spellCheckEnable.accesskey "G">
 <!ENTITY spellNoSuggestions.label "(Dim Awgrymiadau Sillafu)">
-<!ENTITY spellDictionaries.label "Iaith">
+<!ENTITY spellDictionaries.label "Ieithoedd">
 <!ENTITY spellDictionaries.accesskey "l">
 

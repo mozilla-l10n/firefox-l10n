@@ -42,7 +42,7 @@
 <!ENTITY safeModeDescription.label    "Mae &brandShortName; yn rhedeg yn y Modd Diogel, sy'n anablu dros dro eich gosodiadau cyfaddas personol, themâu ac estyniadau.">
 <!ENTITY safeModeDescription2.label   "Mae modd gwneud rhai neu'r holl newidiadau'n rhai parhaol:">
 
-<!ENTITY disableAddons.label          "Disable all add-ons">
+<!ENTITY disableAddons.label          "Atal pob ychwanegyn">
 <!ENTITY disableAddons.accesskey      "A">
 
 <!ENTITY resetToolbars.label          "Ailosod barau offer a rheolyddion">

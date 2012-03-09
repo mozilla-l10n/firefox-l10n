@@ -2,7 +2,7 @@
 
 <!ENTITY startupPage.label         "Cychwyn &brandShortName;:">
 <!ENTITY startupPage.accesskey     "C">
-<!ENTITY startupHomePage.label     "Dangos fy nhudalen cartref">
+<!ENTITY startupHomePage.label     "Dangos tudalen cartref">
 <!ENTITY startupBlankPage.label    "Dangos tudalen wag">
 <!ENTITY startupLastSession.label  "Ffenestri a thabiau tro diwethaf">
 <!ENTITY restoreOnDemand.label     "Peidio llwytho tabiau nes eu bod wedi eu dewis">

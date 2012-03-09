@@ -1,6 +1,12 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the Scratchpad window strings -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
+<!-- LOCALIZATION NOTE : FILE The correct localization of this file might be to
+  - keep it in English, or another language commonly spoken among web developers.
+  - You want to make that choice consistent across the developer tools.
+  - A good criteria is the language in which you'd find the best
+  - documentation on web development on the web. -->
+
 <!-- LOCALIZATION NOTE (scratchpad.title):
   -  The Scratchpad is intended to provide a simple text editor for creating
   -  and evaluating bits of JavaScript code for the purposes of function
@@ -25,14 +31,14 @@
 
 <!ENTITY saveFileCmd.label            "Cadw">
 <!ENTITY saveFileCmd.accesskey        "C">
-<!ENTITY saveFileCmd.commandkey       "C">
+<!ENTITY saveFileCmd.commandkey       "S">
 
 <!ENTITY saveFileAsCmd.label          "Cadw Fel...">
-<!ENTITY saveFileAsCmd.accesskey      "F">
+<!ENTITY saveFileAsCmd.accesskey      "a">
 
 <!ENTITY closeCmd.label               "Cau">
-<!ENTITY closeCmd.key                 "l">
-<!ENTITY closeCmd.accesskey           "a">
+<!ENTITY closeCmd.key                 "w">
+<!ENTITY closeCmd.accesskey           "u">
 
 <!ENTITY editMenu.label               "Golygu">
 <!ENTITY editMenu.accesskey           "G">
@@ -46,7 +52,7 @@
 <!ENTITY redoCmd.accesskey            "a">
 
 <!ENTITY cutCmd.label                 "Torri">
-<!ENTITY cutCmd.key                   "t">
+<!ENTITY cutCmd.key                   "X">
 <!ENTITY cutCmd.accesskey             "t">
 
 <!ENTITY copyCmd.label                "Copïo">
@@ -54,12 +60,32 @@
 <!ENTITY copyCmd.accesskey            "o">
 
 <!ENTITY pasteCmd.label               "Gludo">
-<!ENTITY pasteCmd.key                 "g">
+<!ENTITY pasteCmd.key                 "V">
 <!ENTITY pasteCmd.accesskey           "g">
 
 <!ENTITY selectAllCmd.label           "Dewis Popeth">
-<!ENTITY selectAllCmd.key             "p">
+<!ENTITY selectAllCmd.key             "A">
 <!ENTITY selectAllCmd.accesskey       "D">
+
+<!ENTITY findCmd.label                "Canfod...">
+<!ENTITY findCmd.key                  "F">
+<!ENTITY findCmd.accesskey            "C">
+
+<!ENTITY findAgainCmd.label           "Canfod Eto...">
+<!-- LOCALIZATION NOTE (findAgainCmd.key): This key is used only on Macs.
+  -  Windows and Linux builds use the F3 key which is not localizable on purpose.
+  -->
+<!ENTITY findAgainCmd.key             "A">
+<!ENTITY findAgainCmd.accesskey       "E">
+<!-- LOCALIZATION NOTE (findPreviousCmd.key): This key is used only on Macs.
+  -  Windows and Linux builds use the Shift-F3 key which is not localizable on
+  -  purpose.
+  -->
+<!ENTITY findPreviousCmd.key          "G">
+
+<!ENTITY gotoLineCmd.label            "Newid i linell...">
+<!ENTITY gotoLineCmd.key              "J">
+<!ENTITY gotoLineCmd.accesskey        "N">
 
 <!ENTITY run.label                    "Rhedeg">
 <!ENTITY run.accesskey                "r">

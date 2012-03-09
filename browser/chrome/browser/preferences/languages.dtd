@@ -8,7 +8,7 @@
 <!ENTITY languages.customize.moveDown.label             "Symud i Lawr">
 <!ENTITY languages.customize.moveDown.accesskey         "L">
 <!ENTITY languages.customize.deleteButton.label         "Tynnu">
-<!ENTITY languages.customize.deleteButton.accesskey     "R">
+<!ENTITY languages.customize.deleteButton.accesskey     "T">
 <!ENTITY languages.customize.selectLanguage.label       "Dewis iaith i'w hychwanegu...">
 <!ENTITY languages.customize.addButton.label            "Ychwanegu">
 <!ENTITY languages.customize.addButton.accesskey        "Y">

@@ -2,9 +2,9 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "Croeso, os nad ydych wedi defnyddio &syncBrand.fullName.label; o'r blaen, bydd angen i chi greu cyfrif newydd.">
+<!ENTITY setup.pickSetupType.description2 "Croeso! Os nad ydych wedi defnyddio &syncBrand.fullName.label; o'r blaen, bydd angen i chi greu cyfrif newydd.">
 <!ENTITY button.createNewAccount.label "Creu Cyfrif Newydd">
-<!ENTITY button.haveAccount.label      "Mae gennyf Gyfrif">
+<!ENTITY button.haveAccount.label      "Mae Gennyf Gyfrif">
 
 <!ENTITY setup.choicePage.title.label     "Ydych chi wedi defnyddio &syncBrand.fullName.label; o'r blaen?">
 <!ENTITY setup.choicePage.new.label       "Nid wyf wedi defnyddio &syncBrand.shortName.label; o'r blaen">
@@ -17,7 +17,7 @@
 <!ENTITY signIn.account2.label      "Cyfrif">
 <!ENTITY signIn.account2.accesskey  "C">
 <!ENTITY signIn.password.label      "Cyfrinair">
-<!ENTITY signIn.password.accesskey  "C">
+<!ENTITY signIn.password.accesskey  "y">
 <!ENTITY signIn.recoveryKey.label       "Allwedd Adfer">
 <!ENTITY signIn.recoveryKey.accesskey   "A">
 
@@ -32,7 +32,7 @@
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
 <!ENTITY setup.tosAgree1.label      "Rwy'n cytuno i">
-<!ENTITY setup.tosAgree1.accesskey  "t">
+<!ENTITY setup.tosAgree1.accesskey  "R">
 <!ENTITY setup.tosLink.label        "Amodau Gwasanaeth">
 <!ENTITY setup.tosAgree2.label      "a'r">
 <!ENTITY setup.ppLink.label         "Polisi Preifatrwydd">
@@ -58,7 +58,7 @@
 <!ENTITY addDevice.dontHaveDevice.label     "Nid yw'r ddyfais gennyf">
 <!ENTITY pairDevice.setup.description.label  "I weithredu, dewiswch &#x0022;Paru Dyfais&#x0022; ar eich dyfais arall.">
 <!ENTITY addDevice.setup.enterCode.label    "Yna, rhoi'r cod yma:">
-<!ENTITY pairDevice.dialog.description.label "I weithredu dyfais newydd, dewisch &#x0022;Creu Sync&#x0022; ar y ddyfais.">
+<!ENTITY pairDevice.dialog.description.label "I weithredu dyfais newydd, dewiswch &#x0022;Gosod Sync&#x0022; ar y ddyfais.">
 <!ENTITY addDevice.dialog.enterCode.label   "Rhowch y cod mae'r ddyfais yn ei ddarparu:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Ceisiwch eto.">
 <!ENTITY addDevice.dialog.successful.label  "Mae'r ddyfais wedi ei hychwanegu'n llwyddiannus. Gall y cydweddu cychwynnol gymryd ychydig o funudau a bydd yn gorffen yn y cefndir.">
@@ -75,19 +75,21 @@
 <!-- Sync Options -->
 <!ENTITY setup.optionsPage.title      "Dewisiadau Cydweddu">
 <!ENTITY syncComputerName.label       "Enw'r Cyfrifiadur">
-<!ENTITY syncComputerName.accesskey   "c">
+<!ENTITY syncComputerName.accesskey   "C">
 
 <!ENTITY syncMy.label               "Cydweddu">
 <!ENTITY engine.bookmarks.label     "Nodau Tudalen">
-<!ENTITY engine.bookmarks.accesskey "m">
+<!ENTITY engine.bookmarks.accesskey "N">
 <!ENTITY engine.tabs.label          "Tabiau">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Hanes">
-<!ENTITY engine.history.accesskey   "h">
+<!ENTITY engine.history.accesskey   "H">
 <!ENTITY engine.passwords.label     "Cyfrineiriau">
 <!ENTITY engine.passwords.accesskey "C">
 <!ENTITY engine.prefs.label         "Dewisiadau">
 <!ENTITY engine.prefs.accesskey     "D">
+<!ENTITY engine.addons.label        "Ychwanegion">
+<!ENTITY engine.addons.accesskey    "Y">
 
 <!ENTITY choice2.merge.main.label      "Cydweddu data'r cyfrifiadur yma gyda data &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Cymeradwy:">
@@ -103,6 +105,6 @@
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Wedi Cwblhau'r Gosod">
-<!ENTITY changeOptions.label "Mae modd newid y dewis drwy'r Dewisiadau Cydweddu isod.">
+<!ENTITY changeOptions.label "Mae modd newid y dewis drwy Ddewisiadau Sync isod.">
 <!ENTITY continueUsing.label "Gallwch nawr barhau i ddefnyddio &brandShortName;.">
 

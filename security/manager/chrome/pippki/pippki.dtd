@@ -110,7 +110,7 @@
 <!ENTITY escrowWarn.message1 "Pwysig: Mae'r awdurdod tystysgrifo wedi gofyn i gael gwneud copi wrth gefn o'ch allwedd amgryptio breifat.">
 <!ENTITY escrowWarn.benefit1 "Y fantais yw y bydd modd i chi ofyn am gopi gan yr awdurdod tystysgrifo os byddwch yn colli eich allwedd amgryptio breifat.">
 <!ENTITY escrowWarn.message2 "Er hynny, bydd eich allwedd amgryptio breifat yn cael ei chadw gan yr awdurdod tystysgrifo ac fe all gael ei defnyddio i ddarllen eich e-bost wedi ei amgryptio neu ddogfennau heb eich caniatâd.">
-<!ENTITY examineCert.label "Darllen y Dystysgrif">
+<!ENTITY examineCert.label "Golwg ar Dystysgrif">
 <!ENTITY examineCert.accesskey "V">
 
 <!ENTITY serverCrlNextupdate.message "Gofynnwch i weinyddwr eich system am gymorth">

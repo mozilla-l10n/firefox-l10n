@@ -1,7 +1,7 @@
 <!-- extracted from charsetOverlay.xul -->
-<!ENTITY charsetMenu.label             "Nodau Amgodio">
+<!ENTITY charsetMenu.label             "Nodau">
 <!ENTITY charsetMenu.accesskey         "N">
-<!ENTITY charsetMenuAutodet.label      "Awto-Ganfod">
+<!ENTITY charsetMenuAutodet.label      "Canfod Awtomatig">
 <!ENTITY charsetMenuAutodet.accesskey  "a">
 <!ENTITY charsetMenuMore.label         "Rhagor o Amgodiadau">
 <!ENTITY charsetMenuMore.accesskey     "m">

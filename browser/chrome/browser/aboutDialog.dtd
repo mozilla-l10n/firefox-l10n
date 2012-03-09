@@ -1,12 +1,26 @@
 <!ENTITY aboutDialog.title          "Ynghylch &brandFullName;">
 
-<!ENTITY community.start2           "&brandShortName; - cynlluniwyd gan ">
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+<!ENTITY warningDesc.version        "Mae &brandShortName; yn arbrofol a gall fod yn ansad.">
+<!-- LOCALIZATION NOTE (warningDesc.telemetry): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetry      "Bydd yn anfon gwybodaeth profi yn ôl i &vendorShortName; er mwyn gwneud &brandShortName; yn well.">
+
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+<!ENTITY community.exp.start        "">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+<!ENTITY community.exp.middle       "yn">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "gymuned fyd-eang">
+<!ENTITY community.exp.end          " cydweithio i gadw'r We yn agored, cyhoeddus ac ar gael i bawb.">
+
+<!ENTITY community.start2           "Cynlluniwyd &brandShortName; gan ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "cymuned byd-eang">
-<!ENTITY community.end2             " yn gweithio gyda'n gilydd i wneud y Rhyngrwyd yn well. Rydym yn credu y dylai'r Rhyngrwyd fod yn agored, cyhoeddus, gyda mynediad di lyffethair i bawb.">
+<!ENTITY community.creditsLink      "gymuned fyd-eang">
+<!ENTITY community.end3             " cydweithio i gadw'r We yn agored, cyhoeddus ac ar gael i bawb.">
 
 <!ENTITY contribute.start           "Diddorol? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
@@ -59,5 +73,5 @@
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
 <!ENTITY channel.description.start  "Ar hyn o bryd rydych ar ">
-<!ENTITY channel.description.end    " update channel. ">
+<!ENTITY channel.description.end    "sianel diweddaru. ">
 

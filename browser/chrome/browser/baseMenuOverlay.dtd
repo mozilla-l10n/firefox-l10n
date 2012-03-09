@@ -11,9 +11,9 @@
 <!ENTITY helpMenuWin.label        "Cymorth"> 
 <!ENTITY helpMenuWin.accesskey    "y">
 <!ENTITY aboutProduct.label       "Ynghylch &brandShortName;">
-<!ENTITY aboutProduct.accesskey   "Y">
+<!ENTITY aboutProduct.accesskey   "n">
 <!ENTITY productHelp.label        "Cymorth &brandShortName;">
-<!ENTITY productHelp.accesskey    "C">
+<!ENTITY productHelp.accesskey    "m">
 <!ENTITY helpMac.commandkey       "?">
 <!ENTITY helpSafeMode.label       "Ailgychwyn gydag Ychwanegion wedi eu Hanalluogi...">
 <!ENTITY helpSafeMode.accesskey   "A">
@@ -25,7 +25,7 @@
 <!ENTITY helpFeedbackPage.accesskey  "A">
 
 <!ENTITY preferencesCmdMac.label        "Dewisiadau...">
-<!ENTITY preferencesCmdMac.commandkey   ",">
+<!ENTITY preferencesCmdMac.commandkey   "D">
 
 <!ENTITY servicesMenuMac.label          "Gwasanaethau">
 

@@ -8,7 +8,7 @@
 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
-<!ENTITY privatebrowsingpage.clearRecentHistoryBefore  "Efallai y byddwch hefyd eisiau cychwyn drwy ">
+<!ENTITY privatebrowsingpage.clearRecentHistoryBefore  "Efallai byddwch hefyd eisiau ">
 <!ENTITY privatebrowsingpage.clearRecentHistoryInner   "clirio eich hanes diweddar">
 <!ENTITY privatebrowsingpage.clearRecentHistoryAfter   ".">
 

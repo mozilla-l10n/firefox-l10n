@@ -17,8 +17,8 @@
 <!ENTITY  serif.accesskey                         "S">
 <!ENTITY  sans-serif.label                        "Sans-serif:">
 <!ENTITY  sans-serif.accesskey                    "a">
-<!ENTITY  monospace.label                         "Monospace:">
-<!ENTITY  monospace.accesskey                     "M">
+<!ENTITY  monospace.label                         "Monospace::">
+<!ENTITY  monospace.accesskey                     "o">
 
 <!ENTITY  font.langGroup.latin1                   "Gorllewin">
 <!ENTITY  font.langGroup.latin2                   "Canol Ewrop">

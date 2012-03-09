@@ -22,7 +22,7 @@
 <!ENTITY  http.accesskey                "H">
 <!ENTITY  ssl.label                     "Dirprwy SSL:">
 <!ENTITY  ssl.accesskey                 "S">
-<!ENTITY  socks.label                   "Gwesteiwr SOCKS:">
+<!ENTITY  socks.label                   "Gwesteiwr SOCKS v5:">
 <!ENTITY  socks.accesskey               "G">
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "4">

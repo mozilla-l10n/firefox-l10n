@@ -33,11 +33,11 @@ can reach it easily. -->
 <!ENTITY  moveToNewGroup.label               "Grŵp Newydd">
 <!ENTITY  moveToNewWindow.label              "Symud i Ffenestr Newydd">
 <!ENTITY  moveToNewWindow.accesskey          "n">
-<!ENTITY  bookmarkAllTabs.label              "Gosod Nod Tudalen i bob Tab…">
+<!ENTITY  bookmarkAllTabs.label              "Nod Tudalen i Bob Tab...">
 <!ENTITY  bookmarkAllTabs.accesskey          "n">
 <!ENTITY  undoCloseTab.label                 "Dadwneud Cau'r Tab">
 <!ENTITY  undoCloseTab.accesskey             "d">
-<!ENTITY  closeTab.label                     "Cau'r Tab">
+<!ENTITY  closeTab.label                     "Cau Tab">
 <!ENTITY  closeTab.accesskey                 "c">
 
 <!ENTITY  listAllTabs.label      "Rhestru pob tab">
@@ -48,7 +48,7 @@ can reach it easily. -->
 <!ENTITY openLocationCmd.label "Agor Lleoliad...">
 <!ENTITY openLocationCmd.accesskey "l">
 <!ENTITY openFileCmd.label "Agor Ffeil...">
-<!ENTITY openFileCmd.accesskey "o">
+<!ENTITY openFileCmd.accesskey "A">
 <!ENTITY openFileCmd.commandkey "O">
 <!ENTITY printSetupCmd.label "Gosodiad Tudalen...">
 <!ENTITY printSetupCmd.accesskey "o">
@@ -136,7 +136,7 @@ can reach it easily. -->
 <!ENTITY appMenuButton.tooltip        "Agor dewislen &brandShortName;">
 <!ENTITY homeButton.label             "Cartref">
 
-<!ENTITY tabGroupsButton.label        "Grwpiau Tabiau">
+<!ENTITY tabGroupsButton.label        "Grwpiau Tab">
 <!ENTITY tabGroupsButton.tooltip      "Grwpio eich Tabiau">
 
 <!ENTITY feedButton.label             "Tanysgrifio">
@@ -145,7 +145,7 @@ can reach it easily. -->
 <!ENTITY bookmarksButton.label          "Nodau Tudalen">
 <!ENTITY bookmarksButton.tooltip        "Dangos eich nodau tudalen">
 <!ENTITY bookmarksButton.accesskey  "n">
-<!ENTITY bookmarksCmd.commandkey "b">
+<!ENTITY bookmarksCmd.commandkey "n">
 
 <!ENTITY bookmarksMenuButton.label          "Nodau Tudalen">
 <!ENTITY bookmarksMenuButton.tooltip        "Dangos eich nodau tudalen">
@@ -171,7 +171,7 @@ can reach it easily. -->
 <!ENTITY keywordfield.accesskey       "y">
 <!ENTITY search.label                 "Chwilio'r We">
 <!ENTITY search.accesskey             "c">
-<!ENTITY downloads.label              "Llwythi">
+<!ENTITY downloads.label              "Llwytho i Lawr">
 <!ENTITY downloads.tooltip            "Dangos cynnydd y llwytho i lawr cyfredol">
 <!ENTITY downloads.accesskey          "l">
 <!ENTITY downloads.commandkey         "d">
@@ -181,7 +181,7 @@ can reach it easily. -->
 <!ENTITY addons.commandkey            "a">
 
 <!ENTITY webDeveloperMenu.label       "Datblygwr Gwe">
-<!ENTITY webDeveloperMenu.accesskey   "w">
+<!ENTITY webDeveloperMenu.accesskey   "D">
 
 <!ENTITY errorConsoleCmd.label        "Consol Gwall">
 <!ENTITY errorConsoleCmd.accesskey    "c">
@@ -209,7 +209,7 @@ can reach it easily. -->
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
 <!ENTITY scratchpad.label             "Scratchpad">
-<!ENTITY scratchpad.accesskey         "s">
+<!ENTITY scratchpad.accesskey         "S">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
@@ -217,8 +217,22 @@ can reach it easily. -->
 <!ENTITY inspectButton.label            "Arsylwi">
 <!ENTITY inspectButton.accesskey        "r">
 <!ENTITY inspectCloseButton.tooltiptext "Cau'r Archwiliwr">
+
+<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
+  -  alternate view for the Inspector, creating a 3D visualization of the
+  -  webpage. -->
+<!ENTITY inspect3DViewButton.label     "Golwg 3D">
+<!ENTITY inspect3DViewButton.accesskey "3">
+
 <!ENTITY inspectStyleButton.label     "Ardull">
 <!ENTITY inspectStyleButton.accesskey "a">
+
+<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
+  -  in the Tools menu. -->
+<!ENTITY styleeditor.label            "Golygydd Arddull">
+<!ENTITY styleeditor.accesskey        "G">
+<!ENTITY styleeditor.keycode          "VK_F7">
+<!ENTITY styleeditor.keytext          "F7">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Estyn Rhagor o Offer">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "e">
@@ -263,18 +277,18 @@ can reach it easily. -->
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "Dechrau Pori Preifat">
 <!ENTITY privateBrowsingCmd.start.accesskey     "p">
-<!ENTITY privateBrowsingCmd.stop.label          "Atal Pori Preifat">
+<!ENTITY privateBrowsingCmd.stop.label          "Dechrau Pori Preifat">
 <!ENTITY privateBrowsingCmd.stop.accesskey      "a">
 <!ENTITY privateBrowsingCmd.commandkey          "p">
 
 <!ENTITY viewMenu.label         "Golwg"> 
 <!ENTITY viewMenu.accesskey       "o"> 
-<!ENTITY viewTabGroups.label            "Grwpiau Tabiau">
+<!ENTITY viewTabGroups.label            "Grwpiau Tab">
 <!ENTITY viewTabGroups.accesskey        "w">
 <!ENTITY viewToolbarsMenu.label       "Barrau Offer"> 
 <!ENTITY viewToolbarsMenu.accesskey     "b"> 
-<!ENTITY viewSidebarMenu.label "Y Bar Ochr">
-<!ENTITY viewSidebarMenu.accesskey "b">
+<!ENTITY viewSidebarMenu.label "Y Cwpwrdd Cornel">
+<!ENTITY viewSidebarMenu.accesskey "C">
 <!ENTITY viewCustomizeToolbar.label       "Cyfaddasu..."> 
 <!ENTITY viewCustomizeToolbar.accesskey     "y">
 <!ENTITY viewTabsOnTop.label            "Tabiau ar y Brig">
@@ -302,7 +316,7 @@ can reach it easily. -->
 <!ENTITY appMenuSafeMode.label "Ailgychwyn gydag Ychwanegion wedi eu Hanalluogi...">
 <!ENTITY appMenuSafeMode.accesskey "a">
 
-<!ENTITY openCmd.commandkey           "l">
+<!ENTITY openCmd.commandkey           "L">
 <!ENTITY urlbar.placeholder           "Mynd i'r Wefan">
 <!ENTITY urlbar.accesskey             "m">
 <!ENTITY urlbar.switchToTab.label     "Newid i dab:">
@@ -333,16 +347,16 @@ can reach it easily. -->
 
 <!ENTITY tabView.commandkey           "e">
 
-<!ENTITY openLinkCmdInTab.label       "Agor Cyswllt mewn Tab Newydd">
-<!ENTITY openLinkCmdInTab.accesskey   "c">
+<!ENTITY openLinkCmdInTab.label       "Agor mewn Tab Newydd">
+<!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkCmd.label            "Agor mewn Ffenestr Newydd">
-<!ENTITY openLinkCmd.accesskey        "n">
-<!ENTITY openLinkCmdInCurrent.label     "Agor Cysylltiad">
-<!ENTITY openLinkCmdInCurrent.accesskey "g">
+<!ENTITY openLinkCmd.accesskey        "F">
+<!ENTITY openLinkCmdInCurrent.label     "Agor Dolen">
+<!ENTITY openLinkCmdInCurrent.accesskey "D">
 <!ENTITY openFrameCmdInTab.label      "Agor Ffrâm mewn Tab Newydd">
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "Agor Ffrâm mewn Ffenestr Newydd">
-<!ENTITY openFrameCmd.accesskey       "w">
+<!ENTITY openFrameCmd.accesskey       "F">
 <!ENTITY showOnlyThisFrameCmd.label     "Dangos y Ffrâm yma'n Unig">
 <!ENTITY showOnlyThisFrameCmd.accesskey "d">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -352,7 +366,7 @@ can reach it easily. -->
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Edrych ar Ffynhonnell MathML">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
-<!ENTITY viewPartialSourceCmd.accesskey "e">
+<!ENTITY viewPartialSourceCmd.accesskey "o">
 <!ENTITY viewPageSourceCmd.label      "Edrych ar God Gwreiddiol y Dudalen">
 <!ENTITY viewPageSourceCmd.accesskey  "g">
 <!ENTITY viewFrameSourceCmd.label     "Edrych ar God Gwreiddiol y Ffrâm">
@@ -384,7 +398,7 @@ can reach it easily. -->
 <!ENTITY savePageCmd.label            "Cadw Tudalen Fel...">
 <!ENTITY savePageCmd.accesskey        "c">
 <!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.accesskey2       "a">
+<!ENTITY savePageCmd.accesskey2       "T">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Cadw Ffrâm Fel">
 <!ENTITY saveFrameCmd.accesskey       "f">
@@ -422,14 +436,23 @@ can reach it easily. -->
 <!ENTITY thisFrameMenu.accesskey          "f">
 
 <!-- Media (video/audio) controls -->
+<!-- LOCALIZATION NOTE: The access keys for "Play" and
+"Pause" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaPlay.label             "Chwarae">
 <!ENTITY mediaPlay.accesskey         "c">
 <!ENTITY mediaPause.label            "Oedi">
 <!ENTITY mediaPause.accesskey        "o">
+<!-- LOCALIZATION NOTE: The access keys for "Mute" and
+"Unmute" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Tewi">
 <!ENTITY mediaMute.accesskey         "t">
 <!ENTITY mediaUnmute.label           "Dad Dewi">
 <!ENTITY mediaUnmute.accesskey       "a">
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "Dangos Rheolydd">
 <!ENTITY mediaShowControls.accesskey "r">
 <!ENTITY mediaHideControls.label     "Cuddio Rheolydd">
@@ -438,6 +461,9 @@ can reach it easily. -->
 <!ENTITY videoFullScreen.accesskey   "s">
 <!ENTITY videoSaveImage.label        "Cadw Ciplun Fel...">
 <!ENTITY videoSaveImage.accesskey    "i">
+<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
+"Hide Statistics" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY videoShowStats.label        "Dangos Ystadegau">
 <!ENTITY videoShowStats.accesskey    "y">
 <!ENTITY videoHideStats.label        "Cuddio Ystadegau">
@@ -472,7 +498,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY newTabButton.tooltip           "Agor tab newydd">
 <!ENTITY newWindowButton.tooltip        "Agor Ffenestr Newydd">
-<!ENTITY sidebarCloseButton.tooltip     "Cau'r Bar Ochr">
+<!ENTITY sidebarCloseButton.tooltip     "Cau'r Cwpwrdd Cornel">
 
 <!ENTITY cutButton.tooltip              "Torri">
 <!ENTITY copyButton.tooltip             "Copïo">
@@ -491,7 +517,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Gadael"> 
 <!ENTITY quitApplicationCmd.accesskey   "g">
 <!ENTITY quitApplicationCmdMac.label    "Gadael &brandShortName;">
-<!ENTITY quitApplicationCmdMac.key      "g">
+<!ENTITY quitApplicationCmdMac.key      "a">
 
 <!ENTITY closeCmd.label                 "Cau">  
 <!ENTITY closeCmd.key                   "c">  
@@ -504,7 +530,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Arddull Tudalen Sylfaenol">
 <!ENTITY pageStylePersistentOnly.accesskey "s">
 
-<!ENTITY pageReportIcon.tooltip            "Newid gosodiadau rhwystro llamlenni ar gyfer y wefan">
+<!ENTITY pageReportIcon.tooltip            "Newid gosodiadau rhwystro llamlenni ar gyfer y gwefan">
 
 <!ENTITY allowPopups.accesskey "ll">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -517,11 +543,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "Newid Cyfeiriad Tudalen">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "n">
-<!ENTITY bidiSwitchTextDirectionItem.label        "tNewid Cyfeiriad Testun">
+<!ENTITY bidiSwitchTextDirectionItem.label        "Newid Cyfeiriad Testun">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "t">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "d">
 
-<!ENTITY findOnCmd.label     "Canfod yn y Dudalen...">
+<!ENTITY findOnCmd.label     "Canfod yn y Dudalen">
 <!ENTITY findOnCmd.accesskey "a">
 <!ENTITY findOnCmd.commandkey "a">
 <!ENTITY findAgainCmd.label  "Canfod Eto">
@@ -563,13 +589,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
 <!ENTITY syncTabsMenu.label     "Tabiau o Gyfrifiaduron Eraill">
 
-<!ENTITY syncBrand.shortName.label    "Sync">
+<!ENTITY syncBrand.shortName.label    "Cydweddu">
 
 <!ENTITY syncSetup.label              "Gosod &syncBrand.shortName.label;…">
 <!ENTITY syncSetup.accesskey          "g">
 <!ENTITY syncSyncNowItem.label        "Cydweddu Nawr">
 <!ENTITY syncSyncNowItem.accesskey    "y">
-<!ENTITY syncToolbarButton.label      "Sync">
+<!ENTITY syncToolbarButton.label      "Cydweddu">
 
 <!ENTITY addonBarCloseButton.tooltip  "Cau'r Bar Ychwanegion">
 <!ENTITY toggleAddonBarCmd.key        "/">
