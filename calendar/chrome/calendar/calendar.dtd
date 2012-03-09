@@ -62,7 +62,7 @@
 <!ENTITY calendar.events.filter.today.label "Dagens händelser">
 <!ENTITY calendar.events.filter.future.label "Alla framtida händelser">
 <!ENTITY calendar.events.filter.current.label "Förnärvarande valda dagen">
-<!ENTITY calendar.events.filter.currentview.label "Händelser i vald vy">
+<!ENTITY calender.events.filter.currentview.label "Händelser i vald vy">
 <!ENTITY calendar.events.filter.next7Days.label "händelser för de nästkommande 7 dagarna">
 <!ENTITY calendar.events.filter.next14Days.label "händelser för de nästkommande 14 dagarna">
 <!ENTITY calendar.events.filter.next31Days.label "händelser för de nästkommande 31 dagarna">
