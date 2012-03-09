@@ -21,8 +21,8 @@
    - Contributor(s):
    -   Cédric Corazza <cedric.corazza@wanadoo.fr>
    -   Stefan Lewitas <stefan.lewitas@gmail.com>
-   -   Alexander Lindqvist <alexander@alphaone.se>
-   -   Adrian Lindqvist <adrian@alphaone.se>
+   -   Alexander Lindqvist <alexander@bitspace.se>
+   -   Adrian Lindqvist <adrian@bitspace.se>
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
    - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
@@ -356,8 +356,6 @@
 <!ENTITY event.freebusy.next.slot               "Nästa lucka " >
 <!ENTITY event.freebusy.previous.slot           " Föregående lucka" >
 <!ENTITY event.freebusy.zoom                    "Zooma:">
-<!ENTITY event.freebusy.plus                    "Nästa timme" >
-<!ENTITY event.freebusy.minus                   "Föregående timme" >
 <!ENTITY event.freebusy.legend.free             "Ledig" >
 <!ENTITY event.freebusy.legend.busy             "Upptagen" >
 <!ENTITY event.freebusy.legend.busy_tentative   "Preliminär" >
