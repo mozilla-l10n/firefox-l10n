@@ -25,7 +25,7 @@
    -   Philipp Kewisch <mozilla@kewis.ch>
    -   Martin Schroeder <mschroeder@mozilla.x-home.org>
    -   Stefan Lewitas <stefan.lewitas@gmail.com>
-   -   Alexander Lindqvist <alexander@alphaone.se>
+   -   Alexander Lindqvist <alexander@bitspace.se>
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
    - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
@@ -74,33 +74,7 @@
 <!ENTITY lightning.menu.eventtask.label                "Händelser och uppgifter">
 <!ENTITY lightning.menu.eventtask.accesskey            "H">
 
-<!-- Mode Toolbar -->
-<!ENTITY lightning.toolbar.mail.label         "E-post">
-<!ENTITY lightning.toolbar.mail.accesskey     "E">
-<!ENTITY lightning.toolbar.calendar.label     "Kalender">
-<!ENTITY lightning.toolbar.calendar.tooltip   "Växla till fliken kalender">
-<!ENTITY lightning.toolbar.calendar.accesskey "K">
-<!ENTITY lightning.toolbar.task.label         "Uppgifter">
-<!ENTITY lightning.toolbar.task.tooltip       "Växla till fliken uppgifter">
-<!ENTITY lightning.toolbar.task.accesskey     "U">
-
-<!-- Toolbar write button -->
-<!ENTITY lightning.toolbar.newevent.label     "Händelse">
-<!ENTITY lightning.toolbar.newtask.label      "Uppgift">
-
-<!-- Messenger Toolbar -->
-<!ENTITY lightning.toolbar.day.label     "Dag">
-<!ENTITY lightning.toolbar.day.accesskey "D">
-<!ENTITY lightning.toolbar.week.label    "Vecka">
-<!ENTITY lightning.toolbar.week.accesskey            "V">
-<!ENTITY lightning.toolbar.multiweek.label           "Flera veckor">
-<!ENTITY lightning.toolbar.multiweek.accesskey "F">
-<!ENTITY lightning.toolbar.month.label   "Månad">
-<!ENTITY lightning.toolbar.month.accesskey "M">
-
 <!-- properties dialog, calendar creation wizard -->
-<!ENTITY lightning.calendarproperties.showevents.inagenda.label "Visa händelser i Idag">
-<!ENTITY lightning.calendarproperties.showtasks.label           "Visa uppgifter i Idag och i Uppgiftslistan">
 <!ENTITY lightning.calendarproperties.email.label               "E-postadress:">
 
 <!-- iMIP Bar (meeting support) -->
