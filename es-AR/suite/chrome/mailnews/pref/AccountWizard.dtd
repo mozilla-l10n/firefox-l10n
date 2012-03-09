@@ -20,7 +20,7 @@
 <!ENTITY identityDesc.label "Cada cuenta tiene una identidad, que es la información que le identifica a usted ante otros cuando ellos reciben sus mensajes.">
 
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY fullnameDesc.label "Introduzca el nombre que quiere que aparezca en el campo &quot;De&quot; al enviar mensajes">
+<!ENTITY fullnameDesc.label "Ingrese el nombre que quiere que aparezca en el campo &quot;De&quot; al enviar mensajes">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
   1, do not translate two of "&quot;"
   2, Use localized full name instead of "John Smith"
@@ -32,22 +32,10 @@
 <!ENTITY emailLabel.label "Dirección de correo electrónico:">
 <!ENTITY emailLabel.accesskey "e">
 
-<!-- Entities for Server page -->
+<!-- Entities for Incoming Server page -->
 
-<!ENTITY serverTitle.label "Información de servidor">
+<!ENTITY incomingTitle.label "Información de servidor entrante">
 <!ENTITY incomingServerTypeDesc.label "Seleccione el tipo de servidor entrante que está utilizando.">
-<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServerNameDesc.label "Introduzca el nombre de su servidor entrante (por ejemplo, &quot;mail.ejemplo.net&quot;).">
-<!ENTITY incomingServerLabel.label "Nombre del servidor:">
-<!ENTITY incomingServerLabel.accesskey "s">
-<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Introduzca el nombre de su servidor de noticias (NNTP) (por ejemplo, &quot;news.ejemplo.net&quot;).">
-<!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY smtpServerDesc.label "Introduzca el nombre de su servidor saliente (SMTP) (por ejemplo, &quot;smtp.ejemplo.net&quot;).">
-<!ENTITY smtpServerLabel.label "Servidor de correo saliente:">
-<!ENTITY smtpServerLabel.accesskey "o">
-<!ENTITY newsServerLabel.label "Servidor de noticias">
-<!ENTITY newsServerLabel.accesskey "n">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "I">
@@ -58,8 +46,31 @@
 <!ENTITY portNum.accesskey "o">
 <!ENTITY defaultPortLabel.label "Predeterminado:">
 <!ENTITY defaultPortValue.label "">
+<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
+<!ENTITY incomingServer.description "Ingrese el nombre de su servidor entrante (por ejemplo &quot;mail.ejemplo.net&quot;).">
+<!ENTITY incomingServer.label "Servidor entrante:">
+<!ENTITY incomingServer.accesskey "S">
 <!ENTITY leaveMsgsOnSrvr.label "Dejar mensajes en el servidor">
 <!ENTITY leaveMsgsOnSrvr.accesskey "l">
+<!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
+<!ENTITY incomingUsername.description "Ingrese el nombre de usuario entrante asignado por su proveedor de correo electrónico (por ejemplo &quot;jperez&quot;).">
+<!ENTITY incomingUsername.label "Nombre de usuario:">
+<!ENTITY incomingUsername.accesskey "u">
+<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
+<!ENTITY newsServerNameDesc.label "Ingrese el nombre de su servidor de noticias (NNTP) (por ejemplo &quot;news.ejemplo.net&quot;).">
+<!ENTITY newsServerLabel.label "Servidor de noticias:">
+<!ENTITY newsServerLabel.accesskey "S">
+
+<!-- Entities for Outgoing Server page -->
+
+<!ENTITY outgoingTitle.label "Información de servidor saliente">
+<!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
+<!ENTITY outgoingServer.description "Ingrese el nombre de su servidor saliente (SMTP) (por ejemplo &quot;smtp.ejemplo.net&quot;).">
+<!ENTITY outgoingServer.label "Servidor saliente:">
+<!ENTITY outgoingServer.accesskey "S">
+<!ENTITY outgoingUsername.description "Ingrese el nombre de usuario saliente asignado por su proveedor de correo electrónico (normalmente es el mismo que su nombre de usuario entrante).">
+<!ENTITY outgoingUsername.label "Nombre de usuario saliente:">
+<!ENTITY outgoingUsername.accesskey "u">
 
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
@@ -71,18 +82,6 @@
 -->
 <!ENTITY haveSmtp1.prefix "Su servidor saliente (SMTP) existente, &quot;">
 <!ENTITY haveSmtp1.suffix3 "&quot;, será el usado.">
-
-<!-- Entities for Login page -->
-
-<!ENTITY loginTitle.label "Nombres de usuario">
-<!ENTITY usernameDesc.label "Introduzca el nombre de usuario entrante facilitado por su proveedor de correo electrónico">
-<!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY usernameExample.label "(por ejemplo, &quot;jperez&quot;).">
-<!ENTITY usernameLabel.label "Nombre de usuario entrante:">
-<!ENTITY usernameLabel.accesskey "i">
-<!ENTITY usernameSmtpDesc.label "Introduzca el nombre de usuario saliente facilitado por su proveedor de correo electrónico (normalmente es el mismo que el entrante).">
-<!ENTITY usernameSmtpLabel.label "Nombre de usuario saliente:">
-<!ENTITY usernameSmtpLabel.accesskey "o">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
