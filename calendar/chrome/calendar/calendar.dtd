@@ -60,6 +60,7 @@
 <!ENTITY calendar.events.filter.today.label "Acara Hari Ini">
 <!ENTITY calendar.events.filter.future.label "Semua Acara yang Akan Datang">
 <!ENTITY calendar.events.filter.current.label "Hari yang Sedang Dipilih">
+<!ENTITY calender.events.filter.currentview.label "Acara pada Tampilan Sekarang">
 <!ENTITY calendar.events.filter.next7Days.label "Acara dalam 7 Hari ke Depan">
 <!ENTITY calendar.events.filter.next14Days.label "Acara dalam 14 Hari ke Depan">
 <!ENTITY calendar.events.filter.next31Days.label "Acara dalam 31 Hari ke Depan">
@@ -175,6 +176,10 @@
 <!ENTITY calendar.task.complete.button.tooltip  "Tandar selesai pada tugas terpilih ">
 <!ENTITY calendar.task.priority.button.tooltip  "Ubah prioritas">
 
+<!ENTITY calendar.task.text-filter.textbox.emptytext.base            "Filter tugas… #1">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Shift+K&gt;">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
+
 <!-- Statusbar -->
 <!ENTITY statusText.label            "Dokumen: Selesai">
 
@@ -209,6 +214,8 @@
 <!ENTITY calendar.context.progress.accesskey          "K">
 <!ENTITY calendar.context.priority.label              "Prioritas">
 <!ENTITY calendar.context.priority.accesskey          "P">
+<!ENTITY calendar.context.postpone.label              "Tunda Tugas">
+<!ENTITY calendar.context.postpone.accesskey          "s">
 
 <!ENTITY percnt "&#37;" ><!--=percent sign-->
 
@@ -234,6 +241,13 @@
 <!ENTITY priority.level.normal.accesskey    "N">
 <!ENTITY priority.level.high                "Tinggi">
 <!ENTITY priority.level.high.accesskey      "T">
+
+<!ENTITY calendar.context.postpone.1hour.label      "1 Jam">
+<!ENTITY calendar.context.postpone.1hour.accesskey  "J">
+<!ENTITY calendar.context.postpone.1day.label       "1 Hari">
+<!ENTITY calendar.context.postpone.1day.accesskey   "H">
+<!ENTITY calendar.context.postpone.1week.label      "1 Minggu">
+<!ENTITY calendar.context.postpone.1week.accesskey  "M">
 
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
