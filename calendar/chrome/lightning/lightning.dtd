@@ -82,7 +82,7 @@
 <!ENTITY lightning.toolbar.calendar.accesskey "k">
 <!ENTITY lightning.toolbar.task.label         "Zadaci">
 <!ENTITY lightning.toolbar.task.tooltip       "Prebaci na karticu zadataka">
-<!ENTITY lightning.toolbar.task.accesskey     "t">
+<!ENTITY lightning.toolbar.task.accesskey     "c">
 
 <!-- Toolbar write button -->
 <!ENTITY lightning.toolbar.newevent.label     "Događaj">
