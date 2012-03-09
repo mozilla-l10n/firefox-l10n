@@ -6,13 +6,18 @@
 <!-- Main titles. -->
 <!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
 <!ENTITY sync.title.connect.label 'Connect to &syncBrand.shortName.label;'>
+<!ENTITY sync.title.adddevice.label 'Adicionar uma conta &syncBrand.fullName.label;'>
 <!ENTITY sync.title.pair.label 'Pair a Device'>
 
 <!-- J-PAKE Key Screen -->
-<!ENTITY sync.subtitle.connect.label 'To activate your new device, select “Set up &syncBrand.shortName.label;” on the device.'>
-<!ENTITY sync.subtitle.pair.label 'To activate, select “Pair a device” on your other device.'>
+<!ENTITY sync.subtitle.connect.label 'Para ativar o seu novo dispositivo,  selecione “Configurar o &syncBrand.shortName.label;”.'>
+<!ENTITY sync.subtitle.header.label 'Escreva este código no seu computador'>
+<!ENTITY sync.subtitle.connectlocation.label 'Selecione “&sync.title.pair.label;” na secção &syncBrand.shortName.label; na opções do Firefox no computador.'>
+<!ENTITY sync.subtitle.pair.label 'Para ativar selecione, “Emparelhar um dispositivo” no seu outro dispositivo.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
+<!ENTITY sync.pin.oneline.label '...'>
 <!ENTITY sync.link.show.label 'Mostrar-me como'>
+<!ENTITY sync.link.advancedsetup.label 'Configuração avançada...'>
 <!ENTITY sync.link.nodevice.label 'Não tenho o dispositivo comigo…'>
 
 <!-- J-PAKE Waiting Screen -->
@@ -43,7 +48,7 @@
 <!ENTITY sync.pair.tryagain.label 'Por favor, tente novamente.'>
 
 <!-- Firefox SyncAdapter Settings Screen -->
-<!ENTITY sync.settings.options.label 'Opçõess'>
+<!ENTITY sync.settings.options.label 'Opções'>
 <!ENTITY sync.summary.pair.label 'Ligue outro dispositivo à sua conta do &syncBrand.shortName.label;'>
 
 <!-- Common text -->
@@ -55,7 +60,7 @@
 <!ENTITY sync.account.label.label '&syncBrand.fullName.label;'>
   
 <!-- Bookmark folder strings -->
-<!ENTITY bookmarks.folder.menu.label 'menu de marcadores'>
+<!ENTITY bookmarks.folder.menu.label 'Menu de marcadores'>
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label 'Etiquetas'>
 <!ENTITY bookmarks.folder.toolbar.label 'Barra de ferramentas dos marcadores'>
