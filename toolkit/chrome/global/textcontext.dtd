@@ -11,8 +11,10 @@
 <!ENTITY deleteCmd.label "Hapus">
 <!ENTITY deleteCmd.accesskey "H">
 
-<!ENTITY spellAddToDictionary.label "Tambah ke kamus">
+<!ENTITY spellAddToDictionary.label "Tambah ke Kamus">
 <!ENTITY spellAddToDictionary.accesskey "k">
+<!ENTITY spellUndoAddToDictionary.label "Batalkan Penambahan ke Kamus">
+<!ENTITY spellUndoAddToDictionary.accesskey "n">
 <!ENTITY spellCheckEnable.label "Periksa Ejaan">
 <!ENTITY spellCheckEnable.accesskey "e">
 <!ENTITY spellNoSuggestions.label "(Tidak ada saran pengejaan)">
