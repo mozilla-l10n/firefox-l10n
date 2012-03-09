@@ -61,12 +61,16 @@
 <!ENTITY defaultPortLabel.label "Bawaan:">
 <!ENTITY defaultPortValue.label "">
 
-<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
+<!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
+     haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
+-->
+<!ENTITY modifyOutgoing.suffix "Anda dapat mengubah server keluar di setelan akun.">
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix "Server pengirim (SMTP) yang sudah ada, &quot;">
-<!ENTITY haveSmtp1.suffix2 "&quot; akan digunakan. Anda dapat mengubah server pengirim pada pengaturan akun.">
+<!ENTITY haveSmtp1.suffix3 "&quot; akan digunakan.">
 
 <!-- Entities for Login page -->
 
@@ -79,18 +83,19 @@
 <!ENTITY usernameSmtpDesc.label "Masukkan nama pengguna untuk server pengirim yang diberikan oleh penyedia layanan email Anda (pada umumnya sama dengan nama pengguna untuk server penerima).">
 <!ENTITY usernameSmtpLabel.label "Nama Pengguna Server Pengirim:">
 <!ENTITY usernameSmtpLabel.accesskey "P">
-<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Nama pengguna server pengirim (SMTP) yang sudah ada &quot;">
-<!ENTITY haveSmtp2.suffix2 "&quot; akan digunakan. Anda dapat mengubah server pengirim pada pengaturan akun.">
-<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
-     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
-     text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
+<!ENTITY haveSmtp2.suffix3 "&quot; akan digunakan.">
+
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Server pengirim (SMTP) Anda, &quot;">
-<!ENTITY haveSmtp3.suffix2 "&quot; sama dengan server penerima Anda, nama pengguna server penerima Anda akan digunakan untuk mengakses server ini. Anda dapat mengubah server pengirim pada pengaturan akun.">
+<!ENTITY haveSmtp3.suffix3 "&quot; sama dengan server penerima Anda, nama pengguna server penerima Anda akan digunakan untuk mengakses server ini.">
 
 <!-- Entities for Account name page -->
 

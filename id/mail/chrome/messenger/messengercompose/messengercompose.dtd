@@ -71,6 +71,8 @@
 <!ENTITY editRewrapCmd.label "Atur ulang pemotongan">
 <!ENTITY editRewrapCmd.key "P">
 <!ENTITY editRewrapCmd.accesskey "u">
+<!ENTITY renameAttachmentCmd.label "Ganti nama Lampiran…">
+<!ENTITY renameAttachmentCmd.accesskey "G">
 <!ENTITY deleteCmd.label "Hapus">
 <!ENTITY deleteCmd.accesskey "H">
 <!ENTITY selectAllCmd.label "Pilih Semua">
