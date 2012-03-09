@@ -67,3 +67,10 @@
 <!ENTITY fontColor.accesskey                  "T">
 <!ENTITY bgColor.label                        "Fundo:">
 <!ENTITY bgColor.accesskey                    "u">
+
+<!ENTITY selectHeaderType.label               "Selecione o tipo de cabeçalho de resposta :">
+<!ENTITY selectHeaderType.accesskey           "e">
+<!ENTITY noReplyOption.label                  "Sem cabeçalho de resposta">
+<!ENTITY authorWroteOption.label              "[Author] escreveu:">
+<!ENTITY onDateWroteOption.label              "A [date] [author] escreveu:">
+<!ENTITY authorOnDateWroteOption.label        "[Author] em [date] escreveu:">
