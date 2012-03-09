@@ -10,9 +10,9 @@
 <!ENTITY  paneGeneral.title       "Generâle">
 <!ENTITY  paneTabs.title          "Féuggi">
 <!ENTITY  paneContent.title       "Contegnûo">
-<!ENTITY  paneApplications.title  "Applicaçioìn">
+<!ENTITY  paneApplications.title  "Aplicaçioìn">
 <!ENTITY  panePrivacy.title       "Privacy">
-<!ENTITY  paneSecurity.title      "Siguéssa">
+<!ENTITY  paneSecurity.title      "Seguéssa">
 <!ENTITY  paneAdvanced.title      "Avansæ">
 
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->

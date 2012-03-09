@@ -59,9 +59,9 @@
 <!ENTITY pipalert.title "Erô - no posso repigiâ">
 
 <!-- Prefs panel strings -->
-<!ENTITY pref.security.general.lHeader "Siguéssa">
-<!ENTITY pref.security.general.rHeader "Preferençe pe-a siguéssa generâle">
-<!ENTITY pref.security.general.header "Preferençe pe-a siguéssa generâle">
+<!ENTITY pref.security.general.lHeader "Seguéssa">
+<!ENTITY pref.security.general.rHeader "Preferençe pe-a seguéssa generâle">
+<!ENTITY pref.security.general.header "Preferençe pe-a seguéssa generâle">
 <!ENTITY pref.security.general.level.title "Livéllo de seguéssa">
 <!ENTITY pref.security.general.paranoid.label "Ûza e inpostaçión de seguéssa da maròtto">
 <!ENTITY pref.security.general.certificates.title "Certificâti">
