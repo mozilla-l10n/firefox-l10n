@@ -6,15 +6,15 @@
 <!ENTITY importFromBookmarks.label      "Mewnforio Nodau Tudalen o:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
-<!ENTITY importFromIE.accesskey         "E">
+<!ENTITY importFromIE.accesskey         "M">
 <!ENTITY importFromNothing.label        "Peidio mewnforio dim">
 <!ENTITY importFromNothing.accesskey    "d">
-<!ENTITY importFromSeamonkey.label      "Netscape 6, 7 neu Mozilla 1.x">
-<!ENTITY importFromSeamonkey.accesskey  "N">
-<!ENTITY importFromOpera.label          "Opera">
-<!ENTITY importFromOpera.accesskey      "O">
 <!ENTITY importFromSafari.label         "Safari">
 <!ENTITY importFromSafari.accesskey     "S">
+<!ENTITY importFromChrome.label         "Chrome">
+<!ENTITY importFromChrome.accesskey     "C">
+<!ENTITY importFromFirefox.label        "Firefox">
+<!ENTITY importFromFirefox.accesskey    "x">
 <!ENTITY importFromHTMLFile.label       "O ffeil HTML">
 <!ENTITY importFromHTMLFile.accesskey   "F">
 

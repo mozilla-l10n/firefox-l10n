@@ -2,7 +2,7 @@
 
 <!ENTITY findDialog.title "Canfod yn y Dudalen">
 <!ENTITY findField.label "Canfod beth:">
-<!ENTITY findField.accesskey "n">
+<!ENTITY findField.accesskey "b">
 <!ENTITY caseSensitiveCheckbox.label "Cydweddu Maint">
 <!ENTITY caseSensitiveCheckbox.accesskey "c">
 <!ENTITY wrapCheckbox.label "Amlapio">
@@ -12,8 +12,8 @@
 <!ENTITY cancelButton.label "Diddymu">
 <!ENTITY closeButton.label "Cau">
 <!ENTITY up.label "I fyny">
-<!ENTITY up.accesskey "U">
+<!ENTITY up.accesskey "f">
 <!ENTITY down.label "I lawr">
-<!ENTITY down.accesskey "D">
+<!ENTITY down.accesskey "l">
 <!ENTITY direction.label "Cyfeiriad">
 

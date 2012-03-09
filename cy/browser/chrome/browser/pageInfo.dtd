@@ -49,7 +49,7 @@
 <!ENTITY  closeWindow.key       "w">
 
 <!ENTITY  generalTab            "Cyffredinol">
-<!ENTITY  generalTab.accesskey  "G">
+<!ENTITY  generalTab.accesskey  "y">
 <!ENTITY  generalURL            "Cyfeiriad:">
 <!ENTITY  generalType           "Math:">
 <!ENTITY  generalMode           "Modd Llunio:">

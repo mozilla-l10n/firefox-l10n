@@ -1,4 +1,4 @@
-<!ENTITY editBookmarkOverlay.name.label                      "Name:">
+<!ENTITY editBookmarkOverlay.name.label                      "Enw:">
 <!ENTITY editBookmarkOverlay.name.accesskey                  "E">
 <!ENTITY editBookmarkOverlay.location.label                  "Lleoliad:">
 <!ENTITY editBookmarkOverlay.location.accesskey              "L">
@@ -20,6 +20,6 @@
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "Llwytho'r nod tudalen i'r bar ochr">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "h">
 <!ENTITY editBookmarkOverlay.choose.label                    "Dewis...">
-<!ENTITY editBookmarkOverlay.newFolderButton.label           "New Folder">
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "Ffolder Newydd">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "N">
 

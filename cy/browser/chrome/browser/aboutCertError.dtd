@@ -27,7 +27,7 @@ rhywun yn ceisio dynwared y wefan, peidiwch mynd ymhellach.">
 <!ENTITY certerror.expert.heading "Rwy'n Deall y Peryglon">
 <!ENTITY certerror.expert.content "Os ydych yn deall beth sydd ar waith, mae modd
 dweud wrth &brandShortName; i ymddiried yn dynodiad y wefan.
-<b>Hyd yn oed os ydych yn ymddiried yn y wefan, mae'r gwall
+<b>Hyd yn oed os ydych yn ymddiried yn y wefan, mae'r gwall 
 yn gallu golygu fod rhywun wedi ymyrryd â'ch cysylltiad.</b>">
 <!ENTITY certerror.expert.contentPara2 "Peidiwch ychwanegu eithriad heblaw eich bod yn gwybod fod rheswm da pam nad yw'r wefan yn defnyddio dynodiadau mae modd ymddiried ynddynt.">
 <!ENTITY certerror.addException.label "Ychwanegu Eithriad...">

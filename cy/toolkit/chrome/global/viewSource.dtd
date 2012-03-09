@@ -10,7 +10,7 @@
 
 <!ENTITY fileMenu.label "Ffeil">
 <!ENTITY fileMenu.accesskey "F">
-<!ENTITY savePageCmd.label "Cadw Tudalen Fel...">
+<!ENTITY savePageCmd.label "Cadw tudalen Fel...">
 <!ENTITY savePageCmd.accesskey "A">
 <!ENTITY savePageCmd.commandkey "S">
 <!ENTITY pageSetupCmd.label "Gosodiad Tudalen...">

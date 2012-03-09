@@ -110,11 +110,11 @@
 <!ENTITY maintenance.accesskey  "M">
 <!ENTITY maintenance.tooltip    "Mewnforio a chadw eich nodau tudalen wrth gefn">
 
-<!ENTITY backButton.tooltip  "Mynd nôl">
+<!ENTITY backButton.tooltip  "Mynd Nôl">
 
 <!ENTITY forwardButton.tooltip  "Mynd ymlaen">
 
-<!ENTITY detailsPane.more.label "Rhagor">
+<!ENTITY detailsPane.more.label "Mwy">
 <!ENTITY detailsPane.more.accesskey "R">
 <!ENTITY detailsPane.less.label "Llai">
 <!ENTITY detailsPane.less.accesskey "L">

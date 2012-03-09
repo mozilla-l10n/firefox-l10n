@@ -79,9 +79,8 @@ Mae modd ailgychwyn &brandShortName; nawr, neu barhau i weithio ac ailgychwyn yn
 wedi ei lwytho i lawr ac mae'n barod i'w osod.">
 <!ENTITY  finishedBackground.name         "Diweddaru:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
-<!ENTITY  finishedBackground.more         "Bydd y diweddariad yn cael ei osod y tro nesaf y bydd &brandShortName; yn cychwyn.
-Mae
-                                           modd ailgychwyn &brandShortName; nawr, neu barhau i weithio ac ailgychwyn yn hwyrach.">
+<!ENTITY  finishedBackground.more         "Bydd y diweddariad yn cael ei osod y tro nesaf y bydd &brandShortName; yn cychwyn. 
+Mae modd ailgychwyn &brandShortName; nawr, neu barhau i weithio ac ailgychwyn yn hwyrach.">
 
 <!ENTITY  installed.title                 "Diweddariad wedi ei Osod">
 <!ENTITY  installed.intro                 "Cafodd y diweddariad ei osod yn llwyddiannus.">

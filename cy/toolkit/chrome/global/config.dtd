@@ -43,9 +43,9 @@
 <!ENTITY aboutWarningButton.label "Bydda i'n ofalus, rwy'n addo!">
 <!ENTITY aboutWarningCheckbox.label "Dangos y rhybudd y tro nesaf">
 
-<!ENTITY filterPrefs.label "Hidl:">
-<!ENTITY filterPrefs.accesskey "F">
-<!ENTITY focusFilter.key "h">
+<!ENTITY searchPrefs.label "Chwilio:">
+<!ENTITY searchPrefs.accesskey "C">
+<!ENTITY focusSearch.key "r">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "Enw'r Dewis">

@@ -7,7 +7,7 @@
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
-<!ENTITY clearTimeDuration.label          "Ystod amser i'w glirio:">
+<!ENTITY clearTimeDuration.label          "Ystod amser i'w glirio'r:">
 <!ENTITY clearTimeDuration.accesskey      "a">
 <!ENTITY clearTimeDuration.lastHour       "Awr Olaf">
 <!ENTITY clearTimeDuration.last2Hours     "Dwy Awr Olaf">
@@ -44,7 +44,7 @@ that require it.  -->
 <!ENTITY itemCookies.accesskey             "w">
 <!ENTITY itemCache.label                   "Storfa">
 <!ENTITY itemCache.accesskey               "S">
-<!ENTITY itemOfflineApps.label             "Data Gwefan All-lein">
+<!ENTITY itemOfflineApps.label             "Data Gwfan All-lein">
 <!ENTITY itemOfflineApps.accesskey         "D">
 <!ENTITY itemDownloadHistory.label         "Hanes Llwytho i Lawr">
 <!ENTITY itemDownloadHistory.accesskey     "L">

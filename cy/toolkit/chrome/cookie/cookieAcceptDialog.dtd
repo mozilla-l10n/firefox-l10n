@@ -4,11 +4,10 @@
 <!ENTITY     props.path.label               "Llwybr:">
 <!ENTITY     props.secure.label             "Anfon am:">
 <!ENTITY     props.expires.label            "Daw i ben:">
-<!ENTITY     props.policy.label             "Polisi:"> 
 
 <!ENTITY     button.allow.label             "Caniatáu">
 <!ENTITY     button.allow.accesskey         "A">
-<!ENTITY     button.session.label           "Caniatâu ar gyfer y Sesiwn">
+<!ENTITY     button.session.label           "Caniatáu ar gyfer y Sesiwn">
 <!ENTITY     button.session.accesskey       "S">
 <!ENTITY     button.deny.label              "Gwrthod">
 <!ENTITY     button.deny.accesskey          "D">

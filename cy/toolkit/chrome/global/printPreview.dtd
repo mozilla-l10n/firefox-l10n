@@ -37,7 +37,7 @@
 
 <!ENTITY print.label          "Argraffu...">
 <!ENTITY print.accesskey      "A">
-<!ENTITY pageSetup.label      "Gosodiad Tudalen...">
+<!ENTITY pageSetup.label      "Gosodiad Tudalen">
 <!ENTITY pageSetup.accesskey  "u">
 <!ENTITY page.label           "Tudalen:">
 <!ENTITY page.accesskey       "a">
@@ -46,7 +46,7 @@
 <!ENTITY scale.accesskey      "S">
 <!ENTITY portrait.label       "Portread">
 <!ENTITY portrait.accesskey   "o">
-<!ENTITY landscape.label      "Tirwedd">
+<!ENTITY landscape.label      "Tirlun">
 <!ENTITY landscape.accesskey  "L">
 <!ENTITY close.label          "Cau">
 <!ENTITY close.accesskey      "C">

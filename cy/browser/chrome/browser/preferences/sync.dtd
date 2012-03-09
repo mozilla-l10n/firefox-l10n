@@ -30,9 +30,11 @@
 <!ENTITY engine.passwords.accesskey "C">
 <!ENTITY engine.prefs.label         "Dewisiadau">
 <!ENTITY engine.prefs.accesskey     "D">
+<!ENTITY engine.addons.label        "Ychwanegion">
+<!ENTITY engine.addons.accesskey    "Y">
 
 <!-- Device Settings -->
-<!ENTITY syncComputerName.label       "Enw'r Cyfrifiadur">
+<!ENTITY syncComputerName.label       "Enw Cyfririadur:">
 <!ENTITY syncComputerName.accesskey   "c">
 <!ENTITY unlinkDevice.label           "Datgysylltu'r Ddyfais">
 

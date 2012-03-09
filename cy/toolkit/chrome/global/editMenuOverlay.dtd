@@ -1,5 +1,5 @@
 <!ENTITY editMenu.label            "Golygu">
-<!ENTITY editMenu.accesskey        "e">
+<!ENTITY editMenu.accesskey        "G">
 <!ENTITY undoCmd.label             "Dadwneud">
 <!ENTITY undoCmd.key               "U">
 <!ENTITY undoCmd.accesskey         "D">
@@ -10,7 +10,7 @@
 <!ENTITY cutCmd.key                "X">
 <!ENTITY cutCmd.accesskey          "T">
 <!ENTITY copyCmd.label             "Copïo">
-<!ENTITY copyCmd.key               "c">
+<!ENTITY copyCmd.key               "C">
 <!ENTITY copyCmd.accesskey         "C">
 <!ENTITY pasteCmd.label            "Gludo">
 <!ENTITY pasteCmd.key              "V">
@@ -22,9 +22,9 @@
 <!ENTITY selectAllCmd.accesskey    "P">
 <!ENTITY findCmd.label             "Canfod">
 <!ENTITY findCmd.key               "F">
-<!ENTITY findCmd.accesskey         "a">
+<!ENTITY findCmd.accesskey         "f">
 <!ENTITY findAgainCmd.label        "Canfod Eto">
-<!ENTITY findAgainCmd.key          "a">
+<!ENTITY findAgainCmd.key          "G">
 <!ENTITY findAgainCmd.key2         "VK_F3">
 <!ENTITY findAgainCmd.accesskey    "a">
 <!ENTITY findPreviousCmd.label     "Canfod Blaenorol">
