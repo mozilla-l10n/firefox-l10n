@@ -1,7 +1,7 @@
 <!-- Entities for AccountWizard -->
 
 <!ENTITY windowTitle.label "Assistente de criação de Conta">
-<!ENTITY accountWizard.size "width: 47em; height: 38em;">
+<!ENTITY accountWizard.size "width: 55em; height: 44em;">
 
 <!-- Entities for Account Type page -->
 
