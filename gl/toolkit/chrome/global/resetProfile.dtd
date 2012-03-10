@@ -3,7 +3,7 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 
 <!ENTITY resetProfile.dialog.title        "Restabelecer o &brandShortName;">
-<!ENTITY resetProfile.dialog.description  "Está seguro de que quere restabelecer o Firefox ao estado inicial?">
+<!ENTITY resetProfile.dialog.description  "Está seguro de que quere restabelecer o &brandShortName; ao estado inicial?">
 <!ENTITY resetProfile.dialog.items.label  "Conservaranse os seguintes:">
 <!ENTITY resetProfile.dialog.footer.label "Reiniciarase o &brandShortName; e eliminarase o resto.">
 <!ENTITY resetProfile.dialog.button.label "Restabelecer o &brandShortName;">
