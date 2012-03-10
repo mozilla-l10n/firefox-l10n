@@ -25,7 +25,9 @@
 
 <!ENTITY choose_file "Elegir archivo">
 
-<!ENTITY awesomebar_default_text "Enter Search or Address">
+<!ENTITY awesomebar_default_text "Escribí búsqueda o dirección">
+
+<!ENTITY remote_tabs "Pestañas sincronizadas">
 
 <!ENTITY bookmark "Marcador">
 <!ENTITY bookmark_added "Marcador agregado">
