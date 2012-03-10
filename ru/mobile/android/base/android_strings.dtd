@@ -19,6 +19,7 @@
 <!ENTITY launcher_shortcuts_empty "Веб-приложения не найдены">
 <!ENTITY choose_file "Выбор файла">
 <!ENTITY awesomebar_default_text "Введите поиск или адрес">
+<!ENTITY remote_tabs "Синхронизированные вкладки">
 <!ENTITY bookmark "Закладка">
 <!ENTITY bookmark_added "Закладка добавлена">
 <!ENTITY bookmark_removed "Закладка удалена">
