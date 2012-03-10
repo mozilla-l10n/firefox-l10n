@@ -34,7 +34,7 @@
 
 <!-- Entities for Server page -->
 
-<!ENTITY sincomingTitle.label "Informação do Servidor">
+<!ENTITY incomingTitle.label "Informação do Servidor">
 <!ENTITY incomingServerTypeDesc.label "Seleccione o tipo de servidor de recepção que está a usar.">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
@@ -82,18 +82,6 @@
 -->
 <!ENTITY haveSmtp1.prefix "O servidor SMTP atual, &quot;">
 <!ENTITY haveSmtp1.suffix3 "&quot;, será usado.">
-
-<!-- Entities for Login page -->
-
-<!ENTITY loginTitle.label "Nome de utilizador">
-<!ENTITY usernameDesc.label "Forneça o nome de utilizador com o qual você receberá o correio eletrónico">
-<!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY usernameExample.label "(exemplo: &quot;jsmith&quot;).">
-<!ENTITY usernameLabel.label "Nome de utilizador:">
-<!ENTITY usernameLabel.accesskey "u">
-<!ENTITY usernameSmtpDesc.label "Forneça o nome de utilizador do servidor SMTP (usado para enviar correio eletrónico) fornecido pelo seu fornecedor de correio eletrónico. Normalmente é o mesmo nome de utilizador usado para receber mensagens.">
-<!ENTITY usernameSmtpLabel.label "Nome de utilizador do servidor SMTP:">
-<!ENTITY usernameSmtpLabel.accesskey "N">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
