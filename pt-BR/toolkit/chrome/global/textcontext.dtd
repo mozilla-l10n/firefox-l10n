@@ -13,6 +13,8 @@
 
 <!ENTITY spellAddToDictionary.label "Memorizar como correta">
 <!ENTITY spellAddToDictionary.accesskey "M">
+<!ENTITY spellUndoAddToDictionary.label "Desfazer memorizar como correta">
+<!ENTITY spellUndoAddToDictionary.accesskey "e">
 <!ENTITY spellCheckEnable.label "Verificar ortografia">
 <!ENTITY spellCheckEnable.accesskey "V">
 <!ENTITY spellNoSuggestions.label "(Nenhuma sugestão de ortografia)">
