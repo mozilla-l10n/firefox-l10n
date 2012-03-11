@@ -2,9 +2,8 @@
 <!ENTITY     props.value.label              "Ynformaasje:">
 <!ENTITY     props.domain.label             "Tsjinner:">
 <!ENTITY     props.path.label               "Paad:">
-<!ENTITY     props.secure.label             "Ferstjoert oan:">
+<!ENTITY     props.secure.label             "Ferstjoerd oan:">
 <!ENTITY     props.expires.label            "Ferrint:">
-<!ENTITY     props.policy.label             "Belied:">
 
 <!ENTITY     button.allow.label             "Tastean">
 <!ENTITY     button.allow.accesskey         "a">

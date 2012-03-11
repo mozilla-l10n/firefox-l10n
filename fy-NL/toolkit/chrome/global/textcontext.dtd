@@ -13,6 +13,8 @@
 
 <!ENTITY spellAddToDictionary.label "Tafoegje oan wurdboek">
 <!ENTITY spellAddToDictionary.accesskey "T">
+<!ENTITY spellUndoAddToDictionary.label "Tafoegjen oan wurdboek ûngedien meitsje">
+<!ENTITY spellUndoAddToDictionary.accesskey "n">
 <!ENTITY spellCheckEnable.label "Stavering kontrolearje">
 <!ENTITY spellCheckEnable.accesskey "S">
 <!ENTITY spellNoSuggestions.label "(Gjin staveringsfoarstellen)">
