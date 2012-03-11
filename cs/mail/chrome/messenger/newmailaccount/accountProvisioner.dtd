@@ -1,5 +1,5 @@
 <!ENTITY window.title "Vítejte v aplikaci &brandShortName;">
-<!ENTITY header.label "Získejte novou e-mailovou adresu pro váš &brandShortName;">
+<!ENTITY header2.label "Chtěli byste novou e-mailovou adresu?">
 <!ENTITY other.languages "Zobrazeny jsou pouze poskytovatelé adres ve vaší oblasti. Klepněte zde pro zobrazení všech poskytovatelů.">
 <!ENTITY error.line1 "Je nám líto, ale nepodařilo se najít žádnou z navrhovaných adres.">
 <!ENTITY error.line2 "Pro získání více adres zkuste hledat přezdívku nebo jiný výraz.">
