@@ -1,10 +1,10 @@
 <!-- for SearchDialog.xul -->
 <!ENTITY searchHeading.label         "Шукати в листах у:">
-<!ENTITY searchHeading.accesskey     "e">
+<!ENTITY searchHeading.accesskey     "л">
 <!ENTITY searchSubfolders.label      "Шукати у долученнях теках">
-<!ENTITY searchSubfolders.accesskey  "u">
+<!ENTITY searchSubfolders.accesskey  "д">
 <!ENTITY searchLocalSystem.label     "Шукати в локальній системі">
-<!ENTITY searchLocalSystem.accesskey "y">
+<!ENTITY searchLocalSystem.accesskey "с">
 <!ENTITY resetButton.label           "Очистити">
 <!ENTITY resetButton.accesskey       "О">
 <!ENTITY openButton.label            "Відкрити">
