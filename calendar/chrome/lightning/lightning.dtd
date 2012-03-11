@@ -59,8 +59,6 @@
 <!ENTITY lightning.menu.view.tasks.accesskey "s">
 <!ENTITY lightning.menu.eventtask.label "Eventos y tareas">
 <!ENTITY lightning.menu.eventtask.accesskey "n">
-<!ENTITY lightning.calendarproperties.showevents.inagenda.label "Mostrar eventos en el panel Hoy">
-<!ENTITY lightning.calendarproperties.showtasks.label "Mostrar tareas en el panel Hoy y en modo tarea">
 <!ENTITY lightning.calendarproperties.email.label "Correo-e:">
 <!ENTITY lightning.imipbar.description "Este mensaje contiene una invitación a un evento.">
 <!ENTITY lightning.keys.event.showCalendar.key "C">
