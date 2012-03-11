@@ -5,3 +5,5 @@
 <!ENTITY identitiesListEdit.accesskey "U">
 <!ENTITY identitiesListDelete.label "Smazat">
 <!ENTITY identitiesListDelete.accesskey "m">
+<!ENTITY identitiesListClose.label "Zavřít">
+<!ENTITY identitiesListClose.accesskey "Z">
