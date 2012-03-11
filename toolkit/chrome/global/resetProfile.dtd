@@ -9,5 +9,5 @@
 <!ENTITY resetProfile.dialog.button.label "Återställ &brandShortName;">
 
 <!ENTITY resetProfile.title               "Återställ &brandShortName; till ursprungligt skick">
-<!ENTITY resetProfile.description         "Om du har allvarliga problem som du inte kan lösa, börja om med endast det viktigaste.">
+<!ENTITY resetProfile.description         "Om du har allvarliga problem som du inte kan lösa, börja om med endast den viktigaste datan.">
 <!ENTITY resetProfile.button.label        "Återställ &brandShortName;">
