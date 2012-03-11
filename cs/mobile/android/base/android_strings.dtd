@@ -79,6 +79,7 @@
 <!ENTITY char_encoding "Znaková sada">
 
 <!ENTITY share "Sdílet">
+<!ENTITY share_title "Sdálet pomocí">
 <!ENTITY save_as_pdf "Uložit jako PDF">
 
 <!ENTITY contextmenu_open_new_tab "Otevřít v novém panelu">
