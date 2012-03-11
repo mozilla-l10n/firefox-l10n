@@ -79,8 +79,6 @@
 <!ENTITY imagemapBox.label "Mapa de imagem">
 <!ENTITY removeImageMapButton.label "Excluir">
 <!ENTITY removeImageMapButton.accessKey "x">
-<!ENTITY editImageMapButton.label "Editar…">
-<!ENTITY editImageMapButton.tooltip "Create clickable hotspots for this image">
 
 <!-- These are the options for image alignment -->
 <!ENTITY alignment.label "Alinhamento do texto">
