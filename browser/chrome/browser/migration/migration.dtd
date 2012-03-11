@@ -5,14 +5,16 @@
 <!ENTITY importFromUnix.label           "Importar preferências, favoritos, histórico, senhas e outras informações do:">
 <!ENTITY importFromBookmarks.label      "Importar favoritos do:">
 
-<!ENTITY importFromIE.label             "Microsoft Internet Explorer">
-<!ENTITY importFromIE.accesskey         "M">
+<!ENTITY importFromIE.label             "Internet Explorer">
+<!ENTITY importFromIE.accesskey         "I">
 <!ENTITY importFromNothing.label        "Não importar nada">
 <!ENTITY importFromNothing.accesskey    "N">
 <!ENTITY importFromSafari.label         "Safari">
 <!ENTITY importFromSafari.accesskey     "S">
 <!ENTITY importFromChrome.label         "Chrome">
 <!ENTITY importFromChrome.accesskey     "C">
+<!ENTITY importFromFirefox.label        "Firefox">
+<!ENTITY importFromFirefox.accesskey    "F">
 <!ENTITY importFromHTMLFile.label       "De um arquivo HTML">
 <!ENTITY importFromHTMLFile.accesskey   "D">
 
