@@ -70,7 +70,7 @@
 <!ENTITY openAttachmentCmd.label "Долучення">
 <!ENTITY openAttachmentCmd.accesskey "В">
 <!ENTITY saveAsMenu.label "Зберегти як">
-<!ENTITY saveAsMenu.accesskey "я">
+<!ENTITY saveAsMenu.accesskey "б">
 <!ENTITY saveAsFileCmd.label "Файл">
 <!ENTITY saveAsFileCmd.accesskey "Ф">
 <!ENTITY saveAsFileCmd.key "s">

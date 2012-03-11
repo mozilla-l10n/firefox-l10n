@@ -103,7 +103,7 @@
 <!ENTITY  mediaSaveAs           "Зберегти як…">
 <!ENTITY  mediaSaveAs.accesskey "З">
 <!ENTITY  mediaSaveAs2.accesskey "з">
-<!ENTITY  mediaPreview          "Попередній перегляд мультимедіа:">
+<!ENTITY  mediaPreview          "Попередній перегляд матеріалу:">
 
 <!ENTITY  feedTab               "Подача">
 <!ENTITY  feedTab.accesskey     "ч">
