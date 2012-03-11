@@ -40,8 +40,8 @@
 
 <!ENTITY allowScripts.label             "Permitir scripts a:">
 
-<!ENTITY moveResizeWindows.label        "Mover o cambiar tamaño de las ventanas existentes">
-<!ENTITY moveResizeWindows.accesskey    "M">
+<!ENTITY moveResizePopupWindows.label     "Mover o cambiar tamaño de ventanas emergentes">
+<!ENTITY moveResizePopupWindows.accesskey "M">
 <!ENTITY raiseLowerWindows.label        "Resaltar u ocultar ventanas">
 <!ENTITY raiseLowerWindows.accesskey    "R">
 <!ENTITY disableContextMenus.label      "Desactivar o reemplazar menús contextuales">

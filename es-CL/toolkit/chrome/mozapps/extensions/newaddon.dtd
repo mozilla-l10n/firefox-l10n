@@ -1,5 +1,5 @@
 <!ENTITY title           "Instalar complemento">
-<!ENTITY intro           "Otro programa en su computadora quiere modificar
+<!ENTITY intro           "Otro programa en su computador quiere modificar
                           &brandShortName; con el siguiente complemento:">
 <!ENTITY warning         "Instale complementos solamente de autores en los que confíe.">
 <!ENTITY allow           "Permitir esta instalación">
