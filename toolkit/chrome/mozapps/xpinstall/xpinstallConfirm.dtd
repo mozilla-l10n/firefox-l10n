@@ -1,9 +1,0 @@
-<!-- extracted from institems.xul -->
-
-<!ENTITY dialog.title            "Instalación de software">
-<!ENTITY dialog.style            "width: 45em">
-<!ENTITY warningPrimary.label    "Instalar solamente agregados de personas en las que usted confía.">
-<!ENTITY warningSecondary.label  "El software malicioso puede dañar su computador o violar su privacidad.">
-
-<!ENTITY from.label "de:">
-
