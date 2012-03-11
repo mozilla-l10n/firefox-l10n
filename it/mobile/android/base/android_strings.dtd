@@ -19,6 +19,7 @@
 <!ENTITY launcher_shortcuts_empty "Nessuna web app trovata">
 <!ENTITY choose_file "Scelta file">
 <!ENTITY awesomebar_default_text "Inserire indirizzo o testo da cercare">
+<!ENTITY remote_tabs "Schede sincronizzate">
 <!ENTITY bookmark "Segnalibro">
 <!ENTITY bookmark_added "Aggiunto segnalibro">
 <!ENTITY bookmark_removed "Segnalibro eliminato">
