@@ -1,8 +1,21 @@
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label "Správce kanálů">
 <!ENTITY subscriptionDesc.label "Odebrání nebo změna složky kanálu neovlivní již stažené články.">
-<!ENTITY feedTitle.label "Titulek:">
-<!ENTITY location.label "Adresa:">
+
+<!ENTITY feedTitle.label "Název:">
+<!ENTITY feedTitle.accesskey "N">
+
+<!ENTITY feedLocation.label "Adresa kanálu: ">
+<!ENTITY feedLocation.accesskey "A">
+<!ENTITY feedLocation.placeholder "Vložte platnou adresu kanálu">
+
+<!ENTITY feedFolder.label "Ukládat články do složky: ">
+<!ENTITY feedFolder.accesskey "s">
+
+<!ENTITY quickMode.label "Zobrazit stručný obsah článku namísto načtení webové stránky">
+<!ENTITY quickMode.accesskey "o">
+
+<!ENTITY validateText.label "Zkontrolovat platnost a vrátit platnou adresu.">
 
 <!ENTITY button.addFeed.label "Přidat">
 <!ENTITY button.addFeed.accesskey "a">
