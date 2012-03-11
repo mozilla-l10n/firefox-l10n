@@ -42,7 +42,9 @@
 <!ENTITY connectionSettings.label        "Configuraciones…">
 <!ENTITY connectionSettings.accesskey    "e">
 
-<!ENTITY offlineStorage.label            "Almacenamiento Sin Conexión">
+<!ENTITY httpCache.label                 "Contenido web en caché">
+
+<!ENTITY offlineStorage2.label           "Contenido web y datos de usuario sin conexión">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
@@ -55,35 +57,44 @@
 <!ENTITY limitCacheSizeAfter.label       "MB de espacio">
 <!ENTITY clearCacheNow.label             "Limpiar ahora">
 <!ENTITY clearCacheNow.accesskey         "h">
+<!ENTITY clearOfflineAppCacheNow.label   "Limpiar ahora">
+<!ENTITY clearOfflineAppCacheNow.accesskey "i">
 <!ENTITY overrideSmartCacheSize.label    "Anular administración automática de caché">
 <!ENTITY overrideSmartCacheSize.accesskey "o">
 
 
 <!ENTITY updateTab.label                 "Actualización">
 
-<!ENTITY autoCheck.label                 "Buscar automáticamente actualizaciones para:">
-<!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate2.label        "Agregados">
-<!ENTITY enableAddonsUpdate2.accesskey    "d">
+
 <!ENTITY enableSearchUpdate.label        "Motores de Búsqueda">
 <!ENTITY enableSearchUpdate.accesskey    "M">
-<!ENTITY whenUpdatesFound.label          "Cuando se encuentren actualizaciones para &brandShortName;:">
-<!ENTITY askMe.label                     "Preguntarme lo que deseo hacer">
-<!ENTITY askMe.accesskey                 "P">
-<!ENTITY modeAutomatic.label             "Automáticamente descargar e instalar la actualización">
-<!ENTITY modeAutomatic.accesskey         "d">
-<!ENTITY modeAutoAddonWarn.label         "Avisarme si esto deshabilitará alguno de mis agregados">
-<!ENTITY modeAutoAddonWarn.accesskey     "A">
-<!ENTITY updateHistory.label             "Mostrar Historial de Actualización">
+
+
+<!ENTITY updateTab.label                 "Actualizaciones">
+
+<!ENTITY updateApp.label                 "Actualizaciones de &brandShortName;:">
+<!ENTITY updateAuto.label                "Instalar actualizaciones automáticamente (recomendado: mejoras de seguridad)">
+<!ENTITY updateAuto.accesskey            "a">
+<!ENTITY updateCheck.label               "Buscar actualizaciones, pero dejarme elegir si deseo instalarlas">
+<!ENTITY updateCheck.accesskey           "c">
+<!ENTITY updateManual.label              "Nunca buscar actualizaciones (no recomendado: riesgos de seguridad)">
+<!ENTITY updateManual.accesskey          "N">
+
+<!ENTITY updateAutoAddonWarn.label       "Avisarme si ésto deshabilitará alguno de mis complementos">
+<!ENTITY updateAutoAddonWarn.accesskey   "v">
+
+<!ENTITY updateHistory.label             "Mostrar historial de actualización">
 <!ENTITY updateHistory.accesskey         "H">
+<!ENTITY useService.label                "Usar un servicio en segundo plano para instalar actualizaciones">
+<!ENTITY useService.accesskey            "U">
+<!ENTITY updateOthers.label              "Actualizar automáticamente:">
 
 <!ENTITY offlineNotify.label             "Avisarme cuando un sitio web pide almacenar datos para uso sin conexión">
 <!ENTITY offlineNotify.accesskey         "t">
 <!ENTITY offlineNotifyExceptions.label   "Excepciones…">
 <!ENTITY offlineNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList.label           "Los siguientes sitios web han almacenado datos para uso sin conexión:">
+<!ENTITY offlineAppsList2.label          "Los siguientes sitios web tienen permitido guardar datos para uso sin conexión:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Eliminar...">
 <!ENTITY offlineAppsListRemove.accesskey "r">
