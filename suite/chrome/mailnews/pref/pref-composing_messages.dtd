@@ -67,3 +67,10 @@
 <!ENTITY fontColor.accesskey "x">
 <!ENTITY bgColor.label "Pozadí:">
 <!ENTITY bgColor.accesskey "z">
+
+<!ENTITY selectHeaderType.label "Zvolte typ hlavičky odpovědi:">
+<!ENTITY selectHeaderType.accesskey "e">
+<!ENTITY noReplyOption.label "Bez hlavičky">
+<!ENTITY authorWroteOption.label "[Autor] napsal:">
+<!ENTITY onDateWroteOption.label "[Dne] [autor] napsal:">
+<!ENTITY authorOnDateWroteOption.label "[Autor] [dne] napsal:">
