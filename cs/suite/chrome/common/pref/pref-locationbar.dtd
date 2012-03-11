@@ -23,6 +23,10 @@
 <!ENTITY autoCompleteMatchWords "Pouze na hranicích slov">
 <!ENTITY autoCompleteMatchStart "Pouze na začátku adresy nebo titulku">
 
+<!ENTITY formatting.label "Formátování">
+<!ENTITY domainFormatting.label "Zvýraznit hlavní doménu webových a FTP serverů">
+<!ENTITY domainFormatting.accesskey "h">
+
 <!ENTITY searchEngine.label "Vyhledávací moduly">
 <!ENTITY showSearchEngine.label "Zobrazit výchozí modul">
 <!ENTITY showSearchEngine.accesskey "m">
