@@ -1,5 +1,5 @@
 <!ENTITY dialog.title "Arkbalke wizigje">
-<!ENTITY dialog.style "width: 115ch; height: 45em;">
+<!ENTITY dialog.dimensions "width: 115ch; height: 45em;">
 <!ENTITY instructions.description "Jo kinne ûnderdielen tafoegje of fuortsmite troch se nei of fan de arkbalke te sleepjen.">
 <!ENTITY show.label "Toane:">
 <!ENTITY iconsAndText.label "Ikoantsjes en tekst">
