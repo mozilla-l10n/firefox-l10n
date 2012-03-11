@@ -16,17 +16,8 @@
 <!ENTITY fullnameLabel.accesskey "S">
 <!ENTITY emailLabel.label "Dirección de correo electrónico:">
 <!ENTITY emailLabel.accesskey "E">
-<!ENTITY serverTitle.label "Información del servidor">
+<!ENTITY incomingTitle.label "Información del servidor entrante">
 <!ENTITY incomingServerTypeDesc.label "Seleccione el tipo de servidor de entrada que está utilizando.">
-<!ENTITY incomingServerNameDesc.label "Introduzca el nombre de su servidor de entrada (por ejemplo, &quot;mail.ejemplo.net&quot;).">
-<!ENTITY incomingServerLabel.label "Servidor de entrada:">
-<!ENTITY incomingServerLabel.accesskey "S">
-<!ENTITY newsServerNameDesc.label "Introduzca el nombre de su servidor de noticias (NNTP) (por ejemplo, &quot;news.ejemplo.net&quot;).">
-<!ENTITY smtpServerDesc.label "Introduzca el nombre de su servidor de salida (SMTP) (por ejemplo, &quot;smtp.ejemplo.net&quot;).">
-<!ENTITY smtpServerLabel.label "Servidor de correo de salida:">
-<!ENTITY smtpServerLabel.accesskey "O">
-<!ENTITY newsServerLabel.label "Servidor de noticias:">
-<!ENTITY newsServerLabel.accesskey "n">
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "I">
 <!ENTITY popType.label "POP">
@@ -35,19 +26,27 @@
 <!ENTITY portNum.accesskey "u">
 <!ENTITY defaultPortLabel.label "Predet.:">
 <!ENTITY defaultPortValue.label "">
+<!ENTITY incomingServer.description "Introduzca el nombre de su servidor de entrada (por ejemplo, &quot;mail.ejemplo.net&quot;).">
+<!ENTITY incomingServer.label "Servidor de entrada:">
+<!ENTITY incomingServer.accesskey "S">
 <!ENTITY leaveMsgsOnSrvr.label "Dejar los mensajes en el servidor">
 <!ENTITY leaveMsgsOnSrvr.accesskey "D">
+<!ENTITY incomingUsername.description "Introduzca el nombre de usuario entrante facilitado por su proveedor de correo electrónico (por ejemplo, &quot;jperez&quot;).">
+<!ENTITY incomingUsername.label "Nombre de usuario:">
+<!ENTITY incomingUsername.accesskey "u">
+<!ENTITY newsServerNameDesc.label "Introduzca el nombre de su servidor de noticias (NNTP) (por ejemplo, &quot;news.ejemplo.net&quot;).">
+<!ENTITY newsServerLabel.label "Servidor de noticias:">
+<!ENTITY newsServerLabel.accesskey "n">
+<!ENTITY outgoingTitle.label "Información del servidor saliente">
+<!ENTITY outgoingServer.description "Introduzca el nombre de su servidor de salida (SMTP) (por ejemplo, &quot;smtp.ejemplo.net&quot;).">
+<!ENTITY outgoingServer.label "Servidor de correo de salida:">
+<!ENTITY outgoingServer.accesskey "S">
+<!ENTITY outgoingUsername.description "Introduzca el nombre de usuario saliente facilitado por su proveedor de correo electrónico (normalmente es el mismo que el entrante).">
+<!ENTITY outgoingUsername.label "Nombre de usuario saliente:">
+<!ENTITY outgoingUsername.accesskey "u">
 <!ENTITY modifyOutgoing.suffix "Puede modificar las opciones del servidor de salida desde la configuración de cuentas de Correo y noticias.">
 <!ENTITY haveSmtp1.prefix "Su servidor de salida (SMTP) existente, &quot;">
 <!ENTITY haveSmtp1.suffix3 "&quot;.">
-<!ENTITY loginTitle.label "Nombres de usuario">
-<!ENTITY usernameDesc.label "Introduzca el nombre de usuario entrante facilitado por su proveedor de correo electrónico ">
-<!ENTITY usernameExample.label "(por ejemplo, &quot;jperez&quot;).">
-<!ENTITY usernameLabel.label "Nombre de usuario entrante:">
-<!ENTITY usernameLabel.accesskey "I">
-<!ENTITY usernameSmtpDesc.label "Introduzca el nombre de usuario saliente facilitado por su proveedor de correo electrónico (normalmente es el mismo que el entrante).">
-<!ENTITY usernameSmtpLabel.label "Nombre de usuario saliente:">
-<!ENTITY usernameSmtpLabel.accesskey "O">
 <!ENTITY haveSmtp2.prefix "Su nombre de usuario saliente (SMTP) existente, &quot;">
 <!ENTITY haveSmtp2.suffix3 "&quot;.">
 <!ENTITY haveSmtp3.prefix "Su servidor saliente (SMTP), &quot;">

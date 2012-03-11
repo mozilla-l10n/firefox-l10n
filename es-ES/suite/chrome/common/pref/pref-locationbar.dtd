@@ -16,11 +16,14 @@
 <!ENTITY autoCompleteMatchWordsFirst "en cualquier parte, mejor al comienzo de palabras">
 <!ENTITY autoCompleteMatchWords "Sólo en el comienzo de palabras">
 <!ENTITY autoCompleteMatchStart "Sólo al principio de la dirección y el título">
+<!ENTITY formatting.label "Formato">
+<!ENTITY domainFormatting.label "Resaltar el dominio efectivo en sitios web y servidores FTP">
+<!ENTITY domainFormatting.accesskey "F">
 <!ENTITY searchEngine.label "Motor de búsqueda en Internet">
 <!ENTITY showSearchEngine.label "Mostrar el buscador por defecto">
 <!ENTITY showSearchEngine.accesskey "o">
 <!ENTITY unknownLocations.label "Direcciones desconocidas">
 <!ENTITY domainGuessing.label "Añadir &quot;www.&quot; y &quot;.com&quot; a la dirección si no se encuentra una página web">
-<!ENTITY domainGuessing.accesskey "d">
+<!ENTITY domainGuessing.accesskey "c">
 <!ENTITY keywords.label "Realizar una búsqueda web cuando el texto introducido no sea una dirección web">
 <!ENTITY keywords.accesskey "E">
