@@ -74,30 +74,6 @@
 <!ENTITY lightning.menu.eventtask.label                "Barrens en taken">
 <!ENTITY lightning.menu.eventtask.accesskey            "n">
 
-<!-- Mode Toolbar -->
-<!ENTITY lightning.toolbar.mail.label         "E-mail">
-<!ENTITY lightning.toolbar.mail.accesskey     "m">
-<!ENTITY lightning.toolbar.calendar.label     "Aginda">
-<!ENTITY lightning.toolbar.calendar.tooltip   "Wikselje nei it agindaljepblêd">
-<!ENTITY lightning.toolbar.calendar.accesskey "n">
-<!ENTITY lightning.toolbar.task.label         "Taken">
-<!ENTITY lightning.toolbar.task.tooltip       "Wikselje nei it takenljepblêd">
-<!ENTITY lightning.toolbar.task.accesskey     "T">
-
-<!-- Toolbar write button -->
-<!ENTITY lightning.toolbar.newevent.label     "Barren">
-<!ENTITY lightning.toolbar.newtask.label      "Taak">
-
-<!-- Messenger Toolbar -->
-<!ENTITY lightning.toolbar.day.label                 "Dei">
-<!ENTITY lightning.toolbar.day.accesskey             "D">
-<!ENTITY lightning.toolbar.week.label                "Wike">
-<!ENTITY lightning.toolbar.week.accesskey            "k">
-<!ENTITY lightning.toolbar.multiweek.label           "Mear wiken">
-<!ENTITY lightning.toolbar.multiweek.accesskey       "e">
-<!ENTITY lightning.toolbar.month.label               "Moanne">
-<!ENTITY lightning.toolbar.month.accesskey           "M">
-
 <!-- properties dialog, calendar creation wizard -->
 <!ENTITY lightning.calendarproperties.showevents.inagenda.label "Barrens toane yn finster Hjoed">
 <!ENTITY lightning.calendarproperties.showtasks.label           "Taken toane yn finster Hjoed en takenmoadus">

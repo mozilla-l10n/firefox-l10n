@@ -360,8 +360,6 @@
 <!ENTITY event.freebusy.next.slot        "Folgjende frije plak " >
 <!ENTITY event.freebusy.previous.slot    " Foarige frije plak" >
 <!ENTITY event.freebusy.zoom             "Zoomen:">
-<!ENTITY event.freebusy.plus             "Folgjend oer" >
-<!ENTITY event.freebusy.minus            "Foarich oer" >
 <!ENTITY event.freebusy.legend.free      "Beskikber" >
 <!ENTITY event.freebusy.legend.busy      "Beset" >
 <!ENTITY event.freebusy.legend.busy_tentative   "Foarlopich" >
