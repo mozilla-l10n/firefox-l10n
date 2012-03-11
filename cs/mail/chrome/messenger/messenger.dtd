@@ -503,7 +503,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fileButton.label "Přesunout">
 <!ENTITY archiveButton.label "Archivovat">
 <!ENTITY nextButton.label "Další">
+<!ENTITY nextButtonToolbarItem.label "Další nepřečtená">
+<!ENTITY nextMsgButton.label "Další">
 <!ENTITY previousButton.label "Předchozí">
+<!ENTITY previousButtonToolbarItem.label "Předchozí nepřečtená">
+<!ENTITY previousMsgButton.label "Předchozí">
 <!ENTITY backButton1.label "Zpět">
 <!ENTITY goForwardButton1.label "Vpřed">
 <!ENTITY deleteItem.title "Smazat">
@@ -537,7 +541,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fileButton.tooltip "Přesune označenou zprávu do složky">
 <!ENTITY archiveButton.tooltip "Archivovat označené zprávy">
 <!ENTITY nextButton.tooltip "Přejde na další nepřečtenou zprávu">
+<!ENTITY nextMsgButton.tooltip "Přejde na další zprávu">
 <!ENTITY previousButton.tooltip "Přejde na předchozí nepřečtenou zprávu">
+<!ENTITY previousMsgButton.tooltip "Přejde na předchozí zprávu">
 <!ENTITY goForwardButton.tooltip "Přejde o jednu zprávu vpřed">
 <!ENTITY goBackButton.tooltip "Přejde o jednu zprávu vzad">
 <!ENTITY deleteButton.tooltip "Smaže označené zprávy nebo složky">
