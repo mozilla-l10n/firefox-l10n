@@ -1,0 +1,6 @@
+<!-- These strings are used in the about:newtab page -->
+<!ENTITY newtab.pageTitle "Nova aba">
+
+<!ENTITY newtab.show "Exibir página de nova aba">
+<!ENTITY newtab.hide "Ocultar página de nova aba">
+<!ENTITY newtab.reset "Restaurar página de nova aba">
