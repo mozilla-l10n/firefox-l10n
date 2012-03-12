@@ -43,50 +43,6 @@
 <!ENTITY editMenu.label               "編輯">
 <!ENTITY editMenu.accesskey           "E">
 
-<!ENTITY undoCmd.label                "復原">
-<!ENTITY undoCmd.key                  "Z">
-<!ENTITY undoCmd.accesskey            "U">
-
-<!ENTITY redoCmd.label                "取消「復原」">
-<!ENTITY redoCmd.key                  "Y">
-<!ENTITY redoCmd.accesskey            "R">
-
-<!ENTITY cutCmd.label                 "剪下">
-<!ENTITY cutCmd.key                   "X">
-<!ENTITY cutCmd.accesskey             "t">
-
-<!ENTITY copyCmd.label                "複製">
-<!ENTITY copyCmd.key                  "C">
-<!ENTITY copyCmd.accesskey            "C">
-
-<!ENTITY pasteCmd.label               "貼上">
-<!ENTITY pasteCmd.key                 "V">
-<!ENTITY pasteCmd.accesskey           "P">
-
-<!ENTITY selectAllCmd.label           "全選">
-<!ENTITY selectAllCmd.key             "A">
-<!ENTITY selectAllCmd.accesskey       "A">
-
-<!ENTITY findCmd.label                "尋找…">
-<!ENTITY findCmd.key                  "F">
-<!ENTITY findCmd.accesskey            "F">
-
-<!ENTITY findAgainCmd.label           "再次尋找…">
-<!-- LOCALIZATION NOTE (findAgainCmd.key): This key is used only on Macs.
-  -  Windows and Linux builds use the F3 key which is not localizable on purpose.
-  -->
-<!ENTITY findAgainCmd.key             "G">
-<!ENTITY findAgainCmd.accesskey       "g">
-<!-- LOCALIZATION NOTE (findPreviousCmd.key): This key is used only on Macs.
-  -  Windows and Linux builds use the Shift-F3 key which is not localizable on
-  -  purpose.
-  -->
-<!ENTITY findPreviousCmd.key          "G">
-
-<!ENTITY gotoLineCmd.label            "跳到某行…">
-<!ENTITY gotoLineCmd.key              "J">
-<!ENTITY gotoLineCmd.accesskey        "J">
-
 <!ENTITY run.label                    "執行">
 <!ENTITY run.accesskey                "R">
 <!ENTITY run.key                      "r">
