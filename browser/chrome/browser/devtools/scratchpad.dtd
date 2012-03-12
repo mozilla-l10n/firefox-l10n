@@ -43,18 +43,6 @@
 <!ENTITY editMenu.label               "Editar">
 <!ENTITY editMenu.accesskey           "E">
 
-<!ENTITY undoCmd.label                "Desfacer">
-<!ENTITY undoCmd.key                  "Z">
-<!ENTITY undoCmd.accesskey            "D">
-
-<!ENTITY redoCmd.label                "Refacer">
-<!ENTITY redoCmd.key                  "Y">
-<!ENTITY redoCmd.accesskey            "R">
-
-<!ENTITY gotoLineCmd.label            "Saltar á liña…">
-<!ENTITY gotoLineCmd.key              "J">
-<!ENTITY gotoLineCmd.accesskey        "ñ">
-
 <!ENTITY run.label                    "Executar">
 <!ENTITY run.accesskey                "E">
 <!ENTITY run.key                      "t">
