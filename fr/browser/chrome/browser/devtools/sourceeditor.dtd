@@ -10,9 +10,6 @@
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
 
-<!ENTITY undoCmd.label             "Rétablir">
-<!ENTITY undoCmd.accesskey         "R">
-<!ENTITY undoCmd.key               "Z">
-<!ENTITY redoCmd.label             "Refaire">
-<!ENTITY redoCmd.accesskey         "R">
-<!ENTITY redoCmd.key               "Y">
+<!ENTITY gotoLineCmd.label         "Aller à la ligne…">
+<!ENTITY gotoLineCmd.key           "J">
+<!ENTITY gotoLineCmd.accesskey     "r">
