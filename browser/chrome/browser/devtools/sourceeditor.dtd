@@ -12,6 +12,10 @@
 
 <!ENTITY undoCmd.label             "Rétablir">
 <!ENTITY undoCmd.accesskey         "R">
+<!ENTITY undoCmd.key               "Z">
+<!ENTITY redoCmd.label             "Refaire">
+<!ENTITY redoCmd.accesskey         "R">
+<!ENTITY redoCmd.key               "Y">
 <!ENTITY cutCmd.label              "Couper">
 <!ENTITY cutCmd.accesskey          "C">
 <!ENTITY copyCmd.label             "Copier">
