@@ -51,38 +51,6 @@
 <!ENTITY redoCmd.key                  "Y">
 <!ENTITY redoCmd.accesskey            "R">
 
-<!ENTITY cutCmd.label                 "Cortar">
-<!ENTITY cutCmd.key                   "X">
-<!ENTITY cutCmd.accesskey             "t">
-
-<!ENTITY copyCmd.label                "Copiar">
-<!ENTITY copyCmd.key                  "C">
-<!ENTITY copyCmd.accesskey            "C">
-
-<!ENTITY pasteCmd.label               "Pegar">
-<!ENTITY pasteCmd.key                 "V">
-<!ENTITY pasteCmd.accesskey           "P">
-
-<!ENTITY selectAllCmd.label           "Seleccionar todo">
-<!ENTITY selectAllCmd.key             "A">
-<!ENTITY selectAllCmd.accesskey       "a">
-
-<!ENTITY findCmd.label                "Localizar…">
-<!ENTITY findCmd.key                  "F">
-<!ENTITY findCmd.accesskey            "L">
-
-<!ENTITY findAgainCmd.label           "Localizar de novo…">
-<!-- LOCALIZATION NOTE (findAgainCmd.key): This key is used only on Macs.
-  -  Windows and Linux builds use the F3 key which is not localizable on purpose.
-  -->
-<!ENTITY findAgainCmd.key             "G">
-<!ENTITY findAgainCmd.accesskey       "z">
-<!-- LOCALIZATION NOTE (findPreviousCmd.key): This key is used only on Macs.
-  -  Windows and Linux builds use the Shift-F3 key which is not localizable on
-  -  purpose.
-  -->
-<!ENTITY findPreviousCmd.key          "G">
-
 <!ENTITY gotoLineCmd.label            "Saltar á liña…">
 <!ENTITY gotoLineCmd.key              "J">
 <!ENTITY gotoLineCmd.accesskey        "ñ">
