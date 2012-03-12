@@ -12,6 +12,10 @@
 
 <!ENTITY undoCmd.label             "Desfacer">
 <!ENTITY undoCmd.accesskey         "D">
+<!ENTITY undoCmd.key               "Z">
+<!ENTITY redoCmd.label             "Refacer">
+<!ENTITY redoCmd.accesskey         "R">
+<!ENTITY redoCmd.key               "Y">
 <!ENTITY cutCmd.label              "Cortar">
 <!ENTITY cutCmd.accesskey          "t">
 <!ENTITY copyCmd.label             "Copiar">
