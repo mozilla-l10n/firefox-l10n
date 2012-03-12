@@ -43,18 +43,6 @@
 <!ENTITY editMenu.label               "Édition">
 <!ENTITY editMenu.accesskey           "n">
 
-<!ENTITY undoCmd.label                "Annuler">
-<!ENTITY undoCmd.key                  "Z">
-<!ENTITY undoCmd.accesskey            "n">
-
-<!ENTITY redoCmd.label                "Refaire">
-<!ENTITY redoCmd.key                  "Y">
-<!ENTITY redoCmd.accesskey            "R">
-
-<!ENTITY gotoLineCmd.label            "Aller à la ligne…">
-<!ENTITY gotoLineCmd.key              "J">
-<!ENTITY gotoLineCmd.accesskey        "r">
-
 <!ENTITY run.label                    "Exécuter">
 <!ENTITY run.accesskey                "E">
 <!ENTITY run.key                      "r">
