@@ -47,7 +47,7 @@
 <!ENTITY outgoingServer.description "Wprowadź nazwę serwera poczty wychodzącej (SMTP) (na przykład: „smtp.example.net”).">
 <!ENTITY outgoingServer.label "Serwer poczty wychodzącej:">
 <!ENTITY outgoingServer.accesskey "o">
-<!ENTITY outgoingUsername.description "Wprowadź, podaną przez dostawcę poczty, nazwę użytkownika dla serwera poczty wychodzącej (zazwyczaj taką samą jak dla serwera poczty przychodzącej).">
+<!ENTITY outgoingUsername.description "Wprowadź, podaną przez dostawcę poczty, nazwę użytkownika dla serwera poczty wychodzącej (zazwyczaj taką samą, jak dla serwera poczty przychodzącej).">
 <!ENTITY outgoingUsername.label "Nazwa użytkownika poczty wychodzącej:">
 <!ENTITY outgoingUsername.accesskey "a">
 
