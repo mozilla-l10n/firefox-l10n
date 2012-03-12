@@ -6,6 +6,6 @@
 <!ENTITY feedback.feedback.bad          "Ruim">
 
 <!ENTITY feedback.tools.title           "Ferramentas">
-<!ENTITY feedback.allowTelemetry.title  "Enviar dados sobre desempenho">
+<!ENTITY feedback.allowTelemetry.title  "Enviar dados desempenho">
 <!ENTITY feedback.forceCompat.title     "Forçar compat dos complem">
 <!ENTITY feedback.errorConsole.title    "Ativar console de erros">

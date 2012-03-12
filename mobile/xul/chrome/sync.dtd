@@ -24,4 +24,4 @@
 <!ENTITY sync.pair.title            "Parear dispositivo">
 <!ENTITY sync.pair.description      "Para ativar seu novo dispositivo, selecione “Configurar Sync” no dispositivo.">
 <!ENTITY sync.setup.close           "Fechar">
-<!ENTITY sync.setup.waitingdownload "Seus dados estão sendo recebidos em segundo plano. Você pode fechar esta janela quando quiser.">
+<!ENTITY sync.setup.waitingdownload "Seus dados estão sendo recebidos em segundo plano. Você pode fechar esta janela quando desejar.">

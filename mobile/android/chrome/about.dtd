@@ -1,18 +1,12 @@
 <!ENTITY aboutPage.title                        "Sobre o &brandShortName;">
+<!ENTITY aboutPage.checkForUpdates.link         "Verificar atualização »">
+<!ENTITY aboutPage.checkForUpdates.checking     "Verificando atualização…">
+<!ENTITY aboutPage.checkForUpdates.none         "Nenhuma atualização disponível.">
+<!ENTITY aboutPage.checkForUpdates.found        "Atualização disponível">
 <!ENTITY aboutPage.faq.label                    "Dúvidas freqüentes">
 <!ENTITY aboutPage.support.label                "Suporte">
 <!ENTITY aboutPage.privacyPolicy.label          "Política de privacidade">
 <!ENTITY aboutPage.rights.label                 "Conheça seus direitos">
 <!ENTITY aboutPage.relNotes.label               "Notas da versão">
 <!ENTITY aboutPage.credits.label                "Créditos">
-<!ENTITY aboutPage.checkForUpdates.button       "Verificar atualização">
-<!ENTITY aboutPage.checkForUpdates.checking     "Verificando atualização…">
-<!ENTITY aboutPage.checkForUpdates.none         "Nenhuma atualização disponível.">
-<!ENTITY aboutPage.checkForUpdates.found        "Atualização disponível">
-
-
-<!-- LOCALIZATION NOTE:
-     These strings are concatenated in order. Unneeded strings may be left blank.
--->
-<!ENTITY aboutPage.licenseLink                  "Informações de licenciamento">
-<!ENTITY aboutPage.licenseLinkSuffix            ".">
+<!ENTITY aboutPage.license.label                "Informações de licenciamento">
