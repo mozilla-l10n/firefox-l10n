@@ -68,10 +68,23 @@
 <!ENTITY bgColor.label                        "Achtergrond:">
 <!ENTITY bgColor.accesskey                    "A">
 
-<!ENTITY selectHeaderType.label               "Antwoordregeltype selecteren :">
+<!ENTITY selectHeaderType.label               "Antwoordregeltype selecteren:">
 <!ENTITY selectHeaderType.accesskey           "e">
 <!ENTITY noReplyOption.label                  "Geen antwoordregel">
+<!-- LOCALIZATION NOTE (authorWroteOption.label): this is tied to the 
+  mailnews.reply_header_authorwrote preference. [Author] needs to be 
+  translated. -->
 <!ENTITY authorWroteOption.label              "[Author] schreef:">
-<!ENTITY onDateWroteOption.label              "Op [date] [author] schreef:">
-<!ENTITY authorOnDateWroteOption.label        "[Author] op [date] schreef:">
+<!-- LOCALIZATION NOTE (onDateAuthorWroteOption.label): this is tied to the 
+  combination of the mailnews.reply_header_ondate(On [date]), 
+  mailnews.reply_header_separator (a comma in this case) and 
+  mailnews.reply_header_authorwrote([Author] wrote) preferences. [date] and 
+  [Author] need to be translated, and the correct  separator put in. -->
+<!ENTITY onDateAuthorWroteOption.label        "Op [date], [author] schreef:">
+<!-- LOCALIZATION NOTE (authorWroteOnDateOption.label): this is tied to the 
+  combination of the mailnews.reply_header_authorwrote([Author] wrote), 
+  mailnews.reply_header_separator (a comma in this case), and 
+  mailnews.reply_header_ondate preferences(On [date]). [Author] and [date] 
+  need to be translated, and the correct separator put in. -->
+<!ENTITY authorWroteOnDateOption.label        "[Author] op [date] schreef:">
 
