@@ -16,21 +16,3 @@
 <!ENTITY redoCmd.label             "Refaire">
 <!ENTITY redoCmd.accesskey         "R">
 <!ENTITY redoCmd.key               "Y">
-<!ENTITY cutCmd.label              "Couper">
-<!ENTITY cutCmd.accesskey          "C">
-<!ENTITY copyCmd.label             "Copier">
-<!ENTITY copyCmd.accesskey         "p">
-<!ENTITY pasteCmd.label            "Coller">
-<!ENTITY pasteCmd.accesskey        "o">
-<!ENTITY deleteCmd.label           "Supprimer">
-<!ENTITY deleteCmd.accesskey       "e">
-<!ENTITY selectAllCmd.label        "Tout sélectionner">
-<!ENTITY selectAllCmd.accesskey    "T">
-<!ENTITY findCmd.label             "Rechercher…">
-<!ENTITY findCmd.accesskey         "h">
-<!ENTITY findAgainCmd.label        "Rechercher le suivant…">
-<!ENTITY findAgainCmd.accesskey    "s">
-<!ENTITY gotoLineCmd.label         "Aller à la ligne…">
-<!ENTITY gotoLineCmd.key           "J">
-<!ENTITY gotoLineCmd.accesskey     "e">
-
