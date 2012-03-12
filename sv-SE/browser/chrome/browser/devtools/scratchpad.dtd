@@ -43,50 +43,6 @@
 <!ENTITY editMenu.label               "Redigera">
 <!ENTITY editMenu.accesskey           "R">
 
-<!ENTITY undoCmd.label                "Ångra">
-<!ENTITY undoCmd.key                  "Z">
-<!ENTITY undoCmd.accesskey            "Å">
-
-<!ENTITY redoCmd.label                "Gör om">
-<!ENTITY redoCmd.key                  "Y">
-<!ENTITY redoCmd.accesskey            "G">
-
-<!ENTITY cutCmd.label                 "Klipp ut">
-<!ENTITY cutCmd.key                   "X">
-<!ENTITY cutCmd.accesskey             "K">
-
-<!ENTITY copyCmd.label                "Kopiera">
-<!ENTITY copyCmd.key                  "C">
-<!ENTITY copyCmd.accesskey            "o">
-
-<!ENTITY pasteCmd.label               "Klistra in">
-<!ENTITY pasteCmd.key                 "V">
-<!ENTITY pasteCmd.accesskey           "l">
-
-<!ENTITY selectAllCmd.label           "Markera allt">
-<!ENTITY selectAllCmd.key             "A">
-<!ENTITY selectAllCmd.accesskey       "M">
-
-<!ENTITY findCmd.label                "Sök…">
-<!ENTITY findCmd.key                  "F">
-<!ENTITY findCmd.accesskey            "S">
-
-<!ENTITY findAgainCmd.label           "Sök igen…">
-<!-- LOCALIZATION NOTE (findAgainCmd.key): This key is used only on Macs.
-  -  Windows and Linux builds use the F3 key which is not localizable on purpose.
-  -->
-<!ENTITY findAgainCmd.key             "G">
-<!ENTITY findAgainCmd.accesskey       "ö">
-<!-- LOCALIZATION NOTE (findPreviousCmd.key): This key is used only on Macs.
-  -  Windows and Linux builds use the Shift-F3 key which is not localizable on
-  -  purpose.
-  -->
-<!ENTITY findPreviousCmd.key          "G">
-
-<!ENTITY gotoLineCmd.label            "Gå till rad…">
-<!ENTITY gotoLineCmd.key              "J">
-<!ENTITY gotoLineCmd.accesskey        "r">
-
 <!ENTITY run.label                    "Kör">
 <!ENTITY run.accesskey                "ö">
 <!ENTITY run.key                      "r">
