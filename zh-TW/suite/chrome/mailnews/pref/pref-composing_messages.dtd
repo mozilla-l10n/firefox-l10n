@@ -68,9 +68,22 @@
 <!ENTITY bgColor.label                        "背景:">
 <!ENTITY bgColor.accesskey                    "B">
 
-<!ENTITY selectHeaderType.label               "選擇回覆時的檔頭類型:">
+<!ENTITY selectHeaderType.label               "選擇回覆時的引文開頭類型:">
 <!ENTITY selectHeaderType.accesskey           "e">
 <!ENTITY noReplyOption.label                  "沒有回應檔頭">
+<!-- LOCALIZATION NOTE (authorWroteOption.label): this is tied to the 
+  mailnews.reply_header_authorwrote preference. [Author] needs to be 
+  translated. -->
 <!ENTITY authorWroteOption.label              "[作者] 寫道:">
-<!ENTITY onDateWroteOption.label              "在 [日期]，[作者] 寫道:">
-<!ENTITY authorOnDateWroteOption.label        "[作者] 在 [日期] 寫道:">
+<!-- LOCALIZATION NOTE (onDateAuthorWroteOption.label): this is tied to the 
+  combination of the mailnews.reply_header_ondate(On [date]), 
+  mailnews.reply_header_separator (a comma in this case) and 
+  mailnews.reply_header_authorwrote([Author] wrote) preferences. [date] and 
+  [Author] need to be translated, and the correct  separator put in. -->
+<!ENTITY onDateAuthorWroteOption.label        "於 [日期]，[作者] 寫道:">
+<!-- LOCALIZATION NOTE (authorWroteOnDateOption.label): this is tied to the 
+  combination of the mailnews.reply_header_authorwrote([Author] wrote), 
+  mailnews.reply_header_separator (a comma in this case), and 
+  mailnews.reply_header_ondate preferences(On [date]). [Author] and [date] 
+  need to be translated, and the correct separator put in. -->
+<!ENTITY authorWroteOnDateOption.label        "[作者] 於 [日期] 寫道:">
