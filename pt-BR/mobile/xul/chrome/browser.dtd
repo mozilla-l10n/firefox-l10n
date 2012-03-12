@@ -1,4 +1,4 @@
-<!ENTITY urlbar.emptytext      "Forneça ou localize um endereço">
+<!ENTITY urlbar.emptytext      "Forneça uma pesquisa ou um endereço">
 
 <!ENTITY back.label            "Voltar">
 <!ENTITY forward.label         "Avançar">
@@ -100,7 +100,7 @@
 <!ENTITY contextCopyImageLocation.label       "Copiar endereço da imagem">
 <!ENTITY contextShareLink.label       "Compartilhar link">
 <!ENTITY contextShareImage.label      "Compartilhar imagem">
-<!ENTITY contextBookmarkLink.label    "Adicionar link aos favoritos">
+<!ENTITY contextBookmarkLink.label    "Favoritar link">
 <!ENTITY contextSaveVideo.label       "Salvar vídeo">
 <!ENTITY contextShareVideo.label      "Compartilhar vídeo">
 <!ENTITY contextPlayMedia.label       "Executar">

@@ -1,0 +1,8 @@
+<!ENTITY aboutAddons.title                      "Complementos">
+<!ENTITY aboutAddons.header2                    "Seus complementos">
+<!ENTITY aboutAddons.options                    "Opções">
+
+<!ENTITY addonAction.enable                     "Ativar">
+<!ENTITY addonAction.disable                    "Desativar">
+<!ENTITY addonAction.uninstall                  "Desinstalar">
+<!ENTITY addonAction.cancel                     "Cancelar">
