@@ -27,6 +27,8 @@
 
 <!ENTITY awesomebar_default_text "輸入要搜尋的資料或是網址">
 
+<!ENTITY remote_tabs "已同步的分頁">
+
 <!ENTITY bookmark "書籤">
 <!ENTITY bookmark_added "已加入書籤">
 <!ENTITY bookmark_removed "已移除書籤">
