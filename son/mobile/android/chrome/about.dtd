@@ -1,12 +1,12 @@
-<!ENTITY aboutPage.title                        "About &brandShortName;">
-<!ENTITY aboutPage.checkForUpdates.link         "Check for Updates »">
+<!ENTITY aboutPage.title                        "&brandShortName; ga">
+<!ENTITY aboutPage.checkForUpdates.link         "Taagandirey koroši »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Goo ma taagandirey guna...">
-<!ENTITY aboutPage.checkForUpdates.none         "No updates available">
-<!ENTITY aboutPage.checkForUpdates.found        "Update available">
-<!ENTITY aboutPage.faq.label                    "FAQ">
-<!ENTITY aboutPage.support.label                "Support">
+<!ENTITY aboutPage.checkForUpdates.none         "Taagandiri kul ši bara">
+<!ENTITY aboutPage.checkForUpdates.found        "Taagandiri ga bara">
+<!ENTITY aboutPage.faq.label                    "Hãayan nda zaabi">
+<!ENTITY aboutPage.support.label                "Faaba">
 <!ENTITY aboutPage.privacyPolicy.label          "Sutura laada">
-<!ENTITY aboutPage.rights.label                 "Know Your Rights">
-<!ENTITY aboutPage.relNotes.label               "Release Notes">
-<!ENTITY aboutPage.credits.label                "Garawey">
-<!ENTITY aboutPage.license.label                "Licensing Information">
+<!ENTITY aboutPage.rights.label                 "War alhakey bay">
+<!ENTITY aboutPage.relNotes.label               "Dumi hantumey">
+<!ENTITY aboutPage.credits.label                "Kanbuzaakey">
+<!ENTITY aboutPage.license.label                "Duɲeyan alhabar">

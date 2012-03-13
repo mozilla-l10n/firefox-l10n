@@ -4,52 +4,52 @@
 <!ENTITY syncBrand.shortName.label "Sync">
 <!-- Main titles. -->
 
-<!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
-<!ENTITY sync.title.connect.label 'Connect to &syncBrand.shortName.label;'>
-<!ENTITY sync.title.adddevice.label 'Add a &syncBrand.fullName.label; Account'>
+<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
+<!ENTITY sync.title.connect.label "&syncBrand.shortName.label; cee">
+<!ENTITY sync.title.adddevice.label "&syncBrand.fullName.label; kontu tonton">
 <!ENTITY sync.title.pair.label "Jinay foo margandi">
 <!-- J-PAKE Key Screen -->
 
-<!ENTITY sync.subtitle.connect.label 'To activate your new device, select “Set up &syncBrand.shortName.label;” on the device.'>
-<!ENTITY sync.subtitle.header.label 'Enter this code on your computer'>
-<!ENTITY sync.subtitle.connectlocation.label 'Select “&sync.title.pair.label;” in the &syncBrand.shortName.label; section of your desktop Firefox options.'>
-<!ENTITY sync.subtitle.pair.label 'To activate, select “Pair a device” on your other device.'>
-<!ENTITY sync.pin.default.label '...\n...\n...\n'>
-<!ENTITY sync.pin.oneline.label '...'>
+<!ENTITY sync.subtitle.connect.label 'Ka war jinay taagaa dirandi, "&syncBrand.shortName.label; kayandiyan” suuba jinaa ga.'>
+<!ENTITY sync.subtitle.header.label "Tammaasaa woo dam war ordinateroo ga">
+<!ENTITY sync.subtitle.connectlocation.label "“&sync.title.pair.label;” zaa war ordinateroo Firefox &syncBrand.shortName.label; suubarey dunboo ra.">
+<!ENTITY sync.subtitle.pair.label "Ka dirandi, wa “Jinay foo margandi” suuba war jinay faa ga.">
+<!ENTITY sync.pin.default.label "...\n...\n...\n">
+<!ENTITY sync.pin.oneline.label "...">
 <!ENTITY sync.link.show.label "Takaa cebe yane.">
-<!ENTITY sync.link.advancedsetup.label 'Advanced setup…'>
-<!ENTITY sync.link.nodevice.label 'I don\&apos;t have the device with me…'>
+<!ENTITY sync.link.advancedsetup.label "Kayandiyan koyjinante…">
+<!ENTITY sync.link.nodevice.label "Ay ši nda goyjinaa ay bande…">
 <!-- J-PAKE Waiting Screen -->
 
-<!ENTITY sync.jpake.subtitle.waiting.label 'Waiting for other device…'>
+<!ENTITY sync.jpake.subtitle.waiting.label "Goo ma jinay faa batu…">
 <!-- Account Login Screen -->
 
-<!ENTITY sync.subtitle.account.label 'Enter your &syncBrand.fullName.label; account information'>
-<!ENTITY sync.input.username.label 'Account Name'>
+<!ENTITY sync.subtitle.account.label "War &syncBrand.fullName.label; kontu alhabaroo dam">
+<!ENTITY sync.input.username.label "Kontu maa">
 <!ENTITY sync.input.password.label "Šennikufal">
-<!ENTITY sync.input.key.label 'Recovery Key'>
-<!ENTITY sync.checkbox.server.label 'Use custom server'>
-<!ENTITY sync.input.server.label 'Server URL'>
+<!ENTITY sync.input.key.label "Yeetiyan kufal">
+<!ENTITY sync.checkbox.server.label "Goy nda alaada feršikaw">
+<!ENTITY sync.input.server.label "Feršikaa URL aderesoo">
 <!-- Setup Fail -->
   
-<!ENTITY sync.title.fail.label 'Cannot Set Up &syncBrand.shortName.label;'>
-<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; could not connect to the server. Would you like to try again?'>
+<!ENTITY sync.title.fail.label "Ši hin ka &syncBrand.shortName.label; kayandi">
+<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; mana hin ka feršikaa cee. War boona a ma ceeci ka ciya koyne?">
 <!ENTITY sync.button.tryagain.label "Ceeci koyne">
-<!ENTITY sync.button.manual.label 'Manual Setup'>
-<!ENTITY sync.subtitle.nointernet.label 'No internet connection available.'>
+<!ENTITY sync.button.manual.label "Kanbe-kayandiyan">
+<!ENTITY sync.subtitle.nointernet.label "Interneti ciyari kul ši bara.">
 <!-- Setup Success -->
   
 <!ENTITY sync.title.success.label "Kayandiyan timme">
-<!ENTITY sync.subtitle.success.label 'Your data is now being downloaded in the background. You can go to Settings to manage your account.'>
+<!ENTITY sync.subtitle.success.label "War bayhayey goo ma zumandi bandafaaroo. War ga hin ka huru Kayandiyaney ra ka war kontoo juwal.">
 <!ENTITY sync.settings.label "Kayandiyaney">
-<!ENTITY sync.subtitle.manage.label 'Your &syncBrand.fullName.label; account is already set up. Go to Settings to manage your account.'>
+<!ENTITY sync.subtitle.manage.label "War &syncBrand.fullName.label; kontoo kayandi ka ben. Wa huru Kayandiyaney ra ka war kontoo juwal.">
 <!-- Pair Device -->
 
-<!ENTITY sync.pair.tryagain.label "Taare ceeci koyne.">
+<!ENTITY sync.pair.tryagain.label "Wa ceeci koyne taare.">
 <!-- Firefox SyncAdapter Settings Screen -->
 
 <!ENTITY sync.settings.options.label "Suubarey">
-<!ENTITY sync.summary.pair.label 'Link another device to your &syncBrand.shortName.label; account'>
+<!ENTITY sync.summary.pair.label "Jinay tana foo dobu war &syncBrand.shortName.label; kontoo ga">
 <!-- Common text -->
 
 <!ENTITY sync.button.cancel.label "Naŋ">
@@ -57,16 +57,16 @@
 <!ENTITY sync.button.ok.label "Ayyo">
 <!-- Account strings -->
   
-<!ENTITY sync.account.label.label '&syncBrand.fullName.label;'>
+<!ENTITY sync.account.label.label "&syncBrand.fullName.label;">
 <!-- Bookmark folder strings -->
   
-<!ENTITY bookmarks.folder.menu.label "Doo-šilbawey šilbayboŋ">
+<!ENTITY bookmarks.folder.menu.label "Doo-šilbawey šilbayboŋoo">
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "Kanjey">
 <!ENTITY bookmarks.folder.toolbar.label "Doo-šilbawey goyjinay žeeri">
 <!ENTITY bookmarks.folder.unfiled.label "Doo-šilbay kaŋyaŋ mana fayandi">
-<!ENTITY bookmarks.folder.desktop.label 'Desktop Bookmarks'>
+<!ENTITY bookmarks.folder.desktop.label "Ordinater doo-šilbawey">
 <!ENTITY bookmarks.folder.mobile.label "Doo-šilbay dirantey">
 <!-- Notification strings -->
 
-<!ENTITY sync.notification.oneaccount.label 'Only one &syncBrand.fullName.label; account is supported.'>
+<!ENTITY sync.notification.oneaccount.label "&syncBrand.fullName.label; kontu foo hinne ma kanbandi.">

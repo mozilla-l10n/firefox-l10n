@@ -41,10 +41,10 @@
 <!ENTITY aboutWarningTitle.label "Woo ga hin ka war gaarantoo mun!">
 <!ENTITY aboutWarningText.label "Jinehere hanseyaney wey barmayroo ka hin ka hasaraw dam war porogaramoo tabatiyanoo, saajaa wala goyyanoo ra. War ga hima koy jine hinne nda war g'alhakiika nda haya kaŋ war g'a tee.">
 <!ENTITY aboutWarningButton.label "Ay ga hawgay, ay g'allaahidu tee!">
-<!ENTITY aboutWarningCheckbox.label "Yaamaroo woo cebe yane koyne!">
+<!ENTITY aboutWarningCheckbox.label "Yaamaroo woo cebe yane hiino">
 
-<!ENTITY searchPrefs.label "Search:">
-<!ENTITY searchPrefs.accesskey "r">
+<!ENTITY searchPrefs.label "Ceeci:">
+<!ENTITY searchPrefs.accesskey "C">
 <!ENTITY focusSearch.key "r">
 <!-- Columns -->
 
@@ -77,5 +77,5 @@
 <!ENTITY string.accesskey "T">
 <!ENTITY integer.label "Hinna timmante">
 <!ENTITY integer.accesskey "H">
-<!ENTITY boolean.label "Cimi wala taari haya">
+<!ENTITY boolean.label "Cimi wala taari hãayan">
 <!ENTITY boolean.accesskey "C">

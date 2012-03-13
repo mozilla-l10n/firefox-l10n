@@ -27,7 +27,7 @@ ga hin ka &brandShortName; ka šintin ka naanay dogoo woo.
 ni gaaru ni ciyaroo waate. </b>">
 <!ENTITY certerror.expert.contentPara2 "War ma ši lanbari tonton nda manti 
 war ga bay kaŋ adalil hennoo goo no, kaŋ se dogoo woo ši nda taamanssa naanayante.">
-<!ENTITY certerror.addTemporaryException.label "Visit site">
-<!ENTITY certerror.addPermanentException.label "Add permanent exception">
+<!ENTITY certerror.addTemporaryException.label "Nungoo guna">
+<!ENTITY certerror.addPermanentException.label "Hasaraw duumante tonton">
 
 <!ENTITY certerror.technical.heading "Dabari šilbayhayey">

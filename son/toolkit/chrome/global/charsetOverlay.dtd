@@ -1,7 +1,7 @@
 <!-- extracted from charsetOverlay.xul -->
 <!ENTITY charsetMenu.label             "Harfu hawyan">
 <!ENTITY charsetMenu.accesskey         "H">
-<!ENTITY charsetMenuAutodet.label      "Boŋhonnayan">
+<!ENTITY charsetMenuAutodet.label      "Boŋhonnayyan">
 <!ENTITY charsetMenuAutodet.accesskey  "B">
 <!ENTITY charsetMenuMore.label         "Ašariya hantum tontoney">
 <!ENTITY charsetMenuMore.accesskey     "n">

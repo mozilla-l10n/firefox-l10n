@@ -20,7 +20,7 @@ ceeci ka fatta šenday ra. Nda war ga zaabiyaŋ ceeci war zaarikul hãayaney še
 <!ENTITY aboutSupport.appBasicsCrashIDs "Kaŋyan bayrandiyaney">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Lakkal goy-alkadar">
 
-<!ENTITY aboutSupport.showDir.label "Open Directory">
+<!ENTITY aboutSupport.showDir.label "Fooloɲaa feeri">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
@@ -28,9 +28,9 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.showMac.label "Cebe ceecikoy ra">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
-<!ENTITY aboutSupport.showWin.label "Show Folder">
+<!ENTITY aboutSupport.showWin.label "Foolaa cebe">
 
-<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Important Modified Preferences">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Ibaayi barmayante šifanteyaŋ">
 <!ENTITY aboutSupport.modifiedPrefsName "Maa">
 <!ENTITY aboutSupport.modifiedPrefsValue "Hinna">
 

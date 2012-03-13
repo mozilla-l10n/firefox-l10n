@@ -67,25 +67,25 @@
 <!ENTITY selectAllCmd.key             "A">
 <!ENTITY selectAllCmd.accesskey       "K">
 
-<!ENTITY findCmd.label                "Find…">
+<!ENTITY findCmd.label                "Ceeci…">
 <!ENTITY findCmd.key                  "F">
-<!ENTITY findCmd.accesskey            "F">
+<!ENTITY findCmd.accesskey            "C">
 
-<!ENTITY findAgainCmd.label           "Find Again…">
+<!ENTITY findAgainCmd.label           "Ceeci koyne...">
 <!-- LOCALIZATION NOTE (findAgainCmd.key): This key is used only on Macs.
   -  Windows and Linux builds use the F3 key which is not localizable on purpose.
   -->
 <!ENTITY findAgainCmd.key             "G">
-<!ENTITY findAgainCmd.accesskey       "g">
+<!ENTITY findAgainCmd.accesskey       "k">
 <!-- LOCALIZATION NOTE (findPreviousCmd.key): This key is used only on Macs.
   -  Windows and Linux builds use the Shift-F3 key which is not localizable on
   -  purpose.
   -->
 <!ENTITY findPreviousCmd.key          "G">
 
-<!ENTITY gotoLineCmd.label            "Jump to line…">
+<!ENTITY gotoLineCmd.label            "Sar žeero ga…">
 <!ENTITY gotoLineCmd.key              "J">
-<!ENTITY gotoLineCmd.accesskey        "J">
+<!ENTITY gotoLineCmd.accesskey        "S">
 
 <!ENTITY run.label                    "Dirandi">
 <!ENTITY run.accesskey                "r">
@@ -124,8 +124,8 @@
   -  to reset/clear the global object of the environment where the code executes.
   -->
 
-<!ENTITY resetContext2.label          "Reset Variables">
-<!ENTITY resetContext2.accesskey      "T">
+<!ENTITY resetContext2.label          "Barmayantey yeeti">
+<!ENTITY resetContext2.accesskey      "t">
 
 <!ENTITY executeMenu.label            "Goyandi">
 <!ENTITY executeMenu.accesskey        "o">

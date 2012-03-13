@@ -1,11 +1,11 @@
-<!ENTITY feedbackHeader2.label          "Feedback Tools">
+<!ENTITY feedbackHeader2.label          "Tuuruyan goyjinawey">
 
-<!ENTITY feedback.communicate.title     "Communicate to Us!">
-<!ENTITY feedback.feedback.title        "Give feedback">
-<!ENTITY feedback.feedback.good         "Good">
-<!ENTITY feedback.feedback.bad          "Bad">
+<!ENTITY feedback.communicate.title     "Wa hantum ir še!">
+<!ENTITY feedback.feedback.title        "War goy-banda laasaaboo sanba">
+<!ENTITY feedback.feedback.good         "Boori">
+<!ENTITY feedback.feedback.bad          "Laala">
 
-<!ENTITY feedback.tools.title           "Tools">
-<!ENTITY feedback.allowTelemetry.title  "Send performance data">
-<!ENTITY feedback.forceCompat.title     "Force add-ons compatibility">
-<!ENTITY feedback.errorConsole.title    "Enable the Error Console">
+<!ENTITY feedback.tools.title           "Goyjinawey">
+<!ENTITY feedback.allowTelemetry.title  "Teeyan bayhayey sanba">
+<!ENTITY feedback.forceCompat.title     "Tontoni cerekanbeyan gaabi">
+<!ENTITY feedback.errorConsole.title    "Diji-walha firkaa tunandi">

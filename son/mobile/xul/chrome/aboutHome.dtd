@@ -1,24 +1,24 @@
-<!ENTITY aboutHome.header                       "<span>&brandShortName; </span><span id='header-suffix'>Start</span>">
-<!ENTITY aboutHome.recentTabs                   "Your tabs from last time">
-<!ENTITY aboutHome.remoteTabs                   "Tabs from your other computers">
-<!ENTITY aboutHome.recommendedAddons2           "Add-ons for your &brandShortName;">
-<!ENTITY aboutHome.giveFeedback                 "Give Feedback">
-<!ENTITY aboutHome.getHelp                      "Get Help">
+<!ENTITY aboutHome.header                       "<span>&brandShortName; </span><span id='header-suffix'>šintin moo</span>">
+<!ENTITY aboutHome.recentTabs                   "War cee koraa nor lokey">
+<!ENTITY aboutHome.remoteTabs                   "War ordinater taney Firefox nor lokey">
+<!ENTITY aboutHome.recommendedAddons2           "Tontoney war brandShortName; še">
+<!ENTITY aboutHome.giveFeedback                 "War laasaaboo noo">
+<!ENTITY aboutHome.getHelp                      "Duu faaba">
 <!ENTITY aboutHome.footerWidth                  "10em">
-<!ENTITY aboutHome.openAllTabs                  "Open all in tabs">
-<!ENTITY aboutHome.noTabs                       "No tabs from last time">
-<!ENTITY aboutHome.noAddons                     "No recommended add-ons">
-<!ENTITY aboutHome.getLocale                    "Change Language">
-<!ENTITY aboutHome.getInBeforeBeta              "Get in before Beta.">
-<!ENTITY aboutHome.tryAurora                    "Try Firefox Aurora and help shape the future of Firefox.">
+<!ENTITY aboutHome.openAllTabs                  "Feeri nor lokey kul ra">
+<!ENTITY aboutHome.noTabs                       "Cee koraa nor loku kul šii">
+<!ENTITY aboutHome.noAddons                     "Tontoni yaamarante kulyaŋ šii">
+<!ENTITY aboutHome.getLocale                    "Šenni barmay">
+<!ENTITY aboutHome.getInBeforeBeta              "Duu wa beta da še jine.">
+<!ENTITY aboutHome.tryAurora                    "Firefox Aurora šii nda faaba ka hiino woo Firefox fasal.">
 <!-- LOCALIZATION NOTE:
      (aboutHome.downloadAurora): First line of a multi-line button. Treat as a title.
 -->
-<!ENTITY aboutHome.downloadAurora  "Download Aurora">
+<!ENTITY aboutHome.downloadAurora  "Aurora zumandi">
 <!-- LOCALIZATION NOTE:
      (aboutHome.forAndroid): Second line of a multi-line button. Treat as a subtitle.
 -->
-<!ENTITY aboutHome.forAndroid   "for Android">
+<!ENTITY aboutHome.forAndroid   "Android še">
 <!-- LOCALIZATION NOTE:
      (aboutHome.setupSync): This string should match the desktop
      equivalent, in particular concerning syncBrand.fullName.label.

@@ -8,11 +8,11 @@
 <!ENTITY safeb.palm.message.p2.linkText "taka kaŋ nda &brandShortName; ga war jejebu">
 <!ENTITY safeb.palm.message.p2.end "zanba furarey ga">
 
-<!ENTITY safeb.palm.accept.label "Get me out of here!">
+<!ENTITY safeb.palm.accept.label "Ay kaataray ne!">
 <!ENTITY safeb.palm.accept.statustext "Naaru ay sintin moɲoo doo">
 <!ENTITY safeb.palm.decline.label "Yaamaroo woo muray">
 <!ENTITY safeb.palm.decline.statustext "Yaamaroo daabu" >
-<!ENTITY safeb.palm.notforgery.label2 "This isn't a web forgery…">
+<!ENTITY safeb.palm.notforgery.label2 "Woo manti Interneti zanba doo…">
 <!ENTITY safeb.palm.reportPage.label "Macin se moɲoo woo gagayandi?">
 
 <!ENTITY safeb.blocked.malwarePage.title "Hawgay, darga moo!">
@@ -20,6 +20,6 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Interneti moɲoo woo <span id='malware_sitename'/> ga bayrandi ka tee darga moo nda a gagayndi war saajaw ibaayey bande.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p> darga moɲey ga wiri ka porogaramey sinji kaŋ ga sutura alhabar zay, i ga war ordinateroo ka boro waaney ordineratey tooɲe, wala ka war dabariɲaŋoo hasara.</p><p>Darga moɲey jerey ga tee hawandi ka goyjinay laalayaŋ žemna, amma iboobo ga hasaraw nda koyey mana bay wala i ma yadda.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title2 "Suspected Web Forgery!">
-<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Entering any personal information on this page may result in identity theft or other fraud.">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>">
+<!ENTITY safeb.blocked.phishingPage.title2 "Šikka ka tee Interneti zanba nungu!">
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "<p>Boro boŋ alhabar damyan moɲoo woo ga ga hin ka too boŋtammasa zayyan wala darga tana ma tee.</p>">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 '<p>Darga Interneti nungu dumey wey no ma tee zanba še, kaŋ še i ga nee "phishing" zanbarey, kaŋ ra zanba Interneto moo wala batagayaŋ ga hiile ka aššil naanayantey ženti.</p>'>

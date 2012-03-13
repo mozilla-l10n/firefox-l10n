@@ -1,21 +1,21 @@
 
-<!ENTITY  splash_firstrun "Setting up &brandShortName;\u2026">
+<!ENTITY  splash_firstrun "&brandShortName;\u2026 kayandiyan">
 
-<!ENTITY  no_space_to_start_error "There is not enough space available for &brandShortName; to start.">
-<!ENTITY  error_loading_file "An error occurred when trying to load files required to run &brandShortName;">
+<!ENTITY  no_space_to_start_error "Doo kayante ši bara kaŋ nda &brandShortName; ga hin ka tunandi.">
+<!ENTITY  error_loading_file "Firka bangay waati kaŋ a ceeci ka &brandShortName; tunandi tukey zumandi">
 
-<!ENTITY  crash_reporter_title "&brandShortName; Crash Reporter">
-<!ENTITY  crash_message "&brandShortName; has crashed. Your tabs should be listed on the &brandShortName; Start page when you restart.">
-<!ENTITY  crash_help_message "Please help us fix this problem!">
-<!ENTITY  crash_send_report_message "Send Mozilla a crash report">
-<!ENTITY  crash_include_url "Include page address">
+<!ENTITY  crash_reporter_title "&brandShortName; kaŋyan bayrandikaw">
+<!ENTITY  crash_message "&brandShortName; kaŋ. War nor lokey maaɲey ši hima ka hantumandi &brandShortName; šintin moɲoo ga nga war g'a tunandi hiino.">
+<!ENTITY  crash_help_message "Taare w'ir gaa ka šendaa woo kaa!">
+<!ENTITY  crash_send_report_message "Kaŋyan bayrandi sanba Mozilla do">
+<!ENTITY  crash_include_url "Moɲoo aderesoo dam">
 <!ENTITY  crash_close_label "Daabu">
 <!ENTITY  crash_restart_label "&brandShortName; tunandi taaga">
-<!ENTITY  sending_crash_report "Sending crash report\u2026">
+<!ENTITY  sending_crash_report "Kaŋyan bayrandi sanbari\u2026">
 <!ENTITY  exit_label "Fatta">
 <!ENTITY  continue_label "Koy jine">
 
-<!ENTITY  launcher_shortcuts_title "&brandShortName; Web Apps">
-<!ENTITY  launcher_shortcuts_empty "No web apps were found">
+<!ENTITY  launcher_shortcuts_title "Web porogaramey &brandShortName; še">
+<!ENTITY  launcher_shortcuts_empty "Web porogaram kul mana duwandi">
 
 <!ENTITY choose_file "Tuku suuba">

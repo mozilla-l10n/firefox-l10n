@@ -1,7 +1,7 @@
-<!ENTITY webapps.title.placeholder "Enter a title">
-<!ENTITY webapps.permissions "Allow access:">
-<!ENTITY webapps.perm.geolocation "Location-aware browsing">
-<!ENTITY webapps.perm.offline "Offline data storage">
-<!ENTITY webapps.perm.notifications "Desktop notifications">
-<!ENTITY webapps.perm.requestedHint "(requested)">
-<!ENTITY webapps.add-homescreen "Add to home screen">
+<!ENTITY webapps.title.placeholder "Maa foo dam">
+<!ENTITY webapps.permissions "Noo fondo:">
+<!ENTITY webapps.perm.geolocation "Gorodoo laasaabu naarumyan">
+<!ENTITY webapps.perm.offline "Bila nda ciyari bayhaya jišidoo">
+<!ENTITY webapps.perm.notifications "Goytaabal bangandiyaney">
+<!ENTITY webapps.perm.requestedHint "(huruyan ŋaaray)">
+<!ENTITY webapps.add-homescreen "Tonton šintin dijoo ga">

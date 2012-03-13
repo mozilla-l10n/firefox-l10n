@@ -1,12 +1,12 @@
 <!ENTITY empty.label            "Ceeci">
-<!ENTITY newpref.label          "Add a New Preference">
+<!ENTITY newpref.label          "Ibaayi taaga foo tonton">
 <!ENTITY addpref.name           "Maa">
 <!ENTITY addpref.value          "Hinna">
 
 <!ENTITY cancel.label           "Naŋ">
-<!ENTITY reset.label            "Reset">
-<!ENTITY done.label             "Done">
+<!ENTITY reset.label            "Yeeti">
+<!ENTITY done.label             "Timme">
 
-<!ENTITY integer.label          "Integer">
-<!ENTITY string.label           "String">
-<!ENTITY boolean.label          "Boolean">
+<!ENTITY integer.label          "Hinna timmante">
+<!ENTITY string.label           "Tenjiri">
+<!ENTITY boolean.label          "Cimi wala taari hãayan">

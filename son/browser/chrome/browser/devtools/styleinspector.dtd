@@ -16,17 +16,17 @@
   -  the highlighted element in the web page. This path is based on the document
   -  tree. -->
 
-<!ENTITY selectedElementLabel  "Selected element:">
+<!ENTITY selectedElementLabel  "Haya-ize suubante:">
 <!-- LOCALIZATION NOTE (noPropertiesFound): In the case where there are no CSS
   -  properties to display e.g. due to search criteria this message is
   -  displayed. -->
 
-<!ENTITY noPropertiesFound     "No CSS properties found.">
+<!ENTITY noPropertiesFound     "CSS mayray kul mana duwandi.">
 <!-- LOCALIZATION NOTE (unmatchedSelectors): For each style property
   -  the panel shows whether there are any selectors that do not match the
   -  currently selected element. -->
 
-<!ENTITY unmatchedSelectors    "Unmatched selectors">
+<!ENTITY unmatchedSelectors    "Suubakaw ši-tenjantey">
 <!-- LOCALIZATION NOTE (bestMatch, matched, parentMatch & unmatched): For each
   -  style property the panel shows the rules which hold that specific property.
   -  For every rule, the rule status is also displayed: a rule can be the best
