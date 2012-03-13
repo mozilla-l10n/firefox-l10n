@@ -9,12 +9,12 @@
 <!ENTITY importFromIE.accesskey         "M">
 <!ENTITY importFromNothing.label        "Ungamukeli noma yini">
 <!ENTITY importFromNothing.accesskey    "U">
-<!ENTITY importFromSeamonkey.label      "INetscape 6, 7 noma iMozilla 1.x">
-<!ENTITY importFromSeamonkey.accesskey  "N">
-<!ENTITY importFromOpera.label          "I-Opera">
-<!ENTITY importFromOpera.accesskey      "O">
 <!ENTITY importFromSafari.label         "I-Safari">
 <!ENTITY importFromSafari.accesskey     "S">
+<!ENTITY importFromChrome.label         "Chrome">
+<!ENTITY importFromChrome.accesskey     "C">
+<!ENTITY importFromFirefox.label        "Firefox">
+<!ENTITY importFromFirefox.accesskey    "X">
 <!ENTITY importFromHTMLFile.label       "Kusuka efayeleni le-HTML">
 <!ENTITY importFromHTMLFile.accesskey   "K">
 

@@ -1,12 +1,26 @@
 <!ENTITY aboutDialog.title          "Ngokuphathelene ne-&brandFullName;">
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+
+<!ENTITY warningDesc.version        "&brandShortName; ingukuhlola futhi ayimile ndawonye">
+<!-- LOCALIZATION NOTE (warningDesc.telemetry): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetry      "Ithumela ngokuzenzakalela imininingwane yokuhlolwa emuva ku-&vendorShortName; ekusizeni ukwenza i-&brandShortName; ibe ngcono">
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+
+<!ENTITY community.exp.start        "">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "I-&vendorShortName;">
+<!ENTITY community.exp.middle       " iyi ">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "umphakathi womhlaba">
+<!ENTITY community.exp.end          " ukusebenzisana ekugcineni iwebhu ivulekile, ingeyomphakathi futhi ifinyeleleka kubo bonke abantu.">
 
 <!ENTITY community.start2           "I-&brandShortName; yenzwe ngu- ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
-<!ENTITY community.mozillaLink      "&vendorShortName;">
+<!ENTITY community.mozillaLink      "I-&vendorShortName;">
 <!ENTITY community.middle2          ", a ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "umphakathi womhlaba">
-<!ENTITY community.end2             " osebenzisanayo ukwenza i-inthanethi ukuba ibe ngcono. Sikholelwa ukuba i-inthanethi kumele ivuleleke, ibe sesidlangalaleni, futhi ifinyeleleke kuwo wonke umuntu ngaphandle kwemikhawulo.">
+<!ENTITY community.end3             " ukusebenza ngokubambisana ukugcina iwebhu ivulekile, ingeyomphakathi futhi ifinyeleleka kuwonke wonke.">
 
 <!ENTITY contribute.start           "Kubonakala kuheha? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->

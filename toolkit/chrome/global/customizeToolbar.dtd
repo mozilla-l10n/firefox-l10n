@@ -1,5 +1,5 @@
 <!ENTITY dialog.title             "Yenza Ibha Yamathuluzi Yenze Izinto Ezivamile">
-<!ENTITY dialog.style             "width: 86ch; height: 36em;">
+<!ENTITY dialog.dimensions        "width: 92ch; height: 36em;">
 <!ENTITY instructions.description "Unganezela noma ususe okuthile ngokukudonsela kubha yamathuluzi noma ngokukudonsa ukususe kuyo.">
 <!ENTITY show.label               "Bonisa:">
 <!ENTITY iconsAndText.label       "Ama-Ayikhoni Nombhalo">
