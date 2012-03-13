@@ -12,7 +12,9 @@
 <!ENTITY deleteCmd.accesskey "E">
 
 <!ENTITY spellAddToDictionary.label "Añadir al diccionario">
-<!ENTITY spellAddToDictionary.accesskey "o">
+<!ENTITY spellAddToDictionary.accesskey "g">
+<!ENTITY spellUndoAddToDictionary.label "Deshacer agregar al diccionario">
+<!ENTITY spellUndoAddToDictionary.accesskey "n">
 <!ENTITY spellCheckEnable.label "Verificar ortografía">
 <!ENTITY spellCheckEnable.accesskey "V">
 <!ENTITY spellNoSuggestions.label "(No hay sugerencias de ortografía)">
