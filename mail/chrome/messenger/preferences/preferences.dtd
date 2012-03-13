@@ -8,6 +8,7 @@
 <!ENTITY paneGeneral.title        "Général">
 <!ENTITY paneDisplay.title        "Affichage">
 <!ENTITY paneComposition.title    "Rédaction">
+<!ENTITY paneChat.title           "Messagerie instantanée">
 <!ENTITY paneAttachments.title    "Pièces jointes">
 <!ENTITY paneSecurity.title       "Sécurité">
 <!ENTITY paneAdvanced.title       "Avancé">
