@@ -244,8 +244,6 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectButton.label           "Inspektera">
-<!ENTITY inspectButton.accesskey       "I">
 <!ENTITY inspectCloseButton.tooltiptext "Stäng inspektör">
 
 <!ENTITY inspectorHTMLCopyInner.label       "Kopiera Inner HTML">
