@@ -12,6 +12,10 @@
 
 <!ENTITY undoCmd.label             "Ongedaan maken">
 <!ENTITY undoCmd.accesskey         "O">
+<!ENTITY undoCmd.key               "Z">
+<!ENTITY undoCmd.label             "Ongedaan maken">
+<!ENTITY undoCmd.accesskey         "O">
+<!ENTITY undoCmd.key               "Z">
 <!ENTITY cutCmd.label              "Knippen">
 <!ENTITY cutCmd.accesskey          "n">
 <!ENTITY copyCmd.label             "Kopiëren">
