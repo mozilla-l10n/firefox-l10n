@@ -28,6 +28,7 @@
 <!ENTITY awesomebar_default_text "Introducir busca ou enderezo">
 
 <!ENTITY remote_tabs "Lapelas sincronizadas">
+<!ENTITY remote_tabs_show_all "Mostrar todas as lapelas">
 
 <!ENTITY bookmark "Marcador">
 <!ENTITY bookmark_added "Marcador engadido">
