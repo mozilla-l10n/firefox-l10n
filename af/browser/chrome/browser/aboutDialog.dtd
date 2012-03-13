@@ -73,4 +73,4 @@
      example: You are currently on the _Stable_ update channel. -->
 
 <!ENTITY channel.description.start  "U is tans op die ">
-<!ENTITY channel.description.end    " bywerkkanaal. ">
+<!ENTITY channel.description.end    "-bywerkkanaal. ">

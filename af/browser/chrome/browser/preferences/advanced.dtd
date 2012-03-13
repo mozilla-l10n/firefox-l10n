@@ -77,8 +77,8 @@
 <!ENTITY updateHistory.label             "Wys bywerkinggeskiedenis">
 <!ENTITY updateHistory.accesskey         "y">
 
-<!ENTITY useService.label                "Use a background service to install updates">
-<!ENTITY useService.accesskey            "b">
+<!ENTITY useService.label                "Gebruik 'n agtergronddiens om bywerkings te installeer">
+<!ENTITY useService.accesskey            "a">
 
 <!ENTITY updateOthers.label              "Werk outomaties by:">
 <!ENTITY enableSearchUpdate.label        "Soekenjins">
