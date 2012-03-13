@@ -1,1 +1,1 @@
-#define MOZ_LANG_TITLE Kiingereza (US)
+#define MOZ_LANG_TITLE Kiswahili
