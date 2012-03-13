@@ -31,8 +31,8 @@
 <!ENTITY remote_tabs_show_all "Mostrar todas as lapelas">
 
 <!ENTITY bookmark "Marcador">
-<!ENTITY bookmark_added "Marcador engadido">
-<!ENTITY bookmark_removed "Marcador eliminado">
+<!ENTITY bookmark_added "Engadiuse o marcador">
+<!ENTITY bookmark_removed "Eliminouse o marcador">
 <!ENTITY bookmark_updated "Actualizouse o marcador">
 
 <!ENTITY history_today_section "Hoxe">
