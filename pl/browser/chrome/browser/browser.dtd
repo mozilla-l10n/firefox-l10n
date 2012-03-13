@@ -225,6 +225,15 @@ can reach it easily. -->
 
 <!ENTITY inspectCloseButton.tooltiptext "Zamknij Inspektora">
 
+<!ENTITY inspectorHTMLCopyInner.label       "Kopiuj wewnętrzny HTML">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "w">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "Kopiuj zewnętrzny HTML">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "z">
+
+<!ENTITY inspectorHTMLDelete.label          "Usuń węzeł">
+<!ENTITY inspectorHTMLDelete.accesskey      "U">
+
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
   -  alternate view for the Inspector, creating a 3D visualization of the
   -  webpage. -->
