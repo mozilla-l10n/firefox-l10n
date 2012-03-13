@@ -41,9 +41,9 @@
 <!ENTITY connectionSettings.label        "Nhyehyɛe…">
 <!ENTITY connectionSettings.accesskey    "y">
 
-<!ENTITY httpCache.label                 "Cached Web Content">
+<!ENTITY httpCache.label                 "Wɛb Mu Nsɛm a Wɔde Esie">
 
-<!ENTITY offlineStorage2.label           "Offline Web Content and User Data">
+<!ENTITY offlineStorage2.label           "Wɛb Mu Nsɛm a ɛwɔ ɔflaen ne Adwumadini Deta">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -56,8 +56,8 @@
 <!ENTITY limitCacheSizeAfter.label       "MB kwan">
 <!ENTITY clearCacheNow.label             "Pepa seisei">
 <!ENTITY clearCacheNow.accesskey         "P">
-<!ENTITY clearOfflineAppCacheNow.label   "Clear Now">
-<!ENTITY clearOfflineAppCacheNow.accesskey "N">
+<!ENTITY clearOfflineAppCacheNow.label   "Pepa seisei">
+<!ENTITY clearOfflineAppCacheNow.accesskey "e">
 <!ENTITY overrideSmartCacheSize.label    "Ma otomatik asiei ade-nhwɛso no mfaso">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
@@ -89,7 +89,7 @@
 <!ENTITY offlineNotifyExceptions.label   "Nea ɛnnka ho…">
 <!ENTITY offlineNotifyExceptions.accesskey "o">
 
-<!ENTITY offlineAppsList2.label          "The following websites are allowed to store data for offline use:">
+<!ENTITY offlineAppsList2.label          "Wɛbsaet ndidiso yi wɔ deta a wɔde asie sɛ wɔnnyɛ wɔ ho edwuma ɔflaen:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Yi…">
 <!ENTITY offlineAppsListRemove.accesskey "i">

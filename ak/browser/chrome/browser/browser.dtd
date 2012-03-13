@@ -90,7 +90,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "S">
 <!ENTITY fullScreenExit.label "Pue Firi Skreen Tɛtrɛtɛɛ Mood Mu">
 <!ENTITY fullScreenExit.accesskey "F">
-<!ENTITY domFullScreenWarning.label "Press ESC to leave full-screen mode">
+<!ENTITY domFullScreenWarning.label "Mia ESC fa firi skreen tɛtrɛtɛɛ tebea mu">
 
 <!ENTITY closeWindow.label "To Tokuro Mu">
 <!ENTITY closeWindow.accesskey "k">
@@ -216,15 +216,20 @@ can reach it easily. -->
 <!ENTITY inspectPanelTitle.label        "HTML">
 <!ENTITY inspectButton.label            "Inspɛkt">
 <!ENTITY inspectButton.accesskey        "I">
-<!ENTITY inspectCloseButton.tooltiptext "Close Inspector">
-<!ENTITY inspect3DButton.label        "3D">
-<!ENTITY inspect3DButton.accesskey    "M">
+<!ENTITY inspectCloseButton.tooltiptext "To Inspɛkta mu">
+<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
+  -  alternate view for the Inspector, creating a 3D visualization of the
+  -  webpage. -->
+
+<!ENTITY inspect3DViewButton.label     "3d nhwɛ">
+<!ENTITY inspect3DViewButton.accesskey "h">
+
 <!ENTITY inspectStyleButton.label     "Stael">
 <!ENTITY inspectStyleButton.accesskey "S">
 <!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
   -  in the Tools menu. -->
 
-<!ENTITY styleeditor.label            "Style Editor">
+<!ENTITY styleeditor.label            "Stael sesafo">
 <!ENTITY styleeditor.accesskey        "y">
 <!ENTITY styleeditor.keycode          "VK_F7">
 <!ENTITY styleeditor.keytext          "F7">
@@ -454,14 +459,14 @@ items are mutually exclusive. -->
 <!ENTITY mediaHideControls.accesskey "k">
 <!ENTITY videoFullScreen.label       "Skreen Tɛtrɛtɛɛ">
 <!ENTITY videoFullScreen.accesskey   "t">
-<!ENTITY videoSaveImage.label        "Save Snapshot As…">
+<!ENTITY videoSaveImage.label        "Sie snaphyɔt sɛ…">
 <!ENTITY videoSaveImage.accesskey    "S">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY videoShowStats.label        "Show Statistics">
+<!ENTITY videoShowStats.label        "Kyerɛ statistiks">
 <!ENTITY videoShowStats.accesskey    "t">
-<!ENTITY videoHideStats.label        "Hide Statistics">
+<!ENTITY videoHideStats.label        "Suma statistiks">
 <!ENTITY videoHideStats.accesskey    "t">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and

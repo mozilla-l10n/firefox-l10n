@@ -44,8 +44,8 @@ sɛ &brandShortName; wɔ ho kwan sɛ ɔbɛkɔ Wɛb ne so.</li>
 <!ENTITY netInterrupt.title "Wotwaa kɔnɛkhyɛn ne so">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY notCached.title "Document Expired">
-<!ENTITY notCached.longDesc "<p>The requested document is not available in &brandShortName;'s cache.</p><ul><li>As a security precaution, &brandShortName; does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
+<!ENTITY notCached.title "Dɔkomɛnte no etwa mu">
+<!ENTITY notCached.longDesc "<p>Dɔkomɛnte a wo bisae no nni hɔ bio wɔ &brandShortName; asiei-bea mu.</p><ul><li>Ɛnam sikuriti nsɛm nti, &brandShortName; nnsan mmbisa adɔkomɛnte a wɔn ho hia paa wɔn ekyiri kwan bio.</li><li>Kleke San Sɔ Hwɛ fa san bisa dɔkomɛnte no firi wɛbsaet no so.</li></ul>">
 
 <!ENTITY netOffline.title "Ɔflaen tebea">
 <!ENTITY netOffline.longDesc2 "<ul> 

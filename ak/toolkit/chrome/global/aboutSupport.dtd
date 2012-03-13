@@ -21,14 +21,17 @@ a ɛfa &brandShortName; ho a, hwɛ yɛ mmoa seat yi <a id='supportLink'> </a>.">
 <!ENTITY aboutSupport.appBasicsCrashIDs "Egyae-yɛ amaneɛbɔ">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Mɛmri Adwumadi">
 
-<!ENTITY aboutSupport.show.label "Bue folda a ɛwɔ mu">
+<!ENTITY aboutSupport.showDir.label "Daerɛktri a Ebue">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
-variant of aboutSupport.show.label.  This allows us to use the preferred
+variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
 
 <!ENTITY aboutSupport.showMac.label "Kyerɛ wɔ Finder mu">
+<!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
+variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin.label "Kyerɛ Folda">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "Nhyehyɛe Nsesae">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Apɛdeɛ Titiriw a Wɔasesa">
 <!ENTITY aboutSupport.modifiedPrefsName "Din">
 <!ENTITY aboutSupport.modifiedPrefsValue "aba">
 

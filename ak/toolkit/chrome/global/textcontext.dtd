@@ -13,6 +13,8 @@
 
 <!ENTITY spellAddToDictionary.label "Fa ka Nsɛmfuasekyerɛ Ho">
 <!ENTITY spellAddToDictionary.accesskey "a">
+<!ENTITY spellUndoAddToDictionary.label "Twe fa-ka-nsɛmfuasekyerɛ-ho san">
+<!ENTITY spellUndoAddToDictionary.accesskey "w">
 <!ENTITY spellCheckEnable.label "Hwɛ Akyerɛw No Mu">
 <!ENTITY spellCheckEnable.accesskey "A">
 <!ENTITY spellNoSuggestions.label "(Akyerɛw Nsusui Biara Nni Hɔ)">

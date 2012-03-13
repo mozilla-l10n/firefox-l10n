@@ -1,26 +1,26 @@
 <!ENTITY aboutDialog.title          "&brandFullName; Ho Nsɛm">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
-<!ENTITY warningDesc.version        "&brandShortName; is experimental and may be unstable.">
+<!ENTITY warningDesc.version        "Yɛ resɔ &brandShortName; ahwɛ nti ɛbɛtumi aba no sɛ ɔnngyina pintinn.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetry): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetry      "It automatically sends test information back to &vendorShortName; to help make &brandShortName; better.">
+<!ENTITY warningDesc.telemetry      "Ɔsoma tɛst infɔmehyɛn ma &vendorShortName; ama wɔaboa etu &brandShortName; mpon.">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
 <!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
-<!ENTITY community.exp.middle       " is a ">
+<!ENTITY community.exp.middle       "yɛ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
-<!ENTITY community.exp.creditsLink  "global community">
-<!ENTITY community.exp.end          " working together to keep the Web open, public and accessible to all.">
+<!ENTITY community.exp.creditsLink  "wiase fɛkuw">
+<!ENTITY community.exp.end          "a wɔdi dwuma bɔ mu ma Wɛb no mu da hɔ ma obiara.">
 
 <!ENTITY community.start2           "&brandShortName; Eyi na osiesie no">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", a ɛyɛ ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "global community">
-<!ENTITY community.end3             " working together to keep the Web open, public and accessible to all.">
+<!ENTITY community.creditsLink      "wiase fɛkuw">
+<!ENTITY community.end3             "a wɔdi dwuma bɔ mu ma Wɛb no mu da hɔ ma obiara.">
 
 <!ENTITY contribute.start           "Ɛyɛ wo anigye anaa?">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
@@ -31,7 +31,7 @@
 <!ENTITY bottomLinks.license        "Laesens ho infɔmehyɛn">
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
 
-<!ENTITY bottomLinks.rights         "Twa ɔdedifo mbra akwanya so">
+<!ENTITY bottomLinks.rights         "Dehye ne mbra-akwanya">
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
 
 <!ENTITY bottomLinks.privacy        "Siesɛm mbra">

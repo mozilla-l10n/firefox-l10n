@@ -4,7 +4,6 @@
 <!ENTITY     props.path.label               "Kwan:">
 <!ENTITY     props.secure.label             "Mane bra:">
 <!ENTITY     props.expires.label            "Twa mu:">
-<!ENTITY     props.policy.label             "Mbra:"> 
 
 <!ENTITY     button.allow.label             "Ma kwan">
 <!ENTITY     button.allow.accesskey         "a">

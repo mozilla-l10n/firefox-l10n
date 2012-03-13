@@ -21,7 +21,7 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; hia sɛ ɔbɛsan ahyɛ ase ansaana (m)plagin no ayɛ edwuma.">
 
 <!ENTITY missingPlugin                                       "Wo hia plagin bi a wo de bɛhwɛ kɔntɛnt yi.">
-<!ENTITY clickToPlayPlugin                                   "Tap here to activate plugin.">
+<!ENTITY clickToPlayPlugin                                   "Tim ha sɛnea wobɛkenyan plagin no. ">
 <!ENTITY disabledPlugin                                      "Wɔedum plagin yi.">
 <!ENTITY blockedPlugin.label                                 "Wɔesi plagin yi ano kwan de abɔ wo ho ban.">
 
@@ -34,8 +34,8 @@
 <!ENTITY reloadPlugin.pre                                    "te sɛ ma ne hia no ma ekyiri hɔ nda hɔ">
 <!ENTITY reloadPlugin.middle                                 "Bue krataafa no bio">
 <!ENTITY reloadPlugin.post                                   "fa san sɔ hwɛ">
-<!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.checkbox                                     "…and send crash report">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "Bɔ yɛn amande fa krahye ne ho">
 <!ENTITY report.submitting                                   "Repɔɔt no rekɔ…">
 <!ENTITY report.submitted                                    "Krahye repɔɔt no kɔ.">
 <!ENTITY report.disabled                                     "Edum krahye amandebɔ.">

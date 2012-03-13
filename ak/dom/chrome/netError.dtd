@@ -24,8 +24,8 @@
 <!ENTITY netInterrupt.title "Etwa Data Soma So">
 <!ENTITY netInterrupt.longDesc "<p>Brawsa no akɔnɛkt konimdimu, naaso twaa kɔnɛkhyɛn no twae wɔ bere a wɔresoma infɔmehyɛn kɔ. Yɛsrɛ wo sɛ san sɔ hwɛ.</p><ul><li>Wo nntumi kɔ wɛbsaet afoforo? Hwɛ wo kɔmputa nɛtwɛk kɔnɛkhyɛn no mu.</li><li>Wo da so rebrɛ anaa? Bisa wo nɛtwɛk admin anaaso wɔn a wɔma wo Intanɛt ma wɔmboa wo.</li></ul>">
 
-<!ENTITY notCached.title "Document Expired">
-<!ENTITY notCached.longDesc "<p>The requested document is not available in the browser's cache.</p><ul><li>As a security precaution, the browser does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
+<!ENTITY notCached.title "Dɔkumɛnt no etwa mu">
+<!ENTITY notCached.longDesc "<p>Dɔkomɛnte a worehwehwɛ no nni wo brawsa asiei hɔ.</p><ul><li>Banbɔ kwan so no, brawsa no nsan mbisa dɔkomɛnte a wohia paa otomatikmu.</li><li>Klike San sɔ hwɛ sɛnea wonɛsan ebisa dɔkomɛnte no efi wɛbsaet no so.</li></ul>">
 
 <!ENTITY netOffline.title "Ɔflaen Tebea">
 <!ENTITY netOffline.longDesc2 "<p>Brawsa no reyɛ edwuma wɔ offlaen tebea mu nti ɔrenntumi mmfa wo ebisade no mma wo.</p><ul><li>Wo kɔmputa no ka nɛtwɛk a esi so anaa?</li><li>Mia &quot;San -sɔ-hwɛ&quot; fa wo brawsa no kɔ ɔnlaen tebea mu na san bue krataafa no.</li></ul>">
