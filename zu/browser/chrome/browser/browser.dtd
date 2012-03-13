@@ -217,8 +217,22 @@ can reach it easily. -->
 <!ENTITY inspectButton.label            "Hlola">
 <!ENTITY inspectButton.accesskey        "H">
 <!ENTITY inspectCloseButton.tooltiptext "Vala isihloli">
+<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
+  -  alternate view for the Inspector, creating a 3D visualization of the
+  -  webpage. -->
+
+<!ENTITY inspect3DViewButton.label     "Ukubukwa kwe-3D">
+<!ENTITY inspect3DViewButton.accesskey "w">
+
 <!ENTITY inspectStyleButton.label     "Isitayela">
 <!ENTITY inspectStyleButton.accesskey "I">
+<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
+  -  in the Tools menu. -->
+
+<!ENTITY styleeditor.label            "Ukuhlelwa kwesitayela">
+<!ENTITY styleeditor.accesskey        "y">
+<!ENTITY styleeditor.keycode          "VK_F7">
+<!ENTITY styleeditor.keytext          "F7">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Thola amathuluzi amaningi">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "m">
@@ -421,15 +435,24 @@ can reach it easily. -->
 <!ENTITY thisFrameMenu.label              "Lolu hlaka">
 <!ENTITY thisFrameMenu.accesskey          "o">
 <!-- Media (video/audio) controls -->
+<!-- LOCALIZATION NOTE: The access keys for "Play" and
+"Pause" are the same because the two context-menu
+items are mutually exclusive. -->
 
 <!ENTITY mediaPlay.label             "Dlala">
 <!ENTITY mediaPlay.accesskey         "D">
 <!ENTITY mediaPause.label            "Yima kancane">
 <!ENTITY mediaPause.accesskey        "Y">
+<!-- LOCALIZATION NOTE: The access keys for "Mute" and
+"Unmute" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Thulisa">
 <!ENTITY mediaMute.accesskey         "T">
 <!ENTITY mediaUnmute.label           "Khulumisa">
 <!ENTITY mediaUnmute.accesskey       "K">
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "Bonisa ukuphathwa">
 <!ENTITY mediaShowControls.accesskey "u">
 <!ENTITY mediaHideControls.label     "Fihla ukuphathwa">
@@ -438,6 +461,9 @@ can reach it easily. -->
 <!ENTITY videoFullScreen.accesskey   "I">
 <!ENTITY videoSaveImage.label        "Gcina isithombe njenge...">
 <!ENTITY videoSaveImage.accesskey    "G">
+<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
+"Hide Statistics" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY videoShowStats.label        "Bonisa izibalo">
 <!ENTITY videoShowStats.accesskey    "b">
 <!ENTITY videoHideStats.label        "Fihla izibalo">

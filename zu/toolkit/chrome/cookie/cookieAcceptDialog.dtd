@@ -4,7 +4,6 @@
 <!ENTITY     props.path.label               "Umzila:">
 <!ENTITY     props.secure.label             "Thumelela U-:">
 <!ENTITY     props.expires.label            "Iphelelwa isikhathi:">
-<!ENTITY     props.policy.label             "Inqubo:"> 
 
 <!ENTITY     button.allow.label             "Vumela">
 <!ENTITY     button.allow.accesskey         "V">

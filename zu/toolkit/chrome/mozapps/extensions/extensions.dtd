@@ -1,5 +1,10 @@
 <!ENTITY addons.windowTitle                   "Umphathi wokungezwayo">
+
 <!ENTITY search.placeholder                   "Sesha konke okungezwayo">
+<!-- LOCALIZATION NOTE (search.commandKey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
+
 <!ENTITY loading.label                        "Iyalayisha…">
 <!ENTITY listEmpty.installed.label            "Awunakho okungezwayo kwalolu hlobo okakiwe">
 <!ENTITY listEmpty.availableUpdates.label     "Akukho ukuvuselela okutholakele">

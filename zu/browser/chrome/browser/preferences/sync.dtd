@@ -30,6 +30,8 @@
 <!ENTITY engine.passwords.accesskey "A">
 <!ENTITY engine.prefs.label         "Okuthandwayo">
 <!ENTITY engine.prefs.accesskey     "t">
+<!ENTITY engine.addons.label        "Nokungezwayo">
+<!ENTITY engine.addons.accesskey    "N">
 <!-- Device Settings -->
 
 <!ENTITY syncComputerName.label       "Igama lekhompyutha:">
