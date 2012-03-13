@@ -33,6 +33,7 @@
 <!ENTITY bookmark "Bokmärke">
 <!ENTITY bookmark_added "Bokmärkt">
 <!ENTITY bookmark_removed "Borttaget bokmärke">
+<!ENTITY bookmark_updated "Uppdaterat bokmärke">
 
 <!ENTITY history_today_section "Idag">
 <!ENTITY history_yesterday_section "Igår">
@@ -89,6 +90,12 @@
 <!ENTITY contextmenu_remove_bookmark "Ta bort">
 <!ENTITY contextmenu_add_to_launcher "Lägg till på startsidan">
 <!ENTITY contextmenu_share "Dela">
+<!ENTITY contextmenu_edit_bookmark "Redigera">
+
+<!ENTITY bookmark_edit_title "Redigera bokmärke">
+<!ENTITY bookmark_edit_name "Namn">
+<!ENTITY bookmark_edit_location "Adress">
+<!ENTITY bookmark_edit_keyword "Nyckelord">
 
 <!ENTITY site_settings_title        "Rensa platsinställningar">
 <!ENTITY site_settings_cancel       "Avbryt">
