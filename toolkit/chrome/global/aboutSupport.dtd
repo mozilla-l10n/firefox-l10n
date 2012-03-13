@@ -21,14 +21,17 @@ probleem probeer oplos. Indien u soek vir antwoorde op algemene vrae oor
 <!ENTITY aboutSupport.appBasicsCrashIDs "Omvalverslae">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Geheuegebruik">
 
-<!ENTITY aboutSupport.show.label "Open houervouer">
+<!ENTITY aboutSupport.showDir.label "Open Directory">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
-variant of aboutSupport.show.label.  This allows us to use the preferred
+variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
 
 <!ENTITY aboutSupport.showMac.label "Wys in Finder">
+<!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
+variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin.label "Vertoon vouer">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "Gewysigde voorkeure">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Important Modified Preferences">
 <!ENTITY aboutSupport.modifiedPrefsName "Naam">
 <!ENTITY aboutSupport.modifiedPrefsValue "Waarde">
 
