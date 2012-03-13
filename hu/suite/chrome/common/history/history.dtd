@@ -4,16 +4,16 @@
 <!ENTITY menuBar.tooltip "Menüsor">
 <!ENTITY searchBar.tooltip "Kereső">
 
-<!ENTITY search.placeholder "Search History">
+<!ENTITY search.placeholder "Keresési előzmények">
 <!ENTITY search.key "K">
 <!ENTITY view.label "Megjelenítés">
 
 <!ENTITY view.columns.label "Oszlopok megjelenítése">
 <!ENTITY view.columns.accesskey "O">
-<!ENTITY view.sortBy.label "Sort by">
-<!ENTITY view.sortBy.accesskey "S">
-<!ENTITY view.groupBy.label "Group by">
-<!ENTITY view.groupBy.accesskey "G">
+<!ENTITY view.sortBy.label "Rendezés">
+<!ENTITY view.sortBy.accesskey "R">
+<!ENTITY view.groupBy.label "Csoportosítás">
+<!ENTITY view.groupBy.accesskey "C">
 
 <!ENTITY view.unsorted.label "Rendezetlen">
 <!ENTITY view.unsorted.accesskey "e">
@@ -22,14 +22,14 @@
 <!ENTITY view.sortDescending.label "Csökkenő sorrendben">
 <!ENTITY view.sortDescending.accesskey "C">
 
-<!ENTITY view.groupNone.label "None">
+<!ENTITY view.groupNone.label "Nincs">
 <!ENTITY view.groupNone.accesskey "N">
-<!ENTITY view.groupDay.label "Day">
+<!ENTITY view.groupDay.label "Dátum">
 <!ENTITY view.groupDay.accesskey "D">
-<!ENTITY view.groupSite.label "Website">
+<!ENTITY view.groupSite.label "Webhely">
 <!ENTITY view.groupSite.accesskey "W">
-<!ENTITY view.groupDayAndSite.label "Day and Website">
-<!ENTITY view.groupDayAndSite.accesskey "a">
+<!ENTITY view.groupDayAndSite.label "Dátum és webhely">
+<!ENTITY view.groupDayAndSite.accesskey "t">
 
 <!ENTITY cmd.open.label "Megnyitás">
 <!ENTITY cmd.open.accesskey "M">
