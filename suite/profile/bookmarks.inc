@@ -3,12 +3,12 @@
 # LOCALIZATION NOTE: The 'en-US' strings in some URLs will be replaced with
 # your locale code, and link to your translated pages as soon as they're live.
 
-#define bookmarks_title Bookmarks
-#define bookmarks_heading Bookmarks
+#define bookmarks_title Закладки
+#define bookmarks_heading Закладки
 
-#define personal_toolbarfolder Personal Toolbar Folder
+#define personal_toolbarfolder Тека панелі закладок
 
-#define seamonkey_and_mozilla SeaMonkey and Mozilla
+#define seamonkey_and_mozilla SeaMonkey та Mozilla
 
 # LOCALIZATION NOTE (seamonkey):
 # link title for http://www.seamonkey-project.org/ (in the personal toolbar)
@@ -16,7 +16,7 @@
 
 # LOCALIZATION NOTE (seamonkey_long):
 # link title for http://www.seamonkey-project.org/ (in normal bookmarks)
-#define seamonkey_long The SeaMonkey Project
+#define seamonkey_long Проект SeaMonkey
 
 # LOCALIZATION NOTE (mozilla_org):
 # link title for http://www.mozilla.org/ (in the personal toolbar)
@@ -24,33 +24,33 @@
 
 # LOCALIZATION NOTE (mozilla_org_long):
 # link title for http://www.mozilla.org/ (in normal bookmarks)
-#define mozilla_org_long The Mozilla Organization
+#define mozilla_org_long Організація Mozilla
 
 # LOCALIZATION NOTE (mozilla_projects):
 # link title for http://www.mozilla.org/projects/
-#define mozilla_projects Mozilla Projects
+#define mozilla_projects Проекти Mozilla
 
 # LOCALIZATION NOTE (mozilla_about):
 # link title for http://www.mozilla.org/about/
-#define mozilla_about About Mozilla
+#define mozilla_about Про Mozilla
 
-#define extend_seamonkey Extending SeaMonkey
+#define extend_seamonkey Розширення SeaMonkey
 
 # LOCALIZATION NOTE (seamonkey_addons):
 # link title for https://addons.mozilla.org/en-US/seamonkey/
-#define seamonkey_addons SeaMonkey Add-ons
+#define seamonkey_addons Додатки SeaMonkey
 
 # LOCALIZATION NOTE (seamonkey_themes):
 # link title for https://addons.mozilla.org/en-US/seamonkey/themes
-#define seamonkey_themes SeaMonkey Themes
+#define seamonkey_themes Теми SeaMonkey
 
 # LOCALIZATION NOTE (seamonkey_dictionaries):
 # link title for https://addons.mozilla.org/en-US/seamonkey/dictionaries
-#define seamonkey_dictionaries Spell Checking Dictionaries
+#define seamonkey_dictionaries Словники правопису
 
 # LOCALIZATION NOTE (seamonkey_plugins):
 # link title for https://addons.mozilla.org/en-US/seamonkey/plugins
-#define seamonkey_plugins Plugins for SeaMonkey
+#define seamonkey_plugins Плагіни SeaMonkey
 
 # LOCALIZATION NOTE (mozdev):
 # link title for http://www.mozdev.org/
@@ -58,13 +58,13 @@
 
 # LOCALIZATION NOTE (mozdev_seamonkey):
 # link title for http://www.mozdev.org/projects/applications/SeaMonkey.html
-#define mozdev_seamonkey SeaMonkey Extensions from mozdev.org
+#define mozdev_seamonkey Розширення SeaMonkey з mozdev.org
 
-#define community_support Community &amp; Support
+#define community_support Спільнота та підтримка
 
 # LOCALIZATION NOTE (seamonkey_community):
 # link title for http://www.seamonkey-project.org/community
-#define seamonkey_community SeaMonkey Community
+#define seamonkey_community Спільнота SeaMonkey
 
 # LOCALIZATION NOTE (mozillazine):
 # link title for http://www.mozillazine.org/
@@ -72,16 +72,16 @@
 
 # LOCALIZATION NOTE (seamonkey_support):
 # link title for the mozillaZine SeaMonkey Support forum
-#define seamonkey_support SeaMonkey Support Forum (mozillaZine)
+#define seamonkey_support Форум підтримки SeaMonkey (mozillaZine)
 
 # LOCALIZATION NOTE (seamonkey_l10n):
 # insert full bookmark line for localized SeaMonkey page (personal toolbar)
 # e.g. #define seamonkey_l10n <DT><A HREF="http://www.seamonkey.tlh/">SeaMonkey tlhIngan</a>
-#define seamonkey_l10n  
+#define seamonkey_l10n <DT><A HREF="http://seamonkey.org.ua/">Українська SeaMonkey</a>
 
 # LOCALIZATION NOTE (seamonkey_l10n_long):
 # insert full bookmark line for localized SeaMonkey page (normal bookmark)
 # e.g. #define seamonkey_l10n_long <DT><A HREF="http://www.seamonkey.tld/">tlhIngan Hol SeaMonkey</a>
-#define seamonkey_l10n_long  
+#define seamonkey_l10n_long <DT><A HREF="http://seamonkey.org.ua/">Українська SeaMonkey</a>
 
 #unfilter emptyLines
