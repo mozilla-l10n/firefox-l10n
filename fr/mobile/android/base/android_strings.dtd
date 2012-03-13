@@ -31,6 +31,7 @@
 <!ENTITY bookmark "Marquer cette page">
 <!ENTITY bookmark_added "Marque-page ajouté">
 <!ENTITY bookmark_removed "Marque-page supprimé">
+<!ENTITY bookmark_updated "Marque-page mis à jour">
 
 <!ENTITY history_today_section "Aujourd\u0027hui">
 <!ENTITY history_yesterday_section "Hier">
@@ -87,6 +88,12 @@
 <!ENTITY contextmenu_remove_bookmark "Supprimer">
 <!ENTITY contextmenu_add_to_launcher "Ajouter à l\u0027écran d\u0027accueil">
 <!ENTITY contextmenu_share "Partager">
+<!ENTITY contextmenu_edit_bookmark "Modifier">
+
+<!ENTITY bookmark_edit_title "Modifier le marque-page">
+<!ENTITY bookmark_edit_name "Nom">
+<!ENTITY bookmark_edit_location "Emplacement">
+<!ENTITY bookmark_edit_keyword "Mot-clé">
 
 <!ENTITY site_settings_title        "Effacer paramètres de site">
 <!ENTITY site_settings_cancel       "Annuler">
