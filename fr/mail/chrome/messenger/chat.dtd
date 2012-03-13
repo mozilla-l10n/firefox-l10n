@@ -1,0 +1,51 @@
+<!ENTITY onlineContactsHeader.label "Contacts en ligne">
+<!ENTITY offlineContactsHeader.label "Contacts déconnectés">
+<!ENTITY conversationsHeader.label "Conversations">
+<!ENTITY searchResultConversation.label "Résultats de recherche">
+<!ENTITY chat.noConv.title "Les conversations seront affcihées ici.">
+<!ENTITY chat.noConv.description "Utiliser la liste de contacts dans le panneau de gauche pour débuter une conversation.">
+<!ENTITY chat.noPreviousConv.description "&brandShortName; n'a pas de conversations stockées pour ce contact.">
+<!ENTITY chat.noAccount.title "Vous n'avez pas encore défini de compte de messagerie instantanée.">
+<!ENTITY chat.noAccount.description "Laisser &brandShortName; vous guider dans le processus de création de compte.">
+<!ENTITY chat.accountWizard.button "Démarrer">
+<!ENTITY chat.noConnectedAccount.title "Vos comptes de messagerie instantanée ne sont pas connectés.">
+<!ENTITY chat.noConnectedAccount.description "Vous pouvez lancer les connexions à partir du dialogue « État des connexions » :">
+<!ENTITY chat.showAccountManager.button "Afficher les états de connexion">
+
+<!ENTITY chat.participants "Participants :">
+<!ENTITY chat.previousConversations "Conversations précédentes :">
+<!ENTITY chat.ongoingConversation "Conversation en cours">
+
+<!ENTITY openConversationCmd.label "Démarrer une conversation">
+<!ENTITY openConversationCmd.accesskey "c">
+<!ENTITY closeConversationCmd.label "Fermer la conversation">
+<!ENTITY closeConversationCmd.accesskey "C">
+<!ENTITY aliasCmd.label "Renommer">
+<!ENTITY aliasCmd.accesskey "R">
+<!ENTITY deleteCmd.label "Supprimer le contact">
+<!ENTITY deleteCmd.accesskey "S">
+
+<!ENTITY openConversationButton.tooltip "Démarrer une conversation">
+<!ENTITY closeConversationButton.tooltip "Fermer une conversation">
+
+<!ENTITY addBuddyButton.label "Ajouter le contact">
+<!ENTITY joinChatButton.label "Rejoindre la messagerie instantanée">
+<!ENTITY chatAccountsButton.label "Afficher les comptes">
+
+<!-- LOCALIZATION NOTE (searchAllChatMessages.label.base):
+     This is the base of the empty text for the chat search box.  We replace
+     #1 with the contents of the appropriate search.keyLabel.* value for the
+     platform (defined in messenger/messenger.dtd).
+     The goal is to convey to the user that typing in the box will allow them
+     to search for conversations and that there is a hotkey they can press
+     to get to the box faster.  If the global indexer is disabled, the search
+     box will be collapsed and the user will never see this message.
+     -->
+<!ENTITY searchAllChatMessages.label.base "Rechercher dans les conversations… #1">
+
+<!ENTITY status.available "Disponible">
+<!ENTITY status.unavailable "Occupé">
+<!ENTITY status.offline "Déconnecté">
+
+<!ENTITY openLinkCmd.label "Ouvrir le lien…">
+<!ENTITY openLinkCmd.accesskey "O">
