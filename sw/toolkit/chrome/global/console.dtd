@@ -37,9 +37,9 @@
 
 <!ENTITY errorConsole.title "Kiweko cha Kosa">
 
-<!ENTITY errFile.label   "Source File:">
-<!ENTITY errLine.label   "Line:">
-<!ENTITY errColumn.label "Column:">
+<!ENTITY errFile.label   "Faili ya Chanzo:">
+<!ENTITY errLine.label   "Mstari:">
+<!ENTITY errColumn.label "Nguzo:">
 
 <!ENTITY all.label          "Zote">
 <!ENTITY all.accesskey      "Z">
@@ -51,18 +51,18 @@
 <!ENTITY messages.accesskey "U">
 <!ENTITY clear.label        "Ondoa">
 <!ENTITY clear.accesskey    "O">
-<!ENTITY codeEval.label     "Code:">
-<!ENTITY codeEval.accesskey "o">
-<!ENTITY evaluate.label     "Evaluate">
-<!ENTITY evaluate.accesskey "v">
+<!ENTITY codeEval.label     "Msimbo:">
+<!ENTITY codeEval.accesskey "s">
+<!ENTITY evaluate.label     "Kagua">
+<!ENTITY evaluate.accesskey "a">
 
 <!ENTITY copyCmd.label       "Nakili">  
 <!ENTITY copyCmd.accesskey   "N"> 
 <!ENTITY copyCmd.commandkey  "C"> 
-<!ENTITY sortFirst.label     "First > Last Sort Order">
-<!ENTITY sortFirst.accesskey "f">
-<!ENTITY sortLast.label      "Last > First Sort Order">
-<!ENTITY sortLast.accesskey  "l">
+<!ENTITY sortFirst.label     "Kwanza > Agizo la Mwisho la Kupanga">
+<!ENTITY sortFirst.accesskey "K">
+<!ENTITY sortLast.label      "Mwisho > Agizo la Kwanza la Kupanga">
+<!ENTITY sortLast.accesskey  "M">
 <!ENTITY closeCmd.commandkey "w">  
-<!ENTITY focus1.commandkey   "l">  
+<!ENTITY focus1.commandkey   "i">  
 <!ENTITY focus2.commandkey   "d">  

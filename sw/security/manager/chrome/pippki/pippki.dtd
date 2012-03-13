@@ -41,7 +41,7 @@
 <!ENTITY setPassword.oldPassword.label "Current password:">
 <!ENTITY setPassword.newPassword.label "New password:">
 <!ENTITY setPassword.reenterPassword.label "New password (again):">
-<!ENTITY setPassword.meter.label "Password quality meter">
+<!ENTITY setPassword.meter.label "Mita ya ubora wa nenosiri">
 <!ENTITY setPassword.meter.loading "Kupakia">
 <!-- Values for resetpassword.xul -->
 

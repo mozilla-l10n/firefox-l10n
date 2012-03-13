@@ -13,6 +13,8 @@
 
 <!ENTITY spellAddToDictionary.label "Ongea kwa Kamusi">
 <!ENTITY spellAddToDictionary.accesskey "w">
+<!ENTITY spellUndoAddToDictionary.label "Tngua Kuongeza Kwa Kamusi">
+<!ENTITY spellUndoAddToDictionary.accesskey "n">
 <!ENTITY spellCheckEnable.label "Kagua Tahajia">
 <!ENTITY spellCheckEnable.accesskey "T">
 <!ENTITY spellNoSuggestions.label "(Hakuna Maoni ya Tahajia)">

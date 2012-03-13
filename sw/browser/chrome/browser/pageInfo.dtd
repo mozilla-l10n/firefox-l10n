@@ -111,17 +111,17 @@
 <!ENTITY  securityView.unknown   "Isiyotambulika">
 
 
-<!ENTITY  securityView.identity.header   "Website Identity">
+<!ENTITY  securityView.identity.header   "Utambulisho wa Wavuti">
 <!ENTITY  securityView.identity.owner    "Mmiliki:">
-<!ENTITY  securityView.identity.domain   "Website:">
+<!ENTITY  securityView.identity.domain   "Wavuti:">
 <!ENTITY  securityView.identity.verifier "Umedhibitishwa na:">
 
 <!ENTITY  securityView.privacy.header                   "Faragha &amp; Historia">
-<!ENTITY  securityView.privacy.history                  "Have I visited this website prior to today?">
-<!ENTITY  securityView.privacy.cookies                  "Is this website storing information (cookies) on my computer?">
+<!ENTITY  securityView.privacy.history                  "Nimetembelea wavuti hii kabla ya leo?">
+<!ENTITY  securityView.privacy.cookies                  "Wavuti hii inahifadhi maelezo (vidakuzi) kwenye kompyuta yangu?">
 <!ENTITY  securityView.privacy.viewCookies              "Angalia Vidakuzi">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
-<!ENTITY  securityView.privacy.passwords                "Have I saved any passwords for this website?">
+<!ENTITY  securityView.privacy.passwords                "Je nimehifadhi manenosiri yoyote ya wavuti hii?">
 <!ENTITY  securityView.privacy.viewPasswords            "Angalia Nywila Zilizohifadhiwa">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 

@@ -4,7 +4,6 @@
 <!ENTITY     props.path.label               "Njia:">
 <!ENTITY     props.secure.label             "Tuma kwa Niaba ya:">
 <!ENTITY     props.expires.label            "Itaisha:">
-<!ENTITY     props.policy.label             "Sera:"> 
 
 <!ENTITY     button.allow.label             "Ruhusu">
 <!ENTITY     button.allow.accesskey         "R">

@@ -39,7 +39,7 @@
 
 <!ENTITY  intro.label                 "Umechagua kufungua">
 <!ENTITY  from.label                  "kutoka:">
-<!ENTITY  actionQuestion.label        "Je hii &brandShortName; inafaa kufanya nini na faili hii?">
+<!ENTITY  actionQuestion.label        "Je &brandShortName; inafaa kufanya nini na faili hii?">
 
 <!ENTITY  openWith.label              "Fungua na">
 <!ENTITY  openWith.accesskey          "F">

@@ -38,7 +38,7 @@
 <!-- point 4 text for unbranded builds -->
 
 <!ENTITY rights.intro-point4a-unbranded "Kama bidhaa hii inajumulisha huduma za tovuti, masharti yoyote yanayoweza kutumika kwa huduma hii yanafaa kuungwa kwa ">
-<!ENTITY rights.intro-point4b-unbranded "Website Services">
+<!ENTITY rights.intro-point4b-unbranded "Huduma za Wavuti">
 <!ENTITY rights.intro-point4c-unbranded " sehemu.">
 
 <!ENTITY rights2.webservices-header "&brandFullName; Huduma za Maelezo yaliyojikita kwenye Wavuti">
@@ -70,7 +70,7 @@
 <!ENTITY rights.locationawarebrowsing-term4 "Mahali-Kuvinjari Kujua sasa kumelemazwa">
 <!-- intro paragraph for unbranded builds -->
 
-<!ENTITY rights.webservices-unbranded "An overview of the website services the product incorporates, along with instructions on how to disable them, if applicable, should be included here.">
+<!ENTITY rights.webservices-unbranded "Mapitio ya huduma za wavuti ambazo bidhaa inajumuisha, pamoja na maagizo ya jinsi ya kuyalemaza, kama yanaweza kutumika, yanafaa kujumuishwa hapa.">
 <!-- point 1 text for unbranded builds -->
 
 <!ENTITY rights.webservices-term1-unbranded "Masharti yoyote ya huduma yanaweza kutumika kwa bidhaa hii yanafaa kuorodheshwa hapa.">

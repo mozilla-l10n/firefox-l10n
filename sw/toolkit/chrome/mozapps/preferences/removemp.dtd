@@ -1,6 +1,6 @@
 <!ENTITY removePassword.title              "Ondoa Nywila Kuu">
-<!ENTITY removeInfo.label                  "You must enter your current password to proceed:">
-<!ENTITY removeWarning1.label              "Your Master Password is used to protect sensitive information like site passwords.">
-<!ENTITY removeWarning2.label              "If you remove your Master Password your information will not be protected if your computer is compromised.">
-<!ENTITY setPassword.oldPassword.label     "Current password:">
+<!ENTITY removeInfo.label                  "Lazima uingize nenosiri lako la sasa ili kuendelea:">
+<!ENTITY removeWarning1.label              "Nenosiri lako Kuu linatumika ili kulinda maelezo yenye hisia kama manenosiri ya wavuti.">
+<!ENTITY removeWarning2.label              "Ukiondoa Nenosiri lako Kuu maelezo yako hayatalindwa kama kompyuta yako inaafikiana.">
+<!ENTITY setPassword.oldPassword.label     "Nenosiri ya Sasa:">
 

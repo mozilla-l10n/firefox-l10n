@@ -1,5 +1,10 @@
 <!ENTITY addons.windowTitle                   "Msimamizi Kifaa cha Nyongeza">
+
 <!ENTITY search.placeholder                   "Tafutiza vifaa vyote vya nyongeza">
+<!-- LOCALIZATION NOTE (search.commandKey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
+
 <!ENTITY loading.label                        "Kupakia…">
 <!ENTITY listEmpty.installed.label            "Huna vifaa vya nyongeza vya aina hii vilivyosakinishwa">
 <!ENTITY listEmpty.availableUpdates.label     "Hakuna visasaisho vilivyopatikana">

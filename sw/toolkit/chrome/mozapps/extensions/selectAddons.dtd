@@ -1,45 +1,45 @@
-<!ENTITY upgrade.style               "width: 93ch; height: 448px;">
+<!ENTITY upgrade.style               "upana: 93ch; urefu: 448px;">
 
-<!ENTITY checking.heading            "Checking Your Add-ons">
-<!ENTITY checking.progress.label     "Checking your add-ons for compatibility with this version of &brandShortName;.">
+<!ENTITY checking.heading            "Inakagua Programu jalizi Zako">
+<!ENTITY checking.progress.label     "Inakagua programu jalizi zako kwa utangamanifu na toleo hili ya vifaa vya nyongeza na toleo hili la &brandShortName;.">
 
-<!ENTITY select.heading              "Select Your Add-ons">
+<!ENTITY select.heading              "Chagua Programu jalizi">
 <!-- LOCALIZATION NOTE (select.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
-<!ENTITY select.description          "Make &brandShortName; even faster by disabling add-ons you no longer use. Add-ons already installed by third parties will be disabled automatically unless you select them below.">
-<!ENTITY select.keep                 "Keep">
+<!ENTITY select.description          "Fanya &brandShortName; pia haraka kwa kulemaza programu jalizi ambazo hutumi tena. Programu jalizi zilisakinishwa na wengine zitalemazwa kiotomatiki ila uchague hapa chini.">
+<!ENTITY select.keep                 "Weka">
 <!-- LOCALIZATION NOTE (select.keep.style): Should be a width wide enough for
      the string in select.keep above. -->
-<!ENTITY select.keep.style           "width: 6ch;">
+<!ENTITY select.keep.style           "upana: 6ch;">
 <!ENTITY select.action               "Kitendo">
 <!-- LOCALIZATION NOTE (select.action.style): Should be a width wide enough for
      the action strings in selectAddons.properties or brandShortName. -->
-<!ENTITY select.action.style         "width: 35ch;">
-<!ENTITY select.source               "Installed By">
+<!ENTITY select.action.style         "upana: 35ch;">
+<!ENTITY select.source               "Ilisakinishwa Na">
 <!ENTITY select.name                 "Jina">
 <!-- LOCALIZATION NOTE (select.name.style): Should be a width small enough so
      the source column still has enough room for the source strings in
      selectAddons.properties. -->
-<!ENTITY select.name.style           "width: 33ch;">
+<!ENTITY select.name.style           "upana: 33ch;">
 
-<!ENTITY confirm.heading             "Select Your Add-ons">
+<!ENTITY confirm.heading             "Ongeza Programu jalizi Zako">
 <!-- LOCALIZATION NOTE (confirm.description): The term used for "third parties"
      here should match the string source.other in selectAddons.properties. -->
-<!ENTITY confirm.description         "Make &brandShortName; even faster by disabling add-ons you no longer use. Add-ons already installed by third parties will be disabled automatically unless you select them below.">
+<!ENTITY confirm.description         "Fanya &brandShortName; haraka kwa kulemaza programu jalizi ambazo hautumi tena. Programu jalizi ambazo zimesakinishwa na wengine zitalemazwa kiotomatiki isipokuwa uzichague hapa chini.">
 
-<!ENTITY action.disable.heading      "The following add-ons will be disabled:">
-<!ENTITY action.incompatible.heading "The following add-ons are disabled, but will be enabled as soon as they are compatible:">
-<!ENTITY action.update.heading       "The following add-ons will be updated:">
-<!ENTITY action.enable.heading       "The following add-ons will be enabled:">
+<!ENTITY action.disable.heading      "Programu jalizi zifuatazo zitalemazwa:">
+<!ENTITY action.incompatible.heading "Programu jalizi zimelemazwa, lakini zitawezeshwa punde tu zikitangamana:">
+<!ENTITY action.update.heading       "Programu jalizi zifuatazo zitasasishwa:">
+<!ENTITY action.enable.heading       "Programu jalizi zifuatazo zitawezeshwa:">
 
-<!ENTITY update.heading              "Updating Your Add-ons">
-<!ENTITY update.progress.label       "Downloading and installing updates for your selected add-ons.">
+<!ENTITY update.heading              "Inasasisha Programu jalizi zako">
+<!ENTITY update.progress.label       "Inapakua na kusakinisha visasaisho vya programu jalizi zako.">
 
-<!ENTITY errors.heading              "&brandShortName; could not update some of your add-ons.">
-<!ENTITY errors.description          "Installing updates for some of your add-ons failed. &brandShortName; will automatically try to update them again later.">
+<!ENTITY errors.heading              "&brandShortName; haikuweza kusasisha baadhi ya programu jalizi zako.">
+<!ENTITY errors.description          "Kusakinisha usasishaji kwa baadhi ya programu jalizi umeshindwa. &brandShortName; itajaribu kuzisasisha tena kiotomatiki baadaye.">
 
-<!ENTITY footer.label                "You can always change your add-ons by going to the Add-ons Manager.">
-<!ENTITY cancel.label                "Katiza">
+<!ENTITY footer.label                "Unaweza kubadilisha programu jalizi zako kwa kwenda kwa Kidhibiti cha Programu jalizi.">
+<!ENTITY cancel.label                "Ghairi">
 <!ENTITY back.label                  "Nyuma">
-<!ENTITY next.label                  "Next">
-<!ENTITY done.label                  "Done">
+<!ENTITY next.label                  "Ifuatayo">
+<!ENTITY done.label                  "Imefanywa">

@@ -4,17 +4,17 @@
 <!ENTITY startupPage.accesskey     "h">
 <!ENTITY startupHomePage.label     "Onyesha ukurasa wangu wa nyumbani">
 <!ENTITY startupBlankPage.label    "Onyesha ukurasa wazi">
-<!ENTITY startupLastSession.label  "Onyesha dirisha yangu na vichupo kutoka wakari uliopita">
-<!ENTITY restoreOnDemand.label     "Don’t load tabs until selected">
-<!ENTITY restoreOnDemand.accesskey "l">
+<!ENTITY startupLastSession.label  "Onyesha madirisha yangu na vichupo kutoka wakati wa mwisho">
+<!ENTITY restoreOnDemand.label     "Usipakie vichupo hadi ichaguliwe">
+<!ENTITY restoreOnDemand.accesskey "v">
 
 <!ENTITY homepage.label            "Ukurasa Nyumbani:">
 <!ENTITY homepage.accesskey        "N">
 <!ENTITY useCurrentPage.label      "Tumia Ukurasa wa Sasa">
 <!ENTITY useCurrentPage.accesskey  "U">
 <!ENTITY useMultiple.label         "Tumia Kurasa za Sasa">
-<!ENTITY chooseBookmark.label      "Use Bookmark…">
-<!ENTITY chooseBookmark.accesskey  "B">
+<!ENTITY chooseBookmark.label      "Tumia Alamisho...">
+<!ENTITY chooseBookmark.accesskey  "A">
 <!ENTITY restoreDefault.label      "Rudisha kwa Chaguo Msingi">
 <!ENTITY restoreDefault.accesskey  "R">
 

@@ -1,4 +1,18 @@
 <!ENTITY aboutDialog.title          "Kuhusu &brandFullName;">
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+
+<!ENTITY warningDesc.version        "&brandShortName; ni ya kujaribia na inaweza kuwa si thabiti.">
+<!-- LOCALIZATION NOTE (warningDesc.telemetry): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetry      "Inatuma kiotomatiki maelezo ya jaribio kwa &vendorShortName; ili kusaidia kufanya &brandShortName; bora.">
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+
+<!ENTITY community.exp.start        "">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+<!ENTITY community.exp.middle       " ni ">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "jamii ya ulimwengu">
+<!ENTITY community.exp.end          " kufanya kazi pamoja ili kuweka Wavuti wazi, kwa umma na ufikiaji kwa wote.">
 
 <!ENTITY community.start2           "&brandShortName; imeundwa na ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -6,7 +20,7 @@
 <!ENTITY community.middle2          ", a ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "jamii ya ulimwengu">
-<!ENTITY community.end2             " kufanya kazi kwa pamoja ili kufanya wavuti kuwa bora zaidi. Tunaamini kwamba wavuti inapaswa kuwa wazi, ya umma, na inayoweza kufikiwa na kila mtu bila vizuizi vyovyote.">
+<!ENTITY community.end3             " kufanya kazi pamoja ili kuweka Wavuti wazi, kwa umma na ufikiaji kwa wote.">
 
 <!ENTITY contribute.start           "Inakupendeza? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
@@ -17,7 +31,7 @@
 <!ENTITY bottomLinks.license        "Maelezo ya Leseni">
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
 
-<!ENTITY bottomLinks.rights         "Haki za Mtumiaji wa Mwisho">
+<!ENTITY bottomLinks.rights         "Haki za Mtumiaji wa Hatima">
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
 
 <!ENTITY bottomLinks.privacy        "Sera ya Faragha">

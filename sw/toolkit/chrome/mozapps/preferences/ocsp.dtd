@@ -1,13 +1,13 @@
-<!ENTITY ocspDialog.title             "Certificate Validation">
-<!ENTITY enableOCSP.label             "Use the Online Certificate Status Protocol (OCSP) to confirm the current validity of certificates">
-<!ENTITY enableOCSP.accesskey         "U">
-<!ENTITY certOCSP2.label              "Validate a certificate if it specifies an OCSP server">
-<!ENTITY certOCSP2.accesskey          "V">
-<!ENTITY proxyOCSP2.label             "Validate all certificates using the following OCSP server:">
+<!ENTITY ocspDialog.title             "Hati ya Uhakikishi">
+<!ENTITY enableOCSP.label             "Tumia Hali ya Itifaki ya Cheti Cha Mkondoni ili kuthibiti uhalali wa vyeti">
+<!ENTITY enableOCSP.accesskey         "T">
+<!ENTITY certOCSP2.label              "Hakikisha cheti kama kinabainisha seva ya OCSP">
+<!ENTITY certOCSP2.accesskey          "H">
+<!ENTITY proxyOCSP2.label             "Hakikisha cheti zote kwa kutumia seva ifuatayo ya OCSP:">
 <!ENTITY proxyOCSP2.accesskey         "a">
-<!ENTITY serviceURL.label             "Service URL:">
-<!ENTITY serviceURL.accesskey         "S">
-<!ENTITY signingCA.label              "Response Signer:">
-<!ENTITY signingCA.accesskey          "R">
-<!ENTITY requireOCSP.label            "When an OCSP server connection fails, treat the certificate as invalid">
+<!ENTITY serviceURL.label             "Huduma ya URL:">
+<!ENTITY serviceURL.accesskey         "H">
+<!ENTITY signingCA.label              "Jibu la Saini">
+<!ENTITY signingCA.accesskey          "J">
+<!ENTITY requireOCSP.label            "Wakati muunganisho wa seva ya OCSP umekata, fanya cheti kiwe batili">
 <!ENTITY requireOCSP.accesskey        "W">

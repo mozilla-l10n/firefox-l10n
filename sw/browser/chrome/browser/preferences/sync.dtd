@@ -13,11 +13,11 @@
 <!ENTITY manageAccount.label          "Simamia Akaunti">
 <!ENTITY manageAccount.accesskey      "A">
 <!ENTITY viewQuota.label              "Angalia Kwota">
-<!ENTITY changePassword2.label        "Change Password…">
-<!ENTITY myRecoveryKey.label          "My Recovery Key">
-<!ENTITY resetSync2.label             "Reset Sync…">
+<!ENTITY changePassword2.label        "Badilisha Neno la Siri...">
+<!ENTITY myRecoveryKey.label          "Ufunguo Wangu wa Afueni">
+<!ENTITY resetSync2.label             "Weka Upya Ulandanishi...">
 
-<!ENTITY pairDevice.label             "Pair a Device">
+<!ENTITY pairDevice.label             "Jozi Kifaa">
 
 <!ENTITY syncMy.label               "Landanisha">
 <!ENTITY engine.bookmarks.label     "Alamisho">
@@ -30,11 +30,13 @@
 <!ENTITY engine.passwords.accesskey "M">
 <!ENTITY engine.prefs.label         "Mapendeleo">
 <!ENTITY engine.prefs.accesskey     "e">
+<!ENTITY engine.addons.label        "Vifaa vya nyongeza">
+<!ENTITY engine.addons.accesskey    "V">
 <!-- Device Settings -->
 
 <!ENTITY syncComputerName.label       "Jina la Kompyuta:">
 <!ENTITY syncComputerName.accesskey   "J">
-<!ENTITY unlinkDevice.label           "Unlink This Device">
+<!ENTITY unlinkDevice.label           "Tenganisha Kifaa Hiki">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "Masharti ya Huduma">

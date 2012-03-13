@@ -1,11 +1,9 @@
 <!ENTITY aboutSupport.pageTitle "Maelezo ya Usuluhishaji">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "
-  This page contains technical information that might be useful when you're
-  trying to solve a problem. If you are looking for answers to common questions
-  about &brandShortName;, check out our <a id='supportLink'>support website</a>.
-">
+<!ENTITY aboutSupport.pageSubtitle "  Ukurasa huu una maelezo ya kiufundi ambayo yanaweza kutumiwa wakati unajaribu 
+kutatua tatizo. Kama unatafuta majibu kwa maswali ya kawaidia 
+kuhusu &brandShortName;, kagua kiungo chetu <a id='supportLink'>wavuti wa usaidizi</a>.">
 
 <!ENTITY aboutSupport.extensionsTitle "Viendelezi">
 <!ENTITY aboutSupport.extensionName "Jina">
@@ -20,17 +18,20 @@
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Wezesha Programu-jalizi">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Jenga Usanidi">
 <!ENTITY aboutSupport.appBasicsUserAgent "Mtumaiji Wakala">
-<!ENTITY aboutSupport.appBasicsCrashIDs "Crash Reports">
-<!ENTITY aboutSupport.appBasicsMemoryUse "Memory Use">
+<!ENTITY aboutSupport.appBasicsCrashIDs "Ripoti za Mvurugo">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Utumizi wa Kumbukumbu">
 
-<!ENTITY aboutSupport.show.label "Fungua Kabarasha Iliyo na">
+<!ENTITY aboutSupport.showDir.label "Fungua Saraka">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
-variant of aboutSupport.show.label.  This allows us to use the preferred
+variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
 
 <!ENTITY aboutSupport.showMac.label "Onyesha kwa Kitafutizi">
+<!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
+variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin.label "Onyesha Folda">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "Mapendeleo Yaliyobadilishwa">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Mapendeleo Muhimu Yaliorekebishwa">
 <!ENTITY aboutSupport.modifiedPrefsName "Jina">
 <!ENTITY aboutSupport.modifiedPrefsValue "Thamani">
 

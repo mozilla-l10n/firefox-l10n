@@ -1,9 +1,9 @@
-<!ENTITY blocklist.title             "Add-ons may be causing problems">
-<!ENTITY blocklist.style             "width: 45em; height: 30em">
-<!ENTITY blocklist.summary           "&brandShortName; has determined that the following add-ons are known to cause stability or security problems:">
-<!ENTITY blocklist.softblocked       "For your protection, it is highly recommended that you restart with these add-ons disabled.">
-<!ENTITY blocklist.hardblocked       "These add-ons have a high risk of causing stability or security problems and have been blocked, but a restart is required to disable them completely.">
-<!ENTITY blocklist.softandhard       "The add-ons that have a high risk of causing stability or security problems have been blocked. The others are lower risk, but it is highly recommended that you restart with them disabled.">
+<!ENTITY blocklist.title             "Programu jalizi zinaweza kuwa zinasababisha matatizo">
+<!ENTITY blocklist.style             "upana: 45em; urefu: 30em">
+<!ENTITY blocklist.summary           "&brandShortName; imeamua kwamba programu jalizi zifuatazo zinasababisha uthabitity au matatizo ya usalama:">
+<!ENTITY blocklist.softblocked       "Kwa ulindaji wako, inapendekezwa sana uashe upya na programu jalizi kama zimelemazwa.">
+<!ENTITY blocklist.hardblocked       "Programu jalizi zina hatari kubwa ya kusababisha uthabiti au matatizo ya usalama na zimezuiliwa, lakini kuanza upya kunahitajika ili kuilemaza kabisa.">
+<!ENTITY blocklist.softandhard       "Programu jalizi ambazo zina hatari kubwa ya kusababisha uthabiti au matatizo ya usalama imezuiliwa. Zingine zina hatari ya chini, inapendekeza sana uashe upya kama zimelemazwa.">
 <!ENTITY blocklist.moreinfo          "Maelezo zaidi">
 
 <!ENTITY blocklist.accept.label      "Anzisha upya &brandShortName;">

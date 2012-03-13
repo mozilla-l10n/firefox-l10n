@@ -52,7 +52,7 @@
 <!ENTITY  validation.crl.autoupdate.title         "Mapendeleo ya Usasaisho Kiotomatiki wa CRL">
 <!ENTITY  validation.crl.autoupdate.enable.label  "Wezesha Usasaisho Kiotomatiki wa CRL hii">
 <!ENTITY  validation.crl.autoupdate.time.label1   "Sasaisha">
-<!ENTITY  validation.crl.autoupdate.time.label2   "Day(s) before Next Update date">
+<!ENTITY  validation.crl.autoupdate.time.label2   "Siku kabla ya tarehe ya Usasaisho Ujao">
 <!ENTITY  validation.crl.autoupdate.freq.label1   "Sasaisha kila">
 <!ENTITY  validation.crl.autoupdate.freq.label2   "Siku">
 <!ENTITY  validation.crl.autoupdate.url.label     "CRL italetwa Kutoka:">

@@ -90,7 +90,7 @@ can reach it easily. -->
 <!ENTITY fullScreenAutohide.accesskey "F">
 <!ENTITY fullScreenExit.label "Aga Hali tumizi ya Skrini Nzima">
 <!ENTITY fullScreenExit.accesskey "H">
-<!ENTITY domFullScreenWarning.label "Press ESC to leave full-screen mode">
+<!ENTITY domFullScreenWarning.label "Bonyeza ESC ili kutoka kwa hali ya skrini nzima">
 
 <!ENTITY closeWindow.label "Funga Dirisha">
 <!ENTITY closeWindow.accesskey "s">
@@ -112,8 +112,8 @@ can reach it easily. -->
 <!ENTITY forwardCmd.label             "Tuma mbele">
 <!ENTITY forwardCmd.accesskey         "T">
 <!ENTITY forwardButton.tooltip        "Nenda mbele ukurasa mmoja">
-<!ENTITY backForwardButtonMenu.tooltip "Right-click or pull down to show history">
-<!ENTITY backForwardButtonMenuMac.tooltip "Pull down to show history">
+<!ENTITY backForwardButtonMenu.tooltip "Bofya-kulia au vuta chini kuonyesha historia">
+<!ENTITY backForwardButtonMenuMac.tooltip "Vuta chini ili kuonyesha historia">
 <!ENTITY reloadCmd.label              "Pakia tena">
 <!ENTITY reloadCmd.accesskey          "P">
 <!ENTITY reloadButton.tooltip         "Pakia tena ukurasa uliopo">
@@ -195,7 +195,7 @@ can reach it easily. -->
 <!ENTITY inspectMenu.accesskey        "a">
 <!ENTITY inspectMenu.commandkey       "I">
 
-<!ENTITY inspectContextMenu.label     "Inspect Element">
+<!ENTITY inspectContextMenu.label     "Kagua Elementi">
 <!ENTITY inspectContextMenu.accesskey "Q">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
@@ -216,9 +216,23 @@ can reach it easily. -->
 <!ENTITY inspectPanelTitle.label        "HTML">
 <!ENTITY inspectButton.label            "Kagua">
 <!ENTITY inspectButton.accesskey        "K">
-<!ENTITY inspectCloseButton.tooltiptext "Close Inspector">
+<!ENTITY inspectCloseButton.tooltiptext "Funga Kikaguzi">
+<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
+  -  alternate view for the Inspector, creating a 3D visualization of the
+  -  webpage. -->
+
+<!ENTITY inspect3DViewButton.label     "Muonekano wa 3D">
+<!ENTITY inspect3DViewButton.accesskey "W">
+
 <!ENTITY inspectStyleButton.label     "Mtindo">
 <!ENTITY inspectStyleButton.accesskey "M">
+<!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
+  -  in the Tools menu. -->
+
+<!ENTITY styleeditor.label            "Mhariri Mtindo">
+<!ENTITY styleeditor.accesskey        "a">
+<!ENTITY styleeditor.keycode          "VK_F7">
+<!ENTITY styleeditor.keytext          "F7">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Pata Zana Zaidi">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "Z">
@@ -303,7 +317,7 @@ can reach it easily. -->
 <!ENTITY appMenuSafeMode.accesskey "A">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder           "Go to a Website">
+<!ENTITY urlbar.placeholder           "Nenda kwa Wavuti">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Badili kwa kichupo:">
 <!-- 
@@ -421,27 +435,39 @@ can reach it easily. -->
 <!ENTITY thisFrameMenu.label              "Fremu Hii">
 <!ENTITY thisFrameMenu.accesskey          "m">
 <!-- Media (video/audio) controls -->
+<!-- LOCALIZATION NOTE: The access keys for "Play" and
+"Pause" are the same because the two context-menu
+items are mutually exclusive. -->
 
 <!ENTITY mediaPlay.label             "Chezesha">
 <!ENTITY mediaPlay.accesskey         "C">
 <!ENTITY mediaPause.label            "Sitisha">
 <!ENTITY mediaPause.accesskey        "S">
+<!-- LOCALIZATION NOTE: The access keys for "Mute" and
+"Unmute" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Nyamazisha">
 <!ENTITY mediaMute.accesskey         "N">
 <!ENTITY mediaUnmute.label           "Nyamazishua">
 <!ENTITY mediaUnmute.accesskey       "z">
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "Onyesha Vidhibiti">
 <!ENTITY mediaShowControls.accesskey "V">
 <!ENTITY mediaHideControls.label     "Ficha Vidhibiti">
 <!ENTITY mediaHideControls.accesskey "V">
 <!ENTITY videoFullScreen.label       "Skrini Nzima">
 <!ENTITY videoFullScreen.accesskey   "S">
-<!ENTITY videoSaveImage.label        "Save Snapshot As…">
-<!ENTITY videoSaveImage.accesskey    "S">
-<!ENTITY videoShowStats.label        "Show Statistics">
-<!ENTITY videoShowStats.accesskey    "t">
-<!ENTITY videoHideStats.label        "Hide Statistics">
-<!ENTITY videoHideStats.accesskey    "t">
+<!ENTITY videoSaveImage.label        "Hifadhi Picha iliyopigwa haraka Kama...">
+<!ENTITY videoSaveImage.accesskey    "H">
+<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
+"Hide Statistics" are the same because the two context-menu
+items are mutually exclusive. -->
+<!ENTITY videoShowStats.label        "Onyesha Takwimu">
+<!ENTITY videoShowStats.accesskey    "a">
+<!ENTITY videoHideStats.label        "Ficha Takwimu">
+<!ENTITY videoHideStats.accesskey    "a">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
@@ -505,7 +531,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Mtindo wa Kimsingi wa Ukurasa">
 <!ENTITY pageStylePersistentOnly.accesskey "M">
 
-<!ENTITY pageReportIcon.tooltip            "Change pop-up blocking settings for this website">
+<!ENTITY pageReportIcon.tooltip            "Badilisha mipangilio ya kuzuia uibukizi kwenye wavuti hii">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -537,7 +563,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "Katiza">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
-<!ENTITY identity.unverifiedsite2 "This website does not supply identity information.">
+<!ENTITY identity.unverifiedsite2 "Wavuti hii haiwezi kutoa maelezo ya utambulishaji.">
 <!ENTITY identity.connectedTo "Umeunganishwa kwa">
 <!-- Localization note (identity.runBy) : This string appears between a
 domain name (above) and an organization name (below). E.g.

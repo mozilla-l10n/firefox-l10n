@@ -44,8 +44,8 @@ kuwa &brandShortName; imeruhusiwa kufikia Wavuti.</li>
 <!ENTITY netInterrupt.title "Muunganisho ulisitishwa">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY notCached.title "Document Expired">
-<!ENTITY notCached.longDesc "<p>The requested document is not available in &brandShortName;'s cache.</p><ul><li>As a security precaution, &brandShortName; does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
+<!ENTITY notCached.title "Waraka Umepita  Wakati">
+<!ENTITY notCached.longDesc "<p>Waraka ulioombwa haupatikani katika &brandShortName; kache. .</p><ul><li>Kama hadhari ya usalama, &brandShortName; haiombi tena kiotomatiki nyaraka zenye hisia.</li><li>Bofya Jaribu Tena ili kuomba tena waraka kutoka kwa wavuti.</li></ul>">
 
 <!ENTITY netOffline.title "Modi ya nje ya mtandao">
 <!ENTITY netOffline.longDesc2 "<ul> 
@@ -102,12 +102,10 @@ vidukizo.</li>
 </ul>">
 
 <!ENTITY nssFailure2.title "Muunganisho Salama Umeshindwa">
-<!ENTITY nssFailure2.longDesc "
-<ul>
-  <li>The page you are trying to view can not be shown because the authenticity of the received data could not be verified.</li>
-  <li>Please contact the website owners to inform them of this problem. Alternatively, use the command found in the help menu to report this broken site.</li>
-</ul>
-">
+<!ENTITY nssFailure2.longDesc "<ul> 
+<li>Ukurasa unaojaribu kuangali hauwezi kuonyeshwa kwa sababu ya uhalali wa data iliyopokelewa haingethibitishwa.</li> 
+<li>Tafadhali wasiliana na wamilikii wa tovuti ili kuwajulisha kuhusu shida hii. Badala yake, tumia amri inayopatikana kwenye menyu ya msaada kuripoti tovuti hii iliyoharibika.</li> 
+</ul>">
 
 <!ENTITY nssBadCert.title "Muungano Salama Umeshindwa">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
@@ -127,10 +125,8 @@ kuwa &brandShortName; imeruhusiwa kufikia Wavuti.</li>
 </ul>">
 
 <!ENTITY malwareBlocked.title "Inashukiwa kuwa Wavuti Shambulizi!">
-<!ENTITY malwareBlocked.longDesc "
-<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p>
-<p>Website owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo' >request a review</a>.</p>
-">
+<!ENTITY malwareBlocked.longDesc "<p>Vamia wavuti ili kujaribu kusakinisha programu ambazo zinaiba maelezo ya ufaragha, tumia kompyuta yako kuvamia nyingine, au kuharibu mfumo wako.</p> 
+<p>Wamiliki wa wavuti ambao wanaamini wavuti wao umeripotiwa kama wavuti vamizi katika kosa wanaweza <a href='http://www.stopbadware.org/home/reviewinfo' >omba ukaguzi</a>.</p>">
 
 <!ENTITY phishingBlocked.title "Inashukiwa kuwa Wavuti Ughushi!">
 <!ENTITY phishingBlocked.longDesc "<p>Kuinigiza maelezo yoyote ya kibinafsi kwenye ukurasa huu kwaweza kusababisha wizi wa utambulishi au aina nyingine za udanganyifu.</p> 

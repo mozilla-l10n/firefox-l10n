@@ -1,11 +1,11 @@
-<!ENTITY title           "Install Add-on">
-<!ENTITY intro           "Another program on your computer would like to modify
-                          &brandShortName; with the following add-on:">
+<!ENTITY title           "Sakinisha Programu jalizi">
+<!ENTITY intro           "Programu nyingine kwenye kompyuta yako ingependa kurekebisha 
+&brandShortName; na programu jalizi ifuatayo:">
 <!ENTITY warning         "Sakinisha vifaa vya nyongeza pekee kutoka kwa waandishi unaowaamini.">
-<!ENTITY allow           "Allow this installation">
-<!ENTITY later           "You can always change your mind at any time by going
-                          to the Add-ons Manager.">
+<!ENTITY allow           "Ruhusu usakinishaji">
+<!ENTITY later           "Unaweza kubadilisha nia wakati wowote kwa kwenda 
+ kwenye Kidhibiti cha Programu jalizi.">
 <!ENTITY continue        "Endelea">
-<!ENTITY restartMessage  "You must restart &brandShortName; to finish installing this add-on.">
+<!ENTITY restartMessage  "Lazima uwashe upya &brandShortName;ili kumaliza kusakinisha programu jalizi hii.">
 <!ENTITY restartButton   "Anzisha upya &brandShortName;">
 <!ENTITY cancelButton    "Katiza">

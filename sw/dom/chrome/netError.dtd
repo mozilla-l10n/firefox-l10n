@@ -1,13 +1,13 @@
-<!ENTITY loadError.label "Kosa la Kupakia Ukurasa">
+<!ENTITY loadError.label "Hitilafu ya Kupakia Ukurasa">
 <!ENTITY retry.label "Jaribu Tena">
 <!-- Specific error messages -->
 
 
 <!ENTITY connectionFailure.title "Imeshindwa Kuunganisha">
-<!ENTITY connectionFailure.longDesc "<p>Ingawa wavuti yaonekana kuwa sahihi, kivinjari kimeshindwa kuanzisha muungano.</p><ul><li>Huenda tovuti haipatikani kwa muda? Jaribu tena baadaye.</li><li>Umeshindwa kuvinjari wavuti zingine?  Kagua muungano wa mtandao wa tarakilishi.</li><li>Tarakilishi au mtandao wako umelindwa na ngome au mbadala? Mipangilio isiyo sahihi yaweza kuingilia kuvinjari Wavuti.</li></ul>">
+<!ENTITY connectionFailure.longDesc "<p>Ingawa wavuti unaonekana kuwa sahihi, kivinjari kimeshindwa kuanzisha muungano.</p><ul><li>Je kuna uwezekano tovuti haipatikani kwa muda? Jaribu tena baadaye.</li><li>Umeshindwa kuvinjari wavuti zingine?  Kagua muungano wa mtandao wa kompyuta.</li><li>Je kompyutai au mtandao wako umelindwa na ngome au proksi? Mipangilio isiyo sahihi inaweza kuingilia kuvinjari Wavuti.</li></ul>">
 
-<!ENTITY deniedPortAccess.title "Kituo Kimzuiliwa kwa Sababu za Usalama">
-<!ENTITY deniedPortAccess.longDesc "<p>Anwani iliyoombwa imeainisha poti (k.m. <q>mozilla.org:80</q> kwa poti 80 kwa mozilla.org) kwa kawaida hutumiwa kwa madhumuni <em>mengine</em> isipokuwa kuvinjari Wavuti. Kivinjari kimekatiza ombi lako la ulinzi na usalama.</p>">
+<!ENTITY deniedPortAccess.title "Kituo Kimezuiliwa kwa Sababu za Kiusalama">
+<!ENTITY deniedPortAccess.longDesc "<p>Anwani iliyoombwa ilibainisha poti (k.m. <q>mozilla.org:80</q> ya poti 80 kwa mozilla.org) kwa kawaida hutumiwa kwa madhumuni <em>mengine</em> isipokuwa kuvinjari Wavuti. Kivinjari kimeghairi ombi lako la ulinzi na usalama.</p>">
 
 <!ENTITY dnsNotFound.title "Anwani Haikupatikana">
 <!ENTITY dnsNotFound.longDesc "<p>Kivinjari hakingepata sava ya anwani iliyotolewa.</p><ul><li>Ulifanya makosa wakati wa kuchapa kikoa? (k.m. <q><strong>ww</strong> .mozilla.org</q> badala ya <q><strong>www</strong>.mozilla.org</q>)</li><li>Una uhakika kuwa anwani hii ya kiko ipo?  Wakati wake wa uandikishaji wake huenda umekwisha.</li><li>Umeshindwa kuvinjari wavuti zingine?   Kagua muungano wa mtandao na mipangilio ya sava ya DNS.</li><li>Tarakilishi au mtandao wako umelindwa na ngome au mbadala?   Mipangilio isiyo sahahi yaweza kuingilia uvinjari wa Wavuti.</li></ul>">
@@ -24,8 +24,8 @@
 <!ENTITY netInterrupt.title "Uhamishaji wa Data Umekatizwa">
 <!ENTITY netInterrupt.longDesc "<p>Kivinjari kimefaulu kuunganishwa, lakini muungano umesitishwa wakati wa kuhamisha maelezo.  Tafadhali jaribu tena.</p><ul><li>Je,umeshindwa kuvinjari tovuti zingine? Kagua muungano wa mtandao wa tarakilishi yako.</li><li>Bado unapata shida? Wasiliana na msimamizi wa mtandao au mtoaji Mtandao kwa usaidizi.</li></ul>">
 
-<!ENTITY notCached.title "Document Expired">
-<!ENTITY notCached.longDesc "<p>The requested document is not available in the browser's cache.</p><ul><li>As a security precaution, the browser does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
+<!ENTITY notCached.title "Waraka Umepita Wakati">
+<!ENTITY notCached.longDesc "<p>Waraka ulioombwa haupatikani katika kache ya kivinjari.</p><ul><li>Kama hadhari ya usalama, kivinjari hakiombi tena kiotomatiki nyaraka zilizo na hisia.</li><li>Bofya Kujaribu Tena ili kuomba tena waraka kutoka kwa wavuti.</li></ul> ">
 
 <!ENTITY netOffline.title "Hali tumizi ya Nje ya Mtandao">
 <!ENTITY netOffline.longDesc2 "<p>Kivinjari kinafanya kazi nje ya mtandao na hakiwezi kuunganishwa kwa kipengee kilichoombwa.</p><ul><li>Tarakilishi imeunganishwa kwa mtandao amilifu?</li><li>Bonyeza &quot; Jaribu tena &quot; ili kuwasha modi ya mtandao na kupakia ukurasa.</li></ul>">
@@ -60,7 +60,7 @@
 <!ENTITY unknownSocketType.longDesc "<p>Tovuti iliitikia ombi la mtandao katika njia ambayo haikutarajiwa na kivinjari hakiwezi kuendelea.</p>">
 
 <!ENTITY nssFailure2.title "Muungao Salama Umeshindwa">
-<!ENTITY nssFailure2.longDesc "<p>The page you are trying to view can not be shown because the authenticity of the received data could not be verified.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
+<!ENTITY nssFailure2.longDesc "<p>Ukurasa unaojaribu kuangalia hauwezi kuonyeshwa kwa sababu uhalali wa data iliyopokelewa haiwezi kudhibitishwa.</p><ul><li>Tafadhali wasiliana wamiliki wa tovuti ili kuwajulisha kuhusu tatizo hii.</li></ul>">
 
 <!ENTITY nssBadCert.title "Muungano Salama Umeshindwa">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
@@ -69,10 +69,8 @@
 </ul>">
 
 <!ENTITY malwareBlocked.title "Tovuti inayoshukiwa kuwa Shambulizi!">
-<!ENTITY malwareBlocked.longDesc "
-<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p>
-<p>Website owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo' >request a review</a>.</p>
-">
+<!ENTITY malwareBlocked.longDesc "<p>Tovuti shambulizi hujaribu kusakinsha programu ambazo zinaiba maelezo ya kibinafsi, tumia kompyuta yako kushambulia zingine, au kudhuru mfumo wako.</p> 
+<p>Wamiliki wa wavuti wanaoamini tovuti zao zimeripotiwa kama wavuti shambulizi kimakosa wanaweza <a href='http://www.stopbadware.org/home/reviewinfo' >omba ukaguzi</a>.</p>">
 
 <!ENTITY phishingBlocked.title "Ughushi wa Wavuti unashukiwa!">
 <!ENTITY phishingBlocked.longDesc "<p>Kuingiza maelezo yoyote ya kibinafsi kwenye ukurasa huu waweza kusababisha wizi au udanganyifu wa aina nyingine.</p> 

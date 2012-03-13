@@ -2,9 +2,9 @@
 <!-- First page of the wizard -->
 
 
-<!ENTITY setup.pickSetupType.description "Karibu, kama hujawahi kutumia &syncBrand.fullName.label; awali, utahitajika kuunda akaunti mpya.">
+<!ENTITY setup.pickSetupType.description2 "Karibu! kama hujawahi kutumia &syncBrand.fullName.label; awali, utahitajika kuunda akaunti mpya.">
 <!ENTITY button.createNewAccount.label "Unda Akaunti Mpya">
-<!ENTITY button.haveAccount.label      "I Have an Account">
+<!ENTITY button.haveAccount.label      "Nina Akaunti">
 
 <!ENTITY setup.choicePage.title.label     "Umetumia &syncBrand.fullName.label; awali?">
 <!ENTITY setup.choicePage.new.label       "Sijatumia &syncBrand.shortName.label; hapo awali">
@@ -18,8 +18,8 @@
 <!ENTITY signIn.account2.accesskey  "A">
 <!ENTITY signIn.password.label      "Nywila">
 <!ENTITY signIn.password.accesskey  "N">
-<!ENTITY signIn.recoveryKey.label       "Recovery Key">
-<!ENTITY signIn.recoveryKey.accesskey   "K">
+<!ENTITY signIn.recoveryKey.label       "Uokoaji Ufunguo">
+<!ENTITY signIn.recoveryKey.accesskey   "U">
 <!-- New Account Page 1: Basic Account Info -->
 
 <!ENTITY setup.newAccountDetailsPage.title.label "Maelezo ya Akaunti">
@@ -41,11 +41,11 @@
 <!-- My Recovery Key dialog -->
 
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; Inajali Kuhusu Faragha Yako">
-<!ENTITY setup.newRecoveryKeyPage.description.label "To ensure your total privacy, all of your data is encrypted prior to being uploaded. The Recovery Key which is necessary to decrypt your data is not uploaded.">
-<!ENTITY recoveryKeyEntry.label        "Your Recovery Key">
-<!ENTITY recoveryKeyEntry.accesskey    "K">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Kuhakikisha ufaragha wako kamili, data yako yote ina usimbaji fiche kabla ya kupakuliwa. Ufunguo wa Uokoaji ambao unahitajika kusimbua fiche data yako haipakuliwi.">
+<!ENTITY recoveryKeyEntry.label        "Uokoaji Wako Ufunguo">
+<!ENTITY recoveryKeyEntry.accesskey    "U">
 <!ENTITY syncGenerateNewKey.label  "Unda kitufe kipya">
-<!ENTITY recoveryKeyBackup.description "Your Recovery Key is required to access &syncBrand.fullName.label; on other machines. Please create a backup copy. We cannot help you recover your Recovery Key.">
+<!ENTITY recoveryKeyBackup.description "Ufunguo wako wa Uokoaji unahitajika kufikia &syncBrand.fullName.label; kwa mashine zingine. Tafadhali unda nakala ya chelezo. Hatuwezi kukusaidia kurejesha Ufunguo wako wa Uokoaji.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Chapisha...">
 <!ENTITY button.syncKeyBackup.print.accesskey "C">
@@ -53,21 +53,21 @@
 <!ENTITY button.syncKeyBackup.save.accesskey  "H">
 <!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
 
-<!ENTITY pairDevice.title.label             "Pair a Device">
+<!ENTITY pairDevice.title.label             "Oanisha Kifaa">
 <!ENTITY addDevice.showMeHow.label          "Nionyeshe jinsi.">
 <!ENTITY addDevice.dontHaveDevice.label     "Sina kifaa hicho">
-<!ENTITY pairDevice.setup.description.label  "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
+<!ENTITY pairDevice.setup.description.label  "Kuamilisha, chagua &#x0022;Oanisha Kifaa&#x0022; kwenye kifaa chako kingine.">
 <!ENTITY addDevice.setup.enterCode.label    "Kisha, ingiza kodi hii:">
-<!ENTITY pairDevice.dialog.description.label "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
+<!ENTITY pairDevice.dialog.description.label "Kuamilisha kifaa chako, chagua &#x0022; Sanidi Ulandanishi&#x0022; kwenye kifaa.">
 <!ENTITY addDevice.dialog.enterCode.label   "Ingiza kodi ambayo inatolewa na kifaa:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Tafadhali jaribu tena.">
 <!ENTITY addDevice.dialog.successful.label  "Kifaa kimefanikiwa kuongezwa. Ulandanishaji wa mara ya kwanza unaweza kuchukua dakika chache na utamalizikia kwenye mandharinyuma.">
-<!ENTITY addDevice.dialog.recoveryKey.label     "To activate your device you will need to enter your Recovery Key. Please print or save this key and take it with you.">
+<!ENTITY addDevice.dialog.recoveryKey.label     "Ili kuamilisha kifaa chako utahitaji kuingiza Ufunguo wako wa Uokoaji. Tafadhali chapisha au hifadhi ufunguo huu na uende nao.">
 <!ENTITY addDevice.dialog.connected.label   "Kifaa Kimeunganishwa">
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "Ingia">
-<!ENTITY existingRecoveryKey.description "You can get a copy of your Recovery Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Recovery Key&#x0022; under &#x0022;Manage Account&#x0022;.">
+<!ENTITY existingRecoveryKey.description "Unaweza kupata nakala yako ya Ufunguo wa Uokoaji kwa kwenda kwa &syncBrand.shortName.label;Chaguo kwenye kifaa chako kingine, na kuchagua  &#x0022;Ufunguo Wangu wa Uokoaji &#x0022; chini ya &#x0022;Dhibiti Akaunti&#x0022;">
 <!ENTITY verifying.label              "Kudhibitisha...">
 <!ENTITY resetPassword.label          "Weka upya Nywila">
 <!ENTITY resetSyncKey.label           "Nimepoteza kifaa changu kingine.">
@@ -88,6 +88,8 @@
 <!ENTITY engine.passwords.accesskey "N">
 <!ENTITY engine.prefs.label         "Mapendeleo">
 <!ENTITY engine.prefs.accesskey     "o">
+<!ENTITY engine.addons.label        "Vifaa vya nyongeza">
+<!ENTITY engine.addons.accesskey    "V">
 
 <!ENTITY choice2.merge.main.label      "Changanya data ya tarakilishi hii na data yangu ya &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Imependekezwa:">

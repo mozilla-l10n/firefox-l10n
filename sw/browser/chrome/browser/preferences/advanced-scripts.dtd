@@ -40,8 +40,8 @@
 
 <!ENTITY allowScripts.label             "Ruhusu hati ku:">
 
-<!ENTITY moveResizePopupWindows.label     "Move or resize popup windows">
-<!ENTITY moveResizePopupWindows.accesskey "M">
+<!ENTITY moveResizePopupWindows.label     "Hamisha au badili ukubwa wa dirisha za kidukizo zilizopo">
+<!ENTITY moveResizePopupWindows.accesskey "H">
 <!ENTITY raiseLowerWindows.label        "Inua au shusha dirisha">
 <!ENTITY raiseLowerWindows.accesskey    "I">
 <!ENTITY disableContextMenus.label      "Lemaza au badilisha menyu muktadha">

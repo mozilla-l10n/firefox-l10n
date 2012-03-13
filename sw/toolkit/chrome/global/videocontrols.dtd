@@ -2,21 +2,30 @@
 <!ENTITY playButton.pauseLabel "Sitisha">
 <!ENTITY muteButton.muteLabel "Nyamazisha">
 <!ENTITY muteButton.unmuteLabel "Usinyamazishe">
+<!ENTITY fullscreenButton.enterfullscreenlabel "Skrini Nzima">
+<!ENTITY fullscreenButton.exitfullscreenlabel "Toka kwa Skrini Nzima">
 
 <!ENTITY stats.media "Midia">
 <!ENTITY stats.size "Ukubwa">
-<!ENTITY stats.activity "Activity">
-<!ENTITY stats.activityPaused "Paused">
-<!ENTITY stats.activityPlaying "Playing">
-<!ENTITY stats.activityEnded "Ended">
-<!ENTITY stats.activitySeeking "(seeking)">
-<!ENTITY stats.volume "Volume">
-<!ENTITY stats.channels "Channels">
-<!ENTITY stats.sampleRate "Sample Rate">
-<!ENTITY stats.framesParsed "Frames parsed">
-<!ENTITY stats.framesDecoded "Frames decoded">
-<!ENTITY stats.framesPresented "Frames presented">
-<!ENTITY stats.framesPainted "Frames painted">
+<!ENTITY stats.activity "Shughuli">
+<!ENTITY stats.activityPaused "Imesitishwa">
+<!ENTITY stats.activityPlaying "Inacheza">
+<!ENTITY stats.activityEnded "Imekamilika">
+<!ENTITY stats.activitySeeking "(inatafuta)">
+<!ENTITY stats.volume "Sauti">
+<!ENTITY stats.channels "Idhaa">
+<!ENTITY stats.sampleRate "Sampuli Ukadiriaji">
+<!ENTITY stats.framesParsed "Fremu zilizochanganuliwa">
+<!ENTITY stats.framesDecoded "Fremu zilizosimbuliwa">
+<!ENTITY stats.framesPresented "Fremu zilizoonyeshwa">
+<!ENTITY stats.framesPainted "Fremu zilizopakwa rangi">
+
+<!ENTITY error.aborted "Upakiaji wa video umesitishwa.">
+<!ENTITY error.network "Kucheza tena video kumeghairiwa kwa sababu ya hitilafu ya mtandao.">
+<!ENTITY error.decode "Video haiwezi kuchezwa kwa sababu faili imeharibika.">
+<!ENTITY error.srcNotSupported "Fomati ya video au aina ya MIME haiauniwi.">
+<!ENTITY error.noSource2 "Hakuna video iliyo na fomati inayoauniwa na aina ya MIME imepatikana.">
+<!ENTITY error.generic "Kucheza tena video kumeghairiwa kwa sababu ya hitilafu isiyojulikana.">
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be

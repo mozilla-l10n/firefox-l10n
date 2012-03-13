@@ -1,13 +1,13 @@
-<!ENTITY  updateWizard.title              "&brandShortName; Kisasaisho">
+<!ENTITY  updateWizard.title              "&brandShortName; Sasisha">
 
 <!ENTITY  offline.title                   "&brandShortName; inafanya kazi nje ya mtandao">
-<!ENTITY  offline.description             "&brandShortName; huhitaji kwenda mtandaoni ili kuona kama visasaisho 
-vinapatikana kwa vifaa vyako vya nyongeza kutangamana na toleo 
+<!ENTITY  offline.description             "&brandShortName; inahitaji kwenda mtandaoni ili kuona kama visasaisho 
+vinapatikana kwa programu jalizi zako ili kuzifanya kutangamana na toleo 
 hili.">
 <!ENTITY  offline.toggleOffline.label     "Nenda mtandaoni sasa.">
 <!ENTITY  offline.toggleOffline.accesskey "N">
 
-<!ENTITY  mismatch.win.title              "Vifaa vya nyongeza Visivyotangamana">
+<!ENTITY  mismatch.win.title              "Programu jalizi zisizo Tanagamana">
 <!ENTITY  mismatch.top.label              "Vifaa vifuatavyo vya nyongeza sitangamanifu na toleo hili la 
 &brandShortName; na vimelemazwa:">
 <!ENTITY  mismatch.bottom.label           "&brandShortName; yaweza kukagua kama kuna matoleo tangamanifu 
@@ -21,8 +21,8 @@ kati ya vifaa hivi vya nyongeza vinavyopatikana.">
 <!ENTITY  found.top.label                 "Chagua vifaa vya nyongeza ungependa kusakinisha:">
 <!ENTITY  found.disabledXPinstall.label   "Visasaisho hivi haviwezi kusakinishwa kwa sababu usakinishaji wa programu kwa sasa 
 umelemazwa. Unaweza kubadilisha mpangiliio huu hapa chini.">
-<!ENTITY  found.enableXPInstall.label     "Allow websites to install software">
-<!ENTITY  found.enableXPInstall.accesskey "A">
+<!ENTITY  found.enableXPInstall.label     "Ruhusu tovuti kusakinisha programu">
+<!ENTITY  found.enableXPInstall.accesskey "R">
 
 <!ENTITY  installing.wizard.title         "Kusakinisha Vifaa vya nyongeza Tangamanifu">
 <!ENTITY  installing.top.label            "Kupakua na kusakinisha visasaisho vya vifaa vyako vya nyongeza…">

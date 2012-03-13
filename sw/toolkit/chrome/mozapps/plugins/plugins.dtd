@@ -21,7 +21,7 @@
 <!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; huhitaji kuwashwa tena ili programu-jalizi zifanye kazi.">
 
 <!ENTITY missingPlugin                                       "Programu-jalizi inahitajika ili kuonyesha maudhui haya.">
-<!ENTITY clickToPlayPlugin                                   "Tap here to activate plugin.">
+<!ENTITY clickToPlayPlugin                                   "Gonga hapa kuamilisha programu jalizi.">
 <!ENTITY disabledPlugin                                      "Programu-jalizi hii imelemazwa.">
 <!ENTITY blockedPlugin.label                                 "Programu-jalizi hii imezuiliwa kwa ulinzi wako.">
 
@@ -34,8 +34,8 @@
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "Pakua tena ukurasa">
 <!ENTITY reloadPlugin.post                                   "kujaribu tena.">
-<!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.checkbox                                     "…and send crash report">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "Tuma ripoti ya kukwama">
 <!ENTITY report.submitting                                   "Kutuma ripoti…">
 <!ENTITY report.submitted                                    "Ripoti ya kukwama imetumwa.">
 <!ENTITY report.disabled                                     "Kutuma ripoti ya kukwama kumelemazwa.">
