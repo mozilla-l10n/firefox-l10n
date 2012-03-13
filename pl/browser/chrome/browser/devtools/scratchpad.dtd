@@ -37,14 +37,6 @@
 <!ENTITY editMenu.label               "Edycja">
 <!ENTITY editMenu.accesskey           "E">
 
-<!ENTITY undoCmd.label                "Cofnij">
-<!ENTITY undoCmd.key                  "Z">
-<!ENTITY undoCmd.accesskey            "C">
-
-<!ENTITY redoCmd.label                "Przywróć">
-<!ENTITY redoCmd.key                  "Y">
-<!ENTITY redoCmd.accesskey            "P">
-
 <!ENTITY gotoLineCmd.label            "Przeskocz do linii…">
 <!ENTITY gotoLineCmd.key              "J">
 <!ENTITY gotoLineCmd.accesskey        "s">
