@@ -224,8 +224,6 @@ can reach it easily. -->
 <!ENTITY scratchpad.keytext           "F4">
 
 <!ENTITY inspectPanelTitle.label        "HTML">
-<!ENTITY inspectButton.label            "Zbadaj">
-<!ENTITY inspectButton.accesskey        "b">
 <!ENTITY inspectCloseButton.tooltiptext "Zamknij Inspektora">
 
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
