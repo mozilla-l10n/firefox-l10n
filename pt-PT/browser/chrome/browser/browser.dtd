@@ -213,8 +213,6 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectButton.label            "Inspeccionar">
-<!ENTITY inspectButton.accesskey        "I">
 <!ENTITY inspectCloseButton.tooltiptext "Fechar Inspetor">
 
 <!ENTITY inspectorHTMLCopyInner.label       "Copiar Inner HTML">

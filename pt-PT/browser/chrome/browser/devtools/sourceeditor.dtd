@@ -10,22 +10,6 @@
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
 
-<!ENTITY undoCmd.label             "Anular">
-<!ENTITY undoCmd.accesskey         "u">
-<!ENTITY cutCmd.label              "Cortar">
-<!ENTITY cutCmd.accesskey          "t">
-<!ENTITY copyCmd.label             "Copiar">
-<!ENTITY copyCmd.accesskey         "C">
-<!ENTITY pasteCmd.label            "Colar">
-<!ENTITY pasteCmd.accesskey        "o">
-<!ENTITY deleteCmd.label           "Apagar">
-<!ENTITY deleteCmd.accesskey       "p">
-<!ENTITY selectAllCmd.label        "Selecionar tudo">
-<!ENTITY selectAllCmd.accesskey    "a">
-<!ENTITY findCmd.label             "Procurar…">
-<!ENTITY findCmd.accesskey         "r">
-<!ENTITY findAgainCmd.label        "Procurar de novo…">
-<!ENTITY findAgainCmd.accesskey    "v">
 <!ENTITY gotoLineCmd.label         "Saltar para a linha…">
 <!ENTITY gotoLineCmd.key           "J">
 <!ENTITY gotoLineCmd.accesskey     "S">
