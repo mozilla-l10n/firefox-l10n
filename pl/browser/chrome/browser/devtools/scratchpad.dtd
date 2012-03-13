@@ -37,10 +37,6 @@
 <!ENTITY editMenu.label               "Edycja">
 <!ENTITY editMenu.accesskey           "E">
 
-<!ENTITY gotoLineCmd.label            "Przeskocz do linii…">
-<!ENTITY gotoLineCmd.key              "J">
-<!ENTITY gotoLineCmd.accesskey        "s">
-
 <!ENTITY run.label                    "Uruchom">
 <!ENTITY run.accesskey                "U">
 <!ENTITY run.key                      "r">
