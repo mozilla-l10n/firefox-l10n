@@ -1,5 +1,5 @@
 <!ENTITY window.title "Velkommen til &brandShortName;">
-<!ENTITY header.label "Vil du have en ny mailadresse hos &brandShortName;?">
+<!ENTITY header.label "Vil du have en ny mailadresse?">
 <!ENTITY other.languages "Vi viser kun de udbydere, der tilbyder adresser i dit område. Klik her for at få vist alle udbydere.">
 <!ENTITY error.line1 "Vi kan desværre ikke finde nogle tilbudte mailadresser.">
 <!ENTITY error.line2 "Du kan prøve at søge på aliasser eller med andre søgeord for at finde flere adresser.">
