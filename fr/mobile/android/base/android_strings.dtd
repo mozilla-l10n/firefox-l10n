@@ -27,6 +27,7 @@
 <!ENTITY awesomebar_default_text "Recherche ou adresse">
 
 <!ENTITY remote_tabs "Onglets synchronisés">
+<!ENTITY remote_tabs_show_all "Afficher tous les onglets">
 
 <!ENTITY bookmark "Marquer cette page">
 <!ENTITY bookmark_added "Marque-page ajouté">
