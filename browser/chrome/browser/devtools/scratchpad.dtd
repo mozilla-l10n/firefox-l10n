@@ -43,18 +43,6 @@
 <!ENTITY editMenu.label               "Bewerken">
 <!ENTITY editMenu.accesskey           "w">
 
-<!ENTITY undoCmd.label                "Ongedaan maken">
-<!ENTITY undoCmd.key                  "Z">
-<!ENTITY undoCmd.accesskey            "O">
-
-<!ENTITY redoCmd.label                "Opnieuw uitvoeren">
-<!ENTITY redoCmd.key                  "Y">
-<!ENTITY redoCmd.accesskey            "u">
-
-<!ENTITY gotoLineCmd.label            "Spring naar regel…">
-<!ENTITY gotoLineCmd.key              "S">
-<!ENTITY gotoLineCmd.accesskey        "J">
-
 <!ENTITY run.label                    "Uitvoeren">
 <!ENTITY run.accesskey                "U">
 <!ENTITY run.key                      "r">
