@@ -217,15 +217,20 @@ can reach it easily. -->
 <!ENTITY inspectButton.label            "Lambula">
 <!ENTITY inspectButton.accesskey        "L">
 <!ENTITY inspectCloseButton.tooltiptext "Galawo Omukebezi">
-<!ENTITY inspect3DButton.label        "3D">
-<!ENTITY inspect3DButton.accesskey    "M">
+<!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
+  -  alternate view for the Inspector, creating a 3D visualization of the
+  -  webpage. -->
+
+<!ENTITY inspect3DViewButton.label     "Endabika mu 3D">
+<!ENTITY inspect3DViewButton.accesskey "b">
+
 <!ENTITY inspectStyleButton.label     "Nkola">
 <!ENTITY inspectStyleButton.accesskey "N">
 <!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
   -  in the Tools menu. -->
 
-<!ENTITY styleeditor.label            "Style Editor">
-<!ENTITY styleeditor.accesskey        "y">
+<!ENTITY styleeditor.label            "Wokyusiza Enfanana">
+<!ENTITY styleeditor.accesskey        "k">
 <!ENTITY styleeditor.keycode          "VK_F7">
 <!ENTITY styleeditor.keytext          "F7">
 

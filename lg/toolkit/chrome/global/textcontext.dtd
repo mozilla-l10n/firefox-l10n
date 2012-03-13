@@ -13,6 +13,8 @@
 
 <!ENTITY spellAddToDictionary.label "Gatta ku Nkuluze">
 <!ENTITY spellAddToDictionary.accesskey "u">
+<!ENTITY spellUndoAddToDictionary.label "Zayo Okwongera Mu Nkuluze">
+<!ENTITY spellUndoAddToDictionary.accesskey "a">
 <!ENTITY spellCheckEnable.label "Kebera Empandiika">
 <!ENTITY spellCheckEnable.accesskey "E">
 <!ENTITY spellNoSuggestions.label "(Tewali Mpandiika Eteeseddwako)">

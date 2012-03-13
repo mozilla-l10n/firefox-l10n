@@ -1,5 +1,5 @@
 <!ENTITY dialog.title             "Manyiza Akabawo Kebikozesebwa">
-<!ENTITY dialog.style             "width: 86ch; height: 36em;">
+<!ENTITY dialog.dimensions        "width: 92ch; height: 36em;">
 <!ENTITY instructions.description "Osobola okugata oba okujjako ekintu nga osikka ku oba kuva ku kabawo ke bikozesebwa.">
 <!ENTITY show.label               "Laga:">
 <!ENTITY iconsAndText.label       "Akakoni ne Kiwandiiko">

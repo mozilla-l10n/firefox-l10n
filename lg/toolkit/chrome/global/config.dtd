@@ -43,8 +43,8 @@
 <!ENTITY aboutWarningButton.label "Jjakuba wegendereze, nkusubiza!">
 <!ENTITY aboutWarningCheckbox.label "Langa akalabula kano edda">
 
-<!ENTITY searchPrefs.label "Search:">
-<!ENTITY searchPrefs.accesskey "r">
+<!ENTITY searchPrefs.label "Noonya:">
+<!ENTITY searchPrefs.accesskey "n">
 <!ENTITY focusSearch.key "r">
 <!-- Columns -->
 

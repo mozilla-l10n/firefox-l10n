@@ -1,8 +1,8 @@
 <!ENTITY aboutAddons.title                      "Omukulu w'ebyongerwako">
-<!ENTITY aboutAddons.header                     "Ebigattibwako">
+<!ENTITY aboutAddons.header2                    "Ebyongerwako Byo">
 <!ENTITY aboutAddons.options                    "Okweroboza">
 
 <!ENTITY addonAction.enable                     "Sobozesa">
-<!ENTITY addonAction.disable                    "Disable">
-<!ENTITY addonAction.uninstall                  "Uninstall">
+<!ENTITY addonAction.disable                    "Jjako">
+<!ENTITY addonAction.uninstall                  "Jjamu">
 <!ENTITY addonAction.cancel                     "Sazaamu">

@@ -1,5 +1,5 @@
 <!ENTITY aboutPage.title                        "Ebikwata ku &brandShortName;">
-<!ENTITY aboutPage.checkForUpdates.link         "Check for Updates »">
+<!ENTITY aboutPage.checkForUpdates.link         "Kebera Ebituusa »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Noonya etuukaganya…">
 <!ENTITY aboutPage.checkForUpdates.none         "Tewali Kituusa Kiriwo">
 <!ENTITY aboutPage.checkForUpdates.found        "Ekituusa Wekiri">
@@ -9,4 +9,4 @@
 <!ENTITY aboutPage.rights.label                 "Manya Ebisanyizo Bbyo">
 <!ENTITY aboutPage.relNotes.label               "Ebiwandiko Byenfulumya">
 <!ENTITY aboutPage.credits.label                "Abantu abakoze bino">
-<!ENTITY aboutPage.license.label                "Licensing Information">
+<!ENTITY aboutPage.license.label                "Ebikwata ku lisinsi">

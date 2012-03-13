@@ -34,8 +34,8 @@
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "Tandika omuko buto">
 <!ENTITY reloadPlugin.post                                   "kuddamu kugezaako">
-<!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.checkbox                                     "…era owereze alipota yokuzikirira">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "Weereza alipoota ya mangu">
 <!ENTITY report.submitting                                   "Alipoota Eweerezebwa…">
 <!ENTITY report.submitted                                    "Alipoota ya mangu ewerezeddwa">
 <!ENTITY report.disabled                                     "Okuweereza lipoota eza amangu kunafuyiziddwa">

@@ -4,10 +4,10 @@
 <!ENTITY  no_space_to_start_error "Tewali banga limala &brandShortName; okutandika.">
 <!ENTITY  error_loading_file "Wabadewo ensobi mukutika fayiro ezetagisa okudukanya &brandShortName;">
 
-<!ENTITY  awesomebar_all_pages_title "Top Sites">
-<!ENTITY  awesomebar_bookmarks_title "Bookmarks">
+<!ENTITY  awesomebar_all_pages_title "Ebibanja Ebyawagulu">
+<!ENTITY  awesomebar_bookmarks_title "Obulambe">
 <!ENTITY  awesomebar_history_title "Ebyafaayo">
-<!ENTITY  awesomebar_search_engine "Search for \&quot;&#037;s\&quot;">
+<!ENTITY  awesomebar_search_engine "Noonya \&quot;&#037;s\&quot;">
 
 <!ENTITY  crash_reporter_title "Akalopa Okuzikirira kwa &brandShortName; ">
 <!ENTITY  crash_message "&brandShortName; ezikiridde. Awadirira wo walina okuba ku lukala lwa &brandShortName; Tandika omuko nga kompyuta etandise nate.">
@@ -27,71 +27,84 @@
 
 <!ENTITY awesomebar_default_text "Tekamu Ekyokunoonya oba Endagiriro">
 
-<!ENTITY bookmarks_title "Bookmarks">
-<!ENTITY bookmark_add "Akalambe">
-<!ENTITY bookmark_remove "Jjawo">
+<!ENTITY bookmark "Akalambe">
 <!ENTITY bookmark_added "Akalambe kongezeddwa">
-<!ENTITY bookmark_removed "Bookmark removed">
+<!ENTITY bookmark_removed "Akalambe kagidwawo">
 
-<!ENTITY history_today_section "Today">
-<!ENTITY history_yesterday_section "Yesterday">
-<!ENTITY history_week_section "7 days ago">
-<!ENTITY history_older_section "Older than 7 days">
+<!ENTITY history_today_section "Leero">
+<!ENTITY history_yesterday_section "Jjo">
+<!ENTITY history_week_section "ennaku 7 eziyise">
+<!ENTITY history_older_section "Ebisuuse munnaku 7">
 
 <!ENTITY reload "Ddamu otikke">
-<!ENTITY forward "Forward">
+<!ENTITY forward "Mumasso">
 
 <!ENTITY new_tab "Awaddirira Awapya">
+<!ENTITY new_tab_opened "Awadirira Awapya Waguddwa">
 
-<!ENTITY settings "Settings">
-<!ENTITY settings_title "Settings">
-<!ENTITY pref_category_general "General">
+<!ENTITY settings "Enteegeka">
+<!ENTITY settings_title "Enteegeka">
+<!ENTITY pref_category_general "Awaamu">
 <!ENTITY pref_category_privacy "Ebyekyama &amp; Ebyokwerinda">
 <!ENTITY pref_category_content "Ebirimu">
-<!ENTITY pref_about_firefox "About &brandShortName;">
+<!ENTITY pref_about_firefox "Ebikwata ku &brandShortName;">
 <!ENTITY pref_do_not_track "Gamba ebibanja bileme okunumba">
 <!ENTITY pref_telemetry "Wwayo data we'enkola">
 <!ENTITY pref_remember_signons "Jjukira Obusumuluzo">
-<!ENTITY pref_cookies "Enable cookies">
-<!ENTITY pref_char_encoding "Laga enzinga ye nukuta">
-<!ENTITY pref_clear_history "Clear history">
-<!ENTITY pref_clear_history_confirm "Browsing history will be deleted">
+<!ENTITY pref_cookies "Tandika kukizi">
+<!ENTITY pref_char_encoding "Ennyukuta enkusike">
+<!ENTITY pref_char_encoding_on "Laga Enyanjula">
+<!ENTITY pref_char_encoding_off "Tolaga Enyanjula">
+<!ENTITY pref_clear_history "Jjawo ebyafayo">
+<!ENTITY pref_clear_history_confirm "Ebifudde mukunoonya bijja kusimulwa">
 <!ENTITY pref_clear_private_data "Jjamu bwino owobwananyini">
-<!ENTITY pref_clear_private_data_confirm "Browsing settings, including passwords and cookies, will be deleted">
-<!ENTITY pref_enable_plugins "Enable plugins">
-<!ENTITY pref_enable_plugins_yes "Yee">
-<!ENTITY pref_enable_plugins_tap_to_play "Tap to play">
-<!ENTITY pref_enable_plugins_no "Nedda">
-<!ENTITY pref_font_size "Font size">
-<!ENTITY pref_font_size_small "Small">
-<!ENTITY pref_font_size_medium "Medium">
-<!ENTITY pref_font_size_large "Large">
-<!ENTITY pref_font_size_xlarge "Extra Large">
+<!ENTITY pref_clear_private_data_confirm "Entegeka yokunoonya, nga mwotwalide nobusumuluzo nebu kukizi bujja kusangulwa">
+<!ENTITY pref_plugins "Ebyongerwako">
+<!ENTITY pref_plugins_enabled "Kisobozisa">
+<!ENTITY pref_plugins_tap_to_play "Konna okuzanya">
+<!ENTITY pref_plugins_disabled "Kisazirwamu">
+<!ENTITY pref_text_size "Obunene bw'enukuta">
+<!ENTITY pref_font_size_tiny "Ntononyo">
+<!ENTITY pref_font_size_small "Entono">
+<!ENTITY pref_font_size_medium "Wakati">
+<!ENTITY pref_font_size_large "Enene">
+<!ENTITY pref_font_size_xlarge "Enene Ddala">
 <!ENTITY pref_use_master_password "Kozesa ekisumuluzo ekifuga byonna">
+<!ENTITY pref_sync "Tusaganya">
 
 <!ENTITY quit "Vaayo">
 
 <!ENTITY addons "Ebigattibwako">
-<!ENTITY downloads "Downloads">
+<!ENTITY downloads "Ebiwanulwa">
+<!ENTITY char_encoding "Ennyukuta Enkusike">
 
-<!ENTITY share "Share">
-<!ENTITY save_as_pdf "Save as PDF">
-<!ENTITY agent_request_desktop "Request Desktop Site">
-<!ENTITY agent_request_mobile "Request Mobile Site">
+<!ENTITY share "Gaabana">
+<!ENTITY save_as_pdf "Tereka nga PDF">
 
-<!ENTITY contextmenu_open_new_tab "Open in New Tab">
+<!ENTITY contextmenu_open_new_tab "Ggulawo mu Waddirira Awapya">
+<!ENTITY contextmenu_remove_bookmark "Jjawo">
 <!ENTITY contextmenu_add_to_launcher "Yongera ku Sikulini Yeka">
-<!ENTITY contextmenu_share "Share">
+<!ENTITY contextmenu_share "Gaabana">
 
-<!ENTITY site_settings_title        "Clear Site Settings">
-<!ENTITY site_settings_cancel       "Cancel">
+<!ENTITY site_settings_title        "Jjawo Entegeka za Ekibanja">
+<!ENTITY site_settings_cancel       "Sazaamu">
 <!ENTITY site_settings_clear        "Jjawo">
-<!ENTITY site_settings_no_settings  "There are no settings to clear.">
+<!ENTITY site_settings_no_settings  "Tewali entegeka zakujjawo.">
 
-<!ENTITY masterpassword_create_title "Create Master Password">
+<!ENTITY masterpassword_create_title "Tonda Akasumulizo Akagula Woona">
 <!ENTITY masterpassword_remove_title "Gjamu Akasumulizo Akakuu">
-<!ENTITY masterpassword_password "Password">
-<!ENTITY masterpassword_confirm "Confirm password">
+<!ENTITY masterpassword_password "Ekisumuluzo">
+<!ENTITY masterpassword_confirm "Kakasa akasumuluzo">
 
 <!ENTITY button_ok "OK">
-<!ENTITY button_cancel "Cancel">
+<!ENTITY button_cancel "Sazaamu">
+
+<!ENTITY abouthome_addons_title "Ebyongerwako byo eby &brandShortName;">
+<!ENTITY abouthome_addons_browse "Noonya ebyongerwako by &brandShortName;">
+<!ENTITY abouthome_last_tabs_title "Awadirira wo okuva lwewasembyeyo">
+<!ENTITY abouthome_last_tabs_open "Gulawo awadirira wonna awabadewo">
+<!ENTITY abouthome_top_sites_title "Ebibanja ebisufu">
+<!ENTITY abouthome_top_sites_browse "Noonya ebibanja byo byoona ebisufu">
+<!ENTITY abouthome_no_top_sites "Tolina bibanja bisufu byoona. Koona ku Kabawo ko Omutwe okutandika okunoonya.">
+<!ENTITY abouthome_about_sync "Tegeka Firefox Sync okutuka mu bulambe, ebifudeyo na awadirira okuyita mu byuma ebirala">
+<!ENTITY abouthome_sync_bold_name "Okutusaganya Firefox">

@@ -4,7 +4,6 @@
 <!ENTITY     props.path.label               "Ekkubo:">
 <!ENTITY     props.secure.label             "Weereza Kulwa:">
 <!ENTITY     props.expires.label            "Kiyitako ennaku:">
-<!ENTITY     props.policy.label             "Enkola:"> 
 
 <!ENTITY     button.allow.label             "Kkiriza">
 <!ENTITY     button.allow.accesskey         "K">
