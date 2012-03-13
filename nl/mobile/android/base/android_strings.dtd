@@ -33,6 +33,7 @@
 <!ENTITY bookmark "Bladwijzer">
 <!ENTITY bookmark_added "Bladwijzer toegevoegd">
 <!ENTITY bookmark_removed "Bladwijzer verwijderd">
+<!ENTITY bookmark_updated "Bladwijzer bijgewerkt">
 
 <!ENTITY history_today_section "Vandaag">
 <!ENTITY history_yesterday_section "Gisteren">
@@ -89,6 +90,12 @@
 <!ENTITY contextmenu_remove_bookmark "Verwijderen">
 <!ENTITY contextmenu_add_to_launcher "Toevoegen aan thuisscherm">
 <!ENTITY contextmenu_share "Delen">
+<!ENTITY contextmenu_edit_bookmark "Bewerken">
+
+<!ENTITY bookmark_edit_title "Bladwijzer bewerken">
+<!ENTITY bookmark_edit_name "Naam">
+<!ENTITY bookmark_edit_location "Locatie">
+<!ENTITY bookmark_edit_keyword "Sleutelwoord">
 
 <!ENTITY site_settings_title        "Website-instellingen wissen">
 <!ENTITY site_settings_cancel       "Annuleren">
