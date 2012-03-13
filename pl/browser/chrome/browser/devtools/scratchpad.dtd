@@ -45,38 +45,6 @@
 <!ENTITY redoCmd.key                  "Y">
 <!ENTITY redoCmd.accesskey            "P">
 
-<!ENTITY cutCmd.label                 "Wytnij">
-<!ENTITY cutCmd.key                   "X">
-<!ENTITY cutCmd.accesskey             "W">
-
-<!ENTITY copyCmd.label                "Kopiuj">
-<!ENTITY copyCmd.key                  "C">
-<!ENTITY copyCmd.accesskey            "K">
-
-<!ENTITY pasteCmd.label               "Wklej">
-<!ENTITY pasteCmd.key                 "V">
-<!ENTITY pasteCmd.accesskey           "e">
-
-<!ENTITY selectAllCmd.label           "Zaznacz wszystko">
-<!ENTITY selectAllCmd.key             "A">
-<!ENTITY selectAllCmd.accesskey       "Z">
-
-<!ENTITY findCmd.label                "Znajdź…">
-<!ENTITY findCmd.key                  "F">
-<!ENTITY findCmd.accesskey            "n">
-
-<!ENTITY findAgainCmd.label           "Znajdź ponownie…">
-<!-- LOCALIZATION NOTE (findAgainCmd.key): This key is used only on Macs.
-  -  Windows and Linux builds use the F3 key which is not localizable on purpose.
-  -->
-<!ENTITY findAgainCmd.key             "G">
-<!ENTITY findAgainCmd.accesskey       "j">
-<!-- LOCALIZATION NOTE (findPreviousCmd.key): This key is used only on Macs.
-  -  Windows and Linux builds use the Shift-F3 key which is not localizable on
-  -  purpose.
-  -->
-<!ENTITY findPreviousCmd.key          "G">
-
 <!ENTITY gotoLineCmd.label            "Przeskocz do linii…">
 <!ENTITY gotoLineCmd.key              "J">
 <!ENTITY gotoLineCmd.accesskey        "s">
