@@ -33,6 +33,7 @@
 <!ENTITY bookmark "Marcador">
 <!ENTITY bookmark_added "Marcador engadido">
 <!ENTITY bookmark_removed "Marcador eliminado">
+<!ENTITY bookmark_updated "Actualizouse o marcador">
 
 <!ENTITY history_today_section "Hoxe">
 <!ENTITY history_yesterday_section "Onte">
@@ -89,6 +90,12 @@
 <!ENTITY contextmenu_remove_bookmark "Eliminar">
 <!ENTITY contextmenu_add_to_launcher "Engadir á pantalla de inicio">
 <!ENTITY contextmenu_share "Compartir">
+<!ENTITY contextmenu_edit_bookmark "Editar">
+
+<!ENTITY bookmark_edit_title "Editar marcador">
+<!ENTITY bookmark_edit_name "Nome">
+<!ENTITY bookmark_edit_location "Localización">
+<!ENTITY bookmark_edit_keyword "Palabra chave">
 
 <!ENTITY site_settings_title        "Limpar a configuración do sitio">
 <!ENTITY site_settings_cancel       "Cancelar">
