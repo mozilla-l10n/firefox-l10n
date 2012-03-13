@@ -263,6 +263,14 @@
 <!ENTITY selectAll.accesskey        "w">
 <!ENTITY attachFile.label           "Załącz plik">
 <!ENTITY attachFile.accesskey       "p">
+<!ENTITY attachCloud.label "Filelink…">
+<!ENTITY attachCloud.accesskey "F">
+<!ENTITY convertCloud.label "Przekształć…">
+<!ENTITY convertCloud.accesskey "r">
+<!ENTITY cancelUpload.label "Anuluj wgrywanie">
+<!ENTITY cancelUpload.accesskey "A">
+<!ENTITY convertRegularAttachment.label "Zwykły załącznik">
+<!ENTITY convertRegularAttachment.accesskey "Z">
 <!ENTITY attachPage.label           "Załącz stronę WWW…">
 <!ENTITY attachPage.accesskey       "W">
 

@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY addAccountDialog.title   "Filelink - konfiguracja">
+<!ENTITY addAccountDialog.menuTitle "Wybierz serwis przechowywania">
+<!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">
+<!ENTITY addAccountDialog.accountName.label "Nazwa konta:">
+<!ENTITY addAccountDialog.noAccountText "Obecna wersja programu &brandShortName; obsługuje konfigurację tylko jednego konta dla każdego serwisu przechowywania.">
+<!ENTITY addAccountDialog.createAccountText "Filelink pozwala wysyłać duże załączniki przy użyciu serwisów przechowywania plików. Możliwe jest dodanie istniejącego konta lub utworzenie nowego.">
+<!ENTITY addAccountDialog.authorizing "Sprawdzanie upoważnienia…">
+<!ENTITY addAccountDialog.error "Wystąpił błąd podczas konfigurowania konta!">
+<!ENTITY addAccountDialog.acceptButton.label "Konfiguruj konto">
