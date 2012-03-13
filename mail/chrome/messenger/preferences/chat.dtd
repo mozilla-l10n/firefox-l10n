@@ -13,7 +13,7 @@ sentence. -->
 <!ENTITY  reportIdleAfter.accesskey "P">
 <!ENTITY  idleTime "minutes d'inactivité">
 
-<!ENTITY  andSetStatusToAway.label "et indiquer que je suis absent avec le message suivant :">
+<!ENTITY  andSetStatusToAway.label "et indiquer mon absence avec le message suivant :">
 <!ENTITY  andSetStatusToAway.accesskey  "e">
 
 <!ENTITY  sendTyping.label "Envoyer les notifications de saisie dans mes conversations">

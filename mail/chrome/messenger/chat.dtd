@@ -2,7 +2,7 @@
 <!ENTITY offlineContactsHeader.label "Contacts déconnectés">
 <!ENTITY conversationsHeader.label "Conversations">
 <!ENTITY searchResultConversation.label "Résultats de recherche">
-<!ENTITY chat.noConv.title "Les conversations seront affcihées ici.">
+<!ENTITY chat.noConv.title "Les conversations seront affichées ici.">
 <!ENTITY chat.noConv.description "Utiliser la liste de contacts dans le panneau de gauche pour débuter une conversation.">
 <!ENTITY chat.noPreviousConv.description "&brandShortName; n'a pas de conversations stockées pour ce contact.">
 <!ENTITY chat.noAccount.title "Vous n'avez pas encore défini de compte de messagerie instantanée.">
