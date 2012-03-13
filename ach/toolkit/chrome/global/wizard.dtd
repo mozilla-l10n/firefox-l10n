@@ -1,20 +1,20 @@
-<!ENTITY  button-back-mac.label        "Dok Cen">
-<!ENTITY  button-back-mac.accesskey    "C">
+<!ENTITY  button-back-mac.label        "Dok Angec">
+<!ENTITY  button-back-mac.accesskey    "A">
 <!ENTITY  button-next-mac.label        "Mede anyim">
 <!ENTITY  button-next-mac.accesskey    "M">
 <!ENTITY  button-finish-mac.label      "Otum">
 <!ENTITY  button-cancel-mac.label      "Juk">
 
-<!ENTITY  button-back-unix.label       "Cen">
-<!ENTITY  button-back-unix.accesskey   "C">
+<!ENTITY  button-back-unix.label       "Angec">
+<!ENTITY  button-back-unix.accesskey   "A">
 <!ENTITY  button-next-unix.label       "Malubo kore">
 <!ENTITY  button-next-unix.accesskey   "M">
 <!ENTITY  button-finish-unix.label     "Tyeko">
 <!ENTITY  button-cancel-unix.label     "Juk">
 
-<!ENTITY  button-back-win.label        "&lt; Cen">
-<!ENTITY  button-back-win.accesskey    "C">
-<!ENTITY  button-next-win.label        "Malubo kor &gt;">
+<!ENTITY  button-back-win.label        "&lt; Angec">
+<!ENTITY  button-back-win.accesskey    "A">
+<!ENTITY  button-next-win.label        "Malubo kore &gt;">
 <!ENTITY  button-next-win.accesskey    "M">
 <!ENTITY  button-finish-win.label      "Tyek">
-<!ENTITY  button-cancel-win.label      "Jwik">
+<!ENTITY  button-cancel-win.label      "Juk">

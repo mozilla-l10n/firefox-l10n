@@ -6,10 +6,10 @@
 
 <!ENTITY backButton.label               "Cen">
 <!ENTITY backButton.accesskey           "C">
-<!ENTITY backButton.tooltip             "Dok cen pot karatac acel">
+<!ENTITY backButton.tooltip             "Dok cen pot buk acel">
 <!ENTITY forwardButton.label            "Anyim">
 <!ENTITY forwardButton.accesskey        "A">
-<!ENTITY forwardButton.tooltip          "Wot anyim pot karatac acel">
+<!ENTITY forwardButton.tooltip          "Wot anyim pot buk acel">
 <!ENTITY copyCmd.label                  "Lok">
 <!ENTITY copyCmd.accesskey              "L">
 <!ENTITY selectAllCmd.label             "Yer Weng">
@@ -17,9 +17,9 @@
 <!ENTITY goBackCmd.commandkey           "[">
 <!ENTITY goForwardCmd.commandkey        "]">
 <!ENTITY homeButton.label               "Gang">
-<!ENTITY homeButton.tooltip             "Wot i Kony Cako Pot karatac">
+<!ENTITY homeButton.tooltip             "Wot i Kony Cako Pot Buk">
 <!ENTITY printButton.label              "Goo">
-<!ENTITY printButton.tooltip            "Goo Pot karatac man">
+<!ENTITY printButton.tooltip            "Goo pot buk man">
 <!ENTITY closeWindow.commandkey         "W">
 
 <!ENTITY search.emptytext               "Yeny">

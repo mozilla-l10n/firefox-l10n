@@ -1,41 +1,41 @@
-<!ENTITY pluginWizard.title                                  "Gi rwako Gin makelo Tic">
+<!ENTITY pluginWizard.title                                  "Gin arwaka Gin makelo Tic">
 <!ENTITY pluginWizard.firstPage.title                        "Wajoli i &pluginWizard.title;">
 
-<!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; tye ka roto pi gi rwako matye…">
+<!ENTITY pluginWizard.checkingForPlugins.description.label   "&brandShortName; tye ka roto pi gi arwaka matye…">
 
-<!ENTITY pluginWizard.availablePluginsPage.title             "Gi rwako Makigolo Matye">
-<!ENTITY pluginWizard.availablePluginsPage.description.label "Gi rwako eni ni matye:">
-<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Dii Mukene ki iket gi rwko ma eni ni.">
-<!ENTITY pluginWizard.availablePluginsPage.installerUI       "Gi rwako mukene karwakene twero mito ngec ki boti ka in iketo.">
+<!ENTITY pluginWizard.availablePluginsPage.title             "Gin arwaka Makigamo Matye">
+<!ENTITY pluginWizard.availablePluginsPage.description.label "Gi arwaka eni ni tye:">
+<!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Dii Mukene me keto gin arawka magi.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI       "Gin arwaka mukene twero mito ngec mukene ki boti ikare me keto.">
 
-<!ENTITY pluginWizard.licensePage.title                      "Lanycec me Gi rwako">
+<!ENTITY pluginWizard.licensePage.title                      "Lanycec me Gin arwaka">
 <!ENTITY pluginWizard.licensePage.accept.label               "An aye.">
 <!ENTITY pluginWizard.licensePage.deny.label                 "Pe aye (gi rwako pe obi kete).">
 
-<!ENTITY pluginWizard.installPluginsPage.title               "Tye ka keto Gi rwako">
-<!ENTITY pluginWizard.installPluginsPage.description.label   "&brandShortName; tye ka keto gi rwako…">
+<!ENTITY pluginWizard.installPluginsPage.title               "Tye ka keto Gin arwaka">
+<!ENTITY pluginWizard.installPluginsPage.description.label   "&brandShortName; tye ka keto gin arwaka…">
 
-<!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; otyeko keto gi rwako ma onwo orwenyo:">
+<!ENTITY pluginWizard.finalPage.description.label            "&brandShortName; otyeko keto gin arwaka ma onwo orwenyo:">
 
-<!ENTITY pluginWizard.finalPage.moreInfo.label               "Nong ngec mukene makwako Gi rwako onyo in kikomi iyeny gi rwako ma onwo rwenyo.">
-<!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; mito nitit pi gi rwako me tic.">
+<!ENTITY pluginWizard.finalPage.moreInfo.label               "Nong ngec mukene makwako Gin arwaka onyo in kikomi iyeny gi arwaka ma onwo rwenyo.">
+<!ENTITY pluginWizard.finalPage.restart.label                "&brandShortName; mito ni ki cak nitit pi gin arwaka me tic.">
 
-<!ENTITY missingPlugin                                       "Gi rwako mite me yaro gin manonge iye kamaleng.">
-<!ENTITY clickToPlayPlugin                                   "Gwet kany me mino keto iyie.">
-<!ENTITY disabledPlugin                                      "Gi rwako ma eni ni kikwanyo woko.">
-<!ENTITY blockedPlugin.label                                 "Gi rwako ma eni ni ki gengo woko pi konyi gwoko.">
+<!ENTITY missingPlugin                                       "Gin arwaka mite me yaro gin manonge iye kamaleng.">
+<!ENTITY clickToPlayPlugin                                   "Gwet kany me mino gin arwaka cak tic.">
+<!ENTITY disabledPlugin                                      "Gin arwaka ma eni ni kikwanyo woko.">
+<!ENTITY blockedPlugin.label                                 "Gin arwaka ma eni ni ki gengo woko pi konyi gwoko.">
 
-<!ENTITY installPlugin                                       "Ket gi rwako…">
-<!ENTITY managePlugins                                       "Loo gi rwako…">
+<!ENTITY installPlugin                                       "Ket gin arwaka…">
+<!ENTITY managePlugins                                       "Loo gin arwaka…">
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
 
 <!ENTITY reloadPlugin.pre                                    "">
-<!ENTITY reloadPlugin.middle                                 "Cak doki pot karatac">
+<!ENTITY reloadPlugin.middle                                 "Cak doki pot buk">
 <!ENTITY reloadPlugin.post                                   " me temo doki.">
-<!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.checkbox                                     "…ki cwal ngec pi poto atura">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "Cwal ngec ikom bal">
 <!ENTITY report.submitting                                   "Tye ka cwalo ngec…">
 <!ENTITY report.submitted                                    "Ngec me bal kicwalo.">
 <!ENTITY report.disabled                                     "Ngec me bal kikwanyo woko.">

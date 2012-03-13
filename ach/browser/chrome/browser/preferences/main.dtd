@@ -2,17 +2,17 @@
 
 <!ENTITY startupPage.label         "Ka &brandShortName; Ocake:">
 <!ENTITY startupPage.accesskey     "O">
-<!ENTITY startupHomePage.label     "Nyut pot karatac me acaki mera">
-<!ENTITY startupBlankPage.label    "Nyut pot karatac ma tye nono">
+<!ENTITY startupHomePage.label     "Nyut pot buk me acaki mera">
+<!ENTITY startupBlankPage.label    "Nyut pot buk ma tye nono">
 <!ENTITY startupLastSession.label  "Nyut dirija mera ki tab cako iyi mukato">
 <!ENTITY restoreOnDemand.label     "Pe iket tab wa ka iyero">
 <!ENTITY restoreOnDemand.accesskey "i">
 
-<!ENTITY homepage.label            "Pot karatac magang:">
+<!ENTITY homepage.label            "Pot buk magang:">
 <!ENTITY homepage.accesskey        "m">
 <!ENTITY useCurrentPage.label      "Tii ki pot karatc ma kombedi">
 <!ENTITY useCurrentPage.accesskey  "p">
-<!ENTITY useMultiple.label         "Tii ki pot karatac ma kombedi">
+<!ENTITY useMultiple.label         "Tii ki pot buk ma kombedi">
 <!ENTITY chooseBookmark.label      "Tii ki Lagwokk…">
 <!ENTITY chooseBookmark.accesskey  "L">
 <!ENTITY restoreDefault.label      "Dwok wa ikit macon">
@@ -20,17 +20,17 @@
 
 <!ENTITY downloads.label     "Kwanyo">
 
-<!ENTITY showWhenDownloading.label     "Nyut pot karatac me kwanyo ka itye kakwanyo karatac">
+<!ENTITY showWhenDownloading.label     "Nyut pot buk me kwanyo ka itye kakwanyo buk">
 <!ENTITY showWhenDownloading.accesskey "m">
 <!ENTITY closeWhenDone.label "Ceg ka lakwany weng gutum">
 <!ENTITY closeWhenDone.accesskey "k">
-<!ENTITY saveTo.label "Gwok karatac iyi">
+<!ENTITY saveTo.label "Gwok buk iyi">
 <!ENTITY saveTo.accesskey "w">
 <!ENTITY chooseFolderWin.label        "Yeny…">
 <!ENTITY chooseFolderWin.accesskey    "e">
 <!ENTITY chooseFolderMac.label        "Yer…">
 <!ENTITY chooseFolderMac.accesskey    "r">
-<!ENTITY alwaysAsk.label "Jwii penya ka gwoko karatac">
+<!ENTITY alwaysAsk.label "Jwii penya ka gwoko buk">
 <!ENTITY alwaysAsk.accesskey "J">
 
 <!ENTITY addonsMgr.label               "Lamed">

@@ -2,7 +2,7 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "Wek pot karatac i yero rangi mamegi, akaka en ma an ayero ki malu eni">
+<!ENTITY  allowPagesToUse.label           "Wek pot buk i yero rangi mamegi, akaka en ma an ayero ki malu eni">
 <!ENTITY  allowPagesToUse.accesskey       "W">
 
 <!ENTITY  color                           "Nyig coc ki Yonge">
@@ -18,5 +18,5 @@
 <!ENTITY  links                           "Kala me Kubo">
 <!ENTITY  linkColor.label                 "Kakubo pi weng:">
 <!ENTITY  linkColor.accesskey             "a">
-<!ENTITY  visitedLinkColor.label          "Lakub ma gineno:">
+<!ENTITY  visitedLinkColor.label          "Lakub ma gilimo:">
 <!ENTITY  visitedLinkColor.accesskey      "L">

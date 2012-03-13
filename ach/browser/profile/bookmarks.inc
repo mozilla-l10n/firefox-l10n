@@ -6,13 +6,13 @@
 #define bookmarks_title Alama
 
 
-#define bookmarks_heading keto alama me pot karatac_wie madongo
+#define bookmarks_heading Alama Buk
 
 
 #define bookmarks_toolbarfolder Ket alama me Boc pi bar me Gitic
 
 
-#define bookmarks_toolbarfolder_description Med alama me pot karatac i boc wek i nen ni guyaro i bar me Gitic pi Alama me pot karatac
+#define bookmarks_toolbarfolder_description Med alama me pot buk i boc wek i nen ni guyaro i bar me Gitic pi Alama me Pot Buk
 
 
 # LOCALIZATION NOTE (getting_started):

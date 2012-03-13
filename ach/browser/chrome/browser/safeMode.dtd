@@ -36,26 +36,26 @@
 #endif
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY safeModeDialog.title         "&brandShortName; Kit maber">
+<!ENTITY safeModeDialog.title         "&brandShortName; Yoo me tic maber">
 <!ENTITY window.width                 "37em">
 
-<!ENTITY safeModeDescription.label    "&brandShortName; tye kangwec i Kit Mmaber, majuko tera mamegi pi  tutunu, wie, ki nyaa ne.">
-<!ENTITY safeModeDescription2.label   "Itwero mino mogo onyo alokaloka magi weng pi naka:">
+<!ENTITY safeModeDescription.label    "&brandShortName; Dong tye ka ngwec i yoo me tic maber.">
+<!ENTITY safeModeDescription2.label   "Itwero yubo mogo onyo iweko aloka loka magi ducu bedo matwal:">
 
 <!ENTITY disableAddons.label          "Juk woko add-ons weng">
 <!ENTITY disableAddons.accesskey      "J">
 
-<!ENTITY resetToolbars.label          "Ter gin tic ki gwok nitit">
+<!ENTITY resetToolbars.label          "Ter bar me gin tic ki kit me tic maber">
 <!ENTITY resetToolbars.accesskey      "T">
 
-<!ENTITY deleteBookmarks.label        "Jwa alama me pot karatac weng nikwanyo pi en ma igwoko">
+<!ENTITY deleteBookmarks.label        "Ruc alama buk weng nikwanyo pi lukony kor ni">
 <!ENTITY deleteBookmarks.accesskey    "a">
 
-<!ENTITY resetUserPrefs.label         "Ter lutic kwede weng nitit ma imito idwok &brandShortName; guti">
+<!ENTITY resetUserPrefs.label         "Ter odoco lutic kwede weng ma imaro bot &brandShortName; kit ma tye kwede">
 <!ENTITY resetUserPrefs.accesskey     "m">
 
 <!ENTITY restoreSearch.label          "Dwogo keno me guti pi yenyo">
 <!ENTITY restoreSearch.accesskey      "o">
 
-<!ENTITY changeAndRestartButton.label "Ket Alokaloka ki Ter nitit">
-<!ENTITY continueButton.label         "Mede i Kit maber">
+<!ENTITY changeAndRestartButton.label "Ket Alokaloka ci cak odoco">
+<!ENTITY continueButton.label         "Mede i yoo me tic maber">

@@ -13,7 +13,7 @@
 <!ENTITY networkPanel.requestBody                 "Kwa Kome">
 <!ENTITY networkPanel.requestFormData             "Kicwalo Tic me Fom">
 
-<!ENTITY networkPanel.responseHeaders             "Kwa Lawiye">
+<!ENTITY networkPanel.responseHeaders             "Dwok lok ma Lawiye">
 <!ENTITY networkPanel.responseBody                "Kom Dwoko lok">
 <!ENTITY networkPanel.responseBodyCached          "Tic ma kigwoko">
 <!ENTITY networkPanel.responseBodyUnknownType     "Kit Jami matye iyie Mape ngene">

@@ -1,7 +1,7 @@
 <!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "Kwany woko">
-<!ENTITY bringAllToFront.label    "Kel weng anyim">
-<!ENTITY zoomWindow.label         "Kwoto Ne">
+<!ENTITY bringAllToFront.label    "Kel gi Weng Anyim">
+<!ENTITY zoomWindow.label         "Kwoti">
 <!ENTITY windowMenu.label         "Dirija">
 
 <!ENTITY helpMenu.label           "Kony"> 
@@ -12,19 +12,19 @@
 <!ENTITY helpMenuWin.accesskey    "K">
 <!ENTITY aboutProduct.label       "Makwako &brandShortName;">
 <!ENTITY aboutProduct.accesskey   "M">
-<!ENTITY productHelp.label        "&brandShortName; Kony">
+<!ENTITY productHelp.label        "Kony me &brandShortName;">
 <!ENTITY productHelp.accesskey    "K">
 <!ENTITY helpMac.commandkey       "?">
-<!ENTITY helpSafeMode.label       "Cak kwede Lamed-ikome Kijuko woko…">
+<!ENTITY helpSafeMode.label       "Cak ki medo, Lamed-ikom gi ma Kijuko…">
 <!ENTITY helpSafeMode.accesskey   "C">
 
-<!ENTITY helpTroubleshootingInfo.label      "Ngec me kwedo bal">
-<!ENTITY helpTroubleshootingInfo.accesskey  "N">
+<!ENTITY helpTroubleshootingInfo.label      "Gec me niang Peko">
+<!ENTITY helpTroubleshootingInfo.accesskey  "G">
 
 <!ENTITY helpFeedbackPage.label      "Cwal adwogi ne…">
 <!ENTITY helpFeedbackPage.accesskey  "C">
 
-<!ENTITY preferencesCmdMac.label        "Nong ngec kibot…">
+<!ENTITY preferencesCmdMac.label        "Ma imaro…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Tic">

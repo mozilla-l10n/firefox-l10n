@@ -1,6 +1,6 @@
 <!-- extracted from printjoboptions.xul -->
 
-<!ENTITY printSetup.title    "Tero pot karatac">
+<!ENTITY printSetup.title    "Tero Pot Buk">
 
 <!ENTITY basic.tab           "Yub &amp; me ayera">
 
@@ -16,7 +16,7 @@
 <!ENTITY scale.accesskey     "L">
 <!ENTITY scalePercent        "&#037;">
 
-<!ENTITY shrinkToFit.label   "Jwik wek odony i pot karatac Borne">
+<!ENTITY shrinkToFit.label   "Jwik wek odony i pot buk Borne">
 <!ENTITY shrinkToFit.accesskey "B">
 
 <!ENTITY optionsGroup.label  "Me ayera">
@@ -53,8 +53,8 @@
 <!ENTITY hfTitle             "Wie madito">
 <!ENTITY hfURL               "URL">
 <!ENTITY hfDateAndTime       "Nino dwe/Cawa">
-<!ENTITY hfPage              "Pot karatac #">
-<!ENTITY hfPageAndTotal      "Pot karatac # me #">
+<!ENTITY hfPage              "Pot buk #">
+<!ENTITY hfPageAndTotal      "Pot buk # me #">
 <!ENTITY hfBlank             "--blank--">
 <!ENTITY hfCustom            "yiko…">
 

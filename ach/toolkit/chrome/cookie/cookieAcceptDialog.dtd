@@ -4,14 +4,13 @@
 <!ENTITY     props.path.label               "Yo:">
 <!ENTITY     props.secure.label             "Cwal Pi:">
 <!ENTITY     props.expires.label            "Kare ne okato woko:">
-<!ENTITY     props.policy.label             "Cik me aluba:"> 
 
 <!ENTITY     button.allow.label             "Ye">
 <!ENTITY     button.allow.accesskey         "Y">
 <!ENTITY     button.session.label           "Ye pi Caa mo ni">
 <!ENTITY     button.session.accesskey       "C">
-<!ENTITY     button.deny.label              "Okwero">
-<!ENTITY     button.deny.accesskey          "O">
+<!ENTITY     button.deny.label              "Kwer woko">
+<!ENTITY     button.deny.accesskey          "K">
 
 <!ENTITY     dialog.title                   "Mok ter me lapo wic intanet">
 <!ENTITY     dialog.remember.label          "Tii ki en ma an ayero pi lapo wic intanet weng i kakube ma eni ni">

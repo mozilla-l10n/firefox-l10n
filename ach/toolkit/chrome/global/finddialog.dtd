@@ -1,6 +1,6 @@
 <!-- extracted from finddialog.xul -->
 
-<!ENTITY findDialog.title "Nong Pot karatac man">
+<!ENTITY findDialog.title "Nong Pot Buk Man">
 <!ENTITY findField.label "Nong ngo:">
 <!ENTITY findField.accesskey "n">
 <!ENTITY caseSensitiveCheckbox.label "Kit Marwate">

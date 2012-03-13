@@ -1,8 +1,8 @@
-<!ENTITY title           "Ket Lamed ikome">
-<!ENTITY intro           "Purugram mukene me kompiuta ni tye ka mito yubo &brandShortName; kwede lalub me lamed ikome:">
-<!ENTITY warning         "Ket Lamed ikome ni aa ikom laco ne keken ma igeno.">
+<!ENTITY title           "Ket Lamed">
+<!ENTITY intro           "Purugram mukene me kompiuta ni tye ka mito yubo &brandShortName; kwede lalub me lamed:">
+<!ENTITY warning         "Ket Lamed ni aa ikom laco ne keken ma igeno.">
 <!ENTITY allow           "Ye keto ma eni ni">
-<!ENTITY later           "Itwero loko tami karekare i caa mo keken kun iwoto i lalo lamed ikome.">
+<!ENTITY later           "Itwero loko tami karekikare i caa mo keken kun iwoto i lamed .">
 <!ENTITY continue        "Mede anyim">
 <!ENTITY restartMessage  "Myero i cak nitit &brandShortName; i tyeko keto lamed ikom ma eni ni.">
 <!ENTITY restartButton   "Cak nitit &brandShortName;">

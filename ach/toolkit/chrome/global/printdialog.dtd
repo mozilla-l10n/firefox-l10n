@@ -2,23 +2,23 @@
 
 <!ENTITY printButton.label "Goyo">
 
-<!ENTITY printDialog.title "Goo">
+<!ENTITY printDialog.title "Go coc">
 
-<!ENTITY fpDialog.title "Gwok File">
+<!ENTITY fpDialog.title "Gwok pwail">
 
-<!ENTITY fileCheck.label "Goyo dwoko File">
-<!ENTITY fileCheck.accesskey "F">
+<!ENTITY fileCheck.label "Go coc bot pwail">
+<!ENTITY fileCheck.accesskey "p">
 <!ENTITY propertiesButton.label "Jami…">
 <!ENTITY propertiesButton.accesskey "m">
-<!ENTITY descText.label "Tito lok i lago coc:">
+<!ENTITY descText.label "Tito kit ma lago coc obedo kwede:">
 <!ENTITY printer.label "Lago coc">
-<!ENTITY printerInput.label "Lago coc Nying:">
-<!ENTITY printerInput.accesskey "N">
+<!ENTITY printerInput.label "Nying Lago coc:">
+<!ENTITY printerInput.accesskey "L">
 
-<!ENTITY printrangeGroup.label "Cano Gono coc">
-<!ENTITY allpagesRadio.label "Pot karatac Weng">
+<!ENTITY printrangeGroup.label "kwai goyo coc ma patpat">
+<!ENTITY allpagesRadio.label "Pot Buk Weng">
 <!ENTITY allpagesRadio.accesskey "P">
-<!ENTITY rangeRadio.label  "Pot karatac">
+<!ENTITY rangeRadio.label  "Pot Buk">
 <!ENTITY rangeRadio.accesskey  "P">
 <!ENTITY frompageInput.label  "ki">
 <!ENTITY frompageInput.accesskey  "i">
@@ -27,12 +27,12 @@
 <!ENTITY selectionRadio.label "Yera">
 <!ENTITY selectionRadio.accesskey "Y">
 
-<!ENTITY copies.label "Mukene">
-<!ENTITY numCopies.label "Namba me tic mukene:">
+<!ENTITY copies.label "ma ki rudo">
+<!ENTITY numCopies.label "Wel ma ki rudo:">
 <!ENTITY numCopies.accesskey "m">
 
-<!ENTITY printframeGroup.label "Goo Purem">
-<!ENTITY aslaidoutRadio.label "Macalo kiketo woko inyim kio me kompiuta">
+<!ENTITY printframeGroup.label "Purem me goc">
+<!ENTITY aslaidoutRadio.label "Macalo kiketo woko i wang kompiuta">
 <!ENTITY aslaidoutRadio.accesskey "k">
 <!ENTITY selectedframeRadio.label  "Pureem ma kiyero">
 <!ENTITY selectedframeRadio.accesskey  "e">

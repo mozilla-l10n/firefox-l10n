@@ -1,17 +1,17 @@
-<!ENTITY lookInMenuList.label   "Nen iyi:">
+<!ENTITY lookInMenuList.label   "Nen i iye:">
 <!ENTITY lookInMenuList.accesskey   "N">
-<!ENTITY textInput.label        "Fail nying:">
-<!ENTITY textInput.accesskey        "n">
-<!ENTITY filterMenuList.label   "Fail me kit:">
+<!ENTITY textInput.label        "Nying pwail:">
+<!ENTITY textInput.accesskey        "p">
+<!ENTITY filterMenuList.label   "Pwail me kit:">
 <!ENTITY filterMenuList.accesskey   "k">
 <!ENTITY name.label             "Nying">
 <!ENTITY size.label             "Dite">
 <!ENTITY lastModified.label     "Ma kiyiko ne me Agiki">
-<!ENTITY showHiddenFiles.label  "Nyut fail ma opono ki lacim">
+<!ENTITY showHiddenFiles.label  "Nyut pwail ki boc mukanne">
 <!ENTITY showHiddenFiles.accesskey  "N">
 
-<!ENTITY noPermissionError.label "I pe ki twero mamite me neno lacim man.">
+<!ENTITY noPermissionError.label "I pe ki twero ma gimite me neno boc man.">
 
-<!ENTITY folderUp.tooltiptext   "Wot Malu i rwom mukene">
-<!ENTITY folderHome.tooltiptext "Wot idok gang">
-<!ENTITY folderNew.tooltiptext  "Cwe lacim manyen">
+<!ENTITY folderUp.tooltiptext   "Wot Malo i rwom mukene">
+<!ENTITY folderHome.tooltiptext "Cit ii pot buk mukwongo">
+<!ENTITY folderNew.tooltiptext  "YUb boc manyen">

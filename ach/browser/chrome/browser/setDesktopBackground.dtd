@@ -2,8 +2,8 @@
 <!ENTITY tile.label                 "Matangula">
 <!ENTITY center.label               "Dyere">
 <!ENTITY stretch.label              "rye">
-<!ENTITY preview.label              "Nen odoco">
+<!ENTITY preview.label              "Kit ma nen kwede">
 <!ENTITY color.label                "Rangi:">
-<!ENTITY setDesktopBackground.title "Ter yonge kio manen i kompiuta">
-<!ENTITY openDesktopPrefs.label     "Yab kio manen ikompiuta ma imito ne">
+<!ENTITY setDesktopBackground.title "Ter cal ma nen i nge wang kompiuta">
+<!ENTITY openDesktopPrefs.label     "Yab cal manen i wang kompiuta ma imaro ne">
 <!ENTITY closeWindow.key            "w">

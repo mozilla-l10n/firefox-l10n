@@ -1,6 +1,6 @@
 <!ENTITY prefsHeader.label                         "Nong ngec kibot">
 <!ENTITY about.title                               "Makwako &brandShortName;">
-<!ENTITY about.button                              "Cet i Pot karatac">
+<!ENTITY about.button                              "Cet i Pot Buk">
 <!ENTITY content.title                             "Jami ma iyie">
 <!ENTITY reflowZoom.title                          "Yub coc nitit ikom kwoto ne">
 <!ENTITY showImages.title                          "Nyut Cal">
@@ -16,9 +16,9 @@
 <!ENTITY language.auto                             "Matime-Pire kene">
 <!ENTITY defaultBrowser.title                      "Gang me Layeny">
 <!ENTITY defaultBrowser.description                "Mi &brandShortName; layeny gang megi">
-<!ENTITY homepage.title                            "Cak pot karatac">
-<!ENTITY homepage.none                             "Pot karatac ma nono">
+<!ENTITY homepage.title                            "Cak pot buk">
+<!ENTITY homepage.none                             "Pot buk ma nono">
 <!ENTITY homepage.default                          "&brandShortName; Cak">
-<!ENTITY homepage.currentpage                      "Tii ki pot karatc ma kombedi">
+<!ENTITY homepage.currentpage                      "Tii ki Pot buk ma Kombedi">
 <!ENTITY showCharsetEncoding.title                 "Nyut kit ma kicoyo kwede">
 <!ENTITY actionbar.default                         "&brandShortName;Tero">

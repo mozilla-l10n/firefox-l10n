@@ -10,8 +10,8 @@
 
 <!ENTITY fileMenu.label "Fail">
 <!ENTITY fileMenu.accesskey "F">
-<!ENTITY savePageCmd.label "Gwok Por karatac calo…">
-<!ENTITY savePageCmd.accesskey "c">
+<!ENTITY savePageCmd.label "Gwok Pot buk Calo…">
+<!ENTITY savePageCmd.accesskey "C">
 <!ENTITY savePageCmd.commandkey "S">
 <!ENTITY pageSetupCmd.label "Tero pot karatac…">
 <!ENTITY pageSetupCmd.accesskey "a">
@@ -60,7 +60,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_textReset.label "Pwod tye kwo">
 <!ENTITY menu_textReset.accesskey "P">
 
-<!ENTITY findOnCmd.label     "Nong i Pot karatac man…">
+<!ENTITY findOnCmd.label     "Nong i Pot Buk Man…">
 <!ENTITY findOnCmd.accesskey "N">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Nong Doki">

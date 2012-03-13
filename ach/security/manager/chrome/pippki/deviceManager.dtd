@@ -38,19 +38,19 @@
 <!ENTITY devmgr.title                           "Lalo Nyonyo">
 
 <!ENTITY devmgr.devlist.label                   "Dul me Gwoko kuc ki Nyonyo">
-<!ENTITY devmgr.details.title                   "Lok yore kiyore">
+<!ENTITY devmgr.details.title                   "Lok kore kikore">
 <!ENTITY devmgr.details.title2                  "Wel">
 <!ENTITY devmgr.status.label                    "Kite">
 <!ENTITY devmgr.version.label                   "Cik">
 
 <!ENTITY devmgr.button.changeslotname.label     "Lok Nying Bur">
 <!ENTITY devmgr.button.changeslotname.accesskey "L">
-<!ENTITY devmgr.button.login.label              "Donyo Iyie">
+<!ENTITY devmgr.button.login.label              "Donyo Iye">
 <!ENTITY devmgr.button.login.accesskey          "y">
-<!ENTITY devmgr.button.logout.label             "Dony Woko">
+<!ENTITY devmgr.button.logout.label             "Bin Woko">
 <!ENTITY devmgr.button.logout.accesskey         "W">
-<!ENTITY devmgr.button.changepw.label           "Lok Icwil me donyo">
-<!ENTITY devmgr.button.changepw.accesskey       "I">
+<!ENTITY devmgr.button.changepw.label           "Lok Mung me donyo">
+<!ENTITY devmgr.button.changepw.accesskey       "M">
 <!ENTITY devmgr.button.load.label               "Pang">
 <!ENTITY devmgr.button.load.accesskey           "P">
 <!ENTITY devmgr.button.unload.label             "Pe ipang">
@@ -61,7 +61,7 @@
 <!ENTITY loaddevice.modname                     "Nying Dul:">
 <!ENTITY loaddevice.modname.accesskey           "M">
 <!ENTITY loaddevice.modname.default             "Dul PKCS#11 Manyen">
-<!ENTITY loaddevice.filename                    "nying fail me Dul:">
+<!ENTITY loaddevice.filename                    "nying Pwail me Dul:">
 <!ENTITY loaddevice.filename.accesskey          "f">
 <!ENTITY loaddevice.browse                      "Yeny…">
 <!ENTITY loaddevice.browse.accesskey            "B">

@@ -7,17 +7,17 @@
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Kabedo me di bar:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "K">
 <!ENTITY editBookmarkOverlay.folder.label                    "Boc:">
-<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "nyut boc me alama pot karatac weng">
+<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Nyut boc me alama pot buk weng">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Kan">
-<!ENTITY editBookmarkOverlay.tags.label                      "Not:">
-<!ENTITY editBookmarkOverlay.tags.accesskey                  "N">
-<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "pok kin not kwede koma">
+<!ENTITY editBookmarkOverlay.tags.label                      "Lanyut:">
+<!ENTITY editBookmarkOverlay.tags.accesskey                  "L">
+<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "pok kin Lanyut kwede koma">
 <!ENTITY editBookmarkOverlay.description.label               "Lok ikome:">
 <!ENTITY editBookmarkOverlay.description.accesskey           "L">
 <!ENTITY editBookmarkOverlay.keyword.label                   "Lok mapire tek:">
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "L">
-<!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Nyut lanyik weng">
-<!ENTITY editBookmarkOverlay.loadInSidebar.label             "Pang pot alama me pot karatac man i bar me teng">
+<!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Nyut lanyut weng">
+<!ENTITY editBookmarkOverlay.loadInSidebar.label             "Pang pot alama me pot buk man i bar me teng">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "n">
 <!ENTITY editBookmarkOverlay.choose.label                    "Yer…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "Boc manyen">

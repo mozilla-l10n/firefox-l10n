@@ -1,7 +1,7 @@
 <!ENTITY window.width                                   "30em">
 
 <!ENTITY languages.customize.Header                     "Leb">
-<!ENTITY languages.customize.prefLangDescript           "Karatac me web iceng mukene kimio ki leb makayo acel. Yer leb pi yaro pot karatac ma eni ni, malube ki en ma pire tek.">
+<!ENTITY languages.customize.prefLangDescript           "Buk me web iceng mukene kimio ki leb makayo acel. Yer leb pi yaro pot buk ma eni ni, malube ki en ma pire tek.">
 <!ENTITY languages.customize.active.label               "Leb kit malube ki en ma pire tek:">
 <!ENTITY languages.customize.moveUp.label               "Wot Malu">
 <!ENTITY languages.customize.moveUp.accesskey           "M">

@@ -1,5 +1,5 @@
 <!ENTITY window.title              "Yer Boc">
-<!ENTITY window.style              "width: 36em; height: 18em;">
+<!ENTITY window.style              "lac: 36em; bor: 18em;">
 <!ENTITY moveTo.label              "Wot bot:">
 <!ENTITY newFolderButton.label     "Boc Manyen">
 <!ENTITY newFolderButton.accesskey "B">

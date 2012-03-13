@@ -2,38 +2,38 @@
 
 <!ENTITY printJobOptions.title "Jami me lagoo coc">
 
-<!ENTITY paperInput.label "Dit pa waraga:">
+<!ENTITY paperInput.label "Dit Pa Buk:">
 <!ENTITY paperInput.accesskey "D">
 
-<!ENTITY plexInput.label "Yot Kit:">
-<!ENTITY plexInput.accesskey "K">
+<!ENTITY plexInput.label "Kit me timo Plex:">
+<!ENTITY plexInput.accesskey "P">
 
-<!ENTITY resolutionInput.label "Cobo/Mamwonya:">
-<!ENTITY resolutionInput.accesskey "b">
+<!ENTITY resolutionInput.label "Mok/Mamwonya:">
+<!ENTITY resolutionInput.accesskey "o">
 
-<!ENTITY cmdInput.label "Goo Cik:">
-<!ENTITY cmdInput.accesskey "k">
+<!ENTITY cmdInput.label "Twero meGono coc:">
+<!ENTITY cmdInput.accesskey "G">
 
 <!ENTITY jobTitleInput.label "Nying Tic:">
 <!ENTITY jobTitleInput.accesskey "N">
 
 <!ENTITY colorGroup.label "Rangi:">
-<!ENTITY grayRadio.label "Gipimo ma laburuburu">
-<!ENTITY grayRadio.accesskey "G">
+<!ENTITY grayRadio.label "Lapim mubedo aburu">
+<!ENTITY grayRadio.accesskey "L">
 <!ENTITY colorRadio.label "Rangi">
 <!ENTITY colorRadio.accesskey "R">
 
-<!ENTITY colorspaceInput.label "Rangispace:">
-<!ENTITY colorspaceInput.accesskey "s">
+<!ENTITY colorspaceInput.label "Rangikama twolo:">
+<!ENTITY colorspaceInput.accesskey "k">
 
-<!ENTITY fontsGroup.label "Dite:">
-<!ENTITY downloadFonts.label "Gol dite bot nyonyo me gono coc">
+<!ENTITY fontsGroup.label "Kit nukuta:">
+<!ENTITY downloadFonts.label "Gam kit nukuta icwal bot lago coc">
 <!ENTITY downloadFonts.accesskey "G">
 
-<!ENTITY edgeMarginInput.label "Ka matwolo ki ilak waraga dwoko I twoke">
+<!ENTITY edgeMarginInput.label "Bur ma ikin teng buk ki ka cako coc">
 <!ENTITY topInput.label "Wie:">
 <!ENTITY topInput.accesskey "W">
-<!ENTITY bottomInput.label "Te:">
+<!ENTITY bottomInput.label "Tere:">
 <!ENTITY bottomInput.accesskey "T">
 <!ENTITY leftInput.label "Tung acam:">
 <!ENTITY leftInput.accesskey "T">

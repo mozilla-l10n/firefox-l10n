@@ -47,8 +47,8 @@
 
 <!ENTITY            availprofiles.label    "Gin makwako Matye">
 
-<!ENTITY            newButton.label        "Cwe Gin makwako…">
-<!ENTITY            newButton.accesskey    "C">
+<!ENTITY            newButton.label        "Yub Gin makwako…">
+<!ENTITY            newButton.accesskey    "Y">
 <!ENTITY            renameButton.label     "Nwo nying Gin makwako…">
 <!ENTITY            renameButton.accesskey "N">
 <!ENTITY            deleteButton.label     "Duny Gin makwako…">

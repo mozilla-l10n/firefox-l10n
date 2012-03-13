@@ -1,23 +1,23 @@
 <!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
-<!ENTITY places.library.title  "Ot gwoko buk">
+<!ENTITY places.library.title  " Ot gwoko buk">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Yubi">
 <!ENTITY organize.accesskey    "Y">
-<!ENTITY organize.tooltip      "Yub alama me pot karatac mamegi">
+<!ENTITY organize.tooltip      "Yub alama me pot buk mamegi">
 
-<!ENTITY file.close.label               "Ceg">
-<!ENTITY file.close.accesskey           "C">
+<!ENTITY file.close.label               "Loo">
+<!ENTITY file.close.accesskey           "L">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY views.label                    "Tam">
-<!ENTITY views.accesskey                "T">
-<!ENTITY views.tooltip                  "Lok tami">
-<!ENTITY view.columns.label             "Nyut rek">
-<!ENTITY view.columns.accesskey         "r">
-<!ENTITY view.sort.label                "yer">
-<!ENTITY view.sort.accesskey            "y">
-<!ENTITY view.unsorted.label            "pe kiyero">
-<!ENTITY view.unsorted.accesskey        "p">
+<!ENTITY views.label                    "Neno">
+<!ENTITY views.accesskey                "N">
+<!ENTITY views.tooltip                  "Lok neno ni">
+<!ENTITY view.columns.label             "Nyut Rek ati">
+<!ENTITY view.columns.accesskey         "R">
+<!ENTITY view.sort.label                "Yeko">
+<!ENTITY view.sort.accesskey            "Y">
+<!ENTITY view.unsorted.label            "Ma pe kiyeko">
+<!ENTITY view.unsorted.accesskey        "M">
 <!ENTITY view.sortAscending.label       "A > Z cik me yero">
 <!ENTITY view.sortAscending.accesskey   "A">
 <!ENTITY view.sortDescending.label      "Z > A cik me yero">
@@ -28,30 +28,30 @@
 <!ENTITY cmd.findCurrent.label          "Nong iyi yera ma kombedi…">
 <!ENTITY cmd.findCurrent.accesskey      "o">
 
-<!ENTITY importBookmarksFromHTML.label     "Kel alama me pot karatac ki woko ki HTML…">
+<!ENTITY importBookmarksFromHTML.label     "Kel alama me pot buk ki woko i HTML…">
 <!ENTITY importBookmarksFromHTML.accesskey "K">
-<!ENTITY exportBookmarksToHTML.label       "Cwal Woko alama me pot karatca bot HTML…">
+<!ENTITY exportBookmarksToHTML.label       "Cwal Woko alama me pot buk bot HTML…">
 <!ENTITY exportBookmarksToHTML.accesskey   "C">
-<!ENTITY importOtherBrowser.label          "Kel tic ki woko ki Layeny mukene…">
+<!ENTITY importOtherBrowser.label          "Kel ngec ki woko ki i Layeny mukene…">
 <!ENTITY importOtherBrowser.accesskey      "L">
 
-<!ENTITY cmd.backup.label               "Gwok…">
+<!ENTITY cmd.backup.label               "Gwok mukene…">
 <!ENTITY cmd.backup.accesskey           "G">
 <!ENTITY cmd.restore2.label             "Dwogo">
 <!ENTITY cmd.restore2.accesskey         "D">
-<!ENTITY cmd.restoreFromFile.label      "Yer Fail…">
+<!ENTITY cmd.restoreFromFile.label      "Yer Pwail…">
 <!ENTITY cmd.restoreFromFile.accesskey  "Y">
 
-<!ENTITY cmd.bookmarkLink.label         "Yab alama me pot karatac man…">
+<!ENTITY cmd.bookmarkLink.label         "Yab alama me pot buk man…">
 <!ENTITY cmd.bookmarkLink.accesskey     "Y">
-<!ENTITY cmd.delete.label               "Duny woko pot karatac man">
-<!ENTITY cmd.delete.accesskey           "D">
-<!ENTITY cmd.deleteDomainData.label     "Mii wi owil woko ki di bar man">
-<!ENTITY cmd.deleteDomainData.accesskey "M">
+<!ENTITY cmd.delete.label               "Bar woko pot buk man">
+<!ENTITY cmd.delete.accesskey           "B">
+<!ENTITY cmd.deleteDomainData.label     "Wii owil woko pi di bar man">
+<!ENTITY cmd.deleteDomainData.accesskey "W">
 
-<!ENTITY cmd.open.label                  "Yab">
+<!ENTITY cmd.open.label                  "Yabi">
 <!ENTITY cmd.open.accesskey              "Y">
-<!ENTITY cmd.open_window.label           "Yab iyi dirija Manyen">
+<!ENTITY cmd.open_window.label           "Yab i dirija Manyen">
 <!ENTITY cmd.open_window.accesskey       "M">
 <!ENTITY cmd.open_tab.label              "Yab ki iyi Lanyik Manyen">
 <!ENTITY cmd.open_tab.accesskey          "a">
@@ -65,40 +65,40 @@
 <!ENTITY cmd.sortby_name.accesskey          "Y">
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
 
-<!ENTITY cmd.new_bookmark.label            "Nyen Alama pot karatac…">
-<!ENTITY cmd.new_bookmark.accesskey        "A">
+<!ENTITY cmd.new_bookmark.label            "Alama pot Buk manyen…">
+<!ENTITY cmd.new_bookmark.accesskey        "B">
 <!ENTITY cmd.new_folder.label              "Boc Manyen…">
 <!ENTITY cmd.new_folder.accesskey          "n">
 <!ENTITY cmd.context_new_folder.accesskey  "F">
 <!ENTITY cmd.new_separator.label           "Lapok kine Manyen">
 <!ENTITY cmd.new_separator.accesskey       "L">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Nwo pango alama me pot karatac Makome">
+<!ENTITY cmd.reloadLivebookmark.label      "Nwo pango alama me pot buk Makome">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "N">
 
 <!ENTITY cmd.moveBookmarks.label                  "Wot…">
 <!ENTITY cmd.moveBookmarks.accesskey              "W">
 
 <!ENTITY col.name.label          "nying">
-<!ENTITY col.tags.label          "Dan">
+<!ENTITY col.tags.label          "Lanyut">
 <!ENTITY col.url.label           "Kabedo">
-<!ENTITY col.lastvisit.label     "Lim nino dwe">
-<!ENTITY col.visitcount.label    "Lim kwan">
+<!ENTITY col.lastvisit.label     "Nino lim">
+<!ENTITY col.visitcount.label    "Wel Nino Lim">
 <!ENTITY col.keyword.label       "Lok mapire tek">
 <!ENTITY col.description.label   "Lok ikome">
 <!ENTITY col.dateadded.label     "Kimedo">
-<!ENTITY col.lastmodified.label  "Ma kiyiko ne me agiki">
+<!ENTITY col.lastmodified.label  "Ma giyubo me agiki">
 
 <!ENTITY search.label                              "yeny:">
 <!ENTITY search.accesskey                          "y">
 
-<!ENTITY search.in.label                           "yeny iyi:">
-<!ENTITY search.scopeFolder.label                  "Yer Boc">
+<!ENTITY search.in.label                           "yeny iyee:">
+<!ENTITY search.scopeFolder.label                  "Boc ma giyero">
 <!ENTITY search.scopeFolder.accesskey              "c">
-<!ENTITY search.scopeBookmarks.label               "Alama me pot karatac">
+<!ENTITY search.scopeBookmarks.label               "Alama me pot buk">
 <!ENTITY search.scopeBookmarks.accesskey           "m">
-<!ENTITY search.scopeDownloads.label               "Golo">
-<!ENTITY search.scopeDownloads.accesskey           "G">
+<!ENTITY search.scopeDownloads.label               "Kopo">
+<!ENTITY search.scopeDownloads.accesskey           "K">
 <!ENTITY search.scopeHistory.label                 "Mukato">
 <!ENTITY search.scopeHistory.accesskey             "M">
 <!ENTITY saveSearch.label                          "Gwok">
@@ -106,9 +106,9 @@
 
 <!ENTITY cmd.find.key  "f">
 
-<!ENTITY maintenance.label      "Kel ki woko ci I gwok">
+<!ENTITY maintenance.label      "Kel ki woko ci I gwok mukene">
 <!ENTITY maintenance.accesskey  "K">
-<!ENTITY maintenance.tooltip    "Kel ki woko ci igwok alama pot karatac mamegi">
+<!ENTITY maintenance.tooltip    "Kel ki woko ci igwok alama pot buk mamegi">
 
 <!ENTITY backButton.tooltip  "Dok cen">
 
@@ -128,7 +128,7 @@
 <!ENTITY byDate.accesskey         "N">
 <!ENTITY bySite.label             "Ki Di bar">
 <!ENTITY bySite.accesskey         "D">
-<!ENTITY byMostVisited.label      "Ki en Ma kilimo">
+<!ENTITY byMostVisited.label      "Ki en Ma kilimo maloyo">
 <!ENTITY byMostVisited.accesskey  "M">
 <!ENTITY byLastVisited.label      "Ki En ma kilimo me agiki">
 <!ENTITY byLastVisited.accesskey  "E">

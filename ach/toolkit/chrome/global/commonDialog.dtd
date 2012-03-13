@@ -1,8 +1,8 @@
 <!ENTITY header.label     "Wie Macego"> 
-<!ENTITY message.label    "lapor me Coc mogo woto kany.">
+<!ENTITY message.label    "Coc wiye wiye mogo woto kany.">
 <!ENTITY editfield0.label "Nying ma itiyo kwede:"> 
-<!ENTITY editfield1.label "icwil me donyo:"> 
-<!ENTITY checkbox.label   "rot">
+<!ENTITY editfield1.label "Mung me donyo:"> 
+<!ENTITY checkbox.label   "roti">
 <!ENTITY copyCmd.label    "Loki">
 <!ENTITY copyCmd.accesskey "L">
 <!ENTITY selectAllCmd.label "Yer Weng">

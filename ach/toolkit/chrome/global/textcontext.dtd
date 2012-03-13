@@ -13,6 +13,8 @@
 
 <!ENTITY spellAddToDictionary.label "Med bot Buk me gonyo nukuta">
 <!ENTITY spellAddToDictionary.accesskey "o">
+<!ENTITY spellUndoAddToDictionary.label "Dokcen Med I Buk me nukuta">
+<!ENTITY spellUndoAddToDictionary.accesskey "c">
 <!ENTITY spellCheckEnable.label "Rot Nyig coc">
 <!ENTITY spellCheckEnable.accesskey "N">
 <!ENTITY spellNoSuggestions.label "(Tam amia me Nukkuta bene peke)">

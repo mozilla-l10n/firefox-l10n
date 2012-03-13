@@ -39,23 +39,23 @@
 
 <!ENTITY  intro.label                 "I yero me yabo">
 <!ENTITY  from.label                  "Ki:">
-<!ENTITY  actionQuestion.label        "Ngo ma myero &brandShortName;kwede fail man?">
+<!ENTITY  actionQuestion.label        "Ngo ma myero &brandShortName;otim okom pwail man?">
 
 <!ENTITY  openWith.label              "Yab kwede">
 <!ENTITY  openWith.accesskey          "Y">
-<!ENTITY  other.label                 "Mapat…">
+<!ENTITY  other.label                 "Mukene…">
 
-<!ENTITY  saveFile.label              "Gwok Fail">
+<!ENTITY  saveFile.label              "Gwok Pwail">
 <!ENTITY  saveFile.accesskey          "G">
 
 <!ENTITY  rememberChoice.label        "Tim mman pire kene pi fail ma cal kit man kombedi ceto kwede anyim.">
 <!ENTITY  rememberChoice.accesskey    "p">
 
-<!ENTITY  whichIsA.label              "Ma obedo:">
+<!ENTITY  whichIsA.label              "Ma en aye obedo:">
 
 <!ENTITY  chooseHandlerMac.label      "Yer…">
 <!ENTITY  chooseHandlerMac.accesskey  "Y">
 <!ENTITY  chooseHandler.label         "Yeny…">
 <!ENTITY  chooseHandler.accesskey     "Y">
 
-<!ENTITY  unknownPromptText.label     "I mito gwoko fail ma eni ni?">
+<!ENTITY  unknownPromptText.label     "I mito gwoko pwail man?">

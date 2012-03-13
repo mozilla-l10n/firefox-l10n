@@ -1,9 +1,9 @@
 <!ENTITY aboutDialog.title          "Lok ikom &brandFullName;">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
-<!ENTITY warningDesc.version        "&brandShortName; nyute ci pe romo bedo mot.">
+<!ENTITY warningDesc.version        "&brandShortName; kitwero temo ento nyo pe cung matek.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetry): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetry      "Cwalo ngec me temo pire kene cen bot &vendorShortName; me konyo mino &brandShortName; bedo maber.">
+<!ENTITY warningDesc.telemetry      "Cwalo ngec pire kene,ma ki temo &vendorShortName; ma konyo miyo &brandShortName; bedo ber.">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
 <!ENTITY community.exp.start        "">
@@ -11,66 +11,66 @@
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       " obedo ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
-<!ENTITY community.exp.creditsLink  "Lwak me wilobo">
-<!ENTITY community.exp.end          " tic kacel me miyo Web bedo twolo, pi lwak ki nonge bot dano weng.">
+<!ENTITY community.exp.creditsLink  "Lwak ma iwilobo">
+<!ENTITY community.exp.end          " tiyo kacel me miyo Kube obedo twolo, ma jo ducu limo.">
 
-<!ENTITY community.start2           "&brandShortName; ngat muyubu ne en aye  ">
+<!ENTITY community.start2           "&brandShortName; ngat ma oyubu ne en aye ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
-<!ENTITY community.mozillaLink      "&vendorShortName;">
+<!ENTITY community.mozillaLink      "&vendorShortName;ngat ma oyubo obedo">
 <!ENTITY community.middle2          ", a ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "Lwak me wilobo">
 <!ENTITY community.end3             " tiyo kacel me miyo Web bedo twolo, bot lwak ci pi dano weng.">
 
-<!ENTITY contribute.start           "Woo tye mayomo cwiny? ">
+<!ENTITY contribute.start           "Winye ma mwonya yomo cwiny? ">
 <!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "Bed iye!">
+<!ENTITY contribute.getInvolvedLink "Bed ngat acel iye!">
 <!ENTITY contribute.end             "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
-<!ENTITY bottomLinks.license        "Ngec mamako kop ikom lancec">
+<!ENTITY bottomLinks.license        "Ngec ikom nongo lancec">
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
 
 <!ENTITY bottomLinks.rights         "Twero pa Latic Kwede">
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
 
-<!ENTITY bottomLinks.privacy        "Cik mamako pire kene">
+<!ENTITY bottomLinks.privacy        "Cik ma keme ki mung pire">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.checkingForUpdates  "Tye karoto nngec manyen…">
+<!ENTITY update.checkingForUpdates  "Ngiyo kama ngec manyen tye iye…">
 <!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingAddonCompat "Roto Medo ikome en marwate…">
+<!ENTITY update.checkingAddonCompat "Roto ki Medo kakama rwate…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound      "&brandShortName; tye naka aman">
+<!ENTITY update.noUpdatesFound      "&brandShortName; tye kumeno naka">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "Laloc mamegi otyeko juko woko ngec manyen">
+<!ENTITY update.adminDisabled       " Ngec manyen mogo ma won twero man ojuko">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.failed.start        "En manyen okwero woko. ">
-<!ENTITY update.failed.linkText     "Gol woko cik ma okati">
+<!ENTITY update.failed.start        "Ngec pe olare. ">
+<!ENTITY update.failed.linkText     "Gam lok manyen ma okati ico piny">
 <!ENTITY update.failed.end          "">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.manual.start        "Ngec manyen nonge ki ">
-<!ENTITY update.manual.end          "update.manual.end">
+<!ENTITY update.manual.start        "Ngec nonge ki ">
+<!ENTITY update.manual.end          "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
 
-<!ENTITY update.downloading.start   "Tye kagolo ngec— ">
+<!ENTITY update.downloading.start   "Tye kagamo ngec — ">
 <!ENTITY update.downloading.end     "">
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
 
 <!ENTITY channel.description.start  "Kombedi i tye i kom ">
-<!ENTITY channel.description.end    " yo beo pa ngec. ">
+<!ENTITY channel.description.end    " yoo ma inongo iye ngec manyen. ">

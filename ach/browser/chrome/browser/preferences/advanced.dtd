@@ -4,11 +4,11 @@
 
 <!ENTITY accessibility.label             "Kite me nongo">
 
-<!ENTITY useCursorNavigation.label       "Tii ki jami me nyiko pi beyo iyi pot karatac">
+<!ENTITY useCursorNavigation.label       "Tii ki jami me nyiko pi beyo iyi pot buk">
 <!ENTITY useCursorNavigation.accesskey   "n">
 <!ENTITY searchStartTyping.label         "Yeny pi coc ka acako coyo coc">
 <!ENTITY searchStartTyping.accesskey     "c">
-<!ENTITY blockAutoRefresh.label          "Kwenyoro ka kakube tye katemo me nyutu onyo pango pot karatac">
+<!ENTITY blockAutoRefresh.label          "Kwenyoro ka kakube tye katemo me nyutu onyo pango pot buk">
 <!ENTITY blockAutoRefresh.accesskey      "k">
 
 <!ENTITY browsing.label                  "Yenyo">
@@ -17,7 +17,7 @@
 <!ENTITY useAutoScroll.accesskey         "n">
 <!ENTITY useSmoothScrolling.label        "Tii ki nyiko mayot">
 <!ENTITY useSmoothScrolling.accesskey    "a">
-<!ENTITY allowHWAccel.label              "Tii ki cipid ma nyonyo medo ka tye">
+<!ENTITY allowHWAccel.label              "Tii ki dwiro ma nyonyo medo ka tye">
 <!ENTITY allowHWAccel.accesskey          "o">
 <!ENTITY checkSpelling.label             "Rot nukta mamega calo A co">
 <!ENTITY checkSpelling.accesskey         "c">
@@ -26,9 +26,9 @@
 <!--XXX-->
 <!ENTITY alwaysCheckDefault.label        "Jwii nen pi &brandShortName; bedo i kite ne iyi acaki">
 <!ENTITY alwaysCheckDefault.accesskey    "w">
-<!ENTITY checkNow.label                  "Nen kombedi">
-<!ENTITY checkNow.accesskey              "e">
-<!ENTITY submitCrashes.label             "Cwal ripot">
+<!ENTITY checkNow.label                  "Nen Kombedi">
+<!ENTITY checkNow.accesskey              "K">
+<!ENTITY submitCrashes.label             "Cwal ngec me poto atura">
 <!ENTITY submitCrashes.accesskey         "C">
 <!ENTITY submitTelemetry.label           "Cwal tic me jami">
 <!ENTITY submitTelemetry.accesskey       "t">
@@ -102,16 +102,16 @@
 <!ENTITY useSSL3.accesskey               "3">
 <!ENTITY useTLS1.label                   "Tii ki TLS 1.0">
 <!ENTITY useTLS1.accesskey               "1">
-<!ENTITY certificates.label              "Karatac">
-<!ENTITY certSelection.description       "Ka lapok tic kwayo pi karatac para:">
+<!ENTITY certificates.label              "Certificates">
+<!ENTITY certSelection.description       "Ka lapok tic kwayo pi Certificate para:">
 <!ENTITY certs.auto                      "Yer acel pire kene">
 <!ENTITY certs.auto.accesskey            "I">
 <!ENTITY certs.ask                       "Penya caa weng">
 <!ENTITY certs.ask.accesskey             "i">
 <!ENTITY viewCerts.label                 "Nen karatac me ngec">
 <!ENTITY viewCerts.accesskey             "t">
-<!ENTITY viewCRLs.label                  "Karatac me yiko">
-<!ENTITY viewCRLs.accesskey              "K">
+<!ENTITY viewCRLs.label                  "Revocation me yiko">
+<!ENTITY viewCRLs.accesskey              "R">
 <!ENTITY verify2.label                   "Neno">
 <!ENTITY verify2.accesskey               "N">
 <!ENTITY viewSecurityDevices.label       "Nyonyo me gwoko kuc">

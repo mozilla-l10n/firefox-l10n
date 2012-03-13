@@ -37,7 +37,7 @@
 
 <!ENTITY print.label          "Goo coc…">
 <!ENTITY print.accesskey      "G">
-<!ENTITY pageSetup.label      "Pot karatac Tero…">
+<!ENTITY pageSetup.label      "Tero Pot buk…">
 <!ENTITY pageSetup.accesskey  "o">
 <!ENTITY page.label           "Potkaratac:">
 <!ENTITY page.accesskey       "k">
@@ -66,7 +66,7 @@
 <!ENTITY ShrinkToFit.label    "Jwik wek Odony">
 <!ENTITY customPrompt.title   "Yiko lapim…">
 
-<!ENTITY homearrow.tooltip    "Pot karatac me acel">
-<!ENTITY endarrow.tooltip     "Pot karatac ma ogiko">
-<!ENTITY nextarrow.tooltip    "Pot karatac malubo kore">
-<!ENTITY previousarrow.tooltip "Pot karatac mukato">
+<!ENTITY homearrow.tooltip    "Pot buk me acel">
+<!ENTITY endarrow.tooltip     "Pot buk ma ogiko">
+<!ENTITY nextarrow.tooltip    "Pot buk malubo kore">
+<!ENTITY previousarrow.tooltip "Pot buk mukato">

@@ -10,7 +10,7 @@
 <!ENTITY     button.removeallcookies.accesskey "W">
 
 <!ENTITY     props.name.label               "Nying:">
-<!ENTITY     props.value.label              "Gin manonge iye:">
+<!ENTITY     props.value.label              "Gin ma nonge iye:">
 <!ENTITY     props.domain.label             "Won gang:">
 <!ENTITY     props.path.label               "Yo:">
 <!ENTITY     props.secure.label             "Cwal Pi:">
@@ -24,5 +24,5 @@
 <!ENTITY     filter.label                   "Yeny:">
 <!ENTITY     filter.accesskey               "Y">
 
-<!ENTITY     button.close.label             "Cegi">
-<!ENTITY     button.close.accesskey         "C">
+<!ENTITY     button.close.label             "Lor">
+<!ENTITY     button.close.accesskey         "L">

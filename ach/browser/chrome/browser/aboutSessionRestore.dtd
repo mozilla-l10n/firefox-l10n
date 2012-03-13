@@ -3,10 +3,10 @@
      and regret that we are unable to restore the session for the user -->
 
 <!ENTITY restorepage.errorTitle     "Kakare, man obedo me lewic.">
-<!ENTITY restorepage.problemDesc    "&brandShortName; tye ki ayela i kwedo dirija ki lanyik mamegi. Man pol kare pot karatac me Web en aye kelo.">
+<!ENTITY restorepage.problemDesc    "&brandShortName; tye ki ayela i kelo dirica ki lanyik mamegi. Man pol kare pot buk me web en aye kelo.">
 <!ENTITY restorepage.tryThis        "I romo temo ne:">
-<!ENTITY restorepage.restoreSome    "Kwanyo acel onyo lanyik mapol ma itamo ni twero kelo peko">
-<!ENTITY restorepage.startNew       "Cako kare manyen me yabo weng">
+<!ENTITY restorepage.restoreSome    " Kwanyo acel onyo lanyik mapol ma itamo ni twero kelo peko">
+<!ENTITY restorepage.startNew       " Cako kare manyen me yabo weng">
 
 <!ENTITY restorepage.tryagainButton "Dwogo">
 <!ENTITY restorepage.restore.access "R">
@@ -14,6 +14,6 @@
 <!ENTITY restorepage.cancel.access  "S">
 
 <!ENTITY restorepage.restoreHeader  "Dwogo">
-<!ENTITY restorepage.listHeader     "Dirija ki Lanyik">
+<!ENTITY restorepage.listHeader     "Dirija ki nget dirija mukene">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "Dirija &#37;S">

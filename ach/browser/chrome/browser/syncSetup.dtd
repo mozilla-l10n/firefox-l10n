@@ -2,32 +2,32 @@
 <!-- First page of the wizard -->
 
 
-<!ENTITY setup.pickSetupType.description2 "Ojoli, ka pwod pe i tiyo ki &syncBrand.fullName.label; mapwod, myero i cwe akaunti manyen.">
-<!ENTITY button.createNewAccount.label "Cwe Akaunti Manyen">
-<!ENTITY button.haveAccount.label      "Atye ki Akaunti">
+<!ENTITY setup.pickSetupType.description2 "Ajoli, ka pwod pe i tiyo ki &syncBrand.fullName.label; mapwod, myero iket akaunti manyen.">
+<!ENTITY button.createNewAccount.label "Ket Akaunt Manyen">
+<!ENTITY button.haveAccount.label      "Atye ki Akaunt">
 
 <!ENTITY setup.choicePage.title.label     "I tiyo ki &syncBrand.fullName.label; mapwod?">
-<!ENTITY setup.choicePage.new.label       "Pwod pe atiyo &syncBrand.shortName.label; kwede">
-<!ENTITY setup.choicePage.existing.label  "An bene atye katic ki &syncBrand.shortName.label; i kompiuta mapat">
+<!ENTITY setup.choicePage.new.label       "Pwod pe atiyo kwede &syncBrand.shortName.label;">
+<!ENTITY setup.choicePage.existing.label  "An dong atye katic ki &syncBrand.shortName.label; i kompiuta mapat">
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label               "Lapok tic">
-<!ENTITY serverType.main.label      "&syncBrand.fullName.label; Lapok tic">
-<!ENTITY serverType.custom2.label   "Tii ki cik pa lapok tic…">
-<!ENTITY signIn.account2.label      "Akaunti">
+<!ENTITY serverType.main.label      "&syncBrand.fullName.label; Lapok">
+<!ENTITY serverType.custom2.label   "Tii ki cik pa lapok…">
+<!ENTITY signIn.account2.label      "Akaunt">
 <!ENTITY signIn.account2.accesskey  "A">
-<!ENTITY signIn.password.label      "I cwil me donyo">
-<!ENTITY signIn.password.accesskey  "I">
-<!ENTITY signIn.recoveryKey.label       "Dwogo Lagony">
-<!ENTITY signIn.recoveryKey.accesskey   "L">
+<!ENTITY signIn.password.label      "Mung">
+<!ENTITY signIn.password.accesskey  "M">
+<!ENTITY signIn.recoveryKey.label       "Lagony Dwogo">
+<!ENTITY signIn.recoveryKey.accesskey   "D">
 <!-- New Account Page 1: Basic Account Info -->
 
-<!ENTITY setup.newAccountDetailsPage.title.label "Lok yor kiyore pi Akaunti">
+<!ENTITY setup.newAccountDetailsPage.title.label "Lok kore ki kore madok ikom Akaunt">
 <!ENTITY setup.emailAddress.label     "Email Address">
 <!ENTITY setup.emailAddress.accesskey "E">
-<!ENTITY setup.choosePassword.label      "Yer icwil me donyo">
-<!ENTITY setup.choosePassword.accesskey  "c">
-<!ENTITY setup.confirmPassword.label     "Mok icwil me donyo">
+<!ENTITY setup.choosePassword.label      "Yer Mungi">
+<!ENTITY setup.choosePassword.accesskey  "M">
+<!ENTITY setup.confirmPassword.label     "Mok Mungi">
 <!ENTITY setup.confirmPassword.accesskey "k">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
@@ -41,11 +41,11 @@
 <!-- My Recovery Key dialog -->
 
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; Gwoko imung mamegi">
-<!ENTITY setup.newRecoveryKeyPage.description.label "Pi mino imung megi odoco, tic megi weng kiyungo tye kaketo. Lagony me Kin ma kiyubo mupore pi jungo tic mamegi pe kiketo.">
-<!ENTITY recoveryKeyEntry.label        "Lagony me dwogo megi">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Pi gwoko mung megi, tic megi weng kiyungo tye kaketo. Lagony me Kin ma kiyubo mupore pi jungo tic mamegi pe kiketo.">
+<!ENTITY recoveryKeyEntry.label        "Lagony me dwogo mamegi">
 <!ENTITY recoveryKeyEntry.accesskey    "m">
 <!ENTITY syncGenerateNewKey.label  "Kel lagony manyen">
-<!ENTITY recoveryKeyBackup.description "lagony mamegi me Sync mite me &syncBrand.fullName.label; ikom cuma. Tim ber icwe gwok mukene. Pe waromo konyi me dwogo lagony me Sync.">
+<!ENTITY recoveryKeyBackup.description "lagony mamegi mite pi donyo &syncBrand.fullName.label; ikom cuma. Tim ber icwe gwok mukene. Pe waromo konyi me dwogo lagony me dwoki.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Goo…">
 <!ENTITY button.syncKeyBackup.print.accesskey "G">
@@ -54,12 +54,12 @@
 <!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
 
 <!ENTITY pairDevice.title.label             "Ket Nyonyo aryo aryo">
-<!ENTITY addDevice.showMeHow.label          "Nyuta yore mene.">
+<!ENTITY addDevice.showMeHow.label          "Nyuta kite.">
 <!ENTITY addDevice.dontHaveDevice.label     "Ape ki nyonyo bota">
 <!ENTITY pairDevice.setup.description.label  "Pi mino tic, yer &#x0022; ket Nyonyo aryo aryo&#x0022; ikom nyonyo mukene.">
-<!ENTITY addDevice.setup.enterCode.label    "Eka, ket nyig coc man:">
+<!ENTITY addDevice.setup.enterCode.label    "Cii, ket nyig coc man:">
 <!ENTITY pairDevice.dialog.description.label "Pi mino nyonyo pari mmanyen tic, yer &#x0022;S Ter Sync&#x0022; ikom nyonyo.">
-<!ENTITY addDevice.dialog.enterCode.label   "Ket nyig coc ma nyonyo gabo:">
+<!ENTITY addDevice.dialog.enterCode.label   "Ket nyig coc ma nyonyo miyo:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Tim ber item doki.">
 <!ENTITY addDevice.dialog.successful.label  "Kityeko medo nyonyo maber. Ket matye romo tero dakika mapol ki bityeko yonge.">
 <!ENTITY addDevice.dialog.recoveryKey.label     "Pi mino nyonyo mamegi tic myero iket lagony me Sync. Tim ber igoo onyo igwok lagony man ki iwot kwede.">
@@ -69,7 +69,7 @@
 <!ENTITY setup.signInPage.title.label "Dony iyie">
 <!ENTITY existingRecoveryKey.description "I romo nongo mukene pi lagony me Sync kun iwoto i &syncBrand.shortName.label; Me ayera ikom nyonyo mamegi mukene, ki yero  &#x0022;My Recovery Key&#x0022; under &#x0022;Manage Account&#x0022; Loo.">
 <!ENTITY verifying.label              "Moko…">
-<!ENTITY resetPassword.label          "Ter icwil me donyo nitit">
+<!ENTITY resetPassword.label          "Ter mungi nitit">
 <!ENTITY resetSyncKey.label           "Arwenyo nyonyo na mukene.">
 <!-- Sync Options -->
 
@@ -80,16 +80,16 @@
 <!ENTITY syncMy.label               "Sync mamega">
 <!ENTITY engine.bookmarks.label     "Alama">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "Tab">
-<!ENTITY engine.tabs.accesskey      "T">
+<!ENTITY engine.tabs.label          "Dirija matidi">
+<!ENTITY engine.tabs.accesskey      "D">
 <!ENTITY engine.history.label       "Mukato">
 <!ENTITY engine.history.accesskey   "t">
-<!ENTITY engine.passwords.label     "icwil me donyo">
-<!ENTITY engine.passwords.accesskey "i">
-<!ENTITY engine.prefs.label         "En ma imito">
+<!ENTITY engine.passwords.label     "Mungii">
+<!ENTITY engine.passwords.accesskey "M">
+<!ENTITY engine.prefs.label         "En ma imaro">
 <!ENTITY engine.prefs.accesskey     "n">
-<!ENTITY engine.addons.label        "Lamed-ikome">
-<!ENTITY engine.addons.accesskey    "L">
+<!ENTITY engine.addons.label        "Med-ikome">
+<!ENTITY engine.addons.accesskey    "M">
 
 <!ENTITY choice2.merge.main.label      "Nya nino dwe me kompiuta man kwede tic mamega me &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Kimoko woko:">
@@ -100,10 +100,10 @@
 <!ENTITY setup.optionsConfirmPage.title "Moki">
 <!ENTITY confirm.merge.label    "&syncBrand.fullName.label; bi nyayo tic me layeny me kompiuta weng i akaunti me Sync.">
 <!ENTITY confirm.client2.label         "Ciko: Tic magi me &brandShortName; ikom kompiuta bi kwanye woko:">
-<!ENTITY confirm.client.moreinfo.label "&brandShortName; bi loko tic mamegi dwoko i kompiuta man me &syncBrand.fullName.label;.">
-<!ENTITY confirm.server2.label         "Cik: nyonyo man bi leyo wang tic mamegi ma gang:">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName; bi loko tic mamegi dwoko i kompiuta man &syncBrand.fullName.label;.">
+<!ENTITY confirm.server2.label         "Cik: nyonyo man bi leyo wang tic mamegi ma i kumpiuta ni:">
 <!-- New & Existing Account: Setup Complete -->
 
-<!ENTITY setup.successPage.title "Tero Otyeko">
+<!ENTITY setup.successPage.title "Terone Otyeko tum">
 <!ENTITY changeOptions.label "Iromo loko en ma imito man kun iyero Sync me ayera piny.">
 <!ENTITY continueUsing.label "Itwero mede kombedi tic ki &brandShortName;.">

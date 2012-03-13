@@ -23,7 +23,7 @@
 <!ENTITY addToDictionary.label "Med i Buk me gonyo nukuta">
 <!ENTITY inputMethod.label     "Yer Yore me Tic">
 
-<!ENTITY allPagesHeader.label      "Pot karatac Weng">
+<!ENTITY allPagesHeader.label      "Pot Buk Weng">
 <!ENTITY bookmarksHeader.label     "Alama buk">
 <!ENTITY historyHeader.label       "Mukato">
 <!ENTITY desktopHeader.label       "Cal ma inyim kompiuta">
@@ -49,10 +49,10 @@
 <!ENTITY addonInstall2.label       "Med i &brandShortName;">
 <!ENTITY addonUninstall.label      "Pe I ket">
 <!ENTITY addonCancel.label         "Juki">
-<!ENTITY addonShowPage.label       "Cet i pot karatac">
+<!ENTITY addonShowPage.label       "Cet i Pot Buk">
 
 <!ENTITY downloadsHeader.label     "En ma kigolo">
-<!ENTITY downloadShowPage.label    "Cet I pot karatac">
+<!ENTITY downloadShowPage.label    "Cet I Pot Buk">
 <!ENTITY downloadShow2.label       "Nwong">
 <!ENTITY downloadOpen2.label       "Yab">
 <!ENTITY downloadCancel.label      "Juki">
@@ -66,7 +66,7 @@
 <!ENTITY noResults.label           "Adwogi pe">
 <!ENTITY allBookmarks.label        "Nen alama buk weng">
 
-<!ENTITY bookmarkPopup.label       "Pot karatac ma kiketo alama ne">
+<!ENTITY bookmarkPopup.label       "Pot Buk ma kiketo Alama ne">
 <!ENTITY bookmarkRemove.label      "Kwany">
 <!ENTITY bookmarkEdit.label        "Yub">
 <!ENTITY bookmarkShortcut.label    "Med I gang kio ma neno">
@@ -111,11 +111,11 @@
 <!ENTITY contextShortcutBookmark.label "Med i Gang me Kio me kompiuta">
 
 <!ENTITY pageactions.saveas.pdf      "Gwok Calo PDF">
-<!ENTITY pageactions.share.page      "Nywak Pot karatac">
+<!ENTITY pageactions.share.page      "Nywak Pot Buk">
 <!ENTITY pageactions.password.forget "Mi wi wil woko ki I cwil me donyo">
 <!ENTITY pageactions.quit            "Wek woko">
 <!ENTITY pageactions.reset           "Ywe koba me di bar">
-<!ENTITY pageactions.findInPage      "Nwong I Pot karatac">
+<!ENTITY pageactions.findInPage      "Nwong I Pot Buk">
 <!ENTITY pageactions.search.addNew   "Med Keno me Yeny">
 <!ENTITY pageactions.charEncoding    "Kit Ma Kicoyo Kwede">
 

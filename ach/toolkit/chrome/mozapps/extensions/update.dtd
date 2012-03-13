@@ -5,16 +5,16 @@
 <!ENTITY  offline.toggleOffline.label     "Woti iwi yamo kombedi.">
 <!ENTITY  offline.toggleOffline.accesskey "W">
 
-<!ENTITY  mismatch.win.title              "Lamed ikome ma pe rwate">
+<!ENTITY  mismatch.win.title              "Lamed ma pe rwate">
 <!ENTITY  mismatch.top.label              "Lamed matye ma eni ni pe rwate kwede cik manyen me &brandShortName; otyeko kwanyo woko:">
-<!ENTITY  mismatch.bottom.label           "&brandShortName; Twero roto ka rwate ki cik manyen ki laned ikome matye ni.">
+<!ENTITY  mismatch.bottom.label           "&brandShortName; Twero roto ka rwate ki cik manyen ki lamed matye ni.">
 
-<!ENTITY  checking.wizard.title           "Tye ka roto pi Rwate me Lamed ikome">
-<!ENTITY  checking.top.label              "Tye ka roto lamed ikome ma perwate pi en manyen…">
+<!ENTITY  checking.wizard.title           "Tye ka roto pi Lamed marwate">
+<!ENTITY  checking.top.label              "Tye ka roto lamed ma perwate pi en manyen…">
 <!ENTITY  checking.status                 "Gin ma eni ni amaro tero dakika manok…">
 
-<!ENTITY  found.wizard.title               "Kinwo lamed ikome ma Rwate">
-<!ENTITY  found.top.label                 "Yer lamed ikome ma imito keto:">
+<!ENTITY  found.wizard.title               "Onongo lamed ma Rwate">
+<!ENTITY  found.top.label                 "Yer lamed ma imito keto:">
 <!ENTITY  found.disabledXPinstall.label   "En manyen matye ni pe twero kete pyen purugram me kompiuta me keto matye kigengo woko. In itwero loko tera ma ipiny kan eni.">
 <!ENTITY  found.enableXPInstall.label     "Wek kakube me web ket purugram me kompiuta">
 <!ENTITY  found.enableXPInstall.accesskey "W">

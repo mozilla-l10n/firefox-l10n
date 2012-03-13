@@ -5,25 +5,25 @@
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
-<!ENTITY loading.label                        "tye ka pango…">
-<!ENTITY listEmpty.installed.label            "I pe kwede lamed ikome mo pa kit fail eni ni ma ki keto">
+<!ENTITY loading.label                        "tye ka gamo…">
+<!ENTITY listEmpty.installed.label            "I pe kwede lamed ma kit man kany">
 <!ENTITY listEmpty.availableUpdates.label     "Ngec manyen pe ononge">
 <!ENTITY listEmpty.recentUpdates.label        "Pwod i pe ki lamed ngec manyen acokcoki">
 <!ENTITY listEmpty.findUpdates.label          "Rot Pi Ngec manyen">
 <!ENTITY listEmpty.search.label               "Pe oromo nongo lakub lamed ikome">
-<!ENTITY listEmpty.button.label               "Nong ngec makato ki ikom lamed ikome">
-<!ENTITY installAddonFromFile.label           "Ket Lamed ikome Ki Fail…">
+<!ENTITY listEmpty.button.label               "Nong ngec matut i ikom lamed">
+<!ENTITY installAddonFromFile.label           "Ket Lamed Ki i pwail…">
 <!ENTITY installAddonFromFile.accesskey       "K">
 <!ENTITY toolsMenu.tooltip                    "Gitic pi lamed ikome weng">
 
-<!ENTITY cmd.back.tooltip                     "Dok cen pot karatac acel">
-<!ENTITY cmd.forward.tooltip                  "Wot anyim pot karatac acel">
+<!ENTITY cmd.back.tooltip                     "Dok cen pot buk acel">
+<!ENTITY cmd.forward.tooltip                  "Wot anyim ki pot buk acel">
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Lamed ikome weng tye ma kikwanyo woko ki i kit magwoke maber.">
 <!ENTITY warning.checkcompatibility.label          "Med ikome kityeko juko woko roto rwate ne. I romo bedo ki med ikome mape rwate.">
-<!ENTITY warning.checkcompatibility.enable.label   "mi tii">
-<!ENTITY warning.checkcompatibility.enable.tooltip "Mi lamed ikome tii ki rwate ne rote">
+<!ENTITY warning.checkcompatibility.enable.label   "mi otii">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Mi lamed ikome otii ki rwate ne rote">
 <!ENTITY warning.updatesecurity.label              "Ngec manyen ikom lamed ki roto gwok tye ma kikwanyo. In imaro nongo bal ki ngec manyen.">
 <!ENTITY warning.updatesecurity.enable.label       "Mi tii">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Mi ngec mayen tii ikom lamed gwok kuc roto">
@@ -34,7 +34,7 @@
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "Yeny">
-<!ENTITY view.discover.label                  "Nwong lamed ikome">
+<!ENTITY view.discover.label                  "Nong lamed">
 <!ENTITY view.recentUpdates.label             "Ngec manyen Macocoki">
 <!ENTITY view.availableUpdates.label          "Ngec manyen Matye">
 <!-- addon updates -->
@@ -108,20 +108,20 @@
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 
 <!ENTITY discover.title                       "Ngo ame obedo lamed ikome?">
-<!ENTITY discover.description2                "Tic me lamed ikome ma mini iketo piri keni &brandShortName; kwede
+<!ENTITY discover.description2                "Tic pa lamed tye me mini iketo piri keni &brandShortName; kwede
 tic mogo madwong onyo kite. Tem gwoko cawa me bar pa teng, lami ngec me kot, onyo lakwan amut nen me timo&brandShortName; 
 mapiri keni.">
 <!ENTITY discover.footer                      "Ka ikube i intanet, kiit dare me dirija 
 ma pire tek ki ma nongo yot pi lamed ikome pi in me temo ne.">
 <!-- detail view -->
 
-<!ENTITY detail.version.label                 "Cik">
+<!ENTITY detail.version.label                 "Kite">
 <!ENTITY detail.lastupdated.label             "Ngec ma Kigiko kwede">
 <!ENTITY detail.creator.label                 "Ladong">
-<!ENTITY detail.homepage.label                "Pot karatac me acaki">
-<!ENTITY detail.numberOfDownloads.label       "Golo">
+<!ENTITY detail.homepage.label                "Pot buk me acaki">
+<!ENTITY detail.numberOfDownloads.label       "Gam">
 
-<!ENTITY detail.contributions.description     "Ngat madongo lamed ikom eni ni tye ka kwayo ni i konye i mede ki cwako dong pi timo jog manok.">
+<!ENTITY detail.contributions.description     "Ngat madongo lamed eni ni tye ka kwayo ni i konye i mede ki cwako dong pi timo jog manok.">
 
 <!ENTITY detail.updateType                    "Ngec mabino pire kene">
 <!ENTITY detail.updateDefault.label           "En matye">
@@ -130,7 +130,7 @@ ma pire tek ki ma nongo yot pi lamed ikome pi in me temo ne.">
 <!ENTITY detail.updateAutomatic.tooltip       "Mi Ngec okete kene">
 <!ENTITY detail.updateManual.label            "Neki">
 <!ENTITY detail.updateManual.tooltip          "Pe i mi ngec oket kene">
-<!ENTITY detail.home                          "Pot karatac me acaki">
+<!ENTITY detail.home                          "Pot buk me acaki">
 <!ENTITY detail.repository                    "Lamed ikom gin makwako">
 <!ENTITY detail.size                          "Dite">
 
@@ -169,7 +169,7 @@ ma pire tek ki ma nongo yot pi lamed ikome pi in me temo ne.">
 <!ENTITY search.filter2.available.label       "Lamed ikome matye">
 <!ENTITY search.filter2.available.tooltip     "Nyut lamed ikome mayte me aketa">
 
-<!ENTITY addon.homepage                       "Pot karatac me acaki">
+<!ENTITY addon.homepage                       "Pot buk me acaki">
 <!ENTITY addon.details.label                  "Mukene">
 <!ENTITY addon.details.tooltip                "Nuyt lok yore kiyore mukene makwako lamed ikome ma eni ni">
 <!ENTITY addon.unknownDate                    "Pe ngene">
@@ -183,7 +183,7 @@ ma pire tek ki ma nongo yot pi lamed ikome pi in me temo ne.">
      necessary -->
 <!ENTITY addon.update.postfix                 "Mii Ngec">
 <!ENTITY addon.undoAction.label               "Dok cen">
-<!ENTITY addon.undoAction.tooltip             "Mi keto tic ma eni ni dok cen">
+<!ENTITY addon.undoAction.tooltip             "Dok cen odoco">
 <!ENTITY addon.undoRemove.label               "Dok cen">
 <!ENTITY addon.undoRemove.tooltip             "Gwok lamed ikome ma eni ni ma okete">
 <!ENTITY addon.restartNow.label               "Cak niitit kombedi">

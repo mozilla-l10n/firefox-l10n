@@ -1,9 +1,9 @@
 
 <!ENTITY migrationWizard.title          "Kel Wizad ki woko">
 
-<!ENTITY importFrom.label               "Kelo ki woko me ayera, Keto alama me buk, Mukato,Icwil ki tic mapat ki:">
-<!ENTITY importFromUnix.label           "Kel ki woko en ma imito, Ket alama buk, Mukato, Icwil ki tic mapat ki:">
-<!ENTITY importFromBookmarks.label      "Kel ki woko Keto alama buk ki:">
+<!ENTITY importFrom.label               "Kelo ki woko me ayera, Alama me buk, Mukato,Mung ki tic mapat:">
+<!ENTITY importFromUnix.label           "Kel ki woko en ma imito, alama buk, Mukato, Mung ki tic mapat:">
+<!ENTITY importFromBookmarks.label      "Kel ki woko Keto alama buk:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
@@ -11,12 +11,14 @@
 <!ENTITY importFromNothing.accesskey    "P">
 <!ENTITY importFromSafari.label         "Safari">
 <!ENTITY importFromSafari.accesskey     "S">
-<!ENTITY importFromChrome.label         "Layeny Web">
-<!ENTITY importFromChrome.accesskey     "L">
-<!ENTITY importFromHTMLFile.label       "Ki File me HTML">
-<!ENTITY importFromHTMLFile.accesskey   "K">
+<!ENTITY importFromChrome.label         "Chrome">
+<!ENTITY importFromChrome.accesskey     "C">
+<!ENTITY importFromFirefox.label        "Firefox">
+<!ENTITY importFromFirefox.accesskey    "x">
+<!ENTITY importFromHTMLFile.label       "Oa ki HTML Pwail">
+<!ENTITY importFromHTMLFile.accesskey   "O">
 
-<!ENTITY noMigrationSources.label       "Pe tye purugram mo matye ki alama buk, mukato onyo icwil ma kiromo nongo.">
+<!ENTITY noMigrationSources.label       "Pe tye purugram mo matye ki alama buk, mukato onyo mung ma kiromo nongo.">
 
 <!ENTITY importSource.title             "Kel Tera ki Tic ki woko">
 <!ENTITY importItems.title              "Jami me akela ki woko">
@@ -28,6 +30,6 @@
 <!ENTITY selectProfile.title            "Yer Ka gwoko">
 <!ENTITY selectProfile.label            "Kagwoko magi nonge me kelo ki:">
 
-<!ENTITY done.title                     "Kel ki woko Otyeko">
-<!ENTITY done.label                     "Jami magi ki loyo kelo ne ki woko:">
+<!ENTITY done.title                     "Kel ki woko otum maber">
+<!ENTITY done.label                     "Jami magi okele maber woko:">
 

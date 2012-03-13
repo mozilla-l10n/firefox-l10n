@@ -1,12 +1,12 @@
-<!ENTITY blocklist.title             "Add-ons twero kelo peko">
+<!ENTITY blocklist.title             "Medo ikome twero kelo peko">
 <!ENTITY blocklist.style             "width: 45em; height: 30em">
-<!ENTITY blocklist.summary           "&brandShortName; otyeko nongo ni add-ons magi kingeyo ne pi balo bedo mot onyo peko me gwoko kuc:">
-<!ENTITY blocklist.softblocked       "Pi gwoke mamegi, kimoko atek atika ni i cak nitit ki add-ons ma kijuko woko.">
-<!ENTITY blocklist.hardblocked       "add-ons magi tye ki tek me balo bedo mot onyo peko me gwoko kuc ci kityeko loro woko, ento cako nitit mite pi juko gi matwal.">
-<!ENTITY blocklist.softandhard       "add=ons matye ki tek me balo bedo mot onyo peko me gwoko kuc ci kityeko loro woko. mukene tye ki tek mapiny, ento kimoko ne matek ni icak nitit kwed gi ma kijuko.">
+<!ENTITY blocklist.summary           "&brandShortName; otyeko nongo ni gin ameda magi kingeyo pi kelo ber bedo onyo peko me gwoko kuc:">
+<!ENTITY blocklist.softblocked       "Me gwoki, mite ni omyero iyab kompitani odoco kun nongo iweko lamed woko.">
+<!ENTITY blocklist.hardblocked       "Lamed magi twero kelo ber bedo onyo balo ber bedo, pimeno kiloro woko. Cako odoco twero balo woko weng matwal.">
+<!ENTITY blocklist.softandhard       "Lamed ma twero yubo onyo balo ber bedo kiloro woko. Mukeneni pe dok rac tutwal, ento pire tek ni icak kwedgi opdoco.">
 <!ENTITY blocklist.moreinfo          "ngec mapol">
 
-<!ENTITY blocklist.accept.label      "Cak nitit &brandShortName;">
+<!ENTITY blocklist.accept.label      "Cak odoco &brandShortName;">
 <!ENTITY blocklist.accept.accesskey  "C">
 
 <!ENTITY blocklist.blocked.label     "Kigengo woko">

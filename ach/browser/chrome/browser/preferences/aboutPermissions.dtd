@@ -1,4 +1,4 @@
-<!ENTITY permissionsManager.title        "Lalo twero">
+<!ENTITY permissionsManager.title        "Lami Twero">
 
 <!ENTITY sites.search                    "Yeny di bar">
 <!ENTITY sites.allSites                  "Di bar Weng">
@@ -11,15 +11,15 @@
 
 <!ENTITY header.defaults                 "Twero me Gang pi di bar Weng">
 
-<!ENTITY permissions.forgetSite          "Mii wi wil woko ikom di bar man">
+<!ENTITY permissions.forgetSite          "Wek wii owil woko ikom di bar man">
 
-<!ENTITY permission.alwaysAsk            "Pol kare Peny">
-<!ENTITY permission.allow                "Weki">
-<!ENTITY permission.allowForSession      "Wek pi kare ne">
+<!ENTITY permission.alwaysAsk            "Peny kare ducu">
+<!ENTITY permission.allow                "Yee">
+<!ENTITY permission.allowForSession      "Yee pi kare">
 <!ENTITY permission.block                "Geng">
 
-<!ENTITY password.label                  "Kan I cwil me donyo">
-<!ENTITY password.manage                 "Loo I cwil me donyo…">
+<!ENTITY password.label                  "Kan mung">
+<!ENTITY password.manage                 "Loo Mung">
 
 <!ENTITY cookie.label                    "Ter Kakube">
 <!ENTITY cookie.remove                   "Kwany Kakube woko">

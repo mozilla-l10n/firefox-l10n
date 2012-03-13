@@ -8,7 +8,7 @@
   "known").
 -->
 
-<!ENTITY  blockAttackSites.label     "Geng kakube ma gi mito">
+<!ENTITY  blockAttackSites.label     "Geng woko kakube ma gi cobo">
 <!ENTITY  blockAttackSites.accesskey "g">
 
 <!ENTITY  blockWebForgeries.label     "Geng kakube ma rac ma gicwalo ngec ne">

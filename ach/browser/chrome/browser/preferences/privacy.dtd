@@ -70,8 +70,8 @@
 <!ENTITY  rememberDownload.label         "Poo ikom golo lok mukato">
 <!ENTITY  rememberDownload.accesskey     "g">
 
-<!ENTITY  rememberSearchForm.label       "Poo ikom yeny ki karatac me lok ma okato">
-<!ENTITY  rememberSearchForm.accesskey   "k">
+<!ENTITY  rememberSearchForm.label       "Poo ikom yeny ki buk me lok mukato">
+<!ENTITY  rememberSearchForm.accesskey   "b">
 
 <!ENTITY  clearOnClose.label             "Kwany lok mukato ka &brandShortName; lore">
 <!ENTITY  clearOnClose.accesskey         "y">

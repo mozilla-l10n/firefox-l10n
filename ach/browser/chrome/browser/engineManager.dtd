@@ -1,12 +1,12 @@
 <!ENTITY  engineManager.title       "Lo Nying Keno me Yenyo">
 <!ENTITY  engineManager.style       "min-width: 35em;">
-<!ENTITY  engineManager.intro       "Itye ki keno me yeny ma kiketo:">
+<!ENTITY  engineManager.intro       "Itye ki ot keno me yeny magi madong ki keto:">
 
 <!ENTITY  columnLabel.name          "Nying">
-<!ENTITY  columnLabel.keyword       "Lok mapire tek">
+<!ENTITY  columnLabel.keyword       "Lok ma pire tek">
 <!-- Buttons -->
 
-<!ENTITY  up.label                  "Wot Malu">
+<!ENTITY  up.label                  "Wot Malo">
 <!ENTITY  up.accesskey              "M">
 <!ENTITY  dn.label                  "Wot Piny">
 <!ENTITY  dn.accesskey              "P">
@@ -15,11 +15,11 @@
 <!ENTITY  edit.label                "Yub Lok mapire tek…">
 <!ENTITY  edit.accesskey            "b">
 
-<!ENTITY  addEngine.label           "Nong keno me yeny mapol…">
+<!ENTITY  addEngine.label           "Nong keno me yeny mapol makato…">
 <!ENTITY  addEngine.accesskey       "n">
 
-<!ENTITY  enableSuggest.label       "Nyut yeny tam amia">
+<!ENTITY  enableSuggest.label       "Nyut byek me yeny maplo">
 <!ENTITY  enableSuggest.accesskey   "N">
 
-<!ENTITY  restoreDefaults.label     "Dwogo ka ma oaa iye">
+<!ENTITY  restoreDefaults.label     "Dwok kit ma onongo tye kwede">
 <!ENTITY  restoreDefaults.accesskey "w">
