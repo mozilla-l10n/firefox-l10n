@@ -1,5 +1,5 @@
 <!ENTITY blocklist.title             "Programu jalizi zinaweza kuwa zinasababisha matatizo">
-<!ENTITY blocklist.style             "upana: 45em; urefu: 30em">
+<!ENTITY blocklist.style             "width: 45em; height: 30em">
 <!ENTITY blocklist.summary           "&brandShortName; imeamua kwamba programu jalizi zifuatazo zinasababisha uthabitity au matatizo ya usalama:">
 <!ENTITY blocklist.softblocked       "Kwa ulindaji wako, inapendekezwa sana uashe upya na programu jalizi kama zimelemazwa.">
 <!ENTITY blocklist.hardblocked       "Programu jalizi zina hatari kubwa ya kusababisha uthabiti au matatizo ya usalama na zimezuiliwa, lakini kuanza upya kunahitajika ili kuilemaza kabisa.">
