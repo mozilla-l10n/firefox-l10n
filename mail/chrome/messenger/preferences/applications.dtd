@@ -23,7 +23,7 @@
 
 <!ENTITY addCloudFileAccount.label        "Ajouter">
 <!ENTITY addCloudFileAccount.accesskey    "A">
-<!ENTITY addCloudFileAccount.description  "Ajouter un nouveau service de stocakge en ligne">
+<!ENTITY addCloudFileAccount.description  "Ajouter un nouveau service de stockage en ligne">
 <!ENTITY removeCloudFileAccount.label     "Supprimer">
 <!ENTITY removeCloudFileAccount.accesskey "S">
 <!ENTITY authRequired.description         "Votre autorisation est nécessaire pour afficher les paramètres de ce service de stockage.">
