@@ -11,7 +11,7 @@
 <!ENTITY button.removeallcookies.label "Összes süti törlése">
 <!ENTITY button.removeallcookies.accesskey "s">
 
-<!ENTITY search.placeholder "Search Cookies">
+<!ENTITY search.placeholder "Sütik keresése">
 <!ENTITY focusSearch.key "f">
 <!ENTITY windowClose.key "w">
 <!ENTITY selectAll.key "a">
