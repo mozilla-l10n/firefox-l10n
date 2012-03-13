@@ -10,28 +10,7 @@
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
 
-<!ENTITY undoCmd.label             "Ongedaan maken">
-<!ENTITY undoCmd.accesskey         "O">
-<!ENTITY undoCmd.key               "Z">
-<!ENTITY undoCmd.label             "Ongedaan maken">
-<!ENTITY undoCmd.accesskey         "O">
-<!ENTITY undoCmd.key               "Z">
-<!ENTITY cutCmd.label              "Knippen">
-<!ENTITY cutCmd.accesskey          "n">
-<!ENTITY copyCmd.label             "Kopiëren">
-<!ENTITY copyCmd.accesskey         "K">
-<!ENTITY pasteCmd.label            "Plakken">
-<!ENTITY pasteCmd.accesskey        "P">
-<!ENTITY deleteCmd.label           "Verwijderen">
-<!ENTITY deleteCmd.accesskey       "w">
-<!ENTITY selectAllCmd.label        "Alles selecteren">
-<!ENTITY selectAllCmd.accesskey    "A">
-<!ENTITY findCmd.label             "Zoeken…">
-<!ENTITY findCmd.accesskey         "Z">
-<!ENTITY findAgainCmd.label        "Opnieuw zoeken…">
-<!ENTITY findAgainCmd.accesskey    "u">
 <!ENTITY gotoLineCmd.label         "Spring naar regel…">
 <!ENTITY gotoLineCmd.key           "S">
 <!ENTITY gotoLineCmd.accesskey     "J">
-
 
