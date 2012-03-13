@@ -11,7 +11,7 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Serwer">
-<!ENTITY serverType.main.label      "Serwer &syncBrand.fullName.label;">
+<!ENTITY serverType.default.label      "Domyślny: serwer &syncBrand.fullName.label; Mozilli">
 <!ENTITY serverType.custom2.label   "Użyj innego serwera…">
 <!ENTITY signIn.account2.label      "Konto">
 <!ENTITY signIn.account2.accesskey  "K">
