@@ -4,7 +4,6 @@
 <!ENTITY     props.path.label               "Laawol:">
 <!ENTITY     props.secure.label             "Neldan:">
 <!ENTITY     props.expires.label            "Maa gaas:">
-<!ENTITY     props.policy.label             "Dawirgol:"> 
 
 <!ENTITY     button.allow.label             "Yamir">
 <!ENTITY     button.allow.accesskey         "Y">

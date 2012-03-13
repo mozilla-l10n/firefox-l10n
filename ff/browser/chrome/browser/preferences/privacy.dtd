@@ -16,10 +16,10 @@
 <!ENTITY  locbar.nothing.label          "Hay huunde">
 
 
-<!ENTITY  acceptCookies.label           "Jaɓ kukiiji iwde e lowe">
+<!ENTITY  acceptCookies.label           "Jaɓ kukiiji iwɗi e lowe">
 <!ENTITY  acceptCookies.accesskey       "J">
 
-<!ENTITY  acceptThirdParty.label        "Jaɓ kukiiji jiggaaɗe">
+<!ENTITY  acceptThirdParty.label        "Jaɓ kukiiji jiggaaɗi">
 <!ENTITY  acceptThirdParty.accesskey    "a">
 
 <!ENTITY  keepUntil.label               "Mooftu haa:">

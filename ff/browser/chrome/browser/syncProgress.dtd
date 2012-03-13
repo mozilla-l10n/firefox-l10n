@@ -3,7 +3,7 @@
 <!-- These strings are used in the sync progress upload page -->
 
 <!ENTITY syncProgress.pageTitle    "Sync Maa Gadano">
-<!ENTITY syncProgress.textBlurb    "Keɓe maa ngoni jooni ko e ganneede e naatnoyeede e cakkitol. Aɗa waawi uddude ndee tabbere tee njokkaa huutoraade &brandShortName;.">
+<!ENTITY syncProgress.textBlurb    "Keɓe maa ngoni jooni ko e ganneede e yolleede e cakkitol. Aɗa waawi uddude ndee tabbere tee njokkaa huutoraade &brandShortName;.">
 <!ENTITY syncProgress.closeButton  "Uddu">
 <!ENTITY syncProgress.logoAltText  "Logo &brandShortName;">
 <!ENTITY syncProgress.diffText     "&brandShortName; maa saɗ sync e jaajol tawa ko e cakkitol.  Aɗa waawi uddude ndee tabbere tee njokkaa huutoraade &brandShortName;.">

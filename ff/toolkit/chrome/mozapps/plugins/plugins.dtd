@@ -34,8 +34,8 @@
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "Loowtu hello ngoo">
 <!ENTITY reloadPlugin.post                                   " ngam fuɗɗitaade.">
-<!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.checkbox                                     "…tee neldaa jaŋtol hookre">
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "Neldu jaŋtol hookre">
 <!ENTITY report.submitting                                   "Nana nelda jaŋtol…">
 <!ENTITY report.submitted                                    "Jaŋtol hookre neldaama.">
 <!ENTITY report.disabled                                     "Jaŋtagol kooke koko daaƴaa.">

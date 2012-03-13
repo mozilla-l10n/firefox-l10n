@@ -3,7 +3,7 @@
      and regret that we are unable to restore the session for the user -->
 
 <!ENTITY restorepage.errorTitle     "Ee bo, ɗum deh ena haamnii.">
-<!ENTITY restorepage.problemDesc    "&brandShortName; heɓiiii caɗeele artirde kenorɗe e tabbe maa. Heewi addude ɗum ko hello udditaango ko ɓooyaani.">
+<!ENTITY restorepage.problemDesc    "&brandShortName; heɓii caɗeele artirde kenorɗe e tabbe maa. Heewi addude ɗum ko hello udditaango ko ɓooyaani.">
 <!ENTITY restorepage.tryThis        "Aɗa waawi etaade:">
 <!ENTITY restorepage.restoreSome    "Uddude tabbere walla tabbe ɗe cikku-ɗaa ngaddi caɗeele ɗee.">
 <!ENTITY restorepage.startNew       "Nana fuɗɗoo naatal peeragol kesal pul">

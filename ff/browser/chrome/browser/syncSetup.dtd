@@ -41,7 +41,7 @@
 <!-- My Recovery Key dialog -->
 
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; Ena tiiɗaa Suturo Maa">
-<!ENTITY setup.newRecoveryKeyPage.description.label "Ngam hisnude suturo maa kuuɓɗo, keɓe maa fof ko gannaaɗi hade amjje naatnoyeede. Kelal Yiytorde baawngal ittude gannagol keɓe maa ngol naatnoytaake.">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Ngam hisnude suturo maa kuuɓɗo, keɓe maa fof ko gannaaɗi hade majje yolleede. Kelal Yiytorde baawngal ittude gannagol keɓe maa ngol yolletaake.">
 <!ENTITY recoveryKeyEntry.label        "Kelal Yiytorde Maa">
 <!ENTITY recoveryKeyEntry.accesskey    "M">
 <!ENTITY syncGenerateNewKey.label  "Sosto kelal kesal">

@@ -43,8 +43,8 @@
 <!ENTITY aboutWarningButton.label "Ma mi reento, mi hokkii konngol am!">
 <!ENTITY aboutWarningCheckbox.label "Hollu ngoo reentino laawol garowol">
 
-<!ENTITY searchPrefs.label "Search:">
-<!ENTITY searchPrefs.accesskey "r">
+<!ENTITY searchPrefs.label "Yiylo:">
+<!ENTITY searchPrefs.accesskey "i">
 <!ENTITY focusSearch.key "r">
 <!-- Columns -->
 
