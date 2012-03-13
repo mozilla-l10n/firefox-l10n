@@ -1,6 +1,2 @@
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "Ny flik">
-
-<!ENTITY newtab.show "Visa sidan Ny flik">
-<!ENTITY newtab.hide "Dölj sidan Ny flik">
-<!ENTITY newtab.reset "Återställ sidan Ny flik">
