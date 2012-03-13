@@ -62,9 +62,9 @@
 <!ENTITY calendar.subscribe.label                          "Підписатись на віддалений календар…">
 <!ENTITY calendar.subscribe.accesskey                      "п">
 
-<!ENTITY calendar.reloadserver.label                       "Перевантажити віддалені календарі">
-<!ENTITY calendar.reloadserver.key                         "R">
-<!ENTITY calendar.reloadserver.accesskey                   "ж">
+<!ENTITY calendar.synccalendars.label                      "Синхронізувати календарі">
+<!ENTITY calendar.synccalendars.key                        "R">
+<!ENTITY calendar.synccalendars.accesskey                  "С">
 
 <!ENTITY calendar.publish.calendar.label                   "Опублікувати календар…">
 <!ENTITY calendar.publish.calendar.accesskey               "б">

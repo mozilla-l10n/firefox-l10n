@@ -79,7 +79,6 @@
 
 <!ENTITY  linksTab              "Посилання">
 <!ENTITY  linksTab.accesskey    "П">
-<!ENTITY  linkNo                "Номер">
 <!ENTITY  linkName              "Назва">
 <!ENTITY  linkAddress           "Адреса">
 <!ENTITY  linkType              "Тип">

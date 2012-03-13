@@ -9,7 +9,7 @@
 <!ENTITY alwaysEncryptMessage.accesskey "З">
 <!ENTITY encryptionCert.message "Особистий сертифікат для шифрування: ">
 <!ENTITY digitalSign.certificate.button "Вибрати…">
-<!ENTITY digitalSign.certificate.accesskey "О">
+<!ENTITY digitalSign.certificate.accesskey "В">
 <!ENTITY digitalSign.certificate_clear.button "Очистити">
 <!ENTITY digitalSign.certificate_clear.accesskey "ч">
 <!ENTITY encryption.certificate.button "Вибрати…">

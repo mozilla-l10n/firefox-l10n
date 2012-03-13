@@ -1,4 +1,3 @@
-<!ENTITY messengerWindow.title "Пошта та новини">
 <!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " — ">
 
@@ -136,8 +135,8 @@
 <!ENTITY messagePaneWide.accesskey "Ш">
 <!ENTITY messagePaneVertical.label "Вертикальне">
 <!ENTITY messagePaneVertical.accesskey "В">
-<!ENTITY showFolderPaneCmd.label "Folder Pane">
-<!ENTITY showFolderPaneCmd.accesskey "F">
+<!ENTITY showFolderPaneCmd.label "Панель тек">
+<!ENTITY showFolderPaneCmd.accesskey "т">
 <!ENTITY showMessageCmd.label "Область перегляду листів">
 <!ENTITY showMessageCmd.accesskey "О">
 
@@ -333,6 +332,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY thisFolder.label "Ця тека">
 <!ENTITY thisFolder.accesskey "Ц">
 <!ENTITY goRecentlyClosedTabs.label "Недавно закриті вкладки">
+<!ENTITY goRecentlyClosedTabs.accesskey "к">
 <!ENTITY startPageCmd.label "Початкова сторінка">
 <!ENTITY startPageCmd.accesskey "ч">
 
@@ -588,8 +588,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextMarkMailFolderRead.accesskey "ч">
 <!ENTITY folderContextSubscribe.label "Підписатися…">
 <!ENTITY folderContextSubscribe.accesskey "д">
-<!ENTITY folderContextSearchMessages.label "Пошук повідомлень…">
-<!ENTITY folderContextSearchMessages.accesskey "П">
+<!ENTITY folderContextSearchForMessages.label "Шукати повідомлення…">
+<!ENTITY folderContextSearchForMessages.accesskey "Ш">
 <!ENTITY folderContextProperties.label "Властивості…">
 <!ENTITY folderContextProperties.accesskey "В">
 <!ENTITY folderContextFavoriteFolder.label "Тека обраних">

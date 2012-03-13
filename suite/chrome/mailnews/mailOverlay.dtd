@@ -6,3 +6,5 @@
 <!ENTITY  newContactCmd.label             "Контакт…">
 <!ENTITY  newContactCmd.accesskey         "К">
  
+<!ENTITY printButton.label "Друкувати">
+<!ENTITY printButton.tooltip "Друкувати цей лист">
