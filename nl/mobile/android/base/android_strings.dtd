@@ -28,6 +28,7 @@
 <!ENTITY awesomebar_default_text "Voer zoekterm of adres in">
 
 <!ENTITY remote_tabs "Gesynchroniseerde tabbladen">
+<!ENTITY remote_tabs_show_all "Alle tabbladen tonen">
 
 <!ENTITY bookmark "Bladwijzer">
 <!ENTITY bookmark_added "Bladwijzer toegevoegd">
