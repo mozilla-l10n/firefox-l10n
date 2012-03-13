@@ -82,8 +82,9 @@
 <!ENTITY copyMessage.label "Перемістити лист у">
 <!ENTITY forwardTo.label "Переслати лист до">
 <!ENTITY replyWithTemplate.label "Відповісти за шаблоном">
-<!ENTITY markMessageRead.label "Призначити як прочитане">
-<!ENTITY markMessageStarred.label "Призначити позначеним">
+<!ENTITY markMessageRead.label "Позначити як прочитане">
+<!ENTITY markMessageUnread.label "Позначити як нечитане">
+<!ENTITY markMessageStarred.label "Позначити зірочкою">
 <!ENTITY setPriority.label "Змінити важливість на">
 <!ENTITY addTag.label "Помітити лист">
 <!ENTITY setJunkScore.label "Встановити ознаку спаму">

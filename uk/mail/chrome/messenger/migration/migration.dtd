@@ -6,8 +6,8 @@
 
 <!ENTITY importFromNothing.label        "Не імпортувати нічого">
 <!ENTITY importFromNothing.accesskey    "н">
-<!ENTITY importFromSeamonkey2.label     "Netscape 6, 7, Mozilla 1.x чи SeaMonkey">
-<!ENTITY importFromSeamonkey2.accesskey "M">
+<!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 та старше">
+<!ENTITY importFromSeamonkey3.accesskey "S">
 <!ENTITY importFromOExpress.label       "Outlook Express">
 <!ENTITY importFromOExpress.accesskey   "u">
 <!ENTITY importFromOutlook.label        "Outlook">

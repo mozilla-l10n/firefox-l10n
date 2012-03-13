@@ -326,12 +326,6 @@
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Панель меню">
 <!ENTITY formatToolbar.tooltip "Панель форматування">
-<!ENTITY newToolbarCmd.label "Нова">
-<!ENTITY newToolbarCmd.tooltip "Створити нову сторінку Компонувальника">
-<!ENTITY openToolbarCmd.label "Відкрити">
-<!ENTITY openToolbarCmd.tooltip "Відкрити локальний файл">
-<!ENTITY saveToolbarCmd.tooltip "Зберегти файл локально">
-<!ENTITY publishToolbarCmd.tooltip "Завантажити файл на віддалений сервер">
 <!ENTITY cutToolbarCmd.tooltip "Вирізати">
 <!ENTITY copyToolbarCmd.tooltip "Копіювати">
 <!ENTITY pasteToolbarCmd.tooltip "Вставити">

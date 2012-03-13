@@ -1,6 +1,12 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the Scratchpad window strings -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
+<!-- LOCALIZATION NOTE : FILE The correct localization of this file might be to
+  - keep it in English, or another language commonly spoken among web developers.
+  - You want to make that choice consistent across the developer tools.
+  - A good criteria is the language in which you'd find the best
+  - documentation on web development on the web. -->
+
 <!-- LOCALIZATION NOTE (scratchpad.title):
   -  The Scratchpad is intended to provide a simple text editor for creating
   -  and evaluating bits of JavaScript code for the purposes of function
@@ -60,6 +66,26 @@
 <!ENTITY selectAllCmd.label           "Виділити все">
 <!ENTITY selectAllCmd.key             "A">
 <!ENTITY selectAllCmd.accesskey       "с">
+
+<!ENTITY findCmd.label                "Знайти…">
+<!ENTITY findCmd.key                  "F">
+<!ENTITY findCmd.accesskey            "З">
+
+<!ENTITY findAgainCmd.label           "Знайти знову…">
+<!-- LOCALIZATION NOTE (findAgainCmd.key): This key is used only on Macs.
+  -  Windows and Linux builds use the F3 key which is not localizable on purpose.
+  -->
+<!ENTITY findAgainCmd.key             "G">
+<!ENTITY findAgainCmd.accesskey       "з">
+<!-- LOCALIZATION NOTE (findPreviousCmd.key): This key is used only on Macs.
+  -  Windows and Linux builds use the Shift-F3 key which is not localizable on
+  -  purpose.
+  -->
+<!ENTITY findPreviousCmd.key          "G">
+
+<!ENTITY gotoLineCmd.label            "До рядка…">
+<!ENTITY gotoLineCmd.key              "J">
+<!ENTITY gotoLineCmd.accesskey        "р">
 
 <!ENTITY run.label                    "Запустити">
 <!ENTITY run.accesskey                "п">

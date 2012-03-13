@@ -2,7 +2,7 @@
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description "Ласкаво просимо. Якщо ви раніше не використовували &syncBrand.fullName.label;, вам треба буде створити новий обліковий запис.">
+<!ENTITY setup.pickSetupType.description2 "Ласкаво просимо. Якщо ви раніше ніколи не використовували &syncBrand.fullName.label;, вам треба буде створити новий обліковий запис.">
 <!ENTITY button.createNewAccount.label "Створити новий обліковий запис">
 <!ENTITY button.haveAccount.label      "Я маю обліковий запис">
 
@@ -88,6 +88,8 @@
 <!ENTITY engine.passwords.accesskey "П">
 <!ENTITY engine.prefs.label         "Налаштування">
 <!ENTITY engine.prefs.accesskey     "Н">
+<!ENTITY engine.addons.label        "Додатки">
+<!ENTITY engine.addons.accesskey    "Д">
 
 <!ENTITY choice2.merge.main.label      "Об’єднати дані на цьому комп’ютері з моїми даними &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Рекомендовано:">
