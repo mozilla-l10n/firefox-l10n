@@ -12,7 +12,14 @@
 <!ENTITY lastPageRadio.accesskey "U">
 <!ENTITY restoreSessionRadio.label "Ripristina sessione precedente">
 <!ENTITY restoreSessionRadio.accesskey "d">
-<!ENTITY header2.label "Pagina home">
+<!ENTITY restoreSessionIntro.label "Quando si ripristinano sessioni e finestre">
+<!ENTITY restoreImmediately.label "Ripristina tutte le schede immediatamente">
+<!ENTITY restoreImmediately.accesskey "u">
+<!ENTITY restoreTabs.label "Ripristina">
+<!ENTITY restoreTabs.accesskey "R">
+<!ENTITY restoreTabsAtATime.label "schede alla volta">
+<!ENTITY restoreDeferred.label "Ripristina le schede solo quando necessarie">
+<!ENTITY restoreDeferred.accesskey "o">
 <!ENTITY homePageIntro.label "La pressione del pulsante Home fa caricare questo gruppo di pagine:">
 <!ENTITY useCurrent.label "Utilizza pagina corrente">
 <!ENTITY useCurrent.accesskey "z">

@@ -136,8 +136,8 @@
 <!ENTITY event.menu.options.inline.spellcheck.accesskey "C">
 <!ENTITY event.menu.options.link.label "Aggiungi collegamento…">
 <!ENTITY event.menu.options.link.accesskey "u">
-<!ENTITY event.menu.options.timezone.label "Fuso orario">
-<!ENTITY event.menu.options.timezone.accesskey "F">
+<!ENTITY event.menu.options.timezone2.label "Mostra fusi orari">
+<!ENTITY event.menu.options.timezone2.accesskey "M">
 <!ENTITY event.menu.options.priority2.label "Priorità">
 <!ENTITY event.menu.options.priority2.accesskey "P">
 <!ENTITY event.menu.options.priority.notspecified.label "Non specificato">
@@ -331,6 +331,7 @@
 <!ENTITY event.attendee.role.chair "Presidente">
 <!ENTITY event.attendee.role.nonparticipant "Non partecipante">
 <!ENTITY timezone.title.label "Specificare il fuso orario">
+<!ENTITY event.timezone.custom.label "Ulteriori fusi orari…">
 <!ENTITY read.only.general.label "Generale">
 <!ENTITY read.only.title.label "Titolo:">
 <!ENTITY read.only.event.start.label "Data di inizio:">
