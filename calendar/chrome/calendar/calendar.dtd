@@ -64,7 +64,7 @@
 <!ENTITY calendar.events.filter.today.label             "Heutige Termine">
 <!ENTITY calendar.events.filter.future.label            "Alle zukünftigen Termine">
 <!ENTITY calendar.events.filter.current.label           "Momentan gewählter Tag">
-<!ENTITY calender.events.filter.currentview.label       "Termine in der aktuellen Ansicht">
+<!ENTITY calendar.events.filter.currentview.label       "Termine in der aktuellen Ansicht">
 <!ENTITY calendar.events.filter.next7Days.label         "Termine in den nächsten 7 Tagen">
 <!ENTITY calendar.events.filter.next14Days.label        "Termine in den nächsten 14 Tagen">
 <!ENTITY calendar.events.filter.next31Days.label        "Termine in den nächsten 31 Tagen">
