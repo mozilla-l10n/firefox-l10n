@@ -157,8 +157,6 @@
 <!ENTITY scratchpad.accesskey "B">
 <!ENTITY scratchpad.keycode "VK_F4">
 <!ENTITY scratchpad.keytext "F4">
-<!ENTITY inspectButton.label "Analizza">
-<!ENTITY inspectButton.accesskey "A">
 <!ENTITY inspectCloseButton.tooltiptext "Chiudi lo strumento di analisi">
 <!ENTITY inspectorHTMLCopyInner.label "M">
 <!ENTITY inspectorHTMLCopyInner.accesskey "Copia HTML interno">
