@@ -1,6 +1,3 @@
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "Novo Separador">
 
-<!ENTITY newtab.show "Mostrar a página do novo separador">
-<!ENTITY newtab.hide "Ocultar a página do novo separador">
-<!ENTITY newtab.reset "Reiniciar a página do novo separador">
