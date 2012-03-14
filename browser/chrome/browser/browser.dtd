@@ -213,8 +213,6 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectButton.label            "檢測">
-<!ENTITY inspectButton.accesskey        "I">
 <!ENTITY inspectCloseButton.tooltiptext "關閉檢測器">
 
 <!ENTITY inspectorHTMLCopyInner.label       "複製內部 HTML">
