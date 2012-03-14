@@ -152,6 +152,8 @@
 <!ENTITY showMessengerToolbarCmd.accesskey "a">
 <!ENTITY showSearchToolbarCmd.label		"Barra de procura">
 <!ENTITY showSearchToolbarCmd.accesskey	"e">
+<!ENTITY showTabsToolbarCmd.label "Barra de ferramentas de separadores">
+<!ENTITY showTabsToolbarCmd.accesskey "t">
 
 <!ENTITY messagePaneLayoutStyle.label "Disposição">
 <!ENTITY messagePaneLayoutStyle.accesskey "D">
