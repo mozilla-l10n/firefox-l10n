@@ -148,8 +148,8 @@
 <!ENTITY  event.menu.options.inline.spellcheck.accesskey      "S">
 <!ENTITY  event.menu.options.link.label                       "Link hinzufügen…">
 <!ENTITY  event.menu.options.link.accesskey                   "L">
-<!ENTITY  event.menu.options.timezone.label                   "Zeitzone">
-<!ENTITY  event.menu.options.timezone.accesskey               "Z">
+<!ENTITY  event.menu.options.timezone2.label                  "Zeitzonen anzeigen">
+<!ENTITY  event.menu.options.timezone2.accesskey              "Z">
 <!ENTITY  event.menu.options.priority2.label                  "Priorität">
 <!ENTITY  event.menu.options.priority2.accesskey              "P">
 <!ENTITY  event.menu.options.priority.notspecified.label      "Nicht angegeben">
@@ -373,6 +373,7 @@
 <!-- Timezone dialog -->
 
 <!ENTITY timezone.title.label            "Bitte geben Sie die Zeitzone an">
+<!ENTITY event.timezone.custom.label     "Mehr Zeitzonen…">
 
 <!-- Read-Only dialog -->
 
