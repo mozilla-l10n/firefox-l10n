@@ -37,8 +37,9 @@
 <!ENTITY portNum.accesskey "P">
 <!ENTITY defaultPortLabel.label "Predefinito:">
 <!ENTITY defaultPortValue.label "">
+<!ENTITY modifyOutgoing.suffix "E' possibile cambiare il server per la posta in uscita nelle impostazioni account.">
 <!ENTITY haveSmtp1.prefix "Sarà usato il server esistente per la posta in uscita (SMTP), &quot;">
-<!ENTITY haveSmtp1.suffix2 "sarà usato &quot;. È possibile cambiare i server in uscita nelle impostazioni dell'account.">
+<!ENTITY haveSmtp1.suffix3 "sarà usato &quot;.">
 <!ENTITY loginTitle.label "Nomi utente">
 <!ENTITY usernameDesc.label "Inserire il nome utente per la posta in entrata comunicato dal proprio fornitore di posta ">
 <!ENTITY usernameExample.label "(ad esempio, &quot;mrossi&quot;).">
@@ -48,9 +49,9 @@
 <!ENTITY usernameSmtpLabel.label "Nome utente in uscita:">
 <!ENTITY usernameSmtpLabel.accesskey "O">
 <!ENTITY haveSmtp2.prefix "Sarà usato il nome utente esistente, &quot;">
-<!ENTITY haveSmtp2.suffix2 "sarà usato &quot;. È possibile cambiare i server in uscita nelle impostazioni dell'account.">
+<!ENTITY haveSmtp2.suffix3 "sarà usato &quot;.">
 <!ENTITY haveSmtp3.prefix "Il server per la posta in uscita (SMTP), &quot;">
-<!ENTITY haveSmtp3.suffix2 "&quot; è identico al server di posta in entrata e il nome utente per la posta in entrata sarà usato per accedere a questo server. È possibile cambiare i server in uscita nelle impostazioni dell'account.">
+<!ENTITY haveSmtp3.suffix3 "&quot;, è il tuo server di posta in arrivo per cui il tuo nome utente sarà usato per accedere ad esso.">
 <!ENTITY accnameTitle.label "Nome account">
 <!ENTITY accnameDesc.label "Inserire un nome per questo account (ad esempio, &quot;Lavoro&quot;, &quot;Casa&quot;, oppure &quot;Account gruppi discussione&quot;).">
 <!ENTITY accnameLabel.label "Nome account:">
