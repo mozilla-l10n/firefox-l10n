@@ -12,7 +12,7 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Servidor">
-<!ENTITY serverType.main.label      "Servidor &syncBrand.fullName.label;">
+<!ENTITY serverType.default.label      "Servidor pré-definido do Mozilla &syncBrand.fullName.label;">
 <!ENTITY serverType.custom2.label    "Usar um servidor personalizado">
 <!ENTITY signIn.account2.label      "Endereço de correio / Nome de utilizador">
 <!ENTITY signIn.account2.accesskey  "u">
