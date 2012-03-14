@@ -154,7 +154,7 @@
 <!ENTITY recentFolders.accesskey "e">
 
 <!-- Sort Menu -->
-<!ENTITY sortMenu.label "Složi po">
+<!ENTITY sortMenu.label "Sortiraj prema">
 <!ENTITY sortMenu.accesskey "S">
 <!ENTITY sortByDateCmd.label "Datumu">
 <!ENTITY sortByDateCmd.accesskey "m">
