@@ -75,7 +75,7 @@
 <!-- Entities for Login page -->
 
 <!ENTITY loginTitle.label "使用者名稱">
-<!ENTITY usernameDesc.label "請輸入您 Email 提供者給您的收信用使用者名稱 (或帳號)">
+<!ENTITY usernameDesc.label "請輸入您 Email 提供者給您的收件用使用者名稱 (或帳號) ">
 <!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
 <!ENTITY usernameExample.label "(例:「ming123」)。">
 <!ENTITY usernameLabel.label "收件使用者帳號:">
