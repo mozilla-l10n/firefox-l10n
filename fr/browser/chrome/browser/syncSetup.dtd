@@ -12,7 +12,7 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Serveur">
-<!ENTITY serverType.main.label      "Serveur &syncBrand.fullName.label;">
+<!ENTITY serverType.default.label   "Par défaut : serveur Mozilla &syncBrand.fullName.label;">
 <!ENTITY serverType.custom2.label   "Utiliser un serveur personnalisé…">
 <!ENTITY signIn.account2.label      "Compte">
 <!ENTITY signIn.account2.accesskey  "o">

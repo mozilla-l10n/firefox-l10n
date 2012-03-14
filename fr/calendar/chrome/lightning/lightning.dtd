@@ -75,9 +75,7 @@
 <!ENTITY lightning.menu.eventtask.accesskey            "v">
 
 <!-- properties dialog, calendar creation wizard -->
-<!ENTITY lightning.calendarproperties.showevents.inagenda.label "Afficher les événements dans le panneau « Aujourd'hui »">
-<!ENTITY lightning.calendarproperties.showtasks.label           "Afficher les tâches dans le panneau « Aujourd'hui » et dans le mode « Tâche »">
-<!ENTITY lightning.calendarproperties.email.label               "Adresse électronique :">
+<!ENTITY lightning.calendarproperties.email.label "Adresse électronique :">
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.description "Ce message contient une invitation.">

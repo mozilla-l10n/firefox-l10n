@@ -43,50 +43,6 @@
 <!ENTITY editMenu.label               "Édition">
 <!ENTITY editMenu.accesskey           "n">
 
-<!ENTITY undoCmd.label                "Annuler">
-<!ENTITY undoCmd.key                  "Z">
-<!ENTITY undoCmd.accesskey            "n">
-
-<!ENTITY redoCmd.label                "Refaire">
-<!ENTITY redoCmd.key                  "Y">
-<!ENTITY redoCmd.accesskey            "R">
-
-<!ENTITY cutCmd.label                 "Couper">
-<!ENTITY cutCmd.key                   "X">
-<!ENTITY cutCmd.accesskey             "C">
-
-<!ENTITY copyCmd.label                "Copier">
-<!ENTITY copyCmd.key                  "C">
-<!ENTITY copyCmd.accesskey            "p">
-
-<!ENTITY pasteCmd.label               "Coller">
-<!ENTITY pasteCmd.key                 "V">
-<!ENTITY pasteCmd.accesskey           "o">
-
-<!ENTITY selectAllCmd.label           "Tout sélectionner">
-<!ENTITY selectAllCmd.key             "A">
-<!ENTITY selectAllCmd.accesskey       "T">
-
-<!ENTITY findCmd.label                "Rechercher…">
-<!ENTITY findCmd.key                  "F">
-<!ENTITY findCmd.accesskey            "R">
-
-<!ENTITY findAgainCmd.label           "Rechercher le suivant…">
-<!-- LOCALIZATION NOTE (findAgainCmd.key): This key is used only on Macs.
-  -  Windows and Linux builds use the F3 key which is not localizable on purpose.
-  -->
-<!ENTITY findAgainCmd.key             "G">
-<!ENTITY findAgainCmd.accesskey       "e">
-<!-- LOCALIZATION NOTE (findPreviousCmd.key): This key is used only on Macs.
-  -  Windows and Linux builds use the Shift-F3 key which is not localizable on
-  -  purpose.
-  -->
-<!ENTITY findPreviousCmd.key          "G">
-
-<!ENTITY gotoLineCmd.label            "Aller à la ligne…">
-<!ENTITY gotoLineCmd.key              "J">
-<!ENTITY gotoLineCmd.accesskey        "r">
-
 <!ENTITY run.label                    "Exécuter">
 <!ENTITY run.accesskey                "E">
 <!ENTITY run.key                      "r">
@@ -119,6 +75,17 @@
   -->
 <!ENTITY browserContext.label         "Navigateur">
 <!ENTITY browserContext.accesskey     "v">
+
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+  -  for the help button in the menubar but Gnome does not.
+  -->
+<!ENTITY helpMenu.label               "Aide">
+<!ENTITY helpMenu.accesskey           "e">
+<!ENTITY helpMenuWin.label            "?">
+<!ENTITY helpMenuWin.accesskey        "?">
+
+<!ENTITY documentationLink.label      "Aide pour l'ardoise JavaScript sur MDN">
+<!ENTITY documentationLink.accesskey  "A">
 
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.

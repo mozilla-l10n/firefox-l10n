@@ -147,8 +147,8 @@
 <!ENTITY event.menu.options.inline.spellcheck.accesskey "V">
 <!ENTITY event.menu.options.link.label "Ajouter un lien…">
 <!ENTITY event.menu.options.link.accesskey "A">
-<!ENTITY event.menu.options.timezone.label "Fuseau horaire">
-<!ENTITY event.menu.options.timezone.accesskey "F">
+<!ENTITY event.menu.options.timezone2.label "Afficher les fuseaux horaires">
+<!ENTITY event.menu.options.timezone2.accesskey "f">
 <!ENTITY event.menu.options.priority2.label "Priorité">
 <!ENTITY event.menu.options.priority2.accesskey "P">
 <!ENTITY event.menu.options.priority.notspecified.label "Non spécifiée">
@@ -371,6 +371,7 @@
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label "Veuillez indiquer le fuseau horaire">
+<!ENTITY event.timezone.custom.label "Plus de fuseaux horaires…">
 
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label "Général">

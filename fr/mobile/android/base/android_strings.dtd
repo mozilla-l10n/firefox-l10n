@@ -26,9 +26,13 @@
 
 <!ENTITY awesomebar_default_text "Recherche ou adresse">
 
+<!ENTITY remote_tabs "Onglets synchronisés">
+<!ENTITY remote_tabs_show_all "Afficher tous les onglets">
+
 <!ENTITY bookmark "Marquer cette page">
 <!ENTITY bookmark_added "Marque-page ajouté">
 <!ENTITY bookmark_removed "Marque-page supprimé">
+<!ENTITY bookmark_updated "Marque-page mis à jour">
 
 <!ENTITY history_today_section "Aujourd\u0027hui">
 <!ENTITY history_yesterday_section "Hier">
@@ -56,7 +60,7 @@
 <!ENTITY pref_char_encoding_off "Masquer le menu">
 <!ENTITY pref_clear_history "Supprimer l\u0027historique">
 <!ENTITY pref_clear_history_confirm "L\u0027historique de navigation sera supprimé">
-<!ENTITY pref_clear_private_data "Supprimer données personnelles">
+<!ENTITY pref_clear_private_data "Supprimer les données personnelles">
 <!ENTITY pref_clear_private_data_confirm "Les paramètres de navigation y compris les mots de passe et les cookies seront supprimés">
 <!ENTITY pref_plugins "Plugins">
 <!ENTITY pref_plugins_enabled "Activé">
@@ -79,11 +83,18 @@
 
 <!ENTITY share "Partager">
 <!ENTITY save_as_pdf "Enregistrer en PDF">
+<!ENTITY share_title "Partager à l\u0027aide de">
 
 <!ENTITY contextmenu_open_new_tab "Ouvrir dans un nouvel onglet">
 <!ENTITY contextmenu_remove_bookmark "Supprimer">
 <!ENTITY contextmenu_add_to_launcher "Ajouter à l\u0027écran d\u0027accueil">
 <!ENTITY contextmenu_share "Partager">
+<!ENTITY contextmenu_edit_bookmark "Modifier">
+
+<!ENTITY bookmark_edit_title "Modifier le marque-page">
+<!ENTITY bookmark_edit_name "Nom">
+<!ENTITY bookmark_edit_location "Emplacement">
+<!ENTITY bookmark_edit_keyword "Mot-clé">
 
 <!ENTITY site_settings_title        "Effacer paramètres de site">
 <!ENTITY site_settings_cancel       "Annuler">

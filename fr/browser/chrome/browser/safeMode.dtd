@@ -39,6 +39,9 @@
 <!ENTITY safeModeDialog.title         "Mode sans échec de &brandShortName;">
 <!ENTITY window.width                 "37em">
 
+<!ENTITY autoSafeModeIntro.label      "&brandShortName; s'est fermé inopinément lors de son démarrage">
+<!ENTITY autoSafeModeDescription.label "Nous vous prions de nous excuser pour ce désagrément. &brandShortName; s'exécute actuellement en mode sans échec, ce qui désactive temporairement vos paramètres personnalisés, vos thèmes et vos extensions.">
+
 <!ENTITY safeModeDescription.label    "&brandShortName; s'exécute actuellement en mode sans échec dans lequel les paramètres, thèmes et extensions personnalisés sont temporairement désactivés.">
 <!ENTITY safeModeDescription2.label   "Il est possible de rendre tout ou partie de ces changements permanents :">
 
