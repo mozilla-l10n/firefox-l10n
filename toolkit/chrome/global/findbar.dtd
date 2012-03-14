@@ -9,8 +9,8 @@
 <!ENTITY previous.accesskey "P">
 <!ENTITY previous.tooltip "尋找文字前次出現的位置">
 <!ENTITY findCloseButton.tooltip "關閉文字尋找列">
-<!ENTITY highlight.label "全部高亮度標示">
+<!ENTITY highlight.label "全部強調標示">
 <!ENTITY highlight.accesskey "a">
-<!ENTITY highlight.tooltiptext "高亮度標記全部字串出現的位置">
+<!ENTITY highlight.tooltiptext "強調出全部字串出現的位置">
 <!ENTITY caseSensitiveCheckbox.label "符合大小寫">
 <!ENTITY caseSensitiveCheckbox.accesskey "c">
