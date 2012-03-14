@@ -1,0 +1,20 @@
+<!ENTITY  startupAction.label         "Quando o &brandShortName; inicia:">
+<!ENTITY  startupAction.accesskey     "c">
+<!ENTITY  startupOffline.label        "Manter a minha conta de chat desligada">
+<!ENTITY  startupConnectAuto.label    "Ligar as minhas contas de chat automaticamente">
+
+<!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
+there's a field where the user can enter a number, and itemTime is
+displayed at the end of the line. The translations of the
+reportIdleAfter.label and idleTime parts don't have to mean the exact
+same thing as in English; please try instead to translate the whole
+sentence. -->
+<!ENTITY  reportIdleAfter.label         "Informar os meus contatos que estou ausente após">
+<!ENTITY  reportIdleAfter.accesskey     "I">
+<!ENTITY  idleTime                      "minutos de inatividades">
+
+<!ENTITY  andSetStatusToAway.label      "e definir o meu estado para ausente com esta mensagem:">
+<!ENTITY  andSetStatusToAway.accesskey  "a">
+
+<!ENTITY  sendTyping.label              "Enviar notificações de escrita nas conversações">
+<!ENTITY  sendTyping.accesskey          "t">

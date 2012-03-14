@@ -26,6 +26,8 @@
 <!ENTITY newCreateEmailAccountCmd.accesskey "O">
 <!ENTITY newExistingEmailAccountCmd.label "Conta de correio existente…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "E">
+<!ENTITY newIMAccountCmd.label "Conta de chat…">
+<!ENTITY newIMAccountCmd.accesskey "C">
 <!ENTITY openMessageFileCmd.label "Abrir mensagem guardada...">
 <!ENTITY openMessageFileCmd.accesskey "A">
 <!ENTITY openAttachmentCmd.label "Anexos">
@@ -325,6 +327,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.label "Retroceder">
 <!ENTITY goBackCmd.accesskey "E">
 <!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goChatCmd.label "Chat">
+<!ENTITY goChatCmd.accesskey "c">
+<!ENTITY goChatCmd.commandKey "C">
 <!ENTITY prevStarredMsgCmd.label "Mensagem com estrela">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
 <!ENTITY folderMenu.label "Pasta">
@@ -468,6 +473,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addons.accesskey "e">
 <!ENTITY activitymanager.label "Gestor de atividade">
 <!ENTITY activitymanager.accesskey "a">
+<!ENTITY imAccountsStatus.label "Estado do chat">
+<!ENTITY imAccountsStatus.accesskey "C">
+<!ENTITY imStatus.available          "Disponível">
+<!ENTITY imStatus.unavailable        "Indisponível">
+<!ENTITY imStatus.offline            "Desligado">
+<!ENTITY imStatus.showAccounts       "Mostrar contas…">
 <!ENTITY savedFiles.label "Ficheiros guardados">
 <!ENTITY savedFiles.accesskey "g">
 <!ENTITY savedFiles.key "j">
@@ -521,6 +532,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.label "Lixo electrónico">
 <!ENTITY notJunkButton.label "Não é lixo eletrónico">
 <!ENTITY addressBookButton.label "Livro de endereços">
+<!ENTITY chatButton.label "Chat">
 <!ENTITY glodaSearch.title "Pesquisa global">
 <!ENTITY searchItem.title "Pesquisa rápida">
 <!ENTITY mailViewsToolbarItem.title "Vistas do correio">
@@ -554,6 +566,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.tooltip "As mensagens seleccionadas são lixo">
 <!ENTITY notJunkButton.tooltip "As mensagens seleccionadas não são lixo">
 <!ENTITY addressBookButton.tooltip "Ir para o livro de endereços">
+<!ENTITY chatButton.tooltip "Mostrar o separador de chat">
 <!ENTITY tagButton.tooltip "Etiqueta as mensagens">
 <!ENTITY compactButton.tooltip "Remover as mensagens eliminadas da pasta seleccionadas">
 
