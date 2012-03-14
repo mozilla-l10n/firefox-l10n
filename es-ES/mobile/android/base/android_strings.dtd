@@ -19,9 +19,12 @@
 <!ENTITY launcher_shortcuts_empty "No se encontraron aplicaciones web">
 <!ENTITY choose_file "Elegir archivo">
 <!ENTITY awesomebar_default_text "Dirección o término a buscar">
+<!ENTITY remote_tabs "Pestañas sincronizadas">
+<!ENTITY remote_tabs_show_all "Mostrar todas las pestañas">
 <!ENTITY bookmark "Marcador">
 <!ENTITY bookmark_added "Marcador añadido">
 <!ENTITY bookmark_removed "Marcador eliminado">
+<!ENTITY bookmark_updated "Marcador añadido">
 <!ENTITY history_today_section "Hoy">
 <!ENTITY history_yesterday_section "Ayer">
 <!ENTITY history_week_section "Hace 7 días">
@@ -70,6 +73,11 @@
 <!ENTITY contextmenu_remove_bookmark "Eliminar">
 <!ENTITY contextmenu_add_to_launcher "Añadir a la pantalla de inicio">
 <!ENTITY contextmenu_share "Compartir">
+<!ENTITY contextmenu_edit_bookmark "Editar">
+<!ENTITY bookmark_edit_title "Editar marcador">
+<!ENTITY bookmark_edit_name "Nombre">
+<!ENTITY bookmark_edit_location "Ubicación">
+<!ENTITY bookmark_edit_keyword "Palabra clave">
 <!ENTITY site_settings_title "Limpiar config. del sitio">
 <!ENTITY site_settings_cancel "Cancelar">
 <!ENTITY site_settings_clear "Limpiar">
