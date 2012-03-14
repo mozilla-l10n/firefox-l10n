@@ -68,7 +68,7 @@
 <!ENTITY sendDefaultCharset.label         "外寄的郵件:">
 <!ENTITY sendDefaultCharset.accesskey     "u">
 <!ENTITY languagesTitle1.label            "字元編碼">
-<!ENTITY composingDescription.label       "設定寄收信時的預設字元編碼">
+<!ENTITY composingDescription.label       "設定收發信件時的預設字元編碼">
 
 <!ENTITY viewDefaultCharsetList.label     "收到的郵件:">
 <!ENTITY viewDefaultCharsetList.accesskey  "I">

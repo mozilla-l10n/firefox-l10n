@@ -152,6 +152,8 @@
 <!ENTITY showMessengerToolbarCmd.accesskey "M">
 <!ENTITY showSearchToolbarCmd.label "搜尋工具列">
 <!ENTITY showSearchToolbarCmd.accesskey "e">
+<!ENTITY showTabsToolbarCmd.label "分頁標籤工具列">
+<!ENTITY showTabsToolbarCmd.accesskey "T">
 
 <!ENTITY messagePaneLayoutStyle.label "視窗配置方式">
 <!ENTITY messagePaneLayoutStyle.accesskey "L">

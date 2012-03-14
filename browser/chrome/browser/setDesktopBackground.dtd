@@ -2,6 +2,8 @@
 <!ENTITY tile.label                 "並排顯示">
 <!ENTITY center.label               "置中">
 <!ENTITY stretch.label              "延展">
+<!ENTITY fill.label                 "填滿">
+<!ENTITY fit.label                  "全螢幕">
 <!ENTITY preview.label              "預覽">
 <!ENTITY color.label                "色彩:">
 <!ENTITY setDesktopBackground.title "設為桌面背景">

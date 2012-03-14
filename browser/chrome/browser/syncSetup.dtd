@@ -12,7 +12,7 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "伺服器">
-<!ENTITY serverType.main.label      "&syncBrand.fullName.label; 伺服器">
+<!ENTITY serverType.default.label      "預設: Mozilla &syncBrand.fullName.label; 伺服器">
 <!ENTITY serverType.custom2.label   "使用自訂伺服器…">
 <!ENTITY signIn.account2.label      "帳號">
 <!ENTITY signIn.account2.accesskey  "A">

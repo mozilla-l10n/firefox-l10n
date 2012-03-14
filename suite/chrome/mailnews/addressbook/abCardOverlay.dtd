@@ -71,7 +71,7 @@
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "其它 Email:">
 <!ENTITY SecondEmail.accesskey          "i">
-<!ENTITY PreferMailFormat.label         "收信格式:">
+<!ENTITY PreferMailFormat.label         "收件格式:">
 <!ENTITY PreferMailFormat.accesskey     "v">
 <!ENTITY PlainText.label                "純文字">
 <!ENTITY HTML.label                     "HTML">
