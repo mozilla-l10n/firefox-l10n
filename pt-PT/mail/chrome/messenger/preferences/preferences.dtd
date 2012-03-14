@@ -1,4 +1,3 @@
-
 <!ENTITY  prefWindow.titleWin     "Opções">
 <!ENTITY  prefWindow.titleGNOME   "Opções do &brandShortName;">
 <!ENTITY  prefWindow.styleWindows "width: 54em; min-height: 38.5em;">
@@ -8,6 +7,7 @@
 <!ENTITY paneGeneral.title        "Geral">
 <!ENTITY paneDisplay.title        "Mostrar">
 <!ENTITY paneComposition.title    "Composição">
+<!ENTITY paneChat.title           "Chat">
 <!ENTITY paneAttachments.title    "Anexos">
 <!ENTITY paneSecurity.title       "Segurança">
 <!ENTITY paneAdvanced.title       "Avançadas">
