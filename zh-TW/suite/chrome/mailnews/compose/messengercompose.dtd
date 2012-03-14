@@ -99,7 +99,7 @@
 <!ENTITY sendButton.label "寄出">
 <!ENTITY addressButton.label "通訊錄">
 <!ENTITY attachButton.label "附件">
-<!ENTITY spellingButton.label "拼字">
+<!ENTITY spellingButton.label "拼字檢查">
 <!ENTITY saveButton.label "儲存">
 <!ENTITY stopButton.label "停止">
 
