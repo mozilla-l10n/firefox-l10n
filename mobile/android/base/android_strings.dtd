@@ -20,9 +20,11 @@
 <!ENTITY choose_file "Scelta file">
 <!ENTITY awesomebar_default_text "Inserire indirizzo o testo da cercare">
 <!ENTITY remote_tabs "Schede sincronizzate">
+<!ENTITY remote_tabs_show_all "Visualizza tutte le schede">
 <!ENTITY bookmark "Segnalibro">
 <!ENTITY bookmark_added "Aggiunto segnalibro">
 <!ENTITY bookmark_removed "Segnalibro eliminato">
+<!ENTITY bookmark_updated "Segnalibro aggiornato">
 <!ENTITY history_today_section "Oggi">
 <!ENTITY history_yesterday_section "Ieri">
 <!ENTITY history_week_section "7 giorni fa">
@@ -71,6 +73,11 @@
 <!ENTITY contextmenu_remove_bookmark "Rimuovi">
 <!ENTITY contextmenu_add_to_launcher "Aggiungi a schermata Home">
 <!ENTITY contextmenu_share "Condividi">
+<!ENTITY contextmenu_edit_bookmark "Modifica">
+<!ENTITY bookmark_edit_title "Modifica segnalibro">
+<!ENTITY bookmark_edit_name "Nome">
+<!ENTITY bookmark_edit_location "Indirizzo">
+<!ENTITY bookmark_edit_keyword "Parola chiave">
 <!ENTITY site_settings_title "Elimina impostazioni sito">
 <!ENTITY site_settings_cancel "Annulla">
 <!ENTITY site_settings_clear "Elimina">
