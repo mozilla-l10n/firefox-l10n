@@ -62,7 +62,7 @@
 <!ENTITY calendar.events.filter.today.label "Dagens händelser">
 <!ENTITY calendar.events.filter.future.label "Alla framtida händelser">
 <!ENTITY calendar.events.filter.current.label "Förnärvarande valda dagen">
-<!ENTITY calender.events.filter.currentview.label "Händelser i vald vy">
+<!ENTITY calendar.events.filter.currentview.label "Händelser i vald vy">
 <!ENTITY calendar.events.filter.next7Days.label "händelser för de nästkommande 7 dagarna">
 <!ENTITY calendar.events.filter.next14Days.label "händelser för de nästkommande 14 dagarna">
 <!ENTITY calendar.events.filter.next31Days.label "händelser för de nästkommande 31 dagarna">
@@ -254,6 +254,9 @@
 <!ENTITY calendar.context.postpone.1day.accesskey   "D">
 <!ENTITY calendar.context.postpone.1week.label      "1 Vecka">
 <!ENTITY calendar.context.postpone.1week.accesskey  "V">
+
+<!ENTITY calendar.copylink.label       "Kopiera länkadress">
+<!ENTITY calendar.copylink.accesskey   "K">
 
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other

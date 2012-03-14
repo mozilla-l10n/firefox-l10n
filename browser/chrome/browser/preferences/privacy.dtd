@@ -64,11 +64,8 @@
 <!ENTITY  privateBrowsingPermanent2.label "Använd alltid läget privat surfning">
 <!ENTITY  privateBrowsingPermanent2.accesskey "A">
 
-<!ENTITY  rememberHistory.label      "Spara historiken över besökta sidor">
-<!ENTITY  rememberHistory.accesskey  "S">
-
-<!ENTITY  rememberDownload.label         "Spara filhämtningshistorik">
-<!ENTITY  rememberDownload.accesskey     "ä">
+<!ENTITY  rememberHistory2.label      "Spara historik över besökta sidor och filhämtningar">
+<!ENTITY  rememberHistory2.accesskey  "S">
 
 <!ENTITY  rememberSearchForm.label       "Spara sök- och formulärhistorik">
 <!ENTITY  rememberSearchForm.accesskey   "ö">

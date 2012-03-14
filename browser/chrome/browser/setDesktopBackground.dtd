@@ -32,7 +32,9 @@
 <!ENTITY position.label             "Position:">
 <!ENTITY tile.label                 "Sida vid sida">
 <!ENTITY center.label               "Centrerad">
-<!ENTITY stretch.label              "Anpassad">
+<!ENTITY stretch.label              "Dra ut">
+<!ENTITY fill.label                 "Fyll">
+<!ENTITY fit.label                  "Anpassa">
 <!ENTITY preview.label              "Förhandsgranskning">
 <!ENTITY color.label                "Färg:">
 <!ENTITY setDesktopBackground.title "Ange skrivbordsbakgrund">
