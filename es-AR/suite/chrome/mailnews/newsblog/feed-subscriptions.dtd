@@ -1,18 +1,31 @@
 <!-- Subscription Dialog -->
-<!ENTITY feedSubscriptions.label "Suscripciones a canales">
-<!ENTITY subscriptionDesc.label "Nota: Si elimina o cambia la carpeta de un canal, ello no afectará los artículos previamente descargados.">
-<!ENTITY feedTitle.label "Título:">
-<!ENTITY location.label  "Dirección:">
+<!ENTITY feedSubscriptions.label     "Suscripciones a canales">
+<!ENTITY subscriptionDesc.label      "Nota: Si elimina o cambia la carpeta de un canal, ello no afectará los artículos previamente descargados.">
 
-<!ENTITY button.addFeed.label       "Agregar">
-<!ENTITY button.addFeed.accesskey   "A">
-<!ENTITY button.editFeed.label      "Editar">
-<!ENTITY button.editFeed.accesskey  "E">
-<!ENTITY button.removeFeed.label "Eliminar">
-<!ENTITY button.removeFeed.accesskey   "r">
-<!ENTITY button.importOPML.label "Importar">
-<!ENTITY button.importOPML.accesskey   "I">
-<!ENTITY button.exportOPML.label "Exportar">
-<!ENTITY button.exportOPML.accesskey   "E">
+<!ENTITY feedTitle.label             "Título:">
+<!ENTITY feedTitle.accesskey         "T">
 
-<!ENTITY cmd.close.commandKey             "w">
+<!ENTITY feedLocation.label          "URL del canal:">
+<!ENTITY feedLocation.accesskey      "U">
+<!ENTITY feedLocation.placeholder    "Ingrese una dirección de canal valida para agregar">
+
+<!ENTITY feedFolder.label            "Almacenar los artículos en:">
+<!ENTITY feedFolder.accesskey        "s">
+
+<!ENTITY quickMode.label             "Mostrar el resumen del artículo en vez de cargar la página web">
+<!ENTITY quickMode.accesskey         "M">
+
+<!ENTITY validateText.label          "Verificar validación y recuperar una dirección válida.">
+
+<!ENTITY button.addFeed.label        "Agregar">
+<!ENTITY button.addFeed.accesskey    "A">
+<!ENTITY button.editFeed.label       "Editar">
+<!ENTITY button.editFeed.accesskey   "E">
+<!ENTITY button.removeFeed.label     "Eliminar">
+<!ENTITY button.removeFeed.accesskey "r">
+<!ENTITY button.importOPML.label     "Importar">
+<!ENTITY button.importOPML.accesskey "I">
+<!ENTITY button.exportOPML.label     "Exportar">
+<!ENTITY button.exportOPML.accesskey "x">
+
+<!ENTITY cmd.close.commandKey        "w">
