@@ -5,7 +5,7 @@
 <!ENTITY aboutSupport.showPrivateData.explanationText "（可能有可以識別您的資訊）">
 <!ENTITY aboutSupport.accountsID "ID">
 <!ENTITY aboutSupport.accountsName "名稱">
-<!ENTITY aboutSupport.accountsIncomingServer "收信伺服器">
+<!ENTITY aboutSupport.accountsIncomingServer "收件伺服器">
 <!ENTITY aboutSupport.accountsOutgoingServers "寄件伺服器">
 <!ENTITY aboutSupport.accountsServerName "名稱">
 <!ENTITY aboutSupport.accountsConnSecurity "連線安全性">

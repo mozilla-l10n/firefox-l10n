@@ -26,6 +26,8 @@
 <!ENTITY newCreateEmailAccountCmd.accesskey "G">
 <!ENTITY newExistingEmailAccountCmd.label "現有的電子郵件帳號…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "E">
+<!ENTITY newIMAccountCmd.label "聊天帳號…">
+<!ENTITY newIMAccountCmd.accesskey "C">
 <!ENTITY openMessageFileCmd.label "開啟已存郵件…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "附件">
@@ -325,6 +327,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.label "上一頁">
 <!ENTITY goBackCmd.accesskey "B">
 <!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goChatCmd.label "聊天">
+<!ENTITY goChatCmd.accesskey "C">
+<!ENTITY goChatCmd.commandKey "C">
 <!ENTITY prevStarredMsgCmd.label "已加星號郵件">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
 <!ENTITY folderMenu.label "資料夾">
@@ -468,6 +473,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addons.accesskey "A">
 <!ENTITY activitymanager.label "活動管理員">
 <!ENTITY activitymanager.accesskey "v">
+<!ENTITY imAccountsStatus.label "聊天狀態">
+<!ENTITY imAccountsStatus.accesskey "C">
+<!ENTITY imStatus.available          "有空">
+<!ENTITY imStatus.unavailable        "沒空">
+<!ENTITY imStatus.offline            "離線">
+<!ENTITY imStatus.showAccounts       "顯示帳號…">
 <!ENTITY savedFiles.label "已存檔案">
 <!ENTITY savedFiles.accesskey "l">
 <!ENTITY savedFiles.key "j">
@@ -521,6 +532,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.label "垃圾郵件">
 <!ENTITY notJunkButton.label "非垃圾信">
 <!ENTITY addressBookButton.label "通訊錄">
+<!ENTITY chatButton.label "聊天">
 <!ENTITY glodaSearch.title "全域搜尋">
 <!ENTITY searchItem.title "快速搜尋">
 <!ENTITY mailViewsToolbarItem.title "郵件檢視">
@@ -554,6 +566,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.tooltip "標示所選郵件為垃圾信">
 <!ENTITY notJunkButton.tooltip "標示所選郵件為非垃圾信">
 <!ENTITY addressBookButton.tooltip "開啟通訊錄">
+<!ENTITY chatButton.tooltip "顯示聊天分頁">
 <!ENTITY tagButton.tooltip "將郵件加上標籤">
 <!ENTITY compactButton.tooltip "從指定資料夾移除已刪郵件">
 
