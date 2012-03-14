@@ -17,6 +17,8 @@
 <!ENTITY attachFileCmd.label "檔案…">
 <!ENTITY attachFileCmd.accesskey "F">
 <!ENTITY attachFileCmd.key "A">
+<!ENTITY attachCloudCmd.label "檔案鏈結">
+<!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "網頁…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -270,6 +272,14 @@
 <!ENTITY selectAll.accesskey "A">
 <!ENTITY attachFile.label "附加檔案…">
 <!ENTITY attachFile.accesskey "F">
+<!ENTITY attachCloud.label "檔案鏈結…">
+<!ENTITY attachCloud.accesskey "i">
+<!ENTITY convertCloud.label "轉換成…">
+<!ENTITY convertCloud.accesskey "C">
+<!ENTITY cancelUpload.label "取消上傳">
+<!ENTITY cancelUpload.accesskey "n">
+<!ENTITY convertRegularAttachment.label "普通附件">
+<!ENTITY convertRegularAttachment.accesskey "a">
 <!ENTITY attachPage.label "附加網頁…">
 <!ENTITY attachPage.accesskey "W">
 

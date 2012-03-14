@@ -1,0 +1,20 @@
+<!ENTITY  startupAction.label         "當 &brandShortName; 啟動時:">
+<!ENTITY  startupAction.accesskey     "S">
+<!ENTITY  startupOffline.label        "保持我的聊天帳號離線">
+<!ENTITY  startupConnectAuto.label    "自動連線到我的聊天帳號">
+
+<!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
+there's a field where the user can enter a number, and itemTime is
+displayed at the end of the line. The translations of the
+reportIdleAfter.label and idleTime parts don't have to mean the exact
+same thing as in English; please try instead to translate the whole
+sentence. -->
+<!ENTITY  reportIdleAfter.label         "讓我的聯絡人在超過">
+<!ENTITY  reportIdleAfter.accesskey     "I">
+<!ENTITY  idleTime                      "分鐘沒有使用後知道我正在閒置">
+
+<!ENTITY  andSetStatusToAway.label      "並將我的狀態設定為不在電腦前，且加上此狀態訊息:">
+<!ENTITY  andSetStatusToAway.accesskey  "a">
+
+<!ENTITY  sendTyping.label              "在對話中傳送正在輸入的通知">
+<!ENTITY  sendTyping.accesskey          "t">
