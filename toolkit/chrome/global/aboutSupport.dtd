@@ -16,17 +16,22 @@
 <!ENTITY aboutSupport.appBasicsTitle "Noções básicas">
 <!ENTITY aboutSupport.appBasicsName "Nome">
 <!ENTITY aboutSupport.appBasicsVersion "Versão">
-<!ENTITY aboutSupport.appBasicsProfileDir "Pasta do perfil">
-<!ENTITY aboutSupport.appBasicsEnabledPlugins "Plugins activados">
+
+<!ENTITY aboutSupport.appBasicsProfileDir "Diretoria do perfil">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Pasta do perfil">
+
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Plugins ativados">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configuração da versão">
 <!ENTITY aboutSupport.appBasicsUserAgent "Agente de utilizador">
 <!ENTITY aboutSupport.appBasicsCrashIDs "Relatórios de erros">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Utilização da memória">
 
 <!ENTITY aboutSupport.showDir.label "Abrir pasta">
-
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
-variant of aboutSupport.show.label.  This allows us to use the preferred
+variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
 <!ENTITY aboutSupport.showMac.label "Mostrar Finder">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
@@ -39,7 +44,12 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Gráficos">
 
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
+
+<!ENTITY aboutSupport.libraryVersionsTitle "Versões da biblioteca">
+
 <!ENTITY aboutSupport.installationHistoryTitle "Histórico de instalação">
-<!ENTITY aboutSupport.updateHistoryTitle "Actualizar histórico">
+<!ENTITY aboutSupport.updateHistoryTitle "Atualizar histórico">
 
 <!ENTITY aboutSupport.copyToClipboard.label "Copiar tudo para o clipboard">
