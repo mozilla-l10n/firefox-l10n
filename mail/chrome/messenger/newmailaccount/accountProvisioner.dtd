@@ -1,5 +1,5 @@
 <!ENTITY window.title "Bienvenue dans &brandShortName;">
-<!ENTITY header.label "Voulez-vous une nouvelle adresse électronique pour &brandShortName; ?">
+<!ENTITY header2.label "Voulez-vous une nouvelle adresse électronique ?">
 <!ENTITY other.languages "Nous n'affichons que les fournisseurs proposant des adresses dans votre région. Cliquez ici pour afficher tous les fournisseurs.">
 <!ENTITY error.line1 "Désolé, nous n'avons pu trouver aucune des adresses électroniques suggérées.">
 <!ENTITY error.line2 "Vous pouvez essayer de chercher des pseudonymes ou d'autres termes pour trouver plus d'adresses">

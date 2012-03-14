@@ -1,6 +1,2 @@
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "Nouvel onglet">
-
-<!ENTITY newtab.show "Afficher la page « Nouvel onglet »">
-<!ENTITY newtab.hide "Masquer la page « Nouvel onglet »">
-<!ENTITY newtab.reset "Réinitialiser la page « Nouvel onglet »">

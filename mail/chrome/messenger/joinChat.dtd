@@ -1,0 +1,6 @@
+<!ENTITY joinChatWindow.title "Rejoindre la messagerie instantanée">
+<!ENTITY name.label "Salon">
+<!ENTITY optional.label "(facultatif)">
+<!ENTITY account.label "Compte">
+<!ENTITY autojoin.label "Rejoindre automatiquement ce salon">
+<!ENTITY autojoin.accesskey "R">
