@@ -67,3 +67,23 @@
 <!ENTITY fontColor.accesskey                  "T">
 <!ENTITY bgColor.label                        "Fundo:">
 <!ENTITY bgColor.accesskey                    "u">
+
+<!ENTITY selectHeaderType.label               "Selecione o tipo de cabeçalho de resposta :">
+<!ENTITY selectHeaderType.accesskey           "e">
+<!ENTITY noReplyOption.label                  "Sem cabeçalho de resposta">
+<!-- LOCALIZATION NOTE (authorWroteOption.label): this is tied to the 
+  mailnews.reply_header_authorwrote preference. [Author] needs to be 
+  translated. -->
+<!ENTITY authorWroteOption.label              "[Author] escreveu:">
+<!-- LOCALIZATION NOTE (onDateAuthorWroteOption.label): this is tied to the 
+  combination of the mailnews.reply_header_ondate(On [date]), 
+  mailnews.reply_header_separator (a comma in this case) and 
+  mailnews.reply_header_authorwrote([Author] wrote) preferences. [date] and 
+  [Author] need to be translated, and the correct  separator put in. -->
+<!ENTITY onDateAuthorWroteOption.label        "A [date] [author] escreveu:">
+<!-- LOCALIZATION NOTE (authorWroteOnDateOption.label): this is tied to the 
+  combination of the mailnews.reply_header_authorwrote([Author] wrote), 
+  mailnews.reply_header_separator (a comma in this case), and 
+  mailnews.reply_header_ondate preferences(On [date]). [Author] and [date] 
+  need to be translated, and the correct separator put in. -->
+<!ENTITY authorWroteOnDateOption.label        "[Author] em [date] escreveu:">
