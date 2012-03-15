@@ -3,13 +3,13 @@
 <!ENTITY generalComposing.label "Основное">
 <!ENTITY forwardMsg.label "Перенаправлять сообщения:">
 <!ENTITY inline.label "Внутри сообщения">
-<!ENTITY inline.accesskey "В">
+<!ENTITY inline.accesskey "н">
 <!ENTITY asAttachment.label "Как вложение">
-<!ENTITY asAttachment.accesskey "К">
+<!ENTITY asAttachment.accesskey "а">
 <!ENTITY replyQuoteInline.label "Цитировать при ответе вложения, отображаемые в теле сообщения">
 <!ENTITY replyQuoteInline.accesskey "и">
 <!ENTITY warnOnSendAccelKey.label "Спрашивать подтверждение при использовании клавиатурных сокращений для отправки сообщений">
-<!ENTITY warnOnSendAccelKey.accesskey "С">
+<!ENTITY warnOnSendAccelKey.accesskey "п">
 <!ENTITY autoSave.label "Автоматически сохранять сообщение каждые">
 <!ENTITY autoSave.accesskey "м">
 <!ENTITY autoSaveEnd.label "минут">
@@ -18,10 +18,16 @@
 <!ENTITY char.label "символов">
 <!ENTITY defaultMessagesHeader.label "Параметры по умолчанию для сообщений в формате HTML">
 <!ENTITY font.label "Шрифт:">
-<!ENTITY font.accesskey "Ш">
+<!ENTITY font.accesskey "ф">
 <!ENTITY size.label "Размер:">
-<!ENTITY size.accesskey "Р">
+<!ENTITY size.accesskey "з">
 <!ENTITY fontColor.label "Текст:">
-<!ENTITY fontColor.accesskey "Т">
+<!ENTITY fontColor.accesskey "е">
 <!ENTITY bgColor.label "Фон:">
 <!ENTITY bgColor.accesskey "о">
+<!ENTITY selectHeaderType.label "Выберите тип заголовка ответа:">
+<!ENTITY selectHeaderType.accesskey "б">
+<!ENTITY noReplyOption.label "Без заголовка ответа">
+<!ENTITY authorWroteOption.label "[Автор] написал:">
+<!ENTITY onDateAuthorWroteOption.label "[Дата], [автор] написал:">
+<!ENTITY authorWroteOnDateOption.label "[Автор] написал, [дата]:">

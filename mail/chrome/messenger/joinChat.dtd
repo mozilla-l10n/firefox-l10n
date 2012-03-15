@@ -1,0 +1,6 @@
+<!ENTITY joinChatWindow.title "Присоединение к чату">
+<!ENTITY name.label "Комната">
+<!ENTITY optional.label "(необязательно)">
+<!ENTITY account.label "Учётная запись">
+<!ENTITY autojoin.label "Присоединяться автоматически">
+<!ENTITY autojoin.accesskey "и">

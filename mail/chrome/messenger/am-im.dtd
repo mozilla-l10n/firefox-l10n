@@ -1,0 +1,12 @@
+<!ENTITY accountWindow.title "Свойства учётной записи">
+<!ENTITY accountWindow.width "310">
+<!ENTITY account.general "Основные">
+<!ENTITY account.advanced "Дополнительно">
+<!ENTITY account.name "Имя пользователя:">
+<!ENTITY account.password "Пароль:">
+<!ENTITY account.alias "Псевдоним:">
+<!ENTITY account.newMailNotification "Уведомлять о новой почте">
+<!ENTITY account.autojoin "Автоматически подключаемые каналы:">
+<!ENTITY account.proxySettings.caption "Настройки прокси:">
+<!ENTITY account.proxySettings.change.label "Изменить…">
+<!ENTITY account.proxySettings.change.accessKey "м">

@@ -19,6 +19,8 @@
 <!ENTITY newCreateEmailAccountCmd.accesskey "л">
 <!ENTITY newExistingEmailAccountCmd.label "Существующая учётная запись почты…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "щ">
+<!ENTITY newIMAccountCmd.label "Учётная запись чата…">
+<!ENTITY newIMAccountCmd.accesskey "а">
 <!ENTITY openMessageFileCmd.label "Открыть сохранённое сообщение…">
 <!ENTITY openMessageFileCmd.accesskey "с">
 <!ENTITY openAttachmentCmd.label "Вложения">
@@ -292,6 +294,9 @@
 <!ENTITY goBackCmd.label "Назад">
 <!ENTITY goBackCmd.accesskey "д">
 <!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goChatCmd.label "Чат">
+<!ENTITY goChatCmd.accesskey "а">
+<!ENTITY goChatCmd.commandKey "C">
 <!ENTITY prevStarredMsgCmd.label "отмеченное звёздочкой сообщение">
 <!ENTITY prevStarredMsgCmd.accesskey "з">
 <!ENTITY folderMenu.label "Папка">
@@ -429,6 +434,12 @@
 <!ENTITY addons.accesskey "Д">
 <!ENTITY activitymanager.label "Диспетчер работы">
 <!ENTITY activitymanager.accesskey "и">
+<!ENTITY imAccountsStatus.label "Статус чата">
+<!ENTITY imAccountsStatus.accesskey "а">
+<!ENTITY imStatus.available "Доступен">
+<!ENTITY imStatus.unavailable "Занят">
+<!ENTITY imStatus.offline "Отключён">
+<!ENTITY imStatus.showAccounts "Показать учётные записи…">
 <!ENTITY savedFiles.label "Сохранённые файлы">
 <!ENTITY savedFiles.accesskey "х">
 <!ENTITY savedFiles.key "j">
@@ -460,7 +471,11 @@
 <!ENTITY fileButton.label "Поместить">
 <!ENTITY archiveButton.label "Архивировать">
 <!ENTITY nextButton.label "Следующее">
+<!ENTITY nextButtonToolbarItem.label "Следующее непрочитанное">
+<!ENTITY nextMsgButton.label "Следующее">
 <!ENTITY previousButton.label "Предыдущее">
+<!ENTITY previousButtonToolbarItem.label "Предыдущее непрочитанное">
+<!ENTITY previousMsgButton.label "Предыдущее">
 <!ENTITY backButton1.label "Назад">
 <!ENTITY goForwardButton1.label "Вперёд">
 <!ENTITY deleteItem.title "Удалить">
@@ -474,6 +489,7 @@
 <!ENTITY junkButton.label "Спам">
 <!ENTITY notJunkButton.label "Не спам">
 <!ENTITY addressBookButton.label "Адресная книга">
+<!ENTITY chatButton.label "Чат">
 <!ENTITY glodaSearch.title "Глобальный поиск">
 <!ENTITY searchItem.title "Быстрый поиск">
 <!ENTITY mailViewsToolbarItem.title "Режимы просмотра сообщений">
@@ -492,7 +508,9 @@
 <!ENTITY fileButton.tooltip "Поместить выбранное сообщение в нужную папку">
 <!ENTITY archiveButton.tooltip "Архивировать выделенные сообщения">
 <!ENTITY nextButton.tooltip "Перейти к следующему непрочитанному сообщению">
+<!ENTITY nextMsgButton.tooltip "Перейти к следующему сообщению">
 <!ENTITY previousButton.tooltip "Перейти к предыдущему непрочитанному сообщению">
+<!ENTITY previousMsgButton.tooltip "Перейти к предыдущему сообщению">
 <!ENTITY goForwardButton.tooltip "Перейти к следующему сообщению">
 <!ENTITY goBackButton.tooltip "Перейти к предыдущему сообщению">
 <!ENTITY deleteButton.tooltip "Удалить выбранное сообщение или папку">
@@ -503,6 +521,7 @@
 <!ENTITY junkButton.tooltip "Отметить выбранные сообщения как спам">
 <!ENTITY notJunkButton.tooltip "Отметить выбранные сообщение как не спам">
 <!ENTITY addressBookButton.tooltip "Открыть адресную книгу">
+<!ENTITY chatButton.tooltip "Показать вкладку чата">
 <!ENTITY tagButton.tooltip "Присвоить сообщению метку">
 <!ENTITY compactButton.tooltip "Убрать удалённые сообщения из выбранной папки">
 <!ENTITY addNewTag.label "Новая метка…">
@@ -655,9 +674,9 @@
 <!ENTITY mdnBarSendButton2.label "Отправить уведомление о прочтении">
 <!ENTITY mdnBarSendButton2.accesskey "п">
 <!ENTITY quickSearchCmd.key "k">
-<!ENTITY searchAllMessages.label.base "Поиск… #1">
-<!ENTITY searchAllMessages.keyLabel2.nonmac "&lt;Ctrl+K&gt;">
-<!ENTITY searchAllMessages.keyLabel2.mac "&lt;⌘K&gt;">
+<!ENTITY search.label.base "Поиск… #1">
+<!ENTITY search.keyLabel.nonmac "&lt;Ctrl+K&gt;">
+<!ENTITY search.keyLabel.mac "&lt;⌘K&gt;">
 <!ENTITY AddToAddressBook.label "Добавить в адресную книгу…">
 <!ENTITY AddToAddressBook.accesskey "Д">
 <!ENTITY AddDirectlyToAddressBook.label "Добавить в адресную книгу…">

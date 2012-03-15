@@ -16,17 +16,8 @@
 <!ENTITY fullnameLabel.accesskey "ы">
 <!ENTITY emailLabel.label "Адрес электронной почты:">
 <!ENTITY emailLabel.accesskey "д">
-<!ENTITY serverTitle.label "Информация о сервере">
+<!ENTITY incomingTitle.label "Информация о сервере входящей почты">
 <!ENTITY incomingServerTypeDesc.label "Выберите тип используемого вами сервера входящей почты.">
-<!ENTITY incomingServerNameDesc.label "Введите имя используемого вами сервера входящей почты (например, «mail.example.ru»).">
-<!ENTITY incomingServerLabel.label "Имя сервера:">
-<!ENTITY incomingServerLabel.accesskey "м">
-<!ENTITY newsServerNameDesc.label "Введите имя используемого вами сервера новостей (NNTP) (например, «news.example.ru»).">
-<!ENTITY smtpServerDesc.label "Введите имя используемого вами сервера исходящей почты (SMTP) (например, «smtp.example.ru»).">
-<!ENTITY smtpServerLabel.label "Имя сервера:">
-<!ENTITY smtpServerLabel.accesskey "я">
-<!ENTITY newsServerLabel.label "Имя сервера новостей:">
-<!ENTITY newsServerLabel.accesskey "н">
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "I">
 <!ENTITY popType.label "POP3">
@@ -37,17 +28,25 @@
 <!ENTITY portNum.accesskey "о">
 <!ENTITY defaultPortLabel.label "По умолчанию:">
 <!ENTITY defaultPortValue.label "">
+<!ENTITY incomingServer.description "Введите имя используемого вами сервера входящей почты (например, «mail.example.ru»).">
+<!ENTITY incomingServer.label "Сервер входящей почты:">
+<!ENTITY incomingServer.accesskey "е">
+<!ENTITY incomingUsername.description "Введите имя пользователя входящей почты, данное вам провайдером электронной почты (например, «vpetrov»).">
+<!ENTITY incomingUsername.label "Имя пользователя:">
+<!ENTITY incomingUsername.accesskey "м">
+<!ENTITY newsServerNameDesc.label "Введите имя используемого вами сервера новостей (NNTP) (например, «news.example.ru»).">
+<!ENTITY newsServerLabel.label "Сервер групп новостей:">
+<!ENTITY newsServerLabel.accesskey "е">
+<!ENTITY outgoingTitle.label "Информация о сервере исходящей почты">
+<!ENTITY outgoingServer.description "Введите имя используемого вами сервера исходящей почты (SMTP) (например, «smtp.example.ru»).">
+<!ENTITY outgoingServer.label "Сервер исходящей почты:">
+<!ENTITY outgoingServer.accesskey "е">
+<!ENTITY outgoingUsername.description "Введите имя пользователя на сервере исходящей почты, данное вам провайдером электронной почты (обычно оно то же, что и имя пользователя на сервере входящей почты).">
+<!ENTITY outgoingUsername.label "Имя пользователя (SMTP-сервер):">
+<!ENTITY outgoingUsername.accesskey "м">
 <!ENTITY modifyOutgoing.suffix "Вы можете изменить адреса серверов исходящей почты в параметрах учётной записи.">
 <!ENTITY haveSmtp1.prefix "Будет использоваться уже существующий сервер исходящей почты (SMTP) — «">
 <!ENTITY haveSmtp1.suffix3 "».">
-<!ENTITY loginTitle.label "Имена пользователей">
-<!ENTITY usernameDesc.label "Введите имя пользователя, данное вам провайдером электронной почты">
-<!ENTITY usernameExample.label "(например, «i_ivanov»).">
-<!ENTITY usernameLabel.label "Имя пользователя:">
-<!ENTITY usernameLabel.accesskey "п">
-<!ENTITY usernameSmtpDesc.label "Введите свое имя пользователя на сервере исходящей почты, данное вам провайдером электронной почты (обычно оно то же, что и имя пользователя на сервере входящей почты).">
-<!ENTITY usernameSmtpLabel.label "Имя пользователя (SMTP-сервер):">
-<!ENTITY usernameSmtpLabel.accesskey "е">
 <!ENTITY haveSmtp2.prefix "Будет использоваться уже существующее имя пользователя сервера исходящей почты (SMTP) —  «">
 <!ENTITY haveSmtp2.suffix3 "».">
 <!ENTITY haveSmtp3.prefix "Ваш сервер исходящей почты (SMTP), «">

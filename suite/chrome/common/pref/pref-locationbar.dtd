@@ -16,11 +16,14 @@
 <!ENTITY autoCompleteMatchWordsFirst "Везде, отдавая предпочтение границам слов">
 <!ENTITY autoCompleteMatchWords "Только на границах слов">
 <!ENTITY autoCompleteMatchStart "Только в начале ссылки или заголовка">
+<!ENTITY formatting.label "Форматирование">
+<!ENTITY domainFormatting.label "Подсвечивать эффективный домен для веб-сайтов и FTP-серверов">
+<!ENTITY domainFormatting.accesskey "е">
 <!ENTITY searchEngine.label "Поисковая система Интернета">
 <!ENTITY showSearchEngine.label "Показывать поисковую систему по умолчанию">
 <!ENTITY showSearchEngine.accesskey "к">
 <!ENTITY unknownLocations.label "Неизвестные адреса">
 <!ENTITY domainGuessing.label "Добавлять «www.» и «.com» к адресу, если веб-страница с исходным адресом не найдена.">
-<!ENTITY domainGuessing.accesskey "о">
+<!ENTITY domainGuessing.accesskey "а">
 <!ENTITY keywords.label "Выполнять поиск в Интернете, когда введённый текст не является веб-адресом">
 <!ENTITY keywords.accesskey "п">
