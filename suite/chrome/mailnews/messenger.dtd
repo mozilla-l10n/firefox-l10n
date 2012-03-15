@@ -152,6 +152,8 @@
 <!ENTITY showMessengerToolbarCmd.accesskey "m">
 <!ENTITY showSearchToolbarCmd.label "Barra de buscar">
 <!ENTITY showSearchToolbarCmd.accesskey "e">
+<!ENTITY showTabsToolbarCmd.label "Barra de lapelas">
+<!ENTITY showTabsToolbarCmd.accesskey "l">
 
 <!ENTITY messagePaneLayoutStyle.label "Deseño">
 <!ENTITY messagePaneLayoutStyle.accesskey "D">
