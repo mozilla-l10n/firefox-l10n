@@ -108,3 +108,5 @@
 <!ENTITY changeOptions.label "Ti peu cangiâ ste inpostaçioìn chi sótta inte preferénse de Sync.">
 <!ENTITY continueUsing.label "Fòscia ti peu continoâ co-o &brandShortName;.">
 
+<!ENTITY serverType.default.label      "Predefinîo: Server &syncBrand.fullName.label; do Mozilla">
+
