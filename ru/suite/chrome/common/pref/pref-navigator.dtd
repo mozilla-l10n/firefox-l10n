@@ -5,26 +5,33 @@
 <!ENTITY newWinPageMenu.label "создании окна">
 <!ENTITY newTabPageMenu.label "создании вкладки">
 <!ENTITY blankPageRadio.label "Пустую страницу">
-<!ENTITY blankPageRadio.accesskey "П">
+<!ENTITY blankPageRadio.accesskey "у">
 <!ENTITY homePageRadio.label "Домашнюю страницу">
-<!ENTITY homePageRadio.accesskey "Н">
+<!ENTITY homePageRadio.accesskey "м">
 <!ENTITY lastPageRadio.label "Последнюю просмотренную страницу">
-<!ENTITY lastPageRadio.accesskey "с">
+<!ENTITY lastPageRadio.accesskey "о">
 <!ENTITY restoreSessionRadio.label "Восстановить предыдущую сессию">
 <!ENTITY restoreSessionRadio.accesskey "с">
-<!ENTITY header2.label "Домашняя страница">
+<!ENTITY restoreSessionIntro.label "При восстановлении сессий и окон">
+<!ENTITY restoreImmediately.label "Немедленно восстановить все вкладки">
+<!ENTITY restoreImmediately.accesskey "е">
+<!ENTITY restoreTabs.label "Восстановить">
+<!ENTITY restoreTabs.accesskey "н">
+<!ENTITY restoreTabsAtATime.label "вкладок за раз">
+<!ENTITY restoreDeferred.label "Восстанавливать вкладки только когда мне нужно">
+<!ENTITY restoreDeferred.accesskey "а">
 <!ENTITY homePageIntro.label "При нажатии кнопки «Домашняя страница» загрузится следующая группа страниц:">
 <!ENTITY useCurrent.label "Текущая страница">
-<!ENTITY useCurrent.accesskey "Т">
+<!ENTITY useCurrent.accesskey "щ">
 <!ENTITY useCurrentGroup.label "Текущая группа страниц">
-<!ENTITY useCurrentGroup.accesskey "г">
+<!ENTITY useCurrentGroup.accesskey "я">
 <!ENTITY browseFile.label "Выбрать файл…">
 <!ENTITY browseFile.accesskey "б">
 <!ENTITY useDefault.label "Восстановить">
-<!ENTITY useDefault.accesskey "В">
+<!ENTITY useDefault.accesskey "и">
 <!ENTITY defaultBrowserGroup.label "Браузер по умолчанию">
 <!ENTITY defaultBrowserButton.label "По умолчанию">
-<!ENTITY defaultBrowserButton.accesskey "м">
+<!ENTITY defaultBrowserButton.accesskey "ч">
 <!ENTITY alreadyDefaultText "&brandShortName; уже является вашим браузером по умолчанию.">
 <!ENTITY defaultPendingText "&brandShortName; станет вашим браузером по умолчанию после нажатия кнопки «OK».">
 <!ENTITY makeDefaultText "Сделать &brandShortName; браузером по умолчанию.">

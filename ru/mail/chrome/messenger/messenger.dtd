@@ -19,6 +19,8 @@
 <!ENTITY newCreateEmailAccountCmd.accesskey "л">
 <!ENTITY newExistingEmailAccountCmd.label "Существующая учётная запись почты…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "щ">
+<!ENTITY newIMAccountCmd.label "Учётная запись чата…">
+<!ENTITY newIMAccountCmd.accesskey "а">
 <!ENTITY openMessageFileCmd.label "Открыть сохранённое сообщение…">
 <!ENTITY openMessageFileCmd.accesskey "с">
 <!ENTITY openAttachmentCmd.label "Вложения">
@@ -292,6 +294,9 @@
 <!ENTITY goBackCmd.label "Назад">
 <!ENTITY goBackCmd.accesskey "д">
 <!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goChatCmd.label "Чат">
+<!ENTITY goChatCmd.accesskey "а">
+<!ENTITY goChatCmd.commandKey "C">
 <!ENTITY prevStarredMsgCmd.label "отмеченное звёздочкой сообщение">
 <!ENTITY prevStarredMsgCmd.accesskey "з">
 <!ENTITY folderMenu.label "Папка">
@@ -429,6 +434,12 @@
 <!ENTITY addons.accesskey "Д">
 <!ENTITY activitymanager.label "Диспетчер работы">
 <!ENTITY activitymanager.accesskey "и">
+<!ENTITY imAccountsStatus.label "Статус чата">
+<!ENTITY imAccountsStatus.accesskey "а">
+<!ENTITY imStatus.available "Доступен">
+<!ENTITY imStatus.unavailable "Занят">
+<!ENTITY imStatus.offline "Отключён">
+<!ENTITY imStatus.showAccounts "Показать учётные записи…">
 <!ENTITY savedFiles.label "Сохранённые файлы">
 <!ENTITY savedFiles.accesskey "х">
 <!ENTITY savedFiles.key "j">
@@ -478,6 +489,7 @@
 <!ENTITY junkButton.label "Спам">
 <!ENTITY notJunkButton.label "Не спам">
 <!ENTITY addressBookButton.label "Адресная книга">
+<!ENTITY chatButton.label "Чат">
 <!ENTITY glodaSearch.title "Глобальный поиск">
 <!ENTITY searchItem.title "Быстрый поиск">
 <!ENTITY mailViewsToolbarItem.title "Режимы просмотра сообщений">
@@ -509,6 +521,7 @@
 <!ENTITY junkButton.tooltip "Отметить выбранные сообщения как спам">
 <!ENTITY notJunkButton.tooltip "Отметить выбранные сообщение как не спам">
 <!ENTITY addressBookButton.tooltip "Открыть адресную книгу">
+<!ENTITY chatButton.tooltip "Показать вкладку чата">
 <!ENTITY tagButton.tooltip "Присвоить сообщению метку">
 <!ENTITY compactButton.tooltip "Убрать удалённые сообщения из выбранной папки">
 <!ENTITY addNewTag.label "Новая метка…">

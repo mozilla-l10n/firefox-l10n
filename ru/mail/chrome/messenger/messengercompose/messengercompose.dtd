@@ -14,6 +14,8 @@
 <!ENTITY attachFileCmd.label "Файл(ы)…">
 <!ENTITY attachFileCmd.accesskey "л">
 <!ENTITY attachFileCmd.key "A">
+<!ENTITY attachCloudCmd.label "Filelink">
+<!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Веб-страницу…">
 <!ENTITY attachPageCmd.accesskey "е">
 <!ENTITY attachVCardCmd.label "Визитную карточку (vCard)">
@@ -235,6 +237,14 @@
 <!ENTITY selectAll.accesskey "ы">
 <!ENTITY attachFile.label "Вложить файл(ы)…">
 <!ENTITY attachFile.accesskey "ф">
+<!ENTITY attachCloud.label "Filelink…">
+<!ENTITY attachCloud.accesskey "i">
+<!ENTITY convertCloud.label "Конвертировать в…">
+<!ENTITY convertCloud.accesskey "в">
+<!ENTITY cancelUpload.label "Отменить выгрузку">
+<!ENTITY cancelUpload.accesskey "м">
+<!ENTITY convertRegularAttachment.label "Обычное вложение">
+<!ENTITY convertRegularAttachment.accesskey "ы">
 <!ENTITY attachPage.label "Вложить веб-страницу…">
 <!ENTITY attachPage.accesskey "е">
 <!ENTITY spellAddDictionaries.label "Добавить словари…">

@@ -157,8 +157,6 @@
 <!ENTITY scratchpad.accesskey "р">
 <!ENTITY scratchpad.keycode "VK_F4">
 <!ENTITY scratchpad.keytext "F4">
-<!ENTITY inspectButton.label "Исследовать">
-<!ENTITY inspectButton.accesskey "с">
 <!ENTITY inspectCloseButton.tooltiptext "Закрыть Инспектор">
 <!ENTITY inspectorHTMLCopyInner.label "Копировать внутренний HTML">
 <!ENTITY inspectorHTMLCopyInner.accesskey "п">

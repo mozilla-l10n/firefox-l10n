@@ -25,6 +25,7 @@
 <!ENTITY aboutSupport.graphicsTitle "Графика">
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Инкрементальный GC">
+<!ENTITY aboutSupport.libraryVersionsTitle "Версии библиотек">
 <!ENTITY aboutSupport.installationHistoryTitle "Журнал установки">
 <!ENTITY aboutSupport.updateHistoryTitle "Журнал обновлений">
 <!ENTITY aboutSupport.copyToClipboard.label "Копировать всё в буфер обмена">

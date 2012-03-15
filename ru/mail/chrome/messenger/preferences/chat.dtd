@@ -1,0 +1,11 @@
+<!ENTITY startupAction.label "При запуске &brandShortName;:">
+<!ENTITY startupAction.accesskey "з">
+<!ENTITY startupOffline.label "Не подключать учётные записи чата">
+<!ENTITY startupConnectAuto.label "Автоматически подключать учётные записи чата">
+<!ENTITY reportIdleAfter.label "Уведомить контакты о моём бездействии через">
+<!ENTITY reportIdleAfter.accesskey "о">
+<!ENTITY idleTime "минут неактивности">
+<!ENTITY andSetStatusToAway.label "и установить мой статус как «Отошёл» вместе с этим сообщением:">
+<!ENTITY andSetStatusToAway.accesskey "ш">
+<!ENTITY sendTyping.label "Отправлять уведомления о вводе в разговорах">
+<!ENTITY sendTyping.accesskey "у">
