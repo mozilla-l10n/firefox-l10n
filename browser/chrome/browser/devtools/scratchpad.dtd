@@ -43,50 +43,6 @@
 <!ENTITY editMenu.label               "Taisa">
 <!ENTITY editMenu.accesskey           "T">
 
-<!ENTITY undoCmd.label                "Atšaukti">
-<!ENTITY undoCmd.key                  "Z">
-<!ENTITY undoCmd.accesskey            "A">
-
-<!ENTITY redoCmd.label                "Atstatyti">
-<!ENTITY redoCmd.key                  "Y">
-<!ENTITY redoCmd.accesskey            "t">
-
-<!ENTITY cutCmd.label                 "Iškirpti">
-<!ENTITY cutCmd.key                   "X">
-<!ENTITY cutCmd.accesskey             "r">
-
-<!ENTITY copyCmd.label                "Kopijuoti">
-<!ENTITY copyCmd.key                  "C">
-<!ENTITY copyCmd.accesskey            "K">
-
-<!ENTITY pasteCmd.label               "Įdėti">
-<!ENTITY pasteCmd.key                 "V">
-<!ENTITY pasteCmd.accesskey           "d">
-
-<!ENTITY selectAllCmd.label           "Pažymėti viską">
-<!ENTITY selectAllCmd.key             "A">
-<!ENTITY selectAllCmd.accesskey       "v">
-
-<!ENTITY findCmd.label                "Ieškoti…">
-<!ENTITY findCmd.key                  "F">
-<!ENTITY findCmd.accesskey            "I">
-
-<!ENTITY findAgainCmd.label           "Ieškoti toliau…">
-<!-- LOCALIZATION NOTE (findAgainCmd.key): This key is used only on Macs.
-  -  Windows and Linux builds use the F3 key which is not localizable on purpose.
-  -->
-<!ENTITY findAgainCmd.key             "G">
-<!ENTITY findAgainCmd.accesskey       "e">
-<!-- LOCALIZATION NOTE (findPreviousCmd.key): This key is used only on Macs.
-  -  Windows and Linux builds use the Shift-F3 key which is not localizable on
-  -  purpose.
-  -->
-<!ENTITY findPreviousCmd.key          "G">
-
-<!ENTITY gotoLineCmd.label            "Šokti į eilutę…">
-<!ENTITY gotoLineCmd.key              "J">
-<!ENTITY gotoLineCmd.accesskey        "Š">
-
 <!ENTITY run.label                    "Vykdyti">
 <!ENTITY run.accesskey                "k">
 <!ENTITY run.key                      "r">
@@ -120,6 +76,17 @@
 <!ENTITY browserContext.label         "Naršyklė">
 <!ENTITY browserContext.accesskey     "N">
 
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+  -  for the help button in the menubar but Gnome does not.
+  -->
+<!ENTITY helpMenu.label               "Žinynas">
+<!ENTITY helpMenu.accesskey           "Ž">
+<!ENTITY helpMenuWin.label            "Žinynas">
+<!ENTITY helpMenuWin.accesskey        "Ž">
+
+<!ENTITY documentationLink.label      "Juodraščio aprašymas MDN svetainėje">
+<!ENTITY documentationLink.accesskey  "D">
+	
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->

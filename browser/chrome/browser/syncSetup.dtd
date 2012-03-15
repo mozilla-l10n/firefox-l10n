@@ -12,7 +12,7 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Serveris">
-<!ENTITY serverType.main.label      "„&syncBrand.fullName.label;“ serveris">
+<!ENTITY serverType.default.label   "Numatytasis: „Mozillos“ „&syncBrand.fullName.label;“ serveris">
 <!ENTITY serverType.custom2.label   "Naudoti kitą serverį…">
 <!ENTITY signIn.account2.label      "Paskyra">
 <!ENTITY signIn.account2.accesskey  "P">
