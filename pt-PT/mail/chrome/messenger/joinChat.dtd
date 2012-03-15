@@ -1,0 +1,6 @@
+<!ENTITY joinChatWindow.title           "Ligar-se ao chat">
+<!ENTITY name.label                     "Sala">
+<!ENTITY optional.label                 "(opcional)">
+<!ENTITY account.label                  "Conta">
+<!ENTITY autojoin.label                 "Auto-ligar a esta sala de chat">
+<!ENTITY autojoin.accesskey             "A">
