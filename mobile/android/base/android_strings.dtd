@@ -26,9 +26,13 @@
 
 <!ENTITY awesomebar_default_text "Įveskite ieškomą frazę arba adresą">
 
+<!ENTITY remote_tabs "Sinchronizuotos kortelės">
+<!ENTITY remote_tabs_show_all "Rodyti visas korteles">
+
 <!ENTITY bookmark "Adresyne">
 <!ENTITY bookmark_added "Tinklalapis įtrauktas į adresyną">
 <!ENTITY bookmark_removed "Tinklalapis pašalintas iš adresyno">
+<!ENTITY bookmark_updated "Adresyno įrašas atnaujintas">
 
 <!ENTITY history_today_section "Šiandien">
 <!ENTITY history_yesterday_section "Vakar">
@@ -78,12 +82,19 @@
 <!ENTITY char_encoding "Simbolių koduotė">
 
 <!ENTITY share "Dalintis tinklalapiu">
+<!ENTITY share_title "Dalintis per">
 <!ENTITY save_as_pdf "Įrašyti PDF formatu">
 
 <!ENTITY contextmenu_open_new_tab "Atverti naujoje kortelėje">
 <!ENTITY contextmenu_remove_bookmark "Pašalinti">
 <!ENTITY contextmenu_add_to_launcher "Įtraukti į pradžios ekraną">
 <!ENTITY contextmenu_share "Dalintis">
+<!ENTITY contextmenu_edit_bookmark "Taisyti">
+
+<!ENTITY bookmark_edit_title "Adresyno įrašo savybės">
+<!ENTITY bookmark_edit_name "Pavadinimas">
+<!ENTITY bookmark_edit_location "Vieta">
+<!ENTITY bookmark_edit_keyword "Gairė">
 
 <!ENTITY site_settings_title        "Išalyti svetainės nuostatas">
 <!ENTITY site_settings_cancel       "Atsisakyti">
