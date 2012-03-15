@@ -148,8 +148,8 @@
 <!ENTITY  event.menu.options.inline.spellcheck.accesskey  "e">
 <!ENTITY  event.menu.options.link.label                   "Adicionar Ligação…">
 <!ENTITY  event.menu.options.link.accesskey               "L">
-<!ENTITY  event.menu.options.timezone.label               "Fuso Horário">
-<!ENTITY  event.menu.options.timezone.accesskey           "s">
+<!ENTITY  event.menu.options.timezone2.label              "Mostrar fusos horários">
+<!ENTITY  event.menu.options.timezone2.accesskey          "s">
 <!ENTITY  event.menu.options.priority2.label               "Importância">
 <!ENTITY  event.menu.options.priority2.accesskey           "m">
 <!ENTITY  event.menu.options.priority.notspecified.label          "Não especificado">
@@ -372,6 +372,7 @@
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Por favor especifique o Fuso horário">
+<!ENTITY event.timezone.custom.label     "Mais fusos horários…">
 
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Geral">
