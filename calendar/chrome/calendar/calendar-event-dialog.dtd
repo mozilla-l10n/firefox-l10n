@@ -148,8 +148,8 @@
 <!ENTITY  event.menu.options.inline.spellcheck.accesskey      "s">
 <!ENTITY  event.menu.options.link.label                       "Dodaj poveznicu…">
 <!ENTITY  event.menu.options.link.accesskey                   "D">
-<!ENTITY  event.menu.options.timezone.label                   "Vremenska zona">
-<!ENTITY  event.menu.options.timezone.accesskey               "z">
+<!ENTITY  event.menu.options.timezone2.label                  "Prikaži vremenske zone">
+<!ENTITY  event.menu.options.timezone2.accesskey              "z">
 <!ENTITY  event.menu.options.priority2.label                  "Proritet">
 <!ENTITY  event.menu.options.priority2.accesskey              "t">
 <!ENTITY  event.menu.options.priority.notspecified.label      "Nije određen">
@@ -372,6 +372,7 @@
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Odaberite vremensku zonu">
+<!ENTITY event.timezone.custom.label     "Više vremenskih zona…">
 
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Općenito">

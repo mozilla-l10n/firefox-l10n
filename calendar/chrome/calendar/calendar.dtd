@@ -64,7 +64,7 @@
 <!ENTITY calendar.events.filter.today.label "Današnji događaji">
 <!ENTITY calendar.events.filter.future.label "Svi budući događaji">
 <!ENTITY calendar.events.filter.current.label "Trenutno odabrani dan">
-<!ENTITY calender.events.filter.currentview.label "Događaji u trenutnom prikazu">
+<!ENTITY calendar.events.filter.currentview.label "Događaji u trenutnom prikazu">
 <!ENTITY calendar.events.filter.next7Days.label "Događaji u sljedećih 7 dana">
 <!ENTITY calendar.events.filter.next14Days.label "Događaji u sljedećih 14 dana">
 <!ENTITY calendar.events.filter.next31Days.label "Događaji u sljedećih 31 dana">
@@ -252,6 +252,9 @@
 <!ENTITY calendar.context.postpone.1day.accesskey   "d">
 <!ENTITY calendar.context.postpone.1week.label      "1 tjedan">
 <!ENTITY calendar.context.postpone.1week.accesskey  "t">
+
+<!ENTITY calendar.copylink.label       "Kopiraj lokaciju poveznice">
+<!ENTITY calendar.copylink.accesskey   "K">
 
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
