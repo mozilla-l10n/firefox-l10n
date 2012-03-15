@@ -43,50 +43,6 @@
 <!ENTITY editMenu.label               "Càngia">
 <!ENTITY editMenu.accesskey           "C">
 
-<!ENTITY undoCmd.label                "Anùlla">
-<!ENTITY undoCmd.key                  "Z">
-<!ENTITY undoCmd.accesskey            "A">
-
-<!ENTITY redoCmd.label                "Ripêti">
-<!ENTITY redoCmd.key                  "Y">
-<!ENTITY redoCmd.accesskey            "R">
-
-<!ENTITY cutCmd.label                 "Tàggia">
-<!ENTITY cutCmd.key                   "X">
-<!ENTITY cutCmd.accesskey             "T">
-
-<!ENTITY copyCmd.label                "Còpia">
-<!ENTITY copyCmd.key                  "C">
-<!ENTITY copyCmd.accesskey            "C">
-
-<!ENTITY pasteCmd.label               "Incòlla">
-<!ENTITY pasteCmd.key                 "V">
-<!ENTITY pasteCmd.accesskey           "I">
-
-<!ENTITY selectAllCmd.label           "Seleçionn-a tùtto">
-<!ENTITY selectAllCmd.key             "A">
-<!ENTITY selectAllCmd.accesskey       "t">
-
-<!ENTITY findCmd.label                "Trêuva…">
-<!ENTITY findCmd.key                  "F">
-<!ENTITY findCmd.accesskey            "T">
-
-<!ENTITY findAgainCmd.label           "Trêuva tórna…">
-<!-- LOCALIZATION NOTE (findAgainCmd.key): This key is used only on Macs.
-  -  Windows and Linux builds use the F3 key which is not localizable on purpose.
-  -->
-<!ENTITY findAgainCmd.key             "t">
-<!ENTITY findAgainCmd.accesskey       "t">
-<!-- LOCALIZATION NOTE (findPreviousCmd.key): This key is used only on Macs.
-  -  Windows and Linux builds use the Shift-F3 key which is not localizable on
-  -  purpose.
-  -->
-<!ENTITY findPreviousCmd.key          "G">
-
-<!ENTITY gotoLineCmd.label            "Sâta a-a lìnia…">
-<!ENTITY gotoLineCmd.key              "S">
-<!ENTITY gotoLineCmd.accesskey        "S">
-
 <!ENTITY run.label                    "Vanni">
 <!ENTITY run.accesskey                "V">
 <!ENTITY run.key                      "V">
@@ -141,4 +97,12 @@
   -  the same name in browser.dtd.
   -->
 <!ENTITY webConsoleCmd.commandkey     "k">
+
+<!ENTITY documentationLink.label      "Agiùtto pe-o blochetìn in sciô MDN">
+<!ENTITY documentationLink.accesskey  "D">
+
+<!ENTITY helpMenu.label               "Agiùtto">
+<!ENTITY helpMenu.accesskey           "A">
+<!ENTITY helpMenuWin.label            "Agiùtto">
+<!ENTITY helpMenuWin.accesskey        "A">
 

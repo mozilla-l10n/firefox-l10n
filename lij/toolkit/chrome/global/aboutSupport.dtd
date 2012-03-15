@@ -41,3 +41,12 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.copyToClipboard.label "Còpia tùtto in scî apónti">
 
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Cartélla do profî">
+
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "GC incrementâle">
+
+<!ENTITY aboutSupport.libraryVersionsTitle "Vescioìn da libràia">

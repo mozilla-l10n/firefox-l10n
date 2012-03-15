@@ -75,3 +75,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 
+<!ENTITY copyLinkCmd.label "Còpia l'indirìsso do colegaménto">
+<!ENTITY copyLinkCmd.accesskey "c">
+<!ENTITY copyEmailCmd.label "Còpia l'indirìsso Email">
+<!ENTITY copyEmailCmd.accesskey "E">
+

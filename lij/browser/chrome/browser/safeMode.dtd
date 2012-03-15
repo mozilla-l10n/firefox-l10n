@@ -60,3 +60,6 @@
 <!ENTITY changeAndRestartButton.label "Càngia e àrvi tórna">
 <!ENTITY continueButton.label         "Continoa into Mòddo Segûo">
 
+<!ENTITY autoSafeModeIntro.label      "O &brandShortName; o se seròu inte 'n mòddo inaspetòu fintànto ch'o se arvîva">
+<!ENTITY autoSafeModeDescription.label "Niâtri se scuzémmo asæ pe sto fæto. O &brandShortName; o l'é òua into mòddo segûo, che tenporaneaménte o dizabilita personaòizaçioìn, têmi e estenscioìn.">
+
