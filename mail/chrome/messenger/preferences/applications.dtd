@@ -13,3 +13,15 @@
 <!ENTITY chooseFolderWin.accesskey "б">
 <!ENTITY chooseFolderMac.label "Выбрать…">
 <!ENTITY chooseFolderMac.accesskey "ы">
+<!ENTITY attachments.incoming.label "Входящие">
+<!ENTITY attachments.outgoing.label "Исходящие">
+<!ENTITY addCloudFileAccount.label "Добавить">
+<!ENTITY addCloudFileAccount.accesskey "в">
+<!ENTITY addCloudFileAccount.description "Добавить новую службу хранения Filelink">
+<!ENTITY removeCloudFileAccount.label "Удалить">
+<!ENTITY removeCloudFileAccount.accesskey "д">
+<!ENTITY authRequired.description "Ваша авторизация необходима для просмотра параметров этой службы хранения.">
+<!ENTITY authRequired.button.label "Авторизоваться">
+<!ENTITY authRequired.button.accesskey "и">
+<!ENTITY enableCloudFileAccountOffer.label "Предлагать службу хранения для файлов больше чем">
+<!ENTITY enableCloudFileAccountOffer.mb "МБ">

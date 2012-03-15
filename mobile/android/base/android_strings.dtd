@@ -20,9 +20,11 @@
 <!ENTITY choose_file "Выбор файла">
 <!ENTITY awesomebar_default_text "Введите поиск или адрес">
 <!ENTITY remote_tabs "Синхронизированные вкладки">
+<!ENTITY remote_tabs_show_all "Показать все вкладки">
 <!ENTITY bookmark "Закладка">
 <!ENTITY bookmark_added "Закладка добавлена">
 <!ENTITY bookmark_removed "Закладка удалена">
+<!ENTITY bookmark_updated "Закладка обновлена">
 <!ENTITY history_today_section "Сегодня">
 <!ENTITY history_yesterday_section "Вчера">
 <!ENTITY history_week_section "7 дней назад">
@@ -71,6 +73,11 @@
 <!ENTITY contextmenu_remove_bookmark "Удалить">
 <!ENTITY contextmenu_add_to_launcher "Добавить на домашний экран">
 <!ENTITY contextmenu_share "Поделиться">
+<!ENTITY contextmenu_edit_bookmark "Изменить">
+<!ENTITY bookmark_edit_title "Изменение закладки">
+<!ENTITY bookmark_edit_name "Имя">
+<!ENTITY bookmark_edit_location "Расположение">
+<!ENTITY bookmark_edit_keyword "Краткое имя">
 <!ENTITY site_settings_title "Очистить настройки сайта">
 <!ENTITY site_settings_cancel "Отмена">
 <!ENTITY site_settings_clear "Очистить">
