@@ -17,34 +17,6 @@
 <!ENTITY closeCmd.accesskey "а">
 <!ENTITY editMenu.label "Правка">
 <!ENTITY editMenu.accesskey "р">
-<!ENTITY undoCmd.label "Отменить">
-<!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "О">
-<!ENTITY redoCmd.label "Повторить">
-<!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "П">
-<!ENTITY cutCmd.label "Вырезать">
-<!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "ы">
-<!ENTITY copyCmd.label "Копировать">
-<!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "и">
-<!ENTITY pasteCmd.label "Вставить">
-<!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "т">
-<!ENTITY selectAllCmd.label "Выделить всё">
-<!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "д">
-<!ENTITY findCmd.label "Найти…">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "й">
-<!ENTITY findAgainCmd.label "Найти ещё раз…">
-<!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.accesskey "щ">
-<!ENTITY findPreviousCmd.key "G">
-<!ENTITY gotoLineCmd.label "Перейти к строке…">
-<!ENTITY gotoLineCmd.key "J">
-<!ENTITY gotoLineCmd.accesskey "е">
 <!ENTITY run.label "Запустить">
 <!ENTITY run.accesskey "у">
 <!ENTITY run.key "r">
@@ -60,6 +32,12 @@
 <!ENTITY contentContext.accesskey "ж">
 <!ENTITY browserContext.label "Браузер">
 <!ENTITY browserContext.accesskey "з">
+<!ENTITY helpMenu.label "Справка">
+<!ENTITY helpMenu.accesskey "в">
+<!ENTITY helpMenuWin.label "Справка">
+<!ENTITY helpMenuWin.accesskey "в">
+<!ENTITY documentationLink.label "Справка по редактору на MDN">
+<!ENTITY documentationLink.accesskey "D">
 <!ENTITY resetContext2.label "Сбросить переменные">
 <!ENTITY resetContext2.accesskey "м">
 <!ENTITY executeMenu.label "Выполнить">

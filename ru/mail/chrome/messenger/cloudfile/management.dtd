@@ -1,0 +1,5 @@
+<!ENTITY cloudfileMgmt.privacyPolicy "Политика приватности">
+<!ENTITY cloudfileMgmt.termsOfService "Условия службы">
+<!ENTITY cloudfileMgmt.usedSpace "Используемое место:">
+<!ENTITY cloudfileMgmt.unusedSpace "Неиспользуемое место:">
+<!ENTITY cloudfileMgmt.upgradeOffer "Получить больше места">

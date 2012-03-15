@@ -103,6 +103,8 @@
 <!ENTITY showMessengerToolbarCmd.accesskey "П">
 <!ENTITY showSearchToolbarCmd.label "Панель поиска">
 <!ENTITY showSearchToolbarCmd.accesskey "а">
+<!ENTITY showTabsToolbarCmd.label "Панель вкладок">
+<!ENTITY showTabsToolbarCmd.accesskey "н">
 <!ENTITY messagePaneLayoutStyle.label "Разбивка окна">
 <!ENTITY messagePaneLayoutStyle.accesskey "Р">
 <!ENTITY messagePaneClassic.label "Классический вид">

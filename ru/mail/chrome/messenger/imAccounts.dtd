@@ -1,0 +1,24 @@
+<!ENTITY accountsWindow.title "Статус мгновенных сообщений">
+<!ENTITY accountsWindow.style "width: 28em; height: 19em;">
+<!ENTITY accountManager.newAccount.label "Создать учетную запись">
+<!ENTITY accountManager.newAccount.accesskey "з">
+<!ENTITY accountManager.close.label "Закрыть">
+<!ENTITY accountManager.close.accesskey "а">
+<!ENTITY accountManager.close.commandkey "a">
+<!ENTITY accountManager.noAccount.title "Учетные записи отсутствуют!">
+<!ENTITY accountManager.noAccount.description "Нажмите на кнопку «&accountManager.newAccount.label;», чтобы &brandShortName; провел вас через процесс её создания.">
+<!ENTITY account.autoSignOn.label "Входить при запуске">
+<!ENTITY account.autoSignOn.accesskey "х">
+<!ENTITY account.connect.label "Включить">
+<!ENTITY account.connect.accesskey "к">
+<!ENTITY account.disconnect.label "Отключить">
+<!ENTITY account.disconnect.accesskey "т">
+<!ENTITY account.edit.label "Свойства">
+<!ENTITY account.edit.accesskey "в">
+<!ENTITY account.moveup.label "Переместить вверх">
+<!ENTITY account.movedown.label "Переместить вниз">
+<!ENTITY account.cancelReconnection.label "Отменить повторное подключение">
+<!ENTITY account.cancelReconnection.accesskey "м">
+<!ENTITY account.connecting "Подключение…">
+<!ENTITY account.disconnecting "Отключение…">
+<!ENTITY account.disconnected "Отключён">
