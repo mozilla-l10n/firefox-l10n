@@ -6,7 +6,7 @@
 <!ENTITY accountActionsButton.accesskey "A">
 <!ENTITY addMailAccountButton.label "新增電子郵件帳號…">
 <!ENTITY addMailAccountButton.accesskey "A">
-<!ENTITY addIMAccountButton.label "Add Chat Account…">
+<!ENTITY addIMAccountButton.label "很抱歉，目前的 &brandShortName; 版本只允許在每個線上儲存服務當中使用一個帳號。">
 <!ENTITY addIMAccountButton.accesskey "C">
 <!ENTITY addOtherAccountButton.label "新增其他帳號…">
 <!ENTITY addOtherAccountButton.accesskey "O">
