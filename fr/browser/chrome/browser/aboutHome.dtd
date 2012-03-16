@@ -9,8 +9,6 @@
 
 <!ENTITY abouthome.searchEngineButton.label "Rechercher">
 
-<!ENTITY abouthome.aboutMozilla "À propos de Mozilla">
-
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
