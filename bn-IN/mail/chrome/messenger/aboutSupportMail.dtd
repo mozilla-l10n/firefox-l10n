@@ -1,0 +1,15 @@
+<!ENTITY aboutSupport.appBasicsAppBuildID "অ্যাপ্লিকেশন তৈরি আইডি">
+
+<!ENTITY aboutSupport.accountsTitle "মেইল ও খবর অ্যাকাউন্ট">
+<!ENTITY aboutSupport.showPrivateData.mainText "অ্যাকাউন্টের নাম সন্নিবেশ করুন">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(সম্ভবত চিহ্নিতকরণের তথ্য)">
+<!ENTITY aboutSupport.accountsID "আইডি">
+<!ENTITY aboutSupport.accountsName "নাম">
+<!ENTITY aboutSupport.accountsIncomingServer "ইনকামিং সার্ভার">
+<!ENTITY aboutSupport.accountsOutgoingServers "আউটগোয়িং সার্ভার">
+<!ENTITY aboutSupport.accountsServerName "নাম">
+<!ENTITY aboutSupport.accountsConnSecurity "সংযোগ নিরাপত্তা">
+<!ENTITY aboutSupport.accountsAuthMethod "প্রমাণীকরণ পদ্ধতি">
+<!ENTITY aboutSupport.accountsDefault "ডিফল্ট?">
+
+<!ENTITY aboutSupport.sendViaEmail.label "ইমেইলের মাধ্যমে পাঠান">

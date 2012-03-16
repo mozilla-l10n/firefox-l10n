@@ -1,6 +1,4 @@
-<!ENTITY server.label "Account: ">
-<!ENTITY server.accesskey "A">
-<!ENTITY virtualFolderListTitle.title        "Select Folder(s)">
-<!ENTITY virtualFolderDesc.label       "Select the folders to search:">
+<!ENTITY virtualFolderListTitle.title        "ফোল্ডার নির্বাচন করুন(s)">
+<!ENTITY virtualFolderDesc.label       "অনুসন্ধান করতে ফোল্ডার নির্বাচন করুন:">
 
 

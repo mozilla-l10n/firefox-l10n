@@ -1,0 +1,19 @@
+<!-- extracted from am-archiveoptions.xul -->
+
+<!ENTITY dialogTitle.label "আর্কাইভ বিকল্প">
+<!ENTITY archiveGranularityPrefix.label "যখন বার্তা সংরক্ষণ, তাদের স্থান: ">:">
+<!ENTITY archiveFlat.label "একটি ফোল্ডার">
+<!ENTITY archiveFlat.accesskey "s">
+<!ENTITY archiveYearly.label "বাত্সরিক সংরক্ষরিত ফোল্ডার">
+<!ENTITY archiveYearly.accesskey "Y">
+<!ENTITY archiveMonthly.label "মাসিক সংরক্ষরিত ফোল্ডার">
+<!ENTITY archiveMonthly.accesskey "M">
+<!ENTITY keepFolderStructure.label "ধরে রাখো বিদ্যমান সংরক্ষরিত বার্তা ফোল্ডার গঠন ">
+<!ENTITY keepFolderStructure.accesskey "K">
+<!ENTITY archiveExample.label "উদাহরণ">
+<!-- LOCALIZATION NOTE (archiveFolderName.label): this should match the default
+     name for the "Archives" folder -->
+<!ENTITY archiveFolderName.label "নথিপত্র">
+<!-- LOCALIZATION NOTE (inboxFolderName.label): this should match the default
+     name for the "Inbox" folder -->
+<!ENTITY inboxFolderName.label "ইনবক্স">
