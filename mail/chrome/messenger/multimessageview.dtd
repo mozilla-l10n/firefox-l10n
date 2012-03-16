@@ -1,0 +1,5 @@
+<!ENTITY window.title             "বার্তা সারসংক্ষেপ">
+<!ENTITY selectedmessages.label   "নির্বাচিত বার্তা">
+<!ENTITY archiveButton.label      "আর্কাইভ">
+<!ENTITY deleteButton.label       "মুছে ফেলা">
+
