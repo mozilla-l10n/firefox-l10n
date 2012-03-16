@@ -1,5 +1,5 @@
 <!ENTITY window.title "Sveiki! Čia „&brandShortName;“">
-<!ENTITY header.label "Norite su „&brandShortName;“ naudotis nauju el. pašto adresu?">
+<!ENTITY header2.label "Norite susikurti naują el. pašto adresą?">
 <!ENTITY other.languages "Rodomi tik tie paslaugos teikėjai, kurie ją siūlo Jūsų regione. Spustelėkite čia, jeigu norite pamatyti visus teikėjus.">
 <!ENTITY error.line1 "Deja, nepavyko rasti el. pašto adresų pasiūlymų.">
 <!ENTITY error.line2 "Pabandykite adresų ieškoti pagal slapyvardį, pravardę ar kitus duomenis">
