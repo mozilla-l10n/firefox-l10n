@@ -5,6 +5,8 @@
 <!ENTITY addMailAccountButton.accesskey "T">
 <!ENTITY addOtherAccountButton.label "Tilføj anden konto…">
 <!ENTITY addOtherAccountButton.accesskey "A">
+<!ENTITY addIMAccountButton.label "Tilføj Chat-konto…">
+<!ENTITY addIMAccountButton.accesskey "C">
 <!ENTITY setDefaultButton.label "Vælg som standard">
 <!ENTITY setDefaultButton.accesskey "s">
 <!ENTITY removeButton.label "Fjern konto">

@@ -5,3 +5,5 @@
 <!ENTITY identitiesListEdit.accesskey "R">
 <!ENTITY identitiesListDelete.label "Slet">
 <!ENTITY identitiesListDelete.accesskey "S">
+<!ENTITY identitiesListClose.label "Afslut">
+<!ENTITY identitiesListClose.accesskey "A">
