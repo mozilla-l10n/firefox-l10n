@@ -75,8 +75,6 @@
 <!ENTITY lightning.menu.eventtask.accesskey "B">
 
 <!-- properties dialog, calendar creation wizard -->
-<!ENTITY lightning.calendarproperties.showevents.inagenda.label "Vis begivenheder i i dags-ruden">
-<!ENTITY lightning.calendarproperties.showtasks.label "Vis opgaver i i dags-ruden og i opgavevisning">
 <!ENTITY lightning.calendarproperties.email.label "Mail:">
 
 <!-- iMIP Bar (meeting support) -->
