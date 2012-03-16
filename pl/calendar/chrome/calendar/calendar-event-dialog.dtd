@@ -151,8 +151,8 @@
 <!ENTITY  event.menu.options.inline.spellcheck.accesskey       "p">
 <!ENTITY  event.menu.options.link.label                        "Dodaj odnośnik…">
 <!ENTITY  event.menu.options.link.accesskey                    "D">
-<!ENTITY  event.menu.options.timezone.label                    "Strefa czasowa">
-<!ENTITY  event.menu.options.timezone.accesskey                "S">
+<!ENTITY  event.menu.options.timezone2.label                   "Pokaż strefy czasowe">
+<!ENTITY  event.menu.options.timezone2.accesskey               "s">
 <!ENTITY  event.menu.options.priority2.label                   "Priorytet">
 <!ENTITY  event.menu.options.priority2.accesskey               "r">
 <!ENTITY  event.menu.options.priority.notspecified.label       "Nieokreślony">
@@ -377,6 +377,7 @@
 <!-- Timezone dialog -->
 
 <!ENTITY timezone.title.label            "Wybór strefy czasowej">
+<!ENTITY event.timezone.custom.label     "Więcej stref czasowych…">
 
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Główne">
