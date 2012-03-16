@@ -1,0 +1,21 @@
+<!-- extracted from content/pref-publish.xul -->
+
+<!--LOCALIZATION NOTE : FILE The Publish preferences screen -->
+<!ENTITY  pref.publish.title     "প্রকাশনা">
+<!ENTITY  composerHeader.label "প্রকাশনা">
+<!ENTITY  maintainCheckbox.label "লিঙ্ক অপরিবর্তিত রাখা হবে">
+<!ENTITY  keepCheck.label "পৃষ্ঠার সাথে ছবি সংরক্ষিত হবে">
+
+<!--LOCALIZATION NOTE (adjustDesc.label): Attempt to maintain approximate line length, linefeeds and white space -->
+<!ENTITY  adjustDesc.label "পৃষ্ঠার অবস্থান থেকে লিঙ্ক কার্যকর রাখতে প্রয়োজনীয় পরিবর্তন করুন। (স্থানীয় সংস্করণ উপস্থিত থাকলে স্থানীয় 
+			      পৃষ্ঠার লিঙ্ক সক্রিয় হবে।)           ">
+<!--LOCALIZATION NOTE (saveDesc.label): Attempt to maintain approximate line length, linefeeds and white space -->
+<!ENTITY  saveDesc.label "পৃষ্ঠার অবস্থানে ছবির প্রতিলিপি সংরক্ষণ করা হবে।  পৃষ্ঠা প্রকাশিত হলে পৃষ্ঠার
+				স্থানীয় সংস্করণের মধ্যে ছবি প্রদর্শিত হবে।">
+<!ENTITY  tip.label "উপদেশ: দূরবর্তী অবস্থান থেকে প্রকাশনা কর্ম সঞ্চালন করতে ইচ্ছুক হলে উভয় বিকল্প পরীক্ষা করুন।">
+<!ENTITY defaultHeader.label  "প্রকাশনা কর্মের ডিফল্ট অবস্থান">
+<!--LOCALIZATION NOTE (publishFtp.label): Edit box appears beside this label -->
+<!ENTITY  publishFtp.label "FTP সাইটে প্রকাশ করার সময় ব্রাউজ করার উদ্দেশ্যে HTTP ঠিকানা উল্লেখ করুন:">
+<!--LOCALIZATION NOTE (publishhtp.label): Edit box appears beside this label -->
+<!ENTITY  publishhtp.label "FTP সাইটে প্রকাশ করার সময় ব্রাউজ করার উদ্দেশ্যে HTTP ঠিকানা উল্লেখ করুন:">
+
