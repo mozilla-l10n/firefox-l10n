@@ -26,16 +26,30 @@
 <!ENTITY emailLabel.accesskey "E">
 
 <!-- Entities for Server page -->
-
-<!ENTITY serverTitle.label "Serveroplysninger">
+<!ENTITY incomingTitle.label "Oplysninger om indgående server">
 <!ENTITY incomingServerTypeDesc.label "Vælg typen på din indgående server.">
-<!ENTITY incomingServerNameDesc.label "Indtast navnet på din indgående server (f.eks. &quot;mail.eksempel.dk&quot;).">
-<!ENTITY incomingServerLabel.label "Indgående server:">
-<!ENTITY incomingServerLabel.accesskey "S">
+<!ENTITY incomingServer.description "Indtast navnet på din indgående server (f.eks. &quot;mail.eksempel.dk&quot;).">
+<!ENTITY incomingServer.label "Indgående server:">
+<!ENTITY incomingServer.accesskey "S">
+
+<!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
+<!ENTITY incomingUsername.description "Indtast det brugernavn for indgående server, som din mailudbyder har oplyst dig (f.eks., &quot;jsmith&quot;).">
+<!ENTITY incomingUsername.label "Indgående brugernavn:">
+<!ENTITY incomingUsername.accesskey "b">
+
 <!ENTITY newsServerNameDesc.label "Indtast navnet på din nyhedsgruppeserver (NNTP) (f.eks. &quot;news.eksempel.dk&quot;).">
-<!ENTITY smtpServerDesc.label "Indtast navnet på din udgående server (SMTP) (f.eks. &quot;smtp.eksempel.dk&quot;).">
-<!ENTITY smtpServerLabel.label "Udgående server:">
-<!ENTITY smtpServerLabel.accesskey "U">
+
+<!-- Entities for Outgoing Server page -->
+
+<!ENTITY outgoingTitle.label "Oplysninger om udgående server">
+<!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
+<!ENTITY outgoingServer.description "Indtast navnet på din udgående server (SMTP) (f.eks, &quot;smtp.example.net&quot;).">
+<!ENTITY outgoingServer.label "Udgående server:">
+<!ENTITY outgoingServer.accesskey "U">
+<!ENTITY outgoingUsername.description "Indtast det brugernavn for udgående server, som din mailudbyder har oplyst dig (det er typisk det samme som brugernavnet for indgående server).">
+<!ENTITY outgoingUsername.label "Udgående brugernavn:">
+<!ENTITY outgoingUsername.accesskey "b">
+
 <!ENTITY newsServerLabel.label "Nyhedsgruppeserver:">
 <!ENTITY newsServerLabel.accesskey "N">
 <!ENTITY imapType.label "IMAP">
@@ -60,17 +74,6 @@
 -->
 <!ENTITY haveSmtp1.prefix "Din eksisterende udgående mailserver (SMTP), &quot;">
 <!ENTITY haveSmtp1.suffix3 "&quot;, vil blive brugt.">
-
-<!-- Entities for Login page -->
-
-<!ENTITY loginTitle.label "Brugernavne">
-<!ENTITY usernameDesc.label "Skriv brugernavnet, som du har fået af din mailudbyder">
-<!ENTITY usernameExample.label "(f.eks. &quot;jhansen&quot;).">
-<!ENTITY usernameLabel.label "Indgående brugernavn:">
-<!ENTITY usernameLabel.accesskey "I">
-<!ENTITY usernameSmtpDesc.label "Skriv brugernavnet til den udgående mailserver din mailudbyder har givet dig (typisk det samme brugernavn som til den indgående mailserver.)">
-<!ENTITY usernameSmtpLabel.label "Udgående brugernavn">
-<!ENTITY usernameSmtpLabel.accesskey "U">
 
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting

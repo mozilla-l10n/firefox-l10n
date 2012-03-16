@@ -5,7 +5,9 @@
 <!ENTITY prefWindow.styleGNOME   "width: 55em; min-height: 38em;">
 <!ENTITY paneGeneral.title "Generelt">
 <!ENTITY paneDisplay.title "Visning">
+<!ENTITY paneChat.title "Chat">
 <!ENTITY paneComposition.title "Redigering">
 <!ENTITY paneAttachments.title "Vedhæftede filer">
 <!ENTITY paneSecurity.title "Sikkerhed">
 <!ENTITY paneAdvanced.title "Avanceret">
+
