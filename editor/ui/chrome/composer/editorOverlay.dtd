@@ -1,0 +1,614 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1999-2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Sammy Ford
+   -   Blake Ross
+   -   Ryan Cassin (rcassin@supernova.org)
+   -   Daniel Glazman (glazman@netscape.com)
+   -   Stephen Donner (technutz@netscape.net)
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
+
+<!-- File menu items -->
+<!ENTITY fileMenu.label "ফাইল">
+<!ENTITY filemenu.accesskey "f">
+<!ENTITY newBlankPageCmd.label "রচনা কর্মের পৃষ্ঠা">
+<!ENTITY newBlankPage.accesskey "P" >
+<!ENTITY newMenu.label "নতুন">
+<!ENTITY openFileCmd.label "ফাইল খুলুন...">
+<!ENTITY fileopen.accesskey "o">
+<!ENTITY fileopen.keybinding "o">
+<!ENTITY openremoteCmd.label "ওয়েবের মধ্যে অবস্থান খুলুন...">
+<!ENTITY fileopenremote.accesskey "l">
+<!ENTITY fileopenremote.keybinding "l">
+<!ENTITY fileRecentMenu.label "সাম্প্রতিক পৃষ্ঠা">
+<!ENTITY filerecentmenu.accesskey "r">
+<!ENTITY fileRevert.label "পূর্বাবস্থা">
+<!ENTITY filerevert.accesskey "v">
+<!ENTITY saveCmd.label "সংরক্ষণ">
+<!ENTITY filesave.accesskey "s">
+<!ENTITY filesave.keybinding "s">
+<!ENTITY saveAsCmd.label "নতুন রূপে সংরক্ষণ...">
+<!ENTITY filesaveas.accesskey "A">
+
+<!ENTITY publishCmd.label "প্রকশনা">
+<!ENTITY publishcmd.accesskey "b">
+<!ENTITY publishAsCmd.label "নতুন রূপে প্রকাশনা...">
+<!ENTITY publishas.accesskey "h">
+<!ENTITY exportToTextCmd.label "টেক্সট রূপে এক্সপোর্ট করা হবে...">
+<!ENTITY fileexporttotext.accesskey "T">
+<!ENTITY saveAsChangeEncodingCmd.label "সংরক্ষণ করে ক্যারেক্টার এনকোডিং পরিবর্তন করা হবে">
+<!ENTITY filesaveandchangeencoding.accesskey "E">
+<!ENTITY previewCmd.label "পৃষ্ঠা ব্রাউজ করুন">
+<!ENTITY filepreview.accesskey "w">
+<!ENTITY sendPageCmd.label "পৃষ্ঠা প্রেরণ করুন...">
+<!ENTITY sendPage.accesskey "d">
+<!ENTITY printSetupCmd.label "পৃষ্ঠা প্রস্তুতি...">
+<!ENTITY fileprintsetup.accesskey "u">
+<!ENTITY printPreviewCmd.label "প্রিন্টের পূর্বরূপ">
+<!ENTITY fileprintpreview.accesskey "v">
+<!ENTITY printCmd.label "প্রিন্ট করুন...">
+<!ENTITY printButtonCmd.label "প্রিন্ট করুন...">
+<!ENTITY fileprint.accesskey "p">
+<!ENTITY fileprint.keybinding "p">
+<!ENTITY closeCmd.label "বন্ধ করুন">
+<!ENTITY fileclose.accesskey "c">
+<!ENTITY fileclose.keybinding "w">
+<!ENTITY exitCmd.label "প্রস্থান">
+<!ENTITY fileexit.accesskey "q">
+<!ENTITY fileexit.keybinding "q">
+
+<!-- Edit menu items -->
+<!ENTITY editMenu.label "সম্পাদনা">
+<!ENTITY editmenu.accesskey "e">
+<!ENTITY pasteNoFormatting.label "বিন্যাস বিনা পেস্ট করুন">
+<!ENTITY pasteNoFormatting.accesskey "o">
+<!ENTITY pasteAs.label "নতুন রূপে পেস্ট করুন">
+<!ENTITY pasteAs.accesskey "a">
+<!ENTITY publishSettings.label "সাইটের বৈশিষ্ট্য প্রকাশ করুন...">
+<!ENTITY publishSettings.accesskey "b">
+
+<!-- For a "Paste" submenu when more than 1 
+     clipboard formats are available -->
+<!ENTITY pasteHTMLCmd.label "HTML">
+<!ENTITY pasteHTML.accesskey "h">
+<!ENTITY pasteTextCmd.label "টেক্সট">
+<!ENTITY pasteText.accesskey "t">
+<!ENTITY pasteImageCmd.label "ছবি">
+<!ENTITY pasteImage.accesskey "i">
+<!ENTITY pasteRowsCmd.label "সারি">
+<!ENTITY pasteRows.accesskey "r">
+<!ENTITY pasteColumnsCmd.label "কলাম">
+<!ENTITY pasteColumns.accesskey "c">
+<!-- LOCALIZATION NOTE: Text for menu item is in editor.properties
+     Set to: "Table" or "Nested Table" depending on context 
+     This accesskey must be in both strings -->
+<!ENTITY pasteTable.accesskey "a">
+<!ENTITY pasteLinkCmd.label "লিঙ্ক করুন">
+<!ENTITY editpastelink.accesskey "l">
+<!ENTITY pasteAsQuotationCmd.label "উদ্ধৃতি রূপে পেস্ট করুন">
+<!ENTITY editpastequotation.accesskey "q">
+<!ENTITY editpastequotation.keybinding "v">
+<!ENTITY editStripQuotesCmd.label "উদ্ধৃতিচিহ্ন মুছে ফেলা হবে">
+<!ENTITY editRewrapCmd.label "পুনরায় বিভাজন">
+<!ENTITY findCmd.label "অনুসন্ধান ও প্রতিস্থাপন...">
+<!ENTITY editfind.accesskey "f">
+<!ENTITY editfind.keybinding "f">
+<!ENTITY editfind.keybinding2 "VK_F19">
+<!ENTITY findAgainCmd.label "পরবর্তী উপস্থিতি অনুসন্ধান">
+<!ENTITY editfindnext.accesskey "g">
+<!ENTITY editfindnext.keybinding "g">
+<!ENTITY editfindnext.keybinding2 "VK_F3">
+<!ENTITY findPrevCmd.label "পূর্ববর্তী উপস্থিতি অনুসন্ধান">
+<!ENTITY editfindprev.accesskey "v">
+<!ENTITY editfindprev.keybinding "g">
+<!ENTITY editfindprev.keybinding2 "VK_F3">
+<!ENTITY enableInlineSpellChecker.label "টাইপ করার সময় বানান পরীক্ষা করা হবে">
+<!ENTITY enableInlineSpellChecker.accesskey "S">
+<!ENTITY checkSpellingCmd.label "বানান পরীক্ষণ">
+<!ENTITY editcheckspelling.accesskey "h">
+<!ENTITY editcheckspelling.keybinding "k">
+<!ENTITY validateCmd.label "HTML অনুমোদন">
+<!ENTITY validate.accesskey "v">
+<!ENTITY checkLinksCmd.label "লিঙ্ক পরীক্ষণ">
+
+<!-- View menu items -->
+<!ENTITY viewPageSource.label "পৃষ্ঠার উৎস">
+<!ENTITY viewpagesource.accesskey "s">
+<!ENTITY viewParagraphMarks.label "অনুচ্ছেদের চিহ্ন">
+<!ENTITY viewparagraphmarks.accesskey "p">
+
+<!-- Insert menu items -->
+<!ENTITY insertMenu.label "সন্নিবেশ করুন">
+<!ENTITY insertmenu.accesskey "i">
+<!ENTITY insertLinkCmd.label "লিঙ্ক...">
+<!ENTITY insertlink.accesskey "l">
+<!ENTITY insertlink.keybinding "l">
+<!ENTITY insertAnchorCmd.label "নেমড অ্যাঙ্কর...">
+<!ENTITY insertanchor.accesskey "A">
+<!ENTITY insertImageCmd.label "ছবি...">
+<!ENTITY insertimage.accesskey "i">
+<!ENTITY insertImageMapCmd.label "ছবির ম্যাপ...">
+<!ENTITY insertHLineCmd.label "অনুভূমিক রেখা">
+<!ENTITY inserthline.accesskey "o">
+<!ENTITY insertTableCmd.label "টেবিল...">
+<!ENTITY inserttable.accesskey "t">
+<!ENTITY insertFormMenu.label "ফর্ম">
+<!ENTITY insertformmenu.accesskey "F">
+<!ENTITY insertHTMLCmd.label "HTML...">
+<!ENTITY insertHTMLCmd.accesskey "h">
+<!ENTITY insertCharsCmd.label "অক্ষর ও চিহ্ন...">
+<!ENTITY insertchars.accesskey "C">
+<!ENTITY insertBreakCmd.label "পংক্তি বিভাজন">
+<!ENTITY insertbreak.accesskey "b">
+<!ENTITY insertBreakAllCmd.label "ছবির নীচে বিভাজন">
+<!ENTITY insertbreakall.accesskey "k">
+
+<!-- Insert form menu items -->
+<!ENTITY insertFormCmd.label "ফর্মের ব্যাখ্যা...">
+<!ENTITY insertform.accesskey "D">
+<!ENTITY insertInputTagCmd.label "ফর্মের ক্ষেত্র...">
+<!ENTITY insertinputtag.accesskey "e">
+<!ENTITY insertInputImageCmd.label "ফর্মের ছবি...">
+<!ENTITY insertinputimage.accesskey "I">
+<!ENTITY insertTextAreaCmd.label "টেক্সট লেখার অংশ...">
+<!ENTITY inserttextarea.accesskey "T">
+<!ENTITY insertSelectCmd.label "নির্বাচনের তালিকা...">
+<!ENTITY insertselect.accesskey "S">
+<!ENTITY insertButtonCmd.label "ব্যাখ্যার বাটন...">
+<!ENTITY insertbutton.accesskey "B">
+<!ENTITY insertLabelCmd.label "লেবেলের ব্যাখ্যা">
+<!ENTITY insertlabel.accesskey "L">
+<!ENTITY insertFieldSetCmd.label "ফিল্ড সেট ব্যাখ্যা...">
+<!ENTITY insertfieldset.accesskey "F">
+<!ENTITY insertIsIndexCmd.label "ইন্ডেক্স ভিত্তিক অনুসন্ধান">
+<!ENTITY insertisindex.accesskey "x">
+
+<!-- Used just in context popup. -->
+<!ENTITY spellCheckNoSuggestions.label "(প্রস্তাবিত শব্দ অনুপস্থিত)">
+<!ENTITY spellCheckIgnoreWord.label "শব্দ অগ্রাহ্য করা হবে">
+<!ENTITY spellCheckIgnoreWord.accesskey "I">
+<!ENTITY spellCheckAddToDictionary.label "অভিধানে যোগ করুন">
+<!ENTITY spellCheckAddToDictionary.accesskey "n">
+<!ENTITY createLinkCmd.label "লিঙ্ক নির্মাণ করুন...">
+<!ENTITY createlink.accesskey "k">
+<!ENTITY editLinkCmd.label "নতুন রচনা ক্ষেত্রে লিঙ্ক সম্পাদন করুন">
+<!ENTITY editlink.accesskey "i">
+<!-- (Toplevel Edit menu uses utilityOverlay) -->
+<!ENTITY undoCmd.label "পূর্বাবস্থা">
+<!ENTITY undo.accesskey "u">
+<!ENTITY redoCmd.label "পুনরাবৃত্তি">
+<!ENTITY redo.accesskey "r">
+<!ENTITY cutCmd.label "কাট করুন">
+<!ENTITY cut.accesskey "t">
+<!ENTITY copyCmd.label "কপি করুন">
+<!ENTITY copy.accesskey "c">
+<!ENTITY pasteCmd.label "পেস্ট করুন">
+<!ENTITY paste.accesskey "p">
+<!ENTITY deleteCmd.label "মুছে ফেলুন">
+<!ENTITY delete.accesskey "d">
+<!ENTITY clearCmd.label "পরিষ্কার করুন">
+<!ENTITY clear.accesskey "l">
+<!ENTITY selectAllCmd.label "সমগ্র নির্বাচন">
+<!ENTITY selectall.accesskey "a">
+
+<!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.tooltip "ফন্ট নির্বাচন করুন">
+<!ENTITY fontfaceMenu.label "ফন্ট">
+<!ENTITY formatfontmenu.accesskey "f">
+<!ENTITY fontVarWidth.label "পরিবর্তনশীল প্রস্থ">
+<!ENTITY fontvarwidth.accesskey "v">
+<!ENTITY fontFixedWidth.label "অপরিবর্তনশীল প্রস্থ">
+<!ENTITY fontfixedwidth.accesskey "x">
+<!ENTITY formatfontfixed.keybinding "t">
+<!ENTITY fontHelveticaFont.label "Helvetica, Arial">
+<!ENTITY fonthelvetica.accesskey "l">
+<!ENTITY fontTimes.label "Times">
+<!ENTITY fonttimes.accesskey "t">
+<!ENTITY fontCourier.label "Courier">
+<!ENTITY fontcourier.accesskey "c">
+<!ENTITY localfontfaceMenu.label "স্থানীয় ফন্ট">
+<!ENTITY localfontmenu.accesskey "f">
+
+<!-- Font Size SubMenu -->
+<!ENTITY FontSizeSelect.tooltip "ফন্টের মাপ নির্বাচন করুন">
+<!ENTITY decreaseFontSize.label "ছোট">
+<!ENTITY decreasefontsize.accesskey "r">
+<!ENTITY decreaseFontSize.keybinding "-">
+<!ENTITY increaseFontSize.label "বড়">
+<!ENTITY increasefontsize.accesskey "g">
+<!ENTITY increaseFontSize.keybinding "+">
+<!ENTITY increaseFontSize.keybinding2 "="> <!-- + is above this key on many keyboards -->
+
+<!ENTITY fontsizeMenu.label "মাপ">
+<!ENTITY formatsizemenu.accesskey "z">
+<!ENTITY size-xx-smallCmd.label "xx-ছোট">
+<!ENTITY size-xx-small.accesskey "a">
+<!ENTITY size-x-smallCmd.label "x-ছোট">
+<!ENTITY size-x-small.accesskey "m">
+<!ENTITY size-smallCmd.label "ছোট">
+<!ENTITY size-small.accesskey "s">
+<!ENTITY size-mediumCmd.label "মাঝারি">
+<!ENTITY size-medium.accesskey "d">
+<!ENTITY size-largeCmd.label "বড়">
+<!ENTITY size-large.accesskey "l">
+<!ENTITY size-x-largeCmd.label "x-বড়">
+<!ENTITY size-x-large.accesskey "x">
+<!ENTITY size-xx-largeCmd.label "xx-বড়">
+<!ENTITY size-xx-large.accesskey "e">
+
+<!-- Font Style SubMenu -->
+<!ENTITY fontStyleMenu.label "টেক্সটের বিন্যাস">
+<!ENTITY formatstylemenu.accesskey "s">
+<!ENTITY styleBoldCmd.label "গাঢ়">
+<!ENTITY stylebold.accesskey "b">
+<!ENTITY stylebold.keybinding "b">
+<!ENTITY styleItalicCmd.label "তেরছা">
+<!ENTITY styleitalic.accesskey "I">
+<!ENTITY styleitalic.keybinding "i">
+<!ENTITY styleUnderlineCmd.label "নিম্নরেখাঙ্কিত">
+<!ENTITY styleunderline.accesskey "u">
+<!ENTITY styleunderline.keybinding "u">
+<!ENTITY styleStrikeThruCmd.label "মধ্যরেখাঙ্কিত">
+<!ENTITY stylestrikethru.accesskey "k">
+<!ENTITY styleSuperscriptCmd.label "সুপারস্ক্রিপ্ট">
+<!ENTITY stylesuperscript.accesskey "p">
+<!ENTITY styleSubscriptCmd.label "সাবস্ক্রিপ্ট">
+<!ENTITY stylesubscript.accesskey "S">
+<!ENTITY styleNonbreakingCmd.label "অবিভক্ত">
+<!ENTITY stylenonbreaking.accesskey "N">
+<!ENTITY styleEm.label "গুরুত্বপূর্ণ">
+<!ENTITY styleEm.accesskey "e">
+<!ENTITY styleStrong.label "অতি গুরুত্বপূর্ণ">
+<!ENTITY styleStrong.accesskey "t">
+<!ENTITY styleCite.label "স্বীকৃতি">
+<!ENTITY styleCite.accesskey "c">
+<!ENTITY styleAbbr.label "সংক্ষেপণ">
+<!ENTITY styleAbbr.accesskey "A">
+<!ENTITY styleAcronym.label "অদ্যাক্ষের সংগঠন">
+<!ENTITY styleAcronym.accesskey "r">
+<!ENTITY styleCode.label "কোড">
+<!ENTITY styleCode.accesskey "o">
+<!ENTITY styleSamp.label "ফলাফলের নমুনা">
+<!ENTITY styleSamp.accesskey "m">
+<!ENTITY styleVar.label "ভেরিয়েবল">
+<!ENTITY styleVar.accesskey "v">
+
+<!ENTITY formatFontColor.label "হরফের রং...">
+<!ENTITY formatfontcolor.accesskey "c">
+<!ENTITY tableOrCellColor.label "টেবিল অথবা সেলের পটভূমির রং...">
+<!ENTITY tableOrCellColor.accesskey "B">
+
+<!ENTITY formatremovestyles.keybinding "y">
+<!ENTITY formatremovelinks.keybinding "k">
+<!ENTITY formatRemoveNamedAnchors.label "নেমড অ্যাঙ্কর মুছে ফেলুন">
+<!ENTITY formatRemoveNamedAnchors.accesskey "R">
+<!ENTITY formatremovenamedanchors.keybinding "a">
+
+<!ENTITY formatindent.keybinding "]">
+<!ENTITY formatoutdent.keybinding "[">
+<!ENTITY paragraphMenu.label "অনুচ্ছেদ">
+<!ENTITY formatparagraphmenu.accesskey "P">
+<!ENTITY paragraphParagraphCmd.label "অনুচ্ছেদ">   
+<!ENTITY paragraphparagraph.accesskey "P">
+<!ENTITY heading1Cmd.label "Heading 1">
+<!ENTITY heading1.accesskey "1">
+<!ENTITY heading2Cmd.label "Heading 2">
+<!ENTITY heading2.accesskey "2">
+<!ENTITY heading3Cmd.label "Heading 3">
+<!ENTITY heading3.accesskey "3">
+<!ENTITY heading4Cmd.label "Heading 4">
+<!ENTITY heading4.accesskey "4">
+<!ENTITY heading5Cmd.label "Heading 5">
+<!ENTITY heading5.accesskey "5">
+<!ENTITY heading6Cmd.label "Heading 6">
+<!ENTITY heading6.accesskey "6">
+<!ENTITY paragraphAddressCmd.label "Address">
+<!ENTITY paragraphaddress.accesskey "a">
+<!ENTITY paragraphPreformatCmd.label "Preformat">
+<!ENTITY paragraphpreformat.accesskey "f">
+<!ENTITY paragraphBlockquoteCmd.label "Blockquote">
+<!ENTITY paragraphblockquote.accesskey "b">
+
+<!-- List menu items -->
+<!ENTITY formatlistMenu.label "তালিকা">
+<!ENTITY formatlistmenu.accesskey "l">
+<!ENTITY noneCmd.label "শূণ্য">
+<!ENTITY none.accesskey "N">
+<!ENTITY listBulletCmd.label "বুলেটযুক্ত">
+<!ENTITY listbullet.accesskey "b">
+<!ENTITY listNumberedCmd.label "সংখ্যাযুক্ত">
+<!ENTITY listnumbered.accesskey "m">
+<!ENTITY listTermCmd.label "অভিব্যক্তি">
+<!ENTITY listterm.accesskey "t">
+<!ENTITY listDefinitionCmd.label "ব্যাখ্যা">
+<!ENTITY listdefinition.accesskey "d">
+<!ENTITY listProps.label "তালিকার বৈশিষ্ট্য...">
+<!ENTITY listprops.accesskey "l">
+
+<!ENTITY ParagraphSelect.tooltip "অনুগ্রহ করে অনুচ্ছেদের বিন্যাস নির্বাচন করুন">
+<!-- Shared in Paragraph, and Toolbar menulist -->
+<!ENTITY bodyTextCmd.label "মূল অংশে ব্যবহৃত হরফ">
+<!ENTITY bodytext.accesskey "T">
+<!-- isn't used in menu now, but may be added in future -->
+<!ENTITY advancedPropertiesCmd.label "উন্নত বৈশিষ্ট্য">
+<!ENTITY advancedproperties.accesskey "v">
+
+<!ENTITY NormalAbbr.label "হরফ">
+<!ENTITY ParagraphAbbr.label "P">  
+<!ENTITY Heading1Abbr.label "H1">
+<!ENTITY Heading2Abbr.label "H2">
+<!ENTITY Heading3Abbr.label "H3">
+<!ENTITY Heading4Abbr.label "H4">
+<!ENTITY Heading5Abbr.label "H5">
+<!ENTITY Heading6Abbr.label "H6">
+<!ENTITY BlockquoteAbbr.label "BQ">
+<!ENTITY AddressAbbr.label "Addr.">
+<!ENTITY PreformatAbbr.label "Pre.">
+
+<!-- Style Sheet submenu NOT IMPLEMENTED -->
+<!ENTITY stylesheetMenu.label "স্টাইল-শিট প্রয়োগ করা হবে">
+<!ENTITY formatstylesheetmenu.accesskey "y">
+
+<!-- Align menu items -->
+<!ENTITY alignMenu.label "দিশা">
+<!ENTITY formatalignmenu.accesskey "a">
+<!ENTITY alignLeft.label "বাঁদিকে">
+<!ENTITY alignleft.accesskey "l">
+<!ENTITY alignLeft.tooltip "বাঁদিকের প্রান্তে">
+<!ENTITY alignCenter.label "কেন্দ্রস্থিত">
+<!ENTITY aligncenter.accesskey "c">
+<!ENTITY alignCenter.tooltip "কেন্দ্রস্থিত">
+<!ENTITY alignRight.label "ডানদিকে">
+<!ENTITY alignright.accesskey "r">
+<!ENTITY alignRight.tooltip "ডানদিকের প্রান্তে">
+<!ENTITY alignJustify.label "সমপ্রান্তিক">
+<!ENTITY alignjustify.accesskey "j">
+<!ENTITY alignJustify.tooltip "সম্প্রান্তিক">
+
+<!-- Layer toolbar items -->
+<!ENTITY layer.tooltip "স্তর">
+<!ENTITY layerSendToBack.tooltip "পেছনে নিয়ে যান">
+<!ENTITY layerBringToFront.tooltip "সামনে নিয়ে আসুন">
+
+<!ENTITY increaseIndent.label "প্রান্তের সাথে অন্তর্বর্তী মাপ বৃদ্ধি করুন">
+<!ENTITY increaseindent.accesskey "i">
+<!ENTITY increaseindentkb "=">
+<!ENTITY decreaseIndent.label "প্রান্তের সাথে অন্তর্বর্তী মাপ হ্রাস করুন">
+<!ENTITY decreaseindent.accesskey "D">
+<!ENTITY decreaseindentkb "-">
+
+<!ENTITY grid.label "অবস্থান নির্দেশক গ্রিড">
+<!ENTITY grid.accesskey "t">
+
+<!ENTITY pageProperties.label "পৃষ্ঠার শিরোনাম ও বৈশিষ্ট্য...">
+<!ENTITY pageproperties.accesskey "g">
+<!ENTITY colorsAndBackground.label "পৃষ্ঠার রং ও পটভূমি...">
+<!ENTITY colorsandbackground.accesskey "u">
+
+<!-- Table Menu -->
+<!ENTITY tableMenu.label "টেবিল">
+<!ENTITY tablemenu.accesskey "b">
+<!-- Select Submenu -->
+<!ENTITY tableSelectMenu.label "নির্বাচন">
+<!ENTITY tableselectmenu.accesskey "s">
+
+<!ENTITY tableSelectMenu2.label "টেবিল নির্বাচন">
+<!ENTITY tableInsertMenu2.label "টেবিল সন্নিবেশ">
+<!ENTITY tableDeleteMenu2.label "টেবিল অপসারণ">
+
+<!-- Insert SubMenu -->
+<!ENTITY tableInsertMenu.label "সন্নিবেশ">
+<!ENTITY tableinsertmenu.accesskey "i">
+<!ENTITY tableTable.label "টেবিল">
+<!ENTITY tabletable.accesskey "t">
+<!ENTITY tableRow.label "সারি">
+<!ENTITY tableRows.label "সারি">
+<!ENTITY tablerow.accesskey "r">
+<!ENTITY tableRowAbove.label "উপরের সারি">
+<!-- uses tablerow.accesskey -->
+<!ENTITY tableRowBelow.label "নীচের সারি">
+<!ENTITY tablerowbelow.accesskey "b">
+<!ENTITY tableColumn.label "কলাম">
+<!ENTITY tableColumns.label "কলাম">
+<!ENTITY tablecolumn.accesskey "o">
+<!ENTITY tableColumnBefore.label "পূর্ববর্তী কলাম">
+<!-- uses tablecolumn.accesskey -->
+<!ENTITY tableColumnAfter.label "পরবর্তী কলাম">
+<!ENTITY tablecolumnafter.accesskey "a">
+<!ENTITY tableCell.label "সেল">
+<!ENTITY tableCells.label "সেল">
+<!ENTITY tablecell.accesskey "c">
+<!ENTITY tableCellContents.label "সেলের বিষয়বস্তু">
+<!ENTITY tablecellcontents.accesskey "n">
+<!ENTITY tableAllCells.label "সমস্ত সেল">
+<!ENTITY tableCellBefore.label "পূর্ববর্তী সেল">
+<!ENTITY tableallcells.accesskey "a">
+<!-- uses tablecell.accesskey -->
+<!ENTITY tableCellAfter.label "পরবর্তী সেল">
+<!ENTITY tablecellafter.accesskey "f">
+<!-- Delete SubMenu -->
+<!ENTITY tableDeleteMenu.label "মুছে ফেলুন">
+<!ENTITY tabledeletemenu.accesskey "D">
+
+<!ENTITY tableFix.label "টেবিলের বিন্যাস স্থির করুন">
+<!ENTITY tablefix.accesskey "f">
+<!-- text for "Join Cells" is in editor.properties 
+     ("JoinSelectedCells" and "JoinCellToRight")
+     the access key must exist in both of those strings
+     But value must be set here for accesskey to draw properly
+-->
+<!ENTITY tableJoinCells.label "j">
+<!ENTITY tablejoincells.accesskey "j">
+<!ENTITY tableSplitCell.label "সেল বিভাজন">
+<!ENTITY tablesplitcell.accesskey "c">
+<!ENTITY convertToTable.label "নির্বাচিত অংশ ব্যবহার করে টেবিল নির্মাণ করুন">
+<!ENTITY converttotable.accesskey "r">
+<!ENTITY tableProperties.label "টেবিলের বৈশিষ্ট্য...">
+<!ENTITY tableProperties.accesskey "o">
+
+<!-- Tools menu -->
+<!ENTITY toolsmenu.accesskey "l">
+<!ENTITY toolbrowser.accesskey "b">
+<!ENTITY toolplaineditor.accesskey "p">
+<!ENTITY toolsetfocus.accesskey "f">
+
+<!-- Debug menu items -->
+<!ENTITY debugMenu.label "ডিবাগ করুন">
+<!ENTITY newEditorTestPage.label "পরীক্ষামূলক পৃষ্ঠা প্রদর্শনকারী রচনা ক্ষেত্র">
+<!ENTITY textEditorCmd.label "সরল টেক্সট এডিটর">
+<!ENTITY outputTextCmd.label "ফলাফলের টেক্সট">
+<!ENTITY outputHTMLCmd.label "ফলাফলের HTML">
+<!ENTITY insertTextCmd.label "টেক্সট সন্নিবেশ করুন">
+<!ENTITY testSelectionCmd.label "পরীক্ষামূলক নির্বাচন">
+<!ENTITY testTableLayoutCmd.label "পরীক্ষামূলক টেবিল বিন্যাস">
+<!ENTITY testDocumentCmd.label "পরীক্ষামূলক নথি">
+<!ENTITY showEmbeddedCmd.label "এমবেড করা অবজেক্ট প্রদর্শন করা হবে">
+<!ENTITY dumpContentCmd.label "বিষয়বস্তুর ট্রি ডাম্প করুন">
+<!ENTITY runUnitTestsCmd.label "অংশ ভিত্তিক পরীক্ষা করুন">
+<!ENTITY dumpUndoStack.label "পূর্বাবস্থার স্ট্যাক ডাম্প করুন">
+<!ENTITY dumpRedoStack.label "পুনরাবৃত্তির স্ট্যাক ডাম্প করুন">
+<!ENTITY executeJSTransactionViaTxmgr.label "ট্রানসাকশান পরিচালন ব্যবস্থার মাধ্যমে JS ট্রানসাকশান সঞ্চালন করুন">
+<!ENTITY executeJSTransactionViaEditor.label "এডিটরের মাধ্যমে JS ট্রানসাকশান সঞ্চালন করুন">
+<!ENTITY startLogCmd.label "লগ আরম্ভ করা হবে">
+<!ENTITY stopLogCmd.label "লগ বন্ধ করা হবে">
+<!ENTITY runLogCmd.label "লগ চালানো হবে">
+<!ENTITY setFocusCmd.label "গুরুত্ব প্রদান করা হবে">
+
+<!-- Toolbar-only items -->
+<!ENTITY menuBar.tooltip "মেনু-বার">
+<!ENTITY compositionToolbar.tooltip "রচনা কর্মের টুল-বার">
+<!ENTITY formatToolbar.tooltip "বিন্যাসের টুল-বার">
+<!ENTITY newToolbarCmd.tooltip "নতুন রচনা কর্মের পৃষ্ঠা নির্মাণ করুন">
+<!ENTITY openToolbarCmd.label "খুলুন">
+<!ENTITY openToolbarCmd.tooltip "স্থানীয় ফাইল খুলুন">
+<!ENTITY saveToolbarCmd.tooltip "স্থানীয় অবস্থানে ফাইল সংরক্ষণ করুন">
+<!ENTITY publishToolbarCmd.tooltip "দূরবর্তী অবস্থানে ফাইল আপলোড করুন">
+<!ENTITY previewToolbarCmd.label "ব্রাউজ করুন">
+<!ENTITY previewToolbarCmd.tooltip "ন্যাভিগেটরের মধ্যে এই পৃষ্ঠা লোড করুন">
+<!ENTITY printToolbarCmd.label "প্রিন্ট করুন">
+<!ENTITY printToolbarCmd.tooltip "বর্তমান পৃষ্ঠা প্রিন্ট করুন">
+<!ENTITY findToolbarCmd.label "অনুসন্ধান">
+<!ENTITY findToolbarCmd.tooltip "পৃষ্ঠার মধ্যে টেক্সট অনুসন্ধান">
+<!ENTITY spellToolbarCmd.label "বানান">
+<!ENTITY spellToolbarCmd.tooltip "নির্বাচিত অংশ অথবা সমস্ত পৃষ্ঠাের বানান পরীক্ষা করুন">
+<!ENTITY imageToolbarCmd.label "ছবি">
+<!ENTITY imageToolbarCmd.tooltip "নতুন ছবি সন্নিবেশ করুন অথবা নির্বাচিত ছবির বৈশিষ্ট্য পরিবর্তন করুন">
+<!ENTITY hruleToolbarCmd.label "অনুভূমিক রেখা">
+<!ENTITY hruleToolbarCmd.tooltip "নতুন অনুভূমিক রেখা সন্নিবেশ করুন অথবা নির্বাচিত অনুভূমিক রেখার বৈশিষ্ট্য পরিবর্তন করুন">
+<!ENTITY tableToolbarCmd.label "টেবিল">
+<!ENTITY tableToolbarCmd.tooltip "নতুন টেবিল সন্নিবেশ করুন অথবা নির্বাচিত টেবিলের বৈশিষ্ট্য পরিবর্তন করুন">
+<!ENTITY linkToolbarCmd.label "লিঙ্ক">
+<!ENTITY linkToolbarCmd.tooltip "নতুন লিঙ্ক সন্নিবেশ করুন অথবা নির্বাচিত লিঙ্কের বৈশিষ্ট্য পরিবর্তন করুন">
+<!ENTITY anchorToolbarCmd.label "অ্যাঙ্কর">
+<!ENTITY anchorToolbarCmd.tooltip "নতুন নেমড অ্যাঙ্কর সন্নিবেশ করুন অথবা নির্বাচিত অ্যাঙ্করের বৈশিষ্ট্য পরিবর্তন করুন">
+<!ENTITY textColorCaption.label "হরফের রং">
+<!ENTITY TextColorButton.tooltip "হরফের রং নির্বাচন করুন">
+<!ENTITY BackgroundColorButton.tooltip "পটভূমির রং নির্বাচন করুন">
+<!ENTITY throbber.tooltip "&vendorShortName;'র হোম পেজ দেখুন">
+<!ENTITY HighlightColorButton.tooltip "হরফের ঔজ্জ্বল্যের রং নির্বাচন করুন">
+
+<!-- Editor toolbar -->
+<!ENTITY decreaseFontSizeToolbarCmd.tooltip "ফন্টের মাপ হ্রাস করুন">
+<!ENTITY increaseFontSizeToolbarCmd.tooltip "ফন্টের মাপ বৃদ্ধি করুন">
+<!ENTITY boldToolbarCmd.tooltip "গাঢ়">
+<!ENTITY italicToolbarCmd.tooltip "তেরছা">
+<!ENTITY underlineToolbarCmd.tooltip "নিম্নরেখাঙ্কিত">
+<!ENTITY bulletListToolbarCmd.tooltip "বুলেটযুক্ত তালিকা প্রয়োগ অথবা অপসারণ করুন">
+<!ENTITY numberListToolbarCmd.tooltip "সংখ্যাযুক্ত তালিকা প্রয়োগ অথবা অপসারণ করুন">
+<!ENTITY outdentToolbarCmd.tooltip "প্রান্তের দিকে টেক্সট স্থানান্তর (বাঁদিকে)">
+<!ENTITY indentToolbarCmd.tooltip "প্রান্ত থেকে দূরে টেক্সট স্থানান্তর (ডানদিকে)">
+<!ENTITY AlignPopupButton.tooltip "টেক্সটের দিশা নির্বাচন করুন">
+<!ENTITY InsertPopupButton.tooltip "লিঙ্ক, অ্যাঙ্কোর, ছবি, অনুভূমিক রেখা অথবা টেবিল সন্নিবেশ করুন">
+<!ENTITY alignLeftButton.tooltip "বাঁদিকের প্রান্ত অনুসারে টেক্সট স্থাপিত হবে">
+<!ENTITY alignCenterButton.tooltip "টেক্সট কেন্দ্রস্থিত হবে">
+<!ENTITY alignRightButton.tooltip "ডানদিকের প্রান্ত অনুসারে টেক্সট স্থাপিত হবে">
+<!ENTITY alignjustifyButton.tooltip "ডান ও বাঁদিকের প্রান্ত অনুসারে টেক্সট স্থাপিত হবে">
+
+<!-- Formatting toolbar not used, but may be in future -->
+<!ENTITY formatToolbar.boldChar "B">
+<!ENTITY formatToolbar.italicChar "I">
+<!ENTITY formatToolbar.underlineChar "U">
+
+<!-- Used with color pickers in Format toolbar and Format Menu -->
+<!ENTITY colorPicker.default.label "পাঠকের ব্যবহৃত ডিফল্ট রং">
+<!ENTITY colorPicker.default.accesskey "r">
+<!ENTITY colorLabel.label "রং:">
+<!ENTITY ok.label "ঠিক আছে">
+
+<!-- Display Mode toolbar and View menu items -->
+<!ENTITY NormalModeTab.label "স্বাভাবিক">
+<!ENTITY NormalMode.label "সম্পাদনার স্বাভাবিক মোড">
+<!ENTITY NormalMode.accesskey "n">
+<!ENTITY NormalMode.tooltip "টেবিলের প্রান্ত ও নেমড অ্যাঙ্কর প্রদর্শিত হবে">
+<!ENTITY AllTagsMode.label "HTML ট্যাগ">
+<!ENTITY AllTagsMode.accesskey "A">
+<!ENTITY AllTagsMode.tooltip "সমস্ত HTML ট্যাগের জন্য আইকন প্রদর্শিত হবে">
+
+<!ENTITY HTMLSourceMode.label "HTML উৎস">
+<!-- Toolbar has an image with "HTML" text, so don't include it in the string -->
+<!ENTITY SourceMode.label "উৎস">
+<!ENTITY HTMLSourceMode.accesskey "h">
+<!ENTITY HTMLSourceMode.tooltip "HTML উৎস সম্পাদনা করুন">
+<!ENTITY PreviewMode.label "পূর্বরূপ">
+<!ENTITY PreviewMode.accesskey "p">
+<!ENTITY PreviewMode.tooltip "Display as WYSIWYG (as in Navigator)">
+
+<!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
+     Use latin "ltr" if you want the <html> image to left of the 
+     'SourceMode.label' text defined above,
+     or use latin "rtl" if you want this image to the right of text
+     This is the value of the HTML 'dir' attribute
+-->
+<!ENTITY SourceTabDirection "ltr">
+
+<!-- Structure Toolbar Context Menu items -->
+<!ENTITY structSelect.label         "নির্বাচন করুন">
+<!ENTITY structSelect.accesskey     "s">
+<!ENTITY structRemoveTag.label      "ট্যাগ মুছে ফেলুন">
+<!ENTITY structRemoveTag.accesskey  "r">
+<!ENTITY structChangeTag.label      "ট্যাগ পরিবর্তন করুন">
+<!ENTITY structChangeTag.accesskey  "c">
+
+<!-- TOC manipulation -->
+<!ENTITY insertTOC.label          "সন্নিবেশ করুন">
+<!ENTITY insertTOC.accesskey      "i">
+<!ENTITY updateTOC.label          "উন্নীত করুন">
+<!ENTITY updateTOC.accesskey      "u">
+<!ENTITY removeTOC.label          "মুছে ফেলুন">
+<!ENTITY removeTOC.accesskey      "r">
+<!ENTITY tocMenu.label            "সূচিপত্র...">
+<!ENTITY tocMenu.accesskey        "b">
