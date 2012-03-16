@@ -1,25 +1,26 @@
 <!-- extracted from AccountManager.xul -->
 
-<!ENTITY accountManagerTitle.label "অ্যাকাউন্ট সংক্রান্ত বৈশিষ্ট্য">
+<!ENTITY accountManagerTitle.label "অ্যাকাউন্ট মানসমূহ">
 
-<!ENTITY addAccountButton.label "অ্যাকাউন্ট যোগ করুন...">
-<!ENTITY addAccountButton.accesskey "A">
-<!ENTITY setDefaultButton.label "ডিফল্ট রূপে নির্ধারণ করুন">
-<!ENTITY setDefaultButton.accesskey "f">
-<!ENTITY duplicateButton.label "প্রতিরূপ">
-<!ENTITY removeButton.label "অ্যাকউন্ট অপসারণ">
+<!ENTITY accountActionsButton.label "গণনা ক্রিয়া">
+<!ENTITY accountActionsButton.accesskey "A">
+<!ENTITY addMailAccountButton.label "মেইল অ্যাকাউন্ট যোগ করুন....">
+<!ENTITY addMailAccountButton.accesskey "A">
+<!ENTITY addOtherAccountButton.label "অন্যান্য অ্যাকাউন্ট যোগ করুন....">
+<!ENTITY addOtherAccountButton.accesskey "O">
+<!ENTITY setDefaultButton.label "ডিফল্ট হিসেবে নিযুক্ত করুন">
+<!ENTITY setDefaultButton.accesskey "D">
+<!ENTITY removeButton.label "অ্যাকাউন্ট মুছুন">
 <!ENTITY removeButton.accesskey "R">
-
-<!ENTITY nameCol.label "নাম">
-<!ENTITY duplicate.label "প্রতিরূপ">
 
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
      setting dialog, which specifies the width and height in em units of the dialog.
      Localizers ONLY can increase these widths if they are having difficulty getting
-     panel content to fit. 1em = the width of the letter 'm' in the selected font.
+     panel content to fit.
+     1ch = The width of the "0" (ZERO, U+0030) glyph for the current font.
+     1em = The height of the font.
      XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
      this window for en-US. -->
-<!ENTITY accountManager.size "প্রস্থ: 55em; উচ্চতা: 50em;"> 
-<!ENTITY macAccountManager.size "প্রস্থ: 60em; উচ্চতা: 50em;">
-<!ENTITY accountTree.width   "প্রস্থ: 17em;">
+<!ENTITY accountManager.size "বিস্তৃতি: ১০৫ch; উচ্চতা: ৫৫em">
+<!ENTITY accountTree.width "বিস্তৃতি: ৩১ch;">
