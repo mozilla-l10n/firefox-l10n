@@ -60,7 +60,7 @@
 <!ENTITY calendar.events.filter.today.label "Begivenheder i dag">
 <!ENTITY calendar.events.filter.future.label "Alle fremtidige begivenheder">
 <!ENTITY calendar.events.filter.current.label "Aktuel markeret dag">
-<!ENTITY calender.events.filter.currentview.label "Begivenheder i aktuel visning">
+<!ENTITY calendar.events.filter.currentview.label "Begivenheder i aktuel visning">
 <!ENTITY calendar.events.filter.next7Days.label "Begivenheder for de næste 7 dage">
 <!ENTITY calendar.events.filter.next14Days.label "Begivenheder for de næste 14 dage">
 <!ENTITY calendar.events.filter.next31Days.label "Begivenheder for de næste 31 dage">
@@ -250,6 +250,9 @@
 <!ENTITY calendar.context.postpone.1day.accesskey   "d">
 <!ENTITY calendar.context.postpone.1week.label      "1 uge">
 <!ENTITY calendar.context.postpone.1week.accesskey  "u">
+
+<!ENTITY calendar.copylink.label       "Kopier linkadresse">
+<!ENTITY calendar.copylink.accesskey   "K">
 
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
