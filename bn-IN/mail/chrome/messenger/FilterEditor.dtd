@@ -1,54 +1,42 @@
-<!ENTITY window.title "Filter Rules">
-<!ENTITY subject.label "subject">
-<!ENTITY sender.label "sender">
-<!ENTITY date.label "date">
-<!ENTITY anyText.label "any text">
-<!ENTITY keyword.label "keyword">
-<!ENTITY age.label "age in days">
-<!ENTITY to.label "to">
-
-<!-- LOCALIZATION NOTE (cc.label): DONT_TRANSLATE -->
-<!ENTITY cc.label "Cc">
-
-<!ENTITY status.label "status">
-<!ENTITY priority.label "priority">
-<!ENTITY body.label "body">
-<!ENTITY contains.label "contains">
-<!ENTITY nocontains.label "doesn't contain">
-<!ENTITY filterName.label "Filter name:">
+<!ENTITY window.title "ফিল্টার নিয়ম">
+<!ENTITY filterEditorDialog.dimensions "width: 100ch;">
+<!ENTITY filterName.label "ফিল্টারের নাম:">
 <!ENTITY filterName.accesskey "i">
 
-<!ENTITY junk.label "Junk">
-<!ENTITY notJunk.label "Not Junk">
+<!ENTITY junk.label "আবর্জনা">
+<!ENTITY notJunk.label "আবর্জনা নেই">
 
-<!ENTITY lowestPriorityCmd.label "Lowest">
-<!ENTITY lowPriorityCmd.label "Low">
-<!ENTITY normalPriorityCmd.label "Normal">
-<!ENTITY highPriorityCmd.label "High">
-<!ENTITY highestPriorityCmd.label "Highest">
+<!ENTITY lowestPriorityCmd.label "সর্বনিম্ন">
+<!ENTITY lowPriorityCmd.label "নিম্ন">
+<!ENTITY normalPriorityCmd.label "স্বাভাবিক">
+<!ENTITY highPriorityCmd.label "উঁচু">
+<!ENTITY highestPriorityCmd.label "উচ্চতম">
 
-<!ENTITY conditionDesc.label "For incoming messages that:">
-<!ENTITY filterActionDesc.label "Perform these actions:">
+<!ENTITY contextDesc.label "যখন প্রয়োগ ফিল্টার: ">
+<!ENTITY contextDesc.accesskey "w">
+<!ENTITY contextIncoming.label "মেইল পরীক্ষা করছে">
+<!ENTITY contextManual.label "নিজহাতে চালানো">
+<!ENTITY contextBoth.label "মেইল পরীক্ষা অথবানিজহাতে চালানো">
+<!ENTITY contextPostPlugin.label "মেইল পরীক্ষা করছে (শ্রেণীবিন্যাস পরে)">
+<!ENTITY contextPostPluginBoth.label "মেইল পরীক্ষা করছে (শ্রেণীবিন্যাস পরে) অথবা নিজহাতে চালানো">
+<!ENTITY filterActionDesc.label "এই কর্ম সঞ্চালন:">
 <!ENTITY filterActionDesc.accesskey "P">
 
-<!ENTITY newFolderButton.label "New Folder...">
-<!ENTITY newFolderButton.accesskey "N">
-
 <!-- New Style Filter Rule Actions -->
-<!ENTITY moveMessage.label "Move Message to">
-<!ENTITY copyMessage.label "Copy Message to">
-<!ENTITY forwardTo.label "Forward Message to">
-<!ENTITY replyWithTemplate.label "Reply with Template">
-<!ENTITY markMessageRead.label "Mark As Read">
-<!ENTITY markMessageStarred.label "Add Star">
-<!ENTITY labelMessage.label "Label Message As">
-<!ENTITY setPriority.label "Set Priority to">
-<!ENTITY addTag.label "Tag Message">
-<!ENTITY setJunkScore.label "Set Junk Status to">
-<!ENTITY deleteMessage.label "Delete Message">
-<!ENTITY deleteFromPOP.label "Delete From POP Server">
-<!ENTITY fetchFromPOP.label "Fetch From POP Server">
-<!ENTITY ignoreThread.label "Ignore Thread">
-<!ENTITY watchThread.label "Watch Thread">
-
-
+<!ENTITY moveMessage.label "বার্তা সরান">
+<!ENTITY copyMessage.label "কপি বার্তা">
+<!ENTITY forwardTo.label "বার্তা ফরোয়ার্ড করো" >
+<!ENTITY replyWithTemplate.label "টেমপ্লেটের সঙ্গে উত্তর">
+<!ENTITY markMessageRead.label "মার্ক হিসাবে পড়ুন">
+<!ENTITY markMessageUnread.label "অপঠিত হিসেবে চিহ্নিত">
+<!ENTITY markMessageStarred.label "তারকা যোগ করুন">
+<!ENTITY setPriority.label "অগ্রগণ্য নিযুক্ত করুন">
+<!ENTITY addTag.label "ট্যাগ বার্তা">
+<!ENTITY setJunkScore.label "আবর্জনা স্থিতি সেট">
+<!ENTITY deleteMessage.label "বার্তা মুছে ফেলুন">
+<!ENTITY deleteFromPOP.label "পপ সার্ভার থেকে মুছে ফেলুন">
+<!ENTITY fetchFromPOP.label "পপ সার্ভারের থেকে আনা">
+<!ENTITY ignoreThread.label "থ্রেড অগ্রাহ্য">
+<!ENTITY ignoreSubthread.label "সাবথ্রেড অগ্রাহ্য">
+<!ENTITY watchThread.label "থ্রেড দেখুন">
+<!ENTITY stopExecution.label "ফিল্টার এক্সেকিউশন বন্ধ">
