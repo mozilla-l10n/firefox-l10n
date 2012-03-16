@@ -14,6 +14,7 @@
 <!ENTITY quickMode.label "Afficher le résumé de l'article plutôt que de télécharger la page Web">
 <!ENTITY quickMode.accesskey "m">
 
+<!ENTITY locationValidate.label "Valider">
 <!ENTITY validateText.label "Vérifier la validité de l'adresse du flux.">
 
 <!ENTITY button.addFeed.label "Ajouter">
