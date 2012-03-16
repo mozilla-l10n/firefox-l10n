@@ -1,17 +1,20 @@
-<!ENTITY junkSettings.label "Junk Settings">
-<!ENTITY trainingWarning.label "If enabled, you must first train &brandShortName; to identify junk mail by using the Junk toolbar button to mark messages as junk or not. You need to identify both junk and non junk messages.">
-<!ENTITY level.label "Enable adaptive junk mail controls for this account">
+<!ENTITY junkSettings.label "অপ্রয়োজনীয় সেটিংস">
+<!ENTITY trainingWarning.label "যদি সক্রিয়, আপনার ট্রেন  প্রথম;অপ্রয়োজনীয় অথবা হিসেবে বার্তা চিহ্নিত করতে অপ্রয়োজনীয়  টুলবার বাটন ব্যবহার করার মধ্যেঅপ্রয়োজনীয় মেইল সনাক্ত করতে না। আপনি উভয় অপ্রয়োজনীয় এবং অপ্রয়োজনীয় নয়বার্তা সনাক্ত করতে প্রয়োজন বোধ করুন।.">
+<!ENTITY level.label "এই অ্যাকাউন্টের জন্য অভিযোজিত জাঙ্ক মেইল নিয়ন্ত্রণ সক্রিয়">
 <!ENTITY level.accesskey "E">
 
-<!ENTITY move.label "Move new junk messages to:">
-<!ENTITY junkFolderOn.label "&quot;Junk&quot; folder on:">
-<!ENTITY otherFolder.label "Other:">
-<!ENTITY purge1.label "Automatically delete junk mail older than">
+<!ENTITY move.label "নতুন অপ্রয়োজনীয় বার্তা সরান:">
+<!ENTITY move.accesskey "M">
+<!ENTITY junkFolderOn.label "&quot;অপ্রয়োজনীয় &quot; ফোল্ডারের উপর:">
+<!ENTITY junkFolderOn.accesskey "J">
+<!ENTITY otherFolder.label "অন্য:">
+<!ENTITY otherFolder.accesskey "O">
+<!ENTITY purge1.label "স্বয়ংক্রিয়ভাবে জাঙ্ক মেইল পুরোনো চেয়ে মুছে দিন">
 <!ENTITY purge1.accesskey "u">
-<!ENTITY purge2.label "days">
+<!ENTITY purge2.label "দিনগুলি">
 
-<!ENTITY whitelist.label "Do not mark mail as junk if the sender is in: ">
+<!ENTITY whitelist.label "আপনাদের জাঙ্ক মেইল চিহ্ন না যদি প্রেরক হয়: ">
 <!ENTITY whitelist.accesskey "D">
 
-<!ENTITY ispHeaders.label "Trust junk mail headers set by: ">
+<!ENTITY ispHeaders.label "ট্রাস্ট জাঙ্ক মেইল সেট দ্বারা হেডার: ">
 <!ENTITY ispHeaders.accesskey "T">

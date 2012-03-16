@@ -1,8 +1,6 @@
 <!ENTITY  newMessageCmd2.key              "N">
 <!ENTITY  newMessageCmd.key               "M">
-<!ENTITY  newMessageCmd.label             "Message">
+<!ENTITY  newMessageCmd.label             "বার্তা">
 <!ENTITY  newMessageCmd.accesskey         "m">
- 
-<!ENTITY  newCardCmd.label                "Address Book Card...">
-<!ENTITY  newCardCmd.accesskey            "c">
- 
+<!ENTITY  newContactCmd.label             "ঠিকানা বই যোগাযোগ... ">
+<!ENTITY  newContactCmd.accesskey         "C">

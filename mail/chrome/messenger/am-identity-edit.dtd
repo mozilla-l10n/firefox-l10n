@@ -1,6 +1,7 @@
-<!ENTITY identityTitle.label "Identity Settings">
-<!ENTITY identityListDesc.label "Configure the settings for this identity:">
+<!ENTITY identityDialog.style "width: 67ch;">
+<!ENTITY identityTitle.label "পরিচয় মানসমূহ">
+<!ENTITY identityListDesc.label "এই পরিচয়টির জন্য মানসমূহ কনফিগার করুন:">
 
-<!ENTITY settingsTab.label       "Settings">
-<!ENTITY copiesFoldersTab.label "Copies &amp; Folders">
-<!ENTITY addressingTab.label    "Composition &amp; Addressing">
+<!ENTITY settingsTab.label       "মানসমূহ">
+<!ENTITY copiesFoldersTab.label "কপিগুলি &amp; ফোল্ডার">
+<!ENTITY addressingTab.label    "রচন &amp; সম্ভাষণ">
