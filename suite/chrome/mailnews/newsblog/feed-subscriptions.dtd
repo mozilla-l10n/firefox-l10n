@@ -15,6 +15,7 @@
 <!ENTITY quickMode.label             "顯示文章摘要而非載入網頁">
 <!ENTITY quickMode.accesskey         "h">
 
+<!ENTITY locationValidate.label      "驗證">
 <!ENTITY validateText.label          "確認是否有效並回傳有效的網址。">
 
 <!ENTITY button.addFeed.label        "新增">
