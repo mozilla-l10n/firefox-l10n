@@ -24,4 +24,5 @@
 <!ENTITY abouthome.historyButton.label   "Historique">
 <!ENTITY abouthome.settingsButton.label  "Paramètres">
 <!ENTITY abouthome.addonsButton.label    "Modules">
+<!ENTITY abouthome.appsButton.label      "Marketplace">
 <!ENTITY abouthome.downloadsButton.label "Téléchargements">
