@@ -28,8 +28,6 @@
 <!ENTITY lightning.menu.eventtask.accesskey            "v">
 
 <!-- properties dialog, calendar creation wizard -->
-<!ENTITY lightning.calendarproperties.showevents.inagenda.label "Rodyti įvykius šiandienos polangyje">
-<!ENTITY lightning.calendarproperties.showtasks.label           "Rodyti darbus šiandienos polangyje ir darbų veiksenoje">
 <!ENTITY lightning.calendarproperties.email.label               "El. paštas:">
 
 <!-- iMIP Bar (meeting support) -->
