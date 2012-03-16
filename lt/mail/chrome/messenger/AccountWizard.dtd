@@ -32,22 +32,10 @@
 <!ENTITY emailLabel.label "El. pašto adresas:">
 <!ENTITY emailLabel.accesskey "E">
 
-<!-- Entities for Server page -->
+<!-- Entities for Incoming Server page -->
 
-<!ENTITY serverTitle.label "Informacija apie serverius">
+<!ENTITY incomingTitle.label "Informacija apie laiškų gavimo serverį">
 <!ENTITY incomingServerTypeDesc.label "Pasirinkite laiškų gavimo serverio tipą.">
-<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServerNameDesc.label "Surinkite laiškų gavimo serverio vardą (pvz., julius.ktl.mii.lt).">
-<!ENTITY incomingServerLabel.label "Laiškų gavimo serveris:">
-<!ENTITY incomingServerLabel.accesskey "s">
-<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Surinkite naujienų serverio (NNTP) vardą (pvz., news.osf.lt).">
-<!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY smtpServerDesc.label "Surinkite laiškų išsiuntimo serverio (SMTP) vardą (pvz., mail.takas.lt).">
-<!ENTITY smtpServerLabel.label "Laiškų išsiuntimo serveris:">
-<!ENTITY smtpServerLabel.accesskey "e">
-<!ENTITY newsServerLabel.label "Naujienų serveris:">
-<!ENTITY newsServerLabel.accesskey "N">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "I">
@@ -60,6 +48,29 @@
 <!ENTITY portNum.accesskey "r">
 <!ENTITY defaultPortLabel.label "Numatytasis:">
 <!ENTITY defaultPortValue.label "">
+<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
+<!ENTITY incomingServer.description "Įveskite laiškų gavimo serverio vardą (pvz., „mail.example.net“).">
+<!ENTITY incomingServer.label "Laiškų gavimo serveris:">
+<!ENTITY incomingServer.accesskey "s">
+<!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
+<!ENTITY incomingUsername.description "Įveskite laiškų gavimo abonento vardą, kurį Jums suteikė el. pašto paslaugos teikėjas (pvz., „vpavardenis“).">
+<!ENTITY incomingUsername.label "Abonento vardas:">
+<!ENTITY incomingUsername.accesskey "A">
+<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
+<!ENTITY newsServerNameDesc.label "Įveskite naujienų (NNTP) serverio vardą (pvz., „news.exampet.net“).">
+<!ENTITY newsServerLabel.label "Naujienų serveris:">
+<!ENTITY newsServerLabel.accesskey "s">
+
+<!-- Entities for Outgoing Server page -->
+
+<!ENTITY outgoingTitle.label "Informacija apie laiškų išsiuntimo serverį">
+<!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
+<!ENTITY outgoingServer.description "Įveskite laiškų išsiuntimo (SMTP) serverio vardą (pvz., „mail.example.net“).">
+<!ENTITY outgoingServer.label "Laiškų išsiuntimo serveris:">
+<!ENTITY outgoingServer.accesskey "s">
+<!ENTITY outgoingUsername.description "Įveskite laiškų išsiuntimo abonento vardą, kurį Jums suteikė el. pašto paslaugos teikėjas (paprastai šis vardas sutampa su laiškų gavimo abonento vardu).">
+<!ENTITY outgoingUsername.label "Laiškų išsiuntimo abonento vardas:">
+<!ENTITY outgoingUsername.accesskey "a">
 
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
@@ -69,32 +80,20 @@
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp1.prefix "Bus panaudotas jau užregistruoto abonento laiškų išsiuntimo (SMTP) serveris (">
-<!ENTITY haveSmtp1.suffix3 ").">
-
-<!-- Entities for Login page -->
-
-<!ENTITY loginTitle.label "Abonento vardas">
-<!ENTITY usernameDesc.label "Surinkite laiškų gavimo abonento vardą, kurį Jums suteikė el. pašto paslaugų teikėjas ">
-<!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY usernameExample.label "(pvz., „vardas“).">
-<!ENTITY usernameLabel.label "Laiškų gavimo abonento vardas:">
-<!ENTITY usernameLabel.accesskey "L">
-<!ENTITY usernameSmtpDesc.label "Surinkite laiškų išsiuntimo abonento vardą, kurį Jums suteikė el. pašto paslaugų teikėjas (paprastai šis vardas sutampa su laiškų gavimo abonento vardu).">
-<!ENTITY usernameSmtpLabel.label "Laiškų išsiuntimo abonento vardas:">
-<!ENTITY usernameSmtpLabel.accesskey "a">
+<!ENTITY haveSmtp1.prefix "Bus panaudotas programoje jau užregistruoto abonento laiškų išsiuntimo (SMTP) serveris – „">
+<!ENTITY haveSmtp1.suffix3 "“.">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp2.prefix "Bus panaudotas programoje užregistruoto abonento laiškų iššsiuntimo (SMTP) abonento vardas (">
-<!ENTITY haveSmtp2.suffix3 ").">
+<!ENTITY haveSmtp2.prefix "Bus panaudotas programoje jau užregistruoto abonento laiškų iššsiuntimo (SMTP) abonento vardas – „">
+<!ENTITY haveSmtp2.suffix3 "“.">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
-<!ENTITY haveSmtp3.prefix "Laiškų išsiuntimo serverio vardas (">
-<!ENTITY haveSmtp3.suffix3 ") yra toks pat, kaip ir laiškų gavimo serverio vardas, todėl prisijungimui prie laiškų išsiuntimo serverio bus naudojamas laiškų gavimo abonento vardas.">
+<!ENTITY haveSmtp3.prefix "Nurodytas laiškų išsiuntimo serverio vardas – „">
+<!ENTITY haveSmtp3.suffix3 "“ – yra toks pat, kaip ir laiškų gavimo serverio vardas, todėl prisijungimui prie laiškų išsiuntimo serverio bus naudojamas laiškų gavimo abonento vardas.">
 
 <!-- Entities for Account name page -->
 

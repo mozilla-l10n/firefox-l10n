@@ -14,11 +14,13 @@
 <!ENTITY newContact.accesskey "A">
 <!ENTITY attachMenu.label "Pridėti">
 <!ENTITY attachMenu.accesskey "d">
-<!ENTITY attachFileCmd.label "failą (failus)…">
+<!ENTITY attachFileCmd.label "failų…">
 <!ENTITY attachFileCmd.accesskey "f">
 <!ENTITY attachFileCmd.key "A">
+<!ENTITY attachCloudCmd.label "saitų į failus debesyje">
+<!ENTITY attachCloudCmd.accesskey "s">
 <!ENTITY attachPageCmd.label "tinklalapį…">
-<!ENTITY attachPageCmd.accesskey "T">
+<!ENTITY attachPageCmd.accesskey "t">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "vizitinę kortelę">
 <!ENTITY attachVCardCmd.accesskey "k">
@@ -268,10 +270,20 @@
 <!ENTITY renameAttachment.accesskey "P">
 <!ENTITY selectAll.label "Pažymėti viską">
 <!ENTITY selectAll.accesskey "v">
-<!ENTITY attachFile.label "Pridėti failą (failus)…">
+<!ENTITY attachFile.label "Pridėti failų…">
 <!ENTITY attachFile.accesskey "f">
+<!--
+<!ENTITY attachCloud.label "Failo saitą…">
+<!ENTITY attachCloud.accesskey "s">
+-->
+<!ENTITY convertCloud.label "Konvertuoti į…">
+<!ENTITY convertCloud.accesskey "K">
+<!ENTITY cancelUpload.label "Nutraukti įkėlimą">
+<!ENTITY cancelUpload.accesskey "N">
+<!ENTITY convertRegularAttachment.label "Paprastą priedą">
+<!ENTITY convertRegularAttachment.accesskey "P">
 <!ENTITY attachPage.label "Pridėti tinklalapį…">
-<!ENTITY attachPage.accesskey "n">
+<!ENTITY attachPage.accesskey "t">
 
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Daugiau žodynų…">

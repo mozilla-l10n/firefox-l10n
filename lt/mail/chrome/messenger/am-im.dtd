@@ -1,0 +1,12 @@
+<!ENTITY accountWindow.title           "Paskyros savybės">
+<!ENTITY accountWindow.width           "300">
+<!ENTITY account.general               "Bendrosios">
+<!ENTITY account.advanced              "Kitkas">
+<!ENTITY account.name                  "Abonento vardas:">
+<!ENTITY account.password              "Slaptažodis:">
+<!ENTITY account.alias                 "Kitavardis:">
+<!ENTITY account.newMailNotification   "Pranešti apie gautus el. laiškus">
+<!ENTITY account.autojoin              "Automatiškai įeiti į kambarius:">
+<!ENTITY account.proxySettings.caption "Įgaliotojo serverio sąranka:">
+<!ENTITY account.proxySettings.change.label     "Keisti…">
+<!ENTITY account.proxySettings.change.accessKey "K">

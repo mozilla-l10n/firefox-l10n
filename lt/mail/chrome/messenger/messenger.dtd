@@ -26,6 +26,8 @@
 <!ENTITY newCreateEmailAccountCmd.accesskey "e">
 <!ENTITY newExistingEmailAccountCmd.label "Registruoti turimą el. pašto paskyrą…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "R">
+<!ENTITY newIMAccountCmd.label "Pokalbių paskyra…">
+<!ENTITY newIMAccountCmd.accesskey "o">
 <!ENTITY openMessageFileCmd.label "Atverti įrašytą laišką…">
 <!ENTITY openMessageFileCmd.accesskey "A">
 <!ENTITY openAttachmentCmd.label "Priedai">
@@ -328,6 +330,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.label "Atgal">
 <!ENTITY goBackCmd.accesskey "g">
 <!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goChatCmd.label "Į pokalbius">
+<!ENTITY goChatCmd.accesskey "k">
+<!ENTITY goChatCmd.commandKey "C">
 <!ENTITY prevStarredMsgCmd.label "žvaigždute pažymėtą laišką">
 <!ENTITY prevStarredMsgCmd.accesskey "Ž">
 <!ENTITY folderMenu.label "Į aplanką">
@@ -466,6 +471,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addons.accesskey "d">
 <!ENTITY activitymanager.label "Veiklų tvarkytuvė">
 <!ENTITY activitymanager.accesskey "V">
+<!ENTITY imAccountsStatus.label "Pokalbių būsena">
+<!ENTITY imAccountsStatus.accesskey "k">
+<!ENTITY imStatus.available          "Esu">
+<!ENTITY imStatus.unavailable        "Užsiėmęs (-usi)">
+<!ENTITY imStatus.offline            "Neprisijungęs (-usi)">
+<!ENTITY imStatus.showAccounts       "Rodyti paskyras…">
 <!ENTITY savedFiles.label "Įrašyti failai">
 <!ENTITY savedFiles.accesskey "l">
 <!ENTITY savedFiles.key "j">
@@ -499,7 +510,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fileButton.label "Perkelti">
 <!ENTITY archiveButton.label "Archyvuoti">
 <!ENTITY nextButton.label "Tolesnis">
+<!ENTITY nextButtonToolbarItem.label "Tolesnis neskaitytas">
+<!ENTITY nextMsgButton.label "Tolesnis">
 <!ENTITY previousButton.label "Ankstesnis">
+<!ENTITY previousButtonToolbarItem.label "Ankstesnis neskaitytas">
+<!ENTITY previousMsgButton.label "Ankstesnis">
 <!ENTITY backButton1.label "Atgal">
 <!ENTITY goForwardButton1.label "Pirmyn">
 <!ENTITY deleteItem.title "Pašalinti">
@@ -513,6 +528,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.label "Brukalas">
 <!ENTITY notJunkButton.label "Ne brukalas">
 <!ENTITY addressBookButton.label "Adresai">
+<!ENTITY chatButton.label "Pokalbiai">
 <!ENTITY glodaSearch.title "Globali paieška">
 <!ENTITY searchItem.title "Sparčioji paieška">
 <!ENTITY mailViewsToolbarItem.title "Laiškų rodymas">
@@ -533,7 +549,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fileButton.tooltip "Pažymėtą laišką perkelti į kitą aplanką">
 <!ENTITY archiveButton.tooltip "Perkelti pažymėtus laiškus į archyvą">
 <!ENTITY nextButton.tooltip "Pereiti prie tolesnio neskaityto laiško">
+<!ENTITY nextMsgButton.tooltip "Pereiti prie tolesnio laiško">
 <!ENTITY previousButton.tooltip "Pereiti prie ankstesnio neskaityto laiško">
+<!ENTITY previousMsgButton.tooltip "Pereiti prie ankstesnio laiško">
 <!ENTITY goForwardButton.tooltip "Eiti vienu laišku pirmyn">
 <!ENTITY goBackButton.tooltip "Eiti vienu laišku atgal">
 <!ENTITY deleteButton.tooltip "Pašalinti pažymėtus laiškus arba aplanką">
@@ -544,6 +562,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.tooltip "Pažymėti išrinktus laiškus kaip brukalą">
 <!ENTITY notJunkButton.tooltip "Pažymėti, kad išrinkti laiškai nėra brukalas">
 <!ENTITY addressBookButton.tooltip "Eiti į adresų knygą">
+<!ENTITY chatButton.tooltip "Atverti pokalbių kortelę">
 <!ENTITY tagButton.tooltip "Priskirti gaires pažymėtiems laiškams">
 <!ENTITY compactButton.tooltip "Sunaikinti pašalintus laiškus iš pažymėto aplanko">
 
@@ -772,28 +791,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      not changed 
      -->
 <!ENTITY quickSearchCmd.key "k">
-<!-- LOCALIZATION NOTE (searchAllMessages.label.base):
+<!-- LOCALIZATION NOTE (search.label.base):
      This is the base of the empty text for the global search box.  We replace
-     #1 with the contents of the appropriate
-     searchAllMessages.keyLabel.* value for the platform.
+     #1 with the contents of the appropriate search.keyLabel.* value for the
+     platform.
      The goal is to convey to the user that typing in the box will allow them
      to search for messages globally and that there is a hotkey they can press
      to get to the box faster.  If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
      -->
-<!ENTITY searchAllMessages.label.base "Ieškoti visuose laiškuose… #1">
-<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.nonmac):
+<!ENTITY search.label.base "Ieškoti… #1">
+<!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key).  We use the key defined in
      the quickSearchCmd.key entity defined above, the letter should match it.
      -->
-<!ENTITY searchAllMessages.keyLabel2.nonmac "&lt;Vald+K&gt;">
-<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.mac):
+<!ENTITY search.keyLabel.nonmac "&lt;Vald+K&gt;">
+<!-- LOCALIZATION NOTE (search.keyLabel.mac):
      The description of the key-binding to get into the global search box on mac
      systems.  We use the key defined in the quickSearchCmd.key entity defined
      above, the letter should match it.
      -->
-<!ENTITY searchAllMessages.keyLabel2.mac "&lt;&#x2318;K&gt;">
+<!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Įtraukti į adresų knygą…">

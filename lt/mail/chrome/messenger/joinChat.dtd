@@ -1,0 +1,6 @@
+<!ENTITY joinChatWindow.title           "Ėjimas į kambarį">
+<!ENTITY name.label                     "Kambarys">
+<!ENTITY optional.label                 "(nebūtinas)">
+<!ENTITY account.label                  "Paskyra">
+<!ENTITY autojoin.label                 "Automatiškai įeiti į šį kambarį">
+<!ENTITY autojoin.accesskey             "A">
