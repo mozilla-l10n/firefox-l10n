@@ -17,6 +17,8 @@
 <!ENTITY attachFileCmd.label     "Plik…">
 <!ENTITY attachFileCmd.accesskey "l">
 <!ENTITY attachFileCmd.key       "A">
+<!ENTITY attachCloudCmd.label "Filelink">
+<!ENTITY attachCloudCmd.accesskey "F">
 <!ENTITY attachPageCmd.label     "Stronę WWW…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!ENTITY attachVCardCmd.label        "Wizytówkę">
