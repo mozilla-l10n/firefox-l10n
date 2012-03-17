@@ -23,6 +23,10 @@
 <!ENTITY autoCompleteMatchWords                "Vain sanojen rajoilta">
 <!ENTITY autoCompleteMatchStart                "Vain sijainnin tai otsikon alusta">
 
+<!ENTITY formatting.label                      "Muotoilu">
+<!ENTITY domainFormatting.label                "Korosta verkkosivujen osoitteiden kaksi viimeistä osaa">
+<!ENTITY domainFormatting.accesskey            "s">
+
 <!ENTITY searchEngine.label                    "Verkkohaku">
 <!ENTITY showSearchEngine.label                "Näytä oletushakukone">
 <!ENTITY showSearchEngine.accesskey            "ä">

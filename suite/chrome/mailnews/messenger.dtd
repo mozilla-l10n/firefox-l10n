@@ -152,6 +152,8 @@
 <!ENTITY showMessengerToolbarCmd.accesskey "P">
 <!ENTITY showSearchToolbarCmd.label "Hakupalkki">
 <!ENTITY showSearchToolbarCmd.accesskey "H">
+<!ENTITY showTabsToolbarCmd.label "Välilehtipalkki">
+<!ENTITY showTabsToolbarCmd.accesskey "V">
 
 <!ENTITY messagePaneLayoutStyle.label "Näkymä">
 <!ENTITY messagePaneLayoutStyle.accesskey "N">
