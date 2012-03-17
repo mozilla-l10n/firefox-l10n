@@ -1,18 +1,31 @@
 <!-- Subscription Dialog -->
-<!ENTITY feedSubscriptions.label "Syötetilaukset">
-<!ENTITY subscriptionDesc.label "Huom. Syötteen kansion muuttaminen tai poistaminen ei vaikuta ennen sitä ladattuihin artikkeleihin.">
-<!ENTITY feedTitle.label "Otsikko:">
-<!ENTITY location.label  "Osoite:">
+<!ENTITY feedSubscriptions.label     "Syötetilaukset">
+<!ENTITY subscriptionDesc.label      "Huom. Syötteen kansion muuttaminen tai poistaminen ei vaikuta ennen sitä ladattuihin artikkeleihin.">
 
-<!ENTITY button.addFeed.label       "Lisää">
-<!ENTITY button.addFeed.accesskey   "L">
-<!ENTITY button.editFeed.label      "Muokkaa">
-<!ENTITY button.editFeed.accesskey  "M">
-<!ENTITY button.removeFeed.label "Poista">
-<!ENTITY button.removeFeed.accesskey   "P">
-<!ENTITY button.importOPML.label "Tuo">
-<!ENTITY button.importOPML.accesskey   "T">
-<!ENTITY button.exportOPML.label "Vie">
-<!ENTITY button.exportOPML.accesskey   "V">
+<!ENTITY feedTitle.label             "Otsikko:">
+<!ENTITY feedTitle.accesskey         "O">
 
-<!ENTITY cmd.close.commandKey             "w">
+<!ENTITY feedLocation.label          "Syötteen osoite:">
+<!ENTITY feedLocation.accesskey      "S">
+<!ENTITY feedLocation.placeholder    "Anna syötteen osoite lisätäksesi sen">
+
+<!ENTITY feedFolder.label            "Tallenna artikkelit kansioon:">
+<!ENTITY feedFolder.accesskey        "T">
+
+<!ENTITY quickMode.label             "Näytä artikkelin yhteenveto verkkosivun lataamisen asemesta">
+<!ENTITY quickMode.accesskey         "n">
+
+<!ENTITY validateText.label          "Tarkista voimassaolo ja hae voimassaoleva osoite.">
+
+<!ENTITY button.addFeed.label        "Lisää">
+<!ENTITY button.addFeed.accesskey    "L">
+<!ENTITY button.editFeed.label       "Päivitä">
+<!ENTITY button.editFeed.accesskey   "P">
+<!ENTITY button.removeFeed.label     "Poista">
+<!ENTITY button.removeFeed.accesskey "i">
+<!ENTITY button.importOPML.label     "Tuo">
+<!ENTITY button.importOPML.accesskey "T">
+<!ENTITY button.exportOPML.label     "Vie">
+<!ENTITY button.exportOPML.accesskey "V">
+
+<!ENTITY cmd.close.commandKey        "w">
