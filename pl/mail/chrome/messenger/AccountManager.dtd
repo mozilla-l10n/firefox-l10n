@@ -4,6 +4,8 @@
 <!ENTITY accountActionsButton.accesskey  "O">
 <!ENTITY addMailAccountButton.label      "Dodaj konto pocztowe…">
 <!ENTITY addMailAccountButton.accesskey  "D">
+<!ENTITY addIMAccountButton.label "Dodaj konto czatu…">
+<!ENTITY addIMAccountButton.accesskey "c">
 <!ENTITY addOtherAccountButton.label     "Dodaj inne konto…">
 <!ENTITY addOtherAccountButton.accesskey "k">
 

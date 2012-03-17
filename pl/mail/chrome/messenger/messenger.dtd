@@ -23,6 +23,8 @@
 <!ENTITY newCreateEmailAccountCmd.accesskey   "N">
 <!ENTITY newExistingEmailAccountCmd.label     "Konfigurację konta pocztowego…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "K">
+<!ENTITY newIMAccountCmd.label "Konfigurację konta czat…">
+<!ENTITY newIMAccountCmd.accesskey "c">
 <!ENTITY newOtherAccountsCmd.label            "Konfigurację innego konta…">
 <!ENTITY newOtherAccountsCmd.accesskey        "o">
 
@@ -321,6 +323,9 @@
 <!ENTITY goBackCmd.label             "Wstecz">
 <!ENTITY goBackCmd.accesskey         "W">
 <!ENTITY goBackCmd.commandKey        "[">
+<!ENTITY goChatCmd.label "Czat">
+<!ENTITY goChatCmd.accesskey "C">
+<!ENTITY goChatCmd.commandKey "C">
 <!ENTITY prevStarredMsgCmd.label     "Wiadomość oznaczona gwiazdką">
 <!ENTITY prevStarredMsgCmd.accesskey "O">
 <!ENTITY folderMenu.label            "Folder">
@@ -457,6 +462,12 @@
 <!ENTITY addons.accesskey                  "D">
 <!ENTITY activitymanager.label             "Monitor aktywności">
 <!ENTITY activitymanager.accesskey         "M">
+<!ENTITY imAccountsStatus.label "Status czatu">
+<!ENTITY imAccountsStatus.accesskey "c">
+<!ENTITY imStatus.available "Dostępny">
+<!ENTITY imStatus.unavailable "Niedostępny">
+<!ENTITY imStatus.offline "Poza siecią">
+<!ENTITY imStatus.showAccounts "Wyświetl konta…">
 <!ENTITY savedFiles.label                  "Zapisane pliki">
 <!ENTITY savedFiles.accesskey              "Z">
 <!ENTITY savedFiles.key                    "j">
@@ -508,6 +519,7 @@
 <!ENTITY junkButton.label       "Niechciana">
 <!ENTITY notJunkButton.label    "Pożądana">
 <!ENTITY addressBookButton.label         "Adresy">
+<!ENTITY chatButton.label "Czat">
 <!ENTITY glodaSearch.title               "Wyszukiwanie">
 <!ENTITY searchItem.title                "Szybkie wyszukiwanie">
 <!ENTITY mailViewsToolbarItem.title      "Widoki poczty">
@@ -541,6 +553,7 @@
 <!ENTITY junkButton.tooltip        "Oznacz wybraną wiadomość jako niechcianą">
 <!ENTITY notJunkButton.tooltip     "Oznacz wybraną wiadomość jako pożądaną">
 <!ENTITY addressBookButton.tooltip "Wyświetl Książkę adresową">
+<!ENTITY chatButton.tooltip "Wyświetl kartę czatów">
 <!ENTITY tagButton.tooltip         "Oznacz wiadomości etykietą">
 <!ENTITY compactButton.tooltip     "Porządkuj folder, aby wyczyścić pozostałości po usuniętych wiadomościach">
 

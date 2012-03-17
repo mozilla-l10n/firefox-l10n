@@ -1,0 +1,26 @@
+<!ENTITY accountsWindow.title "Status komunikacji błyskawicznej">
+<!ENTITY accountsWindow.style "width: 28em; height: 19em;">
+
+<!ENTITY accountManager.newAccount.label "Nowe konto">
+<!ENTITY accountManager.newAccount.accesskey "N">
+<!ENTITY accountManager.close.label "Zamknij">
+<!ENTITY accountManager.close.accesskey "Z">
+<!ENTITY accountManager.close.commandkey "a">
+<!ENTITY accountManager.noAccount.title "Brak skonfigurowanych kont">
+<!ENTITY accountManager.noAccount.description "Skorzystaj z przycisku „&accountManager.newAccount.label;”, aby program &brandShortName; pomógł przeprowadzić Ciebie przez proces konfiguracji konta.">
+<!ENTITY account.autoSignOn.label "Loguj przy starcie">
+<!ENTITY account.autoSignOn.accesskey "L">
+<!ENTITY account.connect.label "Połącz">
+<!ENTITY account.connect.accesskey "P">
+<!ENTITY account.disconnect.label "Rozłącz">
+<!ENTITY account.disconnect.accesskey "R">
+<!ENTITY account.edit.label "Właściwości">
+<!ENTITY account.edit.accesskey "W">
+<!ENTITY account.moveup.label "Przesuń wyżej">
+<!ENTITY account.movedown.label "Przesuń niżej">
+<!ENTITY account.cancelReconnection.label "Anuluj ponowne łączenie">
+<!ENTITY account.cancelReconnection.accesskey "A">
+
+<!ENTITY account.connecting "Łączenie…">
+<!ENTITY account.disconnecting "Rozłączanie…">
+<!ENTITY account.disconnected "Nie połączono">

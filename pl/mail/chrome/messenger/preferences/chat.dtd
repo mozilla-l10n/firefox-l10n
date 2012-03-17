@@ -1,0 +1,14 @@
+<!ENTITY startupAction.label "Po uruchomieniu programu &brandShortName;:">
+<!ENTITY startupAction.accesskey "P">
+<!ENTITY startupOffline.label "nie łącz z kontami czat">
+<!ENTITY startupConnectAuto.label "łącz z kontami czat automatycznie">
+
+<!ENTITY reportIdleAfter.label "Wyświetlaj informacje o mojej niekatywności po">
+<!ENTITY reportIdleAfter.accesskey "W">
+<!ENTITY idleTime "minutach">
+
+<!ENTITY andSetStatusToAway.label "i ustawiaj status na „Zaraz wracam” z opisem:">
+<!ENTITY andSetStatusToAway.accesskey "u">
+
+<!ENTITY sendTyping.label "Wysyłaj powiadomienia o pisaniu w trakcie rozmów">
+<!ENTITY sendTyping.accesskey "t">

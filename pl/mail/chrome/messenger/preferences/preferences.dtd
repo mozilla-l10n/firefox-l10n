@@ -8,6 +8,7 @@
 <!ENTITY paneGeneral.title     "Ogólne">
 <!ENTITY paneDisplay.title     "Wyświetlanie">
 <!ENTITY paneComposition.title "Tworzenie">
+<!ENTITY paneChat.title "Czat">
 <!ENTITY paneAttachments.title "Załączniki">
 <!ENTITY paneSecurity.title    "Bezpieczeństwo">
 <!ENTITY paneAdvanced.title    "Zaawansowane">
