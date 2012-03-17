@@ -24,11 +24,16 @@
 
 <!ENTITY choose_file "Choose File">
 
+
+<!ENTITY remote_tabs "ਟੈਬਾਂ ਸਿੰਕ ਕਰੋ">
+<!ENTITY remote_tabs_show_all "ਸਭ ਟੈਬਾਂ ਵੇਖਾਓ">
+
 <!ENTITY awesomebar_default_text "ਖੋਜ ਕਰੋ ਜਾਂ ਐਡਰੈਸ ਦਿਓ">
 
 <!ENTITY bookmark "ਬੁੱਕਮਾਰਕ">
 <!ENTITY bookmark_added "ਬੁੱਕਮਾਰਕ ਜੋੜਿਆ ਗਿਆ">
 <!ENTITY bookmark_removed "ਬੁੱਕਮਾਰਕ ਹਟਾਇਆ ਗਿਆ">
+<!ENTITY bookmark_updated "ਬੁੱਕਮਾਰਕ ਅੱਪਡੇਟ ਕੀਤਾ ਗਿਆ">
 
 <!ENTITY history_today_section "ਅੱਜ">
 <!ENTITY history_yesterday_section "ਕੱਲ੍ਹ">
@@ -62,7 +67,7 @@
 <!ENTITY pref_plugins_enabled "ਚਾਲੂ ਹਨ">
 <!ENTITY pref_plugins_tap_to_play "ਚਲਾਉਣ ਲਈ ਛੂਹੋ">
 <!ENTITY pref_plugins_disabled "ਬੰਦ ਹਨ">
-<!ENTITY pref_text_size "ਟੈਕਸਟ ਆਖਾਰ">
+<!ENTITY pref_text_size "ਟੈਕਸਟ ਆਕਾਰ">
 <!ENTITY pref_font_size_tiny "ਨਿੰਮਾ">
 <!ENTITY pref_font_size_small "ਛੋਟਾ">
 <!ENTITY pref_font_size_medium "ਮੱਧਮ">
@@ -78,12 +83,19 @@
 <!ENTITY char_encoding "ਅੱਖਰ ਇੰਕੋਡਿੰਗ">
 
 <!ENTITY share "ਸਾਂਝਾ ਕਰੋ">
+<!ENTITY share_title "ਸਾਂਝਾ ਕਰੋ ਵਜੋਂ">
 <!ENTITY save_as_pdf "PDF ਵਜੋਂ ਸੰਭਾਲੋ">
 
 <!ENTITY contextmenu_open_new_tab "ਨਵੀਂ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ">
 <!ENTITY contextmenu_remove_bookmark "ਹਟਾਓ">
 <!ENTITY contextmenu_add_to_launcher "Home Screen ਵਿੱਚ ਜੋੜੋ">
 <!ENTITY contextmenu_share "ਸਾਂਝਾ ਕਰੋ">
+<!ENTITY contextmenu_edit_bookmark "ਸੋਧ">
+
+<!ENTITY bookmark_edit_title "ਬੁੱਕਮਾਰਕ ਸੋਧ">
+<!ENTITY bookmark_edit_name "ਨਾਂ">
+<!ENTITY bookmark_edit_location "ਟਿਕਾਣਾ">
+<!ENTITY bookmark_edit_keyword "ਸ਼ਬਦ">
 
 <!ENTITY site_settings_title        "ਸਾਈਟ ਸੈਟਿੰਗ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY site_settings_cancel       "ਰੱਦ ਕਰੋ">
