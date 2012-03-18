@@ -9,6 +9,7 @@
 <!ENTITY aboutSupport.appBasicsName "Nombre">
 <!ENTITY aboutSupport.appBasicsVersion "Versión">
 <!ENTITY aboutSupport.appBasicsProfileDir "Directorio de perfil ">
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Carpeta del perfil">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Plugins activados">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configuración de compilación">
 <!ENTITY aboutSupport.appBasicsUserAgent "Agente de usuario">
@@ -21,6 +22,9 @@
 <!ENTITY aboutSupport.modifiedPrefsName "Nombre">
 <!ENTITY aboutSupport.modifiedPrefsValue "Valor">
 <!ENTITY aboutSupport.graphicsTitle "Gráficos">
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "Recogida de basura incremental">
+<!ENTITY aboutSupport.libraryVersionsTitle "Versiones de bibliotecas">
 <!ENTITY aboutSupport.installationHistoryTitle "Historial de instalaciones">
 <!ENTITY aboutSupport.updateHistoryTitle "Historial de actualizaciones">
 <!ENTITY aboutSupport.copyToClipboard.label "Copiar todo al portapapeles">
