@@ -10,8 +10,7 @@
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "Na strona zamikô w se techniczną  wëdowiédzô, chtërna mòże sã przëdac czej chcesz
   rozwiązac problemë. Żlë szëkôsz òdpowiescë dlô tipicznëch pëtaniów
-  ò &brandShortName;, Sprawdzë naszą <a id='supportLink'> stronë wspiarcô</a>.
-       ">
+  ò &brandShortName;, Sprawdzë naszą <a id='supportLink'> stronë wspiarcô</a>. ">
 
 <!ENTITY aboutSupport.extensionsTitle "Roszerzenia">
 <!ENTITY aboutSupport.extensionName "Miono">
@@ -32,12 +31,17 @@
 <!ENTITY aboutSupport.showDir.label "Òtemkłi katalog"> 
 <!ENTITY aboutSupport.showWin.label "Wëskrzëni katalog"> 
 
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "Pòstãpowi GC">
+<!ENTITY aboutSupport.libraryVersionsTitle "Wersje biblioteków">
+
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.show.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
 <!ENTITY aboutSupport.showMac.label "Wëskrzëni w Finderze">
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Zmòdifikòwano wôżné preferencje"> 
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Katalog profilu">
 
 
 <!ENTITY aboutSupport.modifiedPrefsName "Miono">

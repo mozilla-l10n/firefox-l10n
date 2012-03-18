@@ -71,3 +71,6 @@
 
 <!ENTITY changeAndRestartButton.label "Zrobi zmianë ë zrëszë znowa">
 <!ENTITY continueButton.label         "Robi dali w awariowim tribie">
+
+<!ENTITY autoSafeModeIntro.label      "&brandShortName; sã niespòdzajno wëłączył prze zreszanim">
+<!ENTITY autoSafeModeDescription.label "Baro przeprôszômë za skweres. &brandShortName; mùszôł weńc w trib awariowi, w chtërnym timczasowò sã wëłączoné ùstôwë, mòtiwë, ë rozszerzenia.">

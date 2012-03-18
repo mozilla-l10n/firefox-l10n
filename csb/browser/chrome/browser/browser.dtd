@@ -42,10 +42,10 @@ can reach it easily. -->
 <!ENTITY  pinAppTab.accesskey                "n">
 <!ENTITY  unpinAppTab.label                  "Òdhôkni kôrtã">
 <!ENTITY  unpinAppTab.accesskey              "n">
-<!ENTITY  moveToGroup.label                  "Przëniesë do grëpë">
+<!ENTITY  moveToGroup.label                  "Przeniesë do grëpë">
 <!ENTITY  moveToGroup.accesskey              "e">
 <!ENTITY  moveToNewGroup.label               "Nowô grëpa">
-<!ENTITY  moveToNewWindow.label              "Przëniesë do nowégò òkna">
+<!ENTITY  moveToNewWindow.label              "Przeniesë do nowégò òkna">
 <!ENTITY  moveToNewWindow.accesskey          "o">
 <!ENTITY  bookmarkAllTabs.label              "Dodôj załóżczi dlô wszëtczich kôrtów…">
 <!ENTITY  bookmarkAllTabs.accesskey          "k">
@@ -224,10 +224,16 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectPanelTitle.label      "HTML">
-<!ENTITY inspectButton.label          "Sprawdzë">
-<!ENTITY inspectButton.accesskey      "ô">
 <!ENTITY inspectCloseButton.tooltiptext "Zamkni Jinspektora">
+
+<!ENTITY inspectorHTMLCopyInner.label       "Kòpérëjë bënowi HTML">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "b">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "Kòpérëjë bùtnowi HTML">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "K">
+<!ENTITY inspectorHTMLDelete.label          "Rëmôj wãzeł">
+<!ENTITY inspectorHTMLDelete.accesskey      "R">
+
 
 <!ENTITY inspect3DViewButton.label "3D View"> 
 <!ENTITY inspect3DViewButton.accesskey "W"> 
@@ -237,7 +243,7 @@ can reach it easily. -->
 
 <!-- LOCALIZATION NOTE (styleeditor.label): This menu item label appears
   -  in the Tools menu. -->
-<!ENTITY styleeditor.label            "Editora Sztélu">
+<!ENTITY styleeditor.label            "Editor Sztélu">
 <!ENTITY styleeditor.accesskey        "S">
 <!ENTITY styleeditor.keycode          "VK_F7">
 <!ENTITY styleeditor.keytext          "F7">
@@ -596,3 +602,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY addonBarCloseButton.tooltip  "Zamkni lëstwã dodôwków">
 <!ENTITY toggleAddonBarCmd.key        "/">
+
+<!-- LOCALIZATION NOTE (htmlPanel.label): This is a label for a button that
+activates the Web Developer->Inspect UI's HTML Tree Panel. -->
+<!ENTITY htmlPanel.label              "HTML">
+
+<!-- LOCALIZATION NOTE (htmlPanel.tooltiptext): The text that appears when a user
+hovers over the HTML panel's toolbar button. -->
+<!ENTITY htmlPanel.tooltiptext        "Panel HTML">
+
+
+
+<!-- LOCALIZATION NOTE (htmlPanel.accesskey): The key bound to the HTML panel's
+toolbar button -->
+<!ENTITY htmlPanel.accesskey          "H">

@@ -19,14 +19,15 @@
 <!ENTITY button.createNewAccount.label "Ùsadzë nowé kònto">
 <!ENTITY button.haveAccount.label      "Móm ju kònto">
 
+
 <!ENTITY setup.choicePage.title.label     "Czë môsz ju przódë brëkòwóné &syncBrand.fullName.label;?">
 <!ENTITY setup.choicePage.new.label       "Ni móm jesz brëkòwóné &syncBrand.shortName.label;">
 <!ENTITY setup.choicePage.existing.label  "Brëkùjã &syncBrand.shortName.label; na jinym kòmpùtrze">
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Serwer">
-<!ENTITY serverType.main.label      "Serwera &syncBrand.fullName.label;">
 <!ENTITY serverType.custom2.label   "Brëkùjë swòjégò serwera…">
+<!ENTITY serverType.default.label   "Domëslno: Mozilla &syncBrand.fullName.label; serwer">
 <!ENTITY signIn.account2.label      "Kònto">
 <!ENTITY signIn.account2.accesskey  "K">
 <!ENTITY signIn.password.label      "Parola">

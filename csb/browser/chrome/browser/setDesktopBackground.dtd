@@ -13,3 +13,5 @@
 <!ENTITY setDesktopBackground.title "Nastôwi tapétã">
 <!ENTITY openDesktopPrefs.label     "Òtemkni preferencje pùltu">
 <!ENTITY closeWindow.key            "Z">
+<!ENTITY fill.label                 "Wëfùlowanié">
+<!ENTITY fit.label                  "Dopasëjë">

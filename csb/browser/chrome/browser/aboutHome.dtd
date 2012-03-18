@@ -1,6 +1,3 @@
-<!ENTITY % brandDTD
-    SYSTEM "chrome://branding/locale/brand.dtd">
-  %brandDTD;
 <!--
 # Translator(s):
 #
@@ -8,13 +5,20 @@
 #
 -->
 
+<!ENTITY % brandDTD
+    SYSTEM "chrome://branding/locale/brand.dtd">
+  %brandDTD;
+  
+<!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
+%syncBrandDTD;
+
 <!-- These strings are used in the about:home page -->
+
 
 <!ENTITY abouthome.pageTitle "Startowô strona programù &brandFullName;">
 
 <!ENTITY abouthome.searchEngineButton.label "Szëkba">
 
-<!ENTITY abouthome.aboutMozilla "Ò Mozillë">
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
@@ -25,5 +29,10 @@
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "Ùstawienié Firefoksa bë wëzdrzôł ë robił wedle Twòji wòlë to je prostô sprawa. <a>Wëbierzë z tësący dodôwków</a>.">
 
-<!ENTITY abouthome.syncSetup.label   "Kònfigùrëjë synchronizacjã">
-<!ENTITY abouthome.pairDevice.label  "Sparëjë ùrzãdzenié">
+
+<!ENTITY abouthome.bookmarksButton.label "Załóżczi">
+<!ENTITY abouthome.historyButton.label   "Historiô">
+<!ENTITY abouthome.addonsButton.label    "Dodôwczi">
+<!ENTITY abouthome.appsButton.label      "Króm">
+<!ENTITY abouthome.downloadsButton.label "Zladënczi">
+<!ENTITY abouthome.settingsButton.label  "Nastôwë">

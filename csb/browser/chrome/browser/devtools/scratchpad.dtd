@@ -25,30 +25,6 @@
 <!ENTITY editMenu.label               "Edicjô">
 <!ENTITY editMenu.accesskey           "E">
 
-<!ENTITY undoCmd.label                "Copni">
-<!ENTITY undoCmd.key                  "Z">
-<!ENTITY undoCmd.accesskey            "C">
-
-<!ENTITY redoCmd.label                "Doprowadzë nazôd">
-<!ENTITY redoCmd.key                  "D">
-<!ENTITY redoCmd.accesskey            "p">
-
-<!ENTITY cutCmd.label                 "Wytni">
-<!ENTITY cutCmd.key                   "X">
-<!ENTITY cutCmd.accesskey             "W">
-
-<!ENTITY copyCmd.label                "Wëtni">
-<!ENTITY copyCmd.key                  "C">
-<!ENTITY copyCmd.accesskey            "K">
-
-<!ENTITY pasteCmd.label               "Wlepi">
-<!ENTITY pasteCmd.key                 "V">
-<!ENTITY pasteCmd.accesskey           "e">
-
-<!ENTITY selectAllCmd.label           "Wëbierzë wszëtkò">
-<!ENTITY selectAllCmd.key             "A">
-<!ENTITY selectAllCmd.accesskey       "Z">
-
 <!ENTITY run.label                    "Zreszë">
 <!ENTITY run.accesskey                "s">
 <!ENTITY run.key                      "r">
@@ -60,20 +36,6 @@
 <!ENTITY display.label                "Wëskrzëni">
 <!ENTITY display.accesskey            "ë">
 <!ENTITY display.key                  "ë">
-
-<!ENTITY findAgainCmd.accesskey 	  "g"> 
-<!ENTITY findAgainCmd.key 			  "G"> 
-<!ENTITY findAgainCmd.label 		  "Nalezë znowa…">
-
-<!ENTITY findCmd.accesskey 			  "F">
-<!ENTITY findCmd.key 				  "F"> 
-<!ENTITY findCmd.label 				  "Nalezë…">
-
-<!ENTITY findPreviousCmd.key 		  "G">
-
-<!ENTITY gotoLineCmd.accesskey 		  "J">
-<!ENTITY gotoLineCmd.key 			  "J"> 
-<!ENTITY gotoLineCmd.label 			  "Biéj do sztriszczi…"> 
 
 <!ENTITY environmentMenu.label        "Òkrãżé">
 <!ENTITY environmentMenu.accesskey    "é">
@@ -94,3 +56,11 @@
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
 <!ENTITY webConsoleCmd.commandkey     "k">
+
+<!ENTITY documentationLink.label      "Pòmòc dlô czôrnopisu na MDN">
+<!ENTITY documentationLink.accesskey  "D"
+<!ENTITY helpMenu.label               "Pòmòc">
+<!ENTITY helpMenu.accesskey           "m">
+<!ENTITY helpMenuWin.label            "Pòmòc">
+<!ENTITY helpMenuWin.accesskey        "m">
+

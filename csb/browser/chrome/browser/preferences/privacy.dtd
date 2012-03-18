@@ -20,6 +20,10 @@
 
 <!ENTITY  locationBar.label             "Lëstew adresë">
 
+<!ENTITY  rememberHistory2.label      "Pamiãtôj historiã zladënków">
+<!ENTITY  rememberHistory2.accesskey  "z">
+
+
 <!ENTITY  locbar.pre.label              "Pòdpòwiescë w lëstwie adresë òpierôj na:">
 <!ENTITY  locbar.pre.accessKey          "u">
 <!ENTITY  locbar.post.label             "">
@@ -76,12 +80,6 @@
 
 <!ENTITY  privateBrowsingPermanent2.label "Wiedno ùżëwôj tribu priwatnégò przezéraniô sécë">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
-
-<!ENTITY  rememberHistory.label      "Pamiãtôj historiã mòjégò przezéraniô">
-<!ENTITY  rememberHistory.accesskey  "P">
-
-<!ENTITY  rememberDownload.label         "Spamiãtôj historiã zladënkù lopków">
-<!ENTITY  rememberDownload.accesskey     "z">
 
 <!ENTITY  rememberSearchForm.label       "Spamiãtôj historiã szëkbë ë fòrmùlarzów">
 <!ENTITY  rememberSearchForm.accesskey   "f">
