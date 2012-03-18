@@ -1,0 +1,11 @@
+<!ENTITY startupAction.label "Al iniciar &brandShortName;:">
+<!ENTITY startupAction.accesskey "A">
+<!ENTITY startupOffline.label "Mantener mis cuentas de chat no conectadas">
+<!ENTITY startupConnectAuto.label "Conectar a mis cuentas automáticamente">
+<!ENTITY reportIdleAfter.label "Permitir a mis contactos saber que estoy inactivo tras">
+<!ENTITY reportIdleAfter.accesskey "P">
+<!ENTITY idleTime "minutos de actividad">
+<!ENTITY andSetStatusToAway.label "y establecer mi estado en Ausente con este mensaje de estado:">
+<!ENTITY andSetStatusToAway.accesskey "b">
+<!ENTITY sendTyping.label "Enviar notificaciones de escritura en conversaciones">
+<!ENTITY sendTyping.accesskey "E">

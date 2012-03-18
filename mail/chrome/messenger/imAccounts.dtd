@@ -1,0 +1,24 @@
+<!ENTITY accountsWindow.title "Estado de la mensajería instantánea">
+<!ENTITY accountsWindow.style "width: 61em; height: 41em;">
+<!ENTITY accountManager.newAccount.label "Nueva cuenta">
+<!ENTITY accountManager.newAccount.accesskey "N">
+<!ENTITY accountManager.close.label "Cerrar">
+<!ENTITY accountManager.close.accesskey "C">
+<!ENTITY accountManager.close.commandkey "a">
+<!ENTITY accountManager.noAccount.title "No hay ninguna cuenta configurada aún">
+<!ENTITY accountManager.noAccount.description "Pulse en el botón &accountManager.newAccount.label; para permitir a &brandShortName; guiarle a través del proceso de configuración de una.">
+<!ENTITY account.autoSignOn.label "Iniciar sesión al arrancar">
+<!ENTITY account.autoSignOn.accesskey "I">
+<!ENTITY account.connect.label "Conectar">
+<!ENTITY account.connect.accesskey "o">
+<!ENTITY account.disconnect.label "Desconectar">
+<!ENTITY account.disconnect.accesskey "D">
+<!ENTITY account.edit.label "Propiedades">
+<!ENTITY account.edit.accesskey "P">
+<!ENTITY account.moveup.label "Arriba">
+<!ENTITY account.movedown.label "Abajo">
+<!ENTITY account.cancelReconnection.label "Cancelar reconexión">
+<!ENTITY account.cancelReconnection.accesskey "a">
+<!ENTITY account.connecting "Conectando…">
+<!ENTITY account.disconnecting "Desconectando…">
+<!ENTITY account.disconnected "No conectado">

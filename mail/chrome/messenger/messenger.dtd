@@ -19,6 +19,8 @@
 <!ENTITY newCreateEmailAccountCmd.accesskey "O">
 <!ENTITY newExistingEmailAccountCmd.label "Cuenta de correo existente…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "E">
+<!ENTITY newIMAccountCmd.label "Cuenta de chat…">
+<!ENTITY newIMAccountCmd.accesskey "h">
 <!ENTITY openMessageFileCmd.label "Abrir mensaje guardado…">
 <!ENTITY openMessageFileCmd.accesskey "A">
 <!ENTITY openAttachmentCmd.label "Adjuntos">
@@ -292,6 +294,9 @@
 <!ENTITY goBackCmd.label "Atrás">
 <!ENTITY goBackCmd.accesskey "t">
 <!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goChatCmd.label "Charlar">
+<!ENTITY goChatCmd.accesskey "h">
+<!ENTITY goChatCmd.commandKey "C">
 <!ENTITY prevStarredMsgCmd.label "Mensaje con estrella">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
 <!ENTITY folderMenu.label "Carpeta">
@@ -429,6 +434,12 @@
 <!ENTITY addons.accesskey "m">
 <!ENTITY activitymanager.label "Administrador de actividad">
 <!ENTITY activitymanager.accesskey "A">
+<!ENTITY imAccountsStatus.label "Estado de chat">
+<!ENTITY imAccountsStatus.accesskey "C">
+<!ENTITY imStatus.available "Disponible">
+<!ENTITY imStatus.unavailable "No disponible">
+<!ENTITY imStatus.offline "Sin conexión">
+<!ENTITY imStatus.showAccounts "Mostrar cuentas…">
 <!ENTITY savedFiles.label "Archivos guardados">
 <!ENTITY savedFiles.accesskey "h">
 <!ENTITY savedFiles.key "j">
@@ -478,6 +489,7 @@
 <!ENTITY junkButton.label "No deseado">
 <!ENTITY notJunkButton.label "Legítimo">
 <!ENTITY addressBookButton.label "Direcciones">
+<!ENTITY chatButton.label "Charlar">
 <!ENTITY glodaSearch.title "Búsqueda global">
 <!ENTITY searchItem.title "Búsqueda rápida">
 <!ENTITY mailViewsToolbarItem.title "Vistas de correo">
@@ -509,6 +521,7 @@
 <!ENTITY junkButton.tooltip "Marcar los mensajes seleccionados como no deseados">
 <!ENTITY notJunkButton.tooltip "Marcar los mensajes seleccionados como correo normal">
 <!ENTITY addressBookButton.tooltip "Ir a la libreta de direcciones">
+<!ENTITY chatButton.tooltip "Mostrar la pestaña de chat">
 <!ENTITY tagButton.tooltip "Etiquetar mensajes">
 <!ENTITY compactButton.tooltip "Eliminar mensajes borrados de la carpeta seleccionada">
 <!ENTITY addNewTag.label "Nueva etiqueta…">
