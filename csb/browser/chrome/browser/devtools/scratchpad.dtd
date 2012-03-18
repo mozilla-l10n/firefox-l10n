@@ -58,7 +58,7 @@
 <!ENTITY webConsoleCmd.commandkey     "k">
 
 <!ENTITY documentationLink.label      "Pòmòc dlô czôrnopisu na MDN">
-<!ENTITY documentationLink.accesskey  "D"
+<!ENTITY documentationLink.accesskey  "D">
 <!ENTITY helpMenu.label               "Pòmòc">
 <!ENTITY helpMenu.accesskey           "m">
 <!ENTITY helpMenuWin.label            "Pòmòc">
