@@ -28,6 +28,7 @@
 <!ENTITY awesomebar_default_text "Vložte hledání nebo adresu">
 
 <!ENTITY remote_tabs "Synchronizované panely">
+<!ENTITY remote_tabs_show_all "Zobrazit všechny panely">
 
 <!ENTITY bookmark "Záložky">
 <!ENTITY bookmark_added "Záložka přidána">
