@@ -136,8 +136,8 @@
 <!ENTITY event.menu.options.inline.spellcheck.accesskey "S">
 <!ENTITY event.menu.options.link.label "Añadir enlace…">
 <!ENTITY event.menu.options.link.accesskey "L">
-<!ENTITY event.menu.options.timezone2.label "Mostrar zonas horarias">
-<!ENTITY event.menu.options.timezone2.accesskey "z">
+<!ENTITY event.menu.options.timezone.label "Zona horaria">
+<!ENTITY event.menu.options.timezone.accesskey "z">
 <!ENTITY event.menu.options.priority2.label "Prioridad">
 <!ENTITY event.menu.options.priority2.accesskey "r">
 <!ENTITY event.menu.options.priority.notspecified.label "No especificado">
@@ -331,7 +331,6 @@
 <!ENTITY event.attendee.role.chair "Presidencia">
 <!ENTITY event.attendee.role.nonparticipant "No participante">
 <!ENTITY timezone.title.label "Por favor, especifique la zona horaria">
-<!ENTITY event.timezone.custom.label "Más zonas horarias…">
 <!ENTITY read.only.general.label "General">
 <!ENTITY read.only.title.label "Título:">
 <!ENTITY read.only.event.start.label "Fecha de inicio:">
