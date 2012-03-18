@@ -1,6 +1,2 @@
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "Nový panel">
-
-<!ENTITY newtab.show "Zobrazit stránku nového panelu">
-<!ENTITY newtab.hide "Skrýt stránku nového panelu">
-<!ENTITY newtab.reset "Obnovit stránku nového panelu">
