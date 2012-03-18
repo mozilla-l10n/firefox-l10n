@@ -25,3 +25,9 @@
 <!ENTITY fontColor.accesskey "T">
 <!ENTITY bgColor.label "Fondo:">
 <!ENTITY bgColor.accesskey "F">
+<!ENTITY selectHeaderType.label "Seleccione el tipo de cabecera de respuesta">
+<!ENTITY selectHeaderType.accesskey "S">
+<!ENTITY noReplyOption.label "Sin cabecera de respuesta">
+<!ENTITY authorWroteOption.label "[Author] escribió:">
+<!ENTITY onDateAuthorWroteOption.label "El [date], [author] escribió:">
+<!ENTITY authorWroteOnDateOption.label "[Author] escribió el [date]:">

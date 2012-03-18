@@ -1,11 +1,19 @@
 <!ENTITY feedSubscriptions.label "Suscripciones a canales">
 <!ENTITY subscriptionDesc.label "Nota: eliminar o cambiar la carpeta de un canal no afectará a los artículos descargados previamente.">
 <!ENTITY feedTitle.label "Título:">
-<!ENTITY location.label "Dirección:">
+<!ENTITY feedTitle.accesskey "T">
+<!ENTITY feedLocation.label "URL del canal:">
+<!ENTITY feedLocation.accesskey "L">
+<!ENTITY feedLocation.placeholder "Introduzca una URL de canal válida para añadir">
+<!ENTITY feedFolder.label "Guardar artículos en:">
+<!ENTITY feedFolder.accesskey "G">
+<!ENTITY quickMode.label "Mostrar el resumen del artículo en vez de la página web">
+<!ENTITY quickMode.accesskey "M">
+<!ENTITY validateText.label "Comprobar validación y recuperar una URL válida.">
 <!ENTITY button.addFeed.label "Añadir">
 <!ENTITY button.addFeed.accesskey "A">
-<!ENTITY button.editFeed.label "Editar">
-<!ENTITY button.editFeed.accesskey "E">
+<!ENTITY button.editFeed.label "Actualizar">
+<!ENTITY button.editFeed.accesskey "c">
 <!ENTITY button.removeFeed.label "Eliminar">
 <!ENTITY button.removeFeed.accesskey "E">
 <!ENTITY button.importOPML.label "Importar">
