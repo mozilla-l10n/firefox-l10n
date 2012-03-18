@@ -14,7 +14,13 @@ bazabiltza, bisitatu gure <a id='supportLink'>laguntzaren webgunea</a>.">
 <!ENTITY aboutSupport.appBasicsTitle "Aplikazioaren oinarrizko konfigurazioa">
 <!ENTITY aboutSupport.appBasicsName "Izena">
 <!ENTITY aboutSupport.appBasicsVersion "Bertsioa">
+
 <!ENTITY aboutSupport.appBasicsProfileDir "Profilaren direktorioa">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Profilaren karpeta">
+
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Gaitutako pluginak">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Eraikitze-konfigurazioa">
 <!ENTITY aboutSupport.appBasicsUserAgent "Erabiltzaile-agentea">
@@ -25,7 +31,6 @@ bazabiltza, bisitatu gure <a id='supportLink'>laguntzaren webgunea</a>.">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
-
 <!ENTITY aboutSupport.showMac.label "Erakutsi Finder-en">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
@@ -36,6 +41,11 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsValue "Balioa">
 
 <!ENTITY aboutSupport.graphicsTitle "Grafikoak">
+
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "ZB inkrementala">
+
+<!ENTITY aboutSupport.libraryVersionsTitle "Liburutegien bertsioak">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Instalazioaren historia">
 <!ENTITY aboutSupport.updateHistoryTitle "Eguneraketen historia">
