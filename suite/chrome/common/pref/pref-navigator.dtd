@@ -12,7 +12,14 @@
 <!ENTITY lastPageRadio.accesskey "L">
 <!ENTITY restoreSessionRadio.label "Restaurar sesión anterior">
 <!ENTITY restoreSessionRadio.accesskey "e">
-<!ENTITY header2.label "Página de inicio">
+<!ENTITY restoreSessionIntro.label "Al restaurar sesiones y ventanas">
+<!ENTITY restoreImmediately.label "Restaurar todas las pestañas inmediatamente">
+<!ENTITY restoreImmediately.accesskey "a">
+<!ENTITY restoreTabs.label "Restaurar">
+<!ENTITY restoreTabs.accesskey "s">
+<!ENTITY restoreTabsAtATime.label "pestaña(s) a la vez">
+<!ENTITY restoreDeferred.label "Restaurar pestañas sólo cuando las necesite">
+<!ENTITY restoreDeferred.accesskey "i">
 <!ENTITY homePageIntro.label "Pulsar el botón Inicio le lleva a este grupo de páginas:">
 <!ENTITY useCurrent.label "Usar página actual">
 <!ENTITY useCurrent.accesskey "U">

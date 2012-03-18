@@ -49,27 +49,27 @@
   estándar <abbr title="Internet Engineering Task Force">IETF</abbr>
   basado en SSL. TLS 1.0 puede considerarse como <em>SSL 3.1</em>.</p>
 
-<p>Normalmente las siguientes tres casillas deberían dejarse
+<p>Normalmente todas las casillas siguientes deberían dejarse
   seleccionadas para asegurar que tanto los servidores web antiguos como los
   nuevos son capaces de funcionar con el navegador:</p>
 
 <ul>
-  <li><strong>Habilitar SSL versión 3</strong>: permite a los
-    servidores web más modernos comunicarse con el navegador.</li>
-  <li><strong>Habilitar TLS</strong>: permite a los servidores web que
-    soportan TLS aprovechar este protocolo.</li>
+  <li><strong>Activar SSL 3.0</strong>: permite a los servidores web que
+    implementan SSL 3.0 comunicarse con el navegador.</li>
+  <li><strong>Activar TLS 1.0</strong>: permite a los servidores web más
+    modernos que implementan TLS aprovechar este protocolo.</li>
 </ul>
 
 <p><strong>Nota importante relativa a TLS</strong>: algunos servidores que
   no implementan SSL correctamente no pueden negociar el <em>saludo SSL</em>
-  con software cliente (como &brandShortName;) que soporta TLS. Tales
+  con software cliente (como &brandShortName;) que implementa TLS. Tales
   servidores son conocidos como <q>incompatibles TLS</q>.</p>
 
-<p>Cuando la opción Habilitar TLS del panel de preferencias SSL
-  está seleccionada, el navegador intenta utlizar el protocolo TLS para
+<p>Cuando la opción Activar TLS 1.0 del panel de preferencias SSL
+  está seleccionada, el navegador intenta utilizar el protocolo TLS para
   realizar conexiones seguras con el servidor. Si esa conexión falla
   porque el servidor es incompatible TLS, el navegador recurrirá a SSL
-  3.0.</p>
+  3.0 (si está activado).</p>
 
 <h3 id="ssl_warnings">Advertencias SSL</h3>
 
@@ -86,18 +86,18 @@
   correspondiente:</p>
 
 <ul>
-  <li><strong>Cargar una página que soporta cifrado</strong>:
+  <li><strong>Cargar una página que implementa cifrado</strong>:
     seleccione esta advertencia si desea ser advertido siempre que cargue una
-    página que soporta cifrado.</li>
+    página que implementa cifrado.</li>
   <li><strong>Cargar una página que utiliza cifrado de bajo
     nivel</strong>: seleccione esta advertencia si quiere ser advertido
-    siempre que cargue una página que soporte cifrado de bajo nivel (el
+    siempre que cargue una página que implemente cifrado de bajo nivel (el
     cifrado de bajo nivel es el cifrado disponible más débil, y
     usa claves de 40 bits).</li>
-  <li><strong>Abandonar una página que soporta cifrado</strong>:
+  <li><strong>Abandonar una página que implementa cifrado</strong>:
     seleccione esta advertencia si quiere ser advertido siempre que vaya a
-    abandonar una página que soporte cifrado para dirigirse a una que
-    no lo soporte.</li>
+    abandonar una página que implemente cifrado para dirigirse a una que
+    no lo implemente.</li>
   <li><strong>Enviar datos de un formulario desde una página sin
     cifrar a otra sin cifrar</strong>: seleccione esta advertencia si quiere
     ser advertido siempre que vaya a enviar datos a través de una
@@ -134,7 +134,7 @@
     SSL</a>.</li>
   <li><a href=
     "http://www.mozilla.org/projects/security/pki/nss/nss-3.11/nss-3.11-algorithms.html"
-    >Tecnologías criptográficas disponibles en NSS 3.9</a>.</li>
+    >Tecnologías criptográficas disponibles en NSS 3.11</a>.</li>
   </ul>
 </body>
 </html>

@@ -95,9 +95,30 @@
         &brandShortName; sea su navegador predeterminado.</li>
     </ul>
   </li>
-  <li><strong>Página de inicio</strong>: escriba en el campo de texto la página
-    web que quiera como página de inicio, o haga algo de lo siguiente:
+  <li><strong>Al restaurar sesiones y ventanas</strong>: elija cómo deben
+    restaurarse (en su caso) múltiples pestañas del navegador a la vez durante
+    el arranque.
     <ul>
+      <li><strong>Restaurar todas las pestañas inmediatamente</strong>: todas
+        las pestañas que estuvieran abiertas la última vez serán restauradas y
+        cargadas de una vez. Esto puede afectar negativamente al rendimiento
+        durante el arranque si hace falta restaurar en paralelo una gran
+        cantidad de pestañas.</li>
+      <li><strong>Restaurar [__] pestañas a la vez</strong>: si elige esta
+        opción, sólo se restaurará a la vez el número de pestañas especificado.
+        Si tenía más pestañas abiertas de las especificadas aquí, las pestañas
+        adicionales sólo se cargarán una vez haya terminado de cargarse una de
+        las demás pestañas.</li>
+      <li><strong>Restaurar sólo las pestañas cuando las necesite</strong>:
+        esto desactiva la restauración automática de pestañas, es decir, las
+        pestañas sólo se cargarán si se pasa a ellas o se pide su recarga.</li>
+    </ul>
+  </li>
+  <li>Preferencias del botón de inicio: en el campo, escriba la pagina web que
+    desee como su página de inicio, o haga una de las siguientes cosas:
+    <ul>
+      <li><strong>Elegir archivo</strong>: pulse este botón para localizar un
+        archivo en el disco que desee cargar como su página de inicio.</li>
       <li><strong>Usar página actual</strong>: haga clic aquí para usar la
         página web mostrada actualmente en el navegador como su página de
         inicio.</li>
@@ -113,8 +134,6 @@
       </li>
       <li><strong>Restaurar predeterminado</strong>: pulse esta opción para
         restaurar la página de inicio predeterminada.</li>
-      <li><strong>Elegir archivo</strong>: haga clic aquí para buscar un
-        archivo en el disco que desee cargar como página de inicio.</li>
     </ul>
   </li>
 </ul>
@@ -366,6 +385,13 @@ sección</a>]</p>
       </ul></li>
   </ul>
 </li>
+<li><strong>Formato</strong>:
+  <ul>
+    <li><strong>Resaltar el dominio efectivo en sitios web y servidores FTP</strong>:
+      difumina en gris toda la URL excepto el dominio efecto, para que quede claro
+      el sitio que se está visitando.</li>
+  </ul>
+</li>
 <li><strong>Motor de búsqueda en Internet</strong>:
   <ul>
     <li><strong>Mostrar el buscador por defecto</strong>: muestra una lista
@@ -389,9 +415,7 @@ sección</a>]</p>
       la barra de direcciones. Si el texto que ha escrito no es una dirección
       web, &brandShortName; hará una búsqueda web cuando pulse
       <kbd class="noMac">Enter</kbd> <kbd class="mac">Return</kbd> en la barra
-      de direcciones. <strong>Nota</strong>: el buscador usado no puede
-      cambiarse en las <a href="#internet_search">preferencias de búsquedas
-      en Internet</a>.</li>
+      de direcciones.</li>
   </ul>
 </li>
 </ul>

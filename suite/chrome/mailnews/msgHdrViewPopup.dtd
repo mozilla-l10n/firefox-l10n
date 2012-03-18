@@ -11,7 +11,7 @@
 <!ENTITY openInBrowser.accesskey "r">
 <!ENTITY bookmarkLinkCmd.label "Añadir este enlace a marcadores…">
 <!ENTITY bookmarkLinkCmd.accesskey "d">
-<!ENTITY copyLinkCmd.label "Copiar dirección del enlace">
+<!ENTITY copyLinkCmd.label "Copiar la dirección del enlace">
 <!ENTITY copyLinkCmd.accesskey "C">
 <!ENTITY CopyMessageId.label "Copiar Message-ID">
 <!ENTITY CopyMessageId.accesskey "M">
