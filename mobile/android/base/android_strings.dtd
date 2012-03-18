@@ -55,7 +55,7 @@
 <!ENTITY pref_do_not_track "ਸਾਈਟਾਂ ਨੂੰ ਦੱਸੋ ਕਿ ਮੈਂ ਟਰੈਕ ਨਹੀਂ ਹੋਣਾ ਚਾਹੁੰਦਾ">
 <!ENTITY pref_telemetry "ਕਾਰਗੁਜ਼ਾਰੀ ਡਾਟਾ ਭੇਜੋ">
 <!ENTITY pref_remember_signons "ਪਾਸਵਰਡ ਯਾਦ ਰੱਖੋ">
-<!ENTITY pref_cookies "Enable cookies">
+<!ENTITY pref_cookies "ਕੂਕੀਜ਼ ਚਾਲੂ">
 <!ENTITY pref_char_encoding "ਅੱਖਰ ਇੰਕੋਡਿੰਗ">
 <!ENTITY pref_char_encoding_on "ਮੇਨੂ ਵੇਖਾਓ">
 <!ENTITY pref_char_encoding_off "ਮੇਨੂ ਨਾ ਵੇਖਾਓ">

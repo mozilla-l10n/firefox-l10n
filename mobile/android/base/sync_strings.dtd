@@ -12,8 +12,8 @@
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label 'ਆਪਣੇ ਨਵੇਂ ਜੰਤਰ ਨੂੰ ਸਰਗਰਮ ਕਰਨ ਲਈ, ਜੰਤਰ ਉੱਤੇ “&syncBrand.shortName.label; ਸੈਟਅੱਪ” ਚੁਣੋ।'>
 <!ENTITY sync.subtitle.header.label 'ਇਹ ਕੋਡ ਆਪਣੇ ਕੰਪਿਊਟਰ ਉੱਤੇ ਦਿਓ'>
-<!ENTITY sync.subtitle.connectlocation.label 'Select “&sync.title.pair.label;” in the &syncBrand.shortName.label; section of your desktop Firefox options.'>
-<!ENTITY sync.subtitle.pair.label 'To activate, select “Pair a device” on your other device.'>
+<!ENTITY sync.subtitle.connectlocation.label 'ਆਪਣੇ ਡੈਸਕਟਾਪ ਫਾਇਰਫਾਕਸ ਚੋਣਾਂ ਦੇ &syncBrand.shortName.label; ਭਾਗ ਵਿੱਚ “&sync.title.pair.label;” ਚੁਣੋ।'>
+<!ENTITY sync.subtitle.pair.label 'ਸਰਗਰਮ ਕਰਨ ਲਈ, ਆਪਣੇ ਹੋਰ ਜੰਤਰ ਤੋਂ“ਜੰਤਰ ਪੇਅਰ ਕਰੋ” ਦੀ ਚੋਣ ਕਰੋ।'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.pin.oneline.label '...'>
 <!ENTITY sync.link.show.label 'ਮੈਨੂੰ ਵੇਖਾਓ'>

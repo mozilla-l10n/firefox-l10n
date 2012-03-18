@@ -91,7 +91,7 @@
 <!ENTITY lightning.toolbar.day.accesskey             "D">
 <!ENTITY lightning.toolbar.week.label                "ਹਫ਼ਤਾ">
 <!ENTITY lightning.toolbar.week.accesskey            "W">
-<!ENTITY lightning.toolbar.multiweek.label           "Multiweek">
+<!ENTITY lightning.toolbar.multiweek.label           "ਬਹੁ-ਹਫ਼ਤਾ">
 <!ENTITY lightning.toolbar.multiweek.accesskey       "u">
 <!ENTITY lightning.toolbar.month.label               "ਮਹੀਨਾ">
 <!ENTITY lightning.toolbar.month.accesskey           "M">
@@ -111,14 +111,14 @@
 <!ENTITY lightning.keys.todo.new "D">
 
 <!-- Account Central page -->
-<!ENTITY lightning.acctCentral.newCalendar.label "Create a new calendar">
+<!ENTITY lightning.acctCentral.newCalendar.label "ਨਵਾਂ ਕੈਲੰਡਰ ਬਣਾਓ">
 
 <!-- today-pane-specific -->
-<!ENTITY todaypane.showMinimonth.label "Show Mini-Month">
+<!ENTITY todaypane.showMinimonth.label "ਬਹੁ-ਮਹੀਨਾ ਵੇਖਾਓ">
 <!ENTITY todaypane.showMinimonth.accesskey "M">
 <!ENTITY todaypane.showMiniday.label "Show Mini-Day">
 <!ENTITY todaypane.showMiniday.accesskey  "d">
-<!ENTITY todaypane.showNone.label "Show None">
+<!ENTITY todaypane.showNone.label "ਕੁਝ ਵੀ ਨਾ ਵੇਖਾਓ">
 <!ENTITY todaypane.showNone.accesskey "N">
 <!ENTITY todaypane.showTodayPane.label "Show Today Pane">
 <!ENTITY todaypane.showTodayPane.accesskey "o">
