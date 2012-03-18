@@ -1,14 +1,13 @@
-<!ENTITY % brandDTD
-    SYSTEM "chrome://branding/locale/brand.dtd">
-  %brandDTD;
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+<!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
+%syncBrandDTD;
 
 <!-- These strings are used in the about:home page -->
 
 <!ENTITY abouthome.pageTitle "Startovní stránka aplikace &brandFullName;">
 
 <!ENTITY abouthome.searchEngineButton.label "Hledat">
-
-<!ENTITY abouthome.aboutMozilla "O Mozille">
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
@@ -19,5 +18,9 @@
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "Přizpůsobit si Firefox přesně podle vás je opravdu jednoduché. <a>Vyberte si z tisíce doplňků</a>.">
 
-<!ENTITY abouthome.syncSetup.label "Nastavit Sync">
-<!ENTITY abouthome.pairDevice.label "Připojit nové zařízení">
+<!ENTITY abouthome.bookmarksButton.label "Záložky">
+<!ENTITY abouthome.historyButton.label "Historie">
+<!ENTITY abouthome.settingsButton.label "Nastavení">
+<!ENTITY abouthome.addonsButton.label "Doplňky">
+<!ENTITY abouthome.appsButton.label "Tržiště">
+<!ENTITY abouthome.downloadsButton.label "Stahování">
