@@ -44,7 +44,7 @@
 <!ENTITY searchAllChatMessages.label.base "Ieškoti visuose pokalbiuose… #1">
 
 <!ENTITY status.available          "Esu">
-<!ENTITY status.unavailable        "Nepasiekiama(s)">
+<!ENTITY status.unavailable        "Netrukdyti">
 <!ENTITY status.offline            "Neprisijungęs(-usi)">
 
 <!ENTITY openLinkCmd.label            "Atverti saitą…">
