@@ -1,9 +1,9 @@
-<!ENTITY syncBrand.fullName.label "Firefox Sync">
-<!ENTITY syncBrand.shortName.label "Sync">
+<!ENTITY syncBrand.fullName.label "Синхронизация Firefox">
+<!ENTITY syncBrand.shortName.label "Синхронизация">
 <!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "Соединение с &syncBrand.shortName.label;">
 <!ENTITY sync.title.adddevice.label "Добавить учётную запись &syncBrand.fullName.label;">
-<!ENTITY sync.title.pair.label "Соединение с устройством">
+<!ENTITY sync.title.pair.label "Соединиться с устройством">
 <!ENTITY sync.subtitle.connect.label "Для активации вашего нового устройства выберите на устройстве «Настроить &syncBrand.shortName.label;».">
 <!ENTITY sync.subtitle.header.label "Введите этот код на вашем компьютере">
 <!ENTITY sync.subtitle.connectlocation.label "Выберите “&sync.title.pair.label;” в разделе &syncBrand.shortName.label; настроек Firefox на вашем десктопе.">
