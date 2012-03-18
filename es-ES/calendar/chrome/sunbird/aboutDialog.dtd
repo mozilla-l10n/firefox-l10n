@@ -42,7 +42,9 @@
 <!ENTITY aboutLink.label "&lt; Acerca de &brandFullName;">
 <!ENTITY aboutLink.accesskey "A">
 <!ENTITY aboutVersion "versión">
-<!ENTITY copyrightText "©1998-2010 Colaboradores. Todos los derechos                                  reservados. Mozilla Sunbird, Sunbird, y los                                  logos de Sunbird son marcas comerciales de                                  Mozilla Foundation. Todos los derechos reservados.">
+<!ENTITY copyrightText "©1998-2010 Colaboradores. Todos los derechos reservados.
+Mozilla Sunbird, Sunbird, y los logos de Sunbird son marcas
+comerciales de la Fundación Mozilla. Todos los derechos reservados.">
 <!ENTITY brandMotto "Ya es hora">
 <!ENTITY credit.thanks "Agradecimiento especial a">
 <!ENTITY credit.translation "Traducción por NAVE">
