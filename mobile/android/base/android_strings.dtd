@@ -33,6 +33,7 @@
 <!ENTITY bookmark "Záložky">
 <!ENTITY bookmark_added "Záložka přidána">
 <!ENTITY bookmark_removed "Záložka odebrána">
+<!ENTITY bookmark_updated "Záložka aktualizována">
 
 <!ENTITY history_today_section "Dnes">
 <!ENTITY history_yesterday_section "Včera">
@@ -89,6 +90,12 @@
 <!ENTITY contextmenu_remove_bookmark "Smazat">
 <!ENTITY contextmenu_add_to_launcher "Přidat na úvodní obrazovku">
 <!ENTITY contextmenu_share "Sdílet">
+<!ENTITY contextmenu_edit_bookmark "Upravit">
+
+<!ENTITY bookmark_edit_title "Upraviz záložku">
+<!ENTITY bookmark_edit_name "Název">
+<!ENTITY bookmark_edit_location "Umístění">
+<!ENTITY bookmark_edit_keyword "Klíčové slovo">
 
 <!ENTITY site_settings_title "Vymazat nastavení serveru">
 <!ENTITY site_settings_cancel "Zrušit">
