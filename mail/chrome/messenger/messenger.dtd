@@ -19,6 +19,8 @@
 <!ENTITY newCreateEmailAccountCmd.accesskey "O">
 <!ENTITY newExistingEmailAccountCmd.label "Cuenta de correo existente…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "E">
+<!ENTITY newIMAccountCmd.label "Cuenta de chat…">
+<!ENTITY newIMAccountCmd.accesskey "h">
 <!ENTITY openMessageFileCmd.label "Abrir mensaje guardado…">
 <!ENTITY openMessageFileCmd.accesskey "A">
 <!ENTITY openAttachmentCmd.label "Adjuntos">
@@ -81,7 +83,7 @@
 <!ENTITY deleteFolderCmd.label "Eliminar carpeta">
 <!ENTITY deleteFolderCmd.accesskey "r">
 <!ENTITY unsubscribeNewsgroupCmd.label "Cancelar suscripción">
-<!ENTITY unsubscribeNewsgroupCmd.accesskey "n">
+<!ENTITY unsubscribeNewsgroupCmd.accesskey "u">
 <!ENTITY selectMenu.label "Seleccionar">
 <!ENTITY selectMenu.accesskey "l">
 <!ENTITY all.label "Todos">
@@ -292,6 +294,9 @@
 <!ENTITY goBackCmd.label "Atrás">
 <!ENTITY goBackCmd.accesskey "t">
 <!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goChatCmd.label "Charlar">
+<!ENTITY goChatCmd.accesskey "h">
+<!ENTITY goChatCmd.commandKey "C">
 <!ENTITY prevStarredMsgCmd.label "Mensaje con estrella">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
 <!ENTITY folderMenu.label "Carpeta">
@@ -429,6 +434,12 @@
 <!ENTITY addons.accesskey "m">
 <!ENTITY activitymanager.label "Administrador de actividad">
 <!ENTITY activitymanager.accesskey "A">
+<!ENTITY imAccountsStatus.label "Estado de chat">
+<!ENTITY imAccountsStatus.accesskey "C">
+<!ENTITY imStatus.available "Disponible">
+<!ENTITY imStatus.unavailable "No disponible">
+<!ENTITY imStatus.offline "Sin conexión">
+<!ENTITY imStatus.showAccounts "Mostrar cuentas…">
 <!ENTITY savedFiles.label "Archivos guardados">
 <!ENTITY savedFiles.accesskey "h">
 <!ENTITY savedFiles.key "j">
@@ -460,7 +471,11 @@
 <!ENTITY fileButton.label "Archivo">
 <!ENTITY archiveButton.label "Archivar">
 <!ENTITY nextButton.label "Siguiente">
+<!ENTITY nextButtonToolbarItem.label "Siguiente no leído">
+<!ENTITY nextMsgButton.label "Siguiente">
 <!ENTITY previousButton.label "Anterior">
+<!ENTITY previousButtonToolbarItem.label "Anterior no leído">
+<!ENTITY previousMsgButton.label "Anterior">
 <!ENTITY backButton1.label "Retroceder">
 <!ENTITY goForwardButton1.label "Avanzar">
 <!ENTITY deleteItem.title "Eliminar">
@@ -474,6 +489,7 @@
 <!ENTITY junkButton.label "No deseado">
 <!ENTITY notJunkButton.label "Legítimo">
 <!ENTITY addressBookButton.label "Direcciones">
+<!ENTITY chatButton.label "Charlar">
 <!ENTITY glodaSearch.title "Búsqueda global">
 <!ENTITY searchItem.title "Búsqueda rápida">
 <!ENTITY mailViewsToolbarItem.title "Vistas de correo">
@@ -492,7 +508,9 @@
 <!ENTITY fileButton.tooltip "Archivar mensaje seleccionado">
 <!ENTITY archiveButton.tooltip "Archivar mensajes seleccionados">
 <!ENTITY nextButton.tooltip "Ir al siguiente mensaje no leído">
+<!ENTITY nextMsgButton.tooltip "Moverse al mensaje siguiente">
 <!ENTITY previousButton.tooltip "Ir al anterior mensaje no leído">
+<!ENTITY previousMsgButton.tooltip "Moverse al mensaje anterior">
 <!ENTITY goForwardButton.tooltip "Ir al mensaje siguiente">
 <!ENTITY goBackButton.tooltip "Ir al mensaje anterior">
 <!ENTITY deleteButton.tooltip "Eliminar el mensaje o la carpeta seleccionados">
@@ -503,6 +521,7 @@
 <!ENTITY junkButton.tooltip "Marcar los mensajes seleccionados como no deseados">
 <!ENTITY notJunkButton.tooltip "Marcar los mensajes seleccionados como correo normal">
 <!ENTITY addressBookButton.tooltip "Ir a la libreta de direcciones">
+<!ENTITY chatButton.tooltip "Mostrar la pestaña de chat">
 <!ENTITY tagButton.tooltip "Etiquetar mensajes">
 <!ENTITY compactButton.tooltip "Eliminar mensajes borrados de la carpeta seleccionada">
 <!ENTITY addNewTag.label "Nueva etiqueta…">
@@ -655,9 +674,9 @@
 <!ENTITY mdnBarSendButton2.label "Enviar acuse de recibo">
 <!ENTITY mdnBarSendButton2.accesskey "v">
 <!ENTITY quickSearchCmd.key "k">
-<!ENTITY searchAllMessages.label.base "Buscar en todos los mensajes… #1">
-<!ENTITY searchAllMessages.keyLabel2.nonmac "&lt;Ctrl+K&gt;">
-<!ENTITY searchAllMessages.keyLabel2.mac "&lt;⌘K&gt;">
+<!ENTITY search.label.base "Buscar… #1">
+<!ENTITY search.keyLabel.nonmac "&lt;Ctrl+K&gt;">
+<!ENTITY search.keyLabel.mac "&lt;⌘K&gt;">
 <!ENTITY AddToAddressBook.label "Añadir a la libreta de direcciones…">
 <!ENTITY AddToAddressBook.accesskey "b">
 <!ENTITY AddDirectlyToAddressBook.label "Añadir a la libreta de direcciones">
