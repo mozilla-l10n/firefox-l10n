@@ -17,3 +17,18 @@
 <!ENTITY chooseFolderWin.accesskey    "x">
 <!ENTITY chooseFolderMac.label        "Escoller…">
 <!ENTITY chooseFolderMac.accesskey    "s">
+
+<!ENTITY attachments.incoming.label   "Entrante">
+<!ENTITY attachments.outgoing.label   "Saínte">
+
+<!ENTITY addCloudFileAccount.label        "Engadir">
+<!ENTITY addCloudFileAccount.accesskey    "a">
+<!ENTITY addCloudFileAccount.description  "Engadir un novo servizo de almacenamento en liña">
+<!ENTITY removeCloudFileAccount.label     "Retirar">
+<!ENTITY removeCloudFileAccount.accesskey "R">
+<!ENTITY authRequired.description         "Requírese a súa autorización para ver a configuración deste servizo de almacenamento.">
+<!ENTITY authRequired.button.label        "Autorizar">
+<!ENTITY authRequired.button.accesskey    "u">
+
+<!ENTITY enableCloudFileAccountOffer.label "Ofrecer para compartir ficheiros de máis de">
+<!ENTITY enableCloudFileAccountOffer.mb "MB">

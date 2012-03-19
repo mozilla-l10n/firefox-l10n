@@ -29,6 +29,8 @@
 <!ENTITY newCreateEmailAccountCmd.accesskey "b">
 <!ENTITY newExistingEmailAccountCmd.label "Conta de correo existente…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "e">
+<!ENTITY newIMAccountCmd.label "Conta de chat…">
+<!ENTITY newIMAccountCmd.accesskey "C">
 <!ENTITY openMessageFileCmd.label "Abrir mensaxe gardada…">
 <!ENTITY openMessageFileCmd.accesskey "m">
 <!ENTITY openAttachmentCmd.label "Anexos">
@@ -328,6 +330,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.label "Atrás">
 <!ENTITY goBackCmd.accesskey "A">
 <!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goChatCmd.label "Chat">
+<!ENTITY goChatCmd.accesskey "c">
+<!ENTITY goChatCmd.commandKey "C">
 <!ENTITY prevStarredMsgCmd.label "Mensaxe con estrela">
 <!ENTITY prevStarredMsgCmd.accesskey "n">
 <!ENTITY folderMenu.label "Cartafol">
@@ -471,6 +476,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addons.accesskey "C">
 <!ENTITY activitymanager.label "Xestor de actividade">
 <!ENTITY activitymanager.accesskey "a">
+<!ENTITY imAccountsStatus.label "Estado do chat">
+<!ENTITY imAccountsStatus.accesskey "c">
+<!ENTITY imStatus.available          "Dispoñíbel">
+<!ENTITY imStatus.unavailable        "Non dispoñíbel">
+<!ENTITY imStatus.offline            "Desconectado">
+<!ENTITY imStatus.showAccounts       "Mostrar as contas…">
 <!ENTITY savedFiles.label "Ficheiros gardados">
 <!ENTITY savedFiles.accesskey "F">
 <!ENTITY savedFiles.key "j">
@@ -506,7 +517,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fileButton.label "Ficheiro">
 <!ENTITY archiveButton.label "Arquivar">
 <!ENTITY nextButton.label "Seguinte">
+<!ENTITY nextButtonToolbarItem.label "Seguinte mensaxe non lida">
+<!ENTITY nextMsgButton.label "Seguinte">
 <!ENTITY previousButton.label "Anterior">
+<!ENTITY previousButtonToolbarItem.label "Anterior mensaxe non lida">
+<!ENTITY previousMsgButton.label "Anterior">
 <!ENTITY backButton1.label "Atrás">
 <!ENTITY goForwardButton1.label "Adiante">
 <!ENTITY deleteItem.title "Borrar">
@@ -520,6 +535,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.label "Correo lixo">
 <!ENTITY notJunkButton.label "Non é lixo">
 <!ENTITY addressBookButton.label "Axenda de enderezos">
+<!ENTITY chatButton.label "Chat">
 <!ENTITY glodaSearch.title "Busca global">
 <!ENTITY searchItem.title "Busca rápida">
 <!ENTITY mailViewsToolbarItem.title "Visualizacións das mensaxes">
@@ -540,7 +556,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fileButton.tooltip "Gardar mensaxe seleccionada">
 <!ENTITY archiveButton.tooltip "Arquivar mensaxes seleccionadas">
 <!ENTITY nextButton.tooltip "Ir á seguinte mensaxe non lida">
+<!ENTITY nextMsgButton.tooltip "Ir á seguinte mensaxe">
 <!ENTITY previousButton.tooltip "Ir á anterior mensaxe non lida">
+<!ENTITY previousMsgButton.tooltip "Ir á anterior mensaxe">
 <!ENTITY goForwardButton.tooltip "Avanzar unha mensaxe">
 <!ENTITY goBackButton.tooltip "Retroceder unha mensaxe">
 <!ENTITY deleteButton.tooltip "Eliminar a mensaxe ou o cartafol seleccionado">
@@ -551,6 +569,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.tooltip "Marcar as mensaxes seleccionadas como correo lixo">
 <!ENTITY notJunkButton.tooltip "Marcar as mensaxes seleccionadas como correo normal">
 <!ENTITY addressBookButton.tooltip "Ir á axenda de enderezos">
+<!ENTITY chatButton.tooltip "Mostra a lapela do chat">
 <!ENTITY tagButton.tooltip "Etiquetar mensaxes">
 <!ENTITY compactButton.tooltip "Eliminar mensaxes eliminadas do cartafol seleccionado">
 
@@ -779,28 +798,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      not changed 
      -->
 <!ENTITY quickSearchCmd.key "n">
-<!-- LOCALIZATION NOTE (searchAllMessages.label.base):
+<!-- LOCALIZATION NOTE (search.label.base):
      This is the base of the empty text for the global search box.  We replace
-     #1 with the contents of the appropriate
-     searchAllMessages.keyLabel2.* value for the platform.
+     #1 with the contents of the appropriate search.keyLabel.* value for the
+     platform.
      The goal is to convey to the user that typing in the box will allow them
      to search for messages globally and that there is a hotkey they can press
      to get to the box faster.  If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
      -->
-<!ENTITY searchAllMessages.label.base "Buscar en todas as mensaxes… #1">
-<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.nonmac):
+<!ENTITY search.label.base "Buscar… #1">
+<!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key).  We use the key defined in
      the quickSearchCmd.key entity defined above, the letter should match it.
      -->
-<!ENTITY searchAllMessages.keyLabel2.nonmac "&lt;CTRL+K&gt;">
-<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.mac):
+<!ENTITY search.keyLabel.nonmac "&lt;CTRL+K&gt;">
+<!-- LOCALIZATION NOTE (search.keyLabel.mac):
      The description of the key-binding to get into the global search box on mac
      systems.  We use the key defined in the quickSearchCmd.key entity defined
      above, the letter should match it.
      -->
-<!ENTITY searchAllMessages.keyLabel2.mac "&lt;&#x2318;K&gt;">
+<!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Engadir á axenda de enderezos…">
