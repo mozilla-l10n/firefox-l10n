@@ -5,3 +5,5 @@
 <!ENTITY identitiesListEdit.accesskey "E">
 <!ENTITY identitiesListDelete.label "ਹਟਾਓ">
 <!ENTITY identitiesListDelete.accesskey "D">
+<!ENTITY identitiesListClose.label "ਬੰਦ ਕਰੋ">
+<!ENTITY identitiesListClose.accesskey "C">

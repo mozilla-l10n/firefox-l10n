@@ -51,6 +51,10 @@
 <!ENTITY netInterrupt.title "The connection was interrupted">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!ENTITY notCached.title "ਦਸਤਾਵੇਜ਼ ਦੀ ਮਿਆਦ ਪੁੱਗੀ">
+<!ENTITY notCached.longDesc "<p>The requested document is not available in the cache.</p><ul><li>As a security precaution, &brandShortName; does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
+
+
 <!ENTITY netOffline.title "ਆਫਲਾਈਨ ਮੋਡ">
 <!ENTITY netOffline.longDesc2 "
 <ul>

@@ -8,6 +8,7 @@
 <!ENTITY paneGeneral.title        "ਆਮ">
 <!ENTITY paneDisplay.title        "ਵੇਖਣ">
 <!ENTITY paneComposition.title    "ਲਿਖਣ">
+<!ENTITY paneChat.title           "ਗੱਲਬਾਤ">
 <!ENTITY paneAttachments.title    "ਅਟੈਚਮੈਂਟ">
 <!ENTITY paneSecurity.title       "ਸੁਰੱਖਿਆ">
 <!ENTITY paneAdvanced.title       "ਤਕਨੀਕੀ">

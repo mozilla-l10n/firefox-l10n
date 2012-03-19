@@ -1,3 +1,9 @@
+<!-- LOCALIZATION NOTE (quickFilterBar.qfbShowFilterBar.label):
+     The label  for the button on the tab bar that toggles the visibility of
+     the quick filter bar.
+     -->
+<!ENTITY quickFilterBar.qfbShowFilterBar.label
+         "ਤੁਰੰਤ ਫਿਲਟਰ">
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.menu.label):
      The label to display for the "View... Toolbars..." menu item that controls
      whether the quick filter bar is visible.
@@ -48,7 +54,7 @@
      include unread messages.
      -->
 <!ENTITY quickFilterBar.unread.tooltip
-         "Show only unread messages">
+         "ਕੇਵਲ ਨਾ ਪੜ੍ਹੇ ਸੁਨੇਹੇ ਹੀ ਵੇਖਾਓ">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.starred.label):
      The label for the filter button that causes us to filter results to only
@@ -224,7 +230,7 @@
      body for the string.
      -->
 <!ENTITY quickFilterBar.textFilter.body.label
-         "ਮੁੱਕ ਭਾਗ">
+         "ਮੁੱਖ ਭਾਗ">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.glodaUpsell.continueSearch):
      The first line of the panel popup that tells the user we found no matches

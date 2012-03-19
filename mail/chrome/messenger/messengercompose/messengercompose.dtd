@@ -72,6 +72,8 @@
 <!ENTITY editRewrapCmd.accesskey "w">
 <!ENTITY deleteCmd.label "ਹਟਾਓ">
 <!ENTITY deleteCmd.accesskey "d">
+<!ENTITY renameAttachmentCmd.label "ਅਟੈਚਮੈਂਟ ਨਾਂ ਬਦਲੋ…">
+<!ENTITY renameAttachmentCmd.accesskey "e">
 <!ENTITY selectAllCmd.label "ਸਭ ਚੁਣੋ">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a"> 
@@ -264,6 +266,14 @@
 <!ENTITY selectAll.accesskey "A">
 <!ENTITY attachFile.label "ਫਾਇਲਾਂ ਅਟੈਚ…">
 <!ENTITY attachFile.accesskey "F">
+<!ENTITY attachCloud.label "ਫਾਇਲ ਲਿੰਕ…">
+<!ENTITY attachCloud.accesskey "i">
+<!ENTITY convertCloud.label "…ਵਿੱਚ ਬਦਲੋ">
+<!ENTITY convertCloud.accesskey "C">
+<!ENTITY cancelUpload.label "ਅੱਪਲੋਡ ਰੱਦ ਕਰੋ">
+<!ENTITY cancelUpload.accesskey "n">
+<!ENTITY convertRegularAttachment.label "ਨਿਯਮਤ ਅਟੈਚਮੈਂਟ">
+<!ENTITY convertRegularAttachment.accesskey "A">
 <!ENTITY attachPage.label "ਵੈੱਬ ਪੇਜ਼ ਅਟੈਚ…">
 <!ENTITY attachPage.accesskey "W">
 
