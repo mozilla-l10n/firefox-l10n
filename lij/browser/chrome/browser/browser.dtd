@@ -77,7 +77,7 @@ can reach it easily. -->
 <!ENTITY pageInfoCmd.label "Informaçioìn da Pàgina">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY fullScreenCmd.label "A tùtto schermo">
+<!ENTITY fullScreenCmd.label "A tùtto schèrmo">
 <!ENTITY fullScreenCmd.accesskey "A">
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Fànni védde tùtte e schede">
@@ -88,9 +88,9 @@ can reach it easily. -->
 <!ENTITY fullScreenClose.tooltip "Særa">
 <!ENTITY fullScreenAutohide.label "Ascóndi e bâre">
 <!ENTITY fullScreenAutohide.accesskey "A">
-<!ENTITY fullScreenExit.label "Sciòrti da-o mòddo a tùtto schermo">
+<!ENTITY fullScreenExit.label "Sciòrti da-o mòddo a tùtto schèrmo">
 <!ENTITY fullScreenExit.accesskey "S">
-<!ENTITY domFullScreenWarning.label "Sciàcca ESC pe sciortî dò-u mòddo a tùtto schermo">
+<!ENTITY domFullScreenWarning.label "Sciàcca ESC pe sciortî dò-u mòddo a tùtto schèrmo">
 
 <!ENTITY closeWindow.label "Særa o barcón">
 <!ENTITY closeWindow.accesskey "S">
@@ -457,7 +457,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaShowControls.accesskey "c">
 <!ENTITY mediaHideControls.label     "Ascóndi i contròlli">
 <!ENTITY mediaHideControls.accesskey "c">
-<!ENTITY videoFullScreen.label       "A tùtto schermo">
+<!ENTITY videoFullScreen.label       "A tùtto schèrmo">
 <!ENTITY videoFullScreen.accesskey   "A">
 <!ENTITY videoSaveImage.label        "Sàrva l'inmàgine cómme…">
 <!ENTITY videoSaveImage.accesskey    "S">
@@ -481,7 +481,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
-<!ENTITY fullZoomReduceCmd.label        "Diminoisci zoom">
+<!ENTITY fullZoomReduceCmd.label        "Diminoìsci zoom">
 <!ENTITY fullZoomReduceCmd.accesskey    "o">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
@@ -504,9 +504,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyButton.tooltip             "Còpia">
 <!ENTITY pasteButton.tooltip            "Incòlla">
 
-<!ENTITY fullScreenButton.tooltip       "Fànni védde a tùtto schermo">
+<!ENTITY fullScreenButton.tooltip       "Fànni védde a tùtto schèrmo">
 
-<!ENTITY zoomOutButton.tooltip          "Diminoisci zoom">
+<!ENTITY zoomOutButton.tooltip          "Diminoìsci zoom">
 <!ENTITY zoomInButton.tooltip           "Aoménta zoom">
 <!ENTITY zoomControls.label             "Contròlli do Zoom">
 
