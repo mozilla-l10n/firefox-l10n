@@ -12,6 +12,7 @@
 <!ENTITY quickMode.label "Pokazuj podsumowanie artykułu, zamiast wczytywać stronę internetową">
 <!ENTITY quickMode.accesskey "P">
 
+<!ENTITY locationValidate.label "Sprawdź poprawność">
 <!ENTITY validateText.label "Sprawdź poprawność i pobierz prawidłowy adres URL.">
 
 <!ENTITY button.addFeed.label        "Dodaj">
