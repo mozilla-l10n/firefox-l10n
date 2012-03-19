@@ -1,5 +1,5 @@
 google
-yahoo-tr
+yandex-tr
 wikipedia-tr
 amazondotcom
 eBay
