@@ -4,7 +4,6 @@
 <!ENTITY props.path.label "เส้นทาง:">
 <!ENTITY props.secure.label "ส่งเพื่อ:">
 <!ENTITY props.expires.label "หมดอายุ:">
-<!ENTITY props.policy.label "นโยบาย:">
 
 <!ENTITY button.allow.label "อนุญาต">
 <!ENTITY button.allow.accesskey "อ">

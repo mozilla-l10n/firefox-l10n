@@ -13,6 +13,8 @@
 
 <!ENTITY spellAddToDictionary.label "เพิ่มไปยังพจนานุกรม">
 <!ENTITY spellAddToDictionary.accesskey "ป">
+<!ENTITY spellUndoAddToDictionary.label "ยกเลิกการเพิ่มไปยังพจนานุกรม">
+<!ENTITY spellUndoAddToDictionary.accesskey "ย">
 <!ENTITY spellCheckEnable.label "ตรวจสอบการสะกด">
 <!ENTITY spellCheckEnable.accesskey "ส">
 <!ENTITY spellNoSuggestions.label "(ไม่มีคำสะกดแนะนำ)">
