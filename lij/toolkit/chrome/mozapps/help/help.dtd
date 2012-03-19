@@ -46,7 +46,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY zLevel.label                   "Sénpre in çìmma">
 <!ENTITY zLevel.accesskey               "S">
 
-<!ENTITY fullZoomReduceBtn.label        "Diminoisci zoom">
+<!ENTITY fullZoomReduceBtn.label        "Diminoìsci zoom">
 <!ENTITY fullZoomReduceBtn.accesskey    "o">
 <!ENTITY fullZoomEnlargeBtn.label       "Aoménta zoom">
 <!ENTITY fullZoomEnlargeBtn.accesskey   "A">

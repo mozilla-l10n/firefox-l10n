@@ -8,18 +8,18 @@
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchStartTyping.label         "Çèrca o testo quàndo inìçio a scrîve">
 <!ENTITY searchStartTyping.accesskey     "Ç">
-<!ENTITY blockAutoRefresh.label          "Avèrtime quànde i scîti preuvan a redireçionâ ò recaregâ a pàgina">
+<!ENTITY blockAutoRefresh.label          "Avèrtime quànde i scîti prêuvan a redireçionâ ò recaregâ a pàgina">
 <!ENTITY blockAutoRefresh.accesskey      "p">
 
 <!ENTITY browsing.label                  "Çèrca">
 
-<!ENTITY useAutoScroll.label             "Ûza scorrimento aotomàtico">
+<!ENTITY useAutoScroll.label             "Ûza scoriménto aotomàtico">
 <!ENTITY useAutoScroll.accesskey         "a">
-<!ENTITY useSmoothScrolling.label        "Ûza scorrimento regolâ">
+<!ENTITY useSmoothScrolling.label        "Ûza scoriménto regolâ">
 <!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY allowHWAccel.label              "Ûza l'aceleraçión hardware se gh'é">
 <!ENTITY allowHWAccel.accesskey          "h">
-<!ENTITY checkSpelling.label             "Contròlla o mæ testo intanto che scrîvo">
+<!ENTITY checkSpelling.label             "Contròlla o mæ testo intànto che scrîvo">
 <!ENTITY checkSpelling.accesskey         "t">
 
 <!ENTITY systemDefaults.label            "Predefinîo do scistêma
@@ -84,7 +84,7 @@
 <!ENTITY enableSearchUpdate.label        "Motô de riçèrca">
 <!ENTITY enableSearchUpdate.accesskey    "M">
 
-<!ENTITY offlineNotify.label             "Dìmme quàndo un scîto o domanda de sarvâ dæti pe êse uzæ fêua lìnia">
+<!ENTITY offlineNotify.label             "Dìmme quàndo un scîto o domànda de sarvâ dæti pe êse uzæ fêua lìnia">
 <!ENTITY offlineNotify.accesskey         "t">
 <!ENTITY offlineNotifyExceptions.label   "Eceçioìn…">
 <!ENTITY offlineNotifyExceptions.accesskey "E">
@@ -103,7 +103,7 @@
 <!ENTITY useTLS1.label                   "Ûza TLS 1.0">
 <!ENTITY useTLS1.accesskey               "1">
 <!ENTITY certificates.label              "Certificâti">
-<!ENTITY certSelection.description       "Quàndo un server o domanda i mæ certificâti:">
+<!ENTITY certSelection.description       "Quàndo un server o domànda i mæ certificâti:">
 <!ENTITY certs.auto                      "Seleçionn-a un in aotomàtico">
 <!ENTITY certs.auto.accesskey            "l">
 <!ENTITY certs.ask                       "Domàndamelo tùtte e vòtte">

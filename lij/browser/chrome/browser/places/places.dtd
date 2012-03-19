@@ -2,7 +2,7 @@
 <!ENTITY places.library.title  "Libràia">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
-<!ENTITY organize.label        "Òrganizza">
+<!ENTITY organize.label        "Òrganìzza">
 <!ENTITY organize.accesskey    "Ò">
 <!ENTITY organize.tooltip      "Òrganìzza i teu segnalìbbri">
 
@@ -37,7 +37,7 @@
 
 <!ENTITY cmd.backup.label               "Fànni 'na còpia de seguéssa…">
 <!ENTITY cmd.backup.accesskey           "c">
-<!ENTITY cmd.restore2.label             "Repiggia">
+<!ENTITY cmd.restore2.label             "Repìggia">
 <!ENTITY cmd.restore2.accesskey         "R">
 <!ENTITY cmd.restoreFromFile.label      "Scégli file…">
 <!ENTITY cmd.restoreFromFile.accesskey  "c">

@@ -113,7 +113,7 @@
 <!ENTITY examineCert.label "Fànni védde o certificâto">
 <!ENTITY examineCert.accesskey "v">
 
-<!ENTITY serverCrlNextupdate.message "Pe favô domanda a-o teu aministratô de scistêma pe ascisténsa">
+<!ENTITY serverCrlNextupdate.message "Pe favô domànda a-o teu aministratô de scistêma pe ascisténsa">
 
 <!-- Strings for the CreateCertInfo dialog  -->
 <!ENTITY createCertInfo.title "Genera a mæ ciâve privâ">

@@ -27,7 +27,7 @@
 <!ENTITY fileNotFound.longDesc "<ul><li>Peu êse che l'ògétto l'é stæto rinominòu, scancelòu ò mesciòu?</li><li>Gh'é quàrche erô into l'indirìsso?</li><li>Ti gh'é i pérmissi pe acêde a l'ògétto?</li></ul>">
 
 
-<!ENTITY generic.title "No riêscio a finî a domanda">
+<!ENTITY generic.title "No riêscio a finî a domànda">
 <!ENTITY generic.longDesc "<p>No gh'é son âtre informaçioìn in sciô problêma.</p>">
 
 <!ENTITY malformedURI.title "L'indirìsso o no l'é valido">
@@ -37,7 +37,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Docùmento scæito">
-<!ENTITY notCached.longDesc "<p>O docùmento domandòu o no l'é disponibile inta cache de &brandShortName;.</p><ul><li>Cómme mezûa de seguéssa, o &brandShortName; no te domanda tórna docùmenti sensibili in aotomàtico.</li><li>Sciàcca prêuva ancón pe domandâ tórna o docùmento ao scîto.</li></ul>">
+<!ENTITY notCached.longDesc "<p>O docùmento domandòu o no l'é disponibile inta cache de &brandShortName;.</p><ul><li>Cómme mezûa de seguéssa, o &brandShortName; no te domànda tórna docùmenti sensibili in aotomàtico.</li><li>Sciàcca prêuva ancón pe domandâ tórna o docùmento ao scîto.</li></ul>">
 
 <!ENTITY netOffline.title "Mòddo fêua lìnia">
 <!ENTITY netOffline.longDesc2 "<ul>
