@@ -151,8 +151,8 @@
 <!ENTITY nssFailure2.title "Չհաջողվեց կատարել Պաշտպանված Միացում">
 <!ENTITY nssFailure2.longDesc "
 <ul>
-  <li>The page you are trying to view cannot be shown because the authenticity of the received data could not be verified.</li>
-  <li>Please contact the website owners to inform them of this problem. Alternatively, use the command found in the help menu to report this broken site.</li>
+  <li>Ձեր փնտրվող էջը հնարավոր չէ ցույց տալ,քանի որ ստացված տեղեկությունների վավերականությունը չի հաստատվել:</li>
+  <li>Այս խնդրի մասին տեղեկացնելու համար, խնդրում ենք, կապվեք վեբ կայքի սեփականատերերի հետ:Այլ տարբերակ է` օգնող մենյուում գտնվող հրամանից օգտվելը այս ջարդված կայքի մասին տեղեկացնելու համար:</li>
 </ul>
 ">
 
