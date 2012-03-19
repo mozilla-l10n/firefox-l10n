@@ -1,7 +1,7 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 <!ENTITY abouthome.pageTitle "Начальная страница &brandFullName;">
-<!ENTITY abouthome.searchEngineButton.label "Поиск">
+<!ENTITY abouthome.searchEngineButton.label "Найти">
 <!ENTITY abouthome.aboutMozilla "О Mozilla">
 <!ENTITY abouthome.defaultSnippet1.v1 "Спасибо, что выбрали Firefox! Чтобы использовать ваш браузер по максимуму, узнайте больше о его <a>новейших возможностях</a>.">
 <!ENTITY abouthome.defaultSnippet2.v1 "Вы можете легко настроить Firefox по своему вкусу. <a>Выбирайте из тысяч дополнений</a>.">
