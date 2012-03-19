@@ -1,0 +1,12 @@
+<!ENTITY accountWindow.title           "Propiedades da conta">
+<!ENTITY accountWindow.width           "300">
+<!ENTITY account.general               "Xeral">
+<!ENTITY account.advanced              "Opcións avanzadas">
+<!ENTITY account.name                  "Nome de usuario:">
+<!ENTITY account.password              "Contrasinal:">
+<!ENTITY account.alias                 "Alias:">
+<!ENTITY account.newMailNotification   "Avisarme de correo novo">
+<!ENTITY account.autojoin              "Entrar automaticamente ás canles:">
+<!ENTITY account.proxySettings.caption "Configuración do proxy:">
+<!ENTITY account.proxySettings.change.label     "Cambiar…">
+<!ENTITY account.proxySettings.change.accessKey "C">
