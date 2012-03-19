@@ -78,6 +78,9 @@
 <!ENTITY safeModeDialog.title         "&brandShortName; Անվտանգ Գործակարգ">
 <!ENTITY window.width                 "37em">
 
+<!ENTITY autoSafeModeIntro.label      "&brandShortName; Closed Unexpectedly While Starting">
+<!ENTITY autoSafeModeDescription.label "We sincerely apologize for the inconvenience. &brandShortName; is now running in Safe Mode, which temporarily disables your custom settings, themes, and extensions.">
+
 <!ENTITY safeModeDescription.label    "&brandShortName; այժմ գործում է անվտանգ գործակարգում, որը ժամանակավորապես անջատում է Ձեր անհատական դրույթները, ձեվավորումներն ու հավելումները:">
 <!ENTITY safeModeDescription2.label   "Դուք կարող էք այս փոփոխությունների մի մասը կամ ամբողջը դարձնել մշտական`">
 

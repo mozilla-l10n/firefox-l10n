@@ -51,7 +51,7 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Սպասարկչ">
-<!ENTITY serverType.main.label      "&syncBrand.fullName.label; Սպասարկիչ">
+<!ENTITY serverType.default.label      "Default: Mozilla &syncBrand.fullName.label; server">
 <!ENTITY serverType.custom2.label   "Օգտագործել ընտրված սպասարկիչը…">
 <!ENTITY signIn.account2.label      "Հաշիվ">
 <!ENTITY signIn.account2.accesskey  "Հ">
