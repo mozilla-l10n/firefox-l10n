@@ -16,6 +16,9 @@
 <!ENTITY attachMenu.accesskey "t">
 <!ENTITY attachFileCmd.label "ਫਾਇਲ…">
 <!ENTITY attachFileCmd.accesskey "F">
+<!ENTITY attachFileCmd.key "A">
+<!ENTITY attachCloudCmd.label "Filelink">
+<!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "ਵੈੱਬ ਪੇਜ਼…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->

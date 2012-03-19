@@ -889,6 +889,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY previousMsgButton.label "Previous">
+<!ENTITY previousButtonToolbarItem.label "Previous Unread">
 <!ENTITY previousMsgButton.tooltip "Move to the previous message">
 
 <!ENTITY nextMsgButton.label "Next">
