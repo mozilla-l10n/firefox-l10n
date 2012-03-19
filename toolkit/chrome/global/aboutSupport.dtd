@@ -55,7 +55,13 @@
 <!ENTITY aboutSupport.appBasicsTitle "Տեղեկություն հավելվածի մասին">
 <!ENTITY aboutSupport.appBasicsName "Անուն">
 <!ENTITY aboutSupport.appBasicsVersion "Տարբերակ">
+
 <!ENTITY aboutSupport.appBasicsProfileDir "Պրոֆիլի պահոց">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Profile Folder">
+
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Միացված պլագիններ">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Հավաքման ձևաչափ">
 <!ENTITY aboutSupport.appBasicsUserAgent "Օգտագործողի զննարկիչը">
@@ -63,7 +69,6 @@
 <!ENTITY aboutSupport.appBasicsMemoryUse "Memory Use">
 
 <!ENTITY aboutSupport.showDir.label "Open Directory">
-
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
@@ -77,6 +82,11 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsValue "Արժեքը">
 
 <!ENTITY aboutSupport.graphicsTitle "Գրաֆիկա">
+
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
+
+<!ENTITY aboutSupport.libraryVersionsTitle "Library Versions">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Տեղակայման մատյան">
 <!ENTITY aboutSupport.updateHistoryTitle "Թարմացումների մատյան">

@@ -54,7 +54,6 @@
 <!ENTITY  locbar.bookmarks.label        "Էջանիշեր">
 <!ENTITY  locbar.nothing.label          "Ոչինչ">
 
-
 <!ENTITY  acceptCookies.label           "Ընդունել քուկինար կայքերից">
 <!ENTITY  acceptCookies.accesskey       "c">
 
@@ -103,11 +102,8 @@
 <!ENTITY  privateBrowsingPermanent2.label "Always use private browsing mode">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
-<!ENTITY  rememberHistory.label      "Հիշել այցելած էջերը">
-<!ENTITY  rememberHistory.accesskey  "Հ">
-
-<!ENTITY  rememberDownload.label         "Հիշել բեռնումների պատմությունը">
-<!ENTITY  rememberDownload.accesskey     "Հ">
+<!ENTITY  rememberHistory2.label      "Remember my browsing and download history">
+<!ENTITY  rememberHistory2.accesskey  "b">
 
 <!ENTITY  rememberSearchForm.label       "Հիշել որոնման և ձևերի պատմությունը">
 <!ENTITY  rememberSearchForm.accesskey   "Հ">
