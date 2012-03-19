@@ -5,10 +5,16 @@
 <!ENTITY SearchNameOrEmail.label            "ਨਾਂ ਜਾਂ ਈਮੇਲ">
 
 <!ENTITY deleteAddrBookCard.label           "ਹਟਾਓ">
+<!ENTITY deleteAddrBookCard.accesskey       "D">
 <!ENTITY addrBookCardProperties.label       "ਵਿਸ਼ੇਸ਼ਤਾ">
+<!ENTITY addrBookCardProperties.accesskey   "P">
 <!ENTITY addtoToFieldMenu.label             "ਵੱਲ ਖੇਤਰ ਵਿੱਚ ਸ਼ਾਮਲ">
+<!ENTITY addtoToFieldMenu.accesskey         "A">
 <!ENTITY addtoCcFieldMenu.label             "Cc ਖੇਤਰ ਵਿੱਚ ਸ਼ਾਮਲ">
+<!ENTITY addtoCcFieldMenu.accesskey         "C">
 <!ENTITY addtoBccFieldMenu.label            "Bcc ਖੇਤਰ ਵਿੱਚ ਸ਼ਾਮਲ">
+<!ENTITY addtoBccFieldMenu.accesskey        "B">
+
 
 <!ENTITY toButton.label                     "ਵੱਲ ਵਿੱਚ ਸ਼ਾਮਲ:">
 <!ENTITY toButton.accesskey                 "A">

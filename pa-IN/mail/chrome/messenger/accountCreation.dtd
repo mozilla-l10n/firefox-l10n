@@ -49,6 +49,8 @@
 <!ENTITY half-manual-test.accesskey      "t">
 <!ENTITY manual-edit.label               "ਖੁਦ ਸੰਰਚਨਾ ਕਰੋ">
 <!ENTITY manual-edit.accesskey           "M">
+<!ENTITY switch-to-provisioner.label     "ਇੱਕ ਨਵਾਂ ਅਕਾਊਂਟ ਬਣਾਓ">
+<!ENTITY switch-to-provisioner.accesskey "G">
 
 
 <!ENTITY warning.label                   "ਸਾਵਧਾਨ!">

@@ -117,6 +117,8 @@
 <!ENTITY deleteAllAttachmentsCmd.label    "Delete All…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
 
+<!ENTITY openAttachment.tooltip "Open the attached file">
+
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Save">
 <!ENTITY saveAttachmentButton1.tooltip     "Save the attached file">
@@ -127,5 +129,9 @@
 <!ENTITY copyLinkCmd.accesskey    "C">
 
 <!ENTITY CopyMessageId.label "Copy Message-ID">
+<!ENTITY CopyMessageId.accesskey "C">
 <!ENTITY OpenMessageForMsgId.label "Open Message For ID">
+<!ENTITY OpenMessageForMsgId.accesskey "O">
 <!ENTITY OpenBrowserWithMsgId.label "Open Browser With Message-ID">
+<!ENTITY OpenBrowserWithMsgId.accesskey "B">
+

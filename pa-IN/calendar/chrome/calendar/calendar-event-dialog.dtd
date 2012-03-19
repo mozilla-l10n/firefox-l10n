@@ -148,8 +148,8 @@
 <!ENTITY  event.menu.options.inline.spellcheck.accesskey      "S">
 <!ENTITY  event.menu.options.link.label                       "Add Link…">
 <!ENTITY  event.menu.options.link.accesskey                   "L">
-<!ENTITY  event.menu.options.timezone.label                   "Timezone">
-<!ENTITY  event.menu.options.timezone.accesskey               "z">
+<!ENTITY  event.menu.options.timezone2.label                  "Show Timezones">
+<!ENTITY  event.menu.options.timezone2.accesskey              "z">
 <!ENTITY  event.menu.options.priority2.label                  "Priority">
 <!ENTITY  event.menu.options.priority2.accesskey              "y">
 <!ENTITY  event.menu.options.priority.notspecified.label      "Not specified">
@@ -186,9 +186,9 @@
 <!ENTITY  event.toolbar.save.label                        "ਸੰਭਾਲੋ ਅਤੇ ਬੰਦ ਕਰੋ">
 <!ENTITY  event.toolbar.delete.label                      "ਹਟਾਓ">
 <!ENTITY  event.toolbar.attendees.label                   "ਦਰਸ਼ਕ ਸੱਦਾ">
-<!ENTITY  event.toolbar.spellcheck.label                  "Spellcheck">
-<!ENTITY  event.toolbar.privacy.label                     "Privacy">
-<!ENTITY  event.toolbar.attachments.label                 "Attach">
+<!ENTITY  event.toolbar.spellcheck.label                  "ਸ਼ਬਦਜੋੜ ਜਾਂਚ">
+<!ENTITY  event.toolbar.privacy.label                     "ਪਰਾਈਵੇਸੀ">
+<!ENTITY  event.toolbar.attachments.label                 "ਅਟੈਚ">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "ਨਾਂ:" >
@@ -219,13 +219,13 @@
 <!ENTITY event.reminder.accesskey                         "m">
 <!ENTITY event.description.label                          "Description:" >
 <!ENTITY event.description.accesskey                      "p">
-<!ENTITY event.attachments.label                          "Attachments:" >
+<!ENTITY event.attachments.label                          "ਅਟੈਚਮੈਂਟ:" >
 <!ENTITY event.attachments.accesskey                      "h" >
-<!ENTITY event.attachments.popup.remove.label             "Remove" >
+<!ENTITY event.attachments.popup.remove.label             "ਹਟਾਓ" >
 <!ENTITY event.attachments.popup.remove.accesskey         "R" >
-<!ENTITY event.attachments.popup.open.label               "Open" >
+<!ENTITY event.attachments.popup.open.label               "ਖੋਲ੍ਹੋ" >
 <!ENTITY event.attachments.popup.open.accesskey           "O" >
-<!ENTITY event.attachments.popup.removeAll.label          "Remove All" >
+<!ENTITY event.attachments.popup.removeAll.label          "ਸਭ ਹਟਾਓ" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "A" >
 <!ENTITY event.attachments.popup.attachPage.label         "Attach Webpage…" >
 <!ENTITY event.attachments.popup.attachPage.accesskey     "W" >
@@ -360,8 +360,6 @@
 <!ENTITY event.freebusy.next.slot               "Next slot " >
 <!ENTITY event.freebusy.previous.slot           " Previous slot" >
 <!ENTITY event.freebusy.zoom                    "Zoom:">
-<!ENTITY event.freebusy.plus                    "Next hour" >
-<!ENTITY event.freebusy.minus                   "Previous hour" >
 <!ENTITY event.freebusy.legend.free             "ਵੇਹਲਾ" >
 <!ENTITY event.freebusy.legend.busy             "ਰੁੱਝਿਆ" >
 <!ENTITY event.freebusy.legend.busy_tentative   "Tentative" >
@@ -373,7 +371,8 @@
 <!ENTITY event.attendee.role.nonparticipant     "Non Participant">
 
 <!-- Timezone dialog -->
-<!ENTITY timezone.title.label            "Please Specify the Timezone">
+<!ENTITY timezone.title.label            "ਸਮਾਂ-ਖੇਤਰ ਦਿਉ">
+<!ENTITY event.timezone.custom.label     "ਹੋਰ ਸਮਾਂ-ਖੇਤਰ…">
 
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "ਆਮ">
@@ -386,7 +385,7 @@
 <!ENTITY read.only.location.label        "ਟਿਕਾਣਾ:">
 <!ENTITY read.only.category.label        "Category:">
 <!ENTITY read.only.organizer.label       "Organizer:">
-<!ENTITY read.only.reply.label           "Reply:">
+<!ENTITY read.only.reply.label           "ਜਵਾਬ:">
 <!ENTITY read.only.accept.label          "I will attend">
 <!ENTITY read.only.decline.label         "I will not attend">
 <!ENTITY read.only.tentative.label       "I might attend">

@@ -6,6 +6,8 @@
 <!ENTITY accountActionsButton.accesskey "A">
 <!ENTITY addMailAccountButton.label "ਮੇਲ ਅਕਾਊਂਟ ਜੋੜੋ…">
 <!ENTITY addMailAccountButton.accesskey "A">
+<!ENTITY addIMAccountButton.label "ਗੱਲਬਾਤ ਅਕਾਊਂਟ ਜੋੜੋ…">
+<!ENTITY addIMAccountButton.accesskey "C">
 <!ENTITY addOtherAccountButton.label "ਹੋਰ ਅਕਾਊਂਟ ਜੋੜੋ…">
 <!ENTITY addOtherAccountButton.accesskey "O">
 <!ENTITY setDefaultButton.label "ਡਿਫਾਲਟ ਵਜੋਂ ਸੈੱਟ ਕਰੋ">

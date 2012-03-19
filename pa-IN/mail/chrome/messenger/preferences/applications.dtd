@@ -17,3 +17,19 @@
 <!ENTITY chooseFolderWin.accesskey    "B">
 <!ENTITY chooseFolderMac.label        "ਚੁਣੋ…">
 <!ENTITY chooseFolderMac.accesskey    "C">
+
+<!ENTITY attachments.incoming.label   "ਆਉਣ">
+<!ENTITY attachments.outgoing.label   "ਭੇਜਣ">
+
+<!ENTITY addCloudFileAccount.label        "ਸ਼ਾਮਲ">
+<!ENTITY addCloudFileAccount.accesskey    "A">
+<!ENTITY addCloudFileAccount.description  "Add a new Filelink storage service">
+<!ENTITY removeCloudFileAccount.label     "ਹਟਾਓ">
+<!ENTITY removeCloudFileAccount.accesskey "R">
+<!ENTITY authRequired.description         "Your authorization is required in order to see the settings for this storage service.">
+<!ENTITY authRequired.button.label        "ਪਰਮਾਣਿਤ">
+<!ENTITY authRequired.button.accesskey    "U">
+
+<!ENTITY enableCloudFileAccountOffer.label "Offer to share for files larger than">
+<!ENTITY enableCloudFileAccountOffer.mb "MB">
+
