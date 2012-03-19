@@ -27,9 +27,13 @@
 
 <!ENTITY awesomebar_default_text "กรอกคำค้นหรือที่อยู่เว็บ">
 
+<!ENTITY remote_tabs "แท็บจากการผสานข้อมูล">
+<!ENTITY remote_tabs_show_all "แสดงแท็บทั้งหมด">
+
 <!ENTITY bookmark "ที่คั่นหน้า">
 <!ENTITY bookmark_added "เพิ่มที่คั่นหน้าแล้ว">
-<!ENTITY bookmark_removed "ที่คั่นหน้าถูกลบแล้ว">
+<!ENTITY bookmark_removed "ลบที่คั่นหน้าแล้ว">
+<!ENTITY bookmark_updated "แก้ไขที่คั่นหน้าแล้ว">
 
 <!ENTITY history_today_section "วันนี้">
 <!ENTITY history_yesterday_section "เมื่อวาน">
@@ -40,6 +44,7 @@
 <!ENTITY forward "หน้าถัดไป">
 
 <!ENTITY new_tab "แท็บใหม่">
+<!ENTITY new_tab_opened "เปิดแท็บใหม่">
 
 <!ENTITY settings "การตั้งค่า">
 <!ENTITY settings_title "การตั้งค่า">
@@ -78,12 +83,19 @@
 <!ENTITY char_encoding "รหัสอักขระ">
 
 <!ENTITY share "แบ่งปัน">
+<!ENTITY share_title "แบ่งปันโดย">
 <!ENTITY save_as_pdf "บันทึกเป็น PDF">
 
 <!ENTITY contextmenu_open_new_tab "เปิดในแท็บใหม่">
 <!ENTITY contextmenu_remove_bookmark "ลบ">
 <!ENTITY contextmenu_add_to_launcher "เพิ่มลงหน้าจอแรก">
 <!ENTITY contextmenu_share "แบ่งปัน">
+<!ENTITY contextmenu_edit_bookmark "แก้ไข">
+
+<!ENTITY bookmark_edit_title "แก้ไขที่คั่นหน้า">
+<!ENTITY bookmark_edit_name "ชื่อ">
+<!ENTITY bookmark_edit_location "ตำแหน่ง">
+<!ENTITY bookmark_edit_keyword "คำค้น">
 
 <!ENTITY site_settings_title        "ล้างการตั้งค่าสำหรับเว็บไซต์">
 <!ENTITY site_settings_cancel       "ยกเลิก">
