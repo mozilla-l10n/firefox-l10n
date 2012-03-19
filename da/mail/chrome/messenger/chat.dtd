@@ -23,10 +23,10 @@
 <!ENTITY aliasCmd.label                "Omdøb">
 <!ENTITY aliasCmd.accesskey            "O">
 <!ENTITY deleteCmd.label               "Fjern kontakt">
-<!ENTITY deleteCmd.accesskey           "v">
+<!ENTITY deleteCmd.accesskey           "F">
 
 <!ENTITY openConversationButton.tooltip  "Start en samtale">
-<!ENTITY closeConversationButton.tooltip "Luk samtale">
+<!ENTITY closeConversationButton.tooltip "Luk samtalen">
 
 <!ENTITY addBuddyButton.label          "Tilføj kontakt">
 <!ENTITY joinChatButton.label          "Deltag i chat">

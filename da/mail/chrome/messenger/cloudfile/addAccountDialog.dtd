@@ -1,0 +1,12 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+<!ENTITY addAccountDialog.title   "Konfigurer Filelink">
+<!ENTITY addAccountDialog.menuTitle "Vælg en online opbevaringstjeneste">
+<!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">
+<!ENTITY addAccountDialog.accountName.label "Kontonavn:">
+<!ENTITY addAccountDialog.noAccountText "Den nuværende version af &brandShortName; tillader kun én konto for hver opbevaringstjeneste.">
+<!ENTITY addAccountDialog.createAccountText "Denne funktion tillader dig at sende store filer ved at benytte en online opbevaringstjeneste. Du kan enten benytte en eksisterende konto, eller du kan oprette en ny konto.">
+<!ENTITY addAccountDialog.authorizing "Tjekker godkendelse...">
+<!ENTITY addAccountDialog.error "Der opstod en fejl ved oprettelse af kontoen!">
+<!ENTITY addAccountDialog.acceptButton.label "Opret konto">
