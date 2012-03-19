@@ -10,4 +10,4 @@
 <!ENTITY addAccountDialog.createAccountText "Filelink pozwala wysyłać duże załączniki przy użyciu serwisów przechowywania plików. Możliwe jest dodanie istniejącego konta lub utworzenie nowego.">
 <!ENTITY addAccountDialog.authorizing "Sprawdzanie upoważnienia…">
 <!ENTITY addAccountDialog.error "Wystąpił błąd podczas konfigurowania konta!">
-<!ENTITY addAccountDialog.acceptButton.label "Konfiguruj konto">
+<!ENTITY addAccountDialog.acceptButton.label "Skonfiguruj konto">
