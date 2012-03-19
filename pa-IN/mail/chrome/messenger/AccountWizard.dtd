@@ -70,6 +70,8 @@
 <!ENTITY popType.accesskey "P">
 <!ENTITY leaveMsgsOnSrvr.label "ਸੁਨੇਹੇ ਸਰਵਰ ਉੱਤੇ ਰਹਿਣ ਦਿਓ">
 <!ENTITY leaveMsgsOnSrvr.accesskey "L">
+<!ENTITY portNum.label "Port:">
+<!ENTITY portNum.accesskey "o">
 <!ENTITY defaultPortLabel.label "Default:">
 <!ENTITY defaultPortValue.label "">
 
@@ -95,6 +97,12 @@
 <!ENTITY haveSmtp1.prefix "Your existing outgoing server (SMTP), &quot;">
 <!ENTITY haveSmtp1.suffix3 "&quot;, will be used.">
 
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
+-->
+<!ENTITY haveSmtp2.prefix "Your existing outgoing (SMTP) username, &quot;">
+<!ENTITY haveSmtp2.suffix3 "&quot;, will be used.">
 
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting

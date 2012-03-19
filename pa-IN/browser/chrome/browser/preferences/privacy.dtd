@@ -67,12 +67,6 @@
 <!ENTITY  rememberHistory2.label      "ਮੇਰੇ ਬਰਾਊਜ਼ ਕਰਨ ਅਤੇ ਡਾਊਨਲੋਡ ਅਤੀਤ ਨੂੰ ਯਾਦ ਰੱਖੋ">
 <!ENTITY  rememberHistory2.accesskey  "b">
 
-<!ENTITY  rememberHistory.label      "ਮੇਰੀ ਬਰਾਊਜ਼ਿੰਗ ਅਤੀਤ ਨੂੰ ਯਾਦ ਰੱਖੋ">
-<!ENTITY  rememberHistory.accesskey  "b">
-
-<!ENTITY  rememberDownload.label         "ਡਾਊਨਲੋਡ ਅਤੀਤ  ਯਾਦ ਰੱਖੋ">
-<!ENTITY  rememberDownload.accesskey     "d">
-
 <!ENTITY  rememberSearchForm.label       "ਖੋਜ ਅਤੇ ਫਾਰਮ ਅਤੀਤ ਯਾਦ ਰੱਖੋ">
 <!ENTITY  rememberSearchForm.accesskey   "f">
 

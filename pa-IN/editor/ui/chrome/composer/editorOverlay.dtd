@@ -41,16 +41,8 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
-
 <!-- File menu items -->
-
-
-
-<!ENTITY saveCmd.label "ਸੰਭਾਲੋ">
-
-<!ENTITY publishAsCmd.label "ਇੰਝ ਪਬਲਿਸ਼ ਕਰੋ…">
-<!ENTITY publishAsCmd.accesskey "h">
-
+<!ENTITY saveCmd.key "S">
 <!-- Edit menu items -->
 
 <!ENTITY pasteNoFormatting.label "ਬਿਨਾਂ ਫਾਰਮੈਟ ਦੇ ਹੀ ਚੇਪੋ">
@@ -192,6 +184,7 @@
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "ਨਾਂ ਵਾਲੇ ਐਂਕਰ ਹਟਾਓ">
 <!ENTITY formatRemoveNamedAnchors.accesskey "R">
+<!ENTITY formatRemoveNamedAnchors2.key "R">
 
 
 <!ENTITY paragraphMenu.label "ਪ੍ਹੈਰਾ">
