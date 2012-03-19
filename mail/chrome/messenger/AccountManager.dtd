@@ -6,6 +6,8 @@
 <!ENTITY accountActionsButton.accesskey "a">
 <!ENTITY addMailAccountButton.label "Dodaj račun e-pošte…">
 <!ENTITY addMailAccountButton.accesskey "a">
+<!ENTITY addIMAccountButton.label "Dodaj račun za čavrljanje…">
+<!ENTITY addIMAccountButton.accesskey "v">
 <!ENTITY addOtherAccountButton.label "Dodaj drugi račun…">
 <!ENTITY addOtherAccountButton.accesskey "o">
 <!ENTITY setDefaultButton.label "Postavi kao zadani">
