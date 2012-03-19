@@ -1,7 +1,9 @@
 <!ENTITY identitiesListDesc.label "Aceptación de varias identidades">
 <!ENTITY identitiesListAdd.label  "Engadir…">
-<!ENTITY identitiesListAdd.accesskey  "n">
+<!ENTITY identitiesListAdd.accesskey  "a">
 <!ENTITY identitiesListEdit.label "Editar…">
 <!ENTITY identitiesListEdit.accesskey "E">
-<!ENTITY identitiesListDelete.label "Borrar">
-<!ENTITY identitiesListDelete.accesskey "o">
+<!ENTITY identitiesListDelete.label "Eliminar">
+<!ENTITY identitiesListDelete.accesskey "m">
+<!ENTITY identitiesListClose.label "Pechar">
+<!ENTITY identitiesListClose.accesskey "c">
