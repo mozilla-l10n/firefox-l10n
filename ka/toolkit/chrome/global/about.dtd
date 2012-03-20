@@ -1,19 +1,27 @@
 <!ENTITY about.version                "ვერსია">
 
-<!ENTITY about.copy.beforeLink        "საავტორო უფლება &copy; 1998-2008 -">
-<!ENTITY about.copy.linkTitle         "შემმუშავებლები">
-<!ENTITY about.copy.afterLink         "Mozilla პროექტიდან.">
+<!-- LOCALIZATION NOTE (about.credits.beforeLink): note that there is no space between this phrase and the linked about.credits.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
+<!ENTITY about.credits.beforeLink     "იხილეთ ">
+<!ENTITY about.credits.linkTitle      "მონაწილეთა სია">
+<!-- LOCALIZATION NOTE (about.credits.afterLink): note that there is no space between the linked about.credits.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
+<!ENTITY about.credits.afterLink      " Mozilla-ს პროექტიდან.">
 
-<!ENTITY about.license.beforeLink     "გაეცანით">
+<!-- LOCALIZATION NOTE (about.license.beforeTheLink): note that there is no space between this phrase and the linked about.license.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
+<!ENTITY about.license.beforeTheLink  "გაეცანით">
 <!ENTITY about.license.linkTitle      "სალიცენზიო შეთანხმებას">
-<!ENTITY about.license.afterLink      "ამ პროდუქტისთვის.">
+<!-- LOCALIZATION NOTE (about.license.afterTheLink): note that there is no space between the linked about.license.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
+<!ENTITY about.license.afterTheLink   "ამ პროდუქტისთვის.">
 
-<!ENTITY about.relnotes.beforeLink    "გაეცანით">
+<!-- LOCALIZATION NOTE (about.relnotes.beforeTheLink): note that there is no space between this phrase and the linked about.relnotes.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
+<!ENTITY about.relnotes.beforeTheLink "გაეცანით">
 <!ENTITY about.relnotes.linkTitle     "გამოშვების მონაცემებს">
-<!ENTITY about.relnotes.afterLink     "ამ ვერსიისთვის.">
+<!-- LOCALIZATION NOTE (about.relnotes.afterTheLink): note that there is no space between the linked about.relnotes.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
+<!ENTITY about.relnotes.afterTheLink  "ამ ვერსიისთვის.">
 
-<!ENTITY about.buildconfig.beforeLink "იხილეთ">
+<!-- LOCALIZATION NOTE (about.buildconfig.beforeTheLink): note that there is no space between this phrase and the linked about.buildconfig.linkTitle phrase, so if your locale needs a space between words, add it at the end of this entity. -->
+<!ENTITY about.buildconfig.beforeTheLink "იხილეთ">
 <!ENTITY about.buildconfig.linkTitle  "აგების კონფიგურაცია">
-<!ENTITY about.buildconfig.afterLink  "ამ ვერსიისთვის.">
+<!-- LOCALIZATION NOTE (about.buildconfig.afterTheLink): note that there is no space between the linked about.buildconfig.linkTitle phrase and this phrase, so if your locale needs a space between words, add it at the start of this entity. -->
+<!ENTITY about.buildconfig.afterTheLink "ამ ვერსიისთვის.">
 
 <!ENTITY about.buildIdentifier        "აგების კოდი: ">

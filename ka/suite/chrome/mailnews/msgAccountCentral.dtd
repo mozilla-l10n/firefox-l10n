@@ -55,6 +55,6 @@
 <!ENTITY junkSettings.label           "ჯართის პარამეტრები">
 <!ENTITY offlineLink.label            "ავტონომიური რეჟიმის პარამეტრები">
 
-<!ENTITY rssSectionHdr.label          "RSS სიახლეები და ბლოკები"> 
-<!ENTITY subscibeRSS.label            "ხელმოწერების მართვა"> 
+<!ENTITY feedsSectionHdr.label        "არხები">
+<!ENTITY subscribeFeeds.label         "ხელმოწერების მართვა">
 

@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+﻿<!-- ***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1/GPL 2.0/LGPL 2.1
 
  The contents of this file are subject to the Mozilla Public License Version
@@ -45,11 +45,16 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 -->
 
 <!ENTITY importDialog.windowTitle "იმპორტი">
-<!ENTITY importDialog.allTitle    "ყველაფრის იმპორტი">
-<!ENTITY importDialog.mailTitle   "ფოსტა">
-<!ENTITY importDialog.addressbookTitle "წიგნაკები">
-<!ENTITY importDialog.settingsTitle "პარამეტრები">
-<!ENTITY importDialog.filtersTitle "ფილტრები">
+<!ENTITY importAll.label          "ყველას იმპორტი">
+<!ENTITY importAll.accesskey      "E">
+<!ENTITY importMail.label         "ფოსტა">
+<!ENTITY importMail.accesskey     "M">
+<!ENTITY importAddressbook.label  "წიგნაკი">
+<!ENTITY importAddressbook.accesskey "A">
+<!ENTITY importSettings.label     "პარამეტრები">
+<!ENTITY importSettings.accesskey "S">
+<!ENTITY importFilters.label      "ფილტრები">
+<!ENTITY importFilters.accesskey  "F">
 
 <!ENTITY  window.width            "45em">
 <!ENTITY  window.macWidth         "50em">
@@ -61,6 +66,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importDescription2.label "იმპორტის შემდეგ მათი გამოყენება დაუყოვნებლივ შეგეძლებათ &brandShortName; პროგრამაში.">
 
 <!ENTITY selectDescription.label  "გთხოვთ მიუთითოთ ფაილის ტიპი, რომლიდანაც გსურთ მონაცემთა იმპორტი:">
+<!ENTITY selectDescription.accesskey "P">
 
 <!ENTITY back.label               "&lt; უკან">
 <!ENTITY forward.label            "შემდეგი &gt;">
@@ -71,9 +77,3 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 <!ENTITY title.label              "სათაური">
 <!ENTITY processing.label         "იმპორტი…">
-
-<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x-ს აქვს ერთი წიგნაკი, მაშინ როცა &brandShortName;-ს აქვს ორი (ბინა და სამსახური).">
-<!ENTITY FieldDiscInputText2.label  "აირჩიეთ კატეგორია, რომელშიც გსურთ იმპორტირებული მისამართების შენახვა:">
-<!ENTITY FieldDiscWarning.label  "ეს კატეგორია გამოიყენება არჩეული წიგნაკის ყველა დანარჩენი ველებისათვის: ">
-<!ENTITY importDialog.homeTitle  "ბინა">
-<!ENTITY importDialog.workTitle  "სამსახური">

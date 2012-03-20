@@ -3,6 +3,6 @@
 <!ENTITY  newMessageCmd.label             "წერილი">
 <!ENTITY  newMessageCmd.accesskey         "m">
  
-<!ENTITY  newCardCmd.label                "წიგნაკის ბარათი…">
-<!ENTITY  newCardCmd.accesskey            "c">
+<!ENTITY  newContactCmd.label             "კონტაქტი…">
+<!ENTITY  newContactCmd.accesskey         "C">
  

@@ -6,5 +6,4 @@
 <!ENTITY actionColumn2.label     "ქმედება">
 <!ENTITY actionColumn2.accesskey "A">
 
-<!ENTITY filter.label            "ძიება:">
-<!ENTITY filter.accesskey        "S">
+<!ENTITY search.placeholder      "ტიპები და ქმედებების ძიება">

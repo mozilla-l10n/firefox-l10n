@@ -164,6 +164,9 @@
 <!ENTITY updateCmd.label                        "შემოწმება განახლებაზე…">
 <!ENTITY updateCmd.accesskey                    "o">
 
+<!ENTITY sunbird.export.calendar.label                     "კალენდრის ექსპორტი…">
+<!ENTITY sunbird.export.calendar.accesskey                 "E">
+
 <!-- Mac OS X "Window" menu items -->
 <!ENTITY windowMenu.label                       "ფანჯარა">
 <!ENTITY minimizeWindow.label                   "მინიმიზება">

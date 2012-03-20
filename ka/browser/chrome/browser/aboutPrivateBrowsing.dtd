@@ -1,13 +1,24 @@
-<!ENTITY privatebrowsingpage.tabtitle                  "პირადი სეანსი">
-
-<!ENTITY privatebrowsingpage.pagetitle                 "პირადი სეანსი">
+<!ENTITY privatebrowsingpage.title                 "პირადი სეანსი">
+<!ENTITY privatebrowsingpage.title.normal          "გნებავთ პირადი სეანსის დაწყება?">
 
 <!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; ამ სეანსის ისტორიას არ შეინახავს.">
-<!ENTITY privatebrowsingpage.longDesc                  "ამ სეანსზე &brandShortName; პროგრამის მიერ ისტორია არ შეინახება.  იგულისხმება საიტების, ძიების, ჩამოტვირთვების, ვებ ფორმების ისტორიები, ნაჭდევები და დროებითი ინტერნეტ ფაილები.  თუმცა, თქვენს მიერ ჩამოტვირთული ფაილები და შექმნილი სანიშნეები შენარჩუნდება.">
+<!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; ამ დროისთვის არაა პირადი სეანსის რეჟიმში.">
 
-<!ENTITY privatebrowsingpage.clearRecentHistoryDesc    "შესაძლოა ასევე მოისურვოთ დაწყება თქვენი უახლესი ისტორიის წაშლით.">
-<!ENTITY privatebrowsingpage.clearRecentHistory.label  "უახლესი ისტორიის გასუფთავება…">
-<!ENTITY privatebrowsingpage.clearRecentHistory.accesskey "C">
+<!ENTITY privatebrowsingpage.description               "პირადი სეანსის რეჟიმში &brandShortName; პროგრამის ისტორია არ შეინახავს.  იგულისხმება საიტების გახსნის, ძიების, ჩამოტვირთვების, ვებ ფორმების ისტორიები, ნაჭდევები და დროებითი ინტერნეტ ფაილები.  თუმცა, თქვენს მიერ ჩამოტვირთული ფაილები და შექმნილი სანიშნეები შენარჩუნდება.">
 
-<!ENTITY privatebrowsingpage.howToStopDesc             "პირადი სეანსის შესანახად, ამორთეთ სამარჯვებიდან &gt; პირადი სეანსი.">
-<!ENTITY privatebrowsingpage.footerDesc                "ისიამოვნეთ!">
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
+<!ENTITY privatebrowsingpage.clearRecentHistoryBefore    "შესაძლოა ასევე მოისურვოთ დაწყება ">
+<!ENTITY privatebrowsingpage.clearRecentHistoryInner   "უახლესი ისტორიის გასუფთავებით">
+<!ENTITY privatebrowsingpage.clearRecentHistoryAfter   ".">
+
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.label "პირადი სეანსის დაწყება">
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "P">
+
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStop2): please leave &basePBMenu.label; intact in the translation -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart2): please leave &basePBMenu.label; intact in the translation -->
+<!ENTITY privatebrowsingpage.howToStop2                 "პირადი სეანსის შესაწყვეტად, მიუთითეთ &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;, ან დახურეთ &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStart2                "პირადი სეანსის დასაწყებად აგერთვე შეგიძლიათ მიუთითოთ &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+
+<!ENTITY privatebrowsingpage.moreInfo                  "თუმცა კომპიუტერზე თქვენი საიტების ისტორია არ ჩაიწერება, მაგრამ ინტერნეტ მომსახურების პროვაიდერს მაინც შეუძლია თქვენი ნანახი გვერდების თვალმიდევნება.">
+<!ENTITY privatebrowsingpage.learnMore                 "დაწვრილებით">

@@ -1,12 +1,12 @@
-<!ENTITY  pref.editing.title        "ახალი გვერდის პარამეტრები">
+﻿<!ENTITY  pref.editing.title        "ახალი გვერდის პარამეტრები">
 
 <!ENTITY  authorName.label          "ავტორი:">
 <!ENTITY  authorName.accesskey      "u">
 <!ENTITY  pageColorHeader           "გვერდის ძირითადი იერსახე">
 
-<!ENTITY defaultColors.label   "ძირითადი საკითხავი ფერები (გვერდის ფერები არ მიეთითება)">
+<!ENTITY defaultColors.label        "ძირითადი საკითხავი ფერები (გვერდის ფერები არ მიეთითება)">
 <!ENTITY defaultColors.accesskey    "d">
-<!ENTITY customColors.label    "თქვენი ფერების გამოყენება:">
+<!ENTITY customColors.label         "თქვენი ფერების გამოყენება:">
 <!ENTITY customColors.accesskey     "c">
 
 <!ENTITY normalText.label           "ჩვეულებრივი ტექსტი">

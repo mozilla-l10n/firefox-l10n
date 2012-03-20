@@ -49,6 +49,3 @@
 <!ENTITY pref.defaultlength.accesskey "E">
 <!ENTITY pref.defaultsnoozelength.label "სიგნალის ნაგულისხმები სიგრძე:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "S">
-<!ENTITY pref.refreshbox.label "პარამეტრების განახლება" >
-<!ENTITY pref.autorefresh.label "კალენდრის განახლება ყოველ" >
-<!ENTITY pref.autorefresh.accesskey "R" >

@@ -12,3 +12,7 @@
 
 <!ENTITY searchOnline.label "ძიება კავშირის რეჟიმში (იძლევა განახლებულ შედეგებს IMAP და სიახლეების დასტებიდან, თუმცა დასტის გახსნის დრო იზრდება)">
 <!ENTITY searchOnline.accesskey "S">
+<!ENTITY newFolderButton.label         "შექმნა">
+<!ENTITY newFolderButton.accesskey     "r">
+<!ENTITY editFolderButton.label        "განახლება">
+<!ENTITY editFolderButton.accesskey    "U">

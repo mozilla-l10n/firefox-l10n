@@ -1,0 +1,4 @@
+<!ENTITY quota.dialogTitle.label    "ქვოტა სერვერზე">
+<!ENTITY quota.retrievingInfo.label "ქვოტის მონაცემთა წაკითხვა…">
+<!ENTITY quota.typeColumn.label     "ტიპი">
+<!ENTITY quota.sizeColumn.label     "ზომა">

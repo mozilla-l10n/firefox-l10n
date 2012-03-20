@@ -1,0 +1,11 @@
+<!ENTITY % brandDTD
+    SYSTEM "chrome://branding/locale/brand.dtd">
+    %brandDTD;
+
+<!-- These strings are used in the sync progress upload page -->
+<!ENTITY syncProgress.pageTitle    "თქვენი პირველი სინქრონიზაცია">
+<!ENTITY syncProgress.textBlurb    "თქვენი მონაცემები იშიფრება და იტვირთება ფონურ რეჟიმში. შეგიძლიათ დახუროთ ეს დაფა და გააგრძელოთ &brandShortName; პროგრამით სარგებლობა.">
+<!ENTITY syncProgress.closeButton  "დახურვა">
+<!ENTITY syncProgress.logoAltText  "&brandShortName; ლოგო">
+<!ENTITY syncProgress.diffText     "&brandShortName; ფონურად თვითსინქრონიზდება.  შეგიძლიათ დახუროთ ეს დაფა და გააგრძელოთ &brandShortName; პროგრამით სარგებლობა.">
+

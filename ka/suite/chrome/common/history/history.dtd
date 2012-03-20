@@ -1,35 +1,53 @@
-<!-- extracted from ./history.xul -->
+<!-- history.xul, history-panel.xul, placesOverlay.xul -->
 
-<!ENTITY menuBar.tooltip            "მენიუს პანელი">
-<!ENTITY fileMenu.label             "ფაილი">
-<!ENTITY closeCmd.label             "დახურვა">
-<!ENTITY editMenu.label             "რედაქტირება"> 
-<!ENTITY undoCmd.label              "დაბრუნება">
-<!ENTITY redoCmd.label              "გამეორება">
-<!ENTITY cutCmd.label               "ამოჭრა">
-<!ENTITY copyCmd.label              "კოპირება">
-<!ENTITY pasteCmd.label             "ჩასმა">
-<!ENTITY deleteCmd.label            "წაშლა">
-<!ENTITY deleteHostnameCmd.accesskey "H">
-<!ENTITY deleteDomainCmd.accesskey  "s">
-<!ENTITY selAllCmd.label            "სრული მონიშვნა">
-<!ENTITY findHisCmd.label           "ძიება ისტორიაში…">
-<!ENTITY findHisCmd.commandkey      "f">
-<!ENTITY findHisCmd.accesskey       "S">
-<!ENTITY groupBy.label              "დაჯგუფება">
-<!ENTITY groupBy.accesskey          "G">
-<!ENTITY groupByDay.label           "დღე">
-<!ENTITY groupByDay.accesskey       "D">
-<!ENTITY groupBySite.label          "საიტი">
-<!ENTITY groupBySite.accesskey      "S">
-<!ENTITY groupByNone.label          "არა">
-<!ENTITY groupByNone.accesskey      "N">
-<!ENTITY historyWindowTitle.label   "ისტორია">
-<!ENTITY menuitem.view.unsorted.label "უწესრიგოდ">
-<!ENTITY menuitem.view.unsorted.accesskey "u">
-<!ENTITY sortAscending.label         "აღმავალი">
-<!ENTITY sortAscending.accesskey     "A">
-<!ENTITY sortDescending.label        "დაღმავალი">
-<!ENTITY sortDescending.accesskey    "D">
-<!ENTITY menuitem.view.show_columns.label "სვეტების ჩვენება">
-<!ENTITY menuitem.view.show_columns.accesskey "S">
+<!ENTITY historyWindowTitle.label       "ისტორია">
+<!ENTITY menuBar.tooltip                "მენიუს პანელი">
+<!ENTITY searchBar.tooltip              "ძიების პანელი">
+
+<!ENTITY search.placeholder             "ძიების ისტორია">
+<!ENTITY search.key                     "f">
+<!ENTITY view.label                     "ჩვენება">
+
+<!ENTITY view.columns.label             "სვეტების ჩვენება">
+<!ENTITY view.columns.accesskey         "C">
+<!ENTITY view.sortBy.label              "დახარისხება">
+<!ENTITY view.sortBy.accesskey          "S">
+<!ENTITY view.groupBy.label             "დახარისხება">
+<!ENTITY view.groupBy.accesskey         "G">
+
+<!ENTITY view.unsorted.label            "დახარისხების გარეშე">
+<!ENTITY view.unsorted.accesskey        "U">
+<!ENTITY view.sortAscending.label       "ა > ჰ ანბანური რიგი">
+<!ENTITY view.sortAscending.accesskey   "A">
+<!ENTITY view.sortDescending.label      "ჰ > ა ანბანური რიგი">
+<!ENTITY view.sortDescending.accesskey  "Z">
+
+<!ENTITY view.groupNone.label           "არა">
+<!ENTITY view.groupNone.accesskey       "N">
+<!ENTITY view.groupDay.label            "დღე">
+<!ENTITY view.groupDay.accesskey        "D">
+<!ENTITY view.groupSite.label           "საიტი">
+<!ENTITY view.groupSite.accesskey       "S">
+<!ENTITY view.groupDayAndSite.label     "დღე და საიტი">
+<!ENTITY view.groupDayAndSite.accesskey "a">
+
+<!ENTITY cmd.open.label                 "გახსნა">
+<!ENTITY cmd.open.accesskey             "O">
+<!ENTITY cmd.open_window.label          "ბმის ახალ სარკმელში გახსნა">
+<!ENTITY cmd.open_window.accesskey      "W">
+<!ENTITY cmd.open_tab.label             "ბმის ახალ დაფაზე გახსნა">
+<!ENTITY cmd.open_tab.accesskey         "T">
+
+<!ENTITY bookmarkLinkCmd.label          "ამ ბმის ჩანიშვნა…">
+<!ENTITY bookmarkLinkCmd.accesskey      "B">
+<!ENTITY bookmarkLinksCmd.label         "ამ ბმების ჩანიშვნა">
+<!ENTITY bookmarkLinksCmd.accesskey          "B">
+
+<!ENTITY col.title.label                "სათაური">
+<!ENTITY col.title.accesskey            "T">
+<!ENTITY col.url.label                  "მისამართი">
+<!ENTITY col.url.accesskey              "L">
+<!ENTITY col.lastvisit.label            "ბოლო სტუმრობა">
+<!ENTITY col.lastvisit.accesskey        "V">
+<!ENTITY col.visitcount.label           "სტუმრობათა რაოდენობა">
+<!ENTITY col.visitcount.accesskey       "C">

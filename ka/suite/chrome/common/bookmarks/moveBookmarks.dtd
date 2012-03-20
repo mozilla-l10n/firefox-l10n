@@ -1,0 +1,5 @@
+<!ENTITY window.title              "დასტის შერჩევა">
+<!ENTITY window.style              "სიაგანე: 36em; height: 18em;">
+<!ENTITY moveTo.label              "გადატანა:">
+<!ENTITY newFolderButton.label     "ახალი დასტა">
+<!ENTITY newFolderButton.accesskey "N">

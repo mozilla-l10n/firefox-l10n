@@ -31,3 +31,7 @@
 <!ENTITY place.accesskey                      "s">
 <!ENTITY belowText.label                      "ციტირების ქვემოთ (რეკომენდებულია)">
 <!ENTITY aboveText.label                      "ჩემი პასუხის ქვემოთ (ციტირების ზემოთ)">
+<!ENTITY includeSigOnReply.label              "ხელმოწერის თანდართვა პასუხებზე">
+<!ENTITY includeSigOnReply.accesskey          "s">
+<!ENTITY includeSigOnForward.label            "ხელმოწერის თანდართვა გადაგზავნისას">
+<!ENTITY includeSigOnForward.accesskey        "w">

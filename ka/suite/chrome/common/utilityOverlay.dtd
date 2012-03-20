@@ -18,9 +18,16 @@
 <!ENTITY newNavigatorCmd.label "ბრაუზერის სარკმელი">
 <!ENTITY newNavigatorCmd.key				"N">
 <!ENTITY newNavigatorCmd.accesskey "B">
+<!ENTITY printSetupCmd.label "გვერდის პარამეტრები…">
+<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printPreviewCmd.label "ბეჭდვის ესკიზი">
+<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printCmd.label "ამობეჭდვა…">
+<!ENTITY printCmd.accesskey "P">
+<!ENTITY printCmd.key "P">
 
-<!ENTITY editMenu.label					"რედაქტირება"> 
-<!ENTITY editMenu.accesskey				"e"> 
+<!ENTITY editMenu.label					"რედაქცია"> 
+<!ENTITY editMenu.accesskey               "E">
 <!ENTITY undoCmd.label						"დაბრუნება">  
 <!ENTITY undoCmd.key						"Z">  
 <!ENTITY undoCmd.accesskey					"U"> 
@@ -35,15 +42,39 @@
 <!ENTITY copyCmd.accesskey					"c"> 
 <!ENTITY pasteCmd.label						"ჩასმა">  
 <!ENTITY pasteCmd.key						"V">  
-<!ENTITY pasteCmd.accesskey					"p"> 
-<!ENTITY deleteCmd.label					"წაშლა">  
-<!ENTITY deleteCmd.accesskey				"d"> 
-<!ENTITY selectAllCmd.label					"სრული მონიშვნა">  
+<!ENTITY pasteCmd.accesskey               "P">
+<!ENTITY pasteGoCmd.label                 "ჩასმა და გადასვლა">
+<!ENTITY pasteGoCmd.accesskey             "G">
+
+<!-- LOCALIZATION NOTE (pasteSearchCmd): "Search" is a verb, this is the
+     search bar equivalent to the url bar's "Paste & Go"  -->
+<!ENTITY pasteSearchCmd.label             "ჩასმა და ძიება">
+<!ENTITY pasteSearchCmd.accesskey         "e">
+<!ENTITY deleteCmd.label                  "წაშლა">
+<!ENTITY deleteCmd.accesskey              "D">
+<!ENTITY selectAllCmd.label               "ყველას მონიშვნა">
 <!ENTITY selectAllCmd.key					"A">  
-<!ENTITY selectAllCmd.accesskey				"a"> 
+<!ENTITY selectAllCmd.accesskey           "A">
+<!ENTITY clearHistoryCmd.label				"ძიების ისტორიის გასუფთავება">  
+<!ENTITY clearHistoryCmd.accesskey			"H"> 
+<!ENTITY showSuggestionsCmd.label			"შემოთავაზებათა ჩვენება">  
+<!ENTITY showSuggestionsCmd.accesskey		"S"> 
 <!ENTITY preferencesCmd.label				"პარამეტრები…">
 <!ENTITY preferencesCmd.key					"E">  
 <!ENTITY preferencesCmd.accesskey			"e"> 
+<!ENTITY findCmd.key "F">
+<!-- LOCALIZATION NOTE (findCmd.accesskey): This accesskey should be within
+     findCmd.label found in messengercompose.dtd, messenger.dtd and
+     editorOverlay.dtd and findOnCmd.label found in navigatorOverlay.dtd -->
+<!ENTITY findCmd.accesskey "F">
+<!ENTITY findAgainCmd.label "შემდეგის პოვნა">
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.label "წინას პოვნა">
+<!ENTITY findPrevCmd.key "G">
+<!ENTITY findPrevCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.accesskey "v">
 <!ENTITY findTypeTextCmd.label "ტექსტის ძებნა ტექსტის შეტანისას">
 <!ENTITY findTypeTextCmd.accesskey "x">
 <!ENTITY findTypeLinksCmd.label "ბმების ძებნა ტექსტის შეტანისას">
@@ -59,8 +90,12 @@
 <!ENTITY helpMenu.label					"კარნახი"> 
 <!ENTITY helpMenu.accesskey				"h"> 
 
+<!ENTITY helpTroubleshootingInfo.label      "თექმომსახურების ინფორმაცია">
+<!ENTITY helpTroubleshootingInfo.accesskey  "T">
 <!ENTITY releaseCmd.label				"ვერსიის დოკუმენტაცია">
 <!ENTITY releaseCmd.accesskey                   "N">
+<!ENTITY helpSafeMode.label                 "ხელახლა გახსნა ამორთული მოდულებით">
+<!ENTITY helpSafeMode.accesskey             "R">
 <!ENTITY updateCmd.label                        "შემოწმება განახლებებზე…">
 <!ENTITY updateCmd.accesskey                    "C">
 <!ENTITY aboutCmd.label					"&brandShortName; პროგრამის შესახებ">
@@ -86,12 +121,15 @@
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
+<!ENTITY customizeToolbarContext.label            "მორგება…">
+<!ENTITY customizeToolbarContext.accesskey        "C">
+
 <!ENTITY customizeToolbar.toolbarmode.label       "პარამეტრები ამ პულტისთვის">
-<!ENTITY customizeToolbar.toolbarmode.accesskey   "t">
+<!ENTITY customizeToolbar.toolbarmode.accesskey   "e">
 <!ENTITY customizeToolbar.iconsAndText.label      "პიქტოგრამები და ტექსტი">
 <!ENTITY customizeToolbar.iconsAndText.accesskey  "a">
 <!ENTITY customizeToolbar.icons.label             "პიქტოგრამები">
-<!ENTITY customizeToolbar.icons.accesskey         "I">
+<!ENTITY customizeToolbar.icons.accesskey         "o">
 <!ENTITY customizeToolbar.text.label              "ტექსტი">
 <!ENTITY customizeToolbar.text.accesskey          "T">
 <!ENTITY customizeToolbar.useSmallIcons.label     "პატარა პიქტოგრამები">
@@ -99,7 +137,7 @@
 <!ENTITY customizeToolbar.labelAlignEnd.label     "ტესტის ჩვენება პიქტოგრამებთან ერთად">
 <!ENTITY customizeToolbar.labelAlignEnd.accesskey "b">
 <!ENTITY customizeToolbar.useDefault.label        "ნაგულისხმები პარამეტრები">
-<!ENTITY customizeToolbar.useDefault.accesskey    "g">
+<!ENTITY customizeToolbar.useDefault.accesskey    "U">
 
 <!-- Popup Blocked notification menu -->
 <!ENTITY allowPopups.accesskey        "p">
@@ -107,3 +145,5 @@
 <!ENTITY showPopupManager.accesskey   "M">
 <!ENTITY dontShowMessage.label        "ამ შეტყობინების დამალვა თუ ფირნიშები დაბლოკილია">
 <!ENTITY dontShowMessage.accesskey    "D">
+
+<!ENTITY syncToolbarButton.label "სინქრონიზაცია">

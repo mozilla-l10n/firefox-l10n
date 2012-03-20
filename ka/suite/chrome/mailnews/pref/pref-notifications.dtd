@@ -46,8 +46,8 @@
 <!ENTITY showTrayIcon.accesskey           "t">
 <!ENTITY bounceSystemDockIcon.label       "ტივტივას ხატულას ანიმაცია">
 <!ENTITY bounceSystemDockIcon.accesskey   "A">
-<!ENTITY preview.label                    "ესკიზი">
-<!ENTITY preview.accesskey                "v">
+<!ENTITY playButton.label                 "გახმოვანება">
+<!ENTITY playButton.accesskey             "l">
 <!ENTITY systemsound.label                "თქვენი სისტემის სიგნალი">
 <!ENTITY systemsound.accesskey            "M">
 <!ENTITY customsound.label                "საკუთარი ხმოვანი ფაილი">

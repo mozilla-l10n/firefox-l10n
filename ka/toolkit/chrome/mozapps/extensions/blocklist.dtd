@@ -8,3 +8,6 @@
 
 <!ENTITY blocklist.accept.label      "&brandShortName; გადატვირთვა">
 <!ENTITY blocklist.accept.accesskey  "R">
+
+<!ENTITY blocklist.blocked.label     "დაბლოკილია">
+<!ENTITY blocklist.checkbox.label    "ამორთულია">

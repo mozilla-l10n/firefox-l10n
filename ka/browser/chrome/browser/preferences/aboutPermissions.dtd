@@ -1,0 +1,35 @@
+<!ENTITY permissionsManager.title        "უფლებათა მართვა">
+
+<!ENTITY sites.search                    "საიტების ძიება">
+<!ENTITY sites.allSites                  "ყველა საიტი">
+
+<!-- LOCALIZATION NOTE (permissions.header.start, permissions.header.end): These strings
+     surround the host name of the site to make the header for the permissions page.
+     example: "Permissions for mozilla.org" -->
+<!ENTITY header.site.start               "უფლებები:">
+<!ENTITY header.site.end                 "">
+
+<!ENTITY header.defaults                 "ნაგულისხმები უფლებები ყველა საიტისთვის">
+
+<!ENTITY permissions.forgetSite          "დაივიწყე ეს საიტი">
+
+<!ENTITY permission.alwaysAsk            "დამეკითხე ყოველთვის">
+<!ENTITY permission.allow                "ნებართვა">
+<!ENTITY permission.allowForSession      "ნებართვა ამ სეანსზე">
+<!ENTITY permission.block                "დაბლოკვა">
+
+<!ENTITY password.label                  "პაროლების შენახვა">
+<!ENTITY password.manage                 "პაროლების მართვა…">
+
+<!ENTITY cookie.label                    "ნაჭდევების მითითება">
+<!ENTITY cookie.remove                   "ნაჭდევების ამოღება">
+<!ENTITY cookie.manage                   "ნაჭდევების მართვა…">
+<!ENTITY cookie.removeAll                "ყველა ნაჭდევის ამოღება">
+
+<!ENTITY geo.label                       "ადგილის გაზიარება">
+
+<!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
+     using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
+<!ENTITY indexedDB.label                 "ლოკალური საცავის მართვა">
+
+<!ENTITY popup.label                     "ჩამოშლადი სარკმლების გახსნა">

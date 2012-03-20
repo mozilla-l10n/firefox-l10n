@@ -6,7 +6,6 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "F">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "საიტის მისამართი:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "S">
-<!ENTITY editBookmarkOverlay.liveTitlesSeparator.label       "პირდაპირი სათაურები">
 <!ENTITY editBookmarkOverlay.folder.label                    "დასტა:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "ყველა სანიშნეთა დასტის ჩვენება">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "დამალვა">

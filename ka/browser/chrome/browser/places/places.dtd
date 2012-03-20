@@ -4,17 +4,14 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "ორგანიზება">
 <!ENTITY organize.accesskey    "O">
+<!ENTITY organize.tooltip      "სანიშნეების დახარისხება">
 
-<!ENTITY file.accesskey                 "F">
 <!ENTITY file.close.label               "დახურვა">
 <!ENTITY file.close.accesskey           "C">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY edit.label                     "რედაქტირება">
-<!ENTITY edit.accesskey                 "E">
 <!ENTITY views.label                    "ჩვენება">
 <!ENTITY views.accesskey                 "V">
-<!ENTITY view.toolbar.label             "პულტი">
-<!ENTITY view.toolbar.accesskey         "o">
+<!ENTITY views.tooltip                  "ჩვენების სქემა">
 <!ENTITY view.columns.label             "სვეტების ჩვენება">
 <!ENTITY view.columns.accesskey         "C">
 <!ENTITY view.sort.label                "სორტირება">
@@ -25,22 +22,18 @@
 <!ENTITY view.sortAscending.accesskey   "A">
 <!ENTITY view.sortDescending.label      "ჰ > ა სორტირება">
 <!ENTITY view.sortDescending.accesskey  "Z">
-<!ENTITY help.usingBookmarks.label      "სანიშნეების გამოყენება">
-<!ENTITY help.usingBookmarks.accesskey  "B">
-<!ENTITY help.usingHistory.label        "ისტორიის გამოყენება">
-<!ENTITY help.usingHistory.accesskey    "i">
-<!ENTITY help.advancedTips.label        "რჩევები და მინიშნებები">
-<!ENTITY help.advancedTips.accesskey    "T">
 
 <!ENTITY cmd.findInBookmarks.label      "ძებნა სანიშნეებში/ისტორიაში…">
 <!ENTITY cmd.findInBookmarks.accesskey  "F">
 <!ENTITY cmd.findCurrent.label          "ძებნა მიმდინარე კოლექციაში…">
 <!ENTITY cmd.findCurrent.accesskey      "i">
 
-<!ENTITY cmd.exportHTML.label               "HTML ექსპორტი…">
-<!ENTITY cmd.exportHTML.accesskey           "E">
-<!ENTITY cmd.importHTML.label               "HTML იმპორტი…">
-<!ENTITY cmd.importHTML.accesskey           "I">
+<!ENTITY importBookmarksFromHTML.label     "სანიშნეების იმპორტი HTML ფაილიდან…">
+<!ENTITY importBookmarksFromHTML.accesskey "I">
+<!ENTITY exportBookmarksToHTML.label       "სანიშნეების ექსპორტი HTML ფაილში…">
+<!ENTITY exportBookmarksToHTML.accesskey   "E">
+<!ENTITY importOtherBrowser.label          "მონაცემთა იმპორტი სხვა ბრაუზერიდან…">
+<!ENTITY importOtherBrowser.accesskey      "A">
 
 <!ENTITY cmd.backup.label               "დამარქაფება…">
 <!ENTITY cmd.backup.accesskey           "B">
@@ -49,28 +42,8 @@
 <!ENTITY cmd.restoreFromFile.label      "ფაილის არჩევა">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
-<!ENTITY cmd.select_all.label           "სრული მონიშვნა">
-<!ENTITY cmd.select_all.accesskey       "A">
-<!ENTITY cmd.select_all.key             "a">
-
-<!ENTITY cmd.edit_cut.label             "ამოჭრა">
-<!ENTITY cmd.edit_cut.accesskey         "t">
-<!ENTITY cmd.edit_cut.key               "x">
-<!ENTITY cmd.edit_copy.label            "კოპირება">
-<!ENTITY cmd.edit_copy.accesskey        "C">
-<!ENTITY cmd.edit_copy.key              "c">
-<!ENTITY cmd.edit_paste.label           "ჩასმა">
-<!ENTITY cmd.edit_paste.accesskey       "P">
-<!ENTITY cmd.edit_paste.key             "v">
-<!ENTITY cmd.edit_delete.label          "წაშლა">
-<!ENTITY cmd.edit_delete.accesskey      "D">
-<!ENTITY cmd.edit_undo.label            "დაბრუნება">
-<!ENTITY cmd.edit_undo.accesskey        "U">
-<!ENTITY cmd.edit_undo.key              "z">
-<!ENTITY cmd.edit_redo.label            "გამეორება">
-<!ENTITY cmd.edit_redo.accesskey        "R">
-<!ENTITY cmd.edit_redo.key              "y">
-
+<!ENTITY cmd.bookmarkLink.label         "ამ გვერდის ჩანიშვნა…">
+<!ENTITY cmd.bookmarkLink.accesskey     "B">
 <!ENTITY cmd.delete.label               "ამ გვერდის წაშლა">
 <!ENTITY cmd.delete.accesskey           "D">
 <!ENTITY cmd.deleteDomainData.label     "ამ საიტის დავიწყება">
@@ -88,19 +61,12 @@
 <!ENTITY cmd.properties.label           "პარამეტრები">  
 <!ENTITY cmd.properties.accesskey       "i">
 
-<!ENTITY cmd.show_info.key              "i">
-
-<!ENTITY cmd.rename.label               "გადარქმევა">
-<!ENTITY cmd.rename.accesskey           "R">
-
-<!ENTITY cmd.sortby_name.label          "სორტირება სახელით">
+<!ENTITY cmd.sortby_name.label              "დახარისხება სახელით">
 <!ENTITY cmd.sortby_name.accesskey      "S">
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
 
 <!ENTITY cmd.new_bookmark.label         "ახალი სანიშნე…">
 <!ENTITY cmd.new_bookmark.accesskey     "B">
-<!ENTITY cmd.new_livemark.label         "ახალი პირდაპირი სანიშნე…">
-<!ENTITY cmd.new_livemark.accesskey     "L">
 <!ENTITY cmd.new_folder.label           "ახალი დასტა…">
 <!ENTITY cmd.new_folder.accesskey       "o">
 <!ENTITY cmd.context_new_folder.accesskey "F">
@@ -109,17 +75,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label   "პირდაპირი სანიშნის განახლება">
 <!ENTITY cmd.reloadLivebookmark.accesskey "R">
-<!ENTITY cmd.reloadMicrosummary.label  "პირდაპირი სათაურის განახლება">
-<!ENTITY cmd.reloadMicrosummary.accesskey "R">
-
-<!ENTITY cmd.groupby_site.label        "დაჯგუფება საიტებით">
-<!ENTITY cmd.groupby_site.accesskey    "S">
-<!ENTITY cmd.groupby_page.label        "დაჯგუფება გვერდებით">
-<!ENTITY cmd.groupby_page.accesskey    "P">
-<!ENTITY cmd.groupby_feed.label        "დაჯგუფება ხელმოწერებით">
-<!ENTITY cmd.groupby_feed.accesskey    "S">
-<!ENTITY cmd.groupby_post.label        "დაჯგუფება გამოხმაურებებით">
-<!ENTITY cmd.groupby_post.accesskey    "P">
 
 <!ENTITY cmd.moveBookmarks.label         "გადატანა…">
 <!ENTITY cmd.moveBookmarks.accesskey         "M">
@@ -136,85 +91,46 @@
 
 <!ENTITY search.label                              "ძიება:">
 <!ENTITY search.accesskey                          "S">
-<!ENTITY search.collection.label                   "მხოლოდ მიმდინარე კოლექციაში">
-<!ENTITY search.collection.accesskey               "C">
-<!ENTITY search.allBookmarks.label                 "ყველა სანიშნესა და ისტორიაში">
-<!ENTITY search.allBookmarks.accesskey             "A">
+
+<!ENTITY search.in.label                           "ძიება აქ:">
 <!ENTITY search.scopeFolder.label                  "მონიშნული დასტა">
-<!ENTITY search.scopeFolder.accesskey              "F">
-<!ENTITY search.scopeAll.label                     "ყველა სანიშნე">
-<!ENTITY search.scopeAll.accesskey                 "A">
-<!ENTITY search.scopeMenu.label                    "სანიშნეთა მენიუ">
-<!ENTITY search.scopeMenu.accesskey                "M">
-<!ENTITY search.scopeToolbar.label                 "სანიშნეთა პულტი">
-<!ENTITY search.scopeToolbar.accesskey             "T">
+<!ENTITY search.scopeFolder.accesskey              "r">
+<!ENTITY search.scopeBookmarks.label               "სანიშნეები">
+<!ENTITY search.scopeBookmarks.accesskey           "k">
 <!ENTITY search.scopeDownloads.label               "ჩამოტვირთვები">
 <!ENTITY search.scopeDownloads.accesskey           "D">
 <!ENTITY search.scopeHistory.label                 "ისტორია">
-<!ENTITY search.scopeHistory.accesskey             "A">
-<!ENTITY search.scopeBarExpanderDown.tooltip       "ძიების მეგზურის ჩვენება">
-<!ENTITY search.scopeBarExpanderUp.tooltip         "ძიების მეგზურის დამალვა">
+<!ENTITY search.scopeHistory.accesskey             "H">
 <!ENTITY saveSearch.label                          "შენახვა">
 <!ENTITY saveSearch.accesskey                      "S">
-<!ENTITY moreCriteria.label                        "+">
-<!ENTITY advancedSearch.onlybookmarked.label       "ძიება მხოლოდ სანიშნეებში">
-<!ENTITY advancedSearch.match.label                "თანხვედრა ">
-<!ENTITY advancedSearch.all.label                  "ყველა">
-<!ENTITY advancedSearch.any.label                  "რომელიმე">
-<!ENTITY advancedSearch.rules.label                " შემდეგი წესით:">
-<!ENTITY advancedSearch.subj_keyword.label         "შეიცავს ტექსტს">
-<!ENTITY advancedSearch.subj_visited.label         "მონახულება">
-<!ENTITY advancedSearch.subj_location.label        "მისამართი">
-<!ENTITY advancedSearch.location_startswith.label  "იწყება">
-<!ENTITY advancedSearch.location_is.label          "არის">
-<!ENTITY advancedSearch.location_onsite.label      "არის საიტზე">
-<!ENTITY advancedSearch.time_is.label              "-">
-<!ENTITY advancedSearch.time_before.label          "ვიდრე">
-<!ENTITY advancedSearch.time_after.label           "შემდეგ">
-<!ENTITY advancedSearch.time_inlast.label          "ბოლო">
-<!ENTITY advancedSearch.last_days.label            "დღე">
-<!ENTITY advancedSearch.last_weeks.label           "კვირა">
-<!ENTITY advancedSearch.last_months.label          "თვე">
-<!ENTITY advancedSearch.plus.label                 "+">
-<!ENTITY advancedSearch.minus.label                "-">
-<!ENTITY advancedSearch.groupby.label              "დაჯგუფება: ">
-<!ENTITY advancedSearch.groupby_host.label         "ჰოსტი">
-<!ENTITY advancedSearch.groupby_domain.label       "დომენი">
-<!ENTITY advancedSearch.groupby_folder.label       "დასტა">
-<!ENTITY advancedSearch.sortby.label               "სორტირება: ">
-<!ENTITY advancedSearch.sortby_title.label         "სათაური">
-<!ENTITY advancedSearch.sortby_date.label          "თარიღი">
-<!ENTITY advancedSearch.sortby_visit.label         "ვიზიტების მრიცხველი">
-<!ENTITY advancedSearch.sortby_url.label           "url">
-<!ENTITY advancedSearch.sortby_asc.label           "აღმავალი">
-<!ENTITY advancedSearch.sortby_desc.label          "დაღმავალი">
-<!ENTITY advancedSearch.max.label                  "შედეგების მაქსიმუმი: ">
 
 <!ENTITY cmd.find.key  "f">
 
-<!ENTITY feed.subscribe.label    "არხი">
-<!ENTITY feed.subscribe.tooltip  "ხელმოწერა">
-
-<!ENTITY view.detailsMacOSX.label  "სია">
-<!ENTITY view.details.label        "დეტალები">
-<!ENTITY view.details.accesskey    "D">
-
-<!ENTITY view.addons.label   "მოდულების ჩვენება">
-
 <!ENTITY maintenance.label   "იმპორტი და დამარქაფება">
 <!ENTITY maintenance.accesskey  "I">
+<!ENTITY maintenance.tooltip    "თქვენი სანიშნეების იმპორტი და დამარქაფება">
 
-<!ENTITY backCmd.label       "უკან">
-<!ENTITY backCmd.accesskey   "B">
-<!ENTITY backButton.tooltip  "გადასვლა უკან">
+<!ENTITY backButton.tooltip  "უკან">
 
-<!ENTITY forwardCmd.label       "წინ">
-<!ENTITY forwardCmd.accesskey   "F">
-<!ENTITY forwardButton.tooltip  "გადასვლა წინ">
+<!ENTITY forwardButton.tooltip  "წინ">
 
 <!ENTITY detailsPane.more.label "მეტი">
 <!ENTITY detailsPane.more.accesskey "e">
 <!ENTITY detailsPane.less.label "ნაკლები">
 <!ENTITY detailsPane.less.accesskey "e">
-<!ENTITY detailsPane.noPreviewAvailable.label "ესკიზი">
-<!ENTITY detailsPane.selectAnItemText.description "შეარჩიეთ ელემენტის საჩვენებლად და პარამეტრების რედაქტირებისთვის">
+<!ENTITY detailsPane.selectAnItemText.description "შეარჩიეთ ელემენტი საჩვენებლად და პარამეტრების რედაქციისთვის">
+
+<!ENTITY find.label               "ძიება:">
+<!ENTITY find.accesskey           "S">
+<!ENTITY view.label               "ჩვენება">
+<!ENTITY view.accesskey           "w">
+<!ENTITY byDate.label             "თარიღით">
+<!ENTITY byDate.accesskey         "D">
+<!ENTITY bySite.label             "საიტებით">
+<!ENTITY bySite.accesskey         "S">
+<!ENTITY byMostVisited.label      "პოპულარობით">
+<!ENTITY byMostVisited.accesskey  "V">
+<!ENTITY byLastVisited.label      "ბოლო მონახულებით">
+<!ENTITY byLastVisited.accesskey  "L">
+<!ENTITY byDayAndSite.label       "თარიღით და საიტით">
+<!ENTITY byDayAndSite.accesskey   "t">

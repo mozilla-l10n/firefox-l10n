@@ -3,5 +3,5 @@
 <!ENTITY date.heading               "გამოგზავნის თარიღი">
 <!ENTITY noReports.label            "შეცდომათა პატაკები არ გამოგზავნილა.">
 <!ENTITY noConfig.label             "ეს პროგრამა შეცდომათა პატაკების საჩვენებლად არ გამართულა. უნდა მიეთითოს პარამეტრი <code>breakpad.reportURL</code>.">
-<!ENTITY clearReports.label         "პატაკების ამოღება">
+<!ENTITY clearAllReports.label      "ყველა პატაკის ამოღება">
 

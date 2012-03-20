@@ -9,7 +9,19 @@
 <!ENTITY autoCompleteShowPopup.label           "თანხვედრათა შედეგების სიის ჩვენება">
 <!ENTITY autoCompleteShowPopup.accesskey       "S">
 <!ENTITY autoCompleteMatchOnlyTyped.label      "თანხვედრები მხოლოდ ადრე მითითებული ვებსაიტებთან">
-<!ENTITY autoCompleteMatchOnlyTyped.accesskey  "M">
+<!ENTITY autoCompleteMatchOnlyTyped.accesskey  "o">
+<!ENTITY autoCompleteMatchOnlyURLs.label       "მხოლოდ შესაბამისი მისამართები, საიტის სათაურების გარეშე">
+<!ENTITY autoCompleteMatchOnlyURLs.accesskey   "n">
+<!--LOCALIZATION NOTE (autoCompleteMatch.label): This is the common leading
+  part of the menulist items listed below, mainly to make the control available
+  via the accesskey
+-->
+<!ENTITY autoCompleteMatch.label               "თანხვედრა">
+<!ENTITY autoCompleteMatch.accesskey           "M">
+<!ENTITY autoCompleteMatchAnywhere             "მისამართის ან სათაურის ნებისმიერ ადგილას">
+<!ENTITY autoCompleteMatchWordsFirst           "ნებისმიერ ადგილას, უპირატესად სიტყვის კიდეებში">
+<!ENTITY autoCompleteMatchWords                "მხოლოდ სიტყვის კიდეებში">
+<!ENTITY autoCompleteMatchStart                "მხოლოდ მისამართის ან სათაურის დასაწყისში">
 
 <!ENTITY searchEngine.label                    "ინტერნეტის საძიებო სისტემა">
 <!ENTITY showSearchEngine.label                "ნაგულისხმები საძიებო სისტემის ჩვენება">

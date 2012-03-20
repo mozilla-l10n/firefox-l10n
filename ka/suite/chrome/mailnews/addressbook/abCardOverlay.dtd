@@ -79,13 +79,13 @@
 <!ENTITY ScreenName.label               "ეკრანული სახელი:">
 <!ENTITY ScreenName.accesskey           "S">
 
-<!ENTITY allowRemoteContent.label       "გარე ნახატების ნებართვა HTML ფოსტაში.">
-<!ENTITY allowRemoteContent.accesskey   "r">
-<!ENTITY allowRemoteContent.tooltip     "HTML გზავნილებში შესაძლებელია
-გამოსახულებათა ჩართვა გარე წყაროებიდან. ასეთი გზავნილის გახსნისას
+<!ENTITY allowRemoteContent1.label      "გარე მონაცემების ნებართვა.">
+<!ENTITY allowRemoteContent1.accesskey   "r">
+<!ENTITY allowRemoteContent1.tooltip     "HTML გზავნილებში შესაძლებელია
+მონაცემების ჩართვა გარე წყაროებიდან. ასეთი გზავნილის გახსნისას
 მოხდება გარე წყაროსთან დაკავშირება. ეს გზავნილის წაკითხვის დასტურის
 შესაძლებლობასაც იძლევა. ამ პარამეტრის ჩართვა ამ კონტაქტიდან HTML გზავნილებში
-გამოსახულებათა ჩართვის ნებას იძლევა.">
+მონაცემების ჩართვის ნებას იძლევა.">
 
 <!ENTITY WorkPhone.label                "სამსახური:">
 <!ENTITY WorkPhone.accesskey            "k">
@@ -116,9 +116,11 @@
 <!ENTITY HomeWebPage.accesskey          "e">
 <!ENTITY Birthday.label                 "დაბადების დღე:">
 <!ENTITY Birthday.accesskey             "B">
-<!ENTITY Year.emptytext                 "წელი">
+<!ENTITY In.label                       "">
+<!ENTITY Year.placeholder               "წელი">
 <!ENTITY Or.value                       "ან">
-<!ENTITY Age.emptytext                  "ასაკი">
+<!ENTITY Age.placeholder                "ასაკი">
+<!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "სამსახური"> 
 <!ENTITY Work.accesskey                 "W">
@@ -155,3 +157,19 @@
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                      "შენიშვნები:">
 <!ENTITY Notes.accesskey                "N">
+
+<!ENTITY Photo.tab                      "ფოტო">
+<!ENTITY Photo.accesskey                "o">
+<!ENTITY PhotoDesc.label                "შეარჩიეთ ერთერთი შემდეგთაგან:">
+<!ENTITY GenericPhoto.label             "სტანდარტული ფოტო">
+<!ENTITY GenericPhoto.accesskey         "G">
+<!ENTITY DefaultPhoto.label             "ნაგულისხმები">
+<!ENTITY PhotoFile.label                "ამ კომპიუტრეში">
+<!ENTITY PhotoFile.accesskey            "n">
+<!ENTITY BrowsePhoto.label              "ნუსხა">
+<!ENTITY BrowsePhoto.accesskey          "r">
+<!ENTITY PhotoURL.label                 "ინტერნეტში">
+<!ENTITY PhotoURL.accesskey             "b">
+<!ENTITY PhotoURL.placeholder           "ჩასვით ან მიუთითეთ ფოტოს ვებ მისამართი">
+<!ENTITY UpdatePhoto.label              "განახლება">
+<!ENTITY UpdatePhoto.accesskey          "u">

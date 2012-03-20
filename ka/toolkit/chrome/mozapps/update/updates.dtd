@@ -1,16 +1,26 @@
 <!ENTITY  updateWizard.title              "პროგრამის განახლება">
 
-<!ENTITY  window.width                    "45em">
-<!ENTITY  window.macWidth                 "50em">
+<!ENTITY  checking.title                  "შემოწმება განახლებებზე">
+<!ENTITY  updateCheck.label               "უფრო ახალი &brandShortName; ვერსიების ძიება…">
 
-<!ENTITY  checking.title                  "განახლებების შემოწმება">
-<!ENTITY  updateCheck.label               "&brandShortName; ბოლო ვერსიების შემოწმება…">
+<!ENTITY  pluginupdatesfound.title        "მოიძებნა განახლებები მოდულებისთვის">
+<!ENTITY  pluginupdatesfound.label        "მოიძებნა განახლებები თქვენი ერთი ან რამდენიმე მოდულისთვის.">
+<!ENTITY  pluginupdateslink.label         "ნახეთ როგორ ხდება თქვენი მოდულების განახლება.">
 
 <!ENTITY  noupdatesfound.title            "განახლება ვერ მოიძებნა">
 <!ENTITY  noupdatesautoenabled.intro      "შესაძლო განახლებები არაა. &brandShortName; ბრაუზერი
                                            პერიოდულად შეამოწმებს განახლებებს.">
 <!ENTITY  noupdatesautodisabled.intro     "შესაძლო განახლებები არაა. გთხოვთ კვლავ საცდოთ მოგვიანებით ან ნება დართოთ
                                            &brandShortName; ბრაუზერს ეს თქვენს ნაცვლად გააკეთოს.">
+
+<!ENTITY  manualUpdate.title              "განახლება ვერ ხერხდება">
+<!ENTITY  manualUpdate.desc               "უსაფრთხოებისა და სტაბილურობის რეკომენდებული განახლება შესაძლებელია, მაგრამ
+                                           სისტემური უფლება მის ჩასადგმელად. გთხოვთ მიმართოთ თქვენს სისტემურ
+                                           ადმინს ან კვლავ სცადოთ სხვა ანგარიშით, რომელსაც შესაბამისი უფლებები
+                                           გააჩნია.">
+<!ENTITY  manualUpdate.space.desc         "რეკომენდებულია უსაფრთხოებისა და სტაბილურობის განახლების პაკეტის ჩადგმა, 
+                                           მაგრამ თქვენ არ გაქვთ საკმარისი ადგილი.">
+<!ENTITY  manualUpdateGetMsg.label        "&brandShortName; პროგრამის უახლესი ვერსიის გადაწერა ყოველთვის შეგიძლიათ აქედან:">
 
 <!ENTITY  incompatibleCheck.title         "პაკეტის თავსებადობის შემოწმება">
 <!ENTITY  incompatibleCheck.label         "თქვენი პაკეტების ახალი ვერსიების მოძიება…">
@@ -33,7 +43,7 @@
 
 <!ENTITY  incompatibleList.title          "მოიძებნა არათავსებადი პაკეტი">
 
-<!ENTITY  downloading.title               "განახლების ჩამოტვირთვა">
+<!ENTITY  downloadPage.title              "განახლების ჩამოტვირთვა">
 <!ENTITY  downloading.intro               "განახლება იტვირთება…">
 <!ENTITY  connecting.label                "დაკავშირება განახლების სერვერთან…">
 <!ENTITY  verificationFailedText.label    "&brandShortName; ვერ ამოწმებს ჩამოტვირთული ზრდადი 
@@ -44,15 +54,23 @@
 
 <!ENTITY  details.link                    "დეტალები">
 
+<!ENTITY  error.title                     "განახლება ვერ მოხერხდა">
+
 <!ENTITY  error.label                     "პრობლემა ამ განახლების ჩამოტვირთვისას ან ჩადგმისას. 
                                            &brandShortName; ვერ განახლდება რადგან:">
                                            
 <!ENTITY  errorManual.label               "&brandShortName; შეგიძლიათ ხელით განაახლოთ თუ მოინახულებთ
                                            ამ ბმას და გადმოტვირთავთ ბოლო ვერსიას:">
                                            
-<!ENTITY  errorpatching.title             "განახლება არ შედგა">
 <!ENTITY  errorpatching.intro             "ნაწილობრივი განახლება შეუძლებელია. 
                                            &brandShortName; კვლავ შეეცდება სრული განახლების გადმოტვირთვის გზით.">
+
+<!ENTITY  genericBackgroundError.label    "&brandShortName; ვერ ახერხეს განსაზღვროს მისაწვდომია თუ არა განახლება. გთხოვთ
+                                           გადაამოწმოთ არის თუ არა თქვენი &brandShortName; უახლესი ვერსია საიტიდან:">
+<!ENTITY  errorCertAttrNoUpdate2.label    "რაღაც ხელს უშლის &brandShortName; უსაფრთხო განახლებას.
+                                           გადაამოწმეთ არის თუ არა თქვენი &brandShortName; უახლესი ვერსია საიტიდან:">
+<!ENTITY  errorCertAttrHasUpdate.label    "რაღაც ცდილობს ბრაუზერისთვის საშიში განახლების შემოთავაზებას.
+                                            გთხოვთ დახმარებისთვის მიმართოთ თქვენი ქსელის პროვაიდერს.">
 
 <!ENTITY  finishedPage.title              "განახლება მზადაა ჩასადგმელად">
 <!ENTITY  finishedPage.text               "განახლება ჩაიდგმება &brandShortName; შემდეგ სეანსზე. შეგიძლიათ დახუროთ და ხელახლა

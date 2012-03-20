@@ -1,36 +1,32 @@
-
 <!-- for SearchDialog.xul -->
 <!ENTITY searchHeading.label         "წერილების ძებნის არე:">
-<!ENTITY searchHeading.accesskey     "h">
+<!ENTITY searchHeading.accesskey     "e">
 <!ENTITY searchSubfolders.label      "ძიება ქვედასტებში">
-<!ENTITY searchSubfolders.accesskey  "e">
+<!ENTITY searchSubfolders.accesskey  "u">
 <!ENTITY searchLocalSystem.label     "ძიება ლოკალურ სისტემაში">
 <!ENTITY searchLocalSystem.accesskey "y">
 <!ENTITY resetButton.label           "გაწმენდა">
 <!ENTITY resetButton.accesskey       "C">
-<!ENTITY helpButton.label            "დახმარება">
-<!ENTITY helpButton.accesskey        "l">
 <!ENTITY openButton.label            "გახსნა">
-<!ENTITY openButton.accesskey        "n">
+<!ENTITY openButton.accesskey        "O">
 <!ENTITY deleteButton.label          "წაშლა">
 <!ENTITY deleteButton.accesskey      "D">
 <!ENTITY searchDialogTitle.label     "წერილების ძიება">
 <!ENTITY results.label               "შედეგები">
 <!ENTITY fileHereMenu.label          "შენახვის ადგილი">
-<!ENTITY fileHereMenu.accesskey      "F">
+<!ENTITY fileHereMenu.accesskey      "r">
 <!ENTITY fileButton.label            "ფაილი">
-<!ENTITY fileButton.accesskey        "i">
+<!ENTITY fileButton.accesskey        "F">
 <!ENTITY goToFolderButton.label      "წერილების დასტის გახსნა">
-<!ENTITY goToFolderButton.accesskey  "r">
+<!ENTITY goToFolderButton.accesskey  "n">
 <!ENTITY saveAsVFButton.label      "ძიების შედეგების დასტად შენახვა">
-<!ENTITY saveAsVFButton.accesskey  "a">
+<!ENTITY saveAsVFButton.accesskey  "v">
 
 <!-- for ABSearchDialog.xul -->
 <!ENTITY abSearchHeading.label       "ძიების არე:">
-<!ENTITY abSearchHeading.accesskey   "h">
+<!ENTITY abSearchHeading.accesskey   "e">
 <!ENTITY propertiesButton.label      "პარამეტრები">
 <!ENTITY propertiesButton.accesskey  "P">
 <!ENTITY composeButton.label         "შექმნა">
-<!ENTITY composeButton.accesskey     "e">
+<!ENTITY composeButton.accesskey     "o">
 <!ENTITY abSearchDialogTitle.label   "დეტალური ძიება წიგნაკში">
-

@@ -1,18 +1,19 @@
 <!ENTITY restorepage.tabtitle       "სეანსის აღდგენა">
-<!ENTITY restorepage.pagetitle      "გნებავთ თქვენი სეანსის აღდგენა?">
-<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
-                        you may translate "crash" instead (even though it's IT-speak) -->
-<!ENTITY restorepage.issueDesc      "თქვენი წინა სეანსი &brandShortName; ბრაუზერში მოულოდნელად დაიხურა. გულწრფელად გიხდით ბოდიშს უხერხულობისთვის. შეგიძლიათ აღადგინოთ დაფები და სარკმლები თქვენი წინა სეანსიდან ან, თუ ისინი აღარ გჭირდებათ,  გახსნათ ახალი სეანსი.">
-<!ENTITY restorepage.remedies       "თუ &brandShortName; გამუდმებით იხურება:">
-<!ENTITY restorepage.dueToChrome    "სცადეთ ამორთოთ ბოლოს დამატებული პაკეტები პაკეტების მმართველიდან.">
-<!ENTITY restorepage.dueToContent   "სცადეთ თქვენი სეანსის აღდგენა იმ ვებ გვერდების გარეშე, რომელთა პრობლემურობაშიც ეჭვი გეპარებათ:">
 
-<!ENTITY restorepage.restoreButton  "წინა სეანსის აღდგენა">
+<!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
+     and regret that we are unable to restore the session for the user -->
+<!ENTITY restorepage.errorTitle     "ოჰო, რაღაც პრობლემებია.">
+<!ENTITY restorepage.problemDesc    "&brandShortName; ბრაუზერი ვერ ახერხებს წინა სეანსის სარკმლებისა და დაფების აღდგენას. ჩვეულებრივ, ამის მიზეზი ბოლოს გახსნილი ვებ გვერდია.">
+<!ENTITY restorepage.tryThis        "შეგიძლიათ სცადოთ:">
+<!ENTITY restorepage.restoreSome    "დახუროთ ერთი ან მეტი დაფა, რომელთა პრობლემურობაშიც ეჭვი გეპარებათ:">
+<!ENTITY restorepage.startNew       "დაიწყოთ სრულიად ახალი სეანსი">
+
+<!ENTITY restorepage.tryagainButton  "აღდგენა">
 <!ENTITY restorepage.restore.access "R">
 <!ENTITY restorepage.cancelButton   "ახალი სეანსის დაწყება">
 <!ENTITY restorepage.cancel.access  "S">
 
 <!ENTITY restorepage.restoreHeader  "აღდგენა">
-<!ENTITY restorepage.listHeader     "სარკმლდები და დაფები">
+<!ENTITY restorepage.listHeader     "სარკმლები და დაფები">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "სარკმელი &#37;S">

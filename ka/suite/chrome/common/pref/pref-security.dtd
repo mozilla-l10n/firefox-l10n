@@ -36,8 +36,13 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!--LOCALIZATION NOTE : FILE 'Privacy and Security' prefs settings -->
-<!ENTITY pref.security.title              "პრივატულობა და უსაფრთხოება">
-<!ENTITY privateData.label                "პირადი მონაცმები">
+<!ENTITY pref.security.title              "კონფიდენციალობა და უსაფრთხოება">
+
+<!ENTITY tracking.label                   "მომხმარებლის თვალმიდევნება">
+<!ENTITY doNotTrack.label                 "საიტებისთვის შეტყობინება, რომ არ მსურს თვალი მადევნონ">
+<!ENTITY doNotTrack.accesskey             "T">
+
+<!ENTITY privateData.label                "პირადი მონაცემები">
 
 <!ENTITY alwaysClear.label                "ჩემი პირადი მონაცემების ყოველთვის გასუფთავება &brandShortName; ბრაუზერის დახურვისას">
 <!ENTITY alwaysClear.accesskey            "w">

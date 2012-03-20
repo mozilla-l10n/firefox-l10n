@@ -7,16 +7,15 @@
 <!ENTITY useSiteIcons.accesskey                 "S">
 <!ENTITY useFavIcons.label                      "ვებსაიტის პიქტოგრამების დაჯინებული ძიება როცა ისინი გვერდზე არ მითითებულა">
 <!ENTITY useFavIcons.accesskey                  "A">
-<!ENTITY tbIconsDescription.label               "ვებსაიტის პიქტოგრამების ასახვა სანიშნეების მენიუსა და პულტზე:">
-<!ENTITY tbIconsNever.label                     "პიქტოგრამების ყოველთვის დამალვა სანიშნეებისთვის">
-<!ENTITY tbIconsNever.accesskey                 "N">
-<!ENTITY tbIconsCache.label                     "მხოლოდ როცა ვებსაიტი ბოლო ხანებში ჩაიტვირთა">
-<!ENTITY tbIconsCache.accesskey                 "O">
-<!ENTITY tbIconsAlways.label                    "პიქტოგრამების ყოველთვის ჩამოტვირთვა სანიშნეებისთვის">
-<!ENTITY tbIconsAlways.accesskey                "w">
 <!ENTITY enableAutomaticImageResizing.label     "დიდი ზომის გამოსახულებათა ბრაუზერის სარკმლის ზომაზე მორგება">
 <!ENTITY enableAutomaticImageResizing.accesskey "R">
 <!ENTITY useSmoothScroll.label                  "გლუვი გადახვევის გამოყენება">
 <!ENTITY useSmoothScroll.accesskey              "U">
+<!ENTITY allowHWAccel.label                     "შეძლებისდაგვარად, აპარატული დამაჩქარებლებით სარგებლობა">
+<!ENTITY allowHWAccel.accesskey                 "e">
 <!ENTITY textZoomOnly.label                     "მხოლოდ ტექსტის მასშტაბირება ნაცვლად გვერდისა">
 <!ENTITY textZoomOnly.accesskey                 "Z">
+<!ENTITY blockAutoRefresh.label                 "გამაფრთხილე ვებსაიტის მიერ გვერდის გადამისამართების ან განახლების მცდელობისას">
+<!ENTITY blockAutoRefresh.accesskey             "W">
+<!ENTITY siteSpecific.label                     "მასშტაბების დამახსოვრება ცალკეული საიტებისათვის">
+<!ENTITY siteSpecific.accesskey                 "m">

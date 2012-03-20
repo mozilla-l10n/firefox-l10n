@@ -1,0 +1,16 @@
+<!ENTITY networkPanel.requestURL                  "მოთხოვნის URL">
+<!ENTITY networkPanel.requestMethod               "მოთხოვნის მეთოდი">
+<!ENTITY networkPanel.statusCode                  "სტატუსის კოდი">
+
+<!ENTITY networkPanel.requestHeaders              "მოთხოვნის თავსართი">
+<!ENTITY networkPanel.requestCookie               "ნაჭდევის გაგზავნა">
+<!ENTITY networkPanel.requestBody                 "მოთხოვნის ტექსტი">
+<!ENTITY networkPanel.requestFormData             "ფორმის მონაცემთა გაგზავნა">
+
+<!ENTITY networkPanel.responseHeaders             "პასუხის თავსართი">
+<!ENTITY networkPanel.responseBody                "პასუხის ტექსტი">
+<!ENTITY networkPanel.responseBodyCached          "მონაცემები ბუფერში">
+<!ENTITY networkPanel.responseBodyUnknownType     "შიგთავსის უცნობი ტიპი">
+<!ENTITY networkPanel.responseNoBody              "პასუხის ტექსტი არაა">
+<!ENTITY networkPanel.responseImage               "მიღებული გამოსახულებები">
+<!ENTITY networkPanel.responseImageCached         "გამოსახულება ბუფერში">

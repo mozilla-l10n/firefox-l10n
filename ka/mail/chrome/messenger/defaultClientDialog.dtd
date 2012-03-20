@@ -1,9 +1,0 @@
-<!ENTITY defaultClient.title  "ნაგულისხმები კლიენტი">
-<!ENTITY defaultClient.intro  "&brandShortName; პროგრამის ნაგულისხმებ კლიენტად გამოყენება:">
-
-<!ENTITY email.label "ელფოსტა">
-<!ENTITY newsgroups.label "სიახლეთა ჯგუფები">
-<!ENTITY rss.label "RSS არხები">
-
-<!ENTITY checkOnStartup.label "ყოველთვის შემოწმება &brandShortName; პროგრამის გახსნისას">
-<!ENTITY checkOnStartup.accesskey "A">

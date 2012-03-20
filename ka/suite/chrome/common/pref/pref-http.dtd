@@ -17,3 +17,6 @@
 <!ENTITY prefEnablePipeliningProxy.accesskey "N">
 <!ENTITY prefPara                            "HTTP კავშირების წარმადობისა და თავსებადობის გაზრდა ამ პარამეტრებითაა შესაძელებელი.  მაგალითად, ზოგიერთი პროქსი სერვერი საჭიროებს HTTP/1.0-ს (იხ. დოკუმენტაცია).">
 <!ENTITY prefPipeWarning                     "გაფრთხილება: გადამისამართება გვერდის ჩატვირთვის წარმადობის გაზრდის ფუნქციაა, რომელსაც სამწუხაროდ ყველა ვებ და პროქსი სერვერი ჯერეჯერობით ვერ იყენებს..">
+<!ENTITY prefUseragent.label                 "User Agent ტექსტი">
+<!ENTITY prefFirefoxCompat.label             "Firefox თავსებადობის ასახვა">
+<!ENTITY prefFirefoxCompat.accesskey         "F">

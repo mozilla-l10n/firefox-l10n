@@ -7,17 +7,13 @@
 <!ENTITY defaultSearchEngine.label        "ძიების მეთოდი:">
 <!ENTITY defaultSearchEngine.accesskey    "S">
 
-<!ENTITY openSidebarSearchPanel.label     "ძიებისას სტენდზე ძიების დაფის გახსნა">
-<!ENTITY openSidebarSearchPanel.accesskey "O">
-
-<!ENTITY openContextSearchTab.label       "სარკმლის ნაცვლად დაფის გახსნა კონტექსტური მენიუდან ვებ ძიებისას">
-<!ENTITY openContextSearchTab.accesskey   "t">
+<!ENTITY engineManager.label              "საძიებო სისტემების მართვა…">
 
 <!ENTITY searchResults.label              "ძიების შედეგები">
 
-<!ENTITY sidebarSearchTabPref.label       "პანელის ძიების დაფის პარამეტრები">
-<!ENTITY searchModeBasic.label            "ძირითადი">
-<!ENTITY searchModeBasic.accesskey        "B">
-<!ENTITY searchModeAdvanced.label         "დეტალური">
-<!ENTITY searchModeAdvanced.accesskey     "A">
-
+<!ENTITY openInTab.label                  "სტენდის ძიების შედეგების ახალ დაფახზე გახსნა">
+<!ENTITY openInTab.accesskey              "n">
+<!ENTITY openContextSearchTab.label       "კონტექსტური მენიუდან ძიების შედეგების დაფაზე გახსნა სარკმლის ნაცვლად">
+<!ENTITY openContextSearchTab.accesskey   "t">
+<!ENTITY openSidebarSearchPanel.label     "ძიების დაწყებისას ძიების დაფის სტენდზე გახსნა">
+<!ENTITY openSidebarSearchPanel.accesskey "O">

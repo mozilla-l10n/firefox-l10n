@@ -4,7 +4,7 @@
 <!ENTITY signatureCert.label "ხელმოწერის სერთიფიკატის ნახვა">
 <!ENTITY encryptionCert.label "დაშიფვრის სერთიფიკატის ნახვა">
 
-<!ENTITY signer.name "ხელმომწერი:">
+<!ENTITY signer.name "ხელმოწერა:">
 <!ENTITY recipient.name "დაშიფრულია:">
 <!ENTITY email.address "ელფოსტა:">
 <!ENTITY issuer.name "გაცემულია:">

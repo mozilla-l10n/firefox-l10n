@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+﻿<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -101,6 +101,9 @@
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "ჩარჩოს ჩვენება ბმის ნახატისათვის">
 <!ENTITY showImageLinkBorder.accessKey "B">
+<!ENTITY LinkAdvancedEditButton.label "ბმის პარამეტრების რედაქცია…">
+<!ENTITY LinkAdvancedEditButton.accessKey "L">
+<!ENTITY LinkAdvancedEditButton.tooltip "HTML ან სტილის ატრიბუტებისა და JavaScript-ის დამატება ან შეცვლა">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "ფორმა">

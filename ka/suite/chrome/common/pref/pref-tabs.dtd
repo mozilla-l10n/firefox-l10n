@@ -4,23 +4,13 @@
 <!ENTITY autoHide.accesskey "d">
 <!ENTITY background.label "ბმებიდან გახსნილი დაფების არჩევა">
 <!ENTITY background.accesskey "S">
-<!ENTITY loadGroup.label "სანიშნეების ჯგუფების გახსნისას">
+<!ENTITY warnOnClose.label "გამაფრთხილებ მრავალი დაფის ერთდროულად დახურვისას">
+<!ENTITY warnOnClose.accesskey "W">
+<!ENTITY relatedAfterCurrent.label "დაკავშირებული დაფების გახსნა მიმდინარე დაფის შემდეგ">
+<!ENTITY relatedAfterCurrent.accesskey "O">
+<!ENTITY loadGroup.label "სანიშნეთა ჯგუფის გახსნისას">
 <!ENTITY loadGroupAppend.label "დაფების დამატება">
 <!ENTITY loadGroupAppend.accesskey "A">
-<!ENTITY loadGroupReplace.label "არსებული დაფების შეცვლა">
+<!ENTITY loadGroupReplace.label "არსებული დაფების ჩანაცვლება">
 <!ENTITY loadGroupReplace.accesskey "R">
-<!ENTITY openTabs.label "სარკმლების ნაცვლად დაფებად გახსნა როცა:">
-
-<!ENTITY newWindow.label "ბმის გახსნის წესები">
-<!ENTITY newWindowDescription.label "ბმების გახსნა ნიშნავს ახალი სარკმლის გახსნას">
-<!ENTITY external.label "სხვა პროგრამების ბმების გახსნა">
-<!ENTITY externalDescription.label "სხვა პროგრამებიდან გადმოცემული ბმების გახსნა">
-<!ENTITY openCurrent.label "მიმდინარე დაფაზე/სარკმელში">
-<!ENTITY newWindowGroupCurrent.accesskey "c">
-<!ENTITY externalGroupCurrent.accesskey "u">
-<!ENTITY openTab.label "მიმდინარე სარკმლის ახალ დაფაზე">
-<!ENTITY newWindowGroupTab.accesskey "n">
-<!ENTITY externalGroupTab.accesskey "e">
-<!ENTITY openWindow.label "ახალ სარკმელში">
-<!ENTITY newWindowGroupWindow.accesskey "w">
-<!ENTITY externalGroupWindow.accesskey "o">
+<!ENTITY openTabs.label "გახსნა დაფებზე ნაცვლად სარკმლებისა">

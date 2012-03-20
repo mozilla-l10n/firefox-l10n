@@ -47,5 +47,8 @@
 <!ENTITY copyLinkCmd.label                 "ბმის მისამართის კოპირება">
 <!ENTITY copyLinkCmd.accesskey             "C">
 <!ENTITY CopyMessageId.label               "გზავნილის კოპირება კოდით (ID)">
+<!ENTITY CopyMessageId.accesskey           "C">
 <!ENTITY OpenMessageForMsgId.label         "გზავნილის გახსნა კოდით (ID)">
+<!ENTITY OpenMessageForMsgId.accesskey     "O">
 <!ENTITY OpenBrowserWithMsgId.label        "ბრაუზერით გზავნილის გახსნა კოდით (ID)">
+<!ENTITY OpenBrowserWithMsgId.accesskey    "B">

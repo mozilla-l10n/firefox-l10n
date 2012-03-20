@@ -6,16 +6,11 @@
 <!ENTITY tabNavigationForms.accesskey "B">
 <!ENTITY tabNavigationTextboxes.label "შენიშვნა: ტექსტურ ველები და გადახვევადი რეგიონები ყოველთვის მისაწვდომია დაფების რიგით.">
 <!ENTITY tabNavigationDesc.label "თუ დაჭერილია Tab ან Shift+Tab, გადასვლა აქ:">
-<!ENTITY findAsYouTypeBehavior.label "ძებნა ტექსტის აკრეფისას">
-<!ENTITY findAsYouTypeTip.label "რჩევა: სწრაფი ძებნის ჩასართავად აკრიფეთ / ტექსტის ან ' ბმების მოსაძებნად და შემდეგ საძიებო ტექსტი.">
-<!ENTITY findAsYouTypeTimeout.label "მიმდინარე ძებნის გაუქმება რამდენიმე წამის არააქტიურობის შემდეგ">
-<!ENTITY findAsYouTypeTimeout.accesskey "C">
-<!ENTITY findAsYouTypeSound.label "ხმოვანი სიგნალი ტექსტის ვერ მოძებნის შემთხვევაში">
-<!ENTITY findAsYouTypeSound.accesskey "P">
-<!ENTITY findAsYouTypeEnableAuto.label "ვებგვერდზე ტექსტის აკრეფისას ავტომატური ძებნა:">
-<!ENTITY findAsYouTypeEnableAuto.accesskey "F">
-<!ENTITY findAsYouTypeAutoText.label "ნებისმიერი ტექსტი">
-<!ENTITY findAsYouTypeAutoText.accesskey "A">
-<!ENTITY findAsYouTypeAutoLinks.label "მხოლოდ ბმები">
-<!ENTITY findAsYouTypeAutoLinks.accesskey "o">
-
+<!ENTITY accessibilityBrowseWithCaret.label "აქტიური კურსორის რეჟიმი">
+<!ENTITY browseWithCaretDesc.label "აქტიური კურსორის რეჟიმში გვერდებზე გადაადგილებასა და ტექსტის შერჩევას კურსორის კლავიშებით შეძლებთ.">
+<!ENTITY browseWithCaretUse.label "აქტიური კურსორის რეჟიმის გამოყენება">
+<!ENTITY browseWithCaretUse.accesskey "U">
+<!ENTITY browseWithCaretShortCut.label "F7 კლავიშის გამოყენება აქტიური კურსორის რეჟიმის გადასართავად">
+<!ENTITY browseWithCaretShortCut.accesskey "F">
+<!ENTITY browseWithCaretWarn.label "გაფრთხილება აქტიური კურსორის რეჟიმის ჩართვამდე">
+<!ENTITY browseWithCaretWarn.accesskey "W">

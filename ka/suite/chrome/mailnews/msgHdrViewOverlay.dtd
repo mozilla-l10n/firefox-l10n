@@ -19,7 +19,7 @@
  Portions created by the Initial Developer are Copyright (C) 1998-1999
  the Initial Developer. All Rights Reserved.
 
- Contributor(s):Gia Shervashidze - Georgian l10n
+ Contributor(s):Gia Shervashidze (Georgian l10n)
 
  Alternatively, the contents of this file may be used under the terms of
  either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -43,35 +43,37 @@
 
 <!ENTITY subjectField.label "თემა: ">
 <!--# LOCALIZATION NOTE (ccField.label): DONT_TRANSLATE -->
-<!ENTITY ccField.label "ასლი: ">
-<!ENTITY bccField.label "მეორე ასლი: ">
-<!ENTITY newsgroupsField.label "ჯგუფები: ">
-<!ENTITY followupToField.label "კონფერენცია: ">
+<!ENTITY ccField.label "ასლი ">
+<!ENTITY bccField.label "ფარული ასლი ">
+<!ENTITY newsgroupsField.label "ჯგუფები ">
+<!ENTITY followupToField.label "კონფერენცია ">
 
-<!ENTITY tagsHdr.label "ჭდეები: ">
-<!ENTITY dateField.label "თარიღი: ">
-<!ENTITY userAgentField.label "კლიენტი-აგენტი: ">
-<!ENTITY referencesField.label "დამოწმებები: ">
-<!ENTITY messageIdField.label "გზავნილის კოდი (ID): ">
-<!ENTITY inReplyToField.label "პასუხად: ">
-<!ENTITY originalWebsite.label "ვებსაიტი: ">
+<!ENTITY tagsHdr.label "ჭდეები ">
+<!ENTITY dateField.label "თარიღი ">
+<!ENTITY userAgentField.label "პროგრამა ">
+<!ENTITY referencesField.label "დამოწმებები ">
+<!ENTITY messageIdField.label "გზავნილის კოდი ">
+<!ENTITY inReplyToField.label "პასუხად ">
+<!ENTITY originalWebsite.label "ვებსაიტი ">
 
-<!ENTITY editMessage.label "ესკიზის რედაქტირება…">
+<!ENTITY editMessage.label                 "ესკიზის რედაქტირება…">
+<!ENTITY editMessage.accesskey             "D">
 
 <!ENTITY attachmentsTree.label             "ჩანართები:">
+<!ENTITY attachmentsTree.accesskey         "c">
 <!ENTITY openAttachmentCmd.label           "გახსნა">
-<!ENTITY openAttachmentCmd.accesskey       "O">
+<!ENTITY openAttachmentCmd.accesskey		"O">  
 <!ENTITY viewAttachmentCmd.label           "წყაროს ჩვენება">
 <!ENTITY viewAttachmentCmd.accesskey       "V">
-<!ENTITY saveAsAttachmentCmd.label         "შენახვა როგორც…">
-<!ENTITY saveAsAttachmentCmd.accesskey     "A">
+<!ENTITY saveAsAttachmentCmd.label         "შენახვა…">
+<!ENTITY saveAsAttachmentCmd.accesskey		"A"> 
 <!ENTITY detachAttachmentCmd.label         "განცალკევება…">
 <!ENTITY detachAttachmentCmd.accesskey     "h">
 <!ENTITY deleteAttachmentCmd.label         "წაშლა">
 <!ENTITY deleteAttachmentCmd.accesskey     "t">
 <!ENTITY saveAllAttachmentsCmd.label       "ყველას შენახვა…">
-<!ENTITY saveAllAttachmentsCmd.accesskey   "S">
-<!ENTITY detachAllAttachmentsCmd.label     "ყველას განცალკევება…">
-<!ENTITY detachAllAttachmentsCmd.accesskey "D">
-<!ENTITY deleteAllAttachmentsCmd.label     "ყველას წაშლა…">
+<!ENTITY saveAllAttachmentsCmd.accesskey		"S">  
+<!ENTITY detachAllAttachmentsCmd.label    "ყველას განცალკევება…">  
+<!ENTITY detachAllAttachmentsCmd.accesskey    "D">  
+<!ENTITY deleteAllAttachmentsCmd.label    "ყველას წაშლა…">  
 <!ENTITY deleteAllAttachmentsCmd.accesskey "e">

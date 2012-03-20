@@ -3,6 +3,8 @@
 
 <!ENTITY itemHistory.label               "ისტორია">
 <!ENTITY itemHistory.accesskey           "B">
+<!ENTITY itemUrlBar.label                "მისამართების პანელის ისტორია">
+<!ENTITY itemUrlBar.accesskey            "L">
 <!ENTITY itemDownloads.label             "ჩამოტვირთვების ისტორია">
 <!ENTITY itemDownloads.accesskey         "D">
 <!ENTITY itemFormSearchHistory.label     "შენახული ფორმა და ძიების ისტორია">

@@ -1,0 +1,11 @@
+<!ENTITY title           "მოდულის გადგმა">
+<!ENTITY intro           "სხვა პროგრამა თქვენი კომპიუტერიდან ცდილობს შეცვალოს
+                          &brandShortName; შემდეგი მოდულის საშუალებით:">
+<!ENTITY warning         "მოდულების ჩადგმა მხოლოდ თქვენთვის სანდო ავტორებისგან.">
+<!ENTITY allow           "ამ მოდულის ჩადგმის ნებართვა">
+<!ENTITY later           "ყოველთვის შეგიძლიათ გადაიფიქროთ და შეცვალოთ
+                          გადაწყვეტილება მოდულების მმართველიდან.">
+<!ENTITY continue        "გაგრძელება">
+<!ENTITY restartMessage  "ამ მოდულის ჩადგმის დასასრულებლად უნდა დახუროთ და ხელახლა გახსნათ  &brandShortName;.">
+<!ENTITY restartButton   "ხელახლა გახსნა - &brandShortName;">
+<!ENTITY cancelButton    "გაუქმება">

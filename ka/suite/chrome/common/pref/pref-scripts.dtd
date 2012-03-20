@@ -1,7 +1,7 @@
 <!-- extracted from content/pref-scripts.xul -->
 
-<!--LOCALIZATION NOTE : FILE The 'Scripts & Plug-ins' preferences dialog -->
-<!ENTITY pref.scripts.title              "სცენარები და მოდულები">
+<!--LOCALIZATION NOTE : FILE The 'Scripts & Plugins' preferences dialog -->
+<!ENTITY pref.scripts.title              "Scripts &amp; Plugins">
 
 <!ENTITY navigator.label                 "ნავიგატორი">
 <!ENTITY navigator.accesskey             "N">
@@ -18,3 +18,7 @@
 <!ENTITY allowHideStatusBar.label        "სტატუსის პანელის დამალვა">
 
 <!ENTITY enablePlugin.label              "მოდულების გააქტივება">
+
+<!ENTITY whenPluginsRequired.label       "დამატებითი მოდულების საჭიროებისას">
+<!ENTITY displayNotification.label       "შეტყობინების პანელის ჩვენება შიგთავსის არის ზემოთ">
+<!ENTITY displayNotification.accesskey   "N">

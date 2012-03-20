@@ -45,3 +45,5 @@
 <!ENTITY folderRestriction2.label   "ახალ დასტაში შეიძლება ინახებოდეს:">
 <!ENTITY foldersOnly.label          "მხოლოდ დასტები">
 <!ENTITY messagesOnly.label         "მხოლოდ წერილები">
+<!ENTITY accept.label               "დასტის შექმნა">
+<!ENTITY accept.accesskey           "r">

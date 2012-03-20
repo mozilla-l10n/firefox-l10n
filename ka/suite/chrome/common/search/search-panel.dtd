@@ -11,19 +11,19 @@
    - for the specific language governing rights and limitations under the
    - License.
    -
-   - The Original Code is Mozilla Communicator.
+   - The Original Code is SeaMonkey search panel.
    -
    - The Initial Developer of the Original Code is
-   - Netscape Communications Corp.
-   - Portions created by the Initial Developer are Copyright (C) 1999
+   - the Mozilla Foundation.
+   - Portions created by the Initial Developer are Copyright (C) 2010
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   Robert John Churchill <rjc@netscape.com>
+   -   Robert Kaiser <kairo@kairo.at>
    -
    - Alternatively, the contents of this file may be used under the terms of
-   - either of the GNU General Public License Version 2 or later (the "GPL"),
-   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - either the GNU General Public License Version 2 or later (the "GPL"), or
+   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
    - in which case the provisions of the GPL or the LGPL are applicable instead
    - of those above. If you wish to allow use of your version of this file only
    - under the terms of either the GPL or the LGPL, and not to allow others to
@@ -36,15 +36,6 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY search.button.label      "ძიება">
-<!ENTITY allengines.label         "ყველა სისტემა">
-<!ENTITY within.label             "კატეგორიებში">
-<!ENTITY using.label              "საშუალებით">
-<!ENTITY choose.label             "შეარჩიეთ საძიებო სისტემა და დაწკაპეთ «ძიება»">
-<!ENTITY results.label            "ძიების შედეგები">
-<!ENTITY engine.column.label      "საძიებო სისტემები">
-<!ENTITY customize.menuitem.label "კატეგორიების შეცვლა …">
-<!ENTITY next.button.label        "შემდეგი">
-<!ENTITY previous.button.label    "წინა">
-<!ENTITY next.button.tooltip      "ძიების შემდეგი შედეგების ჩვენება">
-<!ENTITY previous.button.tooltip  "ძიების წინა შედეგების ჩვენება">
+<!ENTITY search.placeholder       "მიუთითეთ საძიებო კონტექსტი">
 
+<!ENTITY search.engineManager.label "საძიებო სისტემების მართვა…">

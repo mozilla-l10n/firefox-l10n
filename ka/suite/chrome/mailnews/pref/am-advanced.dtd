@@ -1,8 +1,5 @@
-<!-- extracted from am-advanced.xul -->
-
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpServer.label "გამავალი ფოსტის (SMTP) სერვერის პარამეტრები">
-
 <!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpDesc.label "შეგიძლიათ მიუთითოთ ერთზე მეტი - გასული ფოსტის (SMTP) სერვერი.  რეკომენდებულია მხოლოდ გამოცდილი წევრებისთვის. რამდენიმე SMTP სერვერის მითითებისას წერილების გაგზავნისას შესაძლებელია შეცდომები.">
 
@@ -19,5 +16,5 @@
 <!ENTITY serverName.label "სერვერის სახელი: ">
 <!ENTITY serverPort.label "პორტი: ">
 <!ENTITY userName.label   "სახელი: ">
-<!ENTITY useSecureConnection.label   "უსაფრთხო კავშირი: ">
-<!ENTITY useSecureAuthentication.label   "უსაფრთხო აუთენტიფიკაცია: ">
+<!ENTITY connectionSecurity.label "კავშირის უსაფრთხოება: ">
+<!ENTITY authMethod.label   "აუთენტიფიკაციის მეთოდი: ">

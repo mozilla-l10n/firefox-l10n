@@ -11,6 +11,7 @@
 <!ENTITY languages.customize.add.title.label		    "ენების დამატება">
 <!ENTITY languages.customize.available.label            "ენები:">
 <!ENTITY languages.customize.active.label               "ენების სასურველი რიგი:">
+<!ENTITY languages.customize.active.accesskey           "L">
 <!ENTITY languages.customize.others.label               "სხვები:">
 <!ENTITY languages.customize.others.accesskey           "O">
 <!ENTITY languages.customize.Charset.grouplabel         "კოდირება">

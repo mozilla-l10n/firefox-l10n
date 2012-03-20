@@ -1,0 +1,25 @@
+<!ENTITY  engineManager.title       "საძიებო სისტემათა სიის მართვა">
+<!ENTITY  engineManager.style       "min-width: 35em;">
+<!ENTITY  engineManager.intro       "თქვენ სარგებლობთ შემდეგი საძიებო სისტემებით:">
+
+<!ENTITY  columnLabel.name          "სახელი">
+<!ENTITY  columnLabel.keyword       "საკვანძო სიტყვა">
+
+<!-- Buttons -->
+<!ENTITY  up.label                  "ატანა">
+<!ENTITY  up.accesskey              "U">
+<!ENTITY  dn.label                  "ჩამოტანა">
+<!ENTITY  dn.accesskey              "D">
+<!ENTITY  remove.label              "ამოღება">
+<!ENTITY  remove.accesskey          "R">
+<!ENTITY  edit.label                "საკვანძო სიტყვის რედაქცია…">
+<!ENTITY  edit.accesskey            "t">
+
+<!ENTITY  addEngine.label           "სხვა საძიებო სისტემები…">
+<!ENTITY  addEngine.accesskey       "A">
+
+<!ENTITY  enableSuggest.label       "შემოთავაზებათა ჩვენება">
+<!ENTITY  enableSuggest.accesskey   "S">
+
+<!ENTITY  restoreDefaults.label     "ნაგულისხმების აღდგენა">
+<!ENTITY  restoreDefaults.accesskey "e">

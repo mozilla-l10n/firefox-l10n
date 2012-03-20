@@ -46,6 +46,7 @@
 <!ENTITY  selectall.key         "A">
 <!ENTITY  selectall.label       "სრული მონიშვნა">
 <!ENTITY  selectall.accesskey   "A">
+<!ENTITY  openHelpMac.key       "?">
 <!ENTITY  closeWindow.key       "w">
 
 <!ENTITY  generalTab            "ძირითადი">
@@ -60,8 +61,8 @@
 <!ENTITY  generalEncoding       "კოდირება:">
 <!ENTITY  generalMetaName       "სახელი">
 <!ENTITY  generalMetaContent    "შიგთავსი">
-<!ENTITY  generalSecurityMore   "დაწვრილებით">
-<!ENTITY  generalSecurityMore.accesskey "o">
+<!ENTITY  generalSecurityDetails           "დაწვრილებით">
+<!ENTITY  generalSecurityDetails.accesskey "D">
 
 <!ENTITY  formsTab              "ფორმები">
 <!ENTITY  formsTab.accesskey    "F">
@@ -112,6 +113,7 @@
 <!ENTITY  permTab               "უფლებები">
 <!ENTITY  permTab.accesskey     "P">
 <!ENTITY  permUseDefault        "ნაგულისხმების გამოყენება">
+<!ENTITY  permAskAlways         "ყოველთვის დამეკითხე">
 <!ENTITY  permAllow             "დაშვება">
 <!ENTITY  permAllowSession      "დაშვება სეანსზე">
 <!ENTITY  permBlock             "დაბლოკვა">
@@ -120,6 +122,7 @@
 <!ENTITY  permPopup             "ჩამოშლადი სარკმლების გახსნა">
 <!ENTITY  permCookie            "ნაჭდევების მითითება">
 <!ENTITY  permInstall           "პაკეტების ან თემების ჩადგმა">
+<!ENTITY  permGeo               "მდებარეობის გაზიარება">
 
 <!ENTITY  securityTab           "უსაფრთხოება">
 <!ENTITY  securityTab.accesskey "S">
@@ -135,7 +138,7 @@
 <!ENTITY  securityView.identity.verifier "შეამოწმა: ">
 
 <!ENTITY  securityView.privacy.header                   "კონფიდენციალობა და ისტორია">
-<!ENTITY  securityView.privacy.history                  "ეს საიტი დღემდე ნანახი მაქვს?">
+<!ENTITY  securityView.privacy.history                  "ეს საიტი დღემდე გამიხსნია?">
 <!ENTITY  securityView.privacy.cookies                  "ეს საიტი ინფორმაციას (ნაჭდევებს) ჩემს კომპიუტერში ინახავს?">
 <!ENTITY  securityView.privacy.viewCookies              "ნაჭდევების ჩვენება">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">

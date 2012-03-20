@@ -48,8 +48,8 @@
 <!ENTITY resetToolbars.label          "პულტისა და კონტროლის აღდგენა">
 <!ENTITY resetToolbars.accesskey      "R">
 
-<!ENTITY resetBookmarks.label         "სანიშნეების აღდგენა &brandShortName;-ის ნაგულისხმებამდე">
-<!ENTITY resetBookmarks.accesskey     "b">
+<!ENTITY deleteBookmarks.label        "ყველა სანიშნის წაშლა მარქაფების გარდა">
+<!ENTITY deleteBookmarks.accesskey    "b">
 
 <!ENTITY resetUserPrefs.label         "მომხმარებლის ყველა პარამეტრის აღდგენა &brandShortName; ნაგულისხმებამდე">
 <!ENTITY resetUserPrefs.accesskey     "p">

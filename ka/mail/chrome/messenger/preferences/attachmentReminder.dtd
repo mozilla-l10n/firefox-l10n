@@ -1,0 +1,8 @@
+<!ENTITY attachmentReminderDialog.title   "ჩანართის შეხსენების საკვანძო სიტყვები">
+<!ENTITY attachKeywordText.label          "&brandShortName; შესაძლო გამოტოვებული შეგახსენებთ ჩანართების შესახებ თუ ამ რომელიმე საკვანძო სიტყვის შემცველი წერილის გაგზავნას დააპირებთ.">
+<!ENTITY addKeywordButton.label           "დამატება">
+<!ENTITY addKeywordButton.accesskey       "A">
+<!ENTITY editKeywordButton.label          "რედაქტირება">
+<!ENTITY editKeywordButton.accesskey      "E">
+<!ENTITY removeKeywordButton.label        "წაშლა">
+<!ENTITY removeKeywordButton.accesskey    "D">

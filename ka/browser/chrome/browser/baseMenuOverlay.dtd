@@ -10,39 +10,29 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "დახმარება"> 
 <!ENTITY helpMenuWin.accesskey    "H">
-<!ENTITY aboutCmd.label           "&brandFullName;-ის შესახებ">
-<!ENTITY aboutCmd.accesskey       "A">
-<!ENTITY helpContents.label       "დახმარების შინაარსი">
-<!ENTITY helpContents.accesskey   "H">
-<!ENTITY helpContentsMac.label    "&brandShortName; კარნახი">
-<!ENTITY helpForIEUsers.label     "Internet Explorer-ის მომხმარებელთათვის">
-<!ENTITY helpForIEUsers.accesskey "I">
-<!ENTITY openHelp.commandkey      "VK_F1">
-<!-- LOCALIZATION NOTE openHelpMac.commandkey and openHelpMac.modifiers
-                       are all the necessary keys to hit OS X's open-help 
-                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
-<!ENTITY openHelpMac.commandkey           "/">
-<!ENTITY openHelpMac.modifiers            "accel,shift">
-<!ENTITY openHelpMac.frontendCommandkey   "?">
-<!ENTITY openHelpMac.frontendModifiers    "accel">
+<!ENTITY aboutProduct.label           "&brandShortName;-ის შესახებ">
+<!ENTITY aboutProduct.accesskey       "A">
+<!ENTITY productHelp.label        "&brandShortName; დახმარება">
+<!ENTITY productHelp.accesskey    "H">
+<!ENTITY helpMac.commandkey       "?">
+<!ENTITY helpSafeMode.label       "ხელახლა გახსნა ამორთული მოდულებით…">
+<!ENTITY helpSafeMode.accesskey   "R">
 
-<!ENTITY helpReleaseNotes.label         "ვერსიის შესახებ">
-<!ENTITY helpReleaseNotes.accesskey     "N">
-<!ENTITY updateCmd.label                "განახლებების შემოწმება…">
-<!ENTITY updateCmd.accesskey            "o">
+<!ENTITY helpTroubleshootingInfo.label      "შეცდომები, პრობლემები…">
+<!ENTITY helpTroubleshootingInfo.accesskey  "T">
+
+<!ENTITY helpFeedbackPage.label      "გამოხმაურების გაგზავნა…">
+<!ENTITY helpFeedbackPage.accesskey  "S">
 
 <!ENTITY preferencesCmdMac.label        "პარამეტრები…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
-<!ENTITY preferencesCmdMac.modifiers    "accel">
 
 <!ENTITY servicesMenuMac.label          "მომსახურება">
 
 <!ENTITY hideThisAppCmdMac.label        "&brandShortName;-ის დამალვა">
 <!ENTITY hideThisAppCmdMac.commandkey   "H">
-<!ENTITY hideThisAppCmdMac.modifiers    "accel">
 
 <!ENTITY hideOtherAppsCmdMac.label      "სხვების დამალვა">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 
 <!ENTITY showAllAppsCmdMac.label        "ყველას ჩვენება">

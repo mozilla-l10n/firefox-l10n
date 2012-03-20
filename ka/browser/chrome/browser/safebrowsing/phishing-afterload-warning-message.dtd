@@ -13,14 +13,14 @@
 <!ENTITY safeb.palm.decline.label "გაფრთხილების იგნორირება">
 <!ENTITY safeb.palm.decline.statustext "გაფრთხილების დახურვა" >
 <!ENTITY safeb.palm.notforgery.label2 "ეს არაა ვებ ყალთაბანდობა…">
-<!ENTITY safeb.palm.report.label "რატომაა ეს საიტი დაბლოკილი?">
+<!ENTITY safeb.palm.reportPage.label "რატომაა ეს გვერდი დაბლოკილი?">
 
-<!ENTITY safeb.blocked.malware.title "მოიერიშე საიტის პატაკი!">
+<!ENTITY safeb.blocked.malwarePage.title "მოიერიშე გვერდის პატაკი!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malware.shortDesc "ეს ვებ საიტი <span id='malware_sitename'/> ცნობილია როგორც მოიერიშე საიტი და დაიბლოკა თქვენი უსაფრთხოების პარამეტრების თანახმად.">
-<!ENTITY safeb.blocked.malware.longDesc "<p>მოიერიშე საიტები ცდილობენ ჩადგან პროგრამები, რომლითაც იპარავენ კერძო ინფორმაციას, იყენებენ თქვენს კომპიუტერს სხვების შასატევად ან აზიანებენ თქვენს სისტემას.</p><p>ზოგიერთი მოიერიშე საიტი განზრახ ავრცელებს მავნე ინფორმაციას, თუმცა ბევრი სხვა ამას საიტის მფლობელის ნებართვის გარეშე ისე აკეთებს, რომ მფლობელი საქმის კურსში არაა.</p>">
+<!ENTITY safeb.blocked.malwarePage.shortDesc "ეს ვებ გვერდი <span id='malware_sitename'/> ცნობილია როგორც მოიერიშე გვერდი და დაიბლოკა თქვენი უსაფრთხოების პარამეტრების თანახმად.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>მოიერიშე გვერდები ცდილობენ ჩადგან პროგრამები, რომლითაც იპარავენ კერძო ინფორმაციას, იყენებენ თქვენს კომპიუტერს სხვების შესატევად ან აზიანებენ თქვენს სისტემას.</p><p>ზოგიერთი მოიერიშე გვერდი განზრახ ავრცელებს მავნე ინფორმაციას, თუმცა ბევრი სხვა ამას საიტის მფლობელის ნებართვის გარეშე ისე აკეთებს, რომ მფლობელი საქმის კურსში არაა.</p>">
 
-<!ENTITY safeb.blocked.phishing.title "ვებ ყალთაბანდობის პატაკი!">
+<!ENTITY safeb.blocked.phishingPage.title "ვებ ყალთაბანდობის პატაკი!">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishing.shortDesc "ეს ვებ საიტი <span id='phishing_sitename'/> ცნობილია როგორც ვებ ყალთაბანდი და დაიბლოკა თქვენი უსაფრთხოების პარამეტრების თანახმად.">
-<!ENTITY safeb.blocked.phishing.longDesc "<p>ვებ ყალთაბანდი საიტები შექმნილია რათა თაღლითურად გამოგტყუონ თქვენი პირადი და ფინანსური ინფორმაცია თქვენთვის სანდო წყაროების იმიტაციით.</p><p>რაიმე ინფორმაციის შეტანა ასეთ ვებ გვერდზე შესაძლებელია თქვენი იდენტურობის მოპარვის ან სხვა თაღლითობის მიზეზი გახდეს.</p>">
+<!ENTITY safeb.blocked.phishingPage.shortDesc "ეს ვებ გვერდი <span id='phishing_sitename'/> ცნობილია როგორც ვებ ყალთაბანდი და დაიბლოკა თქვენი უსაფრთხოების პარამეტრების თანახმად.">
+<!ENTITY safeb.blocked.phishingPage.longDesc "<p>ვებ ყალთაბანდი გვერდი შექმნილია რათა თაღლითურად გამოგტყუონ თქვენი პირადი და ფინანსური ინფორმაცია თქვენთვის სანდო წყაროების იმიტაციით.</p><p>რაიმე ინფორმაციის შეტანა ასეთ ვებ გვერდზე შესაძლებელია თქვენი იდენტურობის მოპარვის ან სხვა თაღლითობის მიზეზი გახდეს.</p>">

@@ -64,7 +64,14 @@
 <!ENTITY return.label                      "არ გამოიტანო">
 <!ENTITY return.accesskey                  "r">
 <!ENTITY results.label                     "-ზე მეტი შედეგი">
-<!ENTITY offlineText.label                 "თქვენ შეგიძლიათ ამ დასტის ადგილობრივად ჩამოტვირთვა მასთან ავტონომიურ რეჟიმში სამუშაოდ.">
+<!ENTITY offlineText.label                 "შეგიძლიათ ამ დასტის ადგილობრივად ჩამოტვირთვა მასთან ავტონომიურ რეჟიმში სამუშაოდ.">
+<!ENTITY saslMechanism.label               "შესვლის მეთოდი: ">
+<!ENTITY saslMechanism.accesskey           "m">
+<!ENTITY saslOff.label                     "მარტივი">
+<!ENTITY saslOff.accesskey		   "l">
+<!ENTITY saslGSSAPI.label                  "კერბეროსი (GSSAPI)">
+<!ENTITY saslGSSAPI.accesskey		   "K">
+
 <!-- Localization note: this is here because the width of the dialog 
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.

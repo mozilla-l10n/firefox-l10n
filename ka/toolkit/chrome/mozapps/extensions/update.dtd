@@ -59,5 +59,3 @@
 <!ENTITY  clickFinish.label               "დაწკაპეთ დასრულება &brandShortName; ახალი სეანსით გასაგრძელებლად.">
 <!ENTITY  clickFinish.labelMac            "&brandShortName; პროგრამის გასახსნელად დაწკაპეთ - მზადაა.">
 <!ENTITY  enableChecking.label            "&brandShortName; პროგრამისთვის განახლებების შემოწმების ნებართვა.">
-<!ENTITY  details.label                   "დეტალები…">
-<!ENTITY  details.accesskey               "D">

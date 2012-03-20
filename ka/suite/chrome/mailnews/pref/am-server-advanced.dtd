@@ -14,7 +14,7 @@
 <!ENTITY namespaceDesc.label "ეს პარამეტრები მიუთითებენ თქვენი IMAP სერვერის სახელთა არეებს">
 <!ENTITY personalNamespace.label "სახელთა პირადი არე:">
 <!ENTITY personalNamespace.accesskey "P">
-<!ENTITY publicNamespace.label "საზოგადო (ზიარი):">
+<!ENTITY publicNamespace.label "საზოგადო (საზიარო):">
 <!ENTITY publicNamespace.accesskey "u">
 <!ENTITY otherUsersNamespace.label "სხვა მომხმარებლების:">
 <!ENTITY otherUsersNamespace.accesskey "O">

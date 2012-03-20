@@ -39,8 +39,10 @@
 <!ENTITY generalSettings.caption          "ძირითადი პარამეტრები">
 <!ENTITY confirmMove.label                "თანხმობის მოთხოვნა დასტის ურნაში გადატანისას">
 <!ENTITY confirmMove.accesskey            "C">
-<!ENTITY preserveThreading.label          "წერილების სორტირებისას საქაღალდეების შენარჩუნება">
+<!ENTITY preserveThreading.label          "საქაღალდეების შენარჩუნება წერილების დახარისხებისას">
 <!ENTITY preserveThreading.accesskey      "v">
+<!ENTITY mailBiffOnNewWindow.label        "ახალი ფოსტის შემოწმება მხოლოდ ფოსტისა და სიახლეთა ჯგუფების გახსნის შემდეგ">
+<!ENTITY mailBiffOnNewWindow.accesskey    "O">
 
 <!ENTITY defaultMailSettings.description  "&brandShortName; პროგრამის ნაგულისხმებად მითთება:">
 <!ENTITY setDefaultMail.label             "ფოსტისთვის">
@@ -59,14 +61,3 @@
 <!ENTITY useDefault.accesskey             "D">
 <!ENTITY rememberLastMsg.label            "ბოლო მონიშნული წერილის დამახსოვრება">
 <!ENTITY rememberLastMsg.accesskey        "R">
-<!ENTITY toolbarIntro.caption             "სასურველი ღილაკების შერჩევა პულტზე საჩვენებლად">
-<!ENTITY fileButton.label                 "ფაილი">
-<!ENTITY fileButton.accesskey             "F">
-<!ENTITY nextButton.label                 "შემდეგი">
-<!ENTITY nextButton.accesskey             "x">
-<!ENTITY junkMailButton.label             "ჯართი">
-<!ENTITY junkMailButton.accesskey         "J">
-<!ENTITY printButton.label                "ბეჭდვა">
-<!ENTITY printButton.accesskey            "P">
-<!ENTITY stopButton.label                 "შეჩერება">
-<!ENTITY stopButton.accesskey             "S">

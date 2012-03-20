@@ -1,0 +1,6 @@
+<!ENTITY applyTheme.label          "თემის გამოყენება">
+<!ENTITY applyTheme.accesskey      "A">
+<!ENTITY getNewThemesCmd.label     "ახალი თემების ჩამოტვირთვა">
+<!ENTITY getNewThemesCmd.accesskey "G">
+<!ENTITY getPersonasCmd.label      "ახალი სტილების ჩამოტვირთვა">
+<!ENTITY getPersonasCmd.accesskey  "P">

@@ -1,5 +1,5 @@
 <!ENTITY loadError.label "გვერდის ჩატვირთვის შეცდომა">
-<!ENTITY retry.label "კვლავ სცადეთ">
+<!ENTITY retry.label "სცადეთ ხელახლა">
 
 <!-- Specific error messages -->
 
@@ -24,13 +24,16 @@
 <!ENTITY netInterrupt.title "კავშირი გაწყდა">
 <!ENTITY netInterrupt.longDesc "<p>ბრაუზერმა კავშირი წარმატებით დაამყარა, მაგრამ კავშირი მოულოდნელად გაწყდა მონაცემთა გადმოტანისას.  გთხოვთ კვლავ სცადოთ.</p><ul><li>ვერ ხსნით ამ საიტს? შეამოწმეთ კომპიუტერის ქსელური კავშირი.</li><li>კვლავ პრობლემები გაქვთ? დახმარებისთვის მიმართეთ თქვენი ქსელის ადმინისტრატორს ან ინტერნეტ პროვაიდერს.</li></ul>">
 
+<!ENTITY notCached.title "დოკუმენტი ვადაგასულია">
+<!ENTITY notCached.longDesc "<p>მოთხოვნილი დოკუმენტი ბრაუზერის ბუფერში მიუწვდომელია.</p><ul><li>უსაფრთხოების მიზნით ბრაუზერი ხელახლა აღარ ითხოვს მნიშვნელოვან დოკუმენტებს.</li><li>დოკუმენტის ხელახლა მოსათხოვნად დაწკაპეთ - «სცადეთ ხელახლა».</li></ul>">
+
 <!ENTITY netOffline.title "ავტონომიური რეჟიმი">
-<!ENTITY netOffline.longDesc "<p>ბრაუზერი ავტონომიურ რეჟიმშია და მოთხოვნილ მისამართს ვერ გამოიძახებს.</p><ul><li>კომპიუტერი ქსელში ჩართულია?</li><li>გადადით კავშირის რეჟიმში და კვლავ სცადეთ.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>ბრაუზერი ავტონომიურ რეჟიმშია და მოთხოვნილ მისამართს ვერ გამოიძახებს.</p><ul><li>კომპიუტერი ქსელში ჩართულია?</li><li>გადადით კავშირის რეჟიმში და კვლავ სცადეთ.</li></ul>">
 
-<!ENTITY contentEncodingError.title "შიგთავსის კოდირების შეცდომა">
-<!ENTITY contentEncodingError.longDesc "<p>გვერდი, რომლის ნახვაც გსურთ ვერ გამოჩნდება, რადგან შეკუმშვის უმართებლო ან მიუღებელ ფორმას იყენებს.</p><ul><li>გთხოვთ დაუკავშირდეთ ვებსაიტის მფლობელებს და აცნობოთ ამ პრობლემის შესახებ.</li></ul>">
+<!ENTITY contentEncodingError.title "შეცდომა მონაცემთა დაშიფვრისას">
+<!ENTITY contentEncodingError.longDesc "<p>გვერდი, რომლის ნახვაც გსურთ, ვერ აისახება, რადგან იგი შეკუმშვის უმართებლო ან მიუღებელ ფორმას იყენებს.</p><ul><li>გთხოვთ მიმართოთ საიტის მფლობელს და აცნობოთ ამ პრობლემის შესახებ.</li></ul>">
 
-<!ENTITY unsafeContentType.title "ფაილის საშიში ტიპი">
+<!ENTITY unsafeContentType.title "ფაილის სახიფათო ტიპი">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
   <li>გთხოვთ დაუკავშირდეთ საიტის მფლობელებს და აცნობოთ ამ პრობლემის შესახებ.</li>
@@ -59,7 +62,7 @@
 <!ENTITY unknownSocketType.longDesc "<p>საიტის პასუხი ქსელის მოთხოვნაზე მოულოდნელია და ბრაუზერი გაგრძელებას ვერ ახერხებს.</p>">
 
 <!ENTITY nssFailure2.title "უსაფრთხო დაკავშირება ვერ მოხერხდა">
-<!ENTITY nssFailure2.longDesc "<p>გვერდი, რომლის ნახვაც გსურთ ვერ გამოჩნდება, რადგან საიტი უსაფრთხოების უმართებლო ან მიუღებელ ოქმს იყენებს.</p><ul><li>გთხოვთ დაუკავშირდეთ ვებსაიტის მფლობელებს და აცნობოთ ამ პრობლემის შესახებ.</li></ul>">
+<!ENTITY nssFailure2.longDesc "<p>გვერდი, რომლის ნახვაც გსურთ ვერ აისახება, რადგან იგი უსაფრთხოების უმართებლო ან მიუღებელ ოქმს იყენებს.</p><ul><li>გთხოვთ დაუკავშირდეთ ვებსაიტის მფლობელებს და აცნობოთ ამ პრობლემის შესახებ.</li></ul>">
 
 <!ENTITY nssBadCert.title "უსაფრთხო დაკავშირება ვერ ხერხდება">
 <!ENTITY nssBadCert.longDesc2 "<ul>
@@ -80,8 +83,18 @@
 <p>ამ სახის ვებ ყალთაბანდობა ანკესობით ცნობილ მეთოდს იყენებს, როცა ყალთაბანდი გვერდები და ელფოსტა თქვენთვის სანდო წყაროების იმიტაციას ცდილობს.</p>
 ">
 
+<!ENTITY cspFrameAncestorBlocked.title "დაბლოკილია მონაცემტა უსაფრთხოები პოლიტიკით">
+<!ENTITY cspFrameAncestorBlocked.longDesc "<p>ბრაუზერმა აღარ ჩატვირთა ეს გვერდი, რადგან იგი შეიცავს ისეთი სახის მონაცემებს, რაც იკრძალება მონაცემთა უსაფრთხოების პოლიტიკით.</p>">
+
+<!ENTITY corruptedContentError.title "მონაცემთა დაზიანების შეცდომა">
+<!ENTITY corruptedContentError.longDesc "<p>გვერდი, რომლის ნახვაც გსურთ, ვერ აისახება, შეცდომის გამო მონაცეთტა გადაცემისას.</p><ul><li>გთხოვთ დაუკავშირდეთ ვებსაიტის მფლობელებს და აცნობოთ ამ პრობლემის შესახებ.</li></ul>">
+
+<!ENTITY remoteXUL.title "გარე XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>გთხოვთ ვებსაიტის მფლობელებს აცნობოთ ამ პრობლემის შესახებ.</li></ul></p>">
+
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
-     this inclusion needs to be intact for that approach to work correctly. -->
+     this inclusion needs to be intact for that approach to work correctly.
+     Please, try to keep this at the end of the file. -->
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;

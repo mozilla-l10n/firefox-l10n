@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+﻿<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -46,3 +46,5 @@
 <!ENTITY folderRestriction2.label   "ახალ დასტაში შეიძლება ინახებოდეს:">
 <!ENTITY foldersOnly.label          "მხოლოდ დასტები">
 <!ENTITY messagesOnly.label         "მხოლოდ წერილები">
+<!ENTITY accept.label               "დასტის შექმნა">
+<!ENTITY accept.accesskey           "r">

@@ -1,5 +1,5 @@
 <!ENTITY window.title "ფილტრის წესები">
-
+<!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "ფილტრის სახელი:">
 <!ENTITY filterName.accesskey "i">
 
@@ -17,6 +17,8 @@
 <!ENTITY contextIncoming.label "ფოსტის შემოწმებისას">
 <!ENTITY contextManual.label "ხელით შესრულებისას">
 <!ENTITY contextBoth.label "ფოსტის შემოწმების ან ხელით შესრულებისას">
+<!ENTITY contextPostPlugin.label "ფოსტის შემოწმება (კლასიფიკაციის შემდეგ)">
+<!ENTITY contextPostPluginBoth.label "ფოსტის შემოწმება (კლასიფიკაციის შემდეგ) ან უშუალოდ">
 <!ENTITY filterActionDesc.label "შესრულდეს ეს ქმედებები:">
 <!ENTITY filterActionDesc.accesskey "P">
 

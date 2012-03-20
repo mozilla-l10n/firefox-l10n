@@ -11,6 +11,11 @@
 <!ENTITY     button.removeallcookies.label  "ყველა ნაჭდევის ამოშლა">
 <!ENTITY     button.removeallcookies.accesskey "e">
 
+<!ENTITY     search.placeholder             "ნაჭდევების ძიება">
+<!ENTITY     focusSearch.key                "f">
+<!ENTITY     windowClose.key                "w">
+<!ENTITY     selectAll.key                  "a">
+
 <!ENTITY     props.name.label               "სახელი:">
 <!ENTITY     props.value.label              "შიგთავსი:">
 <!ENTITY     props.domain.label             "ჰოსტი:">

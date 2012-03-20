@@ -1,0 +1,19 @@
+﻿<!ENTITY  typeColumn.label            "შიგთავსის ტიპი">
+<!ENTITY  typeColumn.accesskey        "T">
+
+<!ENTITY  actionColumn2.label         "ქმედება">
+<!ENTITY  actionColumn2.accesskey     "A">
+
+<!ENTITY  focusSearch1.key            "f">
+<!ENTITY  focusSearch2.key            "k">
+
+<!ENTITY  filter.placeholder          "ძიება">
+
+<!ENTITY saveTo.label                 "ფაილების შენახვა…">
+<!ENTITY saveTo.accesskey             "S">
+<!ENTITY alwaysAsk.label              "ყოველთვის დამეკითხე ფაილების შენახვისას">
+<!ENTITY alwaysAsk.accesskey          "A">
+<!ENTITY chooseFolderWin.label        "ნუსხა…">
+<!ENTITY chooseFolderWin.accesskey    "B">
+<!ENTITY chooseFolderMac.label        "შერჩევა…">
+<!ENTITY chooseFolderMac.accesskey    "C">
