@@ -119,3 +119,8 @@
 <!ENTITY abouthome_no_top_sites "Aínda non ten ningún sitio favorito. Prema na barra de título para comezar a navegación.">
 <!ENTITY abouthome_about_sync "Configure Firefox Sync para acceder aos marcadores, ao historial e ás lapelas dos seus dispositivos">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
+
+<!ENTITY filepicker_title "Escoller ficheiro">
+<!ENTITY filepicker_audio_title "Escoller ou gravar un son">
+<!ENTITY filepicker_image_title "Escoller ou sacar unha foto">
+<!ENTITY filepicker_video_title "Escoller ou gravar un vídeo">
