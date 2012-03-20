@@ -1,5 +1,6 @@
+<!ENTITY identityDialog.style "width: 67ch;">
 <!ENTITY identityTitle.label "იდენტურობის პარამეტრები">
-<!ENTITY identityListDesc.label "პარამეტრების მითითება:">
+<!ENTITY identityListDesc.label "ელფოსტის ამ მისამართის პარამეტრების მითითება:">
 
 <!ENTITY settingsTab.label       "პარამეტრები">
 <!ENTITY copiesFoldersTab.label "ასლები და დასტები">

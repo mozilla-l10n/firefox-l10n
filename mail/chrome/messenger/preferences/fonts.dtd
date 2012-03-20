@@ -6,9 +6,9 @@
 <!ENTITY  language.label                          "შრიფტები:">
 <!ENTITY  language.accesskey                      "t">
 
-<!ENTITY  sizes.label                             "ზომა (პიქსელი)">
+<!ENTITY  size.label                             "ზომა:">
 <!ENTITY  proportionalSize.accesskey              "e">
-<!ENTITY  monospaceSize.accesskey                 "x">
+<!ENTITY  sizeMono.accesskey                      "i">
 
 <!ENTITY  proportional.label                      "პროპორციული:">
 <!ENTITY  proportional.accesskey                  "P">
@@ -57,6 +57,10 @@
 <!ENTITY  useDefaultFontSerif.label               "კონტრასტული">
 <!ENTITY  useDefaultFontSansSerif.label           "ერთგვაროვანი">
 
+<!-- fonts in message -->
+<!ENTITY  fontControl.label                       "შრიფტების მართვა">
+<!ENTITY  useFixedWidthForPlainText.label         "მონოსიგანის შრიფტებით სარგებლობა ტექსტური გზავნილებისთვის">
+<!ENTITY  fixedWidth.accesskey                    "x">
 <!ENTITY  useDocumentFonts.label                  "წერილებში სხვა შრიფტების გამოყენების უფლება">
 <!ENTITY  useDocumentFonts.accesskey              "o">
 

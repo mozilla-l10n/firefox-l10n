@@ -1,4 +1,4 @@
-<!ENTITY window.title "წერილის ფილტრები">
+<!ENTITY filterListDialog.title "წერილის ფილტრები">
 <!ENTITY nameColumn.label "ფილტრის სახელი">
 <!ENTITY activeColumn.label "ჩართვა">
 <!ENTITY newButton.label "ახალი…">
@@ -24,5 +24,3 @@
 <!ENTITY folderPickerPrefix.accesskey "c">
 <!ENTITY choosethis.label "ამ დასტის არჩევა">
 <!ENTITY choosethisnewsserver.label "ჯგუფების ამ სერვერის არჩევა">
-<!ENTITY helpButton.label "დახმარება">
-<!ENTITY helpButton.accesskey "H">

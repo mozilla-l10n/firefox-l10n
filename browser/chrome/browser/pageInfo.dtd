@@ -88,6 +88,7 @@
 <!ENTITY  permTab               "უფლებები">
 <!ENTITY  permTab.accesskey     "P">
 <!ENTITY  permUseDefault        "ნაგულისხმების გამოყენება">
+<!ENTITY  permAskAlways         "დამეკითხე ყოველთვის">
 <!ENTITY  permAllow             "დაშვება">
 <!ENTITY  permAllowSession      "დაშვება სეანსზე">
 <!ENTITY  permBlock             "დაბლოკვა">
@@ -96,6 +97,11 @@
 <!ENTITY  permPopup             "ჩამოშლადი ფანჯრების გახსნა">
 <!ENTITY  permCookie            "ნაჭდევების მითითება">
 <!ENTITY  permInstall           "პაკეტების ან თემების ჩადგმა">
+<!ENTITY  permGeo               "ადგილმდებარეობის გაზიარება">
+
+<!ENTITY  permIndexedDB              "ლოკალური საცავის მართვა">
+<!ENTITY  permClearStorage           "საცავის გასუფთავება">
+<!ENTITY  permClearStorage.accesskey "C">
 
 <!ENTITY  securityTab           "უსაფრთხოება">
 <!ENTITY  securityTab.accesskey "S">

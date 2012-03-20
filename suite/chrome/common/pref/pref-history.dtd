@@ -1,15 +1,19 @@
 <!ENTITY  pref.history.title                "ისტორია">
 
-<!ENTITY  pref.history.caption              "ისტორიის ნუსხა">
+<!ENTITY  pref.history.caption              "ისტორიის გადახედვა">
 <!ENTITY  historyPages.label                "ისტორია არის ადრე მონახულებული გვერდების ნუსხა.">
-<!ENTITY  pageHis.label                     "გვერდებს ისტორიაში ვადა გაუვათ">
-<!ENTITY  pageHis.accesskey                 "a">
-<!ENTITY  days.label                        "დღეში">
+<!ENTITY  enableHistory.label               "მონახულებული გვერდების დამახსოვრება">
+<!ENTITY  enableHistory.accesskey           "R">
 <!ENTITY  clearHistory.label                "ისტორიის წაშლა">
-<!ENTITY  clearHistory.accesskey    "r">
+<!ENTITY  clearHistory.accesskey            "s">
 
-<!ENTITY  locationBarHistory.caption        "მისამართების პანელი">
+<!ENTITY  locationBarHistory.caption        "მისამართების პანელის ისტორია">
 <!ENTITY  clearLocationBar.label            "მისამართების პანელში შენახული საიტების წაშლა.">
 <!ENTITY  clearLocationBarButton.label      "მისამართების პანელის წაშლა">
-<!ENTITY  clearLocationBarButton.accesskey  "b">
-  
+<!ENTITY  clearLocationBarButton.accesskey  "L">  
+<!ENTITY  formfillHistory.caption           "ფორმებისა და ძიების ისტორია">
+<!ENTITY  enableFormfill.label              "ფორმებისა და ძიების ისტორიის ჩართვა">
+<!ENTITY  enableFormfill.accesskey          "n">
+<!ENTITY  formfillExpire.label              "ფორმებისა და ძიების ისტორიის შენახვა">
+<!ENTITY  formfillExpire.accesskey          "f">
+<!ENTITY  formfillDays.label                "დღის განმავლობაში">

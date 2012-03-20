@@ -1,0 +1,134 @@
+<!-- File Menu -->
+<!ENTITY tabCmd.label "ბრაუზერის დაფა">
+<!ENTITY tabCmd.accesskey "T">
+<!ENTITY tabCmd.commandkey "t">
+<!ENTITY openCmd.label "ვებგვერდის გახსნა…">
+<!ENTITY openCmd.accesskey "L">
+<!ENTITY openCmd.commandkey "l">
+<!ENTITY openFileCmd.label "ფაილის გახსნა…">
+<!ENTITY openFileCmd.accesskey "O">
+<!ENTITY openFileCmd.commandkey "o">
+
+<!ENTITY closeOtherTabs.label "სხვა დაფების დახურვა">
+<!ENTITY closeOtherTabs.accesskey "T">
+
+<!ENTITY uploadFile.label "ფაილის ატვირთვა…">
+<!ENTITY uploadFile.accesskey "F">
+
+<!ENTITY printSetupCmd.label "გვერდის პარამეტრები…">
+<!ENTITY printSetupCmd.accesskey "u">
+
+<!-- Edit Menu -->
+<!ENTITY findOnCmd.label "პოვნა ამ გვერდზე…">
+
+<!-- View Menu -->
+<!ENTITY toolbarsCmd.label "ჩვენება/დამალვა">
+<!ENTITY toolbarsCmd.accesskey "w">
+<!ENTITY tabbarCmd.label "დაფების პანელი">
+<!ENTITY tabbarCmd.accesskey "T">
+<!ENTITY taskbarCmd.label "სტატუსის პანელი">
+<!ENTITY taskbarCmd.accesskey "S">
+<!ENTITY componentbarCmd.label "კომპონენტების პანელი">
+<!ENTITY componentbarCmd.accesskey "C">
+
+<!ENTITY fullScreenCmd.label "სრული ეკრანი">
+<!ENTITY fullScreenCmd.accesskey "F">
+
+<!ENTITY useStyleSheetMenu.label "სტილის გამოყენება">
+<!ENTITY useStyleSheetMenu.accesskey "U">
+<!ENTITY useStyleSheetNone.label "არა">
+<!ENTITY useStyleSheetNone.accesskey "N">
+<!ENTITY useStyleSheetPersistentOnly.label "ნაგულისხმები სტილი">
+<!ENTITY useStyleSheetPersistentOnly.accesskey "D">
+<!ENTITY bidiSwitchPageDirectionItem.label "გვერდის მიმართულების გადართვა">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey "g">
+<!ENTITY pageSourceCmd.label "გვერდის წყარო">
+<!ENTITY pageSourceCmd.accesskey "o">
+<!ENTITY pageSourceCmd.commandkey "u">
+<!ENTITY pageInfoCmd.label "გვერდის მონაცემები">
+<!ENTITY pageInfoCmd.accesskey "I">
+<!ENTITY pageInfoCmd.commandkey "i">
+
+<!-- Go Menu -->
+<!ENTITY goMenu.label "გადასვლა">
+<!ENTITY goMenu.accesskey "G">
+<!ENTITY goHomeCmd.label "თავფურცელი">
+<!ENTITY goHomeCmd.accesskey "H">
+<!ENTITY historyCmd.label "ისტორია">
+<!ENTITY historyCmd.accesskey "s">
+<!ENTITY history.commandKey "h">
+<!ENTITY recentTabs.label "ბოლოს დახურული დაფები">
+<!ENTITY recentTabs.accesskey "C">
+<!ENTITY recentTabs.commandkey "t">
+<!ENTITY recentWindows.label "ბოლოს დახურული სარკმლები">
+<!ENTITY recentWindows.accesskey "W">
+<!ENTITY recentWindows.commandkey "y">
+<!ENTITY historyRestoreLastSession.label "წიანა სეანსის აღდგენა">
+<!ENTITY historyRestoreLastSession.accesskey "R">
+<!ENTITY syncTabsMenu.label "დაფები სხვა კომპიუტერიდან">
+<!ENTITY syncTabsMenu.accesskey "O">
+
+<!-- Bookmarks Menu -->
+<!ENTITY bookmarksMenu.label "სანიშნეები">
+<!ENTITY bookmarksMenu.accesskey "B">
+<!ENTITY addCurPageCmd.label "ამ გვერდის ჩანიშვნა">
+<!ENTITY addCurPageCmd.accesskey "B">
+<!ENTITY addCurPageAsCmd.label "სანიშნის შექმნა…">
+<!ENTITY addCurPageAsCmd.accesskey "F">
+<!ENTITY addCurPageAsCmd.commandkey "d">
+<!ENTITY addCurTabsAsCmd.label "ამ დაფების ჯგუფის ჩანიშვნა…">
+<!ENTITY addCurTabsAsCmd.accesskey "G">
+<!ENTITY manBookmarksCmd.label "სანიშნეების მართვა…">
+<!ENTITY manBookmarksCmd.accesskey "M">
+<!ENTITY manBookmarksCmd.commandkey "b">
+
+<!-- Tools Menu -->
+<!ENTITY searchInternetCmd.label "ძიება ინტერენტში">
+<!ENTITY searchInternetCmd.accesskey "S">
+<!ENTITY searchInternet.commandKey "s">
+<!ENTITY translateMenu.label "გვერდის თარგმნა">
+<!ENTITY translateMenu.accesskey "T">
+
+<!ENTITY cookieMessageTitle.label "ნაჭდევთა უფლებები შეიცვალა">
+<!ENTITY cookieDisplayCookiesCmd.label "შენახული ნაჭდევების მართვა">
+<!ENTITY cookieDisplayCookiesCmd.accesskey "M">
+<!ENTITY cookieAllowCookiesCmd.label "ნაჭდევების ნებართვა ამ ვებსაიტიდან">
+<!ENTITY cookieAllowCookiesCmd.accesskey "A">
+<!ENTITY cookieAllowCookiesMsg.label "ნაჭდევები ამ ვებსაიტიდან ყოველთვის ნებადართულია.">
+<!ENTITY cookieAllowSessionCookiesCmd.label "სეანსის ნაჭდევების ნებართვა ამ ვებსაიტიდან">
+<!ENTITY cookieAllowSessionCookiesCmd.accesskey "S">
+<!ENTITY cookieAllowSessionCookiesMsg.label "ამ ვებსაიტს ნაჭდევების შენახვის უფლება მიეცემა მხოლოდ ამ სეანსზე.">
+<!ENTITY cookieCookiesDefaultCmd.label "ნაგულისხმები უფლებების გამოყენება ნაჭდევებისთვის">
+<!ENTITY cookieCookiesDefaultCmd.accesskey "U">
+<!ENTITY cookieCookiesDefaultMsg.label "ნაჭდევები ამ ვებსაიტიდან მიიღება ნაგულისხმები უფლებების შესაბამისად.">
+<!ENTITY cookieBlockCookiesCmd.label "ნაჭდევების დაბლოკვა ამ ვებსაიტისთვის">
+<!ENTITY cookieBlockCookiesCmd.accesskey "B">
+<!ENTITY cookieBlockCookiesMsg.label "ნაჭდევები ამ ვებსაიტიდან ყოველთვის აიკრძალება.">
+
+<!ENTITY cookieImageMessageTitle.label "გამოსახულებათ უფლებები შეიცვალა">
+<!ENTITY cookieDisplayImagesCmd.label "გამოსახულებათა უფლებების მართვა">
+<!ENTITY cookieDisplayImagesCmd.accesskey "M">
+<!ENTITY cookieAllowImagesCmd.label "გამოსახულებათა ნებართვა ამ ვებსაიტიდან">
+<!ENTITY cookieAllowImagesCmd.accesskey "A">
+<!ENTITY cookieAllowImagesMsg.label "გამოსახულებები ამ ვებსაიტიდან ყოველთვის ჩამოიტვირთება.">
+<!ENTITY cookieImagesDefaultCmd.label "ნაგულისხმები უფლებების გამოყენება გამოსახულებებისთვის">
+<!ENTITY cookieImagesDefaultCmd.accesskey "U">
+<!ENTITY cookieImagesDefaultMsg.label "გამოსახულებები ამ ვებსაიტიდან ჩამოიტვირთება ნაგულისხმები უფლებების შესაბამისად.">
+<!ENTITY cookieBlockImagesCmd.label "გამოსახულებათა დაბლოკვა ამ ვებსაიტისთვის">
+<!ENTITY cookieBlockImagesCmd.accesskey "B">
+<!ENTITY cookieBlockImagesMsg.label "გამოსახულებები ამ ვებსაიტიდან არასოდეს ჩამოიტვირთება.">
+
+<!ENTITY cookieAllowPopupsCmd.label "ფირნიშების ნებართვა ამ ვებსაიტიდან">
+<!ENTITY cookieAllowPopupsCmd.accesskey "A">
+<!ENTITY cookieManagePopups.label "ფირნიშების მართვა">
+<!ENTITY cookieManagePopups.accesskey "M">
+
+<!ENTITY cookieCookieManager.label "ნაჭდევების მმართველი">
+<!ENTITY cookieCookieManager.accesskey "C">
+<!ENTITY cookieImageManager.label "გამოსახულებათა მმართველი">
+<!ENTITY cookieImageManager.accesskey "I">
+<!ENTITY cookiePopupManager.label "ფირნიშების მმართველი">
+<!ENTITY cookiePopupManager.accesskey "o">
+
+<!ENTITY clearPrivateDataCmd.label "პირად მონაცემთა გასუფთავება…">
+<!ENTITY clearPrivateDataCmd.accesskey "e">

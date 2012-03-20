@@ -1,12 +1,20 @@
-<!-- Help Menu -->
+﻿<!-- Help Menu -->
 <!ENTITY helpMenu.label "დახმარება">
 <!ENTITY helpMenu.accesskey "H">
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "დახმარება">
 <!ENTITY helpMenuWin.accesskey "H">
-<!ENTITY releaseCmd.label "გამოშვების მონაცემები">
-<!ENTITY releaseCmd.accesskey "R">
+<!ENTITY helpTroubleshootingInfo.label     "ინფორმაცია ტექმომსახურებისთვის">
+<!ENTITY helpTroubleshootingInfo.accesskey "T">
+<!ENTITY helpSafeMode.label     "ხელახლა გახსნა ამორთული მოდულებით…">
+<!ENTITY helpSafeMode.accesskey "R">
+<!ENTITY releaseCmd2.label "გამოშვების მონაცემები">
+<!ENTITY releaseCmd2.accesskey "N">
+<!ENTITY whatsNewCmd.label "სიახლეები">
+<!ENTITY whatsNewCmd.accesskey "W">
+<!ENTITY featureConfiguratorCmd.label "მიგრაციის მეგზური">
+<!ENTITY featureConfiguratorCmd.accesskey "M">
 <!ENTITY openHelp.label "დახმარების შინაარსი">
 <!ENTITY openHelp.accesskey "H">
 <!ENTITY openHelp.commandkey "VK_F1">
@@ -14,7 +22,5 @@
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
 
-<!ENTITY updateCmd.label "შემოწმება განახლებებზე…">
-<!ENTITY updateCmd.accesskey "o">
-<!ENTITY aboutCmd.label "&brandFullName; პროგრამის შესახებ">
-<!ENTITY aboutCmd.accesskey "A">
+<!ENTITY aboutMenuCmd.label "&brandShortName; პროგრამის შესახებ">
+<!ENTITY aboutMenuCmd.accesskey "A">

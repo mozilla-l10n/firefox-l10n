@@ -4,24 +4,23 @@
 <!ENTITY pref.cache.title                "ბუფერი">
 <!ENTITY pref.cache.caption              "ბუფერის პარამეტრები">
 <!ENTITY cachePara                       "დისკის ბუფერში ინახება მონახულებული ვებგვერდების ასლები.  (წკაპი &quot;განახლება&quot;-ზე ყოველთვის გიჩვენებთ გვერდის უახლეს ვერსიას.)">
-<!ENTITY diskCache.label                 "ზომა:">
-<!ENTITY diskCache.accesskey             "S">
-<!ENTITY mbytes                          "მბ">
+<!ENTITY cacheCheck.label                "ბოფერის ზომის შერჩევის &brandShortName; პროგრამისთვის მინდობა">
+<!ENTITY cacheCheck.accesskey            "L">
+<!ENTITY diskCacheUpTo.label             "ზომა:">
+<!ENTITY diskCacheUpTo.accesskey         "U">
+<!ENTITY spaceMbytes                      "მეგაბაიტამდე">
 <!ENTITY diskCacheFolder.label           "ბუფერის დასტის მისამართი:">
 <!ENTITY clearDiskCache.label            "ბუფერის გასუფთავება">
 <!ENTITY clearDiskCache.accesskey        "C">
 <!ENTITY chooseDiskCacheFolder.label     "დასტის არჩევა…">
 <!ENTITY chooseDiskCacheFolder.accesskey "F">
 <!ENTITY diskCacheFolderExplanation      "ბუფერის ფაილები შეინახება თქვენს მიერ მითითებული დასტის &quot;ბუფერი&quot; ქვედასტაში. ცვლილებები გააქტივდება &brandShortName;-ს ახალი სეანსის შემდეგ.">
-<!ENTITY docCache                        "ბუფერში განთავსებული გვერდის ქსელურ ვერსიასთან შედარება:">
-<!ENTITY oncePsessionRadio.label         "სეანსში ერთხელ">
-<!ENTITY oncePsessionRadio.accesskey     "O">
-<!ENTITY everyTimeRadio.label            "ყოველთვის, გვერდის ნახვისას">
-<!ENTITY everyTimeRadio.accesskey        "E">
-<!ENTITY neverRadio.label                "არასოდეს">
-<!ENTITY neverRadio.accesskey            "N">
-<!ENTITY autoRadio.label                 "როცა გვერდი ვადაგასულია">
-<!ENTITY autoRadio.accesskey             "W">
+<!ENTITY docCache.label                  "ბუფერში განთავსებული გვერდის ქსელურ ვერსიასთან შედარება:">
+<!ENTITY docCache.accesskey              "m">
+<!ENTITY checkOncePerSession.label         "სეანსში ერთხელ">
+<!ENTITY checkEveryTime.label            "ყოველთვის, გვერდის ნახვისას">
+<!ENTITY checkNever.label                "არასოდეს">
+<!ENTITY checkAutomatically.label        "როცა გვერდი ვადაგასულია">
 
 <!ENTITY prefetchTitle.label             "ბმის წინასწარი ჩატვირთვა">
 <!ENTITY enablePrefetch.label            "უქმად ყოფნისას მიმდინარე ბმების ვებგვერდების წინასწარი ჩატვირთვა, რათა ისინი უფრო სწრაფად გაიხსნას">

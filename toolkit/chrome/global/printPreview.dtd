@@ -68,5 +68,5 @@
 
 <!ENTITY homearrow.tooltip    "პირველი გვერდი">
 <!ENTITY endarrow.tooltip     "ბოლო გვერდი">
-<!ENTITY rightarrow.tooltip   "შემდეგი გვერდი">
-<!ENTITY leftarrow.tooltip    "წინა გვერდი">
+<!ENTITY nextarrow.tooltip   "შემდეგი გვერდი">
+<!ENTITY previousarrow.tooltip    "წინა გვერდი">

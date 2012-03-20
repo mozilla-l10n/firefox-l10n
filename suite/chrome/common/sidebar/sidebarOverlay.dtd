@@ -63,3 +63,7 @@
 <!ENTITY sidebar.close.tooltip       "სტენდის დახურვა">
 <!ENTITY sidebar.open.tooltip        "სტენდის გახსნა">
 
+<!ENTITY sidebar.search.label         "ძიება">
+<!ENTITY sidebar.client-bookmarks.label     "სანიშნეები">
+<!ENTITY sidebar.client-history.label       "ისტორია">
+<!ENTITY sidebar.client-addressbook.label   "წიგნაკი">

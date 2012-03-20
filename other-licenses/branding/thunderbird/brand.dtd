@@ -1,3 +1,5 @@
-<!ENTITY  brandShortName        "Thunderbird">
+﻿<!ENTITY  brandShortName        "Thunderbird">
 <!ENTITY  brandFullName         "Mozilla Thunderbird">
 <!ENTITY  vendorShortName       "Mozilla">
+<!ENTITY  trademarkInfo.part1   "Mozilla Thunderbird და Thunderbird ლოგოები
+                                 Mozilla-ს ფონდის სავაჭრო ნიშნებია.">

@@ -20,6 +20,7 @@
  the Initial Developer. All Rights Reserved.
 
  Contributor(s):
+    Ian Neal <iann_bugzilla@blueyonder.co.uk>
 
  Alternatively, the contents of this file may be used under the terms of
  either of the GNU General Public License Version 2 or later (the "GPL"),
@@ -37,4 +38,8 @@
 <!ENTITY nameColumn.label   "სახელი"> 
 <!ENTITY unreadColumn.label "წასაკითხი"> 
 <!ENTITY totalColumn.label "სულ"> 
-<!ENTITY folderSizeColumn.label "ზომა"> 
+<!ENTITY folderSizeColumn.label "ზომა">
+<!ENTITY folderLocationToolbarItem.title "დასტის მისამართი">
+<!ENTITY mailViewsToolbarItem.title "ფოსტის ასახვა">
+<!ENTITY searchToolbarItem.title "ძიება">
+<!ENTITY searchSubjectOrAddress.placeholder "ძიება თემებში ან მისამართებში">

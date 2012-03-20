@@ -26,6 +26,8 @@
    -   Martin Schroeder <mschroeder@mozilla.x-home.org>
    -   Hubert Gajewski <hubert@hubertgajewski.com>, Aviary.pl
    -   Fred Jendrzejewski <fred.jen@web.de>
+   -   Simon Vaillancourt <simon.at.orcl@gmail.com>   
+   -   Gianfranco Balza <bv1578@gmail.com>
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -43,8 +45,8 @@
 
 <!ENTITY event.title.label                  "ელემენტის რედაქტირება" >
 
-<!ENTITY newevent.before.label              "ადრე" >
-<!ENTITY newevent.after.label               "შემდეგ" >
+<!ENTITY event.dialog.keepDurationButton.tooltip   "ამ ხანგრძლიობის შენარჩუნება მოვლენის დასრულების შემდეგ">
+<!ENTITY event.dialog.keepDurationButton.accesskey "K">
 
 <!ENTITY newevent.from.label                "დაწყ." >
 <!ENTITY newevent.to.label                  "-" >
@@ -52,10 +54,16 @@
 
 <!ENTITY newevent.status.label              "სტატუსი" >
 <!ENTITY newevent.status.accesskey          "S" >
-<!ENTITY newevent.status.none.label         "არ მითითებულა" >
-<!ENTITY newevent.status.cancelled.label    "გაუქმდა" >
-<!ENTITY newevent.status.tentative.label    "საცდელი" >
+<!ENTITY newevent.eventStatus.none.label         "არ მითითებულა" >
+<!ENTITY newevent.eventStatus.none.accesskey       "o" >
+<!ENTITY newevent.todoStatus.none.label           "არ მითითებულა" >
+<!ENTITY newevent.eventStatus.cancelled.label    "გაუქმდა" >
+<!ENTITY newevent.eventStatus.cancelled.accesskey  "n" >
+<!ENTITY newevent.todoStatus.cancelled.label      "გაუქმდა" >
+<!ENTITY newevent.status.tentative.label    "დასაზუსტებელია" >
+<!ENTITY newevent.status.tentative.accesskey  "T" >
 <!ENTITY newevent.status.confirmed.label    "დადასტურდა" >
+<!ENTITY newevent.status.confirmed.accesskey  "C" >
 <!ENTITY newevent.status.needsaction.label  "საჭიროებს ქმედებას" >
 <!ENTITY newevent.status.inprogress.label   "მიმდინარეობს" >
 <!ENTITY newevent.status.completed.label    "დასრულდა -" >
@@ -63,25 +71,44 @@
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#37; დასრულდა">
 
+<!-- Keyboard Shortcuts -->
+<!ENTITY event.dialog.new.event.key2              "I">
+<!ENTITY event.dialog.new.task.key2               "D">
+<!ENTITY event.dialog.new.message.key2            "N">
+<!ENTITY event.dialog.close.key                   "W">
+<!ENTITY event.dialog.save.key                    "S">
+<!ENTITY event.dialog.saveandclose.key            "L">
+<!ENTITY event.dialog.print.key                   "P">
+<!ENTITY event.dialog.undo.key                    "Z">
+<!ENTITY event.dialog.redo.key                    "Y">
+<!ENTITY event.dialog.cut.key                     "X">
+<!ENTITY event.dialog.copy.key                    "C">
+<!ENTITY event.dialog.paste.key                   "V">
+<!ENTITY event.dialog.select.all.key              "A">
+
 <!-- Menubar -->
-<!ENTITY  event.menu.file.label                           "ფაილი">
-<!ENTITY  event.menu.file.accesskey                       "F">
-<!ENTITY  event.menu.file.new.label                       "ახალი">
-<!ENTITY  event.menu.file.new.accesskey                   "N">
-<!ENTITY  event.menu.file.new.event.label                 "მოვლენა">
-<!ENTITY  event.menu.file.new.event.accesskey             "E">
-<!ENTITY  event.menu.file.new.message.label               "გზავნილი">
-<!ENTITY  event.menu.file.new.message.accesskey           "M">
-<!ENTITY  event.menu.file.new.address.label               "წიგნაკის ბარათი">
-<!ENTITY  event.menu.file.new.address.accesskey           "C">
-<!ENTITY  event.menu.file.close.label                     "დახურვა">
-<!ENTITY  event.menu.file.close.accesskey                 "C">
-<!ENTITY  event.menu.file.save.label                      "შენახვა">
-<!ENTITY  event.menu.file.save.accesskey                  "S">
-<!ENTITY  event.menu.file.page.setup.label                "გვერდის პარამეტრები">
-<!ENTITY  event.menu.file.page.setup.accesskey            "u">
-<!ENTITY  event.menu.file.print.label                     "დაბეჭდვა">
-<!ENTITY  event.menu.file.print.accesskey                 "P">
+<!ENTITY  event.menu.item.new.label                       "ახალი">
+<!ENTITY  event.menu.item.new.accesskey                   "N">
+<!ENTITY  event.menu.item.new.event.label                 "მოვლენა">
+<!ENTITY  event.menu.item.new.event.accesskey             "E">
+<!ENTITY  event.menu.item.new.task.label                  "ამოცანა">
+<!ENTITY  event.menu.item.new.task.accesskey              "T">
+<!ENTITY  event.menu.item.new.message.label               "გზავნილი">
+<!ENTITY  event.menu.item.new.message.accesskey           "M">
+<!ENTITY  event.menu.item.new.contact.label               "წიგნაკის ბარათი">
+<!ENTITY  event.menu.item.new.contact.accesskey           "C">
+<!ENTITY  event.menu.item.close.label                     "დახურვა">
+<!ENTITY  event.menu.item.close.accesskey                 "C">
+<!ENTITY  event.menu.item.save.label                      "შენახვა">
+<!ENTITY  event.menu.item.save.accesskey                  "S">
+<!ENTITY  event.menu.item.saveandclose.label              "შენახვა და დახურვა">
+<!ENTITY  event.menu.item.saveandclose.accesskey          "l">
+<!ENTITY  event.menu.item.delete.label                    "წაშლა…">
+<!ENTITY  event.menu.item.delete.accesskey                "D">
+<!ENTITY  event.menu.item.page.setup.label                "გვერდის პარამეტრები">
+<!ENTITY  event.menu.item.page.setup.accesskey            "u">
+<!ENTITY  event.menu.item.print.label                     "დაბეჭდვა">
+<!ENTITY  event.menu.item.print.accesskey                 "P">
 
 <!ENTITY  event.menu.edit.label                           "რედაქტირება">
 <!ENTITY  event.menu.edit.accesskey                       "E">
@@ -148,15 +175,6 @@
 <!ENTITY  event.menu.options.show.time.free.label         "თავისუფალი">
 <!ENTITY  event.menu.options.show.time.free.accesskey     "F">
 
-<!ENTITY event.help.label                                 "დახმარება">
-<!ENTITY event.help.accesskey                             "H">
-<!ENTITY event.help.release.notes.label                   "ვერსიის მონაცემები">
-<!ENTITY event.help.release.notes.accesskey               "R">
-<!ENTITY event.help.help.label                            "&brandShortName; დახმარება">
-<!ENTITY event.help.help.accesskey                        "H">
-<!ENTITY event.help.about.label                           "&brandShortName; - ინფორმაცია">
-<!ENTITY event.help.about.accesskey                       "A">
-
 <!ENTITY event.invite.attendees.label                     "დამსწრეთა მოწვევა…">
 <!ENTITY event.invite.attendees.accesskey                 "I">
 <!ENTITY event.email.attendees.label                      "წერილის შედგენა ყველა დამსწრისთვის…">
@@ -166,6 +184,7 @@
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "შენახვა და დახურვა">
+<!ENTITY  event.toolbar.delete.label                      "წაშლა">
 <!ENTITY  event.toolbar.attendees.label                   "დამსწრეთა მოწვევა">
 <!ENTITY  event.toolbar.spellcheck.label                  "მართლწერა">
 <!ENTITY  event.toolbar.privacy.label                     "კონფიდენციალობა">
@@ -214,15 +233,13 @@
 <!ENTITY event.priority2.label                            "პრიორიტეტი:">
 
 <!ENTITY event.reminder.none.label                        "შეხსენების გარეშე " >
+<!ENTITY event.reminder.0minutes.before.label             "0 წუთით ადრე" >
 <!ENTITY event.reminder.5minutes.before.label             "5 წუთით ადრე" >
-<!ENTITY event.reminder.10minutes.before.label            "10 წუთით ადრე" >
 <!ENTITY event.reminder.15minutes.before.label            "15 წუთით ადრე" >
 <!ENTITY event.reminder.30minutes.before.label            "30 წუთით ადრე" >
-<!ENTITY event.reminder.45minutes.before.label            "45 წუთით ადრე" >
 <!ENTITY event.reminder.1hour.before.label                "1 საათით ადრე" >
 <!ENTITY event.reminder.2hours.before.label               "2 საათით ადრე" >
-<!ENTITY event.reminder.5hours.before.label               "5 საათით ადრე" >
-<!ENTITY event.reminder.15hours.before.label              "15 საათით ადრე" >
+<!ENTITY event.reminder.12hours.before.label              "12 საათით ადრე" >
 <!ENTITY event.reminder.1day.before.label                 "1 დღით ადრე" >
 <!ENTITY event.reminder.2days.before.label                "2 დღით ადრე" >
 <!ENTITY event.reminder.1week.before.label                "1 კვირით ადრე" >
@@ -253,19 +270,19 @@
 <!ENTITY repeat.units.days.both                         "დღე" >
 <!ENTITY event.recurrence.pattern.every.weekday.label   "კვირის ყოველ დღეს" >
 
-<!ENTITY event.recurrence.pattern.weekly.every.label    "ყოველ" >
+<!ENTITY event.recurrence.pattern.weekly.every.label    "ყოველი" >
 <!ENTITY repeat.units.weeks.both                        "კვირა" >
 <!ENTITY event.recurrence.on.label                      "თარიღი:" >
 
 <!ENTITY event.recurrence.pattern.monthly.every.label   "ყოველ" >
 <!ENTITY repeat.units.months.both                       "თვე" >
-<!ENTITY event.recurrence.the.label                     "" >
-<!ENTITY event.recurrence.repeat.first.label            "პირველი">
-<!ENTITY event.recurrence.repeat.second.label           "მეორე">
-<!ENTITY event.recurrence.repeat.third.label            "მესამე">
-<!ENTITY event.recurrence.repeat.fourth.label           "მეოთხე">
-<!ENTITY event.recurrence.repeat.fifth.label            "მეხუთე">
-<!ENTITY event.recurrence.repeat.last.label             "ბოლო ">
+<!ENTITY event.recurrence.monthly.every.label           "ყპოველი" >
+<!ENTITY event.recurrence.monthly.first.label           "პირველი">
+<!ENTITY event.recurrence.monthly.second.label          "The მეორე">
+<!ENTITY event.recurrence.monthly.third.label           "The მესამე">
+<!ENTITY event.recurrence.monthly.fourth.label          "The მეოთხე">
+<!ENTITY event.recurrence.monthly.fifth.label           "The მეხუთე">
+<!ENTITY event.recurrence.monthly.last.label            "The ბოლო">
 <!ENTITY event.recurrence.pattern.monthly.week.1.label  "კვირა" >
 <!ENTITY event.recurrence.pattern.monthly.week.2.label  "ორშაბათი" >
 <!ENTITY event.recurrence.pattern.monthly.week.3.label  "სამშაბათი" >
@@ -278,8 +295,7 @@
 
 <!ENTITY event.recurrence.every.label                   "ყოველი:" >
 <!ENTITY repeat.units.years.both                             "წელი" >
-<!ENTITY event.recurrence.pattern.yearly.every.month.label   "ყოველ" >
-<!ENTITY event.recurrence.pattern.yearly.every.weekday.label "ყოველ" >
+<!ENTITY event.recurrence.pattern.yearly.every.month.label   "ყოველი" >
 
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
@@ -302,12 +318,13 @@
 <!ENTITY event.recurrence.pattern.yearly.month.10.label      "ოქტომბერი" >
 <!ENTITY event.recurrence.pattern.yearly.month.11.label      "ნოემბერი" >
 <!ENTITY event.recurrence.pattern.yearly.month.12.label      "დეკემბერი" >
-<!ENTITY event.recurrence.pattern.yearly.first.label         "პირველი">
-<!ENTITY event.recurrence.pattern.yearly.second.label        "მეორე">
-<!ENTITY event.recurrence.pattern.yearly.third.label         "მესამე">
-<!ENTITY event.recurrence.pattern.yearly.fourth.label        "მეოთხე">
-<!ENTITY event.recurrence.pattern.yearly.fifth.label         "მეხუთე">
-<!ENTITY event.recurrence.pattern.yearly.last.label          "ბოლო">
+<!ENTITY event.recurrence.yearly.every.label                 "ყოველი">
+<!ENTITY event.recurrence.yearly.first.label         "პირველი">
+<!ENTITY event.recurrence.yearly.second.label        "მეორე">
+<!ENTITY event.recurrence.yearly.third.label         "მესამე">
+<!ENTITY event.recurrence.yearly.fourth.label        "მეოთხე">
+<!ENTITY event.recurrence.yearly.fifth.label         "მეხუთე">
+<!ENTITY event.recurrence.yearly.last.label          "ბოლო">
 <!ENTITY event.recurrence.pattern.yearly.week.1.label        "კვირა" >
 <!ENTITY event.recurrence.pattern.yearly.week.2.label        "ორშაბათი" >
 <!ENTITY event.recurrence.pattern.yearly.week.3.label        "სამშაბათი" >
@@ -336,27 +353,6 @@
 <!ENTITY event.repeat.until.label                       "გამეორება ვიდრე" >
 <!ENTITY event.recurrence.preview.label                 "ესკიზი">
 
-<!-- Reminder dialog -->
-<!ENTITY alarm.units.minutes                "წუთი" >
-<!ENTITY alarm.units.hours                  "საათი" >
-<!ENTITY alarm.units.days                   "დღე" >
-
-<!ENTITY reminder.title.label                           "საკუთარი შეხსენება">
-<!ENTITY reminder.dialogtitle.label                     "შეხსენებათა გამართვა">
-<!ENTITY reminder.reminderDetails.label                 "შეხსენების დეტალები">
-<!ENTITY reminder.action.label                          "შეხსენების ქმედების შერჩევა">
-<!ENTITY reminder.action.alert.label                    "გაფრთხილების ჩვენება">
-<!ENTITY reminder.action.email.label                    "ელფოსტით გაგზავნა">
-<!ENTITY reminder.new.label                             "ახალი">
-<!ENTITY reminder.delete.label                          "წაშლა">
-<!ENTITY reminder.relation.start.label                  "მოვლენის დაწყება">
-<!ENTITY reminder.relation.end.label                    "მოვლენის დასრულება">
-<!ENTITY reminder.add.label                             "დამატება">
-<!ENTITY reminder.add.accesskey                         "A">
-<!ENTITY reminder.remove.label                          "ამოღება">
-<!ENTITY reminder.remove.accesskey                      "R">
-
-
 <!-- Attendees dialog -->
 <!ENTITY invite.title.label              "დამსწრეთა მოწვევა">
 <!ENTITY event.organizer.label           "დაგეგმვა">
@@ -368,7 +364,13 @@
 <!ENTITY event.freebusy.minus            "წინა საათი" >
 <!ENTITY event.freebusy.legend.free      "თავისუფალია" >
 <!ENTITY event.freebusy.legend.busy      "დაკავებულია" >
+<!ENTITY event.freebusy.legend.busy_tentative   "დასაზუსტებელია" >
+<!ENTITY event.freebusy.legend.busy_unavailable "ოფისის გარეთ" >
 <!ENTITY event.freebusy.legend.unknown   "ინფორმაცია არაა" >
+<!ENTITY event.attendee.role.required           "აუცილებელი დამსწრე">
+<!ENTITY event.attendee.role.optional           "არააუცილებელი დამსწრე">
+<!ENTITY event.attendee.role.chair              "ორგანიზატორი">
+<!ENTITY event.attendee.role.nonparticipant     "სტუმარი">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "გთხოვთ მიუთითოთ საათობრივი ზონა">
@@ -376,6 +378,10 @@
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "ზოგადი">
 <!ENTITY read.only.title.label           "სათაური:">
+<!ENTITY read.only.event.start.label     "დაწყება:">
+<!ENTITY read.only.task.start.label      "დაწყება:">
+<!ENTITY read.only.event.end.label       "დასრულება:">
+<!ENTITY read.only.task.due.label        "დასრულება:">
 <!ENTITY read.only.repeat.label          "გამეორება:">
 <!ENTITY read.only.location.label        "ადგილი:">
 <!ENTITY read.only.category.label        "კატეგორია:">

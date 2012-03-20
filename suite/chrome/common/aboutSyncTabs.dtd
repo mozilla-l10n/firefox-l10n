@@ -1,0 +1,18 @@
+<!-- LOCALIZATION NOTE (tabs.otherComputers.label): Keep this in sync with syncTabsMenu.label from navigator.dtd -->
+<!ENTITY tabs.otherComputers.label               "დაფები სხვა კომპიუტერიდან">
+
+<!ENTITY tabs.searchText.label                   "დაფების მოძიება…">
+
+<!-- LOCALIZATION NOTE (tabs.context.openTab.accesskey, tabs.context.openMultipleTabs.accesskey;
+     tabs.context.bookmarkSingleTab.accesskey, tabs.context.bookmarkMultipleTabs.accesskey):
+     Only one of each of these pairs will show at a time (based on selection), so reusing accesskey is ok. -->
+<!ENTITY tabs.context.openTab.label                   "ამ დაფის გახსნა">
+<!ENTITY tabs.context.openTab.accesskey               "O">
+<!ENTITY tabs.context.openMultipleTabs.label          "შერჩეული დაფების გახსნა">
+<!ENTITY tabs.context.openMultipleTabs.accesskey      "O">
+<!ENTITY tabs.context.bookmarkSingleTab.label         "ამ დაფის ჩანიშვნა…">
+<!ENTITY tabs.context.bookmarkSingleTab.accesskey     "B">
+<!ENTITY tabs.context.bookmarkMultipleTabs.label      "შერჩეული დაფების ჩანიშვნა…">
+<!ENTITY tabs.context.bookmarkMultipleTabs.accesskey  "B">
+<!ENTITY tabs.context.refreshList.label               "სიის განახლება">
+<!ENTITY tabs.context.refreshList.accesskey           "R">

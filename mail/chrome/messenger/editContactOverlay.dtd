@@ -1,11 +1,19 @@
+<!ENTITY editContactPanelDeleteContact.label "წაშლა">
+<!ENTITY editContactPanelDeleteContact.accesskey "l">
+
 <!ENTITY editContactName.label "სახელი:">
 <!ENTITY editContactName.accesskey "N">
 
 <!ENTITY editContactEmail.label "ელფოსტა:">
 <!ENTITY editContactEmail.accesskey "E">
 
+<!ENTITY editContactAddressBook.label "წიგნაკი:">
+<!ENTITY editContactAddressBook.accesskey "A">
+
 <!ENTITY editContactPanelCancel.label "გაუქმება">
 <!ENTITY editContactPanelCancel.accesskey "C">
 
 <!ENTITY editContactPanelDone.label "მზადაა">
 <!ENTITY editContactPanelDone.accesskey "D">
+
+<!ENTITY contactMoveDisabledWarning.description "წიგნაკს ვერ შეცვლით, რადგან კონტაქტი დაგზავნის სიაშია.">

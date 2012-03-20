@@ -1,4 +1,4 @@
-<!ENTITY newsblogTitle.label "RSS ანგარიშის პარამეტრები">
+<!ENTITY accountTitle.label "ანგარიშის პარამეტრები">
 
 <!ENTITY biffStart.label "სტატიების განახლების შემოწმება ყოველ ">
 <!ENTITY biffStart.accesskey "k">
@@ -13,8 +13,8 @@
 <!ENTITY manageSubscriptions.label "ხელმოწერების მართვა…"> 
 <!ENTITY manageSubscriptions.accesskey "M">
 
-<!-- entities from defaults/isp/rss.rdf -->
-<!ENTITY rss.accountName            "სიახლეები და ბლოგები">
-<!ENTITY rss.wizardShortName        "RSS არხები">  
-<!ENTITY rss.wizardLongName         "სიახლეების და ბლოგების RSS არხები">
-<!ENTITY rss.wizardLongName.accesskey "R">
+<!-- entities from rss.rdf -->
+<!ENTITY feeds.accountName            "ბლოგები და სიახლეთა არხები">
+<!ENTITY feeds.wizardShortName        "არხები">  
+<!ENTITY feeds.wizardLongName         "ბლოგები და სიახლეთა არხები">
+<!ENTITY feeds.wizardLongName.accesskey "F">

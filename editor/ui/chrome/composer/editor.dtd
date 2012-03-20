@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+﻿<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -42,9 +42,20 @@
 
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
 
+<!-- Toolbar-only items -->
+<!ENTITY compositionToolbar.tooltip "რედაქტორის პულტი">
+<!ENTITY previewToolbarCmd.label "ნუსხა">
+<!ENTITY previewToolbarCmd.tooltip "ამ გვერდის ჩატვირთვა ბრაუზერში">
+
+<!-- File menu items -->
+<!ENTITY exportToTextCmd.label "ექსპორტი ტექსტად…">
+<!ENTITY exportToTextCmd.accesskey "x">
+<!ENTITY previewCmd.label "გვერდის გადახედვა">
+<!ENTITY previewCmd.accesskey "w">
+<!ENTITY sendPageCmd.label "გვერდის გაგზავნა…">
+<!ENTITY sendPageCmd.accesskey "d">
+
 <!-- View menu items -->
-<!ENTITY viewMenu.label "ჩვენება">
-<!ENTITY viewMenu.accesskey "V">
 <!ENTITY compositionToolbarCmd.label "დიზაინის პულტი">
 <!ENTITY compositionToolbarCmd.accesskey "C">
 <!ENTITY formattingToolbarCmd.label "ფორმატირების პულტი">
@@ -55,3 +66,35 @@
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "ფორმატი">
 <!ENTITY formatMenu.accesskey "o">
+<!ENTITY grid.label "განთავსების ბადე">
+<!ENTITY grid.accesskey "t">
+<!ENTITY pageProperties.label "გვერდის სათაური და პარამეტრები…">
+<!ENTITY pageProperties.accesskey "g">
+
+<!-- Tools menu items -->
+<!ENTITY validateCmd.label "HTML კოდის შემოწმება">
+<!ENTITY validateCmd.accesskey "V">
+
+<!-- Display Mode toolbar and View menu items -->
+<!ENTITY NormalModeTab.label "ჩვეულებრივი">
+<!ENTITY NormalMode.label "რედაქციის ჩვეულებრივი რეჟიმი">
+<!ENTITY NormalMode.accesskey "N">
+<!ENTITY NormalMode.tooltip "ცხრილის ჩარჩოსა და სახელობითი ღუზების ჩვენება">
+<!ENTITY AllTagsModeTab.label "HTML ჭდეები">
+<!ENTITY AllTagsMode.label "HTML ჭდეები">
+<!ENTITY AllTagsMode.accesskey "a">
+<!ENTITY AllTagsMode.tooltip "ხატულების ჩვენება ყველა HTML ჭდისთვის">
+<!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
+     Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if
+     you want the <html> image to left of the 'HTMLSourceModeTab.label' text,
+     or use latin "rtl" if you want this image to the right of text. You do
+     not need to include HTML in the label 'HTMLSourceModeTab.label' -->
+<!ENTITY HTMLSourceModeTab.dir "ltr">
+<!ENTITY HTMLSourceModeTab.label "წყარო">
+<!ENTITY HTMLSourceMode.label "HTML კოდი">
+<!ENTITY HTMLSourceMode.accesskey "H">
+<!ENTITY HTMLSourceMode.tooltip "HTML კოდის რედაქცია">
+<!ENTITY PreviewModeTab.label "ესკიზი">
+<!ENTITY PreviewMode.label "ესკიზი">
+<!ENTITY PreviewMode.accesskey "P">
+<!ENTITY PreviewMode.tooltip "ვიზუალური ხედი (როგორც ბრაუზერში)">

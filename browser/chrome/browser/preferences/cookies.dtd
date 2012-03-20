@@ -3,6 +3,7 @@
 <!ENTITY     cookiesonsystem.label          "თქვენს კომპიუტერში ინახება შემდეგი ნაჭდევები:">
 <!ENTITY     cookiename.label               "ნაჭდევის სახელი">
 <!ENTITY     cookiedomain.label             "საიტი"> 
+<!ENTITY     button.removecookies.label     "ნაჭდევების ამოღება">
 <!ENTITY     button.removecookie.label      "ნაჭდევის ამოღება">
 <!ENTITY     button.removecookie.accesskey  "R">
 <!ENTITY     button.removeallcookies.label  "ყველა ნაჭდევის ამოღება">

@@ -56,8 +56,6 @@
 <!ENTITY  reload.accesskey              "e">
 <!ENTITY  ftp.label                     "FTP პროქსი:">
 <!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  gopher.label                  "Gopher პროქსი:">
-<!ENTITY  gopher.accesskey              "G">
 <!ENTITY  http.label                    "HTTP პროქსი:">
 <!ENTITY  http.accesskey                "y">
 <!ENTITY  ssl.label                     "SSL პროქსი:">
@@ -72,11 +70,9 @@
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
-<!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
-<!ENTITY  gopherPort.accesskey          "">
 <!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "პროქსი არაა:">
 <!ENTITY  noproxy.accesskey             "n">
-<!ENTITY  noproxyExplain.label          "მაგალითი: .mozilla.org, .gia.ge, 192.168.1.0/24">
+<!ENTITY  noproxyExplain.label          "მაგალითი: .mozilla.org, .sangu.ge, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "ყველა ოქმისთვის ამ პროქსი სერვერის გამოყენება">
 <!ENTITY  shareproxy.accesskey          "x">

@@ -10,9 +10,7 @@
 <!ENTITY quitApplicationCmd.key		"Q"> 
 <!ENTITY quitApplicationCmd.accesskey	"x">
 
-<!ENTITY redoCmd.label			"გამეორება">  
 <!ENTITY redoCmd.key			"Y">  
-<!ENTITY redoCmd.accesskey		"r">
 
 <!ENTITY findTypeTextCmd.key            "/">
 <!ENTITY findTypeLinksCmd.key           "'">
@@ -25,6 +23,10 @@
 <!ENTITY openHelpCmd.key                "VK_F1">
 <!ENTITY helpForIEUsers.label           "Internet Explorer-ის მომხმარებელთათვის">
 <!ENTITY helpForIEUsers.accesskey       "I">
+<!-- LOCALIZATION NOTE some localizations need to change the
+                       "Help" menu label on Windows -->
+<!ENTITY helpMenu.label                 "დახმარება"> 
+<!ENTITY helpMenu.accesskey             "H">
 
 <!-- Key labels, for mousewheel prefs -->
 <!ENTITY ctrlKey.label                  "Ctrl">

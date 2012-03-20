@@ -1,9 +1,65 @@
-<!ENTITY aboutDialog.title      "&brandFullName; პროგრამის შესახებ">
-<!ENTITY credits.label          "მადლობები">
-<!ENTITY credits.accesskey      "C">
-<!ENTITY aboutLink.label        "&lt; &brandFullName; პროგრამის შესახებ">
-<!ENTITY aboutLink.accesskey    "A">
-<!ENTITY aboutVersion           "ვერსია">
-<!ENTITY copyrightText          "&#169;1998-2008 პროგრამის ავტორები. ყველა უფლება დაცულია. Mozilla Thunderbird და 
-                                 Thunderbird ლოგოები Mozilla-ს ფონდის სავაჭრო ნიშნებია.  ყველა უფლება 
-                                 დაცულია.">
+﻿<!ENTITY aboutDialog.title      "&brandFullName; პროგრამის შესახებ">
+
+<!ENTITY community.start2           "&brandShortName; შექმნილია ">
+<!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.mozillaLink      "&vendorShortName;">
+<!ENTITY community.middle2          ", a ">
+<!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
+<!ENTITY community.creditsLink      "გლობალური საზოგადოების მიერ">
+<!ENTITY community.end2             " რომელიც ინტერნეტისგასაუმჯობესებლად მუშაობს. ჩვენ გვწამს, რომ ინტერნეტი უნდა იყოს ღია, საზოგადო და ყველასათვის მისაწვდომი რაიმე შეზღუდვების გარეშე.">
+
+<!ENTITY contribute.start           "დაინტერესდით? ">
+<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY contribute.getInvolvedLink "შემოგვიერთდით!">
+<!ENTITY contribute.end             "">
+
+<!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
+<!ENTITY bottomLinks.license        "ლიცენზიის შესახებ">
+
+<!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
+<!ENTITY bottomLinks.rights         "მომხმარებლის უფლებები">
+
+<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
+<!ENTITY bottomLinks.privacy        "კონფიდენციალობა">
+
+<!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.checkingForUpdates  "შემოწმება განახლებებზე…">
+<!-- LOCALIZATION NOTE (update.checkingAddonCompat): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.checkingAddonCompat "შემოწმება მოდულების თავსებადობაზე…">
+<!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.noUpdatesFound      "&brandShortName; განახლებულია">
+<!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.adminDisabled       "განახლებები ამორთულია თქვენი სისტემის ადმინის მიერ">
+
+<!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
+     update.failed.start, update.failed.linkText, and update.failed.end all go into
+     one line with linkText being wrapped in an anchor that links to a site to download
+     the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
+     one line, try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.failed.start        "განახლება ვერ ხერხდება. ">
+<!ENTITY update.failed.linkText     "უახლესი ვერსიის ჩამოტვირთვა">
+<!ENTITY update.failed.end          "">
+
+<!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
+     all go into one line and have an anchor in between with text that is the same as the link to a site
+     to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
+     try to make the localized text short (see bug 596813 for screenshots). -->
+<!ENTITY update.manual.start        "ჩამოტვირთეთ ">
+<!ENTITY update.manual.linkText     "უახლესი ვერსია">
+<!ENTITY update.manual.end          "">
+
+<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
+     update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
+     is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
+     the "em dash" (long dash).
+     example: Downloading update — 111 KB of 13 MB -->
+<!ENTITY update.downloading.start   "განახლების ჩამოტვირთვა — ">
+<!ENTITY update.downloading.end     "">
+
+<!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
+     channel.description.end create one sentence, with the current channel label inserted in between.
+     example: You are currently on the _Stable_ update channel. -->
+<!ENTITY channel.description.start  "ახლა თქვენ ხართ განახლების არხზე ">
+<!ENTITY channel.description.end    ". ">
+
+<!ENTITY cmdCloseMac.commandKey "w">

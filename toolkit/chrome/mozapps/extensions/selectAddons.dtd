@@ -1,0 +1,45 @@
+<!ENTITY upgrade.style               "width: 93ch; height: 448px;">
+
+<!ENTITY checking.heading            "თქვენი მოდულების შემოწმება">
+<!ENTITY checking.progress.label     "დაწკაპეთ თქვენი მოდული &brandShortName; ამ ვერსიასთან თავსებადობის შესამოწმებლად.">
+
+<!ENTITY select.heading              "შეარჩიეთ თქვენი მოდულები">
+<!-- LOCALIZATION NOTE (select.description): The term used for "third parties"
+     here should match the string source.other in selectAddons.properties. -->
+<!ENTITY select.description          "კიდევ უფრო სწრაფი გახადეთ თქვენი &brandShortName; - ამორთეთ უსარგებლო მოდულები. მესამე მხრის მიერ ჩადგმული მოდულები ავტომატურად ამოირთვება თუ მათ არ მონიშნავთ.">
+<!ENTITY select.keep                 "შენარჩუნება">
+<!-- LOCALIZATION NOTE (select.keep.style): Should be a width wide enough for
+     the string in select.keep above. -->
+<!ENTITY select.keep.style           "width: 10ch;">
+<!ENTITY select.action               "ქმედება">
+<!-- LOCALIZATION NOTE (select.action.style): Should be a width wide enough for
+     the action strings in selectAddons.properties or brandShortName. -->
+<!ENTITY select.action.style         "width: 40ch;">
+<!ENTITY select.source               "ჩადგა:">
+<!ENTITY select.name                 "სახელი">
+<!-- LOCALIZATION NOTE (select.name.style): Should be a width small enough so
+     the source column still has enough room for the source strings in
+     selectAddons.properties. -->
+<!ENTITY select.name.style           "width: 33ch;">
+
+<!ENTITY confirm.heading             "შეარჩიეთ თქვენი მოდულები">
+<!-- LOCALIZATION NOTE (confirm.description): The term used for "third parties"
+     here should match the string source.other in selectAddons.properties. -->
+<!ENTITY confirm.description         "კიდევ უფრო სწრაფი გახადეთ თქვენი &brandShortName; - ამორთეთ უსარგებლო მოდულები. მესამე მხრის მიერ ჩადგმული მოდულები ავტომატურად ამოირთვება თუ მათ არ მონიშნავთ.">
+
+<!ENTITY action.disable.heading      "ამოირთვება შემდეგი მოდულები:">
+<!ENTITY action.incompatible.heading "ამორთულია შემდეგი მოდულები, თუმცა ჩაირთვება მათი თავსებადობამდე განახლების შემდეგ:">
+<!ENTITY action.update.heading       "გაანახლდება შემდეგი მოდულები:">
+<!ENTITY action.enable.heading       "გააქტივდება შემდეგი მოდულები:">
+
+<!ENTITY update.heading              "თქვენი მოდულების განახლება">
+<!ENTITY update.progress.label       "განახლებების ჩამოტვირთვა და ჩადგმა თქვენი შერჩეული მოდულებისთვის.">
+
+<!ENTITY errors.heading              "&brandShortName; ვერ ახერხებს ზოგი თქვენი მოდულის განახლებას.">
+<!ENTITY errors.description          "თქვენი ზოგიერთი მოდულის განახლება ვერ ხერხდება. &brandShortName; მათ განახლებას მოგვიანებით შეეცდება.">
+
+<!ENTITY footer.label                "ყოველთვის შეგიძლიათ თქვენი მოდულების შეცვლა მოდულების მმართველიდან.">
+<!ENTITY cancel.label                "გაუქმება">
+<!ENTITY back.label                  "უკან">
+<!ENTITY next.label                  "შემდეგ">
+<!ENTITY done.label                  "მზადაა">

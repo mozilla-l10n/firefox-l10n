@@ -41,6 +41,12 @@
 <!ENTITY sunbird.print.button.tooltip                      "კალენდრის დაბეჭდვა" >
 <!ENTITY sunbird.delete.button.tooltip                     "შერჩეული მოვლენის წაშლა" >
 <!ENTITY sunbird.remotereload.button.tooltip               "ყველა გარე კალენდრის განახლება" >
+<!ENTITY sunbird.import.button.tooltip                     "მოვლენათა იმპორტი ადგილობრივი ფაილიდან" >
+<!ENTITY sunbird.export.button.tooltip                     "მოვლენათა ექსპორტი ადგილობრივ ფაილში" >
+<!ENTITY sunbird.subscribe.button.tooltip                  "ხელმოწერა გარე კომპიუტერის კალენდრის ფაილზე" >
+<!ENTITY sunbird.publish.button.tooltip                    "მოვლენათა გამოქვეყნება გარე კომპიუტერზე" >
+<!ENTITY sunbird.unifinder.button.tooltip                  "მოვლენათა პოვნა და ჩვენება" >
+<!ENTITY sunbird.edit.button.tooltip                       "შერჩეული მოვლენის რედაქტირება" >
 
 <!ENTITY sunbird.choosedate.button.label                   "თარიღის შერჩევა" >
 <!ENTITY sunbird.cut.button.label                          "ამოჭრა" >
@@ -48,6 +54,12 @@
 <!ENTITY sunbird.paste.button.label                        "ჩასმა" >
 <!ENTITY sunbird.delete.button.label                       "წაშლა" >
 <!ENTITY sunbird.remotereload.button.label                 "განახლება" >
+<!ENTITY sunbird.import.button.label                       "იმპორტი" >
+<!ENTITY sunbird.export.button.label                       "ექსპორტი" >
+<!ENTITY sunbird.subscribe.button.label                    "ხელმოწერა" >
+<!ENTITY sunbird.publish.button.label                      "გამოქვეყნება" >
+<!ENTITY sunbird.unifinder.button.label                    "მოვლენათა პოვნა" >
+<!ENTITY sunbird.edit.button.label                         "რედაქტირება" >
 
 <!ENTITY sunbird.flat.topbar.choosedate                    "გადასვლა თარიღზე" >
 <!ENTITY sunbird.flat.topbar.dayview                       "დღის ხედი" >

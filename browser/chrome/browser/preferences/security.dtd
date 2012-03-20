@@ -32,11 +32,3 @@
 
 <!ENTITY  savedPasswords.label            "შენახული პაროლები…">
 <!ENTITY  savedPasswords.accesskey        "P">
-
-
-<!ENTITY  warnings.label                "გაფრთხილების შეტყობინებები">
-
-<!ENTITY  chooseWarnings.label          "გაფრთხილებების სასურველი შეტყობინებების ჩვენება ინტერნეტში მოგზაურობისას">
-
-<!ENTITY  warningSettings.label         "პარამეტრები…">
-<!ENTITY  warningSettings.accesskey     "S">

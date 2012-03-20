@@ -1,7 +1,7 @@
 <!-- extracted from content/pref-offline.xul -->
 
 <!--LOCALIZATION NOTE : FILE The 'Offline' preferences dialog -->
-<!ENTITY pref.offline.title               "ავტონომიური რეჟიმი და ადგილი დისკზე">
+<!ENTITY pref.network.title               "ავტონომიური რეჟიმი და ადგილი დისკზე">
 <!ENTITY pref.offline.caption             "ავტონომიური რეჟიმი ">
 <!ENTITY textStartUp                      "სეანსის დაწყებისას:">
 <!ENTITY textStartUp.accesskey            "W">
@@ -24,7 +24,11 @@
 <!ENTITY radioNotDownload.accesskey       "o">
 <!ENTITY radioAskDownload                 "დამეკითხე">
 <!ENTITY radioAskDownload.accesskey       "k">
+<!ENTITY mailConnections.caption          "საფოსტო კავშირი">
+<!ENTITY mailnewsTimeout.label            "კავშირის ვადა:">
+<!ENTITY mailnewsTimeout.accesskey        "m">
+<!ENTITY mailnewsTimeoutSeconds.label     "წამი">
 <!ENTITY Diskspace                        "ადგილი დისკზე">
 <!ENTITY offlineCompact.label             "დასტების შემჭიდროვება თუ გამოთავისუფლდება">
 <!ENTITY offlineCompact.accesskey         "C">
-<!ENTITY kb.label                         "კბ">
+<!ENTITY mb.label                         "მბ">

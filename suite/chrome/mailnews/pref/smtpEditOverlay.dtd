@@ -6,20 +6,15 @@
 <!ENTITY serverDescription.accesskey "D">
 <!ENTITY serverPort.label "პორტი:">
 <!ENTITY serverPort.accesskey "P">
-<!ENTITY alwaysUseUsername.label "სახელისა და პაროლის გამოყენება">
-<!ENTITY alwaysUseUsername.accesskey "U">
 <!ENTITY userName.label "სახელი:">
 <!ENTITY userName.accesskey "m">
-<!ENTITY useSecAuth.label "უსაფრთხო აუთენტიფიკაცია">
-<!ENTITY useSecAuth.accesskey "i">
-<!ENTITY isSecure.label "უსაფრთხო კავშირის გამოყენება:">
-<!ENTITY neverSecure.label "არა">
-<!ENTITY neverSecure.accesskey "N">
-<!ENTITY sometimesSTARTTLS.label "STARTTLS, თუ შესაძლებელია">
-<!ENTITY sometimesSTARTTLS.accesskey "a">
-<!ENTITY alwaysSTARTTLS.label "STARTTLS">
-<!ENTITY alwaysSTARTTLS.accesskey "T">
-<!ENTITY alwaysSMTPOverSSL.label "SMTP-over-SSL">
-<!ENTITY alwaysSMTPOverSSL.accesskey "L">
+<!ENTITY connectionSecurity.label "კავშირის უსაფრთხოება:">
+<!ENTITY connectionSecurity.accesskey "n">
+<!ENTITY connectionSecurityType-0.label "არა">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, თუ მისაწვდომია">
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "SMTP სერვერი">
-<!ENTITY serverPortDefault.label "ძირითადი:">
+<!ENTITY serverPortDefault.label "ნაგულისხმები:">
+<!ENTITY authMethod.label "აუთენტიფიკაციის მეთოდი:">
+<!ENTITY authMethod.accesskey "i">

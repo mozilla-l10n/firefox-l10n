@@ -4,7 +4,7 @@
 <!ENTITY browser.label "ბრაუზერი">
 <!ENTITY email.label "ელფოსტა">
 <!ENTITY newsgroups.label "სიახლეთა ჯგუფები">
-<!ENTITY rss.label "RSS არხები">
+<!ENTITY feeds.label "არხები">
 
 <!ENTITY checkOnStartup.label "ყოველთვის შემოწმება &brandShortName; პროგრამის გახსნისას">
 <!ENTITY checkOnStartup.accesskey "A">

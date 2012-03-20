@@ -45,7 +45,7 @@
 <!ENTITY features.title "შესაძლებლობები">
 <!ENTITY feat_multiacc.label "მრავალი ანგარიშის მხარდაჭერა">
 <!ENTITY feat_junk.label "ჯართის ამოცნობა">
-<!ENTITY feat_rss.label "RSS წამკითხავი">
+<!ENTITY feat_feeds.label "წამკითხავი">
 <!ENTITY feat_filters.label "წერილების ფილტრები">
 <!ENTITY feat_htmlmsg.label "HTML წერილების მხარდაჭერა">
 <!ENTITY feat_abook.label "მისამართების წიგნაკი">
@@ -63,5 +63,5 @@
 <!--# LOCALIZATION NOTE (info_bugs.label): the URL for <a id="releaseNotesURL"> is fetched from brand.properties -->
 <!ENTITY info_bugs.label
 '<a href="http://www.mozilla.org/mailnews/">ჩვენ</a> მივესალმებით თქვენს გამოგზავნილ
-შეცდომის პატაკებს და მოთხოვნებს, გადაიკითხეთ <a href="&releaseURL;">ინფორმაცია</a> და მოთხოვნა
-ჯერ აქ <a href="https://bugzilla.mozilla.org/query.cgi">Bugzilla</a> გამოაგზავნეთ.'>
+შეცდომის პატაკებს და მოთხოვნებს, გადაიკითხეთ <a href="&releaseURL;">ინფორმაცია</a> და მოთხოვნა ჯერ აქ
+<a href="https://bugzilla.mozilla.org/query.cgi">Bugzilla</a> გამოაგზავნეთ.'>

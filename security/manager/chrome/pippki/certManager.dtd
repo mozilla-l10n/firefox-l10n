@@ -1,4 +1,4 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
+﻿<!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
    - The contents of this file are subject to the Mozilla Public License Version
@@ -93,11 +93,9 @@
 <!ENTITY certmgr.deleteusercert.aftername     "ამ სერთიფიკატის წაშლის შემდეგ ვეღარ შეძლებთ ამ სერთიფიკატით დაშიფრული წერილების წაკითხვას.">
 
 <!ENTITY certmgr.certname                     "სერთიფიკატის სახელი">
-<!ENTITY certmgr.certserver                   "საიტი">
-<!ENTITY certmgr.typesofoverrides             "გამონაკლისები">
+<!ENTITY certmgr.certserver                   "სერვერი">
 <!ENTITY certmgr.override_lifetime            "ვადა">
 <!ENTITY certmgr.tokenname                    "უსაფრთხოების მექანიზმი">
-<!ENTITY certmgr.purpose                      "დანიშნულება">
 <!ENTITY certmgr.issued                       "გაცემულია">
 <!ENTITY certmgr.expires                      "ვადა">
 <!ENTITY certmgr.email                        "ელფოსტის მისამართი">
@@ -107,9 +105,9 @@
 <!ENTITY certmgr.close.accesskey              "C">
 <!ENTITY certmgr.view2.label                  "ჩვენება">
 <!ENTITY certmgr.view2.accesskey               "V">
-<!ENTITY certmgr.edit2.label                  "რედაქტირება">
-<!ENTITY certmgr.edit2.accesskey               "E">
-<!ENTITY certmgr.editca.label                 "სააგენტოს ნდობის რედაქტირება">
+<!ENTITY certmgr.edit3.label                  "რედაქტირება">
+<!ENTITY certmgr.edit3.accesskey               "E">
+<!ENTITY certmgr.editca.label                 "სააგენტოს ნდობის რედაქცია">
 <!ENTITY certmgr.editca.accesskey             "d">
 <!ENTITY certmgr.add.label                    "დამატება">
 <!ENTITY certmgr.add.accesskey                "A">
@@ -117,6 +115,8 @@
 <!ENTITY certmgr.export.accesskey             "x">
 <!ENTITY certmgr.delete2.label                 "წაშლა…">
 <!ENTITY certmgr.delete2.accesskey             "D">
+<!ENTITY certmgr.delete_builtin.label         "წაშლა ან ჩათვლა საეჭვოდ…">
+<!ENTITY certmgr.delete_builtin.accesskey     "D">
 <!ENTITY certmgr.backup2.label                "დუბლირება">
 <!ENTITY certmgr.backup2.accesskey             "B">
 <!ENTITY certmgr.backupall2.label             "ყველას დუბლირება…">
@@ -133,9 +133,9 @@
 <!ENTITY certmgr.addException.accesskey       "x">
 
 <!ENTITY exceptionMgr.title                   "უსაფრთხოების გამონაკლისის დამატება">
-<!ENTITY exceptionMgr.exceptionButton         "უსაფრთხოების გამონაკლისის დასტური">
-<!ENTITY exceptionMgr.exceptionButtonAccess   "C">
-<!ENTITY exceptionMgr.supplementalWarning     "ლეგიტიმური ბანკები, მაღაზიები და სხვა საზოგადო საიტები ამის გაკეთებას არ მოგთხოვენ.">
+<!ENTITY exceptionMgr.exceptionButton.label   "უსაფრთხოების გამონაკლისის დასტური">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "C">
+<!ENTITY exceptionMgr.supplementalWarning     "ლეგიტიმური ბანკები, მაღაზიები და სხვა საზოგადო საიტები ამას არ მოგთხოვენ.">
 <!ENTITY exceptionMgr.certlocation.caption2   "სერერი">
 <!ENTITY exceptionMgr.certlocation.url        "მისამართი:">
 <!ENTITY exceptionMgr.certlocation.download   "სერთიფიკატის მიღება">

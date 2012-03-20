@@ -2,7 +2,6 @@
 <!ENTITY message.label    "აქ სანიმუშო ტექსტია განთავსებული.">
 <!ENTITY editfield0.label "სახელი:"> 
 <!ENTITY editfield1.label "პაროლი:"> 
-<!ENTITY editfield2.label "პაროლის დასტური:"> 
 <!ENTITY checkbox.label   "შემოწმება"> 
 <!ENTITY copyCmd.label    "კოპირება">
 <!ENTITY copyCmd.accesskey "C">

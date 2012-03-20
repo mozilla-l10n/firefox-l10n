@@ -6,17 +6,17 @@
     Place "&brandShortName;" in the phrase where the name of the application should
 	 appear
 -->
-<!ENTITY imageDetails                   "ნახატების მოპყრობის წესების მითითებ &brandShortName;–სთვის.">
+<!ENTITY imageDetails                   "გამოსახულებებთან მოპყრობის წესების მითითება &brandShortName;–სთვის.">
 
-<!ENTITY accAllImagesRadio.label        "ყველა ნახატის მიღება">
-<!ENTITY accAllImagesRadio.accesskey    "A">
-<!ENTITY accOrgImagesRadio.label        "მხოლოდ გვერდის სერვერიდან მოსული ნახატების მიღება">
-<!ENTITY accOrgImagesRadio.accesskey    "r">
-<!ENTITY disableImages.label            "ყველანაირი ნახატის აკრძალვა">
-<!ENTITY disableImages.accesskey        "n">
-<!ENTITY viewImages.label               "ნახატების მიღების წესების მართვა">
-<!ENTITY viewImages.accesskey           "P">
-<!ENTITY animLoopingTitle.label         "ანიმაციური ნახატების დაციკლვა">
+<!ENTITY loadAllImagesRadio.label        "ყველა გამოსახულებია ჩატვირთვა">
+<!ENTITY loadAllImagesRadio.accesskey   "L">
+<!ENTITY loadOrgImagesRadio.label       "გამოსახულებათა ჩატვირთვა მხოლოდ პირველადი სერვერიდან">
+<!ENTITY loadOrgImagesRadio.accesskey   "n">
+<!ENTITY loadNoImagesRadio.label        "ყველა გამოსახულების აკრძალვა">
+<!ENTITY loadNoImagesRadio.accesskey    "D">
+<!ENTITY viewPermissions.label          "უფლებების მართვა">
+<!ENTITY viewPermissions.accesskey      "P">
+<!ENTITY animLoopingTitle.label         "ანიმაციები უნდა დაიციკლოს">
 <!ENTITY animLoopAsSpecified.label      "იმდენჯერ, რამდენჯერაც მითითებულია">
 <!ENTITY animLoopAsSpecified.accesskey  "m">
 <!ENTITY animLoopOnce.label             "ერთხელ">

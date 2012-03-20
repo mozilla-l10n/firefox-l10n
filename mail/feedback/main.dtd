@@ -1,0 +1,36 @@
+﻿<!ENTITY testpilot.brand.label                      "საცდელი ტესტი">
+<!-- browser window: menu and status bar -->
+<!ENTITY testpilot.settings.label                   "პარამეტრები">
+<!ENTITY testpilot.settings.dataSubmission.label    "მონაცემთა გაგზავნა">
+<!ENTITY testpilot.settings.notifications.label     "შეტყობინებები">
+<!ENTITY testpilot.settings.notifyWhen.label        "შემატყობინე, როცა…">
+<!ENTITY testpilot.settings.readyToSubmit.label     "კვლევა მზად იქნება გასაგზავნად">
+<!ENTITY testpilot.settings.newStudy.label          "ახალი კვლევის გამოჩენისას">
+<!ENTITY testpilot.settings.hasNewResults.label     "კვლევის ახალი შედეგებისას">
+<!ENTITY testpilot.settings.alwaysSubmitData.shortLabel  "ჩემი მონაცემების ავტომატური გაგზავნა (არ დამეკითხო)">
+<!ENTITY testpilot.allYourStudies.label             "ყველა თქვენი კვლევა…">
+<!ENTITY testpilot.about.label                      "საცდელი ტესტის შესახებ">
+
+<!-- all studies window -->
+<!ENTITY testpilot.studiesWindow.title                  "თქვენი საცდელი ტესტის კვლევები">
+<!ENTITY testpilot.studiesWindow.currentStudies.label   "მიმდინარე კვლევები">
+<!ENTITY testpilot.studiesWindow.finishedStudies.label  "დასრულებული კვლევები">
+<!ENTITY testpilot.studiesWindow.studyFindings.label    "კვლევის შედეგები">
+<!ENTITY testpilot.studiesWindow.settings.label         "პარამეტრები">
+<!ENTITY testpilot.studiesWindow.stillLoadingMessage    "ჩატვირთვა, გთხოვთ დაიცადოთ…">
+
+<!-- raw data dialog -->
+<!ENTITY testpilot.rawDataWindow.title                  "საცდელი ტესტი: ნედლი მონაცემები">
+
+<!-- notification -->
+<!ENTITY testpilot.notification.close.tooltip            "დახურვა">
+
+<!-- Firefox 4 beta version UI -->
+<!ENTITY testpilot.enable.label                        "მომხმარებელთა კვლევის ჩართვა">
+<!ENTITY testpilot.feedbackbutton.label                "უკუკავშირი">
+<!ENTITY testpilot.happy.label        "Firefox-მა გამახარა, რადგან…">
+<!ENTITY testpilot.sad.label          "Firefox-მა დამამწუხრა, რადგან…">
+<!ENTITY testpilot.happy.thunderbirdLabel               "Thunderbird-მა გამახარა, რადგან…">
+<!ENTITY testpilot.sad.thunderbirdLabel                 "Thunderbird-მა დამამწუხრა, რადგან…">
+<!ENTITY testpilot.broken.label      "ამ საიტის პატაკი, როგორც დაზიანებულის…">
+<!ENTITY testpilot.idea.label        "შემოგვთავაზეთ…">

@@ -4,7 +4,7 @@
 <!ENTITY chooseFile.label "ფაილის არჩევა…">
 <!ENTITY newWindow.label "ახალი ფანჯარა">
 <!ENTITY newTab.label "ახალი დაფა">
-<!ENTITY topWindow.label "აქტიური ფანჯარა">
+<!ENTITY topTab.label "აქტიური დაფა">
 <!ENTITY caption.label "ვებ მისამართის გახსნა">
 <!ENTITY openWhere.label "გახსნა აქ:">
 <!ENTITY openBtn.label "გახსნა">

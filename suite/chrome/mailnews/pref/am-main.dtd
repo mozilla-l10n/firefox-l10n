@@ -3,7 +3,7 @@
 <!ENTITY accountTitle.label "ანგარიშის პარამეტრები">
 <!ENTITY accountName.label "ანგარიშის სახელი:">
 <!ENTITY accountName.accesskey "N">
-<!ENTITY identityTitle.label "ნაგულისხმები იდენტურობა">
+<!ENTITY identityTitle.label "იდენტურობა">
 <!ENTITY identityDesc.label "თითოეული ანგარიში შეიცავს თქვენს საიდენტიფიკაციო მონაცემებს, რომლებსაც მიიღებენ წერილების ადრესატები.">
 <!ENTITY name.label "თქვენი სახელი:">
 <!ENTITY name.accesskey "Y">
@@ -11,16 +11,21 @@
 <!ENTITY email.accesskey "E">
 <!ENTITY replyTo.label "მისამართი პასუხისათვის:">
 <!ENTITY replyTo.accesskey "s">
+<!ENTITY replyTo.placeholder "ადრესატები უპასუხებენ მხოლოდ ამ სხვა მისამართზე">
 <!ENTITY organization.label "ორგანიზაცია:">
 <!ENTITY organization.accesskey "O">
-<!ENTITY signature.label "ხელმოწერის თანდართვა:">
-<!ENTITY signature.accesskey "t">
+<!ENTITY signatureText.label "ხელმოწერის ტექსტი:">
+<!ENTITY signatureText.accesskey "x">
+<!ENTITY signatureHtml.label "HTML კოდის გამოყენება (მაგ., &lt;b&gt;მუქი&lt;/b&gt;)">
+<!ENTITY signatureHtml.accesskey "L">
+<!ENTITY signatureFile.label "ხელმოწერის თანდართვა ფაილიდან (ტექსტი, HTML ან გამოსახულება):">
+<!ENTITY signatureFile.accesskey "t">
 <!ENTITY choose.label "არჩევა…">
 <!ENTITY choose.accesskey "C">
-<!ENTITY editVCard.label "სავიზიტო ბარათის რედაქტირება…">
+<!ENTITY editVCard.label "სავიზიტო ბარათის რედაქცია…">
 <!ENTITY editVCard.accesskey "d">
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
-<!ENTITY attachVCard.label "წერილებზე ჩემი სავიზიტოს მიმაგრება">
+<!ENTITY attachVCard.label "წერილებზე სავიზიტოს მიმაგრება">
 <!ENTITY attachVCard.accesskey "v">
 
 <!ENTITY manageIdentities.label "იდენტურობის პარამეტრები…">
@@ -30,3 +35,4 @@
 <!ENTITY smtpName.label "გამავალი სერვერი (SMTP):">
 <!ENTITY smtpName.accesskey "u">
 <!ENTITY smtpDefaultServer.label "ძირითადი სერვერის გამოყენება">
+

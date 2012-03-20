@@ -1,6 +1,0 @@
-<!ENTITY searchIntegration.engineName "«Windows» ძიება">
-<!ENTITY searchIntegration.title "&searchIntegration.engineName; ინტეგრაცია">
-<!ENTITY searchIntegration.description "გნებავთ ჩართოთ &searchIntegration.engineName; სისტემა ინდექსაციისა და &brandShortName; ფოსტისა და ჯგუფებში საძიებლად?">
-
-<!ENTITY searchIntegration.accept "&searchIntegration.engineName; სისტემის ჩართვა">
-<!ENTITY searchIntegration.cancel "&searchIntegration.engineName; სისტემის ამორთვა">

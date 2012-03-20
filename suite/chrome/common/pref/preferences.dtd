@@ -1,4 +1,4 @@
-<!--LOCALIZATION NOTE : FILE Lists preferences categories that appear on the left of the preferences dialog -->
+<!--LOCALIZATION NOTE (.label): Preferences categories that appear on the left of the preferences dialog -->
 <!ENTITY prefWindow.title "პარამეტრები">
 <!ENTITY categoryHeader "კატეგორია">
 <!ENTITY appear.label "იერსახე">
@@ -11,6 +11,7 @@
 <!ENTITY applications.label "დახმარების პროგრამები">
 <!ENTITY locationBar.label "მისამართის პანელი">
 <!ENTITY tabWindows.label "გახსნა დაფებზე">
+<!ENTITY links.label "ბმების ქცევა">
 <!ENTITY offline.label "ავტონომიური რეჟიმი">
 <!ENTITY security.label "კონფიდენციალობა და უსაფრთხოება">
 <!ENTITY cookies.label "ნაჭდევები">
@@ -21,6 +22,7 @@
 <!ENTITY ssl.label "SSL">
 <!ENTITY certs.label "სერთიფიკატები">
 <!ENTITY validation.label "შემოწმება">
+<!ENTITY sync.label "სინქრონიზაცია">
 <!ENTITY advance.label "დამტებით">
 <!ENTITY down.label "ჩამოტვირთვა">
 <!ENTITY cache.label "ბუფერი">
@@ -29,7 +31,10 @@
 <!ENTITY smart.label "პროგრამების ჩადგმა">
 <!ENTITY download.label "ჩამოტვირთვები">
 <!ENTITY keynav.label "კლავიატურა">
+<!ENTITY findAsYouType.label "ძიება ტექსტის შეტანისას">
 <!ENTITY search.label "ძიება ინტერენეტში">
 <!ENTITY policies.label "უსაფრთხოების პირობები">
 <!ENTITY mousewheel.label "თაგუნას ბორბალი">
 <!ENTITY scriptsAndWindows.label "სცენარები და მოდულები">
+
+<!ENTITY focusSearch.key "f">

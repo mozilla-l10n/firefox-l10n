@@ -55,6 +55,7 @@
 <!ENTITY lookIn.accesskey                    "L"> 
 <!ENTITY for.label                           "ტექსტი:"> 
 <!ENTITY for.accesskey                       "f"> 
+<!ENTITY for.placeholder                     "სახელი ან ელფოსტა">
 <!ENTITY addressMessageTo.label              "წერილის მისამართი:"> 
 
 <!-- Tooltips items -->  

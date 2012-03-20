@@ -1,4 +1,4 @@
-<!-- extracted from am-main.xul -->
+﻿<!-- extracted from am-main.xul -->
 
 <!ENTITY accountTitle.label "ანგარიშის პარამეტრები">
 <!ENTITY accountName.label "ანგარიშის სახელი:">
@@ -11,10 +11,15 @@
 <!ENTITY email.accesskey "E">
 <!ENTITY replyTo.label "მისამართი პასუხისათვის:">
 <!ENTITY replyTo.accesskey "s">
+<!ENTITY replyTo.placeholder "ადრესატები უპასუხებენ ამ, სხვა, მისამართზე">
 <!ENTITY organization.label "ორგანიზაცია:">
 <!ENTITY organization.accesskey "O">
-<!ENTITY signature.label "ხელმოწერის დართვა:">
-<!ENTITY signature.accesskey "t">
+<!ENTITY signatureText.label "ხელმოწერის ტექსტი:">
+<!ENTITY signatureText.accesskey "x">
+<!ENTITY signatureHtml.label "HTML კოდის გამოყენება (მაგ., &lt;b&gt;მუქი&lt;/b&gt;)">
+<!ENTITY signatureHtml.accesskey "L">
+<!ENTITY signatureFile.label "ხელმოწერის თანდართვა ფაილიდან (ტექსტი, HTML ან გამოსახულება):">
+<!ENTITY signatureFile.accesskey "t">
 <!ENTITY edit.label "რედაქტირება…">
 <!ENTITY choose.label "არჩევა…">
 <!ENTITY choose.accesskey "C">

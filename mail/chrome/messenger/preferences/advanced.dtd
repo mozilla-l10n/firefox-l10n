@@ -1,4 +1,4 @@
-<!ENTITY itemGeneral.label       "ზოგადი">
+﻿<!ENTITY itemGeneral.label       "ზოგადი">
 <!ENTITY itemDisplay.label       "წაკითხვა და ჩვენება">
 <!ENTITY itemUpdate.label        "განახლება">
 <!ENTITY itemNetworking.label    "ქსელი და ადგილი დისკზე">
@@ -6,59 +6,70 @@
 
 <!-- General Settings -->
 
-<!ENTITY enableGloda.label             "გზავნილთა ინდექსაციის ჩართვა">
-<!ENTITY enableGloda.accesskey         "i">
+<!ENTITY submitTelemetry.label         "წარმადობის მონაცემთა გაგზავნა">
+<!ENTITY submitTelemetry.accesskey     "P">
+<!ENTITY telemetryInfoLink.label       "ვრცლად ტელემეტრიის შესახებ">
+<!ENTITY enableGlodaSearch.label             "გლობალური ძიებისა და გზავნილთა ინდექსაციის ჩართვა">
+<!ENTITY enableGlodaSearch.accesskey   "E">
+<!ENTITY systemIntegration.label       "სისტემური ინტეგრაცია">
+<!ENTITY alwaysCheckDefault.label      "გახსნისას &brandShortName; პროგრამის ყოველთვის შემოწმება ნაგულისხმებ საფოსტო პროგრამად">
+<!ENTITY alwaysCheckDefault.accesskey  "A">
+<!ENTITY searchIntegration.label       "&searchIntegration.engineName; სისტემისთვის წერილებში ძიების ნებართვა">
+<!ENTITY searchIntegration.accesskey   "S">
+<!ENTITY checkNow.label                "შემოწმება ახლავე">
+<!ENTITY checkNow.accesskey            "N">
+<!ENTITY configEditDesc.label          "დეტალური გამართვა">
+<!ENTITY configEdit.label              "გამართვის რედაქტორი…">
+<!ENTITY configEdit.accesskey          "C">
+<!ENTITY returnReceiptsInfo.label      "როგორ მოეპყრას &brandShortName; მიღების დასტურებს">
+<!ENTITY showReturnReceipts.label      "მიღების დასტურები…">
+<!ENTITY showReturnReceipts.accesskey  "R">
+
+<!-- Display and Reading Settings -->
+<!ENTITY reading.caption               "წაკითხვა">
+<!ENTITY display.caption               "ჩვენება">
 <!ENTITY showCondensedAddresses.label  "წიგნაკში შეტანილი პირების მხოლოდ ეკრანული სახელის ჩვენება">
-<!ENTITY showCondensedAddresses.accesskey "p">
+<!ENTITY showCondensedAddresses.accesskey "S">
 
 <!ENTITY autoMarkAsRead.label          "შეტყობინებების წაკითხულად ავტომატურად მონიშვნა">
 <!ENTITY autoMarkAsRead.accesskey      "A">
 <!ENTITY markAsReadNoDelay.label       "დაუყოვნებლივ ჩვენების დაწყებისას">
-<!ENTITY markAsReadNoDelay.accesskey   "d">
+<!ENTITY markAsReadNoDelay.accesskey   "o">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
 <!ENTITY markAsReadDelay.label         "დაცდა წერილის წაკითხულად მონიშვნამდე">
-<!ENTITY markAsReadDelay.accesskey     "e">
+<!ENTITY markAsReadDelay.accesskey     "d">
 <!ENTITY secondsLabel.label            "წამი">
-<!ENTITY showFolderColumns.label       "დასტის სარკმელში გაფართოებული სვეტების ჩვენება">
-<!ENTITY showFolderColumns.accesskey   "l">
 <!ENTITY openMsgIn.label                "წერილის გახსნა აქ:">
+<!ENTITY openMsgInNewTab.label         "ახალი დაფა">
+<!ENTITY openMsgInNewTab.accesskey     "t">
 <!ENTITY reuseExpRadio0.label          "წერილის ახალ ფანჯარაში">
-<!ENTITY reuseExpRadio0.accesskey      "i">
+<!ENTITY reuseExpRadio0.accesskey      "n">
 <!ENTITY reuseExpRadio1.label          "წერილის არსებულ ფანჯარაში">
-<!ENTITY reuseExpRadio1.accesskey      "x">
-<!ENTITY configEditDesc.label          "დეტალური გამართვა">
-<!ENTITY configEdit.label              "გამართვის რედაქტორი…">
-<!ENTITY configEdit.accesskey          "g">
-<!ENTITY returnReceiptsInfo.label      "როგორ იმუშავოს &brandShortName; პროგრამამ მიღების დასტურთან">
-<!ENTITY showReturnReceipts.label      "მიღების დასტური…">
-<!ENTITY showReturnReceipts.accesskey  "R">
-
-<!-- Display and Reading Settings -->
-<!ENTITY reading.caption                "წაკითხვა">
-<!ENTITY display.caption                "ჩვენება">
+<!ENTITY reuseExpRadio1.accesskey      "e">
+<!ENTITY closeMsgOnMoveOrDelete.label  "წერილის სარკმლის დახურვა წაშლისას">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
 
 <!-- Update -->
 <!ENTITY autoCheck.label                "განახლებების ავტომატური შემოწმება:">
 <!ENTITY enableAppUpdate.label          "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey      "h">
 <!ENTITY enableAddonsUpdate.label       "ჩადგმული პაკეტები და თემები">
-<!ENTITY enableAddonsUpdate.accesskey   "t">
-<!ENTITY checkNow.label                 "შემოწმება ახლავე…">
+<!ENTITY enableAddonsUpdate.accesskey   "A">
 <!ENTITY whenUpdatesFound.label         "&brandShortName; განახლების მოძებნის შემთხვევაში,">
 <!ENTITY modeAskMe.label                "შემდეგ ნაბიჯის დაზუსტება">
-<!ENTITY modeAskMe.accesskey            "k">
+<!ENTITY modeAskMe.accesskey            "m">
 <!ENTITY modeAutomatic.label            "განახლების ავტომატური ჩამოტვირთვა და ჩადგმა">
-<!ENTITY modeAutomatic.accesskey        "m">
+<!ENTITY modeAutomatic.accesskey        "d">
 <!ENTITY modeAutoAddonWarn.label        "გაფრთხილება თუ გამოიწვევს სხვა პაკეტების ან თემების გაუქმებას">
-<!ENTITY modeAutoAddonWarn.accesskey    "-">
+<!ENTITY modeAutoAddonWarn.accesskey    "W">
 <!ENTITY showUpdates.label              "განახლების ისტორიის ჩვენება">
-<!ENTITY showUpdates.accesskey          "y">
+<!ENTITY showUpdates.accesskey          "S">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "პარამეტრები…">
-<!ENTITY showSettings.accesskey        "n">
+<!ENTITY showSettings.accesskey        "S">
 <!ENTITY proxiesConfigure.label        "როგორ დაუკავშირდეს &brandShortName; პროგრამა ინტერნეტს.">
 <!ENTITY connectionsInfo.caption       "კავშირი">
 <!ENTITY offlineInfo.caption           "ავტონომიური რეჟიმი">
@@ -68,8 +79,8 @@
 
 <!ENTITY Diskspace "ადგილი დისკზე">
 <!ENTITY offlineCompact.label "დაასტების შემჭიდროვება როცა გამოთავისუფლდება">
-<!ENTITY offlineCompact.accesskey "v">
-<!ENTITY kb.label "კბ">
+<!ENTITY offlineCompact.accesskey "a">
+<!ENTITY mb.label "მბ">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
@@ -84,11 +95,17 @@
 <!ENTITY clearCacheNow.accesskey         "C">
 
 <!-- Certificates -->
+<!ENTITY certSelection.description       "როცა სერვერი ჩემს პირად სერთიფიკატს ითხოვს:">
+<!ENTITY certs.auto                      "ავტომატური შერჩევა">
+<!ENTITY certs.auto.accesskey            "m">
+<!ENTITY certs.ask                       "დამეკითხე ყოველთვის">
+<!ENTITY certs.ask.accesskey             "A">
+
 <!ENTITY viewCertificates.label         "სერთიფიკატების ჩვენება">
-<!ENTITY viewCertificates.accesskey     "a">
+<!ENTITY viewCertificates.accesskey     "C">
 <!ENTITY viewCRLs.label                 "გაუქმებულთა სია">
-<!ENTITY viewCRLs.accesskey             "e">
+<!ENTITY viewCRLs.accesskey             "R">
 <!ENTITY validation.label               "შემოწმება">
-<!ENTITY validation.accesskey           "d">
+<!ENTITY validation.accesskey           "V">
 <!ENTITY viewSecurityDevices.label      "უსაფრთხოების მოწყობილობები">
-<!ENTITY viewSecurityDevices.accesskey  "u">
+<!ENTITY viewSecurityDevices.accesskey  "S">

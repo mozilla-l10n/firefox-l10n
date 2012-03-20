@@ -5,13 +5,16 @@
 <!ENTITY startupHomePage.label     "გადასვლა ჩემს საწყის გვერდზე">
 <!ENTITY startupBlankPage.label    "ცარიელი გვერდის გახსნა">
 <!ENTITY startupLastSession.label  "ბოლო სეანსის ფანჯრებისა და დაფების ჩვენება">
-<!ENTITY location.label            "სათაო გვერდი:">
-<!ENTITY location.accesskey        "H">
+<!ENTITY restoreOnDemand.label     "დაფების დამალვა მოთხოვნამდე">
+<!ENTITY restoreOnDemand.accesskey "l">
+
+<!ENTITY homepage.label            "თავფურცელი გვერდი:">
+<!ENTITY homepage.accesskey        "P">
 <!ENTITY useCurrentPage.label      "მიმდინარე გვერდის გამოყენება">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "მიმდინარე გვერდის გამოყენება">
-<!ENTITY useBookmark.label         "სანიშნის გამოყენება">
-<!ENTITY useBookmark.accesskey     "B">
+<!ENTITY chooseBookmark.label      "სანიშნის გამოყენება">
+<!ENTITY chooseBookmark.accesskey  "B">
 <!ENTITY restoreDefault.label      "ნაგულისხმების აღდგენა">
 <!ENTITY restoreDefault.accesskey  "R">
 
@@ -29,7 +32,6 @@
 <!ENTITY chooseFolderMac.accesskey    "e">
 <!ENTITY alwaysAsk.label "ყოველთვის დამეკითხე ფაილების შენახვის ადგილს">
 <!ENTITY alwaysAsk.accesskey "A">
-
 
 <!ENTITY addonsMgr.label            "მოდულები">
 <!ENTITY manageAddonsDescWin.label     "თქვენი მოდულების პარამეტრების შეცვლა.">

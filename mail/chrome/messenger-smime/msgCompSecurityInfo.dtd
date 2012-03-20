@@ -1,4 +1,4 @@
-<!--LOCALIZATION NOTE msgCompSecurityInfo.dtd UI for viewing security status when composing a message -->
+﻿<!--LOCALIZATION NOTE msgCompSecurityInfo.dtd UI for viewing security status when composing a message -->
 
 <!ENTITY title.label "წერილის უსაფრთხოება">
 <!ENTITY subject.plaintextWarning "გაითვალისწინეთ: წერილის თემის სტრიქონები არასოდეს იშიფრება.">
@@ -8,7 +8,7 @@
 <!ENTITY status.certificates "სერთიფიკატები:">
 <!ENTITY view.label "ჩვენება">
 <!ENTITY view.accesskey "V">
-<!ENTITY tree.recipient "მიმღები:">
+<!ENTITY tree.recipient "ადრესატი:">
 <!ENTITY tree.status "სტატუსი:">
 <!ENTITY tree.issuedDate "გამოცემული:">
 <!ENTITY tree.expiresDate "ვადა:">

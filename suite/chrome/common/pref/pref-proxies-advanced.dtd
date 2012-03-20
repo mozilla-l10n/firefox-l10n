@@ -8,15 +8,12 @@
 <!ENTITY  ssl.accesskey               "L">
 <!ENTITY  ftp.label                   "FTP პროქსი:">
 <!ENTITY  ftp.accesskey               "F">
-<!ENTITY  gopher.label                "Gopher პროქსი:">
-<!ENTITY  gopher.accesskey            "G">
 <!ENTITY  reuseProxy.label            "ყველა ოქმისთვის HTTP პროქსის პარამეტრების გამოყენება">
 <!ENTITY  reuseProxy.accesskey        "U">
 <!ENTITY  port.label                  "პორტი:">
 <!ENTITY  HTTPPort.accesskey          "P">
 <!ENTITY  SSLPort.accesskey           "o">
 <!ENTITY  FTPPort.accesskey           "r">
-<!ENTITY  gopherPort.accesskey        "">
 
 <!ENTITY  socks.caption               "საზოგადო პროქსი">
 <!ENTITY  socks.description           "SOCKS პროქსის ნაირსახეობაა, რომელიც ზოგჯერ კორპორაციულ ან მსგავს ქსელებში გამოიყენება.">

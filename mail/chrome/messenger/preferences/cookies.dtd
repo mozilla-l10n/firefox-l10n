@@ -1,0 +1,28 @@
+<!ENTITY window.width                      "36em">
+
+<!ENTITY cookiesonsystem.label             "თქვენს კომპიუტერში ინახება შემდეგი ნაჭდევები:">
+<!ENTITY cookiename.label                  "ნაჭდევის სახელი">
+<!ENTITY cookiedomain.label                "საიტი">
+<!ENTITY button.removecookie.label         "ნაჭდევის ამოღება">
+<!ENTITY button.removecookie.accesskey     "R">
+<!ENTITY button.removeallcookies.label     "ყველა ნაჭდევის ამოღება">
+<!ENTITY button.removeallcookies.accesskey "A">
+
+<!ENTITY props.name.label                  "სახელი:">
+<!ENTITY props.value.label                 "შიგთავსი:">
+<!ENTITY props.domain.label                "ჰოსტი:">
+<!ENTITY props.path.label                  "გეზი:">
+<!ENTITY props.secure.label                "გაგზავნა:">
+<!ENTITY props.expires.label               "ვადა:">
+
+<!ENTITY window.title                      "ნაჭდევები">
+<!ENTITY windowClose.key                   "w">
+<!ENTITY focusSearch1.key                  "f">
+<!ENTITY focusSearch2.key                  "k">
+
+<!ENTITY filter.label                      "ძიება:">
+<!ENTITY filter.accesskey                  "S">
+
+<!ENTITY button.close.label                "დახურვა">
+<!ENTITY button.close.accesskey            "C">
+

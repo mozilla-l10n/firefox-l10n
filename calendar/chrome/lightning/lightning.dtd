@@ -50,8 +50,11 @@
 
 <!-- New menu popup in File menu -->
 <!ENTITY lightning.menupopup.new.event.label    "მოვლენა…">
+<!ENTITY lightning.menupopup.new.event.accesskey "E">
 <!ENTITY lightning.menupopup.new.task.label     "ამოცანა…">
+<!ENTITY lightning.menupopup.new.task.accesskey "T">
 <!ENTITY lightning.menupopup.new.calendar.label "კალენდარი…">
+<!ENTITY lightning.menupopup.new.calendar.accesskey "n">
 
 <!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.label               "გახსნა">
@@ -61,11 +64,15 @@
 <!ENTITY lightning.menupopup.open.calendar.label      "კალენდრის ფაილი…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "C">
 
-<!-- Messenger Sidebar -->
-<!ENTITY lightning.calendar.label            "კალენდარი">
-<!ENTITY lightning.calendar.accesskey        "C">
-<!ENTITY lightning.tasks.label               "ამოცანები">
-<!ENTITY lightning.tasks.accesskey           "T">
+<!-- View Menu -->
+<!ENTITY lightning.menu.view.calendar.label            "კალენდარი">
+<!ENTITY lightning.menu.view.calendar.accesskey        "n">
+<!ENTITY lightning.menu.view.tasks.label               "ამოცანები">
+<!ENTITY lightning.menu.view.tasks.accesskey           "k">
+
+<!-- Events and Tasks menu -->
+<!ENTITY lightning.menu.eventtask.label                "მოვლენები და ამოცანები">
+<!ENTITY lightning.menu.eventtask.accesskey            "n">
 
 <!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.mail.label      "ფოსტა">
@@ -98,6 +105,8 @@
 <!ENTITY lightning.imipbar.description "ეს გზავნილი მოვლენაზე მოწვევას შეიცავს.">
 
 <!-- Lightning specific keybindings -->
+<!ENTITY lightning.keys.event.showCalendar.key "C">
+<!ENTITY lightning.keys.event.showTasks.key "D">
 <!ENTITY lightning.keys.event.new "I">
 <!ENTITY lightning.keys.todo.new "D">
 

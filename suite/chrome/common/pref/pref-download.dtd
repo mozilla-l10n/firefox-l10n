@@ -1,29 +1,36 @@
 <!ENTITY pref.download.title            "ჩამოტვირთვები">
+
 <!ENTITY downloadBehavior.label         "ჩამოტვირთვის დაწყებისას">
-<!ENTITY downloadLocation.label         "ფაილის შენახვისას">
-<!ENTITY finishedBehavior.label         "ჩამოტვირთვის დასრულებისას">
+<!ENTITY focusWhenStarting.label        "ჩამოტვირთვის მმართველის გაელვება თუ გახსნილია, წინააღმდეგ შემთხვევაში:">
+<!ENTITY focusWhenStarting.accesskey    "F">
 <!ENTITY openDM.label                   "ჩამოტვირთვის მმართველის გახსნა">
 <!ENTITY openDM.accesskey               "m">
 <!ENTITY openProgressDialog.label       "მიმდინარეობის დიალოგის გახსნა">
 <!ENTITY openProgressDialog.accesskey   "O">
 <!ENTITY doNothing.label                "არცერთი ქმედება">
 <!ENTITY doNothing.accesskey            "D">
-<!ENTITY promptDownload.label           "ჩამოტვირთვის მისამართის მითითება და გახსნა">
-<!ENTITY promptDownload.accesskey       "P">
-<!ENTITY lastLocation.label             "ჩამოტვირთვის ბოლო დასტაში">
-<!ENTITY lastLocation.accesskey         "L">
-<!ENTITY specifiedLocation.label        "ჩამოტვირთვის მითითებულ დასტაში">
-<!ENTITY specifiedLocation.accesskey    "e">
-<!ENTITY autoDownload.label             "ფაილების ავტომატური ჩამოტვირთვა მითითებულ დასტაში">
-<!ENTITY autoDownload.accesskey         "A">
-<!ENTITY downloadFolder.label           "ჩამოტვირთვის მიმდინარე დასტა:">
+
+<!ENTITY downloadLocation.label         "ფაილის შენახვისას">
+<!ENTITY saveTo.label                   "Save files to">
+<!ENTITY saveTo.accesskey               "v">
 <!ENTITY chooseDownloadFolder.label     "დასტის არჩევა…">
 <!ENTITY chooseDownloadFolder.accesskey "C">
+<!ENTITY alwaysAsk.label                "ყოველთვის დამეკითხე ფაილის შენახვას">
+<!ENTITY alwaysAsk.accesskey            "A">
+
+<!ENTITY downloadHistory.label          "ჩამოტვირთვების ისტორია">
+<!ENTITY removeEntries.label            "ჩამოტვირთვების ჩანაწერთა ამოღება">
+<!ENTITY removeEntries.accesskey        "R">
+<!ENTITY whenCompleted.label            "მათი დასრულებისას">
+<!ENTITY whenQuittingApp.label          "&brandShortName; პროგრამის დახურვისას">
+<!ENTITY neverRemove.label              "არასოდეს">
+
+<!ENTITY finishedBehavior.label         "გამოტვირთვის დასრულებისას">
 <!ENTITY playSound.label                "გახმოვანება">
-<!ENTITY playSound.accesskey            "s">
+<!ENTITY playSound.accesskey            "P">
 <!ENTITY showAlert.label                "გაფრთხილების ჩვენება">
-<!ENTITY showAlert.accesskey            "n">
+<!ENTITY showAlert.accesskey            "S">
 <!ENTITY browse.label                   "ნუსხა…">
 <!ENTITY browse.accesskey               "B">
-<!ENTITY preview.label                  "ესკიზი">
-<!ENTITY preview.accesskey              "v">
+<!ENTITY playButton.label               "გახმოვანება">
+<!ENTITY playButton.accesskey           "l">

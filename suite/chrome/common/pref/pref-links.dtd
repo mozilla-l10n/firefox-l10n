@@ -1,0 +1,25 @@
+<!ENTITY linksHeader.label "ბმის ქცევა">
+<!ENTITY newWindow.label "ბმის ქცევა გახსნისას">
+<!ENTITY newWindowDescription.label "ახალ სარკმელში გასახსნელი ბმების გახსნა:">
+<!ENTITY newWindowRestriction.label "როცა სკრიპტი ითხოვს ახალი სარკმლის გახსნას:">
+<!ENTITY external.label "ბმები სხვა პროგრამებიდან">
+<!ENTITY externalDescription.label "სხვა პროგრამებიდან გადმოტანილი ბმების გახსნა:">
+
+<!ENTITY openCurrent.label "მიმდინარე დაფაზე/სარკმელში">
+<!ENTITY newWindowGroupCurrent.accesskey "c">
+<!ENTITY externalGroupCurrent.accesskey "u">
+
+<!ENTITY openTab.label "მიმდინარე სარკმლის ახალ დაფაზე">
+<!ENTITY newWindowGroupTab.accesskey "t">
+<!ENTITY externalGroupTab.accesskey "a">
+
+<!ENTITY openWindow.label "ახალ დაფაზე">
+<!ENTITY newWindowGroupWindow.accesskey "w">
+<!ENTITY externalGroupWindow.accesskey "o">
+
+<!ENTITY divertAll.label "სარკმლების ყოველთვის გადამისამართება დაფებზე">
+<!ENTITY divertAll.accesskey "d">
+<!ENTITY divertNoFeatures.label "საკუთარი სარკმლების შენარჩუნება">
+<!ENTITY divertNoFeatures.accesskey "s">
+<!ENTITY dontDivert.label "ყოველთვის ახალი სარკმლების გახსნა">
+<!ENTITY dontDivert.accesskey "n">

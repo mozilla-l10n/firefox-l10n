@@ -1,5 +1,5 @@
 <!-- Subscription Dialog -->
-<!ENTITY newsBlogSubscriptions.label "RSS არხების ხელმოწერები">
+<!ENTITY feedSubscriptions.label "ხელმოწერები არხზე">
 <!ENTITY subscriptionDesc.label "შენიშვნა: არხის დასტის ამოღება ან შეცვლა წინა ჩამოტვირთულ სტატიებს არ შეეხება.">
 <!ENTITY feedTitle.label "Title:">
 <!ENTITY location.label  "მისამართი:">

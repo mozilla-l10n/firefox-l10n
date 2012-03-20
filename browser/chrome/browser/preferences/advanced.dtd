@@ -17,14 +17,20 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "მდორე გადახვევის გამოყენება">
 <!ENTITY useSmoothScrolling.accesskey    "m">
+<!ENTITY allowHWAccel.label              "აპარატული დაჩქარებით სარგებლობა როცა შესაძლებელია">
+<!ENTITY allowHWAccel.accesskey          "r">
 <!ENTITY checkSpelling.label             "მართლწერის შემოწმება ტექსტის შეტანისას">
 <!ENTITY checkSpelling.accesskey         "t">
 
 <!ENTITY systemDefaults.label            "სისტემის ნაგულისხმები">
-<!ENTITY alwaysCheckDefault.label        "&brandShortName; პროგრამის ყოველთვის შემოწმება ნაგულისხმობაზე გახსნისას"><!--XXX-->
+<!ENTITY alwaysCheckDefault.label        "გახსნისას &brandShortName; პროგრამის ყოველთვის შემოწმება ნაგულისხმობაზე"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "w">
 <!ENTITY checkNow.label                  "შემოწმება ახლავე">
 <!ENTITY checkNow.accesskey              "N">
+<!ENTITY submitCrashes.label             "შეცდომათა პატაკის გაგზავნა">
+<!ENTITY submitCrashes.accesskey         "S">
+<!ENTITY submitTelemetry.label           "წარმადობის მონაცემთა გაგზავნა">
+<!ENTITY submitTelemetry.accesskey       "P">
 
 <!ENTITY networkTab.label                "ქსელი">
 
@@ -37,35 +43,43 @@
 <!ENTITY offlineStorage.label            "გარე ბუფერი">
 
 <!-- LOCALIZATION NOTE:
-  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
-  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-<!ENTITY useCacheBefore.label            "ბუფერისთვის">
-<!ENTITY useCacheBefore.accesskey        "U">
-<!ENTITY useCacheAfter.label             "მბ-მდე გამოყენება">
+<!ENTITY limitCacheSizeBefore.label            "ბუფერისთვის">
+<!ENTITY limitCacheSizeBefore.accesskey        "L">
+<!ENTITY limitCacheSizeAfter.label             "მბ-მდე გამოყენება">
 <!ENTITY clearCacheNow.label             "გასუფთავება ახლავე">
 <!ENTITY clearCacheNow.accesskey         "C">
+<!ENTITY overrideSmartCacheSize.label    "ბუფერის თვითმართვის ჩანაცვლება">
+<!ENTITY overrideSmartCacheSize.accesskey "O">
 
 <!ENTITY updateTab.label                 "განახლება">
 
-<!ENTITY autoCheck.label                 "განახლებების ავტომატური შემოწმება:">
-<!ENTITY enableAppUpdate.label           "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey       "F">
-<!ENTITY enableAddonsUpdate.label        "ჩადგმული პაკეტები და თემები">
-<!ENTITY enableAddonsUpdate.accesskey    "n">
-<!ENTITY enableSearchUpdate.label        "საძიებო სისტემები">
-<!ENTITY enableSearchUpdate.accesskey    "h">
-<!ENTITY whenUpdatesFound.label          "თუ &brandShortName; განახლება მოიძებნა:">
-<!ENTITY askMe.label                     "დამეკითხე რისი გაკეთება მსურს">
-<!ENTITY askMe.accesskey                 "k">
-<!ENTITY modeAutomatic.label             "განახლების ავტომატური ჩამოტვირთვა და ჩადგმა">
-<!ENTITY modeAutomatic.accesskey         "d">
-<!ENTITY modeAutoAddonWarn.label         "გაფრთხილება პაკეტების ან თემების გაუქმების შემთხვევაში">
-<!ENTITY modeAutoAddonWarn.accesskey     "W">
+<!ENTITY updateApp.label                 "&brandShortName; განახლებები:">
+<!ENTITY updateAuto.label                "განახლებათა თვითჩადგმა (რეკომენდებულია: მაღალი უსაფრთხოება)">
+<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateCheck.label               "განახლებების შემოწმება, მაგრამ ჩადგმა მხოლოდ თანხმობის შემდეგ">
+<!ENTITY updateCheck.accesskey           "C">
+<!ENTITY updateManual.label              "განახლებათა შემოწმების გარეშე (არაა რეკომენდებული: საფრთხე იზრდება)">
+<!ENTITY updateManual.accesskey          "N">
+
+<!ENTITY updateAutoAddonWarn.label       "შემატყობინე თუ ჩადგმისას ჩემი რომელიმე მოდული ამოირთვება">
+<!ENTITY updateAutoAddonWarn.accesskey   "W">
+
 <!ENTITY updateHistory.label             "განახლების ისტორიის ჩვენება">
 <!ENTITY updateHistory.accesskey         "p">
+
+<!ENTITY useService.label                "ფონური მომსახურება განახლებათა ჩადგმისთვის">
+<!ENTITY useService.accesskey            "b">
+
+<!ENTITY updateOthers.label              "თვითგანახლება:">
+<!ENTITY enableAddonsUpdate3.label       "მოდულები">
+<!ENTITY enableAddonsUpdate3.accesskey   "o">
+<!ENTITY enableSearchUpdate.label        "საძიებო სისტემები">
+<!ENTITY enableSearchUpdate.accesskey    "E">
 
 <!ENTITY offlineNotify.label             "შემატყობინე როცა ვებსაიტი ითხოვს მონაცემთა შენახვას ავტონომიური სარგებლობისთვის">
 <!ENTITY offlineNotify.accesskey         "T">

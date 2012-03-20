@@ -3,7 +3,7 @@
      should go into netError.dtd -->
 
 <!ENTITY securityOverride.linkText "ან გამონაკლისის დამატება შეგიძლიათ…">
-<!ENTITY securityOverride.warningText "
+<!ENTITY securityOverride.warningContent "
 <p>არ უნდა ისარგებლოთ გამონაკლისით თუ ინტერნეტ კავშირს სრულად არ ენდობით ან ამ სერვერისთვის გაფრთხილებების ჩვენება ამორთული გაქვთ.</p>
 <p>თუ მაინც გსურთ ამ საიტისთვის გამონაკლისის მითითება, ამის გაკეთება დაშიფვრის დეტალურ პარამეტრებში შეგიძლიათs.</p>
 ">

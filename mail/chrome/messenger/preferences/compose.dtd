@@ -3,13 +3,11 @@
 <!ENTITY itemSpellCheck.label                "მართლწერა">
 
 <!ENTITY forwardMsg.label                     "წერილების გადაგზავნა:">
-<!ENTITY forwardMsg.accesskey                 "w">
+<!ENTITY forwardMsg.accesskey                 "F">
 <!ENTITY inline.label                         "წერილშივე">
-<!ENTITY inline.accesskey                     "I">
 <!ENTITY asAttachment.label                   "დანართად">
-<!ENTITY asAttachment.accesskey               "A">
 <!ENTITY addExtension.label                   "გაფართოების დამატება ფაილის სახელისთვის">
-<!ENTITY addExtension.accesskey               "f">
+<!ENTITY addExtension.accesskey               "e">
 
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "შრიფტი:">
@@ -17,7 +15,7 @@
 <!ENTITY size.label                           "ზომა:">
 <!ENTITY size.accesskey                       "z">
 <!ENTITY fontColor.label                      "ტექსტის ფერი:">
-<!ENTITY fontColor.accesskey                  "x">
+<!ENTITY fontColor.accesskey                  "T">
 <!ENTITY bgColor.label                        "ფონის ფერი:">
 <!ENTITY bgColor.accesskey                    "B">
 <!ENTITY restoreHTMLDefaults.label            "ნაგულისხმების აღდგენა">
@@ -26,23 +24,23 @@
 <!ENTITY spellCheck.label                     "მართლწერის შემოწმება გაგზავნამდე">
 <!ENTITY spellCheck.accesskey                 "C">
 <!ENTITY spellCheckInline.label               "მართლწერის შემოწმება ტექსტის შეტანისას">
-<!ENTITY spellCheckInline1.accesskey           "k">
+<!ENTITY spellCheckInline1.accesskey          "E">
 <!ENTITY languagePopup.label                  "ენა:">
-<!ENTITY languagePopup.accessKey              "g">
+<!ENTITY languagePopup.accessKey              "L">
 <!ENTITY downloadDictionaries.label           "სხვა ლექსიკონების ჩამოტვირთვა">
 
 <!ENTITY warnOnSendAccelKey.label             "დასტური წერილის გაგზავნისთვის მალმხმობის გამოყენებისას">
-<!ENTITY warnOnSendAccelKey.accesskey         "i">
+<!ENTITY warnOnSendAccelKey.accesskey         "C">
 <!ENTITY autoSave.label                       "თვითშენახვა ყოველ">
-<!ENTITY autoSave.accesskey                   "u">
+<!ENTITY autoSave.accesskey                   "A">
 <!ENTITY autoSaveEnd.label                    "წუთში">
 
 <!ENTITY emailCollectionPicker.label           "გამავალი ელფოსტის მისამართების ავტომატური ჩამატება ჩემს:">
-<!ENTITY emailCollectionPicker.accesskey       "t">
+<!ENTITY emailCollectionPicker.accesskey       "A">
 <!ENTITY addressingTitle.label                 "მისამართების თვითდასრულება">
 <!ENTITY autocompleteText.label                "წერილების გაგზავნისას შესაბამისი ჩანაწერების შემოწმება:">
 <!ENTITY addressingEnable.label                "ადგილობრივ წიგნაკებში">
-<!ENTITY addressingEnable.accesskey            "A">
+<!ENTITY addressingEnable.accesskey            "L">
 <!ENTITY directories.label                     "დასტების სერვერი:">
 <!ENTITY directories.accesskey                 "D">
 <!ENTITY directoriesNone.label                 "არა">
@@ -52,3 +50,8 @@
 <!ENTITY sendOptionsDescription.label          "ტექსტის ფორმატირების წესების მითითება">
 <!ENTITY sendOptions.label                     "გაგზავნის პარამეტრები…">
 <!ENTITY sendOptions.accesskey                 "S">
+
+<!ENTITY attachmentReminder.label              "ჩანართების სისრულის შემოწმება">
+<!ENTITY attachmentReminder.accesskey          "m">
+<!ENTITY attachmentReminderOptions.label       "საკვანძო სიტყვები…">
+<!ENTITY attachmentReminderOptions.accesskey   "K">

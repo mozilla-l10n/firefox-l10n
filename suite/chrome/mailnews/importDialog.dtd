@@ -19,7 +19,7 @@
  Portions created by the Initial Developer are Copyright (C) 2001
  the Initial Developer. All Rights Reserved.
 
- Contributor(s): Gia Shervashidze
+ Contributor(s): Gia Shervashidze (Georgian l10n)
      Jeff Beckley <beckley@qualcomm.com>
 
  Alternatively, the contents of this file may be used under the terms of
@@ -36,23 +36,29 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY importDialog.windowTitle "ინპორტი">
-<!ENTITY importDialog.allTitle    "ყველას იმპორტი">
-<!ENTITY importDialog.mailTitle   "ფოსტა">
-<!ENTITY importDialog.addressbookTitle "წიგნაკები">
-<!ENTITY importDialog.settingsTitle "პარამეტრები">
-<!ENTITY importDialog.filtersTitle "ფილტრები">
+<!ENTITY importDialog.windowTitle "იმპორტი">
+<!ENTITY importAll.label          "ყველას იმპორტი">
+<!ENTITY importAll.accesskey      "E">
+<!ENTITY importMail.label         "ფოსტა">
+<!ENTITY importMail.accesskey     "M">
+<!ENTITY importAddressbook.label  "წიგნაკი">
+<!ENTITY importAddressbook.accesskey "A">
+<!ENTITY importSettings.label     "პარამეტრები">
+<!ENTITY importSettings.accesskey "S">
+<!ENTITY importFilters.label      "ფილტრები">
+<!ENTITY importFilters.accesskey  "F">
 
 <!ENTITY  window.width            "45em">
 <!ENTITY  window.macWidth         "50em">
 
 <!ENTITY importTitle.label        "&brandShortName; იმპორტის მეგზური">
-<!ENTITY importShortDesc.label    "სხვა პროგრამებიდან ფოსტის, წიგნაკების, პარამეტრებისა და ფილტრების იმპორტი">
+<!ENTITY importShortDesc.label         "ფოსტის, წიგნაკის, პარამეტრებისა და ფილტრების იმპორტი სხვა პროგრამებიდან">
 
-<!ENTITY importDescription1.label  "აქ თქვენ შეგიძლიათ წერილების, წიგნაკების ჩანაწერების, პარამეტრებისა და/ან ფილტრების იმპორტი სხვა საფოსტო პროგრამებიდან &brandShortName; პროგრამაში.">
-<!ENTITY importDescription2.label "იმპორტირების შემდეგ, თქვენ შეგიძლიათ მისი გამოყენება &brandShortName; პროგრამაში.">
+<!ENTITY importDescription1.label  "მეგზური სხვა საფოსტო პროგრამებიდან და წიგნაკებიდან &brandShortName; საფოსტო პროგრამაში წერილების, წიგნაკის ჩანაწერების, ფილტრებისა და/ან პარამეტრების იმპორტის საშუალებას მოგცემთ.">
+<!ENTITY importDescription2.label "იმპორტის შემდეგ მათი გამოყენება დაუყოვნებლივ შეგეძლებათ &brandShortName; პროგრამაში.">
 
-<!ENTITY selectDescription.label  "გთხოვთ მიუთითოთ ფაილის ტიპი, რომლის იმპორტიც გსურთ:">
+<!ENTITY selectDescription.label  "გთხოვთ მიუთითოთ ფაილის ტიპი, რომლიდანაც გსურთ მონაცემთა იმპორტი:">
+<!ENTITY selectDescription.accesskey "P">
 
 <!ENTITY back.label               "&lt; უკან">
 <!ENTITY forward.label            "შემდეგი &gt;">
@@ -62,10 +68,4 @@
 <!ENTITY select.label             "ან საიმპორტო მონაცემების ტიპების მითითება:">
 
 <!ENTITY title.label              "სათაური">
-<!ENTITY processing.label         "იმპორტირება…">
-
-<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x-ს აქვს ერთი წიგნაკი, მაშინ როცა &brandShortName;-ს აქვს ორი (ბინა და სამსახური).">
-<!ENTITY FieldDiscInputText2.label  "აირჩიეთ კატეგორია, რომელშიც გსურთ იმპორტირებული მისამართების შენახვა:">
-<!ENTITY FieldDiscWarning.label  "ეს კატეგორია გამოიყენება არჩეული წიგნაკის ყველა დანარჩენი ველებისათვის: ">
-<!ENTITY importDialog.homeTitle  "ბინა">
-<!ENTITY importDialog.workTitle  "სამსახური">
+<!ENTITY processing.label         "იმპორტი…">

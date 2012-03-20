@@ -1,0 +1,23 @@
+<!ENTITY % brandDTD
+    SYSTEM "chrome://branding/locale/brand.dtd">
+  %brandDTD;
+
+<!-- These strings are used in the about:home page -->
+
+<!ENTITY abouthome.pageTitle "&brandFullName; თავფურცელი">
+
+<!ENTITY abouthome.searchEngineButton.label "Search">
+
+<!ENTITY abouthome.aboutMozilla "Mozilla-ს შესახებ">
+
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
+     text in <a/> will be linked to the Firefox features page on mozilla.com
+-->
+<!ENTITY abouthome.defaultSnippet1.v1 "გმადლობთ, რომ აირჩიეთ Firefox! ბრაუზერით სრულფასოვნად სარგებლობისთვის გაეცანით <a>ახალ შესაძლებლობებს</a>.">
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
+     text in <a/> will be linked to the featured add-ons on addons.mozilla.org
+-->
+<!ENTITY abouthome.defaultSnippet2.v1 "იოლად შეგიძლიათ მიანიჭოთ სასურველი იერსახე Firefox ბრაუზერს. <a>შეარჩიეთ ათასობით მზა მოდულიდან</a>.">
+
+<!ENTITY abouthome.syncSetup.label   "სინქრონიზაციის გამართვა">
+<!ENTITY abouthome.pairDevice.label  "მოწყობილობასთან დაწყვილება">

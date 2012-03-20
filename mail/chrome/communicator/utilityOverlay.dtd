@@ -2,60 +2,58 @@
 
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
 
-<!ENTITY fileMenu.label					"ფაილი"> 
-<!ENTITY fileMenu.accesskey				"f">
-<!ENTITY newMenu.label						"ახალი">
+<!ENTITY fileMenu.label          "ფაილი">
+<!ENTITY fileMenu.accesskey        "F">
+<!ENTITY newMenu.label            "ახალი">
 <!ENTITY newMenu.accesskey					"N">
 
-<!ENTITY editMenu.label					"რედაქტირება"> 
-<!ENTITY editMenu.accesskey				"e"> 
-<!ENTITY undoCmd.label						"დაბრუნება">  
+<!ENTITY editMenu.label          "რედაქცია">
+<!ENTITY editMenu.accesskey        "E">
+<!ENTITY undoCmd.label            "დაბრუნება">
 <!ENTITY undoCmd.key						"Z">  
-<!ENTITY undoCmd.accesskey					"u"> 
-<!ENTITY redoCmd.label						"გამეორება">  
+<!ENTITY undoCmd.accesskey          "U">
+<!ENTITY redoCmd.label            "გამეორება">
 <!ENTITY redoCmd.key						"Y">  
-<!ENTITY redoCmd.accesskey					"r"> 
-<!ENTITY cutCmd.label						"ამოჭრა">  
+<!ENTITY redoCmd.accesskey          "R">
+<!ENTITY cutCmd.label            "ამოჭრა">
 <!ENTITY cutCmd.key							"X">  
 <!ENTITY cutCmd.accesskey					"t"> 
-<!ENTITY copyCmd.label						"კოპირება">  
+<!ENTITY copyCmd.label            "ასლი">
 <!ENTITY copyCmd.key						"C">  
-<!ENTITY copyCmd.accesskey					"c"> 
-<!ENTITY pasteCmd.label						"ჩასმა">  
+<!ENTITY copyCmd.accesskey          "C">
+<!ENTITY pasteCmd.label            "ჩასმა">
 <!ENTITY pasteCmd.key						"V">  
-<!ENTITY pasteCmd.accesskey					"p"> 
-<!ENTITY deleteCmd.label					"წაშლა">  
-<!ENTITY deleteCmd.accesskey				"d"> 
-<!ENTITY selectAllCmd.label					"სრული მონიშვნა">  
+<!ENTITY pasteCmd.accesskey          "P">
+<!ENTITY deleteCmd.label          "წაშლა">
+<!ENTITY deleteCmd.accesskey        "D">
+<!ENTITY selectAllCmd.label          "ყველას მონიშვნა">
 <!ENTITY selectAllCmd.key					"A">  
-<!ENTITY selectAllCmd.accesskey				"a"> 
-<!ENTITY preferencesCmd.label				"პარამეტრები...">
+<!ENTITY selectAllCmd.accesskey        "A">
+<!ENTITY preferencesCmd.label        "პარამეტრები…">
 <!ENTITY preferencesCmd.accesskey			"O"> 
-<!ENTITY preferencesCmdUnix.label       "Preferences">
+<!ENTITY preferencesCmdUnix.label       "პარამეტრები">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
-<!ENTITY viewMenu.label					"ჩვენება"> 
-<!ENTITY viewMenu.accesskey				"v"> 
-<!ENTITY viewToolbarsMenu.label				"პულტები"> 
+<!ENTITY viewMenu.label          "ჩვენება">
+<!ENTITY viewMenu.accesskey        "V">
+<!ENTITY viewToolbarsMenu.label        "პულტები">
 <!ENTITY viewToolbarsMenu.accesskey			"T"> 
-<!ENTITY showTaskbarCmd.label					"სტატუსის პანელი">  
-<!ENTITY showTaskbarCmd.accesskey				"S"> 
+<!ENTITY showTaskbarCmd.label          "სტატუსის პანელი">
+<!ENTITY showTaskbarCmd.accesskey        "u">
 
-<!ENTITY proxy.label                                    "პროქსის გამართვა...">
+<!ENTITY proxy.label                                    "პროქსის კონფიგურაცია…">
 <!ENTITY proxy.accesskey                                "C">
 
-<!ENTITY closeCmd.label			"დახურვა">  
+<!ENTITY closeCmd.label      "დახურვა">
 <!ENTITY closeCmd.key			"W">  
-<!ENTITY closeCmd.accesskey		"c">
+<!ENTITY closeCmd.accesskey    "C">
 
-<!ENTITY closeWindow.label "სარკმლის დახურვა">
-
-<!ENTITY quitApplicationCmd.label	"გასვლა"> 
+<!ENTITY quitApplicationCmd.label  "გასვლა">
 <!ENTITY quitApplicationCmd.key		"Q"> 
 <!ENTITY quitApplicationCmd.accesskey	"x">
 
-<!ENTITY quitApplicationCmdUnix.label	"დასრულება"> 
-<!ENTITY quitApplicationCmdUnix.accesskey	"q">
+<!ENTITY quitApplicationCmdUnix.label  "დასრულება">
+<!ENTITY quitApplicationCmdUnix.accesskey  "Q">
 
-<!ENTITY quitApplicationCmdMac.label	"&brandShortName; - დასრულება"> 
-<!ENTITY quitApplicationCmdMac.accesskey	"q">
+<!ENTITY quitApplicationCmdMac.label  "&brandShortName;-ის დასრულება">
+<!ENTITY quitApplicationCmdMac.accesskey  "Q">

@@ -1,5 +1,5 @@
-<!ENTITY accountTitle.label "ანგარიშის პარამეტრები">
-<!ENTITY accountSettingsDesc.label "წარმოდგენილია სპეციალური ანგარიში.  მასთან ასოცირებული ანგარიში არ იძებნება.">
+﻿<!ENTITY accountTitle.label "ანგარიშის პარამეტრები">
+<!ENTITY accountSettingsDesc.label "ეს სპეციალური ანგარიშია. რაიმე პირადი მონაცემები მას არ უკავშირდება.">
 <!ENTITY accountName.label "ანგარიშის სახელი:">
 <!ENTITY accountName.accesskey "N">
 <!ENTITY messageStorage.label "წერილების შენახვა">

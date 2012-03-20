@@ -40,6 +40,6 @@
 -->
 
 <!-- OK Cancel Buttons -->
-<!ENTITY okButton.label			"დიახ"> 
+<!ENTITY okButton.label			"კეთილი"> 
 <!ENTITY cancelButton.label		"გაუქმება"> 
 <!ENTITY helpButton.label		"დახმარება">

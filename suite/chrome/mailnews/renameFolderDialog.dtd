@@ -1,3 +1,5 @@
 <!ENTITY renameFolderDialog.title          "დასტის გადარქმევა">
 <!ENTITY rename.label                      "მიუთითეთ ახალი სახელის დასტისთვის:">
 <!ENTITY rename.accesskey                  "E">
+<!ENTITY accept.label                      "გადარქმევა">
+<!ENTITY accept.accesskey                  "R">

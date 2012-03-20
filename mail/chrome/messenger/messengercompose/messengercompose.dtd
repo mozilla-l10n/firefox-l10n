@@ -1,4 +1,4 @@
-<!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
+﻿<!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 <!ENTITY msgComposeWindow.title "ჩაწერა: (თემის გარეშე)">
 
 <!-- File Menu -->
@@ -10,12 +10,13 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "M">
-<!ENTITY newCard.label "წიგნაკის ბარათი…">
-<!ENTITY newCard.accesskey "c">
+<!ENTITY newContact.label "წიგნაკის კონტაქტი…">
+<!ENTITY newContact.accesskey "C">
 <!ENTITY attachMenu.label "მიმაგრება">
 <!ENTITY attachMenu.accesskey "t">
 <!ENTITY attachFileCmd.label "ფაილ(ებ)ი…">
 <!ENTITY attachFileCmd.accesskey "F">
+<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachPageCmd.label "ვებ გვერდი…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -66,6 +67,7 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "p">
 <!ENTITY pasteNoFormattingCmd.key "V">
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.label "გადაფორმატება">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "w">
@@ -91,7 +93,10 @@
 <!ENTITY viewMenu.accesskey "v">
 <!ENTITY viewToolbarsMenuNew.label "პულტები"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "T"> 
+<!ENTITY menubarCmd.label "მენიუს პულტი">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showCompositionToolbarCmd.label "წერილის პულტი">
+<!ENTITY showCompositionToolbarCmd.accesskey "o">
 <!ENTITY showFormattingBarCmd.label "ფორმატის პანელი">
 <!ENTITY showFormattingBarCmd.accesskey "F">
 <!ENTITY showTaskbarCmd.label "სტატუსის პანელი">
@@ -109,10 +114,10 @@
 <!-- Options Menu -->
 <!ENTITY optionsMenu.label "ოპციები">
 <!ENTITY optionsMenu.accesskey "p">
-<!ENTITY checkSpellingCmd.label "მართლწერის შემოწმება…">
-<!ENTITY checkSpellingCmd.key "K">
-<!ENTITY checkSpellingCmd.key2 "VK_F7">
-<!ENTITY checkSpellingCmd.accesskey "h">
+<!ENTITY checkSpellingCmd2.label "მართლწერის შემოწმება…">
+<!ENTITY checkSpellingCmd2.key "p">
+<!ENTITY checkSpellingCmd2.key2 "VK_F7">
+<!ENTITY checkSpellingCmd2.accesskey "h">
 <!ENTITY enableInlineSpellChecker.label "მართლწერის შემოწმება ტექსტის შეტანისას">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY quoteCmd.label "წერილის ციტირება">
@@ -161,7 +166,7 @@
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "წიგნაკი">
 <!ENTITY addressBookCmd.accesskey "a">
-<!ENTITY addressBookCmd.commandkey "2">
+<!ENTITY addressBookCmd.key "B">
 <!ENTITY accountManagerCmd.label "ანგარიშის პარამეტრები…">
 <!ENTITY accountManagerCmd.accesskey "c">
 <!ENTITY accountManagerCmdUnix.accesskey "S">
@@ -184,7 +189,6 @@
 <!ENTITY attachButton.label "მიმაგრება">
 <!ENTITY spellingButton.label "მართლწერა">
 <!ENTITY saveButton.label "ჩაწერა">
-<!ENTITY throbberItem.title "აქტიურობის მაჩვენებელი">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "წერილის დაუყოვნებლივ გაგზავნა"> 
@@ -192,12 +196,16 @@
 <!ENTITY quoteButton.tooltip "საწყისი წერილის ციტირება"> 
 <!ENTITY addressButton.tooltip "ადრესატის არჩევა წიგნაკიდან"> 
 <!ENTITY attachButton.tooltip "წერილში ფაილის ჩართვა"> 
+<!ENTITY spellingButton.tooltip "მონიშნულის ან მთელი წერილის მართლწერის შემოწმება">
 <!ENTITY saveButton.tooltip "წერილის შენახვა"> 
 <!ENTITY cutButton.tooltip              "ამოჭრა">
 <!ENTITY copyButton.tooltip             "კოპირება">
 <!ENTITY pasteButton.tooltip            "ჩასმა">
 
 <!-- Headers -->
+<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "ვისგან:">
 <!ENTITY fromAddr.accesskey "r">
 <!ENTITY toAddr.label "ვის:"> 
@@ -208,7 +216,8 @@
 <!ENTITY followupAddr.label "კონფერენცია:"> 
 <!ENTITY subject.label "თემა:">
 <!ENTITY subject.accesskey "S">
-<!ENTITY attachments.label "ჩანართები:">
+<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
+     to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY attachments.accesskey "c">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
@@ -251,6 +260,8 @@
 <!ENTITY openAttachment.accesskey "O">
 <!ENTITY delete.label "წაშლა">
 <!ENTITY delete.accesskey "D">
+<!ENTITY removeAttachment.label "ჩანართის ამოღება">
+<!ENTITY removeAttachment.accesskey "M">
 <!ENTITY renameAttachment.label "გადარქმევა…">
 <!ENTITY renameAttachment.accesskey "R">
 <!ENTITY selectAll.label "სრული მონიშვნა">
@@ -259,6 +270,10 @@
 <!ENTITY attachFile.accesskey "F">
 <!ENTITY attachPage.label "ვებ-გვერდის მიმაგრება…">
 <!ENTITY attachPage.accesskey "W">
+
+<!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "სიტყვარების დამატება…">
+<!ENTITY spellAddDictionaries.accesskey "A">
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "კონტაქტები">

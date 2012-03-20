@@ -13,5 +13,6 @@
 <!ENTITY  bookmarkGroup.accesskey  "B">
 <!ENTITY  closeTabButton.tooltip   "მიმდინარე დაფის დახურვა">
 <!ENTITY  newTabButton.tooltip   "ახალი დაფის გახსნა">
+<!ENTITY  listAllTabs.tooltip    "ყველა დაფის სია">
 <!ENTITY  undoCloseTab.label    "დახურული დაფის დაბრუნება">
 <!ENTITY  undoCloseTab.accesskey  "U">

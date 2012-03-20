@@ -1,3 +1,2 @@
 google
-dmoz
-jeeves
+wikipedia-ka

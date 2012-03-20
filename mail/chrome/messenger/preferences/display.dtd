@@ -15,12 +15,7 @@
 <!ENTITY color.label                      "ფერი:">
 <!ENTITY color.accesskey                  "c">
 <!ENTITY displayWidth.label               "ტექსტური წერილები">
-<!ENTITY plainText.label				          "შემდეგი შრიფტის გამოყენება:">
 <!ENTITY displayText.label				        "ციტირებული ტექსტური წერილების ჩვენებისას:">
-<!ENTITY fixedWidth.label                 "მონოსიგანის შრიფტი">
-<!ENTITY fixedWidth.accesskey             "x">
-<!ENTITY variableWidth.label              "პროპორციული შრიფტი">
-<!ENTITY variableWidth.accesskey          "V">
 <!ENTITY colors.label                     "ფერები">
 <!ENTITY overrideColors.label             "წერილების ჩვენებისას შემდეგი ფერების გამოყენება:">
 <!ENTITY  textColor.label                 "ტექსტის ფერი:">
@@ -39,10 +34,13 @@
 <!ENTITY editTagButton.label      "რედაქტირება">
 <!ENTITY editTagButton.accesskey   "E">
 <!ENTITY removeTagButton.label    "წაშლა">
-<!ENTITY removeTagButton.accesskey "l">
+<!ENTITY removeTagButton.accesskey "D">
 
 <!-- Fonts -->
-<!ENTITY fontAndEncodingsDescription.label  "შრიფტებისა და კოდირებების მორგება &brandShortName; პროგრამისთვის">
-<!ENTITY fontsAndEncodingsCaption.label      "შრიფტები და კოდირებები">
-<!ENTITY fontOptions.accesskey   "F">
-<!ENTITY fontOptions.label       "შრიფტები…">
+<!ENTITY fontsAndColors.label    "Fრიფტები">
+<!ENTITY defaultFont.label       "ნაგულისხმები შრიფტი:">
+<!ENTITY defaultFont.accesskey   "D">
+<!ENTITY defaultSize.label       "ზომა:">
+<!ENTITY defaultSize.accesskey   "S">
+<!ENTITY fontOptions.accesskey   "A">
+<!ENTITY fontOptions.label       "დეტალურად…">

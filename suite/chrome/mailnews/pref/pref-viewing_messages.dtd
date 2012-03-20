@@ -79,3 +79,5 @@
 <!ENTITY disableContent.accesskey         "B">
 <!ENTITY showCondensedAddresses.label     "ჩემს წიგნაკში ხალხის მხოლოდ ეკრანული სახელების ჩვენება">
 <!ENTITY showCondensedAddresses.accesskey "o">
+<!ENTITY closeMsgWindowOnDelete.label     "წერილის სარკმლის დახურვა წაშლისას">
+<!ENTITY closeMsgWindowOnDelete.accesskey "l">

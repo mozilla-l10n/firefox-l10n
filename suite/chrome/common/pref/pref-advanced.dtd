@@ -1,11 +1,6 @@
 <!--LOCALIZATION NOTE : FILE 'Advanced' prefs settings -->
 <!ENTITY pref.advanced.title        "დეტალები">
 
-<!ENTITY prefEnableJava.caption     "კომპონენტები ვებგვერდების ინტერპრეტაციისათვის">
-
-<!ENTITY enbJavaCheck.label         "Java-ს გააქტივება">
-<!ENTITY enbJavaCheck.accesskey     "J">
-
 <!ENTITY systemPref.caption         "სისტემური პარამეტრები">
 <!ENTITY systemPrefCheck.label      "სისტემური პარამეტრების გამოყენება">
 <!ENTITY systemPrefCheck.accesskey  "U">
@@ -14,3 +9,7 @@
 <!ENTITY prefCheckDefault.caption   "სისტემური ინტეგრაცია">
 <!ENTITY prefCheckDefaultClient.label "პროგრამის ნაგულისხმები პარამეტრების შემოწმება სეანსის დაწყებისას">
 <!ENTITY prefCheckDefaultClient.accesskey "C">
+
+<!ENTITY crashReports.caption       "შეცდომის მოპატაკე">
+<!ENTITY submitCrashes.label        "შეცდომის პატაკის გაგზავნა">
+<!ENTITY submitCrashes.accesskey    "S">

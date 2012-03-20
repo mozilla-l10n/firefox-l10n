@@ -40,13 +40,9 @@
 
 <!ENTITY allowScripts.label             "სკრიპტების ნებართვა:">
 
-<!ENTITY moveResizeWindows.label        "არსებული სარკმლის გადატანა ან ზომის შეცვლა">
-<!ENTITY moveResizeWindows.accesskey    "M">
+<!ENTITY moveResizePopupWindows.label        "არსებული სარკმლის გადატანა ან ზომის შეცვლა">
+<!ENTITY moveResizePopupWindows.accesskey    "M">
 <!ENTITY raiseLowerWindows.label        "სარკმლების აწევა ან დაწევა">
 <!ENTITY raiseLowerWindows.accesskey    "R">
 <!ENTITY disableContextMenus.label      "კონტექსტური მენიუების ამორთვა ან შეცვლა">
 <!ENTITY disableContextMenus.accesskey  "D">
-<!ENTITY hideStatusBar.label            "სტატუსის პანელის დამალვა">
-<!ENTITY hideStatusBar.accesskey        "H">
-<!ENTITY changeStatusBar.label          "სტატუსის პანელის ტექსტის შეცვლა">
-<!ENTITY changeStatusBar.accesskey      "C">

@@ -2,8 +2,8 @@
 <!ENTITY newMessageCmd.accesskey         "M">
 <!ENTITY newMessageCmd.key               "M">
 
-<!ENTITY newCardCmd.label                "წიგნაკის ბარათი…">
-<!ENTITY newCardCmd.accesskey            "C">
+<!ENTITY newContactCmd.label             "კონტაქტი…">
+<!ENTITY newContactCmd.accesskey         "C">
 
 <!ENTITY sendPage.label                  "გვერდის გაგზავნა…">
 <!ENTITY sendPage.accesskey              "S">

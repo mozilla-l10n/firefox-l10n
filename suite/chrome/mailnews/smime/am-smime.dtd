@@ -20,3 +20,9 @@
 <!ENTITY signMessage.label "ციფრული ხელმოწერილი წერილები (ნაგულისხმები)">
 <!ENTITY signMessage.accesskey "D">
 <!ENTITY signingCert.message "ამ სერთიფიკატის გასაგზავნი წერილების ხელმოსაწერად გამოყენება:">
+
+<!ENTITY certificates.label "სერთიფიკატები">
+<!ENTITY manageCerts.label "სერთიფიკატების მართვა…">
+<!ENTITY manageCerts.accesskey "M">
+<!ENTITY manageDevices.label "უსაფრთხოების მოწყობილობათა მართვა…">
+<!ENTITY manageDevices.accesskey "g">

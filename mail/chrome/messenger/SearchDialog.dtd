@@ -3,6 +3,8 @@
 <!ENTITY searchHeading.accesskey     "h">
 <!ENTITY searchSubfolders.label      "ძიება ქვედასტებში">
 <!ENTITY searchSubfolders.accesskey  "e">
+<!ENTITY searchOnServer.label        "ძიების შესრულება სერვერზე">
+<!ENTITY searchOnServer.accesskey    "u">
 <!ENTITY resetButton.label           "გასუფთავება">
 <!ENTITY resetButton.accesskey       "C">
 <!ENTITY openButton.label            "გახსნა">
@@ -16,8 +18,8 @@
 <!ENTITY fileButton.label            "ფაილი">
 <!ENTITY fileButton.accesskey        "i">
 <!ENTITY closeCmd.key                "W"> 
-<!ENTITY goToFolderButton.label      "წერილების დასტის გახსნა">
-<!ENTITY goToFolderButton.accesskey  "r">
+<!ENTITY openInFolder.label          "გახსნა დასტაში">
+<!ENTITY openInFolder.accesskey      "r">
 <!ENTITY saveAsVFButton.label        "ძიების შედეგების დასტად შენახვა">
 <!ENTITY saveAsVFButton.accesskey    "v">
 

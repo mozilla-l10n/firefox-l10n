@@ -56,5 +56,17 @@
 <!ENTITY enableJunkLogging.accesskey    "E">
 <!ENTITY openJunkLog.label              "დავთრის ჩვენება">
 <!ENTITY openJunkLog.accesskey          "S">
-<!ENTITY resetTrainingData.label        "წვრთნის მონაცემების განულება">
-<!ENTITY resetTrainingData.accesskey    "t">
+<!ENTITY resetTrainingData.label        "წვრთნის მონაცემტა განულება">
+<!ENTITY resetTrainingData.accesskey    "R">
+
+<!ENTITY pref.suspectMail.caption       "საეჭვო ფოსტა">
+
+<!-- Phishing Detector -->
+<!ENTITY pref.phishing.caption            "უსარგებლო ელგფოსტა">
+<!ENTITY enablePhishingDetector.label     "შეტყობინება მიმდინარე წერილის სეჭვო სტატუსის შემთხვევაში">
+<!ENTITY enablePhishingDetector.accesskey "T">
+
+<!-- Anti Virus -->
+<!ENTITY pref.antivirus.caption           "ანტივირუსი">
+<!ENTITY antiVirus.label                  "ანტივირუსებისთვის შემომავალი ელფოსტის შემოწმების გაიოლება">
+<!ENTITY antiVirus.accesskey              "A">

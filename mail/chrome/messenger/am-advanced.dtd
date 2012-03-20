@@ -1,4 +1,4 @@
-<!-- extracted from am-advanced.xul -->
+﻿<!-- extracted from am-advanced.xul -->
 
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpServer.label "გამავალი ფოსტის (SMTP) სერვერის პარამეტრები">
@@ -19,5 +19,5 @@
 <!ENTITY serverName.label "სერვერის სახელი: ">
 <!ENTITY serverPort.label "პორტი: ">
 <!ENTITY userName.label   "სახელი: ">
-<!ENTITY useSecureConnection.label   "უსაფრთხო კავშირი: ">
-<!ENTITY useSecureAuthentication.label   "უსაფრთხო აუთენტიფიკაცია: ">
+<!ENTITY connectionSecurity.label "კავშირის უსაფრთხოება: ">
+<!ENTITY authMethod.label   "აუთენტიფიკაციის მეთოდი: ">

@@ -1,0 +1,42 @@
+<!ENTITY aboutSupport.pageTitle "ტექმომსახურება">
+
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+<!ENTITY aboutSupport.pageSubtitle "
+  ეს გვერდი შეიცავს ტექნიკურ ინფორმაციას, რომელოც შესაძლოა შესაძლო პრობლემების 
+  გადაჭრაში დაგეხმაროთ. თუ თქვენი შეკითხვა ზოგადი ან ტიპურია მიმართეთ ჩვენი
+  &brandShortName;, check out our <a id='supportLink'>ტექნიკური მხარდაჭერის საიტს</a>.
+">
+
+<!ENTITY aboutSupport.extensionsTitle "პაკეტები">
+<!ENTITY aboutSupport.extensionName "სახელი">
+<!ENTITY aboutSupport.extensionEnabled "ჩართულია">
+<!ENTITY aboutSupport.extensionVersion "ვერსია">
+<!ENTITY aboutSupport.extensionId "ID">
+
+<!ENTITY aboutSupport.appBasicsTitle "ძირითადი მონაცემები">
+<!ENTITY aboutSupport.appBasicsName "სახელი">
+<!ENTITY aboutSupport.appBasicsVersion "ვერსია">
+<!ENTITY aboutSupport.appBasicsProfileDir "პროფილის დასტა">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "გართული მოდულები">
+<!ENTITY aboutSupport.appBasicsBuildConfig "აგების კონფიგურაცია">
+<!ENTITY aboutSupport.appBasicsUserAgent "პროგრამა">
+<!ENTITY aboutSupport.appBasicsCrashIDs "შეცდომათა პატაკები">
+<!ENTITY aboutSupport.appBasicsMemoryUse "მეხსიერება">
+
+<!ENTITY aboutSupport.show.label "დასტის გახსნა">
+
+<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
+variant of aboutSupport.show.label.  This allows us to use the preferred
+"Finder" terminology on Mac. -->
+<!ENTITY aboutSupport.showMac.label "ჩვენება Finder-ში">
+
+<!ENTITY aboutSupport.modifiedPrefsTitle "შეცვლილი პარამეტრებუ">
+<!ENTITY aboutSupport.modifiedPrefsName "სახელი">
+<!ENTITY aboutSupport.modifiedPrefsValue "მნიშვნელობა">
+
+<!ENTITY aboutSupport.graphicsTitle "გრაფიკა">
+
+<!ENTITY aboutSupport.installationHistoryTitle "გადგმის ისტორია">
+<!ENTITY aboutSupport.updateHistoryTitle "განახლების ისტორია">
+
+<!ENTITY aboutSupport.copyToClipboard.label "ყველას ასლი ბუფერში">

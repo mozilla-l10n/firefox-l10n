@@ -1,0 +1,15 @@
+﻿<!ENTITY aboutSupport.appBasicsAppBuildID "პროგრამის აგების ID">
+
+<!ENTITY aboutSupport.accountsTitle "ფოსტისა და სიახლის ანგარიშები">
+<!ENTITY aboutSupport.showPrivateData.mainText "ანგარიშების სახელების ჩათვლით">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(შესაძლო საიდენტიფიკაციო მონაცემები)">
+<!ENTITY aboutSupport.accountsID "ID">
+<!ENTITY aboutSupport.accountsName "სახელი">
+<!ENTITY aboutSupport.accountsIncomingServer "შემოსულების სევერი">
+<!ENTITY aboutSupport.accountsOutgoingServers "გასულების სერვერი">
+<!ENTITY aboutSupport.accountsServerName "სახელი">
+<!ENTITY aboutSupport.accountsConnSecurity "კავშირის უსაფრთხოება">
+<!ENTITY aboutSupport.accountsAuthMethod "აუთენტიფიკაციის მეთოდი">
+<!ENTITY aboutSupport.accountsDefault "ნაგულისხმები?">
+
+<!ENTITY aboutSupport.sendViaEmail.label "გაგზავნა ელფოსტით">
