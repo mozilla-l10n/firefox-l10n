@@ -1,6 +1,2 @@
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "Nieuw tabblad">
-
-<!ENTITY newtab.show "De nieuwe tabbladpagina tonen">
-<!ENTITY newtab.hide "De nieuwe tabbladpagina verbergen">
-<!ENTITY newtab.reset "De nieuwe tabbladpagina herinitialiseren">
