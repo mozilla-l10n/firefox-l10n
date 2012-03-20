@@ -17,8 +17,8 @@
 
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStop2): please leave &basePBMenu.label; intact in the translation -->
 <!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart2): please leave &basePBMenu.label; intact in the translation -->
-<!ENTITY privatebrowsingpage.howToStop2                 "პირადი სეანსის შესაწყვეტად, მიუთითეთ &toolsMenu.label; &gt; &privateBrowsingCmd.stop.label;, ან დახურეთ &brandShortName;.">
-<!ENTITY privatebrowsingpage.howToStart2                "პირადი სეანსის დასაწყებად აგერთვე შეგიძლიათ მიუთითოთ &toolsMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+<!ENTITY privatebrowsingpage.howToStop2                 "პირადი სეანსის შესაწყვეტად, მიუთითეთ &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label;, ან დახურეთ &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStart2                "პირადი სეანსის დასაწყებად აგერთვე შეგიძლიათ მიუთითოთ &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;.">
 
 <!ENTITY privatebrowsingpage.moreInfo                  "თუმცა კომპიუტერზე თქვენი საიტების ისტორია არ ჩაიწერება, მაგრამ ინტერნეტ მომსახურების პროვაიდერს მაინც შეუძლია თქვენი ნანახი გვერდების თვალმიდევნება.">
 <!ENTITY privatebrowsingpage.learnMore                 "დაწვრილებით">
