@@ -121,5 +121,5 @@
 
 <!ENTITY filepicker_title "Choisir un fichier">
 <!ENTITY filepicker_audio_title "Choisir ou enregistrer un son">
-<!ENTITY filepicker_image_title "Choisir une image ou faire une copie d'écran">
+<!ENTITY filepicker_image_title "Choisir une image ou faire une copie d\u0027écran">
 <!ENTITY filepicker_video_title "Choisir ou enregistrer une vidéo">
