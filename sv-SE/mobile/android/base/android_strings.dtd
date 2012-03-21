@@ -119,3 +119,8 @@
 <!ENTITY abouthome_no_top_sites "Du har inga mest besökta platser ännu. Tryck på adressfältet för att börja surfa.">
 <!ENTITY abouthome_about_sync "Ställ in Firefox Sync för att få tillgång till bokmärken, historik och flikar från dina andra enheter">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
+
+<!ENTITY filepicker_title "Välj fil">
+<!ENTITY filepicker_audio_title "Välj eller spela in ett ljud">
+<!ENTITY filepicker_image_title "Välj eller ta en bild">
+<!ENTITY filepicker_video_title "Välj eller spela in en video">
