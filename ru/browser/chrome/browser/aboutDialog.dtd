@@ -1,6 +1,6 @@
 <!ENTITY aboutDialog.title "О &brandFullName;">
 <!ENTITY warningDesc.version "&brandShortName; является экспериментальным и может быть нестабилен.">
-<!ENTITY warningDesc.telemetry "Он автоматически отправляет тестовую информацию в &vendorShortName;, чтобы помочь сделать &brandShortName; лучше.">
+<!ENTITY warningDesc.telemetryDesc "Он автоматически отправляет информацию о производительности, аппаратном обеспечении, использовании и настройках в &vendorShortName;, чтобы помочь сделать &brandShortName; лучше.">
 <!ENTITY community.exp.start "">
 <!ENTITY community.exp.mozillaLink "&vendorShortName;">
 <!ENTITY community.exp.middle " является ">
