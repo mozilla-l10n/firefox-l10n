@@ -97,3 +97,7 @@
 <!ENTITY abouthome_no_top_sites "В вашем топе пока нет ни одного сайта. Нажмите на заголовок для начала веб-сёрфинга.">
 <!ENTITY abouthome_about_sync "Настройте Firefox Sync для доступа к закладкам, журналу и вкладкам с других ваших устройств">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
+<!ENTITY filepicker_title "Выбрать файл">
+<!ENTITY filepicker_audio_title "Выбрать или записать звук">
+<!ENTITY filepicker_image_title "Выбрать или сделать фотографию">
+<!ENTITY filepicker_video_title "Выбрать или записать видео">
