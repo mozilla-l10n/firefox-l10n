@@ -1,0 +1,22 @@
+
+<!ENTITY  splash_firstrun "Gosofd &brandShortName;\u2026">
+
+<!ENTITY  no_space_to_start_error "Nid oes digon o le i &brandShortName; i gychwyn.">
+<!ENTITY  error_loading_file "Digwyddodd gwall wrth geisio llwytho ffeiliau ar gyfer rhedeg &brandShortName;">
+
+<!ENTITY  crash_reporter_title "Adroddwr Gwall &brandShortName;">
+<!ENTITY  crash_message "Mae &brandShortName; wedi chwalu. Bydd eich tabiau yn cael eu rhestru ar dudalen cychwyn &brandShortName; pan fyddwch yn ailgychwyn.">
+<!ENTITY  crash_help_message "Mae angen eich cymorth i ddatrys y broblem!">
+<!ENTITY  crash_send_report_message "Anfon adroddiad gwall at Mozilla">
+<!ENTITY  crash_include_url "Cynnwys tudalen cyfeiriad">
+<!ENTITY  crash_close_label "Cau">
+<!ENTITY  crash_restart_label "Ailgychwyn &brandShortName;">
+<!ENTITY  sending_crash_report "Anfon adroddiad chwalu">
+<!ENTITY  exit_label "Gadael">
+<!ENTITY  continue_label "Parhau">
+
+<!ENTITY  launcher_shortcuts_title "Aps Gwe &brandShortName;">
+<!ENTITY  launcher_shortcuts_empty "Heb ganfod aps gwe">
+
+<!ENTITY choose_file "Dewis Ffeil">
+

@@ -1,0 +1,72 @@
+<!-- Don't localize these. They're here until they have
+     a better place to live. -->
+<!ENTITY syncBrand.fullName.label "Firefox Sync">
+<!ENTITY syncBrand.shortName.label "Cydweddu">
+
+<!-- Main titles. -->
+<!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
+<!ENTITY sync.title.connect.label 'Cysylltu â &syncBrand.shortName.label;'>
+<!ENTITY sync.title.adddevice.label 'Ychwanegu cyfrif &syncBrand.fullName.label;'>
+<!ENTITY sync.title.pair.label 'Paru Dyfais'>
+
+<!-- J-PAKE Key Screen -->
+<!ENTITY sync.subtitle.connect.label 'I weithredu eich dyfais newydd, dewiswch “Gosod &syncBrand.shortName.label;” ar y ddyfais.'>
+<!ENTITY sync.subtitle.header.label 'Rhowch y cod yma ar eich cyfrifiadur'>
+<!ENTITY sync.subtitle.connectlocation.label 'Dewiswch “&sync.title.pair.label;” yn adran &syncBrand.shortName.label; dewisiadau bwrdd gwaith Firefox.'>
+<!ENTITY sync.subtitle.pair.label 'I weithredu, dewiswch “Paru dyfais” yn eich dyfais arall.'>
+<!ENTITY sync.pin.default.label '...\n...\n...\n'>
+<!ENTITY sync.pin.oneline.label '...'>
+<!ENTITY sync.link.show.label 'Dangos i mi sut.'>
+<!ENTITY sync.link.advancedsetup.label 'Gosodiad uwch…'>
+<!ENTITY sync.link.nodevice.label 'Nid yw\&apos;r ddyfais gennyf…'>
+
+<!-- J-PAKE Waiting Screen -->
+<!ENTITY sync.jpake.subtitle.waiting.label 'Aros am y ddyfais arall...'>
+
+<!-- Account Login Screen -->
+<!ENTITY sync.subtitle.account.label 'Rhowch wybodaeth am eich cyfrif &syncBrand.fullName.label;'>
+<!ENTITY sync.input.username.label 'Enw Cyfrif'>
+<!ENTITY sync.input.password.label 'Cyfrinair'>
+<!ENTITY sync.input.key.label 'Allwedd Adfer'>
+<!ENTITY sync.checkbox.server.label 'Denyddiwch weinydd cyfaddas'>
+<!ENTITY sync.input.server.label 'URL Gweinydd'>
+  
+<!-- Setup Fail -->
+<!ENTITY sync.title.fail.label 'Methu Gosod &syncBrand.shortName.label;'>
+<!ENTITY sync.subtitle.fail.label 'Methodd &syncBrand.fullName.label; â chysylltu â\&apos;r gweinydd. Hoffech chi geisio eto?'>
+<!ENTITY sync.button.tryagain.label 'Ceisio eto'>
+<!ENTITY sync.button.manual.label 'Gosod gyda Llaw'>
+<!ENTITY sync.subtitle.nointernet.label 'Dim cysylltiad gwe ar gael.'>
+  
+<!-- Setup Success -->
+<!ENTITY sync.title.success.label 'Wedi Cwblhau\&apos;r Gosod'>
+<!ENTITY sync.subtitle.success.label 'Mae eich data\&apos;n cael ei lwytho iawr yn y cefndir. Mae modd mynd i Gosodiadau er mwyn rheoli eich cyfrif.'>
+<!ENTITY sync.settings.label 'Gosodiadau'>
+<!ENTITY sync.subtitle.manage.label 'Mae eich cyfrif &syncBrand.fullName.label; eisioes ar waith. Ewch i Gosodiadau er mwyn rheoli eich cyfrif.'>
+
+<!-- Pair Device -->
+<!ENTITY sync.pair.tryagain.label 'Ceisiwch eto.'>
+
+<!-- Firefox SyncAdapter Settings Screen -->
+<!ENTITY sync.settings.options.label 'Dewisiadau'>
+<!ENTITY sync.summary.pair.label 'Cysylltu dyfais arall i\&apos;ch cyfrif &syncBrand.shortName.label;'>
+
+<!-- Common text -->
+<!ENTITY sync.button.cancel.label 'Diddymu'>
+<!ENTITY sync.button.connect.label 'Cysylltu'>
+<!ENTITY sync.button.ok.label 'Iawn'>
+  
+<!-- Account strings -->
+<!ENTITY sync.account.label.label '&syncBrand.fullName.label;'>
+  
+<!-- Bookmark folder strings -->
+<!ENTITY bookmarks.folder.menu.label 'Dewislen Nodau Tudalen'>
+<!ENTITY bookmarks.folder.places.label ''>
+<!ENTITY bookmarks.folder.tags.label 'Tagiau'>
+<!ENTITY bookmarks.folder.toolbar.label 'Bar Offer Nodau Tudalen'>
+<!ENTITY bookmarks.folder.unfiled.label 'Nodau Tudalen Didrefn'>
+<!ENTITY bookmarks.folder.desktop.label 'Nodau Tudalen Bwrdd Gwaith'>
+<!ENTITY bookmarks.folder.mobile.label 'Nodau Tudalen Symudol'>
+
+<!-- Notification strings -->
+<!ENTITY sync.notification.oneaccount.label 'Dim ond un cyfrif &syncBrand.fullName.label; sy\&apos;n cael ei gynnal.'>
