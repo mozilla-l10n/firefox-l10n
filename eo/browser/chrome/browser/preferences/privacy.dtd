@@ -64,11 +64,8 @@
 <!ENTITY  privateBrowsingPermanent2.label "Ĉiam uzi la reĝimon de privata retesplorado">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
-<!ENTITY  rememberHistory.label      "Memori mian retesploran historion">
-<!ENTITY  rememberHistory.accesskey  "r">
-
-<!ENTITY  rememberDownload.label         "Memori mian elŝutan historion">
-<!ENTITY  rememberDownload.accesskey     "e">
+<!ENTITY  rememberHistory2.label      "Memori mian historion de retesplorado kaj elŝutado">
+<!ENTITY  rememberHistory2.accesskey  "m">
 
 <!ENTITY  rememberSearchForm.label       "Memori historion de serĉadoj kaj formularoj">
 <!ENTITY  rememberSearchForm.accesskey   "s">
