@@ -1,12 +1,14 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 
-  %brandDTD;
+%brandDTD;
+<!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
+
+%syncBrandDTD;
 
 <!-- These strings are used in the about:home page -->
 
 <!ENTITY abouthome.pageTitle "&brandFullName; ræsisíða">
 <!ENTITY abouthome.searchEngineButton.label "Leita">
-<!ENTITY abouthome.aboutMozilla "Um Mozilla">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
@@ -15,5 +17,9 @@
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "Auðvelt er að sérsníða Firefox að þínum þörfum. <a>Þú getur valið um þúsund viðbóta</a>.">
-<!ENTITY abouthome.syncSetup.label "Setja upp Sync">
-<!ENTITY abouthome.pairDevice.label "Para saman tæki">
+<!ENTITY abouthome.bookmarksButton.label "Bókamerki">
+<!ENTITY abouthome.historyButton.label "Ferill">
+<!ENTITY abouthome.settingsButton.label "Stillingar">
+<!ENTITY abouthome.addonsButton.label "Viðbætur">
+<!ENTITY abouthome.appsButton.label "Marketplace">
+<!ENTITY abouthome.downloadsButton.label "Niðurhal">

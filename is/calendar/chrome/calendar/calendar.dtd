@@ -60,7 +60,7 @@
 <!ENTITY calendar.events.filter.today.label "Atburðir dagsins">
 <!ENTITY calendar.events.filter.future.label "Framtíðaratburðir">
 <!ENTITY calendar.events.filter.current.label "Núverandi valinn dagur">
-<!ENTITY calender.events.filter.currentview.label "Atburðir í núverandi sýn">
+<!ENTITY calendar.events.filter.currentview.label "Atburðir í núverandi sýn">
 <!ENTITY calendar.events.filter.next7Days.label "Atburðir næstu 7 daga">
 <!ENTITY calendar.events.filter.next14Days.label "Atburðir næstu 14 daga">
 <!ENTITY calendar.events.filter.next31Days.label "Atburðir næsta 31 dag">
@@ -226,6 +226,8 @@
 <!ENTITY calendar.context.postpone.1day.accesskey "d">
 <!ENTITY calendar.context.postpone.1week.label "1 viku">
 <!ENTITY calendar.context.postpone.1week.accesskey "v">
+<!ENTITY calendar.copylink.label "Afrita tengil">
+<!ENTITY calendar.copylink.accesskey "A">
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
      task action buttons -->
