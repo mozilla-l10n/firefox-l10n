@@ -187,10 +187,13 @@ can reach it easily. -->
 <!ENTITY scratchpad.accesskey "R">
 <!ENTITY scratchpad.keycode "VK_F4">
 <!ENTITY scratchpad.keytext "F4">
-<!ENTITY inspectPanelTitle.label "HTML">
-<!ENTITY inspectButton.label "Skoða">
-<!ENTITY inspectButton.accesskey "o">
 <!ENTITY inspectCloseButton.tooltiptext "Loka skoðara">
+<!ENTITY inspectorHTMLCopyInner.label "Afrita innra HTML">
+<!ENTITY inspectorHTMLCopyInner.accesskey "i">
+<!ENTITY inspectorHTMLCopyOuter.label "Afrita ytra HTML">
+<!ENTITY inspectorHTMLCopyOuter.accesskey "y">
+<!ENTITY inspectorHTMLDelete.label "Eyða hnút">
+<!ENTITY inspectorHTMLDelete.accesskey "E">
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
   -  alternate view for the Inspector, creating a 3D visualization of the
   -  webpage. -->
@@ -569,3 +572,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncToolbarButton.label "Sync">
 <!ENTITY addonBarCloseButton.tooltip "Loka viðbótarslá">
 <!ENTITY toggleAddonBarCmd.key "/">
+<!-- LOCALIZATION NOTE (htmlPanel.label): This is a label for a button that
+activates the Web Developer->Inspect UI's HTML Tree Panel. -->
+<!ENTITY htmlPanel.label "HTML">
+<!-- LOCALIZATION NOTE (htmlPanel.tooltiptext): The text that appears when a user
+hovers over the HTML panel's toolbar button. -->
+<!ENTITY htmlPanel.tooltiptext "HTML flipi">
+<!-- LOCALIZATION NOTE (htmlPanel.accesskey): The key bound to the HTML panel's
+toolbar button -->
+<!ENTITY htmlPanel.accesskey "H">

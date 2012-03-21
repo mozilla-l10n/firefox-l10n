@@ -139,8 +139,8 @@
 <!ENTITY event.menu.options.inline.spellcheck.accesskey "s">
 <!ENTITY event.menu.options.link.label "Bæta við tengli…">
 <!ENTITY event.menu.options.link.accesskey "l">
-<!ENTITY event.menu.options.timezone.label "Tímabelti">
-<!ENTITY event.menu.options.timezone.accesskey "m">
+<!ENTITY event.menu.options.timezone2.label "Sýna Tímabbelti">
+<!ENTITY event.menu.options.timezone2.accesskey "b">
 <!ENTITY event.menu.options.priority2.label "Forgangur">
 <!ENTITY event.menu.options.priority2.accesskey "F">
 <!ENTITY event.menu.options.priority.notspecified.label "Ekki skilgreint">
@@ -346,6 +346,7 @@
 <!ENTITY event.attendee.role.nonparticipant "Ekki þátttakandi">
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label "Settu inn tímabelti">
+<!ENTITY event.timezone.custom.label "Fleiri tímabelti…">
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label "Almennt">
 <!ENTITY read.only.title.label "Titill:">

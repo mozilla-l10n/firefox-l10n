@@ -14,6 +14,10 @@
 <!ENTITY aboutSupport.appBasicsName "Nafn">
 <!ENTITY aboutSupport.appBasicsVersion "Útgáfa">
 <!ENTITY aboutSupport.appBasicsProfileDir "Notandamappa">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Notandamappa">
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Virk tengiforrit">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Smíð stillingar">
 <!ENTITY aboutSupport.appBasicsUserAgent "Auðkenni forrits">
@@ -31,6 +35,9 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsName "Nafn">
 <!ENTITY aboutSupport.modifiedPrefsValue "Gildi">
 <!ENTITY aboutSupport.graphicsTitle "Grafík">
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "Stigvaxandi GC">
+<!ENTITY aboutSupport.libraryVersionsTitle "Útgáfa forritasafns">
 <!ENTITY aboutSupport.installationHistoryTitle "Uppsetningarsaga">
 <!ENTITY aboutSupport.updateHistoryTitle "Uppfærslusaga">
 <!ENTITY aboutSupport.copyToClipboard.label "Afrita allt á klemmuspjald">

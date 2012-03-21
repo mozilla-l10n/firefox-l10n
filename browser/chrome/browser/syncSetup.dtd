@@ -9,7 +9,7 @@
 <!ENTITY setup.choicePage.existing.label "Ég er þegar að nota &syncBrand.shortName.label; á annari tölvu">
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label "Netþjónn">
-<!ENTITY serverType.main.label "&syncBrand.fullName.label; netþjónn">
+<!ENTITY serverType.default.label "Sjálfgefið: Mozilla &syncBrand.fullName.label; netþjónn">
 <!ENTITY serverType.custom2.label "Nota sérsniðin netþjón…">
 <!ENTITY signIn.account2.label "Aðgangur">
 <!ENTITY signIn.account2.accesskey "A">

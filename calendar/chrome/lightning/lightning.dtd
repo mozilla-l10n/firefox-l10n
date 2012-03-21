@@ -70,8 +70,6 @@
 <!ENTITY lightning.menu.eventtask.label "Atburðir og verk">
 <!ENTITY lightning.menu.eventtask.accesskey "A">
 <!-- properties dialog, calendar creation wizard -->
-<!ENTITY lightning.calendarproperties.showevents.inagenda.label "Sýna atburði í dag flipa">
-<!ENTITY lightning.calendarproperties.showtasks.label "Sýna verk í dag flipa og verk ham">
 <!ENTITY lightning.calendarproperties.email.label "Tölvupóstfang:">
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.description "Þessi tölvupóstur inniheldur fundarboð.">

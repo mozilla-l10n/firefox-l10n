@@ -35,41 +35,6 @@
 <!ENTITY closeCmd.accesskey "L">
 <!ENTITY editMenu.label "Breyta">
 <!ENTITY editMenu.accesskey "e">
-<!ENTITY undoCmd.label "Afturkalla">
-<!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "u">
-<!ENTITY redoCmd.label "Endurtaka">
-<!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "n">
-<!ENTITY cutCmd.label "Klippa">
-<!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "K">
-<!ENTITY copyCmd.label "Afrita">
-<!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "A">
-<!ENTITY pasteCmd.label "Líma">
-<!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "L">
-<!ENTITY selectAllCmd.label "Velja allt">
-<!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "j">
-<!ENTITY findCmd.label "Leita…">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "i">
-<!ENTITY findAgainCmd.label "Leita aftur…">
-<!-- LOCALIZATION NOTE (findAgainCmd.key): This key is used only on Macs.
-  -  Windows and Linux builds use the F3 key which is not localizable on purpose.
-  -->
-<!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.accesskey "f">
-<!-- LOCALIZATION NOTE (findPreviousCmd.key): This key is used only on Macs.
-  -  Windows and Linux builds use the Shift-F3 key which is not localizable on
-  -  purpose.
-  -->
-<!ENTITY findPreviousCmd.key "G">
-<!ENTITY gotoLineCmd.label "Hoppa í línu…">
-<!ENTITY gotoLineCmd.key "J">
-<!ENTITY gotoLineCmd.accesskey "H">
 <!ENTITY run.label "Keyra">
 <!ENTITY run.accesskey "r">
 <!ENTITY run.key "r">
@@ -97,6 +62,15 @@
   -->
 <!ENTITY browserContext.label "Vafri">
 <!ENTITY browserContext.accesskey "V">
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+  -  for the help button in the menubar but Gnome does not.
+  -->
+<!ENTITY helpMenu.label "Hjálp">
+<!ENTITY helpMenu.accesskey "H">
+<!ENTITY helpMenuWin.label "Hjálp">
+<!ENTITY helpMenuWin.accesskey "H">
+<!ENTITY documentationLink.label "Hjálp með ritill á MDN">
+<!ENTITY documentationLink.accesskey "D">
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
