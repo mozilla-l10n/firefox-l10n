@@ -1,15 +1,26 @@
-<!ENTITY engineManager.title "Urus Senarai Enjin Carian">
-<!ENTITY engineManager.style "min-width: 35em;">
-<!ENTITY engineManager.intro "Anda memiliki enjin carian terpasang berikut:">
-<!ENTITY up.label "Pindah Atas">
-<!ENTITY up.accesskey "A">
-<!ENTITY dn.label "Pindah Bawah">
-<!ENTITY dn.accesskey "B">
-<!ENTITY remove.label "Singkir">
-<!ENTITY remove.accesskey "R">
-<!ENTITY addEngine.label "Dapat enjin carian lagi...">
-<!ENTITY addEngine.accesskey "D">
-<!ENTITY enableSuggest.label "Tunjuk cadangan carian">
-<!ENTITY enableSuggest.accesskey "T">
-<!ENTITY restoreDefaults.label "Kembalikan Urutan Semulajadi">
-<!ENTITY restoreDefaults.accesskey "e">
+<!ENTITY  engineManager.title       "Urus Senarai Enjin Carian">
+<!ENTITY  engineManager.style       "min-width: 35em;">
+<!ENTITY  engineManager.intro       "Anda mempunyai enjin carian berikut yang telah dipasang:">
+
+<!ENTITY  columnLabel.name          "Nama">
+<!ENTITY  columnLabel.keyword       "Kata kunci">
+
+<!-- Buttons -->
+<!ENTITY  up.label                  "Pindah Atas">
+<!ENTITY  up.accesskey              "A">
+<!ENTITY  dn.label                  "Pindah Bawah">
+<!ENTITY  dn.accesskey              "B">
+<!ENTITY  remove.label              "Singkir">
+<!ENTITY  remove.accesskey          "R">
+<!ENTITY  edit.label                "Sunting Kata kunci">
+<!ENTITY  edit.accesskey            "t">
+
+<!ENTITY  addEngine.label           "Dapat enjin carian lagi...">
+<!ENTITY  addEngine.accesskey       "D">
+
+<!ENTITY  enableSuggest.label       "Tunjuk cadangan carian">
+<!ENTITY  enableSuggest.accesskey   "T">
+
+<!ENTITY  restoreDefaults.label     "Kembalikan Urutan Semulajadi">
+<!ENTITY  restoreDefaults.accesskey "e">
+

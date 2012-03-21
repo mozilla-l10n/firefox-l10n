@@ -1,17 +1,42 @@
+<!-- extracted from printjoboptions.xul -->
+
 <!ENTITY printJobOptions.title "Ciri Pencetak">
+
 <!ENTITY paperInput.label "Saiz kertas:">
+<!ENTITY paperInput.accesskey "P">
+
 <!ENTITY plexInput.label "Mod pleks:">
+<!ENTITY plexInput.accesskey "m">
+
 <!ENTITY resolutionInput.label "Resolusi/Kualiti:">
+<!ENTITY resolutionInput.accesskey "e">
+
 <!ENTITY cmdInput.label "Perintah Cetak:">
+<!ENTITY cmdInput.accesskey "o">
+
 <!ENTITY jobTitleInput.label "Pekerjaan:">
+<!ENTITY jobTitleInput.accesskey "J">
+
 <!ENTITY colorGroup.label "Warna:">
 <!ENTITY grayRadio.label "Skal Kelabu">
+<!ENTITY grayRadio.accesskey "G">
 <!ENTITY colorRadio.label "Warna">
+<!ENTITY colorRadio.accesskey "C">
+
 <!ENTITY colorspaceInput.label "Ruang warna:">
+<!ENTITY colorspaceInput.accesskey "s">
+
 <!ENTITY fontsGroup.label "Font:">
 <!ENTITY downloadFonts.label "Muaturun font untuk pencetak?">
+<!ENTITY downloadFonts.accesskey "D">
+
 <!ENTITY edgeMarginInput.label "Ruang daripada pinggir kertas ke Margin">
 <!ENTITY topInput.label "Atas:">
+<!ENTITY topInput.accesskey "T">
 <!ENTITY bottomInput.label "Bawah:">
+<!ENTITY bottomInput.accesskey "B">
 <!ENTITY leftInput.label "Kiri:">
+<!ENTITY leftInput.accesskey "L">
 <!ENTITY rightInput.label "Kanan:">
+<!ENTITY rightInput.accesskey "R">
+

@@ -1,0 +1,44 @@
+<!-- The page shown when not logged in... -->
+<!ENTITY setupButton.label          "Susun atur &syncBrand.fullName.label;">
+<!ENTITY setupButton.accesskey      "S">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; membenarkan anda mengakses sejarah layaran, bookmarks, kata laluan dan tab terbuka dalam semua alat.">
+
+<!-- The page shown when logged in... -->
+
+<!-- Login error feedback -->
+<!ENTITY updatePass.label             "Mengemaskini">
+<!ENTITY resetPass.label              "Set Semula">
+
+<!-- Manage Account -->
+<!ENTITY manageAccount.label          "Pengurusan akaun">
+<!ENTITY manageAccount.accesskey      "a">
+<!ENTITY viewQuota.label              "Papar Kuota">
+<!ENTITY changePassword2.label        "Menukar Katalaluan">
+<!ENTITY myRecoveryKey.label          "Kekunci pemulihan saya">
+<!ENTITY resetSync2.label             "Melaras semula Sync">
+
+<!ENTITY pairDevice.label             "Memasangkan Peranti">
+
+<!ENTITY syncMy.label               "Sync saya punya">
+<!ENTITY engine.bookmarks.label     "Penandabuku">
+<!ENTITY engine.bookmarks.accesskey "P">
+<!ENTITY engine.tabs.label          "Tab">
+<!ENTITY engine.tabs.accesskey      "T">
+<!ENTITY engine.history.label       "Sejarah">
+<!ENTITY engine.history.accesskey   "r">
+<!ENTITY engine.passwords.label     "Katalaluan">
+<!ENTITY engine.passwords.accesskey "K">
+<!ENTITY engine.prefs.label         "Keutamaan">
+<!ENTITY engine.prefs.accesskey     "K">
+<!ENTITY engine.addons.label        "Add-ons">
+<!ENTITY engine.addons.accesskey    "A">
+
+<!-- Device Settings -->
+<!ENTITY syncComputerName.label       "nama komputer:">
+<!ENTITY syncComputerName.accesskey   "n">
+<!ENTITY unlinkDevice.label           "Memutuskan sambungan peranti">
+
+<!-- Footer stuff -->
+<!ENTITY prefs.tosLink.label        "Terma dan Syarat Perkhidmatan">
+<!ENTITY prefs.ppLink.label         "Dasar Privasi">
+

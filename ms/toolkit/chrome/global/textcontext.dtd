@@ -10,10 +10,12 @@
 <!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY deleteCmd.label "Hapus">
 <!ENTITY deleteCmd.accesskey "d">
+
 <!ENTITY spellAddToDictionary.label "Tambah kepada kamus">
 <!ENTITY spellAddToDictionary.accesskey "t">
-<!ENTITY spellEnable.label "Semak eja medan ini">
-<!ENTITY spellEnable.accesskey "S">
+<!ENTITY spellCheckEnable.label "Semak Ejaan">
+<!ENTITY spellCheckEnable.accesskey "S">
 <!ENTITY spellNoSuggestions.label "(Tiada cadangan ejaan)">
 <!ENTITY spellDictionaries.label "Bahasa">
 <!ENTITY spellDictionaries.accesskey "l">
+

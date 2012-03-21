@@ -19,7 +19,6 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -35,16 +34,16 @@
    -
 #endif
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY advancedJSDialog.title "Tetapan JavaScript Lanjutan">
-<!ENTITY window.width "37em">
-<!ENTITY allowScripts.label "Benarkan skrip untuk:">
-<!ENTITY moveResizeWindows.label "Pindah atau saiz semula tetingkap sedia ada">
-<!ENTITY moveResizeWindows.accesskey "M">
-<!ENTITY raiseLowerWindows.label "Naikkan atau turunkan tetingkap">
-<!ENTITY raiseLowerWindows.accesskey "R">
-<!ENTITY disableContextMenus.label "Lumpuhkan atau gantikan menu konteks">
-<!ENTITY disableContextMenus.accesskey "g">
-<!ENTITY hideStatusBar.label "Sorok bar status">
-<!ENTITY hideStatusBar.accesskey "H">
-<!ENTITY changeStatusBar.label "Tukar teks bar status">
-<!ENTITY changeStatusBar.accesskey "k">
+
+<!ENTITY advancedJSDialog.title         "Tetapan JavaScript Lanjutan">
+<!ENTITY window.width                   "37em">
+
+<!ENTITY allowScripts.label             "Benarkan skrip-skrip untuk:">
+
+<!ENTITY moveResizePopupWindows.label     "Pindah atau ubah saiz popup tetingkap">
+<!ENTITY moveResizePopupWindows.accesskey "P">
+<!ENTITY raiseLowerWindows.label        "Naikkan atau turunkan tetingkap">
+<!ENTITY raiseLowerWindows.accesskey    "R">
+<!ENTITY disableContextMenus.label      "Lumpuhkan atau gantikan menu konteks">
+<!ENTITY disableContextMenus.accesskey  "g">
+

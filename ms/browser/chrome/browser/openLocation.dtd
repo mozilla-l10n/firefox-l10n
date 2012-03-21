@@ -1,9 +1,11 @@
-<!ENTITY enter.label "Masukkan lokasi web (URL), atau nyatakan fail setempat yang anda ingin buka:">
-<!ENTITY chooseFile.label "Pilih Fail...">
-<!ENTITY newWindow.label "Tetingkap Baru">
+<!-- extracted from content/openLocation.xul -->
+
+<!ENTITY enter.label "Masukkan lokasi web (URL), atau nyatakan fail setempat yang anda ingin buka:">  
+<!ENTITY chooseFile.label "Pilih Fail">
 <!ENTITY newTab.label "Tab Baru">
-<!ENTITY topWindow.label "Tetingkap Semasa">
-<!ENTITY caption.label "Buka Lokasi Web">
-<!ENTITY openWhere.label "Buka dalam:">
-<!ENTITY example.label "Contoh: &vendorURL;">
+<!ENTITY newWindow.label "Tetingkap Baru">
+<!ENTITY topTab.label "Tab Semasa">
+<!ENTITY caption.label "Bukakan Lokasi Web">
+<!ENTITY openWhere.label "Buka di:">
 <!ENTITY openBtn.label "Buka">
+

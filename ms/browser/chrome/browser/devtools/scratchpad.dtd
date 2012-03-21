@@ -1,0 +1,124 @@
+<!-- LOCALIZATION NOTE : FILE This file contains the Scratchpad window strings -->
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
+
+<!-- LOCALIZATION NOTE : FILE The correct localization of this file might be to
+  - keep it in English, or another language commonly spoken among web developers.
+  - You want to make that choice consistent across the developer tools.
+  - A good criteria is the language in which you'd find the best
+  - documentation on web development on the web. -->
+
+<!-- LOCALIZATION NOTE (scratchpad.title):
+  -  The Scratchpad is intended to provide a simple text editor for creating
+  -  and evaluating bits of JavaScript code for the purposes of function
+  -  prototyping, experimentation and convenient scripting.
+  -
+  -  It's quite possible that you won't have a good analogue for the word
+  -  "Scratchpad" in your locale. You should feel free to find a close
+  -  approximation to it or choose a word (or words) that means
+  -  "simple discardable text editor". -->
+<!ENTITY window.title                 "Scratchpad">
+
+<!ENTITY fileMenu.label               "Fail">
+<!ENTITY fileMenu.accesskey           "F">
+
+<!ENTITY newWindowCmd.label           "Tetingkap Baru">
+<!ENTITY newWindowCmd.accesskey       "n">
+<!ENTITY newWindowCmd.commandkey      "n">
+
+<!ENTITY openFileCmd.label            "Buka Fail…">
+<!ENTITY openFileCmd.accesskey        "B">
+<!ENTITY openFileCmd.commandkey       "B">
+
+<!ENTITY saveFileCmd.label            "Simpan">
+<!ENTITY saveFileCmd.accesskey        "S">
+<!ENTITY saveFileCmd.commandkey       "S">
+
+<!ENTITY saveFileAsCmd.label          "Simpan Sebagai…">
+<!ENTITY saveFileAsCmd.accesskey      "a">
+
+<!ENTITY closeCmd.label               "Tutup">
+<!ENTITY closeCmd.key                 "T">
+<!ENTITY closeCmd.accesskey           "T">
+
+<!ENTITY editMenu.label               "Sunting">
+<!ENTITY editMenu.accesskey           "S">
+
+<!ENTITY undoCmd.label                "Buat asal">
+<!ENTITY undoCmd.key                  "B">
+<!ENTITY undoCmd.accesskey            "u">
+
+<!ENTITY redoCmd.label                "Buat Semula">
+<!ENTITY redoCmd.key                  "B">
+<!ENTITY redoCmd.accesskey            "B">
+
+<!ENTITY cutCmd.label                 "Potong">
+<!ENTITY cutCmd.key                   "P">
+<!ENTITY cutCmd.accesskey             "t">
+
+<!ENTITY copyCmd.label                "Salin">
+<!ENTITY copyCmd.key                  "S">
+<!ENTITY copyCmd.accesskey            "S">
+
+<!ENTITY pasteCmd.label               "Tampal">
+<!ENTITY pasteCmd.key                 "T">
+<!ENTITY pasteCmd.accesskey           "p">
+
+<!ENTITY selectAllCmd.label           "Pilih Semua">
+<!ENTITY selectAllCmd.key             "a">
+<!ENTITY selectAllCmd.accesskey       "a">
+
+<!ENTITY run.label                    "Jalankan">
+<!ENTITY run.accesskey                "J">
+<!ENTITY run.key                      "J">
+
+<!ENTITY inspect.label                "Periksa">
+<!ENTITY inspect.accesskey            "i">
+<!ENTITY inspect.key                  "i">
+
+<!ENTITY display.label                "Paparan">
+<!ENTITY display.accesskey            "P">
+<!ENTITY display.key                  "P">
+
+<!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
+  -  renamed from "Context" to avoid confusion with the right-click context
+  -  menu in the text area. It refers to the JavaScript Environment (or context)
+  -  the user is evaluating against. I.e., Content (current tab) or Chrome
+  -  (browser).
+  -->
+<!ENTITY environmentMenu.label        "Persekitaran">
+<!ENTITY environmentMenu.accesskey    "n">
+
+
+<!ENTITY contentContext.label         "Kandungan">
+<!ENTITY contentContext.accesskey     "K">
+
+<!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
+  -  to select an execution environment for the browser window itself as opposed
+  -  to content. This is a feature for browser and addon developers and only
+  -  enabled via the devtools.chrome.enabled preference. Formerly, this label
+  -  was called "Chrome".
+  -->
+<!ENTITY browserContext.label         "Pelayar">
+<!ENTITY browserContext.accesskey     "P">
+
+<!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
+  -  to reset/clear the global object of the environment where the code executes.
+  -->
+<!ENTITY resetContext2.label          "Reset Variables">
+<!ENTITY resetContext2.accesskey      "S">
+
+<!ENTITY executeMenu.label            "Lakukan">
+<!ENTITY executeMenu.accesskey        "L">
+
+<!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
+  -  the browser Error Console, the key should be identical to the property of
+  -  the same name in browser.dtd.
+  -->
+<!ENTITY errorConsoleCmd.commandkey   "j">
+
+<!-- LOCALIZATION NOTE (webConsoleCmd.commandkey): This command key launches
+  -  the browser WebConsole, the key should be identical to the property of
+  -  the same name in browser.dtd.
+  -->
+<!ENTITY webConsoleCmd.commandkey     "k">
+

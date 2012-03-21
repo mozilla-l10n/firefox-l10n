@@ -1,0 +1,20 @@
+<!ENTITY restorepage.tabtitle       "Sesi Pulih">
+
+<!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
+     and regret that we are unable to restore the session for the user -->
+<!ENTITY restorepage.errorTitle     "Nampaknya ini agak memalukan.">
+<!ENTITY restorepage.problemDesc    "&brandShortName; sedang mengalami masalah mendapatkan kembali tetingkap dan tab-tab anda. Selalunya, ini berpunca dari laman sesawang yang dibuka baru-baru ini.">
+<!ENTITY restorepage.tryThis        "Anda boleh cuba:">
+<!ENTITY restorepage.restoreSome    "Membuang satu atau lebih tab yang anda rasakan punca kepada masalah ini">
+<!ENTITY restorepage.startNew       "Memulakan keseluruhan sesi pelungsuran">
+
+<!ENTITY restorepage.tryagainButton "Baik pulih">
+<!ENTITY restorepage.restore.access "R">
+<!ENTITY restorepage.cancelButton   "Mula Sesi Baru">
+<!ENTITY restorepage.cancel.access  "S">
+
+<!ENTITY restorepage.restoreHeader  "Baik pulih">
+<!ENTITY restorepage.listHeader     "Tetingkap dan Tab">
+<!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
+<!ENTITY restorepage.windowLabel    "Tetingkap &#37;S">
+

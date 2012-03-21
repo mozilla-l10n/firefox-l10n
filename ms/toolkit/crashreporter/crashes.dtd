@@ -1,0 +1,8 @@
+<!ENTITY crashes.title              "Laporan Nahas yang Dihantar">
+<!ENTITY id.heading                 "ID Laporan">
+<!ENTITY date.heading               "Tarikh Dihantar">
+<!ENTITY noReports.label            "Tiada laporan nahas yang telah dihantar.">
+<!ENTITY noConfig.label             "This application has not been configured to display crash reports. The preference <code>breakpad.reportURL</code> must be set.">
+<!ENTITY clearAllReports.label      "Buang Semua Laporan">
+
+

@@ -1,26 +1,35 @@
-<!ENTITY warnAddonInstall.label "Ingatkan saya apabila laman cuba untuk memasang penambahan">
-<!ENTITY warnAddonInstall.accesskey "a">
-<!ENTITY tellMaybeForgery.label "Beritahu saya jika laman yang saya lawati dicurigai palsu">
-<!ENTITY tellMaybeForgery.accesskey "T">
-<!ENTITY useDownloadedList.label "Periksa menggunakan senarai muaturun laman dicurigai">
-<!ENTITY useDownloadedList.accesskey "t">
-<!ENTITY askThirdParty.label "Periksa dengan bertanya">
-<!ENTITY askThirdParty.accesskey "P">
-<!ENTITY askThirdPartyAfter.label "setiap laman yang saya lawati">
-<!ENTITY addonExceptions.label "Pengecualian...">
-<!ENTITY addonExceptions.accesskey "P">
-<!ENTITY passwords.label "Katalaluan">
-<!ENTITY rememberPasswords.label "Ingat katalaluan untuk laman">
-<!ENTITY rememberPasswords.accesskey "I">
-<!ENTITY passwordExceptions.label "Pengecualian...">
-<!ENTITY passwordExceptions.accesskey "g">
-<!ENTITY useMasterPassword.label "Guna katalaluan induk">
-<!ENTITY useMasterPassword.accesskey "U">
-<!ENTITY changeMasterPassword.label "Tukar Katalaluan Induk...">
-<!ENTITY changeMasterPassword.accesskey "I">
-<!ENTITY showPasswords.label "Tunjuk Katalaluan...">
-<!ENTITY showPasswords.accesskey "K">
-<!ENTITY warnings.label "Mesej Amaran">
-<!ENTITY chooseWarnings.label "Pilih mesej amaran mana yang anda ingin lihat ketika melayari web">
-<!ENTITY warningSettings.label "Tetapan...">
-<!ENTITY warningSettings.accesskey "T">
+<!ENTITY  warnAddonInstall.label        "Ingatkan saya apabila laman cuba untuk memasang penambahan">
+<!ENTITY  warnAddonInstall.accesskey    "a">
+
+<!-- LOCALIZATION NOTE (blockWebForgeries.label, blockAttackSites.label):
+  The methods by which forged (phished) and attack sites will be detected by
+  phishing providers will vary from human review to machine-based heuristics to a
+  combination of both, so it's important that these strings and
+  useDownloadedList.label convey the meaning "reported" (and not something like
+  "known").
+-->
+<!ENTITY  blockAttackSites.label     "Halang laman web serangan yang dilaporkan">
+<!ENTITY  blockAttackSites.accesskey "k">
+
+<!ENTITY  blockWebForgeries.label     "Halangi pemalsuan lamab web yang dilaporkan">
+<!ENTITY  blockWebForgeries.accesskey "b">
+
+<!ENTITY  addonExceptions.label         "Pengecualian...">
+<!ENTITY  addonExceptions.accesskey     "P">
+
+
+<!ENTITY  passwords.label               "Kata laluan">
+
+<!ENTITY  rememberPasswords.label       "Ingat katalaluan untuk laman">
+<!ENTITY  rememberPasswords.accesskey   "I">
+<!ENTITY  passwordExceptions.label      "Pengecualian...">
+<!ENTITY  passwordExceptions.accesskey  "g">
+
+<!ENTITY  useMasterPassword.label        "Guna katalaluan induk">
+<!ENTITY  useMasterPassword.accesskey    "U">
+<!ENTITY  changeMasterPassword.label     "Tukar Katalaluan Induk...">
+<!ENTITY  changeMasterPassword.accesskey "I">
+
+<!ENTITY  savedPasswords.label            "menyimpan kata laluan">
+<!ENTITY  savedPasswords.accesskey        "p">
+

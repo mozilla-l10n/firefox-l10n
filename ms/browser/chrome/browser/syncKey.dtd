@@ -1,0 +1,15 @@
+<!ENTITY syncKey.page.title               "Anda &syncBrand.fullName.label; Kunci">
+<!ENTITY syncKey.page.description         "Kata kunci ini akan digunakkan untuk nyahkod data dalam akaun &syncBrand.fullName.label; anda. Kamu perlu masukkan kata kunci tersebut setiap kali kamu set &syncBrand.fullName.label; dalam komputer atau alat baru.">
+<!ENTITY syncKey.keepItSecret.heading     "Dijaga rahsia">
+<!ENTITY syncKey.keepItSecret.description "Akaun &syncBrand.fullName.label; anda telah disulitkan untuk melindungi privasi anda. Tanpa kunci ini, ia akan mengambil bertahun-tahun untuk sesiapa untuk mendapatkan maklumat peribadi anda. Hanya kamu yang memegang kunci ini. Ini bermakna hanya kamu yang dapat akses ke data &syncBrand.fullName.label; anda.">
+<!ENTITY syncKey.keepItSafe.heading       "Disimpan selamat">
+<!ENTITY syncKey.keepItSafe1.description  "Jangan hilangkan kata kunci ini.">
+<!ENTITY syncKey.keepItSafe2.description  " Kami tidak akan simpan salinan kata kunci (itu bukan dipanggil simpan rahsia!), jadi ">
+<!ENTITY syncKey.keepItSafe3.description  "kami tidak dapat bantu anda memulihkannya">
+<!ENTITY syncKey.keepItSafe4.description  " jika ia hilang. Kamu perlu guna kunci ini setiap kali kamu guna computer baru atau alat kepada &syncBrand.fullName.label;.">
+<!ENTITY syncKey.findOutMore1.label       "Tahu lebih lagi tentang &syncBrand.fullName.label; dan privasi anda di ">
+<!ENTITY syncKey.findOutMore2.label       ".">
+<!ENTITY syncKey.footer1.label            "&syncBrand.fullName.label; Syarat-syarat Perkhidmatan boleh didapati pada ">
+<!ENTITY syncKey.footer2.label            ". Dasar Privasi terdapat di ">
+<!ENTITY syncKey.footer3.label            ".">
+

@@ -1,14 +1,12 @@
+<!-- extracted from finddialog.xul -->
+
 <!ENTITY findDialog.title "Cari dalam Laman Ini">
-<!ENTITY findDialogFrame.title "Cari dalam Bingkai Ini">
 <!ENTITY findField.label "Cari apa:">
 <!ENTITY findField.accesskey "a">
 <!ENTITY caseSensitiveCheckbox.label "Sepadan kes">
 <!ENTITY caseSensitiveCheckbox.accesskey "S">
 <!ENTITY wrapCheckbox.label "Bungkus">
 <!ENTITY wrapCheckbox.accesskey "B">
-<!ENTITY backwardsCheckbox.label "Carian mengundur">
-<!ENTITY backwardsCheckbox.accesskey "u">
-<!ENTITY findField.tooltip "Taip satu atau lebih kata untuk carian">
 <!ENTITY findButton.label "Cari Berikut">
 <!ENTITY findButton.accesskey "C">
 <!ENTITY cancelButton.label "Batal">
@@ -18,3 +16,4 @@
 <!ENTITY down.label "Turun">
 <!ENTITY down.accesskey "T">
 <!ENTITY direction.label "Arah">
+

@@ -1,0 +1,110 @@
+<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; Persediaan">
+
+<!-- First page of the wizard -->
+
+<!ENTITY setup.pickSetupType.description2 "Selamat Datang! Jika anda tidak pernah menggunakan &syncBrand.fullName.label; sebelum ini, anda akan diperlukan untuk mencipta akaun baru.">
+<!ENTITY button.createNewAccount.label "Buka akaun baru">
+<!ENTITY button.haveAccount.label      "Saya Mempunyai Akaun">
+
+<!ENTITY setup.choicePage.title.label     "Pernahkah anda menggunakan &syncBrand.fullName.label; sebelum ini?">
+<!ENTITY setup.choicePage.new.label       "Saya tidak pernah guna &syncBrand.shortName.label; sebelum ini">
+<!ENTITY setup.choicePage.existing.label  "Saya sedang menggunakan &syncBrand.shortName.label; pada komputer lain">
+
+<!-- New Account AND Existing Account -->
+<!ENTITY server.label               "Pelayan">
+<!ENTITY serverType.main.label      "Pelayan &syncBrand.fullName.label;">
+<!ENTITY serverType.custom2.label   "Gunakan server pelanggan">
+<!ENTITY signIn.account2.label      "Akaun">
+<!ENTITY signIn.account2.accesskey  "A">
+<!ENTITY signIn.password.label      "Katalaluan">
+<!ENTITY signIn.password.accesskey  "K">
+<!ENTITY signIn.recoveryKey.label       "kekunci pemulihan">
+<!ENTITY signIn.recoveryKey.accesskey   "k">
+
+<!-- New Account Page 1: Basic Account Info -->
+<!ENTITY setup.newAccountDetailsPage.title.label "Butiran Akaun">
+<!ENTITY setup.emailAddress.label     "Alamat Emel">
+<!ENTITY setup.emailAddress.accesskey "E">
+<!ENTITY setup.choosePassword.label      "Pilih kata laluan">
+<!ENTITY setup.choosePassword.accesskey  "P">
+<!ENTITY setup.confirmPassword.label     "Sahkan Kata Laluan">
+<!ENTITY setup.confirmPassword.accesskey "S">
+<!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
+     joined with implicit white space, so spaces in the strings aren't necessary -->
+<!ENTITY setup.tosAgree1.label      "Saya setuju kepada">
+<!ENTITY setup.tosAgree1.accesskey  "a">
+<!ENTITY setup.tosLink.label        "Syarat Perkhidmatan">
+<!ENTITY setup.tosAgree2.label      "dan">
+<!ENTITY setup.ppLink.label         "Dasar Privasi">
+<!ENTITY setup.tosAgree3.label      "">
+<!ENTITY setup.tosAgree2.accesskey  "">
+
+<!-- My Recovery Key dialog -->
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; Prihatin Tentang Privasi Anda">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Untuk menjamin privasi anda, semua data anda akan disulitkan sebelum dimuat naik. Kunci pemulihan diperlukan untuk menyahsulitkan data anda yang tidak dimuat naikkan lagi.">
+<!ENTITY recoveryKeyEntry.label        "Kekunci pemulihan anda">
+<!ENTITY recoveryKeyEntry.accesskey    "K">
+<!ENTITY syncGenerateNewKey.label  "Menghasilkan kunci yang baru">
+<!ENTITY recoveryKeyBackup.description "kunci pemulihan anda diperlukan untuk mengakses &syncBrand.fullName.label; pada alat lain. sila buat salinan backup. kami tidak dapat membantu anda mendapatkan kunci pemulihan anda kembali.">
+
+<!ENTITY button.syncKeyBackup.print.label     "Cetak...">
+<!ENTITY button.syncKeyBackup.print.accesskey "C">
+<!ENTITY button.syncKeyBackup.save.label      "Simpan">
+<!ENTITY button.syncKeyBackup.save.accesskey  "S">
+
+<!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
+<!ENTITY pairDevice.title.label             "Memasangkan Peranti">
+<!ENTITY addDevice.showMeHow.label          "tunjukan saya bagaimana.">
+<!ENTITY addDevice.dontHaveDevice.label     "Saya tidak mempunyai alat tersebut pada saya">
+<!ENTITY pairDevice.setup.description.label  "untuk mengaktifkan, pilih &#x0022; pasangkan peranti &#x0022; pada peranti lain anda.">
+<!ENTITY addDevice.setup.enterCode.label    "Kemudian,masukkan kod ini:">
+<!ENTITY pairDevice.dialog.description.label "untuk mengaktifkan peranti baru anda, pilih &#x0022; Set Up Sync&#x0022; pada peranti.">
+<!ENTITY addDevice.dialog.enterCode.label   "Masukkan kod yang dibekalkan oleh peralatan:">
+<!ENTITY addDevice.dialog.tryAgain.label    "Sila cuba sekali lagi.">
+<!ENTITY addDevice.dialog.successful.label  "Peranti tersebut telah berjaya ditambah. Bibit penyelerasan akan mengambil masa beberapa minit dan akan selesai di belakang.">
+<!ENTITY addDevice.dialog.recoveryKey.label     "Untuk mengaktif peranti anda, anda perlu memasukan Kunci Pemulihan anda. Sila cetak atau simpan kunci ini dan bawa bersama anda .">
+<!ENTITY addDevice.dialog.connected.label   "Peranti telah disambung">
+
+<!-- Existing Account Page 2: Manual Login -->
+<!ENTITY setup.signInPage.title.label "Daftar Masuk">
+<!ENTITY existingRecoveryKey.description "anda boleh mendapatkan salinan kunci pemulihan anda dengan melayari &syncBrand.shortName.label; pilihan pada peranti anda, dan pilih &#x0022; Kunci pemulihan saya &#x0022; dibawah &#x0022; menguruskan akaun&#x0022;.">
+<!ENTITY verifying.label              "Sedang Mengesahkan...">
+<!ENTITY resetPassword.label          "Set Semula Kata Laluan">
+<!ENTITY resetSyncKey.label           "Saya telah kehilangan peranti yang lain.">
+
+<!-- Sync Options -->
+<!ENTITY setup.optionsPage.title      "Pilihan Sync">
+<!ENTITY syncComputerName.label       "nama komputer:">
+<!ENTITY syncComputerName.accesskey   "n">
+
+<!ENTITY syncMy.label               "Sync Saya">
+<!ENTITY engine.bookmarks.label     "Penandabuku">
+<!ENTITY engine.bookmarks.accesskey "P">
+<!ENTITY engine.tabs.label          "Tab-tab">
+<!ENTITY engine.tabs.accesskey      "T">
+<!ENTITY engine.history.label       "Sejarah">
+<!ENTITY engine.history.accesskey   "r">
+<!ENTITY engine.passwords.label     "Katalaluan">
+<!ENTITY engine.passwords.accesskey "K">
+<!ENTITY engine.prefs.label         "Keutamaan">
+<!ENTITY engine.prefs.accesskey     "K">
+<!ENTITY engine.addons.label        "Add-ons">
+<!ENTITY engine.addons.accesskey    "A">
+
+<!ENTITY choice2.merge.main.label      "Gabungkan data komputer ini dengan data &syncBrand.shortName.label; saya">
+<!ENTITY choice2.merge.recommended.label "Disyorkan:">
+<!ENTITY choice2.client.main.label     "Gantikan semua data dalam komputer ini dengan data &syncBrand.shortName.label; saya">
+<!ENTITY choice2.server.main.label     "Gantikan semua peranti lain dengan data komputer ini">
+
+<!-- Confirm Merge Options -->
+<!ENTITY setup.optionsConfirmPage.title "Pasti">
+<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; kini akan menggabungkan semua data pelayar komputer ini ke dalam akaun Sync anda.">
+<!ENTITY confirm.client2.label         "Amaran: Data &brandShortName; berikut akan dipadam:">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName; akan membuat salinan data &syncBrand.fullName.label; anda di dalam komputer ini.">
+<!ENTITY confirm.server2.label         "Amaran: Alat-alat berikut akan ditulis ganti dengan data tempatan anda:">
+
+<!-- New & Existing Account: Setup Complete -->
+<!ENTITY setup.successPage.title "Setup Selesai">
+<!ENTITY changeOptions.label "Anda boleh mengubah keutamaan ini dengan memilih Pilihan Sync di bawah.">
+<!ENTITY continueUsing.label "Anda kini boleh sambung menggunakan &brandShortName;.">
+

@@ -20,7 +20,6 @@
    -
    - Contributor(s):
    -   Mike Connor <mconnor@steelgryphon.com>
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -36,19 +35,28 @@
    -
 #endif
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY safeModeDialog.title "&brandShortName; Mod Selamat">
-<!ENTITY window.width "37em">
-<!ENTITY safeModeDescription.label "&brandShortName; sekarang dilarikan dalam mod selamat, yang dilumpuhkan tetapan adat, tema dan sambungan anda buat sementara waktu.">
-<!ENTITY safeModeDescription2.label "Anda boleh buat sedikitatau semua perubahan ini seara kekal:">
-<!ENTITY disableAddons.label "Lumpuhkan semua penambahan">
-<!ENTITY disableAddons.accesskey "L">
-<!ENTITY resetToolbars.label "Ulang tetap bar alat dan kawalan">
-<!ENTITY resetToolbars.accesskey "R">
-<!ENTITY resetBookmarks.label "Ulang tetap tanda buku kepada &brandShortName; default">
-<!ENTITY resetBookmarks.accesskey "b">
-<!ENTITY resetUserPrefs.label "Ulang tetap semua keutamaan pengguna kepada &brandShortName; default">
-<!ENTITY resetUserPrefs.accesskey "U">
-<!ENTITY restoreSearch.label "Kembalikan enjin carian default">
-<!ENTITY restoreSearch.accesskey "K">
-<!ENTITY changeAndRestartButton.label "Buat Perubahan dan Mulakan Semula">
-<!ENTITY continueButton.label "Sambung dalan Mod Selamat">
+
+<!ENTITY safeModeDialog.title         "&brandShortName; Mod Selamat">
+<!ENTITY window.width                 "37em">
+
+<!ENTITY safeModeDescription.label    "&brandShortName; sedang berjalan dalam Mod Selamat, yang sementara akan matikan penyesuaian peribadi, lanjutan dan tema anda.">
+<!ENTITY safeModeDescription2.label   "Anda boleh memperbuatkan beberapa atau semua penukaran ini kekal:">
+
+<!ENTITY disableAddons.label          "Lumpuhkan semua penambahan">
+<!ENTITY disableAddons.accesskey      "L">
+
+<!ENTITY resetToolbars.label          "Ulang tetap bar alat dan kawalan">
+<!ENTITY resetToolbars.accesskey      "R">
+
+<!ENTITY deleteBookmarks.label        "Padamkan semua tandabuku kecuali sandaran">
+<!ENTITY deleteBookmarks.accesskey    "b">
+
+<!ENTITY resetUserPrefs.label         "Ulang tetap semua keutamaan pengguna kepada &brandShortName; default">
+<!ENTITY resetUserPrefs.accesskey     "U">
+
+<!ENTITY restoreSearch.label          "Kembalikan enjin carian default">
+<!ENTITY restoreSearch.accesskey      "K">
+
+<!ENTITY changeAndRestartButton.label "Buat Penukaran dan Mula Semula">
+<!ENTITY continueButton.label         "Sambung dalam Mod Selamat">
+

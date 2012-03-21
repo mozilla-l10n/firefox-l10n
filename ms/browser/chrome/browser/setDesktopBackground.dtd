@@ -1,9 +1,10 @@
-<!ENTITY position.label "Posisi:">
-<!ENTITY tile.label "Jubin">
-<!ENTITY center.label "Tengah">
-<!ENTITY stretch.label "Rentang">
-<!ENTITY preview.label "Prebiu">
-<!ENTITY color.label "Warna:">
-<!ENTITY setDesktopBackground.title "Tetapkan Latar Desktop">
-<!ENTITY openDesktopPrefs.label "Buka Keutamaan Desktop">
-<!ENTITY closeWindow.key "w">
+<!ENTITY position.label             "kedudukan:">
+<!ENTITY tile.label                 "jubin">
+<!ENTITY center.label               "pusat">
+<!ENTITY stretch.label              "Regangkan">
+<!ENTITY preview.label              "Pra-tunjuk">
+<!ENTITY color.label                "Warna:">
+<!ENTITY setDesktopBackground.title "Set Paparan Dinding">
+<!ENTITY openDesktopPrefs.label     "Buka Keutamaan Desktop">
+<!ENTITY closeWindow.key            "w">
+

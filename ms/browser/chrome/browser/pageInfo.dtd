@@ -1,77 +1,129 @@
-<!--null-->
-<!ENTITY preface "Maklumat untuk:">
-<!ENTITY title "Info Laman">
-<!ENTITY description "Maklumat tentang laman semasa">
-<!ENTITY pageInfoWindow.width "425">
-<!ENTITY pageInfoWindow.height "470">
-<!ENTITY copy.key "C">
-<!ENTITY copy.label "Salin">
-<!ENTITY copy.accesskey "S">
-<!ENTITY selectall.key "A">
-<!ENTITY selectall.label "Pilih Semua">
-<!ENTITY selectall.accesskey "A">
-<!ENTITY closeWindow.key "w">
-<!ENTITY generalTab "Am">
-<!ENTITY generalAccesskey "m">
-<!ENTITY generalTitle "Tajuk:">
-<!ENTITY generalURL "Alamat:">
-<!ENTITY generalMode "Mod Balas">
-<!ENTITY generalType "Jenis:">
-<!ENTITY generalSize "Saiz:">
-<!ENTITY generalReferrer "Merujuk URL:">
-<!ENTITY generalSource "Sumber:">
-<!ENTITY generalSent "Hantar:">
-<!ENTITY generalModified "Diubah suai:">
-<!ENTITY generalExpires "Luput:">
-<!ENTITY generalEncoding "Pengekodan:">
-<!ENTITY generalMeta "Meta:">
-<!ENTITY generalMetaName "Nama">
-<!ENTITY generalMetaContent "Kandungan">
-<!ENTITY formsTab "Bentuk">
-<!ENTITY formsAccesskey "F">
-<!ENTITY formAction "Rangka Tindakan">
-<!ENTITY formMethod "Kaedah">
-<!ENTITY formName "Nama">
-<!ENTITY formNo "No.">
-<!ENTITY formEncoding "Pengekodan:">
-<!ENTITY formTarget "Sasaran:">
-<!ENTITY formFields "Medan:">
-<!ENTITY formLabel "Label">
-<!ENTITY formFName "Nama Medan">
-<!ENTITY formType "Jenis">
-<!ENTITY formCValue "Nilai Semasa">
-<!ENTITY linksTab "Pautan">
-<!ENTITY linksAccesskey "P">
-<!ENTITY linkNo "No.">
-<!ENTITY linkName "Nama">
-<!ENTITY linkAddress "Alamat">
-<!ENTITY linkType "Jenis">
-<!ENTITY linkTarget "Sasaran">
-<!ENTITY linkAccessKey "Kekunci Akses">
-<!ENTITY mediaTab "Media">
-<!ENTITY mediaAccesskey "M">
-<!ENTITY mediaHeader "Imej pada halaman ini">
-<!ENTITY mediaURL "Alamat:">
-<!ENTITY mediaBase "Alamat Asas:">
-<!ENTITY mediaAlt "Teks Silih Ganti:">
-<!ENTITY mediaAltHeader "Teks Silih Ganti">
-<!ENTITY mediaNo "No.">
-<!ENTITY mediaName "Nama">
-<!ENTITY mediaAddress "Alamat">
-<!ENTITY mediaType "Jenis">
-<!ENTITY mediaCount "Kira">
-<!ENTITY mediaPlugin "Plugin:">
-<!ENTITY mediaCharset "Pengekodan:">
-<!ENTITY mediaDimensions "Dimensi:">
-<!ENTITY mediaPhysDimensions "Dimensi Sebenar:">
-<!ENTITY mediaEncryption "Penyulitan:">
-<!ENTITY mediaTitle "Tajuk:">
-<!ENTITY mediaLongdesc "Huraian Panjang:">
-<!ENTITY mediaSaveAs "Simpan Sebagai...">
-<!ENTITY mediaSaveAs.accesskey "S">
-<!ENTITY mediaPreview "Media Pralihat:">
-<!ENTITY framesTab "Bingkai">
-<!ENTITY framesTab.accesskey "B">
-<!ENTITY frameName "Nama">
-<!ENTITY frameAddress "Alamat">
-<!ENTITY frameType "Jenis">
+<!--
+# ***** BEGIN LICENSE BLOCK *****
+# Version: MPL 1.1/GPL 2.0/LGPL 2.1
+#
+# The contents of this file are subject to the Mozilla Public License Version
+# 1.1 (the "License"); you may not use this file except in compliance with
+# the License. You may obtain a copy of the License at
+# http://www.mozilla.org/MPL/
+#
+# Software distributed under the License is distributed on an "AS IS" basis,
+# WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+# for the specific language governing rights and limitations under the
+# License.
+#
+# The Original Code is Mozilla Communicator client code.
+#
+# The Initial Developer of the Original Code is Daniel Brooks.
+# Portions created by the Initial Developer are Copyright (C) 2001
+# the Initial Developer. All Rights Reserved.
+#
+# Contributor(s): Daniel Brooks <db48x@yahoo.com>
+#                 Florian QUEZE <f.qu@queze.net>
+#                 Ehsan Akhgari <ehsan.akhgari@gmail.com>
+#
+# Alternatively, the contents of this file may be used under the terms of
+# either the GNU General Public License Version 2 or later (the "GPL"), or
+# the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+# in which case the provisions of the GPL or the LGPL are applicable instead
+# of those above. If you wish to allow use of your version of this file only
+# under the terms of either the GPL or the LGPL, and not to allow others to
+# use your version of this file under the terms of the MPL, indicate your
+# decision by deleting the provisions above and replace them with the notice
+# and other provisions required by the LGPL or the GPL. If you do not delete
+# the provisions above, a recipient may use your version of this file under
+# the terms of any one of the MPL, the GPL or the LGPL.
+#
+# ***** END LICENSE BLOCK *****
+-->
+
+<!ENTITY  pageInfoWindow.width  "600">
+<!ENTITY  pageInfoWindow.height "500">
+
+<!ENTITY  copy.key              "C">
+<!ENTITY  copy.label            "Salin">
+<!ENTITY  copy.accesskey        "S">
+<!ENTITY  selectall.key         "A">
+<!ENTITY  selectall.label       "Pilih Semua">
+<!ENTITY  selectall.accesskey   "A">
+<!ENTITY  closeWindow.key       "w">
+
+<!ENTITY  generalTab            "Am">
+<!ENTITY  generalTab.accesskey  "G">
+<!ENTITY  generalURL            "Alamat:">
+<!ENTITY  generalType           "Jenis:">
+<!ENTITY  generalMode           "Mod Jadikan:">
+<!ENTITY  generalSize           "Saiz:">
+<!ENTITY  generalReferrer       "Merujuk URL:">
+<!ENTITY  generalSource         "sumber disorok:">
+<!ENTITY  generalModified       "Diubahsuai:">
+<!ENTITY  generalEncoding       "Pengekodan:">
+<!ENTITY  generalMetaName       "Nama">
+<!ENTITY  generalMetaContent    "Kandungan">
+<!ENTITY  generalSecurityDetails   "Perincian">
+<!ENTITY  generalSecurityDetails.accesskey "P">
+
+<!ENTITY  mediaTab              "Media">
+<!ENTITY  mediaTab.accesskey    "M">
+<!ENTITY  mediaLocation         "Lokasi:">
+<!ENTITY  mediaText             "Teks Berkaitan:">
+<!ENTITY  mediaAltHeader        "Teks Ganti">
+<!ENTITY  mediaAddress          "Alamat">
+<!ENTITY  mediaType             "Jenis">
+<!ENTITY  mediaSize             "Saiz">
+<!ENTITY  mediaCount            "Kira">
+<!ENTITY  mediaDimension        "Dimensi-dimensi:">
+<!ENTITY  mediaLongdesc         "Perihal secara panjang lebar: ">
+<!ENTITY  mediaBlockImage.accesskey "B">
+<!ENTITY  mediaSaveAs           "Simpan Sebagai...">
+<!ENTITY  mediaSaveAs.accesskey "S">
+<!ENTITY  mediaSaveAs2.accesskey "e">
+<!ENTITY  mediaPreview          "Pratonton Media:">
+
+<!ENTITY  feedTab               "Suapan">
+<!ENTITY  feedTab.accesskey     "S">
+<!ENTITY  feedSubscribe         "Langgan">
+<!ENTITY  feedSubscribe.accesskey "L">
+
+<!ENTITY  permTab               "Kebenaran">
+<!ENTITY  permTab.accesskey     "K">
+<!ENTITY  permUseDefault        "Guna Piawai">
+<!ENTITY  permAskAlways         "sentiasa menanya">
+<!ENTITY  permAllow             "Benarkan">
+<!ENTITY  permAllowSession      "Sesi ini dibenarkan">
+<!ENTITY  permBlock             "Sekat">
+<!ENTITY  permissionsFor        "Kebenaran untuk:">
+<!ENTITY  permImage             "Muatkan Imej-imej">
+<!ENTITY  permPopup             "Buka Tetingkap Pop-up">
+<!ENTITY  permCookie            "Tetapkan Cecikut">
+<!ENTITY  permInstall           "Pasang Sambungan atau tema">
+<!ENTITY  permGeo               "Kongsi Lokasi">
+
+<!ENTITY  permIndexedDB              "Kekalkan Storan Luartalian">
+<!ENTITY  permClearStorage           "Bersihkan Storan">
+<!ENTITY  permClearStorage.accesskey "B">
+
+<!ENTITY  securityTab           "Keselamatan">
+<!ENTITY  securityTab.accesskey "s">
+<!ENTITY  securityHeader        "Maklumat sekuriti untuk halaman ini">
+<!ENTITY  securityView.certView "menunjukan sijil">
+<!ENTITY  securityView.accesskey "V">
+<!ENTITY  securityView.unknown   "Tidak diketahui">
+
+
+<!ENTITY  securityView.identity.header   "Web Site Identity">
+<!ENTITY  securityView.identity.owner    "Pemilik:">
+<!ENTITY  securityView.identity.domain   "Web site:">
+<!ENTITY  securityView.identity.verifier "Disahkan oleh:">
+
+<!ENTITY  securityView.privacy.header                   "Peribadi &amp; Sejarah">
+<!ENTITY  securityView.privacy.history                  "Have I visited this web site prior to today?">
+<!ENTITY  securityView.privacy.cookies                  "Is this web site storing information (cookies) on my computer?">
+<!ENTITY  securityView.privacy.viewCookies              "Papar Cookies">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.passwords                "Have I saved any passwords for this web site?">
+<!ENTITY  securityView.privacy.viewPasswords            "Papar kata laluan yang telah disimpan">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "P">
+
+<!ENTITY  securityView.technical.header                 "Maklumat Teknikal">
+

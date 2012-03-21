@@ -1,34 +1,42 @@
-<!ENTITY startup.label "Permulaan">
-<!ENTITY startupPage.label "Apabila &brandShortName; mula:">
-<!ENTITY startupPage.accesskey "m">
-<!ENTITY startupHomePage.label "Tunjuk laman utama saya">
-<!ENTITY startupBlankPage.label "Tunjuk laman kosong">
-<!ENTITY startupLastSession.label "Tunjuk tetingkap dan tab saya daripada masa terakhir">
-<!ENTITY location.label "Laman Utama:">
-<!ENTITY location.accesskey "U">
-<!ENTITY useCurrentPage.label "Guna Laman Semasa">
-<!ENTITY useCurrentPage.accesskey "S">
-<!ENTITY useMultiple.label "Guna Laman Semasa">
-<!ENTITY useBookmark.label "Guna Tandabuku">
-<!ENTITY useBookmark.accesskey "B">
-<!ENTITY restoreDefault.label "Kembalikan kepada Default">
-<!ENTITY restoreDefault.accesskey "K">
-<!ENTITY downloads.label "Muaturun">
-<!ENTITY showWhenDownloading.label "Tunjuk tetingkap Muaturun apabila memuaturun fail">
+<!ENTITY startup.label             "Permulaan">
+
+<!ENTITY startupPage.label         "Apabila &brandShortName; mula:">
+<!ENTITY startupPage.accesskey     "m">
+<!ENTITY startupHomePage.label     "tunjukan laman utama saya">
+<!ENTITY startupBlankPage.label    "tunjukan laman yang kosong">
+<!ENTITY startupLastSession.label  "Papar tetingkap dan tab saya dari masa lalu">
+<!ENTITY restoreOnDemand.label     "Jangan isi tab kecuali bila dipilih">
+<!ENTITY restoreOnDemand.accesskey "l">
+
+<!ENTITY homepage.label            "laman utama:
+">
+<!ENTITY homepage.accesskey        "l">
+<!ENTITY useCurrentPage.label      "Guna Laman Semasa">
+<!ENTITY useCurrentPage.accesskey  "S">
+<!ENTITY useMultiple.label         "Gunakan Laman Semasa">
+<!ENTITY chooseBookmark.label      "Guna Penandabuku">
+<!ENTITY chooseBookmark.accesskey  "b">
+<!ENTITY restoreDefault.label      "Kembalikan kepada Default">
+<!ENTITY restoreDefault.accesskey  "K">
+
+<!ENTITY downloads.label     "Muat Turun">
+
+<!ENTITY showWhenDownloading.label     "Tunjuk tetingkap Muaturun apabila memuaturun fail">
 <!ENTITY showWhenDownloading.accesskey "T">
 <!ENTITY closeWhenDone.label "Tutupkannya apabila semua muaturun selesai">
 <!ENTITY closeWhenDone.accesskey "w">
 <!ENTITY saveTo.label "Simpan fail kepada">
 <!ENTITY saveTo.accesskey "f">
-<!ENTITY chooseFolderWin.label "Lungsur...">
-<!ENTITY chooseFolderWin.accesskey "L">
-<!ENTITY chooseFolderMac.label "Pilih...">
-<!ENTITY chooseFolderMac.accesskey "i">
+<!ENTITY chooseFolderWin.label        "Lungsur...">
+<!ENTITY chooseFolderWin.accesskey    "L">
+<!ENTITY chooseFolderMac.label        "Pilih...">
+<!ENTITY chooseFolderMac.accesskey    "i">
 <!ENTITY alwaysAsk.label "Sentiasa tanya saya di mana untuk menyimpan fail">
 <!ENTITY alwaysAsk.accesskey "S">
-<!ENTITY systemDefaults.label "Sistem Default">
-<!ENTITY alwaysCheckDefault.label "Sentiasa periksa untuk melihat &brandShortName; adalah pelungsur default pada permulaan">
-<!ENTITY alwaysCheckDefault.accesskey "S">
-<!ENTITY alwaysCheckDefault.height "3em">
-<!ENTITY checkNow.label "Periksa Sekarang">
-<!ENTITY checkNow.accesskey "N">
+
+<!ENTITY addonsMgr.label               "Add-ons">
+<!ENTITY manageAddonsDescWin.label     "Tukar pilihan untuk add-ons anda">
+<!ENTITY manageAddonsDescUnix2.label   "Tukar keutamaan untuk add-ons anda">
+<!ENTITY manageAddons.label            "Urus Add-ons…">
+<!ENTITY manageAddons.accesskey        "U">
+

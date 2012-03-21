@@ -20,7 +20,6 @@
    -
    - Contributor(s):
    -   Ian McGreer <mcgreer@netscape.com>
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -35,31 +34,37 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY devmgr.title "Pengurus Peranti">
-<!ENTITY devmgr.devlist.label "Modul Sekuriti dan Peranti">
-<!ENTITY devmgr.details.title "Perincian">
-<!ENTITY devmgr.details.title2 "Nilai">
-<!ENTITY devmgr.status.label "Status">
-<!ENTITY devmgr.version.label "Versi">
-<!ENTITY devmgr.button.changeslotname.label "Tukar Nama Slot">
+
+<!ENTITY devmgr.title                           "Pengurus Peranti">
+
+<!ENTITY devmgr.devlist.label                   "Modul Sekuriti dan Peranti">
+<!ENTITY devmgr.details.title                   "Perincian">
+<!ENTITY devmgr.details.title2                  "Nilai">
+<!ENTITY devmgr.status.label                    "Status">
+<!ENTITY devmgr.version.label                   "Versi">
+
+<!ENTITY devmgr.button.changeslotname.label     "Tukar Nama Slot">
 <!ENTITY devmgr.button.changeslotname.accesskey "C">
-<!ENTITY devmgr.button.login.label "Log Masuk">
-<!ENTITY devmgr.button.login.accesskey "n">
-<!ENTITY devmgr.button.logout.label "Log Keluar">
-<!ENTITY devmgr.button.logout.accesskey "O">
-<!ENTITY devmgr.button.changepw.label "Tukar Katalaluan">
-<!ENTITY devmgr.button.changepw.accesskey "P">
-<!ENTITY devmgr.button.load.label "Muat">
-<!ENTITY devmgr.button.load.accesskey "L">
-<!ENTITY devmgr.button.unload.label "Nyahmuat">
-<!ENTITY devmgr.button.unload.accesskey "U">
-<!ENTITY devmgr.button.fips.accesskey "F">
-<!ENTITY loaddevice.info "Masukkan maklumat untuk modul yang anda ingin tambah.">
-<!ENTITY loaddevice.modname "Nama Modul:">
-<!ENTITY loaddevice.modname.accesskey "M">
-<!ENTITY loaddevice.modname.default "Modul PKCS#11 Baru">
-<!ENTITY loaddevice.filename "Nama fail modul:">
-<!ENTITY loaddevice.filename.accesskey "f">
-<!ENTITY loaddevice.browse "Lungsur...">
-<!ENTITY loaddevice.browse.accesskey "B">
-<!ENTITY loaddevice.title "Muatkan Peranti PKCS#11">
+<!ENTITY devmgr.button.login.label              "Log Masuk">
+<!ENTITY devmgr.button.login.accesskey          "n">
+<!ENTITY devmgr.button.logout.label             "Log Keluar">
+<!ENTITY devmgr.button.logout.accesskey         "O">
+<!ENTITY devmgr.button.changepw.label           "Tukar Katalaluan">
+<!ENTITY devmgr.button.changepw.accesskey       "P">
+<!ENTITY devmgr.button.load.label               "Muat">
+<!ENTITY devmgr.button.load.accesskey           "L">
+<!ENTITY devmgr.button.unload.label             "Nyahmuat">
+<!ENTITY devmgr.button.unload.accesskey         "U">
+<!ENTITY devmgr.button.fips.accesskey           "F">
+
+<!ENTITY loaddevice.info                        "Masukkan maklumat untuk modul yang anda ingin tambah.">
+<!ENTITY loaddevice.modname                     "Nama Modul:">
+<!ENTITY loaddevice.modname.accesskey           "M">
+<!ENTITY loaddevice.modname.default             "Modul PKCS#11 Baru">
+<!ENTITY loaddevice.filename                    "Nama fail modul:">
+<!ENTITY loaddevice.filename.accesskey          "f">
+<!ENTITY loaddevice.browse                      "Lungsur...">
+<!ENTITY loaddevice.browse.accesskey            "B">
+
+<!ENTITY loaddevice.title                       "Muatkan Peranti PKCS#11">
+

@@ -1,41 +1,41 @@
-<!ENTITY connectionsDialog.title "Tetapan Sambungan">
-<!ENTITY window.width "37em">
-<!ENTITY window.macWidth "39em">
-<!ENTITY proxyTitle.label "Konfigur Proksi untuk Mencapai Internet">
-<!ENTITY directTypeRadio.label "Sambungan terus kepada Internet">
-<!ENTITY directTypeRadio.accesskey "t">
-<!ENTITY WPADTypeRadio.label "Auto-kesan tetapan proksi untuk rangkaian ini">
-<!ENTITY WPADTypeRadio.accesskey "n">
-<!ENTITY manualTypeRadio.label "Konfigurasi proksi manual:">
-<!ENTITY manualTypeRadio.accesskey "m">
-<!ENTITY autoTypeRadio.label "URL konfigurasi proksi automatik:">
-<!ENTITY autoTypeRadio.accesskey "U">
-<!ENTITY configAutoconfigText.label "Lokasi konfigurasi (URL):">
-<!ENTITY configAutoconfigText.accesskey "u">
-<!ENTITY reload.label "Muat semula">
-<!ENTITY reload.accesskey "e">
-<!ENTITY ftp.label "Proksi FTP:">
-<!ENTITY ftp.accesskey "F">
-<!ENTITY gopher.label "Proksi Gopher:">
-<!ENTITY gopher.accesskey "G">
-<!ENTITY http.label "Proksi HTTP:">
-<!ENTITY http.accesskey "H">
-<!ENTITY ssl.label "Proksi SSL:">
-<!ENTITY ssl.accesskey "S">
-<!ENTITY socks.label "Hos SOCKS:">
-<!ENTITY socks.accesskey "C">
-<!ENTITY socks4.label "SOCKS v4">
-<!ENTITY socks4.accesskey "K">
-<!ENTITY socks5.label "SOCKS v5">
-<!ENTITY socks5.accesskey "v">
-<!ENTITY port.label "Port:">
-<!ENTITY HTTPport.accesskey "P">
-<!ENTITY SSLport.accesskey "o">
-<!ENTITY FTPport.accesskey "r">
-<!ENTITY gopherPort.accesskey "">
-<!ENTITY SOCKSport.accesskey "t">
-<!ENTITY noproxy.label "Tiada Proksi untuk:">
-<!ENTITY noproxy.accesskey "d">
-<!ENTITY noproxyExplain.label "Contoh: .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY shareproxy.label "Guna pelayan proksi ini untuk semua protokol">
-<!ENTITY shareproxy.accesskey "i">
+
+<!ENTITY  connectionsDialog.title       "Tetapan Sambungan">
+<!ENTITY  window.width                  "37em">
+<!ENTITY  window.macWidth               "39em">
+
+<!ENTITY  proxyTitle.label              "Konfigur Proksi untuk Capaian Internet">
+<!ENTITY  noProxyTypeRadio.label        "Tiada proxy">
+<!ENTITY  noProxyTypeRadio.accesskey    "y">
+<!ENTITY  systemTypeRadio.label         "Guna tetapan proksi sistem">
+<!ENTITY  systemTypeRadio.accesskey     "u">
+<!ENTITY  WPADTypeRadio.label           "Auto-kesan tetapan proksi untuk rangkaian ini">
+<!ENTITY  WPADTypeRadio.accesskey       "n">
+<!ENTITY  manualTypeRadio.label         "Konfigurasi proksi manual:">
+<!ENTITY  manualTypeRadio.accesskey     "m">
+<!ENTITY  autoTypeRadio.label           "URL konfigurasi proksi automatik:">
+<!ENTITY  autoTypeRadio.accesskey       "U">
+<!ENTITY  reload.label                  "Muat semula">
+<!ENTITY  reload.accesskey              "e">
+<!ENTITY  ftp.label                     "Proksi FTP:">
+<!ENTITY  ftp.accesskey                 "F">
+<!ENTITY  http.label                    "Proksi HTTP:">
+<!ENTITY  http.accesskey                "H">
+<!ENTITY  ssl.label                     "Proksi SSL:">
+<!ENTITY  ssl.accesskey                 "S">
+<!ENTITY  socks.label                   "Hos SOCKS:">
+<!ENTITY  socks.accesskey               "C">
+<!ENTITY  socks4.label                  "SOCKS v4">
+<!ENTITY  socks4.accesskey              "K">
+<!ENTITY  socks5.label                  "SOCKS v5">
+<!ENTITY  socks5.accesskey              "v">
+<!ENTITY  port.label                    "liang:">
+<!ENTITY  HTTPport.accesskey            "P">
+<!ENTITY  SSLport.accesskey             "o">
+<!ENTITY  FTPport.accesskey             "r">
+<!ENTITY  SOCKSport.accesskey           "t">
+<!ENTITY  noproxy.label                 "Tiada Proksi untuk:">
+<!ENTITY  noproxy.accesskey             "d">
+<!ENTITY  noproxyExplain.label          "Contoh: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Guna pelayan proksi ini untuk semua protokol">
+<!ENTITY  shareproxy.accesskey          "i">
+

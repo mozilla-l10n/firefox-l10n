@@ -1,37 +1,38 @@
-<!ENTITY blockPopups.label "Halang tetingkap popup">
-<!ENTITY blockPopups.accesskey "H">
-<!ENTITY popupExceptions.label "Pengecualian...">
-<!ENTITY popupExceptions.accesskey "E">
-<!ENTITY loadImages.label "Automatik muat imej">
-<!ENTITY loadImages.accesskey "I">
-<!ENTITY exceptions.label "Pengecualian...">
-<!ENTITY exceptions.accesskey "n">
-<!ENTITY enableJavaScript.label "Bolehkan JavaScript">
-<!ENTITY enableJavaScript.accesskey "J">
-<!ENTITY advancedJS.label "Lanjutan...">
-<!ENTITY advancedJS.accesskey "L">
-<!ENTITY enableJava.label "Bolehkan Java">
-<!ENTITY enableJava.accesskey "v">
-<!ENTITY fontsAndColors.label "Font &amp; Warna">
-<!ENTITY defaultFont.label "Font Default:">
-<!ENTITY defaultFont.accesskey "D">
-<!ENTITY defaultSize.label "Saiz:">
-<!ENTITY defaultSize.accesskey "i">
-<!ENTITY advancedFonts.label "Lanjutan...">
-<!ENTITY advancedFonts.accesskey "u">
-<!ENTITY colors.label "Warna...">
-<!ENTITY colors.accesskey "W">
-<!ENTITY feeds.label "Suapan">
-<!ENTITY feedReader.label "Pembaca Suapan:">
-<!ENTITY feedReader.accesskey "S">
-<!ENTITY feedClick.label "Apabila saya klik pada suapan web:">
-<!ENTITY ask.label "Tanya saya apa hendak diguna">
-<!ENTITY ask.accesskey "T">
-<!ENTITY subLiveBookmark.label "Sentiasa langgan dengan Tandabuku Langsung">
-<!ENTITY subLiveBookmark.accesskey "L">
-<!ENTITY subReader.label "Sentiasa langgan menggunakan Pembaca Suapan">
-<!ENTITY subReader.accesskey "g">
-<!ENTITY fileTypes.label "Jenis Fail">
-<!ENTITY configureFileTypes.label "Konfigur bagaimana &brandShortName; mengendalikan jenis fail tertentu ">
-<!ENTITY manage.label "Urus...">
-<!ENTITY manage.accesskey "U">
+<!ENTITY  blockPopups.label           "Halang tetingkap popup">
+<!ENTITY  blockPopups.accesskey       "H">
+<!ENTITY  popupExceptions.label       "Pengecualian...">
+<!ENTITY  popupExceptions.accesskey   "E">
+
+<!ENTITY  loadImages.label            "Automatik muat imej">
+<!ENTITY  loadImages.accesskey        "I">
+<!ENTITY  exceptions.label            "Pengecualian...">
+<!ENTITY  exceptions.accesskey        "n">
+
+<!ENTITY  enableJavaScript.label      "Bolehkan JavaScript">
+<!ENTITY  enableJavaScript.accesskey  "J">
+<!ENTITY  advancedJS.label            "Lanjutan...">
+<!ENTITY  advancedJS.accesskey        "L">
+
+<!ENTITY  enableJava.label            "Bolehkan Java">
+<!ENTITY  enableJava.accesskey        "v">
+
+
+<!ENTITY  fontsAndColors.label        "Fon &amp; Warna">
+
+<!ENTITY  defaultFont.label           "Font Default:">
+<!ENTITY  defaultFont.accesskey       "D">
+<!ENTITY  defaultSize.label           "Saiz:">
+<!ENTITY  defaultSize.accesskey       "i">
+
+<!ENTITY  advancedFonts.label         "Lanjutan...">
+<!ENTITY  advancedFonts.accesskey     "u">
+
+<!ENTITY  colors.label                "Warna...">
+<!ENTITY  colors.accesskey            "W">
+
+
+<!ENTITY languages.label              "Bahasa">
+<!ENTITY chooseLanguage.label         "Pilih bahasa pilihan anda untuk memaparkan halaman">
+<!ENTITY chooseButton.label           "Pilih...">
+<!ENTITY chooseButton.accesskey       "P">
+
