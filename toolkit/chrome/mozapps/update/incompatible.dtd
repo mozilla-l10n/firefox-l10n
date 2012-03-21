@@ -1,9 +1,0 @@
-<!ENTITY incompatible.title "Item Tidak Serasi">
-<!ENTITY incompatible.intro "Item berikut tidak serasi dengan kemaskinian untuk &brandShortName; ini dan 
-                                     akan dilumpuhkan apabila telah dipasang:">
-<!ENTITY incompatible.update "&brandShortName; akan memeriksa secara berkala kemaskinian apabila terdapatnya 
-                                     versi yang serasi.">
-<!ENTITY incompatible.suffix "Kemaskinian &brandShortName; mengandungi pembaikan sekuriti penting. Untuk 
-                                     perlindungan anda, adalah sangat digalakkan yang anda mengemaskini &brandShortName; 
-				     walaupun jika terdapat Sambungan dan Tema jadi tidak serasi.">
-<!ENTITY closebutton.label "Tutup">
