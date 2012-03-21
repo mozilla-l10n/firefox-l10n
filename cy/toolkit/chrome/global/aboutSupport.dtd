@@ -13,7 +13,13 @@ cyffredin am a brandShortName;, edrychwch ar ein <a id='supportLink'>gwefan cefn
 <!ENTITY aboutSupport.appBasicsTitle "Sylfaeni Rhaglen">
 <!ENTITY aboutSupport.appBasicsName "Enw">
 <!ENTITY aboutSupport.appBasicsVersion "Fersiwn">
+
 <!ENTITY aboutSupport.appBasicsProfileDir "Cyfeiriadur Proffil">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Profile Folder">
+
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Ategion Galluogwyd">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Ffurfweddiad Adeiladu">
 <!ENTITY aboutSupport.appBasicsUserAgent "Asiant Defnyddiwr">
@@ -21,7 +27,6 @@ cyffredin am a brandShortName;, edrychwch ar ein <a id='supportLink'>gwefan cefn
 <!ENTITY aboutSupport.appBasicsMemoryUse "Defnydd o'r cof">
 
 <!ENTITY aboutSupport.showDir.label "Agor Cyfeiriadur">
-
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
@@ -35,6 +40,11 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsValue "Gwerth">
 
 <!ENTITY aboutSupport.graphicsTitle "Graffigau">
+
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
+
+<!ENTITY aboutSupport.libraryVersionsTitle "Library Versions">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Hanes Gosod">
 <!ENTITY aboutSupport.updateHistoryTitle "Hanes Diweddaru">

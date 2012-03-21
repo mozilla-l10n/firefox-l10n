@@ -1,5 +1,5 @@
 <!ENTITY  fontsDialog.title                       "Ffontiau">
-<!ENTITY  window.width                            "50em">
+<!ENTITY  window.width                            "39em">
 <!ENTITY  window.macWidth                         "43em">
 <!ENTITY  window.unixWidth                        "41em">
 
@@ -7,7 +7,7 @@
 <!ENTITY  language.accesskey                      "F">
 
 <!ENTITY  size.label                              "Maint:">
-<!ENTITY  sizeProportional.accesskey              "M">
+<!ENTITY  sizeProportional.accesskey              "z">
 <!ENTITY  sizeMonospace.accesskey                 "a">
 
 <!ENTITY  proportional.label                      "Cyfrannol:">

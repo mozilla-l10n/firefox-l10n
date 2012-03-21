@@ -77,7 +77,7 @@
 <!ENTITY  mediaBlockImage.accesskey "B">
 <!ENTITY  mediaSaveAs           "Cadw Fel...">
 <!ENTITY  mediaSaveAs.accesskey "C">
-<!ENTITY  mediaSaveAs2.accesskey "y">
+<!ENTITY  mediaSaveAs2.accesskey "e">
 <!ENTITY  mediaPreview          "Rhagolwg Cyfrwng:">
 
 <!ENTITY  feedTab               "Llif">
@@ -107,7 +107,7 @@
 <!ENTITY  securityTab.accesskey "D">
 <!ENTITY  securityHeader        "Gwybodaeth diogelwch ar gyfer y dudalen hon">
 <!ENTITY  securityView.certView "Darllen y Dystysgrif">
-<!ENTITY  securityView.accesskey "D">
+<!ENTITY  securityView.accesskey "V">
 <!ENTITY  securityView.unknown   "Anhysbys">
 
 

@@ -145,7 +145,7 @@ can reach it easily. -->
 <!ENTITY bookmarksButton.label          "Nodau Tudalen">
 <!ENTITY bookmarksButton.tooltip        "Dangos eich nodau tudalen">
 <!ENTITY bookmarksButton.accesskey  "n">
-<!ENTITY bookmarksCmd.commandkey "n">
+<!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Nodau Tudalen">
 <!ENTITY bookmarksMenuButton.tooltip        "Dangos eich nodau tudalen">
@@ -213,10 +213,16 @@ can reach it easily. -->
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 
-<!ENTITY inspectPanelTitle.label        "HTML">
-<!ENTITY inspectButton.label            "Arsylwi">
-<!ENTITY inspectButton.accesskey        "r">
 <!ENTITY inspectCloseButton.tooltiptext "Cau'r Archwiliwr">
+
+<!ENTITY inspectorHTMLCopyInner.label       "Copy Inner HTML">
+<!ENTITY inspectorHTMLCopyInner.accesskey   "I">
+
+<!ENTITY inspectorHTMLCopyOuter.label       "Copy Outer HTML">
+<!ENTITY inspectorHTMLCopyOuter.accesskey   "O">
+
+<!ENTITY inspectorHTMLDelete.label          "Delete Node">
+<!ENTITY inspectorHTMLDelete.accesskey      "D">
 
 <!-- LOCALIZATION NOTE (inspect3DViewButton.label): This button shows an
   -  alternate view for the Inspector, creating a 3D visualization of the
@@ -279,7 +285,7 @@ can reach it easily. -->
 <!ENTITY privateBrowsingCmd.start.accesskey     "p">
 <!ENTITY privateBrowsingCmd.stop.label          "Dechrau Pori Preifat">
 <!ENTITY privateBrowsingCmd.stop.accesskey      "a">
-<!ENTITY privateBrowsingCmd.commandkey          "p">
+<!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Golwg"> 
 <!ENTITY viewMenu.accesskey       "o"> 
@@ -308,7 +314,7 @@ can reach it easily. -->
 <!ENTITY appMenuEdit.label "Golygu">
 <!ENTITY appMenuCustomize.label "Cyfaddasu">
 <!ENTITY appMenuToolbarLayout.label "Cynllun Bar Offer...">
-<!ENTITY appMenuSidebars.label "Barau Ochr">
+<!ENTITY appMenuSidebars.label "Sidebars">
 <!ENTITY appMenuFind.label "Canfod...">
 <!ENTITY appMenuUnsorted.label "Nodau Tudalen heb eu Trefnu">
 <!ENTITY appMenuWebDeveloper.label "Datblygwr Gwe">
@@ -316,7 +322,7 @@ can reach it easily. -->
 <!ENTITY appMenuSafeMode.label "Ailgychwyn gydag Ychwanegion wedi eu Hanalluogi...">
 <!ENTITY appMenuSafeMode.accesskey "a">
 
-<!ENTITY openCmd.commandkey           "L">
+<!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder           "Mynd i'r Wefan">
 <!ENTITY urlbar.accesskey             "m">
 <!ENTITY urlbar.switchToTab.label     "Newid i dab:">
@@ -599,4 +605,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY addonBarCloseButton.tooltip  "Cau'r Bar Ychwanegion">
 <!ENTITY toggleAddonBarCmd.key        "/">
+
+<!-- LOCALIZATION NOTE (htmlPanel.label): This is a label for a button that
+activates the Web Developer->Inspect UI's HTML Tree Panel. -->
+<!ENTITY htmlPanel.label              "HTML">
+
+<!-- LOCALIZATION NOTE (htmlPanel.tooltiptext): The text that appears when a user
+hovers over the HTML panel's toolbar button. -->
+<!ENTITY htmlPanel.tooltiptext        "HTML panel">
+
+<!-- LOCALIZATION NOTE (htmlPanel.accesskey): The key bound to the HTML panel's
+toolbar button -->
+<!ENTITY htmlPanel.accesskey          "H">
 

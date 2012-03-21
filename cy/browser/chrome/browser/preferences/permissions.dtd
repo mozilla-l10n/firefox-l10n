@@ -15,7 +15,7 @@
 <!ENTITY session.accesskey            "S">
 <!ENTITY allow.label                  "Caniatáu">
 <!ENTITY allow.accesskey              "a">
-<!ENTITY windowClose.key              "f">
+<!ENTITY windowClose.key              "w">
 
 <!ENTITY button.close.label           "Cau">
 <!ENTITY button.close.accesskey       "C">

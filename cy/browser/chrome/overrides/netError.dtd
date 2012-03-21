@@ -99,10 +99,12 @@ yn siŵr fod gan &brandShortName; fynediad i'r we.</li>
 </ul>">
 
 <!ENTITY nssFailure2.title "Methodd y Cysylltiad Diogel">
-<!ENTITY nssFailure2.longDesc "<ul> 
-<li>Nid oes modd dangos y dudalen rydych yn ceisio ei darllen am nad oes modd dilysu'r data a dderbyniwyd.</li> 
-<li>Cysylltwch â pherchnogion y wefan am y broblem hon, neu defnyddiwch y gorchymyn yn y ddewislen cymorth i adrodd ar y wefan yma.</li> 
-</ul>">
+<!ENTITY nssFailure2.longDesc "
+<ul>
+  <li>The page you are trying to view cannot be shown because the authenticity of the received data could not be verified.</li>
+  <li>Please contact the website owners to inform them of this problem. Alternatively, use the command found in the help menu to report this broken site.</li>
+</ul>
+">
 
 <!ENTITY nssBadCert.title "Methodd y Cysylltiad Cadarn">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
@@ -135,7 +137,7 @@ gwnewch yn siŵr fod gan &brandShortName;  hawl i fynediad i'r we.</li>
 <!ENTITY cspFrameAncestorBlocked.longDesc "<p>Mae &brandShortName; wedi rhwystro'r dudalen rhag llwytho yn y ffordd yma gan fod gan y dudalen bolisi diogelwch cynnwys sy'n atal hynny.</p>">
 
 <!ENTITY corruptedContentError.title "Gwall Cynnwys Llygredig">
-<!ENTITY corruptedContentError.longDesc "<p>Nid oes modd dangos y dudalen rydych yn ceisio ei gweld yn sgil canfod gwall trosglwyddo data.</p><ul><li>Cysylltwch â pherchnogion y wefan i'w hysbysu o'r anhawster.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
 
 
 <!ENTITY securityOverride.linkText "Neu mae modd ychwanegu eithriad...">
