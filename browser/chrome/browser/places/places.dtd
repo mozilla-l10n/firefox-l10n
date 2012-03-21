@@ -63,7 +63,7 @@
 
 <!ENTITY cmd.sortby_name.label              "Trefnu yn ôl Enw">
 <!ENTITY cmd.sortby_name.accesskey          "E">
-<!ENTITY cmd.context_sortby_name.accesskey  "T">
+<!ENTITY cmd.context_sortby_name.accesskey  "r">
 
 <!ENTITY cmd.new_bookmark.label            "Nod Tudalen Newydd">
 <!ENTITY cmd.new_bookmark.accesskey        "N">
@@ -104,7 +104,7 @@
 <!ENTITY saveSearch.label                          "Cadw">
 <!ENTITY saveSearch.accesskey                      "C">
 
-<!ENTITY cmd.find.key  "l">
+<!ENTITY cmd.find.key  "f">
 
 <!ENTITY maintenance.label      "Mewnforio ac Allforio">
 <!ENTITY maintenance.accesskey  "M">

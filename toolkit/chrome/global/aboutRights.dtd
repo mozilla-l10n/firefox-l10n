@@ -25,7 +25,7 @@
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights2.intro-point3a "Mae sut rydym yn defnyddio y data personol ac adborth rydych wedi ei gyflwyno i &vendorShortName; drwy &brandShortName; yn cael ei ddisgrifio yn ">
-<!ENTITY rights2.intro-point3b "Polisi Preifatrwydd &brandShortName;">
+<!ENTITY rights2.intro-point3b "&brandShortName; Privacy Policy">
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
@@ -55,10 +55,10 @@
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "Pori Diogel: ">
 <!ENTITY rights.safebrowsing-b "Nid yw anablu Pori Diogel yn cael ei gymeradwyo gan y gall arwain i chi fynd i wefannau anniogel. Os ydych eisiau analluogi'r nodwedd yn llwyr, dilynwch y camau hyn:">
-<!ENTITY rights.safebrowsing-term1 "Agor dewisiadau'r rhaglen">
-<!ENTITY rights.safebrowsing-term2 "Dewis yr adran Diogelwch">
+<!ENTITY rights.safebrowsing-term1 "Open the application preferences">
+<!ENTITY rights.safebrowsing-term2 "Select the Security selection">
 <!ENTITY rights.safebrowsing-term3 "Dad-diciwch dewisiadau &quot;&blockAttackSites.label;&quot; and &quot;&blockWebForgeries.label;&quot;">
-<!ENTITY rights.safebrowsing-term4 "Mae Pori Diogel nawr wedi ei analluogi">
+<!ENTITY rights.safebrowsing-term4 "Safe Browsing is now disabled">
 
 <!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-a "Pori Ymwybodol o Leoliad: ">
@@ -67,7 +67,7 @@
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
 <!ENTITY rights.locationawarebrowsing-term2 "Teipio geo.enabled">
 <!ENTITY rights.locationawarebrowsing-term3 "Clic dwbl i'r dewis geo.enabled">
-<!ENTITY rights.locationawarebrowsing-term4 "Mae Pori Ymwybodol o'r Lleoliad wedi ei analluogi">
+<!ENTITY rights.locationawarebrowsing-term4 "Location-Aware Browsing is now disabled">
 
 <!-- intro paragraph for unbranded builds -->
 <!ENTITY rights.webservices-unbranded "Rhaid cynnwys yn fan hyn, drosolwg o'r gwasanaeth gwefan gwe mae'r cynnyrch yn ei gynnwys, ynghyd â chyfarwyddiadau ar sut i'w hatal os yn berthnasol.">

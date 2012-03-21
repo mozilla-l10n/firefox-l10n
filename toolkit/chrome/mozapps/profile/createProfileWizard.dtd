@@ -1,5 +1,5 @@
 <!ENTITY newprofile.title             "Creu Proffil Dewin">
-<!ENTITY window.size                  "width: 65em; height: 32em;">
+<!ENTITY window.size                  "width: 45em; height: 32em;">
 
 <!-- First wizard page -->
 <!ENTITY profileCreationExplanation_1.text  "Mae &brandShortName; yn storio gwybodaeth am eich gosodiadau a'ch dewisiadau yn eich proffil personol.">

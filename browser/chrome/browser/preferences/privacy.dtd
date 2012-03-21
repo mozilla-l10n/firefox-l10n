@@ -15,7 +15,6 @@
 <!ENTITY  locbar.bookmarks.label        "Nodau Tudalen">
 <!ENTITY  locbar.nothing.label          "Dim">
 
-
 <!ENTITY  acceptCookies.label           "Derbyn cwcis o wefannau">
 <!ENTITY  acceptCookies.accesskey       "w">
 
@@ -47,10 +46,10 @@
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-<!ENTITY  rememberActions.pre.label           "Efallai hoffech wybod ">
-<!ENTITY  rememberActions.clearHistory.label  "clirio eich hanes diweddar">
+<!ENTITY  rememberActions.pre.label           "Efallai hoffech wybod am ">
+<!ENTITY  rememberActions.clearHistory.label  "glirio eich hanes diweddar">
 <!ENTITY  rememberActions.middle.label        ", neu ">
-<!ENTITY  rememberActions.removeCookies.label "tynnu cwcis unigol">
+<!ENTITY  rememberActions.removeCookies.label "dynnu cwcis unigol">
 <!ENTITY  rememberActions.post.label          ".">
 
 <!ENTITY  dontrememberDescription.label  "Bydd &brandShortName; yn defnyddio'r un gosodiadau â phori preifat, ond ni fydd yn cofio unrhyw hanes wrth i chi bori'r We.">
@@ -64,11 +63,8 @@
 <!ENTITY  privateBrowsingPermanent2.label "Defnyddio'r modd pori preifat bob tro">
 <!ENTITY  privateBrowsingPermanent2.accesskey "D">
 
-<!ENTITY  rememberHistory.label      "Cofio hanes pori">
-<!ENTITY  rememberHistory.accesskey  "C">
-
-<!ENTITY  rememberDownload.label         "Cofiwch hanes llwytho i lawr">
-<!ENTITY  rememberDownload.accesskey     "h">
+<!ENTITY  rememberHistory2.label      "Remember my browsing and download history">
+<!ENTITY  rememberHistory2.accesskey  "b">
 
 <!ENTITY  rememberSearchForm.label       "Cofio hanes chwilio a ffurflen">
 <!ENTITY  rememberSearchForm.accesskey   "c">

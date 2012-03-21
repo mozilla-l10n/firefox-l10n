@@ -1,7 +1,3 @@
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "Tab Newydd">
 
-<!ENTITY newtab.show "Dangos Tudalen Tab Newydd">
-<!ENTITY newtab.hide "Cuddio'r Tudalen Tab Newydd">
-<!ENTITY newtab.reset "Ailosod Tudalen Tab Newydd">
-

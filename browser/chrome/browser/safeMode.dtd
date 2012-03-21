@@ -37,7 +37,10 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY safeModeDialog.title         "Modd Diogel &brandShortName;">
-<!ENTITY window.width                 "50em">
+<!ENTITY window.width                 "37em">
+
+<!ENTITY autoSafeModeIntro.label      "&brandShortName; Closed Unexpectedly While Starting">
+<!ENTITY autoSafeModeDescription.label "We sincerely apologize for the inconvenience. &brandShortName; is now running in Safe Mode, which temporarily disables your custom settings, themes, and extensions.">
 
 <!ENTITY safeModeDescription.label    "Mae &brandShortName; yn rhedeg yn y Modd Diogel, sy'n anablu dros dro eich gosodiadau cyfaddas personol, themâu ac estyniadau.">
 <!ENTITY safeModeDescription2.label   "Mae modd gwneud rhai neu'r holl newidiadau'n rhai parhaol:">

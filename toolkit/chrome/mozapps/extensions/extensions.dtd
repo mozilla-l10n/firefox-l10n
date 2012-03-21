@@ -29,8 +29,8 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "Galluogi gwirio diogelwch diweddariad ychwanegyn">
 
 <!-- global informations -->
-<!ENTITY info.plugincheck.label                 "Gwirio os yw eich ychwanegion yn rhai diweddar">
-<!ENTITY info.plugincheck.tooltip               "Gwirio os yw eich ychwanegion yn rhai diweddar">
+<!ENTITY info.plugincheck.label                 "Gwirio os yw eich ategion yn rhai diweddar">
+<!ENTITY info.plugincheck.tooltip               "Gwirio os yw eich ategion yn rhai diweddar">
 
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Chwilio">
@@ -46,7 +46,7 @@
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
      checking. -->
-<!ENTITY updates.updateAddonsAutomatically.label     "Diweddaru Ategion yn Awtomatig">
+<!ENTITY updates.updateAddonsAutomatically.label     "Diweddaru Ychwanegion yn Awtomatig">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "A">
 <!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
      Specific addons can have custom update checking behaviors ("Manually",
@@ -54,9 +54,9 @@
      update checking behavior for all add-ons to the default global behavior
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
-<!ENTITY updates.resetUpdatesToAutomatic.label       "Ailosod Pob Ategyn i'w Diweddaru'n Awtomatig">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Ailosod Pob Ychwanegyn i'w Diweddaru'n Awtomatig">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "P">
-<!ENTITY updates.resetUpdatesToManual.label          "Ailosod Pob Ategyn i Ddiweddaru gyda Llaw">
+<!ENTITY updates.resetUpdatesToManual.label          "Ailosod Pob Ychwanegyn i Ddiweddaru gyda Llaw">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "L">
 <!ENTITY updates.updating.label               "Diweddaru ychwanegion">
 <!ENTITY updates.installed.label              "Mae eich ychwanegion wedi eu diweddaru.">
@@ -68,7 +68,7 @@
 <!ENTITY updates.updateSelected.tooltip       "Gosod diweddariadau sydd ar gael o'r rhestr">
 
 <!-- addon actions -->
-<!ENTITY cmd.showDetails.label                "Dangos Mwy o Wybodaeth">
+<!ENTITY cmd.showDetails.label                "Dangos Rhagor o Wybodaeth">
 <!ENTITY cmd.showDetails.accesskey            "D">
 <!ENTITY cmd.findUpdates.label                "Canfod Diweddariadau">
 <!ENTITY cmd.findUpdates.accesskey            "C">
@@ -121,7 +121,7 @@
 <!ENTITY detail.homepage.label                "Tudalen Cartref">
 <!ENTITY detail.numberOfDownloads.label       "Llwythi">
 
-<!ENTITY detail.contributions.description     "Mae datblygwr yr ategyn yn gofyn eich bod yn cynorthwyo i gefnogi datblygiad drwy wneud cyfraniad bychan.">
+<!ENTITY detail.contributions.description     "Mae datblygwr yr ychwanegyn yn gofyn eich bod yn cynorthwyo i gefnogi datblygiad drwy wneud cyfraniad bychan.">
 
 <!ENTITY detail.updateType                    "Diweddariadau Awtomatig">
 <!ENTITY detail.updateDefault.label           "Rhagosodedig">
@@ -185,18 +185,18 @@
 <!ENTITY addon.undoAction.label               "Dadwneud">
 <!ENTITY addon.undoAction.tooltip             "Dadwneud y weithred">
 <!ENTITY addon.undoRemove.label               "Dadwneud">
-<!ENTITY addon.undoRemove.tooltip             "Cadw'r ategyn wedi ei osod">
+<!ENTITY addon.undoRemove.tooltip             "Cadw'r ychwanegyn wedi ei osod">
 <!ENTITY addon.restartNow.label               "Ailgychwyn nawr">
 <!ENTITY addon.install.label                  "Gosod">
-<!ENTITY addon.install.tooltip                "Gosod yr ategyn yma">
+<!ENTITY addon.install.tooltip                "Gosod yr ychwanegyn yma">
 <!ENTITY addon.updateNow.label                "Diweddaru Nawr">
-<!ENTITY addon.updateNow.tooltip              "Gosod diweddariad yr ategyn yma">
+<!ENTITY addon.updateNow.tooltip              "Gosod diweddariad yr ychwanegyn yma">
 <!ENTITY addon.includeUpdate.label            "Cynnwys yn y Diweddariad">
 <!ENTITY addon.updateAvailable.label          "Mae diweddariad ar gael">
 <!ENTITY addon.checkingForUpdates.label       "Gwirio am ddiweddariadau...">
 <!ENTITY addon.releaseNotes.label             "Nodiadau Ryddhau:">
 <!ENTITY addon.loadingReleaseNotes.label      "Llwytho...">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Ymddiheuriadau, bu gwall wrth lwytho'r nodiadau ryddhau.">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Sorry, but there was an error loading the release notes.">
 
 <!ENTITY addon.createdBy.label                "Gan ">
 
