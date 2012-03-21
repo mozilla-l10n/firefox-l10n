@@ -1,67 +1,93 @@
-<!ENTITY updateWizard.title "Kemaskinian Perisian">
-<!ENTITY window.width "36em">
-<!ENTITY window.macWidth "39em">
-<!ENTITY checking.title "Memeriksa Kemaskinian">
-<!ENTITY checking.label "&brandShortName; kini memeriksa kemaskinian...">
-<!ENTITY cancel.label "Batal">
-<!ENTITY cancel.accesskey "C">
-<!ENTITY noupdatesfound.title "Tiada Kemaskinian Ditemui">
-<!ENTITY noupdatesfound.intro "Tidak terdapat kemaskinian baru. &brandShortName; akan memeriksa
+<!ENTITY  updateWizard.title              "Kemaskinian Perisian">
 
-kemaskinian baru secara berkala.">
-<!ENTITY updatesfound.title "Kemaskinian Wujud">
-<!ENTITY moreDetails.label "Perincian Lanjut »">
-<!ENTITY moreDetails.accesskey "M">
-<!ENTITY clickHere.label "Lihat maklumat lanjut perihal kemaskinian ini">
-<!ENTITY incompatible.warning "Kemaskinian ini akan mengakibatkan beberapa sambungan dan/atau tema anda
-					berhenti berfungsi sehingga ianya dikemaskini.">
-<!ENTITY listIncompatible.label "Tunjuk Senarai">
-<!ENTITY listIncompatible.accesskey "L">
-<!ENTITY upgrade.evangelism "Adalah sangat dicadangkan untuk anda menaiktaraf &brandShortName; 
-                                           secepat mungkin.">
-<!ENTITY license.title "Lesen Perjanjian">
-<!ENTITY license.intro "Untuk memasang kemaskinian ini anda mesti setuju dengan lesen perjanjian.
-					    Sila baca dengan cermat.">
-<!ENTITY license.instructions "Jika anda setuju kepada terma perjanjian ini, klik Saya Setuju 
+<!ENTITY  checking.title                  "Memeriksa Kemaskinian">
+<!ENTITY  updateCheck.label               "Looking for newer versions of &brandShortName;…">
+
+<!ENTITY  pluginupdatesfound.title        "Found Updates for Plugins">
+<!ENTITY  pluginupdatesfound.label        "Newer versions of one or more of your plugins were found.">
+<!ENTITY  pluginupdateslink.label         "Lihat bagaimana untuk menaiktarafkan plugin anda.">
+
+<!ENTITY  noupdatesfound.title            "Tiada Kemaskinian Ditemui">
+<!ENTITY  noupdatesautoenabled.intro      "There are no updates available. &brandShortName; will check
+                                           periodically for updates.">
+<!ENTITY  noupdatesautodisabled.intro     "There are no updates available. Please check again later or enable
+                                           &brandShortName;'s automatic update checking.">
+
+<!ENTITY  manualUpdate.title              "Kemaskini tidak boleh dilakukan">
+<!ENTITY  manualUpdate.desc               "A recommended security and stability update is available, but you do
+                                           not have the system permissions required to install it. Please contact your
+                                           system administrator, or try again from an account that has permission to
+                                           install software on this computer.">
+<!ENTITY  manualUpdate.space.desc         "A recommended security and stability update is available, but you do
+                                           not have enough space to install it.">
+<!ENTITY  manualUpdateGetMsg.label        "You can always get the latest version of &brandShortName; at:">
+
+<!ENTITY  incompatibleCheck.title         "Memeriksa kesesuaian Add-on">
+<!ENTITY  incompatibleCheck.label         "Sedang mencari versi yang lebih baru untuk add-on anda... ">
+
+<!ENTITY  clickHere.label                 "Lihat maklumat lanjut perihal kemaskinian ini">
+
+<!ENTITY  evangelism.desc                 "It is strongly recommended that you apply this 
+                                           update for &brandShortName; as soon as possible.">
+
+<!ENTITY  license.instructions            "Jika anda setuju kepada terma perjanjian ini, klik Saya Setuju 
                                           di bawah untuk sambung pemasangan kemaskini ini.">
-<!ENTITY license.titleText "Penjanjian Lesen Perisian">
-<!ENTITY license.introText "Terma dan keadaan untuk menggunakan perisian ini.">
-<!ENTITY license.instructionText "Sila baca perjanjian lesen berikut. Guna bar skrol untuk melihat lain-lain perjanjian ini.">
-<!ENTITY license.accept "Saya terima terma Perjanjian Lesen">
-<!ENTITY license.accept.accesskey "c">
-<!ENTITY license.decline "Saya TIDAK terima terma Perjanjian Lesen">
-<!ENTITY license.decline.accesskey "T">
-<!ENTITY downloading.title "Memuaturun Kemaskinian">
-<!ENTITY downloading.intro "Memuaturun kemaskinian...">
-<!ENTITY connecting.label "Menyambung kepada pelayan kemaskinian...">
-<!ENTITY verificationFailedText.label "&brandShortName; telah gagal mengesahkan intergriti 
+
+<!ENTITY  license.titleText               "Penjanjian Lesen Perisian">
+<!ENTITY  license.introText               "Terma dan keadaan untuk menggunakan perisian ini.">
+<!ENTITY  license.instructionText         "Sila baca perjanjian lesen berikut. Guna bar skrol untuk melihat lain-lain perjanjian ini.">
+<!ENTITY  license.accept                  "Saya terima terma Perjanjian Lesen">
+<!ENTITY  license.accept.accesskey        "c">
+<!ENTITY  license.decline                 "Saya TIDAK terima terma Perjanjian Lesen">
+<!ENTITY  license.decline.accesskey       "T">
+
+<!ENTITY  incompatibleList.title          "Incompatible Add-ons Found">
+
+<!ENTITY  downloadPage.title              "Memuat turun &brandShortName;">
+<!ENTITY  downloading.intro               "Memuaturun kemaskinian...">
+<!ENTITY  connecting.label                "Menyambung kepada pelayan kemaskinian...">
+<!ENTITY  verificationFailedText.label    "&brandShortName; telah gagal mengesahkan intergriti 
                                          tokokan kemaskinian yang dimuaturunnya, jadi sekarang ia memuaturun
 					 pakej kemaskinian lengkap.">
-<!ENTITY details.link "Perincian">
-<!ENTITY pause.label "Jeda">
-<!ENTITY pause.accesskey "e">
-<!ENTITY close.label "Tutup">
-<!ENTITY close.accesskey "C">
-<!ENTITY error.label "Terdapat masalah dalam memeriksa, muaturun atau memasang kemaskinian
+
+<!ENTITY  viewDetails.tooltip             "Papar lebih maklumat untuk kemaskini ini">
+
+<!ENTITY  details.link                    "Perincian">
+
+<!ENTITY  error.title                     "Kemaskini Gagal">
+
+<!ENTITY  error.label                     "Terdapat masalah dalam memeriksa, muaturun atau memasang kemaskinian
 					ini. &brandShortName; tidak dapat dikemaskini disebabkan: ">
-<!ENTITY errorManual.label "Anda boleh kemaskini manual &brandShortName; dengan melawati pautan ini
+                                           
+<!ENTITY  errorManual.label               "Anda boleh kemaskini manual &brandShortName; dengan melawati pautan ini
                                            dan muaturun versi terkini:">
-<!ENTITY errorpatching.title "Kemaskinian Gagal">
-<!ENTITY errorpatching.intro "Sebahagian Kemaskinian tidak dapat diterapkan. 
+                                           
+<!ENTITY  errorpatching.intro             "Sebahagian Kemaskinian tidak dapat diterapkan. 
                                            &brandShortName; akan mencuba lagi dengan memuaturun Kemaskinian lengkap.">
-<!ENTITY finished.title "Kemaskinian Dimuaturun">
-<!ENTITY finished.text "Kemaskinian telah berjaya dimuaturun dan disahkan, dan ia akan
-                                          dipasang selepas ini bila &brandShortName; dimulakan.">
-<!ENTITY finishedBackground.title "Kemaskinian Sedia untuk Dipasang">
-<!ENTITY finishedBackground.text "&brandShortName; telah memuaturun dan mengesahkan kemaskinian penting. 
-                                           Klik pautan di bawah untuk maklumat lanjut.">
-<!ENTITY finishedBackground.name "Kemaskini:">
-<!ENTITY finishedBackground.more1 "Klik Mula Semula &brandShortName; Sekarang untuk memasang kemaskinian sekarang.">
-<!ENTITY finishedBackground.more2 "Klik Kemudia untuk menutup dialog dan sambung bekerja. &brandShortName;
-                                           akan memasang kemaskinian selepas ia dimulakan.">
-<!ENTITY installed.title "Kemaskinian Dipasang">
-<!ENTITY installed.intro "Kemaskinian telah berjaya dipasang.">
-<!ENTITY whatsnew.label "Baca lagi perihal apa yang baru...">
-<!ENTITY update.details.label "Perincian">
-<!ENTITY update.installedOn.label "Dipasang pada:">
-<!ENTITY update.status.label "Status:">
+
+<!ENTITY  genericBackgroundError.label    "&brandShortName; is unable to determine if there is an update available. Please
+                                           make sure that you have the latest version of &brandShortName; from:">
+<!ENTITY  errorCertAttrNoUpdate2.label    "Something is preventing &brandShortName; from updating securely.
+                                           Please make sure that you have the latest version of &brandShortName; from:">
+<!ENTITY  errorCertAttrHasUpdate.label    "Something is trying to trick &brandShortName; into accepting an
+                                           insecure update. Please contact your network provider and seek help.">
+
+<!ENTITY  finishedPage.title              "Kemaskini sedia untuk dipasangkan">
+<!ENTITY  finishedPage.text               "The update will be installed the next time &brandShortName; starts. You 
+                                           can restart &brandShortName; now, or continue working and restart later.">
+
+<!ENTITY  finishedBackgroundPage.text     "A security and stability update for &brandShortName; has been
+                                           downloaded and is ready to be installed.">
+<!ENTITY  finishedBackground.name         "Kemaskini:">
+<!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
+<!ENTITY  finishedBackground.more         "The update will be installed the next time &brandShortName; starts. You
+                                           can restart &brandShortName; now, or continue working and restart later.">
+
+<!ENTITY  installed.title                 "Kemaskinian Dipasang">
+<!ENTITY  installed.intro                 "Kemaskinian telah berjaya dipasang.">
+<!ENTITY  whatsnew.label                  "Baca lagi perihal apa yang baru...">
+
+<!ENTITY  update.details.label            "Perincian">
+<!ENTITY  update.installedOn.label        "Dipasang pada:">
+<!ENTITY  update.status.label             "Status:">
+

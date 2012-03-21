@@ -1,59 +1,70 @@
-<!ENTITY fontsDialog.title "Font">
-<!ENTITY window.width "39em">
-<!ENTITY window.macWidth "43em">
-<!ENTITY window.unixWidth "41em">
-<!ENTITY language.label "Font untuk:">
-<!ENTITY language.accesskey "F">
-<!ENTITY size.label "Saiz:">
-<!ENTITY size.accesskey1 "z">
-<!ENTITY size.accesskey2 "e">
-<!ENTITY proportional.label "Berkadaran:">
-<!ENTITY proportional.accesskey "K">
-<!ENTITY serif.label "Serif:">
-<!ENTITY serif.accesskey "S">
-<!ENTITY sans-serif.label "Sans-serif:">
-<!ENTITY sans-serif.accesskey "n">
-<!ENTITY monospace.label "Monospace:">
-<!ENTITY monospace.accesskey "M">
-<!ENTITY fantasy.label "Fantasi:">
-<!ENTITY fantasy.accesskey "F">
-<!ENTITY cursive.label "Kursif:">
-<!ENTITY cursive.accesskey "u">
-<!ENTITY fontsize.units "piksel">
-<!ENTITY font.langGroup.latin1 "Western">
-<!ENTITY font.langGroup.latin2 "Central European">
-<!ENTITY font.langGroup.japanese "Jepun">
-<!ENTITY font.langGroup.trad-chinese "China Tradisional (Taiwan)">
-<!ENTITY font.langGroup.simpl-chinese "China Dipermudah">
-<!ENTITY font.langGroup.trad-chinese-hk "China Tradisional (Hong Kong)">
-<!ENTITY font.langGroup.korean "Korea">
-<!ENTITY font.langGroup.cyrillic "Cyrillic">
-<!ENTITY font.langGroup.baltic "Baltic">
-<!ENTITY font.langGroup.el "Greek">
-<!ENTITY font.langGroup.turkish "Turkish">
-<!ENTITY font.langGroup.unicode "Bahasa Lain">
-<!ENTITY font.langGroup.user-def "Ditentukan Pengguna">
-<!ENTITY font.langGroup.thai "Thai">
-<!ENTITY font.langGroup.hebrew "Hebrew">
-<!ENTITY font.langGroup.arabic "Arab">
-<!ENTITY font.langGroup.devanagari "Devanagari">
-<!ENTITY font.langGroup.tamil "Tamil">
-<!ENTITY font.langGroup.armenian "Armenian">
-<!ENTITY font.langGroup.bengali "Bengali">
-<!ENTITY font.langGroup.canadian "Unified Canadian Syllabary">
-<!ENTITY font.langGroup.ethiopic "Ethiopic">
-<!ENTITY font.langGroup.georgian "Georgian">
-<!ENTITY font.langGroup.gujarati "Gujarati">
-<!ENTITY font.langGroup.gurmukhi "Gurmukhi">
-<!ENTITY font.langGroup.khmer "Khmer">
-<!ENTITY font.langGroup.malayalam "Malayalam">
-<!ENTITY minSize.label "Saiz font minima:">
-<!ENTITY minSize.accesskey "o">
-<!ENTITY minSize.none "Tiada">
-<!ENTITY useDefaultFontSerif.label "Serif">
-<!ENTITY useDefaultFontSansSerif.label "Sans Serif">
-<!ENTITY allowPagesToUse.label "Benarkan laman untuk memilih fontnya, bukannya pilihan saya di atas">
-<!ENTITY allowPagesToUse.accesskey "B">
-<!ENTITY languages.customize.Charset.grouplabel "Mengkod Aksara">
-<!ENTITY languages.customize.DefaultCharset.label "Mengkod Aksara Default:">
-<!ENTITY languages.customize.DefaultCharset.accesskey "M">
+<!ENTITY  fontsDialog.title                       "Mukataip">
+<!ENTITY  window.width                            "39em">
+<!ENTITY  window.macWidth                         "43em">
+<!ENTITY  window.unixWidth                        "41em">
+
+<!ENTITY  language.label                          "Font untuk:">
+<!ENTITY  language.accesskey                      "F">
+
+<!ENTITY  size.label                              "Saiz:">
+<!ENTITY  sizeProportional.accesskey              "z">
+<!ENTITY  sizeMonospace.accesskey                 "e">
+
+<!ENTITY  proportional.label                      "Berkadaran:">
+<!ENTITY  proportional.accesskey                  "K">
+
+<!ENTITY  serif.label                             "Serif:">
+<!ENTITY  serif.accesskey                         "S">
+<!ENTITY  sans-serif.label                        "Sans-serif:">
+<!ENTITY  sans-serif.accesskey                    "n">
+<!ENTITY  monospace.label                         "Monospace:">
+<!ENTITY  monospace.accesskey                     "M">
+
+<!ENTITY  font.langGroup.latin1                   "Western">
+<!ENTITY  font.langGroup.latin2                   "Eropah Tengah">
+<!ENTITY  font.langGroup.japanese                 "Jepun">
+<!ENTITY  font.langGroup.trad-chinese             "Cina Tradisional (Taiwan)">
+<!ENTITY  font.langGroup.simpl-chinese            "Cina Dipermudah">
+<!ENTITY  font.langGroup.trad-chinese-hk          "Cina Tradisional (Hong Kong)">
+<!ENTITY  font.langGroup.korean                   "Korea">
+<!ENTITY  font.langGroup.cyrillic                 "Cyril">
+<!ENTITY  font.langGroup.baltic                   "Baltik">
+<!ENTITY  font.langGroup.el                       "Yunani">
+<!ENTITY  font.langGroup.turkish                  "Turki">
+<!ENTITY  font.langGroup.unicode                  "bahasa yang lain">
+<!ENTITY  font.langGroup.user-def                 "Pengguna Ditakrifkan">
+<!ENTITY  font.langGroup.thai                     "Thai">
+<!ENTITY  font.langGroup.hebrew                   "Ibrani">
+<!ENTITY  font.langGroup.arabic                   "Arab">
+<!ENTITY  font.langGroup.devanagari               "Devanagari">
+<!ENTITY  font.langGroup.tamil                    "Tamil">
+<!ENTITY  font.langGroup.armenian                 "Armenia">
+<!ENTITY  font.langGroup.bengali                  "Bengali">
+<!ENTITY  font.langGroup.canadian                 "Ejaan sukuan Kanada Bersatu">
+<!ENTITY  font.langGroup.ethiopic                 "Ethiopic">
+<!ENTITY  font.langGroup.georgian                 "Georgian">
+<!ENTITY  font.langGroup.gujarati                 "Gujarati">
+<!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
+<!ENTITY  font.langGroup.khmer                    "Khmer">
+<!ENTITY  font.langGroup.malayalam                "Malayalam">
+<!ENTITY  font.langGroup.oriya                    "Oriya">
+<!ENTITY  font.langGroup.telugu                   "Telugu">
+<!ENTITY  font.langGroup.kannada                  "Kannada">
+<!ENTITY  font.langGroup.sinhala                  "Sinhala">
+<!ENTITY  font.langGroup.tibetan                  "Tibet">
+<!-- Minimum font size -->
+<!ENTITY minSize.label                            "Saiz font minima:">
+<!ENTITY minSize.accesskey                        "o">
+<!ENTITY minSize.none                             "tiada">
+
+<!-- default font type -->
+<!ENTITY  useDefaultFontSerif.label               "Serif">
+<!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
+
+<!ENTITY  allowPagesToUse.label                   "Benarkan laman untuk memilih fontnya, bukannya pilihan saya di atas">
+<!ENTITY  allowPagesToUse.accesskey               "B">
+
+<!ENTITY languages.customize.Charset.grouplabel         "Pengekodan Aksara">
+<!ENTITY languages.customize.DefaultCharset.label       "Mengkod Aksara Default:">
+<!ENTITY languages.customize.DefaultCharset.accesskey   "M">
+

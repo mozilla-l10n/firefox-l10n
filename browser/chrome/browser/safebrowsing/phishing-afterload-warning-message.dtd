@@ -1,20 +1,27 @@
-<!ENTITY safeb.palm.warning.title "Dicurigai Web Palsu">
-<!ENTITY safeb.palm.message.p1 "Laman ini telah dilaporkan sebagai web palsu yang diipta untuk mengaburi pengguna untuk berkongsi maklumat peribadi awau kewangan. Memasukkan sebarang maklumat persibadi pada laman ini akan mendatangkan keurian identiti atau penipuan lain.">
-<!ENTITY safeb.palm.message.p1.linkText "Baca Lagi »">
-<!ENTITY safeb.palm.p1.linkStatusText "Baca Lagi ">
-<!ENTITY safeb.palm.message.p2.start "Jenis kepalsuan web ini digunakan dalam penipuan dikenali sebagai serangan phising, yang mana laman web dan emel yang curang digunakan untuk meniru sumber yang anda percayai. Anda boleh menemui lanjutan tentang">
+<!ENTITY safeb.palm.warning.title "Pemalsuan Web Disyaki">
+
+<!ENTITY safeb.palm.message.p1 "Laman Web ini telah dilaporkan sebagai pemalsuan web yang direka untuk menipu pelayar berkongsi maklumat peribadi atau kewangan. Memasukkan sebarang maklumat peribadi ke dalam laman ini mungkin mengakibatkan kecurian identiti atau penipuan yang lain. &#160;">
+<!ENTITY safeb.palm.message.p1.linkText "Baca seterusnya &#187;">
+<!ENTITY safeb.palm.p1.linkStatusText "Baca seterusnya &#133;">
+
+<!ENTITY safeb.palm.message.p2.start "Pemalsuan Laman Web seperti ini dikenali sebagai serangan 'phishing', di mana laman web palsu dan email digunakan untuk memalsukan sumber yang anda mungkin percaya. Anda boleh mendapat maklumat lanjut tentang ini ">
 <!ENTITY safeb.palm.message.p2.linkText "bagaimana &brandShortName; melindungi anda">
-<!ENTITY safeb.palm.message.p2.end " daripada serangan phising.">
-<!ENTITY safeb.palm.accept.label "Keluarkan saya dari sini!">
-<!ENTITY safeb.palm.accept.statustext "Layari laman utama saya">
+<!ENTITY safeb.palm.message.p2.end " daripada serangan 'phishing'.">
+
+<!ENTITY safeb.palm.accept.label "Keluarkan saya daripada sini!">
+<!ENTITY safeb.palm.accept.statustext "Pergi laman utama">
 <!ENTITY safeb.palm.decline.label "Abaikan amaran ini">
-<!ENTITY safeb.palm.decline.statustext "Tutup amaran">
-<!ENTITY safeb.palm.notforgery.label "Ini bukannya pemalsuan web">
-<!ENTITY safeb.palm.addbutton.label "Tambah ke senarai hitam">
-<!ENTITY safeb.palm.addbutton.tooltip "Tambah ke senarai hitam">
-<!ENTITY safeb.palm.toolmenu.label "Pelungsuran Selamat">
-<!ENTITY safeb.palm.toolmenu.pref.label "Keutamaan...">
-<!ENTITY safeb.palm.toolmenu.reportphishing.label "Laporkan phising...">
-<!ENTITY safeb.palm.toolmenu.showphishingtestpage.label "Buka Laman Ujian">
-<!ENTITY safeb.palm.provider.logo.tooltip "Amaran dari Pelungsuran Selamat">
-<!ENTITY safeb.urlbaricon.tooltip "Laman ini mungkin membahayakan; klik untuk perincian.">
+<!ENTITY safeb.palm.decline.statustext "Tutup amaran" >
+<!ENTITY safeb.palm.notforgery.label2 "Ini bukan pemalsuan laman">
+<!ENTITY safeb.palm.reportPage.label "Mengapa halaman ini dihalang?">
+
+<!ENTITY safeb.blocked.malwarePage.title "Laman Web Serangan Dilaporkan!">
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.malwarePage.shortDesc "Laman web di <span id='malware_sitename'/> telah dilaporkan sebagai laman web serangan dan telah dihalangkan berdasarkan tetapan sekuriti anda.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Halaman serangan cuba untuk memasang perisian yang mencuri maklumat peribadi, mengguna komputer anda untuk menyerang yang lain, atau merosakkan sistem anda.</p><p>Sebahagian halaman serangan secara sengaja menyebarkan perisian merbahaya, tetapi banyak berlaku tanpa pengetahuan dan keizinan pemiliknya.</p>">
+
+<!ENTITY safeb.blocked.phishingPage.title "Pemalsuan laman dilaporkan!">
+<!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishingPage.shortDesc "Laman web di <span id='phishing_sitename'/> telah dilaporkan sebagai laman web palsu dan telah dihalang berdasarkan tetapan sekuriti anda.">
+<!ENTITY safeb.blocked.phishingPage.longDesc "<p>Pemalsuan web adalah direka untuk menjerat anda bagi mendedahkan maklumat peribadi atau maklumat kewangan dengan meniru sumber yang anda percaya.</p><p>Segala maklumat yang dimasukkan ke dalam halaman ini boleh menyebabkan kecurian identiti atau lain-lain masalah.</p>">
+

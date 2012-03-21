@@ -1,0 +1,6 @@
+<!ENTITY window.emWidth "26em">
+<!ENTITY window.emHeight "26em">
+<!ENTITY ChooseApp.description "Pilih satu Aplikasi">
+<!ENTITY ChooseApp.label "Pilih…">
+<!ENTITY ChooseApp.accessKey "P">
+

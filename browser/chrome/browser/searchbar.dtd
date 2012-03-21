@@ -1,3 +1,3 @@
-<!ENTITY cmd_engineManager.label "Urus Enjin Carian...">
-<!ENTITY cmd_engineManager.accesskey "U">
-<!ENTITY searchEndCap.label "Cari">
+<!ENTITY cmd_engineManager.label        "menguruskan enjin carian">
+<!ENTITY searchEndCap.label             "Carian">
+

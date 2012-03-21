@@ -1,0 +1,25 @@
+<!ENTITY privatebrowsingpage.title                 "Melungsur Secara Peribadi">
+<!ENTITY privatebrowsingpage.title.normal          "Mahukah anda bermula dengan Pelungsuran Secara Peribadi?">
+
+<!ENTITY privatebrowsingpage.issueDesc                 "&brandShortName; tidak akan menyimpan sejarah sesi ini.">
+<!ENTITY privatebrowsingpage.issueDesc.normal          "&brandShortName; bukan di dalam mod Pelungsuran Peribadi.">
+
+<!ENTITY privatebrowsingpage.description               "Di dalam sesi Pelungsuran Peribadi, &brandShortName; tidak akan meyimpan sebarang sejarah pelungsur, sejarah carian, sejarah muaturun, sejarah borang web, atau fail-fail sementara internet. Bagaimanapun, fail-fail yang anda muaturun dan penandabuku-penandabuku yang anda buat akan disimpan.">
+
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryBefore): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.clearRecentHistoryAfter): include a starting space as needed -->
+<!ENTITY privatebrowsingpage.clearRecentHistoryBefore  "Anda mungkin juga ingin bermula dengan ">
+<!ENTITY privatebrowsingpage.clearRecentHistoryInner   "Hapuskan latar semasa anda">
+<!ENTITY privatebrowsingpage.clearRecentHistoryAfter   ".">
+
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.label "Mulakan Pelayaran Peribadi">
+<!ENTITY privatebrowsingpage.startPrivateBrowsing.accesskey "P">
+
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStop2): please leave &basePBMenu.label; intact in the translation -->
+<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart2): please leave &basePBMenu.label; intact in the translation -->
+<!ENTITY privatebrowsingpage.howToStop2                "Untuk berhenti melayari, pilih select &basePBMenu.label; &gt; &privateBrowsingCmd.stop.label;, atau tutup close &brandShortName;.">
+<!ENTITY privatebrowsingpage.howToStart2               "Untuk memulakan Pelayaran Peribadi, anda juga boleh memilih &basePBMenu.label; &gt; &privateBrowsingCmd.start.label;.">
+
+<!ENTITY privatebrowsingpage.moreInfo                  "Semasa komputer ini tidak mempunyai satu rekod daripada latar melayari, servis internet anda atau majikan masih boleh menjejak laman yang anda layari.">
+<!ENTITY privatebrowsingpage.learnMore                 "Ketahui Lanjut">
+

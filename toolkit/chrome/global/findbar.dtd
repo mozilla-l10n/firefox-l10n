@@ -1,5 +1,9 @@
-<!ENTITY next.label "Berikut">
-<!ENTITY next.accesskey "B">
+<!-- LOCALIZATION NOTE : FILE This file contains the entities needed to -->
+<!-- LOCALIZATION NOTE : FILE use the Find Bar. --> 
+
+<!-- entities split out from browser.dtd -->
+<!ENTITY next.label "seterusnya">
+<!ENTITY next.accesskey "n">
 <!ENTITY next.tooltip "Cari teks frasa berkenaan yang berikut">
 <!ENTITY previous.label "Terdahulu">
 <!ENTITY previous.accesskey "T">
@@ -10,3 +14,4 @@
 <!ENTITY highlight.tooltiptext "Serlahkan semua frasa berkenaan">
 <!ENTITY caseSensitiveCheckbox.label "Sepadan kes">
 <!ENTITY caseSensitiveCheckbox.accesskey "S">
+

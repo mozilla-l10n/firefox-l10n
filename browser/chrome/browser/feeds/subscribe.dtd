@@ -1,10 +1,7 @@
-<!ENTITY feedPage.title "Melihat Suapan">
-<!ENTITY feedSubscriptionInfo1a "Ini adalah “">
-<!ENTITY feedName "suapan">
-<!ENTITY feedSubscriptionInfo1b "” yang kandungannya sentiasa bertukar pada laman ini.">
-<!ENTITY feedSubscriptionInfo2 "Anda boleh langgan suapan ini untuk menerima kemaskinian apabila kandungannya berubah.">
-<!ENTITY feedSubscribeNow "Langgan Sekarang">
-<!ENTITY subscribeUsing "Langgan kepada suapan ini menggunakan">
-<!ENTITY feedLiveBookmarks "Tandabuku Langsung">
-<!ENTITY error.title "Ralat Memproses Suapan">
-<!ENTITY error.message "Terdapat ralat memproses suapan ini. Ini adalah kesilapan kami. :-( Anda masih boleh melanggan kepada suapan jika anda tahu apakah itu. Untuk rujukan, ralat adalah:">
+<!ENTITY feedPage.title
+  "Suapan Tatapan">
+<!ENTITY feedSubscribeNow
+  "Langgan Sekarang">
+<!ENTITY feedLiveBookmarks
+  "Tanda buku Langsung">
+

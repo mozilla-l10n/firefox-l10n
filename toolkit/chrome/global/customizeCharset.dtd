@@ -1,3 +1,4 @@
+<!-- -*- Mode: HTML -*- -->
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -21,7 +22,6 @@
    - Contributor(s):
    -  Stephen Lamm <slamm@netscape.com>
    -  Pierre Chanial <p_ch@verizon.net>
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -36,14 +36,16 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY title.label "Penyesuaian Pengkodan Aksara">
-<!ENTITY current.label "Pengkodan Aksara Aktif:">
-<!ENTITY remove.label "Singkir">
-<!ENTITY remove.accessKey "R">
-<!ENTITY additional.label "Pengkodan Aksara Yang Ada:">
-<!ENTITY add.label "Tambah">
-<!ENTITY add.accessKey "T">
-<!ENTITY moveUp.label "Pindah Atas">
-<!ENTITY moveUp.accessKey "U">
-<!ENTITY moveDown.label "Pindah Bawah">
+
+<!ENTITY title.label        "Penyesuaian Pengkodan Aksara">
+<!ENTITY current.label      "Pengkodan Aksara Aktif:">
+<!ENTITY remove.label       "Singkir">
+<!ENTITY remove.accessKey   "R">
+<!ENTITY additional.label   "Pengkodan Aksara Yang Ada:">
+<!ENTITY add.label          "Tambah">
+<!ENTITY add.accessKey      "T">
+<!ENTITY moveUp.label       "Pindah Atas">
+<!ENTITY moveUp.accessKey   "U">
+<!ENTITY moveDown.label     "Pindah Bawah">
 <!ENTITY moveDown.accessKey "D">
+

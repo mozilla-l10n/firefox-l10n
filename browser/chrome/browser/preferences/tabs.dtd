@@ -1,15 +1,18 @@
-<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
-%brandDTD;
-<!ENTITY newPagesIn.label "Laman baru perlu dibuka di:">
-<!ENTITY inNewWindow.label "tetingkap baru">
-<!ENTITY inNewWindow.accesskey "n">
-<!ENTITY inNewTab.label "tab baru">
-<!ENTITY inNewTab.accesskey "t">
-<!ENTITY warnCloseMultipleTabs.label "Ingatkan saya apabila menutup beberapa tab">
-<!ENTITY warnCloseMultipleTabs.accesskey "m">
-<!ENTITY warnOpenManyTabs.label "Ingatkan saya apabila menutup beberapa tab akan melambatkan &brandShortName;">
-<!ENTITY warnOpenManyTabs.accesskey "b">
-<!ENTITY showTabBar.label "Sentiasa tunjuk bar tab">
-<!ENTITY showTabBar.accesskey "r">
-<!ENTITY switchToNewTabs.label "Apabila saya membuka pautan dalam tetingkap baru, tukar terus kepadanya">
-<!ENTITY switchToNewTabs.accesskey "s">
+<!ENTITY newWindowsAsTabs.label       "Buka tingkap dalam tab baru">
+<!ENTITY newWindowsAsTabs.accesskey   "t">
+
+<!ENTITY warnCloseMultipleTabs.label  "Ingatkan saya apabila menutup beberapa tab">
+<!ENTITY warnCloseMultipleTabs.accesskey  "m">
+
+<!ENTITY warnOpenManyTabs.label       "Ingatkan saya apabila menutup beberapa tab akan melambatkan &brandShortName;">
+<!ENTITY warnOpenManyTabs.accesskey   "b">
+
+<!ENTITY showTabBar.label             "Selalu tunjuk tab bar">
+<!ENTITY showTabBar.accesskey         "r">
+
+<!ENTITY switchToNewTabs.label        "Apabila saya membuka pautan dalam tetingkap baru, tukar terus kepadanya">
+<!ENTITY switchToNewTabs.accesskey    "s">
+
+<!ENTITY showTabsInTaskbar.label          "Pamer sampel tab dalam taskbar Windows">
+<!ENTITY showTabsInTaskbar.accesskey      "k">
+

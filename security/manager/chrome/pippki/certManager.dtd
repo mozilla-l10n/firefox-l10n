@@ -20,7 +20,6 @@
    -
    - Contributor(s):
    -   Ian McGreer <mcgreer@netscape.com>
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -35,79 +34,115 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY certmgr.title "Pengurus Sijil">
-<!ENTITY certmgr.tab.mine "Sijil Anda">
-<!ENTITY certmgr.tab.others "Orang Lain">
-<!ENTITY certmgr.tab.websites "Laman Web">
-<!ENTITY certmgr.tab.ca "Autoriti">
-<!ENTITY certmgr.ca.builtins "CA bina-dalam">
-<!ENTITY certmgr.ca.mycas "CA Diurus Oleh Anda">
-<!ENTITY certmgr.mine "Anda memiliki sijil daripada organisasi ini yang mengenali anda:">
-<!ENTITY certmgr.others "Anda memiliki sijil pada fail yang mengenal orang ini:">
-<!ENTITY certmgr.websites "Anda memiliki sijil pada fail yang mengenal laman web ini:">
-<!ENTITY certmgr.cas "Anda memiliki sijil pada fail yang mengenal autoriti sijil ini:">
-<!ENTITY certmgr.detail.general_tab.title "Am">
+
+<!ENTITY certmgr.title                       "Pengurus Sijil">
+
+<!ENTITY certmgr.tab.mine                     "Sijil Anda">
+<!ENTITY certmgr.tab.others2                  "Manusia">
+<!ENTITY certmgr.tab.websites3                "Pelayan">
+<!ENTITY certmgr.tab.ca                       "Autoriti">
+<!ENTITY certmgr.tab.orphan2                  "Lain-lain">
+
+<!ENTITY certmgr.ca.builtins                  "CA bina-dalam">
+<!ENTITY certmgr.ca.mycas                     "CA Diurus Oleh Anda">
+
+<!ENTITY certmgr.mine                         "Anda memiliki sijil daripada organisasi ini yang mengenali anda:">
+<!ENTITY certmgr.others                       "Anda memiliki sijil pada fail yang mengenal orang ini:">
+<!ENTITY certmgr.websites2                    "You have certificates on file that identify these servers:">
+<!ENTITY certmgr.cas                          "Anda memiliki sijil pada fail yang mengenal autoriti sijil ini:">
+<!ENTITY certmgr.orphans                      "You have certificates on file that do not fit in any of the other categories:">
+
+<!ENTITY certmgr.detail.general_tab.title     "Am">
+<!ENTITY certmgr.detail.general_tab.accesskey "G">
 <!ENTITY certmgr.detail.prettyprint_tab.title "Perincian">
-<!ENTITY certmgr.subjectinfo.label "Dikeluarkan Untuk">
-<!ENTITY certmgr.issuerinfo.label "Dikeluarkan Oleh">
-<!ENTITY certmgr.validity.label "Kesahihan">
-<!ENTITY certmgr.fingerprints.label "Cap-jari">
-<!ENTITY certmgr.certdetail.title "Perincian Sijil">
-<!ENTITY certmgr.certdetail.cn "Nama Biasa (CN)">
-<!ENTITY certmgr.certdetail.o "Organisasi (0)">
-<!ENTITY certmgr.certdetail.ou "Unit Organisasi (OU)">
-<!ENTITY certmgr.certdetail.serialnumber "Nombor Siri">
-<!ENTITY certmgr.certdetail.sha1fingerprint "Cap jari SHA1">
-<!ENTITY certmgr.certdetail.md5fingerprint "Capjari MD5">
-<!ENTITY certmgr.editcert.title "Edit Tetapan Sijil Sekuriti">
-<!ENTITY certmgr.editcacert.title "Edit tetapan sijil CA dipercaya">
-<!ENTITY certmgr.editsslcert.title "Edit tetapan sijil mana web dipercaya">
-<!ENTITY certmgr.editcert.edittrust "Edit tetapan dipercaya:">
-<!ENTITY certmgr.editcert.trustssl "Sijil ini boleh mengenali laman web.">
-<!ENTITY certmgr.editcert.trustemail "Sijil boleh mengenal pengguna emel.">
-<!ENTITY certmgr.editcert.trustobjsign "Sijil boleh mengenal penipta perisian.">
-<!ENTITY certmgr.editsslcert.edittrust "Edit penetapan sijil dipercaya:">
-<!ENTITY certmgr.editsslcert.dotrust "Percaya pembuktian sijil ini.">
-<!ENTITY certmgr.editsslcert.donttrust "Jangan percaya pembuktian sijil ini.">
-<!ENTITY certmgr.editemailcert.title "Edit tetapan sijil emel dipercaya">
-<!ENTITY certmgr.editemailcert.edittrust "Edit penetapan sijil dipercaya:">
-<!ENTITY certmgr.editemailcert.dotrust "Percaya pembuktian sijil ini.">
-<!ENTITY certmgr.editemailcert.donttrust "Jangan percaya pembuktian sijil ini.">
-<!ENTITY certmgr.deletecert.title "Padam Sijil">
-<!ENTITY certmgr.deletecert.beforename "Anda boleh memohon untuk memadam sijil ini:">
-<!ENTITY certmgr.deletecert.aftername "Adakah anda pasti yang anda ingin memadam sijil ini?">
-<!ENTITY certmgr.deleteusercert.title "Padam Sijil Anda">
-<!ENTITY certmgr.deleteusercert.beforename "Anda boleh memohon untuk padam sijil:">
-<!ENTITY certmgr.deleteusercert.aftername "Sekali anda telah memadam sijil ini, anda tidak lagi dapat membaca mel yang telah disulitkan dengannya.">
-<!ENTITY certmgr.certname "Nama Sijil">
-<!ENTITY certmgr.tokenname "Peranti Sekuriti">
-<!ENTITY certmgr.purpose "Kegunaan">
-<!ENTITY certmgr.issued "Dikeluarkan Pada">
-<!ENTITY certmgr.expires "Luput Pada">
-<!ENTITY certmgr.email "Alamat E-Mel">
-<!ENTITY certmgr.serial "Nombor Siri">
-<!ENTITY certmgr.ocsp_info "Sijil telah disahkan dengan OCSP. Klik Lihat untuk melalukannya.">
-<!ENTITY certmgr.close.label "Tutup">
-<!ENTITY certmgr.close.accesskey "C">
-<!ENTITY certmgr.view.label "Lihat">
-<!ENTITY certmgr.view.accesskey "V">
-<!ENTITY certmgr.edit.label "">
-<!ENTITY certmgr.edit.accesskey "E">
-<!ENTITY certmgr.editca.label "Edit Percaya CA">
-<!ENTITY certmgr.editca.accesskey "d">
-<!ENTITY certmgr.add.label "Tambah">
-<!ENTITY certmgr.add.accesskey "A">
-<!ENTITY certmgr.delete.label "Hapus">
-<!ENTITY certmgr.delete.accesskey "D">
-<!ENTITY certmgr.backup.label "Sandaran">
-<!ENTITY certmgr.backup.accesskey "B">
-<!ENTITY certmgr.backupall.label "Sandar Semua">
-<!ENTITY certmgr.backupall.accesskey "k">
-<!ENTITY certmgr.restore.label "Import">
-<!ENTITY certmgr.restore.accesskey "m">
-<!ENTITY certmgr.details.label "Medan Sijil">
-<!ENTITY certmgr.details.accesskey "F">
-<!ENTITY certmgr.fields.label "Medan Nilai">
-<!ENTITY certmgr.fields.accesskey "V">
-<!ENTITY certmgr.hierarchy.label "Hirarki Sijil">
-<!ENTITY certmgr.hierarchy.accesskey "C">
+<!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
+
+<!ENTITY certmgr.pending.label                "Sijil sedang disahkan...">
+<!ENTITY certmgr.subjectinfo.label            "Dikeluarkan Untuk">
+<!ENTITY certmgr.issuerinfo.label             "Dikeluarkan Oleh">
+<!ENTITY certmgr.validity.label               "Kesahihan" >
+<!ENTITY certmgr.fingerprints.label           "Cap-jari">
+<!ENTITY certmgr.certdetail.title             "Perincian Sijil">
+<!ENTITY certmgr.certdetail.cn                "Nama Biasa (CN)">
+<!ENTITY certmgr.certdetail.o                 "Organisasi (0)">
+<!ENTITY certmgr.certdetail.ou                "Unit Organisasi (OU)">
+<!ENTITY certmgr.certdetail.serialnumber      "Nombor Siri">
+<!ENTITY certmgr.certdetail.sha1fingerprint   "Cap jari SHA1">
+<!ENTITY certmgr.certdetail.md5fingerprint    "Capjari MD5">
+
+<!ENTITY certmgr.editcert.title               "Edit Tetapan Sijil Sekuriti">
+<!ENTITY certmgr.editcacert.title             "Edit tetapan sijil CA dipercaya">
+<!ENTITY certmgr.editsslcert.title            "Edit web site certificate trust settings">
+<!ENTITY certmgr.editcert.edittrust           "Edit tetapan dipercaya:">
+<!ENTITY certmgr.editcert.trustssl            "This certificate can identify web sites.">
+<!ENTITY certmgr.editcert.trustemail          "Sijil boleh mengenal pengguna emel.">
+<!ENTITY certmgr.editcert.trustobjsign        "Sijil boleh mengenal penipta perisian.">
+<!ENTITY certmgr.editsslcert.edittrust        "Edit penetapan sijil dipercaya:">
+<!ENTITY certmgr.editsslcert.dotrust          "Percaya pembuktian sijil ini.">
+<!ENTITY certmgr.editsslcert.donttrust        "Jangan percaya pembuktian sijil ini.">
+<!ENTITY certmgr.editemailcert.title          "Edit tetapan sijil emel dipercaya">
+<!ENTITY certmgr.editemailcert.edittrust      "Edit penetapan sijil dipercaya:">
+<!ENTITY certmgr.editemailcert.dotrust        "Percaya pembuktian sijil ini.">
+<!ENTITY certmgr.editemailcert.donttrust      "Jangan percaya pembuktian sijil ini.">
+
+<!ENTITY certmgr.deletecert.title             "Padam Sijil">
+<!ENTITY certmgr.deletecert.beforename        "Anda boleh memohon untuk memadam sijil ini:">
+<!ENTITY certmgr.deletecert.aftername         "Adakah anda pasti yang anda ingin memadam sijil ini?">
+<!ENTITY certmgr.deleteusercert.title         "Padam Sijil Anda">
+<!ENTITY certmgr.deleteusercert.beforename    "Anda boleh memohon untuk padam sijil:">
+<!ENTITY certmgr.deleteusercert.aftername     "Sekali anda telah memadam sijil ini, anda tidak lagi dapat membaca mel yang telah disulitkan dengannya.">
+
+<!ENTITY certmgr.certname                     "Nama Sijil">
+<!ENTITY certmgr.certserver                   "Pelayan">
+<!ENTITY certmgr.override_lifetime            "Seumur hidup">
+<!ENTITY certmgr.tokenname                    "Peranti Sekuriti">
+<!ENTITY certmgr.issued                       "Dikeluarkan Pada">
+<!ENTITY certmgr.expires                      "Luput Pada">
+<!ENTITY certmgr.email                        "Alamat E-Mel">
+<!ENTITY certmgr.serial                       "Nombor Siri">
+
+<!ENTITY certmgr.close.label                  "Tutup">
+<!ENTITY certmgr.close.accesskey              "C">
+<!ENTITY certmgr.view2.label                  "Papar...">
+<!ENTITY certmgr.view2.accesskey              "P">
+<!ENTITY certmgr.edit3.label                  "Mengubahkan kepercayaan...">
+<!ENTITY certmgr.edit3.accesskey              "e">
+<!ENTITY certmgr.editca.label                 "Edit Percaya CA">
+<!ENTITY certmgr.editca.accesskey             "d">
+<!ENTITY certmgr.add.label                    "Tambah">
+<!ENTITY certmgr.add.accesskey                "A">
+<!ENTITY certmgr.export.label                 "Eksport…">
+<!ENTITY certmgr.export.accesskey             "E">
+<!ENTITY certmgr.delete2.label                "Hapus...">
+<!ENTITY certmgr.delete2.accesskey            "H">
+<!ENTITY certmgr.delete_builtin.label         "Menyingkirkan atau tidak mempercayai">
+<!ENTITY certmgr.delete_builtin.accesskey     "d">
+<!ENTITY certmgr.backup2.label                "Backup…">
+<!ENTITY certmgr.backup2.accesskey            "B">
+<!ENTITY certmgr.backupall2.label             "Backup Semua">
+<!ENTITY certmgr.backupall2.accesskey         "k">
+<!ENTITY certmgr.restore2.label               "Import…">
+<!ENTITY certmgr.restore2.accesskey           "m">
+<!ENTITY certmgr.details.label                "Medan Sijil">
+<!ENTITY certmgr.details.accesskey            "F">
+<!ENTITY certmgr.fields.label                 "Medan Nilai">
+<!ENTITY certmgr.fields.accesskey             "V">
+<!ENTITY certmgr.hierarchy.label              "Hirarki Sijil">
+<!ENTITY certmgr.hierarchy.accesskey          "C">
+<!ENTITY certmgr.addException.label           "Tambah Pengecualian...">
+<!ENTITY certmgr.addException.accesskey       "T">
+
+<!ENTITY exceptionMgr.title                   "Tambah Pengecualian Keselamatan">
+<!ENTITY exceptionMgr.exceptionButton.label   "Sahkan Pengecualian Keselamatan">
+<!ENTITY exceptionMgr.exceptionButton.accesskey "c">
+<!ENTITY exceptionMgr.supplementalWarning     "Bank-bank, kedai-kedai dan laman-laman awam yang sah tidak akan menyuruh anda untuk melakukan ini.">
+<!ENTITY exceptionMgr.certlocation.caption2   "Pelayan">
+<!ENTITY exceptionMgr.certlocation.url        "Lokasi:">
+<!ENTITY exceptionMgr.certlocation.download   "Mendapatkan sijil">
+<!ENTITY exceptionMgr.certlocation.accesskey  "G">
+<!ENTITY exceptionMgr.certstatus.caption      "Status sijil">
+<!ENTITY exceptionMgr.certstatus.viewCert     "Papar...">
+<!ENTITY exceptionMgr.certstatus.accesskey    "V">
+<!ENTITY exceptionMgr.permanent.label         "Simpan pengecualian ini secara tetap">
+<!ENTITY exceptionMgr.permanent.accesskey     "p">
+

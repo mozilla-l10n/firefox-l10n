@@ -20,7 +20,6 @@
    - the Initial Developer. All Rights Reserved.
    -
    - Contributor(s):
-   -   
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -35,28 +34,36 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+
 <!ENTITY errorConsole.title "Konsol Ralat">
-<!ENTITY errFile.label "Fail Sumber:">
-<!ENTITY errLine.label "Baris:">
+
+<!ENTITY errFile.label   "Fail Sumber:">
+<!ENTITY errLine.label   "Baris:">
 <!ENTITY errColumn.label "Kolum">
-<!ENTITY all.label "Semua">
-<!ENTITY all.accesskey "S">
-<!ENTITY errors.label "Ralat">
-<!ENTITY errors.accesskey "E">
-<!ENTITY warnings.label "Amaran">
+
+<!ENTITY all.label          "Semua">
+<!ENTITY all.accesskey      "S">
+<!ENTITY errors.label       "Ralat">
+<!ENTITY errors.accesskey   "E">
+<!ENTITY warnings.label     "Amaran">
 <!ENTITY warnings.accesskey "W">
-<!ENTITY messages.label "Mesej">
+<!ENTITY messages.label     "Mesej">
 <!ENTITY messages.accesskey "M">
-<!ENTITY clear.label "Lapang">
-<!ENTITY clear.accesskey "C">
-<!ENTITY evaluate.label "Menilai">
-<!ENTITY copyCmd.label "Salin">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY copyCmd.commandkey "C">
-<!ENTITY sortFirst.label "Urutan isih Pertama > Akhir">
+<!ENTITY clear.label        "Lapang">
+<!ENTITY clear.accesskey    "C">
+<!ENTITY codeEval.label     "Kod:">
+<!ENTITY codeEval.accesskey "o">
+<!ENTITY evaluate.label     "Menilai">
+<!ENTITY evaluate.accesskey "v">
+
+<!ENTITY copyCmd.label       "Salin">  
+<!ENTITY copyCmd.accesskey   "C"> 
+<!ENTITY copyCmd.commandkey  "C"> 
+<!ENTITY sortFirst.label     "Urutan isih Pertama > Akhir">
 <!ENTITY sortFirst.accesskey "f">
-<!ENTITY sortLast.label "Urutan isih Akhir > Pertama">
-<!ENTITY sortLast.accesskey "l">
-<!ENTITY closeCmd.commandkey "w">
-<!ENTITY focus1.commandkey "l">
-<!ENTITY focus2.commandkey "d">
+<!ENTITY sortLast.label      "Urutan isih Akhir > Pertama">
+<!ENTITY sortLast.accesskey  "l">
+<!ENTITY closeCmd.commandkey "w">  
+<!ENTITY focus1.commandkey   "l">  
+<!ENTITY focus2.commandkey   "d">  
+

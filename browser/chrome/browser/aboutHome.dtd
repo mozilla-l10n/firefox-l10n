@@ -1,0 +1,24 @@
+<!ENTITY % brandDTD
+    SYSTEM "chrome://branding/locale/brand.dtd">
+  %brandDTD;
+
+<!-- These strings are used in the about:home page -->
+
+<!ENTITY abouthome.pageTitle "Laman Mula &brandFullName;">
+
+<!ENTITY abouthome.searchEngineButton.label "Carian">
+
+<!ENTITY abouthome.aboutMozilla "Tentang Mozilla">
+
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
+     text in <a/> will be linked to the Firefox features page on mozilla.com
+-->
+<!ENTITY abouthome.defaultSnippet1.v1 "Terima kasih kerana memilih Firefox! Untuk menikmati pelayar anda sepenuhnya, ketahui lebih lanjut tentang <a>ciri-ciri terkini</a>.">
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
+     text in <a/> will be linked to the featured add-ons on addons.mozilla.org
+-->
+<!ENTITY abouthome.defaultSnippet2.v1 "Ia mudah untuk menyesuaikan Firefox anda betul-betul cara anda mahu. <a>Pilih daripada beribu-ribu add-ons</a>.">
+
+<!ENTITY abouthome.syncSetup.label   "Set Up Sync">
+<!ENTITY abouthome.pairDevice.label  "Memasangkan Peranti">
+

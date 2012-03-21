@@ -1,63 +1,118 @@
-<!ENTITY generalTab.label "Am">
-<!ENTITY accessibility.label "Kebolehcapaian">
-<!ENTITY useCursorNavigation.label "Sentiasa guna kunci kursor untuk melayari dalam laman">
-<!ENTITY useCursorNavigation.accesskey "k">
-<!ENTITY searchStartTyping.label "Cari teks sebaik sahaja saya menaip">
-<!ENTITY searchStartTyping.accesskey "s">
-<!ENTITY browsing.label "Melungsur">
-<!ENTITY useAutoScroll.label "Guna autogulung">
-<!ENTITY useAutoScroll.accesskey "a">
-<!ENTITY useSmoothScrolling.label "Guna gulung lancar">
-<!ENTITY useSmoothScrolling.accesskey "l">
-<!ENTITY checkSpelling.label "Periksa ejaan saya tika menaip">
-<!ENTITY checkSpelling.accesskey "t">
-<!ENTITY languages.label "Bahasa">
-<!ENTITY chooseLanguage.label "Pilih bahasa pilihan anda unutuk dipaparkan pada laman">
-<!ENTITY chooseButton.label "Pilih...">
-<!ENTITY chooseButton.accesskey "i">
-<!ENTITY networkTab.label "Rangkaian">
-<!ENTITY connection.label "Sambungan">
-<!ENTITY connectionDesc.label "Konfigur bagaimana &brandShortName; menyambung kepada Internet">
-<!ENTITY connectionSettings.label "Tetapan...">
-<!ENTITY connectionSettings.accesskey "e">
-<!ENTITY cache.label "Cache">
-<!ENTITY useCacheBefore.label "Guna sehingga">
-<!ENTITY useCacheBefore.accesskey "U">
-<!ENTITY useCacheAfter.label "MB ruang untuk cache">
-<!ENTITY updateTab.label "Kemaskini">
-<!ENTITY autoCheck.label "Automatik periksa kemaskinian pada:">
-<!ENTITY enableAppUpdate.label "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey "F">
-<!ENTITY enableAddonsUpdate.label "Penambahan Dipasang">
-<!ENTITY enableAddonsUpdate.accesskey "n">
-<!ENTITY enableSearchUpdate.label "Enjin Pencari">
-<!ENTITY enableSearchUpdate.accesskey "r">
-<!ENTITY whenUpdatesFound.label "Apabila kemaskini &brandShortName; ditemui:">
-<!ENTITY askMe.label "Tanya saya apa yang perlu dilakukan">
-<!ENTITY askMe.accesskey "y">
-<!ENTITY modeAutomatic.label "Automatik muaturun dan pasang kemaskini">
-<!ENTITY modeAutomatic.accesskey "A">
-<!ENTITY modeAutoAddonWarn.label "Ingatkan saya jika ini melumpuhkan sebarang penambahan saya">
-<!ENTITY modeAutoAddonWarn.accesskey "L">
-<!ENTITY updateHistory.label "Tunjuk Sejarah Kemaskini">
-<!ENTITY updateHistory.accesskey "h">
-<!ENTITY encryptionTab.label "Penyulitan">
-<!ENTITY protocols.label "Protokol">
-<!ENTITY useSSL3.label "Guna SSL 3.0">
-<!ENTITY useSSL3.accesskey "3">
-<!ENTITY useTLS1.label "Guna TLS 1.0">
-<!ENTITY useTLS1.accesskey "1">
-<!ENTITY certificates.label "Sijil">
-<!ENTITY certselect.description "Apabila laman web memerlukan sijil:">
-<!ENTITY certs.auto "Pilih satu automatik">
-<!ENTITY certs.auto.accesskey "m">
-<!ENTITY certs.ask "Tanya saya setiap masa">
-<!ENTITY certs.ask.accesskey "i">
-<!ENTITY viewCerts.label "Lihat Sijil">
-<!ENTITY viewCerts.accesskey "s">
-<!ENTITY viewCRLs.label "Senarai TarikBalik">
-<!ENTITY viewCRLs.accesskey "R">
-<!ENTITY verify.label "Pembuktian">
-<!ENTITY verify.accesskey "P">
-<!ENTITY viewSecurityDevices.label "Peranti Sekuriti">
-<!ENTITY viewSecurityDevices.accesskey "e">
+<!-- Note: each tab panel must contain unique accesskeys -->
+
+<!ENTITY generalTab.label                "Umum">
+
+<!ENTITY accessibility.label             "akses">
+
+<!ENTITY useCursorNavigation.label       "Sentiasa guna kunci kursor untuk melayari dalam laman">
+<!ENTITY useCursorNavigation.accesskey   "k">
+<!ENTITY searchStartTyping.label         "Cari teks sebaik sahaja saya menaip">
+<!ENTITY searchStartTyping.accesskey     "s">
+<!ENTITY blockAutoRefresh.label          "Warn me when web sites try to redirect or reload the page">
+<!ENTITY blockAutoRefresh.accesskey      "b">
+
+<!ENTITY browsing.label                  "Melungsur">
+
+<!ENTITY useAutoScroll.label             "Guna autogulung">
+<!ENTITY useAutoScroll.accesskey         "a">
+<!ENTITY useSmoothScrolling.label        "Guna gulung lancar">
+<!ENTITY useSmoothScrolling.accesskey    "l">
+<!ENTITY allowHWAccel.label              "Guna pecutan perkakasan bila tersedia">
+<!ENTITY allowHWAccel.accesskey          "r">
+<!ENTITY checkSpelling.label             "Periksa ejaan saya tika menaip">
+<!ENTITY checkSpelling.accesskey         "t">
+
+<!ENTITY systemDefaults.label            "Kembali ke Piawaian Sistem">
+<!ENTITY alwaysCheckDefault.label        "Selalu periksa sama ada &brandShortName; adalah pelungsur piawai waktu bermula"><!--XXX-->
+<!ENTITY alwaysCheckDefault.accesskey    "w">
+<!ENTITY checkNow.label                  "Periksa Sekarang">
+<!ENTITY checkNow.accesskey              "n">
+<!ENTITY submitCrashes.label             "Hantar laporan-laporan nahas">
+<!ENTITY submitCrashes.accesskey         "s">
+<!ENTITY submitTelemetry.label           "Hantarkan Prestasi Data">
+<!ENTITY submitTelemetry.accesskey       "P">
+
+<!ENTITY networkTab.label                "Rangkaian">
+
+<!ENTITY connection.label                "Sambungan">
+
+<!ENTITY connectionDesc.label            "Konfigur bagaimana &brandShortName; menyambung ke Internet">
+<!ENTITY connectionSettings.label        "Ubah suai">
+<!ENTITY connectionSettings.accesskey    "e">
+
+<!ENTITY httpCache.label                 "Cached Kandungan Web ">
+
+<!ENTITY offlineStorage2.label           "Data pengguna dan Kandungan Web diluar talian">
+
+<!-- LOCALIZATION NOTE:
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
+  line in preferences as follows:
+
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
+-->
+<!ENTITY limitCacheSizeBefore.label      "Terhad cache kepada">
+<!ENTITY limitCacheSizeBefore.accesskey  "T">
+<!ENTITY limitCacheSizeAfter.label       "MB daripada ruang">
+<!ENTITY clearCacheNow.label             "Padam Sekarang">
+<!ENTITY clearCacheNow.accesskey         "P">
+<!ENTITY clearOfflineAppCacheNow.label   "Padam Sekarang">
+<!ENTITY clearOfflineAppCacheNow.accesskey "n">
+<!ENTITY overrideSmartCacheSize.label    "Sampukan automatik pengurusan cache">
+<!ENTITY overrideSmartCacheSize.accesskey "o">
+
+<!ENTITY updateTab.label                 "Mengemaskini">
+
+<!ENTITY updateApp.label                 "&brandShortName; mengemaskini:">
+<!ENTITY updateAuto.label                "Kemaskini secara automatik (digalakkan: meningkatkan keselamatan)">
+<!ENTITY updateAuto.accesskey            "a">
+<!ENTITY updateCheck.label               "Semak sebarang kemaskini, tetapi biarkan saya pilih untuk memasangnya">
+<!ENTITY updateCheck.accesskey           "S">
+<!ENTITY updateManual.label              "Jangan semak sebarang kemaskini (tidak digalakkan: risiko keselamatan)">
+<!ENTITY updateManual.accesskey          "n">
+
+<!ENTITY updateAutoAddonWarn.label       "Ingatkan saya jika ini boleh melumpuhkan sebarang add-on saya">
+<!ENTITY updateAutoAddonWarn.accesskey   "I">
+
+<!ENTITY updateHistory.label             "Pamer Latar Kemaskini">
+<!ENTITY updateHistory.accesskey         "h">
+
+<!ENTITY useService.label                "Gunakan servis latar belakang bagi pemasangan versi terkini">
+<!ENTITY useService.accesskey            "b">
+
+<!ENTITY updateOthers.label              "Kemaskini automatik:">
+<!ENTITY enableSearchUpdate.label        "Enjin Carian">
+<!ENTITY enableSearchUpdate.accesskey    "r">
+
+<!ENTITY offlineNotify.label             "Beritahu saya apabila laman ini menanyakan untuk simpan data ke kegunaan luar talian">
+<!ENTITY offlineNotify.accesskey         "t">
+<!ENTITY offlineNotifyExceptions.label   "Pengecualian...">
+<!ENTITY offlineNotifyExceptions.accesskey "P">
+
+<!ENTITY offlineAppsList2.label          "Laman web yang berikut telah dibenarkan untuk menyimpan data untuk penggunaan luar talian:">
+<!ENTITY offlineAppsList.height          "7em">
+<!ENTITY offlineAppsListRemove.label     "Singkir…">
+<!ENTITY offlineAppsListRemove.accesskey "r">
+<!ENTITY offlineAppRemove.confirm        "Buang data luar talian">
+
+<!ENTITY encryptionTab.label             "Enkripsi">
+
+<!ENTITY protocols.label                 "Protokol-protokol">
+<!ENTITY useSSL3.label                   "Guna SSL 3.0">
+<!ENTITY useSSL3.accesskey               "3">
+<!ENTITY useTLS1.label                   "Guna TLS 1.0">
+<!ENTITY useTLS1.accesskey               "1">
+<!ENTITY certificates.label              "Sijil-sijil">
+<!ENTITY certSelection.description       "Bila pelayan meminta sijil peribadi saya:">
+<!ENTITY certs.auto                      "Pilih satu automatik">
+<!ENTITY certs.auto.accesskey            "m">
+<!ENTITY certs.ask                       "Tanya saya setiap masa">
+<!ENTITY certs.ask.accesskey             "i">
+<!ENTITY viewCerts.label                 "Lihat Sijil">
+<!ENTITY viewCerts.accesskey             "s">
+<!ENTITY viewCRLs.label                  "Senarai TarikBalik">
+<!ENTITY viewCRLs.accesskey              "R">
+<!ENTITY verify2.label                   "tempoh masa sabelum masa tamat">
+<!ENTITY verify2.accesskey               "t">
+<!ENTITY viewSecurityDevices.label       "Peranti Sekuriti">
+<!ENTITY viewSecurityDevices.accesskey   "e">
+

@@ -1,97 +1,209 @@
-<!ENTITY addons.title "Penambahan">
-<!ENTITY em.width "520">
-<!ENTITY em.height "380">
-<!ENTITY cmd.info.commandKey "i">
-<!ENTITY cmd.options.commandKey ",">
-<!ENTITY cmd.close.commandKey "w">
-<!ENTITY extensions.label "Sambungan">
-<!ENTITY themes.label "Tema">
-<!ENTITY locales.label "Bahasa">
-<!ENTITY plugins.label "Plugin">
-<!ENTITY update.label "Kemaskini">
-<!ENTITY install.label "Pemasangan">
-<!ENTITY cmd.checkUpdatesAll.label "Mencari Kemaskinian">
-<!ENTITY cmd.checkUpdatesAll.accesskey "M">
-<!ENTITY cmd.checkUpdatesAllAddon.tooltip "Mencari Kemaskinian untuk Penambahan anda">
-<!ENTITY cmd.checkUpdatesAllTheme.tooltip "Mencari Kemaskinian untuk Tema anda">
-<!ENTITY cmd.installLocalFile.label "Pasang...">
-<!ENTITY cmd.installFile.accesskey "I">
-<!ENTITY cmd.installFileAddon.tooltip "Pasang Penambahan">
-<!ENTITY cmd.installFileTheme.tooltip "Pasang Tema">
-<!ENTITY cmd.installUpdatesAll.label "Pasang Kemaskinian">
-<!ENTITY cmd.installUpdatesAll.accesskey "I">
-<!ENTITY cmd.installUpdatesAll.tooltip "Pasang kemaskinian dipilih">
-<!ENTITY cmd.restartApp.label "Mulakan semula &brandShortName;">
-<!ENTITY cmd.restartApp.accesskey "R">
-<!ENTITY cmd.restartApp.tooltip "Mulakan semula &brandShortName; untuk menamatkan pemasangan">
-<!ENTITY cmd.skip.label "Langkau">
-<!ENTITY cmd.skip.accesskey "S">
-<!ENTITY cmd.skip.tooltip "Langkau kemaskinian ini">
-<!ENTITY cmd.continue.label "Sambung">
-<!ENTITY cmd.continue.accesskey "C">
-<!ENTITY cmd.continue.tooltip "Teruskan memuat &brandShortName;">
-<!ENTITY cmd.enableAll.label "Bolehkan Semua">
-<!ENTITY cmd.enableAll.accesskey "a">
-<!ENTITY cmd.enableAll.tooltip "Bolehkan semua Penambahan dipapar">
-<!ENTITY cmd.disableAll.label "Lumpuhkan Semua">
-<!ENTITY cmd.disableAll.accesskey "s">
-<!ENTITY cmd.disableAll.tooltip "Lumpuhkan semua Penambahan dipapar">
-<!ENTITY cmd.useTheme.label "Guna Tema">
-<!ENTITY cmd.useTheme.accesskey "T">
-<!ENTITY cmd.useTheme.tooltip "Tukar Tema &brandShortName;">
-<!ENTITY cmd.options.label "Opsyen">
-<!ENTITY cmd.options.accesskey "O">
-<!ENTITY cmd.options.tooltip "Tetapkan Opsyen untuk Sambungan dipilih">
-<!ENTITY cmd.optionsUnix.label "Keutamaan">
-<!ENTITY cmd.optionsUnix.accesskey "r">
-<!ENTITY cmd.optionsUnix.tooltip "Edit Keutamaan Sambungan dipilih">
-<!ENTITY cmd.enable.label "Bolehkan">
-<!ENTITY cmd.enable.accesskey "E">
-<!ENTITY cmd.enable.tooltip "Bolehkan Penambahan ini apabila &brandShortName; dimulakan semula">
-<!ENTITY cmd.disable.label "Lumpuhkan">
-<!ENTITY cmd.disable.accesskey "L">
-<!ENTITY cmd.disable.tooltip "Lumpuhkan Penambahan ini apabila &brandShortName; dimulakan semula">
-<!ENTITY cmd.uninstall.label "Nyahpasang">
-<!ENTITY cmd.uninstall2.accesskey "N">
-<!ENTITY cmd.uninstall2.tooltip "Nyahpasang Penambahan ini apabila &brandShortName; dimulakan semula">
-<!ENTITY cmd.cancelUninstall.label "Batal Nyahpasang">
-<!ENTITY cmd.cancelUninstall.accesskey "B">
-<!ENTITY cmd.cancelUninstall.tooltip "Batal nyahpasang Penambahan ini">
-<!ENTITY cmd.installUpdate.label "Pasang Kemaskinian">
-<!ENTITY cmd.installUpdate.accesskey "I">
-<!ENTITY cmd.installUpdate.tooltip "Pasang kemaskinian untuk Penambahan ini">
-<!ENTITY cancel.label "Batal">
-<!ENTITY cancel.accesskey "C">
-<!ENTITY cmd.homepage.label "Lawati Laman Utama">
-<!ENTITY cmd.homepage.accesskey "H">
-<!ENTITY cmd.about2.label "Perihal Penambahan ini">
-<!ENTITY cmd.about.accesskey "A">
-<!ENTITY cmd.checkUpdate.label "Cari Kemaskinian">
-<!ENTITY cmd.checkUpdate.accesskey "F">
-<!ENTITY cmd.includeUpdate.label "Termasuk Kemaskinian">
-<!ENTITY cmd.includeUpdate.accesskey "n">
-<!ENTITY includeUpdate.label "Termasuk kemaskinian ini">
-<!ENTITY includeUpdate.accesskey "n">
-<!ENTITY includeUpdate.tooltip "Termasuk Penambahan ini apabila pemasangan kemaskinian">
-<!ENTITY needsDependencies.label "Perlukan item tambahan.">
-<!ENTITY blocklisted.label "Lumpuhkan untuk perlindungan anda.">
-<!ENTITY toBeDisabled.label "Penambahan ini akan dilumpuhkan apabila &brandShortName; dimulakan semula.">
-<!ENTITY toBeEnabled.label "Penambahan ini akan dibolehkan apabila &brandShortName; dimulakan semula.">
-<!ENTITY toBeInstalled.label "Penambahan ini akan dipasang apabila &brandShortName; dimulakan semula.">
-<!ENTITY toBeUninstalled.label "Penambahan ini akan dinyahpasang apabila &brandShortName; dimulakan semula.">
-<!ENTITY toBeUpgraded.label "Penambahan ini akan dinaiktaraf apabila &brandShortName; dimulakan semula.">
-<!ENTITY getExtensions.label "Dapatkan Sambungan">
-<!ENTITY getExtensions.tooltip "Dapatkan Sambungan daripada addons.mozilla.org">
-<!ENTITY getThemes.label "Dapatkan Tema">
-<!ENTITY getThemes.tooltip "Dapatkan Tema daripada addons.mozilla.org">
-<!ENTITY previewNoThemeSelected.label "Tiada Tema Dipilih">
-<!ENTITY previewNoPreviewImage.label "Tema ini tidak mempunyai Imej Pralihat">
-<!ENTITY moreInfo.label "Maklumat Lanjut">
-<!ENTITY closeMessage.tooltip "Tutup mesej ini">
-<!ENTITY updateSuccess.label "Kemaskini selesai dengan jayanya.">
-<!ENTITY installSuccess.label "Pemasangan selesai dengan jayaya.">
-<!ENTITY installSuccessRestart.label "Mulakan semula untuk selesaikan pemasangan.">
-<!ENTITY installWaiting.label "Menunggu...">
-<!ENTITY installIncompatibleUpdate.label "Memeriksa keserasian...">
-<!ENTITY installFinishing.label "Memasang...">
-<!ENTITY installFailure.label "Pemasangan gagal.">
+<!ENTITY addons.windowTitle                   "Add-ons Manager">
+
+<!ENTITY search.placeholder                   "Search all add-ons">
+<!-- LOCALIZATION NOTE (search.commandKey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
+
+<!ENTITY loading.label                        "Loading">
+<!ENTITY listEmpty.installed.label            "You don't have any add-ons of this type installed">
+<!ENTITY listEmpty.availableUpdates.label     "Tiada kemaskini ditemui">
+<!ENTITY listEmpty.recentUpdates.label        "You haven't recently updated any add-ons">
+<!ENTITY listEmpty.findUpdates.label          "Check For Updates">
+<!ENTITY listEmpty.search.label               "Could not find any matching add-ons">
+<!ENTITY listEmpty.button.label               "Learn more about add-ons">
+<!ENTITY installAddonFromFile.label           "Pasang Add-on Dari Fail... ">
+<!ENTITY installAddonFromFile.accesskey       "i">
+<!ENTITY toolsMenu.tooltip                    "Tools for all add-ons">
+
+<!ENTITY cmd.back.tooltip                     "Pergi kembali laman sebelum">
+<!ENTITY cmd.forward.tooltip                  "Pergi ke halaman seterusnya">
+
+<!-- global warnings -->
+<!ENTITY warning.safemode.label                    "All add-ons have been disabled by safe mode.">
+<!ENTITY warning.checkcompatibility.label          "Add-on compatibility checking is disabled. You may have incompatible add-ons.">
+<!ENTITY warning.checkcompatibility.enable.label   "Aktif Keupayaan">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Enable add-on compatibility checking">
+<!ENTITY warning.updatesecurity.label              "Add-on update security checking is disabled. You may be compromised by updates.">
+<!ENTITY warning.updatesecurity.enable.label       "Aktif Keupayaan">
+<!ENTITY warning.updatesecurity.enable.tooltip     "Enable add-on update security checking">
+
+<!-- global informations -->
+<!ENTITY info.plugincheck.label                 "Periksa untuk lihat sekiranya plugin anda adalah yang terkini">
+<!ENTITY info.plugincheck.tooltip               "Periksa untuk lihat sekiranya plugin anda adalah yang terkini">
+
+<!-- categories / views -->
+<!ENTITY view.search.label                    "Carian">
+<!ENTITY view.discover.label                  "Get Add-ons">
+<!ENTITY view.recentUpdates.label             "Kemaskini terbaru">
+<!ENTITY view.availableUpdates.label          "Kemaskini tersedia">
+
+<!-- addon updates -->
+<!ENTITY updates.checkForUpdates.label        "Semakan pengemaskinian terkini">
+<!ENTITY updates.checkForUpdates.accesskey    "S">
+<!ENTITY updates.viewUpdates.label            "Lihat kemaskini terbaru">
+<!ENTITY updates.viewUpdates.accesskey        "L">
+<!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
+     is a checkbox that toggles the default global behavior for add-on update
+     checking. -->
+<!ENTITY updates.updateAddonsAutomatically.label     "Kemaskini Add-on secara automatik">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "A">
+<!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
+     Specific addons can have custom update checking behaviors ("Manually",
+     "Automatically", "Use default global behavior"). These menu items reset the
+     update checking behavior for all add-ons to the default global behavior
+     (which itself is either "Automatically" or "Manually", controlled by the
+     updates.updateAddonsAutomatically.label menu item). -->
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Reset All Add-ons to Update Automatically">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
+<!ENTITY updates.resetUpdatesToManual.label          "Reset All Add-ons to Update Manually">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "R">
+<!ENTITY updates.updating.label               "Mengemaskini add-on">
+<!ENTITY updates.installed.label              "Add-on anda telah dikemaskinikan.">
+<!ENTITY updates.downloaded.label             "Kemaskini add-on anda telah dimuat turun.">
+<!ENTITY updates.restart.label                "Mulakan semula sekarang untuk melengkapkan pemasangan">
+<!ENTITY updates.noneFound.label              "Tiada pengemaskinian terbaru dijumpai">
+<!ENTITY updates.manualUpdatesFound.label     "Lihat pengemaskinian yang sedia ada">
+<!ENTITY updates.updateSelected.label         "Pasang pengemaskinian terkini">
+<!ENTITY updates.updateSelected.tooltip       "Pasangkan kemaskini yang sedia ada di dalam senarai ini">
+
+<!-- addon actions -->
+<!ENTITY cmd.showDetails.label                "Papar Maklumat Tambahan">
+<!ENTITY cmd.showDetails.accesskey            "P">
+<!ENTITY cmd.findUpdates.label                "Cari Kemaskini">
+<!ENTITY cmd.findUpdates.accesskey            "C">
+<!ENTITY cmd.preferencesWin.label             "Opsyen">
+<!ENTITY cmd.preferencesWin.accesskey         "O">
+<!ENTITY cmd.preferencesUnix.label            "Keutamaan">
+<!ENTITY cmd.preferencesUnix.accesskey        "K">
+<!ENTITY cmd.about.label                      "Mengenai">
+<!ENTITY cmd.about.accesskey                  "a">
+
+<!ENTITY cmd.enableAddon.label                "Aktif Keupayaan">
+<!ENTITY cmd.enableAddon.accesskey            "e">
+<!ENTITY cmd.disableAddon.label               "Lumpuhkan">
+<!ENTITY cmd.disableAddon.accesskey           "L">
+<!ENTITY cmd.enableTheme.label                "Wear Theme">
+<!ENTITY cmd.enableTheme.accesskey            "W">
+<!ENTITY cmd.disableTheme.label               "Berhenti Menggunakan Tema">
+<!ENTITY cmd.disableTheme.accesskey           "B">
+<!ENTITY cmd.installAddon.label               "Install">
+<!ENTITY cmd.installAddon.accesskey           "I">
+<!ENTITY cmd.uninstallAddon.label             "Singkir">
+<!ENTITY cmd.uninstallAddon.accesskey         "r">
+<!ENTITY cmd.showPreferencesWin.label         "Opsyen">
+<!ENTITY cmd.showPreferencesWin.tooltip       "Change this add-on's options">
+<!ENTITY cmd.showPreferencesUnix.label        "Keutamaan">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Change this add-on's preferences">
+<!ENTITY cmd.contribute.label                 "Menyumbang">
+<!ENTITY cmd.contribute.accesskey             "M">
+<!ENTITY cmd.contribute.tooltip               "Sumbang untuk pembangunan add-on ini">
+
+<!ENTITY cmd.showReleaseNotes.label           "Tunjuk Nota Pelepasan">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Show the release notes for this update">
+<!ENTITY cmd.hideReleaseNotes.label           "Sorok Nota Pelepasan">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "Sorok nota pelepasan untuk kemaskini ini">
+
+<!-- discovery view -->
+<!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
+     Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
+<!ENTITY discover.title                       "Apakah Add-ons?">
+<!ENTITY discover.description2                "Add-ons are applications that let you personalize &brandShortName; with
+  extra functionality or style. Try a time-saving sidebar, a weather notifier, or a themed look to make &brandShortName;
+  your own.">
+<!ENTITY discover.footer                      "When you're connected to the internet, this pane will feature
+  some of the best and most popular add-ons for you to try out.">
+
+<!-- detail view -->
+<!ENTITY detail.version.label                 "Versi">
+<!ENTITY detail.lastupdated.label             "Pengemaskinian terakhir">
+<!ENTITY detail.creator.label                 "Pembangun">
+<!ENTITY detail.homepage.label                "Homepage">
+<!ENTITY detail.numberOfDownloads.label       "Muat Turun">
+
+<!ENTITY detail.contributions.description     "The developer of this add-on asks that you help support its continued development by making a small contribution.">
+
+<!ENTITY detail.updateType                    "Kemaskini automatik">
+<!ENTITY detail.updateDefault.label           "Default">
+<!ENTITY detail.updateDefault.tooltip         "Automatically install updates only if that's the default">
+<!ENTITY detail.updateAutomatic.label         "On">
+<!ENTITY detail.updateAutomatic.tooltip       "Automatically install updates">
+<!ENTITY detail.updateManual.label            "Off">
+<!ENTITY detail.updateManual.tooltip          "Don't automatically install updates">
+<!ENTITY detail.home                          "Homepage">
+<!ENTITY detail.repository                    "Add-on Profile">
+<!ENTITY detail.size                          "Saiz">
+
+<!ENTITY detail.checkForUpdates.label         "Semakan pengemaskinian terkini">
+<!ENTITY detail.checkForUpdates.accesskey     "S">
+<!ENTITY detail.checkForUpdates.tooltip       "Check for updates for this add-on">
+<!ENTITY detail.showPreferencesWin.label      "Pilihan">
+<!ENTITY detail.showPreferencesWin.accesskey  "P">
+<!ENTITY detail.showPreferencesWin.tooltip    "Change this add-on's options">
+<!ENTITY detail.showPreferencesUnix.label     "Keutamaan">
+<!ENTITY detail.showPreferencesUnix.accesskey "K">
+<!ENTITY detail.showPreferencesUnix.tooltip   "Change this add-on's preferences">
+
+
+<!-- ratings -->
+<!ENTITY rating2.label                        "Rating">
+
+<!-- download/install progress -->
+<!ENTITY progress.pause.tooltip               "Pause">
+<!ENTITY progress.cancel.tooltip              "Batal">
+
+
+<!-- list sorting -->
+<!ENTITY sort.name.label                      "Nama">
+<!ENTITY sort.name.tooltip                    "Susun mengikut nama">
+<!ENTITY sort.dateUpdated.label               "Pengemaskinian terakhir">
+<!ENTITY sort.dateUpdated.tooltip             "Susun mengikut tarikh kemaskini">
+<!ENTITY sort.relevance.label                 "Padanan terbaik">
+<!ENTITY sort.relevance.tooltip               "Susun mengikut kaitan">
+<!ENTITY sort.price.label                     "Harga">
+<!ENTITY sort.price.tooltip                   "Susun mengikut harga">
+
+<!ENTITY search.filter2.label                 "Carian:">
+<!ENTITY search.filter2.installed.label       "My Add-ons">
+<!ENTITY search.filter2.installed.tooltip     "Show installed add-ons">
+<!ENTITY search.filter2.available.label       "Add-ons yang didapati">
+<!ENTITY search.filter2.available.tooltip     "Show add-ons available to install">
+
+<!ENTITY addon.homepage                       "Homepage">
+<!ENTITY addon.details.label                  "Lebih banyak">
+<!ENTITY addon.details.tooltip                "Show more details about this add-on">
+<!ENTITY addon.unknownDate                    "Tidak diketahui">
+<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
+     to signify that an add-on is disabled, in the form
+     "<Addon name> <1.0> (disabled)" -->
+<!ENTITY addon.disabled.postfix               "(disabled)">
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
+     updates list to signify that an item is an update, in the form
+     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
+     necessary -->
+<!ENTITY addon.update.postfix                 "Mengemaskini">
+<!ENTITY addon.undoAction.label               "Kembali Asal">
+<!ENTITY addon.undoAction.tooltip             "Undo this action">
+<!ENTITY addon.undoRemove.label               "Kembali Asal">
+<!ENTITY addon.undoRemove.tooltip             "Keep this add-on installed">
+<!ENTITY addon.restartNow.label               "Restart now">
+<!ENTITY addon.install.label                  "Install">
+<!ENTITY addon.install.tooltip                "Install this add-on">
+<!ENTITY addon.updateNow.label                "Kemaskini Sekarang">
+<!ENTITY addon.updateNow.tooltip              "Install the update for this add-on">
+<!ENTITY addon.includeUpdate.label            "Include in Update">
+<!ENTITY addon.updateAvailable.label          "An update is available">
+<!ENTITY addon.checkingForUpdates.label       "Menyemak kemas kini…">
+<!ENTITY addon.releaseNotes.label             "Release Notes:">
+<!ENTITY addon.loadingReleaseNotes.label      "Loading">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Maaf, namun terdapat satu ralat memuatkan nota pelepasan.">
+
+<!ENTITY addon.createdBy.label                "Oleh ">
+
+<!ENTITY eula.title                           "End-User License Agreement">
+<!ENTITY eula.width                           "560px">
+<!ENTITY eula.height                          "400px">
+<!ENTITY eula.accept                          "Terima dan Pasang ...">
+
+<!ENTITY settings.path.button.label           "Carian…">
+

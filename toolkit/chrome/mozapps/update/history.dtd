@@ -1,10 +1,13 @@
-<!ENTITY history.title "Sejarah Kemaskini">
-<!ENTITY history.intro "Kemaskinian berikut telah dipasang:">
-<!ENTITY closebutton.label "Tutup">
-<!ENTITY detailsButton.label "Perincian">
-<!ENTITY detailsButton.accesskey "D">
-<!ENTITY noupdates.label "Tiada lagi kemaskinian dipasang">
-<!ENTITY name.header "Kemaskini Nama">
-<!ENTITY date.header "Tarikh Pasang">
-<!ENTITY type.header "Jenis">
-<!ENTITY state.header "Keadaan">
+
+<!ENTITY  history.title             "Sejarah Kemaskini">
+<!ENTITY  history.intro             "Kemaskinian berikut telah dipasang:">
+<!ENTITY  closebutton.label         "Tutup">
+                                     
+<!ENTITY  noupdates.label           "Tiada lagi kemaskinian dipasang">
+
+<!ENTITY  name.header               "Kemaskini Nama">
+<!ENTITY  date.header               "Tarikh Pasang">
+<!ENTITY  type.header               "Jenis">
+<!ENTITY  state.header              "Keadaan">
+
+

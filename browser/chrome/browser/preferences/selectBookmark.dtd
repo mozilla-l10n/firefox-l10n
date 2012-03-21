@@ -1,0 +1,6 @@
+<!ENTITY selectBookmark.title
+  "Tetapkan laman utama">
+<!ENTITY selectBookmark.label
+  "Pilih tandabuku untuk dijadikan laman utama anda. Jika anda memilih folder, tandabuku di dalam folder tersebut akan dibuka dalam Tab-Tab.">
+
+
