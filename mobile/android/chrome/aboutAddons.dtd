@@ -1,0 +1,9 @@
+<!ENTITY aboutAddons.title                      "Rheolwr Ategion">
+<!ENTITY aboutAddons.header2                    "Eich Ychwanegion">
+<!ENTITY aboutAddons.options                    "Dewisiadau">
+
+<!ENTITY addonAction.enable                     "Galluogi">
+<!ENTITY addonAction.disable                    "Atal">
+<!ENTITY addonAction.uninstall                  "Dadosod">
+<!ENTITY addonAction.cancel                     "Diddymu">
+
