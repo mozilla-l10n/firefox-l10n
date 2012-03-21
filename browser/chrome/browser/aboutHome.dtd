@@ -1,14 +1,13 @@
-<!ENTITY % brandDTD
-    SYSTEM "chrome://branding/locale/brand.dtd">
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
   %brandDTD;
+<!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
+%syncBrandDTD;
 
 <!-- These strings are used in the about:home page -->
 
 <!ENTITY abouthome.pageTitle "Eka paĝo de &brandFullName;">
 
 <!ENTITY abouthome.searchEngineButton.label "Serĉi">
-
-<!ENTITY abouthome.aboutMozilla "Pri Mozilla">
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
@@ -19,5 +18,9 @@
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "Agordi vian Firefox ekzakte kiel vi ĝin volas estas tre facile. <a>Elektu inter miloj de aldonaĵoj</a>.">
 
-<!ENTITY abouthome.syncSetup.label   "Agordi Speguladon">
-<!ENTITY abouthome.pairDevice.label  "Asocii aparaton">
+<!ENTITY abouthome.bookmarksButton.label "Legosignoj">
+<!ENTITY abouthome.historyButton.label   "Historio">
+<!ENTITY abouthome.settingsButton.label  "Agordoj">
+<!ENTITY abouthome.addonsButton.label    "Aldonaĵoj">
+<!ENTITY abouthome.appsButton.label      "Foirejo">
+<!ENTITY abouthome.downloadsButton.label "Elŝutoj">

@@ -12,7 +12,7 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Servilo">
-<!ENTITY serverType.main.label      "Servilo de &syncBrand.fullName.label;">
+<!ENTITY serverType.default.label      "Normo: servilo de Mozilla &syncBrand.fullName.label;">
 <!ENTITY serverType.custom2.label   "Uzi propran servilon…">
 <!ENTITY signIn.account2.label      "Konto">
 <!ENTITY signIn.account2.accesskey  "K">

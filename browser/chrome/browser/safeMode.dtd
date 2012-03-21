@@ -39,6 +39,9 @@
 <!ENTITY safeModeDialog.title         "&brandShortName; sekura reĝimo">
 <!ENTITY window.width                 "37em">
 
+<!ENTITY autoSafeModeIntro.label      "&brandShortName; neatendite finis dum starto">
+<!ENTITY autoSafeModeDescription.label "Ni sincere pardonpetas pro la ĝeno. &brandShortName; nun funkcias en sekura reĝimo, kiu dumtempe malaktivigas vian personajn agordojn,  etosojn kaj etendoprogramojn.">
+
 <!ENTITY safeModeDescription.label    "&brandShortName; nun funkcias en sekura reĝimo, kiu tempe malaktivigas viajn personajn agordojn, etosojn kaj etendoprogramojn.">
 <!ENTITY safeModeDescription2.label   "Vi povas igi konstantaj kelkajn aŭ ĉiujn el tiuj ŝanĝoj:">
 

@@ -1,6 +1,2 @@
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "Nova folio">
-
-<!ENTITY newtab.show "Montri la paĝon de nova folio">
-<!ENTITY newtab.hide "Kaŝi la paĝon de nova folio">
-<!ENTITY newtab.reset "Rekomenci la paĝon de nova folio">
