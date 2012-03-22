@@ -25,8 +25,8 @@
 <!ENTITY disabledPlugin                                      "O plugin o l'é dizabilitòu.">
 <!ENTITY blockedPlugin.label                                 "O plugin o l'é stæto blocòu pe-a teu proteçión.">
 
-<!ENTITY installPlugin                                       "Instàllo o plugin…">
-<!ENTITY managePlugins                                       "Gestisci i plugin…">
+<!ENTITY installPlugin                                       "Instàlla o plugin…">
+<!ENTITY managePlugins                                       "Gestìsci i plugin…">
 
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
