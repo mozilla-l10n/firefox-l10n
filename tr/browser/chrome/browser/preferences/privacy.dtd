@@ -15,7 +15,6 @@
 <!ENTITY  locbar.bookmarks.label        "Yer imleri">
 <!ENTITY  locbar.nothing.label          "Hiçbir şey">
 
-
 <!ENTITY  acceptCookies.label           "Sitelerden çerez kabul et">
 <!ENTITY  acceptCookies.accesskey       "k">
 
@@ -64,11 +63,8 @@
 <!ENTITY  privateBrowsingPermanent2.label "Her zaman gizli tarama modunu kullan">
 <!ENTITY  privateBrowsingPermanent2.accesskey "g">
 
-<!ENTITY  rememberHistory.label      "Tarama geçmişimi hatırla">
-<!ENTITY  rememberHistory.accesskey  "g">
-
-<!ENTITY  rememberDownload.label         "İndirme geçmişini hatırla">
-<!ENTITY  rememberDownload.accesskey     "d">
+<!ENTITY  rememberHistory2.label      "Tarama ve indirme geçmişimi hatırla">
+<!ENTITY  rememberHistory2.accesskey  "h">
 
 <!ENTITY  rememberSearchForm.label       "Arama ve form geçmişini hatırla">
 <!ENTITY  rememberSearchForm.accesskey   "f">

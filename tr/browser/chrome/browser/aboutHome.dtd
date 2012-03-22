@@ -1,14 +1,13 @@
-<!ENTITY % brandDTD
-    SYSTEM "chrome://branding/locale/brand.dtd">
-  %brandDTD;
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+<!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
+%syncBrandDTD;
 
 <!-- These strings are used in the about:home page -->
 
 <!ENTITY abouthome.pageTitle "&brandFullName; başlangıç sayfası">
 
 <!ENTITY abouthome.searchEngineButton.label "Arama">
-
-<!ENTITY abouthome.aboutMozilla "Mozilla hakkında">
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
@@ -19,6 +18,10 @@
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "Firefox'u istediğiniz şekilde kendinize uyarlamak çok kolay. <a>Binlerce eklentiler dilediğinizi seçin</a>.">
 
-<!ENTITY abouthome.syncSetup.label   "Eşitlemeyi kur">
-<!ENTITY abouthome.pairDevice.label  "Aygıt eşleştir">
+<!ENTITY abouthome.bookmarksButton.label "Yer imleri">
+<!ENTITY abouthome.historyButton.label   "Geçmiș">
+<!ENTITY abouthome.settingsButton.label  "Ayarlar">
+<!ENTITY abouthome.addonsButton.label    "Eklentiler">
+<!ENTITY abouthome.appsButton.label      "Pazar yeri">
+<!ENTITY abouthome.downloadsButton.label "İndirilenler">
 

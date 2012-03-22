@@ -23,7 +23,7 @@
 <!ENTITY checkSpelling.accesskey         "t">
 
 <!ENTITY systemDefaults.label            "Varsayılan sistem ayarları">
-<!ENTITY alwaysCheckDefault.label        "Her başlangıçta &brandShortName; tarayıcısının varsayılan olup olmadığına bak"><!---->
+<!ENTITY alwaysCheckDefault.label        "Her başlangıçta &brandShortName; tarayıcısının varsayılan olup olmadığına bak"><!--XXX-->
 <!ENTITY alwaysCheckDefault.accesskey    "b">
 <!ENTITY checkNow.label                  "Şimdi bak">
 <!ENTITY checkNow.accesskey              "m">
