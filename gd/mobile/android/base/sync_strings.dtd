@@ -49,7 +49,7 @@
 <!-- Firefox SyncAdapter Settings Screen -->
 
 <!ENTITY sync.settings.options.label "Roghainnean">
-<!ENTITY sync.summary.pair.label "Ceangail inneal eile ris a' chunntas &syncBrand.shortName.label; agad">
+<!ENTITY sync.summary.pair.label "Ceangail inneal eile ris a’ chunntas &syncBrand.shortName.label; agad">
 <!-- Common text -->
 
 <!ENTITY sync.button.cancel.label "Sguir dheth">
@@ -69,4 +69,4 @@
 <!ENTITY bookmarks.folder.mobile.label "Comharran-lìn fòn-làimhe">
 <!-- Notification strings -->
 
-<!ENTITY sync.notification.oneaccount.label "Chan eil taic ann ach do dh\'aon chunntas &syncBrand.shortName.label;.">
+<!ENTITY sync.notification.oneaccount.label "Chan eil taic ann ach do dh\'aon chunntas &syncBrand.fullName.label;.">
