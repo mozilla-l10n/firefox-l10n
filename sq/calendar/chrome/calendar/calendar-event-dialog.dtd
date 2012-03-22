@@ -146,8 +146,8 @@
 <!ENTITY  event.menu.options.inline.spellcheck.accesskey      "S">
 <!ENTITY  event.menu.options.link.label                       "Shtoni Lidhje…">
 <!ENTITY  event.menu.options.link.accesskey                   "L">
-<!ENTITY  event.menu.options.timezone.label                   "Zonë kohore">
-<!ENTITY  event.menu.options.timezone.accesskey               "Z">
+<!ENTITY  event.menu.options.timezone2.label                   "Shfaq Zona Kohore">
+<!ENTITY  event.menu.options.timezone2.accesskey               "Z">
 <!ENTITY  event.menu.options.priority2.label                  "Përparësi">
 <!ENTITY  event.menu.options.priority2.accesskey              "P">
 <!ENTITY  event.menu.options.priority.notspecified.label      "E papërcaktuar">
@@ -372,6 +372,7 @@
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Ju lutem, Përcaktoni Zonën Kohore">
+<!ENTITY event.timezone.custom.label     "Më Tepër Zona Kohore…">
 
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Të përgjithshme">

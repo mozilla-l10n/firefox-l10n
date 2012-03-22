@@ -102,8 +102,8 @@
 <!ENTITY abouthome_addons_browse "Shfletoni krejt shtesat për &brandShortName;">
 <!ENTITY abouthome_last_tabs_title "Skedat tuaja të herës së fundit">
 <!ENTITY abouthome_last_tabs_open "Hap krejt skedat e herës së fundit">
-<!ENTITY abouthome_top_sites_title "&quot;Site&quot;-et Kryesues">
-<!ENTITY abouthome_top_sites_browse "Shfletoni krejt &quot;site&quot;-et tuaj kryesues">
-<!ENTITY abouthome_no_top_sites "Nuk keni ende &quot;site&quot;-e kryesues. Që të filloni shfletimin prekni Shtyllën e Titullit.">
+<!ENTITY abouthome_top_sites_title "\&quot;Site\&quot;-et Kryesues">
+<!ENTITY abouthome_top_sites_browse "Shfletoni krejt \&quot;site\&quot;-et tuaj kryesues">
+<!ENTITY abouthome_no_top_sites "Nuk keni ende \&quot;site\&quot;-e kryesues. Që të filloni shfletimin prekni Shtyllën e Titullit.">
 <!ENTITY abouthome_about_sync "Rregulloni Firefox Sync-un që të mund të përdorni faqerojtësit, historikun dhe skedat prej pajisjeve tuaja të tjera">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
