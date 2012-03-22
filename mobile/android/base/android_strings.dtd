@@ -120,3 +120,8 @@
 <!ENTITY abouthome_about_sync "Configurá Firefox Sync para acceder a tus marcadores, historial y pestañas desde tus otros dispositivos">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
 
+<!ENTITY filepicker_title "Seleccionar archivo">
+<!ENTITY filepicker_audio_title "Seleccionar o grabar un sonido">
+<!ENTITY filepicker_image_title "Seleccionar o tomar una foto">
+<!ENTITY filepicker_video_title "Seleccionar o grabar un video">
+
