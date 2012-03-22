@@ -65,8 +65,7 @@
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "K">
 
 <!-- properties dialog, calendar creation wizard -->
-<!ENTITY lightning.calendarproperties.showevents.inagenda.label "Shfaqi Ngjarjet te Kuadrati Sot">
-<!ENTITY lightning.calendarproperties.showtasks.label           "Shfaqi Ngjarjet te Kuadrati Sot dhe Mënyra Punë">
+
 <!ENTITY lightning.calendarproperties.email.label               "E-Mail:">
 
 <!-- iMIP Bar (meeting support) -->

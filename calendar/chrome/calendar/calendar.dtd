@@ -60,7 +60,7 @@
 <!ENTITY calendar.events.filter.today.label "Ngjarjet e Sotme">
 <!ENTITY calendar.events.filter.future.label "Tërë Ngjarjet e Ardhshme">
 <!ENTITY calendar.events.filter.current.label "Ditën e Përzgjedhur Tani">
-<!ENTITY calender.events.filter.currentview.label "Ngjarjet e Skenës së Tanishme">
+<!ENTITY calendar.events.filter.currentview.label "Ngjarjet e Skenës së Tanishme">
 <!ENTITY calendar.events.filter.next7Days.label "Ngjarjet për 7 Ditët e Ardhshme">
 <!ENTITY calendar.events.filter.next14Days.label "Ngjarjet për 14 Ditët e Ardhshme">
 <!ENTITY calendar.events.filter.next31Days.label "Ngjarjet për 31 Ditët e Ardhshme">
@@ -369,6 +369,8 @@
 <!ENTITY calendar.context.postpone.1week.label      "1 Javë">
 <!ENTITY calendar.context.postpone.1week.accesskey  "J">
 
+<!ENTITY calendar.copylink.label       "Kopjo Vend Lidhjeje">
+<!ENTITY calendar.copylink.accesskey   "K">
 
 
 <!-- Task View -->
