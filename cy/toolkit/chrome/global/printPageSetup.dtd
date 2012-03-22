@@ -51,13 +51,12 @@
 <!ENTITY footerRight.tip     "Troedyn de">
 
 <!ENTITY hfTitle             "Teitl">
-<!ENTITY hfURL               "Lleoliad">
+<!ENTITY hfURL               "URL">
 <!ENTITY hfDateAndTime       "Dyddiad/Amser">
 <!ENTITY hfPage              "Tudalen #">
 <!ENTITY hfPageAndTotal      "Tudalen # o #">
 <!ENTITY hfBlank             "--gwag--">
-<!ENTITY hfCustom            "Cyfaddasu...">
+<!ENTITY hfCustom            "Cyfaddasu…">
 
-<!ENTITY customPrompt.title  "Cyfaddasu...">
+<!ENTITY customPrompt.title  "Cyfaddasu…">
 <!ENTITY customPrompt.prompt "Rhowch destun pennawd /troedyn cyfaddas">
-

@@ -4,8 +4,8 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY window.width2                    "485">
 <!ENTITY window.height                    "300"> 
 
-<!ENTITY starting.label                   "Cychwyn...">
-<!ENTITY scanning.label                   "Sganio am firysau...">
+<!ENTITY starting.label                   "Cychwyn…">
+<!ENTITY scanning.label                   "Sganio am firysau…">
 
 <!ENTITY downloads.title                  "Llwytho i Lawr">
 
@@ -21,13 +21,13 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.showMac.accesskey            "C">
 <!ENTITY cmd.open.label                   "Agor">
 <!ENTITY cmd.open.accesskey               "A">
-<!ENTITY cmd.openWith.label               "Agor gyda">
+<!ENTITY cmd.openWith.label               "Agor gyda…">
 <!ENTITY cmd.openWith.accesskey           "g">
 <!ENTITY cmd.retry.label                  "Ceisio eto">
 <!ENTITY cmd.retry.accesskey              "e">
 <!ENTITY cmd.goToDownloadPage.label       "Mynd i'r Dudalen Llwytho i Lawr">
 <!ENTITY cmd.goToDownloadPage.accesskey   "M">
-<!ENTITY cmd.copyDownloadLink.label       "Copio Cysylltiad Llwytho i Lawr">
+<!ENTITY cmd.copyDownloadLink.label       "Copio Dolen Llwytho i Lawr">
 <!ENTITY cmd.copyDownloadLink.accesskey   "C">
 <!ENTITY cmd.removeFromList.label         "Tynnu o'r Rhestr">
 <!ENTITY cmd.removeFromList.accesskey     "T">
@@ -45,5 +45,4 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY closeWhenDone.tooltip            "Cau ffenestri Llwytho i Lawr pan mae'r holl ffeiliau wedi eu cwblhau">
 
 <!ENTITY showFolder.label                 "Dangos y Ffolder">
-<!ENTITY searchBox.label                  "Chwilio...">
-
+<!ENTITY searchBox.label                  "Chwilio…">

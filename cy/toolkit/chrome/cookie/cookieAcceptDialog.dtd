@@ -6,13 +6,12 @@
 <!ENTITY     props.expires.label            "Daw i ben:">
 
 <!ENTITY     button.allow.label             "Caniatáu">
-<!ENTITY     button.allow.accesskey         "A">
+<!ENTITY     button.allow.accesskey         "a">
 <!ENTITY     button.session.label           "Caniatáu ar gyfer y Sesiwn">
 <!ENTITY     button.session.accesskey       "S">
 <!ENTITY     button.deny.label              "Gwrthod">
-<!ENTITY     button.deny.accesskey          "D">
+<!ENTITY     button.deny.accesskey          "d">
 
 <!ENTITY     dialog.title                   "Cadarnhau gosod cwci">
 <!ENTITY     dialog.remember.label          "Defnyddio fy newis ar gyfer yr holl gwcis o'r wefan hwn">
-<!ENTITY     dialog.remember.accesskey      "U">
-
+<!ENTITY     dialog.remember.accesskey      "D">

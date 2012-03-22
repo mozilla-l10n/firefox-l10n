@@ -15,16 +15,16 @@
 <!ENTITY productHelp.label        "Cymorth &brandShortName;">
 <!ENTITY productHelp.accesskey    "m">
 <!ENTITY helpMac.commandkey       "?">
-<!ENTITY helpSafeMode.label       "Ailgychwyn gydag Ychwanegion wedi eu Hanalluogi...">
+<!ENTITY helpSafeMode.label       "Ailgychwyn gydag Ychwanegion wedi eu Hanalluogi…">
 <!ENTITY helpSafeMode.accesskey   "A">
 
 <!ENTITY helpTroubleshootingInfo.label      "Gwybodaeth am Ddatrys Problemau">
 <!ENTITY helpTroubleshootingInfo.accesskey  "G">
 
-<!ENTITY helpFeedbackPage.label      "Cyflwyno Adborth...">
+<!ENTITY helpFeedbackPage.label      "Cyflwyno Adborth…">
 <!ENTITY helpFeedbackPage.accesskey  "A">
 
-<!ENTITY preferencesCmdMac.label        "Dewisiadau...">
+<!ENTITY preferencesCmdMac.label        "Dewisiadau…">
 <!ENTITY preferencesCmdMac.commandkey   "D">
 
 <!ENTITY servicesMenuMac.label          "Gwasanaethau">
@@ -36,4 +36,3 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "E">
 
 <!ENTITY showAllAppsCmdMac.label        "Dangos Popeth">
-

@@ -8,18 +8,18 @@
 
 <!ENTITY fileCheck.label "Argraffu i Ffeil">
 <!ENTITY fileCheck.accesskey "F">
-<!ENTITY propertiesButton.label "Priodoleddau...">
+<!ENTITY propertiesButton.label "Priodoleddau…">
 <!ENTITY propertiesButton.accesskey "P">
 <!ENTITY descText.label "Disgrifiad Argraffydd:">
 <!ENTITY printer.label "Argraffydd">
-<!ENTITY printerInput.label "Enw'r Argraffydd">
-<!ENTITY printerInput.accesskey "N">
+<!ENTITY printerInput.label "Enw'r Argraffydd:">
+<!ENTITY printerInput.accesskey "n">
 
 <!ENTITY printrangeGroup.label "Amrediad Argraffu">
 <!ENTITY allpagesRadio.label "Pob Tudalen">
-<!ENTITY allpagesRadio.accesskey "A">
+<!ENTITY allpagesRadio.accesskey "a">
 <!ENTITY rangeRadio.label  "Tudalennau">
-<!ENTITY rangeRadio.accesskey  "P">
+<!ENTITY rangeRadio.accesskey  "T">
 <!ENTITY frompageInput.label  "oddi wrth">
 <!ENTITY frompageInput.accesskey  "r">
 <!ENTITY topageInput.label  "at">
@@ -29,13 +29,12 @@
 
 <!ENTITY copies.label "Copïau">
 <!ENTITY numCopies.label "Nifer o gopïau:">
-<!ENTITY numCopies.accesskey "c">
+<!ENTITY numCopies.accesskey "N">
 
 <!ENTITY printframeGroup.label "Argraffu Fframiau">
-<!ENTITY aslaidoutRadio.label "Yn ôl gosodiad ar y sgrîn">
-<!ENTITY aslaidoutRadio.accesskey "u">
+<!ENTITY aslaidoutRadio.label "Yn ôl gosodiad ar y sgrin">
+<!ENTITY aslaidoutRadio.accesskey "g">
 <!ENTITY selectedframeRadio.label  "Y ffrâm dewis">
 <!ENTITY selectedframeRadio.accesskey  "m">
 <!ENTITY eachframesepRadio.label  "Pob ffrâm ar wahân">
-<!ENTITY eachframesepRadio.accesskey  "E">
-
+<!ENTITY eachframesepRadio.accesskey  "P">

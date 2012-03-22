@@ -16,13 +16,14 @@ gwirio diweddariadau awtomatig &brandShortName;.">
 <!ENTITY  manualUpdate.title              "Yn Barod i Ddiweddaru">
 <!ENTITY  manualUpdate.desc               "Mae diweddariad diogelwch a sefydlogrwydd ar gael, ond nid oes gennych 
 y caniatâd system i'w osod. Cysylltwch â'ch gweinyddwr system, neu ceisiwch 
-eto o gyfrif sydd â chaniatâd i osod meddalwedd ar y cyfrifiadur hwn.">
-<!ENTITY  manualUpdate.space.desc         "Mae diweddariad diogelwch a sefydlogrwydd ar gael ond nid oes gennych
-                                           ddigon o le i'w osod.">
+eto o gyfrif sydd â chaniatâd i osod meddalwedd ar y cyfrifiadur hwn.
+">
+<!ENTITY  manualUpdate.space.desc         "Mae diweddariad diogelwch a sefydlogrwydd ar gael ond nid oes gennych 
+ddigon o le i'w osod.">
 <!ENTITY  manualUpdateGetMsg.label        "Mae modd cael y fersiwn diweddaraf o &brandShortName; yn:">
 
 <!ENTITY  incompatibleCheck.title         "Gwirio Cytunedd yr Ychwanegyn">
-<!ENTITY  incompatibleCheck.label         "Chwilio am fersiwn mwy diweddar o'ch ychwanegion...">
+<!ENTITY  incompatibleCheck.label         "Chwilio am fersiwn mwy diweddar o'ch ychwanegion…">
 
 <!ENTITY  clickHere.label                 "Darllen mwy am y diweddariad">
 
@@ -33,7 +34,7 @@ gynted ag y bo modd.">
 isod i barhau i osod y diweddariad.">
 
 <!ENTITY  license.titleText               "Cytundeb Trwydded Meddalwedd">
-<!ENTITY  license.introText               "Amodau defnyddio'r feddalwedd">
+<!ENTITY  license.introText               "Amodau defnyddio'r feddalwedd.">
 <!ENTITY  license.instructionText         "Darllenwch y cytundeb trwyddedu canlynol. Defnyddiwch y bar sgrolio i ddarllen gweddill y cytundeb.">
 <!ENTITY  license.accept                  "Rwy'n Derbyn amodau’r Cytundeb Trwyddedu">
 <!ENTITY  license.accept.accesskey        "c">
@@ -43,8 +44,8 @@ isod i barhau i osod y diweddariad.">
 <!ENTITY  incompatibleList.title          "Wedi Canfod Ychwanegion Anghytûn">
 
 <!ENTITY  downloadPage.title              "Llwytho &brandShortName; i lawr">
-<!ENTITY  downloading.intro               "Llwytho'r diweddariad...">
-<!ENTITY  connecting.label                "Cysylltu á'r gweinydd diweddaru...">
+<!ENTITY  downloading.intro               "Llwytho'r diweddariad…">
+<!ENTITY  connecting.label                "Cysylltu á'r gweinydd diweddaru…">
 <!ENTITY  verificationFailedText.label    "Nid oedd &brandShortName; yn gallu gwirio integriad y 
 diweddariad cynyddol mae wedi ei lwytho, felly mae'n 
 llwytho'r pecyn diweddaru cyfan.">
@@ -59,23 +60,23 @@ llwytho'r pecyn diweddaru cyfan.">
 modd diweddaru &brandShortName; oherwydd:">
                                            
 <!ENTITY  errorManual.label               "Gallwch ddiweddaru &brandShortName; gyda llaw drwy ymweld 
-â'r cysylltiad a llwytho'r fersiwn diweddaraf.">
+â'r dolenni a llwytho'r fersiwn diweddaraf:">
                                            
 <!ENTITY  errorpatching.intro             "Nid oedd modd gosod y Diweddariad rhannol. 
 Bydd &brandShortName; yn ceisio eto drwy lwytho'r Diweddariad cyfan.">
 
-<!ENTITY  genericBackgroundError.label    "Mae &brandShortName; yn methu pennu a oes diweddariad ar gael.
-                                           Gwnewch yn siŵr fod fersiwn diweddaraf o &brandShortName; gennych o:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "Mae rhywbeth yn atal &brandShortName; rhag diweddaru'n ddiogel.
-                                           Gwnewch yn siŵr fod fersiwn diweddaraf o &brandShortName; gennych o:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Mae rhywbeth yn ceisio twyllo &brandShortName; i dderbyn
-                                           diweddariad anniogel. Cysylltwch â'ch darparwr rhwydwaith er mwyn cael cymorth.">
+<!ENTITY  genericBackgroundError.label    "Mae &brandShortName; yn methu pennu a oes diweddariad ar gael. 
+Gwnewch yn siŵr fod fersiwn diweddaraf o &brandShortName; gennych o:">
+<!ENTITY  errorCertAttrNoUpdate2.label    "Mae rhywbeth yn atal &brandShortName; rhag diweddaru'n ddiogel. 
+Gwnewch yn siŵr fod fersiwn diweddaraf o &brandShortName; gennych o:">
+<!ENTITY  errorCertAttrHasUpdate.label    "Mae rhywbeth yn ceisio twyllo &brandShortName; i dderbyn 
+diweddariad anniogel. Cysylltwch â'ch darparwr rhwydwaith er mwyn cael cymorth.">
 
 <!ENTITY  finishedPage.title              "Diweddariad yn Barod i'w Osod">
 <!ENTITY  finishedPage.text               "Bydd y diweddariad yn cael ei osod y tro nesaf y bydd &brandShortName; yn cychwyn. 
 Mae modd ailgychwyn &brandShortName; nawr, neu barhau i weithio ac ailgychwyn yn hwyrach.">
 
-<!ENTITY  finishedBackgroundPage.text     "Mae diweddariad diogelwch a sefydlogrwydd ar gyfer  &brandShortName; 
+<!ENTITY  finishedBackgroundPage.text     "Mae diweddariad diogelwch a sefydlogrwydd ar gyfer &brandShortName; 
 wedi ei lwytho i lawr ac mae'n barod i'w osod.">
 <!ENTITY  finishedBackground.name         "Diweddaru:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
@@ -84,9 +85,8 @@ Mae modd ailgychwyn &brandShortName; nawr, neu barhau i weithio ac ailgychwyn yn
 
 <!ENTITY  installed.title                 "Diweddariad wedi ei Osod">
 <!ENTITY  installed.intro                 "Cafodd y diweddariad ei osod yn llwyddiannus.">
-<!ENTITY  whatsnew.label                  "Beth sy'n newydd...">
+<!ENTITY  whatsnew.label                  "Beth sy'n newydd…">
 
 <!ENTITY  update.details.label            "Manylion">
 <!ENTITY  update.installedOn.label        "Gosodwyd ar:">
 <!ENTITY  update.status.label             "Statws:">
-

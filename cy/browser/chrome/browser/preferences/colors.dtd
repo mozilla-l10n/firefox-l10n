@@ -3,7 +3,7 @@
 <!ENTITY  window.macWidth                 "41em">
 
 <!ENTITY  allowPagesToUse.label           "Caniatáu i dudalennau ddewis eu lliw eu hun, yn lle fy newis i uchod">
-<!ENTITY  allowPagesToUse.accesskey       "A">
+<!ENTITY  allowPagesToUse.accesskey       "a">
 
 <!ENTITY  color                           "Testun a Chefndir">
 <!ENTITY  textColor.label                 "Testun:">
@@ -13,11 +13,10 @@
 <!ENTITY  useSystemColors.label           "Defnyddio lliwiau'r system">
 <!ENTITY  useSystemColors.accesskey       "s">
 
-<!ENTITY  underlineLinks.label            "Tanlinellu cysylltiadau">
-<!ENTITY  underlineLinks.accesskey        "u">
-<!ENTITY  links                           "Lliwiau Cysylltiadau">
-<!ENTITY  linkColor.label                 "Cysylltiadau heb gael ymweliad:">
-<!ENTITY  linkColor.accesskey             "l">
-<!ENTITY  visitedLinkColor.label          "Cysylltiadau wedi cael ymweliad:">
+<!ENTITY  underlineLinks.label            "Tanlinellu dolenni">
+<!ENTITY  underlineLinks.accesskey        "d">
+<!ENTITY  links                           "Lliw Dolenni">
+<!ENTITY  linkColor.label                 "Dolenni heb gael Ymweliad:">
+<!ENTITY  linkColor.accesskey             "D">
+<!ENTITY  visitedLinkColor.label          "Dolenni wedi cael Ymweliad:">
 <!ENTITY  visitedLinkColor.accesskey      "w">
-

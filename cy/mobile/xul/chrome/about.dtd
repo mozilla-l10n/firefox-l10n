@@ -6,14 +6,13 @@
 <!ENTITY aboutPage.relNotes.label               "Nodiadau Rhyddhau">
 <!ENTITY aboutPage.credits.label                "Diolchiadau">
 <!ENTITY aboutPage.checkForUpdates.button       "Gwirio am Ddiweddariadau">
-<!ENTITY aboutPage.checkForUpdates.checking     "Chwilio am ddiweddariadau...">
+<!ENTITY aboutPage.checkForUpdates.checking     "Chwilio am ddiweddariadau…">
 <!ENTITY aboutPage.checkForUpdates.none         "Dim diweddariadau ar gael">
 <!ENTITY aboutPage.checkForUpdates.found        "Diweddariadau ar gael">
-
-
 <!-- LOCALIZATION NOTE:
      These strings are concatenated in order. Unneeded strings may be left blank.
 -->
+
+
 <!ENTITY aboutPage.licenseLink                  "Gwybodaeth trwyddedu">
 <!ENTITY aboutPage.licenseLinkSuffix            ".">
-

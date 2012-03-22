@@ -3,11 +3,11 @@
 
 <!ENTITY sanitizeItems.label          "Clirio'r eitemau canlynol nawr:">
 <!ENTITY clearDataSettings2.label     "Pan fydda i'n gadael &brandShortName;, dylai glirio popeth yn awtomatig:">
-
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
-<!ENTITY clearTimeDuration.label          "Ystod amser i'w glirio'r:">
+
+<!ENTITY clearTimeDuration.label          "Ystod amser i'w glirio'r: ">
 <!ENTITY clearTimeDuration.accesskey      "a">
 <!ENTITY clearTimeDuration.lastHour       "Awr Olaf">
 <!ENTITY clearTimeDuration.last2Hours     "Dwy Awr Olaf">
@@ -19,19 +19,19 @@ that require it.  -->
 <!ENTITY clearTimeDuration.suffix         "">
 <!ENTITY clearTimeDuration.dateColumn     "Dyddiad Ymweliad">
 <!ENTITY clearTimeDuration.nameColumn     "Enw">
-
 <!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
      of the "Details" progressive disclosure button.  See UI mockup at bug
      480169 -->
+
 <!ENTITY detailsProgressiveDisclosure.label     "Manylion">
 <!ENTITY detailsProgressiveDisclosure.accesskey "M">
 
 <!ENTITY historySection.label         "Hanes">
 <!ENTITY dataSection.label            "Data">
-
 <!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
      itemBrowsingHistory.* will never be used at the same time, so they can
      have the same accesskey. -->
+
 <!ENTITY itemHistoryAndDownloads.label     "Hanes Pori a Llwytho i Lawr">
 <!ENTITY itemHistoryAndDownloads.accesskey "H">
 <!ENTITY itemBrowsingHistory.label         "Hanes Pori">
@@ -52,12 +52,11 @@ that require it.  -->
 <!ENTITY itemActiveLogins.accesskey        "M">
 <!ENTITY itemSitePreferences.label         "Dewisiadau'r Wefan">
 <!ENTITY itemSitePreferences.accesskey     "D">
-
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
      mockup at bug 480169 -->
+
 <!ENTITY sanitizeEverythingUndoWarning     "Nid oes modd dadwneud y weithred.">
 
 <!ENTITY dialog.width                 "28em">
 <!ENTITY column.width                 "14em">
-

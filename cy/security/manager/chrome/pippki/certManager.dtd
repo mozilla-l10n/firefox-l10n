@@ -57,7 +57,7 @@
 <!ENTITY certmgr.detail.prettyprint_tab.title "Manylion">
 <!ENTITY certmgr.detail.prettyprint_tab.accesskey "M">
 
-<!ENTITY certmgr.pending.label                "Wrthi'n dilysu'r dystysgrif...">
+<!ENTITY certmgr.pending.label                "Wrthi'n dilysu'r dystysgrif…">
 <!ENTITY certmgr.subjectinfo.label            "Dynodwyd i">
 <!ENTITY certmgr.issuerinfo.label             "Cyhoeddwyd gan">
 <!ENTITY certmgr.validity.label               "Dilysrwydd" >
@@ -80,7 +80,7 @@
 <!ENTITY certmgr.editsslcert.edittrust        "Golygu gosodiadau diogelwch tystysgrifau:">
 <!ENTITY certmgr.editsslcert.dotrust          "Ymddiried yn nilysrwydd y dystysgrif.">
 <!ENTITY certmgr.editsslcert.donttrust        "Peidio ymddiried yn nilysrwydd y dystysgrif.">
-<!ENTITY certmgr.editemailcert.title          "Edit email certificate trust settings">
+<!ENTITY certmgr.editemailcert.title          "Golygu gosodiadau ymddiriedaeth tystysgrif e-bost">
 <!ENTITY certmgr.editemailcert.edittrust      "Golygu gosodiadau diogelwch tystysgrifau:">
 <!ENTITY certmgr.editemailcert.dotrust        "Ymddiried yn nilysrwydd y dystysgrif.">
 <!ENTITY certmgr.editemailcert.donttrust      "Peidio ymddiried yn nilysrwydd y dystysgrif.">
@@ -90,7 +90,7 @@
 <!ENTITY certmgr.deletecert.aftername         "Ydych chi'n siŵr eich bod eisiau dileu'r dystysgrif?">
 <!ENTITY certmgr.deleteusercert.title         "Dileu Eich Tystysgrif">
 <!ENTITY certmgr.deleteusercert.beforename    "Rydych wedi gwneud cais i ddileu'r dystysgrif:">
-<!ENTITY certmgr.deleteusercert.aftername     "Unwaith i chi ddileu'r dystysgrif, ni fydd modd darllen e-bost sydd wedi ei amgryprio ganddi ">
+<!ENTITY certmgr.deleteusercert.aftername     "Unwaith i chi ddileu'r dystysgrif, ni fydd modd darllen e-bost sydd wedi ei amgryprio ganddi.">
 
 <!ENTITY certmgr.certname                     "Enw'r Dystysgrif">
 <!ENTITY certmgr.certserver                   "Gweinydd">
@@ -103,25 +103,25 @@
 
 <!ENTITY certmgr.close.label                  "Cau">
 <!ENTITY certmgr.close.accesskey              "C">
-<!ENTITY certmgr.view2.label                  "Golwg...">
+<!ENTITY certmgr.view2.label                  "Golwg…">
 <!ENTITY certmgr.view2.accesskey              "G">
-<!ENTITY certmgr.edit3.label                  "Golygu'r Ymddiried...">
+<!ENTITY certmgr.edit3.label                  "Golygu'r Ymddiriedaeth…">
 <!ENTITY certmgr.edit3.accesskey              "Y">
 <!ENTITY certmgr.editca.label                 "Golygu Ymddiriedaeth CA">
 <!ENTITY certmgr.editca.accesskey             "C">
 <!ENTITY certmgr.add.label                    "Ychwanegu">
 <!ENTITY certmgr.add.accesskey                "Y">
-<!ENTITY certmgr.export.label                 "Allforio...">
+<!ENTITY certmgr.export.label                 "Allforio…">
 <!ENTITY certmgr.export.accesskey             "A">
 <!ENTITY certmgr.delete2.label                "Dileu…">
 <!ENTITY certmgr.delete2.accesskey            "D">
-<!ENTITY certmgr.delete_builtin.label         "Dileu neu Ddrwgdybio">
+<!ENTITY certmgr.delete_builtin.label         "Dileu neu Ddrwgdybio…">
 <!ENTITY certmgr.delete_builtin.accesskey     "i">
-<!ENTITY certmgr.backup2.label                "Wrth Gefn...">
+<!ENTITY certmgr.backup2.label                "Wrth Gefn…">
 <!ENTITY certmgr.backup2.accesskey            "W">
-<!ENTITY certmgr.backupall2.label             "Popeth Wrth Gefn">
+<!ENTITY certmgr.backupall2.label             "Popeth Wrth Gefn…">
 <!ENTITY certmgr.backupall2.accesskey         "P">
-<!ENTITY certmgr.restore2.label               "Mewnforio">
+<!ENTITY certmgr.restore2.label               "Mewnforio…">
 <!ENTITY certmgr.restore2.accesskey           "M">
 <!ENTITY certmgr.details.label                "Meysydd Tystysgrif">
 <!ENTITY certmgr.details.accesskey            "T">
@@ -129,7 +129,7 @@
 <!ENTITY certmgr.fields.accesskey             "G">
 <!ENTITY certmgr.hierarchy.label              "Hierarchaeth Tystysgrifau">
 <!ENTITY certmgr.hierarchy.accesskey          "H">
-<!ENTITY certmgr.addException.label           "Ychwanegu Eithriad...">
+<!ENTITY certmgr.addException.label           "Ychwanegu Eithriad…">
 <!ENTITY certmgr.addException.accesskey       "Y">
 
 <!ENTITY exceptionMgr.title                   "Ychwanegu Eithriad Diogelwch">
@@ -141,8 +141,7 @@
 <!ENTITY exceptionMgr.certlocation.download   "Estyn Tystysgrif">
 <!ENTITY exceptionMgr.certlocation.accesskey  "G">
 <!ENTITY exceptionMgr.certstatus.caption      "Statws Tystysgrif">
-<!ENTITY exceptionMgr.certstatus.viewCert     "Golwg...">
+<!ENTITY exceptionMgr.certstatus.viewCert     "Golwg…">
 <!ENTITY exceptionMgr.certstatus.accesskey    "V">
 <!ENTITY exceptionMgr.permanent.label         "Cadw'r estyniad yn barhaol">
 <!ENTITY exceptionMgr.permanent.accesskey     "C">
-

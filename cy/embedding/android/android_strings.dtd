@@ -11,7 +11,7 @@
 <!ENTITY  crash_include_url "Cynnwys tudalen cyfeiriad">
 <!ENTITY  crash_close_label "Cau">
 <!ENTITY  crash_restart_label "Ailgychwyn &brandShortName;">
-<!ENTITY  sending_crash_report "Anfon adroddiad chwalu">
+<!ENTITY  sending_crash_report "Anfon adroddiad chwalu\u2026">
 <!ENTITY  exit_label "Gadael">
 <!ENTITY  continue_label "Parhau">
 
@@ -19,4 +19,3 @@
 <!ENTITY  launcher_shortcuts_empty "Heb ganfod aps gwe">
 
 <!ENTITY choose_file "Dewis Ffeil">
-

@@ -43,13 +43,13 @@
 <!ENTITY  copy.key              "C">
 <!ENTITY  copy.label            "Copïo">
 <!ENTITY  copy.accesskey        "C">
-<!ENTITY  selectall.key         "A">
+<!ENTITY  selectall.key         "P">
 <!ENTITY  selectall.label       "Dewis Popeth">
-<!ENTITY  selectall.accesskey   "p">
+<!ENTITY  selectall.accesskey   "P">
 <!ENTITY  closeWindow.key       "w">
 
 <!ENTITY  generalTab            "Cyffredinol">
-<!ENTITY  generalTab.accesskey  "y">
+<!ENTITY  generalTab.accesskey  "C">
 <!ENTITY  generalURL            "Cyfeiriad:">
 <!ENTITY  generalType           "Math:">
 <!ENTITY  generalMode           "Modd Llunio:">
@@ -75,7 +75,7 @@
 <!ENTITY  mediaDimension        "Maint:">
 <!ENTITY  mediaLongdesc         "Disgrifiad Hir:">
 <!ENTITY  mediaBlockImage.accesskey "B">
-<!ENTITY  mediaSaveAs           "Cadw Fel...">
+<!ENTITY  mediaSaveAs           "Cadw Fel…">
 <!ENTITY  mediaSaveAs.accesskey "C">
 <!ENTITY  mediaSaveAs2.accesskey "e">
 <!ENTITY  mediaPreview          "Rhagolwg Cyfrwng:">
@@ -107,7 +107,7 @@
 <!ENTITY  securityTab.accesskey "D">
 <!ENTITY  securityHeader        "Gwybodaeth diogelwch ar gyfer y dudalen hon">
 <!ENTITY  securityView.certView "Darllen y Dystysgrif">
-<!ENTITY  securityView.accesskey "V">
+<!ENTITY  securityView.accesskey "D">
 <!ENTITY  securityView.unknown   "Anhysbys">
 
 
@@ -126,4 +126,3 @@
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
 <!ENTITY  securityView.technical.header                 "Manylion Technegol">
-
