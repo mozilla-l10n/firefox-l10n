@@ -17,6 +17,8 @@
 <!ENTITY attachFileCmd.label "Archivo(s)…">
 <!ENTITY attachFileCmd.accesskey "v">
 <!ENTITY attachFileCmd.key "A">
+<!ENTITY attachCloudCmd.label "Filelink">
+<!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Página web…">
 <!ENTITY attachPageCmd.accesskey "w">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -269,6 +271,14 @@
 <!ENTITY selectAll.accesskey "t">
 <!ENTITY attachFile.label "Adjuntar archivo(s)…">
 <!ENTITY attachFile.accesskey "j">
+<!ENTITY attachCloud.label "Filelink…">
+<!ENTITY attachCloud.accesskey "i">
+<!ENTITY convertCloud.label "Convertir a…">
+<!ENTITY convertCloud.accesskey "C">
+<!ENTITY cancelUpload.label "Cancelar carga">
+<!ENTITY cancelUpload.accesskey "n">
+<!ENTITY convertRegularAttachment.label "Adjunto regular">
+<!ENTITY convertRegularAttachment.accesskey "A">
 <!ENTITY attachPage.label "Adjuntar página web…">
 <!ENTITY attachPage.accesskey "w">
 
