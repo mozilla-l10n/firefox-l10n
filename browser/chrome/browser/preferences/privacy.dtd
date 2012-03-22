@@ -63,11 +63,8 @@
 <!ENTITY  privateBrowsingPermanent2.label "Siempre usar el modo de navegación privada">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
-<!ENTITY  rememberHistory.label      "Recordar mi historial de navegación">
-<!ENTITY  rememberHistory.accesskey  "v">
-
-<!ENTITY  rememberDownload.label         "Recordar mi historial de descargas">
-<!ENTITY  rememberDownload.accesskey     "d">
+<!ENTITY  rememberHistory2.label      "Recordar mi historial de navegación y descargas">
+<!ENTITY  rememberHistory2.accesskey  "v">
 
 <!ENTITY  rememberSearchForm.label       "Recordar lo que haya ingresado en formularios y en la barra de búsqueda">
 <!ENTITY  rememberSearchForm.accesskey   "f">
