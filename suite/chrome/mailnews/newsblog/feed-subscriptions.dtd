@@ -15,6 +15,7 @@
 <!ENTITY quickMode.label             "Mostrar el resumen del artículo en vez de cargar la página web">
 <!ENTITY quickMode.accesskey         "M">
 
+<!ENTITY locationValidate.label      "Validar">
 <!ENTITY validateText.label          "Verificar validación y recuperar una dirección válida.">
 
 <!ENTITY button.addFeed.label        "Agregar">
