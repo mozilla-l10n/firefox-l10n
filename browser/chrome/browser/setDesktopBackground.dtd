@@ -2,6 +2,8 @@
 <!ENTITY tile.label                 "Leacaich">
 <!ENTITY center.label               "Cuir sa mheadhan">
 <!ENTITY stretch.label              "Sìn">
+<!ENTITY fill.label                 "Lìon">
+<!ENTITY fit.label                  "Co-fhreagair">
 <!ENTITY preview.label              "Ro-sheall">
 <!ENTITY color.label                "Dath:">
 <!ENTITY setDesktopBackground.title "Suidhich cùlaibh an deasg">

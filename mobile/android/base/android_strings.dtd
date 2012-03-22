@@ -27,9 +27,13 @@
 
 <!ENTITY awesomebar_default_text "Dèan lorg no cuir a-steach seòladh">
 
+<!ENTITY remote_tabs "Tabaichean sioncronaichte">
+<!ENTITY remote_tabs_show_all "Seall a h-uile taba">
+
 <!ENTITY bookmark "Comharra-lìn">
 <!ENTITY bookmark_added "Comharra-lìn air a chur ris">
 <!ENTITY bookmark_removed "Comharra-lìn air a thoirt air falbh">
+<!ENTITY bookmark_updated "Comharra-lìn air ùrachadh">
 
 <!ENTITY history_today_section "An-diugh">
 <!ENTITY history_yesterday_section "An-dè">
@@ -79,12 +83,19 @@
 <!ENTITY char_encoding "Còdachadh charactairean">
 
 <!ENTITY share "Co-roinn">
+<!ENTITY share_title "Co-roinn slighe">
 <!ENTITY save_as_pdf "Sàbhail mar PDF">
 
 <!ENTITY contextmenu_open_new_tab "Fosgail ann an taba ùr">
 <!ENTITY contextmenu_remove_bookmark "Thoir air falbh">
 <!ENTITY contextmenu_add_to_launcher "Cuir ris an sgrìn mhòr">
 <!ENTITY contextmenu_share "Co-roinn">
+<!ENTITY contextmenu_edit_bookmark "Deasaich">
+
+<!ENTITY bookmark_edit_title "Deasaich an comharra-lìn">
+<!ENTITY bookmark_edit_name "Ainm">
+<!ENTITY bookmark_edit_location "Àite">
+<!ENTITY bookmark_edit_keyword "Facal-luirg">
 
 <!ENTITY site_settings_title        "Glan roghainnean na làraich">
 <!ENTITY site_settings_cancel       "Sguir dheth">

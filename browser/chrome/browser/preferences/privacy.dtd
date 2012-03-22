@@ -15,7 +15,6 @@
 <!ENTITY  locbar.bookmarks.label        "Comharran-lìn">
 <!ENTITY  locbar.nothing.label          "Chan eil càil">
 
-
 <!ENTITY  acceptCookies.label           "Gabh ri briosgaidean o làraichean">
 <!ENTITY  acceptCookies.accesskey       "a">
 
@@ -64,11 +63,8 @@
 <!ENTITY  privateBrowsingPermanent2.label "Dèan brabhsadh prìobhaideach an-còmhnaidh">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
-<!ENTITY  rememberHistory.label      "Cuimhnich an eachdraidh brabhsaidh agam">
-<!ENTITY  rememberHistory.accesskey  "b">
-
-<!ENTITY  rememberDownload.label         "Cuimhnich eachdraidh dhe na chaidh a luchdadh a-nuas">
-<!ENTITY  rememberDownload.accesskey     "d">
+<!ENTITY  rememberHistory2.label      "Cuimhnich an eachdraidh brabhsaidh 's luchdaidh agam">
+<!ENTITY  rememberHistory2.accesskey  "b">
 
 <!ENTITY  rememberSearchForm.label       "Cuimhnich eachdraidh nan lorg is nam foirmichean">
 <!ENTITY  rememberSearchForm.accesskey   "f">
