@@ -29,7 +29,7 @@
 <!ENTITY newCreateEmailAccountCmd.accesskey "b">
 <!ENTITY newExistingEmailAccountCmd.label "Conta de correo existente…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "e">
-<!ENTITY newIMAccountCmd.label "Conta de chat…">
+<!ENTITY newIMAccountCmd.label "Conta de conversas…">
 <!ENTITY newIMAccountCmd.accesskey "C">
 <!ENTITY openMessageFileCmd.label "Abrir mensaxe gardada…">
 <!ENTITY openMessageFileCmd.accesskey "m">
@@ -330,7 +330,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.label "Atrás">
 <!ENTITY goBackCmd.accesskey "A">
 <!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goChatCmd.label "Chat">
+<!ENTITY goChatCmd.label "Conversas">
 <!ENTITY goChatCmd.accesskey "c">
 <!ENTITY goChatCmd.commandKey "C">
 <!ENTITY prevStarredMsgCmd.label "Mensaxe con estrela">
@@ -476,7 +476,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addons.accesskey "C">
 <!ENTITY activitymanager.label "Xestor de actividade">
 <!ENTITY activitymanager.accesskey "a">
-<!ENTITY imAccountsStatus.label "Estado do chat">
+<!ENTITY imAccountsStatus.label "Estado das conversas">
 <!ENTITY imAccountsStatus.accesskey "c">
 <!ENTITY imStatus.available          "Dispoñíbel">
 <!ENTITY imStatus.unavailable        "Non dispoñíbel">
@@ -535,7 +535,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.label "Correo lixo">
 <!ENTITY notJunkButton.label "Non é lixo">
 <!ENTITY addressBookButton.label "Axenda de enderezos">
-<!ENTITY chatButton.label "Chat">
+<!ENTITY chatButton.label "Conversas">
 <!ENTITY glodaSearch.title "Busca global">
 <!ENTITY searchItem.title "Busca rápida">
 <!ENTITY mailViewsToolbarItem.title "Visualizacións das mensaxes">
@@ -569,7 +569,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.tooltip "Marcar as mensaxes seleccionadas como correo lixo">
 <!ENTITY notJunkButton.tooltip "Marcar as mensaxes seleccionadas como correo normal">
 <!ENTITY addressBookButton.tooltip "Ir á axenda de enderezos">
-<!ENTITY chatButton.tooltip "Mostra a lapela do chat">
+<!ENTITY chatButton.tooltip "Mostra a lapela das conversas">
 <!ENTITY tagButton.tooltip "Etiquetar mensaxes">
 <!ENTITY compactButton.tooltip "Eliminar mensaxes eliminadas do cartafol seleccionado">
 

@@ -1,7 +1,7 @@
-<!ENTITY windowTitle.label            "Asistente da conta de chat">
+<!ENTITY windowTitle.label            "Asistente da conta de conversas">
 
-<!ENTITY accountProtocolTitle.label   "Rede de chat">
-<!ENTITY accountProtocolInfo.label    "Escolla a rede da súa conta de chat.">
+<!ENTITY accountProtocolTitle.label   "Rede de conversas">
+<!ENTITY accountProtocolInfo.label    "Escolla a rede da súa conta de conversas.">
 <!ENTITY accountProtocolField.label   "Rede:">
 <!ENTITY accountProtocolGetMore.label "Obter máis…">
 
