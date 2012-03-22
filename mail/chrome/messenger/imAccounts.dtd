@@ -1,0 +1,26 @@
+<!ENTITY accountsWindow.title                "Estado das mensagens instantâneas">
+<!ENTITY accountsWindow.style                "width: 28em; height: 19em;">
+<!ENTITY accountManager.newAccount.label     "Nova conta">
+<!ENTITY accountManager.newAccount.accesskey "N">
+<!ENTITY accountManager.close.label          "Fechar">
+<!ENTITY accountManager.close.accesskey      "c">
+<!-- This should match account.commandkey in instantbird.dtd -->
+<!ENTITY accountManager.close.commandkey     "a">
+<!-- This title must be short, displayed with a big font size -->
+<!ENTITY accountManager.noAccount.title      "No account configured yet">
+<!ENTITY accountManager.noAccount.description "Click on the &accountManager.newAccount.label; button to let &brandShortName; guide you through the process of configuring one.">
+<!ENTITY account.autoSignOn.label     "Iniciar sessão no arranque">
+<!ENTITY account.autoSignOn.accesskey "S">
+<!ENTITY account.connect.label        "Ligar">
+<!ENTITY account.connect.accesskey    "g">
+<!ENTITY account.disconnect.label     "Desligar">
+<!ENTITY account.disconnect.accesskey "i">
+<!ENTITY account.edit.label           "Propriedades">
+<!ENTITY account.edit.accesskey       "P">
+<!ENTITY account.moveup.label         "Mover para cima">
+<!ENTITY account.movedown.label       "Mover para baixo">
+<!ENTITY account.cancelReconnection.label         "Cancelar religação">
+<!ENTITY account.cancelReconnection.accesskey     "a">
+<!ENTITY account.connecting           "A ligar…">
+<!ENTITY account.disconnecting        "A desligar…">
+<!ENTITY account.disconnected         "Não ligado">
