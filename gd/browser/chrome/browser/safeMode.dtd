@@ -39,7 +39,10 @@
 <!ENTITY safeModeDialog.title         "Modh tèarainte &brandShortName;">
 <!ENTITY window.width                 "45em">
 
-<!ENTITY safeModeDescription.label    "Tha &brandShortName; ag ruith sa mhodh tèarainte a-nis is bidh na roghainnean, coltasan is leudachain ghnàthaichte agad à comas rè seal.">
+<!ENTITY autoSafeModeIntro.label      "Dhùin &brandShortName; gu h-obann fhad 's a bha e a' tòiseachadh">
+<!ENTITY autoSafeModeDescription.label "Tha sinn fìor dhuilich gun do thachair sinn. Tha &brandShortName; sa mhodh tèarainte a-nis agus bidh na roghainnean gnàthaichte, ùrlaran is leudachain agad à rè seal.">
+
+<!ENTITY safeModeDescription.label    "Tha &brandShortName; ag ruith sa mhodh tèarainte a-nis is bidh na roghainnean, ùrlaran is leudachain ghnàthaichte agad à comas rè seal.">
 <!ENTITY safeModeDescription2.label   "'S urrainn dhut na h-atharrachaidhean seo gu lèir, no cuid dhiubh, a chur an sàs gu buan:">
 
 <!ENTITY disableAddons.label          "Dèan gach tuillead neo chomasach">

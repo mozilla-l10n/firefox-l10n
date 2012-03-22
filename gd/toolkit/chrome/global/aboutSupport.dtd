@@ -14,7 +14,13 @@ agad mu &brandShortName;, cuir sùil air an <a id='supportLink'>làrach-taice</a
 <!ENTITY aboutSupport.appBasicsTitle "Bun-tùs a' phrògraim">
 <!ENTITY aboutSupport.appBasicsName "Ainm">
 <!ENTITY aboutSupport.appBasicsVersion "Tionndadh">
+
 <!ENTITY aboutSupport.appBasicsProfileDir "Eòlaire nam pròifilean">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Pasgan na pròifil">
+
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Plugain a tha an comas">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Rèiteachadh na togalach">
 <!ENTITY aboutSupport.appBasicsUserAgent "UserAgent">
@@ -25,7 +31,6 @@ agad mu &brandShortName;, cuir sùil air an <a id='supportLink'>làrach-taice</a
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
-
 <!ENTITY aboutSupport.showMac.label "Seall san lorgair">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
@@ -36,6 +41,11 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsValue "Luach">
 
 <!ENTITY aboutSupport.graphicsTitle "Grafaigean">
+
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "GC ceum air cheum">
+
+<!ENTITY aboutSupport.libraryVersionsTitle "Tionndaidhean leabharlainn">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Eachdraidh stàlaidh">
 <!ENTITY aboutSupport.updateHistoryTitle "Eachdraidh nan ùrachaidhean">
