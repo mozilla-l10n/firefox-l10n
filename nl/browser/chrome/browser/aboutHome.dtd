@@ -1,6 +1,7 @@
-<!ENTITY % brandDTD
-    SYSTEM "chrome://branding/locale/brand.dtd">
-  %brandDTD;
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+<!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
+%syncBrandDTD;
 
 <!-- These strings are used in the about:home page -->
 
@@ -19,5 +20,9 @@
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "Het is eenvoudig om uw Firefox helemaal naar wens aan te passen. <a>Maak een keuze uit duizenden add-ons</a>.">
 
-<!ENTITY abouthome.syncSetup.label   "Sync instellen">
-<!ENTITY abouthome.pairDevice.label  "Een apparaat koppelen">
+<!ENTITY abouthome.bookmarksButton.label "Bladwijzers">
+<!ENTITY abouthome.historyButton.label   "Geschiedenis">
+<!ENTITY abouthome.settingsButton.label  "Instellingen">
+<!ENTITY abouthome.addonsButton.label    "Add-ons">
+<!ENTITY abouthome.appsButton.label      "Marketplace">
+<!ENTITY abouthome.downloadsButton.label "Downloads">
