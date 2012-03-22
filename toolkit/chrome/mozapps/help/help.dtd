@@ -14,8 +14,8 @@
 <!ENTITY copyCmd.accesskey              "K">
 <!ENTITY selectAllCmd.label             "Tümünü seç">
 <!ENTITY selectAllCmd.accesskey         "T">
-<!ENTITY goBackCmd.commandkey           "-">
-<!ENTITY goForwardCmd.commandkey        "+">
+<!ENTITY goBackCmd.commandkey           "[">
+<!ENTITY goForwardCmd.commandkey        "]">
 <!ENTITY homeButton.label               "Başlangıç">
 <!ENTITY homeButton.tooltip             "Yardım ana sayfasına gider">
 <!ENTITY printButton.label              "Yazdır">

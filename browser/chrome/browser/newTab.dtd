@@ -1,7 +1,3 @@
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "Yeni sekme">
 
-<!ENTITY newtab.show "Yeni sekme sayfasını göster">
-<!ENTITY newtab.hide "Yeni sekme sayfasını gizle">
-<!ENTITY newtab.reset "Yeni sekme sayfasını sıfırla">
-

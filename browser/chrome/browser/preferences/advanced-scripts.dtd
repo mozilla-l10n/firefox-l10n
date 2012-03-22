@@ -36,7 +36,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY advancedJSDialog.title         "Gelişmiş JavaScript seçenekleri">
-<!ENTITY window.width                   "42em">
+<!ENTITY window.width                   "37em">
 
 <!ENTITY allowScripts.label             "Betiklerin aşağıdaki işlemleri yapmasına izin ver:">
 
