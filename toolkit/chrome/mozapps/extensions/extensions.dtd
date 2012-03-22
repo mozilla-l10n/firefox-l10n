@@ -1,25 +1,25 @@
 <!ENTITY addons.windowTitle                   "Rheolwr Ychwanegion">
 
-<!ENTITY search.placeholder                   "Chwilio drwy'r  ychwanegion">
+<!ENTITY search.placeholder                   "Chwilio drwy'r ychwanegion">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
-<!ENTITY loading.label                        "Llwytho...">
-<!ENTITY listEmpty.installed.label            "Nid oes gennych  ychwanegion o'r math yma wedi eu gosod">
+<!ENTITY loading.label                        "Llwytho…">
+<!ENTITY listEmpty.installed.label            "Nid oes gennych ychwanegion o'r math yma wedi eu gosod">
 <!ENTITY listEmpty.availableUpdates.label     "Heb ganfod diweddariadau">
 <!ENTITY listEmpty.recentUpdates.label        "Nid ydych wedi diweddaru eich ychwanegion yn ddiweddar">
 <!ENTITY listEmpty.findUpdates.label          "Gwirio am Ddiweddariadau">
 <!ENTITY listEmpty.search.label               "Methu canfod ychwanegion o'r un math">
 <!ENTITY listEmpty.button.label               "Dysgu rhagor am ychwanegion">
-<!ENTITY installAddonFromFile.label           "Gosod Ychwanegyn o Ffeil...">
+<!ENTITY installAddonFromFile.label           "Gosod Ychwanegyn o Ffeil…">
 <!ENTITY installAddonFromFile.accesskey       "G">
 <!ENTITY toolsMenu.tooltip                    "Offer ar gyfer pob ychwanegyn">
 
 <!ENTITY cmd.back.tooltip                     "Nôl un tudalen">
 <!ENTITY cmd.forward.tooltip                  "Ymlaen un tudalen">
-
 <!-- global warnings -->
+
 <!ENTITY warning.safemode.label                    "Mae pob ychwanegyn wedi eu hanablu gan y modd diogel.">
 <!ENTITY warning.checkcompatibility.label          "Mae gwirio cydnawsedd ychwanegion wedi ei anablu. Efallai fod gennych ychwanegion anghydnaws.">
 <!ENTITY warning.checkcompatibility.enable.label   "Galluogi">
@@ -27,18 +27,18 @@
 <!ENTITY warning.updatesecurity.label              "Mae gwirio diogelwch diweddariad wedi ei alluogi. Efallai eich bod o dan fygythiad gan ddiweddariad.">
 <!ENTITY warning.updatesecurity.enable.label       "Galluogi">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Galluogi gwirio diogelwch diweddariad ychwanegyn">
-
 <!-- global informations -->
+
 <!ENTITY info.plugincheck.label                 "Gwirio os yw eich ategion yn rhai diweddar">
 <!ENTITY info.plugincheck.tooltip               "Gwirio os yw eich ategion yn rhai diweddar">
-
 <!-- categories / views -->
+
 <!ENTITY view.search.label                    "Chwilio">
 <!ENTITY view.discover.label                  "Estyn Ychwanegion">
 <!ENTITY view.recentUpdates.label             "Diweddariadau Diweddar">
 <!ENTITY view.availableUpdates.label          "Diweddariadau ar Gael">
-
 <!-- addon updates -->
+
 <!ENTITY updates.checkForUpdates.label        "Gwirio am Ddiweddariadau">
 <!ENTITY updates.checkForUpdates.accesskey    "G">
 <!ENTITY updates.viewUpdates.label            "Gweld Diweddariadau Diweddar">
@@ -66,8 +66,8 @@
 <!ENTITY updates.manualUpdatesFound.label     "Gweld Diweddariadau ar Gael">
 <!ENTITY updates.updateSelected.label         "Gosod Diweddariadau">
 <!ENTITY updates.updateSelected.tooltip       "Gosod diweddariadau sydd ar gael o'r rhestr">
-
 <!-- addon actions -->
+
 <!ENTITY cmd.showDetails.label                "Dangos Rhagor o Wybodaeth">
 <!ENTITY cmd.showDetails.accesskey            "D">
 <!ENTITY cmd.findUpdates.label                "Canfod Diweddariadau">
@@ -103,18 +103,18 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Dangos Nodiadau Rhyddhau'r diweddariad yma">
 <!ENTITY cmd.hideReleaseNotes.label           "Cuddio'r Nodiadau Ryddhau">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Cuddio nodiadau ryddhau'r diweddariad yma">
-
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
-<!ENTITY discover.title                       "Beth yw Ychwanegion?">
-<!ENTITY discover.description2                "Mae Ychwanegion yn raglenni sy'n caniatáu i chi bersenoleiddio &brandShortName;
-  gyda swyddogaethau neu steil ychwanegol. Defnyddiwch y bar ochr, hysbysydd tywydd, neu thema
-  i'ch gwneud yn gysurus gyda &brandShortName;.">
-<!ENTITY discover.footer                      "Pan fyddwch wedi cysylltu â'r rhyngrwyd, bydd y paen yn
-  cynnwys rhai o'r ychwanegion gorau a mwyaf poblogaidd i chi eu dewis.">
 
+<!ENTITY discover.title                       "Beth yw Ychwanegion?">
+<!ENTITY discover.description2                "Mae Ychwanegion yn raglenni sy'n caniatáu i chi bersenoleiddio &brandShortName; 
+gyda swyddogaethau neu steil ychwanegol. Defnyddiwch y bar ochr, hysbysydd tywydd, neu thema 
+i'ch gwneud yn gysurus gyda &brandShortName;.">
+<!ENTITY discover.footer                      "Pan fyddwch wedi cysylltu â'r rhyngrwyd, bydd y paen yn 
+cynnwys rhai o'r ychwanegion gorau a mwyaf poblogaidd i chi eu dewis.">
 <!-- detail view -->
+
 <!ENTITY detail.version.label                 "Fersiwn">
 <!ENTITY detail.lastupdated.label             "Diweddarwyd Diwethaf">
 <!ENTITY detail.creator.label                 "Datblygwr">
@@ -143,17 +143,17 @@
 <!ENTITY detail.showPreferencesUnix.label     "Dewisiadau">
 <!ENTITY detail.showPreferencesUnix.accesskey "e">
 <!ENTITY detail.showPreferencesUnix.tooltip   "Newid dewisiadau'r ychwanegyn">
-
-
 <!-- ratings -->
-<!ENTITY rating2.label                        "Graddio">
 
+
+<!ENTITY rating2.label                        "Graddio">
 <!-- download/install progress -->
+
 <!ENTITY progress.pause.tooltip               "Oedi">
 <!ENTITY progress.cancel.tooltip              "Diddymu">
-
-
 <!-- list sorting -->
+
+
 <!ENTITY sort.name.label                      "Enw">
 <!ENTITY sort.name.tooltip                    "Trefnu yn ôl enw">
 <!ENTITY sort.dateUpdated.label               "Diweddarwyd Diwethaf">
@@ -193,9 +193,9 @@
 <!ENTITY addon.updateNow.tooltip              "Gosod diweddariad yr ychwanegyn yma">
 <!ENTITY addon.includeUpdate.label            "Cynnwys yn y Diweddariad">
 <!ENTITY addon.updateAvailable.label          "Mae diweddariad ar gael">
-<!ENTITY addon.checkingForUpdates.label       "Gwirio am ddiweddariadau...">
+<!ENTITY addon.checkingForUpdates.label       "Gwirio am ddiweddariadau…">
 <!ENTITY addon.releaseNotes.label             "Nodiadau Ryddhau:">
-<!ENTITY addon.loadingReleaseNotes.label      "Llwytho...">
+<!ENTITY addon.loadingReleaseNotes.label      "Llwytho…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Sorry, but there was an error loading the release notes.">
 
 <!ENTITY addon.createdBy.label                "Gan ">
@@ -203,7 +203,6 @@
 <!ENTITY eula.title                           "Cytundeb Trwydded Defnyddiwr">
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
-<!ENTITY eula.accept                          "Derbyn a Gosod...">
+<!ENTITY eula.accept                          "Derbyn a Gosod…">
 
-<!ENTITY settings.path.button.label           "Pori...">
-
+<!ENTITY settings.path.button.label           "Pori…">

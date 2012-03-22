@@ -3,7 +3,7 @@
 <!ENTITY  offline.title                   "Mae &brandShortName; yn gweithio all-lein">
 <!ENTITY  offline.description             "Mae &brandShortName; angen mynd ar-lein i weld os oes 
 diweddariad ar gael i'ch ychwanegion i'w gwneud yn gymharus 
-gyda'r fersiwn hon">
+gyda'r fersiwn hon.">
 <!ENTITY  offline.toggleOffline.label     "Ewch ar-lein.">
 <!ENTITY  offline.toggleOffline.accesskey "E">
 
@@ -14,8 +14,8 @@ yma o &brandShortName; ac maent wedi eu hanablu:">
 o'r ychwanegion hyn ar gael.">
 
 <!ENTITY  checking.wizard.title           "Gwirio am Ychwanegion Cytûn">
-<!ENTITY  checking.top.label              "Gwirio eich ychwanegion anghymarus am ddiweddariad...">
-<!ENTITY  checking.status                 "Gall hyn gymryd ychydig o amser...">
+<!ENTITY  checking.top.label              "Gwirio eich ychwanegion anghymarus am ddiweddariad…">
+<!ENTITY  checking.status                 "Gall hyn gymryd ychydig o amser…">
 
 <!ENTITY  found.wizard.title               "Wedi Canfod Ychwanegion Cytûn">
 <!ENTITY  found.top.label                 "Dewiswch yr ychwanegion yr hoffech ei osod:">
@@ -25,7 +25,7 @@ ei atal ar hyn o bryd. Gallwch newid y gosodiad isod.">
 <!ENTITY  found.enableXPInstall.accesskey "C">
 
 <!ENTITY  installing.wizard.title         "Rhestru Ychwanegion Cytûn">
-<!ENTITY  installing.top.label            "Llwytho a gosod diweddariadau i'ch ychwanegion...">
+<!ENTITY  installing.top.label            "Llwytho a gosod diweddariadau i'ch ychwanegion…">
 
 <!ENTITY  noupdates.wizard.title          "Heb Ganfod Ychwanegion Cytûn">
 <!ENTITY  noupdates.intro.desc            "Nid oedd &brandShortName; yn gallu canfod diweddariad 
@@ -49,14 +49,13 @@ ei anablu. Cysylltwch â'ch Gweinyddwr System am gymorth.">
 <!ENTITY  versioninfo.wizard.title        "Gwirio fod Ychwaegion yn Gytûn">
 <!ENTITY  versioninfo.top.label           "Gwirio pa ychwanegion sy'n gymharus gyda'r 
 fersiwn yma o &brandShortName;.">
-<!ENTITY  versioninfo.waiting             "Gall hyn gymryd ychydig o amser...">
+<!ENTITY  versioninfo.waiting             "Gall hyn gymryd ychydig o amser…">
 
 <!ENTITY  installerrors.wizard.title      "Problemau wrth Osod Diweddariadau">
 <!ENTITY  installerrors.intro.label       "Mae &brandShortName; wedi cael anhawster wrth 
 ddiweddaru rhai o'ch ychwanegion.">
-
 <!-- general strings used by several of the finish pages -->
+
 <!ENTITY  clickFinish.label               "Clicio Gorffen i gychwyn &brandShortName;.">
 <!ENTITY  clickFinish.labelMac            "Cliciwch Gorffen i barhau i gychwyn &brandShortName;.">
 <!ENTITY  enableChecking.label            "Caniatáu i &brandShortName; wirio am ddiweddariadau.">
-

@@ -23,26 +23,26 @@
 <!ENTITY view.sortDescending.label      "Trefnu Z > A">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
-<!ENTITY cmd.findInBookmarks.label      "Canfod mewn Nodau Tudaleni ...">
+<!ENTITY cmd.findInBookmarks.label      "Canfod mewn Nodau Tudalen…">
 <!ENTITY cmd.findInBookmarks.accesskey  "N">
-<!ENTITY cmd.findCurrent.label          "Canfod yn y Casgliad Cyfredol">
+<!ENTITY cmd.findCurrent.label          "Canfod yn y Casgliad Cyfredol…">
 <!ENTITY cmd.findCurrent.accesskey      "C">
 
-<!ENTITY importBookmarksFromHTML.label     "Mewnforio Nodau Tudalen o HTML...">
-<!ENTITY importBookmarksFromHTML.accesskey "I">
+<!ENTITY importBookmarksFromHTML.label     "Mewnforio Nodau Tudalen o HTML…">
+<!ENTITY importBookmarksFromHTML.accesskey "i">
 <!ENTITY exportBookmarksToHTML.label       "Allforio Nodau Tudalen i HTML…">
 <!ENTITY exportBookmarksToHTML.accesskey   "H">
 <!ENTITY importOtherBrowser.label          "Mewnforio Data o Borwr Arall…">
 <!ENTITY importOtherBrowser.accesskey      "A">
 
-<!ENTITY cmd.backup.label               "Wrth gefn ...">
+<!ENTITY cmd.backup.label               "Wrth Gefn…">
 <!ENTITY cmd.backup.accesskey           "W">
 <!ENTITY cmd.restore2.label             "Adfer">
 <!ENTITY cmd.restore2.accesskey         "A">
-<!ENTITY cmd.restoreFromFile.label      "Dewis Ffeil...">
+<!ENTITY cmd.restoreFromFile.label      "Dewis Ffeil…">
 <!ENTITY cmd.restoreFromFile.accesskey  "D">
 
-<!ENTITY cmd.bookmarkLink.label         "Gosod Nod Tudalen i'r Dudalen...">
+<!ENTITY cmd.bookmarkLink.label         "Gosod Nod Tudalen i'r Dudalen…">
 <!ENTITY cmd.bookmarkLink.accesskey     "G">
 <!ENTITY cmd.delete.label               "Dileu'r Dudalen Hon">
 <!ENTITY cmd.delete.accesskey           "D">
@@ -65,9 +65,9 @@
 <!ENTITY cmd.sortby_name.accesskey          "E">
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
 
-<!ENTITY cmd.new_bookmark.label            "Nod Tudalen Newydd">
+<!ENTITY cmd.new_bookmark.label            "Nod Tudalen Newydd…">
 <!ENTITY cmd.new_bookmark.accesskey        "N">
-<!ENTITY cmd.new_folder.label              "Ffolder Newydd">
+<!ENTITY cmd.new_folder.label              "Ffolder Newydd…">
 <!ENTITY cmd.new_folder.accesskey          "F">
 <!ENTITY cmd.context_new_folder.accesskey  "F">
 <!ENTITY cmd.new_separator.label           "Ymwahanydd Newydd">
@@ -76,7 +76,7 @@
 <!ENTITY cmd.reloadLivebookmark.label      "Ail lwytho Nod Tudalen Byw">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "A">
 
-<!ENTITY cmd.moveBookmarks.label                  "Symud...">
+<!ENTITY cmd.moveBookmarks.label                  "Symud…">
 <!ENTITY cmd.moveBookmarks.accesskey              "S">
 
 <!ENTITY col.name.label          "Enw">
@@ -115,7 +115,7 @@
 <!ENTITY forwardButton.tooltip  "Mynd ymlaen">
 
 <!ENTITY detailsPane.more.label "Mwy">
-<!ENTITY detailsPane.more.accesskey "R">
+<!ENTITY detailsPane.more.accesskey "M">
 <!ENTITY detailsPane.less.label "Llai">
 <!ENTITY detailsPane.less.accesskey "L">
 <!ENTITY detailsPane.selectAnItemText.description "Dewis eitem i'w gweld a golygu ei phriodweddau">
@@ -134,4 +134,3 @@
 <!ENTITY byLastVisited.accesskey  "D">
 <!ENTITY byDayAndSite.label       "Yn ôl Dyddiad a Gwefan">
 <!ENTITY byDayAndSite.accesskey   "Y">
-

@@ -10,7 +10,7 @@
 <!ENTITY  systemTypeRadio.accesskey     "g">
 <!ENTITY  WPADTypeRadio.label           "AwtoGanfod gosodiadau dirprwyol ar gyfer y rhwydwaith">
 <!ENTITY  WPADTypeRadio.accesskey       "A">
-<!ENTITY  manualTypeRadio.label         "Ffurfweddiad dirprwyol llaw">
+<!ENTITY  manualTypeRadio.label         "Ffurfweddiad dirprwyol llaw:">
 <!ENTITY  manualTypeRadio.accesskey     "l">
 <!ENTITY  autoTypeRadio.label           "URL ffurfweddu dirprwy yn awtomatig:">
 <!ENTITY  autoTypeRadio.accesskey       "U">
@@ -25,9 +25,9 @@
 <!ENTITY  socks.label                   "Gwesteiwr SOCKS v5:">
 <!ENTITY  socks.accesskey               "G">
 <!ENTITY  socks4.label                  "SOCKS v4">
-<!ENTITY  socks4.accesskey              "4">
+<!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
-<!ENTITY  socks5.accesskey              "5">
+<!ENTITY  socks5.accesskey              "v">
 <!ENTITY  port.label                    "Porth:">
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
@@ -38,4 +38,3 @@
 <!ENTITY  noproxyExplain.label          "Esiampl: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Defnyddio'r gweinydd dirprwyol ar gyfer pob protocol">
 <!ENTITY  shareproxy.accesskey          "e">
-

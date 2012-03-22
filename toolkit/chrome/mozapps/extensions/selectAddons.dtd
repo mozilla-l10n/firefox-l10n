@@ -36,11 +36,10 @@
 <!ENTITY update.progress.label       "Llwytho i lawr a gosod diweddariadau i'ch ychwanegion.">
 
 <!ENTITY errors.heading              "Methodd &brandShortName; â diweddaru rhai ychwanegion.">
-<!ENTITY errors.description          "Methodd gosod diweddariadau rhai o'ch ychwanegion.  Bydd &brandShortName; yn ceisio eu diweddaru'n awtomatig unwaith eto.">
+<!ENTITY errors.description          "Methodd gosod diweddariadau rhai o'ch ychwanegion. Bydd &brandShortName; yn ceisio eu diweddaru'n awtomatig unwaith eto.">
 
 <!ENTITY footer.label                "Mae modd newid eich ychwanegion drwy fynd i'r Rheolwr Ychwanegion.">
 <!ENTITY cancel.label                "Diddymu">
 <!ENTITY back.label                  "Nôl">
 <!ENTITY next.label                  "Nesaf">
 <!ENTITY done.label                  "Gorffen">
-

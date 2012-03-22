@@ -1,7 +1,7 @@
 
 <!ENTITY  splash_firstrun "Gosofd &brandShortName;\u2026">
 
-<!ENTITY  no_space_to_start_error "Nid oes digon o le i &brandShortName; i gychwyn.">
+<!ENTITY  no_space_to_start_error "Nid oes digon o le i &brandShortName; gychwyn.">
 <!ENTITY  error_loading_file "Digwyddodd gwall wrth geisio llwytho ffeiliau ar gyfer rhedeg &brandShortName;">
 
 <!ENTITY  awesomebar_all_pages_title "Gwefannau Gorau">
@@ -44,7 +44,7 @@
 <!ENTITY forward "Ymlaen">
 
 <!ENTITY new_tab "Tab Newydd">
-<!ENTITY new_tab_opened "New tab opened">
+<!ENTITY new_tab_opened "Tab newydd wedi ei agor">
 
 <!ENTITY settings "Gosodiadau">
 <!ENTITY settings_title "Gosodiadau">
@@ -119,4 +119,3 @@
 <!ENTITY abouthome_no_top_sites "Does gennych chi ddim gwefannau gorau eto. Tapiwch y Bar Teitl i gychwn pori.">
 <!ENTITY abouthome_about_sync "Gosod Firefox Sync i gael mynediad at nodau tudalen, hanes a tabiau eich dyfeisiau eraill">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
-

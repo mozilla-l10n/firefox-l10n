@@ -21,5 +21,4 @@
 <!ENTITY homepage.default                          "Cychwyn &brandShortName;">
 <!ENTITY homepage.currentpage                      "Defnyddio'r Dudalen Bresennol">
 <!ENTITY showCharsetEncoding.title                 "Dangos amgodiad nod">
-<!ENTITY actionbar.default                         "&brandShortName; Settings">
-
+<!ENTITY actionbar.default                         "Gosodiadau &brandShortName;">

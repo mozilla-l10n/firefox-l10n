@@ -7,8 +7,7 @@
 <!ENTITY blocklist.moreinfo          "Rhagor o wybodaeth">
 
 <!ENTITY blocklist.accept.label      "Ailgychwyn &brandShortName;">
-<!ENTITY blocklist.accept.accesskey  "R">
+<!ENTITY blocklist.accept.accesskey  "A">
 
 <!ENTITY blocklist.blocked.label     "Rhwystrwyd">
 <!ENTITY blocklist.checkbox.label    "Anablu">
-

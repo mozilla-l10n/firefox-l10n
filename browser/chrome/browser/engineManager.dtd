@@ -4,18 +4,18 @@
 
 <!ENTITY  columnLabel.name          "Enw">
 <!ENTITY  columnLabel.keyword       "Allweddair">
-
 <!-- Buttons -->
+
 <!ENTITY  up.label                  "Symud i Fyny">
 <!ENTITY  up.accesskey              "u">
 <!ENTITY  dn.label                  "Symud i Lawr">
 <!ENTITY  dn.accesskey              "d">
 <!ENTITY  remove.label              "Tynnu">
 <!ENTITY  remove.accesskey          "T">
-<!ENTITY  edit.label                "Golygu'r Allweddair...">
+<!ENTITY  edit.label                "Golygu'r Allweddair…">
 <!ENTITY  edit.accesskey            "A">
 
-<!ENTITY  addEngine.label           "Estyn peiriannau chwilio eraill...">
+<!ENTITY  addEngine.label           "Estyn peiriannau chwilio eraill…">
 <!ENTITY  addEngine.accesskey       "p">
 
 <!ENTITY  enableSuggest.label       "Dangos awgrymiadau chwlio">
@@ -23,4 +23,3 @@
 
 <!ENTITY  restoreDefaults.label     "Adfer y Rhagosodiad">
 <!ENTITY  restoreDefaults.accesskey "R">
-

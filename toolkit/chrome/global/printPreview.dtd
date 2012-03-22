@@ -35,19 +35,19 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY print.label          "Argraffu...">
+<!ENTITY print.label          "Argraffu…">
 <!ENTITY print.accesskey      "A">
-<!ENTITY pageSetup.label      "Gosodiad Tudalen">
+<!ENTITY pageSetup.label      "Gosodiad Tudalen…">
 <!ENTITY pageSetup.accesskey  "u">
 <!ENTITY page.label           "Tudalen:">
 <!ENTITY page.accesskey       "a">
 <!ENTITY of.label             "o">
 <!ENTITY scale.label          "Graddfa:">
-<!ENTITY scale.accesskey      "S">
+<!ENTITY scale.accesskey      "G">
 <!ENTITY portrait.label       "Portread">
 <!ENTITY portrait.accesskey   "o">
 <!ENTITY landscape.label      "Tirlun">
-<!ENTITY landscape.accesskey  "L">
+<!ENTITY landscape.accesskey  "l">
 <!ENTITY close.label          "Cau">
 <!ENTITY close.accesskey      "C">
 <!ENTITY p30.label            "30&#037;">
@@ -62,12 +62,11 @@
 <!ENTITY p150.label           "150&#037;">
 <!ENTITY p175.label           "175&#037;">
 <!ENTITY p200.label           "200&#037;">
-<!ENTITY Custom.label         "Cyfaddasu...">
+<!ENTITY Custom.label         "Cyfaddasu…">
 <!ENTITY ShrinkToFit.label    "Lleihau i'r Maint">
-<!ENTITY customPrompt.title   "Graddfa Cyfaddasu...">
+<!ENTITY customPrompt.title   "Graddfa Cyfaddasu…">
 
 <!ENTITY homearrow.tooltip    "Tudalen gyntaf">
 <!ENTITY endarrow.tooltip     "Tudalen olaf">
 <!ENTITY nextarrow.tooltip    "Tudalen nesaf">
 <!ENTITY previousarrow.tooltip "Tudalen blaenorol">
-

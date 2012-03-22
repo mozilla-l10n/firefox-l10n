@@ -23,8 +23,9 @@
 <!ENTITY checkSpelling.accesskey         "G">
 
 <!ENTITY systemDefaults.label            "Rhagosodiadau'r System">
-<!ENTITY alwaysCheckDefault.label        "Wrth gychwyn, gwirio i weld ai &brandShortName; yw'r porwr ragosodedig"><!--XXX-->
-<!ENTITY alwaysCheckDefault.accesskey    "w">
+<!--XXX-->
+<!ENTITY alwaysCheckDefault.label        "Wrth gychwyn, gwirio i weld ai &brandShortName; yw'r porwr ragosodedig">
+<!ENTITY alwaysCheckDefault.accesskey    "W">
 <!ENTITY checkNow.label                  "Gwirio Nawr">
 <!ENTITY checkNow.accesskey              "N">
 <!ENTITY submitCrashes.label             "Cyflwyno Adroddiadau Chwalu">
@@ -36,20 +37,20 @@
 
 <!ENTITY connection.label                "Cyswllt">
 
-<!ENTITY connectionDesc.label            "Pennu sut mae &brandShortName; yn cysylltu â'r We.">
-<!ENTITY connectionSettings.label        "Gosodiadau">
+<!ENTITY connectionDesc.label            "Pennu sut mae &brandShortName; yn cysylltu â'r We">
+<!ENTITY connectionSettings.label        "Gosodiadau…">
 <!ENTITY connectionSettings.accesskey    "G">
 
 <!ENTITY httpCache.label                 "Cynnwys Gwe wedi ei Storio">
 
 <!ENTITY offlineStorage2.label           "Cynnwys Gwe All-lein a Data Defnyddiwr">
-
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
+
 <!ENTITY limitCacheSizeBefore.label      "Cyfyngu’r storfa i">
 <!ENTITY limitCacheSizeBefore.accesskey  "C">
 <!ENTITY limitCacheSizeAfter.label       "MB o le">
@@ -62,7 +63,7 @@
 
 <!ENTITY updateTab.label                 "Diweddaru">
 
-<!ENTITY updateApp.label                 "Diweddariadau &brandShortName; ">
+<!ENTITY updateApp.label                 "Diweddariadau &brandShortName;:">
 <!ENTITY updateAuto.label                "Gosod diweddariadau (argymell: gwella diogelwch)">
 <!ENTITY updateAuto.accesskey            "d">
 <!ENTITY updateCheck.label               "Gwirio am ddiweddariadau, ond gadael i mi ddewis i'w gosod a'i peidio">
@@ -71,7 +72,7 @@
 <!ENTITY updateManual.accesskey          "B">
 
 <!ENTITY updateAutoAddonWarn.label       "Rhybuddio os fydd hwn yn anablu ategion">
-<!ENTITY updateAutoAddonWarn.accesskey   "r">
+<!ENTITY updateAutoAddonWarn.accesskey   "R">
 
 <!ENTITY updateHistory.label             "Dangos Hanes Diweddaru">
 <!ENTITY updateHistory.accesskey         "D">
@@ -85,12 +86,12 @@
 
 <!ENTITY offlineNotify.label             "Hysbysu pan fod gwefan yn gofyn i storio data ar gyfer defnydd all-lein">
 <!ENTITY offlineNotify.accesskey         "H">
-<!ENTITY offlineNotifyExceptions.label   "Eithriadau...">
+<!ENTITY offlineNotifyExceptions.label   "Eithriadau…">
 <!ENTITY offlineNotifyExceptions.accesskey "E">
 
 <!ENTITY offlineAppsList2.label          "Mae'r gwefannau canlyniol yn cael caniatad i storio data ar gyfer defnydd all-lein:">
 <!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Tynnu...">
+<!ENTITY offlineAppsListRemove.label     "Tynnu…">
 <!ENTITY offlineAppsListRemove.accesskey "T">
 <!ENTITY offlineAppRemove.confirm        "Tynnu data all-lein">
 
@@ -115,4 +116,3 @@
 <!ENTITY verify2.accesskey               "D">
 <!ENTITY viewSecurityDevices.label       "Dyfeisiau Diogelwch">
 <!ENTITY viewSecurityDevices.accesskey   "D">
-

@@ -28,10 +28,10 @@
 <!ENTITY  close.label                   "Cau &brandShortName;">
 <!ENTITY  askEachTime.label             "gofyn i mi bob tro">
 
-<!ENTITY  cookieExceptions.label        "Eithriadau...">
+<!ENTITY  cookieExceptions.label        "Eithriadau…">
 <!ENTITY  cookieExceptions.accesskey    "E">
 
-<!ENTITY  showCookies.label             "Dangos Cwcis...">
+<!ENTITY  showCookies.label             "Dangos Cwcis…">
 <!ENTITY  showCookies.accesskey         "C">
 
 <!ENTITY  historyHeader.pre.label          "Bydd &brandShortName; yn:">
@@ -42,10 +42,10 @@
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "Bydd &brandShortName; yn cofio eich hanes pori, llwytho, ffurflenni a chwilio ac yn cadw eich cwcis rhag Gwefannau byddwch yn ymweld â nhw.">
-
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+
 <!ENTITY  rememberActions.pre.label           "Efallai hoffech wybod am ">
 <!ENTITY  rememberActions.clearHistory.label  "glirio eich hanes diweddar">
 <!ENTITY  rememberActions.middle.label        ", neu ">
@@ -53,25 +53,24 @@
 <!ENTITY  rememberActions.post.label          ".">
 
 <!ENTITY  dontrememberDescription.label  "Bydd &brandShortName; yn defnyddio'r un gosodiadau â phori preifat, ond ni fydd yn cofio unrhyw hanes wrth i chi bori'r We.">
-
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-<!ENTITY  dontrememberActions.pre.label          "Efallai y byddwch eisiau">
+
+<!ENTITY  dontrememberActions.pre.label          "Efallai y byddwch eisiau ">
 <!ENTITY  dontrememberActions.clearHistory.label "clirio'r holl hanes presennol">
 <!ENTITY  dontrememberActions.post.label         ".">
 
 <!ENTITY  privateBrowsingPermanent2.label "Defnyddio'r modd pori preifat bob tro">
 <!ENTITY  privateBrowsingPermanent2.accesskey "D">
 
-<!ENTITY  rememberHistory2.label      "Remember my browsing and download history">
-<!ENTITY  rememberHistory2.accesskey  "b">
+<!ENTITY  rememberHistory2.label      "Cofio fy hanes pori a hanes llwytho i lawr">
+<!ENTITY  rememberHistory2.accesskey  "o">
 
 <!ENTITY  rememberSearchForm.label       "Cofio hanes chwilio a ffurflen">
-<!ENTITY  rememberSearchForm.accesskey   "c">
+<!ENTITY  rememberSearchForm.accesskey   "C">
 
 <!ENTITY  clearOnClose.label             "Clirio hanes pan fydd &brandShortName; yn cau">
 <!ENTITY  clearOnClose.accesskey         "l">
 
-<!ENTITY  clearOnCloseSettings.label     "Gosodiadau...">
+<!ENTITY  clearOnCloseSettings.label     "Gosodiadau…">
 <!ENTITY  clearOnCloseSettings.accesskey "G">
-

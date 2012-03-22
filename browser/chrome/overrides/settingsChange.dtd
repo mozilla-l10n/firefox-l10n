@@ -38,6 +38,5 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY  settingsChangePreferences.label  "Gall gosodiadau gael eu newid gan ddefnyddio tab Rhaglenni yn Dewisiadau &brandShortName;. ">
-<!ENTITY  settingsChangeOptions.label      "Gall gosodiadau gael eu newid gan ddefnyddio tab Rhaglenni yn Dewisiadau &brandShortName;. ">
-
+<!ENTITY  settingsChangePreferences.label  "Gall gosodiadau gael eu newid gan ddefnyddio tab Rhaglenni yn Dewisiadau &brandShortName;.">
+<!ENTITY  settingsChangeOptions.label      "Gall gosodiadau gael eu newid gan ddefnyddio tab Rhaglenni yn Dewisiadau &brandShortName;.">

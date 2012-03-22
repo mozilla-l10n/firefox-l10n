@@ -14,7 +14,7 @@
 <!ENTITY cut.label             "Torri">
 <!ENTITY copy.label            "Torri">
 <!ENTITY copyAll.label         "Copïo Popeth">
-<!ENTITY copylink.label        "Copïo Lleoliad Cysylltiad">
+<!ENTITY copylink.label        "Copïo Lleoliad Dolen">
 <!ENTITY paste.label           "Gludo">
 <!ENTITY pasteAndGo.label      "Gludo a Mynd">
 <!ENTITY delete.label          "Dileu">
@@ -92,13 +92,13 @@
 <!ENTITY consoleErrLine.label      "Llinell:">
 <!ENTITY consoleErrColumn.label    "Colofn:">
 
-<!ENTITY contextOpenInNewTab.label    "Agor Cyswllt mewn Tab Newydd">
+<!ENTITY contextOpenInNewTab.label    "Agor Dolen mewn Tab Newydd">
 <!ENTITY contextSaveImage.label       "Cadw Delwedd">
 <!ENTITY contextCopyLink.label        "Copïo Dolen">
 <!ENTITY contextCopyEmail.label       "Copïo Cyfeiriad E-bost">
 <!ENTITY contextCopyPhone.label       "Copïo Rhif Ffôn">
 <!ENTITY contextCopyImageLocation.label       "Copïo Lleoliad Delwedd">
-<!ENTITY contextShareLink.label       "Rhannu Cysylltiad">
+<!ENTITY contextShareLink.label       "Rhannu Dolenni">
 <!ENTITY contextShareImage.label      "Rhannu Delwedd">
 <!ENTITY contextBookmarkLink.label    "Dolen Nod Tudalen">
 <!ENTITY contextSaveVideo.label       "Cadw Fideo">
@@ -120,4 +120,3 @@
 <!ENTITY pageactions.charEncoding    "Nodau Amgodio">
 
 <!ENTITY appMenu.siteOptions         "Dewisiadau Gwefan">
-

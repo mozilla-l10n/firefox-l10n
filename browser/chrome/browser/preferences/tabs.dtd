@@ -10,9 +10,8 @@
 <!ENTITY showTabBar.label             "Dangos y bar tab">
 <!ENTITY showTabBar.accesskey         "D">
 
-<!ENTITY switchToNewTabs.label        "Wrth agor cysylltiad mewn tab newydd, newid yn syth iddo">
+<!ENTITY switchToNewTabs.label        "Wrth agor dolen mewn tab newydd, newid yn syth iddo">
 <!ENTITY switchToNewTabs.accesskey    "W">
 
 <!ENTITY showTabsInTaskbar.label          "Dangos rhagolwg tab ym mar tasgau Windows">
 <!ENTITY showTabsInTaskbar.accesskey      "n">
-

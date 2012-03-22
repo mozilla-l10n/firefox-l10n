@@ -57,14 +57,13 @@
 <!ENTITY devmgr.button.unload.accesskey         "D">
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
-<!ENTITY loaddevice.info                        "Rhoi gwybodaeth am y modiwl rydych eisiau ei ychwanegu">
-<!ENTITY loaddevice.modname                     "Enw Modiwl">
+<!ENTITY loaddevice.info                        "Rhoi gwybodaeth am y modiwl rydych eisiau ei ychwanegu.">
+<!ENTITY loaddevice.modname                     "Enw Modiwl:">
 <!ENTITY loaddevice.modname.accesskey           "M">
 <!ENTITY loaddevice.modname.default             "Modiwl newydd PKCS#11">
 <!ENTITY loaddevice.filename                    "Enw ffeil modiwl:">
 <!ENTITY loaddevice.filename.accesskey          "E">
-<!ENTITY loaddevice.browse                      "Pori...">
+<!ENTITY loaddevice.browse                      "Pori…">
 <!ENTITY loaddevice.browse.accesskey            "P">
 
 <!ENTITY loaddevice.title                       "Llwytho Dyfais PKCS#11">
-

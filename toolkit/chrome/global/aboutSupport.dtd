@@ -1,8 +1,9 @@
-<!ENTITY aboutSupport.pageTitle " Gwybodaeth am Ddatrys Problemau">
-
+<!ENTITY aboutSupport.pageTitle "Gwybodaeth am Ddatrys Problemau">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
-<!ENTITY aboutSupport.pageSubtitle "   Mae'r dudalen hon yn cynnwys gwybodaeth dechnegol a  allai  fod yn ddefnyddiol pan fyddwch yn ceisio datrys problem. Os ydych yn chwilio am atebion i gwestiynau\n
-cyffredin am a brandShortName;, edrychwch ar ein <a id='supportLink'>gwefan cefnogi.</a>.  ">
+
+<!ENTITY aboutSupport.pageSubtitle "  Mae'r dudalen hon yn cynnwys gwybodaeth dechnegol a allai fod yn ddefnyddiol
+pan fyddwch yn ceisio datrys problem. Os ydych yn chwilio am atebion i gwestiynnau
+cyffredin am &brandShortName;, edrychwch ar ein wefan cefnogi <a id='supportLink'></a>.">
 
 <!ENTITY aboutSupport.extensionsTitle "Estyniadau">
 <!ENTITY aboutSupport.extensionName "Enw">
@@ -42,12 +43,11 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsTitle "Graffigau">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
-<!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
+<!ENTITY aboutSupport.jsIncrementalGC "GC Cynnyddol">
 
-<!ENTITY aboutSupport.libraryVersionsTitle "Library Versions">
+<!ENTITY aboutSupport.libraryVersionsTitle "Fersiynau Llyfrgell">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Hanes Gosod">
 <!ENTITY aboutSupport.updateHistoryTitle "Hanes Diweddaru">
 
 <!ENTITY aboutSupport.copyToClipboard.label "Copïo popeth i'r clipfwrdd">
-

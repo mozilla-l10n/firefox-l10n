@@ -5,7 +5,7 @@
 <!ENTITY undoCmd.accesskey         "D">
 <!ENTITY redoCmd.label             "Ailwneud">
 <!ENTITY redoCmd.key               "R">
-<!ENTITY redoCmd.accesskey         "a">
+<!ENTITY redoCmd.accesskey         "A">
 <!ENTITY cutCmd.label              "Torri">
 <!ENTITY cutCmd.key                "X">
 <!ENTITY cutCmd.accesskey          "T">
@@ -16,7 +16,7 @@
 <!ENTITY pasteCmd.key              "V">
 <!ENTITY pasteCmd.accesskey        "G">
 <!ENTITY deleteCmd.label           "Dileu">
-<!ENTITY deleteCmd.accesskey       "d">
+<!ENTITY deleteCmd.accesskey       "D">
 <!ENTITY selectAllCmd.label        "Dewis Popeth">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "P">
@@ -29,4 +29,3 @@
 <!ENTITY findAgainCmd.accesskey    "a">
 <!ENTITY findPreviousCmd.label     "Canfod Blaenorol">
 <!ENTITY findPreviousCmd.accesskey "B">
-
