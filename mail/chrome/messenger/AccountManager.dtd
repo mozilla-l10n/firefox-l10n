@@ -4,9 +4,11 @@
 
 <!ENTITY accountActionsButton.label "Acciones de cuenta">
 <!ENTITY accountActionsButton.accesskey "A">
-<!ENTITY addMailAccountButton.label "Añadir cuenta de correo…">
+<!ENTITY addMailAccountButton.label "Agregar cuenta de correo…">
 <!ENTITY addMailAccountButton.accesskey "A">
-<!ENTITY addOtherAccountButton.label "Añadir otra cuenta…">
+<!ENTITY addIMAccountButton.label "Agregar cuenta de chat…">
+<!ENTITY addIMAccountButton.accesskey "c">
+<!ENTITY addOtherAccountButton.label "Agregar otra cuenta…">
 <!ENTITY addOtherAccountButton.accesskey "O">
 <!ENTITY setDefaultButton.label "Definir como predeterminada">
 <!ENTITY setDefaultButton.accesskey "f">
