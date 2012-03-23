@@ -1,5 +1,5 @@
 <!ENTITY feedSubscriptions.label "Feed-abonnementer">
-<!ENTITY subscriptionDesc.label "Håndter dine feed-abonnementer.">
+<!ENTITY subscriptionDesc.label "Bemærk, at hvis du fjerner eller ændrer en feed-mappe, vil det ikke påvirke tidligere hentede artikler.">
 <!ENTITY feedTitle.label "Titel:">
 <!ENTITY feedTitle.accesskey "T">
 <!ENTITY button.addFeed.label "Tilføj">
