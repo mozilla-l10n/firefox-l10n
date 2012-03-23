@@ -9,8 +9,8 @@ displayed at the end of the line. The translations of the
 reportIdleAfter.label and idleTime parts don't have to mean the exact
 same thing as in English; please try instead to translate the whole
 sentence. -->
-<!ENTITY  reportIdleAfter.label         "Let my contacts know that I am Idle after">
-<!ENTITY  reportIdleAfter.accesskey     "I">
+<!ENTITY  reportIdleAfter.label         "Dejar que mis contactos sepan que estoy inactivo después de">
+<!ENTITY  reportIdleAfter.accesskey     "i">
 <!ENTITY  idleTime                      "minutos de inactividad">
 
 <!ENTITY  andSetStatusToAway.label      "and set my status to Away with this status message:">
