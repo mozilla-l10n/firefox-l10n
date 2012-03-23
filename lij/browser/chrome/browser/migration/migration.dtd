@@ -1,7 +1,7 @@
 
 <!ENTITY migrationWizard.title          "Proçedûa goidâ de inportaçión">
 
-<!ENTITY importFrom.label               "Inportaçión de preferençe, segnalìbbri, stöia, paròlle segrétte e âtri dæti da:">
+<!ENTITY importFrom.label               "Inportaçión de preferénse, segnalìbbri, stöia, paròlle segrétte e âtri dæti da:">
 <!ENTITY importFromUnix.label           "Inpòrta preferènse, segnalìbbri, stöia, paròlle segrétte e âtri dæti da:">
 <!ENTITY importFromBookmarks.label      "Inpòrta segnalìbbri da:">
 
@@ -20,7 +20,7 @@
 
 <!ENTITY noMigrationSources.label       "Nisciùnn-a aplicaçión che a contegne di segnalìbbri, stöia ò paròlle segrétte peu êse trovâ.">
 
-<!ENTITY importSource.title             "Inportaçión de preferençe e dæti">
+<!ENTITY importSource.title             "Inportaçión de preferénse e dæti">
 <!ENTITY importItems.title              "Ògétti da inportâ">
 <!ENTITY importItems.label              "Seleçionn-a i ògétti da inportâ:">
 
