@@ -1,7 +1,7 @@
 <!ENTITY feedSubscriptions.label "Feed-abonnementer">
 <!ENTITY subscriptionDesc.label "Håndter dine feed-abonnementer.">
 <!ENTITY feedTitle.label "Titel:">
-<!ENTITY location.label "Startside:">
+<!ENTITY feedTitle.accesskey "T">
 <!ENTITY button.addFeed.label "Tilføj">
 <!ENTITY button.addFeed.accesskey "T">
 <!ENTITY button.editFeed.label "Rediger">
@@ -13,3 +13,14 @@
 <!ENTITY button.exportOPML.label "Eksporter">
 <!ENTITY button.exportOPML.accesskey "E">
 <!ENTITY cmd.close.commandKey "w">
+
+<!ENTITY feedFolder.label "Opbevar artikler i:">
+<!ENTITY feedFolder.accesskey "O">
+<!ENTITY feedLocation.label "Feed URL:">
+<!ENTITY feedLocation.accesskey "F">
+<!ENTITY feedLocation.placeholder  "Angiv en URL til et feed">
+
+<!ENTITY validateText.label "Tjek validering og hent en virkende URL.">
+
+<!ENTITY quickMode.label "Vis artikeltekst i stedet for at hente hjemmesiden">
+<!ENTITY quickMode.accesskey "V">

@@ -1,0 +1,26 @@
+<!ENTITY accountsWindow.title                "Status for instant messaging">
+<!ENTITY accountsWindow.style                "width: 28em; height: 19em;">
+<!ENTITY accountManager.newAccount.label     "Ny konto">
+<!ENTITY accountManager.newAccount.accesskey "N">
+<!ENTITY accountManager.close.label          "Luk">
+<!ENTITY accountManager.close.accesskey      "L">
+<!-- This should match account.commandkey in instantbird.dtd -->
+<!ENTITY accountManager.close.commandkey     "a">
+<!-- This title must be short, displayed with a big font size -->
+<!ENTITY accountManager.noAccount.title      "Ingen eksisterende konto">
+<!ENTITY accountManager.noAccount.description "Klik på knappen &accountManager.newAccount.label; for at starte kontoguiden.">
+<!ENTITY account.autoSignOn.label     "Tilslut ved start">
+<!ENTITY account.autoSignOn.accesskey "s">
+<!ENTITY account.connect.label        "Tilslut">
+<!ENTITY account.connect.accesskey    "T">
+<!ENTITY account.disconnect.label     "Afbryd">
+<!ENTITY account.disconnect.accesskey "A">
+<!ENTITY account.edit.label           "Indstillinger">
+<!ENTITY account.edit.accesskey       "I">
+<!ENTITY account.moveup.label         "Flyt op">
+<!ENTITY account.movedown.label       "Flyt ned">
+<!ENTITY account.cancelReconnection.label         "Fortryd genopret forbindelse">
+<!ENTITY account.cancelReconnection.accesskey     "F">
+<!ENTITY account.connecting           "Forbinder…">
+<!ENTITY account.disconnecting        "Afbryder…">
+<!ENTITY account.disconnected         "Ikke tilsluttet">

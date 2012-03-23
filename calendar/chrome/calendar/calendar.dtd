@@ -194,7 +194,7 @@
 <!ENTITY calendar.context.newtodo.label "Ny opgave…">
 <!ENTITY calendar.context.newtodo.accesskey "y">
 <!ENTITY calendar.context.deletetask.label "Slet opgave">
-<!ENTITY calendar.context.deletetask.accesskey "o">
+<!ENTITY calendar.context.deletetask.accesskey "S">
 <!ENTITY calendar.context.deleteevent.label "Slet valgte begivenhed">
 <!ENTITY calendar.context.deleteevent.accesskey "b">
 <!ENTITY calendar.context.cutevent.label "Klip">

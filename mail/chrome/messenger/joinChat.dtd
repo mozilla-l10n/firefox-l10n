@@ -1,0 +1,6 @@
+<!ENTITY joinChatWindow.title           "Tilslut chat">
+<!ENTITY name.label                     "Rum">
+<!ENTITY optional.label                 "(valgfri)">
+<!ENTITY account.label                  "Konto">
+<!ENTITY autojoin.label                 "Tilslut automatisk dette chat-rum">
+<!ENTITY autojoin.accesskey             "T">
