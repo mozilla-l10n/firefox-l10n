@@ -7,7 +7,7 @@
 <!ENTITY chat.noPreviousConv.description       "I øjeblikket har &brandShortName; ingen tidligere samtaler gemt for denne kontakt.">
 <!ENTITY chat.noAccount.title             "Du har endnu ikke opsat en chat-konto.">
 <!ENTITY chat.noAccount.description       "Lad &brandShortName; guide dig gennem opsætningen af din chat-konto.">
-<!ENTITY chat.accountWizard.button       "Kom igang">
+<!ENTITY chat.accountWizard.button       "Start">
 <!ENTITY chat.noConnectedAccount.title             "Dine chat-konti er ikke tilsluttet.">
 <!ENTITY chat.noConnectedAccount.description       "Du kan tilslutte dem fra vinduet 'Chat-status':">
 <!ENTITY chat.showAccountManager.button       "Vis chat-status">

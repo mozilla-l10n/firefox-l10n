@@ -1,0 +1,20 @@
+<!ENTITY  startupAction.label         "Når &brandShortName; startes:">
+<!ENTITY  startupAction.accesskey     "s">
+<!ENTITY  startupOffline.label        "Lad mine chat-konti være offline">
+<!ENTITY  startupConnectAuto.label    "Forbind automatisk mine chat-konti">
+
+<!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
+there's a field where the user can enter a number, and itemTime is
+displayed at the end of the line. The translations of the
+reportIdleAfter.label and idleTime parts don't have to mean the exact
+same thing as in English; please try instead to translate the whole
+sentence. -->
+<!ENTITY  reportIdleAfter.label         "Skift min status til ikke til stede efter">
+<!ENTITY  reportIdleAfter.accesskey     "i">
+<!ENTITY  idleTime                      "minutter uden aktivitet">
+
+<!ENTITY  andSetStatusToAway.label      "og vis denne meddelelse:">
+<!ENTITY  andSetStatusToAway.accesskey  "m">
+
+<!ENTITY  sendTyping.label              "Vis meddelelse i samtaler, når der skrives">
+<!ENTITY  sendTyping.accesskey          "V">
