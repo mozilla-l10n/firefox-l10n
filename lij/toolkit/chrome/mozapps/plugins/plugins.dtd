@@ -6,7 +6,7 @@
 <!ENTITY pluginWizard.availablePluginsPage.title             "Descaregaménti di Plugin">
 <!ENTITY pluginWizard.availablePluginsPage.description.label "Gh'é sti plugin:">
 <!ENTITY pluginWizard.availablePluginsPage.continueMsg.label "Prémmi Pròscimo pe instalâ sti plugin.">
-<!ENTITY pluginWizard.availablePluginsPage.installerUI       "A quàrche plugin peu servî de informaçioìn in ciù inta instalaçión.">
+<!ENTITY pluginWizard.availablePluginsPage.installerUI       "A quàrche plugin peu servî de informaçioìn in ciù inte l'instalaçión.">
 
 <!ENTITY pluginWizard.licensePage.title                      "Licensa do Plugin">
 <!ENTITY pluginWizard.licensePage.accept.label               "Son d'acòrdio.">
