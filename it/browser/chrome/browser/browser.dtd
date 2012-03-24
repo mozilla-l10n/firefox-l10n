@@ -158,10 +158,10 @@
 <!ENTITY scratchpad.keycode "VK_F4">
 <!ENTITY scratchpad.keytext "F4">
 <!ENTITY inspectCloseButton.tooltiptext "Chiudi lo strumento di analisi">
-<!ENTITY inspectorHTMLCopyInner.label "M">
-<!ENTITY inspectorHTMLCopyInner.accesskey "Copia HTML interno">
-<!ENTITY inspectorHTMLCopyOuter.label "T">
-<!ENTITY inspectorHTMLCopyOuter.accesskey "Copia HTML esterno">
+<!ENTITY inspectorHTMLCopyInner.label "Copia HTML interno">
+<!ENTITY inspectorHTMLCopyInner.accesskey "M">
+<!ENTITY inspectorHTMLCopyOuter.label "Copia HTML esterno">
+<!ENTITY inspectorHTMLCopyOuter.accesskey "T">
 <!ENTITY inspectorHTMLDelete.label "Elimina nodo">
 <!ENTITY inspectorHTMLDelete.accesskey "E">
 <!ENTITY inspect3DViewButton.label "Vista 3D">
