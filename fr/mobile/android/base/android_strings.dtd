@@ -118,3 +118,8 @@
 <!ENTITY abouthome_no_top_sites "Vous n\u0027avez pas encore de sites favoris. Toucher la barre de titre pour commencer la navigation.">
 <!ENTITY abouthome_about_sync "Paramétrer Firefox Sync pour accéder aux marque-pages, à l\u0027historique et aux onglets de vos autres appareils">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
+
+<!ENTITY filepicker_title "Choisir un fichier">
+<!ENTITY filepicker_audio_title "Choisir ou enregistrer un son">
+<!ENTITY filepicker_image_title "Choisir une image ou faire une copie d'écran">
+<!ENTITY filepicker_video_title "Choisir ou enregistrer une vidéo">
