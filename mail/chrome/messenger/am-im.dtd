@@ -1,0 +1,12 @@
+<!ENTITY accountWindow.title           "Accounteigenschappen">
+<!ENTITY accountWindow.width           "300">
+<!ENTITY account.general               "Algemeen">
+<!ENTITY account.advanced              "Geavanceerde opties">
+<!ENTITY account.name                  "Gebruikersnaam:">
+<!ENTITY account.password              "Wachtwoord:">
+<!ENTITY account.alias                 "Alias:">
+<!ENTITY account.newMailNotification   "Notificatie bij nieuwe e-mail">
+<!ENTITY account.autojoin              "Automatisch bijgewoonde kanalen:">
+<!ENTITY account.proxySettings.caption "Proxyinstellingen:">
+<!ENTITY account.proxySettings.change.label     "Wijzigen…">
+<!ENTITY account.proxySettings.change.accessKey "W">
