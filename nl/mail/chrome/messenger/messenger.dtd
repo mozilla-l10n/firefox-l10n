@@ -26,6 +26,8 @@
 <!ENTITY newCreateEmailAccountCmd.accesskey "N">
 <!ENTITY newExistingEmailAccountCmd.label "Bestaand E-mailaccount…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "B">
+<!ENTITY newIMAccountCmd.label "Chataccount…">
+<!ENTITY newIMAccountCmd.accesskey "C">
 <!ENTITY openMessageFileCmd.label "Opgeslagen bericht openen…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Bijlagen">
@@ -325,6 +327,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.label "Terug">
 <!ENTITY goBackCmd.accesskey "e">
 <!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goChatCmd.label "Chat">
+<!ENTITY goChatCmd.accesskey "c">
+<!ENTITY goChatCmd.commandKey "C">
 <!ENTITY prevStarredMsgCmd.label "Bericht met ster">
 <!ENTITY prevStarredMsgCmd.accesskey "s">
 <!ENTITY folderMenu.label "Map">
@@ -468,6 +473,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addons.accesskey "d">
 <!ENTITY activitymanager.label "Activiteitenbeheerder">
 <!ENTITY activitymanager.accesskey "e">
+<!ENTITY imAccountsStatus.label "Chatstatus">
+<!ENTITY imAccountsStatus.accesskey "C">
+<!ENTITY imStatus.available          "Beschikbaar">
+<!ENTITY imStatus.unavailable        "Niet beschikbaar">
+<!ENTITY imStatus.offline            "Offline">
+<!ENTITY imStatus.showAccounts       "Accounts tonen…">
 <!ENTITY savedFiles.label "Opgeslagen bestanden">
 <!ENTITY savedFiles.accesskey "l">
 <!ENTITY savedFiles.key "j">
@@ -521,6 +532,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.label "Ongewenst">
 <!ENTITY notJunkButton.label "Niet ongewenst">
 <!ENTITY addressBookButton.label "Adresboek">
+<!ENTITY chatButton.label "Chat">
 <!ENTITY glodaSearch.title "Globaal zoeken">
 <!ENTITY searchItem.title "Snel zoeken">
 <!ENTITY mailViewsToolbarItem.title "E-mailweergaven">
@@ -554,6 +566,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.tooltip "Geselecteerde berichten als ongewenst markeren">
 <!ENTITY notJunkButton.tooltip "Geselecteerde berichten als gewenst markeren">
 <!ENTITY addressBookButton.tooltip "Naar het adresboek gaan">
+<!ENTITY chatButton.tooltip "Chattabblad tonen">
 <!ENTITY tagButton.tooltip "Berichten labelen">
 <!ENTITY compactButton.tooltip "Verwijderde berichten uit geselecteerde map verwijderen">
 

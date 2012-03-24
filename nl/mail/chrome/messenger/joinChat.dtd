@@ -1,0 +1,6 @@
+<!ENTITY joinChatWindow.title           "Chat bijwonen">
+<!ENTITY name.label                     "Chatroom">
+<!ENTITY optional.label                 "(optioneel)">
+<!ENTITY account.label                  "Account">
+<!ENTITY autojoin.label                 "Deze chatroom automatisch bijwonen">
+<!ENTITY autojoin.accesskey             "D">
