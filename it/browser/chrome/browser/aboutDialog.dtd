@@ -1,6 +1,6 @@
 <!ENTITY aboutDialog.title "&brandFullName;">
 <!ENTITY warningDesc.version "&brandShortName; è una versione sperimentale e potrebbe risultare instabile.">
-<!ENTITY warningDesc.telemetry "Le informazioni sulle prestazioni vengono automaticamente inviate a &vendorShortName; per migliorare &brandShortName;.">
+<!ENTITY warningDesc.telemetryDesc "Dati relativi a prestazioni, caratteristiche hardware, utilizzo delle funzionalità e personalizzazioni del browser vengono inviati automaticamente a &vendorShortName; per contribuire al miglioramento di &brandShortName;.">
 <!ENTITY community.exp.start "">
 <!ENTITY community.exp.mozillaLink "&vendorShortName;">
 <!ENTITY community.exp.middle " è una ">
