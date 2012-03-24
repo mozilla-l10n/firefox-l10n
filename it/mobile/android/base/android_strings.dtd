@@ -97,3 +97,7 @@
 <!ENTITY abouthome_no_top_sites "Non ci sono ancora siti principali. Tocca la barra del titolo per iniziare la navigazione.">
 <!ENTITY abouthome_about_sync "Configura Firefox Sync per accedere a segnalibri, cronologia e schede da altri dispositivi.">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
+<!ENTITY filepicker_title "Seleziona un file">
+<!ENTITY filepicker_audio_title "Seleziona o registra un suono">
+<!ENTITY filepicker_image_title "Seleziona o scatta una fotografia">
+<!ENTITY filepicker_video_title "Seleziona o registra un video">
