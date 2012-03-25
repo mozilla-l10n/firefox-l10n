@@ -332,6 +332,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY thisFolder.label "Denne mappa">
 <!ENTITY thisFolder.accesskey "e">
 <!ENTITY goRecentlyClosedTabs.label "Nyleg attlatne faner">
+<!ENTITY goRecentlyClosedTabs.accesskey "N">
 <!ENTITY startPageCmd.label "Startside">
 <!ENTITY startPageCmd.accesskey "S">
 
