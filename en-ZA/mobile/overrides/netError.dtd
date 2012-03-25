@@ -98,7 +98,7 @@ installed.</li>
 
 <!ENTITY nssFailure2.title "Secure Connection Failed">
 <!ENTITY nssFailure2.longDesc "<ul> 
-<li>The page you are trying to view can not be shown because the authenticity of the received data could not be verified.</li> 
+<li>The page you are trying to view cannot be shown because the authenticity of the received data could not be verified.</li> 
 <li>Please contact the website owners to inform them of this problem. Alternatively, use the command found in the help menu to report this broken site.</li> 
 </ul>">
 
@@ -112,7 +112,7 @@ be temporary, and you can try again later.</li>
 
 <!ENTITY sharedLongDesc2 "<ul> 
 <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li> 
-<li>If you are unable to load any pages, check your mobile device's data or Wi-Fi connection.</li> 
+<li>If you are unable to load any pages, check your device's data or Wi-Fi connection.</li> 
 </ul>">
 
 <!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">

@@ -59,7 +59,7 @@
 <!ENTITY  crl.import.status.title                 "CRL Import Status">
 <!ENTITY  crl.import.success.message              "The Certificate Revocation List (CRL) was successfully imported.">
 <!ENTITY  crl.issuer.label                        "CRL Issued By:">
-<!ENTITY  crl.issuer.org.label                    "Organization: ">
+<!ENTITY  crl.issuer.org.label                    "Organisation: ">
 <!ENTITY  crl.issuer.orgunit.label                "Unit: ">
 <!ENTITY  crl.import.nextupdate.label             "Next Update On: ">
 <!ENTITY  crl.autoupdate.fail.cnt.label           "Previous Consecutive Update Failures: ">

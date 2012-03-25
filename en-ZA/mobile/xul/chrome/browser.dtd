@@ -40,7 +40,7 @@
 <!ENTITY addonsRepo.label          "Get Add-ons">
 <!ENTITY addonsRecommended.label   "Recommended">
 <!ENTITY addonsSearch.label        "Search">
-<!ENTITY addonsSearch2.emptytext   "Search Catalog">
+<!ENTITY addonsSearch2.emptytext   "Search Catalogue">
 <!ENTITY addonsSearch.recommended  "Recommended">
 
 <!ENTITY addonOptions.label        "Options">
