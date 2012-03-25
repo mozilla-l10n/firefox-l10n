@@ -1,4 +1,4 @@
-<!ENTITY accountsWindow.title                "Status for instant messaging">
+<!ENTITY accountsWindow.title                "Status for chat">
 <!ENTITY accountsWindow.style                "width: 28em; height: 19em;">
 <!ENTITY accountManager.newAccount.label     "Ny konto">
 <!ENTITY accountManager.newAccount.accesskey "N">

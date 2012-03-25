@@ -17,3 +17,18 @@
 <!ENTITY chooseFolderWin.accesskey    "G">
 <!ENTITY chooseFolderMac.label        "Gennemse…">
 <!ENTITY chooseFolderMac.accesskey    "G">
+
+<!ENTITY attachments.incoming.label   "Indgående">
+<!ENTITY attachments.outgoing.label   "Udgående">
+
+<!ENTITY addCloudFileAccount.label        "Tilføj">
+<!ENTITY addCloudFileAccount.accesskey    "T">
+<!ENTITY addCloudFileAccount.description  "Tilføj en ny Filelink-tjeneste">
+<!ENTITY removeCloudFileAccount.label     "Fjern">
+<!ENTITY removeCloudFileAccount.accesskey "F">
+<!ENTITY authRequired.description         "Du skal godkende for at kunne se indstillingerne til denne tjeneste.">
+<!ENTITY authRequired.button.label        "Godkend">
+<!ENTITY authRequired.button.accesskey    "G">
+
+<!ENTITY enableCloudFileAccountOffer.label "Tilbyd at bruge Filelink ved filer større end">
+<!ENTITY enableCloudFileAccountOffer.mb "MB">
