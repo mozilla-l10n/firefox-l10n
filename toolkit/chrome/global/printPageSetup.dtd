@@ -41,7 +41,7 @@
 <!ENTITY headerFooter.label  "Headers &amp; Footers">
 
 <!ENTITY hfLeft.label        "Left:">
-<!ENTITY hfCenter.label      "Center:">
+<!ENTITY hfCenter.label      "Centre:">
 <!ENTITY hfRight.label       "Right:">
 <!ENTITY headerLeft.tip      "Left header">
 <!ENTITY headerCenter.tip    "Centre header">

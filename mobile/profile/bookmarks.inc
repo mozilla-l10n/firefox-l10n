@@ -34,14 +34,14 @@
 # link title for https://addons.mozilla.org/en-US/mobile
 
 
-#define bookmarks_addons Firefox: Customize with add-ons
+#define bookmarks_addons Firefox: Customise with add-ons
 
 
 
 # LOCALIZATION NOTE (bookmarks_support):
 
 
-# link title for https://support.mozilla.com/mobile
+# link title for https://support.mozilla.org/mobile
 
 
 #define bookmarks_support Firefox: Support
