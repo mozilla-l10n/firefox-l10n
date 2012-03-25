@@ -3,7 +3,7 @@
 <!ENTITY feedTitle.label "Titel:">
 <!ENTITY feedTitle.accesskey "T">
 <!ENTITY button.addFeed.label "Tilføj">
-<!ENTITY button.addFeed.accesskey "T">
+<!ENTITY button.addFeed.accesskey "ø">
 <!ENTITY button.editFeed.label "Rediger">
 <!ENTITY button.editFeed.accesskey "R">
 <!ENTITY button.removeFeed.label "Fjern">

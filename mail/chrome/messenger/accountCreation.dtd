@@ -51,7 +51,7 @@
 <!ENTITY manual-edit.label               "Manuel konfiguration">
 <!ENTITY manual-edit.accesskey           "M">
 <!ENTITY switch-to-provisioner.label     "Få en ny konto">
-<!ENTITY switch-to-provisioner.accesskey "n">
+<!ENTITY switch-to-provisioner.accesskey "å">
 
 
 <!ENTITY warning.label                   "Advarsel!">
