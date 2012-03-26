@@ -1,13 +1,13 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
-  %brandDTD;
+%brandDTD;
+<!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
+%syncBrandDTD;
 <!-- These strings are used in the about:home page -->
 
 
 <!ENTITY abouthome.pageTitle "Leathanach Tosaigh &brandFullName;">
 
 <!ENTITY abouthome.searchEngineButton.label "Cuardaigh">
-
-<!ENTITY abouthome.aboutMozilla "Maidir le Mozilla">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
@@ -18,5 +18,9 @@
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "Cuir Firefox in oiriúint duit féin. <a>Roghnaigh ó na mílte breiseán</a>.">
 
-<!ENTITY abouthome.syncSetup.label "Socraigh Sync">
-<!ENTITY abouthome.pairDevice.label "Ceangail Gléas">
+<!ENTITY abouthome.bookmarksButton.label "Leabharmharcanna">
+<!ENTITY abouthome.historyButton.label "Stair">
+<!ENTITY abouthome.settingsButton.label "Socruithe">
+<!ENTITY abouthome.addonsButton.label "Breiseáin">
+<!ENTITY abouthome.appsButton.label "Áit Mhargaidh">
+<!ENTITY abouthome.downloadsButton.label "Íosluchtú">

@@ -75,8 +75,6 @@
 <!ENTITY lightning.menu.eventtask.accesskey "m">
 <!-- properties dialog, calendar creation wizard -->
 
-<!ENTITY lightning.calendarproperties.showevents.inagenda.label "Taispeáin Imeachtaí i bPána Inniu">
-<!ENTITY lightning.calendarproperties.showtasks.label "Taispeáin tascanna i bPána an Lae Inniu agus sa Mhód Tascanna">
 <!ENTITY lightning.calendarproperties.email.label "Ríomhphost:">
 <!-- iMIP Bar (meeting support) -->
 

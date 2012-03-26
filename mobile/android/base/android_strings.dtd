@@ -29,9 +29,13 @@ Cabhraigh linn, le do thoil, chun an fhadhb a réiteach!">
 
 <!ENTITY awesomebar_default_text "Cuir Ábhar Cuardaigh nó Seoladh isteach">
 
+<!ENTITY remote_tabs "Cluaisíní Sioncrónaithe">
+<!ENTITY remote_tabs_show_all "Taispeáin gach cluaisín">
+
 <!ENTITY bookmark "Leabharmharc">
 <!ENTITY bookmark_added "Leabharmharc cruthaithe">
 <!ENTITY bookmark_removed "Baineadh an leabharmharc">
+<!ENTITY bookmark_updated "Leabharmharc nuashonraithe">
 
 <!ENTITY history_today_section "Inniu">
 <!ENTITY history_yesterday_section "Inné">
@@ -81,12 +85,19 @@ Cabhraigh linn, le do thoil, chun an fhadhb a réiteach!">
 <!ENTITY char_encoding "Ionchódú Carachtar">
 
 <!ENTITY share "Roinn">
+<!ENTITY share_title "Comhroinn trí">
 <!ENTITY save_as_pdf "Sábháil mar PDF">
 
 <!ENTITY contextmenu_open_new_tab "Oscail i gCluaisín Nua">
 <!ENTITY contextmenu_remove_bookmark "Bain">
 <!ENTITY contextmenu_add_to_launcher "Cuir leis an Scáileán Baile">
 <!ENTITY contextmenu_share "Roinn">
+<!ENTITY contextmenu_edit_bookmark "Eagar">
+
+<!ENTITY bookmark_edit_title "Cuir Leabharmharc in Eagar">
+<!ENTITY bookmark_edit_name "Ainm">
+<!ENTITY bookmark_edit_location "Suíomh">
+<!ENTITY bookmark_edit_keyword "Lorgfhocal">
 
 <!ENTITY site_settings_title "Glan Socruithe an tSuímh">
 <!ENTITY site_settings_cancel "Cealaigh">
@@ -110,3 +121,8 @@ Cabhraigh linn, le do thoil, chun an fhadhb a réiteach!">
 <!ENTITY abouthome_no_top_sites "Níl aon bharrshuímh agat fós. Cniog an Barra Teidil chun brabhsáil.">
 <!ENTITY abouthome_about_sync "Socraigh Firefox Sync chun do stair, leabharmharcanna, agus cluaisíní a rochtain ar gach gléas atá agat">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
+
+<!ENTITY filepicker_title "Roghnaigh Comhad">
+<!ENTITY filepicker_audio_title "Roghnaigh nó taifead fuaim">
+<!ENTITY filepicker_image_title "Roghnaigh nó glac grianghraf">
+<!ENTITY filepicker_video_title "Roghnaigh nó taifead físeán">
