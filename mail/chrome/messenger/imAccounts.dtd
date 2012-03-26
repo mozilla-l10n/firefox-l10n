@@ -1,0 +1,26 @@
+<!ENTITY accountsWindow.title "Stádas teachtaireachtaí meandaracha">
+<!ENTITY accountsWindow.style "width: 28em; height: 19em;">
+<!ENTITY accountManager.newAccount.label "Cuntas Nua">
+<!ENTITY accountManager.newAccount.accesskey "N">
+<!ENTITY accountManager.close.label "Dún">
+<!ENTITY accountManager.close.accesskey "n">
+<!-- This should match account.commandkey in instantbird.dtd -->
+<!ENTITY accountManager.close.commandkey "a">
+<!-- This title must be short, displayed with a big font size -->
+<!ENTITY accountManager.noAccount.title "Níl aon chuntas cumraithe fós">
+<!ENTITY accountManager.noAccount.description "Click on the &accountManager.newAccount.label; button to let &brandShortName; guide you through the process of configuring one.">
+<!ENTITY account.autoSignOn.label "Logáil isteach ag am tosaithe">
+<!ENTITY account.autoSignOn.accesskey "L">
+<!ENTITY account.connect.label "Ceangail">
+<!ENTITY account.connect.accesskey "e">
+<!ENTITY account.disconnect.label "Dícheangail">
+<!ENTITY account.disconnect.accesskey "h">
+<!ENTITY account.edit.label "Airíonna">
+<!ENTITY account.edit.accesskey "A">
+<!ENTITY account.moveup.label "Bog suas">
+<!ENTITY account.movedown.label "Bog síos">
+<!ENTITY account.cancelReconnection.label "Cealaigh an t-athcheangal">
+<!ENTITY account.cancelReconnection.accesskey "a">
+<!ENTITY account.connecting "Ag ceangal…">
+<!ENTITY account.disconnecting "Á Dhícheangal…">
+<!ENTITY account.disconnected "Gan Ceangal">

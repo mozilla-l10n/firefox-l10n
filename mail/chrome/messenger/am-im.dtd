@@ -1,0 +1,12 @@
+<!ENTITY accountWindow.title "Airíonna an chuntais">
+<!ENTITY accountWindow.width "300">
+<!ENTITY account.general "Ginearálta">
+<!ENTITY account.advanced "Ardroghanna">
+<!ENTITY account.name "Ainm úsáideora:">
+<!ENTITY account.password "Focal Faire:">
+<!ENTITY account.alias "Ailias:">
+<!ENTITY account.newMailNotification "Abair liom faoi theachtaireachtaí nua">
+<!ENTITY account.autojoin "Auto-Joined Channels:">
+<!ENTITY account.proxySettings.caption "Socruithe an tSeachfhreastalaí:">
+<!ENTITY account.proxySettings.change.label "Athraigh…">
+<!ENTITY account.proxySettings.change.accessKey "A">

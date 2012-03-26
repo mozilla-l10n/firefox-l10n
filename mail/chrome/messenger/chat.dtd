@@ -1,0 +1,51 @@
+<!ENTITY onlineContactsHeader.label "Teagmhálacha ar líne">
+<!ENTITY offlineContactsHeader.label "Teagmhálacha as líne">
+<!ENTITY conversationsHeader.label "Comhráite">
+<!ENTITY searchResultConversation.label "Toradh cuardaigh">
+<!ENTITY chat.noConv.title "Taispeánfar comhráite anseo.">
+<!ENTITY chat.noConv.description "Úsáid an liosta sa phainéal ar chlé chun comhrá a thosú.">
+<!ENTITY chat.noPreviousConv.description "&brandShortName; currently doesn't have any previous conversations stored for this contact.">
+<!ENTITY chat.noAccount.title "Níl cuntas comhrá socraithe agat fós.">
+<!ENTITY chat.noAccount.description "Let &brandShortName; guide you through the process of setting up your chat account.">
+<!ENTITY chat.accountWizard.button "Tús maith">
+<!ENTITY chat.noConnectedAccount.title "Níl do chuntais chomhrá ceangailte.">
+<!ENTITY chat.noConnectedAccount.description "Is féidir iad a cheangal sa dialóg 'Stádas comhrá':">
+<!ENTITY chat.showAccountManager.button "Taispeáin stádas comhrá">
+
+<!ENTITY chat.participants "Rannpháirtithe:">
+<!ENTITY chat.previousConversations "Comhráite Roimhe Seo:">
+<!ENTITY chat.ongoingConversation "Comhrá ar siúl">
+
+<!ENTITY openConversationCmd.label "Tosaigh Comhrá">
+<!ENTITY openConversationCmd.accesskey "C">
+<!ENTITY closeConversationCmd.label "Dún Comhrá">
+<!ENTITY closeConversationCmd.accesskey "D">
+<!ENTITY aliasCmd.label "Athainmnigh">
+<!ENTITY aliasCmd.accesskey "A">
+<!ENTITY deleteCmd.label "Bain Teagmháil">
+<!ENTITY deleteCmd.accesskey "B">
+
+<!ENTITY openConversationButton.tooltip "Tosaigh comhrá">
+<!ENTITY closeConversationButton.tooltip "Dún comhrá">
+
+<!ENTITY addBuddyButton.label "Cuir Teagmháil Leis">
+<!ENTITY joinChatButton.label "Téigh isteach i gComhrá">
+<!ENTITY chatAccountsButton.label "Taispeáin Cuntais">
+<!-- LOCALIZATION NOTE (searchAllChatMessages.label.base):
+     This is the base of the empty text for the chat search box.  We replace
+     #1 with the contents of the appropriate search.keyLabel.* value for the
+     platform (defined in messenger/messenger.dtd).
+     The goal is to convey to the user that typing in the box will allow them
+     to search for conversations and that there is a hotkey they can press
+     to get to the box faster.  If the global indexer is disabled, the search
+     box will be collapsed and the user will never see this message.
+     -->
+
+<!ENTITY searchAllChatMessages.label.base "Cuardaigh gach uile chomhrá… #1">
+
+<!ENTITY status.available "Ar fáil">
+<!ENTITY status.unavailable "Níl ar fáil">
+<!ENTITY status.offline "As Líne">
+
+<!ENTITY openLinkCmd.label "Oscail Nasc…">
+<!ENTITY openLinkCmd.accesskey "O">
