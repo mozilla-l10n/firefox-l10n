@@ -1,0 +1,12 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this file,
+   - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+<!ENTITY addAccountDialog.title   "Rregulloni Filelink-un">
+<!ENTITY addAccountDialog.menuTitle "Përzgjidhni një shërbim depozitimi në rrjet">
+<!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">
+<!ENTITY addAccountDialog.accountName.label "Emër Llogarie:">
+<!ENTITY addAccountDialog.noAccountText "Na ndjeni, por versioni i tanishëm i &brandShortName;-it lejon vetëm një llogari për çdo shërbim depozitimi në rrjet.">
+<!ENTITY addAccountDialog.createAccountText "Kjo veçori ju lejon të dërgoni bashkangjitje të mëdha duke përdorur një ose disa shërbime depozitimi në rrjet. Mundeni ose të lidheni te një llogari ekzistuese, ose të regjistroheni për një llogari të re.">
+<!ENTITY addAccountDialog.authorizing "Po kontrollohet autorizimi...">
+<!ENTITY addAccountDialog.error "Ndodhi një gabim gjatë rregullimit të llogarisë!">
+<!ENTITY addAccountDialog.acceptButton.label "Rregulloje Llogarinë">
