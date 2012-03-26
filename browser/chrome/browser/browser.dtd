@@ -205,7 +205,7 @@
 
 <!ENTITY inspectMenu.label            "Apskatīt">
 <!ENTITY inspectMenu.accesskey        "T">
-<!ENTITY inspectMenu.commandkey       "I">
+<!ENTITY inspectMenu.commandkey       "A">
 <!ENTITY inspectCloseButton.tooltiptext "Aizvērt apskati">
 <!ENTITY inspectStyleButton.label     "Stils">
 <!ENTITY inspectStyleButton.accesskey "S">
@@ -219,8 +219,8 @@
 <!ENTITY newNavigatorCmd.label "Jauns logs">
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "N">
-<!ENTITY inspect3DViewButton.label     "3D skats">
-<!ENTITY inspect3DViewButton.accesskey "s">
+<!ENTITY inspect3DButton.label        "3D">
+<!ENTITY inspect3DButton.accesskey    "M">
 
 <!ENTITY editMenu.label "Rediģēt">
 <!ENTITY editMenu.accesskey "E">
@@ -435,10 +435,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey "M">
 
 <!ENTITY inspectButton.label          "Izmeklēt">
-<!ENTITY inspectButton.accesskey      "e">
+<!ENTITY inspectButton.accesskey      "I">
 
 <!ENTITY inspectContextMenu.label     "Izmeklēt">
-<!ENTITY inspectContextMenu.accesskey "e">
+<!ENTITY inspectContextMenu.accesskey "Q">
 
 <!ENTITY newTabButton.tooltip "Atvērt jaunu cilni">
 <!ENTITY newWindowButton.tooltip "Atvērt jaunu logu">

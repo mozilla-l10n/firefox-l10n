@@ -1,6 +1,8 @@
-<!ENTITY % brandDTD
-    SYSTEM "chrome://branding/locale/brand.dtd">
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
   %brandDTD;
+<!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
+%syncBrandDTD;
+
 
 <!-- These strings are used in the about:home page -->
 
@@ -8,7 +10,6 @@
 
 <!ENTITY abouthome.searchEngineButton.label "Meklēt">
 
-<!ENTITY abouthome.aboutMozilla "Par Mozilla">
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
@@ -19,5 +20,9 @@
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "Pielāgot Firefox tieši tādu, ka jūs to vēlaties ir ļoti viegli. <a>Izvēlieties kādu no tūkstošiem papildinājumu</a>.">
 
-<!ENTITY abouthome.syncSetup.label   "Iestatīt sinhronizāciju">
-<!ENTITY abouthome.pairDevice.label  "Pievienot ierīci">
+<!ENTITY abouthome.bookmarksButton.label "Grāmatzīmes">
+<!ENTITY abouthome.historyButton.label   "Vēsture">
+<!ENTITY abouthome.settingsButton.label  "Iestatījumi">
+<!ENTITY abouthome.addonsButton.label    "Papildinājumi">
+<!ENTITY abouthome.appsButton.label      "Tirgus">
+<!ENTITY abouthome.downloadsButton.label "Lejupielādes">

@@ -67,8 +67,6 @@
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "Iestatījumus">
 <!ENTITY engine.prefs.accesskey     "S">
-<!ENTITY engine.addons.label        "Papildinājumus">
-<!ENTITY engine.addons.accesskey    "A">
 
 
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
@@ -114,7 +112,7 @@
 <!ENTITY setup.successPage.title "Sagatavošana pabeigta">
 <!ENTITY setup.optionsConfirmPage.title "Apstiprināt">
 <!ENTITY setup.optionsPage.title      "Sinhronizēšanas iestatījumi">
-<!ENTITY setup.pickSetupType.description2 "Esiet sveicināti! Ja neesat izmantojuši &syncBrand.fullName.label;s iespēju, jums jāizveido jaunu lietotāja kontu.">
+<!ENTITY setup.pickSetupType.description "Esiet sveicināti! Ja līdz šim neesat izmantojuši &syncBrand.fullName.label;s iespēju, jums vajadzēs izveidot jaunu lietotāja kontu.">
 
 <!ENTITY changeOptions.label "Jūs varat izmainīt šos iestatījumus izvēloties zemāk redzamo Atgūšanas iestatījumu iespēju.">
 <!ENTITY continueUsing.label "Jūs tagad varat turpināt &brandShortName; izmantošanu.">
