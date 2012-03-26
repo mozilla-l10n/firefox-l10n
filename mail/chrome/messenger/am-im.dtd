@@ -1,0 +1,12 @@
+<!ENTITY accountWindow.title           "Veti llogarie">
+<!ENTITY accountWindow.width           "300">
+<!ENTITY account.general               "Të përgjithshme">
+<!ENTITY account.advanced              "Mundësi të Mëtejshme">
+<!ENTITY account.name                  "Emër përdoruesi:">
+<!ENTITY account.password              "Fjalëkalim:">
+<!ENTITY account.alias                 "Alias:">
+<!ENTITY account.newMailNotification   "Njoftomë për Postë të re">
+<!ENTITY account.autojoin              "Kanale me Auto-hyrje:">
+<!ENTITY account.proxySettings.caption "Rregullime Ndërmjetësi:">
+<!ENTITY account.proxySettings.change.label     "Ndryshojini…">
+<!ENTITY account.proxySettings.change.accessKey "N">
