@@ -36,7 +36,7 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
-<!ENTITY title.label "Personalizza la codifica dei caratteri">
+<!ENTITY title.label "Personalizza la codifica caratteri">
 <!ENTITY current.label "Codifiche caratteri attive:">
 <!ENTITY remove.label "Rimuovi">
 <!ENTITY remove.accessKey "R">
