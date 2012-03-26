@@ -32,8 +32,6 @@
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "Iestatījumus">
 <!ENTITY engine.prefs.accesskey     "S">
-<!ENTITY engine.addons.label        "Papildinājumus">
-<!ENTITY engine.addons.accesskey    "A">
 <!ENTITY myRecoveryKey.label            "Mana atgūšanas atslēga">
 
 <!-- Footer stuff -->

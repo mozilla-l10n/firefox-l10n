@@ -10,7 +10,7 @@
   -  "Scratchpad" in your locale. You should feel free to find a close
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
-<!ENTITY window.title                 "Javascript smilškaste">
+<!ENTITY window.title                 "Teksta redaktors">
 
 <!ENTITY fileMenu.label               "Fails">
 <!ENTITY fileMenu.accesskey           "F">
@@ -82,12 +82,23 @@
 <!ENTITY browserContext.label         "Pārlūks">
 <!ENTITY browserContext.accesskey     "P">
 
-<!ENTITY resetContext2.label          "Atjaunot mainīgos">
-<!ENTITY resetContext2.accesskey      "T">
+
+<!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
+  -  to reset/clear the global object of the context where the code executes.
+  -->
+<!ENTITY resetContext.label           "Atjaunot">
+<!ENTITY resetContext.accesskey       "j">
+
+<!ENTITY toolsMenu.label              "Rīki">
+<!ENTITY toolsMenu.accesskey          "r">
 
 <!ENTITY environmentMenu.label        "Vide">
 <!ENTITY environmentMenu.accesskey    "V">
 
+<!ENTITY errorConsoleCmd.label        "Kļūdu konsole">
+<!ENTITY errorConsoleCmd.accesskey    "d">
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
+<!ENTITY webConsoleCmd.label          "Tīmekļa konsole">
+<!ENTITY webConsoleCmd.accesskey      "m">
 <!ENTITY webConsoleCmd.commandkey     "k">
