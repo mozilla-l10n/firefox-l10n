@@ -14,7 +14,7 @@
 <!ENTITY testpilot.studiesWindow.title                  "I teu Stùdi de Prêuve Pilòta">
 <!ENTITY testpilot.studiesWindow.currentStudies.label   "Stùdio corénte">
 <!ENTITY testpilot.studiesWindow.finishedStudies.label  "Stùdi Finî">
-<!ENTITY testpilot.studiesWindow.studyFindings.label    "Riçerca inti Stùdi">
+<!ENTITY testpilot.studiesWindow.studyFindings.label    "Riçèrca inti Stùdi">
 <!ENTITY testpilot.studiesWindow.settings.label         "Inpostaçioìn">
 <!ENTITY testpilot.studiesWindow.stillLoadingMessage    "Carego, aspêta…">
 
