@@ -43,50 +43,6 @@
 <!ENTITY editMenu.label "Eagar">
 <!ENTITY editMenu.accesskey "E">
 
-<!ENTITY undoCmd.label "Cealaigh">
-<!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "l">
-
-<!ENTITY redoCmd.label "Athfheidhmigh">
-<!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "f">
-
-<!ENTITY cutCmd.label "Gearr">
-<!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "G">
-
-<!ENTITY copyCmd.label "Cóipeáil">
-<!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "C">
-
-<!ENTITY pasteCmd.label "Greamaigh">
-<!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "r">
-
-<!ENTITY selectAllCmd.label "Roghnaigh Uile">
-<!ENTITY selectAllCmd.key "W">
-<!ENTITY selectAllCmd.accesskey "U">
-
-<!ENTITY findCmd.label "Aimsigh…">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "A">
-
-<!ENTITY findAgainCmd.label "Aimsigh Arís…">
-<!-- LOCALIZATION NOTE (findAgainCmd.key): This key is used only on Macs.
-  -  Windows and Linux builds use the F3 key which is not localizable on purpose.
-  -->
-<!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.accesskey "r">
-<!-- LOCALIZATION NOTE (findPreviousCmd.key): This key is used only on Macs.
-  -  Windows and Linux builds use the Shift-F3 key which is not localizable on
-  -  purpose.
-  -->
-<!ENTITY findPreviousCmd.key "G">
-
-<!ENTITY gotoLineCmd.label "Léim go líne…">
-<!ENTITY gotoLineCmd.key "J">
-<!ENTITY gotoLineCmd.accesskey "L">
-
 <!ENTITY run.label "Rith">
 <!ENTITY run.accesskey "R">
 <!ENTITY run.key "r">
@@ -120,9 +76,21 @@
 
 <!ENTITY browserContext.label "Brabhsálaí">
 <!ENTITY browserContext.accesskey "B">
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+  -  for the help button in the menubar but Gnome does not.
+  -->
+
+<!ENTITY helpMenu.label "Cabhair">
+<!ENTITY helpMenu.accesskey "h">
+<!ENTITY helpMenuWin.label "Cabhair">
+<!ENTITY helpMenuWin.accesskey "h">
+
+<!ENTITY documentationLink.label "Cabhair leis an gCeap Breacaireachta ar MDN">
+<!ENTITY documentationLink.accesskey "D">
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
+
 
 <!ENTITY resetContext2.label "Athshocraigh Athróga">
 <!ENTITY resetContext2.accesskey "t">

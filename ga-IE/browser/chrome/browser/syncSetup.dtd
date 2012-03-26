@@ -12,7 +12,7 @@
 <!-- New Account AND Existing Account -->
 
 <!ENTITY server.label "Freastalaí">
-<!ENTITY serverType.main.label "Freastalaí &syncBrand.fullName.label;">
+<!ENTITY serverType.default.label "Réamhshocrú: Freastalaí Mozilla &syncBrand.fullName.label;">
 <!ENTITY serverType.custom2.label "Úsáid freastalaí saincheaptha…">
 <!ENTITY signIn.account2.label "Cuntas">
 <!ENTITY signIn.account2.accesskey "C">

@@ -39,6 +39,9 @@
 <!ENTITY safeModeDialog.title "Mód Sábháilteachta &brandShortName;">
 <!ENTITY window.width "37em">
 
+<!ENTITY autoSafeModeIntro.label "Dhún &brandShortName; go tobann le linn tosaithe">
+<!ENTITY autoSafeModeDescription.label "Tá brón orainn faoi seo. Tá &brandShortName; ag rith sa Mhód Sábháilteachta anois, rud a dhíchumasaíonn do chuid sainshocruithe, téamaí agus eisínteachtaí go sealadach.">
+
 <!ENTITY safeModeDescription.label "Tá &brandShortName; ag rith sa Mhód Sábháilteachta anois, rud a dhíchumasaíonn do chuid sainshocruithe, téamaí agus eisínteachtaí go sealadach.">
 <!ENTITY safeModeDescription2.label "Tig leat na hathruithe seo go léir, nó cuid díobh, a chur i bhfeidhm go buan:">
 

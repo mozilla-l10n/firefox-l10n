@@ -1,13 +1,26 @@
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label "Síntiúis Fhotha">
 <!ENTITY subscriptionDesc.label "Nóta: ní chuirfidh baint nó athrú fillteáin fhotha isteach ar altanna atá íosluchtaithe cheana féin.">
+
 <!ENTITY feedTitle.label "Teideal:">
-<!ENTITY location.label "Suíomh:">
+<!ENTITY feedTitle.accesskey "T">
+
+<!ENTITY feedLocation.label "URL an fhotha:">
+<!ENTITY feedLocation.accesskey "U">
+<!ENTITY feedLocation.placeholder "Enter a valid feed url to Add">
+
+<!ENTITY feedFolder.label "Sábháil Ailt i:">
+<!ENTITY feedFolder.accesskey "S">
+
+<!ENTITY quickMode.label "Taispeáin achoimre an ailt in áit an leathanach Gréasáin a íosluchtú">
+<!ENTITY quickMode.accesskey "h">
+
+<!ENTITY validateText.label "Check validation and retrieve a valid url.">
 
 <!ENTITY button.addFeed.label "Cuir Leis">
 <!ENTITY button.addFeed.accesskey "L">
-<!ENTITY button.editFeed.label "Eagar">
-<!ENTITY button.editFeed.accesskey "E">
+<!ENTITY button.editFeed.label "Nuashonraigh">
+<!ENTITY button.editFeed.accesskey "u">
 <!ENTITY button.removeFeed.label "Bain">
 <!ENTITY button.removeFeed.accesskey "B">
 <!ENTITY button.importOPML.label "Iompórtáil">

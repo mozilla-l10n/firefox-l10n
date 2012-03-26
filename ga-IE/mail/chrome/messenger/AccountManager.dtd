@@ -6,6 +6,8 @@
 <!ENTITY accountActionsButton.accesskey "a">
 <!ENTITY addMailAccountButton.label "Cuir Cuntas Ríomhphoist Leis…">
 <!ENTITY addMailAccountButton.accesskey "a">
+<!ENTITY addIMAccountButton.label "Cuir Cuntas Comhrá Leis…">
+<!ENTITY addIMAccountButton.accesskey "C">
 <!ENTITY addOtherAccountButton.label "Cuir Cuntas Eile Leis…">
 <!ENTITY addOtherAccountButton.accesskey "E">
 <!ENTITY setDefaultButton.label "Socraigh mar Réamhshocrú">

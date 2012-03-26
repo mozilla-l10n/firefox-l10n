@@ -148,8 +148,8 @@
 <!ENTITY event.menu.options.inline.spellcheck.accesskey "L">
 <!ENTITY event.menu.options.link.label "Cuir Nasc Leis…">
 <!ENTITY event.menu.options.link.accesskey "L">
-<!ENTITY event.menu.options.timezone.label "Crios Ama">
-<!ENTITY event.menu.options.timezone.accesskey "A">
+<!ENTITY event.menu.options.timezone2.label "Taispeáin Criosanna Ama">
+<!ENTITY event.menu.options.timezone2.accesskey "s">
 <!ENTITY event.menu.options.priority2.label "Tosaíocht">
 <!ENTITY event.menu.options.priority2.accesskey "o">
 <!ENTITY event.menu.options.priority.notspecified.label "Gan sonrú">
@@ -372,6 +372,7 @@
 <!-- Timezone dialog -->
 
 <!ENTITY timezone.title.label "Sonraigh crios ama">
+<!ENTITY event.timezone.custom.label "Tuilleadh Criosanna Ama…">
 <!-- Read-Only dialog -->
 
 <!ENTITY read.only.general.label "Ginearálta">

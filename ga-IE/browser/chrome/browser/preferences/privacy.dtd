@@ -15,7 +15,6 @@
 <!ENTITY locbar.bookmarks.label "Leabharmharcanna">
 <!ENTITY locbar.nothing.label "Faic">
 
-
 <!ENTITY acceptCookies.label "Glac le fianáin ó shuímh">
 <!ENTITY acceptCookies.accesskey "a">
 
@@ -64,11 +63,8 @@
 <!ENTITY privateBrowsingPermanent2.label "Bain úsáid as Brabhsáil Phríobháideach i gcónaí">
 <!ENTITY privateBrowsingPermanent2.accesskey "P">
 
-<!ENTITY rememberHistory.label "Meabhraigh mo stair bhrabhsála">
-<!ENTITY rememberHistory.accesskey "b">
-
-<!ENTITY rememberDownload.label "Meabhraigh stair an bhainisteora íosluchtaithe">
-<!ENTITY rememberDownload.accesskey "b">
+<!ENTITY rememberHistory2.label "Meabhraigh mo stair bhrabhsála agus íosluchtuithe">
+<!ENTITY rememberHistory2.accesskey "b">
 
 <!ENTITY rememberSearchForm.label "Meabhraigh an stair chuardaigh agus fhoirme">
 <!ENTITY rememberSearchForm.accesskey "f">
