@@ -1,0 +1,28 @@
+<!ENTITY windowTitle.label "Treoraí Cuntais Chomhrá">
+
+<!ENTITY accountProtocolTitle.label "Líonra comhrá">
+<!ENTITY accountProtocolInfo.label "Roghnaigh líonra do chuntais chomhrá.">
+<!ENTITY accountProtocolField.label "Líonra:">
+<!ENTITY accountProtocolGetMore.label "Tuilleadh…">
+
+<!ENTITY accountUsernameTitle.label "Ainm an Úsáideora">
+<!ENTITY accountUsernameDuplicate.label "Tá an cuntas seo cumraithe cheana!">
+
+<!ENTITY accountPasswordTitle.label "Focal Faire">
+<!ENTITY accountPasswordInfo.label "Cuir d'fhocal faire sa mbosca thíos.">
+<!ENTITY accountPasswordField.label "Focal Faire:">
+<!ENTITY accountPasswordManager.label "The password entered here will be stored in the Password Manager. Leave this box empty if you want to be prompted for your password each time this account is connected.">
+
+<!ENTITY accountAdvancedTitle.label "Ardroghanna">
+<!ENTITY accountAdvancedInfo.label "Feel free to skip this step if you want to.">
+<!ENTITY accountAdvanced.newMailNotification.label "Abair liom faoi theachtaireachtaí nua">
+<!ENTITY accountAliasGroupbox.caption "Ailias Logánta">
+<!ENTITY accountAliasField.label "Ailias:">
+<!ENTITY accountAliasInfo.label "This will only be displayed in your conversations when you talk, remote contacts won't see it.">
+<!ENTITY accountProxySettings.caption "Socruithe an tSeachfhreastalaí">
+<!ENTITY accountProxySettings.change.label "Athraigh…">
+<!ENTITY accountProxySettings.change.accessKey "A">
+
+<!ENTITY accountSummaryTitle.label "Achoimre">
+<!ENTITY accountSummaryInfo.label "Seo é achoimre ar an bhfaisnéis a chuir tú isteach. Dearbhaigh é sula gcruthóidh tú an cuntas.">
+<!ENTITY accountSummary.connectNow.label "Ceangail an cuntas seo anois.">

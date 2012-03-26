@@ -1,0 +1,6 @@
+<!ENTITY joinChatWindow.title "Téigh isteach sa chomhrá">
+<!ENTITY name.label "Seomra">
+<!ENTITY optional.label "(roghnach)">
+<!ENTITY account.label "Cuntas">
+<!ENTITY autojoin.label "Téigh isteach sa seomra seo go huathoibríoch">
+<!ENTITY autojoin.accesskey "a">
