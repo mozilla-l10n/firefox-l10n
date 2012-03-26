@@ -101,7 +101,7 @@
 <!ENTITY pkcs12.setpassword.reminder "Tábhachtach: má dhéanann tú dearmad ar an bhfocal faire don chúltaca teastais ní bheidh tú in ann an cúltaca seo a chur ar ais. Breac síos tuairisc de in áit shlán.">
 
 <!ENTITY pkcs12.getpassword.title "Dialóg Iontrála Focal Faire">
-<!ENTITY pkcs12.getpassword.message "Iontráil an focal faire a úsáideadh chun an cúltaca teastais seo a chriptiú.">
+<!ENTITY pkcs12.getpassword.message "Cuir isteach an focal faire a úsáideadh chun an cúltaca teastais seo a chriptiú.">
 
 <!ENTITY chooseToken.title "Dialóg Roghnaithe Ceadchomhartha">
 <!ENTITY chooseToken.message1 "Roghnaigh ceadchomhartha le do thoil.">
