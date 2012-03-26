@@ -1,0 +1,104 @@
+<!-- LOCALIZATION NOTE : FILE This file contains the Scratchpad window strings -->
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
+
+<!-- LOCALIZATION NOTE (scratchpad.title):
+  -  The Scratchpad is intended to provide a simple text editor for creating
+  -  and evaluating bits of JavaScript code for the purposes of function
+  -  prototyping, experimentation and convenient scripting.
+  -
+  -  It's quite possible that you won't have a good analogue for the word
+  -  "Scratchpad" in your locale. You should feel free to find a close
+  -  approximation to it or choose a word (or words) that means
+  -  "simple discardable text editor". -->
+<!ENTITY window.title                 "Teksta redaktors">
+
+<!ENTITY fileMenu.label               "Fails">
+<!ENTITY fileMenu.accesskey           "F">
+
+<!ENTITY newWindowCmd.label           "Jauns logs">
+<!ENTITY newWindowCmd.accesskey       "N">
+<!ENTITY newWindowCmd.commandkey      "n">
+
+<!ENTITY openFileCmd.label            "Atvērt failu…">
+<!ENTITY openFileCmd.accesskey        "A">
+<!ENTITY openFileCmd.commandkey       "a">
+
+<!ENTITY saveFileCmd.label            "Saglabāt">
+<!ENTITY saveFileCmd.accesskey        "S">
+<!ENTITY saveFileCmd.commandkey       "s">
+
+<!ENTITY saveFileAsCmd.label          "Saglabāt kā…">
+<!ENTITY saveFileAsCmd.accesskey      "b">
+
+<!ENTITY closeCmd.label               "Aizvērt">
+<!ENTITY closeCmd.key                 "W">
+<!ENTITY closeCmd.accesskey           "z">
+
+<!ENTITY editMenu.label               "Rediģēt">
+<!ENTITY editMenu.accesskey           "E">
+
+<!ENTITY undoCmd.label                "Atsaukt">
+<!ENTITY undoCmd.key                  "Z">
+<!ENTITY undoCmd.accesskey            "U">
+
+<!ENTITY redoCmd.label                "Pādarīt">
+<!ENTITY redoCmd.key                  "Y">
+<!ENTITY redoCmd.accesskey            "R">
+
+<!ENTITY cutCmd.label                 "Izgriezt">
+<!ENTITY cutCmd.key                   "X">
+<!ENTITY cutCmd.accesskey             "g">
+
+<!ENTITY copyCmd.label                "Kopēt">
+<!ENTITY copyCmd.key                  "C">
+<!ENTITY copyCmd.accesskey            "K">
+
+<!ENTITY pasteCmd.label               "Ielīmēt">
+<!ENTITY pasteCmd.key                 "V">
+<!ENTITY pasteCmd.accesskey           "l">
+
+<!ENTITY selectAllCmd.label           "Iezīmēt visu">
+<!ENTITY selectAllCmd.key             "A">
+<!ENTITY selectAllCmd.accesskey       "v">
+
+<!ENTITY inspect.label                "Inspicēt">
+<!ENTITY inspect.accesskey            "I">
+<!ENTITY inspect.key                  "i">
+
+<!ENTITY display.label                "Attēlot">
+<!ENTITY display.accesskey            "t">
+<!ENTITY display.key                  "l">
+
+<!ENTITY executeMenu.label            "Izpildīt">
+<!ENTITY executeMenu.accesskey        "d">
+
+<!ENTITY run.label                    "Palaist">
+<!ENTITY run.accesskey                "t">
+<!ENTITY run.key                      "r">
+
+<!ENTITY contentContext.label         "Saturs">
+<!ENTITY contentContext.accesskey     "s">
+
+<!ENTITY browserContext.label         "Pārlūks">
+<!ENTITY browserContext.accesskey     "P">
+
+
+<!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
+  -  to reset/clear the global object of the context where the code executes.
+  -->
+<!ENTITY resetContext.label           "Atjaunot">
+<!ENTITY resetContext.accesskey       "j">
+
+<!ENTITY toolsMenu.label              "Rīki">
+<!ENTITY toolsMenu.accesskey          "r">
+
+<!ENTITY environmentMenu.label        "Vide">
+<!ENTITY environmentMenu.accesskey    "V">
+
+<!ENTITY errorConsoleCmd.label        "Kļūdu konsole">
+<!ENTITY errorConsoleCmd.accesskey    "d">
+<!ENTITY errorConsoleCmd.commandkey   "j">
+
+<!ENTITY webConsoleCmd.label          "Tīmekļa konsole">
+<!ENTITY webConsoleCmd.accesskey      "m">
+<!ENTITY webConsoleCmd.commandkey     "k">
