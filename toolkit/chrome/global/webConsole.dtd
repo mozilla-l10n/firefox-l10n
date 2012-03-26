@@ -1,0 +1,16 @@
+<!ENTITY networkPanel.requestURL                  "Pieprasījuma URL">
+<!ENTITY networkPanel.requestMethod               "Pieprasījuma metode">
+<!ENTITY networkPanel.statusCode                  "Statusa kods">
+
+<!ENTITY networkPanel.requestHeaders              "Pieprasījuma galvene">
+<!ENTITY networkPanel.requestCookie               "Nosūtītās sīkdatnes">
+<!ENTITY networkPanel.requestBody                 "Pieprasījuma galvenā daļa">
+<!ENTITY networkPanel.requestFormData             "Nosūtītie formas dati">
+
+<!ENTITY networkPanel.responseHeaders             "Atbildes galvene">
+<!ENTITY networkPanel.responseBody                "Atbildes galvenā daļa">
+<!ENTITY networkPanel.responseBodyCached          "Kešatmiņā saglabātie dati">
+<!ENTITY networkPanel.responseNoBody              "Atbildes galvenās daļas nav">
+<!ENTITY networkPanel.responseImage               "Saņemtie attēli">
+<!ENTITY networkPanel.responseImageCached         "Attēli kešatmiņā">
+<!ENTITY networkPanel.responseBodyUnknownType     "Nezināms satura tips">
