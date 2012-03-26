@@ -1,0 +1,6 @@
+<!ENTITY joinChatWindow.title           "Hyni në një fjalosje">
+<!ENTITY name.label                     "Dhomë">
+<!ENTITY optional.label                 "(opsionale)">
+<!ENTITY account.label                  "Llogari">
+<!ENTITY autojoin.label                 "Vetë-hyr në këtë Dhomë Fjalosjesh">
+<!ENTITY autojoin.accesskey             "V">
