@@ -17,3 +17,15 @@
 <!ENTITY chooseFolderWin.accesskey    "S">
 <!ENTITY chooseFolderMac.label        "Zgjidhni…">
 <!ENTITY chooseFolderMac.accesskey    "Z">
+
+<!ENTITY attachments.incoming.label   "Ardhës">
+<!ENTITY attachments.outgoing.label   "Ikës">
+
+<!ENTITY addCloudFileAccount.label        "Shtoni">
+<!ENTITY addCloudFileAccount.accesskey    "S">
+<!ENTITY addCloudFileAccount.description  "Shtoni një shërbim të ri depozitimi Filelink">
+<!ENTITY removeCloudFileAccount.label     "Hiqe">
+<!ENTITY removeCloudFileAccount.accesskey "H">
+<!ENTITY authRequired.description         "Lypset autorizimi juaj që të mund të shihni rregullimet për këtë shërbim depozitimesh.">
+<!ENTITY authRequired.button.label        "Autorizojeni">
+<!ENTITY authRequired.button.accesskey    "A">
