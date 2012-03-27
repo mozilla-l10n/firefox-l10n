@@ -23,6 +23,10 @@
 <!ENTITY autoCompleteMatchWords                "Bara i hela ord">
 <!ENTITY autoCompleteMatchStart                "Bara i början av adressen eller titeln">
 
+<!ENTITY formatting.label                      "Markera">
+<!ENTITY domainFormatting.label                "Markera den verkliga domänen för webbplatser och FTP-servrar">
+<!ENTITY domainFormatting.accesskey            "d">
+
 <!ENTITY searchEngine.label                    "Söktjänst för Internet">
 <!ENTITY showSearchEngine.label                "Visa förinställd söktjänst">
 <!ENTITY showSearchEngine.accesskey            "f">
