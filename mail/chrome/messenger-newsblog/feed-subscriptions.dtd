@@ -4,6 +4,18 @@
 <!ENTITY feedTitle.label "Titull:">
 <!ENTITY location.label  "Vendndodhje:">
 
+<!ENTITY feedLocation.label       "URL Prurjeje: ">
+<!ENTITY feedLocation.accesskey   "U">
+<!ENTITY feedLocation.placeholder    "Jepni për Shtim një url të vlefshme prurjeje">
+
+<!ENTITY feedFolder.label            "Artikujt Depozitoji në:">
+<!ENTITY feedFolder.accesskey        "A">
+
+<!ENTITY quickMode.label             "Në vend se të ngarkosh faqen web, shfaq përmbledhje artikulli">
+<!ENTITY quickMode.accesskey         "N">
+
+<!ENTITY validateText.label          "Kontrolloji vlefshmërinë dhe përdor një url të vlefshme.">
+
 <!ENTITY button.addFeed.label       "Shto">
 <!ENTITY button.addFeed.accesskey   "S">
 <!ENTITY button.editFeed.label      "Përpunoni">
