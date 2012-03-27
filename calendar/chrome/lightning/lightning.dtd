@@ -74,8 +74,6 @@
 <!ENTITY lightning.menu.eventtask.accesskey            "d">
 
 <!-- properties dialog, calendar creation wizard -->
-<!ENTITY lightning.calendarproperties.showevents.inagenda.label "Zobraziť udalosti v paneli Dnes">
-<!ENTITY lightning.calendarproperties.showtasks.label           "Zobraziť úlohy v paneli Dnes a v režime Úlohy">
 <!ENTITY lightning.calendarproperties.email.label               "E-mail:">
 
 <!-- iMIP Bar (meeting support) -->

@@ -27,9 +27,13 @@
 
 <!ENTITY awesomebar_default_text "Zadajte adresu alebo vyhľadávanie">
 
+<!ENTITY remote_tabs "Karty zo synchronizácie">
+<!ENTITY remote_tabs_show_all "Zobraziť všetky karty">
+
 <!ENTITY bookmark "Záložka">
 <!ENTITY bookmark_added "Záložka pridaná">
 <!ENTITY bookmark_removed "Záložka odstránená">
+<!ENTITY bookmark_updated "Záložka aktualizovaná">
 
 <!ENTITY history_today_section "Dnes">
 <!ENTITY history_yesterday_section "Včera">
@@ -86,6 +90,12 @@
 <!ENTITY contextmenu_remove_bookmark "Odstrániť">
 <!ENTITY contextmenu_add_to_launcher "Pridať na úvodnú obrazovku">
 <!ENTITY contextmenu_share "Zdieľať">
+<!ENTITY contextmenu_edit_bookmark "Upraviť">
+
+<!ENTITY bookmark_edit_title "Úprava záložky">
+<!ENTITY bookmark_edit_name "Názov">
+<!ENTITY bookmark_edit_location "Umiestnenie">
+<!ENTITY bookmark_edit_keyword "Kľúčové slovo">
 
 <!ENTITY site_settings_title        "Vymazať nastavenia stránok">
 <!ENTITY site_settings_cancel       "Zrušiť">
@@ -109,3 +119,8 @@
 <!ENTITY abouthome_no_top_sites "Zatiaľ nemáte žiadne najlepšie stránky. Ťuknutím na titulok začnite s prehliadaním stránok.">
 <!ENTITY abouthome_about_sync "Nastavte si službu Firefox Sync a pristupujte k záložkám, histórii a kartám vo vašich ostatných zariadeniach.">
 <!ENTITY abouthome_sync_bold_name "Služba Firefox Sync">
+
+<!ENTITY filepicker_title "Výber súboru">
+<!ENTITY filepicker_audio_title "Vyberte alebo nahrajte zvuk">
+<!ENTITY filepicker_image_title "Vyberte alebo spravte snímku">
+<!ENTITY filepicker_video_title "Vyberte alebo natočte video">

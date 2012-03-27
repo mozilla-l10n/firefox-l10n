@@ -1,6 +1,3 @@
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "Nová karta">
 
-<!ENTITY newtab.show "Zobraziť stránku Nová karta">
-<!ENTITY newtab.hide "Skryť stránku Nová karta">
-<!ENTITY newtab.reset "Vynulovať stránku Nová karta">

@@ -23,6 +23,10 @@
 <!ENTITY autoCompleteMatchWords                "len na okrajoch slov">
 <!ENTITY autoCompleteMatchStart                "len na začiatku adresy alebo titulku">
 
+<!ENTITY formatting.label                      "Formátovanie">
+<!ENTITY domainFormatting.label                "Zvýrazňovať doménu v adrese webových stránok a serverov FTP">
+<!ENTITY domainFormatting.accesskey            "d">
+
 <!ENTITY searchEngine.label                    "Internetový vyhľadávací modul">
 <!ENTITY showSearchEngine.label                "Zobraziť predvolený vyhľadávací modul">
 <!ENTITY showSearchEngine.accesskey            "Z">

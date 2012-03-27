@@ -15,7 +15,8 @@
 <!ENTITY quickMode.label             "Zobraziť stručný súhrn príspevku namiesto načítania celej webovej stránky">
 <!ENTITY quickMode.accesskey         "Z">
 
-<!ENTITY validateText.label          "Check validation and retrieve a valid url.">
+<!ENTITY locationValidate.label      "Overiť">
+<!ENTITY validateText.label          "Overiť platnosť kanálu a získať platnú adresu URL.">
 
 <!ENTITY button.addFeed.label        "Pridať">
 <!ENTITY button.addFeed.accesskey    "P">

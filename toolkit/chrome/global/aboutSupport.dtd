@@ -48,6 +48,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Inkrementálne GC">
 
+<!ENTITY aboutSupport.libraryVersionsTitle "Verzie knižníc">
+
 <!ENTITY aboutSupport.installationHistoryTitle "História inštalácií">
 <!ENTITY aboutSupport.updateHistoryTitle "História aktualizácií">
 
