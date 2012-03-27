@@ -5,3 +5,5 @@
 <!ENTITY identitiesListEdit.accesskey "e">
 <!ENTITY identitiesListDelete.label "Ta bort">
 <!ENTITY identitiesListDelete.accesskey "T">
+<!ENTITY identitiesListClose.label "Stäng">
+<!ENTITY identitiesListClose.accesskey "S">
