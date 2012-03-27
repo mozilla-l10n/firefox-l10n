@@ -311,7 +311,7 @@ can reach it easily. -->
 <!ENTITY clearRecentHistory.label               "Rensa ut tidigare historik…">
 <!ENTITY clearRecentHistory.accesskey           "R">
 
-<!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
+<!-- LOCALIZATION NOTE : These two strings can share an access key because they never appear together on the menu -->
 <!ENTITY privateBrowsingCmd.start.label         "Starta privat surfning">
 <!ENTITY privateBrowsingCmd.start.accesskey     "a">
 <!ENTITY privateBrowsingCmd.stop.label          "Avsluta privat surfning">
