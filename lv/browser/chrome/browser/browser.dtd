@@ -433,9 +433,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label "Mērogs">
 <!ENTITY fullZoom.accesskey "M">
 
-<!ENTITY inspectButton.label          "Izmeklēt">
-<!ENTITY inspectButton.accesskey      "e">
-
 <!ENTITY inspectContextMenu.label     "Izmeklēt">
 <!ENTITY inspectContextMenu.accesskey "e">
 

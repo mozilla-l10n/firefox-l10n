@@ -10,22 +10,7 @@
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
 
-<!ENTITY undoCmd.label             "Atcelt">
-<!ENTITY undoCmd.accesskey         "A">
-<!ENTITY cutCmd.label              "Izgriezt">
-<!ENTITY cutCmd.accesskey          "t">
-<!ENTITY copyCmd.label             "Kopēt">
-<!ENTITY copyCmd.accesskey         "K">
-<!ENTITY pasteCmd.label            "Ielīmēt">
-<!ENTITY pasteCmd.accesskey        "I">
-<!ENTITY deleteCmd.label           "Dzēst">
-<!ENTITY deleteCmd.accesskey       "D">
-<!ENTITY selectAllCmd.label        "Iezīmēt visu">
-<!ENTITY selectAllCmd.accesskey    "v">
-<!ENTITY findCmd.label             "Meklēt…">
-<!ENTITY findCmd.accesskey         "M">
-<!ENTITY findAgainCmd.label        "Meklēt vēlreiz…">
-<!ENTITY findAgainCmd.accesskey    "r">
+
 <!ENTITY gotoLineCmd.label         "Pāriet uz rindiņu…">
 <!ENTITY gotoLineCmd.key           "J">
 <!ENTITY gotoLineCmd.accesskey     "U">
