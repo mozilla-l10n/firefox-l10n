@@ -97,3 +97,7 @@
 <!ENTITY abouthome_no_top_sites "No tiene ningún sitio frecuente aún. Pulse en la barra de título para comentar a navegar.">
 <!ENTITY abouthome_about_sync "Configure Firefox Sync para acceder a sus marcadores, historial y pestañas de sus otros dispositivos.">
 <!ENTITY abouthome_sync_bold_name "Firefox Sync">
+<!ENTITY filepicker_title "Elegir archivo">
+<!ENTITY filepicker_audio_title "Elegir o grabar un sonido">
+<!ENTITY filepicker_image_title "Elegir o tomar una foto">
+<!ENTITY filepicker_video_title "Elegir o grabar un vídeo">
