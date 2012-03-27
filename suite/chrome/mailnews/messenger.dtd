@@ -157,6 +157,8 @@
 <!-- showSearchToolbarCmd is also used by addressbook -->
 <!ENTITY showSearchToolbarCmd.label		"Sökfält">
 <!ENTITY showSearchToolbarCmd.accesskey	"S">
+<!ENTITY showTabsToolbarCmd.label "Flikfält">
+<!ENTITY showTabsToolbarCmd.accesskey "F">
 
 <!ENTITY messagePaneLayoutStyle.label "Layout">
 <!ENTITY messagePaneLayoutStyle.accesskey "L">

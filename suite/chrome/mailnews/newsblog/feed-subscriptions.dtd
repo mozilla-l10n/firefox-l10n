@@ -2,14 +2,26 @@
 <!ENTITY feedSubscriptions.label "Kanalprenumerationer">
 <!ENTITY subscriptionDesc.label "OBS! Att ta bort eller ändra mappen för en kanal påverkar inte tidigare hämtade artiklar.">
 <!ENTITY feedTitle.label "Titel:">
-<!ENTITY location.label  "Adress:">
+<!ENTITY feedTitle.accesskey         "T">
+
+<!ENTITY feedLocation.label          "Kanal-URL:">
+<!ENTITY feedLocation.accesskey      "K">
+<!ENTITY feedLocation.placeholder    "Ange en flödes-url att lägga till">
+
+<!ENTITY feedFolder.label            "Lagra artiklar i:">
+<!ENTITY feedFolder.accesskey        "L">
+
+<!ENTITY quickMode.label          "Visa artikelsammanfattningen i stället för att hämta webbsidan">
+<!ENTITY quickMode.accesskey      "V">
+
+<!ENTITY validateText.label          "Kontrollera giltighet och hämta en giltig url.">
 
 <!ENTITY button.addFeed.label       "Lägg till">
 <!ENTITY button.addFeed.accesskey   "L">
 <!ENTITY button.editFeed.label      "Redigera">
 <!ENTITY button.editFeed.accesskey  "e">
 <!ENTITY button.removeFeed.label "Ta bort">
-<!ENTITY button.removeFeed.accesskey   "T">
+<!ENTITY button.removeFeed.accesskey   "b">
 <!ENTITY button.importOPML.label "Importera">
 <!ENTITY button.importOPML.accesskey   "I">
 <!ENTITY button.exportOPML.label "Exportera">
