@@ -266,6 +266,14 @@
 <!ENTITY selectAll.accesskey "T">
 <!ENTITY attachFile.label "Bashkangjitni Kartelë(a)…">
 <!ENTITY attachFile.accesskey "a">
+<!ENTITY attachCloud.label "Filelink…">
+<!ENTITY attachCloud.accesskey "F">
+<!ENTITY convertCloud.label "Shndërrojeni në…">
+<!ENTITY convertCloud.accesskey "S">
+<!ENTITY cancelUpload.label "Anuloje Ngarkimin">
+<!ENTITY cancelUpload.accesskey "A">
+<!ENTITY convertRegularAttachment.label "Bashkangjitje e Rregullt">
+<!ENTITY convertRegularAttachment.accesskey "B">
 <!ENTITY attachPage.label "Bashkangjitni Faqe Web…">
 <!ENTITY attachPage.accesskey "q">
 
@@ -275,7 +283,6 @@
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY removeAttachment.accesskey "H">
 <!ENTITY removeAttachment.label "Hiqe Bashkangjitjen">
-
 
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Shtoni Fjalorë…">

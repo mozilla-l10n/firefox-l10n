@@ -1,5 +1,5 @@
 <!ENTITY window.title "Mirë se vini te &brandShortName;-i">
-<!ENTITY header.label "Dëshironi një adresë të re email-i për &brandShortName;-in?">
+<!ENTITY header2.label "Dëshironi një adresë të re email-i?">
 <!ENTITY other.languages "Po ju shfaqim vetëm mundësuesa që ofrojnë adresa në zonën tuaj. Klikoni këtu që të shfaqen krejt mundësuesit.">
 <!ENTITY error.line1 "Na ndjeni, nuk gjetëm dot ndonjë nga adresat email të këshilluara.">
 <!ENTITY error.line2 "Që të gjeni më tepër email-e mund të provoni të kërkoni për nofka ose çfarëdo termi tjetër kërkimi">
