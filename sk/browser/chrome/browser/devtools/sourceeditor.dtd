@@ -10,22 +10,6 @@
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
 
-<!ENTITY undoCmd.label             "Späť">
-<!ENTITY undoCmd.accesskey         "S">
-<!ENTITY cutCmd.label              "Vystrihnúť">
-<!ENTITY cutCmd.accesskey          "V">
-<!ENTITY copyCmd.label             "Kopírovať">
-<!ENTITY copyCmd.accesskey         "K">
-<!ENTITY pasteCmd.label            "Prilepiť">
-<!ENTITY pasteCmd.accesskey        "P">
-<!ENTITY deleteCmd.label           "Odstrániť">
-<!ENTITY deleteCmd.accesskey       "d">
-<!ENTITY selectAllCmd.label        "Vybrať všetko">
-<!ENTITY selectAllCmd.accesskey    "a">
-<!ENTITY findCmd.label             "Hľadať…">
-<!ENTITY findCmd.accesskey         "H">
-<!ENTITY findAgainCmd.label        "Hľadať znova…">
-<!ENTITY findAgainCmd.accesskey    "n">
 <!ENTITY gotoLineCmd.label         "Prejsť na riadok…">
 <!ENTITY gotoLineCmd.key           "J">
 <!ENTITY gotoLineCmd.accesskey     "r">

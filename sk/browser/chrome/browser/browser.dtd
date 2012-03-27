@@ -213,9 +213,6 @@ can reach it easily. -->
 <!ENTITY inspectContextMenu.label     "Preskúmať prvok">
 <!ENTITY inspectContextMenu.accesskey "m">
 
-<!ENTITY inspectPanelTitle.label        "HTML">
-<!ENTITY inspectButton.label            "Preskúmať">
-<!ENTITY inspectButton.accesskey        "P">
 <!ENTITY inspectCloseButton.tooltiptext "Zavrieť okno prieskumníka">
 
 <!ENTITY inspectorHTMLCopyInner.label       "Kopírovať obsah v značkách HTML">

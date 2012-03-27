@@ -26,6 +26,8 @@
 <!ENTITY newCreateEmailAccountCmd.accesskey "Z">
 <!ENTITY newExistingEmailAccountCmd.label "Existujúci poštový účet…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "E">
+<!ENTITY newIMAccountCmd.label "Účet pre konverzácie…">
+<!ENTITY newIMAccountCmd.accesskey "o">
 <!ENTITY openMessageFileCmd.label "Otvoriť uložené správy…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Prílohy">
@@ -325,6 +327,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.label "Naspäť">
 <!ENTITY goBackCmd.accesskey "s">
 <!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goChatCmd.label "Konverzácie">
+<!ENTITY goChatCmd.accesskey "K">
+<!ENTITY goChatCmd.commandKey "C">
 <!ENTITY prevStarredMsgCmd.label "Správa s hviezdičkou">
 <!ENTITY prevStarredMsgCmd.accesskey "h">
 <!ENTITY folderMenu.label "Priečinok">
@@ -468,6 +473,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addons.accesskey "D">
 <!ENTITY activitymanager.label "Správca činností">
 <!ENTITY activitymanager.accesskey "v">
+<!ENTITY imAccountsStatus.label "Stav pre konverzácie">
+<!ENTITY imAccountsStatus.accesskey "z">
+<!ENTITY imStatus.available          "Prítomný">
+<!ENTITY imStatus.unavailable        "Neprítomný">
+<!ENTITY imStatus.offline            "Offline">
+<!ENTITY imStatus.showAccounts       "Zobraziť účty…">
 <!ENTITY savedFiles.label "Uložené súbory">
 <!ENTITY savedFiles.accesskey "e">
 <!ENTITY savedFiles.key "j">
@@ -521,6 +532,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.label "Spam">
 <!ENTITY notJunkButton.label "Nie Spam">
 <!ENTITY addressBookButton.label "Adresár">
+<!ENTITY chatButton.label "Konverzácie">
 <!ENTITY glodaSearch.title "Globálne vyhľadávanie">
 <!ENTITY searchItem.title "Rýchle vyhľadávanie">
 <!ENTITY mailViewsToolbarItem.title "Zobrazenie e-mailov">
@@ -554,6 +566,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.tooltip "Označiť vybrané správy ako nevyžiadané (SPAM)">
 <!ENTITY notJunkButton.tooltip "Označiť vybrané správy ako Nie Spam">
 <!ENTITY addressBookButton.tooltip "Otvoriť adresár">
+<!ENTITY chatButton.tooltip "Zobraziť kartu Konverzácie">
 <!ENTITY tagButton.tooltip "Priradiť k správe popis">
 <!ENTITY compactButton.tooltip "Odstrániť vymazané správy z označeného priečinka">
 

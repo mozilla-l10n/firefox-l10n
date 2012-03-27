@@ -17,6 +17,8 @@
 <!ENTITY attachFileCmd.label "Súbor…">
 <!ENTITY attachFileCmd.accesskey "S">
 <!ENTITY attachFileCmd.key "A">
+<!ENTITY attachCloudCmd.label "Odkaz na súbor">
+<!ENTITY attachCloudCmd.accesskey "O">
 <!ENTITY attachPageCmd.label "Webovú stránku…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -268,6 +270,14 @@
 <!ENTITY selectAll.accesskey "a">
 <!ENTITY attachFile.label "Priložiť súbor…">
 <!ENTITY attachFile.accesskey "s">
+<!ENTITY attachCloud.label "Odkaz na súbor…">
+<!ENTITY attachCloud.accesskey "O">
+<!ENTITY convertCloud.label "Skonvertovať na…">
+<!ENTITY convertCloud.accesskey "S">
+<!ENTITY cancelUpload.label "Zrušiť odosielanie">
+<!ENTITY cancelUpload.accesskey "Z">
+<!ENTITY convertRegularAttachment.label "Klasická príloha">
+<!ENTITY convertRegularAttachment.accesskey "K">
 <!ENTITY attachPage.label "Priložiť webovú stránku…">
 <!ENTITY attachPage.accesskey "w">
 

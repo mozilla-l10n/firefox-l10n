@@ -6,6 +6,8 @@
 <!ENTITY accountActionsButton.accesskey "c">
 <!ENTITY addMailAccountButton.label "Pridať poštový účet…">
 <!ENTITY addMailAccountButton.accesskey "P">
+<!ENTITY addIMAccountButton.label "Pridať účet pre konverzácie…">
+<!ENTITY addIMAccountButton.accesskey "k">
 <!ENTITY addOtherAccountButton.label "Pridať iný účet…">
 <!ENTITY addOtherAccountButton.accesskey "d">
 <!ENTITY setDefaultButton.label "Nastaviť ako predvolený">
