@@ -22,17 +22,6 @@
 <!ENTITY importButton.accesskey     "I">
 <!ENTITY importButton.commandkey    "i">
 
-<!ENTITY searchInput.tooltip        "Filtrēt stila failus pēc nosaukuma">
-<!ENTITY searchInput.placeholder    "Atrast stila failu">
-
-<!-- LOCALIZATION NOTE  (searchNoResults): This is shown when searching a term
-     that is not found in any stylesheet or stylesheet name. -->
-<!ENTITY searchNoResults.label      "Atbilstošs stila dokuments nav atrasts.">
-
-<!-- LOCALIZATION NOTE  (searchClearButton): This button clears the search input
-     box and is visible only when a search term has been typed. -->
-<!ENTITY searchClearButton.label    "Attīrīt">
-
 <!ENTITY visibilityToggle.tooltip   "Pārslēgt stila faila redzamību">
 <!ENTITY visibilityToggle.accesskey "z">
 
@@ -60,3 +49,7 @@
 <!ENTITY noStyleSheet-tip-action.label "pievienot jaunu stila dokumentu">
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-end.label): End of the tip sentence -->
 <!ENTITY noStyleSheet-tip-end.label    "?">
+
+<!-- LOCALIZATION NOTE  (closeCmd.key): Accel + this key closes the window. -->
+<!ENTITY closeCmd.key                  "W">
+

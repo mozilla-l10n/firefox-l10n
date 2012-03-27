@@ -43,7 +43,6 @@
 <!ENTITY connectionSettings.label "Iestatījumi...">
 <!ENTITY connectionSettings.accesskey "e">
 
-<!ENTITY offlineStorage.label "Nesaistes glabātuve">
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
@@ -53,6 +52,11 @@
 
 <!ENTITY clearCacheNow.label "Iztīrīt">
 <!ENTITY clearCacheNow.accesskey "I">
+<!ENTITY clearOfflineAppCacheNow.label   "Iztīrīt">
+<!ENTITY clearOfflineAppCacheNow.accesskey "z">
+
+<!ENTITY httpCache.label                 "Saglabātais tīmekļa saturs">
+<!ENTITY offlineStorage2.label           "Nesaistes tīmekļa saturs un lietotāja dati">
 
 <!ENTITY updateTab.label "Atjaunināt">
 <!ENTITY submitCrashes.label             "Nosūtīt avārijas ziņojumus">
@@ -85,7 +89,7 @@
 <!ENTITY offlineNotifyExceptions.label "Izņēmumi...">
 <!ENTITY offlineNotifyExceptions.accesskey "z">
 
-<!ENTITY offlineAppsList.label "Šīm mājas lapām ir dati izmantošanai nesaistē:">
+<!ENTITY offlineAppsList2.label "Šīm mājas lapām ir atļauts glabāt datus izmantošanai nesaistē:">
 <!ENTITY offlineAppsList.height "7em">
 <!ENTITY offlineAppsListRemove.label "Aizvākt...">
 <!ENTITY offlineAppsListRemove.accesskey "A">
