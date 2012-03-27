@@ -12,7 +12,7 @@
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "Server">
-<!ENTITY serverType.main.label      "Server služby &syncBrand.fullName.label;">
+<!ENTITY serverType.default.label      "Predvolený: server Mozilla &syncBrand.fullName.label;">
 <!ENTITY serverType.custom2.label   "Použiť vlastný server…">
 <!ENTITY signIn.account2.label      "Účet">
 <!ENTITY signIn.account2.accesskey  "e">

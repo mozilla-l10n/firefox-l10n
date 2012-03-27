@@ -7,6 +7,7 @@
 <!ENTITY paneGeneral.title        "Všeobecné">
 <!ENTITY paneDisplay.title        "Zobrazenie">
 <!ENTITY paneComposition.title    "Písanie správ">
+<!ENTITY paneChat.title           "Konverzácie">
 <!ENTITY paneAttachments.title    "Prílohy">
 <!ENTITY paneSecurity.title       "Bezpečnosť">
 <!ENTITY paneAdvanced.title       "Spresnenie">

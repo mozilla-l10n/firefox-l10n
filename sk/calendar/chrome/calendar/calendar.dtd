@@ -64,7 +64,7 @@
 <!ENTITY calendar.events.filter.today.label             "Dnešné udalosti">
 <!ENTITY calendar.events.filter.future.label            "Všetky budúce udalosti">
 <!ENTITY calendar.events.filter.current.label           "Udalosti práve vybraného dňa">
-<!ENTITY calender.events.filter.currentview.label "Udalosti v aktuálnom zobrazení">
+<!ENTITY calendar.events.filter.currentview.label "Udalosti v aktuálnom zobrazení">
 <!ENTITY calendar.events.filter.next7Days.label         "Udalosti za posledných 7 dní">
 <!ENTITY calendar.events.filter.next14Days.label        "Udalosti za posledných 14 dní">
 <!ENTITY calendar.events.filter.next31Days.label        "Udalosti za posledných 31 dní">
@@ -254,6 +254,9 @@
 <!ENTITY calendar.context.postpone.1day.accesskey   "O">
 <!ENTITY calendar.context.postpone.1week.label      "O jeden týždeň">
 <!ENTITY calendar.context.postpone.1week.accesskey  "d">
+
+<!ENTITY calendar.copylink.label       "Kopírovať adresu odkazu">
+<!ENTITY calendar.copylink.accesskey   "K">
 
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
