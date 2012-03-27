@@ -65,11 +65,8 @@
 <!ENTITY  privateBrowsingPermanent2.label "Natrvalo zapnúť režim Súkromné prehliadanie">
 <!ENTITY  privateBrowsingPermanent2.accesskey "a">
 
-<!ENTITY  rememberHistory.label      "Uchovávať históriu prehliadania">
-<!ENTITY  rememberHistory.accesskey  "h">
-
-<!ENTITY  rememberDownload.label        "Pamätať si informácie o prevzatých súboroch">
-<!ENTITY  rememberDownload.accesskey    "z">
+<!ENTITY  rememberHistory2.label      "Pamätať si históriu prehliadania a prevzatých súborov">
+<!ENTITY  rememberHistory2.accesskey  "h">
 
 <!ENTITY  rememberSearchForm.label       "Pamätať si údaje zadané do formulárov a vyhľadávacieho panela">
 <!ENTITY  rememberSearchForm.accesskey   "f">

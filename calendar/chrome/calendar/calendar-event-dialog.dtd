@@ -148,8 +148,8 @@
 <!ENTITY  event.menu.options.inline.spellcheck.accesskey  "A">
 <!ENTITY  event.menu.options.link.label                   "Pridať odkaz…">
 <!ENTITY  event.menu.options.link.accesskey               "o">
-<!ENTITY  event.menu.options.timezone.label               "Časové pásmo">
-<!ENTITY  event.menu.options.timezone.accesskey           "a">
+<!ENTITY  event.menu.options.timezone2.label              "Zobraziť časové pásma">
+<!ENTITY  event.menu.options.timezone2.accesskey          "a">
 <!ENTITY  event.menu.options.priority2.label              "Priorita">
 <!ENTITY  event.menu.options.priority2.accesskey          "r">
 <!ENTITY  event.menu.options.priority.notspecified.label      "Neurčená">
@@ -372,6 +372,7 @@
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Spresnite časové pásmo">
+<!ENTITY event.timezone.custom.label     "Ďalšie časové pásma…">
 
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Všeobecné">

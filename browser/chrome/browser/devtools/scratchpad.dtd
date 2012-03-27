@@ -43,50 +43,6 @@
 <!ENTITY editMenu.label               "Upraviť">
 <!ENTITY editMenu.accesskey           "U">
 
-<!ENTITY undoCmd.label                "Späť">
-<!ENTITY undoCmd.key                  "Z">
-<!ENTITY undoCmd.accesskey            "S">
-
-<!ENTITY redoCmd.label                "Znova">
-<!ENTITY redoCmd.key                  "Y">
-<!ENTITY redoCmd.accesskey            "Z">
-
-<!ENTITY cutCmd.label                 "Vystrihnúť">
-<!ENTITY cutCmd.key                   "X">
-<!ENTITY cutCmd.accesskey             "V">
-
-<!ENTITY copyCmd.label                "Kopírovať">
-<!ENTITY copyCmd.key                  "C">
-<!ENTITY copyCmd.accesskey            "K">
-
-<!ENTITY pasteCmd.label               "Prilepiť">
-<!ENTITY pasteCmd.key                 "P">
-<!ENTITY pasteCmd.accesskey           "P">
-
-<!ENTITY selectAllCmd.label           "Vybrať všetko">
-<!ENTITY selectAllCmd.key             "A">
-<!ENTITY selectAllCmd.accesskey       "a">
-
-<!ENTITY gotoLineCmd.label            "Prejsť na riadok…">
-<!ENTITY gotoLineCmd.key              "J">
-<!ENTITY gotoLineCmd.accesskey        "r">
-
-<!ENTITY findCmd.label                "Hľadať…">
-<!ENTITY findCmd.key                  "F">
-<!ENTITY findCmd.accesskey            "H">
-
-<!ENTITY findAgainCmd.label           "Hľadať znova…">
-<!-- LOCALIZATION NOTE (findAgainCmd.key): This key is used only on Macs.
-  -  Windows and Linux builds use the F3 key which is not localizable on purpose.
-  -->
-<!ENTITY findAgainCmd.key             "G">
-<!ENTITY findAgainCmd.accesskey       "n">
-<!-- LOCALIZATION NOTE (findPreviousCmd.key): This key is used only on Macs.
-  -  Windows and Linux builds use the Shift-F3 key which is not localizable on
-  -  purpose.
-  -->
-<!ENTITY findPreviousCmd.key          "G">
-
 <!ENTITY run.label                    "Spustiť">
 <!ENTITY run.accesskey                "S">
 <!ENTITY run.key                      "r">
@@ -120,6 +76,18 @@
   -->
 <!ENTITY browserContext.label         "Prehliadač">
 <!ENTITY browserContext.accesskey     "P">
+
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+  -  for the help button in the menubar but Gnome does not.
+  -->
+<!ENTITY helpMenu.label               "Pomocník">
+<!ENTITY helpMenu.accesskey           "P">
+<!ENTITY helpMenuWin.label            "Pomocník">
+<!ENTITY helpMenuWin.accesskey        "P">
+
+<!ENTITY documentationLink.label      "Pomocník pre Scratchpad na stránke MDN">
+<!ENTITY documentationLink.accesskey  "P">
+
 
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
