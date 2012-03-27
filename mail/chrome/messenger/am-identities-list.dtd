@@ -5,3 +5,5 @@
 <!ENTITY identitiesListEdit.accesskey "P">
 <!ENTITY identitiesListDelete.label "Fshije">
 <!ENTITY identitiesListDelete.accesskey "F">
+<!ENTITY identitiesListClose.label "Mbylle">
+<!ENTITY identitiesListClose.accesskey "M">

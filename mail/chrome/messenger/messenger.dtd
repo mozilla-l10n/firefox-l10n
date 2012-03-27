@@ -27,6 +27,8 @@
 <!ENTITY newCreateEmailAccountCmd.accesskey "H">
 <!ENTITY newExistingEmailAccountCmd.label "Llogari Poste Ekzistuese…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "E">
+<!ENTITY newIMAccountCmd.label "Llogari Fjalosjeje…">
+<!ENTITY newIMAccountCmd.accesskey "F">
 <!ENTITY openMessageFileCmd.label "Hapni Mesazh të Ruajtur…">
 <!ENTITY openMessageFileCmd.accesskey "H">
 <!ENTITY openAttachmentCmd.label "Bashkangjitje">
@@ -331,6 +333,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.label "Mbrapsht">
 <!ENTITY goBackCmd.accesskey "B">
 <!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goChatCmd.label "Fjalosje">
+<!ENTITY goChatCmd.accesskey "F">
+<!ENTITY goChatCmd.commandKey "C">
 <!ENTITY prevStarredMsgCmd.label "Mesazh Me Yllkë">
 <!ENTITY prevStarredMsgCmd.accesskey "Y">
 <!ENTITY folderMenu.label "Dosje">
@@ -463,7 +468,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY windowMenu.label "Dritare">
 
 <!-- Tools Menu -->
-<!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Mjete">
 <!ENTITY tasksMenu.accesskey "M">
 <!ENTITY messengerCmd.label "Postë &amp; Grupe Lajmesh">
@@ -475,6 +479,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addons.accesskey "S">
 <!ENTITY activitymanager.label "Përgjegjës Veprimtarie">
 <!ENTITY activitymanager.accesskey "P">
+
+<!ENTITY imAccountsStatus.label "Gjendje fjalosjeje">
+<!ENTITY imAccountsStatus.accesskey "G">
+<!ENTITY imStatus.available          "I gatshëm">
+<!ENTITY imStatus.unavailable        "Jo i gatshëm">
+<!ENTITY imStatus.offline            "Jo në linjë">
+<!ENTITY imStatus.showAccounts       "Shfaq Llogari…">
 <!ENTITY savedFiles.label "Kartela të ruajtura">
 <!ENTITY savedFiles.accesskey "l">
 <!ENTITY savedFiles.key "j">
@@ -510,7 +521,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fileButton.label "Kartelë">
 <!ENTITY archiveButton.label "Arkivë">
 <!ENTITY nextButton.label "Pasuesi">
+<!ENTITY nextButtonToolbarItem.label "I palexuari Pasues">
+<!ENTITY nextMsgButton.label "Pasuesi">
 <!ENTITY previousButton.label "I mëparshmi">
+<!ENTITY previousButtonToolbarItem.label "I palexuari i Mëparshëm">
+<!ENTITY previousMsgButton.label "I mëparshmi">
 <!ENTITY backButton1.label "Mbrapsht">
 <!ENTITY goForwardButton1.label "Përpara">
 <!ENTITY deleteItem.title "Fshirje">
@@ -524,6 +539,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.label "E pavlerë">
 <!ENTITY notJunkButton.label "Jo e Pavlerë">
 <!ENTITY addressBookButton.label "Libër Adresash">
+<!ENTITY chatButton.label "Fjalosje">
 <!ENTITY glodaSearch.title "Kërkim Global">
 <!ENTITY searchItem.title "Kërkim i Shpejtë">
 <!ENTITY mailViewsToolbarItem.title "Shfaqje Poste">
@@ -544,7 +560,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fileButton.tooltip "Skedojeni mesazhin e përzgjedhur">
 <!ENTITY archiveButton.tooltip "Mesazhe të përzgjedhur në arkivë">
 <!ENTITY nextButton.tooltip "Kaloni te mesazhi i palexuar pasues">
+<!ENTITY nextMsgButton.tooltip "Kaloni te mesazhi pasues">
 <!ENTITY previousButton.tooltip "Kaloni te mesazhi i mëparshëm i palexuar">
+<!ENTITY previousMsgButton.tooltip "Kaloni te mesazhi i mëparshëm">
 <!ENTITY goForwardButton.tooltip "Kaloni një mesazh para">
 <!ENTITY goBackButton.tooltip "Kaloni një mesazh prapa">
 <!ENTITY deleteButton.tooltip "Fshini mesazhet ose dosjet e përzgjedhur">
@@ -555,6 +573,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.tooltip "Mesazhet e përzgjedhur shënojini si të pavlera">
 <!ENTITY notJunkButton.tooltip "Mesazhet e përzgjedhur shënojini si jo të pavlera">
 <!ENTITY addressBookButton.tooltip "Shkoni te libri i adresave">
+<!ENTITY chatButton.tooltip "Shfaq skedën e Fjalosjeve">
 <!ENTITY tagButton.tooltip "Etiketoni mesazhe">
 <!ENTITY compactButton.tooltip "Hiqini mesazhet e fshirë prej dosjes së përzgjedhur">
 
@@ -784,28 +803,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      not changed 
      -->
 <!ENTITY quickSearchCmd.key "k">
-<!-- LOCALIZATION NOTE (searchAllMessages.label.base):
+<!-- LOCALIZATION NOTE (search.label.base):
      This is the base of the empty text for the global search box.  We replace
-     #1 with the contents of the appropriate
-     searchAllMessages.keyLabel2.* value for the platform.
+     #1 with the contents of the appropriate search.keyLabel.* value for the
+     platform.
      The goal is to convey to the user that typing in the box will allow them
      to search for messages globally and that there is a hotkey they can press
      to get to the box faster.  If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
      -->
-<!ENTITY searchAllMessages.label.base "Kërkoni në tërë mesazhet… #1">
-<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.nonmac):
+<!ENTITY search.label.base "Kërkoni… #1">
+<!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key).  We use the key defined in
      the quickSearchCmd.key entity defined above, the letter should match it.
      -->
-<!ENTITY searchAllMessages.keyLabel2.nonmac "&lt;Ctrl+K&gt;">
-<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.mac):
+<!ENTITY search.keyLabel.nonmac "&lt;Ctrl+K&gt;">
+<!-- LOCALIZATION NOTE (search.keyLabel.mac):
      The description of the key-binding to get into the global search box on mac
      systems.  We use the key defined in the quickSearchCmd.key entity defined
      above, the letter should match it.
      -->
-<!ENTITY searchAllMessages.keyLabel2.mac "&lt;&#x2318;K&gt;">
+<!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Shtoni te Libër Adresash…">
