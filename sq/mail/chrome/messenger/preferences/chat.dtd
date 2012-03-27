@@ -1,0 +1,20 @@
+<!ENTITY  startupAction.label         "Kur niset &brandShortName;-i:">
+<!ENTITY  startupAction.accesskey     "K">
+<!ENTITY  startupOffline.label        "Mbaji jashtë linje llogaritë e mia të fjalosjeve">
+<!ENTITY  startupConnectAuto.label    "Bëje vetvetiu lidhjen e llogarive të mia të fjalosjeve">
+
+<!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
+there's a field where the user can enter a number, and itemTime is
+displayed at the end of the line. The translations of the
+reportIdleAfter.label and idleTime parts don't have to mean the exact
+same thing as in English; please try instead to translate the whole
+sentence. -->
+<!ENTITY  reportIdleAfter.label         "Lejoju kontakteve të mi të shohin se jam i plogësht pas">
+<!ENTITY  reportIdleAfter.accesskey     "L">
+<!ENTITY  idleTime                      "minutash pa veprimtari">
+
+<!ENTITY  andSetStatusToAway.label      "dhe gjendjen time kaloje si i Larguar dhe me këtë mesazh gjendjeje:">
+<!ENTITY  andSetStatusToAway.accesskey  "d">
+
+<!ENTITY  sendTyping.label              "Dërgo gjatë bashkëbisedimeve njoftime lidhur me shtypje në tastierë">
+<!ENTITY  sendTyping.accesskey          "ë">
