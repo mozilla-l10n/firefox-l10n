@@ -482,6 +482,7 @@
 <!ENTITY deleteJunk.accesskey              "e">
 <!ENTITY errorConsoleCmd.label             "Konsola błędów">
 <!ENTITY errorConsoleCmd.accesskey         "s">
+<!ENTITY errorConsoleCmd.commandkey "K">
 <!ENTITY filtersCmd.label                  "Filtrowanie wiadomości…">
 <!ENTITY filtersCmd.accesskey              "F">
 <!ENTITY filtersApply.label                "Zastosuj filtry w bieżącym folderze">
