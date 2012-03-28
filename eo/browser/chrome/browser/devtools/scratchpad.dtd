@@ -26,15 +26,15 @@
 <!ENTITY newWindowCmd.commandkey      "n">
 
 <!ENTITY openFileCmd.label            "Malfermi dosieron…">
-<!ENTITY openFileCmd.accesskey        "O">
+<!ENTITY openFileCmd.accesskey        "M">
 <!ENTITY openFileCmd.commandkey       "o">
 
 <!ENTITY saveFileCmd.label            "Konservi">
-<!ENTITY saveFileCmd.accesskey        "S">
+<!ENTITY saveFileCmd.accesskey        "K">
 <!ENTITY saveFileCmd.commandkey       "s">
 
 <!ENTITY saveFileAsCmd.label          "Konservi kiel…">
-<!ENTITY saveFileAsCmd.accesskey      "A">
+<!ENTITY saveFileAsCmd.accesskey      "o">
 
 <!ENTITY closeCmd.label               "Fermi">
 <!ENTITY closeCmd.key                 "W">
