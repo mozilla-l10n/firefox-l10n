@@ -135,13 +135,13 @@
 <!ENTITY exceptionMgr.title                   "Aldoni sekurecan escepton">
 <!ENTITY exceptionMgr.exceptionButton.label   "Konfirmi sekurecan escepton">
 <!ENTITY exceptionMgr.exceptionButton.accesskey "K">
-<!ENTITY exceptionMgr.supplementalWarning     "Legitimaj bankoj, vendejoj kaj aliaj publikaj retejoj ne peto al vi fari ĉi tion.">
+<!ENTITY exceptionMgr.supplementalWarning     "Legitimaj bankoj, vendejoj kaj aliaj publikaj retejoj ne petos al vi fari ĉi tion.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Servilo">
 <!ENTITY exceptionMgr.certlocation.url        "Retadreso:">
 <!ENTITY exceptionMgr.certlocation.download   "Ricevi atestilon">
-<!ENTITY exceptionMgr.certlocation.accesskey  "G">
+<!ENTITY exceptionMgr.certlocation.accesskey  "R">
 <!ENTITY exceptionMgr.certstatus.caption      "Stato de atestilo">
 <!ENTITY exceptionMgr.certstatus.viewCert     "Vidi…">
 <!ENTITY exceptionMgr.certstatus.accesskey    "V">
-<!ENTITY exceptionMgr.permanent.label         "Konstate konservi ĉi tiun escepton">
+<!ENTITY exceptionMgr.permanent.label         "Konstante konservi ĉi tiun escepton">
 <!ENTITY exceptionMgr.permanent.accesskey     "K">
