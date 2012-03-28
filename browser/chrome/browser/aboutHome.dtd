@@ -2,8 +2,6 @@
 %brandDTD;
 <!ENTITY abouthome.pageTitle "Páxina d'aniciu de &brandFullName;">
 <!ENTITY abouthome.searchEngineButton.label "Guetar">
-<!ENTITY abouthome.aboutMozilla "Tocante a Mozilla">
+
 <!ENTITY abouthome.defaultSnippet1.v1 "¡Gracies por escoyer Firefox! Pa conseguir lo máximo del restolador, conoz más tocante a les <a>caberes carauterístiques</a>.">
 <!ENTITY abouthome.defaultSnippet2.v1 "Personalizar Firefox exautamente como tu quies, ye bien cenciello. <a>Escueyi ente milenta complementos</a>.">
-<!ENTITY abouthome.syncSetup.label "Configurar Sync">
-<!ENTITY abouthome.pairDevice.label "Emparexar un preséu">
