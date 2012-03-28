@@ -1,5 +1,6 @@
 
-<!ENTITY  splash_firstrun "Ställer in &brandShortName;…">
+<!ENTITY  splash_settingup "Ställer in &brandShortName;">
+<!ENTITY  splash_bookmarks_history "Vi uppdaterar dina bokmärken och din historik, vilket ta någon minut.">
 
 <!ENTITY  no_space_to_start_error "Det saknas utrymme för &brandShortName; att starta.">
 <!ENTITY  error_loading_file "Ett fel uppstod vid inläsning av filer som krävs för att köra &brandShortName;">
